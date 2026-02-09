@@ -1,0 +1,45 @@
+DECISÃO: Trata-se de embargos de declaração (eDOC 286) contra decisão monocrática que deu provimento ao recurso extraordinário para  afastar a possibilidade de restituição administrativa na hipótese.
+Em suas razões, a parte sustenta que o crédito objeto do pedido de restituição não foi reconhecido judicialmente. Aduz que se trata de multa administrativa recolhida a maior pela Superintendência Regional do Trabalho e Emprego no Estado de São Paulo, cuja restituição foi deferida na via administrativa pela Receita Federal do Brasil.
+Defende que a discussão dos autos refere-se a afastamento da retenção ilegítima do crédito reconhecido administrativamente em favor da parte embargante, em razão da existência de débitos com a exigibilidade suspensa em sua situação fiscal ou de débitos já quitados, para fins de compensação de ofício pelo Fisco.
+Alega que essa discussão foi objeto do Tema 874, no âmbito da repercussão geral, no qual o Plenário deste Tribunal firmou a tese de que é  inconstitucional, por afronta ao art. 146, III, b, da CF, a expressão “ou parcelados sem garantia”, constante do parágrafo único do art. 73, da Lei  9.430/96, incluído pela Lei 12.844/13, na medida em que retira os efeitos da suspensão da exigibilidade do crédito tributário prevista no CTN.
+Afirma que o Tribunal de origem afastou o ato ilegal do Fisco de reter crédito já reconhecido administrativamente muito antes da impetração em favor da parte embargante e em processo de restituição na via administrativa, em face de débitos com a exigibilidade suspensa, em razão da discordância com a compensação de ofício.
+Afirma que a restituição administrativa já existia antes da impetração do presente mandamus, não decorrendo de sentença concessiva da segurança.
+Intimada, a parte embargada não apresentou contrarrazões, conforme certidão constante no eDOC 291.
+É o relatório.
+
+Assiste razão à parte embargante.
+Nesses termos, reconsidero a decisão embargada (eDOC 285) e passo a novo julgamento do recurso.
+
+Trata-se de recurso extraordinário em face de acórdão proferido pelo Tribunal Regional Federal da 2ª Região, cujo trecho da ementa transcrevo:
+
+“TRIBUTÁRIO. APELAÇÃO DA IMPETRANTE. RESTITUIÇÃO ADMINISTRATIVA DEFERIDA. COMPENSAÇÃO DE OFÍCIO. DÉBITOS CONSTITUÍDOS UM ANO APÓS A IMPETRAÇÃO E DE PEQUENO VALOR. DEMORA NA FINALIZAÇÃO DO PROCEDIMENTO DE RESTITUIÇÃO. DIREITO SUBJETIVO DO CONTRIBUINTE. INTERESSE PÚBLCO DA ADMINISTRAÇÃO. PROVIMENTO PARCIAL (...)”. (eDOC 106, p. 5)
+
+No recurso extraordinário, interposto com fundamento no art. 102, III, a, da Constituição Federal, aponta-se violação aos arts. 97; 100; e 103-A do texto constitucional.
+Nas razões recursais, sustenta-se o afastamento do direito da parte recorrida à restituição administrativa do indébito, tendo em vista a afronta ao regime dos precatórios.
+Alega-se a impossibilidade da restituição administrativa de indébito tributário reconhecido na via judicial, ainda que em mandado de segurança e mediante decisão judicial com trânsito em julgado.
+Argumenta-se que o art. 100 da Constituição Federal determina que pagamentos devidos pela Fazenda Pública, em virtude de sentença judicial, devem ser efetivados exclusivamente de acordo com ordem cronológica de apresentação dos precatórios.
+Alega-se que não se admite o mandado de segurança como ação de cobrança, especialmente quanto à devolução administrativa de valores pretéritos. Afirma-se a possibilidade apenas de o contribuinte optar pela compensação administrativa do crédito tributário, inclusive o que tenha sido reconhecido judicialmente.
+Posteriormente, o Tribunal de origem negou juízo de retratação nos seguintes termos:
+
+“TRIBUTÁRIO. MANDADO DE SEGURANÇA. DESNECESSIDADE DE COMPATIBILIZAÇÃO DOACÓRDÃO RECORRIDO A TESE FIXADA NO TEMA Nº 1.262 DO STF. QUESTAO DISCUTIDANOS AUTOS REFERENTE AO TEMA Nº 874, DO STF. JUÍZO DE RETRATAÇÃO NÃO EXERCIDO.
+1. COMPANHIA ULTRAGAS S/A interpôs recurso de apelação em face de sentença proferida pelo Juízo da 7ª Vara Federal do Rio de Janeiro nos autos do Mandado de Segurança impetrado contra ato do DELEGADO DA DELEGACIA ESPECIAL DE MAIORES CONTRIBUINTES NO RIO DE JANEIRO – DEMAC que tem como finalidade a concessão da segurança para determinar à Autoridade Coatora que se abstenha de reter o valor do crédito reconhecido em seu favor no processo administrativo nº 13981.720148/2018-47, pela existência de débitos com a exigibilidade suspensa em sua situação fiscal ou de débitos já quitados, de sorte a prosseguir com o regular procedimento administrativo de restituição da integralidade do crédito já reconhecido em favor da Impetrante, efetuando o pagamento em espécie, mediante depósito em conta corrente da Impetrante, acrescido de correção monetária.
+2. O Juízo a quo denegou a segurança sob o argumento de que “a jurisprudência do STJ admite a legalidade dos procedimentos de compensação de ofício, desde que os créditos tributários em que foi imputada a compensação não estejam com sua exigibilidade suspensa em razão do ingresso em algum programa de parcelamento, ou outra forma de suspensão da exigibilidade prevista no art.151, do CTN”.
+3. Mediante análise do julgado desta Terceira Turma Especializada, verifica-se que o acórdão recorrido não divergiu da tese firmada no Tema nº 1262, do STF.
+4. Conforme devidamente explicitado no voto condutor, não se está deferindo nesta demanda restituição administrativa de crédito reconhecido judicialmente, até porque este não é o objeto da demanda.
+5. Na presente demanda discute-se a finalização do processo administrativo nº13981.720148/2018-47 em trâmite perante a Secretaria da Receita Federal do Brasil, sendo determinado, em grau de apelação, que a autoridade coatora finalize o procedimento de restituição do valor apurado nos autos do procedimento administrativo nº 13981.720148/2018-47, fazendo acompensação de ofício dos débitos relacionados em suas informações, efetuando o pagamento em espécie, mediante depósito em conta corrente da Impetrante, com a devida correção monetária, no prazo de 90 (noventa) dias.
+6. Deste modo, a questão discutida nesta lide refere-se à tese fixada no Tema nº 874, do STF.7. Juízo de Retratação não exercido”. (eDOC 237, p. 1)
+Decido.
+Na hipótese, a parte recorrente sustenta a impossibilidade da restituição administrativa de indébito tributário reconhecido na via judicial, ainda que em mandado de segurança e mediante decisão judicial com trânsito em julgado.
+Entretanto, a hipótese dos autos não trata de restituição administrativa de crédito reconhecido judicialmente. Com efeito, o Tribunal do origem aplicou à hipótese o entendimento firmado por esta Corte no Tema 874, determinando o prosseguimento do procedimento administrativo de restituição, assentando a impossibilidade de a parte recorrente “se valer de créditos com exigibilidade suspensa para deixar de fazê-lo, nem postergar de maneira indefinida, sob o argumento de falta de dotação orçamentária”. (eDOC 106, p. 5)
+Nesse contexto, verifico que a recorrente não demonstrou de que forma o acórdão recorrido teria afrontado a Constituição Federal, tendo em vista que suas razões estão dissociadas da matéria versada no acórdão impugnado.
+Registre-se que é necessária, para a admissão do recurso extraordinário, a demonstração efetiva de ofensa à Constituição Federal, o que não ocorreu no caso dos autos, motivo pelo qual incide, na hipótese, a Súmula 284 do STF.  Nesse sentido, o atual Código de Processo Civil de 2015, em seu art. 932, III, confirmando a jurisprudência firmada anteriormente por esta Corte, assentou a possibilidade de o relator não conhecer de recurso que não tenha impugnado especificamente os fundamentos da decisão recorrida (art. 929, III).
+Ainda que superado esse óbice, registro que esta Corte, no julgamento do RE-RG 917.285 (tema 874), no âmbito da repercussão geral, afastou a possibilidade de o Fisco, aproveitando o ensejo da restituição ou do ressarcimento de tributos administrados pela Secretaria da Receita Federal do Brasil, proceder à compensação, de ofício, com débitos não parcelados ou parcelados sem garantia.
+Nesse contexto, verifico que a instância a quo decidiu de acordo com a jurisprudência desta Corte, tendo em vista que determinou à autoridade coatora que finalizasse a restituição do valor apurado nos autos do procedimento administrativo, fazendo a compensação de ofício dos débitos “desde que os créditos tributários em que foi imputada a compensação não estejam com sua exigibilidade suspensa em razão do ingresso em algum programa de parcelamento, ou outra forma de suspensão da exigibilidade prevista no art.151, do CTN”.
+Ante o exposto, reconsidero a decisão embargada (eDOC 285), nego seguimento ao recurso (artigo 932, VIII, do CPC, c/c art. 21, §1º, do RISTF) e, tendo em vista tratar-se de mandado de segurança na origem, deixo de aplicar o disposto no § 11 do art. 85 do CPC, em virtude do art. 25 da Lei 12.016/2009.
+
+Publique-se.
+Brasília, 9 de fevereiro de 2026.
+
+Ministro GILMAR MENDES
+Relator
+Documento assinado digitalmente
