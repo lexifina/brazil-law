@@ -1,0 +1,33 @@
+DECISÃO: Trata-se de agravo interposto contra decisão de inadmissibilidade do recurso extraordinário, com base no art. 102, III, “a”, da Constituição Federal, apresentado por Mariângela Alves Ferraz, em face do acórdão da Turma Recursal do Grupo Jurisdicional de Ubá, do Tribunal de Justiça do Estado de Minas Gerais assim ementado:
+
+“RECURSO INOMINADO - ADICIONAL DE INSALUBRIDADE - AUSÊNCIA DE REGULAMENTAÇÃO - IMPOSSIBILIDADE DE VIOLAÇÃO AO PRINCÍPIO DA SEPARAÇÃO DOS PODERES - VALOR NÃO DEVIDO” (Recurso Inominado Cível nº 5000470-77.2023.8.13.0720, Turma Recursal do Grupo Jurisdicional de Ubá, Juiza de Direito Cristiane Mello Coelho Gasparoni, j. 10.10.2023)
+
+Na minuta, sustenta-se violação do art. 198, §§ 4º, 5º e 10, da Constituição da República, bem como da Súmula Vinculante nº 4.
+É o relatório.
+Decido.
+O recurso não comporta provimento.
+A controvérsia dos autos diz respeito à base de cálculo utilizada para o cálculo do adicional de insalubridade de servidor público municipal. O recorrente requer seja utilizado o vencimento básico, em detrimento do salário-mínimo, este previsto na legislação municipal. Colhe-se do acórdão recorrido o seguinte:
+
+“A recorrente é servidora pública do Município e, realmente, trabalha em ambiente insalubre, tanto que o recorrido paga valores a título de adicional de insalubridade há algum tempo, conforme documentos juntados aos autos.
+A Lei Complementar Municipal n. 36/2014 inegavelmente garante ao servidor o direito àquele adicional. Mas, “a concessão dos adicionais de insalubridade, periculosidade e penalidade será objeto de lei municipal, que fixará as condições de exercício, percentual e critérios de pagamento e controle, observadas as situações previstas em legislação específica.”, conforme dispõe seu art. 80. Isso quer dizer que àquele direito genericamente reconhecido prende-se a necessidade de respectiva regulamentação, que ainda não ocorreu.
+Não pode o Poder Judiciário imiscuir-se num juízo de conveniência e oportunidade da Administração Pública municipal, se esta opta por não regulamentar o tema por ora. Essa discricionariedade regulamentar não consubstancia hiato, ilegalidade ou inconstitucionalidade que dê azo à intervenção judicial que, se houvesse, estaria a afrontar o princípio magno da separação dos Poderes.
+Destaca-se que, o fato de o Município recorrido, de fato, efetuar o pagamento do adicional de insalubridade à recorrente, não significa ter regulamentado tacitamente a matéria. Nessas hipóteses, tem a jurisprudência enxergado tais pagamentos como mera liberalidade, que não os torna exigíveis, ainda mais judicialmente.
+Conclui-se que, não havendo regulamentação expressa na legislação municipal sobre as condições de pagamento do adicional de insalubridade, descabe a pretensão de seu pagamento, não sendo dado ao Poder Judiciário alterar a forma de pagamento de vencimentos de servidor ou de estabelecer o percentual devido, quando inexistente regulamento a respeito. Eventual pagamento a tal título que tenha sido feito pelo Município não significa outra coisa que não liberalidade não-vinculativa.
+Registre-se que não há que se falar em ofensa à Súmula Vinculante nº 04, STF, vez que não há regulamentação quanto ao percentual como acima esclarecido.
+Com as razões expostas, nego provimento ao recurso, mantendo a sentença tal como lançada.
+Condeno a recorrente no pagamento das custas processuais e em honorários advocatícios, que fixo em 10% (dez por cento) sobre o valor da causa, suspendendo a exigibilidade por estar sob o pálio da justiça gratuita.” (grifo nosso)
+
+Ressai, portanto, que o Tribunal de origem decidiu a controvérsia com fundamento na legislação infraconstitucional local aplicável à espécie e no conjunto fático-probatório dos autos, cuja análise ou reexame se revelam inviáveis em sede de recurso extraordinário. Aplicação das Súmulas 279 e 280 do STF: “para simples reexame de prova não cabe recurso extraordinário” e “por ofensa a direito local não cabe recurso extraordinário”. Nesse sentido:
+
+“Agravo regimental no recurso extraordinário com agravo. 2. Direito Administrativo. 3. Servidor público municipal. Agente comunitário de combate a endemias. Adicional de insalubridade. Base de cálculo. 4. Matéria infraconstitucional. Ofensa reflexa à Constituição Federal. Necessidade de reexame do acervo probatório. Súmulas 279 e 280 do STF. Precedentes. 5. Não incidência do tema 1132 da sistemática da repercussão geral. Distinguish. 6. Impossibilidade de o Poder Judiciário atuar como legislador positivo e alterar a base de cálculo por meio de decisão judicial. 7. Negado provimento ao agravo regimental.” (ARE 1492525 AgR, Rel. Min. Gilmar Mendes, Segunda Turma, DJe 27.9.2024)
+“Direito Administrativo. Agravo interno em recurso extraordinário com agravo. Servidor público. Adicional de insalubridade. Base de cálculo prevista em lei estadual. Incidência das Súmulas 279 e 280/STF. I. Caso em exame 1. Agravo interno contra decisão que negou seguimento a recurso extraordinário com agravo, o qual tem por objeto acórdão que manteve sentença de procedência do pedido. II. Questão em discussão 2. Preenchimento dos pressupostos de admissibilidade do recurso extraordinário com agravo. III. Razão de decidir 3. A petição de agravo não trouxe novos argumentos aptos a desconstituir a decisão agravada, a qual deve ser mantida pelos seus próprios fundamentos. 4. Hipótese em que, para dissentir do entendimento firmado na origem, seria necessário analisar a legislação infraconstitucional local aplicada ao caso, assim como reexaminar fatos e provas constantes dos autos, procedimentos vedados neste momento processual. Incidência das Súmulas 279 e 280/STF. IV. Dispositivo 5. Nos termos do art. 85, § 11, do CPC/2015, fica majorado em 10% o valor da verba honorária fixada anteriormente, observados os limites legais do art. 85, §§ 2º e 3º, do CPC/2015 e a eventual concessão de justiça gratuita. 6. Agravo interno a que se nega provimento, com a aplicação da multa de 1% (um por cento) sobre o valor atualizado da causa, nos termos do art. 1.021, § 4°, do CPC/2015.” (ARE 1.504.782 AgR, Rel. Min. Luís Roberto Barroso, Tribunal Pleno, DJe 2.9.2024)
+
+Diante do exposto, com base no art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal, nego seguimento ao recurso.
+Havendo prévia fixação de honorários advocatícios pelas instâncias de origem, seu valor monetário será majorado em 10% (dez por cento) em desfavor da parte recorrente, nos termos do art. 85, § 11, do Código de Processo Civil, observados os limites dos §§ 2º e 3º do referido artigo e a eventual concessão de justiça gratuita.
+Publique-se.
+
+Brasília, 10 de fevereiro de 2026.
+
+Ministro FLÁVIO DINO
+Relator
+Documento assinado digitalmente
