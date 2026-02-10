@@ -1,0 +1,50 @@
+DECISÃO
+
+Trata-se de Execução Penal autuada em face de LUCAS COSTA BRASILEIRO, julgada procedente, para CONDENAR O RÉU à pena de 14 (quatorze) anos, dos quais 12 (doze) anos e 6 (seis) meses de reclusão e 1 (um) ano e 6 (seis) meses de detenção e 100 (cem) dias-multa, em regime inicial fechado para o início do cumprimento da pena, pois incurso nos artigos:
+- 359-L (abolição violenta do Estado Democrático de Direito), do Código Penal, à pena de 4 (quatro) anos e 6 (seis) meses de reclusão.
+- 359-M (Golpe de Estado) do Código Penal à pena de 5 (cinco) anos de reclusão.
+- 163, parágrafo único, I, II, III e IV (dano qualificado), todos do Código Penal à pena de 1 (um) ano e 6 (seis) meses de detenção e 50 (cinquenta) dias-multa, fixando cada dia multa em 1/3 do salário-mínimo.
+- 62, I, (deterioração do Patrimônio tombado) da Lei 9.605/1998 à pena de 1 (um) ano e 6 (seis) meses de reclusão e 50 (cinquenta) dias-multa, fixando cada dia multa em 1/3 do salário-mínimo.
+- 288, parágrafo único, (Associação Criminosa Armada) do Código Penal à pena de 1 (um) ano e 6 (seis) meses de reclusão.
+O réu também foi condenado ao pagamento do valor mínimo indenizatório a título de danos morais coletivos de R$ 30.000.000,00 (trinta milhões de reais), a ser adimplido de forma solidária pelos demais condenados, em favor do fundo a que alude o art. 13 da Lei 7.347/1985.
+Foi fixado o regime fechado para o início do cumprimento da pena.
+O acórdão condenatório transitou em julgado em 25/6/2024 (eDoc. 67).
+Em decisões de 3/7/2025 (eDoc. 124) e 15/7/2025 (eDoc. 136), homologuei os pedidos de remição requeridos nesta Execução Penal, determinando, ainda, a expedição de novo atestado de pena a cumprir e que fosse oficiado ao Juízo da Vara de Execuções Penais do Distrito Federal (VEP/DF), para que determinasse à Direção do Presídio IV a comprovação (i) da existência de autorização ou convênio da instituição de ensino com Poder Público e que o curso profissionalizante integra projeto político-pedagógico da unidade prisional; (ii) do trabalho realizado pelo apenado, a jornada imposta e o seu cumprimento.
+O Juízo da Vara de Execuções Penais do Distrito Federal (VEP/DF) juntou aos autos o atestado de pena a cumprir (eDoc. 143).
+A Direção da Penitenciária IV do Distrito Federal, por meio do Ofício n.º 40/2025 - SEAPE/PDFIV/GAJ, prestou informações (eDoc. 144).
+A Defesa do sentenciado, por sua vez, requereu, em síntese, a “homologação das certidões acostadas no ofício eletrônico n. 40/2025 – SEAPE/PDFIV/GAJ” (eDoc. 145).
+Com vista dos autos, a Procuradoria-Geral da República manifestou-se “pelo reconhecimento do direito de Lucas Costa Brasileiro à remição de 113 (cento e treze) dias de sua pena, em razão do estudo e trabalho realizados” (eDoc. 151). O que acolhi, em 5/8/2025 (eDoc.153).
+ Em 15/9/2025, a Defesa de LUCAS COSTA BRASILEIRO informou que “conforme consta no Atestado de Pena a Cumprir (ID n. a457abb3), o apenado, preencherá o requisito objetivo para progressão de regime em 19.9.2025. Por sua vez, o requisito subjetivo está igualmente atendido, ante ausência de faltas disciplinares pendente de apuração, tampouco condenações pendentes de unificação”,
+E, ao final, solicitou (eDoc.175):
+“a. A progressão ao regime semiaberto;
+ b. Seja oficiado a direção da Penitenciária do Distrito Federal 4, para que apresente a documentação necessária e certidões de trabalho (constando o trabalho realizado pelo apenado, a jornada imposta e o seu cumprimento) e estudo, para fins de remição da pena”.
+Em 19/9/2025, a Procuradoria-Geral da República manifestou-se pelo “não reconhecimento da progressão de regime prisional”(eDoc.179), o que acolhi, em 23/9/2025 (eDoc.181).
+A defesa de LUCAS COSTA BRASILEIRO solicitou a atualização do atestado de pena, bem como que “seja oficiado a penitenciária em que se encontra o apenado, para fins de juntar a documentação necessária e apresentação das certidões de trabalho e estudo, empós disso, requer desde já, homologação dos dias remidos”(eDoc.186).
+Em 2/12/2025, determinei que fosse oficiada à Direção da Penitenciária do Distrito Federal, para que juntasse aos autos a comprovação do trabalho realizado pelo apenado, bem como o estudo realizado para fins de remição, com a respectiva documentação e fichas de frequência, conforme disposto no art. 33 e 126, §§ 1º e 2º, da Lei de Execução Penal. Também determinei a expedição de novo ATESTADO DE PENA A CUMPRIR a ser realizado pelo Juízo da Vara de Execuções Penais do Distrito Federal, local onde se encontra o custodiado, com posterior envio a este SUPREMO TRIBUNAL (eDoc. 188).
+Em 9/12/2025, o Juízo da Vara de Execuções Penais do Distrito Federal remeteu o atestado de pena a cumprir (eDoc. 194).
+Em 22/12/2025, a defesa do apenado pleiteou: “a. Reavaliação da execução penal a luz do PL n. 2.162/2023; b. A liberação do reeducando, mediante a substituição da prisão por medida menos gravosa, ou outra providência que Vossa Excelência entenda juridicamente adequada, em consonância com o novo contexto normativo e com os princípios da proporcionalidade e da humanidade da execução penal, expedindo-se eventual alvará de soltura; c. A suspensão da custódia, até a conclusão do processo legislativo com a sanção presidencial e a consequente aplicação das novas balizas legais à execução penal; d. Seja reiterado o ofício n. 25656/2025 a direção da Penitenciária do Distrito Federal 4, para que apresente a documentação necessária e certidões de trabalho (constando o trabalho realizado pelo apenado, a jornada imposta e o seu cumprimento) e estudo, para fins de remição da pena, com a maior brevidade possível; e. Seja oficiado a Vara de Execuções Penais do Distrito Federal para que elabore novo APC aplicando-se expressamente as frações que o Ministro Relator entenda cabíveis a presente execução [delegando a expedição]” (eDoc. 195).
+Em 14/01/2026, o Juízo da Vara de Execuções Penais do Distrito Federal encaminhou o atestado de pena a cumprir (eDoc. 207).
+Em 20/01/2026, a Penitenciária 4 do Distrito Federal encaminhou certidão para fins de remição (eDoc. 215).
+A defesa apresentou, em 26/01/2026, manifestação, e requereu que: “seja oficiado a direção da Penitenciária do Distrito Federal 4, para que apresente a documentação necessária e certidões de trabalho (constando o trabalho realizado pelo apenado, a jornada imposta e o seu cumprimento (período de julho a outubro de 2025) e estudo (formação para eletricista e atendimento ao público), para fins de remição da pena” (eDoc. 218).
+Em 27/01/2026, a Procuradoria-Geral da República manifestou-se: “pela expedição de ofício à Diretoria do Presídio IV do Distrito Federal, para que complemente a documentação referente ao trabalho exercido por Lucas Costa Brasileiro de 1º.11.2025 a 31.12.2025, mediante o encaminhamento de folha de frequência da atividade laboral assinada por ele e pelo(a) supervisor(a) da atividade” (eDoc. 220).
+Em 28/01/2026, determinei a expedição de ofício à Diretoria do Presídio IV do Distrito Federal, para que remetesse a documentação referente ao trabalho exercido pelo sentenciado entre 01/11/2025 a 31/12/2025, bem como eventuais remições pendentes, sobretudo os cursos de formação para eletricista e atendimento ao público (eDoc. 222).
+Em 03/02/2026, a Secretaria de Estado de Administração Penitenciária encaminhou os documentos necessários à análise da remição (eDoc. 227).
+Em 09/02/2026, a Procuradoria-Geral da República manifestou-se: “a) pela expedição de ofício à Penitenciária IV do Distrito Federal para que envie os documentos comprobatórios do trabalho realizado pelo apenado no período compreendido entre 1.7.2025 a 31.12.2025, sobretudo da jornada imposta e do seu cumprimento; e b) pelo reconhecimento do direito de Lucas Costa Brasileiro à remição de trinta dias de pena em razão da realização dos cursos “Atendimento ao Público” e “Formação para Vendedor” (eDoc. 100).
+O apenado LUCAS COSTA BRASILEIRO, 30 (trinta) anos, foi condenado ao cumprimento de 14 (catorze) anos de prisão, em regime inicial fechado. O réu foi preso em flagrante em 08/01/2023 com conversão em prisão preventiva em 18/01/2023. Em 08/08/2023, foi concedida liberdade provisória. O apenado foi novamente preso preventivamente em 06/06/2024. O apenado cumpriu, até 10/02/2026,  2 (dois) anos, 9 (nove) meses e 18 (dezoito) dias da pena imposta no acórdão condenatório.
+
+É o relatório. DECIDO.
+
+Consoante o art. 126, § 2º, da LEP, e o art. 4º da Resolução n. 391 do CNJ, a capacitação profissional é passível de remição e deve ser certificada pelas autoridades competentes, sendo necessário que se demonstre a existência de autorização ou de convênio prévio entre a instituição de ensino e o poder público, com o objetivo de demonstrar a adequação aos propósitos da LEP.
+Consta nos certificados de curso de qualificação profissional que o apenado cumpriu a carga horária de 180 (cento e oitenta) horas para formação de vendedor e, de igual modo, cumpriu a carga horária de 180 (cento e oitenta) horas para atendimento ao público (eDoc. 230). Assim, verifica-se que o apenado faz jus à remição de 30 (trinta) dias.
+Diante de todo o exposto, nos termos dos artigos 21 e 341 do Regimento Interno do STF:
+A) HOMOLOGO, para fins de remição, 30 (trinta) dias,  em decorrência da realização de atividade laborativa;
+B) ACOLHO a manifestação da Procuradoria-Geral da República e DETERMINO a expedição de ofício à Penitenciária IV do Distrito Federal para que envie os documentos comprobatórios do trabalho realizado pelo apenado no período compreendido entre 01/07/2025 a 31/12/2025, sobretudo da jornada imposta e do seu cumprimento;
+C) DETERMINO que seja expedido ofício ao Juízo da Vara de Execuções Penais do Distrito Federal, no prazo de 5 (cinco) dias, atestado de pena a cumprir atualizado.
+Com as informações, ABRA-SE VISTA À PROCURADORIA-GERAL DA REPÚBLICA, para manifestação, no prazo de 5 (cinco) dias.
+Cumpra-se
+Publique-se.
+Brasília, 10 de fevereiro de 2026.
+
+Ministro ALEXANDRE DE MORAES
+Relator
+Documento assinado digitalmente
