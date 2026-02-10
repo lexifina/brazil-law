@@ -1,0 +1,18 @@
+DECISÃO
+O JUÍZO FEDERAL DA 2ª VARA DE MARÍLIA - SJ/SP suscita conflito de competência, em inquérito policial, diante do JUÍZO DE DIREITO DA 1ª VARA DE POMPÉIA - SP.
+A controvérsia estabelecida neste incidente processual cinge-se a saber qual o juízo competente (federal ou estadual) para a adoção de medidas judiciais que se façam necessárias em investigação na qual o crime de estelionato ou contra a economia popular haveria ocorrido com indicação de transnacionalidade.
+Ouvido, manifestou-se o Ministério Público Federal pelo conhecimento do conflito para que seja declarado competente o Juízo de Direito da 1ª Vara de Pompéia - SP, ora suscitado (fls. 133-136).
+Decido.
+O caso retrata a instauração de inquérito policial para apurar possível prática de crime no fato de que "empresas estrangeiras  .. , com sedes estrangeiras em, respectivamente, Hong Kong e Flórida, obtiveram vantagem indevida, por meio de fraude nos investimentos em criptomoeda, das vítimas  .. , bem como diversas vítimas espalhadas pelo território nacional, induzindo-os e mantendo-os em erro, causando-lhes prejuízos" (fl. 134).
+Entretanto, todo o quadro fático apresentado até o momento, como salientou o Parquet, indica, na verdade, possível pratica apenas de crime contra a economia popular (pirâmide financeira), mas não contra o sistema financeiro nacional.
+Em casos tais, "a captação de recursos decorrente de "pirâmide financeira" não se enquadra no conceito de "atividade financeira", para fins da incidência da Lei n. 7.492/1986, amoldando-se mais ao delito previsto no art. 2º, IX, da Lei 1.521/1951 (crime contra a economia popular)" (CC n. 146.153/SP, relator Ministro Reynaldo Soares da Fonseca, DJe de 17/5/2016).
+Além disso, a transnacionalidade, aventada pelo suscitado para declinar a competência, não tem o candão de atrair a atuação federal, porque desvinculada das hipóteses previstas no art. 109 da Constituição Federal.
+No particular, resumiu o Ministério Público Federal (fl. 134):
+Com efeito, a Justiça Estadual encaminhou os autos à Justiça Federal que o fato de os investigados residirem no exterior indica a transnacionalidade do crime e, portanto, atrai a competência do Justiça Federal, tendo o Juízo Federal da 2ª Vara de Marília- SJ/SP suscitado o presente conflito.
+Ocorre que, tratando-se de um possível crime de estelionato em desfavor de particular, não se vislumbra ofensa a bens, serviços ou interesses da União, autarquia federal e/ou empresa pública federal. Assim, ausente notícia nos autos de infração penal apta a atrair a competência federal (art. 109, IV, da CF), o feito deve tramitar na justiça estadual.
+De fato, a competência da Justiça Federal exsurge, tão somente, naqueles casos em que se evidenciar a existência de eventual lesão a bens, serviços ou interesses da União, suas entidades autárquicas ou empresas públicas, ex vi do art. 109 da Constituição Federal. Tais hipóteses não se verificam neste caso.
+É o caso, portanto, de incidência do enunciado da Súmula n. 498 do STF, segundo o qual: "Compete à Justiça dos Estados, em ambas as instâncias, o processo e o julgamento dos crimes contra a economia popular".
+De fato, " jurisprudência desta Corte tem se orientado no sentido de que compete à Justiça Comum Estadual julgar os crimes contra a economia popular, na esteira do enunciado da Sumula n. 498 da Suprema Corte" (CC n. 146.153/SP, relator Ministro Reynaldo Soares da Fonseca, DJe de 17/5/2016).
+À vista do exposto, conheço do conflito para declarar competente o Juízo de Direito da 1ª Vara de Pompéia - SP, ora suscitado.
+Publique-se. Dê-se ciência as Juízos suscitante e suscitado.
+EMENTA
