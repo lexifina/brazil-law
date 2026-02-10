@@ -1,0 +1,18 @@
+DECISÃO
+Examina-se pedido de tutela cautelar antecedente apresentado por MOHALLEM ENGENHARIA LTDA., no qual requerem a atribuição de efeito suspensivo a agravo em recurso especial interposto contra decisão da presidência do TJ/MG, a qual inadmitiu o recurso especial (e-STJ fls. 2-5).
+Sustenta o requerente que, "o prosseguimento da execução provisória, sem a concessão do efeito suspensivo, expõe  o requerente  a prejuízos de grande monta e de difícil  ..  recomposição futura" (e-STJ fl. 13).
+É O RELATÓRIO. DECIDO.
+Esta Corte Superior perfilha do entendimento de que: "a atribuição de efeito suspensivo a recurso especial inadmitido na origem, e objeto de agravo perante esta Corte de Justiça, é excepcional e pressupõe a aferição da existência de decisão teratológica ou manifestamente contrária à jurisprudência deste Superior Tribunal de Justiça, somada à demonstração dos requisitos da viabilidade do apelo nobre e plausibilidade do direito invocado, e do perigo da demora" (AgInt na TutCautAnt 1.150/SP, Terceira Turma, DJEN 12/12/2025). Confira-se: AgInt na TutCautAnt 454/SP, Terceira Turma, DJe 29/5/2024; AgInt na TutAntAnt 488/SP, Terceira Turma, DJEN 14/11/2025).
+Desse modo, apenas em hipóteses excepcionais é possível a atribuição de efeito suspensivo a agravo em recurso especial. Para tanto, porém, é necessária a demonstração cumulativa do periculum in mora, que se traduz na urgência da prestação jurisdicional, e da caracterização do fumus boni juris, consistente na plausibilidade do direito alegado.
+Importa consignar que: "a execução provisória já contém mecanismos/instrumentos para mitigar as hipóteses em que evidenciado dano irreparável, tanto que o levantamento de depósito em dinheiro e a prática de atos que importem alienação de propriedade ou dos quais possa resultar grave dano ao executado dependem de caução suficiente e idônea, arbitrada de plano pelo juiz e prestada nos próprios autos" (AgInt no TP 363/PE, Quarta Turma, DJe 10/05/2017; AgInt na TutCautAnt 31/MG, Terceira Turma, DJe de 20/9/2023).
+Assim, a mera execução provisória não caracteriza o periculum in mora necessário para a concessão do efeito suspensivo ao recurso. A propósito: AgInt na TutCautAnt 1.150/SP, Terceira Turma, DJEN 12/12/2025; AgRg na MC 18.414/RJ, Terceira Turma, DJe 05/10/2011; AgInt no TP 255 /MG, Quarta Turma, DJe 16/03/2017.
+No particular, verifica-se que, com base em um juízo provisório, além de não se evidenciar teratologia ou manifesta ilegalidade no acórdão recorrido, o perigo na demora alegado decorre, única e exclusivamente, do cumprimento de sentença requerido na origem, o que não caracteriza periculum in mora.
+De todo modo, ausente o perigo na demora, fica prejudicada a análise da plausibilidade do direito invocado, pois imprescindível a cumulação sucessiva dos referidos pressupostos, para concessão da medida cautelar requerida.
+Forte nessas razões, INDEFIRO o pedido de atribuição de efeito suspensivo.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar a condenação às penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. TUTELA CAUTELAR ANTECEDENTE. PERICULUM IN MORA. EXECUÇÃO PROVISÓRIA. NÃO CARACTERIZAÇÃO. FUMUS BONIS IURIS. PREJUDICADO.
+1. Tutela de urgência cautelar requerida em caráter antecedente.
+2. O ajuizamento de execução ou cumprimento de sentença não caracteriza, por si só, perigo na demora, prejudicada a análise da plausibilidade do direito.
+3. Pedido indeferido.
