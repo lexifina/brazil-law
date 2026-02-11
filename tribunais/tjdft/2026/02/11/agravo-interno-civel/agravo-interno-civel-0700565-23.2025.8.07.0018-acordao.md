@@ -1,0 +1,175 @@
+Poder Judiciário da UniãoTRIBUNAL DE JUSTIÇA DO DISTRITO FEDERAL E DOS TERRITÓRIOS
+
+Órgão
+2ª Turma Cível
+Processo N.AGRAVO INTERNO CÍVEL 0700565-23.2025.8.07.0018AGRAVANTE(S)DISTRITO FEDERALAGRAVADO(S)MARINA APARECIDA MALHEIROS SILVARelatorDesembargador ALVARO CIARLINI
+ Acórdão Nº2092368
+
+EMENTA
+
+ AGRAVO INTERNO EM APELAÇÃO. CONSTITUCIONAL, ADMINISTRATIVO E PROCESSUAL CIVIL. SERVIDOR PÚBLICO. ADICIONAL DE TEMPO DE SERVIÇO. RESSARCIMENTO DE VALORES RECEBIDOS DE BOA-FÉ. IRREPETIBILIDADE. TEMA REPETITIVO Nº 1009. SUPERIOR TRIBUNAL DE JUSTIÇA. HONORÁRIOS DE ADVOGADO. APLICAÇÃO. EQUIDADE. IMPOSSIBILIDADE. MULTA PREVISTA NO ART. 1021, § 4º, DO CPC. RECURSO DESPROVIDO.
+
+1. As questões submetidas ao conhecimento deste Egrégio Tribunal de Justiça consistem em examinar a possibilidade de: a) haver a restituição, à Administração Pública, de valores pagos à recorrente como “adicional de tempo de serviço”, de acordo com a regra prevista no art. 88, caput, da Lei Complementar nº 840/2011 e b) superação, em concreto, do art. 85, § 2º, do CPC, para a fixação dos honorários de advogado.
+
+2. A Administração Pública tem não só a possibilidade, mas o dever de rever seus atos, relativamente ao critério de sua legalidade. Essa é uma exigência imposta pelo ordenamento jurídico, de natureza vinculada. 2.1. Embora a Administração Pública tenha o poder de rever seus próprios atos, desde que eivados de equívoco ou ilegalidade, essa revisão não possibilita que seja imposta ao servidor a devolução do que recebeu, supostamente de modo indevido, notadamente por se tratar de valores de natureza alimentar, recebidos de boa-fé. 2.2. No caso em deslinde a servidora pública não contribuiu para que a Administração incorresse em equívoco, e não existem provas nos autos a respeito de eventual má-fé.
+
+3. O Colendo Superior Tribunal de Justiça firmou seu entendimento em relação ao tema, em sede de recurso repetitivo, no sentido de que não é devida a devolução dos valores pagos "indevidamente a servidor em decorrência de erro da própria Administração Pública, quando se constata que o recebimento pelo beneficiado se deu de boa-fé", como no caso em análise. 3.1. A referida Corte Superior de Justiça firmou seu entendimento em relação à questão (Tema 1009), no sentido de que "os pagamentos indevidos aos servidores públicos decorrentes de erro administrativo (operacional ou de cálculo), não embasado em interpretação errônea ou equivocada da lei pela Administração, estão sujeitos à devolução, ressalvadas as hipóteses em que o servidor, diante do caso concreto, comprova sua boa-fé objetiva, sobretudo com demonstração de que não lhe era possível constatar o pagamento indevido”.
+
+4. Apenas nas hipóteses em que o valor dos honorários, à vista da sucumbência, for exorbitante, devem ser observados os princípios constitucionais da proporcionalidade e da razoabilidade, igualmente previstos no art. 8º, em composição com a regra antevista no art. 85, § 2º, ambos do CPC. Essa regra não deve ser confundida com a disposta no art. 85, § 8º, do CPC. 4.1. No caso em exame a aplicação do coeficiente de 10% (dez por cento) do valor atribuído à causa resulta em quantia superior a R$ 17.000,00 (dezessete mil reais), o que não pode ser concebido como desproporcional ou exorbitante, se analisado com o contexto do labor desenvolvido pelo patrono da servidora pública.
+
+5. Na hipótese de ser o agravo interno manifestamente inadmissível ou improcedente, por meio de julgamento unânime, o agravante deve ser condenado ao pagamento de multa no percentual de 1% (um por cento) a 5% (cinco por cento) do valor atualizado da causa, nos moldes da regra prevista no art. 1021 do CPC.
+
+6. Agravo interno conhecido e desprovido.
+
+ACÓRDÃO
+
+Acordam os Senhores Desembargadores do(a) 2ª Turma Cível do Tribunal de Justiça do Distrito Federal e dos Territórios, ALVARO CIARLINI - Relator, RENATO RODOVALHO SCUSSEL - 1º Vogal e FERNANDO ANTONIO TAVERNARD LIMA - 2º Vogal, sob a Presidência do Senhor Desembargador ALVARO CIARLINI, em proferir a seguinte decisão: CONHECIDO. DESPROVIDO. UNÂNIME., de acordo com a ata do julgamento e notas taquigráficas.
+
+Brasília (DF), 27 de Fevereiro de 2026
+
+Desembargador ALVARO CIARLINIPresidente e Relator
+
+RELATÓRIO
+
+Trata-se de agravo interno interposto pelo Distrito Federal contra a decisão monocrática (Id. 77044714), proferida por este Relator, que deu provimento ao recurso de apelação manejado pela parte adversa.
+
+Na origem Marina Aparecida Malheiros Silva ajuizou ação submetida ao procedimento comum, contra o Distrito Federal, com o intuito de obter a declaração de inexigibilidade do débito no valor de R$ 172.480,80 (cento e setenta e dois mil, quatrocentos e oitenta reais e oitenta centavos).
+
+Narrou que a Administração Pública exerceu a cobrança de valores indevidamente recebidos pela autora, no período compreendido entre setembro de 2018 a setembro de 2023, como “adicional de tempo de serviço”, de acordo com a regra prevista no art. 88, caput, da Lei Complementar nº 840/2011 (Id. 73953242, fl. 19).
+
+Informou que o montante alusivo ao referido benefício foi calculado equivocadamente pelo Poder Público. Assim, a servidora pública teria recebido valor superior ao legitimamente devido.
+
+Relatou que a demandante é médica e servidora pública da Secretaria de Estado de Saúde do Distrito Federal.
+
+Decorrida a marcha processual foi proferida a sentença por meio da qual o pedido foi julgado improcedente (Id. 73953674).
+
+Na oportunidade foi destacado que o recebimento da prestação em exame ocorreu com amparo em equívoco por parte da Administração Pública. Por essa razão a servidora pública deveria ter demonstrado a boa-fé objetiva por ela vivenciada no caso em exame, o que não teria ocorrido.
+
+Foi evidenciado ainda que a averbação do tempo de serviço prestado pela autora, procedida aos 21 de novembro de 2013, ocorreu com a finalidade de acréscimo ao período para a aposentadoria, como demonstra o Id. 73953242, fl. 6.
+
+Em suas razões recursais (Id. 73953678) a recorrente reiterou, em síntese, que é legítimo o recebimento da aludida parcela, que perdurou por mais de 11 (onze) anos.
+
+Requereu, portanto, a reforma da sentença para que o pedido fosse julgado procedente, com a subsequente declaração de inexigibilidade do débito indicado na causa de pedir.
+
+O valor referente ao preparo recursal foi devidamente recolhido (Id. 73953679).
+
+Em suas contrarrazões o Distrito Federal pugnou pelo desprovimento do recurso (Id. 73953683).
+
+Sobreveio a decisão monocrática (Id. 77044714), ora agravada, por meio da qual este Relator deu provimento ao recurso para, ao reformar a sentença, julgar o pedido procedente para que o Distrito Federal abstenha-se de proceder à cobrança do valor de R$ 172.480,80 (cento e setenta e dois mil, quatrocentos e oitenta reais e oitenta centavos), alusivo à restituição das parcelas do “adicional por tempo de serviço”, recebidos por Marina Aparecida Malheiros Silva, no período compreendido entre setembro de 2018 a setembro de 2023.
+
+Em suas razões de agravo interno (Id. 78275276) o Distrito Federal reitera os argumentos anteriormente articulados a respeito da ocorrência de má-fé por parte da servidora.
+
+Em caráter sucessivo o agravante afirma que os honorários devem ser fixados no coeficiente inferior ao mínimo legal previsto no art. 85, § 3º, do CPC.
+
+Requer, portanto, a reforma da decisão monocrática (Id. 77044714) para que o pedido seja julgado improcedente, ou, em caráter sucessivo, que os honorários sejam arbitrados com os critérios delineados no art. 8º do aludido diploma legal.
+
+Em suas contrarrazões a agravada pugnou pelo desprovimento do recurso de agravo interno (Id. 79269124).
+
+É o relatório.
+
+VOTOS
+
+O Senhor Desembargador ALVARO CIARLINI - RelatorO recurso merece ser conhecido, pois se encontram preenchidos seus pressupostos extrínsecos e intrínsecos, sendo tempestivo e apropriado à espécie.
+
+A servidora pública exerceu o direito formativo à abstenção ao ressarcimento de valores por ela recebidos, referentes ao benefício do “adicional de tempo de serviço” (art. 88, caput, da Lei Complementar nº 840/2011), tendo havido a procedência do pedido.
+
+As questões submetidas ao conhecimento deste Egrégio Tribunal de Justiça consistem em examinar a possibilidade de: a) haver a restituição, à Administração Pública, de valores pagos à recorrente como “adicional de tempo de serviço”, de acordo com a regra prevista no art. 88, caput, da Lei Complementar nº 840/2011 e b) superação, em concreto, do art. 85, § 2º, do CPC, para a fixação dos honorários de advogado.
+
+A propósito, é necessário examinar o art. 88 do mencionado diploma legal, a seguir transcrito:
+
+“Art. 88. O adicional por tempo de serviço é devido à razão de um por cento sobre o vencimento básico do cargo de provimento efetivo por ano de efetivo serviço.
+
+Parágrafo único. O adicional de tempo de serviço é devido a partir do mês em que o servidor completar o anuênio.”
+
+Verifica-se que a Ordem de Serviço, emitida pelo Poder Público, no dia 21 de novembro de 2013, expediu a averbação do período de 5671 (cinco mil seiscentos e setenta e um) dias, no registro funcional atribuído à ora agravada, como “tempo de serviço”.
+
+Na ocasião houve a indicação do aludido acréscimo para a finalidade única de contagem “para a aposentadoria”, em proveito da servidora pública em questão (Id. 73953242, fl. 6).
+
+Feitas essas considerações iniciais é importante ressalvar que a Administração Pública tem não só a possibilidade, mas o dever de rever os seus atos, no que diz respeito ao critério de sua legalidade. Essa é uma exigência do ordenamento jurídico e deve ser procedido de modo vinculado, ou seja, nos estritos termos da regra de regência.
+
+Nesse contexto, convém destacar o teor dos enunciados números 346 e 473 da Súmula do Excelso Supremo Tribunal Federal, respectivamente:
+
+“A Administração Pública pode declarar a nulidade dos seus próprios atos”.
+
+“A Administração pode anular seus próprios atos quanto eivados de vícios que os tornam ilegais, porque deles não se originam direitos; ou revogá-los, por motivo de conveniência ou oportunidade, respeitados os direitos adquiridos e ressalvada, em todos os casos a apreciação judicial.”
+
+Há, contudo, limitações à produção dos efeitos da autotutela do Estado nessas hipóteses, notadamente nos casos em que se referirem a valores de caráter alimentar e não for constatada qualquer atitude do servidor que denote má-fé.
+
+Diante da análise dos autos vislumbra-se que o Distrito Federal não foi exitoso em demonstrar que a servidora tenha colaborado para o equívoco, que resultou no pagamento indevido da quantia relativa ao “adicional de tempo de serviço”. Evitem-se inversões a respeito do ônus da prova sobre a boa ou má fé, nesse caso, pois o ato praticado pela Administração Pública conta com presunção de legitimidade e produz confiança legítima, assim modulando o comportamento do administrado.
+
+A esse respeito examinem-se as seguintes ementas promanadas deste Egrégio Tribunal de Justiça:
+
+“APELAÇÃO CÍVEL. DIREITO ADMINISTRATIVO. TEMAS 531 E 1009 DO C. STJ. INTERPRETAÇÃO ERRÔNEA. PRESUNÇÃO DE BOA-FÉ. ERRO ADMINISTRATIVO. CASO CONCRETO. GRATIFICAÇÃO DE MOVIMENTAÇÃO – GMOV. ENDEREÇO INFORMADO PELO SERVIDOR. BOA-FÉ EVIDENCIADA. DEVER DE RESTITUIÇÃO. NÃO CONFIGURADO. SENTENÇA MANTIDA.
+
+I. Caso em exame
+
+1. Cuida-se de recurso de apelação interposto pelo Distrito Federal em vista da r. sentença que julgou improcedente o pedido de restituição de valores recebidos por servidor público, ao fundamento de que o servidor teria atuado de má-fé no recebimento da gratificação de movimentação prevista na Lei Distrital n.318/92.
+
+II. Questão em discussão
+
+2. A questão em discussão consiste em verificar a boa-fé do servidor no recebimento da quantia e a necessidade de restituição do valor.
+
+III. Razões de decidir
+
+3. Quando a Administração Pública interpreta erroneamente uma lei, resultando em pagamento indevido ao servidor, cria-se uma falsa expectativa de que os valores recebidos são legais e definitivos, impedindo, assim, que ocorra desconto dos mesmos, ante a boa-fé do servidor público. (Tema 531, c. STJ)
+
+4. Os pagamentos indevidos aos servidores públicos decorrentes de erro administrativo (operacional ou de cálculo), não embasado em interpretação errônea ou equivocada da lei pela Administração, estão sujeitos à devolução, ressalvadas as hipóteses em que o servidor, diante do caso concreto, comprova sua boa-fé objetiva, sobretudo com demonstração de que não lhe era possível constatar o pagamento indevido. (Tema 1009, c. STJ)
+
+5. Na hipótese em que o servidor solicita o pagamento da Gratificação de Movimentação – GMOV, devida apenas aos servidores que residem em Região Administrativa distinta de seu local de lotação, informando corretamente seu endereço, resta evidenciada sua boa-fé, afastando-se, portanto, o dever de restituição.
+
+IV. Dispositivo e tese
+
+6. Recurso conhecido e desprovido.”
+
+(Acórdão nº 1977841, 0712914-92.2024.8.07.0018, Relator: GETÚLIO DE MORAES OLIVEIRA, 7ª Turma Cível, Data de Julgamento: 12/3/2025) (Ressalvam-se os grifos)
+
+“APELAÇÃO CÍVEL. PROCESSUAL CIVIL E ADMINISTRATIVO. DOCUMENTOS NOVOS. JUNTADA EXTEMPORÂNEA E INJUSTIFICADA. SERVIDOR PÚBLICO. PROFESSOR. GRATIFICAÇÃO DE ATIVIDADE DE DEDICAÇÃO EXCLUSIVA EM TEMPO INTEGRAL NO MAGISTÉRIO – TIDEM. AUSÊNCIA DE DECLARAÇÃO EXPRESSA DO SERVIDOR. TERMO DE OPÇÃO NÃO APRESENTADO. BOA-FÉ CONFIGURADA. DECADÊNCIA. SENTENÇA MANTIDA.
+
+1. De acordo com o art. 435 do CPC/15, é lícito às partes a juntada extemporânea de prova documental para demonstrar fatos supervenientes ou quando se tratar de documento novo, sendo, ainda, admitida nos casos em que a apresentação anterior dos documentos não foi possível por motivo de força maior, devidamente justificado. Precedentes do c. STJ e do eg. TJDFT.
+
+2. Consoante o disposto no art. 54 da Lei nº 9.784/99, o prazo decadencial para a Administração anular seus atos é de 5 (cinco) anos, exceto se comprovada má-fé.
+
+3. No julgamento do Tema Repetitivo 1009, em relação ao recebimento de valores indevidos por parte de servidor público, entendeu o Superior Tribunal de Justiça que deve ser comprovada a boa-fé, com a demonstração de que a falha não era evidenciada ao servidor.
+
+4. Inexistente o “Termo de Opção” do servidor, exigido pela lei, e não demonstrado que prestou declaração inverídica a respeito do exercício de outra atividade remunerada, resta comprovada sua boa-fé no recebimento da gratificação, concluindo-se que o pagamento indevido da TIDEM ocorreu por erro exclusivo da Administração Pública.
+
+5. Afastada a hipótese de má-fé, deve ser declarada a decadência do direito do Distrito Federal em perquirir a devolução dos valores pagos, considerando que entre a data do recebimento e a data de deflagração do processo administrativo voltado à revisão da gratificação transcorreu prazo superior a 5 anos.
+
+6. Apelação conhecida e não provida.”
+
+(Acórdão nº 1975211, 0705792-28.2024.8.07.0018, Relator: LUCIMEIRE MARIA DA SILVA, 5ª TURMA CÍVEL, Data de Julgamento: 6/03/2025) (Ressalvam-se os grifos)
+
+É necessário registrar ainda que o Colendo Superior Tribunal de Justiça firmou seu entendimento em relação à questão, em sede de recurso repetitivo, no sentido de que não é devida a devolução de valores pagos "indevidamente a servidor em decorrência de erro da própria Administração Pública, quando se constata que o recebimento pelo beneficiado se deu de boa-fé, como no caso em análise". (Precedentes: MS 19.260-DF, Rel. Min. Herman Benjamin, Corte Especial, Dje 11/12/2014; Resp 1.244.182-PB, Rel. Ministro Benedito Gonçalves, 1ª Seção, julgado sob o rito do art. 543-C do CPC, Dje 19/10/2012; Edcl no Resp 1.342.111-ES, Rel. Ministro Sérgio Kukina, 1ª Turma, Dje 6/3/2014).
+
+Atente-se também à tese firmada pelo Colendo Superior Tribunal de Justiça (Tema 1009):
+
+“Os pagamentos indevidos aos servidores públicos decorrentes de erro administrativo (operacional ou de cálculo), não embasado em interpretação errônea ou equivocada da lei pela Administração, estão sujeitos à devolução, ressalvadas as hipóteses em que o servidor, diante do caso concreto, comprova sua boa-fé objetiva, sobretudo com demonstração de que não lhe era possível constatar o pagamento indevido.”
+
+Na hipótese em exame observe-se que os pagamentos, supostamente indevidos, foram efetuados em virtude de equívoco operacional cometido pela Administração Pública, sem que tenha sido demonstrada a eventual má-fé por parte da servidora.
+
+Ademais, convém destacar ainda que a servidora pública não tem condições de precisar o exato valor que deve receber, por mês, em relação ao benefício em questão. Essa medida deve ser atribuída, em verdade, ao Poder Público, que tem a obrigação legal de efetuar o pagamento dos vencimentos ou subsídios aos servidores com a devida observância dos vetores normativos de regência.
+
+Dito de outro modo, a boa-fé da servidora no presente caso está demonstrada pelos dados fáticos trazidos aos autos e não se baseia em mera presunção, como quer fazer crer a Administração Pública.
+
+Percebe-se, ademais, que a pretensão recursal exercida pela recorrente está alinhada à tese firmada pelo Colendo Superior Tribunal de Justiça por ocasião do julgamento do tema nº 1009.
+
+Quanto ao mais, em relação ao ônus da sucumbência é necessário ressaltar que com o advento do atual Código de Processo Civil os honorários de advogado passaram a ser fixados de modo peculiar, com a observância dos parâmetros estabelecidos no art. 85, §§ 3º e 5º do CPC.
+
+Ressalte-se que este Relator condenou o agravante ao pagamento do montante correspondente a 10% (dez por cento) do valor da causa, nos moldes da regra prevista no art. 85, § 3º, inc. I, do CPC (Id. 77044714).
+
+No caso em deslinde o valor atribuído à causa é de R$ 172.480,80 (cento e setenta e dois mil, quatrocentos e oitenta reais, oitenta centavos) (Id. 73953238).
+
+Sucede que a aplicação do coeficiente de 10% (dez por cento) do valor da causa, portanto, resulta em quantia superior a R$ 17.000,00 (dezessete mil reais), o que não pode ser concebido como desproporcional e exorbitante, se analisado com o contexto do labor desenvolvido pelo patrono da autora.
+
+À vista dos fundamentos acima expostos, a decisão monocrática ora agravada deve ser integralmente mantida.
+
+Desde logo, fixo multa equivalente ao montante de 1% (um por cento) do valor atualizado da causa, nos termos da regra prevista no art. 1021, § 4º, do CPC, para o caso de decidir, a Egrégia 2ª Turma Cível, pelo desprovimento do recurso de modo unânime.
+
+Feitas essas considerações, conheço e nego provimento ao recurso.
+
+É como voto.
+O Senhor Desembargador RENATO RODOVALHO SCUSSEL - 1º Vogal Com o(a) relator(a)O Senhor Desembargador FERNANDO ANTONIO TAVERNARD LIMA - 2º Vogal Com o(a) relator(a)
+
+DECISÃO
+
+CONHECIDO. DESPROVIDO. UNÂNIME.
