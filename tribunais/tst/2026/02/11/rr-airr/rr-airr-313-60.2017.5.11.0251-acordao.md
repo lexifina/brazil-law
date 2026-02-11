@@ -1,0 +1,210 @@
+Poder Judiciário
+Justiça do Trabalho
+Tribunal Superior do Trabalho
+PROCESSO Nº TST-RR - 313-60.2017.5.11.0251
+A C Ó R D Ã O
+8ª Turma
+GMSPM/rdg
+I - AGRAVO DE INSTRUMENTO EM RECURSO DE REVISTA DA 2ª
+RECLAMADA (PETROBRAS TRANSPORTE S.A. - TRANSPETRO) -
+JUÍZO DE RETRATAÇÃO EXERCIDO. ART. 1.030, II, DO CPC –
+RESPONSABILIDADE SUBSIDIÁRIA. TERCEIRIZAÇÃO DE
+SERVIÇOS. ENTE PÚBLICO. AUSÊNCIA DE PROVA DE
+FISCALIZAÇÃO. ÔNUS DA PROVA. TEMAS 246 E 1.118 DO
+EMENTÁRIO DE REPERCUSSÃO GERAL. TRANSCENDÊNCIA
+POLÍTICA RECONHECIDA. Constatada possível violação do § 1º
+do art. 71 da Lei nº 8.666/93, merece provimento o agravo de
+instrumento para determinar o processamento do recurso de
+revista. Agravo de instrumento a que se dá provimento.
+II – RECURSO DE REVISTA DA 2ª RECLAMADA (PETROBRAS
+TRANSPORTE S.A. - TRANSPETRO) - RESPONSABILIDADE
+SUBSIDIÁRIA. TERCEIRIZAÇÃO DE SERVIÇOS. ENTE PÚBLICO.
+AUSÊNCIA DE PROVA DE FISCALIZAÇÃO. ÔNUS DA PROVA.
+TEMAS 246 E 1.118 DO EMENTÁRIO DE REPERCUSSÃO GERAL.
+TRANSCENDÊNCIA POLÍTICA RECONHECIDA. O Supremo
+Tribunal Federal, ao examinar a ADC-16/DF e o RE-760931/DF
+(leading case do Tema nº 246 do Ementário de Repercussão
+Geral), firmou tese no sentido de que a inadimplência da
+empresa contratada não transfere ao ente público tomador de
+serviços, de forma automática, a responsabilidade pelo
+pagamento dos encargos trabalhistas e fiscais, sendo necessário
+verificar, caso a caso, a eventual ocorrência de culpa da
+Administração Pública. No recente julgamento do Tema nº 1.118,
+o STF fixou a seguinte tese jurídica, “Não há responsabilidade
+subsidiária da Administração Pública por encargos trabalhistas
+gerados pelo inadimplemento de empresa prestadora de serviços
+contratada, se amparada exclusivamente na premissa da inversão
+do ônus da prova, remanescendo imprescindível a comprovação,
+pela parte autora, da efetiva existência de comportamento
+negligente ou nexo de causalidade entre o dano por ela invocado e
+a conduta comissiva ou omissiva do poder público.” (publicado no
+DJE em 24/2/25). Assim, constata-se que a mera ausência de
+provas quanto à fiscalização do contrato não induz à
+responsabilização do Poder Público, cabendo à parte autora a
+comprovação da conduta culposa do ente público tomador, em
+observância às teses vinculantes fixadas pelo STF. Caso
+contrário, estar-se-ia diante da possibilidade de novas
+condenações da Administração Pública por simples
+inadimplemento, com base em culpa presumida, em desrespeito
+às teses fixadas pelo STF. Recurso de revista de que se
+conhece e a que se dá provimento.
+Vistos, relatados e discutidos estes autos de Recurso de Revista nº TST-RR - 313-
+60.2017.5.11.0251, em que é Recorrente(s) PETROBRAS TRANSPORTE S.A. - TRANSPETRO e são
+Recorrido(s)S PARENTE ANDRADE LTDA e RAIMUNDO GUEIDSON MORAES DA SILVA.
+Em julgamento anterior, esta Oitava Turma negou provimento ao agravo de
+instrumento em recurso de revista da segunda reclamada (fls. 886/898).
+A segunda reclamada interpôs recurso extraordinário às fls. 917/926.
+Os autos foram suspensos em razão de possível discussão acerca do tema 1.118
+da Tabela de Repercussão Geral do Supremo Tribunal Federal (fls. 933/934).
+Após o julgamento do referido tema pelo STF, o Ministro Vice-Presidente do TST
+determinou o retorno dos autos a este colegiado (fls. 937) para que, ao teor do inciso II do artigo 1.030
+do CPC, se manifeste quanto à necessidade de exercer eventual juízo de retratação em relação ao tópico
+Este documento pode ser acessado no endereço eletrônico http://www.tst.jus.br/validador sob código 100665C942F327AD8E.
+“responsabilidade subsidiária da Administração Pública como tomadora de serviços terceirizados”.
+É o relatório.
+V O T O
+JUÍZO DE RETRATAÇÃO
+I – AGRAVO DE INSTRUMENTO EM RECURSO DE REVISTA
+RESPONSABILIDADE SUBSIDIÁRIA. TERCEIRIZAÇÃO DE SERVIÇOS. ENTE
+PÚBLICO. AUSÊNCIA DE PROVA DE FISCALIZAÇÃO. ÔNUS DA PROVA. TEMAS 246 E 1.118 DO
+EMENTÁRIO DE REPERCUSSÃO GERAL
+Em julgamento anterior, esta Oitava Turma negou provimento ao agravo de
+instrumento (fls. 886/898), sob os seguintes fundamentos:
+“A controvérsia versada no recurso de revista está centrada na responsabilidade subsidiária do
+Ente Público pelos créditos trabalhistas devidos pela empresa prestadora de serviços.
+O Supremo Tribunal Federal, ao julgar o precedente vinculante constituído pelo Tema 246 da
+Repercussão Geral (RE nº 760.931), fixou a tese jurídica segundo a qual “o inadimplemento dos
+encargos trabalhistas dos empregados do contratado não transfere automaticamente ao Poder Público
+contratante a responsabilidade pelo seu pagamento, seja em caráter solidário ou subsidiário, nos termos
+do art. 71, § 1º, da Lei nº 8.666/93”.
+Com isso, o Pretório Excelso deixou claro que a dicção do artigo 71, § 1º, da Lei nº 8.666/1993,
+apesar de constitucional, como delimitado por ocasião do julgamento da ADC nº 16, não representa o
+afastamento total da responsabilidade civil do Estado em contratos de terceirização, mas, ao revés,
+indica a existência de tal responsabilidade em caso de haver elementos de comprovação da culpa do
+ente público pelo inadimplemento dos encargos trabalhistas da empresa terceirizada.
+A Subseção I Especializada em Dissídios Individuais desta Corte, em sua Composição Plena, em
+sessão realizada em 12/12/2019, por ocasião do julgamento do Processo TST-E-RR-925-
+07.2016.5.05.0281, da Relatoria do Exmo. Ministro Cláudio Brandão, em avaliação da tese firmada pelo Supremo Tribunal Federal nos
+autos do Recurso Extraordinário nº 760.931/DF, concluiu que a matéria pertinente ao ônus da prova
+não foi definida pela Suprema Corte, ao fixar o alcance do Tema 246, firmando que é do Poder
+Público o ônus de demonstrar que fiscalizou de forma adequada o contrato de prestação de serviços.
+Tendo em vista que o acórdão regional está fundado na ausência de demonstração pelo ente
+da Administração Pública da fiscalização do contrato de prestação de serviços, matéria
+infraconstitucional em que o Supremo Tribunal Federal não fixou tese no exame do RE 760.931/DF,
+segundo o entendimento da SBDI-1 do TST, impõe-se o não provimento do agravo de instrumento,
+com ressalva de entendimento deste Relator.
+Nego provimento.”
+Inicialmente, verifico que a causa oferece transcendência política hábil a viabilizar
+sua apreciação.
+O Supremo Tribunal Federal, ao examinar a ADC-16/DF e o RE-760931/DF (leading
+case do Tema nº 246 do Ementário de Repercussão Geral), firmou tese no sentido de que a
+inadimplência da empresa contratada não transfere ao ente público tomador de serviços, de forma
+automática, a responsabilidade pelo pagamento dos encargos trabalhistas e fiscais, sendo necessário
+verificar, caso a caso, a eventual ocorrência de culpa da Administração Pública. Na ocasião desses
+julgamentos, a excelsa Corte não firmou tese explícita a respeito da distribuição do ônus da prova, o que
+constitui objeto do Tema nº 1.118.
+Conforme destacado pela excelsa Corte na ementa do acórdão relativo aos
+embargos de declaração opostos no leading case do Tema nº 246, "(...) a responsabilização subsidiária
+do poder público não é automática, dependendo de comprovação de culpa in eligendo ou culpa in
+vigilando (...)" [STF-RE-760931-ED/DF, Red. Min. Edson Fachin (DJe nº 194, publicado em 6/9/2019) – g. n.].
+Portanto, o que deve ser objeto de prova é a culpa e não a fiscalização, o que induz à conclusão de que
+o ônus da prova incumbe ao empregado.
+No julgamento recente do Tema nº 1.118 de repercussão geral, o STF, por maioria,
+fixou a seguinte tese jurídica: " 1. Não há responsabilidade subsidiária da Administração Pública por
+encargos trabalhistas gerados pelo inadimplemento de empresa prestadora de serviços contratada, se
+amparada exclusivamente na premissa da inversão do ônus da prova, remanescendo imprescindível a
+comprovação, pela parte autora, da efetiva existência de comportamento negligente ou nexo de causalidade
+entre o dano por ela invocado e a conduta comissiva ou omissiva do poder público.” (publicado no DJE em
+24/2/25)
+Este documento pode ser acessado no endereço eletrônico http://www.tst.jus.br/validador sob código 100665C942F327AD8E.
+Logo, considerando que o Supremo Tribunal Federal delineia o alcance dos seus
+precedentes vinculantes por meio de suas reclamações, constatava-se que a mera ausência de prova
+quanto à fiscalização do contrato não induziria à responsabilização do Poder Público, cabendo ao
+reclamante o encargo de comprovar a omissão do ente público quanto à sua obrigação de fiscalizar.
+Caso contrário, estar-se-ia diante da possibilidade de novas condenações do Estado por simples
+inadimplemento, em desrespeito à tese fixada na ADC 16.
+No presente caso, o Regional, ao reconhecer a responsabilidade subsidiária do
+ente público, assim fundamentou sua decisão:
+“Assim sendo, impõe-se verificar a omissão culposa da litisconsorte na fiscalização do
+cumprimento das obrigações contratuais e legais do prestador de serviço, cujo ônus probatório,
+segundo recente decisão da SDI-1 é do ente público.
+Se em relação à culpa in eligendo não é possível que o ônus seja imputado à Administração
+Pública, pois além de tratar-se de fato constitutivo, estarmos diante de ato administrativo que goza
+de presunção de legitimidade, o mesmo já não se pode dizer em relação à culpa in vigilando, pois
+nesse caso não há nenhum ato administrativo a ser presumido legítimo. Nesse caso, a aplicação do
+princípio da aptidão para prova não somente se mostra possível como necessária, pois somente a
+Administração Pública tem condições de provar a ausência de fato constitutivo, ou seja, demonstrar
+que fiscalizou.
+Recentemente, em julgado publicado em 22/05/2020, o TST firmou sua Jurisprudência por meio
+de precedente judicial de observância obrigatória [decisão de recurso de embargos à Seção
+Especializada competente (SDI) para uniformizar a jurisprudência do tribunal - já que nos termos do
+Artigo 78 do Regimento Interno do TST outorga às Seções de Dissídios Individuais o julgamento dos
+processos com fins de uniformização da jurisprudência do Tribunal, julgando embargos interpostos
+contra decisões divergentes das Turmas, ou destas que divirjam de decisão da SDI, de Súmula ou de
+Orientação Jurisprudencial], conforme Artigo 927, CPC e Artigo 15,I,alínea ‘e’ da IN nº 39/2016 do TST
+de que, apesar de não haver presunção de culpa automática em desfavor da Administração Pública,
+incumbe ao órgão público demonstrar que fiscalizou de forma adequada o cumprimento dos
+deveres do contrato de trabalho em virtude do princípio da aptidão da prova, eis a ementa do
+julgado:
+(...)
+Assim, não é compatível com as regras de distribuição do ônus da prova exigir que a parte
+autora faça prova de fato negativo, qual seja, a ausência de fiscalização, especialmente quando é
+atribuição do tomador dos serviços fiscalizar o cumprimento das obrigações contratuais, conforme
+art. 67 da Lei 8.666/1993.
+Ademais, ainda que não fosse esse o entendimento da Corte Superior Trabalhista, ainda assim
+a condenação se manteria, pois não foram juntados pela litisconsorte quaisquer documentos
+comprobatórios da fiscalização efetiva no transcurso do contrato.
+Ou seja, o litisconsorte foi negligente quanto a fiscalização de obrigações básicas decorrentes
+do contrato de trabalho, razão pela qual sua responsabilização é medida que se impõe.
+Diante do exposto, e dada à ausência de prova documental ou testemunhal que demonstre
+a efetiva fiscalização pelo litisconsorte quanto ao cumprimento das obrigações trabalhistas da
+empresa contratada, caracterizada está a responsabilidade subsidiária pelo pagamento de todas as
+parcelas pecuniárias deferidas na sentença, nos exatos termos dos itens V e VI da Súmula 331 do
+TST.
+No tocante ao pedido de limitação da responsabilidade da litisconsorte pelas verbas
+rescisórias, tenho que também não procede, haja vista a Súmula 331, VI do TST não ter excepcionado
+nenhuma parcela, razão pela qual esta Relatora se abstém de fazê-lo.
+Por estas razões, mantenho a sentença.”. (fls. 768/770 – destaques acrescidos).
+Como se verifica, o Tribunal Regional imputou ao ente público o ônus da prova
+acerca da fiscalização do cumprimento das obrigações trabalhistas pelo prestador de serviços
+terceirizados.
+Assim, o que se conclui é que a Corte de origem responsabilizou o ente público de
+forma automática, porque decidiu unicamente com base na inversão do ônus da prova, consignando a
+ausência de provas quanto à fiscalização eficaz, o que destoa dos entendimentos vinculantes firmados
+pelo STF.
+Dessa forma, impõe-se, no presente caso, o exercício do juízo de retratação, com
+amparo no inciso II do art. 1.030 do CPC/2015, para adequação do acórdão turmário à tese relativa ao
+Tema nº 1.118 do ementário de Repercussão Geral.
+Por todo exposto, constata-se que o acórdão regional violou o § 1º do artigo 71 da
+Lei 8.666/1993, motivo pelo qual dou provimento ao agravo de instrumento para determinar o
+processamento do recurso de revista.
+II - RECURSO DE REVISTA
+1. CONHECIMENTO
+Presentes os pressupostos de admissibilidade extrínsecos. Este documento pode ser acessado no endereço eletrônico http://www.tst.jus.br/validador sob código 100665C942F327AD8E.
+RESPONSABILIDADE SUBSIDIÁRIA. TERCEIRIZAÇÃO DE SERVIÇOS. ENTE
+PÚBLICO. AUSÊNCIA DE PROVA DE FISCALIZAÇÃO. ÔNUS DA PROVA. TEMAS 246 E 1.118 DO
+EMENTÁRIO DE REPERCUSSÃO GERAL
+Conforme assentado no exame do agravo de instrumento, constata-se a presença
+de pressuposto de admissibilidade intrínseco, visto estar demonstrada a ofensa pelo acórdão regional
+ao § 1º do artigo 71 da Lei 8.666/1993.
+Dessa forma, conheço do recurso de revista.
+2. MÉRITO
+RESPONSABILIDADE SUBSIDIÁRIA. TERCEIRIZAÇÃO DE SERVIÇOS. ENTE
+PÚBLICO. AUSÊNCIA DE PROVA DE FISCALIZAÇÃO. ÔNUS DA PROVA. TEMAS 246 E 1.118 DO
+EMENTÁRIO DE REPERCUSSÃO GERAL
+Conhecido o recurso de revista por violação do § 1º do artigo 71 da Lei 8.666/1993,
+seu provimento é medida que se impõe para eximir o ente público (PETROBRAS TRANSPORTE S.A. -
+TRANSPETRO) da responsabilidade subsidiária que lhe foi imposta.
+ISTO POSTO
+ACORDAM os Ministros da Oitava Turma do Tribunal Superior do Trabalho, por
+unanimidade, no exercício do juízo de retratação de que trata o art. 1.030, II, do CPC: I – dar provimento
+ao agravo de instrumento para determinar o processamento do recurso de revista; e II - conhecer do
+recurso de revista por violação do § 1º do artigo 71 da Lei 8.666/1993 e, no mérito, dar-lhe
+provimento para eximir o ente público (PETROBRAS TRANSPORTE S.A. - TRANSPETRO) da
+responsabilidade subsidiária que lhe foi imposta.
+Brasília, 11 de fevereiro de 2026.
+Firmado por assinatura digital (MP 2.200-2/2001)
+SERGIO PINTO MARTINS
+Ministro Relator
+Firmado por assinatura digital em 11/02/2026 pelo sistema AssineJus da Justiça do Trabalho, conforme MP 2.200-2/2001, que instituiu a Infra-Estrutura
+de Chaves Públicas Brasileira. Este documento pode ser acessado no endereço eletrônico http://www.tst.jus.br/validador sob código 100665C942F327AD8E.
