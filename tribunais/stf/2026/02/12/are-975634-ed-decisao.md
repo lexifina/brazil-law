@@ -1,0 +1,41 @@
+EMBARGOS DE DECLARAÇÃO NO RECURSO EXTRAORDINÁRIO COM AGRAVO. DIREITO TRIBUTÁRIO. ISSQN. CONSTRUÇÃO CIVIL. BASE DE CÁLCULO. DEDUÇÃO DOS VALORES RELATIVOS AOS MATERIAIS UTILIZADOS E ÀS SUBEMPREITADAS CONTRATADAS. ARTIGO 9º, § 2º, DO DECRETO-LEI 406/1968. RECEPÇÃO PELA CONSTITUIÇÃO FEDERAL DE 1988. TEMA 247 DE REPERCUSSÃO GERAL. ALCANCE DA NORMA LEGAL. INTERPRETAÇÃO DA LEGISLAÇÃO INFRACONSTITUCIONAL. POTENCIAL OFENSA INDIRETA À CONSTITUIÇÃO. OMISSÃO, CONTRADIÇÃO, OBSCURIDADE OU ERRO MATERIAL. INEXISTÊNCIA. EFEITOS MERAMENTE INFRINGENTES. IMPOSSIBILIDADE. EMBARGOS DESPROVIDOS.
+
+DECISÃO: Trata-se de embargos de declaração opostos em face de decisão monocrática cuja ementa possui o seguinte teor:
+
+“RECURSO EXTRAORDINÁRIO COM AGRAVO. DIREITO TRIBUTÁRIO. ISSQN. CONSTRUÇÃO CIVIL. BASE DE CÁLCULO. DEDUÇÃO DOS VALORES RELATIVOS AOS MATERIAIS UTILIZADOS E ÀS SUBEMPREITADAS CONTRATADAS. ARTIGO 9º, § 2º, DO DECRETO-LEI 406/1968. RECEPÇÃO PELA CONSTITUIÇÃO FEDERAL DE 1988. TEMA 247 DE REPERCUSSÃO GERAL. ALCANCE DA NORMA LEGAL. INTERPRETAÇÃO DA LEGISLAÇÃO INFRACONSTITUCIONAL. POTENCIAL OFENSA INDIRETA À CONSTITUIÇÃO. NEGADO SEGUIMENTO AO AGRAVO.”
+
+A parte embargante aduz, em síntese, que a decisão embargada seria contraditória, in verbis:
+
+“Todavia, há contradição interpretativa na decisão, pois o acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo (que deu origem ao presente Recurso Extraordinário) AFASTOU integralmente a incidência do previsto no art. 9º, § 2º, do Decreto-Lei nº 406/1968 - cuja recepção constitucional foi expressamente reconhecida por esta Suprema Corte.
+O Acórdão do Tribunal de Justiça não meramente delimitou o alcance do Decreto Lei 406/1968, mas afastou o seu cabimento. (...)
+Ao assim proceder, o Tribunal de origem não se limitou a mera interpretação infraconstitucional, mas efetivamente NEGOU os efeitos práticos da norma federal recepcionada e os artigos da Constituição citados (Art. 5º, Inc. II; Art. 59; Art. 146, Inc. III, ‘A’, Art. 150 e Art. 156, Inc. III). Portanto, data máxima vênia, deve-se corrigir a contradição da decisão embargada, vez que o Acórdão recorrido não se limitou a interpretar o alcance da norma recepcionada, mas negou sua aplicação, ultrapassando os limites determinados pelo Tema 247 desta Suprema Corte.”
+
+É o relatório. DECIDO.
+
+Não merece acolhida a pretensão da parte ora embargante.
+Os embargos de declaração têm o fim de permitir ao órgão julgador o saneamento dos vícios elencados no artigo 1.022 do Código de Processo Civil. São eles: “obscuridade”, “omissão”, “contradição” ou “erro material”.
+Obscuridade é a carência de elementos de organização que confiram harmonia interpretativa ao texto, implicando em dubiedade quanto à linha de raciocínio desenvolvida. Omissão é a ausência de manifestação sobre pedido de tutela jurisdicional, sobre argumentos relevantes suscitados pelas partes ou sobre questões apreciáveis de ofício pelo magistrado. Contradição é a existência de proposições inconciliáveis entre si, de forma que a afirmação de uma logicamente significa a negação da outra. Por fim, erro material consiste em equívoco ou inexatidão relacionados a aspectos objetivos do processo.
+Destarte, o escopo dos embargos declaratórios não é o de revisão, reforma ou anulação do julgado, uma vez que não se destinam à produção de uma nova decisão. Sua função é ancilar. Em caso de provimento, eventuais alterações no ato judicial embargado são restritas à correção dos vícios elencados na lei, de forma que a decisão dos embargos de declaração terá um caráter mera e notadamente integrativo.
+In casu, a decisão ora embargada assentou:
+
+“Com efeito, no tocante à admissibilidade do recurso extraordinário com fundamento na alínea ‘d’ do permissivo constitucional, constata-se que o Tribunal a quo não julgou válida lei ou ato de governo local em detrimento de lei federal, sendo, portanto, manifestamente inviável a interposição do apelo extremo com fulcro no argumento referenciado.
+Saliente-se, ainda, que a análise do recurso extraordinário interposto pela alínea ‘d’ depende da ocorrência no feito de conflito de competência legislativa entre os entes da Federação, não sendo cabível, todavia, ante mera pretensão de revisão da interpretação da norma infraconstitucional, exatamente como ocorreu no caso concreto. (...)
+Outrossim, frise-se que, no julgamento do RE 603.497-AgR-segundo, Rel. Min. Rosa Weber, DJe de 13/8/2020, Tema 247, o Plenário desta Corte fixou a seguinte tese de repercussão geral: ‘O art. 9º, § 2º, do DL nº 406/1968 foi recepcionado pela ordem jurídica inaugurada pela Constituição de 1988’. Nada obstante, a Corte entendeu que a aplicação da tese ao caso concreto paradigma do leading case não ensejaria a reforma do acórdão recorrido do Superior Tribunal de Justiça, ‘uma vez que aquela Corte, sem negar a premissa da recepção do mencionado dispositivo legal, circunscreveu-se a fixar-lhe o respectivo alcance’. (...)
+Destarte, a controvérsia relativa ao alcance do art. 9, § 2º, do Decreto-Lei 406/1968, atualmente previsto no art. 7º, § 2º, da Lei Complementar 116/2003, limita-se ao campo infraconstitucional, sendo inviável seu exame na via estreita do recurso extraordinário, pois a afronta ao texto constitucional, caso existente, seria meramente indireta. (...)”
+
+Nesse contexto, não se verifica nenhuma das hipóteses ensejadoras dos embargos de declaração, uma vez que a decisão embargada, não tendo partido de premissa equivocada, apreciou a questão de modo claro e coerente, nos limites necessários ao escorreito deslinde do feito.
+Assevere-se que os restritos limites dos embargos de declaração não permitem o rejulgamento da causa. O efeito modificativo ora pretendido somente é possível em casos excepcionais e desde que comprovado obscuridade, contradição, omissão ou erro material no julgado, o que não ocorre no caso em desate, pelas razões delineadas. Nesse sentido, verte a jurisprudência consolidada deste Supremo Tribunal Federal, in verbis:
+
+“EMBARGOS DE DECLARAÇÃO NO RECURSO EXTRAORDINÁRIO. INEXISTÊNCIA DE OMISSÃO, CONTRADIÇÃO, OBSCURIDADE OU ERRO MATERIAL. ART. 1.022 DO CPC/2015. MANIFESTO INTUITO PROTELATÓRIO.MULTA PREVISTA NO ART. 1.026, § 2º, DO CPC/2015. EMBARGOS DE DECLARAÇÃO DESPROVIDOS. 1. A omissão, contradição, obscuridade ou erro material, quando inocorrentes, tornam inviável a revisão da decisão em sede de embargos de declaração, em face dos estreitos limites do art. 1.022 do CPC/2015. 2. A revisão do julgado, com manifesto caráter infringente, revela-se inadmissível em sede de embargos quando inocorrentes seus requisitos autorizadores. Precedentes: ARE 944537 AgR-ED, Rel. Min. Ricardo Lewandowski, Tribunal Pleno, DJe 10/08/2016; ARE 755228 AgR-ED-EDv-AgR-ED, Rel. Min. Rosa Weber, Tribunal Pleno, DJe 12/08/2016 e RHC 119325 ED, Rel. Min. Edson Fachin, Primeira Turma, DJe 09/08/2016. 3. A oposição de embargos de declaração com caráter eminentemente protelatório autoriza a imposição de multa, com fundamento no art. 1.026, § 2º, do CPC/2015. 4. Embargos de declaração DESPROVIDOS, com aplicação de multa de 2% (dois por cento) sobre o valor atualizado da causa.” (RE 898.060-ED, Plenário, Rel. Min. Luiz Fux, DJe de 29/5/2019)
+
+“EMBARGOS DECLARATÓRIOS - ACÓRDÃO - INEXISTÊNCIA DE VÍCIO - DESPROVIMENTO. Uma vez voltados os embargos declaratórios ao simples rejulgamento de certa matéria, inexistindo, no acórdão proferido, qualquer dos vícios que os respaldam – omissão, contradição e obscuridade –, impõe-se o desprovimento.” (RE 812.827-AgR-ED, Primeira Turma, Rel. Min. Marco Aurélio, DJe de 26/3/2015)
+
+“EMBARGOS DE DECLARAÇÃO - INOCORRÊNCIA DE CONTRADIÇÃO, OBSCURIDADE OU OMISSÃO - EMBARGOS DE DECLARAÇÃO REJEITADOS. - Os embargos de declaração destinam-se, precipuamente, a desfazer obscuridades, a afastar contradições e a suprir omissões que eventualmente se registrem no acórdão proferido pelo Tribunal. A inocorrência dos pressupostos de embargabilidade, a que se refere o art. 535 do CPC, autoriza a rejeição dos embargos de declaração, por inadmissíveis.” (ARE 835.081-AgR-ED, Segunda Turma, Rel. Min. Celso de Mello, DJe de 25/3/2015)
+
+Ex positis, DESPROVEJO os embargos de declaração.
+Publique-se.
+Brasília, 12 de fevereiro de 2026.
+
+Ministro LUIZ FUX
+Relator
+Documento assinado digitalmente
