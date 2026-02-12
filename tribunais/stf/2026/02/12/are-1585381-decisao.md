@@ -1,0 +1,104 @@
+Trata-se de agravo interposto pelo Ministério Público do Estado de Goiás contra decisão do Tribunal de Justiça do Estado de Goiás – TJGO, que não admitiu o recurso extraordinário em razão da incidência da Súmula 279 do Supremo Tribunal Federal (doc. 44).
+
+O agravante sustenta, em suma, violação dos arts. 1º, III; 5º, X, XI, XLIX e LXIII; e 144, caput e § 5º, da Constituição Federal. Nesse contexto, diz que a decisão recorrida está em dissonância com a jurisprudência do Supremo Tribunal Federal no que se refere à busca pessoal e residencial.
+
+No agravo regimental, o Parquet aduz que não é o caso de incidência da Súmula 279 do Supremo Tribunal Federal, pois:
+
+Ao contrário do que afirma o decisum, o recurso extraordinário não discute fatos ou provas. Apenas busca a apreciação de teses jurídicas à luz da jurisprudência sobre a matéria, bem como das premissas fáticas expressamente consignadas no acórdão, na esteira da remansosa jurisprudência desse Supremo Tribunal Federal:
+[...]
+Observa-se que é reconhecida a possibilidade de requalificação jurídica dos fatos ou mesmo de revaloração das provas que foram debatidas e reconhecidas nas instâncias ordinárias, tratando-se, por certo, de expediente distinto do reexame vedado pelo Enunciado Sumular de nº 279 desse Supremo Tribunal Federal (pp. 4 e 5 do documento 48).
+
+É o relatório necessário. Decido.
+
+A pretensão recursal merece prosperar.
+
+A orientação jurisprudencial do Supremo Tribunal Federal é consolidada no sentido de que, “[nos] termos dos arts. 240, § 2º e 244 do CPP, cabe a busca pessoal, independente de autorização judicial, quando houver fundada suspeita de ocultação pelo investigado de elementos de convicção” (HC 212.682 AgR/SP, Rel. Min. Rosa Weber, Primeira Turma, 18/4/2022 – grifei).
+
+Nessa mesma direção:
+
+AGRAVO REGIMENTAL NO RECURSO ORDINÁRIO EM HABEAS CORPUS. BUSCA PESSOAL SEM AUTORIZAÇÃO JUDICIAL. FUNDADA SUSPEITA. MOTIVAÇÃO IDÔNEA. AGRAVO AO QUAL SE NEGA PROVIMENTO.
+I – Nos “termos dos arts. 240, § 2º e 244 do CPP, cabe a busca pessoal, independente de autorização judicial, quando houver fundada suspeita de ocultação pelo investigado de elementos de convicção” (HC 212.682 AgR/SP, Rel. Min. Rosa Weber, Primeira Turma, 18/4/2022).
+II – No caso, “os policiais militares somente se deslocaram ao local do flagrante, onde apreenderam na posse do Paciente aproximadamente 2kg de maconha e uma balança de precisão, em plena via pública, porque, durante o serviço, receberam notícia específica de que o denunciado estaria com entorpecentes na região”.
+III – Agravo ao qual se nega provimento (RHC 235.408 AgR/AL, da minha relatoria, Primeira Turma, DJe 24/4/2024 – grifei).
+
+AGRAVO REGIMENTAL EM RECURSO ORDINÁRIO EM HABEAS CORPUS. PROCESSUAL PENAL. PENAL. BUSCA PESSOAL. FUNDADAS RAZÕES. INEXISTÊNCIA DE ILEGALIDADE FLAGRANTE. TRÁFICO DE ENTORPECENTES. PRISÃO PREVENTIVA. MATÉRIA NÃO EXAMINADA PELO SUPERIOR TRIBUNAL DE JUSTIÇA. SUPRESSÃO DE INSTÂNCIA. QUANTIDADE E VARIEDADE DE DROGAS. FUNDAMENTAÇÃO IDÔNEA. PRECEDENTES. AGRAVO REGIMENTAL DESPROVIDO (RHC 241.222 AgR/MG, Rel. Min. Cármen Lúcia, Primeira Turma, DJe 14/6/2024 – grifei).
+
+AGRAVO REGIMENTAL EM HABEAS CORPUS. PROCESSO PENAL. IMPETRAÇÃO FORMALIZADA CONTRA DECISÃO MONOCRÁTICA PROFERIDA NO ÂMBITO DO STJ. NÃO CONHECIMENTO. ORDEM CONCEDIDA DE OFÍCIO, EM MENOR EXTENSÃO, PARA MODIFICAR A DOSIMETRIA. PEDIDO DE NULIDADE DA PROVA. BUSCA PESSOAL. AUSÊNCIA DE ILEGALIDADE. AGRAVO REGIMENTAL DESPROVIDO.
+ 1. A teor do art. 102, I, i, da Constituição da República, o Supremo Tribunal Federal não admite a impetração de habeas corpus contra decisão proferida, de forma unipessoal, por membro de Tribunal Superior. Precedentes.
+2. Nos termos do art. 244 do CPP, a busca pessoal independerá de mandado quando houver fundada suspeita de que a pessoa esteja na posse de objetos que constituam corpo de delito.
+3. Agravo regimental desprovido (HC 238.782 AgR/SP, Rel. Min. Edson Fachin, Segunda Turma, DJe 23/5/2024 – grifei).
+
+Ademais, por tratar-se de análise da correição da utilização da jurisprudência desta Suprema Corte, fixada, como visto, no julgamento do Tema 280 da Repercussão Geral, que demandou, naquela oportunidade, inclusive, o exame do caso concreto, tem-se que “[a] Súmula 279 revela-se inaplicável quando os fatos da causa são incontroversos, tendo o Tribunal a quo atribuído a eles consequências jurídicas discrepantes do entendimento desta Corte” (RE 450.971 AgR/DF, Rel. Min. Ricardo Lewandowski, Primeira Turma, DJe 21/2/2011 – grifei).
+
+Não bastasse isso, aqui também se coloca, por analogia, o entendimento segundo o qual “[a] avaliação da dimensão fática não constitui uma instância heterogênea à normatividade, mas, sim, etapa necessária no processo de concretização da Constituição” (ARE 155.1794 AgR/SP, Relator Ministro Cristiano Zanin e Redator para o acórdão Ministro Gilmar Mendes, Tribunal Pleno, DJe 6/11/2025 – grifei).
+
+No  caso da busca domiciliar, o Supremo Tribunal Federal fixou a seguinte tese no Tema 280 da repercussão geral:
+
+A entrada forçada em domicílio sem mandado judicial só é lícita, mesmo em período noturno, quando amparada em fundadas razões, devidamente justificadas a posteriori, que indiquem que dentro da casa ocorre situação de flagrante delito, sob pena de responsabilidade disciplinar, civil e penal do agente ou da autoridade, e de nulidade dos atos praticados.
+
+Com esse raciocínio, destaco os seguintes julgamentos:
+
+Ementa: DIREITO PROCESSUAL PENAL. AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. TRÁFICO DE DROGAS. BUSCA PESSOAL E DOMICILIAR. FUNDADAS RAZÕES CONFIRMADAS A POSTERIORI. TEMA 280 DA REPERCUSSÃO GERAL. AGRAVO REGIMENTAL IMPROVIDO.
+I. CASO EM EXAME
+1. Agravo regimental interposto pelo acusado após provimento do recurso extraordinário para reformar a decisão e considerar válidas a busca pessoal e domiciliar.
+II. QUESTÃO EM DISCUSSÃO
+2. A questão em discussão consiste em saber se houve violação do art. 5°, XI, da Constituição Federal e se houve fundadas razões para a ação dos policiais.
+III. RAZÕES DE DECIDIR
+3. No caso ora em análise, houve fundadas razões dos agentes públicos. Em patrulhamento ostensivo, em decorrência de nervosismo do réu, foi realizada a busca pessoal, na qual encontraram entorpecentes ilícitos. Ato contínuo, o acusado foi levado à sua residência e, tendo franqueado acesso aos policiais, encontrou-se maior quantidade de maconha.
+IV. DISPOSITIVO E TESE
+ 5. Agravo regimental a que se nega provimento (RE 1.549.803/BA, da minha relatoria, DJe 27/6/2025).
+
+AGRAVO INTERNO EM HABEAS CORPUS. ALEGADA VIOLAÇÃO DE DOMICÍLIO. FLAGRANTE DE CRIME PERMANENTE. NECESSÁRIO REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO. IDONEIDADE DA PRISÃO PREVENTIVA. GRAVIDADE CONCRETA DA CONDUTA. PERICULOSIDADE SOCIAL DO AGENTE. HABEAS CORPUS INDEFERIDO.
+1. Nos crimes de natureza permanente, cuja situação de flagrância se protrai no tempo, é dispensável a apresentação de mandado judicial para o ingresso forçado na residência do acusado, desde que amparado em fundada razões (Tema n. 280/RG).
+2. Não se admite, na via estreita do habeas corpus, a qual não comporta dilação probatória, o reexame, com vistas ao acolhimento da tese defensiva – desrespeito à inviolabilidade de domicílio –, do conjunto fático-probatório produzido nas instâncias ordinárias.
+3. É idônea a prisão cautelar fundada na garantia da ordem pública, quando evidenciadas a gravidade concreta da conduta e a periculosidade social do agente supostamente envolvido no tráfico de grande quantidade de drogas.
+4. Agravo interno desprovido (HC 208.598 AgR/SP, Rel. Min. Nunes Marques, Segunda Turma, DJe 6/4/2022 – grifei).
+
+AGRAVO INTERNO NO HABEAS CORPUS. PENAL E PROCESSUAL PENAL. CRIME DE TRÁFICO ILÍCITO DE ENTORPECENTES. ARTIGO 33 DA LEI Nº 11.343/2006. AUSÊNCIA DE JULGAMENTO COLEGIADO NA INSTÂNCIA PRECEDENTE. ALEGADA NULIDADE DE PROVA. INEXISTÊNCIA DE ABUSO DE PODER OU FLAGRANTE ILEGALIDADE. POSSIBILIDADE DE INGRESSO EM DOMICÍLIO PELA AUTORIDADE POLICIAL DIANTE DE FUNDADAS RAZÕES QUE INDIQUEM QUE DENTRO DA CASA OCORRE SITUAÇÃO DE FLAGRANTE DELITO. APLICABILIDADE DO ENTENDIMENTO FIRMADO PELO SUPREMO TRIBUNAL FEDERAL EM SEDE DE REPERCUSSÃO GERAL. TEMA 280. PLEITO DE REVOGAÇÃO DA CUSTÓDIA CAUTELAR. FUNDAMENTAÇÃO IDÔNEA PELAS INSTÂNCIAS ORDINÁRIAS. PLEITO ABSOLUTÓRIO. SUPRESSÃO DE INSTÂNCIA. REVOLVIMENTO DO CONJUNTO FÁTICOPROBATÓRIO ENGENDRADO NOS AUTOS. INADMISSIBILIDADE NA VIA ELEITA. IMPOSSIBILIDADE DE UTILIZAÇÃO DO HABEAS CORPUS COMO SUCEDÂNEO DE RECURSO OU REVISÃO CRIMINAL. INOBSERVÂNCIA DO DEVER DE IMPUGNAÇÃO ESPECÍFICA DA DECISÃO RECORRIDA. REITERAÇÃO DAS RAZÕES. AGRAVO INTERNO DESPROVIDO.
+1. A busca e apreensão realizada pela autoridade policial diante da presença de elementos mínimos a caracterizar fundadas razões (justa causa) para a medida, ainda que ausente autorização judicial prévia, é admitida pela jurisprudência do STF (Tema 280, RG), sendo certa a possibilidade de controle jurisdicional posterior, no bojo da ação penal, seara adequada ao revolvimento do arcabouço fático-probatório.
+2. A decretação da custódia preventiva para assegurar a aplicação da lei penal e a garantia da ordem pública que tem como fundamentos a gravidade concreta da conduta, considerada a quantidade de substâncias entorpecentes, bem como o risco de reiteração criminosa, encontra amparo na jurisprudência desta Corte. Precedentes: HC nº 221.166-AgR, Primeira Turma, Rel Min. Cármen Lúcia, DJe de 11/11/2022; HC nº 206.793-AgR, Segunda Turma, Rel. Min. Edson Fachin, DJe de 8/7/2022; HC nº 207.779-AgR, Primeira Turma, Rel. Min. Alexandre de Moraes, DJe de 30/11/2021; HC nº 152.912-AgR, Segunda Turma, Rel. Min. Gilmar Mendes, DJe de 30/11/2018; HC nº 170.393-AgR, Primeira Turma, Rel. Min. Roberto Barroso, DJe de 6/8/2019.
+3. In casu, o agravante teve a prisão preventiva decretada em razão da suposta prática do crime previsto no art. 33 da Lei nº 11.343/2006. Foram apreendidos 424,25g (quatrocentos e vinte e quatro gramas e vinte e cinco centigramas) de ‘maconha’ e uma balança de precisão.
+4. O habeas corpus é ação inadequada para impugnação de decisum monocrático proferido pelo Superior Tribunal de Justiça. Precedentes: HC nº 218.896-AgR, Primeira Turma, Rel. Min. Alexandre de Moraes, DJe de 16/9/2022; HC nº 216.856- AgR, Segunda Turma, Rel. Min. Nunes Marques, DJe de 15/9/2022.
+5. A supressão de instância impede o conhecimento de habeas corpus quando ausente o exame do mérito da matéria posta sob exame da Corte Superior. Precedentes: HC nº 216.782- AgR, Primeira Turma, Rel. Min. Roberto Barroso, DJe de 31/8/2022; HC nº 210.524-AgR, Segunda Turma, Rel. Min. Edson Fachin DJe de 20/7/2022.
+6. O habeas corpus é ação inadequada para a valoração e exame minucioso do acervo fático-probatório engendrado nos autos.
+7. O writ é impassível de ser manejado como sucedâneo de recurso ou revisão criminal.
+8. A impugnação específica da decisão agravada, quando ausente, conduz ao desprovimento do agravo interno. Precedentes: HC nº 222.412- AgR, Primeira Turma, Rel. Min. Roberto Barroso, DJe de 28/2/2023; HC nº 221.579-AgR, Segunda Turma, Rel. Min. Edson Fachin, DJe de 3/2/2023.
+9. A reiteração dos argumentos trazidos pelo agravante na petição inicial da impetração é insuscetível de modificar a decisão agravada. Precedentes: HC nº 136.071-AgR, Segunda Turma, Rel. Min. Ricardo Lewandowski, DJe de 9/5/2017; HC nº 122.904-AgR, Primeira Turma, Rel. Min. Edson Fachin, DJe de 17/5/2016; RHC nº 124.487-AgR, Primeira Turma, Rel. Min. Roberto Barroso, DJe de 1º/7/2015.
+10. Agravo interno desprovido (HC 232.283 AgR/RN, Rel. Min. Luiz Fux, Primeira Turma, DJe 18/10/2023 – grifei).
+
+Colaciono, por oportuno, a ementa do acórdão recorrido e trecho do seu voto condutor, respectivamente:
+
+Ementa: APELAÇÃO CRIMINAL. TRÁFICO DE DROGAS. ILEGALIDADE DE PROVA. BUSCA PESSOAL E VIOLAÇÃO DE DOMICÍLIO. ABSOLVIÇÃO. USO DE ALGEMAS EM AUDIÊNCIA ( OBITER DICTUM).
+I. CASO EM EXAME
+1. Apelações criminais interpostas contra sentença condenatória por tráfico de drogas. A defesa argui o reconhecimento da nulidade das provas decorrentes da violação ao domicílio e confissão informal. O Ministério Público propugna o não reconhecimento da aplicação do tráfico privilegiado.
+II. QUESTÃO EM DISCUSSÃO
+2. As questões em discussão são: (i) a ilegalidade da busca pessoal e domiciliar realizada pelos policiais; (ii) a validade das provas obtidas em decorrência da suposta ilegalidade das buscas; e (iii) o uso de algemas durante a audiência de instrução e julgamento (obiter dictum).
+ III. RAZÕES DE DECIDIR
+3. A busca pessoal e o ingresso na residência ocorreram sem mandado judicial e sem justa causa, violando a Constituição Federal e a jurisprudência do STJ, que exige fundada suspeita para tais medidas. 4. As provas obtidas em consequência dessas ilegalidades são ilícitas, devendo ser desconsideradas. A confissão informal, sem a devida advertência do direito ao silêncio, também é inválida (obiter dictum).
+5. O uso de algemas em audiência de instrução e julgamento, sem justificativa escrita, configura nulidade conforme a Súmula Vinculante 11 do STF. A ausência de resistência, fuga ou risco à integridade física torna o uso das algemas ilegal (argumento obiter dictum).
+IV. DISPOSITIVO E TESE
+6. Apelação provida para a defesa e desprovida para o Ministério Público. Sentença anulada. Primeiro apelante absolvido. (documento 29).
+[...]
+Sob outro prisma, na hipótese dos fólios, os testemunhos são limitantes, pois somente apontam que, a equipe policial realizavam patrulhamento de rotina e avistaram ISRAEL descendo de um veículo de aplicativo, o qual se assustou e dispensou um objeto no chão. Decidiram abordá-lo e resgatar o objeto, que se tratava de uma porção de maconha. Após, adentraram na residência de Israel.
+Implica registrar que, na versão dos milicianos somente abordaram o apelante porque avistaram ele saindo de um veículo e dispensado um objeto no chão, e, sob a ótica da equipe, caracterizou uma situação de suspeita da prática de crime, sobrevindo a busca pessoal.
+A abordagem ao apelante ISRAEL foi absolutamente seletiva.
+O perlustrar do alfarrábio consente sondar que não ficou demonstrado de modo suficiente, para além da dúvida razoável, que os elementos relativos à prática de infração penal se hajam obtidos de modo lícito, é referir, de que se tenha coletado em perímetro de atuação repressiva pela polícia ostensiva (militar), desaproximando-se, por conseguinte, do indispensável à sua validez, quer no que pertine à busca pessoal, quer no que pertine ao ingresso na residência do apelante ISRAEL, eis que concretizadas fora das hipóteses constitucionais e legais (pp. 11 e 12 do documento 29).
+
+No caso dos autos, verifica-se que os agentes públicos, em patrulhamento de rotina, visualizaram dois indivíduos em um veículo. Assim que avistaram a guarnição policial, um deles saiu do carro e dispensou um objeto embaixo do automóvel, motivo pelo qual foi realizada a abordagem.
+
+Ao revistarem os dois indivíduos, o veículo e o objeto dispensado, encontraram substância análoga à Cannabis sativa com o réu.
+
+O acusado admitiu que a substância entorpecente seria entregue a terceiros e que possuía mais drogas em sua residência. Ao se dirigirem ao domicílio do réu, com sua permissão para ingresso, os policiais apreenderam sete porções adicionais de maconha, uma balança de precisão e outros objetos que indicavam a prática de tráfico.
+
+No total, foram encontrados 3.315 quilogramas de maconha.
+
+Nesse sentido, entendo haver fundadas razões tanto para a busca pessoal quanto para a busca domiciliar, de modo que a decisão proferida pelo Tribunal a quo está em dissonância com a jurisprudência desta Suprema Corte.
+
+Ante o exposto, dou provimento a este recurso extraordinário (art. 638 do Código de Processo Penal, combinado com o art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal) para reconhecer a validade da busca pessoal e a contrariedade ao Tema 280 da Repercussão Geral e, como corolário, reformar o acórdão proferido pelo Tribunal de Justiça do Estado de Goiás e reconhecer a licitude das provas circunscritas ao caso.
+
+Publique-se.
+
+Brasília, 12 de fevereiro de 2026.
+
+Ministro Cristiano Zanin
+Relator
