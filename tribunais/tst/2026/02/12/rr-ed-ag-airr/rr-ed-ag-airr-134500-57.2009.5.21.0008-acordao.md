@@ -1,0 +1,207 @@
+Poder Judiciário
+Justiça do Trabalho
+Tribunal Superior do Trabalho
+PROCESSO Nº TST-RR - 134500-57.2009.5.21.0008
+A C Ó R D Ã O
+2ª Turma
+GMDMA/ASS/
+I - JUÍZO DE RETRATAÇÃO. AGRAVO EM AGRAVO DE
+INSTRUMENTO EM RECURSO DE REVISTA INTERPOSTO PELO
+RECLAMADO. TEMA 1.118 DA TABELA DE REPERCUSSÃO GERAL
+DO STF (RE 1.298.647). RESPONSABILIDADE SUBSIDIÁRIA. ENTE
+PÚBLICO. ÔNUS DA PROVA. CULPA DECORRENTE DA
+NEGLIGÊNCIA NA FISCALIZAÇÃO (CULPA IN VIGILANDO) NÃO
+COMPROVADA. Trata-se de processo que retorna a esta Turma,
+por determinação da Vice-Presidência do TST, para o exercício
+de eventual juízo de retratação, conforme prevê o art. 1.030, II,
+do CPC/2015. Por verificar que a decisão proferida por este
+Colegiado aparentemente contraria o entendimento do STF,
+pacificado no julgamento do Tema 1.118 de Repercussão Geral
+(RE 1.298.647), deve ser exercido o juízo de retratação.
+II – AGRAVO EM AGRAVO DE INSTRUMENTO EM RECURSO DE
+REVISTA INTERPOSTO PELO RECLAMADO. TEMA 1.118 DA
+TABELA DE REPERCUSSÃO GERAL DO STF (RE 1.298.647).
+RESPONSABILIDADE SUBSIDIÁRIA. ENTE PÚBLICO. ÔNUS DA
+PROVA. CULPA DECORRENTE DA NEGLIGÊNCIA NA
+FISCALIZAÇÃO (CULPA IN VIGILANDO) NÃO COMPROVADA.
+Demonstrada possível violação do art. 71, § 1º, da Lei 8.666/93,
+deve ser provido o agravo do ente público, para se determinar o
+reexame do agravo de instrumento. Agravo provido.
+III – AGRAVO DE INSTRUMENTO EM RECURSO DE REVISTA
+INTERPOSTO PELO RECLAMADO. TEMA 1.118 DA TABELA DE
+REPERCUSSÃO GERAL DO STF (RE 1.298.647).
+RESPONSABILIDADE SUBSIDIÁRIA. ENTE PÚBLICO. ÔNUS DA
+PROVA. CULPA DECORRENTE DA NEGLIGÊNCIA NA
+FISCALIZAÇÃO (CULPA IN VIGILANDO) NÃO COMPROVADA.
+Demonstrada possível violação do art. 71, § 1º, da Lei 8.666/93,
+deve ser provido o agravo de instrumento do ente público, para
+se determinar o processamento do recurso de revista, na forma
+regimental. Agravo de instrumento provido.
+IV – RECURSO DE REVISTA INTERPOSTO PELO RECLAMADO.
+TEMA 1.118 DA TABELA DE REPERCUSSÃO GERAL DO STF (RE
+1.298.647). RESPONSABILIDADE SUBSIDIÁRIA. ENTE PÚBLICO.
+ÔNUS DA PROVA. CULPA DECORRENTE DA NEGLIGÊNCIA NA
+FISCALIZAÇÃO (CULPA IN VIGILANDO) NÃO COMPROVADA. 1. O
+Supremo Tribunal Federal, ao julgar o Tema 1.118 da Tabela de
+Repercussão Geral, em 13/2/2025, fixou a tese vinculante de que
+a responsabilidade subsidiária do ente público não se sustenta
+se amparada exclusivamente na premissa da inversão do ônus
+da prova, sendo necessária a comprovação, pela parte autora,
+da negligência na fiscalização ou do nexo de causalidade entre o
+dano e a conduta comissiva ou omissiva da Administração
+Pública. 2. No caso dos autos, o Tribunal Regional reconheceu a
+culpa decorrente da negligência na fiscalização (culpa in
+vigilando) do ente público com amparo exclusivamente na
+inversão do ônus da prova, entendimento que não se adequa ao
+posicionamento firmado pela Suprema Corte, de caráter
+vinculante. Recurso de revista conhecido e provido.
+Vistos, relatados e discutidos estes autos de Recurso de Revista nº TST-RR -
+134500-57.2009.5.21.0008, em que é Recorrente ESTADO DO RIO GRANDE DO NORTE e são Recorridas
+A&G LOCAÇÃO DE MÃO DE OBRA LTDA. e MAYARA KARLA ALCANTARA DE OLIVEIRA.
+A 2.ª Turma negou provimento ao agravo interposto pelo ente público, mantendo
+a decisão monocrática do então relator.
+Inconformado, o ente público interpôs recurso extraordinário. Este documento pode ser acessado no endereço eletrônico http://www.tst.jus.br/validador sob código 10066651BA24D78435.
+Por se tratar de recurso extraordinário em que a parte se insurge quanto ao
+tópico "responsabilidade subsidiária", questão relacionada com tema cuja repercussão geral foi
+reconhecida pelo Supremo Tribunal Federal, a Vice Presidência desta Corte determinou o
+encaminhamento dos autos a este órgão fracionário, prolator da decisão recorrida, a fim de que se
+manifeste sobre a necessidade de exercer eventual juízo de retratação da decisão então proferida, em
+face do julgamento do Tema 1.118, nos termos do art. 1.030, II, do CPC.
+É o relatório.
+V O T O
+I - JUÍZO DE RETRATAÇÃO. TERCEIRIZAÇÃO. ADMINISTRAÇÃO PÚBLICA.
+RESPONSABILIDADE SUBSIDIÁRIA. ÔNUS DA PROVA. CULPA IN VIGILANDO. TEMA 1.118 DE
+REPERCUSÃO GERAL (RE 1.298.647)
+Trata-se de processo que retorna a esta Turma, por determinação da Vice
+Presidência do TST, para o exercício de eventual juízo de retratação, conforme prevê o art. 1.030, II, do
+CPC/2015.
+A Segunda Turma negou provimento ao agravo do ente público, com base na
+atribuição de ônus da prova ao ente público.
+Por verificar que a decisão proferida por este Colegiado em relação ao tema em
+epigrafe aparentemente contraria o entendimento do STF, pacificado no julgamento do Tema 1.118 de
+Repercussão Geral, exerço o juízo de retratação, nos termos do artigo 1.030, II, do CPC/2015, e passo à
+reanálise do agravo do ente público.
+II – AGRAVO
+1 - CONHECIMENTO
+Preenchidos os requisitos legais de admissibilidade, CONHEÇO do agravo.
+2 – MÉRITO
+O agravo de instrumento do ente público teve seu seguimento negado, por não se
+vislumbrar o preenchimento dos requisitos do art. 896 da CLT.
+Inconformado, o ente público pede a reforma da decisão. Sustenta não ter sido
+apresentado na decisão nenhum elemento que permita inferir a análise concreta da conduta culposa da
+Administração Pública. Assevera que a condenação se deu com apoio em presunção de culpa,
+decorrente do inadimplemento das verbas trabalhistas pela prestadora de serviços, e indevida inversão
+do ônus da prova em seu desfavor. Aponta a existência de repercussão geral reconhecida nos autos do
+RE 760.931.
+Dessa feita, caracterizada possível violação do art. 71, § 1º, da Lei 8.666/1993,DOU
+PROVIMENTO ao agravo para adentrar no exame do agravo de instrumento.
+III – AGRAVO DE INSTRUMENTO
+1 - CONHECIMENTO
+Preenchidos os pressupostos de admissibilidade recursal, CONHEÇO do agravo
+de instrumento.
+2 - MÉRITO
+Em consequência do reconhecimento da possível violação do art. 71, § 1º, da Lei
+8.666/1993, DOU PROVIMENTO ao agravo de instrumento para determinar o processamento do recurso
+de revista.
+IV – RECURSO DE REVISTA
+1 – CONHECIMENTO
+Este documento pode ser acessado no endereço eletrônico http://www.tst.jus.br/validador sob código 10066651BA24D78435.
+Satisfeitos os pressupostos extrínsecos de admissibilidade, passa-se ao exame
+dos pressupostos intrínsecos do recurso de revista.
+1.1 – TERCEIRIZAÇÃO. ADMINISTRAÇÃO PÚBLICA. RESPONSABILIDADE
+SUBSIDIÁRIA. ÔNUS DA PROVA. CULPA IN VIGILANDO
+No caso dos autos, verifica-se que o Tribunal Regional consignou o seguinte:
+No acórdão anterior, prolatado em 19 de maio de 2010, foi considerado que -
+"Com efeito, a inclusão das verbas trabalhistas, no alcance da responsabilidade do tomador de
+serviço, decorre do fato de que a responsabilização não comporta distinção entre as verbas
+reconhecidas ao empregado, haja vista que ela tem por origem o contrato entre tomador e
+prestador de serviços e a inadimplência deste. Nessa perspectiva, a abrangência da responsabilidade
+do tomador dos serviços leva a que ele responda subsidiariamente por toda inadimplência
+decorrente do contrato de trabalho, nos termos da Súmula n.° 331, item IV, do C. TST."
+Configura-se, no caso, a responsabilidade do ente público sob a perspectiva da falta da
+imprescindível fiscalização, pelo Estado, da regularidade do contrato, como lhe incumbia, por força
+das disposições da Lei nº 8.666/1993 (então vigente) notadamente no capítulo referente à execução
+do contrato e no disposto no art. 67 quando ao dever de a Administração acompanhar e fiscalizar,
+por um seu representante especialmente designado (o gestor de contrato), a execução do contrato,
+cabendo fazer o registro das ocorrências e determinar "o que for necessário à regularização das
+faltas ou defeitos observados."
+Com efeito, por força das decisões do Supremo Tribunal Federal, especialmente no julgamento
+em regime de Repercussão Geral nº 246, importa atentar para o procedimento do ente público,
+considerando a diretriz de ocorrência de conduta culposa na fiscalização do cumprimento das
+obrigações contratuais e legais da prestadora de serviço como empregadora.
+A extensão da responsabilidade pelo débito trabalhista, ao tomador dos serviços, está
+considerada nos termos da Súmula n.º 331, incisos IV e V, do C. TST. No segundo desses, consta a menção à conduta culposa, no cumprimento das obrigações estabelecidas na Lei 8666/93, o que é o
+caso, já que o Estado tinha o dever de fiscalizar o cumprimento das obrigações da prestadora de
+serviço, acompanhando o pagamento das obrigações trabalhistas e submetendo o pagamento das
+faturas mensais à prévia satisfação daquelas obrigações. Ao se descurar de sua obrigação, em
+verdadeira conduta negligente e culpa contra a legalidade, o Estado ensejou que houvesse o
+inadimplemento das obrigações trabalhistas pela empresa que contratara. Cabia-lhe demonstrar, em
+Juízo, que fizera o acompanhamento das obrigações trabalhistas da empresa contratada e não fez.
+Importa registrar que, recaindo sobre o Estado, por força da lei, esse dever, também lhe cabe o ônus
+da prova de que cumprira suas obrigações legais.
+Tem-se, portanto, caracterizada a conduta culposa, por negligência, do Estado e, em
+consequência, sua responsabilidade subsidiária frente ao débito trabalhista, em respeito à
+efetividade dos preceitos legais e constitucionais de proteção ao trabalhador.
+O Supremo Tribunal Federal, ao julgar o Tema 1.118 da Tabela de Repercussão
+Geral, em 13/2/2025, fixou a tese vinculante de que a responsabilidade subsidiária do ente público não
+se sustenta se amparada exclusivamente na premissa da inversão do ônus da prova, sendo necessária a
+comprovação, pela parte autora, da negligência na fiscalização ou do nexo de causalidade entre o dano
+e a conduta comissiva ou omissiva da Administração Pública. Confira-se:
+(...) 1. Não há responsabilidade subsidiária da Administração Pública por encargos
+trabalhistas gerados pelo inadimplemento de empresa prestadora de serviços contratada, se
+amparada exclusivamente na premissa da inversão do ônus da prova, remanescendo
+imprescindível a comprovação, pela parte autora, da efetiva existência de comportamento
+negligente ou nexo de causalidade entre o dano por ele invocado e a conduta comissiva ou
+omissiva do poder público.
+2. Haverá comportamento negligente quando a Administração Pública permanecer inerte após o recebimento de
+notificação formal de que a empresa contratada está descumprindo suas obrigações trabalhistas, enviada pelo
+trabalhador, sindicato, Ministério do Trabalho, Ministério Público, Defensoria Pública ou outro meio idôneo.
+3. Constitui responsabilidade da Administração Pública garantir as condições de segurança, higiene e
+salubridade dos trabalhadores, quando o trabalho for realizado em suas dependências ou local previamente
+convencionado em contrato, nos termos do art. 5º-A, § 3º, da Lei nº 6.019/1974.
+4. Nos contratos de terceirização, a Administração Pública deverá: (i) exigir da contratada a comprovação de
+capital social integralizado compatível com o número de empregados, na forma do art. 4º-B da Lei nº 6.019/1974; e (ii)
+adotar medidas para assegurar o cumprimento das obrigações trabalhistas pela contratada, na forma do art. 121, § 3º, da
+Lei nº 14.133/2021, tais como condicionar o pagamento à comprovação de quitação das obrigações trabalhistas do mês
+anterior. (...) (grifos nossos)
+No caso dos autos, o Tribunal Regional reconheceu a culpa decorrente da
+negligência na fiscalização (culpa in vigilando) do ente público com amparo exclusivamente na inversão
+do ônus da prova, conforme se verifica da seguinte passagem:
+A extensão da responsabilidade pelo débito trabalhista, ao tomador dos serviços, está
+considerada nos termos da Súmula n.º 331, incisos IV e V, do C. TST. No segundo desses, consta a menção à conduta culposa, no cumprimento das obrigações estabelecidas na Lei 8666/93, o que é o
+caso, já que o Estado tinha o dever de fiscalizar o cumprimento das obrigações da prestadora de
+serviço, acompanhando o pagamento das obrigações trabalhistas e submetendo o pagamento das
+faturas mensais à prévia satisfação daquelas obrigações. Ao se descurar de sua obrigação, em
+verdadeira conduta negligente e culpa contra a legalidade, o Estado ensejou que houvesse o
+inadimplemento das obrigações trabalhistas pela empresa que contratara. Cabia-lhe
+demonstrar, em Juízo, que fizera o acompanhamento das obrigações trabalhistas da empresa
+contratada e não fez. Importa registrar que, recaindo sobre o Estado, por força da lei, esse
+dever, também lhe cabe o ônus da prova de que cumprira suas obrigações legais.
+(g.n.)
+Este documento pode ser acessado no endereço eletrônico http://www.tst.jus.br/validador sob código 10066651BA24D78435.
+Esse entendimento que não se adequa ao posicionamento firmado pela Suprema
+Corte, de caráter vinculante.
+Diante do exposto, CONHEÇO do recurso de revista por violação do art. 71, § 1º,
+da Lei 8.666/1993.
+2 – MÉRITO
+2.1 – TERCEIRIZAÇÃO. ADMINISTRAÇÃO PÚBLICA. RESPONSABILIDADE
+SUBSIDIÁRIA. ÔNUS DA PROVA. CULPA IN VIGILANDO
+Conhecido por violação do art. 71, § 1º, da Lei 8.666/1993, DOU PROVIMENTO ao
+recurso de revista, para afastar a responsabilidade subsidiária atribuída ao ente público sobre as
+obrigações trabalhistas inadimplidas pela empresa contratada.
+ISTO POSTO
+ACORDAM as Ministras da Segunda Turma do Tribunal Superior do Trabalho, I)
+por unanimidade, exercer o juízo de retratação, nos termos do art. 1.030, II, do CPC/15, em face da tese
+jurídica firmada pelo STF no Tema 1.118 de Repercussão Geral, determinando o reexame do agravo do
+ente público; II) por unanimidade, dar provimento ao agravo para adentrar de imediato no exame do
+agravo de instrumento; III) por unanimidade, dar provimento ao agravo de instrumento, por possível
+violação do art. 71, § 1º, da Lei 8.666/1993, determinando o processamento do recurso de revista, nos
+termos regimentais; IV) por unanimidade, conhecer do recurso de revista, por violação do art. 71, § 1º, da
+Lei 8.666/1993, e, no mérito, dar-lhe provimento para afastar a responsabilidade subsidiária atribuída ao
+ente público sobre as obrigações trabalhistas inadimplidas pela empresa contratada.
+Brasília, 12 de fevereiro de 2026.
+Firmado por assinatura digital (MP 2.200-2/2001)
+DELAÍDE MIRANDA ARANTES
+Ministra Relatora
+Firmado por assinatura digital em 13/02/2026 pelo sistema AssineJus da Justiça do Trabalho, conforme MP 2.200-2/2001, que instituiu a Infra-Estrutura
+de Chaves Públicas Brasileira. Este documento pode ser acessado no endereço eletrônico http://www.tst.jus.br/validador sob código 10066651BA24D78435.
