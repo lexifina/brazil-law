@@ -1,0 +1,23 @@
+DECISÃO:
+Cuida-se de reclamação constitucional proposta por Recreio dos Bandeirantes Empreendimentos Imobiliários SPE Ltda. e Construtora Novolar Ltda. contra decisão proferida pelo Juizado Especial Adjunto Cível da Comarca de Arraial do Cabo nos autos do Processo nº 0800501-27.2025.8.19.0005, que teria violado os dispositivos constantes no art. 5°, incisos XXXV, LIV e LV e art. 93, inciso IX, todos da Constituição Federal.
+Os reclamantes narram que foram condenados em ação movida por Carlos Magno Fraga da Silva (ora beneficiário), mediante a qual se pleiteou pagamento de danos materiais e morais em contexto de contrato de promessa de compra e venda de imóvel.
+Alegam que a Justiça Especial do Poder Judiciário Fluminense negou provimento ao recurso inominado por si interposto, “se furt[ando] de cumprir sua função jurisdicional ao não apreciar a matéria ventilada ao longo da lide e reiterada no Recurso Inominado e nos Embargos de Declaração, os quais tornaram límpida a violação ao artigo 5º, XXXVI e LV da Constituição Federal” (e-doc. 1, p. 9).
+No ponto, aduzem que “foram impedidas de produzirem prova essencial para o deslinde da demanda, desrespeitando a aplicação das normas constitucionais, encontrando sua legitimidade ativa no art. 988, caput, do CPC” (e-doc. 1, p. 3).
+Os reclamantes informam que o recurso extraordinário interposto por violação aos arts. 5º, inc. XXXV, LIV e LV, e 93, inc. IX, da CF/88 teve seu seguimento pelo órgão a quo, o que deu ensejo ao ajuizamento da reclamação.
+Defendem que há violação do art. 93, IX, da CF/88 pela autoridade reclamada, pois “o julgamento proferido foi conciso, não realizando o enfrentamento das matérias aduzidas no Recurso Inominado, nos Embargos de Declaração e no Recurso Extraordinário” (e-doc. 1, p. 11).
+Os reclamantes pedem,
+“c) [...] a procedência do pedido, para que seja anulada a decisão que negou a produção de prova pericial, além de condenar as Reclamantes baseando-se no laudo unilateral produzido pelo Reclamado;
+d) [...] que, cassadas as decisões reclamadas, seja o feito declarado extinto em razão da incompetência do Juizado Especial Cível do Rio de Janeiro/RJ para julgar o feito em razão da impossibilidade de produção de prova pericial.” (e-doc. 1, p. 13)
+É o relatório. Decido.
+Por atribuição constitucional, presta-se a reclamação para preservar a competência do STF e garantir a autoridade de suas decisões (art. 102, inciso I, alínea l, CF/88), bem como para resguardar a correta aplicação das súmulas vinculantes (art. 103-A, § 3º, CF/88).
+Não há, nos autos, i) argumentos e provas atinentes a eventual usurpação de competência do STF pela autoridade reclamada ou ii) indicação de súmula vinculante ou decisão desta Suprema Corte com efeito vinculante erga omnes ou proferida em processo de índole subjetiva de que as partes reclamante e beneficiária tenham participado, não sendo possível conhecer da presente reclamação por absoluta ausência de parâmetro de controle. Nesse sentido:
+“CONSTITUCIONAL E PROCESSUAL CIVIL. AGRAVO INTERNO EM RECLAMAÇÃO. AUSÊNCIA DE PARADIGMA DE CONFRONTO. IMPOSSIBILIDADE DE UTILIZAR A RECLAMAÇÃO COMO SUCEDÂNEO RECURSAL. AGRAVO A QUE SE NEGA PROVIMENTO. 1. A Reclamação é manifestamente incabível, uma vez que o reclamante, em sua peça inicial, deixou de apresentar paradigma de confronto com efeitos vinculantes ou um ato caracterizador de usurpação da competência desta CORTE, requisitos essenciais para a admissibilidade deste instrumento. 2. Esta CORTE já teve a oportunidade de afirmar que a reclamação tem escopo bastante específico, não se prestando ao papel de simples substituto de recursos de natureza ordinária ou extraordinária (Rcl 6.880-AgR, Rel. Min. CELSO DE MELLO, Pleno, DJe de 22/2/2013). 3. Recurso de agravo a que se nega provimento. (Rcl nº 32.996-AgR, Primeira Turma, Min. Rel. Alexandre De Moraes,  DJe de 12/4/19).
+É inepta a petição inicial da reclamação constitucional que i) não assinala fundamentadamente a competência constitucional do STF que estaria sendo usurpada no caso concreto ou ii) não indica paradigma (súmula vinculante, decisão do STF proferida na sistemática de precedentes obrigatórios ou decisão proferida por esta Corte em processos subjetivo do qual foi parte e que estaria tendo sua eficácia violada na solução do caso concreto já analisado), confrontando-o, analiticamente, com o teor da decisão reclamada, a qual deve ser identificada com precisão; como no caso dos autos.
+Ante o exposto, nego seguimento à reclamação (art. 21, § 1º, do RISTF). Prejudicado o exame do pedido liminar.
+Determino a certificação do trânsito em julgado e a baixa imediata dos autos.
+Publique-se.
+Brasília, 12 de fevereiro de 2026.
+
+Ministro DIAS TOFFOLI
+Relator
+Documento assinado digitalmente
