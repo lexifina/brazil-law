@@ -1,0 +1,35 @@
+DECISÃO
+
+Trata-se de Recurso Extraordinário com Agravo interposto em face de acórdão do Tribunal de Justiça do Estado de São Paulo, assim ementado (Doc. 175):
+
+“Direito de autor. Ação de obrigação de fazer e não fazer c.c. indenização por danos moral e material. Pedidos julgados improcedentes. Recurso dos autores. Preliminar. Gratuidade da justiça. Pedido prejudicado ante a quitação do preparo. Mérito. Logotipo. Incontroversa criação pelos autores. Cessão gratuita e ilimitada no tempo e espaço. Trabalho universitário. Ausência de prestação de serviço de consultoria. Crescimento do negócio que não dependia do desenho concebido. Ressarcimentos indevidos. Alteração da obra. Inexistência. Acréscimos que respeitaram o desenho originário. Novas cessões. Impossibilidade ante a natureza da relação então formada. Direito de paternidade da obra. Cabimento. Dever de os réus indicarem a autoria da obra em todas as embalagens e em todo tipo de veiculação, pena da incidência de multa. Modulação necessária. Sentença reformada. Recurso provido em parte.”
+
+No Recurso Extraordinário (Doc. 177), interposto com fundamento no art. 102, III, “a”, da Constituição, SORVETES ROCHINHA INDÚSTRIA, COMÉRCIO, IMPORTAÇÃO E EXPORTAÇÃO LTDA alega que o acórdão recorrido violou o art. 5º, XXIX, XXXVII e LIII.
+Em exame de admissibilidade (Doc. 218), o RE foi inadmitido aos fundamentos de que (i) “para se perquirir a ocorrência de contrariedade à legislação constitucional, mister se mostra o revolvimento de normas infraconstitucionais, não caracterizado o requisito da afronta direta à Carta Magna” (Doc. 218, fl. 1); e (ii) “ao decidir da forma impugnada, a D. Turma Julgadora o fez diante das provas e das circunstâncias fáticas próprias do processo sub judice, certo que as razões do recurso ativeram-se a uma perspectiva de reexame desses elementos” (Doc. 218, fl. 02).
+No Agravo (Doc. 227), a parte agravante refuta a incidência dos referidos óbices ao caso concreto.
+É o relatório. Decido.
+
+Os recursos extraordinários somente serão conhecidos e julgados, quando essenciais e relevantes as questões constitucionais a serem analisadas, sendo imprescindível ao recorrente, em sua petição de interposição de recurso, a apresentação formal e motivada da repercussão geral que demonstre, perante o SUPREMO TRIBUNAL FEDERAL, a existência de acentuado interesse geral na solução das questões constitucionais discutidas no processo, que transcenda a defesa puramente de interesses subjetivos e particulares.
+A obrigação do recorrente de apresentar, formal e motivadamente, a repercussão geral que demonstre, sob o ponto de vista econômico, político, social ou jurídico, a relevância da questão constitucional debatida que ultrapasse os interesses subjetivos da causa, conforme exigência constitucional, legal e regimental (art. 102, § 3º, da CF/88, c/c art. 1.035, § 2º, do Código de Processo Civil de 2015 e art. 327, § 1º, do Regimento Interno do Supremo Tribunal Federal), não se confunde com meras invocações, desacompanhadas de sólidos fundamentos e de demonstração dos requisitos no caso concreto, de que (a) o tema controvertido é portador de ampla repercussão e de suma importância para o cenário econômico, político, social ou jurídico; (b) a matéria não interessa única e simplesmente às partes envolvidas na lide; ou, ainda, de que (c) a jurisprudência do SUPREMO TRIBUNAL FEDERAL é incontroversa no tocante à causa debatida, entre outras alegações de igual patamar argumentativo (ARE 691.595-AgR, Rel. Min. RICARDO LEWANDOWSKI, Segunda Turma, DJe de 25/2/2013; ARE 696.347-AgR-segundo, Rel. Min. CÁRMEN LÚCIA, Segunda Turma, DJe de 14/2/2013; ARE 696.263-AgR, Rel. Min. LUIZ FUX, Primeira Turma, DJe de 19/2/2013; AI 717.821-AgR, Rel. Min. JOAQUIM BARBOSA, Segunda Turma, DJe de 13/8/2012).
+Eis os fundamentos apresentados pela parte para demonstrar a a existência de repercussão geral (Doc. 177):
+
+“ (...) É de se notar que a matéria ventilada no presente Recurso Extraordinário tem total relevância social, não sendo uma questão que interessará somente à Recorrente.
+Ora, a discussão gira em torno do direito à Propriedade de Marca e ao Princípio da Parcialidade do Juiz, expressamente previsto nos incisos XXIX, XXXV e LIII do artigo 5° da CF/88.
+Assim, é de se notar que a matéria ventilada no Recurso Extraordinário tem total relevância social, não sendo uma questão que interessará somente à recorrente.
+Cumpre salientar que mencionados princípios são os que decorrem do art. 5º, incisos XXIX, XXXV e LIII, da Constituição Federal, segundo o qual visam a garantir o Direito à Propriedade de Marca e a Independência e Imparcialidade do Órgão Julgador.
+Com efeito, as matérias tratadas, são matérias de claro interesse geral, visto que envolve princípios constitucionais claramente defendidos que abrangem situações vivenciadas por toda a coletividade.
+Em outras palavras, estamos diante de uma discussão que transcende a situação específica desses autos, vindo a irradiar efeitos para todos aqueles que terão virão a demandar em juízo ou defender-se utilizando-se dos direitos constitucionais da Propriedade de Marca e Independência e Imparcialidade do Órgão Julgador.
+Resta evidenciado, portanto, que o requisito constitucional da repercussão geral (CF, art. 102, §3º), com a regulamentação da L. 11.418/06 e as normas regimentais necessárias à sua execução, ficou comprovado em preliminar.
+Ressalte-se ainda que a matéria em tela repercute no âmbito geral em relação aos reflexos de natureza social, política, econômica e jurídica do país.”
+
+Não havendo demonstração fundamentada da presença de repercussão geral, incabível o seguimento do Recurso Extraordinário.
+Além disso, a presente hipótese, o Juízo de origem não analisou a questão constitucional veiculada nos dispositivos apontados como violados, não tendo sido esgotados todos os mecanismos ordinários de discussão, INEXISTINDO, portanto, o NECESSÁRIO PREQUESTIONAMENTO EXPLÍCITO, que pressupõe o debate e a decisão prévios sobre o tema jurígeno constitucional versado no recurso. Incidência da Súmula 282 (É inadmissível o recurso extraordinário, quando não ventilada, na decisão recorrida, a questão federal suscitada), desta CORTE SUPREMA.
+Mesmo que fosse possível superar todos esses graves óbices, a argumentação recursal traz versão dos fatos diversa da exposta no acórdão recorrido, de modo que o acolhimento do recurso passa necessariamente pela revisão das provas. Incide, portanto, o óbice da Súmula 279 desta CORTE: Para simples reexame de prova não cabe recurso extraordinário.
+Diante do exposto, com base no art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal, NEGO SEGUIMENTO AO RECURSO EXTRAORDINÁRIO COM AGRAVO.
+Fixam-se honorários advocatícios adicionais equivalentes a 10% (dez por cento) do valor a esse título arbitrado nas instâncias ordinárias (Código de Processo Civil de 2015, art. 85, § 11).
+Publique-se.
+Brasília, 12 de fevereiro de 2026.
+
+Ministro ALEXANDRE DE MORAES
+Relator
+Documento assinado digitalmente
