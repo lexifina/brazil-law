@@ -1,0 +1,143 @@
+Poder Judiciário
+Justiça do Trabalho
+Tribunal Superior do Trabalho
+PROCESSO Nº TST-Ag-AIRR - 755-27.2013.5.10.0014
+A C Ó R D Ã O
+2ª Turma
+GMDMA/ASS/
+JUÍZO DE RETRATAÇÃO. AGRAVO EM AGRAVO DE
+INSTRUMENTO EM RECURSO DE REVISTA INTERPOSTO PELO
+RECLAMADO. RESPONSABILIDADE SUBSIDIÁRIA. ENTE
+PÚBLICO. COMPROVAÇÃO DA OMISSÃO CULPOSA NA
+FISCALIZAÇÃO DO CONTRATO (CULPA IN VIGILANDO).
+INCIDÊNCIA DA SÚMULA 331, V, DO TST. JUÍZO DE
+RETRATAÇÃO NÃO EXERCIDO. 1. Trata-se de processo que
+retorna a esta Turma, por determinação da Vice-Presidência do
+TST, para o exercício de eventual juízo de retratação, conforme
+prevê o art. 1.030, II, do CPC/2015. 2. Em acórdão anterior, esta
+Turma negou provimento agravo interposto pelo reclamado. 3.
+O Tribunal Regional registrou a existência de omissão culposa da
+Administração Pública na fiscalização do contrato (culpa in
+vigilando), na medida em que ficou demonstrada a
+irregularidade nos depósitos do FGTS e no pagamento dos
+salários do reclamante ao longo do contrato de trabalho. 4.
+Logo, a responsabilidade subsidiária foi mantida em face da
+comprovação de culpa, e não de mera presunção, encontrando￾se a decisão em harmonia com o disposto na Súmula 331, V, do
+TST. Tal entendimento também está em sintonia com a tese com
+repercussão geral firmada pelo Supremo Tribunal Federal, no
+RE-760931/DF, pela qual se considerou possível a
+responsabilização subsidiária da Administração Pública pelo
+pagamento das verbas trabalhistas devidas aos empregados das
+empresas terceirizadas, quando constatada a falha na
+fiscalização. 5. Diante do quadro fático estabelecido no acórdão
+recorrido, insuscetível de revisão por esta Corte, nos termos da
+Súmula 126 do TST, deve ser mantida a responsabilidade
+subsidiária do ente público. Juízo de retratação não exercido.
+Vistos, relatados e discutidos estes autos de Agravo em Agravo de Instrumento
+em Recurso de Revista nº TST-Ag-AIRR - 755-27.2013.5.10.0014, em que é Agravante UNIÃO (PGU) e são
+Agravadas CLEONICE CLAUDIO PULCHERIO e DBA ENGENHARIA DE SISTEMAS LTDA.
+A 2.ª Turma negou provimento ao agravo interposto pelo ente público, mantendo
+a decisão monocrática do então relator.
+Inconformado, o ente público interpôs recurso extraordinário.
+Por se tratar de recurso extraordinário em que a parte se insurge quanto ao
+tópico "responsabilidade subsidiária", questão relacionada com tema cuja repercussão geral foi
+reconhecida pelo Supremo Tribunal Federal, a Vice Presidência desta Corte determinou o
+encaminhamento dos autos a este órgão fracionário, prolator da decisão recorrida, a fim de que se
+manifeste sobre a necessidade de exercer eventual juízo de retratação da decisão então proferida, em
+face do julgamento do Tema 1.118, nos termos do art. 1.030, II, do CPC.
+É o relatório.
+V O T O
+JUÍZO DE RETRATAÇÃO. TERCEIRIZAÇÃO - ADMINISTRAÇÃO PÚBLICA -
+RESPONSABILIDADE SUBSIDIÁRIA - CULPA IN VIGILANDO
+Trata-se de processo que retorna a esta Turma, por determinação da Vice
+Presidência do TST, para o exercício de eventual juízo de retratação, conforme prevê o art. 1.030, II, do
+CPC/2015.
+A Segunda Turma negou provimento ao agravo do ente público, com base na
+prova da culpa do ente público. Este documento pode ser acessado no endereço eletrônico http://www.tst.jus.br/validador sob código 100666510BBCF2F166.
+O Supremo Tribunal Federal, ao julgar a Ação Declaratória de Constitucionalidade
+16/DF, proclamou que a mera inadimplência do contratado em relação às verbas trabalhistas devidas
+aos seus empregados não transfere à Administração Pública a responsabilidade pelo seu pagamento,
+embora subsista responsabilidade subsidiária quando houver omissão no dever de fiscalizar as
+obrigações do contratado.
+Lastreado neste entendimento, o TST, mediante nova redação da Súmula 331,
+fixou a orientação de que subsiste a responsabilidade subsidiária da Administração Pública pela
+inadimplência dos créditos trabalhistas da empresa por ela contratada, quando comprovada a sua culpa
+por ausência de fiscalização (culpa in vigilando). Nesse sentido, dispõe o item V do mencionado verbete:
+Os entes integrantes da Administração Pública direta e indireta respondem subsidiariamente,
+nas mesmas condições do item IV, caso evidenciada a sua conduta culposa no cumprimento das
+obrigações da Lei n.º 8.666, de 21.06.1993, especialmente na fiscalização do cumprimento das
+obrigações contratuais e legais da prestadora de serviço como empregadora. A aludida
+responsabilidade não decorre de mero inadimplemento das obrigações trabalhistas assumidas pela
+empresa regularmente contratada. (grifos nossos)
+Vale ressaltar, todavia, que, segundo a própria Corte Suprema, cabe à
+Administração Pública fiscalizar a execução do contrato. Não apenas a perfeição da obra ou do serviço
+prestado, mas também o cumprimento da legislação trabalhista pelo seu contratado e a manutenção
+das condições originais de habilitação na licitação, entre as quais se encontra exatamente a
+regularidade fiscal e trabalhista (Lei 8.666/93, art. 27, IV), bem como a inexistência de débitos para
+com a Previdência Social e o FGTS (art. 29, IV).
+É o que asseverou o Ministro Celso de Mello, nos autos da Reclamação 12.440:
+É importante assinalar, por oportuno, que o dever legal das entidades públicas contratantes
+de fiscalizar a idoneidade das empresas que lhes prestam serviços abrange não apenas o
+controle prévio à contratação - consistente em exigir, das empresas licitantes, a apresentação dos
+documentos aptos a demonstrar a habilitação jurídica, a qualificação técnica, a situação econômico￾financeira, a regularidade fiscal e o cumprimento do disposto no inciso XXXIII do artigo 7º da
+Constituição Federal (Lei nº 8.666/93, art. 27) -, mas compreende, também, o controle
+concomitante à execução contratual, viabilizador, dentre outras medidas, da vigilância efetiva e
+da adequada fiscalização do cumprimento das obrigações trabalhistas em relação aos
+empregados vinculados ao contrato celebrado (Lei n.º 8.666/93, art. 67). (DJE 4/12/2012)
+Referido entendimento foi reafirmado pelo Supremo Tribunal Federal em
+inúmeros julgados, como, por exemplo, na Rcl 60.473/SP, Rel. Min. Luiz Fux, DJe 11/10/2023; Rcl
+25.221/PR, Rel. Min. Ricardo Lewandowski, DJe 6/11/2017; Rcl 18917/BA, Rel. Min. Rosa Weber, DJe
+6/11/2014.
+O art. 71, § 1.º, da Lei 8.666/93, deve ser interpretado em harmonia com outros
+dispositivos dessa lei que imputam às entidades estatais o dever de fiscalização da execução dos seus
+contratos de terceirização (art. 58, III). Constatando o descumprimento de direitos trabalhistas pela
+empresa contratada, a Administração Pública tem a obrigação de aplicar sanções como advertência,
+multa, suspensão temporária de participação em licitação, declaração de inidoneidade para licitar ou
+contratar (art. 87, I, II, III e IV), e/ou rescindir unilateralmente o contrato (arts. 78 e 79).
+Esse entendimento confere maior eficácia aos preceitos constitucionais que
+consagram a dignidade da pessoa humana e os valores sociais do trabalho e da livre iniciativa (art. 1.º, III
+e IV), e que estabelecem como objetivo da República construir uma sociedade livre, justa e solidária (art.
+3.º, I) de modo a garantir os direitos fundamentais dos trabalhadores (art. 7.º) como forma de valorizar o
+trabalho humano e assegurar a todos existência digna (art. 170).
+Mesmo com a declaração de constitucionalidade do art. 71, § 1.º, da Lei 8.666/93
+(ADC 16/DF), a Corte Suprema relegou à Justiça do Trabalho a possibilidade de reconhecer a
+responsabilidade com base nos fatos de cada causa. Não seria razoável, de fato, que esta Especializada
+estivesse tolhida de, no exercício regular de sua jurisdição, reconhecer, à base de outras normas,
+dependendo das causas, a responsabilidade do Poder Público.
+No caso dos autos, o reconhecimento da responsabilidade subsidiária decorreu
+da comprovada omissão do ente público, na medida em que ficou demonstrada a irregularidade nos
+depósitos do FGTS e no pagamento dos salários do reclamante ao longo do contrato de trabalho. Eis
+os fundamentos do acórdão recorrido no aspecto:
+A matéria relativa à responsabilidade subsidiária do ente púbico tomador de serviços encontra￾se superada pela jurisprudência consolidada na Súmula n° 331, IV e V, do TST.
+No caso, resulta incontroversa a existência de contrato prestação de serviços, o labor da
+reclamante em proveito da primeira reclamada, bem como o inadimplemento de obrigações
+trabalhistas por parte da prestadora dos serviços.
+Já a culpa in vigilando decorre da ausência de fiscalização eficaz na execução do contrato,
+demonstrada pela irregularidade nos depósitos do FGTS ao longo do pacto laboral (extrato a fls.
+Este documento pode ser acessado no endereço eletrônico http://www.tst.jus.br/validador sob código 100666510BBCF2F166.
+36/37) e pela existência de salários não pagos (sentença a fls. 191). (g.n.)
+Reforça esse entendimento, o fato de que a regularidade fundiária deve ser
+fiscalizada mensalmente pelo ente público, sob pena de perda das condições de habilitação no
+certame pelo contratado, as quais este deve manter durante toda a relação, nos termos do art. 27,
+IV, 29, IV, e 55, XIII, da Lei 8.666/93.
+Consoante os fundamentos do acórdão recorrido, a hipótese não se refere à
+presunção de culpa, mas de sua verificação em concreto pela instância revisora, cuja conclusão não
+pode ser alterada sem a reanálise dos fatos e provas, o que é vedado a esta Corte, ao teor da Súmula
+126 do TST.
+Nesse passo, é forçoso concluir que a decisão do Tribunal Regional encontra-se
+em consonância com a Súmula 331, V, do TST e com a tese vinculante firmada pelo Supremo Tribunal
+Federal, em repercussão geral, no Tema 246.
+Diante do exposto, deixo de exercer o juízo de retratação de que trata o art.
+1.030, II, do CPC, devendo os autos ser devolvidos à Vice-Presidência desta Corte, a fim de que prossiga
+no exame de admissibilidade do recurso extraordinário interposto, como entender de direito.
+ISTO POSTO
+ACORDAM as Ministras da Segunda Turma do Tribunal Superior do Trabalho, por
+unanimidade, manter a decisão que negou provimento ao agravo do reclamado. Não efetuado o juízo
+de retratação de que trata o art. 1.030, II, do CPC, os autos devem retornar à Vice-Presidência desta
+Corte.
+Brasília, 12 de fevereiro de 2026.
+Firmado por assinatura digital (MP 2.200-2/2001)
+DELAÍDE MIRANDA ARANTES
+Ministra Relatora
+Firmado por assinatura digital em 13/02/2026 pelo sistema AssineJus da Justiça do Trabalho, conforme MP 2.200-2/2001, que instituiu a Infra-Estrutura
+de Chaves Públicas Brasileira. Este documento pode ser acessado no endereço eletrônico http://www.tst.jus.br/validador sob código 100666510BBCF2F166.
