@@ -1,0 +1,63 @@
+DECISÃO
+
+    1. A União formulou recurso extraordinário em face de acórdão proferido pelo Tribunal Regional da 1ª Região, assim resumido:
+
+TRIBUTÁRIO. PROCESSUAL CIVIL. MANDADO DE SEGURANÇA. AGRAVO INTERNO. DESISTÊNCIA. TEMA 530. REPERCUSSÃO GERAL.
+
+Em suas razões recursais, alega violação aos arts. 5º, XXXVI; LIII; LIV e LXXVIII; 37; e 93, IX da Constituição Federal. Assevera que apesar do STF ter fixado tese em repercussão geral acerca da possibilidade de desistência do mandado de segurança, o debate quanto à possibilidade da parte desistir do mandamus após ter sido prolatada decisão de mérito desfavorável não foi detidamente abordada pela Corte. Sustenta que não se pode permitir a desistência do mandado de segurança por livre arbítrio do impetrante depois de prolatado a sentença desfavorável. Postula a reforma do acórdão impugnado, para que seja indeferida a homologação da desistência, ou, que seja cassado o acórdão, determinando-se o retorno dos autos, a fim de que as razões apresentadas pela União sejam devidamente apreciadas.
+
+2. Saliento, de início, que as matérias articuladas nas razões recursais, quanto aos artigos da Carta Federal, tidos por violados, não foram debatidas no acórdão recorrido, e tampouco suscitadas mediante embargos de declaração, circunstância que atrai a incidência dos óbices dos enunciados n. 282 e n. 356 da Súmula/STF, consoante tem proclamado a jurisprudência do Supremo. Confira-se:
+
+(...) AUSÊNCIA DE PREQUESTIONAMENTO DOS PRECEITOS DA CONSTITUIÇÃO TIDOS POR VIOLADOS. REEXAME DE LEGISLAÇÃO LOCAL. INCIDÊNCIA DA SÚMULA 280 DO STF. PRECEDENTES. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO.
+1. O prequestionamento da questão constitucional é requisito indispensável à admissão do recurso extraordinário, sendo certo que eventual omissão do acórdão recorrido reclama embargos de declaração.
+2. A simples oposição dos embargos de declaração, sem o efetivo debate acerca da matéria versada pelos dispositivos constitucionais apontados como malferidos, não supre a falta do requisito do prequestionamento, viabilizador da abertura da instância extraordinária. Incidência da Súmula nº 282 do Supremo Tribunal Federal, verbis: é inadmissível o recurso extraordinário, quando não ventilada na decisão recorrida, a questão federal suscitada. (...) (AI 827.848 AgR, Primeira Turma, ministro Luiz Fux, DJe de 26 de abril de 2013, grifei)
+
+Lado outro, verifico ausência de contrariedade ao inciso IX do art. 93 da Carta Magna. Quanto ao ponto, esta Corte, em julgamento no âmbito da repercussão geral, firmou entendimento nos seguintes termos:
+
+[...] O art. 93, IX, da Constituição Federal exige que o acórdão ou decisão sejam fundamentados, ainda que sucintamente, sem determinar contudo, o exame pormenorizado de cada uma das alegações ou provas, nem que sejam corretos ou fundamentos da decisão. (AI 791.292-QO-RG, ministro Gilmar Mendes, DJe de 13 de agosto de 2010)
+
+Assim, nada obstante a recorrente considere incompleta a fundamentação adotada pelo Colegiado de segunda instância, não há falar em ausência de manifestação. É dizer, não se deve confundir julgamento desfavorável aos interesses do litigante com carência de motivação ou falta de prestação jurisdicional.
+
+No âmbito do Supremo, é firme a jurisprudência segundo a qual o órgão julgador não está obrigado a manifestar-se a respeito de todos os pontos suscitados pelas partes, bastando-lhe demonstrar os motivos que reputou suficientes para a formação do convencimento. Para além disso, ainda que assim não fosse, melhor sorte não socorreria à recorrente, eis que a invocação dos princípios constitucionais do devido processo legal, do contraditório e da ampla defesa, como na hipótese, foi considerada, pelo Supremo Tribunal Federal, destituída de repercussão geral, porquanto a matéria impugnada, em casos tais, articula violação à Constituição Federal de natureza meramente reflexa. Confira-se:
+
+Alegação de cerceamento do direito de defesa. Tema relativo à suposta violação aos princípios do contraditório, da ampla defesa, dos limites da coisa julgada e do devido processo legal. Julgamento da causa dependente de prévia análise da adequada aplicação das normas infraconstitucionais . Rejeição da repercussão geral. (ARE 748.371 RG, Tribunal Pleno, ministro Gilmar Mendes, Tema n. 660/RG, DJe de 1º de agosto 2013)
+
+Ademais, o Colegiado de origem manteve a decisão monocrática que acolheu o pedido de desistência do mandado de segurança formulado pelas impetrantes, logo após a publicação da sentença denegatória da segurança.
+
+Consignou, ainda, que, conforme jurisprudência do Tribunal regional, caberia à União comprovar a má-fé das impetrantes ao solicitarem a desistência, vez que aquela não se presume, bem como que a Fazenda dispõe de meios (legais) para reprimir os efeitos danosos que alega, caso ocorram, em momento oportuno. Colho do acórdão o seguinte trecho elucidativo:
+
+ Acerca da matéria dos autos, em julgamento realizado pelo egrégio Supremo Tribunal Federal, sob o regime da repercussão geral da matéria RE 669.367 (Tema 530), fixou-se a tese de que "É lícito ao impetrante desistir da ação de mandado de segurança, independentemente de aquiescência da autoridade apontada como coatora ou da entidade estatal interessada ou, ainda, quando for o caso, dos litisconsortes passivos necessários, a qualquer momento antes do término do julgamento, mesmo após eventual sentença concessiva do ‘writ’ constitucional, não se aplicando, em tal hipótese, a norma inscrita no art. 267, § 4º, do CPC/1973" (RE 669367, Relator(a): Min. LUIZ FUX, Relator(a) p/ Acórdão: Min. ROSA WEBER, Tribunal Pleno, julgado em 02/05/2013, ACÓRDÃO ELETRÔNICO REPERCUSSÃO GERAL - MÉRITO DJe-213 DIVULG 29-10-2014 PUBLIC 30-10-2014).
+A esse respeito, merecem ser destacados os precedentes jurisprudenciais deste Tribunal Regional Federal, cujas ementas seguem abaixo transcritas:
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO E AGRAVO INTERNO CONTRA DECISÃO UNIPESSOAL QUE HOMOLOGA DESISTÊNCIA DO MANDADO DE SEGURANÇA. POSSIBILIDADE. TEMA 530 JULGADO EM REPERCUSSÃO GERAL PELO STF. DESNECESSIDADE DE CONCORDÂNCIA DA PARTE ADVERSA. EXCEÇÃO APENAS PARA OS CASOS NOTÓRIOS EM QUE O DIREITO PROCESSUAL DE DESISTIR ESTÁ SENDO EXERCIDO DE FORMA ABUSIVA. OBSCURIDADE: INEXISTÊNCIA. (...)
+3 - Devidamente fundamentada a decisão e compreendido o alcance do dispositivo por ambas as partes, tanto que conseguiram (ambos) questionar o resultado útil não se configura o vício de obscuridade alegado, tampouco a necessidade de integração do julgado.
+3- Sem razão a União (FN)/Agravante. A decisão agravada está em conformidade com precedentes do Supremo Tribunal Federal, bem como do Superior Tribunal de Justiça que já examinaram, inclusive a "exceção" suscitada, nesse sentido: "2. Em se tratando de Mandado de Segurança, o Supremo Tribunal Federal, nos autos do RE 669.367-RJ, julgado em 2.5.2013, reconhecida a Repercussão Geral (Tema 530), definiu que é plenamente admissível a desistência unilateral, pelo impetrante, sem anuência do impetrado, mesmo após a prolação da sentença de mérito, entendimento que tem sido adotado também pelo Superior Tribunal de Justiça. 3. Muito embora haja posicionamento conhecido do STF de excepcionar a aplicação da tese fixada para o Tema 530 da Repercussão Geral (RE 669.367-RJ, STF, Tribunal Pleno, Rel. Ministro Luiz Fux, Rel. para acórdão Ministra Rosa Weber, julgado em 2.5.2013), tal somente se dá em hipóteses excepcionalíssimas em que é de notório conhecimento que a conduta da impetrante desistente se dá em desrespeito à autoridade do Poder Judiciário, fazendo uso abusivo de seus direitos processuais. Assim o decidido na Suprema Corte Brasileira, inicialmente por sua Segunda Turma, nos EDcl no AgRg no MS 29.253/DF (Rel. Ministro Teori Albino Zavascki, julgado em 21.10.2016), e, posteriormente, também pela Primeira Turma no AgRg no MS 35.039/AL (Rel. Ministro Alexandre de Moraes, julgado em 18.5.2018), em que foi rejeitada a homologação da desistência ao argumento de que a demanda, de competência originária do STF via Mandado de Segurança, seria novamente ajuizada pela parte desistente em primeiro grau de jurisdição na forma de ação declaratória, com o intuito de escolher o órgão julgador que lhe poderia ser mais favorável.
+4. À toda evidência, o caso ora em julgamento não se amolda às condições da distinção (intenção de escolha de órgão jurisdicional)." Precedentes no voto, entre eles (AgInt na DESIS no RMS n. 70.605/SC, relator Ministro Herman Benjamin, Segunda Turma, julgado em 18/12/2023, DJe de 20/12/2023).
+4 - A União (FN) não fez prova da alegada "má-fé", que não se presume, e dispõe de meios (legais) para inibir/reprimir/conter, os efeitos danosos que alega, caso ocorram, e no momento oportuno. (...)
+
+A respeito da matéria, o Plenário do Supremo, quando da análise do RE 669.367, Tema n. 530/RG, concluiu pela possibilidade de admitir a desistência da ação mandamental a qualquer tempo e sem a anuência do impetrado. Na oportunidade, foi firmada a seguinte tese de repercussão geral:
+
+É lícito ao impetrante desistir da ação de mandado de segurança, independentemente de aquiescência da autoridade apontada como coatora ou da entidade estatal interessada ou, ainda, quando for o caso, dos litisconsortes passivos necessários, a qualquer momento antes do término do julgamento, mesmo após eventual sentença concessiva do writ constitucional, não se aplicando, em tal hipótese, a norma inscrita no art. 267, § 4º, do CPC/1973.
+
+Por outro lado, ressalto o entendimento da Corte no sentido de excepcionar, em determinadas circunstâncias, a orientação firmada no Tema n. 530/RG. E o faz em casos nos quais a desistência tem por objetivo impedir a observância da jurisprudência do Supremo ou quando configurada má-fé processual. Nesse sentido: RE 1.176.610 ED-AgR-ED-AgR-ED-EDv-ED, de minha Relatoria, Segunda Turma, DJe de 14  de abril de 2023; MS 29.032 ED-AgR, Segunda Turma, ministro Teori Zavascki, DJe de 7 de junho de 2016; MS 29.715 AgR-ED-ED, Segunda Turma, ministro Teori Zavascki, DJe de 3 de agosto de 2015; RE 434.519 AgR, Primeira Turma, Redator do acórdão o ministro Roberto Barroso, DJe de 5 de dezembro de 2019; ARE 1.074.161 AgR, Segunda Turma, ministro Edson Fachin, DJe de 3 de dezembro de 2020. No mesmo sentido:
+
+AGRAVO INTERNO EM EMBARGOS DE DECLARAÇÃO EM AGRAVO INTERNO EM EMBARGOS DE DECLARAÇÃO EM RECURSO EXTRAORDINÁRIO COM AGRAVO. MANDADO DE SEGURANÇA. DESISTÊNCIA. NÃO HOMOLOGAÇÃO. EXCEPCIONALIDADE. TEMA N. 530/RG. INAPLICABILIDADE.
+1. O entendimento firmado sob o Tema n. 530/RG, segundo o qual é lícito ao impetrante desistir da ação de mandado de segurança a qualquer momento antes do término do julgamento, fica excepcionado nas hipóteses em que revelada tentativa de evitar a observância da jurisprudência da Corte ou configurada má-fé processual.
+2. Agravo interno desprovido. (ARE 1.385.400 ED-AgR-ED-AgR, Segunda Turma, minha Relatoria, DJe de 19 de dezembro de 2024)
+
+No caso, assento que para rever o entendimento da origem — acerca da existência ou não da má-fé das impetrantes para fins de negativa do pedido de desistência do mandado de segurança — demandaria o reexame do conjunto fático-probatório, circunstância inviável em sede de recurso extraordinário, ante a incidência do óbice do enunciado n. 279 da Súmula/STF.
+
+3. Em face do exposto, nego provimento ao recurso extraordinário.
+
+4. Cuidando-se de recurso interposto em autos de mandado de segurança, o que atrai a incidência do enunciado n. 512 da Súmula/STF, não se aplica o disposto no § 11 do art. 85 do Código de Processo Civil.
+
+5. Por fim, advirto as partes que a interposição de recursos protelatórios, bem como manifestamente inadmissíveis ou improcedentes, ensejará a imposição de multa, nos termos do art. 1.021, § 4º, e do art. 1.026, §2º, do Código de Processo Civil (CPC).
+
+Nesse sentido, a jurisprudência do Supremo: ARE 1468509 AgR-ED, Segunda Turma, ministro André Mendonça,  DJe de 3 de setembro de 2024; ARE 1.107.805 AgR,  Primeira Turma, ministro Luís Roberto Barroso,  DJe de 3 de fevereiro de 2020; Rcl 45.289 AgR, ministro Dias Toffoli, DJe de 30 de novembro de 2021; Rcl 24.841 ED-AgR, Primeira Turma, ministro Luiz Fux, DJe de 11 de maio de 2017; MS 37.637 AgR, Tribunal Pleno, ministro Luís Roberto Barroso, DJe de 16 de junho de 2021; MS 35.272 AgR-segundo, Segunda Turma, ministro Edson Fachin, DJe de 8 de outubro de 2020; e, ARE 1.321.696 ED-AgR Segunda Turma, ministro André Mendonça, DJe de 29 de junho de 2022.
+
+6. Intime-se. Publique-se.
+
+Brasília, 12 de fevereiro de 2026.
+
+Ministro NUNES MARQUES
+Relator
+Documento assinado digitalmente
