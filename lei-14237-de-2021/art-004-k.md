@@ -1,0 +1,1 @@
+Art. 4º-K. As regras de funcionamento da modalidade de que trata este Capítulo, a definição da instituição responsável pela sua operacionalização e o processo de credenciamento dos fornecedores dos sistemas de cocção de alimentos de baixa emissão de carbono serão estabelecidos em regulamento.
