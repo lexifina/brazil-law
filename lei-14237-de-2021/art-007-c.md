@@ -1,0 +1,3 @@
+Art. 7º-C. O Poder Executivo federal estabelecerá a organização, a operacionalização e a governança do Auxílio Gás do Povo.
+§ 1º O início da execução das modalidades a que se referem os incisos II e III do caput do art. 1º-A desta Lei ocorrerá logo após a implementação das medidas necessárias à organização, à operacionalização e à governança a que se refere o caput deste artigo.
+§ 2º Eventuais despesas decorrentes do disposto nesta Lei deverão observar a legislação fiscal e orçamentária e a disponibilidade orçamentária e financeira dos órgãos e das entidades responsáveis pelas ações do Auxílio Gás do Povo.

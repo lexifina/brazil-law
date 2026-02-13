@@ -1,0 +1,1 @@
+Art. 4º-G. Compete à Secretaria Especial da Receita Federal do Brasil disponibilizar ao Ministério de Minas e Energia e ao Ministério da Fazenda, na forma estabelecida em regulamento e no ato conjunto a que se refere o art. 4º-F desta Lei, as informações estatísticas do preço de venda de GLP ao consumidor final agregadas por Município.

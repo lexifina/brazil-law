@@ -1,0 +1,2 @@
+Art. 7º-A. As cozinhas solidárias poderão ser contempladas pela modalidade de gratuidade, prevista no inciso II do caput do art. 1º-A desta Lei, e o regulamento deverá estabelecer a periodicidade, a quantidade de disponibilização e a validade dos auxílios.
+Parágrafo único. A modalidade de gratuidade para as cozinhas solidárias poderá prever capacidade de botijões de GLP superior a 13 kg (treze quilogramas).
