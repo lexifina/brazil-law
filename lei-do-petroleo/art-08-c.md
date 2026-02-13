@@ -1,0 +1,1 @@
+Art. 8º-C. Fica instituído o Selo Gás Legal, destinado a revendas e a distribuidores de GLP que adotem práticas de transparência de preços, qualidade de serviço, segurança operacional e conformidade regulatória, com caráter informativo e reputacional, com vistas a promover a confiança e a concorrência no setor, na forma do regulamento.

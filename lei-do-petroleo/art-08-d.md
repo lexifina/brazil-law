@@ -1,0 +1,3 @@
+Art. 8º-D. O GLP envasado, independentemente de estar ou não vinculado ao Auxílio Gás do Povo, deverá ser comercializado com os seguintes critérios de segurança e de conformidade:
+I - exclusivamente em recipientes transportáveis que ostentem a marca comercial, conforme regulação da ANP, observadas as normas técnicas e as regulamentações de segurança expedidas pelos órgãos competentes;
+II - cheio e lacrado, com selo de inviolabilidade e rótulo que indique de forma clara a quantidade líquida do produto e a marca comercial da pessoa jurídica devidamente autorizada pela ANP para o exercício da atividade de envase ou de distribuição.
