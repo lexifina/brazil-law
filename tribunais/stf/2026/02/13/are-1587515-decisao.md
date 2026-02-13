@@ -1,0 +1,57 @@
+DECISÃO:
+Vistos.
+Trata-se de agravo interposto contra decisão que não admitiu recurso extraordinário, fundado na letra “a” do permissivo constitucional, manejado contra acórdão do Tribunal de Justiça do Estado de São Paulo, assim ementado:
+
+“APELAÇÃO CÍVEL. MANDADO DE SEGURANÇA. APROVEITAMENTO DE CRÉDITOS DE ICMS. Pretensão ao aproveitamento, nas operações de exportação, dos créditos de ICMS decorrentes de aquisições de bens destinados ao ativo fixo (permanente) com fulcro na prevalência do princípio da não-cumulatividade preconizado pelo art. 155, § 2º, inciso X, alínea "a", CF, com a redação conferida pela' EC nº 42/03. Segurança denegada na origem. Manutenção que se impõe. 1) Preliminar de suspensão do julgamento do processo até o julgamento do Tema nº 619/STF. Impossibilidade, eis que inexistente determinação desse jaez na decisão de afetação do recurso excepcional. 2) Mérito recursal. Conforme o precedente vinculante firmado pelo STF no julgamento do Tema 633, a nova redação conferida ao artigo 155, § 2º, X, alínea "a", da CF, pela EC 42/03, não ampliou as hipóteses de creditamento do ICMS em contraponto ao estabelecimento de limitação temporal ao exercício do direito pelo contribuinte, “ex vi” do disposto nos arts. 20, e 33, inciso I, da Lei Complementar nº 87/96, que se dará a partir de 1º de janeiro de 2033. Ausência de violação ao direito líquido e certo descrito na ‘causa petendi’. Sentença denegatória da segurança mantida. Recurso desprovido” (e-doc. 68, p. 2).
+
+Opostos embargos de declaração, foram eles rejeitados (e-doc. 82).
+No recurso extraordinário, a recorrente alega que houve violação do art. 155, § 2º, inciso X, alínea “a”, da Constituição Federal.
+Relata que o Tribunal de Origem aplicou a orientação firmada no Tema nº 633 ao negar provimento à apelação e, assim, impedir o aproveitamento, nas operações de exportação, de créditos de ICMS decorrentes de aquisições de bens destinados ao ativo fixo.
+Entende que o referido dispositivo constitucional privilegiaria “o produto interno perante o mercado externo mediante a outorga de imunidade de ICMS às operações de exportação” e asseguraria “a manutenção e o aproveitamento do tributo cobrado nas operações anteriores”. Anota que a Constituição adotou o princípio do destino.
+Assevera que, na citada norma, inexistiria qualquer restrição ao aproveitamento de crédito do ICMS, seja de cunho físico, seja de cunho temporal. Sustenta que “eventual limitação do crédito em questão ao conceito de crédito físico implicaria manifesta exportação de resíduo tributário, com incremento de perda de competitividade das mercadorias internas no mercado internacional”.
+Consigna que a restrição mencionada no art. 33, inciso I, da LC nº 87/96 seria inaplicável no presente caso, realçando que esse dispositivo se refere à aquisição de bens destinados ao uso e consumo.
+Discorre sobre o julgamento do Tema nº 633, afirmando que a presente demanda não teria total identidade com tal precedente.
+Pede que o recurso extraordinário seja provido, com a declaração do direito ao aproveitamento, nas operações de exportação, de créditos de ICMS decorrentes de aquisições de bens destinados ao ativo fixo, inclusive sobre as operações destinadas à Zona Franca de Manaus. Pede, ainda, o direito de repetir o indébito.
+Decido.
+Não merece prosperar a irresignação.
+Verifica-se que o Tribunal de Origem, ao julgar a controvérsia, invocou a seguinte fundamentação:
+
+“Com bem observado pelo Exmo. Des. Leonel Costa, com assento na C. 8ª. Câmara de Direito Público desta Corte de Justiça, no julgamento da Apelação Cível n° 1012322-07.2021.8.26.0032, a vedação ao aproveitamento de créditos do imposto para aquisição de bens do ativo imobilizado, bem como ao uso e consumo interno por ser o estabelecimento o consumidor final destes, é antiga (Convênio ICMS nº 66/88) e fundava-se na premissa basilar de encerramento da cadeia produtiva.
+[...]
+Senão, veja-se a seguinte transcrição:
+‘[...]
+Assim, em harmonia com a Constituição Federal, o Convênio ICMS 66/88 vedava expressamente o aproveitamento de créditos do imposto nas hipóteses de aquisição de bens destinados ao ativo imobilizado, e ao uso e consumo interno por ser o estabelecimento o consumidor final destes, regra que se instala ao núcleo do fato gerador do imposto.
+[...]
+Com a entrada em vigência da Lei Complementar Federal nº 87/96, o convênio aludido deixou de ter eficácia e modificado foi o regramento do creditamento de ICMS.
+Assim é que referida lei passou a permitir a compensação dos créditos de ICMS cobrado em operações com entrada, no estabelecimento, de mercadoria destinada ao uso ou consumo do estabelecimento ou ao ativo permanente:
+[...]
+Destarte, o pretenso direito sustentado pela apelante, de aproveitamento de créditos de ICMS relativos aos bens que adquiriu para o seu ativo permanente, não tem como fonte da Constituição Federal, mas, antes, a Lei Complementar Federal nº 87/96 que regra “o imposto dos Estados e do Distrito Federal sobre operações relativas à circulação de mercadorias e sobre prestações de serviços de transporte interestadual e intermunicipal e de comunicação, e dá outras providências”.
+É dizer, a benesse foi instituída no âmbito da legislação infraconstitucional e inaugurada pela Lei Complementar nº 87/96. Tal só foi possível porque a lei pode estender o direito de crédito a outras categorias de bens que não as mercadorias (CF, art. 155, § 2º, inc. XII). Com a edição da referida Lei Complementar pretendeu o legislador estender o benefício àqueles bens que passam a integrar o ativo fixo. Este sistema não violou a Constituição Federal, na medida em que esta lhe conferiu essa possibilidade, através da sistemática construída pelo art. 155.
+Esta autorização de creditamento se constituiu em mera liberalidade do legislador, porquanto o creditamento do ICMS nas hipóteses tratadas no artigo 20 não era imposta pelo Princípio da Não-Cumulatividade e não tem com ele qualquer relação.
+E, na condição de mera liberalidade, de medida de incentivo fiscal com vistas a um aquecimento da cadeia produtiva, o legislador estabeleceu que o creditamento de mercadorias destinadas ao ativo permanente, será feita à razão de um quarenta e oito avos por mês, devendo a primeira fração ser apropriada no mês em que ocorrer a entrada no estabelecimento (art. 20, §5º, I, com redação dada pela Lei Complementar nº 102/2000).
+Nem se diga que existe ilegalidade nesta alteração, eis que, constituindo-se esta possibilidade de creditamento em verdadeiro benefício fiscal, deve ser restritivamente interpretado, conforme disposto pelo artigo 111, do Código Tributário Nacional. Destarte, por não derivar da regra matriz constitucional e não guardar relação com o Princípio da Não-Cumulatividade, legítimo o estabelecimento das normas regulamentadoras de sua concessão, inclusive no que concerne à forma pela qual este creditamento se concretizará.
+[...]
+Ademais, o art. 155, II, §2º, inc. X, alínea “a”, ao estabelecer que o imposto não incidirá “sobre operações que destinem mercadorias para o exterior, nem sobre serviços prestados a destinatários no exterior, assegurada a manutenção e o aproveitamento do montante do imposto cobrado nas operações e prestações anteriores”, não trata do aproveitamento de ICMS em relação à aquisição de bens destinados ao uso e consumo ou ao ativo permanente do estabelecimento contribuinte”.
+
+Pois bem. A Segunda Turma da Suprema Corte, no julgamento do ARE nº 1.546.425/SP-AgR, apreciou questão similar à debatida na presente demanda, afastando alegações da parte contribuinte análogas às que foram levantadas no recurso extraordinário ora em análise. Por ser esclarecedor, transcrevo trecho do voto do Relator, Ministro Gilmar Mendes:
+
+“Inicialmente, conforme já demonstrado na decisão agravada, registro que, no julgamento do RE-RG 704.815 (Tema 633), esta Corte concluiu que a imunidade a que se refere o art. 155, § 2º, X, a, CF/88 não alcança, nas operações de exportação, o aproveitamento de créditos de ICMS decorrentes de aquisições de bens destinados ao ativo permanente ou uso e consumo da empresa. Nessa oportunidade, o Plenário assentou que esse aproveitamento depende de lei complementar para sua efetivação.
+[...]
+Não se ignora que a imunidade tributária prevista no art. 155, § 2º, X, ‘a’, da Constituição da República, conquanto se trate de norma de eficácia plena e aplicação imediata, comporta interpretação finalística, voltada à promoção da competitividade das exportações brasileiras, não se confundindo, sob qualquer perspectiva com as isenções, cuja hermenêutica é, por natureza, restritiva (art. 111, II, do CTN).
+Ocorre que a imunidade não autoriza ampliação interpretativa que implique a anulação de decisões legislativas que, dentro dos contornos constitucionais, adotou critério técnico compatível com o princípio da não cumulatividade e com a lógica do chamado ‘crédito físico’. Tal sistemática busca assegurar que apenas os insumos que se incorporam materialmente à mercadoria final — e, portanto, sofrem dupla incidência tributária — gerem direito ao crédito de ICMS.
+Ampliar a abrangência da imunidade de exportação para alcançar créditos decorrentes da aquisição de bens do ativo permanente equivaleria a reconfigurar, por via hermenêutica, o modelo normativo eleito pelo constituinte e implementado pelo legislador complementar. Tal operação colidira com os limites objetivos da jurisdição constitucional, especialmente quando inexiste controvérsia jurisprudencial consolidada em sentido contrário.
+Nessas condições, não se vislumbra qualquer ofensa à Constituição na disciplina infralegal questionada. Ao contrário, o modelo atualmente vigente revela-se coerente com os parâmetros constitucionais, razão pela qual o recurso não merece prosperar”.
+
+O julgado foi assim ementado:
+
+“Direito tributário. Agravo regimental no recurso extraordinário com agravo. ICMS. DIREITO AO CREDITAMENTO. TÉCNCIA DO CRÉDITO FÍSICO. TEMA 633 DA REPERCUSSÃO GERAL. AGRAVO REGIMENTAL NÃO PROVIDO.I. Caso em exame 1. Trata-se de agravo interno interposto contra decisão que negou seguimento a recurso extraordinário com agravo. II. Questão em discussão 2. A questão em discussão consiste em saber se há direito ao creditamento de ICMS nas operações de exportação decorrentes da aquisição de bens destinados ao ativo permanente ou ao uso e consumo da empresa. III. Razões de decidir 3. A petição de agravo não apresentou novos argumentos capazes de infirmar a decisão agravada, a qual deve ser mantida por seus próprios fundamentos. 4. A imunidade a que se refere o art. 155, § 2º, X, 'a', CF/88 não alcança, nas operações de exportação, o aproveitamento de créditos de ICMS decorrentes de aquisições de bens destinados ao uso e consumo da empresa, que depende de lei complementar para sua efetivação. Ratio do Tema 633 da Repercussão Geral. IV. Dispositivo e tese 5. Agravo regimental ao qual se nega provimento” (ARE nº 1.546.425/SP-AgR, Segunda Turma, Rel. Min. Gilmar Mendes, DJe de 28/8/25 — grifo nosso).
+
+Em sentido convergente: ARE nº 1.578.295/GO, Rel. Min. Nunes Marques, DJe de 1º/12/25.
+Ante o exposto, nos termos do artigo 21, § 1º, do Regimento Interno do Supremo Tribunal Federal, nego seguimento ao recurso.
+Sem majoração dos honorários de sucumbência (Súmula nº 512/STF).
+Publique-se.
+Brasília, 13 de fevereiro de 2026.
+
+Ministro DIAS TOFFOLI
+Relator
+Documento assinado digitalmente
