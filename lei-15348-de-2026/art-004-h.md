@@ -1,0 +1,1 @@
+Art. 4º-H. O Poder Executivo poderá estabelecer padrões relacionados ao transporte rodoviário de GLP em áreas rurais, inclusive quanto às condições operacionais e de segurança, com vistas a favorecer a logística necessária à execução do programa nessas localidades e a promover a redução da pobreza energética, considerado o disposto no § 5º do art. 4º-A desta Lei."

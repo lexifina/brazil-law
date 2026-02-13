@@ -1,0 +1,4 @@
+Art. 4º-D. Compete à ANP, na forma estabelecida em regulamento e neste Capítulo:
+I - apoiar a Caixa Econômica Federal, por meio do compartilhamento de dados e de informações completas da base cadastral das revendas varejistas de GLP e de demais informações necessárias à operacionalização, no que couber, na forma e na periodicidade estabelecidas em regulamento;
+II - fiscalizar a atuação das revendas varejistas de GLP e dos distribuidores de GLP no Auxílio Gás do Povo, podendo firmar cooperação com o Ministério de Minas e Energia para execução dessa competência, nos termos da Lei nº 9.847, de 26 de outubro de 1999; e
+III - disponibilizar ao Ministério de Minas e Energia e ao Ministério da Fazenda o levantamento de preços de revenda de GLP ao consumidor final, na forma e na periodicidade estabelecidas em regulamento e no ato conjunto de que trata o art. 4º-F desta Lei.

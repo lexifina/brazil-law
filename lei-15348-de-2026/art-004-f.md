@@ -1,0 +1,4 @@
+Art. 4º-F. Ato conjunto do Ministro de Estado de Minas e Energia e do Ministro de Estado da Fazenda disporá sobre os preços regionalizados, no âmbito da modalidade de gratuidade, observados as metas e o cronograma de atendimento e a disponibilidade orçamentária e financeira, na forma estabelecida em regulamento, de modo a preservar a economicidade da modalidade e a promover a redução da pobreza energética.
+§ 1º Os preços regionalizados deverão ser atualizados em função da variação do preço de compra do GLP pelos distribuidores e de tributos.
+§ 2º Poderão ser estabelecidos preços regionalizados específicos para disponibilização de botijões exclusivamente para áreas rurais.
+§ 3º Os preços regionalizados serão por unidade da Federação, por Municípios ou por agrupamento de Municípios, nos termos do regulamento.

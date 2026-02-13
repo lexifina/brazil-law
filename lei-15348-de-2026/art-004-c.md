@@ -1,0 +1,2 @@
+Art. 4º-C. A modalidade de gratuidade será operacionalizada, nos termos de regulamento, pela Caixa Econômica Federal e pela Dataprev, por meio de contrato firmado com a União, dispensada a licitação.
+Parágrafo único. A operacionalização da modalidade de gratuidade será orientada pela transparência, com a divulgação de informações relativas às operações de compra e venda de GLP aos agentes envolvidos e à sociedade, na forma do regulamento.
