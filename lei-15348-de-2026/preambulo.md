@@ -1,0 +1,2 @@
+Altera a Lei nº 14.237, de 19 de novembro de 2021, para modificar a denominação do Auxílio Gás dos Brasileiros para Auxílio Gás do Povo, criar modalidades de operacionalização do auxílio e instituir o Programa Nacional de Acesso ao Cozimento Limpo; e altera as Leis nºs 8.176, de 8 de fevereiro de 1991, 9.478, de 6 de agosto de 1997, 13.203, de 8 de dezembro de 2015, 14.601, de 19 de junho de 2023, e 14.871, de 28 de maio de 2024.
+O PRESIDENTE DA REPÚBLICA Faço saber que o Congresso Nacional decreta e eu sanciono a seguinte Lei:
