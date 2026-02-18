@@ -1,0 +1,1 @@
+Art. 33-A. Além dos direitos previstos nesta Lei, os servidores do Quadro de Pessoal da Secretaria do Tribunal de Contas da União gozarão dos direitos constantes do regime jurídico único e de outros que, eventualmente, venham a ser criados por lei.

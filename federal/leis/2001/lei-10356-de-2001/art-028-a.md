@@ -1,0 +1,1 @@
+Art. 28-A. O Tribunal de Contas da União poderá regulamentar, em observância ao princípio constitucional da eficiência, o cumprimento da jornada de trabalho fora de suas dependências, no interesse do serviço, para atividades compatíveis e mensuráveis por indicadores, desde que não haja prejuízo ao funcionamento regular da instituição e ao atendimento ao público.
