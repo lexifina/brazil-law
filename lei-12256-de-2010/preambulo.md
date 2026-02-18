@@ -1,0 +1,2 @@
+Reestrutura a remuneração dos cargos de natureza especial, altera a tabela de fatores da Gratificação de Atividade Legislativa devida aos servidores efetivos da Câmara dos Deputados; revoga o art. 4º da Resolução nº 28, de 1998, e o art. 1º da Resolução nº 39, de 2006, ambas da Câmara dos Deputados; e dá outras providências.
+O PRESIDENTE DA REPÚBLICA Faço saber que o Congresso Nacional decreta e eu sanciono a seguinte Lei:
