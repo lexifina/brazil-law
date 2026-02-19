@@ -1,0 +1,94 @@
+Ementa: Direito Administrativo e outras matérias de Direito Público. Direito à saúde. Recurso Extraordinário.  Fornecimento de medicamentos. Responsabilidade solidária dos entes federados. Acórdão alinhado ao entendimento firmado no Tema nº 793 do ementário da Repercussão Geral. Alegada incompetência da Justiça estadual. Ação ajuizada antes do resultado do julgamento de mérito do Tema nº 1.234 do ementário da Repercussão Geral. Inaplicabilidade. Alegada ofensa ao princípio da separação de Poderes e da reserva do possível. Improcedência. Negativa de seguimento.
+I. Caso em exame
+1. Recurso extraordinário interposto contra acórdão do Tribunal de Justiça do Estado do Rio de Janeiro pelo qual se reconheceu a solidariedade do Estado e do Município no fornecimento de medicamento a necessitados.
+2. O recorrente alega violação aos arts. 2º, 5º, 196 e 198 da Constituição da República.
+3. O Tribunal de origem, em juízo de retratação, manteve o acórdão recorrido, ratificando a solidariedade e afastando a aplicação das regras de competência do Tema RG nº 1.234 ao caso concreto, por ter sido a demanda ajuizada antes da modulação dos efeitos.
+II. Questão em discussão
+4. Há três questões em discussão: (i) saber se há responsabilidade solidária entre os entes federados no fornecimento de medicamentos; (ii) saber sobre a competência para julgar demandas relativas a medicamentos não incorporados ao SUS, mas registrados na Anvisa; e (iii) saber se o Poder Judiciário pode determinar ao Poder Executivo a realização de direitos fundamentais, afastando argumentos de reserva do possível ou separação de Poderes.
+III. Razões de decidir
+5. O acórdão recorrido está em harmonia com o entendimento do Supremo Tribunal Federal, que, no Tema RG nº 793, reafirmou a responsabilidade solidária dos entes federados nas demandas prestacionais na área da saúde.
+6. A regra de competência estabelecida no Tema RG nº 1.234, que atribui à Justiça Federal o julgamento de demandas relativas a medicamentos não incorporados ao SUS e oncológicos, com registro na Anvisa, aplica-se apenas às ações ajuizadas após 19/09/2024, não abrangendo o presente caso, ajuizado em 2015.
+7. A distribuição de competências entre os entes federados não afasta a responsabilidade solidária, mas a reforça, relacionando-se com o cumprimento de sentença e a compensação financeira entre os entes.
+8. O Supremo Tribunal Federal reconhece a legitimidade do Poder Judiciário para impor obrigação de fazer com vistas à concretização de políticas públicas constitucionalmente asseguradas, não sendo oponível o argumento da reserva do possível nem o princípio da separação dos Poderes, conforme o Tema RG nº 698.
+9. As regras processuais do Tema RG nº 1.234, que atribuem à parte autora o ônus de comprovação dos requisitos para concessão do pedido de fornecimento de medicamento, não se aplicam à fase instrutória já encerrada, para não exigir da parte o cumprimento de obrigação sem que lhe tenha sido oportunizado momento processual para tal.
+IV. Dispositivo
+10. Recurso extraordinário ao qual se nega seguimento.
+DECISÃO
+
+1. Trata-se de recurso extraordinário interposto contra acórdão prolatado pelo Tribunal de Justiça do Estado do Rio de Janeiro, assim ementado:
+
+“AGRAVO INOMINADO EM APELAÇÃO CÍVEL. SOLIDARIEDADE DO ESTADO E DO MUNICÍPIO NO FORNECIMENTO DE MEDICAMENTO AOS NECESSITADOS. O ENUNCIADO 65, DA SÚMULA DO TJ DIREITO À SAÚDE CONSTITUCIONALMENTE ASSEGURADO. PREVISÃO ORÇAMENTÁRIA NÃO PODE SER ARGUÍDA EM O DESFAVOR DO CIDADÃO. OBRIGAÇÃO DE OS RÉUS FORNECEREM AO AUTOR OS MEDICAMENTOS INDICADOS NA INICIAL OU OUTROS QUE VIEREM A SER NECESSÁRIOS AO TRATAMENTO PRESCRITO. HONORÁRIOS ADVOCATICIOS FIXADOS EM OBSERVÂNCIA AO ART. 20, § 4º, DO C.P.C. VALOR RAZOÁVEL DA ASTREINTE FIXADA. DESPROVIMENTO DO RECURSO.” (e-doc. 16, p. 1).
+
+2. Não foram opostos embargos de declaração.
+
+3. No recurso extraordinário, interposto com base no art. 102, inc. III, al. “a”, da Constituição da República, o recorrente afirma violados os arts. 2º, 5º, 196 e 198 da Constituição da República (e-doc. 20).
+
+4. Foi determinada a devolução do processo para o Colegiado a quo em razão dos Temas RG nº 793 e nº 1.234 (e-doc. 38).
+
+5. O Colegiado de origem, em juízo de retratação, manteve o acórdão recorrido, que ficou assim ementado:
+
+“JUÍZO DE RETRATAÇÃO EM APELAÇÃO CÍVEL. ART.1030, II, DO CPC. MEDICAMENTOS. TEMA 1.234 DO SUPREMO TRIBUNAL FEDERAL. RATIFICAÇÃO DO JULGADO.
+1. Trata-se de devolução a esta Câmara para reapreciação da matéria objeto do presente recurso, (fornecimento de medicamento pelos entes federativos) em razão de versar sobre matéria decidida pelo Supremo Tribunal Federal ao julgar o Tema 1.234.
+2. Sobre o tema, o Supremo Tribunal Federal, por ocasião do julgamento do Recurso Extraordinário nº 1366243/SC, com repercussão geral (Tema 1.234), já com redação alterada no julgamento dos embargos aclaratórios, firmou a tese segundo a qual as demandas relativas a medicamentos não incorporados na política pública do SUS, mas com registro na ANVISA, tramitarão perante a Justiça Federal, nos termos do art. 109, I, da Constituição Federal, determinando uma serie de regras a respeito tanto da competência quanto do custeio e compensação financeira.
+3. Com efeito, extrai-se do julgado que o Supremo Tribunal Federal reconheceu a competência da União para o julgamento das demandas que versarem sobre fornecimento de medicamentos registrados na ANVISA, e não incorporados pelo SUS, modulando-se os efeitos da decisão, aplicado tal entendimento apenas às demandas ajuizadas após a publicação do resultado do julgamento definitivo, ocorrida em 11/10/2024. Assim, não se aplica ao caso o entendimento sobre a competência, porquanto a presente demanda foi ajuizada em 30/03/2015.
+4. Observa-se, ainda, que o julgado vinculante do Supremo Tribunal Federal (Tema 1.234) tratou também sobre outras questões envolvendo o custeio e a compensação financeira entre os entes federativos.
+5. Bem de ver que tais questões foram resultado de um acordo firmado entre os entes públicos, que foi homologado pelo Supremo Tribunal Federal no referido julgado (Tema 1.234), em que, incluída também a questão da competência, restaram estabelecidas regras processuais para o fornecimento judicial de medicamentos, prevendo inclusive a criação de uma plataforma nacional, com adequação do atendimento a ser realizado pela Defensoria Pública da União.
+6. Ressalta-se que o acórdão atacado reconheceu a solidariedade entre os Estados, a União e os Municípios no fornecimento de medicamento aos necessitados, nos termos do verbete 65, da súmula deste Tribunal.
+7. E nesse mesmo sentido, a Corte Suprema, quando do julgamento do recurso extraordinário nº 855.178 (Tema 793), sob o rito da repercussão geral, ratificou a solidariedade existente entre os entes federados, em casos como o dos autos.
+8. Nesse contexto, cumpre assinalar que a distribuição de competências em si não possui o condão de afastar a responsabilidade solidária, antes a reforça, porquanto, juntamente com as questões de custeio e compensação financeira, decorre justamente da própria relação de solidariedade entre os entes federativos.
+9. Certo é que a distribuição de competências definidas pelo paradigma julgado pelo Supremo Tribunal Federal em matéria de fornecimento de medicamentos (Tema 1.234), normas de cunho eminentemente processual, se relaciona com o cumprimento de sentença, podendo-se buscar o consequente custeio e compensação financeira entre os entes da federação pela via administrativa ou judicial em ação autônoma.
+10. Ademais, tais regras processuais atribui à parte autora o ônus de comprovação dos requisitos para concessão do pedido de fornecimento de medicamento. Tratando-se de regras de instrução e julgamento, o entendimento assentado no precedente do Supremo Tribunal Federal (Tema 1.234) não tem aplicação na hipótese, vez que já encerrada a fase instrutória, não podendo ser exigido da parte autora o cumprimento de obrigação sem que lhe tenha sido oportunizado momento processual para tal.
+11. Ratificação do julgado.” (e-doc. 40, p. 1-3).
+
+6. O Tribunal de origem admitiu o recurso extraordinário (e-doc. 42).
+
+É o relatório.
+
+Decido.
+
+7. O recurso não merece prosperar.
+
+8. Confira-se trecho do acórdão proferido em juízo de retratação pelo Tribunal de origem:
+
+“(...) extrai-se do julgado que o Supremo Tribunal Federal reconheceu a competência da União para o julgamento das demandas que versarem sobre fornecimento de medicamentos registrados na ANVISA, e não incorporados pelo SUS, modulando-se os efeitos da decisão, aplicado tal entendimento apenas às demandas ajuizadas após a publicação do resultado do julgamento definitivo, ocorrida em 11/10/2024.
+Assim, não se aplica ao caso o entendimento sobre a competência, porquanto a presente demanda foi ajuizada em 30/03/2015.
+Observa-se, ainda, que o julgado vinculante do Supremo Tribunal Federal (Tema 1.234) tratou também sobre outras questões envolvendo o custeio e a compensação financeira entre os entes federativos.
+Bem de ver que tais questões foram resultado de um acordo firmado entre os entes públicos, que foi homologado pelo Supremo Tribunal Federal no referido julgado (Tema 1.234), em que, incluída também a questão da competência, restaram estabelecidas regras processuais para o fornecimento judicial de medicamentos, prevendo inclusive a criação de uma plataforma nacional, com adequação do atendimento a ser realizado pela Defensoria Pública da União.
+Ressalta-se que o acórdão atacado reconheceu a solidariedade entre os Estados, a União e os Municípios no fornecimento de medicamento aos necessitados, nos termos do verbete 65, da súmula deste Tribunal, que se transcreve:
+‘Deriva-se dos mandamentos dos arts. 6° e 196, da Constituição Federal de 1988 e da Lei n° 8.080/90, a responsabilidade solidária da União, Estados e Municípios, garantido o fundamental direito da saúde e consequente antecipação da respectiva tutela’.
+E nesse mesmo sentido, a Corte Suprema, quando do julgamento do recurso extraordinário nº 855.178, sob o rito da repercussão geral, ratificou a solidariedade existente entre os entes federados, em casos como o dos autos, como se depreende do Tema nº 793, in verbis:
+‘Os entes da federação, em decorrência da competência comum, são solidariamente responsáveis nas demandas prestacionais na área de saúde, e diante dos critérios constitucionais de descentralização e hierarquização, compete à autoridade judicial direcionar o cumprimento conforme as regras de repartição de competências e determinar o ressarcimento a quem suportou o ônus financeiro.’
+Nesse contexto, cumpre assinalar que a distribuição de competências em si não possui o condão de afastar a responsabilidade solidária, antes a reforça, porquanto, juntamente com as questões de custeio e compensação financeira, decorre justamente da própria relação de solidariedade entre os entes federativos.
+Certo é que a distribuição de competências definidas pelo paradigma julgado pelo Supremo Tribunal Federal em matéria de fornecimento de medicamentos (Tema 1.234), normas de cunho eminentemente processual, se relaciona com o cumprimento de sentença, podendo-se buscar o consequente custeio e a compensação financeira entre os entes da federação pela via administrativa ou judicial em ação autônoma
+Com efeito, posicionamento diverso implicaria o afastamento da solidariedade existente entre os entes federados no fornecimento gratuito de medicamentos.
+Ademais, tais regras processuais atribui à parte autora o ônus de comprovação dos requisitos para concessão do pedido de fornecimento de medicamento.
+Desta forma, tratando-se de regras de instrução e julgamento, o entendimento assentado no precedente do Supremo Tribunal Federal (Tema 1.234) não tem aplicação na hipótese, vez que já encerrada a fase instrutória, não podendo ser exigido da parte autora o cumprimento de obrigação sem que lhe tenha sido oportunizado momento processual para tal.
+(...)
+Nesta toada, o acórdão prolatado por esta Câmara não colide com o referido paradigma (Tema 1234 do STF), não havendo que se falar em alteração do resultado do julgado.” (e-doc. 40, p. 2-20).
+
+9. O acordão do Tribunal de origem, quanto à responsabilidade solidária entre os entes federados, está em harmonia com o entendimento do Supremo Tribunal Federal, que, no âmbito da repercussão geral, ao julgar o RE nº 855.178-RG/SE, Tema RG nº 793, reafirmando a jurisprudência, fixou a seguinte tese:
+
+“RECURSO EXTRAORDINÁRIO. CONSTITUCIONAL E ADMINISTRATIVO. DIREITO À SAÚDE. TRATAMENTO MÉDICO. RESPONSABILIDADE SOLIDÁRIA DOS ENTES FEDERADOS.   REPERCUSSÃO GERAL RECONHECIDA. REAFIRMAÇÃO DE JURISPRUDÊNCIA.
+O tratamento médico adequado aos necessitados se insere no rol dos deveres do Estado, porquanto responsabilidade solidária dos entes federados. O polo passivo pode ser composto por qualquer um deles, isoladamente ou conjuntamente.”
+(RE nº 855.178-RG/SE, Rel. Min. Luiz Fux, Tribunal Pleno, j. 05/03/2015, p. 16/03/2015; grifos nossos).
+
+10. Quanto à alegada incompetência da Justiça estadual para julgar a presente ação, registre-se, por oportuno, que o Supremo Tribunal Federal ao julgar o RE nº 1.366.243/SC, Tema RG nº 1.234, fixou, no ponto, a seguinte tese: “Para fins de fixação de competência, as demandas relativas a medicamentos não incorporados na política pública do SUS e medicamentos oncológicos, ambos com registro na ANVISA, tramitarão perante a Justiça Federal, nos termos do art. 109, I, da Constituição Federal, quando o valor do tratamento anual específico do fármaco ou do princípio ativo, com base no Preço Máximo de Venda do Governo (PMVG – situado na alíquota zero), divulgado pela Câmara de Regulação do Mercado de Medicamentos (CMED - Lei 10.742/2003), for igual ou superior ao valor de 210 salários mínimos, na forma do art. 292 do CPC”.
+11. No entanto, no julgamento dos embargos de declaração, no Tema nº 1.234 do ementário da Repercussão Geral, o Supremo Tribunal Federal concluiu que “os efeitos do tema 1234, quanto à competência, somente se aplicam às ações que forem ajuizadas após a publicação do resultado do julgamento de mérito no Diário de Justiça Eletrônico (19.9.2024)”.
+
+12. Registre-se, ainda, que o Supremo Tribunal Federal assentou, quanto à competência do Poder Judiciário para determinar ao Poder Executivo a realização direitos fundamentais, pela licitude da imposição da obrigação, não sendo oponível à decisão o argumento da reserva do possível nem o princípio da separação dos Poderes. Nesse sentido:
+
+“AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO COM AGRAVO. OBRIGAÇÃO DE FAZER. POLÍTICAS PÚBLICAS. FORNECIMENTO DE VEÍCULO ADAPTADO PARA LOCOMOÇÃO ATÉ INSTITUIÇÃO DE ENSINO DO PODER PÚBLICO. ALEGADA AFRONTA AO PRINCÍPIO DA SEPARAÇÃO DOS PODERES. IMPROCEDÊNCIA. TEMA 698 DA REPERCUSSÃO GERAL. PRECEDENTES. REEXAME DE FATOS E PROVAS E DE LEGISLAÇÃO INFRACONSTITUCIONAL. SÚMULA 279 DO STF. AGRAVO REGIMENTAL DESPROVIDO. I. CASO EM EXAME 1. Agravo regimental interposto em face de decisão monocrática, na qual negado provimento ao recurso, com apoio em precedentes desta Corte e na Súmula n° 279 do STF. II. QUESTÃO EM DISCUSSÃO 2. A questão em discussão consiste em saber se é aplicável, ou não, ao caso concreto, o Tema n° 698 da repercussão geral e se houve afronta ao princípio da separação dos poderes, sob o argumento de que, na hipótese, caberia ao Poder Judiciário tão somente apontar as finalidades a serem alcançadas e determinar à Administração Pública a apresentação de planos e meios adequados para alcançar o resultado pretendido. 3. Além disso, pretende-se afastar, na hipótese, o óbice da Súmula 279 do STF. III. RAZÕES DE DECIDIR 4. Encontra-se sedimentado no âmbito do Supremo Tribunal Federal o entendimento pelo qual se admite a legitimidade do Poder Judiciário para impor obrigação de fazer com vistas à concretização de políticas públicas constitucionalmente asseguradas quando houver omissão ou morosidade da Administração Pública, de modo que não configura violação ao princípio da separação dos poderes, tampouco da discricionariedade do ente estatal em dispor das verbas orçamentárias a ele vinculadas. Nesta hipótese, cuida-se de situação que exige a pronta ação do Judiciário para recompor a ordem jurídica violada. 6. Ao apreciar o mérito do RE-RG 684.612, com repercussão geral reconhecida, de relatoria do Ministro Luís Roberto Barroso, referente ao Tema 698, no qual se discutia a competência do Poder Judiciário para determinar ao Poder Executivo a realização direitos fundamentais, o Supremo Tribunal Federal decidiu pela licitude da imposição da obrigação, não sendo oponível à decisão o argumento da reserva do possível nem o princípio da separação dos poderes. 7. Ademais, mesmo que assim não fosse, eventual divergência em relação ao entendimento adotado pelo juízo a quo demandaria o exame da legislação infraconstitucional aplicável à espécie, além do reexame de fatos e provas. 8. A parte Recorrente não trouxe argumentos suficientes para infirmar os fundamentos da decisão agravada. IV - DISPOSITIVO 9. Agravo regimental a que se nega provimento.”
+(ARE nº 1.545.660-AgR/CE, Rel. Min. Edson Fachin, Segunda Turma, j. 19/08/2025, p. 27/08/2025; grifos nossos).
+
+13. Para a espécie, inclusive, se faz válido registrar a advertência de que, em casos de apresentação de medida recursal manifestamente inadmissível ou improcedente, o Supremo Tribunal Federal entende pela possibilidade de aplicação de multa, nos termos do art. 1.021, § 4º, do CPC (ARE nº 1.321.696-ED-AgR/MG, de minha relatoria, Segunda Turma, j. 06/06/2022, p. 29/06/2022; ARE nº 1.107.805-AgR/SP, Rel. Min. Roberto Barroso, Primeira Turma, j. 13/12/2019, p. 03/02/2020; Rcl nº 45.289-AgR/DF, Rel. Min. Dias Toffoli, j. 04/10/2021, p. 30/11/2021; Rcl nº 24.841-EDAgR/SP, Rel. Min. Luiz Fux, Primeira Turma, j. 20/04/2017, p. 11/05/2017; MS nº 37.637-AgR/DF, Rel. Min. Roberto Barroso, Tribunal Pleno, j. 17/05/2021, p. 16/06/2021; e MS nº 35.272-AgR-segundo/DF, Rel. Min. Edson Fachin, Segunda Turma, j. 16/06/2020, p. 08/10/2020).
+
+14. Consigno ainda que a apresentação de embargos de declaração com intuito protelatório assoberba ilegitimamente a justiça, prejudicando a mais célere e efetiva prestação jurisdicional. A eventual insistência na apresentação de recursos protelatórios acarreta a possibilidade e, até mesmo, a obrigação da magistratura em fazer incidir a multa processual prevista no art. 1.026, §§ 2º a 4º, do CPC (MS nº 38.166-AgR-ED-ED/DF, Rel. Min. Edson Fachin, Tribunal Pleno, j. 03/05/2023, p. 12/05/2023).
+
+15. Ante o exposto, nego seguimento ao recurso extraordinário, nos termos do art. 21, § 1º, do RISTF. Deixo de aplicar art. 85, § 11, do CPC/2015, tendo em vista que o recurso foi interposto ainda sob a égide do diploma processual civil anterior..
+
+Publique-se.
+
+Brasília, 19 de fevereiro de 2026.
+
+Ministro ANDRÉ MENDONÇA
+Relator
