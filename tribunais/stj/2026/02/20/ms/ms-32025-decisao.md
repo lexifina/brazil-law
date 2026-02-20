@@ -1,0 +1,29 @@
+DECISÃO
+Trata-se de mandado de segurança com pedido liminar impetrado por PEDRO HENRIQUE CALOIARO DE MACEDO contra ato atribuído ao CHEFE DO DEPARTAMENTO DE EDUCAÇÃO E CULTURA DO EXÉRCITO - DECEX.
+A parte impetrante narra que "participou do Concurso Público para Admissão aos Cursos de Formação e Graduação de Sargentos das Áreas Geral, Música e Saúde, especificadas no edital de PROCESSO SELETIVO PARA O SERVIÇO MILITAR, NO ÂMBITO DA 1ª REGIÃO MILITAR, com previsão de início em março de 2026 e término em dezembro de 2027" (fl. 3).
+Alega que foi excluída do certame por ter apresentado documentação incompleta na fase de inspeção de saúde, o que, segundo afirma, é inverídico.
+Destaca que "retornou ao Ministério do Exército, em 19/01/2026 como dá contra cópia da Relação de Visitantes, a fim de apresentar recurso À JUNTA DE INSPEÇÃO DE SAÚDE DE RECURSOS (JISR) CONCURSO DE ADMISSÃO - ESA - EDITAL Nº 3/SCA, DE 28 DE MARÇO DE 2025, contudo, não logrou êxito, eis que se negaram a receber sua petição, embora tempestivo, já que apresentado dentro do prazo de 5 (cinco) dias úteis contado a partir da divulgação oficial do resultado da Inspeção de Saúde, conforme art. 119 do Edital nº 3/SCA/2025" (fl. 4).
+Requer "a CONCESSÃO LIMINAR DA SEGURANÇA PLEITEADA , "inaudita altera pars", para conceder a liminar de urgência, expedindo-se a ordem mandamental para que possa ter sua admissão e matrícula nos cursos de formação e graduação de sargentos das áreas geral, música e saúde referentes ao concurso de admissão para matrícula em março 2026" (fl. 20).
+Ao final, pede a concessão da segurança para que seja realizada a sua convocação e nomeação para "o curso de formação do serviço militar nos termos do EDITAL Nº 3/SCA, DE 28 DE MARÇO DE 2025 CONCURSO PÚBLICO PARA ADMISSÃO E MATRÍCULA NOS CURSOS DE FORMAÇÃO E GRADUAÇÃO DE SARGENTOS DAS ÁREAS GERAL, MÚSICA E SAÚDE REFERENTES AO CONCURSO DE ADMISSÃO PARA MATRÍCULA EM 2026" (fl. 21).
+É o relatório.
+O art. 105, inciso I, alínea b, da Constituição Federal estabelece a competência originária do Superior Tribunal de Justiça para processar e julgar mandado de segurança nas hipóteses de ato omissivo ou comissivo praticado por Ministro de Estado, por Comandantes da Marinha, do Exército e da Aeronáutica ou pelo próprio Tribunal, que seja lesivo a direito líquido e certo da parte impetrante.
+Ocorre que, no presente caso, o mandado de segurança não foi impetrado contra suposto ato ilegal do Comandante do Exército, e sim contra o Chefe do Departamento de Educação e Cultura do Exército - DECEX.
+Assim, tendo o presente mandamus sido impetrado contra autoridade não elencada no permissivo constitucional, não há a competência desta Corte para o processamento e julgamento do writ.
+Nesse sentido:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO MANDADO DE SEGURANÇA. AUTORIDADE COATORA NÃO PREVISTA NO ROL DO ART. 105, I, B, DA CF. INCOMPETÊNCIA DO STJ. INCIDÊNCIA DA SÚMULA 41 DO STJ. AGRAVO INTERNO NÃO PROVIDO.
+1. Nos termos do art. 105, I, "b", da Constituição Federal, o Superior Tribunal de Justiça é competente para processar e julgar os mandados de segurança contra atos de Ministros de Estado, de Comandantes da Marinha, do Exército e da Aeronáutica ou do próprio Tribunal.
+2. De acordo com a Súmula 41 do STJ, "o Superior Tribunal de Justiça não tem competência para processar e julgar, originariamente, mandado de segurança contra ato de outros tribunais ou dos respectivos órgãos".
+3. Os atos coatores apontados pelo recorrente, prolatados pelo Tribunal de Justiça Militar do Estado de São Paulo e seu respectivo órgão de Recursos Humanos, afastam a competência desta Corte para o julgamento do mandamus.
+4. Agravo interno não provido.
+(AgInt no MS n. 30.482/DF, relatora Ministra Maria Thereza de Assis Moura, Primeira Seção, julgado em 1ª/10/2024, DJe de 4/10/2024, sem destaque no original.)
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NOS EMBARGOS DE DECLARAÇÃO NO MANDADO DE SEGURANÇA. PROCESSUAL CIVIL. IMPETRAÇÃO. ATO DO MINISTRO PRESIDENTE DA TURMA NACIONAL DE UNIFORMIZAÇÃO DE JURISPRUDÊNCIA. STJ. INCOMPETÊNCIA. TERATOLOGIA OU FLAGRANTE ILEGALIDADE. INEXISTÊNCIA.
+1. Trata-se de mandamus impetrado contra decisão proferida por Ministro do STJ, na condição de Presidente da Turma Nacional de Uniformização dos Juizados Especiais Federais (RITNU, art. 1º, § 2º), nos autos do Mandado de Segurança nº 5000066-77.2022.4.90.0000, que não conheceu do recurso ordinário interposto por ausência de previsão legal.
+2. Conforme previsto no art. 105, I, "b", da Constituição da República, a competência originária do Superior Tribunal de Justiça para processar e julgar mandados de segurança restringe-se aos impetrados contra ato de Ministro de Estado, dos Comandantes da Marinha, do Exército e da Aeronáutica ou do próprio Tribunal. Circunstância não verificada no caso em apreço.
+3. Ademais, não se admite, em regra, a impetração de mandado de segurança contra ato jurisdicional dos órgãos fracionários desta Corte Superior ou de seus Ministros, salvo em hipóteses de evidente ilegalidade ou teratologia. Incidência da Súmula nº 267/STF.
+4. No caso, não deve ser qualificada como ilegal, tampouco teratológica, a decisão que não conheceu do recurso ordinário interposto nos autos da mencionada impetração, pois tal manifestação apresentou-se com motivação adequada e suficiente, especialmente se constatado que a conclusão adotada (não conhecimento do apelo por ausência de previsão legal) corresponde à legislação aplicável à hipótese (arts. 105, II, da CF/1988, 14 da Lei nº 10.259/2001 e 6º do Regimento Interno da TNU).
+5. Agravo interno não provido.
+(AgInt nos EDcl nos EDcl no MS n. 29.830/DF, relator Ministro Ricardo Villas Bôas Cueva, Corte Especial, julgado em 13/8/2024, DJe de 20/8/2024, sem destaque no original.)
+Ante o exposto, indefiro a petição inicial do mandado de segurança.
+Prejudicado o pedido liminar.
+Publique-se. Intimem-se.
+EMENTA
