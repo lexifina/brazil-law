@@ -1,0 +1,183 @@
+Poder Judiciário
+Justiça do Trabalho
+Tribunal Superior do Trabalho
+PROCESSO Nº TST-Ag-EDCiv-AIRR - 10111-97.2020.5.15.0002
+A C Ó R D Ã O
+4ª Turma
+GMMCP/sq/
+AGRAVO DO SEGUNDO RECLAMADO – AGRAVO DE
+INSTRUMENTO EM RECURSO DE REVISTA INTERPOSTO SOB A
+ÉGIDE DA LEI Nº 13.467/2017 – AÇÃO CIVIL PÚBLICA –
+RESPONSABILIDADE PELA IMPLEMENTAÇÃO DE MEDIDAS DE
+SAÚDE E SEGURANÇA DO TRABALHO PARA MANUTENÇÃO DA
+COOPERATIVA DE RECICLADORES DE ITUPEVA – ASTREINTES -
+INOBSERVÂNCIA DO ARTIGO 896, § 1º-A, ITEM I, DA CLT -
+TRANSCENDÊNCIA NÃO RECONHECIDA
+A decisão agravada observou os artigos 932, III, IV e VIII, do CPC
+e 5º, LXXVIII, da Constituição da República, não comportando
+reconsideração ou reforma.
+Agravo a que se nega provimento.
+Vistos, relatados e discutidos estes autos de Agravo em Embargos de Declaração
+Cível em Agravo de Instrumento em Recurso de Revista nº TST-Ag-EDCiv-AIRR - 10111-
+97.2020.5.15.0002, em que é Agravante(s) MUNICÍPIO DE ITUPEVA e são Agravado(s)S COOPERATIVA DE
+RECICLADORES DE ITUPEVA - CRI, MARCO ANTONIO MARCHI e MINISTERIO PUBLICO DO TRABALHO.
+Trata-se de Agravo interposto à decisão que negou seguimento ao Agravo de
+Instrumento.
+É o relatório.
+V O T O
+I - CONHECIMENTO
+Regularmente processado, conheço do Agravo.
+II - MÉRITO
+Por decisão monocrática, deu-se provimento aos Embargos de Declaração
+opostos pelo Ministério Público do Trabalho para, imprimindo efeito modificativo à decisão embargada,
+negar provimento ao Agravo de Instrumento do Município-reclamado. Verificou-se a inobservância do
+art. 896, § 1º-A, I, da CLT.
+Em Agravo, o Município-reclamado sustenta que o Recurso de Revista comporta
+processamento. Afirma que observou as exigências do art. 896, § 1º-A, da CLT, com a transcrição dos
+trechos, “trazendo os três pontos fundamentais que violam a lei federal de resíduos sólidos, lei de orçamento,
+bem como no que se refere a multa” (fl. 1.210). Reitera as razões de mérito do Recurso de Revista.
+A decisão agravada é insuscetível de reconsideração ou reforma.
+A jurisprudência desta Eg. Corte Superior firmou o entendimento de que a
+transcrição do acórdão regional, no início das razões do Recurso de Revista, quando dissociada das
+razões recursais, não atende ao requisito previsto no artigo 896, § 1º-A, I, da CLT.
+Na hipótese, o Município-reclamado transcreveu, no início do Recurso de Revista,
+os trechos do acórdão regional. Adiante, ao apresentar os fundamentos do recurso nos tópicos
+impugnados (fls. 1.033/1.057), não indicou os trechos que consubstanciam o prequestionamento das
+controvérsias.
+Assim, a reprodução dos fundamentos do acórdão regional feita no início do
+Este documento pode ser acessado no endereço eletrônico http://www.tst.jus.br/validador sob código 100666A61D5D681882.
+Recurso de Revista, dissociados dos capítulos em que a parte expõe suas razões e pede a reforma da
+decisão recorrida, não atende ao disposto no artigo 896, § 1º-A, da CLT, uma vez que, nesse caso, não é
+possível delimitar precisamente a tese regional combatida no apelo, nem demonstrar analiticamente a
+violação aos dispositivos invocados.
+Nesse sentido, cito julgados desta 4ª Turma, da C. SBDI-1 e de todas as outras
+Turmas desta Corte:
+AGRAVO EM AGRAVO DE INSTRUMENTO EM RECURSO DE REVISTA DA RECLAMADA INTERPOSTO
+SOB A ÉGIDE DA LEI Nº 13.467/2017 – DESCUMPRIMENTO DO REQUISITO DO ART. 896, § 1º-A, I E III,
+DA CLT – TRANSCRIÇÃO INTEGRAL DO ACÓRDÃO REGIONAL DISSOCIADA DAS RAZÕES RECURSAIS A
+decisão agravada está conforme à jurisprudência desta Corte, no sentido de que a reprodução
+integral dos fundamentos do acórdão regional em relação a diversos temas, feita no início do
+recurso, de forma dissociada dos capítulos em que a parte expõe suas razões e pede a reforma da
+decisão recorrida, não atende ao disposto no artigo 896, § 1º-A, I e III, da CLT, uma vez que, nesse
+caso, não é possível delimitar precisamente a tese regional combatida no apelo, nem demonstrar
+analiticamente a violação aos dispositivos invocados, especialmente em casos como o presente, em
+que a impugnação refere-se a vários temas. Julgados da C. SBDI-1 e de todas as Turmas do TST.
+Agravo a que se nega provimento, com aplicação de multa, nos termos do art. 1.021, § 4º, do CPC.
+(Ag-AIRR-10547-28.2023.5.03.0053, 4ª Turma, Relatora Ministra Maria Cristina Irigoyen Peduzzi, DEJT
+13/12/2024)
+RECURSO DE EMBARGOS REGIDO PELA LEI 13.015/2014. NÃO CONHECIMENTO DO RECURSO DE
+REVISTA. INOBSERVÂNCIA AO REQUISITO PREVISTO NO ARTIGO 896, § 1º-A, I, DA CLT. Salvo quando o
+capítulo da decisão é sucinto a ponto de toda a fundamentação (matéria prequestionada) nele se
+exaurir, a transcrição na íntegra dos capítulos do acórdão do Tribunal Regional objeto da
+controvérsia no início das razões do recurso de revista, e, posteriormente, as insurgências quanto
+aos temas recorridos não satisfazem o requisito previsto no art. 896, § 1º-A, I, da CLT, porquanto não
+viabilizam o confronto analítico entre a tese central assentada pelo TRT e a fundamentação jurídica
+apresentada no recurso de revista em mais de uma tema. Precedentes. Recurso de embargos
+conhecido e desprovido. (E-ED-RR-1583-45.2014.5.09.0651, SBDI-1, Relator Ministro Augusto César
+Leite de Carvalho, DEJT 27/10/2017)
+AGRAVO DO RECLAMANTE. AGRAVO DE INSTRUMENTO EM RECURSO DE REVISTA. (...)
+ADICIONAL DE INSALUBRIDADE. TRANSCRIÇÃO DE TRECHOS DO ACÓRDÃO REGIONAL EM TÓPICO
+PRÓPRIO DO RECURSO, DE FORMA SUCESSIVA E DISSOCIADA DAS RAZÕES RECURSAIS.
+DESCUMPRIMENTO DOS INCISOS I E III DO § 1º-A DO ARTIGO 896 DA CLT. Ainda que por fundamento
+diverso, impõe-se confirmar a decisão monocrática, mediante a qual se negou provimento ao agravo
+de instrumento da parte. Agravo conhecido e não provido. (Ag-AIRR-311-48.2020.5.12.0028, 1ª Turma,
+Relator Ministro Hugo Carlos Scheuermann, DEJT 18/10/2023)
+AGRAVO INTERNO EM AGRAVO DE INSTRUMENTO EM RECURSO DE REVISTA. INTERPOSIÇÃO
+SOB A ÉGIDE DA LEI Nº 13.467/2017. EXECUÇÃO. REQUISITO DO ARTIGO 896, § 1º-A, INCISO I E III, DA
+CLT NÃO ATENDIDO - TRANSCRIÇÃO DOS FUNDAMENTOS DO ACÓRDÃO REGIONAL NO INÍCIO DO
+RECURSO - AUSÊNCIA DE CONFRONTO ANALÍTICO - PRECEDENTES. (...) a parte limita-se a realizar a
+transcrição dos fundamentos sobre as questões ora impugnadas no início das razões de recurso de
+revista, sem correlacioná-los com os respectivos capítulos impugnados, impedindo assim, o
+confronto analítico entre a decisão recorrida e as alegações formuladas no recurso, não atendendo,
+deste modo, ao disposto no artigo 896, § 1º-A, I e III, da CLT. Precedentes. Agravo interno a que se
+nega provimento. (Ag-AIRR-100747-05.2020.5.01.0001, 2ª Turma, Relatora Ministra Liana Chaib, DEJT
+13/10/2023)
+AGRAVO DE INSTRUMENTO EM RECURSO DE REVISTA INTERPOSTO PELA RECLAMADA. LEIS
+13.015/2014 E 13.467/2017. RITO SUMARÍSSIMO. PRÊMIO PRODUÇÃO. INTEGRAÇÃO AO SALÁRIO.
+REGIME DE COMPENSAÇÃO DE JORNADA. VALIDADE. INOBSERVÂNCIA DOS PRESSUPOSTOS
+RECURSAIS PREVISTOS NO ART. 896, §1º-A, I e III, DA CLT. AUSÊNCIA DE TRANSCENDÊNCIA. Por força
+do comando do art. 896, §1º-A, I e III, da CLT, para viabilizar o exame do recurso de revista, a parte
+deve transcrever nas razões de recorrente o trecho do acórdão regional que consubstancia o
+prequestionamento da controvérsia e proceder ao cotejo analítico entre os fundamentos da decisão
+recorrida e os dispositivos que entende violados e os arestos que entende divergentes. Precedentes.
+Na hipótese, a parte agravante, em seu recurso de revista, transcreveu, no início das razões
+recursais, de forma desvinculada de seu respectivo tópico, de modo que as exigências processuais
+contidas no art. 896, § 1º-A, I e III, da CLT, não foram atendidas, vez que não há, nesse caso,
+determinação precisa da tese adotada pelo Tribunal Regional combatida no apelo, nem
+demonstração analítica das violações apontadas. Agravo de instrumento a que se nega provimento.
+(RRAg-276-13.2020.5.23.0051, 3ª Turma, Relator Ministro Alberto Bastos Balazeiro, DEJT 6/10/2023)
+AGRAVO EM AGRAVO DE INSTRUMENTO EM RECURSO DE REVISTA. ACÓRDÃO REGIONAL
+PUBLICADO NA VIGÊNCIA DA LEI Nº 13.467/2017. RITO SUMARÍSSIMO. ENQUADRAMENTO SINDICAL.
+CONCESSÃO DOS BENEFÍCIOS DA JUSTIÇA GRATUITA. HONORÁRIOS ADVOCATÍCIOS. DEFEITO DE
+TRANSCRIÇÃO. RECURSO DE REVISTA QUE NÃO ATENDE À EXIGÊNCIA DO ART. 896, § 1º-A, I A III, DA
+CLT. TRANSCENDÊNCIA NÃO RECONHECIDA. 1. O art. 896, § 1º-A, I a III, da CLT, introduzido pela Lei nº
+13.015/2014, inseriu novo pressuposto de admissibilidade do recurso de revista, consubstanciado na
+necessidade de a parte indicar, em razões recursais, os trechos do acórdão regional que evidenciem
+os contornos fáticos e jurídicos prequestionados da matéria em debate, com a devida impugnação
+de todos os fundamentos adotados pelo Tribunal Regional, mediante cotejo analítico entre as teses
+enfrentadas e as alegadas violações ou contrariedades invocadas em seu apelo. 2. Na hipótese, não
+basta a mera transcrição de trechos do acórdão regional no início das razões recursais, quanto a mais de um tema, dissociada dos fundamentos que embasam a pretensão recursal, porquanto
+desatendido o dever de realizar o cotejo analítico entre as teses combatidas e as violações ou
+contrariedades invocadas, necessário à admissibilidade do recurso de revista. Mantém-se a decisão
+recorrida, com imposição à parte agravante de multa de 3% sobre o valor atualizado da causa, com
+esteio no art. 1.021, § 4º, do CPC, pois descumprido requisito legal para a interposição do recurso de
+revista, conforme jurisprudência pacificada desta Corte. Agravo conhecido e desprovido. (Ag-AIRR￾101078-62.2021.5.01.0482, 5ª Turma, Relatora Ministra Morgana de Almeida Richa, DEJT 13/10/2023)
+AGRAVO DE INSTRUMENTO EM RECURSO DE REVISTA INTERPOSTO PELOS RECLAMADOS. APELO
+SUBMETIDO À REGÊNCIA DA LEI Nº 13.467/2017. VÍNCULO DE EMPREGO. HORAS EXTRAS. RECURSO
+DE REVISTA QUE NÃO REÚNE CONDIÇÕES DE PROCEDIBILIDADE. INOBSERVÂNCIA DO REQUISITO DO
+ART. 896,§ 1.º-A, I, DA CLT. PREJUDICADA A ANÁLISE DA TRANSCENDÊNCIA. Deve ser confirmada a
+Este documento pode ser acessado no endereço eletrônico http://www.tst.jus.br/validador sob código 100666A61D5D681882.
+negativa de seguimento do recurso de revista quando verificado vício formal, consistente no não
+atendimento da exigência estabelecida no artigo 896, § 1º-A, I, da CLT, capaz de viabilizar a
+identificação precisa do trecho do acórdão regional que configura o prequestionamento da matéria,
+para fins de cotejamento analítico das teses jurídicas impugnadas. Assim, a transcrição integral dos
+fundamentos do acordão recorrido, referentes aos capítulos impugnados, em conjunto, ainda
+dissociada dos tópicos correspondentes e sem a promoção de um debate analítico dos trechos
+destacados, não cumpre satisfatoriamente a exigência processual contida na lei de regência.
+Precedentes. Prejudicada a análise da transcendência. Agravo de instrumento desprovido. (AIRR￾1001652-60.2021.5.02.0473, 6ª Turma, Relator Desembargador Convocado José Pedro de Camargo
+Rodrigues de Souza, DEJT 28/4/2023)
+RECURSO DE REVISTA. ACÓRDÃO REGIONAL. PUBLICAÇÃO NA VIGÊNCIA DA LEI Nº 13.015/14 E
+ANTES DA VIGÊNCIA DA LEI Nº 13.467/17. DISPENSA IMOTIVADA. EMPREGADO PÚBLICO.
+REINTEGRAÇÃO. TRANSCRIÇÃO DE TRECHO DO ACÓRDÃO REGIONAL NO INÍCIO DAS RAZÕES DO
+RECURSO. DESVINCULAÇÃO COM OS TÓPICOS RESPECTIVOS DAS RAZÕES RECURSAIS. AUSÊNCIA DE
+COTEJO ANALÍTICO. ART. 896, §1º-A, I, III, DA CLT. REQUISITOS NÃO ATENDIDOS. I. É ineficaz e não
+atende aos requisitos do art. 896, §1º-A, I e III, da CLT a transcrição dos tópicos da decisão recorrida
+no início do recurso de revista, dissociados dos capítulos em que a parte recorrente expõe
+especificamente suas razões e seu pedido de reforma. Há falta de cotejo analítico nos casos em que
+acontece essa dissociação. II. No caso dos autos, o recorrente transcreveu os trechos da decisão
+regional no início do recurso de revista, dissociados da parte em que apresentou as razões pelas
+quais entende que a insurgência merece processamento e provimento. III. Desta forma, deixou de
+atender aos requisitos do art. 896, §1º-A, I e III, da CLT. IV. Recurso de revista de que não se conhece.
+(RR-381-91.2014.5.06.0012, 7ª Turma, Relator Ministro Evandro Pereira Valadão Lopes, DEJT
+13/10/2023)
+AGRAVO DE INSTRUMENTO EM RECURSO DE REVISTA DO RECLAMANTE. REGÊNCIA PELA LEI Nº
+13.467/2017 - JORNADA. HORAS EXTRAS. MINUTOS RESIDUAIS. PERÍODO DE TREINAMENTO. DOBRAS
+NO FERIADO. REDUÇÃO FICTA DA HORA NOTURNA. ARTIGO 896, § 1º-A, I E III, DA CLT. TRANSCRIÇÃO
+INTEGRAL DO ACÓRDÃO REGIONAL. COTEJO ANALÍTICO. INOBSERVÂNCIA. AUSÊNCIA DE
+TRANSCENDÊNCIA. O Recorrente não atendeu regularmente às disposições do artigo 896, § 1º-A, I e
+III, da CLT, pois transcreveu, no início das razões recursais e de forma conjunta, o inteiro teor do
+acórdão regional, dissociado dos respectivos tópicos recursais, sem destacar os excertos específicos
+que tratam de cada tema e sem realizar, ponto a ponto, o necessário cotejo analítico. A propósito,
+havendo pluralidade de matérias debatidas nos recursos de revista, não cabe ao julgador pinçar das
+razões recursais os trechos extraídos do acórdão regional e cotejá-los com os diversos argumentos
+trazidos no apelo. Tal ônus incumbe à parte Recorrente, como expressamente previsto nas
+supracitadas disposições consolidadas. Inviável o processamento do recurso de revista, tendo em
+vista a não observância dos requisitos legais (art. 896, § 1º-A, I e III, da CLT). Agravo de instrumento a
+que se nega provimento. (RRAg-1005-80.2014.5.20.0003, 8ª Turma, Relator Ministro Sergio Pinto Martins, DEJT 11/10/2023)
+Nesse contexto, a ausência de cumprimento dos requisitos de admissibilidade
+dispostos no artigo 896 da CLT mostra-se suficiente para afastar a transcendência da causa,
+porquanto inviabilizará o exame de eventual questão controvertida no Recurso de Revista, e,
+consequentemente, não serão produzidos os reflexos gerais de natureza econômica, política, social ou
+jurídica, nos termos previstos no § 1º do artigo 896-A da CLT.
+Ao negar seguimento a Recurso inadmissível, a decisão agravada observou os
+artigos 932, III, IV e VIII, do CPC e 5º, LXXVIII, da Constituição da República.
+Ante o exposto, nego provimento ao Agravo.
+ISTO POSTO
+ACORDAM os Ministros da Quarta Turma do Tribunal Superior do Trabalho, por
+unanimidade, negar provimento ao Agravo.
+Brasília, 20 de fevereiro de 2026.
+Firmado por assinatura digital (MP 2.200-2/2001)
+MARIA CRISTINA IRIGOYEN PEDUZZI
+Ministra Relatora
+Firmado por assinatura digital em 19/02/2026 pelo sistema AssineJus da Justiça do Trabalho, conforme MP 2.200-2/2001, que instituiu a Infra-Estrutura
+de Chaves Públicas Brasileira. Este documento pode ser acessado no endereço eletrônico http://www.tst.jus.br/validador sob código 100666A61D5D681882.
