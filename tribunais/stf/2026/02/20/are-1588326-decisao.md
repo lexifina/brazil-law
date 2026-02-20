@@ -1,0 +1,38 @@
+DECISÃO
+
+Trata-se de Recurso Extraordinário com Agravo interposto em face de acórdão do Tribunal de Justiça do Estado de São Paulo, assim ementado (Doc. 11, fl. 2):
+
+“APELAÇÃO - Ação civil pública – Descumprimento de ordem judicial para interrupção de leilão de gado que estaria infringindo normas para contenção da pandemia Covid-19 no Município de Promissão - Medida de contenção que visava o interesse público, garantindo a saúde da população, em meio à pandemia de COVID, em Município que vivenciava fase vermelha, a mais rigorosa do período pandêmico - Caso concreto em que a Apelante, mesmo após o deferimento da tutela, realizou leilão de gado, sendo constatado pela Policia Militar diversas pessoas no local, mesmo após a intimação da decisão judicial – Alegação de que o leilão teria sido realizado de forma virtual que não aproveita ao Apelante - Sentença parcialmente reformada, com redução dos valores anteriormente arbitrados de R$ 435.000,00 (quatrocentos e trinta e cinco mil reais) para o montante de R$ 100.000,00 (cem mil reais) - RECURSO PARCIALMENTE PROVIDO. ”
+
+No Recurso Extraordinário (Doc. 13), interposto com amparo no art. 102, III, “a”, da Constituição Federal, JS MAIA LEILÕES LTDA aponta violação ao art. 5º, caput, II e XIII da CF/1988.
+Alega que “ao reconhecer a realização do evento na modalidade virtual, mas ainda assim impor à Recorrente a condenação ao pagamento de indenização por danos morais coletivos, incorre-se em violação ao princípio da legalidade, diante da ausência de qualquer norma proibitiva da realização do evento em formato on-line“ (Doc. 13, fl. 9).
+Sustenta, ainda, “violações aos princípios da liberdade lato sensu (art. 5, caput, CR/88) e do livre exercício profissional (art. 5, XIII, CR/881); haja vista que, de acordo com o antepenúltimo parágrafo, as atividades econômicas NÃO foram proibidas em si, apenas fora necessário readequar o modus operandi” (Doc. 13, fl. 9).
+Argumenta, ainda, a desproporcionalidade do valor fixado a título de indenização por danos morais coletivos (Doc. 13, fl. 10), não sendo “proporcional que determinado indivíduo que descumpriu as medidas administrativas sanitárias durante à pandemia ficasse impune, enquanto uma empresa que realizou o evento de forma virtual (...) venha a ser excessivamente punida” (Doc. 13, fl. 11).
+Em juízo de admissibilidade, o Tribunal de origem inadmitiu o RE aos argumentos de que (i) “o posicionamento apresentado pelos doutos Julgadores, embora contrário às pretensões da recorrente, não traduz desrespeito à legislação, condição para o prosseguimento do recurso sob exame” (Doc. 16, fl. 02); e (ii) incide ao caso o óbice contido no enunciado 279 da Súmula do STF.
+No Agravo, a parte agravante refuta todos os fundamentos da decisão agravada (Doc. 18).
+É o relatório. Decido.
+
+Os recursos extraordinários somente serão conhecidos e julgados, quando essenciais e relevantes as questões constitucionais a serem analisadas, sendo imprescindível ao recorrente, em sua petição de interposição de recurso, a apresentação formal e motivada da repercussão geral que demonstre, perante o SUPREMO TRIBUNAL FEDERAL, a existência de acentuado interesse geral na solução das questões constitucionais discutidas no processo, que transcenda a defesa puramente de interesses subjetivos e particulares.
+A obrigação do recorrente de apresentar, formal e motivadamente, a repercussão geral que demonstre, sob o ponto de vista econômico, político, social ou jurídico, a relevância da questão constitucional debatida que ultrapasse os interesses subjetivos da causa, conforme exigência constitucional, legal e regimental (art. 102, § 3º, da CF/88, c/c art. 1.035, § 2º, do Código de Processo Civil de 2015 e art. 327, § 1º, do Regimento Interno do Supremo Tribunal Federal), não se confunde com meras invocações, desacompanhadas de sólidos fundamentos e de demonstração dos requisitos no caso concreto, de que (a) o tema controvertido é portador de ampla repercussão e de suma importância para o cenário econômico, político, social ou jurídico; (b) a matéria não interessa única e simplesmente às partes envolvidas na lide; ou, ainda, de que (c) a jurisprudência do SUPREMO TRIBUNAL FEDERAL é incontroversa no tocante à causa debatida, entre outras alegações de igual patamar argumentativo (ARE 691.595-AgR, Rel. Min. RICARDO LEWANDOWSKI, Segunda Turma, DJe de 25/2/2013; ARE 696.347-AgR-segundo, Rel. Min. CÁRMEN LÚCIA, Segunda Turma, DJe de 14/2/2013; ARE 696.263-AgR, Rel. Min. LUIZ FUX, Primeira Turma, DJe de 19/2/2013; AI 717.821-AgR, Rel. Min. JOAQUIM BARBOSA, Segunda Turma, DJe de 13/8/2012).
+Eis os fundamentos apresentados pela parte para demonstrar repercussão geral da matéria veiculada no apelo (Doc. 13, fl. 6):
+
+“(...) Por outro lado, além da necessidade de expor violações expressas aos dispositivos constitucionais, conforme determina o mencionado art. 102, inciso III, alínea ‘a’, da Constituição Federal, faz-se indispensável evidenciar a existência de repercussão geral, nos termos do art. 1.035 do Código de Processo Civil (questões que ultrapassem os interesses subjetivos do processo). Vejamos.
+A ocorrência de situações semelhantes no período pandêmico vivenciado e, por consequência, a existência de diversas demandas idênticas propostas pelo Ministério Público, ou seja, indenização por dano moral coletivo, em razão de possíveis violações às medidas de distanciamento, demonstra, por si só, questões que ultrapassam o interesse subjetivo da Recorrente (relevância social).
+Nada obstante, a questão de principal relevância é jurídica, tendo em vista que, o d. Juízo de 1ª instância e a Egrégia 7ª Câmara de Direito Público do Tribunal de Justiça de São Paulo, utilizando-se de uma norma proibitiva específica (vedação aos eventos presencial), transportou para situação distinta (eventual virtual) e manteve a condenação da Recorrente; logo, qual o limite interpretativo para aplicação analógica de normas proibitivas.
+Por fim, em razão de tratar-se de violação severa e imediata à Lei Maior, a repercussão geral da matéria é inerente ao alegado.
+Cabível, portanto, o presente Recurso Extraordinário“
+
+Não havendo demonstração fundamentada da presença de repercussão geral, incabível o seguimento do Recurso Extraordinário.
+Além disso, quanto à ofensa aos artigos 5º, II, da Constituição Federal, aplica-se neste caso a restrição da Súmula 636/STF: “Não cabe recurso extraordinário por contrariedade ao princípio constitucional da legalidade, quando a sua verificação pressuponha rever a interpretação dada a normas infraconstitucionais pela decisão recorrida”.
+Mesmo que fosse possível superar todos esses graves óbices, a argumentação recursal traz versão dos fatos diversa da exposta no acórdão recorrido, de modo que o acolhimento do recurso passa necessariamente pela revisão das provas. Incide, portanto, o óbice da Súmula 279 desta CORTE: Para simples reexame de prova não cabe recurso extraordinário.
+Diante do exposto, com base no art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal, NEGO SEGUIMENTO AO RECURSO EXTRAORDINÁRIO COM AGRAVO.
+Não se aplica o art. 85, § 11, do Código de Processo Civil de 2015, tendo em vista que não houve fixação de honorários advocatícios nas instâncias de origem.
+Ficam AMBAS AS PARTES advertidas de que:
+- a interposição de recursos manifestamente inadmissíveis ou improcedentes, ou meramente protelatórios, acarretará a imposição das sanções cabíveis;
+- decorridos 15 (quinze) dias úteis da intimação de cada parte sem a apresentação de recursos, será certificado o trânsito em julgado e dada baixa dos autos ao Juízo de origem.
+Publique-se.
+Brasília, 20 de fevereiro de 2026.
+
+Ministro ALEXANDRE DE MORAES
+Relator
+Documento assinado digitalmente
