@@ -1,0 +1,80 @@
+DECISÃO
+
+RECURSO EXTRAORDINÁRIO COM AGRAVO. PROCESSUAL CIVIL E TRIBUTÁRIO. CONTRIBUIÇÃO PARA CUSTEIO DO SERVIÇO DE ILUMINAÇÃO PÚBICA – COSIP. LEGITIMIDADE DA COBRANÇA. APLICAÇÃO DA SISTEMÁTICA DA REPERCUSSÃO GERAL NA ORIGEM: TEMA 44. AUSÊNCIA DE PREVISÃO LEGAL DE RECURSO PARA O SUPREMO TRIBUNAL FEDERAL. BASE DE CÁLCULO DO TRIBUTO MUNICIPAL. COMPOSIÇÃO: SÚMULAS NS. 279 E 280 DO SUPREMO TRIBUNAL FEDERAL. RECURSO EXTRAORDINÁRIO COM AGRAVO NÃO CONHECIDO.
+
+Relatório
+1. Agravo nos autos principais contra inadmissão de recurso extraordinário interposto, com base na al. a do inc. III do art. 102 da Constituição da República, contra o seguinte julgado do Tribunal de Justiça de São Paulo:
+“APELAÇÃO – Mandado de Segurança – Contribuição para Custeio do Serviço de Iluminação Púbica (COSIP) – Município de Suzano – Segurança denegada – Cabimento – Constitucionalidade reconhecida no julgamento do RE nº 573.675/SC – Art. 149-A da Constituição Federal – Reconhecimento da constitucionalidade e legalidade do artigo 5º da Lei Complementar Municipal nº 262/2014, que estabelece como a base de cálculo da COSIP o consumo de energia elétrica – Não há divergência entre o decidido no RE 573.675/SC (Tema 44/STF) e a legislação municipal de Suzano – Sentença mantida por seus próprios fundamentos – Aplicação do artigo 252 do RITJSP – Recurso não provido” (fl. 2, e-doc. 14).
+
+Os primeiros embargos de declaração opostos contra o acórdão recorrido foram rejeitados (e-doc. 17) e os segundos embargos não foram conhecidos (e-doc. 20).
+
+2. No recurso extraordinário, a agravante alega ter o Tribunal de origem contrariado o parágrafo único do art. 149-A e os incs. I e III do art. 150 da Constituição da República. Defende ter “o direito de não se submeter ao recolhimento da Contribuição de Iluminação Pública – CIP nos moldes adotados pelo Município de Suzano” (fl. 2, e-doc. 22).
+
+3. Foi negado seguimento ao recurso extraordinário pela aplicação do Tema 44 da repercussão geral e o recurso foi inadmitido pela incidência das Súmulas ns. 279 e 280 do Supremo Tribunal Federal (e-doc. 25).
+
+4. No agravo interposto contra a inadmissibilidade do recurso extraordinário, a agravante assinala que “a análise do mérito recursal não demanda reexame de provas” (fl. 5, e-doc. 27).
+
+Argumenta haver contrariedade “ao artigo 149-A da Constituição Federal que trata da Contribuição de Iluminação Pública, na medida em que a Lei do Município Recorrido violou o arquétipo constitucional delineado na Carta Maior” (fl. 5, e-doc. 27).
+
+Salienta não haver “necessidade de reexame de provas para o fim de se aferir a violação ao direito federal, para análise do objeto recursal é necessária apenas o confronto entre a Norma Maior e a Lei Municipal, para o fim de se confirmar que o V. Acórdão mal interpretou a norma inserta no artigo 149-A da Constituição Federal” (fl. 5, e-doc. 27).
+
+Sustenta não se tratar de “direito local, pelo contrário, busca resguardar o que prescreve a Constituição Federal, em especial ao artigo 149-A” (fl. 6, e-doc. 27).
+
+Ressalta que a controvérsia seria referente “ao exercício da competência conferida pela Constituição Federal aos entres tributantes, pois, na prática, ao exercer sua competência extrapolou os limites que lhe foram conferidos” (fl. 6, e-doc. 27).
+
+Pede o provimento do presente recurso extraordinário com agravo.
+
+5. No juízo de retratação do Tema 44 da repercussão geral, o Tribunal de origem negou provimento ao agravo interno interposto pela empresa agravante e manteve o acórdão recorrido, em julgado com a seguinte ementa:
+“AGRAVO INTERNO – Decisão monocrática que negou seguimento ao recurso extraordinário. – Apreciada pelas Cortes Superiores controvérsia submetida à sistemática de recursos repetitivos, incumbe ao Presidente (ou ao Vice-Presidente) do Tribunal recorrido proceder à análise entre a pretensão recursal veiculada nos recursos excepcionais e a tese repetitiva fixada (CPC, art. 1.030, I a III; § 2º). – A inconstitucionalidade de Lei Municipal que institui a Contribuição para o Custeio do Serviço de Iluminação Pública COSIP mediante taxa é matéria idêntica à examinada pela Suprema Corte no leading case RE nº 573.675-0/SC – TEMA 44. – Inviabilidade de reexame de prova em Recurso Extraordinário, nos termos da Súmula 279/STF. Nega-se provimento ao recurso” (fl. 2, e-doc. 31).
+Apreciada a matéria trazida na espécie, DECIDO.
+
+6. Razão jurídica não assiste ao agravante.
+
+7. O Desembargador Presidente da Seção de Direito Público do Tribunal de Justiça de São Paulo, nos termos do inc. I do art. 1.030 do Código de Processo Civil, negou seguimento ao recurso extraordinário, pela aplicação do Tema 44 da repercussão geral, com o seguinte fundamento:
+“No que diz respeito à questão referente à constitucionalidade da contribuição, no julgamento do RE nº 573.675-0/SC, Tema nº 44, STF, DJ de 22.05.2009 (cf. Súmula Vinculante nº 41), o Col Supremo Tribunal Federal fixou a seguinte tese:
+‘O serviço de iluminação pública não pode ser remunerado mediante taxa.’” (fl. 1, e-doc. 25).
+
+No julgamento da Questão de Ordem no Agravo de Instrumento n. 760.358, Relator o Ministro Gilmar Mendes, assentou-se não caber recurso ou outro instrumento processual para o Supremo Tribunal Federal contra decisão pela qual se aplica a sistemática da repercussão geral na origem, nestes termos:
+“Questão de Ordem. Repercussão Geral. Inadmissibilidade de agravo de instrumento ou reclamação da decisão que aplica entendimento desta Corte aos processos múltiplos. Competência do Tribunal de origem. Conversão do agravo de instrumento em agravo regimental. 1. Não é cabível agravo de instrumento da decisão do tribunal de origem que, em cumprimento do disposto no § 3º do art. 543-B, do CPC, aplica decisão de mérito do STF em questão de repercussão geral. 2. Ao decretar o prejuízo de recurso ou exercer o juízo de retratação no processo em que interposto o recurso extraordinário, o tribunal de origem não está exercendo competência do STF, mas atribuição própria, de forma que a remessa dos autos individualmente ao STF apenas se justificará, nos termos da lei, na hipótese em que houver expressa negativa de retratação. 3. A maior ou menor aplicabilidade aos processos múltiplos do quanto assentado pela Suprema Corte ao julgar o mérito das matérias com repercussão geral dependerá da abrangência da questão constitucional decidida. 4. Agravo de instrumento que se converte em agravo regimental, a ser decidido pelo tribunal de origem” (Plenário, DJe 3.12.2009).
+
+Essa orientação jurisprudencial foi acolhida pela legislação processual vigente, na qual, nos termos do § 2º do art. 1.030 e do caput do art. 1.042 do Código de Processo Civil, previsto o agravo interno como recurso cabível contra decisão da presidência de tribunal ou de turma recursal pela qual se aplica a sistemática da repercussão geral para inadmitir, negar seguimento ou concluir prejudicado o recurso extraordinário. Confiram-se, por exemplo, os seguintes julgados:
+
+“AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. DIREITO PROCESSUAL CIVIL. AÇÃO CIVIL PÚBLICA. IMPROBIDADE ADMINISTRATIVA. APLICAÇÃO DA SISTEMÁTICA DA REPERCUSSÃO GERAL NA ORIGEM. TEMA 339 DA REPERCUSSÃO GERAL. INEXISTÊNCIA DE PREVISÃO LEGAL DE RECURSO OU AÇÃO NO SUPREMO TRIBUNAL FEDERAL. ALEGAÇÃO DE CONTRARIEDADE AOS INCS. XXXV, LIV E LV DO ART. 5º DA CONSTITUIÇÃO DA REPÚBLICA. TEMAS 660 E 895 DA REPERCUSSÃO GERAL. AGRAVO REGIMENTAL DESPROVIDO” (ARE n. 1.530.679- AgR, Relatora a Ministra Cármen Lúcia, Primeira Turma, DJe 20.3.2025).
+
+ “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. DECISÃO MISTA. ERRO GROSSEIRO. NÃO CABIMENTO DE AGRAVO CONTRA A PARTE DA DECISÃO DO JUÍZO DE ORIGEM NA QUAL SE APLICA A SISTEMÁTICA DA REPERCUSSÃO GERAL. ART. 1.042, CAPUT, DO CÓDIGO DE PROCESSO CIVIL. DEVER DE IMPUGNAR TODOS OS FUNDAMENTOS DA DECISÃO DO TRIBUNAL DE ORIGEM QUE INADMITE O RECURSO EXTRAORDINÁRIO. INOBSERVÂNCIA. INCIDÊNCIA DA SÚMULA 287 DO SUPREMO TRIBUNAL FEDERAL. AGRAVO IMPROVIDO. I – Conforme o art. 1.042, caput, do Código de Processo Civil – CPC, não cabe agravo contra decisão fundada na aplicação de entendimento firmado em regime de repercussão geral. II – Configura erro grosseiro a interposição do agravo, previsto no art. 1.042 do CPC, contra a parte da decisão do Juízo de origem que negou seguimento ao recurso extraordinário, nos termos do art. 1.030, I, do CPC, uma vez que o agravo interno é o recurso cabível para impugnar o referido ato decisório, conforme disposto no art. 1.030, § 2º, do CPC. III – É deficiente a fundamentação do agravo cujas razões não atacam especificadamente todos os fundamentos da decisão do Juízo de origem que não admite o recurso extraordinário. Incidência da Súmula 287/STF. IV – Agravo ao qual se nega provimento” (ARE n. 1.554.549-AgR, Relator o Ministro Cristiano Zanin, Primeira Turma, DJe 10.9.2025).
+
+“DIREITO PROCESSUAL CIVIL. APLICAÇÃO DA SISTEMÁTICA DA REPERCUSSÃO GERAL PELO TRIBUNAL DE ORIGEM. INTERPOSIÇÃO DE NOVO RECURSO EXTRAORDINÁRIO CONTRA O ACÓRDÃO PROFERIDO EM JUÍZO DE RETRATAÇÃO. NÃO CABIMENTO. DECISÃO RECORRIDA ALINHADA COM A JURISPRUDÊNCIA DO SUPREMO TRIBUNAL FEDERAL. RECURSO EXTRAORDINÁRIO QUE NÃO MERECE CONHECIMENTO. AGRAVO NÃO PROVIDO. 1. A jurisprudência desta Suprema Corte é no sentido de que não é cabível novo recurso para o Supremo Tribunal Federal contra a aplicação da sistemática da repercussão geral (arts. 1.036 a 1.040 do CPC) pelo Tribunal de origem. 2. Nos termos do art. 1.030, § 2º, do CPC, o agravo interno na origem é recurso próprio à impugnação de decisão que aplica entendimento firmado em regime de repercussão geral, não sendo cabível a interposição do agravo previsto no art. 1.042, do Código de Processo Civil. 3. Havendo prévia fixação de honorários advocatícios pelas instâncias de origem, seu valor monetário será majorado em 10% (dez por cento) em desfavor da parte recorrente, nos termos do art. 85, § 11, do Código de Processo Civil, observados os limites dos §§ 2º e 3º do referido artigo e a eventual concessão de justiça gratuita. 4. Agravo interno conhecido e não provido” (ARE n. 1.429.914-AgR, Relator o Ministro Flávio Dino, Primeira Turma, DJe 6.5.2024).
+
+A jurisprudência consolidada deste Supremo Tribunal é no sentido de que “agravo em recurso extraordinário é incognoscível quando veicula insurgência contra a aplicação da sistemática da repercussão geral na origem, ex vi dos artigos 1.042 e 1.030, § 2º, do Código de Processo Civil” (ARE n. 1.370.824-ED-AgR, Relator o Ministro Luiz Fux, Plenário, DJe 20.5.2022).
+
+Com a aplicação do Tema 44 da repercussão geral e a negativa de provimento ao agravo interno pelo Tribunal de origem, nada mais há a ser apreciado por este Supremo Tribunal sobre a legitimidade na instituição e cobrança da Contribuição para Custeio do Serviço de Iluminação Púbica – COSIP, prevista no art. 149-A da Constituição da República.
+
+8. Sobre a composição da base de cálculo da COSIP, a Presidência do Tribunal de origem inadmitiu o recurso extraordinário, por considerar que “o fundamento utilizado para interposição somente poderia ter sua procedência verificada mediante o reexame do conjunto probatório dos autos e direito local. Incidentes as Súmulas 279 e 280 do Col. Supremo Tribunal Federal” (fl. 1, e-doc. 25).
+
+Na espécie vertente, a Décima Quarta Câmara de Direito Público do Tribunal de Justiça de São Paulo resolveu a controvérsia sobre a validade jurídica da base de cálculo da Contribuição para Custeio do Serviço de Iluminação Púbica – COSIP, prevista no art. 5º da Lei Complementar municipal n. 262/2014, mantendo os fundamentos da sentença de primeiro grau, na qual se denegou o mandado de segurança impetrado pela empresa agravante.
+
+Na sentença de primeiro grau, mantida no acórdão recorrido, o Juiz sentenciante assinalou:
+“A Lei Complementar Municipal nº 262/2014, que instituiu a contribuição para o custeio do serviço de iluminação pública, encontra seu fundamento de validade no artigo 149-A da Constituição Federal.
+E, conforme artigo 5º da Lei Complementar Municipal nº 262/2014, a base de cálculo do tributo consistente no consumo de energia elétrica, a qual, segundo a impetrante, viola os princípios da legalidade, anterioridade e capacidade contributiva. (...)
+Não há violação ao princípio da legalidade tributária, tampouco ao princípio da anterioridade tributária.
+Com efeito, o aspecto quantidade da hipótese de incidência tributária base de cálculo e alíquota é fixo, variando o valor do tributo, para mais ou menos, de acordo com o ato praticado pela própria impetrante, consistente no consumo maior ou menor de energia elétrica.
+Vale dizer, não há aumento do tributo sem lei anterior (e, portanto, não há menoscabo ao princípio da legalidade tributária), tampouco sem observância dos prazos anual ou nonagesimal preconizados pelo princípio da anterioridade tributária.
+ Outrossim, a lei municipal em discussão não vulnera o princípio da capacidade contributiva, uma vez que aquele que tem um maior consumo de energia elétrica exterioriza também maior capacidade contributiva” (fl. 2, e-doc. 4).
+
+Considerados os fundamentos do acórdão recorrido e a pertinência do juízo negativo de admissibilidade recursal, a revisão do decidido nas instâncias ordinárias demandaria a análise da legislação infraconstitucional aplicável à espécie (Lei Complementar municipal n. 262/2014,) e o reexame do conjunto fático-probatório constante do processo. A alegada contrariedade à Constituição da República, se tivesse ocorrido, seria indireta, a inviabilizar o processamento do recurso extraordinário. Incidem na espécie as Súmulas ns. 279 e 280 deste Supremo Tribunal. Assim, por exemplo:
+“AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. TRIBUTÁRIO. ILUMINAÇÃO PÚBLICA. CONTRIBUIÇÃO PARA O CUSTEIO DO SERVIÇO DE ILUMINAÇÃO PÚBLICA – COSIP. COBRANÇA REALIZADA NA FATURA DE ENERGIA ELÉTRICA: POSSIBILIDADE. RESPONSABILIDADE TRIBUTÁRIA. NECESSÁRIO REEXAME DA LEGISLAÇÃO LOCAL: SÚMULA N. 280 DO SUPREMO TRIBUNAL FEDERAL. DESCABIMENTO DO RECURSO PELA AL. D DO INC. III DO ART. 102 DA CONSTITUIÇÃO DA REPÚBLICA.. AGRAVO REGIMENTAL DESPROVIDO” (ARE n. 1.425.557-AgR, Relatora a Ministra Cármen Lúcia, Primeira Turma, DJe 26.10.2023).
+
+“Direito Tributário. Agravo regimental no recurso extraordinário com agravo. CONCESSIONÁRIA DE ENERGIA ELÉTRICA. LEGITIMIDADE. CONTRIBUIÇÃO DE ILUMINAÇÃO PÚBLICA. Faturas. ART. 149-A DA CF. Onerosidade excessiva Não CONFIGURADA. CÓDIGO TRIBUTÁRIO DO DISTRITO FEDERAL. DECRETO 23.499/02. Súmulas 279 e 280 do STF. Agravo não provido. I. Caso em exame 1. Agravo interno em face de decisão monocrática, na qual foi negado seguimento a recurso, por reconhecer que a matéria dos autos é de nível infraconstitucional local e demanda o reexame de fatos e provas dos autos (Súmulas 279 e 280 do STF). II. Questão em discussão 2. Verificar a viabilidade, ou não, do recurso extraordinário, no caso concreto, em face dos óbices apontados na decisão recorrida. III. Razões de decidir 3. Eventual divergência, em relação ao entendimento adotado pelo juízo a quo, demandaria o reexame de fatos e provas (Súmula 279 do STF) e a análise de legislação infraconstitucional local (Súmula 280 do STF), o que impede o trânsito do recurso extraordinário. IV. Dispositivo 4. Agravo regimental a que se nega provimento” (ARE n. 1.571.466-AgR, Relator o Ministro Edson Fachin, Plenário, DJe 8.1.2026).
+
+Comprovados os óbices jurídicos impeditivos da admissibilidade do recurso, nada há a prover em relação às alegações da agravante.
+
+9. Pelo exposto, não conheço do presente recurso extraordinário com agravo (inc. III do art. 932 do Código de Processo Civil e § 1º do art. 21 do Regimento Interno do Supremo Tribunal Federal).
+
+Ressalte-se que eventual recurso manifestamente inadmissível contra esta decisão demonstraria apenas inconformismo e resistência em pôr termo a processos que se arrastam em detrimento da eficiente prestação jurisdicional.
+
+Publique-se.
+
+Brasília, 20 de fevereiro de 2026.
+
+Ministra CÁRMEN LÚCIA
+Relatora
