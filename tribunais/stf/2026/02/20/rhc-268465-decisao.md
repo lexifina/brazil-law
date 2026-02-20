@@ -1,0 +1,31 @@
+DECISÃO
+Trata-se de Recurso Ordinário interposto contra acórdão da Sexta Turma do Superior Tribunal de Justiça, proferido no julgamento do Agravo Regimental no HC 1.029.375/RS, submetido à relatoria do Ministro OG FERNANDES.
+Consta dos autos que o recorrente foi condenado a: (a) 5 anos e 6 meses de reclusão, em regime semiaberto, pela prática do crime de tráfico de drogas (art. 33 da Lei 11.343/2006); e (b) 1 ano e 3 meses de detenção pelo cometimento do delito de posse de arma de fogo (art. 12 da Lei 10.826/2003).
+Em resumo, colhe-se da denúncia:
+
+Em dia e hora não determinado nos autos,todavia, sabidamente até o dia 18 de maio de 2017, na Rua Valmoir Dutra Machado, n 387, nesta cidade, o denunciado João Pedro Crugeira Ludtke, guardava para fins de traficância, um tijolo, pesando aproximadamente 256,50gramas, e um tijolo pesando aproximadamente 131,40 gramas de cannabis sativae lineu, substância vulgarmente conhecida como maconha, que contém tetrahidrocanabinol, substâncias que causam dependência física e psíquica, conforme auto de apreensão das fl.09, e laudos das fls. 113/11.
+Em dia e hora não determinado nos autos, todavia, sabidamente até o dia 18 de maio de 2017, no interior de sua residência localizada na Rua Tito Borges, n 703, Loteamento Dunas, o denunciado Gelson da Silva Borges, tinha em depósito, para fins de traficância, um tijolo, pesando aproximadamente 252,81 gramas; uma porção pesando aproximadamente 44,92 gramas de cannabis sativae lineu, substância vulgarmente conhecida como maconha, que contém tetrahidrocanabinol, substâncias que causam dependência física e psíquica, bem como a quantia de 51,40 gramas de cannabis sativae Lineu, fracionada com envólucro, dois rolos plásticos utilizados para embalar entorpecentes, uma balança de precisão além da quantia de R$ 235,00 (duzentos e trinta e cinco reais), conforme auto de apreensão da fl. 10, e laudos das fls. 113/11.
+Em dia e hora não determinado nos autos, todavia, sabidamente até o dia 18 de maio de 2017,no interior de sua residência localizada na Rua Tito Borges, n 703, Loteamento Dunas, o denunciado Gelson da Silva Borges possuía um revólver, marca Taurus, n 2147072 08894, bem como quatro munições intactas calibre 38, arma de fogo e munições de uso permitido sem autorização e em desacordo com determinação legal ou regulamentar, conforme auto de apreensão da fl. 10 e auto de prisão em flagrante da fl. 07.
+
+O Tribunal de Justiça do Estado do Rio Grande do Sul negou provimento ao apelo defensivo.
+Impetrou-se, então, Habeas Corpus no Superior Tribunal de Justiça, não conhecido pelo Ministro Relator. Interposto Agravo Regimental, a Sexta Turma decidiu nos termos da seguinte ementa:
+
+PROCESSUAL PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. DECISÃO TRANSITADA EM JULGADO. UTILIZAÇÃO COMO SUBSTITUTIVO DE REVISÃO CRIMINAL. SUPRESSÃO DE INSTÂNCIA. IMPOSSIBILIDADE. ART. 105, I, E, DA CF. AGRAVO IMPROVIDO.
+1. A ocorrência do trânsito em julgado do ato objeto da impetração torna inviável a apreciação do pedido nesta instância superior.
+2. O habeas corpus não pode ser utilizado como substitutivo de revisão criminal, sob pena de configuração da supressão de instância, em desacordo com o que dispõe o art. 105, I, e, da Constituição Federal acerca das competências do Superior Tribunal de Justiça.
+3. Inexistência de flagrante ilegalidade que autorize a concessão da ordem de ofício, consoante se extraia da idônea fundamentação do acórdão impugnado ao afastar as alegações defensivas.
+4. Agravo regimental improvido.
+
+Neste Recurso Ordinário, alega-se, em síntese: “não havia qualquer elemento objetivo e prévio que autorizasse a mitigação da inviolabilidade domiciliar. A suposta situação de flagrância foi construída a partir da própria invasão, o que contamina todas as provas subsequentes”. Em razão disso, requer-se o provimento do recurso, “com a consequente anulação da condenação”.
+É o relatório. Decido.
+
+Conforme se depreende da ementa acima transcrita, as alegações trazidas neste recurso não foram contempladas no acórdão ora impugnado, de modo que é inviável a esta SUPREMA CORTE conhecer delas originariamente, sob pena de indevida supressão de instância e violação das regras constitucionais de repartição de competências (RHC 260641 AgR, Rel. Min. DIAS TOFFOLI, Segunda Turma, DJe de 23/9/2025; HC 260012 AgR, Rel. Min. CRISTIANO ZANIN, Primeira Turma, DJe de 17/9/2025; HC 259929 AgR, Rel. Min. ANDRÉ MENDONÇA, Segunda Turma, DJe de 19/9/2025; HC 260057 AgR, Rel. Min. CÁRMEN LÚCIA, Primeira Turma, DJe de 18/9/2025; HC 259511 AgR, Rel. Min. ALEXANDRE DE MORAES, Primeira Turma, DJe de 17/9/2025).
+Além disso, este Tribunal, da mesma forma que decidiu o STJ, não tem admitido a utilização desta ação constitucional como sucedâneo de Revisão Criminal (HC 260047 AgR-segundo, Rel. Min. FLÁVIO DINO, Primeira Turma, DJe de 22/9/2025; HC 260052 AgR, Rel. Min. DIAS TOFFOLI, Segunda Turma, DJe de 16/9/2025; HC 259902 AgR, Rel. Min. CRISTIANO ZANIN, Primeira Turma, DJe de 10/9/2025; RHC 259818 AgR, Rel. Min. ALEXANDRE DE MORAES, Primeira Turma, DJe de 16/9/2025; HC 259751 AgR, Rel. Min. ANDRÉ MENDONÇA, Segunda Turma, DJe de 11/9/2025; HC 258744 AgR, Rel. Min. LUIZ FUX, Primeira Turma, DJe de 3/9/2025; HC 258670 AgR, Rel. Min. NUNES MARQUES, Segunda Turma, DJe de 19/9/2025; HC 259800 AgR, Rel. Min. CÁRMEN LÚCIA, Primeira Turma, DJe de 10/9/2025).
+Se não bastasse, a jurisprudência desta CORTE também possui entendimento no sentido de que “é inviável o habeas corpus quando ajuizado com o objetivo (a) de promover a análise da prova penal, (b) de efetuar o reexame do conjunto probatório regularmente produzido, (c) de provocar a reapreciação da matéria de fato e (d) de proceder à revalorização dos elementos instrutórios coligidos no processo penal de conhecimento” (HC 118912 AgR, Rel. Min. CELSO DE MELLO, Segunda Turma, DJe de 13/2/2014). No mesmo sentido: RHC 257017 AgR, Rel. Min. ALEXANDRE DE MORAES, Primeira Turma, DJe de 2/9/2025; RHC 257536 AgR, Rel. Min. ANDRÉ MENDONÇA, Segunda Turma, DJe de 19/9/2025; HC 246859 AgR, Rel. CÁRMEN LÚCIA, Primeira Turma, DJe de 8/11/2024.
+Diante do exposto, com fundamento no art. 21, § 1º, do Regimento Interno do STF, NEGO PROVIMENTO ao Recurso Ordinário.
+Publique-se.
+Brasília, 20 de fevereiro de 2026.
+
+Ministro ALEXANDRE DE MORAES
+Relator
+Documento assinado digitalmente
