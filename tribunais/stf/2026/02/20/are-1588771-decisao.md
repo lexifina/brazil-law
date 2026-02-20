@@ -1,0 +1,24 @@
+DECISÃO:
+Trata-se de recurso extraordinário com agravo contra decisão de inadmissão do recurso extraordinário.
+O recurso foi interposto com fundamento na alínea "a" do permissivo constitucional.
+O acórdão recorrido  ficou assim ementado:
+
+CONSTITUCIONAL E TRIBUTÁRIO. MANDADO DE SEGURANÇA. PRELIMINAR DE AUSÊNCIA DE DIALETICIDADE. REJEITADA. ILEGALIDADE NA COBRANÇA DO ICMS COM BASE EM PAUTA FISCAL (SÚMULA 431/STJ). REEXAME NECESSÁRIO NÃO PROVIDO. PREJUDICADO O APELO VOLUNTÁRIO. DECISÃO UNÂNIME. 1. O Estado de Pernambuco rebateu os fundamentos da sentença, a qual definiu ser ilegal a cobrança de ICMS pelo regime da pauta fiscal, assim como declarou nulo o auto de infração lavrado com base em tal sistemática. Defendeu, ainda, o Apelante a legalidade do auto de infração declarado nulo, ante a existência de diversos dispositivos estatuais legais neste sentido. 2. Preliminar de Ausência de Dialeticidade rejeitada. 3. Mérito. O cerne da questão refere-se à legalidade do Auto de Infração nº 005200455985 (Processo 005.0069/04-7), uma vez lavrado em razão da não utilização dos valores de base de cálculo de ICMS para bebidas em geral definidos em pauta fiscal nas IN nºs 6/97 e 10/97. 4. É assente na jurisprudência a impossibilidade da cobrança do ICMS com base em pauta fiscal, técnica responsável pela definição prévia do valor a ser utilizado como base de cálculo do imposto, sem possibilidade de comprovação do valor real das operações, seja de forma anterior ou posterior à cobrança. 5. As Instruções Normativas nºs 6 e 10/97, ao estabelecer valores para efeito de determinação da base de cálculo da parcela do ICMS devido por substituição tributária incidente sobre as operações com para efeito de determinação da base de cálculo da parcela do ICMS devido por substituição tributária incidente sobre as operações com cerveja, refrigerante, água mineral e bebidas em geral), constituiu flagrante ilegalidade tributária, conforme entendimento sedimentado do STJ, cristalizado na Súmula nº 431. 6. No caso em comento, a empresa autora comprovou mediante documentação colacionada aos autos a cobrança de ICMS com base na pauta fiscal, hipótese ilegal conforme a Súmula nº 431/STJ; razão pela qual, também, ilegal o Auto de Infração 005200455985 (Processo Auto de Infração SF nº 005.00169/04- 7), lavrado em razão da não utilização da referida sistemática. 7. Reexame Necessário improvido, mantendo-se a sentença a qual concedeu a segurança perquirida, para “declara ilegal a sistemática da pauta fiscal adotada pelo Estado de Pernambuco quando da lavratura do auto de infração nº SF 005.00169/04-7, confirmando as decisões liminares proferidas nestes autos (fls. 245 e 308), e, conseguintemente, determinar a inexigibilidade do crédito tributário nele constante”. Sem honorários advocatícios. Custas ex lege. 8. Apelo voluntário prejudicado. 9. Decisão Unânime.
+
+Opostos os embargos de declaração, foram rejeitados.
+No recurso extraordinário sustenta-se violação do(s) art.(s) 150, § 7º da Constituição Federal.
+Decido.
+Analisados os autos, verifica-se que o Tribunal de origem decidiu a controvérsia com fundamento na legislação infraconstitucional local aplicável à espécie e no conjunto fático-probatório dos autos, cuja análise se revela inviável em sede de recurso extraordinário.
+Incidem, na espécie, os óbices das Súmulas 279 e 280 do STF, segundo as quais: “Para simples reexame de prova não cabe recurso extraordinário” e “Por ofensa a direito local não cabe recurso extraordinário”. Nesse sentido:
+
+“AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. DIREITO AMBIENTAL. AÇÃO CIVIL PÚBLICA. OBRA PARA RECUPERAÇÃO DE IMÓVEL. IMPOSSIBILIDADE DE REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO E DA LEGISLAÇÃO LOCAL: SÚMULAS 279 E 280 DO SUPREMO TRIBUNAL FEDERAL. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO”. (ARE 1.085.165-AgR, Rel. Min. Cármen Lúcia, Plenário,DJe de 26/03/2018)
+
+“RECURSO EXTRAORDINÁRIO COM AGRAVO – ALEGADA VIOLAÇÃO A PRECEITOS CONSTITUCIONAIS – DIREITO LOCAL – SÚMULA 280/STF – REEXAME DE FATOS E PROVAS – IMPOSSIBILIDADE – SÚMULA 279/STF – SUCUMBÊNCIA RECURSAL (CPC, ART. 85, § 11) – NÃO DECRETAÇÃO, NO CASO, POR TRATAR-SE DE RECURSO DEDUZIDO CONTRA DECISÃO PUBLICADA SOB A ÉGIDE DO CPC/73 – AGRAVO INTERNO IMPROVIDO”. (ARE 949.507-AgR, Rel. Min. Celso de Mello, Segunda Turma, DJe de 09/10/2020)
+Ante o exposto, nego seguimento ao recurso (alínea c do inciso V do art. 13 do Regimento Interno do Supremo Tribunal Federal).
+Havendo prévia fixação de honorários advocatícios pelas instâncias de origem, seu valor monetário será majorado em 10% (dez por cento) em desfavor da parte recorrente, nos termos do art. 85, § 11, do Código de Processo Civil, observado os limites dos §§ 2º e 3º do referido artigo e a eventual concessão de justiça gratuita.
+Publique-se.
+Brasília, 20 de fevereiro de 2026.
+
+Ministro EDSON FACHIN
+Presidente
+Documento assinado digitalmente
