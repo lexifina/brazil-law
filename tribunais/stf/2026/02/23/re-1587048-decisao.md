@@ -1,0 +1,45 @@
+DECISÃO
+
+Trata-se de Recurso Extraordinário interposto em face de acórdão proferido pelo Tribunal de Justiça do Estado do Tocantins, cuja ementa possui o seguinte cabeçalho (Doc. 170, fl. 1):
+
+“APELAÇÃO CÍVEL. AÇÃO ORDINÁRIA. CONTRIBUIÇÃO PARA CUSTEIO DO SERVIÇO DE ILUMINAÇÃO PÚBLICA – CIP. MUNICÍPIO DE ARAGUAÍNA. PRELIMINAR DE AUSÊNCIA DE DIALETICIDADE RECURSAL. PRELIMINAR DE OFENSA AO ARTIGO 10 DO CPC. AFASTADAS. NATUREZA TRIBUTÁRIA. LEI COMPLEMENTAR Nº 041/2016. CONSTITUCIONALIDADE. INTELIGÊNCIA DO ARTIGO 145-A DA CONSTITUIÇÃO FEDERAL. LEGALIDADE. INTELIGÊNCIA DOS ARTIGOS 121, II E 128, DO CÓDIGO TRIBUTÁRIO NACIONAL. APELAÇÃO NÃO PROVIDA. SENTENÇA MANTIDA.”
+
+Opostos Embargos de Declaração (Doc. 176), foram rejeitados (Doc. 204).
+No Recurso Extraordinário (Doc. 220), interposto com amparo no art. 102, III, alíneas “a”, “c” e “d” da Constituição Federal, ENERGISA TOCANTINS DISTRIBUIDORA DE ENERGIA S/A alega que o acórdão recorrido violação aos arts. 30, I e V; 146, III, “b”; e 149-A da CF/1988, “ao manter a responsabilidade tributária da Recorrente pelo pagamento da CIP, sendo que o dispositivo constitucional é expresso ao permitir somente a atividade de cobrança da CIP por meio da fatura de consumo de energia elétrica” (Doc. 220, fl. 6).
+Alega a ”inconstitucionalidade da imputação de responsabilidade tributária (por substituição) à concessionária de distribuição de energia elétrica responsável pelo pagamento da Contribuição de Iluminação Pública – CIP devida ao Município de Araguaína pelos consumidores residentes no território deste município.” (Doc. 220, fl. 13).
+Aduz que “a autorização constitucional (...) é de atuação da concessionária distribuidora de energia elétrica como AGENTE DE ARRECADAÇÃO em favor da Municipalidade; atuação esta limitada à cobrança da CIP, bem como ao repasse dos valores arrecadados aos cofres municipais, excluídos os valores faturados eventualmente inadimplidos pelos contribuintes diretos, e isto mediante remuneração do Município à concessionária distribuidora de energia elétrica pelos serviços de cobrança e arrecadação prestados” (Doc. 220, fl. 15).
+Ressalta que “a mera inclusão e cobrança da CIP nas faturas de energia elétrica emitidas pela Recorrente não expressa relação ou vínculo jurídico com o FATO GERADOR da CIP, consistente “na prestação do serviço de iluminação pública, efetuada pelo Município no âmbito de seu território urbano”, pois não há que se confundir os meios de cobrança do tributo com a realização dos fatos que autorizam a incidência deste” (Doc. 220, fl. 20).
+Em seguida, o RE foi admitido (Doc. 242).
+É o relatório. Decido.
+
+Os recursos extraordinários somente serão conhecidos e julgados, quando essenciais e relevantes as questões constitucionais a serem analisadas, sendo imprescindível ao recorrente, em sua petição de interposição de recurso, a apresentação formal e motivada da repercussão geral que demonstre, perante o SUPREMO TRIBUNAL FEDERAL, a existência de acentuado interesse geral na solução das questões constitucionais discutidas no processo, que transcenda a defesa puramente de interesses subjetivos e particulares.
+A obrigação do recorrente de apresentar, formal e motivadamente, a repercussão geral que demonstre, sob o ponto de vista econômico, político, social ou jurídico, a relevância da questão constitucional debatida que ultrapasse os interesses subjetivos da causa, conforme exigência constitucional, legal e regimental (art. 102, § 3º, da CF/88, c/c art. 1.035, § 2º, do Código de Processo Civil de 2015 e art. 327, § 1º, do Regimento Interno do Supremo Tribunal Federal), não se confunde com meras invocações, desacompanhadas de sólidos fundamentos e de demonstração dos requisitos no caso concreto, de que (a) o tema controvertido é portador de ampla repercussão e de suma importância para o cenário econômico, político, social ou jurídico; (b) a matéria não interessa única e simplesmente às partes envolvidas na lide; ou, ainda, de que (c) a jurisprudência do SUPREMO TRIBUNAL FEDERAL é incontroversa no tocante à causa debatida, entre outras alegações de igual patamar argumentativo (ARE 691.595-AgR, Rel. Min. RICARDO LEWANDOWSKI, Segunda Turma, DJe de 25/2/2013; ARE 696.347-AgRsegundo, Rel. Min. CÁRMEN LÚCIA, Segunda Turma, DJe de 14/2/2013; ARE 696.263-AgR, Rel. Min. LUIZ FUX, Primeira Turma, DJe de 19/2/2013; AI 717.821-AgR, Rel. Min. JOAQUIM BARBOSA, Segunda Turma, DJe de 13/8/2012).
+Eis os fundamentos da parte para sustentar a repercussão geral da matéria (Doc. 220, fl. 12):
+
+“12. Nos termos do art. 102, §3º12 da Constituição Federal e art. 1.03513 do Código de Processo Civil, a Recorrente deve demonstrar a repercussão geral da questão constitucional discuta no caso, a fim de que seja realizado o exame de admissibilidade do presente recurso extraordinário.
+13. No presente caso, a repercussão geral reside nos efeitos econômicos e sociais que evidentemente ultrapassam os interesses subjetivos deste processo, tendo em vista que a questão jurídica discutida envolve a interpretação e aplicação de dispositivos constitucionais que são de interesse de TODOS OS MUNICÍPIOS DO PAÍS, bem como de todas as concessionárias de distribuição de energia elétrica.
+14. Tal fato decorre da ação dos Municípios de (indevidamente) (i) atribuírem responsabilidade tributária às concessionárias de distribuição de energia elétrica pelo pagamento da CIP/COSIP,(ii) desonerarem-se do pagamento pelos serviços de cobrança da CIP realizados pelas concessionárias a seu favor e (iii) aumentarem a arrecadação da CIP, na medida em que os custos com a inadimplência da CIP serão diretamente suportados pelas concessionárias de energia elétrica.
+15. Vale acrescentar que os custos com a inadimplência da CIP, uma vez que não previstos e não integrantes nos contratos de concessão das distribuidoras poderão impactar futuramente as próprias tarifas de energia elétrica dos consumidores, mediante mecanismo de reequilíbrio econômico-financeiro do contrato de concessão.
+16. Assim, considerando-se os mais de 5.500 municípios que atualmente existem no Brasil14, e que cada um poderia editar a sua respectiva legislação atribuindo referida responsabilidade tributária, tem-se como evidente a repercussão geral do presente processo, sendo de rigor o conhecimento do presente recurso extraordinário por esse E. Supremo Tribunal Federal.”
+
+Não havendo demonstração fundamentada da presença de repercussão geral, incabível o seguimento do Recurso Extraordinário.
+Além disso, a solução da controvérsia depende da análise da legislação local que rege o tributo em questão (Lei Municipal nº 2.127/2002 e Lei Complementar nº 41/2016), o que é incabível em recurso extraordinário, conforme consubstanciado na Súmula 280/STF: Por ofensa a direito local não cabe recurso extraordinário.
+
+No mesmo sentido, em situação análoga à dos autos, vejam-se os seguintes julgados: ARE 1.290.731-AgR, Rel. Min. EDSON FACHIN, Segunda Turma, DJe de 7/6/2021; e ARE 1154633 A gR, Rel. Min.  ANDRÉ MENDONÇA, Segunda Turma, DJe de 6/6/2024, este último, assim ementado:
+
+“AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO COM AGRAVO. RESPONSABILIDADE TRIBUTÁRIA. CONCESSIONÁRIA DE ENERGIA ELÉTRICA. CONTRIBUIÇÃO DE ILUMINAÇÃO PÚBLICA. MATÉRIA INFRACONSTITUCIONAL. ART. 149-A, PARÁGRAFO ÚNICO, DA CONSTITUIÇÃO DA REPÚBLICA. TEMA RG Nº 44. LEGISLAÇÃO LOCAL. ENUNCIADO Nº 280 DA SÚMULA DO STF.
+1. O STF reconheceu, no julgamento do RE nº 573.675-RG/SC (Tema nº 44 do ementário da Repercussão Geral), a constitucionalidade da cobrança e do consequente repasse da contribuição para o custeio do serviço de iluminação pública na fatura de energia elétrica, nos moldes do art. 149-A, parágrafo único, da Constituição da República.
+2. Na iterativa jurisprudência desta Suprema Corte, a discussão atinente à responsabilidade tributária recair sobre a concessionária de serviço público não atinge a estatura constitucional necessária, ante a necessidade do exame pormenorizado da lei municipal, a atrair a incidência do enunciado nº 280 da Súmula do STF.
+3. Incidência da multa do art. 1.021, § 4º, do Código de Processo Civil, em caso de julgamento unânime, no importe correspondente a 1% sobre o valor da causa.” (ARE 1154633 A gR, Rel. Min.  ANDRÉ MENDONÇA, Segunda Turma, DJe de 6/6/2024)
+
+Diante do exposto, com base no art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal, NEGO SEGUIMENTO AO RECURSO EXTRAORDINÁRIO.
+Fixam-se honorários advocatícios adicionais equivalentes a 10% (dez por cento) do valor a esse título arbitrado nas instâncias ordinárias (Código de Processo Civil de 2015, art. 85, § 11).
+Ficam AMBAS AS PARTES advertidas de que:
+- a interposição de recursos manifestamente inadmissíveis ou improcedentes, ou meramente protelatórios, acarretará a imposição das sanções cabíveis;
+- decorridos 15 (quinze) dias úteis da intimação de cada parte sem a apresentação de recursos, será certificado o trânsito em julgado e dada baixa dos autos ao Juízo de origem.
+Publique-se.
+Brasília, 23 de fevereiro de 2026.
+
+Ministro ALEXANDRE DE MORAES
+Relator
+Documento assinado digitalmente
