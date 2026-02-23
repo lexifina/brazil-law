@@ -1,0 +1,35 @@
+Decisão:
+Vistos.
+Trata-se de agravo interposto contra a decisão que não admitiu recurso extraordinário manejado contra acórdão proferido pela 3ª Turma Recursal do Tribunal de Justiça de Santa Catarina, assim ementado:
+
+“AGRAVO INTERNO EM EMBARGOS DE DECLARAÇÃO EM RECURSO INOMINADO. INSURGÊNCIA CONTRA DECISÃO MONOCRÁTICA QUE REJEITOU OS EMBARGOS OPOSTOS CONTRA DECISÃO QUE RECONHECEU A INTEMPESTIVIDADE DO RECURSO. NÃO ACOLHIMENTO. EQUÍVOCO NO LANÇAMENTO DE EVENTO DE CONTAGEM DE PRAZO QUE NO SE PRESTA A ALONGAR A PREVISÃO LEGAL. CONTAGEM DO PRAZO QUE INCUMBÊNCIA DAS PARTES. PRECEDENTES DAS TURMAS RECURSAIS. UTILIZAÇÃO DO RITO COMUM QUE NÃO MODIFICA O PRAZO RECURSAL. COMPETÊNCIA ABSOLUTA DO JUIZADO FAZENDÁRIO. PRAZO RECURSAL DE 10 DIAS. INTEMPESTIVIDADE MANIFESTA. DECISÃO MANTIDA. RECURSO CONHECIDO E DESPROVIDO.”
+
+Sustenta a recorrente, nas razões de seu apelo extremo, violação do artigo 5º, incisos II, XXXV, XXXVI, LIV e LV, da Constituição Federal.
+Aduz que
+
+“demonstrou claramente que desde o início do processo ajuizado, a lei de observância pelas partes e Julgador era a 13.105/2015 (rito ordinário), e somente APÓS a interposição de seu Recurso de Apelação, observando a contagem de prazo processual do sistema judicial que marcava “15 dias”, EM 2ª INSTÂNCIA EM ANÁLISE DA ADMISSIBILIDADE DO RECURSO DA RECORRENTE PELA DESEMBARGADORA DO EG. TJSC, foi que, de ofício pela Desembargadora, reconheceu-se que a ação estaria abarcada pelo rito da Lei 9.099/95, contudo, os ilustres julgadores da 3ª Turma Recursal, entenderam que o recurso de apelação, a partir de então conhecido como recurso inominado, fora apresentado intempestivamente, o que não é verdade.” (e-doc. 127, p. 5) (destaques no original)
+
+Alega que o “rito de tramitação do processo somente foi alterado [para incidir a Lei 9.099/95] em grau de recurso”, sendo “totalmente arbitrária e nula a decisão que exige que a parte recorrente atenda ao prazo recursal de 10 (dez) dias relativo ao procedimento do Juizado Especial da Fazenda” (e-doc. 127, p. 16-17), sob pena de intempestividade.
+Postula o provimento do presente recurso extraordinário, a fim de que seja cassado o decisório hostilizado, com o regresso dos autos à Turma Recursal para regular julgamento de seu recurso inominado.
+Decido.
+A irresignação não merece prosperar, haja vista que o Plenário da Suprema Corte, em sessão realizada por meio eletrônico, no exame do RE nº 598.365/MG, feito paradigma do Tema nº 181, concluiu pela ausência de repercussão geral do tema relativo aos pressupostos de admissibilidade de recursos de competência de outros Tribunais, dado o caráter infraconstitucional da matéria. Confira-se:
+
+“PRESSUPOSTOS DE ADMISSIBILIDADE DE RECURSOS DA COMPETÊNCIA DE OUTROS TRIBUNAIS. MATÉRIA INFRACONSTITUCIONAL. AUSÊNCIA DE REPERCUSSÃO GERAL.
+A questão alusiva ao cabimento de recursos da competência de outros Tribunais se restringe ao âmbito infraconstitucional. Precedentes. Não havendo, em rigor, questão constitucional a ser apreciada por esta nossa Corte, falta ao caso 'elemento de configuração da própria repercussão geral', conforme salientou a ministra Ellen Gracie, no julgamento da Repercussão Geral no RE 584.608” (DJe de 26/3/10).
+
+Aplicando esse entendimento destacam-se os seguintes julgados:
+
+“AGRAVO INTERNO EM RECURSO EXTRAORDINÁRIO. DIREITO DO TRABALHO. PRESSUPOSTOS DE ADMISSIBILIDADE DE RECURSOS DE OUTROS TRIBUNAIS. INADMISSIBILIDADE. AUSÊNCIA DE REPERCUSSÃO GERAL. RE 598.365-RG/MG. VERBA HONORÁRIA. ART. 85, § 11, DO CPC. VERBA NÃO FIXADA NA ORIGEM. MAJORAÇÃO INCABÍVEL. AGRAVO INTERNO DESPROVIDO. I Ausência de repercussão geral no tocante ao cumprimento de requisitos de admissibilidade de recursos de outros tribunais (RE 598.365- -RG/MG, Ministro Ayres Britto). II Os honorários recursais, previstos no § 11 do art. 85 do Código de Processo Civil, não têm autonomia nem existência independente da sucumbência fixada na origem e representam um acréscimo ao ônus estabelecido previamente, motivo porque, na hipótese de descabimento ou de ausência de fixação anterior como na espécie dos autos , a sua incidência é indevida. III Agravo interno a que se nega provimento” (RE nº 1.127.905/PR-AgR, Segunda Turma, Rel. Min. Nunes Marques, DJe de 14/4/21).
+
+“SEGUNDO AGRAVO INTERNO NO RECURSO EXTRAORDINÁRIO COM AGRAVO. DIREITO DO TRABALHO. EMPREGADO PÚBLICO. FÉRIAS. REMUNERAÇÃO PAGA FORA DO PRAZO. DOBRA DO VALOR. ARTIGOS 137 E 145 DA CLT E SÚMULA 450 DO TST. PREQUESTIONAMENTO. AUSÊNCIA. INADMISSIBILIDADE DO RECURSO EXTRAORDINÁRIO. ADMISSIBILIDADE DE RECURSOS DA COMPETÊNCIA DE CORTES DIVERSAS. AUSÊNCIA DE REPERCUSSÃO GERAL. PRECEDENTES. 1. É inadmissível o recurso extraordinário se a matéria constitucional que nele se alega violada não está devidamente prequestionada. Incidência das Súmulas 282 e 356/STF. 2. O tema relativo aos pressupostos de admissibilidade ou cabimento de recursos da competência de outros tribunais ou turmas recursais não possui repercussão geral (RE 598.365-RG, Plenário, Rel. Min. Ayres Britto, DJe de 26/3/2010, Tema 181). 3. Agravo interno desprovido, com imposição de multa de 5% (cinco por cento) do valor atualizado da causa (artigo 1.021, § 4º, do CPC), caso seja unânime a votação. 4. Honorários advocatícios majorados ao máximo legal em desfavor da parte recorrente, caso as instâncias de origem os tenham fixado, nos termos do artigo 85, § 11, do Código de Processo Civil, observados os limites dos §§ 2º e 3º e a eventual concessão de justiça gratuita” (ARE nº 1.283.613/SP-AgR-segundo, Tribunal Pleno, Rel. Min. Luiz Fux (Presidente), DJe de 8/3/21).
+
+“DIREITO PROCESSUAL CIVIL. AGRAVO INTERNO EM AGRAVO DE INSTRUMENTO. QUESTÃO RELATIVA A PRESSUPOSTOS DE ADMISSIBILIDADE DE RECURSO DE COMPETÊNCIA DE CORTES DIVERSAS. MATÉRIA INFRACONSTITUCIONAL. AUSÊNCIA DE REPERCUSSÃO GERAL. NOVA APRECIAÇÃO DOS FATOS E PROVA DOS AUTOS. SÚMULA 279/STF. 1. O Supremo Tribunal Federal já assentou a ausência de repercussão geral da questão discutida (RE 598.365, Rel. Min. Ayres Britto), relativa ao cabimento de recursos da competência de outros Tribunais, por restringir-se a tema infraconstitucional. 2. A solução da controvérsia demanda a análise de matéria infraconstitucional e a reapreciação dos fatos e do material probatório constantes dos autos (Súmula 279/STF), procedimentos inviáveis em recurso extraordinário. 2. Agravo interno a que se nega provimento, com aplicação da multa prevista no art. 557, § 2º, do CPC/1973” (AI nº 797.271/SP-AgR, Primeira Turma, Rel. Min. Roberto Barroso, DJe de 8/9/17).
+
+Ante o exposto, nos termos do artigo 21, § 1º, do Regimento Interno do Supremo Tribunal Federal, nego seguimento ao recurso.
+Havendo prévia fixação de honorários advocatícios pelas instâncias de origem, seu valor monetário será majorado em 10% (dez por cento) em desfavor da parte recorrente, nos termos do art. 85, § 11, do Código de Processo Civil, observado os limites dos §§ 2º e 3º do referido artigo.
+Publique-se.
+Brasília, 23 de fevereiro de 2026.
+
+Ministro DIAS TOFFOLI
+Relator
+Documento assinado digitalmente
