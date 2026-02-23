@@ -1,0 +1,40 @@
+RECURSO EXTRAORDINÁRIO COM AGRAVO. DIREITO TRIBUTÁRIO E PROCESSUAL CIVIL. AÇÃO ANULATÓRIA DE DÉBITO FISCAL. ADESÃO A PARCELAMENTO. RENÚNCIA A DIREITO E EXTINÇÃO DA AÇÃO. HONORÁRIOS DE SUCUMBÊNCIA. PRINCÍPIO DA CAUSALIDADE. SUPOSTO BIS IN IDEM. ANÁLISE DE LEGISLAÇÃO INFRACONSTITUCIONAL. VEDAÇÃO POTENCIAL OFENSA REFLEXA À CONSTITUIÇÃO. REEXAME DE FATOS E PROVAS. INTERPRETAÇÃO DE CLÁUSULAS NEGOCIAIS. VEDAÇÃO. SÚMULAS 279 E 454 DO STF. NEGADO SEGUIMENTO AO AGRAVO.
+
+DECISÃO: Trata-se de agravo nos próprios autos objetivando a reforma de decisão que inadmitiu recurso extraordinário manejado pela alínea “a” do permissivo constitucional contra acórdão que assentou:
+
+“DIREITO TRIBUTÁRIO. APELAÇÃO. HONORÁRIOS ADVOCATÍCIOS. PARCIAL PROVIMENTO.
+I. Caso em Exame.
+Apelação interposta contra sentença que homologou pedido de renúncia e julgou extinto o feito, condenando a autora ao pagamento de honorários advocatícios. A embargante alega impossibilidade de nova condenação em honorários advocatícios após adesão a programas de parcelamento de dívidas tributárias, argumentando bis in idem e violação aos princípios da proporcionalidade e razoabilidade.
+II. Questão em Discussão.
+2. A questão em discussão consiste em determinar se a condenação em honorários advocatícios após a adesão a programas de parcelamento de dívidas tributárias configura bis in idem e se a base de cálculo dos honorários deve considerar o valor pago na transação.
+III. Razões de Decidir.
+3. A adesão à transação de débitos de ICMS não afasta a condenação ao pagamento de honorários sucumbenciais, conforme previsto no Edital PGE/Transação nº 1/2024 e na Lei Estadual nº 17.843/2023.
+4. O princípio da causalidade impõe que a parte que deu causa à demanda suporte os custos processuais, não havendo bis in idem. No entanto, acolhe-se o pedido subsidiário para que a base de cálculo dos honorários considere o montante pago na transação, e nos termos do art. 85, §§ 3º e 5º, do CPC.
+IV. Dispositivo e Tese.
+5. Recurso parcialmente provido para determinar que a base de cálculo dos honorários advocatícios considere o montante pago na transação de débitos de ICMS, considerando-se, ainda, a regra do art. 85, §§ 3º e 5º, do CPC.
+Tese de julgamento: 1. A adesão a programas de parcelamento de dívidas não isenta o pagamento de honorários sucumbenciais. 2. A base de cálculo dos honorários deve considerar o montante pago na transação.”
+
+Os embargos de declaração opostos foram rejeitados.
+Nas razões do apelo extremo, a parte recorrente sustenta preliminar de repercussão geral e, no mérito, por sua vez, aponta a ocorrência de violação ao artigo 5º, caput e incisos II e XXXVI, da Constituição Federal.
+A parte recorrida apresentou contrarrazões ao recurso.
+O Tribunal a quo inadmitiu o recurso extraordinário, por entender que a ofensa à Constituição Federal, caso existente, seria indireta.
+
+É o relatório. DECIDO.
+
+O agravo não merece prosperar.
+Com efeito, do exame dos autos sub examine, verifica-se que, para acolher a pretensão da parte recorrente e ultrapassar o entendimento do Tribunal de origem acerca dos honorários advocatícios de sucumbência, considerado o princípio da causalidade, bem como a suposta existência de bis in idem, seria necessário analisar a presente causa à luz da legislação infraconstitucional pertinente, o que não é cabível em sede de recurso extraordinário, pois a afronta ao texto constitucional, caso existente, seria indireta ou reflexa, bem como reexaminar o acervo fático-probatório dos autos e interpretar cláusulas de instrumento negocial, providências que esbarram nos óbices das Súmulas 279 e 454 do STF. Nesse sentido:
+
+“DIREITO PROCESSUAL CIVIL. HONORÁRIOS ADVOCATÍCIOS SUCUMBENCIAIS. QUESTÃO RESOLVIDA COM FUNDAMENTO NA LEGISLAÇÃO PROCESSUAL. EVENTUAL OFENSA REFLEXA NÃO VIABILIZA O RECURSO EXTRAORDINÁRIO. ART. 102 DA LEI MAIOR. AGRAVO NÃO PROVIDO. 1. A controvérsia, conforme já asseverado na decisão guerreada, não alcança estatura constitucional. Não há falar em afronta aos preceitos constitucionais indicados nas razões recursais. Compreensão diversa demandaria a análise da legislação infraconstitucional encampada na decisão da Corte de origem, a tornar oblíqua e reflexa eventual ofensa à Constituição, insuscetível, como tal, de viabilizar o conhecimento do recurso extraordinário. Desatendida a exigência do art. 102, III, ‘a’, da Lei Maior, nos termos da jurisprudência desta Suprema Corte. 2. As razões do agravo interno não se mostram aptas a infirmar os fundamentos que lastrearam a decisão agravada. 3. A teor do art. 85, § 11, do CPC, o ‘tribunal, ao julgar recurso, majorará os honorários fixados anteriormente levando em conta o trabalho adicional realizado em grau recursal, observando, conforme o caso, o disposto nos §§ 2º a 6º, sendo vedado ao tribunal, no cômputo geral da fixação de honorários devidos ao advogado do vencedor, ultrapassar os respectivos limites estabelecidos nos §§ 2º e 3º para a fase de conhecimento’. 4. Agravo interno conhecido e não provido.” (ARE 1.397.913-AgR, Plenário, Rel. Min. Rosa Weber, DJe de 17/2/2023)
+
+“AGRAVO INTERNO NO RECURSO EXTRAORDINÁRIO COM AGRAVO. DIREITO TRIBUTÁRIO E PROCESSUAL CIVIL. REFIS. ADESÃO. REQUERIMENTO ADMINISTRATIVO. HONORÁRIOS ADVOCATÍCIOS. CONDENAÇÃO. CABIMENTO. PRINCÍPIO DA LEGALIDADE. VIOLAÇÃO. LEGISLAÇÃO INFRACONSTITUCIONAL. OFENSA REFLEXA. FATOS E PROVAS. REEXAME. IMPOSSIBILIDADE. PRECEDENTES. AGRAVO INTERNO DESPROVIDO. 1. O recurso extraordinário é instrumento de impugnação de decisão judicial inadequado para a valoração e revisão da interpretação dada a normas infraconstitucionais pela decisão recorrida, por contrariedade ao princípio constitucional da legalidade (Súmula 636 do STF). 2. Não se presta o recurso extraordinário para a análise de matéria infraconstitucional, tampouco para o reexame dos fatos e das provas constantes dos autos (Súmula 279/STF). 3. Agravo interno desprovido, com imposição de multa de 5% (cinco por cento) do valor atualizado da causa (artigo 1.021, § 4º, do CPC), caso seja unânime a votação. 4. Honorários advocatícios majorados ao máximo legal em desfavor da parte recorrente, caso as instâncias de origem os tenham fixado, nos termos do artigo 85, § 11, do Código de Processo Civil, observados os limites dos §§ 2º e 3º e a eventual concessão de justiça gratuita.” (ARE 1.374.474-AgR, Plenário, Rel. Min. Luiz Fux - Presidente, DJe de 10/6/2022)
+
+“AGRAVO INTERNO NO RECURSO EXTRAORDINÁRIO COM AGRAVO. DIREITO TRIBUTÁRIO. CRÉDITO TRIBUTÁRIO. DEPÓSITO JUDICIAL. REFIS. DESISTÊNCIA DE RECURSO. CONVERSÃO EM RENDA PARA A FAZENDA PÚBLICA. JUROS DE MORA E DEMAIS ENCARGOS. REDUÇÃO. LEGISLAÇÃO INFRACONSTITUCIONAL. OFENSA REFLEXA. FATOS E PROVAS. REEXAME. IMPOSSIBILIDADE. PRECEDENTES. AGRAVO INTERNO DESPROVIDO. 1. O recurso extraordinário é instrumento de impugnação de decisão judicial inadequado para a análise de matéria infraconstitucional, bem como para a valoração e exame minucioso do acervo fático-probatório engendrado nos autos (Súmula 279 do STF). 2. Agravo interno desprovido, com imposição de multa de 5% (cinco por cento) do valor atualizado da causa (artigo 1.021, § 4º, do CPC), caso seja unânime a votação. 3. Honorários advocatícios majorados ao máximo legal em desfavor da parte recorrente, caso as instâncias de origem os tenham fixado, nos termos do artigo 85, § 11, do Código de Processo Civil, observados os limites dos §§ 2º e 3º e a eventual concessão de justiça gratuita.” (ARE 1.351.920-AgR, Plenário, Rel. Min. Luiz Fux - Presidente, DJe de 10/2/2022)
+
+Ex positis, NEGO SEGUIMENTO ao agravo, ex vi art. 932, inc. VIII, do Código de Processo Civil, e art. 21, § 1º, do Regimento Interno do STF.
+Ademais, os honorários advocatícios fixados pelas instâncias a quo terão seu valor monetário majorado em 10% (dez por cento) em desfavor da parte recorrente, segundo art. 85, § 11, do Código de Processo Civil, observados os seus §§ 2º e 3º e a eventual concessão de justiça gratuita.
+Publique-se.
+Brasília, 23 de fevereiro de 2026.
+
+Ministro LUIZ FUX
+Relator
+Documento assinado digitalmente
