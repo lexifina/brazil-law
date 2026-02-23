@@ -1,0 +1,50 @@
+DECISÃO:
+Cuida-se de reclamação constitucional, com pedido liminar, ajuizada pelo Município de Sorocaba contra decisão da 2ª Vara do Trabalho de Sorocaba, nos autos do Processo nº 0011334-04.2024.5.15.0016, por alegado desrespeito à autoridade do Supremo Tribunal Federal e a eficácia do que decidido no RE 760.931/DF (Tema nº 246 RG) e no  RE 1.268.647/DF (Tema nº 1118 RG).
+O Município de Sorocaba narra que, na origem, foi demandado por  Ana Caroline Bento Nunes (ora beneficiária) em reclamação trabalhista, ocasião em que a justiça do trabalho reconheceu a responsabilidade subsidiária do ente público e o condenou ao pagamento de verbas trabalhistas devidas à beneficiária.
+Alega que a sentença proferida pelo juízo de piso violou os precedentes desta Suprema Corte invocados, pois “a condenação foi imposta com base na inversão do ônus da prova e na presunção de culpa do Município, em desacordo com a jurisprudência constitucional obrigatória” (e-doc. 1, p. 3)
+Acrescenta, no ponto, que
+
+“o ente público juntou farta com sua contestação documentação que comprova o acompanhamento regular da execução contratual pela fiscalização designada, incluindo registros formais, comunicações administrativas, conferência de documentos trabalhistas e medidas adotadas visando ao cumprimento das obrigações trabalhistas.” (e-doc. 1, p. 3)
+
+Expõe que “[a] inversão do ônus da prova é patente, pois a culpa é inferida não por prova produzida pela reclamante, mas pela suposta insuficiência subjetiva da prova defensiva” de modo que o ato reclamado “[promove] verdadeira responsabilização automática, mediante presunções e interpretações principiológicas desconectadas de fatos concretos.” (e-doc. 1, p. 5 e 6)
+Aduz, ainda, que
+
+“A atividade fiscalizatória visa ao controle e ao monitoramento do cumprimento contratual, mas não tem o condão de impedir, de forma absoluta, que ocorra inadimplemento por razões alheias à esfera de controle do contratante estatal, como dificuldades financeiras da empresa, má gestão ou mesmo condutas dolosas da contratada.
+Nesse contexto, a imputação de responsabilidade subsidiária à Administração não poderia se fundamentar em episódios isolados de inadimplemento, desprovidos de correlações com omissões concretas e reiteradas do poder público.
+(...)
+Ainda, conforme reiterado nas Reclamações Constitucionais Rcl 73179/SP, Rcl 69064 AgR, Rcl 66389 AgR e Rcl 65461 ED, firmou-se entendimento de que a responsabilização do poder público deve ser excepcional, e que a ausência de prova concreta de omissão reiterada afasta qualquer presunção de culpa da Administração.” (e-doc. 1, p. 7 e 9)
+
+Requer, ao final,
+
+“a) a concessão de medida liminar, para suspender imediatamente os efeitos da decisão reclamada, especialmente quanto à responsabilização subsidiária do Município de Sorocaba;
+(...)
+d) ao final, seja julgada procedente a presente reclamação constitucional, reconhecendo-se a violação à autoridade das decisões proferidas na ADC nº 16 e na Súmula Vinculante 10, tornando sem efeito a responsabilização subsidiária imposta ao Reclamante.” (e-doc. 1, p. 11 e 12)
+
+É o relatório. Decido.
+Registre-se, desde já, que a jurisprudência do STF admite a mitigação da regra do inc. III do art. 989 do CPC, de modo que eventual contraditório se estabeleça após o juízo de procedência fundado em precedente vinculante e/ou reiterada jurisprudência da Corte em torno do paradigma, propiciando maior reflexão no exercício da contraposição em sede reclamatória, em atenção ao princípio da cooperação processual disciplinado no art. 6º do CPC (v.g. Rcl nº 67657 AgR, Rel. Min. Flávio Dino, Primeira Turma, DJe de 10/10/24; Rcl nº 68599 AgR, de minha relatoria, Segunda Turma, DJe de 18/9/24 e Rcl nº 58665 AgR, Rel. Min. André Mendonça, Segunda Turma, DJe de 2/7/24).
+Passo à análise da reclamação.
+Em sessão de julgamento de 13/2/25 (ata de julgamento publicada no DJe de 24/2/25), o Plenário do STF decidiu o RE nº 1.298.647 (vinculado ao Tema nº 1.118 da RG), fixando a seguinte tese:
+
+“1. Não há responsabilidade subsidiária da Administração Pública por encargos trabalhistas gerados pelo inadimplemento de empresa prestadora de serviços contratada, se amparada exclusivamente na premissa da inversão do ônus da prova, remanescendo imprescindível a comprovação, pela parte autora, da efetiva existência de comportamento negligente ou nexo de causalidade entre o dano por ela invocado e a conduta comissiva ou omissiva do poder público. 2. Haverá comportamento negligente quando a Administração Pública permanecer inerte após o recebimento de notificação formal de que a empresa contratada está descumprindo suas obrigações trabalhistas, enviada pelo trabalhador, sindicato, Ministério do Trabalho, Ministério Público, Defensoria Pública ou outro meio idôneo. 3. Constitui responsabilidade da Administração Pública garantir as condições de segurança, higiene e salubridade dos trabalhadores, quando o trabalho for realizado em suas dependências ou local previamente convencionado em contrato, nos termos do art. 5º-A, § 3º, da Lei nº 6.019/1974. 4. Nos contratos de terceirização, a Administração Pública deverá: (i) exigir da contratada a comprovação de capital social integralizado compatível com o número de empregados, na forma do art. 4º-B da Lei nº 6.019/1974; e (ii) adotar medidas para assegurar o cumprimento das obrigações trabalhistas pela contratada, na forma do art. 121, § 3º, da Lei nº 14.133/2021, tais como condicionar o pagamento à comprovação de quitação das obrigações trabalhistas do mês anterior.”
+
+Compulsados os autos, verifico que a 2ª Vara do Trabalho de Sorocaba reconheceu a responsabilidade subsidiária do Município de Sorocaba e concluiu que, no caso concreto, o reclamante “não logrou demonstrar nem que fiscalizou o regular cumprimento do contrato firmado com a 1º reclamada, nem que tomou qualquer atitude a garantir o adimplemento dos valores.”
+Por oportuno, transcrevo trecho de interesse da sentença proferida (ato ora reclamado):
+
+“RESPONSABILIDADE DA 2º RECLAMADA
+O autor não pleiteia o vínculo empregatício com o MUNICÍPIO, mas tão somente a sua responsabilidade em razão de ter atuado como tomador dos serviços, uma vez que se beneficiou dos serviços prestados, pela escolha de empresa de prestação de serviços.
+Ademais, a responsabilidade subsidiária não é vinculada à existência de vínculo empregatício. Se o vínculo se fizesse direto, direta seria a responsabilidade da tomadora. Assim, resta ultrapassada a preconizada violação do artigo 37 da Constituição Federal.
+Por outro lado, o C. TST reformulou o texto da Súmula 331, inserindo novo inciso V, o qual confirma a constitucionalidade da responsabilização subsidiária da administração pública ‘caso evidenciada a sua conduta culposa no cumprimento das obrigações da Lei n.º 8.666, de 21.06.1993, especialmente na fiscalização do cumprimento das obrigações contratuais e legais da prestadora de serviço como empregadora’.
+Observe-se não haver qualquer conflito entre o item V da Súmula 331 e a previsão do artigo 71 da Lei 8.666/93, mesmo após recente alteração implementada no sentido de que, apesar da aludida responsabilização não decorrer do mero inadimplemento das obrigações trabalhistas, pode decorrer da conduta culposa na fiscalização do cumprimento das obrigações contratuais e legais da prestadora de serviço.
+Na hipótese dos autos, observa-se que a Fazenda não logrou demonstrar nem que fiscalizou o regular cumprimento do contrato firmado com a 1º reclamada, nem que tomou qualquer atitude a garantir o adimplemento dos valores. E lhe cabia inclusive, não havendo pagamento dos títulos, invocar cláusula contratual que lhe autoriza bloqueio de valores. E esse, ocorrendo, não pode apenas lhe beneficiar com recebimento de multas, mas garantir o pagamento do trabalho realizado pela empregada a seu favor. Deve a 2º ré ao menos responder subsidiariamente pelos créditos deferidos à autora, nos termos da Súmula 331, IV do C. TST, porque se beneficiou do labor da reclamante, na qualidade de tomadora dos serviços.
+Portanto, o Município responde subsidiariamente pelo adimplemento da dívida.” (e-doc. 4)
+
+Não se extrai, da decisão proferida pela Justiça do Trabalho, razões fundadas em elementos concretos acerca de eventual comportamento negligente do ente público ou o nexo de causalidade entre a conduta da Administração Pública e o dano sofrido pelo trabalhador para justificar a condenação; decorrendo a responsabilidade subsidiária do poder público da falha ou omissão fiscalizatória (culpa in vigilando) concluída a partir da existência de débitos trabalhistas da prestadora de serviços, entendimento que vai de encontro à norma de interpretação constitucional de observância obrigatória firmada no Tema nº 246 da RG e minuciada no Tema nº 1118 da RG.
+A manutenção de responsabilidade subsidiária do ente público fundamentada na afirmação de que o Estado não cumpriu sua função  de fiscalização quanto ao inadimplemento por parte empresa prestadora de serviços, desacompanhada de elementos concretos de prova produzidos pelo autor do processo trabalhista no sentido da ciência inequívoca do Poder Público quanto aos descumprimentos dos direitos trabalhistas pela empresa prestadora de serviços e caracterização da inércia do poder público na adoção de medidas para mitigar o fazer cessar eventuais ilegalidades perpetradas evidencia a oposição do órgão reclamado em concretizar a tese paradigma.
+Ante o exposto, julgo procedente a reclamação para afastar a responsabilidade do poder público no caso concreto.
+Envie-se cópia dessa decisão à autoridade reclamada para que junte aos autos do processo em referência, dando publicidade ao ato de juntada para ciência à parte beneficiária do ato reclamado (ora cassado) do trâmite da presente ação e início do prazo recursal no STF, ficando essa parte beneficiária igualmente certificada de que, na hipótese da apresentação de recurso no STF, deverá necessariamente comprovar a data em que foi notificada, sob pena de não conhecimento.
+Publique-se.
+Brasília, 23 de fevereiro de 2026.
+
+Ministro DIAS TOFFOLI
+Relator
+Documento assinado digitalmente
