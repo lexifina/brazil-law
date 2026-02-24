@@ -1,0 +1,4 @@
+# LEI COMPLEMENTAR Nº 1.065, DE 23 DE FEVEREIRO DE 2026
+(Autoria: Poder Executivo)
+Aprova o Plano Diretor de Ordenamento Territorial do Distrito Federal - PDOT e dá outras providências.
+O GOVERNADOR DO DISTRITO FEDERAL, FAÇO SABER QUE A CÂMARA LEGISLATIVA DO DISTRITO FEDERAL DECRETA E EU SANCIONO A SEGUINTE LEI:
