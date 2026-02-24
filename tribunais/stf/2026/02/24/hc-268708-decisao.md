@@ -1,0 +1,66 @@
+DECISÃO
+
+HABEAS CORPUS. TRÁFICO DE DROGAS. CAUSA DE DIMINUIÇÃO DO ART. 33, § 4º, DA LEI Nº 11.343, DE 2006. DEDICAÇÃO A ATIVIDADES CRIMINOSAS. REEXAME DE FATOS E PROVAS: INVIABILIDADE.  DENEGAÇÃO DA ORDEM.
+
+1. Trata-se de habeas corpus impetrado contra acórdão do Superior Tribunal de Justiça, pelo qual a Quinta Turma não conheceu do Agravo Regimental no Agravo em Recurso Especial nº 2.771.536/SC, tendo sido posteriormente rejeitados os embargos de declaração opostos pela defesa (e-docs. 7 e 8).
+
+2. Consta dos autos que o paciente foi condenado, em primeira instância, à pena de 5 anos de reclusão, em regime inicial semiaberto, e 500 dias-multa, pelo cometimento do crime do art. 33, caput, da Lei nº 11.343/2006 (tráfico de drogas) (e-doc. 3).
+
+3. Interposta apelação defensiva, o Tribunal de Justiça do Estado de Santa Catarina negou provimento ao recurso. Recurso especial foi inadmitido na origem.
+
+4. No Superior Tribunal de Justiça, o Ministro Relator não conheceu do agravo em recurso especial (e-doc. 5). Seguiu-se o protocolo do citado agravo regimental de que resultou, ao final, o ato ora impugnado.
+
+5. No presente writ, a defesa sustenta, em síntese, a flagrante ilegalidade na negativa de aplicação da causa especial de diminuição de pena prevista no art. 33, § 4º, da Lei nº 11.343/2006. Argumenta que o paciente é primário, não possui antecedentes criminais, não integra organização criminosa e não se dedica a atividades criminosas. Ressalta que o próprio Ministério Público Federal, no âmbito do STJ, manifestou-se favoravelmente à incidência da minorante em seu patamar máximo.
+
+6. Busca a incidência da causa de diminuição no patamar de 2/3 e a substituição da pena privativa de liberdade por restritivas de direitos.
+
+É o relatório.
+
+Decido.
+
+7. Conforme o art. 33, § 4º, da Lei de Drogas, é viável a diminuição da pena, de 1/6 a 2/3, para o agente primário, sem antecedentes, que não se dedica a atividades delituosas nem integra organização criminosa. A minorante dirige-se ao pequeno traficante, aquele não envolvido com a criminalidade, para o qual o tráfico de entorpecente é um fato episódico e ocasional.
+
+8. O Juízo, na sentença, entendeu incabível a aplicação da minorante. Para tanto, levou em conta todo o contexto da prática delitiva, especialmente as conversas extraídas do aparelho celular do réu, que evidenciariam atuação reiterada na comercialização de entorpecentes, com referência a recebimento de drogas, controle de estoque e prestação de contas a terceiros. Confira-se o que constou do pronunciamento:
+
+“(...)
+Para além disso, os dados do aparelho celular do acusado, extraídos pela Polícia Científica (evento 113), revelam a existência de diversas conversas no aplicativo de mensagens instantânea "Whatsapp", envolvendo a negociação de entorpecentes.
+Em uma delas, o denunciado questiona sobre a quantidade de pedra que recebeu, dando a entender que teria recebido menos do que o negociado, e outros diálogos revelam que o réu atua na narcotraficância em comunhão de esforços, indagando a um indivíduo quanto havia sobrado de cocaína e prestando contas a outra pessoa sobre o “estoque” de estupefacientes.
+Vale destacar que o acusado afirmou, no interrogatório judicial, não ser usuário de nenhum tipo de entorpecente, além de haver menções específicas nas conversas do celular do réu de que ele "fazia o corre" na região" (evento 113).
+Ainda, vê-se que, em diversas oportunidades, o acusado é advertido por terceiros sobre a existência de policiais em determinado local, além de ele próprio fazer menção de que teve que sair de alguma região “porque a área estava suja”.
+Assim, diante da solidez da prova produzida pela acusação e tendo em conta a inexistência de elementos de convicção capazes de desconstituí-las, não há que se falar em deficiência probatória, sendo imperiosa a condenação do acusado às penas do artigo 33, caput, da Lei n. 11.343/06.
+Derradeiramente, inviável o reconhecimento da causa de diminuição da pena prevista no artigo 33, § 4º da Lei nº 11.343/2006, pois restou evidenciado que o acusado se dedicava às atividades criminosas, conforme exposto acima, na medida em que há conversas recentes do réu, extraídas do celular pela perícia (evento 113), em que menciona o recebimento de drogas, a contabilização do material e, inclusive, informações de que ele "fazia o corre", ou seja, comercializava os tóxicos naquela região.”(e-doc. 3, p. 4)
+
+9. O Tribunal de Justiça, ao apreciar a apelação defensiva, manteve a conclusão do Juízo sentenciante, destacando que, embora o acusado fosse primário e não ostentasse maus antecedentes, as circunstâncias do caso concreto evidenciariam dedicação à atividade ilícita, sobretudo em razão da quantidade e variedade das drogas apreendidas, bem como do teor das conversas extraídas do aparelho celular, que indicariam comercialização contínua de entorpecentes. Assim consignou:
+
+“Posto isso, assinala-se que as circunstâncias expressas no referido dispositivo – primariedade, bons antecedentes e ausência de dedicação a atividades criminosas ou participação em organização criminosa – constituem prismas de análise para a aplicação, ou não, do benefício.
+A realidade retratada nos autos, no entanto, vai de encontro àqueles pressupostos, porquanto, a despeito da primariedade e da inexistência de maus antecedentes, as circunstâncias que permearam o episódio permitem denotar que este não foi um fato isolado na vida do acusado e indicam seguramente que vinha se dedicando a atividades criminosas, haja vista que, além da considerável quantidade e variedade dos tóxicos apreendidos, as conversas extraídas do telefone celular consigo apreendido - parte delas transcritas nas alegações finais e contrarrazões recursais do órgão acusatório (eventos 117.1 da ação penal e 15.1 destes autos) evidenciam a contínua comercialização espúria, o que, por si só, impede a incidência da benesse à hipótese em apreço.” (e-doc. 4, p. 9; grifos nossos)
+
+10. O Superior Tribunal de Justiça salientou que “a negativa da minorante do § 4º do art. 33 da Lei nº 11.343/06 baseou-se na conclusão das instâncias ordinárias de que o réu se dedicava às atividades criminosas, conforme evidenciado por provas extraídas de seu aparelho celular, exigindo igualmente revolvimento de fatos e provas, o que encontra obstáculo na jurisprudência consolidada do Superior Tribunal de Justiça” (e-doc. 7, p. 2; grifos nossos).
+
+11. Desse modo, percebe-se que os contornos do delito, da forma como retratados nas instâncias ordinárias, revelam o não cabimento da minorante do tráfico privilegiado. As premissas estão em consonância com a jurisprudência do Supremo Tribunal Federal:
+
+“(...) 7. Segundo o STF, a “causa de diminuição prevista no § 4º do art. 33 da Lei nº 11.343/2006 é aplicada desde que o agente seja primário, possua bons antecedentes, não se dedique às atividades criminosas nem integre organização criminosa. Em observância aos princípios da individualização da pena e da fundamentação das decisões judiciais, o afastamento do benefício deve ser embasado em elementos concretos que indiquem o não preenchimento dos requisitos legais” (HC 203.235-AgR, Rel. Min. Edson Fachin). 8. Hipótese de paciente definitivamente condenado a 9 anos, 4 meses e 15 dias de reclusão, pelo tráfico interestadual de entorpecentes. Em que pese a primariedade do acionante, as instâncias de origem fixaram a pena-base em patamar acima do mínimo legal em razão da quantidade da droga apreendida (580 kg de maconha e 21,500 kg de cocaína). Da mesma forma, deixaram de aplicar a minorante do art. 33, § 4º, da Lei nº 11.343/2006, com base em dados objetivos da causa, especialmente porque “ficou demonstrado que o acusado está envolvido com organização criminosa, uma vez que o modus operandi indica o envolvimento de grupo especializado no transporte de drogas da região de fronteira do Mato Grosso do Sul para outros Estados do país”. 9. Eventual acolhimento da tese defensiva no sentido de que o paciente não se dedica a atividades criminosas demandaria o revolvimento do conjunto fático-probatório, inviável em sede de habeas corpus. 10. Agravo regimental a que se nega provimento.”
+(HC nº 222.084-AgR/MS, Rel. Min. Roberto Barroso, Primeira Turma, j. 19/12/2022, p. 06/02/2023; grifos nossos).
+
+“AGRAVO INTERNO EM HABEAS CORPUS. TRÁFICO PRIVILEGIADO AFASTADO COM FUNDAMENTO NA DEDICAÇÃO A ATIVIDADE CRIMINOSA. NECESSÁRIO REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO. INVIABILIDADE DA VIA ELEITA. REGIME FECHADO IDONEAMENTE FUNDAMENTADO. HABEAS CORPUS INDEFERIDO. 1. A conduta social, os maus antecedentes, a reincidência, o concurso de agentes, as circunstâncias da apreensão e a quantidade de drogas são elementos aptos a indicar a dedicação do agente a atividade criminosa, que, por sua vez, é fundamento idôneo para afastar a minorante do tráfico privilegiado. 2. É inadmissível, na via estreita do habeas corpus, a qual não comporta dilação probatória, o reexame, com vistas ao acolhimento da tese defensiva – reconhecimento do tráfico privilegiado (art. 33, § 4º, da Lei n. 11.343/2006) –, do conjunto fático-probatório que levou o Tribunal de origem a concluir pela “efetiva dedicação do acusado ao comércio ilegal”. 3. A natureza e a quantidade de substância entorpecente apreendida são fundamentos idôneos para a imposição de regime mais gravoso. 4. Agravo interno desprovido.”
+(HC nº 205.432-AgR/SP, Rel. Min. Nunes Marques, Segunda Turma, j. 04/11/2021, p. 08/02/2022; grifos nossos).
+
+“AGRAVO REGIMENTAL EM HABEAS CORPUS. PROCESSO PENAL. EXECUÇÃO PROVISÓRIA DA PENA. PREJUÍZO. IMPETRAÇÃO FORMALIZADA CONTRA DECISÃO MONOCRÁTICA DE INDEFERIMENTO LIMINAR EM HABEAS CORPUSENDEREÇADO A TRIBUNAL SUPERIOR. APLICAÇÃO DA SÚMULA 691/STF. NÃO CONHECIMENTO. INEXISTÊNCIA DE ILEGALIDADE EVIDENTE OU TERATOLOGIA. DESCABIMENTO DE SUPERAÇÃO SUMULAR. TRÁFICO DE DROGAS. MINORANTE. DEDICAÇÃO DO AGRAVANTE A ATIVIDADES CRIMINOSAS. REFORMATIO IN PEJUS. INEXISTÊNCIA. AGRAVO REGIMENTAL DESPROVIDO. 1. Ordem concedida pelo STJ para conferir ao ora paciente o direito de recorrer em liberdade até o trânsito em julgado da sentença penal condenatória. Prejuízo. 2. A teor da Súmula 691/STF, é inadmissível a impetração de habeas corpus contra decisão denegatória de liminar, salvo em hipóteses excepcionais, em que o impetrante demonstre a existência de flagrante ilegalidade, abuso de poder ou teratologia na decisão hostilizada. 3. Inocorrência das hipóteses de excepcional superação do verbete sumular. 4. A causa de diminuição prevista no § 4º do art. 33 da Lei 11.343/2006 é aplicada desde que o agente seja primário, de bons antecedentes, não se dedique às atividades criminosas nem integre organização criminosa. 5. Em se tratando de requisitos negativos a serem avaliados pelas instâncias próprias segundo as particularidades de cada caso, não há ilegalidade na decisão que não aplica a minorante com respaldo em evidências de se dedicar o agravante a atividades criminosas. 6. Reformatio in pejus. Inexistência. Precedentes. 7. Agravo regimental prejudicado quanto às alegações sobre a execução provisória da pena, e desprovido, no mais.”
+(HC nº 154.090-AgR/SP, Rel. Min. Edson Fachin, Segunda Turma, j. 14/02/2022, p. 08/04/2022; grifos nossos).
+
+12. Além disso, assentada pelas instâncias ordinárias a dedicação do paciente a atividades criminosas, a partir de dados concretos, alcançar conclusão diversa demandaria o reexame do acervo fático-probatório, incabível na via estreita do habeas corpus. A propósito, confira-se:
+
+“AGRAVO REGIMENTAL NO HABEAS CORPUS. CONSTITUCIONAL. TRÁFICO DE ENTORPECENTE. CAUSA DE DIMINUIÇÃO DO § 4º DO ART. 33 DA LEI N. 11.343/2006: DEDICAÇÃO DO AGRAVANTE A ATIVIDADES CRIMINOSAS. NECESSIDADE DE REEXAME DE FATOS E PROVAS. REGIME INICIAL FECHADO IMPOSTO COM FUNDAMENTAÇÃO IDÔNEA. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO.”
+(HC nº 209.574-AgR/MG, Rel. Min. Cármen Lúcia, Primeira Turma, j. 14/02/2022, p. 17/02/2022; grifos nossos).
+
+“AGRAVO REGIMENTAL EM HABEAS CORPUS. SENTENÇA CONDENATÓRIA TRANSITADA EM JULGADO. UTILIZAÇÃO DE HABEAS CORPUS COMO SUCEDÂNEO DE REVISÃO CRIMINAL. INVIABILIDADE. TRÁFICO PRIVILEGIADO AFASTADO COM FUNDAMENTO NA DEDICAÇÃO A ATIVIDADE CRIMINOSA. NECESSÁRIO REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO. INADMISSIBILIDADE DA VIA ELEITA. HABEAS CORPUS NÃO CONHECIDO. 1. É inviável a utilização de habeas corpus como sucedâneo de revisão criminal. 2. A existência de ações penais em curso constitui premissa idônea e válida a evidenciar a dedicação a atividade criminosa e justificar o afastamento do tráfico privilegiado. 3. É inadmissível, na via estreita do habeas corpus, a qual não comporta dilação probatória, o reexame, com vistas ao acolhimento da tese defensiva – aplicação do tráfico privilegiado (Lei n. 11.343/2006, art. 33, § 4º) –, do conjunto fático-probatório produzido nas instâncias ordinárias, que as levou a concluir pela “dedicação às atividades criminosas como verdadeiro meio de vida”. 4. Agravo interno desprovido.”
+(HC nº 201.617-AgR/AM, Rel. Min. Nunes Marques, Segunda Turma, j. 23/11/2021, p. 17/12/2021; grifos nossos).
+
+13. Ante o exposto, denego a ordem de habeas corpus, com fundamento no art. 192 do RISTF.
+
+Publique-se.
+
+Brasília, 24 de fevereiro de 2026.
+
+Ministro ANDRÉ MENDONÇA
+Relator
