@@ -1,0 +1,81 @@
+DECISÃO:
+Cuida-se de reclamação constitucional, com pedido de tutela de urgência, ajuizada pelo Serviço Federal de Processamento de Dados - Serpro contra decisão proferida pelo Juízo da 12ª Vara do Trabalho do Recife, nos autos do Processo nº 0001316-82.2024.5.06.0012, mediante a qual se teria afrontado a autoridade do Supremo Tribunal Federal e a eficácia do que decidido na ADPF’s nº 275/PB e 387/DF.
+O Serpro alega ser
+
+“uma empresa pública federal, criada em 1964 pela Lei nº 4.516 e regida pela Lei nº 5.615, de 13/10/1970 e pelo Decreto nº 6.791/2009 (Estatuto Social), para atuar, basicamente, com a criação de soluções em tecnologia da informação e comunicação para o Governo Federal. Atualmente está vinculada ao Ministério da Fazenda, sendo de propriedade integral da União.” (e-doc. 1, p. 1).
+
+Afirma que as atividades por si desempenhadas são essenciais, eis que atua em regime de exclusividade para diversos sistemas estratégicos do Estado brasileiro e não possui intuito lucrativo primário.
+Enfatiza a decisão tomada na Ação Cível Originária nº 2.658, no bojo da qual
+“foi reconhecida a imunidade tributária do Serviço Federal de Processamento de Dados (Serpro) quanto a impostos estaduais e extinguiu débito de ICMS que vinha sendo cobrado pelo Distrito Federal relativo a serviços de telecomunicações prestados pela empresa pública entre os anos de 2005 e 2010, no valor de R$ 124,4 milhões.” (e-doc. 1, p. 6).
+
+Sustenta, dessa perspectiva, que a decisão reclamada, ao não reconhecer a sujeição ao regime de precatórios ao SERPRO, teria violado a eficácia dos paradigmas.
+Menciona, a título de reforço, a decisão proferida nos autos da Reclamação nº 69.571, na qual foi determinada a suspensão de medidas executivas contra a Companhia Estadual de Águas e Esgotos do Rio de Janeiro – CEDAE, sendo que “a aplicabilidade dessa orientação ao SERPRO é direta e incontestável” (e-doc. 1, p. 7).
+Requer, no pedido liminar, a suspensão de quaisquer valores, bloqueios ou penhoras em desfavor do SERPRO, bem como a determinação de que a execução da dívida seja processada exclusivamente por meio do regime de precatórios disposto no art. 100 da Constituição Federal.
+Postula, no mérito, a procedência da presente reclamação para cassar a decisão reclamada, confirmando-se a medida liminar.
+É o relatório. Decido.
+Registro que a jurisprudência do STF admite a mitigação da regra do inc. III do art. 989 do CPC, de modo que eventual contraditório se estabeleça após o juízo de procedência fundado em precedente vinculante e/ou reiterada jurisprudência da Corte em torno do paradigma, propiciando maior reflexão no exercício da contraposição em sede reclamatória, em atenção ao princípio da cooperação processual disciplinado no art. 6º do CPC (v.g. Rcl nº 67657 AgR, Rel. Min. Flávio Dino, Primeira Turma, DJe de 10/10/24; Rcl nº 68599 AgR, de minha relatoria, Segunda Turma, DJe de 18/9/24 e Rcl nº 58665 AgR, Rel. Min. André Mendonça, Segunda Turma, DJe de 2/7/24).
+Passo à análise da reclamação.
+In casu, verifico que a presente reclamação volta-se contra sentença proferida pelo Juízo da 12ª Vara do Trabalho do Recife, nos autos do Processo nº 0001316-82.2024.5.06.0012, que julgou procedente a Ação Civil Pública ajuizada pelo Sindicato dos Trabalhadores Em Processamento de Dados, Informática e Tecnologia da Informação do Estado de Pernambuco nos seguintes termos (extraído do sítio eletrônico do TRT 6):
+
+“- Mérito-
+Aposentadoria  Compulsória  de  Empregado  Público.  Limite Etário. Emenda Constitucional nº 103/2019.
+O cerne da controvérsia reside em definir se o SERPRO, empres apública federal, pode extinguir o contrato de trabalho de seus empregados celetistas ao atingirem a idade de 70 anos, com base na chamada aposentadoria compulsória.
+O sindicato autor sustenta a ilegalidade da medida.
+Argumenta que o art. 201, § 16, da Constituição Federal, inserido pela Emenda Constitucional nº 103/2019, que prevê a aposentadoria compulsória para empregados de empresas públicas, é norma de eficácia limitada e depende de lei complementar específica, ainda não editada.
+Defende que, até a edição de tal lei, permanece o entendimento anterior do STF de que a regra de aposentadoria compulsória do art. 40 da CF não se aplica a empregados públicos regidos pela CLT.
+A  empresa  ré,  por  sua  vez,  defende  a  legalidade  e obrigatoriedade do ato. Sustenta que a EC nº 103/2019 tornou a regra autoaplicável, eque a expressão ‘na forma estabelecida em lei’ remete à legislação já existente que rege o vínculo, no caso, a Lei n. 8.213/91, cujo art. 51 prevê a aposentadoria por idade aos 70 anos, a qual pode ser requerida pela empresa, tornando-se compulsória. Cita jurisprudência convergente com sua tese.
+A questão é unicamente de direito e sua solução passa pela interpretação  do  novo  cenário  constitucional  após  a  Emenda  nº  103/2019,  no  que acolho os fundamentos expostos pelo sindicato autor, corroborados pelo parecer do Ministério Público do Trabalho (ID 9f5a88d) e pela jurisprudência do Egrégio Tribunal Regional do Trabalho da 6ª Região.
+A Emenda Constitucional nº 103/2019, de fato, inseriu o § 16 ao art. 201 da Constituição, prevendo a aposentadoria compulsória para empregados de empresas públicas. Contudo, o fez com a ressalva expressa de que tal aposentadoria ocorreria ‘na forma estabelecida em lei’.
+Tal expressão confere à norma constitucional uma natureza de eficácia  limitada,  ou  seja,  sua  aplicabilidade  plena  depende  da  edição  de  uma  lei posterior que a regulamente.
+Não se pode admitir, como pretende a ré, que uma lei ordinária preexistente (Lei n. 8.213/91) sirva para regulamentar uma alteração constitucional futura e de tamanho impacto.
+A lógica do sistema jurídico impõe que a lei regulamentadora seja posterior e específica para os fins previstos na nova norma constitucional.
+(...)
+Dessa  forma,  conclui-se  que  a  aplicação  da  aposentadoria compulsória a empregados públicos depende de lei regulamentadora, e, esta, por ora, inexiste no ordenamento jurídico. A conclusão lógica é que a ameaça da reclamada de dispensar  seus  empregados  com  base  em  tal  fundamento  constitui  ato  ilegal,  por ausência de amparo normativo.
+Portanto,  a  pretensão  da  ré  de  aplicar  a  aposentadoria compulsória aos seus empregados é ilegal e deve ser coibida pelo Poder Judiciário.
+Julgo procedente o pedido para determinar que a reclamada se abstenha  de  dispensar  seus  empregados  públicos  (seja  aos  70  ou  75  anos)  com fundamento  na  aposentadoria  compulsória,  até  que  sobrevenha  lei  específica  que regulamente o art. 201, § 16, da CF. Por consequência,  o pedido de julgo procedente reintegração, formulado no aditamento (ID 915c8e7), para o caso de algum empregado ter sido dispensado com base neste fundamento no curso da ação, com o pagamento das remunerações vencidas e vincendas, inclusive férias acrescidas da gratificação de 1/3, 13º salário e FGTS.
+(...)
+- Da indenização por dano moral coletivo.
+O sindicato autor pleiteia a condenação da ré ao pagamento de indenização por dano moral coletivo, ao argumento de que a empresa praticou assédio moral e coação ao vincular o anúncio da aposentadoria compulsória a um Plano de Demissão  Voluntária  (PDV)  com  prazo  exíguo,  gerando  um  ambiente  de  medo  e pressão sobre os trabalhadores idosos.
+Em  suma,  a  indenização  deve  ser  fixada,  conforme  o  já explanado,  tendo  em  conta  a  repercussão  do  ato  na  comunidade,  o  desgaste  ou intensidade de sofrimento do ofendido, bem como sua condição social, a situação socioeconômica do ofensor, considerando-se aspectos individuais, como a ocorrência de práticas reiteradas de ofensas da mesma natureza e gravidade e a intensidade do dolo ou culpa, e a existência de retratação.
+Esses  critérios  devem  ser  aplicados  de  modo  que  a  verba reparatória apresente caráter pedagógico, desestimulando a repetição de condutas negligentes, mas à luz do princípio da proporcionalidade, de modo que o valor não seja causa de enriquecimento ou empobrecimento sem causa das partes.
+No caso em análise, considero devida a indenização pretendida.
+(...)
+3 – DISPOSITIVO
+Ante o exposto e considerando o mais que dos autos consta:
+1 –  REJEITO as preliminares arguidas pela ré;REJEITO
+2 – RATIFICO a  tutela  de  urgência  deferida,  conforme fundamentação;
+2 – Julgo PROCEDENTE a  Ação  Civil  Pública  ajuizada  pelo SINDICATO DOS TRABALHADORES EM PROCESSAMENTO DE DADOS, INFORMÁTICA E TECNOLOGIA DA INFORMAÇÃO DO ESTADO DE PERNAMBUCO – SINDPD/PE em face do SERVIÇO FEDERAL DE PROCESSAMENTO DE DADOS – SERPRO, para condená-la nas obrigações constantes da fundamentação supra, que integra este dispositivo para os seus legais efeitos (...)” (PJE, Id 3afb47a)
+
+Os embargos de declaração, por sua vez, foram rejeitados nos seguintes termos:
+
+“Quanto ao terceiro ponto — regime de precatórios e prerrogativas da Fazenda Pública —, trata-se de matéria não debatida nos autos nem objeto da sentença embargada, configurando inequívoca inovação recursal, inadmissível na via dos embargos de declaração. Os embargos declaratórios não se prestam à introdução de novos temas ou ao alargamento do objeto da lide. Ao apontar os motivos para o ajuizamento dos seus embargos declaratórios neste ponto, a embargante, na verdade, almeja revolver matéria estranha ao decisum hostilizado.
+Em remate: não vislumbro, quanto aos pontos 1 e 3, a existência de quaisquer dos vícios autorizadores do manejo dos Embargos Declaratórios previstos no art. 897-A, da CLT, e 1.022, do CPC.
+Há que se destacar, ad argumentandum, que o Juiz não está adstrito a responder, uma a uma, às indagações ou teses apresentadas pelas partes, quando demonstre os aspectos que firmaram o seu convencimento acerca da questão litigiosa:
+‘Dirimida a controvérsia de forma objetiva e fundamentada, não fica o órgão julgador obrigado a apreciar um a um os questionamentos suscitados pelo embargante, como se órgão de consulta fosse, mormente se notório seu propósito de reforma do julgado’ (STJ, REsp 573.761-GO, Rel. Min. Castro Meira, Terceira Turma, j. 02.12.2003, DJ 19.12.2003 p. 463).
+Ademais, não há necessidade de novo pronunciamento do Juízo quanto a essa matéria nem, sequer, para fins de prequestionamento.
+O Juiz ao proferir sua decisão, não tem obrigação de se pronunciar sobre todos os argumentos trazidos pelas partes, mas de, tão-somente, fundamentar sua decisão.
+Consoante determina a Carta Magna no art. 93, IX, o Juiz deve fundamentar suas decisões, não sendo necessário o pronunciamento sobre todas as teses defendidas pela reclamada. In casu, tendo em vista o amplo efeito devolutivo conferido ao recurso ordinário, caso a parte não se satisfaça com a sentença prolatada, poderá fazê-lo sem qualquer empecilho, eis que o prequestionamento somente é exigido na hipótese de interposição de algum recurso de natureza extraordinária.
+POSTO ISTO e pelo que mais dos autos consta, julgo PARCIALMENTE PROCEDENTES os Embargos de Declaração opostos por SERVIÇO FEDERAL DE PROCESSAMENTO DE DADOS – SERPRO, apenas para prestar os esclarecimentos acima consignados quanto ao segundo ponto, sem qualquer efeito modificativo, mantendo-se em seus exatos termos a sentença embargada. ” (e-doc. 5, p. 2 e 3)
+
+Aponta-se como paradigmas de confronto os acórdãos exarados nas ADPF nºs 275 e 387, os quais enunciam diretriz executória em face de sociedades de economia mista e empresas públicas prestadoras de serviços públicos essenciais e de natureza não concorrencial, de modo a afirmar a aplicação do regime de precatórios, em respeito aos princípios constitucionais do sistema financeiro e orçamentário e à harmonia entre os Poderes.
+In casu, trata-se de procedimento executório movido contra o Serviço Federal de Processamento de Dados (SERPRO), empresa pública, criada pela Lei nº 4.516/1964, vinculada ao Ministério da Fazenda, que “tem por objeto a execução de serviços de tratamento de informações e processamento de dados, através de computação eletrônica ou eletromecânica, a prestação de assistência no campo de sua especialidade” (art. 1º da a Lei nº 5.615/1970).
+No julgamento da ACO nº 2658 (Dje de 11/04/2018), ao concluir que o SERPRO preenche os requisitos necessários para gozar dos benefícios da imunidade tributária prevista no art. 150, VI, a, da Constituição Federal, o Ministro Roberto Barroso bem desenhou acerca da sua natureza jurídica:
+
+“10. Com efeito, os documentos acostados aos autos indicam que a empresa pública presta serviços de tratamento de informações e de processamento de dados que visam modernizar e dar agilidade a setores estratégicos da Administração Pública. Vale destacar alguns dispositivos da Lei nº 5.615/1970, que disciplina a atuação do SERPRO:
+
+‘Art. 1º. O serviço Federal de Processamento de Dados (SERPRO), criado pela Lei nº 4.516, de 1 de dezembro de 1964, empresa pública, vinculada ao Ministério da Fazenda, tem por objeto a execução de serviços de tratamento de informações e processamento de dados, através de computação eletrônica ou eletromecânica, a prestação de assistência no campo de sua especialidade.
+Art. 2º. É dispensada a licitação para a contratação do Serviço Federal de Processamento de Dados - SERPRO pela União, por intermédio dos respectivos órgãos do Ministério da Fazenda e do Ministério do Planejamento, Orçamento e Gestão, para a prestação de serviços de tecnologia da informação considerados estratégicos, relacionados com as atividades de sua especialização. (…)
+Art. 2º-B. É o SERPRO autorizado a aplicar a disponibilidade de sua capacidade técnica e operacional na execução de serviços que venham a ser contratados com outros órgãos e entidades, desde que garantida a disponibilidade de recursos necessários aos órgãos dos Ministérios da Fazenda e do Planejamento, Orçamento e Gestão. (…)
+Art. 13. Através de ajuste com os órgãos do Ministério da Fazenda, o SERPRO oferecerá assistência necessária à adaptação dos métodos e sistemas adotados pela administração fazendária ao processamento de informações.
+Art. 14. No que se refere ao patrimônio, à renda e aos serviços vinculados às suas finalidades essenciais ou delas decorrentes, o SERPRO goza de isenção de impostos federais. (…).’
+11. Apesar de o serviço de comunicação e de processamento de dados não ser prestado pelo Estado de forma exclusiva, da legislação apresentada e dos documentos acostados aos autos, conclui-se que o SERPRO desenvolve atividades essenciais ao funcionamento do Estado brasileiro desde a sua criação, na década de 60. Verifica-se, ainda, que os serviços desenvolvidos pelo autor envolvem também segurança da informação em prol do bem-estar coletivo. Além disso, as atividades desenvolvidas estão fora do ambiente concorrencial, o que a diferencia de uma empresa pública exploradora de atividade econômica”.
+
+Dessa perspectiva, realizado o cotejo entre os atos reclamados e os paradigmas de confronto, tenho que a autoridade reclamada não considerou o fato de a empresa ora reclamante prestar serviço público essencial em caráter não concorrencial e sem fins lucrativos, fato esse que atrai o privilégio de ser executada pelo regime dos precatórios, conforme entendimento firmado por esta Suprema Corte nos julgamentos dos aludidos paradigmas vinculantes.
+Pelo exposto, nos termos do art. 161, parágrafo único, do Regimento Interno desta Suprema Corte, julgo procedente a presente reclamação para cassar a decisão reclamada, proferida os autos do Processo nº 0001316-82.2024.5.06.0012, no que toca ao afastamento da aplicação do regime de precatórios à empresa pública, e determino que novo julgamento seja realizado à luz dos precedentes vinculantes desta Suprema Corte.
+Envie-se cópia dessa decisão à autoridade reclamada para que junte aos autos do processo em referência, dando publicidade ao ato de juntada para ciência à parte beneficiária do ato reclamado (ora cassado) do trâmite da presente ação e início do prazo recursal no STF, ficando essa parte beneficiária igualmente certificada de que, na hipótese da apresentação de recurso no STF, deverá necessariamente comprovar a data em que foi notificada, sob pena de não conhecimento.
+Publique-se.
+Brasília, 24 de fevereiro de 2026.
+
+Ministro DIAS TOFFOLI
+Relator
+Documento assinado digitalmente
