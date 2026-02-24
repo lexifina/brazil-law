@@ -1,0 +1,35 @@
+DECISÃO:
+Vistos.
+Cuida-se de reclamação constitucional ajuizada por Alipio Aparecido Raimundo contra ato do Juiz Direito da 3ª Vara Criminal da Comarca de Itanhaém/SP, que nos autos do Processo nº 1500688-31.2021.8.26.0266, teria violado jurisprudência consolidada desta Suprema Corte.
+A parte reclamante narra que
+ “A situação dos autos é precisamente a que a jurisprudência desta Corte busca coibir, ou seja, a instauração de uma ação penal temerária, baseada na convicção subjetiva do acusador, e não em fatos concretos e provados. A denúncia oferecida contra o Reclamante é um exemplo claro de peça acusatória que não cumpre os requisitos do artigo 41 do Código de Processo Penal, pois narra fatos que simplesmente não existem no acervo probatório colhido.” (e-doc. 1, p. 4)
+Sustenta, em síntese, violação das garantias constitucionais e a ausência de justa causa para ação penal, uma vez que “a persecução penal não pode ser iniciada com base em acusações genéricas, abstratas ou que não encontrem suporte em elementos probatórios mínimos.”(e-doc. 1, p. 3)
+Nesse sentido, entende que
+“o recebimento da denúncia sem uma análise efetiva do suporte probatório mínimo, caracteriza flagrante ofensa às garantias constitucionais do Acusado, impondo-se o trancamento da ação penal por manifesta ausência de justa causa, haja vista que o MM Juiz, sequer analisou as informações contidas na única prova da acusação, ou seja, a declaração unilateral de Everton informando que o único contato que teve com o Reclamante se deu no ano de 2020, momento em que este não fazia parte da respectiva ação penal. Ainda, no que tange a ser testemunha, Everton afirma que o Reclamante pediu / solicitou se este poderia testemunhar a favor de Saimom.” (e-doc. 1, p. 10)
+Por fim, requer
+“a) A concessão de medida liminar para determinar o sobrestamento da Ação Penal nº 1500688-31.2021.8.26.0266, em trâmite perante a 3ª Vara Criminal da Comarca de Itanhaém/SP, até o julgamento do mérito da presente Reclamação Constitucional;
+(...)
+d) Ao final, seja julgada procedente a presente Reclamação Constitucional para cassar a decisão que recebeu a denúncia e determinar o trancamento da Ação Penal nº 1500688- 31.2021.8.26.0266, por ausência de justa causa e atipicidade da conduta;” (e-doc. 1, p. 20)
+
+É o relatório. Decido.
+Por atribuição constitucional, presta-se a reclamação para preservar a competência do STF e garantir a autoridade de suas decisões (art. 102, inciso I, alínea l, CF/88), bem como para resguardar a correta aplicação das súmulas vinculantes (art. 103-A, § 3º, CF/88).
+Não há, nos autos, i) argumentos e provas atinentes a eventual usurpação de competência do STF pela autoridade reclamada ou ii) indicação de súmula vinculante ou decisão desta Suprema Corte com efeito vinculante erga omnes ou proferida em processo de índole subjetiva de que as partes reclamante e beneficiária tenham participado, não sendo possível conhecer da presente reclamação por absoluta ausência de parâmetro de controle. Nesse sentido:
+“CONSTITUCIONAL E PROCESSUAL CIVIL. AGRAVO INTERNO EM RECLAMAÇÃO. AUSÊNCIA DE PARADIGMA DE CONFRONTO. IMPOSSIBILIDADE DE UTILIZAR A RECLAMAÇÃO COMO SUCEDÂNEO RECURSAL. AGRAVO A QUE SE NEGA PROVIMENTO. 1. A Reclamação é manifestamente incabível, uma vez que o reclamante, em sua peça inicial, deixou de apresentar paradigma de confronto com efeitos vinculantes ou um ato caracterizador de usurpação da competência desta CORTE, requisitos essenciais para a admissibilidade deste instrumento. 2. Esta CORTE já teve a oportunidade de afirmar que a reclamação tem escopo bastante específico, não se prestando ao papel de simples substituto de recursos de natureza ordinária ou extraordinária (Rcl 6.880-AgR, Rel. Min. CELSO DE MELLO, Pleno, DJe de 22/2/2013). 3. Recurso de agravo a que se nega provimento. (Rcl nº 32.996-AgR, Primeira Turma, Min. Rel. Alexandre De Moraes,  DJe de 12/4/19).
+
+“DIREITO PROCESSUAL CIVIL. AGRAVO INTERNO EM RECLAMAÇÃO. SINDICATO. LEGITIMIDADE ATIVA. ALEGAÇÃO DE OFENSA À AUTORIDADE DE DECISÃO PROFERIDA EM PROCESSO SUBJETIVO. AUSÊNCIA DE EFEITO VINCULANTE.  1. Agravo interno em reclamação ajuizada sob a alegação de ofensa à autoridade da decisão proferida por esta Corte no RE 210.029, Rel. Min. Carlos Velloso, referendada no julgamento do RE 1.311.500. 2. As decisões invocadas foram proferidas em processos de índole subjetiva, desprovidos de eficácia erga omnes ou efeito vinculante, o que afasta o cabimento da reclamação. 3. Agravo interno a que se nega provimento.” (Rcl 58.278-AgR, Relator(a): Roberto Barroso, Primeira Turma, julgado em 03-05-2023)
+
+É inepta a petição inicial da reclamação constitucional que i) não assinala fundamentadamente a competência constitucional do STF que estaria sendo usurpada no caso concreto ou ii) não indica paradigma (súmula vinculante, decisão do STF proferida na sistemática de precedentes obrigatórios ou decisão proferida por esta Corte em processos subjetivo do qual foi parte e que estaria tendo sua eficácia violada na solução do caso concreto já analisado), confrontando-o, analiticamente, com o teor da decisão reclamada, a qual deve ser identificada com precisão; como no caso dos autos.
+No caso, a parte reclamante alega o descumprimento de decisões do Supremo Tribunal Federal que coíbem a instauração de uma ação penal temerária, baseada na convicção subjetiva do acusador, e não em fatos concretos.
+Verifico que a presente reclamação não se encontra alicerçada em nenhuma das hipóteses legais de cabimento, tampouco apresenta causa petendi vinculada a decisão desta Suprema Corte que funcione como paradigma específico.
+O reclamante vale-se da presente reclamação constitucional para alegar violação à jurisprudência consolidada do STF e o descumprimento do artigo 41 do Código de Processo Penal.
+Contudo, observo que a parte reclamante deixa de indicar precedente com eficácia vinculante que legitime a propositura desta ação, uma vez que o parâmetro apontado como violado é “o entendimento pacificado por esta Corte em inúmeros julgados.”
+Assim, não há decisão do STF com efeito vinculante erga omnes ou enunciado de súmula vinculante indicado como paradigma de confronto de modo a legitimar a utilização desta via processual por desrespeito à autoridade desta Suprema Corte.
+Destaco, dessa forma, que a atecnia na formulação do incidente atrai o não conhecimento da presente reclamação, a qual, por atribuição constitucional, presta-se para preservar a competência do STF e garantir a autoridade das decisões deste Tribunal (art. 102, inciso I, alínea l, CF/88), bem como para resguardar a correta aplicação das súmulas vinculantes (art. 103-A, § 3º, CF/88).
+Ante o exposto, nego seguimento à reclamação, nos termos do artigo 21, § 1º, do RISTF. Prejudicada a apreciação do pedido liminar.
+Certifique-se o trânsito em julgado, com a consequente baixa imediata dos autos ao arquivo,  independentemente de publicação da decisão.
+Publique-se.
+Brasília, 24 de fevereiro de 2026.
+
+Ministro DIAS TOFFOLI
+Relator
+Documento assinado digitalmente
