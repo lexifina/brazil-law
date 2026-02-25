@@ -1,0 +1,83 @@
+Decisão
+
+Trata-se de Reclamação, com pedido de liminar, ajuizada por Central de Gestão e Saúde Ltda. e Outros contra decisão proferida pela Vice-Presidência do Tribunal Regional Federal da 3ª Região (Processo 5016193-18.2020.4.03.6100), que teria desrespeitado a autoridade da decisão prolatada no julgamento dos Embargos de Declaração do Tema 985-RG, RE 1.072.485, Redator do acórdão Min. ROBERTO BARROSO.
+As Reclamantes apresentam as seguintes alegações de fato e de direito (Doc. 01):
+
+“A controvérsia da presente Reclamação tem origem nos autos do Mandado de Segurança nº 5016193-18.2020.4.03.6100 (DOC. 04), impetrado em 20/08/2020, visando a declaração do direito das Reclamantes de excluir, da base de cálculo das contribuições previdenciárias previstas no artigo 22, incisos I e II da Lei nº 8.212/91 e das contribuições destinadas a terceiros, as seguintes verbas: (i) valor pago nos primeiros 15 (quinze) dias de afastamento por motivo de doença; (ii) montante pago ao empregado afastado por motivo de doença, comprovado por atestado médico; (iii) aviso prévio indenizado e suas projeções; (iv) férias gozadas; (v) terço constitucional de férias; (vi) décimo terceiro salário; (vii) adicional noturno; (viii) adicional de horas extras; (ix) salário-maternidade; (x) salário família; (xi) adicional de insalubridade; (xii) adicional de periculosidade e (xiii) adicional de transferência.
+A sentença concedeu parcialmente a segurança para assegurar o direito de exclusão, da base de cálculo das contribuições de parte das verbas tratadas na ação, bem como o direito à compensação/restituição dos valores indevidamente recolhidos desde os 05 anos anteriores ao ajuizamento da ação, atualizados pela Taxa Selic.
+[...]
+Em segunda instância, o recurso foi parcialmente provido e a sentença parcialmente reformada, assegurando-se a não incidência de contribuição previdenciária e de terceiros sobre as seguintes verbas: (i) salário maternidade; (ii) 15 primeiros dias de afastamento e (iii) Aviso Prévio; indenizado. Também ficou assegurado o direito à compensação ou restituição administrativa ou via precatório do indébito desde o quinquênio que antecede o Mandado de segurança. Nessa ocasião, o E. TRF3 entendeu pela incidência de contribuição previdenciária e de terceiros sobre diversas verbas tratadas na ação, entre elas, o terço constitucional de férias gozadas.
+Em face deste Acórdão, as Reclamantes opuseram os Embargos de Declaração de ID. 266636934, apontando, entre outras questões, a necessidade de o feito permanecer suspenso até o julgamento dos Embargos de Declaração pendentes de análise pelo STF no âmbito do leading case do Tema 985 (terço de férias), tratando de modulação dos efeitos quanto ao precedente e, portanto, aptos a influenciar o desfecho do presente processo.
+No julgamento deste recurso, a Turma reconheceu a existência de pendência de Embargos de Declaração no paradigma de Repercussão Geral, tratando de modulação de efeitos, capaz de modificar o alcance da tese fixada. No entanto, em vez de determinar a suspensão dos autos, deu parcial provimento aos aclararórios, apenas para deixar consignado a necessidade de adaptação (futura) do acórdão ao que resultasse do julgamento dos mencionados Embargos de Declaração, pelo STF, no Tema 985.
+[...]
+A i. Vice-Presidência do TRF3, após verificar que a matéria controvertida nos autos se amoldava à discussão do RE n.º 1.072.485/PR (Tema n.º 985), determinou o sobrestamento do feito “até que seja ultimado o julgamento dos Embargos de Declaração opostos nos autos do RE n.º 1.072.485/PR, nos termos dos arts. 1.035, § 5.º e 1.037, II do CPC.” (ID. 278862730).
+[...]
+Diante desse contexto, formulou-se pedido de remessa dos autos à Turma de Origem, a fim de que, em juízo de retratação, o acórdão ID 273861421 fosse efetivamente adequado, para: (i) declarar a incidência das contribuições previdenciárias previstas no art. 22, inc. I e II da Lei nº 8.212/91 (patronal e RAT) e de terceiros sobre o terço constitucional de férias, a partir de 15/09/2020 (marco da modulação); (ii) declarar o direito de reaver os valores recolhidos desde os 5 (cinco) anos anteriores à propositura da ação, atualizado pela SELIC, via compensação ou restituição judicial.
+No entanto, a Vice-Presidência, por meio da decisão monocrática ID 307219864 (DOC.03), (ii) indeferiu o pedido de remessa dos autos à Turma de Julgamento sob o fundamento de que não havia nada a prover quanto ao pedido de adequação do Acórdão; (ii) declarou a perda de objeto do Recurso Extraordinário na parte em que impugnavam a decisão quanto ao terço constitucional de férias.
+[...]
+Ressalta-se que, quanto aos pleitos recursais que foram objetos de inadmissão, as Reclamantes apresentaram o competente Agravo em Recurso Extraordinário. Já em relação à parte da decisão que indeferiu o requerimento formulado na petição de ID n. 293592806 (remessa à Turma para juízo de adequação quanto à modulação fixada no Tema 985) e que negou seguimento ao Recurso Extraordinário, houve a interposição do Agravo Interno ID. 308657546, já que ERA NECESSÁRIO REMETER OS AUTOS À TURMA DE ORIGEM PARA A EFETIVA READEQUAÇÃO DO ACÓRDÃO, de modo a se aplicar aos autos a modulação definida em relação ao terço constitucional de férias.
+Ato seguinte, os autos foram submetidos a julgamento pelo e. Órgão Especial que, mediante equivocada análise do pleito recursal, por meio do acórdão de ID. 319559564 (DOC.03), decidiu conhecer parcialmente o Agravo Interno, sem se pronunciar acerca do pedido de remessa dos autos à Turma Julgadora para o devido juízo de adequação.
+Tratando-se de evidente omissão, foram opostos Embargos de Declaração ID 320750508. O Órgão Especial, por meio do acórdão de ID. 335166362 (DOC.03), acolheu os aclaratórios opostos, suprindo a omissão relativa à ausência de análise do capítulo do Agravo Interno ID 308657546. Porém, no mérito, negou-lhes provimento, por entender que a providência de remessa dos autos à Tuma Originária para readequação do acórdão já teria sido reconhecida, configurando falta de interesse recursal.
+[...]
+Após a finalização do julgamento dos Embargos de Declaração opostos nos autos do RE n.º 1.072.485 (Tema 985/STF), esse eg. STF definiu a modulação de efeitos nos seguintes termos:
+O Tribunal, por maioria, deu parcial provimento aos embargos de declaração, com atribuição de efeitos ex nunc ao acórdão de mérito, a contar da publicação de sua ata de julgamento, ressalvadas as contribuições já pagas e não impugnadas judicialmente até essa mesma data, que não serão devolvidas pela União. (g.n.)
+A ata de julgamento do acórdão que analisou o mérito do Tema 985 de Repercussão Geral foi publicada em 15/09/2020, conforme consta dos andamentos do referido leading case:
+[...]
+Assim, como as Reclamantes ajuizaram ação judicial em 20/08/2020 impugnando judicialmente as contribuições sobre o terço constitucional dentro do lapso temporal definido na modulação (até 15/09/2020), possuem o direito líquido e certo à sua exclusão da apuração das contribuições previdenciárias previstas no art. 22, inc. I e II da Lei nº 8.212/91, e das contribuições de terceiros, com relação ao período anterior a 15/09/2020, bem como o direito de reaver os valores recolhidos indevidamente desde os 5 (cinco) anos anteriores à propositura da ação.”
+
+Ao final, no mérito, requerem “julgada procedente a presente Reclamação, com a cassação e adequação da decisão ID 307219864, proferida pela Il. Vice-Presidência, integrada pelos acórdãos ID. 319559564, 335166362 e 353157680, proferidos pelo E. Órgão Especial do TRF da 3ª Região (DOC. 03), para promover a integração do acórdão de julgamento de Apelação e Reexame Necessário do Processo de nº 5016193-18.2020.4.03.6100, de modo a constar no julgado o direito das Reclamantes à inexigibilidade de contribuições previdenciárias (cota patronal e RAT) e de terceiros sobre o terço constitucional de férias até 14/09/2020 (ou seja, antes de 15/09/2020, em conformidade com a modulação definida pelo STF no Tema nº 985 de Repercussão Geral), bem como o direito de reaver o indébito correlato na forma já assegurada pelo TRF3, desde os 5 anos anteriores ao ajuizamento da ação”.
+
+É o relatório. Decido.
+
+A respeito do cabimento de Reclamação para o SUPREMO TRIBUNAL FEDERAL, a Constituição da República dispõe o seguinte:
+
+“Art. 102. Compete ao Supremo Tribunal Federal, precipuamente, a guarda da Constituição, cabendo-lhe:
+I - processar e julgar, originariamente:
+[...]
+l) a reclamação para a preservação de sua competência e garantia da autoridade de suas decisões;”
+
+“Art. 103-A. O Supremo Tribunal Federal poderá, de ofício ou por provocação, mediante decisão de dois terços dos seus membros, após reiteradas decisões sobre matéria constitucional, aprovar súmula que, a partir de sua publicação na imprensa oficial, terá efeito vinculante em relação aos demais órgãos do Poder Judiciário e à administração pública direta e indireta, nas esferas federal, estadual e municipal, bem como proceder à sua revisão ou cancelamento, na forma estabelecida em lei;
+[...]
+§ 3º Do ato administrativo ou decisão judicial que contrariar a súmula aplicável ou que indevidamente a aplicar, caberá reclamação ao Supremo Tribunal Federal que, julgando-a procedente, anulará o ato administrativo ou cassará a decisão judicial reclamada, e determinará que outra seja proferida com ou sem a aplicação da súmula, conforme o caso.”
+
+Veja-se também o art. 988, I, II e III, do Código de Processo Civil:
+
+“Art. 988. Caberá reclamação da parte interessada ou do Ministério Público para:
+I - preservar a competência do tribunal;
+II - garantir a autoridade das decisões do tribunal;
+III - garantir a observância de enunciado de súmula vinculante e de decisão do Supremo Tribunal Federal em controle concentrado de constitucionalidade;”
+
+O paradigma invocado é o julgado proferido nos Embargos de Declaração do Tema 985-RG, RE 1.072.485, Redator do acórdão Min. ROBERTO BARROSO. No julgamento dos referidos Embargos de Declaração foi estabelecida a modulação temporal dos efeitos da decisão prolatada no Tema 985-RG, RE 1.072.485
+Na ocasião, o Plenário deste TRIBUNAL julgou os embargos de declaração no seguinte sentido:
+
+“Direito Constitucional e Tributário. Embargos de declaração em recurso extraordinário com repercussão geral. Contribuição previdenciária do empregador. Terço de férias. Modulação de efeitos. Alteração de jurisprudência. Parcial provimento. I. Caso em exame 1. Embargos de declaração que objetivam a modulação dos efeitos do acórdão que reconheceu a constitucionalidade da incidência da contribuição previdenciária do empregador sobre o terço constitucional de férias. II. Questão em discussão 2. Discute-se a presença dos requisitos necessários à modulação temporal dos efeitos da decisão. III. Razões de decidir 3. Em 2014, o Superior Tribunal de Justiça, sob a sistemática dos recursos repetitivos, assentou que o adicional de férias teria natureza compensatória, e, assim, não constituiria ganho habitual do empregado, razão pela qual sobre ele não incidiria contribuição previdenciária patronal. Havia, ainda, diversos precedentes desta Corte no sentido de que a discussão acerca da natureza jurídica e da habitualidade do pagamento das verbas para fins de incidência da contribuição previdenciária seria de índole infraconstitucional. 4. Com o reconhecimento da repercussão geral e o julgamento de mérito deste recurso, há uma alteração no entendimento dominante, tanto no âmbito do próprio Supremo Tribunal Federal quanto em relação ao que decidiu o Superior Tribunal de Justiça em recurso repetitivo. 5. A mudança da jurisprudência é motivo ensejador de modulação dos efeitos, em respeito à segurança jurídica e ao sistema integrado de precedentes. CPC/2015 e decisões desta Corte. IV. Dispositivo 6. Embargos de declaração parcialmente providos, para atribuir efeitos ex nunc ao acórdão de mérito, a contar da publicação de sua ata de julgamento, ressalvadas as contribuições já pagas e não impugnadas judicialmente até essa mesma data, que não serão devolvidas pela União.”
+
+Na presente hipótese, a decisão da Vice-Presidência do Tribunal Regional Federal da 3ª Região, ao inadmitir o Recurso Extraordinário interposto pelas oras Reclamantes contra acórdão proferido pela 1ª Turma de Julgamento do TRF3, assim se pronunciou sobre a questão jurídica controvertida (Doc. 05, fl. 18):
+
+“Extrai-se dos autos que foram acolhidos os Embargos de Declaração opostos nestes autos para consignar a necessidade de adaptação ao que resultar do julgamento dos aclaratórios manejados nos autos do RE n.º 1.072.485/PR, nos quais se discutiu a questão da modulação dos efeitos da decisão, de tal modo que a providência postulada pelo Requerente, no sentido da adaptação do julgado à modulação dos efeitos da tese de repercussão geral, já lhe foi deferida pelo acórdão proferido pela C. Turma julgadora, não havendo nada a prover quanto a tal pleito.
+Passo, pois, ao exame do recurso interposto.
+O recurso não comporta admissão.
+De início, com relação ao terço constitucional de férias, foram acolhidos os Embargos de Declaração opostos nestes autos para consignar a necessidade de adaptação do julgado ao que resultar do julgamento dos aclaratórios manejados nos autos do RE n.º 1.072.485/PR, nos quais se discutiu a questão da modulação dos efeitos da decisão.
+Verifica-se, deste modo, que o presente recurso perdeu o seu objeto quanto a tal pretensão.”
+
+O acórdão proferido pela 1ª Turma de Julgamento do TRF3, ao julgar os embargos de declaração opostos pelas ora Reclamantes, consignou a necessidade de adaptação do julgado quando se efetivasse o julgamento definitivo do Tema 985-RG:
+
+“EMBARGOS DE DECLARAÇÃO. ACOLHIMENTO PARCIAL PARA COMPLEMENTAÇÃO DA FUNDAMENTAÇÃO. TERÇO CONSTITUCIONAL DE FÉRIAS GOZADAS.
+1. Cabíveis os embargos de declaração quando a decisão for omissa, contraditória ou obscura e, ainda, quando contiver erro material.
+2. O RE 1.072.485, no qual se decidiu ser legítima a incidência de contribuição social sobre o terço constitucional de férias gozadas, ainda não transitou em julgado, estando pendentes de apreciação embargos de declaração. Apesar disso, não houve determinação de sobrestamento dos feitos que versem sobre a matéria nas instâncias inferiores, não havendo possibilidade de sobrestamento do presente feito até o trânsito em julgado do precedente relativo ao Tema 985.
+3. Contudo, havendo embargos de declaração pendentes de apreciação no RE 1.072.485, deixo consignado a necessidade de adaptação do presente feito ao que resultar do julgamento dos mencionados aclaratórios (art. 927, III, do Código de Processo Civil).
+4. Demais alegações a empresa e outros embargos. “In casu”, a decisão não contém qualquer vício, pretendendo as embargantes rediscuti-la. As embargantes, na realidade, querem a mudança do entendimento, o que não é possível nos embargos de declaração.
+5. Destaco que o escopo de prequestionar a matéria, para efeito de interposição de recurso especial ou extraordinário, perde a relevância em sede de embargos de declaração se não demonstrada a ocorrência do alegado vício.
+6. Parcial provimento aos embargos de declaração da empresa para determinar a necessária adaptação ao que resultar do julgamento dos embargos de declaração opostos no RE 1.072.485, tudo nos termos da fundamentação, e REJEITADOS os demais embargos de declaração.”
+
+Como se vê, a decisão reclamada não contrariou o paradigma apontado como violado, apenas assentou que a ordem de adequação do julgado ao que decidido pela CORTE no julgamento dos embargos de declaração já havia sido devidamente ordenada pelo acórdão recorrido.
+Nessas circunstâncias, em que não se tem presente o contexto do paradigma, não há estrita aderência entre o ato impugnado e o paradigma invocado. É, neste ponto, inviável a presente Reclamação.
+Dessa forma, a postulação não passa de simples pedido de revisão do entendimento aplicado na origem, o que confirma a inviabilidade desta ação. Esta CORTE já teve a oportunidade de afirmar que a reclamação tem escopo bastante específico, não se prestando ao papel de simples substituto de recursos de natureza ordinária ou extraordinária (Rcl 6.880-AgR, Rel. Min. CELSO DE MELLO, Plenário, DJe de 22/2/2013).
+Diante do exposto, com base no art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal, NEGO SEGUIMENTO À RECLAMAÇÃO.
+Nos termos do art. 52, parágrafo único, do Regimento Interno do Supremo Tribunal Federal, dispenso a remessa dos autos à Procuradoria-Geral da República.
+Publique-se.
+Brasília, 25 de fevereiro de 2026.
+
+Ministro ALEXANDRE DE MORAES
+Relator
+Documento assinado digitalmente
