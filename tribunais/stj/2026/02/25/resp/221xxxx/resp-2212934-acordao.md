@@ -1,0 +1,58 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEXTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 19/02/2026 a 25/02/2026, por unanimidade, dar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Rogerio Schietti Cruz, Antonio Saldanha Palheiro, Carlos Pires Brandão e Og Fernandes votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Carlos Pires Brandão.
+EMENTA
+RECURSO ESPECIAL. EXECUÇÃO PENAL. RECURSO DO MINISTÉRIO PÚBLICO. REMIÇÃO PELO ESTUDO A DISTÂNCIA. AUSÊNCIA DE CONVÊNIO DA ENTIDADE KROTON EDUCACIONAL S.A. COM A UNIDADE PRISIONAL. INVIABILIDADE DE AFERIÇÃO DA CARGA HORÁRIA. REQUISITOS NÃO ATENDIDOS.
+1. Do que se extrai dos autos, no caso concreto, a instituição que ministrou o curso a distância não possui convênio com a unidade prisional, impossibilitando a devida fiscalização e a aferição da carga horária efetivamente cumprida pelo condenado, de maneira que a decisão concessiva colide com a orientação jurisprudencial desta Corte Superior, firmada no Recurso especial repetitivo n. 2.087.212/MG.
+2. Dessa forma, a remição de pena concedida mostra-se inaplicável no presente caso, razão pela qual se i mpõe a reforma da decisão recorrida.
+3. Recurso especial provido.
+RELATÓRIO
+Trata-se de recurso especial interposto pelo Ministério Público do Estado de Minas Gerais, com fundamento no art. 105, III, a, da Constituição Federal, contra o acórdão proferido pelo Tribunal de Justiça local no julgamento do Agravo de Execução Penal n. 1.0000.23.148028-6/004, assim ementado (fl. 90):
+AGRAVO EM EXECUÇÃO PENAL - CURSOS PROFISSIONALIZANTES - MODALIDADES À DISTÂNCIA - REMIÇÃO DA PENA - POSSIBILIDADE - RECURSO PARCIALMENTE PROVIDO. 1. Considerando que foi comprovado, por meio de certificado, a participação e conclusão dos cursos de qualificação "Trilhas da Carreira", à distância, com certificados emitidos e assinados pela instituição Faculdade Kroton Educacional S.A., o reeducando faz jus, portanto, a remição, de parte, de sua pena pelo estudo, nos termos do artigo 126, §1º, inciso I, da LEP.
+Nas razões, o órgão ministerial aponta contrariedade aos seguintes dispositivos de lei federal: art. 126, § 1º, I, e § 2º, da Lei de Execução Penal, e Resolução n. 391, de 10/5/2021, do Conselho Nacional de Justiça.
+Sustenta que, para a concessão da remição por estudo a distância, a realização de atividades complementares educativas de qualificação profissional deve estar integrada ao projeto político-pedagógico da unidade ou do sistema prisional local e a atividade deve ser oferecida por instituição devidamente autorizada ou conveniada com o poder público (fls. 112/118).
+Alega, ainda, que a remição foi concedida ao sentenciado desconsiderando que a entidade de ensino (Grupo Kroton) não possui convênio com a Unidade Prisional, o que contraria o disposto no art. 126, § 1º, I, e § 2º, da Lei de Execução Penal, inclusive na forma em que regulamentado pela Resolução n. 391, de 10/5/2021, do Conselho Nacional de Justiça (fls. 112/118).
+Ao final da peça recursal, requer o provimento para reformar o decisum do Tribunal de Justiça do Estado de Minas Gerais, ao efeito de afastar a remição indevidamente deferida ao sentenciado (fls. 118/119).
+Contrarrazões apresentadas (fls. 123/131), recurso admitido (fls. 248/253).
+Instado a se manifestar na condição de custos legis, o Ministério Público Federal opina pelo conhecimento e provimento da insurgência recursal, em parecer assim ementado (fl. 266):
+RECURSO ESPECIAL. EXECUÇÃO. REMIÇÃO DE PENA. CURSO À DISTÂNCIA. AUSÊNCIA DE FISCALIZAÇÃO DAS HORAS ESTUDADAS. REQUISITOS NÃO ATENDIDOS. PARECER FAVORÁVEL DO MPF. RECURSO PROVIDO.
+É o relatório.
+EMENTA
+RECURSO ESPECIAL. EXECUÇÃO PENAL. RECURSO DO MINISTÉRIO PÚBLICO. REMIÇÃO PELO ESTUDO A DISTÂNCIA. AUSÊNCIA DE CONVÊNIO DA ENTIDADE KROTON EDUCACIONAL S.A. COM A UNIDADE PRISIONAL. INVIABILIDADE DE AFERIÇÃO DA CARGA HORÁRIA. REQUISITOS NÃO ATENDIDOS.
+1. Do que se extrai dos autos, no caso concreto, a instituição que ministrou o curso a distância não possui convênio com a unidade prisional, impossibilitando a devida fiscalização e a aferição da carga horária efetivamente cumprida pelo condenado, de maneira que a decisão concessiva colide com a orientação jurisprudencial desta Corte Superior, firmada no Recurso especial repetitivo n. 2.087.212/MG.
+2. Dessa forma, a remição de pena concedida mostra-se inaplicável no presente caso, razão pela qual se i mpõe a reforma da decisão recorrida.
+3. Recurso especial provido.
+VOTO
+Assiste razão ao recorrente.
+Nos termos do art. 126, § 2º, da Lei de Execução Penal, o estudo realizado na modalidade a distância deverá ser certificado pelas autoridades competentes.
+Da mesma forma, a Resolução n. 391/2021 do Conselho Nacional de Justiça (CNJ) estabelece que tais atividades devem integrar o projeto político-pedagógico da unidade prisional, devendo ser oferecidas exclusivamente por instituições de ensino devidamente autorizadas ou conveniadas com o poder público, a fim de garantir a adequada fiscalização quanto à carga horária, conteúdo programático, referenciais teóricos e metodológicos, bem como os registros de frequência.
+O Tribunal de origem assim consignou ao dar provimento ao agravo em execução defensivo (fls. 94/97):
+Ressalta-se, também, que o conteúdo programático do curso veio especificado no verso dos certificados (doc. de ordem 08), emitidos pela "Faculdade Kroton Educacional S.A.", um grupo comercial que reúne diversas marcas educacionais de amplo conhecimento social e credenciadas pelo Ministério da Educação, como Anhanguera, Unopar e Pitágoras, cujos logotipos podem ser verificados nos documentos.
+Assim, certificado nos autos a conclusão de cursos profissionalizantes emitido e assinado pela instituição competente, não há impedimento legal para a remição da pena.
+Pondera-se que, embora não haja documentação que comprove que a referida instituição seja autorizada ou conveniada com o poder público para esse fim, é consentâneo aos princípios da confiança e da segurança jurídica o reconhecimento do estudo para fins de remição, na medida em que realizado com respaldo em autorização da Direção da Penitenciária no interior do estabelecimento.
+Ademais, a lei não prevê qualquer obrigatoriedade acerca da existência de convênio da instituição de ensino com o Poder Público ou a exigência de fiscalização por parte do estabelecimento, exigindo, apenas, a certificação pelas autoridades educacionais competentes dos cursos frequentados - artigo 126, § 2º, da LEP.
+Enfatiza-se, ainda, que o benefício de remição da pena pelo estudo e/ou trabalho previsto no artigo 126 da LEP vai ao encontro da finalidade básica da execução penal, qual seja, a de ressocialização do acautelado, tendo em vista que propicia ao apenado o ganho de conhecimento e qualificação, viabilizando, assim, melhores condições perante o mercado de trabalho, quando o mesmo estiver em liberdade, além de estimular o bom comportamento carcerário e preparo para reinserção social.
+ ..
+Em relação aos dias que serão remidos de sua pena, sabe-se que a base de cálculo para fins de tal remição da pena pelo estudo, determina que a cada 12 (doze) horas de frequência escolar corresponde a 01 (um) dia da pena a ser remido.
+No caso em debate, consta dos autos documentos que comprovam a conclusão de cursos "Trilhas da Carreira" durante o cumprimento de pena, a saber:
+ ..
+Neste sentido, o reeducando faz jus a remição de 130 (cento e trinta dias) de sua pena pelo estudo (1560 horas / 12 horas = 130 dias).
+Pelo exposto, DOU PROVIMENTO AO RECURSO, reformando a r. decisão combatida, para conceder ao agravante a remição de 130 (cento e trinta) dias de sua reprimenda, nos termos da fundamentação supra.
+Do que se extrai dos autos, no caso concreto, a instituição que ministrou o curso a distância não possui convênio com a unidade prisional, impossibilitando a devida fiscalização e a aferição da carga horária efetivamente cumprida pelo condenado, de maneira que a decisão concessiva colide com a orientação jurisprudencial desta Corte Superior, firmada no Recurso Especial repetitivo n. 2.087.212/MG, vejamos:
+DIREITO PENAL. EXECUÇÃO PENAL. RECURSO ESPECIAL REPETITIVO. TEMA N. 1.236 DO STJ. EXECUÇÃO PENAL. REMIÇÃO DE PENA POR ESTUDO A DISTÂNCIA. REQUISITOS. RECURSO PROVIDO. TESE FIXADA. I. CASO EM EXAME
+1. Recurso especial interposto pelo Ministério Público do Estado de Minas Gerais contra o acórdão do Tribunal de Justiça do Estado de Minas Gerais que manteve a decisão de concessão de remição de pena ao reeducando pela conclusão de cursos na modalidade de ensino a distância sem exigência de credenciamento da instituição de ensino na unidade prisional.
+2. O Ministério Público alegou ter sido violado o art. 126, §§ 1º, I, e 2º, da Lei de Execução Penal - LEP, sustentando que a ausência de convênio da instituição de ensino com a unidade prisional inviabiliza a fiscalização das atividades e a aferição da carga horária diária efetivamente cumprida, sendo necessário o cumprimento dos requisitos previstos na Resolução n. 391/2021 do Conselho Nacional de Justiça - CNJ.
+3. Afetação como Recurso Especial Repetitivo dos paradigmas REsp n. 2.085.556/MG, REsp n. 2.086.269/MG e REsp n. 2.087.212/MG, nos termos dos art. s 1.036 e 1.037 do Código de Processo Civil, como Tema n. 1.236 do STJ, para formação de precedente vinculante (CPC, art. 927, III), delineada a seguinte questão: "Definir se, para obtenção da remição da pena pela conclusão de curso na modalidade a distância, a instituição de ensino deve ser credenciada junto à unidade prisional em que o reeducando cumpre pena para permitir a fiscalização das atividades e da carga horária efetivamente cumprida pelo condenado."
+II. QUESTÃO EM DISCUSSÃO
+4. A questão em discussão consiste em saber se a remição de pena por estudo a distância pode ser concedida sem comprovação de que as atividades foram oferecidas por instituições certificadas e fiscalizadas pelos órgãos competentes, incluindo o credenciamento/autorização da instituição de ensino pela unidade ou sistema prisional.
+III. RAZÕES DE DECIDIR
+5. A remição de pena pelo estudo a distância deve observar os requisitos previstos no art. 126, § 2º, da Lei de Execução Penal e na Resolução n. 391/2021 do Conselho Nacional de Justiça, sendo necessária a certificação por autoridades competentes e a integração ao Projeto Político-Pedagógico - PPP da unidade prisional.
+6. A concessão da remição de pena pelo estudo a distância - EAD requer comprovação da frequência efetiva do cumprimento das horas diárias exigidas e do credenciamento da instituição pelo sistema prisional.
+7. No caso concreto, a instituição de ensino não possuía convênio com a unidade prisional, não atendendo aos requisitos que devem ser observados para viabilizar a remição de pena.
+IV. DISPOSITIVO E TESE
+8. Resultado do Julgamento: Recurso provido. Tese de julgamento e de solução do Tema n. 1.236 do STJ: "A remição de pena em razão do estudo a distância - EAD demanda a prévia integração do curso ao Projeto Político-Pedagógico - PPP da unidade ou do sistema prisional, não bastando o necessário credenciamento da instituição junto ao MEC, observando-se a comprovação de frequência e realização das atividades determinadas."
+ ..
+(REsp n. 2.087.212/MG, Ministro Og Fernandes, Terceira Seção, DJEN de 12/11/2025).
+Dessa forma, a remição de pena concedida mostra-se inaplicável no presente caso, razão pela qual se impõe a reforma da decisão recorrida.
+Ante o exposto, dou provimento ao recurso especial para cassar a remição de pena concedida ao recorrido.
