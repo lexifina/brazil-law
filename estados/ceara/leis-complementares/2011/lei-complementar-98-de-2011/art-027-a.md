@@ -1,0 +1,1 @@
+Art. 27-A. Não poderão atuar, para qualquer fim, em procedimentos disciplinares em curso na Controladoria Geral de Disciplina os servidores civis ou militares que ali estejam cedidos ou requisitados, inclusive exclusivamente comissionados ou de outras esferas da Federação, perdurando esse impedimento por 3 (três) anos, contados do encerramento do respectivo exercício ou vínculo.

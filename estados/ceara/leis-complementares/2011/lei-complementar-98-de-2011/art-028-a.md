@@ -1,0 +1,7 @@
+Art. 28-A. O Controlador-Geral de Disciplina após o recebimento do processo proferirá a sua decisão.
+§ 1º Se a penalidade a ser aplicada exceder a alçada da sua competência, o processo será encaminhado ao Governador do Estado.
+§ 2º Havendo mais de um indiciado e diversidade de sanções, o julgamento caberá à autoridade competente para a imposição da pena mais grave.
+§ 3º Reconhecida pela comissão a inocência do servidor, o Controlador-Geral de Disciplina determinará o seu arquivamento, salvo se flagrantemente contrária às provas dos autos.
+§ 4º O julgamento acatará o relatório da comissão, salvo quando contrário às provas dos autos.
+§ 5º Quando o relatório da comissão contrariar as provas dos autos, o Controlador-Geral de Disciplina poderá, determinar diligências ou outras providências necessárias a adequada instrução, sem possibilidade de recurso, poderá ainda, motivadamente, agravar a penalidade proposta, abrandá-la ou isentar o servidor de responsabilidade.
+§ 6º Verificada a ocorrência de vício insanável, o Controlador-Geral de Disciplina ou o Governador declarará a sua nulidade, total ou parcial, e ordenará, no mesmo ato, a constituição de outra comissão para instauração do novo processo.

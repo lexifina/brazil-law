@@ -1,0 +1,1 @@
+Art. 19-A. A Controladoria Geral de Disciplina, para efeito de promoção, será, nos termos da Lei, considerada Local de Difícil Provimento para militares estaduais que estejam em exercício no referido órgão.
