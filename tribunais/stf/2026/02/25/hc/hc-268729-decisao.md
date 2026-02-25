@@ -1,0 +1,45 @@
+Trata-se de habeas corpus com pedido de liminar impetrado em favor de Bruno Ferreira Conforte contra decisão monocrática de Ministro do Superior Tribunal de Justiça que indeferiu liminarmente o HC 1.074.317/SP, nos seguintes termos:
+
+Trata-se de habeas corpus impetrado em favor de BRUNO FERREIRA CONFORTE contra acórdão da Terceira Turma Criminal do Tribunal de Justiça do Distrito Federal e dos Territórios, na Apelação Criminal n. 07525549020238070001.
+Consta nos autos que o paciente foi condenado, em primeira instância, pelo Juízo de Direito da 5ª Vara Criminal de Brasília-DF, nos autos da Ação Penal n. 07525549020238070001, à pena de 14 anos, 2 meses e 4 dias de reclusão, em regime inicial fechado, mais o pagamento de 85 dias-multa, tendo em vista a prática dos delitos descritos nos art. 157, §§ 2° [roubo majorado], inciso II, 2°-A [a pena aumenta-se de 2/3], inciso I [se a violência ou ameaça é exercida com emprego de arma de fogo], c/c art. 69, ambos do Código Penal (e-STJ, fls. 198- 226).
+A defesa interpôs apelação ao Tribunal de origem, que negou provimento ao recurso (e-STJ, fls. 24-107). Na presente impetração, a defesa alega constrangimento ilegal, pois o reconhecimento fotográfico teria sido realizado por meio de foto retirada do Instagram, após a testemunha afirmar expressamente que não conseguiu ver o rosto da suspeita. Aduz que o referido ato viciado serviu de alicerce exclusivo para o início de todas as medidas invasivas subsequentes.
+Sustenta que a ilegalidade da interceptação telefônica e telemática, bem como da quebra de sigilos de dados, uma vez que derivam diretamente do reconhecimento fotográfico ilícito. Contesta a tese do TJDFT de que haveria “provas independentes”, afirmando que as filmagens e radares citados não permitiam a identificação de autoria até o advento do reconhecimento viciado.
+Aponta que a investigação utilizou informações genéricas e, inclusive, falsas (como a afirmação de que a corré Júlia “ostentava” vasta ficha criminal, quando possuía apenas uma anotação por uso de entorpecentes), de modo que houve busca especulativa por provas, sem indícios mínimos prévios.
+Defende que as decisões que autorizaram e prorrogaram as interceptações seriam genéricas e padronizadas. Indica fragilidade e insuficiência do acervo probatório quanto a autoria delitiva.
+Requer, liminarmente, a concessão da ordem para cassar a sentença condenatória e a declaração de ilicitude das provas. No mérito, pleiteia o reconhecimento das nulidades apontadas e o desentranhamento delas dos autos.
+O pedido liminar foi indeferido (e-STJ, fl. XXXX).
+É o relatório. Decido.
+Não é admissível a impetração de habeas corpus em concomitância com a interposição de recurso próprio, sob pena de subverter o sistema recursal e de violação do princípio da unirrecorribilidade. A propósito: [...].
+De acordo com informações colhidas no sítio eletrônico do Tribunal de origem, a defesa interpôs recurso especial e recurso extraordinário, os quais não foram admitidos. Em seguida, a defesa interpôs agravos, os quais foram remetidos para o STJ e STF, nos termos do art. 1.042, § 5°, do CPC. Portanto, é inadmissível a presente impetração.
+Diante do exposto, indefiro liminarmente o habeas corpus. (doc. 5 – grifei).
+
+Neste writ, o impetrante requer que “[...] seja concedida a ordem, de ofício, para afastar o óbice ao conhecimento da impetração, e que seja determinado ao Superior Tribunal de Justiça que analise o mérito do HABEAS CORPUS Nº 1074317/DF (2026/0054455-7). (doc. 1, p. 5).
+
+É o relatório necessário. Decido.
+
+Como visto, este habeas corpus foi impetrado contra decisão monocrática de Ministro do Superior Tribunal de Justiça que indeferiu liminarmente o HC 1.074.317/SP (doc. 5). Assim, em princípio, esta impetração não poderia ter seguimento, sob pena de extravasamento dos limites de competência do Supremo Tribunal Federal, estabelecidos no art. 102, da Constituição Federal, que pressupõem seja a coação praticada por Tribunal Superior.
+
+No caso, contudo, verifico situação jurídica favorável ao paciente, apta a mitigar o óbice acima referido. Nessa mesma direção, por analogia:
+
+Ementa HABEAS CORPUS. CRIME DE HOMICÍDIO QUALIFICADO. LIBERDADE PROVISÓRIA CONCEDIDA PELO JUÍZO PROCESSANTE. RECURSO EM SENTIDO ESTRITO, MANEJADO PELO MINISTÉRIO PÚBLICO. RESTABELECIMENTO DA PRISÃO DO PACIENTE DOIS ANOS DEPOIS. ACÓRDÃO DESFUNDAMENTADO. EXCEPCIONALIDADE AUTORIZADORA DA SUPERAÇÃO DA SÚMULA 691/STF. ORDEM CONCEDIDA. 1. A jurisprudência do Supremo Tribunal Federal é no sentido do não-conhecimento de habeas corpus sucessivamente impetrado antes do julgamento de mérito nas instâncias anteriores (cf. HC’s 79.776, da relatoria do ministro Moreira Alves; 76.347-QO, da relatoria do ministro Moreira Alves; 79.238, da relatoria do ministro Moreira Alves; 79.748, da relatoria do ministro Celso de Mello; e 79.775, da relatoria do ministro Maurício Corrêa). Jurisprudência, essa, que deu origem à Súmula 691, segundo a qual “não compete ao Supremo Tribunal Federal conhecer de habeas corpus impetrado contra decisão do Relator que, em habeas corpus requerido a tribunal superior, indefere a liminar”. 2. Esse entendimento jurisprudencial sumular comporta relativização, quando de logo avulta que o cerceio à liberdade de locomoção do paciente decorre de ilegalidade ou de abuso de poder (inciso LXVIII do art. 5º da CF/88). 3. No caso, o paciente foi agraciado com a liberdade provisória em novembro de 2008. Sendo certo que, em 2010, no julgamento do recurso em sentido estrito manejado pelo Ministério Público, o Tribunal de Justiça do Estado de Santa Catarina determinou o recolhimento do paciente à prisão sem sequer enfrentar o fundamento lançado pelo Juízo Processante, bem mais próximo à realidade dos autos, para deferir a liberdade provisória a ele, paciente. Pelo que há evidente ofensa à garantia da fundamentação real das decisões judiciais. Garantia constitucional que se lê na segunda parte do inciso LXI do art. 5º e na parte inicial do inciso IX do art. 93 do Magno Texto e sem a qual não se viabiliza a ampla defesa, nem se afere o dever do juiz de se manter eqüidistante das partes processuais em litígio. 4. Ordem concedida para restabelecer a decisão que deferiu a liberdade provisória ao paciente, ressalvada a possibilidade de expedição de novo título prisional, embasado na concretude da causa. (HC 104.384/SC, Rel. Min. Ayres Britto, Segunda Turma, DJe 5/5/2011 – grifei).
+
+Pois bem. O Supremo Tribunal Federal, sob uma perspectiva eminentemente garantista, fixou entendimento no sentido de que “[a] aplicação da regra da unirrecorribilidade recursal não se aplica em caso de habeas corpus pela nobreza e peculiaridade constitucional dessa garantia fundamental”. (HC 228.330/SP, Rel. Min. Cármen Lúcia, decisão monocrática, DJe 25/5/2023, transitada em julgado em 31/5/2023 – grifei). Do mesmo modo, “[o] recurso especial não é pressuposto necessário ou critério para admissibilidade de habeas corpus” (HC 110.947/RS, Rel. Min. Cármen Lúcia, Primeira Turma, DJe 21/6/2012 – grifei).
+
+Nessa mesma direção:
+
+Ementa HABEAS CORPUS. CONSTITUCIONAL. CONTROVÉRSIA SOBRE O CABIMENTO DE HABEAS CORPUS NO SUPERIOR TRIBUNAL DE JUSTIÇA IMPETRADO CONTRA ACÓRDÃO DE TRIBUNAL DE JUSTIÇA QUE TRANSITOU EM JULGADO PELA NÃO INTERPOSIÇÃO DE RECURSO ESPECIAL. ATO CONTRÁRIO À JURISPRUDÊNCIA DO SUPREMO TRIBUNAL FEDERAL. 1. O recurso especial não é pressuposto necessário ou critério para admissibilidade de habeas corpus. Precedentes. 2. Ordem concedida para determinar à Quinta Turma do Superior Tribunal de Justiça que examine o mérito do Habeas Corpus n. 206.236. (HC 110.947/RS, Rel. Min. Cármen Lúcia, Primeira Turma, DJe 21/6/2012 – grifei).
+
+Ementa Recurso ordinário constitucional. Habeas corpus. Negativa de seguimento pelo relator do writ no Superior Tribunal de Justiça confirmada pelo colegiado. Fundamento: agravo em recurso especial pendente de julgamento. Descabimento. Pressuposto de admissibilidade não previsto na Constituição Federal. Precedentes. Recurso provido para determinar o exame de mérito do habeas corpus. 1. É incabível, para restringir-se o conhecimento do habeas corpus, estabelecer-se pressuposto de admissibilidade não previsto na Constituição Federal. 2. É pacífico o entendimento da Primeira Turma do Supremo Tribunal Federal de que a interposição de recurso especial contra acórdão de tribunal local não constitui óbice processual ao manejo concomitante do habeas corpus. Precedentes. 3. Recurso provido. (RHC 123.456/SP, Rel. Min. Dias Toffoli, Primeira Turma, DJe 7/10/2014 – grifei).
+
+Ante o exposto, concedo a ordem de habeas corpus (art. 192, caput, do Regimento Interno do Supremo Tribunal Federal) para determinar que o Ministro Relator, no Superior Tribunal de Justiça, conheça do HC 1.074.317/SP e, se não houver qualquer outro óbice, julgue o seu mérito.
+
+Atribua-se a esta decisão força de mandado/ofício.
+
+Comunique-se, com urgência. Intime-se.
+
+Publique-se.
+
+Brasília, 25 de fevereiro de 2026.
+
+Ministro Cristiano Zanin
+Relator
