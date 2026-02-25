@@ -1,0 +1,2 @@
+Cria, na estrutura organizacional do Ministério da Justiça, o Conselho Federal de que trata o art. 13 da Lei nº 7.347, de 24 de julho de 1985, altera os arts. 4º, 39, 82, 91 e 98 da Lei nº 8.078, de 11 de setembro de 1990, e dá outras providências.
+Faço saber que o PRESIDENTE DA REPÚBLICA adotou a Medida Provisória nº 913, de 1995, que o Congresso Nacional aprovou, e eu, José Sarney, Presidente, para os efeitos do disposto no parágrafo único do art. 62 da Constituição Federal, promulgo a seguinte Lei:
