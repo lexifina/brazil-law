@@ -1,0 +1,58 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 19/02/2026 a 25/02/2026, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Francisco Falcão, Maria Thereza de Assis Moura, Marco Aurélio Bellizze e Teodoro Silva Santos votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Teodoro Silva Santos.
+EMENTA
+PROCESSUAL CIVIL. TRIBUTÁRIO. AGRAVO  INTERNO  NO AGRAVO EM RECURSO  ESPECIAL. AUSÊNCIA DE COMANDO NORMATIVO APTO À SUSTENTAÇÃO DA TESE RECURSAL. RAZÕES RECURSAIS DISSOCIADAS DOS FUNDAMENTOS DO ACÓRDÃO RECORRIDO. INCIDÊNCIA DA SÚMULA 284 DO STF, POR ANALOGIA. CONCLUSÃO DO TRIBUNAL DE ORIGEM, À LUZ DAS PROVAS DOS AUTOS, PELA EXISTÊNCIA DE COISA JULGADA. REVISÃO. IMPOSSIBILIDADE. SÚMULA 7 DO STJ. AGRAVO  INTERNO DESPROVIDO.
+1.  O dispositivo indicado como violado não possui comando normativo para sustentar a tese recursal. Aplicação da Súmula 284 do STF, por analogia.
+2.  A apresentação de razões recursais dissociadas dos fundamentos trazidos no acórdão recorrido caracteriza deficiência na fundamentação recursal, o que impede a análise da controvérsia. Incidência, por analogia, da Súmula 284 do STF.
+3. Inviável a análise da pretensão veiculada no recurso especial, por demandar o reexame do contexto fático-probatório dos autos, atraindo a incidência da Súmula 7 do STJ.
+4. Agravo  interno  des provido.
+RELATÓRIO
+MINISTRO AFRÂNIO VILELA: Em  análise,  agravo  interno  interposto  por HABITACIONAL EMPREENDIMENTOS LTDA. contra  a  decisão  que não conheceu do  recurso  especial.
+Argumenta  a  parte agravante,  em  síntese,  que (fls. 214-218):
+Todavia, estes fundamentos não merecem prosperar. Isto porque, ao contrário do que enfatiza a decisão agravada, há sim o comando normativo do dispositivo legal tido por violado para fundamentar a tese recursal.
+Ora, o dispositivo legal apontado como violado é o art. 313, IV, do Código de Processo Civil, o qual determina que o processo deve ser suspenso quando da admissão de incidente de resolução de demandas repetitivas.
+No caso em comento, a ora Agravante aduziu, nas razões de seu Recurso Especial inadmitido que o Acórdão alvo de tal recurso teria mantido a decisão que indeferiu o pedido de suspensão do presente feito com base no dispositivo legal susomencionado, apesar da decisão prolatada por esta Corte no Tema 1079.
+No referido Tema, referente a recursos repetitivos, se discute se o limite de 20 salários mínimos é aplicável à base de cálculo de contribuições parafiscais arrecadadas por conta de terceiros, nos termos do art. 4º da Lei 6.950/1981, com as alterações promovidas pelos arts. 1º e 3º do Decreto-Lei nº 2.318/1986. E, no caso em comento, a presente demanda versa justamente sobre valores devidos pela Recorrente a título de contribuição pela prestação de serviço de assistência social pelo SESI.
+ ..
+Da mesma forma, não merece acolhimento a tese da decisão agravada de que o Recurso Especial merece ser inadmitido pelo fato de, nas razões deste, não estarem impugnados, de forma específica, os fundamentos adotados pelo aresto impugnado.
+Nas razões do Recurso Especial inadmitido, a ora Agravante discorre sobre a questão do parcelamento firmado com o Agravado, esclarecendo que, à época, não tinha qualquer ciência de que a base de cálculo das contribuições cobradas no parcelamento poderia ser alterada quando do julgamento do Tema 1079, até porque o parcelamento ocorreu antes da decisão de afetação do referido Tema. Outrossim, a Agravante também impugnou o fundamento adotado pelo Acórdão alvo da súplica excepcional, relacionado ao fato de que o parcelamento firmado entre as partes já estaria acobertado pelo manto da coisa julgada. Note-se trechos do Recurso Especial que evidenciam a impugnação a tal fundamento adotado pelo aresto:
+ ..
+Por fim, impende ressaltar que a Súmula nº 07 desta Superior Corte também não é óbice para a admissão do Recurso Especial interposto pela ora Agravante.
+Para que haja o julgamento da mencionada súplica excepcional, a questão a ser analisada é tão somente de direito. Isto porque cabe tão somente a análise se a celeuma objeto de discussão nos presentes autos está submetida à afetação do tema 1079 desta Superior Corte. Ou seja: tratando a presente demanda de cobrança de contribuição pela prestação de serviço de assistência social pelo SESI, objeto de parcelamento firmado entre as partes, estaria esta adstrita à afetação do Tema 1079 e, por conseguinte, deve ser suspensa até o julgamento em definitivo deste
+Desta forma, não há necessidade de revolvimento de fatos e provas, até porque o Acórdão objeto do Recurso Especial já relata que a demanda versa sobre cobrança de contribuição pela prestação de serviço de assistência social pelo SESI, objeto de parcelamento firmado entre as partes. Logo, ao apreciar o Recurso Especial interposto, caberia a esta Corte Superior se posicionar apenas no sentido se tal situação deve se submeter à afetação do Tema 1079.
+Por fim, pugna pela reconsideração da decisão agravada ou pela submissão da questão ao Colegiado.
+Houve impugnação da parte agravada (fls. 225-229).
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. TRIBUTÁRIO. AGRAVO  INTERNO  NO AGRAVO EM RECURSO  ESPECIAL. AUSÊNCIA DE COMANDO NORMATIVO APTO À SUSTENTAÇÃO DA TESE RECURSAL. RAZÕES RECURSAIS DISSOCIADAS DOS FUNDAMENTOS DO ACÓRDÃO RECORRIDO. INCIDÊNCIA DA SÚMULA 284 DO STF, POR ANALOGIA. CONCLUSÃO DO TRIBUNAL DE ORIGEM, À LUZ DAS PROVAS DOS AUTOS, PELA EXISTÊNCIA DE COISA JULGADA. REVISÃO. IMPOSSIBILIDADE. SÚMULA 7 DO STJ. AGRAVO  INTERNO DESPROVIDO.
+1.  O dispositivo indicado como violado não possui comando normativo para sustentar a tese recursal. Aplicação da Súmula 284 do STF, por analogia.
+2.  A apresentação de razões recursais dissociadas dos fundamentos trazidos no acórdão recorrido caracteriza deficiência na fundamentação recursal, o que impede a análise da controvérsia. Incidência, por analogia, da Súmula 284 do STF.
+3. Inviável a análise da pretensão veiculada no recurso especial, por demandar o reexame do contexto fático-probatório dos autos, atraindo a incidência da Súmula 7 do STJ.
+4. Agravo  interno  des provido.
+VOTO
+MINISTRO AFRÂNIO VILELA (Relator): Conheço do recurso, porquanto presentes os seus pressupostos intrínsecos e extrínsecos de admissibilidade.
+O agravo interno não merece prosperar, pois a ausência de argumentos hábeis para desconstituir os fundamentos da decisão ora agravada torna inalterado o entendimento nela firmado.
+Súmula 284 do STF
+Conforme assentado na decisão recorrida, o art. 313, IV, do CPC, que versa sobre a suspensão do processo pela admissão de incidente de resolução de demandas repetitivas, indicado como violado, não possui comando normativo suficiente para sustentar a tese recursal  necessidade de suspensão do processo em razão do Tema 1079/STJ, sob o regime de recursos repetitivos  , de modo a atrair a incidência da Súmula 284 do STF, por analogia.
+Nesse sentido:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO CAUTELAR PREPARATÓRIA. PROCESSO PRINCIPAL EXTINTO, COM RESOLUÇÃO DE MÉRITO. PERDA DE OBJETO DA CAUTELAR. SUPOSTA VIOLAÇÃO AO DISPOSITIVO INDICADO. COMANDO NORMATIVO INAPTO DE SUSTENTAR A TESE RECURSAL. SÚMULA 284/STF. VERIFICAÇÃO DE INTERESSE PROCESSUAL E AUSÊNCIA DE PERDA DO OBJETO. QUESTÃO ATRELADA AO CONTEXTO FÁTICO. SÚMULA 7/STJ. AGRAVO INTERNO NÃO PROVIDO.
+1. A admissibilidade do recurso especial exige que o citado dispositivo legal indicado como violado possua comando normativo apto de sustentar a tese recursal que fundamenta a alegada violação, sob pena de atrair a incidência da Súmula 284 do STF, por analogia.
+ ..
+4. Agravo interno não provido (AgInt no AREsp 2.241.565/RJ, relator Ministro Mauro Campbell Marques, Segunda Turma, julgado em 8/5/2023, DJe de 10/5/2023).
+TRIBUTÁRIO. PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. CÓDIGO DE PROCESSO CIVIL DE 2015. APLICABILIDADE. AUSÊNCIA DE COMANDO NORMATIVO EM DISPOSITIVO LEGAL APTO A SUSTENTAR A TESE RECURSAL. DEFICIÊNCIA DE FUNDAMENTAÇÃO. INCIDÊNCIA, POR ANALOGIA, DA SÚMULA N. 284/STF. DEPÓSITO JUDICIAL PARA FINS DE SUSPENSÃO DA EXIGIBILIDADE DO CRÉDITO TRIBUTÁRIO. LEVANTAMENTO. ART. 166. DO CTN. INAPLICABILIDADE. REVISÃO DE MATÉRIA FÁTICA. IMPOSSIBILIDADE. SÚMULA 7/STJ. APLICAÇÃO DE MULTA. ART. 1.021, § 4º, DO CÓDIGO DE PROCESSO CIVIL DE 2015. DESCABIMENTO.
+ ..
+II - É deficiente a fundamentação do recurso especial quando os dispositivos apontados como violados não têm comando normativo suficiente para infirmar os fundamentos do acórdão recorrido, circunstância que atrai, por analogia, a incidência do entendimento da Súmula n. 284 do Supremo Tribunal Federal.
+ ..
+VI- Agravo Interno improvido (AgInt no REsp 2.057.639/RS, relatora Ministra Regina Helena Costa, Primeira Turma, julgado em 5/6/2023, DJe de 7/6/2023).
+Além disso, observando os fundamentos utilizados pelo Tribunal de origem  "o crédito permanece resguardado pela coisa julgada" e "o acordo foi suspenso em 30/09/2021, conforme consta na fls. 209/212, após o próprio Tema afetado pelo STJ  ..  desistiu da chance de seguir as consequências da decisão relacionada ao Tema 1079 do STJ, o que logicamente encerrou a possibilidade de fazê-lo" (fl. 147)  e confrontando esses argumentos como o que trouxe a parte recorrente nas razões recursais, não há reparo a ser feito na decisão recorrida que aplicou o óbice da Súmula 284 do STF. Isso porque as alegações da parte recorrente passam ao largo do cerne da questão decidida, demonstrando deficiência argumentativa a atrair o óbice da referida súmula.
+Súmula 7 do STJ
+O portuno pontuar que o Tribunal de origem, após análise dos elementos fáticos que compõem os autos, entendeu que (fl. 147):
+Em consulta ao Sistema de Controle Processual do TJSE, verifica-se que houve julgamento da Apelação Cível n. 201900815601, que tem como feito de origem a Execução de Título Extrajudicial n. 201711501048, processo este vinculado ao Cumprimento de Sentença n. 202011501040.
+O crédito permanece resguardado pela coisa julgada, não podendo ser alterado, salvo através da Ação Rescisória, da qual ainda não se tem conhecimento de ter sido proposta.
+Ademais, o acordo foi suspenso em , conforme consta na fls.30/09/2021 209/212, após o próprio Tema afetado pelo STJ, ou seja, o 1079. Dessa forma, desistiu da chance de seguir as consequências da decisão relacionada ao Tema 1079 do STJ, o que logicamente encerrou a possibilidade de fazê-lo.
+Dessa forma, conforme assentado previamente na decisão combatida, a alteração da conclusão do Tribunal de origem ensejaria o necessário reexame da matéria fático-probatória dos autos, atraindo, por conseguinte, a incidência da Súmula 7 do STJ.
+Nesse sentido: "É inviável, em sede de recurso especial, o reexame de matéria fático-probatória, nos termos da Súmula 7 do STJ: "A pretensão de simples reexame de prova não enseja recurso especial"" (AgInt no AREsp 1.964.284/SP, relator Ministro Gurgel de Faria, Primeira Turma, julgado em 27/11/2023, DJe de 5/12/2023).
+Por fim, deve ser indeferido o pedido de condenação à multa por litigância de má-fé. Sobre o tema, a jurisprudência desta Corte possui entendimento no sentido de que "a interposição de recursos cabíveis não acarreta a imposição de multa por litigância de má-fé à parte adversa, ainda que com argumentos reiteradamente refutados ou sem alegação de fundamento novo" (REsp 2.089.691/SP, relator Ministro Mauro Campbell Marques, Segunda Turma, julgado em 5/9/2023, DJe de 11/9/2023).
+Isso posto, nego provimento ao recurso.
