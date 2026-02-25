@@ -1,0 +1,36 @@
+DECISÃO:
+Vistos.
+Claudinei Soares Dias e Lilli de Godoy Dias interpõem agravo contra a decisão que não admitiu recurso extraordinário manejado em face de acórdão proferido pela Vigésima Primeira Câmara de Direito Privado do Tribunal de Justiça do Estado de São Paulo, assim ementado:
+
+“AGRAVO DE INSTRUMENTO. Execução de título extrajudicial. Impugnação à arrematação rejeitada. Decisão mantida pelos seus próprios fundamentos 'ex vi' do artigo 252 do Regimento Interno do E. TJSP. Recurso improvido.” (e-doc. 22)
+
+Opostos embargos de declaração, foram rejeitados (e-doc. 34).
+Sustentam os recorrentes, nas razões do apelo extremo, violação dos arts. 5º, inciso XXVI; 93, inciso IX, da Constituição Federal, bem como inobservância às teses firmadas nos julgamentos dos Tema nsº 339 e 961 da repercussão geral.
+Alegam, em síntese, que  “o acórdão recorrido conheceu a lide sob a ótica do bem de  família disciplinado pelos arts. 1º e 5º da Lei 8009/90, concluindo que os recorrentes  não comprovaram residir no local ou dele extrair rendas ” (e-doc. 29, p. 11), fazendo mera referência ao decidido pelo magistrado embrionário, a caracterizar negativa de prestação jurisdicional.
+Acrescentam que o Tribunal de origem "afastou a configuração da pequena propriedade  rural na lide sub judice ao argumento de que os imóveis penhorados são contíguos e a  soma das suas áreas ultrapassa 4 módulos ficais” (e-doc. 29, p. 13), mas que referida constatação não infirma a impenhorabilidade do bem imóvel em apreço, já que
+
+"[o] escopo da norma é  proteger a fonte de sustento e a dignidade da família, de modo que, uma vez  demonstrado o uso do imóvel para a subsistência familiar, incide a proteção prevista  pelo inciso XXVI do art. 5º da CF CF, que recairá sobre a área até o limite da fração que se  enquadre no conceito de pequena propriedade rural." (e-doc. 29, p. 13)
+
+Ponderam que, a despeito de o decisório fustigado ter destacado que falece comprovação de que a propriedade é trabalhada pela família dos recorrentes, provendo as necessidades do núcleo familiar, houve, em verdade,  não enfrentamento dos documentos "acostados aos autos que comprovam a exploração dos imóveis pelos recorrentes e  seus filhos mediante o exercício de atividade agropecuária e de exploração de turismo  rural por meio de um hotel fazenda" (e-doc. 29, p. 13).
+Postulam "o provimento do presente recurso por violação ao inciso XXVI  do art. 5º da CF e ao Tema 961/STF para decretar a impenhorabilidade dos imóveis até  o limite de 4 módulos fiscais, priorizando-se as porções efetivamente empregadas nas  atividades econômicas, com a consequente anulação do leilão e da arrematação dos  aludidos bens" (e-doc. 29, p. 14).
+Decido.
+Não procede a alegada violação do artigo 93, inciso IX, da Constituição, haja vista que a jurisdição foi prestada, no caso, mediante decisões suficientemente motivadas, não obstante contrárias à pretensão da parte recorrente.
+Anote-se que o Plenário deste Supremo Tribunal Federal reconheceu a repercussão geral desse tema e reafirmou a orientação de que a referida norma constitucional não exige que o órgão judicante manifeste-se sobre todos os argumentos de defesa apresentados, mas que fundamente, ainda que sucintamente, as razões que entendeu suficientes à formação de seu convencimento (AI nº 791.292/PE-RG-QO, Relator o Ministro Gilmar Mendes, DJe de 13/8/10 - Tema 339).
+Além disso, ressalte-se que o acórdão recorrido consignou que “não comprovado o requisito da pequena propriedade rural. Ademais, não restou comprovado que a propriedade rural é trabalhada pelos executados e sua família. Trata-se de requisito essencial ao reconhecimento da proteção legal: propiciar ao devedor e sua família o necessário sustento."
+Sem prejuízo, também registrou que "não caracterizado o preço vil" no segundo leilão, bem assim que "não há que se falar em nova avaliação sobre os imóveis em questão, haja vista que houve a correção monetária sobre o valor avaliado, conforme mencionado pelo executados" (e-doc. 22), ora recorrentes.
+Nesse contexto, verifica-se que o acolhimento da pretensão recursal não prescinde do reexame dos fatos e provas dos autos, providência vedada no âmbito recursal extraordinário, a teor do que dispõe a Súmula nº 279 desta Corte. Nesse sentido:
+
+“AGRAVO INTERNO NO RECURSO EXTRAORDINÁRIO COM AGRAVO. DIREITO CIVIL E PROCESSUAL CIVIL. ARREMATAÇÃO. PEQUENA PROPRIEDADE RURAL. IMPENHORABILIDADE. REQUISITOS. FATOS E PROVAS. REEXAME. IMPOSSIBILIDADE. PRECEDENTES. 1. O recurso extraordinário não se presta ao reexame dos fatos e das provas constantes dos autos (Súmula 279 do STF). 2. Agravo interno desprovido, com imposição de multa de 5% (cinco por cento) do valor atualizado da causa (artigo 1.021, § 4º, do CPC), caso seja unânime a votação. 3. Honorários advocatícios majorados ao máximo legal em desfavor da parte recorrente, caso as instâncias de origem os tenham fixado, nos termos do artigo 85, § 11, do Código de Processo Civil, observados os limites dos §§ 2º e 3º e a eventual concessão de justiça gratuita” (ARE nº 1.387.622/SP-AgR, Tribunal Pleno, Relator o Ministro Presidente - Luiz Fux, DJe de 12/09/2022).
+
+“AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. DIREITO CIVIL E PROCESSUAL CIVIL. EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. PEQUENA PROPRIEDADE RURAL. IMPENHORABILIDADE. REQUISITOS: SÚMULA N. 279 DO SUPREMO TRIBUNAL FEDERAL E AUSÊNCIA DE OFENSA CONSTITUCIONAL DIRETA. INAPLICABILIDADE DO TEMA 961 DA REPERCUSSÃO GERAL. AGRAVO REGIMENTAL DESPROVIDO, COM APLICAÇÃO DE MULTA DE 1% SOBRE O VALOR ATUALIZADO DA CAUSA, SE UNÂNIME A VOTAÇÃO” (RE nº 1.411.900/SP-AgR, Primeira Turma, Relatora a Ministra Cármen Lúcia, DJe de 22/03/2023).
+
+“Agravo regimental no recurso extraordinário com agravo. Processual Civil. Repercussão geral. Tópico devidamente fundamentado. Ausência. Pequena propriedade rural. Penhora. Fatos e provas. Reexame. Impossibilidade. Precedentes. 1. Os recursos extraordinários interpostos contra acórdãos publicados a partir de 3/5/07 devem demonstrar, em tópico devidamente fundamentado, a existência da repercussão geral das questões constitucionais discutidas no apelo extremo (AI nº 664.567/RS-QO). 2. Não se presta o recurso extraordinário para o reexame dos fatos e das provas constantes dos autos. Incidência da Súmula nº 279/STF. 3. Agravo regimental não provido, com imposição de multa de 2% sobre o valor atualizado da causa (art. 1.021, § 4º, do CPC). 4. Inaplicável o art. 85, § 11, do CPC, pois não houve a fixação prévia de honorários advocatícios na causa” (ARE nº 1.062.092/PR-AgR, Segunda Turma, de minha relatoria, DJe de 20/10/2017).
+
+Aplicando essa orientação, anotem-se as seguintes decisões monocráticas: ARE nº 1.444.457/RS, Relator o Ministro Nunes Marques, DJe de 22/8/2023; ARE nº 1.387.540/DF, Relator o Ministro Roberto Barroso, DJe de 2/8/2023; e ARE 1.428.504/MS, Relatora a Ministra Cármen Lúcia, DJe de 10/4/2023.
+Ante o exposto, nos termos do artigo 21, § 1º, do Regimento Interno do Supremo Tribunal Federal, nego seguimento ao recurso. Sem majoração da verba honorária, tendo em vista a ausência de fixação pela origem.
+Publique-se.
+Brasília, 25 de fevereiro de 2026.
+
+Ministro DIAS TOFFOLI
+Relator
+Documento assinado digitalmente
