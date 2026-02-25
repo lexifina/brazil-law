@@ -1,0 +1,43 @@
+DECISÃO
+Trata-se de mandado de segurança, com pedido de liminar, impetrado contra ato atribuído ao Senhor Ministro Vice-Presidente, objetivando a declaração de nulidade da certidão de trânsito em julgado lavrada nos autos do REsp 2.181.138/SP.
+O impetrante argumenta que houve certificação prematura do trânsito em julgado, computando-se apenas 5 dias de prazo, quando seria de 15 dias úteis o prazo legal para interposição do recurso cabível (Recurso Extraordinário) contra o acórdão da Corte Especial que julgou o agravo interno contra a decisão que negou seguimento ao recurso extraordinário anteriormente interposto.
+Alega que, ao invés de corrigir o erro, o Ministro manteve a certificação como "corretamente lavrada", determinando o arquivamento dos autos sob o argumento de que a impetrante peticionou nos autos após o trânsito em julgado, considerando que os embargos de declaração seriam o único recurso cabível, ignorando o prazo para o Recurso Extraordinário que ainda estava em curso.
+Alega que a supressão do prazo recursal viola diretamente os arts. 5º, LIV e LV, da Constituição Federal, impedindo a impetrante de exercer seu direito constitucional de recorrer ao STF por via do Recurso Extraordinário. Sem o decurso integral do prazo recursal, não há preclusão e, portanto, a coisa julgada material não se formou. A certidão que a atesta é juridicamente nula, por atestar fato inexistente.
+Requer, assim, seja anulada a certidão de trânsito em julgado, com o regular prosseguimento do feito.
+É o relatório. Passo a decidir.
+A irresignação não merece prosperar.
+Com efeito, a jurisprudência desta Corte é pacífica no sentido de que é incabível a impetração de mandado de segurança contra ato judicial, salvo nas hipóteses de flagrante ilegalidade, abuso de poder ou em situações teratológicas, que importem irreparável lesão ao direito líquido e certo do impetrante.
+Nesse sentido:
+AGRAVO INTERNO NO MANDADO DE SEGURANÇA. IMPETRAÇÃO CONTRA SUPOSTA OMISSÃO NA APRECIAÇÃO DE EMBARGOS DE DECLARAÇÃO OPOSTOS NO RESP 1.417.519/RS. INEXISTÊNCIA DE ATO ABUSIVO OU ILEGAL AMPARÁVEL POR MANDADO DE SEGURANÇA.
+I. A jurisprudência do STJ alinha-se no sentido de que o mandado de segurança contra ato judicial é medida excepcional, cabível somente em situações nas quais se pode verificar, de plano, ato judicial eivado de ilegalidade, teratologia ou abuso de poder, que importem ao paciente irreparável lesão ao seu direito líquido e certo.
+II. Não se verifica, portanto, a ocorrência de ato abusivo, teratológico ou ilegal, tampouco a existência de direito líquido e certo amparável pelo mandado de segurança. O que se vê é mero inconformismo da parte com o desfecho das repetidas decisões em seu desfavor, sendo manifestamente incabível a segurança.
+III. AGRAVO INTERNO A QUE SE NEGA PROVIMENTO.
+(AgInt no MS n. 27.864/DF, relator Ministro Paulo de Tarso Sanseverino, Corte Especial, julgado em 9/11/2021, DJe de 24/11/2021.)
+AGRAVO INTERNO NO MANDADO DE SEGURANÇA. CONSTITUCIONAL. PROCESSUAL CIVIL. ATO COATOR. DECISÃO JUDICIAL. CABIMENTO RESTRITO. NENHUMA EXCEPCIONALIDADE. AUSÊNCIA DE MANIFESTA ILEGALIDADE OU TERATOLOGIA. AGRAVO DESPROVIDO.
+1. Não cabe mandado de segurança contra ato judicial passível de recurso ou correição" (Súmula 267/STF).
+2. Não há, na hipótese, excepcionalidade apta a ensejar o cabimento do mandado de segurança contra o ato judicial que: (I) concluiu, com base na jurisprudência do STJ e na legislação em vigor, pela inviabilidade dos agravos previstos nos arts. 1.030, § 1º, e 1.042 do CPC de 2015, quando interpostos contra acórdão, porquanto estes tão somente são cabíveis em face de decisão monocrática que não admite o recurso extraordinário; (II) diante do manifesto não cabimento do recurso e da consequente não interrupção ou suspensão do prazo recursal, determinou a certificação do trânsito em julgado e a baixa dos autos.
+3. Agravo interno a que se nega provimento.
+(AgInt no MS n. 28.133/DF, relator Ministro Raul Araújo, Corte Especial, julgado em 22/3/2022, DJe de 29/3/2022.)
+AGRAVO INTERNO NO MANDADO DE SEGURANÇA. IMPETRAÇÃO CONTRA ATO JURISDICIONAL DE ÓRGÃO FRACIONÁRIO DO STJ. AUSÊNCIA DE TERATOLOGIA. NÃO CABIMENTO DO WRIT.
+1. A orientação do STJ é pacífica no sentido do não cabimento do writ contra ato jurisdicional de órgãos fracionários ou de Relator desta Corte, exceto quando se possa constatar a existência de flagrante e evidente teratologia.
+2. Na hipótese dos autos, do atento exame das razões do presente mandado de segurança, conclui-se que os impetrantes não lograram êxito em demonstrar de que forma o acórdão que apreciou os segundos embargos de declaração seria teratológico ou flagrantemente ilegal.
+3. Agravo interno não provido.
+(AgInt no MS n. 28.522/DF, relatora Ministra Nancy Andrighi, Corte Especial, julgado em 13/12/2022, DJe de 16/12/2022.)
+O ato impugnado não é teratológico e, tampouco, manifestamente ilegal.
+Na presente hipótese, almeja-se a declaração de nulidade da decisão proferida pelo Senhor Ministro Vice-Presidente, que manteve a certificação de trânsito em julgado, com determinação de arquivamento dos autos, visto que houve o exaurimento da prestação jurisdicional, não havendo nada mais que se possa apreciar.
+O impetrante afirma que após o julgamento de seu recurso especial pela Terceira Turma do Superior Tribunal de Justiça interpôs recurso extraordinário para o Supremo Tribunal Federal. A Vice-Presidência negou seguimento ao recurso, aplicando ao caso os Temas 339 e 660 do Supremo Tribunal Federal. Daí interpôs agravo interno, ao qual foi negado provimento pelo Corte Especial.
+Alega que serventia certificou o trânsito em julgado prematuramente considerando apenas 5 dias de prazo. Mesmo assim, a apresentou petição apontando o erro, bem como interpôs novo recurso extraordinário dentro dos 15 dias úteis legais. Ainda assim, o Ministro Vice-Presidente manteve a certificação como "corretamente realizada" e determinou o arquivamento dos autos.
+No caso, a incidência dos temas de Repercussão Geral ns. 339 e 660 do STF obsta o seguimento do recurso extraordinário, de forma que é incabível a interposição de outro recurso extraordinário. Após o julgamento do agravo interno pela Corte Especial, somente seriam cabíveis - eventualmente - novos aclararatórios, cujo prazo é de 5 (cinco) dias úteis, nos termos do art. 1.023 do CPC. De forma que, não há falar em erro na certidão de trânsito em julgado.
+Não se verifica, assim, a ocorrência de ato judicial teratológico, tampouco a existência de direito líquido e certo amparável por mandado de segurança, na medida em que foi impetrado contra decisão da Vice-Presidência desta Corte devidamente fundamentada, com motivação clara e consistente, embora dissonante da pretensão do impetrante, o que evidencia, claramente, a indevida utilização da via mandamental.
+Nessa linha de entendimento, confira-se:
+DIREITO PROCESSUAL CIVIL. AGRAVO INTERNO. MANDADO DE SEGURANÇA. ATO JURISDICIONAL. INEXISTÊNCIA DE DIREITO LÍQUIDO E CERTO. AGRAVO INTERNO IMPROVIDO.
+1. Agravo interno apresentado contra decisão que indeferiu liminarmente mandado de segurança impetrado contra de ato da Secretaria de Processamento de Feitos do STJ, por suposto erro na certificação do trânsito em julgado do AREsp 2.245.193/RJ.
+2. A parte impetrante sustenta que a certificação do trânsito em julgado somente poderia ocorrer após o prazo de 15 (quinze) dias úteis, contados a partir da publicação do acórdão da Corte Especial, proferido no julgamento de embargos de declaração no agravo interno, confirmando a negativa de seguimento de recurso extraordinário.
+3. Não se vislumbra direito líquido e certo, pois a incidência do tema de repercussão geral n. 181 do STF impede o seguimento do recurso extraordinário, tornando incabível a interposição de novo recurso extraordinário. Somente seriam cabíveis - eventualmente - novos aclararatórios, cujo prazo é de 5 (cinco) dias úteis, nos termos do art. 1.023 do CPC. Logo, não há falar em erro na certidão de trânsito em julgado.
+Agravo interno improvido.
+(AgInt no MS n. 30.842/DF, relator Ministro Humberto Martins, Corte Especial, julgado em 12/8/2025, DJEN de 15/8/2025.)
+Ante o exposto, com fundamento no artigo 10 da Lei n. 12.016/2009 c/c o artigo 212 do RI/STJ, indefiro liminarmente a inicial. Julgo prejudicado o pedido liminar.
+Sem condenação em honorários advocatícios, conforme Súmula n. 105/STJ.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. MANDADO DE SEGURANÇA. ATO COATOR. DECISÃO JUDICIAL. CABIMENTO RESTRITO. NENHUMA EXCEPCIONALIDADE. AUSÊNCIA DE MANIFESTA ILEGALIDADE OU TERATOLOGIA. INDEFERIMENTO LIMINAR DA INICIAL. LIMINAR PREJUDICADA.
