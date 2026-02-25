@@ -39,11 +39,10 @@ DA FISCALIZAÇÃO
 Seção I
 Das Sanções Administrativas
 CAPÍTULO IX
-DA AGÊNCIA NACIONAL DE PROTEÇÃO DE DADOS E DO CONSELHO NACIONAL DE PROTEÇÃO DE DADOS PESSOAIS E DA PRIVACIDADE
+DA AGÊNCIA NACIONAL DE PROTEÇÃO DE DADOS E DO CONSELHO NACIONAL DE PROTEÇÃO DE DADOS PESSOAIS E DA PRIVACIDADE'
 Seção I
 Da Agência Nacional de Proteção de Dados
 V - (revogado);
-V-A - Procuradoria; e
 V-A - Procuradoria;
 V-B - Auditoria; e
 I - que lhe forem transferidos pelos órgãos da Presidência da República; e
