@@ -1,0 +1,41 @@
+DECISÃO
+Trata-se de conflito negativo de competência suscitado pelo Juízo de Direito da Unidade Regional do Departamento Estadual de Execução Criminal de Araçatuba - DEECRIM 2ª RAJ/SP em face do Juízo de Direito da 7ª Vara Criminal de Aracaju/SE, nos autos da execução penal n. 0001526-43.2015.8.25.0086.
+Consta dos autos que DANIEL DA SILVA LIMA MARTINS cumpre pena total de 46 anos, 9 meses e 4 dias de reclusão, em regime fechado, decorrente de condenação proferida pelo Juízo de Direito da 7ª Vara Criminal de Aracaju/SE.
+Sobreveio decisão do Juízo suscitado determinando a remessa da execução penal ao Estado de São Paulo, ao fundamento de que o apenado se encontra detido no Centro de Detenção Provisória de Diadema/SP e manifestou o desejo de continuar cumprindo a pena naquele Estado, onde reside sua família, tendo o pleito contado com a anuência ministerial.
+Recebidos os autos, o Juízo da Unidade Regional do DEECRIM de Araçatuba/SP declinou da competência, assentando que a execução penal constitui regra de competência jurisdicional (art. 65 da Lei de Execução Penal), competindo ao juízo da condenação, não sendo possível a transferência unilateral da execução apenas em razão do local de cumprimento do mandado de prisão ou do domicílio do apenado.
+Suscitou-se, assim, o presente conflito negativo de competência.
+O Ministério Público Federal manifestou-se pelo conhecimento do conflito e pela declaração de competência do Juízo suscitado  Juízo de Direito da 7ª Vara Criminal de Aracaju/SE.
+É o relatório. Decido.
+O conflito deve ser conhecido, porquanto instaurado entre juízos vinculados a tribunais diversos, atraindo a competência desta Corte Superior, nos termos do art. 105, I, "d", da Constituição Federal.
+A controvérsia cinge-se à definição do juízo competente para a execução da pena imposta a DANIEL DA SILVA LIMA MARTINS, diante do cumprimento do mandado de prisão em unidade federativa diversa daquela em que proferida a sentença condenatória e da manifestação de interesse do apenado em permanecer no Estado de São Paulo.
+Nos termos do art. 65 da Lei n. 7.210/1984, "A execução penal competirá ao Juiz indicado na lei local de organização judiciária e, na sua ausência, ao da sentença." A regra, portanto, é a competência do juízo da condenação.
+A jurisprudência da Terceira Seção desta Corte é pacífica no sentido de que a competência para a execução penal cabe ao juízo da condenação, sendo possível, quando necessário, apenas a deprecação de atos de fiscalização ao juízo do domicílio do apenado, sem deslocamento da competência decisória.
+Conforme destacado no parecer ministerial, "a competência para a execução penal cabe ao Juízo da condenação, sendo deprecada ao Juízo do domicílio do apenado somente a supervisão e acompanhamento do cumprimento da pena determinada, inexistindo deslocamento de competência" (CC 113.112/SC, Rel. Ministro GILSON DIPP, TERCEIRA SEÇÃO, DJe 17/11/2011).
+No mesmo sentido:
+"Observado o teor do art. 65 da Lei de Execuções Penais, a competência para execução da pena cabe ao juízo da condenação. Não se mostra viável a transferência unilateral da execução da reprimenda, fazendo-se necessária a concordância do juízo de destino, a quem incumbe avaliar a existência de vagas e estabelecimentos adequados." (AgRg no CC n. 199.259/DF, relatora Ministra Daniela Teixeira, Terceira Seção, julgado em 13/3/2024, DJe de 18/3/2024.)
+Ainda:
+"A transferência da execução da pena não pode ser determinada de maneira unilateral: é necessária a prévia consulta ao juízo para o qual o sentenciado pretende ser transferido, notadamente a fim de se verificar a disponibilidade de vagas ou de condições adequadas para o cumprimento da reprimenda no sistema prisional local." (AgRg no CC n. 189.921/SC, relator Ministro Rogerio Schietti Cruz, Terceira Seção, julgado em 14/9/2022, DJe de 21/9/2022.)
+Em suma:
+CONFLITO NEGATIVO DE COMPETÊNCIA. EXECUÇÃO PENAL. EXECUTADO CAPTURADO EM LOCAL DIVERSO DO JUÍZO DA EXECUÇÃO. COMPETÊNCIA DO JUÍZO DA EXECUÇÃO PENAL. TRANSFERÊNCIA DA EXECUÇÃO APENAS APÓS CONSULTA E CONCORDÂNCIA DO JUÍZO DESTINATÁRIO. PRECEDENTES. 1. A
+prisão do apenado em localidade diversa do Juízo da execução, em razão de cumprimento de mandado de prisão expedido pelo Juízo da condenação, não constitui causa legal para deslocamento de competência para a execução da pena. Precedentes.
+2. A transferência da execução depende de consulta prévia e concordância do Juízo de destino, não podendo ser determinada de maneira unilateral.
+Precedentes.
+3. Hipótese em que o Juízo da execução, considerando a captura do executado em localidade diversa, declinou da competência e determinou a remessa dos autos da própria execução ao Juízo da prisão, sem consulta prévia.
+4. Conflito conhecido para declarar competente o Juízo de Direito da Vara de Execução Penal do Interior de Campo Grande - MS (suscitado), podendo ser deprecado o acompanhamento e fiscalização das penalidades impostas, sem deslocamento da competência.
+(CC n. 212.596/SP, relator Ministro Og Fernandes, Terceira Seção, julgado em 8/10/2025, DJEN de 13/10/2025.)
+CONFLITO NEGATIVO DE COMPETÊNCIA. EXECUÇÃO PENAL. EXECUTADO COM DOMICILIO EM LOCAL DIVERSO DO JUÍZO DA EXECUÇÃO. COMPETÊNCIA DO JUÍZO DA EXECUÇÃO PENAL. POSSIBILIDADE DE EXPEDIÇÃO DE CARTA PRECATÓRIA PARA O ACOMPANHAMENTO DO CUMPRIMENTO DA PENA SEM DESLOCAMENTO DA COMPETÊNCIA. PRECEDENTES.
+1. A mudança de domicílio do executado não constitui causa legal de deslocamento de competência para execução da pena, sendo indispensável a consulta prévia ao juízo destinatário. Precedentes.
+2. A jurisprudência do Superior Tribunal de Justiça consolidou o entendimento de que "a competência para a execução penal cabe ao Juízo da condenação, sendo deprecada ao Juízo do domicílio do apenado somente a supervisão e acompanhamento do cumprimento da pena determinada, inexistindo deslocamento de competência" (CC n. 113.112/SC, relator Ministro Gilson Dipp, Terceira Seção, julgado em 9/11/2011, DJe de 17/11/2011).
+3. Caso em que o Juízo da execução, considerando a mudança de endereço da apenada, declinou da competência e determinou a remessa dos autos da própria execução ao juízo do domicílio da executada, sem consulta prévia.
+4. Conflito conhecido para declarar competente o Juízo da Vara de Execução Penal - Meio Fechado e Semiaberto de Pouso Alegre - MG (suscitado), podendo ser deprecados o acompanhamento e a fiscalização das penalidades impostas, sem deslocamento da competência.
+(CC n. 212.510/SP, relator Ministro Og Fernandes, Terceira Seção, julgado em 10/12/2025, DJEN de 15/12/2025.)
+No caso concreto, verifica-se que a execução penal teve início perante o Juízo da 7ª Vara Criminal de Aracaju/SE, responsável pela condenação. O simples fato de o apenado encontrar-se custodiado em São Paulo e de possuir vínculos familiares naquele Estado não constitui causa legal de deslocamento da competência.
+Embora o art. 86 da Lei de Execução Penal admita a execução da pena em unidade federativa diversa, tal providência depende de circunstâncias administrativas e da concordância do juízo de destino, não se tratando de direito subjetivo do apenado nem de hipótese de deslocamento automático da competência jurisdicional.
+A eventual fiscalização de condições do cumprimento da pena pode ser realizada mediante expedição de carta precatória ao juízo do local onde o apenado se encontra custodiado, preservando-se, contudo, a competência decisória do juízo da condenação.
+Assim, em consonância com o parecer do Ministério Público Federal e com a jurisprudência consolidada desta Corte, impõe-se reconhecer a competência do Juízo de Direito da 7ª Vara Criminal de Aracaju/SE.
+A propósito:
+CONFLITO DE COMPETÊNCIA. EXECUÇÃO PENAL. EXECUTADO COM DOMICÍLIO EM LOCAL DIVERSO DO JUÍZO DA EXECUÇÃO. COMPETÊNCIA DO JUÍZO DA EXECUÇÃO PENAL. IMPOSSIBILIDADE DA MUDANÇA DA COMPETÊNCIA DO JUÍZO DA EXECUÇÃO DA PENA APENAS EM RAZÃO DO LOCAL DE CUMPRIMENTO DO MANDADO DE PRISÃO OU DE DOMICÍLIO DO APENADO. POSSIBILIDADE DE DEPRECAÇÃO DA FISCALIZAÇÃO DAS MEDIDAS. PARECER PELA COMPETÊNCIA DO JUÍZO SUSCITADO.
+(e-STJ Fl.14).
+Ante o exposto, conheço do conflito para declarar competente o Juízo de Direito da 7ª Vara Criminal de Aracaju/SE .
+Publique-se. Intimem-se. Comunique-se.
+EMENTA
