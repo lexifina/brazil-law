@@ -1,0 +1,1 @@
+Art. 14-A. Incumbe ao poder público proporcionar assistência integral e multiprofissional à criança e ao adolescente dependentes químicos e/ou com problemas decorrentes do uso de drogas, com vistas à proteção de sua saúde física e mental e de seu bem-estar social, e promover campanhas de prevenção do uso de drogas lícitas e ilícitas.
