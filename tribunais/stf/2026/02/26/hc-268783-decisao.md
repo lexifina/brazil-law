@@ -1,0 +1,33 @@
+Decisão
+Trata-se de Habeas Corpus, com pedido de liminar, impetrado contra decisão proferida pela Ministra MARIA MARLUCE CALDAS, do Superior Tribunal de Justiça, no HC 1.067.553/SP.
+Consta dos autos que o paciente foi preso em flagrante, convertido em preventiva, “pela prática dos crimes de porte ilegal de arma de fogo e falsa identidade”. Colhe-se do decreto prisional:
+
+No caso, se não bastasse a gravidade em abstrato do delito, vislumbro a presença dos requisitos justificadores da prisão preventiva, sendo incabível conceder ao indiciado o benefício da liberdade provisória, cumulada com a fixação de medidas cautelares, pois inadequadas e insuficientes para o caso concreto. O indiciado usa remédios controlados, estava com armas municiadas e portava roupa de identificação da polícia civil. O delito cuja autoria é imputada ao investigado, associado à sua personalidade, é gravíssimo e impõe a necessidade da custódia cautelar, para se garantir a ordem pública (um dos fundamentos exigidos pelo art. 312 do CPP). As circunstâncias que envolvem o caso concreto afastam, a princípio, qualquer eficácia ou possibilidade de aplicação das medidas cautelares previstas no art. 319 do CPP e em tese aplicáveis, pois nenhuma delas mostra-se eficiente ou idônea para a coibição da prática de novas condutas como essa. Nestes termos, a prisão preventiva mostra-se necessária e adequada (art. 282). Em outras palavras, a gravidade da infração e suas circunstâncias peculiares, mormente a grave ameaça permitida por meio da arma em questão, capaz de incutir temor na vítima e de revelar desprezo pelos valores imprescindíveis para a paz social, recomendam a prisão como garantia da ordem pública contra investidas [...].
+Além disso, a soltura do investigado no presente momento, antes mesmo de sua citação, poderia inviabilizar o processo e impedir a devida apuração do ocorrido, mormente considerando que o investigado não comprovou atividade lícita e residência fixa, a revelar que a chance de fuga é relevantíssima.
+
+Buscando a revogação da custódia, a defesa impetrou Habeas Corpus no Tribunal de Justiça do Estado de São Paulo, pendente de julgamento.
+Na sequência, nova impetração, desta vez direcionada ao Superior Tribunal de Justiça, não conhecida pela Ministra relatora, que, entretanto, concedeu a ordem de ofício, “apenas para determinar que o Tribunal a quo aprecie a medida cautelar no habeas corpus originário, como entender de direito”, em decisão assim fundamentada:
+
+O impetrante insurge-se contra o decreto de prisão cautelar. Não decidida a questão pelo Tribunal de origem, evidencia a incompetência do Superior Tribunal de Justiça para apreciar e julgar originalmente a impetração, nos termos do art. 105, I, c, da Constituição Federal, sob pena de  indevida supressão de instância.
+[...]
+Por outro lado, não se pode subtrair do Poder Judiciário o dever de analisar, ainda que de ofício, eventual ocorrência de flagrante ilegalidade, sobretudo quando houve pedido de liminar no habeas corpus impetrado na origem.
+No caso, segundo as informações prestadas, o writ foi recebido no Tribunal de Justiça em 13 de janeiro, sendo incluído na pauta da sessão de julgamento na modalidade virtual prevista para iniciar-se no dia 2 de março, sem a apreciação da liminar.
+Ora, a inclusão para julgamento em dois meses da impetração, sem apreciação da tutela de urgência, configura negativa de prestação jurisdicional, impondo a remessa dos autos ao Tribunal de origem para que proceda ao exame da impetração, notadamente sobre a liminar requerida.
+[...]
+Ante o exposto, não conheço do writ. Concedo ordem de ofício, apenas para determinar que o Tribunal a quo aprecie a medida cautelar no habeas corpus originário, como entender de direito.
+
+Nesta ação, o impetrante alega, em síntese, a ausência dos pressupostos autorizadores para a manutenção da prisão preventiva. Destaca que “o paciente é idoso (65 anos) e faz uso contínuo de medicação controlada (benzodiazepínico), com necessidade de acompanhamento médico regular”. Ao final, requer a concessão da ordem para revogar o decreto prisional, com ou sem imposição de medidas cautelares diversas.
+É o relatório. Decido.
+
+No presente caso, incide óbice ao conhecimento da ordem impetrada neste SUPREMO TRIBUNAL FEDERAL, uma vez que se impugna decisão monocrática de Ministro do Superior Tribunal de Justiça (HC 219.841-AgR, Rel. Min. ALEXANDRE DE MORAES, Primeira Turma, DJe de 6/10/2022;  HC 216.953-AgR, Rel. Min. DIAS TOFFOLI, Primeira Turma, DJe de 29/9/2022; HC 217.751-AgR, Rel. Min. CÁRMEN LÚCIA, Primeira Turma, DJe de 27/9/2022; HC 208.035-AgR, Rel. Min. EDSON FACHIN, Segunda Turma, DJe de 21/9/2022;  HC 216.979-AgR, Rel. Min. GILMAR MENDES, Segunda Turma, DJe de 25/8/2022; HC 216.955-AgR, Rel. Min. ROSA WEBER, Primeira Turma, DJe de 25/8/2022; HC 217.067-AgR, Rel. Min. ALEXANDRE DE MORAES, Primeira Turma, DJe de 24/8/2022; RHC 214.783-AgR, Rel. Min. NUNES MARQUES, Segunda Turma, DJe de 4/8/2022).
+De fato, o exaurimento da instância recorrida é, como regra, pressuposto para ensejar a competência do SUPREMO TRIBUNAL FEDERAL, conforme vem sendo reiteradamente proclamado por esta CORTE (HC 211.364-AgR, Rel. Min. EDSON FACHIN, Segunda Turma, DJe de 24/8/2022; HC 172.384, Rel. Min. MARCO AURÉLIO, Redator para o Acórdão: Min. ALEXANDRE DE MORAES, Primeira Turma, DJe de 10/2/2021; HC 180.895-AgR, Rel. Min. ROBERTO BARROSO, Primeira Turma, DJe de 18/6/2020; HC 262.350, Redatora para o Acórdão: Min. ROSA WEBER, Primeira Turma, DJe de 30/8/2019).
+Como bem apontado pelo Ministro LUIZ FUX, com base em diversos outros precedentes desta Primeira Turma, em regra, a flexibilização dessa norma implicaria afastamento do texto da Constituição, pois a competência deste SUPREMO TRIBUNAL, sendo matéria de direito estrito, não pode ser interpretada de forma ampliada para alcançar autoridades, no caso, membros de Tribunais Superiores, cujos atos não estão submetidos à apreciação do SUPREMO TRIBUNAL FEDERAL (HC 181.447-AgR, Rel. Min. LUIZ FUX, Primeira Turma, DJe de 21/5/2020)
+Esta Primeira Turma vem autorizando, somente em circunstâncias específicas, o exame de habeas corpus quando não encerrada a análise na instância competente, óbice superável apenas em hipótese de teratologia (HC 2156.951-AgR, Primeira Turma, DJe de 25/8/2022) ou em casos excepcionais (HC 212.368-AgR, Primeira Turma, DJe de 25/4/2022), como bem destacado pela Ministra ROSA WEBER.
+No caso, entretanto, não se apresentam as hipóteses de teratologia ou excepcionalidade.
+Diante do exposto, com fundamento no art. 21, §1º, do Regimento Interno do STF, INDEFIRO a ordem de HABEAS CORPUS.
+Publique-se.
+Brasília, 26 de fevereiro de 2026.
+
+Ministro ALEXANDRE DE MORAES
+Relator
+Documento assinado digitalmente
