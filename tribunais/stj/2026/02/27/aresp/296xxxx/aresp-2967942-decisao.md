@@ -1,0 +1,25 @@
+DECISÃO
+Em análise, agravo em recurso especial contra decisão que inadmitiu o recurso especial interposto por WENDERSON PEREIRA GOMES PONTES, no qual se insurge contra acórdão do Tribunal Regional Federal da 1ª Região, assim ementado:
+PROCESSUAL CIVIL. APELAÇÃO. RAZÕES DISSOCIADAS E FUNDAMENTAÇÃO GENÉRICA. AFRONTA AO PRINCÍPIO DA DIALETICIDADE. NEGATIVA DE SEGUIMENTO AO APELO.
+1. Insurge-se a apelante contra sentença que acolheu a questão prejudicial suscitada, com base no art. 487, II, do NCPC, reconheceu a ocorrência da prescrição quinquenal e extinguiu o processo com resolução de mérito.
+2. O apelo, contudo, está dissonante com o teor do julgado, já que se limita a discorrer genericamente sobre suposta violação ao princípio da presunção da inocência e o direito ao contraditório e à ampla defesa prévia por parte da Administração Militar e que a sentença resiste em efetivar os efeitos dos princípios constitucionais da presunção da inocência; do direito à ampla defesa prévia e da inafastabilidade da jurisdição, incidindo, assim, em nulidade absoluta ao acolher a argumentação trazida pela União. Em resumo, não há qualquer tentativa de se demonstrar o equívoco da sentença ou a ausência de ocorrência da prescrição, já que os argumentos do recurso são os mesmos já mencionados e analisados pelo Juízo de primeiro grau.
+3. A apelação devolverá ao egrégio Tribunal o conhecimento da matéria impugnada, nos termos do art. 1.013 do Código de Processo Civil. No entanto, não deve ser conhecida se suas razões não expuserem de forma clara os motivos pelos quais entende que a sentença deve ser reformada.
+4. Há clara violação ao princípio da dialeticidade, pelo qual cabe ao recorrente impugnar as razões lançadas na decisão atacada, buscando demonstrar a existência de erro in procedendo ou in judicando. A apresentação de argumentação absolutamente genérica em apelação tem como consequência a impossibilidade de seu conhecimento, tendo em vista a inexistência de requisito de admissibilidade.
+5. Recurso não conhecido.
+Os embargos de declaração opostos foram rejeitados (fls. 189/200).
+Em suas razões recursais, a parte recorrente alega violação dos arts. 10, 141, 357, 492, 927, III e V, 1.013 e 1.022 do CPC; art. 1º do Decreto 20.910/1932,
+ ..  visto que o ato administrativo combatido é produzido quando o recorrente se encontra na condição de investigado por suposta ocorrência de crime de deserção e tais premissas legitimam a produção do despacho de saneamento ou/e pronunciamento determinando o restabelecimento do status quo ante (fl. 213).
+Contraminuta apresentada.
+É o relatório.
+Passo a decidir.
+Na origem, foi ajuizada ação contra a União Federal, na qual o autor questiona a legalidade de sua exclusão do serviço militar ativo, sob a alegação de que o ato administrativo foi praticado sem a instauração de processo administrativo, violando os princípios do contraditório e da ampla defesa.
+A sentença de primeiro grau reconheceu a prescrição quinquenal com base no art. 1º do Decreto 20.910/1932 e extinguiu o processo com resolução de mérito.
+Por sua vez, o Tribunal Regional Federal da 1ª Região, ao julgar a apelação, negou seguimento ao recurso, sob o fundamento de que as razões recursais estavam dissociadas dos fundamentos da sentença, configurando violação ao princípio da dialeticidade (art. 1.010, II, do CPC/2015).
+Assim, "a alegação de afronta ao art. 1.022 do CPC, de forma genérica, sem a efetiva demonstração de omissão do acórdão recorrido no exame de teses imprescindíveis para o julgamento da lide, impede o conhecimento do recurso especial, ante a deficiência na fundamentação (Súmula 284 do STF)" (AgInt no AREsp n. 1.740.605/SP, relator Ministro Gurgel de Faria, Primeira Turma, julgado em 27/11/2023, DJe de 5/12/2023).
+No caso, a parte recorrente não demonstra, de forma clara, qual seria o ponto omisso, contraditório ou obscuro do acórdão recorrido, bem como a sua importância para o deslinde da controvérsia, o que atrai a aplicação do óbice da Súmula 284 do STF, aplicável, por analogia, no âmbito desta Corte.
+Quanto aos demais dispositivos legais indicados como violados, além da ausência de prequestionamento (incidência da Súmula 211/STJ), as razões recursais estão dissociadas dos fundamentos utilizados pelo aresto recorrido, uma vez que não impugnaram o fundamento de o acórdão inépcia da apelação, nos termos do art. 932, III, do CPC.
+Desse modo, a parte não observou o princípio da dialeticidade e a necessária pertinência temática entre as razões de decidir e os fundamentos utilizados pelo recurso para justificar o pedido de reforma ou de nulidade do julgado, além de não infirmar o fundamento do acórdão recorrido, atraindo a aplicação do óbice das Súmulas 283 e 284 do STF, por analogia.
+Isso posto, com fundamento no art. 253, parágrafo único, II, a, do RISTJ, conheço do agravo, para não conhecer do recurso especial.
+Majoro os honorários advocatícios em 2% (dois por cento), com fundamento no art. 85, § 11, do CPC, observados os limites percentuais previstos no § 3º do referido dispositivo legal, bem como eventual concessão da gratuidade da justiça.
+Intimem-se.
+ EMENTA
