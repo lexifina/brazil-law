@@ -1,0 +1,11 @@
+DECISÃO
+Examina-se conflito positivo de competência, com pedido liminar, em que são suscitantes ROBERTO GONÇALVES DE LIMA e REGINA MARIA SANTOS DE LIMA e suscitados o JUÍZO DE DIREITO DA 3ª VARA CÍVEL DE HORTOLÂNDIA - SP e o JUÍZO FEDERAL DA 8ª VARA DE CAMPINAS - SJ/SP.
+Conflito de competência: alegam que a ação em trâmite na Justiça Federal (Processo n. 5010970-30.2024.4.03.6105) abrange a validade do título dominial que embasou a ação de reintegração de posse ajuizada na Justiça estadual (Processo n. 1005550-19.2021.8.26.0229), bem como a legitimidade da cadeia dominial relativa ao imóvel de matrícula 62.470, do 1º Cartório de Registro de Imóveis de Sumaré/SP. Defendem a ocorrência de conflito de competência, diante da coexistência de comando judicial estadual, já transitado em julgado, determinando a reintegração de posse, e de decisão proferida no âmbito federal assegurando a manutenção da posse do mesmo bem, circunstância que, segundo afirmam, revela risco de decisões inconciliáveis e de esvaziamento da jurisdição federal. Postulam, liminarmente, a suspensão do cumprimento da ordem de reintegração de posse até o julgamento definitivo do conflito.
+É O RELATO DO NECESSÁRIO. DECIDE-SE.
+Conforme reconhecido pelos próprios suscitantes, a ação de reintegração de posse ajuizada perante o Juízo estadual já foi definitivamente julgada, com o respectivo trânsito em julgado.
+Tal circunstância constitui óbice instransponível ao conhecimento do presente conflito, à luz do entendimento consolidado na Súmula 59/STJ, segundo a qual "não há conflito de competência se já existe sentença com trânsito em julgado, proferida por um dos juízos conflitantes".
+Com efeito, o conflito de competência não se presta à revisão de decisão acobertada pela coisa julgada, tampouco pode ser manejado como sucedâneo recursal para afastar os efeitos do provimento jurisdicional definitivo. Eventual inconformismo quanto à decisão transitada em julgado deve ser veiculado pelos meios processuais próprios. Assim, fica afastada a alegada caracterização do conflito.
+Forte nessas razões, NÃO CONHEÇO do conflito de competência.
+Expeçam-se ofícios aos juízos suscitados, comunicando-lhes.
+Intime-se.
+EMENTA
