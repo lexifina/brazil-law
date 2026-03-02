@@ -1,0 +1,44 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 24/02/2026 a 02/03/2026, por unanimidade, rejeitar os embargos de declaração, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Humberto Martins, Ricardo Villas Bôas Cueva, Moura Ribeiro e Daniela Teixeira votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro Humberto Martins.
+EMENTA
+PROCESSO CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. OMISSÃO, CONTRADIÇÃO OU OBSCURIDADE. AUSÊNCIA.
+1. Embargos de declaração que apontam suposta omissão em sua fundamentação.
+2. Ausentes os vícios previstos no art. 1.022 do CPC, rejeitam-se os embargos de declaração.
+3. Embargos de declaração rejeitados.
+RELATÓRIO
+Relatora: MINISTRA NANCY ANDRIGHI
+Examinam-se embargos de declaração opostos por HASSE ADVOCACIA E CONSULTORIA contra acórdão que negou provimento ao agravo interno, nos termos da seguinte ementa:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE ARBITRAMENTO E COBRANÇA DE HONORÁRIOS ADVOCATÍCIOS. AUSÊNCIA DE IMPUGNAÇÃO DOS FUNDAMENTOS DA DECISÃO DEINADMISSIBILIDADE DO RECURSO ESPECIAL. 1. Ação de arbitramento e cobrança de honorários advocatícios. 2. Agravo interno interposto contra decisão que não conheceu do agravo emrecurso especial, em razão da não impugnação dos seguintes fundamentos da decisão de inadmissibilidade: ausência de indicação do ponto omisso, contraditório ou obscuro - Súmula 284/STF, Súmula 5/STJ e Súmula 7/STJ.3. Consoante entendimento pacífico desta Corte, não merece conhecimento o agravo em recurso especial que não impugna, especificamente, osfundamentos da decisão de inadmissão do recurso especial. Precedentes. 4. Agravo interno não provido (e-STJ fl. 3689).
+Nas razões do presente recurso, a parte embargante alega, preliminarmente, a decisão superveniente da Terceira Turma em idêntica hipótese, devendo ser considerada como fato superveniente relevante ao julgamento . Sustenta que o acórdão recorrido foi omisso quanto ao arbitramento dos honorários e à jurisprudência do STJ acerca do tema.
+Requer, assim, o acolhimento dos embargos de declaração para sanar as omissões apontadas e, consequentemente, o conhecimento e provimento do recurso especial.
+É o relatório.
+EMENTA
+PROCESSO CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. OMISSÃO, CONTRADIÇÃO OU OBSCURIDADE. AUSÊNCIA.
+1. Embargos de declaração que apontam suposta omissão em sua fundamentação.
+2. Ausentes os vícios previstos no art. 1.022 do CPC, rejeitam-se os embargos de declaração.
+3. Embargos de declaração rejeitados.
+VOTO
+Relatora: MINISTRA NANCY ANDRIGHI
+Nos termos do art. 1.022 do CPC, somente é cabível o recurso de embargos de declaração nas hipóteses em que haja obscuridade, contradição, omissão ou erro material no julgado impugnado.
+- Da omissão quanto ao arbitramento dos honorários advocatícios
+A embargante afirma a existência de omissão e contradição no acórdão recorrido ao reconhecer o direito do advogado rescindido e, logo em seguida, vincular ao êxito da ação originária. Sustenta que houve violação do art. 1022 do CPC quanto ao ponto.
+Não obstante, o acórdão embargado consignou expressamente ser necessário que a parte agravante indique, com clareza e exatidão, o ponto omisso, obscuro ou contraditório do acórdão recorrido, trazendo argumentação apta a identificar a eventual ofensa. Ausente a demonstração da violação alegada, incide a Súmula 284/STF (e-STJ fl. 3691).
+Nessa linha, a questão apontada pela parte embargante, resume-se a pedido de reanálise das suas razões apresentadas no agravo interno, não se constituindo, portanto, em pontos omissos, contraditórios ou obscuros do julgado, mas mero inconformismo com os fundamentos adotados na decisão embargada.
+Cumpre destacar, ainda, que o vício da contradição verifica-se quando existem, no bojo da mesma decisão ou acórdão, argumentos logicamente inconciliáveis entre si, sendo um capaz de infirmar o outro, o que não se verifica na presente hipótese. Nesse sentido: EDcl no AgInt nos EAREsp 1.125.072/RJ, Corte Especial, DJe 2/4/2019.
+- Da omissão quanto aos precedentes desta Corte acerca dos honorários pelo tempo e atuação do advogado
+A embargante argumenta que o acórdão recorrido foi omisso quanto à alegação de que o reexame de fatos e provas não seria necessário para a análise do direito aos honorários, devendo ser afastada a aplicabilidade das Súmulas 5 e 7/STJ, bem como da Súmula 284/STF.
+Contudo, verifica-se que esta Corte Superior, ao julgar o recurso de agravo interno interposto pela parte, concluiu o seguinte (e-STJ fls. 3692-3693):
+Embora a agravante, nas razões do agravo em recurso especial, tenha apresentado argumentos genéricos para afastar as Súmulas 5 e 7 do STJ, e, no agravo interno, tenha apenas reiterado que "busca é a devida aplicação do art. 85, §§ 2º, 8º e 20, do CPC, em razão da atuação da agravante durante o período contratado, até quando houve a rescisão imotivada por parte da agravada" (fls. 3657), verifica-se a ausência de impugnação específica e suficiente aos óbices sumulares apontados.
+Ademais, deve-se enfatizar que a relação jurídica em exame decorre de contrato de prestação de serviços advocatícios celebrado mediante procedimento licitatório, submetido a regramento próprio e vinculante (CF e Lei 8.666/93), circunstância que o distingue dos ajustes pactuados entre particulares. Daí a pertinência da diferenciação realizada, porquanto o rompimento contratual, seja em razão de novo procedimento licitatório, seja em virtude da própria legislação aplicável ao caso, constitui fato certo, previsto no Edital do certame e no contrato decorrente dele. Logo, a parte agravante, ainda que não concordasse com a rescisão, tinha plena ciência dos termos do ajuste firmado com a Administração Pública e de seus aditivos (e-STJ fls. 3264-3266).
+Ao contrário do alegado, igualmente incontroverso que o acórdão reconhece que a irresignação "restringe-se aos honorários de sucumbência" salientando que "com relação aos honorários contratuais e à "cota de manutenção", não há qualquer insurgência por parte do escritório de advocacia autor" (e-STJ fls. 3269).
+Não obstante, conclui não estar configurado o direito ao arbitramento de honorários sucumbenciais, ante a ausência de fixação da verba na demanda original e inexistir previsão contratual de antecipação, pela instituição financeira, ou exclusividade no recebimento dos valores. Também afasta o arbitramento proporcional decorrente de revogação imotivada, por não se tratar de pacto ad exitum e observado que a parte agravante tinha plena ciência dos prazos de encerramento do negócio e da possibilidade de transferência das ações sob seu patrocínio aos novos credenciados (e-STJ fls. 3269-3273; 3396-3397).
+Desse modo, resta claro que os fundamentos utilizados no acórdão para afastar a pretensão da agravante baseiam-se tanto na natureza da relação jurídica quanto na extensa análise de documentos dos autos, como o contrato e seus aditivos; o contrato emergencial; os Editais e o Anexo III "Regras de Remuneração" (tabelas, cláusulas 8.2, 8.4 e 8.8).
+À vista disso, resta evidente que as matérias suscitadas pela agravante são insuscetíveis de exame na via especial, por força dos óbices das Súmulas 5 e 7 /STJ, tal como expressamente consignado na decisão de admissibilidade e reafirmado na decisão da Presidência, cuja insuficiência da impugnação no agravo interno não logrou êxito em afastar a incidência da súmula 182/STJ (grifos acrescidos).
+Dessa forma, percebe-se que a parte embargante pretende o exame de mérito do recurso especial. No entanto, esse exame ficou prejudicado pela ausência de preenchimento dos pressupostos recursais e o consequente não conhecimento do agravo em recurso especial, que impediu a abertura desta instância superior e a produção do efeito translativo, não havendo, portanto, que se cogitar da ocorrência de omissão sobre nenhuma matéria de fundo tratada no recurso especial.
+Assim, revela-se nítida a pretensão da parte embargante de se valer dos embargos de declaração para rediscutir matéria já decidida, fazendo com que prevaleça o seu entendimento sobre o tema, intuito esse incompatível com a natureza desse recurso.
+Como se sabe, os embargos declaratórios não são via adequada para corrigir suposto erro de julgamento, não sendo possível atribuir eficácia infringente ao recurso se ausentes erro material, omissão, obscuridade ou contradição.
+Desse modo, dissociado o pleito de qualquer um dos pressupostos de interposição dos embargos de declaração, desautorizada está a pretensão declinada, impondo-se, então, a sua rejeição.
+Por fim, advirto a parte de que a futura interposição de recursos ou medidas protelatórias ensejará a aplicação de multa.
+Forte nessas razões, REJEITO os embargos de declaração.
