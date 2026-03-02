@@ -1,0 +1,88 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 24/02/2026 a 02/03/2026, por unanimidade, rejeitar os embargos de declaração, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Humberto Martins, Ricardo Villas Bôas Cueva, Moura Ribeiro e Daniela Teixeira votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro Humberto Martins.
+EMENTA
+PROCESSO CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. OMISSÃO, CONTRADIÇÃO OU OBSCURIDADE. AUSÊNCIA.
+1. Embargos de declaração que apontam supostas omissão e contradição em sua fundamentação.
+2. Ausentes os vícios previstos no art. 1.022 do CPC, rejeitam-se os embargos de declaração.
+3. Embargos de declaração rejeitados.
+RELATÓRIO
+Relatora: MINISTRA NANCY ANDRIGHI
+Examinam-se embargos de declaração opostos por ARIA CAPITAL ASSET ADMINISTRAÇÃO DE RECURSOS LTDA contra o acórdão que negou provimento ao agravo interno no agravo em recurso especial, nos termos da seguinte ementa (e-STJ fl. 1.513)..:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE COBRANÇA. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA. VIOLAÇÃO DO ART. 489 DO CPC. INOCORRÊNCIA. FUNDAMENTAÇÃO. AUSENTE. DEFICIENTE. SÚMULA 284/STF. PREQUESTIONAMENTO. AUSÊNCIA. SÚMULA 211/STJ. REEXAME DE FATOS E PROVAS. INADMISSIBILIDADE.
+1. Ação de Cobrança.
+2. Ausentes os vícios do art. 1.022 do CPC, rejeitam-se os embargos de declaração.
+3. Devidamente analisadas e discutidas as questões de mérito, e fundamentado corretamente o acórdão recorrido, de modo a esgotar a prestação jurisdicional, não há que se falar em violação do art. 489 do CPC.
+4. A ausência de fundamentação ou a sua deficiência importa no não conhecimento do recurso quanto ao tema.
+5. A falta de decisão acerca dos dispositivos legais indicados como violados, não obstante a interposição de embargos de declaração, impede o conhecimento do recurso especial.
+6. O reexame de fatos e provas em recurso especial é inadmissível.
+7. Agravo interno não provido.
+Nas razões dos embargos de declaração, a parte embargante alega os seguintes vícios (e-STJ fls. 1.522-1.539):
+1) omissão, por violação ao art. 1.021, § 3º, do CPC, ao limitar-se o acórdão embargado a reproduzir os fundamentos da decisão monocrática (e-STJ fls. 1.526-1.527);
+2) contradição interna, ao afirmar, de um lado, inexistir negativa de prestação jurisdicional quanto aos arts. 489 e 1.022 do CPC, e, de outro, aplicar a Súmula 211/STJ por suposta ausência de prequestionamento dos arts. 7º; 9º; 10º; 85; 319, III; 926; 927; 932, III, do CPC; 167, caput e § 1º; 406; e 884, do CC (e-STJ fls. 1.528-1.529);
+3) omissão quanto à fundamentação específica da aplicação, por analogia, da Súmula 284/STF e à análise dos argumentos de inaplicabilidade das Súmulas 284/STF, 7/STJ e 211/STJ, inclusive sobre: prequestionamento ficto (art. 1.025 do CPC), revaloração da prova, julgamento extra petita, cerceamento de defesa, e sucumbência recíproca (arts. 85 e 86 do CPC), com remissão a trechos do acórdão do TJ/RJ (e-STJ fls. 1.530-1.538).
+Traz questões relativas ao mérito do recurso especial.
+Requer, assim, o acolhimento dos embargos de declaração, com efeitos modificativos, para sanar os vícios da omissão e da contradição alegados.
+É o relatório.
+EMENTA
+PROCESSO CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. OMISSÃO, CONTRADIÇÃO OU OBSCURIDADE. AUSÊNCIA.
+1. Embargos de declaração que apontam supostas omissão e contradição em sua fundamentação.
+2. Ausentes os vícios previstos no art. 1.022 do CPC, rejeitam-se os embargos de declaração.
+3. Embargos de declaração rejeitados.
+VOTO
+Relatora: MINISTRA NANCY ANDRIGHI
+Nos termos do art. 1.022 do CPC, somente é cabível o recurso de embargos de declaração nas hipóteses em que haja obscuridade, contradição, omissão ou erro material no julgado impugnado.
+- Das omissões e da contradição apontadas pela embargante
+De plano, nota-se que não há que se falar em omissão, tampouco em contradição, uma vez que o acórdão embargado, de forma clara e indene de dúvidas, sem qualquer incoerência, negou provimento ao agravo interno para manter o afastamento da alegada violação dos arts. 489 e 1.022, ambos do CPC, bem como a incidência das Súmulas 7 e 211, ambos do STJ, e 284 do STF na hipótese dos autos.
+Nesse ponto, confira-se os termos do decisum (e-STJ fls. 1.514-1.517 ):
+A despeito das alegações aduzidas neste recurso, percebe-se que a parte agravante não trouxe qualquer argumento novo capaz de ilidir o entendimento firmado na decisão ora agravada.
+Diante desse contexto, deve ser mantida a decisão agravada incólume, conforme se demonstra a seguir.
+- Da violação do do CPC art. 1.022 Inicialmente, constata-se que o artigo 1.022 do CPC realmente não foi violado, porquanto o acórdão recorrido não contém omissão, contradição ou obscuridade. Nota-se, nesse passo, que o TJ/RJ tratou de todos os temas oportunamente colocados pelas partes, proferindo, a partir da conjuntura então cristalizada, a decisão que lhe pareceu mais coerente.
+Na hipótese, não resta dúvidas de que o acórdão recorrido decidiu, fundamentada e expressamente, acerca do reconhecimento do empréstimo e do dever da ré de restituição dos valores recebidos, de maneira que os embargos de declaração opostos pela parte agravante, de fato, não comportariam acolhimento.
+É firme a jurisprudência do STJ no sentido de que não há ofensa ao do CPC quando o Tribunal de origem, aplicando o direito que entende art. 1.022 cabível à hipótese, soluciona integralmente a controvérsia submetida à sua apreciação, ainda que de forma diversa daquela pretendida pela parte.
+A propósito, confira-se: AgInt no AREsp 2.164.998/RJ, 3ª Turma, DJe 16/02/2023; AgInt no REsp 1.850.632/MT, 4ª Turma, DJe 08/09/2023; e AgInt no REsp 1.655.141/MT, 1ª Turma, DJe de 06/03/2024.
+Assim, o TJ/RJ, embora tenha apreciado toda a matéria posta a desate, tratou das questões apontadas como omissas sob viés diverso daquele pretendido pela parte agravante, fato que não dá ensejo à interposição de embargos de declaração.
+- Da violação do art. 489 do CPC
+No que tange à ausência de violação do art. 489 do CPC, tem-se que a decisão não merece reforma nesse ponto, haja vista que, da leitura do acórdão recorrido, nota-se que o TJ/RJ concedeu a devida prestação jurisdicional e apreciou todos os fundamentos deduzidos pela parte agravante necessários para o deslinde da controvérsia.
+Nesse sentido: AgInt no AREsp 2.434.278/DF, Quarta Turma, DJe de 2/5/2024; e REsp 1.923.107/SP, Terceira Turma, DJe de 16/8/2021.
+- Da fundamentação deficiente
+A via estreita do recurso especial exige a demonstração inequívoca da ofensa ao dispositivo indicado como violado, bem como a sua particularização, a fim de possibilitar o seu exame em conjunto com o decidido nos autos.
+Na hipótese dos autos, deixou a parte agravante de expor como o acórdão recorrido teria violado os arts. 7º; 9º; 10º; 85; 319, III; 926; 927; 932, III, todos do CPC; 167, e § 1º; 406; e 884, ambos do CC, o que revela a deficiência de caput fundamentação suficiente a atrair a incidência da Súmula 284 do STF.
+Nesse sentido: AgInt no Quarta Turma, DJe de REsp 2.108.647/SP, AgInt no Terceira Turma, DJe de 2/5/2024; AREsp 2.097.357/MG, 11/4/2024.
+- Da ausência de prequestionamento
+A falta de prequestionamento é condição suficiente para obstar o processamento do recurso especial e exigência indispensável para o seu cabimento.
+Insatisfeito, este não supera o âmbito de sua admissibilidade, atraindo a incidência das Súmulas 282 do STF ou 211 do STJ.
+Dito isso, da reanálise minuciosa dos autos, realmente, observa-se que a aplicação do óbice da Súmula 211 do STJ decorre da não deliberação pelo acórdão recorrido acerca dos arts. 7º; 9º; 10º; 85; 319, III; 926; 927; 932, III, todos do CPC;
+167, e § 1º; 406; e 884, ambos do CC, apesar da oposição de embargos de caput declaração.
+A propósito, convém salientar que a incumbência constitucional deste Superior Tribunal de Justiça, ao julgar o recurso especial, é muito mais ampla do que o exame do direito alegado pelas partes, em revisão do decidido pelas Cortes locais.
+Cabe ao STJ, precipuamente, a uniformização da interpretação da Lei Federal, daí porque é indispensável que tenha havido o prévio debate acerca dos artigos legais pelos Tribunais de origem.
+Portanto, a decisão deve ser mantida ante a aplicação do óbice da Súmula 211 do STJ.
+- Do reexame de fatos e provas
+Quanto à aplicação da essa merece ser mantida, haja vista Súmula 7/STJ, que os argumentos trazidos pela parte agravante não são capazes de demonstrar como alterar o decidido pelo Tribunal de origem não demandaria o reexame de fatos e provas.
+Como exposto na decisão agravada, o TJ/RJ, ao analisar o recurso interposto pela agravante, concluiu o seguinte (e-STJ fls. 1.039-1.043):
+Preliminarmente impende destacar que não se revela necessária a produção de provas outras, nestes autos, encontrava-se o feito maduro para julgamento e, neste vetor, o Juízo de 1º grau proferiu sentença.
+Neste ponto, deve ser aposto que o Juízo indeferiu a produção de prova testemunhal.
+Porém, ao manifestar acerca do laudo pericial, a Ré anexou à petição diversos documentos, dentre os quais 3 (três) declarações, prestadas respectivamente pelos Srs. Daniel Tavares Camargo, Eduardo Vaz do Canto e José Carlos Caldas Osório, assim como formulou "novos quesitos" com base nos citados documentos, quando a produção de prova documental já estava preclusa.
+Nessa ordem de ideias, a declarações supra referidas poderiam representar uma forma trazer depoimentos, ainda que não em audiência, e sem qualquer crivo de contraditas ou irresignações da parte adversa pontuando-se que o Juízo indeferiu a produção de prova oral.
+Em sendo assim, com o fim de serem observados os princípios da ampla defesa e do contraditório, cumpre examinar a questão de mérito à luz das provas coligidas, incluindo-se a prova pericial, eis que satisfativas para o deslinde da lide, mormente diante de pontos incontroversos que se apresentam no caso em concreto, afastando- se os documentos anexados pela parte ré extemporaneamente.
+Compulsando os autos tem-se que a parte autora objetiva a cobrança da quantia de R$1.150.000,00 (um milhão cento e cinquenta mil reais) que, de acordo com a causa de pedir, seria lastreada em contrato de mútuo verbal firmado entre os litigantes.
+ .. .
+Nessa ordem de ideias, extrai-se do conjunto probatório que a empresa ARIA não efetuou a integralização do valor depositado pelo autor, pois se o título dado ao montante foi de "aporte de capital", este não ocorreu.
+Ora, o próprio expert afirma que "por definição, aporte de capital é uma contribuição financeira que uma empresa recebe para investir e alavancar o negócio ou ampliar algum projeto. Já o capital social integralizado corresponde a quantia, bens móveis ou imóveis e/ou títulos de crédito que cada sócio coloca na empresa que estão constituindo".
+Além disso, o expert afirmou que nas respectivas datas dos créditos efetuados pelo autor, o mesmo não era sócio da empresa ré e, não consta que o autor figurou posteriormente como tal.
+Cumpre, portanto, trazer luz ao denominado AFAC ou Adiantamento para Futuro Aumento de capital. A modalidade de investimentos presente in casu é bastante usual quando a sociedade não pode aguardar a finalização do processo de alteração de contrato para que precise usar os recursos que lhe são disponibilizados. Então, primeiro se tem o aporte e em seguida a aprovação (ou não) da entrada do recurso.
+Caso o aporte prévio não tenha sido aprovado posteriormente seja deliberado que aquele quantitativo não deveria entrar como aumento de capital social ou ainda que este efetivamente não venha a ser incrementado por outro motivo, a empresa deve converter aquele valor em empréstimo.
+Conclui-se, pois que o aporte prévio passou a ter a natureza de empréstimo a ser pago àquele que injetou o numerário, depositou os valores e não teve ao final a obtenção de regularização do procedimento e tampouco culminou em incremento de capital social.
+Desse modo, rever tal entendimento, de fato, implicaria em reexame do acervo fático-probatório, o que é obstado pelo enunciado sumular nº 7/STJ.
+Além disso, cabe ainda destacar que o vício da contradição ocorrerá, assim, quando no bojo da mesma decisão ou acórdão existirem argumentos que não sejam conciliáveis entre si, isto é, um capaz de superar o outro, o que não se verifica na espécie.
+Nesse sentido: EDcl no AgInt nos Corte Especial, DJe EAREsp 1.125.072/RJ,2/4/2019.
+Aliás, segundo a jurisprudência do STJ, "não há incompatibilidade entre a inexistência de ofensa ao art. 1.022 do CPC/2015 e a ausência de prequestionamento quanto às teses invocadas pela parte recorrente, mas não debatidas pelo tribunal local, por entender suficientes para a solução da controvérsia outros argumentos utilizados pelo colegiado" (AgInt no AREsp n. 1.234.093/RJ, Terceira Turma, DJe de 3/5/2018).
+Verifica-se, nessa linha, que a questão apontada pela parte embargante, resume-se a pedido de reanálise das suas razões apresentadas no agravo interno, não se constituindo, portanto, em pontos omissos, contraditórios ou obscuros do julgado, mas mero inconformismo com os fundamentos adotados na decisão embargada.
+Ademais, percebe-se que a parte embargante pretende o exame de mérito do recurso especial. No entanto, esse exame ficou prejudicado pela ausência de preenchimento dos pressupostos recursais e o consequente não conhecimento do agravo em recurso especial, que impediu a abertura desta instância superior e a produção do efeito translativo, não havendo, portanto, que se cogitar da ocorrência de omissão sobre nenhuma matéria de fundo tratada no recurso especial.
+Assim, revela-se nítida a pretensão da parte embargante de se valer dos embargos de declaração para rediscutir matéria já decidida, fazendo com que prevaleça o seu entendimento sobre o tema, intuito esse incompatível com a natureza desse recurso.
+Como se sabe, os embargos declaratórios não são via adequada para corrigir suposto erro de julgamento, não sendo possível atribuir eficácia infringente ao recurso se ausentes erro material, omissão, obscuridade ou contradição.
+Desse modo, dissociado o pleito de qualquer um dos pressupostos de interposição dos embargos de declaração, desautorizada está a pretensão declinada, impondo-se, então, a sua rejeição.
+Por fim, advirto a parte de que a futura interposição de recursos ou medidas protelatórias ensejará a aplicação de multa.
+DISPOSITIVO
+Forte nessas razões, REJEITO os embargos de declaração.
