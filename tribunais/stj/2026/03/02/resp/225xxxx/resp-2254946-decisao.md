@@ -1,0 +1,31 @@
+DECISÃO
+Trata-se de recurso especial interposto por RM DA SILVEIRA & CIA LTDA., com base nas alíneas "a" e "c" do permissivo constitucional, para impugnar acórdão do Tribunal Regional Federal da 4ª Região assim ementado (e-STJ fl. 519):
+TRIBUTÁRIO. RETRATAÇÃO. READEQUAÇÃO ÀS TESES 1.182 DO STJ. BENEFÍCIOS FISCAIS DE ICMS DIVERSOS DO CRÉDITO PRESUMIDO. REQUISITOS LEGAIS. NÃO COMPROVAÇÃO.
+Readequação do julgado às teses 1182 do STJ: Embora seja desnecessária a comprovação prévia de que a subvenção fiscal foi concedida como medida de estímulo à implantação ou expansão do empreendimento econômico, é indispensável, para a exclusão dos benefícios fiscais diversos do crédito presumido da base de cálculo do IRPJ e da CSLL, o atendimento a todos os requisitos previstos no art. 30 da Lei n.º 12.973/2014 e no art. 10 da Lei Complementar n.º 160/2017. Hipótese em que não se verifica o cumprimento das condições e requisitos previstos em Lei para a exclusão da base de cálculo do IRPJ e do CSLL dos benefícios fiscais de ICMS.
+Embargos de declaração rejeitados (e-STJ fls. 526/529).
+No seu recurso especial de fls. 286/299, a parte aponta a existência de dissenso pretoriano e a ofensa aos arts.: 43 e 44 do CTN; e 1º e 2º da Lei n. 7.689/1988. Para tanto, aduz que o benefícios de ICMS distintos do crédito presumido não integram a base de cálculo do IRPJ e da CSLL.
+Contrarrazões às e-STJ fls. 310/325.
+Recurso especial admitido (e-STJ fl. 328).
+Juízo de conformação negativo 516/518.
+Novo recurso especial do contribuinte interposto às e-STJ fls. 531/550, o qual foi admitido, pela Vice-Presidência do TRF da 4ª Região, a título de "complemento" do recurso especial de e-STJ fls. 286/299 (e-STJ fls. 32.416/32.419).
+Passo a decidir.
+As irresignações não merecem prosperar.
+A questão jurídica posta nos autos foi decida pelo STJ em sede de recurso repetitivo, no seguinte sentido (Tema 1.182):
+1. Impossível excluir os benefícios fiscais relacionados ao ICMS, - tais como redução de base de cálculo, redução de alíquota, isenção, diferimento, entre outros - da base de cálculo do IRPJ e da CSLL, salvo quando atendidos os requisitos previstos em lei (art. 10, da Lei Complementar n. 160/2017 e art. 30, da Lei n. 12.973/2014), não se lhes aplicando o entendimento firmado no ERESP 1.517.492/PR que excluiu o crédito presumido de ICMS das bases de cálculo do IRPJ e da CSLL.
+2. Para a exclusão dos benefícios fiscais relacionados ao ICMS, - tais como redução de base de cálculo, redução de alíquota, isenção, diferimento, entre outros - da base de cálculo do IRPJ e da CSLL não deve ser exigida a demonstração de concessão como estímulo à implantação ou expansão de empreendimentos econômicos.
+3. Considerando que a Lei Complementar 160/2017 incluiu os §§ 4º e 5º ao art. 30 da Lei 12.973/2014 sem, entretanto, revogar o disposto no seu § 2º, a dispensa de comprovação prévia, pela empresa, de que a subvenção fiscal foi concedida como medida de estímulo à implantação ou expansão do empreendimento econômico não obsta a Receita Federal de proceder ao lançamento do IRPJ e da CSSL se, em procedimento fiscalizatório, for verificado que os valores oriundos do benefício fiscal foram utilizados para finalidade estranha à garantia da viabilidade do empreendimento econômico.
+Em se tratando de tema integralmente decidido sob o regime dos recursos especiais repetitivos, o Tribunal de origem, em observância ao disposto no art. 1.040 do CPC/2015 e em conformidade com pacífica orientação jurisprudencial desta Corte Superior, deve negar seguimento ao recurso especial se o acórdão recorrido coincidir com a orientação emanada do Tribunal Superior; ou proceder ao juízo de retratação na hipótese de divergência quanto ao tema repetitivo (EDcl no AgInt nos EDcl no Rel. Ministro AREsp 1.806.385/MS,HERMAN BENJAMIN, Segunda Turma, julgado em 22/11/2021, DJe 10/12/2021).
+Na hipótese concreta, era caso de negativa de seguimento, dada a inexistência de matéria remanescente a ser apreciada por este STJ.
+De outro lado, em relação ao recurso especial do contribuinte de e-STJ fls. fls. 531/550, tem-se por evidenciada sua interposição contra acórdão que rejeitou o juízo de retratação.
+Pacífica a orientação do STJ no sentido de que descabe o manejo de um novo recurso especial para atacar julgado que, na sistemática do recurso repetitivo ou da repercussão geral, tenha procedido ao exame de retratação previsto no atual art. 1.030, II, do CPC - mormente quando se alega, nesse novo recurso especial, precisamente, a suposta incorreção na aplicação do mérito do julgado paradigma ao caso concreto.
+À guisa de mero exemplo:
+TRIBUTÁRIO. PROCESSUAL CIVIL. AGRAVO INTERNO PREVISTO NO ART. 1030, § 2º, CPC. NEGATIVA DE PROVIMENTO. MANUTENÇÃO DA APLICAÇÃO DA TESE REPETITIVA. INTERPOSIÇÃO DE NOVO RECURSO ESPECIAL. NÃO CABIMENTO.
+1. O STJ firmou compreensão de que "o único recurso cabível para impugnação sobre possíveis equívocos na aplicação do art. 543-B ou 543-C é o Agravo Interno a ser julgado pela Corte de origem, não havendo previsão legal de cabimento de recurso ou de outro remédio processual" (AgRg no AREsp 451.572/PR, Rel. Ministro Napoleão Nunes Maia Filho, Primeira Turma, julgado em 18/3/2014, DJe 1º/4/2014).
+2. Inadmissível a interposição de novo recurso especial contra acórdão que, em juízo de retratação, nega provimento ao agravo interno interposto com base no art. 1030, § 2º, do CPC, por considerar que o entendimento adotado está de acordo com a orientação do Superior Tribunal de Justiça firmada no recurso representativo da controvérsia. Precedentes: AgInt no AREsp 945.255/PA, Rel. Ministro GURGEL DE FARIA, PRIMEIRA TURMA, julgado em 11/9/2018, DJe 8/10/2018; AgInt no AREsp 908.392/DF, Rel. Ministra REGINA HELENA COSTA, PRIMEIRA TURMA, julgado em 16/2/2017, DJe 23/2/2017; AgRg no AREsp 552.339/DF, Rel. Ministro OG FERNANDES, SEGUNDA TURMA, julgado em 18/9/2014, DJe 30/9/2014.
+3. Agravo interno a que se nega provimento.
+(AgInt no AREsp 1821067/SP, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, julgado em 14/09/2021, DJe de 17/09/2021).
+Ante o exposto, com base no art. 255, § 4º, I, do RISTJ, NÃO CONHEÇO do recurso especial .
+Sem honorários recursais, pois se cuida, na origem, de mandado de
+segurança.
+Publique-se. Intimem-se.
+EMENTA
