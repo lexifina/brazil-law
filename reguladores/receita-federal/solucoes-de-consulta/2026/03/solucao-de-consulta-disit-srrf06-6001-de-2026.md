@@ -1,0 +1,14 @@
+Solução de Consulta Disit/SRRF06 nº 6001, de 28 de janeiro de 2026
+Assunto: Contribuição para o PIS/Pasep
+LEI COMPLEMENTAR Nº 192, DE 2022. PRESTAÇÃO DE SERVIÇOS DE TRANSPORTE DE CARGA. AQUISIÇÃO E UTILIZAÇÃO DE ÓLEO DIESEL COMO INSUMO. APURAÇÃO DE CRÉDITOS PRESUMIDOS. POSSIBILIDADE.
+No período de 11 de março a 31 de dezembro de 2022, desde que atendidos os requisitos da legislação de regência, a pessoa jurídica sujeita à apuração não cumulativa da Contribuição para o PIS/Pasep que adquirisse os produtos de que trata o caput do art. 9º da Lei Complementar nº 192, de 2022, entre eles o óleo diesel, com alíquota reduzida a 0 (zero), para utilização como insumo, nos termos do inciso II do caput do art. 3º da Lei nº 10.637, de 2002, fazia jus a créditos presumidos da referida contribuição vinculados à aquisição no mercado interno ou importação de tais produtos em cada período de apuração, conforme estabeleceu o § 3º do referido artigo, incluído pela Lei Complementar nº 194, de 2022.
+SOLUÇÃO DE CONSULTA VINCULADA À SOLUÇÃO DE CONSULTA COSIT Nº 156, DE 10 DE JUNHO DE 2024.
+Dispositivos Legais: Lei nº 10.637, de 2002, arts. 1º e 3º; Lei Complementar nº 192, de 2022, art. 9º; Lei Complementar nº 194, art. 10; Medida Provisória nº 1.118, de 2022, art. 1º.
+Assunto: Contribuição para o Financiamento da Seguridade Social - Cofins
+LEI COMPLEMENTAR Nº 192, DE 2022. PRESTAÇÃO DE SERVIÇOS DE TRANSPORTE DE CARGA. AQUISIÇÃO E UTILIZAÇÃO DE ÓLEO DIESEL COMO INSUMO. APURAÇÃO DE CRÉDITOS PRESUMIDOS. POSSIBILIDADE.
+No período de 11 de março a 31 de dezembro de 2022, desde que atendidos os requisitos da legislação de regência, a pessoa jurídica sujeita à apuração não cumulativa da Cofins que adquirisse os produtos de que trata o caput do art. 9º da Lei Complementar nº 192, de 2022, entre eles o óleo diesel, com alíquota reduzida a 0 (zero), para utilização como insumo, nos termos do inciso II do caput do art. 3º da Lei nº 10.833, de 29 de dezembro de 2003, fazia jus a créditos presumidos da referida contribuição vinculados à aquisição no mercado interno ou importação de tais produtos em cada período de apuração, conforme estabeleceu o § 3º do referido artigo, incluído pela Lei Complementar nº 194, de 2022.
+SOLUÇÃO DE CONSULTA VINCULADA À SOLUÇÃO DE CONSULTA COSIT Nº 156, DE 10 DE JUNHO DE 2024.
+Dispositivos Legais: Lei nº 10.833, de 2003, arts. 1º e 3º; Lei Complementar nº 192, de 2022, art. 9º; Lei Complementar nº 194, art. 10; Medida Provisória nº 1.118, de 2022, art. 1º.
+[arquivo anexo: SC SRRF06-Disit nº 6.001-2026.pdf]
+HELDER GERALDO MIRANDA DE OLIVEIRA
+Chefe
