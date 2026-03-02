@@ -1,0 +1,45 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 24/02/2026 a 02/03/2026, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Moura Ribeiro, Daniela Teixeira, Nancy Andrighi e Humberto Martins votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Humberto Martins.
+EMENTA
+RECURSO ESPECIAL. PLANO DE SAÚDE COLETIVO. APOSENTADORIA. TRATAMENTO IGUALITÁRIO. FUNCIONÁRIOS ATIVOS E INATIVOS.
+1. A jurisprudência desta Corte Superior, firmada no Tema Repetitivo nº 1.034/STJ, é no sentido de que o art. 31 da Lei nº 9.656/1998 impõe que ativos e inativos sejam inseridos em plano de saúde coletivo único, contendo as mesmas condições de cobertura assistencial e de prestação de serviço, o que inclui, para todo o universo de beneficiários, a igualdade de modelo de pagamento e de valor de contribuição, admitindo-se a diferenciação por faixa etária se for contratada para todos, cabendo ao inativo o custeio integral, cujo valor pode ser obtido com a soma de sua cota-parte com a parcela que, quanto aos ativos, é proporcionalmente suportada pelo empregador.
+2 . Recurso especial não provido.
+RELATÓRIO
+Trata-se de recurso especial interposto por CENTRAL NACIONAL UNIMED - COOPERATIVA CENTRAL, com base no art. 105, III, alínea "a", da Constituição Federal, contra o acórdão assim ementado:
+"APELAÇÃO CÍVEL. Plano de Saúde Coletivo. Autor que, aposentado, continuou empregado na empresa, até a dispensa sem justa causa. Aplicação do disposto no art. 31, caput, da Lei nº 9.656/98. Contribuição para o seguro coletivo por mais de dez anos verificada. Hipótese de manutenção do seguro de saúde, nas mesmas condições de que gozava quando da vigência do contrato de trabalho, assumindo integralmente o pagamento das parcelas devidas. Surgimento de vínculo direto entre as partes litigantes verificada. Valor da mensalidade que deverá ser apurado em liquidação de sentença levando-se em consideração os valores contratados entre a ex- empregadora e a operadora de plano de saúde. Recurso improvido." (e-STJ fl. 245)
+Os embargos declaratórios foram rejeitados (e-STJ fls. 308/311 e 340/345).
+Nas presentes razões, a agravante assevera que "(..) Houve ofensa ao disposto no artigo 16, VII e 31 da Lei 9.656/98 e artigos 1º, 4º, incisos II, XI, XVII e XXI e inciso II do artigo 10, da Lei Federal 9.961/2000." (e-STJ fl. 353)
+Sustenta que,
+"(..) ao contrário do que restou consignado no v. acórdão ora recorrido, a condição de valores das mensalidades para o plano de inativos é diferenciada em relação aos valores de ativos, conforme expressa previsão legal e contratual, não havendo que se falar na manutenção do Recorrido e de seus dependentes sob as mesmas condições dos ativos da empresa." (e-STJ fl. 358)
+Contrarrazões às e-STJ fls. 389/394.
+É o relatório.
+EMENTA
+RECURSO ESPECIAL. PLANO DE SAÚDE COLETIVO. APOSENTADORIA. TRATAMENTO IGUALITÁRIO. FUNCIONÁRIOS ATIVOS E INATIVOS.
+1. A jurisprudência desta Corte Superior, firmada no Tema Repetitivo nº 1.034/STJ, é no sentido de que o art. 31 da Lei nº 9.656/1998 impõe que ativos e inativos sejam inseridos em plano de saúde coletivo único, contendo as mesmas condições de cobertura assistencial e de prestação de serviço, o que inclui, para todo o universo de beneficiários, a igualdade de modelo de pagamento e de valor de contribuição, admitindo-se a diferenciação por faixa etária se for contratada para todos, cabendo ao inativo o custeio integral, cujo valor pode ser obtido com a soma de sua cota-parte com a parcela que, quanto aos ativos, é proporcionalmente suportada pelo empregador.
+2 . Recurso especial não provido.
+VOTO
+A irresignação não merece prosperar.
+Ao revés do alegado pela recorrente, as conclusões adotadas pelo Tribunal estadual estão em consonância com o que foi decidido pelo Superior Tribunal de Justiça no julgamento do REsp 1.816.482/SP, Relator Ministro Antonio Carlos Ferreira, julgado sob a sistemática dos recursos repetitivos.
+Confira-se a ementa desse julgado:
+" RECURSO ESPECIAL REPETITIVO. DIREITO CIVIL. EX-EMPREGADOS APOSENTADOS. PERMANÊNCIA NO PLANO DE SAÚDE COLETIVO. ART. 31 DA LEI N. 9.656/1988. DEFINIÇÃO ACERCA DAS CONDIÇÕES ASSISTENCIAIS E DE CUSTEIO.
+1. Delimitação da controvérsia Definir quais condições assistenciais e de custeio do plano de saúde devem ser mantidas a beneficiários inativos, nos termos do art. 31 da Lei n. 9.656/1998.
+2. Teses definidas para os fins do art. 1.036 do CPC/2015 a) "Eventuais mudanças de operadora, de modelo de prestação de serviço, de forma de custeio e de valores de contribuição não implicam interrupção da contagem do prazo de 10 (dez) anos previsto no art. 31 da Lei n. 9.656/1998, devendo haver a soma dos períodos contributivos para fins de cálculo da manutenção proporcional ou indeterminada do trabalhador aposentado no plano coletivo empresarial."
+b) "O art. 31 da lei n. 9.656/1998 impõe que ativos e inativos sejam inseridos em plano de saúde coletivo único, contendo as mesmas condições de cobertura assistencial e de prestação de serviço, o que inclui, para todo o universo de beneficiários, a igualdade de modelo de pagamento e de valor de contribuição, admitindo-se a diferenciação por faixa etária se for contratada para todos, cabendo ao inativo o custeio integral, cujo valor pode ser obtido com a soma de sua cota-parte com a parcela que, quanto aos ativos, é proporcionalmente suportada pelo empregador."
+c) "O ex-empregado aposentado, preenchidos os requisitos do art. 31 da Lei n. 9.656/1998, não tem direito adquirido de se manter no mesmo plano privado de assistência à saúde vigente na época da aposentadoria, podendo haver a substituição da operadora e a alteração do modelo de prestação de serviços, da forma de custeio e os respectivos valores, desde que mantida paridade com o modelo dos trabalhadores ativos e facultada a portabilidade de carências."
+3. Julgamento do caso concreto a) Inaplicabilidade do art. 30 da Lei n. 9.656/1998, tendo em vista que o prazo de 10 (dez) anos disciplinado no art. 31 do mesmo diploma encontra-se comprovado, decorrendo da somatória de todos os períodos de contribuição envolvendo várias operadoras de planos de saúde contratadas sucessivamente pelo ex-empregador.
+b) Ofensa ao art. 31 da Lei n. 9.656/1998 não caracterizada, tendo em vista que os empregados ativos e os ex-empregados inativos, conforme decidido pelo Tribunal de origem, devem encontrar-se vinculados a um único plano de saúde, sem distinções.
+c) Acolher as razões recursais com o propósito de modificar o contexto fático-probatório inserido no acórdão recorrido encontra óbice na Súmula n. 7 do STJ.
+4. Recurso especial a que se nega provimento." (REsp 1.816.482/SP, Relator Ministro Antonio Carlos Ferreira, Segunda Seção, julgado em 9/12/2020, DJe de 1º/2/2021)
+Cita-se, ainda, recente precedente desta Turma:
+"AGRAVO INTERNO NO RECURSO ESPECIAL. PRESTAÇÃO JURISDICIONAL. NEGATIVA. VÍCIO EMBARGÁVEL. OMISSÃO. INEXISTÊNCIA. CONHECIMENTO. FUNDAMENTO NÃO IMPUGNADO. SÚMULA Nº 283/STF. DIREITO DE AÇÃO. PRESCRIÇÃO. PREQUESTIONAMENTO. AUSÊNCIA. TRATAMENTO IGUALITÁRIO. FUNCIONÁRIOS ATIVOS E INATIVOS.
+1. Descabe falar em omissão do julgado quanto à questão controvertida na demanda se o recurso nem sequer ultrapassou a barreira do conhecimento.
+2. A falta de impugnação específica, nas razões do recurso especial, de fundamento autônomo e suficiente à manutenção do acórdão estadual atrai, por analogia, o óbice da Súmula nº 283 do STF.
+3. A ausência de debate no acórdão recorrido quanto ao tema suscitado no recurso especial evidencia a falta do indispensável prequestionamento. Incidência, por analogia, do disposto na Súmula nº 282/STF.
+4. A jurisprudência desta Corte Superior, firmada no Tema Repetitivo nº 1.034/STJ, é no sentido de que o art. 31 da Lei nº 9.656/1998 impõe que ativos e inativos sejam inseridos em plano de saúde coletivo único, contendo as mesmas condições de cobertura assistencial e de prestação de serviço, o que inclui, para todo o universo de beneficiários, a igualdade de modelo de pagamento e de valor de contribuição, admitindo-se a diferenciação por faixa etária se for contratada para todos, cabendo ao inativo o custeio integral, cujo valor pode ser obtido com a soma de sua cota-parte com a parcela que, quanto aos ativos, é proporcionalmente suportada pelo empregador.
+5. Agravo interno não provido."
+(AgInt no REsp 1.818.079/SP, Relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 25/8/2025, DJEN de 29/8/2025)
+Ante o exposto, nego provimento ao recurso especial.
+Na origem, os honorários sucumbenciais foram fixados em 13% (treze por cento) sobre o valor da causa, os quais devem ser majorados para o patamar de 15% (quinze por cento) em favor do advogado da parte recorrida, nos termos do art. 85, § 11, do Código de Processo Civil, observado o benefício da gratuidade da justiça, se for o caso.
+É o voto.
