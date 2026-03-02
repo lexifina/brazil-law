@@ -1,0 +1,61 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 24/02/2026 a 02/03/2026, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Regina Helena Costa, Gurgel de Faria, Paulo Sérgio Domingues e Benedito Gonçalves votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Sérgio Kukina.
+EMENTA
+ADMINISTRATIVO E PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. INEXISTÊNCIA DOS VÍCIOS DO ART. 1.022 DO CPC. REDISCUSSÃO DE QUESTÕES DECIDIDAS. IMPOSSIBILIDADE.
+1. De acordo com a norma prevista no art. 1.022 do CPC, são cabíveis embargos de declaração nas hipóteses de obscuridade, contradição, omissão ou erro material na decisão embargada.
+2. No caso, não se verifica a existência de nenhum dos vícios em questão, pois o acórdão embargado enfrentou e decidiu, de maneira integral e com fundamentação suficiente, toda a controvérsia posta no recurso.
+3. Não podem ser acolhidos embargos de declaração que, a pretexto de alegadas omissões no julgado combatido, traduzem, na verdade, o inconformismo da parte com a decisão tomada, buscando rediscutir o que decidido já foi.
+4. Embargos de declaração rejeitados.
+RELATÓRIO
+O EXMO. SR. MINISTRO SÉRGIO KUKINA (Relator): Trata-se de embargos de declaração opostos pelo Município do Rio de Janeiro contra acórdão proferido pela Primeira Turma, assim ementado (fl. 7.811):
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. EMBARGOS À EXECUÇÃO POR TÍTULO EXECUTIVO EXTRAJUDICIAL. MUNICÍPIO DO RIO DE JANEIRO. DÍVIDA ADVINDA DE DOZE NOTAS FISCAIS RELACIONADAS AOS SERVIÇOS DE ASSESSORIA DE IMPRENSA E COMUNICAÇÃO DIGITAL. TÍTULO EXECUTIVO EXTRAJUDICIAL. LIQUIDEZ, CERTEZA E EXIGIBILIDADE. CLÁUSULAS CONTRATUAIS. ÍNDICE DE CORREÇÃO MONETÁRIA E JUROS DE MORA. DESCONSTITUIÇÃO. SÚMULAS N. 5 E 7/STJ.
+1. A alteração das premissas adotadas pela Corte de origem, inclusive quanto aos critérios para a incidência do consectários legais, tal como colocada a questão nas razões recursais, para além de simples interpretação de cláusulas contratuais, demandaria, necessariamente, novo exame do acervo fático-probatório constante dos autos, providência vedada em recurso especial, conforme os óbices previstos nas Súmulas n. 5 e 7/STJ.
+2. Agravo interno improvido.
+Em suas razões, a parte embargante sustenta que "a invocação da Súmula 7/STJ como óbice ao conhecimento do recurso especial constitui erro manifesto, que merece ser sanado mediante os presentes embargos de declaração" (fl. 7.827).
+A parte embargada apresentou impugnação às fls. 7.834/7.839.
+É o relatório.
+EMENTA
+ADMINISTRATIVO E PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. INEXISTÊNCIA DOS VÍCIOS DO ART. 1.022 DO CPC. REDISCUSSÃO DE QUESTÕES DECIDIDAS. IMPOSSIBILIDADE.
+1. De acordo com a norma prevista no art. 1.022 do CPC, são cabíveis embargos de declaração nas hipóteses de obscuridade, contradição, omissão ou erro material na decisão embargada.
+2. No caso, não se verifica a existência de nenhum dos vícios em questão, pois o acórdão embargado enfrentou e decidiu, de maneira integral e com fundamentação suficiente, toda a controvérsia posta no recurso.
+3. Não podem ser acolhidos embargos de declaração que, a pretexto de alegadas omissões no julgado combatido, traduzem, na verdade, o inconformismo da parte com a decisão tomada, buscando rediscutir o que decidido já foi.
+4. Embargos de declaração rejeitados.
+VOTO
+O EXMO. SR. MINISTRO SÉRGIO KUKINA (Relator): Não prospera a irresignação da parte recorrente.
+De acordo com o previsto no art. 1.022 do CPC, são cabíveis embargos de declaração nas hipóteses de obscuridade, contradição, omissão ou erro material na decisão embargada.
+Entretanto, no caso dos autos, não se verifica a existência de nenhum desses vícios, pois o acórdão embargado enfrentou e decidiu, de maneira integral e com fundamentação suficiente, toda a controvérsia posta no recurso.
+Observa-se que a Corte de origem assentou premissa fática de que " o s cálculos referentes as verbas contratuais exigidas devem ter por fundamento o previsto nas cláusulas contratuais sobre índice de correção monetária e juros de mora, posto que firmado entre as partes, consoante cláusula quinta do contrato (fls. 31-32 dos autos principais)" (fl. 7.440). Diante disso, ficou devidamente consignado no aresto hostilizado que a modificação dessa premissa fática demandaria, além de simples interpretação de cláusulas contratuais, nova análise de fatos e provas.
+A propósito, confiram-se os seguintes trechos do acórdão embargado (fls. 7.814/7.816):
+No que tange à certeza e à liquidez do título executivo extrajudicial, bem como aos critérios adotados para a incidência dos consectários legais, o Tribunal de origem asseverou (fls. 7.439/7.440, grifo nosso):
+A jurisprudência da Corte Superior firmou-se no sentido de poder a execução contra a Fazenda Pública fundar-se, também, em título extrajudicial, consoante verbete 279 de sua Súmula: "A execução por quantia certa contra a Fazenda Pública pode fundar-se em título executivo extrajudicial".
+E a nota de empenho emitida por agente público é título executivo extrajudicial por ser dotada dos requisitos da liquidez, certeza e exigibilidade.
+Como devidamente consta da fundamentação do julgado, à luz da orientação do STJ, não basta a presunção de certeza, liquidez e exigibilidade do título executivo extrajudicial, dado que se exige também a comprovação de que esses requisitos estão lastreados nos termos e condições que lhe deram causa, de modo a proteger o interesse público (STJ, AgInt no AR Esp n. 2.109.133/RJ).
+Produzida a prova técnica, o louvado respondeu positivamente ao quesito da municipalidade no sentido de que há prova da efetivamente prestação do serviço, com declaração expressa, assinada por dois servidores, consoante código de administração orçamentária (fls. 1889-1890 (pasta 1888), conforme planilhas de fls. 1930 e 1931 que acompanham o laudo; referida planilha relaciona as notas fiscais, os funcionários que as assinaram e os documento de declaração de conformidade expedidos pelo município.
+Em resposta aos quesitos 4 e 7, formulados pelo município, o perito respondeu positivamente no sentido de que a liquidação da despesa referente à nota fiscal fora apurada a origem e o objetivo que se deve pagar, certo que as obrigações fiscais incidentes sobre o objeto da liquidação foram cumpridas; após a análise dos documentos entranhados, não foram encontradas irregularidades no que tange ao procedimento adotado para o faturamento dos serviços (fls. 1896 - 1897 (pasta 1888).
+Portanto, verifica-se que a ação de execução se fundou em notas fiscais acompanhadas do devido conhecimento pelo órgão competente e assinadas por servidores da municipalidade, atestando o recebimento dos serviços discriminados nas notas fiscais. Ainda, foi fundada em notas de empenho expedidas pelo próprio município executado, com fundamento na Lei nº 4.320/64, em seus arts. 58, 60 e 61 e também em declaração de conformidade: títulos executivos, a teor do estabelecido no art. 405 c/c art. 784, II, do CPC.
+Não obstante o município aponte inconsistências formais relativamente as notas fiscais objeto da execução, às fls. 11-13 da inicial dos embargos, a prova técnica é conclusiva no sentido de que o serviço foi prestado, sem irregularidades quanto ao procedimento adotado, e é o quanto basta para o deslinde da demanda.
+Escorreita a percepção da sentença no sentido de que, de acordo com o laudo pericial, está demonstrado que houve o cumprimento do contrato e que foram cumpridos os requisitos legais e contratuais para recebimento.
+Dispõe o art. 66 da Lei nº 8.666/93 que "o contrato deverá ser executado fielmente pelas partes, de acordo com as cláusulas avençadas e as normas desta Lei, respondendo cada uma pelas consequências de sua inexecução total ou parcial".
+Os cálculos referentes as verbas contratuais exigidas devem ter por fundamento o previsto nas cláusulas contratuais sobre índice de correção monetária e juros de mora, posto que firmado entre as partes, consoante cláusula quinta do contrato (fls. 31-32 dos autos principais). Assim: (STJ, AgInt no AREsp 2154357/RJ).
+A jurisprudência do STJ firmou entendimento de que, em se tratando de inadimplemento de obrigação contratual, positiva e líquida, o devedor estará em mora a partir do dia do vencimento da obrigação. Nesse norte: AgInt no AREsp 1.473.920/SP, Rel. Ministro Francisco Falcão, Segunda Turma, DJe 28.10.2019.
+Descabe, portanto, a pretensão de que os juros incidam a partir da citação ou da data da perícia, assim como os consectários legais com fundamento nos temas 905 do STJ e 810 do STF, aos quais se referem a condenação judicial da Fazenda Pública. E as obrigações fiscais incidentes sobre o objeto da liquidação foram cumpridas.
+Diante desse contexto, é certo que, "para se deduzir de modo diverso do aresto vergastado, entendendo que, em relação aos juros de mora e à correção monetária incidentes na execução, não seria possível aplicar os índices previstos nas cláusulas do contrato administrativo firmado entre as partes, na forma pretendida no apelo nobre, demandaria o reexame do mesmo acervo fático-probatório já analisado, providência impossível pela via estreita do recurso especial, ante os óbices dos enunciados das Súmulas 5/STJ e 7/STJ" (AgInt no AREsp n. 2.154.357/RJ, Relator Ministro Francisco Falcão, Segunda Turma, julgado em 15/5/2023, DJe de 17/5/2023).
+Dessa forma, não podem ser acolhidos embargos de declaração que, a pretexto de alegado erro no julgado, traduzem, na verdade, o inconformismo da parte com a decisão tomada, buscando rediscutir o que decidido já foi. Nesse panorama, inexistente qualquer vício no acórdão embargado, conforme exige o art. 1.022 do CPC, impõe-se a rejeição do pleito integrativo.
+Nesse sentido:
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. INEXISTÊNCIA DE VÍCIOS NO JULGADO. MODIFICAÇÃO DAS RAZÕES RECURSAIS. IMPOSSIBILIDADE. PRECLUSÃO CONSUMATIVA.
+1. Os embargos de declaração têm a finalidade simples e única de completar, aclarar ou corrigir uma decisão omissa, obscura ou contraditória. Não são destinados à adequação do decisum ao entendimento da parte embargante, nem ao acolhimento de pretensões que refletem mero inconformismo, e, menos ainda, à rediscussão de questão já resolvida. Precedentes.
+2. O instituto da preclusão consumativa veda a possibilidade de aditar razões a recurso já interposto. Precedentes.
+3. Embargos de declaração rejeitados.
+(EDcl no AgInt no AREsp n. 2.342.294/SP, Relator Ministro Mauro Campbell Marques, Segunda Turma, julgado em 23/10/2023, DJe de 25/10/2023.)
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. AGRAVO EM RECURSO ESPECIAL. INEXISTÊNCIA DOS VÍCIOS DO ART. 1.022 DO CPC. REDISCUSSÃO DA CONTROVÉRSIA. IMPOSSIBILIDADE. RECURSO REJEITADO.
+1. Nos termos do art. 1.022 do Código de Processo Civil, os embargos de declaração destinam-se a esclarecer obscuridade, eliminar contradição, suprir omissão e corrigir erro material eventualmente existentes no julgado, o que não se verifica na espécie.
+2. Não há que se cogitar da ocorrência de omissão e contradição, uma vez que a controvérsia foi examinada de forma satisfatória, mediante apreciação da disciplina normativa e do firme posicionamento jurisprudencial aplicável à hipótese dos autos.
+3. A argumentação apresentada pela parte embargante denota mero inconformismo e intuito de rediscutir a controvérsia, mas não se prestam os aclaratórios a esse fim.
+4. Incide a Súmula 187/STJ quando a parte, devidamente intimada para sanar vício relativo ao recolhimento do preparo (art. 1.007, § 4º, do CPC), interpõe recurso contra o despacho de regularização e não realiza o recolhimento em dobro. Precedentes.
+5. Rever as matérias aqui alegadas acarretaria rediscutir entendimento já manifestado e devidamente embasado. Os embargos declaratórios não se prestam à inovação, à rediscussão da matéria tratada nos autos ou à correção de eventual error in judicando.
+6. Embargos de declaração rejeitados.
+(EDcl no AgInt no AREsp n. 1.900.442/SC, Relator Ministro Paulo Sérgio Domingues, Primeira Turma, julgado em 18/9/2023, DJe de 20/9/2023.)
+ANTE O EXPOSTO, rejeitam-se os embargos declaratórios.
+É o voto.
