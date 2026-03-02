@@ -1,0 +1,72 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 24/02/2026 a 02/03/2026, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Ricardo Villas Bôas Cueva, Moura Ribeiro, Daniela Teixeira e Nancy Andrighi votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Humberto Martins.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CUMPRIMENTO DE SENTENÇA. EXPURGOS INFLACIONÁRIOS. EXCEÇÃO DE PRÉ-EXECUTIVIDADE. NECESSIDADE DE LIQUIDAÇÃO. PRECLUSÃO. ALEGADA VIOLAÇÃO AOS ARTS . 489 E 1.022 DO CPC. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA. VIOLAÇÃO AOS ARTS. 369, 465, 502, 509 E 511 DO CPC. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. SÚMULA N. 7/STJ. TEMA N. 1.290/STF. INAPLICABILIDADE.
+1. Não há ofensa aos arts. 489 e 1.022 do CPC quando o Tribunal de origem enfrenta fundamentadamente as questões que lhe foram submetidas, solucionando a lide em conformidade com o que foi apresentado em juízo. O órgão julgador não necessita afastar todas as alegações das partes, bastando que se manifeste suficientemente sobre suas razões de decidir.
+2. A Corte de origem manifestou-se expressamente sobre a preclusão quanto à necessidade de liquidação de sentença pelo procedimento comum, reconhecendo que a matéria relacionada à inexequibilidade do título deveria ter sido arguida em impugnação ao cumprimento de sentença, nos termos do art. 525, § 1º, III, do CPC.
+3. A análise da alegada violação aos arts. 369, 465, 502, 509 e 511 do CPC demandaria o revolvimento do conjunto fático-probatório dos autos, atraindo a incidência da Súmula n. 7/STJ.
+4. Rever as conclusões do Tribunal a quo para analisar se havia necessidade de liquidação de sentença pelo procedimento comum, com afastamento da conclusão de que a matéria restou preclusa, exigiria o reexame de fatos e provas, providência vedada em recurso especial.
+5. O Tema n. 1.290/STF, que versa sobre critério de reajuste do saldo devedor das cédulas de crédito rural, não se aplica ao caso concreto, que discute a necessidade de liquidação de sentença e a ocorrência de preclusão.
+Agravo interno improvido .
+RELATÓRIO
+O EXMO. SR. MINISTRO HUMBERTO MARTINS (relator):
+Cuida-se de agravo interno interposto por BANCO DO BRASIL S.A. contra decisão monocrática de minha relatoria que negou provimento ao agravo em recurso especial (fls. 228/234).
+Extrai-se dos autos que o recurso especial inadmitido foi interposto com fundamento no artigo 105, inciso III, alíneas "a", da Constituição Federal, contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO GRANDE DO SUL assim ementado (fl. 58):
+AGRAVO DE INSTRUMENTO. EXPURGOS INFLACIONÁRIOS. EXCEÇÃO DE PRÉ- EXECUTIVIDADE. NECESSIDADE DE PRÉVIA LIQUIDAÇÃO. INEXEQUIBILIDADE DO TÍTULO. MATÉRIA QUE DEVERIA TER SIDO ARGUIDA EM IMPUGNAÇÃO. NÃO CONHECIMENTO. DECISÃO MANTIDA. ERRO DE CÁLCULO. ÍNDICE DE CORREÇÃO MONETÁRIA. INOCORRÊNCIA. IMPROCEDÊNCIA DA IMPUGNAÇÃO À PENHORA MANTIDA. AGRAVO DE INSTRUMENTO IMPROVIDO.
+Rejeitados os embargos de declaração opostos (fls. 95-97).
+O agravante alega, nas razões do agravo interno, violação dos arts. 489, §1º, III e IV e 1.022, do CPC, porquanto, apesar da oposição dos embargos de declaração, o Tribunal de origem não se pronunciou sobre pontos necessários ao deslinde da controvérsia.
+Afirma que para a análise do recurso especial não se faz necessária a reapreciação de fatos e provas. Ressalta que as premissas fáticas já foram delineadas nas instâncias ordinárias, sendo necessária, tão somente, a revalorização jurídica das provas, de modo a afastar o óbice da Súmula n. 7/STJ.
+Pugna, por fim, pelo conhecimento e provimento do presente agravo interno para reformar a decisão atacada, conhecendo e dando provimento ao agravo em recurso especial, com a apreciação do recurso especial.
+O agravado não apresentou contraminuta (fl. 264).
+É, no essencial, o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CUMPRIMENTO DE SENTENÇA. EXPURGOS INFLACIONÁRIOS. EXCEÇÃO DE PRÉ-EXECUTIVIDADE. NECESSIDADE DE LIQUIDAÇÃO. PRECLUSÃO. ALEGADA VIOLAÇÃO AOS ARTS . 489 E 1.022 DO CPC. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA. VIOLAÇÃO AOS ARTS. 369, 465, 502, 509 E 511 DO CPC. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. SÚMULA N. 7/STJ. TEMA N. 1.290/STF. INAPLICABILIDADE.
+1. Não há ofensa aos arts. 489 e 1.022 do CPC quando o Tribunal de origem enfrenta fundamentadamente as questões que lhe foram submetidas, solucionando a lide em conformidade com o que foi apresentado em juízo. O órgão julgador não necessita afastar todas as alegações das partes, bastando que se manifeste suficientemente sobre suas razões de decidir.
+2. A Corte de origem manifestou-se expressamente sobre a preclusão quanto à necessidade de liquidação de sentença pelo procedimento comum, reconhecendo que a matéria relacionada à inexequibilidade do título deveria ter sido arguida em impugnação ao cumprimento de sentença, nos termos do art. 525, § 1º, III, do CPC.
+3. A análise da alegada violação aos arts. 369, 465, 502, 509 e 511 do CPC demandaria o revolvimento do conjunto fático-probatório dos autos, atraindo a incidência da Súmula n. 7/STJ.
+4. Rever as conclusões do Tribunal a quo para analisar se havia necessidade de liquidação de sentença pelo procedimento comum, com afastamento da conclusão de que a matéria restou preclusa, exigiria o reexame de fatos e provas, providência vedada em recurso especial.
+5. O Tema n. 1.290/STF, que versa sobre critério de reajuste do saldo devedor das cédulas de crédito rural, não se aplica ao caso concreto, que discute a necessidade de liquidação de sentença e a ocorrência de preclusão.
+Agravo interno improvido .
+VOTO
+O EXMO. SR. MINISTRO HUMBERTO MARTINS (relator):
+O agravo interno não merece prosperar.
+Inicialmente, não há falar em ofensa aos arts. 489 e 1.022 do CPC, uma vez que o Tribunal de origem, ao negar provimento ao agravo de instrumento interposto pelo recorrente solucionou a lide em conformidade ao que foi apresentado em juízo, manifestando-se expressamente sobre a preclusão quanto à necessidade de liquidação de sentença pelo procedimento comum. Confira-se trecho do acórdão recorrido (fls. 56-57):
+Como se vê, a exceção de pré-executividade é modalidade excepcional de oposição do executado e somente é admitida na hipótese de estar presente prova inequívoca da inexistência da obrigação ou de outra causa de extinção.
+Portanto, é possível extinguir-se a execução por meio de exceção de pré-executividade, desde que haja prova documental acostada aos autos de que ocorreu o pagamento do débito, ou da inexistência do débito, o que não se alega no presente caso.
+Ocorre que a questão envolvendo a necessidade de prévia liquidação relaciona-se à inexequibilidade do título, o que deveria ser arguido em impugnação ao cumprimento de sentença, nos termos do art. 525, § 1º, III, do CPC.
+Não tendo a parte alegado a questão no momento oportuno, inviável conhecer da matéria em sede de exceção de pré-executividade.
+Observa-se, portanto, que a lide foi solucionada em conformidade com o que foi apresentado em juízo e que o acórdão recorrido possui fundamentação suficiente, inexistindo omissão. Ademais, o órgão julgador não necessita afastar todas as alegações das partes, bastando que se manifeste suficientemente sobre suas razões de decidir.
+A propósito, cito precedente:
+CIVIL E PROCESSUAL CIVIL. EXECUÇÃO DE TÍTULO EXECUTIVO EXTRAJUDICIAL. VIOLAÇÃO DOS ARTS. 489 E 1.022 DO CPC. INEXISTÊNCIA. HASTA PÚBLICA. DESFAZIMENTO DA ARREMATAÇÃO DE IMÓVEL. ART. 903, §§ 1º E 2º, DO CPC. SÚMULA 283/STF.
+1. A controvérsia gira em torno da validade da arrematação de um imóvel, cuja anulação foi determinada pelo Tribunal de Justiça do Mato Grosso do Sul. A Corte entendeu que houve remição da dívida. O recorrente, no entanto, sustenta que a remição foi intempestiva, realizada sem o depósito integral do valor devido e somente após a assinatura do auto de arrematação.
+2. Não há falar em violação dos arts. 489 e 1.022 do CPC quando a Corte estadual enfrenta, fundamentadamente, as questões que lhe foram submetidas.
+3. A arrematação torna-se irretratável após a assinatura do auto, conforme dispõe o caput do art. 903 do CPC. No entanto, é possível seu desfazimento se forem comprovados vícios que se enquadrem nas hipóteses excepcionais previstas nos §§ 1º e 2º do referido artigo.
+4. A ausência de impugnação, nas razões do recurso especial, de fundamento autônomo e suficiente à manutenção do acórdão recorrido atrai o óbice da Súmula 283 do STF, segundo a qual: "É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles".
+5. A falta de cotejo analítico impede o acolhimento do recurso, pois não foi demonstrado em quais circunstâncias o caso confrontado e o aresto paradigma aplicaram diversamente o direito sobre a mesma situação fática.
+Recurso especial conhecido em parte e improvido.(REsp n. 1.936.100/MS, relator Ministro Humberto Martins, Terceira Turma, DJEN de 15/5/2025.)  grifei .
+RECURSOS ESPECIAIS. AÇÃO DE RESTITUIÇÃO E COBRANÇA MOVIDA POR SOCIEDADE EMPRESÁRIA CONTRA EX-SÓCIO ADMINISTRADOR. EMPRÉSTIMOS E DESPESAS IRREGULARES. AUSÊNCIA DE FUNDAMENTAÇÃO. INOCORRÊNCIA. CERCEAMENTO DE DEFESA NÃO VERIFICADO. COMPROVAÇÃO DOS FATOS CONTROVERTIDOS. SÚMULAS 5 E 7 DO STJ. VIOLAÇÃO DO PRINCÍPIO DA CORRELAÇÃO. PREQUESTIONAMENTO. AUSÊNCIA. SÚMULA 211/STJ. DISTRIBUIÇÃO DA SUCUMBÊNCIA. SÚMULA 7/STJ. FUNDAMENTAÇÃO DEFICIENTE. SÚMULA 284/STF.
+1. Ação ajuizada em 20/9/2013. Recursos especiais interpostos em 27/1/2017 e 9/2/2017. Autos conclusos ao Gabinete da Relatora em 10/9/2018.
+2. O propósito recursal é verificar se houve negativa de prestação jurisdicional, cerceamento de defesa e afronta ao princípio da correlação, bem como se há comprovação dos fatos narrados na inicial e se a distribuição da sucumbência foi feita de forma proporcional pelo acórdão recorrido.
+3. O acórdão recorrido apresenta fundamentação adequada, tendo os julgadores reconhecido, à unanimidade, com base em ampla incursão no acervo probatório dos autos, a obrigação do recorrente em restituir os valores ali elencados. Ausência de violação ao art. 489 do CPC/15.
+4. Não há nulidade processual quando o Tribunal julga integralmente a lide e soluciona a controvérsia em conformidade com o que lhe foi apresentado. O julgador não é obrigado a rebater, um a um, todos os argumentos trazidos pelas partes em defesa de suas teses, devendo, apenas, enfrentar a demanda observando as questões relevantes e imprescindíveis à sua resolução. Precedente.
+ ..
+RECURSO ESPECIAL DA SOCIEDADE EMPRESÁRIA NÃO CONHECIDO. RECURSO ESPECIAL DO EX-SÓCIO PARCIALMENTE CONHECIDO E NÃO PROVIDO.
+(REsp n. 1.837.445/SP, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 22/10/2019, DJe de 28/10/2019.)  grifei .
+Ademais, não merece conhecimento o apelo nobre quanto à suscitada ofensa aos arts. 369, 465, 502, 509 e 511 do Código de Processo Civil.
+Consoante aludido na decisão agravada e conforme se constata da fundamentação do acórdão recorrido, cujo trecho foi acima transcrito, analisar a alegada ofensa a tais dispositivos exigiria o revolvimento do conjunto fático-probatório, o que é vedado em recurso especial.
+Isso posto, percebe-se que a aplicação da Súmula 7/STJ ao caso mostra-se imperiosa, tendo em vista que a Corte de origem delimitou e especificou detalhadamente os motivos que a levaram a determinar o prosseguimento do cumprimento de sentença sem a realização de procedimento de liquidação, em decorrência da preclusão.
+No presente caso, rever as conclusões do Tribunal a quo para analisar se havia necessidade de liquidação de sentença pelo procedimento comum, com afastamento da conclusão de que a matéria restou preclusa, demandaria o reexame de fatos e provas, o que atrai a incidência da Súmula n. 7/STJ.
+Nesse sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. IMPUGNAÇÃO AO CUMPRIMENTO DE SENTENÇA. HOMOLOGAÇÃO DE CÁLCULO JUDICIAL. PRETENSÃO DE COMPENSAÇÃO DE INCENTIVOS DE MIGRAÇÃO DE PLANOS. MATÉRIA QUE DEVERIA TER SIDO DEDUZIDA NA FASE DE CONHECIMENTO. PRECLUSÃO. REVISÃO. INCIDÊNCIA DA SÚMULA N. 7/STJ. METODOLOGIA DOS CÁLCULOS APLICADOS. VIOLAÇÃO À COISA JULGADA. NÃO OCORRÊNCIA. SÚMULA N. 7/STJ. AGRAVO INTERNO DESPROVIDO.
+1. Para elidir a conclusão da Corte estadual quanto à ocorrência da preclusão, seria imprescindível a incursão no conjunto fático-probatório, incidindo, na espécie, a Súmula n. 7 deste Tribunal Superior a impedir o conhecimento do recurso especial.
+2. Com o trânsito em julgado da sentença de mérito, reputam-se repelidas as alegações efetivamente deduzidas e aquelas que poderiam ter sido suscitadas e não o foram a tempo e modo pelo interessado. Precedente.
+3. Com efeito, "esta Corte Superior de Justiça firmou orientação no sentido de não ser possível, em recurso especial, rever o posicionamento adotado pelo Tribunal de origem quanto ao teor do título em execução, a fim de verificar-se possível ofensa à coisa julgada, aplicando o enunciado da Súmula 7/STJ" (AgInt no AR Esp n. 770.444 /RS, relator Ministro Benedito Gonçalves, Primeira Turma, DJe de 15/3/2019).
+4. Agravo interno desprovido. (AgInt no AR Esp n. 2.342.807/PR, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 25/9/2023, DJe de 27/9/2023.)  grifei .
+Assim, apesar d o esforço argumentativo, entendo que a ausência de qualquer novo subsídio trazido pelo agravante, capaz de alterar os fundamentos da decisão ora agravada, faz subsistir incólume o entendimento nela firmado.
+Por fim, não cabe a suspensão do processo em razão do Tema n. 1.290/STF, assim delimitado: "Critério de reajuste do saldo devedor das cédulas de crédito rural, no mês de março de 1990, nos quais prevista a indexação aos índices da caderneta de poupança."
+No caso em tela, o recurso especial não questiona o critério de reajuste do saldo devedor das cédulas de crédito rural (objeto do Tema n. 1.290/STF), mas sim a necessidade de liquidação de sentença pelo procedimento comum, com afastamento da preclusão.
+Portanto, não existe nenhum risco de decisões conflitantes, não havendo que se falar em suspensão do processo.
+Ante o exposto, nego provimento ao agravo interno.
+É como penso. É como voto.
