@@ -1,0 +1,34 @@
+DECISÃO: Trata-se de habeas corpus impetrado por Nefi Cordeiro, em favor de Adriano Francisco Follador, contra acórdão proferido pelo Superior Tribunal de Justiça, nos autos do RE no AgRg nos EMBARGOS DE DIVERGÊNCIA EM RESP Nº 1947680 - RS (2021 /0208636-3).
+Colho da decisão primeva proferida naqueles autos:
+
+Trata-se de recurso especial interposto por ADRIANO FRANCISCO FOLLADOR com fundamento no art. 105, inciso III, alínea a, da Constituição da República, contra acórdão prolatado pela Oitava Turma do Tribunal Regional Federal da 4ª Região (Apelação Criminal n. 5000350-14.2017.4.04.7127/RS)
+Consta dos autos que em primeiro grau de jurisdição o recorrido e os corréus Aldo Candiotto Júnior, César Tadeu Paier, Clóvis Luiz Copatti, Eloir Vogt, Margareth Maria Meneghetti Copatti, Maritânia Filipetto Follador e Volnei Luís Bertiol foram absolvidos de todas as imputações contidas na denúncia.
+Interposta apelação, o Tribunal Regional deu provimento aos recurso ministerial, para condenar o réu Adriano Francisco Follador às penas de 02 anos, 07 meses e 15 dias de detenção, em regime semiaberto, e 73 dias-multa, pela prática do crime previsto no art. 90 da Lei nº 8.666/93; e a 03 anos, 09 meses e 15 dias de reclusão, em regime semiaberto, e 73 dias-multa, como incurso no art. 333 do CP, em acórdão assim ementado (e-STJ fls. 1646/1647):
+[...]
+Opostos embargos de declaração, foi dado parcial provimento sem atribuição de qualquer efeito infringente.(e-STJ fls.1742/1749). No recurso especial o recorrente alega que a decisão de segunda instância negou vigência aos art. 5º da Lei nº 9.296/96, artigo 155 do Código de Processo Penal, artigo 59 do Código Penal, art. 333 do Código Penal e art. 99 da Lei n. 8.666 /1993. Sustenta: a) violação ao art. 5º da Lei nº 9.296/96, em razão da prorrogação das interceptações telefônicas sem que fosse possível a verificação da imprescindibilidade da medida; o pedido de prorrogação foi estava desacompanhado das gravações do período anterior; b) negativa de vigência ao art. 155 do CPP, em razão da condenação ter sido pautada em depoimento do corréu Volnei prestado durante a fase inquisitória cujo teor fora integralmente negado durante o interrogatório judicial; c) violação ao art. 90 da Lei nº 8.666/93, em razão da ausência de indicação e demonstração de meio idôneo de consecução da fraude ou da frustração ao caráter competitivo da Carta Convite nº 010/2009; d) negativa de vigência ao art. 333 do CP, em razão da ausência de indicação de qual seria a prévia oferta ou promessa de vantagem oferecida por qualquer dos réus aos agentes públicos municipais; e) violação ao art. 59 e ao art. 62, inciso I, do CP, em razão da ocorrência de bis in idem pela valoração negativa da vetorial “culpabilidade” do recorrente pelas mesmas razões que efetuou o agravamento de sua pena na segunda fase da dosimetria para ambas as imputações; f) violação ao art. 99 da Lei nº 8.666/93 e ao art. 49 do CP, em razão da ausência de proporcionalidade na fixação das penas pecuniárias; g) necessidade de reconhecimento da absorção do crime previsto no art. 333, parágrafo único, do CP, pelo crime do art. 90 da Lei nº 8.666/93 (e-STJ fls. 1768/1819).
+Apresentadas contrarrazões, e admitido o recurso especial (e-STJ fls.1852).
+Parecer ministerial pelo desprovimento do recurso (e-STJ fls. 1950/1962). (www.stj.jus.br)
+ O recurso especial não foi provido. Os sucessivos recursos não obtiveram êxito.
+Está pendente de análise o agravo interno interposto contra decisão que negou seguimento ao recurso extraordinário.
+Nesta Corte, o impetrante requer “o conhecimento e acolhimento do presente habeas corpus, com a concessão da ordem para que seja para que seja cassado o édito condenatório e também a própria denúncia penal, com determinação de remessa dos autos em diligência para que o juízo de origem examine a subsistência de alguma prova que justifique a retomada da persecução penal, ou caso assim entendam, que seja diretamente absolvido o Paciente, no mesmo sentido direcionado pelo HC nº 952.945.”
+É o relatório.
+Decido.
+Verifico, inicialmente, que o vice-Presidente do Tribunal de origem aplicou o Tema 181 da repercussão geral, de modo que, mantida a decisão no agravo interno, põe-se termo ao processo.
+O presente, portanto, pretende contornar a inadmissibilidade do recurso extraordinário, de modo a forçar o Tribunal a se pronunciar sobre matéria da qual não tomaria ciência, se observados os termos do CPC.
+Entretanto, a jurisprudência desta Corte se formou no sentido de que “o caráter substitutivo de recurso extraordinário, conforme jurisprudência do STF, não impede o conhecimento da impetração” (HC 136.701, Rel. Min. Marco Aurélio, Primeira Turma, DJe 01.08.2018; HC 138.507, Rel. Min. Ricardo Lewandowski, Segunda Turma, DJe 04.08.2017; HC 143.034, Rel. Min. Ricardo Lewandowski, Segunda Turma, DJe 27.06.2017).
+Trata-se de entendimento ao qual me filio a fim de garantir a correção de graves injustiças e teratologias, não vislumbradas na hipótese.
+Isso porque “Depreende-se do trecho transcrito do acórdão proferido pelo Tribunal Regional que a condenação do recorrente não está pautada exclusivamente nas interceptações telefônicas e no depoimento do corréu Volnei, representante comercial da empresa em que o réu figura como sócio- DIPROLMED, mas em farta prova documental e testemunhal produzida em juízo sob o crivo do contraditório.” (www.stj.jus.br)
+Verificado o referido registro, verifica-se que o impetrante pretende, em sede de habeas corpus, que esta Corte reavalie todas as minúcias fáticas para proceder à declaração de nulidade ou à sua absolvição, pleito absolutamente impróprio, sobretudo diante da limitação cognitiva do writ:
+
+“Agravo regimental no habeas corpus. 2. Pedido de absolvição. Necessidade de nova instrução. Procedimento inexistente no rito do habeas corpus. 3. Agravo improvido.” (AgR no HC 210.482, de minha relatoria, Segunda Turma, DJe 3.3.2022)
+
+“Agravo regimental no habeas corpus. 2. Pedido de absolvição. Necessidade de dilação probatória, com nova instrução processual, procedimento inexistente no habeas corpus. 3. Agravo improvido.” (AgR no HC 211.302, de minha relatoria, Segunda Turma, julgado em 9.3.2022)
+
+Por fim, o pedido de anulação da condenação com remessa ao Juízo de primeiro grau “para que [...] examine a subsistência de alguma prova que justifique a retomada da persecução penal” é eminentemente retórico, na medida em que o quantum da pena e o extenso lapso temporal (fatos havidos em 2009 e denúncia recebida em 10.3.2016) parecem sugerir a ocorrência de prescrição, se acolhido.
+Ante o exposto, nego seguimento ao habeas corpus. (art. 21, p. primeiro, RISTF)
+Publique-se. Comunique-se ao STJ.
+Brasília, 2 de março de 2026.
+
+Ministro GILMAR MENDES
+Relator
+Documento assinado digitalmente
