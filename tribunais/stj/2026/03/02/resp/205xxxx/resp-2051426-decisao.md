@@ -1,0 +1,40 @@
+DECISÃO
+Trata-se de recurso especial interposto por INSTITUTO BRASILEIRO DO MEIO AMBIENTE E DOS RECURSOS NATURAIS RENOVAVEIS-IBAMA, com respaldo na alínea "a" do permissivo constitucional, contra acórdão do TRIBUNAL REGIONAL FEDERAL DA 1ª REGIÃO assim ementado (e-STJ fl. 161):
+ADMINISTRATIVO. AMBIENTAL. MANDADO DE SEGURANÇA. APREENSÃO DE MADEIRA. LICENÇA PARA TRANSPORTAR SOMENTE PARTE DA MADEIRA APREENDIDA. DOCUMENTO DE GUIA FLORESTAL  GF. LIBERAÇÃO PARCIAL.
+I  Na espécie dos autos, não havendo irregularidade no transporte de parte da madeira apreendida, conforme se verifica do documento de Guia Florestal - GF, não se afigura razoável a manutenção da apreensão da madeira acobertada pela aludida Guia Florestal. Precedentes deste egrégio Tribunal.
+II  A todo modo, existindo documento de Guia Florestal - GF que forneça cobertura parcial à madeira transportada, a multa aplicada pelo IBAMA deve ser readequada, para incidir tão-somente sobre a parte da carga transportada irregularmente.
+III  Apelação e remessa oficial desprovidas.
+Embargos de declaração desprovidos (e-STJ fls. 169/177).
+Em suas razões, a parte recorrente aponta violação dos arts. 25, caput, 46, parágrafo único, da Lei n. 9.605/1998 e 47, § 3º, todos do Decreto n. 6.514/2008, argumentando, em suma, que a legislação ambiental determina a apreensão da totalidade da madeira transportada irregularmente, ainda que parte dela possua licença ambiental.
+Sem contrarrazões.
+Juízo positivo de admissibilidade pelo Tribunal de origem às e-STJ fls. 229/232.
+Parecer ministerial, às e-STJ fls. 271/274, opinando pelo provimento do recurso especial.
+Passo a decidir.
+Versam os autos sobre mandado de segurança interposto pelo ora recorrido, objetivando a liberação de madeira apreendida em razão do transporte irregular e a anulação do auto de infração lavrado pelo IBAMA.
+Ao apreciar a controvérsia, o Tribunal de origem concluiu que a apreensão da totalidade da madeira seria desarrazoada, porquanto parte da carga estaria amparada por Guia Florestal válida.
+O acórdão recorrido assentou os seguintes fundamentos (e-STJ fls. 157/159):
+Na hipótese dos autos, a controvérsia instaurada cinge-se sobre a possibilidade de se permitir a liberação de parte da madeira apreendida que se encontra compatível com a especificação contida na Guia Florestal.
+Com efeito, não merece reparos a sentença monocrática, posto que não havendo irregularidade no transporte de parte da madeira apreendida, conforme se verifica da Guia Florestal - GF, não se afigura razoável a manutenção da apreensão da madeira acobertada pela aludida Guia Florestal.
+ ..
+Por fim, havendo documento de Guia Florestal - GF que forneça cobertura parcial à madeira transportada, a multa aplicada pelo IBAMA deve ser readequada, para incidir tão-somente sobre a parte da carga transportada irregularmente.
+Entretanto, o entendimento estampado no aresto recorrido destoa da jurisprudência desta Corte Superior, no sentido de que, havendo o transporte de madeira em desacordo com o Documento de Origem Florestal - DOF, a pena de apreensão deve alcançar a totalidade das madeiras transportadas.
+A esse respeito:
+AGRAVO INTERNO NO RECURSO ESPECIAL. ADMINISTRATIVO. MANDADO DE SEGURANÇA. AUTO DE INFRAÇÃO. TRANSPORTE IRREGULAR DE MADEIRA. DIVERGÊNCIA NO PREENCHIMENTO DA GUIA FLORESTAL. APREENSÃO TOTAL DA CARGA. LEGALIDADE. PRECEDENTES DO STJ. AGRAVO INTERNO PROVIDO PARA DAR PROVIMENTO AO RECURSO ESPECIAL.
+1. Nos termos da jurisprudência firmada pela Segunda Turma desta Corte, "a madeira legalmente extraída e transportada com guia florestal válida, mas utilizada para esconder ou disfarçar carga ilícita ou dificultar a fiscalização pelas autoridades competentes, transforma-se em instrumento de crime ou de infração administrativa e, por isso, deve ser igualmente apreendida" (REsp n. 1.714.543/MT, relator Ministro Herman Benjamin, Segunda Turma, julgado em 5/11/2019, DJe de 11/9/2020.). No mesmo sentido: REsp n. 1.784.755/MT, relator Ministro Og Fernandes, Segunda Turma, julgado em 17/9/2019, DJe de 1/10/2019; AgInt no REsp n. 1.935.278/CE, relator Ministro Francisco Falcão, Segunda Turma, julgado em 9/11/2021, DJe de 11/11/2021.
+2. Na hipótese dos autos, em que pese o Tribunal de origem tenha reconhecido a existência de divergência no preenchimento da Guia Florestal para Transporte de Produtos Florestais Diversos, concluiu que "a apreensão da integralidade da carga, à luz do princípio da razoabilidade, evidencia a ilegalidade da medida administrativa", em desconformidade, portanto, com a jurisprudência do STJ.
+3. Agravo interno provido para dar provimento ao Recurso Especial do IBAMA, a fim de denegar a ordem, reconhecendo legítima a apreensão da totalidade do produto florestal aprendido na fiscalização ambiental de que trata os autos.
+(AgInt no REsp n. 1.967.913/RO, relator Ministro Teodoro Silva Santos, Segunda Turma, julgado em 27/5/2024, DJe de 3/6/2024.)
+PROCESSUAL CIVIL. AMBIENTAL. TRANSPORTE DE MADEIRA. CARGA PARCIALMENTE REGULAR. OCULTAÇÃO DO ILÍCITO. INSTRUMENTO DE CRIME OU DE INFRAÇÃO ADMINISTRATIVA. LEGALIDADE DA APREENSÃO.
+1. Trata-se, na origem, de Mandado de Segurança impetrado pelo ora recorrido com o objetivo de obter liberação da carga de madeira que se encontra acobertada pelos documentos cabíveis (24,576m  das essências cupiúba e tauari), bem como a declaração de nulidade dos autos de infração, apreensão e depósito da referida carga.
+2. O Tribunal de origem afirmou que, "no caso dos autos, em que pese a constatação de que determinada quantidade de madeira estava sendo comercializada sem autorização legal, parte da carga possuía permissão para transporte e comercialização (29,56m3 de madeira Tauari e Cupiúba), não merecendo reparos a sentença que autorizou a restituição da madeira acobertada pela respectiva documentação, bem como para que a autoridade impetrada promova a redução proporcional da multa imposta no Auto de Infração." (fl. 147, e-STJ).
+3. A Segunda Turma do STJ, ao julgar o REsp 1.784.755/MT, da relatoria do Ministro Og Fernandes, DJe 1º.10.2019, que discutia matéria idêntica à dos autos, decidiu: "A legislação ambiental estabelece como efeito imediato da infração a apreensão dos bens e instrumentos utilizados na prática do ilícito ambiental. Tendo o infrator sido flagrado transportando madeira em desconformidade com a respectiva guia de autorização, não é possível que o Judiciário flexibilize a sanção prevista na lei e determine a liberação da quantia anteriormente permitida. Tal postura compromete a eficácia dissuasória inerente à medida, consistindo em incentivo, sob a perspectiva da teoria econômica do crime, às condutas lesivas ao meio ambiente."
+4. A madeira legalmente extraída e transportada com guia florestal válida, mas utilizada para esconder ou disfarçar carga ilícita ou dificultar a fiscalização pelas autoridades competentes, transforma-se em instrumento de crime ou de infração administrativa e, por isso, deve ser igualmente apreendida.
+5. Entendimento diverso reduziria o alcance da norma ambiental, que busca desestimular novas práticas de infrações ambientais, sobretudo desmatamento, retirando do autor do ilícito qualquer possibilidade de vantagem econômica pelo transporte irregular de madeiras, cabendo ao Poder Público reaproveitá-las mediante doação a instituições científicas, hospitalares, penais e outras com fins beneficentes, conforme o caso.
+6. Recurso Especial provido.
+(REsp n. 1.714.543/MT, relator Ministro Herman Benjamin, Segunda Turma, julgado em 5/11/2019, DJe de 11/9/2020.)
+Ainda sobre o tema cito as seguintes decisões monocráticas: REsp 1.886.820/PR, Relator(a) Ministro BENEDITO GONÇALVES, DJe 08/11/2022; REsp 1.998.354/MT Relator(a) Ministro SÉRGIO KUKINA, DJe 09/06/2022; e AREsp 2007907/RS, Minha Relatoria, DJe 19/05/2022.
+Ante o exposto, com base no art. 255, § 4º, III, do RISTJ, DOU PROVIMENTO ao recurso especial para denegar a segurança postulada.
+Sem condenação ao pagamento de honorários advocatícios.
+Custas pelo impetrante.
+Publique-se. Intimem-se.
+EMENTA
