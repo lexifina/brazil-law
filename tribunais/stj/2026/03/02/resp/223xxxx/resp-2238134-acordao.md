@@ -1,0 +1,50 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 24/02/2026 a 02/03/2026, por unanimidade, não conhecer do recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Moura Ribeiro, Daniela Teixeira, Nancy Andrighi e Humberto Martins votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Humberto Martins.
+EMENTA
+RECURSO ESPECIAL. CIVIL. RESCISÃO CONTRATUAL. COMPRA E VENDA DE IMÓVEL.  PREQUESTIONAMENTO.  AUSÊNCIA.  SÚMULA  Nº  282/STF.  FUNDAMENTAÇÃO. DEFICIÊNCIA. SÚMULA Nº 284/STF. FUNDAMENTOS INATACADOS. SÚMULA Nº 283/STF.
+1. Ausente  o  prequestionamento,  até  mesmo  de  modo  implícito,  dos  dispositivos  apontados  como  violados  no  recurso  especial,  incide,  por  analogia,  o  disposto  na  Súmula  nº  282 /STF.
+2. É inadmissível o inconformismo por deficiência na sua fundamentação quando a alegação de ofensa legal é formulada de forma genérica. Aplicação da Súmula nº 284 do Supremo Tribunal Federal.
+3. A ausência de impugnação de um fundamento suficiente do acórdão recorrido enseja o não conhecimento do recurso, incidindo o disposto na Súmula nº 283 do Supremo Tribunal Federal.
+4. Recurso especial não conhecido.
+RELATÓRIO
+Trata-se de recurso especial interposto por JARDIM ALVORADA EMPREENDIMENTO IMOBILIÁRIO SPE LTDA., fundamentado no artigo 105, III, alínea "a", da Constituição Federal, insurgindo-se contra acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo assim ementado:
+"APELAÇÃO - Ação de Rescisão Contratual de Contrato de Compra e Venda c/c Restituição de Valores Pagos Instrumento Particular de Compra e Venda de Imóvel com Parcelamento de Preço e Alienação Fiduciária - Propositura pelos compradores Apresentação de reconvenção pela ré, objetivando retenção de parte do valor pago e condenação dos autores ao pagamento de taxa de fruição e IPTU - Sentença de parcial procedência da ação e da reconvenção - Inconformismo da ré, alegando que não é caso de aplicação do CDC e há impossibilidade de rescisão do contrato, devendo ser observado o disposto na Lei 9.514/97, sendo que o atraso na conclusão das obras ocorreu por motivo de força maior (Pandemia Covid-19) e que os valores devidos a título de IPTU são de responsabilidade dos compradores - Descabimento - Ainda que se reconheça a existência de Pacto de Alienação Fiduciária em Garantia averbado na matrícula imobiliária, é certo que a alienação fiduciária foi instituída em favor da própria vendedora e empreendedora, a ré, e não para instituição financeira, o que caracteriza conduta abusiva da promitente vendedora, ora ré, por se tratar estratégia visando contornar as garantias previstas no CDC e CC, o que torna possível e necessária a rescisão contratual perseguida - Débitos de IPTU que são de responsabilidade da vendedora até entrega do imóvel Cabível, portanto, a rescisão contratual pretendida, com restituição de 8O% do montante pago e dos valores de IPTU, tal como decidido na sentença - Recurso desprovido."  (e-STJ  fl.  341)
+Não foram interpostos embargos de declaração.
+No  recurso  especial,  o  recorrente  aponta  a  violação  dos  artigos 186, 393, 402, 403, 927, 944 do Código Civil; 373, II, do Código de Processo Civil; 32, 34 do Código Tributário Nacional; e 22 da Lei nº 9.514/97. Aduz, em síntese, a ocorrência de caso fortuito, que o pagamento das despesas de IPTU é de responsabilidade do compromissário adquirente e sendo o contrato de compra e venda de imóvel com garantia de alienação fiduciária é inaplicável o CDC.
+A s  contrarrazões  foram  apresentadas às e-STJ fls.  76/79  e  o  recurso  especial  foi  inadmitido  na  origem.
+É  o  relatório.
+EMENTA
+RECURSO ESPECIAL. CIVIL. RESCISÃO CONTRATUAL. COMPRA E VENDA DE IMÓVEL.  PREQUESTIONAMENTO.  AUSÊNCIA.  SÚMULA  Nº  282/STF.  FUNDAMENTAÇÃO. DEFICIÊNCIA. SÚMULA Nº 284/STF. FUNDAMENTOS INATACADOS. SÚMULA Nº 283/STF.
+1. Ausente  o  prequestionamento,  até  mesmo  de  modo  implícito,  dos  dispositivos  apontados  como  violados  no  recurso  especial,  incide,  por  analogia,  o  disposto  na  Súmula  nº  282 /STF.
+2. É inadmissível o inconformismo por deficiência na sua fundamentação quando a alegação de ofensa legal é formulada de forma genérica. Aplicação da Súmula nº 284 do Supremo Tribunal Federal.
+3. A ausência de impugnação de um fundamento suficiente do acórdão recorrido enseja o não conhecimento do recurso, incidindo o disposto na Súmula nº 283 do Supremo Tribunal Federal.
+4. Recurso especial não conhecido.
+VOTO
+Ultrapassados os pressupostos de admissibilidade do agravo, passa-se ao exame do recurso especial.
+A  insurgência  não  merece  prosperar.
+Inicialmente,  dessume-se que a  norma  contida  no  artigo 393 do Código Civil,  não  foi  objeto  de  debate  pela  Corte  local,  nem sequer  de  modo  implícito,  o  que  inviabiliza  o  recurso  especial  diante  da  falta  de  prequestionamento,  conforme  o  óbice  das  Súmulas  nºs  282  e  356 /STF.
+A  propósito:
+"AGRAVO  INTERNO  NOS  EMBARGOS  DE  DECLARAÇÃO  NO  AGRAVO  EM  RECURSO  ESPECIAL.  INDENIZAÇÃO.  ACIDENTE  DE  TRÂNSITO.  PENSÃO.  BENEFÍCIO  PREVIDENCIÁRIO.  CUMULAÇÃO.  POSSIBILIDADE.  PENSIONAMENTO  MENSAL.  VALOR.  TERMO  FINAL.  EXPECTATIVA  DE  VIDA  DA  VÍTIMA.  SÚMULA  N.  83  DO  STJ.  INCIDÊNCIA.  FALTA  DE  PREQUESTIONAMENTO.  PREQUESTIONAMENTO  IMPLÍCITO.  NÃO  VERIFICAÇÃO.  SÚMULAS  N.  282  E  356  DO  STF.  DECISÃO  MANTIDA.  AGRAVO  INTERNO  DESPROVIDO.
+ ..
+5.  O  prequestionamento  significa  a  prévia  manifestação  do  tribunal  de  origem,  com  emissão  de  juízo  de  valor,  acerca  da  matéria  referente  ao  dispositivo  de  lei  federal  apontado  como  violado.  Trata-se  de  requisito  constitucional  indispensável  para  o  acesso  à  instância  especial.
+6.  A  falta  de  enfrentamento  da  questão  objeto  da  controvérsia  impede  o  acesso  à  instância  especial  e  o  conhecimento  do  recurso  especial,  nos  termos  das  Súmulas  n.  282  e  356  do  STF.
+7.  Não  se  considera  preenchido  o  requisito  do  prequestionamento  (prequestionamento  implícito)  quando  o  tribunal  de  origem  não  debate  efetivamente  acerca  da  matéria  inserta  no  dispositivo  de  lei  federal.
+8.  Agravo  interno  desprovido."
+(AgInt  nos  EDcl  no  REsp  1.872.831/PR,  Relator  Ministro  JOÃO  OTÁVIO  DE  NORONHA,  Quarta  Turma,  julgado  em  25/11/2024,  DJe  de  29/11/2024.)
+"AGRAVO  INTERNO  NO  AGRAVO  EM  RECURSO  ESPECIAL.  PREVIDÊNCIA  PRIVADA.  ILEGITIMIDADE  PASSIVA.  AUSÊNCIA  DE  PREQUESTIONAMENTO.  SÚMULAS  282  E  356/STF.  PREQUESTIONAMENTO  FICTO.  NÃO  OCORRÊNCIA.  VÍCIO  DE  CONSENTIMENTO  E  ONEROSIDADE  EXCESSIVA.  REVISÃO.  IMPOSSIBILIDADE.  SÚMULA  7/STJ.  MULTA  PREVISTA  NO  ART.  81  DO  CPC/2015.  INAPLICABILIDADE.  HONORÁRIOS  RECURSAIS.  NÃO  CABIMENTO.  AGRAVO  INTERNO  DESPROVIDO.
+1.  A  Corte  local  não  se  pronunciou  sobre  a  tese  de  ilegitimidade  passiva  da  instituição  financeira,  o  que  revela  a  ausência  de  prequestionamento  da  matéria,  a  qual  nem  sequer  foi  suscitada  nos  embargos  declaratórios  opostos  na  origem.  Incidência  das  Súmulas  282  e  356/STF.
+ ..
+6.  Agravo  interno  desprovido."
+(AgInt  no  AREsp  2.658.153/DF,  Relator  Ministro  MARCO  AURÉLIO  BELLIZZE,  Terceira  Turma,  julgado  em  11/11/2024,  DJe  de  13/11/2024.)
+No tocante ao suposto desrespeito aos artigos 186, 402, 403, 927, 944 do Código Civil e 373, II, do Código de Processo Civil, observa-se que a recorrente se limitou a mencionar os referidos dispositivos, sem fundamentar de que forma tais dispositivos da legislação infraconstitucional teriam sido contrariados pelo acórdão recorrido, incidindo, na espécie, o impedimento contido na Súmula nº 284, do Supremo Tribunal Federal (STF), aplicável por analogia: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia".
+No mais, com relação à alegada violação dos artigos 32 e 34 do Código Tributário Nacional e 22 da Lei nº 9.514/97, o Tribunal de origem entendeu que
+"Em que pesem as razões recursais, não há se falar em impossibilidade de desfazimento do negócio de compra e venda celebrado entre as partes, uma vez que, ainda que se reconheça a existência de Pacto de Alienação Fiduciária em Garantia no contrato entabulado entre as partes, é certo que, na hipótese "sub judice", a alienação fiduciária foi instituída em favor da própria vendedora e empreendedora, e não para instituição financeira, o que caracteriza conduta abusiva da promitente vendedora, por se tratar estratégia visando contornar as garantias previstas no Código de Defesa do Consumidor e Código Civil, o que torna possível e necessária a rescisão contratual perseguida pelos autores, não se aplicando, portanto, o decidido pelo Colendo Superior Tribunal de Justiça no REsp nº 1891498/SP (Tema 1095).
+(..)
+Em relação à pretendida condenação dos autores ao pagamento de IPTU, melhor sorte não assiste à apelante. Isto porque, para tanto há necessidade da posse de fato, não bastando a posse ficta transmitida pelo instrumento contratual." (e-STJ fls. 343/344 e 350)
+Nesses pontos, verifica-se que a pretensão recursal esbarra inarredavelmente no óbice da Súmula nº 283 do Supremo Tribunal Federal, pois há fundamentos autônomos i natacados no especial, a saber: "abusividade da cláusula de alienação fiduciária e inexistência de posse de fato apta para transferir a responsabilidade pelo pagamento do IPTU"
+Assim, é notório que a recorrente não infirma especificamente os fundamentos do acórdão impugnado.
+Ante o exposto, não conheço do recurso especial.
+Na origem, os honorários sucumbenciais foram fixados em 15% (quinze por cento) sobre o valor da condenação, os quais devem ser majorados para o patamar de 20% (vinte por cento) em favor do advogado da parte recorrida, nos termos do art. 85, § 11, do Código de Processo Civil, observada a proporção estabelecida na origem e o benefício da gratuidade da justiça, se for o caso.
+É  o  voto.
