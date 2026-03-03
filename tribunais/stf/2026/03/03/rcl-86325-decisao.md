@@ -1,0 +1,14 @@
+DESPACHO:
+Vistos.
+Cuida-se de reclamação, com pedido liminar, ajuizada por Incorpore Soluções Ltda. contra decisão proferida pelo Juízo da 37ª Vara do Trabalho de Salvador, nos autos do Processo nº 0000078- 14.2023.5.05.0037, por alegado desrespeito à ordem nacional de sobrestamento de processos exarada no Tema nº 1.389 da Repercussão Geral (vinculado ao ARE nº 1.532.603).
+Por meio de decisão monocrática publicada no dia 20/10/25, julguei procedente a presente reclamação para cassar o ato reclamado proferido nos autos do processo nº 0000078-14.2023.5.05.0037, determinando que a autoridade reclamada proceda à suspensão do trâmite processual e à nova análise dos autos quando sobrevier o julgamento do mérito e a definição da tese no Tema n. 1389 da repercussão geral. A decisão supracitada transitou em julgado em 12/11/2025.
+O Tribunal Regional do Trabalho da 5ª Região (TRT5), após ser comunicado acerca da decisão de procedência na presente reclamatória e e após manifestação  da autora nos autos originários, converteu o feito em diligência  e determinou a expedição de oficio a esta Suprema Corte (Petição nº 180.340/2025) a fim de indagar como deve proceder no presente caso, haja vista entender não haver “razão para suspender o curso do processo, que se encontra pendente de julgamento do recurso ordinário interposto pela reclamante”, uma vez que “a sentença proferida na reclamação trabalhista nº 0000078- 14.2023.5.05.0037 [teria] transit[ado] em julgado na parte em que reconheceu a existência de relação de emprego entre as litigantes, não havendo interposição de recurso pela reclamada, mas, apenas, pela reclamante, pendente de julgamento”  (e-doc. 28, p. 5).
+Esclareço que não subsiste o alegado óbice ao cumprimento da determinação proferida pelo STF em razão de suposta preclusão do debate atinente à configuração da relação de emprego.
+Em consulta ao sistema de acompanhamento processual do Tribunal Regional do Trabalho da 5ª Região pela numeração única do Processo nº 00000027-02.2021.5.10.0015, não identifico haver certificação de trânsito em julgado naqueles autos previamente à interposição da presente reclamação no STF.
+Por ser a decisão de reconhecimento do vínculo empregatício manifestada em desacordo com a eficácia do julgado do STF e, não tendo transitado em julgado,  entendo que o postulado da economia processual e da primazia da solução de mérito da presente reclamação devem orientar a solução nestes autos com paradigma no Tema nº 1389.
+Ante o exposto, envie cópia do presente despacho ao Tribunal Regional do Trabalho da 5ª Região para que tome ciência dos esclarecimentos solicitados e proceda ao regular cumprimento da determinação proferida no juízo de procedência da presente reclamação. Após, considerando que nada há a decidir e que o quadro revela estar exaurida jurisdição desta Corte, retornem os autos ao arquivo.
+Publique-se.
+Brasília, 3 de março de 2026.
+
+Ministro DIAS TOFFOLI
+Relator
