@@ -1,0 +1,55 @@
+DECISÃO
+Trata-se de recurso especial interposto por PEDRO VALDECI DE ALMEIDA, fundamentado no art. 105, inciso III, alíneas a e c, da Constituição Federal, contra acórdão proferido pelo eg. Tribunal de Justiça do Estado do Rio Grande do Sul (TJ-RS), assim ementado:
+"APELAÇÕES CÍVEIS. AÇÃO REVISIONAL. ALIENAÇÃO FIDUCIÁRIA. BEM MÓVEL.
+CAPITALIZAÇÃO. ADMITIDA A CAPITALIZAÇÃO DE JUROS EM PERIODICIDADE INFERIOR À ANUAL EM CONTRATOS CELEBRADOS APÓS 31.3.2000, DATA DA PUBLICAÇÃO DA MP 2.170- 36/2001 E DESDE QUE PACTUADA. SÚMULA Nº 539 DO SUPERIOR TRIBUNAL DE JUSTIÇA. PREVISÃO EXPRESSA NO NEGÓCIO E AFERIÇÃO, TAMBÉM, MEDIANTE ANÁLISE DAS TAXAS MENSAL E ANUAL DOS JUROS. RESP Nº 973.827/RS E SÚMULA Nº 541 DO STJ.
+SEGURO DE PROTEÇÃO FINANCEIRA. NÃO CONFIGURADA A VENDA CASADA. ADESÃO POR LIBERALIDADE, MEDIANTE SUFICIENTE INFORMAÇÃO DO CONSUMIDOR. RUBRICA MANTIDA.
+DOS HONORÁRIOS ADVOCATÍCIOS. PREJUDICADO O PEDIDO DE READEQUAÇÃO DOS HONORÁRIOS ADVOCATÍCIOS DEVIDOS AO CAUSÍDICO DO AUTOR. VERBA REDIMENSIONADA.
+APELAÇÃO CÍVEL DO AUTOR DESPROVIDA.
+APELAÇÃO CÍVEL DO RÉU PROVIDA." (e-STJ, fl. 241, grifos no original)
+Não foram opostos embargos de declaração.
+Em seu recurso especial (e-STJ, fls. 247-259), a parte recorrente alega violação aos artigos 6º, inciso III, e 46 da Lei 8.078/1990 (Código de Defesa do Consumidor), além de divergência jurisprudencial, sustentando, em síntese, que:
+(i) Houve violação ao dever de informação na contratação, já que a capitalização diária de juros teria sido pactuada sem a indicação da taxa diária aplicada, o que seria abusivo e impediria a vinculação do consumidor às cláusulas cuja compreensão seria dificultada.
+(ii) A mera referência às taxas mensal e anual não seria suficiente, na ótica do recorrente, para viabilizar a capitalização diária, uma vez que seria imprescindível a previsão expressa da taxa diária para permitir o controle prévio da evolução do débito.
+Foram ofertadas contrarrazões (e-STJ, fls. 306-318).
+É o Relatório. Passo a decidir.
+Razão assiste à parte recorrente.
+Na espécie, o Tribunal de origem, no julgamento da apelação, assim dispôs sobre a capitalização diária:
+"Quanto à capitalização de juros, sua permissão normativa deu-se, inicialmente, com a redação da Medida Provisória n. 1.963-17/00 - reeditada sob o n. 2.170-36/01 - ato reconhecidamente constitucional pelo egrégio Supremo Tribunal Federal no Tema n.33 de Repercussão Geral. Na sequência, a Lei n.10.931/04 consolidou, em seu artigo 28, §1º, inciso I, a possibilidade de pactuação da capitalização de juros nas Cédulas de Crédito Bancário.
+Em análise à legislação própria, o Superior Tribunal de Justiça consolidou posicionamento, em sede de recursos repetitivos (Tema 246), reconhecendo a possibilidade da capitalização dos juros em periodicidade inferior à anual, desde que prevista de forma expressa e clara; ainda, sedimentou que "a previsão no contrato bancário de taxa de juros anual superior ao duodécuplo da mensal é suficiente para permitir a cobrança da taxa efetiva anual contratada". As teses posteriormente foram repetidas nas redações das Súmulas n.539 e 541 da Corte Superior, a saber:
+"É permitida a capitalização de juros com periodicidade inferior a um ano em contratos celebrados após 31.3.2000, data da publicação da Medida Provisória n. 1.963-17/2000 (em vigor como MP 2.170-36/2001), desde que expressamente pactuada".
+"A previsão no contrato bancário de taxa de juros anual superior ao duodécuplo da mensal é suficiente para permitir a cobrança da taxa efetiva anual contratada".
+Assim, a ratio lançada pelo Superior Tribunal de Justiça em dispositivos vinculantes permite concluir pela validade da capitalização de juros em periodicidade inferior à anual desde que expressamente prevista, sendo suficiente ao dever de informação até mesmo a aferição obtida pela análise das taxas de juros anuais/mensais/diários declinadas no negócio. A indicação por escrito do encargo, nessa toada, é exauriente ao esclarecimento do fiduciante sobre sua incidência.
+No presente caso, portanto, considerando-se que a Cédula de Crédito Bancário prevê expressamente a capitalização diária nas condições principais, não há ilegalidade a ser reconhecida:
+Sobre o ponto, inclusive, vale ressaltar que reiterada jurisprudência do egrégio Superior Tribunal de Justiça vem amparando a validade da cláusula em casos análogos, independentemente da previsão no título da taxa diária dos juros remuneratórios." (e-STJ, fl. 238)
+Quanto ao tema, a jurisprudência desta Corte de Justiça tem entendimento de que é possível a cobrança de capitalização diária de juros em contratos bancários, sendo necessária a informação acerca da taxa de juros diária a ser aplicada, ainda que haja expressa previsão quanto à periodicidade no contrato, porquanto a mera informação acerca da capitalização diária, sem indicação da respectiva taxa, retira do consumidor a possibilidade de estimar previamente a evolução da dívida e de aferir a equivalência entre a taxa diária e as taxas efetivas mensal e anual, situação que configura descumprimento do dever de informação, nos termo da norma do art. 46 do CDC. Nesse sentido:
+"RECURSO ESPECIAL. DIREITO CIVIL, PROCESSUAL CIVIL E DO CONSUMIDOR. (EN. 3/STJ). CÉDULA DE CRÉDITO BANCÁRIO. CAPITALIZAÇÃO DIÁRIA DE JUROS REMUNERATÓRIOS. TAXA DIÁRIA NÃO INFORMADA. VIOLAÇÃO AO DEVER DE INFORMAÇÃO. ABUSIVIDADE.
+1. Controvérsia acerca do cumprimento de dever de informação na hipótese em que pactuada capitalização diária de juros em contrato bancário.
+2. Necessidade de fornecimento, pela instituição financeira, de informações claras ao consumidor acerca da periodicidade da capitalização dos juros adotada no contrato, e das respectivas taxas.
+3. Insuficiência da informação acerca das taxas efetivas mensal e anual, na hipótese em que pactuada capitalização diária, sendo imprescindível, também, informação acerca da taxa diária de juros, a fim de se garantir ao consumidor a possibilidade de controle "a priori" do alcance dos encargos do contrato. Julgado específico da Terceira Turma.
+4. Na espécie, abusividade parcial da cláusula contratual na parte em que, apesar de pactuar as taxas efetivas anual e mensal, que ficam mantidas, conforme decidido pelo acórdão recorrido, não dispôs acerca da taxa diária.
+5. RECURSO ESPECIAL DESPROVIDO, COM MAJORAÇÃO DE HONORÁRIOS."
+(REsp n. 1.826.463/SC, Rel. Ministro PAULO DE TARSO SANSEVERINO, Segunda Seção, julgado em 14/10/2020, DJe de 29/10/2020, g.n.)
+Confiram-se, ainda, os seguintes precedentes:
+"CIVIL E CONSUMIDOR. RECURSO ESPECIAL. AÇÃO REVISIONAL. CONTRATO DE CARTÃO DE CRÉDITO. 1. CAPITALIZAÇÃO DIÁRIA. CONTRATAÇÃO EXPRESSA. INDICAÇÃO DA TAXA DE JUROS DIÁRIA. NECESSIDADE, SOB PENA DE VIOLAÇÃO AO DEVER DE INFORMAÇÃO. 2. DESCARACTERIZAÇÃO DA MORA. ABUSIVIDADE NA COBRANÇA DE ENCARGOS DO PERÍODO DA NORMALIDADE. 3. TAXA SELIC. INCIDÊNCIA. SUBSTITUIÇÃO DO INDEXADOR E DOS JUROS DE MORA. RECURSO ESPECIAL PARCIALMENTE PROVIDO.
+1. É assente nesta Corte Superior o entendimento segundo o qual é permitida a capitalização diária de juros remuneratórios desde que prevista a respectiva taxa de forma expressa e clara, não sendo suficiente a informação das taxas efetivas mensal e anual.
+2. O reconhecimento da cobrança de encargos abusivos no período da adimplência contratual (capitalização diária) descaracteriza a mora.
+3. A atualização dos débitos judiciais deve ser efetuada pela taxa referencial do Sistema Especial de Liquidação e Custódia - SELIC, a qual deve ser utilizada sem a cumulação com correção monetária por já contemplar essa rubrica em sua formação.
+4. Recurso especial parcialmente provido."
+(REsp n. 2.220.040/RS, relator Ministro MOURA RIBEIRO, Terceira Turma, julgado em 18/8/2025, DJEN de 21/8/2025, g.n.)
+"BANCÁRIO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO REVISIONAL DE CONTRATO BANCÁRIO. VIOLAÇÃO DO ART. 1.022 DO CPC/2015. NÃO OCORRÊNCIA. CAPITALIZAÇÃO DIÁRIA DE JUROS. AUSÊNCIA DE INDICAÇÃO DA TAXA DE JUROS DIÁRIA. VIOLAÇÃO DO DEVER DE INFORMAÇÃO. SÚMULA 83 DO STJ. DESCARACTERIZAÇÃO DA MORA. AGRAVO INTERNO DESPROVIDO.
+1. Não prospera a alegada ofensa ao art. 1.022 do CPC/2015, tendo em vista que o v. acórdão recorrido, embora não tenha examinado individualmente cada um dos argumentos suscitados pela parte, adotou fundamentação suficiente, decidindo integralmente a controvérsia.
+2. O STJ possui entendimento de que é possível a cobrança de capitalização diária de juros em contratos bancários, sendo necessária, contudo, a informação prévia da taxa de juros diária a ser aplicada, com o desiderato de possibilitar ao consumidor estimar a evolução da dívida e aferir a equivalência entre a taxa diária e as taxas efetivas mensal e anual, sob pena de violação do dever de informação. Precedentes. Incidência da Súmula 83 do STJ.
+3. A jurisprudência desta Corte Superior se posiciona no sentido de que o reconhecimento da índole abusiva dos encargos, no período de normalidade contratual, descaracteriza a mora.
+4. Agravo interno desprovido."
+(AgInt no AREsp n. 2.566.896/PR, relator Ministro RAUL ARAÚJO, Quarta Turma, julgado em 19/8/2024, DJe de 2/9/2024, g.n.)
+"AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO DE BUSCA E APREENSÃO. CAPITALIZAÇÃO DE JUROS. TAXA DIÁRIA. INFORMAÇÃO DEFICIENTE. ILEGALIDADE. DESCARACTERIZAÇÃO DA MORA. PRECEDENTES. AGRAVO INTERNO DESPROVIDO.
+1. "Insuficiência da informação acerca das taxas efetivas mensal e anual, na hipótese em que pactuada capitalização diária, sendo imprescindível, também, informação acerca da taxa diária de juros, a fim de se garantir ao consumidor a possibilidade de controle "a priori" do alcance dos encargos do contrato" (REsp n. 1.826.463/SC, Relator Ministro Paulo de Tarso Sanseverino, Segunda Seção, julgado em 14/10/2020, DJe 29/10/2020).
+2. No caso, o acórdão recorrido diverge do entendimento firmado nesta Corte Superior no sentido da necessidade de fornecimento, pela instituição financeira, de informações claras ao consumidor acerca da periodicidade da capitalização dos juros adotada no contrato, e das respectivas taxas, sob pena de reputar abusiva a capitalização diária de juros remuneratórios.
+3. O reconhecimento da ilegalidade da capitalização dos juros cobrada descaracteriza a mora, pressuposto necessário ao ajuizamento da ação de busca e apreensão. Precedentes.
+4. Agravo interno desprovido."
+(AgInt no REsp n. 2.024.575/RS, Rel. Ministro MARCO AURÉLIO BELLIZZE, Terceira Turma, julgado em 17/4/2023, DJe de 19/4/2023, g.n.)
+Na espécie, o Tribunal de origem reconheceu a possibilidade de capitalização diária apenas pela previsão contratual da modalidade, sem verificar, entretanto, se a cópia do contrato juntado aos autos prevê o percent ual de capitalização diário.
+Desta forma, verifica-se que o entendimento adotado pelo acórdão recorrido se encontra em dissonância com a jurisprudência deste Superior Tribunal de Justiça.
+Ante o exposto, dou provimento ao recurso especial, a fim de determinar o retorno dos autos à origem para análise da capitalização diária contratada à luz da jurisprudência do STJ.
+Publique-se.
+EMENTA
