@@ -1,0 +1,22 @@
+DECISÃO
+Trata-se de agravo interno interposto por ARAMIZIO IZIDIO DA SILVA contra decisão do Presidente do STJ, proferida às e-STJ fls. 532/533, em que não conheceu do agravo em recurso especial, pois a parte agravante não teria impugnado especificamente o não cabimento do apelo nobre alegando violação de princípios.
+Sustenta a parte agravante, às e-STJ fls. 537/547, em suma, que, ao contrário do consignado, infirmou todos os fundamentos de inadmissão do recurso especial, tendo demonstrado, nas razões do agravo, "o caráter reflexo e não direto das alegadas violações constitucionais, uma vez que os princípios constitucionais foram invocados apenas como vetores interpretativos dos dispositivos infraconstitucionais violados" (e-STJ fl. 539).
+Requer, assim, a reconsideração da decisão ora recorrida ou a sua submissão ao Órgão colegiado.
+Impugnação às e-STJ fls. 551/558.
+Passo a decidir.
+Segundo a decisão agravada, a parte, no agravo em recurso especial, deixou de impugnar, especificamente, o argumento de que não cabe recurso especial em que alegada ofensa a princípios.
+Essa solução, entretanto, merece reforma.
+Verifico, da análise da razões recursais, que a parte afirmou que a violação dos princípios do direito à sadia qualidade de vida, da Conferência das Nações Unidas sobre o Meio Ambiente e do princípio da precaução ambiental seria meramente reflexa (e-STJ fl. 488).
+Em vista disso, torno sem efeito o decisum impugnado e, em juízo de retratação, passo a novo exame do recurso.
+Não deve ser conhecido o agravo que não ataque especificamente todos os fundamentos da decisão agravada, nos termos dos arts. 932, III, do CPC/2015 e 253, parágrafo único, I, do RISTJ.
+Ressalte-se, ainda, que a Corte Especial do Superior Tribunal de Justiça, no julgamento dos Embargos de Divergência em Agravo em Recurso Especial n. 701.404/SC, 746775/PR e 831.326/SP, decidiu pela necessidade de o agravante impugnar especificamente todos os fundamentos adotados pela decisão a quo, autônomos ou não, para justificar a inadmissão do recurso especial, sob pena de seu recurso não ser conhecido.
+No caso, da análise dos autos, verifico que a inadmissão do especial se deu com base nos seguintes fundamentos: a ausência de prequestionamento, a incidência da Súmula 7 do STJ e o não cabimento do apelo nobre alegando violação de princípios.
+Entretanto, o agravante deixou de impugnar específica e adequadamente a aplicação da Súmula 7 do STJ.
+Com efeito, da leitura das razões do agravo, constata-se que a parte limitou-se a afirmar que a tese recursal é exclusivamente de direito, sendo desnecessário o revolvimento de fatos e provas (e-STJ fl. 489).
+O princípio da dialeticidade impõe à parte recorrente o ônus de explicitar, de forma específica, concreta e pormenorizada, os motivos pelos quais a decisão atacada deve ser reformada, trazendo argumentações capazes de demonstrar o seu desacerto, o que não ocorreu.
+Em relação à Súmula 7 do STJ, é de rigor que, além da contextualização do caso concreto, a impugnação contenha as devidas razões pelas quais se entende ser possível o conhecimento da pretensão independentemente do reexame fático-probatório, mediante, por exemplo, a apresentação do cotejo entre as premissas fáticas e as conclusões delineadas no acórdão recorrido e sua tese recursal, o que não ocorreu.
+Cumpre ressaltar que o Tribunal de origem, ao realizar o juízo de admissibilidade do apelo nobre, deve analisar os pressupostos específicos e constitucionais concernentes ao mérito da controvérsia, não havendo que falar em usurpação da competência do STJ. Nesse sentido: AgInt no AREsp n. 2.107.891/PR, Relator Ministro Humberto Martins, Segunda Turma, julgado em 14/11/2022, De de 30/11/2022; AgInt no AREsp n. 2.164.815/RS, Relator Ministro João Otávio de Noronha, Quarta Turma, julgado em 28/11/2022, DJe de 30/1/2022; e AgInt no AREsp n. 2.098.383/BA, Relator Ministro Manoel Erhardt (desembargador convocado do TRF5), Primeira Turma, julgado em 15/8/2022, DJe de 17/8/2022.
+Ante o exposto, RECONSIDERO a decisão de e-STJ fls. 532/533, MANTENDO-A, no entanto, por fundamentação diversa.
+Caso exista nos autos prévia fixação de honorários de advogado pelas instâncias de origem, determino a majoração de tal verba, em desfavor da parte recorrente, em 10% (dez por cento) sobre o valor já arbitrado, nos termos do art. 85, § 11, do CPC/2015, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão da gratuidade de justiça.
+Publique-se. Intimem-se.
+EMENTA
