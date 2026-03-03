@@ -1,0 +1,47 @@
+DECISÃO
+Vistos.
+Trata-se de Recurso Especial interposto por IDALBERTO MATIAS DE ARAÚJO contra acordão prolatado no julgamento de apelação por unanimidade pela 6ª Turma Cível do Tribunal de Justiça do Distrito Federal e dos Territórios, assim ementado (fls. 306/307e):
+DIREITO CIVIL E PROCESSUAL CIVIL. AÇÃO DE OBRIGAÇÃO DE FAZER E INDENIZAÇÃO. PASEP. RESPONSABILIDADE CIVIL DO BANCO DO BRASIL. PRESCRIÇÃO DECENAL. TERMO INICIAL. CIÊNCIA INEQUÍVOCA DO DANO. DATA DO SAQUE. TEORIA DA . APLICAÇÃO DO TEMA 1150 DOACTIO NATA STJ. RECURSO DESPROVIDO.
+I. CASO EM EXAME
+1. Apelação cível interposta contra sentença que reconheceu a prescrição da pretensão de ressarcimento de valores supostamente devidos a título de correção monetária e encargos remuneratórios do saldo PASEP, em razão da má administração da conta individual do titular pelo Banco do Brasil.
+II. QUESTÃO EM DISCUSSÃO
+2. Se a pretensão da parte autora está prescrita, a partir da análise do termo inicial da contagem do prazo prescricional decenal, conforme entendimento consolidado no Tema 1150 do STJ.
+III. RAZÕES DE DECIDIR
+3. O STJ decidiu, também no IRDR de Tema nº 1150, que as demandas propostas em face do Banco do Brasil, sociedade de economia mista que não se submete ao Decreto 20.910/32, fundamentadas em pretensão de ressarcimento decorrente da alegada má administração dos recursos repassados à conta individual do PASEP, configurada está relação jurídica de caráter privado, lastreada em responsabilidade civil contratual - e não aquiliana - sendo, portanto, aplicável o prazo prescricional decenal previsto no art. 205 do CC.
+3.1. Em razão de não poderem os titulares dispor livremente dos recursos depositados em suas contas individuais, na forma do art. 4º da Lei Complementar 26/1975, ressalvadas as hipóteses do § 1º então vigente, não se pode considerar que a obrigação seria de trato sucessivo, pelo que o termo inicial para a contagem do prazo prescricional de 10 (dez) anos é a data da ciência do suposto valor corrigido a menor, ou seja, da data do efetivo saque dos valores depositados nas contas individuais do PASEP, ante a aplicação da teoria da , porquanto é actio nata da ciência da suposta lesão que nasceu ao autor a pretensão de reparação.
+3.2. Aplicado o lapso prescricional previsto no art. 205 do Código Civil e superado o lapso decenal entre a data em que a parte sacou os valores de sua conta individual do PASEP (08/04/2010) e o aforamento da presente demanda (07/11/2024), verifica-se fulminada pela prescrição a pretensão autoral.
+IV. DISPOSITIVO
+4.Apelação cível desprovida.
+Dispositivos relevantes citados: CC, art. 205; CPC, art. 487, II. Jurisprudência relevante citada: STJ, Tema 1150 (R Esp 1.895.936/TO, R Esp 1.895.941/TO e R Esp 1.951.931/DF); STJ, AgInt no R Esp 1.928.752/TO; TJDFT, Acórdão 1961011, 0745908-33.2024.8.07.0000, Relator(a): GETÚLIO DE MORAES OLIVEIRA, 7ª TURMA CÍVEL, data de julgamento: 29/01/2025, publicado no D Je: 14/02/2025; TJDFT, Acórdão 1964629, 0721898-19.2024.8.07.0001, Relator(a): JOSE FIRMO REIS SOUB, 8ª TURMA CÍVEL, data de julgamento: 11/02/2025, publicado no D Je: 14/02/2025; TJDFT, Acórdão 1963312, 0738776-24.2021.8.07.0001, Relator(a): ROBERTO FREITAS FILHO, 3ª TURMA CÍVEL, data de julgamento: 30/01/2025, publicado no D Je: 13/02/2025; TJDFT, Acórdão 1963353, 0736817-13.2024.8.07.0001, Relator(a): FÁTIMA RAFAEL, 3ª TURMA CÍVEL, data de julgamento: 30/01/2025, publicado no D Je: 13/02/2025.
+Com amparo no art. 105, III, c, da Constituição da República, aponta-se divergência jurisprudencial em relação à interpretação do art. 205 do Código Civil, alegando, em síntese, que o termo inicial do prazo decenal para a pretensão de ressarcimento de danos decorrentes de desfalques em conta individual vinculada ao PASEP deve observar a ciência inequívoca do dano, e não a data do saque, conforme o Tema n. 1.150/STJ.
+Com contrarrazões (fls. 338/342e), o recurso foi admitido (fl. 419e).
+O Ministério Público Federal manifestou-se às fls. 430/439e.
+Feito breve relato, decido.
+Nos termos do art. 932, III, do Código de Processo Civil de 2015, combinado com os arts. 34, XVIII, a, e 255, I, ambos do Regimento Interno desta Corte, o Relator está autorizado, mediante decisão monocrática, a não conhecer de recurso inadmissível, prejudicado ou que não tenha impugnado especificamente os fundamentos da decisão recorrida.
+- Do Dissídio Jurisprudencial
+À vista da incidência do óbice constante da Súmula n. 7 desta Corte, o recurso especial não pode ser conhecido com fundamento na alínea c do permissivo constitucional, porquanto, para a comprovação da similitude fática entre os julgados confrontados, faz-se necessário o reexame de fatos e provas.
+Acerca da data da ciência dano por parte do Recorrente a Corte a qua, após minucioso exame dos elementos fáticos contidos nos autos, consignou (fl. 286e):
+Importante destacar que a apelante alega que o termo inicial do prazo prescricional deve ser contado a partir do momento em que tomou ciência do alegado equívoco nos cálculos.
+No entanto, como dito acima, o termo inicial se confunde com a data em que a autora sacou os valores de sua conta individual do PASEP quando do implemento do requisito legal consubstanciado em sua aposentadoria, que se deu em abril de 2010 (ID 69668839).
+Assim, com o saque integral dos v alores quando de sua aposentadoria, notadamente em razão da enorme diferença que sustenta existir entre o valor sacado e aquele entendido como devido em decorrência da apontada má gestão e indevida aplicação dos índices de atualização pelo Banco réu, a participante já naquela oportunidade teve a ciência, de modo inequívoco, de que o valor obtido não estava correto.
+Da leitura da peça exordial (ID 69668834) e da peça recursal (ID 69668866), verifica-se que a autora possuía ciência da diferença entre os valores que foram sacados daqueles que supostamente lhe seriam devidos.
+Isso porque a dinâmica fática narrada pela parte autora aponta que ao se aposentar, buscou o réu Banco do Brasil para sacar os valores depositados na conta individual do PASEP, momento em que verificou o valor irrisório.
+Ou seja, percebe-se que já desde o momento do saque dos valores inseridos em sua conta individual do PASEP, a autora já tinha ciência de que os valores vindicados lhe pareciam inferiores ao devido, o que afasta cabalmente a tese de que somente teria sido cientificada dos supostos atos ilícitos e valores a menor após ter requisitado o aludido extrato ao banco réu.
+Desse modo, a comprovação da similitude fática entre os julgados confrontados exige o exame da data da efetiva ciência dos desfalques, o que demanda reexame de fatos e provas.
+Na mesma esteira, os seguintes julgados:
+TRIBUTÁRIO. EXECUÇÃO FISCAL. PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. CÓDIGO DE PROCESSO CIVIL DE 2015. APLICABILIDADE. VIOLAÇÃO AOS ARTS. 489 E 1.022 DO CPC. INOCORRÊNCIA. IPTU. USO DO IMÓVEL. INVIABILIDADE NÃO COMPROVADA. HIGIDEZ DO TÍTULO EXECUTIVO. REVISÃO. IMPOSSIBILIDADE. SÚMULA N. 7/STJ. INCIDÊNCIA. AUSÊNCIA DE PREQUESTIONAMENTO DOS ARTS. 472 DO CPC E 113, § 1º, DO CTN. INCIDÊNCIA DA SÚMULA N. 211/STJ. DISSÍDIO JURISPRUDENCIAL. AUSÊNCIA DE SIMILITUDE FÁTICA. ANÁLISE PREJUDICADA. ARGUMENTOS INSUFICIENTES PARA DESCONSTITUIR A DECISÃO ATACADA. APLICAÇÃO DE MULTA. ART. 1.021, § 4º, DO CÓDIGO DE PROCESSO CIVIL DE 2015. DESCABIMENTO.
+ ..
+V - O recurso especial não pode ser conhecido com fundamento na alínea c do permissivo constitucional, porquanto o óbice da Súmula n. 7/STJ impede o exame do dissídio jurisprudencial quando, para a comprovação da similitude fática entre os julgados confrontados, é necessário o reexame de fatos e provas.
+ ..
+VII - Agravo Interno improvido.
+(AgInt no REsp n. 2.139.482/SP, Relatora Ministra REGINA HELENA COSTA, PRIMEIRA TURMA, j. 02.09.2024, DJEN 05.09.2024 - destaque meu)
+DIREITO CIVIL E PREVIDENCIÁRIO. AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. VIOLAÇÃO AOS ARTIGOS 489, §1º, I AO IV, E 1.022, I E II, DO CPC. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA. AÇÃO REGRESSIVA DO ART. 120 DA LEI 8.213/1991. ACIDENTE DE TRABALHO. RESPONSABILIDADE CIVIL. NORMAS DE SEGURANÇA DO TRABALHO. NEGLIGÊNCIA DA EMPRESA EMPREGADORA. DEVER DE RESSARCIMENTO AO INSS. ALTERAÇÃO DO ENTENDIMENTO DO TRIBUNAL A QUO. REEXAME DE FATOS E PROVAS. ÓBICE DA SÚMULA N. 7/STJ. DISSÍDIO JURISPRUDENCIAL. NÃO COMPROVADO. AUSÊNCIA DE SIMILITUDE FÁTICA. INSURGÊNCIA CONTRA A MAJORAÇÃO DOS HONORÁRIOS ADVOCATÍCIOS. AUSÊNCIA DE COMANDO NORMATIVO DO ARTIGO DE LEI FEDERAL APONTADO COMO VIOLADO. SÚMULA N. 284/STF. AGRAVO INTERNO NÃO PROVIDO.
+ ..
+3. "A jurisprudência desta Corte firmou-se no sentido de que a incidência da Súmula 7/STJ também impede o conhecimento do recurso especial pela alínea c do permissivo constitucional, uma vez que falta identidade fática entre os paradigmas apresentados e o acórdão recorrido". (AgInt no AREsp 1.402.598/RS, relator Ministro Raul Araújo, Quarta Turma, DJe de 22/5/2019.)
+ ..
+5. Agravo Interno não provido.
+(AgInt no AREsp n. 2.467.155/SP, Relator Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, j. 02.09.2024, DJEN 04.09.2024 - destaque meu)
+Assim, nos termos do art. 85, §§ 2º e 11, de rigor a majoração, em 10% (dez por cento), dos honorários anteriormente fixados (fl. 289)
+Posto isso, com fundamento nos arts. 932, III, do Código de Processo Civil de 2015 e 34, XVIII, a, e 255, I, ambos do RISTJ, NÃO CONHEÇO do Recurso Especial.
+Publique-se e intimem-se.
+EMENTA
