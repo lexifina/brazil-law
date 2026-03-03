@@ -1,0 +1,31 @@
+DECISÃO: Trata-se de agravo interposto contra inadmissibilidade de recurso extraordinário em face de acórdão do Tribunal Regional da 1ª  Região, cujo trecho da ementa transcrevo:
+
+“EMENTA DIREITO TRIBUTÁRIO E EMPRESARIAL. MANDADO DE SEGURANÇA. PARCELAMENTO ESPECIAL DE DÉBITOS TRIBUTÁRIOS. ART. 10-A DA LEI Nº 10.522/2002. INCONSTITUCIONALIDADE DA INCLUSÃO OBRIGATÓRIA DE TODOS OS DÉBITOS TRIBUTÁRIOS E DA RENÚNCIA A DISCUSSÕES JUDICIAIS. EMPRESA EM RECUPERAÇÃO JUDICIAL. SENTENÇA MANTIDA (...)”. (eDOC 11, p. 5)
+
+No recurso extraordinário, interposto com fundamento no art. 102, III, “a”, da Constituição Federal, aponta-se violação ao art. 97 do texto constitucional, bem como à Súmula Vinculante 10.
+Nas razões recursais, sustenta-se que o acórdão impugnado consignou a ilegitimidade da exigência de inclusão da totalidade dos débitos tributários, inclusive aqueles em discussão judicial, no parcelamento especial previsto no art. 10-A da Lei 10.522/2002, e à exigência de renúncia aos direitos discutidos judicialmente, como condição para adesão ao benefício fiscal.
+Argumenta-se que a Turma Julgadora manteve a sentença que reconheceu a inconstitucionalidade do art. 10-A, §§ 1º e 2º, da Lei  10.522/2002, ao fundamento de que as condições por ela impostas violam o princípio da inafastabilidade da jurisdição e restringem de forma desproporcional o exercício do direito de ação. Afirma-se que, entretanto, somente pelo voto da maioria absoluta de seus membros, ou dos membros do respectivo órgão especial, poderão os tribunais declarar a inconstitucionalidade de lei ou ato normativo do Poder Público.
+Aponta-se a jurisprudência do Supremo Tribunal Federal no sentido de que ocorre ofensa à Súmula Vinculante 10 quando a decisão impugnada afastar, com fundamentos constitucionais — expressa ou implicitamente —, a incidência de lei aplicável ao caso.
+É o relatório.
+
+Decido.
+O recurso merece prosperar.
+Na hipótese, a parte recorrente afirma que o Tribunal de origem afastou a aplicação do art. 10-A da Lei 10.522/2002, sem submissão ao seu órgão pleno, nos termos do art. 97 da Constituição, em violação à cláusula de reserva de plenário.
+Com relação a essa questão, transcrevo o seguinte trecho da decisão recorrida:
+
+“Inicialmente, cumpre ressaltar que a controvérsia dos autos cinge-se à obrigatoriedade de inclusão da totalidade dos débitos tributários, inclusive aqueles em discussão judicial, no parcelamento especial previsto no art. 10-A da Lei nº 10.522/2002, e à exigência de renúncia aos direitos discutidos judicialmente, como condição para adesão ao referido benefício fiscal. Conforme delineado na sentença recorrida, o dispositivo legal em apreço impõe ao contribuinte a renúncia expressa e irrevogável de ações judiciais e administrativas em curso, bem como a inclusão de todos os débitos no parcelamento, configurando verdadeira sanção política, vedada pela Constituição Federal. Tal exigência afronta o direito fundamental de acesso ao Judiciário, insculpido no art. 5º, XXXV, da Constituição Federal, e desvirtua a finalidade do instituto da recuperação judicial, que visa à preservação da empresa, conforme preceitua o art. 47 da Lei nº 11.101/2005. No caso dos autos, a sentença foi acertada ao reconhecer a inconstitucionalidade do art. 10-A, §§ 1º e 2º, da Lei nº 10.522/2002, na medida em que as condições impostas pela norma violam o princípio da inafastabilidade da jurisdição e restringem de forma desproporcional o exercício do direito de ação. Como bem pontuado, a União detém outros mecanismos legítimos para a cobrança de seus créditos, não sendo permitido o uso de meios coercitivos que comprometam a viabilidade econômica das empresas em recuperação judicial.Além disso, o princípio da preservação da empresa, consagrado no ordenamento jurídico, reflete o reconhecimento da função social das empresas e sua importância para a geração de empregos e para o desenvolvimento econômico. A exigência de inclusão da totalidade dos débitos no parcelamento, especialmente em um cenário de recuperação judicial, impõe ônus incompatível com a superação da crise econômico-financeira do devedor, contrariando os objetivos previstos na legislação.As contrarrazões apresentadas reforçam a necessidade de manutenção da sentença, evidenciando que a interpretação dada pela Administração Tributária ao art. 10-A da Lei nº 10.522/2002 não encontra respaldo nos princípios constitucionais aplicáveis e na jurisprudência consolidada”. (eDOC  11, p. 2)
+
+Da leitura do acórdão impugnado, verifica-se que o Tribunal de origem afastou a aplicabilidade do art. 10-A da Lei 10.522/2002, ao argumento de que as condições nele prevista violam o princípio da inafastabilidade da jurisdição, constante no art. 5º, XXXV, da Constituição Federal, pois restringem de forma desproporcional o exercício do direito de ação.
+Assim, verifica-se que o acórdão destoa da jurisprudência Supremo Tribunal Federal, consubstanciada na Súmula Vinculante 10, a qual preceitua que “Viola a cláusula de reserva de plenário (CF, artigo 97) a decisão de órgão fracionário de Tribunal que, embora não declare expressamente a inconstitucionalidade de lei ou ato normativo do poder público, afasta sua incidência, no todo ou em parte”
+Confira-se, a propósito, o seguinte precedente:
+
+“EMENTA: DIREITO ADMINISTRATIVO. AGRAVO INTERNO EM RECURSO EXTRAORDINÁRIO. SERVIDOR PÚBLICO. “PRÊMIO EDUCAR”. CLAUSÚLA DE RESERVA DE PLENÁRIO. VIOLAÇÃO. SÚMULA VINCULANTE 10. 1. A jurisprudência deste Supremo Tribunal é firme no sentido de que “viola a cláusula de reserva de plenário (CF, artigo 97) a decisão de órgão fracionário de tribunal que, embora não declare expressamente a inconstitucionalidade de lei ou ato normativo do Poder Público, afasta sua incidência, no todo ou em parte”. 2. Inaplicável o art. 85, § 11, do CPC/2015, uma vez que não é cabível condenação em honorários advocatícios (art. 25 da Lei nº 12.016/2009 e Súmula 512/STF). 3. Agravo interno a que se nega provimento”.
+(RE 627.299 AgR, Rel. ROBERTO BARROSO, Primeira Turma, DJe 1º.2.-2017)
+
+Ante o exposto, dou provimento ao recurso extraordinário, para cassar o acórdão do Tribunal de origem e determinar que outro seja proferido em observância ao enunciado da SV 10.
+
+Brasília, 3 de março de 2026.
+
+Ministro GILMAR MENDES
+Relator
+Documento assinado digitalmente
