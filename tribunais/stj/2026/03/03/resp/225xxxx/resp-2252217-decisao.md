@@ -1,0 +1,70 @@
+DECISÃO
+Trata-se de recurso especial interposto pela FAZENDA NACIONAL, fundado na alínea "a" do permissivo constitucional, o qual desafia acórdão do Tribunal Regional Federal da 3ª Região assim ementado (e-STJ fls. 539/540):
+APELAÇÃO CÍVEL. REMESSA OFICIAL. DIREITO PROCESSUAL CIVIL E ADMINISTRATIVO. SENTENÇA . SENTENÇA ANULADA. QUESTÃO EXCLUSIVAMENTE DECITRA PETITA DIREITO. PROVA DOCUMENTAL PRÉ-CONSTITUÍDA. JULGAMENTO DE MÉRITO POR ESTA E. CORTE. CABIMENTO. TEORIA DA CAUSA MADURA. ART. 1.013, § 3º, DO CPC. DEMORA NO PROCESSAMENTO DE RECURSO ADMINISTRATIVO. DIREITO CONSTITUCIONAL À DURAÇÃO RAZOÁVEL DO PROCESSO. LEI N. 9.784/1999. PRAZO MÁXIMO DE SESSENTA DIAS. MORA DA ADMINISTRAÇÃO CONFIGURADA. PEDIDO DE RESTITUIÇÃO ADMINISTRATIVA. PORTARIA 348/14. PEDIDOS ELETRÔNICOS DE RESSARCIMENTO RELATIVOS CRÉDITOS PRESUMIDOS DAS CONTRIBUIÇÕES AO PIS E À COFINS, NOS TERMOS DO QUE DISPÕE O ART. 31, DA LEI Nº 12.865/2013. PRAZO DE 60 DIAS PARA RESSARCIMENTO DE 70% DO VALOR. INCIDÊNCIA DA SELIC. CABIMENTO. TERMO INICIAL A PARTIR DO 61º DIA APÓS A APRESENTAÇÃO DO PEDIDO DE RESSARCIMENTO. COMPENSAÇÃO DE OFÍCIO. NÃO CABIMENTO NO CASO CONCRETO. INAPLICABILIDADE DA COMPENSAÇÃO DE OFÍCIO EM CASOS DE DÉBITOS PAGOS E/OU COM EXIGIBILIDADE SUSPENSA. REMESSA OFICIAL TIDA POR OCORRIDA CONHECIDA E NÃO PROVIDA. APELAÇÃO DA IMPETRANTE CONHECIDA E PROVIDA.
+1. Inicialmente, cabível o reexame necessário conforme disposição expressa no §1º do artigo 14 da Lei nº 12.016/09.
+2. A sentença é citra petita, posto que não analisado o pleito de incidência da correção monetária pela Taxa Selic desde o 61º dia de protocolo dos pedidos administrativos, e a determinação para que a autoridade coatora se abstenha de realizar os procedimentos da compensação e da retenção de ofício com débitos que estejam suspensos no Relatório de Situação Fiscal da apelante.
+3. Impende assim anular a sentença e, posto isso, o julgamento da questão de fundo não analisada na sentença recorrida mostra-se viável neste momento por esta e. Corte, nos termos do art. 1.013, § 3º, do CPC, já que o processo já se encontra em condições de imediato julgamento.
+4. A duração razoável do processo é garantia constitucionalmente prevista no art. 5º, inciso LXXVIII, da CRFB. No âmbito da Administração Pública, a razoável duração do processo tem supedâneo nos princípios da eficiência, razoabilidade, moralidade, boa-fé pública, à luz do disposto no art. 37 do texto constitucional.
+5. A Lei n. 9.784/1999, por sua vez, prevê, em seu art. 59, que, quando a lei não fixar prazo diferente, o recurso administrativo deverá ser decidido no prazo máximo de trinta dias, a partir do recebimento dos autos pelo órgão competente. Tal prazo poderá ser prorrogado por igual período, ante justificativa explícita.
+6. Na espécie, tem-se que a impetrante, em 25/06/2020, apresentou pedidos eletrônicos de ressarcimento relativos créditos presumidos das contribuições ao PIS e à COFINS, nos termos do que dispõe o art. 31, da Lei nº 12.865/2013, com a antecipação de 70% do pagamento, permanecendo o processo administrativo sem movimentação desde então.
+7. Desse modo, até a data de impetração do , em 09/09/2020, mais de 60 dias depois, os processoswrit administrativos ainda não haviam tido qualquer movimentação.
+8. Evidente, portanto, a mora da Administração Pública, superando, e muito, os prazos estabelecidos na lei e na norma regulamentar.
+9. No que concerne à incidência da taxa SELIC após a configuração da mora da Administração Pública reconhecida na sentença recorrida, verifica-se que a questão já foi pacificada pelo C. Superior Tribunal de Justiça - STJ em sede de recursos repetitivos.
+10. A Portaria 348/14 estabelece prazo de 60 (sessenta) dias para o ressarcimento de 70% dos valores sujeitos à restituição administrativa.
+11. A autoridade administrativa tem o prazo de 60 dias para analisar e efetuar a antecipação de 70% do valor pleiteado. Ora, tendo os pedidos de ressarcimento sido apresentados 25/06/2020, ou seja, há mais de 60 dias, já se esgotou o prazo para a manifestação da autoridade impetrada. Sendo assim, a correção monetária pela taxa SELIC incide apenas a partir do 61º dia após a apresentação do pedido de ressarcimento.
+12. No que tange à possibilidade de realização de compensação de ofício com débitos com a exigibilidade suspensa, assiste razão à apelante.
+13. Há previsão de compensação de ofício e de retenção dos valores, caso haja discordância do contribuinte, até a liquidação do débito. Entretanto, tal hipótese não se aplica com relação aos débitos pagos e/ou com a exigibilidade suspensa. Precedente do STJ, em sede de recurso representativo de controvérsia.
+14. A autoridade impetrada não pode realizar a compensação de ofício com os débitos que estão com a exigibilidade suspensa.
+15. A sentença deve ser anulada e, uma vez analisado o mérito nesta instância, diante da teoria da causa madura, CONCEDER A SEGURANÇA para determinar à autoridade impetrada que analise os PERD/DCOM Ps protocolados em 25/06/2020, enumerados na inicial, quanto ao ressarcimento antecipado previsto na Portaria MF 348/2014, no prazo de 60 dias, e estando preenchidas as condições, providencie a antecipação dos valores prevista na norma, com incidência da SELIC a partir do 61º dia após a apresentação do pedido de ressarcimento, afastando a compensação de ofício de débitos que estejam com a exigibilidade suspensa.
+16. Remessa oficial tida por ocorrida conhecida e não provida. Apelação da impetrante conhecida e provida para anular a sentença e, uma vez analisado o mérito nesta instância, diante da teoria da causa madura, CONCEDER A SEGURANÇA para determinar à autoridade impetrada que analise os PERD/DCOM Ps protocolados em 25/06/2020, enumerados na inicial, quanto ao ressarcimento antecipado previsto na Portaria MF 348/2014, no prazo de 60 dias, e estando preenchidas as condições, providencie a antecipação dos valores prevista na norma, com incidência da SELIC a partir do 61º dia após a apresentação do pedido de ressarcimento, afastando a compensação de ofício de débitos que estejam com a exigibilidade suspensa.
+Embargos de declaração rejeitados (e-STJ fls. 582/589).
+Em seu recurso especial, a Fazenda Nacional aponta a violação do art. 1.022, II, do CPC e do art. 24 da Lei n. 11.457/2007.
+Preliminarmente, aduz que o acórdão recorrido padeceria de omissão, pois o Tribunal de origem teria deixado de examinar a alegação de que, no caso de créditos escriturais, a eventual incidência de correção monetária deveria observar o prazo de 360 dias fixado no Tema 1.003/STJ.
+No mérito, argumenta, em síntese, o seguinte (e-STJ fl. 601):
+(..) quando a Fazenda Pública confere um prazo especial, dentro do prazo de 360 dias, para fins de ressarcimento, especialmente em período de crises econômicas, cujo desiderato é capitalizar o mercado, tal benesse não pode ser vista como ensejadora de mora, apta a inaugurar a incidências de juros e correção monetária.
+Há de se considerar, ainda, que a aplicação da Taxa SELIC antes do 361º dia implicaria acréscimos financeiros incompatíveis com a antecipação do valor especial de ressarcimento, seja porque esse é pago de forma transitória, submetido à condição resolutória do deferimento do pedido, seja porque as despesas da Fazenda sujeitam-se a regras especiais de previsão orçamentária.
+Dessarte, não incide atualização monetária sobre a parcela de crédito escritural ressarcida dentro do prazo legal de 360 dias, ainda que seja feita a título de antecipação, e ainda que seja efetivada após 60 dias do protocolo do pedido.
+Contrarrazões à e-STJ fls. 605/630.
+Recurso especial admitido (e-STJ fls. 631/636).
+Passo a decidir.
+A controvérsia recursal consiste em saber qual o prazo a ser observado para o início da incidência de correção monetária na hipótese de demora injustificada na finalização do procedimento administrativo visando ao aproveitamento de crédito escritural, conforme disciplinado pela Portaria MF n. 348/2010.
+A irresignação não merece prosperar.
+Não há omissão no acórdão recorrido.
+Ao determinar que a correção monetária, no caso, deverá incidir depois de escoados trinta dias da protocolização do pedido administrativo, assim se manifestou, de forma clara e completa, o Tribunal de origem (e-STJ fls. 535/536):
+No caso, tem-se que a impetrante, em 25/06/2020, apresentou pedidos eletrônicos de ressarcimento relativos créditos presumidos das contribuições ao PIS e à COFINS, nos termos do que dispõe o art. 31, da Lei nº 12.865/2013, com a antecipação de 70% do pagamento, permanecendo o processo administrativo sem movimentação desde então.
+Desse modo, até a data de impetração do writ, em 09/09/2020, mais de 60 dias depois, os processos administrativos ainda não haviam tido qualquer movimentação.
+Evidente, portanto, a mora da Administração Pública, superando, e muito, os prazos estabelecidos na lei e na norma regulamentar.
+No que concerne à incidência da taxa SELIC após a configuração da mora da Administração Pública, verifica-se que a questão já foi pacificada pelo C. Superior Tribunal de Justiça - STJ em sede de recursos repetitivos nos seguintes termos:
+(..)
+Ainda que o precedente mencionado se refira ao IPI, é certo que se aplica analogicamente ao PIS e à COFINS.
+Acerca da não observância do prazo estabelecido na Portaria 348/14, a referida portaria, que trata do procedimento especial de ressarcimento de créditos de Pis e de Cofins de que trata o art. 31 da Lei nº 12.865/13, estabelece textualmente o prazo de 60 (sessenta) dias para a antecipação de 70% do valor pleiteado, nos seguintes termos:
+(..)
+Assim, a autoridade administrativa tem o prazo de 60 dias para analisar e efetuar a antecipação de 70% do valor pleiteado.
+Ora, tendo os pedidos de ressarcimento sido apresentados em 25/06/2020, ou seja, há mais de 60 dias, já se esgotou o prazo para a manifestação da autoridade impetrada.
+Sendo assim, a correção monetária pela taxa SELIC incide apenas a partir do 61º dia após a apresentação do pedido de ressarcimento.
+Do que se observa, o Tribunal regional resolveu a controvérsia posta em debate nos autos à luz da interpretação dada à Portaria MF n. 348/2010.
+Ocorre que o recurso especial não constitui via adequada para a análise de eventual ofensa a resoluções, portarias ou instruções normativas, por não estarem tais atos normativos inseridos no conceito de lei federal, de que trata o art. 105, III, "a", da Constituição Federal.
+Nesse sentido, confiram-se julgados de ambas as Turmas da Primeira Seção:
+PROCESSUAL CIVIL. RECURSO ESPECIAL. AGRAVO INTERNO. NATUREZA INTEGRATIVA. IMPRESTABILIDADE. RESOLUÇÃO DO CONAMA. LEI FEDERAL. NÃO ENQUADRAMENTO.
+(..)
+3. Inviável a análise de eventual ofensa a resoluções, portarias ou instruções normativas, por não estarem tais atos normativos inseridos no conceito de lei federal, de que trata o art. 105, III, "a", da Constituição Federal.
+4. Hipótese em que o arrazoado tecido no apelo especial remete ao exame das disposições de resoluções do CONAMA, transcritas na peça recursal, sendo meramente reflexa a vulneração dos dispositivos legais indicados pelo agravante.
+5. Agravo interno desprovido.
+(AgInt no REsp 1635463/SP, de minha relatoria, PRIMEIRA TURMA, julgado em 22/06/2020, DJe 26/06/2020).
+PROCESSUAL CIVIL. AÇÃO CONDENATÓRIA. DECISÃO MONOCRÁTICA DA PRESIDÊNCIA DESTA CORTE QUE CONHECEU DO AGRAVO PARA NÃO CONHECER DO RECLAMO. INSURGÊNCIA RECURSAL DO DEMANDADO. INADMISSIBILIDADE DO RECURSO ESPECIAL. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. INADMISSIBILIDADE. INCIDÊNCIA DAS SÚMULAS 5 e 7/STJ.
+(..)
+3. Ressalte-se que o Recurso Especial não constitui via adequada para análise de eventual ofensa a Resoluções, Princípios Portarias ou Instruções Normativas, por não estarem tais atos normativos inseridos no conceito de lei federal, nos termos do art. 105, III, "a", da Constituição Federal.
+4. Para se chegar a conclusão diversa, é necessário reexaminar os elementos fáticos que serviram de base à decisão recorrida, o contexto fático-probatório, o que é vedado pelos enunciados 5 e 7 da Súmula do STJ.
+5. Agravo Interno não provido.
+(AgInt no AREsp 1602125/RJ, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 01/06/2020, DJe 09/06/2020).
+Vale acrescentar a impossibilidade do conhecimento do recurso especial quando o artigo de lei apontado como violado (art. 24 da Lei n. 11.457/2007) não contém comando normativo capaz de infirmar o fundamento do acórdão atacado, o que atrai a aplicação, por analogia, da Súmula 284 do STF - "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia".
+Sobre a questão:
+PROCESSUAL CIVIL E TRIBUTÁRIO. AGRAVO INTERNO NO RECURSO ESPECIAL. PROCEDIMENTO ESPECIAL DE RESSARCIMENTO. PRAZO PARA ANÁLISE. PORTARIA MF Nº 348/2010. 30 DIAS. DEMORA NA APRECIAÇÃO. CORREÇÃO MONETÁRIA. TERMO INICIAL. ART. 24 DA LEI N. 11.457/2007. AUSÊNCIA DE COMANDO NORMATIVO DO DISPOSITIVO TIDO POR VIOLADO. SÚMULA 284/STF.
+1. O art. 24 da Lei 11.457/2007, que prevê prazo máximo a ser observado na análise de requerimentos do contribuinte, não impede que norma infralegal estabeleça prazos específicos inferiores a 360 dias.
+2. Daí porque não se extrai, do dispositivo legal em testilha, comando normativo suficiente para infirmar os fundamentos do aresto recorrido, que determinou o termo inicial da correção monetária ao fim do prazo concedido pela Portaria MF 348/2010 para o pagamento da antecipação prevista no procedimento especial de ressarcimento.
+3. Circunstância que atrai, por analogia, a incidência da Súmula 284/STF.
+4. Agravo interno desprovido (AgInt no REsp n. 1.909.861/RS, Rel. Ministro BENEDITO GONÇALVES, PRIMEIRA TURMA, julgado em 14/9/2021, DJe de 16/9/2021).
+Ante o exposto, com base no art. 255, § 4º, I e II, do RISTJ, CONHEÇO EM PARTE do recurso especial e, nessa extensão, NEGO-LHE PROVIMENTO.
+Sem arbitramento de honorários recursais, pois o recurso especial se origina de mandado de segurança.
+Publique-se. Intimem-se.
+EMENTA
