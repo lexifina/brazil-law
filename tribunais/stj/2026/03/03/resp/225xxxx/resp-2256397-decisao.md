@@ -1,0 +1,30 @@
+DECISÃO
+Trata-se de recurso especial interposto por WARLEY NEVES SANTOS contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAIS, no julgamento da Apelação Criminal n. 1.0000.25.181526-2/001, assim ementado (fl. 191):
+EMENTA: APELAÇÃO CRIMINAL - FURTO QUALIFICADO - ABSOLVIÇÃO PELA AUSÊNCIA DE LAUDO DE AVALIAÇÃO - MATERIALIDADE QUE PODE SER COMPROVADA POR OUTROS MEIOS - DECOTE DA QUALIFICADORA DA ARROMBAMENTO - INADMISSIBILIDADE - REDUÇÃO DA PENA DE MULTA - NECESSIDADE - RECURSO PARCIALMENTE PROVIDO. 1. A falta do laudo de avaliação da res furtiva não incorre, automaticamente, na constatação de falta de materialidade delitiva, esta que pode se comprovada por todo tipo de prova, inclusive a testemunhal. 2. Inexistindo dúvidas acerca da presença da qualificadora do rompimento de obstáculo, a qual independe da realização de exame pericial, incabível o seu decote. 3. Se a pena de multa não guardou proporcionalidade com a reprimenda carcerária, necessária se torna a redução. V.V. "Conquanto a fixação da pena de multa fique à discricionariedade do julgador, este deve se nortear dentro dos parâmetros estabelecidos no preceito secundário do tipo penal violado, atentando, sempre, para que a quantidade de dias-multa aplicada e o quantum de reprimenda corporal, quando previstas simultaneamente, sejam proporcionais. Com efeito, o número de dias-multa deve guardar proporcionalidade com o aumento da pena-base da sanção corporal." (STJ, HC 239.173/GO, Rel. Ministra LAURITA VAZ, QUINTA TURMA, julgado em 12/08/2014, DJe 22/08/2014).
+Consta dos autos que o recorrente foi condenado à pena de 3 (três) anos, 2 (dois) meses e 15 (quinze) dias de reclusão, em regime inicial fechado, pela prática do crime previsto no art. 155, § 4º, inciso I, do Código Penal. A pena de multa foi reduzida, em grau de apelação, para 16 (dezesseis) dias-multa, mantidos os demais termos da sentença condenatória (fls. 191-198).
+Nas razões do recurso especial (fls. 213-218), a parte recorrente alega violação dos arts. 155, § 4º, inciso I, do Código Penal e 158 do Código de Processo Penal, afirmando que o reconhecimento da qualificadora do rompimento de obstáculo exige exame pericial direto, o qual não foi realizado no caso, e que os elementos colhidos (declaração da vítima e referência a imagens não juntadas) não comprovam a qualificadora.
+Sustenta ofensa ao art. 386, inciso VII, do Código de Processo Penal, por entender que a insuficiência de provas impõe absolvição ou, ao menos, o decote da qualificadora, com desclassificação para furto simples.
+Requer, ao final, o provimento do recurso para decotar a qualificadora do rompimento de obstáculo (fl. 218).
+Contrarrazões apresentadas às fls. 222-227.
+O recurso especial foi admitido às fls. 230-231.
+O Ministério Público Federal manifestou-se pelo não conhecimento do recurso especial (fls. 240-246).
+É o relatório.
+Decido.
+Preenchidos os requisitos formais, passo ao exame do recurso especial.
+No caso, WARLEY NEVES SANTOS foi condenado por subtrair bens de um restaurante mediante rompimento de obstáculo, fato ocorrido em 23 de janeiro de 2025, de madrugada, em Unaí/MG, circunstâncias em que a vítima descreveu a porta arrombada e o policial relatou ter visto imagens de monitoramento e localizado o acusado com parte dos bens.
+A sentença condenou e o acórdão manteve a condenação, afastou a tese de ausência de materialidade por falta de laudo de avaliação e preservou a qualificadora por outros meios de prova, reduzindo apenas a pena de multa.
+A controvérsia cinge-se à indispensabilidade de exame pericial para reconhecer a qualificadora do art. 155, § 4º, inciso I, do Código Penal, à luz do art. 158 do Código de Processo Penal.
+A jurisprudência desta Corte Superior admite, em caráter excepcional, a comprovação do rompimento de obstáculo por outros meios probatórios idôneos quando cabalmente demonstrado nos autos.
+A propósito:
+AGRAVO REGIMENTAL NO AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. FURTO DUPLAMENTE QUALIFICADO. DOSIMETRIA. RECONSIDERAÇÃO PARA MANTER A QUALIFICADORA DE ROMPIMENTO DE OBSTÁCULO. REPOUSO NOTURNO E PENA INAUGURAL. DESPROPORCIONALIDADE. AGRAVO REGIMENTAL
+PROVIDO EM PARTE .
+1. Ambas as Turmas da Terceira Seção do STJ excetuam a imprescindibilidade do laudo pericial quando evidenciados o rompimento de obstáculo ou a escalada por meio de fotos, vídeos ou prova oral, como se constata no caso em apreço.
+2. O deslocamento do repouso noturno para a primeira fase não é obrigatório, cabendo ao julgador, no exercício de seu livre convencimento motivado, decidir pela sua valoração.
+3. Agravo regimental provido em parte.
+(AgRg no AgRg no AREsp n. 2.284.317/SC, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 7/10/2025, DJEN de 13/10/2025.)
+A interpretação consolidada pelo STJ é no sentido de que, embora a prova técnica seja, em regra, necessária à comprovação das qualificadoras de rompimento de obstáculo e escalada, admite-se, excepcionalmente, sua substituição por prova oral, fotografias ou filmagens quando presentes elementos seguros nos autos que demonstrem de forma inconteste a qualificadora, não sendo possível, em recurso especial, revolver as premissas fáticas firmadas pelas instâncias ordinárias.
+No caso concreto, acórdão recorrido manteve a incidência da qualificadora com base em prova oral coerente e em referência a vídeo de monitoramento, concluindo que o arrombamento da porta do estabelecimento e as marcas na fechadura, narrados pela vítima e confirmados pelo policial, são suficientes para a manutenção da qualificadora (fls. 195-197).
+A pretensão recursal, ao sustentar a ausência de provas cabais e exigir a desconsideração dos elementos valorados, demanda reexame do conjunto fático-probatório, providência vedada em recurso especial. Incide, portanto, o óbice da Súmula 7/STJ: A pretensão de simples reexame de prova não enseja recurso especial.
+Ante o exposto, conheço parcialmente do recurso especial e, nesta extensão, nego-lhe provimento.
+Publique-se. Intimem-se .
+EMENTA
