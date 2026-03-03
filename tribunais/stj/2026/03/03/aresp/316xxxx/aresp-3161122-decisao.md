@@ -1,0 +1,46 @@
+DECISÃO
+Cuida-se de agravo interposto por ERBE INCORPORADORA 019 S.A. contra decisão que obstou a subida de recurso especial.
+Extrai-se dos autos que a parte agravante interpôs recurso especial, com fundamento no art. 105, III, "a" e "c", da Constituição Federal, contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DO PARANÁ cuja ementa guarda os seguintes termos (fls. 1.396-1.397):
+CIVIL E PROCESSUAL CIVIL. RECURSOS DE APELAÇÃO. AÇÃO DE RESCISÃO DE CONTRATO DE COMPRA E VENDA DE IMÓVEL. SENTENÇA DE PARCIAL PROCEDÊNCIA. RECURSO DE APELAÇÃO 1. PARTE RÉ. SUPOSTO INADIMPLEMENTO CONTRATUAL DOS ADQUIRENTES QUE CULMINOU NO LEILÃO EXTRAJUDICIAL DOS DIREITOS DA PROMESSA DE COMPRA E VENDA. AUTORES, CONTUDO, QUE MANIFESTARAM À RÉ A VONTADE DE DESFAZER O NEGÓCIO ANTES MESMO DO PROCEDIMENTO EXTRAJUDICIAL SER REALIZADO. ORIENTAÇÃO JURISPRUDENCIAL DO COLENDO SUPERIOR TRIBUNAL DE JUSTIÇA NO SENTIDO DE SER DEVIDA A RESTITUIÇÃO PARCIAL DA QUANTIA PAGA PELO ADQUIRENTE QUANDO O NEGÓCIO É DESFEITO, INCLUSIVE NA HIPÓTESE DE LEILÃO EXTRAJUDICIAL. INTELIGÊNCIA DA SÚMULA Nº 543. RETENÇÃO DE 25% (VINTE E CINCO POR CENTO) DA QUANTIA EFETIVAMENTE PAGA, QUE ESTÁ EM CONSONÂNCIA COM O ENTENDIMENTO FIRMADO PELA CORTE SUPERIOR. TERMO INICIAL DOS JUROS DE MORA SOBRE OS VALORES A SEREM RESTITUÍDOS. TRÂNSITO EM JULGADO DA CONDENAÇÃO. INEXISTÊNCIA DE MORA DA VENDEDORA EM MOMENTO ANTERIOR. RECURSO CONHECIDO E PARCIALMENTE PROVIDO. 1. Na hipótese de resilição de compromisso de compra e venda por culpa do comprador, consumidor, a retenção de 25% das parcelas denota percentual adequado e suficiente para indenizar o vendedor, fornecedor, pelas despesas administrativas gerais e pelo rompimento unilateral do contrato. 2. "Nos compromissos de compra e venda de unidades imobiliárias anteriores à Lei nº 13.786/2018, em que é pleiteada a resolução do contrato por iniciativa do promitente comprador de forma diversa da cláusula penal convencionada, os juros de mora incidem a partir do trânsito em julgado da decisão" (STJ, TEMA 1.002, RESP 1740911/DF). 3. Recurso conhecido e parcialmente provido. RECURSO DE APELAÇÃO 2. PARTE AUTORA. PLEITO DE CONDENAÇÃO DA RÉ AO PAGAMENTO DE INDENIZAÇÃO POR DANOS MORAIS. ACOLHIMENTO. SITUAÇÃO QUE ULTRAPASSA O MERO DISSABOR. FIXAÇÃO DO EM OBSERVÂNCIA DOQUANTUM PRINCÍPIO DA RAZOABILIDADE, DOS PRECEDENTES DESTA CORTE E DAS PECULIARIDADES DO CASO CONCRETO. SENTENÇA PARCIALMENTE REFORMADA. RECURSO CONHECIDO E PROVIDO. 1. Para a configuração de danos morais, em matéria de vícios construtivos, necessária a demonstração empírica de fato extraordinário, a abalar a personalidade da parte. 2. Recurso conhecido e provido.
+Rejeitados os embargos de declaração opostos (fls. 1.450-1.455).
+No recurso especial, a parte recorrente alega violação dos arts. 104 e 396 do Código Civil, do art. 63 da Lei n. 4.591/1964 e do art. 67-A da Lei n. 13.786/2018.
+Aduz, no mérito, violação dos dispositivos acima para:
+(i) reconhecer a validade do leilão extrajudicial, diante da existência de cláusula contratual autorizativa e de notificação prévia, afastando-se a restituição de valores;
+(ii) aplicar o regime do patrimônio de afetação, com a retenção de até 50%, prevista no art. 67-A da Lei n. 13.786/2018;
+(iii) afastar a condenação por danos morais, por se tratar de mero inadimplemento contratual decorrente de atraso (fls. 1.494-1.505 e 1.508-1.515).
+Aponta divergência jurisprudencial com arestos desta Corte.
+Foram oferecidas contrarrazões ao recurso especial (fls. 1.532-1.550).
+Sobreveio juízo de admissibilidade negativo na instância de origem (fls. 1.552-1.557), o que ensejou a interposição do presente agravo (fls. 1.621-1.627).
+Apresentada contraminuta do agravo (fls. 1.631-1.643).
+É, no essencial, o relatório.
+A decisão agravada não merece reforma.
+Com efeito, o Tribunal de origem analisou detidamente o recurso especial interposto, devendo a decisão de admissibilidade ser mantida por seus próprios fundamentos.
+Verifica-se que, em relação à apontada ofensa aos arts. 104 e 396 do Código Civil, ao art. 63 da Lei n. 4.591/1964 e ao art. 67-A da Lei n. 13.786/2018, e à divergência jurisprudencial suscitada, o recurso especial não merece prosperar porquanto encontra óbice nas Súmulas 5, 7, 83 e 211 do Superior Tribunal de Justiça.
+O Tribunal de origem assim decidiu a controvérsia (fls. 1.398-1.400 e 1.405-1.406):
+Inicialmente, cumpre registrar que, apesar do esforço argumentativo da apelante, a discussão não diz respeito, propriamente, à regularidade da realização do leilão extrajudicial, mas sim ao fato de que, em razão do inadimplemento da requerida, decorrente do atraso na entrega do empreendimento, o contrato já havia sido rescindido antes mesmo do leilão.
+Da detida análise do caderno processual, constata-se que, desde julho de 2014, os autores buscaram respostas perante a requerida quanto à data de entrega do imóvel e aos vícios verificados pelas vistorias (evento 1.9/1.15).
+Além disso, em 11-6-2015, os autores encaminharam contranotificação à ré, reiterando a intenção de desistência quanto ao contrato, que já havia sido informada em 29-12-2014 (evento 1.19).
+Logo, tem-se que, ao realizar o leilão, ignorando a comunicação dos promitentes compradores no sentido da desistência do negócio, a requerida, ora apelante, acabou negando o direito potestativo deles, buscando afastar-se da consequência que daí adviria, qual seja, justamente a restituição de parte dos valores pagos.
+ ..
+Logo, conclui-se que os autores fazem jus à restituição parcial da quantia paga, conforme previsão da Súmula nº 543 já citada, sendo devida, contudo, em favor da requerida, a retenção de percentual razoável para cobrir o prejuízo decorrente da resolução contratual.
+Sobre o assunto, vale destacar o entendimento do c. Superior Tribunal de Justiça no REsp 1863007 /SP, de Relatoria da Ministra Nancy Andrighi, no sentido de que deve prevalecer o percentual de retenção de 25% (vinte e cinco por cento) dos valores pagos pelos adquirentes em contrato de compra e venda de imóvel residencial anterior à Lei 13.786/2018, quando ausente qualquer peculiaridade que justifique a apreciação da razoabilidade
+ ..
+Como cediço, o simples inadimplemento contratual em razão do atraso na entrega do imóvel não é capaz, por si só, de gerar dano moral indenizável, a não ser quando o atraso ultrapassar o limite do mero dissabor.
+ ..
+Observa-se que o prazo de tolerância fora extrapolado, o que permite concluir que a situação ultrapassou os limites do mero dissabor.
+O atraso entrega por certo criou incertezas a respeito do término do empreendimento e da do imóvel, que foram, inclusive, confirmadas com o passar do tempo, causando angústia e tristeza na autora, que se viu desembolsando parte dos seus rendimentos sem a certeza do recebimento do imóvel, razão pela qual deve haver a condenação das rés ao pagamento de danos morais.
+É de se observar que o acórdão recorrido está em harmonia com a jurisprudência do STJ, pois, apesar do leilão já ter sido realizado, já havia pedido dos promitentes compradores para a rescisão do contrato. A propósito, cito o seguinte precedente:
+PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. CONTRATO DE COMPRA E VENDA DE IMÓVEL. RESCISÃO CONTRATUAL. VIOLAÇÃO DO ART. 1.022 DO CPC. NÃO OCORRÊNCIA. ATRASO NA ENTREGA DAS OBRAS. CULPA EXCLUSIVA DA PROMITENTE VENDEDORA. CLÁUSULAS ABUSIVAS. REVISÃO DA MATÉRIA. SÚMULAS N. 5 E 7/STJ. RETENÇÃO. POSSIBILIDADE. SÚMULA N. 83/STJ. PERCENTUAL. REEXAME DO CONTRATO E DO CONJUNTO FÁTICO-PROBATÓRIO CRITÉRIOS DE REAJUSTE. DOS AUTOS. SÚMULAS N. 5 E 7 DO STJ. OCORRÊNCIA DE BIS IN IDEM. SÚMULAS N. 5 E 7/STJ. JUROS. TERMO INICIAL. SÚMULA N. 284/STF.
+1.  .. .
+4. O acórdão julgado pelo Tribunal a quo está de acordo com a jurisprudência desta Corte, segundo a qual, a devolução do valor pelo promitente vendedor permite a retenção de 10% a 25% das prestações pagas, a título de indenização pelas despesas decorrentes do próprio negócio. Incidência da Súmula n. 83/STJ.
+5.  ..
+Agravo interno improvido.
+(AgInt nos EDcl no AREsp n. 2.485.246/MG, relator Ministro Humberto Martins, Terceira Turma, julgado em 24/11/2025, DJEN de 27/11/2025.)
+Ademais, alterar o decidido no acórdão impugnado, no que se refere ao descabimento do leilão no caso, além da configuração do dano moral, exige o reexame de fatos e provas, o que é vedado, em recurso especial, pela Súmula n. 7 do STJ.
+Por fim, nos termos da jurisprudência pacífica do STJ, é inviável o conhecimento do recurso especial quando os artigos tidos por violados não foram apreciados pelo Tribunal de origem.
+Conforme se extrai dos autos, os arts. 104 e 396 do Código Civil apontado como violado e a tese a ele vinculada não foi prequestionado, incidindo o óbice das Súmulas 211/STJ e 282/STF.
+Ressalta-se que, na instância especial, a apreciação de ofício de matéria, mesmo de ordem pública, não dispensa o requisito do prequestionamento (AgInt nos EAREsp n. 1.327.393/MA, relator Ministro Felix Fischer, Corte Especial, julgado em 16/12/2020, DJe de 18/12/2020).
+Ante o exposto, nego provimento ao agravo em recurso especial.
+Deixo de majorar os honorários, visto que já foram fixados na origem no patamar máximo de 20% (fls. 1.040-1.041).
+Publique-se. Intimem-se.
+EMENTA
