@@ -1,0 +1,29 @@
+DECISÃO
+Trata-se de mandado de segurança, com pedido de liminar, impetrado em face do Ministro de Estado da Educação, sustentando o impetrante, para tanto, que:
+O Impetrante é estudante do Ensino Médio, devidamente matriculado no 1º ano no Colégio Estadual Antônio Rodrigues Viana, em período integral, conforme ficha de matrícula anexa.
+Com a instituição do programa de incentivo financeiro-educacional "Pé-de-Meia", por meio da Lei nº 14.818/2024, o Impetrante, por preencher todos os requisitos, nutriu a justa expectativa de receber o auxílio, que visa garantir sua permanência na escola.
+Ocorre que, para sua surpresa e indignação, ao consultar sua situação no aplicativo do programa, o Impetrante foi informado de que seu status era "Não elegível", sob a seguinte justificativa (documento anexo): "Não pertencente à família inscrita no Cadastro Único até a data de referência. Seu CPF enviado pela escola não foi encontrado no Cadastro Único para Programas Sociais do Governo Federal (CadÚnico). (..)"
+Tal justificativa, contudo, é flagrantemente inverídica e beira o absurdo administrativo.
+Conforme demonstram as diversas folhas de resumo do Cadastro Único (CadÚnico) anexas, a família do Impetrante possui um longo e ininterrupto histórico de cadastramento junto aos programas sociais do Governo Federal, sob o Código Familiar nº 56545720.
+O feito foi remetido ao STJ pelo Juízo Vara Federal Cível e Criminal da SSJ de Barreiras/BA (fl. 28).
+Deferida a gratuidade da justiça pela Presidência do STJ (fl. 34).
+É o relatório. Decido.
+De início, mister se faz registrar que, segundo o disposto no I, "b", da art. 105,Carta Política de 1988, compete ao Superior Tribunal de Justiça processar e julgar mandado de segurança nos casos em que houver ato omissivo ou comissivo praticado por Ministro de Estado, Comandantes da Marinha, do Exército e da Aeronáutica ou pelo próprio Tribunal que seja lesivo a direito líquido e certo do impetrante.
+Nesse contexto, ressalta-se que " ..  para fins de impetração de mandado de segurança, a autoridade coatora é aquela que pratica o ato impugnado. A competência da autoridade coatora não decorre da posição hierárquica ou administrativa, mas sim da prática do ato" (RMS 39.739/GO, Rel. Min. Benedito Gonçalves, Primeira Turma, DJe 02/03/2016).
+No caso não obstante tenha sido apontado como autoridade coatora o Ministro da Educação, verifica-se que o ato dito coator diz respeito a prints da página da internet, do aplicativo do programa "Pé-de-meia", vinculado ao Ministério da Educação.
+Com efeito, o referido documento apenas informa que o impetrante "Não pertencente à família inscrita no Cadastro Único até a data de referência Seu CPF enviado pela escola não foi encontrado no Cadastro Único para Programas Sociais do Governo Federal (CadÚnico). Isso significa que você não está inscrito no Cadúnico; ou que a última atualização cadastral no CadÚnico de sua família ocorreu há mais de 24 meses; ou ainda que a atualização cadastral ocorreu após dia 07/02/2025, data de referência para participação no programa. Por esse motivo, não foi possível confirmar sua participação no programa Pé-de-Meia. Verifique o número do seu CPF no aplicativo do CadÚnico e, caso identifique algum erro, informe à sua escola para que seus dados sejam atualizados no sistema" (fl. 24).
+De fato, compulsando os autos, não verifico a comprovação de ato concreto praticado pelo Ministro de Estado da Educação, o que afasta a competência do Superior Tribunal de Justiça para processar e julgar o presente mandado de segurança.
+Nesse sentido:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO MANDADO DE SEGURANÇA. AUSÊNCIA DE ATO COATOR EMANADO POR MINISTRO DO STJ. INCOMPETÊNCIA.
+1. O artigo 105, I, "b", da Constituição Federal estabelece que a competência do Superior Tribunal de Justiça para processar e julgar mandados de segurança limita-se aos casos em que os atos coatores forem realizados por Ministros de Estado, Comandantes da Marinha, do Exército e da Aeronáutica ou pelo próprio Tribunal.
+2. Na hipótese, o ato indicado como coator, que considerou a candidata inapta para concorrer às vagas para pessoas com deficiência, consiste em resposta de recurso dirigido à organizadora do concurso - Cebraspe - interposto contra o resultado da avaliação biopsicossoc ial realizada pela Comissão de Avaliação Biopsicossocial, ou seja, não foi praticado por autoridade cuja competência originária esteja prevista na Constituição Federal como pertencente ao Superior Tribunal de Justiça.
+Agravo interno improvido.
+(AgInt no MS n. 31.533/DF, relator Ministro Humberto Martins, Corte Especial, julgado em 7/10/2025, DJEN de 13/10/2025.)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO MANDADO DE SEGURANÇA. CONCURSO PÚBLICO. ILEGITIMIDADE PASSIVA DO MINISTRO DE ESTADO. INCOMPETÊNCIA DESTA CORTE.
+1. É entendimento desta Corte que a legitimidade para figurar no polo passivo do mandamus é da autoridade que tenha praticado o ato impugnado ou da qual emane a ordem para a sua prática, e, por conseguinte, a que detenha possibilidade de rever o ato denominado ilegal, omisso ou praticado com abuso de poder.
+2. Isso considerado, verifica-se que a autoridade indicada como coatora não é parte legítima para figurar no presente feito, seja porque não é de sua autoria o edital apontado como omisso, ou porque a atribuição de eventual correção dos atos tidos como ilegais, que constitui aparentemente a verdadeira pretensão do impetrante, também não seria de sua competência.
+3. Agravo interno não provido (AgInt no MS n. 23.393/DF, relator Ministro Benedito Gonçalves, Primeira Seção, julgado em 9/8/2017, DJe de 16/8/2017).
+Ante o exposto, com base nos arts. 10 da Lei n. 12.016/2009 e 212 do Regimento Interno do Superior Tribunal de Justiça, indefiro liminarmente a petição inicial do Mandado de Segurança. Julgo prejudicado o pedido de liminar.
+Sem condenação em honorários (Súmula n. 105 do STJ).
+Publique-se. Intimem-se.
+EMENTA
