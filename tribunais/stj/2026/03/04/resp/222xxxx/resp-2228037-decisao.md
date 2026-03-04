@@ -1,0 +1,20 @@
+DECISÃO
+Trata-se de recurso especial interposto por Espólio de Julio Hyczy da Costa, com fundamento no art. 105, inciso III, alínea a, da Constituição Federal (CF), no qual se insurge contra o acórdão do Tribunal de Justiça do Estado do Paraná (TJPR) assim ementado (fl. 38):
+AGRAVO DE INSTRUMENTO Nº 36693-25.2024.8.16.0000, DA VARA DA FAZENDA PÚBLICA DO FORO REGIONAL DE PINHAIS DA COMARCA DA REGIÃO METROPOLITANA DE CURITIBA. AGRAVANTE: ESPÓLIO DE JULIO HYCZY DA COSTA AGRAVADO: MUNICÍPIO DE PINHAIS RELATOR: DES. LAURI CAETANO DA SILVA
+AGRAVO DE INSTRUMENTO. EXECUÇÃO FISCAL. IPTU. DECISÃO AGRAVADA QUE REJEITOU A EXCEÇÃO DE PRÉ-EXECUTIVIDADE. DECISÃO MANTIDA. EXERCÍCIOS FISCAIS DOS ANOS DE 2008 A 2011. EXECUTADO QUE FALECEU APÓS O LANÇAMENTO DO DÉBITO E AJUIZAMENTO DA AÇÃO. RESPONSABILIDADE DO ESPÓLIO POR SUCESSÃO. QUESTÃO PACIFICADA NO JULGAMENTO DO IRDR Nº 38472-59.2017.8.16.0000 - TEMA 09/TJPR. POSSIBILIDADE DE ALTERAÇÃO DO SUJEITO PASSIVO DA RELAÇÃO JURÍDICO- TRIBUTÁRIA. AUSÊNCIA DE CITAÇÃO. IRRELEVÂNCIA. ART. 131, II E III DO CTN. RECURSO DESPROVIDO.
+Os embargos de declaração opostos foram rejeitados (fls. 55/60).
+A parte recorrente alega violação dos arts. 131, inciso III, do Código Tributário Nacional (CTN), 5º, incisos LIV e LV, da CF, e Súmula 392 do Superior Tribunal de Justiça (STJ), ao sustentar que o espólio somente pode ser responsabilizado pelos tributos do de cujus quando houver citação válida do contribuinte na execução fiscal; como o falecimento ocorreu antes da citação, não seria possível redirecionar a execução ao espólio.
+Aduz que o art. 5º, incisos LIV e LV, da CF foi violado porque o redirecionamento sem citação válida do devedor original afronta o devido processo legal e a ampla defesa.
+A parte recorrente aponta, ainda, a existência de divergência jurisprudencial às fls. 69/71.
+Contrarrazões apresentadas às fls. 81/87.
+O recurso foi admitido (fls. 88/89).
+É o relatório.
+Na origem, cuida-se de execução fiscal proposta pelo Município de Pinhais para cobrar créditos de Imposto Predial e Territorial Urbano (IPTU) dos exercícios de 2008 a 2011, representados pela Certidão de Dívida Ativa (CDA) 2218/2012.
+A controvérsia central a ser dirimida consiste em definir a possibilidade jurídica de redirecionamento da execução fiscal contra o espólio nos casos em que o falecimento do contribuinte executado ocorre em momento posterior ao lançamento tributário e ao ajuizamento da ação, mas anterior à sua citação válida para integrar a relação processual.
+A questão debatida nos autos foi afetada à Primeira Seção do Superior Tribunal de Justiça para ser decidida sob o rito de recursos repetitivos (Tema 1.393/STJ), e foi assim delimitada:
+"Definir se é possível prosseguir a execução fiscal contra o espólio ou os sucessores caso o executado venha a falecer sem ser citado." (Resps 2.237.254/SC e 2.227.141/SC, relatora Ministra Maria Thereza de Assis Moura).
+Nos termos do art. 34, XXIV, c/c o art. 256-L, I, ambos do Regimento Interno do Superior Tribunal de Justiça, a admissão de recurso especial como representativo da controvérsia impõe a devolução ao Tribunal de origem dos processos em que foram interpostos recursos cuja matéria identifique-se com o tema afetado, para nele permanecerem suspensos até o fim do julgamento qualificado.
+O envio do recurso especial a esta Corte Superior deve ocorrer somente após o esgotamento da instância ordinária, formalizado com o novo julgamento pelo Tribunal de origem, quando então será possível examinar, no âmbito do STJ, as matérias jurídicas que eventualmente permanecerem controvertidas. Essa cautela também evita o fracionamento do recurso e previne eventual violação ao princípio da unicidade recursal, que veda a interposição simultânea ou sucessiva de recursos contra a mesma decisão.
+Ante o exposto, determino a devolução dos autos, com a devida baixa nesta Corte Superior, a fim de que, em observância aos arts. 1.039 a 1.041 do Código de Processo Civil (CPC), o Tribunal de origem proceda nos termos do art. 1.040 e seguinte do mesmo CPC.
+Publique-se. Intimem-se.
+EMENTA
