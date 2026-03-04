@@ -1,0 +1,43 @@
+DECISÃO
+Trata-se de agravo interposto pelo INSTITUTO BRASILEIRO DO MEIO AMBIENTE E DOS RECURSOS NATURAIS RENOVAVEIS-IBAMA da decisão do TRIBUNAL REGIONAL FEDERAL DA 3ª REGIÃO que inadmitiu recurso especial dirigido contra o acórdão prolatado no Agravo de Instrumento n. 5008887-86.2025.4.03.0000, assim ementado (fls. 41-42):
+DIREITO PROCESSUAL CIVIL. AGRAVO INTERNO EM AGRAVO DE INSTRUMENTO. EXECUÇÃO FISCAL. BLOQUEIO VIA SISBAJUD. IMPENHORABILIDADE. QUANTIA DEPOSITADA EM CONTA BANCÁRIA. ART. 833, X, DO CÓDIGO DE PROCESSO CIVIL. VALOR INFERIOR A 40 SALÁRIOS MÍNIMOS. RECURSO DESPROVIDO.
+I. CASO EM EXAME
+1. Agravo interno interposto contra decisão monocrática que negou provimento ao agravo de instrumento apresentado em face de decisão que, em execução fiscal, acolheu exceção de pré-executividade oposta pela Defensoria Pública para determinar o desbloqueio dos valores retidos via Sisbajud em conta corrente, sob o argumento da impenhorabilidade de quantia inferior a 40 salários mínimos.
+II. QUESTÃO EM DISCUSSÃO
+2. Discute-se a extensão da impenhorabilidade prevista no artigo 833, inciso X, do Código de Processo Civil, a contas bancárias de qualquer natureza, bem como o ônus da prova para comprovação da impenhorabilidade.
+III. RAZÕES DE DECIDIR
+3. O artigo 833, inciso X, do Código de Processo Civil, determina a impenhorabilidade da "quantia depositada em caderneta de poupança, até o limite de 40 (quarenta) salários-mínimos".
+4. Atento ao princípio da isonomia, o Superior Tribunal de Justiça assentou que a impenhorabilidade do artigo 833, inciso X, do Código de Processo Civil, se aplica em qualquer tipo de conta bancária ou investimento de pessoas físicas.
+5. A orientação é seguida no âmbito da 6ª Turma desta Corte Regional no que diz respeito a constrições realizadas sobre o patrimônio de pessoas físicas. Precedentes.
+6. No caso concreto, a defesa do executado apontou a impenhorabilidade do bloqueio, dado que atingiu valores inferiores a 40 salários mínimos, disponíveis em conta corrente de pessoa física.
+IV. DISPOSITIVO E TESE
+7. Agravo interno desprovido.
+8. Tese de julgamento: são impenhoráveis os valores inferiores a 40 salários mínimos poupados ou depositados em qualquer tipo de conta bancária ou investimentos de pessoas físicas, cabendo ao executado o ônus de comprovar a impenhorabilidade.
+Nas razões do recurso especial, interposto pelo IBAMA, com base no art. 105, inciso III, alínea a, da Constituição Federal, a parte recorrente alega afronta aos seguintes dispositivos (fls. 43-46):
+a) art. 833, inciso X, do Código de Processo Civil, sustentando que a impenhorabilidade até 40 (quarenta) salários mínimos é automática apenas para depósitos em caderneta de poupança, exigindo-se prova do devedor para extensão a conta corrente ou outras aplicações; o acórdão teria aplicado impenhorabilidade automática a valores em conta corrente inferiores a 40 (quarenta) salários mínimos (fls. 44-45);
+b) arts. 835 e 854 do Código de Processo Civil, afirmando que o dinheiro ocupa prioridade na ordem de penhora e que o devedor deve comprovar a impenhorabilidade (§ 3º, inciso I, do art. 854); o desbloqueio sem prova concreta violaria essa disciplina (fls. 44-46); e
+c) art. 11 da Lei n. 6830/1980, argumentando que a ordem legal de preferência na execução fiscal privilegia a constrição de dinheiro, de modo que não cabe afastar previamente a penhora via SISBAJUD por mera alegação de valor inferior a 40 (quarenta) salários mínimos sem comprovação específica (fls. 44-46).
+Ao final, requer o provimento do recurso especial para que seja reformado o acórdão recorrido, determinando a manutenção do bloqueio de valores via SISBAJUD ou, caso já tenha havido o desbloqueio, a realização de penhora de valores em conta bancária do executado, ainda que inferiores a 40 (quarenta) salários mínimos (fl. 46).
+Contrarrazões ao recurso especial às fls. 48-51.
+Não admitido o recurso especial pelo Tribunal de origem (fls. 52-54), seguiu-se o presente agravo em recurso especial (fls. 55-57).
+Contrarrazões ao agravo em recurso especial às fls. 59-60.
+É o relatório.
+Decido.
+Sobre a pretensão recursal, a Primeira Seção deste Tribunal Superior afetou a controvérsia nos autos do REsp n. 2020425/RS, relatora Ministra Maria Thereza, Primeira Seção, julgado em 17/9/2024, DJEN de 7/10/2024, sob a sistemática dos recursos repetitivos (Tema n. 1285/STJ), com a seguinte proposta de tese:
+Definir se é ou não impenhorável a quantia de até quarenta salários mínimos poupada, seja ela mantida em papel-moeda; em conta corrente; aplicada em caderneta de poupança propriamente dita ou em fundo de investimentos.
+Há determinação de suspensão do processamento de todos os processos, individuais ou coletivos, que versem sobre a mesma matéria, nos quais tenha havido a interposição de recurso especial ou de agravo em recurso especial, na segunda instância, ou que estejam em tramitação no STJ, observada a orientação prevista no art. 256-L do RISTJ.
+Nesse contexto, impõe-se a remessa dos autos à origem, para que, depois de realizado o juízo de conformação, o recurso especial, se for o caso, seja encaminhado a esta Corte Superior, para que, aqui, possam ser analisadas eventuais questões jurídicas nele suscitadas que não ficaram prejudicadas pelo novo pronunciamento do Tribunal a quo.
+A propósito:
+ ..
+III - Dos dispositivos, arts. 1.030, 1.040, II, e 1.041 do CPC/2015, denota-se que cabe ao Ministro Relator, com o julgamento do paradigma, determinar a devolução dos autos ao Tribunal de origem, para que seja reexaminado o acórdão recorrido e realizada a superveniente admissibilidade do recurso especial, uma vez que, ao que se tem dos presentes autos, não houve qualquer manifestação de juízo de retratação negativa ou positiva quanto ao ponto.
+IV - Desse modo, prestigia-se o propósito racionalizador da sistemática dos recursos representativos de controvérsia que estabelece ser de competência dos Tribunais de origem, de forma exclusiva e definitiva, a adequação do caso em análise à tese firmada no julgamento de recurso repetitivo, de modo a inviabilizar a interposição de qualquer outro recurso subsequente a esta Corte que trate da mesma matéria.
+V - O referido entendimento restou assentado no art. 34, XXIV, do Regimento Interno do Superior Tribunal de Justiça, com a atribuição de competência ao relator para "determinar a devolução ao Tribunal de origem dos recursos especiais fundados em controvérsia idêntica àquela já submetida ao rito de julgamento de casos repetitivos para adoção das medidas cabíveis". Nesse sentido: AgInt no AREsp 729.327/RS, Rel. Ministro GURGEL DE FARIA, PRIMEIRA TURMA, julgado em 21/11/2017, DJe 05/02/2018 e AgInt no AREsp 523.985/MS, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 27/02/2018, DJe 02/03/2018.
+VI - Correta a decisão que determinou o retorno dos autos ao Tribunal de origem, com a devida baixa nesta Corte, em conformidade com a previsão do art. 1.040, c.c. o §2º do art. 1.041, ambos do CPC/2015.
+VII - Agravo interno improvido.
+(AgInt nos EDcl nos EDcl no AREsp n. 2.461.494/SP, relator Ministro Francisco Falcão, Segunda Turma, julgado em 7/10/2024, DJe de 9/10/2024; sem grifos no original.)
+Com efeito, "deve ser prestigiado o escopo perseguido na legislação processual, isto é, a criação de mecanismo que oportunize às instâncias de origem o juízo de retratação/conformação na forma dos arts. 1.039 a 1.041 do CPC/2015" (EDcl no AgInt no REsp n. 1.974.797/DF, relator Ministro Francisco Falcão, Segunda Turma, julgado em 10/6/2024, DJe de 12/6/2024).
+Ante o exposto, JULGO PREJUDICADO o agravo em recurso especial e, com fundamento no art. 34, inciso XXIV, do Regimento Interno do Superior Tribunal de Justiça, DETERMINO a devolução dos autos ao Tribunal de origem, com a respectiva baixa, para que seja oportunizado o juízo de conformação, à luz da tese fixada no Tema n. 1285 do STJ, observadas as normas dos arts. 1.040 e 1.041 do Código de Processo Civil.
+Advirto as partes, desde logo, de que a eventual interposição de agravo interno com o único propósito de rediscutir a determinação de devolução dos autos à origem para o juízo de conformação com o tema repetitivo, por ser manifestamente incabível fora da hipótese do art. 1.037, § 13, inciso II, do Código de Processo Civil, poderá ensejar a aplicação de multa, nos termos do art. 1.021, § 4º, do mesmo Código.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO EM RECURSO ESPECIAL. TEMA N. 1285 DO STJ. NECESSIDADE DE REALIZAÇÃO DO JUÍZO DE CONFORMAÇÃO. IMPENHORABILIDADE. IBAMA. PREJUDICADO O AGRAVO EM RECURSO ESPECIAL. DEVOLUÇÃO DOS AUTOS AO TRIBUNAL DE ORIGEM.
