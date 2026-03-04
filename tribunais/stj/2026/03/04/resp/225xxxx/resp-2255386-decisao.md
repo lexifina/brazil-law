@@ -1,0 +1,33 @@
+DECISÃO
+Trata-se de recurso especial interposto, com base nas alíneas "a" e "c" do inciso III do art. 105 da Constituição Federal, por Roberto Pinheiro Dorgam e outros contra acórdão assim ementado:
+APELAÇÃO CÍVEL - AÇÃO CIVIL PÚBLICA AMBIENTAL- PRELIMINAR - AUSÊNCIA DE PETIÇÃO - REJEIÇÃO - DANO MORAL COLETIVO - INOCORRÉNCIA - PERDA DO OBJETO DA AÇÃO - EXTINÇÃO DO PROCESSO SEM JULGAMENTO DE MÉRITO - ÔNUS DA SUCUMBÊNCIA - PRINCÍPIO DA CAUSALIDADE - SENTENÇA PARCIALMENTE REFORMADA. O dano moral coletivo em âmbito ambiental é verificado quando o prejuízo atinge a esfera moral de uma coletividade especifica, como quando se constata a degradação do meio ambiente em que determinada coletividade vive ou se observa a queda da qualidade de vida do coletivo. Nos casos de perda do objeto, os honorários serão devidos por quem deu causa ao processo.
+Os embargos de declaração opostos pelos réus foram acolhidos em parte para, sanada omissão, fixar os honorários por apreciação equitativa em R$ 10.000,00 (fls. 511-520).
+Em novos embargos de declaração, não houve acolhimento (fls. 567-572). Posteriormente, após interposição de recurso especial pela parte recorrida, em juízo de retratação, foram acolhidos os embargos para restabelecer a fixação dos honorários em 10% sobre o valor da causa, aplicando-se o Tema 1076/STJ (fls. 734-741).
+Nas razões do recurso especial, a parte recorrente alega, em síntese, que o acórdão recorrido violou o art. 18 da Lei 7.347/1985 e o art. 139, I, do Código de Processo Civil.
+Defende que, por força do princípio da simetria, o art. 18 da Lei 7.347/1985 impede a condenação do réu ao pagamento de honorários de sucumbência em ação civil pública, salvo quando comprovada má-fé. Sustenta, nesse sentido, que os honorários fixados no acórdão recorrido violam a norma federal indicada.
+Aponta, por fim, a existência de dissídio jurisprudencial.
+Contrarrazões às fls. 781-795 na qual a parte recorrida alega que o recurso não pode ser conhecido por ausência de prequestionamento e por inovação no recurso , sustentando que a tese não foi deduzida na apelação ou nas respectivas contrarrazões. No mérito, defende que a simetria do art. 18 da Lei 7.347/1985 somente se aplica quando o autor é pessoa jurídica de direito público, não alcançando ações civis públicas propostas por associações privadas, citando precedentes do Superior Tribunal de Justiça que reconhecem a possibilidade de condenação do réu em honorários nessas hipóteses, e pede a manutenção da condenação em 10% sobre o valor da causa, com majoração de honorários.
+Assim posta a questão, passo a decidir.
+Originariamente, trata-se de ação civil pública ambiental ajuizada por HÓRUS ASSOCIAÇÃO CIVIL DE DIREITO PRIVADO DE CARÁTER SÓCIO-AMBIENTALISTA, visando à obrigação de fazer e não fazer, consistente na paralisação das obras do empreendimento "Residencial Cidade Jardim", recomposição de áreas de preservação permanente com nascentes supostamente drenadas e indenização por danos ambientais e extrapatrimoniais coletivos.
+A sentença extinguiu o feito sem resolução do mérito quanto ao pedido de recuperação da área danificada, em razão de perda superveniente do objeto, e julgou improcedentes os demais pedidos (fl. 445).
+O Tribunal de origem deu parcial provimento à apelação para condenar os réus ao pagamento de honorários sucumbenciais, fixados em 10% sobre o valor da causa, sob o fundamento de que, nos casos de perda do objeto, aplica-se o princípio da causalidade, sendo os honorários devidos por quem deu causa ao processo. No caso, consignou-se que a parte ré/recorrente causou o dano e realizou a recomposição da vegetação danificada, o que acarretou a perda superveniente do objeto, razão pela qual deve responder pelos honorários fixados em 10% sobre o valor da causa. Veja-se (fls. 451/452, grifou-se):
+"Pela sentença houve a extinção do processo sem julgamento de mérito nos termos do art. 485, VI, CPC em face da perda de objeto da demanda. Por se tratar de ação civil pública, a Autora/Apelante não foi condenada ao pagamento de custas e honorários.
+Ocorre que, como se depreende dos autos, a Ré/Apelada realizou a recomposição da vegetação que danificou, e assim esta ação civil pública ambiental antecedente, com vistas a recuperar a área danificada, perdeu o seu objeto.
+Sendo assim, quem deu causa ao processo deve responder pelo pagamento dos honorários advocatícios e despesas processuais:  ..
+Ora, a causa do ajuizamento desta demanda pela Autora/Apelante foi o dano causado pela Ré/Apelada.
+Assim, cabe à Ré/Apelada o pagamento dos encargos de sucumbência, compostos, no caso, pelos honorários advocatícios."
+Posteriormente, os embargos de declaração foram acolhidos em parte com efeitos modificativos, para fixar os honorários por equidade em R$ 10.000,00 (fls. 511-520).
+Os embargos subsequentes não foram acolhidos (fls. 567-572).
+Após interposição de recurso especial pela parte recorrida e exercido o juízo de retratação, a Câmara acolheu os embargos para aplicar o Tema 1076/STJ, restabelecendo os honorários em 10% sobre o valor atualizado da causa (fls. 729-741).
+Irresignada, a parte ré/recorrente interpôs o presente recurso especial, que passo a analisar.
+No caso, verifica-se que o Tribunal de origem não se manifestou acerca da aplicação, por simetria, do art. 18 da Lei 7.347/1985 para afastar a condenação do réu ao pagamento de honorários sucumbenciais em ação civil pública, na ausência de comprovação de má-fé, à luz do art. 139, I, do CPC, a despeito da oposição dos embargos de declaração, o que inviabiliza o conhecimento do recurso especial nesse aspecto, diante da falta de prequestionamento, nos termos da Súmula 211/STJ.
+A propósito:
+RECURSO ESPECIAL. PLANO DE SAÚDE COLETIVO POR ADESÃO. EXCLUSÃO DO USUÁRIO. ESTIPULANTE ILEGITIMIDADE PASSIVA. PLANO INDIVIDUAL COMERCIALIZAÇÃO. SÚMULA 284/STF. PREQUESTIONAMENTO. AUSÊNCIA.
+1. A ausência de impugnação ao fundamento central do acórdão recorrido enseja a aplicação das Súmulas 283 e 284 do STF.
+2. A ausência de prequestionamento impede o conhecimento da questão pelo Superior Tribunal de Justiça. Incidência da Súmula n. 211 do STJ.
+3. Recurso especial não conhecido.
+(REsp n. 1.804.286/DF, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 1/12/2025, DJEN de 4/12/2025.)
+Em face do exposto, não conheço do recurso especial.
+Nos termos do art. 85, § 11, do Código de Processo Civil, majoro em 10% (dez por cento) a quantia já arbitrada a título de honorários em favor da parte recorrida, observados os limites estabelecidos nos §§ 2º e 3º do mesmo artigo, ônus suspensos no caso de beneficiário da justiça gratuita.
+Intimem-se.
+EMENTA
