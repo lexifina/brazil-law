@@ -1,0 +1,40 @@
+DECISÃO
+Trata-se de agravo interposto por KARINA SBOROWSKI contra decisão do TRIBUNAL REGIONAL FEDERAL DA 4ª REGIÃO, que não admitiu recurso especial fundado na alínea "a" do permissivo constitucional, o qual desafia acórdão assim ementado (e-STJ fl. 43):
+AGRAVO DE INSTRUMENTO. TEMA 692/STJ. ACÓRDÃO PROFERIDO PELOS TRIBUNAIS.
+1. O Superior Tribunal de Justiça, ao julgar, na sessão de 11/05/2022, a Pet. 12482/DF, reafirmou a tese jurídica quanto ao Tema nº 692, fixando a seguinte tese: A reforma da decisão que antecipa os efeitos da tutela final obriga o autor da ação a devolver os valores dos benefícios previdenciários ou assistenciais recebidos, o que pode ser feito por meio de desconto em valor que não exceda 30% (trinta por cento) da importância de eventual benefício que ainda lhe estiver sendo pago.
+2. Na hipótese, em grau recursal, com fundamento no art. 461, CPC/1973 (atual art. 497, CPC/2015) foi concedida tutela específica, na qual assegurou à parte exequente o direito à implantação imediata do benefício de pensão por morte. Posteriormente, em juízo de retratação, foi dado provimento ao apelo do INSS, para adequar o acórdão da Turma à decisão proferida pelo Supremo Tribunal Federal nos Temas 526 e 529.
+3. Evidentemente, houve revogação da tutela específica concedida neste Tribunal, que posteriormente reconheceu a inviabilidade de concessão do benefício pretendido, ensejando, na forma do que fora decidido pelo STJ no aludido tema, a obrigação da parte autora de devolver os valores do benefício previdenciário que recebeu por força da antecipação da tutela revogada nos autos.
+Embargos de declaração rejeitados (e-STJ fls. 50/52).
+No recurso especial obstaculizado, a autarquia recorrente alegou afronta aos arts. 489, § 1º, IV e VI, 926, 927 e 1.022 do CPC, aduzindo, preliminarmente, a nulidade do julgado por ausência de fundamentação e por negativa de prestação jurisdicional, em razão do não suprimento de omissões apontadas em sede de embargos de declaração, no tocante (a) à concessão de tutela específica de ofício, sem requerimento da parte; e (b) à inexistência de benefício ativo, que inviabilizaria a aplicação do limite de 30% (e-STJ fls. 62/63).
+No mérito, apontou violação do art. 115, II, da Lei 8.213/1991, defendendo, em suma, a inaplicabilidade do Tema 692/STJ ao caso concreto, por se tratar de tutela específica fundada no art. 497 do Código de Processo Civil, concedida após cognição exauriente em grau recursal (e-STJ fls. 58/61).
+Salientou, ainda, que a distinção entre tutela específica e tutela de urgência afasta a precariedade subjacente ao Tema 692/STJ; que a boa-fé, a segurança jurídica e a natureza alimentar dos valores recebidos impedem a restituição; e que, inexistindo benefício em manutenção, a devolução deve ocorrer por outros meios, não havendo exceção de irrepetibilidade aplicável (e-STJ fls. 58/61).
+Sem contrarrazões (e-STJ fl. ).
+O Vice-Presidente do Tribunal de origem inadmitiu o recurso especial em relação à questão preliminar.
+Quanto ao mérito (Tema 692 do STJ), negou seguimento ao recurso, com base no art. 1.040 do CPC/2015 (e-STJ fls. 67/72).
+Passo a decidir.
+Considerando que os fundamentos da decisão de inadmissibilidade foram devidamente atacados (e-STJ fls. 75/81), é o caso de examinar o recurso especial.
+Não merece acolhimento a pretensão de nulidade do julgado por negativa de prestação jurisdicional, porquanto, no acórdão impugnado, o Tribunal a quo apreciou fundamentadamente a controvérsia, apontando as razões de seu convencimento, contudo em sentido contrário à pretensão recursal, o que não se confunde com o vício apontado.
+A propósito:
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. INEXISTÊNCIA. SUPERVENIÊNCIA DA LEI 14.230/2021. TEMA 1.199/STF. PRESENÇA DE DOLO E DO DANO. TIPICIDADE MANTIDA. DOSIMETRIA DAS PENAS. REEXAME DE FATOS E PROVAS. IMPOSSIBILIDADE. SÚMULA 7/STJ. INCIDÊNCIA. PROVIMENTO NEGADO.
+1. Inexiste a alegada violação ao art. 1.022 do Código de Processo Civil (CPC) porque a prestação jurisdicional foi dada na medida da pretensão deduzida, é o que se depreende da análise do acórdão recorrido. O Tribunal de origem apreciou fundamentadamente a controvérsia, não padecendo o julgado de erro material, omissão, contradição ou obscuridade. Julgamento diverso do pretendido não implica ofensa ao dispositivo de lei invocado.
+2. A superveniência da Lei 14.230/2021 não altera a tipicidade da conduta, porque o Tribunal de origem, no acórdão recorrido, reconheceu a presença de ato ímprobo previsto no art. 10 da Lei 8.429/1992, o dolo dos agentes e a lesão ao erário.
+3. A revisão da dosimetria das penas encontra óbice na Súmula 7 do Superior Tribunal de Justiça (STJ), salvo evidente desproporcionalidade, o que não se verifica neste caso.
+4. Agravo interno a que se nega provimento. (AgInt no AREsp n. 2.044.604/PR, relator Ministro Paulo Sérgio Domingues, Primeira Turma, julgado em 17/3/2025, DJEN de 21/3/2025.)
+No caso, o Tribunal de origem decidiu integralmente a controvérsia acerca da possibilidade de devolução de valores pagos a título de tutela específica, posteriormente revogada, a saber (e-STJ fls. 40/42):
+No caso dos autos, todo imbróglio envolve a possibilidade - ou não - de possibilidade de pagamento de valores supostamente recebidos por força de antecipação de tutela posteriormente revogada, nas hipóteses em que a revogação ocorra depois do acórdão proferido pelos Tribunais.
+O tema comporta algumas digressões.
+Inicialmente, vale dizer que, o Superior Tribunal de Justiça, ao julgar, na sessão de 11/05/2022, a Pet. 12482/DF, reafirmou a tese jurídica quanto ao Tema nº 692, fixando a seguinte tese: A reforma da decisão que antecipa os efeitos da tutela final obriga o autor da ação a devolver os valores dos benefícios previdenciários ou assistenciais recebidos, o que pode ser feito por meio de desconto em valor que não exceda 30% (trinta por cento) da importância de eventual benefício que ainda lhe estiver sendo pago.
+Na hipótese, em grau recursal, com fundamento no art. 461, CPC/1973 (atual art. 497, CPC/2015) foi concedida tutela específica, na qual assegurou à parte exequente o direito à implantação imediata do benefício de pensão por morte. Posteriormente, em juízo de retratação, foi dado provimento ao apelo do INSS, para adequar o acórdão da Turma à decisão proferida pelo Supremo Tribunal Federal nos Temas 526 e 529.
+Evidentemente, houve revogação da tutela específica concedida neste Tribunal, que posteriormente reconheceu a inviabilidade de concessão do benefício pretendido, ensejando, na forma do que fora decidido pelo STJ no aludido tema, a obrigação da parte autora de devolver os valores do benefício previdenciário que recebeu por força da antecipação da tutela revogada nos autos.
+A propósito, nessa direção:
+ ..
+Saliente-se que o próprio tema excepciona uma única situação em que a hipóte se não será albergada pelo julgado, inserta, expressamente, no item 19, ou seja, quando há modificação superveniente da jurisprudência dominante:
+ ..
+, no caso, não é esta a situação dos autos, ensejando, portanto, a obrigação da devolução dos valores percebidos indevidamente e a modificação da decisão agravada.
+CONCLUSÃO
+Desse modo, modificada a decisão agravada, a fim de permitir o prosseguimento da cobrança, pelo INSS, dos valores percebidos indevidamente.
+Assim, ainda que a parte recorrente considere insubsistente ou incorreta a fundamentação utilizada pelo Tribunal nos julgamentos realizados, não há necessariamente ausência de manifestação. Não há como confundir o resultado desfavorável ao litigante com a falta de fundamentação, motivo pelo qual não se constata violação dos preceitos apontados.
+Ante o exposto, com base no art. 253, parágrafo único, II, "b", do RISTJ, CONHEÇO do agravo para NEGAR PROVIMENTO ao recurso especial.
+Sem arbitramento de honorários recursais, pois o recurso especial se origina de agravo de instrumento.
+Publique-se. Intimem-se.
+EMENTA
