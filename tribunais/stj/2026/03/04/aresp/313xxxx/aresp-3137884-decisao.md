@@ -1,0 +1,41 @@
+DECISÃO
+Em análise, agravo em recurso especial contra decisão que inadmitiu o recurso especial interposto por ESTADO DE SÃO PAULO, INSTITUTO DE PAGAMENTOS ESPECIAIS DE SAO PAULO - IPESP, com fundamento na incidência  da Súmula  7 do STJ.
+Em suas razões recursais, a parte agravante sustenta o preenchimento dos requisitos de admissibilidade do recurso especial, pois pretende a revaloração das provas, e não seu reexame.
+Assevera, ainda, que "a desproporcionalidade da dosimetria da pena com a gravidade da conduta ficou ainda mais evidente nas razões recursais pela análise realizada pelo ente público dos incisos I e II, do artigo 12, da LIA, que são claros quanto à multa civil, que deve ser equivalente ao dano praticado " (fl. 2.796).
+Contraminuta apresentada
+É o relatório.
+Passo a decidir.
+Quanto a violação ao art. 12, I e II, da Lei n 8.429/92, o Tribunal de origem, ao dirimir a controvérsia, concluiu que:
+ ..
+A priori, indisputável a obrigação tendente ao ressarcimento integral do dano ao erário acarretado pelo réu fixado provisoriamente no montante de R$ 31.319.653,07 ao tempo da prolação da r. sentença, cujo quantum efetivo será calculado em regular sede de liquidação, após o término dos trabalhos de apuração fiscal do total do débito. Nesse ponto, aliás, não há qualquer controvérsia nos autos, à míngua de impugnação das partes.
+ ..
+A imposição da multa civil, para a hipótese, mostra-se igualmente cabível, acomodando-se aos princípios da razoabilidade, proporcionalidade e reprovabilidade da conduta ímproba.
+ ..
+Sem embargo, para o caso referida sanção foi fixada na origem em quantia correspondente ao valor do dano, o que parece não consultar ao postulado da proporcinalidade e os parâmetros demarcado pelas alíneas do inciso IV do art. 17-C da Lei 8.429/92, com redação determinada pela Lei 14.230/21, parâmetros que, por mais benéficos, cumprem ser observados para a hipótese.
+No caso em exame, em que pese a extensão do dano, devem ser levados em conta os antecedentes do agente e a atuação do demandado em contribuir, por confissão, com a instrução processual, razão pela qual é de se impor a redução da multa civil arbitrada em sentença para que venha a contar o equivalente a 25% da extensão do dano, provendo-se parcialmente o recurso do réu para esse fim.
+Consigne-se, por oportuno, "que não é o valor da multa, do mesmo modo que a longevidade da pena, que serve de maior inibidor da ação de improbidade, mas sim a repercussão moral que a condenação acarreta", cf. AgInt no AR Esp n. 275.565/SP, relator Ministro Napoleão Nunes Maia Filho, Primeira Turma, julgado em 13/3/2018, D Je de 9/5/2018, de modo que a redução que agora se determina é medida de rigor (destaquei).
+O resultado é razoável e apto para reprimir a conduta do réu, principalmente, ante a imposição da sanção de ressarcimento integral ao erário, a qual como anotado alhures gira em torno de quantia superior a 30 milhões de reais.
+ ..
+Avançando, no que atina às penalidades de proibição de contratar com a Administração Pública ou de receber benefícios ou incentivos fiscais ou creditícios, direta ou indiretamente, ainda que por intermédio de pessoa jurídica da qual seja sócio majoritário e a perda de função pública são adequadas à situação concreta, pois umbilicalmente ligadas ao ato de improbidade praticado pelo réu, outrora Oficial de Cartório de Registro de Imóveis.
+Ademais, a perda da função pública justifica-se ante a patente inidoneidade moral e desvio ético para o exercício da função pública pelo réu, situação esta bem evidenciada nos autos, consoante o incontroverso e confessado ato por si perpetrado.
+No que atina à condenação de suspensão dos direitos políticos, quadra registrar, tratar-se de sanção mais rigorosa prevista na Lei Federal nº 8.429/92 e, por tal razão, deve ser aplicada com extrema cautela.
+O ato questionado, no caso dos autos (prática de atos de improbidade administrativa em razão de apropriação indevida de importância que deveria ter sido recolhida ao Estado e ao IPESP), não guarda nenhuma relação com qualquer espécie de atividade político-partidária, por isso, deve ser excluída da condenação inicial.
+ ..
+Dessarte, a procedência parcial do pedido inicial é medida de rigor, alterando-se, parcialmente, a r. sentença ora impugnada, apenas e tão somente, nos exatos termos da fundamentação supra, para determinar o decote da penalidade de suspensão dos direitos políticos, a partir do trânsito em julgado, como também a redução da multa civil para o valor equivalente a 25% da extensão do dano, ficando mantidos os demais termos esposados na bem lançada sentença, ora impugnada.
+Nesse sentido, decidir de forma contrária - para rever as sanções impostas na origem -, demandaria o reexame de matéria fática, o que é vedado em recurso especial, nos termos da Súmula 7/STJ.
+A propósito:
+IMPROBIDADE ADMINISTRATIVA. AGRAVO INTERNO. OFENSA AO DO CPC/1973 3º E 10, VIII, DA NÃO CONFIGURADA. VIOLAÇÃO DOS ARTS. LEI 8.429/1992. PRESENÇA DO ELEMENTO SUBJETIVO. MATÉRIA FÁTICO-PROBATÓRIA. SÚMULA 7/STJ. PRETENSÃO DE REEXAME DA DOSIMETRIA DAS PENAS. IMPOSSIBILIDADE. INCIDÊNCIA DA SÚMULA 7/STJ. DIVERGÊNCIA JURISPRUDENCIAL NÃO COMPROVADA. HISTÓRICO DA DEMANDA
+ ..
+10. O entendimento firmado na jurisprudência do STJ é, como regra, de que modificar o alcance da sanção aplicada pela instância de origem enseja reapreciação dos fatos e da prova, obstada nesta instância especial, salvo em hipóteses excepcionais, nas quais, na leitura do acórdão recorrido, nota-se a desproporcionalidade entre o ato praticado e as sanções aplicadas, o que não é o caso vertente. Precedentes: STJ, REsp 1.685.324/SP, Segunda Turma, DJe 22/11/2018; Rel. Min. Herman Benjamin, AgRg no AREsp 435.657/SP, Rel. Min. Humberto Martins, Segunda Turma, DJe 22/5/2014; REsp 1.252.917/PB, Rel. Min. Mauro Campbell Marques, Segunda Turma, DJe 27/2/2012; AgRg no AREsp 403.839/MG, Rel. Min. Og Fernandes, Segunda Turma, DJe 11/3/2014; e REsp 1.203.149/RS, Rel. Min. Eliana Calmon, Segunda Turma, DJe de 7/2/2014.
+11. No caso, para se avançar sobre a pretendida aplicação distinta de sanções aos condenados seria necessário imiscuir-se no conjunto fático-probatório dos autos, o que, como visto, não é possível na via extraordinária, mormente porque não se vê desproporcionalidade das sanções aplicadas (que, inclusive, foram reduzidas pelo TJSP).
+ ..
+16. Agravo Interno não provido (AgInt no AREsp n. 554.335/SP, relator Ministro Herman Benjamin, relator para acórdão Ministro Teodoro Silva Santos, Segunda Turma, julgado em 15/10/2024, DJEN de 5/9/2025).
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO CIVIL PÚBLICA. IMPROBIDADE ADMINISTRATIVA. ART. 10 DA LIA. CONFIGURAÇÃO DE ATO ÍMPROBO DOLOSO. DOSIMETRIA DAS PENALIDADES. REVISÃO. IMPOSSIBILIDADE. SÚMULA 7/STJ.
+1. Tendo o recurso sido interposto contra decisão publicada na vigência do Código de Processo Civil de 2015, devem ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+2. A revisão da conclusão a que chegou o Tribunal de origem a respeito da demonstração do dolo específico e do dano efetivo ao erário para a caracterização do ato ímprobo em apreço tipificado no art. 10 da Lei de Improbidade Administrativa, demanda o reexame dos fatos e provas constantes dos autos, o que é vedado no âmbito do recurso especial, nos termos da Súmula n. 7 do STJ.
+3. Esta Corte Superior firmou orientação no sentido de que a revisão das penalidades impostas em ação de improbidade administrativa implica o reexame do conjunto fático-probatório dos autos, o que encontra óbice na Súmula 7/STJ, salvo em hipóteses excepcionais, nas quais, da leitura do acórdão recorrido, exsurgir a desproporcionalidade entre o ato praticado e as sanções aplicadas, o que não ocorre na espécie. Precedentes.
+4. Agravo interno não provido (AgInt no AREsp n. 2.687.208/ES, relator Ministro Benedito Gonçalves, Primeira Turma, julgado em 19/5/2025, DJEN de 23/5/2025).
+Isso posto, com fundamento no art. 253, parágrafo único, II, a, do RISTJ, conheço do agravo para não conhecer do recurso especial.
+Sem condenação em honorários advocatícios, nos termos do art. 18 da Lei 7.347/1985.
+Intimem-se.
+ EMENTA
