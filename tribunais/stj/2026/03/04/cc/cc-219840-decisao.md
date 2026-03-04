@@ -1,0 +1,50 @@
+DECISÃO
+Cuida-se de conflito negativo de competência suscitado pelo Juízo de Direito da 3ª Vara do Trabalho de Manaus/AM, tendo por suscitado o Juízo de Direito da Vara Única de Urucuritiba/AM.
+Narra o suscitante que foi ajuizada ação declaratória de inexistência de débito cumulada com repetição de indébito e indenização por danos morais, tendo como fundamento descontos indevidos em benefício previdenciário.
+Como não há controvérsia quanto à existência de contribuição sindical obrigatória ou qualquer outra matéria que se enquadre nas hipóteses previstas no artigo 114 da Constituição Federal, a competência é da Justiça Comum, entendimento com precedentes no Superior Tribunal de Justiça. (e-STJ fls. 317-322)
+O suscitado, a seu turno, sustenta que a jurisprudência é no sentido de que os pleitos de matéria sindical são da competência material da Justiça do Trabalho. (e-STJ fls. 83-84)
+É o relatório.
+Decido.
+Dispõe o art. 105, I, d, da CRFB/88 que "Compete ao Superior Tribunal de Justiça: I - processar e julgar, originariamente (..) d) os conflitos de competência entre quaisquer tribunais, ressalvado o disposto no art. 102, I, "o", bem como entre tribunal e juízes a ele não vinculados e entre juízes vinculados a tribunais diversos".
+O Juiz natural é garantia constitucional das partes, expressa no art. 5º, inciso LIII, da Constituição Federal, que dispõe que "ninguém será processado nem sentenciado senão pela autoridade competente".
+Nos termos do art. 66 do Código de Processo Civil, há conflito de competência quando dois ou mais juízes se declaram competentes, quando dois ou mais juízes se declaram incompetentes, atribuindo um ao outro a competência, ou quando surge controvérsia acerca da reunião ou separação de processos entre dois ou mais juízes.
+O entendimento consolidado do Superior Tribunal de Justiça é de que "Para se caracterizar o conflito de competência, é necessária a manifestação expressa de dois ou mais juízos que se considerem competentes, ou incompetentes, para processar e julgar a mesma demanda. Desserve ao fim de sanear toda e quaisquer questões conflitantes em um processo." (AgInt no CC n. 206.377/SP, relator Ministro João Otávio de Noronha, Segunda Seção, julgado em 29/10/2024, DJe de 5/11/2024.)
+Observa-se, no presente feito, a existência de conflito de competência instaurado entre juízos pertencentes a tribunais distintos, hipótese que atrai a competência desta corte para definição da autoridade responsável pelo exercício da jurisdição no caso concreto.
+A controvérsia em destaque diz respeito à fixação do Juízo competente para processamento e julgamento da Ação Declaratória de Inexistência de Contrato com Repetição de Indébito e Indenização, ajuizada em face da CONTAG, em razão da realização de descontos indevidos no seu benefício de previdência, sem que tenha existido qualquer relação jurídica anterior com a entidade (e-STJ fls. 6-19).
+No caso, o autor ajuizou a demanda perante a justiça comum, tendo o Juízo declinado da competência para a justiça especializada, com fundamento no art. 114, inciso III da Constituição Federal.
+Vejamos os pedidos anunciados na petição inicial: (e-STJ fls. 13-14)
+c) Que seja declarado nulo o contrato de "CONTRIBUIÇÃO SINDICATO/CONTAG" realizado pela requerida de forma unilateral;
+d) A RESTITUIÇÃO EM DOBRO do valor R$ 822,82 (oitocentos e vinte e dois reais e oitenta e dois centavos), referentes aos descontos indevidos realizados no benefício previdenciário do Requerente no período compreendido entre SETEMBRO DE 2021 A MARÇO DE 2024, TOTALIZANDO A QUANTIA DE R$ 1.645,65 (um mil seiscentos e quarenta e cinco reais e sessenta e cinco centavos), acrescidos de juros e correção monetária a partir da data do efetivo prejuízo, consoante, bem como as demais parcelas que por ventura venham a ser descontadas na conta corrente da autora no decorrer do processo, conforme preconiza o art.42, § único, do CDC.
+e) Que seja julgado procedente o pedido da demanda, condenando o requerido Instituição Financeira Confederação Nacional Dos Trabalhadores Rurais Agricultores E Agricultoras Familiares - CONTAG, no Pagamento de DANOS MORAIS pelos descontos indevidos de valores sem a anuência do Autor, no valor considerado razoável no importe de R$ 10.000,00 (dez mil reais).
+f) A INVERSÃO DO ÔNUS DA PROVA, em razão de se tratar de relação consumerista, por sua vez, sendo o Autor hipossuficiente na relação em conformidade com o inciso VIII, do artigo 6º, do Código de Defesa do Consumidor, inclusive para que a Ré apresente o contrato pactuado;
+A competência se fixa em razão da causa de pedir e do pedido formulado na inicial.
+A análise dos pedidos permite confirmar que a hipótese em comento se refere unicamente a matéria de cunho civil.
+Sobre o ponto, esta Corte, em recorrentes decisões, vem asseverando que esta relação "não se trata de representação sindical e suas consequências, a teor do disposto no art. 114, III, da CF, mas de reconhecimento de inexistência de relação jurídica entre as partes, matéria de cunho eminentemente civil. (CC n. 210.605, Ministro Moura Ribeiro, DJEN de 09/04/2025.)
+Nesse cenário, "(..) os pedidos decorrem da ilicitude do desconto efetivado e estão amparados no Código Civil e no Código de Defesa do Consumidor, inexistindo controvérsia sobre relação trabalhista."(CC n. 212.146, Ministro João Otávio de Noronha, DJEN de 03/04/2025.)
+A propósito:
+PROCESSUAL CIVIL E PREVIDENCIÁRIO - CONFLITO DE COMPETÊNCIA  REPETIÇÃO DE INDÉBITO  CONTRIBUIÇÃO PREVIDENCIÁRIA  COMPETÊNCIA DA JUSTIÇA FEDERAL  INAPLICABILIDADE DO ART. 114, VIII DA CF/88 COM REDAÇÃO DADA PELA EMENDA CONSTITUCIONAL 45/2004)  ART. 109, I DA CF/88.
+1. Se a ação versa sobre repetição de indébito previdenciário por alegados descontos indevidos do INSS, não há falar na hipótese de competência da Justiça do Trabalho para processamento das execuções, de ofício, das contribuições sociais, previstas no art. 195, I, a, e II da CF, decorrentes de sentenças condenatórias proferidas na Justiça Obreira.
+2. Cobrança de contribuinte ajuizada em face do INSS, para reaver valores pagos e descontados indevidamente, não se subsume à regra do art. 114, VIII, da CF, com a redação dada pela EC n. 45/04.
+3. Aplicabilidade do art. 109, I da CF. Existindo no pólo passivo autarquia federal, compete à Justiça Federal processar e julgar a ação de repetição de indébito. Precedentes do STJ.
+Conflito conhecido, para declarar competente a Turma Recursal do Juizado Especial Federal da Seção Judiciária do Estado de Goiás, o suscitado.
+(CC n. 63.643/GO, relator Ministro Humberto Martins, Primeira Seção, julgado em 13/12/2006, DJ de 12/2/2007, p. 218.)
+Em acórdão de minha relatoria, recentemente a Segunda Seção decidiu:
+DIREITO PROCESSUAL CIVIL. CONFLITO NEGATIVO DE COMPETÊNCIA. AÇÃO INDENIZATÓRIA. RELAÇÃO DE TRABALHO NÃO ALEGADA. COMPETÊNCIA DA JUSTIÇA COMUM. CONFLITO CONHECIDO.
+I. Caso em exame
+1. Conflito negativo de competência suscitado pelo Juízo da 12ª Vara do Trabalho de Campinas/SP, tendo por suscitado o Juízo de Direito da Vara do Juizado Especial Cível e Criminal de Hortolândia/SP.
+2. A parte autora, ex-empregada de empresa que disponibilizou um cartão de vantagens operado por instituição de pagamento diversa da empregadora, ajuizou ação de indenização por danos morais e materiais contra a instituição de pagamento, perante a Justiça Comum, alegando desconto indevido na rescisão contratual, relativo a uma suposta dívida oriunda do uso do referido cartão.
+3. O Juízo de Direito da Vara do Juizado Especial Cível e Criminal de Hortolândia/SP declarou sua incompetência absoluta, entendendo que a competência seria da Justiça do Trabalho. O Juízo da 12ª Vara do Trabalho de Campinas/SP, por sua vez, suscitou o conflito, alegando que a ação não foi ajuizada contra o empregador, mas contra a instituição de pagamento, e que a causa de pedir está amparada em relação de natureza civil, afastando a competência da Justiça especializada.
+II. Questão em discussão
+4. A questão em discussão consiste em determinar se a competência para processar e julgar a ação indenizatória, que envolve pedido de restituição de desconto supostamente indevido realizado no momento do pagamento da rescisão do autor, decorrente de gastos realizados no cartão de vantagens de instituição de pagamento que não possui relação de trabalho com a parte.
+III. Razões de decidir
+5. A competência em razão da matéria é definida pela natureza jurídica da controvérsia, que se afere pela análise do pedido e da causa de pedir veiculados na inicial.
+6. A causa de pedir e os pedidos deduzidos na inicial estão fundamentados exclusivamente no Código Civil, não havendo indicação de relação de trabalho entre as partes litigantes, nem pedidos decorrentes da relação decorrentes da relação de trabalho, o que afasta a competência da Justiça do Trabalho.
+7. A jurisprudência do Superior Tribunal de Justiça estabelece que, na ausência de relação de trabalho entre as partes e quando a controvérsia decorre de relação jurídica de cunho eminentemente civil, a competência para julgamento é da Justiça Comum.
+8. No caso concreto, a instituição de pagamento, operadora do cartão de vantagens, não possui relação de trabalho com o autor, e os pedidos não envolvem verbas típicas da relação de trabalho, mas sim a devolução de valores descontados indevidamente e indenização por danos morais.
+IV. Dispositivo
+9. Conflito conhecido para declarar competente o Juízo de Direito da Vara do Juizado Especial Cível e Criminal de Hortolândia/SP.
+(CC n. 217.537/SP, relatora Ministra Daniela Teixeira, Segunda Seção, julgado em 10/12/2025, DJEN de 15/12/2025.
+Em igual sentido, inúmeros precedentes: (CC n. 210.342, Ministra Maria Isabel Gallotti, DJEN de 09/04/2025.); (CC n. 211.676, Ministro Humberto Martins, DJEN de 07/04/2025.); (CC n. 211.541, Ministro Humberto Martins, DJEN de 07/04/2025.); (CC n. 212.146, Ministro João Otávio de Noronha, DJEN de 03/04/2025.).
+Ante o exposto, CONHEÇO do conflito para DECLARAR competente o Juízo de Direito da Vara Única de Urucuritiba/AM, para processar e julgar a demanda na origem.
+Publique-se. Intimem-se
+ EMENTA
