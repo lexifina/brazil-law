@@ -1,0 +1,40 @@
+Decisão: A 4ª Câmara Criminal do Tribunal de Justiça do Estado de Minas Gerais, ao apreciar os recursos de apelação interpostos pelos ora recorrentes, proferiu acórdão (eDOC 113, p. 1-178), de cuja ementa transcrevo, no que essencial:
+
+“APELAÇÃO CRIMINAL. TRÁFICO E ASSOCIAÇÃO PARA O TRÁFICO DE DROGAS MAJORADO PELO EMPREGO DE ARMA DE FOGO E ENVOLVIMENTO DE ADOLESCENTES. MÁTERIA PRELIMINAR. VIOLAÇÃO AO PRINCÍPIO DA CORRELAÇÃO. RECONHECIMENTO DE AGRAVANTES NÃO NARRADAS NA EXORDIAL ACUSATÓRIA. DESCABIMENTO. INTELIGÊNCIA DO ART. 385 DO CPP. NULIDADE DO MANDADO DE BUSCA E APREENSÃO. INVIABILIDADE. FUNDADAS RAZÕES PARA ADOÇÃO DA MEDIDA DEVIDAMENTE DEMONSTRADAS. ILICITUDE DA PROVA OBTIDA POR MEIO DA APREENSÃO DE APARELHO TELEFÔNICO. INOCORRÊNCIA. AUSÊNCIA DE EXPEDIÇÃO DE MANDADO DE BUSCA E APREENSÃO EM DESFAVOR DAS RÉS. IRRELEVÂNCIA. EXISTÊNCIA DE FUNDADAS SUSPEITAS DE PARTICIPAÇÃO DOS AGENTES NO DELITO, OBTIDAS EM INVESTIGAÇÃO CRIMINAL. INFORMAÇÃO PRETÉRITA DO SEU SUPOSTO ENVOLVIMENTO NO DELITO DE TRÁFICO DE DROGAS. DESNECESSIDADE DO MANDADO. CRIME PERMANENTE. AUSÊNCIA DE FUNDAMENTAÇÃO DAS DECISÕES QUE DEFERIU A EXPEDIÇÃO DE MANDADO DE BUSCA E APREENSÃO E AUTORIZOU A PERÍCIA NOS APARELHOS CELULARES APREENDIDOS. INOCORRÊNCIA. NULIDADE DA SENTENÇA POR AUSÊNCIA DE APRECIAÇÃO SATISFATÓRIA DAS TESES DEFENSIVAS. INOCORRÊNCIA. DECISÕES DEVIDAMENTE MOTIVADAS. VIOLAÇÃO AO ARTIGO 93, IX, DA CF. INOCORRÊNCIA. INVESTIGAÇÃO PELA POLÍCIA MILITAR. INOCORRÊNCIA. MERO CUMPRIMENTO DE DILIGÊNCIA. CARACTERIZAÇÃO DA POLÍCIA OSTENSIVA E PRESERVAÇÃO DA ORDEM PÚBLICA. INVESTIGAÇÃO CRIMINAL REALIZADA PELO MINISTÉRIO PÚBLICO. INOBSERVÂNCIA DOS PARÂMETROS DETERMINADOS NA DECISÃO DO STF, NO RE 593.727/MG, COM REPERCUSSÃO GERAL. ILEGALIDADE. INADMISSIBILIDADE. DENÚNCIA JÁ RECEBIDA. MOMENTO PROCESSUAL INOPORTUNO. MATÉRIA PRECLUSA. QUEBRA DA CADEIA DE CUSTÓDIA DA PROVA. NÃO CABIMENTO. NULIDADES NÃO CONFIGURADAS. CERCEAMENTO DE DEFESA. PEDIDO DE DILIGÊNCIA NÃO ANALISADO EM SEDE DE MATÉRIA PRELIMINAR. DESCABIMENTO. DEFESA QUE SE MANTEVE INERTE DURANTE TODO O CURSO DA INSTRUÇÃO CRIMINAL. MATÉRIA PRECLUSA. INTELIGÊNCIA DO ART. 572, I, DO CPP. PREJUÍZO NÃO DEMONSTRADO. POLICIAIS QUE SE RECUSARAM A DECLINAR O NOME DAS TESTEMUNHAS. VEDAÇÃO AO ANONIMATO. IMPOSSIBILIDADE. DEVER DE SIGILO E PRESERVAÇÃO DA VIDA DE INFORMANTES. PRELIMINARES REJEITADAS. MÉRITO. DELITO DE ASSOCIAÇÃO PARA O TRÁFICO DE DROGAS. ATIPICIDADE DA CONDUTA. INVIABILIDADE. PRESENÇA DE ELEMENTOS CARACTERIZADORES DE ESTABILIDADE E PERMANÊNCIA DO VÍNCULO ASSOCIATIVO. PROVA TÉCNICA PRODUZIDA. DEPOIMENTOS PRESTADOS POR POLICIAIS. CONFIABILIDADE. PROVA TÉCNICA PRODUZIDA. CRIME DE TRÁFICO DE DROGAS. ABSOLVIÇÃO OU DESCLASSIFICAÇÃO PARA O USO. INADMISSIBILIDADE. INTENSAS INVESTIGAÇÕES PRÉVIAS. HARMONIA COM O CONTEXTO PROBATÓRIO. PROPRIEDADE DAS DROGAS E DESTINAÇÃO MERCANTIL EVIDENCIADAS. COAUTORIA DEMONSTRADA. RÉUS QUE ADERIRAM À CONDUTA DOS COMPARSAS. VÍNCULO ENTRE AS DROGAS E OS ACUSADOS SATISFATORIAMENTE DEMONSTRADO. INTELIGÊNGIA DO ARTIGO 29 DO CP. DOSIMETRIA. APLICAÇÃO DA CAUSA DE DIMINUIÇÃO PREVISTA NO ART. 33, §4º, DA LEI Nº 11.343/06. INVIABILIDADE. REQUISITOS NÃO PREENCHIDOS. DEDICAÇÃO A ATIVIDADES CRIMINOSAS. CONCESSÃO DO TRÁFICO PRIVILEGIADO EM SUA FRAÇÃO MÁXIMA DE REDUÇÃO. CABIMENTO PARA UM DOS RÉUS. PEQUENA QUANTIDADE DE DROGA. MITIGAÇÃO DE REGIME PRISIONAL E SUBSTITUIÇÃO DA PENA. ADMISSIBILIDADE PARA UM DOS ACUSADOS. DECOTE DAS MAJORANTES DO ART. 40, IV E VI, DA LEI Nº 11.343/06. DESCABIMENTO. FARTAS PROVAS DA PRESENÇA DE ARMAS DE FOGO E ENVOLVIMENTO DE ADOLESCENTES PARA A PRÁTICA DO TRÁFICO. PRINCÍPIO DA CORRELAÇÃO RESPEITADO. COAUTORIA DEMONSTRADA. DECOTE DA AGRAVANTE PREVISTA NO ART. 62, I, DO CP. VIABILIDADE QUANTO A ALGUNS DOS RÉUS. REDUÇÃO DA PENA-BASE. POSSIBILIDADE. PATAMAR EXACERBADO. REINCIDÊNCIA E MAUS ANTECEDENTES. BIS IN IDEM. INEXISTÊNCIA. MULTIRREINCIDENCIA DO ACUSADO. PENA DE MULTA REDUZIDA PARA GUARDAR PROPORCIONALIDADE COM A PENA PRIVATIVA DE LIBERDADE. DECOTE DO CONCURSO MATERIAL. INVIABILIDADE. DESÍGNIOS AUTÔNOMOS. SUBSTITUIÇÃO DA PENA PRIVATIVA DE LIBERDADE POR RESTRITIVAS DE DIREITOS. DESCABIMENTO. QUANTUM DE PENA APLICADO. RESTITUIÇÃO DOS BENS APREENDIDOS. IMPOSSIBILIDADE. RECURSOS PARCIALMENTE PROVIDOS. (...)” (eDOC 113, p.1-2; grifos originais).
+
+Daí os recursos extraordinários interpostos por Marcela Ferreira da Silva (eDOC 129, p. 1-26), João Batista Rosa de Oliveira (eDOC 130, p. 1-32) e Marcelle Ferreira da Silva (eDOC 131, p. 1-29), nos quais se alega ofensa aos artigos 5º, incisos LIV e LV; e 93, inciso IX, da Constituição Federal. Demonstrou-se a repercussão geral das questões constitucionais suscitadas.
+
+Os recorrentes também interpuseram recursos especiais (eDOCs 143-145).
+
+A 3ª Vice-Presidente do TJ/MG não admitiu os recursos especiais (eDOC 150, p. 1-4), bem como negou seguimento e/ou não admitiu os recursos extraordinários (eDOC 136, p. 1-3).
+
+Houve, então, a interposição dos presentes agravos em recurso extraordinário (eDOC 180, p. 1-4; eDOC 181, p. 1-3; eDOC 182, p. 1-3), dos agravos em recurso especial (eDOCs 172-174), bem como dos agravos internos (eDOCs 188-190).
+
+Negou-se seguimento aos agravos internos (eDOC 192, p. 1-2). Daí a interposição de novos agravos (eDOCs 199-201).
+
+O Órgão Especial do TJ/MG negou provimento ao agravo interno (eDOC 219, p. 1-5).
+
+No STJ, procedeu-se ao julgamento do AREsp 2.718.354/MG (eDOCs 253-254 e 256), bem como dos sucessivos recursos interpostos pelos ora recorrentes (eDOCs 298-337). Após, certificou-se o trânsito em julgado no âmbito daquele tribunal (certidões; eDOCs 348-350).
+
+Registre-se que o presente feito foi a mim distribuído por prevenção ao HC 191.662/MG (certidão; eDOC 359, p. 1-2).
+
+O Ministério Público Federal, na condição de custos legis, opinou pelo não provimento destes AREs (eDOC 362, p. 1-25).
+
+É o relatório.
+
+Decido.
+
+Aprecio, em conjunto, os presentes AREs até porque possuem convergência de fundamentos recursais e decisórios.
+
+Preliminarmente, consigno que, em relação aos Temas 339 e 660/STF da sistemática da repercussão geral da questão constitucional, a decisão ora agravada (eDOC 136, p. 1-3), deve ser mantida, porque incidente, no caso, o art. 1.030, inciso I, alínea “a”, do CPC. Nesse sentido: ARE 1.523.182 AgR/RS, Rel. Min. Alexandre de Moraes, Primeira Turma, DJe 23.1.2025; ARE 1.514.962/SP, por mim relatado, DJe 3.10.2024; ARE 1.427.270 AgR/RO, por mim relatado, Segunda Turma, DJe 18.12.2023; ARE 1.247.231 AgR/PR, por mim relatado, Segunda Turma, DJe 19.12.2022; ARE 1.430.477 ED-AgR/SC, por mim relatado, Segunda Turma, DJe 6.7.2023; dentre outros.
+
+Além disso, frise-se que, para divergir do entendimento firmado pelo Tribunal de origem, seria necessário o revolvimento do acervo fático-probatório, providência inviável no âmbito do recurso extraordinário. Dessa forma, incide, no RE em exame, o óbice da Súmula 279 do Supremo Tribunal Federal.
+
+Nesse sentido é a jurisprudência desta Suprema Corte: ARE 1.523.968 AgR/SC, Rel. Min. Luís Roberto Barroso (Presidente), Plenário, DJe 15.1.2025; ARE 1.438.204 AgR/SP, Rel. Min. Alexandre de Moraes, Primeira Turma, DJe 25.7.2023; ARE 1.433.874 AgR-Segundo/MG, Rel. Min. Luís Roberto Barroso, Plenário, DJe 2.8.2023; ARE 1.475.676 AgR/RJ, Rel. Min. Cristiano Zanin, Primeira Turma, DJe 24.4.2024; ARE 1.523.208 AgR/RJ, por mim relatado, Segunda Turma, DJe 19.12.2024; dentre outros.
+Outrossim, a ofensa à Constituição, se existente, seria reflexa ou indireta, de índole infraconstitucional, o que inviabiliza o processamento do recurso em apreço, consoante iterativa jurisprudência desta Corte: ARE 1.524.430 AgR/RS, Rel. Min. Alexandre de Moraes, Primeira Turma, DJe 23.1.2025; ARE 1.436.869 AgR/SP, Rel. Min. Rosa Weber (Presidente), Plenário, DJe 25.7.2023; ARE 1.462.494 AgR/MA, Rel. Min. Luís Roberto Barroso (Presidente), Plenário, DJe 9.1.2024; ARE 1.430.477 ED-AgR/SC, por mim relatado, Segunda Turma, DJe 6.7.2023; dentre outros.
+Ante o exposto, nego seguimento aos recursos (art. 21, § 1º, do RI/STF).
+Publique-se.
+Brasília, 4 de março de 2026.
+Ministro GILMAR MENDES
+Relator
+Documento assinado digitalmente
