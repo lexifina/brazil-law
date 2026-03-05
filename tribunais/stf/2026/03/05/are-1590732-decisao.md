@@ -1,0 +1,40 @@
+DECISÃO:
+Trata-se de recurso extraordinário com agravo contra decisão de inadmissão do recurso extraordinário.
+O recurso foi interposto com fundamento na alínea "a" do permissivo constitucional.
+O acórdão recorrido  ficou assim ementado:
+
+Policial militar. Apelação Criminal. Perseguição. Artigo 147-A do Código Penal. Preliminares da defesa pela rejeição da denúncia, diante da inépcia ou da ausência de justa causa; bem como pela incompetência da Justiça Militar. Preliminares afastadas. Tese da defesa pela insuficiência de provas para a condenação. Pugna pelo afastamento das conversas de WhatsApp, eis que os prints de tela devem ser considerados como provas ilícitas. Negado provimento ao apelo. Dosimetria da pena privativa de liberdade mantida.
+1. O pedido da defesa de rejeição da denúncia vem em momento inoportuno, após o julgamento da causa. Não obstante, não foi demonstrada inépcia ou ausência de justa causa. Não há que se falar em incompetência da Justiça Militar, porquanto o crime de perseguição é crime militar, nos termos do artigo 9º, II, “a”, do CPM. O delito não prevê a relação familiar ou doméstica como requisito para sua configuração; além do que, os fatos denotam a afetação da instituição militar, pois em parte ocorreram na Companhia, durante o serviço.
+2. O conjunto probatório dos autos é robusto no sentido de que o apelante perseguia a vítima com o fim de reatarem o relacionamento. Por diversas vezes, de maneira reiterada, foi ao encalço da vítima, com quem tinha um filho, muitas vezes valendo-se da criança, para encontrá-la e pressioná-la. A perseguição ocorreu, ainda, através do WhatsApp, no sentido de pressionar a vítima a dizer onde e com quem estava, bem como tudo o que havia feito. Verificou-se, ainda, a ameaça à integridade física e psicológica da vítima, restringindo-lhe a capacidade de locomoção, afora a invasão e perturbação de sua liberdade e privacidade.
+3. As declarações da vítima na fase inquisitiva e que trouxeram base para a instauração da investigação foram confirmadas em juízo e corroboradas pelas testemunhas de acusação. A versão do apelante restou isolada nos autos.
+4. Os prints de tela do aparelho telefônico da vítima e a extração das conversas do aplicativo WhatsApp da testemunha de acusação foram corroborados pela prova oral para embasar a condenação. O entendimento do Superior Tribunal de Justiça é no sentido de que não havendo demonstração da quebra da cadeia de custódia ou indício de fraude ou violação dos prints de conversas de WhatsApp, não há que se falar em quebra da cadeia de custódia, e imprestabilidade da prova.
+5. Preenchidos todos os requisitos previstos no artigo 147-A do CP, a condenação deve ser mantida, assim como a dosimetria da pena privativa de liberdade.
+
+Opostos os embargos de declaração, foram rejeitados.
+No recurso extraordinário sustenta-se violação do(s) art.(s) 1º, III; 5º, LIV e LV; e 93, IX, da Constituição Federal.
+Decido.
+Analisados os autos, no que tange à alegação de violação do(s) art(s). 93, IX, da Constituição, verifica-se que a decisão de inadmissão do recurso extraordinário está amparada em aplicação de precedente firmado com base na sistemática da repercussão geral.
+Todavia, o art. 1.042 do Código de Processo Civil é expresso sobre o não cabimento de agravo dirigido ao STF nas hipóteses em que a negativa de seguimento do recurso extraordinário tiver como base exclusivamente a sistemática da repercussão geral, sendo essa decisão passível de impugnação somente por agravo interno (art. 1.030, § 2º, do CPC/2015). Sobre o tema, destaque-se:
+
+“EMBARGOS DE DECLARAÇÃO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO EXTRAORDINÁRIO COM AGRAVO. CONVERSÃO EM AGRAVO REGIMENTAL. PROCESSUAL CIVIL. APLICAÇÃO DA SISTEMÁTICA DA REPERCUSSÃO GERAL NA ORIGEM: AUSÊNCIA DE PREVISÃO LEGAL DE RECURSO PARA O SUPREMO TRIBUNAL FEDERAL. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO” (ARE nº 1.109.295/RS-ED-ED, Tribunal Pleno, Rel. Min. Cármen Lúcia, DJe de 25/09/2018).
+
+Assim, não conheço do recurso quanto ao(s) capítulo(s) acima referenciado(s).
+Ademais, verifica-se que o Plenário da Corte, nos autos do ARE nº 748.371/MT, Relator o Ministro Gilmar Mendes (Tema 660), reafirmou o entendimento de que a afronta aos princípios da legalidade, do devido processo legal, da ampla defesa, do contraditório, dos limites da coisa julgada ou da prestação jurisdicional que dependa, para ser reconhecida como tal, da análise de normas infraconstitucionais configura apenas ofensa indireta ou reflexa à Constituição Federal, o que não enseja reexame da questão em recurso extraordinário. Nesse sentido:
+
+“Agravo regimental no recurso extraordinário com agravo. Administrativo. Militar. Cerceamento de defesa. Indeferimento de provas. Repercussão geral. Ausência. Proventos com remuneração correspondente ao grau hierárquico superior. Legislação infraconstitucional. Ofensa reflexa. Fatos e provas. Reexame. Impossibilidade. Precedentes. 1. A afronta aos princípios da legalidade, do devido processo legal, da ampla defesa, do contraditório, dos limites da coisa julgada ou da prestação jurisdicional, quando depende, para ser reconhecida como tal, da análise de normas infraconstitucionais, configura apenas ofensa indireta ou reflexa à Constituição Federal. 2. Esse entendimento foi reafirmado em sede de repercussão geral. Vide: i) ARE nº 748.371/MT, Relator o Ministro Gilmar Mendes, DJe de 1º/8/13 - Tema 660 e ii) ARE nº 639.228/RJ, Relator o Ministro Cezar Peluso, DJe de 31/8/11 - Tema 424. 3. Inviável, em recurso extraordinário, o reexame dos fatos e das provas dos autos e a análise da legislação infraconstitucional. Incidência das Súmulas nºs 279 e 636/STF. 4. Agravo regimental não provido, com imposição de multa de 1% do valor atualizado da causa (art. 1.021, § 4º, do CPC). 5. Havendo prévia fixação de honorários advocatícios pelas instâncias de origem, seu valor monetário será majorado em 10% (dez por cento) em desfavor da parte recorrente, nos termos do art. 85, § 11, do Código de Processo Civil, observados os limites dos §§ 2º e 3º do referido artigo e a eventual concessão de justiça gratuita” (ARE nº 1.143.354-AgR, Rel. Min. Dias Toffoli, DJe de 01/02/2019).
+
+Além disso, verifica-se que, para ultrapassar o entendimento do Tribunal de origem, seria necessário analisar a causa à luz da interpretação dada à legislação infraconstitucional pertinente e reexaminar os fatos e as provas dos autos, o que não é cabível em sede de recurso extraordinário, nos termos da Súmula 279/STF. Sobre o tema, a propósito:
+
+“Agravo regimental no recurso extraordinário com agravo. Matéria criminal. Fatos e provas. Reexame. Impossibilidade. Legislação infraconstitucional. Ofensa Reflexa. Precedentes. 1. Não se presta o recurso extraordinário para o reexame dos fatos e das provas constantes dos autos, tampouco para a análise da legislação infraconstitucional. Incidência das Súmulas nºs 279 e 636/STF. 2. Agravo regimental não provido” (ARE 1183314/CE - AgR, Tribunal Pleno, Rel. Min. Dias Toffoli, DJe de 15/04/2019).
+
+“AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. MATÉRIA CRIMINAL. MANUTENÇÃO DOS FUNDAMENTOS DA DECISÃO AGRAVADA. REEXAME DE FATOS E PROVAS. SÚMULA 279 DO STF. AGRAVO REGIMENTAL DESPROVIDO. 1. A inexistência de argumentação apta a infirmar o julgamento monocrático conduz à manutenção da decisão recorrida. 2. O recurso extraordinário esbarra no óbice previsto na Súmula 279 do STF, por demandar o reexame de fatos e provas. 3. Agravo regimental desprovido” (ARE 1165382/SP - AgR, Segunda Turma, Rel. Min. Edson Fachin, DJe de 04/03/2020).
+
+“RECURSO EXTRAORDINÁRIO COM AGRAVO – MATÉRIA PENAL – ALEGADA VIOLAÇÃO AO PRECEITO INSCRITO NO ART. 5º, LVII, DA CONSTITUIÇÃO DA REPÚBLICA – REEXAME DE FATOS E PROVAS – IMPOSSIBILIDADE – SÚMULA 279/STF – AGRAVO INTERNO IMPROVIDO” (ARE 1131709 AgR, Segunda Turma, Rel. Min. Celso de Mello, DJe de 30/10/2018).
+
+Ante o exposto, nego seguimento ao recurso (alínea c do inciso V do art. 13 do Regimento Interno do Supremo Tribunal Federal).
+Publique-se.
+Brasília, 5 de março de 2026.
+
+Ministro EDSON FACHIN
+Presidente
+Documento assinado digitalmente
