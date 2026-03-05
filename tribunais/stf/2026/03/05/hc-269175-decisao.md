@@ -1,0 +1,39 @@
+DECISÃO:
+Vistos.
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de Rian Flávio Lopes da Silva contra decisão monocrática proferida por Ministro do Superior Tribunal de Justiça (e-doc. 20).
+Consta dos autos que o paciente foi pronunciado pela prática, em tese, dos crimes tipificados nos arts. 121, § 2º, II, III e IV, e 157, caput, ambos do Código Penal.
+Neste writ, a defesa sustenta, em síntese, que o paciente é inimputável, sendo a hipótese de absolvição sumária imprópria, nos termos do art. 415, parágrafo único, do Código de Processo Penal.
+Alega, ainda, que a negativa de autoria apresentada em autodefesa, sem qualquer lastro probatório, não pode ser considerada uma segunda tese defensiva.
+Requer, ao final:
+“O conhecimento e julgamento do presente Habeas Corpus posto que, como  exposto, não foi interposto Recurso em Sentido Estrito pela Defensoria Pública.
+Requer, também, a concessão da medida liminar, para determinação de  sobrestamento do processo de primeiro grau até ao trânsito em julgado do mérito do  presente Habeas Corpus e, quando do julgamento de mérito deste, a ratificação da medida  liminar e a decisão de cassação da decisão de pronúncia do acusado ora paciente, bem  como a determinação ao Magistrado de primeiro grau, de prolação de nova decisão, desta  vez, no sentido da absolvição sumária imprópria do acusado ora paciente, não se  olvidando a hipótese da ordem ser concedida de ofício e de serem requisitadas  informações.
+Por fim e, de forma subsidiária, pugna pela determinação ao  Tribunal a quo, para que, em prazo razoável (antes do dia 06 de abril  próximo, que é o dia agendado para julgamento pelo Júri Popular),  conheça do prévio mandamus lá impetrado e julgue-o quanto ao mérito. ”
+É o relatório. Fundamento e decido.
+Transcrevo, no que interessa à presente impetração, trecho da decisão monocrática combatida:
+“O Superior Tribunal de Justiça firmou compreensão de que o habeas corpus não pode ser utilizado como substitutivo do recurso legalmente previsto para a hipótese, impondo-se o não conhecimento da impetração quando assim manejado.
+(...)
+Ademais, a propósito do disposto no art. 647-A do CPP, verifica-se que o acórdão impugnado não possui ilegalidade flagrante que permita a concessão da ordem de ofício, consoante analisado a seguir.
+Conforme já ressaltado na decisão que indeferiu o pedido de liminar, foram expressamente indicados os motivos para a solução adotada pelo Tribunal de origem. No ponto (fls. 23-27):
+O recorrente argumenta que a única tese defensiva sustentada foi a de Todavia, sem razão. inimputabilidade penal do acusado. Todavia, sem razão.
+De fato, a inimputabilidade do réu, ora paciente, foi reconhecida por laudo pericial (Esquizofrenia - CID10: F20 – id. 28633240) e homologada por sentença nos autos de insanidade mental de nº 0810489-25.2023.815.2002, conforme id. 28633240.
+Ocorre que, conforme é cediço, nos termos do  art. 415 do CPP, somente é possível a absolvição sumária do réu – denunciado por crime doloso contra a vida –, diante do reconhecimento de sua inimputabilidade, se esta é a única tese sustentada pela defesa em suas alegações finais. Com efeito, apresentada a tese da negativa de autoria, o julgamento deve ser submetido ao Tribunal do Júri.
+[...]
+No caso em questão, infere-se dos autos que, durante a instrução criminal, o réu, no exercício de sua autodefesa, em seu interrogatório, suscitou a tese de negativa de autoria, de modo que não merece prosperar a alegação de que a única tese defensiva ventilada foi a de inimputabilidade do acusado.
+Outrossim, ao observar atentamente a peça das alegações finais, percebe-se que, apesar de não constar no pedido final, a defesa apresentou a tese subsidiária de negativa de autoria no corpo do petitório: "Ante tal contexto, desnecessário é a defesa ser prolixa em suas razões, mesmo porque, na longínqua e remotíssima hipótese de não ser admitido o laudo pericial, a conduta do réu é atípica, ensejando, de igual forma, juízo absolutório" (id. 28633240 — pág. 02).
+Como se vê, apesar de sucinta, houve a alegação de outra tese defensiva, como expôs o MM Juiz na decisão ora atacada.
+Como visto, o acórdão impetrado está em consonância com a jurisprudência do Superior Tribunal de Justiça de que "o  art. 415, parágrafo único, do Código de Processo Penal, somente permite a absolvição sumária no caso de inimputabilidade prevista no  art. 26 do Código Penal, quando esta for a única tese defensiva, como forma de impedir uma isenção de pena com imposição de medida de segurança".
+(...)
+Diante de tais considerações, portanto, não se constata a existência de nenhuma flagrante ilegalidade passível de ser sanada pela concessão da ordem, ainda que de ofício.
+Ante o exposto, na forma do art. 210 do Regimento Interno do Superior Tribunal de Justiça, não conheço do Habeas Corpus.”. (e-doc. 14)
+O art. 102, I, i, da Constituição Federal preceitua que a competência do Supremo Tribunal Federal para processar e julgar originariamente o habeas corpus será inaugurada “[...] quando o coator for Tribunal Superior ou quando o coator ou o paciente for autoridade ou funcionário cujos atos estejam sujeitos diretamente à jurisdição do Supremo Tribunal Federal, ou se trate de crime sujeito à mesma jurisdição em uma única instância”.
+Na espécie, a ausência da análise pelo colegiado de Tribunal Superior, dos fundamentos constantes da decisão monocrática, impede o conhecimento do writ nesta Suprema Corte.
+Ademais, não verifico a existência de teratologia, flagrante ilegalidade ou abuso de poder para que se realize uma análise “per saltum” das questões trazidas no presente habeas corpus.
+Nesse sentido:
+ “HABEAS CORPUS CONTRA DECISÃO MONOCRÁTICA DE MINISTRO DE TRIBUNAL SUPERIOR. RECORRIBILIDADE. SUPRESSÃO DE INSTÂNCIA. INEXISTÊNCIA DE ILEGALIDADE. PRECEDENTES. 1. Incidência de óbice ao conhecimento da ordem impetrada neste Supremo Tribunal Federal, uma vez que se impugna decisão monocrática de Ministro do Superior de Tribunal de Justiça (HC 151.344-AgR, Rel. Min. ALEXANDRE DE MORAES, Primeira Turma, DJe de 21/3/2018; HC 122.718/SP, Rel. Min. ROSA WEBER, Primeira Turma, DJe de 3/9/2014; HC 121.684-AgR/SP, Rel. Min. TEORI ZAVASCKI, Segunda Turma, DJe de 16/5/2014; HC 138.687-AgR, Rel. Min. CELSO DE MELLO, Segunda Turma, DJe de 1º/3/2017; HC 116.875/AC, Rel. Min. CÁRMEN LÚCIA, Segunda Turma, DJe de 17/10/2013; HC 117.346/SP, Rel. Min. CÁRMEN LÚCIA, Segunda Turma, DJe de 22/10/2013; HC 117.798/SP, Rel. Min. RICARDO LEWANDOWSKI, Segunda Turma, DJe de 24/4/2014; HC 119.821/TO, Rel. Min. GILMAR MENDES, Segunda Turma, DJe de 29/4/2014; HC 122.381-AgR/SP, Rel. Min. DIAS TOFFOLI, Primeira Turma, DJe de 9/10/2014; RHC 114.737/RN, Rel. Min. CÁRMEN LÚCIA, Segunda Turma, DJe de 18/4/2013; RHC 114.961/SP, Rel. Min. DIAS TOFFOLI, Primeira Turma, DJe de 8/8/2013). 2. O exaurimento da instância recorrida é, como regra, pressuposto para ensejar a competência do Supremo Tribunal Federal, conforme vem sendo reiteradamente proclamado por esta Corte (HC 129.142, Rel. Min. MARCO AURÉLIO, Rel. p/ Acórdão Min. ALEXANDRE DE MORAES, Primeira Turma, DJe de 10/8/2017; RHC 111.935, Rel. Min. LUIZ FUX, Primeira Turma, DJe de 30/9/2013; HC 97.009, Rel. p/ Acórdão: Min. TEORI ZAVASCKI, Tribunal Pleno, DJe de 4/4/2014; HC 118.189, Rel. Min. RICARDO LEWANDOWSKI, Segunda Turma, DJe de 24/4/2014). 3. Inexistência de teratologia ou caso excepcional que caracterizem flagrante constrangimento ilegal. 4. Habeas corpus não conhecido” (HC 165.860/SP, Rel. Min. Marco Aurélio, redator p/ acórdão Min. Alexandre de Moraes, Primeira Turma).”
+Diante dos óbices processuais verificados, nos termos do art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal, nego seguimento ao presente habeas corpus, prejudicado o pedido de liminar.
+Publique-se.
+Brasília, 5 de março de 2026.
+
+Ministro DIAS TOFFOLI
+Relator
+Documento assinado digitalmente
