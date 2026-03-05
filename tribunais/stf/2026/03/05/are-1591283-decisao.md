@@ -1,0 +1,42 @@
+DECISÃO:
+Trata-se de recurso extraordinário com agravo contra decisão de inadmissão do recurso extraordinário.
+O recurso foi interposto com fundamento na alínea "a" do permissivo constitucional.
+O acórdão recorrido  ficou assim ementado:
+
+EMENTA: PROCESSUAL CIVIL. CONSTITUCIONAL. TRIBUTÁRIO. APELAÇÃOCÍVEL. MANDADO DE SEGURANÇA. APREENSÃO DE MERCADORIAS PELO FISCO. AUSÊNCIA DA NOTA FISCAL. RETENÇÃO DA MERCADORIA PELO PERÍODO NECESSÁRIO PARA A LAVRATURA DO RESPECTIVO AUTO DE INFRAÇÃO. POSSIBILIDADE. LIBERAÇÃO CONDICIONADA AO PAGAMENTODE TRIBUTO NÃO DEMONSTRADA. AUSÊNCIA DE ABUSIVIDADE NOS ATOS PRATICADOS PELA AUTORIDADE IMPETRADA/RECORRIDA. APELAÇÃOCÍVEL CONHECIDA E DESPROVIDA.
+1. Trata-se de recurso de apelação interposto em face de sentença que denegou a segurança impetrada contra ato consistente na apreensão das mercadorias descritas no Certificado de Guarda de Mercadoria de nº 11/2022.
+2. As súmulas nº 323 do STF e nº 31 do TJCE estabelecem que a manutenção de mercadorias apreendidas constitui medida manifestamente ilegal.
+3. Por outro lado, é cediço que a apreensão de mercadoria só se justifica pelo tempo necessário indispensável à identificação do infrator, da quantidade, espécie e valor da mercadoria, para descrição e comprovação formal da infração tributária e consequentes cominações legais, uma vez que, acaso ausentes tais informações, o Fisco Estadual não reuniria condições de constituir o crédito tributário e proceder a respectiva cobrança.
+4. Na hipótese, resta claro que, além da apreensão da mercadoria, que era transportada sema respectiva nota fiscal, está amparada no art. 123, III, A, item 2 da Lei Estadual nº 12.670 /96, alterada pela Lei Estadual nº 16.258/2017, a mesma não foi utilizada como meio de obter satisfação de crédito tributário, vez que a retenção perdurou por período razoável, somente durante o período necessário à lavratura do respectivo auto de infração, para que se apurasse os dados relevantes a tal procedimento, de modo que, no caso, não se verifica a existência de elementos suficientes a indicar qualquer ilegalidade ou abuso pelo agente de fiscalização tributária com a apreensão das mercadorias, em razão de sua natureza e quantidade.
+5. Apelação Cível conhecida e desprovida.
+
+Opostos os embargos de declaração, foram rejeitados.
+No recurso extraordinário sustenta-se violação do(s) art.(s) 5º, XXII, XXXV, LIV e 170,  da Constituição Federal.
+Decido.
+Analisados os autos, verifica-se que o Plenário da Corte, nos autos do ARE nº 748.371/MT, Relator o Ministro Gilmar Mendes (Tema 660), reafirmou o entendimento de que a afronta aos princípios da legalidade, do devido processo legal, da ampla defesa, do contraditório, dos limites da coisa julgada ou da prestação jurisdicional que dependa, para ser reconhecida como tal, da análise de normas infraconstitucionais configura apenas ofensa indireta ou reflexa à Constituição Federal, o que não enseja reexame da questão em recurso extraordinário. Nesse sentido:
+
+“Agravo regimental no recurso extraordinário com agravo. Administrativo. Militar. Cerceamento de defesa. Indeferimento de provas. Repercussão geral. Ausência. Proventos com remuneração correspondente ao grau hierárquico superior. Legislação infraconstitucional. Ofensa reflexa. Fatos e provas. Reexame. Impossibilidade. Precedentes. 1. A afronta aos princípios da legalidade, do devido processo legal, da ampla defesa, do contraditório, dos limites da coisa julgada ou da prestação jurisdicional, quando depende, para ser reconhecida como tal, da análise de normas infraconstitucionais, configura apenas ofensa indireta ou reflexa à Constituição Federal. 2. Esse entendimento foi reafirmado em sede de repercussão geral. Vide: i) ARE nº 748.371/MT, Relator o Ministro Gilmar Mendes, DJe de 1º/8/13 - Tema 660 e ii) ARE nº 639.228/RJ, Relator o Ministro Cezar Peluso, DJe de 31/8/11 - Tema 424. 3. Inviável, em recurso extraordinário, o reexame dos fatos e das provas dos autos e a análise da legislação infraconstitucional. Incidência das Súmulas nºs 279 e 636/STF. 4. Agravo regimental não provido, com imposição de multa de 1% do valor atualizado da causa (art. 1.021, § 4º, do CPC). 5. Havendo prévia fixação de honorários advocatícios pelas instâncias de origem, seu valor monetário será majorado em 10% (dez por cento) em desfavor da parte recorrente, nos termos do art. 85, § 11, do Código de Processo Civil, observados os limites dos §§ 2º e 3º do referido artigo e a eventual concessão de justiça gratuita” (ARE nº 1.143.354-AgR, Rel. Min. Dias Toffoli, DJe de 01/02/2019).
+
+Ademais, colhe-se do voto condutor do acórdão atacado a seguinte fundamentação:
+
+[...]
+In casu, depreende-se, dos autos, que, em 14/02/2022 (segunda-feira), a Polícia Rodoviária Federal abordou, no km 19 da BR 116, o veículo de placa KXJ8641-RJ, que transportava 1200 caixas de cigarro GIFTfabricados pela empresa Quality In, ora apelante, ocasião em que o motorista apresentou as notas fiscais nº 3928, 3930, 3931, 3954, 3971, 3977 e 3991 aos agentes federais. [...]
+Nesse cenário, foi lavrado o Termo Circunstanciado de Ocorrência nº 1514265220214111548 (págs. 150/156), tendo a PRFencaminhou as mercadorias à SEFAZ para serem adotadas as providências cabíveis. [...]
+Ocorre que, no caso sob análise, resta claro que, alémda apreensão da mercadoria está amparada no art. 123, III, A, item 2 da Lei Estadual nº 12.670 /96, alterada pela Lei Estadual nº 16.258/2017, a mesma não foi utilizada como meio de obter satisfação de crédito tributário.
+Isso porque se tratava de vultuoso volume de mercadorias transportadas desacompanhadas de nota fiscal (1.000 caixas de cigarro), carga esta avaliada em R$ 2.674.900,00 (dois milhões seiscentos e setenta e quatro mil e novecentos reais), em que se mostrava necessária criteriosa conferência quantitativa, bem como a identificação da responsabilidade tributária do sujeito passivo pela infração tributária identificada, o que somente foi possível após o comparecimento do motorista à delegacia de polícia, ocorrida em 18/02/2022, e o efetivo reconhecimento, pela Quality In TabacosIndústria e Comércio de Cigarros Importação e Exportação, da propriedade de todo o carregamento de cigarros desacompanhado de notas fiscais.
+Por outro lado, verifica-se que pouco tempo depois de concluída a ação fiscal (22/02/2022), foi efetivada a liberação da mercadoria em 25/02/2022, de modo que não se verifica qualquer abusividade nos atos praticados pela autoridade impetrada/recorrida, especialmente quando se considera o enorme volume de mercadoria apreendida, o que, certamente, demanda um certo tempo para operacionalização da sua liberação pelo Fisco. [...]
+
+Desse modo, verifica-se que o Tribunal de origem decidiu a controvérsia com fundamento na legislação infraconstitucional local aplicável à espécie e no conjunto fático-probatório dos autos, cuja análise se revela inviável em sede de recurso extraordinário.
+Incidem, na espécie, os óbices das Súmulas 279 e 280 do STF, segundo as quais: “Para simples reexame de prova não cabe recurso extraordinário” e “Por ofensa a direito local não cabe recurso extraordinário”. Nesse sentido:
+
+“AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. DIREITO AMBIENTAL. AÇÃO CIVIL PÚBLICA. OBRA PARA RECUPERAÇÃO DE IMÓVEL. IMPOSSIBILIDADE DE REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO E DA LEGISLAÇÃO LOCAL: SÚMULAS 279 E 280 DO SUPREMO TRIBUNAL FEDERAL. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO”. (ARE 1.085.165-AgR, Rel. Min. Cármen Lúcia, Plenário,DJe de 26/03/2018)
+
+“RECURSO EXTRAORDINÁRIO COM AGRAVO – ALEGADA VIOLAÇÃO A PRECEITOS CONSTITUCIONAIS – DIREITO LOCAL – SÚMULA 280/STF – REEXAME DE FATOS E PROVAS – IMPOSSIBILIDADE – SÚMULA 279/STF – SUCUMBÊNCIA RECURSAL (CPC, ART. 85, § 11) – NÃO DECRETAÇÃO, NO CASO, POR TRATAR-SE DE RECURSO DEDUZIDO CONTRA DECISÃO PUBLICADA SOB A ÉGIDE DO CPC/73 – AGRAVO INTERNO IMPROVIDO”. (ARE 949.507-AgR, Rel. Min. Celso de Mello, Segunda Turma, DJe de 09/10/2020)
+Ante o exposto, nego seguimento ao recurso (alínea c do inciso V do art. 13 do Regimento Interno do Supremo Tribunal Federal).
+Havendo prévia fixação de honorários advocatícios pelas instâncias de origem, seu valor monetário será majorado em 10% (dez por cento) em desfavor da parte recorrente, nos termos do art. 85, § 11, do Código de Processo Civil, observado os limites dos §§ 2º e 3º do referido artigo e a eventual concessão de justiça gratuita.
+Publique-se.
+Brasília, 5 de março de 2026.
+
+Ministro EDSON FACHIN
+Presidente
+Documento assinado digitalmente
