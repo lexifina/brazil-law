@@ -1,0 +1,7 @@
+Resolução Nº 59
+RESOLUÇÃO BCB Nº 59, DE 23 DE DEZEMBRO DE 2020
+Dispõe sobre os critérios gerais para mensuração e reconhecimento de obrigações sociais e trabalhistas pelas administradoras de consórcio e pelas instituições de pagamento.
+Dispõe sobre os critérios gerais para mensuração e reconhecimento de obrigações sociais e trabalhistas pelas administradoras de consórcio, pelas instituições de pagamento, pelas sociedades corretoras de títulos e valores mobiliários, pelas sociedades distribuidoras de títulos e valores mobiliários e pelas sociedades corretoras de câmbio autorizadas a funcionar pelo Banco Central do Brasil. (Redação dada, a partir de 1º/3/2024, pela Resolução BCB nº 367, de 25/1/2024.)
+Dispõe sobre os critérios gerais para mensuração e reconhecimento de obrigações sociais e trabalhistas pelas instituições obrigadas a utilizar o Padrão Contábil das Instituições Reguladas pelo Banco Central do Brasil – Cosif por força da Resolução BCB nº 92, de 6 de maio de 2021. (Redação dada pela Resolução BCB nº 553, de 3/3/2026.)
+A Diretoria Colegiada do Banco Central do Brasil, em sessão realizada em 23 de dezembro de 2020, com base nos arts. 6º e 7º, inciso III, da Lei nº 11.795, de 8 de outubro de 2008, 9º, incisos II e IX, alínea "b", e 15 da Lei nº 12.865, de 9 de outubro de 2013,
+R E S O L V E :
