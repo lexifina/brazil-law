@@ -1,0 +1,7 @@
+Resolução Nº 178
+RESOLUÇÃO BCB Nº 178, D​E 19 DE JANEIRO DE 2022
+Dispõe sobre os critérios contábeis aplicáveis às operações de arrendamento mercantil contratadas pelas administradoras de consórcio e pelas instituições de pagamento autorizadas a funcionar pelo Banco Central do Brasil.
+Dispõe sobre os critérios contábeis aplicáveis às operações de arrendamento mercantil contratadas pelas administradoras de consórcio, pelas instituições de pagamento, pelas sociedades corretoras de títulos e valores mobiliários, pelas sociedades distribuidoras de títulos e valores mobiliários e pelas sociedades corretoras de câmbio autorizadas a funcionar pelo Banco Central do Brasil. (Redação dada, a partir de 1º/7/2024, pela Resolução BCB nº 391, de 12/6/2024.)
+Dispõe sobre os critérios contábeis aplicáveis às operações de arrendamento mercantil contratadas pelas instituições obrigadas a utilizar o Padrão Contábil das Instituições Reguladas pelo Banco Central do Brasil – Cosif por força da Resolução BCB nº 92, de 6 de maio de 2021. (Redação dada pela Resolução BCB nº 553, de 3/3/2026.)
+A Diretoria Colegiada do Banco Central do Brasil, em sessão realizada em 19 de janeiro de 2022, com base nos arts. 6º e 7º, inciso III, da Lei nº 11.795, de 8 de outubro de 2008, 9º, inciso II, e 15 da Lei nº 12.865, de 9 de outubro de 2013, e tendo em vista o disposto no art. 61 da Lei nº 11.941, de 27 de maio de 2009,
+R E S O L V E :
