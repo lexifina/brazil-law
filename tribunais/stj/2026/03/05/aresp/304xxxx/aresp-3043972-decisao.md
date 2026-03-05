@@ -1,0 +1,16 @@
+DECISÃO
+Trata-se de agravo manejado por E V R DOS S contra decisão que não admitiu recurso especial, este interposto com fundamento no art. 105, III, a, da CF, desafiando acórdão proferido pelo Tribunal de Justiça do Estado de Alagoas, assim ementado (fl. 431):
+APELAÇÃO. AÇÃO DE INDENIZAÇÃO POR DANOS MORAIS. SUPOSTA OMISSÃO EM ATENDIMENTO MÉDICO. RESPONSABILIDADE SUBJETIVA DO ESTADO. PEDIDO DE NULIDADE DA SENTENÇA PARA REALIZAÇÃO DE NOVA PERÍCIA. CERCEAMENTO DE DEFESA NÃO CONSTATADO. PRECLUSÃO. ART. 278 DO CPC. A NULIDADE DOS ATOS DEVE SER ALEGADA NA PRIMEIRA OPORTUNIDADE EM QUE COUBER À PARTE FALAR NOS AUTOS, SOB PENA DE PRECLUSÃO. MÉRITO. CULPA NÃO COMPROVADA. INEXISTÊNCIA DE DEMONSTRAÇÃO DE EFETIVO PREJUÍZO POR SUPOSTO ATRASO NA REALIZAÇÃO DO PARTO. LAUDO MÉDICO QUE ATESTA A AUSÊNCIA DE ATRASO NO DIAGNÓSTICO DA MENOR. SENTENÇA MANTIDA. MAJORAÇÃO DOS HONORÁRIOS RECURSAIS. RECURSO CONHECIDO E NÃO PROVIDO.
+Nas razões do recurso especial, a parte agravante aponta violação aos arts. 10, 355, I, e 480 do CPC. Sustenta, em resumo, a nulidade do acórdão a quo, haja vista a ocorrência de cerceamento de defesa.
+O Ministério Público Federal, na condição de fiscal da lei, opinou pelo provimento do recurso (fls. 575/579).
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+De início, verifica-se que a insurgência não merece prosperar.
+Com efeito, o Tribunal de origem houve por bem afastar a alegada nulidade por cerceamento de defesa, sob o entendimento de que não houve a oportuna alegação pela parte, nos seguintes termos (fl. 435):
+19 Inicialmente, passo a analisar a tese de cerceamento de defesa no indeferimento de realização de nova perícia.
+20 Mediante apurado exame dos autos, vislumbro que, após a apresentação do laudo pericial de fls. 298/305, as apelantes se manifestaram às fls. 318/319, oportunidade na qual formularam quesitos complementares, o que restou deferido pelo Juízo de primeiro grau (fl. 324), tendo sido apresentado laudo complementar às fls. 328/330.
+21 Acontece que, quando da petição de fls. 318/319, as recorrentes nada disseram a respeito dos quesitos que ora contestam em sede recursal - questionamentos 4 e 5. Diante disso, a meu ver, precluiu seu direito de impugnação, pois, nos termos do art. 278 do CPC, "A nulidade dos atos deve ser alegada na primeira oportunidade em que couber à parte falar nos autos, sob pena de preclusão", o que não foi providenciado in casu.
+22 Dessa forma, afasto a tese de nulidade da sentença.
+Nesse contexto, é certo que a alteração das premissas adotadas pela Corte de origem, tal como colocada a questão nas razões recursais, a fim de afastar o reconhecimento da preclusão na espécie, demandaria, necessariamente, novo exame do acervo fático-probatório constante dos autos, providência vedada em recurso especial, conforme o óbice previsto na Súmula 7/STJ.
+ANTE O EXPOSTO, nego provimento ao agravo. Levando-se em conta o trabalho adicional realizado em grau recursal, impõe-se à parte recorrente o pagamento de honorários advocatícios equivalentes a 20% (vinte por cento) do valor a esse título já fixado no processo (art. 85, § 11, do CPC), observando-se, contudo, o disposto no art. 98, § 3º, do CPC, em razão da concessão do benefício da assistência judiciária gratuita.
+Publique-se.
+ EMENTA
