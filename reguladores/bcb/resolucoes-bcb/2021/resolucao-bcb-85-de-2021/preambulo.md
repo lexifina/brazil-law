@@ -1,0 +1,8 @@
+RESOLUÇÃO BCB Nº 85, DE 8 DE ABRIL DE 2021
+Dispõe sobre a política de segurança cibernética e sobre os requisitos para a contratação de serviços de processamento e armazenamento de dados e de computação em nuvem a serem observados pelas instituições de pagamento autorizadas a funcionar pelo Banco Central do Brasil.
+Dispõe sobre a política de segurança cibernética e sobre os requisitos para a contratação de serviços de processamento e armazenamento de dados e de computação em nuvem a serem observados pelas instituições de pagamento, pelas sociedades corretoras de títulos e valores mobiliários, pelas sociedades distribuidoras de títulos e valores mobiliários e pelas sociedades corretoras de câmbio autorizadas a funcionar pelo Banco Central do Brasil. (Redação dada, a partir de 1º/3/2024, pela Resolução BCB nº 368, de 25/1/2024.)
+Dispõe sobre a política de segurança cibernética e sobre os requisitos para a contratação de serviços de processamento e armazenamento de dados e de computação em nuvem a serem observados pelas instituições de pagamento, pelas sociedades corretoras de títulos e valores mobiliários, p​elas sociedades distribuidoras de títulos e valores mobiliários, pelas sociedades corretoras de câmbio e pelas sociedades prestadoras de serviços de ativos virtuais autorizadas a funcionar pelo Banco Central do Brasil. (Redação dada pela Resolução BCB nº 552, de 3/3/2026.)
+A Diretoria Colegiada do Banco Central do Brasil, em sessão realizada em 8 de abril de 2021, com base nos arts. 9º, 10 e 15 da Lei nº 12.865, de 9 de outubro de 2013, e tendo em vista o art. 14 da Resolução nº 4.282, de 4 de novembro de 2013,
+R E S O L V E :
+CAPÍTULO I
+DO OBJETO E DO ÂMBITO DE APLICAÇÃO
