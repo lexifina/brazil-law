@@ -1,0 +1,54 @@
+DECISÃO
+
+Trata-se de Ação Penal proposta em face de EDENILSON CARDOSO DA SILVA, julgada procedente, para CONDENAR O RÉU à pena de 1 (um) ano de reclusão e 20 (vinte) dias-multa, cada dia-multa no valor de 1/2 (meio) salário mínimo nacional, em regime inicial aberto para o início do cumprimento da pena, pois incurso nos artigos:
+
+- 286, parágrafo único (incitação ao crime equiparada pela animosidade das Forças Armadas contra os Poderes Constitucionais), do Código Penal, à pena de 20 (vinte) dias-multa, cada dia-multa no valor de 1/2 (meio) salário mínimo nacional.
+- 288 (associação criminosa), do Código Penal, à pena de 1 (um) ano de reclusão.
+
+Foi substituída a pena privativa de liberdade, nos termos do artigo 44, § 2º, do Código Penal, por penas restritivas de direitos, consistentes em:
+- (i) Prestação de serviços à comunidade ou a entidades públicas, pelo total de 225h (duzentas e vinte e cinco horas), observados os limites mensais de cumprimento no mínimo de 30h (trinta horas), em local a ser indicado pelo juízo de execução;
+- (ii) Participação presencial em curso, elaborado pelo Ministério Público Federal, com temática sobre “Democracia, Estado de Direito e Golpe de Estado”, com carga horária de 12h (doze horas), distribuída em 4 (quatro) módulos de 3h (três horas), a ser ministrado pelo juízo da execução;
+- (iii) Proibição de ausentar-se da Comarca em que reside, até a extinção da pena;
+- (iv) Proibição de utilização de redes sociais, até a extinção da pena;
+- (v) Manutenção da suspensão dos passaportes emitidos pela República Federativa do Brasil, em nome da condenada;
+- (vi) Revogação de registro ou porte de arma de fogo, se existente;
+- (vii) 20 (vinte) dias-multa, cada um no valor de 1/2 (meio) salário mínimo à época dos fatos, pela prática do crime previsto no artigo 286, parágrafo único, do Código Penal (incitação ao crime equiparada pela animosidade das Forças Armadas contra os Poderes Constitucionais).
+
+O réu também foi condenado ao pagamento do valor mínimo indenizatório a título de danos morais coletivos de R$ 5.000.000,00 (cinco milhões de reais), a ser adimplido de forma solidária pelos demais condenados, em favor do fundo a que alude o art. 13 da Lei 7.347/1985.
+Foi fixado o regime aberto para o início do cumprimento da pena.
+O acórdão condenatório transitou em julgado em 19/82025 (eDoc. 133).
+Tendo em vista o trânsito em julgado desta Ação Penal, DETERMINEI o início do cumprimento das penas restritivas de direitos, delegando ao Juízo da  5ª Vara Federal de Londrina/PR (eDoc. 134), sendo expedida a carta de ordem respectiva (eDoc. 135).
+A Defesa apresentou petição na qual alega que o sentenciado mora em Apucarana/PR, onde vinha ocorrendo a fiscalização das medidas cautelares anteriormente impostas, e requereu que o cumprimento da pena se dê perante o Juízo da Comarca de Apucarana/PR (eDoc. 152).
+O Juízo da 5ª Fara Federal de Londrina/PR encaminhou expediente no noticia que a Defesa do condenado alegou a impossibilidade de cumprir a pena em Londrina e que iria requerer a este SUPREMO TRIBUNAL FEDERAL a remessa da execução para o Juízo de Federal de Apucarana/PR.
+Em 24/2/2026, o Juízo da 2ª Vara Criminal da Comarca de Apucarana/PR encaminhou a petição da Defesa de EDENILSON CARDOSO DA SILVA, solicitando como pedido principal a isenção ou o parcelamento da pena de multa em 48 (quarenta e oito) parcelas (eDocs.167-171).
+Com vista dos autos, a Procuradoria-Geral da República apresentou manifestação pelo “a) pelo indeferimento dos pedidos de indulto e de isenção da pena de multa; b) pelo deferimento do parcelamento do valor da multa condenatória em quarenta e oito parcelas mensais, iguais e sucessivas, sem prejuízo de que, uma vez determinadas diligências para apuração da real situação econômica da apenada, seja eventualmente exigido o pagamento integral e imediato da referida sanção pecuniária ou revista a quantidade de parcelas fixadas; e c) pela expedição de ofício ao Juízo da 2ª Vara Criminal da Comarca de Apucarana/PR, para que encaminhe relatório atualizado acerca do cumprimento das penas restritivas aplicadas ao condenado.” (eDoc. 174).
+É o breve relato. DECIDO.
+
+A Defesa solicitou a incidência do indulto, quanto à pena de multa aplicada, considerando os critérios presentes no Decreto Presidencial   vigente (Decreto nº 12.790/2025), e consequentemente, a extinção de punibilidade do requerente, argumentado, em síntese que  “considerando os critérios previstos no Decreto Presidencial de Indulto vigente, especialmente no que tange à natureza da infração; à inexistência de reincidência específica; ao cumprimento regular das penas restritivas de direitos e à situação pessoal e socioeconômica do apenado. A jurisprudência admite, em determinadas hipóteses, a extinção da pena de multa por força do indulto, sobretudo quando seu cumprimento se mostra incompatível com a realidade financeira do condenado.” (eDoc. 170).
+Além disso, a defesa requereu o parcelamento da pena multa, argumentando, em síntese, que o apenado se encontra em situação de vulnerabilidade econômica. Adicionalmente, anexou aos autos, Carteira de Trabalho e Previdência Social, cujo o último contrato de trabalho registrado foi encerrado em 13/7/2011. Foram anexadas, também, despesas de água e luz, além de certidão de nascimento da filha menor de idade, que é de sua responsabilidade, demonstrando a ausência de disponibilidade financeira relevante para adimplemento imediato da pena de multa (eDoc 169).
+Quanto  aos pedidos de extinção da punibilidade, por força do indulto natalino, e de pagamento da pena de multa, assim se manifestou a Procuradoria-Geral da República (eDoc. 152):
+
+“O pedido de isenção da pena de multa imposta no acórdão condenatório não é cabível, frente a ausência de previsão legal.
+Quanto ao pedido de indulto, o eminente Ministro relator, ao apreciar pleito similar na Ação Penal n. 1.575 em 2.1.2026, entendeu inviável a concessão de indulto a delitos praticados contra o Estado Democrático de Direito. Pela identidade de razões, a sorte deste caso deve seguir a daquele.
+É permitido, no entanto, o parcelamento do valor da multa em caso de hipossuficiência do apenado. Nesse sentido, o art. 50 do Código Penal  dispõe que, a requerimento do condenado e conforme as circunstâncias, o juiz poderá permitir que o pagamento da multa seja realizado em parcelas mensais, acrescentando que o “desconto não deve incidir sobre os recursos indispensáveis ao sustento do condenado e de sua família”.
+Por sua vez, o art. 169, § 1º, da Lei n. 7.210/1984 (Lei de Execuções Penais – LEP) dispõe que, após requerimento de parcelamento da multa em prestações mensais, iguais e sucessivas poderá o juiz determinar diligências para verificar a real situação econômica do condenado e, ouvido o Ministério Público, fixará o número de prestações.
+A apreciação do pedido de parcelamento depende, assim, de comprovação mínima da incapacidade financeira do condenado e de sua família para o pronto pagamento da pena de multa aplicada em seu desfavor.
+Na espécie, está demonstrada a incapacidade financeira do apenado para o imediato pagamento da pena de multa cominada. Conforme a cópia da Carteira de Trabalho e Previdência Social – CTPS juntada aos autos, o último contrato de trabalho registrado foi encerrado em 13.7.2011, corroborando a alegação da defesa de que o condenado desenvolve atividades informais. Foram anexadas, também, despesas de água e luz, além de certidão de nascimento, demonstrando que o apenado tem uma filha menor de idade e que é responsável, portanto, pelo seu sustento.
+A manifestação, assim, é a) pelo indeferimento dos pedidos de indulto e de isenção da pena de multa; b) pelo deferimento do parcelamento do valor da multa condenatória em quarenta e oito parcelas mensais, iguais e sucessivas, sem prejuízo de que, uma vez determinadas diligências para apuração da real situação econômica da apenada, seja eventualmente exigido o pagamento integral e imediato da referida sanção pecuniária ou revista a quantidade de parcelas fixadas; e c) pela expedição de ofício ao Juízo da 2ª Vara Criminal da Comarca de Apucarana/PR, para que encaminhe relatório atualizado acerca do cumprimento das penas restritivas aplicadas ao condenado.
+
+Não pode ser acolhido o pedido de indulto, pois esta CORTE  firmou o posicionamento de que os crimes praticados contra a existência do Estado Democrático, de suas instituições e de seus institutos são insuscetíveis de perdão, seja por indulto ou anistia;  o que inviabiliza, portanto, a aplicação referido indulto.
+Destaca-se, ainda, que por falta de expressa previsão legal, não se pode admitir a isenção da pena de multa prevista no preceito secundário da norma penal incriminadora, especialmente quando a sanção pecuniária é aplicada alternativamente em relação à privativa de liberdade para o crime pelo qual o sentenciado foi condenado, como no caso da presente Ação Penal, em que na condenação pela prática do crime tipificado no art. 286, parágrafo único, impôs-se apenas a pena pecuniária.
+A legislação, entretanto, dispõe sobre a possibilidade de o juiz permitir o adimplemento da sanção pecuniária em prestações mensais, a requerimento do condenado e conforme as circunstâncias do caso, conforme preceito inscrito no art. 50 do Código Penal.
+Já a Lei nº 7.210/1984 disciplina o procedimento para o parcelamento da pena de multa em prestações mensais, iguais e sucessivas, que poderá ser admitido pelo juiz, a requerimento do apenado, depois do cumprimento das diligências determinadas para se verificar a sua real situação econômica, se for o caso, e de ouvido o Ministério Público, fixando o número de prestações.
+No caso, a sentenciada comprovou a  sua incapacidade financeira,  corroborando sua hipossuficiência para pagamento imediato da multa imposta.
+Diante do exposto, nos termos do art. 21, do RiSTF, INDEFIRO o pedido de extinção de punibilidade da pena de multa imposta e AUTORIZO o parcelamento da pena de multa o qual foi condenado na presente Ação Penal em 48 (quarenta e oito) parcelas mensais, iguais e sucessivas, sem prejuízo de se determinar diligências para apuração da sua real situação financeira econômica.
+Ressalta-se que a impontualidade no pagamento das prestações ou a melhora da situação econômica financeira do apenado implicará a revogação do benefício ora concedido, nos termos do que dispõe o art. 169, § 2º, da Lei nº 7.210/1984.
+ OFICIE-SE ao  Juízo da 2ª Vara Criminal da Comarca de Apucarana/PR, com cópia da presente decisão, para adoção das providências pertinentes e para encaminhamento de relatório atualizado acerca do cumprimento das penas restritivas aplicadas ao condenado.
+Intimem-se os advogados regularmente constituídos.
+Ciência à Procuradoria-Geral da República.
+Publique-se.
+Brasília, 5 de março de 2026.
+
+Ministro ALEXANDRE DE MORAES
+Relator
+Documento assinado digitalmente
