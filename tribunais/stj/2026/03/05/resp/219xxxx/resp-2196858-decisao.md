@@ -1,0 +1,33 @@
+DECISÃO
+Trata-se de recurso especial interposto por Convém Ipanema Motos Ltda - Filial, com fundamento no art. 105, inciso III, alínea a, da Constituição Federal, no qual se insurge contra o acórdão do Tribunal de Justiça do Estado de Alagoas assim ementado (fls. 142/143):
+DIREITO TRIBUTÁRIO. AGRAVO DE INSTRUMENTO EM AÇÃO ANULATÓRIA DE LANÇAMENTO TRIBUTÁRIO. JUÍZO A QUO QUE INDEFERIU O PLEITO ANTECIPATÓRIO FORMULADO PELA ORA AGRAVANTE. IRRESIGNAÇÃO DA EXECUTADA QUANTO À EXIGÊNCIA DE GARANTIA DO JUÍZO. NÃO ACOLHIDA. EXISTÊNCIA DE EXECUÇÃO FISCAL EM CURSO E AJUIZADA ANTERIORMENTE À AÇÃO DE ORIGEM, PERSEGUINDO OS MESMOS CRÉDITOS DISCUTIDOS NA AÇÃO QUE ORIGINOU O PRESENTE RECURSO. NECESSIDADE DE GARANTIA DO JUÍZO. INTERPRETAÇÃO SISTEMÁTICA DOS ARTS. 16, §1º E 38 DA LEI DE EXECUÇÃO FISCAL, BEM COMO DO ART. 919, §1º, DO CPC/2015, OS QUAIS EXIGEM, PARA FINS DE SUSPENSÃO DA EXECUÇÃO, A GARANTIA DO JUÍZO OU DEPÓSITO INTEGRAL DO MONTANTE DEVIDO. PRECEDENTES DO STJ. DECISÃO RECORRIDA MANTIDA INCÓLUME QUANTO AO INDEFERIMENTO DO PEDIDO LIMINAR. RECURSO CONHECIDO E NÃO PROVIDO. DECISÃO UNÂNIME.
+Os embargos de declaração opostos foram rejeitados (fls. 235/236).
+A parte recorrente sustenta que o art. 151 do Código Tributário Nacional elenca hipóteses autônomas de suspensão da exigibilidade, e que o inciso II (depósito integral) não condiciona o inciso V (decisão judicial liminar ou tutela antecipada) (fls. 167/168). Argumenta que a tutela de urgência deve observar os requisitos processuais de probabilidade do direito e perigo de dano, sem exigir depósito prévio. Aponta que a pretensão no Recurso Especial se limita ao reconhecimento da possibilidade de suspensão com base no art. 151, V, sem depósito integral, afastando reexame fático-probatório e a incidência da Súmula 735 do Supremo Tribunal Federal (fl. 168).
+Argumenta, ainda, que o art. 38 da Lei de Execuções Fiscais (LEF) não condiciona a propositura de ação anulatória a depósito e que interpretação que exige depósito para suspensão por liminar revive norma reconhecida como incompatível com a Constituição, citando orientação do Superior Tribunal de Justiça (STJ) em recurso repetitivo e a Súmula Vinculante 28, do Supremo Tribunal Federal (fls. 173/175).
+Contrarrazões apresentadas às fls. 257/274.
+O recurso foi admitido, (fls. 276/277).
+É o relatório.
+A controvérsia cinge-se à possibilidade de suspender a exigibilidade do crédito tributário, em ação anulatória proposta após ajuizamento de execução fiscal, mediante tutela de urgência, sem depósito integral ou outra forma de garantia do juízo.
+O Tribunal de origem assentou a anterioridade da execução fiscal em relação à ação anulatória e, em razão disso, condicionou a suspensividade postulada à garantia do juízo, nos termos do disposto no art. 151 do Código Tributário Nacional, que dispõe:
+Art. 151. Suspendem a exigibilidade do crédito tributário:
+I - moratória;
+II - o depósito do seu montante integral;
+III - as reclamações e os recursos, nos termos das leis reguladoras do processo tributário administrativo;
+IV - a concessão de medida liminar em mandado de segurança;
+V - a concessão de medida liminar ou de tutela antecipada, em outras espécies de ação judicial;
+VI - o parcelamento.
+A jurisprudência desta Corte é firme no sentido de que, proposta anteriormente a execução fiscal, a suspensão dos atos executivos em virtude de ação anulatória depende da garantia do juízo (depósito, penhora ou caução) ou do depósito integral, não sendo suficiente a mera propositura da ação ou a concessão de tutela provisória desacompanhada de garantia.
+A propósito:
+PROCESSUAL CIVIL E TRIBUTÁRIO. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. EXECUÇÃO FISCAL. SUSPENSÃO DO PROCESSO EXECUTIVO EM RAZÃO DE APRESENTAÇÃO DE SEGURO-GARANTIA EM AÇÃO ANULATÓRIA CONEXA. ACÓRDÃO RECORRIDO PELA IMPOSSIBILIDADE. VIOLAÇÃO DOS ARTS. 489 E 1.022 DO CÓDIGO DE PROCESSO CIVIL - CPC/2015. NÃO OCORRÊNCIA. CONFORMIDADE COM A LEGISLAÇÃO PROCESSUAL E COM A JURISPRUDÊNCIA DO SUPERIOR TRIBUNAL DE JUSTIÇA. EFEITO SUSPENSIVO CONDICIONADO AOS REQUISITOS NECESSÁRIOS À TUTELA PROVISÓRIA. VERIFICAÇÃO. REEXAME FÁTICO-PROBATÓRIO. INADMISSIBILIDADE.
+1. Tendo o recurso sido interposto contra decisão publicada na vigência do Código de Processo Civil de 2015 - CPC/2015, devem ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+2. Não há violação dos arts. 489 e 1.022 do CPC/2015 quando o órgão julgador, de forma clara e coerente, externa fundamentação adequada e suficiente à conclusão do acórdão embargado.
+3. A suspensão do processo executivo fiscal, na hipótese em que o respectivo crédito está sendo discutido em embargos à execução fiscal, ação anulatória ou declaratória de inexistência da relação jurídico-tributária, está condicionada não só ao oferecimento de garantia idônea, como também à relevância da fundamentação e ao perigo de dano irreparável ou de difícil reparação, tal como decidido pela Primeira Seção no REsp n. 1.272.827/PE, repetitivo (tema 526) e nos termos dos arts. 919, § 1º, e 921, inc. II, do CPC/2015.
+4. No caso dos autos, o conhecimento do recurso especial encontra óbice na Súmula 7 do STJ, pois, sem reexame fático-probatório, não há como se concluir por eventual atribuição de efeito suspensivo à ação anulatória para o fim de impedir o prosseguimento da execução fiscal, na medida em que o delineamento fático descrito pelo órgão julgador a quo noticia que, na anulatória, a tutela provisória se limitou ""a determinar a aceitação da garantia, consistente no seguro-garantia, a fim de que o crédito não seja óbice à emissão de Certidão Conjunta Positiva com Efeitos de Negativa de Débitos relativos aos Tributos Federais e à Dívida Ativa da União, bem
+como para determinar a não inscrição do débito no CADIN, até o ajuizamento da Execução Fiscal para onde a garantia seria transferida e reavaliada"".
+5. Agravo interno não provido.
+(AgInt nos EDcl no REsp n. 2.119.972/RJ, relator Ministro Benedito Gonçalves, Primeira Turma, julgado em 23/9/2024, DJe de 25/9/2024.)
+Nesse sentido, a tese da recorrente, ao pretender o reconhecimento da possibilidade de suspensão sem efetivação da garantia, não se harmoniza com entendimento consolidado por essa Corte, quando já existe ação de execução fiscal em curso.
+Além disso, o Tribunal de origem consignou que, mesmo em sede de cognição sumária, não restou demonstrado a probabilidade d o direito para a concessão de tutela de urgência.
+Ante o exposto, conheço do recurso especial e a ele nego provimento.
+Publique-se. Intimações necessárias.
+EMENTA
