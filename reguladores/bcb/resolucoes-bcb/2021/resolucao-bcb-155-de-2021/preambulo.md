@@ -1,0 +1,8 @@
+RESOLUÇÃO BCB Nº 155, DE 14 DE OUTUBRO DE 2021
+Dispõe sobre princípios e procedimentos a serem adotados no relacionamento com clientes e usuários de produtos e de serviços pelas administradoras de consórcio e pelas instituições de pagamento autorizadas a funcionar pelo Banco Central do Brasil.
+Dispõe sobre princípios e procedimentos a serem adotados no relacionamento com clientes e usuários de produtos e de serviços pelas administradoras de consórcio, pelas instituições de pagamento, pelas sociedades corretoras de títulos e valores mobiliários, pelas sociedades distribuidoras de títulos e valores mobiliários e pelas sociedades corretoras de câmbio autorizadas a funcionar pelo Banco Central do Brasil. (Redação dada, a partir de 1º/3/2024, pela Resolução BCB nº 368, de 25/1/2024.)
+Dispõe sobre princípios e procedimentos a serem adotados no relacionamento com clientes e usuários de produtos e de serviços pelas administradoras de consórcio, pelas instituições de pagamento, pelas sociedades corretoras de títulos e valores mobiliários, pelas sociedades distribuidoras de títulos e valores mobiliários, pelas sociedades corretoras de câmbio e pelas sociedades prestadoras de serviços de ativos virtuais autorizadas a funcionar pelo Banco Central do Brasil. (Redação dada pela Resolução BCB nº 552, de 3/3/2026.)
+A Diretoria Colegiada do Banco Central do Brasil, em sessão realizada nos dias 13 e 14 de outubro de 2021, com base nos arts. 6º e 7º, inciso III, da Lei nº 11.795, de 8 de outubro de 2008, 9º, incisos II, VII, IX e X, e 15 da Lei nº 12.865, de 9 de outubro de 2013,
+R E S O L V E :
+CAPÍTULO I
+DO OBJETO E DO ÂMBITO DE APLICAÇÃO
