@@ -1,0 +1,41 @@
+DECISÃO
+
+Trata-se de Habeas Corpus impetrado contra acórdão da Sexta Turma do Superior Tribunal de Justiça, proferido no julgamento do Agravo Regimental no HC 961.298/SP, submetido à relatoria do Ministro OG FERNANDES.
+Consta dos autos, em síntese, que o paciente foi condenado à pena de 10 anos, 4 meses e 13 dias de reclusão, em regime fechado, pela prática do crime de roubo majorado (art. 157, §2º, II, e §2º-A, I, do Código Penal).
+De acordo com a denúncia:
+
+Consta do incluso inquérito policial que, no dia 05 de outubro de 2020, por volta das 12h00, na Avenida Andrômeda, nº 1939, Jardim Satélite, nesta cidade e Comarca de São José dos Campos – SP, JOSÉ CARLOS VELOSO NOGUEIRA, portador do RG nº 44.927.196 SSP/SP, filho de Marilene Veloso Nogueira e Carlos Nogueira, nascido em 28 de setembro de 1985, melhor qualificado a fl. 21, e um indivíduo não identificado, em concurso de agentes caracterizado pelo vínculo subjetivo e divisão material de atos, subtraíram, para eles, mediante grave ameaça exercida com emprego de arma de fogo, a quantia de R$ 27.500,00 (vinte e sete mil e quinhentos reais), pertencente à vítima Gilberto da Silva Alcino, e um telefone celular modelo A5 Samsung, da vítima Helen Alcino Costa Mendes.
+Segundo o apurado, nas condições de tempo e espaço acima especificadas, o denunciado, juntamente de um indivíduo não identificado, unidos e com igual propósito, dirigiram-se até o estabelecimento comercial da vítima, “Lojas Ótimma”, por meio do veículo HB 20, placas FJZ – 1809, com o intuito de efetuar um roubo.
+Por volta do meio-dia, no momento em que as funcionárias Dalva e Helen se deslocavam até o subsolo da loja com um malote contendo R$ 27.500,00 (vinte e sete mil e quinhentos reais), um indivíduo não identificado anunciou o assalto com o emprego de uma arma de fogo. Ato contínuo, de forma violenta, subtraiu o malote das mãos de Helen, bem como o celular desta mesma funcionária.
+Na posse dos valores e bem roubado, referido indivíduo se evadiu, correndo para a via pública. As funcionárias tentaram segui-lo, porém este as ameaçou dizendo que atiraria nelas caso elas continuassem a ir em sua direção.
+A seguir, o indivíduo que praticou o roubo adentrou no veículo HB 20, placas FJZ 1809, conduzido pelo denunciado JOSÉ CARLOS e ambos se evadiram.
+
+Após o trânsito em julgado da condenação, a defesa ajuizou Revisão Criminal no Tribunal de Justiça do Estado de São Paulo, que a indeferiu.
+Impetrou-se, então, Habeas Corpus no Superior Tribunal de Justiça, não conhecido pelo Ministro relator. Essa decisão foi confirmada no julgamento do subsequente Agravo Regimental, conforme ementa:
+
+PROCESSUAL PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. UTILIZAÇÃO COMO SUBSTITUTIVO DE RECURSO PRÓPRIO. IMPOSSIBILIDADE. AGRAVO IMPROVIDO.
+[...]
+
+Nesta ação, busca a defesa a concessão da ordem para que “seja fixada a pena-base no mínimo legal, tendo em vista a absoluta inidoneidade da fundamentação invocada para conferir desvalor às circunstâncias judiciais do delito, sobretudo diante da vedação a utilização de fundamentação abstrata e elemento inerente ao tipo penal; seja reduzida a fração de aumento na terceira fase da dosimetria da pena, em observância ao artigo 68, parágrafo único, do Código Penal, devendo ser afastado o aumento sucessivo das majorantes, haja vista a ausência de fundamentação concreta; seja fixado o regime semiaberto, em observância à quantidade da pena a ser aplicada, e às circunstâncias judiciais absolutamente favoráveis, bem como a inidoneidade manifesta dos fundamentos invocados pelas instâncias ordinárias”.
+ É o relatório. Decido.
+
+A dosimetria da pena está ligada ao mérito da ação penal, ao juízo que é realizado pelo Magistrado sentenciante após a análise do acervo probatório amealhado ao longo da instrução criminal.
+Daí ser inviável, na via estreita do Habeas Corpus, reavaliar os elementos de convicção, a fim de se redimensionar a sanção. O que está autorizado, segundo reiterada jurisprudência desta CORTE, é apenas o controle da legalidade dos critérios invocados, com a correção de eventuais arbitrariedades (HC 217.254 AgR/SP, Rel. Min. ROBERTO BARROSO, Primeira Turma, DJe 6/10/22; RHC 219.144 AgR/RJ, Rel. Min. ALEXANDRE DE MORAES, Primeira Turma, DJe 30/9/2022; HC 217.255 AgR/SP, Rel. Min. NUNES MARQUES, Segunda Turma, DJe 6/10/2022; HC 218.217 AgR/AC, Rel. Min. ROSA WEBER, Primeira Turma, DJe 14/9/2022; HC 213.779 AgR/MS, Rel. Min. ANDRÉ MENDONÇA, Segunda Turma, DJe 2/9/2022; HC 215.768 AgR/SP, Rel. Min. GILMAR MENDES, Segunda Turma, DJe 6/7/2022; HC 214.751 AgR/SP, Rel. Min. EDSON FACHIN, Segunda Turma, DJe 13/6/2022; HC 213.872 AgR/SP, Rel. Min. RICARDO LEWANDOWSKI, Segunda Turma, DJe de 25/5/2022; HC 212.172 AgR/SC, Rel. Min. DIAS TOFFOLI, DJe de 1/7/2022 e HC 188.330 AgR/SP, Rel. Min. LUIZ FUX, Primeira Turma, DJe 23/9/2020).
+No particular, do exame das instâncias ordinárias, soberanas na apreciação do conteúdo fático-probatório, depreende-se que a fixação da pena foi devidamente fundamentada com base nos elementos colhidos sob o crivo do contraditório, dentro da margem de discricionariedade prevista em lei, o que se presta a justificar a valoração efetuada. Conforme destacado pelo STJ:
+
+No presente caso, constata-se que a valoração negativa das circunstâncias judiciais das circunstâncias do crime foi fundamentada em elementos concretos extraídos dos autos que extrapolam os elementos inerentes ao tipo penal (fls. 22 e 54-55).
+Dessa forma, é referenciado o modus operandi do delito a indicar profissionalismo, tendo os autores vindo de outra cidade e feito rondas dias antes e na data do fato para subtração do malote, bem como a quantidade subtraída R$ 27.500,00 (vinte e sete mil e quinhentos reais) – fl. 49.
+Ademais, o entendimento desta Corte Superior é de que "o aumento na terceira fase de aplicação da pena do crime de roubo circunstanciado exige fundamentação concreta, não sendo suficiente para a sua exasperação a mera indicação do número de majorantes" (Súmula n. 443 do STJ).
+Assim, não há ilegalidade no acórdão impugnado, o qual fundamentou o acúmulo das majorantes do concurso de agentes e emprego de arma de fogo (fls. 23-24). Foi ressaltado, ainda, a quantidade de vítimas e o elevado valor do bem, a aumentar a censura do comportamento.
+
+Além de se revelarem idôneos os fundamentos utilizados para a exasperação da pena-base, o entendimento adotado pelo Superior Tribunal de Justiça, no que se refere à terceira fase da dosimetria da pena, também encontra respaldo na jurisprudência desta SUPREMA CORTE, segundo a qual “a orientação contida no parágrafo único do art. 68 do CP não constitui direito subjetivo da parte”; ou seja, “não impede de todo a aplicação cumulativa de causas de aumento de pena”. (HC 193.396/SP, Rel. Min. GILMAR MENDES, DJe de 27/1/2021 e ARE 896843 AgR, Rel. Min. GILMAR MENDES, Segunda Turma, DJe de 23/9/2015). No mesmo sentido: RHC 199.613/SC, Rel. Min. ROSA WEBER, DJe de 16/04/2021; RHC 201.099/SC, Rel. Min. ALEXANDRE DE MORAES, DJe de 5/5/2021 e HC 212676, Rel. Min. ALEXANDRE DE MORAES, DJe de 8/3/2022.
+Em conclusão, a sanção penal foi estabelecida de maneira proporcional e adequada às circunstâncias do caso concreto, “sendo certo não poder se utilizar ‘o habeas corpus para realizar novo juízo de reprovabilidade, ponderando, em concreto, qual seria a pena adequada ao fato pelo qual condenado o Paciente’ (HC 94.655/MT, Rel. Min. Cármen Lúcia)”. (HC 138168, Rel. Min. RICARDO LEWANDOWSKI, DJe de 21/2/2017). Até porque a matéria foi amplamente examinada pelas instâncias antecedentes — de primeiro e segundo grau, inclusive em sede de revisão criminal — mediante a estrita observância do suporte probatório constante dos autos (HC 260189 AgR, Rel. Min. ALEXANDRE DE MORAES, Primeira Turma, DJe de 17/9/2025; HC 247378 AgR, Rel. Min. CRISTIANO ZANIN, Primeira Turma, DJe de 18/11/2024).
+Inalterada a pena, fica prejudicado o pedido de modificação do regime prisional, uma vez que o montante da pena não atende aos requisito objetivo estabelecido no Código Penal (art. 33).
+Em conclusão, não há constrangimento ilegal a ser sanado.
+Diante do exposto, com fundamento no art. 21, §1º, do Regimento Interno do STF, INDEFIRO a ordem de HABEAS CORPUS.
+Publique-se.
+Brasília, 6 de março de 2026.
+
+Ministro ALEXANDRE DE MORAES
+Relator
+Documento assinado digitalmente
