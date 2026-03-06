@@ -1,0 +1,37 @@
+DECISÃO
+Trata-se de agravo interposto por ROGERIO OBERDAN LOPES contra decisão do TRIBUNAL DE JUSTIÇA DO RIO GRANDE DO SUL que não admitiu recurso especial.
+Em primeira instância, o acusado foi condenado a 5 (cinco) anos e 10 (dez) meses de reclusão, em regime inicial semiaberto, e a 588 (quinhentos e oitenta e oito) dias-multa pela prática do crime do art. 33, caput, da Lei nº 11.343/2006 (fls. 320/342).
+O Tribunal de origem negou provimento à apelação da defesa e deu parcial provimento à interposta pelo Ministério Público, para condená-lo, também, pela prática do crime do art. 35 da Lei nº 11.343/206, somando, no total, pena de 8 (oito) anos e 10 (dez) meses de reclusão, em regime inicial fechado, e 1.288 (mil, duzentos e oitenta e oito) dias-multa (fls. 31/57).
+Em recurso especial, alegou que houve busca domiciliar ilícita, já que ausente mandado judicial; que não há prova suficiente para a condenação; que a pena foi fixada sem fundamentação idônea; que faz jus à redução de pena do art. 33, § 4º, da Lei nº 11.343/2006; que a multa aplicada desconsiderou a sua condição econômica (fls. 530/534).
+O recurso especial não foi admitido, em razão da impossibilidade de discutir matéria constitucional e das Súmulas nº 7 e nº 83, STJ (fls. 554/562).
+Em agravo, a defesa argumentou que os dispositivos constitucionais foram citados de maneira periférica e que a discussão é resolvida a partir da violação a artigos de lei federal; que não há necessidade de reexame de prova, mas de avaliar se existe acervo probatório suficiente para a condenação e se as penas aplicadas contam com fundamento idôneo; que os precedentes invocados não se aplicam aos autos, já que houve busca domiciliar sem mandado judicial e sem fundada razão de flagrante deito e que a pena de multa não tem fundamentação concreta e individualizada; que não há a estabilidade e a permanência necessárias à condenação pelo crime do art. 35 da Lei nº 11.343/2006 (fls. 564/576).
+O Ministério Público Estadual contraminutou o agravo (fls. 577/578).
+O Ministério Público Federal opinou pelo não provimento do agravo (fls. 600/604).
+É o relatório. DECIDO.
+O agravo tem por finalidade demonstrar que a decisão de inadmissão não subsiste. A tanto, exige-se impugnação a todos os fundamentos nela invocados (art. 932, inciso III, do Código de Processo Civil). Mais do que, objetivamente, afirmar o desacerto do decidido, compete ao agravante elaborar raciocínio, específico, concreto e detalhado, que revele a impertinência da conclusão a que chegou o Tribunal de origem em juízo de admissibilidade.
+O desatendimento a esses vetores encerra desrespeito à dialeticidade, o que leva à aplicação da Súmula nº 182, STJ, e ao não conhecimento do agravo.
+Confira-se:
+"A ausência de impugnação específica de todos os fundamentos da decisão de inadmissão do recurso especial inviabiliza o conhecimento do agravo em recurso especial, por incidência da Súmula n. 182 do STJ".
+(AgRg no AREsp n. 3.071.669/MT, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 16/12/2025, DJEN de 23/12/2025.).
+"A impugnação dos fundamentos da decisão de inadmissibilidade deve ser realizada de forma concreta e específica, não sendo suficiente a alegação genérica de inaplicabilidade dos óbices processuais, conforme a Súmula n. 182 do STJ".
+(AgRg no AREsp n. 3.037.687/RS, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 16/12/2025, DJEN de 23/12/2025.).
+Acrescente-se que a decisão de inadmissão de recurso especial possui dispositivo único e não pode ser cindida em capítulos autônomos. Na ausência ou deficiência quanto a algum dos fundamentos, o agravo como um todo não pode ser conhecido.
+A esse respeito:
+"A decisão de inadmissibilidade do recurso especial não é formada por capítulos autônomos, mas por um único dispositivo, o que exige que a parte agravante impugne todos os fundamentos da decisão que, na origem, inadmitiu o recurso especial" (AgRg no AREsp n. 2.675.400/MG, relator Ministro Carlos Cini Marchionatti (Desembargador Convocado TJRS), Quinta Turma, julgado em 10/6/2025, DJEN de 16/6/2025.).
+Por isso, detectada a falha em relação à impugnação a um dos óbices, o conhecimento do agravo fica inviabilizado por completo, ainda que nos demais o agravante tenha veiculado fundamentação adequada.
+Fixadas essas premissas, a decisão de inadmissão invocou os seguintes óbices: i) impossibilidade de discutir matéria constitucional em recurso especial (busca domiciliar); ii) Súmula nº 7 (busca domiciliar; pedido de absolvição; fixação da pena de multa); iii) Súmula nº 83, STJ (busca domiciliar; pedido de absolvição; fixação da pena-base; fixação da pena de multa).
+Embora, objetivamente, o agravo tenha feito referência à Súmula nº 7, STJ, não a impugnou em substância.
+No que se refere à Súmula nº 7, STJ, para superá-la, não basta apontar que não há pretensão de reexaminar provas, mas, sim, demonstrar, destacando trechos do acórdão, que, a partir do cenário fático, a discussão é somente jurídica.
+A esse respeito:
+"A impugnação ao óbice da Súmula n. 7 do STJ não pode ser feita de forma genérica, com a mera alegação de sua inaplicabilidade, mas sim, mediante a demonstração de que a tese do recurso especial está adstrita a fatos incontroversos, considerados no ato decisório atacado, de modo a permitir uma revaloração jurídica do acórdão proferido pelo Tribunal de Justiça  .. ".
+(AgRg no AREsp n. 2.799.537/SP, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 1/7/2025, DJEN de 4/7/2025.).
+No agravo, contudo, há mera indicação de inaplicabilidade do óbice, com a afirmação de que não se pretende reexame de prova e a reiteração do próprio recurso especial, sem qualquer destaque do excerto de fato admitido pelo acórdão e que se quer, a partir dos dispositivos ditos violados, ver revalorado.
+De outro aspecto, a Súmula nº 83, STJ, barra o recurso especial quando a pretensão colide com a orientação vigente no Superior Tribunal de Justiça. A decisão de inadmissão, ao invocá-la, listou precedentes que endossam o acórdão e demonstram que, em princípio, o recorrente não tem razão ao buscar a sua modificação.
+Nessa linha, para superar o óbice, cabe ao agravante enumerar julgados contemporâneos ou posteriores àqueles indicados pela decisão agravada, que tratem do mesmo tema, para comprovar que a posição desta Corte, para o caso dos autos, é diversa. Ainda, se o caso for, compete-lhe distinguir os paradigmas apontados da discussão proposta nestes autos, individualizando as razões pelas quais são substancialmente diferentes e não se aplicam.
+Vejamos:
+"Inadmitido o recurso especial com base na Súmula 83 do STJ, a efetiva impugnação dessa decisão exigiria a indicação de precedentes contemporâneos ou posteriores aos mencionados na decisão combatida, demonstrando-se, através de um adequado confronto analítico, que o entendimento jurisprudencial desta Corte Superior é diverso ou que a situação em análise difere substancialmente dos precedentes invocados pelo Tribunal a quo  .. ".
+(AgRg no AREsp n. 2.859.199/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 9/12/2025, DJEN de 17/12/2025.).
+No agravo, porém, as razões defendem, de maneira genérica, que deve ser feita distinção, repetindo as alegações de mérito sobre a matéria.
+Ante o exposto, não conheço do agravo em recurso especial (art. 253, parágrafo único, inciso I, o RISTJ).
+Publique-se. Intimem -se.
+EMENTA
