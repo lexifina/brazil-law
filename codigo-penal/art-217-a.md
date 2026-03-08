@@ -7,4 +7,5 @@ Pena - reclusão, de 10 (dez) a 18 (dezoito) anos, e multa.
 Pena - reclusão, de 12 (doze) a 24 (vinte e quatro) anos, e multa.
 § 4º Se da conduta resulta morte:
 Pena - reclusão, de 20 (vinte) a 40 (quarenta) anos, e multa.
-§ 5º As penas previstas no caput e nos §§ 1º, 3º e 4º deste artigo aplicam-se independentemente do consentimento da vítima ou do fato de ela ter mantido relações sexuais anteriormente ao crime.
+§ 4º-A. É absoluta a presunção de vulnerabilidade da vítima e inadmissível sua relativização.
+§ 5º As penas previstas no caput e nos §§ 1º, 3º e 4º deste artigo aplicam-se independentemente do consentimento da vítima, de sua experiência sexual, do fato de ela ter mantido relações sexuais anteriormente ao crime ou da ocorrência de gravidez resultante da prática do crime.
