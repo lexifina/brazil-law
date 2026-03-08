@@ -1,0 +1,2 @@
+Altera o Decreto-Lei nº 2.848, de 7 de dezembro de 1940 (Código Penal), para prever a presunção absoluta de vulnerabilidade da vítima do crime de estupro de vulnerável e para estabelecer a aplicação das penas desse crime independentemente da experiência sexual da vítima ou da ocorrência de gravidez resultante do estupro.
+O PRESIDENTE DA REPÚBLICA Faço saber que o Congresso Nacional decreta e eu sanciono a seguinte Lei:
