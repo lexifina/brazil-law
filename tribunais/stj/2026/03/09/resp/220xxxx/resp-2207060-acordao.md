@@ -1,0 +1,32 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 03/03/2026 a 09/03/2026, por unanimidade, conhecer do recurso e lhe dar provimento, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Humberto Martins, Ricardo Villas Bôas Cueva e Daniela Teixeira votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro Humberto Martins.
+Não participou do julgamento o Sr. Ministro Moura Ribeiro.
+EMENTA
+RECURSO ESPECIAL. RECUPERAÇÃO JUDICIAL. CRÉDITO DE FGTS. SUBMISSÃO AO PLANO. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. OCORRÊNCIA. OMISSÕES RELEVANTES NÃO SANADAS. RETORNO DOS AUTOS AO TRIBUNAL DE ORIGEM.
+1. O Tribunal de origem deixou de se pronunciar sobre questões relevantes arguidas pela parte em sua petição de agravo de instrumento. Ofensa ao art. 1.022 do CPC/15. Acórdão cassado. Retorno dos autos ao TJ/AL.
+2. Recurso especial provido.
+RELATÓRIO
+Examina-se recurso especial interposto por UNIÃO (FAZENDA NACIONAL), fundamentado, exclusivamente, na alínea "a" do permissivo constitucional.
+Recurso especial interposto em: 2/11/2024.
+Concluso ao gabinete em: 5/5/2025.
+Ação: recuperação judicial de COMPANHIA AÇUCAREIRA CENTRAL SUMAÚMA S/A - EM RECUPERAÇÃO JUDICIAL.
+Decisão interlocutória: determinou à Caixa Econômica Federal manter suspensa a exigibilidade das verbas de FGTS com fatos geradores anteriores a 24/10/2017, esclarecer a existência de débitos posteriores e, no prazo de 30 dias, dar baixa nas verbas de FGTS (principal, juros, atualização, multa e encargos) comprovadamente quitadas nos termos das Cláusulas 6.1 e 8 do PRJ homologado.
+Acórdão: negou provimento ao recurso de agravo de instrumento interposto por UNIÃO (FAZENDA NACIONAL), nos termos da seguinte ementa:
+AGRAVO DE INSTRUMENTO. RECUPERAÇÃO JUDICIAL. DECISÃO QUE DETERMINOU QUE A CAIXA ECONÔMICA FEDERAL MANTENHA SUSPENSA A EXIGIBILIDADE DAS VERBAS DEVIDAS A TÍTULO DE FGTS, COM FATOS GERADORES ANTERIORES A 24/10/2017, BEM COMO DETERMINOU QUE DÊ A BAIXA NAS VERBAS DEVIDAS A TÍTULO DE FGTS (PRINCIPAL, JUROS, ATUALIZAÇÃO, MULTA E ENCARGOS) QUE FORAM DEVIDAMENTE QUITADAS PELA RECUPERANDA. SUPREMO TRIBUNAL FEDERAL POSSUI POSICIONAMENTO NO SENTIDO DE AFASTAR A NATUREZA TRIBUTÁRIA DO FGTS. SUPERIOR TRIBUNAL DE JUSTIÇA ENTENDE QUE AS VERBAS REFERENTES AO FGTS POSSUEM NATUREZA TRABALHISTA, SE SUJEITANDO, ASSIM, AOS EFEITOS DA RECUPERAÇÃO JUDICIAL. FGTS É VERBA DEVIDA AO TRABALHADOR, PODENDO SER INCLUÍDA NO PRJ, COMO CRÉDITO PRIVILEGIADO, NÃO SENDO ALCANÇADO PELO REGRAMENTO JURÍDICO DESTINADO AOS CRÉDITOS DE NATUREZA FISCAL. AUSÊNCIA DE OFENSA A DIREITO DA UNIÃO E DA CAIXA. DESNECESSÁRIA A INTIMAÇÃO DA UNIÃO SOBRE O QUE FOI DECIDIDO NO PRJ. TESE DE DECISÃO SURPRESA AFASTADA. ARGUMENTOS DE QUE O JUÍZO RECUPERACIONAL NÃO DETINHA COMPETÊNCIA PARA APRECIAR O PEDIDO DE NEGOCIAÇÃO DE DÍVIDAS RELATIVAS AO FGTS, DE QUE SERIA IMPOSSÍVEL O PAGAMENTO DO FGTS DIRETAMENTE AOS TRABALHADORES, BEM COMO DE QUE SERIA ILEGAL A DISPENSA/LIQUIDAÇÃO DOS ENCARGOS POR MEIO DE ACORDO/PAGAMENTO AOS TRABALHADORES CAEM POR TERRA. TESE DE QUE A BAIXA DAS VERBAS CONSTITUÍDAS EM DATA ANTERIOR AO AJUIZAMENTO DA RECUPERAÇÃO JUDICIAL NÃO PODERIA SER FEITA SEM A PROVA DO PAGAMENTO NÃO SE SUSTENTA. DECISÃO AGRAVADA MANTIDA. FUNDAMENTAÇÃO PER RELATIONEM. POSSIBILIDADE. AGRAVO INTERNO PREJUDICADO. RECURSO CONHECIDO E NÃO PROVIDO. (e-STJ fls. 987-988)
+Embargos de Declaração: opostos por UNIÃO (FAZENDA NACIONAL), foram rejeitados.
+Recurso especial: alega violação dos arts. 489, § 1º, IV, 1.022, II, parágrafo único, I e II, 9, 10 do CPC, 6, § 7º-B, e 7-A, § 4º, II, da Lei 11.101/2005, 2 da Lei 8.844/1994, 2, § 1º, § 2º, 4, § 4º, 5, 29, e 38 da Lei 6.830/1980, 187 do CTN, 2, 18, 25, 26, e 26-A da Lei 8.036/1990. Além da negativa de prestação jurisdicional, sustenta que créditos de FGTS inscritos em dívida ativa não se submetem aos efeitos da recuperação judicial e devem ser cobrados por execução fiscal. Argumenta que o juízo recuperacional não detém competência para decidir sobre existência, exigibilidade e valor de crédito inscrito em dívida ativa. Assevera que é inválido o pagamento direto de FGTS ao trabalhador, impondo-se o depósito em conta vinculada e preservando-se a cobrança de multas, juros, correção e contribuição social. Aduz que não se pode determinar baixa de créditos sem comprovação específica de pagamento.
+É o relatório.
+EMENTA
+RECURSO ESPECIAL. RECUPERAÇÃO JUDICIAL. CRÉDITO DE FGTS. SUBMISSÃO AO PLANO. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. OCORRÊNCIA. OMISSÕES RELEVANTES NÃO SANADAS. RETORNO DOS AUTOS AO TRIBUNAL DE ORIGEM.
+1. O Tribunal de origem deixou de se pronunciar sobre questões relevantes arguidas pela parte em sua petição de agravo de instrumento. Ofensa ao art. 1.022 do CPC/15. Acórdão cassado. Retorno dos autos ao TJ/AL.
+2. Recurso especial provido.
+VOTO
+- Da negativa de prestação jurisdicional
+As razões recursais tecidas acerca das supostas omissões do TJ/AL residem no argumento de que, apesar de instado a se manifestar por meio de embargos declaratórios, o órgão jurisdicional quedou-se silente, especialmente, no que concerne à alegação de nulidade processual decorrente da ausência de intimação da Fazenda Nacional para se manifestar no processo.
+Da análise dos autos, constata-se que o Tribunal de origem, ao julgar os embargos de declaração opostos pela recorrente, foi omisso quanto a tal argumento. A questão foi objeto de devida insurgência tanto nas razões do agravo de instrumento quanto dos embargos declaratórios.
+Vale consignar que a hipótese não admite que o STJ enfrente diretamente a questão - apesar da regra do art. 1.025 do CPC -, uma vez que sua solução depende do exame de circunstâncias de ordem fática (houve ou não intimação  Em caso negativo, houve ou não prejuízo à recorrente ).
+Assim, impõe-se a cassação do acórdão que apreciou os declaratórios, a fim de que os julgadores se pronunciem, na esteira do devido processo legal, acerca do ponto elencado.
+Fica, destarte, prejudicada a análise das demais questões insertas no recurso especial.
+Forte nessas razões, DOU PROVIMENTO ao recurso especial, para: a) anular o acórdão que julgou os embargos de declaração interpostos pela recorrente; e b) determinar a remessa dos autos ao TJ/AL, a fim de que este se pronuncie, na esteira do devido processo legal, sobre os argumentos elencados nos embargos de declaração opostos em face do acórdão recorrido.
