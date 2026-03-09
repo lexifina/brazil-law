@@ -1,0 +1,93 @@
+DECISÃO
+
+Trata-se de Recurso Extraordinário interposto em face de acórdão proferido pelo Tribunal de Justiça do Estado do Rio Grande do Sul (TJRS), resumido na seguinte ementa (eDoc. 137):
+
+DIREITO PENAL. APELAÇÃO CRIMINAL. HOMICÍDIO QUALIFICADO. DOSIMETRIA DA PENA. CULPABILIDADE E MOTIVOS DO CRIME. CONFISSÃO ESPONTÂNEA. 1. Apelação criminal interposta pela defesa do réu contra sentença que o condenou à pena de 30 anos de reclusão, em regime inicial fechado, pela prática do crime de homicídio qualificado, tipificado no art. 121, § 2º, incisos II e III, e § 4º, do CP. Há três questões em discussão: (i) o afastamento da valoração negativa da culpabilidade; (ii) o afastamento da valoração negativa dos motivos do crime; (iii) o reconhecimento da atenuante da confissão espontânea. 2. CULPABILIDADE. MANTIDA. A valoração negativa da culpabilidade foi devidamente fundamentada, considerando a frieza e a maneira agressiva do réu ao cometer o crime dentro de estabelecimento prisional, demonstrando desprezo pelo sistema de Justiça. A jurisprudência dos tribunais superiores admite a valoração negativa da culpabilidade quando fundamentada em elementos concretos que demonstrem maior reprovabilidade da conduta, como ocorreu no caso em análise. 2.1. MOTIVOS DO CRIME. MANTIDA. Os motivos do crime foram corretamente valorados como fúteis, uma vez que o réu praticou o homicídio com o objetivo de obter transferência de estabelecimento prisional, o que caracteriza desproporcionalidade entre o meio e o fim. A alegação de que o réu era alvo de ameaças de morte dentro da unidade prisional, tal circunstância não foi reconhecida pelo Conselho de Sentença, que, ao contrário, afirmou que o motivo do crime foi a intenção do réu de obter transferência de estabelecimento prisional. 3. CONFISSÃO ESPONTÂNEA. ACOLHIDA. A confissão foi qualificada, a atenuação não deve se dar na fração usual de 1/6. A colaboração, embora existente e relevante, foi parcial em seu escopo, pois buscou afastar a ilicitude da conduta. Nesse diapasão, adoto a fração de 1/12 (um doze avos) para a redução da pena em virtude da confissão qualificada, por entendê-la mais adequada e proporcional à natureza da colaboração prestada pelo apelante e, por conseguinte, redimensionar a pena definitiva do réu para 27 anos e 06 meses de reclusão. APELAÇÃO DA DEFESA PARCIALMENTE PROVIDA,VENCIDA PARCIALMENTE A E. RELATORA.
+
+Consta dos autos, em síntese, que LUIZ RICARDO MARTINS DOS SANTOS foi condenado à pena de 30 anos de reclusão, em regime fechado, pela prática do crime de homicídio qualificado, tipificado no art. 121, § 2º, II e III, e § 4º, do Código Penal (eDoc. 118).
+O acusado interpôs recurso de Apelação, o qual foi provido em parte, tão somente para reconhecer a incidência da atenuante da confissão espontânea qualificada (art. 65, III, “d”, do Código Penal) e, por conseguinte, redimensionar a pena definitiva do réu para 27 anos e 6 meses de reclusão, mantendo-se, no mais, o regime inicial e as demais disposições da sentença condenatória e do voto condutor (eDoc. 137).
+O Ministério Público do Estado do Rio Grande do Sul (MPRS) opôs Embargos de Declaração, os quais foram rejeitados (eDoc. 142).
+No apelo extremo, interposto com amparo no art. 102, III, alínea “a”, da CONSTITUIÇÃO FEDERAL, o MPRS afirma que o acórdão violou o art. 5º, XLVI, da CF/88 (eDoc. 145).
+Argumenta que “A Segunda Câmara Criminal entendeu por reconhecer a atenuante da confissão espontânea na fração de 1/12. [...]. Todavia, ao assim decidir, incorreu em flagrante violação ao artigo 5º, inciso XLVI, da Constituição Federal”.
+Aduz que “no caso em tela, se trata de confissão qualificada, caracterizada quando, apesar de admitir a prática do delito, o acusado o faz com ressalvas, agregando teses defensivas discriminantes ou exculpantes”, e que “o réu realizou uma confissão parcial”.
+Assevera que “ao não admitir integralmente os fatos que lhe foram imputados, o réu deixou de preencher os requisitos para o reconhecimento da atenuante prevista no art. 65, inciso III, alínea "d", do Código Penal”.
+Enfatiza que “a confissão parcial, qualificada pela tentativa de justificar a conduta, mediante a alegação de legítima defesa, não atende à finalidade de colaboração plena com a Justiça”.
+ Requer, assim, o conhecimento e provimento do presente recurso para “reformar o respeitável decisum proferido pelo Tribunal de Justiça do Estado do Rio Grande do Sul, nos termos da fundamentação supra” (eDoc. 145).
+A Corte de origem admitiu o recurso (Doc. 147).
+É o relatório. DECIDO.
+
+O presente recurso preenche os pressupostos de conhecimento definidos na legislação processual.
+Em primeiro lugar, suscita questão constitucional expressamente abordada pelo Tribunal de origem. Está configurado, portanto, o requisito do prequestionamento.
+De outro lado, tem-se que os recursos extraordinários somente serão conhecidos e julgados, quando essenciais e relevantes as questões constitucionais a serem analisadas, sendo imprescindível ao recorrente, em sua petição de interposição de recurso, a apresentação formal e motivada da repercussão geral que demonstre, perante o SUPREMO TRIBUNAL FEDERAL, a existência de acentuado interesse geral na solução das questões constitucionais discutidas no processo, que transcenda a defesa puramente de interesses subjetivos e particulares.
+ Foi cumprida, no caso, obrigação do recorrente de apresentar, formal e motivadamente, a repercussão geral, demonstrando a relevância da questão constitucional debatida que ultrapasse os interesses subjetivos da causa, conforme exigência constitucional, legal e regimental (art. 102, § 3º, da CF/88, c/c art. 1.035, § 2º, do Código de Processo Civil de 2015, e art. 327, § 1º, do Regimento Interno do Supremo Tribunal Federal).
+Destaca-se que (a) o tema controvertido é portador de ampla repercussão e de suma importância para o cenário político, social e jurídico e (b) a matéria não interessa única e simplesmente às partes envolvidas na lide.
+Passo a análise do mérito.
+
+Estes foram os argumentos utilizados pelo TJRS para reconhecer a incidência da atenuante da confissão espontânea qualificada (art. 65, III, “d”, do Código Penal) e, por conseguinte, redimensionar a pena definitiva do réu para 27 anos e 6 meses de reclusão (eDoc. 137, fls. 8-9):
+
+A ratio essendi da atenuante da confissão espontânea reside em premiar o agente que, de alguma forma, contribui para a elucidação dos fatos e facilita a atividade jurisdicional, demonstrando um traço de personalidade que, em tese, indicaria menor periculosidade ou um arrependimento, ainda que incipiente. A admissão da autoria, mesmo que acompanhada de uma justificativa ou de uma tese de desculpa, não anula o seu valor probatório.
+No caso concreto, a confissão do apelante, ao admitir ter sido o autor do ato material que causou a morte, foi de inegável relevância para a formação do convencimento dos jurados. Em um cenário de crime ocorrido no interior de uma cela de estabelecimento prisional, compartilhada por vários detentos, a assunção da autoria pelo réu serviu como um pilar fundamental para a reconstrução da dinâmica delitiva e para a confirmação da autoria, corroborando os elementos colhidos na instrução e afastando dúvidas que poderiam pairar sobre a responsabilidade de outros indivíduos presentes no local.
+O fato de a tese de legítima defesa ter sido rechaçada pelos jurados não desnatura a colaboração prestada. A confissão sobre a autoria do fato principal foi utilizada para alicerçar o decreto condenatório. Negar a incidência da atenuante, em tal hipótese, significaria criar uma situação em que o réu é duplamente apenado: primeiro, porque sua confissão é usada para condená-lo; segundo, porque lhe é negado o benefício legal justamente por ter confessado. Tal paradoxo viola a lealdade processual e o princípio que veda o venire contra factum proprium por parte do Estado-Juiz. Se a confissão, ainda que parcial ou qualificada, é um dos elementos que sustentam a condenação, deve, por coerência e justiça, ser considerada para atenuar a pena.
+O exercício do direito à ampla defesa, que inclui a possibilidade de o réu apresentar a sua versão dos fatos, não pode ser um óbice ao reconhecimento de um direito subjetivo previsto em lei. Condicionar a aplicação da atenuante a uma confissão pura e simples, sem qualquer ressalva ou justificação, seria impor ao acusado uma renúncia tácita ao seu direito de autodefesa, o que é inadmissível em um Estado Democrático de Direito.
+Portanto, ainda que a confissão tenha sido qualificada, porquanto acompanhada da alegação de legítima defesa, sua utilização como elemento para a formação da convicção condenatória torna imperativo o reconhecimento da atenuante prevista no artigo 65, inciso III, alínea "d", do Código Penal.
+Reconhecida a necessidade de aplicar a atenuante da confissão, passo a refazer a dosimetria da pena, mantendo, como já adiantado, todos os demais parâmetros estabelecidos no voto da eminente Relatora.
+[...]
+Frente ao exposto, voto por DAR PARCIAL PROVIMENTO ao recurso, tão somente para reconhecer a incidência da atenuante da confissão espontânea qualificada (art. 65, III, 'd', do Código Penal) e, por conseguinte, redimensionar a pena definitiva do réu para 27 anos e 06 meses de reclusão. , mantendo-se, no mais, o regime inicial fechado e as demais disposições da sentença condenatória e do voto condutor.
+
+Com a devida vênia, entendo que o acórdão recorrido merece reforma.
+No caso dos autos, descabe falar em incidência da confissão espontânea, prevista no art. 65, III, do Código Penal.
+Segundo a exposição de motivos do Código Penal, com a incidência da referida atenuante, “Beneficia-se, como estímulo à verdade processual, o agente que confessa espontaneamente, perante a autoridade, a autoria do crime, sem a exigência, em vigor, de ser a autoria ‘ignorada ou imputada a outrem’”.
+GUILHERME NUCCI enfatiza que a confissão, “para valer como atenuante, necessita ser sincera, demonstrativa do desejo de colaboração efetiva do autor do crime.” (Manual de Direito Penal: volume único. 20 ed., rev., atual. ampl. Rio de Janeiro: Forense, 2024, pág. 403)
+MIRABETE também ensina que “é necessário que a confissão seja completa, não ocorrendo quando o acusado, admitindo a prática do fato, alega, por exemplo, uma discriminante ou dirimente.” (Manual de Direito Penal. Parte geral arts. 1º a 120 do CP. 36 ed. Indaiatuba, SP:  Editora Foco, 2024, pág. 337).
+Ocorre, entretanto, que o TJRS, no caso concreto ora sob análise, em corrente majoritária, concluiu que não obstante a confissão tenha sido qualificada, porquanto acompanhada da alegação de legítima defesa, sua utilização como elemento para a formação da convicção condenatória torna imperativo o reconhecimento da atenuante prevista no artigo 65, III, “d”, do Código Penal.
+No entanto, essa conclusão não está alinhada à jurisprudência desta CORTE, que é firme no sentido de que a confissão qualificada, isto é, aquela em que o agente admite a autoria do delito, mas argui em seu favor uma causa de exclusão da ilicitude ou da culpabilidade, não é suficiente para fazer incidir a atenuante prevista no art. 65, III, “d”, do Código Penal. Transcrevo a ementa do seguinte julgado:
+
+AGRAVO REGIMENTAL EM HABEAS CORPUS. MATÉRIA CRIMINAL. WRIT UTILIZADO COMO SUCEDÂNEO DE REVISÃO CRIMINAL. IMPOSSIBILIDADE. AUSÊNCIA DE ILEGALIDADE EVIDENTE OU TERATOLOGIA. DOSIMETRIA. DISCRICIONARIEDADE DAS INSTÂNCIAS ORDINÁRIAS. CONTROLE DE LEGALIDADE E CONSTITUCIONALIDADE. CONFISSÃO QUALIFICADA. CONCESSÃO DA ATENUANTE PREVISTA NO ART. 65, III, d DO CP. INVIABILIDADE. REEXAME DE PRESTAÇÃO PECUNIÁRIA. REVOLVIMENTO DE FATOS E PROVAS. INVIABILIDADE NA VIA ELIGIDA. AGRAVO REGIMENTAL DESPROVIDO.
+1. O habeas corpus não merece conhecimento na medida em que funciona como sucedâneo de revisão criminal. Precedentes.
+2. Não há ilegalidade evidente ou teratologia a justificar a excepcionalíssima concessão da ordem de ofício.
+3. O julgador, nas instâncias ordinárias, possui discricionariedade para proceder à dosimetria da pena, cabendo aos Tribunais Superiores o controle da legalidade e da constitucionalidade dos critérios empregados na fixação da sanção. Jurisprudência do Supremo Tribunal Federal.
+4. No caso, não há ilegalidade ou arbitrariedade nos critérios adotados pelas instâncias ordinárias para lastrear o acréscimo à pena-base.
+5. A confissão qualificada, segundo consolidada jurisprudência desta Suprema Corte, não enseja a incidência da atenuante prevista no art. 65 ,III, d do CP. Precedentes.
+6. O reexame da prestação pecuniária não pode ser alcançado em sede de habeas corpus pois a análise envolveria, necessariamente, o revolvimento fatos e provas para se aferir a situação econômica da demanda e a proporcionalidade do dano causado pela conduta ilícita.
+7. Agravo regimental desprovido.
+(HC 206.827 AgR, Rel. Min. EDSON FACHIN, Segunda Turma, DJe de 18/4/2022)
+
+No mesmo sentido: RHC 190.420 AgR, Rel. Min. ROSA WEBER, Primeira Turma, DJe de 9/4/2021; HC 185.975 AgR, Rel. Min. CÁRMEN LÚCIA, Segunda Turma, DJe de 1º/9/2020; HC 119.671, Rel. Min. LUIZ FUX, Primeira Turma, DJe  de 3/12/2013; HC 103.172, Rel. Min. LUIZ FUX, Primeira Turma, DJe de 24/9/2013; HC 74.148, Rel. Min. CARLOS VELLOSO, Segunda Turma, DJ de 21/3/1997.
+Ora, a confissão, para servir como atenuante da pena nos termos do art. 65, III, “d”, do Código Penal, deve ser espontânea, realizada com o intuito de colaborar com a Justiça e elucidar a verdade dos fatos, o que não ocorreu na espécie, em que o réu admitiu a autoria dos fatos, mas alegou que agiu em legítima defesa.
+Convém destacar o seguinte trecho do voto divergente no acórdão do TJRS que, embora vencido, afastou as teses defensivas do apelante e não aplicou a circunstância atenuante atinente à confissão espontânea (eDoc. 137, fls. 3-5):
+
+A defesa, em suas razões recursais, impugna especificamente a dosimetria da pena, concentrando-se em três pontos: culpabilidade, motivos do crime e confissão espontânea.
+Sustenta que a valoração negativa da culpabilidade baseou-se em elementos genéricos e abstratos, como o fato de o crime ter sido praticado dentro de estabelecimento prisional, o que não seria suficiente para majorar a pena-base.
+Sem razão, contudo.
+[...].
+Sobre a culpabilidade, esta diz respeito à demonstração do grau de reprovabilidade da conduta praticada e seu exame pressupõe a análise de “maior ou menor censurabilidade da conduta delituosa praticada, não apenas em razão das condições pessoais do agente, como também em vista da situação em que ocorrida a prática criminosa” (STJ, AgRg no HC 612.171/SP, Rel. Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 20/10/2020, DJe 27/10/2020).
+No caso em análise, a valoração negativa da culpabilidade foi devidamente fundamentada na sentença. O fato de o crime ter sido praticado dentro do estabelecimento prisional, por si só, não seria suficiente para majorar a pena-base. Contudo, o magistrado não se limitou a esse aspecto, destacando a frieza e a maneira agressiva no modo de agir do réu, demonstrando desprezo pelo sistema de Justiça e pelos deveres inerentes à condição de pessoa segregada.
+A jurisprudência dos tribunais superiores admite a valoração negativa da culpabilidade quando fundamentada em elementos concretos que demonstrem maior reprovabilidade da conduta, como ocorreu no caso em análise.
+Não se trata de bis in idem ou juízo de valor moralizante, mas de adequada individualização da pena.
+[...]
+Assim, considerando a frieza e maneira agressiva no consciente modo de agir do réu, tem-se por exacerbada a culpabilidade do réu, motivo pelo qual merece elevação na pena-base.
+Quanto aos motivos do crime, a defesa postula o afastamento da valoração negativa dos motivos do crime, alegando que o apelante era alvo de ameaças de morte dentro da unidade prisional, o que justificaria, ao menos parcialmente, sua motivação.
+O pleito não merece acolhimento.
+Primeiramente, cumpre destacar que o Conselho de Sentença reconheceu expressamente a qualificadora do motivo fútil, afirmando que o réu praticou o crime com o objetivo de obter transferência de estabelecimento prisional.
+[...]
+O desejo de obter transferência de estabelecimento prisional mediante a prática de homicídio revela desproporcionalidade entre o meio empregado e o fim almejado, caracterizando a futilidade do motivo. Não se pode admitir que a simples vontade de mudar de presídio justifique o sacrifício da vida de outrem.
+Portanto, mantenho a valoração negativa dos motivos do crime.
+Por fim, a defesa postula o reconhecimento da atenuante da confissão espontânea, argumentando que o réu admitiu a prática do homicídio, detalhando como se deu a luta travada dentro da cela.
+O pleito também não merece acolhimento.
+Conforme se depreende dos autos, o réu, em seu interrogatório, admitiu ter sido o autor da conduta que lhe foi imputada na denúncia, mas alegou ter agido em legítima defesa e sem a intenção de matar a vítima.
+Trata-se, portanto, da chamada confissão qualificada, assim considerada aquela em que o agente, embora atribua a si a prática da infração penal que lhe está sendo imputada, agrega, em seu favor, fatos ou circunstâncias que excluem o crime ou que o isentem de pena.
+[...]
+No caso em análise, o réu confessou a autoria do fato, mas alegou ter agido em legítima defesa e sem a intenção de matar a vítima, tese que foi rejeitada pelo Conselho de Sentença.
+Trata-se, portanto, de confissão qualificada, que não enseja o reconhecimento da atenuante da confissão espontânea.
+Assim, tenho que a dosimetria da pena foi realizada de forma adequada, com fundamentação idônea para a valoração negativa das circunstâncias judiciais da culpabilidade e motivos do crime, bem como para o não reconhecimento da atenuante da confissão espontânea.
+Pelo exposto, voto por NEGAR PROVIMENTO ao apelo defensivo.
+
+Entendo, portanto, que, no caso em exame, o TJRS não decidiu de forma adequada, pois, conforme entendimento firmado por esta CORTE, o fato de o agente admitir a autoria do delito, mas invocar em seu favor uma causa excludente de ilicitude ou de culpabilidade, não é suficiente para a aplicação da atenuante prevista no art. 65, III, 'd', do Código Penal.
+Diante do exposto, DOU PROVIMENTO ao Recurso Extraordinário para cassar o acórdão proferido pelo Tribunal de Justiça do Estado do Rio Grande do Sul e, consequentemente, reestabelecer a sentença proferida na Ação Penal nº 5013361-63.2022.8.21.0035/RS, na qual se afastou o reconhecimento da atenuante da confissão espontânea.
+Comunique-se com urgência.
+Publique-se.
+Brasília, 9 de março de 2026.
+
+Ministro ALEXANDRE DE MORAES
+Relator
+Documento assinado digitalmente
