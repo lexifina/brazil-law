@@ -1,0 +1,36 @@
+DECISÃO: AGRAVO EM RECURSO EXTRAORDINÁRIO. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DA DECISÃO DE INADMISSIBILIDADE. DEFICIÊNCIA DE FUNDAMENTAÇÃO. INCIDÊNCIA DA SÚMULA 287 DO SUPREMO TRIBUNAL FEDERAL. INVIABILIDADE DO AGRAVO. ART. 21, § 1º, DO RISTF. NEGATIVA DE  SEGUIMENTO.
+
+Trata-se de agravo interposto contra decisão de inadmissibilidade do recurso extraordinário, com base no art. 102, III, “a”, da Constituição Federal, apresentado por Rodolfo Roni de Brito, em face do acórdão do Tribunal de Justiça do Estado de São Paulo assim ementado:
+
+“DIREITO PENAL. APELAÇÃO CRIMINAL DEFENSIVA. TRÁFICO DE DROGAS. NULIDADE DA BUSCA DOMICILIAR. REJEIÇÃO. MÉRITO. PROVIMENTO PARCIAL. I. Caso em Exame 1. O apelante foi condenado por tráfico de drogas, com pena de 6 anos e 8 meses de reclusão, em regime inicial fechado, além de 666 dias-multa. A defesa busca a absolvição por nulidade da busca domiciliar sem justa causa e, subsidiariamente, a redução da pena e alteração do regime prisional. II. Questão em Discussão 2. A questão em discussão consiste em (i) a legalidade da busca domiciliar sem mandado judicial em caso de flagrante delito e (ii) a adequação da pena aplicada ao apelante. III. Razões de Decidir 3. A busca domiciliar foi considerada legal, pois o crime de tráfico de drogas é permanente, permitindo a entrada sem mandado em situação de flagrante, conforme entendimento do STF e jurisprudência consolidada. 4. A pena foi parcialmente reduzida devido à exclusão da circunstância relativa à natureza da droga, resultando em uma nova pena de 5 anos e 10 meses de reclusão e 583 diasmulta. IV. Dispositivo 5. Recurso parcialmente provido. Redimensionando a sanção privativa para 5 anos e 10 meses de reclusão e 583 dias-multa.(Apelação Criminal nº 1500629-86.2024.8.26.0541 - 14ª Câmara de Direito Criminal do Tribunal de Justiça de São Paulo Relator(a) FREIRE TEOTÔNIO, j. 16.7.2025)
+
+Na minuta, sustenta-se violação dos arts. 5º, XI e XLVI, da Constituição da República. Afirma que “a decisão recorrida, ao validar a prova ilícita, afrontou diretamente a autoridade da tese firmada no Tema 280 e violou o art. 5º, XI e LVI, da Constituição“.
+É o relatório.
+Decido.
+O recurso não comporta seguimento.
+Da análise dos autos, verifica-se que o Tribunal de origem inadmitiu o recurso extraordinário pelos seguintes fundamentos:
+
+“Com efeito, não foi atendido o pressuposto objetivo da adequação, porquanto se pretende discutir também suposta ofensa a preceito infraconstitucional. Nesse passo, como afirmado pelo Excelso Supremo Tribunal Federal: RECURSO EXTRAORDINÁRIO MATÉRIA FÁTICA E LEGAL INADEQUAÇÃO. O recurso extraordinário não é meio próprio ao revolvimento da prova nem serve à interpretação de normas legais.1 (grifo nosso).
+De outra banda, o recurso extraordinário foi interposto sem a fundamentação necessária, apta a autorizar o seu processamento, consoante determina o artigo 1.029 do Código de Processo Civil.
+O Excelso Pretório, considerando a importância desse requisito formal, já firmara em Súmula (verbete nº 284) que é inadmissível o recurso quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia. No mesmo sentido a manifestação do aludido Sodalício: O recurso extraordinário é inadmissível quando a deficiência de sua fundamentação inviabilizar a exata compreensão da controvérsia, ex vi, do enunciado 284 da Súmula do Supremo Tribunal Federal.
+Por outro lado, não foi observada a exigência do prequestionamento, nos termos da Súmula 282 do Supremo Tribunal Federal.
+[...]
+Além disso, diante da matéria aventada no reclamo seria necessário o exame prévio da legislação infraconstitucional, incidindo em ofensa indireta ou reflexa, razão pela qual se mostra impossível a admissibilidade do recurso extraordinário.
+Por fim, a análise das questões suscitadas demanda o revolvimento de fatos e provas, sendo aplicável à hipótese a decisão da Corte Suprema de que:
+Não se revela cabível proceder, em sede recursal extraordinária, a indagações de caráter eminentemente probatório, especialmente quando se busca discutir elementos fáticos subjacentes à causa penal. No caso, a verificação da procedência, ou não, das alegações deduzidas pela parte recorrente implicará necessário reexame de fatos e de provas, o que não se admite na sede excepcional do apelo extremo. Essa pretensão sofre as restrições inerentes ao recurso extraordinário, em cujo âmbito não se reexaminam fatos e provas, circunstância essa que faz incidir, na espécie, a Súmula 279 do Supremo Tribunal Federal. Não custa enfatizar, consoante adverte o magistério da doutrina (ADA PELLEGRINI GRINOVER, ANTONIO MAGALHÃES GOMES FILHO e ANTONIO SCARANCE FERNANDES, “Recursos no Processo Penal”, p. 269/270, item n. 176, 1996, RT), que o reexame dos fatos e das provas constitui tema estranho ao âmbito de atuação do recurso extraordinário (Súmula 279/STF), ainda que se cuide, como no caso, de matéria de índole penal9 .
+Consigno, ademais, o seguinte julgado do Supremo Tribunal Federal: O recurso extraordinário é instrumento de impugnação de decisão judicial inadequado para a valoração e exame minucioso do acervo fático-probatório engendrado nos autos (...)” (e-doc. 242)
+
+Contudo, a parte recorrente não impugnou, nas razões do agravo, o fundamento suficiente para a manutenção do julgado, referente à incidência da Súmula 284/STF, limitando-se a reiterar as razões de mérito apresentadas no apelo extremo. Aplicável, na hipótese, o entendimento jurisprudencial vertido na Súmula nº 287/STF: “nega-se provimento ao agravo, quando a deficiência na sua fundamentação, ou na do recurso extraordinário, não permitir a exata compreensão da controvérsia”. Anoto precedentes:
+
+“AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. PENAL. PROCESSO PENAL. PRESCRIÇÃO. ORGANIZAÇÃO CRIMINOSA, ROUBO MAJORADO, LATROCÍNIO TENTADO, DANO, RECEPTAÇÃO, INCÊNDIO, EXPLOSÃO E ADULTERAÇÃO DE SINAL IDENTIFICADOR DE VEÍCULO. DEMONSTRAÇÃO INSUFICIENTE DA PRELIMINAR DE REPERCUSSÃO GERAL. AUSÊNCIA DE IMPUGNAÇÃO DOS FUNDAMENTOS DA INADMISSIBILIDADE DO RECURSO EXTRAORDINÁRIO E DA DECISÃO MONOCRÁTICA DO RECURSO EXTRAORDINÁRIO COM AGRAVO: SÚMULA N. 287 DO SUPREMO TRIBUNAL FEDERAL. AGRAVO REGIMENTAL DESPROVIDO.” (ARE 1470276 AgR, Rel. Min. Cármen Lúcia, 1ª Turma, DJe 06.03.2024)
+
+“AGRAVO INTERNO EM RECURSO EXTRAORDINÁRIO COM AGRAVO. DECISÃO DE INADMISSÃO DO RECURSO EXTRAORDINÁRIO. FUNDAMENTOS. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA. ENUNCIADO N. 287 DA SÚMULA DO SUPREMO. VERBA HONORÁRIA. ART. 85, § 11, DO CÓDIGO DE PROCESSO CIVIL. MAJORAÇÃO CABÍVEL. 1. É inviável o agravo que deixa de atacar especificadamente os fundamentos da decisão de inadmissibilidade de recurso extraordinário. Incidência do enunciado n. 287 da Súmula do Supremo. 2. Majora-se em 1% (um por cento) a verba honorária fixada na origem, observados os limites impostos. Disciplina do art. 85, §§ 2º, 3º e 11, do Código de Processo Civil. 3. Agravo interno desprovido.” (ARE 1438315 AgR, Rel. Min. Nunes Marques, 2ª Turma, 08.03.2024)
+
+ Diante do exposto, com base no art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal, nego seguimento ao recurso.
+Publique-se.
+
+Brasília, 9 de março de 2026.
+
+Ministro FLÁVIO DINO
+Relator
+Documento assinado digitalmente
