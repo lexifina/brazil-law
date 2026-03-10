@@ -1,0 +1,29 @@
+RECURSO EXTRAORDINÁRIO COM AGRAVO. PENAL E PROCESSUAL PENAL. PRESCRIÇÃO DA PRETENSÃO PUNITIVA AFASTADA PELO TRIBUNAL A QUO. ALEGADA VIOLAÇÃO AO ARTIGO 5º, LXXVIII, DA CONSTITUIÇÃO FEDERAL. MATÉRIA DE ÍNDOLE INFRACONSTITUCIONAL. NECESSIDADE DE REVOLVIMENTO DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. IMPOSSIBILIDADE. SÚMULA 279 DO STF. AGRAVO DESPROVIDO.
+
+Decisão: Trata-se de agravo nos próprios autos objetivando reformar a decisão que inadmitiu recurso extraordinário manejado, com arrimo na alínea a do permissivo constitucional, contra acórdão que assentou:
+DIREÇÃO PERIGOSA (art. 311, CTB) — Recurso do acusado — Embargos de declaração — Alegação de ocorrência da prescrição entre a data do recebimento da denúncia e a publicação da sentença — Inocorrência — Para fins do art. 117, IV do Código Penal, tem-se por interrompida a prescrição quando a sentença é tornada pública e não quando publicada no diário da justiça — Ao tornar pública a sentença condenatória há a interrupção da prescrição — Lógica da prescrição é evitar a inércia — Ao tornar pública a sentença, o Estado cumpriu esse objetivo — Inocorrência da prescrição — Embargos de Declaração do acusado rejeitados.
+Os embargos de declaração opostos foram rejeitados.
+Nas razões do apelo extremo, o recorrente sustenta preliminar de repercussão geral e, no mérito, aponta violação ao 5º, LXXVIII, da Constituição Federal.
+A defesa argumenta, em síntese, que decorreu “prazo superior ao legalmente previsto para a manutenção da pretensão punitiva estatal”.
+O Tribunal a quo negou seguimento ao recurso extraordinário, por entender que incidiriam os óbices previstos na Súmula 279 do STF.
+
+É o relatório. DECIDO.
+O presente agravo não merece prosperar.
+Com efeito, a matéria objeto do presente Recurso Extraordinário exige prévia interpretação da legislação infraconstitucional, de modo que eventual ofensa à Constituição revela natureza meramente reflexa.
+Deveras, o Tribunal a quo tão somente interpretou o que dispõem o Código Penal em sentido contrário àquele desejado pela parte ora recorrente, o que configura ofensa indireta à Constituição Federal, não suscetível de apreciação em sede de recurso extraordinário.
+Demais disso, não se revela cognoscível, em sede de recurso extraordinário, a insurgência que tem como escopo o incursionamento no contexto fático-probatório engendrado nos autos. Referida pretensão não se amolda à estreita via do apelo extremo, cujo conteúdo restringe-se a fundamentação vinculada de discussão eminentemente de direito e, portanto, não servil ao exame de questões que demandam o revolvimento do arcabouço fático-probatório dos autos, face ao óbice erigido pela Súmula 279 do STF. Nesse sentido, aliás é a jurisprudência desta Corte:
+
+“Agravo regimental no recurso extraordinário com agravo. 2. Direito Penal e Processual Penal. 3. Crime contra as finanças públicas. Assunção de obrigação no último ano do mandato ou da legislatura. Art. 359-C do Código Penal. 4. Alegação de prescrição retroativa da pretensão punitiva afastada pelo tribunal estadual. Art. 110, §1º, do Código Penal, redação da Lei nº 12.234/2010. 5. Ofensa indireta e reflexa à Constituição Federal. 6. Necessidade de revolvimento do conjunto fático-probatório dos autos. Óbice da Súmula 279/STF. 7. Precedentes. 8. Agravo regimental não provido”. (ARE 1.413.204-AgR, Rel. Min. Gilmar Mendes, Segunda Turma, DJe de 31/03/2023)
+Sob esse enfoque, ressoa inequívoca a vocação para o insucesso do apelo extremo, por força do óbice intransponível do referido verbete sumular, que veda a esta Suprema Corte, em sede de recurso extraordinário, sindicar matéria fática.
+Por oportuno, vale destacar preciosa lição de Roberto Rosas sobre a Súmula 279 do STF:
+“Chiovenda nos dá os limites da distinção entre questão de fato e questão de direito. A questão de fato consiste em verificar se existem as circunstâncias com base nas quais deve o juiz, de acordo com a lei, considerar existentes determinados fatos concretos.
+A questão de direito consiste na focalização, primeiro, se a norma, a que o autor se refere, existe, como norma abstrata (Instituições de Direito Processual, 2ª ed., v. I/175).
+Não é estranha a qualificação jurídica dos fatos dados como provados (RT 275/884 e 226/583). Já se refere a matéria de fato quando a decisão assenta no processo de livre convencimento do julgador (RE 64.051, Rel. Min. Djaci Falcão, RTJ 47/276); não cabe o recurso extraordinário quando o acórdão recorrido deu determinada qualificação jurídica a fatos delituosos e se pretende atribuir aos mesmos fatos outra configuração, quando essa pretensão exige reexame de provas (ERE 58.714, Relator para o acórdão o Min. Amaral Santos, RTJ 46/821). No processo penal, a verificação entre a qualificação de motivo fútil ou estado de embriaguez para a apenação importa matéria de fato, insuscetível de reexame no recurso extraordinário (RE 63.226, Rel. Min. Eloy da Rocha, RTJ 46/666).
+A Súmula 279 é peremptória: ‘Para simples reexame de prova não cabe recurso extraordinário’. Não se vislumbraria a existência da questão federal motivadora do recurso extraordinário. O juiz dá a valoração mais conveniente aos elementos probatórios, atendendo aos fatos e circunstâncias constantes dos autos, ainda que não alegados pelas partes. Não se confunda com o critério legal da valorização da prova (RTJ 37/480, 56/65)(Pestana de Aguiar, Comentários ao Código de Processo Civil, 2ª ed., v. VI/40, Ed. RT; Castro Nunes, Teoria e Prática do Poder Judiciário, 1943, p. 383). V. Súmula STJ-7.“ (Direito Sumular. São Paulo: Malheiros, 2012, 14ª Edição, p. 137-138)
+Consectariamente, forçoso é concluir que, à luz do entendimento desta Corte, o recurso extraordinário a que se refere o presente agravo revela-se inadmissível.
+Ex positis, DESPROVEJO o agravo, com fundamento no artigo 21,    § 1º, do RISTF.
+Publique-se.
+Brasília, 10 de março de 2026
+Ministro LUIZ FUX
+Relator
+Documento assinado digitalmente
