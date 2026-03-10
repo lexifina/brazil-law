@@ -1,0 +1,96 @@
+DECISÃO
+
+RECLAMAÇÃO. ARE Nº 1.487.572/RJ (TEMA RG Nº 1.417) AUSÊNCIA DE ADERÊNCIA.  NEGATIVA DE SEGUIMENTO.  PEDIDO LIMINAR PREJUDICADO.
+
+    1. Trata-se de reclamação, com pedido liminar, formalizada por Cleisson da Cunha Lima, em desfavor de acórdão proferido pela 2ª Turma Recursal do Tribunal de Justiça do Estado de Rondônia, no Processo nº 7068004-41.2024.8.22.0001, mediante o qual teria sido inobservado o que decidido no Recurso Extraordinário com Agravo nº 1.487.572/RJ (Tema nº 1.417 do ementário da Repercussão Geral).
+
+    2. A parte reclamante narra que, na origem, ajuizou ação de indenização por danos morais e materiais contra a companhia aérea beneficiária, devido a cancelamento de voo. Relata que, em  27/11/2025, peticionou nos autos da ação requerendo a imediata suspensão do feito. Expõe que, na mesma data, o órgão reclamado procedeu ao julgamento do recurso, proferindo o acórdão reclamado. Noticia que o trânsito em julgado da decisão mencionada ocorreu em 27/01/2026.
+
+    3. Alega, em síntese, que a autoridade reclamada inobservou ordem de suspensão nacional dos processos proferida nos autos do Recurso Extraordinário com Agravo nº 1.487.572/RJ (Tema nº 1.417 do rol da Repercussão Geral). Defende que o Tribunal de Justiça do Estado de Rondônia usurpou a competência do Supremo Tribunal Federal. Sustenta a nulidade absoluta do acórdão reclamado.
+
+    4. Requer a concessão de liminar para suspender imediatamente os efeitos do acórdão reclamado e determinar o sobrestamento integral do Processo nº 7068004-41.2024.8.22.0001. No mérito, busca a procedência do pedido, para cassar o acórdão reclamado, bem como todos os atos processuais subsequentes, determinando-se o sobrestamento do processo na origem. Pugna pela concessão de gratuidade de justiça.
+
+É o relatório.
+
+Decido.
+
+    5. Inicialmente, defiro os benefícios da assistência judiciária gratuita.
+
+    6. A reclamação, inicialmente concebida como construção jurisprudencial, reveste-se de natureza constitucional, tendo como finalidades a preservação da competência do Supremo Tribunal Federal, a garantia da autoridade de suas decisões (art. 102, inc. I, al. “l”, da CRFB), bem como a observância de enunciado da Súmula Vinculante do STF (art. 103-A, § 3º, da CRFB).
+
+    7. Em sede infraconstitucional, encontra regulação nos arts. 988 a 993 do Código de Processo Civil e, especificamente no âmbito do Supremo Tribunal Federal, nos arts. 156 a 162 do respectivo Regimento Interno.
+
+    8. Ressalto que, nos termos do parágrafo único do art. 161 do Regimento Interno do Supremo Tribunal Federal, “o Relator poderá julgar a reclamação quando a matéria for objeto de jurisprudência consolidada do Tribunal”, o que se apresenta na espécie.
+
+    9. No caso em tela, alega-se inobservância, pela autoridade reclamada, à decisão proferida no ARE nº 1.487.572/RJ, leading case do Tema nº 1.417 da Repercussão Geral, em que se discute:
+
+“(...) à luz do artigo 178, da Constituição Federal, as normas sobre o transporte aéreo prevalecem em relação às normas de proteção ao consumidor para disciplinar a responsabilidade civil por cancelamento, alteração ou atraso de voo por motivo de caso fortuito ou força maior, considerando o princípio da livre iniciativa e as garantias de segurança jurídica, de proteção ao consumidor e de reparação por dano material, moral ou à imagem.”
+
+    10. Com efeito, invocando os poderes do art. 1.035, § 5º, do CPC, em decisão datada de 26/11/2025 no referido ARE, motivada pela multiplicação de decisões conflitantes e risco à segurança jurídica, o Relator Min. Dias Toffoli determinou a suspensão nacional de todos os processos que versem sobre essas questões, nos seguintes termos (grifos no original):
+
+“(...) Ressalte-se que a litigância massiva e a existência de decisões conflitantes também foram colocadas em evidência por ocasião do reconhecimento da repercussão geral da matéria, quando o Ministro Roberto Barroso, então Presidente da Corte, registrou o seguinte:
+“a litigiosidade no Brasil relacionada ao transporte aéreo evidencia a relevância jurídica e social da questão suscitada. Conforme os dados divulgados pela Associação Internacional de Transporte Aéreo (IATA) e pelo Instituto Brasileiro de Direito Aeronáutico (Ibaer), em evento promovido pelo Conselho Nacional de Justiça (CNJ) em 2021, no Brasil, em média, existia uma ação judicial para cada 227 passageiros transportados no ano de 2019. Trata-se de índice elevadíssimo, tomando-se como parâmetro os dados de judicialização no setor aéreo norte-americano, em que se registrou uma ação a cada 1.254.561 passageiros. Esse cenário gera insegurança jurídica, cria obstáculos para o desenvolvimento econômico e onera os custos da atividade no país, com prejuízo aos usuários/consumidores do serviço. Cuida-se, pois, de matéria com repercussão geral, sob todos os pontos de vista (econômico, político, social e jurídico), em razão da relevância e transcendência dos direitos envolvidos.
+Por fim, diante do volume de ações em tramitação sobre a matéria, a solução da presente controvérsia no regime de precedentes qualificados é essencial para garantir uniformidade, isonomia e coerência da jurisprudência constitucional. Trata-se de medida adequada e necessária para dar previsibilidade aos jurisdicionados e diminuir as demandas massificadas.” (e-doc. 35)
+Convém ressaltar, outrossim, que recentemente foi firmado acordo de cooperação técnica entre o Conselho Nacional de Justiça, a Agência Nacional de Aviação Civil e a Secretaria de Aviação Civil do Ministério de Portos e Aeroportos visando exatamente reduzir o número de ações judiciais contra companhias aéreas, além de aprimorar a regulação e a governança no setor. Todavia, pelo que se sabe no momento, tal medida administrativa ainda não logrou reduzir a judicialização no setor.
+Por outro lado, mediante uma rápida pesquisa jurisprudencial, é possível constatar que não há uniformidade das decisões judiciais quanto ao regime jurídico incidente nas hipóteses de responsabilidade das companhias aéreas brasileiras por cancelamento, alteração ou atraso de voos decorrentes de caso fortuito ou força maior — se seria o do Código de Defesa do Consumidor, ou o do Código Brasileiro de Aeronáutica —, o que gera divergência também quanto à aplicação (ou não) de excludentes de responsabilidade e à necessidade (ou não) de comprovação do dano extrapatrimonial para que se tenha direito à indenização.
+Nesse contexto de litigiosidade de massa (e, possivelmente, de litigância predatória) e, por conseguinte, de enorme insegurança jurídica, parece-me de todo conveniente e oportuno suspender o processamento de todos os processos judiciais que versem sobre o assunto discutido nos autos no território nacional, até o julgamento definitivo do presente recurso.
+Penso que, dessa maneira, será possível evitar tanto a multiplicação de decisões conflitantes quanto a situação de grave insegurança jurídica daí decorrente, a qual aflige, igualmente, empresas de transporte aéreo de passageiros e consumidores desse serviço, como também e, sobretudo, desestimular, por ora, a litigiosidade de massa e/ou predatória.
+Ante o exposto, com fundamento no art. 1.035, § 5º, do Código de Processo Civil, determino a suspensão nacional da tramitação de todos os processos judiciais que versem sobre a questão controvertida no Tema nº 1.417 da Repercussão Geral, até o julgamento definitivo deste recurso extraordinário.”
+
+    11. No processo em análise, verifica-se que a ação de indenização por danos morais e materiais ajuizada pelo reclamante — em que se discute a responsabilização civil da empresa aérea por realocação de passageiros em voo em horário distinto do contratado —foi julgada e sentenciada em 29/04/2025. Confiram-se suas razões (e-doc. 3, p. 107 - 109; grifos acrescidos):
+
+“(...) A questão deve ser examinada efetivamente à luz do Código de Defesa do Consumidor e dos princípios a ele inerentes, vez que a demandada é efetiva fornecedora de produtos (passagens aéreas) e prestadora de serviços (administração de venda de passagens aéreas, transporte aéreo, informes promocionais, etc...) e, como tal, deve se acautelar e responder plenamente por suas ações, não se aplicando o Código Brasileiro de Aeronáutica, conforme entendimento remansoso da jurisprudência pátria.
+Deste modo, o dever de reparação por parte da empresa fornecedora de serviços de transporte aéreo é na modalidade responsabilidade objetiva, isto é, dispensa a presença do elemento subjetivo doloso ou culposo (art. 14 do CDC).
+(...)
+Em sua defesa, a requerida alega que o cancelamento do voo ocorreu por conta de uma tempestade, apresentando como prova boletim meteorológico (METAR). Contudo, ao analisar o documento juntado, não se verifica a comprovação clara e objetiva de que, no horário próximo ao embarque do autor, as condições climáticas eram tão severas a ponto de impedir sua decolagem.
+O boletim meteorológico apresentado refere-se a informações colhidas horas antes do horário do voo, sem demonstrar, de forma concreta, que havia interdição de pista ou impossibilidade de operação no momento do embarque. Aliás, o próprio boletim não informa claramente se havia má visibilidade, sem detalhar, ainda, a ocorrência de tempestade intensa.
+Desse modo, os relatórios do METAR, por si só, não são suficientes a comprovar a impossibilidade de operacionalização do pouso e decolagem devido ao mau tempo. Em casos como este, deve-se juntar boletins emitidos pelo órgão responsável pelo sistema de controle de tráfego aéreo que exerce controle sobre o pouso e decolagem de aviões.
+O CDC prevê que a responsabilidade do fornecedor somente é afastada em caso de culpa exclusiva de terceiro ou força maior, devidamente comprovadas (Art. 14, §3º, II, do CDC), o que não se verifica no caso concreto. Cabe à companhia aérea comprovar de forma efetiva e atualizada (coincidente com o dia e horário do voo do consumidor) que o cancelamento decorreu de caso fortuito externo. Neste sentido:
+(...)
+Assim, a mera existência de previsão de instabilidade não basta para afastar a responsabilidade da requerida, sobretudo, porque não trouxe outros documentos mais atualizados ou provas mais consistentes que comprovassem a impossibilidade real de realizar o voo a tempo e modo avençado.
+Além disso, mesmo admitindo-se eventual intercorrência climática, houve falha na prestação de serviço, diante da excessiva demora na reacomodação do autor, que somente conseguiu chegar ao seu destino final mais de 18 horas após o horário originalmente contratado. A assistência material prestada, limitada à disponibilização de hotel e refeições, foi defeituosa. Não justifica a espera excessiva entre o cancelamento do voo no final da noite (22h55) e o encaminhamento para um hotel apenas no final da madrugada (4 horas da manhã), fato este não impugnado pela requerida, de modo que o autor somente conseguiu chegar ao destino final no dia seguinte.
+A instabilidade climática, não afasta o dever da requerida de prestar informações claras e reacomodar o consumidor, ambos de forma célere, com vistas a minimizar os prejuízos causados.
+Considerando a extensão do dano, o tempo de atraso, o desconforto e frustração provocados, fixo o valor da indenização em R$ 3.000,00, valor que se mostra adequado para atender aos fins compensatórios e sancionatório.
+Quanto ao dano material, deve-se restituir o valor de R$ 201,18 referente às despesas devidamente comprovadas pelo autor e não impugnadas pela requerida
+
+Esta é a decisão mais justa e equânime aplicável ao caso concreto (art. 6º, LF 9.099/95). DIPOSITIVO: Ante o exposto, com fulcro nas disposições legais já mencionadas e nos arts. 6º e 38, da LF 9.099/95, JULGO PARCIALMENTE PROCEDENTE O PEDIDO INICIAL para o fim de:
+A) Condenar a requerida no pagamento indenizatório de R$ 3.000,00 (três mil reais), à título de danos morais, acrescido de correção monetária (tabela oficial TJ/RO) e juros legais, simples e moratórios, de1% ao mês, a partir da presente condenação (Súmula 362, STJ); e
+B) Condenar a mesma requerida no pagamento de R$ 201,18 (duzentos e um reais e dezoito centavos), à título de indenização por dano material, corrigido monetariamente desde a data do ajuizamento da ação, devendo ser acrescidos juros legais, simples e moratórios, de 1% (um por cento) ao mês, a contar da citação válida.”
+
+    12. Posteriormente, a 2ª Turma Recursal do Tribunal de Justiça do Estado de Rondônia julgou parcialmente procedente o recurso inominado interposto pela ora beneficiária, reformando a sentença para afastar sua condenação em indenização por danos morais. É o que se extrai do voto proferido (e-doc. 3, p. 45 - 46):
+
+“A relação existente entre as partes é de consumo, estando amparada pela Lei n° 8.078/90, que estabelece, dentre outras regras, a responsabilidade objetiva, ou seja, independente da apuração de culpa, nos termos do seu art. 14, só se eximindo o prestador de serviços se comprovar a ausência de dano, a culpa exclusiva do consumidor ou de terceiro.
+O autor argumenta que sofreu danos morais em razão do cancelamento do voo de retorno referente ao trecho (Chapecó a Porto Velho), sem informação ou assistência material adequadas, sendo reacomodado no dia seguinte e chegou ao destino final com um atraso de aproximadamente 18 (dezoito) horas.
+Cumpre esclarecer que, o atraso ou cancelamento de voo pela companhia aérea não configura dano moral presumido (in re ipsa), sendo necessária a demonstração, por parte do passageiro, da ocorrência de lesão extrapatrimonial.
+Com efeito, vejamos os seguintes julgados do STJ:
+DIREITO CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. OFENSA AOS ARTIGOS 489 E 1.022 DO CPC. AUSÊNCIA. ATRASO EM VOO. DANO MORAL. PRESUNÇÃO. IMPOSSIBILIDADE. PROVAS DO DANO. AUSÊNCIA. MERO ABORRECIMENTO. AGRAVO INTERNO DESPROVIDO. 1. É indevido conjecturar-se ofensa aos artigos 489 e 1.022 doh CPC/2015 apenas porque decidido em desconformidade com os interesses da parte, quando o acórdão manifestou-se expressamente acerca dos temas necessários à integral solução da lide. 2. "A jurisprudência mais recente desta Corte Superior tem entendido que, na hipótese de atraso de voo, o dano moral não é presumido em decorrência da mera demora, devendo ser comprovada, pelo passageiro, a efetiva ocorrência da lesão extrapatrimonial sofrida" (AgInt no AREsp 1.520.449/SP, Rel. Min. RAUL ARAÚJO, QUARTA TURMA, julgado em 19/10/2020, DJe de 16/11/2020). 3. Na hipótese dos autos, não houve comprovação de circunstância excepcional que extrapolasse o mero aborrecimento. 4. Agravo interno desprovido. (AgInt no AREsp n. 2.374.535/SP, relator Ministro Raul Araújo, Quarta Turma, julgado em 23/10/2023, DJe de 26/10/2023.)
+Na hipótese, deixou o recorrido/autor de trazer qualquer prova dos fatos constitutivos de seu direito, de que o suposto cancelamento do voo lhe ocasionou prejuízo sério ou irreparável, ônus que lhe incumbia na forma do inciso I, art. 373, do Código de Processo Civil.
+Assim, não tendo o recorrido/ autor demonstrado que o cancelamento e atraso na viagem causou-lhe prejuízos de ordem extrapatrimonial como abalo a sua personalidade ou honra, ou ainda que tenha ocasionado perda de compromissos inadiáveis ou ganho financeiro esperado, não há de se falar em danos morais.
+(...)
+No que se refere ao dano material, alio-me aos fundamentos expostos na sentença, vez que restou demonstrado as despesas decorrentes do cancelamento do voo.
+Por tais considerações, VOTO no sentido de DAR PARCIAL PROVIMENTO ao recurso inominado interposto por LATAM AIRLINES GROUP S/A, reformando a sentença para afastar a condenação em indenização por danos morais. E VOTO no sentido de NEGAR PROVIMENTO ao recurso inominado interposto por CLEISSON DA CUNHA LIMA.“
+
+    13. No caso sob exame, constata-se que a decisão reclamada não guarda identidade material com o que firmado no paradigma apontado como inobservado.
+
+    14. Verifico que o Tribunal reclamado, ao analisar rigorosamente o conjunto fático-probatório, assentou a inocorrência de caso fortuito ou força maior, premissa mantida em sede de julgamento de recurso inominado.
+
+    15. Assim, constato que não há aderência do presente caso ao Tema RG nº 1.417, pois ausente “cancelamento, alteração ou atraso de voo por motivo de caso fortuito ou força maior”.
+
+    16. Ademais, uma vez delimitada, no caso concreto, a moldura fática pelo Tribunal de origem, notadamente quanto à inexistência de caso fortuito ou força maior, descabe a esta Corte, por meio da reclamação constitucional, o exame de revolvimento do conjunto fático-probatório dos autos, a fim de eventualmente afastá-la. Nesse sentido:
+
+“AGRAVO REGIMENTAL EM RECLAMAÇÃO. ADPF 324/DF. AUSÊNCIA DE ADERÊNCIA ESTRITA. IMPOSSIBILIDADE DE ANÁLISE DO CONJUNTO FÁTICO-PROBATÓRIO. RECLAMAÇÃO COMO SUCEDÂNEO RECURSAL. DESCABIMENTO. AGRAVO A QUE SE NEGA PROVIMENTO. I - A controvérsia posta no Juízo do Trabalho não se fixou, especificamente, na validade da terceirização de mão de obra, esta já admitida pela jurisprudência deste Supremo Tribunal, mas sim na existência de fraude à legislação trabalhista na contratação e no preenchimento dos requisitos necessários à configuração de vínculo de emprego. II - Não houve desrespeito ao que foi decidido pelo Supremo Tribunal na ADPF 324/DF, uma vez que não há identidade entre o ato reclamado e a decisão paradigma indicada. III - Dissentir das razões adotadas pelas instâncias ordinárias quanto à presença dos requisitos necessários para a caracterização de vínculo empregatício demandaria o reexame do conjunto fático-probatório dos autos, circunstância não admitida pela jurisprudência desta Corte. Precedente IV - A reclamação não pode ser utilizada como mero sucedâneo recursal. V - Agravo regimental a que se nega provimento.”
+(Rcl nº 41.017-AgR/BA, Rel. Min. Ricardo Lewandowski, Segunda Turma, j. 06/12/2021 p. 02/02/2022; grifos nossos).
+
+    17. Para além disso, mister haver aderência estrita do objeto do ato reclamado ao conteúdo da decisão paradigma. Em sentido semelhante, confira-se o seguinte precedente desta Corte:
+
+“AGRAVO REGIMENTAL EM RECLAMAÇÃO. AÇÃO TRABALHISTA. CONTRATO DE TERCEIRIZAÇÃO. FRAUDE. FALTA DE ADERÊNCIA ESTRITA AOS PARADIGMAS INVOCADOS. NÃO CABIMENTO DA RECLAMAÇÃO. AGRAVO NÃO PROVIDO. 1. É inviável a reclamação quando o ato reclamado não possui aderência estrita ao paradigma apontado como afrontado. 2. In casu, não há que se falar em preservação da garantia das decisões proferidas na ADPF 324 ou no RE 958.252-RG (processo piloto do Tema 725 da sistemática da repercussão geral), na medida em que a argumentação do ato reclamado não guarda estrita pertinência com os paradigmas invocados, sendo incabível a reclamação. 3. Agravo regimental a que se nega provimento.”
+(Rcl nº 36.432-AgR/MG, Rel. Min. Edson Fachin, Segunda Turma, j. 10/10/2020, p. 19/10/2020; grifos nossos).
+
+    18. Ante o exposto, nego seguimento à reclamação, nos termos do art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal, ficando prejudicado o pedido liminar. Sem honorários, de acordo com entendimento prevalecente na Segunda Turma do Supremo Tribunal Federal.
+
+Publique-se.
+
+Brasília, 10 de março de 2026.
+
+Ministro ANDRÉ MENDONÇA
+Relator
