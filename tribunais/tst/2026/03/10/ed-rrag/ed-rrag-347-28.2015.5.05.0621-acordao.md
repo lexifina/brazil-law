@@ -1,0 +1,62 @@
+Poder Judiciário
+Justiça do Trabalho
+Tribunal Superior do Trabalho
+PROCESSO Nº TST-ED-RRAg - 347-28.2015.5.05.0621
+A C Ó R D Ã O
+2ª Turma
+GMMHM/mam/jsm/la
+EMBARGOS DE DECLARAÇÃO. RECURSO DE REVISTA. INVERSÃO
+DO ÔNUS DA SUCUMBÊNCIA E CUSTAS PROCESSUAIS A CARGO
+DA PARTE RECLAMANTE. Ante o provimento do recurso de
+revista da reclamada e constatado o inteiro esvaziamento da
+condenação imposta, os embargos de declaração devem ser
+acolhidos com efeito modificativo para que seja determinada a
+inversão do ônus da sucumbência, a fim de que o recolhimento
+das custas processuais fique a cargo do reclamante, das quais
+fica isento, pois beneficiário da gratuidade de justiça.
+Acrescenta-se que não houve condenação em honorários
+advocatícios. Embargos de declaração acolhidos com efeito
+modificativo.
+Vistos, relatados e discutidos estes autos de Embargos de Declaração em
+Recurso de Revista com Agravo nº TST-ED-RRAg - 347-28.2015.5.05.0621, em que é Embargante
+VULCABRÁS AZALÉIA - BA, CALÇADOS E ARTIGOS ESPORTIVOS S.A. e é Embargada LÍDIA SULTERO DE
+OLIVEIRA.
+Trata-se de embargos de declaração opostos pela reclamada, que alega
+omissão/contradição no acórdão desta 2ª Turma, em que dado provimento ao recurso de revista.
+Não houve manifestação da parte contrária.
+Regularmente processados, os embargos de declaração são levados a julgamento
+na forma regimental.
+É o relatório.
+V O T O
+INVERSÃO DO ÔNUS DA SUCUMBÊNCIA E CUSTAS PROCESSUAIS A CARGO DA
+PARTE RECLAMANTE
+A reclamada, ora embargante, sustenta, em síntese, a existência de
+omissão/contradição no acórdão embargado quanto à manutenção da condenação ao ônus da
+sucumbência.
+À análise.
+Conforme se observa da decisão embargada, foi dado provimento ao recurso de
+revista da reclamada para excluir a condenação imposta no que se refere às horas extras do intervalo
+intrajornada, restando a parte dispositiva omissa quanto à inversão do ônus da sucumbência.
+Verifica-se também que não houve outras condenações impostas na sentença.
+Assim, ante o provimento do recurso de revista da reclamada e constatado o
+inteiro esvaziamento da condenação imposta, os embargos de declaração devem ser acolhidos com
+efeito modificativo para que seja determinada a inversão do ônus da sucumbência, a fim de que o
+recolhimento das custas processuais fique a cargo do reclamante, das quais fica isento, pois beneficiário
+da gratuidade de justiça. Acrescenta-se que não houve condenação em honorários advocatícios
+Este documento pode ser acessado no endereço eletrônico http://www.tst.jus.br/validador sob código 100669E7379379F237.
+Acolho os embargos de declaração para determinar a inversão do ônus da
+sucumbência e fixar custas a cargo do reclamante, no importe de R$ 1.000,00, calculadas sobre o valor
+arbitrado à causa (R$ 50.000,00), de cujo recolhimento é dispensado, por ser beneficiário da justiça
+gratuita.
+ISTO POSTO
+ACORDAM as Ministras da Segunda Turma do Tribunal Superior do Trabalho, por
+unanimidade, acolher os embargos de declaração para sanar a contradição a fim de determinar a
+inversão do ônus da sucumbência e fixar custas a cargo do reclamante, no importe de R$ 1.000,00,
+calculadas sobre o valor arbitrado à causa (R$ 50.000,00), de cujo recolhimento é dispensado, por ser
+beneficiário da justiça gratuita.
+Brasília, 10 de março de 2026.
+Firmado por assinatura digital (MP 2.200-2/2001)
+MARIA HELENA MALLMANN
+Ministra Relatora
+Firmado por assinatura digital em 11/03/2026 pelo sistema AssineJus da Justiça do Trabalho, conforme MP 2.200-2/2001, que instituiu a Infra-Estrutura
+de Chaves Públicas Brasileira. Este documento pode ser acessado no endereço eletrônico http://www.tst.jus.br/validador sob código 100669E7379379F237.
