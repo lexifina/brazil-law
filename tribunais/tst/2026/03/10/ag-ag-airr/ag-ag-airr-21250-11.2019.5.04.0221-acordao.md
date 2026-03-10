@@ -1,0 +1,206 @@
+Poder Judiciário
+Justiça do Trabalho
+Tribunal Superior do Trabalho
+PROCESSO Nº TST-Ag-Ag-AIRR - 21250-11.2019.5.04.0221
+A C Ó R D Ã O
+Órgão Especial
+GMMGD/ccb/cgc
+A G R A V O . RECURSO EXTRAORDINÁRIO DENEGADO.
+RESPONSABILIDADE SUBSIDIÁRIA DA ADMINISTRAÇÃO
+PÚBLICA COMO TOMADORA DE SERVIÇOS TERCEIRIZADOS.
+AUSÊNCIA DE CONDENAÇÃO POR MERO INADIMPLEMENTO
+OU COM BASE EXCLUSIVAMENTE NA PREMISSA DE INVERSÃO
+DO ÔNUS DA PROVA. COMPROVAÇÃO EFETIVA DA CULPA.
+APLICAÇÃO DOS TEMAS 246 E 1.118 DO EMENTÁRIO DE
+REPERCUSSÃO GERAL DO STF. DESPROVIMENTO. O Supremo
+Tribunal Federal, no Tema 246, estabeleceu que o
+inadimplemento dos encargos trabalhistas de empregados de
+contratada não transfere automaticamente a responsabilidade
+ao Poder Público contratante (art. 71, § 1º, da Lei nº 8.666/93).
+Posteriormente, no RE 1.298.647 RG/SP (Tema 1.118), a Suprema
+Corte reconheceu a repercussão geral da questão sobre a
+legitimidade da transferência ao ente público do ônus de
+comprovar a ausência de culpa na fiscalização do cumprimento
+das obrigações trabalhistas de terceirizados (arts. 5º, II, 37, XXI e
+§ 6º, e 97 da Constituição Federal). O julgamento do referido
+recurso, em 13/02/2025 (DJe 15/4/2025; trânsito em julgado em
+29/4/2025), culminou na fixação da seguinte tese vinculante
+(Tema 1.118): “1. Não há responsabilidade subsidiária da
+Administração Pública por encargos trabalhistas gerados pelo
+inadimplemento de empresa prestadora de serviços contratada, se
+amparada exclusivamente na premissa da inversão do ônus da
+prova, remanescendo imprescindível a comprovação, pela parte
+autora, da efetiva existência de comportamento negligente ou
+nexo de causalidade entre o dano por ela invocado e a conduta
+comissiva ou omissiva do poder público. 2. Haverá
+comportamento negligente quando a Administração Pública
+permanecer inerte após o recebimento de notificação formal de
+que a empresa contratada está descumprindo suas obrigações
+trabalhistas, enviada pelo trabalhador, sindicato, Ministério do
+Trabalho, Ministério Público, Defensoria Pública ou outro meio
+idôneo. 3. Constitui responsabilidade da Administração Pública
+garantir as condições de segurança, higiene e salubridade dos
+trabalhadores, quando o trabalho for realizado em suas
+dependências ou local previamente convencionado em contrato,
+nos termos do art. 5º-A, § 3º, da Lei nº 6.019/1974. 4. Nos contratos
+de terceirização, a Administração Pública deverá: (i) exigir da
+contratada a comprovação de capital social integralizado
+compatível com o número de empregados, na forma do art. 4º-B
+da Lei nº 6.019/1974; e (ii) adotar medidas para assegurar o
+cumprimento das obrigações trabalhistas pela contratada, na
+forma do art. 121, § 3º, da Lei nº 14.133/2021, tais como
+condicionar o pagamento à comprovação de quitação das
+obrigações trabalhistas do mês anterior”. (g.n) Segundo o
+entendimento consolidado no Tema 1.118 pela Suprema Corte, a
+eventual referência à inversão do ônus da prova não impede o
+reconhecimento da responsabilidade subsidiária da
+Administração Pública quando demonstrada a efetiva existência
+de comportamento negligente ou de nexo de causalidade entre
+o dano invocado e a conduta comissiva ou omissiva do poder
+público. No caso concreto, verifica-se que a responsabilidade
+subsidiária atribuída à Administração Pública não se baseou
+exclusivamente na premissa de inversão do ônus da prova ou na
+simples constatação do inadimplemento contratual,
+assentando-se também na efetiva comprovação da culpa do
+poder público na fiscalização do cumprimento das obrigações
+trabalhistas de empregados terceirizados (Tema 246).
+Consequentemente, a decisão recorrida, ao responsabilizar
+subsidiariamente a Administração Pública ante a comprovação
+inequívoca da sua conduta culposa na fiscalização, está em
+perfeita harmonia com os entendimentos consolidados
+Este documento pode ser acessado no endereço eletrônico http://www.tst.jus.br/validador sob código 10066A051AD4C717F5.
+n o s Temas 246 e 1.118 do STF,o que torna o recurso
+extraordinário inadmissível. A decisão agravada, portanto, foi
+proferida em estrita observância às normas processuais (arts.
+1.030, I, “a”, e 1.035, § 8º, do CPC/2015), razão pela qual é
+insuscetível de reforma ou reconsideração. Agravo desprovido.
+Vistos, relatados e discutidos estes autos de Agravo em Agravo em Agravo de
+Instrumento em Recurso de Revista nº TST-Ag-Ag-AIRR - 21250-11.2019.5.04.0221, em que é
+Agravante(s) ESTADO DO RIO GRANDE DO SUL e são Agravado(s)S CLEDIR FERREIRA DOS SANTOS e
+LÍDER VIGILÂNCIA EIRELI.
+Por meio de decisão monocrática, foi denegado seguimento ao recurso
+extraordinário interposto pela Parte Reclamada.
+Inconformada, a Parte interpõe agravo com fundamento no art. 1.021 do
+CPC/2015.
+Foi concedida vista às Partes Agravadas para se manifestarem no prazo de 8 (oito)
+dias.
+As Partes Agravadas não apresentaram manifestação.
+É o relatório.
+V O T O
+I) CONHECIMENTO
+Atendidos todos os pressupostos recursais, CONHEÇO do apelo.
+II) MÉRITO
+RECURSO EXTRAORDINÁRIO DENEGADO. RESPONSABILIDADE SUBSIDIÁRIA DA
+ADMINISTRAÇÃO PÚBLICA COMO TOMADORA DE SERVIÇOS TERCEIRIZADOS. AUSÊNCIA DE
+CONDENAÇÃO POR MERO INADIMPLEMENTO OU COM BASE EXCLUSIVAMENTE NA PREMISSA DE
+INVERSÃO DO ÔNUS DA PROVA. COMPROVAÇÃO EFETIVA DA CULPA. APLICAÇÃO DOS TEMAS 246 E
+1.118 DO EMENTÁRIO DE REPERCUSSÃO GERAL DO STF. DESPROVIMENTO
+A decisão agravada foi proferida nos seguintes termos:
+Trata-se de recurso extraordinário que impugna decisão desta Corte Superior a respeito da
+responsabilidade subsidiária da Administração Pública em relação a serviços terceirizados.
+A Parte argui prefacial de repercussão geral.
+É o relatório.
+O Supremo Tribunal Federal, noTema 246, estabeleceu que o inadimplemento dos encargos
+trabalhistas de empregados de contratada não transfere automaticamente a responsabilidade ao
+Poder Público contratante (art. 71, § 1º, da Lei nº 8.666/93).
+Posteriormente, no RE 1.298.647 RG/SP (Tema 1.118), a Suprema Corte reconheceu a
+repercussão geral da questão sobre a legitimidade da transferência ao ente público do ônus de
+comprovar a ausência de culpa na fiscalização do cumprimento das obrigações trabalhistas de
+terceirizados (arts. 5º, II, 37, XXI e § 6º, e 97 da Constituição Federal).
+O julgamento do referido recurso, em 13/02/2025 (DJe 15/4/2025; trânsito em julgado em
+29/4/2025), culminou na fixação da seguinte tese vinculante (Tema 1.118):
+“1. Não há responsabilidade subsidiária da Administração Pública por encargos
+trabalhistas gerados pelo inadimplemento de empresa prestadora de serviços
+contratada, se amparada exclusivamente na premissa da inversão do ônus da prova,
+remanescendo imprescindível a comprovação, pela parte autora, da efetiva existência de
+comportamento negligente ou nexo de causalidade entre o dano por ela invocado e a
+conduta comissiva ou omissiva do poder público.
+2. Haverá comportamento negligente quando a Administração Pública
+permanecer inerte após o recebimento de notificação formal de que a empresa
+contratada está descumprindo suas obrigações trabalhistas, enviada pelo trabalhador,
+sindicato, Ministério do Trabalho, Ministério Público, Defensoria Pública ou outro meio
+idôneo.
+3. Constitui responsabilidade da Administração Pública garantir as condições de
+segurança, higiene e salubridade dos trabalhadores, quando o trabalho for realizado em
+suas dependências ou local previamente convencionado em contrato, nos termos do art.
+5º-A, § 3º, da Lei nº 6.019/1974.
+4. Nos contratos de terceirização, a Administração Pública deverá: (i) exigir da
+contratada a comprovação de capital social integralizado compatível com o número de
+empregados, na forma do art. 4º-B da Lei nº 6.019/1974; e (ii) adotar medidas para
+assegurar o cumprimento das obrigações trabalhistas pela contratada, na forma do art. Este documento pode ser acessado no endereço eletrônico http://www.tst.jus.br/validador sob código 10066A051AD4C717F5.
+121, § 3º, da Lei nº 14.133/2021, tais como condicionar o pagamento à comprovação de
+quitação das obrigações trabalhistas do mês anterior”. (g.n)
+Segundo o entendimento consolidado no Tema 1.118 pela Suprema Corte, a eventual
+referência à inversão do ônus da prova não impede o reconhecimento da responsabilidade
+subsidiária da Administração Pública quando demonstrada a efetiva existência de
+comportamento negligente ou de nexo de causalidade entre o dano invocado e a conduta
+comissiva ou omissiva do poder público.
+No caso concreto, verifica-se que a responsabilidade subsidiária atribuída à Administração
+Pública não se baseou exclusivamente na premissa de inversão do ônus da prova ou na simples
+constatação do inadimplemento contratual, assentando-se também na efetiva comprovação da
+culpa do poder público na fiscalização do cumprimento das obrigações trabalhistas de
+empregados terceirizados (Tema 246).
+Consequentemente, a decisão recorrida, ao responsabilizar subsidiariamente a Administração
+Pública ante acomprovação inequívoca da sua conduta culposa na fiscalização, está em perfeita
+harmonia com os entendimentos consolidados nos Temas 246 e 1.118 do STF, o que torna o
+recurso extraordinário inadmissível, nos termos do art. 1.030, I, "a", do Código de Processo Civil de
+2015.
+Ante o exposto, nego seguimento ao recurso extraordinário e determino a baixa dos autos à
+origem após o transcurso do prazo recursal, caso não haja manifestação das Partes.
+Nas razões do agravo, a Parte Agravante pugna pela reforma da decisão que
+denegou seguimento ao recurso extraordinário.
+Sem razão, contudo.
+Conforme salientado na decisão agravada, o Supremo Tribunal Federal, no Tema
+246, estabeleceu que o inadimplemento dos encargos trabalhistas de empregados de contratada não
+transfere automaticamente a responsabilidade ao Poder Público contratante (art. 71, § 1º, da Lei nº
+8.666/93).
+Posteriormente, no RE 1.298.647 RG/SP (Tema 1.118), a Suprema Corte
+reconheceu a repercussão geral da questão sobre a legitimidade da transferência ao ente público do
+ônus de comprovar a ausência de culpa na fiscalização do cumprimento das obrigações trabalhistas de
+terceirizados (arts. 5º, II, 37, XXI e § 6º, e 97 da Constituição Federal).
+O julgamento do referido recurso, em 13/02/2025 (DJe 15/4/2025; trânsito em
+julgado em 29/4/2025), culminou na fixação da seguinte tese vinculante (Tema 1.118):
+“ 1 . Não há responsabilidade subsidiária da Administração Pública por encargos trabalhistas
+gerados pelo inadimplemento de empresa prestadora de serviços contratada, se amparada
+exclusivamente na premissa da inversão do ônus da prova, remanescendo imprescindível a
+comprovação, pela parte autora, da efetiva existência de comportamento negligente ou nexo de
+causalidade entre o dano por ela invocado e a conduta comissiva ou omissiva do poder público.
+2. Haverá comportamento negligente quando a Administração Pública permanecer inerte após
+o recebimento de notificação formal de que a empresa contratada está descumprindo suas
+obrigações trabalhistas, enviada pelo trabalhador, sindicato, Ministério do Trabalho, Ministério Público,
+Defensoria Pública ou outro meio idôneo.
+3 . Constitui responsabilidade da Administração Pública garantir as condições de segurança,
+higiene e salubridade dos trabalhadores, quando o trabalho for realizado em suas dependências ou
+local previamente convencionado em contrato, nos termos do art. 5º-A, § 3º, da Lei nº 6.019/1974.
+4. Nos contratos de terceirização,a Administração Pública deverá: (i) exigir da contratada a
+comprovação de capital social integralizado compatível com o número de empregados, na forma do
+art. 4º-B da Lei nº 6.019/1974; e (ii) adotar medidas para assegurar o cumprimento das obrigações
+trabalhistas pela contratada, na forma do art. 121, § 3º, da Lei nº 14.133/2021, tais como condicionar o
+pagamento à comprovação de quitação das obrigações trabalhistas do mês anterior”. (g.n)
+Segundo o entendimento consolidado no Tema 1.118 pela Suprema Corte, a
+eventual referência à inversão do ônus da prova não impede o reconhecimento da responsabilidade
+subsidiária da Administração Pública quando demonstrada a efetiva existência de comportamento
+negligente ou de nexo de causalidade entre o dano invocado e a conduta comissiva ou omissiva do
+poder público.
+No caso concreto, verifica-se que a responsabilidade subsidiária atribuída à
+Administração Pública não se baseou exclusivamente na premissa de inversão do ônus da prova ou
+na simples constatação do inadimplemento contratual, assentando-se também na efetiva
+comprovação da culpa do poder público na fiscalização do cumprimento das obrigações
+trabalhistas de empregados terceirizados (Tema 246).
+Consequentemente, a decisão recorrida, ao responsabilizar subsidiariamente a
+Administração Pública ante a comprovação inequívoca da sua conduta culposa na fiscalização, está
+em perfeita harmonia com os entendimentos consolidados nos Temas 246 e 1.118 do STF, o que torna
+o recurso extraordinário inadmissível.
+A decisão agravada, portanto, foi proferida em estrita observância às normas
+processuais (arts. 1.030, I, “a”, e 1.035, § 8º, do CPC/2015), razão pela qual é insuscetível de reforma ou
+reconsideração. Este documento pode ser acessado no endereço eletrônico http://www.tst.jus.br/validador sob código 10066A051AD4C717F5.
+Pelo exposto, NEGO PROVIMENTO ao agravo.
+ISTO POSTO
+ACORDAM os Ministros do Órgão Especial do Tribunal Superior do Trabalho, à
+unanimidade, negar provimento ao agravo.
+Brasília, 10 de março de 2026.
+Firmado por assinatura digital (MP 2.200-2/2001)
+MAURICIO GODINHO DELGADO
+Ministro Relator
+Firmado por assinatura digital em 12/03/2026 pelo sistema AssineJus da Justiça do Trabalho, conforme MP 2.200-2/2001, que instituiu a Infra-Estrutura
+de Chaves Públicas Brasileira. Este documento pode ser acessado no endereço eletrônico http://www.tst.jus.br/validador sob código 10066A051AD4C717F5.
