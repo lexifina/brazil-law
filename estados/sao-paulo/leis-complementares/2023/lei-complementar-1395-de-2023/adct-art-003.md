@@ -1,0 +1,5 @@
+Artigo 3° - O Poder Executivo fica autorizado a efetuar o parcelamento da indenização da licença-prêmio prevista no artigo 3° da Lei Complementar n° 1.048, de 10 de junho de 2008, decorrente de exoneração "ex officio" ocorrida em razão da extinção de cargos em comissão prevista no parágrafo único do artigo 23 das disposições permanentes desta lei complementar, quando for o caso, observadas as seguintes disposições:
+I - o pagamento parcelado deve ser ultimado no prazo de 1 (um) ano, a contar da exoneração;
+II - caso o beneficiário da indenização seja nomeado para cargo em comissão ou função de confiança previstos nesta lei complementar, será suspensa a indenização, apostilando-se o direito ao gozo oportuno dos dias que não foram indenizados;
+III - em caso de nova exoneração "ex officio", serão indenizados os dias de licença-prêmio não gozados, devendo o parcelamento limitar-se ao prazo remanescente do primeiro parcelamento.
+Parágrafo único - O Chefe do Poder Executivo disciplinará, mediante decreto, as condições e o procedimento de parcelamento previsto neste artigo.
