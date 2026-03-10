@@ -1,0 +1,36 @@
+DECISÃO
+Trata-se de recurso especial interposto por Selmec Industrial Ltda., com fundamento no art. 105, inciso III, alíneas a e c, da Constituição Federal, no qual se insurge contra o acórdão do Tribunal de Justiça do Estado de São Paulo assim ementado (fls. 55/57):
+Exceção de pré-executividade Recálculo dos juros, a fim de que seja adequado à SELIC Honorários de sucumbência Conforme entendimento do E. Superior Tribunal de Justiça, a condenação em honorários é cabível tão-somente quando houver acolhimento da exceção de pré- executividade e este implicar extinção da execução (REsp Repetitivo nº 1.134.186/RS e REsp 1.695.228/SP, este, já sob a égide do CPC/2015) - A não aplicação da honorária, aliás, obedece à sistemática do artigo 85 § 1º do Código de Processo Civil que não prevê o arbitramento de honorários em caso de exceção de pré executividade - Recurso improvido.
+Nos primeiros embargos de declaração, opostos por Selmec Industrial Ltda., foram rejeitados por maioria de votos (fls. 73/80). Nos segundos embargos de declaração, opostos por Selmec Industrial Ltda., foram acolhidos para corrigir erro material no relatório, alterando a referência de julgamento "por unanimidade" para "por maioria de votos", sem efeitos modificativos no resultado (fls. 142/144).
+A parte recorrente alega violação dos arts. 85, §§ 3º e 5º, do Código de Processo Civil (CPC), pois entende que os honorários de sucumbência, quando vencida a Fazenda Pública, devem ser fixados nos percentuais escalonados sobre o proveito econômico, sendo indevida a adoção por equidade nas hipóteses não previstas no § 8º (fls. 92/93).
+Sustenta ofensa ao Tema 410 do Superior Tribunal de Justiça (STJ), afirmando ser devido o arbitramento de honorários na exceção de pré-executividade acolhida ainda que parcialmente, por implicar extinção parcial da execução (fls. 94/95).
+Contrarrazões apresentadas às fls. 121/124.
+Em juízo de conformidade com o Tema 421/STJ, o acórdão ficou mantido (fls. 132/134):
+DIREITO TRIBUTÁRIO AGRAVO DE INSTRUMENTO HONORÁRIOS ADVOCATÍCIOS READEQUAÇÃO ACÓRDÃO MANTIDO - I. Caso em exame: Retorno à turma julgadora de acórdão proferido em agravo de instrumento interposto contra decisão que deixou de fixar honorários advocatícios após acolheu em parte a exceção de pré-executividade - II. Questão em discussão: Tema nº 421 do STJ. A condenação em honorários advocatícios é cabível tão somente quando houver acolhimento da exceção de pré-executividade e este implicar extinção da execução - III. Razão de decidir: Hipótese dos autos em que não houve a extinção da execução Honorários advocatícios que não são devidos - IV. Dispositivo: Acórdão mantido.
+Acolhidos embargos de declaração para sanar erro material (fls. 142/144):
+DIREITO TRIBUTÁRIO EMBARGOS DE DECLARAÇÃO EMBARGOS ACOLHIDOS - I. Caso em exame: Embargos de declaração opostos contra acórdão proferido em agravo de instrumento, oriundo de execução fiscal - II. Questão em discussão: Existência de omissão, ambiguidade, obscuridade ou erro material - III. Razão de decidir: Acórdão que apresenta erro material no relatório em relação ao resultado de embargos de declaração anterior. Decisão que foi proferida por maioria de votos e não por unanimidade como constou - IV. Dispositivo: Embargos acolhidos.
+O recurso foi admitido (fls. 151/152).
+É o relatório.
+Na origem, cuida-se de execução fiscal de ICMS, na qual a exceção de pré-executividade foi acolhida apenas para determinar o recálculo dos juros, a fim de adequá-los à taxa SELIC, permanecendo hígida a exigibilidade do crédito tributário.
+A controvérsia devolvida a esta Corte cinge-se ao cabimento de honorários advocatícios quando a exceção de pré-executividade é acolhida parcialmente, sem extinção da execução fiscal.
+Assiste razão à parte recorrente.
+A jurisprudência consolidada do Superior Tribunal de Justiça (STJ), firmada no julgamento do Tema 410, estabelece que o arbitramento de honorários advocatícios em exceção de pré-executividade somente é cabível quando o seu acolhimento implica a extinção da execução, ainda que parcial.
+Em verdade, pelos contornos que guarda, o caso é de aplicação do entendimento firmado pelo STJ, à ocasião do julgamento do REsp 1.134.186/RS, submetido à sistemática dos recursos repetitivos (Tema 410), quando restou definido que são devidos honorários advocatícios em razão do acolhimento da impugnação apresentada nos autos de cumprimento de sentença.
+No caso concreto, conforme expressamente consignado pelo Tribunal de origem, o acolhimento da exceção de pré-executividade resultou na extinção, ainda que parcial, da execução fiscal. Tal circunstância faz com que incida o Tema 410 do STJ.
+O entendimento jurisprudencial predominante do Superior Tribunal de Justiça, com base nos princípios da causalidade e da sucumbência, é no sentido de que são devidos honorários advocatícios sucumbenciais em sede e exceção de pré-executividade parcialmente acolhida.
+Neste sentido:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. EXECUÇÃO FISCAL. EXCEÇÃO DE PRÉ-EXECUTIVIDADE. REDUÇÃO DO VALOR EXECUTADO (JUROS MORATÓRIOS). HONORÁRIOS SUCUMBENCIAIS DO ADVOGADO. CABIMENTO.
+1. Se houve redução dos juros moratórios indicados na Certidão de Dívida Ativa, é cabível o arbitramento de honorários advocatícios pelo acolhimento da exceção de pré-executividade. Precedente.
+2. No caso dos autos, o acórdão está em conformidade com essa orientação, pois houve sucumbência parcial do Estado ao incluir na cobrança juros moratórios superiores ao permitido na legislação; assim, embora a cobrança continue a tramitar pelo saldo remanescente, nada impede o arbitramento de verba honorária sobre o valor extirpado do título executivo.
+3. Agravo interno não provido.
+(AgInt no REsp n. 1.903.773/SP, relator Ministro Benedito Gonçalves, Primeira Turma, julgado em 17/5/2021, DJe de 19/5/2021.)
+PROCESSUAL CIVIL. EXCEÇÃO DE PRÉ-EXECUTIVIDADE. ACOLHIMENTO PARCIAL. CABIMENTO DE HONORÁRIOS ADVOCATÍCIOS.
+1. A Corte local, em relação à questão da verba sucumbencial, entendeu que o cabimento de honorários advocatícios, em exceção de pré-executividade, são devidos somente se esta resultar na extinção da execução fiscal.
+2. A jurisprudência do Superior Tribunal de Justiça possui entendimento de ser cabível a fixação de honorários de sucumbência quando a Exceção de Pré-Executividade for acolhida para extinguir total ou parcialmente a execução, em homenagem aos princípios da causalidade e da sucumbência.
+3. Assim sendo, merece reforma o acórdão recorrido visto que em dissonância com a jurisprudência deste Tribunal Superior.
+4. Recurso Especial provido determinando o retorno dos autos à instância de origem, para que seja estipulado, à luz dos elementos probatórios dos autos, o quantum devido a título de verba honorária.
+(REsp n. 1.646.557/SP, relator Ministro Herman Benjamin, Segunda Turma, julgado em 6/4/2017, DJe de 25/4/2017.)
+No caso concreto, o Tribunal de origem decidiu de forma contrária à orientação do STJ, ao afastar a verba honorária.
+Ante o exposto, dou provimento ao recurso especial para determinar o retorno dos autos ao Tribunal de origem para que, observados os parâmetros do art. 85 do Código de Processo Civil, proceda à fixação dos honorários ad vocatícios em favor da parte recorrente.
+Publique-se. Intimem-se.
+EMENTA
