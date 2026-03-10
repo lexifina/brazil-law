@@ -1,0 +1,38 @@
+RECURSO EXTRAORDINÁRIO COM AGRAVO. DIREITO PROCESSUAL CIVIL. PRECATÓRIOS. VALORES PAGOS A MAIOR. DEVOLUÇÃO. APURAÇÃO E COBRANÇA NOS PRÓPRIOS AUTOS. PRECLUSÃO. ANÁLISE DE LEGISLAÇÃO INFRACONSTITUCIONAL. VEDAÇÃO. POTENCIAL OFENSA INDIRETA À CONSTITUIÇÃO FEDERAL. ALEGADA OFENSA AO PRINCÍPIO DO DEVIDO PROCESSO LEGAL E AOS LIMITES DA COISA JULGADA. AUSÊNCIA DE REPERCUSSÃO GERAL. TEMA 660. REEXAME DE MATÉRIA FÁTICA. ÓBICE. SÚMULA 279 DO STF. NEGADO SEGUIMENTO AO AGRAVO.
+
+DECISÃO: Trata-se de agravo nos próprios autos objetivando a reforma de decisão que inadmitiu recurso extraordinário manejado pela alínea “a” do permissivo constitucional contra acórdão que assentou:
+
+“EXECUÇÃO CONTRA A FAZENDA
+Execução extinta pela satisfação do crédito.
+Juros moratórios (art. 78 do ADCT). Em se tratando de parcelamento constitucional (art. 78 do ADCT, com redação dada pela EC nº 30/2000), não incidem juros de mora caso as parcelas tenham sido adimplidas no prazo. Tese firmada no julgamento do Tema nº 34 (IRDR nº 0044617-84.2019.8.26.0000) pela Eg. Turma Especial de Direito Público.
+Lei nº 11.960109. A modulação efetuada pelo Pretório Excelso quanto às ADIs nºs 4.357 e 4.425 convalidou os precatórios expedidos ou pagos até 25.03.15. Correto o pagamento efetuado antes de 25.03.15, com a incidência da Lei nº 11.960109.
+Devolução dos valores pagos em excesso. Possibilidade de apuração e cobrança nos próprios autos, em nome da economia e celeridade processual, conforme determinado no Tema nº 34.
+Recurso da FESP provido.” (grifei)
+
+Os embargos de declaração opostos foram rejeitados.
+Nas razões do apelo extremo, a parte recorrente argui preliminar de repercussão geral e, no mérito, por sua vez, aponta a ocorrência de violação ao artigo 5º, incisos XXXVI e LIV, da Constituição Federal.
+O Tribunal a quo não admitiu o recurso extraordinário, com sustento no Tema 660 da Repercussão Geral e na Súmula 279 do STF.
+
+É o relatório. DECIDO.
+
+O agravo não merece prosperar.
+Ab initio, saliente-se que, nos autos do ARE 748.371, Rel. Min. Gilmar Mendes, Tema 660 da Repercussão Geral, o Pleno desta Corte ratificou que a alegação de afronta aos princípios da legalidade, do devido processo legal, da ampla defesa, do contraditório, dos limites da coisa julgada ou da prestação jurisdicional, que dependa, para ser reconhecida, da análise de normas infraconstitucionais, configura apenas potencial ofensa indireta ou reflexa à Constituição Federal, que não enseja reexame da questão em recurso extraordinário. Nesse sentido, cito a ementa infra:
+
+“Agravo regimental no recurso extraordinário com agravo. Administrativo. Militar. Cerceamento de defesa. Indeferimento de provas. Repercussão geral. Ausência. Proventos com remuneração correspondente ao grau hierárquico superior. Legislação infraconstitucional. Ofensa reflexa. Fatos e provas. Reexame. Impossibilidade. Precedentes. 1. A afronta aos princípios da legalidade, do devido processo legal, da ampla defesa, do contraditório, dos limites da coisa julgada ou da prestação jurisdicional, quando depende, para ser reconhecida como tal, da análise de normas infraconstitucionais, configura apenas ofensa indireta ou reflexa à Constituição Federal. 2. Esse entendimento foi reafirmado em sede de repercussão geral. Vide: i) ARE nº 748.371/MT, Relator o Ministro Gilmar Mendes, DJe de 1º/8/13 - Tema 660 e ii) ARE nº 639.228/RJ, Relator o Ministro Cezar Peluso, DJe de 31/8/11 - Tema 424. 3. Inviável, em recurso extraordinário, o reexame dos fatos e das provas dos autos e a análise da legislação infraconstitucional. Incidência das Súmulas nºs 279 e 636/STF. 4. Agravo regimental não provido, com imposição de multa de 1% do valor atualizado da causa (art. 1.021, § 4º, do CPC). 5. Havendo prévia fixação de honorários advocatícios pelas instâncias de origem, seu valor monetário será majorado em 10% (dez por cento) em desfavor da parte recorrente, nos termos do art. 85, § 11, do Código de Processo Civil, observados os limites dos §§ 2º e 3º do referido artigo e a eventual concessão de justiça gratuita.” (ARE 1.143.354-AgR, Pleno, Rel. Min. Dias Toffoli, DJe de 1º/02/2019)
+
+No mais, examinados os autos, emana que, para acolher a pretensão da parte recorrente e ultrapassar o entendimento do Tribunal a quo acerca da possibilidade de apuração e cobrança, nos próprios autos, de valores pagos em excesso em precatórios judiciais, ante suposta preclusão, seria mister analisar a causa à luz da legislação infraconstitucional, incabível em sede de recurso extraordinário, pois a afronta ao texto constitucional, caso existente, seria indireta ou reflexa, assim como, reexaminar o acervo fático-probatório, que esbarra na Súmula 279 do STF. Nesse sentido:
+
+“AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. CONSTITUCIONAL E PROCESSUAL CIVIL. EXECUÇÃO CONTRA A FAZENDA PÚBLICA. PRECATÓRIO. VALORES SUPOSTAMENTE PAGOS A MAIOR. DEVOLUÇÃO. JUROS MORATÓRIOS. LIMITES DA COISA JULGADA. PRECLUSÃO. ANÁLISE DA LEGISLAÇÃO INFRACONSTITUCIONAL E DE REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO: SÚMULA N. 279 DO SUPREMO TRIBUNAL FEDERAL. AUSÊNCIA DE OFENSA CONSTITUCIONAL DIRETA. MULTA APLICADA NO PERCENTUAL DE 1%, CONFORME O § 4º DO ART. 1.021 DO CÓDIGO DE PROCESSO CIVIL. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO.” (RE 1.178.005-AgR, Segunda Turma, Rel. Min. Cármen Lúcia, DJe de 11/9/2019)
+
+“EMBARGOS DE DIVERGÊNCIA NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO. DIREITO PROCESSUAL. DEMONSTRAÇÃO DE DISSÍDIO JURISPRUDENCIAL. PRECATÓRIO COMPLEMENTAR. INCIDÊNCIA DE JUROS DE MORA. EXISTÊNCIA DE COISA JULGADA. MATÉRIA INFRACONSTITUCIONAL. EMBARGOS DE DIVERGÊNCIA PROVIDOS. 1. São admissíveis os embargos de divergência quando demonstrado o dissídio jurisprudencial, mediante o cotejo analítico entre o acórdão embargado e o acórdão paradigma. 2. A jurisprudência do Supremo Tribunal Federal é firme no sentido de que é infraconstitucional o debate acerca dos limites objetivos da coisa julgada, revelando-se a ofensa à Constituição meramente reflexa. 3. Embargos de divergência a que se dá provimento” (RE 540.857-AgR-ED-EDv, Plenário, Rel. Min. Edson Fachin, DJe de 20/9/2018)
+
+“EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. EXECUÇÃO. EXPEDIÇÃO DE PRECATÓRIO. JUROS MORATÓRIOS. PRECLUSÃO. NECESSIDADE DE INTERPRETAÇÃO DA LEGISLAÇÃO INFRACONSTITUCIONAL. OFENSA REFLEXA. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. SÚMULA 279 DO STF. EMBARGOS ACOLHIDOS. I - Para dissentir do entendimento firmado pelo Tribunal a quo, necessário seria o reexame do conjunto fático-probatório constante dos autos e da análise de normas infraconstitucionais, o que inviabiliza o recurso extraordinário nos termos da Súmula 279 do STF ou porque a afronta à Constituição, se ocorrente, seria indireta. Precedentes. II - Embargos de declaração acolhidos para, atribuindo-lhes efeitos infringentes, cassar o acórdão embargado bem como a decisão agravada e, assim, negar provimento ao agravo de instrumento” (AI 592.919-AgR-ED, Segunda Turma, Rel. Min. Ricardo Lewandowski, DJe de 22/11/2013)
+
+Ex positis, NEGO SEGUIMENTO ao agravo, ex vi art. 932, inc. VIII, do Código de Processo Civil, e art. 21, § 1º, do Regimento Interno do STF.
+Ademais, tendo havido a prévia fixação de honorários advocatícios pelas instâncias de origem, seu valor monetário será majorado em 10% (dez por cento) em desfavor da parte recorrente, nos termos do artigo 85, § 11, do Código de Processo Civil, observados os limites dos §§ 2º e 3º do referido artigo e a eventual concessão de justiça gratuita.
+Publique-se.
+Brasília, 10 de março de 2026.
+
+Ministro LUIZ FUX
+Relator
+Documento assinado digitalmente
