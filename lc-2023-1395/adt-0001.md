@@ -1,0 +1,4 @@
+## CAPÍTULO IX
+## DAS DISPOSIÇÕES TRANSITÓRIAS
+Artigo 1° - Os Secretários de Estado, o Procurador Geral do Estado, o Controlador Geral do Estado e os dirigentes das autarquias encaminharão para análise da Secretaria de Gestão e Governo Digital, e posterior submissão à Casa Civil, no prazo de até 12 (doze) meses, contados a partir da publicação desta lei complementar, conforme cronograma previsto em regulamento, as propostas de edição de decretos para revisão das estruturas organizacionais respectivas, de modo a adequá-las às disposições previstas nesta lei complementar.
+Parágrafo único - Havendo justificativa fundada no interesse público e na necessidade da Administração, o Chefe do Poder Executivo poderá prorrogar, por meio de decreto, e por uma única vez, o prazo previsto no "caput" deste artigo.
