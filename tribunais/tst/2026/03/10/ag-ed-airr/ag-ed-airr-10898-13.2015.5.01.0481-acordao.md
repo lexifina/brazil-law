@@ -1,0 +1,143 @@
+Poder Judiciário
+Justiça do Trabalho
+Tribunal Superior do Trabalho
+PROCESSO Nº TST-Ag-ED-AIRR - 10898-13.2015.5.01.0481
+A C Ó R D Ã O
+Órgão Especial
+GMMGD/cgc
+AGRAVO. RECURSO EXTRAORDINÁRIO DENEGADO.
+RESPONSABILIDADE SUBSIDIÁRIA DO TOMADOR DE SERVIÇOS.
+ENTE PRIVADO. APLICAÇÃO DO TEMA 196 DO EMENTÁRIO DE
+REPERCUSSÃO GERAL DO STF. DESPROVIMENTO. Na hipótese
+vertente, observa-se que a Parte Recorrente utilizou o
+procedimento licitatório simplificado previsto na Lei nº
+9.478/97 e no Decreto nº 2.745/98, para a realização das suas
+contratações, e não as regras previstas na Lei 8.666/93. Assim
+sendo, verifica-se que o caso dos autos está inserido em tema
+sobre o qual o Supremo Tribunal Federal consolidou o
+entendimento de que o recurso extraordinário é incabível, por
+ausência de repercussão geral. A tese fixada pelo STF – Tema
+196 - é a de que "a questão, no âmbito privado, da
+responsabilidade subsidiária do tomador de serviços por
+obrigações trabalhistas não pagas pelo prestador de serviços tem
+natureza infraconstitucional e a ela são atribuídos os efeitos da
+ausência de repercussão geral, nos termos do precedente fixado no
+RE n. 584.608, rel. a Ministra Ellen Gracie, DJe 13/03/2009."
+Destaca-se que o entendimento da Suprema Corte é pacífico
+quanto à inaplicabilidade da Lei 8.666/93 e dos Temas 246 e
+1.118 do ementário de Repercussão Geral, quando há a
+utilização do procedimento licitatório simplificado. A decisão
+agravada, portanto, foi proferida em estrita observância às
+normas processuais (arts. 1.030, I, “a”, e 1.035, § 8º, do
+CPC/2015), razão pela qual é insuscetível de reforma ou
+reconsideração. Agravo desprovido.
+Vistos, relatados e discutidos estes autos de Agravo em Embargos de Declaração
+em Agravo de Instrumento em Recurso de Revista nº TST-Ag-ED-AIRR - 10898-13.2015.5.01.0481, em
+que é Agravante(s) PETRÓLEO BRASILEIRO S.A. - PETROBRAS e são Agravado(s)S BSM ENGENHARIA S.A.
+e GEILSON RUBIM VIEIRA.
+Por meio de decisão monocrática foi denegado seguimento ao recurso
+extraordinário interposto pela sistemática de repercussão geral.
+Inconformada, a Parte interpõe agravo com fundamento no art. 1.021 do
+CPC/2015.
+Foi concedida vista à Parte Agravada para se manifestar no prazo de 8 (oito) dias.
+A Parte Agravada não apresentou manifestação.
+É o relatório.
+V O T O
+I) CONHECIMENTO
+Atendidos todos os pressupostos recursais, CONHEÇO do apelo.
+II) MÉRITO
+RECURSO EXTRAORDINÁRIO DENEGADO. RESPONSABILIDADE SUBSIDIÁRIA DO
+TOMADOR DE SERVIÇOS. ENTE PRIVADO. APLICAÇÃO DO TEMA 196 DO EMENTÁRIO DE REPERCUSSÃO
+GERAL DO STF. DESPROVIMENTO.
+Este documento pode ser acessado no endereço eletrônico http://www.tst.jus.br/validador sob código 10066A05A86A9380AC.
+A decisão agravada foi proferida nos seguintes termos:
+Trata-se de recurso extraordinário interposto em face de acórdão proferido por esta Corte
+Superior Trabalhista referente à responsabilidade subsidiária da Petrobras como tomadora de
+serviços terceirizados.
+A Parte argui prefacial derepercussão geral.
+É o relatório.
+De início, observa-se que a Parte Recorrente utilizou oprocedimento licitatório simplificado
+previsto na Lei nº 9.478/97 e no Decreto nº 2.745/98, para a realização das suas contratações, e não
+as regras previstas na Lei 8.666/93.
+Assim sendo, verifica-se que o caso dos autos está inserido em tema sobre o qual o Supremo
+Tribunal Federal consolidou o entendimento de que o recurso extraordinário é incabível, por
+ausência de repercussão geral.
+A tese fixada pelo STF –Tema 196 - é a de que "A questão, no âmbito privado, da
+responsabilidade subsidiária do tomador de serviços por obrigações trabalhistas não pagas pelo
+prestador de serviços tem natureza infraconstitucional e a ela são atribuídos os efeitos da ausência de
+repercussão geral, nos termos do precedente fixado no RE n. 584.608, rel. a Ministra Ellen Gracie, DJe
+13/03/2009."
+Destaque-se que o entendimento da Suprema Corte é pacífico quanto àinaplicabilidade da
+Lei 8.666/90 e dos Temas 246 e 1.118 do ementário de Repercussão Geral, quando há a utilização do
+procedimento licitatório simplificado.
+Pelo exposto, com apoio no art. 1.030, I, “a”, do CPC,nego seguimento ao recurso
+extraordinário e determino a baixa dos autos à origem após o transcurso do prazo recursal, caso não
+haja manifestação das Partes.
+Nas razões do agravo, a Parte Agravante pugna pela reforma da decisão que
+denegou seguimento ao recurso extraordinário.
+Sem razão, contudo.
+Como salientado na decisão agravada, observa-se que a Parte Recorrente utilizou
+o procedimento licitatório simplificado previsto na Lei nº 9.478/97 e no Decreto nº 2.745/98, para a
+realização das suas contratações, e não as regras previstas na Lei 8.666/93.
+Assim sendo, verifica-se que o caso dos autos está inserido em tema sobre o qual
+o Supremo Tribunal Federal consolidou o entendimento de que o recurso extraordinário é incabível, por
+ausência de repercussão geral.
+A tese fixada pelo STF – Tema 196 - é a de que "a questão, no âmbito privado, da
+responsabilidade subsidiária do tomador de serviços por obrigações trabalhistas não pagas pelo prestador de
+serviços tem natureza infraconstitucional e a ela são atribuídos os efeitos da ausência de repercussão geral,
+nos termos do precedente fixado no RE n. 584.608, rel. a Ministra Ellen Gracie, DJe 13/03/2009."
+Destaca-se que o entendimento da Suprema Corte é pacífico quanto à
+inaplicabilidade da Lei 8.666/93 e dos Temas 246 e 1.118 do ementário de Repercussão Geral, quando
+há a utilização do procedimento licitatório simplificado.
+A propósito, no mesmo sentido, citam-se os seguintes julgados deste Órgão
+Especial envolvendo idêntica matéria e a mesma Reclamada:
+AGRAVO. RECURSO EXTRAORDINÁRIO DENEGADO. RESPONSABILIDADE SUBSIDIÁRIA.
+PETROBRAS. CONTRATO DE PRESTAÇÃO DE SERVIÇOS. PROCEDIMENTO LICITATÓRIO
+SIMPLIFICADO - INAPLICABILIDADE DA LEI Nº 8.666/1993. APLICAÇÃO DO TEMA 196 DE
+REPERCUSSÃO GERAL DO STF. DESPROVIMENTO. A decisão recorrida manteve a responsabilidade
+subsidiária da Recorrente com fundamento no item IV da Súmula nº 331 desta Corte Superior, tendo
+em vista que a Reclamada utilizou de procedimento licitatório simplificado previsto na Lei nº 9.478/97
+e no Decreto nº 2.745/98 para a realização das suas contratações e não das regras previstas na Lei
+8.666/90. Nesse contexto, a matéria não será analisada sob o prisma do Tema 246 da Tabela de
+Repercussão Geral. Ultrapassada essa questão, discute-se a possibilidade de responsabilização
+subsidiária de empresa privada, em razão da terceirização de serviços, tendo esta Colenda Corte
+aplicado o entendimento constante na Súmula nº 331, IV, que assim dispõe: “IV - O inadimplemento
+das obrigações trabalhistas, por parte do empregador, implica a responsabilidade subsidiária do
+tomador dos serviços quanto àquelas obrigações, desde que haja participado da relação processual
+e conste também do título executivo judicial”. Nessa linha, o Supremo Tribunal Federal, no Tema 196
+do ementário da repercussão geral (AI 751763, transitado em julgado em 10/02/2010), consolidou o
+entendimento de que “a questão, no âmbito privado, da responsabilidade subsidiária do tomador de
+serviços por obrigações trabalhistas não pagas pelo prestador de serviços tem natureza
+infraconstitucional e a ela são atribuídos os efeitos da ausência de repercussão geral, nos termos do
+precedente fixado no RE n. 584.608, rel. a Ministra Ellen Gracie, DJe 13/03/2009”. (g.n.) Saliente-se,
+por oportuno, que as decisões da Suprema Corte afastam a aplicação da Lei 8.666/90 e dos Temas
+246 e 1118, da tabela de Repercussão Geral, quando há a utilização do procedimento licitatório
+simplificado. A decisão agravada, portanto, foi proferida em estrita observância às normas
+processuais (arts. 1.030, I, “a”, e 1.035, § 8º, do CPC/2015), razão pela qual é insuscetível de reforma
+ou reconsideração. Agravo desprovido . (Ag-Ag-AIRR-100090-34.2021.5.01.0452, Órgão Especial,
+Relator Ministro Mauricio Godinho Delgado, DEJT 26/06/2025).
+AGRAVO. RECURSO EXTRAORDINÁRIO DENEGADO. TEMA 196 DO EMENTÁRIO DE
+REPERCUSSÃO GERAL DO STF. RESPONSABILIDADE SUBSIDIÁRIA DE ENTE PRIVADO.
+DESPROVIMENTO. MULTA POR PROTELAÇÃO DO FEITO . Deve ser mantida a decisão que negou
+seguimento ao recurso extraordinário, uma vez que a controvérsia debatida nos autos enquadra-se
+no Tema 196 do Supremo Tribunal Federal, que reconheceu a repercussão geral da matéria e fixou a
+tese jurídica de que “a questão, no âmbito privado, da responsabilidade subsidiária do tomador de
+serviços por obrigações trabalhistas não pagas pelo prestador de serviços tem natureza
+infraconstitucional e a ela são atribuídos os efeitos da ausência de repercussão geral, nos termos do
+precedente fixado no RE n. 584.608, rel. a Ministra Ellen Gracie, DJe 13/03/2009”. Constatado o
+caráter protelatório do agravo, incide a penalidade pecuniária prevista no art. 1.021, §4º, do CPC. Este documento pode ser acessado no endereço eletrônico http://www.tst.jus.br/validador sob código 10066A05A86A9380AC.
+Agravo desprovido, com aplicação de multa. (Ag-Ag-AIRR-100075-38.2022.5.01.0482, Órgão Especial,
+Relator Ministro Aloysio Correa da Veiga, DEJT 25/08/2025).
+A decisão agravada, portanto, foi proferida em estrita observância às normas
+processuais (arts. 1.030, I, “a”, e 1.035, § 8º, do CPC/2015), razão pela qual é insuscetível de reforma ou
+reconsideração.
+Pelo exposto, NEGO PROVIMENTO ao agravo.
+ISTO POSTO
+ACORDAM os Ministros do Órgão Especial do Tribunal Superior do Trabalho, à
+unanimidade, negar provimento ao agravo.
+Brasília, 10 de março de 2026.
+Firmado por assinatura digital (MP 2.200-2/2001)
+MAURICIO GODINHO DELGADO
+Ministro Relator
+Firmado por assinatura digital em 12/03/2026 pelo sistema AssineJus da Justiça do Trabalho, conforme MP 2.200-2/2001, que instituiu a Infra-Estrutura
+de Chaves Públicas Brasileira. Este documento pode ser acessado no endereço eletrônico http://www.tst.jus.br/validador sob código 10066A05A86A9380AC.
