@@ -1,0 +1,43 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEXTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 05/03/2026 a 11/03/2026, por unanimidade, denegar o habeas corpus, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Antonio Saldanha Palheiro, Carlos Pires Brandão e Og Fernandes votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Carlos Pires Brandão.
+Não participou do julgamento o Sr. Ministro Rogerio Schietti Cruz.
+EMENTA
+PROCESSO PENAL. HABEAS CORPUS. ROUBO MAJORADO. CONDENAÇÃO EM PRIMEIRA INSTÂNCIA. PRISÃO PREVENTIVA MANTIDA NA SENTENÇA. RECORRER EM LIBERDADE. NECESSIDADE DE GARANTIA DA ORDEM PÚBLICA. FUNDAMENTAÇÃO IDÔNEA. EXCESSO DE PRAZO PARA O JULGAMENTO DA APELAÇÃO. COMPLEXIDADE DA CAUSA. LIMITES DA RAZOABILIDADE NÃO ULTRAPASSADOS. FEITO COM VISTA PARA PARECER DA PGJ. INEXISTÊNCIA DE CONSTRANGIMENTO ILEGAL. PRECEDENTES.
+Ordem denegada com recomendação. Prejudicado o agravo regimental (fls. 74/90).
+RELATÓRIO
+Trata-se de habeas corpus impetrado em nome de FELIPE SILVA ALVES - preso preventivamente, em 3/11/2023, e condenado pelo crime de roubo majorado, à pena de 10 anos e 6 meses de reclusão, em regime inicial fechado (Processo n. 0806399-25.2023.8.14.0039 - fls. 28/40) -, em que a defesa aponta como autoridade coatora o Tribunal de Justiça do Estado do Pará, que denegou a ordem no HC n. 0821091-78.2025.8.14.0000 (fls. 16/23).
+O impetrante alega ausência de fundamentação concreta e contemporânea para negar ao paciente o direito de recorrer em liberdade, sustentando que a decisão é genérica e pautada na fragilidade das provas de autoria.
+Aponta excesso de prazo para julgamento da apelação por desídia estatal, atribuindo a mora ao Ministério Público e a o Juízo de origem, pois houve remessa, devolução dos autos e apresentação tardia de contrarrazões, sem contribuição da defesa.
+Indica a presença de condições pessoais favoráveis - primariedade, bons antecedentes, residência fixa, exercício de atividade lícita e paternidade de filhos menores - como razões suficientes para afastar a prisão preventiva e autorizar medidas cautelares alternativas.
+Requer, inclusive em liminar, revogação ou o relaxamento da prisão preventiva.
+O pedido liminar foi indeferido (fls. 56/58).
+As informações foram prestadas (fls. 60/62).
+O Ministério Público Federal manifestou-se pela denegação da ordem (fls. 69/71).
+Foi interposto agravo regimental contra a decisão que indeferiu o pedido liminar (fls. 74/90).
+É o relatório.
+EMENTA
+PROCESSO PENAL. HABEAS CORPUS. ROUBO MAJORADO. CONDENAÇÃO EM PRIMEIRA INSTÂNCIA. PRISÃO PREVENTIVA MANTIDA NA SENTENÇA. RECORRER EM LIBERDADE. NECESSIDADE DE GARANTIA DA ORDEM PÚBLICA. FUNDAMENTAÇÃO IDÔNEA. EXCESSO DE PRAZO PARA O JULGAMENTO DA APELAÇÃO. COMPLEXIDADE DA CAUSA. LIMITES DA RAZOABILIDADE NÃO ULTRAPASSADOS. FEITO COM VISTA PARA PARECER DA PGJ. INEXISTÊNCIA DE CONSTRANGIMENTO ILEGAL. PRECEDENTES.
+Ordem denegada com recomendação. Prejudicado o agravo regimental (fls. 74/90).
+VOTO
+Inexiste, na espécie, o alegado constrangimento ilegal.
+Com relação aos fundam entos da prisão preventiva e ao direito de recorrer em liberdade, o Magistrado a quo, ao manter a cautelar extrema na sentença, reportou-se aos fundamentos da respectiva decretação e considerou que estes permanecem hígidos: Nego-lhe o direito de apelar em liberdade, por ter permanecido preso durante a instrução processual, bem como por ainda se afigurar presentes os requisitos que autorizam a prisão preventiva, em especial para garantia da ordem pública (fl. 40).
+Por sua vez, o Tribunal local convalidou a segregação cautelar, entendendo-a corretamente motivada, nestes termos (fl. 21 - grifo nosso):
+ ..
+Relativamente ao periculum libertatis, o magistrado de 1º grau de jurisdição adotou, como fundamentos para a manutenção da custódia preventiva do paciente, a garantia da ordem pública.
+Com base na garantia da ordem, observo que a autoridade coatora indicou, acertadamente, que a gravidade concreta do crime recomendava a decretação da prisão preventiva, visto que "os custodiados estavam com arma em punho no momento da abordagem, ameaçaram as vítimas, demonstrando ousadia adentrando em um estabelecimento comercial" (ID 30466520).
+ ..
+Ademais, a manutenção da custódia cautelar por ocasião da prolação da sentença condenatória, nas hipóteses em que o acusado permaneceu preso durante toda a instrução criminal, não exige fundamentação exaustiva. É suficiente, para o atendimento ao disposto no art. 387, § 1º, do Código de Processo Penal, que o julgador consigne a persistência dos motivos que ensejaram a decretação da prisão preventiva, desde que ainda estejam presentes os requisitos legais previstos no art. 312 do mesmo diploma processual.
+ ..
+Observa-se, da análise dos trechos transcritos, que a constrição cautelar está alicerçada em elementos vinculados à realidade, ante as referências às circunstâncias fáticas justificadoras, com destaque, principalmente, ao modus operandi empregado na conduta delituosa - roubo majorado, em concurso com outros dois agentes, com emprego de arma de fogo, a um estabelecimento comercial. Acrescente-se a isso o fato de ter permanecido preso durante a instrução processual.
+Assim, as decisões das instâncias ordinárias estão em consonância com a jurisprudência do Superior Tribunal de Justiça, no sentido de que a manutenção da custódia cautelar no momento da sentença condenatória, em hipóteses em que o acusado permaneceu preso durante toda a instrução criminal, não requer fundamentação exaustiva. Entende-se suficiente, para a satisfação do art. 387, § 1º, do Código de Processo Penal, declinar que permanecem inalterados os motivos que levaram à decretação da medida extrema em um primeiro momento, desde que estejam, de fato, preenchidos os requisitos legais do art. 312 do mesmo diploma (AgRg no HC n. 723.082/SP, Ministra Laurita Vaz, Sexta Turma, DJe 22/3/2022).
+Portanto, esta Corte Superior e o Supremo Tribunal Federal têm entendido ser suficiente a chamada fundamentação per relationem, admitindo, como válidas, tanto a decisão que se reporta aos termos do pedido quanto a que reproduz ou se refere a decisões anteriores. Nesse sentido: HC n. 544.065/SP, Ministro Antonio Saldanha Palheiro, Sexta Turma, DJe 12/3/2020; e AgInt no AREsp n. 1.420.569/RJ, Ministro Og Fernandes, Segunda Turma, DJe 14/2/2020.
+Nada impede que os benefícios decorrentes da execução provisória da pena sejam pleiteados no Juízo competente.
+No tocante ao excesso de prazo para o julgamento do recurso de apelação, o Superior Tribunal de J ustiça entende que o constrangimento ilegal somente ocorre quando, à luz das peculiaridades do caso concreto, há atraso injustificado do órgão judicial, desídia da parte acusadora ou outra situação incompatível com o princípio da razoável duração do processo.
+Além disso, a jurisprudência do Superior Tribunal de Justiça é firme em assinalar que a elevada reprimenda estabelecida na sentença condenatória deve ser considerada para fins de análise de suposto excesso de prazo no julgamento da apelação. Sobre o tema, por exemplo, estes julgados: AgRg no HC n. 549.040/SP, Ministro Rogerio Schietti Cruz, Sexta Turma, DJe 17/3/2020; e AgRg no HC n. 691.955/RN, Ministro João Otávio de Noronha, Quinta Turma, DJe 24/2/2022.
+Na hipótese em análise, a sentença condenatória foi prolatada em 9/7/2024, impondo ao paciente a reprimenda de 10 anos e 6 meses de reclusão, em regime inicialmente fechado.
+Segundo o andamento processual, a defesa interpôs recurso de apelação, que aportou no Tribunal de origem em 21/10/2024, tendo sido redistribuído em 4/7/2025 e 20/8/2025. Nesta mesma data, os autos foram remetidos em diligência e, conforme as informações prestadas pelo Tribunal de origem, o recurso de Apelação Criminal se encontra atualmente em trâmite perante a Procuradoria de Justiça Criminal do Ministério Público do Estado do Pará, para fins de exame e emissão de parecer, inexistindo qualquer inércia ou irregularidade procedimental (fl. 61 - grifo nosso).
+Conclui-se, assi m, que o julgamento do recurso está em andamento no Tribunal local, próximo do fim.
+Observa-se, ainda, que o paciente não está impedido de usufruir de benefícios da execução penal, se determinada a expedição da guia de execução provisória. A p ropósit o, confira-se este precedente: AgRg no HC n. 739.615/CE, Ministra Laurita Vaz, Sexta Turma, DJe 31/5/2022.
+Ante o exposto, denego a ordem com recomendação ao Desembargador Relator para que envide maiores esforços a fim de garantir celeridade na resolução da causa, com a inclusão do feito em pauta para julgamento com prioridade. Julgo prejudicado o agravo regimental (fls. 74/90).
