@@ -1,0 +1,31 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEXTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 05/03/2026 a 11/03/2026, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Antonio Saldanha Palheiro, Carlos Pires Brandão e Og Fernandes votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Carlos Pires Brandão.
+Não participou do julgamento o Sr. Ministro Rogerio Schietti Cruz.
+EMENTA
+AGRAVO REGIMENTAL EM HABEAS CORPUS. TRÁFICO DE DROGAS. WRIT SUBSTITUTIVO DE REVISÃO CRIMINAL. INVIABILIDADE. DOSIMETRIA. MINORANTE DO TRÁFICO PRIVILEGIADO. AFASTAMENTO COM BASE EM ELEMENTOS QUE DENOTAM A DEDICAÇÃO A ATIVIDADES CRIMINOSAS. REGIME FECHADO. CIRCUNSTÂNCIA JUDICIAL NEGATIVA SOPESADA NA PRIMEIRA FASE. REGIME MAIS GRAVOSO JUSTIFICADO. PRECEDENTES DESTA CORTE. CONSTRANGIMENTO ILEGAL. AUSÊNCIA. DECISÃO MANTIDA.
+Agravo regimental improvido.
+RELATÓRIO
+Trata-se de agravo regimental interposto por RAUL OLAVO DA SILVA contra a decisão, da minha lavra, em que indeferi liminarmente o writ impetrado em seu favor, assim ementada (fl. 98):
+DIREITO PENAL E PROCESSUAL PENAL. HABEAS CORPUS. TRÁFICO DE DROGAS. WRIT SUBSTITUTIVO DE REVISÃO CRIMINAL. INVIABILIDADE. DOSIMETRIA. MINORANTE DO TRÁFICO PRIVILEGIADO. AFASTAMENTO COM BASE EM ELEMENTOS QUE DENOTAM A DEDICAÇÃO A ATIVIDADES CRIMINOSAS. REGIME FECHADO. CIRCUNSTÂNCIA JUDICIAL NEGATIVA SOPESADA NA PRIMEIRA FASE. REGIME MAIS GRAVOSO JUSTIFICADO. PRECEDENTES DESTA CORTE. CONSTRANGIMENTO ILEGAL. AUSÊNCIA. Writ indeferido liminarmente.
+Nas razões, a parte agravante alega que o indeferimento liminar, ainda que fundado em óbices formais, não afasta o dever jurisdicional de reconhecer e sanar o constrangimento ilegal flagrante, com concessão da ordem de ofício. Por se tratar de matéria de ordem pública e aferível de plano, sem dilação probatória (fls. 108/110).
+Argumenta que o afastamento do redutor do art. 33, § 4º, da Lei n. 11.343/2006 decorreu de fundamentação genérica e presumida, sem prova concreta de dedicação a atividades criminosas ou de integração à organização criminosa, impondo o reconhecimento da minorante e a redução da pena (fls. 108/111).
+Sustenta que a imposição do regime inicial fechado foi motivada exclusivamente pela quantidade de entorpecente, sem fundamentação concreta e individualizada, configurando desproporcionalidade e bis in idem, pois o mesmo vetor já teria sido utilizado para exasperar a pena-base (fls. 111/112).
+Defende a violação do princípio do colegiado, pois a manutenção da decisão monocrática impede a apreciação das ilegalidades pelo órgão colegiado, comprometendo o devido processo legal e a ampla defesa, razão pela qual requer a reforma da decisão e o julgamento do habeas corpus pelo colegiado (fls. 109/113).
+É o relatório.
+EMENTA
+AGRAVO REGIMENTAL EM HABEAS CORPUS. TRÁFICO DE DROGAS. WRIT SUBSTITUTIVO DE REVISÃO CRIMINAL. INVIABILIDADE. DOSIMETRIA. MINORANTE DO TRÁFICO PRIVILEGIADO. AFASTAMENTO COM BASE EM ELEMENTOS QUE DENOTAM A DEDICAÇÃO A ATIVIDADES CRIMINOSAS. REGIME FECHADO. CIRCUNSTÂNCIA JUDICIAL NEGATIVA SOPESADA NA PRIMEIRA FASE. REGIME MAIS GRAVOSO JUSTIFICADO. PRECEDENTES DESTA CORTE. CONSTRANGIMENTO ILEGAL. AUSÊNCIA. DECISÃO MANTIDA.
+Agravo regimental improvido.
+VOTO
+Apesar das alegações do agravante, a decisão repreendida não comporta reparos.
+Inicialmente, na linha da jurisprudência firmada por esta Corte, não viola o princípio da colegialidade a decisão monocrática do relator calcada em jurisprudência dominante do Superior Tribunal de Justiça, tendo em vista a possibilidade de submissão do julgado ao exame do órgão colegiado, mediante a interposição de agravo regimental (AgRg no HC n. 484.200/SP, relator Ministro Nefi Cordeiro, Sexta Turma, julgado em 28/3/2019, DJe 5/4/2019).
+Depois, o habeas corpus foi manejado como substitutivo de revisão criminal, em hipótese que não revela inquestionável teratologia nem ilegalidade manifesta, pois as instâncias ordinárias afastaram o redutor com fundamento no fato de que o réu se dedica às atividades criminosas (fl. 37 - grifo nosso):
+Como sabido, a referida minorante aplica-se ao traficante iniciante, e não àquela pessoa que habitualmente se dedica ao tráfico, como se verifica na presente hipótese, sobretudo pelas palavras dos policiais que efetuaram a prisão e que informaram que a conduta criminosa de Raul já era conhecida há certo tempo.
+Somem-se a isto as circunstâncias em que se deram a apreensão das drogas, não pela elevada quantidade, que já foi utilizada para exasperação da pena-base, mas sim por haver, inclusive, o cultivo de plantas de maconha (de considerável tamanho) na residência do réu, bem como de petrechos comumente usados para a separação da droga, indicando que a dedicação à atividade criminosa se dava há mais tempo.
+Desta forma, apesar das alegações defensivas, considerando que as provas convergem no sentido de que Raul era pessoa dedicada ao comércio ilegal de drogas, não verifico espaço para aplicação da minorante pleiteada.
+Com efeito, a combinação de elementos concretos dos autos é circunstância capaz de denotar a dedicação a atividades criminosas. A propósito: AgRg no HC n. 1.025.708/SP, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 29/10/2025, DJEN de 5/11/2025; e HC n. 941.447/MG, Ministra Daniela Teixeira, Quinta Turma, DJe 21/10/2024.
+Além disso, alcançar conclusão inversa demandaria reexame de provas, inviável na via estreita do habeas corpus.
+Em relação ao regime prisional, reafirmo que, a despeito de o réu haver sido condenado à pena inferior a 8 anos de reclusão, foi reconhecida circunstância judicial desfavorável relativa à quantidade de entorpecente - 4.473,97 g de maconha -, a qual justifica a imposição de regime mais gravoso.
+Nesse sentido: AgRg nos EDcl no AREsp n. 2.778.140/SP, Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 2/9/2025, DJEN de 15/9/2025; AgRg no HC n. 986.081/PR, relator Ministro Carlos Cini Marchionatti (Desembargador Convocado TJRS), Quinta Turma, julgado em 13/8/2025, DJEN de 19/8/2025; e AgRg no HC n. 855.441/PR, relator Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), Sexta Turma, julgado em 24/6/2024, DJe de 26/6/2024.
+Em face do exposto, nego provimento ao agravo regimental.
