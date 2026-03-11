@@ -1,0 +1,45 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEXTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 05/03/2026 a 11/03/2026, por unanimidade, denegar o habeas corpus, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Antonio Saldanha Palheiro, Carlos Pires Brandão e Og Fernandes votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Carlos Pires Brandão.
+Não participou do julgamento o Sr. Ministro Rogerio Schietti Cruz.
+EMENTA
+DIREITO PENAL. HABEAS CORPUS. TRÁFICO DE DROGAS. CAUSA DE DIMINUIÇÃO DE PENA DO TRÁFICO PRIVILEGIADO. WRIT SUBSTITUTIVO. NÃO CABIMENTO. INEXISTÊNCIA DE ILEGALIDADE FLAGRANTE.
+1. A jurisprudência do Superior Tribunal de Justiça é pacífica no sentido de que o habeas corpus não pode ser utilizado como sucedâneo de revisão criminal, salvo em casos de manifesta ilegalidade.
+2. Não se verifica manifesta ilegalidade na condenação do paciente, considerando que o afastamento da minorante do tráfico privilegiado foi fundamentado não apenas na quantidade de droga apreendida, mas também nas circunstâncias da apreensão, que indicam envolvimento não ocasional do paciente com o tráfico de drogas.
+3. Af astada fundamentadamente pela instância a quo a aplicação da minorante, diante das circunstâncias fáticas do caso, rever tal conclusão reclamaria ampla incursão no acervo fático-probatório, inviável nesta via.
+4. Ordem denegada.
+RELATÓRIO
+Trata-se de habeas corpus, com pedido de liminar, impetrado em favor de RODOLFO SILVA BEVILAQUA, no qual se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO.
+Consta dos autos que o paciente foi condenado à pena de 6 anos e 3 meses de reclusão, e 625 dias-multa, em regime inicial fechado, pela prática do delito capitulado no art. 33, caput, da Lei n. 11.343/2006 (fls. 3/4).
+Em suas razões, sustenta o impetrante a ocorrência de constrangimento ilegal, porquanto o Tribunal de origem afastou indevidamente a causa de diminuição de pena do tráfico privilegiado, prevista no art. 33, § 4º, da Lei n. 11.343/2006, com base exclusivamente na quantidade de droga apreendida, sem prova de dedicação do paciente a atividades criminosas ou vínculo com organização criminosa (fl. 3).
+Afirma que o paciente é primário e de bons antecedentes e sua atuação se limitou a conduta de "mula" do tráfico, funcionando como transportador eventual, não havendo elementos concretos que evidenciem habitualidade delitiva ou vínculo estável com grupo criminoso (fls. 3/5).
+Argumenta que a mera quantidade de entorpecente não é fundamento idôneo para afastar o redutor do tráfico privilegiado, sendo necessária demonstração específica de dedicação criminosa, o que não ocorreu no caso (fls. 4/6).
+Requer, liminarmente e no mérito, a cassação do acórdão proferido na Apelação Criminal n. 0000252-62.2022.8.26.0218, do Tribunal de Justiça do Estado de São Paulo, com o restabelecimento integral da sentença de primeiro grau para reconhecer a causa de diminuição do art. 33, § 4º, da Lei n. 11.343/2006, redimensionar a pena e alterar o regime inicial para o aberto, com substituição da pena privativa de liberdade por restritivas de direitos (fl. 7).
+Liminar indeferida nas fls. 80/81.
+Informações prestadas nas fls. 87/131.
+Intimado, o Ministério Público Federal manifestou-se pelo não conhecimento do habeas corpus (fls. 133/135).
+É o relatório.
+EMENTA
+DIREITO PENAL. HABEAS CORPUS. TRÁFICO DE DROGAS. CAUSA DE DIMINUIÇÃO DE PENA DO TRÁFICO PRIVILEGIADO. WRIT SUBSTITUTIVO. NÃO CABIMENTO. INEXISTÊNCIA DE ILEGALIDADE FLAGRANTE.
+1. A jurisprudência do Superior Tribunal de Justiça é pacífica no sentido de que o habeas corpus não pode ser utilizado como sucedâneo de revisão criminal, salvo em casos de manifesta ilegalidade.
+2. Não se verifica manifesta ilegalidade na condenação do paciente, considerando que o afastamento da minorante do tráfico privilegiado foi fundamentado não apenas na quantidade de droga apreendida, mas também nas circunstâncias da apreensão, que indicam envolvimento não ocasional do paciente com o tráfico de drogas.
+3. Af astada fundamentadamente pela instância a quo a aplicação da minorante, diante das circunstâncias fáticas do caso, rever tal conclusão reclamaria ampla incursão no acervo fático-probatório, inviável nesta via.
+4. Ordem denegada.
+VOTO
+A jurisprudência desta Corte Superior se firmou no sentido da inadmissibilidade da impetração de habeas corpus como sucedâneo de revisão criminal, como ocorre neste caso, em que o impetrante se insurge contra condenação transitada em julgado no dia 2/8/2024, com execução da pena iniciada em 14/12/2025. Nesse sentido: AgRg no HC n. 561.185/SP, da minha relatoria, Sexta Turma, DJe 16/3/2020; e AgRg no HC n. 459.677/RS, Ministro Ribeiro Dantas, Quinta Turma, DJe 10/3/2020.
+A propósito do disposto no art. 647-A do Código de Processo Penal, também não se vislumbra manifesta ilegalidade na condenação do paciente propriamente dita, o que, de outro modo, autorizaria a concessão da ordem, por decisão de ofício.
+Isso porque em análise ao ato coator se verifica que a minorante do tráfico privilegiado foi afastada não apenas em razão da quantidade de droga apreendida, mas também pelas circunstâncias em que ocorreu a apreensão.
+No ponto (fls. 73/74 - grifo nosso):
+No que concerne à dosimetria da pena de prisão dos apelados, cabe reparo, nos termos pleiteados pelo Ministério Público, porquanto no primeiro momento foi fixada no mínimo legal, a despeito da exorbitante quantidade de droga ilícita apreendida (71.594g - setenta e um mil, quinhentos e noventa e quatro gramas), de modo que, nos termos do artigo 42 da Lei nº 11.343/06, fixa-se a pena 1/4 (um quarto) acima do mínimo legal, no segundo momento foi mantida nesse patamar, ante a inexistência de circunstâncias alteradoras, enquanto no terceiro momento foi diminuída em 1/3 (um terço), em razão do benefício previsto no § 4º do artigo 33 da Lei nº 11.343/06, o que merece ser afastado, tendo em vista as circunstâncias da apreensão da exacerbada quantidade de droga ilícita, pois, como bem apontado pelo douto representante do Ministério Público, "as circunstâncias evidenciam não serem os apelados principiantes na prática dessa infração penal, até porque não lhes seriam confiados o transporte de expressiva quantidade de droga se fosse a primeira vez", a demonstrar o envolvimento não ocasional dos apelados com o espúrio comércio, pelo que é tornada definitiva a pena de cada um deles em 6 (seis) anos e 3 (três) meses de reclusão.
+Obedecendo ao mesmo raciocínio acima explicitado, fixa-se a pena pecuniária de cada apelado em 625 (seiscentos e vinte e cinco) dias-multa, no mínimo legal.
+Não é demais registrar que inexiste bis in idem na dosimetria da pena, uma vez que, conforme exposto, estão sendo utilizados fundamentos diversos para, no primeiro momento, com respaldo no artigo 42 da Lei de Drogas, fixar a pena-base de cada apelado acima do mínimo legal (quantidade da droga apreendida), assim como para, no terceiro momento, afastar a causa de diminuição prevista no § 4º do artigo 33 da Lei nº 11.343/06 (circunstâncias da apreensão da droga ilícita).
+Em casos semelhantes, especialmente diante da exorbitante quantidade de droga apreendida, mais de 70 kg de maconha, e quando justificado o afastamento da minorante também nas circunstâncias da apreensão, esta Corte já teve a oportunidade de se manifestar acerca da legalidade do afastamento da causa de diminuição.
+A propósito:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. PENAL. TRÁFICO DE DROGAS. MINORANTE. ANPP. REGIME PRISIONAL. WRIT SUBSTITUTIVO. NÃO CABIMENTO. INEXISTÊNCIA DE ILEGALIDADE FLAGRANTE. HABEAS CORPUS INDEFERIDO LIMINARMENTE. AGRAVO REGIMENTAL DESPROVIDO.
+1. A jurisprudência do Superior Tribunal de Justiça é uníssona no sentido de que não cabe a utilização de habeas corpus como sucedâneo de recurso próprio ou de revisão criminal, sob pena de desvirtuamento do objeto ínsito ao remédio heroico, qual seja, o de prevenir ou remediar lesão ou ameaça de lesão ao direito de locomoção.
+2. Não obstante a orientação presente no art. 647-A, caput e parágrafo único, do Código de Processo Penal, não há que se falar em flagrante ilegalidade passível de concessão da ordem, ainda que de ofício, na medida em que a minorante do tráfico privilegiado foi afastada não apenas pela quantidade de entorpecente apreendida - aproximadamente 2kg (dois quilogramas) de cocaína - mas também pelas circunstâncias da apreensão, que indicaram que o modus operandi empregado não seria compatível com a figura do traficante ocasional.
+3. Agravo regimental desprovido.
+(AgRg no HC n. 1.046.056/BA, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 10/12/2025, DJEN de 16/12/2025 - grifo nosso).
+No mais, afastada fundamentadamente pela instância a quo a aplicação da minorante, diante das circunstâncias fáticas do caso, rever tal conclusão reclamaria ampla incursão no acervo fático-probatório, inviável nesta via.
+Em face do exposto, denego a ordem de habeas corpus.
