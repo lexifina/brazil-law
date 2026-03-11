@@ -1,0 +1,1 @@
+Artigo 4° - O montante equivalente ao superávit financeiro apurado ao final do exercício de 2019 dos fundos dos Poderes Legislativo e Judiciário, Ministério Público, Tribunal de Contas do Estado e Defensoria Pública poderá ser utilizado para aplicação nas finalidades previstas no "caput" do artigo 16 desta lei.

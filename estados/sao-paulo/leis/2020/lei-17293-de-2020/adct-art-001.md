@@ -1,0 +1,3 @@
+## SEÇÃO XV
+## Das Disposições Transitórias
+Artigo 1° - Fica assegurada a permanência no regime de previdência complementar a que se refere a Lei n° 14.653, de 22 de dezembro de 2011, aos servidores ocupantes, exclusivamente, de cargo em comissão declarado em lei de livre nomeação e exoneração, de cargo temporário ou de emprego junto à Administração direta, suas autarquias e fundações, à Assembleia Legislativa, ao Tribunal de Contas, às Universidades, ao Poder Judiciário, ao Ministério Público, à Defensoria Pública e à Polícia Militar, que, na data de publicação desta lei, sejam participantes ou assistidos.

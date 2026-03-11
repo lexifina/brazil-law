@@ -1,0 +1,1 @@
+Artigo 3° - Permanecerão inscritos no IAMSPE os agregados que se encontram incluídos pelos contribuintes até a data de publicação desta lei, mediante a contribuição adicional e individual de 2 ou 3% (dois ou três por cento), a depender da faixa etária, conforme tabela constante no § 2° do artigo 20 do Decreto-lei n° 257, de 29 de maio de 1970, sobre a remuneração do contribuinte.

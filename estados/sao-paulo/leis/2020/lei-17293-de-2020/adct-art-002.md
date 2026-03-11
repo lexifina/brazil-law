@@ -1,0 +1,1 @@
+Artigo 2° - A transferência dos recursos previstos nos artigos 14 e 17, no valor equivalente ao apurado no balanço patrimonial de 2019, deverá ser realizada em até 10 (dez) dias após a publicação desta lei, observado o disposto no artigo 20.
