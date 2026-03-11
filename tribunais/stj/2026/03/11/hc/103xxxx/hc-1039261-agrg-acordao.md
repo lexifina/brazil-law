@@ -1,0 +1,62 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUINTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 05/03/2026 a 11/03/2026, por unanimidade, negar provimento ao recurso, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Reynaldo Soares da Fonseca, Ribeiro Dantas, Joel Ilan Paciornik e Messod Azulay Neto votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro Reynaldo Soares da Fonseca.
+EMENTA
+DIREITO PROCESSUAL PENAL. AGRAVO REGIMENTAL. HABEAS CORPUS SUBSTITUTIVO DE REVISÃO CRIMINAL. NÃO CONHECIMENTO. AGRAVO REGIMENTAL NÃO PROVIDO.
+I. Caso em exame
+1. Agravo regimental interposto contra decisão que indeferiu liminarmente habeas corpus, por ter sido manejado como substitutivo de revisão criminal, após o trânsito em julgado de acórdão condenatório.
+2. A parte agravante sustenta a necessidade de mitigar o rigor formal do não conhecimento do habeas corpus, alegando flagrante ilegalidade e constrangimento ilegal não apreciados no mérito nas vias recursais próprias. Aponta divergência judicial sobre a licitude da prova utilizada na condenação estadual por tráfico e associação para o tráfico, destacando que a mesma prova foi declarada ilícita em processo criminal federal.
+II. Questão em discussão
+3. A questão em discussão consiste em saber se é possível a impetração de habeas corpus no Superior Tribunal de Justiça contra acórdão transitado em julgado, como substitutivo de revisão criminal.
+III. Razões de decidir
+4. O Superior Tribunal de Justiça não possui competência para processar e julgar habeas corpus contra acórdão transitado em julgado, sendo cabível apenas a revisão criminal no Tribunal de origem, conforme o art. 621 do Código de Processo Penal.
+5. Não há flagrante ilegalidade ou teratologia na decisão agravada que justifique a concessão da ordem de habeas corpus.
+IV. Dispositivo e tese
+8. Resultado do Julgamento: Agravo regimental não provido.
+Tese de julgamento:
+1. O Superior Tribunal de Justiça não possui competência para processar e julgar habeas corpus contra acórdão transitado em julgado, sendo cabível apenas a revisão criminal no Tribunal de origem.
+Dispositivos relevantes citados: CPP, art. 621.
+Jurisprudência relevante citada: STJ, AgRg no HC 751.156/SP, Rel. Min. Laurita Vaz, Sexta Turma, julgado em 09.08.2022, DJe 18.08.2022; STJ, AgRg no HC 883.060/SP, Rel. Min. Antonio Saldanha Palheiro, Sexta Turma, julgado em 22.04.2024, DJe 25.04.2024; STJ, AgRg no HC 916.691/MG, Rel. Min. Messod Azulay Neto, Quinta Turma, julgado em 12.03.2025, DJEN 19.03.2025; STJ, AgRg no HC 939.672/SC, Rel. Min. Rogério Schietti Cruz, Sexta Turma, julgado em 16.10.2024, DJe 23.10.2024.
+RELATÓRIO
+Cuida-se de agravo regimental interposto em favor de VINICIUS DE ALMEIDA SANAZARIA E THALITA CRISTINA DOS SANTOS GONÇALVES, contra decisão de fls. 362-364, que indeferiu liminarmente o habeas corpus por ter sido manejado como substitutivo de revisão criminal.
+Sustenta a parte agravante, em síntese, a necessidade de mitigação do rigor formal do não conhecimento do habeas corpus quando presentes flagrante ilegalidade e constrangimento ilegal não apreciados no mérito nas vias recursais próprias, pois os recursos especial e os agravos em recurso especial anteriores não foram conhecidos por óbices formais. Afirma tratar-se de ilegalidades materiais na origem da condenação, que não podem ser blindadas pelo trânsito em julgado formal, dada a natureza do habeas corpus como remédio constitucional para resguardar a liberdade.
+Aponta, como núcleo do alegado constrangimento, divergência judicial sobre a licitude da mesma prova: a 1ª Vara Federal de Andradina, no Processo Criminal n. 5001104-04.2021.4.03.6137, reconheceu a ilicitude da entrada na residência dos agravantes e das provas daí derivadas, absolvendo VINICIUS no crime de moeda falsa e destacando vício no "consentimento" de THALITA, bem como a insuficiência do argumento de crime permanente para ingresso domiciliar sem mandado. A partir desse contraste, sustenta que a condenação estadual por tráfico e associação para o tráfico (com apreensão de 118g de cocaína e quantia em dinheiro na residência) estaria diretamente contaminada por prova já declarada ilícita, impondo o reconhecimento da nulidade, afastando, nesse ponto, qualquer revolvimento fático-probatório.
+Requer o provimento do agravo regimental para conhecer e deferir o habeas corpus, concedendo a ordem nos termos da petição inicial.
+É o relatório.
+EMENTA
+DIREITO PROCESSUAL PENAL. AGRAVO REGIMENTAL. HABEAS CORPUS SUBSTITUTIVO DE REVISÃO CRIMINAL. NÃO CONHECIMENTO. AGRAVO REGIMENTAL NÃO PROVIDO.
+I. Caso em exame
+1. Agravo regimental interposto contra decisão que indeferiu liminarmente habeas corpus, por ter sido manejado como substitutivo de revisão criminal, após o trânsito em julgado de acórdão condenatório.
+2. A parte agravante sustenta a necessidade de mitigar o rigor formal do não conhecimento do habeas corpus, alegando flagrante ilegalidade e constrangimento ilegal não apreciados no mérito nas vias recursais próprias. Aponta divergência judicial sobre a licitude da prova utilizada na condenação estadual por tráfico e associação para o tráfico, destacando que a mesma prova foi declarada ilícita em processo criminal federal.
+II. Questão em discussão
+3. A questão em discussão consiste em saber se é possível a impetração de habeas corpus no Superior Tribunal de Justiça contra acórdão transitado em julgado, como substitutivo de revisão criminal.
+III. Razões de decidir
+4. O Superior Tribunal de Justiça não possui competência para processar e julgar habeas corpus contra acórdão transitado em julgado, sendo cabível apenas a revisão criminal no Tribunal de origem, conforme o art. 621 do Código de Processo Penal.
+5. Não há flagrante ilegalidade ou teratologia na decisão agravada que justifique a concessão da ordem de habeas corpus.
+IV. Dispositivo e tese
+8. Resultado do Julgamento: Agravo regimental não provido.
+Tese de julgamento:
+1. O Superior Tribunal de Justiça não possui competência para processar e julgar habeas corpus contra acórdão transitado em julgado, sendo cabível apenas a revisão criminal no Tribunal de origem.
+Dispositivos relevantes citados: CPP, art. 621.
+Jurisprudência relevante citada: STJ, AgRg no HC 751.156/SP, Rel. Min. Laurita Vaz, Sexta Turma, julgado em 09.08.2022, DJe 18.08.2022; STJ, AgRg no HC 883.060/SP, Rel. Min. Antonio Saldanha Palheiro, Sexta Turma, julgado em 22.04.2024, DJe 25.04.2024; STJ, AgRg no HC 916.691/MG, Rel. Min. Messod Azulay Neto, Quinta Turma, julgado em 12.03.2025, DJEN 19.03.2025; STJ, AgRg no HC 939.672/SC, Rel. Min. Rogério Schietti Cruz, Sexta Turma, julgado em 16.10.2024, DJe 23.10.2024.
+VOTO
+Em que pese a argumentação da defesa, não há como se furtar ao fato de que a Apelação Criminal n. 1500220-20.2021.8.26.0605 transitou em julgado em 25/9/2025, tendo o habeas corpus sido impetrado posteriormente, sendo, pois, substitutivo de revisão criminal.
+Com efeito, conforme já aduzido, nos termos da jurisprudência desta Corte, não deve ser conhecido o writ que se volta contra acórdão proferido por Tribunal estadual já transitado em julgado, manejado, assim, como substitutivo de revisão criminal. Em tais casos, é cabível tão somente o ajuizamento de revisão criminal no Tribunal de origem, nos termos do art. 621 do CPP.
+A propósito: AgRg no HC n. 751.156/SP, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 9/8/2022, DJe de 18/8/2022; AgRg no HC n. 883.060/SP, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 22/4/2024, DJe de 25/4/2024.
+Cito, ainda, os seguintes precedentes:
+DIREITO PROCESSUAL PENAL. AGRAVO REGIMENTAL. HABEAS CORPUS SUBSTITUTIVO DE REVISÃO CRIMINAL. NÃO CONHECIMENTO. TRÂNSITO EM JULGADO DA CONDENAÇÃO. SUPRESSÃO INSTÂNCIA. AGRAVO REGIMENTAL NÃO PROVIDO.
+ ..
+3. A questão em discussão consiste em saber se é possível a impetração de habeas corpus no Superior Tribunal de Justiça contra acórdão transitado em julgado, como substitutivo de revisão criminal.
+ ..
+5. O Superior Tribunal de Justiça não possui competência para processar e julgar habeas corpus contra acórdão transitado em julgado, uma vez que a competência se restringe à revisão criminal de seus próprios julgados.
+6. A decisão agravada não apresenta teratologia ou coação ilegal que justifique a concessão da ordem de habeas corpus.
+ ..
+(AgRg no HC n. 916.691/MG, relator Ministro Messod Azulay Neto, Quinta Turma, julgado em 12/3/2025, DJEN de 19/3/2025)
+AGRAVO REGIMENTAL NO . ATO APONTADO COMOHABEAS CORPUS COATOR TRANSITADO EM JULGADO. MATÉRIA NÃO EXAMINADA PELO TRIBUNAL DE ORIGEM. SUPRESSÃO DE INSTÂNCIA. REVISÃO CRIMINAL. AÇÃO AUTÔNOMA CABÍVEL. AGRAVO REGIMENTAL NÃO PROVIDO.
+ ..
+3. A competência do STJ para processar e julgar revisão criminal limita-se às hipóteses de seus próprios julgados. A defesa busca, diretamente perante esta Corte Superior, a desconstituição do trânsito em julgado da apelação, a fim de que seja reconhecida a nulidade das buscas veicular e pessoal ou que a pena do réu seja readequada. Não há como . conhecer da impetração, por não ser o STJ o órgão competente para examinar o pleito Ademais, a tese de ilicitude das buscas não foi previamente examinada pelas instâncias ordinárias, outra razão para obstar sua apreciação por este Tribunal Superior, a fim de não incidir em supressão de instância.
+(AgRg no HC n. 939.672/SC, relator Ministro Rogério Schietti Cruz, Sexta Turma, julgado em 16/10/2024, DJe de 23/10/2024)
+No caso, como o habeas corpus foi impetrado nesta Corte após o trânsito em julgado do acórdão impugnado, tem-se por inviável o seu conhecimento, inexistindo ilegalidade flagrante a ser sanada, especialmente quando não há indicação de incidência de alguma das hipóteses previstas no art. 621 do Código de Processo Penal, tal como ocorre na espécie.
+Ante o exposto, nego provimento ao agravo regimental.
+É o voto.
