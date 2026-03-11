@@ -1,0 +1,37 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEXTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 05/03/2026 a 11/03/2026, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Antonio Saldanha Palheiro, Carlos Pires Brandão e Og Fernandes votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Carlos Pires Brandão.
+Não participou do julgamento o Sr. Ministro Rogerio Schietti Cruz.
+EMENTA
+PROCESSO PENAL. RECURSO EM HABEAS CORPUS. INCÊNDIO. DANO QUALIFICADO . PRISÃO PREVENTIVA. REVOGAÇÃO. IMPOSSIBILIDADE. GARANTIA DA ORDEM PÚBLICA. GRAVIDADE CONCRETA DOS DELITOS EVIDENCIADA PELO MODUS OPERANDI. CRIMES PRATICADOS CONTRA O PATRIMÔNIO PÚBLICO. APLICAÇÃO DA LEI PENAL. CONDIÇÕES PESSOAIS FAVORÁVEIS QUE NÃO AFASTAM O DECRETO PREVENTIVO. MEDIDAS CAUTELARES ALTERNATIVAS. INSUFICIÊNCIA. CONSTRANGIMENTO ILEGAL. AUSÊNCIA. PARECER ACOLHIDO.
+Recurso improvido.
+RELATÓRIO
+Trata-se de recurso em habeas corpus interposto por ISLEY GLEISSON DE SOUZA SANTOS - preso preventivamen te, em 10/7/2025, pela prática, em tese, dos crimes de incêndio e dano qualificado (Processo n. 202579001581 - número único 0001577-80.2025.8.25.0061 - fls. 10/11) -, em que se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE SERGIPE (HC n. 202500340971 - fls. 63/76).
+Neste recurso, sustenta a defesa que o fundamento de paradeiro incerto e não sabido se encontra superado, pois o recorrente foi localizado em sua residência e está preso à disposição da Justiça. Possui residência fixa, trabalho lícito e vínculos familiares sólidos, elementos que afastam o risco de evasão e de frustração da aplicação da lei penal.
+Busca, em síntese, a revogação da prisão preventiva, ante a ausência de fundamentação idô nea para a manutenção da constrição cautelar e, subsidiariamente, pleiteia a substituição da prisão p rovisória por medidas cautelares alternativas.
+Não houve pedido liminar.
+O Ministério Público Federal manifestou-se pelo desprovimento do recurso (fls. 245/250 ).
+É o relatório.
+EMENTA
+PROCESSO PENAL. RECURSO EM HABEAS CORPUS. INCÊNDIO. DANO QUALIFICADO . PRISÃO PREVENTIVA. REVOGAÇÃO. IMPOSSIBILIDADE. GARANTIA DA ORDEM PÚBLICA. GRAVIDADE CONCRETA DOS DELITOS EVIDENCIADA PELO MODUS OPERANDI. CRIMES PRATICADOS CONTRA O PATRIMÔNIO PÚBLICO. APLICAÇÃO DA LEI PENAL. CONDIÇÕES PESSOAIS FAVORÁVEIS QUE NÃO AFASTAM O DECRETO PREVENTIVO. MEDIDAS CAUTELARES ALTERNATIVAS. INSUFICIÊNCIA. CONSTRANGIMENTO ILEGAL. AUSÊNCIA. PARECER ACOLHIDO.
+Recurso improvido.
+VOTO
+O recurso não merece provimento, pois não se verifica o alegado constrangimento ilegal.
+Da atenta leitura dos autos, observa-se que há referência, na origem, à fundamentação concreta. Vejamos, no ponto, o que consta da decisão de prisão preventiva (fls. 10/11 - grifo nosso):
+Conforme se verifica dos autos, os representados, no dia 18 de janeiro de 2025, por volta das 01:30h, no estacionamento do CECAF, nas imediações do Fórum e da Delegacia de Poço Verde/SE, agindo de forma voluntária e conscientemente, em comunhão de esforços, causaram incêndio nos veículos pertencentes ao Município de Poço Verde. Como resultado das ações foram destruídos dois ônibus escolares e um veículo caçamba, além de danos parciais em uma ambulância e um caminhão compactador de lixo. Consta ainda que, após os crimes, João Victor Rocha Oliveira e Isley Gleidsson de Souza Santos saíram do local em suas bicicletas e retornaram posteriormente, monitorando a distância suas ações delitivas .
+ ..
+Destaco que restaram devidamente demonstradas as ações, pelas imagens colhidas, corroboradas pelas demais provas, inclusive informações prestadas por terceiros. Além disso, demonstrou-se que ambos os representados não estão mais em Poço Verde, o que realça a afronta dos representados perante o Poder Judiciário e o intuito de inibir a aplicação da lei penal. Assim, é medida que se impõe a necessidade de manutenção da ordem pública e segurança da garantia da aplicação da lei, restando demonstrada a presença do requisito periculum in mora.
+Ao manter o claustro provisório, o Tribunal a quo apresentou fundamentação baseada na gravidade concreta dos delitos e na necessidade de assegurar a aplicação da lei penal. Vejamos (fls. 72/73):
+Quando da apresentação do pedido de prisão preventiva (feito n.º 202579001581), a autoridade policial registrou, para além da destruição provocada ao patrimônio público pelo paciente e seu comparsa, a condição de foragido que inclusive inviabilizou a intimação para prestar declarações e, portanto, a intenção de se furtar da aplicação da lei penal e dificultar a coleta das provas.
+Pontuou a autoridade, ainda, que a conduta do investigado, ao atear fogo em bens públicos de grande valor e utilidade para a comunidade, revela periculosidade e audácia e gera clamor social e intranquilidade na população, elementos sopesados pelo juízo apontado como coator e que, de fato, impõe a conclusão de que o paciente, colocará em risco a ordem pública e a própria conveniência da instrução.
+Como se vê, a custódia preventiva está idoneamente motivada, especialmente para a garantia da ordem pública, em razão da gravidade concreta das condutas, evidenciada pelo modus operandi - pois o recorrente, juntamente com outro indivíduo, supostamente incendiou dois ônibus escolares, um veículo caçamba e provocou danos parciais em uma ambulância e em um caminhão compactador de lixo, bens essenciais de uso da população do Município de Poço Verde/SE.
+Nesse sentido é a jurisprudência do Superior Tribunal de Justiça, no sentido de que a gravida de concreta da conduta, evidenciada pelo modus operandi, é circunstância apta a indicar a periculosidade do agente e constitui fundamentação idônea para o decreto preventivo (AgRg no RHC n. 160.967/PA, Ministro João Otávio de Noronha, Quinta Turma, DJe de 15/8/2022).
+Ademais, esteve foragido inviabilizando intimações, motivo pelo qual o decreto da prisão preventiva também se fundamentou na garantia da aplicação da lei penal. Assim, não é crível que, se colocado em liberdade, comparecerá aos demais atos processuais.
+A propósito, a fuga prolongada do recorrente demonstra a intenção de frustrar a aplicação da lei penal, justificando a necessidade da custódia cautelar (RHC n. 210.861/MG, de minha relatoria, julgado em 9/4/2025, DJEN de 15/4/2025).
+Logo, demonstrado o periculum libertatis do recorrente, não se mostram suficientes para o caso em anális e as medidas previstas no art. 319 do Código de Processo Penal, sendo certo, ainda, que eventuais condições pessoais deste não têm o condão de, por si sós, garantir a revogação do decreto prisional.
+Outra não foi a opinião do nobre parecerista, cuja fundamentação também adoto como razões de decid ir (fl. 249 - grifo nosso):
+O modus operandi empregado - incêndio criminoso de bens de relevante utilidade social - extrapola a tipicidade abstrata e demonstra audácia e desprezo pela ordem social, justificando a prisão preventiva para acautelar o meio social, independentemente da discussão sobre o estado de conservação dos veículos, questão que, aliás, deman daria indevido reexame fático-probatório.
+ ..
+A periculosidade do agente, evidenciada pela gravidade concreta do delito e pela fuga, demonstra que a aplicação de medidas cautelares diversas da prisão seria insuficiente para garantir a ordem pública e assegurar a aplicação da lei penal.
+Ante todo o exposto, nego provimento ao recurso.
