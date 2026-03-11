@@ -1,0 +1,31 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEXTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 05/03/2026 a 11/03/2026, por unanimidade, denegar o habeas corpus, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Antonio Saldanha Palheiro, Carlos Pires Brandão e Og Fernandes votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Carlos Pires Brandão.
+Não participou do julgamento o Sr. Ministro Rogerio Schietti Cruz.
+EMENTA
+PROCESSO PENAL. HABEAS CORPUS. HOMICÍDIO QUALIFICADO TENTADO . PRISÃO PREVENTIVA. EXCESSO DE PRAZO PARA A FORMAÇÃO DA CULPA. COMPLEXIDADE DA CAUSA. SÚMULA 64/STJ. LIMITES DA RAZOABILIDADE NÃO ULTRAPASSADOS. INEVIDÊNCIA DE ILEGALIDADE.
+Ordem denegada.
+RELATÓRIO
+Trata-se de habeas corpus, com pedido de liminar, impetrado em benefício de DANIEL VIEIRA DE LIMA - preso preventivamente, em 2/7/2024 (fl. 10), pela prática, em tese, do delito de homicídio qualificado tentado (Processo n. 0004661-25.2025.8.16.0034 ) -, em que se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DO PARANÁ (HC n. 0070693-17.2025.8.16.0000 - fls. 9/17).
+Com efeito, busca a impetração o relaxamento da prisão cautelar imposta e mantida pelo Juízo singular, ao argumento de constrangimento ilegal em razão do excesso de prazo na formação da culpa. Afirma que a prisão preventiva perdura desde 2/7/2024, sem formação da culpa, configurando a mora processual. Aduz que as diligências requeridas pela defesa ainda se encontram pendentes de cumprimento.
+O pedido liminar foi indeferido (fls. 20/21).
+As informações foram prestadas (fls. 26/28).
+O Ministério Público Federal manifestou-se pelo não conhecimento do habeas corpus e, ausente constrangimento ilegal, pela não concessão da ordem de oficio (fls. 32/38 ).
+Este processo foi a mim distribuído por prevenção do HC n. 1.038.130/PR.
+É o relatório.
+EMENTA
+PROCESSO PENAL. HABEAS CORPUS. HOMICÍDIO QUALIFICADO TENTADO . PRISÃO PREVENTIVA. EXCESSO DE PRAZO PARA A FORMAÇÃO DA CULPA. COMPLEXIDADE DA CAUSA. SÚMULA 64/STJ. LIMITES DA RAZOABILIDADE NÃO ULTRAPASSADOS. INEVIDÊNCIA DE ILEGALIDADE.
+Ordem denegada.
+VOTO
+Inexiste, na espécie, o alegado constrangimento ilegal.
+No tocante ao excesso de prazo na custódia cautelar, o Superior Tribunal de Justiça entende que o constran gimento ilegal somente ocorre quando, à luz das peculiaridades do caso concreto, há atraso injustificado do órgão judicial, desídia da parte acusadora ou outra situação incompatível com o princípio da razoável duração do processo.
+O Tribunal local entendeu não haver desídia do Poder Judiciário, fundamentando nos se guintes termos (fl. 15 - grifo nosso):
+ ..
+Compulsando os autos de ação penal nº 0003747-92.2024.8.16.0034, infere-se que o paciente foi preso preventivamente no dia 02/07/2024 e denunciado em 05/072024, com o corréu Fabio Abraão de Oliveira Frajuca, pela prática, em tese, do crime de tentativa de homicídio qualificado. Ato contínuo, a denúncia foi recebida em 25/07/2024 (mov. 40.1), o paciente apresentou resposta à acusação em 11/08/2024 (mov. 60.1) e, na sequência, a magistrado a quo designou audiência de instrução e julgamento para o dia a 07/11/2024 (mov.76.1). Em relação aos pedidos formulados pela defesa do paciente quando da apresentação da resposta à acusação, foram reiterados ao mov.154.1, o agente ministerial local, após a audiência de instrução e julgamento, se manifestou pelo deferimento de: " i) juntada da sentença de impronúncia dos autos nº 0009036-24.2015.8.16.0033; ii) juntada dos antecedentes criminais da vítima, observando o disposto no art. 474-A, do Código de Processo Penal; iii) perícia nos aparelhos celulares apreendidos ao mov. 27.1; e iv) envio de ofício à empresa de telefonia VIVO S/A para que forneça qual era a localização do aparelho celular SAMSUNG GALAX S20 (Lacre nº.0551269) no dia 27 de março das 2024, aproximadamente às 13h45min" (mov. 164.1). Na data de 02/02/2025, a Juíza a quo deferiu parcialmente os pleitos defensivos, nos termos da manifestação ministerial (mov. 169.1). Foram expedidos os respectivos ofícios (mov. 176.1) e os aparelhos celulares encaminhados para perícia (mov. 193.1). Em despacho datado de 13/03/25, a magistrada singular consigno u que aguarda o cumprimento das diligências requeridas e deferidas (mov. 199.1). Em 04/07/2025, o Parquet requereu a expedição de ofício a fim de verificar se a prova pericial já fora realizada (mov. 209.1). Sobreveio aos autos, Ofício informando que o exame a que se refere os presentes autos, se encontra priorizado para execução na Fila de Prioridades Legal envolvendo Crime Hediondo e Réu(s) Preso(s) (mov. 215.1)
+ ..
+No caso, verifica-se que o alongamento da instrução se deve à complexidade do feito a que responde o paciente. Nota-se que ele foi preso preventivamente em 2/7/2024, a denúncia foi oferecida em 5/7/2024, recebida em 25/7/2024, o paciente apresentou resposta à acusação em 11/8/2024, ocorreu audiência de instrução e julgamento em 7/11/2024, tendo sido, em 2/2/2025, deferidas diligências, dentre elas, perícias em aparelhos celulares.
+Consta das informações prestadas que a instrução processual ainda não se encerrou em decorrência dos requerimentos da defesa do próprio paciente (fl. 26). Assim, vê-se que o encerramento da instrução se aproxima, não havendo qualquer indicativo de ofensa à razoabilidade ou desídia do magistrado em impulsionar o processo.
+Nesse sentid o, confira-se a jurisprudência deste Superior Tribunal em casos semelhantes: RHC n. 209.7 44/SC, de minha relatoria, Sexta Turma, julgado em 19/3/2025, DJEN de 27/3/2025; e AgRg no HC n. 979.894/CE, relator Ministro Carlos Cini Marchionatti (Desembargador Convocado do TJRS), Quinta Turma, julgado em 21/5/2025, DJEN de 26/5/2025.
+Ademais, diz a jurisprudência desta Corte Superior que não se pode imputar mora ao Judiciári o no caso em que a delonga processual é atribuível à defesa, incidindo, na espécie, o enunciado da Súmula n. 64 desta Corte Superior, segundo a qual não constitui constrangimento ilegal o excesso de prazo na instrução provocado pela defesa. (Precedentes) - (AgRg no HC n. 812.788/RJ, Ministro Antonio Saldanha Palheiro, Sexta Turma, DJe 14/9/2023 - grifo nosso).
+Ante o exposto, denego a ordem.
