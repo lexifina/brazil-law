@@ -1,0 +1,37 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEXTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 05/03/2026 a 11/03/2026, por unanimidade, conhecer parcialmente do recurso, mas lhe negar provimento, nos termos do voto do Sr. Ministro Sebastião Reis Júnior.
+Os Srs. Ministros Antonio Saldanha Palheiro, Carlos Pires Brandão e Og Fernandes votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Carlos Pires Brandão.
+Não participou do julgamento o Sr. Ministro Rogerio Schietti Cruz.
+EMENTA
+DIREITO PROCESSUAL PENAL. RECURSO EM HABEAS CORPUS. ESTELIONATO QUALIFICADO. FRAUDE ELETRÔNICA. PRISÃO PREVENTIVA. TRANSFERÊNCIA DE UNIDADE PRISIONAL. SUPRESSÃO DE INSTÂNCIA. NEGATIVA DE AUTORIA. APROFUNDADO EXAME FÁTICO-PROBATÓRIO. INADMISSIBILIDADE. GRAVIDADE CONCRETA DA CONDUTA. MODUS  OPERANDI.  FUNDAMENTAÇÃO IDÔNEA. INEXISTÊNCIA DE CONSTRANGIMENTO ILEGAL.  PARECER ACOLHIDO.
+Recurso em habeas corpus parcialmente conhecido e, nessa extensão, improvido.
+RELATÓRIO
+Trata-se de recurso em habeas corpus interposto por JOAO MARCOS OLIVEIRA DOS SANTOS - preso preventivamente pela prática, em tese, do crime de estelionato qualificado (fraude eletrônica) -, impugnando-se o acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE PERNAMBUCO (HC n. 0030213-33.2025.8.17.9000).
+Busca o recorrente a revogação da prisão cautelar imposta e mantida a ele pelo Juízo singular (Autos n. 0003505-05.2025.8.17.4001), ao argumento de ausência de fundamentação idônea e dos requisitos para a manutenção da prisão preventiva. Sustenta a fragilidade do conjunto probatório acerca da autoria. Ressalta os predicados favoráveis, como primariedade e bons antecedentes. Subsidiariamente,  pede a substituição da custódia preventiva por medidas cautelares alternativas. Defende, ainda, a transferência para unidade prisional próxima de sua residência.
+Contrarrazões do Ministério Público estadual (fls. 211/218).
+O Ministério Público Federal, em seu parecer, opinou pelo não provimento do recurso (fls. 225/233).
+É o relatório.
+EMENTA
+DIREITO PROCESSUAL PENAL. RECURSO EM HABEAS CORPUS. ESTELIONATO QUALIFICADO. FRAUDE ELETRÔNICA. PRISÃO PREVENTIVA. TRANSFERÊNCIA DE UNIDADE PRISIONAL. SUPRESSÃO DE INSTÂNCIA. NEGATIVA DE AUTORIA. APROFUNDADO EXAME FÁTICO-PROBATÓRIO. INADMISSIBILIDADE. GRAVIDADE CONCRETA DA CONDUTA. MODUS  OPERANDI.  FUNDAMENTAÇÃO IDÔNEA. INEXISTÊNCIA DE CONSTRANGIMENTO ILEGAL.  PARECER ACOLHIDO.
+Recurso em habeas corpus parcialmente conhecido e, nessa extensão, improvido.
+VOTO
+Inicialmente, verifiquei que não houve manifestação da Corte estadual em relação ao pedido de transferência de unidade prisional. Isso inviabiliza a análise da questão por este Tribunal Superior, diante do nítido intento de supressão de instância.
+Ademais, na via eleita, não há como dirimir a tese de negativa de autoria, nem a de ausência de provas da conduta criminosa, pois, em razão da exigência de revolvimento do conteúdo fático-probatório, a estreita via do habeas corpus, bem como do recurso ordinário em habeas corpus, não é adequada para a análise das teses de negativa de autoria e da existência de prova robusta da materialidade delitiva. Nesse sentido: AgRg no HC n. 920.036/AM, Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe 13/2/2025; e AgRg no RHC n. 197.281/MG, Ministro Otávio de Almeida Toledo (Desembargador Convocado do TJSP), Sexta Turma, DJe 23/10/2024.
+Por ora, pelos elementos que constam destes autos, há indícios suficientes de autoria e de materialidade delitiva, aptos a dar base à prisão em questão.
+Diz a jurisprudência do Superior Tribunal de Justiça que toda prisão imposta ou mantida antes do trânsito em julgado de sentença penal condenatória, por ser medida de índole excepcional, deve vir sempre baseada em fundamentação concreta, isto é, em elementos vinculados à realidade.
+As instâncias ordinárias decidiram na linha da jurisprudência do Superior Tribunal de Justiça. Não há falar em revogação da prisão preventiva imposta ao recorrente.
+No caso, o Magistrado singular, ao decretar a prisão preventiva, ressaltou que (fls. 71/72 - grifo nosso):
+ ..
+I - Gravidade concreta da conduta:
+O modus operandi do delito revela especial gravidade e planejamento. Trata-se de uma ação coordenada em concurso de pessoas, por um grupo de seis indivíduos, divididos em duas equipes, com o claro propósito de aplicar golpes em série mediante fraude eletrônica. Ademais, ainda que se trate de crime supostamente ocorrido na modalidade tentada, a pena se adequa ao disposto na legislação, devendo ser ressaltado, ainda, o expressivo prejuízo causado à vítima, estimado em R$ 40.000,00, e a estrutura organizada para a prática delitiva demonstram a alta reprovabilidade da conduta e a periculosidade social dos agentes.
+II - Risco de reiteração delitiva:
+A forma de atuação do grupo, que se articulou para cometer o crime em duas investidas no mesmo dia, indica que não se trata de um fato isolado, mas de uma atividade criminosa organizada e em pleno curso. A soltura dos flagranteados, neste momento, representa um risco concreto de que retomem a empreitada delitiva, voltando a lesar o patrimônio de outras empresas e de titulares de cartões de crédito, o que justifica a segregação cautelar para interromper a atividade criminosa e resguardar a ordem pública.
+O acórdão impugnado manteve a segregação, entendendo-a corretamente motivada (fls. 157/165).
+Como se vê, o periculum libertatis d o recorrente foi evidenciado pelas instâncias ordinárias.
+Assim, observa-se ,  da análise dos trechos acima,  que a constrição cautelar está alicerçada em elementos vinculados à realidade  , ante as referências às circunstâncias fáticas justificadoras, com destaque, principalmente, ao modus operandi . Tudo a revelar e a justificar a manutenção da medida extrema.
+Com  efeito,  o  Superior  Tribunal  de  Justiça,  de  forma  reiterada,  registra  entendimento  no  sentido  de  que  a  gravidade  concreta  da  conduta,  reveladora  do  potencial  elevado  grau  de  periculosidade  do  agente  e  consubstanciada  na  alta  reprovabilidade  do  modus  operandi  empregado  na  empreitada  delitiva,  é  fundamento  idôneo  a  lastrear  a  prisão  preventiva,  com  o  intuito  de  preservar  a  ordem  pública  (AgRg  no  RHC  n.  171.820/PR,  Ministra  Laurita  Vaz,  Sexta Turma,  DJe  20/4/2023).  A  propósito:  AgRg  no  HC  n.  940.170/SP,  Ministra  Daniela  Teixeira,  Quinta Turma,  DJe  30/10/2024;  e  AgRg  no  RHC  n.  192.072/BA,  Ministro  Rogerio  Schietti  Cruz, Sexta Turma,  DJe  22/8/2024.
+Não é outra a opinião do Ministério Público Federal,  o qual também adoto como razão de decidir  (fls.  225/233).
+O nobre parecerista Subprocurador-Geral da República Antonio Edílio Magalhães Teixeira ressaltou que o feito aguarda realização de audiência de instrução para a data próxima de 06/02/2026, oportunidade em que o Juízo de 1º grau poderá reexaminar a necessidade de manutenção da cautelar máxima imposta ao Recorrente e demais corréus (fl. 233).
+Por fim, eventuais condições pessoais favoráveis do recorrente não têm o condão de, por si sós, garantir a revogação da prisão preventiva. Há nos autos elementos hábeis a recomendar a manutenção da custódia preventiva, não se mostrando suficientes, para o caso em análise, as medidas previstas no art. 319 do Código de Processo Penal.
+Ante o exposto, conheço parcialmente do recurso ordinário em habeas corpus e, nessa extensão, nego-lhe provimento.
