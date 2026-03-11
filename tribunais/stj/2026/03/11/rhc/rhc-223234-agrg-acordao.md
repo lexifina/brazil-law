@@ -1,0 +1,32 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEXTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 05/03/2026 a 11/03/2026, por unanimidade, dar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Antonio Saldanha Palheiro, Carlos Pires Brandão e Og Fernandes votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Carlos Pires Brandão.
+Não participou do julgamento o Sr. Ministro Rogerio Schietti Cruz.
+EMENTA
+AGRAVO REGIMENTAL EM RECURSO EM HABEAS CORPUS. TRÁFICO DE DROGAS. BUSCA E APREENSÃO DOMICILIAR. DECISÃO JUDICIAL QUE SERVIU COMO MANDADO. ATENDIMENTO AOS REQUISITOS DO ART. 243 DO CPP. CRIME PERMANENTE. FUNDADAS RAZÕES. LEGALIDADE DA DILIGÊNCIA.
+Agravo regimental provido.
+RELATÓRIO
+Trata-se de agravo regimental interposto pelo Ministério Público de Minas Gerais contra a decisão monocrática, de minha lavra, assim ementada (fl. 261):
+RECURSO EM HABEAS CORPUS. PROCESSUAL PENAL. TRÁFICO DE DROGAS E POSSE ILEGAL DE ARMA DE FOGO. PRISÃO PREVENTIVA. BUSCA E APREENSÃO. AUSÊNCIA DE MANDADO. PROVAS ILÍCITAS. PRECEDENTES.
+Recurso em habeas corpus provido.
+Em suas razões, o órgão ministerial sustenta que a decisão judicial continha todos os requisitos do art. 243 do CPP, indicando precisamente os endereços, fundamentando a medida e estabelecendo sua finalidade, servindo expressamente como mandado. Argumenta ainda que, tratando-se de crime permanente, o ingresso policial seria autorizado mesmo sem mandado, diante das fundadas razões existentes.
+Requer o provimento do presente agravo regimental, para que o eminente Ministro Relator reconsidere a decisão agravada, caso assim entenda. Não havendo retratação, pede seja o presente agravo remetido ao órgão colegiado competente, para que a decisão monocrática seja reformada, a fim de que, reconhecida a legalidade do ingresso dos policiais no domicílio do ora agravado e das eventuais provas decorrentes (fls. 276/277).
+O agravado apresentou contrarrazões às fls. 286/297.
+O Ministério Público Federal opinou, às fls. 303/307, pelo provimento do agravo.
+É o relatório.
+EMENTA
+AGRAVO REGIMENTAL EM RECURSO EM HABEAS CORPUS. TRÁFICO DE DROGAS. BUSCA E APREENSÃO DOMICILIAR. DECISÃO JUDICIAL QUE SERVIU COMO MANDADO. ATENDIMENTO AOS REQUISITOS DO ART. 243 DO CPP. CRIME PERMANENTE. FUNDADAS RAZÕES. LEGALIDADE DA DILIGÊNCIA.
+Agravo regimental provido.
+VOTO
+O agravo regimental comporta provimento.
+Melhor analisando os autos, verifico que a decisão judicial proferida em 26/6/2025, às 17h42, não se limitou a autorizar genericamente a busca e apreensão, mas conteve todos os elementos essenciais exigidos pelo art. 243 do Código de Processo Penal. Há indicação precisa dos endereços: Rua Santa Anastácia, n. 766, e Rua Santa Anastácia, s/n, Bairro São Domingos, Ubá/MG. E, ainda, menção expressa do motivo (investigação de tráfico de drogas e posse ilegal de arma de fogo) e dos fins da diligência (localização de entorpecentes e armas de fogo). Foi devidamente subscrita e assinada pela autoridade judicial competente.
+A fundamentação demonstra elementos concretos: informações obtidas por policiais militares, integrantes da Agência de Inteligência e moradores da região, corroboradas por movimentações suspeitas nas imediações dos imóveis. Tais elementos indicavam que Bruno Carlos Anastacio Brito, conhecido como "Zói de Mel", utilizava os referidos imóveis como ponto de armazenamento e comercialização de entorpecentes e para guarda de arma de fogo.
+O horário da decisão (17h42), possivelmente, não permitia a expedição regular de mandado em documento apartado pela serventia judicial. Por esta razão, o magistrado consignou expressamente: "SIRVA-SE A PRESENTE DECISÃO COMO MANDADO". Tal expediente não configura ilegalidade, dada a urgência e a natureza permanente do crime que demandavam atuação célere, sem prejuízo do atendimento integral aos requisitos legais.
+A decisão judicial que serve como mandado é admitida pela doutrina e jurisprudência quando atendidos todos os requisitos formais e materiais. O que importa é a existência de ordem judicial fundamentada, contendo todos os elementos necessários à sua execução e ao controle de legalidade. No caso, reanalisando a questão, verifico não haver dúvida de que a decisão atendeu integralmente aos requisitos do art. 243 do CPP.
+Ainda que se cogitasse de irregularidade formal, o que não se admite, não haveria prejuízo à defesa. O art. 563 do Código de Processo Penal consagra o princípio pas de nullité sans grief, segundo o qual nenhuma nulidade será declarada sem prova de efetivo prejuízo. A ordem judicial existiu, fundamentada e completa, permitindo pleno controle de legalidade.
+Ademais, o tráfico de drogas é crime permanente, cuja consumação se prolonga no tempo. Tratando-se de crime permanente, o estado de flagrância persiste enquanto não cessada a permanência (art. 303 do CPP), autorizando o ingresso policial no imóvel independentemente de mandado judicial quando presentes fundadas razões.
+No caso concreto, as informações previamente obtidas, aliadas às movimentações suspeitas detectadas, configuravam fundadas razões para crer que nos locais indicados ocorria a prática de tráfico de drogas. A exitosa diligência, que resultou na apreensão de 154 comprimidos de ecstasy (88,38 g), 20 pedras de cocaína (515,08 g), 16 tabletes de maconha (407,17 g), materiais para embalagem, rádio HT e revólver calibre .38 municiado, confirma que a medida era necessária, adequada e proporcional.
+O Supremo Tribunal Federal, no Tema 280 da Repercussão Geral (RE n. 1.447.374/MS), fixou que a entrada forçada em domicílio sem mandado judicial é lícita quando amparada em fundadas razões que indiquem flagrante delito. No caso, havia fundadas razões devidamente justificadas, corroboradas pelo êxito da diligência.
+A proteção ao domicílio não é absoluta e cede diante de situações excepcionais, como o flagrante de crime permanente. A diligência foi realizada em horário permitido (entre 05h e 21h), observadas as formalidades do art. 245 do CPP. Não se verifica ilegalidade ou constrangimento ilegal. Ao contrário, constata-se atuação policial e judicial regular, pautada na estrita observância dos dispositivos legais e constitucionais.
+Ante o exposto, dou provimento ao agravo regimental para reformar a decisão monocrática e negar provimento ao recurso em habeas corpus, reconhecendo a legalidade da busca e apreensão domiciliar realizada e a validade de todas as provas dela decorrentes.
