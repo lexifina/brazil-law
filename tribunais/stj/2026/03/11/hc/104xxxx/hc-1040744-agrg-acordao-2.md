@@ -1,0 +1,27 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEXTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 05/03/2026 a 11/03/2026, por unanimidade, não conhecer do recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Antonio Saldanha Palheiro, Carlos Pires Brandão e Og Fernandes votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Carlos Pires Brandão.
+Não participou do julgamento o Sr. Ministro Rogerio Schietti Cruz.
+EMENTA
+AGRAVO REGIMENTAL EM PEDIDO DE EXTENSÃO EM HABEAS CORPUS. TRÁFICO DE DROGAS E ASSOCIAÇÃO PARA O TRÁFICO. EXTENSÃO DE EFEITOS PARA NEGATIVAÇÃO DO VETOR QUANTIDADE E NATUREZA DO ENTORPECENTE, SEM ALTERAR A REPRIMENDA FINAL. PRETENSÕES DE ABSOLVIÇÃO POR ASSOCIAÇÃO, INCIDÊNCIA DO TRÁFICO PRIVILEGIADO, ABRANDAMENTO DE REGIME, SUBSTITUIÇÃO DA PENA E DESCLASSIFICAÇÃO SUSCITADAS APENAS NO AGRAVO. INOVAÇÃO RECURSAL. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DO FUNDAMENTO CENTRAL DA DECISÃO AGRAVADA (INCIDÊNCIA DA SÚMULA 231/STJ). SÚMULA 182/STJ. INCIDÊNCIA.
+Agravo regimental não conhecido.
+RELATÓRIO
+Trata-se de agravo regimental (Petição n. 40.981/2026) interposto por MARIANA NOBREGA DAHER contra a decisão da lavra deste Relator (fls. 218/220), em que deferi o pedido de extensão para afastar a negativação do vetor quantidade e natureza dos entorpecentes apreendidos, sem, contudo, alterar a pena total por incidência da Súmula 231/STJ, a seguir ementada:
+PEDIDO DE EXTENSÃO EM HABEAS CORPUS CONCEDIDO. TRÁFICO DE DROGAS E ASSOCIAÇÃO PARA O TRÁFICO. CONSTRANGIMENTO ILEGAL APENAS QUANTO À EXASPERAÇÃO DA PENA-BASE. ART. 42 DA LEI N. 11.343/2006. QUANTIDADE E NATUREZA QUE NÃO DESBORDAM DO TIPO PENAL NEM DEMONSTRAM MAIOR PERICULOSIDADE. IDENTIDADE DE SITUAÇÕES CONSTATADA. EXTENSÃO DOS EFEITOS QUE SE IMPÕE.
+Pedido de extensão deferido nos termos do dispositivo.
+Sustenta o agravante, inicialmente, a necessidade de julgamento colegiado e o enfrentamento direto da decisão monocrática - ao argumento de que a correção da ilegalidade sem recomposição da pena cria "figura juridicamente inexistente", pois o método trifásico do art. 68 do Código Penal não admite "correção simbólica", devendo haver recalibração aritmética obrigatória (fl. 242) -, pretendendo o afastamento da condenação por associação para o tráfico e a revisão da dosimetria do tráfico, aduzindo:
+a) erro de direito objetivo por manter o mesmo quantum final após reconhecer a ilegalidade na pena-base, pois configuraria desrespeito ao princípio da individualização da pena (fl. 242) e afronta ao garantismo penal e à individualização da conduta (fl. 243);
+b) confissão espontânea não devidamente considerada e indevida valoração negativa da conduta social por juízos morais ligados à condição de estudante (fl. 244);
+c) inexistência de animus associativo e de estabilidade e permanência para configurar o crime do art. 35 da Lei n. 11.343/2006 (fl. 245); e
+d) pequena ofensividade da conduta, com quantidades individualmente atribuídas à agravante (aprox. 20 g de maconha, 2,6 g de ecstasy e 1,9 g de LSD), o que atrairia a incidência do redutor do art. 33, § 4º, na fração máxima, abrandamento do regime, substituição da pena por alternativas e eventual desclassificação para o delito do art. 28 (fls. 245/247).
+É o relatório.
+EMENTA
+AGRAVO REGIMENTAL EM PEDIDO DE EXTENSÃO EM HABEAS CORPUS. TRÁFICO DE DROGAS E ASSOCIAÇÃO PARA O TRÁFICO. EXTENSÃO DE EFEITOS PARA NEGATIVAÇÃO DO VETOR QUANTIDADE E NATUREZA DO ENTORPECENTE, SEM ALTERAR A REPRIMENDA FINAL. PRETENSÕES DE ABSOLVIÇÃO POR ASSOCIAÇÃO, INCIDÊNCIA DO TRÁFICO PRIVILEGIADO, ABRANDAMENTO DE REGIME, SUBSTITUIÇÃO DA PENA E DESCLASSIFICAÇÃO SUSCITADAS APENAS NO AGRAVO. INOVAÇÃO RECURSAL. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DO FUNDAMENTO CENTRAL DA DECISÃO AGRAVADA (INCIDÊNCIA DA SÚMULA 231/STJ). SÚMULA 182/STJ. INCIDÊNCIA.
+Agravo regimental não conhecido.
+VOTO
+O presente agravo regimental - que desafia decisão que deferiu pedido de extensão formulado pela ora agravante para afastar a exasperação da pena-base fundada na quantidade e natureza da droga (art. 42 da Lei n. 11.343/2006), sem, contudo, alterar o total das penas, ante a incidência da Súmula 231/STJ, na condenação do por tráfico de drogas e associação para o tráfico a 9 anos e 4 meses de reclusão, e 1.399 dias-multa, na Ação Penal n. 1500114-68.2019.8.26.0592 (da 2ª Vara da comarca de Adamantina/SP), alterada em grau de apelação - não comporta conhecimento.
+Primeiro, porque as pretensões de afastamento da condenação por associação para o tráfico, incidência do tráfico privilegiado, abrandamento do regime, substituição da pena por alternativas e desclassificação para o delito do art. 28 somente foram suscitadas quando da interposição do presente agravo regimental, razão pela qual delas não se pode conhecer, por se tratar de indevida inovação recursal (AgRg no RHC n. 226.078/PB, Ministro Antonio Saldanha Palheiro, Sexta Turma, DJEN de 23/12/2025).
+Depois, porque em relação à não alteração do quantum de pena na decisão que deferiu pedido de extensão para afastar a exasperação da pena-base fundada na quantidade e natureza da droga (art. 42 da Lei n. 11.343/2006), o agravante não refutou o argumento central da manutenção da reprimenda, com incidência da Súmula 231/STJ (fl. 219).
+Assim, tem incidência o enunciado da Súmula 182/STJ.
+Em razão disso, não conheço do presente agravo regimental.
