@@ -1,0 +1,67 @@
+DECISÃO
+
+RECURSO EXTRAORDINÁRIO COM AGRAVO. ADMINISTRATIVO E FINANCEIRO. SERVIDORES PÚBLICOS. MAGISTÉRIO MUNICIPAL. RATEIO DE VERBAS DO FUNDO DE MANUTENÇÃO E DESENVOLVIMENTO DO ENSINO FUNDAMENTAL E DE VALORIZAÇÃO DO MAGISTÉRIO – FUNDEF. POSSIBILIDADE. VALORES PROVENIENTES DE PRECATÓRIO DESTINADO AO MUNICÍPIO DE MARIZÓPOLIS/PB. REMUNERAÇÃO DOS PROFISSIONAIS DO MAGISTÉRIO DA EDUCAÇÃO BÁSICA. ARGUIÇÃO DE DESCUMPRIMENTO DE PRECEITO FUNDAMENTAL N. 528. SUPERVENIÊNCIA DA EMENDA CONSTITUCIONAL N. 114/2021. JULGADO RECORRIDO DIVERGENTE DA JURISPRUDÊNCIA DO SUPREMO TRIBUNAL FEDERAL. AGRAVO E RECURSO EXTRAORDINÁRIO PROVIDOS.
+Relatório
+
+1. Agravo nos autos principais contra inadmissão de recurso extraordinário interposto, com base na al. a do inc. III do art. 102 da Constituição da República, contra o seguinte julgado do Tribunal de Justiça da Paraíba:
+“AGRAVO INTERNO EM APELAÇÃO. RATEIO DAS VERBAS DECORRENTES DO AJUSTE FINANCEIRO ANUAL DO FUNDEB/FUNDEF. DESTINAÇÃO DE, AO MENOS, 60% DOS RECURSOS TOTAIS PARA A REMUNERAÇÃO DO MAGISTÉRIO. IMPOSSIBILIDADE DE APLICAÇÃO RETROATIVA DE LEI. INOVAÇÃO LEGISLATIVA POSTERIOR AO PRECATÓRIO JÁ PAGO. IMPOSSIBILIDADE DE SUBVINCULAÇÃO E CONSEQUENTE DESTINAÇÃO PARA PAGAMENTO DO MAGISTÉRIO. JULGAMENTO DA ADPF N.º 528/DF PELO STF. REFORMA DA SENTENÇA. IMPROCEDÊNCIA DA INICIAL. MANUTENÇÃO DA DECISÃO. DESPROVIMENTO DO AGRAVO INTERNO. - Observando-se que o polo insurgente não apresenta nenhuma argumentação apta a modificar o posicionamento anteriormente firmado, é de se concluir pela integral manutenção da decisão singular atacada, não restando, por conseguinte, outro caminho, senão o de desprovimento do agravo interno” (fl. 1, e-doc. 28).
+
+Os embargos de declaração opostos foram rejeitados (e-doc. 34).
+
+2. No recurso extraordinário, os agravantes alegaram ter o Tribunal de origem contrariado o parágrafo único do art. 5º da Emenda Constitucional n. 114/2021.
+
+Argumentaram que, pelo parágrafo único do art. 5º da Emenda Constitucional n. 114/2021, teria sido introduzida “na Constituição Federal regra determinando aos estados e municípios a aplicação dos recursos obtidos com os precatórios do FUNDEF, conforme destinação originária do fundo. Desse total, 60% (sessenta por cento) deverão ser repassados aos profissionais do magistério, inclusive aposentados e pensionistas, na forma de abono, proibida a incorporação na remuneração, aposentadoria ou pensão” (fl. 10, e-doc. 36).
+
+Pediram a reforma da “decisão do TJPB, ante o desrespeito da vigência do parágrafo único do art. 5º da EC nº 114/2021, concluindo pela procedência da demanda em favor dos recorrentes para condenar a parte recorrida a pagar, em favor dos recorrentes, em forma de abono, os valores referentes ao percentual de 60% (sessenta por cento) do valor bruto proveniente do Precatório n.º 0330025-43.2020.4.05.0000, PRC 189849-PB, destinado ao município recorrido e pago pela União, referente ao FUNDEF” (fl. 17, e-doc. 36).
+
+3. O recurso extraordinário foi inadmitido pela ausência de ofensa constitucional direta (e-doc. 40).
+
+4. Neste agravo, os agravantes alegam afronta aos “preceitos constitucionais da valorização dos profissionais da educação e da correta destinação dos recursos do FUNDEF, conforme estabelecido na Emenda Constitucional nº 114/2021. A discussão não exige reinterpretação de norma infraconstitucional, mas sim a análise direta da eficácia e aplicabilidade das normas constitucionais, o que caracteriza ofensa direta e frontal à Constituição Federal” (fl. 7, e-doc. 42).
+
+Asseveram demonstrada a ofensa direta à Constituição da República, “sendo claro que o r. acórdão ora vergastado e impugnado violou a validade e autoridade do art. 5º da EC nº 114/2021, quando proveu o recurso do município de Marizópolis para julgar improcedente o pedido o faz de forma totalmente contraditória com a correta interpretação da Carta Magna e que, de acordo com os mandamentos constitucionais acima citados, sobram motivos e fundamentos para reforma do acórdão do TJPB, inclusive a que não admitiu o recurso, pois a violação da Constituição foi direta e não indireta” (fl. 13, e-doc. 42).
+Pedem o provimento do presente recurso extraordinário com agravo.
+
+Examinados os elementos havidos no processo, DECIDO.
+
+5. Cumpre afastar o fundamento de inadmissibilidade recursal, por se tratar de matéria constitucional devidamente impugnada no recurso extraordinário.
+
+Superado esse óbice jurídico de admissibilidade do recurso extraordinário, de se concluir assistir razão jurídica aos agravantes.
+
+6. Na espécie vertente, a Quarta Câmara Especializada Cível do Tribunal de Justiça da Paraíba dirimiu a controvérsia sobre “vinculação das verbas públicas oriundas do FUNDEF, decorrentes de precatório judicial” (fl. 2, e-doc. 28), com os seguintes fundamentos:
+
+“A Emenda Constitucional n. 114/2021, em seu art. 5º, parágrafo único, reconheceu a subvinculação dos precatórios do FUNDEF nos seguintes termos:
+ ‘Art. 5º As receitas que os Estados e os Municípios receberem a título de pagamentos da União por força de ações judiciais que tenham por objeto a complementação de parcela desta no Fundo de Manutenção e Desenvolvimento do Ensino Fundamental e de Valorização do Magistério (Fundef) deverão ser aplicadas na manutenção e desenvolvimento do ensino fundamental público e na valorização de seu magistério, conforme destinação originária do Fundo.
+ Parágrafo único. Da aplicação de que trata o caput deste artigo, no mínimo 60% (sessenta por cento) deverão ser repassados aos profissionais do magistério, inclusive aposentados e pensionistas, na forma de abono, vedada a incorporação na remuneração, na aposentadoria ou na pensão.’
+Ademais, Lei 11.494/2007, vigente à época, fazia menção em seu art. 22 que ‘pelo menos 60% (sessenta por cento) dos recursos anuais totais dos Fundos serão destinados ao pagamento da remuneração dos profissionais do magistério da educação básica em efetivo exercício na rede pública’.
+Além disso, se pouco fosse, da análise do art. 60, § 5º, do ADCT, do art. 7º da Lei Federal nº 9.424/96 e do art. 22 da Lei Federal nº 11.494/2007, acima citada, não se verifica a obrigatoriedade do rateio dos recursos do precatório no percentual de sessenta por cento das verbas oriundas de precatórios. Ora, tais disposições se referem ao rateio das verbas do Fundeb de natureza ordinária, ou seja, os percebidos anualmente decorrentes das transferências constitucionais obrigatórias da União, e não os de percepção extraordinária e eventual, razão pela qual, referidos dispositivos tornam-se inaplicáveis.
+Portanto, no caso dos autos, as verbas extraordinárias recebidas pelo Ente Público, a título de complementação do Fundeb, quantia esta proveniente do Precatório nº 189849-PB, oriundo da ação ordinária nº. 0800193-47.2014.4.05.8202, não devem ser submetidas a quaisquer subvinculações.
+Para além disso, o Supremo Tribunal Federal, no julgamento da ADPF 528/DF, em 21/03/2022, que teve como relator o Min. Alexandre de Morais, entendeu pela ‘constitucionalidade do afastamento da subvinculação que determina a aplicação de 60% dos recursos anuais totais dos fundos ao pagamento da remuneração dos profissionais do magistério da educação básica’ (...)
+Ressalte-se que esta Corte [Tribunal de Justiça da Paraíba], em recente julgado, negou provimento ao recurso de servidores públicos cujo objetivo era justamente o mesmo que se busca alcançar nos presentes autos (...)
+Vale anotar, assim, que a Lei Federal nº 14.057/20 possui âmbito de aplicação restrito a acordos feitos entre a União e seus Municípios credores no âmbito de demandas judiciais que envolveram a complementação do FUNDEF, não ostentando efeitos retroativos a precatórios já pagos em data anterior ao seu advento, sendo inaplicáveis as suas disposições à hipótese dos autos” (fls. 2-5, e-doc. 28).
+
+ Em 21.3.2022, este Supremo Tribunal Federal julgou improcedente a Arguição de Descumprimento de Preceito Fundamental n. 528, Relator o Ministro Alexandre de Moraes, em acórdão com a seguinte ementa:
+
+“DIREITO À EDUCAÇÃO. COMPLEMENTAÇÃO DOS RECURSOS DO FUNDEF/FUNDEB. COMO VERBAS DE NATUREZA EXTRAORDINÁRIA. CONSTITUCIONALIDADE DO AFASTAMENTO DA SUBVINCULAÇÃO QUE DETERMINA A APLICAÇÃO DE 60% DOS RECURSOS ANUAIS TOTAIS DOS FUNDOS AO PAGAMENTO DA REMUNERAÇÃO DOS PROFISSIONAIS DO MAGISTÉRIO DA EDUCAÇÃO BÁSICA. IMPOSSIBILIDADE DO PAGAMENTO DE HONORÁRIOS ADVOCATÍCIOS CONTRATUAIS COM RECURSOS DO FUNDEF/FUNDEB. CARACTERIZAÇÃO DE DESVIO DE VERBAS CONSTITUCIONALMENTE VINCULADAS À EDUCAÇÃO. PRECEDENTES. CONSTITUCIONALIDADE DO ACÓRDÃO 1.824/2017 DO TRIBUNAL DE CONTAS DA UNIÃO. INCIDÊNCIA DA EC 114/2021. IMPROCEDÊNCIA. 1. A orientação do TCU que afasta a incidência da regra do art. 22 da Lei 11.494/2007 aos recursos
+de complementação do FUNDEB pagos por meio de precatórios encontra-se em conformidade com os preceitos constitucionais que visam a resguardar o direito à educação e a valorização dos profissionais da educação básica. 2. O caráter extraordinário da complementação dessa verba justifica o afastamento da subvinculação, pois a aplicação do art. 60, XII, do ADCT, c/c art. 22 da Lei 11.494/2007, implicaria em pontual e insustentável aumento salarial dos professores do ensino básico, que, em razão da regra de irredutibilidade salarial, teria como efeito pressionar o orçamento público municipal nos períodos subsequentes – sem o respectivo
+aporte de novas receitas derivadas de inexistentes precatórios –, acarretando o investimento em salários além do patamar previsto constitucionalmente, em prejuízo de outras ações de ensino a serem financiadas com os mesmos recursos. 3. É inconstitucional o pagamento de honorários advocatícios contratuais com recursos alocados no FUNDEF/FUNDEB, que devem ser utilizados exclusivamente em ações de desenvolvimento e manutenção do ensino. Precedentes. 4. A vinculação constitucional em questão não se aplica aos encargos moratórios que podem servir ao pagamento de honorários advocatícios contratuais devidamente ajustados, pois conforme decidido por essa CORTE, ‘os juros de mora legais têm natureza jurídica autônoma em relação à natureza jurídica da verba em atraso’ (RE 855091-RG, Rel. Min. DIAS TOFFOLI, Tribunal Pleno, julgado em 15/3/2021, DJe de 8/4/2021). 5. Arguição de Descumprimento de Preceito Fundamental julgada IMPROCEDENTE” (Plenário, DJe 22.4.2022).
+
+O Tribunal de origem, com fundamento nesse precedente vinculante, vedou o recebimento, pelos servidores públicos agravantes, do rateio de valores provenientes de 60% das verbas do Fundo de Manutenção e Desenvolvimento do Ensino Fundamental e de Valorização do Magistério – FUNDEF, destinadas, via precatório, ao Município de Marizópolis/PB.
+
+No julgamento do Agravo Regimental no Recurso Extraordinário com Agravo n. 1.573.948/PB, Relator o Ministro Flávio Dino, a Primeira Turma deste Supremo Tribunal Federal assentou:
+
+“(...) a Emenda Constitucional nº 114/2021 conferiu nova conformação à controvérsia ao determinar, em seu art. 5º, caput e parágrafo único, que as receitas decorrentes de ações judiciais relativas ao FUNDEF devem ser aplicadas na manutenção e desenvolvimento do ensino fundamental público e na valorização do magistério, destinando-se 60% (sessenta por cento) dessas verbas aos profissionais do magistério, inclusive aposentados e pensionistas, na forma de abono, vedada a incorporação à remuneração, à aposentadoria ou à pensão (...) ao vedar expressamente essa incorporação, a norma constitucional afastou o risco fiscal e orçamentário que fundamentava o entendimento anterior e fixou novo parâmetro jurídico, posteriormente consolidado pela Lei nº 14.325/2022, que reafirmou a natureza indenizatória do pagamento e assegurou o direito dos beneficiários ao rateio” (DJe 3.12.2025).
+
+O Tribunal de Justiça da Paraíba deve observar a atual jurisprudência deste Supremo Tribunal, formada a partir da edição da Emenda Constitucional n. 114/2021, para analisar o pleito recursal dos servidores públicos municipais referente ao direito de receberem “os valores referentes ao percentual de 60% (sessenta por cento) do valor bruto R$ 4.695.132,24 (quatro milhões seiscentos e noventa e cinco mil cento e trinta e dois reais e vinte e quatro centavos), proveniente do Precatório n.º 0330025-43.2020.4.05.0000, PRC 189849-PB, destinado ao município agravado e pago pela União, referente ao FUNDEF” (fl. 2, e-doc. 28).
+
+Confiram-se, por exemplo, as seguintes decisões monocráticas proferidas em processos semelhantes ao presente: ARE n. 1.587.033/BA, Relatora a Ministra Cármen Lúcia, DJe 18.2.2026, ARE n. 1.589.121/BA, Relator o Ministro Dias Toffoli, DJe 27.2.2026; ARE n. 1.588.163/PB, Relator o Ministro Cristiano Zanin, DJe 26.2.2026; ARE n. 1.587.766/PB, Relator o Ministro André Mendonça, DJe 2.3.2026; e ARE n. 1.581.258/BA, Relator o Ministro Gilmar Mendes, DJe 21.1.2026.
+
+A conclusão do julgado recorrido diverge da jurisprudência deste Supremo Tribunal.
+
+7. Pelo exposto, dou provimento ao presente recurso extraordinário com agravo e, desde logo, ao recurso extraordinário (al. b do inc. V do art. 932 do Código de Processo Civil e § 2º do art. 21 do Regimento Interno do Supremo Tribunal Federal), para anular o acórdão recorrido e determinar a remessa dos autos ao Tribunal de origem, para decidir como de direito, observada a atual jurisprudência deste Supremo Tribunal Federal.
+
+Publique-se.
+
+Brasília, 11 de março de 2026.
+
+Ministra CÁRMEN LÚCIA
+Relatora
