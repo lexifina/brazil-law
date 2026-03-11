@@ -1,0 +1,27 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEXTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 05/03/2026 a 11/03/2026, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Antonio Saldanha Palheiro, Carlos Pires Brandão e Og Fernandes votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Carlos Pires Brandão.
+Não participou do julgamento o Sr. Ministro Rogerio Schietti Cruz.
+EMENTA
+AGRAVO REGIMENTAL EM HABEAS CORPUS. TRÁFICO DE DROGAS. AUSÊNCIA DE CÓPIA DA DECISÃO DE PRIMEIRO GRAU. VERIFICAÇÃO DA VEROSSIMILHANÇA DAS ALEGAÇÕES. INVIABILIDADE. PRISÃO PREVENTIVA. FUNDAMENTAÇÃO. INDICAÇÃO DE ELEMENTOS CONCRETOS (751,9 KG DE MACONHA) QUE DENOTAM A NECESSIDADE DA CUSTÓDIA PARA A GARANTIA DA ORDEM PÚBLICA. CONSTRANGIMENTO ILEGAL. AUSÊNCIA. DECISÃO MANTIDA.
+Agravo regimental improvido.
+RELATÓRIO
+Trata-se de agravo regimental interposto por PAULO CESAR DA SILVA contra a decisão de fls. 26/28, assim ementada:
+PROCESSUAL PENAL. HABEAS CORPUS. TRÁFICO DE DROGAS. AUSÊNCIA DE CÓPIA DA DECISÃO DE PRIMEIRO GRAU. VERIFICAÇÃO DA VEROSSIMILHANÇA DAS ALEGAÇÕES. INVIABILIDADE. PRISÃO PREVENTIVA. FUNDAMENTAÇÃO. INDICAÇÃO DE ELEMENTOS CONCRETOS (751,9 KG DE MACONHA) QUE DENOTAM A NECESSIDADE DA CUSTÓDIA PARA A GARANTIA DA ORDEM PÚBLICA. CONSTRANGIMENTO ILEGAL. AUSÊNCIA. Inicial indeferida liminarmente.
+Alega o agravante que a matéria é relevante e demanda apreciação colegiada para resguardar a uniformidade da jurisprudência e a segurança jurídica, pois a decisão valorizou a periculosidade com base apenas na quantidade de entorpecente, sendo o paciente réu primário, confesso e mero transportador - mula - além de que a não juntada da decisão que decretou a preventiva não pode impedir o conhecimento do habeas corpus, porque os demais documentos estão nos autos.
+Afirma, ainda, que a pena possivelmente aplicável não justifica a manutenção da segregação cautelar. Argumenta que a decisão incorreu em equívoco na interpretação do art. 42 da Lei n. 11.343/2006, pois a quantidade e a natureza da droga são fatores preponderantes, mas não exclusivos, e há ilegalidade flagrante apta a ser reconhecida mesmo em sede de habeas corpus.
+Defende a existência de jurisprudência favorável no Superior Tribunal de Justiça e no Supremo Tribunal Federal, no sentido de que a quantidade de droga, por si só, não basta para justificar a prisão preventiva e de que a medida é de ultima ratio.
+Pugna, assim, pela reforma da decisão agravada.
+É o relatório.
+EMENTA
+AGRAVO REGIMENTAL EM HABEAS CORPUS. TRÁFICO DE DROGAS. AUSÊNCIA DE CÓPIA DA DECISÃO DE PRIMEIRO GRAU. VERIFICAÇÃO DA VEROSSIMILHANÇA DAS ALEGAÇÕES. INVIABILIDADE. PRISÃO PREVENTIVA. FUNDAMENTAÇÃO. INDICAÇÃO DE ELEMENTOS CONCRETOS (751,9 KG DE MACONHA) QUE DENOTAM A NECESSIDADE DA CUSTÓDIA PARA A GARANTIA DA ORDEM PÚBLICA. CONSTRANGIMENTO ILEGAL. AUSÊNCIA. DECISÃO MANTIDA.
+Agravo regimental improvido.
+VOTO
+O inconformismo não prospera.
+As razões do agravo regimental não são suficientes para afastar a fundamentação da decisão agravada, respaldada em pacífico entendimento jurisprudencial desta Corte, razão pela qual a mantenho integralmente (fl. 27):
+ ..  os autos não se encontram suficientemente instruídos com cópia da decisão de primeiro grau que decretou a prisão preventiva, circunstância que impede a verificação da verossimilhança das alegações. Com efeito, é ônus da defesa instruir adequadamente o habeas corpus, no momento da impetração, sob pena de ser ele inadmitido de plano, pois a ação constitucional depende de prova pré-constituída, não comportando instrução probatória (AgRg no HC n. 939.286/MG, Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe 25/10/2024). De todo modo, in casu, foram apreendidos 751,9 kg de maconha, estando evidenciada a periculosidade concreta do paciente.
+Com efeito, o entendimento do acórdão impugnado, de que é legítima a prisão cautelar em questão, está em consonância com a firme jurisprudência do Superior Tribunal de Justiça. A propósito, esta Corte Superior entende que hipóteses em que a quantidade e/ou a natureza das drogas apreendidas e outras circunstâncias do caso revelem a maior reprovabilidade da conduta investigada, tais dados são bastantes para demonstrar a gravidade concreta do delito e, por conseguinte, justificar a custódia cautelar para a garantia da ordem pública (AgRg no HC n. 899.502/SP, Ministro Schietti Cruz, Sexta Turma, DJe 12/6/2024). E, ainda: AgRg no HC n. 981.884/SP, relator Ministro Otávio de Almeida Toledo (Desembargador Convocado do TJSP), Sexta Turma, julgado em 14/5/2025, DJEN de 20/5/2025; e AgRg no HC n. 990.118/SP, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 14/5/2025, DJEN de 20/5/2025.
+Com efeito, o acórdão recorrido, ao reconhecer a legitimidade da prisão cautelar, segue a orientação consolidada do Superior Tribunal de Justiça. Esta Corte tem decidido que, quando a quantidade e/ou a natureza da droga apreendida, combinadas com circunstâncias do caso, revelam maior reprovabilidade da conduta, tais elementos bastam para evidenciar a gravidade concreta do delito e justificar a custódia preventiva para a garantia da ordem pública, destacada no caso a expressiva quantidade apreendida (751,9 kg de maconha).
+Do mesmo modo, inviável o conhecimento do habeas corpus não instruído com peça essencial ao exame da controvérsia.
+Nego provimento ao agravo regimental.
