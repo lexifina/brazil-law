@@ -1,0 +1,29 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEXTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 05/03/2026 a 11/03/2026, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Antonio Saldanha Palheiro, Carlos Pires Brandão e Og Fernandes votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Carlos Pires Brandão.
+Não participou do julgamento o Sr. Ministro Rogerio Schietti Cruz.
+EMENTA
+AGRAVO REGIMENTAL EM RECURSO EM HABEAS CORPUS. ART. 158, § 1º, DO CP. CONDENAÇÃO EM REGIME INICIAL FECHADO. TRÂNSITO EM JULGADO. EXPEDIÇÃO DA GUIA DE EXECUÇÃO PENAL ANTES DO CUMPRIMENTO DO MANDADO DE PRISÃO. INVIABILIDADE. AUSÊNCIA DE SITUAÇÃO EXCEPCIONAL. ACÓRDÃO EM CONFORMIDADE COM A JURISPRUDÊNCIA DO STJ.
+Agravo regimental improvido.
+RELATÓRIO
+Trata-se de agravo regimental interposto por WANDERLEI BARBOSA DE RESENDE contra a decisão de fls. 89/91, que foi assim resumida:
+RECURSO EM HABEAS CORPUS. ART. 158, § 1º, DO CP. CONDENAÇÃO EM REGIME INICIAL FECHADO. TRÂNSITO EM JULGADO. EXPEDIÇÃO DE GUIA DE EXECUÇÃO ANTES DO CUMPRIMENTO DO MANDADO DE PRISÃO. INVIABILIDADE. INEXISTÊNCIA DE SITUAÇÃO EXCEPCIONAL. ACÓRDÃO EM CONSONÂNCIA COM A JURISPRUDÊNCIA DO STJ.
+Recurso improvido.
+Em síntese, alega o agravante que a decisão merece reexame, pois adota compreensão excessivamente restritiva do papel da Lei de Execução Penal e do próprio alcance do habeas corpus em matéria executória (fls. 99/100). Sustenta, nesse sentido, que a Lei de Execução Penal não condiciona o início da jurisdição executória ao cumprimento do mandado de prisão, mas, pelo contrário, parte da premissa de que, uma vez formada a coisa julgada, a pena deve ser imediatamente submetida ao controle do Juízo da Execução, justamente para evitar excessos e assegurar a correta individualização da sanção (fl. 101). Aduz que a ausência de guia de execução impede a atuação do Juízo da Execução e cria a possibilidade real de início de cumprimento em regime mais gravoso do que o efetivamente devido, caracterizando ameaça concreta ao direito de locomoção do paciente (fl. 102). Defende, por fim, que exigir que o condenado primeiro suporte eventual ilegalidade para, só depois, buscar correção judicial, equivale a esvaziar a função preventiva do habeas corpus (fls. 102/103).
+Busca a reforma da decisão hostilizada a fim de determinar a expedição da guia de execução penal e do Atestado de Pena a Cumprir, com a regular liquidação da pena, independentemente do prévio cumprimento do mandado de prisão (fl. 103).
+É o relatório.
+EMENTA
+AGRAVO REGIMENTAL EM RECURSO EM HABEAS CORPUS. ART. 158, § 1º, DO CP. CONDENAÇÃO EM REGIME INICIAL FECHADO. TRÂNSITO EM JULGADO. EXPEDIÇÃO DA GUIA DE EXECUÇÃO PENAL ANTES DO CUMPRIMENTO DO MANDADO DE PRISÃO. INVIABILIDADE. AUSÊNCIA DE SITUAÇÃO EXCEPCIONAL. ACÓRDÃO EM CONFORMIDADE COM A JURISPRUDÊNCIA DO STJ.
+Agravo regimental improvido.
+VOTO
+As razões trazidas no agravo regimental não são suficientes para infirmar a decisão ora agravada, devendo ser mantida por seus próprios fundamentos, os quais transcrevo para que integrem este julgado (fls. 90/91 - grifos no original):
+ ..
+O recurso não merece prosperar, porquanto o acórdão impugnado está em consonância com a firme jurisprudência do Superior Tribunal de Justiça sobre o tema.
+A Corte local entendeu que não houve no caso a necessária comprovação de grave e concreto prejuízo ao condenado (fl. 57), pois eventual alteração do modo de cumprimento da pena fixado na sentença condenatória não se mostra evidente a ponto de excepcionar a lei e julgados em referência, sobretudo diante da reincidência do condenado  circunstância que exige maior rigor nas regras de progressão de regime  , do reduzido período de pena já remido e do fato de que a unificação poderá, ao contrário do pretendido, resultar em provável aumento do tempo a ser cumprido (fl. 63).
+Ora, admite-se, excepcionalmente, a expedição da guia de execução antes do cumprimento do mandado prisional apenas em casos específicos e excepcionais, em situações nas quais as circunstâncias fáticas e concretas indiquem que a prisão do sentenciado possa vir a ser excessivamente gravosa (AgRg no RHC n. 139.738/CE, da minha relatoria , Sexta Turma, DJe 26/5/2021).
+Na hipótese dos autos, a defesa não indicou situação que pudesse justificar a excepcional expedição da guia de recolhimento previamente ao cumprimento do mandado de prisão  ..  (AgRg no RHC n. 163.261/MS, Ministro Olindo Menezes, Desembargador convocado do TRF 1ª Região, Sexta Turma, DJe 10/6/2022), atendo-se à alegação genérica de que o paciente pode ser recolhido em regime fechado sem que se tenha considerado a unificação das penas e os créditos de remição (fl. 71).
+Frise-se: embora excepcionalmente admitida a expedição da guia de execução penal antes do cumprimento do mandado de prisão, tal medida depende de demonstração de circunstâncias concretas que indiquem cabalmente um prejuízo ao apenado - tudo o que não foi comprovado no caso concreto (AgRg no HC n. 1.026.497/TO, relator Ministro Messod Azulay Neto, Quinta Turma, julgado em 9/9/2025, DJEN de 15/9/2025).
+Assim, diante da jurisprudência consolidada, nego provimento ao recurso (art. 34, XVIII, b, do RISTJ).
+Reafirmo que, diante da ausência de comprovação de excepcionalidade, não há como ser acolhida a pretensão defensiva. In casu, o entendimento do Tribunal a quo alinha-se à jurisprudência do Superior Tribunal de Justiça, que não admite a expedição de guia de execução enquanto o mandado de prisão definitiva estiver pendente de cumprimento, salvo em casos excepcionais (HC n. 961.986/MS, de minha relatoria, Sexta Turma, julgado em 19/3/2025, DJEN de 27/3/2025).
+Pelo exposto, nego provimento ao agravo regimental.
