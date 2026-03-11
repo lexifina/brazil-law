@@ -1,0 +1,100 @@
+Poder Judiciário da UniãoTRIBUNAL DE JUSTIÇA DO DISTRITO FEDERAL E DOS TERRITÓRIOS
+
+Órgão
+2ª Turma Cível
+Processo N.AGRAVO INTERNO CÍVEL 0738228-60.2025.8.07.0000AGRAVANTE(S)AMR ADMINISTRACAO E PARTICIPACAO LTDAREPRESENTANTE LEGAL(S)FERNANDA DOS SANTOS NASCIMENTOAGRAVADO(S)NOZAWA OLIVEIRA ADVOGADOS e MARIA DULCE DOS SANTOS NASCIMENTORelatorDesembargador HECTOR VALVERDE SANTANNA
+ Acórdão Nº2102657
+
+EMENTA
+
+ Ementa: DIREITO PROCESSUAL CIVIL. AGRAVO INTERNO EM AGRAVO DE INSTRUMENTO. INCIDENTE DE DESCONSIDERAÇÃO DA PERSONALIDADE JURÍDICA. ROL TAXATIVO DO ART. 1.015 DO CÓDIGO DE PROCESSO CIVIL. TEMA REPETITIVO Nº 988 DO SUPERIOR TRIBUNAL DE JUSTIÇA. RECURSO DESPROVIDO.
+
+I. CASO EM EXAME
+
+1. Agravo interno interposto contra decisão que não conheceu do agravo de instrumento manejado pela agravada, voltado a impugnar decisão que reconheceu a intempestividade da manifestação apresentada no incidente de desconsideração da personalidade jurídica instaurado em cumprimento provisório de sentença.
+
+II. QUESTÕES EM DISCUSSÃO
+
+2. A questão em discussão consiste em aferir se é cabível agravo de instrumento contra decisão interlocutória proferida em incidente de desconsideração da personalidade jurídica instaurado na fase de cumprimento provisório de sentença, à luz do art. 1.015 do Código de Processo Civil e da tese da taxatividade mitigada firmada pelo Superior Tribunal de Justiça no Tema Repetitivo nº 988.
+
+III. RAZÕES DE DECIDIR
+
+3. O incidente de desconsideração da personalidade jurídica possui natureza de demanda incidental, com parte, causa de pedir e pedido próprios, independentemente da fase processual em que é instaurado, conforme entendimento do Superior Tribunal de Justiça.
+
+4. As decisões interlocutórias proferidas no bojo do incidente somente desafiam agravo de instrumento quando se enquadram nas hipóteses do rol do art. 1.015 do Código de Processo Civil, aplicável à fase de conhecimento.
+
+5. A decisão impugnada, que reconheceu a intempestividade da impugnação apresentada, não se enquadra nas hipóteses previstas no referido rol, razão pela qual não é cabível agravo de instrumento.
+
+6. A tese da taxatividade mitigada firmada no Tema Repetitivo nº 988 do Superior Tribunal de Justiça não se aplica ao caso, pois não há urgência decorrente da inutilidade do exame da matéria apenas em apelação, sendo possível sua discussão em sede recursal própria.
+
+7. Ausentes fundamentos aptos a modificar a decisão agravada, impõe-se a manutenção do entendimento anteriormente firmado.
+
+IV. DISPOSITIVO E TESE
+
+8. Agravo interno desprovido.
+
+Tese de julgamento: “O agravo de instrumento interposto contra decisão proferida em incidente de desconsideração da personalidade jurídica instaurado na fase de cumprimento provisório de sentença é cabível apenas quando a decisão se enquadrar nas hipóteses do rol do art. 1.015 do Código de Processo Civil. A tese da taxatividade mitigada do Tema Repetitivo nº 988 do Superior Tribunal de Justiça não se aplica quando não há urgência decorrente da inutilidade do exame da matéria apenas em apelação.”
+
+Dispositivos relevantes citados: CPC, arts. 1.015,  IV e p.u.
+
+Jurisprudência relevante citada: STJ, REsp nº 2.072.206/SP, Rel. Min. Ricardo Villas Bôas Cueva, Corte Especial, j. 13.2.2025; STJ, REsp nº 2.182.040/SP, Rel. Min. Ricardo Villas Bôas Cueva, Terceira Turma, j. 10.6.2025.
+
+ACÓRDÃO
+
+Acordam os Senhores Desembargadores do(a) 2ª Turma Cível do Tribunal de Justiça do Distrito Federal e dos Territórios, HECTOR VALVERDE SANTANNA - Relator, ALVARO CIARLINI - 1º Vogal e RENATO RODOVALHO SCUSSEL - 2º Vogal, sob a Presidência do Senhor Desembargador ALVARO CIARLINI, em proferir a seguinte decisão: CONHECIDO. DESPROVIDO. UNÂNIME., de acordo com a ata do julgamento e notas taquigráficas.
+
+Brasília (DF), 23 de março de 2026
+
+Desembargador HECTOR VALVERDE SANTANNARelator
+
+RELATÓRIO
+
+Trata-se de agravo interno interposto por AMR Administração e Participação Ltda. contra decisão proferida por esta Relatoria que não conheceu do seu agravo de instrumento por ausência de enquadramento da decisão no rol do art. 1.015 do Código de Processo Civil, com fundamento no art. 932, inc. III, do mesmo diploma legal (id 76720583).
+
+A agravante sustenta que a decisão monocrática incorreu em equívoco ao não conhecer do agravo de instrumento, pois a hipótese se enquadra no art. 1.015, inc. IV e parágrafo único, do Código de Processo Civil, que prevê a interposição do recurso contra decisões interlocutórias proferidas em incidente de desconsideração da personalidade jurídica e na fase de cumprimento de sentença.
+
+Argumenta que a tese da taxatividade mitigada, firmada pelo Superior Tribunal de Justiça no Tema Repetitivo nº 988, autoriza o manejo do agravo diante da urgência decorrente da inutilidade do julgamento apenas em apelação. Afirma que a decisão objeto do agravo de instrumento viola os princípios do contraditório e da ampla defesa, pois reconheceu intempestividade da impugnação apresentada, validou atos praticados durante suspensão processual ocasionada pelo falecimento da parte exequente.
+
+Defende que a continuidade do incidente sem análise da defesa pode gerar constrição patrimonial indevida. Pede o conhecimento e provimento do agravo interno para reformar a decisão monocrática, determinar o processamento do agravo de instrumento e submeter o mérito à apreciação colegiada (id 77648801).
+
+Contrarrazões (id 78527109).
+
+É o relatório.
+
+VOTOS
+
+O Senhor Desembargador HECTOR VALVERDE SANTANNA - RelatorPresentes os pressupostos de admissibilidade, conheço do agravo interno.
+
+A agravante sustenta que a decisão monocrática incorreu em equívoco ao não conhecer do agravo de instrumento, pois a hipótese se enquadra no art. 1.015, inc. IV e parágrafo único, do Código de Processo Civil, que prevê a interposição do recurso contra decisões interlocutórias proferidas em incidente de desconsideração da personalidade jurídica e na fase de cumprimento de sentença.
+
+Argumenta que a tese da taxatividade mitigada, firmada pelo Superior Tribunal de Justiça no Tema Repetitivo nº 988, autoriza o manejo do agravo diante da urgência decorrente da inutilidade do julgamento apenas em apelação. Afirma que a decisão objeto do agravo de instrumento viola os princípios do contraditório e da ampla defesa, pois reconheceu intempestividade da impugnação apresentada, validou atos praticados durante suspensão processual ocasionada pelo falecimento da parte exequente.
+
+Defende que a continuidade do incidente sem análise da defesa pode gerar constrição patrimonial indevida.
+
+Utilizo os fundamentos da decisão agravada como razão de decidir visto que o agravante não apresenta nenhum fundamento que justifique sua alteração.
+
+O agravo de instrumento foi interposto contra a decisão que reconheceu a intempestividade da impugnação apresentada por AMR Administração e Participação Ltda. no incidente de desconsideração da personalidade jurídica instaurado em sede de cumprimento provisório de sentença.
+
+A decisão agravada registrou que o Superior Tribunal de Justiça firmou o entendimento de que o incidente de desconsideração da personalidade jurídica tem natureza jurídica de demanda incidental, caracterizada pela existência de parte, causa de pedir e pedido próprios, independentemente da fase processual em que é instaurado.[1]
+
+A sua natureza de ação incidental impõe a disciplina própria das ações, motivo pelo qual as decisões interlocutórias proferidas no bojo do incidente de desconsideração somente desafiam agravo de instrumento caso se enquadrem no rol estabelecido pelo art. 1.015 do CPC, relativo à fase de conhecimento.[2]
+
+Ressaltou que a circunstância de o incidente de desconsideração da personalidade jurídica ser instaurado em cumprimento de sentença não lhe retira a natureza de demanda incidental. A lei admite sua instauração em qualquer fase do processo, sempre com a mesma essência, caracterizada pela existência de parte, causa de pedir e pedido próprios.
+
+A decisão agravada avaliou que a decisão objeto do agravo de instrumento não se enquadra em nenhuma das hipóteses previstas no rol taxativo do art. 1.015 do Código de Processo Civil, o que inviabilizou o processamento do recurso.
+
+A tese da taxatividade mitigada fixada no Tema Repetitivo nº 988 do Superior Tribunal de Justiça é inaplicável ao presente caso. Questões relativas à tempestividade da impugnação podem ser arguidas em apelação ou em contrarrazões, o que afasta a urgência necessária para a mitigação da taxatividade.
+
+Ante o exposto, nego provimento ao agravo interno.
+
+É como voto.
+
+[1] REsp 2.072.206 /SP, relator Ministro Ricardo Villas Bôas Cueva, Corte Especial, julgado em 13/2/2025, DJEN de 12/3/2025
+
+[2] REsp n. 2.182.040/SP, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 10/6/2025, DJEN de 16/6/2025.
+
+O Senhor Desembargador ALVARO CIARLINI - 1º Vogal Com o(a) relator(a)O Senhor Desembargador RENATO RODOVALHO SCUSSEL - 2º Vogal Com o(a) relator(a)
+
+DECISÃO
+
+CONHECIDO. DESPROVIDO. UNÂNIME.
