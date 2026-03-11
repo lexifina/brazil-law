@@ -1,0 +1,71 @@
+EMBARGOS DE DIVERGÊNCIA NO AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. PENAL E PROCESSUAL PENAL. INOBSERVÂNCIA DE PRESSUPOSTO INDISPENSÁVEL. AUSÊNCIA DE COMPROVAÇÃO DO DISSÍDIO JURISPRUDENCIAL E DE SIMILITUDE FÁTICA ENTRE O ACÓRDÃO EMBARGADO E O PARADIGMA APONTADO NAS RAZÕES RECURSAIS. EMBARGOS DE DIVERGÊNCIA INADMITIDOS.
+
+DECISÃO: Trata-se de embargos de divergência interpostos contra acórdão, proferido pela Primeira Turma desta Suprema Corte, assim ementado:
+ “AGRAVO INTERNO NO RECURSO EXTRAORDINÁRIO. PENAL E PROCESSUAL PENAL. ALEGADA INOBSERVÂNCIA DO PRINCÍPIO DA COLEGIALIDADE. INEXISTÊNCIA. CRIME DE TRÁFICO ILÍCITO DE ENTORPECENTES. ARTIGO 33 DA LEI 11.343/2006. ALEGAÇÃO DE OFENSA AO ARTIGO 5º, XI, DA CONSTITUIÇÃO FEDERAL. INGRESSO EM DOMICÍLIO REALIZADO PELA GUARDA MUNICIPAL CONSIDERADO ILEGAL PELO TRIBUNAL A QUO. RECONHECIMENTO DA LICITUDE DA PROVA. ACÓRDÃO RECORRIDO EM DISSONÂNCIA COM A JURISPRUDÊNCIA DESTA SUPREMA CORTE. PRECEDENTES. AGRAVO INTERNO DESPROVIDO.
+1. A competência deferida ao relator para, monocraticamente, julgar recurso manifestamente inadmissível, improcedente ou contrário à jurisprudência desta Corte, não derroga o princípio da colegialidade. Precedentes.
+2. A cláusula de inviolabilidade do domicílio, prevista no art. 5º, inciso XI, da Constituição Federal, tem sua compreensão definida, em sede de repercussão geral, nos seguintes termos: “A entrada forçada em domicílio sem mandado judicial só é lícita, mesmo em período noturno, quando amparada em fundadas razões, devidamente justificadas a posteriori , que indiquem que dentro da casa ocorre situação de flagrante delito, sob pena de responsabilidade disciplinar, civil e penal do agente ou da autoridade, e de nulidade dos atos praticados”. (Plenário, RE 603.616, Rel. Min. Gilmar Mendes, Repercussão Geral Tema 280, DJE 10/05/2016).
+3.In casu, a jurisprudência do Supremo Tribunal Federal orienta-se em sentido diverso daquele a que chegou o Superior Tribunal de Justiça em tema de ingresso domiciliar por agentes dos órgãos de segurança pública, no exercício de seu mister de repressão de práticas criminosas e na garantia da segurança pública. Precedentes.
+4. Agravo interno desprovido.” (e-Doc 134)
+
+O embargante sustenta, em síntese, a existência de dissídio jurisprudencial entre o acórdão ora embargado e o julgado proferido por pela Segunda Turma desta Suprema Corte nos autos do ARE 1.550.040, Rel. Min. André Mendonça, DJe de 01/09/2025, que porta a seguinte ementa:
+ “DIREITO CONSTITUCIONAL E PROCESSUAL PENAL. RECURSO EXTRAORDINÁRIO COM AGRAVO. INGRESSO FORÇADO EM DOMICÍLIO SEM MANDADO JUDICIAL. VIOLAÇÃO À GARANTIA DA INVIOLABILIDADE DOMICILIAR. ILICITUDE DA PROVA. ABSOLVIÇÃO. RECURSO PROVIDO.
+I. CASO EM EXAME
+1. Recurso extraordinário com agravo interposto contra acórdão do Tribunal de Justiça do Estado de Goiás que manteve a condenação do recorrente pelo crime de tráfico de drogas, com base em provas obtidas a partir de ingresso policial forçado em sua residência, sem mandado judicial. A defesa alegou a ilegalidade da prova por ofensa à inviolabilidade do domicílio e ausência de fundadas razões que justificassem a medida.
+II. QUESTÃO EM DISCUSSÃO
+2. A questão em discussão consiste em determinar se o ingresso de policiais na residência do réu, sem autorização judicial, amparado unicamente em relato de terceiro detido em local distinto, configura ofensa à garantia constitucional da inviolabilidade do domicílio e, por consequência, se as provas obtidas devem ser declaradas ilícitas, ensejando a absolvição do acusado.
+III. RAZÕES DE DECIDIR
+3. O Supremo Tribunal Federal, no julgamento do Tema 280 da repercussão geral (RE 603.616/RO), firmou entendimento de que o ingresso forçado em domicílio, sem mandado judicial, somente se legitima diante de fundadas razões, objetivamente demonstradas e justificadas a posteriori, que indiquem a ocorrência de flagrante delito no interior da residência.
+4. A busca domiciliar, ainda que em contexto de crime permanente como o tráfico de drogas, deve ser avaliada a partir do que se sabia antes de sua realização, não sendo admissível sua validação posterior exclusivamente com base nos elementos encontrados após o ingresso.
+5. Ademais, não foram identificadas, no caso concreto, circunstâncias exigentes que indicassem urgência manifesta capaz de justificar a excepcionalidade da medida sem prévia autorização judicial, tampouco havia elementos objetivos suficientes que caracterizassem justa causa.
+6. A conduta policial baseou-se exclusivamente em relato informal de terceiro, sem a comprovação prévia de atividade ilícita no imóvel, não se demonstrando risco iminente de destruição de provas, fuga do suspeito ou de dano aos policiais ou outras pessoas, o que esvazia a legalidade da diligência.
+7. A ofensa ao direito fundamental à inviolabilidade do domicílio compromete a validade da prova da materialidade obtida na diligência, pelo que a única consequência constitucionalmente admissível é o provimento do recurso com a absolvição do recorrente, nos termos do art. 386, II, do Código de Processo Penal.
+IV. DISPOSITIVO
+8. Recurso provido.”
+
+O recorrente afirma a existência de “dissídio notório entre o acórdão ora embargado, proferido pela Primeira Turma (RE 1.570.469/SP), e o paradigma emanado da Segunda Turma (ARE 1.550.040/GO)” sob a alegação de que, “[e]nquanto o primeiro flexibiliza de forma ampla o controle judicial sobre o ingresso forçado em domicílio — legitimando-o a partir de presunções genéricas e da narrativa policial —, o segundo reafirma o núcleo protetivo do direito fundamental à inviolabilidade da casa, exigindo fundadas razões objetivamente demonstradas e justificadas a posteriori, conforme a tese firmada pelo Plenário no Tema 280 da repercussão geral (RE 603.616/RO)”.
+Sustenta que o acórdão embargado contraria o cerne do referido precedente vinculante “ao admitir, sem reexame crítico, a legitimidade da prova obtida a partir de ingresso domiciliar não autorizado e sem demonstração prévia de fundadas razões” (e-Doc 137, p. 10).
+Defende que “o Estado só pode romper a esfera da vida privada quando demonstrar, de modo concreto e objetivo, a necessidade da medida, sujeitando-se ao controle jurisdicional posterior” (e-Doc 137, p. 12).
+Requer, ao final, o provimento do recurso visando à uniformização do “entendimento desta Corte Superior no sentido de repelir o ingresso forçado e viciado na casa de investigados a partir de denúncias anônimas, anulando-se a prova indevidamente colhida e, por conseguinte, trancando a ação penal por ausência de justa causa, nos termos do art. 395, III, CPP” (e-Doc 137, p. 13).
+Em sede de contrarrazões, o Ministério Público Federal afirma inexistir “qualquer similitude fático-jurídica entre os acórdãos confrontados, tampouco divergência real quanto à interpretação do artigo 5º, XI, da Constituição Federal” (e-Doc 143, p. 3). Para tanto, destaca que, “[n]o paradigma (ARE 1.550.040/GO), a entrada policial decorreu exclusivamente de relato informal de terceiro, sem qualquer diligência prévia, indício objetivo ou confirmação pelo morador”, não havendo nem “consentimento do residente, nem fundadas razões objetivamente verificáveis de flagrante delito” (e-Doc 143, p. 8). Por outro lado, sustenta que, “no acórdão embargado (RE 1.570.469/SP), o contexto probatório é diametralmente oposto, pois o ingresso domiciliar ocorreu mediante autorização válida do morador, consentimento presencial de familiar, e fundadas razões objetivas justificáveis a posteriori, que caracterizam situação de flagrante delito” (e-Doc 143, p. 8-9).
+Postula, ao final, “o não provimento dos embargos de divergência, pela ausência de divergência jurisprudencial, tampouco identidade fática entre o acórdão embargado e o paradigma indicado” (e-Doc 143, p. 16).
+
+É o relatório. DECIDO.
+
+Os artigos 1.043, inciso III, e 1.044 do Código de Processo Civil de 2015, que tratam dos embargos de divergência, possuem o seguinte teor:
+
+“Art. 1.043. É embargável o acórdão de órgão fracionário que:
+[…]
+III - em recurso extraordinário ou em recurso especial, divergir do julgamento de qualquer outro órgão do mesmo tribunal, sendo um acórdão de mérito e outro que não tenha conhecido do recurso, embora tenha apreciado a controvérsia;
+[…]
+Art. 1.044. No recurso de embargos de divergência, será observado o procedimento estabelecido no regimento interno do respectivo tribunal superior.”
+
+O Regimento Interno do Supremo Tribunal Federal, ao disciplinar esta espécie recursal, assim dispõe:
+
+“Art. 330. Cabem embargos de divergência à decisão de Turma que, em recurso extraordinário ou em agravo de instrumento, divergir de julgado de outra Turma ou do Plenário na interpretação do direito federal.
+Art. 331. A divergência será comprovada mediante certidão, cópia autenticada ou pela citação do repositório de jurisprudência, oficial ou credenciado, inclusive em mídia eletrônica, em que tiver sido publicada a decisão divergente, ou ainda pela reprodução de julgado disponível na internet, com indicação da respectiva fonte, mencionando, em qualquer caso, as circunstâncias que identifiquem ou assemelhem os casos confrontados.”
+
+Os embargos de divergência têm por objetivo a uniformização dos entendimentos do Tribunal porventura dissonantes entre os órgãos que compõem o próprio Tribunal – Plenário e Turmas.
+Feitas essas considerações, verifico que o presente recurso esbarra em óbice intransponível, dada a falta de similitude fática entre os julgados alegadamente dissonantes e de demonstração de efetivo e atual dissídio jurisprudencial.
+Com efeito, no ARE 1.550.040, o eminente Min. André Mendonça, ao se debruçar sobre hipótese de “ingresso policial forçado” em residência, fundamentou o provimento do recurso na ausência de fundadas razões que, ante hoc, justificassem a adoção da medida. Nesse sentido, em seu voto, sublinhou que, em sede de controle jurisdicional exercido a posteriori acerca da quebra do direito fundamental à inviolabilidade domiciliar, deve-se perquirir se as razões adrede apontadas eram “fundadas, para além de uma mera e subjetiva suspeita, no que se sabia antes, e não depois, da diligência”, haja vista não se admitir “a atuação policial aleatória ou abusiva, baseada em mera intuição, convicção íntima ou que se exprima pelo emprego vazio da só locução ’atitude suspeita’” (p. 3-4). Considerando as peculiaridades daquele caso concreto, máxime por se tratar de “ingresso em domicílio de terceiro, situado em local até então desconhecido dos policiais que realizavam a diligência e, sobretudo, distante do ponto onde se deu o flagrante” (p. 6), a Segunda Turma desta Suprema Corte concluiu, por maioria, pela ilicitude da medida levada a cabo sem a prévia autorização judicial.
+In casu, o recurso extraordinário interposto pelo Ministério Público Federal versa sobre ação penal recém-deflagrada envolvendo o ingresso consentido de policiais no interior da residência do recorrente com base em prévia denúncia anônima indicando não só o endereço exato do imóvel, como também o nome do respectivo proprietário e a natureza dos entorpecentes lá encontrados, de modo que eventual controvérsia atinente à lisura da medida, mormente no que tange ao alegado vício de consentimento, deve ser objeto da sequencial instrução probatória.
+Nesse sentido, como bem salientado pelo parquet, em suas contrarrazões, ao infirmar a alegação de dissídio jurisprudencial entre os casos confrontados, “há diferenciações fáticas importantes que impedem a igualdade de tratamento jurídico, porque
+
+i. a ordem foi concedida para trancar a ação penal, que sequer iniciou, não sendo proferida qualquer decisão do juízo de primeiro grau acerca da alegada coação sofrida pelo embargante;
+ii. a denúncia anônima, apresentada do disque denúncia (Disque Denúncia nº W2312174681), apresentou detalhadamente o endereço, o nome do morador, e a descrição do cultivo ilícito;
+iii. ao chegarem no local, os policiais ‘sentiram forte odor, característico de maconha’, a indicar a procedência da denúncia;
+iv. a irmã do embargante, Ana Carolina, ‘efetuou ligação telefônica para Samy e conversou com ele, na presença dos policiais, em viva-voz, permitindo que a conversa fosse captada pelas câmeras corporais dos policiais militares. Nesse momento, Samy afirmou que havia a cerca de vinte pés de maconha no interior da casa, com algumas mudas já colhidas e secas, substância que seria destinada ao seu consumo pessoal’ (fls. 21);
+v. em sequência, diante da confirmação do próprio investigado, os policiais solicitaram autorização para ingressarem na residência, ‘que foi concedida, por meio telefônico, pelo próprio Samy. Ana Carolina, do mesmo modo, consentiu com a entrada, abrindo o portão para a equipe’ (fls. 21);
+vi. no decorrer da revista domiciliar, forma localizadas 3 estufas com ventilação e iluminação, 20 plantas e mudas de pé de maconha (1800,00g), além de 01 porção de maconha (63,0g).
+22. Nota-se ainda que o depoimento em sede policial de Ana Carolina converge com os relatos policiais, tendo ela afirmado, na ocasião, que ‘Na presença dos policiais, continuou com a chamada em ‘viva voz’. Samy, então, acabou confirmado que havia maconha no interior da casa e que a droga era destinado [sic] ao consumo pessoal dele’ (fls. 31).” (e-Doc 143, p. 9)
+
+Nessa mesma linha, cito:
+
+“PROCESSUAL CIVIL. AGRAVO REGIMENTAL NOS EMBARGOS DE DIVERGÊNCIA NO AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. DEMONSTRAÇÃO DA DIVERGÊNCIA JURISPRUDENCIAL. AUSÊNCIA DE SIMILITUDE FÁTICA ENTRE OS ACÓRDÃOS CONFRONTADOS. COTEJO ANALÍTICO. INEXISTÊNCIA. INDICAÇÃO DE DECISÃO MONOCRÁTICA COMO PRECEDENTE PARADIGMA. IMPOSSIBILIDADE. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO.”(AI 766.634-AgR-EDv-AgR, Rel. Min. Teori Zavascki, Tribunal Pleno, DJe de 24/03/2014)
+
+Consectariamente, o descumprimento do disposto no artigo 331 do Regimento Interno do Supremo Tribunal Federal, mercê da falta de identidade das circunstâncias que assemelhem os casos confrontados, enseja o não conhecimento dos embargos de divergência.
+Ex positis, NÃO ADMITO os EMBARGOS DE DIVERGÊNCIA, com fundamento no artigo 335, § 1º, do Regimento Interno do Supremo Tribunal Federal.
+Publique-se.
+Brasília, 11 de março de 2026.
+Ministro LUIZ FUX
+Relator
+Documento assinado digitalmente
