@@ -1,0 +1,27 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEXTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 05/03/2026 a 11/03/2026, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Rogerio Schietti Cruz, Antonio Saldanha Palheiro, Carlos Pires Brandão e Og Fernandes votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Carlos Pires Brandão.
+EMENTA
+EMBARGOS DE DECLARAÇÃO EM HABEAS CORPUS CONCEDIDO. INEXISTÊNCIA DOS VÍCIOS PREVISTOS NO ART. 619 DO CPP. MANIFESTA IMPROCEDÊNCIA. REDISCUSSÃO. DESCABIMENTO.
+Embargos de declaração rejeitados.
+RELATÓRIO
+Trata-se de embargos de declaração opostos pelo Ministério Público do Estado do Rio de Janeiro ao acórdão da Sexta Turma que, por maioria, concedeu a ordem para reconhecer a nulidade das provas decorrentes da busca realizada na residência do paciente e, assim, declarar a sua absolvição na Ação Penal n. 0436644-44.2015.8.19.0001, por insuficiência de provas válidas para a condenação (fls. 216/223).
+Nas razões de recurso, o embargante afirma que acórdão teria sido omisso ao negar a existência de fundadas razões para o ingresso forçado no domicílio, na medida em que precedentes do Supremo Tribunal Federal reconhecem que a circunstância de o suspeito se pôr em fuga ao avistar a força policial caracteriza justa causa suficiente para autorizar a entrada dos agentes no imóvel onde ele se encontra.
+Ao final, pede o provimento dos embargos de declaração, sanando-se a omissão apontada e, como consequência, sejam explicitados os motivos pelos quais não havia fundada suspeita para ingresso em domicílio à luz dos artigos 5º, XI e LVI e 144 §5º da CRFB/88 e do decidido pelo E. Supremo Tribunal Federal nos ARE 1467500 AgR- terceiro e RE 1491517 AgR-E Dv (fl. 222).
+É o relatório.
+EMENTA
+EMBARGOS DE DECLARAÇÃO EM HABEAS CORPUS CONCEDIDO. INEXISTÊNCIA DOS VÍCIOS PREVISTOS NO ART. 619 DO CPP. MANIFESTA IMPROCEDÊNCIA. REDISCUSSÃO. DESCABIMENTO.
+Embargos de declaração rejeitados.
+VOTO
+Os embargos de declaração são acolhidos quando evidenciado vício no decisum recorrido com efetiva obscuridade, contradição, ambiguidade ou omissão (art. 619 do CPP).
+No caso, é evidente o mero inconformismo do embargante com o resultado do julgamento do habeas corpus na medida em que o acórdão embargado não se ressente da omissão apontada.
+Com efeito, a inexistência de fundadas razões para a relativização da inviolabilidade do domicílio no caso foi integralmente apreciada e resolvida no julgado recorrido, como se confere da transcrição do seguinte excerto do voto condutor (fls. 201/202 - grifo no original):
+ ..  para legitimar-se o ingresso em domicílio alheio, é necessário que tenha a autoridade policial fundadas razões para acreditar, com lastro em circunstâncias objetivas, em atual ou iminente cometimento de crime no local onde a diligência vai ser cumprida, e não mera desconfiança fulcrada, v. g., na fuga de indivíduo de uma ronda policial. Isso porque tal comportamento pode ser atribuído a várias causas que não, necessariamente, a de estar o abordado portando ou comercializando substância entorpecente ou mesmo carregando consigo ilegalmente arma de fogo.
+Na hipótese em exame, as instâncias ordinárias não apresentaram uma situação na qual a autoridade policial se dirigiu a local mencionado em notícia anônima e, somente depois de verificar "movimentação estranha" no lugar, é que procedeu à busca e apreensão (HC n. 439.140/RS, Ministro Rogerio Schietti Cruz, Sexta Turma, DJe 11/9/2018). Também não foi o caso de terem os policiais visualizado a prática de delitos, de natureza permanente ou não, dentro do imóvel antes de nele entrarem.
+Pelo contrário, a partir da leitura dos trechos transcritos e da prova oral colhida nos autos principais, observo que os policiais franquearam a própria entrada no imóvel sem possuírem quaisquer indícios objetivos de que lá, no interior do domicílio, ocorreria a prática de infrações penais. Apesar da conduta suspeita do paciente - de empreender fuga ao perceber a aproximação da guarnição policial - ela, por si só, não se apresenta como idônea para configurar uma fundada suposição de que o agente estivesse a cometer infrações penais dentro da residência violada, notadamente pelo fato de que os próprios militares que participaram da ocorrência foram categóricos em afirmar que ao entrar na Comunidade correu muita gente (fl. 77).
+Sem olvidar que a primeira abordagem do paciente ocorreu quando este já se encontrava no interior da residência.
+Ora, tal situação, somada à ausência de autorização judicial ou do morador, denota um quadro de desrespeito ao direito fundamental à inviolabilidade do domicílio, previsto no art. 5º, XI, da Constituição Federal, na linha dos precedentes já acordados por esta Turma e ressaltados alhures.
+Note-se, por fim, que carece de fundamento jurídico a alegação de que o julgado teria sido omisso por não ter se manifestado sobre precedentes do Supremo Tribunal Federal que nem sequer correspondem, com justeza, à situação examinada neste processo.
+A lacuna passível de integração por embargos de declaração sempre se refere a questões deduzidas pelas partes e que permaneceram irresolvidas no julgamento, de modo que é descabido suscitar omissão com base em algum parâmetro externo aos autos do processo, como ocorre no recurso em exame.
+Ante o exposto, rejeito os embargos de declaração.
