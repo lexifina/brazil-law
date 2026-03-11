@@ -1,0 +1,16 @@
+RECLAMAÇÃO. PENAL E PROCESSUAL PENAL. ALEGADA VIOLAÇÃO À SÚMULA VINCULANTE 14. POSTERIOR DISPONIBILIZAÇÃO À DEFESA DOS AUTOS PRETENDIDOS. PERDA SUPERVENIENTE DO OBJETO. PREJUDICIALIDADE DO FEITO.
+
+Decisão: Trata-se de reclamação ajuizada em face do Delegado Titular da 30ª Delegacia de Polícia de São Sebastião/DF, por alegada afronta à Súmula Vinculante n. 14 do STF.
+A defesa narrou que “A autoridade reclamada, conquanto tenha franqueado à defesa a consulta presencial ao material apreendido por ocasião da Ocorrência nº 3.210/2020-0, que deu origem ao Inquérito nº 591/2020 — notadamente os cadernos/agendas descritos nos itens 5 e 6 do Auto de Apresentação e Apreensão nº 510/2020 —, obstou a extração de cópias e vedou o registro fotográfico do conteúdo, condicionando o fornecimento de reprodução do material à prévia autorização judicial”.
+  Alegou que “Tal conduta importa em restrição materialmente incompatível com o sentido e o alcance que deve ser dado à Súmula Vinculante 14, que assegura ao defensor o “acesso amplo” aos elementos de prova já documentados em procedimento investigatório. O conceito de acesso amplo não se exaure na mera possibilidade de consulta visual episódica, mas compreende o direito de obtenção de cópias idôneas que viabilizem a análise técnica, a formação da estratégia defensiva e o exercício efetivo do contraditório em sua dimensão substancial”.
+Advogou no sentido de que “Ao converter o acesso em faculdade meramente contemplativa e condicionar a obtenção de cópias a autorização judicial não prevista no verbete vinculante, a autoridade reclamada esvazia a eficácia normativa da Súmula, vulnera a paridade de armas e compromete a garantia constitucional da ampla defesa (art. 5º, LV, da CF), em afronta direta à autoridade desta Corte”.
+Requereu fosse determinado “à autoridade reclamada que assegure acesso amplo aos itens 5 e 6 do Auto de Apreensão nº 510/2020, oportunizando à defesa do Reclamante a obtenção de cópia integral de seu conteúdo, no prazo de 24 horas, bem como de quaisquer outros elementos de prova de interesse da defesa que tenham sido objeto da referida apreensão”.
+As informações solicitadas foram prestadas pela autoridade reclamada.
+É o relatório. Decido.
+Constato a ocorrência de fato capaz de ensejar a prejudicialidade da presente Reclamação, tendo em vista que a autoridade reclamada informou que “tão logo esta Delegacia de Polícia recebeu o Ofício nº 4083/2026 emanado por esta Suprema Corte, no dia 05/03/2026, de ordem do Delegado Chefe desta delegacia, Dr Erico Vinicius Mendes, a equipe diligenciou para contatar o Dr. Matheus Castro Alves com o intuito de agendar o seu comparecimento imediato à delegacia para realizar o registro fotográfico e a extração de cópias das referidas agendas”, destacando que “o material probatório em questão permanece acautelado no cartório desta circunscrição, encontrando-se à inteira disposição da defesa para acesso amplo e extração de cópias a qualquer momento, aguardando tão somente o comparecimento do patrono ou ulterior deliberação desse Egrégio Tribunal”.
+Ex positis, julgo PREJUDICADO o presente feito.
+Publique-se.
+Brasília, 11 de março de 2026.
+                                       Ministro LUIZ FUX
+Relator
+Documento assinado digitalmente
