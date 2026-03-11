@@ -1,0 +1,31 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEXTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 05/03/2026 a 11/03/2026, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Antonio Saldanha Palheiro, Carlos Pires Brandão e Og Fernandes votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Carlos Pires Brandão.
+Não participou do julgamento o Sr. Ministro Rogerio Schietti Cruz.
+EMENTA
+DIREITO PROCESSUAL PENAL. AGRAVO REGIMENTAL EM AGRAVO REGIMENTAL EM HABEAS CORPUS INTERPOSTO PELO MINISTÉRIO PÚBLICO FEDERAL. TRÁFICO DE DROGAS (1.726,6 G DE MACONHA; 10,1 G DE HAXIXE E 4 FRASCOS COM SEMENTES DE MACONHA) E 3 MUNIÇÕES. RÉU PRIMÁRIO. CRIME SEM VIOLÊNCIA OU GRAVE AMEAÇA. AUSÊNCIA DE INDÍCIOS DE INTEGRAÇÃO EM ORGANIZAÇÃO CRIMINOSA. SUBSTITUIÇÃO DA PRISÃO PREVENTIVA POR MEDIDAS CAUTELARES DIVERSAS DA PRISÃO. PROPORCIONALIDADE, SUFICIÊNCIA E ADEQUAÇÃO. PRECEDENTES. MANUTENÇÃO DA DECISÃO MONOCRÁTICA QUE SE IMPÕE.
+Agravo regimental improvido.
+RELATÓRIO
+Trago à análise da Sexta Turma o agravo regimental interposto pelo MINISTÉRIO PÚBLICO FEDERAL contra a decisão, por mim proferida, na qual reconsiderei a decisão agravada para conceder a ordem de habeas corpus, conforme esta ementa (fl. 275):
+PROCESSO PENAL. AGRAVO REGIMENTAL EM HABEAS CORPUS. TRÁFICO DE DROGAS. PRISÃO PREVENTIVA. REVOGAÇÃO. QUANTIDADE DE DROGA APREENDIDA (1.726,6 G DE MACONHA; 10,1 G DE HAXIXE E 4 FRASCOS COM SEMENTES DE MACONHA) E 3 MUNIÇÕES. EXCEPCIONALIDADE. SUBSTITUIÇÃO POR MEDIDAS CAUTELARES DIVERSAS DA PRISÃO. PROPORCIONALIDADE, SUFICIÊNCIA E ADEQUAÇÃO. CONSTRANGIMENTO ILEGAL EVIDENCIADO.
+Reconsiderada a decisão agravada. Ordem concedida nos termos do dispositivo.
+Alega o agravante, em síntese, que embora o Relator tenha reconhecido a justificativa da preventiva diante da quantidade de droga apreendida, de petrechos e munições, concluiu equivocadamente pela desproporcionalidade da prisão cautelar.
+Sustenta que a gravidade concreta da conduta e a periculosidade do agente tornam insuficientes as medidas cautelares diversas, destacando que o réu foi preso em flagrante dentro de sua residência com grande quantidade de substâncias entorpecentes - 1.172,1 g (massa líquida) de tetrahidrocannabinol (THC), 33,6 g (massa líquida) de THC e 62,1 g (massa líquida) de THC -, além de petrechos comumente utilizados para o tráfico e munições, o que evidencia gravidade concreta e risco à ordem pública.
+Ao final, pleiteia a intimação da defesa, o juízo de retratação para reformar a decisão e restaurar a prisão preventiva de Evandro Santos de Moura; subsidiariamente, requer apreciação pelo Colegiado e, provido o agravo para restabelecer a custódia.
+Foi dispensada a oitiva da parte contrária.
+É o relatório.
+EMENTA
+DIREITO PROCESSUAL PENAL. AGRAVO REGIMENTAL EM AGRAVO REGIMENTAL EM HABEAS CORPUS INTERPOSTO PELO MINISTÉRIO PÚBLICO FEDERAL. TRÁFICO DE DROGAS (1.726,6 G DE MACONHA; 10,1 G DE HAXIXE E 4 FRASCOS COM SEMENTES DE MACONHA) E 3 MUNIÇÕES. RÉU PRIMÁRIO. CRIME SEM VIOLÊNCIA OU GRAVE AMEAÇA. AUSÊNCIA DE INDÍCIOS DE INTEGRAÇÃO EM ORGANIZAÇÃO CRIMINOSA. SUBSTITUIÇÃO DA PRISÃO PREVENTIVA POR MEDIDAS CAUTELARES DIVERSAS DA PRISÃO. PROPORCIONALIDADE, SUFICIÊNCIA E ADEQUAÇÃO. PRECEDENTES. MANUTENÇÃO DA DECISÃO MONOCRÁTICA QUE SE IMPÕE.
+Agravo regimental improvido.
+VOTO
+Não obstante as alegações da agravante, não lhe assiste razão, devendo a decisão agravada ser mantida por seus próprios fundamentos.
+São estes, no que interessa, os termos da decisão do Juízo de primeiro grau que decretou a prisão cautelar (fls. 93/94 - grifo nosso):
+ ..
+Assentado o fumus comissi delicti, debruço-me sobre o eventual periculum in libertatis. E, a esse respeito, observo a necessidade de decretação da medida mais gravosa, eis que a preservação da ordem pública a impõe. Com efeito, a conduta delitiva do autuado é de acentuada gravidade e lesividade à saúde pública, considerando a apreensão de relevante quantidade de substância entorpecente, MAIS DE DOIS QUILOS de maconha, o que acresce reprovabilidade à sua conduta delitiva e denota o perigo gerado pelo seu estado de liberdade. Ademais, foram apreendidos, com o acusado petrechos (balança digital e sacos zip lock). Além disso, os policiais militares já possuíam informações de que havia traficância no local, e, ainda, foram apreendidas munições, o que denota dedicação a atos criminosos. (..) Ressalte-se, a esse respeito, que a quantidade da droga apreendida e a apreensão de petrechos e de munição, justificam a decretação de custódia cautelar (..)
+ ..
+Como afirmei monocraticamente, a despeito de a segregação cautelar se encontrar devidamente justificada - quantidade de droga apreendida, petrechos e munições -, o crime foi perpetrado sem violência ou grave ameaça, não se extrai dos autos que o acusado integre organização criminosa, circunstâncias que firmam a possibilidade de substituição da prisão por cautelares diversas.
+As circunstâncias do caso evidenciam a necessidade de algum acautelamento da ordem pública; contudo, não se mostram aptas, em juízo de proporcionalidade, a embasar uma segregação corpórea.
+Importante salientar que, com o advento da Lei n. 12.403/2011, a prisão cautelar passou a ser, mais ainda, a mais excepcional das medidas, devendo ser aplicada somente quando comprovada a inequívoca necessidade, devendo-se sempre verificar se existem medidas alternativas à prisão adequadas ao caso concreto" (HC n. 305.905/SP, Relator Ministro de minha relatoria, Sexta Turma, julgado em 4/12/2014, DJe 17/12/2014) - (AgRg no RHC n. 210.080/RS, Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJEN 26/2/2025).
+No mesmo sentido, cito os seguintes precedentes desta Corte: AgRg no HC n. 836.559/RS, de minha Relatoria, Sexta Turma, DJe de 16/8/2024 (apreensão de 33,8 kg de maconha); AgRg no HC n. 1.025.399/SP, Ministro Rogerio Schietti Cruz, Sexta Turma, DJEN 11/12/2025 (apreensão de 460,3 g de cocaína e 837,7 g de maconha); e AgRg no HC n. 911.048/MG, Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe de 10/6/2024 (apreensão de 1,4 kg de maconha e uma arma de fogo de uso permitido).
+Ante o exposto, nego provimento ao agravo regimental.
