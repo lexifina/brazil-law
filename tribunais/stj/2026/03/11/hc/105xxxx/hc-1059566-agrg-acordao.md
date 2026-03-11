@@ -1,0 +1,35 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEXTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 05/03/2026 a 11/03/2026, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Antonio Saldanha Palheiro, Carlos Pires Brandão e Og Fernandes votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Carlos Pires Brandão.
+Não participou do julgamento o Sr. Ministro Rogerio Schietti Cruz.
+EMENTA
+AGRAVO REGIMENTAL EM HABEAS CORPUS. PROCESSUAL PENAL. TRÁFICO DE DROGAS. PRESCRIÇÃO RETROATIVA RECONHECIDA NA ORIGEM. MANUTENÇÃO DO PERDIMENTO DE NUMERÁRIO E MOTOCICLETA. ALEGAÇÃO DE EXTINÇÃO DOS EFEITOS SECUNDÁRIOS DA CONDENAÇÃO. NECESSIDADE DE COMPROVAÇÃO INEQUÍVOCA DA ORIGEM LÍCITA E DA DESVINCULAÇÃO DOS BENS DO CRIME. ACÓRDÃO QUE FUNDAMENTADAMENTE RECONHECE O VÍNCULO CONCRETO DOS BENS COM A ATIVIDADE ILÍCITA. TESE DE NULIDADE POR INGRESSO DOMICILIAR NÃO APRECIADA NA ORIGEM. SUPRESSÃO DE INSTÂNCIA. AUSÊNCIA DE TERATOLOGIA.
+Agravo regimental improvido. Julgo prejudicado o agravo regimental de fls. 69/74.
+RELATÓRIO
+Trata-se de agravo regimental interposto por BRUNO ROCHA EUSTAQUIO contra decisão monocrática assim ementada (fl. 54):
+PROCESSUAL PENAL. HABEAS CORPUS. TRÁFICO DE DROGAS. PRESCRIÇÃO RETROATIVA RECONHECIDA NA ORIGEM. MANUTENÇÃO DO PERDIMENTO DE NUMERÁRIO E MOTOCICLETA. ALEGAÇÃO DE EXTINÇÃO DOS EFEITOS SECUNDÁRIOS DA CONDENAÇÃO. NECESSIDADE DE COMPROVAÇÃO INEQUÍVOCA DA ORIGEM LÍCITA E DA DESVINCULAÇÃO DOS BENS DO CRIME. ACÓRDÃO QUE FUNDAMENTADAMENTE RECONHECE O VÍNCULO CONCRETO DOS BENS COM A ATIVIDADE ILÍCITA. TESE DE NULIDADE POR INGRESSO DOMICILIAR NÃO APRECIADA NA ORIGEM. SUPRESSÃO DE INSTÂNCIA. AUSÊNCIA DE TERATOLOGIA.
+Writ indeferido liminarmente.
+Nas razões, alega o agravante que há flagrante ilegalidade na manutenção do perdimento após a prescrição, por se tratar de sanção sem pena, efeito secundário que pressupõe sentença condenatória válida e executável.
+Sustenta que, ainda que equiparado à medida cautelar, o sequestro deve ser levantado se a punibilidade for extinta sem condenação, apontando erro da decisão ao admitir valoração probatória para impor efeito patrimonial quando o Estado perdeu o direito de declarar a sanção principal, caracterizando confisco sem crime e teratologia.
+Defende que a prescrição da pretensão punitiva acarreta a perda de todos os efeitos da condenação, tornando ilegal a manutenção do confisco.
+Aduz inadmissível supressão de instância e inversão do ônus da prova, pois o Tribunal de origem manteve o perdimento com base em provas ligadas ao ingresso domiciliar cuja nulidade não foi apreciada por força da prescrição, gerando circuito vicioso que viola o devido processo legal e o in dubio pro reo.
+Afirma que exigir prova estreme de dúvidas sobre a origem lícita inverte o ônus probatório e impõe ao paciente prova negativa de ilicitude, o que é inadmissível.
+Pugna, assim, pela reforma da decisão agravada, com concessão da ordem para afastar o perdimento e determinar a imediata e integral restituição dos bens.
+Não abri prazo para as contrarrazões.
+Na Petição n. 01214796/2025, a defesa técnica interpõe peça idêntica cuja pretensão reitera o presente agravo regimental (fls. 69/74).
+É o relatório.
+EMENTA
+AGRAVO REGIMENTAL EM HABEAS CORPUS. PROCESSUAL PENAL. TRÁFICO DE DROGAS. PRESCRIÇÃO RETROATIVA RECONHECIDA NA ORIGEM. MANUTENÇÃO DO PERDIMENTO DE NUMERÁRIO E MOTOCICLETA. ALEGAÇÃO DE EXTINÇÃO DOS EFEITOS SECUNDÁRIOS DA CONDENAÇÃO. NECESSIDADE DE COMPROVAÇÃO INEQUÍVOCA DA ORIGEM LÍCITA E DA DESVINCULAÇÃO DOS BENS DO CRIME. ACÓRDÃO QUE FUNDAMENTADAMENTE RECONHECE O VÍNCULO CONCRETO DOS BENS COM A ATIVIDADE ILÍCITA. TESE DE NULIDADE POR INGRESSO DOMICILIAR NÃO APRECIADA NA ORIGEM. SUPRESSÃO DE INSTÂNCIA. AUSÊNCIA DE TERATOLOGIA.
+Agravo regimental improvido. Julgo prejudicado o agravo regimental de fls. 69/74.
+VOTO
+O presente agravo regimental deve ser conhecido, já que reúne os requisitos de admissibilidade.
+No mérito, todavia, não deve ser provido.
+Conforme destaquei na decisão agravada, a meu ver, o acórdão impugnado fundamentadamente explicitou que o reconhecimento da prescrição retroativa não conduz, de forma automática, à restituição dos bens apreendidos, tampouco invalida a análise concreta realizada pelas instâncias ordinárias acerca da origem e da destinação do numerário e da motocicleta vinculados ao paciente. De maneira adequada, o Tribunal de origem consignou que, embora extinta a punibilidade, os elementos extraídos da prova - apreensão de drogas fracionadas, utensílios de preparo e acondicionamento, quantia expressiva em espécie e motocicleta utilizada no deslocamento para entrega de entorpecentes - revelam fortes indícios de que tais bens estavam funcionalmente integrados à atividade ilícita.
+O acórdão a quo também considerou, de forma expressa, que a defesa não apresentou demonstração inequívoca da origem lícita do numerário apreendido. Apesar da juntada de documentos formais de movimentação financeira, ressaltou a Corte local que tais papéis não explicam a presença de grandes quantias em espécie, acompanhadas de numerosas moedas e dispersas em diferentes pontos da residência, característica compatível com o comércio ilícito relatado nos autos. Do mesmo modo, entendeu o Tribunal estadual que a motocicleta apreendida estava diretamente relacionada ao modus operandi do tráfico, utilizada para a entrega do entorpecente, o que afasta a possibilidade de sua restituição.
+Nesse sentido: AgRg no HC n. 997.429/SP, Ministro Otávio de Almeida Toledo (Desembargador Convocado do TJSP), Sexta Turma, DJEN de 1º/9/2025.
+No que se refere à alegada nulidade decorrente de ingresso domiciliar ilegal, observo que tal matéria não foi apreciada no acórdão recorrido. Admitir sua análise por esta Corte, no âmbito do habeas corpus, implicaria indevida supressão de instância, sendo inviável inaugurar debate que exige prévio exame pelas instâncias ordinárias.
+Não prospera, também, a tese de que a prescrição retroativa extinguiria, por si só, os efeitos secundários da condenação. De maneira adequada, o Tribunal estadual destacou que, segundo a jurisprudência desta Corte Superior, a restituição de bens depende de comprovação inequívoca da propriedade e da licitude da origem, bem como da inexistência de vínculo com o delito, ônus que não foi satisfeito no caso.
+Ilustrativamente: AgRg no HC n. 755.089/SP, Ministro Rogerio Schietti Cruz, Sexta Turma, DJe 31/8/2022; e AgRg no HC n. 682.569/SP, Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe 16/12/2021.
+Desse modo, não há, em juízo preliminar, ilegalidade manifesta ou teratologia apta a justificar o afastamento da conclusão firmada pela Corte local. A manutenção do perdimento encontra-se amparada em fundamentos concretos e alinhada à orientação jurisprudencial consolidada, sendo inviável, nesta fase, revisitar a valoração probatória empreendida pelas instâncias ordinárias.
+Ante o exposto, nego provimento ao agravo regimental. Julgo prejudicado o agravo regimental de fls. 69/74.
