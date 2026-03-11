@@ -1,0 +1,61 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUINTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 05/03/2026 a 11/03/2026, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Joel Ilan Paciornik, Messod Azulay Neto, Maria Marluce Caldas e Reynaldo Soares da Fonseca votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Reynaldo Soares da Fonseca.
+EMENTA
+Direito Processual Penal. Agravo Regimental em Habeas Corpus. tráfico de drogas. busca domiciliar. validade. condenação. dosimetria penal. condenação transitada em julgado. Agravo regimental IMprovido.
+I. Caso em exame
+1. Agravo regimental interposto contra decisão que não conheceu de habeas corpus impetrado para desconstituir condenação por tráfico de drogas, transitada em julgado, e revisar a dosimetria da pena.
+2. A defesa alegou nulidade da busca domiciliar por ausência de "fundadas razões", condenação baseada exclusivamente em elementos informativos do inquérito não confirmados em juízo, e ilegalidade na dosimetria da pena, com utilização de condenações com trânsito em julgado posterior ao fato para afastar o tráfico privilegiado.
+II. Questão em discussão
+3. A questão em discussão consiste em saber se há manifesta ilegalidade na decisão que não conheceu do habeas corpus, considerando as alegações de nulidade da busca domiciliar, insuficiência de provas para condenação e ilegalidade na dosimetria da pena.
+III. Razões de decidir
+4. A busca domiciliar foi realizada nos limites do flagrante, com base em denúncia anônima corroborada por monitoramento do local, visualização de ato de venda de drogas e confissão extrajudicial de usuário, sendo válida nos termos da jurisprudência.
+5. A condenação foi amparada em provas suficientes, incluindo testemunhos de policiais dotados de fé pública e laudo químico que confirmou a apreensão de entorpecentes.
+6. A revisão criminal não pode ser utilizada como segunda apelação para reexaminar fatos e provas já apreciados, salvo em casos de manifesta contrariedade à evidência dos autos ou novas provas de inocência, o que não se verifica no caso.
+7. O tráfico privilegiado foi corretamente afastado, considerando os maus antecedentes do acusado, com base em condenações definitivas existentes ao tempo da sentença condenatória, referente a fatos praticados anteriormente ao delitos objeto da denúncia.
+IV. Dispositivo e tese
+8. Resultado do Julgamento: Agravo regimental improvido.
+Tese de julgamento:
+1. A busca domiciliar realizada nos limites do flagrante, com base em denúncia anônima corroborada por monitoramento do local e visualização de atos de mercancia, é válida.
+2. A revisão criminal não pode ser utilizada como segunda apelação para reexaminar fatos e provas já apreciados, salvo em casos de manifesta contrariedade à evidência dos autos ou novas provas de inocência.
+3. Condenações definitivas anteriores ao fato objeto do processo podem ser utilizadas para afastar o tráfico privilegiado, configurando maus antecedentes.
+Dispositivos relevantes citados: CR /1988, art. 5º, XI e LVII; CPP, arts. 155, 157 e 621; Lei nº 11.343/2006, art. 33, § 4º.
+Jurisprudência relevante citada: STJ, AgRg no HC 918.622/SP, Min. Reynaldo Soares da Fonseca, Quinta Turma, julgado em 16.09.2024; STJ, AgRg no AREsp 2.655.954/MS, Min. Rogerio Schietti Cruz, Sexta Turma, julgado em 10.09.2024; STJ, HC 349.015/SC, Min. Rogerio Schietti Cruz, Sexta Turma, julgado em 26.04.2016.
+RELATÓRIO
+Trata-se de agravo regimental interposto por SAMUEL DOS SANTOS RODRIGUES MACEDO, contra decisão que não conheceu do habeas corpus interposto contra condenação transitada em julgado.
+Nas razões, a defesa reafirma que a decisão monocrática incorreu em error in judicando e violou, por via oblíqua, o princípio da colegialidade, deixando de reconhecer manifesta ilegalidade consubstanciada em: (i) nulidade da busca domiciliar por ausência de "fundadas razões", em afronta ao artigo 5º, XI, da Constituição da República e ao artigo 157 do Código de Processo Penal, inclusive à luz de prova técnica (Laudo de Perícia do Aparelho Celular) que desmente a narrativa policial; (ii) condenação pela "venda" de entorpecentes baseada exclusivamente em elementos informativos do inquérito não confirmados em juízo, em violação direta ao artigo 155 do Código de Processo Penal, diante da retratação judicial da testemunha; e (iii) ilegalidade na dosimetria, por afronta ao artigo 5º, LVII, da Constituição da República e à Súmula 444/STJ, com utilização de condenações com trânsito posterior ao fato para macular antecedentes e afastar o tráfico privilegiado (e-STJ, fls. 756-764).
+Requer assim: a) o conhecimento e o integral provimento do agravo regimental, para reformar a decisão monocrática de fls. 748-751, em juízo de retratação ou, subsidiariamente, por decisão colegiada; b) o conhecimento do habeas corpus e sua submissão a julgamento colegiado; c) no mérito, a concessão definitiva da ordem para anular os acórdãos condenatórios do TJDFT (Acórdão n.º 1860278) e da revisão criminal (Acórdão n.º 2056372), restabelecendo a sentença absolutória de primeiro grau; d) subsidiariamente, a correção da dosimetria, com afastamento da valoração negativa dos "maus antecedentes", aplicação da causa de diminuição do artigo 33, § 4º, da Lei n.º 11.343/2006 no patamar máximo, redimensionamento da pena, fixação do regime inicial aberto e substituição da pena privativa de liberdade por restritivas de direitos (e-STJ, fls. 764-765).
+É o relatório.
+EMENTA
+Direito Processual Penal. Agravo Regimental em Habeas Corpus. tráfico de drogas. busca domiciliar. validade. condenação. dosimetria penal. condenação transitada em julgado. Agravo regimental IMprovido.
+I. Caso em exame
+1. Agravo regimental interposto contra decisão que não conheceu de habeas corpus impetrado para desconstituir condenação por tráfico de drogas, transitada em julgado, e revisar a dosimetria da pena.
+2. A defesa alegou nulidade da busca domiciliar por ausência de "fundadas razões", condenação baseada exclusivamente em elementos informativos do inquérito não confirmados em juízo, e ilegalidade na dosimetria da pena, com utilização de condenações com trânsito em julgado posterior ao fato para afastar o tráfico privilegiado.
+II. Questão em discussão
+3. A questão em discussão consiste em saber se há manifesta ilegalidade na decisão que não conheceu do habeas corpus, considerando as alegações de nulidade da busca domiciliar, insuficiência de provas para condenação e ilegalidade na dosimetria da pena.
+III. Razões de decidir
+4. A busca domiciliar foi realizada nos limites do flagrante, com base em denúncia anônima corroborada por monitoramento do local, visualização de ato de venda de drogas e confissão extrajudicial de usuário, sendo válida nos termos da jurisprudência.
+5. A condenação foi amparada em provas suficientes, incluindo testemunhos de policiais dotados de fé pública e laudo químico que confirmou a apreensão de entorpecentes.
+6. A revisão criminal não pode ser utilizada como segunda apelação para reexaminar fatos e provas já apreciados, salvo em casos de manifesta contrariedade à evidência dos autos ou novas provas de inocência, o que não se verifica no caso.
+7. O tráfico privilegiado foi corretamente afastado, considerando os maus antecedentes do acusado, com base em condenações definitivas existentes ao tempo da sentença condenatória, referente a fatos praticados anteriormente ao delitos objeto da denúncia.
+IV. Dispositivo e tese
+8. Resultado do Julgamento: Agravo regimental improvido.
+Tese de julgamento:
+1. A busca domiciliar realizada nos limites do flagrante, com base em denúncia anônima corroborada por monitoramento do local e visualização de atos de mercancia, é válida.
+2. A revisão criminal não pode ser utilizada como segunda apelação para reexaminar fatos e provas já apreciados, salvo em casos de manifesta contrariedade à evidência dos autos ou novas provas de inocência.
+3. Condenações definitivas anteriores ao fato objeto do processo podem ser utilizadas para afastar o tráfico privilegiado, configurando maus antecedentes.
+Dispositivos relevantes citados: CR /1988, art. 5º, XI e LVII; CPP, arts. 155, 157 e 621; Lei nº 11.343/2006, art. 33, § 4º.
+Jurisprudência relevante citada: STJ, AgRg no HC 918.622/SP, Min. Reynaldo Soares da Fonseca, Quinta Turma, julgado em 16.09.2024; STJ, AgRg no AREsp 2.655.954/MS, Min. Rogerio Schietti Cruz, Sexta Turma, julgado em 10.09.2024; STJ, HC 349.015/SC, Min. Rogerio Schietti Cruz, Sexta Turma, julgado em 26.04.2016.
+VOTO
+O agravante não trouxe argumentos suficientes para infirmar a decisão impugnada, razão pela qual mantenho-a por seus próprios fundamentos.
+Preliminarmente, observa-se que a defesa busca desconstituir condenação acobertada pela coisa julgada, o que confere a este habeas corpus nítidas características revisionais.
+Todavia, a esta Corte cabe tão somente a revisão criminal dos seus próprios julgados, de acordo com o art. 105, inciso I, alínea e, da Constituição da República. Ademais, uma vez priorizando o uso racional do habeas corpus e a sistemática recursal estabelecida pelo CPP, o Supremo Tribunal Federal e o Superior Tribunal de Justiça não tem admitido o habeas corpus substitutivo de recurso próprio, ressalvadas as hipóteses de manifesta ilegalidade no ato judicial impugnado.
+No caso, da leitura atenta do acórdão impugnado, não se identifica o manifesto constrangimento sustentado pela defesa, pois a busca domiciliar decorreu nos limites do flagrante, uma vez que apoiada em denúncia anônima, corroborada pelo monitoramento do local e a visualização da conduta suspeita de venda de drogas, com a abordagem e confissão extrajudicial do usuário (e-STJ, fl. 23).
+Ao contrário do que afirma a defesa, a falta de aplicativos de troca de mensagens instalados no celular do agravante e de registro de qualquer conteúdo criminoso no aparelho nos dias anteriores em nada desconstitui a versão policial e a validade da busca domiciliar, na medida em que as circunstâncias fáticas que procederam à medida, ou seja, a visualização de atos típicos de mercancia em frente ao local já seria suficiente para a entrada no domicílio.
+O Tribunal de origem afirmou, ainda, que "há provas nos autos que amparam a imputação acusatória do crime de mercancia ilegal de entorpecentes, seja pelo testemunho dos policiais, dotados de fé pública e sem qualquer indício de incriminação gratuita (ID 71858298,fls. 93/94), seja também pelo laudo de exame químico atestando, na verdade, a apreensão de duas porções de maconha total de 12,62g" (e-STJ, fl. 29). Portanto, correta a decisão impugnada quando afirma que a revisão criminal não deve ser utilizada como uma segunda apelação para reexaminar fatos e provas, exaustivamente já apreciados na sentença e na própria instância revisora.
+Logo, não sendo manifestamente contrária a evidência dos autos a condenação do réu e ausente indicação de novas provas de inocência (art. 621 do CPP), deve ser mantido o édito condenatório amparado em prova suficiente das práticas criminosas e acobertada pelo manto da coisa julgada (AgRg no HC n. 918.622/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 16/9/2024, DJe de 18/9/2024; AgRg no AREsp n. 2.655.954/MS, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 10/9/2024, DJe de 18/9/2024).
+Por fim, anote-se que o tráfico privilegiado foi corretamente afastado, diante dos maus antecedentes do acusado. As condenações utilizadas para negar o privilégio da Lei de Drogas são anteriores ao fato objeto desse feito (15/6/2021) e, ao tempo da prolação da decisão condenatória, já tinham transitado em julgado (16/5/2024), sendo aptas, portanto, para configurar maus antecedentes.
+Nesse sentido: "a condenação definitiva por fato anterior ao crime descrito na denúncia, mas com trânsito em julgado posterior à data do ilícito penal, ainda que não configure a agravante da reincidência, pode caracterizar maus antecedentes, pois diz respeito ao histórico do acusado." (HC 349.015/SC, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 26/4/2016; DJe 2/5/2016).
+Ante o exposto, nego provimento ao agravo regimental.
+É o voto.
