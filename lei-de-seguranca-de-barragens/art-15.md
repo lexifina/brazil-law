@@ -4,3 +4,4 @@ II - elaboração de material didático;
 III - manutenção de sistema de divulgação sobre a segurança das barragens sob sua jurisdição;
 IV - promoção de parcerias com instituições de ensino, pesquisa e associações técnicas relacionadas à engenharia de barragens e áreas afins;
 V - disponibilização anual do Relatório de Segurança de Barragens.
+VI - elaboração e divulgação de material informativo sobre busca, salvamento e cuidados imediatos a animais em situação de desastre.
