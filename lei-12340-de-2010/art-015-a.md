@@ -1,0 +1,1 @@
+Art. 15-A. Aplica-se o disposto na Lei nº 12.462, de 4 de agosto de 2011, às licitações e aos contratos destinados à execução de ações de prevenção em áreas de risco de desastres e de resposta e de recuperação em áreas atingidas por desastres.

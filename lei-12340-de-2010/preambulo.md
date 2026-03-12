@@ -1,0 +1,2 @@
+Dispõe sobre as transferências de recursos da União aos órgãos e entidades dos Estados, Distrito Federal e Municípios para a execução de ações de prevenção em áreas de risco de desastres e de resposta e de recuperação em áreas atingidas por desastres e sobre o Fundo Nacional para Calamidades Públicas, Proteção e Defesa Civil; e dá outras providências.
+O PRESIDENTE DA REPÚBLICA Faço saber que o Congresso Nacional decreta e eu sanciono a seguinte Lei:
