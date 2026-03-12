@@ -19,3 +19,4 @@ IV - organização do sistema de atendimento emergencial à população, incluin
 V - definição das ações de atendimento médico-hospitalar e psicológico aos atingidos por desastre;
 VI - cadastramento das equipes técnicas e de voluntários para atuarem em circunstâncias de desastres;
 VII - localização dos centros de recebimento e organização da estratégia de distribuição de doações e suprimentos.
+VIII - organização do sistema de resgate e atendimento emergencial à fauna impactada, bem como dos pontos de abrigo após a ocorrência de desastre.
