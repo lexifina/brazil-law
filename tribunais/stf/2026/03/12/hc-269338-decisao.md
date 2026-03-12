@@ -1,0 +1,31 @@
+DECISÃO
+
+Trata-se de Habeas Corpus, com pedido de liminar, impetrado contra acórdão da Sexta Turma do Superior Tribunal de Justiça, proferido no julgamento do Agravo Regimental no HC 1.038.339/SP, submetido à relatoria do Ministro SEBASTIÃO REIS JÚNIOR.
+Consta dos autos, em síntese, que a paciente foi condenada à pena de 13 anos e 3 meses de reclusão, em regime fechado, em razão da prática dos crimes de organização criminosa (artigo 2º, § 3º, da Lei 12.850/13) e lavagem de capitais (art. 1º, § 1º e § 4º, da Lei 9.613/98).
+Inconformada com a “revogação da prisão domiciliar, seguida de decretação de prisão preventiva”, a defesa impetrou Habeas Corpus no Tribunal de Justiça do Estado de São Paulo, que denegou a ordem.
+Na sequência, nova impetração, dessa vez direcionada ao Superior Tribunal de Justiça, indeferida liminarmente pelo Ministro relator, em decisão confirmada pelo colegiado no julgamento do subsequente Agravo Regimental, conforme ementa:
+
+AGRAVO REGIMENTAL EM HABEAS CORPUS. DIREITO PROCESSUAL PENAL. OPERAÇÃO ATRATUS. ORGANIZAÇÃO CRIMINOSA E LAVAGEM DE CAPITAIS. PRISÃO DOMICILIAR REVOGADA. DECRETAÇÃO DE PRISÃO PREVENTIVA. ALEGAÇÃO DE CONSTRANGIMENTO ILEGAL. IMPROCEDÊNCIA. DESCUMPRIMENTO REITERADO DAS CONDIÇÕES IMPOSTAS (SAÍDAS NÃO JUSTIFICADAS, PERMANÊNCIA PROLONGADA FORA DA RESIDÊNCIA, FREQUÊNCIA A SALÃO DE BELEZA E CLUBE RECREATIVO, AUSÊNCIA DE COMPARECIMENTO DIÁRIO NA ESCOLA DOS FILHOS). LEGITIMIDADE DO MINISTÉRIO PÚBLICO PARA FISCALIZAR O CUMPRIMENTO DAS MEDIDAS. POSSIBILIDADE DE CONTRADITÓRIO DIFERIDO. FUNDAMENTAÇÃO CONCRETA BASEADA NA GRAVIDADE DOS FATOS E NA NECESSIDADE DE GARANTIA DA ORDEM PÚBLICA. INAPLICABILIDADE DE MEDIDAS CAUTELARES DIVERSAS. CONDIÇÕES PESSOAIS FAVORÁVEIS QUE NÃO AFASTAM A CUSTÓDIA. CONSTRANGIMENTO ILEGAL NÃO CONFIGURADO.
+Agravo regimental improvido.
+
+Nesta ação, alega-se, em síntese: “prisão mais gravosa do que a domiciliar para mães de filhos menores de 12 anos deve estar condicionada a situações de absoluta excepcionalidade, o que não é o caso, e eventual descumprimento de condições impõem a necessidade de ajuste das condições diante da imprescindibilidade dos cuidados maternos”. Em razão disso, requer-se a concessão da ordem, “com o restabelecimento da prisão domiciliar com monitoração eletrônica”.
+É o relatório. Decido.
+
+De acordo com o art. 312 do Código de Processo Penal, a prisão preventiva poderá ser decretada quando houver prova da existência do crime (materialidade) e indício suficiente de autoria. Além disso, é preciso demonstrar, concretamente, a existência de um dos fundamentos que a autorizam: para garantir a ordem pública; para garantir a ordem econômica; por conveniência da instrução criminal; ou, ainda, para assegurar a aplicação da lei penal.
+A prisão preventiva também poderá ser decretada em caso de descumprimento de qualquer das obrigações impostas por força de outras medidas cautelares, nos termos do art. 312, § 1º, do Código de Processo Penal.
+Sobressaem, nos autos, as circunstâncias concretas do caso em tela, do que decorre a necessidade da garantia da ordem pública, especialmente em razão “dos descumprimentos reiterados das condições impostas como substitutivo da prisão preventiva, revelando desídia e desrespeito às ordens judiciais”. Ressaltou-se, ainda, “que a própria justificativa de a agravante necessitar da custódia domiciliar para cuidado dos filhos não se sustentava, pois tais funções vinham sendo desempenhadas por terceiros”.
+Nesse contexto, concluiu, com razão, o Superior Tribunal de Justiça:
+
+[...] o Tribunal de origem, ao examinar a matéria, consignou de maneira detalhada que a agravante fora beneficiada com prisão domiciliar, mas reiteradamente descumpriu as condições impostas, a despeito das advertências judiciais. Ficou demonstrado que se ausentava de sua residência em dias e horários incompatíveis com os compromissos escolares de seus filhos, frequentava salão de beleza e clubes recreativos, além de permanecer longos períodos fora de casa sem apresentar justificativa. Tais condutas foram confirmadas por registros de portaria de condomínio e corroboradas por informações colhidas em sede própria.
+[...]
+Cumpre registrar que a paciente foi condenada em primeiro e segundo graus, pela prática dos delitos de lavagem de capitais (art. 1º, caput e § 1º, daLei n. 9.613/1998) e de participação em organização criminosa (art. 2º, caput e § 3º, daLei n. 12.850/2013), com pena fixada em 13 anos e 3 meses de reclusão, em razão de esquema fraudulento que envolvia obtenção de empréstimos consignados fraudulentos contra pensionistas do INSS, resultando em vultosas vantagens econômicas e prejuízos à coletividade. Tal circunstância reforça a presença dos requisitos do art. 312 do CPP.
+
+Além disso, a insuficiência das medidas cautelares diversas (CPP, 312, §1º) revela a imprescindibilidade da sua segregação para garantir a ordem pública e aplicação da lei penal. Na linha de precedentes desta CORTE, tais circunstâncias autorizam a custódia cautelar: RHC 146329 AgR, Rel. Min. ROBERTO BARROSO, Primeira Turma, DJe de 19/2/2018; HC 158559 AgR, Rel. Min. ALEXANDRE DE MORAES, Primeira Turma, DJe de 30/8/2018; HC 140.512, Rel. Min. RICARDO LEWANDOWSKI, Segunda Turma, DJe de 30/5/2017; HC 137.131 AgR, Rel. Min. ROBERTO BARROSO, Primeira Turma, DJe de 17/5/2017; HC 141.170 AgR, Rel. Min. DIAS TOFFOLI, Segunda Turma, DJe de 19/5/2017; HC 132.543, Rel. Min. ROSA WEBER, Primeira Turma, DJe de 6/9/2016, HC 101248, Rel. Min. LUIZ FUX, Primeira Turma, julgado em 21/06/2011, DJe de 09-08-2011.
+Por fim, a análise das questões fáticas suscitadas pela defesa demandaria o reexame do conjunto probatório, providência incompatível com esta via processual (cf. HC 159.624 AgR, Rel. Min. ALEXANDRE DE MORAES, Primeira Turma, DJe de 16/10/2018; HC 136.622 AgR, Rel. Min. ROBERTO BARROSO, Primeira Turma, DJe de 17/2/2017; HC 135.748, Rel. Min. RICARDO LEWANDOWSKI, Segunda Turma, DJe de 13/2/2017; HC 135.956, Rel. Min. TEORI ZAVASCKI, Segunda Turma, DJe de 28/11/2016; HC 134.445 AgR, Rel. Min. EDSON FACHIN, Primeira Turma, DJe de 27/9/2016).
+Diante do exposto, com base no art. 21, § 1º, do Regimento Interno do STF, INDEFIRO a ordem de HABEAS CORPUS.
+Publique-se.
+Brasília, 12 de março de 2026.
+
+Ministro Alexandre de Moraes
+Relator
+Documento assinado digitalmente
