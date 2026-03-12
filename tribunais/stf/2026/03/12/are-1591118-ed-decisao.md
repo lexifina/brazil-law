@@ -1,0 +1,41 @@
+DECISÃO: Trata-se de embargos de declaração (eDoc. 349) opostos em face de decisão que negou seguimento ao recurso sob os seguintes fundamentos (eDoc. 347) :
+
+“Analisados os autos, no que tange à alegação de violação do(s) art(s). 5º, LV, da Constituição, verifica-se que a decisão de inadmissão do recurso extraordinário está amparada em aplicação de precedente firmado com base na sistemática da repercussão geral.
+Todavia, o art. 1.042 do Código de Processo Civil é expresso sobre o não cabimento de agravo dirigido ao STF nas hipóteses em que a negativa de seguimento do recurso extraordinário tiver como base exclusivamente a sistemática da repercussão geral, sendo essa decisão passível de impugnação somente por agravo interno (art. 1.030, § 2º, do CPC/2015). Sobre o tema, destaque-se:
+
+‘EMBARGOS DE DECLARAÇÃO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO EXTRAORDINÁRIO COM AGRAVO. CONVERSÃO EM AGRAVO REGIMENTAL. PROCESSUAL CIVIL. APLICAÇÃO DA SISTEMÁTICA DA REPERCUSSÃO GERAL NA ORIGEM: AUSÊNCIA DE PREVISÃO LEGAL DE RECURSO PARA O SUPREMO TRIBUNAL FEDERAL. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO’ (ARE nº 1.109.295/RS-ED-ED, Tribunal Pleno, Rel. Min. Cármen Lúcia, DJe de 25/09/2018).
+
+Assim, não conheço do recurso quanto ao(s) capítulo(s) acima referenciado(s).
+Ademais, verifica-se que, para ultrapassar o entendimento do Tribunal de origem, seria necessário analisar a causa à luz da interpretação dada à legislação infraconstitucional pertinente e reexaminar os fatos e as provas dos autos, o que não é cabível em sede de recurso extraordinário, nos termos da Súmula 279/STF. Sobre o tema, a propósito:
+
+‘Agravo regimental no recurso extraordinário com agravo. Matéria criminal. Fatos e provas. Reexame. Impossibilidade. Legislação infraconstitucional. Ofensa Reflexa. Precedentes. 1. Não se presta o recurso extraordinário para o reexame dos fatos e das provas constantes dos autos, tampouco para a análise da legislação infraconstitucional. Incidência das Súmulas nºs 279 e 636/STF. 2. Agravo regimental não provido’ (ARE 1183314/CE - AgR, Tribunal Pleno, Rel. Min. Dias Toffoli, DJe de 15/04/2019).
+
+“EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO RECURSO EXTRAORDINÁRIO COM AGRAVO. PENAL E PROCESSUAL PENAL. CRIMES DE ROUBO E RECEPTAÇÃO. ARTIGOS 157, 2º, I E II (REDAÇÃO ANTERIOR À LEI 13.654/2018), E 180, CAPUT, DO CÓDIGO PENAL. AUTORIA. NECESSIDADE DE REVOLVIMENTO DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. SÚMULA 279 DO STF. ALEGADA VIOLAÇÃO AO ARTIGO 93, IX, DA CONSTITUIÇÃO. INEXISTÊNCIA. AMBIGUIDADE, OBSCURIDADE, CONTRADIÇÃO OU OMISSÃO. INEXISTÊNCIA. ERRO MATERIAL. INOCORRÊNCIA. EFEITOS INFRINGENTES. IMPOSSIBILIDADE. RECURSO MANIFESTAMENTE PROTELATÓRIO. EMBARGOS DE DECLARAÇÃO DESPROVIDOS. DETERMINADA A CERTIFICAÇÃO DO TRÂNSITO EM JULGADO, COM A CONSEQUENTE BAIXA IMEDIATA DOS AUTOS AO JUÍZO DE ORIGEM, INDEPENDENTEMENTE DA PUBLICAÇÃO DO ACÓRDÃO” (ARE 1.216.238/CE, AgR, Primeira Turma, Rel. Min. Luiz Fux, DJe de 30/08/2019).
+
+“DIREITO PENAL. PROCESSUAL PENAL. FURTO. MATERIALIDADE E AUTORIA. RECURSO EXTRAORDINÁRIO INTERPOSTO SOB A ÉGIDE DO CPC/2015. ALEGAÇÃO DE OFENSA AO ART. 5º, LXIII, DA CONSTITUIÇÃO DA REPÚBLICA. EVENTUAL VIOLAÇÃO REFLEXA DA CONSTITUIÇÃO DA REPÚBLICA NÃO VIABILIZA O RECURSO EXTRAORDINÁRIO. REELABORAÇÃO DA MOLDURA FÁTICA. PROCEDIMENTO VEDADO NA INSTÂNCIA EXTRAORDINÁRIA. AGRAVO MANEJADO SOB A VIGÊNCIA DO CPC/2015. 1. Obstada a análise da suposta afronta aos preceitos constitucionais invocados, porquanto dependeria de prévia análise da legislação infraconstitucional aplicada à espécie, procedimento que refoge à competência jurisdicional extraordinária desta Corte Suprema, a teor do art. 102 da Magna Carta. 2. As razões do agravo não se mostram aptas a infirmar os fundamentos que lastrearam a decisão agravada, mormente no que se refere à ausência de ofensa a preceito da Constituição da República. 3. Agravo interno conhecido e não provido” (ARE 1110286/SP - AgR, Rel. Min. Primeira Turma, Rosa Weber, DJe de 26/11/2018)
+
+‘AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. DIREITO CONSTITUCIONAL E PENAL. AUSÊNCIA DE AFRONTA AO ART. 93, INC. IX, DA CONSTITUIÇÃO DA REPÚBLICA. ACÓRDÃO FUNDAMENTADO DE FORMA ADEQUADA E SUFICIENTE À DEMONSTRAÇÃO DA CONVICÇÃO DO JULGADOR. CRIME DE FURTO QUALIFICADO. AUTORIA E MATERIALIDADE. IMPOSSIBILIDADE DO REEXAME DE PROVAS. SÚMULA N. 279 DO SUPREMO TRIBUNAL FEDERAL. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO’ (ARE 928826/SP - AgR, Segunda Turma, Rel. Min. Cármen Lúcia, DJe de 1º/02/2016).
+
+‘Agravo regimental em recurso extraordinário com agravo. 2. Direito Penal e Processual Penal. 3. Desclassificação do crime de roubo consumado (art. 157, § 2º, incisos I e II, do CP) para o de furto qualificado (art. 155, § 4º, inciso IV, do CP). 4. Exame de prova. Impossibilidade. Súmula 279/STF. 5. Agravo a que se nega provimento” (ARE 1054623/SP - AgR, Segunda Turma,Rel. Min. Gilmar Mendes, DJe de 14/12/2017).
+Ante o exposto, nego seguimento ao recurso (alínea c do inciso V do art. 13 do Regimento Interno do Supremo Tribunal Federal)”.
+
+Nas razões recursais, o embargante alega a existência de contradições e obscuridades, argumentando que a decisão de inadmissibilidade do recurso extraordinário não teria sido proferido exclusivamente com fundamento na existência de repercussão geral, mas que no seu recurso também mencionou a violação ao art. 5º, II, XLVI, LIV e LVII, da Constituição Federal.
+Alega, ainda, “não há que se falar em incidência da Súmula 279 desta Egrégia Corte, posto que o que se busca é o afastamento de vulneração a dispositivos da Constituição Federal, restando os fatos devidamente delineados na sentença de absolvição e no acórdão que julgou a Apelação”.
+Requer, assim, o acolhimento dos embargos de declaração, “para que se esclareça por que razão referidos dispositivos mencionados se mostram inaplicáveis ao caso em apreço, para que se permita uma melhor compreensão do que restou decidido”.
+É o relatório. Decido.
+Sem razão a parte Embargante.
+Registro, inicialmente, que os embargos de declaração não constituem meio hábil para reforma do julgado, sendo cabíveis somente quando houver no acórdão omissão, contradição ou obscuridade, conforme dispõe o art. 619 do CPP, o que não ocorre no presente caso.
+O embargante busca, indevidamente, a rediscussão da matéria, com objetivo de obter excepcionais efeitos infringentes. De fato, as razões veiculadas na petição dos embargos de declaração limitam-se a discutir o acerto ou o desacerto da decisão embargada.
+Não obstante a irresignação do recorrente com o resultado do julgamento, o decisum embargado deixou claramente consignado que, “no que tange à alegação de violação do art. 5º, LV, da Constituição, verifica-se que a decisão de inadmissão do recurso extraordinário está amparada em aplicação de precedente firmado com base na sistemática da repercussão geral”.
+Em relação aos demais dispositivos constitucionais apontados como violados, ressaltou-se que para ultrapassar o entendimento do Tribunal de origem, seria necessário analisar a causa à luz da interpretação dada à legislação infraconstitucional pertinente e reexaminar os fatos e as provas dos autos, o que não é cabível em sede de recurso extraordinário, nos termos da Súmula 279 /STF.
+Portanto, de acordo com a compreensão externada na decisão embargada,  a inadmissibilidade recursal procedeu ao nítido e exaustivo exame das questões suscitadas.
+Ao oposto do que afirmado pela defesa, a decisão embargada invoca os óbices processuais que entende aplicáveis ao caso, sem incorrer no vício da omissão, contradição ou obscuridade. O que se verifica é o mero inconformismo do embargante e o nítido intuito de rediscutir a decisão recorrida.
+Com essas considerações, destaca-se ser perceptível, de todo o alegado pelo ora embargante, o intento de provocar a rediscussão de pontos já enfrentados, para o que não se prestam os embargos de declaração, conforme reiterados pronunciamentos desta Suprema Corte (INQ 3.221-ED, Rel. Min. GILMAR MENDES, Segunda Turma, DJe 12.11.2015; INQ 3.412-ED, Rel. Min. ROSA WEBER, Tribunal Pleno, DJe 8.10.2014).
+
+Ante o exposto, rejeito os embargos de declaração.
+Publique-se.
+Brasília, 12 de março de 2026.
+
+Ministro EDSON FACHIN
+Presidente
+Documento assinado digitalmente
