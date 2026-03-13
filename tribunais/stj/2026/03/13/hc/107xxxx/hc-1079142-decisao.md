@@ -1,0 +1,17 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em nome de MARCOS PAULO GOMES - preso preventivamente e acusado pela prática do crime de tráfico de drogas, decorrente de prisão em flagrante em 23/12/2025 -, em que a defesa aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DE MINAS GERAIS (Habeas Corpus n. 1.0000.26.032426-4/000).
+O impetrante alega ausência de objetos ilícitos na posse direta do paciente e apreensões realizadas em locais de acesso público, sem individualização adequada das condutas (fls. 3/4). Sustenta a inexistência de investigações prévias que indiquem dedicação habitual ao tráfico ou integração em organização criminosa (fls. 8/9).
+Defende a tecnicidade da primariedade, a existência de emprego lícito e residência fixa, e afirma que tais condições pessoais favorecem a substituição da prisão por medidas cautelares diversas (fls. 4/9).
+Requer, inclusive liminarmente, a revogação da prisão preventiva e a substituição por medidas cautelares do art. 319 do Código de Processo Penal.
+É o relatório.
+Inicialmente, não cabe, em sede de habeas corpus (e seu respectivo recurso ordinário), proceder ao exame da veracidade do suporte probatório que embasou o decreto de prisão preventiva. Isso porque, além de demandar o reexame de fatos, é suficiente para o juízo cautelar a verossimilhança das alegações, e não o juízo de certeza, próprio da sentença condenatória (STF: Segunda Turma, RHC n. 123.812/DF, relator Ministro Teori Zavascki, DJe 17/10/2014) - (RHC n. 161.173/MS, Ministro Antonio Saldanha Palheiro, Sexta Turma, DJe 6/5/2022).
+Vale ressaltar que a insuficiência das provas de autoria e materialidade quanto ao tipo penal não encontra espaço de análise na estreita via do habeas corpus (e seu respectivo recurso ordinário), por demandar exame fático-probatório. Ilustrativamente: AgRg no HC n. 777.911/RJ, Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe 16/11/2022.
+O Juízo de primeiro grau, acompanhado pela Corte local, destacou risco concreto de reiteração delitiva, com diversos processos recentes, além de soltura em outubro de 2025, seguida de novo crime em menos de dois meses, reputando insuficientes as medidas cautelares diversas e mantendo a prisão para garantia da ordem pública (fl. 366).
+Assim, a imposição da prisão preventiva se encontra adequadamente fundamentada a partir da análise particularizada da situação fática dos autos, tendo sido amparada no risco concreto de reiteração delitiva, o que justifica a custódia cautelar para resguardar a ordem pública.
+Com a Lei n. 15.272/2025, o Código de Processo Penal passou a prever expressamente, em seu art. 312, § 3º, IV, que devem ser considerados, na aferição da periculosidade do agente geradora de riscos à ordem pública, o fundado receio de reiteração delitiva, inclusive à vista da existência de outros inquéritos e ações penais em curso.
+Em conclusão, considerada a reiteração delitiva que recomenda a manutenção da custódia ante tempus, não se mostra suficiente, no caso, a aplicação de medidas cautelares diversas, nos termos do art. 282, II, do Código de Processo Penal.
+Ante o exposto, indefiro liminarmente a petição inicial de habeas corpus.
+Publique-se.
+EMENTA
+HABEAS CORPUS. TRÁFICO DE DROGAS. PRISÃO PREVENTIVA. VERACIDADE DO SUPORTE PROBATÓRIO. JUÍZO CAUTELAR. VEROSSIMILHANÇA DAS ALEGAÇÕES. MATERIALIDADE E AUTORIA DELITIVA. REEXAME FÁTICO-PROBATÓRIO. FUNDAMENTAÇÃO IDÔNEA.
+Petição inicial indeferida liminarmente.
