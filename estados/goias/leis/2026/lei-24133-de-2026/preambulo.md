@@ -1,0 +1,3 @@
+# LEI Nº 24.133, DE 13 DE MARÇO DE 2026
+Altera a Lei nº 21.671, de 6 de dezembro de 2022, alteradora da Lei nº 11.651, de 26 de dezembro de 1991, Código Tributário do Estado de Goiás - CTE, da Lei nº 13.194, de 26 de dezembro de 1997, e da Lei nº 13.453, de 16 de abril de 1999, que tratam de matéria tributária, e dispõe sobre a sucessão da titularidade, da gestão, da execução, da fiscalização e do acompanhamento de projetos, obras, serviços, contratos e demais instrumentos jurídicos vinculados ao Fundo Estadual de Infraestrutura em favor da Agência Goiana de Infraestrutura e Transportes.
+A ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição do Estado de Goiás, decreta e eu sanciono a seguinte Lei:
