@@ -1,0 +1,24 @@
+DECISÃO
+Trata-se de recurso ordinário em habeas corpus, sem pedido de liminar, interposto por ADI MORENO, contra acórdão proferido pelo TRIBUNAL REGIONAL FEDERAL DA 4ª REGIÃO (HABEAS CORPUS Nº 5001509-18.2026.4.04.0000/PR).
+Depreende-se dos autos que o recorrente teve mantido a medida cautelar de monitoramento eletrônico, em razão da acusação de contrabando e associação criminosa no âmbito da "Operação Contorno Norte".
+Inconformada, a defesa impetrou habeas corpus perante o Tribunal de origem, que denegou a ordem, em acórdão de fls. 254-260.
+No presente recurso, a Defesa aponta a ocorrência de constrangimento ilegal consubstanciado na " ..  manutenção da monitoração eletrônica em relação ao recorrente se mostra desproporcional, na medida em que o recorrente faz jus à extensão da ordem de habeas corpus concedida ao corréu" (fl. 264).
+Defende a extensão ao recorrente dos efeitos da decisão que beneficiou outro corréu, nos termos do art. 580 do Código de Processo Penal, uma vez que " ..  diversamente do que concluiu o Tribunal a quo, a situação fático processual do recorrente e o corréu Amadeu da Costa Neto, preenche os requisitos do artigo 580 do CPP para extensão da ordem de habeas corpus" (fl. 266).
+Requer a revogação do monitoramento eletrônico imposto ao recorrente.
+O Ministério Público Federal, às fls. 276-278 manifestou-se pelo desprovimento do recurso.
+É o relatório. DECIDO.
+Cinge-se a matéria a revogação do monitoramento eletrônico imposto ao recorrente, nos termos do art. 580 do Código de Processo Penal.
+Na hipótese, assim se manifestou a Corte de origem sobre a controvérsia (fl. 257-258):
+ ..  No que tange à tese de identidade de situações e extensão de benefícios com base no art. 580 do Código de Processo Penal, o pleito de isonomia não encontra amparo no caso dos autos.
+Ocorre que a aplicação do efeito extensivo exige que as circunstâncias entre os agentes sejam objetivamente idênticas e que não existam motivos de caráter exclusivamente pessoal que justifiquem o tratamento diferenciado. No caso em tela, contudo, verifica-se que a situação jurídica do paciente difere daquela ostentada pelo corréu indicado, diante da profunda vinculação do paciente com o Paraguai, onde possui endereços e residência. Tal particularidade fática representa um risco concreto à aplicação da lei penal e à ordem pública, o que impede a automática extensão de decisões proferidas em favor de outros envolvidos que não compartilhem do mesmo grau de conexão com território estrangeiro.  ..
+Nesse contexto, a manutenção do monitoramento por mais 90 dias mostra-se razoável e devidamente fundamentada pelo Juízo impetrado, não tendo sido demonstrada, por ora, alteração na situação fática capaz de esvaziar os fundamentos da decisão que determinou a substituição da prisão por medidas alternativas, nem de recomendar o abrandamento das condições ora vigentes.  ..  (grifei)
+Vale destacar, ainda, que o art. 580 do Código de Processo Penal estabelece que, nos casos de concurso de agentes, a decisão judicial benéfica proferida em recurso interposto por um deles aproveitará aos demais, quando não existirem circunstâncias de caráter exclusivamente pessoal que justifiquem tratamento diverso.
+Trata-se do efeito extensivo das decisões judiciais benéficas em matéria penal, que tem por objetivo garantir equidade e tratamento isonômico entre corréus que se encontrem na mesma situação fática e jurídica.
+In casu, como muito bem pontuado pelo acórdão recorrido, "a situação jurídica do paciente difere daquela ostentada pelo corréu indicado, diante da profunda vinculação do paciente com o Paraguai, onde possui endereços e residência. Tal particularidade fática representa um risco concreto à aplicação da lei penal e à ordem pública, o que impede a automática extensão de decisões proferidas em favor de outros envolvidos que não compartilhem do mesmo grau de conexão com território estrangeiro" (fl. 257).
+A propósito, trago os seguintes precedentes desta Corte Superior de Justiça:
+ ..  A diferença substancial no grau de envolvimento e no comportamento processual afasta a similitude necessária à aplicação do art. 580 do CPP, inviabilizando a extensão do benefício pleiteado (AgRg no RHC n. 213.867/GO, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJEN de 16/6/2025.)
+ ..  a extensão do benefício de liberdade provisória concedida ao corréu não é possível, uma vez que as particularidades constantes da decisão que concedeu a ordem são fatores e condições específicas do ac usado beneficiado, e tais elementos não restaram demonstrados nos autos (HC n. 986.793/BA, relator Ministro Sebastião Reis Júnior, Sexta Turma, DJEN de 30/5/2025.)
+Diante de tais considerações, portanto, não se vislumbra a existência de qualquer flagrante ilegalidade passível de ser sanada.
+Ante o exposto, nego provimento ao recurso ordinário em habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
