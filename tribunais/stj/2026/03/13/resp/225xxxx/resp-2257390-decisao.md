@@ -1,0 +1,27 @@
+DECISÃO
+Examina-se recurso especial interposto por ALINE RODRIGUES CORDEIRO, fundamentado nas alíneas "a" e "c" do permissivo constitucional..
+Recurso especial interposto em: 29/9/2025.
+Concluso ao gabinete em: 9/3/2026.
+Ação: declaratória de inexigibilidade de débito cumulada com compensação de danos morais, ajuizada por ALINE RODRIGUES CORDEIRO DOS SANTOS PIRES, em face de COMPANHIA PAULISTA DE FORÇA E LUZ, na qual requer a declaração de inexistência de débitos de consumo de energia e a exclusão de seu nome dos cadastros de inadimplentes, com compensação de danos morais no montante de R$ 15.000,00 (quinze mil reais).
+Sentença: julgou improcedentes os pedidos.
+Acórdão: não conheceu do recurso de apelação interposto por ALINE RODRIGUES CORDEIRO, nos termos da seguinte ementa:
+APELAÇÃO. AÇÃO DECLARATÓRIA DE INEXIGIBILIDADE DE DÉBITO C.C. INDENIZAÇÃO POR DANOS MORAIS. A autora foi regularmente intimada a apresentar instrumento de mandato com firma reconhecida e declaração que ateste seu desejo de litigar, também com firma reconhecida. Determinação não atendida. IRREGULARIDADE NA REPRESENTAÇÃO PROCESSUAL. INEFICÁCIA DO ATO DE RECORRER PRATICADO POR ADVOGADO SEM PODERES NOS AUTOS. Suspeita de litigância predatória. Irregularidade na representação processual que enseja o não conhecimento do recurso, ex vi do art. 76, §2º, I, do CPC. LITIGIOSIDADE ARTIFICIAL. PRÁTICAS PREDATÓRIAS NO ÂMBITO DO PODER JUDICIÁRIO. Análise com observância das orientações do Comunicado CG 02/2017. A presente demanda é expressão de reprovável abuso do direito de ação. O histórico de decisões exaradas por este E. Tribunal de Justiça reconhece o causídico que atua em prol da apelante como patrocinador contumaz de litigiosidade artificial, reincidindo em práticas predatórias no âmbito do Poder Judiciário. Esta contenda revela mais uma das demandas deflagradas neste contexto e, portanto, apresenta-se cabível (i) a expedição de ofício ao Núcleo de Monitoramento de Perfis de Demanda - NUMOPEDE; e (ii) expedição de ofício ao Conselho de Ética da OAB de São Paulo, a fim de que se apure vulneração ao art. 5º e infrações disciplinares previstas no art. 34, incisos III e IV, ambos do Código de Ética e Disciplina da OAB. RECURSO NÃO CONHECIDO, com determinações (e-STJ fl. 243).
+Recurso especial: alega violação dos arts. 80 e 81 do CPC, bem como dissídio jurisprudencial. Afirma que não se configuram as hipóteses legais de litigância de má-fé, por ausência de dolo e de prejuízo processual à parte contrária, devendo ser afastada a multa aplicada. Aduz que é indevida a exigência de procuração com firma reconhecida e de declaração da parte com firma reconhecida, por ausência de previsão legal e excesso de formalismo. Argumenta que as penas de litigância de má-fé são endereçadas às partes e não podem ser estendidas ao advogado, cuja eventual responsabilização deve ocorrer em ação própria.
+RELATADO O PROCESSO, DECIDE-SE.
+- Da ausência de prequestionamento
+O acórdão recorrido não decidiu acerca dos dispositivos legais indicados como violados, tampouco acerca do argumento de não cabimento de multa por litigância predatória no caso concreto. Por isso, o julgamento do recurso especial é inadmissível. Aplica-se, neste caso, a Súmula 282/STF.
+- Da divergência jurisprudencial
+A ausência de prequestionamento do tema que se supõe divergente, qual seja, cabimento da multa por litigância predatória no caso concreto, impede o conhecimento da insurgência veiculada pela alínea "c" do art. 105, III, da Constituição da República. Nesse sentido: AgRg no AREsp 353.947/SC, Terceira Turma, DJe de 31/03/2014; e EDcl no Ag 1.162.355/MG, Quarta Turma, DJe de 03/09/2013.
+- Ausência de indicação do dispositivo legal
+A recorrente insurge-se contra o reconhecimento de configuração de advocacia predatória, bem como contra a determinação de expedição de ofício ao NUMOPED e à OAB. Deixa de indicar, todavia, qual dispositivo legal foi violado pelo acórdão recorrido.
+Forte nessas razões, com fundamento no art. 932, III, do CPC, NÃO CONHEÇO do recurso especial.
+Nos termos do art. 85, § 11, do CPC, considerando o trabalho adicional imposto ao advogado da parte recorrida em virtude da interposição deste recurso, majoro os honorários fixados anteriormente em 10% (dez por cento) sobre o valor da causa (e-STJ fl. 200) para 12% (doze por cento), observada eventual concessão da gratuidade de justiça.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar sua condenação às penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC.
+Publique-se. Intimem-se.
+EMENTA
+DIREITO PROCESSUAL CIVIL. RECURSO ESPECIAL. AÇÃO DECLARATÓRIA DE INEXIGIBILIDADE DE DÉBITO C/C COMPENSAÇÃO DE DANOS MORAIS. PREQUESTIONAMENTO. AUSÊNCIA. SÚMULA 282/STF. DISSÍDIO JURISPRUDENCIAL. AUSÊNCIA DE PREQUESTIONAMENTO DO TEMA. INVIABILIDADE. INDICAÇÃO DO DISPOSITIVO LEGAL VIOLADO. AUSENTE. SÚMULA 284/STF.
+1. Ação declaratória de inexigibilidade de débito cumulada com compensação de danos morais.
+2. A ausência de decisão acerca dos dispositivos legais indicados como violados impede o conhecimento do recurso especial.
+3. A ausência de prequestionamento do tema que se supõe divergente impede o conhecimento da insurgência veiculada pela alínea "c" do art. 105, III, da Constituição da República.
+4. O recurso especial não pode ser conhecido quando a indicação expressa do dispositivo legal violado está ausente.
+5. Recurso especial não conhecido.
