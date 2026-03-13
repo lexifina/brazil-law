@@ -1,0 +1,36 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido de liminar, impetrado em favor de JOÃO LUCAS RODRIGUES NUNES, apontando como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, nos autos da Apelação n. 1502899-67.2025.8.26.0535.
+Consta dos autos que o paciente foi condenado à pena de 6 anos de reclusão, em regime inicial fechado, e ao pagamento de 600 dias-multa, pela prática do crime previsto no art. 33, caput, da Lei n. 11.343/2006, tendo em vista a apreensão de 503 porções de crack, pesando 33,4g, 536 porções de cocaína, pesando 197,8g e 963 porções de maconha, pesando 916,5g.
+O Tribunal de Justiça, ao julgar a apelação defensiva, negou provimento e manteve integralmente a dosimetria, inclusive a exasperação da pena-base (fls. 215-224).
+Neste writ, a impetrante sustenta que há constrangimento ilegal na fixação da pena-base acima do mínimo legal, por ausência de fundamentação idônea e proporcional.
+Alega que o crime não envolve violência ou grave ameaça e que apenas uma circunstância judicial desfavorável foi considerada (maus antecedentes), o que não legitima o patamar de aumento aplicado (1/5) .
+Argumenta que a quantidade e a variedade das drogas apreendidas não são expressivas, constituem elementos inerentes ao tipo penal e já se encontram abarcadas pelo preceito sancionatório, não justificando majoração da pena-base.
+Assinala que eventual aumento da pena-base não deve ultrapassar a fração de 1/6 (um sexto), que se mostra razoável e proporcional.
+Requer, liminarmente e no mérito, a concessão da ordem para que as penas aplicadas sejam reduzidas, com refazimento da dosimetria e afastamento do aumento da pena-base na fração de 1/5.
+É o relatório.
+Decido.
+Esta Corte e o Supremo Tribunal Federal pacificaram o entendimento de que não cabe habeas corpus como substitutivo do recurso legalmente previsto para a hipótese, impondo-se o não conhecimento da impetração, salvo quando constatada a existência de flagrante ilegalidade no ato judicial impugnado (STJ, HC n. 535.063/SP, Terceira Seção, Relator Ministro Sebastião Reis Junior, julgado em 10/6/2020, DJe de 25/8/2020; STF, AgRg no HC n. 180.365/PB, Primeira Turma, Relatora Ministra Rosa Weber, julgado em 27/3/2020, DJe de 2/4/2020; e AgRg no HC n. 147.210/SP, Segunda Turma, Relator Ministro Edson Fachin, julgado em 30/10/2018, DJe de 20/2/2020).
+Ademais, é consolidada a jurisprudência deste Superior Tribunal de Justiça no sentido de que a prerrogativa do relator para julgar monocraticamente o habeas corpus e o respectivo recurso não é afastada pelas normas regimentais que preveem a oitiva prévia do Ministério Público Federal (arts. 64, III, e 202 do RISTJ), especialmente quando a matéria se conforma com o entendimento dominante desta Corte (AgRg no HC n. 856.046/SP, de relatoria do Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 24/10/2023, DJe de 30/10/2023).
+Assim, passo à análise das razões da impetração, de forma a verificar a ocorrência de flagrante ilegalidade a justificar a concessão do habeas corpus, de ofício.
+O Tribunal de origem manteve a exasperação da pena-base no patamar de 1/5 (um quinto) com base na seguinte fundamentação (fl. 222; sem grifos no original):
+Acrescente-se que a MM. Juíza sentenciante, com fundamentação idônea e bastante suficiente, apontou, detalhadamente, os motivos que levaram à exasperação da pena-base no patamar de 1/5 em razão da quantidade e diversidade da droga apreendida (503 porções de crack, pesando 33,4g; 536 porções de cocaína, pesando 197,8g; e 963 porções de maconha, pesando 916,5g) e em virtude dos maus antecedentes representado por uma das duas condenações definitivas aptas a gerar reincidência.
+Com relação à fixação da pena, o entendimento consolidado do Superior Tribunal de Justiça a reconhece como um ato de discricionariedade do julgador, que deve se orientar pelas particularidades do caso e pelas condições subjetivas do agente. Nesse sentido, a revisão da dosimetria por esta Corte somente se afigura possível nas hipóteses em que ficar caracterizado o desrespeito aos parâmetros legais ou, ainda, quando evidenciada uma desproporcionalidade flagrante.
+Impende salientar que o réu não detém direito subjetivo à aplicação de uma fração específica para a exasperação da pena-base por cada circunstância judicial sopesada negativamente (a exemplo dos critérios de 1/6 ou 1/8), bastando que o aumento implementado se revele proporcional.
+Ainda, com relação ao delito de tráfico de drogas, observa-se que, segundo o disposto no art. 42 da Lei n. 11.343/2006, o Juiz, por ocasião da fixação das penas, deverá necessariamente considerar, com preponderância sobre o previsto no art. 59 do Código Penal, a natureza e a quantidade da substância entorpecente, além da personalidade e da conduta social do agente.
+No caso em análise, o Tribunal local manteve a exasperação da pena-base em 1 (um) ano acima do mínimo legal, amparando-se na quantidade e diversidade de entorpecentes apreendidos (503 porções de crack, pesando 33,4g, 536 porções de cocaína, pesando 197,8g, e 963 porções de maconha, pesando 916,5g) e n os maus antecedentes do acusado, patamar que não se revela ilegal ou desproporcional, considerados os parâmetros fixados nos julgados desta Corte.
+Ilustrativamente:
+PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. COLEGIALIDADE. DECISÃO MONOCRÁTICA EM CONFORMIDADE COM JURISPRUDÊNCIA DOMINANTE. SÚMULA 568/STJ. SUSTENTAÇÃO ORAL. INVIABILIDADE. PERÍCIA FONÉTICA. DESNECESSIDADE. SÚMULA 7/STJ. ASSOCIAÇÃO PARA O TRÁFICO. ESTABILIDADE E PERMANÊNCIA. REEXAME DE PROVAS. MAJORANTE DO ART. 40, VI, DA LEI 11.343/2006. MANUTENÇÃO. DOSIMETRIA. PENA-BASE EXASPERADA À LUZ DO ART. 42 DA LEI DE DROGAS. AGRAVO REGIMENTAL NÃO PROVIDO.
+(..)
+5. É legítima a exasperação da pena-base com fundamento na natureza e na quantidade de droga, nos termos do art. 42 da Lei de Drogas, quando presente fundamentação concreta e proporcional.
+6. Agravo regimental não provido.
+(AgRg no AREsp n. 3.043.216/DF, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 9/12/2025, DJEN de 17/12/2025.)
+DIREITO PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS. DOSIMETRIA DA PENA. QUANTIDADE E NATUREZA DA DROGA. CAUSA DE AUMENTO. PROXIMIDADE DE INSTITUIÇÃO DE ENSINO. AGRAVO REGIMENTAL NÃO PROVIDO.
+I. Caso em exame
+(..)
+5. A jurisprudência do Superior Tribunal de Justiça reconhece que a dosimetria da pena insere-se no juízo de discricionariedade do julgador, desde que observados os parâmetros legais e a proporcionalidade. No caso, a exasperação da pena-base em 1/3 foi devidamente fundamentada na quantidade expressiva (mais de 250 porções) e na natureza altamente nociva da droga (cocaína), conforme o art. 42 da Lei n. 11.343/2006.
+(..)
+(AgRg no HC n. 1.036.517/SP, relator Ministro Carlos Pires Brandão, Sexta Turma, julgado em 25/11/2025, DJEN de 28/11/2025.)
+Dessa forma, a análise dos autos não revela a existência de constrangimento ilegal flagrante que justifique a concessão da ordem de ofício, tendo as instâncias ordinárias atuado dentro dos limites da legalidade e da discricionariedade vinculada na aplicação da pena.
+Ante o exposto, indefiro liminarmente o habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
