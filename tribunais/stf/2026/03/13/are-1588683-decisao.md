@@ -1,0 +1,34 @@
+RECURSO EXTRAORDINÁRIO COM AGRAVO. PENAL E PROCESSUAL PENAL. CRIME DE PORTE ILEGAL DE ARMA DE FOGO. ALEGAÇÃO DE OFENSA AOS ARTIGOS 5º, X, E 144, § 5º, DA CONSTITUIÇÃO FEDERAL. ABORDAGEM POLICIAL. BUSCA VEICULAR. PRETENDIDO RECONHECIMENTO DA LICITUDE DAS PROVAS. ACÓRDÃO RECORRIDO EM CONFORMIDADE COM A JURISPRUDÊNCIA DESTA SUPREMA CORTE. AGRAVO DESPROVIDO.
+
+Decisão: Trata-se de agravo nos próprios autos objetivando reformar a decisão que inadmitiu o recurso extraordinário manejado, com arrimo na alínea a do permissivo constitucional, contra acórdão que assentou, in verbis:
+DIREITO PENAL. PORTE ILEGAL DE ARMA DE FOGO. RECURSO MINISTERIAL. ILICITUDE DA PROVA RECONHECIDA NA ORIGEM. BUSCA PESSOAL. AUSÊNCIA DE FUNDADA SUSPEITA PARA A ABORDAGEM POLICIAL. ABSOLVIÇÃO MANTIDA.
+I. Caso em exame
+1. Apelação interposta pelo Ministério Público contra sentença absolutória, sob o fundamento de que a prova seria legal e suficiente para condenação.
+II. Questão em discussão
+2. A controvérsia reside na legalidade da abordagem policial, que resultou na apreensão da arma de fogo.
+III. Razões de decidir
+3. A abordagem policial foi realizada sem justificativa concreta e objetiva, sem a devida demonstração de indícios concretos de ilicitude. 4. A ausência de elementos objetivos que legitimassem a abordagem caracteriza violação ao art. 244 do Código de Processo Penal e ao entendimento consolidado pelo Superior Tribunal de Justiça.
+5. Reconhecida a ilicitude da prova obtida e sua inadmissibilidade nos termos do art. 157 do CPP, impõe-se a manutenção da absolvição do réu por ausência de elementos probatórios válidos.
+IV. Dispositivo
+6. Recurso ministerial desprovido.
+
+Nas razões do apelo extremo, a parte recorrente sustenta preliminar de Repercussão Geral e, no mérito, aponta violação aos artigos 5º, X, e 144, § 5º, da Constituição Federal.
+O recorrente argumenta que “no caso, havia fundada suspeita da posse de objeto constitutivo de corpo de delito em poder do acusado, de modo que a decretação da ilicitude da prova obtida mediante busca pessoal afronta o artigo 5º, X, da Constituição Federal”.
+Destaca que “a atitude que gerou a desconfiança aos policiais decorre de um conjunto de fatores, mais especificamente o fato de terem recebido denúncia acerca de um veículo em situação de furto, de marca Chevrolet e modelo Celta, e, na visualização de automóvel que batia com a descrição recebida, os tripulantes aparentaram nervosismo ao visualizarem a guarnição”.
+Requer “seja admitido o presente Recurso Extraordinário e, ao final, seja integralmente provido, reformando-se o julgado recorrido no que respeita à declaração de ilicitude das provas, devendo ser condenado o réu nos exatos termos da denúncia”.
+O Tribunal a quo não admitiu o apelo extremo, por entender que incidiria o óbice previsto na Súmula 282 do STF.
+
+É o relatório. DECIDO.
+O agravo não merece prosperar.
+Com efeito, verifico que o acórdão recorrido está em consonância com a jurisprudência desta Suprema Corte em tema de busca pessoal ou veicular realizada por agentes policiais, no exercício de seu mister de prevenção e repressão de práticas criminosas e na garantia da segurança pública.
+Deveras, diversamente da busca e apreensão domiciliar, para a qual a Constituição exige prévia autorização judicial, a medida de busca pessoal encontra-se disciplinada no art. 244 do Código de Processo Penal. Pode ela ser realizada, independentemente de mandado, “quando houver fundada suspeita de que a pessoa esteja na posse de arma proibida ou de objetos ou papéis que constituam corpo de delito, ou quando a medida for determinada no curso de busca domiciliar.”
+In casu, o Tribunal de origem assentou que “não foi possível identificar, de modo claro e objetivo, qual foi a ‘atitude suspeita’ praticada pelo apelado a justificar a abordagem policial, nos termos do artigo 244 do CPP”.
+Nesse contexto, destaco que esta tem sido a compreensão deste Supremo Tribunal Federal na matéria, como se extrai do seguinte precedente:
+“EMENTA: DIREITO CONSTITUCIONAL E PENAL. AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO COM AGRAVO. BUSCA VEICULAR SEM MANDADO JUDICIAL. FLAGRANTE DELITO. INEXISTÊNCIA DE FUNDADAS RAZÕES. REEXAME DE PROVAS. IMPOSSIBILIDADE. AGRAVO REGIMENTAL DESPROVIDO. I. CASO EM EXAME 1. Agravo regimental interposto pelo Ministério Público do Estado de Goiás contra decisão que negou seguimento ao recurso extraordinário com agravo, mantendo acórdão do Tribunal de origem que reconheceu a ilegalidade de busca veicular realizada pela Polícia Militar, em blitz rodoviária noturna, por ausência de fundada suspeita (justa causa) apta a legitimar a diligência investigativa, conforme exige o art. 244 do Código de Processo Penal. II. QUESTÃO EM DISCUSSÃO 2. A questão em discussão consiste em verificar se a busca veicular realizada durante blitz de rotina, sem mandado judicial e sem a devida justificação objetiva e anterior à diligência, configura violação à privacidade e à intimidade, à luz da jurisprudência do STF sobre flagrante delito e justa causa. III. RAZÕES DE DECIDIR 3. A entrada forçada em domicílio ou a realização de busca pessoal ou veicular, sem mandado judicial, só se legitima quando há flagrante delito respaldado por fundadas razões, que devem ser justificadas posteriormente em controle judicial, conforme o decidido no RE 603.616/RO (Tema 280 da repercussão geral). 4. A atuação policial não pode se basear em mera intuição, convicção íntima ou expressões genéricas como ‘atitude suspeita’, sendo imprescindível a indicação de circunstâncias concretas anteriores à abordagem. 5. A jurisprudência do STF exige que a justa causa esteja presente antes da diligência e que a busca se fundamente em elementos objetivos e verificáveis, vedando discriminações baseadas em raça, aparência ou outros critérios subjetivos (HC 208.240). 6. Segundo os dados demarcados pelo acórdão recorrido, a busca veicular não decorreu de fiscalização administrativa, mas de efetiva atuação investigativa sem elementos que apontassem situação de flagrância. 7. Para eventualmente se chegar a entendimento contrário, o caso atrai a aplicação da Súmula 279/STF, que impede o reexame do conjunto fático-probatório nesta instância. 8. Conclui-se que o acórdão recorrido encontra-se em consonância com a jurisprudência consolidada do Supremo Tribunal Federal, razão pela qual se impõe a manutenção da decisão agravada. IV. DISPOSITIVO 9. Agravo regimental desprovido.”                (ARE 1.475.484-AgR, Rel. Min. André Mendonça, Segunda Turma, DJe de 16/10/2025)
+Consectariamente, forçoso é concluir que, à luz do entendimento desta Corte, o recurso extraordinário a que se refere o presente agravo revela-se inadmissível.
+Ex positis, DESPROVEJO o agravo, com fundamento no artigo 21, § 1º, do RISTF.
+Publique-se.
+Brasília, 13 de março de 2026.
+Ministro LUIZ FUX
+Relator
+Documento assinado digitalmente
