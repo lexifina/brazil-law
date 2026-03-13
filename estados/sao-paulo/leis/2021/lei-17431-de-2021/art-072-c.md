@@ -1,0 +1,13 @@
+Artigo 72-C - Vetado:
+I - vetado;
+II - vetado;
+III - vetado;
+IV - vetado;
+V - vetado;
+VI - vetado;
+VII - vetado;
+VIII - vetado;
+IX - vetado;
+X - vetado;
+XI - vetado;
+XII - vetado.
