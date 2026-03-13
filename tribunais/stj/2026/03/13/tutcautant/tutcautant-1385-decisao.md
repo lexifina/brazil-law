@@ -1,0 +1,19 @@
+DECISÃO
+Cuida-se de tutela de urgência requerida por JOÃO CARLOS DE DEUS MELO, em que pede o empréstimo de efeito suspensivo ao recurso especial interposto e pendente de análise de admissibilidade na origem para sustar determinação de leilão.
+Expõe que o bem imóvel em que reside com sua família já foi submetido a infrutífera hasta pública e que, neste momento, é iminente a submissão à segunda hasta pública (pois frustrada a primeira), com possibilidade de arrematação do imóvel por 50% do valor da avaliação inicial.
+Aponta vilipêndio ao art. 1º da Lei n. 8.009/1990, que estabelece que "O imóvel residencial próprio do casal ou da entidade familiar é impenhorável".
+É, no essencial, o relatório.
+Nos termos dos arts. 1.029, § 5º, III, o pedido de concessão de efeito suspensivo a recurso especial será dirigido, no período compreendido entre a interposição do recurso e a publicação da decisão de admissão do recurso, ao presidente ou ao vice-presidente do tribunal recorrido, somente cabendo esta formulação perante o STJ dentro do período compreendido entre a publicação da decisão de admissão do recurso e sua distribuição (art. 1.029, § 5º, I, do CPC).
+Dentro dessa perspectiva, o STJ admite o abrandamento da incidência das Súmulas n. 634 e 635 do STF e, por conseguinte, o processamento das tutelas cautelares relativas a recursos especiais pendentes de juízo de admissibilidade na origem para coibir a eficácia de decisão teratológica ou em manifesta contrariedade à jurisprudência assentada pela Corte (AgInt na Pet n. 13.316/MT, relator Ministro Marco Buzzi, Quarta Turma, DJe de 3/8/2020).
+Nesse passo, ainda que se superasse a ausência de notícia quanto à realização de pedido na instância de origem, a pretendida concessão esbarra ainda em dois outros obstáculos.
+De acordo com o art. 300 do CPC/2015, a tutela de urgência será concedida quando houver elementos que evidenciem a probabilidade do direito e o perigo de dano ou o risco ao resultado útil do processo.
+Outrossim, na esfera da probabilidade do direito, o art. 995, parágrafo único, do CPC/2015 exige, ainda, como condição para a concessão de efeito suspensivo ao recurso especial, a probabilidade de provimento do recurso.
+Entretanto, não juntou o requerente cópia do recurso especial, o que impossibilita esta relatoria de proceder ao estudo da probabilidade de provimento cobrado pelo art. 995, parágrafo único, do CPC/2015.
+Ademais, tanto o acórdão recorrido (fls. 8-13) quanto a decisão monocrática por ele mantida (fls. 6-7), sem maiores considerações, negam provimento ao agravo de instrumento - que persegue o reconhecimento de impenhorabilidade do imóvel objeto da constrição, por se tratar de bem de família - ao ensejo de que a discussão já foi objeto de decisões outras - seja dentro dos próprios autos do processo originário, ou mesmo em decisão emitida em mandado de segurança -, de modo que a discussão estaria preclusa.
+Desse modo, ao que tudo indica, o apelo nobre esbarra na Súmula n. 7 do STJ.
+Não se desconhece que a impenhorabilidade do bem de família mediante hasta pública - por envolver embate entre a proteção constitucional da moradia e a segurança jurídica da execução - alcança o status de matéria de ordem pública, a qual somente sofre preclusão temporal após a assinatura da carta de arrematação.
+Entretanto, o acórdão afirma que os fatos e o momento processual apontados pela parte requerente já foram exaustivamente decididos, de maneira que alcançada a preclusão consumativa, somente podendo ser afastada diante de fatos novos, e não há dados suficientes no acórdão a permitir tal conclusão.
+Portanto, constatada a necessidade de revolvimento fático-probatório do acervo dos autos, revela-se ausente a probabilidade do direito.
+Ante o exposto, indefiro a tutela de urgência pleiteada.
+Publique-se. Intimem-se.
+EMENTA
