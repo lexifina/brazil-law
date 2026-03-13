@@ -1,0 +1,30 @@
+RECLAMAÇÃO. PENAL E PROCESSUAL PENAL. TRIBUNAL DO JÚRI. ALEGADA AFRONTA AOS TEMAS 339 E 1068 DA REPERCUSSÃO GERAL. DESCABIMENTO. AUSÊNCIA DE EXAURIMENTO DAS INSTÂNCIAS ORDINÁRIAS. ARTIGO 988, § 5º, II, DO CPC. ALEGADA OFENSA AO DECISUM PROFERIDO NOS AUTOS DAS ADCs 43, 44 E 54. AUSÊNCIA DE ADERÊNCIA ESTRITA. RECLAMAÇÃO A QUE SE NEGA SEGUIMENTO.
+
+DECISÃO Trata-se de reclamação, com pedido liminar, ajuizada contra ato do Tribunal de Justiça do Estado do Espírito Santo, sob a alegação de inobservância das teses vinculantes fixadas sob os Temas 339 e 1068 da sistemática da Repercussão Geral, bem como ao decisum proferido no julgamento das ADCs 43, 44 e 54.
+Narra a defesa que o reclamante restou condenado à pena de 10 anos e 8 meses de reclusão pelo cometimento do crime previsto no artigo 121, § 2º, II e IV, c/c artigo 14, II, ambos do CP.
+Alega que “a expedição do mandado se deu ao entendimento do tema 1068 do STF, sem, contudo, justificar a necessidade”.
+Sustenta, em síntese, que tal decisão “carece de fundamentação idônea, sendo aplicado Tema 1068 do STF indistintamente sem a devida fundamentação para a referida medida, evidenciando, portanto, aplicação equivocada e flagrante constrangimento ilegal a que está submetido o Recorrente”.
+Requer seja cassada a decisão reclamada.
+
+É o relatório. DECIDO.
+Ab initio, ressalto que a norma contida no artigo 988, § 5º, inciso II, do Código de Processo Civil merece interpretação restritiva quanto ao cabimento da reclamação para hipóteses em que se discute aplicação de tese em Repercussão Geral reconhecida. Imperioso o balizamento claro quanto ao seu conteúdo.
+Nesse contexto, a jurisprudência desta Corte tem se encarregado de traçar critérios para o cabimento da reclamação constitucional. São eles, em suma: (i) o prévio esgotamento dos meios recursais; e (ii) a demonstração da teratologia da decisão reclamada.
+No presente caso, não houve o prévio esgotamento das instâncias ordinárias, na medida em que a presente reclamação se insurge contra decisão de Juízo de primeira instância e acórdão proferido por Tribunal de Justiça em sede de habeas corpus, passível de impugnação via recurso ordinário dirigido ao Superior Tribunal de Justiça.
+Deveras, o STF já sedimentou o entendimento segundo o qual o esgotamento das vias de impugnação a que se refere o artigo 988, § 5º, inciso II, do CPC deve ser lido de modo a englobar todo o iter recursal cabível antes do acesso à Suprema Corte, inclusive com a interposição de recurso extraordinário e eventual agravo interno contra a decisão que nega seu seguimento. Trata-se, justamente, de uma forma de prestigiar e resguardar as competências dos Tribunais a quo. Nesse sentido, cito
+“EMENTA: AGRAVO REGIMENTAL NA RECLAMAÇÃO. DIREITO CONSTITUCIONAL E PROCESSUAL PENAL. RECLAMAÇÃO PROPOSTA PARA GARANTIR A AUTORIDADE DE DECISÕES PROFERIDAS SOB A SISTEMÁTICA DA REPERCUSSÃO GERAL (ART. 988, § 5°, DO CPC/2015). NÃO ESGOTAMENTO DAS INSTÂNCIAS RECURSAIS ORDINÁRIAS. UTILIZAÇÃO DA VIA RECLAMATÓRIA COMO SUCEDÂNEO RECURSAL. INADEQUAÇÃO. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO. I – A decisão agravada não merece reforma ou qualquer correção. A análise da reclamação foi exauriente, respeitados os estreitos limites deste meio processual. II – A jurisprudência do Supremo Tribunal Federal é pacífica no sentido de que ‘[o] esgotamento da instância ordinária, previsto no art. 988, § 5º, II, do CPC, exige a impossibilidade de reforma da decisão reclamada por nenhum tribunal, inclusive por tribunal superior.’ (Rcl 30.479 AgR/PR, Rel. Min. Edson Fachin, Segunda Turma). III – Inadequação da utilização da reclamação como sucedâneo recursal. IV – Agravo regimental a que se nega provimento.” (Rcl 56.415-AgR, Rel. Min. Ricardo Lewandowski, Segunda Turma, DJe de 10/01/2023)
+
+A admissão de reclamação que tem como fundamento o descumprimento de tese fixada sob a sistemática da Repercussão Geral, quando ainda seja cabível a interposição de recursos disponíveis no sistema processual, implicaria deturpação do caráter eminentemente excepcional da via estreita da reclamação constitucional, o que não se admite.
+Ademais, quanto à alegada violação ao decisum proferido nos autos das ADCs 43, 44 e 54, destaco que no julgamento do RE 1.235.340/SC - Tema 1068 da Repercussão Geral, restou assentado que “A ideia de imediato cumprimento do veredicto do Júri não se afigura incompatível com a decisão proferida por esta Corte, no julgamento das ADCs 43, 44 e 54, Rel. Min. Marco Aurélio, no sentido da constitucionalidade do art. 283 do CPP, na redação anterior à Lei nº 13.9654/2019”, razão pela qual o argumento defensivo não merece prosperar.
+Constato, ainda, que “a hipótese de prisão decorrente de condenação pelo Tribunal do Júri não tem como parâmetro direto e imediato o art. 283 do CPP. O art. 492, I, e, do CPP, fruto da reforma promovida pelo pacote anticrime, ‘não foi objeto da decisão proferida nas ADCs 43, 44 e 54, mas sim de recurso extraordinário com repercussão geral [...]” (Rcl 68.459-AgR, Rel. Min. Alexandre de Moraes, Primeira Turma, DJe de 08/07/2024).
+Nesse contexto, resta clara a ausência de aderência estrita entre o ato reclamado e o decisum proferido nos autos das ADCs 43, 44 e 54, que se alega violado, tendo em vista que o artigo 492, I, do CPP não foi analisada no paradigma apontado.
+Ressalto que a aderência entre o objeto do ato reclamado e o paradigma que se reputa violado é requisito de admissibilidade da reclamação perante o Supremo Tribunal Federal. Nesse sentido, in verbis:
+
+“EMENTA: AGRAVO REGIMENTAL NA RECLAMAÇÃO. PENAL. INEXISTÊNCIA DE IDENTIDADE COM O DECIDIDO NAS AÇÕES DECLARATÓRIAS DE CONSTITUCIONALIDADE NS. 43, 44 E 54. AGRAVO REGIMENTAL DESPROVIDO”. (Rcl 58.229-AgR, Rel. Min. Cármen Lúcia, Primeira Turma, DJe de 27/04/2023)
+
+ Destarte, ressoa inequívoca a incognoscibilidade da presente ação.
+Ex positis, NEGO SEGUIMENTO à presente Reclamação, com esteio no artigo 161, parágrafo único, do RISTF .
+Publique-se.
+Brasília, 13 de março de 2026.
+Ministro LUIZ FUX
+Relator
+Documento assinado digitalmente
