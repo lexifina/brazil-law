@@ -1,0 +1,14 @@
+DECISÃO
+Trata-se de embargos de declaração opostos por ELIABE BATISTA DA SILVA em face da decisão monocrática na qual não conheci do recurso em habeas corpus, em razão da ausência do inteiro teor da decisão que decretou a prisão preventiva.
+O embargante requer o conhecimento e o provimento dos presentes embargos, seus efeitos infringentes, alegando que a decisão faltante a fim de viabilizar o pleno exercício da prestação jurisdicional em favor da liberdade individual encontra-se às fls. 13 e 23.
+É o relatório. DECIDO.
+Os presentes embargos não reúnem condições de prosperar.
+Os embargos de declaração são admitidos nas hipóteses de ambiguidade, obscuridade, contradição ou omissão, nos termos dos artigos 619 e 620 do Código de Processo Penal.
+Na lição de Nelson Nery Júnior e Rosa Maria Andrade Nery (Código de Processo Civil Comentado, RT, 4ª ed., 1999, p. 1045): "Os EDcl têm finalidade de completar a decisão omissa ou, ainda, de aclará-la, dissipando obscuridades ou contradições. Não têm caráter substitutivo da decisão embargada, mas sim integrativo ou aclaratório. Como regra, não têm caráter substitutivo, modificador ou infringente do julgado".
+Quanto a alegação de que a decisão que decretou a segregação cautelar encontra-se às fls. 13-23, razão não assiste ao embargante. Depreende-se que foi acostado às folhas mencionadas, a decisão que indeferiu o pleito de revogação da prisão preventiva, aliás, a própria decisão faz alusão à decisão que decretou a preventiva, conforme fls. 13-14, in verbis:
+"É sabido também que, para o deferimento do pleito, "in casu", fazia-se necessária a vinda aos autos de novos elementos que levassem à conclusão de que a prisão preventiva em comento seria merecedora de revogação, o que, de análise acurada do feito, não vislumbro os aludidos elementos novos - "aliquid novi", registrando-se que permanecem os mesmos pressupostos e fundamentos da decisão que decretou a prisão preventiva do réu - ID 139599049, bem como da decisão de ID 139599268 que indeferiu o pleito de revogação de prisão preventiva, utilizando-se da fundamentação per relationem, amplamente admitida pela jurisprudência pátria, inclusive dos Tribunais Superiores, permanecendo, pois, hígidos os aludidos pressupostos e fundamentos da referida prisão, tudo conforme o conjunto probatório constante do feito"- (grifei).
+A ausência de peças essenciais, como o o decreto preventivo, inviabiliza a análise do recurso por falta de prova pré-constituída do direito alegado.
+Na espécie, o que se verifica é a irresignação do embargante com a decisão embargada que não conheceu do recurso ordinário em habeas corpus. Os argumentos apresentados não demonstram a busca por qualquer saneamento, mas sim o reexame da matéria já decidida, o que não se mostra possível na via eleita.
+Ante o exposto, rejeito os embargos declaratórios.
+Publique-se. Intimem-se.
+EMENTA
