@@ -1,0 +1,30 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em favor de ERLON ROZA CAMARGO KUPCZYK, contra acórdão que deu parcial provimento ao recurso de apelação defensivo para adequar a pena privativa de liberdade e de multa, restando o paciente condenado às penas de 2 (dois) meses e 20 (vinte) dias de reclusão, em regime aberto, e 2 (dois) dias-multa.
+Consta dos autos que, após a prolação do acórdão do Tribunal de origem, o paciente opôs embargos de declaração com o fim de ser reconhecida omissão indireta e aplicado o princípio da insignificância, objetivando sua absolvição, porém, neste ponto, o recurso não foi conhecido, o que motivou a impetração do presente writ.
+Prestadas as informações (fls. 427-462), o Ministério Público Federal se manifestou nos seguintes termos da ementa (fls. 471-474):
+HABEAS CORPUS. CONDENAÇÃO PELA PRÁTICA DE FURTO. ABSOLVIÇÃO COM BASE NO PRINCÍPIO DA INSIGNIFICÂNCIA. MATÉRIA NÃO EXAMINADA PELA CORTE DE ORIGEM. SUPRESSÃO DE INSTÂNCIA. REITERAÇÃO DELITIVA. ACUSADO QUE RESPONDE A OUTROS PROCESSOS CRIMINAIS POR CRIMES CONTRA O PATRIMÔNIO. IMPOSSIBILIDADE DE RECONHECIMENTO DA INSIGNIFICÂNCIA DA CONDUTA. CONSTRANGIMENTO ILEGAL NÃO CONFIGURADO.
+- Parecer pela denegação da ordem.
+É o relatório.
+DECIDO.
+Compulsando os autos, verifica-se que, após a prolação do acórdão do Tribunal de origem, o paciente opôs embargos de declaração com o fim de ser reconhecida omissão indireta e aplicado o princípio da insignificância, objetivando sua absolvição, porém, neste ponto, o recurso não foi conhecido, o que motivou a impetração do presente writ.
+A Corte de origem assim decidiu nos embargos de declaração (fls. 65-68):
+In casu, o embargante opôs os aclaratórios reputando o decisum de omisso, porquanto deveria ter, de ofício, absolvido o réu em razão da atipicidade da conduta, aplicando o princípio da insignificância e corrigido o erro da sentença que substituiu a pena privativa de liberdade inferior a seis meses por prestação de serviços à comunidade, em desacordo com o disposto no art. 46 do Código Penal.
+Todavia, é notável a impossibilidade de se reconhecer tais eivas no acórdão, tendo em vista que o embargante sequer citou os pleitos em questão nas razões recursais  como inclusive reconheceu em seu reclamo.
+Assim, ante o exposto, aliado ao princípio tantum devolutum quantum apellatum, não há se falar em omissão indireta, pois qualquer decisão em sentido contrário configuraria inovação recursal.
+Pois bem.
+Conforme entendimento consolidado, não é cabível o exame diretamente da questão por esta Corte superior, sob pena de indevida supressão de instância, não podendo o STJ substituir a análise do Tribunal de origem quanto a teses não apreciadas pelo respectivo Tribunal. Nesse sentido: AgRg no HC 711.283/RJ, Rel. Min. Joel Ilan Paciornik, Quinta Turma, julgado em 08.02.2022; AgRg no HC n. 717.803/RJ, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 9/8/2022, DJe de 16/8/202).
+Se a tese defensiva, consistente no reconhecimento do princípio da insignificância, não foi debatida previamente na Corte de origem por meio das razões do recurso de apelação, não há como conhecer do pleito pelo Superior Tribunal de Justiça, porquanto estar-se-ia atuando em patente afronta à competência constitucional reconhecida a esta Corte, nos termos do art. 105, incisos II e III da Carta Magna.
+A propósito:
+DIREITO PROCESSUAL PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS. CAUSA DE DIMINUIÇÃO DE PENA. EXTENSÃO DE BENEFÍCIO CONCEDIDO A CORRÉ. SUPRESSÃO DE INSTÂNCIA. AGRAVO REGIMENTAL DESPROVIDO.
+I. CASO EM EXAME 1. Agravo regimental interposto por Guilherme Santos Viola da Silva contra decisão monocrática da egrégia Presidência desta Corte que indeferiu liminarmente o habeas corpus impetrado em seu favor. O paciente foi condenado à pena de 4 anos, 7 meses e 9 dias de reclusão, em regime semiaberto, pelo crime previsto no art. 33 da Lei n. 11.343/2006. A defesa pleiteia a incidência da causa de diminuição de pena do tráfico privilegiado, sob o argumento de que a corré obteve tal benefício na apelação criminal.
+II. QUESTÃO EM DISCUSSÃO 2. Há duas questões em discussão: (i) definir se o pleito de reconhecimento do tráfico privilegiado pode ser analisado diretamente pelo Superior Tribunal de Justiça, sem prévio exame pelo Tribunal de origem; e (ii) estabelecer se a extensão do benefício concedido à corré poderia ser analisada por esta Corte.
+III. RAZÕES DE DECIDIR 3. O conhecimento da matéria pelo Superior Tribunal de Justiça configura indevida supressão de instância, pois a questão referente à aplicação do tráfico privilegiado ao paciente não foi objeto de deliberação pelo Tribunal de origem. 4. A análise do pedido de extensão de benefício concedido a corré compete ao órgão jurisdicional que proferiu a decisão favorável, não cabendo ao Superior Tribunal de Justiça examinar a questão originariamente. 5. A jurisprudência desta Corte é firme no sentido de que a extensão dos efeitos de decisão favorável a corréu não ocorre de forma automática e deve ser analisada pela instância competente, levando-se em conta as particularidades de cada acusado.
+IV. AGRAVO REGIMENTAL DESPROVIDO.
+(AgRg no HC n. 978.258/SC, relator Ministro Carlos Cini Marchionatti (Desembargador Convocado TJRS), Quinta Turma, julgado em 18/3/2025, DJEN de 24/3/2025.)
+No caso, verifica-se que as questões trazidas à discussão no presente habeas corpus não foram objeto de análise pelo Tribunal de origem ao fundamento de que não foram levados à deliberação através das razões do recurso de apelação defensivo.
+E não cabe agora deliberar sobre um pedido que não foi submetido à apreciação, sob pena de supressão de instância.
+No mais, analisar se o princípio da insignificância deve ser reconhecido ou não ao presente caso, é desvirtuar a via judicial escolhida, pois o habeas corpus não se presta ao objetivo buscado, já que neste remédio constitucional não se admite o revolvimento de fatos e provas
+Ante o exposto, não conheço do habeas corpus.
+Publique-se.
+Intimem-se.
+ EMENTA
