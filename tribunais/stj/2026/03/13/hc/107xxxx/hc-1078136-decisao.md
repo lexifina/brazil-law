@@ -1,0 +1,33 @@
+DECISÃO
+Trata-se de habeas corpus com pedido de liminar impetrado em favor de KELVIN MACHADO SILVA em que se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO.
+Consta dos autos que o paciente foi condenado às penas de 4 anos de reclusão no regime fechado, e de pagamento de 10 dias-multa, como incurso nas sanções do art. 157, § 1º, do Código Penal.
+O impetrante sustenta a ilegalidade da imposição do regime inicial fechado, contrariando o art. 33, § 2º, c, do Código Penal, além das Súmulas n. 440 do STJ e 718 e 719 do STF.
+Alega que o paciente é primário, possui residência fixa e trabalho lícito, e que a pena-base foi fixada no mínimo legal, inexistindo circunstâncias judiciais desfavoráveis.
+Aduz que a prisão preventiva foi convertida e mantida com fundamentação genérica, sem indicação de elementos concretos, atuais e individualizados, em afronta aos arts. 312 e 315, § 2º, do CPP.
+Assevera que o acórdão na origem manteve a prisão preventiva em razão da fixação do regime fechado e da invocação abstrata da ordem pública, sem base empírica idônea.
+Afirma que o regime inicial se mostra ilegalmente agravado, não podendo a prisão cautelar subsistir como consequência automática.
+Argumenta que a decisão recorrida não apresenta elemento novo, contemporâneo ou individualizado que justifique a manutenção da medida extrema.
+Requer, liminarmente, a revogação da prisão preventiva, com expedição de alvará de soltura, ou a sua substituição por medidas cautelares. No mérito, pugna pela concessão da ordem para reconhecer a ilegalidade do regime fechado imposto e afastar a manutenção automática da prisão preventiva.
+É o relatório.
+O Superior Tribunal de Justiça entende ser inviável a utilização do habeas corpus como sucedâneo de recurso próprio, previsto na legislação, impondo-se o não conhecimento da impetração. Nesse sentido: AgRg no HC n. 933.316/MG, relator Ministro Messod Azulay Neto, Quinta Turma, julgado em 20/8/2024, DJe de 27/8/2024; e AgRg no HC n. 749.702/SP, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 26/2/2024, DJe de 29/2/2024.
+Portanto, não se conhece da impetração.
+Em atenção ao disposto no art. 647-A do CPP, verifica-se que o julgado impugnado não possui ilegalidade flagrante que permita a concessão da ordem de ofício, conforme se depreende da fundamentação a ser exposta a seguir.
+De início, verifica-se que os fundamentos do decreto prisional foram anteriormente apreciados por esta Corte Superior nos autos do HC n. 1.053.222/SP, do qual não se conheceu em decisão publicada em 4/12/2025.
+Ademais, em relação à manutenção da prisão preventiva, assim constou na sentença condenatória (fls. 32-33, grifei):
+Indefiro o apelo em liberdade porquanto subsistentes os pressupostos autorizadores da custódia cautelar preventiva. O comportamento intolerável e grave do réu demonstrou que para garantia da ordem pública deve ser mantido no cárcere. Ademais, a medida é imprescindível à aplicação da lei penal, possibilitando-se o cabal cumprimento desta sentença.
+Acerca do assunto, esta Corte Superior fixou o entendimento de que:
+ ..  a manutenção da custódia cautelar no momento da sentença condenatória, em hipóteses em que o acusado permaneceu preso durante toda a instrução criminal, não requer fundamentação exaustiva, sendo suficiente, para a satisfação do art. 387, § 1.º, do Código de Processo Penal, declinar que permanecem inalterados os motivos que levaram à decretação da medida extrema em um primeiro momento, desde que estejam, de fato, preenchidos os requisitos legais do art. 312 do mesmo diploma (AgRg no RHC n. 187.138/ES, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 3/10/2023, DJe de 10/10/2023).
+Nesse contexto, não há falar em ilegalidade a ser sanada, sobretudo porquanto, na sentença, o magistrado ressaltou que persistem os motivos que autorizaram a decretação da prisão preventiva.
+Por outro lado, quanto à alegação de ilegalidade do regime prisional fixado na sentença, destaca-se que o Tribunal de origem não a examinou, circunstância que inviabiliza o exame da questão pelo Superior Tribunal de Justiça, sob pena de indevida supressão de instância.
+Não debatida a questão pela Corte de origem, é firme o entendimento de que "fica obstada sua análise a priori pelo Superior Tribunal de Justiça, sob pena de dupla e indevida supressão de instância, e violação dos princípios do duplo grau de jurisdição e devido processo legal" (RHC n. 126.604/MT, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 7/12/2020, DJe de 16/12/2020).
+Nesse sentido, destaca-se:
+PENAL E PROCESSUAL PENAL. AGRAVO REGIMENTAL EM HABEAS CORPUS. TRÁFICO DE DROGAS. ASSOCIAÇÃO PARA O TRÁFICO. ORGANIZAÇÃO CRIMINOSA. PRISÃO PREVENTIVA. ALEGADA AUSÊNCIA DE FUNDAMENTAÇÃO IDÔNEA. NÃO CONFIGURADA. ART. 312 DO CÓDIGO DE PROCESSO PENAL. GARANTIA DA ORDEM PÚBLICA. NECESSIDADE DE INTER ROMPER OU REDUZIR ATIVIDADE DE GRUPO CRIMINOSO. EXCESSO DE PRAZO. SUPRESSÃO DE INSTÂNCIA. CONDIÇÕES PESSOAIS FAVORÁVEIS. IRRELEVÂNCIA. MEDIDAS CAUTELARES MAIS BRANDAS. INSUFICIÊNCIA E INADEQUAÇÃO. RECURSO NÃO PROVIDO.
+1. A prisão preventiva foi ordenada e mantida pelas instâncias ordinárias, nos termos do art. 312 do Código de Processo Penal, notadamente para a garantia da ordem pública.
+2. No caso, a periculosidade da paciente foi revelada em minuciosa investigação levada a efeito no âmbito da Operação ARAITAK, uma vez que integraria associação criminosa estruturalmente ordenada e com emprego de arma de fogo, ligada ao à facção KATIARA, voltada para a prática de tráfico de drogas e de armas em vários Municípios do Estado da Bahia, desempenhando a função de Olheira/Apoio Operacional, subordinada diretamente a gerente de pista, ficando responsável por informar sobre a movimentação de viaturas policiais e repassar informações sobre membros da facção rival, além de fornecer sua conta bancária para depósitos referentes à venda de drogas.
+2. O alegado excesso de prazo para a formação da culpa não foi sequer apreciado pelo Tribunal estadual, o que impede o exame da matéria por esta Corte, sob pena de indevida supressão de instância.
+3. Condições pessoais favoráveis não têm o condão de, isoladamente, desconstituir a prisão cautelar ou autorizar medidas cautelares alternativas quando há nos autos elementos hábeis que autorizam sua manutenção, como ocorre no caso.
+4. Agravo regimental não provido.
+(AgRg no HC n. 905.056/BA, relatora Ministra Daniela Teixeira, Quinta Turma, julgado em 5/8/2024, DJe de 23/8/2024, grifei.)
+Ante o exposto, com fundamento no art. 210 do Regimento Interno do Superior Tribunal de Justiça, não conheço do habeas corpus.
+Publique-se. Intimem-se.
+ EMENTA
