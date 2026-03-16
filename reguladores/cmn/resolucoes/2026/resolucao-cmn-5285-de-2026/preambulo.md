@@ -1,0 +1,4 @@
+Resolução Nº 5.285 RESOLUÇÃO CMN Nº 5.285, DE 13 DE MARÇO DE 2026
+Estabelece as condições, os encargos financeiros, os prazos e as demais normas regulamentadoras das linhas de financiamento de que trata o art. 1º da Medida Provisória nº 1.337, de 6 de março de 2026, destinadas a pessoas físicas ou jurídicas afetadas pelos eventos climáticos ocorridos, em fevereiro e março de 2026, nos municípios que tiveram estado de calamidade pública reconhecido pelo Poder Executivo federal.
+O Banco Central do Brasil, na forma do art. 9º da Lei nº 4.595, de 31 de dezembro de 1964, torna público que o Conselho Monetário Nacional, em sessão extraordinária realizada em 13 de março de 2026, com base no disposto nos arts. 4º, caput, inciso VI, da Lei nº 4.595, de 31 de dezembro de 1964, 1º, § 3º, da Medida Provisória nº 1.337, de 6 de março de 2026, e tendo em vista o disposto no art. 47, caput, inciso VII, da Lei nº 12.351, de 22 de dezembro de 2010,
+R E S O L V E U :
