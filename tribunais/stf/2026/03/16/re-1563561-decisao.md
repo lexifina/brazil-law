@@ -1,0 +1,32 @@
+Trata-se de recurso extraordinário interposto contra acórdão do Tribunal Regional Federal  4ª Região (TRF4), com a seguinte ementa:
+
+DIREITO ADMIISTRATIVO E CONSTITUCIONAL. APELAÇÃO CÍVEL. PARLAMENTAR. SÓCIO DE EMPRESA DE RADIODIFUSÃO. PRINCÍPIO DA MORALIDADE. NULIDADE DO CONTRATO DE CONCESSÃO E PERMISSÃO CELEBRADO ENTRE A UNIÃO E A RÉ FREQUENCIAL EMPREENDIMENTOS DE COMUNICAÇÃO LTDA. 1. Configurada a afronta ao artigo 54, I, "a" da Carta da República, ao manter-se o réu Ricardo José Magalhães Barros - Deputado Federal, como sócio da ré Frequencial Empreendimentos de Comunicação Ltda. - EPP, concessionária de serviço público. 2. A situação referida fere o princípio da moralidade, já que o detentor de mandado eletivo, obtido mediante sufrágio universal, integrante de função do Estado encarregada de exercer o controle legislativo das concessões, permissões ou autorizações para o serviço de radiodifusão sonora, e preservar, portanto, o interesse público, atua também na esfera privada na mesma área. 3. Nulidade do contrato de concessão e permissão celebrado entre a União e a empresa de radiodifusão Frequencial Empreendimentos de Comunicação Ltda (doc. 221).
+
+Os embargos de declaração que se seguiram foram julgados nos seguintes termos:
+
+ADMINISTRATIVO E PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. OMISSÃO. REDISCUSSÃO DO MÉRITO. PREQUESTIONAMENTO. PARCIAL PROVIMENTO DOS EMBARGOS DE DECLARAÇÃO. 1. A retificação de acórdão só tem cabimento nas hipóteses de inexatidões materiais, erros de cálculo, omissão, contradição ou obscuridade. 2. Quanto à alegada violação à continuidade da prestação do serviço público, razão assiste à União, ao alegar omissão no acórdão no que tange ao ponto. Ocorre que não há falar em violação a tal princípio, visto que, cancelada a concessão, deve ser realizada nova licitação pela União, a fim de garantir que a transmissão de radiodifusão continue ocorrendo. 3. No que tange à afirmação de omissão, em razão de que não teriam sido expostos, no acórdão, os fundamentos em razão dos quais fora aplicado, ao caso presente, entendimento diverso daquele adotado no julgamento da Apelação Cível nº 50748766720164047100, razão assiste aos embargantes. Ocorre que o entendimento adotado no precedente referido pelos embargantes não se aplica ao caso presente. 4. No que pertine aos demais pontos, verifica-se, em verdade, tentativa de rediscussão do julgado por parte dos embargantes, o que não se revela possível em sede de embargos de declaração. 5. O prequestionamento significa bem apreciar as questões controvertidas à luz do ordenamento jurídico, sem que, no entanto, haja a necessidade de que se faça indicação numérica, ou mesmo cópia integral dos teores normativos que embasaram a decisão. 6. Embargos de declaração parcialmente providos, sem efeitos infringentes (doc. 255).
+
+No recurso extraordinário interposto pela Frequencial Empreendimentos de Comunicação Ltda., fundado no art. 102, III, a, da Constituição Federal, alega-se, em suma, violação aos arts. 54, I, a; 54, II, a; 222; 1º, IV; 5º, caput, II, IX e XVII; e 170 da mesma Carta. Sustenta-se, em suma, que não existe vedação legal ou constitucional à participação de deputado federal como quotista em empresa de radiodifusão.
+
+  No recurso extraordinário interposto pela União, fundado no art. 102, III, a, da Constituição Federal, alega-se, em suma, violação aos arts. 54, I, a, e 54, II, a, da mesma Carta. Sustenta-se, em resumo, a constitucionalidade da participação de parlamentar no quadro societário de empresa concessionária de serviço de radiodifusão sonora.
+
+É o relatório. Decido.
+
+A questão jurídica dos autos refere-se à constitucionalidade dos atos de outorga ou renovação de concessões, permissões e autorizações de radiodifusão a pessoas jurídicas que tenham políticos titulares de mandato eletivo como sócios ou associados.
+
+Verifico que o tema é objeto de discussão em ao menos três ações de controle concentrado em trâmite no Supremo Tribunal Federal: Arguições de Descumprimento de Preceito Fundamental (ADPFs) 246, 379 e 429. A esse respeito, indico o despacho proferido pelo então Relator, Ministro Gilmar Mendes, ao apreciar a possível identidade de objetos das referidas ações:
+
+As ADPFs 246 e 379, a mim distribuídas, questionam atos de outorga ou renovação de concessões, permissões e autorizações de radiodifusão a pessoas jurídicas que possuam políticos titulares de mandato eletivo como sócios ou associados por violação aos preceitos fundamentais da Constituição de 1988.
+A ADPF 429, por sua vez, proposta pelo Presidente da República, questiona decisões judiciais que declararam inconstitucionais atos de outorga ou renovação de concessões, permissões e autorizações de radiodifusão a pessoas jurídicas que possuam políticos titulares de mandato eletivo como sócios ou associados.
+No entanto, a ADPF 429 foi distribuída para a Ministra Rosa Weber que, ao analisar a inicial, indeferiu o pedido de medida cautelar, por ausência de fumus boni iuris e periculum in mora, em 28 de novembro de 2016. Verifico, portanto, a existência de identidade de objetos, uma vez que todas envolvem a análise da constitucionalidade dos atos de outorga ou renovação de concessões, permissões e autorizações de  radiodifusão a pessoas jurídicas que possuam políticos titulares de mandato eletivo como sócios ou associados (DJe 16/4/2021).
+
+A matéria está, portanto, pendente de deliberação definitiva pelo Supremo Tribunal Federal. Em hipóteses semelhantes, os Ministros desta Corte têm determinado o retorno dos autos à origem para aguardar o julgamento do mérito da ação de controle concentrado e, a partir da conclusão a que chegar este Tribunal, exercer o juízo de retratação ou, estando o acórdão em consonância com o entendimento desta Suprema Corte, remeter o recurso para apreciação, mediante provocação da parte recorrente.
+
+Nesse sentido, indico as seguintes decisões: ARE 1.420.523, Rel. Min. Roberto Barroso, DJe 20/4/2023; ARE 1.352.056 AgR, Rel. Min. Dias Toffoli, DJe 10/4/2023; RE 1.422.315, Rel. Min. Ricardo Lewandowski, DJe 28/3/2023.
+
+Posto isso, determino o sobrestamento dos autos no Tribunal de origem a fim de que se aguarde a finalização do julgamento das ADPFs 246, 379 e 429 e, a partir da conclusão a que chegar este Tribunal, exercer o juízo de retratação ou, estando o acórdão em consonância com o entendimento desta Suprema Corte, remeter o recurso para apreciação, mediante provocação da parte recorrente.
+
+Publique-se.
+Brasília, 16 de março de 2026.
+Ministro Cristiano Zanin
+Relator
