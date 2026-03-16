@@ -1,0 +1,32 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido de liminar, impetrado em favor de MODOU SENE, em que aponta como autoridade coatora o Tribunal de Justiça do Estado do Rio Grande do Sul (apelação penal n. 5068385-86.2019.8.21.0001).
+Houve o trânsito em julgado da condenação em 15 de abril de 2025 (fl. 3).
+O paciente foi condenado como incurso no art. 180, caput, do Código Penal à pena de 1 ano de reclusão em regime inicialmente aberto, substituída por prestação de serviços à comunidade, na forma do art. 46 do Código Penal, na razão de uma hora diária por dia de condenação, pelo período de 1 ano, e ao pagamento de 10 dias-multa fixados à razão de 1/30 do salário mínimo vigente à época do fato.
+Quanto à execução penal, foi instaurado o processo de execução n. 8003201-25.2025.8.21.0001, tendo o paciente sido intimado para audiência admonitória designada para 23 de março de 2026 (fl. 3).
+A defesa sustenta constrangimento ilegal decorrente da supressão de análise e eventual oferta de Acordo de Não Persecução Penal (ANPP), afirmando que "Tal omissão configura constrangimento ilegal, visto que o Tribunal de Justiça do Estado do Rio Grande do Sul, ao manter a condenação em patamares favoráveis e permitir o prosseguimento da execução penal sem a prévia análise e oferta do ANPP, chancelou a supressão de um direito negocial do paciente" (fl. 3).
+Aduz que, "a despeito das razões que levaram ao prosseguimento da execução penal sem a oferta do Acordo de Não Persecução Penal, a decisão que culmina na audiência admonitória do paciente merece reforma e há de ser concedido o Writ" (fl. 2).
+Argumenta que o art. 28-A do Código de Processo Penal estabelece requisitos objetivos e subjetivos para a proposta ministerial, os quais estariam preenchidos.
+Requer determinar o cancelamento imediato da audiência admonitória designada para 23 de março de 2026; a remessa dos autos ao Ministério Público do Estado do Rio Grande do Sul, a fim de avaliar a possibilidade de oferta de ANPP ao paciente; e a realização da avaliação final e, se cabível, da oferta de ANPP ao paciente.
+É o relatório. DECIDO.
+Cinge-se a matéria a desconstituir o trânsito em julgado para oferta de ANPP.
+Na hipótese, o presente habeas corpus investe contra acórdão de apelação com trânsito em julgado.
+Di ante disso, não deve ser conhecido, pois foi utilizado como substituto de uma revisão criminal, em uma situação na qual não se configurou a competência originária desta Corte.
+Conforme o artigo 105, inciso I, alínea "e", da Constituição Federal, compete ao Superior Tribunal de Justiça, originariamente "as revisões criminais e as ações rescisórias de seus julgados.
+Nessa linha:
+ ..  1. Na hipótese, a condenação transitou em julgado em 31/5/2023. Dessa forma, o presente writ seria sucedâneo de revisão criminal, sendo esta Corte incompetente para o processamento do pleito revisional.
+ ..  3. Agravo regimental desprovido (AgRg no HC n. 861.867/SC, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 2/9/2024, DJe de 6/9/2024.)
+Demais disso, verifico que, no julgamento do HC n. 185.193/DF, em 18/9/2024, o Supremo Tribunal Federal assentou a sua tese sobre o tema, de forma a permitir a aplicação do instituto despenalizador de forma retroativa, desde que o feito não esteja transitado em julgado, o que, de toda forma deveria "ocorrer na instância em que o processo se encontrar".
+Aqui, trechos do julgado mencionado:
+1. Compete ao membro do Ministério Público oficiante, motivadamente e no exercício do seu poder-dever, avaliar o preenchimento dos requisitos para negociação e celebração do ANPP, sem prejuízo do regular exercício dos controles jurisdicional e interno;
+2. É cabível a celebração de Acordo de Não Persecução Penal em casos de processos em andamento quando da entrada em vigência da Lei nº 13.964, de 2019, mesmo se ausente confissão do réu até aquele momento, desde que o pedido tenha sido feito antes do trânsito em julgado;
+3. Nos processos penais em andamento na data da proclamação do resultado deste julgamento, nos quais, em tese, seja cabível a negociação de ANPP, se este ainda não foi oferecido ou não houve motivação para o seu não oferecimento, o Ministério Público, agindo de ofício, a pedido da defesa ou mediante provocação do magistrado da causa, deverá, na primeira oportunidade em que falar nos autos, após a publicação da ata deste julgamento, manifestar-se motivadamente acerca do cabimento ou não do acordo;
+4. Nas investigações ou ações penais iniciadas a partir da proclamação do resultado deste julgamento, a proposição de ANPP pelo Ministério Público, ou a motivação para o seu não oferecimento, devem ser apresentadas antes do recebimento da denúncia, ressalvada a possibilidade de propositura, pelo órgão ministerial, no curso da ação penal, se for o caso".
+Por fim, o Tribunal definiu que este julgamento não afeta, em nenhuma medida, as decisões já proferidas e, ainda, que a deliberação sobre o cabimento, ou não, do ANPP deverá ocorrer na instância em que o processo se encontrar. (grifei)
+Além disso, a jurisprudência do Superior Tribunal de Justiça é no sentido de que, mesmo as nulidades absolutas, devem ser arguidas no momento oportuno, sob pena de preclusão.
+A esse respeito:
+ ..  Na hipótese, a sentença condenatória foi proferida em 1º de fevereiro de 2016. O Tribunal de origem, por sua vez, julgou a apelação em exame no dia 28 de abril de 2017, sendo que somente no dia 15 de dezembro de 2021 foi impetrado o presente habeas corpus. Desse modo, o mandamus não pode ser conhecido em decorrência da preclusão da matéria, uma vez que transcorridos mais de quatro anos desde o trânsito em julgado da condenação, devendo ser observada a coisa julgada e o princípio da segurança jurídica. Precedentes.  ..  (AgRg no HC: 713708/SP Relator Ministro JOEL ILAN PACIORNIK, Data de Julgamento: 29/03/2022, QUINTA TURMA, DJ-e de 04/04/2023)
+ ..  Em respeito à segurança jurídica e a lealdade processual, mesmo as nulidades denominadas absolutas também devem ser arguidas em momento oportuno, sujeitando-se à preclusão temporal.  ..  (AgRg no HC n. 813269-SC Relator Ministro REYNALDO SOARES DA FONSECA, Data de Julgamento: 27/04/2023, QUINTA TURMA, DJ-e de 03/05/2023)
+Desse modo, não verifico a presença de teratologia ou coação ilegal que desafie a concessão da ordem nos termos do parágrafo 2º do artigo 654 do Código de Processo Penal.
+Ante o exposto, indefiro liminarmente o habeas corpus.
+Publique-se. Intimem-se.
+ EMENTA
