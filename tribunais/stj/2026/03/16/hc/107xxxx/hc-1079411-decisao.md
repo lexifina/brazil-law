@@ -1,0 +1,17 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em nome de VINICIUS MARTINS TEIXEIRA, condenado pelo crime de tráfico de drogas (art. 33, caput, da Lei n. 11.343/2006), à pena de 5 anos de reclusão e 500 dias-multa, com regime inicial semiaberto fixado em segundo grau (Processo n. 1500658-57.2021.8.26.0569, da 1ª vara da comarca de Salto/SP).
+O impetrante aponta como autoridade coatora o Tribunal de Justiça do Estado de São Paulo - 15ª Câmara de Direito Criminal, que, em 11/3/2025, deu parcial provimento ao recurso defensivo, absolvendo os apelantes do art. 35 da Lei n. 11.343/2006, reconhecendo o tráfico privilegiado apenas à corré Ariane, e mantendo, para o paciente, a condenação por tráfico, com r egime semiaberto.
+Alega, em síntese, contradição interna do acórdão: absolvição pelo art. 35 da Lei de Drogas e indevido afastamento do art. 33, § 4º, com base em "indicativos" oriundos de denúncia anônima e elementos inquisitoriais, sem prova concreta de habitualidade criminosa.
+Menciona a presença dos requisitos legais do tráfico privilegiado: primariedade e bons antecedentes; não dedicação a atividades criminosas; não integração à organização criminosa; com suporte em documentos de emprego formal, como vendedor, e residência fixa em Salto/SP (Carteira de Trabalho Digital e contrato de locação), além da ausência de reiteração delitiva por mais de quatro anos após concessão anterior de habeas corpus que substituiu a prisão por cautelares.
+Sustenta a finalidade constitucional da pena e a individualização, apontando o quadro social do paciente incompatível com profissionalização no tráfico e a necessidade de proporcionalidade na dosimetria, com incidência do art. 33, § 4º, da Lei n. 11.343/2006.
+Requer, inclusive liminarmente, o reconhecimento da causa de diminuição do art. 33, § 4º, com readequação imediata da pena e do regime.
+É o relatório.
+Inicialmente, destaco que o presente writ é incabível por consubstanciar inadequada substituição ao recurso próprio a ser dirigido ao Superior Tribunal de Justiça (AgRg no HC n. 753.464/SC, Ministra Laurita Vaz, Sexta Turma, DJe 29/9/2022).
+Além disso, inexiste ilegalidade flagrante que justifique a concessão de habeas corpus de ofício e a consequente superação do óbice constatado.
+Quanto ao art. 33, § 4º, da Lei de Drogas, o afastamento da minorante foi fundamentado em circunstâncias concretas extraídas dos autos - denúncia anônima que resultou na busca e apreensão à residência dele, e segundo a qual o apelante colaborava com uma rede de tráfico atuante nas regiões de Salto e Itu (fl. 32), não se limitando a presunções abstratas. Inexistindo, em análise preliminar, descompasso entre as premissas fáticas fixadas e a conclusão jurídica adotada pelo colegiado (fls. 16/33).
+Nesse contexto, não é possível desconstituir a conclusão da Jurisdição ordinária sobre a dedicação do paciente a atividades criminosas e, por conseguinte, reconhecer a causa de redução de pena prevista no art. 33, § 4º, da Lei de Drogas, notadamente por ser vedado, na presente via, revolver o contexto fático-probatório dos autos.
+Ante o exposto, indefiro liminarmente a petição inicial.
+Publique-se.
+EMENTA
+HABEAS CORPUS. LEGISLAÇÃO EXTRAVAGANTE. TRÁFICO DE DROGAS. INADEQUAÇÃO DO WRIT COMO SUBSTITUTIVO. AUSÊNCIA DE ILEGALIDADE FLAGRANTE. DOSIMETRIA. AFASTAMENTO DO TRÁFICO PRIVILEGIADO POR DEDICAÇÃO A ATIVIDADES CRIMINOSAS. IMPOSSIBILIDADE DE REVOLVIMENTO FÁTICO-PROBATÓRIO.
+Petição inicial indeferida liminarmente.
