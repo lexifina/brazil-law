@@ -1,0 +1,18 @@
+DECISÃO
+Trata-se de embargos de declaração opostos em favor de MATEUS FRANCA BITTENCOURT, contra decisão que não conheceu do habeas corpus impetrado contra ato coator do TRIBUNAL DE JUSTIÇA DO ESTADO DO PARANÁ.
+Nas razões recursais, o embargante sustenta ocorrência de omissão no julgado, alegando a necessidade de revogação da prisão preventiva.
+Afirma que ficou amplamente demonstrado nos autos que o crime de organização criminosa não se configura na ação penal originária, tratando-se apenas de hipóteses aventadas na fase investigatória e não formalmente denunciadas. O paciente responde, em verdade, pelo delito de associação criminosa, razão pela qual a premissa adotada na decisão impugnada revela-se equivocada.
+Requer, assim, "o aclaramento do decisum para, verificada a ilegalidade flagrante, aplicando efeitos infringentes, defira a medida liminar ou conceda ordem de ofício para revogar a prisão preventiva ou substituí-la por medidas cautelares diversas" - fl. 1504.
+É o relatório. DECIDO.
+Presentes os pressupostos de admissibilidade, conheço dos embargos.
+Pretende o embargante que seja sanada omissão, a fim de dar efeitos infringentes aos aclaratórios a fim de revogar a prisão preventiva.
+Destaque-se, inicialmente, que são cabíveis embargos declaratórios quando houver, na decisão embargada, qualquer contradição, omissão ou obscuridade a ser sanada. Podem também ser admitidos para a correção de eventual erro material, consoante entendimento preconizado pela doutrina e jurisprudência, sendo possível, excepcionalmente, a alteração ou modificação do decisum embargado.
+Nesse compasso, entendo que assiste razão a parte embargante, quanto a omissão demonstrada.
+No caso dos autos, o acusado foi denunciado pela suposta prática do delito previsto no art. 288 do Código Penal, cuja pena máxima abstratamente cominada é de 3 (três) anos, restando, portanto, evidenciado o constrangimento ilegal (fls. 25-26).
+O acórdão recorrido, por sua vez, assim fundamentou a questão:
+"No caso, conquanto o delito apontado não seja punido com pena máxima superior a 4 anos de reclusão, a simples denúncia pelo crime de associação para o tráfico não conduz, automaticamente, à revogação da prisão preventiva. No caso dos autos, as investigações policiais revelaram, de forma robusta, a prática do crime de associação voltada à mercancia de entorpecentes, com atuação estruturada e coordenada entre os diversos integrantes do grupo criminoso. Como bem consignado no relatório de investigação policial, o paciente Mateus França Bittencourt participava desta associação criminosa para o tráfico, com condutas de coordenação de venda e transporte de drogas em áreas administradas por Joab Lucas Fonseca de Miranda" - fl. 14.
+Da leitura do excerto transcrito, verifica-se que, muito embora o embargante tenha, em tese, praticado o crime de associação criminosa, previsto no art. 288 do Código Penal, em graves circunstâncias, a decretação da prisão preventiva encontra óbice na vedação legal imposta pelo art. 313, inciso I, do Código de Processo Penal, porquanto a pena máxima para referido crime é de 3 (três) anos.
+Portanto, forçoso reconhecer a impossibilidade da decretação da prisão preventiva em desfavor do embargante, em razão do óbice imposto pelo art. 313, I, do Código de Processo Penal.
+Ante o exposto, acolho os embargos de declaração, com efeitos infringentes, para sanar a omissão apontada e revogar a prisão preventiva do embargante, salvo se por outro motivo estiver preso , e sem prejuízo da decretação de nova prisão, desde que observados os parâmetros legais, devendo ser impostas, a critério do juízo de primeiro grau, medidas cautelares diversas da prisão, previstas no art. 319 do Código de Processo Penal.
+Publique-se. Intimem-se.
+EMENTA
