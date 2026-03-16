@@ -1,0 +1,33 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido de liminar, impetrado em favor de ADEMIR PINHEIRO DA SILVA, apontando como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE RONDÔNIA, em decorrência do julgamento da revisão criminal n. 0804871-80.2025.8.22.0000.
+Consta dos autos que o paciente foi inicialmente condenado pelo Juízo da 2ª Vara da Comarca de Buritis à pena de 6 (seis) anos e 2 (dois) meses de reclusão, em regime fechado, além de 16 (dezesseis) dias-multa, por infração ao artigo 157, § 2º, incisos I e II, combinado com o artigo 62, inciso I, do Código Penal (fls. 24-30).
+A defesa ajuizou revisão criminal no Tribunal de Justiça do Estado de Rondônia, que julgou procedente o pedido para alterar o regime inicial de cumprimento da pena de fechado para o semiaberto (fls. 38-44).
+Na presente impetração, busca-se a concessão da ordem para: (i) afastar a incidência da agravante do artigo 62, inciso I, do Código Penal e redimensionar a pena; e (ii) reduzir a fração das causas de aumento da terceira fase ao mínimo legal, com reflexos na execução penal (fls. 9-17).
+É o relatório. DECIDO.
+A controvérsia consiste na ocorrência de possível constrangimento ilegal em razão do argumento de que a agravante prevista no artigo 62, inciso I, do Código Penal teria sido aplicada de forma inadequada e de que a fração das causas de aumento fixada na terceira fase demandaria redução.
+A presente impetração investe contra acórdão, funcionando como substituto do recurso próprio, motivo pelo qual não deve ser conhecida. A 3ª Seção, no âmbito do HC n. 535.063-SP, de relatoria do Ministro Sebastião Reis Júnior, julgado em 10/06/2020, e o Supremo Tribunal Federal, no julgamento do AgRg no HC n. 180.365, de relatoria da Ministra Rosa Weber, julgado em 27/03/2020, consolidaram a orientação de que não cabe habeas corpus substitutivo ao recurso legalmente previsto para a hipótese, impondo-se o não conhecimento da impetração, salvo quando constatada flagrante ilegalidade no ato judicial impugnado.
+Da análise do acórdão (fls. 38-44), verifico que as teses veiculadas nesta impetração  afastar a incidência da agravante do artigo 62, inciso I, do Código Penal e reduzir a fração das causas de aumento da terceira fase ao mínimo legal  não foram submetidas na revisão criminal, cujo único pedido consistia no estabelecimento de regime inicial menos gravoso.
+O acórdão impugnado restou assim ementado:
+Ementa: DIREITO PROCESSUAL PENAL. REVISÃO CRIMINAL. PRELIMINAR DA PROCURADORIA DE JUSTIÇA PELO NÃO CONHECIMENTO. AFASTAMENTO. MÉRITO MODIFICAÇÃO DO REGIME INICIAL DE CUMPRIMENTO DE PENA. AUSÊNCIA DE FUNDAMENTAÇÃO IDÔNEA. INDIVIDUALIZAÇÃO DA PENA. REGIME SEMIABERTO. PEDIDO PROCEDENTE.
+I. CASO EM EXAME
+1. Revisão criminal ajuizada contra sentença que condenou o revisionando à pena de 6 anos e 2 meses de reclusão, em regime fechado, pelo crime de roubo majorado (art. 157, § 2º, I e II, c/c art. 62, I, do Código Penal). A defesa pleiteou a modificação do regime prisional para o semiaberto, alegando ausência de fundamentação idônea na sentença condenatória e violação ao princípio da individualização da pena, visto que o revisionando é primário, não possui circunstâncias judiciais desfavoráveis e a pena é inferior a 8 anos. A Procuradoria de Justiça opinou pelo não conhecimento ou, alternativamente, pela improcedência do pedido.
+II. QUESTÃO EM DISCUSSÃO
+2. Há duas questões em discussão: (i) analisar preliminar de conhecimento se presentes os requisitos legais de admissibilidade previstos no art. 621 do CPP; (ii) verificar se a fixação do regime inicial fechado contraria o texto expresso da lei penal e os elementos constantes nos autos, justificando a sua substituição pelo regime semiaberto.
+III. RAZÕES DE DECIDIR
+3. A revisão criminal é cabível quando demonstrado que a sentença condenatória contraria texto expresso da lei penal, nos termos do art. 621, I, do CPP. No caso, os fundamentos invocados pela defesa exigem apreciação do mérito, afastando a preliminar de inadmissibilidade arguida pela Procuradoria de Justiça.
+4. O regime inicial de cumprimento da pena deve ser fixado com base nos critérios dos arts. 59 e 33, §§ 2º e 3º, do CP. Ao réu primário, com pena inferior a oito anos e circunstâncias judiciais favoráveis, admite-se o regime semiaberto.
+5. A imposição do regime mais gravoso sem motivação concreta e idônea viola o art. 33 do Código Penal e a Súmula 719 do STF, bem como a jurisprudência consolidada do STJ, que exige motivação específica para tanto.
+IV. DISPOSITIVO E TESE 6 . P e d i d o p r o c e d e n t e.
+A jurisprudência do Superior Tribunal de Justiça é firme no sentido de que não se admite habeas corpus quando as teses apresentadas não foram previamente apreciadas pelo Tribunal apontado como coator, sob pena de indevida supressão de instância.
+A esse respeito, destaco o seguinte julgado:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. PROCESSUAL PENAL. SUBSTITUTIVO DE REVISÃO CRIMINAL. INCABÍVEL . AUSENTE FLAGRANTE ILEGALIDADE. RECONHECIMENTO FOTOGRÁFICO. INOBSERVÂNCIA ART. 226 DO CPP . EXISTÊNCIA DE OUTRAS PROVAS INDEPENDENTES. TESE NÃO ANALISADA NA ORIGEM. SUPRESSÃO DE INSTÂNCIA. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. O habeas corpus não pode ser utilizado como substitutivo de revisão criminal, sob pena de configuração da supressão de instância, em desacordo com o que dispõe o art. 105, I, e, da Constituição Federal acerca das competências do Superior Tribunal de Justiça (AgRg no HC n. 964 .494/SP, relator Ministro Og Fernandes, Sexta Turma, julgado em 04/02/2025, DJEN de 11/02/2025).
+2. A jurisprudência desta Corte é no sentido de que o reconhecimento fotográfico viciado não é apto a desconstituir a autoria delitiva quando o convencimento do julgador se ampara concomitantemente a outros elementos probatórios independentes que instruem o feito.
+3. A ausência de análise da matéria suscitada pelas instâncias ordinárias impede o conhecimento por esta Corte Superior, sob pena de supressão de instância.
+4. Na ausência de argumento relevante que infirme as razões consideradas no julgado ora agravado, que está em sintonia com a jurisprudência desta Corte Superior de Justiça, deve ser mantida a decisão impugnada.
+5 . Agravo regimental não provido.
+(AgRg no HC 956371-SP, relator Ministro OTÁVIO DE ALMEIDA TOLEDO DESEMBARGADOR CONVOCADO DO TJSP, Data de Julgamento: 19/03/2025, SEXTA TURMA, Data de Publicação: DJEN 25/03/2025)
+De toda sorte, não verifico a presença de ilegalidade flagrante que desafie a concessão da ordem nos termos do artigo 654, § 2º, do Código de Processo Penal.
+Ante o exposto, não conheço do habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
