@@ -1,0 +1,13 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em favor de JOSÉ CARLOS COSTA, contra decisão do Tribunal de Justiça do Estado de São Paulo proferida nos autos do HC n. 2336528-52.2025.8.26.0000.
+O paciente foi preso em flagrante no dia 12 de janeiro de 2024, acusado de ter matado Cristiano Aparecido Fernandes de Abreu com golpes de faca.
+A defesa impetrou habeas corpus na origem pleiteando a complementação do laudo necroscópico, indeferido pelo juízo de primeiro grau por ter sido requerido fora do prazo previsto no art. 402 do Código de Processo Penal. O pedido liminar foi indeferido e o writ aguarda o julgamento de mérito (e-STJ, fls. 17-19).
+De acordo com o impetrante, após o julgamento dos embargos de declaração opostos contra a decisão que indeferiu o pedido liminar, o Tribunal de Justiça certificou o trânsito em julgado sem examinar o mérito do habeas corpus lá impetrado, materializando, assim, negativa de prestação jurisdicional.
+Diante disso, requer, liminarmente e no mérito, a concessão da ordem para anular a certificação de trânsito em julgado do habeas corpus impetrado na origem, determinando a apreciação do mérito das alegações nele contidas.
+É o relatório. Decido.
+Incialmente, cumpre destacar que o constrangimento ilegal aduzido nesta impetração provém de ato do Tribunal de Justiça do Estado de São Paulo, que certificou o trânsito em julgado do HC n. 2336528-52.2025.8.26.0000, o que autoriza a impetração de habeas corpus originário perante o Superior Tribunal de Justiça, nos termos do art. 105, inciso I, alínea "c", da Constituição Federal.
+Ao que se tem dos autos, a decisão que indeferiu a liminar no habeas corpus foi proferida em 20 de outubro de 2025 (e-STJ, fls. 17-19). Em seguida, a defesa opôs embargos de declaração, alegando omissão quanto ao pedido de suspensão do prazo para apresentação de alegações finais. Os embargos não foram conhecidos (e-STJ, fls. 13-16), pois não foram constatados vícios na decisão embargada. Na mesma ocasião, destacou-se que o mérito do habeas corpus ainda não foi apreciado pelo Tribunal de Justiça (e-STJ, fl.15).
+Constata-se, assim, erro judiciário causador de prejuízo ao réu, qual seja, a certificação irregular do trânsito em julgado do writ antes da apreciação de mérito, motivo pelo qual deve-se tornar sem efeito a certidão de e-STJ, fl. 10, para que o Tribunal de Justiça do Estado de São Paulo examine o mérito do habeas corpus como entender de direito.
+Diante do exposto, concedo a ordem de habeas corpus para anular a certidão de trânsito em julgado (e-STJ, fl. 10), determinando o retorno dos autos ao Tribunal de origem para exame do mérito do habeas corpus.
+Publique-se.
+EMENTA
