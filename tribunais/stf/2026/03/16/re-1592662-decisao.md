@@ -1,0 +1,54 @@
+DECISÃO:
+Vistos.
+Trata-se de recurso extraordinário manejado em face de acórdão proferido pela 4ª Turma Cível do Tribunal de Justiça do Distrito Federal e dos Territórios, assim ementado:
+
+“DIREITO ADMINISTRATIVO. CONCURSO PÚBLICO. ACUMULAÇÃO DE CARGO PÚBLICO DE MÉDICO COM CUMPRIMENTO DE PROGRAMA DE ESTÁGIO DE RESIDÊNCIA MÉDICA. POSSIBILIDADE. HONORÁRIOS ADVOCATÍCIOS. REDUÇÃO. RECURSO PARCIALMENTE PROVIDO.
+1. Não havendo exigência legal ou restrição no edital do certame apto a vedar a posse de residente médico no cargo pretendido, deve ser concedida a segurança para lhe garantir a posse.
+2. Para o arbitramento dos honorários de advogado há de se levar em conta a natureza e a importância da causa, o trabalho realizado e o tempo exigido para o seu serviço.
+3. Recurso voluntário e remessa necessária providos em parte.”
+
+Opostos embargos de declaração, foram rejeitados (e-doc. 12).
+Após permanecer sobrestado, o Presidente da Seção de Direito Público do Tribunal de origem, em virtude do julgamento do RE n° 766.304/SE (Tema 683/RS), determinou o retorno dos autos à Turma julgadora para eventual juízo de retratação.
+Em novo julgamento do feito, a 4ª Turma Cível do TJDFT deixou de exercer o juízo de retratação mantendo o acórdão anteriormente proferido, nos termos da seguinte ementa:
+
+“DIREITO ADMINISTRATIVO E PROCESSUAL CIVIL. APELAÇÃO. RETORNO PARA JUÍZO DE RETRATAÇÃO (CPC, ART. 1.030, II). CONCURSO PÚBLICO. PRETERIÇÃO OCORRIDA DURANTE O PRAZO DE VALIDADE DO CONCURSO. DIREITO À POSSE RECONHECIDO. DIVERGÊNCIA COM A TESE FIXADA NO TEMA 683 DA REPERCUSSÃO GERAL NÃO CONFIGURADA. ACÓRDÃO MANTIDO.
+I. Não identificada divergência entre o acórdão que manteve a determinação de posse do candidato no concurso público e a tese fixada no Recurso Extraordinário 766.304/RS (Tema 683 da Repercussão Geral), não há fundamento para o juízo de retratação previsto no artigo 1.030, inciso II, do Código de Processo Civil.
+II. Acórdão mantido.”
+
+No recurso extraordinário, sustenta-se violação do art. 37, incisos III e IV, da Constituição Federal.
+Alega, em síntese, a “impossibilidade de ajuizamento de ação pleiteando nomeação ou posse após o término do prazo de validade de concurso público em caso em que a pretensão da parte surgiu antes do término de tal prazo de validade”.
+Argumenta, que, no caso, "a pretensão do Autor, ora Recorrido, [...] claramente surgiu antes do término do prazo de validade do certame (com o ato que lhe indeferiu posse logo após sua nomeação ocorrida dentro do prazo de validade do certame), razão pela qual se mostra descabido pugnar judicialmente pela declaração de nulidade do ato que negou posse e requerer nova convocação após o término do prazo de validade do concurso."
+Admitido o extraordinário, os autos vieram a esta Suprema Corte.
+Decido.
+A irresignação não merece prosperar.
+Inicialmente, não procede a alegada violação do artigo 93, inciso IX, da Constituição, haja vista que a jurisdição foi prestada, no caso, mediante decisões suficientemente motivadas, não obstante contrárias à pretensão da parte recorrente. Anote-se que o Plenário deste Supremo Tribunal Federal reconheceu a repercussão geral desse tema e reafirmou a orientação de que a referida norma constitucional não exige que o órgão judicante manifeste-se sobre todos os argumentos de defesa apresentados, mas que fundamente, ainda que sucintamente, as razões que entendeu suficientes à formação de seu convencimento (AI nº 791.292/PE-RG-QO, Relator o Ministro Gilmar Mendes, DJe de 13/8/10 - Tema 339).
+Passo, assim, à análise do mérito.
+O Supremo Tribunal Federal, nos autos do RE nº 766304/RS, analisou a possibilidade de o candidato pleitear, em juízo, o reconhecimento do direito à nomeação, sob o argumento de preterição ocorrida após o prazo de validade do concurso, dando origem ao Tema nº 683 da Repercussão Geral. Naquela assentada, a Corte Constitucional fixou a tese de que “A ação judicial visando ao reconhecimento do direito à nomeação de candidato aprovado fora das vagas previstas no edital (cadastro de reserva) deve ter por causa de pedir preterição ocorrida na vigência do certame”.
+O redator para o acórdão, Min. Edson Fachin, assentou que desinteressa se a pretenção relacionada ao direito à nomeação foi deduzida pelo candidato antes ou depois do término do prazo de validade do concurso, bastando seja observado o prazo prescricional contemplado no art. 1º do Decreto nº 20.910/1932, pena de malferir o direito de ação e, por consequência, o princípio de acesso à justiça e inafastabilidade do Poder Judiciário. Vide:
+
+"Eis o fundamento de minha divergência que impacta diretamente na fixação da tese de repercussão geral com efeito erga omnes: entendo que a razão que assiste ao Estado não se fundamenta no argumento de que a ação foi proposta após o prazo de validade do concurso, e sim no fato de que contratações temporárias efetuadas após o fim do prazo de validade do concurso não implicam preterição nem acarretam o direito à nomeação. O fundamento não está na data de propositura da ação, desde que respeitado os prazos legais, e sim na data do surgimento de novas vagas que indicariam eventual preterição.
+Reconhecido o direito à nomeação em casos excepcionais (Tema 784, itens I a III), segue-se que não há como restringir o direito de ação ao prazo de validade do concurso público sem importar em restrição ao princípio de acesso à justiça e inafastabilidade do Poder Judiciário (Tema 683, sob exame). Neste sentido, oportuna a lição do Professor Marçal Justen Filho quanto à relação do direito material e do direito de ação no âmbito do Direito Administrativo:
+'Uma das peculiaridades do direito administrativo reside em que é assegurada ao Estado, em um grande número de casos, a competência para promover a autotutela de seu interesse. A autoexecutoriedade dos atos administrativos significa a desnecessidade de a Administração Pública recorrer ao Estado-jurisdição para a satisfação de algumas de suas pretensões resistidas por particulares. Isso não significa, como já examinado, que a Administração Pública seja investida de competência para satisfazer toda e qualquer pretensão de que seja titular. Por exemplo, o sacrifício definitivo do direito de propriedade privada, quando o particular se recuse a uma solução amigável, depende da intervenção do Poder judiciário. Logo, existem hipóteses em que a satisfação da pretensão da Administração Pública em face de um particular depende da intervenção do Poder Judiciário. Em outras palavras, há casos em que o Estado-Administração depende da intervenção do Estado-jurisdição para obter tutela para uma pretensão. Nesses casos, será evidente a distinção entre a pretensão de direito administrativo da Administração Pública (dirigida contra o particular ou outro ente estatal) e o seu direito de ação. O particular não dispõe da faculdade de autotutela em face da Administração Pública. Na maior parte dos casos, também não dispõe dessa alternativa nas relações jurídicas que estabelecer com outro particular, regidas pelo direito administrativo. Por isso, a regra é a necessidade de recorrer ao Poder judiciário para obter a proteção para as pretensões de que for titular.' (JUSTEN FILHO, Marçal. Curso de Direito Administrativo. Revista do Tribunais, São Paulo, 2014. P 1373 )
+Dessa forma, a alegação de preterição pode ser deduzida em juízo antes ou após o término do prazo de validade do concurso público, desde que respeitado o prazo prescricional previsto no art. 1º do Decreto nº 20.910/1932. O que importa não é saber se a alegação de preterição foi deduzida em juízo, por meio da ação, antes ou depois do término do prazo de validade do concurso. Mas se a alegada preterição ocorreu antes ou após o término do prazo de validade do concurso público.
+No presente caso, a alegada preterição, em si, ocorreu após o término do prazo de validade do concurso público. Desse modo, não há falar em direito subjetivo à nomeação. " (grifos acrescidos)
+
+No caso dos autos, observa-se que o recorrido foi efetivamente nomeado dentro do prazo de validade do concurso para o cargo de Médico Oftalmologista, após aprovação no concurso regido pelo Edital nº 27/2002, da Secretaria de Saúde do Distrito Federal (SES-DF), tendo sido, contudo, impedido de tomar posse em razão de alegada incompatibilidade entre o cargo e a residência médica por ele exercida àquela época.
+O juiz de primeiro grau julgou procedente o pedido vertido na inicial, declarando, assim, nula a decisão administrativa que  impediu o recorrido de tomar posse, por ausência de incompatibilidade, a teor do disposto no art. 1º da Lei Federal nº 6.932/81, posição esta mantida, por unanimidade, pela 4ª Turma Cível do TJDFT (e-doc. 8).
+Na ocasião, o TJDFT ressaltou, ainda, que não há prescrição na espécie, considerando o prazo quinquenal previsto no Decreto nº 20.910/1932, verbis:
+
+"A ação não está prescrita, pois a Lei n°7.515/86, que estabelece o prazo de 01 ano, a contar da data de publicação do ato de homologação do resultado final para a ação contra os atos relativos ao concurso não se aplica ao caso; os fatos impugnados ocorreram depois da homologação do certame.
+Disse a sentença:
+'A posse e o fato impeditivo não se relacionam aos atos propriamente ditos do concurso, posto que posteriores a homologação do certame. Com efeito, afasta-se a lei distrital nº7.515/86, fazendo incidir os termos do decreto-lei n°20.910/32, que disciplina acerca da prescrição qüinqüenal, que no caso, não se verificou.'
+
+Esta 4ª Turma Cível teve oportunidade de decidir que "para a impugnação do ato de convocação dos candidatos aprovados no certame, aplica-se o prazo prescricional do Decreto n° 20.910/32 que, de acordo com o seu artigo primeiro, é qüinqüenal" (cf. Acórdão de 24.01.2007 na apelação nº2005 01 1 087.167/6, relatora Des. Ana Cantarino, registro nº282682).
+A expiração da validade do concurso em nada interfere no direito do autor à impugnação." (e-doc. 8) (grifos acrescidos)
+
+Nessas circunstâncias, depreende-se que o acórdão recorrido não diverge do entendimento alcançado no Tema 683 da Repercussão Geral, porquanto, no prazo prescricional legal, o recorrido instaurou acão judicial objetivando o reconhecimento de seu direito de posse em razão de óbice administrativamente alegado (incompatibilidade) após regular nomeação implementada no prazo de validade do concurso.
+Ante o exposto, nos termos do artigo 21, § 1º, do Regimento Interno do Supremo Tribunal Federal, nego seguimento ao recurso.
+Considerando que a sentença foi proferida em 26/04/2010 (e-doc. 4) e o apelo extremo foi interposto na vigência do Código de Processo Civil de 1973 (e-doc. 14), deixo de aplicar na espécie o disposto no artigo 85, § 11, do Código de Processo Civil de 2015 (vide RE 1492266 / SP).
+Publique-se.
+Brasília, 16 de março de 2026.
+
+Ministro DIAS TOFFOLI
+Relator
+Documento assinado digitalmente
