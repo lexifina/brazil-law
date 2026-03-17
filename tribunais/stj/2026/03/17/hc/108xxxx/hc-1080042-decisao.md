@@ -1,0 +1,30 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em favor de CARLOS ROGÉRIO FEITOSA contra acórdão da 1ª Câmara Criminal do Tribunal de Justiça do Estado do Ceará (HC n. 0000033-98.2003.8.06.0112).
+Extrai-se dos autos que o paciente foi condenado pelo Tribunal do Júri da Comarca de Juazeiro do Norte/CE pela prática do crime de homicídio qualificado, tipificado no art. 121, § 2º, incisos I e IV, do Código Penal, à pena de 22 anos de reclusão.
+A defesa interpôs apelação, a qual o Tribunal a quo não conheceu, em acórdão assim ementado (e-STJ fls. 27/28):
+PENAL E PROCESSUAL PENAL. APELAÇÃO. HOMICÍDIO QUALIFICADO. ANULAÇÃO DO VEREDICTO POR MANIFESTA CONTRARIEDADE À PROVA DOS AUTOS. AUSÊNCIA DE INDICAÇÃO DA TESE RECURSAL. NÃO CONHECIMENTO.
+I. CASO EM EXAME
+1. Apelação da defesa contra a sentença que condenou o réu à pena de 22 (vinte e dois) anos de reclusão, a ser cumprida em regime inicial fechado, pela prática do crime previsto no art. 121, § 2º, incs. I e IV, do Código Penal, sendo-lhe negado o direito de apelar em liberdade.
+II. QUESTÃO EM DISCUSSÃO
+2. Há duas questões em discussão: (i) saber se comporta conhecimento o recurso de apelação sem indicação tempestiva dos fundamentos da interposição; (ii) saber se o veredicto condenatório encontra-se manifestamente dissociado da prova dos autos.
+III. RAZÕES DE DECIDIR
+3. Nas apelações contra decisões do Tribunal do Júri, o efeito devolutivo do recurso é delimitado no momento da interposição do apelo, devendo o recorrente indicar precisamente as alíneas do art. 593, III, do Código de Processo Penal, nas quais deseja recorrer.
+4. Nesse sentido é a Súmula 713 do STF: "O efeito devolutivo da apelação contra decisões do júri é adstrito aos fundamentos da sua interposição".
+5. Não se desconhece que a ausência de indicação ou mesmo a errônea sinalização de uma das alíneas do art. 593, III, do CPP, no termo ou na petição do recurso, acarreta mera irregularidade se, nas razões recursais, a parte apresenta os fundamentos do apelo e os delimita em seu pedido. Entretanto, em tais casos a ampliação ou indicação dos termos da interposição deve se dar ainda no prazo para a apelação, o que não se verifica no caso dos autos.
+IV. DISPOSITIVO E TESE
+6. Recurso não conhecido.
+No presente writ (e-STJ fls. 3/26), a defesa alega nulidade absoluta por deficiência de defesa técnica, afirmando que o advogado constituído não apresentou as razões da apelação no prazo legal, que houve posterior remessa dos autos à Defensoria Pública, a qual apresentou razões, e que o não conhecimento do apelo configurou cerceamento de defesa com prejuízo concreto. Aduz nulidade absoluta do julgamento por vício insanável na quesitação, apontando contradição na formulação de quesitos, especialmente pela inclusão de quesito absolutório genérico após a confirmação do dolo pelos jurados. Sustenta, ademais, ilegalidades na dosimetria da pena, consistentes em bis in idem na utilização de qualificadoras, fundamentação genérica para exasperação da pena-base e valoração indevida do comportamento da vítima, matéria de ordem pública cognoscível a qualquer tempo.
+Requer a concessão de medida liminar para suspender os efeitos do acórdão proferido na Apelação Criminal n. 0000033-98.2003.8.06.0112 e da sentença condenatória, com expedição de alvará de soltura ; no mérito, requer a anulação do julgamento do Tribunal do Júri desde a sessão, em razão do vício na quesitação; subsidiariamente, requer a anulação do acórdão por cerceamento de defesa, com determinação para que a 1ª Câmara Criminal julgue o mérito da apelação; em última análise, pleiteia a declaração de nulidade parcial da sentença quanto à dosimetria, com afastamento das ilegalidades e redimensionamento da pena (e-STJ fls. 25/26).
+É o relatório.
+O acórdão apontado como ato coator limitou-se a não conhecer da apelação por ausência de indicação das alíneas do art. 593, III, do CPP e pela apresentação extemporânea das razões (e-STJ fls. 27/33), sem enfrentar quaisquer das teses de mérito suscitadas no presente writ (deficiência de defesa técnica, nulidade por vício na quesitação e ilegalidades na dosimetria).
+Portanto, tendo em vista que não houve manifestação da Corte local sobre o tema, não é possível conhecer do writ, sob pena de indevida supressão de instância.
+Com efeito, "é vedada a apreciação per saltum da pretensão defensiva, sob pena de supressão de instância, uma vez que compete ao Superior Tribunal de Justiça, na via processual do habeas corpus, apreciar ato de um dos Tribunais Regionais Federais ou dos Tribunais de Justiça estaduais (art. 105, inciso II, alínea a, da Constituição da República)" (EDcl no HC 609.741/MG, Rel. Ministra LAURITA VAZ, SEXTA TURMA, julgado em 15/9/2020, DJe 29/9/2020).
+No mesmo sentido:
+PROCESSUAL PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS E ASSOCIAÇÃO PARA O TRÁFICO. NULIDADES. AUSÊNCIA DE FUNDAMENTAÇÃO PARA O RECEBIMENTO DA DENÚNCIA. PROLAÇÃO DE SENTENÇA CONDENATÓRIA QUE PREJUDICA A APRECIAÇÃO DO TEMA. AUSÊNCIA DE APRECIAÇÃO DAS TESES DEFENSIVAS PELA SENTENÇA. SUPRESSÃO DE INSTÂNCIA. EXCESSO DE PRAZO PARA O TÉRMINO DA INSTRUÇÃO . ENUNCIADO N. 52, DA SÚMULA DO STJ. AGRAVO REGIMENTAL DESPROVIDO.
+1. As alegadas nulidades decorrentes da sentença condenatória não foram examinadas pelo Tribunal de origem, de modo que inviável a análise inaugural por esta Corte, sob pena de indevida supressão de instância. Outrossim, prolatada a sentença condenatória, fica obstada a análise de eventuais nulidades decorrentes do recebimento da denúncia.
+2. No que se refere ao alegado excesso de prazo para o encerramento da instrução, incide o Enunciado n. 52, da Súmula do STJ, que afirma que "Encerrada a instrução criminal, fica superada a alegação de constrangimento ilegal por excesso de prazo". Nesse contexto, prolatada a sentença condenatória, inviável o reconhecimento do excesso de prazo.
+3. Agravo regimental desprovido.
+(AgRg no HC n. 837.966/MG, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 23/10/2023, DJe de 27/10/2023.)
+Pelo exposto, indefiro liminarmente o mandamus.
+Publique-se.
+EMENTA
