@@ -1,0 +1,57 @@
+DECISÃO
+Cuida-se de Agravo apresentado por JFE 35 EMPREENDIMENTOS IMOBILIARIOS LTDA. - EM RECUPERACAO JUDICIAL e OUTRO à decisão que não admitiu seu Recurso Especial.
+O apelo, fundamentado no artigo 105, III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO DE JANEIRO, assim resumido:
+APELAÇÃO CÍVEL. DIREITO DO CONSUMIDOR. PROMESSA DE COMPRA E VENDA DE IMÓVEL. ATRASO INJUSTIFICADO NA ENTREGA. HABITE-SE REGISTRADO APÓS DOIS ANOS DO PRAZO CONTRATUAL. LEILÃO EXTRAJUDICIAL COM EXERCÍCIO DO DIREITO DE PREFERÊNCIA. CULPA EXCLUSIVA DA INCORPORADORA. RESCISÃO CONTRATUAL. RESTITUIÇÃO INTEGRAL DAS QUANTIAS PAGAS. SÚMULAS 98 DO TJRJ E 543 DO STJ. DANO MORAL CONFIGURADO. AUSÊNCIA DE PROVA DE LUCROS CESSANTES.
+1. Sentença de improcedência dos pedidos, que afastou a devolução dos valores pagos sob o fundamento de que o montante obtido na arrematação do imóvel foi inferior ao valor da dívida dos autores.
+2. Recurso da parte autora visando a reforma da sentença em razão do deferimento da tutela de urgência, que suspendeu a exigibilidade dos valores pendentes.
+3. Atraso incontroverso na entrega da unidade, com registro do habite-se mais de dois anos após o prazo contratual.
+4. Leilão extrajudicial realizado por iniciativa da vendedora que não afasta o direito do comprador à rescisão contratual e à devolução integral dos valores pagos (Súmula 543 do STJ) sem batimento de valores referentes à taxa de administração do empreendimento frustrado (Súmula 98 do TJRJ).
+5. Configurada a culpa exclusiva da incorporadora diante de atraso de mais de dois anos para o registro do habite-se, o que impossibilitou a realização de financiamento e, por conseguinte, a quitação dos valores pendentes.
+6. Dano moral configurado, diante da significativa postergação na conclusão do empreendimento e frustração da legítima expectativa de uso do bem.
+7. Reforma da sentença para deferir a repetição dos valores pagos e condenar as Apeladas ao pagamento de indenização por danos morais no valor de R$15.000,00, em atenção aos princípios da razoabilidade e proporcionalidade.
+8. Lucros cessantes indevidos, por ausência de comprovação de prejuízo econômico.
+9. Recurso parcialmente provido.
+Quanto à controvérsia, pela alínea "a" do permissivo constitucional, a parte recorrente alega violação aos arts. 186 e 927 do CC, no que concerne à inexistência de dano moral indenizável por atraso na entrega de imóvel, em razão de mero inadimplemento contratual sem circunstâncias excepcionais comprovadas, trazendo a seguinte argumentação:
+Importa ressaltar que não se trata, aqui, de discutir a existência ou não de descumprimento contratual, mas, sim, de demonstrar que, na presente hipótese, não houve a comprovação de nenhum dano que pudesse gerar aos recorridos direito à indenização e, impondo-se a improcedência do pedido indenizatório. (fl. 536)
+
+Neste processo, não existiu qualquer dano aos recorridos e, por consequência, dever de indenizar pelas recorrentes, tendo em vista que a situação dos autos representa mero descumprimento contratual, incapaz de gerar danos morais, de acordo com o entendimento consolidado do Superior Tribunal de Justiça. (fl. 538)
+
+Além disso, destaca-se que, segundo entendimento deste Egrégio Superior Tribunal de Justiça, o dano moral, na hipótese de atraso na entrega de unidade imobiliária, não se presume, configurando-se apenas quando houver circunstâncias excepcionais que, devidamente comprovadas, importem em significativa e anormal violação a direito da personalidade do promitente-comprador. (fl. 538)
+
+Todos os argumentos utilizados pelo acórdão para manter a condenação das recorrentes não dizem respeito às circunstâncias do caso, tratando-se de alegações genéricas e possíveis de serem arguidas em qualquer processo de atraso extenso na entrega do imóvel. Nesse contexto, é preciso esclarecer que tanto a frustração na legítima expectativa dos adquirentes quanto o atraso na entrega do empreendimento não possuem o condão de gerar danos morais, não sendo argumentos suficientes para caracterizar violação ao direito da personalidade.
+Frise-se que a jurisprudência do e. STJ é clara ao condicionar a indenização por danos morais, nas hipóteses de atraso na entrega do empreendimento, a uma situação excepcional, que vai além do mero atraso, capaz de ensejar o dano.
+E, mesmo sem especificar no caso concreto que situação seria essa, o acórdão condenou as recorrentes em compensação por danos morais, o que é absolutamente contrário ao entendimento firmado por esta Egrégia Corte.
+Assim, conclui-se que, ao manter a condenação ao pagamento de indenização por danos morais, sem, ao menos, restar comprovado nos autos alguma circunstância excepcional que comprove efetiva violação à personalidade dos recorridos, o acórdão acaba violando frontalmente os artigos 186 e 927 do Código Civil. (fls. 536-541).
+É o relatório.
+Decido.
+Quanto à controvérsia, o Tribunal a quo se manifestou nos seguintes termos:
+Trata-se de ação de rescisão contratual c/c restituição de quantias pagas e indenização por danos morais ajuizada por MARCELO LUIS BORGES DIAS e TÂNIA REGINA FERREIRA DA COSTA em face de JOÃO FORTES ENGENHARIA S/A e JFE 35 EMPREENDIMENTOS IMOBILIÁRIOS LTDA.
+ ..
+O cerne da questão consiste em verificar se os Apelantes fazem jus à devolução integral das quantias pagas.
+ ..
+Decorrido o prazo contratual, as chaves do imóvel não foram entregues, tampouco averbado o habite-se - resultando na pretensão autoral de rescisão contratual e restituição dos valores pagos, com pedido de tutela de urgência para a suspensão das cobranças de parcelas vincendas ou vencidas após a data de entrega da unidade, bem como a abstenção de apontes negativos no nome dos Autores/Apelantes e o impedimento de envio do imóvel a leilão. O juízo de origem deferiu parcialmente a tutela de urgência para determinar a abstenção de realização de aponte negativo e suspender a exigibilidade das parcelas em aberto e vincendas.
+O imóvel foi enviado à leilão em 08/03/2018, sob justificativa de inadimplemento de parcela no valor de R$ 325.069,60. A peça de defesa foi instruída com notificação ID. 354, enviada aos Apelados em 30/01/2018 - e registro em cartório - a qual se reputa válida.
+O imóvel foi arrematado em momento anterior ao deferimento da tutela de urgência (ID. 69), motivo pelo qual a rescisão contratual perde seu objeto.
+Quanto à suspensão da exigibilidade dos valores pendentes, cumpre salientar que, embora o imóvel tenha sido levado a leilão em momento anterior à concessão da tutela de urgência, os montantes que fundamentaram seu envio à hasta pública tornaram- se inexigíveis, nos termos da decisão ID. 69.
+ ..
+Diante da inexigibilidade dos valores pendentes, não afastada pela sentença de ID. 411, impõe-se a apreciação do direito dos Apelantes à restituição integral das quantias pagas.
+Os documentos acostados aos autos esclarecem os seguintes fatos:
+ ..
+A expedição do habite-se ocorreu apenas em 14 de julho de 2017, uma vez decorridos dois anos da previsão de entrega de chaves. Em adição, as parcelas em aberto se remetem a meses posteriores à data de prorrogação da entrega do imóvel, que se daria em 31/07/2015.
+Não resta dúvida, neste caso, de que houve inadimplemento da parte ré em relação aos termos do contrato (prazo estipulado para a conclusão das obras e entrega da unidade imobiliária), o que legitimou o inadimplemento da parte autora em relação às prestações.
+As circunstâncias evidenciam rescisão por culpa exclusiva das Apeladas, pelo descumprimento do prazo contratual para a conclusão das obras do empreendimento e entrega das chaves da unidade imobiliária.
+ ..
+Embora o leilão extrajudicial do imóvel tenha se realizado em 08/03/2018, no curso da lide, os Apelantes possuem o direito de reaver toda a quantia investida, com a devolução integral dos valores pagos à construtora.
+A vendedora, por sua conta e risco, procedeu ao leilão extrajudicial do imóvel, mesmo não cumprindo a sua parte na avença, considerando que já há muito havia sido extrapolada a data de entrega da unidade imobiliária.
+ ..
+Quanto ao pleito de indenização por danos morais, ressalta-se que o atraso excessivo na entrega é incontroverso, mesmo com a incidência da cláusula contratual de prorrogação de prazo. Ressalte-se que a entrega estava prevista para 31/01/2015, de modo que a significativa postergação na conclusão do empreendimento extrapola o mero inadimplemento contratual, configurando efetivo abalo moral indenizável.
+Importa ressaltar que a fixação do quantum indenizatório deve observar os princípios da razoabilidade e da proporcionalidade, ponderando a extensão do prejuízo suportado, bem como as condições econômicas das partes, de forma a evitar tanto a fixação de valor ínfimo quanto de montante excessivo que implique enriquecimento sem causa do ofendido.
+No caso, considerada a angústia experimentada pela parte Autora/Apelante, diante da indevida postergação da entrega de seu imóvel por mais de dois anos  já incluído o prazo de tolerância de 180 dias previsto no contrato  somada aos transtornos decorrentes da frustração de sua legítima expectativa de usufruir plenamente do bem adquirido, entendo que o valor de R$ 15.000,00 (quinze mil reais) se mostra condizente com os critérios mencionados, adequado às circunstâncias fáticas delineadas e em consonância com a jurisprudência desta Corte:  .. . (fls. 517-525).
+Assim, incide a Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), porquanto o reexame da premissa fixada pelo acórdão recorrido quanto à presença ou não dos elementos que configuram o dano moral indenizável exigiria a incursão no acervo fático-probatório dos autos, o que não é possível em Recurso Especial.
+Nesse sentido: "A alteração das conclusões adotadas pela Corte de origem quanto à ocorrência de responsabilidade civil apta a gerar danos morais indenizáveis demandaria, necessariamente, novo exame do acervo fático-probatório constante dos autos, providência vedada em recurso especial, conforme o óbice previsto no enunciado sumular n. 7 deste Tribunal Superior" (AgInt no AREsp n. 2.616.315/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 16/10/2024).
+Confiram-se os seguintes julgados: AgInt no AREsp n. 2.754.542/CE, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, DJEN de 20/3/2025; AgInt no AREsp n. 2.511.934/ES, relator Ministro Sérgio Kukina, Primeira Turma, DJe de 20/6/2024; AgInt no AREsp n. 2.426.291/RJ, relator Ministro Humberto Martins, Terceira Turma, DJe de 22/8/2024; AgInt no AREsp n. 2.057.498/TO, relator Ministro Humberto Martins, Segunda Turma, DJe de 30/3/2023; AgInt no AREsp n. 2.171.225/SC, relator Ministro Marco Buzzi, Quarta Turma, DJe de 2/12/2022; AgInt no AREsp n. 1.966.714/PE, relator Ministro Antonio Carlos Ferreira, Quarta Turma, DJe de 21/11/2022; AgInt no AREsp n. 2.031.975/MG, relator Ministro Sérgio Kukina, Primeira Turma, DJe de 18/8/2022.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do Agravo para não conhecer do Recurso Especial.
+Nos termos do art. 85, § 11, do Código de Processo Civil, majoro os honorários de advogado em desfavor da parte recorrente em 15% sobre o valor já arbitrado nas instâncias de origem, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão de justiça gratuita.
+Publique-se.
+Intimem-se.
+ EMENTA
