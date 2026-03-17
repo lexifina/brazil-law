@@ -1,0 +1,14 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em benefício de DANIEL LUIZ SANTOS DE BARROS - condenado pelo crime de adulteração de sinal identificador de veículo automotor, à pena de 3 anos de reclusão, em regime inicial aberto, e 10 dias-multa, com substituição da pena privativa de liberdade por duas restritivas de direitos - contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO DE JANEIRO (Apelação Criminal n. 0892882-37.2023.8.19.0001).
+Busca a impetração a absolvição do paciente na ação penal que tramitou perante o Juízo de Direito da 17ª Vara Criminal da comarca do Rio de Janeiro/RJ, aos argumentos de que a busca veicular foi realizada sem fundada suspeita, e inexistem provas suficientes à condenação. Subsidiariamente, pede a anulação do processo desde o momento anterior ao oferecimento da denúncia, para que o Ministério Público reavalie a possibilidade de propor o ANPP, nos termos do art. 28-A do Código de Processo Penal.
+Indeferi o pedido liminar (fls. 822/823), informações prestadas (fls. 828/837), o Ministério Público Federal opinou pela denegação da ordem (fls. 841/843).
+É o relatório.
+É inviável a utilização da via eleita para revisar condenação transitada em julgado. Ademais, inexiste o alegado constrangimento.
+No caso, o Tribunal estadual, no julgamento da apelação criminal, afastou a alegação de nulidade da busca veicular por ausência de fundada suspeita, ao fundamento de que a diligência decorreu de investigação em andamento sobre quadrilha de receptação e clonagem de veículos, com perseguição, tendo sido, no momento da abordagem, constatados indícios da suspeita da prática de flagrante delito (fls. 18/19).
+Sobre o ANPP, o acórdão assentou que segundo o Parquet, a recusa ao oferecimento do acordo se dá por não se mostrar adequado e suficiente para prevenção e reprovação do crime, eis que o denunciado Daniel faz do crime seu meio de vida (fl. 807). Tal o contexto, cuidando-se de faculdade do Ministério Público na ponderação da necessidade e suficiência do acordo, não cabe ao Judiciário determinar sua oferta. Ausente, portanto, ilegalidade manifesta nos fundamentos ministeriais.
+Por fim, não se mostra possível o revolvimento dos fatos e das provas, haja vista o habeas corpus não ser meio processual adequado para analisar a tese de insuficiência probatória para a condenação, uma vez que se trata de ação constitucional de rito célere e de cognição sumária (AgRg no HC n. 917.184/RJ, Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe 2/10/2024).
+Em razão disso, denego a ordem.
+Publique-se.
+EMENTA
+PENAL. HABEAS CORPUS. ADULTERAÇÃO DE SINAL IDENTIFICADOR DE VEÍCULO AUTOMOTOR. CONDENAÇÃO TRANSITADA EM JULGADO. REVISÃO. IMPOSSIBILIDADE. NULIDADE DA BUSCA VEICULAR. ABSOLVIÇÃO. ACORDO DE NÃO PERSECUÇÃO PENAL. FUNDADA SUSPEITA (ART. 240 DO CPP). REEXAME PROBATÓRIO. FACULDADE DO MINISTÉRIO PÚBLICO (ART. 28-A DO CPP). INEXISTÊNCIA DE CONSTRANGIMENTO ILEGAL MANIFESTO.
+Ordem denegada.
