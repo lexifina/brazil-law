@@ -1,0 +1,51 @@
+DECISÃO
+Cuida-se de recurso especial interposto por ROSEMARY APARECIDA ROSA MUNIZ GALDINO, com fundamento no artigo 105, inciso III, alíneas "a" e "c", da Constituição Federal, contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, assim ementado (fl. 360):
+Apelação - Ação declaratória de inexigibilidade de débito c. c. repetição do indébito e indenizatória por danos morais - Contrato bancário de empréstimo consignado - Extinção do feito sem resolução de mérito (CPC, art. 485, IV) - Irregularidade de representação - Inconformismo e apresentação de recurso pela parte requerente - Não acolhimento - Constatados indícios de litigância predatória, de rigor era a regularização da procuração e do comprovante de endereço, o que não foi atendido pela parte no prazo cominado - Indícios de litigância predatória, na forma do Comunicado CG nº 02/2017 do NUMOPEDE - Ausência de pressuposto de constituição e desenvolvimento válido do processo - Correta a condenação do patrono a efetuar o recolhimento das custas iniciais, ora acrescidas do preparo do presente recurso, pena de inscrição na dívida ativa - Observância do quanto disposto no art. 104, § 2º, do CPC e da recomendação prevista no Enunciado 15 da Corregedoria Geral de Justiça deste E. Tribunal - Recurso desprovido - Decisão mantida.
+Sem embargos de declaração.
+No presente recurso especial, a recorrente alega que o acórdão estadual contrariou as disposições contidas nos artigos 9º, 10, 23, 76 e 77 do CPC, ao passo que aponta divergência jurisprudencial com arestos desta Corte.
+Sustenta, outrossim, que "o advogado na o pode ser condenado por ato atentato"rio a" dignidade da justiça no pro"prio processo em que atua." (fl. 377).
+Apresentadas as contrarrazões (fls. 384-389), sobreveio o juízo de admissibilidade positivo da instância de origem (fls. 390-393).
+É, no essencial, o relatório.
+Recurso especial proveniente de apelação interposta pela recorrente contra sentença que julgou extinto o processo, sem análise de mérito, por ausência de regularização da representação processual e de indícios da prática de litigância predatória, condenando seu advogado ao pagame nto das custas processuais, tendo o Tribunal local negado provimento ao recurso.
+Como se constata, a parte recorrente se insurge contra a extinção da ação e a condenação do advogado, apontando violação aos arts. 9º, 10, 23, 76 e 77 do CPC.
+O acórdão recorrido apresenta a seguinte fundamentação (fls. 361-370):
+Com escopo de afastar a litigância predatória, observando as recomendações feitas pelo Núcleo de Monitoramento de Perfis de Demanda (NUMOPEDE) da Corregedoria Geral de Justiça do Tribunal de Justiça do Estado de São Paulo, nos Comunicados CG nºs 29/2015, 02/2017 e 1477/2017, o Juízo de primeiro grau determinou à autora que trouxesse aos autos de nova procuração, com expressa autorização para a propositura desta demanda e firma reconhecida, para verificar a idoneidade da representação, além da comprovação do domicílio no endereço indicado através de cópia de documento idôneo atualizado (fls. 286).
+Considerando que a parte autora não cumpriu com o determinado, cf. se extrai da certidão de fls. 293, a r. sentença julgou extinto o feito sem resolução do mérito, por ausência de pressuposto de constituição e desenvolvimento válido do processo, com base no art. 485, inciso IV, do CPC.
+A d. Magistrada considerou que ante o alto número de ações idênticas protocoladas pelos patronos da apelante, somado ao fato de que não veio aos autos nova procuração com firma reconhecida e expressa referência ao número destes autos, nem comprovação de domicílio no endereço indicado mediante apresentação de cópia de documento idôneo atualizado, estaria configurada litigância predatória.
+E com razão.
+De rigor ressaltar que o Comunicado CG nº 02/2017 do NUMOPEDE recomenda prudência em razão do "elevado número de ações distribuídas por mesmo advogado ou grupo de advogados em nome de diversas pessoas físicas distintas, em um curto período de tempo".
+Ademais, a medida determinada está em consonância com a recomendação prevista no Enunciado 5, aprovado pela Corregedoria Geral de Justiça deste Eg. Tribunal (Comunicado 424/2024):
+"ENUNCIADO 5 - Constatados indícios de litigância predatória, justifica-se a realização de providências para fins de confirmação do conhecimento e desejo da parte autora de litigar, tais como a determinação da juntada de procuração específica, inclusive com firma reconhecida ou qualificação da assinatura eletrônica, a expedição de mandado para verificação por Oficial de Justiça, o comparecimento em cartório para confirmação do mandato e/ou designação de audiência para interrogatório/depoimento pessoal."
+Assim, a ordem emanada da i. Juíza, condutora do processo, zela pelas cautelas necessárias e não caracteriza obstáculo ao direito de acesso à justiça.
+Além disso, a postura da demandante de não atender ao quanto determinado pela magistrada sem justificativa plausível, especialmente porque a providência é simples e de fácil cumprimento, implica no decreto de extinção do feito, sem julgamento do mérito.
+Dessa forma, fica mantida a r. sentença de extinção do processo sem resolução do mérito.
+No mais, de rigor a incidência da taxa judiciária, a qual está de acordo com o Enunciado 13 (Comunicado CG nº 424/2024): "O cancelamento da distribuição (art. 290, CPC) e todas as outras hipóteses de extinção do processo não afastam a exigibilidade da taxa judiciária (art. 4º, I, da Lei Estadual n. 11.608/2003)".
+Do mesmo modo, irretocável a condenação do advogado ao pagamento das custas iniciais, nos termos do art. 104, § 2º, do CPC, e em observância ao Enunciado 15 (Comunicado CG nº 424/2024): "Nos termos do art. 104 do Código de Processo Civil, é cabível a responsabilização direta do advogado pelas custas, despesas e sanções processuais, inclusive por litigância de má-fé, nos casos em que a procuração e o desejo de litigar não forem ratificados pela parte autora, notadamente em cenário de litigância predatória".
+No mesmo sentido é a jurisprudência deste E. Tribunal de Justiça, expressa nos seguintes precedentes:
+ ..
+Ressalte-se, ainda, que não comprovado o estado de hipossuficiência financeira exigido para o fim pretendido, fica indeferido o pedido de concessão dos benefícios da Justiça Gratuita (ítem b, fls. 332); assim, o patrono deverá efetuar também o preparo do presente recurso, pena de inscrição na dívida ativa.
+Por derradeiro, destaca-se não competir ao Julgador rebater todos os argumentos e raciocínios expendidos pelas partes em seus arrazoados, bastando que motive sua decisão em atenção aos princípios da fundamentação suficiente e do devido processo legal.
+Dessa forma, constata-se que o acórdão recorrido não faz qualquer referência ao disposto nos artigos 9º, 10, 23, 76 e 77 do CPC e tampouco debateu o comando normativo neles veiculado.
+A parte recorrente sequer opôs embargos de declaração visando que o Tribunal de origem suprisse eventual omissão.
+Desta forma, não houve o esgotamento da instância quanto à questão versada neste especial, não tendo o Tribunal de origem sobre ela decidido e tampouco a recorrente apresentado todos os recursos de que dispunha para instá-lo a tanto.
+Assim, o que se observa é ausência de prequestionamento da contrariedade apontada neste especial, pois o Tribunal local não emitiu juízo de valor acerca da matéria por ele disciplinada.
+A questão precisa ser efetivamente debatida e ter recebido uma manifestação do órgão julgador para que a parte possa, na via do recurso especial, demonstrar a esta Corte a alegada violação.
+Por isso, o julgamento do recurso especial é inadmissível. Aplica-se, na hipótese, as Súmulas 282/STF ("É inadmissível o recurso extraordinário, quando não ventilada, na decisão recorrida, a questão federal suscitada.") e 356/STF ("O ponto omisso da decisão, sobre o qual não foram opostos embargos declaratórios, não pode ser objeto de recurso extraordinário, por faltar o requisito do prequestionamento.").
+Nesse sentido, cito os seguintes precedentes:
+CIVIL E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PLANOS DE SAÚDE. CUSTEIO DE MEDICAMENTO QUIMIOTERÁPICO. VIOLAÇÃO DO ART. 1.022 DO CPC. NÃO OCORRÊNCIA. ÔNUS DA PROVA. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULAS N. 282 E 356 DO STF. TIOTEPA (TEPADINA). ANVISA. REGISTRO. AUSÊNCIA. AUTORIZAÇÃO DE IMPORTAÇÃO. DEVER DE COBERTURA. SÚMULA N. 568/STJ. DANOS MORAIS. SÚMULA N. 7/STJ.
+1. O acórdão recorrido abordou, de forma fundamentada, todos os pontos essenciais para o deslinde da controvérsia, razão pela qual não há violação do art. 1.022 do CPC.
+2. Diante da ausência de debate em torno do art. 373 do CPC e da falta de aclaratórios no ponto, a matéria contida em tal dispositivo carece de prequestionamento e sofre, por conseguinte, o óbice das Súmulas n. 282 e 356 do STF.
+ ..
+Agravo interno improvido.
+(AgInt no Ag em REsp n. 2.718.125/RJ, Relator: Ministro Humberto Martins, Terceira Turma, Julgado em 18/03/2025)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. AÇÃO DE EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. IMÓVEL. BEM DE FAMÍLIA. IMPENHORABILIDADE. ALTERAÇÃO DAS CONCLUSÕES DO ACÓRDÃO RECORRIDO. IMPOSSIBILIDADE. INCIDÊNCIA DA SÚMULA 7/STJ. DISTRIBUIÇÃO DO ÔNUS DA PROVA FALTA DE PREQUESTIONAMENTO. SÚMULAS 282 E 356/STF. AGRAVO INTERNO DESPROVIDO.
+ ..
+2. Se o conteúdo normativo contido no dispositivo apresentado como violado não foi objeto de debate pelo acórdão recorrido, evidencia-se a ausência do prequestionamento, pressuposto específico do recurso especial. Incide, na espécie, o rigor das Súmulas n. 282 e 356 do STF.
+3. Agravo interno desprovido.
+(AgInt no AREsp 1.368.197/PR, Rel. Ministro MARCO AURÉLIO BELLIZZE, Terceira Turma, j. 17/2/2020, DJe 19/2/2020)
+Convém consignar que, diversamente do afirmado no recurso especial, não houve condenação do advogado ao pagamento de multa por ato atentatório à dignidade da justiça, mas unicamente ao pagamento das custas processuais.
+Ante o exposto, não conheço do recurso especial.
+Nos termos do art. 85, § 11, do CPC, majoro os honorários fixados em desfavor da parte recorrente para 18% sobre o valor atualizado da causa.
+Ante o exposto, não conheço do recurso especial.
+Publique-se. Intimem-se.
+ EMENTA
