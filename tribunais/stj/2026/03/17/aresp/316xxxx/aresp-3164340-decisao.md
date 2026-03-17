@@ -1,0 +1,17 @@
+DECISÃO
+Examina-se agravo em recurso especial interposto por ANDREA PARANHOS SILVA PINTO LOPES, CRISTIANE PARANHOS SILVA LUCHESE e RUI CARLOS MERKEL LUCHESE, contra decisão que inadmitiu recurso especial, fundamentado no art. 105, inciso III, alínea(s) "a", da Constituição Federal.
+Ação: embargos à execução, ajuizados pelos agravantes, em face de CONFECCOES CHILDREN LTDA.
+Acórdão: negou provimento à apelação interposta pela parte agravante, nos termos da seguinte ementa:
+APELAÇÃO CÍVEL - EMBARGOS À EXECUÇÃO - PRELIMINAR - AUSÊNCIA DE DIALETICIDADE - MÉRITO - CONTRATO DE FRANQUIA - INSTRUMENTOS PARTICULARES DE ACORDO E CONFISSÃO DE DÍVIDA - ALEGAÇÃO DE VÍCIO DE CONSENTIMENTO - COAÇÃO MORAL - NÃO CONFIGURAÇÃO - EXERCÍCIO REGULAR DE DIREITO - ARTIGO 153 DO CÓDIGO CIVIL - AUSÊNCIA DE PROVA DA COAÇÃO - VALIDADE DOS TÍTULOS EXECUTIVOS. A ofensa ao princípio da dialeticidade ocorre quando as razões recursais estão inteiramente dissociadas do que foi decidido na decisão recorrida. A coação consiste em vício de consentimento na celebração de negócio jurídico, restando configurado quando a pessoa pratica um ato mediante ameaça física ou moral contra si, a sua família ou a seus bens, conforme dispõe o art. 151, do CC. Para que o negócio jurídico seja passível de anulação, necessário que a suposta vítima demonstre de forma cabal que somente celebrou o pacto em decorrência de coação praticada pelo outro contratante. Ausente prova da ocorrência de vício de consentimento na celebração dos contratos de confissão de dívida, impõe-se a manutenção da sentença que reconheceu a validade dos instrumentos de confissão de dívida.
+Decisão de admissibilidade do TJ/MG: inadmitiu o recurso especial em razão do seguinte fundamento: incidência da Súmula 7 do STJ.
+Agravo em recurso especial: nas razões do presente recurso, a parte agravante aduz que:
+i) a pretensão envolve discussão exclusivamente de direito, considerado o contexto fático-probatório delineado pelas instâncias ordinárias, que se ateve, exclusivamente, em uma obtusa interpretação literal que exsurge como negativa de vigência ao art. 151 do CC;
+ii) o reconhecimento da coação econômica praticada pela empresa não depende nem exige alteração da situação fático-probatória em que se baseou o julgamento realizado pelo TJ/MG.
+RELATADO O PROCESSO, DECIDE-SE.
+Ao analisar o agravo em recurso especial interposto, verifica-se que a parte agravante não demonstrou, de maneira consistente, a inaplicabilidade do referido óbice.
+Com efeito, para que o recurso especial seja analisado por esta Corte Superior, o recorrente deve refutar todos os fundamentos que levaram à inadmissão pelo Tribunal de origem. Nesse sentido: AgInt no AREsp 2.292.265/SP, Terceira Turma, DJe de 18/8/2023, e AgInt no AREsp 2.335.547/SP, Quarta Turma, DJe de 11/10/2023.
+Forte nessas razões, NÃO CONHEÇO do agravo em recurso especial, com fundamento no art. 932, III, do CPC.
+Nos termos do art. 85, § 11, do CPC, considerando o trabalho adicional imposto ao advogado da parte agravada em virtude da interposição deste recurso, majoro os honorários fixados anteriormente em 17% do valor atualizado da causa (e-STJ fl. 696) para 20%.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar a condenação ao pagamento das penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC.
+Publique-se. Intimem-se.
+EMENTA
