@@ -1,0 +1,45 @@
+DECISÃO
+Trata-se de embargos de declaração opostos por WOLLERSON DOS SANTOS à decisão que indeferiu liminarmente o presente habeas corpus, nos seguintes termos:
+"A jurisprudência desta Corte Superior, aplicando por analogia o Enunciado n. 691 da Súmula do Supremo Tribunal Federal, firmou-se no sentido de não conhecer de mandamus impetrado contra decisão que indefere liminar na origem, excetuados os casos nos quais, de plano, é possível identificar flagrante ilegalidade ou teratologia do referido decisum.
+Na mesma linha, é pacífico o entendimento nesta Corte Superior de Justiça no sentindo de que, ainda que o habeas corpus tenha sido impetrado contra decisão que deferiu pedido liminar, se sujeita igualmente aos limites definidos pelo enunciado da Súmula n. 691/STF, somente afastado no caso de excepcional situação (v.g. HC 702.197/SP, Rel. Ministro ANTÔNIO SALDANHA PALHEIRO, DJe 17/12/2021; HC 712.111/BA, Rel. Ministro JOÃO OTÁVIO DE NORONHA, DJe 15/12/2021; HC 690.381/SP, Rel. Ministro REYNALDO SOARES DA FONSECA, DJe 31/8/2021 e HC 588.305/RJ, de minha relatoria, DJe 4/9/2020).
+Assim, é certo que apenas em situações excepcionais, como forma de garantir a efetividade da prestação jurisdicional nas situações de urgência, uma vez constatada a existência de flagrante ilegalidade, abuso de poder ou teratologia, é possível a superação da Súmula n. 691 do Supremo Tribunal Federal.
+No caso em apreço, imperioso ressaltar, de início, que prevalece o entendimento nesta Corte Superior de que "É admissível o ajuizamento de ação cautelar inominada para atribuir efeito suspensivo a recurso em sentido estrito interposto pelo Ministério Público contra decisão que determinou a soltura do Acusado. Inaplicável, ao caso, a Súmula n. 604 do Superior Tribunal de Justiça, que é específica ao proibir o uso do mandado de segurança como via de atribuição de efeito suspensivo a recurso criminal da Acusação" (HC 572.583/SP, Rel. Ministra LAURITA VAZ, SEXTA TURMA, DJe 19/8/2020).
+O habeas corpus foi impetrado contra decisão singular que deferiu o pleito emergencial postulado pelo Ministério Público estadual, em sede de medida cautelar inominada em recurso em sentido estrito, decretando de forma fundamentada a prisão preventiva do paciente. Dessa forma, não se verifica constrangimento ilegal na decisão impugnada.
+Confiram-se, a propósito, julgados deste Tribunal Superior prolatados no mesmo sentido:
+ ..
+Na hipótese, ao menos em juízo perfunctório, não vislumbro a possibilidade de superação do mencionado enunciado sumular.
+Assim, de acordo com a pacífica jurisprudência do Superior T ribunal de Justiça, a fim de evitar indevida supressão de instância, deve-se aguardar o julgamento de mérito da impetração pela Corte de origem.
+Ante o exposto, com fundamento no art. 210 do Regimento Interno do Superior Tribunal de Justiça, indefiro liminarmente o presente habeas corpus." (fls. 99/103)
+Em suas razões, a defesa sustenta que a decisão embargada foi omissa, ao deixar de apreciar a possibilidade de concessão da ordem, de ofício, com base na fundamentação apresentada a respeito da prisão decorrer de "decisão liminar proferida por Desembargador diverso daquele que detém a relatoria do recurso principal, cujo mérito ainda pende de julgamento" (fl. 108) e acerca do "diagnóstico médico de episódio depressivo grave, histórico de tentativas de suicídio e prévio reconhecimento judicial da gravidade do quadro psíquico do paciente" (fl. 108).
+Requer, portanto, o acolhimento dos presentes embargos, com efeitos modificativos, para que seja analisada a possibilidade de concessão da ordem, de ofício, para que seja revogada a prisão preventiva, com ou sem aplicação de medidas cautelares diversas, e determinada a instauração de incidente de sanidade mental do embargante .
+É o relatório.
+Decido.
+Os embargos de declaração são cabíveis quando houver ambiguidade, obscuridade, contradição ou omissão na decisão, nos termos do art. 619 do Código de Processo Penal.
+Ao contrário do que sustenta o embargante, a decisão ora impugnada consignou, de maneira clara e suficiente, que o habeas corpus foi indeferido liminarmente por aplicação analógica do Enunciado n. 691 da Súmula do Supremo Tribunal Federal, com fundamento expresso no art. 210 do RISTJ, amparando-se, ademais, em precedentes que vedam o conhecimento do mandamus impetrado contra decisão que indefere ou - como também pacificado na jurisprudência desta Corte - defere liminar na origem, circunstância bastante para a caracterização do óbice processual adotado.
+Outrossim, no caso concreto, não se evidencia a alegada omissão no julgado. As razões apresentadas pelo embargante revelam, na realidade, mero inconformismo com o desfecho do julgamento que, em decisão devidamente motivada, reconheceu que o pleito emergencial postulado pelo Ministério Público estadual, em sede de medida cautelar inominada em recurso em sentido estrito, decretou de forma fundamentada a prisão preventiva do embargante.
+Desse modo, diante da ausência de constrangimento ilegal apto a autorizar a superação do Enunciado Sumular n. 691 do Supremo Tribunal Federal, restou inviabilizado o conhecimento do writ.
+Nesse contexto, verifica-se que o embargante objetiva, em verdade, a rediscussão de matéria já apreciada e decidida em sentido desfavorável à sua pretensão, sem, contudo, demonstrar a ocorrência de ambiguidade, obscuridade, contradição ou omissão, nos termos do art. 619 do Código de Processo Penal.
+Por conseguinte, não se constata a presença de quaisquer dos vícios aptos a autorizar o manejo dos embargos de declaração, razão pela qual se mostra inviável o seu acolhimento, destacando-se, ainda, que a via eleita não se presta à revisão do julgado.
+Nesse sentido, destaco os seguintes precedentes do STJ:
+EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. VÍCIOS INEXISTENTES. MERA REDISCUSSÃO.
+1. Apenas se admitem embargos de declaração quando evidenciada deficiência no acórdão recorrido com efetiva obscuridade, contradição, ambiguidade ou omissão, conforme o art. 619 do CPP, situações que não se fazem presentes.
+2. As matérias foram decididas com a devida e clara fundamentação, no sentido da inexistência de ilegalidade no acórdão que considerou a quantidade e natureza da droga na primeira fase para exasperar a pena-base, consoante art. 42 da Lei 11.343/2006, sendo incabível o deslocamento para a terceira fase, para fins de modulação da causa de diminuição do tráfico drogas, por configurar "bis in idem".
+3. Não há falar-se em vícios integrativos, não se prestando os embargos de declaração à rediscussão livre do aresto recorrido, tanto mais que revelam, em essência, mero inconformismo com o resultado do julgamento.
+4. Embargos de declaração rejeitados.
+(EDcl no AgRg no AREsp n. 2.068.669/MG, relator Ministro Olindo Menezes (Desembargador Convocado do TRF 1ª Região), Sexta Turma, julgado em 22/11/2022, DJe de 25/11/2022.)
+PENAL E PROCESSO PENAL. EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. CHACINA DE UNAÍ. INEXISTÊNCIA DE OMISSÃO, CONTRADIÇÃO, OBSCURIDADE OU AMBIGUIDADE. EMBARGOS DE DECLARAÇÃO CONHECIDOS EM PARTE E, NESTA EXTENSÃO, REJEITADOS.
+1. Nos termos do art. 619 do Código de Processo Penal, os embargos de declaração, como recurso de correção, destinam-se a suprir omissão, contradição, ambiguidade ou obscuridade existente no julgado. Não se prestam, portanto, para sua revisão no caso de mero inconformismo da parte. No caso, não há vício a ser sanado.
+2. É incabível a inovação recursal em embargos de declaração, pela preclusão consumativa.
+3. A contradição que autoriza o manejo dos embargos é aquela interna, entre as premissas e conclusões do próprio acórdão embargado, e não a suposta contradição entre este a as provas dos autos, a sentença ou a interpretação legal defendida pelo embargante.
+4. Embargos de declaração conhecidos em parte e, nesta extensão, rejeitados.
+(EDcl no REsp n. 1.973.397/MG, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 11/10/2022, DJe de 18/10/2022.)
+EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO RECURSO ORDINÁRIO EM HABEAS CORPUS. REQUERIMENTO DE INTEGRAÇÃO DO ACÓRDÃO. NOTA TAQUIGRÁFICA DE VOTO PROFERIDO NO TRIBUNAL DE ORIGEM. IMPOSSIBILIDADE. MERO INCONFORMISMO DA PARTE. EMBARGOS REJEITADOS.
+1. Os embargos de declaração destinam-se a desfazer ambiguidade, aclarar obscuridade, eliminar contradição ou suprir omissão existentes no julgado (art. 619 do CPP).
+2. Não há razão para determinar a integração do acórdão embargado com nota taquigráfica de voto proferido na instância ordinária quando todas as teses defensivas foram devidamente enfrentadas pelo STJ.
+3. O mero inconformismo da parte com o resultado do julgamento não é suficiente para o acolhimento dos embargos de declaração.
+4. Embargos rejeitados.
+(EDcl no AgRg no RHC n. 154.789/BA, relator Ministro João Otávio de Noronha, Quinta Turma, julgado em 24/5/2022, DJe de 27/5/2022.)
+Ante o exposto, com fulcro no art. 264, § 1º, do Regimento Interno do Superior Tribunal de Justiça, rejeito os embargos de declaração.
+Publique-se.
+Intimem-se.
+EMENTA
