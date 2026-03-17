@@ -1,0 +1,1 @@
+Art. 28-A - O Poder Executivo, no âmbito de seus órgãos e entidades, aportará ao Fundo Financeiro de Previdência do Estado de Minas Gerais - FFP-MG - contribuição patronal suplementar de até 22% (vinte e dois por cento), para cobertura de eventuais déficits previdenciários.

@@ -1,0 +1,1 @@
+Art. 44-B - Será sujeito à inscrição em dívida ativa, para os fins do disposto no art. 44-A, em conjunto ou separadamente, o terceiro beneficiado que sabia ou deveria saber da origem do benefício pago indevidamente em razão de fraude, dolo ou coação, observado o devido processo legal em âmbito administrativo.

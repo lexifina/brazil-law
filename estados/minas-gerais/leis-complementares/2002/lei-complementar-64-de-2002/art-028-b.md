@@ -1,0 +1,1 @@
+Art. 28-B - Os Poderes Legislativo e Judiciário, o Ministério Público e o Tribunal de Contas poderão instituir contribuição patronal suplementar, por meio da Lei de Diretrizes Orçamentárias - LDO -, com alíquotas diferenciadas.

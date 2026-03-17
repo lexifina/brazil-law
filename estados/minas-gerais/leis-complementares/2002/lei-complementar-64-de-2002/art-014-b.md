@@ -1,0 +1,1 @@
+Art. 14-B - Os ocupantes dos cargos a que se refere o inciso II do § 4º-A do art. 36 da Constituição do Estado poderão se aposentar aos cinquenta e cinco anos de idade, , desde que cumpridos trinta anos de contribuição e vinte e cinco anos de efetivo exercício em cargo dessas carreiras.
