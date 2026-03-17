@@ -1,0 +1,17 @@
+DECISÃO
+Examina-se reclamação apresentada por VINICIUS SANTANA SILVA, com pedido liminar, contra decisão proferida pela Presidência da 1ª Turma Recursal do TJ/SC, que negou provimento ao agravo interno, mantida a decisão que determina o recolhimento do preparo recursal.
+O reclamante alega, em síntese, que a decisão reclamada viola a determinação de suspensão dos recursos relacionados ao Tema 1178/STJ, com controvérsia afim, relativa à viabilidade de adoção de critérios objetivos para análise do pedido de gratuidade de justiça.
+É O RELATO DO NECESSÁRIO. DECIDE-SE.
+Com a presente insurgência, o reclamante visa questionar a decisão proferida pela 1ª Turma Recursal do TJ/SC que determinou o recolhimento do preparo recursal, o que violaria, supostamente, a determinação de suspensão nacional dos processos com matéria fim à recurso afetado para julgamento sob a sistemática dos repetitivos (Tema 1178/STJ).
+Ocorre que, conforme a compreensão desta Corte, "a reclamação constitucional, nos termos do art. 105, I, f, da Constituição Federal e do art. 988 do CPC, destina-se a preservar a competência do tribunal ou garantir a autoridade de suas decisões, desde que haja descumprimento de decisão proferida pelo STJ no caso concreto, envolvendo as mesmas partes.
+Não se presta a preservar a jurisprudência do STJ, ainda que consolidada em súmula ou recurso repetitivo." (AgInt na Rcl 48.801/MA, Segunda Seção, DJEN 18/8/2025).
+Ademais, "a jurisprudência do STJ é pacífica no sentido de que a reclamação não pode ser utilizada como sucedâneo recursal nem como via de controle abstrato de jurisprudência" (AgInt na Rcl 45.849/PR, Segunda Seção, DJEN 22/8/2025). Nesse sentido: AgInt na Rcl 46.931/DF, Segunda Seção, DJe 3/6/2024; AgInt na Rcl 48.908/PE, Segunda Seção, DJEN 25/8/2025.
+Por fim, ressalte-se que o cabimento da reclamação pressupõe a comprovação de violação direta à autoridade de decisão proferida por esta Corte (AgInt na Rcl n. 48.252/SP, relatora Ministra Daniela Teixeira, Segunda Seção, julgado em 19/8/2025, DJEN de 22/8/2025).
+Na hipótese, verifica-se que a controvérsia envolvendo o sobrestamento, em virtude de afetação de controvérsia afim como repetitivo, sequer foi analisada na decisão reclamada; o que afasta a violação direta à decisão proferida por esta Corte e, por conseguinte, o cabimento da reclamação.
+Forte nessas razões, INDEFIRO a petição inicial e, em consequência, JULGO EXTINTA a reclamação, sem exame de mérito, com fundamento no art. 34, XVIII, "a", do RISTJ.
+Publique-se. Intimem-se.
+EMENTA
+DIREITO PROCESSUAL CIVIL. RECLAMAÇÃO. INADEQUAÇÃO DA VIA ELEITA. SUCEDÂNEO RECURSAL. INVIABILIDADE. INICIAL INDEFERIDA.
+1. "A reclamação constitucional, nos termos do art. 105, I, f, da Constituição Federal e do art. 988 do CPC, destina-se a preservar a competência do tribunal ou garantir a autoridade de suas decisões, desde que haja descumprimento de decisão proferida pelo STJ no caso concreto, envolvendo as mesmas partes. Não se presta a preservar a jurisprudência do STJ, ainda que consolidada em súmula ou recurso repetitivo." (AgInt na Rcl 48.801/MA, Segunda Seção, DJEN 18/8/2025).
+2. A jurisprudência do STJ é pacífica no sentido de que: "a reclamação não pode ser utilizada como sucedâneo recursal nem como via de controle abstrato de jurisprudência" (AgInt na Rcl 45.849/PR, Segunda Seção, DJEN 22/8/2025).
+3. Petição inicial indeferida. Processo extinto sem resolução de mérito.
