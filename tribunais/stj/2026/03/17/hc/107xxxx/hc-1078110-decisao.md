@@ -1,0 +1,18 @@
+DECISÃO
+Trata-se de habeas corpus, impetrado em nome de CARLOS ALEXANDRE MELO MADUREIRA, MÁRCIO GABRIEL BERNARDO MORAES DOS SANTOS e ABRAÃO LINCON MORAES ZANON - condenados por tráfico e associação para o tráfico e, quanto ao primeiro e ao segundo, por resistência -, apontando como ato coator acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO DE JANEIRO (Apelação Criminal n. 0800090-76.2024.8.19.0018 ).
+Busca a impetração a revisão da condenação imposta pelo Juízo de Direito da Vara Única da comarca de Conceição de Macabu/RJ, com a absolvição dos pacientes, aos argumentos de nulidade por tortura, ausência de standard probatório mínimo para condenação pelos delitos imputados, afastamento das majorantes, reconhecimento do tráfico privilegiado, regime inicial mais brando e substituição da pena privativa de liberdade por pena restritiva de direitos.
+Sem pedido liminar.
+É o relatório.
+O writ é inadmissível, uma vez que se trata de impetração destinada a revisar novamente a condenação imposta e mantida pelas instâncias ordinárias, e não se verifica a ocorrência de flagrante constrangimento ilegal apto a subsidiar a superação do óbice.
+No caso, o Tribunal estadual, no julgamento da apelação, afastou a alegação de violação de domicílio e de ilicitude das provas, ao fundamento de que as filmagens das câmeras operacionais registraram fuga armada, disparos contra os policiais e ingresso dos agentes em residência de onde partiram os tiros, caracterizando flagrante delito apto a justificar o ingresso domiciliar, em consonância com a tese fixada no Tema 280 de repercussão geral do Supremo Tribunal Federal (fls. 28/29).
+Quanto a alegação de tortura, a Corte local rejeitou a tese por inexistirem nas imagens das câmeras corporais evidências de violência ilícita, além de os laudos não confirmarem lesões compatíveis com tortura, filiando os achados ao contexto da fuga, e destacando que eventual rubefação pode estar atrelada à dinâmica de fuga e não de tortura (fls. 31/33).
+Em relação ao pleito de absolvição do delito de associação para o tráfico de drogas, o Tribunal assentou atuação conjunta e estável entre os pacientes, com utilização de artefatos típicos (rádios, munições) e tentativa armada de impedir abordagem, em área dominada por facção, evidenciando estabilidade e permanência do vínculo associativo (fls. 31/33), em linha com farta jurisprudência deste STJ.
+Mantida a condenação pelo crime de associação, prejudicado o pleito de desclassificação para a conduta de posse de drogas destinada a consumo próprio
+No tocante às causas de aumento do art. 40, IV e VI, da Lei n. 11.343/2006, o acórdão a quo manteve o incremento pela comprovação do emprego de arma de fogo na dinâmica de intimidação difusa e coletiva e pelo envolvimento de menor, rechaçando bis in idem e a necessidade de mutatio libelli, por já descritas as circunstâncias na inicial (fls. 41/42), em consonância com o entendimento desta Corte Superior de Justiça.
+Por fim, a minorante do tráfico privilegiado foi afastada por incompatibilidade diante da condenação concomitante por associação para o tráfico, que revela dedicação à atividade criminosa (fls. 47).
+Assim, obter entendimento diverso das instâncias ordinárias, ensejaria profundo revolvimento de fatos e provas, providência indesejável na via estreita do habeas corpus.
+Em razão disso, indefiro liminarmente a inicial (art. 210 do RISTJ).
+Publique-se.
+EMENTA
+PENAL. HABEAS CORPUS. TRÁFICO DE DROGAS, ASSOCIAÇÃO PARA O TRÁFICO E RESISTÊNCIA. PRETENSÃO DE REVISÃO DA CONDENAÇÃO IMPOSTA E MANTIDA PELAS INSTÂNCIAS ORDINÁRIAS. UTILIZAÇÃO INDEVIDA DO WRIT. INVIABILIDADE. FORMULAÇÃO DE PRETENSÕES INFUNDADAS. CONSTRANGIMENTO ILEGAL MANIFESTO. AUSÊNCIA.
+Inicial indeferida liminarmente.
