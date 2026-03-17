@@ -1,0 +1,3 @@
+Instrução Normativa RFB nº 2313, de 16 de março de 2026
+Institui o Sistema Difusão Estratégica de Alertas de Risco sobre Mercadorias e Armamentos Sensíveis - DESARMA.
+O SECRETÁRIO ESPECIAL DA RECEITA FEDERAL DO BRASIL, no uso da atribuição que lhe confere o art. 350, caput, inciso III, do Regimento Interno da Secretaria Especial da Receita Federal do Brasil, aprovado pela Portaria ME nº 284, de 27 de julho de 2020, e tendo em vista o disposto no art. 105, caput, incisos VIII e XIX, do Decreto-Lei nº 37, de 18 de novembro de 1966, no art. 26 do Decreto-Lei nº 1.455, de 7 de abril de 1976, nos arts. 190, 191, 192 e 198 da Lei nº 9.279, de 14 de maio de 1996, e no art. 169 da Lei nº 14.597, de 14 de junho de 2023, resolve:
