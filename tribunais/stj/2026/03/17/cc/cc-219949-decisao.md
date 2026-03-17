@@ -1,0 +1,33 @@
+DECISÃO
+Trata-se de conflito negativo de competência entre o JUÍZO DE DIREITO DA VARA ÚNICA DE IPAUMIRIM (CE) e o JUÍZO FEDERAL DA 25ª VARA DA SEÇÃO JUDICIÁRIA DO ESTADO DO CEARÁ, para definir a competência para processamento e julgamento de ação de cobrança c/c obrigação de fazer e não fazer e indenização por danos morais e materiais ajuizada por FRANCISCO RIBEIRO CAMPOS em desfavor da CAIXA ECONÔMICA FEDERAL, CAIXA SEGURADORA S. A. e SASSE COMPANHIA NACIONAL DE SEGUROS SOCIAIS, objetivando a condenação ao pagamento de indenização securitária, a repetição do indébito das parcelas de financiamento imobiliário pagas indevidamente e a reparação dos danos morais.
+O JUÍZO FEDERAL DA 25ª VARA DA SEÇÃO JUDICIÁRIA DO ESTADO DO CEARÁ, no qual a ação foi proposta, entendeu não haver legitimidade passiva da Caixa Econômica Federal (CEF) e determinou a remessa dos autos à Justiça Estadual do Estado do Ceará (fls. 199-202).
+O JUÍZO DE DIREITO DA VARA ÚNICA DE IPAUMIRIM (CE) suscitou o presente conflito negativo de competência (fls. 278-279).
+O Ministério Público Federal manifestou-se no sentido de não ser caso de sua atuação (fls. 500-501).
+É o relatório. Decido.
+Inicialmente, conheço do conflito, porquanto envolve juízos vinculados a tribunais diversos, nos moldes delineados pelo art. 105, I, d, da Constituição Federal.
+A controvérsia cinge-se a definir o juízo competente para processar e julgar ação de cobrança c/c obrigação de fazer e não fazer e indenização por danos morais e materiais, em desfavor da Caixa Econômica Federal, Caixa Seguradora S. A. e Sasse Companhia Nacional de Seguros Sociais.
+O JUÍZO FEDERAL DA 25ª VARA DA SEÇÃO JUDICIÁRIA DO ESTADO DO CEARÁ concluiu pela ausência de ente federal na demanda e determinou a remessa dos autos à Justiça estadual. Confira-se o seguinte trecho da decisão (fl. 201, destaquei):
+No caso dos autos, conforme informações contidas na proposta de opção de seguro sob o Id. 4058107.20027182, fls. 22/23, o seguro foi contratado voluntariamente com a CAIXA SEGURADORA S/A, emitindo-se a apólice nº 01006800000022, segundo o regulamento firmado no processo SUSEP nº 15414.002805/2009-40.
+Cuida-se de apólice desvinculada do Sistema Financeiro de Habitação, o que implica que os riscos são integralmente cobertos pela seguradora.
+O fato de o contrato de seguro de vida ter sido pactuado de forma acessória a contrato de mútuo firmado com a CEF, não atraía a competência da Justiça Federal.
+A constatação é a de que a relação jurídica versada na causa de pedir é estritamente entre particulares, concernente à contratação de seguro, e não envolve recursos de natureza federal, não havendo nenhum interesse jurídico da empresa pública federal nem da União, motivo pelo qual não se justifica a competência da Justiça Federal, ante a expressa delimitação do artigo 109, inciso I, da Constituição da República.
+A CEF é, pois, parte ilegítima para figurar na presente demanda.
+É assente no STJ o entendimento de que compete à Justiça Federal decidir a respeito da exclusão de ente federal da relação processual a fim de definir a competência para o julgamento da causa, descabendo novo exame da questão pela Justiça comum estadual.
+Nesse sentido, os seguintes enunciados:
+- Súmula n. 150 do STJ: "Compete à Justiça Federal decidir sobre a existência de interesse jurídico que justifique a presença, no processo, da União, suas autarquias ou empresas pública".
+- Súmula n. 224 do STJ: "Excluído do feito o ente federal, cuja presença levara o Juiz Estadual a declinar da competência, deve o Juiz Federal restituir os autos e não suscitar conflito".
+- Súmula n. 254 do STJ: "A decisão do Juízo Federal que exclui da relação processual ente federal não pode ser reexaminada no Juízo Estadual".
+A propósito, confiram-se ainda os seguintes precedentes: AgRg no CC n. 122.649/SP, relatora Ministra Maria Isabel Gallotti, Segunda Seção, julgado em 22/8/2012, DJe de 28/8/2012; AgRg no CC n. 107.692/TO, relator Ministro Benedito Gonçalves, Primeira Seção, julgado em 14/9/2011, DJe de 20/9/2011; AgRg no CC n. 109.096/SC, relator Ministro Cesar Asfor Rocha, Primeira Seção, julgado em 25/5/2011, DJe de 10/6/2011.
+Confira-se o seguinte julgado:
+DIREITO PROCESSUAL CIVIL. SFH. SEGURO. AÇÃO INDENIZATÓRIA. CAIXA ECONÔMICA FEDERAL. INTERESSE. INTERVENÇÃO. LIMITES E CONDIÇÕES. INCIDENTE DE PROCESSO REPETITIVO. ART. 543-C DO CPC.
+1. Nas ações envolvendo seguros de mútuo habitacional no âmbito do Sistema Financeiro Habitacional - SFH, a Caixa Econômica Federal - CEF - detém interesse jurídico para ingressar na lide como assistente simples somente nos contratos celebrados de 02.12.1988 a 29.12.2009 - período compreendido entre as edições da Lei nº 7.682/88 e da MP nº 478/09 - e nas hipóteses em que o instrumento estiver vinculado ao Fundo de Compensação de Variações Salariais - FCVS (apólices públicas, ramo 66).
+2. Ainda que compreendido no mencionado lapso temporal, ausente a vinculação do contrato ao FCVS (apólices privadas, ramo 68), a CEF carece de interesse jurídico a justificar sua intervenção na lide.
+3. O ingresso da CEF na lide somente será possível a partir do momento em que a instituição financeira provar documentalmente o seu interesse jurídico, mediante demonstração não apenas da existência de apólice pública, mas também do comprometimento do FCVS, com risco efetivo de exaurimento da reserva técnica do Fundo de Equalização de Sinistralidade da Apólice - FESA, colhendo o processo no estado em que este se encontrar no instante em que houver a efetiva comprovação desse interesse, sem anulação de nenhum ato anterior.
+4. Evidenciada desídia ou conveniência na demonstração tardia do seu interesse jurídico de intervir na lide como assistente, não poderá a CEF se beneficiar da faculdade prevista no art. 55, I, do CPC.
+5. Na hipótese específica dos autos, tendo o Tribunal Estadual concluído pela ausência de vinculação dos contratos de seguro ao FCVS, inexiste interesse jurídico da CEF para integrar a lide.
+6. Embargos de declaração parcialmente acolhidos, com efeitos infringentes. (EDcl nos EDcl no REsp n. 1.091.393/SC, relatora Ministra Maria Isabel Gallotti, relatora para o acórdão Ministra Nancy Andrighi, Segunda Seção, julgado em 10/10/2012, DJe de 14/12/2012.)
+Cito ainda as seguintes decisões monocráticas: CC n. 206.952/PR, relator Ministro Humberto Martins, DJe de 7/8/2024; CC n. 144.048/RS, relator Ministro Marco Aurélio Bellizze, DJe de 19/6/2019.
+Ante o exposto, conheço do conflito para declarar competente o Juízo de Direito da Vara Única de Ipaumirim (CE) , o suscitante.
+Comunique-se aos juízos envolvidos o teor desta decisão.
+Publique-se. Intimem-se.
+EMENTA
