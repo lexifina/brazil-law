@@ -1,0 +1,25 @@
+DECISÃO
+Trata-se de recurso ordinário em habeas corpus, com pedido de liminar, interposto em favor de ROBSON JOSÉ MEZZETE contra acórdão do Tribunal Regional Federal da 6ª Região, no HC n. 6010675-37.2025.4.06.0000/MG.
+Sustenta a defesa, em síntese, a existência de constrangimento ilegal decorrente da recusa do Ministério Público Federal em oferecer acordo de não persecução penal (ANPP) e da negativa judicial de remessa dos autos ao órgão superior da instituição, nos termos do art. 28-A, § 14, do Código de Processo Penal.
+Alega inexistir preclusão para a postulação defensiva e afirma que os fundamentos utilizados para o não oferecimento do acordo seriam genéricos e ilegais.
+Requer, liminarmente e no mérito, a anulação dos atos processuais praticados após o recebimento da denúncia e a determinação de remessa dos autos ao órgão de revisão do Ministério Público Federal para reavaliação da recusa.
+É o relatório.
+Decido.
+A pretensão liminar confunde-se com o próprio mérito do recurso. Como os autos se encontram suficientemente instruídos e a controvérsia é essencialmente de direito, é possível proceder desde logo ao exame do recurso ordinário, ficando prejudicado o pedido liminar.
+O recurso não comporta provimento.
+Inicialmente, cumpre registrar que o habeas corpus não se torna automaticamente inviável pela mera existência de recurso próprio. Ainda assim, não pode servir de via paralela para antecipar ou substituir discussão já devolvida ao instrumento processual adequado, salvo em hipóteses excepcionais de flagrante ilegalidade ou teratologia.
+No caso, conforme consignado no voto divergente proferido no acórdão recorrido, a controvérsia relativa à suposta nulidade decorrente da não submissão da recusa ministerial ao órgão revisional, bem como à validade dos fundamentos utilizados para o não oferecimento do acordo de não persecução penal, foi devolvida à instância ordinária em capítulo específico da apelação interposta contra a sentença condenatória.
+Nesse contexto, o manejo do habeas corpus na origem acabou por assumir feição de via paralela ao recurso cabível, circunstância que somente se justificaria diante de ilegalidade manifesta, de pronto verificável, o que não se evidencia.
+De todo modo, ainda que superado esse óbice, o recurso não merece prosperar.
+Conforme se extrai do acórdão recorrido, a recusa do Ministério Público Federal ao acordo de não persecução penal foi expressamente consignada na cota que acompanhou o oferecimento da denúncia. Não se está, portanto, diante de omissão ministerial, mas de manifestação motivada, cujo teor era plenamente conhecido pela defesa desde o início da ação penal.
+Apesar disso, a defesa não requereu, na primeira oportunidade em que se manifestou nos autos, a providência prevista no art. 28-A, § 14, do Código de Processo Penal. A questão somente voltou a ser suscitada nas alegações finais e, posteriormente, em embargos de declaração opostos contra a sentença condenatória, quando a instrução já havia sido integralmente desenvolvida.
+A conclusão do tribunal de origem, no sentido da ocorrência de preclusão, não destoa da orientação jurisprudencial mencionada no próprio acórdão recorrido.
+Com efeito, o Supremo Tribunal Federal, ao examinar a aplicação do ANPP em processos em curso, assentou que, embora seja possível discutir a celebração do acordo até antes do trânsito em julgado da condenação, a postulação defensiva deve observar o momento processual oportuno, sob pena de estabilização da controvérsia em razão da inércia da parte. No mesmo sentido caminham precedentes desta Corte, segundo os quais, se a defesa discordava da recusa ministerial, deveria ter acionado o mecanismo de revisão previsto no art. 28-A, § 14, do Código de Processo Penal no momento processual adequado.
+Também não se evidencia, na espécie, flagrante ilegalidade nos fundamentos utilizados para o não oferecimento do acordo.
+É certo que a legislação processual não estabelece nenhuma vedação abstrata à aplicação do acordo de não persecução penal aos crimes contra a ordem tributária. A jurisprudência desta Corte tem afirmado, inclusive, que a recusa ministerial não pode basear-se exclusivamente em argumentos genéricos sobre a natureza do delito ou em teses abstratas de política criminal.
+Todavia, na hipótese em exame, a recusa do Ministério Público Federal não se apoiou apenas na tese de incompatibilidade entre o ANPP e crimes tributários. Houve referência, também, à existência de outra ação penal em curso em face do acusado, circunstância apontada como indicativa de habitualidade delitiva.
+Nesse cenário, ainda que se possa discutir, em sede recursal própria, a consistência ou suficiência dessa motivação, não se está diante de negativa destituída de fundamentação ou manifestamente arbitrária a justificar a intervenção excepcional desta Corte pela via do habeas corpus.
+Assim, ausentes ilegalidade flagrante ou abuso de poder, não há como reconhecer constrangimento ilegal apto a ensejar a concessão da ordem.
+Ante o exposto, nego provimento ao recurso ordinário em habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
