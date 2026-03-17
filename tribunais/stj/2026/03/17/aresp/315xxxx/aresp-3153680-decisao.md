@@ -1,0 +1,32 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por JOSÉ SEVERINO DA SILVA contra decisão que inadmitiu recurso especial na origem.
+O recurso especial foi interposto contra acórdão assim ementado:
+DIREITO PROCESSUAL CIVIL E CONSUMIDOR. AGRAVO INTERNO. AÇÃO DECLARATÓRIA DE INEXISTÊNCIA DE CONTRATO C/C REPETIÇÃO DE INDÉBITO E INDENIZAÇÃO POR DANOS MORAIS E MATERIAIS. CONTRATAÇÃO DE CARTÃO DE CRÉDITO CONSIGNADO. LEGITIMIDADE DA C ONTRATAÇÃO COMPROVADA. AUSÊNCIA DE VÍCIO DE CONSENTIMENTO OU FALHA NA PRESTAÇÃO DO SERVIÇO. RECURSO DESPROVIDO.
+I. CASO EM EXAME
+1. Agravo Interno interposto pelo promovente contra decisão monocrática que desproveu apelação, mantendo sentença proferida pelo Juízo da 1ª Vara Mista da Comarca de Sapé, em ação declaratória de inexistência de contrato cumulada com repetição de indébito e indenização por danos morais e materiais, promovida em face do Banco Bradesco S. A. A sentença julgou improcedentes os pedidos autorais, condenando a parte autora ao pagamento de custas processuais e honorários advocatícios de 15% sobre o valor da causa, ressalvado o disposto no § 3º do art. 98 do CPC. O agravante busca reconsideração e provimento do recurso, alegando inexistência de contratação e ilegalidade dos descontos realizados, requerendo indenização por danos morais.
+II. QUESTÃO EM DISCUSSÃO
+2. Há duas questões centrais em discussão: (i) verificar a existência e validade do contrato de cartão de crédito consignado celebrado entre as partes, com os respectivos descontos realizados; e (ii) apurar eventual falha na prestação do serviço que justifique a indenização por danos morais.
+III. RAZÕES DE DECIDIR
+3. O Agravo Interno não possui como objetivo rediscutir matéria já analisada e decidida no acórdão anterior, devendo limitar-se a apontar erro ou omissão no julgado, o que não foi demonstrado pelo agravante.
+4. A contratação do cartão de crédito consignado foi devidamente comprovada pela instituição financeira, que juntou aos autos o termo de adesão assinado pelo consumidor, documentos que evidenciam o crédito disponibilizado em sua conta bancária e faturas que indicam a utilização regular do cartão.
+5. Não foi comprovada a alegada fraude ou qualquer vício de consentimento na celebração do contrato, sendo inverossímil a tese de desconhecimento ou ausência de adesão por parte do agravante, especialmente considerando o longo período de uso do cartão para saques e pagamentos.
+6. A inversão do ônus da prova, prevista no art. 6º, VIII, do Código de Defesa do Consumidor, foi corretamente aplicada, cabendo à instituição financeira demonstrar a legitimidade da contratação, o que foi realizado mediante a apresentação de provas robustas.
+7. A jurisprudência consolidada do Superior Tribunal de Justiça e desta Corte reconhece a regularidade de contratos de cartão de crédito consignado nos casos em que não há vício de consentimento ou má-fé por parte da instituição financeira (Súmula 297 do STJ).
+8. Não restou configurada falha na prestação do serviço por parte do banco promovido, nem ato ilícito que justifique a indenização por danos morais, conforme previsto no art. 186 do Código Civil.
+9. O agravante não apresentou argumentos novos ou provas aptas a modificar os fundamentos da decisão agravada, limitando-se a reiterar teses já analisadas e rejeitadas.
+IV. DISPOSITIVO E TESE
+10. Recurso desprovido.
+Dispositivos relevantes citados: CF/1988, art. 5º, XXXII; CDC, arts. 6º, VIII, e 14; CPC, art. 373; CC, art. 186.
+Jurisprudência relevante citada: STJ, Súmula 297; TJ-PB, Apelação Cível nº 0804354-16.2021.8.15.0031, Rel. Des. Aluizio Bezerra Filho, 2ª Câmara Cível, j. 06/03/2024.
+Os autos vieram conclusos para análise.
+É o relatório. Decido.
+O recurso especial possui como objeto questões submetidas a julgamento afetado à sistemática dos recursos repetitivos, a saber: "I) Definir parâmetros objetivos para a aferição da validade e eventual caráter abusivo dos contratos de cartão de crédito consignado, considerando: (i) o dever de prestar informações suficientes, claras e adequadas ao consumidor, em especial quando este alega que pretendia contratar simples empréstimo consignado; e (ii) o prolongamento indeterminado da dívida, ante a aparente insuficiência dos descontos mensais para amortizá-la, frente aos juros rotativos aplicados no refinanciamento do saldo. II) Em caso de invalidação do contrato, aferir se a consequência a ser adotada deverá ser a restituição das partes ao estado anterior, a conversão do contrato em empréstimo consignado ou a revisão das cláusulas contratuais, bem como se haverá configuração de dano moral in re ipsa." (REsps n. 2.224.599/PE, 2.215.851/RJ, 2.224.598/PE e 2.215.853/GO).
+Dessa forma, para que seja observada a sistemática prevista nos arts. 1.040 e 1.041 do CPC, impõe-se a devolução dos autos ao Tribunal de origem, conforme dispõe o art. 256-L do RISTJ:
+Art. 256-L. Publicada a decisão de afetação, os demais recursos especiais em tramitação no STJ fundados em idêntica questão de direito:
+I - se já distribuídos, serão devolvidos ao Tribunal de origem, para nele permanecerem suspensos, por meio de decisão fundamentada do relator;
+II - se ainda não distribuídos, serão devolvidos ao Tribunal de origem por decisão fundamentada do Presidente do STJ.
+Registre-se que, segundo a orientação jurisprudencial do STJ, o ato judicial que determina o sobrestamento e o retorno dos autos à corte de origem a fim de que seja exercido o competente juízo de retratação/conformação (arts. 1.040 e 1.041 do CPC) não tem carga decisória, por isso é provimento irrecorrível.
+Nesse sentido: AgInt no REsp n. 1.140.843/PR, relatora Ministra Regina Helena Costa, Primeira Turma, julgado em 23/10/2018, DJe de 30/10/2018; AgInt nos EDcl nos EREsp n. 1.126.385/MG, relator Ministro Og Fernandes, Primeira Seção, julgado em 13/9/2017, DJe de 20/9/2017; AgInt no REsp n. 1.663.877/SE, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 22/8/2017, DJe de 4/9/2017; e AgInt no REsp n. 1.661.811/SP, relator Ministro Luis Felipe Salomão, Quarta Turma, julgado em 26/6/2018, DJe de 29/6/2018.
+Ante o exposto, determino a restituição dos autos ao Tribunal de origem a fim de que fiquem sobrestados até o julgamento definitivo da matéria submetida à sistemática dos recursos repetitivos (Tema n. 1.414) e eventual retratação prevista nos arts. 1.040, II, e 1.041 do CPC.
+Publique-se. Intimem-se.
+ EMENTA
