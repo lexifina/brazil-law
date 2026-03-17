@@ -1,0 +1,16 @@
+DECISÃO
+Trata-se de habeas corpus ajuizado em nome de JORGE AUGUSTO DOS SANTOS, condenado por roubos majorados, em concurso formal, à pena de 8 anos de reclusão, em regime inicial fechado, mais 19 dias-multa (Apelação Criminal n. 0000062-19.2014.8.12.0041 - fls. 14/22).
+A impetrante aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DE MATO GROSSO DO SUL, que, em 23/10/2024, deu parcial provimento ao recurso de apelação para ajustar a fração de aumento das majorantes e redimensionar a pena.
+Alega, em síntese: a) prescrição da pretensão punitiva estatal, à luz da pena aplicada e do lapso decorrido entre os fatos e a condenação; b) insuficiência probatória para a condenação e nulidade do reconhecimento policial por inobservância do art. 226 do Código de Processo Penal; c) excesso na dosimetria, com a necessidade de fixação do mínimo legal para a pena-base, para as majorantes e para a pena de multa.
+Em caráter liminar, pede a suspensão dos efeitos da condenação. No mérito, pretende o reconhecimento de ofício da prescrição, ou a absolvição por insuficiência de provas, ou, ainda, a readequação da pena.
+É o relatório.
+O presente writ é incabível, por consubstanciar inadequada substituição ao recurso próprio a ser dirigido ao Superior Tribunal de Justiça.
+De toda maneira, inexiste ilegalidade flagrante que justifique a concessão de habeas corpus de ofício e a consequente superação do óbice constatado.
+Quanto à prescrição da prescrição punitiva, além de a questão não ter sido previamente debatida pela instância de origem, não se verificou o decurso do prazo de 12 anos entre os fatos (12/6/2009) e o recebimento da denúncia (3/12/2013 - fl. 28), ou entre este e a sentença (18/1/2024).
+No tocante ao pedido de absolvição, a tese de nulidade do reconhecimento pessoal tampouco foi objeto de discussão na origem, sendo inadmissível a supressão de instância, e a pretensa revisão do julgado, com vistas a perquirir sobre provas da autoria, não se coaduna com a estreita via do habeas corpus, dada a necessidade de profundo reexame de fatos e provas (AgRg no HC n. 834.062/SP, Ministro Jesuíno Rissato (Desembargador convocado do TJDFT), Sexta Turma, DJe 30/11/2023), sobretudo quando indicado no acórdão que houve delação, em juízo, pelo corréu, a qual é isenta, circunstanciada e harmônica com as demais provas orais colhidas em juízo e com o contexto que se extrai dos autos, merecendo elevado valor probatório (fl. 19).
+Por fim, relativamente à dosimetria, a pena foi corretamente exasperada na primeira fase em razão da existência de maus antecedentes, retornando ao mínimo na segunda fase pela aplicação da atenuante da confissão; e o aumento na terceira fase, mesmo na presença de duas majorantes - uso de arma de fogo e concurso de agentes -, limitou-se ao mínimo de 1/3; inexistindo reparos a serem feitos.
+Ante o exposto, indefiro liminarmente o habeas corpus.
+Publique-se.
+EMENTA
+HABEAS CORPUS SUBSTITUTIVO. DESCABIMENTO. ART. 157, § 2º, I E II, DO CP. PRESCRIÇÃO DA PRETENSÃO PUNITIVA, INSUFICIÊNCIA DE PROVAS E EXCESSO N A DOSIMETRIA. IMPOSSIBILIDADE DE ANÁLISE DE TEMAS QUE DEMANDAM REEXAME FÁTICO-PROBATÓRIO OU QUE CONFIGURAM SUPRESSÃO DE INSTÂNCIA. AUSÊNCIA DE MANIFESTA ILEGALIDADE APTA DE SER REPARADA PELA VIA ELEITA.
+Writ indeferido liminarmente.
