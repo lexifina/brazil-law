@@ -1,0 +1,58 @@
+DECISÃO
+Cuida-se de agravo interposto por COMLURB - COMPANHIA MUNICIPAL DE LIMPEZA URBANA contra decisão que obstou a subida de recurso especial.
+Extrai-se dos autos que a parte agravante interpôs recurso especial, com fundamento no art. 105, III, alíneas "a" e "c", da Constituição Federal, contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO DE JANEIRO cuja ementa guarda os seguintes termos (fls. 919-922):
+DIREITO DO CONSUMIDOR. APELAÇÕES CÍVEIS. ACIDENTE EM TRANSPORTE COLETIVO. RESPONSABILIDADE OBJETIVA. DANOS MORAIS E ESTÉTICOS. VERBAS COMPENSATÓRIAS MAJORADAS. RECURSO DA AUTORA PARCIALMENTE PROVIDO. IMPROVIDO O RECURSO DA RÉ.
+I. CASO EM EXAME
+1. A causa. Ação de responsabilidade civil ajuizada por passageira de transporte coletivo em face da empresa operadora de ônibus e da Companhia Municipal de Limpeza Urbana - COMLURB, em razão de lesões sofridas após colisão entre o ônibus em que se encontrava e caminhão de coleta de lixo.
+2. Decisão anterior. Sentença de primeiro grau que julgou parcialmente procedente o pedido, reconhecendo a responsabilidade objetiva das rés, e condenando-as solidariamente ao pagamento de indenização de R$ 8.000,00 por danos morais e R$ 2.000,00 por danos estéticos, além das custas processuais e honorários advocatícios.
+3. Recurso. A autora interpôs apelação visando à majoração das verbas compensatórias por danos morais e estéticos, argumentando que os valores arbitrados são irrisórios diante da gravidade das lesões. A COMLURB apelou buscando a exclusão de sua responsabilidade, suscitando preliminares e, subsidiariamente, requerendo a redução das verbas compensatórias fixadas.
+II. QUESTÃO EM DISCUSSÃO
+4. As questões em discussão consistem em (i) saber se a ré COMLURB pode ser responsabilizada objetivamente pelos danos causados pelo caminhão de coleta, e (ii) saber se os valores fixados a título de compensação por danos morais e estéticos devem ser mantidos, majorados ou reduzidos.
+III. RAZÕES DE DECIDIR
+5. Preliminares afastadas. Rejeita-se a arguição de ilegitimidade passiva da COMLURB com base na teoria da asserção, diante da narrativa da inicial que lhe imputa responsabilidade. Também se afasta a pretensão de denunciação da lide à empresa terceirizada, nos termos do art. 88 do CDC e da Súmula nº 92 do TJRJ, por tratar-se de relação de consumo, na qual é vedada a intervenção de terceiros.
+6. Responsabilidade da COMLURB. Comprovou-se que o caminhão envolvido no acidente ostentava identificação da COMLURB, integrando, portanto, a prestação de serviço público essencial. Ainda que a operação tenha sido realizada por empresa terceirizada, subsiste a responsabilidade objetiva da fornecedora de serviços, nos termos dos arts. 7º, parágrafo único, 14 e 25, § 2º do CDC. A omissão da ré em desconstituir sua vinculação ao veículo e ao condutor reforça sua responsabilização solidária.
+7. Nexo de causalidade e comprovação do dano. O nexo causal foi demonstrado por meio do BRAT, termo circunstanciado e fotografias, que comprovam que o coletivo, parado no ponto, foi atingido na traseira por caminhão vinculado à COMLURB, no momento em que a autora descia do ônibus. A autora sofreu fratura exposta na perna esquerda, conforme laudo pericial, sendo submetida a cirurgia, internação hospitalar e fisioterapia. Prova técnica que atesta o nexo de causalidade técnico. O conjunto probatório confirma o acidente, a vinculação do caminhão à ré e a relação direta entre a conduta das rés e os danos físicos e experimentados pela autora.
+8. Dano moral. Restou demonstrado que a autora sofreu fratura exposta no membro inferior esquerdo, necessitando de internação hospitalar, cirurgia com colocação de placa e parafusos, além de prolongado período de imobilização e fisioterapia. O sofrimento, a limitação funcional e a alteração da rotina pessoal e familiar configuram dano moral de intensidade significativa. A verba fixada em primeiro grau mostra-se insuficiente à função reparatória e pedagógica da indenização, devendo ser majorada para R$ 15.000,00.
+9. Dano estético. O laudo pericial descreve cicatrizes permanentes de 12 cm e 20 cm na perna da autora, visíveis e incompatíveis com a normalidade do corpo humano. Considerando o grau médio de deformidade (atestado pela prova pericial), o local aparente das marcas e a relevância da integridade física na autoestima da vítima, justifica-se a majoração da indenização para R$ 5.000,00.
+IV. DISPOSITIVO
+10. Recurso autoral parcialmente provido. Recurso da ré improvido.
+Rejeitados os embargos de declaração opostos (fls. 990-991).
+No recurso especial (fls. 1.015-1.025), a parte recorrente alega violação dos artigos 88 do Código de Defesa do Consumidor; 373, I, do Código de Processo Civil; e 186 e 927 do Código Civil.
+Sustenta, em síntese, a inaplicabilidade do Código de Defesa do Consumidor ao caso, argumentando que a relação jurídica estabelecida não se caracteriza como de consumo. Defende que o serviço de limpeza urbana é de natureza compulsória e remunerado por meio de taxa, e não tarifa, o que afastaria a incidência da legislação consumerista. Com base nesse argumento, pugna pela possibilidade de denunciação da lide à empresa terceirizada, que seria a real responsável pelo evento danoso, e alega que o indeferimento dessa intervenção cerceou seu direito de defesa. Aponta, ainda, violação ao art. 373, I, do CPC, por entender que houve inversão indevida do ônus da prova, e aos arts. 186 e 927 do CC, pela ausência de comprovação do nexo de causalidade entre sua conduta e o dano sofrido pela recorrida.
+Aponta divergência jurisprudencial com arestos de outros tribunais e desta Corte.
+Sem contrarrazões ao recurso especial (fl. 1.055).
+Sobreveio juízo de admissibilidade negativo na instância de origem (fls. 1.057-1.063), com fundamento na Súmula n. 7/STJ, o que ensejou a interposição do presente agravo (fls. 1.080-1.088).
+Sem contraminuta do agravo.
+É, no essencial, o relatório.
+Da admissibilidade do agravo
+Verifica-se que a parte agravante impugnou especificamente os fundamentos da decisão de inadmissibilidade, notadamente a aplicação da Súmula n. 7/STJ. Sustenta a agravante que a controvérsia é de natureza puramente jurídica, consistente na qualificação da relação entre as partes e na correta aplicação da legislação federal, o que afastaria a necessidade de reexame fático-probatório.
+Assim, presentes os pressupostos de admissibilidade, conheço do agravo e passo à análise do recurso especial.
+Da alegada violação da legislação federal
+A controvérsia central do recurso especial reside em definir a natureza jurídica da relação que envolveu as partes, para fins de aplicação do Código de Defesa do Consumidor e, consequentemente, da vedação à denunciação da lide.
+O Tribunal de origem concluiu pela incidência da legislação consumerista, enquadrando a autora como consumidora por equiparação (art. 17 do CDC) e, com base nisso, aplicou o art. 88 do CDC e a Súmula n. 92/TJRJ para vedar a denunciação da lide. A recorrente, por sua vez, sustenta que a relação é de natureza administrativa, e não de consumo, pois o serviço de limpeza urbana é custeado por taxa, o que afastaria a aplicação do CDC.
+Apesar dos argumentos da recorrente, o acórdão recorrido não merece reparo.
+A questão deve ser analisada a partir do evento danoso em sua integralidade. A autora, ora recorrida, era passageira de um transporte coletivo operado pela empresa VIAÇÃO PAVUNENSE S.A., caracterizando uma relação de consumo primária, fundamentada em um contrato de transporte.
+O acidente, uma colisão entre o ônibus e um caminhão a serviço da COMLURB, configura um fato do serviço, nos termos do art. 14 do Código de Defesa do Consumidor, que estabelece a responsabilidade objetiva do fornecedor de serviços.
+Em casos de acidente de consumo (fato do serviço), a responsabilidade é solidária entre todos os que participaram da cadeia de fornecimento ou que, de alguma forma, contribuíram para a ocorrência do dano.
+Nesse sentido:
+DIREITO DO CONSUMIDOR. AGRAVO EM RECURSO ESPECIAL. RESPONSABILIDADE CIVIL. ACIDENTE EM PORTA ELETRÔNICA DE ESTACIONAMENTO DE SHOPPING CENTER. LEGITIMIDADE PASSIVA. RESPONSABILIDADE SOLIDÁRIA. EXCLUDENTE DE RESPONSABILIDADE. RECURSO NÃO PROVIDO.
+I. Caso em exame
+1. Agravo em recurso especial interposto por condomínio de shopping center contra decisão que inadmitiu recurso especial fundamentado no art. 105, III, "a", da Constituição Federal, em ação de indenização por danos materiais e morais decorrentes de acidente causado por falha no funcionamento de porta eletrônica de estacionamento.
+2. O acórdão recorrido reconheceu a legitimidade passiva do condom ínio e sua responsabilidade objetiva pelos danos causados à consumidora, afastando a excludente de responsabilidade prevista no art. 14, § 3º, II, do Código de Defesa do Consumidor.
+3. Os embargos de declaração opostos foram rejeitados, e o recurso especial foi inadmitido na origem, ensejando a interposição do presente agravo.
+II. Questão em discussão
+4. Há duas questões em discussão: (i) saber se houve negativa de prestação jurisdicional por omissão no enfrentamento da tese de ilegitimidade passiva e da excludente de responsabilidade prevista no art. 14, § 3º, II, do Código de Defesa do Consumidor; e (ii) saber se a responsabilidade solidária do condomínio na cadeia de consumo foi corretamente reconhecida, considerando a alegação de culpa exclusiva de terceiro.
+III. Razões de decidir
+5. O acórdão recorrido apreciou de forma clara e suficiente as questões relevantes, fundamentando a legitimidade passiva do recorrente pela pertinência subjetiva decorrente de o evento ter ocorrido nas dependências do shopping, pela existência de vínculo negocial com a consumidora e pelo dever de segurança imposto ao fornecedor, com aplicação do art. 14 do Código de Defesa do Consumidor.
+6. A jurisprudência consolidada do Superior Tribunal de Justiça entende que a responsabilidade do fornecedor é objetiva em casos de defeito na prestação do serviço, desde que demonstrado o nexo causal entre o defeito e o acidente de consumo, sendo solidária entre os fornecedores da mesma cadeia de consumo.
+7. A revisão do entendimento do acórdão recorrido quanto à legitimidade passiva e à responsabilidade solidária demandaria reexame de provas e cláusulas contratuais, providência vedada em sede de recurso especial pela Súmula 7 do STJ.
+IV. Dispositivo e tese
+Agravo conhecido para negar provimento ao recurso especial.
+(AREsp n. 2.763.916/MG, relator Ministro Raul Araújo, Quarta Turma, julgado em 16/12/2025, DJEN de 19/12/2025).
+Dessa forma, a discussão sobre a natureza da remuneração do serviço de limpeza urbana (taxa ou tarifa) torna-se secundária. A COMLURB, ao ter um veículo a seu serviço envolvido no acidente de consumo, é atraída para a relação jurídica regida pelo CDC, respondendo solidariamente perante a consumidora pelos danos causados.
+O acórdão do Tribunal de Justiça do Rio de Janeiro, ao aplicar o Código de Defesa do Consumidor à hipótese e, por consequência, vedar a denunciação da lide, alinhou-se à jurisprudência consolidada deste Superior Tribunal de Justiça.
+Incide, portanto, o óbice da Súmula n. 83/STJ, que dispõe: "Não se conhece do recurso especial pela divergência, quando a orientação do Tribunal se firmou no mesmo sentido da decisão recorrida". Tal enunciado é aplicável tanto para os recursos interpostos com fundamento na alínea "c" quanto na alínea "a" do permissivo constitucional.
+Ante o exposto, conheço do agravo para negar provimento ao recurso especial interposto por COMLURB - COMPANHIA MUNICIPAL DE LIMPEZA URBANA.
+Deixo de majorar os honorários advocatícios, visto que já foram fixados na origem no patamar máximo de 20% (fl. 924).
+Publique-se. Intimem-se.
+EMENTA
