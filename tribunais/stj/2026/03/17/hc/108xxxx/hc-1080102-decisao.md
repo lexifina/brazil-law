@@ -1,0 +1,82 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em benefício de IVAN MARINÔNIO DA ROSA SANTOS, contra acórdão proferido pelo TRIBUNAL REGIONAL FEDERAL DA 4ª REGIÃO no julgamento da Apelação Criminal n. 5063629-79.2022.4.04.7100/RS.
+Extrai-se dos autos que o paciente foi condenado à pena de 5 anos, 9 meses e 10 dias de reclusão, no regime inicial semiaberto, além do pagamento de 303 dias-multa, pela prática de crimes tipificados no art. 1º, I, da Lei n. 8.137/1990, por duas vezes, uma delas na forma do art. 71 do Código Penal - CP, em concurso material.
+O Tribunal de origem negou provimento à apelação interposta pelo paciente, em acórdão assim ementado (fls. 67/68):
+"DIREITO PENAL. APELAÇÃO CRIMINAL. CRIMES CONTRA A ORDEM TRIBUTÁRIA. SONEGAÇÃO FISCAL. MATERIALIDADE E AUTORIA COMPROVADAS. DOLO. DOSIMETRIA DA PENA. RECURSO DESPROVIDO.
+I. CASO EM EXAME:
+1. Apelação criminal interposta contra sentença que condenou o réu pela prática de crimes contra a ordem tributária, tipificados no art. 1º, inc. I, da Lei nº 8.137/1990, por duas vezes (uma delas na forma do art. 71 do CP, em concurso material), à pena privativa de liberdade de 05 anos, 09 meses e 10 dias de reclusão, em regime inicial semiaberto, e à pena de multa. O réu alega insuficiência de provas para a condenação, inexistência de materialidade para o fato 01 (ano-calendário de 2013) devido ao arbitramento de lucro, e subsidiariamente requer a fixação da pena no mínimo legal e a redução da fração de aumento para o crime continuado. Pleiteia, ainda, a suspensão do feito em razão do parcelamento das dívidas ativas.
+II. QUESTÃO EM DISCUSSÃO:
+2. Há quatro questões em discussão: (i) a possibilidade de suspensão da ação penal em virtude do parcelamento do débito tributário; (ii) a validade do lançamento por arbitramento como prova da materialidade do crime de sonegação fiscal; (iii) a suficiência das provas para a comprovação da autoria e do dolo do réu; e (iv) a correção da dosimetria da pena, incluindo a pena-base e a fração de aumento pela continuidade delitiva.
+III. RAZÕES DE DECIDIR:
+3. A pretensão de suspensão da ação penal é desacolhida, pois a Lei nº 12.382/2011, que alterou o art. 83, § 2º, da Lei nº 9.430/1996, restringe a suspensão do processo penal aos casos em que o parcelamento do débito tributário tenha sido formalizado antes do recebimento da denúncia. No presente caso, os créditos tributários foram definitivamente constituídos em 2018 e a denúncia foi recebida em 25/01/2023, sendo o parcelamento posterior, o que impede a suspensão.
+4. A materialidade do delito referente ao fato 01 (ano-calendário de 2013) é mantida. O lançamento por arbitramento, conforme o art. 148 do CTN, é uma técnica legítima para apuração do tributo quando o contribuinte omite ou apresenta irregularidades em suas declarações, como a não apresentação de Livros Caixa e Contábeis, mesmo após intimações. A apuração da Receita Federal baseou-se em elementos concretos como notas fiscais e DIRF"s, e a discussão sobre os parâmetros de arbitramento é incabível na esfera penal, conforme jurisprudência do TRF4.
+5. A autoria dos delitos é mantida, pois restou demonstrado que o réu era o responsável pela administração e efetiva gestão da empresa à época dos fatos. A responsabilidade pelas declarações prestadas ao Fisco recai sobre o administrador, mesmo que a contabilidade seja terceirizada, uma vez que ele detém o poder de decisão sobre as informações fornecidas, e a conduta de sonegação aproveita diretamente o contribuinte.
+6. O dolo é considerado patente e mantido. O crime de sonegação fiscal exige dolo genérico, caracterizado pela vontade livre e consciente de suprimir ou reduzir tributos. A omissão de receitas e a prestação de declarações falsas, visando a redução de pagamentos e a obtenção de certidões negativas, demonstram a intenção do réu. A alegação de desconhecimento ou erro não se sustenta diante das evidências, do histórico do réu e da conduta deliberada de zerar campos em GFIP"s para simular isenção indevida.
+7. É legítima a exasperação da pena-base quando as consequências do crime são negativas, adotando-se o parâmetro jurisprudencial de valores sonegados superiores a R$ 100.000,00 (cem mil reais) para negativar a vetorial do art. 59 do Código Penal, conforme entendimento do TRF4. A fração de aumento pela continuidade delitiva deve observar o número de infrações cometidas (mais de 20 meses), aplicando-se a fração de 2/3 (dois terços) quando o número de delitos for igual ou superior a sete, conforme a Súmula 659 do STJ.
+8. Pena de Multa (Revisão de Ofício): A quantidade de dias-multa deve guardar estrita proporcionalidade com a sanção corporal definitivamente imposta, considerando todas as fases da dosimetria, inclusive o reflexo da continuidade delitiva. Constatada a desproporcionalidade na fixação da sentença, impõe-se a redução de ofício do quantitativo de dias-multa para adequá-lo à pena privativa de liberdade, devendo ser reduzida para 29 (vinte e nove) dias-multa em relação ao fato 1.
+9. Mantido o regime inicial semiaberto para penas superiores a 4 anos e a impossibilidade de substituição por penas restritivas de direitos, nos termos dos artigos 33 e 44 do Código Penal.
+IV. DISPOSITIVO E TESE:
+10. Recurso desprovido.
+Tese de julgamento: 11. A materialidade do crime de sonegação fiscal pode ser comprovada por arbitramento de lucro quando o contribuinte omite informações, e a autoria recai sobre o administrador da empresa que detinha o poder de gestão, sendo o dolo genérico e as consequências do crime (valor sonegado) justificam a exasperação da pena-base."
+Os embargos de declaração opostos pelo paciente foram rejeitados, nos termos do acórdão de fls. 17/38.
+No presente writ, a defesa sustenta a manifesta ilegalidade da persecução penal diante da inclusão do débito tributário em programa de parcelamento, circunstância que suspende a pretensão punitiva estatal relativamente aos crimes contra a ordem tributária, nos termos do art. 9º da Lei n. 10.684/2003.
+Argui a incompatibilidade entre a manutenção da ação penal e o modelo de Direito Penal tributário orientado pela intervenção mínima e pela subsidiariedade da sanção penal, evidenciando ausência de justa causa para a continuidade do processo criminal durante a vigência de parcelamento válido.
+Aduz que a interpretação que condiciona a suspensão da pretensão punitiva à anterioridade do parcelamento em relação ao recebimento da denúncia contraria a finalidade da norma e afronta os princípios da proporcionalidade e da política criminal voltada à regularização fiscal.
+Afirma que a persecução penal não pode subsistir quando a política legislativa prioriza a recuperação do crédito tributário, reconhecendo efeitos penais ao parcelamento regularmente formalizado, razão pela qual deve ser sustada enquanto perdurar o adimplemento.
+Requer, em liminar, a suspensão da Ação Penal n. 5063629-79.2022.4.04.7100/RS e de todos os atos processuais enquanto vigente o parcelamento tributário e, no mérito, a concessão da ordem para reconhecer a incidência do art. 9º da Lei n. 10.684/2003, com a suspensão da pretensão punitiva estatal durante o cumprimento do parcelamento; subsidiariamente, o trancamento da ação penal por ausência de justa causa.
+É o relatório.
+Decido.
+Diante da hipótese de habeas corpus substitutivo de recurso próprio, a impetração sequer deveria ser conhecida, segundo orientação jurisprudencial do Supremo Tribunal Federal e do próprio Superior Tribunal de Justiça.
+Todavia, considerando as alegações expostas na inicial, razoável o processamento do feito para verificar a existência de eventual constrangimento ilegal que justifique a concessão da ordem de ofício.
+No que concerne ao ponto controvertido apresentado no presente mandamus, o Tribunal de origem assim se manifestou (fls. 70/71):
+"Suspensão da ação penal e parcelamento
+A consumação de crime material contra a ordem tributária ocorre no momento da constituição definitiva do crédito tributário, nos termos da Súmula Vinculante nº 24.
+O crédito tributário referente aos fatos imputados ao autor foram definitivamente constituídos em 30/03/2018 e 25/09/2018, respectivamente (ANEXO ELETRÔNICO - PROCADM 365 e evento 1, ANEXO4, fl.157).
+Assim, aplica-se a Lei 12.382/2011, que alterou o artigo 83, § 2º, da Lei 9.430/1996, restringindo a possibilidade de suspensão do processo penal para os casos em que o parcelamento tiver sido formalizado antes do recebimento da denúncia:
+ ..
+De outro lado, a Lei 13.988/2020, nada dispôs acerca do reflexo do parcelamento do débito tributário no âmbito criminal, vigendo, assim, a regra geral prevista no artigo 83, § 2º, da Lei 9.430/1996.
+Desta forma, não há falar em suspensão da pretensão punitiva.
+Da leitura dos excertos, verifica-se que a suspensão da pretensão punitiva foi afastada em virtude de o parcelamento do débito tributário que deu ensejo à persecução penal ter ocorrido apenas após o recebimento da denúncia - orientação esta que se encontra em perfeita harmonia com a mais recente jurisprudência desta Corte Superior acerca do tema.
+A propósito, confiram-se os recentes julgados:
+DIREITO PROCESSUAL PENAL. EMBARGOS DE DECLARAÇÃO. ALEGAÇÃO DE OMISSÃO. PEDIDO DE PARCELAMENTO TRIBUTÁRIO. SUSPENSÃO DA PRETENSÃO PUNITIVA. EMBARGOS REJEITADOS.
+I. CASO EM EXAME
+1. Embargos de declaração opostos contra acórdão que negou provimento a agravo regimental, sob alegação de omissões no julgado, com pedido de juízo de integração para fins de prequestionamento.
+2. O embargante sustenta que o pedido de parcelamento tributário, mesmo realizado após o recebimento da denúncia, deveria suspender a exigibilidade do crédito tributário e, consequentemente, a pretensão punitiva estatal, nos termos do art. 151, inciso VI, do CTN e da Súmula Vinculante 24 do STF. Alega ainda tratamento anti-isonômico entre contribuintes em situações equivalentes, com violação ao art. 5º da CF e ao art. 8.2 do Pacto de San José da Costa Rica.
+II. QUESTÃO EM DISCUSSÃO
+3. Há três questões em discussão: (i) saber se o pedido de parcelamento tributário, mesmo realizado após o recebimento da denúncia, configura causa suspensiva da exigibilidade do crédito tributário e da pretensão punitiva estatal; (ii) saber se a Súmula Vinculante 24 do STF autoriza a suspensão da pretensão punitiva em razão do pedido de parcelamento tributário realizado após o recebimento da denúncia; (iii) saber se há tratamento anti-isonômico entre contribuintes que formalizam o parcelamento antes e após o recebimento da denúncia, com violação ao art. 5º da CF e ao art. 8.2 do Pacto de San José da Costa Rica.
+III. RAZÕES DE DECIDIR
+4. Os embargos de declaração são cabíveis apenas para sanar vícios específicos da decisão embargada, como obscuridade, contradição, omissão ou erro material, nos termos do art. 619 do Código de Processo Penal.
+5. Não há omissão na decisão embargada, que enfrentou expressamente a questão do pedido de parcelamento tributário, consignando que a suspensão da pretensão punitiva estatal é juridicamente inviável quando o parcelamento é solicitado após o recebimento da denúncia, conforme art. 83, § 2º, da Lei nº 9.430/1996.
+6. A Lei nº 13.988/2020, que regula a transação tributária, não prevê a suspensão da pretensão punitiva ou da exigibilidade do crédito tributário durante a mera propositura do acordo, conforme disposto no art. 12 da referida lei.
+7. A Súmula Vinculante 24 do STF trata da condição objetiva de punibilidade para a tipificação do crime tributário, qual seja, o lançamento definitivo do tributo, e não da suspensão da pretensão punitiva após o recebimento da denúncia.
+8. A legislação específica estabelece tratamento uniforme para todos os contribuintes, condicionando a suspensão da pretensão punitiva à formalização do parcelamento antes do recebimento da denúncia, não havendo tratamento anti-isonômico.
+9. A alegação de inconstitucionalidade do art. 83, § 2º, da Lei nº 9.430/1996 não configura omissão do julgado, sendo matéria de controle abstrato de constitucionalidade, de competência do Supremo Tribunal Federal.
+10. O critério temporal estabelecido pela legislação vigente possui racionalidade jurídica, visando evitar que o parcelamento seja utilizado como expediente protelatório após o início da persecução penal.
+IV. Dispositivo e tese
+11. Resultado do Julgamento: Embargos de declaração rejeitados.
+Tese de julgamento:
+1. A suspensão da pretensão punitiva do Estado em razão de parcelamento tributário somente é admitida quando o parcelamento é formalizado antes do recebimento da denúncia criminal, nos termos do art. 83, § 2º, da Lei nº 9.430/1996.
+2. A proposta de transação tributária não suspende a exigibilidade dos créditos tributários nem o andamento das respectivas execuções fiscais, conforme art. 12 da Lei nº 13.988/2020.
+3. A Súmula Vinculante 24 do STF não autoriza a suspensão da pretensão punitiva após o recebimento da denúncia, tratando apenas da condição objetiva de punibilidade para a tipificação do crime tributário.
+4. O critério temporal para a suspensão da pretensão punitiva em razão de parcelamento tributário possui racionalidade jurídica e não configura tratamento anti-isonômico.
+(EDcl no AgRg no AREsp n. 2.921.719/SP, relator Ministro Messod Azulay Neto, Quinta Turma, julgado em 9/12/2025, DJEN de 16/12/2025.)
+DIREITO PENAL. AGRAVO REGIMENTAL. SUSPENSÃO DA AÇÃO PENAL POR ADESÃO A PARCELAMENTO DE DÉBITO TRIBUTÁRIO. RECURSO DESPROVIDO.
+I. CASO EM EXAME
+1. Agravo regimental interposto contra decisão que não conheceu de recurso especial, em razão da ausência de demonstração de similitude fática e dissenso jurisprudencial, nos moldes exigidos pelo art. 1.029, § 1º, do CPC c.c. o art. 3º do Código de Processo Penal e o art. 255, § 1º, do RISTJ.
+2. A parte agravante alegou, em sede de agravo, a suspensão da punibilidade pela adesão ao parcelamento do débito tributário e a retroatividade da extinção do voto de qualidade do presidente do CARF, além de questionar a titularidade das contas bancárias e a ausência de intimação do cotitular das contas.
+II. QUESTÃO EM DISCUSSÃO
+3. Há três questões em discussão: (i) saber se a adesão ao parcelamento do débito tributário após o recebimento da denúncia enseja a suspensão da ação penal; (ii) saber se a extinção do voto de qualidade do presidente do CARF, revogado pela Lei n. 14.689/2023, pode retroagir para alcançar o caso em análise; e (iii) saber se a ausência de intimação do cotitular das contas bancárias impede a responsabilização penal dos titulares das contas.
+III. RAZÕES DE DECIDIR
+4. A adesão ao parcelamento do débito tributário para fins de suspensão da ação penal deve ocorrer antes do recebimento da denúncia, conforme o art. 83, § 2º, da Lei n. 9.430/1996. No caso, a adesão ocorreu após o recebimento da denúncia, em descumprimento ao referido dispositivo legal.
+5. A retroatividade da extinção do voto de qualidade do presidente do CARF não pode ser analisada na esfera penal, pois a discussão sobre nulidades no procedimento administrativo-fiscal deve ser realizada na esfera cível, em razão da independência das instâncias de responsabilização cível e penal.
+6. A ausência de intimação do cotitular das contas bancárias não impede a responsabilização penal dos titulares das contas, pois a responsabilidade pela comprovação da origem dos valores depositados recai sobre cada titular, nos termos do art. 42, § 6º, da Lei n. 9.430/1996.
+7. A análise da titularidade das contas bancárias e da participação da agravante nas movimentações financeiras demandaria amplo revolvimento do conjunto fático-probatório, o que é vedado em sede de recurso especial, conforme o óbice da Súmula n. 7/STJ.
+8. A ausência de cotejo analítico nos moldes exigidos pelo art. 1.029, § 1º, do CPC c.c. o art. 3º do Código de Processo Penal e o art. 255, § 1º, do RISTJ inviabiliza o conhecimento do recurso especial pela alínea "c" da previsão constitucional.
+IV. DISPOSITIVO E TESE
+9. Resultado do Julgamento: Agravo regimental desprovido.
+(AgRg nos EDcl no AREsp n. 2.140.676/SP, relator Ministro Carlos Pires Brandão, Sexta Turma, julgado em 11/2/2026, DJEN de 20/2/2026.)
+Ausente, portanto, qualquer constrangimento ilegal que justifique a concessão da ordem de ofício.
+Ante o exposto, com fundamento no art. 210 do Regimento Interno do Superior Tribunal de Justiça - RISTJ, indefiro liminarmente o presente habeas corpus.
+Publique-se.
+Intimem-se.
+EMENTA
