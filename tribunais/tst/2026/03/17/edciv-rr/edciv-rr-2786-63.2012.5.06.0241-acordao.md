@@ -1,0 +1,142 @@
+Poder Judiciário
+Justiça do Trabalho
+Tribunal Superior do Trabalho
+PROCESSO Nº TST-EDCiv-RR - 2786-63.2012.5.06.0241
+A C Ó R D Ã O
+2ª Turma
+GMDMA/IA
+EMBARGOS DE DECLARAÇÃO DA PRIMEIRA RECLAMADA EM
+RECURSO DE REVISTA REGIDOS PELA LEI 13.467/2017. GRUPO
+ECONÔMICO. REDIRECIONAMENTO DA EXECUÇÃO CONTRA
+EMPRESA QUE NÃO PARTICIPOU DO PROCESSO DE
+CONHECIMENTO. TESE FIRMADA PELO SUPREMO TRIBUNAL
+FEDERAL NO JULGAMENTO DO RE 1.387.795. TEMA 1.232 DE
+REPERCUSSÃO GERAL. VÍCIOS NÃO CONFIGURADOS. 1 –
+Adotou-se na decisão embargada o entendimento firmado pelo
+Supremo Tribunal Federal no julgamento do Tema 1.232 de
+repercussão geral, em que foi fixada a tese vinculante no
+sentido de que o cumprimento da sentença trabalhista não
+poderá ser promovido em face de empresa que não tiver
+participado da fase de conhecimento do processo, salvo nos
+casos em que o redirecionamento da execução trabalhista ao
+terceiro que não participou do processo de conhecimento esteja
+alicerçado em sucessão empresarial (art. 448-A da CLT) ou em
+abuso da personalidade jurídica (art. 50 do CC), observado o
+procedimento previsto no art. 855-A da CLT e nos arts. 133 a 137
+do CPC, o que não é a hipótese dos autos, não se cogitando,
+portanto, de omissão no acórdão embargado. Embargos de
+declaração conhecidos e não providos.
+Vistos, relatados e discutidos estes autos de Embargos de Declaração Cível em
+Recurso de Revista nº TST-EDCiv-RR-2786-63.2012.5.06.0241, em que é Embargante ADVANCE
+CONSTRUÇÕES E PARTICIPAÇÕES LTDA. e são Embargados D.A.G. CONSTRUTORA LTDA., NOVONOR
+S.A e SEVERINO CLEMENTINO DA SILVA.
+A 2.ª Turma deu provimento ao recurso de revista da empresa Novonor S.A para
+excluí-la do polo passivo da execução.
+A primeira reclamada opõe embargos de declaração. Alega a existência de
+omissão. Pugna pela aplicação de efeito modificativo ao julgado.
+É o relatório.
+V O T O
+1 - CONHECIMENTO
+Preenchidos os requisitos legais de admissibilidade, CONHEÇO dos embargos de
+declaração.
+2 – MÉRITO
+A 2.ª Turma deu provimento ao recurso de revista da empresa Novonor S.A para
+excluí-la do polo passivo da execução.
+Eis os fundamentos adotados no acórdão embargado:
+o Supremo Tribunal Federal, em recente decisão, ao julgar o RE 1.387.795 (Tema 1.232 de
+repercussão geral), acórdão publicado em 10/12/2025, deu-lhe provimento para excluir a recorrente
+do polo passivo da execução e fixou a seguinte tese:
+“1 - O cumprimento da sentença trabalhista não poderá ser promovido em face de
+empresa que não tiver participado da fase de conhecimento do processo, devendo o
+reclamante indicar na petição inicial as pessoas jurídicas corresponsáveis solidárias
+Este documento pode ser acessado no endereço eletrônico http://www.tst.jus.br/validador sob código 10066AEBC3B34D3B70.
+contra as quais pretende direcionar a execução de eventual título judicial, inclusive nas
+hipóteses de grupo econômico (art. 2°, §§ 2° e 3°, da CLT), demonstrando
+concretamente, nesta hipótese, a presença dos requisitos legais;
+2 - Admite-se, excepcionalmente, o redirecionamento da execução trabalhista ao
+terceiro que não participou do processo de conhecimento nas hipóteses de sucessão
+empresarial (art. 448-A da CLT) e abuso da personalidade jurídica (art. 50 do CC),
+observado o procedimento previsto no art. 855-A da CLT e nos arts. 133 a 137 do CPC;
+3 - Aplica-se tal procedimento mesmo aos redirecionamentos operados antes da
+Reforma Trabalhista de 2017, ressalvada a indiscutibilidade relativa aos casos já
+transitados em julgado, aos créditos já satisfeitos e às execuções findas ou
+definitivamente arquivadas”. Tudo nos termos do voto do Relator, vencidos os Ministros
+Edson Fachin e Alexandre de Moraes. Plenário, Sessão Virtual de 3.10.2025 a 10.10.2025.
+Portanto, a partir da tese vinculante fixada pelo STF, não mais se admite o redirecionamento
+da execução contra empresa que não participou do processo na fase de conhecimento, ainda que
+seja integrante de grupo econômico, cabendo à parte autora indicar na petição inicial as empresas
+contra as quais pretende direcionar a execução de eventual título executivo judicial.
+Esse entendimento, segundo expressamente afirmado pelo STF, aplica-se inclusive às
+execuções anteriores à Lei 13.467/2017, à exceção dos casos já transitados em julgado, dos créditos
+já satisfeitos e das execuções findas ou definitivamente arquivadas.
+Importante salientar, ainda, que a Suprema Corte também excepcionou a aplicação desse
+entendimento nos casos de redirecionamento da execução trabalhista ao terceiro que não
+participou do processo de conhecimento nas hipóteses de sucessão empresarial e abuso da
+personalidade jurídica.
+Na hipótese destes autos, o Tribunal Regional, com apoio nos fatos da causa (Súmula 126/TST),
+reconheceu a existência de grupo econômico entre as empresas e manteve o redirecionamento da
+execução em face da empresa executada e ora recorrente, ao fundamento de que tal medida
+“representa o caminho mais célere e eficaz para que se entregue por completo a prestação
+jurisdicional, já que as demais empresas indicadas pela DAG, fatalmente, mostrar-se-iam inidôneas
+para honrar a execução” (fl. 2.501).
+Verifica-se, portanto, que a decisão recorrida contraria a tese firmada pelo STF no Tema 1232
+de Repercussão Geral.
+Não se extrai do acórdão recorrido as exceções previstas no item 2 da referida tese vinculante.
+Diante do exposto, CONHEÇO do recurso de revista por violação do art. 5.º, II, da Constituição
+Federal.
+2 – MÉRITO
+2.1 - GRUPO ECONÔMICO. REDIRECIONAMENTO DA EXECUÇÃO CONTRA EMPRESA QUE NÃO
+PARTICIPOU DO PROCESSO DE CONHECIMENTO. IMPOSSIBILIDADE. TESE FIRMADA PELO SUPREMO
+TRIBUNAL FEDERAL NO JULGAMENTO DO RE 1.387.795. TEMA 1.232 DE REPERCUSSÃO GERAL
+Conhecido por violação do art. 5.º, II, da Constituição Federal,DOU PROVIMENTO ao recurso de
+revista para excluir a recorrente, NOVONOR S.A, do polo passivo da execução.
+A primeira reclamada, ADVANCE CONSTRUÇÕES E PARTICIPAÇÕES LTDA., opõe
+embargos de declaração. Alega a existência de omissão quanto ao item II da tese vinculante firmada
+pelo STF no julgamento do Tema 1.232, ao fundamento de que, conforme registrado pelo Tribunal
+Regional, a inclusão da empresa Novonor S.A na execução não decorreu exclusivamente do grupo
+econômico, pois houve sucessão empresarial e fraude.
+Adotou-se na decisão embargada o entendimento firmado pelo Supremo Tribunal
+Federal no julgamento do Tema 1.232 de repercussão geral, em que foi fixada a tese vinculante no
+sentido de que o cumprimento da sentença trabalhista não poderá ser promovido em face de empresa
+que não tiver participado da fase de conhecimento do processo, salvo nos casos em que o
+redirecionamento da execução trabalhista ao terceiro que não participou do processo de conhecimento
+esteja alicerçado em sucessão empresarial (art. 448-A da CLT) ou em abuso da personalidade jurídica
+(art. 50 do CC), observado o procedimento previsto no art. 855-A da CLT e nos arts. 133 a 137 do CPC.
+Salientou-se que não se extrai do acórdão recorrido as exceções previstas no item
+2 da referida tese vinculante.
+Com efeito, o art. 448-A da CLT assim dispõe:
+Art. 448-A. Caracterizada a sucessão empresarial ou de empregadores prevista nos arts. 10 e
+448 desta Consolidação, as obrigações trabalhistas, inclusive as contraídas à época em que os
+empregados trabalhavam para a empresa sucedida, são de responsabilidade do sucessor.
+Parágrafo único. A empresa sucedida responderá solidariamente com a sucessora quando ficar
+comprovada fraude na transferência.
+A sucessão empresarial de que trata referido dispositivo diz respeito à alteração
+ou mudança na propriedade ou na estrutura jurídica da empresa, situação não registrada no acórdão
+recorrido, que ao tratar de sucessão empresarial, o fez em razão da existência de “termo de
+indenização” firmado extrajudicialmente pela ODEBRECH (atual Novonor) em que essa empresa se
+comprometeu a “satisfazer os prejuízos suportados pela DAG CONSTRUTRORA em virtude do
+encerramento prematuro das obras do CIR Itaquitinga, em que a parceria público privada mantida com
+o Estado de Pernambuco foi suspensa em virtude da incapacidade financeira de uma das empresas
+criadas para a execução do contrato” (fl. 2.500), o que culminou no reconhecimento da sua
+responsabilidade solidária e da formação de grupo econômico.
+Não se está diante, portanto, da sucessão empresarial exigida pelo item II da tese
+Este documento pode ser acessado no endereço eletrônico http://www.tst.jus.br/validador sob código 10066AEBC3B34D3B70.
+vinculante firmada no Tema 1.232, uma vez que não há registro no acórdão do Tribunal Regional de que
+a empregadora principal (primeira reclamada e ora embargante), Advance Construções e Participações
+Ltda., foi sucedida pela Novonor S.A, nos moldes do art. 448-A da CLT, mas, sim, de que a Novonor
+assumiu, extrajudicialmente, as dívidas, inclusive trabalhistas, da empresa D.A.G. CONSTRUTORA LTDA.,
+segunda reclamada.
+De outra parte, não há omissão no julgado embargado quanto à alegada fraude,
+pois, de acordo com a tese firma no julgamento do Tema 1.232, esta há de ser aferida por meio do
+procedimento previsto no art. 855-A da CLT e nos arts. 133 a 137 do CPC, não observado no caso destes
+autos.
+Diante do exposto, NEGO PROVIMENTO aos embargos de declaração.
+ISTO POSTO
+ACORDAM as Ministras da Segunda Turma do Tribunal Superior do Trabalho, por
+unanimidade, conhecer dos embargos de declaração e, no mérito, negar-lhes provimento.
+Brasília, 17 de março de 2026.
+Firmado por assinatura digital (MP 2.200-2/2001)
+DELAÍDE MIRANDA ARANTES
+Ministra Relatora
+Firmado por assinatura digital em 18/03/2026 pelo sistema AssineJus da Justiça do Trabalho, conforme MP 2.200-2/2001, que instituiu a Infra-Estrutura
+de Chaves Públicas Brasileira. Este documento pode ser acessado no endereço eletrônico http://www.tst.jus.br/validador sob código 10066AEBC3B34D3B70.
