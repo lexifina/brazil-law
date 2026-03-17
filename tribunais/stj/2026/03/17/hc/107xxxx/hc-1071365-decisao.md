@@ -1,0 +1,41 @@
+DECISÃO
+Trata-se de habeas corpus sem pedido liminar impetrado em favor de JADSON DOS SANTOS PACHECO contra acórdão proferido pelo Tribunal de Justiça do Estado de Santa Catarina (Apelação n. 5003289-05.2021.8.24.0282).
+Consta dos autos que o paciente foi condenado, em primeiro grau de jurisdição, às penas de 5 anos de reclusão e 1 ano de detenção, em regime inicial fechado, além de 510 dias-multa, pela prática dos crimes previstos nos arts. 33, caput, da Lei n. 11.343/2006 e 12 da Lei n. 10.826/2003, em concurso material (e-STJ fls. 7/22).
+Irresignada, a defesa interpôs recurso de apelação, o qual foi parcialmente provido para alterar o regime inicial da pena de detenção para semiaberto, mantidos os demais termos da condenação (e-STJ fls. 6 e 23/26). Segue a ementa do acórdão:
+APELAÇÃO CRIMINAL. TRÁFICO ILÍCITO DE ENTORPECENTES (ARTS. 33, CAPUT, DA LEI N. 11.343/06 E 12, DA LEI N. 10.826/03). SENTENÇA CONDENATÓRIA. RECURSO DA DEFESA. AUTORIA E MATERIALIDADE INCONTROVERSAS. PLEITO DE ABRANDAMENTO DO REGIME INICIAL DE CUMPRIMENTO DA REPRIMENDA FIXADO NA SENTENÇA (FECHADO PARA O SEMIABERTO). PARCIAL ACOLHIMENTO. RECORRENTE REINCIDENTE ESPECÍFICO. REGIME EXTREMO ADEQUADO AO CRIME DA LEI DE DROGAS. ADEQUAÇÃO, TODAVIA, DO REGIME INICIAL DE PENA, DO FECHADO PARA O SEMIABERTO, QUANTO AO DELITO DA LEI DE ARMAS, POIS PUNIDO COM DETENÇÃO. RECURSO CONHECIDO E PARCIALMENTE PROVIDO.
+No presente mandamus (e-STJ fls. 2/5), o impetrante sustenta que o Tribunal a quo impôs constrangimento ilegal ao paciente, pois manteve o regime inicial fechado para resgate da pena de reclusão, embora a pena privativa de liberdade tenha sido fixada em patamar que não excede 8 anos de reclusão. Afirma que a simples menção à reincidência específica do paciente não é suficiente para justificar o recrudescimento.
+Ao final, pede a concessão da ordem para que o regime inicial da pena de reclusão seja alterado para semiaberto.
+O Ministério Público Federal, por meio do parecer exarado às (e-STJ fls. 58/65), opinou pelo não conhecimento do writ ou, se conhecido, pela denegação da ordem, cuja ementa segue transcrita:
+HABEAS CORPUS SUBSTITUTIVO DE REVISÃO CRIMINAL. NÃO CABIMENTO. REEXAME DE FATOS E PROVAS. INADEQUAÇÃO DA VIA ELEITA. PLEITO DE ABRANDAMENTO DO REGIME INICIAL DE CUMPRIMENTO DA REPRIMENDA FIXADO NA SENTENÇA. DOSIMETRIA DA PENA IMPOSTA. FIXAÇÃO DO REGIME INICIAL. PACIENTE REINCIDENTE ESPECÍFICO. REGIME EXTREMO ADEQUADO AO CRIME DA LEI DE DROGAS. PARECER PELA EXTINÇÃO DO FEITO SEM RESOLUÇÃO DE MÉRITO OU PELA DENEGAÇÃO DA ORDEM.
+É o relatório. Decido.
+Inicialmente, o Superior Tribunal de Justiça, seguindo o entendimento firmado pela Primeira Turma do Supremo Tribunal Federal, como forma de racionalizar o emprego do habeas corpus e prestigiar o sistema recursal, não admite a sua impetração em substituição ao recurso próprio.
+Cumpre analisar, contudo, em cada caso, a existência de ameaça ou coação à liberdade de locomoção do paciente, em razão de manifesta ilegalidade, abuso de poder ou teratologia na decisão impugnada, a ensejar a concessão da ordem de ofício. Nesse sentido, a título de exemplo, confiram-se os seguintes precedentes: STF, HC n. 113.890/SP, Relatora Ministra ROSA WEBER, Primeira Turma, julgado em 3/12/2013, publicado em 28/2/2014; STJ, HC n. 287.417/MS, Relator Ministro SEBASTIÃO REIS JÚNIOR, Quarta Turma, julgado em 20/3/2014, DJe 10/4/2014; e STJ, HC n. 283.802/SP, Relatora Ministra LAURITA VAZ, Quinta Turma, julgado em 26/8/2014, DJe 4/9/2014.
+Na espécie, embora o impetrante não tenha adotado a via processual adequada, para que não haja prejuízo à defesa do paciente, passo à análise da pretensão formulada na inicial, a fim de verificar a existência de eventual constrangimento ilegal.
+Busca-se, em síntese, o abrandamento do regime prisional.
+Sobre o tema, o Supremo Tribunal Federal, no julgamento do HC n. 111.840/ES, assentou que inexiste a obrigatoriedade do regime inicial fechado para os condenados por crimes hediondos e equiparados, determinando, também nesses casos, a observância do disposto no art. 33, §§ 2º e 3º, do Código Penal.
+Ademais, a jurisprudência desta Corte firmou-se no sentido de que é necessária, para a fixação de regime mais gravoso, a apresentação de motivação concreta, sendo inidônea a mera menção à gravidade abstrata do delito. Foi elaborado, então, o enunciado 440 da Súmula deste Tribunal, segundo o qual fixada a pena-base no mínimo legal, é vedado o estabelecimento de regime prisional mais gravoso do que o cabível em razão da sanção imposta, com base apenas na gravidade abstrata do delito. Na mesma esteira, são os enunciados ns. 718 e 719 da Súmula do Supremo Tribunal Federal, os quais indicam:
+A opinião do julgador sobre a gravidade em abstrato do crime não constitui
+motivação idônea, para a imposição de regime mais severo do que o permitido segundo a pena aplicada.
+A imposição do regime de cumprimento mais severo do que a pena aplicada
+permitir exige motivação idônea.
+No caso, segue a fundamentação apresentada pelo Tribunal a quo para manter o regime inicial fechado para resgate da pena de reclusão, imposta pela prática do crime de tráfico de drogas (e-STJ fl. 25):
+Busca a Defesa, primeiramente, o abrandamento do regime prisional do crime de tráfico para semiaberto. Sem razão.
+Isso porque, não obstante a pena tenha sido estabelecida em patamar inferior a 08 (oito) anos, entende-se como necessária a manutenção do regime inicial fechado, pois o Apelante é reincidente específico (processo 5003289-05.2021.8.24.0282/SC, evento 52, DOC2).
+Neste sentido, já se manifestou este Órgão Fracionário, na Apelação Criminal n. 5002002-10.2024.8.24.0538, rel. Sérgio Rizelo, j. 18-03-2025:  ..
+Portanto, nos termos do art. 33 e parágrafos do Código Penal, mantém-se o regime fechado para o início do cumprimento da pena do crime de tráfico de entorpecentes.
+Extrai-se, da transcrição supra que o regime inicial fechado estabelecido na origem possui lastro em fundamentação concreta e idônea, qual seja, a reincidência do paciente.
+Com efeito, tratando-se de condenação a pena que excede 4 anos de reclusão, a reincidência constitui óbice ao pretendido regime inicial semiaberto, na esteira do disposto no art. 33, § 2º, do Código Penal.
+Nesse sentido, segue a pacífica jurisprudência desta Corte:
+AGRAVO REGIMENTAL NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. PENAL E PROCESSUAL PENAL. TRÁFICO DE DROGAS. ALEGADA OFENSA AO ART. 619 DO CÓDIGO DE PROCESSO PENAL - CPP. NÃO VERIFICADA. MATÉRIAS ARGUIDAS PELA DEFESA NAS CONTRARRAZÕES AO RECURSO DE APELAÇÃO INTERPOSTO PELO MINISTÉRIO PÚBLICO. PRETENSÃO DE REFORMA DO ACÓRDÃO RECORRIDO. IMPOSSIBILIDADE. REGIME INICIAL SEMIABERTO. INADEQUADO. RÉU REINCIDENTE. AGRAVO REGIMENTAL DESPROVIDO.
+ ..
+3. A despeito de ter sido imposta reprimenda superior a 4 e inferior a 8 anos de reclusão, trata-se de réu reincidente, não havendo que se falar em fixação do regime prisional semiaberto, ante a ausência de preenchimento dos requisitos previstos no art. 33, § 2º, "b", do Código Penal. Assim, a manutenção do regime inicial fechado estabelecido pelo Tribunal de origem é medida que se impõe.
+4. Agravo regimental desprovido. (AgRg nos EDcl no AREsp n. 2.035.615/SP, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 6/3/2023, DJe de 9/3/2023.)
+PENAL E PROCESSUAL PENAL. AGRAVO REGIMENGAL NO HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. TRÁFICO DE DROGAS. DOSIMETRIA. REGIME INICIAL FECHADO. PRESENÇA DE ANOTAÇÃO CRIMINAL CONFIGURADORA DE REINCIDÊNCIA (ART. 33, § 2º, "B", CP). ALEGAÇÃO DE REFORMATIO IN PEJUS. INEXISTENTE. AGRAVO REGIMENTAL DESPROVIDO.
+ ..
+II - Na hipótese, o paciente ostenta reincidência. Desse modo, fixada a pena acima de 4 anos, fica afastada a possibilidade de fixação do regime diverso do fechado, nos termos do art. 33, § 2º, "b", do Código Penal.
+ ..
+Agravo regimental desprovido. (AgRg no HC n. 753.075/RJ, relator Ministro Messod Azulay Neto, Quinta Turma, julgado em 6/3/2023, DJe de 14/3/2023.)
+Portanto, na espécie, a pretensão formulada pelo impetrante encontra óbice na firme jurisprudência do Superior Tribunal de Justiça, revelando-se manifestamente improcedente.
+Ante o exposto, com base no art. 34, inciso XX, do Regimento Interno do STJ, não conheço do habeas corpus.
+Intimem-se.
+EMENTA
