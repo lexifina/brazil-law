@@ -1,0 +1,35 @@
+DECISÃO
+Trata-se de agravo apresentado por MEDIAN INDÚSTRIA E COMÉRCIO LIMITADA para impugnar decisão que não admitiu seu recurso especial, interposto com fundamento no art. 105, inciso III, alíneas a e c, da Constituição Federal, contra o acórdão do Tribunal de Justiça do Estado de São Paulo assim ementado (e-STJ, fl. 70):
+AGRAVO DE INSTRUMENTO. Execução fiscal. Débito de ICMS. Alegação de prescrição intercorrente, tendo em vista que o feito executivo tramita há mais de 10 (dez) anos Impossibilidade Inércia da exequente não verificada. Prescrição afastada. Ausente violação às teses jurídicas fixadas pelo STJ no REsp. nº 1.340.553-RS, rel. Min. Mauro Campbell Marques, j. 12/09/2018 (recursos repetitivos temas nºs 566 a 571) - Decisão mantida. Recurso não provido.
+No recurso especial, a parte recorrente alegou violação dos arts. 40 da Lei 6.830/1980 e 174 do Código Tributário Nacional, bem como da Súmula 150 do Supremo Tribunal Federal, sustentando prescrição intercorrente automática, com termo inicial após a primeira tentativa infrutífera de citação/localização de bens (28/11/2014), seguida de suspensão por 1 (um) ano e início do prazo prescricional de 5 (cinco) anos, sem ocorrência de causa interruptiva válida.
+Apontou que a morosidade do Poder Judiciário não pode afastar a fluência da prescrição.
+Alegou, ainda, divergência jurisprudencial quanto à aplicação do REsp n. 1.340.553/RS (Temas 566 a 571).
+O recurso teve seguimento negado quanto à questão decidida em sede de recurso repetitivo, com base no art. 1.030, I, b, do Código de Processo Civil, e não admitido quanto ao mais (e-STJ, fl. 107), razão pela qual foram interpostos agravo interno (e-STJ, fls. 127-142) o agravo ora examinado (e-STJ, fls. 110-116).
+Sem contraminuta (e-STJ, fl. 154).
+Brevemente relatado, decido.
+Consoante relatado, o recurso especial teve seguimento negado quanto à questão decidida em sede de recurso repetitivo (REsp 1.340.553/RS), com base no art. 1.030, I, b, do Código de Processo Civil. Interposto agravo interno, foi negado provimento ao recurso (e-STJ, fl. 144):
+AGRAVO INTERNO. Decisão monocrática que negou seguimento a recurso especial.
+- A questão referente à sistemática para a contagem da prescrição intercorrente (prescrição após a propositura da ação) prevista no art. 40 e parágrafos da Lei da Execução Fiscal (Lei n. 6.830/80), bem como os obstáculos ao curso do prazo prescricional da prescrição prevista no art. 40, da LEF, é matéria idêntica à tratada no rito dos recursos repetitivos - Resp. n. 1.340.553/RS - TEMAS 566 a 571/STJ.
+- Inviabilidade de reexame de prova em Recurso Especial, nos termos da Súmula 7/STJ.
+- Demais questões rebatidas que não se encontram submetidas à sistemática de recursos repetitivos
+- Impugnação por recurso próprio. Nega-se provimento ao recurso.
+Portanto, restou para análise apenas a alegação de violação dos arts. 40 da Lei 6.830/1980 e 174 do CTN quanto ao efetivo transcurso dos prazos prescricionais e caracterização da inércia da fazenda pública, a determinar a extinção da execução fiscal.
+Acerca do ponto, a parte recorrente alega o seguinte (e-STJ, fl. 88):
+ ..  até a última pesquisa realizada, desde a citação válida da Agravante transcorreram quase 10 anos, sem que fossem promovidas diligências úteis, sendo que após a decisão em que se determinou a correção do cálculo crédito executado, passaram-se 09 anos, sem que a execução rendesse frutos.
+Ressalte-se, desde a citação não ocorreu qualquer ato interruptivo da prescrição, haja vista que nenhum ato após a citação (certificada em 28/11/2024) ou comparecimento espontâneo nos autos (ocorrido em 16/09/2014), obteve resultado positivo na constrição de bens suficientes para garantir a execução (jamais tendo sido verificado qualquer marco interruptivo da prescrição).
+Argumenta, também, que "a interrupção do prazo prescricional nas hipóteses do artigo 174, parágrafo único do CTN somente se opera quando as diligências da exequente forem efetivamente frutíferas, seja para citar o contribuinte ou para localizar bens dele através das medidas constritivas de patrimônio" (e-STJ, fl. 91).
+Acerca da alegação de fluência dos prazos e marcos prescricionais, o Tribunal de origem assim se pronunciou (e-STJ, fl. 72):
+ ..  a FESP não deu causa a demora no trâmite processual anteriormente relatado e nem se manteve inerte por período superior ao prazo quinquenal quanto aos atos e diligências de sua incumbência.
+A conclusão alcançada está amparada em premissas fáticas ponderadas pela Corte de origem, as quais não são passíveis de revisão pela via estreita do recurso especial. Incide, na hipótese, o óbice da Súmula 7/STJ.
+Veja-se (sem destaques no original):
+ADMINISTRATIVO E PROCESSUAL CIVIL. EMBARGOS À EXECUÇÃO FISCAL. MULTA AMBIENTAL. NULIDADE DO PROCESSO ADMINISTRATIVO. FUNDAMENTO ADOTADO NA DECISÃO AGRAVADA. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA. SÚMULA 182/STJ. PRESCRIÇÃO. TERMO INICIAL. EFETIVO TÉRMINO DO PROCESSO ADMINISTRATIVO. REEXAME DE MATÉRIA FÁTICA. IMPOSSIBILIDADE. TAXA DE JUROS. FALTA DE PREQUESTIONAMENTO. SÚMULA 211/STJ.
+1. Inviável a apreciação do agravo interno que deixa de atacar especificamente o fundamento adotado na decisão agravada, incidindo, nesse ponto, a vedação prevista na Súmula 182/STJ.
+2. Segundo a jurisprudência do STJ, " o  termo inicial do prazo prescricional para cobrança das multas ambientais é o efetivo término do processo administrativo, não havendo falar em fluência do referido prazo enquanto não encerrado o processo administrativo, ainda que se trate de pendência de julgamento de pedido de reconsideração" (AgInt no REsp 2.043.446/PR, relator Ministro Gurgel de Faria, Primeira Turma, julgado em 2/10/2023, DJe de 5/10/2023).
+3. No caso, rever as premissas adotadas pelo acórdão recorrido a respeito da contagem do prazo prescricional demandaria o reexame do acervo fático-probatório constante dos autos, providência obstada pelo teor da Súmula 7/STJ.
+4. O Tribunal de origem não examinou a controvérsia sob o enfoque dos arts. 39, §§ 2º, 3º e 4º, da Lei 4.320/1964; 30 e 37-A da Lei 10.522/2002, apontados como violados, apesar de instado a fazê-lo por meio dos competentes embargos de declaração. Nesse contexto, caberia à parte recorrente, nas razões do apelo especial, indicar ofensa ao art. 1.022 do CPC, alegando a existência de possível omissão, providência da qual não se desincumbiu. Incidência da Súmula 211/STJ.
+5. Agravo interno parcialmente conhecido e, nessa extensão, não provido.
+(AgInt no AREsp n. 2.516.899/SP, relator Ministro Sérgio Kukina, Primeira Turma, julgado em 10/2/2025, DJEN de 17/2/2025.)
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Publique-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. TRIBUTÁRIO. ALEGAÇÃO DE PRESCRIÇÃO INTERCORRENTE. NEGATIVA DE SEGUIMENTO AO RECURSO ESPECIAL COM BASE NO ART. 1.030, I, B, DO CPC/2015. TÓPICO REMANESCENTE. PRETENSÃO DE RECONHECIMENTO DE FLUÊNCIA DOS PRAZOS PRESCRICIONAIS. REVISÃO. IMPOSSIBILIDADE. SÚMULA 7/STJ. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
