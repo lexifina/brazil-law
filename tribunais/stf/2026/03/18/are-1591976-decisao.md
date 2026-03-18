@@ -1,0 +1,51 @@
+DECISÃO
+
+Vistos.
+Cuida-se de agravo interposto pelo Município de Natal contra decisão que inadmitiu recurso extraordinário manejado para impugnar acórdão da 1ª Turma Recursal dos Juizados Especiais Cíveis, Criminais e da Fazenda Pública do Estado do Rio Grande do Norte, assim ementado:
+
+“DIREITO ADMINISTRATIVO E PROCESSUAL CIVIL. RECURSO INOMINADO CÍVEL. SERVIDOR PÚBLICO MUNICIPAL. AGENTE DE COMBATE A ENDEMIAS. PROGRESSÃO E PROMOÇÃO FUNCIONAL PREVISTAS NA LEI COMPLEMENTAR MUNICIPAL Nº 120/2010. INAPLICABILIDADE DO TEMA 1157/STF. INEXISTÊNCIA DE PROVA DE ADMISSÃO POR MEIO DE CONTRATO DE TRABALHO. ADMISSÃO CONFORME EC 51/2006 E LEI MUNICIPAL 080/2007. RECURSO CONHECIDO E DESPROVIDO.
+I. CASO EM EXAME
+1. Recurso inominado interposto pelo Município de Natal contra sentença do 5º Juizado Especial da Fazenda Pública da Comarca de Natal que julgou parcialmente procedente a ação proposta por Lucinaldo Oliveira da Costa, servidor público municipal, condenando o ente público a corrigir sua evolução funcional, implantar remuneração correspondente à Classe II, Nível D, e pagar diferenças remuneratórias decorrentes, conforme disposto na Lei Complementar Municipal nº 120/2010.
+II. QUESTÃO EM DISCUSSÃO
+2. A questão em discussão consiste em definir se o servidor público municipal, ocupante do cargo de Agente de Combate a Endemias, admitido mediante processo seletivo público posterior à Emenda Constitucional nº 51/2006, faz jus à progressão e promoção funcional previstas na LCM nº 120/2010, diante da alegada aplicação do Tema 1157/STF.
+III. RAZÕES DE DECIDIR
+3. O art. 5º da Lei Municipal nº 080/2007, dispõe que a contratação de Agentes Comunitários de Saúde e de Agentes de Combate a Endemias será precedida de processo seletivo público, de provas ou de provas e títulos, conforme o Edital de convocação e a legislação aplicável à espécie, observados os princípios da impessoalidade e da publicidade.
+4. O ingresso do recorrido no serviço público municipal ocorreu mediante processo seletivo, conforme se vê da ficha funcional de Id. TR 31731330, pág. 6, a qual dispõe que sua admissão se deu na forma da EC nº 51/2006 e da Lei Municipal nº 080/2007, o que afasta a aplicação do Tema 1157 do STF.
+5. Assim, não há espaço para o acolhimento do pleito recursal, porquanto o recorrido comprovou satisfatoriamente os fatos constitutivos de seu direito, conforme art. 373, I, do CPC, razão pela qual deve ser confirmada a sentença que reconheceu o direito do recorrido à progressão e promoção até a Classe II, Nível D, com pagamento das diferenças remuneratórias correspondentes, respeitada a prescrição quinquenal.
+IV. DISPOSITIVO E TESE
+6. Recurso conhecido e desprovido.
+Tese de julgamento:
+1. O ingresso de agente de combate a endemias mediante processo seletivo público afasta a aplicação do Tema 1157/STF.”
+
+No recurso extraordinário, indicou-se como violados os artigos 37, inciso II, 39 e 41 da Constituição Federal e 19, § 1º, do ADCT, uma vez que “a premissa fática fixada na instância a quo revela, partir da análise do direito, pela possibilidade do recorrido ter direito a ascensão funcional exclusiva de servidor estatutário concursado, ainda que investido pelo caráter celetista, posteriormente transmudado para o regime estatutário, sem a submissão a concurso público”.
+Afirma que a decisão tomada pela Corte de origem implica “infringência ao Tema 1.157, devendo o mesmo incidir na espécie, haja vista o afastamento explicito do STF, do direito do servidor admitido sem concurso público, a institutos exclusivos do servidor estatutário, tal como se afigura no caso em concreto”.
+É o relatório. Decido.
+A irresignação não merece prosperar.
+O Tribunal de origem, no acórdão em que se negou provimento ao recurso inominado, rejeitou a alegação de que a admissão da parte autora não foi precedida de prévia aprovação em concurso público e, em consequência, assentou a falta de identidade entre o caso examinado nestes autos e aquele objeto do Tema 1.157 da Repercussão Geral, amparado nos seguintes fundamentos constantes da ementa do julgado anteriormente transcrita, os quais reproduzo novamente:
+
+“3. O art. 5º da Lei Municipal nº 080/2007, dispõe que a contratação de Agentes Comunitários de Saúde e de Agentes de Combate a Endemias será precedida de processo seletivo público, de provas ou de provas e títulos, conforme o Edital de convocação e a legislação aplicável à espécie, observados os princípios da impessoalidade e da publicidade.
+4. O ingresso do recorrido no serviço público municipal ocorreu mediante processo seletivo, conforme se vê da ficha funcional de Id. TR 31731330, pág. 6, a qual dispõe que sua admissão se deu na forma da EC nº 51/2006 e da Lei Municipal nº 080/2007, o que afasta a aplicação do Tema 1157 do STF.
+5. Assim, não há espaço para o acolhimento do pleito recursal, porquanto o recorrido comprovou satisfatoriamente os fatos constitutivos de seu direito, conforme art. 373, I, do CPC, razão pela qual deve ser confirmada a sentença que reconheceu o direito do recorrido à progressão e promoção até a Classe II, Nível D, com pagamento das diferenças remuneratórias correspondentes, respeitada a prescrição quinquenal.
+
+Assim, o eventual acolhimento da pretensão do recorrente, para ultrapassar o entendimento firmado pelo Tribunal de origem sobre o direito à progressão funcional pleiteada nesta ação não prescinde do reexame do conjunto fático-probatório constante dos autos e da legislação infraconstitucional pertinente, expediente inviável na via recursal extraordinária. Incidência da Súmula nº 279 do STF. Nesse sentido, os seguintes julgados:
+
+“AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. RECURSO INTERPOSTO EM 07.02.2017. SERVIDOR PÚBLICO. PROGRESSÃO FUNCIONAL. LEI Nº 35/2002. INTERPRETAÇÃO DE LEGISLAÇÃO LOCAL. OFENSA INDIRETA. SÚMULA 280/STF. REEXAME DE PROVAS. IMPOSSIBILIDADE. SÚMULA 279/STF. AGRAVO REGIMENTAL DESPROVIDO. 1. Para se chegar a conclusão diversa daquela a que chegou o Tribunal de origem, quanto à possibilidade de concessão de progressão funcional horizontal à recorrida, seria necessário o reexame dos fatos e provas, além da legislação municipal aplicável à espécie. Incidência das Súmulas 279 e 280 do STF. Precedentes. 2. Agravo regimental a que se nega provimento, com previsão de aplicação da multa prevista no art. 1.021, §4º, CPC. Verba honorária majorada em ¼, nos termos do art. 85, §§ 2º, 3º e 11, CPC” (ARE nº 1.016.057/MG-AgR, Segunda Turma, Relator o Ministro Edson Fachin, DJe de 17/5/17).
+
+“ADMINISTRATIVO. AGRAVO INTERNO EM RECURSO EXTRAORDINÁRIO COM AGRAVO. SERVIDOR PÚBLICO. PROGRESSÃO HORIZONTAL. LEI COMPLEMENTAR MUNICIPAL Nº 35/2002. INEXISTÊNCIA DE PREQUESTIONAMENTO. AUSÊNCIA DE MATÉRIA CONSTITUCIONAL. SÚMULAS 279 E 280/STF. 1. As questões constitucionais alegadas no recurso extraordinário não foram objeto de análise pelo Tribunal de origem. Incidem, portanto, as Súmulas 282 e 356/STF. 2. A solução da controvérsia pressupõe, necessariamente, a análise de legislação infraconstitucional aplicada ao caso, bem como o reexame do conjunto fático-probatório dos autos, procedimentos vedados neste momento processual. 3. Agravo interno a que se nega provimento, com aplicação da multa prevista no art. 557, § 2º, do CPC/1973” (ARE nº 898.0009/MG-AgR, Primeira Turma, Relator o Ministro Roberto Barroso, DJe de 17/10/16).
+
+“DIREITO ADMINISTRATIVO E PROCESSUAL CIVIL. SERVIDOR PÚBLICO MUNICIPAL. PROGRESSÃO HORIZONTAL. PLANO DE CARREIRA. LEI COMPLEMENTAR MUNICIPAL Nº 35/2002. NECESSIDADE DE INTERPRETAÇÃO DE LEGISLAÇÃO LOCAL. APLICAÇÃO DA SÚMULA 280/STF. EVENTUAL OFENSA REFLEXA NÃO ENSEJA RECURSO EXTRAORDINÁRIO. ACÓRDÃO RECORRIDO PUBLICADO EM 07.3.2014. 1. As razões do agravo regimental não se mostram aptas a infirmar os fundamentos que lastrearam a decisão agravada, mormente no que se refere ao óbice da Súmula 280 do STF, a inviabilizar o trânsito do recurso extraordinário. 2. A suposta afronta aos postulados constitucionais invocados no apelo extremo somente poderia ser constatada a partir da análise da legislação infraconstitucional e na reelaboração da moldura fática delineada no acórdão de origem, o que torna oblíqua e reflexa eventual ofensa, insuscetível, como tal, de viabilizar o conhecimento do recurso extraordinário. Precedentes. 3. Agravo regimental conhecido e não provido” (ARE nº ARE nº 898.774/MG-AgR, Primeira Turma, Relatora a Ministra Rosa Weber, DJe de 14/10/15).
+
+“PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. PRELIMINAR DE REPERCUSSÃO GERAL. FUNDAMENTAÇÃO DEFICIENTE. ÔNUS DO RECORRENTE. SERVIDOR PÚBLICO MUNICIPAL. PROGRESSÃO FUNCIONAL. ANÁLISE DE NORMA LOCAL. LEI MUNICIPAL 7.169/1996. INVIABILIDADE. SÚMULA 280/STF. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO” (ARE nº 932.588/MG-AgR, Segunda Turma, Relator o Ministro Teori Zavascki, DJe de 9/3/16).
+
+“AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. ADMINISTRATIVO. SERVIDOR PÚBLICO. PROGRESSÃO FUNCIONAL. LEI MUNICIPAL N. 7.169/1996. IMPOSSIBILIDADE DE ANÁLISE DE LEGISLAÇÃO INFRACONSTITUCIONAL. SÚMULA N. 280 DO SUPREMO TRIBUNAL FEDERAL. AUSÊNCIA DE OFENSA CONSTITUCIONAL DIRETA. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO” (ARE nº 907.688/MG-AgR, Segunda Turma, Relatora a Ministra Cármen Lúcia, DJe de 5/11/15).
+
+“Agravo regimental em agravo de instrumento. Reexame de legislação municipal. Ofensa reflexa. Precedentes. 1. O recurso extraordinário não se presta ao reexame de matéria ínsita ao plano normativo local. Incidência da Súmula nº 280/STF. 2. Agravo regimental não provido, com aplicação da multa prevista no artigo 557, § 2º, do Código de Processo Civil” (AI nº 735.661/MG-AgR, Primeira Turma, de minha relatoria, DJe de 22/11/13).
+
+Ante o exposto, nos termos do artigo 21, § 1º, do Regimento Interno do Supremo Tribunal Federal, nego seguimento ao recurso.
+Havendo prévia fixação de honorários advocatícios pelas instâncias de origem, seu valor monetário será majorado em 10% (dez por cento) em desfavor da parte recorrente, nos termos do art. 85, § 11, do Código de Processo Civil, observado os limites dos §§ 2º e 3º do referido artigo e a eventual concessão de justiça gratuita.
+Publique-se.
+Brasília, 18 de março de 2026.
+
+Ministro DIAS TOFFOLI
+Relator
+Documento assinado digitalmente
