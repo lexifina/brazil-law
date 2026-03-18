@@ -1,0 +1,66 @@
+DECISÃO
+Trata-se de habeas corpus com pedido liminar impetrado em benefício de CLEOMIR ELVIS BENDER no qual se aponta como autoridade coatora o Tribunal Regional Federal da 4ª Região (Agravo Regimental na Revisão Criminal n. 5034708-65.2025.4.04.0000/RS).
+Depreende-se dos autos que o ora paciente foi condenado à pena de 3 anos de reclusão, em regime inicial semiaberto, pela prática do crime de moeda falsa (art. 289, § 1º, do Código Penal).
+Segundo a exordial acusatória, ele guardava consigo 5 (cinco) cédulas inautênticas de R$ 100,00 (cem reais), localizadas no bolso de sua calça durante abordagem policial motivada por denúncias de tráfico de entorpecentes no local (e-STJ fls. 7 e 790).
+O Tribunal de origem negou provimento ao agravo regimental interposto contra decisão que indeferiu o processamento de revisão criminal, em acórdão assim ementado (e-STJ fl. 388):
+DIREITO PENAL E PROCESSUAL PENAL. REVISÃO CRIMINAL. MOEDA FALSA. BUSCA PESSOAL. LICITUDE. REEXAME DE PROVAS. INADMISSIBILIDADE. AGRAVO REGIMENTAL DESPROVIDO.
+1. Agravo regimental interposto contra decisão monocrática que negou seguimento à revisão criminal. A revisão criminal buscava a absolvição do requerente, condenado por moeda falsa, alegando a ilegalidade da busca pessoal realizada sem fundada suspeita, baseada em denúncia anônima e intuição policial.
+2. A busca pessoal foi considerada lícita, pois os policiais agiram com base em "várias informações e denúncias" sobre tráfico de drogas na residência do acusado. A busca pessoal, que independe de mandado, é permitida pelo art. 240, § 2º, e art. 244 do CPP, quando há fundada suspeita, como ocorreu com a descoberta das cédulas falsas no bolso do réu.
+3. A revisão criminal é manifestamente incabível, pois não se destina a reexaminar o mérito de uma condenação já transitada em julgado por mera inconformidade com a decisão anterior.
+4. Agravo regimental desprovido.
+Daí o presente habeas corpus, no qual sustenta a defesa:
+a) A nulidade absoluta da busca pessoal realizada, uma vez que inexistia investigação prévia ou fundada suspeita concreta, tendo a diligência se baseado exclusivamente em denúncia anônima e na intuição subjetiva dos policiais militares (e-STJ fls. 8/11).
+b) A violação da garantia fundamental da inviolabilidade do domicílio, nos termos do Tema n. 280 da Repercussão Geral do STF (e-STJ fls. 6/7).
+Diante dessas considerações, requer:
+a) A concessão da ordem, inclusive liminarmente, para declarar a ilicitude da busca pessoal e, por conseguinte, absolver o paciente (e-STJ fls. 13/14).
+b) A colheita de informações da autoridade coatora (e-STJ fl. 14).
+c) A oitiva do Ministério Público Federal (e-STJ fl. 14).
+d) O deferimento da assistência judiciária gratuita (e-STJ fl. 14).
+É o relatório.
+Decido.
+A Corte de origem fundamentou a higidez da diligência policial e a inadmissibilidade da pretensão revisional nos seguintes termos, in verbis (e-STJ fls. 15/18 e 388):
+A busca pessoal foi considerada lícita, pois os policiais agiram com base em "várias informações e denúncias" sobre tráfico de drogas na residência do acusado. A busca pessoal, que independe de mandado, é permitida pelo art. 240, § 2º, e art. 244 do CPP, quando há fundada suspeita, como ocorreu com a descoberta das cédulas falsas no bolso do réu.
+ ..
+Constatou-se dos autos, que os policiais receberam várias informações e denúncias de que no local da apreensão, residência do acusado, estava ocorrendo tráfico de drogas e então a equipe policial dirigiu-se ao local e em frente à residência abordaram o réu, realizaram revista pessoal e encontraram em seu poder cinco notas falsas de R$ 100,00 (cem reais).
+ ..
+É suficiente, portanto, a fundada suspeita de que o sujeito oculte consigo arma proibida ou objetos ou papéis que constituam corpo de delito. No caso, as cédulas falsificadas foram encontradas no bolso da calça do réu, em face da busca pessoal referente à informação de que na residência do acusado estava ocorrendo o delito de tráfico de drogas. Nessa busca foi constatado que o réu guardava consigo cinco notas de R$ 100,00 (cem reais) inautênticas. Em decorrência, não há nulidade a ser declarada, ou ilicitude da prova constante da ação penal.
+ ..
+A revisão criminal não é via adequada para a reapreciação do julgado anterior, por desacordo com a solução dada. Com efeito, inexistindo enquadramento em nenhuma das hipóteses taxativas do artigo 621 do Código de Processo Penal e ausente flagrante teratologia nos fundamentos que afastaram a tese defensiva, revela-se manifestamente inadmissível o manejo da revisional.
+A busca pessoal foi considerada lícita, pois os policiais agiram com base em "várias informações e denúncias" sobre tráfico de drogas na residência do acusado. A busca pessoal, que independe de mandado, é permitida pelo art. 240, § 2º, e art. 244 do CPP, quando há fundada suspeita, como ocorreu com a descoberta das cédulas falsas no bolso do réu.  ..  Constatou-se dos autos, que os policiais receberam várias informações e denúncias de que no local da apreensão, residência do acusado, estava ocorrendo tráfico de drogas e então a equipe policial dirigiu-se ao local e em frente à residência abordaram o réu, realizaram revista pessoal e encontraram em seu poder cinco notas falsas de R$ 100,00 (cem reais).  ..  É suficiente, portanto, a fundada suspeita de que o sujeito oculte consigo arma proibida ou objetos ou papéis que constituam corpo de delito. No caso, as cédulas falsificadas foram encontradas no bolso da calça do réu, em face da busca pessoal referente à informação de que na residência do acusado estava ocorrendo o delito de tráfico de drogas. Nessa busca foi constatado que o réu guardava consigo cinco notas de R$ 100,00 (cem reais) inautênticas. Em decorrência, não há nulidade a ser declarada, ou ilicitude da prova constante da ação penal.  ..  A revisão criminal não é via adequada para a reapreciação do julgado anterior, por desacordo com a solução dada. Com efeito, inexistindo enquadramento em nenhuma das hipóteses taxativas do artigo 621 do Código de Processo Penal e ausente flagrante teratologia nos fundamentos que afastaram a tese defensiva, revela-se manifestamente inadmissível o manejo da revisional.
+Nulidade da busca pessoal por ausência de fundada suspeita:
+Compulsando os autos, verifica-se que a diligência policial que culminou na apreensão das cédulas inautênticas não padece de qualquer vício de ilegalidade. A tese defensiva de que a abordagem teria se fundado exclusivamente em denúncia anônima ou intuição subjetiva não encontra amparo no acervo fático-probatório delineado pelas instâncias ordinárias. O Tribunal de origem consignou, de forma expressa, que a equipe policial agiu amparada por "várias informações e denúncias" pretéritas e específicas acerca da prática de tráfico de entorpecentes no local dos fatos.
+A fundada suspeita, exigida pelos arts. 240, § 2º, e 244 do Código de Processo Penal, foi sobejamente caracterizada pela convergência de informações que indicavam a atividade ilícita na residência do acusado. A abordagem em via pública, defronte ao imóvel monitorado, constitui desdobramento legítimo do dever de policiamento ostensivo, sendo a revista pessoal medida impositiva diante do cenário de flagrância em potencial. A descoberta das notas falsas no bolso do réu apenas ratifica a legitimidade da suspeição que motivou o ato administrativo-policial.
+Ademais, impende destacar que a sentença condenatória foi integralmente mantida pelo Tribunal de origem, que ratificou a higidez do procedimento investigativo. A via da revisão criminal, ou do writ substitutivo, não se presta ao revolvimento de fatos e provas para infirmar a conclusão de que havia justa causa para a busca pessoal. Inexistindo teratologia ou flagrante ilegalidade, deve prevalecer a soberania das decisões que reconheceram a validade da prova colhida.
+Nessa mesma linha de intelecção, os seguintes precedentes:
+DIREITO PROCESSUAL PENAL. HABEAS CORPUS. TRÁFICO DE DROGAS. BUSCA VEICULAR E DOMICILIAR. FUNDADAS RAZÕES. HABEAS CORPUS DENEGADO.
+I. Caso em exame
+1. Habeas corpus impetrado em razão de busca pessoal e veicular realizada sem mandado judicial, com base em denúncia anônima especificada, resultando na apreensão de drogas e posterior busca domiciliar.
+ ..
+2. A questão em discussão consiste na legalidade da busca pessoal e veicular sem mandado judicial, baseada em denúncia anônima especificada e fundada suspeita.
+ ..
+4. A denúncia anônima especificada, acompanhada de diligências mínimas de averiguação, configura a fundada suspeita necessária para a busca.
+ ..
+(HC n. 851.130/GO, relatora Ministra Daniela Teixeira, Quinta Turma, julgado em 22/10/2024, DJe de 29/10/2024.)
+Violação da inviolabilidade do domicílio e o Tema n. 280 do STF:
+No que tange à alegada violação ao domicílio, a insurgência não merece prosperar. A análise detida do acórdão fustigado revela que a apreensão do corpo de delito ocorreu em sede de busca pessoal, realizada em via pública, e não mediante ingresso forçado em residência sem o devido amparo legal. Ainda que se cogitasse de desdobramentos domiciliares, a jurisprudência pátria, em consonância com o Tema n. 280 da Repercussão Geral do Supremo Tribunal Federal, autoriza a mitigação da inviolabilidade em casos de flagrante delito amparado em fundadas razões.
+No caso sub examine, a existência de denúncias especificadas e a posterior constatação de posse de objetos ilícitos pelo réu configuram as "fundadas razões" exigidas pela Suprema Corte. A atuação estatal não se revelou arbitrária, mas sim decorrente de uma colheita progressiva de elementos indiciários que justificaram a intervenção. A proteção constitucional do domicílio não pode servir de salvaguarda para a prática de crimes permanentes, especialmente quando a diligência é precedida de averiguações que conferem verossimilhança à notícia criminis.
+Portanto, não se vislumbra qualquer desrespeito aos parâmetros fixados no RE n. 603.616/RO. A decisão proferida pela Corte de origem encontra-se em perfeita harmonia com o entendimento dos Tribunais Superiores, uma vez que a justa causa para a diligência foi devidamente demonstrada e justificada pelas circunstâncias fáticas que antecederam a abordagem.
+A propósito:
+PENAL E PROCESSO PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS E POSSE ILEGAL DE ARMA DE FOGO. ALEGAÇÃO DE NULIDADE DA PRISÃO EM FLAGRANTE. BUSCA DOMICILIAR. FUNDADAS SUSPEITAS. QUEBRA DA CADEIA DE CUSTÓDIA. ALEGAÇÃO GENÉRICA. AUSÊNCIA DE INDÍCIOS DE ADULTERAÇÃO DA PROVA. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO.
+1. Sobre a busca domiciliar, tem-se que o Plenário do Supremo Tribunal Federal, no julgamento do RE n. 603.616/RO, apreciando o Tema n. 280 da repercussão geral, fixou a tese de que "a entrada forçada em domicílio sem mandado judicial só é lícita, mesmo em período noturno, quando amparada em fundadas razões, devidamente justificadas a posteriori, que indiquem que dentro da casa ocorre situação de flagrante delito, sob pena de responsabilidade disciplinar, civil e penal do agente ou da autoridade e de nulidade dos atos praticados".
+2. Na hipótese, verifica-se que o contexto narrado nos autos, a priori, não evidencia arbitrariedade na atuação dos policiais, porquanto decorrente de coleta progressiva de elementos que levaram, de forma válida, à conclusão segura de ocorrência de crime permanente no local, justificando a incursão para a realização da prisão em flagrante. Em especial, pela realização prévia de "monitoramento da suposta ação do paciente, observando a movimentação do comércio, inclusive com fotografias que atestam a campana realizada pelos policiais diante do recebimento de denúncias". Desse modo, diversamente da alegação defensiva, tem-se concretamente demonstrada a existência de justa causa para a diligência, mostrando-se irrelevante a ausência de mandado judicial ou de autorização do proprietário do domicílio. Destarte, não há falar em nulidade da busca domiciliar.
+ ..
+PENAL E PROCESSUAL PENAL. RECURSO ESPECIAL. POSSE ILEGAL DE ARMA DE FOGO. INGRESSO ILEGAL EM DOMICÍLIO. NÃO CONFIGURAÇÃO. AUTORIZAÇÃO DA COMPANHEIRA DO RECORRENTE. FUNDADAS RAZÕES. DENÚNCIA ANÔNIMA ESPECIFICADA. SITUAÇÃO DE FLAGRANTE DELITO. RECURSO IMPROVIDO.
+I. Caso em exame
+1. Recurso especial interposto contra acórdão do Tribunal de Justiça de Minas Gerais que rejeitou alegação de ilicitude de provas obtidas em busca domiciliar, realizada com consentimento da moradora e baseada em denúncia anônima.
+ ..
+4. A questão em discussão consiste em saber se a busca domiciliar realizada com base em denúncia anônima e consentimento da moradora é válida.
+ ..
+6. A busca domiciliar foi considerada válida, pois realizada com consentimento da moradora e baseada em denúncia anônima especificada.
+ ..
+Tese de julgamento: "1. A entrada em domicílio sem mandado judicial é lícita quando amparada em fundadas razões que indiquem flagrante delito. 2. A busca domiciliar é válida quando realizada com consentimento da moradora e baseada em denúncia anônima especificada".
+ ..
+(REsp n. 2.199.999/MG, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 13/8/2025, DJEN de 18/8/2025.)
+Ante todo o exposto, denego a ordem.
+Publique-se. Intimem-se.
+EMENTA
