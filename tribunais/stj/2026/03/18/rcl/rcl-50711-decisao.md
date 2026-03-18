@@ -1,0 +1,51 @@
+DECISÃO
+Cuida-se de reclamação ajuizada por ACTION S.A. contra acórdão da Terceira Turma do SUPERIOR TRIBUNAL DE JUSTIÇA que não conheceu do agravo em recurso especial (fls. 40-47).
+Aduz a parte reclamante que (fls. 11-20):
+Vale observar que na r. decisão impugnada, os N. Julgadores não conheceram do agravo em recurso especial da agravante, sob o fundamento que esbarraria no óbice da súmula 7 deste Superior Tribunal de Justiça.
+Porém, os N. Julgadores foram omissos em observar que os elementos fáticos-temporais que justificam a reforma do v. acórdão constam expressamente no v. acordão impugnado via recurso especial pela reclamante, não demandando nenhuma nova incursão.
+Nesse diapasão, é evidente que essa C. Corte poderia e deveria fazer uma revaloração jurídica dos elementos fáticos constantes expressamente no v. acordão impugnado pela reclamante no julgamento do recurso especial, quando iriam concluir pelo equívoco da r. decisão proferida pelo E. Tribunal a quo.
+Afinal, essa C. Corte já pacificou que é totalmente cabível a revaloração de provas, sem que isso afronte ou incida na Súmula 07  .. .
+ ..
+No entanto, não deve ser mantido o v. acordão objeto da presente reclamação (fls. 882/889 - STJ), uma vez que demandava uma mera revaloração dos elementos consignados expressamente no v. acordão atacado via recurso especial pela reclamante para que fosse dado provimento ao agravo interposto pela reclamante.
+Isso porque, quanto à alegação de que para conhecer a controvérsia apresentada neste recurso, relativa ao transcurso da prescrição, se mostraria necessário o revolvimento do acervo fático-probatório dos autos, procedimento incompatível com o entendimento firmado pela súmula 7 deste Superior Tribunal de Justiça, constata-se que os N. Julgadores não observaram que que os fatos essenciais ao deslinde da controvérsia constam expressamente no v. acórdão recorrido (incontroversos) sendo suficientes para reconhecer a prescrição  .. .
+ ..
+Com efeito, os E. Julgadores deixaram de observar no v. acordão reclamado que não demanda nenhuma incursão no quadro fático-probatório para realizar a contagem da prescrição no caso em comento, a qual já havia se operado quando da propositura da demanda de falência discutida na origem se levar em consideração os parâmetros delineados no próprio v. acórdão proferido pelo E. TJPR.
+ ..
+Partindo de tais premissas contidas no v. acórdão guerreado, resta evidente que os N. Julgadores não revaloraram corretamente os marcos temporais constantes no v. acordão objeto da presente reclamação.
+Isso porque, restou expressamente reconhecido pelo E. Tribunal de origem que a ação anulatória do título que embasa a demanda de origem transitou em julgado em 19/04/2006, bem como que a propositura da demanda de falência se deu em 26/08/2009.
+O E. Tribunal a quo, deixou os marcos temporais evidenciados e consignou de forma expressa que é aplicável ao caso a prescrição trienal (CC, art. 206, § 3º, VIII).
+ ..
+Neste sentido, é claro que se restar mantido o entendimento do v. acórdão guerreado, no sentido de que o dies a quo do prazo prescricional seja o restabelecimento do protesto - estar-se-á permitindo que haja outra interrupção do prazo prescricional, ou seja, uma com a propositura da ação anulatória e outra com o restabelecimento dos protestos realizados após o trânsito em julgado da ação anulatória, ferindo sobremaneira o que dispõe o art. 202 caput do Código Civil.
+Assim sendo, não há nenhuma dúvida que não é necessário a reanálise fática do feito para se concluir que a prescrição trienal deverá ser aplicada ao presente caso, afinal, os fatos e marcos temporais constam expressamente no v. acórdão guerreado (incontroversos), cabendo ao C. STJ analisar a violação ao disposto no artigo 202 caput do Código Civil.
+ ..
+Vale reforçar que, muito embora o v. acórdão guerreado tenha reconhecido expressamente a data do trânsito em julgado da ação anulatória, violando as disposições contidas no artigo 202, caput, inciso VI e parágrafo único e artigo 206, § 3º, inc. VIII, todos do Código Civil, deixou de reconhecer a prescrição, contando do trânsito e julgado da demanda que discutia a validade do título que embasa a cobrança na falência de origem.
+Portanto, como de uma simples análise do v. acórdão proferido na origem é possível concluir pela presença de todos os parâmetros necessários para que os N. Julgadores pudessem revisar a irregularidade na contagem do prazo prescricional já reconhecido como aplicável, é claro que não demandava nova incursão fática e sim uma mera revaloração dos elementos constantes, levando a concluir que restou aplicado de forma indevida a Súmula n. 07 dessa C. Corte, denotando o cabimento da presente reclamação.
+É, no essencial, o relatório.
+Nos termos do art. 105, inciso I, alínea "f", da Constituição Federal, a reclamação presta-se a preservar a competência e garantir a autoridade das decisões dos tribunais. Percebe-se, portanto, que é um instrumento processual específico e de aplicação restrita.
+Assim, caberá reclamação nesta Corte quando um órgão julgador estiver exercendo competência privativa ou exclusiva do STJ, ou quando suas decisões não estiverem sendo cumpridas por quem de direito.
+Da análise dos autos, verifica-se que a presente reclamação foi ajuizada contra acórdão proferido pela Terceira Turma desta Corte (fls. 40-47), que não conheceu do agravo em recurso especial interposto.
+Ocorre que é desacertado o manejo de reclamação para impugnar decisão dos Ministros ou dos órgãos colegiados do próprio STJ, por ser vedada a utilização da ação constitucional como sucedâneo recursal.
+A propósito, confiram-se precedentes:
+AGRAVO REGIMENTAL NA RECLAMAÇÃO. RECLAMAÇÃO NÃO CONHECIDA. DECISÃO IMPUGNADA PROFERIDA PELO PRÓPRIO SUPERIOR TRIBUNAL DE JUSTIÇA - STJ. NÃO CABIMENTO. AGRAVO REGIMENTAL DESPROVIDO.
+1. Conforme o art. 105, I, "f", da Constituição Federal - CF, compete ao Superior Tribunal de Justiça "processar e julgar, originariamente, a reclamação para a preservação de sua competência e garantia da autoridade de suas decisões". Na mesma linha, o art. 187 do Regimento Interno do Superior Tribunal de Justiça - RISTJ estabelece que "para preservar a competência do Tribunal, garantir a autoridade de suas decisões e a observância de julgamento proferido em incidente de assunção de competência, caberá reclamação da parte interessada ou do Ministério Público desde que, na primeira hipótese, haja esgotado a instância ordinária".
+2. Na espécie, a parte alega que o AREsp n. 2.471.245/SP não deveria ter sido distribuído por prevenção à minha relatoria, mas, sim, distribuído livremente entre os Ministros da Terceira Seção. Isso porque o HC n. 400.908/SP, que teria justificado a distribuição a este Relator, foi indeferido liminarmente, situação que afastaria a prevenção.
+3. No entanto, como consignado na decisão agravada, a reclamação não constitui via apropriada para impugnar decisão de qualquer dos seus órgãos colegiados e de Ministros do próprio STJ. Incabível, pois, para discutir regras de competência interna do próprio STJ.
+4. Reitera-se que o agravante não descreve qualquer descumprimento à decisão desta Corte Superior de Justiça e tampouco usurpação de competência deste Sodalício por outros órgãos.
+5. Ademais, os precedentes citados na decisão agravada são aplicáveis ao caso em questão, a despeito da insurgência defensiva em sentido contrário. Isso porque reforçam o descabimento da reclamação para impugnação de decisão emanada pelo próprio STJ, bem como indicam que a usurpação de competência passível de ser impugnada por reclamação deve ser aquela realizada por órgãos externos a esta Corte. Deve ser mantido, assim, o não conhecimento da reclamação.
+6. Agravo regimental não provido.
+(AgRg na Rcl n. 47.587/SP, relator Ministro Joel Ilan Paciornik, Terceira Seção, julgado em 20/8/2024, DJe de 27/8/2024, grifo meu.)
+PETIÇÃO NA RECLAMAÇÃO. AGRAVO INTERNO. ECONOMIA PROCESSUAL. DECISÃO RECLAMADA. MONOCRÁTICA. SUPERIOR TRIBUNAL DE JUSTIÇA. NÃO CABIMENTO. SUCEDÂNEO RECURSAL.
+1. Petição recebida como agravo interno, com base nos princípios da fungibilidade e da economia processual.
+2. De acordo com a pacífica jurisprudência desta Corte Superior, é incabível a reclamação que objetiva impugnar decisão do próprio Superior Tribunal de Justiça.
+3. A reclamação visa preservar a competência e a garantia da autoridade dos julgados, não podendo ser utilizada como sucedâneo recursal.
+4. Agravo interno não provido.
+(AgInt na Rcl n. 39.470/DF, relator Ministro Ricardo Villas Bôas Cueva, Segunda Seção, julgado em 16/8/2022, DJe de 19/8/2022, grifo meu.)
+AGRAVO REGIMENTAL NA RECLAMAÇÃO CONSTITUCIONAL. ACÓRDÃO IMPUGNADO EMANADO DO PRÓPRIO SUPERIOR TRIBUNAL DE JUSTIÇA. INCABÍVEL A RECLAMAÇÃO. PRECEDENTES. PETIÇÃO LIMINARMENTE INDEFERIDA. AGRAVO REGIMENTAL DESPROVIDO.
+1. Nos termos da jurisprudência do Superior Tribunal de Justiça, "a competência originária desta Corte para processar e julgar reclamação, prevista nos arts. 105, I, f, da Constituição Federal, e 187 do RISTJ, limita-se à preservação de sua competência ou à garantia da autoridade de suas próprias decisões, não sendo admissível o seu uso quando a autoridade reclamada for órgão julgador do próprio STJ." (AgRg na Rcl 29.987/MS, Rel. Ministro MARCO AURÉLIO BELLIZZE, SEGUNDA SEÇÃO, julgado em 13/04/2016, DJe 19/04/2016).
+2. Não é outra a hipótese dos autos, cujo escopo preconizado na exordial é fazer prevalecer a tese segundo a qual o acórdão proferido quando do julgamento do AgInt no AREsp n.º 1.530.673/GO, proferido pela Segunda Turma do STJ, estaria em desconformidade com o estabelecido pela Corte Especial desta Corte Superior de Justiça no RESp n.º 1.813.684/SP.
+3. Agravo regimental desprovido.
+(AgInt na Rcl n. 39.671/GO, relatora Ministra Laurita Vaz, Corte Especial, julgado em 12/5/2020, DJe de 26/5/2020, grifo meu.)
+Assim, considerando a ausência de caracterização de quaisquer das hipóteses de cabimento previstas nos arts. 105, inciso I, alínea "f", da Constituição Federal, 988 do Código de Processo Civil e 187, caput, do RISTJ, é imperioso o indeferimento da petição.
+Ante o exposto, indefiro liminarmente a presente reclamação, com fundamento no art. 34, XVIII, do RISTJ.
+Publique-se. Intimem-se.
+EMENTA
