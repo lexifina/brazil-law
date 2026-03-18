@@ -1,0 +1,27 @@
+DECISÃO:
+
+Cuida-se de reclamação constitucional, com pedido de tutela de urgência, ajuizada pela Associação dos Agricultores e Horticultores do Estado do Pará (ASPROR) contra decisão proferida pelo Juízo de Direito da Vara Agrária da Comarca de Marabá nos autos do Processo nº 080162-60.2026.8.14.0028, por alegada violação à eficácia do julgado na ADPF nº 828.
+A ASPROR afirma que “representa uma coletividade de 160 famílias de trabalhadores rurais em manifesta situação de hipossuficiência econômica e vulnerabilidade social”, a quem foi direcionada ordem de desocupação sem que fossem observadas as diretrizes do paradigma.
+Pondera que foram opostos embargos declaratórios contra a decisão liminar de reintegração de posse, requerendo efeito suspensivo; e que a autoridade reclamada teria aberto prazo para contrarrazões na mesma data em que determinou “a expedição de ofício ao Comando de Missões Especiais (CME) da Polícia Militar para iniciar os preparativos da desocupação”, sem que tenha elaborado “plano de ação concreto das entidades notificadas”, em afronta à autoridade do STF.
+A ASPROR requer que seja deferida medida liminar para suspender os efeitos da decisão reclamada e, no mérito, pede que seja julgada procedente a reclamação para cassar a ordem liminar de reintegração de posse no Processo nº 080162-60.2026.8.14.0028, determinado que sejam observadas as diretrizes do julgado paradigma, com a submissão do conflito à Comissão de Conflitos Fundiários do Tribunal de Justiça do Estado do Pará, ficando consignada
+
+“determinação de que o juízo de origem se abstenha de praticar qualquer novo ato tendente a executar a desocupação até a conclusão do procedimento de mediação e a apresentação de um plano de ação que contemple solução habitacional para as famílias.”
+
+É o relatório. Decido.
+Compulsados os autos, observo que a decisão reclamada foi proferida em sede liminar em 23/2/26 (eDoc. 7, pp. 723 a 727), tendo em vista esbulho possessório que teria ocorrido em 1º/2/26, estando a conjuntura assim narrada na decisão reclamada:
+
+“Relata o autor que, em 01/02/2026, cerca de 100 (cem) pessoas não identificadas ingressaram no imóvel mediante arrombamento/destruição de cadeado, algumas, caracterizando o esbulho possessório, tudo devidamente registrado no Boletim de Ocorrência registrado junta a Delegacia de Conflitos Agrários de Marabá/PA.”
+
+A situação fático-jurídica objeto da decisão reclamada não é alcançada por  por decisão com força vinculante exarada no paradigma.
+Nesse sentido:
+
+“DIREITO CONSTITUCIONAL. AGRAVO INTERNO EM RECLAMAÇÃO. OCUPAÇÃO COLETIVA DE ÁREA RURAL, POSTERIOR A 31.03.2021, CUJA REMOÇÃO NÃO HAVIA SIDO SUSPENSA POR DECISÕES PROFERIDAS NA ADPF 828. INAPLICABILIDADE DO REGIME DE TRANSIÇÃO. 1. Agravo interno em reclamação ajuizada em face de decisão judicial que autorizou a reintegração de posse de área rural, com a remoção de ocupação coletiva. Alegação de afronta à decisão proferida na ADPF 828. 2. Na ADPF 828, esta Corte deferiu medida cautelar para impedir remoções e desocupações coletivas durante a pandemia da Covid-19. Após a decisão, foi editada a Lei nº 14.216/2021, que suspendeu ordens de remoção em imóveis urbanos até 31.12.2021. Tal prazo foi prorrogado por este Tribunal, por sucessivas vezes, até 31.10.2022. 3. Em 31.10.2022, proferi nova decisão – referendada na sequência pelo Plenário – fixando um regime de transição para a retomada da execução das decisões que haviam sido suspensas pelas cautelares proferidas na ADPF 828, em razão da pandemia da Covid-19. Entendi que não mais havia fundamento de ordem sanitária para a prorrogação do prazo de suspensão das desocupações. 4. No caso, alega-se afronta a essa última decisão, em que se fixou tal regime de transição. Ocorre que: (i) a ocupação em análise é posterior a 31.03.2021 – marco temporal adotado pelo art. 7º da Lei nº 14.216/2021 –, não tendo sido beneficiada pelas cautelares proferidas na ADPF 828; (ii) ainda que assim não fosse, tais decisões não se encontram mais em vigor, tendo o Plenário desta Corte decidido pela não prorrogação do prazo de suspensão e pela retomada gradual das desocupações. 5. O regime de transição estabelecido na ADPF 828 visa à retomada paulatina das desocupações que haviam sido suspensas, não se aplicando, portanto, ao caso dos autos, em que sempre esteve autorizada a atuação do Poder Público para evitar a consolidação da ocupação irregular. 6. Não é possível que o Supremo Tribunal Federal, distante do local da ocupação e em sede de reclamação, avalie as circunstâncias fáticas de cada caso, tais como a efetiva atuação do Poder Público para a proteção social dos desabrigados, a existência de risco ou não na área objeto de remoção, entre outras. Tais elementos devem ser aferidos pelas autoridades e pelo Judiciário locais, por dependerem de dilação probatória. 7. Ausência da necessária relação de aderência estrita entre o ato reclamado e o paradigma apontado como violado. 8. Agravo interno a que se nega provimento, com aplicação da multa prevista no art. 1.021, § 4º, do CPC/2015” (Rcl nº 57238 AgR, Rel. Min. Roberto Barroso, Primeira Turma, DJe de 7/3/23).
+
+Diante do exposto, nos termos do art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal, nego seguimento à reclamação, prejudicado, em consequência, o pedido de liminar.
+
+Publique-se.
+Brasília, 18 de março de 2026.
+
+Ministro DIAS TOFFOLI
+Relator
+Documento assinado digitalmente
