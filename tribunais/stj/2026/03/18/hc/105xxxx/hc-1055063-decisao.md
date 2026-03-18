@@ -1,0 +1,29 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de VENILSON CANDIDO DA SILVA, contra acórdão prolatado pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE PERNAMBUCO.
+Consta nos autos que o paciente está preso preventivamente desde 01/12/2024 pela suposta prática do crime de homicídio.
+Irresignada, a defesa impetrou habeas corpus perante o Tribunal de Justiça de origem, que denegou a ordem em acórdão às fls. 103-129.
+Neste writ, o impetrante sustenta, em suma, o excesso de prazo na instrução processual, sem contribuição da defesa, em razão do cumprimento pendente, há cerca de oito meses, de diligências determinadas, dentre elas a perícia videográfica e as requisições de dados de corridas das empresas UBER e 99.
+Alega, ainda, o descumprimento da revisão periódica da prisão preventiva prevista no art. 316, § 6º, do Código de Processo Penal, apontando que o juízo de origem não procedeu à reavaliação recomendada no acórdão, bem como invoca o direito fundamental à razoável duração do processo, previsto no art. 5º, inciso LXXVIII, da Constituição Federal.
+Requer a revogação da prisão preventiva ou, subsidiariamente, sua substituição por medidas cautelares diversas.
+Liminar indeferida às fls. 132-133.
+Informações prestadas às fls. 138-139.
+O Ministério Público Federal em parecer, às fls. 144-149, opinou pelo não conhecimento do writ.
+É  o  relatório. DECIDO.
+No que tange ao excesso de prazo aventado, deve se ressaltar que os prazos processuais não têm as características de fatalidade e de improrrogabilidade, fazendo-se imprescindível raciocinar com o juízo de razoabilidade para definir o excesso de prazo.
+Na hipótese, em que pese a Defesa alegar excesso de prazo, tenho que não ocorre, na espécie, demora exacerbada a configurar o constrangimento ilegal suscitado, notadamente se considerada a gravidade da conduta imputada ao paciente, consistente em homicídio qualificado, que exige rito diferenciado, demandando o feito prova pericial complexa; nesse sentido, a Corte de origem consignou que "trata-se de crime doloso contra a vida, cujo procedimento é bifásico, e que, na hipótese, demanda a produção de prova pericial de natureza complexa (análise de vídeo) e a requisição de informações a empresas de tecnologia de grande porte - UBER e 99 -, cujo cumprimento, notoriamente, envolve trâmites burocráticos que escapam à esfera de controle do magistrado" (fl. 108); não se evidenciado a existência de desídia atribuível ao Poder Judiciário.
+Outrossim, em consulta no sítio da corte de origem, (www.tjpe.jus.br), consta que o paciente foi pronunciado, em 03/3/2026.
+Assim, considerando que o recorrente foi pronunciado, incide o óbice da Súmula nº 21 desta Corte Superior, que prescreve que:
+Pronunciado o réu, fica superada a alegação do constrangimento ilegal por excesso de prazo na instrução.
+Portanto; não restando demonstrado o constrangimento ilegal apontado, relativamente ao excesso de prazo; não é caso de relaxamento do cárcere provisório.
+A propósito:
+"No que tange ao aventado excesso de prazo, cumpre ressaltar que os prazos processuais não têm as características de fatalidade e de improrrogabilidade, fazendo-se imprescindível raciocinar com o juízo de razoabilidade para definir o excesso de prazo" (AgRg no HC n. 923.616/SC, de minha relatoria, Quinta Turma, julgado em 2/9/2024, DJe de 6/9/2024.)
+"A tramitação processual está dentro dos limites da razoabilidade, considerando as particularidades do caso (feito tramita pelo rito do Júri, a não localização da vítima exigiu a elaboração de laudo indireto, houve redesignações de assentadas em razão de pedidos formulados tanto pela Defesa quanto pela Acusação), o Juízo processante regularmente tem realizado a reavaliação da custódia cautelar do agravante e o feito está próximo de encerrar a instrução, inexistindo, portanto, comprovação de desídia estatal, não havendo falar em excesso de prazo" (AgRg no HC n. 1.040.155/SE, relator Ministro Carlos Pires Brandão, Sexta Turma, julgado em 19/11/2025, DJEN de 28/11/2025.)
+No mais, no que se refere à aventada inobservância do prazo nonagesimal de revisão da prisão cautelar, não existe qualquer ilegalidade a ser sanada na hipótese.
+Nesse sentido, o Tribunal de origem manifestou-se pela revisão da necessidade de prisão  Recomendo, contudo, ao juízo de origem, que adote as providências necessárias para o processo retome seu curso regular com a maior brevidade possível, bem como que, nos termos do art. 316 do CPP, reavalie a necessidade da manutenção prisão cautelar imposta ao paciente  (fl. 122) , havendo que ressaltar que na decisão de pronúncia proferida, em 03/3/2026, o Juízo de primeiro grau manifestou-se acerca da prisão preventiva entendendo ser o caso de manutenção do encarceramento provisório; não se evidenciando, portanto, qualquer constrangimento ilegal a ultimar a soltura do recorrente.
+Ademais, cumpre consignar que, de acordo com a jurisprudência desta Corte, a "falta de revisão nonagesimal dos fundamentos da segregação cautelar não é argumento suficiente, por si só, para determinar a revogação automática da constrição provisória" (AgRg no RHC n. 17 2.640/MG, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 13/3/2023, DJe de 16/3/2023.)
+Por fim, no que concerne ao pedido de imposição de medidas cautelares alternativas à prisão; verifico que a quaestio não foi apreciada pelo Tribunal de origem, o que obsta o exame desta Corte, sob pena de indevida supressão de instância.
+A propósito:
+"Sob pena de indevida supressão de instância, mostra-se inviável a manifestação desta Corte sobre questão não debatida pelo Tribunal de origem, como ocorre no caso, quanto ao pleito de aplicação de medidas cautelares alternativas" (AgRg no HC n. 874.145/PE, relator Ministro Teodoro Silva Santos, Sexta Turma, julgado em 4/3/2024, DJe de 7/3/2024.)
+Ante o exposto, denego a ordem.
+Publique-se. Intimem-se.
+EMENTA
