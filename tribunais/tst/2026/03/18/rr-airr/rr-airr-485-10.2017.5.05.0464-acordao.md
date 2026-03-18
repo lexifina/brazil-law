@@ -1,0 +1,184 @@
+Poder Judiciário
+Justiça do Trabalho
+Tribunal Superior do Trabalho
+PROCESSO Nº TST-RR - 485-10.2017.5.05.0464
+A C Ó R D Ã O
+8ª Turma
+GMSPM/ccs
+I - AGRAVO DE INSTRUMENTO EM RECURSO DE REVISTA –
+REGÊNCIA PELA LEI Nº 13.467/2017. RESPONSABILIDADE
+SUBSIDIÁRIA. TERCEIRIZAÇÃO DE SERVIÇOS. ENTE PÚBLICO.
+AUSÊNCIA DE PROVA DE FISCALIZAÇÃO. ÔNUS DA PROVA.
+TEMAS 246 E 1.118 DO EMENTÁRIO DE REPERCUSSÃO GERAL.
+TRANSCENDÊNCIA POLÍTICA RECONHECIDA. Constatada
+possível violação do § 1º do art. 71 da Lei nº 8.666/93 merece
+provimento o agravo de instrumento para determinar o
+processamento do recurso de revista. Agravo de instrumento a
+que se dá provimento.
+II – RECURSO DE REVISTA. REGÊNCIA PELA LEI Nº 13.467/2017 -
+RESPONSABILIDADE SUBSIDIÁRIA. TERCEIRIZAÇÃO DE
+SERVIÇOS. ENTE PÚBLICO. AUSÊNCIA DE PROVA DE
+FISCALIZAÇÃO. ÔNUS DA PROVA. TEMAS 246 E 1.118 DO
+EMENTÁRIO DE REPERCUSSÃO GERAL. TRANSCENDÊNCIA
+POLÍTICA RECONHECIDA. O Supremo Tribunal Federal, ao
+examinar a ADC-16/DF e o RE-760931/DF (leading case do Tema
+nº 246 do Ementário de Repercussão Geral), firmou tese no
+sentido de que a inadimplência da empresa contratada não
+transfere ao ente público tomador de serviços, de forma
+automática, a responsabilidade pelo pagamento dos encargos
+trabalhistas e fiscais, sendo necessário verificar, caso a caso, a
+eventual ocorrência de culpa da Administração Pública. No
+recente julgamento do Tema nº 1.118, o STF fixou a seguinte tese
+jurídica, “Não há responsabilidade subsidiária da Administração
+Pública por encargos trabalhistas gerados pelo inadimplemento de
+empresa prestadora de serviços contratada, se amparada
+exclusivamente na premissa da inversão do ônus da prova,
+remanescendo imprescindível a comprovação, pela parte autora, da
+efetiva existência de comportamento negligente ou nexo de
+causalidade entre o dano por ela invocado e a conduta comissiva ou
+omissiva do poder público.” (publicado no DJE em 24/2/25). Assim,
+constata-se que a mera ausência de prova quanto à fiscalização
+do contrato não induz à responsabilização do Poder Público,
+cabendo à parte autora a comprovação da conduta culposa do
+ente público tomador. Caso contrário, estar-se-ia diante da
+possibilidade de novas condenações do Estado por simples
+inadimplemento, em desrespeito às teses fixadas pelo STF.
+Transcendência política reconhecida. Recurso de revista de que
+se conhece e a que se dá provimento.
+Vistos, relatados e discutidos estes autos de Recurso de Revista nº TST-RR - 485-
+10.2017.5.05.0464, em que é Recorrente(s) ESTADO DA BAHIA e são Recorrido(s)S ADRIANA NOGUEIRA
+LOPES e C&C MÃO DE OBRA TEMPORÁRIA EIRELI.
+Em julgamento anterior, esta Oitava Turma negou provimento ao agravo de
+instrumento em recurso de revista do ESTADO DA BAHIA (fls. 178/188).
+O reclamado interpôs recurso extraordinário às fls. 191/202.
+A Vice-Presidência, com fulcro no artigo 1.030, II do CPC, determinou o
+encaminhamento dos autos a este Colegiado para manifestação sobre a necessidade, ou não, de
+eventual juízo de retratação em face do julgamento do Tema 1.118, cuja repercussão geral foi
+reconhecida pelo Supremo Tribunal Federal (fls.212). Este documento pode ser acessado no endereço eletrônico http://www.tst.jus.br/validador sob código 10066B613A67B115FB.
+É o relatório.
+V O T O
+JUÍZO DE RETRATAÇÃO
+I - AGRAVO DE INSTRUMENTO EM RECURSO DE REVISTA
+RESPONSABILIDADE SUBSIDIÁRIA. TERCEIRIZAÇÃO DE SERVIÇOS. ENTE
+PÚBLICO. AUSÊNCIA DE PROVA DE FISCALIZAÇÃO. ÔNUS DA PROVA. TEMAS 246 E 1.118 DO
+EMENTÁRIO DE REPERCUSSÃO GERAL
+Em julgamento anterior, esta Oitava Turma negou provimento ao agravo de
+instrumento (fls. 178/188), sob os seguintes fundamentos:
+“Registro, inicialmente, que o recurso de revista foi interposto na vigência da Lei nº
+13.467/2017.
+Considerando a controvérsia jurisprudencial verificada nas Turmas do Tribunal Superior do
+Trabalho e nas manifestações do Supremo Tribunal Federal de qual(is) ato(s) omissivo(s) da
+Administração Público autorizaria(m) a sua responsabilidade subsidiária, reconheço a transcendência
+jurídica da questão.
+A controvérsia versada no recurso de revista está centrada na responsabilidade subsidiária do
+Ente Público pelos créditos trabalhistas devidos pela empresa prestadora de serviços.
+O Supremo Tribunal Federal, ao julgar o precedente vinculante constituído pelo Tema 246 da
+Repercussão Geral (RE nº 760.931), fixou a tese jurídica segundo a qual “o inadimplemento dos
+encargos trabalhistas dos empregados do contratado não transfere automaticamente ao Poder
+Público contratante a responsabilidade pelo seu pagamento, seja em caráter solidário ou subsidiário,
+nos termos do art. 71, § 1º, da Lei nº 8.666/93”.
+Com isso, o Pretório Excelso deixou claro que a dicção do artigo 71, § 1º, da Lei nº 8.666/1993,
+apesar de constitucional, como delimitado por ocasião do julgamento da ADC nº 16, não representa o
+afastamento total da responsabilidade civil do Estado em contratos de terceirização, mas, ao revés,
+indica a existência de tal responsabilidade em caso de haver elementos de comprovação da culpa do
+ente público pelo inadimplemento dos encargos trabalhistas da empresa terceirizada.
+Tendo em vista o substrato fático do acórdão regional, no sentido de que restou demonstrada
+a ausência da adequada fiscalização por parte do ente da Administração Pública, acerca do
+cumprimento das obrigações trabalhistas a cargo da empresa prestadora de serviços, conclui-se que
+o acórdão recorrido está em conformidade com a tese fixada pela Suprema Corte no precedente de
+repercussão geral citado e com a atual redação do item V da Súmula nº 331 do TST.
+Por outro lado, somente com o reexame do conjunto fático probatório da ação trabalhista,
+procedimento vedado em sede de recurso de revista, seria possível concluir pela ausência de culpa
+do ente da Administração Pública na fiscalização das obrigações trabalhistas por parte da empresa
+prestadora de serviços contratada.
+O processamento da revista encontra óbice, assim, no Verbete nº 126 desta Corte Superior.
+Nego provimento.”
+Inicialmente, verifico que a causa oferece transcendência política hábil a viabilizar
+sua apreciação.
+O Supremo Tribunal Federal, ao examinar a ADC-16/DF e o RE-760931/DF (leading
+case do Tema nº 246 do Ementário de Repercussão Geral), firmou tese no sentido de que a inadimplência
+da empresa contratada não transfere ao ente público tomador de serviços, de forma automática, a
+responsabilidade pelo pagamento dos encargos trabalhistas e fiscais, sendo necessário verificar, caso a
+caso, a eventual ocorrência de culpa da Administração Pública. Na ocasião desses julgamentos, a excelsa
+Corte não firmou tese explícita a respeito da distribuição do ônus da prova, o que constitui objeto do
+Tema nº 1.118.
+Conforme destacado pela excelsa Corte na ementa do acórdão relativo aos
+embargos de declaração opostos no leading case do Tema nº 246, "(...) a responsabilização subsidiária do poder
+público não é automática, dependendo de comprovação de culpa in eligendo ou culpa in vigilando (...)" [STF-RE-760931-
+ED/DF, Red. Min. Edson Fachin (DJe nº 194, publicado em 6/9/2019) – g. n.]. Portanto, o que deve ser
+objeto de prova é a culpa e não a fiscalização, o que induz à conclusão de que o ônus da prova incumbe
+ao empregado.
+No julgamento recente do Tema nº 1.118 de repercussão geral, o STF, por maioria,
+fixou a seguinte tese jurídica: "1. Não há responsabilidade subsidiária da Administração Pública por encargos
+trabalhistas gerados pelo inadimplemento de empresa prestadora de serviços contratada, se amparada exclusivamente na
+premissa da inversão do ônus da prova, remanescendo imprescindível a comprovação, pela parte autora, da efetiva
+existência de comportamento negligente ou nexo de causalidade entre o dano por ela invocado e a conduta comissiva ou
+omissiva do poder público.” (publicado no DJE em 24/2/25)
+Este documento pode ser acessado no endereço eletrônico http://www.tst.jus.br/validador sob código 10066B613A67B115FB.
+Logo, considerando que o Supremo Tribunal Federal delineia o alcance dos seus
+precedentes vinculantes por meio de suas reclamações, constatava-se que a mera ausência de prova
+quanto à fiscalização do contrato não induziria à responsabilização do Poder Público, cabendo ao
+reclamante o encargo de comprovar a omissão do ente público quanto à sua obrigação de fiscalizar.
+Caso contrário, estar-se-ia diante da possibilidade de novas condenações do Estado por simples
+inadimplemento, em desrespeito à tese fixada na ADC 16.
+No caso dos autos, depreende-se da leitura do acórdão recorrido, que o
+Regional reconheceu a responsabilidade subsidiária do Município reclamado, sem que fosse,
+efetivamente, demonstrada a sua conduta culposa, tendo decidido com base na mera ineficiência da
+fiscalização.
+O Regional ressaltou, nesse sentido, que, “Contudo, ao contrário do quanto concluiu
+o Juízo sentenciante, vislumbro que o conjunto probatório contido nos autos evidencia que a alegada
+fiscalização feita pelo tomador dos serviços não foi efetiva, isto porque, como se observa nos documentos
+anexados pelo segundo reclamado sob o ID 12b87de, apesar de o ente público ter emitido diversas
+notificações à primeira reclamada, entre os anos de 2014 e 2015, solicitando providências sobre os
+descumprimentos das obrigações trabalhistas de seus empregados, nenhuma penalidade foi aplicada pelo
+ente público em tempo hábil. Tanto é assim que a autora foi despedida sem receber seus haveres rescisórios.”
+(fls.120/121)
+Assim, observa-se que, na verdade, o Município tomador não foi negligente e,
+tampouco, quedou-se inerte diante das irregularidades praticadas pela prestadora de serviços, ao
+contrário, enviou notificações.
+Destaca-se, por oportuno, que o dever de fiscalização do ente público constitui
+uma obrigação de meio e não de resultado, isto é, a demonstração de fiscalização por mera amostragem
+é suficiente como prova do efetivo cumprimento da obrigação por parte da Administração Pública, até
+mesmo por ser economicamente inviável fiscalizar minuciosamente o contrato de trabalho de cada
+empregado de todos os prestadores de serviço do ente público.
+Desse modo, eventual insucesso das diligências, sob a ótica da integral
+recomposição do patrimônio jurídico do obreiro, não altera a conclusão quanto ao efetivo exercício do
+dever de vigilância.
+Nesse contexto, o que se conclui é que a Corte de origem responsabilizou o ente
+público de forma automática em razão do mero inadimplemento das verbas trabalhistas, ou seja, com
+base em culpa presumida, o que destoa dos entendimentos vinculantes firmados pelo STF.
+Demonstrada possível violação do § 1º do artigo 71 da Lei nº 8.666/93 deve ser
+superada a negativa de seguimento recursal e dado prosseguimento ao exame do recurso de revista.
+Dou provimento ao agravo de instrumento para mandar processar o recurso de
+revista e determinar a consequente reautuação do feito, prosseguindo, desde logo, o exame do referido
+apelo.
+II – RECURSO DE REVISTA
+a)Conhecimento
+Presentes os pressupostos legais de admissibilidade.
+RESPONSABILIDADE SUBSIDIÁRIA. TERCEIRIZAÇÃO DE SERVIÇOS. ENTE
+PÚBLICO. AUSÊNCIA DE PROVA DE FISCALIZAÇÃO. ÔNUS DA PROVA. TEMAS 246 E 1.118 DO
+EMENTÁRIO DE REPERCUSSÃO GERAL
+Pelos motivos consignados no provimento do agravo de instrumento, conheço do
+recurso de revista, por violação do § 1º do artigo 71 da Lei nº 8.666/93.
+b) Mérito
+RESPONSABILIDADE SUBSIDIÁRIA. TERCEIRIZAÇÃO DE SERVIÇOS. ENTE
+Este documento pode ser acessado no endereço eletrônico http://www.tst.jus.br/validador sob código 10066B613A67B115FB.
+PÚBLICO. AUSÊNCIA DE PROVA DE FISCALIZAÇÃO. ÔNUS DA PROVA. TEMAS 246 E 1.118 DO
+EMENTÁRIO DE REPERCUSSÃO GERAL
+Conhecido o recurso de revista por violação do § 1º do artigo 71 da Lei nº 8.666/93,
+a consequência lógica é o seu provimento.
+Dou provimento para eximir o segundo reclamado da responsabilidade
+subsidiária que lhe foi imposta.
+ISTO POSTO
+ACORDAM os Ministros da Oitava Turma do Tribunal Superior do Trabalho, por
+unanimidade, no exercício do juízo de retratação de que trata o art. 1.030, II, do CPC: I - conhecer e dar
+provimento ao agravo de instrumento para mandar processar o recurso de revista; II – conhecer do
+recurso de revista do segundo reclamado, por violação do § 1º do artigo 71 da Lei nº 8.666/93 e, no
+mérito, dar-lhe provimento para eximir o ente público da responsabilidade subsidiária que lhe foi
+imposta.
+Brasília, 18 de março de 2026.
+Firmado por assinatura digital (MP 2.200-2/2001)
+SERGIO PINTO MARTINS
+Ministro Relator
+Firmado por assinatura digital em 20/03/2026 pelo sistema AssineJus da Justiça do Trabalho, conforme MP 2.200-2/2001, que instituiu a Infra-Estrutura
+de Chaves Públicas Brasileira. Este documento pode ser acessado no endereço eletrônico http://www.tst.jus.br/validador sob código 10066B613A67B115FB.
