@@ -1,0 +1,14 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em favor de Vanessa Ferreira Bueno, presa preventivamente pela suposta prática do crime de uso de documento público falso (art. 304 c/c art. 297 do Código Penal), nos autos do Processo n. 0741809-80.2025.8.07.0001, em trâmite na 6ª Vara Criminal de Brasília/DF.
+Aponta-se como autoridade coatora a Desembargadora plantonista do Tribunal de Justiça do Distrito Federal e dos Territórios, que, em 13/3/2026, indeferiu o pedido liminar formulado no HC n. 0710121-69.2026.8.07.0000.
+A defesa sustenta a excepcional superação da Súmula 691 do Supremo Tribunal Federal, sob o argumento de flagrante ilegalidade na manutenção da prisão preventiva. Afirma a ausência dos requisitos do art. 312 do Código de Processo Penal, destacando que a paciente foi localizada e presa poucas horas após os fatos, no endereço indicado nos autos, o que afastaria risco à aplicação da lei penal. Aduz, ainda, a desproporcionalidade da custódia cautelar e a suficiência de medidas cautelares diversas, apontando deficiência de fundamentação na decisão que indeferiu a liminar na origem.
+Requer, liminarmente, a superação da Súmula 691 e a revogação da prisão preventiva, com eventual substituição por medidas cautelares diversas. No mérito, pleiteia a concessão definitiva da ordem nos mesmos termos.
+É o relatório.
+Na espécie, aplica-se o enunciado da Súmula 691/STF, observado também por esta Corte, segundo o qual não cabe habeas corpus contra o indeferimento de pedido liminar formulado no Tribunal a quo.
+Com efeito, as questões trazidas na impetração não foram ainda enfrentadas pelo colegiado competente, não se admitindo a pretendida supressão de instância. Esse posicionamento pode ser afastado apenas em situações excepcionais, se evidenciada dos autos a configuração de flagrante ilegalidade ou abuso de poder, o que não ocorreu no caso em tela, diante das particularidades mencionadas no decisum impugnado.
+No ato coator, a liminar foi indeferida porque a prisão preventiva está amparada no descumprimento de cautelares fixadas pelo Núcleo de Audiências de Custódia - mudança de endereço sem comunicação prévia, não atualização do endereço e não comparecimento aos atos do processo -, em múltiplas tentativas de citação frustradas, inclusive após citação por edital, com conclusão de inadequação de medidas alternativas e necessidade de garantir a aplicação da lei penal.
+Ante o exposto, com base no art. 210 do RISTJ, indefiro liminarmente o presente habeas corpus.
+Publique-se.
+EMENTA
+HABEAS CORPUS. DIREITO PENAL. LEGISLAÇÃO EXTRAVAGANTE. TRÁFICO DE DROGAS. USO DE DOCUMENTO PÚBLICO FALSO. IMPETRAÇÃO CONTRA INDEFERIMENTO DE LIMINAR EM WRIT NA ORIGEM. INCIDÊNCIA DA SÚMULA 691/STF. AUSÊNCIA DE FLAGRANTE ILEGALIDADE. PRISÃO PREVENTIVA FUNDAMENTADA NO DESCUMPRIMENTO DE MEDIDAS CAUTELARES E EM TENTATIVAS FRUSTRADAS DE CITAÇÃO.
+Writ indeferido liminarmente.
