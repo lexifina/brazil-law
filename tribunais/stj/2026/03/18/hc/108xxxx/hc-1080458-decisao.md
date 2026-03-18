@@ -1,0 +1,19 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de MARCELO GARCIA KANOPF e LUIS ROBERTO WOIDELA, apontando como autoridade coatora o Tribunal de Justiça do Estado do Paraná.
+Extrai-se dos autos que, em 13/10/2015, os pacientes foram pronunciados pela suposta prática do crime de homicídio qualificado tentado, tipificado no art. 121, § 2º, II, c/c os arts. 29 e 14, II, do Código Penal (e-STJ fls. 8/76).
+Em sessão do júri realizada no dia 14/9/2023, ambos os pacientes foram condenados. Na dosimetria, ao paciente MARCELO GARCIA KANOPF foi fixada a pena de 8 anos, 2 meses e 3 dias de reclusão, em regime inicial fechado. Ao paciente LUIS ROBERTO WOID ELA foi aplicada pena de 7 anos, 6 meses e 16 dias de reclusão, em regime inicial semiaberto. Em ambos os casos, foi assegurado o direito de recorrer em liberdade (e-STJ fls. 140/148).
+No presente writ (e-STJ fls. 2/7), a impetrante alega a nulidade da decisão de pronúncia por ausência dos requisitos do art. 413 do Código de Processo Penal, sustentando que o decisum se fundou em conjecturas investigativas, elementos do inquérito policial e depoimentos indiretos não confirmados em juízo, em violação ao art. 155 do CPP.
+Aduz ausência de indícios mínimos de autoria em relação a MARCELO GARCIA KANOPF, destacando inexistência de reconhecimento visual do atirador, suposto reconhecimento apenas por voz e existência de testemunhos que o situariam em Apucarana no horário dos fatos, o que tornaria o veredicto manifestamente contrário à prova dos autos.
+Sustenta, ademais, inexistência de prova de mando atribuível a LUIS ROBERTO WOIDELA, afirmando que a tese de domínio do fato teria sido aplicada sem demonstração concreta de comando, planejamento ou promessa de recompensa.
+Defende que a investigação foi direcionada por suspeitas da vítima e de seu esposo, carecendo de elementos probatórios objetivos.
+Registra a pendência de discussão no Tema 1311 do STF, sem tese vinculante até o momento que obste o reconhecimento de constrangimento ilegal em habeas corpus quando ausentes indícios mínimos de autoria na pronúncia.
+Ao final, pugna, liminarmente, para suspender os efeitos da condenação até o julgamento definitivo do presente writ. No mérito, pugna pelo conhecimento e concessão da ordem para reconhecer a nulidade da pronúncia e determinar a despronúncia dos pacientes; subsidiariamente, pleiteia a anulação do julgamento realizado pelo Tribunal do Júri.
+Após, juntou aos autos a PET n. 00233035/2026, a fim de apresentar breve complementação dos fundamentos do writ e, ao final, renovou integralmente os pedidos formulados na impetração inicial (e-STJ fls. 210/213).
+É o relatório. Decido.
+De plano, destaco que o presente habeas corpus não merece prosseguimento.
+Isso porque a impetrante, advogada habilitada, inscrita na OAB/PR n. 127.735, deixou de informar qual seria o ato apontado como coator, bem como sequer anexou aos autos, inclusive após a junta da PET n. 00233035/2026, quaisquer atos oriundos do Tribunal de Justiça do Estado do Paraná, de modo que esta relatoria encontra-se impossibilitada de examinar, com clareza, a suposta coação ilegal da qual os pacientes estariam sendo alvo.
+Ora, como é de conhecimento, o rito do habeas corpus pressupõe prova pré-constituída do direito alegado, devendo a parte demonstrar, de maneira inequívoca, por meio de documentos, a existência de constrangimento ilegal imposto ao paciente.
+Ao ensejo: Tratando-se de habeas corpus impetrado por advogado habilitado, tem ele o ônus de instruir a ação corretamente, com a íntegra dos documentos necessários à análise da controvérsia, o que não foi feito, circunstância que obsta a apreciação da coação ilegal de que o paciente estaria sendo alvo (HC n. 410.875/RN, Relator Ministro JORGE MUSSI, Quinta Turma, julgado em 13/12/2018, DJe de 19/12/2018).
+Ante o exposto, indefiro liminarmente o presente habeas corpus.
+Intimem-se.
+EMENTA
