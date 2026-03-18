@@ -1,0 +1,15 @@
+DECISÃO
+Trata-se de habeas corpus sem pedido liminar, impetrado em favor de FREDERICO LUIS MOURA, apontando como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAIS.
+Narra a impetrante que o paciente foi condenado, em primeiro grau de jurisdição, às penas de 6 anos de reclusão, em regime inicial semiaberto, e 600 dias-multa, pela prática do delito tipificado no art. 33, caput, da Lei n. 11.343/2006. Irresignado, o Parquet apelou e o Tribunal estadual deu provimento ao recurso, para redimensionar suas sanções a 7 anos de reclusão, em regime inicial fechado e 700 dias-multa.
+No presente writ (e-STJ, fls. 2/16), a impetrante afirma que o acórdão recorrido impôs constrangimento ilegal ao paciente, na medida em que fixou-lhe o regime prisional mais gravoso, sob o fundamento exclusivo da quantidade e natureza da substância entorpecente apreendida, configura ndo  flagrante e inadmissível bis in idem (e-STJ, fl. 9), pois a quantidade de entorpecente já foi utilizada para exasperar a pena-base.
+Ademais, assevera que não há fundamentação concreta na sentença de origem que justifique a imposição de regime mais gravoso, senão a quantidade de droga  vetor este que, como já exaustivamente exposto, já foi utilizado para o incremento da pena-base (e-STJ, fl. 14), sendo de rigor a aplicação dos Enunciados sumulares 718 e 719, ambos do STF.
+Diante disso, requer a aplicação de regime prisional menos gravoso ao paciente.
+É o relatório. Decido.
+Ação constitucional de natureza mandamental, o habeas corpus tem como escopo precípuo afastar eventual ameaça ao direito de ir e vir. No entanto, sua natureza urgente exige prova pré-constituída das alegações, não comportando dilação probatória.
+A inicial do writ, contudo, não veio acompanhada de documentos aptos a comprovar o alegado constrangimento de que estaria o paciente sendo vítima, e até mesmo a inauguração da competência desta Corte Superior, o que prejudica, sobremaneira, o adequado exame do caso, pois não foram colacionada aos autos a cópia da sentença condenatória e do acórdão de apelação.
+É cogente à impetrante apresentar elementos documentais suficientes para permitir a atuação do Superior Tribunal de Justiça no caso e a aferição da alegada existência de constrangimento ilegal no ato atacado na impetração.
+Ora, "a jurisprudência do Supremo Tribunal Federal é firme no sentido de inadmitir o conhecimento de habeas corpus, não instruídos os autos com peças necessárias à confirmação da efetiva ocorrência do constrangimento ilegal" (AgRg no HC n. 168.676/BA, Relatora Ministra ROSA WEBER, Primeira Turma, julgado em 29/11/2019, DJe 11/12/2019).
+No mesmo sentido, esta Corte assentou que, "em sede de habeas corpus, a prova deve ser pré-constituída e incontroversa, cabendo ao impetrante apresentar documentos suficientes à análise de eventual ilegalidade flagrante no ato atacado" (AgRg no HC n. 549.417/SC, Relator Ministro RIBEIRO DANTAS, Quinta Turma, julgado em 10/12/2019, DJe 17/12/2019).
+Ante o exposto, com fulcro no XX, do RISTJ, do art. 34, não conheço do habeas corpus.
+Intimem-se.
+EMENTA
