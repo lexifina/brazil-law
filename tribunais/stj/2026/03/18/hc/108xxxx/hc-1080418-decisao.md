@@ -1,0 +1,27 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de RODRIGO KRAUSPENHAR contra ato coator proferido pela Quarta Câmara Criminal do Tribunal de Justiça do Rio Grande do Sul, que, nos autos do Agravo em Execução n. 8001265-81.2025.8.21.0027, negou provimento à insurgência defensiva, mantendo o indeferimento da remição da pena (processo de execução n. 8000025-36.2025.8.21.0131, Vara de Execução Criminal Regional de Santa Maria/RS).
+A impetração alega, em síntese, que o paciente fez o curso de qualificação de auxiliar de pedreiro com 180 horas, promovido pela Escola CENED, acompanhado pela assistente social da unidade, o que comprova anuência e a efetiva fiscalização da Administração carcerária, gerando legítima expectativa do benefício.
+Sustenta que o ato de a Assistente Social do Presídio Estadual de São Vicente do Sul receber os materiais do curso de Auxiliar de Pedreiro, acompanhar pessoalmente o desenvolvimento do apenado e aplicar presencialmente a prova escrita em sala apropriada da unidade prisional (Evento 1, OUT4, Página 1), culminando na emissão da Certidão Relativa ao Estudo pelo Diretor do Presídio (Evento 1, OUT3, Página 1) formalizando as 180 horas estudadas, representa a mais cristalina integração material da atividade ao ambiente prisional e atende perfeitamente ao rigor da fiscalização exigida pelo Tema 1.236 (fl. 9).
+Pede, em caráter liminar e no mérito, a remição da pena pelo estudo (fls. 2/11).
+É o relatório.
+A concessão de ordem de habeas corpus demanda demonstração da ilegalidade, ônus que recai sobre a parte impetrante, a quem cumpre instruir o feito com a prova pré-constituída de suas alegações.
+In casu, verifico, de plano, a inviabilidade do presente writ.
+O Juízo de primeiro grau destacou o seguinte, ao indeferir o pedido (fl. 40):
+O Certificado de Conclusão acostado na seq. 64 não indica qual pessoa ou instituição responsável por sua execução e dos educadores ou tutores que acompanharão as atividades desenvolvidas (item II), os objetivos propostos (III); referenciais teóricos e metodológicos a serem observados (IV); a forma de realização dos registros de frequência (item VI); e o registro de participação da pessoa privada de liberdade nas atividades realizadas (item VII).
+Ainda que a casa prisional tenha informado o acompanhamento das atividades por técnica penitenciária, a servidora da SUSEPE não foi indicada pelo curso como executora ou tutora que acompanharia as atividades, o que torna inócuo o acompanhamento.
+O Tribunal de origem destacou o seguinte (fls. 16/18):
+O agravante busca obter remição da pena com base em certificado emitido pelo Centro de Educação Profissional - CENED, entidade que não possui credenciamento junto ao Ministério da Educação (MEC) para oferecer o curso de "Auxiliar de Pedreiro", o que torna inviável a concessão do benefício pretendido, por afronta aos requisitos estabelecidos no artigo 126, § 2º, da Lei de Execução Penal, e nos artigos 2º, inciso II, e 4º da Resolução nº 391 do Conselho Nacional de Justiça.
+ ..
+Portanto, ausente o credenciamento junto ao MEC do curso realizado pelo apenado, é inviável a concessão do benefício da remição pelo estudo.
+Por fim, consigno que, embora a defesa destaque o acompanhamento das atividades por uma agente penitenciária, tal circunstância não supre a exigência do artigo 4º, inciso II, da Resolução nº 391/2021 do CNJ, que demanda a indicação formal, pela instituição de ensino, da pessoa ou tutor responsável pela execução e acompanhamento pedagógico.
+Nos termos do art. 126, § 2º, da Lei de Execução Penal, a remição de pena em virtude de estudo realizado pelo apenado, seja presencialmente, seja na modalidade à distância, exige tanto a apresentação de certificado emitido por entidade educacional devidamente credenciada perante o Ministério da Educação, a fim de cumprir os requisitos exigidos na Recomendação n. 44 do Conselho Nacional de Justiça, quanto a demonstração de que o reeducando participou efetivamente das atividades educacionais.
+Em suporte: AgRg no REsp n. 2.199.569/MG, relator Ministro Carlos Cini Marchionatti (Desembargador Convocado TJRS), Quinta Turma, julgado em 19/8/2025, DJEN de 25/8/2025; AgRg no REsp n. 2.216.043/MG, Ministro Messod Azulay Neto, Quinta Turma, julgado em 5/8/2025, DJEN de 14/8/2025; AgRg no HC n. 935.994/SP, Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 5/3/2025, DJEN de 10/3/2025.
+Nesse sentido, foi fixada a seguinte Tese 1236 sob o rito dos recursos repetitivos por este Superior Tribunal de Justiça:
+"A remição de pena em razão do estudo a distância - EAD demanda a prévia integração da instituição ao Projeto Político-Pedagógico - PPP da unidade ou sistema prisional, não bastando o necessário credenciamento da instituição junto ao MEC, observando-se a comprovação de frequência e realização das atividades determinadas".
+No caso, o curso realizado pelo paciente não se encontra credenciado pelo Ministério da Educação nem possui convênio com a unidade prisional, não sendo possível reconhecer seus efeitos para fins de remição pelo estudo.
+Assim, ausente flagrante ilegalidade a ser sanada.
+Ante o exposto, indefiro liminarmente a petição inicial.
+Publique-se.
+EMENTA
+HABEAS CORPUS. EXECUÇÃO PENAL. CURSO A DISTÂNCIA. INSTITUIÇÃO DE ENSINO NÃO AUTORIZADA OU CONVENIADA. IMPOSSIBILIDADE. PRECEDENTE. TEMA 1236/STJ. CONSTRANGIMENTO ILEGAL NÃO EVIDENCIADO.
+Petição inicial indeferida liminarmente.
