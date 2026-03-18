@@ -1,0 +1,101 @@
+Poder Judiciário da UniãoTRIBUNAL DE JUSTIÇA DO DISTRITO FEDERAL E DOS TERRITÓRIOS
+
+Órgão
+1ª Turma Cível
+Processo N.EMBARGOS DE DECLARAÇÃO CÍVEL 0722007-79.2024.8.07.0018EMBARGANTE(S)TRANSPORTADORA VERONESE LTDAEMBARGADO(S)DISTRITO FEDERALRelatorDesembargador TEÓFILO CAETANO
+ Acórdão Nº2105797
+
+EMENTA
+
+Embargos de declaração. Constitucional, tributário e processual civil. Ação mandamental. Imposto sobre operações relativas à circulação de mercadorias e serviços de transporte interestadual e intermunicipal e de comunicação – ICMS. Base de cálculo. Inserção dos custos das contribuições sociais PIS e COFINS na base de cálculo da exação. Legalidade da repercussão financeira dos custos no valor das operações. Matéria pacificada pelo Superior Tribunal de Justiça. Inclusão do PIS e da COFINS na base de cálculo do ICMS. Legalidade. Tese firmada em sede de julgamento realizado sob a forma de recursos repetitivos (REsp 2091202/SP, REsp 2091203/SP, REsp 2091204/SP e REsp 2091205/SP – Tema 1223/STJ). Entendimento. Aplicação. Necessidade. Apelação desprovida. Sentença mantida. Segurança denegada. Acórdão. Omissão. Vício inexistente. Rediscussão da causa. Via inadequada. Rejeição. Prequestionamento.
+
+I. Caso em exame
+
+1. Cuida-se de embargos de declaração destinados a aclararem o acórdão que, à unanimidade, negara provimento ao apelo interposto em face da sentença que, resolvendo a ação mandamental aviada contra ato do Subsecretário da Receita do Distrito Federal, volvida ao reconhecimento do direito de se excluir os valores apurados a título de PIS/COFINS da base de cálculo do ICMS incidente sobre as operações da empresa impetrante, com a restituição dos valores recolhidos a maior nos últimos cinco anos, mediante compensação ou lançamento na escrita fiscal, denegara a segurança.
+
+II. Questão em discussão
+
+2. O objeto dos embargos de declaração reside na aferição de subsistência de omissão a acoimar o acórdão embargado, que resolvera negativamente a pretensão reformatória da embargante, em ambiente de apelação, preservando a higidez da sentença desafiada.
+
+III. Razões de decidir
+
+3. Os embargos de declaração consubstanciam instrumento de aperfeiçoamento da prestação jurisdicional, destinando-se etiologicamente a purificar o julgado das omissões, contradições ou obscuridades que o enodoam, não traduzindo o instrumento adequado para rediscussão das questões elucidadas nem para o reexame da causa, pois, examinando de modo exauriente as matérias debatidas e entregando a tutela reclamada, o decisum esgota sua destinação e o seu alcance.
+
+4. Aferido que as questões reprisadas foram objeto de expressa e literal resolução, ensejando a apreensão de que o julgado não deixara remanescer nenhuma matéria pendente de elucidação, e que a resolução que empreendera é clara o suficiente para viabilizar a assimilação do decidido sem qualquer trabalho exegético ante a literalidade do que nele está estampado, obstando a qualificação de vício apto a tornar opaco o desenlace ao qual chegara, denotando que a parte almeja simplesmente rediscutir o decidido, a rejeição da pretensão declaratória consubstancia imperativo legal.
+
+5. A circunstância de não se conformar com a exegese defendida pela parte acerca dos dispositivos que conferem tratamento normativo às matérias controvertidas e nortearam a conclusão que estampa não tem o condão de ensejar sua caracterização como omisso, contraditório ou obscuro, pois, tendo apreciado as questões controvertidas, conferindo-lhes o enquadramento e tratamento que se afigurara adequado, o julgado cumprira seu desiderato e exaurira o ofício que lhe estava debitado.
+
+6. Ainda que agitados para fins de prequestionamento, os embargos de declaração não estão eximidos da indispensabilidade de se conformarem com as hipóteses de cabimento expressamente assinaladas pelo legislador processual, ensejando que, em não padecendo o julgado dos vícios passíveis de serem sanados através de simples complementação, devem ser refutados por não consubstanciarem o instrumento adequado para rediscussão da causa, devendo o reexame e reforma do decidido ser perseguidos através do instrumento recursal apropriado para esse desiderato.
+
+IV. Dispositivo
+
+7. Embargos de declaração conhecidos e desprovidos. Unânime.
+
+ACÓRDÃO
+
+Acordam os Senhores Desembargadores do(a) 1ª Turma Cível do Tribunal de Justiça do Distrito Federal e dos Territórios, TEÓFILO CAETANO - Relator, RÔMULO DE ARAÚJO MENDES - 1º Vogal e CARLOS PIRES SOARES NETO - 2º Vogal, sob a Presidência do Senhor Desembargador FABRÍCIO FONTOURA BEZERRA, em proferir a seguinte decisão: CONHECER DOS EMBARGOS DE DECLARAÇÃO E NEGAR-LHES PROVIMENTO. DECISÃO UNÂNIME., de acordo com a ata do julgamento e notas taquigráficas.
+
+Brasília (DF), 26 de março de 2026
+
+Desembargador TEÓFILO CAETANORelator
+
+RELATÓRIO
+
+Cuida-se de embargos de declaração[1] opostos pela Transportadora Veronese Ltda. objetivando aclarar o acórdão que, por unanimidade, negara provimento ao recurso que formulara, mantendo hígida a sentença que, resolvendo a ação mandamental aviada contra ato do Subsecretário da Receita do Distrito Federal, postulando o direito de excluir os valores apurados a título de PIS/COFINS da base de cálculo do ICMS incidente sobre as operações da empresa, com a restituição dos valores recolhidos a maior nos últimos cinco anos, mediante compensação ou lançamento na escrita fiscal, denegara a segurança pretendida, nos termos do Tema repetitivo nº 1223/STJ. A seu turno, objetiva a embargante a declaração do julgado ao argumento de que estaria permeado por omissão.
+
+Como sustentação material hábil a aparelhar a pretensão aclaratória, argumentara, em suma, que o acórdão fora omisso quanto ao pedido de suspensão do trânsito processual em razão da pendência de julgamento de recursos extraordinários  na Corte Suprema, acerca do Tema 1.223/STJ (Recursos Especiais n° 2.091.202/SP, nº 2.091.203/SP, nº 2.091.204/SP e nº 2.091.205/SP), cujos acórdãos respectivos transitaram em jugado, tendo sido os aludidos recursos aviados por contribuintes em processos paradigmas. Destarte, requestara a suspensão da presente até a finalização dos julgamentos dos recursos extraordinários individualizados, nos termos do artigo 1.036, §1º, do Código de Processo Civil.
+
+Com lastro nesses argumentos e acentuando que, patentes os vícios em que incorrera, o julgado arrostado deve ser complementado e esclarecido de forma a não deixar pendente de resolução nenhuma questão atempadamente suscitada, defendera a ora embargante o conhecimento e o provimento dos embargos como forma de obter o pronunciamento acerca da matéria que reprisara, agregando-se efeitos infringentes aos embargos ou prequestionando a matéria controvertida e os dispositivos legais suscitados, como forma de ser viabilizado o acesso às instâncias recursais superiores.
+
+É o relatório.
+
+[1] - Embargos de declaração - ID 80201555 (fls. 234/241).
+
+VOTOS
+
+O Senhor Desembargador TEÓFILO CAETANO - Relator
+Cabíveis e tempestivos, suprindo, pois, os pressupostos objetivos e subjetivos de recorribilidade que lhes são próprios, conheço dos embargos.
+
+Cuida-se de embargos de declaração opostos pela Transportadora Veronese Ltda. objetivando aclarar o acórdão que, por unanimidade, negara provimento ao recurso que formulara, mantendo hígida a sentença que, resolvendo a ação mandamental aviada contra ato do Subsecretário da Receita do Distrito Federal, postulando o direito de excluir os valores apurados a título de PIS/COFINS da base de cálculo do ICMS incidente sobre as operações da empresa, com a restituição dos valores recolhidos a maior nos últimos cinco anos, mediante compensação ou lançamento na escrita fiscal, denegara a segurança pretendida, nos termos do Tema repetitivo nº 1223/STJ.
+
+A seu turno, objetiva a embargante a declaração do julgado ao argumento de que estaria permeado por omissão. Contudo, a argumentação alinhada pela embargante e os vícios que imputara ao acórdão arrostado quanto à resolução que empreendera às questões devolvidas a reexame destoam e desconsideram por completo o que nele está impregnado de forma literal, tangenciando comezinhos princípios de direito instrumental, pois, em sede de pretensão declaratória, almeja rediscutir as questões resolvidas e as matérias que, devolvidas a reexame, foram devidamente elucidadas. Ora, cotejando-o detidamente infere-se que o julgado cuja declaração é almejada não padece da omissão que lhe fora imputada.
+
+Consoante se afere do nele estampado textualmente após detido exame da matéria controvertida, elucidara específica e detalhadamente todas as questões reputadas relevantes para elucidação da matéria controversa, o que resultara, alfim, no desprovimento do apelo manejado pela ora recorrente, notadamente quanto à suspensão pretendida. Essa questão fora detida e explicitamente abordada no provimento colegiado impugnado, conforme adiante evidencia o extraído da fundamentação desenvolvida pelo julgado, in verbis:
+
+“Inicialmente, indefiro a suspensão do feito pleiteada pela apelante, uma vez que, além do fato de que a suspensão da tramitação de processos, determinada no bojo do Tema nº 1223/STJ, se dera apenas com relação aos processos em que interpostos recurso especial e/ou agravo em recurso especial, em tramitação na Segunda Instância e/ou no c. STJ, o que não é o caso dos autos, já fora proferida decisão definitiva da Corte Superior de Justiça nos julgados respectivos (REsp 2091201/SP, 2091203/SP, 2091204/SP e 2091205/SP), tendo sido os referidos acórdãos publicados em 16/12/2024, já tendo transitado em julgado o acórdão proferido no REsp nº 2091203/SP.[1]”
+
+Diante da literalidade do retratado na ementa trasladada depara-se com a irreversível evidência de que a questão reprisada pela embargante fora explícita e especificamente enfrentada e elucidada. Fica evidente, portanto, que, desprezando e ignorando o desiderato que legalmente está destinado aos embargos de declaração e os próprios limites objetivos aos quais deve guardar vassalagem, almeja a embargante, em verdade, conferindo-lhes efeito infringente com o qual não estão municiados, reapreciar a questão elucidada, alcançar a reforma do julgado hostilizado e valer-se de condição mais favorável aos seus interesses, o que efetivamente não se reveste de estofo material e determina a rejeição da pretensão veiculada. Emerge dessas circunstâncias a certeza de que, promovido o correto e exato enquadramento de todas as questões suscitadas pelas partes, resta desqualificada e infirmada a omissão imputada ao acórdão.
+
+Aliás, há que ser acentuado que, ainda que agitados para fins de prequestionamento como pressuposto para o aviamento de recurso especial e/ou extraordinário, os embargos de declaração não se distanciam das hipóteses de cabimento expressamente assinaladas pelo legislador processual. E isso porque, como é cediço, os embargos de declaração consubstanciam instrumento de aperfeiçoamento da prestação jurisdicional, destinando-se etiologicamente a purificar o julgado das omissões, contradições, obscuridades ou erros materiais que o enodoam. Ante sua destinação, não se prestam à rediscussão das questões efetivamente elucidadas nem à correção de eventuais equívocos interpretativos em que incorrera o decisum.
+
+Examinando de modo exauriente as matérias debatidas e entregando a prestação jurisdicional reclamada, o julgado esgota sua destinação e o seu alcance. A revisão do decidido, seu aprimoramento ou reforma devem, por isso, ser perseguidos através dos instrumentos recursais apropriados para a submissão da causa a reexame, elidindo o cabimento dos embargos como sucedâneo do recurso apropriado para esse desiderato. Esse é o entendimento há muito estratificado pela egrégia Corte Superior de Justiça, consoante testificam os arestos adiante ementados:
+
+“PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. INEXISTÊNCIA DE IRREGULARIDADES NO ACÓRDÃO. AUSÊNCIA DE PREQUESTIONAMENTO. PRETENSÃO DE REDISCUSSÃO DA MATÉRIA. IMPOSSIBILIDADE. DESOBEDIÊNCIA AO ART. 535 DO CPC. 1. Não-ocorrência de irregularidades no acórdão quando a matéria que serviu de base à oposição do recurso foi devidamente apreciada, com fundamentos claros e nítidos, enfrentando as questões suscitadas ao longo da instrução, tudo em perfeita consonância com os ditames da legislação e jurisprudência consolidada. O não-acatamento das teses deduzidas no recurso não implica cerceamento de defesa. Ao julgador cumpre apreciar o tema de acordo com o que reputar atinente à lide. Não está obrigado a julgar a questão de acordo com o pleiteado pelas partes, mas sim com o seu livre convencimento (art. 131 do CPC), utilizando-se dos fatos, provas, jurisprudência, aspectos pertinentes ao tema e da legislação que entender aplicável ao caso. As funções dos embargos de declaração, por sua vez, são, somente, afastar do acórdão qualquer omissão necessária para a solução da lide, não permitir a obscuridade por acaso identificada e extinguir qualquer contradição entre premissa argumentada e conclusão. 2. Ausência do necessário prequestionamento. Dispositivos legais indicados como afrontados não foram abordados, em nenhum momento, no âmbito do voto do aresto hostilizado, sem que se tenham ofertado embargos declaratórios para suprir a omissão, porventura existente. 3. Enfrentamento de todos os pontos necessários ao julgamento da causa. Pretensão de rejulgamento da causa, o que não é permitido na via estreita dos aclaratórios. Não preenchimento dos requisitos necessários e essenciais à sua apreciação. 4. Embargos rejeitados.” (STJ, Primeira Turma, Embargos de Declaração no Agravo Regimental no Agravo de Instrumento nº 2006/0029717-3, Reg. Int. Proces. 745.373/MG, relator Ministro José Delgado, data da decisão: 20.06.2006, publicada no Diário da Justiça de 03.08.2006, pág. 210)
+
+“PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. CONHECIMENTO. REQUISITOS. PREQUESTIONAMENTO. 1. O recurso de embargos declaratórios tem como necessário requisito de admissibilidade a indicação, com uma simples fundamentação que seja, de algum dos vícios elencados no art. 535 do CPC, quais sejam, omissão, obscuridade ou contradição. 2. A mera alegação de prequestionamento não é capaz, por si só, de ensejar o conhecimento dos embargos. 3. Embargos de declaração não-conhecidos.” (STJ, Segunda Turma, Embargos de Declaração no Agravo Regimental no Agravo de Instrumento nº 2004/0173085-5, Reg. Int. Proces. 645.485/SC, relator Ministro João Otávio de Noronha, data da decisão: 11.10.2005, publicada no Diário da Justiça de 20.02.2006, pág. 287)
+
+“PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. I. - Incabível o recurso especial quando necessário, para ultrapassar os fundamentos do acórdão recorrido, o reexame das provas (Súmula 7/STJ). Impossível, pois, a reavaliação das provas, especialmente no trato de embargos de declaração. II. - Ao magistrado não cabe o dever de analisar um a um todos os argumentos expendidos pelas partes, mas decidir a questão de direito valendo-se das normas que entender melhor aplicáveis ao caso concreto e a sua própria convicção. III. - Esta Corte não tem competência para examinar alegada ofensa a dispositivo constitucional. IV. - Ainda que para fins de prequestionamento, os embargos de declaração só são cabíveis se preenchidos os requisitos do art. 535 do CPC. V. - Embargos de declaração rejeitados.” (STJ, Terceira Turma, Embargos de Declaração no Recurso Especial nº 2002/0005955-3, Reg. Int Proces. 407.179/PB, relator Ministro Antônio de Pádua Ribeiro, data da decisão: 11.02.2003, publicada no Diário da Justiça de 10.03.2003, pág. 189)
+
+O mesmo entendimento é perfilhado por esta colenda Casa de Justiça, conforme se afere dos arestos adiante ementados:
+
+“DIREITO PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. OMISSÃO. PREQUESTIONAMENTO. REJEIÇÃO. 1 - Devem ser rejeitados os aclaratórios quando ausente o alegado vício da omissão, mesmo que também indique a finalidade de prequestionamento, uma vez que é indispensável a ocorrência de um dos seus requisitos abalizadores, previstos no art. 535, inc. I e II, do CPC. 2 - Embargos rejeitados.” (TJDF, 4ª Turma Cível, Embargos de Declaração no Agravo de Instrumento nº 20080020040897 AGI DF, Reg. Int. Proces. 313339, relatora Desembargadora Maria Beatriz Parrilha, data da decisão: 30/06/2008, publicada no Diário da Justiça de 16/07/2008, pág. 30)
+
+“PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. VÍCIOS INEXISTENTES. PREQUESTIONAMENTO. REJEIÇÃO. 1. Não detectados os vícios apontados pelo embargantes, impõe-se a rejeição dos embargos declaratórios. 2. A presença dos requisitos arrolados no Artigo 535 do CPC é condição indispensável para o êxito dos embargos, mesmo para fins de prequestionamento. 3. Recurso não provido.” (TJDF, 4ª Turma Cível, Embargos de Declaração no Agravo de Instrumento nº 20070020123103 AGI DF, Reg. Int. Proces. 294828, relator Desembargador Cruz Macedo, data da decisão: 07/02/2008, publicada no Diário da Justiça de 21/02/2008, pág. 1491)
+
+“EMBARGOS DE DECLARAÇÃO - OMISSÃO NO JULGADO - INEXISTÊNCIA - PREQUESTIONAMENTO DA MATÉRIA - NECESSIDADE DE OBSERVÂNCIA AOS REQUISITOS RECURSAIS - RECURSO IMPROVIDO. Os Embargos de Declaração somente são cabíveis quando houver, na sentença ou no acórdão, obscuridade, contradição, ou for omitido ponto sobre o qual devia pronunciar-se o Juiz ou o Tribunal, segundo dispõem as regras contidas nos incisos I e II do art. 535 do CPC. Logo, mesmo pretendendo prequestionar a matéria para ulterior acesso às instâncias recursais extraordinárias, o embargante deverá comprovar a existência de um dos requisitos enumerados na lei adjetiva civil.” (TJDF, 5ª Turma Cível, Apelação Cível nº 20040111095203 APC DF, Reg. Int. Proces. 316591, relator Desembargador Lecir Manoel da Luz, data da decisão: 06/08/2008, publicada no Diário da Justiça de 25/08/2008, pág. 76)
+
+“PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. JURISPRUDÊNCIA EM SENTIDO CONTRÁRIO. VOTO PROFERIDO EM OUTRO JULGADO. AUSÊNCIA DE VÍCIO. PREQUESTIONAMENTO. NECESSIDADE DE OBSERVÂNCIA DO ART. 535 DO CPC. EMENTA QUE CONTRADIZ O ACÓRDÃO. RETIFICAÇÃO QUE SE IMPÕE. EMBARGOS DE DECLARAÇÃO CONHECIDOS E PARCIALMENTE PROVIDOS. 1. A divergência jurisprudencial não enseja o acolhimento de embargos de declaração. 2. Do mesmo modo, não constitui contradição o fato de um dos julgadores ter proferido, em autos diversos, voto com posicionamento diferente. Os vícios de omissão, obscuridade ou contradição devem ser aferidos no julgado objeto da insurgência. 3. Ainda que para fins de prequestionamento, é obrigatória a presença dos requisitos previstos no art. 535 do CPC (omissão, contradição ou obscuridade). Outrossim, não se faz necessária a análise especificada de todos os dispositivos elencados pelo embargante. 4. Conquanto as questões trazidas a juízo tenham sido amplamente abordadas, observa-se a existência de contradição entre a ementa e o acórdão vergastado. Destarte, a retificação é medida que se impõe. 5. Recurso conhecido e parcialmente provido.” (TJDF, 4ª Vara Cível, Apelação Cível nº 20060110016874 APC DF, Reg. Int. Proces. 283494, relator Desembargador Gilberto de Oliveira, data da decisão: 30/05/2007, publicada no Diário da Justiça de 11/10/2007, pág. 170)
+
+Deflui dessas circunstâncias a constatação de que, a par de o julgado hostilizado não estar acoimado pelo vício que lhe fora imputado, afastando a omissão que lhe fora imprecada, a embargante, exacerbando-se no exercício do direito de defesa que constitucionalmente lhe é assegurado, manejara a pretensão declaratória que aduzira inteiramente desprovida de lastro material, objetivando simplesmente debater as mesmas questões, já efetivamente apreciadas e elucidadas, não tendo, no entanto, apontado, em suma, nenhuma alegação que teria restado desprovida do devido exame, pretendendo simplesmente a obtenção de novo pronunciamento acerca da matéria equacionada.
+
+Esteado nesses argumentos e inexistindo qualquer omissão afligindo o decisório hostilizado, nego provimento aos embargos.
+
+É como voto.
+
+[1] - Acórdão – ID 79266410 - Pág. 5 (fl. 204).
+
+O Senhor Desembargador RÔMULO DE ARAÚJO MENDES - 1º Vogal Com o(a) relator(a)O Senhor Desembargador CARLOS PIRES SOARES NETO - 2º Vogal Com o(a) relator(a)
+
+DECISÃO
+
+CONHECER DOS EMBARGOS DE DECLARAÇÃO E NEGAR-LHES PROVIMENTO. DECISÃO UNÂNIME.
