@@ -1,0 +1,75 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUINTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 12/03/2026 a 18/03/2026, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Joel Ilan Paciornik, Messod Azulay Neto, Maria Marluce Caldas e Reynaldo Soares da Fonseca votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Reynaldo Soares da Fonseca.
+EMENTA
+Direito processual penal. Agravo regimental em habeas corpus. Impugnação a decisão que indefere liminar em habeas corpus. Súmula 691/STF. Ausência de flagrante ilegalidade. Agravo regimental IMprovido.
+I. Caso em exame
+1. Agravo regimental interposto contra decisão que indeferiu liminarmente habeas corpus impetrado em favor do agravante.
+2. A defesa sustenta a existência de flagrante ilegalidade apta a superar o óbice da Súmula 691/STF, afirmando que a prisão preventiva foi decretada de ofício e em dissonância do requerimento ministerial, com fundamentação abstrata na "garantia da futura aplicação da lei penal", apesar da alegada ausência de risco de fuga, de violência ou grave ameaça nos fatos narrados e das condições pessoais e de saúde do agravante, que, em sua ótica, recomendariam medidas cautelares alternativas ou prisão domiciliar.
+3. Requer-se o conhecimento do agravo regimental com superação do verbete sumular em razão de suposta flagrante ilegalidade, a revogação da prisão preventiva ou a substituição por medidas cautelares diversas, bem como a concessão da ordem no mérito para revogar a prisão preventiva e a inscrição de patronos para sustentação oral.
+II. Questão em discussão
+4. Há duas questões em discussão: (i) saber se é cabível o processamento de habeas corpus (por meio de agravo regimental) contra decisão que indefere pedido liminar em writ anterior, com mitigação da Súmula 691/STF; e (ii) saber se, no caso concreto, está caracterizada flagrante ilegalidade na decisão que indeferiu a liminar, em razão das alegações sobre a forma de decretação e a fundamentação da prisão preventiva, a justificar a superação do referido verbete sumular.
+III. Razões de decidir
+5. O Tribunal reafirma entendimento consolidado no sentido de não admitir habeas corpus contra decisão que indefere pedido liminar em outro writ, ressalvadas hipóteses excepcionais de flagrante ilegalidade ou teratologia, em observância à Súmula 691 do Supremo Tribunal Federal.
+6. Ressalta-se que a decisão impugnada possui natureza monocrática, precária e não definitiva, estando o órgão de origem ainda em fase de cognição sumária, com necessidade de ouvir a autoridade apontada como coatora e de exame mais aprofundado do mérito do habeas corpus.
+7. Conclui-se que não se evidencia, no caso concreto, flagrante ilegalidade na decisão que indeferiu a liminar, uma vez que a fundamentação utilizada pelo Tribunal de origem revela opção por análise mais detida quando do julgamento definitivo do writ, não havendo justificativa para a superação da Súmula 691/STF.
+8. Diante da inexistência de ilegalidade manifesta na decisão atacada, torna-se incabível o processamento da ordem de habeas corpus por via do presente agravo regimental.
+IV. Dispositivo e tese
+9. Resultado do Julgamento: Agravo regimental desprovido, mantido o indeferimento liminar do habeas corpus, em razão da ausência de flagrante ilegalidade que autorize a superação da Súmula 691/STF.
+Tese de julgamento:
+1. Os tribunais superiores não admitem habeas corpus contra decisão que indefere pedido liminar em writ anterior, salvo em hipóteses excepcionais de flagrante ilegalidade ou teratologia, conforme orientação da Súmula 691/STF.
+2. A inexistência de flagrante ilegalidade na decisão que, em juízo de cognição sumária, indefere liminar em habeas corpus impede a superação do óbice da Súmula 691/STF e afasta o processamento da ordem por meio de agravo regimental.
+Dispositivos relevantes citados: Não há dispostivos relevantes citados.
+Jurisprudência relevante citada: STF, Súmula 691; STJ, AgRg no HC 285.647/CE, Rel. Min. Jorge Mussi, Quinta Turma, DJe 25.08.2014; STJ, AgRg no HC 321.554/GO, Rel. Min. Maria Thereza de Assis Moura, Sexta Turma, DJe 13.05.2015; STJ, AgRg no HC 495.211/SP, Rel. Min. Reynaldo Soares da Fonseca, Quinta Turma, j. 21.03.2019, DJe 29.03.2019; STJ, AgRg no HC 496.205/MT, Rel. Min. Laurita Vaz, Sexta Turma, j. 19.03.2019, DJe 01.04.2019; STF, HC 175.174, Rel. Min. Cármen Lúcia, j. 13.09.2019, DJe 18.09.2019.
+RELATÓRIO
+Trata-se de agravo regimental interposto por CARLOS ROBERTO DA SILVA, contra decisão que indeferiu liminarmente o Habeas Corpus (e-STJ, fls. 1022-1024).
+Nas razões, a defesa reafirma a existência de flagrante ilegalidade apta a superar o óbice da Súmula 691/STF, sustentando que a prisão preventiva foi decretada de ofício e em dissonância do requerimento ministerial, com fundamentação abstrata na "garantia da futura aplicação da lei penal", apesar da ausência de risco de fuga, da inexistência de violência ou grave ameaça nos fatos narrados e das condições pessoais e de saúde do agravante, que recomendam medidas cautelares alternativas ou prisão domiciliar (e-STJ, fls. 1029-1033).
+Requer, portanto : o conhecimento do agravo regimental, com a superação do verbete sumular em razão da flagrante ilegalidade; liminarmente, a revogação da prisão preventiva decretada de ofício ou, alternativamente, a aplicação de medidas cautelares diversas da prisão; no mérito, a concessão da ordem para revogar a prisão preventiva do agravante; e a inscrição dos patronos para sustentação oral (e-STJ, fl. 1034).
+É o relatório.
+EMENTA
+Direito processual penal. Agravo regimental em habeas corpus. Impugnação a decisão que indefere liminar em habeas corpus. Súmula 691/STF. Ausência de flagrante ilegalidade. Agravo regimental IMprovido.
+I. Caso em exame
+1. Agravo regimental interposto contra decisão que indeferiu liminarmente habeas corpus impetrado em favor do agravante.
+2. A defesa sustenta a existência de flagrante ilegalidade apta a superar o óbice da Súmula 691/STF, afirmando que a prisão preventiva foi decretada de ofício e em dissonância do requerimento ministerial, com fundamentação abstrata na "garantia da futura aplicação da lei penal", apesar da alegada ausência de risco de fuga, de violência ou grave ameaça nos fatos narrados e das condições pessoais e de saúde do agravante, que, em sua ótica, recomendariam medidas cautelares alternativas ou prisão domiciliar.
+3. Requer-se o conhecimento do agravo regimental com superação do verbete sumular em razão de suposta flagrante ilegalidade, a revogação da prisão preventiva ou a substituição por medidas cautelares diversas, bem como a concessão da ordem no mérito para revogar a prisão preventiva e a inscrição de patronos para sustentação oral.
+II. Questão em discussão
+4. Há duas questões em discussão: (i) saber se é cabível o processamento de habeas corpus (por meio de agravo regimental) contra decisão que indefere pedido liminar em writ anterior, com mitigação da Súmula 691/STF; e (ii) saber se, no caso concreto, está caracterizada flagrante ilegalidade na decisão que indeferiu a liminar, em razão das alegações sobre a forma de decretação e a fundamentação da prisão preventiva, a justificar a superação do referido verbete sumular.
+III. Razões de decidir
+5. O Tribunal reafirma entendimento consolidado no sentido de não admitir habeas corpus contra decisão que indefere pedido liminar em outro writ, ressalvadas hipóteses excepcionais de flagrante ilegalidade ou teratologia, em observância à Súmula 691 do Supremo Tribunal Federal.
+6. Ressalta-se que a decisão impugnada possui natureza monocrática, precária e não definitiva, estando o órgão de origem ainda em fase de cognição sumária, com necessidade de ouvir a autoridade apontada como coatora e de exame mais aprofundado do mérito do habeas corpus.
+7. Conclui-se que não se evidencia, no caso concreto, flagrante ilegalidade na decisão que indeferiu a liminar, uma vez que a fundamentação utilizada pelo Tribunal de origem revela opção por análise mais detida quando do julgamento definitivo do writ, não havendo justificativa para a superação da Súmula 691/STF.
+8. Diante da inexistência de ilegalidade manifesta na decisão atacada, torna-se incabível o processamento da ordem de habeas corpus por via do presente agravo regimental.
+IV. Dispositivo e tese
+9. Resultado do Julgamento: Agravo regimental desprovido, mantido o indeferimento liminar do habeas corpus, em razão da ausência de flagrante ilegalidade que autorize a superação da Súmula 691/STF.
+Tese de julgamento:
+1. Os tribunais superiores não admitem habeas corpus contra decisão que indefere pedido liminar em writ anterior, salvo em hipóteses excepcionais de flagrante ilegalidade ou teratologia, conforme orientação da Súmula 691/STF.
+2. A inexistência de flagrante ilegalidade na decisão que, em juízo de cognição sumária, indefere liminar em habeas corpus impede a superação do óbice da Súmula 691/STF e afasta o processamento da ordem por meio de agravo regimental.
+Dispositivos relevantes citados: Não há dispostivos relevantes citados.
+Jurisprudência relevante citada: STF, Súmula 691; STJ, AgRg no HC 285.647/CE, Rel. Min. Jorge Mussi, Quinta Turma, DJe 25.08.2014; STJ, AgRg no HC 321.554/GO, Rel. Min. Maria Thereza de Assis Moura, Sexta Turma, DJe 13.05.2015; STJ, AgRg no HC 495.211/SP, Rel. Min. Reynaldo Soares da Fonseca, Quinta Turma, j. 21.03.2019, DJe 29.03.2019; STJ, AgRg no HC 496.205/MT, Rel. Min. Laurita Vaz, Sexta Turma, j. 19.03.2019, DJe 01.04.2019; STF, HC 175.174, Rel. Min. Cármen Lúcia, j. 13.09.2019, DJe 18.09.2019.
+VOTO
+Apesar das considerações da parte agravante, razão não lhe assiste.
+Esta Corte possui entendimento reiterado de que não cabe habeas corpus contra decisão que indefere pedido liminar, salvo em casos de flagrante ilegalidade ou teratologia (Súmula 691/STF AgRg no HC 285.647/CE, Rel. Ministro JORGE MUSSI, QUINTA TURMA, DJe 25/8/2014; AgRg no HC 321.554/GO, Rel. Ministra MARIA THEREZA DE ASSIS MOURA, SEXTA TURMA, DJe 13/05/2015).
+Como cediço, esta Corte Superior possui entendimento pacificado no sentido de que não cabe habeas corpus contra decisão que indefere pedido liminar, salvo em casos de flagrante ilegalidade ou teratologia da decisão impugnada (Súmula 691/STF).
+Sobre o tema, os seguintes precedentes:
+"AGRAVO REGIMENTAL EM HABEAS CORPUS. IMPETRAÇÃO INDEFERIDA LIMINARMENTE. SÚMULA 691/STF. AUSÊNCIA DE PATENTE ILEGALIDADE. PLEITO DE APRESENTAÇÃO DE MEMORIAIS ESCRITO E NO PRAZO RAZOÁVEL. ALEGADA COMPLEXIDADE DO FEITO. TEMA A SER EXAMINADO PELO JUÍZO PROCESSANTE. AGRAVO REGIMENTAL IMPROVIDO. 1. O Superior Tribunal de Justiça tem compreensão firmada no sentido de não ser cabível habeas corpus contra decisão que indefere o pleito liminar em prévio mandamus, a não ser que fique demonstrada flagrante ilegalidade, o que não ocorre na espécie. Inteligência do verbete n. 691 da Súmula do Supremo Tribunal Federal. 2. Na espécie, o Juízo de 1º grau, explicitamente, afastou a necessidade de apresentação das alegações finais por escrito, ao afirmar que não se tratava de feito complexo, bem como o número de acusados fora reduzido com o desmembramento da ação penal. Assim, modificar tal entendimento demandaria incursão no acervo probatório dos autos, inviável na sede eleita.
+Impossibilidade de superação do enunciado sumular 691/STF.
+3. Por outro lado, nada impede que o Juízo Processante, ao final da instrução e pela proximidade com os fatos, possa reavaliar o pleito defensivo de apresentação de alegações finais por escrito, momento em que examinará a verdadeira complexidade do feito, lembrando-se que o cumprimento do princípio constitucional da duração razoável do processo (art. 5º, LXXVIII, da CF) não pode sobrepor às garantias constitucionais do cidadão no processo penal, em especial o respeito ao contraditório e à ampla defesa (art. 5º, LV, da CF).
+4. Agravo regimental improvido." (AgRg no HC 495.211/SP, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 21/03/2019, DJe 29/03/2019).
+"AGRAVO REGIMENTAL NO HABEAS CORPUS. PROCESSUAL PENAL. IMPETRAÇÃO CONTRA DECISÃO INDEFERITÓRIA DE LIMINAR EM OUTRO HABEAS CORPUS NA ORIGEM, AINDA NÃO JULGADO. IMPOSSIBILIDADE DE SUPERAÇÃO DA SÚMULA N.º 691 DA SUPREMA CORTE. AUSÊNCIA DE TERATOLOGIA. SUPRESSÃO DE INSTÂNCIA.
+AGRAVO REGIMENTAL DESPROVIDO.
+1. Não se admite habeas corpus contra decisão denegatória de liminar proferida em outro writ na instância de origem, sob pena de indevida supressão de instância.
+Súmula n.º 691/STF.
+2. No caso, não se constata ilegalidade patente que autorize a mitigação da Súmula n.º 691 da Suprema Corte, tendo em vista que foi demonstrada a necessidade de manutenção da segregação cautelar, em virtude da "participação ativa do paciente na quadrilha voltada ao tráfico de entorpecentes, com a qual foi apreendida mais de 01 (uma) tonelada de cocaína, figurando o paciente na ORCRIM como piloto da aeronave".
+3. Conforme orientação desta Corte, a quantidade e a natureza da droga apreendida, bem como a necessidade de se interromper as atividades de organização criminosa, são circunstâncias aptas a justificar a segregação provisória.
+4. Agravo regimental desprovido." (AgRg no HC 496.205/MT, Rel. Ministra LAURITA VAZ, SEXTA TURMA, julgado em 19/03/2019, DJe 01/04/2019).
+O mesmo entendimento deve ser aplicado ao caso em apreço. Confira-se o seguinte precedente do Supremo Tribunal Federal:
+".. a decisão questionada é monocrática, de natureza precária e desprovida de conteúdo definitivo.. A jurisdição ali pedida está pendente e o órgão judicial atua para prestá-la na forma da lei. Embora não tenha havido o indeferimento da medida liminar .., aplica-se à espécie a Súmula n. 691 deste Supremo Tribunal, considerada a não definitividade da decisão objeto da presente impetração." (HC 175174, Relator(a): Min. CÁRMEN LÚCIA, julgado em 13/09/2019, publicado em PROCESSO ELETRÔNICO DJe-202 DIVULG 17/09/2019 PUBLIC 18/09/2019).
+Consta na decisão do Tribunal:
+"A concessão da tutela de urgência reserva-se aos casos excepcionais de ofensa a manifestação direta de locomoção do paciente e desde que preenchidos os pressupostos legais, que são o fumus boni juris e periculum in mora.
+No caso em tela, afigura-se inviável acolher-se a pretensão sumária, porquanto a motivação que ampara o pedido liminar confunde-se com o próprio mérito do writ, necessitando de uma maior dilação probatória, o que não é possível em sede de liminar de habeas corpus.
+Por isso, deve o caso concreto ser analisado mais detalhadamente quando da apreciação do seu julgamento defensivo.
+Julga-se prudente, nesta fase de cognição sumária, ouvir a autoridade apontada como coatora para elucidação de todos os fatos narrados na inicial."
+No caso dos autos, não se verifica a ocorrência de flagrante ilegalidade na decisão impugnada, de modo a justificar o processamento da presente ordem.
+Ante o exposto, nego provimento ao agravo regimental.
+É o voto.
