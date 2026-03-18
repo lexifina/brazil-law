@@ -1,0 +1,26 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEXTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 12/03/2026 a 18/03/2026, por unanimidade, denegar o habeas corpus, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Antonio Saldanha Palheiro, Carlos Pires Brandão e Og Fernandes votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Carlos Pires Brandão.
+Não participou do julgamento o Sr. Ministro Rogerio Schietti Cruz.
+EMENTA
+HABEAS CORPUS. TENTATIVA DE HOMICÍDIO TRIPLAMENTE QUALIFICADO. PLURALIDADE DE QUALIFICADORAS. UTILIZAÇÃO DE UMA PARA QUALIFICAR O CRIME E DAS OUTRAS PARA EXASPERAR A PENA-BASE. POSSIBILIDADE. PROPORCIONALIDADE DO RECRUDESCIMENTO. FUNDAMENTOS IDÔNEOS. LEGALIDADE.
+Ordem denegada.
+RELATÓRIO
+Trata-se de habeas corpus impetrado em nome de CARLOS ANDRE PEREIRA GOUVEA - condenado pelo crime de homicídio tentado qualificado (art. 121, § 2º, incisos III, IV e VI, c/c o art. 14, II, ambos do Código Penal) à pena de 10 anos de reclusão, em regime fechado -, em que a defesa aponta como autoridade coatora a Primeira Câmara Criminal do Tribunal de Justiça do Estado do Rio de Janeiro, que, em 9/9/2025, negou provimento à Apelação Criminal n. 0001655-76.2024.8.19.0061.
+Em síntese, a impetrante alega constrangimento ilegal decorrente da fixação da pena-base acima do mínimo sem fundamentação idônea, com exasperação desproporcional de 2/3 apoiada em qualificadoras remanescentes, violando a proporcionalidade e a discricionariedade vinculada.
+Sustenta bis in idem na valoração das qualificadoras, por utilizar elementares do próprio tipo qualificado como fundamento para agravar as circunstâncias judiciais, sem indicar elementos concretos que extrapolem a normalidade do tipo.
+Defende que, ausente fundamentação específica e concreta, o aumento da pena-base deve observar balizas usualmente aceitas (1/8 do intervalo entre o mínimo e o máximo ou 1/6 sobre o mínimo), limitando-se, no caso, a 1/3 pelo número de vetores negativados .
+No mérito, requer a concessão da ordem para reformar o acórdão e afastar o aumento de 2/3 na pena-base sem fundamentação idônea, limitando-o a 1/3, com a consequente fixação do regime inicial semiaberto, considerado o novo patamar e a primariedade e bons antecedentes do paciente (Processo n. 0001655-76.2024.8.19.0061, da 1ª Vara Criminal da comarca de Teresópolis/RJ).
+É o relatório.
+EMENTA
+HABEAS CORPUS. TENTATIVA DE HOMICÍDIO TRIPLAMENTE QUALIFICADO. PLURALIDADE DE QUALIFICADORAS. UTILIZAÇÃO DE UMA PARA QUALIFICAR O CRIME E DAS OUTRAS PARA EXASPERAR A PENA-BASE. POSSIBILIDADE. PROPORCIONALIDADE DO RECRUDESCIMENTO. FUNDAMENTOS IDÔNEOS. LEGALIDADE.
+Ordem denegada.
+VOTO
+De início, verifica-se que a impetração não prospera, visto que esta Corte já assentou posicionamento no sentido de que é vedada a utilização do habeas corpus como substitutivo de recurso ordinário ou especial, salvo em casos de flagrante ilegalidade (HC n. 804.906/SP, Ministra Daniela Teixeira, Quinta Turma, DJe 17/12/2024).
+Ademais, não há ocorrência de constrangimento ilegal que justifique a concessão de habeas corpus e a consequente superação do óbice constatado.
+Com efeito, é firme a jurisprudência deste Superior Tribunal no entendimento de que, em se tratando de crime de homicídio, com pluralidade de qualificadoras, se admite o aproveitamento da qualificadora remanescente, isto é, daquela não empregada para qualificar o delito, na segunda fase da dosimetria da pena, caso corresponda a agravante genérica prevista no art. 61, inciso II, do CP, ou residualmente, como circunstância judicial negativa, na primeira etapa (AgRg nos EDcl no AREsp n. 2.730.704/GO, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 11/3/2025, DJEN de 19/3/2025). No mesmo sentido: AgRg no AREsp n. 2.029.219/PA, relator Ministro Olindo Menezes (Desembargador Convocado do TRF 1ª REGIÃO), Sexta Turma, julgado em 2/8/2022, DJe de 5/8/2022.
+Melhor sorte não socorre o paciente quanto à fração de recrudescimento da pena, porquanto, a fixação da pena-base não precisa seguir um critério matemático rígido, de modo que não há direito subjetivo do réu à adoção de alguma fração específica para cada circunstância judicial, seja ela de 1/6 sobre a pena-base, 1/8 do intervalo entre as penas mínima e máxima ou mesmo outro valor. Tais frações são parâmetros aceitos pela jurisprudência do STJ, mas não se revestem de caráter obrigatório, exigindo-se apenas que seja proporcional e devidamente justificado o critério utilizado pelas instâncias ordinárias (AgRg no HC n. 718.681/SP, Ministro Ribeiro Dantas, Quinta Turma, DJe 30/8/2022).
+Na hipótese, como bem asseverou o Ministério Público Federal, o desvalor da conduta do paciente transcende a normalidade do tipo. O Tribunal de origem detalhou a brutalidade extrema da ação: a vítima foi surpreendida durante o sono, sofrendo agressões físicas severas (esganadura, socos e chutes) e, em ato de requinte de crueldade, foi banhada em álcool para ser queimada viva. O crime apenas não se consumou devido à pronta intervenção do filho da vítima (fl. 143 - grifo nosso).
+Assim, depreende-se dos autos que há justificativa idônea apoiada em elementos concretos dos autos para o incremento da pena na fração de 2/3.
+Ante o exposto, denego a ordem.
