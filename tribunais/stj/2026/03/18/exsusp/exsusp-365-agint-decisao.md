@@ -1,0 +1,15 @@
+DECISÃO
+Trata-se de agravo interno interposto em face de decisão singular de minha lavra que indeferiu liminarmente a exceção de suspeição arguida contra a Ministra Daniela Teixeira, por sua atuação nos autos da ExSusp 337/GO.
+Na ocasião, fundamentei que " e ste já é o segundo incidente de suspeição apresentado pela parte José Leonardo Mulser, distribuído à minha relatoria. A primeira exceção (ExSusp 355/GO), manejada mediante petição com razões idênticas às deste incidente, foi rejeitada liminarmente por mim".
+Naqueles autos (ExSusp 355/GO), registrei que "há, ao menos, 10 incidentes de exceção de suspeição/impedimento apresentados pelo excipiente José Leonardo Mulser, todos eles com fundamentação similar: ExImp 39/GO, ExSusp 203/DF, ExSusp 234/DF ExSusp 297/GO, ExSusp 298/DF, ExSusp 301/GO, ExSusp 336/GO, ExSusp 337/GO, ExSusp 345/DF, ExSusp 355/GO. É evidente e notório que a parte excipiente se vale do efeito suspensivo da exceção de suspeição de modo temerário, com a finalidade de obstruir o andamento dos processos. As repetidas arguições de suspeição, atrelada à falta de qualquer fundamentação idônea, revelam conduta dolosa de litigância de má-fé da parte".
+Por essas razões, rejeitei liminarmente a exceção e apliquei multa por litigância de má-fé em 10 salários-mínimos, além de determinar o encaminhamento de ofício à Ordem dos Advogados do Brasil - Seccional de Goiás para apurar a conduta processual de má-fé do patrono da parte excipiente.
+Nas razões deste agravo interno, de difícil compreensão, a parte reitera as razões da petição da exceção de suspeição.
+Assim posta a questão, penso que o feito deve ser chamado à ordem.
+Conforme demonstrei na decisão agravada, a parte excipiente está arguindo, sucessivamente, a exceção de suspeição de todos os ministros a quem é distribuída a relatoria de seus processos. Estes autos, por exemplo, são oriundos da ExSusp 337/GO, que havia sido distribuída à Ministra Daniela Teixeira, cuja suspeição foi arguida após Sua Excelência rejeitar a arguição movida em face da Ministra Nancy Andrighi nos autos do AREsp 2.835.108/GO.
+Há inúmeras outras exceções de suspeição e impedimento movidas pela mesma parte, que se vale do expediente de maneira temerária para protelar o andamento do processo. Esse tipo de conduta é inaceitável e não será tolerada por este Superior Tribunal de Justiça.
+Conforme prevê o art. 139, II e III, do Código de Processo Civil, incumbe ao magistrado dirigir o processo, velar pela duração razoável do processo, bem como prevenir e reprimir qualquer ato contrário à dignidade da justiça, inclusive mediante o indeferimento de postulações meramente protelatórias.
+Valendo-se desse poder-dever assegurado pela lei processual, determino a imediata certificação do trânsito em julgado desta exceção de suspeição.
+Ficam prejudicados o agravo interno e a petição de fls. 157-159.
+À Secretaria Judiciária, adotar as providências necessárias ao encaminhamento de ofício à Ordem dos Advogados do Brasil - Seccional de Goiás para apurar eventual falta disciplinar do patrono da parte excipiente.
+Intimem-se.
+EMENTA
