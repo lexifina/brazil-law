@@ -1,0 +1,43 @@
+DECISÃO
+Trata-se de tutela cautelar antecedente apresentada por GIL GARRITANO DA SILVA, com o fim de atribuir efeito suspensivo aos recursos especial e extraordinário interpostos contra o acórdão do Tribunal de origem que deu provimento à apelação da parte contrária para afastar a transação penal e determinar o prosseguimento da ação penal privada ajuizada em seu desfavor, nos termos da seguinte ementa (fls. 155-158):
+DIREITO PROCESSUAL PENAL. APELAÇÃO CRIMINAL. TRANSAÇÃO PENAL. CRIMES CONTRA A HONRA EM CONCURSO MATERIAL. TRÊS CRIMES DE CALÚNIA E TRÊS CRIMES DE DIFAMAÇÃO. SOMATÓRIO DAS PENAS MÁXIMAS SUPERIOR A DOIS ANOS. INAPLICABILIDADE DO INSTITUTO DESPENALIZADOR DA TRANSAÇÃO PENAL. NECESSIDADE DE OBSERVÂNCIA DO MESMO CRITÉRIO UTILIZADO PARA FIXAÇÃO DA COMPETÊNCIA. RECURSO CONHECIDO E PROVIDO.
+I. CASO EM EXAME
+1. Apelação criminal interposta por Guarajuba Fase 3 Empreendimentos Imobiliários LTDA., contra decisão que homologou transação penal em favor de GGS (Gil Garritano da Silva), acusado da prática de três crimes de calúnia (art. 138, caput, do Código Penal) e três crimes de difamação (art. 139 do Código Penal), todos em concurso material.
+2. A queixa-crime versa sobre condutas praticadas em três datas distintas: em 01/04/2024, o querelado GGS teria enviado mensagens de áudio via WhatsApp contendo acusações de crimes ambientais e ofensas à reputação da empresa querelante, além de ameaças a funcionário; em 14/08/2024, teria divulgado vídeo com novas imputações criminosas; em 26/07/2024, apresentou em processo judicial documento técnico contendo alegações difamatórias e caluniosas.
+3. Em audiência realizada em 17 de março de 2025, o Ministério Público ofereceu proposta de transação penal no valor de R$ 2.500,00 (dois mil e quinhentos reais), a qual foi aceita pelo querelado G. G. S e homologada pelo juízo de primeira instância, determinando-se a juntada do comprovante de pagamento sob pena de prosseguimento da ação penal.
+II. QUESTÃO EM DISCUSSÃO
+4. A questão em discussão consiste em saber se é cabível a aplicação do instituto despenalizador da transação penal, previsto no art. 76 da Lei nº 9.099/1995, quando o somatório das penas máximas cominadas aos delitos imputados, em concurso material de crimes, supera o limite legal de dois anos de pena privativa de liberdade.
+III. RAZÕES DE DECIDIR
+5. A jurisprudência do Superior Tribunal de Justiça firmou-se no sentido de que, havendo concurso de crimes (seja material, formal ou continuidade delitiva), o cálculo da pena máxima para fins de transação penal deve considerar o resultado do somatório (no concurso material) ou da exasperação (no concurso formal e crime continuado) das penas máximas cominadas aos delitos. Esse entendimento encontra-se consolidado na Tese 10 do STJ, constante da edição 96 do periódico "Jurisprudência em Teses".
+6. A própria decisão recorrida reconheceu que o somatório das penas alterou a competência dos Juizados Especiais para a Vara Criminal comum, em conformidade com a orientação do Superior Tribunal de Justiça.
+7. A queixa-crime, no caso concreto, narra a prática de três crimes de calúnia e três crimes de difamação, perpetrados em datas distintas (01/04/2024, 14/08/2024 e 26/07/2024), mediante condutas autônomas que se amoldam ao concurso material de infrações penais. Considerando as penas máximas cominadas, quais sejam, dois anos para cada calúnia (art. 138 do Código Penal) e um ano para cada difamação (art. 139 do Código Penal), o somatório alcança nove anos de pena privativa de liberdade, montante que ultrapassa significativamente o limite legal de dois anos previsto no art. 61 da Lei nº 9.099/1995.
+8. A defesa do apelado sustentou que cada crime deve ser analisado isoladamente para fins de transação penal, invocando o Enunciado 112 do FONAJE e o disposto no artigo 60, parágrafo único, da Lei nº 9.099/1995. Tal argumentação não merece prosperar. O Enunciado 112 do FONAJE limita-se a reconhecer a legitimidade do Ministério Público para propor institutos despenalizadores em ações penais privadas, não dispensando o cumprimento dos demais requisitos legais, em especial o limite objetivo de pena estabelecido no art. 61 da Lei nº 9.099/1995.
+IV. DISPOSITIVO E TESE
+9. Recurso de apelação conhecido e provido, para que seja reformada a decisão que homologou a transação penal em favor do querelado G. G. S (Gil Garritano da Silva). Determinado o regular prosseguimento da ação penal privada.
+Tese de julgamento: "A transação penal prevista no art. 76 da Lei nº 9.099/1995 é inaplicável quando o somatório das penas máximas cominadas aos delitos imputados, em concurso material de crimes, supera o limite de dois anos de pena privativa de liberdade, devendo-se observar o mesmo critério utilizado para definição de competência, sob pena de violação à coerência sistemática do ordenamento jurídico processual penal."
+O requerente sustenta que, para fins de aplicação da transação penal prevista na Lei n. 9.099/1995, cada infração deve ser analisada de forma isolada, não incidindo, na hipótese, a Súmula 243/STJ, a qual se refere especificamente à suspensão condicional do processo. Assim, diante da plausibilidade da tese defensiva, requer a atribuição de efeito suspensivo aos recursos especial e extraordinário que se encontram pendentes de juízo de admissibilidade na instância de origem.
+Por intermédio da petição de fls. 890-893, a requerida apresenta argumentos contrários à pretensão do requerente, pleiteando, ao final, a abertura de prazo para contestar o presente procedimento de tutela cautelar antecedente, nos termos do art. 306 do CPC.
+É o relatório.
+A competência do Superior Tribunal de Justiça para apreciar pedido de atribuição de efeito suspensivo a recurso especial somente se instaura após a superação do juízo de admissibilidade realizado pelo Tribunal de origem.
+Trata-se da regra prevista no § 5º do art. 1.029 do Código de Processo Civil, com redação dada pela Lei n. 13.256/2016, nos seguintes termos:
+Art. 1.029  ..
+§ 5º O pedido de concessão de efeito suspensivo a recurso extraordinário ou a recurso especial poderá ser formulado por requerimento dirigido:
+I - ao tribunal superior respectivo, no período compreendido entre a publicação da decisão de admissão do recurso e sua distribuição, ficando o relator designado para seu exame prevento para julgá-lo;
+II - ao relator, se já distribuído o recurso;
+III - ao presidente ou ao vice-presidente do tribunal recorrido, no período compreendido entre a interposição do recurso e a publicação da decisão de admissão do recurso, assim como no caso de o recurso ter sido sobrestado, nos termos do art. 1.037.
+Como se observa, no período compreendido entre a interposição do recurso e a publicação da decisão que examina sua admissibilidade, compete à instância de origem apreciar e decidir eventual pedido de atribuição de efeito suspensivo ao recurso especial interposto. Nesse sentido:
+DIREITO PROCESSUAL CIVIL. AGRAVO INTERNO. PEDIDO DE EFEITO SUSPENSIVO AO RECURSO ESPECIAL. AUSÊNCIA DE JUÍZO DE ADMISSI BILIDADE DO RECURSO ESPECIAL PELO TRIBUNAL DE ORIGEM. INCOMPETÊNCIA DO SUPERIOR TRIBUNAL DE JUSTIÇA. AGRAVO INTERNO DESPROVIDO.
+I. Caso em exame
+1. Agravo interno interposto contra decisão que não conheceu do pedido de atribuição de efeito suspensivo ao recurso especial com fundamento na ausência de competência do Superior Tribunal de Justiça em razão da falta de deliberação do Tribunal de origem.
+II. Questão em discussão
+2. A questão em discussão consiste em saber se o Superior Tribunal de Justiça possui competência para conhecer de pedido de efeito suspensivo a recurso especial antes da decisão de admissibilidade na origem.
+III. Razões de decidir
+3. Nos termos do art. 1029, § 5º, III, do CPC/2015, é da competência do Presidente ou do Vice-Presidente do Tribunal de origem atribuir ou revogar efeito suspensivo a recurso especial no período compreendido entre a interposição do recurso e a publicação da decisão de admissibilidade do reclamo. Incide, nesses casos e por analogia, o enunciado das Súmulas 634 e 635 do STF.
+4. A jurisprudência deste Superior Tribunal de Justiça é firme no sentido de que é incabível a tutela cautelar ajuizada nesta Corte Superior para atribuir efeito suspensivo a recurso especial ainda não submetido ao juízo de admissibilidade na origem.
+IV. Dispositivo
+5. Agravo interno não provido.
+(AgInt na TutAntAnt n. 352/MG, relatora Ministra Daniela Teixeira, Terceira Turma, julgado em 8/9/2025, DJEN de 12/9/2025.)
+Ante o exposto, com fundamento no art. 34, XVIII, a, do RISTJ, não conheço do pedido, ficando prejudicado o pleito de abertura de prazo para contestação formulado pela requerida às fls. 890-893.
+Publique-se.
+Intimem-se.
+EMENTA
