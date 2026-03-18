@@ -1,0 +1,43 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEXTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 12/03/2026 a 18/03/2026, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Antonio Saldanha Palheiro, Carlos Pires Brandão e Og Fernandes votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Carlos Pires Brandão.
+Não participou do julgamento o Sr. Ministro Rogerio Schietti Cruz.
+EMENTA
+HABEAS CORPUS. EXECUÇÃO PENAL. PROGRESSÃO DE REGIME. IMPOSIÇÃO DE EXAME CRIMINOLÓGICO. GRAVIDADE ABSTRATA DOS DELITOS E LONGA PENA A CUMPRIR. FUNDAMENTAÇÃO INIDÔNEA. PRECEDENTES. LEI N. 14.843/2024. NOVATIO LEGIS IN PEJUS. IMPOSSIBILIDADE DE APLICAÇÃO RETROATIVA. HISTÓRICO PRISIONAL CONTURBADO. NECESSIDADE DE EXAME CRIMINOLÓGICO. AUSÊNCIA DE FLAGRANTE ILEGALIDADE. DECISÃO MANTIDA.
+1. Esta Corte Superior de Justiça possui entendimento sumulado de que se admite o exame criminológico pelas peculiaridades do caso, desde que em decisão motivada (Súmula 439/STJ).
+2. A exigência do exame criminológico foi fundamentada nas peculiari dades do caso, em que o Juízo da execução destacou que o sentenciado cumpre pena por crime grave, cometido mediante violência ou grave ameaça, é reincidente, possui um histórico prisional conturbado, praticou diversos delitos de forma sucessiva e possui considerável período de pena por cumprir.
+3. Conforme consta da guia de execução penal, o paciente praticou o crime de roubo em 27/4/2020, quando estava em cumprimento de pena por crime de furto.
+4. A pratica reiterada de crimes é indicativo de periculosidade do apenado e fundamenta a exigência do parecer técnico (HC n. 262.024/SP, relatora Ministra Marilza Maynard (Desembargadora Convocada do TJ/SE), Quinta Turma, julgado em 28/5/2013, DJe de 3/6/2013).
+5. Agravo regimental improvido.
+RELATÓRIO
+Trata-se de agravo regimental interposto por GIORGIO HENRIQUE BENTO DE MEDEIROS contra decisão monocrática assim ementada (fl. 47):
+HABEAS CORPUS. EXECUÇÃO PENAL. PROGRESSÃO DE REGIME. IMPOSIÇÃO DE EXAME CRIMINOLÓGICO. GRAVIDADE ABSTRATA DOS DELITOS E LONGA PENA A CUMPRIR. FUNDAMENTAÇÃO INIDÔNEA. PRECEDENTES. LEI N. 14.843/2024. NOVATIO LEGIS IN PEJUS. IMPOSSIBILIDADE DE APLICAÇÃO RETROATIVA. HISTÓRICO PRISIONAL CONTURBADO. NECESSIDADE DE EXAME CRIMINOLÓGICO. AUSÊNCIA DE FLAGRANTE ILEGALIDADE.
+Petição inicial indeferida liminarmente.
+Nas razões, a parte agravante alega que há flagrante ilegalidade e desproporcionalidade na medida impugnada, requerendo a reconsideração da decisão monocrática que indeferiu liminarmente o habeas corpus.
+Argumenta que não merece prosperar o fundamento de histórico prisional conturbado, com prática de diversos delitos de forma sucessiva, utilizado para justificar a necessidade do exame criminológico.
+Defende que a fundamentação do Tribunal de Justiça de São Paulo é genérica e desprovida de apontamentos concretos, pois o boletim informativo da unidade prisional indica somente duas faltas antigas, sendo irrazoável a determinação de exame criminológico, em observância à irretroatividade da Lei n. 14.843/2024 (fl. 53).
+Afirma que a decisão impugnada carece de fundamentos concretos e contemporâneos, desconsiderando a vida carcerária atual, em descompasso com o entendimento sumular e com precedentes que vedam o uso de gravidade abstrata, longa pena e reincidência como justificativas para exame criminológico.
+Pugna, assim, pela reforma da decisão agravada.
+É o relatório.
+EMENTA
+HABEAS CORPUS. EXECUÇÃO PENAL. PROGRESSÃO DE REGIME. IMPOSIÇÃO DE EXAME CRIMINOLÓGICO. GRAVIDADE ABSTRATA DOS DELITOS E LONGA PENA A CUMPRIR. FUNDAMENTAÇÃO INIDÔNEA. PRECEDENTES. LEI N. 14.843/2024. NOVATIO LEGIS IN PEJUS. IMPOSSIBILIDADE DE APLICAÇÃO RETROATIVA. HISTÓRICO PRISIONAL CONTURBADO. NECESSIDADE DE EXAME CRIMINOLÓGICO. AUSÊNCIA DE FLAGRANTE ILEGALIDADE. DECISÃO MANTIDA.
+1. Esta Corte Superior de Justiça possui entendimento sumulado de que se admite o exame criminológico pelas peculiaridades do caso, desde que em decisão motivada (Súmula 439/STJ).
+2. A exigência do exame criminológico foi fundamentada nas peculiari dades do caso, em que o Juízo da execução destacou que o sentenciado cumpre pena por crime grave, cometido mediante violência ou grave ameaça, é reincidente, possui um histórico prisional conturbado, praticou diversos delitos de forma sucessiva e possui considerável período de pena por cumprir.
+3. Conforme consta da guia de execução penal, o paciente praticou o crime de roubo em 27/4/2020, quando estava em cumprimento de pena por crime de furto.
+4. A pratica reiterada de crimes é indicativo de periculosidade do apenado e fundamenta a exigência do parecer técnico (HC n. 262.024/SP, relatora Ministra Marilza Maynard (Desembargadora Convocada do TJ/SE), Quinta Turma, julgado em 28/5/2013, DJe de 3/6/2013).
+5. Agravo regimental improvido.
+VOTO
+O presente agravo regimental deve ser conhecido, já que reúne os requisitos de admissibilidade.
+No mérito, todavia, não deve ser provido, devendo a decisão ser mantida por seus próprios fundamentos, os quais transcrevo para que integrem o presente julgado (fls. 48/49):
+Esta Corte Superior de Justiça possui entendimento sumulado de que se admite o exame criminológico pelas peculiaridades do caso, desde que em decisão motivada (Súmula 439/STJ).
+É assente na jurisprudência do Superior Tribunal de Justiça que não há constrangimento ilegal na exigência de exame criminológico, mesmo após a edição da Lei n. 10.792/2003, desde que fundamentada a decisão na gravidade concreta do delito ou em dados concretos da própria execução (AgRg no HC n. 302.033/SP, Ministra Maria Thereza de Assis Moura, Sexta Turma, DJe 16/9/2014). Na mesma linha, HC n. 523.840/MG, Ministro Antonio Saldanha Palheiro, Sexta Turma, DJe 29/10/2019; e AgRg no HC n. 562.274/SP, Ministro Felix Fischer, Quinta Turma, DJe 28/5/2020.
+No entanto, nem a gravidade abstrata dos crimes cometidos, nem a longa pena a cumprir, ou ainda a reincidência, são fatores que indicam a necessidade da perícia, é o que se depreende da leitura destes precedentes, por exemplo: HC n. 620.368/SP, Ministra Laurita Vaz, Sexta Turma, DJe 2/12/2020; AgRg no HC n. 702.817/SP, Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe 19/11/2021; e HC n. 436.653/SP, Ministro Ribeiro Dantas, Quinta Turma, DJe 26/3/2018.
+Especificamente, em relação ao § 1º do art. 112 da Lei de Execução Penal, com redação dada pela Lei n. 14.843/2024, a Sexta Turma desta Corte, no RHC n. 200.670/GO, de minha relatoria, DJe de 23/8/2024, decidiu que a exigência de realização de exame criminológico para toda e qualquer progressão de regime constitui novatio legis in pejus, pois incrementa requisito, tornando mais difícil alcançar regimes prisionais menos gravosos à liberdade. A retroatividade dessa norma se mostra inconstitucional, diante do art. 5º, XL, da Constituição Federal, e ilegal, nos termos do art. 2º do Código Penal.
+No caso, a fundamentação apresentada pelo Tribunal a quo não encontra aporte na jurisprudência - obrigatoriedade do exame criminológico com o advento da Lei n. 14.843/2024.
+Porém, conforme destacou o Juízo da execução, o paciente possui um histórico prisional conturbado, praticando diversos delitos de forma sucessiva (fl. 18), o que justifica a necessidade da submissão a exame criminológico e impede a concessão da ordem.
+Sobre o tema: AgRg no HC n. 1.011.446/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 5/8/2025, DJEN de 15/8/2025; e AgRg no HC n. 979.240/SP, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 11/6/2025, DJEN de 16/6/2025.
+Reafirmo que não há ilegalidade a ser sanada, pois e exigência do exame criminológico não foi fundamentada na aplicação da Lei n. 14.843/2024 e, sim, nas peculiaridades do caso, em que o Juízo da execução destacou que o sentenciado cumpre pena por crime grave, cometido mediante violência ou grave ameaça, é reincidente, possui um histórico prisional conturbado, praticou diversos delitos de forma sucessiva e possui considerável período de pena por cumprir (fl. 18).
+Cumpre destacar que conforme consta da guia de execução penal, o paciente praticou o crime de roubo em 27/4/2020, quando estava em cumprimento de pena por crime de furto.
+Com efeito a pratica reiterada de crimes é indicativo de periculosidade do apenado e fundamenta a exigência do parecer técnico (HC n. 262.024/SP, relatora Ministra Marilza Maynard (Desembargadora Convocada do TJ/SE), Quinta Turma, julgado em 28/5/2013, DJe de 3/6/2013).
+Ante o exposto, nego pro vimento ao agravo regimental.
