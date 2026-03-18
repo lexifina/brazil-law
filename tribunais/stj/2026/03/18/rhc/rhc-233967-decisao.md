@@ -1,0 +1,47 @@
+DECISÃO
+Trata-se de recurso em habeas corpus, com pedido de liminar, interposto por GILVANIO JOSE ABREU DA SILVA, contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO GRANDE DO SUL no julgamento do Habeas Corpus n. 5002640-70.2026.8.21.7000.
+Extrai-se dos autos que o recorrente foi denunciado pela suposta prática do delito previsto no art. 17, § 1º, da Lei n. 10.826/03 (tráfico de armas).
+Irresignada, a defesa impetrou habeas corpus perante o Tribunal de origem, que denegou a ordem, nos termos do acórdão assim ementado:
+"DIREITO PROCESSUAL PENAL. HABEAS CORPUS. TRÁFICO DE ARMAS. ALEGAÇÃO DE QUEBRA DA CADEIA DE CUSTÓDIA DE PROVAS DIGITAIS. AUSÊNCIA DE LACRE OFICIAL. DIVERGÊNCIA DE HASHES. INEXISTÊNCIA DE ILEGALIDADE MANIFESTA. ORDEM DENEGADA.
+I. CASO EM EXAME:
+1. HABEAS CORPUS IMPETRADO EM FAVOR DO PACIENTE QUE RESPONDE À AÇÃO PENAL PELA SUPOSTA PRÁTICA DO DELITO TIPIFICADO NO ARTIGO 17, §1º, DA LEI Nº 10.826/03, ALEGANDO CONSTRANGIMENTO ILEGAL DECORRENTE DA ILICITUDE DE PROVAS DIGITAIS EXTRAÍDAS DE APARELHO CELULAR DE CORRÉU, POR QUEBRA DA CADEIA DE CUSTÓDIA EM DUAS VERTENTES: AUSÊNCIA DE LACRAÇÃO OFICIAL DAS MÍDIAS APREENDIDAS E DIVERGÊNCIA NOS HASHES DAS MÍDIAS.
+II. QUESTÃO EM DISCUSSÃO:
+1. HÁ DUAS QUESTÕES EM DISCUSSÃO: (I) A OCORRÊNCIA DE QUEBRA DA CADEIA DE CUSTÓDIA DAS PROVAS DIGITAIS PELA AUSÊNCIA DE LACRAÇÃO OFICIAL DAS MÍDIAS APREENDIDAS; (II) A RUPTURA DA INTEGRIDADE DA PROVA DIGITAL EM VIRTUDE DA DIVERGÊNCIA NOS HASHES DAS MÍDIAS.
+III. RAZÕES DE DECIDIR:
+1. AS TESES RELATIVAS À QUEBRA DA CADEIA DE CUSTÓDIA EM RAZÃO DA DIVERGÊNCIA NOS HASHES DAS MÍDIAS E AO SUPOSTO DESCUMPRIMENTO DA SÚMULA VINCULANTE Nº 14 DO STF JÁ FORAM OBJETO DE APRECIAÇÃO PELO MESMO ÓRGÃO FRACIONÁRIO EM HABEAS CORPUS ANTERIOR IMPETRADO EM FAVOR DO MESMO PACIENTE, TENDO SIDO DENEGADA A ORDEM.
+2. A AUSÊNCIA DE LACRE OFICIAL, EMBORA CONFIGURE INOBSERVÂNCIA DO PROCEDIMENTO PREVISTO NO ARTIGO 158-D, §1º, DO CPP, NÃO ACARRETA, DE FORMA AUTOMÁTICA E ABSOLUTA, A QUEBRA DA CADEIA DE CUSTÓDIA OU A NULIDADE DA PROVA.
+3. A VALIDADE DO ELEMENTO PROBATÓRIO DEVE SER AFERIDA EM CONJUNTO COM OS DEMAIS ELEMENTOS DE CONVICÇÃO QUE DEMONSTREM SUA IDONEIDADE E SEU PERCURSO, EXISTINDO DOCUMENTOS QUE PERMITEM O RASTREAMENTO DO MATERIAL APREENDIDO.
+4. A MERA ALEGAÇÃO DE MANIPULAÇÃO DO MATERIAL NÃO PROVOCA AUTOMATICAMENTE A NULIDADE DA PROVA, SENDO NECESSÁRIA A DEMONSTRAÇÃO EFETIVA DA MODIFICAÇÃO DO MATERIAL, O QUE EXIGE AVALIAÇÃO EM CONJUNTO DE TODOS OS ELEMENTOS PROBATÓRIOS DURANTE A INSTRUÇÃO CRIMINAL.
+5. A VERIFICAÇÃO PORMENORIZADA DOS PROCEDIMENTOS DE COLETA, ACONDICIONAMENTO, TRANSPORTE E RECEBIMENTO DOS VESTÍGIOS, PARA AFERIR A INTEGRIDADE E IDONEIDADE DA PROVA, É TAREFA A SER REALIZADA PELO JUÍZO DE PRIMEIRO GRAU, NO CURSO DA INSTRUÇÃO CRIMINAL, SOB O CRIVO DO CONTRADITÓRIO E DA AMPLA DEFESA.
+IV. DISPOSITIVO E TESE:
+1. ORDEM DENEGADA.
+TESE DE JULGAMENTO:
+1. A AUSÊNCIA DE LACRE NUMERADO NO INVÓLUCRO DE PROVAS DIGITAIS NÃO IMPLICA, POR SI SÓ, QUEBRA DA CADEIA DE CUSTÓDIA QUANDO EXISTEM OUTROS DOCUMENTOS QUE PERMITEM O RASTREAMENTO DO MATERIAL E CONFEREM SEGURANÇA AO PROCEDIMENTO." (fls. 49/50)
+Nas razões do presente recurso, a defesa sustenta a nulidade das provas digitais por ruptura originária e irreparável da cadeia de custódia, decorrente da ausência de lacres numerados no acondicionamento do aparelho celular do corréu, em ofensa ao art. 158-D, § 1º, do Código de Processo Penal.
+Sustenta que a divergência de hash entre o relatório em PDF e a extração integral posteriormente entregue em mídias físicas não afasta o vício de origem, pois o hash gerado a posteriori não comprova a integridade do dispositivo previamente mantido sem lacre.
+Assevera a existência de distinguishing em relação ao Habeas Corpus n. 5293798-62.2025, porque aquele writ tratava de acesso à prova integral, ao passo que o presente recurso discute a ilicitude material pela quebra da cadeia de custódia física.
+Aduz a vedação de probatio diabólica e o ônus estatal de demonstrar a integridade da prova, com aplicação analógica do art. 157, § 1º, do Código de Processo Penal para reconhecer a inadmissibilidade da prova ilícita e das derivadas.
+Requer, em liminar, a suspensão do andamento da Ação Penal n. 5009907-76.2025.8.21.0033/RS até o julgamento final do presente recurso e, no mérito, a concessão da ordem para reconhecer a ilicitude da prova digital extraída do aparelho celular, com o desentranhamento do material e das provas dela derivadas, nos termos do art. 157, § 1º, do Código de Processo Penal. Subsidiariamente, busca a declaração de nulidade da instrução processual a partir da resposta à acusação ou do oferecimento da denúncia.
+É o relatório.
+Decido.
+Da atenta leitura do acórdão impugnado, verifica-se que o Tribunal de origem não se manifestou expressamente sobre a tese de nulidade das provas digitais em razão da ausência de lacres numerados no acondicionamento do aparelho celular do corréu, porquanto a questão demanda análise aprofundada no curso da instrução processual, a ser aferida sob o crivo do contraditório e da ampla defesa, por ser necessária a demonstração efetiva da modificação do material.
+Desse modo, resta afastada a competência desta Corte Superior para conhecimento da matéria, sob pena de se incorrer em indevida supressão de instância.
+Nesse sentido, são os seguintes precedentes:
+PENAL. PROCESSO PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. ILEGALIDADE INEXISTENTE. OMISSÃO DEVE SER QUESTIONADA VIA EMBARGOS DE DECLARAÇÃO. SUPRESSÃO. AINDA QUE NULIDADE ABSOLUTA. DESÍGNIOS AUTONOMOS. ABSORÇÃO. REVOLVIMENTO FÁTICO-PROBATÓRIO. INVIABILIDADE NA VIA DO WRIT. AUSÊNCIA DE ARGUMENTOS NOVOS APTOS A ALTERAR A DECISÃO AGRAVADA. AGRAVO DESPROVIDO.
+I - É assente nesta Corte Superior de Justiça que o agravo regimental deve trazer novos argumentos capazes de alterar o entendimento anteriormente firmado, sob pena de ser mantida a decisão agravada por seus próprios fundamentos.
+II - Ainda que a Defesa alegue que houve o prequestionamento implícito, porquanto ventilou a questão nas peças de defesa, todavia, ante a não manifestação daquela Corte, caberia o manejo dos embargos de declaração, aptos a prequestionar a matéria.
+III - Ausente manifestação do Tribunal sobre a questão de fundo também ora vindicada, incabível a análise de tal matéria, no presente habeas corpus, porquanto está configurada a absoluta supressão de instância quanto ao ponto debatido, ficando impedida esta Corte de proceder à sua análise.
+IV - A instância ordinária, diante do conjunto fático-probatório dos autos, concluiu por provas suficientes à condenação pelos 2 (dois) delitos, como sendo autônomos, bem como a defesa não logrou demonstrar o contrário.
+V - É iterativa a jurisprudência deste Superior Tribunal de Justiça no sentido de ser imprópria a via do habeas corpus (e do seu recurso) para a análise de teses de insuficiência probatória, de negativa de autoria ou até mesmo de desclassificação, em razão da necessidade de incursão no acervo fático-probatório.
+Agravo regimental desprovido.
+(AgRg no HC n. 823.044/DF, relator Ministro Messod Azulay Neto, Quinta Turma, julgado em 18/12/2023, DJe de 20/12/2023.)
+AGRAVO REGIMENTAL EM HABEAS CORPUS. ROUBO CIRCUNSTANCIADO. WRIT IMPETRADO CONTRA CONDENAÇÃO TRANSITADA EM JULGADO. SUCEDÂNEO DE REVISÃO CRIMINAL. INADMISSIBILIDADE. AUSÊNCIA DE JULGAMENTO DE MÉRITO NESTA CORTE. INCOMPETÊNCIA DO SUPERIOR TRIBUNAL DE JUSTIÇA. TEMAS NÃO DEBATIDOS PELA CORTE DE ORIGEM. SUPRESSÃO DE INSTÂNCIA. TEMAS DEBATIDOS EM CONSONÂNCIA COM O ENTENDIMENTO DO SUPERIOR TRIBUNAL DE JUSTIÇA. AUSÊNCIA DE ILEGALIDADE FLAGRANTE.
+1. Não deve ser conhecido o writ que se volta contra sentença condenatória já transitada em julgado, manejado como substitutivo de revisão criminal, em hipótese na qual não houve inauguração da competência desta Corte Superior. Nos termos do art. 105, I, e, da Constituição Federal, compete ao Superior Tribunal de Justiça processar e julgar, originariamente, as revisões criminais e as ações rescisórias de seus julgados. Precedentes.
+2. A Jurisprudência do Superior Tribunal de Justiça "é pacífica no sentido de que, ainda que se trate de matéria de ordem pública, é imprescindível o seu prévio debate na instância de origem para que possa ser examinada por este Tribunal Superior (AgRg no HC 530.904/PR, Rel. Ministro JORGE MUSSI, Quinta Turma, julgado em 24/9/2019, DJe de 10/10/2019) - (AgR no HC n. 726.326/CE, Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe 28/3/2022).
+3. Quanto aos temas efetivamente debatidos pela Corte de origem, verifica-se que não há qualquer ilegalidade flagrante a ser sanada, na medida em que o acórdão objurgado se encontra em consonância com a jurisprudência desta Corte, no sentido de que as condenações alcançadas pelo período depurador de 5 anos, previsto no art. 64, inciso I, do Código Penal, afastam os efeitos da reincidência, mas não impedem a configuração de maus antecedentes, permitindo, assim, o aumento da pena-base; bem como de que para a incidência da causa de aumento relativa ao emprego de arma de fogo, dispensável a apreensão e perícia da arma, desde que o emprego do artefato fique comprovado por outros meios de prova. Precedentes.
+4. Agravo regimental improvido.
+(AgRg no HC n. 842.953/SP, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 6/2/2024, DJe de 8/2/2024.)
+Ante o exposto, nos termos do art. 34, XVIII, "a ", não conheço do presente recurso em habeas corpus.
+Publique-se.
+Intimem-se.
+EMENTA
