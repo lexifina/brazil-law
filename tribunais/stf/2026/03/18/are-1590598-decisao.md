@@ -1,0 +1,107 @@
+DECISÃO
+
+RECURSO EXTRAORDINÁRIO COM AGRAVO. DIREITO CONSTITUCIONAL E ADMINISTRATIVO. DEMARCAÇÃO DE TERRA INDÍGENA. OMISSÃO ESTATAL. INTERVENÇÃO DO PODER JUDICIÁRIO EM POLÍTICAS PÚBLICAS. SEPARAÇÃO DE PODERES. ENUNCIADO Nº 279 DA SÚMULA DO STF. NEGATIVA DE PROVIMENTO.
+
+1. Trata-se de agravo interposto contra decisão negativa de admissibilidade do recurso extraordinário apresentado em desfavor de acórdão do Tribunal Regional Federal da 1ª Região, assim ementado:
+
+“CONSTITUCIONAL E ADMINISTRATIVO. AÇÃO CIVIL PÚBLICA. COMUNIDADE INDÍGENA. POVO INDÍGENA KAXIXO DO ESTADO DE MINAS GERAIS. DEMARCAÇÃO DAS TERRAS TRADICIONALMENTE OCUPADAS PELOS INDÍGENAS. INOBSERVÂNCIA DOS PRAZOS PREVISTOS NO ART. 67 DO ADCT, NO ART. 65 DA LEI N° 6.001/1973 (ESTATUTO DO ÍNDIO) E NO DECRETO 1.775/96. AFRONTA AOS PRINCÍPIOS DA LEGALIDADE, DA MORALIDADE, DA EFICIÊNCIA E DA RAZOÁVEL DURAÇÃO DO PROCESSO. SENTENÇA MANTIDA.
+I — Conforme art. 231, da Constituição Federal "são reconhecidos aos índios sua organização social, costumes, línguas, crenças e tradições, e os direitos originários sobre as terras que tradicionalmente ocupam, competindo à União demarcá-las, proteger e fazer respeitar todos os seus bens".
+II — Com o intuito de proteger os direitos pertencentes aos povos indígenas previstos na Constituição Federal/88, o art. 67 do Ato das Disposições Constitucionais Transitórias e o Estatuto do índio (Lei n° 6.001/73, art. 65) estipulam o prazo de 05 (cinco) anos, para que se conclua a demarcação das terras indígenas, tendo o Decreto n° 1.775, de 8 de janeiro de 1996, estabelecido os prazos pertinentes a todo o procedimento administrativo de demarcação.
+III — Na hipótese dos autos, restou caracterizada a manifesta inércia da Fundação Nacional do índio — FUNAI, pois embora constituído Grupo de Trabalho para fins de demarcação das terras ocupadas pelo Povo Indígena Kaxixó de Minas Gerais, os trabalhos encontram-se parados desde 2009, quando entregue relatório circunstanciado em que se concluiu pela necessidade de maiores estudos para apontar os aspectos territoriais da população reconhecida em 2001.
+IV — Assim, após o lapso temporal de mais de 16 (dezesseis) anos desde o reconhecimento do povo indígena sem que se tenha finalizado o processo de demarcação das respectivas terras, afigura-se manifesta a violação aos dispositivos legais e constitucionais em referência, bem assim, aos princípios da moralidade, da eficiência e da razoável duração do processo (CF, arts. 5°, LXXVIII e 37, caput).
+V — Rejeita-se o argumento de ausência de verba para realização de estudos e levantamentos mais abrangentes, por se tratar do princípio da reserva do possível afastada sua invocação em casos tais pelo egrégio STF, ARE 639337 AgR, in verbis: "a cláusula da reserva do possível - que não pode ser invocada, pelo Poder Público, com o propósito de fraudar, de frustrar e de inviabilizar a implementação de políticas públicas definidas na própria Constituição - encontra insuperável limitação na garantia constitucional do mínimo existencial, que representa, no contexto de nosso ordenamento positivo, emanação direta do postulado da essencial dignidade da pessoa humana. A noção de "mínimo existencial", que resulta, por implicitude, de determinados preceitos constitucionais (CF, art. 1°, III, e art. 30 , III), compreende um complexo de prerrogativas cuja concretização revela-se capaz de garantir condições adequadas de existência digna, em ordem a assegurar, à pessoa, acesso efetivo ao direito geral de liberdade e, também, a prestações positivas originárias do Estado, viabilizadoras da plena fruição de direitos sociais básicos, tais como o direito à educação, o direito à proteção integral da criança e do adolescente, o direito à saúde, o direito à assistência social, o direito à moradia, o direito à alimentação e o direito à segurança."
+VI — Apelação da FUNAI a que se nega provimento.” (e-doc. 12, p. 3 e 4).
+
+2. Opostos embargos de declaração, foram rejeitados (e-doc. 19).
+
+3. No recurso extraordinário, interposto com base na al. “a” do permissivo constitucional, o recorrente aponta violação aos arts. 231, caput e § 6º; 167, inc. I; 2º, c/c 60, § 4º, inc. III, da Constituição da República e do art. 67 dos ADCT.
+
+3.1. Discorre acerca da atuação da Funai na delimitação do território discutido e conclui “que a FUNAI não vem sendo omissa em relação à demarcação do território Kaxixó, nem, tampouco, vem conduzindo o respectivo procedimento administrativo com falta de zelo e inobservância das normas e regulamentos pertinentes à hipótese”.
+
+3.2. Argumenta que, “na verdade, que a complexidade do procedimento demarcatório, com todas as suas especificidades, aliada às dificuldades financeiras e à carência de servidores e de meios materiais da FUNAI para efetuar suas ações, acabou por estender o curso da demarcação sob comento”.
+
+3.3. Alega que o “acórdão recorrido não poderia ter determinado a execução, ou melhor, a conclusão de política pública, tampouco fixar prazo para tanto”.
+
+3.4. Sustenta que o prazo previsto nos ADCT “para a demarcação das terras indígenas não é peremptório, sinalizando simplesmente uma visão prognóstica sobre o término dos trabalhos de demarcação”.
+
+3.5. Afirma que “só a FUNAI, com base nos dados referentes às diversas comunidades indígenas que se presta a atender, tem como aferir quantas são as demandas fundiárias indígenas, quais delas são prioritárias, e quais os recursos disponíveis para tanto” (e-doc. 23).
+
+4. Nas contrarrazões, a parte recorrida alega a impossibilidade de apreciação da matéria, considerando que o recurso extraordinário não serve ao reexame de provas. Argumenta que o recorrente não demonstrou contrariedade direta à Constituição e repercussão geral da matéria. Sustenta, no mérito, o acerto da decisão recorrida (e-doc. 25).
+
+5. O recurso extraordinário foi inadmitido, sob os fundamentos de que (i) apenas a ofensa direta a Texto Constitucional autorizaria o manejo do recurso extraordinário, o que não ocorre no caso concreto; e (ii) a análise dos demais fundamentos recursais implica necessariamente adentrar  no contexto fático-probatório dos autos (e-doc.30).
+
+É o relatório.
+
+Decido.
+
+6. Para melhor exame da controvérsia, transcrevo os fundamentos constantes da decisão impugnada:
+
+“(...) 5. Na hipótese sob exame, conforme "Informação" de fls. 59/69, verifica-se que o Povo Indígena Caxixó teve seu reconhecimento étnico pela FUNAI em 2001; em 20/01/2004 foi publicada a Portaria n° 079/PRES/FUNAI, criando Grupo de Trabalho com a finalidade de identificar o território indígena pertencente ao povo Caxixó, visando à demarcação (fl. 48); em 07/03/2005 o Grupo de Trabalho entregou relatório preliminar, assinado pela antropóloga Vanessa Alvarenga Caldeira, sua coordenadora; subsequentemente, em 27/08/2009 foi elaborado pela FUNAI o Parecer Preliminar s/n° / CDA/CGID/09 (fls. 56/58) analisando o relatório do Grupo de Trabalho, apontando diversas deficiências no estudo realizado, o qual se mostrou inconclusivo, ensejando a necessidade de novo trabalho de campo, o que foi confirmado pelo documento de fls. 59/69, assinado por Siglia Zambrotti Dona, do qual constou o seguinte encaminhamento:
+(...)
+6. No entanto, depois de 27/08/2009, não constados autos que nenhuma outra providência tenha sido adotada pela FUNAI para consecução de trabalhos tendentes à demarcação da terra indígena pertinente ao Povo Caxixó, o que denota sua omissão e inexplicável inércia, em franco desrespeito ao princípio da duração razoável do processo (art. 5°, LXXVIII, Constituição Federal).
+7. Pelo contrário, dos autos consta documentos que revelam total falta de interesse da FUNAI em prosseguir com o procedimento administrativo demarcatório, apesar do conhecimento de hostilidades locais que tem levado à opressão do Povo Indígena Caxixo. Nesse sentido, transcrevo ata de reunião realizada entre o MPF e membros da comunidade Caxixó, em 14/09/2010:
+(...)
+8. Ainda, a confirmar a omissão da FUNAI, segue "Memória de Reunião" realizada em 23/08/2010 entre membros da FUNAI e representantes da comunidade Caxixó, da qual transcrevo alguns trechos:
+(...)
+9. Apesar das informações levadas aos Caxixós pela Sra. Leila durante a reunião junto à FUNAI, não há nos autos notícia de que novo edital tenha sido lançado para a continuidade dos trabalhos do GT criado para a definição dos limites do território a ser demarcado.
+10. Logo, o que se tem é que passados mais 17 (dezessete) anos, desde o reconhecimento da comunidade indígena descrita nos autos, não houve conclusão dos trabalhos de demarcação de terras, em manifesta afronta aos dispositivos legais e constitucionais acima referidos, a caracterizar, na espécie, a flagrante, injustificada e inaceitável inércia do referido órgão, em manifesta violação ao princípio da razoável duração do processo (CF, art. 5º, inciso LXXVIII).
+11. Não à toa, o C. STJ já decidiu em várias ocasiões ser possível a imposição de prazo, via ação civil pública, a fim de que a FUNAI adote os procedimentos cabíveis e conclua o processo de demarcação de terras indígenas pertinentes, sendo cabível a cominação de multa diária para o caso de descumprimento, como se nota a seguir:
+(...)
+13. Logo, não se mostra admissível a omissão do poder público quanto à adoção das medidas protetivas às referidas comunidades indígenas, considerando-se a essencialidade do bem pretendido, impondo-se, na espécie, a intervenção do Poder Judiciário Republicano, para assegurar o direito à demarcação das terras que tradicionalmente ocupam, que se encontram constitucionalmente tuteladas (CF, arts. 5°, XXXV e 231, caput e respectivos parágrafos 1° e 2°).
+14. Assim, não prevalece o argumento de que a demarcação de terras trata-se de mera política pública, subordinada simplesmente à conveniência e oportunidade do administrador. Pelo contrário, decorre de determinação constitucional, havendo inclusive imposição de prazo para sua conclusão, não se tratando se simples norma de natureza programática, motivo pelo qual não prospera o argumento de que deve prevalecer a discricionariedade do Poder Público no que diz respeito à questão posta nos autos. Nesse sentido, ademais, confira-se a jurisprudência do C. STJ:
+(...)
+16. No caso dos autos, a observância desses princípios, por se tratar de tutela jurisdicional em que se busca, também, salvaguardar a proteção do uso de terras indígenas, com suas crenças e tradições culturais, às quais o Texto Constitucional confere especial proteção (CF, art. 231 e §§), na linha determinante de que os Estados devem reconhecer e apoiar de forma apropriada a identidade, cultura e interesses das populações e comunidades indígenas, bem como habilitá-las a participar da promoção do desenvolvimento sustentável (Princípio 22 da ECO-92, reafirmado na Rio + 20), deve ser feita de maneira mais rigorosa.
+17. Não se olvide, ademais, que de acordo com o C. STF, "a cláusula da reserva do possível - que não pode ser invocada, pelo Poder Público, com o propósito de fraudar, de frustrar e de inviabilizar a implementação de políticas públicas definidas na própria Constituição - encontra insuperável limitação na garantia constitucional do mínimo existencial, que representa, no contexto de nosso ordenamento positivo, emanação direta do postulado da essencial dignidade da pessoa humana. A noção de "mínimo existencial", que resulta, por implicitude, de determinados preceitos constitucionais (CF, art. 1°, III, e art. 3°, III), compreende um complexo de prerrogativas cuja concretização revela-se capaz de garantir condições adequadas de existência digna, em ordem a assegurar, à pessoa, acesso efetivo ao direito geral de liberdade e, também, a prestações positivas originárias do Estado, viabilizadoras da plena fruição de direitos sociais básicos, tais como o direito à educação, o direito à proteção integral da criança e do adolescente, o direito à saúde, o direito à assistência social, o direito à moradia, o direito à alimentação e o direito à segurança." (ARE 639337 AgR, Relator(a): Min. CELSO DE MELLO, Segunda Turma, julgado em 23/08/2011, DJe-177 DIVULG 14-09-2011 PUBLIC 15-09-2011 EMENT VOL-02587-01 PP-00125).
+18. Assim, ante todas as considerações até aqui feitas, concluo que a sentença vergastada não merece qualquer reparo, devendo ser integralmente mantida.“ (e-doc. 12, p. 5-7 e 10-14).
+
+7. Na sentença mantida pelo 2º Grau, por sua vez, foram previstas as seguintes condenações:
+
+“Pelo exposto, confirmo a liminar deferida às fls. 129/133 e julgo PROCEDENTE o pedido para condenar a FUNDAÇÃO NACIONAL DO ÍNDIO - FUNAI a a cumprir o imperativo da razoável duração do processo, previsto no inciso LXXVIII, do art. 5°, da Constituição Federal, no procedimento demarcatório das terras da Comunidade Caxixó, determinando à requerida que:
+a) apresente o Relatório Circunstanciado, previsto no §6° do art. 2° do Decreto n°. 1.775/96, nos moldes determinados pela decisão de fls. 129/133, sob pena de multa já fixada na decisão mencionada;
+b) observe os prazos regulamentares, no que diz respeito aos demais atos do procedimento, sob pena de multa a ser oportunamente fixada e a ser revertida para o fundo a que se refere o art. 13, da Lei 7.347/85, com vinculação a investimentos na área de educação e saúde da Comunidade Caxixó.” (e-doc. 6, p. 19).
+
+8. É de grande sensibilidade o tema da atuação do Poder Judiciário em matéria de políticas públicas, uma vez que envolve a necessária interdependência das tarefas constitucionalmente cometidas a cada um dos Três Poderes, encarregados das competências de legislar, administrar e julgar, a teor do art. 2º da Carta da República.
+
+9. Em aprofundamento da referida sistemática de freios e contrapesos, é reconhecida a possibilidade de o Poder Judiciário, em situações excepcionalíssimas, manifestar-se sobre políticas públicas com o objetivo de instar a Administração a cumprir o mister que lhe já é atribuído pela Constituição, notadamente, no que se refere à proteção do meio ambiente e da saúde pública.
+
+10. Nessa ordem de ideias, o STF produziu jurisprudência no sentido de que a atuação do Judiciário deve ater-se a casos peculiares, nos quais se constate inércia do Poder Público (ARE nº 1.408.531-AgR/RJ, Rel. Min. Cármen Lúcia, Primeira Turma, j. 07/02/2023; p. 08/02/2023; ARE nº 1.289.323-AgR/RJ, Rel. Min. Edson Fachin, Segunda Turma, j. 04/10/2021, p. 08/10/2021; ARE nº 1.230.668-AgR-EDv-AgR/AM, Rel. Min. Roberto Barroso, Tribunal Pleno, j. 16/08/2022, p. 29/08/2022).
+
+11. Noutro giro, é considerada excessiva a atuação do Judiciário quando não demonstrada situação de ilegalidade ou abuso de poder, sobressaindo incabível, de todo modo, a supressão completa da margem administrativa de decisão por eventual comando jurisdicional. Confira-se, nesse aspecto, precedente desta Suprema Corte:
+
+“Agravo regimental em recurso extraordinário. 2. Direito Administrativo. 3. defensoria pública. Implantação de plantão permanente na cidade de Erechim. Mérito administrativo. Impossibilidade de ingerência do Poder Judiciário ante a ausência de ilegalidade ou abuso de poder. Princípio da separação dos poderes. Precedentes. Inexistência de argumentos capazes de infirmar a decisão agravada. 5. Agravo regimental a que se nega provimento.”
+(RE nº 636.686-AgR/RS, Rel. Min. Gilmar Mendes, Segunda Turma, j. 25/06/2013, p. 16/08/2013).
+
+12. Em amálgama da jurisprudência até então produzida pelo Excelso Pretório, sobreveio o julgamento do RE nº 684.612-RG/RJ, Tema RG nº 698, no qual fixadas as seguintes teses:
+
+“1. A intervenção do Poder Judiciário em políticas públicas voltadas à realização de direitos fundamentais, em caso de ausência ou deficiência grave do serviço, não viola o princípio da separação dos poderes.
+2. A decisão judicial, como regra, em lugar de determinar medidas pontuais, deve apontar as finalidades a serem alcançadas e determinar à Administração Pública que apresente um plano e/ou os meios adequados para alcançar o resultado.
+3. No caso de serviços de saúde, o déficit de profissionais pode ser suprido por concurso público ou, por exemplo, pelo remanejamento de recursos humanos e pela contratação de organizações sociais (OS) e organizações da sociedade civil de interesse público (OSCIP).“
+(RE nº 684.612-RG/RJ, Rel. Min. Ricardo Lewandowski, Red. Ac. Min. Roberto Barroso, Tribunal Pleno, j. 03/07/2023, p. 07/08/2023).
+
+13. Da atenta leitura do acórdão recorrido, entendo que foi justificada a intervenção do Poder Judiciário no caso, tendo em vista que devidamente fundamentada a existência de deficiência grave do serviço. Nesses moldes, fundamentada com base em extenso conjunto fático-probatório acerca da demora para demarcação e regularização da aludida terra indígena, justificável a excepcionalidade da medida, cuja revisão, ademais, encontra óbice no enunciado nº 279 da Súmula do STF.
+
+14. Em casos semelhantes, a jurisprudência do Supremo Tribunal Federal:
+
+“RECURSO EXTRAORDINÁRIO – AÇÃO CIVIL PÚBLICA PARA REALIZAÇÃO DE OBRAS EM ESCOLA DE COMUNIDADE INDÍGENA – IMPLEMENTAÇÃO DE POLÍTICAS PÚBLICAS – VIOLAÇÃO AOS PRINCÍPIOS DA SEPARAÇÃO DOS PODERES E DA RESERVA DO POSSÍVEL – INOCORRÊNCIA – DECISÃO QUE SE AJUSTA À JURISPRUDÊNCIA PREVALECENTE NO SUPREMO TRIBUNAL FEDERAL – CONSEQUENTE INVIABILIDADE DO RECURSO QUE A IMPUGNA – ALEGADA INDISPONIBILIDADE FINANCEIRA DO ESTADO – REEXAME DE FATOS E PROVAS – IMPOSSIBILIDADE – SÚMULA 279/STF – ‘RESERVA DO POSSÍVEL’ – CONSIDERAÇÕES – SUCUMBÊNCIA RECURSAL – (CPC, ART. 85, § 11) – NÃO DECRETAÇÃO, NO CASO, ANTE A AUSÊNCIA DE CONDENAÇÃO EM VERBA HONORÁRIA NA ORIGEM – AGRAVO INTERNO IMPROVIDO.”
+(RE nº 1.219.482-AgR/RS, Rel. Min. Celso de Mello, Segunda Turma, j. 03/10/2020, p. 08/10/2020).
+
+“AGRAVO INTERNO NO RECURSO EXTRAORDINÁRIO COM AGRAVO. ADMINISTRATIVO. AÇÃO CIVIL PÚBLICA. TERRA INDÍGENA DO RIO AMÔNEA. REGIÃO DO ALTO JURUÁ. ÍNDIOS ASHANINKAS. INVASÃO CONSTANTE DE BRASILEIROS E PERUANOS PARA A EXTRAÇÃO CRIMINOSA DE MADEIRA DA FLORESTA. DETERMINAÇÃO JUDICIAL DE INSTALAÇÃO DE POSTOS PERMANENTES DA POLÍCIA FEDERAL, DA FUNAI E DO IBAMA NAS PROXIMIDADES DA TERRA INDÍGENA. IMPLEMENTAÇÃO DE POLÍTICAS PÚBLICAS PELO PODER JUDICIÁRIO. POSSIBILIDADE. VIOLAÇÃO AO PRINCÍPIO DA SEPARAÇÃO DE PODERES. INOCORRÊNCIA. PRECEDENTES. OMISSÃO ESTATAL. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. INCIDÊNCIA DA SÚMULA 279 DO STF. RECURSO INTERPOSTO SOB A ÉGIDE DO NOVO CÓDIGO DE PROCESSO CIVIL. AUSÊNCIA DE CONDENAÇÃO EM HONORÁRIOS ADVOCATÍCIOS NO JUÍZO RECORRIDO. IMPOSSIBILIDADE DE MAJORAÇÃO NESTA SEDE RECURSAL. ARTIGO 85, § 11, DO CPC/2015. AGRAVO INTERNO DESPROVIDO.”
+(ARE nº 947.270-AgR/AC, Rel. Min. Luiz Fux, Primeira Turma, j. 12/03/2019, p. 27/03/2019).
+
+“DIREITO CONSTITUCIONAL E DIREITO ADMINISTRATIVO. AGRAVO INTERNO EM RECURSO EXTRAORDINÁRIO. POLÍTICAS PÚBLICAS. RESERVA INDÍGENA. PRESERVAÇÃO DA POSSE. VIOLAÇÃO AO PRINCÍPIO DA SEPARAÇÃO DOS PODERES. NÃO CARACTERIZAÇÃO. PRECEDENTES. 1. O Supremo Tribunal Federal já assentou a possibilidade, em casos emergenciais, de implementação de políticas públicas pelo Poder Judiciário, ante a inércia ou morosidade da Administração, como medida assecuratória de direitos fundamentais. Precedentes. 2. Hipótese em que, para chegar a conclusão pretendida pelo recorrente de que não houve omissão na preservação das reservas indígenas, seria necessária a reapreciação dos fatos e do material probatório constantes dos autos, procedimento inviável neste momento processual (Súmula 279/STF). 3. Agravo interno a que se nega provimento.”
+(RE nº 554.446-AgR/RS, Rel. Min. Roberto Barroso, Primeira Turma, j. 04/04/2018, p. 16/04/2018).
+
+15. No mesmo sentido, as seguintes decisões monocráticas: ARE nº 1.551.962/CE, de minha relatoria, j. 28/05/2025, p. 29/05/2025; RE nº 1.542.997/MS, Rel. Min. Luiz Fux, j. 14/05/2025, p. 15/05/2025; ARE nº 1.530.214/RS, Rel. Min. Dias Toffoli, j. 22/01/2025, p. 24/01/2025; RE nº 1.519.892/SE, Rel. Min. Alexandre de Moraes, j. 23/10/2024, p. 24/10/2024.
+
+16. Para a espécie, inclusive, se faz válido registrar a advertência de que, em casos de apresentação de medida recursal manifestamente inadmissível ou improcedente, o Supremo Tribunal Federal entende pela possibilidade de aplicação de multa, nos termos do art. 1.021, § 4º, do CPC (ARE nº 1.321.696-ED-AgR/MG, de minha relatoria, Segunda Turma, j. 06/06/2022, p. 29/06/2022; ARE nº 1.107.805-AgR/SP, Rel. Min. Roberto Barroso, Primeira Turma, j. 13/12/2019, p. 03/02/2020; Rcl nº 45.289-AgR/DF, Rel. Min. Dias Toffoli, j. 04/10/2021, p. 30/11/2021; Rcl nº 24.841-EDAgR/SP, Rel. Min. Luiz Fux, Primeira Turma, j. 20/04/2017, p. 11/05/2017; MS nº 37.637-AgR/DF, Rel. Min. Roberto Barroso, Tribunal Pleno, j. 17/05/2021, p. 16/06/2021; e MS nº 35.272-AgR-segundo/DF, Rel. Min. Edson Fachin, Segunda Turma, j. 16/06/2020, p. 08/10/2020).
+
+17. Para além, consigno ainda que a apresentação de embargos de declaração com intuito protelatório assoberba ilegitimamente a justiça, prejudicando a mais célere e efetiva prestação jurisdicional. A eventual insistência na apresentação de recursos protelatórios acarreta a possibilidade e, até mesmo, a obrigação da magistratura em fazer incidir a multa processual prevista no art. 1.026, §§ 2º a 4º, do CPC.
+
+18. Ante o exposto, nego provimento ao recurso extraordinário com agravo, nos termos do art. 21, § 1º, do RISTF. Deixo de fixar a verba honorária de sucumbência, conforme o art. 18 da Lei nº 7.347, de 1985.
+
+Publique-se.
+
+Brasília, 18 de março de 2026.
+
+Ministro ANDRÉ MENDONÇA
+Relator
