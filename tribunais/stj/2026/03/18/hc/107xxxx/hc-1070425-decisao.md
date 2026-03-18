@@ -1,0 +1,114 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em benefício de CAIO VIANA SOUZA, contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAIS no julgamento do HC n. 1.0000.25.455424-9/000.
+Extrai-se dos autos que o paciente foi preso em flagrante em 14/11/2025, posteriormente convertido em prisão preventiva, pela suposta prática do crime tipificado no art. 33 da Lei n. 11.343/2006.
+Irresignada, a defesa impetrou habeas corpus perante o Tribunal de origem, que denegou a ordem nos termos do acórdão que restou assim ementado (fl. 7):
+"HABEAS CORPUS - TRÁFICO DE DROGAS - PRISÃO EM FLAGRANTE CONVERTIDA EM PREVENTIVA - PRESENTES OS REQUISITOS DOS ARTIGOS 312 E 313 DO CPP - GARANTIA DA ORDEM PÚBLICA - CONDIÇÕES PESSOAIS FAVORÁVEIS - INSUFICIÊNCIA - MEDIDAS CAUTELARES DIVERSAS DA PRISÃO - NÃO ADEQUAÇÃO - DILAÇÃO PROBATÓRIA - IMPOSSIBILIDADE DE ANÁLISE NA PRESENTE VIA - ORDEM DENEGADA.
+- Não caracteriza constrangimento ilegal a manutenção da segregação se a decisão que decretou a prisão preventiva do paciente se encontra devidamente fundamentada, baseando-se em motivação arrolada na lei processual penal.
+- As condições pessoais do paciente, mesmo quando favoráveis, por si sós, não lhe garantem o direito à liberdade provisória, devendo ser analisada caso a caso a necessidade de manutenção da prisão cautelar. -
+In casu, a insuficiência da aplicação de medidas cautelares diversas da prisão evidenciam a necessidade de manutenção da custódia cautelar, para garantir a ordem pública.
+- O habeas corpus não é via própria para discussão de matéria de mérito, por demandar revolvimento de matéria probatória.
+No presente writ, a defesa sustenta a nulidade das provas que embasaram a prisão cautelar, decorrentes do ingresso domiciliar sem mandado, respaldado apenas em denúncia anônima e na alegada "movimentação típica", em afronta ao art. 5º, XI, da Constituição e ao art. 157 do Código de Processo Penal - CPP.
+Assevera a inidoneidade dos fundamentos adotados para a decretação da prisão preventiva, por ausência de demonstração concreta do periculum libertatis, em violação do art. 312 do CPP.
+Insurge-se contra o indeferimento desmotivado do pedido de substituição da custódia preventiva por medidas cautelares diversas, a despeito do parecer favorável da Procuradoria-Geral de Justiça, em ofensa ao art. 282, § 6º, do CPP.
+Defende, ainda, a desproporcionalidade da segregação cautelar diante da plausível incidência do tráfico privilegiado (art. 33, § 4º, da Lei n. 11.343/2006), com pena provável inferior a 4 anos e passível de substituição por restritivas de direitos, nos termos dos arts. 44 e 59 do Código Penal - CP.
+Requer, em liminar, a expedição de alvará de soltura em favor do paciente ou, subsidiariamente, a substituição da custódia por medidas cautelares do art. 319 do CPP; e, no mérito, a concessão da ordem para reconhecer a ilicitude do ingresso domiciliar e trancar a ação penal ou, ao menos, revogar a prisão preventiva, com aplicação de medidas cautelares.
+As informações foram prestadas (fls. 60/69 e 70/84). O Ministério Público Federal opinou pelo não conhecimento do habeas corpus. (fls. 88/93).
+É o relatório.
+Decido.
+Diante da hipótese de habeas corpus substitutivo de recurso próprio, a impetração sequer deveria ser conhecida, segundo orientação jurisprudencial do Supremo Tribunal Federal e do próprio Superior Tribunal de Justiça.
+Todavia, considerando as alegações expostas na inicial, razoável o processamento do feito para verificar a existência de eventual constrangimento ilegal que justifique a concessão da ordem de ofício.
+Como se denota, a defesa sustenta, primeiramente, a nulidade da prova por violação de domicílio. Contudo, a leitura atenta do acórdão guerreado revela que o Tribunal de origem não analisou, com profundidade, a aludida tese defensiva, de modo que é vedada a incursão vertical exaustiva por esta Corte Superior de Justiça, sob pena de incorrer em reprovável e indevida supressão de instância, a saber:
+DIREITO PROCESSUAL PENAL. HABEAS CORPUS. TRÁFICO DE ENTORPECENTES. NULIDADE. VIOLAÇÃO À IDENTIDADE FÍSICA DO JUIZ. NÃO OCORRÊNCIA. MITIGAÇÃO. POSSIBILIDADE. LITISPENDÊNCIA. FATOS DISTINTOS. NÃO CONFIGURADA. VIOLAÇÃO DO DOMICÍLIO. SUPRESSÃO DE INSTÂNCIA. HABEAS CORPUS DENEGADO.
+I. CASO EM EXAME
+1. Habeas corpus impetrado em favor de paciente condenado por tráfico de drogas, com alegações de ilegalidade na busca pessoal e domiciliar, violação do princípio do juiz natural e dupla punição pelo mesmo fato.
+2. A defesa interpôs recurso de apelação, que foi negado pela Corte de origem, mantendo a condenação do paciente.
+II. QUESTÃO EM DISCUSSÃO
+3. A questão em discussão consiste em saber se o habeas corpus pode ser utilizado como substitutivo de recurso próprio ou revisão criminal, e se há flagrante ilegalidade que justifique a concessão da ordem.
+4. Questões em discussão: (i) saber se houve violação do princípio do juiz natural (ii) saber se há litispendência entre as ações penais e (iii) saber se houve ilegalidade na busca pessoal e domiciliar.
+III. RAZÕES DE DECIDIR
+5. O habeas corpus não pode ser utilizado como substitutivo de recurso próprio, salvo em casos de flagrante ilegalidade, o que não se verifica no presente caso.
+6. A violação do princípio do juiz natural não foi demonstrada, pois a defesa não comprovou prejuízo concreto, em razão do julgamento ter ocorrido em comarca diversa da instrução processual.
+7. Não há litispendência, pois as ações penais tratam de fatos distintos, não havendo identidade de partes, causa de pedir e pedido.
+8. A alegação de nulidade referente à busca pessoal e domiciliar não foi analisada pelo Tribunal de origem, impedindo manifestação direta desta Corte sobre o tema.
+IV. HABEAS CORPUS DENEGADO.
+(HC n. 832.665/MG, relatora Ministra Daniela Teixeira, Quinta Turma, julgado em 4/2/2025, DJEN de 14/2/2025.) (grifos nossos).
+AGRAVO REGIMENTAL NO RECURSO EM HABEAS CORPUS. TRÁFICO DE DROGAS. PRISÃO PREVENTIVA MANTIDA NA SENTENÇA. FUNDAMENTAÇÃO CONCRETA. GRAVIDADE DA CONDUTA. CIRCUNSTÂNCIAS DO DELITO. REITERAÇÃO DELITIVA. NECESSIDADE DE GARANTIA DA ORDEM PÚBLICA. RÉU QUE PERMANECEU PRESO DURANTE A INSTRUÇÃO DO PROCESSO. MEDIDAS CAUTELARES ALTERNATIVAS. INSUFICIÊNCIA. CONTEMPORANEIDADE DA PRISÃO. CONFIGURAÇÃO. VIOLAÇÃO DE DOMICÍLIO. EXCESSO DE PRAZO DA CUSTÓDIA. MATÉRIAS NÃO ANALISADAS NO ACÓRDÃO IMPUGNADO. SUPRESSÃO DE INSTÂNCIA. AGRAVO REGIMENTAL DESPROVIDO.
+1. Em vista da natureza excepcional da prisão preventiva, somente se verifica a possibilidade da sua imposição quando evidenciado, de forma fundamentada e com base em dados concretos, o preenchimento dos pressupostos e requisitos previstos no art. 312 do Código de Processo Penal - CPP. Deve, ainda, ser mantida a prisão antecipada apenas quando não for possível a aplicação de medida cautelar diversa, nos termos previstos no art. 319 do CPP.
+2. A prisão preventiva foi adequadamente mantida pelo Magistrado sentenciante e pela Corte Estadual, ante a demonstração, com base em elementos concretos, da gravidade concreta da conduta, evidenciada pelas notícias de que o agravante seria o responsável pela coordenação de vendas, transporte e distribuição de drogas, atuando como intermediário entre os corréus, circunstância que, somada à apreensão de considerável quantidade de drogas - mais de 800g de maconha e 4g de cocaína - na residência dos corréus, além de 1 balança de precisão e agenda com anotações relativas ao comércio ilícito, demonstra o maior envolvimento com o narcotráfico e o risco ao meio social. Destacou-se, ainda, a necessidade da custódia para evitar a reiteração na prática delitiva, uma vez que o réu responde a outra ação penal pela prática do crime de receptação.
+3. Tendo o agravante permanecido preso durante toda a instrução processual, não deve ser permitido recorrer em liberdade, especialmente porque, inalteradas as circunstâncias que justificaram a custódia, não se mostra adequada sua soltura depois da condenação em Juízo de primeiro grau.
+4. É entendimento do Superior Tribunal de Justiça - STJ que as condições favoráveis do réu, por si sós, não impedem a manutenção da prisão cautelar quando devidamente fundamentada.
+5. Inaplicável medida cautelar alternativa quando as circunstâncias evidenciam que as providências menos gravosas seriam insuficientes para a manutenção da ordem pública.
+6. É certo que a contemporaneidade não está restrita à época da prática do delito, e sim da verificação da necessidade no momento de sua decretação, - o que ocorreu na hipótese -, ainda que o fato criminoso tenha ocorrido em um período passado.
+7. Quanto ao tema, esta Corte de Justiça já assentou que " ..  Não há falar em ausência de contemporaneidade quando verificado que as circunstâncias que justificam a segregação preventiva do agravante ainda não se exauriram definitivamente, em face da probabilidade real e efetiva de continuidade da prática de delitos graves, pelo que está demonstrada a exigência de utilização da medida extrema contra o réu" (AgRg no RHC n. 192.825/PR, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 1º/7/2024, DJe de 3/7/2024).
+8. As alegações de violação de domicílio pelos policiais e de excesso de prazo da custódia antecipadas não foram apreciadas pela Corte de origem, o que afasta a competência do Superior Tribunal de Justiça - STJ para análise das matérias, sob pena de incorrer em indevida supressão de instância.
+9. Agravo regimental desprovido.
+(AgRg no RHC n. 201.348/CE, de minha relatoria, Quinta Turma, julgado em 19/11/2024, DJe de 25/11/2024.). (grifos nossos).
+De mais a mais, envolvendo a questão o imprescindível revolvimento fático-probatório, conforme precedentes deste Tribunal Superior, a matéria deverá ser apreciada na fase de sentença, a saber:
+PROCESSO PENAL. HABEAS CORPUS SUBSTITUTIVO DE RECURSO ORDINÁRIO. TRÁFICO DE DROGAS. NULIDADE DA BUSCA DOMICILIAR. NÃO OCORRÊNCIA. DEMONSTRAÇÃO DE FUNDADA SUSPEITA E FLAGRANTE DELITO. DENÚNCIA ANÔNIMA ESPECIFICADA. LEGITIMIDADE DA DILIGÊNCIA. PRECEDENTES DO STF E DO STJ. NECESSÁRIO REVOLVIMENTO FÁTICO-PROBATÓRIO PARA MODIFICAR O ENTENDIMENTO DA ORIGEM. PROVIDÊNCIA INCABÍVEL NA VIA ELEITA. MATÉRIAS QUE DEVEM SER APRECIADAS NA FASE DE SENTENÇA, APÓS LARGA INSTRUÇÃO PROBATÓRIA. PRISÃO PREVENTIVA. REVOGAÇÃO. IMPOSSIBILIDADE. GARANTIA DA ORDEM PÚBLICA. GRAVIDADE CONCRETA DO DELITO. RISCO DE REITERAÇÃO DELITIVA EVIDENCIADO. PACIENTE REINCIDENTE E EM CUMPRIMENTO DE PENA. CONDIÇÕES PESSOAIS FAVORÁVEIS QUE NÃO AFASTAM O DECRETO PREVENTIVO. MEDIDAS CAUTELARES ALTERNATIVAS. INSUFICIÊNCIA. NÃO OCORRÊNCIA DE VIOLAÇÃO DO PRINCÍPIO DA PRESUNÇÃO DE INOCÊNCIA. CONSTRANGIMENTO ILEGAL. AUSÊNCIA.
+Ordem denegada.
+(HC n. 988.088/SP, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 1/7/2025, DJEN de 7/7/2025.) (grifos nossos).
+De outro lado, o remédio heroico encontra-se prejudicado.
+Explico.
+As informações de fls. 60/69 apontam, expressamente, que: "Em audiência de instrução e julgamento realizada no dia 9 de fevereiro de 2026, o Ministério Público requereu a revogação da prisão preventiva do réu, sendo concedida a liberdade provisória, mediante o comparecimento mensal a todos os atos do processo (id. 10623977339). O alvará de soltura foi expedido, conforme id. 10623976419".
+Além disso, em consulta aos autos do processo 5005249-27.2025.8.13.0390, verifica-se que, em data de 10/02/2026, foi juntado ao feito a certidão de cumprimento do alvará de soltura. (https://portaldeservicos.pdpj.jus.br/consulta/autosdigitais processo=5005249-27.2025.8.13.0390&dataDistribuicao=20251212100454, acesso em 15/03/2026, às 05h42).
+Destarte, o pedido está prejudicado.
+Diante desse novo panorama processual, resta configurada a perda superveniente do objeto do mandamus no que se refere ao pedido de revogação da prisão preventiva, uma vez que a alteração do status jurídico do paciente tornou insubsistente a controvérsia anteriormente suscitada.
+Nesse contexto, verifica-se a perda superveniente de objeto da presente impetração (ainda que em parte), até porque o que se impugnava também no presente mandamus era justamente a prisão preventiva e ao paciente foi concedida a liberdade.
+Neste sentido, cito os precedentes desta Corte Superior de Justiça:
+DIREITO PROCESSUAL PENAL. AGRAVO REGIMENTAL. PRISÃO PREVENTIVA. SUPERVENIÊNCIA DE REVOGAÇÃO NA ORIGEM. PERDA PARCIAL DO OBJETO. ATUAÇÃO DA GUARDA CIVIL MUNICIPAL. AUSÊNCIA DE MANIFESTA ILEGALIDADE. AGRAVO REGIMENTAL PARCIALMENTE CONHECIDO E, NA PARTE CONHECIDA, IMPROVIDO.
+I. Caso em exame
+1. Agravo regimental interposto contra decisão que não conheceu do habeas corpus impetrado em favor do agravante, que alegava ilegalidade na atuação da Guarda Civil Municipal e pedia a revogação da prisão preventiva e o trancamento da ação penal.
+2. Sentença condenatória proferida nos autos da Ação Penal n. 1502053-45.2024.8.26.0548, impondo ao agravante a pena de 2 meses e 6 anos de reclusão, em regime inicial aberto, e determinando a expedição de alvará de soltura.
+II. Questão em discussão
+3. A questão em discussão consiste em saber se a atuação da Guarda Civil Municipal, ao realizar a prisão em flagrante do agravante, foi legal, considerando a alegação de que a guarda não possui atribuições típicas de polícia.
+III. Razões de decidir
+4. A atuação da Guarda Civil Municipal foi considerada legítima, pois a prisão em flagrante foi realizada diante de fundadas suspeitas, com o agravante sendo flagrado em posse de drogas e empreendendo fuga ao avistar a viatura.
+5. A jurisprudência do STF e do STJ reconhece que as Guardas Municipais integram o Sistema Único de Segurança Pública, podendo realizar prisões em flagrante, desde que respeitadas suas atribuições legais.
+6. Não se verificou ilegalidade manifesta na atuação da Guarda Civil Municipal que justificasse a reforma da decisão agravada.
+IV. Dispositivo e tese
+7. Agravo regimental parcialmente conhecido e, na parte conhecida, improvido.
+Tese de julgamento: "1. As Guardas Municipais podem realizar prisões em flagrante, desde que respeitadas suas atribuições legais.
+2. A atuação da Guarda Civil Municipal é legítima quando realizada diante de fundadas suspeitas e em conformidade com o Sistema Único de Segurança Pública".
+Dispositivos relevantes citados: CF/1988, art. 144; Lei nº 13.022/2014, art. 4º; CPP, art. 301.Jurisprudência relevante citada: STF, ADPF 995, Rel. Min. Alexandre de Moraes, Tribunal Pleno, julgado em 28.08.2023; STJ, HC 830.530/SP, Rel. Min. Rogerio Schietti Cruz, Terceira Seção, julgado em 27.09.2023. (AgRg no HC 928979 / SP AGRAVO REGIMENTAL NO HABEAS CORPUS 2024/0256252-3 Relator Ministro JOEL ILAN PACIORNIK (1183) Órgão Julgador T5 - QUINTA TURMA Data do Julgamento 26/02/2025 Data da Publicação/Fonte DJEN 05/03/2025).(grifos nossos).
+HABEAS CORPUS SUBSTITUTIVO DE RECURSO ORDINÁRIO. HOMICÍDIO, LESÃO CORPORAL GRAVE E DESACATO. PRISÃO PREVENTIVA. EXPEDIDO ALVARÁ DE SOLTURA EM RELAÇÃO A UM DOS PACIENTES. WRIT PREJUDICADO NO PONTO. ALEGAÇÃO DE LEGÍTIMA DEFESA. INCOMPATIBILIDADE DA VIA ELEITA. PERICULOSIDADE. GRAVIDADE CONCRETA DO DELITO IMPUTADO. NECESSIDADE DE RESGUARDAR A ORDEM PÚBLICA. CONDIÇÕES PESSOAIS FAVORÁVEIS. IRRELEVÂNCIA. CONSTRANGIMENTO ILEGAL NÃO CONFIGURADO. JULGADO PREJUDICADO EM RELAÇÃO A CARLOS CESAR COSTA SILVA E NÃO CONHECIDO EM FAVOR DE MARCOS PEREIRA DA SILVA.
+1. O habeas corpus não pode ser utilizado como substitutivo de recurso próprio, a fim de que não se desvirtue a finalidade dessa garantia constitucional, com a exceção de quando a ilegalidade apontada é flagrante, hipótese em que se concede a ordem de ofício.
+2. O pedido de liberdade provisória foi deferido ao paciente CARLOS CESAR COSTA SILVA, acusado pela suposta prática de lesão corporal grave e desacato, consoante informado pelo Magistrado de primeiro.
+No contexto, forçoso reconhecer a perda superveniente do objeto do presente writ em relação ao referido paciente.
+3. Para a decretação da prisão preventiva, é indispensável a demonstração da existência da prova da materialidade do crime e a presença de indícios suficientes da autoria. Exige-se, ainda, que a decisão esteja pautada em lastro probatório que se ajuste às hipóteses excepcionais da norma em abstrato (art. 312 do CPP), demonstrada, ainda, a imprescindibilidade da medida. Precedentes do STF e STJ.
+4. A tese de legítima defesa não encontra espaço de análise na estreita via do habeas corpus ou do recurso ordinário, por demandar exame do contexto fático-probatório.
+5. A prisão preventiva encontra-se suficientemente justificada na necessidade de garantia da ordem pública. Com efeito, a segregação cautelar foi decretada pelo Juízo a quo e mantida pelo Tribunal Estadual em razão da periculosidade do paciente, evidenciada pela gravidade concreta do crime imputado, patente no modus operandi, uma vez que o acusado, em tese, por motivo fútil, num contexto de briga generalizada, teria desferido vários golpes de faca contra a vítima, resultando na sua morte.
+6. As condições subjetivas favoráveis ao paciente, tais como primariedade, bons antecedentes e residência fixa, por si sós, não obstam a segregação cautelar, quando presentes os requisitos legais para a decretação da prisão preventiva.
+7. Habeas corpus prejudicado em relação ao paciente CARLOS CESAR COSTA SILVA e, no mais, não conhecido.
+(HC n. 476.480/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 6/8/2019, DJe de 22/8/2019.)
+AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE ENTORPECENTES. FUNDAMENTOS DA PRISÃO PREVENTIVA. SUPERVENIENTE REVOGAÇÃO DA CUSTÓDIA CAUTELAR. QUESTÃO SUPERADA. PERDA DO OBJETO DO WRIT. AGRAVO PREJUDICADO.
+1. O Supremo Tribunal Federal concedeu a ordem pretendida no HC 206.685/SP, tendo sido expedido alvará de soltura em favor do ora agravante. Dessa forma, não mais persistindo a segregação cautelar ora debatida, vislumbra-se a perda de objeto do presente agravo.
+2. Agravo Regimental prejudicado. (AgRg no HC 677211 / SP, AGRAVO REGIMENTAL NO HABEAS CORPUS 2021/0202951-7, Relator Ministro JOEL ILAN PACIORNIK (1183), Órgão Julgador T5 - QUINTA TURMA Data do Julgamento 05/10/2021 Data da Publicação/Fonte DJe 08/10/2021). (grifos nossos).
+CRIMINAL. HC. EXECUÇÃO. PROGRESSÃO DE REGIME. SUPERVENIÊNCIA DE REMIÇÃO, NOVOS CÁLCULOS DA PENA E SOLTURA DO RÉU. FUNDAMENTOS SUPERADOS. PERDA DE OBJETO. WRIT JULGADO PREJUDICADO.
+I. Sobrevindo a concessão do benefício da remição, pelo Juízo monocrático, e a expedição de alvará de soltura do paciente, com amparo em novos cálculos de liquidação de penas, restam superados os fundamentos da impetração, restritos ao pleito de progressão ao regime semi-aberto de cumprimento de pena.
+II. Pedido julgado prejudicado.
+(HC n. 16.321/SP, relator Ministro Gilson Dipp, Quinta Turma, julgado em 21/8/2001, DJ de 17/9/2001, p. 177.). (grifos nossos).
+DIREITO PROCESSUAL PENAL. AGRAVO REGIMENTAL. HABEAS CORPUS. PRISÃO PREVENTIVA REVOGADA. PERDA DE OBJETO. AGRAVO NÃO PROVIDO.
+I. Caso em exame
+1. Agravo regimental interposto contra decisão que julgou prejudicado o habeas corpus impetrado em favor de paciente, em razão da perda de objeto, após a revogação da prisão preventiva pelo juiz de primeiro grau.
+II. Questão em discussão
+2. A questão em discussão consiste em saber se a concessão de liberdade ao paciente, por força de decisão judicial, prejudica a impetração do habeas corpus que questiona a ilegalidade do decreto de prisão preventiva.
+III. Razões de decidir 3. A revogação da prisão preventiva pelo juiz de primeiro grau e o cumprimento do alvará de soltura implicam na perda de objeto do habeas corpus, uma vez que o pedido formulado era exclusivamente a revogação da prisão preventiva.
+4. O habeas corpus visa a tutela da liberdade de locomoção, e, com a liberdade já concedida, não há mais interesse processual na análise do pedido.
+IV. Dispositivo e tese
+5. Agravo não provido.
+Tese de julgamento: "A revogação da prisão preventiva e o cumprimento do alvará de soltura acarretam a perda de objeto do habeas corpus que visa exclusivamente a revogação da prisão preventiva". (AgRg no HC 929663 / PE, AGRAVO REGIMENTAL NO HABEAS CORPUS, 2024/0260415-4, Relator Ministro MESSOD AZULAY NETO (1184), Órgão Julgador T5 - QUINTA TURMA, Data do Julgamento 22/04/2025, Data da Publicação/Fonte, DJEN 28/04/2025). (grifos nossos).
+DIREITO PROCESSUAL PENAL. EMBARGOS DE DECLARAÇÃO RECEBIDOS COMO AGRAVO REGIMENTAL NO RECURSO EM HABEAS CORPUS. HOMICÍDIO QUALIFICADO. PRISÃO PREVENTIVA. PERDA SUPERVENIENTE DO OBJETO. NULIDADE DA SENTENÇA DE PRONÚNCIA. SUPRESSÃO DE INSTÂNCIA. AGRAVO REGIMENTAL DESPROVIDO. I. CASO EM EXAME
+1. Embargos de declaração opostos por André Luiz Silva Carvalho em habeas corpus, em face de decisão de minha relatoria que julgou prejudicado o habeas corpus. Os embargos foram recebidos como agravo regimental, e a parte recorrente pleiteava a revogação da prisão preventiva e a nulidade da sentença de pronúncia. Verificou-se que o alvará de soltura em favor do recorrente foi cumprido, caracterizando a perda de objeto em relação à prisão preventiva.
+Quanto ao pedido de nulidade da sentença de pronúncia, a questão não foi analisada pelo tribunal de origem, impedindo a apreciação pelo STJ sob pena de supressão de instância.
+II. QUESTÃO EM DISCUSSÃO
+2. Há duas questões em discussão: (i) determinar se houve perda de objeto do recurso após o cumprimento do alvará de soltura; (ii) verificar se o STJ pode examinar o pedido de nulidade da sentença de pronúncia, não analisado pelo tribunal de origem, sem incorrer em supressão de instância.
+III. RAZÕES DE DECIDIR
+3. O cumprimento do alvará de soltura configura perda superveniente do objeto do habeas corpus, pois o pedido de revogação da prisão preventiva se torna irrelevante.
+4. A análise da nulidade da sentença de pronúncia pelo STJ não é possível, visto que a questão não foi examinada pelo tribunal de origem. Proceder à análise diretamente nesta Corte configuraria supressão de instância, em desacordo com o entendimento consolidado.
+5. A jurisprudência desta Corte é firme ao não admitir a análise de matérias não debatidas no tribunal de origem, em respeito ao princípio do duplo grau de jurisdição e à proibição de supressão de instância.
+IV. DISPOSITIVO
+6. Agravo regimental desprovido. (EDcl no RHC 187900 / ES, EMBARGOS DE DECLARAÇÃO NO RECURSO EM HABEAS CORPUS 2023/0351143-1, Relatora Ministra DANIELA TEIXEIRA (1188), Órgão Julgador T5 - QUINTA TURMA, Data do Julgamento 27/11/2024, Data da Publicação/Fonte DJEN 02/12/2024). (grifos nossos).
+Pelo exposto, com fundamento no art. 34, XI, do Regimento Interno do Superior Tribunal de Justiça, julgo prejudicado o habeas corpus no que tange ao pretérito requerimento de revogação da prisão preventiva, bem como não conheço do remédio heroico no que pertine à tese remanescente.
+Publique-se.
+Intimem-se.
+EMENTA
