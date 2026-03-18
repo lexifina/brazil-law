@@ -1,0 +1,18 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de PAULO SÉRGIO GUIDETTI, em que se aponta como autoridade coatora a 4ª Câmara de Direito Criminal do Tribunal de Justiça de São Paulo.
+No presente writ, a Defesa informa que o paciente foi submetido a medidas cautelares pessoais com fundamento nos arts. 282 e 319 do Código de Processo Penal.
+Alega que houve desvio de finalidade na investigação conduzida pela Polícia Federal, que teria ocorrido no contexto de campanha eleitoral, o que alteraria a competência para a Justiça Eleitoral.
+Sustenta que a investigação foi iniciada com base em elementos informativos colhidos de forma ilegal, caracterizando fishing expedition, e que o indiciamento do paciente foi abrupto e sem justa causa.
+A Defesa destaca que o paciente não enviou qualquer mensagem de whatsapp colhida nas cautelares, sendo mencionado apenas em uma única mensagem, o que não justificaria as medidas impostas.
+Afirma "a inexistência do foro de prerrogativa de função aplicado na persecução penal, tendo em vista o Co-Investigado Marcelo Lima, que atraiu o Paciente para a tramitação perante o E. TJ-SP, não ser prefeito municipal no ano de 2022 (data dos supostos crimes levantados a partir dos elementos cognitivos) e ser falaciosa a argumentação de que os delitos permanecem em plena execução, bem como, se o caso, pelo que se construiu na própria investigação, inclusive com relação ao Paciente, aqueles fatos relatados nas mensagens de whatsapp sugerirem, temporariamente, se prestarem a numerário utilizado na campanha eleitoral daquele ano, o que alteraria a competência para aquele justiça especial." (e-STJ fl. 4)
+No mérito, a Defesa requer o trancamento da persecução penal em relação ao paciente, por ausência de justa causa e nulidade dos elementos informativos obtidos de maneira ilegal.
+Além disso, pleiteia a concessão de medida liminar para suspender as medidas cautelares e o indiciamento do paciente até o julgamento do habeas corpus.
+Em petição endereçada posteriormente, a defesa afirma que o material eletrônico que fundamenta a denúncia não foi periciado, não sendo preservada a cadeia de custódia da prova.
+A liminar foi indeferida às e-STJ fls. 773-776, as informações foram prestadas às e-STJ fls. 788-790 e o Ministério Público Federal se manifestou, às e-STJ fls. 796-803, nos seguintes termos:
+EMENTA: PENAL e PROCESSUAL PENAL. Habeas corpus. Ação penal originária proposta perante o TJSP. Decisão que deferiu medidas cautelares. Ausência de justa causa para a deflagração da ação penal. Improcedência. Trancamento da ação penal e competência da Justiça Eleitoral. Ilicitude das provas. Necessidade de produção de provas. Supressão de instância. Ausência de constrangimento ilegal. Conhecimento do writ, mas com a denegação da ordem.
+É o relatório. Decido.
+Constato a superveniente prejudicialidade do presente writ.
+Com efeito, no julgamento do Habeas Corpus n. 1.057.579/SP, impetrado pelo corréu FELLIPE RAFAEL PEREIRA FABBRI, reconheceu-se a possibilidade de os fatos imputados albergarem período em que o corréu Marcelo de Lima Fernandes era Deputado Federal, motivo pelo qual se determinou a remessa dos autos referentes à denominada "Operação Estafeta" ao Supremo Tribunal Federal, para que aquela Corte verifique sua eventual competência e em que extensão. Dessa forma, enquanto pendente a análise do Supremo Tribunal Federal a respeito da sua competência, tem-se esvaziada a competência desta Corte Superior para examinar outras teses referentes à mencionada Operação.
+Pelo exposto, julgo prejudicado o habeas corpus.
+Publique-se.
+EMENTA
