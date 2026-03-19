@@ -1,0 +1,46 @@
+DECISÃO
+Trata-se de habeas corpus com pedido de liminar impetrado em favor de ABNER GABRIEL VARGAS FERREIRA em que se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAIS.
+Consta dos autos que o paciente foi pronunciado pela possível prática dos delitos dos arts. 121, § 2º, VII, c/c o art. 14, II, e 329 do Código Penal e 33, caput, da Lei n. 11.343/2006.
+O impetrante sustenta que há excesso de prazo na custódia, inclusive após a pronúncia, não afastado pela Súmula n. 21 do STJ, em violação do art. 5º, LXXVIII, da Constituição Federal.
+Alega que a demora é exclusivamente estatal, pois a sessão do Júri foi redesignada de 25/2/2026 para 12/5/2026 por promoção do magistrado, o que, a contrario sensu, atrai a incidência da Súmula n. 64 do STJ.
+Assevera que a manutenção da prisão preventiva por 438 dias configura antecipação de pena, vedada pelo art. 313, § 2º, do Código de Processo Penal.
+Afirma que o processo não é complexo, possui réu único e instrução encerrada, circunstâncias que agravam a desproporção do tempo de custódia.
+Defende que, subsidiariamente, é possível substituir a prisão por medidas cautelares diversas, nos termos do art. 319 do Código de Processo Penal, inclusive monitoração eletrônica prevista no art. 319, IX, do CPP, em observância ao art. 282, § 6º, do CPP.
+Requer, liminarmente e no mérito, o relaxamento da prisão preventiva do paciente. Subsidiariamente, requer a substituição da prisão por medidas cautelares diversas, incluindo monitoração eletrônica, comparecimento periódico em juízo e proibição de ausentar-se da Comarca sem autorização judicial.
+É o relatório.
+O Superior Tribunal de Justiça entende ser inviável a utilização do habeas corpus como sucedâneo de recurso próprio, previsto na legislação, impondo-se o não conhecimento da impetração. Nesse sentido: AgRg no HC n. 933.316/MG, relator Ministro Messod Azulay Neto, Quinta Turma, julgado em 20/8/2024, DJe de 27/8/2024 e AgRg no HC n. 749.702/SP, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 26/2/2024, DJe de 29/2/2024.
+Portanto, não se conhece da impetração.
+Em atenção ao disposto no art. 647-A do CPP, verifico que o julgado impugnado não possui ilegalidade flagrante que permita a concessão da ordem de ofício, conforme se depreende da fundamentação a ser exposta a seguir.
+A prisão cautelar não possui um prazo determinado por lei, devendo sua manutenção obedecer a critérios verificados judicialmente conforme os parâmetros fático-processuais de cada caso, como a quantidade de crimes, a pluralidade de réus, o número de defensores envolvidos e, em alguns casos, a própria conduta adotada pela defesa.
+Por isso, o eventual reconhecimento da ilegalidade da prisão por excesso de prazo não decorre da mera aplicação de critério matemático, exigindo a prevenção de eventual retardamento demasiado e injustificado da prestação jurisdicional.
+Esse é o sentido da pacífica jurisprudência do Superior Tribunal de Justiça. A esse respeito, confiram-se os seguintes julgados: AgRg no RHC n. 187.959/CE, de minha relatoria, Sexta Turma, julgado em 30/9/2024, DJe de 3/10/2024; HC n. 876.102/PR, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 24/9/2024, DJe de 27/9/2024; e HC n. 610.097/SE, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 27/4/2021, DJe de 30/4/2021.
+O Tribunal local examinou a questão nos seguintes termos, conforme se observa do voto condutor do acórdão (fls. 13-14):
+In casu, em breve consulta aos documentos dos autos, verifica-se que o feito tem tido andamento regular, tendo sido o paciente pronunciado no dia 15/09/2025, o que atrai a incidência do verbete sumular nº 18, do Tribunal de Justiça de Minas Gerais, e da Súmula nº 21, do Superior Tribunal de Justiça:
+Súmula nº 18, TJMG: - Pronunciado o réu, fica superada a alegação de constrangimento ilegal por excesso de prazo na instrução.
+Súmula nº 21, STJ: - Pronunciado o réu, fica superada a alegação do constrangimento ilegal da prisão por excesso de prazo na instrução.
+Dessa forma, resta evidenciado que não há desídia ou atos protelatórios por parte da acusação ou mesmo da d. autoridade impetrada, não comportando, por isso, à luz do princípio da razoabilidade, a menção de excesso de prazo na formação da culpa do paciente.
+Constata-se, desse modo, no caso dos autos, que o paciente está preso cautelarmente desde 28/2/2025, com denúncia recebida em 9/5/2025, citação efetuada em 20/5/2025 e apresentação de resposta à acusação em 30/5/2025 (fl. 22).
+Após a instrução criminal, o réu foi pronunciado em 15/9/2025, com posterior decisão de 27/11/2025 determinando-se a intimação das partes para apresentação de rol de testemunhas para plenário.
+Designou-se inicialmente sessão de julgamento para o dia 25/2/2026, a qual foi posteriormente redesignada para o dia 12/5/2026, em razão da promoção doJuiz titular (fl. 22), aguardando-se a referida data.
+Assim, considerando a complexidade do processo que está sujeito ao procedimento especial do Tribunal do Júri, as posteriores providências processuais tomadas visando à preparação do feito para o julgamento, bem como o evento extraordinário que inviabilizou a sessão do júri na primeira data, com posterior designação para o dia 12/5/2026, não se verifica inércia ou desídia atribuível ao Poder Judiciário para o encerramento da instrução ou para a formação da culpa.
+Nesse sentido:
+AGRAVO REGIMENTAL EM RECURSO EM HABEAS CORPUS COM SEGUIMENTO NEGADO. HOMICÍDIO QUALIFICADO E RECEPTAÇÃO SIMPLES. NULIDADE. RECEBIMENTO DA DENÚNCIA. SUPERVENIÊNCIA DA DECISÃO DE PRONÚNCIA. PREJUDICIALIDADE. PRISÃO PREVENTIVA. RISCO DO ESTADO DE LIBERDADE PARA A ORDEM PÚBLICA. GRAVIDADE CONCRETA E REITERAÇÃO DELITIVA. ELEMENTOS CONCRETOS E IDÔNEOS. ALEGAÇÃO DE EXCESSO DE PRAZO PARA A FORMAÇÃO DA CULPA. DESÍDIA OU INÉRCIA DO MAGISTRADO SINGULAR. AUSÊNCIA. ILEGALIDADE MANIFESTA. INEXISTÊNCIA. MANUTENÇÃO DA DECISÃO MONOCRÁTICA QUE SE IMPÕE.
+1. Deve ser mantida a decisão monocrática na qual se negou seguimento ao recurso ordinário, quando não evidenciado constrangimento ilegal quanto à alegada nulidade da decisão de recebimento da denúncia, nem ausência de fundamentação da segregação provisória ou coação ilegal por excesso de prazo.
+2. Prejudicada a alegação de nulidade do recebimento de denúncia, em razão da superveniência da pronúncia do ora agravante.
+3. Inexistente constrangimento quanto à fundamentação do decreto prisional, pois se demonstrou o receio de perigo gerado pelo estado de liberdade à ordem pública, ressaltando a gravidade concreta do delito e a reiteração delitiva, em razão da suspeita de envolvimento com diversos delitos de homicídio ocorridos na localidade, com modo de execução semelhante, em disputas entre facções criminosas pelo tráfico de drogas na região.
+4. Inevidente o alegado excesso de prazo para formações da culpa, uma vez que se trata de feito complexo (com 4 réus, diversidade de condutas delitivas e sujeito ao procedimento especial do Tribunal do Júri) e inexiste contribuição do Judiciário na eventual mora processual, pois, nos termos das informações prestadas pelo Juízo de primeiro grau, em 7/5/2024, foi proferida a pronúncia, tendo sido interposto recurso em sentido estrito pelo ora agravante em 13/5/2024.
+5. Agravo regimental improvido.
+(AgRg no RHC n. 196.620/MA, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 26/8/2024, DJe de 28/8/2024, grifei.)
+No caso, não se verifica desídia ou mora estatal na ação penal quando a sequência dos atos processuais afasta a ideia de paralisação indevida do processo ou de responsabilidade do Estado persecutor, razão pela qual não há falar em ilegalidade por excesso de prazo.
+Nesse sentido:
+PROCESSO PENAL. AGRAVO REGIMENTAL NO RECURSO EM HABEAS CORPUS. HOMICÍDIO QUALIFICADO TENTADO E CONSUMADO. ORGANIZAÇÃO CRIMINOSA. MEDIDAS CAUTELARES. FUNDAMENTAÇÃO PER RELATIONEM. IMPRESCINDIBILIDADE DA MEDIDAS DEMONSTRADA. EXCESSO DE PRAZO. NÃO OCORRÊNCIA. AGRAVO REGIMENTAL DESPROVIDO.
+1. Não se configura desprovida de fundamentos a decisão que mantém as medidas cautelares impostas pelos mesmos fundamentos quando da sua decretação.
+2. A chamada técnica da fundamentação per relationem (também denominada motivação por referência ou por remissão) é reconhecida pelo Supremo Tribunal Federal como legítima e compatível com o disposto no art. 93, IX, da Constituição Federal.
+3. Diante das circunstâncias concretas do caso e em observância ao binômio proporcionalidade e adequação, é possível a manutenção das medidas cautelares quando se mostrarem necessárias para garantir a ordem pública, a conveniência da instrução criminal ou a aplicação da lei penal.
+4. Inexiste excesso de prazo nas hipóteses em que não há procrastinação do andamento processual por parte da acusação ou por desídia do Poder Judiciário.
+5. Agravo regimental desprovido.
+(AgRg no RHC n. 160.743/MG, relator Ministro João Otávio de Noronha, Quinta Turma, julgado em 17/5/2022, DJe de 20/5/2022.)
+Ante o exposto, com fundamento no art. 210 do Regimento Interno do Superior Tribunal de Justiça, não conheço do habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
+HABEAS CORPUS. PRISÃO CAUTELAR. EXCESSO DE PRAZO PARA A FORMAÇÃO DA CULPA. NÃO OCORRÊNCIA. DECURSO DE TEMPO COMPATÍVEL COM OS PARÂMETROS FÁTICO-PROCESSUAIS. HABEAS CORPUS DENEGADO.
