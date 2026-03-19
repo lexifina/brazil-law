@@ -1,0 +1,19 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em nome de SIDNEY DIAS DE SOUZA, definitivamente condenado pelo crime de homicídio qualificado (art. 121, § 2º, III e IV, do CP), à pena de 14 anos de reclusão, em regime inicial fechado (Processo n. 0000933-46.2015.8.26.0616, da 1ª Vara Criminal da comarca de Itaquaquecetuba/SP).
+Aponta-se como autoridade coatora o Tribunal de Justiça do Estado de São Paulo, em razão do indeferimento monocrático da Revisão Criminal n. 2176711-49.2025.8.26.0000, posteriormente mantido com a negativa de provimento ao agravo interno e a rejeição dos embargos de declaração.
+Alega-se negativa de prestação jurisdicional, por ausência de enfrentamento de teses defensivas pela instância antecedente, especialmente quanto às alegações, aqui reiteradas, de confissão qualificada e de existência de prova nova (laudo de dinâmica balística produzido após a condenação), supostamente apta a demonstrar a legítima defesa e a alterar o resultado do julgamento.
+Apontam-se nulidades no julgamento do júri por utilização de argumento de autoridade em plenário e por quebra da incomunicabilidade e imparcialidade dos jurados.
+Requer-se a suspensão imediata dos efeitos da condenação e a expedição de alvará de soltura em favor do paciente.
+No mérito, pleiteia-se a concessão da ordem para que seja o paciente absolvido, e que, em juízo sucessivo, seja a ordem concedida, tudo para anular o acórdão proferido no agravo regimental, indevidamente sonegada em sede de embargos de declaração, e determinar que o 3º Grupo de Direito Criminal do TJSP analise as teses defensivas omitidas, notadamente o reconhecimento da confissão qualificada e a valoração da prova nova, ou, subsidiariamente, que esta Corte Superior reconheça diretamente as nulidades e aplique a atenuante da confissão qualificada, redimensionando a pena (fl. 29).
+Os autos foram a mim distribuídos por prevenção de Turma.
+É o relatório.
+O writ é inadmissível.
+Primeiro, é inadequada a impetração do remédio constitucional como substitutivo do recurso próprio.
+Segundo, a inicial não veio acompanhada de cópia dos acórdãos que julgaram o agravo interno e os embargos de declaração na ação revisional.
+O impetrante de pedido de habeas corpus tem a obrigação de devidamente instruir o writ com a documentação necessária ao exame do constrangimento ilegal a que estaria sendo submetido o paciente. Não tem cabimento transferir ao Poder Judiciário o ônus pertencente à defesa, mormente quando se trata de advogado constituído. Tais peças devem estar presentes nos autos no momento da impetração do habeas corpus, não se admitindo que a juntada de peças processuais seja posterior, tampouco que a instrução seja feita por outros meios, como links ou consulta ao processo na página eletrônica do Tribunal de origem ou simples transcrições (RCD no HC n. 608.252/MG, de minha relatoria, Sexta Turma, DJe 17/9/2020).
+Terceiro, ao que tudo indica, no caso, aplica-se o entendimento desta Corte de que não configura a negativa de prestação jurisdicional a adoção de solução jurídica contrária aos interesses da parte, tendo em vista que foram apreciados, de modo fundamentado, todos os pontos necessários ao deslinde da controvérsia. E de que não que não cabe revisão criminal quando utilizada como nova apelação, com vistas ao mero reexame de fatos e provas, quando não verificados os pressupostos previstos no art. 621 do CPP (AgRg no AREsp n. 2.140.882/SP, Ministro Jesuíno Rissato (Desembargador convocado do TJDFT), Sexta Turma, DJe 17/3/2023).
+Pelo exposto, indefiro liminarmente o habeas corpus.
+Publique-se.
+EMENTA
+PENAL E PROCESSUAL PENAL. HABEAS CORPUS. HOMICÍDIO QUALIFICADO. WRIT SUBSTITUTIVO DE RECURSO ESPECIAL. DESCABIMENTO. INSTRUÇÃO DEFICIENTE. ÔNUS DEFENSIVO DE PRODUÇÃO DE PROVA PRÉ-CONSTITUÍDA.
+Habeas corpus indeferido liminarmente.
