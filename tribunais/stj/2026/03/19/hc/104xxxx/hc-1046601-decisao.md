@@ -1,0 +1,50 @@
+DECISÃO
+Trata-se de habeas corpus com pedido de liminar impetrado em favor de HERMES ORNELAS DE SOUZA e JOÃO PAULO DA SILVA em que se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAIS (Habeas Corpus n. 1.0000.25.361148-7/000).
+Consta dos autos que os pacientes foram condenados às penas de 12 anos e 20 dias de reclusão, em regime fechado, como incursos nas sanções do art. 159, caput, do Código Penal.
+Consta, ainda, que o paciente JOÃO PAULO DA SILVA foi condenado, adicionalmente, à pena de 2 meses e 4 dias de detenção, como incurso nas sanções do art. 147, caput, do Código Penal, tendo-lhe sido negado o direito de recorrer em liberdade.
+O impetrante sustenta possibilidade de erro judiciário e requer o controle de flagrante ilegalidade e teratologia, à luz do art. 647 e seguintes do Código de Processo Penal.
+Alega que houve nulidade pela sucessiva reabertura de prazo ao Ministério Público para apresentação de contrarrazões, após a interposição da apelação, com indeferimento de liminares em habeas corpus anteriores e recomendação genérica de celeridade.
+Aduz que ocorreu quebra da paridade de armas, pois o Ministério Público teria falado por último, inclusive após vista especificamente para rebater pedido defensivo formulado nas alegações finais.
+Assevera que foi indeferida diligência essencial para elucidar o titular e o uso da linha telefônica supostamente empregada, ocasionando cerceamento de defesa e obstando a comprovação de álibi.
+Afirma que a condenação estaria amparada em elementos não corroborados em juízo, com base no art. 155 do Código de Processo Penal, e que os depoimentos seriam contraditórios, inclusive de militares e da principal testemunha de acusação.
+Defende que há inconsistências relevantes no relato da vítima sobre agressões físicas, telefonemas e dinâmica dos fatos, sem registro de lesões, além de divergências quanto à existência e identificação de terceiros (como "Jenifer" e "Lucas").
+Entende que o Ministério Público descreveu sequestro às 21h30, enquanto a vítima declarou ter sido impedida de sair apenas a partir das 4 horas, sugerindo incompatibilidade entre a peça acusatória e os relatos.
+Pondera que a versão sobre o momento e a forma da prisão diverge entre policiais, testemunha e vítima, fragilizando o conjunto probatório.
+Informa que o paciente JOÃO PAULO DA SILVA foi condenado por ameaça apenas com base na palavra do pai da vítima, sem representação e sem confirmação por outras provas.
+Requer, liminarmente e no mérito, a anulação da sentença e a colocação do paciente em liberdade; e, no mérito, a absolvição de todas as imputações.
+O pedido liminar foi indeferido às fls. 87-88.
+O Ministério Público Federal acostou parecer pugnando pelo não conhecimento do writ às fls. 765-771.
+É o relatório.
+Inicialmente, consigna-se que o Superior Tribunal de Justiça firmou a compreensão de que o habeas corpus não pode ser utilizado como substitutivo do recurso legalmente previsto para a hipótese, impondo-se o não conhecimento da impetração quando assim manejado.
+Observem-se, a respeito: AgRg no HC n. 943.146/MG, Quinta Turma, relator Ministro Reynaldo Soares da Fonseca, DJe de 22/10/2024; AgRg no HC n. 874.713/SP, Quinta Turma, relator Ministro Ribeiro Dantas, DJe de 20/8/2024; AgRg no HC n. 749.702/SP, Sexta Turma, relator Ministro Antonio Saldanha Palheiro, DJe de 29/2/2024; AgRg no HC n. 912.662/SP, Sexta Turma, relator Ministro Sebastião Reis Júnior, DJe de 27/6/2024.
+Ademais, a propósito do disposto no art. 647-A do CPP, verifica-se que o acórdão impugnado não possui ilegalidade flagrante que permita a concessão da ordem de ofício, conforme analisado a seguir.
+Da leitura do acórdão colhe-se que foram expressamente indicados os motivos para a solução adotada pelo Tribunal de origem. No ponto (fls. 20-21):
+Em que pesem as razões expendidas, registro que as teses aventadas acerca da negativa de autoria não devem ser analisadas na estreita via do habeas corpus, por se tratar de matéria afeta ao mérito da ação penal, demandando dilação probatória e profundo exame de provas.
+No presente caso, a pretensão do impetrante é absolutamente incompatível com o rito do habeas corpus, porquanto há recurso próprio previsto no Código de Processo Penal. A decisão terminativa já foi proferida nos autos da ação penal nº 0015293- 57.2024.8.13.0672, desafiando o cabimento de recurso de apelação criminal, de efeito devolutivo amplo.
+ ..
+À luz do princípio da unirrecorribilidade, obsta-se a análise da referida matéria na presente impetração, sendo coerente delegar a análise das teses trazidas pelo impetrante àquela via mais abrangente, possibilitando um exame mais aprofundado das alegações e evitando decisões conflitantes acerca do mesmo objeto.
+Portanto, verifica-se que a Apelação Criminal n. 0015293-57.2024.8.13.0672, pendente de julgamento na origem e que reclama os mesmos pedidos aventados na presente ação de impugnação, ainda não foi apreciada pela instância antecedente e desafia, desse modo, o princípio da unirrecorribilidade ao manejar-se o writ como sucedâneo recursal.
+O Ministério Público Federal opinou no mesmo sentido em parecer que se adota como fundamento (fl. 767):
+Como sabido, o Supremo Tribunal Federal e o Superior Tribunal de Justiça consideram que o habeas corpus não pode ser utilizado como substituto de recurso próprio, sob pena de desvirtuar a finalidade dessa garantia constitucional, exceto quando a ilegalidade apontada for flagrante, hipótese em que se concede a ordem de ofício.
+No caso, porém, a Corte estadual nem sequer analisou o mérito da impetração, visto que, consoante também informado pelo juízo, houve a interposição concorrente de recurso de apelação, o qual já foi encaminhado ao TJMG. Nesse sentido, vê-se do teor das razões recursais (eSTJ fl. 578/592) que, em essência, foram abordadas as mesmas teses de insuficiência de provas da prática delitiva e de contradições nos depoimentos das testemunhas e da vítima, além das alegações de quebra da paridade de armas, de cerceamento de defesa e de falta de representação quanto ao crime de ameaça.
+ ..
+Além disso, cabe destacar que houve o manejo reiterado de habeas corpus direcionados a esse STJ pelo mesmo impetrante em favor dos pacientes, tratando de diversos temas da ação penal, alguns comuns ao presente writ: HC n. 1.042.234 (reabertura de prazo para alegações finais e contrarrazões do MPMG), HC n. 1.037.255 (mora na remessa do feito ao MPMG para contrarrazões), HC n. 990.531 (indeferimento de provas), HC n. 1.003.913 (indeferimento de provas), HC n. 1.021.402 (revogação de prisão preventiva), HC n. 1.030.950 (revogação de prisão preventiva), HC n. 1.036.545 (anulação da sentença e absolvição dos pacientes).
+Por fim, quanto às teses de mérito e de nulidade agora suscitadas, não houve pronunciamento da Corte estadual sobre os temas da impetração em apreço, o que impede a manifestação desse Superior Tribunal de Justiça, sob pena de configurar indevida supressão de instância.
+Portanto, matéria debatida nesta impetração não foi apreciada no ato judicial impugnado, o que impede o conhecimento do pedido pelo Superior Tribunal de Justiça, sob pena de indevida supressão de instância.
+Nesse sentido:
+PROCESSO PENAL. AGRAVO REGIMENTAL NOS EMBARGOS DE DECLARAÇÃO NO HABEAS CORPUS. TRÁFICO DE DROGAS. PROVA DECLARADA NULA. NECESSIDADE DE REALIZAÇÃO DE NOVA AUDIÊNCIA DE INSTRUÇÃO DE JULGAMENTO. IMPEDIMENTO DO JUÍZO DE PRIMEIRO GRAU E DESEMBARGADORES QUE ATUARAM ORIGINARIAMENTE NO FEITO. SUPRESSÃO DE INSTÂNCIA. COMPETÊNCIA DO JUÍZO DE CONHECIMENTO. CONSTRANGIMENTO ILEGAL NÃO VERIFICADO. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. O pleito defensivo relativo à declaração de impedimento dos julgadores não foi analisado pelas instâncias ordinárias, o que obsta a análise diretamente por este Tribunal Superior, sob pena de indevida supressão de instância, sendo certo que o incidente de impedimento ou suspeição deve ser requerido junto ao Juízo que conduzirá o processo, mediante demonstração do justo impedimento, a teor do disposto no Código de Processo Penal. Precedentes.
+2. Agravo regimental não provido.
+(AgRg nos EDcl no HC n. 805.331/SP, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 19/8/2024, DJe de 23/8/2024 - grifo próprio.)
+AGRAVO REGIMENTAL EM EMBARGOS DE DECLARAÇÃO EM HABEAS CORPUS. MATÉRIAS DEDUZIDAS NO WRIT QUE NÃO FORAM APRECIADAS PELO TRIBUNAL DE ORIGEM. SUPRESSÃO DE INSTÂNCIA. PETIÇÃO INICIAL LIMINARMENTE INDEFERIDA. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. Não tendo sido abordada, pelo Tribunal de origem, a nulidade vergastada sob o ângulo pretendido na impetração, resta inviável seu conhecimento per saltum por esta Corte Superior. Supressão de instância inadmissível.
+2. Precedentes de que, até mesmo as nulidades absolutas devem ser objeto de prévio exame na origem a fim de que possam inaugurar a instância extraordinária (AgRg no HC n. 395.493/SP, Sexta Turma, rel. Min. Rogerio Schietti Cruz, DJe de 25/05/2017).
+3. Agravo regimental não provido.
+(AgRg nos EDcl no HC n. 906.517/SP, relator Ministro Otávio de Almeida Toledo - Desembargador convocado do TJSP, Sexta Turma, julgado em 20/8/2024, DJe de 23/8/2024 - grifo próprio.)
+Ademais, a desconstituição da conclusão alcançada pelo Tribunal local implicaria necessariamente o amplo revolvimento de matéria fático-probatória, o que não se coaduna com a estreita via cognitiva do habeas corpus. Nessa direção: AgRg no AgRg no HC n. 900.334/ES, de minha relatoria, Sexta Turma, julgado em 21/5/2025, DJEN de 27/5/2025 e AgRg no HC n. 974.351/BA, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 14/5/2025, DJEN de 20/5/2025.
+Assim, mostra-se inviável o conhecimento da presente impetração. Em consequência, julgo prejudicados o pedido de fls. 776-776 e o requerimento de tutela provisória de fls. 780-781.
+Ante o exposto, com fundamento no art. 210 do Regimento Interno do Superior Tribunal de Justiça, não conheço do habeas corpus.
+Contudo, recomendo ao Tribunal de origem celeridade no julgamento do recurso de apelação.
+Cientifique-se o Ministério Público Federal.
+Publique-se. Intimem-se.
+ EMENTA
