@@ -1,0 +1,33 @@
+DECISÃO
+Trata-se de recurso em habeas corpus, com pedido liminar, interposto por ROBERTO CARLOS REBELO JÚNIOR contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO GRANDE DO SUL que denegou o writ de origem. Eis a ementa (fl. 33):
+DIREITO PROCESSUAL PENAL. HABEAS CORPUS. PORTE ILEGAL DE ARMA DE FOGO E ASSOCIAÇÃO PARA O TRÁFICO. PRISÃO PREVENTIVA. REQUISITOS PRESENTES. ORDEM DENEGADA.
+I. CASO EM EXAME: Habeas corpus impetrado em favor do paciente preso preventivamente pela suposta prática dos crimes de porte ilegal de arma de fogo de uso permitido e associação para o tráfico, previstos no art. 14 da Lei n.º 10.826/2003 e no art. 35, caput, c/c art. 40, inciso IV, da Lei n.º 11.343/2006, apontando como autoridade coatora o Juízo da 1ª Vara Judicial da Comarca de Santo Antônio da Patrulha/RS.
+II. QUESTÃO EM DISCUSSÃO: Há quatro questões em discussão: (i) a nulidade da prova, ao argumento de que a abordagem policial e a busca domiciliar teriam ocorrido sem fundada suspeita e com base na subjetividade dos agentes públicos; (ii) a ausência dos requisitos autorizadores da prisão preventiva, previstos no art. 312 do Código de Processo Penal; (iii) as condições pessoais favoráveis do paciente, que seria tecnicamente primário, possuidor de residência fixa e pai de duas crianças em tenra idade; (iv) a ausência de justa causa para a manutenção da prisão, com pedido de aplicação de medidas cautelares diversas.
+III. RAZÕES DE DECIDIR:
+1. O fumus comissi delicti está demonstrado pelos elementos informativos colhidos no inquérito policial, notadamente na apreensão da arma de fogo e nos dados extraídos do aparelho celular do paciente, que o vinculam à facção criminosa e à prática do tráfico de drogas.
+2. O periculum libertatis exsurge da gravidade concreta da conduta imputada, pois a associação para o tráfico, especialmente quando perpetrada com o emprego de arma de fogo e no seio de uma conhecida organização criminosa, revela a periculosidade acentuada do agente e representa um risco evidente à ordem pública.
+3. A tese defensiva de nulidade da prova, sob o argumento de que a abordagem policial se baseou em critérios subjetivos e sem fundada suspeita, é matéria que demanda aprofundado exame de mérito e dilação probatória, inviável na via estreita do habeas corpus.
+4. As condições pessoais favoráveis, como a primariedade técnica, perdem relevância diante da gravidade concreta do delito e do risco evidente de reiteração delitiva, especialmente considerando que o paciente já respondia a outro inquérito policial pela suposta prática do crime previsto no artigo 14 da Lei n.º 10.826/03.
+5. É incabível a substituição da prisão preventiva por medida cautelar diversa, pois o paciente já demonstrou que medidas menos gravosas, como as impostas no primeiro flagrante, são insuficientes para evitar a prática de novos e mais graves crimes.
+6. Não há ofensa ao princípio da homogeneidade, pois o delito de associação para o tráfico, agravado pelo emprego de arma de fogo, possui pena que, em caso de condenação, pode resultar na fixação de regime prisional inicial fechado, tornando a prisão preventiva uma medida proporcional e adequada à sanção penal em perspectiva.
+IV. DISPOSITIVO E TESE: 1. Ordem denegada.
+Tese de julgamento: 1. A prisão preventiva é medida adequada quando presentes o fumus comissi delicti e o periculum libertatis, especialmente quando o paciente, após ser beneficiado com liberdade provisória, apresenta indícios de envolvimento com organização criminosa voltada ao tráfico de drogas
+Consta dos autos que o recorrente foi preso e denunciado pela suposta prática do crime do art. 14 da Lei n.º 10.826/03 e art. 35 , c/c art. 40, inc. IV, da Lei nº 11.343/06.
+A defesa alega a ausência de razoabilidade pois o recorrente é primário, pai de duas crianças pequenas. Sustenta que a prisão deve ser revogada quando desaparecem as características da provisionalidade da custódia cautelar, além de não estarem presentes os requisitos da prisão preventiva, demonstrando-se presente o princípio da presunção de inocência.
+Além do mais, aduz que deve ser cogitada a aplicação das medidas cautelares diversas da prisão, como prisão domiciliar ou monitoração eletrônica.
+Afirma que a prisão deve ser relaxada ante a ilegalidade das provas produzidas pela abordagem pessoal e entrada em domicílio baseada apenas na subjetividade dos agentes públicos e que, segundo a jurisprudência do STJ, a mera intuição da autoridade policial sobre a traficância não configura justa causa para a entrada em domicílio.
+Requer a concessão de liberdade provisória ao recorrente e, subsidiariamente, a aplicação de medidas cautelares diversas.
+É o relatório.
+É pacífico o entendimento do Superior Tribunal de Justiça de que o habeas corpus, porquanto vinculado à demonstração de plano da ilegalidade arguida, exige provas pré-constituídas dos elementos fáticos essenciais para a apreciação do pedido, sendo ônus da parte impetrante juntar a documentação necessária no momento da impetração.
+No presente caso, não foi juntada à petição inicial a cópia do decreto prisional, documento de fundamental importância para a compreensão da controvérsia.
+Nesse sentido, confira-se o seguinte precedente:
+AGRAVO REGIMENTAL NO HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. TRÁFICO DE DROGAS E ASSOCIAÇÃO PARA O TRÁFICO. PRETENDIDA ABSOLVIÇÃO DO DELITO PREVISTO NO ART. 35 DA LAD OU REDUÇÃO DAS BASILARES DOS DELITOS. INVIABILIDADE. DEFICIÊNCIA DE INSTRUÇÃO. PRECEDENTES. WRIT INDEFERIDO LIMINARMENTE. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. Ação constitucional de natureza mandamental, o habeas corpus tem como escopo precípuo afastar eventual ameaça ao direito de ir e vir.
+No entanto, sua natureza urgente exige prova pré-constituída das alegações, não comportando dilação probatória.
+2. A inicial do writ, contudo, não veio acompanhada de documentos aptos a comprovar o alegado constrangimento de que estaria o paciente sendo vítima, e até mesmo a inauguração da competência desta Corte Superior, o que prejudica, sobremaneira, o adequado exame do caso, haja vista que não foi juntada aos autos a cópia do acórdão de apelação.
+3. É cogente ao impetrante apresentar elementos documentais suficientes para permitir a atuação do Superior Tribunal de Justiça no caso e a aferição da alegada existência de constrangimento ilegal no ato atacado na impetração. Precedentes.
+4. Agravo regimental não provido. (AgRg no HC n. 901.381/ES, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 27/5/2024, DJe de 29/5/2024)
+Ante o exposto, não conheço do recurso em habeas corpus.
+Publique-se.
+Intimem-se.
+EMENTA
