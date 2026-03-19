@@ -1,0 +1,37 @@
+RECURSO EXTRAORDINÁRIO COM AGRAVO. DIREITO PROCESSUAL CIVIL. EXECUÇÃO FISCAL. EXTINÇÃO DA AÇÃO. PENHORA. LEVANTAMENTO RECUSADO EM RAZÃO DA EXISTÊNCIA DE      OUTRAS EXECUÇÕES PENDENTES. TRANSFERÊNCIA DOS VALORES CONSTRITOS. ALEGADA OFENSA À COISA JULGADA. AUSÊNCIA DE REPERCUSSÃO GERAL. TEMA 660. NEGADO SEGUIMENTO AO AGRAVO.
+
+Decisão: Trata-se de agravo nos próprios autos objetivando a reforma de decisão que inadmitiu recurso extraordinário movido pela alínea “a” do permissivo constitucional contra acórdão que dispôs:
+
+“DIREITO TRIBUTÁRIO. AGRAVO DE INSTRUMENTO. EXECUÇÃO FISCAL. LEVANTAMENTO DE PENHORA. EXISTÊNCIA DE OUTRAS EXECUÇÕES. DESPROVIMENTO.
+I. Caso em exame
+1. Agravo de instrumento interposto contra decisão que indeferiu o pedido de levantamento da penhora nos autos da execução fiscal nº 0009686-68.2013.4.03.6134. A agravante sustenta que, após a sentença de extinção da execução fiscal, nos termos do art. 924, V do CPC, com trânsito em julgado, a penhora tornou-se insubsistente e os valores deveriam ser liberados. Requer a concessão de efeito suspensivo e, ao final, o levantamento dos valores bloqueados.
+II. Questão em discussão
+2. A questão em discussão consiste em (i) saber se a decisão de extinção da execução fiscal torna insubsistente a penhora realizada, com liberação imediata dos valores bloqueados, ou se (ii) a penhora pode ser mantida e transferida para outras execuções fiscais pendentes contra a mesma empresa, conforme o princípio da unidade da garantia da execução.
+III. Razões de decidir
+3. O art. 53, § 2º, da Lei nº 8.212/1991, e o art. 28 da Lei nº 6.830/80 asseguram que a liberação de penhora só deve ocorrer quando não houver outras execuções fiscais pendentes. A jurisprudência estabelece que, em razão do princípio da unidade da garantia da execução, é legítima a transferência de valores penhorados para outras execuções pendentes do mesmo devedor, em prol da satisfação do crédito fazendário.
+4. No presente caso, a existência de outras execuções fiscais pendentes contra a agravante justifica o indeferimento do levantamento da penhora. O crédito público e a garantia de indisponibilidade dos bens devem prevalecer, mesmo após a extinção da execução originária, quando se vislumbra a pendência de outras dívidas fiscais.
+IV. Dispositivo e tese
+5. Agravo interno prejudicado. Agravo de instrumento desprovido.
+Tese de julgamento: ‘1. A extinção da execução fiscal não torna automaticamente insubsistente a penhora, podendo os valores bloqueados serem transferidos para outras execuções fiscais pendentes do mesmo devedor. 2. A indisponibilidade do crédito público prevalece sobre o levantamento de penhora na hipótese de dívidas fiscais remanescentes’.”
+
+Nas razões do apelo extremo, a parte suscita a repercussão geral da matéria e, no mérito, ofensa ao artigo 5º, inciso XXXVI, da Constituição.
+A parte recorrida apresentou contrarrazões ao recurso.
+O tribunal a quo inadmitiu o recurso extraordinário, por entender que esbarraria nas Súmulas 282 e 356 do Supremo Tribunal Federal e que a ofensa à Constituição Federal, caso existente, seria meramente reflexa.
+
+É o relatório. DECIDO.
+
+O agravo não merece prosperar.
+Com efeito, rememore-se que, nos autos do ARE 748.371, Rel. Min. Gilmar Mendes (Tema 660 da Repercussão Geral), o Plenário desta Corte ratificou o entendimento de que a afronta aos princípios da legalidade, do devido processo legal, da ampla defesa, do contraditório, dos limites da coisa julgada ou da prestação jurisdicional, que dependa, para ser reconhecida, da análise de normas infraconstitucionais, configura apenas eventual ofensa indireta ou reflexa à Constituição Federal, que não enseja reexame da questão em recurso extraordinário. Nesse sentido, veja-se:
+
+“AGRAVO INTERNO NO RECURSO EXTRAORDINÁRIO COM AGRAVO. DIREITO TRIBUTÁRIO. EXECUÇÃO FISCAL. IMÓVEL. PENHORA. LIBERAÇÃO. IMPOSSIBILIDADE. PREQUESTIONAMENTO. AUSÊNCIA. ALEGAÇÃO DE VIOLAÇÃO DOS PRINCÍPIOS DO CONTRADITÓRIO, DA AMPLA DEFESA E DO DEVIDO PROCESSO LEGAL. AUSÊNCIA DE REPERCUSSÃO GERAL. LEGISLAÇÃO INFRACONSTITUCIONAL. OFENSA REFLEXA. FATOS E PROVAS. REEXAME. IMPOSSIBILIDADE. PRECEDENTES. 1. É inadmissível o recurso extraordinário se a matéria constitucional que nele se alega violada não está devidamente prequestionada. Incidência das Súmulas 282 e 356/STF. 2. Ausência de repercussão geral do tema relativo à suposta violação dos princípios do contraditório, da ampla defesa, dos limites da coisa julgada e do devido processo legal (ARE 748.371-RG, Rel. Min. Gilmar Mendes, Tema 660, DJe de 1º/8/2013). 3. O recurso extraordinário não se presta à análise de matéria infraconstitucional, tampouco ao reexame dos fatos e das provas constantes dos autos (Súmula 279 do STF). 4. Agravo interno DESPROVIDO, com imposição de multa de 5% (cinco por cento) do valor atualizado da causa (artigo 1.021, § 4º, do CPC), caso seja unânime a votação. 5. Honorários advocatícios majorados ao máximo legal em desfavor da parte recorrente, caso as instâncias de origem os tenham fixado, nos termos do artigo 85, § 11, do Código de Processo Civil, observados os limites dos §§ 2º e 3º e a eventual concessão de justiça gratuita.” (ARE 1.329.092-AgR, Plenário, Rel. Min. Luiz Fux - Presidente, DJe de 30/9/2021 - grifei)
+
+“Agravo regimental no recurso extraordinário com agravo. Administrativo. Militar. Cerceamento de defesa. Indeferimento de provas. Repercussão geral. Ausência. Proventos com remuneração correspondente ao grau hierárquico superior. Legislação infraconstitucional. Ofensa reflexa. Fatos e provas. Reexame. Impossibilidade. Precedentes. 1. A afronta aos princípios da legalidade, do devido processo legal, da ampla defesa, do contraditório, dos limites da coisa julgada ou da prestação jurisdicional, quando depende, para ser reconhecida como tal, da análise de normas infraconstitucionais, configura apenas ofensa indireta ou reflexa à Constituição Federal. 2. Esse entendimento foi reafirmado em sede de repercussão geral. Vide: i) ARE nº 748.371/MT, Relator o Ministro Gilmar Mendes, DJe de 1º/8/13 - Tema 660 e ii) ARE nº 639.228/RJ, Relator o Ministro Cezar Peluso, DJe de 31/8/11 - Tema 424. 3. Inviável, em recurso extraordinário, o reexame dos fatos e das provas dos autos e a análise da legislação infraconstitucional. Incidência das Súmulas nºs 279 e 636/STF. 4. Agravo regimental não provido, com imposição de multa de 1% do valor atualizado da causa (art. 1.021, § 4º, do CPC). 5. Havendo prévia fixação de honorários advocatícios pelas instâncias de origem, seu valor monetário será majorado em 10% (dez por cento) em desfavor da parte recorrente, nos termos do art. 85, § 11, do Código de Processo Civil, observados os limites dos §§ 2º e 3º do referido artigo e a eventual concessão de justiça gratuita.” (ARE 1.143.354-AgR, Plenário, Rel. Min. Dias Toffoli - Presidente, DJe de 1º/02/2019 - grifei)
+
+Ex positis, NEGO SEGUIMENTO ao agravo, ex vi art. 932, inc. VIII, do Código de Processo Civil, e art. 21, § 1º, do Regimento Interno do STF.
+Ademais, havendo a prévia fixação de honorários advocatícios pelas instâncias a quo, seu valor monetário será majorado em 10% (dez por cento) face ao polo recorrente, ex vi artigo 85, § 11, do Código de Processo Civil, observados seus §§ 2º e 3º e a eventual concessão de justiça gratuita.
+Publique-se.
+Brasília, 19 de março de 2026.
+
+Ministro LUIZ FUX
+Relator
+Documento assinado digitalmente
