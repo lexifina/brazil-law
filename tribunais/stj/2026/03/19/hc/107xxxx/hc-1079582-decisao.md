@@ -1,0 +1,21 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de MIKAEL DIAS ALVES contra decisão de relator que indeferiu a liminar no writ de origem.
+Consta dos autos que o paciente foi preso em flagrante como incurso nas sanções do art. 329 do Código Penal, 311 do Código de Trânsito Brasileiro e 28 da Lei n. 11.343/2006, tendo a prisão sido convertida em preventiva.
+Neste writ, a defesa sustenta a ilegalidade da prisão preventiva por ausência dos requisitos dos arts. 312 e 313 do CPP, enfatizando que a soma das penas máximas dos delitos de resistência e direção perigosa não supera quatro anos e que a conduta do art. 28 da Lei de Drogas não prevê pena privativa de liberdade.
+Alega que a decisão de primeiro grau limitou-se a invocar genericamente a garantia da ordem pública e a aplicação da lei penal, sem demonstrar concretamente a necessidade da segregação cautelar, e que o indeferimento da liminar no Tribunal de origem perpetuou o constrangimento ilegal.
+Ressalta que o paciente é primário, possui bons antecedentes, residência fixa e trabalho lícito. Defende a superação do óbice da Súmula n. 691/STF, em razão da flagrante ilegalidade.
+Requer, liminarmente, a revogação da prisão preventiva. No mérito, pleiteia a concessão definitiva da ordem para revogar a prisão preventiva, com ou sem imposição de medidas cautelares diversas, dispensando-se a fiança e expedindo-se alvará de soltura.
+É o relatório.
+A teor do disposto na Súmula 691 do Supremo Tribunal Federal, não se admite a impetração de habeas corpus contra decisão que indeferiu o pedido de liminar em writ impetrado no Tribunal de origem, sob pena de indevida supressão de instância.
+A despeito do óbice, a jurisprudência do STJ firmou a compreensão de que, em casos excepcionais, quando evidenciada a presença de decisão teratológica ou desprovida de fundamentação, é possível a mitigação da referida Súmula.
+O pedido de liminar foi indeferido no Tribunal de origem nos seguintes termos (fls. 19-20):
+A medida liminar em sede de remédio heroico, a seu turno, é desprovida de previsão específica na legislação de âmbito nacional (arts. 647 a 667 do CPP), todavia admitida pela doutrina e produto da criação dos tribunais pátrios, encontrando guarida no artigo 21, IV, do Regimento Interno deste Sodalício.
+A sua concessão, todavia, requer a demonstração inequívoca dos requisitos cumulativos das medidas cautelares, quais sejam: o periculum in mora (ou perigo da demora), quando há probabilidade de dano irreparável; e o fumus boni iuris (ou fumaça do bom direito), quando os elementos da impetração indiquem, de plano, a existência da ilegalidade, exigindo-se, assim, a comprovação de nulidade do ato hostilizado ou de indiscutível abuso de poder da autoridade judiciária impetrada.
+No caso em apreço, nos limites da cognição in limine, a análise perfunctória das razões expostas pelos impetrantes, confrontadas com a documentação jungida aos autos, não permite a conclusão imediata da presença do fumus boni iuris, porquanto não há indícios suficientes do pretenso quadro de ilegalidade do constrangimento de que estaria sendo vítima o paciente, não restando demonstrada, prima facie, a coação ilegal capaz de ensejar o deferimento da medida de urgência.
+Nessa ordem de ideias, considerando prudente reservar ao Colegiado o pronunciamento definitivo em momento oportuno - qual seja, após verificação mais detalhada dos dados constantes dos autos - INDEFIRO a postulação na forma pretendida.
+No caso, o indeferimento do pedido de liminar foi devidamente justificado pela ausência, em cognição sumária, dos pressupostos autorizativos da medida urgente, pois o exame preliminar das razões deduzidas na impetração e dos documentos que a instruem não evidenciou, de plano, ilegalidade manifesta apta a justificar a concessão imediata da tutela de urgência, razão pela qual se entendeu prudente reservar ao órgão colegiado o exame mais aprofundado da controvérsia.
+Não se verifica, portanto, teratologia ou manifesta ilegalidade apta a autorizar a mitigação da Súmula n. 691/STF, cabendo ao Tribunal de origem a análise do mérito da questão, sob pena de indevida supressão de instância.
+Ante o exposto, indefiro liminarmente o presente habeas corpus.
+Publique-se.
+Intimem-se.
+ EMENTA
