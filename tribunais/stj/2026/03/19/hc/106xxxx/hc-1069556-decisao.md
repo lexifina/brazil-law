@@ -1,0 +1,49 @@
+DECISÃO
+Trata-se de habeas corpus substitutivo de recurso próprio, com pedido liminar, impetrado em favor de ANDRE GONCALVES, apontando como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE MATO GROSSO DO SUL.
+Extrai-se dos autos que o paciente foi condenado à pena de 1 ano, 11 meses e 10 dias de reclusão, em regime semiaberto, além do pagamento de 53 dias-multa, como incurso no art. 155, §4º, I e II do Código Penal.
+A defesa interpôs recurso de apelação perante o Tribunal de origem, sendo o recurso desprovido por decisão monocrática da relatora (e-STJ, fls. 376-378). Tal decisão foi objeto de agravo regimental, desprovido pelo Colegiado, nos termos do acórdão que recebeu a seguinte ementa:
+"EMENTA: DIREITO PENAL. AGRAVO REGIMENTAL EM APELAÇÃO CRIMINAL. FIXAÇÃO DO REGIME INICIAL DE CUMPRIMENTO DE PENA. REGIME SEMIABERTO MANTIDO.
+I. Caso em exame
+1) Agravo regimental contra decisão monocrática que negou provimento à apelação, mantendo o regime semiaberto para início do cumprimento da pena privativa de liberdade fixada ao agravante.
+II. Questão em discussão
+2) A questão em discussão consiste em saber se é cabível a fixação do regime inicial semiaberto, apesar da pena definitiva ser inferior a quatro anos.
+III. Razões de decidir
+3) Mantida a decisão que fixou o regime semiaberto, pois a fundamentação idônea reside na análise desfavorável das circunstâncias do crime e dos maus antecedentes. A jurisprudência do STJ corrobora a possibilidade de regime mais gravoso mesmo quando a pena é inferior a quatro anos, justamente pela presença dessas circunstâncias, sem violação aos princípios da proporcionalidade e da individualização da pena, nos termos do art. 33, §§ 2º e 3º do CP. IV.
+Dispositivo
+4) Agravo regimental negado provimento, mantendo-se o regime inicial semiaberto fixado na sentença." (e-STJ, fls. 13-17)
+Neste writ, a defesa alega ilegalidade na fixação do regime semiaberto, argumentando que, embora haja duas circunstâncias judiciais desfavoráveis, o paciente é primário, a pena definitiva não supera quatro anos, o delito foi cometido sem violência ou grave ameaça e parte dos bens foi restituída à vítima, sendo as demais circunstâncias do art. 59 do Código Penal favoráveis.
+Requer a concessão da ordem para que seja fixado o regime aberto para o cumprimento da pena.
+Indeferida a liminar (e-STJ, fls. 420-421), o Ministério Público Federal opina pelo não conhecimento do writ (e-STJ, fls. 455-461).
+É o relatório.
+Decido.
+Esta Corte - HC 535.063, Terceira Seção, Rel. Ministro Sebastião Reis Junior, julgado em 10/6/2020 - e o Supremo Tribunal Federal - AgRg no HC 180.365, Primeira Turma, Rel. Min. Rosa Weber, julgado em 27/3/2020; AgRg no HC 147.210, Segunda Turma, Rel. Min. Edson Fachin, julgado em 30/10/2018 -, pacificaram orientação no sentido de que não cabe habeas corpus substitutivo do recurso legalmente previsto para a hipótese, impondo-se o não conhecimento da impetração, salvo quando constatada a existência de flagrante ilegalidade no ato judicial impugnado.
+Assim, passo à análise das razões da impetração, de forma a verificar a ocorrência de flagrante ilegalidade a justificar a concessão do habeas corpus, de ofício.
+O Tribunal de origem assim considerou:
+" ..
+A fixação do regime inicial de cumprimento de pena não se vincula de forma absoluta ao quantum da sanção imposta. Nos termos do art. 33, § 3º, do Código Penal, a determinação do regime deve observar também os critérios previstos no art. 59 do mesmo diploma legal.
+No caso em tela, embora a pena definitiva seja inferior a 4 (quatro) anos, a presença de circunstâncias judiciais desfavoráveis - a saber, os antecedentes e as circunstâncias do c r i m e - constitui fundamentação concreta e idônea para o estabelecimento de regime mais gravoso que o aberto.
+A análise desfavorável de vetores do art. 59 do Código Penal justifica plenamente a fixação do regime semiaberto, não havendo qualquer violação aos princípios da proporcionalidade e da individualização da pena." (e-STJ, fl. 16)
+No caso dos autos, resta fundamentada aplicação do regime prisional semiaberto ao paciente. O Tribunal de origem manteve a pena-base do paciente acima do mínimo legal, por terem sido desfavoravelmente valoradas circunstâncias do art. 59 do Código Penal, o que permite a fixação de regime prisional mais gravoso do que o indicado pelo quantum de reprimenda imposta ao réu.
+Assim, considerando que, apesar de a pena ter sido estabelecida abaixo dos 4 anos de reclusão, foi desfavoravelmente valorada circunstância judicial, resta justificado o regime inicial semiaberto, o qual se mostra adequado e suficiente para o início do cumprimento da pena imposta, nos termos do art. 33, §§ 2º e 3º, e art. 59, ambos do Código Penal. Nesse sentido:
+Nesse sentido:
+"AGRAVO REGIMENTAL NO HABEAS CORPUS. FURTO QUALIFICADO. DOSIMETRIA. EXASPERAÇÃO DA PENA-BASE. MAUS ANTECEDENTES, CIRCUNSTÂNCIAS DO CRIME E CONDUTA SOCIAL. FUNDAMENTAÇÃO CONCRETA. REGIME SEMIABERTO. PENA INFERIOR A 4 ANOS. PENA-BASE ACIMA DO MÍNIMO LEGAL. AUSÊNCIA DE CONSTRANGIMENTO ILEGAL. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. Como é cediço, a dosimetria da pena insere-se dentro de um juízo de discricionariedade do julgador, atrelado às particularidades fáticas do caso concreto e subjetivas do agente, somente passível de revisão por esta Corte no caso de inobservância dos parâmetros legais ou de flagrante desproporcionalidade.
+2. Em relação aos maus antecedentes, a Corte de origem assentou que o paciente, na data de cometimento do furto em comento, já teria praticado outro delito, pelo qual a condenação transitou em julgado posteriormente à data desse ilícito. E sobre o tema, Condenações por fatos anteriores ao crime, com trânsito em julgado posterior, podem ser consideradas como maus antecedentes.(AgRg no HC n. 936.417/GO, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 19/3/2025, DJEN de 24/3/2025.).
+3. Quanto às circunstâncias do crime, cabe esclarecer que se trata da avaliação dos elementos não definidos na lei penal, mas que permitem delimitar as peculiaridades do fato, tais como o modus operandi, a duração da conduta, o estado de ânimo do agente, dentre outros fatores.
+4. No caso, as circunstâncias do crime demonstraram um maior planejamento e sofisticação na execução do que aquilo que normalmente esperado - a sofisticação e o usados pelo réu para modus operandi a prática delitiva se revelaram exacerbados e destoantes daquilo que normalmente acontece para este tipo de infração, haja vista o envolvimento de um sistema complexo de ações e que possivelmente contou com a atuação de outras pessoas, quiçá de uma organização criminosa.
+5. Quanto ao regime, a jurisprudência desta Corte firmou-se no sentido de que, para a fixação do regime inicial, é necessária a apresentação de motivação concreta, fundada nas circunstâncias judiciais previstas no art. 59 do Código Penal, na primariedade do acusado e na gravidade concreta do delito, evidenciada esta última por um modus operandi que desborde dos elementos normais do tipo penal violado.
+6. No caso, não há se falar em ilegalidade na fixação do regime semiaberto. Isso porque, não obstante a pena seja inferior a 4 anos e o paciente seja primário, as circunstâncias judiciais não lhe eram todas favoráveis, tanto que a pena-base foi fixada acima do mínimo legal. Dessa forma, nos termos do art. 33, § 2º e § 3º, o regime inicial fechado se mostra mais adequado.
+7. Agravo regimental não provido." (AgRg no HC n. 993.851/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 17/6/2025, DJEN de 26/6/2025.)
+"AGRAVO REGIMENTAL NO RECURSO ESPECIAL. PENAL E PROCESSUAL PENAL. EXPLORAÇÃO DE PRESTÍGIO (ART. 357, PARÁGRAFO ÚNICO, DO CP). RECURSO ESPECIAL DO MINISTÉRIO PÚBLICO PROVIDO EM DECISÃO MONOCRÁTICA. FIXAÇÃO DE REGIME SEMIABERTO E AFASTAMENTO DA SUBSTITUIÇÃO DA PENA. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. A alegação de que o recurso especial ministerial não poderia ser conhecido por ausência de oposição de embargos de declaração na origem não prospera. A tese recursal não se baseou em contradição interna do julgado, mas em error iuris, consistente na violação direta dos arts. 33, §§ 2º e 3º, e 59, do Código Penal. Estando a matéria devidamente prequestionada, é desnecessário o esgotamento das vias ordinárias com aclaratórios.
+2. A fixação da pena-base acima do mínimo legal, em razão da valoração negativa da culpabilidade, reconhecida como "excepcionalmente censurável", impede a fixação do regime aberto, ainda que a pena seja inferior a 4 anos e o réu primário, por expressa vedação do art. 33, § 3º, c/c o art. 59, ambos do CP.
+3. Incorre em contradição (erro de direito) o acórdão que, após exasperar a pena-base pela gravidade concreta da culpabilidade, fixa o regime aberto com base na premissa de que as circunstâncias judiciais seriam "preponderantemente favoráveis".
+4. Não configura bis in idem a utilização da mesma circunstância judicial desfavorável (culpabilidade) para exasperar a pena-base (primeira fase da dosimetria) e para estabelecer regime prisional mais gravoso do que o cabível apenas pelo quantum da pena.
+Precedentes.
+5. A presença de circunstância judicial negativa de especial gravidade, que fundamenta a fixação de regime mais severo, demonstra igualmente que a substituição da pena privativa de liberdade por restritivas de direitos não se mostra socialmente recomendável e suficiente para a reprovação e prevenção do crime, nos termos do art. 44, III, do CP.
+6. Inaplicáveis ao caso as Súmulas n. 269 do STJ (que trata de reincidência) e a Proposta de Súmula Vinculante 139 (referente ao tráfico privilegiado), por cuidarem de hipóteses fáticas diversas.
+7. Agravo regimental não provido." (AgRg no REsp n. 2.118.415/DF, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 17/12/2025, DJEN de 23/12/2025.)
+Ante o exposto, não conheço o habeas corpus.
+Publique-se.
+Intime-se.
+EMENTA
