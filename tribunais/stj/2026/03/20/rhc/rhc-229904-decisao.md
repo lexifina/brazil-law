@@ -1,0 +1,68 @@
+DECISÃO
+Trata-se de recurso ordinário em habeas corpus interposto por ROBSON HENRIQUE DOS SANTOS contra acórdão da 8ª Câmara de Direito Criminal do Tribunal de Justiça do Estado de São Paulo que, por unanimidade, denegou a ordem de habeas corpus e manteve a prisão preventiva decretada nos autos do Processo nº 1510895-05.2025.8.26.0378 (fls. 38-45).
+A denúncia atribui ao recorrente a prática dos crimes de associação criminosa (artigo 288, caput, combinado com o artigo 61, inciso II, alínea h, do Código Penal) e furto qualificado mediante fraude eletrônica praticado contra idosos, por duas vezes, em concurso material (artigo 155, parágrafos 4º-B e 4º-C, inciso II, por duas vezes, na forma do artigo 69, do Código Penal) (fls. 53).
+Nas razões recursais (fls. 51-60), a defesa sustenta, em síntese: a) ausência de fundamentação idônea do decreto prisional, ao argumento de que a decisão se ampara em gravidade meramente abstrata, sem apontar elementos concretos individualizados; b) inadequação do uso isolado da condição de foragido como justificativa para assegurar a aplicação da lei penal; c) desproporcionalidade da medida extrema diante de condições pessoais favoráveis  primariedade, residência fixa e ocupação lícita  , com a suficiência de medidas cautelares previstas no artigo 319 do Código de Processo Penal. Requer, liminarmente, a revogação da prisão preventiva ou sua substituição por cautelares diversas e, no mérito, o provimento do recurso.
+A liminar foi indeferida pela Presidência do Superior Tribunal de Justiça (fls. 77-78).
+O Ministério Público Federal opinou pelo não conhecimento do recurso, ao fundamento de que a presente insurgência configura mera reiteração de pedido já veiculado no HC nº 1.057.355/SP, pendente de julgamento neste Tribunal, havendo identidade de partes, pedido e causa de pedir (fls. 85-87).
+É o relatório. DECIDO.
+De início, verifico que o presente recurso ordinário veicula pretensão idêntica àquela já deduzida pelo mesmo recorrente nos autos do HC nº 1.057.355/SP, pendente de julgamento perante este Superior Tribunal de Justiça, conforme consignado no parecer ministerial (fls. 85-87). Em ambas as vias, o paciente busca a revogação da prisão preventiva decretada no Processo nº 1510895-05.2025.8.26.0378, com fundamento nas mesmas teses  ausência de fundamentação concreta, inadequação do uso da condição de foragido e suficiência de cautelares diversas.
+A jurisprudência desta Corte é firme no sentido de que a dedução de idêntica pretensão, com os mesmos fundamentos, quando já existe insurgência pendente de apreciação, configura inadmissível reiteração de pedido. O processamento simultâneo de writs contra o mesmo ato coator, com identidade de partes, pedido e causa de pedir, viola o princípio da unirrecorribilidade das decisões judiciais e configura litispendência. Nesse sentido:
+DIREITO PROCESSUAL PENAL. AGRAVO REGIMENTAL. REITERAÇÃO DE PEDIDO EM ANTERIOR HABEAS CORPUS. LITISPENDÊNCIA. PRINCÍPIO DA UNIRRECORRIBILIDADE. AGRAVO DESPROVIDO.
+I. Caso em exame
+1. Agravo regimental interposto contra decisão que não conheceu do recurso em habeas corpus, em razão da reiteração de writ anterior, com identidade de partes, pedido e causa de pedir, reconhecendo-se a litispendência.
+2. A defesa sustenta que o habeas corpus anterior não foi conhecido, inexistindo deliberação de mérito sobre o alegado constrangimento ilegal derivado da manutenção da custódia cautelar, motivo pelo qual não haveria impedimento ao exame do presente recurso.
+II. Questão em discussão
+3. A questão em discussão consiste em saber se a reiteração de anterior habeas corpus, com identidade de partes, pedido e causa de pedir, configura litispendência e viola o princípio da unirrecorribilidade, impedindo o conhecimento do recurso.
+III. Razões de decidir
+4. A reiteração de anterior writ, com identidade de partes, pedido e causa de pedir, configura litispendência, sendo vedado o processamento de mais de um habeas corpus ou recurso contra o mesmo ato coator, em respeito ao princípio da unirrecorribilidade.
+5. A decisão anterior no HC n. 1.026.967/RO já analisou os fundamentos da custódia preventiva, amparada em elementos concretos, como a expressiva quantidade de entorpecente apreendida, e reconheceu que não havia ilegalidade manifesta apta a autorizar a concessão da ordem de ofício.
+6. O agravo regimental não trouxe novos argumentos capazes de alterar o entendimento firmado anteriormente, sendo mantida a decisão agravada por seus próprios fundamentos.
+IV. Dispositivo e tese
+7. Resultado do Julgamento: Agravo regimental desprovido.
+Tese de julgamento:
+1. A reiteração de habeas corpus com identidade de partes, pedido e causa de pedir configura litispendência e viola o princípio da unirrecorribilidade, impedindo o processamento de novo recurso contra o mesmo ato coator.
+2. A ausência de novos argumentos no agravo regimental mantém a decisão agravada por seus próprios fundamentos.
+Dispositivos relevantes citados: CF/1988, art. 5º, LXXVIII; CPP, art. 647.
+Jurisprudência relevante citada: STJ, AgRg no RHC 184.017/SP, Rel. Min. Reynaldo Soares da Fonseca, Quinta Turma, julgado em 11.09.2023; STJ, AgRg no RHC 183.090/RS, Rel. Min. Jesuíno Rissato, Sexta Turma, julgado em 13.11.2023.
+(AgRg no RHC n. 222.388/RO, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 29/10/2025, DJEN de 5/11/2025.)
+Desse modo, a existência de writ anterior com idêntico objeto, pendente de julgamento, impede o conhecimento deste recurso ordinário, sob pena de se instaurar processamento simultâneo e contraditório sobre a mesma controvérsia.
+De todo modo, em atenção à tutela constitucional da liberdade de locomoção, passo à análise de eventual ilegalidade flagrante que autorize a concessão da ordem de ofício. E, nesse exame, não vislumbro constrangimento ilegal.
+A prisão preventiva do recorrente foi decretada com base em elementos concretos que ultrapassam a mera gravidade abstrata do tipo penal. O modus operandi descrito  fraude eletrônica praticada em caixas eletrônicos contra vítimas idosas, em atuação organizada com corréus, com reiteração da conduta criminosa (dois furtos comprovados) e afastamento do sigilo telefônico que confirmou o envolvimento do paciente  revela periculosidade concreta e risco efetivo de reiteração delitiva, circunstâncias que justificam a custódia cautelar para garantia da ordem pública.
+A evasão do distrito da culpa constitui, por sua vez, motivação idônea para a manutenção da segregação cautelar com vistas a assegurar a aplicação da lei penal. Conforme consolidou a Quinta Turma, a fuga prolongada do acusado reforça a necessidade da custódia cautelar, não havendo falar em ausência de contemporaneidade quando a condição de foragido subsiste como fundamento de cautelaridade. Nesse sentido:
+DIREITO PROCESSUAL PENAL. HABEAS CORPUS. PRISÃO PREVENTIVA. TRÁFICO DE DROGAS E ASSOCIAÇÃO CRIMINOSA. GRAVIDADE CONCRETA DOS FATOS. RISCO DE REITERAÇÃO DELITIVA. GARANTIA DA ORDEM PÚBLICA. FORAGIDO. INSUFICIÊNCIA DAS MEDIDAS CAUTELARES DIVERSAS. ORDEM DENEGADA.
+I. CASO EM EXAME
+1. Habeas corpus impetrado contra decisão que manteve a prisão preventiva do paciente, acusado de tráfico de drogas e associação criminosa. A prisão preventiva foi fundamentada na gravidade concreta dos fatos, demonstrada pela reiteração criminosa e pelo envolvimento do paciente em organização criminosa de alta complexidade e poder financeiro. Além disso, o paciente encontra-se foragido, o que justifica a manutenção da prisão cautelar para garantir a ordem pública e a aplicação da lei penal.
+II. QUESTÃO EM DISCUSSÃO
+2. Há duas questões em discussão: (i) verificar se estão presentes os requisitos do art. 312 do CPP para a manutenção da prisão preventiva, à luz da gravidade concreta dos fatos e do risco de reiteração delitiva; e (ii) determinar se as medidas cautelares diversas da prisão seriam suficientes para afastar o risco à ordem pública.
+III. RAZÕES DE DECIDIR
+3. A prisão preventiva está devidamente fundamentada na gravidade concreta da conduta delitiva e no risco de reiteração criminosa, uma vez que o paciente, além de envolvido com organização criminosa de grande porte, praticava tráfico de drogas de forma reiterada.
+4. A fuga do paciente do distrito da culpa agrava a necessidade da prisão preventiva, sendo imprescindível para garantir a aplicação da lei penal e evitar que o acusado continue suas atividades ilícitas.
+5. A jurisprudência desta Corte é pacífica ao reconhecer a compatibilidade da prisão preventiva com a gravidade concreta do delito e a periculosidade do acusado, tornando inadequadas as medidas cautelares diversas da prisão.
+6. As condições pessoais favoráveis do paciente, como residência fixa e primariedade, não afastam a necessidade da custódia preventiva, quando presentes os pressupostos legais, especialmente a gravidade concreta dos fatos e o risco à ordem pública.
+IV. ORDEM DENEGADA.
+(HC n. 841.456/PR, relatora Ministra Daniela Teixeira, Quinta Turma, julgado em 15/10/2024, DJe de 11/11/2024.)
+No tocante às condições pessoais favoráveis invocadas  primariedade, residência fixa e ocupação lícita  , é pacífico nesta Corte que tais circunstâncias, isoladamente, não obstam a manutenção da prisão preventiva quando presentes os requisitos autorizadores da custódia cautelar. Este é o entendimento reafirmado pela Quinta Turma:
+DIREITO PROCESSUAL PENAL. AGRAVO REGIMENTAL. PRISÃO PREVENTIVA. GRAVIDADE CONCRETA DA CONDUTA. MEDIDAS CAUTELARES ALTERNATIVAS.
+AGRAVO NÃO PROVIDO. I. Caso em exame
+1. Agravo regimental interposto contra decisão monocrática que não conheceu de habeas corpus impetrado em favor de acusado preso preventivamente pela suposta prática do crime de tráfico de drogas (art. 33, caput, da Lei nº 11.343/2006).
+2. A decisão agravada fundamentou a manutenção da prisão preventiva na gravidade concreta da conduta, evidenciada pela apreensão de 110, 96 g de cocaína fracionada em porções individuais, balança de precisão, máquina de cartão e outros apetrechos, além da confissão informal do acusado sobre a prática de tráfico intermunicipal.
+3. O agravante alegou que a decisão baseou-se em fundamentos genéricos e na gravidade abstrata do delito, sustentando que é primário, possui residência fixa e bons antecedentes, o que justificaria a aplicação de medidas cautelares alternativas.
+II. Questão em discussão
+4. A questão em discussão consiste em saber se a prisão preventiva do agravante está devidamente fundamentada em elementos concretos que demonstram a necessidade da medida para garantia da ordem pública, ou se seria possível substituí-la por medidas cautelares alternativas.
+III. Razões de decidir
+5. A gravidade concreta da conduta, evidenciada pela apreensão de expressiva quantidade de droga fracionada para venda, apetrechos que indicam dedicação à atividade criminosa e confissão informal sobre tráfico intermunicipal, demonstra a periculosidade do agente e o risco de reiteração delitiva.
+6. As condições pessoais favoráveis do agravante, como primariedade e residência fixa, não são suficientes para afastar a necessidade da prisão preventiva quando presentes elementos concretos que indicam risco à ordem pública.
+7. A aplicação de medidas cautelares alternativas previstas no art. 319 do Código de Processo Penal é incabível, pois se mostrariam insuficientes para conter o risco de reiteração delitiva.
+IV. Dispositivo e tese
+8. Resultado do Julgamento: Agravo regimental não provido.
+Tese de julgamento:
+1. A gravidade concreta da conduta, evidenciada pela quantidade e natureza da droga apreendida, apetrechos relacionados ao tráfico e confissão informal, constitui fundamento idôneo para a decretação e manutenção da prisão preventiva.
+2. Condições pessoais favoráveis, como primariedade e residência fixa, não afastam a necessidade da prisão preventiva quando presentes elementos concretos que indicam risco à ordem pública.
+3. Medidas cautelares alternativas previstas no art. 319 do Código de Processo Penal são insuficientes para conter o risco de reiteração delitiva em casos de tráfico de drogas com elementos concretos que indicam periculosidade do agente.
+Dispositivos relevantes citados: CPP, art. 319; Lei nº 11.343/2006, art. 33.
+Jurisprudência relevante citada: STJ, AgRg no HC 979.824/GO, Rel. Min. Og Fernandes, Sexta Turma, julgado em 14.04.2025.
+(AgRg no HC n. 1.019.668/SP, relator Ministro Messod Azulay Neto, Quinta Turma, julgado em 29/10/2025, DJEN de 4/11/2025.)
+Por fim, a pretensão de substituição da prisão por medidas cautelares alternativas não se mostra viável. Nos termos do artigo 282, parágrafo 6º, do Código de Processo Penal, a prisão preventiva somente será determinada quando não for cabível a sua substituição por outra medida cautelar  exigência que foi observada no caso concreto. A condição de foragido do paciente  que sequer foi localizado para cumprimento do mandado prisional  aliada ao contexto de organização criminosa voltada a fraudes eletrônicas contra idosos e à reiteração comprovada, torna evidente a insuficiência de providências menos gravosas para acautelar a instrução criminal e garantir a aplicação da lei penal. Medidas como monitoração eletrônica ou comparecimento periódico em juízo revelam-se ineficazes para coibir atuação criminosa perpetrada à distância e de forma articulada.
+Ante o exposto, NÃO CONHEÇO do recurso ordinário em habeas corpus, por configurar inadmissível reiteração de pedido veiculado no HC nº 1.057.355/SP, pendente de julgamento neste Tribunal. Não vislumbrando ilegalidade flagrante, deixo de conceder a ordem de ofício.
+Publique-se. Intimem-se.
+EMENTA
