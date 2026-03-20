@@ -1,0 +1,29 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de CLEISON ANDRE DA SILVA, contra acórdão prolatado pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAIS.
+Consta dos autos que, em 01/9/2025, o paciente foi preso em flagrante pela suposta prática do delito previsto no art. 33 da Lei n. 11.343/2006, sobrevindo decisão que converteu a custódia em preventiva.
+O impetrante sustenta que o paciente seria primário, possuiria bons antecedentes, residência fixa e vínculo familiar, bem como exerceria atividade de lavrador, circunstâncias que afastariam o risco de fuga ou de reiteração delitiva, demonstrando a desnecessidade da segregação antecipada e a suficiência das medidas cautelares alternativas previstas no art. 319 do Código de Processo Penal.
+Afirma que o paciente teria sido abordado em via pública, oportunidade em que nada de ilícito teria sido com ele encontrado, sobrevindo o cumprimento de mandado de busca e apreensão em residência na qual também não teriam sido localizados objetos relacionados à prática de crime.
+Alega que, durante as buscas, os policiais teriam declarado haver recebido informações de um cidadão que preferiu anonimato, dando conta da existência de drogas em outra casa, local em que os entorpecentes foram apreendidos, advertindo que o imóvel não pertenceria ao paciente, que lá teria vivido em momento pretérito.
+Aduz que a execução de mandados de busca e apreensão em endereços desatualizados não serviria de fundamento para a decretação da prisão preventiva, por extrapolar os limites legais e por não haver posse ou domínio do investigado sobre os objetos encontrados.
+Acrescenta que a ínfima quantidade de drogas apreendidas não geraria perigo à ordem pública, notadamente diante das condições pessoais favoráveis do paciente.
+Argumenta que a medida extrema teria decorrido exclusivamente de presunções e de investigações em curso, sem qualquer fato concreto que a justificasse, destacando que a gravidade abstrata do delito, por si só, não autorizaria o sequestro corporal.
+Requer a concessão de liberdade ao paciente.
+Liminar indeferida às fls. 185-186.
+Informações prestadas às fls. 191-194.
+O Ministério Público Federal em parecer, às fls. 198-215, opinou pela concessão da ordem.
+É  o  relatório. DECIDO.
+In casu, a prisão preventiva do paciente se encontra devidamente fundamentada em dados concretos extraídos dos autos, que evidenciam a necessidade de encarceramento provisório para a garantia da ordem pública; notadamente se considerado o risco de reiteração criminosa, haja vista que, além da apreensão de  06 tabletes de maconha, pesando 91,25 g (noventa e um gramas e vinte cinco centigramas), 05 invólucros de haxixe, pesando 11,74 g (onze gramas e setenta e quatro centigramas), 03 invólucros de cocaína, pesando 1,86 g (um grama e oitenta e seis centigramas) e 02 invólucros de crack, pesando 1,95 g (um grama e noventa e cinco centigramas) , ele ostenta outras passagens criminais.
+Nesse sentido, o Juízo de primeiro grau consignou que " .. o autuado foi recentemente condenado, em primeira instância, pelo delito de porte ilegal de arma de fogo (autos n. 0000012-96.2023.8.13.0607), estando o processo em fase de recebimento e processamento do recurso. Outrossim, possui outras duas anotações de APFD em seu desfavor" (fl. 121).
+Tais circunstâncias demonstram a gravidade concreta da conduta e a periculosidade do paciente, justificando a segregação cautelar determinada.
+Sobre o tema:
+"Consoante sedimentado em farta jurisprudência desta Corte Superior, maus antecedentes, reincidência, atos infracionais pretéritos ou até mesmo outras ações penais em curso justificam a imposição de segregação cautelar como forma de evitara reiteração delitiva e, assim, garantir a ordem pública" (AgRg no HC n. 884.146/PE, relator Ministro Joel Ilan Paciornik, Quinta Turma, DJe de 26/6/2024.)
+"São fundamentos idôneos para a decretação da segregação cautelar no caso de tráfico ilícito de entorpecentes a quantidade, a variedade ou a natureza das drogas apreendidas, bem como a gravidade concreta do delito, o modus operandi da ação delituosa e a periculosidade do agente" (AgRg no HC n. 751.585/SP, relator Ministro João Otávio de Noronha, Quinta Turma, julgado em 27/9/2022, DJe de 30/9/2022.)
+Não há que se falar em possibilidade de aplicação de medidas cautelares diversas da prisão, pois há nos autos elementos hábeis a recomendar a custódia cautelar.
+No mais, no que tange à alegação acerca de que os entorpecentes teriam sido encontrados em outro endereço, não verifico flagrante ilegalidade a ser sanada na hipótese; diante da existência de fundadas razões.
+No ponto, consta nos autos que os policiais teriam se deslocado até a residência do paciente, situada na Rua Constantino Horta, nº 736, bairro Quarto Depósito, para cumprimento de um mandado de busca e apreensão; sendo que, na ocasião, os agentes de segurança pública visualizaram ele  a cerca de 300 metros do endereço, próximo a um bar e a uma barbearia que, segundo denúncias anteriores, seriam supostamente utilizados para comercialização de entorpecentes  (fl. 178).
+Assim, realizada a abordagem do paciente em via pública, nada de ilícito teria sido encontrado e feita busca no imóvel alvo da diligência, que se encontrava fechado e desabitado, também não foi encontrada nenhuma substância ilícita e em contato com a proprietária do imóvel, ela teria i nformado que o paciente havia se mudado há cerca de um mês.
+Ocorre que, os policiais teriam recebido informações de populares dando conta de que o paciente atualmente estaria utilizando outro imóvel, situado ao final da mesma rua, nº 820, portão verde, onde supostamente estaria guardando entorpecentes; restando apreendidas drogas no local, além de documento pessoal do ora paciente.
+Nesse termos, fixadas tais premissas, não restou evidenciando o constrangimento ilegal.
+Ante o exposto, denego a ordem.
+Publique-se. Intimem-se.
+EMENTA
