@@ -1,0 +1,39 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em causa própria por SILVIO PEREIRA DOS SANTOS NETO contra acórdão do Tribunal de Justiça do Estado de São Paulo.
+Extrai-se dos autos que o paciente foi condenado pelo Tribunal do Júri de São Paulo/SP, no ano de 2022, pela prática de homicídio qualificado. Afirma que permaneceu algemado durante toda a sessão do júri, sem justificativa idônea (e-STJ fl. 1), o que gera nulidade do julgamento.
+Sustenta que o uso de algemas foi indevidamente justificado por suposto risco de fuga e por alegadas condições de espaço e efetivo policial, o que não se coaduna com a realização do júri no Fórum Criminal da Barra Funda, estrutura adequada para sessões do Tribunal do Júri. Aduz-se que deficiências estatais não podem justificar violação à dignidade do réu (e-STJ fl. 2).
+Afirma, ainda, que o paciente apresentou comportamento cooperativo nas fases investigativa e administrativa, não havendo episódios que indicassem necessidade de algemamento, tampouco risco à ordem ou à segurança dos presentes (e-STJ fls. 2/3).
+Requer, ao final, seja reconhecida a nulidade da sessão plenária do Tribunal do Júri. Subsidiariamente, pleiteia, a fixação da pena no mínimo legal.
+É o relatório. Decido .
+De início, observa-se que o pleito de nulidade da sessão plenária do Tribunal do Júri, em razão do uso indevida de algemas pelo paciente, já foi examinado por este Superior Tribunal de Justiça no julgamento do AgRg no AResp-2.773.066/SP, feito de minha relatoria. Eis a ementa do julgado (DJe de 15/4/2025) :
+DIREITO PROCESSUAL PENAL. AGRAVO EM RECURSO ESPECIAL. USO DE ALGEMAS. REFERÊNCIA AO SILÊNCIO DO ACUSADO. REFERÊNCIA Á PRONÚNCIA DO ACUSADO COMO ARGUMENTO DE AUSOBERANIA DOS VEREDICTOS. AGRAVO IMPROVIDO.
+I. Caso em exame
+1. Agravo interposto contra decisão que inadmitiu recurso especial manejado contra acórdão do Tribunal de Justiça do Estado de São Paulo, que manteve a condenação por homicídio qualificado, com uso de algemas durante o julgamento no Tribunal do Júri.
+2. O recorrente foi condenado a 16 anos e 4 meses de reclusão, posteriormente readequada para 14 anos, por homicídio qualificado, com recurso que dificultou a defesa da vítima.
+II. Questão em discussão
+3. Discute-se se o uso de algemas durante o julgamento do Tribunal do Júri, a menção ao silêncio do réu e à sua pronúncia durante a sessão de julgamento pela promotora de justiça configuram nulidade do julgamento.
+4. Alega-se que a condenação é manifestamente contrária à prova dos autos, devendo o veredicto do tribunal do júri ser cassado ou, ao menos, afastadas as qualificadoras.
+III. Razões de decidir
+5. O uso de algemas foi justificado pelo risco de fuga e pela necessidade de garantir a segurança dos presentes, devido ao espaço inapropriado e ao reduzido efetivo policial, não configurando constrangimento ilegal.
+6. A mera referência ao silêncio do acusado, sem exploração do tema, não enseja nulidade, conforme entendimento consolidado nesta Corte.
+7. A menção à decisão de pronúncia não configurou argumento de autoridade, pois não induziu o Conselho de Sentença, não prejudicando nem beneficiando o réu.
+8. Tendo o Tribunal a quo concluído que a decisão dos jurados não se encontra manifestamente contrária à prova dos autos, tendo eles optado pela tese da acusação, eventual alteração da conclusão da Corte local demandaria, necessariamente, o revolvimento do acervo fático-probatório delineado nos autos, providência incabível em recurso especial, ante o óbice da Súmula n. 7/STJ.
+IV. Dispositivo e tese
+9. Agravo improvido.
+Tese de julgamento: "1. O uso de algemas é justificado pela necessidade de segurança e pelo risco de fuga do réu, não configurando constrangimento ilegal sem demonstração de prejuízo. 2. A mera referência ao silêncio do acusado, sem exploração do tema, não enseja nulidade. 3. A menção à decisão de pronúncia não configura argumento de autoridade se não induzir o Conselho de Sentença a prejudicar ou beneficiar o réu. 4. Tendo o Tribunal a quo concluído que a decisão dos jurados não se encontra manifestamente contrária à prova dos autos, tendo eles optado pela tese da acusação, eventual alteração da conclusão da Corte local demandaria, necessariamente, o revolvimento do acervo fático-probatório delineado nos autos, providência incabível em recurso especial, ante o óbice da Súmula n. 7/STJ.".
+Dispositivos relevantes citados: CPP, arts. 474, § 3º, 478, I e II, 593, III, "d"; CF/1988, art. 105, I, c.
+Jurisprudência relevante citada: STJ, AgRg no HC 930.556/SP, Rel. Min. Sebastião Reis Júnior, Sexta Turma, julgado em 12/3/2025; STJ, AgRg no AREsp 1866503/CE, Rel. Min. Rogerio Schietti Cruz, Sexta Turma, julgado em 15/03/2022.
+É "assente nesta eg. Corte que "Não se conhece de habeas corpus que objetiva mera reiteração de pedido analisado em recurso anteriormente interposto" (AgRg no HC n. 403.778/CE, Sexta Turma, Rel. Min. Rogerio Schietti Cruz, DJe de 10/8/2017)". (AgRg no HC n. 678.732/SP, relator Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), Quinta Turma, julgado em 5/10/2021, DJe de 8/10/2021.)
+No mesmo sentido:
+AGRAVO REGIMENTAL CONTRA DECISÃO QUE INDEFERIU LIMINARMENTE O WRIT. REITERAÇÃO DE PEDIDO DE RECONHECIMENTO DE COMPETÊNCIA DA JUSTIÇA CASTRENSE. COMPETÊNCIA DA JUSTIÇA COMUM RECONHECIDA POR ESTE COLEGIADO. IMPOSSIBILIDADE DE CONCESSÃO DE ORDEM DE HABEAS CORPUS CONTRA ATO PRÓPRIO. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. "É de se considerar que é pacífico o entendimento firmado nesta Corte de que não se conhece de habeas corpus cuja questão já tenha sido objeto de análise em oportunidade diversa, tratando-se de mera reiteração de pedido" (AgRg no HC n. 796.091/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe de 26/6/2023).
+2. Além de o HC n 765363/SP reiterar pedido já analisado pela Quinta Turma do Superior Tribunal de Justiça no julgamento do HC n. 764.059/SP, frise-se que este Colegiado se pronunciou pela competência da Justiça Comum quanto aos fatos delituosos apurados na Ação Penal 0010201-20.2016.8.26.0510 que tramitou perante a Segunda Vara Criminal da Comarca de Rio Claro/SP.
+Diante disso, é defeso a esta Corte Superior de Justiça julgar habeas corpus contra ato próprio, porquanto, à luz do art. 650, § 1º, do Código de Processo Penal - CPP, a competência para conhecer originalmente do pedido de habeas corpus cessará sempre que a violência ou coação provier de autoridade judiciária de igual ou superior jurisdição. Nesse sentido: AgRg no HC n. 272.077/PE, de minha relatoria, Quinta Turma, DJe de 19/10/2018 e RHC n. 39.858/TO, relatora Ministra Maria Thereza de Assis Moura, Sexta Turma, DJe de 4/11/2014.
+3. Agravo regimental ao qual se nega provimento.
+(AgRg no HC n. 765.363/SP, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 28/8/2023, DJe de 30/8/2023.)
+Quanto ao pedido de revisão da dosimetria da pena, formulado apenas ao final da impetração, verifico que se encontra desacompanhado de qualquer fundamentação ou impugnação à motivação declinada pela Corte local, em manifesta afronta ao princípio da dialeticidade.
+Como é de conhecimento, mencionado princípio "impõe, àquele que impugna uma decisão judicial, o ônus de demonstrar, satisfatoriamente, o equívoco dos fundamentos nela consignados. Ao deduzir a questão na instância superior, não basta que a Parte apenas reitere as alegações declinadas na origem, mas, sobretudo, que enfrente, primeiramente, as próprias razões de decidir consignadas no ato impugnado" (HC n. 733.751/SP, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 12/9/2023, DJe de 20/9/2023.).
+Assim, nos termos da jurisprudência do Superior Tribunal de Justiça, "não se conhece de pedido formulado pela parte de forma solta, sem a correspondente fundamentação jurídica" (STJ, HC n. 607.602/PE, relator Ministro RIBEIRO DANTAS, Quinta Turma, julgado em 21/09/2021, DJe 27/09/2021).
+Ante o exposto, não conheço do mandamus.
+Publique-se.
+EMENTA
