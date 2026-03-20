@@ -1,0 +1,29 @@
+DECISÃO
+Trata-se de agravo interposto por ELVIS LIMA CARREIRO contra decisão do TRIBUNAL REGIONAL FEDERAL DA 2ª REGIÃO que inadmitiu o recurso especial.
+Consta dos autos que o agravante foi condenado pela prática do delito tipificado no art. 304 c/c art. 297 do Código Penal  uso de documento público falso  , sendo-lhe aplicada a pena de 2 (dois) anos de reclusão, em regime inicial semiaberto, e 100 (cem) dias-multa.
+O Tribunal Regional Federal da 2ª Região negou provimento à apelação.
+No recurso especial, o agravante sustentou, em síntese: (a) ausência de dolo específico para a configuração do tipo penal do art. 304 do CP; (b) ocorrência de crime impossível, pela alegada absoluta impropriedade do objeto; e (c) atipicidade material da conduta. No presente agravo, insiste na satisfação dos requisitos de admissibilidade e na possibilidade de conhecimento do recurso especial.
+O Tribunal Regional Federal da 2ª Região inadmitiu o recurso especial defensivo, assentando, em síntese: (i) ausência de prequestionamento da tese de atipicidade material, com incidência das Súmulas n. 211/STJ e 282/STF; e (ii) que o pleito absolutório demandaria o reexame do acervo fático-probatório, em colisão direta com a Súmula n. 7/STJ (fls. 1078-1080).
+O agravante interpôs agravo em recurso especial sustentando que a matéria foi devidamente prequestionada e que o julgamento das teses defensivas não demandaria reexame de provas, postulando, ao final, a reforma do acórdão condenatório e sua absolvição (fls. 1083-1092).
+O Ministério Público Federal apresentou parecer pelo desprovimento do agravo (fls. 1126-1132).
+É o relatório. DECIDO.
+O agravo em recurso especial tem por finalidade a demonstração do desacerto da decisão de inadmissibilidade do recurso especial proferida pelo Tribunal de origem, de forma a viabilizar o exame do recurso especial por esta Corte de Justiça.
+Assim, o agravante tem o ônus de refutar especificamente cada um dos óbices recursais aplicados pela decisão de inadmissibilidade do recurso especial, em respeito ao princípio da dialeticidade.
+No caso concreto, a decisão agravada não conheceu do recurso especial por aplicação das Súmulas n. 7 e 211, STJ, e n. 282, STF.
+Quanto à Súmula n. 7, STJ, incumbe ao agravante demonstrar a desnecessidade da análise do conjunto fático-probatório, deixando claro que os fatos foram devidamente consignados no acórdão recorrido. Nesse sentido: AgRg no AREsp n. 1.207.268/MG, Quinta Turma, Rel. Min. Reynaldo Soares da Fonseca .
+O argumento defensivo foi o de que as teses de ausência de dolo e de crime impossível seriam questões puramente de direito, dispensando o revolvimento fático, bastando ao STJ aplicar o direito aos fatos já fixados no acórdão. Esse raciocínio não se sustenta porque as premissas fáticas estabelecidas pelo TRF-2  apresentação voluntária do documento, aptidão da falsificação para enganar terceiros e ciência do réu sobre a falsidade  são exatamente o ponto controvertido.
+Para reconhecer a ausência de dolo ou a absoluta ineficácia do meio, o STJ teria que partir de premissas fáticas diferentes das fixadas pelo Tribunal de origem, o que equivale, na prática, a reexaminar a prova, ainda que indiretamente.
+O agravante, portanto, não logrou demonstrar que a análise do recurso especial seria possível a partir dos próprios fatos incontroversos do acórdão, condição indispensável para contornar a Súmula n. 7/STJ.
+Quanto à alegação de atipicidade material da conduta  fundamento que a decisão agravada reputou desprovido de prequestionamento  , a análise dos autos revela que a questão, de fato, não foi suscitada perante as instâncias ordinárias em momento processual oportuno, não tendo sido objeto de exame pelo Tribunal a quo nem mesmo por ocasião do julgamento dos embargos de declaração opostos pelo ora agravante.
+Nos termos da Súmula n. 211/STJ, é inadmissível o recurso especial quanto à questão que, a despeito da oposição de embargos declaratórios, não foi apreciada pelo Tribunal a quo. O enunciado sumular aplica-se com exatidão à hipótese.
+Desse modo, a ausência de impugnação adequada dos fundamentos empregados pela Corte de origem para impedir o trânsito do recurso especial, nos termos do art. 932, inciso III, do CPC, e do art. 253, parágrafo único, inciso I, do RISTJ obsta o conhecimento do agravo, cujo único propósito é demonstrar a inaplicabilidade dos motivos indicados na decisão de inadmissibilidade do recurso por meio de impugnação específica de cada um deles.
+A propósito:
+"AGRAVO REGIMENTAL EM AGRAVO EM RECURSO ESPECIAL. IMPUGNAÇÃO DEFICIENTE DA DECISÃO DE INADMISSÃO NA ORIGEM. INOBSERVÂNCIA DO COMANDO LEGAL INSERTO NOS ARTS. 932, III, DO CPC/2015 E 253, PARÁGRAFO ÚNICO, I, DO RISTJ. TENTATIVA DE ACRESCER ARGUMENTOS, EM SEDE DE AGRAVO REGIMENTAL, COM VISTAS À IMPUGNAÇÃO DOS FUNDAMENTOS TIDOS COMO INATACADOS. INADMISSIBILIDADE, PRECLUSÃO CONSUMATIVA. PLEITO DE CONCESSÃO DE HABEAS CORPUS DE OFÍCIO. DESCABIMENTO.
+1. A decisão que inadmite o recurso especial na origem não é formada por capítulos autônomos, mas por um único dispositivo, razão pela qual deve ser impugnada na sua integralidade, ou seja, em todos os seus fundamentos (EAREsp n. 831.326/SP, Ministro Luis Felipe Salomão, Corte Especial, DJe 30/11/2018), inclusive, de forma específica, suficiente e pormenorizada (AgRg no AREsp n. 1.234.909/SP, Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe 2/4/2018).
+2. No caso, a defesa do agravante não logrou impugnar, de forma efetiva, a íntegra da decisão de inadmissão na origem.
+ ..
+5. Agravo regimental improvido."
+(AgRg no AREsp n. 2.404.539/CE, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 12/9/2023, DJe de 21/9/2023.)
+Diante do exposto, nos termos do art. 253, parágrafo único, inciso I, do Regimento Interno do Superior Tribunal de Justiça, não conheço do agravo em recurso especial.
+Publique-se. Intimem-se.
+ EMENTA
