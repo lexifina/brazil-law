@@ -1,0 +1,26 @@
+DECISÃO
+Vistos.
+Trata-se de Embargos de Declaração opostos por KELLY FURTADO DA SILVA contra decisão monocrática pela qual foi declarada a competência do Juízo do Juizado Especial Cível (Unidade Jurisdicional) da Comarca de Ituiutaba/MG (fls. 80/82e).
+Sustenta a Embargante, em síntese, haver contradição na decisão, porquanto a Reclamação Trabalhista foi proposta inicialmente perante a 1ª Vara Cível da Comarca de Ituiutaba/MG, em razão da complexidade da causa, da necessidade de perícia e por ser a parte demandada consórcio público intermunicipal (associação pública), tendo aquele Juízo declinado da competência para o Juizado Especial Cível (Unidade Jurisdicional) da Comarca de Ituiutaba/MG, o qual, por seu turno, declinou de competência para a 2ª Vara do Trabalho de Ituiutaba/MG.
+Postula, ao final, o acolhimento dos aclaratórios para que seja declarada a competência da 1ª Vara Cível de Ituiutaba/MG, perante o qual originalmente proposta a ação (fls. 88/91e).
+Impugnação às fls. 94/96e, concordando a parte adversa com o acolhimento do recurso.
+Os embargos foram opostos tempestivamente.
+Feito breve relato, decido.
+Defende a Embargante que há contradição a ser sanada, nos termos do art. 1.022, I, do Código de Processo Civil.
+O dispositivo em foco preceitua que caberá a oposição de embargos de declaração para: i) esclarecer obscuridade ou eliminar contradição; ii) suprir omissão de ponto ou questão sobre o qual devia se pronunciar o juiz de ofício ou a requerimento; e iii) corrigir erro material.
+Com efeito, a contradição "consiste na formulação de duas ou mais ideias incompatíveis entre si" (WAMBIER, Luiz Rodrigues; TALAMINI, Eduardo. Curso Avançado de Processo Civil. 22ª ed. São Paulo: Revista dos Tribunais, 2025. Vol. II, p. 493), sendo sanável mediante embargos de declaração apenas a contradição "interna ao julgado embargado, a exemplo da grave desarmonia entre a fundamentação e as conclusões da própria decisão, capaz de evidenciar uma ausência de logicidade no raciocínio desenvolvido pelo julgador", não se prestando a corrigir a contradição externa ou, ainda, a sanar eventual error in judicando (Primeira Turma, EDcl no RMS n. 60.400/SP, de minha relatoria, j. 9.10.2023, DJe 16.10.2023).
+Observados tais parâmetros legais, teóricos e jurisprudenciais, não verifico o vício apontado pela Embargante, porquanto não é possível verificar, no ato judicial impugnado, a existência de dissenso entre as razões de decidir e o dispositivo correspondente.
+Nesse aspecto, a decisão embargada analisou o conflito de competência tal como posto, ou seja, tendo como suscitante o Juízo da 2ª Vara do Trabalho de Ituiutaba/MG (fls. 3/7e) e como suscitado o Juízo do Juizado Especial Cível (Unidade Jurisdicional) de Ituiutaba/MG (fls. 69/70e), sendo inviável, no caso, definir como competente juízo diverso dos que compuseram a controvérsia quanto à competência.
+Sobre a questão, ainda que esta Corte admita a declaração de competência de Juízo alheio à controvérsia posta, a solução pretendida pela Embargante consiste na designação do Juízo da 1ª Vara Cível de Ituiutaba/MG, o qual, assim como o Juízo designado na decisão monocrática, também está vinculado ao Tribunal de Justiça de Minas Gerais.
+Consigno, todavia, não caber ao Superior Tribunal de Justiça se imiscuir em divergência acerca de competência entre Juízos vinculados ao mesmo Tribunal. Nessa linha, o seguinte julgado:
+PROCESSUAL CIVIL. AGRAVO INTERNO. INOVAÇÃO RECURSAL. EXAME. IMPOSSIBILIDADE. CONFLITO DE COMPETÊNCIA. JUÍZOS FEDERAL COMUM E DE EXECUÇÕES FISCAIS. VINCULAÇÃO AO MESMO TRIBUNAL. ANÁLISE. INVIABILIDADE.
+1. A discussão sobre se a competência para julgar execução proposta pela OAB seria da vara federal de execuções fiscais ou da vara federal comum escapa ao debate trazido a esta Corte Superior por meio da instauração de conflito de competência, constituindo matéria inovatória e, por isso, insuscetível de exame neste momento processual.
+2. Não cabe ao Superior Tribunal de Justiça dirimir conflito de competência entre Juízos vinculados ao mesmo tribunal. Precedentes.
+3. Agravo interno não conhecido.
+(AgInt no CC n. 194.933/MG, relator Ministro Gurgel de Faria, Primeira Seção, julgado em 16.5.2023, DJe de 19.5.2023 - destaques meus.)
+Portanto, depreende-se da leitura da decisão embargada que a controvérsia foi examinada de forma satisfatória, mediante apreciação da disciplina normativa e cotejo ao firme posicionamento jurisprudencial aplicável ao caso.
+Assim, constatada apenas a discordância da Embargante com o deslinde da controvérsia, não restou demonstrada hipótese a ensejar a integração do julgado.
+O procedimento encontra amparo em reiteradas decisões no âmbito desta Corte Superior, de cujo teor merece destaque a rejeição dos embargos declaratórios, uma vez ausentes os vícios do art. 1.022 do Código de Processo Civil de 2015 (v.g. Corte Especial, EDcl no AgInt nos EAREsp n. 1.990.124/MG, Rel. Ministro Ricardo Villas Bôas Cueva, DJe 14.8.2023; Primeira Turma, EDcl no AgInt nos EDcl nos EDcl nos EDcl no REsp n. 1.745.723/RJ, Rel. Ministro Sérgio Kukina, DJe 7.6.2023; e Segunda Turma, EDcl no AgInt no AREsp n. 2.124.543/RJ, Rel. Ministra Assusete Magalhães, DJe 23.5.2023).
+Posto isso, REJEITO os Embargos de Declaração.
+Publique-se e intimem-se.
+EMENTA
