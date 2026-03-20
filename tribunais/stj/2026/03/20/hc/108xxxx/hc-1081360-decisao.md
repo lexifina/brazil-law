@@ -1,0 +1,49 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em benefício de SADI FERREIRA JUNIOR, contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO PARANÁ no julgamento do Habeas Corpus Criminal n. 0152073-62.2025.8.16.0000.
+Extrai-se dos autos que o paciente foi preso em flagrante no dia 28/11/2025, posteriormente convertida a custódia em prisão preventiva e denunciado pela suposta prática do crime tipificado no art. 33, caput, c/c o art. 40, incisos, II, IV e V, ambos da Lei n. 11.343/06.
+Irresignada, a defesa impetrou habeas corpus perante o Tribunal de origem, que denegou a ordem nos termos do acórdão assim ementado (fls. 35/36):
+"HABEAS CORPUS. PRISÃO PREVENTIVA. TRÁFICO DE DROGAS. ARTIGO 33, CAPUT, DA LEI 11.343/2006. PACIENTE POLICIAL MILITAR. TRANSPORTE INTERESTADUAL. GRANDE QUANTIDADE DE ENTORPECENTES. COMPARTIMENTO OCULTO. GARANTIA DA ORDEM PÚBLICA. RISCO DE REITERAÇÃO DELITIVA. GRAVIDADE CONCRETA. CONDIÇÕES PESSOAIS FAVORÁVEIS. INSUFICIÊNCIA. MEDIDAS CAUTELARES ALTERNATIVAS INSUFICIENTES. ORDEM CONHECIDA E DENEGADA.
+I. Caso em exame
+1. Ação de impetrada em face de decisão queHabeas Corpus converteu prisão em flagrante em preventiva e indeferiu pedido de revogação da custódia cautelar, decretada em razão da suposta prática do delito de tráfico de drogas.
+II. Questões em discussão
+2. Cinge-se a controvérsia em definir: (i) se a prisão preventiva se encontra devidamente fundamentada; (ii) se as condições pessoais favoráveis do paciente justificariam a revogação da custódia cautelar; (iii) se as medidas cautelares alternativas à prisão seriam suficientes para acautelar a ordem pública.
+III. Razões de decidir
+3. A prisão preventiva encontra-se devidamente fundamentada na gravidade concreta da conduta, evidenciada pela apreensão de 18,150 kg de haxixe e 2,5 kg de skunk transportados em compartimento oculto especialmente preparado no veículo, configurando tráfico interestadual entre Amambai/MS e Guarapuava /PR.
+4. A condição de policial militar do paciente, que estava armado com pistola calibre 9mm pertencente à Polícia Militar do Paraná durante a suposta prática delitiva, agrava exponencialmente a reprovabilidade da conduta, porquanto aquele que deveria zelar pela segurança pública prevaleceu-se de sua função para transportar entorpecentes, abalando a credibilidade das instituições de segurança.
+5. O valor oferecido ao paciente pelo transporte das drogas - R$ 100.000,00 - evidencia a elevada lucratividade da atividade ilícita, demonstrando o risco concreto de reiteração delitiva, característico da natureza permanente e habitual do tráfico de drogas.
+6. As condições pessoais favoráveis, como primariedade, residência fixa e ocupação lícita, embora mereçam consideração, não possuem o condão de, isoladamente, afastar os requisitos autorizadores da prisão preventiva quando demonstrada a gravidade concreta da conduta, conforme precedentes do Superior Tribunal de Justiça.
+7. A alegação de existência de filho menor não configura constrangimento ilegal apto a afastar a prisão, inexistindo nos autos elementos que demonstrem que a criança esteja desassistida ou dependa exclusivamente do paciente para sua subsistência.
+8. As alegações de aliciamento por organizações criminosas e necessidade de acompanhamento psicológico constituem meras ilações defensivas desprovidas de suporte probatório, incompatíveis com a cognição sumária do habeas corpus, demandando ampla instrução probatória.
+9. A eventual incidência da causa de diminuição prevista no artigo 33, §4º, da Lei 11.343/2006 ou de excludentes de culpabilidade constitui matéria afeta ao mérito da ação penal, a ser apreciada após regular instrução processual, não podendo ser invocada como fundamento para afastar a prisão preventiva.
+10. As medidas cautelares alternativas previstas no artigo 319 do Código de Processo Penal, incluindo o monitoramento eletrônico, revelam-se insuficientes e inadequadas diante da gravidade concreta da conduta, do risco evidenciado de reiteração delitiva e da necessidade de garantir a ordem pública.
+11. A prisão preventiva mostra-se adequada, necessária e proporcional em sentido estrito, porquanto o sacrifício imposto à liberdade individual encontra justificativa na preservação da segurança pública, bem jurídico de igual relevância constitucional.
+IV. Dispositivo
+12. Habeas Corpus conhecido e denegado.
+Dispositivos legais relevantes citados: Artigos 26, 180, §1º e 312, 313, inciso I, 319 e 282, §6º, do Código de Processo Penal; artigo 33, caput e §4º, da Lei 11.343/2006.
+Jurisprudência relevante citada: STJ, Quinta Turma, AgRg nos E Dcl no RHC n. 206.246/MT, Relator Ministro Carlos Cini Marchionatti (Desembargador Convocado TJRS), julgado em 01.07.2025; TJPR, 5ª Câmara Criminal, HC n. 0029009- 15.2025.8.16.0000, Relatora Substituta Simone Cherem Fabricio de Melo, julgado em 08.05.2025."
+No presente writ, o impetrante sustenta que o decreto de prisão preventiva carece de fundamentação idônea no que tange à impossibilidade de aplicação de medidas cautelares diversas, a exemplo de monitoração eletrônica (tornozeleira) ou a prisão domiciliar.
+Aduz que o paciente é primário, possui bons antecedentes, residência fixa e ocupação lícita (policial militar). Além disso, ressalta sua condição de pai de uma criança de 3 anos de idade. Assere que tais predicados demonstram a ausência de risco à sociedade e não justificam a manutenção do cárcere.
+Pondera a possibilidade de, em caso de eventual condenação, serem preenchidos os requisitos legais para obter a causa especial de redução da pena prevista no § 4º do art. 33 da Lei n. 11.343/06 e, por consequência, o paciente resgatar a reprimenda em regime menos gravoso.
+Requer, em liminar e no mérito, a concessão da ordem para que seja revogada a prisão preventiva, ainda que mediante a aplicação de medidas cautelares diversas.
+É o relatório.
+Decido.
+O presente writ, conquanto impetrado por profissional legalmente habilitado, está deficientemente instruído, não se verificando cópia do inteiro teor da decisão que decretou a prisão preventiva.
+A despeito dos fundamentos delineados na inicial, cabe ressaltar que, em razão da celeridade do rito do habeas corpus, incumbe ao impetrante apresentar prova pré-constituída do direito alegado, sob pena de não conhecimento da ação. Nesse sentido, confiram-se os seguintes precedentes (grifos nossos):
+AGRAVO REGIMENTAL NO HABEAS CORPUS. TRIBUNAL DO JURI. INSURGÊNCIA DEFENSIVA EM FACE DA SENTENÇA DE PRONÚNCIA. AUSÊNCIA NOS AUTOS DO INTEIRO TEOR DO ACÓRDÃO DE ORIGEM. COMPREENSÃO DA CONTROVÉRSIA IMPOSSIBILITADA. INSTRUÇÃO DEFICIENTE DO WRIT. POSTERIOR PERDA DO OBJETO. INFORMAÇÃO DE SUPERVENIÊNCIA DA CONDENAÇÃO PERANTE O CONSELHO DE SENTENÇA. PREJUDICADO. SÚMULA 182/STJ. AGRAVO DESPROVIDO.
+I - Nos termos da jurisprudência consolidada nesta Corte, cumpre ao agravante impugnar especificamente os fundamentos estabelecidos na decisão agravada.
+II - No caso concreto, como já decidido pela Relatoria anterior, não existia nos autos sequer o inteiro teor do acórdão do Tribunal de origem apontado como ato coator - o que, como já explicado, não permitiu a exata compreensão da controvérsia, por deficiência de instrução.
+III - Assente nesta Corte Superior que, "Identificada a falta de juntada aos autos do acórdão da Corte Estadual que efetivamente abordou o mérito constante no presente habeas corpus, resta evidenciada instrução deficiente a impedir continuidade na análise do pleito liberatório" (AgInt no HC n. 388.816/MA, Sexta Turma, Rel. Min. Nefi Cordeiro, DJe de 13/6/2017).
+IV - Ainda que assim não fosse, como destacado pelo próprio agravante, houve a superveniência de sua condenação perante o Conselho de Sentença (fl. 558). Diante disso, fica prejudicada a insurgência defensiva no presente writ em face da sentença de pronúncia, pela perda superveniente do objeto.
+V - A jurisprudência deste Tribunal Superior é firme no sentido de que "O recurso contra a decisão que pronunciou o acusado encontra-se prejudicado, na linha da jurisprudência dominante acerca do tema, quando o recorrente já foi posteriormente condenado pelo Conselho de Sentença" (AgRg no AREsp n. 1.412.819/SP, Quinta Turma, Rel. Min. Ribeiro Dantas, DJe 17/8/2021)" (AgRg no HC n. 693.382/PE, Quinta Turma, Rel. Min. Jesuíno Rissato, Des. Convocado do TJDFT, DJe de 28/10/2021). No mesmo sentido: HC n. 384.302/TO, Quinta Turma, Rel. Min. Ribeiro Dantas, DJe de 9/6/2017; RHC n. 63.772/SP, Sexta Turma, Relª. Minª. Maria Thereza de Assis Moura, DJe de 25/10/2016; RHC n. 102.607/ES, Quinta Turma, Rel. Min. Reynaldo Soares da Fonseca, DJe de 14/2/2019; e AgRg no HC n. 699.552/RS, Quinta Turma, Rel. Min. Ribeiro Dantas, DJe de 2/3/2022.
+VI - No mais, os argumentos atraem a Súmula n. 182 desta Corte Superior de Justiça.
+Agravo regimental desprovido.
+(AgRg no HC n. 698.005/PE, relator Ministro Messod Azulay Neto, Quinta Turma, julgado em 20/6/2023, DJe de 29/6/2023.)
+AGRAVO REGIMENTAL NO HABEAS CORPUS. MANDAMUS INDEFERIDO LIMINARMENTE. INSTRUÇÃO DEFICIENTE. NÃO COLACIONADA A ÍNTEGRA DO ACÓRDÃO DE APELAÇÃO. DECISÃO MANTIDA. RECURSO IMPROVIDO.
+1. É dever do impetrante instruir o writ com os documentos necessários ao deslinde da controvérsia, de modo que a falta da íntegra do ato coator torna inviável a análise dos pedidos.
+2. É insuficiente a juntada apenas da ementa e do resultado dos julgamentos das decisões impugnadas. Os acórdãos, apontados como atos coatores, devem ser colacionados na íntegra.
+3. Agravo regimental improvido.
+(AgRg no HC n. 790.533/SC, relator Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), Sexta Turma, julgado em 17/4/2023, DJe de 20/4/2023.)
+Ante o exposto, com fundamento no art. 210 do Regimento Interno do Superior Tribunal de Justiça, indefiro liminarmente o presente habeas corpus.
+Publique-se.
+Intimem-se.
+ EMENTA
