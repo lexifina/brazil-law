@@ -1,0 +1,23 @@
+DECISÃO
+Trata-se de habeas corpus com pedido de liminar impetrado em favor de IGOR NATANAEL CANDIDO DE MOURA, em que se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO RIO GRANDE DO SUL.
+Depreende-se dos autos que o paciente foi preso em flagrante e teve a prisão convertida em preventiva pela suposta prática do delito de tráfico de drogas.
+Irresignada, a defesa impetrou habeas corpus perante o Tribunal de origem, que denegou a ordem, em acórdão de fls. 99-104.
+No presente writ, a defesa alega que a prisão preventiva foi mantida com fundamentação genérica, sem análise contemporânea e concreta dos requisitos do artigo 312 do Código de Processo Penal.
+Sustenta que não há periculum libertatis idôneo, pois os fundamentos apoiam-se em presunções, sem fatos concretos, que o delito não envolveu violência ou grave ameaça, que a quantidade apreendida seria compatível com porte para consumo e que medidas cautelares diversas da prisão, previstas no artigo 319 do Código de Processo Penal, seriam suficientes ao acautelamento.
+Registra, no tocante aos parâmetros de proporcionalidade, a invocação do princípio da homogeneidade, com a possibilidade de aplicação da redutora do § 4º do artigo 33 da Lei 11.343/2006, de modo a indicar que eventual regime inicial não seria o fechado, o que tornaria a prisão provisória medida mais gravosa que a pena provável .
+Requer a revogação da prisão preventiva do paciente, com a expedição do competente alvará de soltura. Subsidiariamente, pleiteio a aplicação de medidas cautelares diversas da prisão, previstas no artigo 319 do Código de Processo Penal (fls. 11).
+Despacho às fls. 28-29, determinando a Defensoria Pública a complementação de documentos.
+Informações prestadas às fls. 32-55 e 63-87. Juntada de petição com juntada de documentos às fls. 89-105 .
+O Ministério Público Federal, às fls. 107-110, manifestou pelo "não conhecimento da writ".
+É o relatório. DECIDO.
+Primeiramente, conforme informações do juízo de origem, fls. 69-86, em 24/02/2026 foi julgada procedente a pretensão punitiva para condenar o paciente à pena de cinco (05) anos e seis (06) meses de reclusão, a ser cumprida em regime inicial fechado por ter cometido o delito previsto no artigo 33, caput, da Lei nº 11.343/06, combinado com o artigo 61, inciso I, do Código Penal, com incidência da Lei nº 8.072/90. Na ocasião, o Magistrado utilizou dos mesmos fundamentos para manter a prisão preventiva em seu desfavor, motivo pelo qual o presente writ não se encontra prejudicado.
+A propósito:
+"A manutenção da custódia cautelar por ocasião de sentença condenatória superveniente não possui o condão de tornar prejudicado o writ em que se busca sua revogação, quando não agregados novos e diversos fundamentos ao decreto prisional primitivo."(AgRg no HC n. 862.197/SC, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 24/6/2024, DJe de 26/6/2024.)
+A análise da decisão que decretou a prisão preventiva permite a conclusão de que a prisão cautelar imposta ao paciente encontra-se devidamente fundamentada em dados concretos extraídos dos autos, que evidenciam a necessidade de encarceramento provisório, notadamente se considerado o fundado receio de reiteração criminosa, uma vez que o paciente: "é reincidente por roubo e está respondendo ação penal por tráfico de drogas na Comarca de Viamão (5033339-43.2024.8.21.0039)"- fl. 92.
+Conforme pacífica jurisprudência desta Corte:
+"como sedimentado em farta jurisprudência desta Corte, maus antecedentes, reincidência ou até mesmo outras ações penais ou inquéritos em curso justificam a imposição de segregação cautelar como forma de evitar a reiteração delitiva e, assim, garantir a ordem pública" (RHC n. 156.048/SC, Rel. Ministro ANTONIO SALDANHA PALHEIRO, Sexta Turma, julgado em 15/02/2022, DJe 18/02/2022)."(AgRg no RHC n. 196.193/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 1/7/2024, DJe de 3/7/2024.)
+Outrossim, conforme a jurisprudência desta Corte, a reincidência justifica a prisão cautelar para a garantia da ordem pública,  (AgRg no HC n. 914.154/SP, relator Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), Sexta Turma, DJe de 16/8/2024); (AgRg no AREsp n. 2.451.465/PR, Minha Relatoria, Quinta Turma, DJe de 13/8/2024); (AgRg no RHC n. 198.668/MG, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe de 3/7/2024.); (AgRg no RHC n. 192.068/MG, relator Ministro Joel Ilan Paciornik, Quinta Turma, DJe de 26/6/2024)  .
+Não há que se falar em possibilidade de aplicação de medidas cautelares diversas da prisão, pois há nos autos elementos hábeis a recomendar a manutenção de sua custódia cautelar.
+Ante o exposto, denego o habeas corpus.
+Publique-se. Intimem -se.
+EMENTA
