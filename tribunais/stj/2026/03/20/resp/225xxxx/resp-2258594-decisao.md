@@ -1,0 +1,42 @@
+DECISÃO
+Trata-se de recurso especial interposto por ARCHIMEDES CARRILHO, com respaldo nas alíneas "a" e "c" do permissivo constitucional, contra acórdão do TRIBUNAL REGIONAL FEDERAL DA 4ª REGIÃO assim ementado (e-STJ fl. 143):
+APOSENTADORIA PREVIDENCIÁRIA. TRANSFORMAÇÃO EM BENEFÍCIO COM TEMPO DE SERVIÇO MENOR. SITUAÇÃO CONSOLIDADA PELO DECURSO DO TEMPO. PRINCÍPIO DA SEGURANÇA JURÍDICA.
+Não tem o segurado da Previdência Social, após obter aposentadoria, por preenchidos os requisitos legais, direito de transformar, muitos anos depois, esse benefício em outra aposentadoria com tempo de serviço menor, a qual, por sua livre vontade, deixou de requerer no momento oportuno, mormente considerando que a situação se consolidou ao longo do tempo, devendo ser mantido pelo princípio da segurança jurídica.
+Embargos de declaração rejeitados (e-STJ fls. 159/180).
+Novos embargos de declaração providos para suprir omissão, mas mantido o acórdão em sua conclusão, assim ementado (e-STJ fl. 191):
+EMBARGOS DECLARATÓRIOS. OMISSÃO
+Cabem embargos declaratórios para suprir omissão de julgado, mesmo que mantido o acórdão em sua conclusão.
+Em suas razões, a parte recorrente aponta, além de dissídio jurisprudencial, vulneração dos arts. 4º da Lei n. 6.950/1981; 122 e 144 da Lei n. 8.213/1991; e da Lei n. 7.787/1989, sustentando que possui direito adquirido ao recálculo do benefício, considerando os 36 últimos salários de contribuição, corrigidos mês a mês, sem a redução do teto de 20 para 10 salários mínimos, conforme a Lei n. 6.950/1981 e a Lei n. 8.213/1991.
+Afirma que "o segurado preencheu todos os requisitos para a aposentadoria em 02/07/1989, ou seja, antes da edição da Lei nº 7.787/89, que reduziu o teto do salário de beneficio para 10 (dez) mínimos" (e-STJ fl. 205).
+Segundo defende não se trata de sistema híbrido, "independente de o benefício ter sido concedido em 08.01.1992, com sua RMI calculada de acordo com as regras previstas na Lei nº 8.213/91, existindo a retroação para 01.07.1989, a fim de que ela seja recalculada com base na Lei nº 6.950/81, ser-lhe-á aplicado o artigo 144, com a observância do disposto no seu parágrafo único" (e-STJ fl. 209).
+Requer ainda, caso seja dado provimento, a remessa dos autos ao Tribunal de origem para julgar o pedido sobre "o direito à incidência da recomposição do excedente aos tetos (por ocasião da revisão), glosados" (e-STJ fl. 211).
+Sem contrarrazões. Juízo positivo de admissibilidade pelo Tribunal de origem às e-STJ fls. 229 e 300.
+Passo a decidir.
+Inicialmente,
+Nota-se que a instância ordinária dirimiu a controvérsia, relativa à demanda, utilizando-se de fundamentos constitucionais e infraconstitucionais, ambos suficientes e autônomos à preservação do acórdão recorrido. Contudo, o ora recorrente não cuidou de interpor o devido recurso extraordinário, atraindo, assim, a incidência da Súmula 126 do STJ.
+Ademais, a pretensão recursal não pode ser conhecida, pois não foram impugnados todos os fundamentos do acórdão recorrido, os quais destaco (e-STJ fl. 141):
+A questão debatida no presente feito - alegado direito do segurado da Previdência Social, que, tendo preenchido os requisitos legais, obteve aposentadoria por tempo de serviço e pretende anos depois transformar essa aposentadoria em outra com tempo de serviço menor, a qual, por sua livre vontade, deixou de requerer no momento oportuno - já foi examinada, a meu ver com acerto, pelo Supremo Tribunal Federal, 2ª Turma, em tempos recentes, em sentido desfavorável ao segurado. Confira-se:
+CONSTITUCIONAL. PREVIDENCIÁRIO. APOSENTADORIA.
+I.- Aposentadoria concedida com proventos integrais, tendo em consideração o preenchimento dos requisitos legais exigidos. Pretensão de transformação do benefício com proventos proporcionais: impossibilidade.
+II.- Negativa de trânsito ao RE. Agravo não provido (Ag. Reg. no RE nº 352.391-SP, Orlando Dias vs. Instituto Nacional do Seguro Social, rel. Min. Carlos Velloso, D.J. de 03-02-2006).
+Entendimento diverso, aliás, viria de encontro ao princípio da segurança jurídica, pelo qual é interditada a modificação de situações jurídicas consolidadas ao longo do tempo, ainda mais em casos como o dos autos, em que o segurado, obtendo o benefício em 08-01-1992 (fls. 32), só veio em julho de 2008 (fl. 3) a postular a alteração do seu benefício, passados mais de três lustros.
+Repelido assim o pedido principal do autor, fica prejudicado o pedido por ele reiterado em apelação - readequação do benefício aos tetos das emenda constitucionais nºs 20 e 41 -, sendo certo que, na petição inicial, o autor deixou evidenciado que esse último pedido só deveria ser apreciado se acolhido o principal (cf. petição inicial, fls. 15, subitem 2.1).
+Por sua vez, o recurso especial limitou-se a defender que possui direito adquirido ao recálculo do benefício, considerando os 36 últimos salários de contribuição, corrigidos mês a mês, sem a redução do teto de 20 para 10 salários mínimos, conforme a Lei n. 6.950/1981 e a Lei n. 8.213/1991, a evidenciar, pelo cotejo entre as razões do recurso e do acórdão, o desencontro entre o que foi decidido e a pretensão recursal deduzida.
+A falta de pertinência entre as razões do recurso especial e a decisão questionada revela-se apta a atrair o óbice contido na Súmula 284 do STF ("É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia"), pois não é possível conhecer de recurso especial que invoca como violado dispositivo de lei federal que não possui comando normativo apto a infirmar a tese adotada pelo acórdão recorrido.
+Nesse sentido:
+PROCESSUAL CIVIL. MANDADO DE SEGURANÇA. AGRAVO REGIMENTAL. DECISÃO MONOCRÁTICA. INDEFERIMENTO LIMINAR DA AÇÃO. INCOMPETÊNCIA DO STJ PARA CONHECER ORIGINARIAMENTE DO WRIT. VEICULAÇÃO DE RAZÕES DISSOCIADAS. APLICAÇÃO DA SÚMULA 284/STF. PRECEDENTES DO STJ. AGRAVO REGIMENTAL DO IMPETRANTE NÃO CONHECIDO.
+1. Aplica-se o óbice da Súmula 284/STF quando o recurso veicular razões dissociadas dos fundamentos da decisão recorrida.
+2. No caso, a decisão agravada apenas reconheceu a incompetência do STJ, por não se configurar a hipótese do art. 105, I, b da CF/88, matéria não recorrida.
+3. Agravo Regimental do Impetrante não conhecido.
+(AgRg no MS 19.557/SP, Rel. Ministro NAPOLEÃO NUNES MAIA FILHO, PRIMEIRA SEÇÃO, julgado em 14/12/2016, DJe 2/2/2017).
+PROCESSUAL CIVIL. RECURSO ESPECIAL. VIOLAÇÃO DO ART. 535 DO CPC/1973. NÃO OCORRÊNCIA. FUNDAMENTAÇÃO RECURSAL DEFICIENTE. SÚMULA 284 DO STF.
+1. Conforme estabelecido pelo Plenário do STJ, "aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas, até então, pela jurisprudência do Superior Tribunal de Justiça" (Enunciado Administrativo n. 2).
+2. O acolhimento de recurso especial por violação ao art. 535 do CPC/1973 pressupõe a demonstração de que a Corte de origem, mesmo depois de provocada mediante embargos de declaração, deixou de sanar vício de integração contido em seu julgado, o que não ocorreu na espécie.
+3. Não é possível conhecer de recurso especial que invoca como violado dispositivo de lei federal que não possui comando normativo apto a infirmar a tese adotada pelo acórdão recorrido. Inteligência da Súmula 284 do STF.
+4. Agravo interno desprovido.
+(AgInt no AREsp 290.622/MG, de minha relatoria, PRIMEIRA TURMA, julgado em 02/05/2017, DJe 20/06/2017).
+Além disso, "(..) como a fundamentação supra é apta, por si só, para manter o decisum combatido e não houve contraposição recursal ao ponto, aplica-se na espécie, por analogia, o óbice da Súmula 283/STF: "É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles."" (REsp 1.666.566/RJ, Rel. Ministro HERMAN BENJAMIN, Segunda Turma, julgado em 06/06/2017, DJe 19/06/2017).
+Ante o exposto, com base no art. 255, § 4º, I, do RISTJ, NÃO CONHEÇO do recurso especial.
+Caso exista nos autos prévia fixação de honorários sucumbenciais pelas instâncias de origem, majoro, em desfavor da parte recorrente, em 10% (dez por cento) o valor já arbitrado (na origem), nos termos do art. 85, § 11, do CPC/2015, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo, bem como os termos do art. 98, § 3º, do mesmo diploma legal.
+Publique-se. Intimem-se.
+ EMENTA
