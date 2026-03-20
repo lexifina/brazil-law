@@ -1,0 +1,16 @@
+DECISÃO
+Trata-se de recurso especial no qual LACTICÍNIOS TIROL LTDA se insurgiu contra o acórdão do TRIBUNAL REGIONAL FEDERAL DA 4ª REGIÃO assim ementado (fl. 659):
+MANDADO DE SEGURANÇA PREVENTIVO CONTRA O REGIME JURÍDICO INSTITUÍDO PELA LEI Nº 14.789, DE 2023. PRETENDIDA EXCLUSÃO DO CRÉDITO PRESUMIDO DE ICMS DA BASE DE CÁLCULO DO IRPJ E DA CSLL, COM BASE NO PACTO FEDERATIVO E JULGAMENTO DOS ERESP Nº 1.517.462/PR DO STJ. DESCABIMENTO DE MANDADO DE SEGURANÇA CONTRA LEI EM TESE. DENEGAÇÃO DO WRIT.
+Os embargos de declaração opostos foram rejeitados (fls. 666/670).
+Em suas razões, a parte recorrente afirma (fl. 689) :
+Caso este Egrégio Tribunal entenda pela inocorrência de violação ao artigo 1.022, incisos II e III do Código de Processo Civil ou pela inclusão no acórdão dos elementos que a parte embargante suscitou (artigo 1.025 do CPC/2015), pede a Recorrente que o presente Recurso Especial seja recebido por esta Egrégia Turma, conhecido e provido para, reformando o acórdão recorrido, reconhecer o cabimento do mandado de segurança em tela, impetrado para assegurar o direito da Recorrente de excluir o crédito presumido de ICMS da base de cálculo do IRPJ e da CSLL após a vigência da Lei nº 14.789/2023, de sorte a restabelecer a sentença proferida em primeira instância que concedeu a segurança pleiteada.
+A parte adversa apresentou contrarrazões (fls. 699/703).
+O recurso foi admitido às fls. 704.
+É o relatório.
+A questão debatida nos autos foi afetada à Primeira Seção do Superior Tribunal de Justiça para ser decidida sob o rito de recursos repetitivos (Tema 1.416/STJ), e foi assim delimitada:
+Definir se os créditos presumidos do Imposto sobre Circulação de Mercadorias e Serviços - ICMS, concedidos pelos Estados-membros como incentivo fiscal à pessoa jurídica, podem ser excluídos das bases de cálculo do Imposto sobre a Renda de Pessoa Jurídica - IRPJ e da Contribuição Social sobre o Lucro Líquido - CSLL, nos regimes jurídicos anterior e posterior à Lei n. 14.789/2023. (REsps 2.221.127/PE, 2.171.374/RS, 2.188.361/RS, e 2.188.282/PR, relatora Ministra Regina Helena Costa ).
+Nos termos do art. 34, XXIV, c/c o art. 256-L, I, ambos do Regimento Interno do Superior Tribunal de Justiça, a admissão de recurso especial como representativo da controvérsia impõe a devolução ao Tribunal de origem dos processos em que foram interpostos recursos cuja matéria identifique-se com o tema afetado, para nele permanecerem suspensos até o fim do julgamento qualificado.
+O envio do recurso especial a esta Corte Superior deve ocorrer somente após o esgotamento da instância ordinária, formalizado com o novo julgamento pelo Tribunal de origem, quando então será possível examinar, no âmbito do STJ, as matérias jurídicas que eventualmente permanecerem controvertidas. Essa cautela também evita o fracionamento do recurso e previne eventual violação ao princípio da unicidade recursal, que veda a interposição simultânea ou sucessiva de recursos contra a mesma decisão.
+Ante o exposto, determino a devolução dos autos, com a devida baixa nesta Corte Superior, a fim de que, em observância aos arts. 1.039 a 1.041 do Código de Processo Civil (CPC), o Tribunal de origem proceda nos termos do art. 1.040 e seguinte do mesmo CPC.
+Publique-se. Intimem-se.
+ EMENTA
