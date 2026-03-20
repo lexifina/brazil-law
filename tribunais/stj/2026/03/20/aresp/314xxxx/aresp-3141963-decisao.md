@@ -1,0 +1,24 @@
+DECISÃO
+Trata-se de agravo interposto por MARCOS DE SOUSA ABREU contra decisão do TRIBUNAL REGIONAL FEDERAL DA 1ª REGIÃO que inadmitiu o recurso especial.
+O juízo de primeiro grau condenou o agravante à pena de 16 (dezesseis) anos, 01 (um) mês e 06 (seis) dias de reclusão, em regime inicial fechado, pela prática do crime do art. 159, caput, do Código Penal.
+O Tribunal de origem deu parcial provimento à apelação interposta por MARCOS DE SOUSA ABREU para reduzir a pena privativa de liberdade de 16 (dezesseis) anos, 01 (um) mês e 06 (seis) dias de reclusão para 13 (treze) anos, 09 (nove) meses e 18 (dezoito) dias de reclusão, mantidos os demais termos da sentença recorrida.
+Interposto recurso especial, o Tribunal Regional Federal da 1ª Região inadmitiu o recurso, com amparo na Súmula nº 7/STJ, sob o fundamento de que as pretensões deduzidas  revisão da dosimetria da pena e afastamento da agravante do emprego de explosivo  demandariam reexame do acervo fático-probatório, providência vedada na via excepcional (fls. 1780-1783).
+Nas razões do agravo, a Defensoria Pública da União sustenta, em síntese: (i) inaplicabilidade da Súmula nº 7/STJ, pois o recurso especial não buscaria rediscutir fatos ou provas, mas apenas a correta aplicação do direito; (ii) violação ao art. 59 do CP, pela valoração negativa de elementos inerentes ao próprio tipo penal de extorsão mediante sequestro (premeditação, consequências patrimoniais e circunstâncias do crime), configurando bis in idem; e (iii) incorreta extensão da agravante do art. 61, incico II, "d", do CP ao recorrente, ausente prova do vínculo subjetivo com o emprego do artefato explosivo (fls. 1787-1794).
+O Ministério Público Federal manifestou-se pelo não conhecimento do agravo e, subsidiariamente, pelo não provimento do recurso especial (fls. 1819-1827).
+É o relatório. DECIDO.
+O agravo em recurso especial tem por finalidade a demonstração do desacerto da decisão de inadmissibilidade do recurso especial proferida pelo Tribunal de origem, de forma a viabilizar o exame do recurso especial por esta Corte de Justiça.
+Assim, o agravante tem o ônus de refutar especificamente cada um dos óbices recursais aplicados pela decisão de inadmissibilidade do recurso especial, em respeito ao princípio da dialeticidade.
+No caso concreto, a decisão agravada não conheceu do recurso especial por aplicação da Súmula n. 7, STJ.
+Quanto à Súmula n. 7, STJ, incumbe ao agravante demonstrar a desnecessidade da análise do conjunto fático-probatório, deixando claro que os fatos foram devidamente consignados no acórdão recorrido. Nesse sentido: AgRg no AREsp n. 1.207.268/MG, Quinta Turma, Rel. Min. Reynaldo Soares da Fonseca .
+No caso, o agravante limitou-se a reiterar, em termos genéricos, que o recurso especial não pretende revolver fatos e provas, mas apenas conferir a correta aplicação do direito. Essa alegação, desacompanhada de demonstração concreta e específica do equívoco na aplicação do óbice sumular ao caso, não satisfaz o requisito de impugnação efetiva exigido pela jurisprudência desta Corte.
+Desse modo, a ausência de impugnação adequada dos fundamentos empregados pela Corte de origem para impedir o trânsito do recurso especial, nos termos do art. 932, inciso III, do CPC, e do art. 253, parágrafo único, inciso I, do RISTJ obsta o conhecimento do agravo, cujo único propósito é demonstrar a inaplicabilidade dos motivos indicados na decisão de inadmissibilidade do recurso por meio de impugnação específica de cada um deles.
+A propósito:
+"AGRAVO REGIMENTAL EM AGRAVO EM RECURSO ESPECIAL. IMPUGNAÇÃO DEFICIENTE DA DECISÃO DE INADMISSÃO NA ORIGEM. INOBSERVÂNCIA DO COMANDO LEGAL INSERTO NOS ARTS. 932, III, DO CPC/2015 E 253, PARÁGRAFO ÚNICO, I, DO RISTJ. TENTATIVA DE ACRESCER ARGUMENTOS, EM SEDE DE AGRAVO REGIMENTAL, COM VISTAS À IMPUGNAÇÃO DOS FUNDAMENTOS TIDOS COMO INATACADOS. INADMISSIBILIDADE, PRECLUSÃO CONSUMATIVA. PLEITO DE CONCESSÃO DE HABEAS CORPUS DE OFÍCIO. DESCABIMENTO.
+1. A decisão que inadmite o recurso especial na origem não é formada por capítulos autônomos, mas por um único dispositivo, razão pela qual deve ser impugnada na sua integralidade, ou seja, em todos os seus fundamentos (EAREsp n. 831.326/SP, Ministro Luis Felipe Salomão, Corte Especial, DJe 30/11/2018), inclusive, de forma específica, suficiente e pormenorizada (AgRg no AREsp n. 1.234.909/SP, Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe 2/4/2018).
+2. No caso, a defesa do agravante não logrou impugnar, de forma efetiva, a íntegra da decisão de inadmissão na origem.
+ ..
+5. Agravo regimental improvido."
+(AgRg no AREsp n. 2.404.539/CE, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 12/9/2023, DJe de 21/9/2023.)
+Diante do exposto, nos termos do art. 253, parágrafo único, inciso I, do Regimento Interno do Superior Tribunal de Justiça, não conheço do agravo em recurso especial.
+Publique-se. Intimem-se.
+ EMENTA
