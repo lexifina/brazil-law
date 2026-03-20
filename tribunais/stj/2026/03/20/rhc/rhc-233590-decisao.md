@@ -1,0 +1,42 @@
+DECISÃO
+Trata-se de recurso em habeas corpus com pedido liminar interposto por ANTHONY KAUÃ BATISTA GOMES contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAIS.
+Consta dos autos que o recorrente foi preso em flagrante em 30/12/2025, convertida a custódia em preventiva, pela suposta prática da conduta descrita nos arts. 33 e 35 da Lei n. 11.343/2006.
+O recorrente aduz que o acórdão recorrido denegou a ordem e manteve a preventiva, apesar das condições pessoais favoráveis.
+Assevera que é primário, possui trabalho lícito, residência fixa e não ostenta antecedentes, com tornozeleira vinculada à medida protetiva já revogada.
+Informa que o inquérito instaurado em junho de 2025 para apurar a prática do crime de tráfico foi arquivado por atipicidade, reforçando a ausência de dedicação a atividades criminosas.
+Defende a plausibilidade de incidência da causa de diminuição do art. 33, § 4º, da Lei n. 11.343/2006, tendo em vista a primariedade e os bons antecedentes.
+Entende que a manutenção da prisão viola os princípios da proporcionalidade e da homogeneidade, diante da perspectiva de regime mais brando e de eventual substituição da pena.
+Pondera que a gravidade abstrata não justifica a cautelar extrema e que a prisão não pode servir como punição antecipada, em afronta ao estado de inocência.
+Alega que inexiste demonstração do perigo gerado pelo estado de liberdade, exigido pelo art. 312 do Código de Processo Penal - CPP após a Lei n. 13.964/2019.
+Aduz que o crime não envolveu violência ou grave ameaça direta, sendo insuficientes presunções para sustentar o periculum libertatis.
+Afirma que medidas cautelares diversas da prisão são adequadas e suficientes para acautelar o processo, conforme o art. 282, § 6º, c/c o art. 319, ambos do CPP.
+Requer, liminarmente e no mérito, a revogação da prisão preventiva ou a substituição da custódia por medidas cautelares alternativas.
+É o relatório.
+Quanto à alegada desproporcionalidade da prisão cautelar, "trata-se de prognóstico que somente será confirmado após a conclusão do julgamento da ação penal, não sendo possível inferir, nesse momento processual e na estreita via ora adotada, o eventual regime prisional a ser fixado em caso de condenação (e consequente violação do princípio da homogeneidade)" (AgRg no RHC n. 144.385/MG, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 13/4/2021, DJe de 19/4/2021).
+A prisão cautelar foi assim fundamentada (fls. 107-108, grifei):
+O "perigo da liberdade" (art. 312, "caput" do CPP), de igual modo, restou evidenciado.
+Isto porque a gravidade concreta do crime supostamente praticado pelo conduzido restou, ao menos nesse momento, demonstrada.
+Muito considerável a quantidade da droga apreendida. Trata-se, ainda, de um suposto delito permanente, de tal modo que a liberação do autuado lhe permitiria a continuidade de sua empreitada supostamente criminosa.
+Ressalto que a região abrangida pela Comarca de Teófilo Otoni/MG vem enfrentando um gravíssimo problema de segurança pública, em razão de conflitos armados e extremamente graves (dos quais ocorreram alguns homicídios, inclusive), envolvendo duas facções criminosas, uma delas vinculada ao "Comando Vermelho" (" Família Teófilo Otoni") e outra associada ao "Primeiro Comando da Capital".
+As facções estão promovendo uma verdadeira guerra e espalhando o terror na cidade de Teófilo Otoni/MG e região, motivadas por disputas de território e de ponto de venda de drogas.
+Não estou dizendo, mediante juízo de certeza, que o autuado integra uma facção, mas neste contexto de violência a mercancia de drogas, em princípio pelo autuado, reforça sua periculosidade, de modo que, infelizmente, sua liberdade, ao menos por ora, representaria um substancial risco atual à "ordem pública" e à incolumidade das pessoas que habitam a região desta Comarca.
+Assim consta do acórdão recorrido (fl. 154, grifei):
+Ainda, ressalta-se o contexto no qual o crime foi supostamente praticado, eis que, além da quantidade de drogas - 3.797,04kg (três quilos e setecentos e noventa e sete gramas e quatro centigramas) de maconha (doc. n.º 08, fls. 14/22) - foram também apreendidos petrechos comumente associados à mercancia ilícita, embalagem para dolagem, radiocomunicador e câmeras de vigilância (doc. de ordem nº 08, fls. 34/35).
+Outrossim, embora primário (doc. de ordem nº 08, fls. 63/64), o paciente estava usufruindo benefício de liberdade provisória sob monitoração eletrônica, demonstrando desprezo pela determinação judicial.
+A leitura do decreto prisional revela que a custódia cautelar está suficientemente fundamentada na necessidade de garantir a ordem pública, considerando a gravidade da conduta delituosa, pois, por ocasião da prisão em flagrante, foram apreendidos 3.797,04 g de maconha.
+Registre-se que, na recente alteração promovida no Código de Processo Penal, pela Lei n. 15.272/2025, o legislador determinou, no art. 312, § 3º, III, que, para a aferição da periculosidade do agente e do consequente risco à ordem pública, devem ser consideradas a natureza, a quantidade e a variedade de drogas apreendidas.
+O entendimento firmado pelas instâncias ordinárias encontra-se, portanto, em consonância com a legislação processual vigente e com a jurisprudência consolidada do Superior Tribunal de Justiça, segundo a qual a quantidade, a natureza e a diversidade das substâncias entorpecentes apreendidas constituem fundamentos idôneos para a decretação da prisão preventiva.
+Sobre o tema:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. PROCESSUAL PENAL. TRÁFICO DE DROGAS. NEGATIVA DE AUTORIA. IMPOSSIBILIDADE DE APRECIAÇÃO NA VIA ELEITA. PRISÃO PREVENTIVA. GRAVIDADE CONCRETA DOS FATOS. NECESSIDADE DE RESGUARDAR A ORDEM PÚBLICA. FUNDAMENTAÇÃO SUFICIENTE. PRECEDENTES. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. A tese de negativa de autoria não comporta conhecimento, por demandar a reapreciação do conjunto fático-probatório dos autos, inadmissível na via do habeas corpus. Precedentes.
+2. Hipótese em que a prisão preventiva foi adequadamente fundamentada a partir da análise particularizada da situação fática dos autos, tendo sido amparada na especial gravidade do delito, evidenciada a partir da quantidade de substância entorpecente apreendida, o que justifica a custódia cautelar, nos termos da jurisprudência do Superior Tribunal de Justiça, como forma de resguardar a ordem pública.
+3. A suposta existência de condições pessoais favoráveis, por si só, não assegura a desconstituição da custódia antecipada, caso estejam presentes os requisitos autorizadores da custódia cautelar, como ocorre na hipótese em apreço.
+4. Agravo regimental não provido.
+(AgRg no HC n. 896.066/SP, relator Ministro Otávio de Almeida Toledo - Desembargador convocado do TJSP, Sexta Turma, julgado em 24/6/2024, DJe de 27/6/2024, grifei.)
+Ainda, consta dos autos que o recorrente teria praticado o crime apurado enquanto estava em liberdade provisória sob monitoração eletrônica, evidenciando o desprezo pela determinação judicial e o risco de reiteração delitiva, o que reforça a necessidade da segregação cautelar.
+Além disso, eventuais condições pessoais favoráveis não garantem a revogação da prisão processual se estiverem presentes os requisitos da custódia cautelar, como no presente caso. No mesmo sentido: AgRg no HC n. 940.918/RS, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 7/10/2024, DJe de 10/10/2024; e AgRg no HC n. 917.903/SP, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 23/9/2024, DJe de 30/9/2024.
+Ademais, havendo a indicação de fundamentos concretos para justificar a custódia cautelar, não se revela cabível a aplicação de medidas cautelares alternativas à prisão, visto que insuficientes para resguardar a ordem pública. A esse respeito: AgRg no HC n. 801.412/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 7/3/2023, DJe de 13/3/2023; AgRg no HC n. 771.854/ES, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 6/3/2023, DJe de 9/3/2023.
+Por fim, " q uando a necessidade da prisão preventiva estiver demonstrada pelos fatos e pressupostos contidos no art. 312 do CPP, não há afronta ao princípio da presunção de inocência, tampouco antecipação ilegal da pena" (AgRg no RHC n. 188.488/SP, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 15/4/2024, DJe de 18/4/2024).
+Ante o exposto, nos termos do art. 34, XVIII, b, do Regimento Interno do Superior Tribunal de Justiça, nego provimento ao recurso em habeas corpus.
+Publique-se. Intimem-se.
+ EMENTA
