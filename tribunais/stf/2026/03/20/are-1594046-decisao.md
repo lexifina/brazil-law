@@ -1,0 +1,51 @@
+DECISÃO
+
+Trata-se de Agravo em Recurso Extraordinário interposto em face de acórdão proferido pelo Superior Tribunal de Justiça, assim ementado (Doc. 58, fl. 1):
+
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. EXECUÇÃO. ROUBOS MAJORADOS E LATROCÍNIO TENTADO. PRISÃO DOMICILIAR. FILHOS MENORES. CONDENADA DE ALTA PERICULOSIDADE. SITUAÇÃO EXCEPCIONALÍSSIMA. GRAVIDADE CONCRETA. AGRAVO REGIMENTAL NÃO PROVIDO. 1. A jurisprudência do Superior Tribunal de Justiça reconhece a impossibilidade de concessão de prisão domiciliar quando o crime envolve violência ou grave ameaça, mesmo que a ré seja mãe de criança menor de 12 anos (ut, AgRg no HC n. 995.174/PR, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 5/8/2025, DJEN de 14/8/2025 .) 2. Consta dos autos que a agravante é pessoa de alta periculosidade, com pena de 53 anos e 47 dias de reclusão, por crimes graves, cometidos com privação de liberdade de suas vítimas, emprego tanto de arma branca como de fogo, majorada pelo resultado morte (modalidade tentada) e que ao tempo do crime já era mãe e abandonava seu filho para perpetrar com seus comparsas os graves crimes planejados por seu grupo criminoso. 3. Essas circunstâncias demonstram a periculosidade excepcional da agente e tem o condão de impedir a concessão da prisão domiciliar à luz do art. 318, V, do CPP. 4. Agravo regimental não provido.
+Consta nos autos que o Ministério Público do Estado de Goiás interpôs Agravo em Execução contra decisão que concedeu para ANGELINNE ESTHER LOPES DE OLIVEIRA o direito de cumprir pena em prisão domiciliar.
+O TJGO deu provimento ao recurso mantendo “a apenada ANGELINNE ESTHER LOPES DE OLIVEIRA no regime FECHADO, sem direito, neste momento, à prisão domiciliar” (Doc. 10, fl. 9).
+Opostos embargos de declaração, foram eles rejeitados (Doc. 15).
+Interposto recurso especial (Doc. 17), foi ele inadmitido pelo Tribunal de origem.
+No Superior Tribunal de Justiça, o agravo contra a referida decisão foi conhecido, mas teve seu provimento negado (Doc. 48).
+Interposto agravo, foi ele não provido pela Quinta Turma do STJ (Doc. 58).
+Com amparo no art. 102, III, “a”, da CF/88, a reeducanda interpõe Recurso Extraordinário, no qual sustenta que o acórdão violou os arts. 5º, XLV e 227 da CF/88 (Doc. 64).
+Nas razões recursais, argumenta que “a recorrente é a única responsável por ambos os filhos menores, inclusive um deles foi condenado nos mesmos autos processuais em que ela foi condenada, e sua imprescindibilidade fica ainda mais latente face o diagnóstico de um dos menores como portador de Transtorno do Espectro Autista”(Doc. 64, fl. 5).
+Sustenta que “[a] negativa da prisão domiciliar à recorrente, o que fará que ela seja recolhida ao cárcere, ao regime fechado constituirá verdadeira transferência do cumprimento da pena para os menores, que sofrerão com a absoluta ausência da mãe em suas vidas”(Doc. 64, fl. 5).
+Requer, assim, o conhecimento e o provimento do recurso.
+O STJ não admitiu o recurso, aos fundamentos de que (i) incide ao caso a Súmula 279/STF e (ii) para se chegar à conclusão contrária à adotada pelo órgão julgador, seria necessário o reexame do conjunto fático-probatório (Doc. 77).
+No Agravo, a recorrente refuta a ocorrência dos referidos óbices processuais (Doc. 82).
+É o relatório. DECIDO.
+
+Os recursos extraordinários somente serão conhecidos e julgados, quando essenciais e relevantes as questões constitucionais a serem analisadas, sendo imprescindível ao recorrente, em sua petição de interposição de recurso, a apresentação formal e motivada da repercussão geral que demonstre, perante o SUPREMO TRIBUNAL FEDERAL, a existência de acentuado interesse geral na solução das questões constitucionais discutidas no processo, que transcenda a defesa puramente de interesses subjetivos e particulares.
+A obrigação da parte recorrente de apresentar, formal e motivadamente, a repercussão geral que demonstre, sob o ponto de vista econômico, político, social ou jurídico, a relevância da questão constitucional debatida que ultrapasse os interesses subjetivos da causa, conforme exigência constitucional, legal e regimental (art. 102, § 3º, da CF/88, c/c art. 1.035, § 2º, do Código de Processo Civil de 2015 e art. 327, § 1º, do Regimento Interno do Supremo Tribunal Federal), não se confunde com meras invocações, desacompanhadas de sólidos fundamentos e de demonstração dos requisitos no caso concreto, de que (a) o tema controvertido é portador de ampla repercussão e de suma importância para o cenário econômico, político, social ou jurídico; (b) a matéria não interessa única e simplesmente às partes envolvidas na lide; ou, ainda, de que (c) a jurisprudência do SUPREMO TRIBUNAL FEDERAL é incontroversa no tocante à causa debatida, entre outras alegações de igual patamar argumentativo (ARE 691.595-AgR, Rel. Min. RICARDO LEWANDOWSKI, Segunda Turma, DJe de 25/2/2013; ARE 696.347-AgR-segundo, Rel. Min. CÁRMEN LÚCIA, Segunda Turma, DJe de 14/2/2013; ARE 696.263-AgR, Rel. Min. LUIZ FUX, Primeira Turma, DJe de 19/2/2013; AI 717.821-AgR, Rel. Min. JOAQUIM BARBOSA, Segunda Turma, DJe de 13/8/2012).
+Eis os fundamentos da reeducanda para sustentar a repercussão geral da matéria (Doc. 64, fl. 3):
+
+Quanto a necessária repercussão geral, há violação do art. 5º, XLV e 227 da Constituição Federal, o que constitui negativa de prestação jurisdicional, o que de certo, é relevante para a ordem constitucional.
+
+No ponto, entendo não ter havido demonstração fundamentada da presença de repercussão geral, sendo incabível, portanto, o seguimento do Recurso Extraordinário.
+Além disso, no caso dos autos, o STJ afastou a tese da parte recorrente, com base nos seguintes fundamentos (Doc. 58, fls. 4-8):
+
+Os elementos existentes nos autos informam que a recorrente foi condenada à pena de 53 anos, 1 mês e 17 dias de reclusão pela prática de crimes de roubos majorados e latrocínio tentado.
+
+A defesa sustenta que a apenada é mãe de duas crianças menores de 12 anos e por isso preenche os requisitos para a prisão domiciliar, destacando que é presumível a imprescindibilidade da mãe para os cuidados dos filhos. Sobre o tema, o TJGO assim se pronunciou
+[...]
+A jurisprudência do Superior Tribunal de Justiça reconhece a impossibilidade de concessão de prisão domiciliar quando o crime envolve violência ou grave ameaça, mesmo que a ré seja mãe de criança menor de 12 anos (ut, (ut, AgRg no HC n. 995.174 /PR, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 5/8/2025, DJEN de 14/8/2025.)
+[...]
+Em arremate, registra-se que o julgado apontado pela defesa para amparar seu pedido em nada se assemelha ao caso concreto, pois refere-se à prisão decorrente da prática de crime sem violência ou grave ameaça.
+Portanto, nenhuma censura merece o decisório ora recorrido, que deve ser mantido pelos seus próprios e jurídicos fundamentos.
+
+Verifica-se que o acórdão impugnado, com fundamento na legislação ordinária e no substrato fático constante dos autos, afastou as teses apontadas pela defesa.
+Nesse contexto, o exame da pretensão veiculada neste apelo situa-se no contexto normativo infraconstitucional, de forma que as ofensas à CONSTITUIÇÃO FEDERAL são meramente indiretas (ou mediatas).
+Não bastasse, a reversão do acórdão, nos termos propostos pela defesa, demanda o reexame do conjunto fático-probatório dos autos, providência inviável em sede recursal extraordinária. Incide, portanto, o óbice da Súmula 279 desta CORTE: Para simples reexame de prova não cabe recurso extraordinário.
+Nesse sentido, julgado deste SUPREMO TRIBUNAL FEDERAL:
+
+AGRAVO REGIMENTAL NO HABEAS CORPUS. CRIMES DE HOMICÍDIO QUALIFICADO TENTADO, AMEAÇA E LESÃO CORPORAL. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DE TODOS OS FUNDAMENTOS DA DECISÃO AGRAVADA. WRIT SUCEDÂNEO DE RECURSO OU REVISÃO CRIMINAL. PRISÃO PREVENTIVA. GARANTIA DA ORDEM PÚBLICA. GRAVIDADE CONCRETA DO DELITO. RÉ FORAGIDA. APLICAÇÃO DA LEI PENAL. FUNDAMENTAÇÃO IDÔNEA. REEXAME DE FATOS E PROVAS. INADMISSIBILIDADE. PRISÃO DOMICILIAR. NÃO PREENCHIMENTO DOS REQUISITOS LEGAIS. MANIFESTA ILEGALIDADE OU TERATOLOGIA NÃO IDENTIFICADAS. 1. Na linha da orientação jurisprudencial desta Suprema Corte, o Agravante tem o dever de impugnar, de forma específica, todos os fundamentos da decisão agravada, sob pena de não provimento do agravo regimental. Precedentes. 2. Inadmissível o emprego do habeas corpus como sucedâneo de recurso ou revisão criminal. Precedentes. 3. Na esteira do entendimento das instâncias anteriores e da decisão agravada, as circunstâncias concretas da prática do delito indicam, pelo modus operandi, a gravidade em concreto de delito, a justificar o decreto prisional para resguardar a ordem pública, nos termos do art. 312 do CPP. 4. O fato de a paciente permanecer foragida constitui causa suficiente para caracterizar risco à aplicação da lei penal a autorizar a decretação da preventiva. Precedentes. 5. Para concluir em sentido diverso das instâncias anteriores e acolher a pretensão defensiva de que a paciente não estaria se furtando à aplicação da lei penal, imprescindíveis o reexame e a valoração de fatos e provas, para o que não se presta a via eleita. Precedentes. 6. A jurisprudência do Supremo Tribunal Federal orienta que “A prisão domiciliar é incabível em crimes praticados com violência ou grave ameaça, nos termos do HC Coletivo 143.641/SP” (Rcl 75.868-ED-AgR, Rel. Min. Gilmar Mendes, Segunda Turma, DJe 07.05.2025). 7. Esta Suprema Corte entende que “A necessidade de aplicação da lei penal caracteriza excepcionalidade apta a justificar o indeferimento da prisão domiciliar requerida com fundamento nos arts. 318 e 318-A do Código de Processo Penal” (HC 241.056-AgR, Rel. Min. Nunes Marques, Segunda Turma, DJe 13.08.2024). 8. Para concluir em sentido diverso das instâncias anteriores, quanto à possibilidade de prisão domiciliar, imprescindíveis o reexame e a valoração de fatos e provas, para o que não se presta a via eleita. Precedentes. 9. Agravo regimental conhecido e não provido. (HC 260345 AgR, Rel. FLÁVIO DINO, Primeira Turma, DJe 29/09/2025)
+
+Diante do exposto, com base no art. 21, § 1º, do RISTF, NEGO SEGUIMENTO AO AGRAVO.
+Publique-se.
+Brasília, 20 de março de 2026.
+
+Ministro ALEXANDRE DE MORAES
+Relator
+Documento assinado digitalmente
