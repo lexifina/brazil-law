@@ -1,0 +1,56 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em favor de TONY DA SILVA GOMES contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE ALAGOAS (Revisão Criminal nº 800886-08.2018.8.02.0000).
+Consta dos autos que o paciente foi condenado à pena total de 18 (dezoito) anos e 06 (seis) meses de reclusão, em razão da prática de homicídio qualificado (art. 121, § 2º, inciso V, do Código Penal).
+O Tribunal de origem julgou parcialmente procedente a revisão criminal, reduzindo a pena para 16 (dezesseis) anos e 06 (seis) meses de reclusão, em regime inicialmente fechado, afastando a valoração negativa da culpabilidade e do comportamento da vítima, mantendo a negativação das circunstâncias e das consequências do crime, e excluindo a condenação ao pagamento de indenização civil, por ausência de pedido formal e de contraditório, ressalvando a via cível (fls. 9-18).
+Neste habeas corpus, o impetrante sustenta ausência de justa causa para a pronúncia e posterior condenação, afirmando inexistirem indícios suficientes de autoria, bem como aponta ilegalidade remanescente na fixação da pena-base por bis in idem e falta de fundamentação concreta na valoração das circunstâncias e das consequências do crime.
+A defesa requer a concessão da ordem para a despronúncia do paciente, na forma do artigo 414 do Código de Processo Penal, e, subsidiariamente, a redução da pena-base, com afastamento das circunstâncias e consequências do crime, por bis in idem e ausência de fundamentação concreta (fls. 7-8).
+As informações foram prestadas às fls. 86-88 e fls. 89-96.
+O Ministério Público Federal manifestou-se, às fls. 100-104, em parecer assim ementado:
+HABEAS CORPUS SUBSTITUTIVO. REVISÃO CRIMINAL. HOMICÍDIO QUALIFICADO (ART. 121, § 2º, INCISO V, DO CÓDIGO PENAL). PEDIDO DE DESPRONÚNCIA. DOSIMETRIA DA PENA. VALORAÇÃO NEGATIVA DAS CIRCUNSTÂNCIAS E CONSEQUÊNCIAS DO CRIME. FUNDAMENTAÇÃO CONCRETA.
+- Nos termos da jurisprudência do STJ "A superveniência de sentença condenatória pelo Tribunal do Júri esvazia a alegação de nulidade da pronúncia, em razão da análise exauriente do conjunto probatório submetido ao contraditório e à ampla defesa. Precedentes.
+- Os fundamentos apresentados para negativar tais circunstâncias mostram-se idôneos, baseados em elementos concretos da conduta criminosa.
+Pelo não conhecimento.
+É o relatório. DECIDO.
+A presente impetração investe contra acórdão, funcionando como substituto do recurso próprio, motivo pelo qual não deve ser conhecida. A 3ª Seção, no âmbito do HC 535.063-SP, de relatoria do Ministro Sebastião Reis Júnior, julgado em 10/06/2020, e o Supremo Tribunal Federal, no julgamento do AgRg no HC 180.365, de relatoria da Ministra Rosa Weber, julgado em 27/03/2020, consolidaram a orientação de que não cabe habeas corpus substitutivo ao recurso legalmente previsto para a hipótese, impondo-se o não conhecimento da impetração, salvo quando constatada a existência de flagrante ilegalidade no ato judicial impugnado.
+Também não vislumbro a presença de coação ilegal que desafie a concessão da ordem de ofício, em observância ao § 2º do artigo 654 do Código de Processo Penal.
+De início, tem-se que, quanto ao pedido de despronúncia, considerando que já há o trânsito em julgado da condenação do paciente pela prática do crime de homicídio qualificado, não se mostra viável tal pedido, uma vez que superados os questionamentos dirigidos à sentença de pronúncia. Nesse sentido:
+"PENAL E PROCESSO PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. 1. REVISÃO CRIMINAL. TRIBUNAL DO JÚRI. NULIDADE DA PRONÚNCIA. MATÉRIA PRECLUSA. 2. VIOLAÇÃO AO PRINCÍPIO DA CORRELAÇÃO. NÃO OCORRÊNCIA. MERO ERRO MATERIAL. ART. 418 DO CPP. 3. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO.
+1. Prevalece no Superior Tribunal de Justiça o entendimento no sentido de que a superveniência de condenação pelo Tribunal do Júri torna prejudicada a apreciação de eventual nulidade na decisão de pronúncia, em virtude do instituto da preclusão.
+2. Não há se falar em violação ao princípio da correlação, porquanto, como é de conhecimento, referido princípio dispõe que o réu se defende dos fatos narrados na denúncia e não da capitulação legal nela inserida. Assim, devidamente identificadas 8 vítimas na inicial acusatória, tem-se que a indicação de apenas 7 revela mero erro material corrigível a qualquer momento, em atenção à disciplina do art. 418 do Código de Processo Penal.
+3. Agravo regimental a que se nega provimento.
+(AgRg no HC n. 872.041/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 4/3/2024, D Je de 7/3/2024.)
+AGRAVO REGIMENTAL EM HABEAS CORPUS. DIREITO PENAL. HOMICÍDIO QUALIFICADO TENTADO. NULIDADE DA PRONÚNCIA. FALTA DE INTERESSE DE AGIR. SENTENÇA DO TRIBUNAL DO JÚRI ANTERIOR À IMPETRAÇÃO. CONSTRANGIMENTO ILEGAL NÃO EVIDENCIADO.
+1. Após a decisão de pronúncia, o agravante foi submetido a julgamento pelo Conselho de sentença, o que resultou na sua condenação. A defesa interpôs recurso de apelação perante a Corte estadual pleiteando a realização de novo júri, nos termos do art. 593, III, "d", do CPP e, posteriormente, impetrou o presente writ arguindo a nulidade da sentença, com base no disposto no art. 413 do CPP. Assim, constata-se que não há interesse de agir.
+2. A condenação pelo Tribunal do Júri prejudica o exame de eventuais nulidades na decisão de pronúncia e de todas as demais anteriores a ela.
+3. Agravo regimental improvido.
+(AgRg no HC n. 761.819/SE, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 16/10/2023, D Je de 20/10/2023.)
+Não por outro motivo, mutatis mutandis, foi também aprovada a Súmula n. 648, STJ:
+"A superveniência da sentença condenatória prejudica o pedido de trancamento da ação penal por falta de justa causa feito em habeas corpus."
+Tudo o que impede a análise aqui posta acerca da decisão de pronúncia, pois a sentença condenatória e o julgamento da subsequente apelação defensiva e revisão criminal na origem constituem novos títulos judiciais que modificaram drasticamente a situação jurídica e tornam ineficaz qualquer manifestação desta Corte Superior, até mesmo pela falta de dialeticidade das razões aqui apresentadas em face dos julgados supervenientes.
+No tocante à pena-base, assim decidiu o Tribunal (fls.13-15):
+ ..  quanto à valoração negativa das circunstâncias do crime, entendo que essa avaliação deve ser mantida, pois considerando o contexto fático do momento e local do delito, se mostra razoável aumentar a pena imposta ao requerente, consoante destacou o Juiz. Veja-se:
+ ..  a referida circunstância judicial deve ser aplicada em desfavor do réu, levando-se em conta que a vítima estava em seu veículo e nada tinha com o assalto e o pior, veio a ser atingida uma criança de apenas oito anos de idade que faleceu em razão do disparo.  ..  (fl. 110) (Grifo Nosso).
+Não poderia ser outra a valoração a ser feita, pois em atenção ao contexto fático dos autos, nota-se que a vítima foi atingida, tão somente, por causa do erro do agente, o qual por estar sendo perseguido, naquela oportunidade, efetuou vários disparos de arma de fogo aleatoriamente e matou uma pessoa de tenra idade, que além de não ter nada a ver com os fatos e não ter podido esboçar reação alguma, tinha toda a vida pela frente.
+Os fatos em apreço, portanto, são bastante depreciativos e justifica a valoração negativa das circunstâncias do crime  ..
+Desta forma, entendo que a negativação das circunstâncias do crime deve ser mantida.
+Quanto às consequências do crime, apesar da fundamentação usada pelo Juiz ser deficiente, já que a morte da vítima, no delito de homicídio qualificado consumado, não pode ser tida como resultado que ultrapassa o tipo penal, porquanto se trata de elemento que integra este, observo, por outro lado, que na valoração das circunstâncias do crime e, em parte, nas consequências do crime, o Magistrado se reportou a um fator que é idôneo para avaliar, de maneira desfavorável ao agente, a circunstância judicial das consequências do crime, que é, justamente, o fato de uma criança de apenas 08 (oito) anos de idade de ter sido morta, em virtude de uma troca de tiros.
+Ora, dúvidas não existem, no sentido de que se a morte de um ser humano já configura uma crueldade, cujos efeitos são irreparáveis, mais repugnante ainda é o assassinato de uma criatura que teria toda a vida pela frente, oportunidade esta que, no entanto, foi eliminada, sem que o garoto pudesse lutar pela própria sobrevivência.
+Não há como desconsiderar este fato e deixar de majorar a pena do ora requerente.
+Verifica-se que os fundamentos apresentados para a valoração negativa das circunstâncias e consequências do crime mostram-se idôneos, baseados em elementos concretos da conduta criminosa, por excederem a tipicidade penal incriminadora.
+Quanto às circunstâncias do delito, ressaltou-se o modus operandi empregado pelo paciente na conduta delitiva, o qual, por estar sendo perseguido, efetuou vários disparos de arma de fogo aleatoriamente, implicando concreto risco à vida de terceiros, matando uma pessoa que não tinh a nada a ver com os fatos. Nesse sentido:
+ ..
+3. "(..) Quanto às circunstâncias do crime, a jurisprudência do STJ admite o desvalor do aludido vetor em razão da execução de disparos em via pública" (HC 536.480/RJ, Rel. Ministro LEOPOLDO DE ARRUDA RAPOSO (DESEMBARGADOR CONVOCADO DO TJ/PE), QUINTA TURMA, DJe 26/11/2019).
+4. "(..) É cediço que a idade da vítima pode ser levada em consideração para a exasperação da pena-base" (HC 614.998/PE, Rel. Ministro RIBEIRO DANTAS, QUINTA TURMA, DJe 20/10/2020).
+ ..
+6. Agravo regimental desprovido.
+(AgRg no AREsp n. 2.055.438/PA, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 17/5/2022, DJe de 19/5/2022.)
+Quanto às consequências do delito, destacou-se que gravidade da morte de uma criança de apenas 8 idade, fundamentação que também se mostra apta a elevar a pena-base. A propósito:
+ ..
+- As consequências do crime também foram reputadas graves com a devida fundamentação, pois uma das vítimas, de 19 anos de idade, veio a falecer, e uma criança (de 9 anos) foi atingida no pé (e-STJ fls. 25/27 e 165), estando a valoração negativa de tal vetorial em consonância com a orientação da QUINTA TURMA deste Tribunal no sentido de que a tenra idade da vítima é elemento concreto e transborda aqueles ínsitos ao crime de homicídio, sendo apto, pois, a justificar o agravamento da pena-base, mediante valoração negativa das consequências do crime, ressalvada, para evitar bis in idem, a hipótese em que aplicada a majorante prevista no art. 121, § 4º (parte final), do Código Penal (AgRg no REsp n. 1.851.435/PA, relator Ministro SEBASTIÃO REIS JÚNIOR, Terceira Seção, julgado em 12/8/2020, DJe de 21/9/2020.)
+ ..
+3. Agravo regimental não provido.
+(AgRg no HC n. 793.221/ES, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 18/9/2023, DJe de 20/9/2023.)
+Além disso, a revisão da dosimetria da pena em habeas corpus tem caráter excepcional, somente cabível nas hipóteses de flagrante ilegalidade, o que não ocorre na espécie, uma vez que foram declinados fundamentos idôneos para valoração negativa de cada circunstância judicial.
+Ante o exposto, não conheço do habeas corpus.
+Publique-se. Intimem-se.
+ EMENTA
