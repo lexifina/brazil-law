@@ -1,0 +1,25 @@
+DECISÃO:
+Trata-se de recurso extraordinário com agravo contra decisão de inadmissão do recurso extraordinário.
+O recurso foi interposto com fundamento na alínea "a" do permissivo constitucional.
+O acórdão recorrido  ficou assim ementado:
+
+ APELAÇÂO CRIMINAL - TRÁFICO DE DROGAS - ASSOCIAÇÃO PARA OTRÁFICO —ABSOLVIÇÃO—IMPOSSIBILIDADE PENA-BASE - QUANTUM DE PENA ATRIBUIDO À AGRAVANTE DA REINCIDÊNCIA - REDUÇÃO - NECESSIDADE. Efetivadas as interceptações telefônicas, mediante prévia e fundamentada decisão judicial e em consonância com os ditames da Lei 9296196, não há se falar em ilicitude das informações e provas coletadas através delas. Não se acolhe a preliminar de nulidade da sentença por ausência de fundamentação, se o magistrado indicou os motivos de fato e de direito nos quais fundou o seu convencimento, preenchendo a exigência constitucional preceituada em seu artigo 93, IX, da Constituição Federal. Havendo comprovação da materialidade e da autoria do tráfico, não há como acolher a pretensão defensiva de absolvição por insuficiência de provas. Comprovado que o apelante se associou a outros agentes de maneira estável e permanente, para o fim de praticar o delito de tráfico de drogas, a manutenção da condenação pelo crime tipificado no artigo 35, da Lei n. 11.343/06 é medida que se impõe. Inexistindo prova firme e robusta do crime do artigo 16, da Lei 10.826103, impõe-se a manutenção da absolvição do acusado. Constatando-se equívoco na análise de Documento recebido eletronicamente da origem algumas circunstâncias judiciais, as penas-base devem ser reduzidas. A despeito da ausência de previsão legal do quantum de aumento ou redução da pena em razão das agravantes e atenuantes genéricas, a doutrina e a jurisprudência majoritárias vêm entendendo que, em regra, tal quantum, atendendo aos princípios da proporcionalidade e da razoabilidade, não deve ultrapassar o limite mínimo das majorantes e minorantes, que é de um sexto (1/6), sob pena de se enuipararem a elas.
+
+No recurso extraordinário sustenta-se violação do(s) art.(s) 5º, XXXVIII, "a", LIV e LV, e 93, IX, da Constituição Federal.
+Decido.
+Analisados os autos, verifica-se que o Plenário da Corte, em sede de repercussão geral, reafirmou a orientação de que o artigo 93,inciso IX, da Constituição não exige que o órgão judicante se manifeste sobre todos os argumentos apresentados pela defesa, mas sim que ele fundamente, ainda que sucintamente, as razões que entendeu suficientes à formação de seu convencimento (AI nº 791.292/PE-RG-QO, Tribunal Pleno, Rel. Min. Gilmar Mendes, DJe de 13/08/2010).
+Ademais, verifica-se que, para ultrapassar o entendimento do Tribunal de origem, seria necessário analisar a causa à luz da interpretação dada à legislação infraconstitucional pertinente e reexaminar os fatos e as provas dos autos, o que não é cabível em sede de recurso extraordinário, nos termos da Súmula 279/STF. Sobre o tema, a propósito:
+
+“AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. PROCESSUAL PENAL. TRÁFICO DE DROGAS. DESCLASSIFICAÇÃO DO TIPO PENAL: IMPOSSIBILIDADE DE REEXAME DO CONJUNTO PROBATÓRIO (SÚMULA N. 279 DO SUPREMO TRIBUNAL FEDERAL). DOSIMETRIA DA PENA. BIS IN IDEN. INOVAÇÃO RECURSAL. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO” (ARE 1248157/SP - AgR, Segunda Turma, Rel. Min. Cármen Lúcia, DJe de 06/04/2020).
+
+“DIREITO PENAL E PROCESSUAL PENAL. AGRAVO INTERNO EM RECURSO EXTRAORDINÁRIO COM AGRAVO. TRÁFICO DE DROGAS. ALEGAÇÃO DE VIOLAÇÃO AOS PRINCÍPIOS DO CONTRADITÓRIO, DA AMPLA DEFESA, DOS LIMITES DA COISA JULGADA, DO DEVIDO PROCESSO LEGAL. AUSÊNCIA DE REPERCUSSÃO GERAL. CONTROVÉRSIA DECIDIDA COM BASE NA LEGISLAÇÃO INFRACONSTITUCIONAL E NO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. SÚMULA 279/STF. 1. O Supremo Tribunal Federal (STF) rejeitou preliminar de repercussão geral relativa à controvérsia sobre suposta violação aos princípios do contraditório, da ampla defesa, dos limites da coisa julgada e do devido processo legal (ARE 748.371-RG, Rel. Min. Gilmar Mendes - Tema 660). 2. A parte recorrente se limita a postular a análise da legislação infraconstitucional pertinente e uma nova apreciação dos fatos e do material probatório constante dos autos, o que não é possível nesta fase processual (Súmula 279/STF). Precedente. 3. Agravo interno a que se nega provimento” (ARE 1251016/CE - AgR, Primeira Turma, Rel.  Min. Luís Roberto Barroso, DJe de 06/04/2020).
+
+“Agravo regimental no recurso extraordinário com agravo. 2. Direito Penal e Processual Penal. 3. Tráfico de drogas e associação para o tráfico. Artigos 33, caput, e 35 da Lei 11.343/2006. 4. Ofensa indireta e reflexa à Constituição Federal. 5. Necessidade de revolvimento do conjunto fático-probatório dos autos. Óbice da Súmula 279/STF. 6. Tema 660 da sistemática de repercussão geral. 7. Precedentes. 8. Agravo regimental não provido” (ARE 1244158 AgR, Segunda Turma, Rel. Min. Gilmar Mendes, DJe de 07/04/2020).
+
+Ante o exposto, nego seguimento ao recurso (alínea c do inciso V do art. 13 do Regimento Interno do Supremo Tribunal Federal).
+Publique-se.
+Brasília, 20 de março de 2026.
+
+Ministro EDSON FACHIN
+Presidente
+Documento assinado digitalmente
