@@ -1,0 +1,29 @@
+DECISÃO
+Trata-se de Recurso em Habeas Corpus com pedido de liminar interposto por LUCAS SAMPAIO contra acórdão do TRIBUNAL DE JUSTIÇA DO RIO DE JANEIRO.
+Consta dos autos que o recorrente, preso em flagrante em 5/7/2025, teve a custódia convertida em preventiva e foi posteriormente denunciado pela suposta prática dos delitos previstos nos arts. 33 e 35 da Lei n. 11.343/2006 e 29 da Lei n. 9.605/1998.
+A defesa sustenta ter havido nulidade da busca domiciliar, porquanto deflagrada a partir de denúncia anônima desacompanhada de justa causa e sem consentimento válido.
+Argumenta que não se teria comprovado, de modo documentado, a voluntariedade do consentimento do morador, aduzindo que a narrativa policial seria inverossímil, impondo-se a declaração de ilicitude da prova originária e, por consequência, o trancamento da ação penal.
+Alega que a prisão preventiva se revelaria desproporcional e destituída de fundamentação concreta, considerando-se que o acusado seria primário, a apreensão de drogas somaria menos de 150 gramas, e não teriam sido localizados armas ou munições, sendo possível a substituição por medidas cautelares diversas.
+Requer, liminarmente, a revogação da prisão preventiva do recorrente e, no mérito, pugna pelo provimento do recurso para que a ação penal seja trancada. Subsidiariamente, requer a concessão de liberdade provisória, com ou sem a imposição de medidas cautelares diversas.
+Instado, o Ministério Público Federal se manifestou pelo improvimento da insurgência (fls. 166/174).
+É o relatório.
+Ao compulsar os autos, constato que o recurso não comporta provimento.
+Em relação à alegada nulidade da busca domiciliar, julgo que a tese defensiva não pode ser acolhida nesta via.
+Em minha avaliação, a Corte de origem examinou a controvérsia sob enfoque compatível com a jurisprudência desta Corte Superior e do Supremo Tribunal Federal, consignando que o ingresso dos agentes públicos no imóvel não decorreu exclusivamente de denúncia anônima desprovida de elementos corroboradores, mas de um contexto fático progressivo que, ao menos em tese, indicava a ocorrência de situação de flagrante delito.
+Da atenta leitura dos autos, depreende-se que os policiais, ao averiguarem notícia de tráfico de drogas e de manutenção irregular de animal silvestre, visualizaram, de imediato, pássaro em cativeiro, o que justificou o ingresso inicial na residência, mediante autorização do genitor do corréu. A partir desse momento, outros elementos concretos surgiram  como o som de descarga e a localização de entorpecentes na tubulação de esgoto  , circunstâncias que, em conjunto, autorizaram a continuidade da diligência.
+A meu ver, não se está diante de situação em que a entrada domiciliar se fundou apenas em denúncia anônima ou em mera suspeita subjetiva, mas sim em um encadeamento de elementos objetivos aptos, em tese, a caracterizar fundadas razões, nos termos do entendimento firmado no RE n. 603.616/STF.
+Ademais, a controvérsia relativa à existência ou não de consentimento válido, bem como à dinâmica exata da diligência pol icial, demanda incursão aprofundada no conjunto fático-probatório, providência incompatível com a via estreita do habeas corpus e do recurso ordinário que o sucede.
+Nesse ponto, entendo que a conclusão das instâncias ordinárias, no sentido de que a matéria não se apresenta de plano evidente e reclama instrução probatória, afasta o reconhecimento de flagrante ilegalidade apta a ensejar o trancamento da ação penal.
+A corroborar, cite-se: AgRg no HC n. 788.024/SP, Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 15/5/2023, DJe de 18/5/2023.
+No tocante ao pedido de revogação da prisão preventiva, igualmente não verifico constrangimento ilegal.
+O acórdão impugnado, a meu sentir, apresentou fundamentação suficiente para a manutenção da custódia cautelar, evidenciando a presença dos requisitos previstos nos arts. 312 e 313 do Código de Processo Penal.
+Conforme se extrai dos autos, a segregação foi justificada na garantia da ordem pública, considerada a variedade e a forma de acondicionamento das substâncias entorpecentes, bem como a apreensão de objetos indicativos de possível atividade de traficância estruturada, elementos que, em conjunto, evidenciam a gravidade concreta da conduta.
+Julgo que não se trata de fundamentação abstrata ou genérica, mas de motivação ancorada em circunstâncias específicas do caso, aptas a demonstrar o periculum libertatis.
+A alegação de desproporcionalidade da medida, fundada na primariedade do agente, na ausência de violência e na eventual possibilidade de aplicação de regime mais brando em caso de condenação, não se mostra suficiente para infirmar o decreto prisional.
+Com efeito, a meu ver, não é possível, nesta fase processual, realizar prognóstico seguro acerca do regime de cumprimento de pena, o qual dependerá da análise global das circunstâncias judiciais e do resultado da instrução criminal.
+Por fim, a substituição da prisão por medidas cautelares diversas foi expressamente afastada pelas instâncias ordinárias, com base na inadequação dessas medidas diante do contexto fático delineado, conclusão que não se revela teratológica ou desprovida de fundamentação.
+Ante o exposto, nego provimento ao recurso em habeas corpus.
+Publique-se.
+EMENTA
+RECURSO EM HABEAS CORPUS. DIREITO PROCESSUAL PENAL. TRÁFICO DE DROGAS. ASSOCIAÇÃO PARA O TRÁFICO. CRIME AMBIENTAL. BUSCA DOMICILIAR. FUNDADAS RAZÕES. CONTEXTO FÁTICO PROGRESSIVO. ALEGAÇÃO DE ILICITUDE QUE DEMANDA REEXAME FÁTICO-PROBATÓRIO. INVIABILIDADE NA VIA ELEITA. TRANCAMENTO DA AÇÃO PENAL. MEDIDA EXCEPCIONAL. PRISÃO PREVENTIVA. FUNDAMENTAÇÃO CONCRETA. GRAVIDADE DA CONDUTA. VARIEDADE E FORMA DE ACONDICIONAMENTO DAS DROGAS. APREENSÃO DE OBJETOS RELACIONADOS À TRAFICÂNCIA. GARANTIA DA ORDEM PÚBLICA. MEDIDAS CAUTELARES DIVERSAS INSUFICIENTES. PROGNÓSTICO SOBRE REGIME PRISIONAL INVIÁVEL.
+Recurso em habeas corpus improvido.
