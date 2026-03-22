@@ -1,0 +1,63 @@
+Decisão: Trata-se de agravo contra inadmissibilidade de recurso extraordinário em face de acórdão do Tribunal Regional Federal da 4ª Região, ementado nos seguintes termos:
+
+“IMPORTAÇÃO DE MERCADORAS. INTERRUPÇÃO DO DESPACHO ADUANEIRO. EXIGÊNCIADE RETIFICAÇÃO DA DESCRIÇÃO DAS MERCADORIAS. AUSÊNCIA DE DIVERGÊNCIA ENTREA DESCRIÇÃO CONSTANTE DA DI E AQUELA INDICADA PELA AUTORIDADEADUANEIRA. DESPESAS DE ARMAZENAGEM E DEMURRAGE. INDENIZAÇÃO”. (eDOC 103, p. 7)
+
+No recurso extraordinário, interposto com fundamento no art. 102, III, a, da Constituição Federal, aponta-se violação aos arts. 5º, LIV e LV; 93 e 237 do texto constitucional.
+Nas razões recursais, sustenta-se que o caso dos autos amolda-se à tese consagrada pelo Supremo Tribunal Federal no julgamento do tema 1.042 da repercussão geral, segundo a qual é constitucional vincular o despacho aduaneiro ao recolhimento de diferença tributária apurada mediante arbitramento da autoridade.
+Argumenta-se não afronta o princípio da livre iniciativa e do livre exercício de atividade econômica o condicionamento da liberação da mercadoria ao recolhimento da diferença de tributos devidos em face da reclassificação fiscal do produto importado. Aduz-se a inaplicabilidade da Súmula 323 do STF, pois não se trata de apreensão de mercadoria como meio coercitivo para pagamento de tributo.
+Alega-se que, nos casos de desembaraço aduaneiro de mercadoria importada, é legítimo condicionar-se a liberação da mercadoria à comprovação do recolhimento das exações incidentes na importação,  conforme consagrado na Súmula 661 do STF.
+É o relatório.
+
+Decido.
+Na hipótese, a parte sustenta que o condicionamento da liberação da mercadoria ao recolhimento da diferença de tributos devidos em face da reclassificação fiscal do produto importado não viola o princípio da livre iniciativa e do livre exercício de atividade econômica. Com relação a essa questão, o Tribunal de origem consignou o seguinte:
+
+“A parte autora insurge-se contra a interrupção do despacho aduaneiro das mercadorias objeto da Adição 06 da Declaração de Importação nº 22/0915792-6, requerendo seja determinado o seu prosseguimento.
+No que respeita à controvérsia, o juiz da causa assim se manifestou:
+A autora pretende a continuidade do despacho aduaneiro das mercadorias constantes da Declaração de Importação nº 22/0915792-6, insurgindo-se quanto às exigências fiscais relativas à reclassificação fiscal das mercadorias constantes da Adição 006. Também pretende a condenação da parte ré ao pagamento de indenização por danos materiais.
+Ao analisar o pedido de tutela antecipada de urgência, manifestei-se nos seguintes termos ( evento 11,DESPADEC1):
+As exigências fiscais, datadas de 25/5/2022, tinham o seguinte teor (evento 1, OUT6):
+(...)
+Segundo a autora, a manifestação da ré: (i) altera por completo o teor da exigência ilegal que vem fazendo em face do importador de modo a tumultuar a lide e, (ii) o cumprimento da referida exigência, da forma como defende a União, implicaria na negativa da licença de importação, posto que a descrição utilizada está registrada no INMETRO.
+De início, não se verifica alteração da exigência datada de 27/5/2022. Naquela ocasião já não havia sido solicitada a alteração da NCM das mercadorias, apenas a retificação da especificação para PNEU 185R14LT 8PR 102/100, com observância à verificação física. Após intimação para prestar informações, a autoridade aduaneira apenas esclareceu a situação: "com as fotos da verificação física, o importador deverá manter a NCM utilizada por ele e retificar a descrição.Retificar a especificação para PNEU 185R14LT 8PR 102/100 conforme consta nas fotos da verificação física".
+No que tange à descrição das mercadorias, a autora sustenta que se pretende "manter a cobrança indevida de uma multa administrativa (art. 711 do Regulamento Aduaneiro) ao partir-se da premissa de que a descrição utilizada – pneu 185R14 8PR 102/100T TL (RRC):F;(G):C;72DB SU-810-5 LT – impunha a adoção da classificação fiscal prevista na Solução de Consulta ignorando adecisão transitada em julgado que reconheceu, para os pneumáticos usados em veículos comerciais leves (e daí a extensão “LT”), a adoção válida da posição NCM 4011.20.90".
+(...)
+No caso, não há mais divergência entre a NCM adotada, inclusive amparada por decisão judicial, e sim quanto à descrição das mercadorias.
+As partes não discorreram acerca das diferenças entre as características dos pneus (fora aquelas questões relacionadas à NCM). As fotos das vistorias físicas, referidas pela autoridade aduaneira,não foram juntadas aos autos.
+A parte autora apenas afirma que para pneumáticos usados em veículos comerciais leves utiliza-se a extensão “LT” e sustenta não haverem alterações a serem feitas, sobretudo considerando que isso traria consequências à licença de importação.
+Com efeito, consta como descrição detalhada das mercadorias da adição 006: " PNEUMÁTICOSNOVOS DE BORRACHA DOS TIPOS UTILIZADOS EM VEICULOS COMERCIAIS LEVES, FAMÍLIA:3A2B2C2, PNEU 185R14 8PR 102/100T TL (RRC):F;(G):C; 72DB SU-810-5 LT , DE CONSTRUÇÃORADIAL, SEM CÂMARA DE AR, MARCA: ANTARES, CERTIFICADO INMETRO: CN-PNEU-0119-2021-TC,REGISTRO: 006214/2020" (evento 1, OUT4).
+A exigência é para retificação para a especificação para PNEU 185R14LT 8PR 102/100.
+Em análise prefacial, típica da tutela de urgência, não vislumbro diferença entre a descrição que o fisco quer impor e aquele declarada, pois ambas referem-se ao pneu do tipo 185R14 8PR 102/100e trazem na descrição a sigla "LT" (embora alocada diversamente).
+A saber, descrição da adição 006: PNEU 185R14 8PR 102/100T TL (RRC):F;(G):C; 72DB SU-810-5 LT; e como exigência do fisco para retificação: PNEU 185R14LT 8PR 102/100 (grifei).
+Causa estranheza o próprio fato da União corroborar com a classificação fiscal na NCM 4011.20.90, nos moldes em que informado na declaração de importação, e justificar anecessidade de alteração da descrição.
+Destaca-se da exigência: "A descrição incorreta informada pelo importador se enquadra perfeitamente na Solução de Consulta COSIT 98.118/18, que indica a NCM 4011.9090 por isso foi feita a exigência de reclassificação. Porém, com as fotos da verificação física, o importador deverá manter a NCM utilizada por ele e retificar a descrição. Retificar a especificação para PNEU185R14LT 8PR 102/100 conforme consta nas fotos da verificação física".
+Ocorre que a Solução de Consulta nº 98.118 - Cosit, de 18/5/2018 versa sobre a classificação fiscal na Nomenclatura Comum do Mercosul (NCM) 4011.90.90, Mercadoria: Pneumático novo, de borracha, do tipo utilizado em caminhonetes ou similares, com a codificação 185 R14 102/100Q (ev. 1, OUT9).
+Reporta-se, portanto, a pneu de outro tipo, de final Q. A parte autora parece não ter usado essa descrição (adição 006: PNEU 185R14 8PR 102/100T TL (RRC):F;(G):C; 72DB SU-810-5 LT ), ao contrário do informado pela ré.
+Frente a isso, e a considerar que a União não indicou qual o motivo pontual que levaria à necessidade de retificação da descrição da mercadoria, tenho por presente a probabilidade do direito.
+O perigo na demora é evidente, com todas as consequências negativas da paralisação do desembaraço aduaneiro.
+O contraditório não alterou o panorama inicial.
+Observa-se que, após a conferência física das mercadorias, não houve controvérsia em relação à NCM, eis que a RFB concordou com a classificação adotada pela parte autora. Assim, há consenso quanto à utilização da NCM 4011.20.90.
+A alegação da União baseia-se, a par disso, na incorreta descrição das mercadorias por parte da autora e na necessidade de recolhimento da multa prevista no artigo nº 711 do Decreto nº 6.759/2009 (Regulamento Aduaneiro).
+Conforme já analisado em sede antecipatória, contudo, não restou esclarecida pela ré qual a divergência na descrição realizada pela parte autora e aquela indicada pela autoridade aduaneira. Destaca-se daquela decisão: "não vislumbro diferença entre a descrição que o fisco quer impor e aquele declarada, pois ambas referem-se ao pneu do tipo 185R14 8PR 102/100 e trazem na descrição a sigla "LT" (embora alocada diversamente)".
+A União, em sua contestação, apenas argumenta que a descrição está equivocada, mas a suposta divergência não foi devidamente justificada. Não foi apresentado esclarecimento acerca das diferenças que poderiam existir no produto descrito pela parte autora e naquele referido pela ré.
+Assim, não estando demonstrada irregularidade das operações feitas pela parte autora, deve ser confirmada a tutela de urgência que determinou o prosseguimento ao despacho aduaneiro referente à Declaração de Importação nº 22/0915792-6, observando a classificação fiscal na posição declarada pela parte autora na Adição 006 (NCM 4011.20.90) e a descrição por ela realizada.
+Por consequência, não subsiste a multa imposta com base no art. 711 do Regulamento Aduaneiro.
+Adoto, como razão de decidir, os argumentos da sentença, uma vez que seria superfluidade, digna de censura, repetir, com diferentes palavras, os mesmos argumentos.
+Com efeito, dada a semelhança entre a descrição das mercadorias constante da Declaração de Importação (pneu 185R14 8PR 102/100T TL (RRC):F;(G):C;72DB SU-810-5 LT) e aquela indicada pela autoridade fiscal (PNEU 185R14LT 8PR 102/100 ), tenho por descabida a exigência de retificação da descrição, mormente em não tendo a União justificado devidamente em que consistiria a suposta divergência.
+Agiu acertadamente, portanto, o juiz da causa ao determinar o prosseguimento ao despacho aduaneiro referente à Declaração de Importação nº 22/0915792-6, afastando a exigência de retificação da descrição das mercadorias”. (eDOC 103, p. 2-5)
+
+Depreende-se do excerto acima que a instância a quo, com base na legislação infraconstitucional aplicável (Regulamento Aduaneiro) e no conjunto probatório constante dos autos, afastou a exigência de retificação da classificação das mercadorias importadas, para prosseguimento do despacho, em razão da semelhança entre a descrição constante da Declaração de Importação e a apontada pela autoridade aduaneira.
+Assim, verifica-se que a matéria debatida no acórdão recorrido restringe-se ao âmbito infraconstitucional, de modo que a ofensa à Constituição, se existente, seria reflexa ou indireta, o que inviabiliza o processamento do presente recurso.
+Além disso, divergir do entendimento firmado pelo Tribunal de origem demandaria o revolvimento do acervo fático-probatório, providência inviável no âmbito do recurso extraordinário. Nesses termos, incide no caso a Súmula 279 do Supremo Tribunal Federal.
+Confiram-se, a propósito, os seguintes precedentes:
+
+“Ementa: Direito tributário e processual civil. Embargos de declaração com efeitos infringentes. Desembaraço aduaneiro. Reclassificação fiscal de mercadoria. Exigência de documentação suprida. Inaplicabilidade do tema nº 1.042 da Repercussão Geral. Reanálise do recurso extraordinário. Incidência do enunciado nº 279 da Súmula do STF. I. Caso em exame A controvérsia envolve a retenção de mercadoria pela Receita Federal, em razão de possível reclassificação fiscal e necessidade de apresentação de documentação complementar, devidamente atendida pela importadora, sem que houvesse autuação ou aplicação de penalidade mais grave. II. Questão em discussão Verificar se a demora na manifestação da autoridade aduaneira configura situação apta a aplicar a tese do Tema nº 1.042 do ementário da Repercussão Geral. III. Razões de decidir A sentença e o acórdão recorridos destacam que o pedido cautelar formulado pela embargante se refere à demora no desembaraço aduaneiro e não à exigência de pagamento de diferenças tributárias ou multas, uma vez que a documentação solicitada foi integralmente apresentada pela importadora. O enunciado nº 279 da Súmula do STF impede a revisão da situação fática dos autos para reavaliar eventual mora da autoridade aduaneira, afastando a possibilidade de reforma da decisão sem o revolvimento das provas. A questão tratada envolve apenas interesses subjetivos das partes, sem repercussão geral. IV. Dispositivo e tese Embargos de declaração acolhidos com efeitos infringentes para negar provimento ao recurso extraordinário da União”.
+(RE 1.378.404 AgR-ED, Rel. ANDRÉ MENDONÇA, Segunda Turma, DJe 6.12.2024)
+
+Ante o exposto, nego seguimento ao recurso (art. 932, VIII, do CPC, c/c art. 21, §1º, do RISTF) e, tendo em vista o disposto no art. 85, § 11, do CPC, majoro, em 10%, o valor da verba honorária fixada anteriormente (eDOC 103, p. 6), observados os limites previstos nos §§ 2º e 3º do referido dispositivo, ressalvada a eventual concessão do benefício da justiça gratuita.
+
+Publique-se.
+Brasília, 22 de março de 2026.
+
+Ministro GILMAR MENDES
+Relator
+Documento assinado digitalmente
