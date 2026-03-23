@@ -1,0 +1,34 @@
+DECISÃO
+Trata-se de agravo contra decisão que inadmitiu recurso especial interposto por Gazin Indústria e Comércio de Molas Ltda. com fundamento no art. 105, III, a, da Constituição Federal, para impugnar acórdão proferido pela Primeira Câmara Cível do Tribunal de Justiça do Estado do Rio Grande do Sul, assim ementado (e-STJ, fl. 223):
+AGRAVO INTERNO EM APELAÇÃO CÍVEL. DIREITO TRIBUTÁRIO. MANDADO DE SEGURANÇA. INCLUSÃO DO VALOR DO PIS E DA COFINS NA BASE DE CÁLCULO ICMS. CONSTITUCIONALIDADE. TEMA 1.223 DO STJ.
+A BASE DE CÁLCULO DO ICMS É O VALOR DA OPERAÇÃO PRATICADA, NA FORMA DO ART. 13, § 1º, II, "A", DA LC 87/96, DE MODO QUE INCLUI, DE FORMA REGULAR, TODO O MONTANTE QUE A COMPÕE. O PIS E A COFINS INCORPORAM-SE NO VALOR DA OPERAÇÃO DE FORMA INDIRETA, COMO REPASSE ECONÔMICO DA TRIBUTAÇÃO NA COMPOSIÇÃO DO PREÇO, NÃO HAVENDO O QUE SE FALAR EM VIOLAÇÃO À REGRA MATRIZ DE INCIDÊNCIA TRIBUTÁRIA DO ICMS. INTELIGÊNCIA DO ART. 155, II E XII, "I", DA CF/88. INAPLICABILIDADE DO TEMA 69 DO STF.
+DEFINIÇÃO DA QUESTÃO NESSE SENTIDO NO TEMA 1.223 DO STJ.
+RECURSO DESPROVIDO.
+Os embargos de declaração opostos foram rejeitados (e-STJ, fls. 236-239).
+Nas razões do recurso especial (e-STJ, fls. 242-272), a parte recorrente alegou violação dos arts. 1.022 e 489 do Código de Processo Civil, sustentando negativa de prestação jurisdicional porque o Tribunal de origem não teria enfrentado "todos os fundamentos jurídicos expostos" e o pedido de prequestionamento, atraindo o art. 1.025 do CPC e a Súmula 211/STJ; afirmou que, "em momento algum fora analisado os dispositivos legais invocados nos embargos declaratórios" e que a resposta fora "genérica".
+Sustentou ofensa aos arts. 2º, I; 8º, § 1º, I e II, § 2º; 12, I; e 13, I, § 1º, I e II, a, da Lei Complementar 87/1996, aos arts. 97, IV; 110; 150, § 1º; 168, I; e 170-A, do Código Tributário Nacional, e ao art. 3º da Lei Complementar 118/2005, argumentando ser ilegal a inclusão dos valores de PIS e COFINS na base de cálculo do ICMS porque a base do imposto estadual é o "valor da operação", não havendo previsão legal para abarcar contribuições sociais sobre faturamento/receita.
+Invocou o princípio da legalidade (art. 97 do CTN), a regra-matriz do ICMS (arts. 2º, 12 e 13 da LC 87/1996) e a impossibilidade de ampliar conceitos (art. 110 do CTN) .
+Apontou violação pela não aplicação da tese do Tema 69 do Supremo Tribunal Federal (RE 574.706), afirmando similitude e que "um tributo não pode compor a base de cálculo do outro"; defendeu que o PIS/COFINS são "importâncias transitórias" e não integram o "valor da operação", razão pela qual devem ser excluídos da base do ICMS.
+Contrarrazões às fls. 308-321 (e-STJ).
+O processamento do recurso especial teve o seguimento negado ante a incidência do art. 1.030, I, b, do CPC/2015 (Tema 1.223/STJ) e inadmitido pela incidência da Súmula n. 7 e 83/STJ (e-STJ, fls. 338-340), o que ensejou a interposição do presente agravo (e-STJ, fls. 348-371).
+Brevemente relatado, decido.
+De início, no que concerne à questão central da irresignação, nota-se que, nos termos do art. 1.030, I, b, do CPC/2015, o Tribunal de origem negou seguimento ao recurso especial interposto, haja vista que a questão relativa à controvérsia (Tema n. 1.223/STJ) foi decidida em conformidade com precedente firmado pelo Superior Tribunal de Justiça em recurso especial repetitivo.
+A esse respeito, a jurisprudência deste Superior Tribunal é firme no sentido de que o agravo em recurso especial é incabível para impugnar decisão que nega seguimento ao apelo especial cujo principal fundamento reside conformidade do acórdão recorrido com precedente formado em julgamento de recurso especial repetitivo. Ademais, dispõe o art. 1. 030, § 2º, do CPC/2015 que, uma vez negado seguimento ao recurso especial na instância a quo - tendo em vista a conformidade do entendimento exarado pelo acórdão recorrido com o posicionamento firmado em julgamento repetitivo por este Tribunal Superior - a irresignação da parte com a decisão de admissibilidade proferida pela Corte de origem deve se dar por meio de agravo interno, nos termos do art. 1.021 do CPC/2015, providência não adotada pelo agravante, de modo que não há como conhecer do recurso nesse ponto.
+A propósito (sem grifo no original):
+PROCESSUAL CIVIL. RECURSO ESPECIAL. NEGATIVA DE SEGUIMENTO. AGRAVO EM RECURSO ESPECIAL. INADEQUAÇÃO.
+1. É incabível agravo em recurso especial (art. 1.042 do CPC/2015) para impugnar decisão que, tendo como principal fundamento a conformidade do acórdão recorrido com precedente formado em julgamento de recurso especial repetitivo, nega seguimento ao apelo raro com amparo no art. 1.030, I, do CPC/2015.
+ ..
+6. Agravo interno desprovido.
+(AgInt no AREsp n. 1.891.170/SP, relator Ministro Gurgel de Faria, Primeira Turma, julgado em 14/11/2022, DJe de 12/12/2022.)
+Quanto à questão remanescente, qual seja, a alegada violação aos arts. 489 e 1.022 do CPC/2015, observa-se que, ao suscitar a ofensa aos aludidos dispositivos, a parte agravante não indicou de maneira precisa em que pontos a decisão incorrera em vício de omissão, obscuridade ou contradição.
+Com efeito, consoante entendimento firmando nesta Corte Superior, não se conhece de suposta violação aos arts. 489 e 1.022 do CPC/2015 quando as alegações que fundamentaram a suposta ofensa são genéricas, sem indicação efetiva dos pontos omissos, contraditórios ou obscuros, como no presente caso. Tal deficiência impede o ingresso à instância especial, nos termos da Súmula n. 284 do STF.
+No ponto (sem grifo no original):
+EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. OMISSÃO. CORREÇÃO. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. FUNDAMENTAÇÃO DEFICIENTE. SÚMULA Nº 284/STF.
+1. Admite-se que os embargos, ordinariamente integrativos, tenham efeitos infringentes desde que constatada a presença de um dos vícios do art. 1.022 do Código de Processo Civil, cuja correção importe alterar a conclusão do julgado.
+2. O recurso especial que indica violação do art. 1.022 do Código de Processo Civil, mas traz somente alegação genérica de negativa de prestação jurisdicional é deficiente em sua fundamentação, o que atrai o óbice da Súmula nº 284 do Supremo Tribunal Federal, aplicada por analogia.
+3. Embargos de declaração acolhidos sem efeitos modificativos.
+(EDcl no AgInt nos EDcl no AREsp n. 1.994.741/PR, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 23/10/2023, DJe de 27/10/2023.)
+Ante o exposto, conheço em parte do agravo para, nessa extensão, não conhecer do recurso especial.
+Publique-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. DIREITO TRIBUTÁRIO E PROCESSUAL CIVIL. APELAÇÃO EM MANDADO DE SEGURANÇA. 1. INADEQUAÇÃO DA VIA. INCIDÊNCIA DO ART. 1.030, I, B, DO CPC/2015. 2. ARTS. 489 E 1.022 DO CPC/2015. ALEGAÇÕES GENÉRICAS. SÚMULA N. 284/STF. 3. AGRAVO CONHECIDO EM PARTE PARA, NESSA EXTENSÃO, NÃO CONHECER DO RECURSO ESPECIAL.
