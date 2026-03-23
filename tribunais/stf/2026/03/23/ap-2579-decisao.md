@@ -1,0 +1,25 @@
+DECISÃO
+Trata-se de Ação Penal autuada em face de AILDO FRANCISCO LIMA, em razão de denúncia integralmente recebida pela Primeira Turma desta SUPREMA CORTE (Pet 11.593/DF, Rel. Min. ALEXANDRE DE MORAES, Primeira Turma, DJe de 11/6/2024), imputando-lhe a prática das condutas descritas no artigo 359-L (abolição violenta do Estado Democrático de Direito), artigo 359-M (golpe de Estado), artigo 163, parágrafo único, I, II, III e IV (dano qualificado pela violência e grave ameaça, com emprego de substância inflamável, contra o patrimônio da União e com considerável prejuízo para a vítima), artigo 286, parágrafo único, e artigo 288, caput, c/c. art. 69, caput, todos do Código Penal, e artigo 62, I, da Lei nº 9.605/1998 (deterioração de patrimônio tombado).
+O acusado foi preso preventivamente em 27/9/2023, nos autos da PET 11.593/DF, pela participação nos atos que, mediante violência e grave ameça, buscavam coagir e impedir o exercício dos poderes constitucionais constituídos, em flagrante afronta à manutenção do Estado Democrático de Direito, e que resultaram na invasão dos prédios do PALÁCIO DO PLANALTO, do CONGRESSO NACIONAL e do SUPREMO TRIBUNAL FEDERAL, com depredação do patrimônio público.
+Em 23/10/2023, 16/12/2023, 4/4/2024, 27/6/2024, 27/9/2024 e 9/1/2025 foram proferidas decisões mantendo a prisão preventiva do acusado.
+ Em 10/4/2025, substituí a prisão preventiva de AILDO FRANCISCO LIMA pela prisão domiciliar, a ser cumprida em seu endereço residencial, acrescida da imposição de cautelares (art. 318-B, do Código de Processo Penal) (eDoc. 169).
+Em Sessão Virtual realizada entre 5/12/2025 a 15/12/2025, a PRIMEIRA TURMA do SUPREMO TRIBUNAL FEDERAL julgou procedente a presente ação penal, condenando julgou procedente a ação penal para condenar o réu AILDO FRANCISCO LIMA à pena de 14 (quatorze) anos, sendo 12 (doze) anos e 6 (seis) meses de reclusão e 1 (um) ano e 6 (seis) meses de detenção e 100 (cem) dias-multa, cada dia multa no valor de 1/3 (um terço) do salário mínimo, pois incurso nos artigos: - 359- L do Código Penal (abolição violenta do Estado Democrático de Direito), à pena de 4 (quatro) anos e 6 (seis) meses de reclusão. - 359-M do Código Penal (Golpe de Estado), à pena de 5 (cinco) anos de reclusão. - 163, parágrafo único, I, III e IV, do Código Penal (dano qualificado), à pena de 1 (um) ano e 6 (seis) meses de detenção e 50 (cinquenta) dias-multa, fixando cada dia multa em 1/3 do salário-mínimo. - 62, I, da Lei 9.605/1998 (deterioração do Patrimônio tombado), à pena de 1 (um) ano e 6 (seis) meses de reclusão e 50 (cinquenta) dias-multa, fixando cada dia multa em 1/3 do salário-mínimo. - 288, parágrafo único, (associação criminosa armada) do Código Penal à pena de 1 ano e 6 (seis) meses de reclusão. Ademais, condenou o réu AILDO FRANCISCO LIMA no pagamento do valor mínimo indenizatório a título de danos morais coletivos de R$ 30.000.000,00 (trinta milhões de reais), a ser adimplido de forma solidária pelos demais condenados, em favor do fundo a que alude o art. 13 da Lei 7.347/198 fixando o regime fechado para o início do cumprimento da pena  (eDoc. 327).
+Em 12/1/2026, a defesa opôs Embargos de Declaração (eDoc. 332).
+Em Sessão Virtual realizada entre 20/2/2026 a 27/2/2026, a PRIMEIRA TURMA do SUPREMO TRIBUNAL FEDERAL rejeitou os embargos de declaração opostos por AILDO FRANCISCO LIMA (eDoc. 347).
+O acórdão foi publicado em 5/3/2026 e foram opostos novos embargos de declaração em 9/3/2026, cujo julgamento se iniciou na Sessão Virtual da PRIMEIRA TURMA realizada entre 20/3/3026 e 27/3/3026.
+Em 23/3/2026, a defesa de AILDO FRANCISCO LIMA requereu autorização para “ realização de ultrassonografia bilateral dos ombros (pedido médico e agendamento anexos), no dia 30 de março de 2026, às 16h10min, na Clínica ICON Diagnóstico Médico por Imagem, localizada à Rua Professor Luiz Rosa, n.º 13, Jundiaí/SP”.
+Além disso, apresentou documentação comprovando o agendamento do exame (eDoc. 383-385).
+É o relatório. DECIDO.
+Em face da documentação apresentada pela Defesa, verifica-se que AILDO FRANCISCO LIMA realizará exame médico, na Clínica ICON Diagnóstico Médico por Imagem, localizada à Rua Professor Luiz Rosa, n.º 13, Jundiaí/SP, no dia 30/3/2026, às 16:10h.
+Desse modo, DEFIRO o pedido formulado e AUTORIZO o deslocamento de AILDO FRANCISCO LIMA à Clínica ICON Diagnóstico Médico por Imagem, localizada à Rua Professor Luiz Rosa, n.º 13, Jundiaí/SP, no dia 30/3/2026, às 16:10h, durante o período estritamente necessário para a realização dos exames.
+Ressalte-se o caráter provisório da presente decisão.
+Além disso, esta decisão não dispensa o requerente do cumprimento das demais medidas cautelares a ele impostas.
+OFICIE-SE à Secretaria de Estado de Administração Penitenciária de São Paulo/SP (SAP/SP), para conhecimento e acompanhamento.
+Ciência à Procuradoria-Geral da República.
+Intimem-se os advogados regularmente constituídos.
+Publique-se.
+Brasília, 23 de março de 2026.
+
+Ministro ALEXANDRE DE MORAES
+Relator
+Documento assinado digitalmente
