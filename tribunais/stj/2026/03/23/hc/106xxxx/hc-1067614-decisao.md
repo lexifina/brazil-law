@@ -1,0 +1,22 @@
+DECISÃO
+Trata-se de habeas corpus, sem pedido de liminar, impetrado em favor de PAULO HENRIQUE BRAGA MUNHOS, apontando como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, em decorrência do julgamento da apelação criminal n. 0005925-23.2012.8.26.0077 .
+Consta nos autos que o paciente foi inicialmente condenado pelo Juízo da 1ª Vara Criminal da Comarca de Birigui à pena de 12 (doze) anos e 1 (um) mês e 13 (treze) dias de reclusão, em regime semiaberto, além de 23 (vinte e três) dias-multa, por infração aos artigos 288, parágrafo único, e 158, § 1º, este por várias vezes, na forma do artigo 71, combinado com o artigo 29, do Código Penal, e, também, à pena de 7 (sete) meses de detenção, em regime aberto, além de 11 (onze) dias-multa, por infração ao artigo 4º, alínea a, da Lei n. 1.521/51 (fls. 51-102).
+Ambas as partes apelaram ao Tribunal de Justiça do Estado de São Paulo, que negou provimento ao recurso da defesa e deu provimento ao recurso da acusação, exasperando as sanções. A punibilidade quanto ao delito do artigo 4º, alínea a, da Lei n. 1.521/51 foi declarada extinta, de ofício, pela prescrição retroativa. A pena foi redimensionada para 14 (quatorze) anos, 2 (dois) meses e 16 (dezesseis) dias de reclusão, além de 26 (vinte e seis) dias-multa, mantidos os demais termos da sentença (fls. 15-33). Esta decisão colegiada transitou em julgado, conforme informações prestadas pelas instâncias ordinárias (fls. 112 e 137).
+Na presente impetração, sustenta-se que o acórdão recorrido exasperou as penas-base em 1/6 (um sexto) acima do mínimo legal, de forma indistinta para todos os crimes e corréus, sem a necessária individualização das condutas e sem fundamentação concreta, não obstante a sentença haver fixado as reprimendas no patamar mínimo, ante a inexistência de circunstâncias judiciais desfavoráveis. Argumenta-se, ainda, que os fundamentos utilizados para majorar a pena-base limitaram-se à reprodução de elementares dos tipos penais de extorsão armada e quadrilha armada, já inerentes à tipicidade, o que não autoriza o agravamento da sanção sem motivação específica e individualizada.
+Pontua-se, nesse contexto, violação aos artigos 59 e 68 do Código Penal, ao argumento de que o Tribunal deixou de indicar quais circunstâncias judiciais teriam sido negativadas em relação ao paciente, restringindo-se à transcrição de trechos da denúncia e da apelação ministerial, em afronta ao dever constitucional de fundamentação. Assevera-se, por fim, que, no reconhecimento da continuidade delitiva, foi aplicada a fração máxima de 2/3 (dois terços) sem justificativa concreta, apesar de o artigo 71 do Código Penal prever variação entre 1/6 (um sexto) e 2/3 (dois terços), exigindo motivação específica, ancorada nos vetores do artigo 59, para a adoção de fração superior ao mínimo legal.
+Requer, ao final, a concessão da ordem para: (i) redimensionar a pena-base ao mínimo legal; e (ii) reduzir a fração de aumento aplicada pela continuidade delitiva.
+As informações foram prestadas (fls. 109-130 e 136-161).
+O Ministério Público Federal opinou pela denegação da ordem (fls. 163-165).
+É o relatório. DECIDO.
+A controvérsia consiste em uma possível ilegalidade flagrante, consubstanciada na negativa ao estabelecimento da pena-base no mínimo legal, bem como à redução da fração referente à continuidade delitiva.
+Todavia, o presente habeas corpus investe contra um acórdão com trânsito em julgado. Por essa razão, não deve ser conhecido, uma vez que foi utilizado como substituto de uma revisão criminal, em um contexto em que não se estabeleceu a competência originária desta Corte.
+Conforme o artigo 105, inciso I, alínea "e", da Constituição Federal, compete ao Superior Tribunal de Justiça, originariamente, "as revisões criminais e as ações rescisórias de seus julgados". Nessa linha:
+ ..
+1. Na hipótese, a condenação transitou em julgado em 31/5/2023. Dessa forma, o presente writ seria sucedâneo de revisão criminal, sendo esta Corte incompetente para o processamento do pleito revisional.
+ ..
+3. Agravo regimental desprovido.
+(AgRg no HC n. 861.867/SC, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 2/9/2024, DJe de 6/9/2024.)
+De todo modo, não vislumbro a presença de ilegalidade flagrante que desafie a concessão da ordem nos termos do artigo 654, § 2º, do Código de Processo Penal.
+Ante o exposto, não conheço do habeas corpus.
+Publique-se. Intimem-se.
+ EMENTA
