@@ -1,0 +1,21 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em favor de PATRICIA MUNIZ GOMES DA COSTA (PATRICIA MUNIZ ANDRADE), condenada pela prática do crime previsto no art. 35 da Lei n. 11.343/2006, à pena de 3 anos de reclusão e 700 dias-multa, tendo o Tribunal de origem fixado o regime inicial fechado para o cumprimento da reprimenda, por ocasião do julgamento da Apelação Criminal n. 0024206-08.2015.8.26.0114, oriunda da 5ª Vara Criminal da Comarca de Campinas/SP.
+Aponta-se como autoridade coatora o Tribunal de Justiça de São Paulo, que, ao julgar o recurso de apelação, afastou as preliminares defensivas, negou provimento aos apelos da defesa e deu parcial provimento ao recurso ministerial para, dentre outras providências, estabelecer o regime inicial fechado a todos os condenados pelo delito de associação para o tráfico.
+Sustenta a impetração, em síntese, a possibilidade de concessão da ordem por extensão, ao argumento de que a paciente se encontra em idêntica situação fático-processual de corréu que, nesta Corte Superior, obteve o restabelecimento do regime semiaberto no julgamento do HC n. 881827/SP. Alega, ainda, a iminência do início do cumprimento da pena em regime mais gravoso.
+Requer, em sede liminar, a fixação do regime semiaberto; e, no mérito, a concessão definitiva da ordem, por extensão, com a adoção dos fundamentos constantes do precedente invocado.
+É o relatório.
+Em minha avaliação, a pretensão liminar não comporta acolhimento.
+Ao compulsar os autos, constato que a pretensão defensiva está integralmente fundada na aplicação, por extensão, de decisão proferida em favor de corréu, sem, contudo, demonstrar, de forma inequívoca, a identidade fático-processual entre as situações.
+Com efeito, a jurisprudência desta Corte Superior é firme no sentido de que a extensão de decisão favorável, nos termos do art. 580 do Código de Processo Penal, exige a comprovação de que os corréus se encontram em idêntica situação jurídica, sem a presença de circunstâncias pessoais ou elementos individualizadores que justifiquem tratamento distinto.
+Igualmente, citem-se: AgRg no HC 744.653/SP, Ministro Ribeiro Dantas, Quinta Turma, DJe de 29/6/2022; e AgRg no RHC n. 189.567/RJ, Ministro Jesuíno Rissato (Desembargador convocado do TJDFT), Sexta Turma, DJe de 11/4/2024.
+Da atenta leitura do acórdão impugnado, depreende-se que o Tribunal de origem procedeu à análise individualizada da dosimetria e do regime de cumprimento de pena, levando em consideração as circunstâncias concretas do caso, inclusive a inserção dos réus em organização criminosa estruturada, a quantidade de entorpecentes movimentada e o contexto das condutas praticadas.
+O acórdão fundamentadamente explicitou que a fixação do regime inicial fechado não decorreu de mera gravidade abstrata do delito, mas das particularidades do caso concreto, notadamente a complexidade da associação criminosa, sua estrutura hierarquizada e a relevante quantidade de drogas envolvida, circunstâncias que, em tese, autorizariam resposta penal mais severa.
+Nesse sentido: AgRg no HC n. 867.825/SP, Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe de 1/12/2023.
+A meu ver, a simples invocação de precedente favorável a corréu, desacompanhada da demonstração concreta de identidade de situações, não autoriza, de plano, a concessão da ordem em caráter liminar.
+Ademais, eventual aferição da efetiva similitude entre a situação da paciente e a do corréu beneficiado demandaria análise mais aprofundada dos elementos fático-probatórios e das circunstâncias individuais consideradas no acórdão recorrido, providência que não se compatibiliza com o juízo sumário próprio da medida liminar.
+Não se verifica, portanto, nesta fase inicial, flagrante ilegalidade ou teratologia apta a justificar a intervenção imediata desta Corte.
+Ante o exposto, indefiro liminarmente a petição inicial (art. 210 do RISTJ).
+Publique-se.
+EMENTA
+HABEAS CORPUS. EXECUÇÃO PENAL. ASSOCIAÇÃO PARA O TRÁFICO. REGIME INICIAL FECHADO. PEDIDO DE EXTENSÃO (ART. 580 DO CPP). AUSÊNCIA DE DEMONSTRAÇÃO DE IDENTIDADE FÁTICO-PROCESSUAL. NECESSIDADE DE ANÁLISE APROFUNDADA. INVIABILIDADE EM SEDE LIMINAR. AUSÊNCIA DE FLAGRANTE ILEGALIDADE.
+Writ indeferido liminarmente.
