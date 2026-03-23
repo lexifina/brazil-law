@@ -1,0 +1,84 @@
+DECISÃO
+Trata-se de habeas corpus com pedido de liminar impetrado em favor de LEONARDO RIBAS em que se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE SANTA CATARINA.
+Consta dos autos que o paciente foi condenado às penas de 10 meses de detenção no regime aberto e de pagamento de 16 dias-multa, como incurso no art. 2º, II, da Lei n. 8.137/1990, c/c o art. 71 do Código Penal (14 vezes), além da obrigação de reparar o dano provocado por sua conduta no valor fixado em R$ 162.496,74.
+A impetrante sustenta a atipicidade da conduta imputada ao paciente, consistente na falta de recolhimento oportuno de créditos de ICMS, relativos a operações comerciais da pessoa jurídica por ele administrada - LEONARDO RIBAS EIRELI -, no período compreendido entre novembro de 2018 e dezembro de 2019.
+Alega que as elementares do tipo concernentes à "contumácia da inadimplência" e ao "dolo de apropriação" não teriam ficado demonstradas nos autos da ação penal de origem.
+De forma alternativa, defende o afastamento da continuidade delitiva, aduzindo a incompatibilidade do reconhecimento da ficção jurídica do art. 71 do CP com o caráter habitual do crime de apropriação indébita tributária.
+Requer, liminarmente e no mérito, a absolvição do paciente ou o reconhecimento de crime único, afastando-se a continuidade delitiva, a fim de reduzir as reprimendas cominadas para 6 meses de detenção e 10 dias-multa.
+Por meio da decisão de fls. 369-371, não se conheceu da impetração em razão do princípio da unirrecorribilidade, decisão confirmada pelo colegiado da Sexta Turma desta Corte Superior no acórdão de fls. 393-397.
+Em recurso ordinário, o Supremo Tribunal Federal acolheu o pedido da defesa, determinando o retorno dos autos para apreciação do mérito da impetração (fls. 455-457).
+É o relatório.
+Esta Corte de Justiça já firmou compreensão de que o habeas corpus não deve ser utilizado como substitutivo do recurso legalmente previsto para a hipótese, impondo-se o não conhecimento da impetração, salvo quando constatada a existência de flagrante ilegalidade no ato judicial impugnado.
+Veja-se, a respeito: AgRg no HC n. 933.316/MG, relator Ministro Messod Azulay Neto, Quinta Turma, julgado em 20/8/2024, DJe de 27/8/2024; AgRg no HC n. 874.713/SP, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 13/8/2024, DJe de 20/8/2024; AgRg no HC n. 918.177/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 19/8/2024, DJe de 22/8/2024; AgRg no HC n. 749.702/SP, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 26/2/2024, DJe de 29/2/2024; AgRg no HC n. 912.662/SP, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 24/6/2024, DJe de 27/6/2024.
+Registrada a impossibilidade de conhecimento do habeas corpus, passo à análise da possível ocorrência de ilegalidade sob a ótica da concessão ofício.
+Ao examinar o conjunto probatório construído nos autos da ação penal de origem, o Tribunal de Justiça estadual considerou demonstrados a materialidade, a autoria delitiva, o elemento subjetivo, bem como o dolo específico, exigido pelo tipo penal imputado ao paciente.
+A propósito, o acórdão impugnado amparou-se nos seguintes fundamentos para manter a condenação do réu (fls. 335-339):
+1. Não há debate quanto à materialidade e à autoria dos fatos, de modo que é incontroverso que Leonardo Ribas, na administração da empresa Leonardo Ribas Eireli, não recolheu R$ 139.791,69 (excluídos multa e juros) referentes ao ICMS relativo às operações tributáveis dos meses de outubro de 2018 a novembro de 2019, conforme termos de inscrição em dívida ativa (Evento 1, doc3 e 5) e demais documentos do Evento 1.
+Além disso, Leonardo Ribas era o administrador da empresa indicado no contrato social (Evento 1, doc10).
+A conduta narrada na denúncia configura o crime previsto no art. 2º, II, da Lei 8.137/90, consistente em "deixar de recolher, no prazo legal, valor de tributo ou de contribuição social, descontado ou cobrado, na qualidade de sujeito passivo de obrigação e que deveria recolher aos cofres públicos".
+Embora não se desconheça a existência de divergências doutrinária e jurisprudencial, entende-se que o ICMS inclui-se na categoria de tributo indireto, na qual o ônus da incidência tributária é transferido pelo contribuinte a terceiro, por meio da sua inclusão no preço da mercadoria.
+ ..
+Quando deixa de recolher aos cofres públicos, em tempo, o montante pago pelo contribuinte de fato, o contribuinte de direito incide na prática vedada no tipo sob exame, e essa é a hipótese dos autos.
+ ..
+A questão foi alvo de apreciação pela Terceira Seção do Superior Tribunal de Justiça em sede de Habeas Corpus, prevalecendo, por maioria de votos, a tese de que o não repasse de ICMS decorrente de operação comercial, seja por operação própria ou em substituição tributária, enquadra-se na conduta criminosa do art. 2º, II, da Lei 8.137/90.
+ ..
+Atualmente o tema encontra-se sumulado: "O crime de apropriação indébita tributária pode ocorrer tanto em operações próprias como em razão de substituição tributária" (STJ, Terceira Seção, Súmula 658, j. 13.9.23).
+ ..
+Quanto à contumácia, a ementa do RHC 163.334 esclarece que "somente se considera criminosa a inadimplência sistemática, contumaz, verdadeiro modus operandi do empresário, seja para enriquecimento ilícito, para lesar a concorrência ou para financiar as próprias atividades".
+O Superior Tribunal de Justiça, é verdade, já deliberou pela inexistência de contumácia quando a sonegação atinge somente três (AgRg no REsp 1.870.389, Relª. Minª. Laurita Vaz, j. 8.2.22; AgRg no AgRg no AR Esp 1.882.358, Rel. Min. Reynaldo Soares da Fonseca, j. 9.11.21; e R Esp 1.894.798, Relª. Minª. Laurita Vaz, j. 9.11.21) e quatro meses (AgRg no AR Esp n. 1.877.226, Rel. Min. Rogério Schietti Cruz, j. 11.10.22; AgRg no R Esp n. 1.859.166, Rel. Min. Rogério Schietti Cruz, j. 9.8.22 e R Esp 1.852.129, Rel. Min. Sebastião Reis Júnior, j. 16.6.20), e até mesmo de seis meses em caso de "réu primário e sem antecedentes criminais" (HC 569.856, Rel. Min. Sebastião Reis Júnior, j. 11.10.22).
+No caso, porém, o processo cuida da perpetração de catorze sonegações, o que é suficiente à verificação da contumácia, tanto que o Superior Tribunal de Justiça manteve acórdão desse Tribunal de Justiça no qual se concluiu que "a contumácia igualmente se revela presente, mormente por ter o apelante cometido o crime por 8 (oito) vezes ao longo do ano de 2019" (AgRg nos EDcl no REsp 2.013.545, Rel. Min. Sebastião Reis Júnior, j. 2.10.23).
+ ..
+2. O dolo de apropriação, negado pelo Apelante Leonardo Ribas, segundo o precedente paradigma do Supremo Tribunal Federal, deve ser "apurado a partir de circunstâncias objetivas factuais", podendo ser considerados para tanto "o inadimplemento prolongado sem tentativa de regularização dos débitos, a venda de produtos abaixo do preço de custo, a criação de obstáculos à fiscalização, a utilização de "laranjas" no quadro societário, a falta de tentativa de regularização dos débitos, o encerramento irregular das suas atividades, a existência de débitos inscritos em dívida ativa em valor superior ao capital social integralizado etc.".
+Está presente o elemento subjetivo específico.
+Os débitos referem-se a catorze sonegações continuadas e encontram-se inscritos em dívida ativa desde abril e junho de 2020, e não há nos autos qualquer comprovação de tentativa de regularização.
+Além disso, o valor inscrito supera o do capital social integralizado (R$ 100.000,00, Evento 1, doc10).
+3. A Súmula 659 do Superior Tribunal de Justiça estabelece que "a fração de aumento em razão da prática de crime continuado deve ser fixada de acordo com o número de delitos cometidos, aplicando-se 1/6 pela prática de duas infrações, 1/5 para três, 1/4 para quatro, 1/3 para cinco, 1/2 para seis e 2/3 para sete ou mais infrações" (Terceira Seção, j. 13.9.23).
+No delito tributário relativo ao ICMS a prática delitiva ocorre mês a mês, no vencimento do prazo de pagamento do tributo que não foi arrecadado aos cofres públicos.
+A Lei Estadual 10.297/96, que "dispõe sobre o Imposto sobre Operações Relativas à Circulação de Mercadorias e sobre Prestações de Serviços de Transporte Interestadual e Intermunicipal e de Comunicação - ICMS", prevê:
+Art. 32. O imposto a recolher será apurado mensalmente, pelo confronto entre os débitos e os créditos escriturados durante o mês, em cada estabelecimento do sujeito passivo.
+ ..
+Art. 36. O imposto será recolhido nos prazos previstos em regulamento.
+O art. 60 do RICMS/SC-01 estabelece que "o imposto será recolhido até o 10º (décimo) dia após o encerramento do período de apuração".
+Diante disso, a sonegação por catorze meses leva à fração máxima da continuidade delitiva, sem qualquer espaço para falar-se em desproporcionalidade.
+Como visto, a responsabilidade criminal do paciente em relação aos fatos imputados decorre das conclusões alcançadas pelas instâncias antecedentes a partir dos elementos de convicção carreados aos autos.
+Nesse contexto, mostra-se inviável o acolhimento da pretensão absolutória, por atipicidade da conduta, haja vista a inviabilidade de amplo revolvimento de matéria fático-probatória nesta estreita via processual.
+A esse respeito, "o habeas corpus não é a via adequada para apreciar o pedido de absolvição ou de desclassificação de condutas, tendo em vista que, para se desconstituir o decidido pelas instâncias de origem, mostra-se necessário o reexame aprofundado dos fatos e das provas constantes dos autos, procedimento vedado pelos estreitos limites do writ, caracterizado pelo rito célere e por não admitir dilação probatória" (AgRg no RHC n. 198.668/MG, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 1/7/2024, DJe de 3/7/2024).
+Citam-se, na mesma linha, os seguintes julgados: AgRg no HC n. 839.334/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe de 26/9/2023; AgRg no HC n. 817.562/RS, Quinta Turma, relator Ministro Reynaldo Soares da Fonseca, DJe de 30/6/2023; AgRg no HC n. 780.022/SP, relatora Ministra Laurita Vaz, Sexta Turma, DJe de 21/8/2023; AgRg no HC 812.438/SP, Quinta Turma, relator Ministro Ribeiro Dantas, DJe de 29/6/2023; HC n. 704.718/SP, Sexta Turma, relatora Ministra Laurita Vaz, DJe de 23/5/2023; e AgRg no HC 811.106/SP, Sexta Turma, relator Ministro Rogerio Schietti Cruz, DJe de 22/6/2023; AgRg no HC n. 822.563/AL, relator Ministro Joel Ilan Paciornik, Quinta Turma, DJe de 16/8/2023; AgRg no HC n. 770.180/SP, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, DJe de 19/4/2023; AgRg no HC n. 748.272/MS, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, DJe de 16/2/2023.
+No mais, o reconhecimento da continuidade delitiva em crimes tributários como o que se apresenta na hipótese, encontra amparo na jurisprudência do Superior Tribunal de Justiça, que entende cada período mensal de apuração do ICMS declarado e não pago como uma ação ilícita autônoma, nos termos do art. 71 do Código Penal.
+Nessa esteira de entendimento são os precedentes:
+DIREITO PENAL. AGRAVO REGIMENTAL. HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. INADMISSIBILIDADE. CRIME TRIBUTÁRIO. ICMS DECLARADO E NÃO PAGO. CONTUMÁCIA E DOLO DE APROPRIAÇÃO. CONTINUIDADE DELITIVA. AGRAVO REGIMENTAL NÃO PROVIDO.
+I. CASO EM EXAME
+1. Agravo regimental interposto contra decisão monocrática que não conheceu de habeas corpus impetrado em favor de administradores de sociedade empresária, acusados de prática do crime previsto no art. 2º, II, da Lei nº 8.137/1990, por não recolherem, de forma contumaz e com dolo de apropriação, o ICMS devido ao fisco.
+2. A decisão agravada aplicou a orientação consolidada do STJ e do STF sobre a inadmissibilidade do habeas corpus substitutivo de recurso próprio, ressalvados os casos de flagrante ilegalidade, e concluiu pela inexistência de teratologia ou coação ilegal apta a ensejar concessão de ordem de ofício.
+3. O acórdão do Tribunal de origem reconheceu a tipicidade do delito com base em prova documental pré-constituída, na condição dos pacientes como administradores da sociedade empresária e na existência de outras ações penais pelo mesmo delito em diversos períodos, evidenciando reiteração no inadimplemento tributário.
+4. A agravante sustenta que a matéria é de direito, sem necessidade de reanálise fático-probatória, e invoca precedente que reconheceu atipicidade na ausência de dolo de apropriação. Requer a concessão de ordem de ofício com fundamento no art. 647-A do CPP e, subsidiariamente, o reconhecimento de crime único com afastamento da continuidade delitiva.
+II. QUESTÃO EM DISCUSSÃO
+5. Há duas questões em discussão: (i) saber se o habeas corpus substitutivo de recurso próprio é admissível na hipótese de ausência de flagrante ilegalidade; e (ii) saber se o não recolhimento contumaz e doloso do ICMS declarado e não pago configura crime único ou continuidade delitiva, considerando a pluralidade de condutas.
+III. RAZÕES DE DECIDIR
+6. A inadmissibilidade do habeas corpus substitutivo de recurso próprio está consolidada na jurisprudência do STJ e do STF, salvo em casos de flagrante ilegalidade.
+7. A inovação legislativa trazida pelo art. 647-A do CPP não ampliou o cabimento do habeas corpus, apenas codificou a possibilidade de concessão de ordem de ofício diante de manifesta ilegalidade.
+8. A análise do dolo e da contumácia no não recolhimento do ICMS declarado e não pago foi realizada pelo Tribunal de origem com base em elementos concretos dos autos, sendo vedado o reexame do conjunto fático-probatório pela via do habeas corpus.
+9. Cada período mensal de apuração do ICMS declarado e não pago configura uma ação ilícita autônoma, caracterizando continuidade delitiva nos termos do art. 71 do Código Penal.
+10. A tese de crime habitual, incompatível com concurso de crimes, não encontra respaldo na jurisprudência do STJ, que reconhece a pluralidade de condutas criminosas no caso de reiteração no não recolhimento do tributo declarado em múltiplos períodos de apuração.
+11. O agravo regimental não apresenta argumentos novos capazes de modificar a conclusão adotada na decisão monocrática, que corretamente aplicou os fundamentos jurisprudenciais ao caso concreto.
+IV. DISPOSITIVO E TESE
+12. Resultado do Julgamento: Agravo regimental não provido.
+Tese de julgamento:
+1. O habeas corpus substitutivo de recurso próprio é inadmissível, salvo em casos de flagrante ilegalidade.
+2. A inobservância do procedimento do art. 226 do CPP torna inválido o reconhecimento da pessoa suspeita e não poderá servir de lastro a eventual condenação, mesmo se confirmado o reconhecimento em juízo.
+3. O não recolhimento contumaz e doloso do ICMS declarado e não pago configura pluralidade de condutas criminosas, caracterizando continuidade delitiva nos termos do art. 71 do Código Penal.
+4. A contumácia no inadimplemento tributário não caracteriza crime habitual, mas sim pluralidade de condutas ilícitas.
+Dispositivos relevantes citados:CPP, art. 647-A; CP, art. 71; Lei nº 8.137/1990, art. 2º, II.
+Jurisprudência relevante citada: STF, RHC 163.334/SC; STJ, AgRg no HC 760.150/SC, Rel. Min. Rogerio Schietti Cruz, Sexta Turma, julgado em 17/4/2023, DJe de 19/4/2023.
+(AgRg no HC n. 900.461/SC, relator Ministro Messod Azulay Neto, Quinta Turma, julgado em 3/2/2026, DJEN de 10/2/2026.)
+PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. CRIME TRIBUTÁRIO. ICMS DECLARADO E NÃO PAGO. CONTUMÁCIA DELITIVA E DOLO DE APROPRIAÇÃO. DOZE AÇÕES ILÍCITAS EM CONTINUIDADE DELITIVA. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. O STJ entende ser típica a conduta de deixar de repassar ao fisco o ICMS indevidamente apropriado. A ausência de fraude na apuração do tributo não é pressuposto desse delito, visto que ele não é praticado na clandestinidade. A conduta dolosa consiste na consciência de não recolher o valor do tributo devido. Precedentes.
+2. A contumácia delitiva e o dolo de apropriação foram estabelecidos com base nas doze ações delituosas praticadas em sequência, circunstância que não se coaduna com a tese da inexigibilidade de conduta diversa.
+3. Cada período mensal de apuração do ICMS declarado e não pago configura uma ação ilícita. Na hipótese, foi constatado o inadimplemento de doze exações, o que caracteriza a continuidade delitiva.
+4. Agravo regimental não provido.
+(AgRg no HC n. 760.150/SC, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 17/4/2023, DJe de 19/4/2023.)
+Portanto, como já referido, o afastamento da responsabilidade criminal do paciente acarretaria necessariamente o amplo revolvimento da matéria fático-probatória, providência incabível na via eleita.
+Ante o exposto, com fundamento no art. 210 do Regimento Interno do Superior Tribunal de Justiça, não conheço habeas corpus.
+Cientifique-se o Ministério Público Federal.
+Publique-se. Intimem-se.
+EMENTA
