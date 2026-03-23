@@ -1,0 +1,95 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 17/03/2026 a 23/03/2026, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Raul Araújo, Maria Isabel Gallotti, Antonio Carlos Ferreira e Luís Carlos Gambogi (Desembargador Convocado do TJMG) votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro João Otávio de Noronha.
+EMENTA
+DIREITO PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. COBRANÇA DE HONORÁRIOS ADVOCATÍCIOS POR ARBITRAMENTO. ÔNUS DA PROVA E COISA JULGADA. AGRAVO EM RECURSO ESPECIAL DESPROVIDO.
+I. CASO EM EXAME
+1. Agravo em recurso especial interposto contra decisão que inadmitiu o recurso especial por ausência de demonstração de violação dos arts. 22, § 2º, da Lei n. 8.906/1994, 373, I, e 503, § 1º, do Código de Processo Civil; incidência da Súmula n. 7 do STJ; deficiência de fundamentação quanto aos arts. 85, §§ 2º, 8º e 14, do Código de Processo Civil, com aplicação da Súmula n. 284 do STF; e, pela alínea c, por ausência de cotejo analítico e de transcrição dos trechos paradigmáticos.
+2. A controvérsia diz respeito a ação de cobrança de honorários advocatícios por arbitramento judicial, em que se pleiteia remuneração por cada atuação judicial em oito processos, além das mensalidades, sob fundamento de contrato de assessoria extrajudicial com remuneração apartada para intervenções judiciais. O valor da causa foi fixado em R$ 1.000,00.
+3. A sentença julgou improcedentes os pedidos e fixou honorários advocatícios em R$ 2.500,00, nos termos dos §§ 2º e 8º do art. 85 do Código de Processo Civil.
+4. A Corte de origem reformou integralmente a sentença para reconhecer o direito ao arbitramento por ato privativo de advogado, remetendo à liquidação, e inverteu os ônus de sucumbência, fixando honorários em 15% sobre o valor da condenação a apurar.
+II. QUESTÃO EM DISCUSSÃO
+5. Há cinco questões em discussão: (i) saber se houve violação do art. 373, I, do Código de Processo Civil, por desoneração do autor do ônus da prova sobre a existência, validade e conteúdo do ajuste e sobre a limitação da advocacia de partido ao âmbito extrajudicial; (ii) saber se o arbitramento de honorários afronta o art. 22, § 2º, da Lei n. 8.906/1994, por ausência de ajuste prévio escrito ou avença expressa na advocacia de partido; (iii) saber se a aplicação dos arts. 85, §§ 2º, 8º e 14, do Código de Processo Civil desconsiderou parâmetros legais e reconheceu natureza alimentar sem base contratual válida; (iv) saber se o reconhecimento de coisa julgada material, com fundamento no art. 503, § 1º, do Código de Processo Civil, decorreu de demandas sem identidade de causa de pedir e pedido; e (v) saber se houve dissídio jurisprudencial, nos termos do art. 1.029, § 1º, do Código de Processo Civil e do art. 255, § 1º, do RISTJ, quanto à cobrança adicional sem ajuste escrito na advocacia de partido e ao ônus da prova.
+III. RAZÕES DE DECIDIR
+6. Incide a Súmula n. 7 do STJ quanto ao art. 373, I, do Código de Processo Civil, pois a conclusão do acórdão recorrido se baseou na análise do conjunto fático-probatório para reconhecer a prestação de serviços e a necessidade de remuneração por arbitramento.
+7. Incide a Súmula n. 7 do STJ no exame do art. 22, § 2º, da Lei n. 8.906/1994, porque a conclusão sobre arbitramento se fundou nas provas e nas circunstâncias do caso, com remessa à liquidação segundo parâmetros da OAB.
+8. Aplica-se a Súmula n. 284 do STF às alegações relativas aos arts. 85, §§ 2º, 8º e 14, do Código de Processo Civil, por deficiência de fundamentação, diante da mera citação numérica desacompanhada de demonstração específica da violação.
+9. Incide a Súmula n. 7 do STJ quanto ao art. 503, § 1º, do Código de Processo Civil, porque a revisão do reconhecimento de coisa julgada material demanda revolvimento do acervo probatório.
+10. Não se conhece do dissídio jurisprudencial, por inobservância do art. 1.029, § 1º, do Código de Processo Civil e do art. 255, § 1º, do RISTJ, ausentes o cotejo analítico e a transcrição dos trechos paradigmas.
+IV. DISPOSITIVO E TESE
+11. Agravo em recurso especial desprovido.
+Tese de julgamento: "1. Incide a Súmula n. 7 do STJ quando a reforma pretendida demanda reexame do conjunto fático-probatório para infirmar conclusões sobre ônus da prova, arbitramento e coisa julgada. 2. Aplica-se a Súmula n. 284 do STF quando a alegação de violação legal é deduzida com fundamentação genérica, sem demonstração específica do desacerto. 3. O conhecimento pela alínea c exige cotejo analítico, com demonstração de similitude fática e transcrição dos trechos paradigmas, nos termos do art. 1.029, § 1º, do Código de Processo Civil e do art. 255, § 1º, do RISTJ".
+Dispositivos relevantes citados: CPC, arts. 85, §§ 2º, 8º e 14, 373, I, 503, § 1º, e 1.029, § 1º; Lei n. 8.906/1994, art. 22, § 2º; RISTJ, art. 255, § 1º.
+Jurisprudência relevante citada: STJ, Súmula n. 7; STF, Súmula n. 284.
+RELATÓRIO
+Trata-se de agravo em recurso especial interposto por ROBERTO BELETATI e OUTRO contra a decisão que inadmitiu o recurso especial, pelos óbices: pela alínea a, por não ter sido demonstrada vulneração dos arts. 22, §2º, da Lei n. 8.906/1994, 373, I, e 503, §1º, do Código de Processo Civil, pela incidência da Súmula n. 7 do STJ, e pela deficiência de fundamentação quanto aos arts. 85, §§ 2º, 8º e 14, do Código de Processo Civil, com aplicação da Súmula n. 284 do STF; e, pela alínea c, por ausência de cotejo analítico e de transcrição dos trechos paradigmáticos, nos termos do art. 1.029, §1º, do Código de Processo Civil (fls. 4.920-4.922).
+Alega a parte agravante que os pressupostos de admissibilidade do recurso especial foram atendidos.
+O recurso especial foi interposto com fundamento no art. 105, III, a e c, da Constituição Federal, contra acórdão do Tribunal de Justiça de São Paulo em apelação cível nos autos de ação de cobrança de honorários advocatícios por arbitramento judicial.
+O julgado foi assim ementado (fl. 4.829):
+APELAÇÃO. PRESTAÇÃO DE SERVIÇOS ADVOCATÍCIOS. HONORÁRIOS ADVOCATÍCIOS CONTRATUAIS. RECURSO PROVIDO.
+I. Caso em Exame: Cobrança da prestação de serviços advocatícios efetivamente prestados pela banca de advogados, ainda que se considere a ausência de contrato escrito ou devidamente assinado.
+II. Questão em Discussão: A questão em discussão consiste em verificar se a sociedade de advogados deve ser remunerada por cada ato privativo de advogado referente ao contrato firmado em 2005.
+III. Razões de Decidir: Conjunto probatório acostado aos autos que demonstra efetiva prestação de serviços advocatícios que merecem ser devidamente remunerados, ainda que se considere a ausência de contrato escrito. Existência de coisa julgada material que impede a reanálise da questão jurídica já decidida, conforme inteligência do art. 503, §1º do CPC. A prestação de serviços advocatícios deve ser remunerada conforme art. 85, §8º do CPC, art. 36 do Código de Ética e Disciplina da OAB e art. 22, §2º da Lei nº 8.906/94.
+IV. Tese de julgamento:
+1. Conjunto probatório que milita no sentido de que houve efetiva prestação de serviços advocatícios por parte da banca de advogados, ainda que se considere a ausência de contrato escrito ou devidamente assinado.
+2. Existência de coisa julgada material que impede inclusive a reanálise de questões já decididas.
+3. A prestação de serviços advocatícios deve ser devidamente remunerada, por meio de arbitramento, devendo tudo ser apurado em sede de liquidação de sentença. Sentença reformada. Honorários invertidos.
+RECURSO PROVIDO.
+Não foram opostos embargos de declaração.
+No recurso especial, a parte aponta, além de divergência jurisprudencial, violação dos seguintes artigos:
+a) 373, I, do Código de Processo Civil, porque o acórdão desonerou o recorrido do ônus de provar a existência, validade e conteúdo do contrato, e a ciência dos recorrentes quanto à limitação da advocacia de partido ao âmbito extrajudicial, invertendo indevidamente a prova e condenando com base em presunção de cláusula não assinada (fls. 4.848-4.849);
+b) 22, §2º, da Lei n. 8.906/1994, já que se admitiu arbitramento de honorários por serviços prestados em regime de advocacia de partido sem ajuste prévio escrito ou avença expressa, o que seria vedado (fls. 4.850-4.851); e
+c) 85, §§ 2º, 8º e 14, do Código de Processo Civil, pois o arbitramento e a fixação de honorários desconsideraram parâmetros legais, e o reconhecimento de verba alimentar se deu sem base contratual válida (fls. 4.847, 4.850-4.851); e
+d) 503, §1º, do Código de Processo Civil, porquanto o acórdão reconheceu coisa julgada material a partir de processos com pedidos e causas de pedir distintas, sem contraditório efetivo sobre obrigação de pagar honorários por cada ato isolado, impedindo reexame (fl. 4.851).
+Requer o provimento do recurso para que se reconheça a impossibilidade de cobrança de honorários por atos isolados sem prévia pactuação expressa na vigência da advocacia de partido e a inexistência de coisa julgada material sobre o tema; requer ainda o provimento para reformar o acórdão quanto ao ônus da prova do contrato e, subsidiariamente, que se determine o retorno dos autos ao Tribunal de origem para novo julgamento, conforme precedentes do STJ (fls. 4.854-4.855).
+Contrarrazões às fls. 4.896-4.913.
+É o relatório.
+EMENTA
+DIREITO PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. COBRANÇA DE HONORÁRIOS ADVOCATÍCIOS POR ARBITRAMENTO. ÔNUS DA PROVA E COISA JULGADA. AGRAVO EM RECURSO ESPECIAL DESPROVIDO.
+I. CASO EM EXAME
+1. Agravo em recurso especial interposto contra decisão que inadmitiu o recurso especial por ausência de demonstração de violação dos arts. 22, § 2º, da Lei n. 8.906/1994, 373, I, e 503, § 1º, do Código de Processo Civil; incidência da Súmula n. 7 do STJ; deficiência de fundamentação quanto aos arts. 85, §§ 2º, 8º e 14, do Código de Processo Civil, com aplicação da Súmula n. 284 do STF; e, pela alínea c, por ausência de cotejo analítico e de transcrição dos trechos paradigmáticos.
+2. A controvérsia diz respeito a ação de cobrança de honorários advocatícios por arbitramento judicial, em que se pleiteia remuneração por cada atuação judicial em oito processos, além das mensalidades, sob fundamento de contrato de assessoria extrajudicial com remuneração apartada para intervenções judiciais. O valor da causa foi fixado em R$ 1.000,00.
+3. A sentença julgou improcedentes os pedidos e fixou honorários advocatícios em R$ 2.500,00, nos termos dos §§ 2º e 8º do art. 85 do Código de Processo Civil.
+4. A Corte de origem reformou integralmente a sentença para reconhecer o direito ao arbitramento por ato privativo de advogado, remetendo à liquidação, e inverteu os ônus de sucumbência, fixando honorários em 15% sobre o valor da condenação a apurar.
+II. QUESTÃO EM DISCUSSÃO
+5. Há cinco questões em discussão: (i) saber se houve violação do art. 373, I, do Código de Processo Civil, por desoneração do autor do ônus da prova sobre a existência, validade e conteúdo do ajuste e sobre a limitação da advocacia de partido ao âmbito extrajudicial; (ii) saber se o arbitramento de honorários afronta o art. 22, § 2º, da Lei n. 8.906/1994, por ausência de ajuste prévio escrito ou avença expressa na advocacia de partido; (iii) saber se a aplicação dos arts. 85, §§ 2º, 8º e 14, do Código de Processo Civil desconsiderou parâmetros legais e reconheceu natureza alimentar sem base contratual válida; (iv) saber se o reconhecimento de coisa julgada material, com fundamento no art. 503, § 1º, do Código de Processo Civil, decorreu de demandas sem identidade de causa de pedir e pedido; e (v) saber se houve dissídio jurisprudencial, nos termos do art. 1.029, § 1º, do Código de Processo Civil e do art. 255, § 1º, do RISTJ, quanto à cobrança adicional sem ajuste escrito na advocacia de partido e ao ônus da prova.
+III. RAZÕES DE DECIDIR
+6. Incide a Súmula n. 7 do STJ quanto ao art. 373, I, do Código de Processo Civil, pois a conclusão do acórdão recorrido se baseou na análise do conjunto fático-probatório para reconhecer a prestação de serviços e a necessidade de remuneração por arbitramento.
+7. Incide a Súmula n. 7 do STJ no exame do art. 22, § 2º, da Lei n. 8.906/1994, porque a conclusão sobre arbitramento se fundou nas provas e nas circunstâncias do caso, com remessa à liquidação segundo parâmetros da OAB.
+8. Aplica-se a Súmula n. 284 do STF às alegações relativas aos arts. 85, §§ 2º, 8º e 14, do Código de Processo Civil, por deficiência de fundamentação, diante da mera citação numérica desacompanhada de demonstração específica da violação.
+9. Incide a Súmula n. 7 do STJ quanto ao art. 503, § 1º, do Código de Processo Civil, porque a revisão do reconhecimento de coisa julgada material demanda revolvimento do acervo probatório.
+10. Não se conhece do dissídio jurisprudencial, por inobservância do art. 1.029, § 1º, do Código de Processo Civil e do art. 255, § 1º, do RISTJ, ausentes o cotejo analítico e a transcrição dos trechos paradigmas.
+IV. DISPOSITIVO E TESE
+11. Agravo em recurso especial desprovido.
+Tese de julgamento: "1. Incide a Súmula n. 7 do STJ quando a reforma pretendida demanda reexame do conjunto fático-probatório para infirmar conclusões sobre ônus da prova, arbitramento e coisa julgada. 2. Aplica-se a Súmula n. 284 do STF quando a alegação de violação legal é deduzida com fundamentação genérica, sem demonstração específica do desacerto. 3. O conhecimento pela alínea c exige cotejo analítico, com demonstração de similitude fática e transcrição dos trechos paradigmas, nos termos do art. 1.029, § 1º, do Código de Processo Civil e do art. 255, § 1º, do RISTJ".
+Dispositivos relevantes citados: CPC, arts. 85, §§ 2º, 8º e 14, 373, I, 503, § 1º, e 1.029, § 1º; Lei n. 8.906/1994, art. 22, § 2º; RISTJ, art. 255, § 1º.
+Jurisprudência relevante citada: STJ, Súmula n. 7; STF, Súmula n. 284.
+VOTO
+A controvérsia diz respeito a ação de cobrança de honorários advocatícios mediante arbitramento judicial, em que a parte autora pleiteou a condenação dos réus ao pagamento de honorários por cada atuação judicial em oito processos listados, além das mensalidades, sob o fundamento de contrato de assessoria extrajudicial com remuneração apartada para intervenções judiciais. O valor da causa foi fixado em R$ 1.000,00.
+Na sentença, o Juízo de primeiro grau julgou improcedentes os pedidos e fixou honorários advocatícios em R$ 2.500,00, nos termos dos §§ 2º e 8º do art. 85 do Código de Processo Civil (fls. 4.761-4.764).
+A Corte de origem reformou integralmente a sentença para reconhecer o direito ao arbitramento de honorários por cada ato privativo de advogado, remetendo à liquidação, e inverteu os ônus de sucumbência, fixando honorários em 15% sobre o valor da condenação a apurar (fls. 4.828-4.840).
+I - Art. 373, I, do Código de Processo Civil
+No recurso especial, a parte recorrente alega que o acórdão desonerou o autor do ônus de provar a existência, validade e conteúdo do ajuste, inclusive a ciência dos recorrentes de que a advocacia de partido seria restrita ao âmbito extrajudicial, invertendo indevidamente a carga probatória (fls. 4.848-4.849).
+O acórdão recorrido concluiu, a partir do conjunto probatório, pela efetiva prestação de serviços e pela necessidade de remuneração por arbitramento, valorizando documentos e atuação em processos, além de reconhecer coisa julgada material quanto à natureza da relação e à remuneração por atividades judiciais, nos termos do art. 503, §1º, do Código de Processo Civil (fls. 4.829-4.837).
+A pretensão de simples reexame do acervo fático-probatório encontra óbice na Súmula n. 7 do STJ.
+II - Art. 22, §2º, da Lei n. 8.906/1994
+A recorrente afirma que houve arbitramento de honorários por serviços sob regime de advocacia de partido sem ajuste prévio escrito ou avença expressa, em afronta ao §2º do art. 22 (fls. 4.850-4.851).
+O acórdão recorrido assentou a remuneração por arbitramento com base na efetiva prestação de serviços, na natureza alimentar dos honorários e no art. 22, §2º, da Lei n. 8.906/1994, remetendo à liquidação para apuração segundo parâmetros da OAB (fls. 4.833-4.835, 4.838-4.839).
+A revisão dessa conclusão, calcada nas provas e circunstâncias do caso, encontra óbice na Súmula n. 7 do STJ.
+III - Arts. 85, §§ 2º, 8º e 14, do Código de Processo Civil
+A parte alega que o arbitramento e a fixação de honorários desconsideraram parâmetros legais, e que a natureza alimentar foi reconhecida sem base contratual válida (fls. 4.847, 4.850-4.851).
+O acórdão aplicado o art. 85, §8º, do Código de Processo Civil para assegurar a remuneração pelos serviços, reconheceu a natureza alimentar dos honorários conforme o § 14, e fixou honorários sucumbenciais em 15% sobre o valor da condenação (fls. 4.833-4.840).
+A mera citação numérica de dispositivos legais, desacompanhada da necessária demonstração específica da violação, consubstancia deficiência de fundamentação e atrai a incidência da Súmula n. 284 do STF.
+IV - Art. 503, §1º, do Código de Processo Civil
+Alega o recorrente que o reconhecimento de coisa julgada material se deu a partir de demandas sem identidade de causa de pedir e pedido e sem contraditório efetivo sobre obrigação de pagar honorários por atos isolados (fl. 4.851).
+O acórdão recorrido, com base em julgados anteriores entre as partes e na certidão de trânsito, reconheceu a eficácia preclusiva e a coisa julgada sobre a natureza da relação e a remuneração da atividade judicial desenvolvida, nos termos do art. 503, §1º, do Código de Processo Civil (fls. 4.835-4.837).
+Rever essa conclusão, assentada em elementos dos autos e em decisões pretéritas, demanda revolvimento do acervo probatório, o que é inviável em recurso especial ante a Súmula n. 7 do STJ.
+V - Divergência jurisprudencial
+Sustenta que o Tribunal de origem, ao admitir cobrança adicional sem ajuste prévio escrito na advocacia de partido e ao desonerar o ônus da prova, divergiu de julgados do TJSP e de orientação sobre advocacia de partido, e referencia o AgInt no AREsp n. 1.883.311 (fls. 4.852-4.854).
+Para a interposição de recurso especial fundado na alínea c do permissivo constitucional, é necessário o atendimento dos requisitos essenciais para a comprovação do dissídio jurisprudencial, conforme prescrições dos arts. 1.029, § 1º, do Código de Processo Civil e 255, § 1º, do RISTJ.
+Isso porque não basta a simples transcrição de ementas; impõe-se o devido confronto analítico, com demonstração da similitude fática entre os julgados, o que não foi atendido no caso.
+VI - Conclusão
+Ante o exposto, nego provimento ao agravo em recurso especial.
+Nos termos do § 11 do art. 85 do Código de Processo Civil, majoro, em 10% sobre o valor já arbitrado nas instâncias de origem, os honorários advocatícios em desfavor da parte ora recorrente, observados, se aplicáveis, os limites percentuais previstos no § 2º do referido artigo e ressalvada eventual concessão de gratuidade de justiça.
+É o voto.
