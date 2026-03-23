@@ -1,0 +1,1 @@
+Art. 25-A. Os requisitos e procedimentos para registro, ou notificação, e comercialização de produtos sujeitos à vigilância sanitária considerados de uso tradicional serão regulamentados por ato específico da Agência Nacional de Vigilância Sanitária.
