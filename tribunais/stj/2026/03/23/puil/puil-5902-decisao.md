@@ -1,0 +1,43 @@
+DECISÃO
+Trata-se de Pedido de Uniformização de Interpretação de Lei - PUIL, formulado por JOSÉ VICTOR DOMINGOS, contra acórdão da Sexta Turma Recursal do Juizado Especial do Tribunal de Justiça do Estado do Paraná, assim ementado (FLS. 446-447):
+RECURSO INOMINADO. SANEPAR. AÇÃO DECLARATÓRIA DE COBRANÇA INDEVIDA C/C REPETIÇÃO DE INDÉBITO E INDENIZAÇÃO POR DANOS MORAIS. COBRANÇA DE DUAS ECONOMIAS - RESIDENCIAL E COMERCIAL - EM IMÓVEL COM UM ÚNICO HIDRÔMETRO. EXISTÊNCIA DE ATIVIDADE PROFISSIONAL NO LOCAL COM ATENDIMENTO AO PÚBLICO. LEGITIMIDADE DA METODOLOGIA DE COBRANÇA ADOTADA PELA CONCESSIONÁRIA, EM CONSONÂNCIA COM O TEMA 414 DO STJ E A LEGISLAÇÃO APLICÁVEL. INEXISTÊNCIA DE IRREGULARIDADE NA TARIFAÇÃO. COBRANÇA DEVIDA. SENTENÇA MANTIDA. RECURSO CONHECIDO E NÃO PROVIDO.
+I. CASO EM EXAME
+1. Recurso inominado interposto pelo autor contra sentença que julgou improcedentes os pedidos formulados em face da SANEPAR, consistentes na declaração de inexigibilidade de débitos, na restituição de valores pagos e na indenização por danos morais, sob a alegação de irregularidade na cobrança de duas economias em imóvel atendido por único hidrômetro.
+II. QUESTÃO EM DISCUSSÃO
+2. A questão em discussão consiste em saber se é devida a cobrança de duas economias, uma residencial e outra comercial, em imóvel que possui um único hidrômetro.
+III. RAZÕES DE DECIDIR
+3. A cobrança de duas economias (residencial e comercial) é devida, pois o imóvel, além de servir de residência, possui um bar, justificando a tarifação diferenciada.
+4. A metodologia de cálculo da tarifa aplicada pela SANEPAR é legítima, conforme entendimento recente do STJ sobre a legalidade da cobrança em imóveis com um único hidrômetro.
+5. Na revisão do Tema 414, o Superior Tribunal de Justiça, ao modular os efeitos de sua decisão, ressalvou expressamente os casos em que as concessionárias já realizavam a cobrança conforme o modelo que veio a ser considerado legítimo, afastando a incidência do princípio tempus regit actum.
+IV. DISPOSITIVO E TESE
+6. Recurso conhecido e não provido.
+Tese de julgamento: "É legítima a cobrança de duas economias - residencial e comercial - em imóvel atendido por um único hidrômetro quando comprovada a existência de atividade profissional no local, em conformidade com o entendimento recente do STJ no Tema 414."
+Em suas razões, o recorrente alega, em síntese, a "necessidade de intervenção do Tribunal Superior de Justiça, para uniformizar a interpretação da legislação federal e do próprio TEMA 414/STJ, corrigindo a indevida ampliação do alcance da esta repetitiva efetuada pela Turma Recursal" (fl. 460).
+Reclama que "Ao aplicar mecanicamente a tese do REsp 1.937.887/RJ, esta Turma Recursal acabou por equiparar um imóvel misto simples (residencial  pequeno comércio) a um condomínio com múltiplas unidades autônomas de consumo, ou que não foi autorizado pelo Tribunal Superior de Justiça quando da revisão do TEMA 414" (fl. 461).
+É o relatório. Decido.
+A Lei n. 12.153/2009, que dispõe sobre os Juizados Especiais da Fazenda Pública no âmbito dos Estados, do Distrito Federal, dos Territórios e dos Municípios, prevê, em seu artigo 18, a competência desta Corte para dirimir a divergência quando a questão controvertida for de direito material e houver divergência de interpretações da lei federal entre Turmas de diferentes Estados ou contrariedade à súmula do Superior Tribunal de Justiça:
+Art. 18. Caberá pedido de uniformização de interpretação de lei quando houver divergência entre decisões proferidas por Turmas Recursais sobre questões de direito material.
+§ 1º O pedido fundado em divergência entre Turmas do mesmo Estado será julgado em reunião conjunta das Turmas em conflito, sob a presidência de desembargador indicado pelo Tribunal de Justiça.
+§ 2º No caso do § 1º, a reunião de juízes domiciliados em cidades diversas poderá ser feita por meio eletrônico.
+§ 3º Quando as Turmas de diferentes Estados derem a lei federal interpretações divergentes, ou quando a decisão proferida estiver em contrariedade com súmula do Superior Tribunal de Justiça, o pedido será por este julgado.
+No caso, aponta-se divergência do acórdão impugnado com o precedente qualificado - Tema 414 - julgado no âmbito dos recursos especiais repetitivos.
+Ocorre, contudo, que embora não se desconheça a existência do precedente qualificado citado, sua observância pelo Tribunal a quo não pode ser desafiada por PUIL, cabendo a parte valer-se de outras vias, para tanto.
+É que, nos termos já assentados pela jurisprudência do STJ, "a indicação de suposta contrariedade a julgado repetitivo não se equipara à alegação de ofensa a enunciado da Súmula do STJ, para fins de cabimento do pedido de uniformização de interpretação de lei" (AgInt no PUIL nº 2.924/SP, relator Ministro Paulo Sérgio Domingues, Primeira Seção, julgado em 28/2/2024, DJe de 1/3/2024.).
+Com a mesma compreensão, os seguintes precedentes da Primeira Seção:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO PEDIDO DE UNIFORMIZAÇÃO DE INTERPRETAÇÃO DE LEI. ALEGADA DIVERGÊNCIA DO ENTENDIMENTO FIRMADO, PELA TURMA RECURSAL ESTADUAL, COM A JURISPRUDÊNCIA DESTA CORTE. NÃO CABIMENTO. PRECEDENTES.
+1. Tendo o recurso sido interposto contra decisão publicada na vigência do Código de Processo Civil de 2015, devem ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+2. "Nos termos do art. 18, § 3º, da Lei n. 12.153/2009, o mecanismo de uniformização de jurisprudência e de submissão das decisões das turmas recursais ao crivo do Superior Tribunal de Justiça, no âmbito dos juizados especiais da Fazenda Pública, restringe-se a questões de direito material, quando as turmas de diferentes estados derem a lei federal interpretações divergentes, ou quando a decisão proferida estiver em contrariedade a súmula do Superior Tribunal de Justiça" (AgInt no PUIL 1.774/BA, relator Ministro Gurgel de Faria, Primeira Seção, DJe 24/11/2020.).
+3. No caso concreto, o requerente aponta suposta divergência com o entendimento desta Corte Superior de Justiça, firmado sob o rito do julgamento dos recursos especiais repetitivos (REsp 1.110.549/RS - Tema 589), hipótese a que não se destina o pedido de uniformização.
+4. Agravo interno não provido.
+(AgInt no PUIL n. 3.876/RO, relator Ministro Benedito Gonçalves, Primeira Seção, julgado em 30/4/2024, DJe de 6/5/2024.).
+PUIL. PROCESSUAL CIVIL. NA ORIGEM: AÇÃO ANULATÓRIA. SUPOSTA DECADÊNCIA DA PRETENSÃO DE INSTAURAÇÃO DE PROCEDIMENTO DE SUSPENSÃO DO DIREITO DE DIRIGIR. DECISÃO AGRAVADA MANTIDA PELOS SEUS FUNDAMENTOS.
+I - Na origem, trata-se de ação anulatória objetivando a declaração de decadência da pretensão de instauração de procedimento de suspensão do direito de dirigir do ora agravante. Na sentença julgou-se improcedente o pedido. Ainda em primeira instância, em embargos de declaração, julgou procedente para reconhecer a decadência do direito de aplicar a infração. Na turma recursal, em sede de recurso inominado, reformou-se a sentença, ao argumento de que o prazo decadencial é o previsto no art. 1º, da Lei n. 9.873/1999, ou seja, cinco anos.
+II - O cabimento de Incidente de Uniformização de Interpretação de Lei ao STJ, no âmbito dos Juizados Especiais da Fazenda Pública, dar-se-á apenas nos casos em que o acórdão regional divirja sobre a interpretação de norma federal daquele firmado por Turma Recursal de outro Estado ou viola diretamente os termos de Enunciado de Súmula do STJ, de sorte que não se presta para sanar divergência entre julgados proferidos pela mesma Turma Recursal, entre Turma Recursal e Tribunal de Justiça, ainda que de estados distintos, nem que afronte a jurisprudência dominante do STJ, mesmo que firmada em sede de Recurso Especial Repetitivo, sob pena de incorrer-se em interpretação extensiva da norma processual, criando uma terceira hipótese de cabimento do Incidente de Uniformização que o legislador ordinário não previu.
+III - A parte requerente se limitou a transcrever excertos dos julgados indicados como divergentes e link de acesso via internet, deixando, pois, de realizar o necessário cotejo analítico e demonstrar a similitude fática entre os julgados.
+IV - Agravo interno desprovido.
+(AgInt no PUIL n. 4.897/SP, relator Ministro Francisco Falcão, Primeira Seção, julgado em 13/8/2025, DJEN de 18/8/2025.)
+Do exposto, não conheço do pedido.
+Publique-se.
+Intimem-se.
+EMENTA
+ADMINISTRATIVO. PEDIDO DE UNIFORMIZAÇÃO DE INTERPRETAÇÃO DE LEI - PUIL. COBRANÇA DE ÁGUA EM IMÓVEL COM HIDRÔMETRO ÚNICO. ALEGADA DIVERGÊNCIA DO ENTENDIMENTO FIRMADO PELA TURMA RECURSAL ESTADUAL COM PRECEDENTE QUALIFICADO DESTA CORTE EM SEDE DE REPETITIVOS. NÃO CABIMENTO. PRECEDENTES. PEDIDO DE UNIFORMIZAÇÃO NÃO CONHECIDO.
