@@ -1,0 +1,38 @@
+DECISÃO
+Trata-se de recurso em habeas corpus com pedido liminar interposto por LEANDRO OLIVEIRA DOS SANTOS contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DA BAHIA.
+Consta dos autos que o recorrente foi preso em flagrante em 5/10/2025, custódia convertida em preventiva, bem como foi denunciado pela suposta prática das condutas descritas nos arts. 33 da Lei n. 11.343/2006 e 14 da Lei n. 10.826/2003, na forma do art. 69 do Código Penal.
+O recorrente sustenta que não há fundamentos concretos para a prisão preventiva, pois a quantidade de droga é reduzida e suas condições pessoais são favoráveis.
+Alega que é primário, tem 20 anos e não possui antecedentes criminais.
+Aduz que foram apreendidas 4,8 g de crack e 5,6 g de cocaína, totalizando 10,4 g, o que indicaria baixa ofensividade.
+Afirma que não houve apreensão de dinheiro, balança de precisão, registros de contabilidade, conteúdos telefônicos incriminadores ou outros apetrechos.
+Defende que a decisão se baseou na gravidade em tese e na forma de acondicionamento, sem demonstrar periculum libertatis nos termos do art. 312 do CPP.
+Entende que a menção a revólver calibre .32, de uso permitido, não é suficiente para justificar a medida extrema, ausentes indícios de emprego em atividade violenta organizada.
+Pondera que, em eventual condenação, poderia ser aplicada a causa de diminuição do art. 33, § 4º, da Lei n. 11.343/2006.
+Relata que a manutenção da custódia é desproporcional e configura antecipação de pena, afrontando a presunção de inocência e a excepcionalidade cautelar.
+Requer, liminarmente, a revogação da prisão preventiva, com expedição de alvará de soltura. E, no mérito, busca o provimento do recurso para determinar a revogação definitiva da custódia; subsidiariamente, a substituição por medidas cautelares diversas.
+É o relatório.
+Quanto à alegada desproporcionalidade da prisão cautelar, "trata-se de prognóstico que somente será confirmado após a conclusão do julgamento da ação penal, não sendo possível inferir, nesse momento processual e na estreita via ora adotada, o eventual regime prisional a ser fixado em caso de condenação (e consequente violação do princípio da homogeneidade)" (AgRg no RHC n. 144.385/MG, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 13/4/2021, DJe de 19/4/2021).
+A prisão cautelar foi assim fundamentada (fls. 67-68, grifei):
+Ademais, resta evidenciada a necessidade de se decretar a custódia preventiva do réus, porquanto a gravidade em concreto do crime supostamente praticado por ele e o modus operandi desenvolvido (em trazer 46 pedras de crack e 04 porções de cocaína, acondicionadas de forma fracionada, em evidente destinação mercantil, bem como 01 arma de fogo de uso permitido com numeração irregular, desprovida de registro, acompanhada de munições) revela a necessidade de se resguardar a ordem pública.
+Em suma, na presente hipótese, constata-se a presença do fumus comissi delicti (materialidade e indícios de autoria) e o periculum libertatis (necessidade de garantir a ordem pública). Além disso, está preenchido o requisito do art. 313, I, do CPP, haja vista a pena máxima superar o referido limite legal, autorizando a manutenção da prisão preventiva.
+A garantia da ordem pública justifica-se pela gravidade concreta dos delitos praticados. O autuado foi preso em flagrante portando arma de fogo municiada e quantidade expressiva de entorpecentes, demonstrando envolvimento direto com o tráfico de drogas e risco concreto à segurança e à paz social da comunidade local.
+Desta forma, os fatos demonstram como o custodiado, quando em liberdade, abala negativamente a ordem pública.
+ ..
+A posse simultânea de arma de fogo e drogas revela o modus operandi típico da criminalidade organizada ligada ao narcotráfico, evidenciando periculosidade concreta e risco de reiteração delitiva.
+A leitura do decreto prisional revela que a custódia cautelar está suficientemente fundamentada na necessidade de garantir a ordem pública, considerando a gravidade da conduta delituosa, pois, por ocasião da prisão em flagrante, houve a apreensão de "46 pedras de crack e 4 porções de cocaína, acondicionadas de forma fracionada, em evidente destinação mercantil, bem como 01 arma de fogo de uso permitido com numeração irregular, desprovida de registro, acompanhada de munições" (fl. 67).
+Registre-se que, na recente alteração promovida no Código de Processo Penal, pela Lei n. 15.272/2025, o legislador determinou, no art. 312, § 3º, III, que, para a aferição da periculosidade do agente e do consequente risco à ordem pública, deve ser considerada a natureza, a quantidade e a variedade das drogas, assim como armas ou munições apreendidas.
+Nesse sentido, " e ntende esta Corte que o porte de arma ou munição, no contexto de tráfico de drogas, poderá justificar a manutenção da prisão, por evidenciar a periculosidade do acusado e a necessidade da segregação como forma de acautelar a ordem pública. Nesse sentido: RHC n. 137.054/CE, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 20/4/2021, DJe 27/4/2021." (AgRg no HC 915.358/SP, relator Ministro Jesuíno Rissato - Desembargador convocado do TJDFT -, Sexta Turma, julgado em 12/8/2024, DJe de 16/8/2024).
+Menciono ainda:
+DIREITO PROCESSUAL PENAL. RECURSO EM HABEAS CORPUS. PRISÃO PREVENTIVA. FUNDAMENTAÇÃO IDÔNEA. EXCESSO DE PRAZO. RECURSO IMPROVIDO.
+1. A prisão preventiva está fundamentada na gravidade concreta dos delitos, evidenciada pela apreensão de drogas prontas para comercialização, arma de fogo com numeração suprimida e pela confissão do recorrente de envolvimento com facção criminosa e participação em tentativa de homicídio.
+2. A periculosidade do recorrente é corroborada por seus antecedentes criminais, incluindo processos por roubo qualificado e tráfico de drogas, além de sua evasão em processo anterior, o que demonstra risco à ordem pública e à aplicação da lei penal.
+3. A jurisprudência do Superior Tribunal de Justiça reconhece que a gravidade concreta dos delitos, evidenciada pela apreensão de armas e drogas em contexto de tráfico, justifica a prisão preventiva, sendo insuficientes as medidas cautelares alternativas previstas no art. 319 do CPP.
+4. Não há excesso de prazo na formação da culpa, considerando que o processo já se encontra concluso para sentença e que o atraso na marcha processual foi parcialmente causado pela conduta da defesa, conforme entendimento consolidado na Súmula 64/STJ.
+5. Encerrada a instrução criminal, fica superada a alegação de constrangimento ilegal por excesso de prazo, conforme Súmula 52/STJ.
+6. Recurso em habeas corpus improvido.
+(RHC n. 226.069/MA, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 25/2/2026, DJEN de 4/3/2026, grifei.)
+Além disso, eventuais condições pessoais favoráveis não garantem a revogação da prisão processual se estiverem presentes os requisitos da custódia cautelar, como no presente caso. No mesmo sentido: AgRg no HC n. 940.918/RS, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 7/10/2024, DJe de 10/10/2024; e AgRg no HC n. 917.903/SP, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 23/9/2024, DJe de 30/9/2024.
+Por fim, " q uando a necessidade da prisão preventiva estiver demonstrada pelos fatos e pressupostos contidos no art. 312 do CPP, não há afronta ao princípio da presunção de inocência, tampouco antecipação ilegal da pena" (AgRg no RHC n. 188.488/SP, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 15/4/2024, DJe de 18/4/2024.)
+Ante o exposto, nos termos do art. 34, XVIII, b, do Regimento Interno do Superior Tribunal de Justiça, nego provimento ao recurso em habeas corpus.
+Publique-se. Intimem-se.
+ EMENTA
