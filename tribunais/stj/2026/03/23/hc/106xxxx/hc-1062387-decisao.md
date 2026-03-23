@@ -1,0 +1,54 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em favor de OZAIAS DE ARAÚJO OLIVEIRA, apontando como autoridade coatora o Tribunal de Justiça do Distrito Federal e dos Territórios, nos autos da Apelação Criminal n. 0721365-60.2024.8.07.0001 (fls. 2/13).
+Consta dos autos que o paciente foi condenado à pena de 1 ano e 8 meses de reclusão, em regime aberto, e ao pagamento de 167 dias-multa, pela prática do crime previsto no art. 33, § 4º, da Lei n. 11.343/2006, decisão mantida, por unanimidade, pelo acórdão da 1ª Turma Criminal que negou provimento à apelação da defesa (fls. 298/306). A condenação decorreu de flagrante envolvendo a apreensão de 17 porções de cocaína (6,5 g), 1 porção de maconha (1,79 g) e R$ 207,00, circunstâncias em que o juízo reconheceu o tráfico privilegiado e substituiu a pena privativa de liberdade por restritivas de direitos (fls. 331/336).
+O impetrante sustenta que a conduta deve ser desclassificada para o art. 28 da Lei n. 11.343/2006, por se tratar de uso pessoal.
+Argumenta a insuficiência probatória para a traficância, destacando a ínfima quantidade de droga apreendida e a ausência de abordagem e oitiva de supostos usuários, bem como a inexistência de gravações ou registros audiovisuais do monitoramento policial (fls. 2/13).
+Alega que nada de entorpecente foi encontrado diretamente com o paciente, que apenas portava pequena quantia em dinheiro, sendo os narcóticos localizados sob tábuas em local conhecido por tráfico, o que impediria atribuir-lhe a propriedade exclusiva das substâncias (fls. 2/13).
+Defende a existência de contradições na dinâmica fática, ao pontuar que, embora os policiais tenham referido visualizar o paciente "mexendo" no local, foi necessária a utilização de cão farejador para localizar o entorpecente, o que fragilizaria a suposta certeza sobre o esconderijo (fls. 2/13).
+Ressalta a inexistência de apetrechos típicos da narcotraficância (balança, material de embalagem, anotações) e invoca precedentes dos Tribunais Superiores acerca da incompatibilidade de condenação por tráfico quando ausentes elementos mínimos de mercancia e diante de pequena quantidade de droga compatível com uso pessoal (fls. 2/13).
+Aponta que a palavra policial, embora relevante, carece de corroboração externa no caso concreto, não podendo, isoladamente e sem provas complementares, sustentar decreto condenatório por tráfico (fls. 2/13).
+Requer a concessão da ordem para que seja readequada a imputação típica, com a desclassificação da conduta para o art. 28 da Lei n. 11.343/2006.
+Foram prestadas informações (fls. 324-366 e 369-373).
+O Ministério Público Federal se manifestou pela denegação da ordem (fls. 376-378).
+É o relatório.
+Decido.
+Esta Corte, no julgamento do HC n. 535.063/SP, pela Terceira Seção, sob a relatoria do Ministro Sebastião Reis Junior, em 10 de junho de 2020 (DJe de 25/8/2020), e o Supremo Tribunal Federal, nos precedentes AgRg no HC n. 180.365/PB, da Primeira Turma, relatoria da Ministra Rosa Weber, julgado em 27 de março de 2020 (DJe de 02/04/2020), e AgRg no HC n. 147.210/SP, da Segunda Turma, relatoria do Ministro Edson Fachin, julgado em 30 de outubro de 2018 (DJe de 20/02/2020), consolidaram o entendimento de que não é cabível a utilização do habeas corpus como substitutivo de recurso previsto em lei para a hipótese, salvo em situações excepcionais em que se verifique flagrante ilegalidade no ato judicial impugnado.
+Assim, passo à análise das razões da impetração, de forma a verificar a ocorrência de flagrante ilegalidade a justificar a concessão do habeas corpus, de ofício.
+Consta que, em 28/5/2024, em ponto conhecido por tráfico, o paciente foi monitorado por agente da PCDF realizando contatos breves com transeuntes e dirigindo-se repetidas vezes a um monte de tábuas, de onde aparentemente retirava objetos; na abordagem, não foram localizadas drogas em sua posse direta, mas, com auxílio de cão farejador, apreenderam-se, nas proximidades exatas onde ele fora visto manipular, 17 pinos de cocaína (massa líquida de 6,5 g) e 1 porção de maconha (1,79 g), além de 27 pinos vazios, e foi encontrado com o paciente o valor de R$ 207,00 em notas fracionadas; os depoimentos policiais, colhidos sob contraditório, foram considerados coerentes e harmônicos com o auto de apresentação e apreensão e com os laudos periciais, formando lastro probatório suficiente para a condenação por tráfico de drogas, com reconhecimento do tráfico privilegiado (fls. 298/306; fls. 246/251; fls. 50; fls. 58/63).
+No presente writ, a defesa pretende a desclassificação para o art. 28 da Lei de Drogas, alegando insuficiência probatória e base exclusiva em depoimentos policiais.
+A impetração dirige-se contra acórdão do Tribunal local (fls. 298/306), e a providência requerida  desclassificação da conduta  , em sede de habeas corpus, mostra-se incompatível com a via eleita quando exige reavaliação do conjunto probatório.
+O acórdão recorrido, ao fundamentar a manutenção da condenação, registrou a coerência interna e externa dos depoimentos policiais colhidos sob contraditório, a localização das porções de cocaína e maconha no exato local onde o paciente teria sido visto manipular objetos, bem como a apreensão de numerário em notas fracionadas, tudo corroborado por auto de apresentação e apreensão e laudos periciais (fls. 298/306). Tal contexto, longe de se resumir a presunções, foi avaliado pelas instâncias ordinárias com base em elementos probatórios diversos, o que afasta a possibilidade de, em sede de habeas corpus, realizar juízo substitutivo sobre o mérito probatório.
+A jurisprudência desta Corte, ademais, tem admitido a valoração de testemunho policial como qualquer prova testemunhal, desde que sujeito ao crivo do contraditório e em sintonia com os demais elementos dos autos, rejeitando sua desqualificação apriorística. No acórdão recorrido, transcreveu-se orientação da Quinta Turma: "O testemunho prestado em juízo pelo policial deve ser valorado  conforme critérios de coerência interna, coerência externa e sintonia com as demais provas dos autos" (AREsp 1.936.393/RJ, Rel. Min. Ribeiro Dantas, fls. 301/306), o que reforça a adequação metodológica adotada pelo Tribunal de origem.
+Quanto à alegada nulidade por condenação baseada exclusivamente em depoimentos policiais sem corroboração externa suficiente, em contexto de apreensão fora da posse direta, não há vício configurado. O acórdão recorrido explicitou a existência de corroboração externa: auto de apresentação e apreensão (17 pinos com substância esbranquiçada; 27 pinos vazios; 1 porção de maconha), laudos periciais confirmatórios e a coincidência entre o ponto de manipulação observado e o local da apreensão (fls. 298/306).
+A sentença também descreveu a materialidade com suporte em laudos preliminar e definitivo e concluiu pela prática de verbos nucleares do art. 33 (trazer consigo, guardar/ocultar, manter em depósito), sem desconsiderar a negativa do paciente, reputada isolada diante do conjunto probatório (fls. 331/336). Desse modo, não se trata de prova exclusiva e isolada, mas de depoimentos harmônicos e convergentes com elementos materiais, o que afasta a nulidade arguida.
+A desclassificação da conduta para uso pessoal, nos termos do art. 28 da Lei n. 11.343/2006, no caso dos autos, é inviável na via do habeas corpus, visto que tal questão demanda dilação probatória e aprofundamento de seu exame. Nesse sentido:
+DIREITO PENAL. AGRAVO REGIMENTAL. TRÁFICO DE DROGAS. DESCLASSIFICAÇÃO PARA USO PESSOAL. RECURSO DESPROVIDO.
+(..)
+4. As instâncias ordinárias fundamentaram suficientemente o dolo da mercancia, considerando a quantidade de droga apreendida, as cédulas encontradas, os depoimentos dos policiais, que foram considerados idôneos e coerentes, bem como as circunstâncias do delito.
+5. A análise da desclassificação da conduta demandaria reexame de matéria fático-probatória, incompatível com a via do habeas corpus.
+IV. Dispositivo e tese
+6. Resultado do Julgamento: Agravo regimental não provido.
+Tese de julgamento: 1. A desclassificação de conduta para uso de drogas requer análise aprofundada de provas, inviável em habeas corpus.
+Dispositivos relevantes citados: Lei n. 11.343/2006, arts. 28 e 33;
+CPP, art. 654, § 2º.
+Jurisprudência relevante citada: STJ, AgRg no HC 738.224/SP, Min. Rel. Joel Ilan Paciornik, DJe 12/12/2023; STJ, AgRg no HC 836.113/SP, Min. Rel. Ribeiro Dantas, DJe 16/10/2023.
+(AgRg no HC n. 1.021.071/SC, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 29/10/2025, DJEN de 5/11/2025.)
+DIREITO PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS. DESCLASSIFICAÇÃO PARA USO DE ENTORPECENTES. REVOLVIMENTO FÁTICO-PROBATÓRIO. AGRAVO REGIMENTAL NÃO PROVIDO.
+(..)
+5. O habeas corpus não é a via adequada para o revolvimento do conjunto fático-probatório, sendo inviável a desclassificação da conduta com base em elementos que demandem nova análise das provas.
+6. A subsunção típica do crime de tráfico de drogas prescinde da efetiva prática de atos de mercancia, consumando-se com qualquer dos verbos nucleares descritos no art. 33 da Lei nº 11.343/2006.
+7. As instâncias ordinárias fundamentaram adequadamente a condenação, destacando a quantidade e natureza da droga, as circunstâncias da apreensão e a ausência de elementos que caracterizassem o uso pessoal.
+IV. Dispositivo e tese
+8. Resultado do Julgamento: Agravo regimental não provido.
+Tese de julgamento:
+1. O habeas corpus não se presta ao revolvimento do conjunto fático-probatório para desclassificação de condutas imputadas.
+2. O crime de tráfico de drogas é de ação múltipla e se consuma com a prática de qualquer dos verbos nucleares descritos no art. 33 da Lei nº 11.343/2006.
+Dispositivos relevantes citados: Lei nº 11.343/2006, arts. 28 e 33;
+CPP, art. 619.
+Jurisprudência relevante citada: STF, AgRg no HC 180.365, Rel. Min. Rosa Weber, Primeira Turma, julgado em 27.03.2020; STJ, AgRg no AREsp 1.803.460/ES, Rel. Min. Antonio Saldanha Palheiro, Sexta Turma, julgado em 13.09.2022; STJ, AgRg no HC 773.880/SP, Rel. Min. Messod Azulay Neto, Quinta Turma, julgado em 13.12.2022.
+(AgRg no HC n. 1.017.008/SE, relator Ministro Carlos Pires Brandão, Sexta Turma, julgado em 22/10/2025, DJEN de 30/10/2025.)
+Conclui-se, portanto, que (i) a impetração configura habeas corpus substitutivo de recurso próprio e encontra óbice ao conhecimento; (ii) não se identifica ilegalidade flagrante a justificar concessão de ofício; (iii) a nulidade apontada  suposta condenação amparada exclusivamente em depoimentos policiais  não se evidencia, porquanto presentes elementos de corroboração externa (autos e laudos), conforme afirmado pelas instâncias ordinárias (fls. 298/306; 331/336).
+Diante de todo o exposto, a pretensão defensiva não pode ser conhecida na via estreita eleita e não se vislumbra excepcionalidade apta a superação do óbice processual.
+Ante o exposto, não conheço do habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
