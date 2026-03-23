@@ -1,0 +1,2 @@
+Altera a Lei nº 5.991, de 17 de dezembro de 1973, que dispõe sobre o Controle Sanitário do Comércio de Drogas, Medicamentos, Insumos Farmacêuticos e Correlatos, e dá outras Providências, para dispor sobre a comercialização de medicamentos em farmácia ou drogaria instalada na área de venda de supermercados.
+O PRESIDENTE DA REPÚBLICA Faço saber que o Congresso Nacional decreta e eu sanciono a seguinte Lei:
