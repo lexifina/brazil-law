@@ -1,0 +1,14 @@
+DECISÃO
+Trata-se de habeas corpus, impetrado em nome de WENDEL RODRIGUES OLIVEIRA - condenado por tráfico de drogas e associação para o tráfico (357,16 g de cocaína, distribuída em 72 unidades; e 1.254,40 g de maconha, em 187 unidades - fl. 144) a 9 anos e 4 meses de reclusão, em regime inicialmente fechado, e 1.399 dias-multa - apontando como ato coator o acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO DE JANEIRO (Apelação Criminal n. 0103033-79.2016.8.19.0021).
+Busca a impetração a revisão criminal da condenação imposta ao paciente pelo Juízo de Direito da 2ª Vara Criminal da comarca de Duque de Caxias/RJ, ao argumento de insuficiência probatória. Subsidiariamente, pede a reforma da dosimetria para afastar a causa de aumento do art. 40, VI, pela ausência do paciente no local dos fatos (fl. 11).
+Sem pedido liminar.
+É o relatório.
+O writ é inadmissível, uma vez que se trata de impetração destinada a revisar novamente a condenação imposta e mantida pelas instâncias ordinárias, e não se verifica a ocorrência de flagrante constrangimento ilegal apto a subsidiar a superação do óbice.
+No caso, o Tribunal estadual afastou a alegação de ausência de prova judicial ao fundamento de que a autoria e a materialidade restaram comprovadas pelas peças do inquérito ratificadas pela prova oral produzida em juízo, com depoimentos firmes e coerentes dos policiais, além de laudos e reconhecimentos, conclusão que, para ser infirmada, demandaria reexame profundo do conjunto probatório, inviável na via estreita do habeas corpus.
+Quanto à alegação de responsabilização objetiva, o acórdão confirmou a existência de vínculo associativo estável e permanente, com animus de aderir ao grupo para a prática dos crimes dos arts. 33 e 35 da Lei n. 11.343/2006, com base nas declarações colhidas em juízo, enfatizando que o paciente, vulgo "Noventinha", atuava como segurança e gerente ao lado da corré, além de ter fugido da residência onde foram apreendidas drogas e armas, tudo sob o crivo do contraditório (fls. 140/147), conclusão igualmente insuscetível de revisão na via mandamental.
+No que toca ao pedido de afastamento da causa de aumento do art. 40, VI, da Lei n. 11.343/2006, o Tribunal consignou o envolvimento de adolescente na empreitada, em conjunto com os recorrentes, em local de distribuição de armas e entorpecentes, mantendo a exasperação (fls. 144/147), em conformidade com a legislação aplicável.
+Em razão disso, indefiro liminarmente a inicial (art. 210 do RISTJ).
+Publique-se.
+EMENTA
+PENAL. HABEAS CORPUS. TRÁFICO E ASSOCIAÇÃO PARA O TRÁFICO DE DROGAS. PRETENSÃO DE REVISÃO DA CONDENAÇÃO IMPOSTA E MANTIDA PELAS INSTÂNCIAS ORDINÁRIAS. UTILIZAÇÃO INDEVIDA DO WRIT. INVIABILIDADE. FORMULAÇÃO DE PRETENSÕES INFUNDADAS. CONSTRANGIMENTO ILEGAL MANIFESTO. AUSÊNCIA.
+Inicial indeferida liminarmente.
