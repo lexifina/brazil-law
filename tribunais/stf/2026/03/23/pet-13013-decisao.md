@@ -1,0 +1,25 @@
+DECISÃO:
+
+RELATÓRIO
+Trata-se de petição apresentada por Sociedade Brasileira de Bioética (SBB), distribuída por dependência à ADPF 743, na qual a requerente invoca a tutela dos direitos fundamentais à saúde e ao meio ambiente ecologicamente equilibrado, previstos nos arts. 5.º, XXXIV, “a”, 196 e 225 da Constituição da República, com o objetivo de postular a inclusão de matérias relacionadas à saúde pública no âmbito do processo estrutural em trâmite na ADPF 743/DF.
+Na petição inicial, a requerente traça um panorama da situação ambiental decorrente dos focos de queimadas e das devastações ocorridas ao longo do ano de 2024, sustentando que a emergência climática então vivenciada tem produzido graves repercussões e impactos sobre a saúde humana, tanto física quanto mental, afetando de forma desproporcional comunidades e grupos vulneráveis.
+Argumenta que a resposta estatal à crise climática deve ser concebida e implementada como política de Estado, imune às alternâncias governamentais e aos ciclos eleitorais, valendo-se, para tanto, de precedentes do direito comparado como fundamento de reforço às teses apresentadas. Requer, por fim, a elaboração e a homologação de um “Pacto de Proteção à Saúde em Situação de Mudança e Emergência Climáticas”.
+Determinada a abertura de vista dos autos à Procuradoria-Geral da República, esta apresentou parecer no sentido do indeferimento da petição, fundado na inadequação da via eleita. Sustenta, em síntese, que a ADPF 73, embora detenha objeto de caráter abrangente, não versou sobre a inconstitucionalidade das políticas públicas de proteção à saúde, mas sim sobre medidas destinadas a restabelecer a normalidade constitucional da política de proteção ao meio ambiente. Acrescenta, ainda, que a petição ora analisada não se revela instrumento processual adequado para ampliar o objeto da ação de controle de constitucionalidade, tampouco para formular pretensão voltada à criação de uma nova política pública de âmbito nacional.
+
+FUNDAMENTAÇÃO
+Conforme relatado, a pretensão da requerente consiste, em síntese, na instauração de um diálogo processual de natureza estrutural, voltado à área da saúde pública, de forma incidental à ADPF 743/DF, com vistas à formulação de uma nova política pública denominada “Pacto de Proteção à Saúde em Situação de Mudança e Emergência Climáticas”.
+A despeito da inegável e urgente relevância do tema suscitado, notadamente no que se refere aos impactos severos de curto, médio e longo prazos, das mudanças climáticas e, em particular, das queimadas sobre a saúde da população, a pretensão deduzida encontra óbice processual intransponível, consoante apontou o parecer da Procuradoria-Geral da República.
+O julgamento proferido por esta Suprema Corte no âmbito da ADPF 743/DF teve o seu escopo delimitado às medidas indispensáveis à recomposição da normalidade constitucional da política pública de proteção ao meio ambiente ecologicamente equilibrado (art. 225, da Constituição Federal). A Corte não deliberou sobre a (in)constitucionalidade estrutural das políticas públicas específicas para a proteção da saúde, previstas no art. 196 da Constituição Federal, formuladas e executadas pelo Ministério da Saúde e pelas secretarias correlatas.
+Embora a moderna jurisdição constitucional admita maior maleabilidade procedimental e o emprego de técnicas dialógicas nos litígios estruturais, essa flexibilidade não se reveste de caráter absoluto. Não se autoriza, por essa via, o alargamento ilimitado dos contornos objetivos da lide. A inclusão de um novo e amplo eixo temático, consistente na estruturação de todo o sistema de saúde pública nacional em face da crise climática, em uma ADPF que já se encontra em fase de monitoramento ambiental, comprometeria a governabilidade do processo, em violação ao princípio da congruência, além de prejudicar a eficácia das medidas atualmente em curso.
+Ademais, a petição ora analisada não se apresenta como via adequada para a ampliação oblíqua do objeto da ação de controle concentrado de constitucionalidade. Tratando-se de pedido autônomo para a estruturação de uma política pública de alcance nacional, deve ser deduzido em ação própria e autônoma, por ente dotado de legitimidade ativa ad causam, não sendo admissível a sua formulação por incidente processual.
+A propósito, valho-me do já decidido pela Primeira Turma deste Supremo Tribunal Federal no julgamento da PET n. 7.948-AgR/DF, de relatoria do Ministro Luiz Fux, para enfatizar o entendimento de que “não cabe a esta Corte apreciar questão de constitucionalidade abstrata sob o véu de Petição”.
+Diante desse cenário, concluo que a pretensão deduzida pela Sociedade Brasileira de Bioética exorbita os limites objetivos delineados na ADPF 743/DF, configurando inequívoca inadequação da via eleita para a obtenção da tutela pretendida.
+
+DISPOSITIVO
+Ante o exposto, acolho os fundamentos do parecer da Procuradoria-Geral da República, indefiro a petição inicial e nego seguimento ao pedidos, restando prejudicados os demais requerimentos.
+Publique-se. Intimem-se.
+Brasília, 23 de março de 2026.
+
+Ministro FLÁVIO DINO
+Relator
+Documento assinado digitalmente
