@@ -1,0 +1,50 @@
+DECISÃO: Trata-se de agravo interposto contra decisão de inadmissibilidade do recurso extraordinário, com base no art. 102, III, “a”, da Constituição Federal, apresentado pela Fundação Universidade Federal de Rondônia (UNIR), em face do acórdão do Tribunal Regional Federal da 1ª Região assim ementado:
+
+“CONSTITUCIONAL. ADMINISTRATIVO. MANDADO DE SEGURANÇA. SERVIDOR PÚBLICO. APOSENTADORIA POR INVALIDEZ. DOENÇA DE PARKINSON. REVISÃO DE PROVENTOS. INTEGRALIDADE E PARIDADE. EMENDA CONSTITUCIONAL Nº 70/2012. DIREITO À REVISÃO RETROATIVA. REPERCUSSÃO GERAL STF NOS RECURSOS EXTRAORDINÁRIOS Nº 656.860 E Nº 924.456. SENTENÇA MANTIDA. APELAÇÃO E REMESSA NECESSÁRIA DESPROVIDAS. 1. A aposentadoria por invalidez decorrente de doença grave e incurável assegura ao servidor o direito à percepção integral dos proventos, conforme disposto no art. 40, § 1º, I, da Constituição Federal de 1988, e no art. 186, I, da Lei 8.112/90. 2. A impetrante ingressou no serviço público, no cargo de Professora de Magistério Superior. Em 17 de junho de 2019, requereu aposentadoria por invalidez, por ser portadora de doença de Parkinson. Em 2019, aposentou-se por invalidez. 3. A doença de Parkinson é considerada grave pela legislação vigente (art. 186, §1º, da Lei nº 8.112/90), garantindo à impetrante o direito à aposentadoria com proventos integrais. No entanto, seus proventos foram inicialmente calculados de forma proporcional. 4. A Emenda Constitucional nº 41/2003 alterou o regime de cálculo das aposentadorias, estabelecendo que os proventos iniciais de aposentadoria por invalidez seriam calculados pela média das maiores remunerações utilizadas como base para as contribuições do servidor, correspondente a 80% do período contributivo desde a competência julho de 1994, conforme regulamentado pela Lei nº 10.887/2004. 5. A Emenda Constitucional nº 70/2012 assegurou aos servidores que ingressaram no serviço público até 31/12/2003 e que se aposentaram por invalidez após essa data, o direito ao cálculo dos proventos com base na remuneração do cargo efetivo, garantida a paridade com os servidores ativos. 6. O Superior Tribunal de Justiça e o Supremo Tribunal Federal consolidaram entendimento de que a concessão de aposentadoria por invalidez deve considerar a integralidade e paridade dos proventos, com base na última remuneração percebida pelo servidor, independentemente da data de invalidez, quando esta for decorrente de doença grave especificada em lei (RE 656.860 e RE 924.456). 7. Verificou-se que o benefício de aposentadoria da impetrante já foi revisado em cumprimento à determinação da Emenda Constitucional nº 70/2012. Contudo, a impetrante possui direito ao recálculo de sua aposentadoria com base na integralidade e na paridade, retroativamente à data de concessão até o dia anterior ao termo inicial da revisão determinada pela EC nº 70/2012, com o consequente recebimento das diferenças devidas, observada a prescrição quinquenal. 8. Sem honorários advocatícios (art. 25 da Lei n. 12.016/09).” (Apelação/Remessa Necessária nº 1002941-53.2020.4.01.4101, Segunda Turma do Tribunal Regional Federal da 1ª Região, Des. Rui Costa Gonçalves, j. 12.05.2025)
+
+Na minuta, sustenta violação do art. 40, §14 e §16, da Constituição da República, bem como do art. 1º da EC nº 70/2012 e ao Tema 754/RG.
+É o relatório.
+Decido.
+O recurso comporta provimento.
+Colhe-se do acórdão recorrido o seguinte:
+“Trata-se de Apelação e Remessa Necessária interpostas pela Fundação Universidade Federal de Rondônia e pelo Reitor da Universidade Federal de Rondônia contra sentença proferida pelo Juízo da 1ª Vara Federal da Subseção Judiciária de Porto Velho/RO, que concedeu a segurança vindicada, confirmando a decisão liminar para DETERMINAR que a autoridade coatora proceda à readequação dos proventos de aposentadoria da impetrante CREUCI MARIA CAETANO, aplicando-se a integralidade da média aritmética simples de 80% das maiores contribuições já averbadas junto à UNIR, eis que a aposentação se deu em razão de doença grave incapacitante e anteriormente às alterações introduzidas pela EC n. 103/2019.
+Inicialmente, cumpre esclarecer o arcabouço fático do caso. A impetrante ingressou no serviço público, no cargo de Professora de Magistério Superior. Em 17 de junho de 2019, requereu aposentadoria por invalidez, por ser portadora de doença de Parkinson. Em 2019, aposentou-se por invalidez.
+No que se refere ao direito à aposentadoria dos Servidores Públicos Civis, a Constituição Federal dispõe no inciso I do artigo 40:
+[...]
+O art. 186, inciso I, da Lei 8.112/90 (que dispõe sobre o regime jurídico dos Servidores Públicos Civis da União), por sua vez, estabelece:
+[...]
+No caso do servidor já aposentado com proventos proporcionais ao tempo de serviço, a Lei n. 8.112/90 prevê a possibilidade de conversão para proventos integrais se for constatado, por junta médica oficial, que o servidor está acometido por uma das doenças previstas no § 1º do art. 186, conforme a redação dada pela Lei n. 11.907/2009:
+[...]
+Pois bem.
+A aposentadoria por invalidez decorrente de doença grave e incurável, como a doença de Parkinson, garante ao servidor o direito à percepção integral dos proventos, conforme disposto no art. 40, § 1º, I, da Constituição Federal de 1988, e no art. 186, I, da Lei nº 8.112/90. Ocorre que, ao ser concedida sua aposentadoria, os proventos foram calculados de forma proporcional, em contrariedade ao previsto na legislação aplicável.
+A Emenda Constitucional nº 41/2003 alterou significativamente o regime de cálculo das aposentadorias no serviço público, determinando que os proventos seriam calculados pela média das maiores remunerações utilizadas como base para as contribuições do servidor, correspondente a 80% do período contributivo desde a competência julho de 1994, regulamentado pela Lei nº 10.887/2004.
+Contudo, a Emenda Constitucional nº 70/2012 trouxe uma importante modificação ao assegurar que os servidores que ingressaram no serviço público até 31 de dezembro de 2003 e se aposentaram por invalidez teriam seus proventos calculados com base na remuneração do cargo efetivo, garantindo a paridade com os servidores ativos.
+O Superior Tribunal de Justiça e o Supremo Tribunal Federal consolidaram entendimento de que a concessão de aposentadoria por invalidez deve considerar a integralidade e paridade dos proventos, com base na última remuneração percebida pelo servidor, independentemente da data de invalidez, quando esta for decorrente de doença grave especificada em lei [...]:
+[...]
+No caso em tela, verifica-se que o benefício de aposentadoria da impetrante já foi revisado em cumprimento à determinação da Emenda Constitucional nº 70/2012. Porém, a impetrante ainda possui direito ao recálculo de sua aposentadoria com base na integralidade e na paridade, retroativamente à data de concessão até o dia anterior ao termo inicial da revisão determinada pela EC nº 70/2012, com o consequente recebimento das diferenças devidas, observada a prescrição quinquenal.
+Nesse sentido, confiram-se, por oportuno, os seguintes julgados desta Corte:
+[...]
+No caso em questão, o magistrado aplicou corretamente o direito e a jurisprudência ao caso concreto, não havendo necessidade de nenhum reparo. A aposentadoria deve ser recalculada com base na remuneração do cargo efetivo em que a impetrante passou à inatividade, em paridade com a remuneração dos servidores ativos, retroativamente à data de sua concessão até o termo inicial da revisão determinada pela EC nº 70/2012, observada a prescrição quinquenal.
+Sem honorários advocatícios [...].
+Posto isto, voto por negar provimento à apelação da UNIR e à remessa oficial, mantendo a sentença.
+É como voto.”
+
+Extrai-se da sentença que o ingresso da recorrida no serviço público federal ocorreu em 29 de agosto de 2018, ou seja, após a Emenda Constitucional nº 41/2003. Veja-se:
+
+“Nesse raciocínio, para que o servidor faça jus a proventos calculados com base na remuneração do cargo efetivo em que se deu a aposentadoria, como postulado pela impetrante, é necessário, segundo a indicada regra de transição, que tenha ingressado no serviço público até dezembro de 2003 (data da promulgação da EC 41/2003).
+Portanto, tendo a impetrante ingressado no cargo efetivo em 29 de agosto de 2018, resta clarividente que o cálculo dos seus proventos de aposentadoria devem observar as disposições insertas nos §§ 3º, 8º e 17 do art. 40 da CF/88, haja vista o ingresso no serviço público posterior à EC n. 41/2003:”
+
+Da análise dos autos, verifica-se que o acórdão recorrido aplicou à servidora a regra de transição prevista no art. 6º-A da Emenda Constitucional nº 41/2003, introduzido pela Emenda Constitucional nº 70/2012, própria dos servidores ingressos no serviço público até 31 de dezembro de 2003, embora tenha sido reconhecido que seu vínculo efetivo federal teve início apenas em 2018, em momento posterior à referida reforma constitucional.
+Assim, mostra-se indevida a aplicação da referida norma de transição ao caso concreto, devendo a aposentadoria observar o regime jurídico vigente ao tempo do ingresso da servidora no cargo efetivo. Nesse sentido:
+
+“EMBARGOS DE DECLARAÇÃO NO RECURSO EXTRAORDINÁRIO. EMBARGOS RECEBIDOS COMO AGRAVO REGIMENTAL. PREVIDENCIÁRIO. SERVIDOR PÚBLICO. APOSENTADORIA. APLICAÇÃO DA LEI VIGENTE AO TEMPO EM QUE REUNIDAS AS CONDIÇÕES À OBTENÇÃO DO BENEFÍCIO. TEMPUS REGIT ACTUM. ACÓRDÃO RECORRIDO EM HARMONIA COM A JURISPRUDÊNCIA DO SUPREMO. AGRAVO REGIMENTAL DESPROVIDO” (RE 670.264-ED, Primeira Turma, Rel. Min. Luiz Fux, DJe 10.10.16).
+
+O acórdão recorrido, portanto, diverge da jurisprudência deste Supremo Tribunal Federal.
+Diante do exposto, com base no art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal, dou provimento ao recurso extraordinário para reformar o acórdão recorrido e restabelecer a sentença proferida pelo Juízo da 1ª Vara Federal Cível e Criminal da SSJ de Ji-Paraná-RO (E-doc. 05, ID:8632cead).
+Publique-se.
+
+Brasília, 23 de março de 2026.
+
+Ministro FLÁVIO DINO
+Relator
+Documento assinado digitalmente
