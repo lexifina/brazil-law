@@ -1,0 +1,45 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 17/03/2026 a 23/03/2026, por unanimidade, rejeitar os embargos de declaração, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Humberto Martins, Ricardo Villas Bôas Cueva, Moura Ribeiro e Daniela Teixeira votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro Humberto Martins.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. OMISSÃO, CONTRADIÇÃO, OBSCURIDADE OU ERRO MATERIAL. INEXISTÊNCIA.
+1. Rejeitam-se os embargos de declaração quando ausente omissão, contradição, obscuridade ou erro material a ser sanado.
+2. Embargos de declaração rejeitados.
+RELATÓRIO
+Relatora: MINISTRA NANCY ANDRIGHI
+Examina-se embargos de declaração opostos por GUILHERME ALVES FRANCISCHETTE contra decisão unipessoal que conheceu parcialmente e, nessa parte, deu par cial provimento ao recurso especial interposto por R. M. DEBIAZZI EMPREENDIMETOS IMOBILIARIOS DE VOTUPORANGA SPE LTDA e OUTRA, nos termos da seguinte ementa (e-STJ fls. 266/267):
+PROCESSUAL CIVIL. RECURSO ESPECIAL. AÇÃO DECLARATÓRIA DE RESILIÇÃO DE CONTRATO C/C PEDIDO DE REVISÃO DE DISPOSIÇÕES CONTRATUAIS. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. AUSÊNCIA DE PRÉVIA OPOSIÇÃO DE EMBARGOS DE DECLARAÇÃO. SÚMULA 284/STF. COMPRA E VENDA DE IMÓVEL. CONTRATO CELEBRADO APÓS A LEI Nº 13.786/2018. PREVALÊNCIA DO CDC EM HIPÓTESE DE CONFLITO DE NORMAS. RESTITUIÇÃO DE VALORES. LIMITE DE RETENÇÃO DE 25% DOS VALORES PAGOS. FUNDAMENTOS DO ACÓRDÃO NÃO IMPUGNADOS. SÚMULA 283/STF. REEXAME DE FATOS E PROVAS E A INTERPRETAÇÃO DE CLÁUSULAS CONTRATUAIS. INADMISSIBILIDADE. SÚMULAS 5 E 7/STJ. TAXA DE FRUIÇÃO. EXCEÇÃO. LOTE NÃO EDIFICADO. INDEVIDA. RESTITUIÇÃO DOS VALORES DE FORMA IMEDIATA. NECESSIDADE. SÚMULA 543/STJ. APLICAÇÃO.
+1. Ação declaratória de resilição de contrato c/c pedido de revisão de disposições contratuais.
+2. O reconhecimento da negativa de prestação jurisdicional exige a prévia oposição dos embargos de declaração, de forma a compelir a Corte de origem a sanar os vícios, esgotando a instância ordinária.
+3. A Terceira Turma do STJ definiu que o Código de Defesa do Consumidor prevalece sobre a Lei do Distrato, considerando que o CDC se aplica quando preenchido um requisito adicional: a caracterização de uma relação de consumo.
+4. Desse modo, restou decidido que os descontos previstos na Lei do Distrato podem ser efetuados como regra geral, mas, "quando se tratar de relação de consumo, a soma dos descontos deve respeitar o limite máximo de retenção de 25% dos valores pagos, com exceção da taxa de fruição", em observância à interpretação conferida aos arts. 51, IV, e 53 do CDC por esta Corte (REsp 2.106.548/SP, Terceira Turma, DJEN 19/9/2025).
+5. A existência de fundamentos do acórdão recorrido não impugnados - quando suficiente para a manutenção de suas conclusões - impede a apreciação do recurso especial.
+6. O reexame de fatos e provas e a interpretação de cláusulas contratuais em recurso especial é inadmissível.
+7. De acordo com o entendimento consolidado na Terceira Turma do STJ, mesmo após a Lei nº 13.786/18, mantém-se o entendimento de que é indevida a taxa de fruição na hipótese de resolução de contrato de compra e venda de lote não edificado, porquanto a resolução não enseja qualquer enriquecimento do comprador ou empobrecimento do vendedor, e, assim, estão ausentes os requisitos para o surgimento dessa obrigação, que se funda na vedação ao enriquecimento sem causa.
+8. Segundo o entendimento consolidado pela Terceira Turma do STJ, a restituição somente ao término da obra ou de forma parcelada, como prevista no §1º do art. 32-A da Lei nº 6.766/1979, é uma prática abusiva, contrária aos arts. 39 e 51, II, IV e IX, do CDC, como já decidiu esta Corte (Tema 577), de modo que, considerando a prevalência do CDC, a referida alteração legislativa não se aplica nas relações de consumo, nas quais deve ocorrer a imediata restituição dos valores pagos, mantendo-se a Súmula 543 /STJ.
+9. Recurso especial parcialmente conhecido e, nessa parte, parcialmente provido.
+Nas razões do presente recurso, afirma a parte embargante que a decisão embargada teria sido omissa "ao deixar de observar que o Recurso Especial apresentado pela embargada não teceu qualquer pedido (principal ou subsidiário) de majoração da cláusula penal para o patamar de 25% dos valores pagos", pois "o único pedido realizado diz respeito exclusivamente à aplicação integral da Lei 13.786/2018" (e-STJ fl. 279).
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. OMISSÃO, CONTRADIÇÃO, OBSCURIDADE OU ERRO MATERIAL. INEXISTÊNCIA.
+1. Rejeitam-se os embargos de declaração quando ausente omissão, contradição, obscuridade ou erro material a ser sanado.
+2. Embargos de declaração rejeitados.
+VOTO
+Relatora: MINISTRA NANCY ANDRIGHI
+Nos termos do art. 1.022 do CPC, somente é cabível o recurso de embargos de declaração nas hipóteses em que haja, no julgado impugnado, obscuridade, contradição, omissão ou erro material, o que não se verifica na espécie.
+Com efeito, verifica-se que a decisão embargada foi devidamente clara e fundamentada (i) quanto à parte recorrente, ora embargada, nas razões do recurso especial, ter defendido a devolução das quantias de acordo com a nova Lei do Distrato, que prevê a retenção de 10% (dez por cento) sobre o valor do contrato, valores pagos a título de corretagem, tributos incidentes sobre o imóvel e parcelamento dos valores de devolução; bem como (i) no sentido de que, em razão da prevalência do CDC sobre a Lei do Distrato, a soma dos descontos deve respeitar o limite máximo de retenção de 25% dos valores pagos, com exceção da taxa de fruição, o qual destacou-se que, no entanto, não foi adequadamente observado pelas instâncias ordinárias, razão pela qual, quanto ao ponto, merecia reforma o acórdão recorrido, não havendo que falar, portanto, em omissão do decisum, senão veja-se:
+"Recurso especial: alega violação dos arts. 927, III, 1.022 e 1.040 do CPC, bem como dissídio jurisprudencial.
+Além da negativa de prestação jurisdicional, defende a devolução das quantias à parte recorrida de acordo com a nova Lei do Distrato, que prevê a retenção de 10% (dez por cento) sobre o valor do contrato, valores pagos a título de corretagem, tributos incidentes sobre o imóvel e parcelamento dos valores de devolução.
+É o relatório.
+(..)
+- Da prevalência do CDC sobre a Lei do Distrato e do percentual máximo de 25% de retenção dos valores pagos
+No julgamento dos REsp 2.106.548/SP, 2.117.412/SP, 2.107.422/SP e 2.111.681/SP, a Terceira Turma do STJ definiu que o Código de Defesa do Consumidor prevalece sobre a Lei do Distrato, considerando que o CDC se aplica quando preenchido um requisito adicional: a caracterização de uma relação de consumo.
+Desse modo, restou decidido que os descontos previstos na Lei do Distrato podem ser efetuados como regra geral, mas, "quando se tratar de relação de consumo, a soma dos descontos deve respeitar o limite máximo de retenção de 25% dos valores pagos, com exceção da taxa de fruição", em observância à interpretação conferida aos arts. 51, IV, e 53 do CDC por esta Corte (REsp 2.106.548/SP, Terceira Turma, DJEN 19/9/2025).
+Registra-se que, de acordo com o entendimento firmado, "os descontos autorizados pelos incisos III, IV e V do referido art. 32-A da Lei nº 6.766/1979 - referentes aos encargos moratórios, comissão de corretagem, tributos e outras taxas sobre o imóvel - devem respeitar, no total, o mesmo percentual máximo de retenção de 25% dos valores pagos", pois, conforme decidido no REsp 1.820.330/SP (DJe 1/12/2020), o "referido percentual  de 25%  possui natureza indenizatória e cominatória, de forma que abrange, portanto, de uma só vez, todos os valores que devem ser ressarcidos ao vendedor pela extinção do contrato por culpa do consumidor e, ainda, um reforço da garantia de que o pacto deve ser cumprido em sua integralidade" (REsp 2.106.548/SP, Terceira Turma, DJEN 19/9/2025).
+No particular, o limite de 25% de retenção dos valores pagos não foi adequadamente observado pelas instâncias ordinárias, merecendo reforma, portanto, o acórdão recorrido." (e-STJ fls. 271 e 272)
+Na verdade, a pretexto de omissão, verifica-se que a parte embargante pretende se valer dos embargos de declaração para rediscutir a conclusão adotada na decisão embargada e tentar fazer prevalecer o seu entendimento quanto a ela, pretensão essa que, todavia, não é compatível com os estreitos limites dessa espécie recursal.
+Assim, dissociado o pleito de qualquer um dos pressupostos de interposição dos embargos de declaração, desautorizada está a pretensão ora declinada, impondo-se, então, a sua rejeição.
+Por fim, fica advertida a parte embargante de que a futura interposição de recursos ou medidas protelatórias poderá ensejar a aplicação de penalidades.
+DISPOSITIVO
+Forte nessas razões, REJEITO os embargos de declaração.
