@@ -1,0 +1,14 @@
+DECISÃO
+Trata-se de habeas corpus impetrado por JOAO CAMARGO ALVES RAMOS NETO - condenado por homicídio qualificado a 15 anos e 2 meses de reclusão -, apontando como ato coator acórdão da apelação criminal proferido pelo Tribunal de Justiça do Rio Grande do Sul (fls. 14/25).
+A impetração busca a revisão da dosimetria - referente à condenação proferida na Ação Penal n. 5012562-56.2023.8.21.0141 (fls. 111/118, da Vara Criminal da comarca de Capão da Canoa/RS), alterada em grau de apelação -, sustentando:
+a) a indevida incidência da agravante da reincidência, pois, no rito do Tribunal do Júri, as circunstâncias agravantes e atenuantes somente podem ser consideradas se alegadas nos debates em plenário, razão pela qual sustenta ser inviável a valoração da reincidência sem prévia articulação perante o Conselho de Sentença (fls. 6/9); e
+b) subsidiariamente, a necessidade de compensação integral entre a atenuante da confissão, ainda que qualificada, e a agravante da reincidência, ao argumento de que a decisão impugnada reduziu indevidamente o peso da confissão para 1/12 e fez preponderar a reincidência na fração de 1/6, em descompasso com a proporcionalidade e a isonomia na segunda fase da dosimetria (fls. 9/11).
+É o relatório.
+O writ é inadmissível, uma vez que se trata de impetração destinada a revisar novamente a condenação imposta e mantida pelas instâncias ordinárias (HC n. 1.021.432/MG, de minha relatoria, Sexta Turma, DJEN de 16/12/2025), e não se verifica a ocorrência de flagrante constrangimento ilegal apto a subsidiar a superação do óbice, pois:
+a) a alegação de indevida incidência da agravante da reincidência, por ausência de debate em plenário, não pode ser conhecida, pois não foi apreciada pela Corte estadual no acórdão hostilizado, o que configuraria prestação jurisdicional em indevida supressão de instância (HC n. 964.852/SC, Ministro Antonio Saldanha Palheiro, Sexta Turma, DJEN de 10/12/2025); e
+b) o Tribunal, no julgamento da apelação, afastou a necessidade de compensação integral entre a atenuante da confissão e a agravante da reincidência ao fundamento de que a confissão qualificada deveria ser mantida, mas em menor proporção, com redução de 1/12, fazendo preponderar a reincidência na fração de 1/6, o que resultou no redimensionamento da pena para 15 anos e 2 meses de reclusão (fls. 22/23), em consonância com o entendimento desta Corte Superior.
+Em razão disso, indefiro liminarmente a inicial (art. 210 do RISTJ).
+Publique-se.
+EMENTA
+PENAL. HABEAS CORPUS. HOMICÍDIO QUALIFICADO. DOSIMETRIA. PRETENSÃO DE AFASTAMENTO DA AGRAVANTE DA REINCIDÊNCIA E DE COMPENSAÇÃO INTEGRAL COM A ATENUANTE DA CONFISSÃO. PRETENSÃO DE REVISÃO DA CONDENAÇÃO IMPOSTA E MANTIDA PELAS INSTÂNCIAS ORDINÁRIAS. UTILIZAÇÃO INDEVIDA DO WRIT. INVIABILIDADE. FORMULAÇÃO DE PRETENSÕES INFUNDADAS. CONSTRANGIMENTO ILEGAL MANIFESTO. AUSÊNCIA.
+Inicial indeferida liminarmente.
