@@ -1,0 +1,20 @@
+DECISÃO
+Em análise, pedido de uniformização de interpretação de lei apresentado pelo INSTITUTO DE PREVIDÊNCIA DOS SERVIDORES DO ESTADO DO RIO GRANDE DO NORTE contra acórdão da TERCEIRA TURMA RECURSAL DO ESTADO DO RIO GRANDE DO NORTE, assim ementado (fl. 312):
+RECURSO INOMINADO. DIREITO CONSTITUCIONAL, ADMINISTRATIVO E PREVIDENCIÁRIO. SERVIDOR PÚBLICO ESTADUAL. PRETENSÃO DE INDENIZAÇÃO POR DANOS MATERIAIS DECORRENTES DA DEMORA INJUSTIFICADA NA EMISSÃO DA CERTIDÃO DE TEMPO DE SERVIÇO (CTS) PARA FINS DE APOSENTADORIA VOLUNTÁRIA. SENTENÇA DE PROCEDÊNCIA. RECURSO INTERPOSTO PELO ESTADO DO RIO GRANDE DO NORTE. ALEGADA EMISSÃO ANTERIOR DA CERTIDÃO NÃO COMPROVADA. AUSÊNCIA DE QUALQUER DOCUMENTO CAPAZ DE EVIDENCIAR A EXPEDIÇÃO DA CTS EM DATA DIVERSA DA INDICADA PELO SERVIDOR. PROVAS DOS AUTOS QUE CONFIRMAM A EMISSÃO DEFINITIVA APENAS EM 31/08/2023, SUBSCRITA PELA AUTORIDADE COMPETENTE. MORA ADMINISTRATIVA CONFIGURADA. DEVER DE INDENIZAR RECONHECIDO. SENTENÇA MANTIDA. RECURSO CONHECIDO E DESPROVIDO.
+Argumenta que "a decisão proferida pela Turma Recursal, ao considerar que a Administração Pública deve concluir o processo administrativo de aposentadoria no prazo máximo de 90 (noventa) dias sob pena de indenização, diverge expressamente de entendimento consolidado em diversos precedentes, inclusive do Superior Tribunal de Justiça" (fl. 329).
+É o relatório.
+Passo a decidir.
+De pronto, verifico que a parte não demonstrou haver divergência jurisprudencial entre o acórdão e Turmas Recursais de diferentes estados ou Súmula do STJ, consoante exige o art. 18, §3º, da Lei 12.153/2009, razão pela qual o pedido de uniformização não pode ser admitido.
+Nessa linha:
+PROCESSO CIVIL E ADMINISTRATIVO. PEDIDO DE UNIFORMIZAÇÃO DE INTERPRETAÇÃO DE LEI FEDERAL. ACÓRDÃO DE TURMA RECURSAL ESTADUAL. APONTADA INOBSERVÂNCIA DA JURISPRUDÊNCIA DO STJ. DESCABIMENTO. PRECEDENTES. PEDIDO NÃO CONHECIDO.
+1. O Pedido de Uniformização de Interpretação de Lei, nos termos do art. 18, § 3º, da Lei n. 12.153/2009, é cabível apenas quando houver divergência entre Turmas Recursais de diferentes Estados sobre questões de direito material ou quando a decisão proferida estiver em contrariedade com súmula do Superior Tribunal de Justiça.
+2. Não é cabível o PUIL contra decisão de Turma Recursal da Fazenda Pública Estadual por suposta contrariedade à jurisprudência do STJ que não esteja sedimentada em súmula. A indicação de suposta contrariedade a julgado repetitivo não se equipara à alegação de ofensa a enunciado da Súmula do STJ para fins de admissibilidade do pedido de uniformização.
+3. Pedido de Uniformização de Interpretação de Lei não conhecido (PUIL n. 5.269/RN, relator Ministro Teodoro Silva Santos, Primeira Seção, julgado em 14/10/2025, DJEN de 22/10/2025 - grifo nosso).
+PROCESSUAL CIVIL. PEDIDO DE UNIFORMIZAÇÃO DE INTERPRETAÇÃO DE LEI. JUIZADO ESPECIAL DA FAZENDA PÚBLICA. CONTRARIEDADE À JURISPRUDÊNCIA DO STJ NÃO CONSOLIDADA EM SÚMULA. DESCABIMENTO. REEXAME DE PROVAS. IMPOSSIBILIDADE.
+1. O pedido de uniformização de interpretação de lei, dirigido ao Superior Tribunal de Justiça, nos termos do art. 18, § 3º, da Lei n. 12.153/2009, é cabível quando houver divergência na interpretação da lei federal entre Turmas Recursais de diferentes Estados, ou quando a decisão impugnada contrariar súmula do STJ, desde que se trate de matéria de direito material.
+2. Não se admite o PUIL com fundamento exclusivo em suposta contrariedade à jurisprudência do STJ não consolidada em súmula. Precedente: "A indicação de suposta contrariedade a julgado repetitivo não se equipara à alegação de ofensa a enunciado da Súmula do STJ para fins de cabimento do pedido de uniformização de interpretação de lei" (AgInt no PUIL n. 2.924/SP, rel. Min. Paulo Sérgio Domingues, Primeira Seção, julgado em 28/2/2024, DJe 1º/3/2024).
+ ..
+4. Agravo interno desprovido (AgInt no PUIL n. 5.263/RN, relator Ministro Gurgel de Faria, Primeira Seção, julgado em 14/10/2025, DJEN de 17/10/2025 - grifo nosso).
+Isso posto, com fundamento no art. 34, XVIII, a do RISTJ, não conheço do pedido.
+Intimem-se.
+EMENTA
