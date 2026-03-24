@@ -1,0 +1,50 @@
+DECISÃO
+Examina-se agravo em recurso especial interposto por SPE - CONSTRUTORA SÁ CAVALCANTE-ES XII LTDA contra decisão que inadmitiu recurso especial fundamentado, exclusivamente, na alínea "a" do permissivo constitucional.
+Agravo em recurso especial interposto em: 24/6/2024.
+Concluso ao gabinete em: 2/3/2026.
+Ação: de repetição de indébito, ajuizada por THAIS MASSALAI, em face de FRANCISCO ROCHA IMÓVEIS LTDA e SPE - CONSTRUTORA SÁ CAVALCANTE-ES XII LTDA, na qual requer a restituição dos valores pagos a título de comissão de corretagem.
+Sentença: julgou improcedentes os pedidos.
+Acórdão: deu provimento ao recurso de apelação interposto por THAIS MASSALAI, nos termos da seguinte ementa (e-STJ fl. 962):
+APELAÇÃO CÍVEL - AÇÃO DE REPETIÇÃO DE INDÉBITO - PRELIMINAR DE ILEGITIMIDADE PASSIVA AFASTADA - COMISSÃO DE CORRETAGEM - VIOLAÇÃO AO DEVER DE INFORMAÇÃO - REFORMA DA SENTENÇA - DEVOLUÇÃO NA FORMA SIMPLES - RECURSO PROVIDO.
+1. Reafirmada a legitimidade passiva da apelada SPE - CONSTRUTORA SÁ CAVALCANTE, consoante tese fixada pelo Superior Tribunal de Justiça ao analisar o tema 939, nos seguintes termos: Legitimidade passiva ad causam da incorporadora, na condição de promitente-vendedora, para responder pela restituição ao consumidor dos valores pagos a título de comissão de corretagem e de taxa de assessoria técnico- imobiliária, nas demandas em que se alega prática abusiva na transferência desses encargos ao consumidor. (REsp 1551951/SP, Rel. Min. Paulo de Tarso Sanseverino, Segunda Seção, julgado em 24/08/2016, DJe 06/09/2016).
+2. No caso ora em discussão, houve flagrante falha no dever de informação ao consumidor, vez que a cláusula I.3, embora transfira a responsabilidade pelo pagamento, não apresenta, em momento algum, o valor devido a título de comissão de corretagem, não constando o referido valor, também, em qualquer cláusula do contrato.
+3. As declarações apresentadas às fls. 324/327 corroboram a ilegalidade da cobrança, haja vista a informação de que o valor da comissão (R$ 9.401,20) seria destacado e deduzido do preço global do negócio, hipótese não verificada no caso em comento, na exata medida em que o referido valor foi acrescido ao valor global do imóvel, ao invés de deduzido.
+4. Embora tenha firmado um contrato constando o preço total de R$ 119.198,80 (cento e dezenove mil, cento e noventa e oito reais e oitenta centavos), cada unidade autônoma foi vendida, na verdade, pelo montante de R$ 128.600,00 (cento e vinte e oito mil e seiscentos reais), considerando o acréscimo da comissão de corretagem, valor global, portanto, superior ao previsto no contrato, contrariando, também, a cláusula 2.1.
+5. A devolução, considerando a data em que realizado o pagamento, deverá ocorrer de forma simples, não configurando a cobrança conduta contrária à boa-fé.
+6. Apelação conhecida e provida.
+Embargos de Declaração: opostos por SPE - CONSTRUTORA SÁ CAVALCANTE-ES XII LTDA, foram acolhidos para o fim de suprir omissão quanto à ilegitimidade passiva, sem efeitos infringentes.
+Recurso especial: alega violação dos arts. 485, VI, 927, III, 1.022, II, do CPC, e 6º, III, 31, 46, 48 e 52 do CDC. Afirma que há negativa de prestação jurisdicional. Aduz que não possui legitimidade passiva por não ser a incorporadora ou vendedora dos imóveis objeto da controvérsia. Argumenta que houve prévia e adequada informação sobre a transferência da comissão de corretagem à compradora e sobre os valores do negócio, atendendo à orientação do Tema 938 do STJ. Assevera que as propostas e declarações assinadas pela consumidora demonstram que a comissão foi destacada do preço global e paga diretamente à imobiliária, inexistindo sobrepreço.
+RELATADO O PROCESSO, DECIDE-SE.
+- Da violação do art. 1.022 do CPC
+É firme a jurisprudência do STJ no sentido de que não há ofensa ao art. 1.022 do CPC quando o Tribunal de origem, aplicando o direito que entende cabível à hipótese soluciona integralmente a controvérsia submetida à sua apreciação, ainda que de forma diversa daquela pretendida pela parte.
+A propósito, confira-se: REsp n. 2.095.460/SP, Terceira Turma, DJe de 15/2/2024 e AgInt no AREsp n. 2.325.175/SP, Quarta Turma, DJe de 21/12/2023.
+No particular, verifica-se que o acórdão recorrido decidiu, fundamentada e expressamente acerca da legitimidade passiva e do tema da comissão de corretagem, de maneira que os embargos de declaração opostos pela parte agravante, de fato, não comportavam acolhimento.
+Assim, observado o entendimento dominante desta Corte acerca do tema, não há que se falar em violação do art. 1.022 do CPC, incidindo, quanto ao ponto a Súmula 568/STJ.
+- Do reexame de fatos e provas e da interpretação de cláusulas contratuais
+O TJ/ES ao analisar o recurso de apelação interposto pela parte recorrente, concluiu o seguinte (e-STJ fls. 958-961):
+Inicialmente, reafirmo a legitimidade passiva da apelada SPE - CONSTRUTORA SÁ CAVALCANTE, consoante tese fixada pelo Superior Tribunal de Justiça ao analisar o tema 939, nos seguintes termos: "Legitimidade passiva ad causam da incorporadora, na condição de promitente-vendedora, para responder pela restituição ao consumidor dos valores pagos a título de comissão de corretagem e de taxa de assessoria técnico- imobiliária, nas demandas em que se alega prática abusiva na transferência desses encargos ao consumidor." (REsp 1551951/SP, Rel. Min. Paulo de Tarso Sanseverino, Segunda Seção, julgado em 24/08/2016, DJe 06/09/2016).
+No mérito, a solução da controvérsia demanda a análise dos termos contratuais, consoante farei a seguir.
+Infere-se do instrumento particular de compromisso de compra e venda que a compradora, ora apelante, adquiriu 04 (quatro) unidades autônomas (salas comerciais), constando na alínea "F" o preço total de cada unidade, a saber: R$ 119.198,80 (cento e dezenove mil, cento e noventa e oito reais e oitenta centavos).
+Consta, também, na parte geral do instrumento particular de compromisso de compra e venda, no item 2.1, que "O preço certo e ajustado para a compra e venda referente à unidade autônoma que será construída ora compromissada é aquele constante na alínea (F) do Quadro Resumo".
+Por seu turno, a alínea I.3 possui a seguinte redação: "Declara o COMPRADOR ter ciência de que a Comissão de Corretagem devida à Imobiliária pela intermediação na Compra e Venda do imóvel supracitado, deverá ser paga pelo COMPRADOR a fim de efetivar o serviço contratado pelo mesmo, ainda que ocorra o arrependimento e solicite o fim da relação contratual através do distrato, nos termos do artigo 725 do Código Civil brasileiro".
+ ..
+No caso ora em discussão, entendo que houve flagrante falha no dever de informação ao consumidor, vez que a cláusula I.3 supracitada, embora transfira a responsabilidade pelo pagamento, não apresenta, em momento algum, o valor devido a título de comissão de corretagem, não constando o referido valor, também, em qualquer cláusula do contrato.
+As declarações apresentadas às fls. 324/327, entendo, corroboram a ilegalidade da cobrança, haja vista a informação de que o valor da comissão (R$ 9.401,20) seria destacado e deduzido do preço global do negócio, hipótese não verificada no caso em comento, na exata medida em que o referido valor foi acrescido ao valor global do imóvel, ao invés de deduzido.
+Vale dizer, embora tenha firmado um contrato constando o preço total de R$ 119.198,80 (cento e dezenove mil, cento e noventa e oito reais e oitenta centavos), cada unidade autônoma foi vendida, na verdade, pelo montante de R$ 128.600,00 (cento e vinte e oito mil e seiscentos reais), considerando o acréscimo da comissão de corretagem, valor global, portanto, superior ao previsto no contrato assinado, contrariando, com isso, a cláusula 2.1 já citada neste voto.
+Desse modo, merece reforma a sentença para acolher o pleito de devolução dos valores.
+A devolução, considerando a data em que realizado o pagamento, deverá ocorrer de forma simples, não configurando a cobrança conduta contrária à boa-fé.
+ ..
+Pelo exposto, CONHEÇO do recurso de Apelação e, no mérito, LHE DOU PROVIMENTO para julgar parcialmente procedentes os pedidos iniciais.
+Ficam as requeridas condenadas, de forma solidária, ao pagamento das custas processuais e honorários advocatícios fixados em 10% sobre o valor da condenação.
+Desse modo, alterar o decidido no acórdão impugnado, no que se refere à legitimidade passiva e ao tema da comissão de corretagem, exige o reexame de fatos e provas e a interpretação de cláusulas contratuais, o que é vedado em recurso especial pelas Súmulas 5 e 7, ambas do STJ.
+Desse modo, não é possível que sejam revisitados fatos ou que seja conferida nova interpretação de cláusula contratual, uma vez que são matérias ligadas à demanda e alheias à função desta Corte Superior que é a uniformização da interpretação da legislação federal.
+Forte nessas razões, CONHEÇO do agravo e, com fundamento no art. 932, III e IV, "a", do CPC, bem como na Súmula 568/STJ, CONHEÇO PARCIALMENTE do recurso especial e, nessa extensão, NEGO-LHE PROVIMENTO.
+Nos termos do art. 85, § 11, do CPC, considerando o trabalho adicional imposto ao advogado da parte agravada em virtude da interposição deste recurso, majoro os honorários fixados anteriormente em 10% sobre o valor da condenação (e-STJ fls. 961) para 12% (doze por cento).
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar sua condenação às penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO DE REPETIÇÃO DE INDÉBITO. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. AUSÊNCIA. REEXAME DE FATOS. INTERPRETAÇÃO DE CLÁUSULAS CONTRATUAIS. INADMISSIBILIDADE
+1. Ação de repetição de indébito.
+2. Ausentes os vícios do art. 1.022 do CPC, rejeitam-se os embargos de declaração.
+3. O reexame de fatos e a interpretação de cláusulas contratuais em recurso especial são inadmissíveis.
+4. Agravo em recurso especial conhecido. Recurso especial parcialmente conhecido e, nessa extensão, não provido.
