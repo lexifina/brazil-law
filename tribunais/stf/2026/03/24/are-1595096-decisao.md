@@ -1,0 +1,25 @@
+DECISÃO:
+Trata-se de recurso extraordinário com agravo contra decisão de inadmissão do recurso extraordinário.
+O recurso foi interposto com fundamento na alínea "a" do permissivo constitucional.
+O acórdão recorrido  ficou assim ementado:
+
+"APELAÇÃO CÍVEL. TRIBUTÁRIO. EMBARGOS À EXECUÇÃO FISCAL. IPTU E TAXA DE LIXO. NULIDADE DO LANÇAMENTO E DA CERTIDÃO DE DÍVIDA ATIVA. COOPROPRIETÁRIO. POSSIBILIDADE DE O TRIBUTO DO IMÓVEL EM CONDOMÍNIO SER LANÇADO EM RELAÇÃO A APENAS UM DOS CONDÔMINOS. INEXISTÊNCIA DE LITISCONSORTE PASSIVO COM OS DEMAIS PROPRIETÁRIOS. RESPONSABILIDADE SOLIDÁRIA DOS COPROPRIETÁRIOS PELA INTEGRALIDADE DO DÉBITO. ART. 124, I C/C PARÁGRAFO ÚNICO E ART. 34 DO CÓDIGO TRIBUTÁRIO NACIONAL. PLEITO DE LIMITAÇÃO DA EXECUÇÃO À FRAÇÃO DE PROPRIEDADE DO EMBARGANTE. IMPOSSIBILIDADE. PRECEDENTES. NULIDADE DA CITAÇÃO. NÃO OCORRÊNCIA. CORRESPONDÊCIA ENCAMINHADA AO ENDEREÇO DO EXECUTADO. RECEBIMENTO DA CARTA POR TERCEIRA PESSOA. IRRELEVÂNCIA. ENDEREÇO CONSTANTE NO BANCO DE DADOS DO SISTEMA DE INFORMAÇÕES ELEITORAIS (SIEL). 8º, II, DA LEI Nº 6.830/80. PRECEDENTES DO SUPERIOR TRIBUNAL DE JUSTIÇA E DESTE TRIBUNAL. CITAÇÃO VÁLIDA. PRESCRIÇÃO INTERCORRENTE. CITAÇÃO DO DEVEDOR. TENTATIVA DE LOCALIZAÇÃO DE BENS PENHORÁVEIS. AUSÊNCIA DE TRANSCURSO DE PRAZO SUPERIOR A SEIS ANOS DESDE A DATA EM QUE O EXEQUENTE TOMOU CONHECIMENTO DA PRIMEIRA TENTATIVA FRUSTRADA DE PENHORA. CONSTRIÇÃO JUDICIAL CONCRETIZADA. ORIENTAÇÃO JURISPRUDENCIAL FIRMADA PELO SUPERIOR TRIBUNAL DE JUSTIÇA NO JULGAMENTO DO RECURSO ESPECIAL REPETITIVO Nº 1.340.553/RS. PRESCRIÇÃO NÃO CONFIGURADA. ALEGAÇÃO DE VIOLAÇÃO AO PRINCÍPIO DA LEGALIDADE. MAJORAÇÃO DA BASE DE CÁLCULO POR DECRETO NÃO DEMONSTRADA. RECURSO DESPROVIDO."
+
+No recurso extraordinário sustenta-se violação do(s) art.(s) 5º, XXII; 150, I e IV; 153, § 1º; e 177, § 4º, I, "b",  da Constituição Federal.
+Decido.
+Analisados os autos,  verifica-se que, para ultrapassar o entendimento do Tribunal de origem, seria necessário analisar a causa à luz da interpretação dada à legislação infraconstitucional pertinente e reexaminar os fatos e as provas dos autos, o que não é cabível em sede de recurso extraordinário, nos termos da Súmula 279/STF. Sobre o tema, a propósito:
+
+Agravo regimental no recurso extraordinário com agravo. Direito Tributário. IPTU. Valor venal. Legislação infraconstitucional. Ofensa reflexa. Fatos e provas. Reexame. Impossibilidade. Precedentes. 1. Não se presta o recurso extraordinário para a análise de matéria infraconstitucional, tampouco para o reexame dos fatos e das provas constantes dos autos. Incidência das Súmulas nºs 279 e 636/STF. 2. Agravo regimental não provido, com imposição de multa de 1% (um por cento) do valor atualizado da causa (art. 1.021, § 4º, do CPC). 3. Havendo prévia fixação de honorários advocatícios pelas instâncias de origem, seu valor monetário será majorado em 10% (dez por cento) em desfavor da parte recorrente, nos termos do art. 85, § 11, do Código de Processo Civil, observados os limites dos §§ 2º e 3º do referido artigo e a eventual concessão de justiça gratuita. (ARE nº 1.179.647-AgR, Tribunal Pleno, Rel. Min. Dias Toffoli, DJe de 24/04/2019)
+
+Agravo regimental em recurso extraordinário com agravo. 2. Direito Tributário. 3. IPTU. Fato gerador. Lançamento complementar. 4. Matéria infraconstitucional. Ofensa reflexa à Constituição Federal. Necessidade de reexame de legislação local. Incidência da Súmula 280 do STF. 5. Ausência de argumentos capazes de infirmar a decisão agravada. 6. Negado provimento ao agravo regimental. Verba honorária majorada em 10%. (ARE nº 1.243.432-AgR, Segunda Turma, Rel. Min. Gilmar Mendes, DJe de 24/04/2020)
+
+Agravo regimental no recurso extraordinário com agravo. Direito Tributário. IPTU. Forma de lançamento. Legislação infraconstitucional. Ofensa reflexa. Fatos e provas. Reexame. Impossibilidade. Precedentes. 1. Inadmissível, em recurso extraordinário, o reexame da legislação infraconstitucional, bem como dos fatos e das provas dos autos (Súmula nº 279/STF). 2. Agravo regimental não provido, com imposição de multa de 1% (um por cento) do valor atualizado da causa (art. 1.021, § 4º, do CPC). 3. Havendo prévia fixação de honorários advocatícios pelas instâncias de origem, seu valor monetário será majorado em 10% (dez por cento) em desfavor da parte recorrente, nos termos do art. 85, § 11, do Código de Processo Civil, observados os limites dos §§ 2º e 3º do referido artigo e a eventual concessão de justiça gratuita. (ARE nº 1.227.957-AgR, Tribunal Pleno, Rel. Min. Dias Toffoli , DJe de 21/11/2019)
+
+Ante o exposto, nego seguimento ao recurso (alínea c do inciso V do art. 13 do Regimento Interno do Supremo Tribunal Federal).
+Havendo prévia fixação de honorários advocatícios pelas instâncias de origem, seu valor monetário será majorado em 10% (dez por cento) em desfavor da parte recorrente, nos termos do art. 85, § 11, do Código de Processo Civil, observado os limites dos §§ 2º e 3º do referido artigo e a eventual concessão de justiça gratuita.
+Publique-se.
+Brasília, 24 de março de 2026.
+
+Ministro EDSON FACHIN
+Presidente
+Documento assinado digitalmente
