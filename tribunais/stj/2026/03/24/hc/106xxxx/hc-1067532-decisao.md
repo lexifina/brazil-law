@@ -1,0 +1,24 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de MARLLON ANTONIO DE JESUS ARAUJO, contra acórdão prolatado pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAIS.
+Consta dos autos que o paciente foi preso em flagrante no dia 13/9/2025, pela suposta prática do delito previsto no art. 33, caput, da Lei n. 11.343/2006, tendo a custódia sido posteriormente convertida em preventiva.
+O impetrante sustenta, em síntese, a ilegalidade da prisão em flagrante, sob o argumento de que o paciente teria sido submetido a violência policial após a abordagem, com agressões físicas incompatíveis com a versão apresentada pelos agentes estatais.
+Afirma que o Tribunal de origem teria denegado a ordem com fundamento equivocado, ao entender não comprovadas as agressões e ao manter a prisão preventiva com base na garantia da ordem pública, motivo pelo qual o alegado constrangimento ilegal persistiria.
+De forma subsidiária, alega a ausência dos requisitos autorizadores da prisão preventiva, destacando a primariedade técnica do paciente, a existência de residência fixa e ocupação lícita, sua condição de estudante, a idade de 18 anos, a inexistência de violência ou grave ameaça no delito imputado, a falta de demonstração concreta do periculum libertatis e a o fato de que a quantidade de droga apreendida não seria exacerbada.
+Defende que seria suficiente a incidência de medidas alternativas, indicando, entre outras, comparecimento periódico em juízo, proibição de frequentar determinados lugares, proibição de ausentar-se da comarca, recolhimento domiciliar noturno e monitoramento eletrônico
+Requer a concessão da ordem para relaxar a prisão preventiva ou, subsidiariamente, revogá-la, com ou sem a imposição de medidas cautelares mais brandas.
+Liminar indeferida às fls. 307-308.
+Informações prestadas às fls. 314-353 e 354-368.
+O Ministério Público Federal em parecer, às fls. 372-378, opinou pelo não conhecimento do writ.
+É  o  relatório. DECIDO.
+In casu, a prisão preventiva da paciente se encontra devidamente fundamentada em dados concretos extraídos dos autos, que evidenciam a necessidade de encarceramento provisório para a garantia da ordem pública, notadamente se considerado o risco de reiteração criminosa; nesse sentido, o Juízo de primeiro grau destacou que " .. o autuado possui condenação recente pelo mesmo delito, consoante autos de nº. 0007567- 27.2025.8.13.0145,o qual se encontra em grau recursal, tendo sido posto em liberdade há cerca de três meses, o que revela reiteração criminosa e elevado risco de reiteração delitiva" (fl. 139).
+Tais circunstâncias demonstram a periculosidade da paciente, justificando a segregação cautelar determinada.
+Sobre o tema:
+"Consoante sedimentado em farta jurisprudência desta Corte Superior, maus antecedentes, reincidência, atos infracionais pretéritos ou até mesmo outras ações penais em curso justificam a imposição de segregação cautelar como forma de evitara reiteração delitiva e, assim, garantir a ordem pública" (AgRg no HC n. 884.146/PE, relator Ministro Joel Ilan Paciornik, Quinta Turma, DJe de 26/6/2024.)
+Outrossim, conforme a jurisprudência desta Corte, a contumácia delitiva justifica a prisão cautelar para a garantia da ordem pública. Nesse sentido: AgRg no HC n. 910.540/CE, Quinta Turma, Rel. Min. Reynaldo Soares da Fonseca, DJe de 3/7/2024; AgRg no HC n. 902.557/SP, Sexta Turma; Rel. Min. Antonio Saldanha Palheiro, DJe de 3/7/2024 e AgRg no HC n. 912.267/MG, Sexta Turma, Rel. Min. Rogerio Schietti Cruz, DJe de 28/6/2024.
+Ademais, cumpre consignar que condições pessoais favoráveis, tais como primariedade, ocupação lícita e residência fixa, não têm o condão de, por si sós, garantirem ao paciente a revogação da prisão preventiva se há nos autos elementos hábeis a recomendar a manutenção de sua custódia cautelar. Pela mesma razão, não há que se falar em possibilidade de aplicação de medidas cautelares diversas da prisão, o que ocorre na hipótese.
+Por fim, no que se refere à alegação acerca de que o paciente teria sido agredido por policiais; entendo, no presente caso, que a questão demanda o revolvimento de matéria fático-probatória, incabível na via do habeas corpus.
+Ilustrativamente:
+"É incabível, na estreita via do recurso em habeas corpus, a análise das questões relativas à agressão e à prática de tortura por parte dos policiais, por demandar detido e profundo revolvimento fático-probatório dos autos. Nessa linha: AgRg no HC 605.702/RJ, Rel. Ministro FELIX FISCHER, QUINTA TURMA, julgado em 22/9/2020, DJe 6/10/2020; RHC 114.233/RR, Rel. Ministro JOEL ILAN PACIORNIK, QUINTA TURMA, julgado em 25/8/2020, DJe 31/8/2020; e AgRg no RHC 121.001/MG, Rel. Ministra LAURITA VAZ, SEXTA TURMA, julgado em 19/5/2020, DJe 2/6/2020" (AgRg no RHC n. 191.141/BA, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 8/4/2024, DJe de 12/4/2024.)
+Ante o exposto, denego a ordem.
+Publique-se. Intimem-se.
+EMENTA
