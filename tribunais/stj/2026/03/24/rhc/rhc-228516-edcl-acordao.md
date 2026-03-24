@@ -1,0 +1,40 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Turma, por unanimidade, rejeitar os embargos.
+Os Srs. Ministros Ribeiro Dantas, Joel Ilan Paciornik, Messod Azulay Neto e Maria Marluce Caldas votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Reynaldo Soares da Fonseca.
+EMENTA
+PROCESSO PENAL. EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO RECURSO EM HABEAS CORPUS . ALEGADA CONTRADIÇÃO. SUPRESSÃO DE INSTÂNCIA. NULIDADES NÃO APRECIADAS PELA CORTE DE ORIGEM. AUSÊNCIA DOS VÍCIOS DO ART. 619 DO CPP. PRETENSÃO DE REDISCUSSÃO DO MÉRITO. EMBARGOS DE DECLARAÇÃO REJEITADOS.
+1. Os embargos de declaração exigem a demonstração de ambiguidade, obscuridade, contradição ou omissão na decisão embargada, nos termos do art. 619 do Código de Processo Penal, não se prestando à rediscussão do mérito.
+2. Não há contradição quando o acórdão embargado explicita que as nulidades invocadas não foram apreciadas pelo Tribunal a quo e que seu exame originário por esta Corte importaria indevida supressão de instância. A circunstância de a apelação não ter suscitado as nulidades apenas confirma a ausência de prévio debate nas instâncias ordinárias, sem afastar o impedimento processual.
+3. A insurgência tem nítido caráter infringente, visando à reanálise da conclusão sobre supressão de instância, sem apontar vício apto a ensejar aclaramento.
+4. Embargos de declaração rejeitados.
+RELATÓRIO
+Trata-se de embargos de declaração opostos por LAYLA MARINA SOARES SANTOS contra acórdão que negou provimento ao agravo regimental interposto no recurso em habeas corpus, nos termos da seguinte ementa (e-STJ fl. 359):
+PROCESSO PENAL. AGRAVO REGIMENTAL NO RECURSO EM HABEAS CORPUS. FURTO QUALIFICADO. NULIDADES PROCESSUAIS (INAUDIBILIDADE DA MÍDIA DA AUDIÊNCIA E PRETERIÇÃO DA DEFENSORIA PÚBLICA). MATÉRIAS NÃO APRECIADAS PELA CORTE DE ORIGEM. SUPRESSÃO DE INSTÂNCIA. DESPROPORCIONALIDADE DA CONDENAÇÃO ANTE O VALOR DA RES FURTIVA. INOVAÇÃO RECURSAL. PRISÃO PREVENTIVA MANTIDA NA SENTENÇA. GARANTIA DA ORDEM PÚBLICA. REINCIDÊNCIA E MAUS ANTECEDENTES. DIREITO DE RECORRER EM LIBERDADE. INVIABILIDADE. MEDIDAS CAUTELARES DIVERSAS. INSUFICIÊNCIA. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. As alegações de nulidade por inaudibilidade da mídia da audiência de instrução e julgamento e por violação ao princípio do defensor natural não foram apreciadas pelo Tribunal a quo, o que inviabiliza o exame originário por esta Corte Superior, sob pena de supressão de instância.
+2. A tese de desproporcionalidade da condenação em razão do valor da res furtiva constitui inovação recursal deduzida apenas em agravo regimental, sendo incabível a ampliação do objeto nesta fase.
+3. A prisão preventiva foi mantida na sentença com fundamentação concreta, amparada na garantia da ordem pública, diante da contumácia delitiva evidenciada pela reincidência e pelos maus antecedentes, revelando risco de reiteração criminosa.
+4. Considerando que o acusado permaneceu preso durante todo o processo, "não deve ser permitido o recurso em liberdade, especialmente porque, inalteradas as circunstâncias que justificaram a custódia, não se mostra adequada a soltura dele depois da condenação em primeiro grau". (AgRg no HC n. 742.659/SP, Relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 16/8/2022, DJe 22/8/2022).
+5. As medidas cautelares diversas previstas no art. 319 do CPP mostram-se inadequadas e insuficientes no caso concreto.
+6. Agravo regimental não provido.
+Nos presentes embargos, a embargante aponta contradição no acórdão, afirmando que não houve discussão das nulidades pela via da apelação, pois o recurso interposto pelo advogado dativo não suscitou as teses de mídia inaudível e de violação ao defensor natural, tendo se limitado a questões de mérito (insignificância, dosimetria e regime), razão pela qual não deveria incidir óbice de supressão de instância. Sustenta, ainda, que as ilegalidades manifestas cercearam o direito de defesa e a atuação da Defensoria Pública, pugnando pelo esclarecimento do julgado (e-STJ fls. 379/383).
+Requer o conhecimento e o provimento dos embargos de declaração para aclarar a decisão e, com isso, conceder a ordem para sanar o alegado constrangimento ilegal (e-STJ fls. 384).
+É o relatório.
+EMENTA
+PROCESSO PENAL. EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO RECURSO EM HABEAS CORPUS . ALEGADA CONTRADIÇÃO. SUPRESSÃO DE INSTÂNCIA. NULIDADES NÃO APRECIADAS PELA CORTE DE ORIGEM. AUSÊNCIA DOS VÍCIOS DO ART. 619 DO CPP. PRETENSÃO DE REDISCUSSÃO DO MÉRITO. EMBARGOS DE DECLARAÇÃO REJEITADOS.
+1. Os embargos de declaração exigem a demonstração de ambiguidade, obscuridade, contradição ou omissão na decisão embargada, nos termos do art. 619 do Código de Processo Penal, não se prestando à rediscussão do mérito.
+2. Não há contradição quando o acórdão embargado explicita que as nulidades invocadas não foram apreciadas pelo Tribunal a quo e que seu exame originário por esta Corte importaria indevida supressão de instância. A circunstância de a apelação não ter suscitado as nulidades apenas confirma a ausência de prévio debate nas instâncias ordinárias, sem afastar o impedimento processual.
+3. A insurgência tem nítido caráter infringente, visando à reanálise da conclusão sobre supressão de instância, sem apontar vício apto a ensejar aclaramento.
+4. Embargos de declaração rejeitados.
+VOTO
+A irresignação não merece acolhimento.
+Os embargos de declaração são recurso com fundamentação vinculada, sendo imprescindível a demonstração de que a decisão embargada se mostrou ambígua, obscura, contraditória ou omissa, conforme disciplina o art. 619 do Código de Processo Penal. Podem ser admitidos, ainda, para correção de eventual erro material e, excepcionalmente, para alteração ou modificação do decisum embargado.
+É insuficiente, todavia, a mera irresignação com o entendimento apresentado na decisão, assim como inviável seu uso como mero meio de reanálise das alegações.
+No caso, não se constatam os vícios alegados.
+A embargante afirma existir contradição quanto à conclusão de supressão de instância, ao argumento de que as nulidades (inaudibilidade da mídia da audiência e violação ao defensor natural) não foram suscitadas na apelação interposta pelo advogado dativo, razão pela qual não deveria incidir o óbice para exame por esta Corte. A leitura do acórdão embargado, porém, revela que a decisão foi explícita ao consignar que o Tribunal a quo não apreciou o mérito das nulidades e que a matéria não pode ser analisada originariamente pelo Superior Tribunal de Justiça, por importar indevida supressão de instância, em linha com o entendimento ali transcrito (e-STJ fls. 366/368). Não há, portanto, dissonância interna entre os fundamentos e a conclusão: a decisão partiu precisamente da ausência de deliberação pelo Tribunal estadual para afirmar a inviabilidade de conhecimento direto das nulidades nesta sede mandamental.
+A circunstância de a apelação não ter veiculado as nulidades apenas confirma a inexistência de prévio debate nas instâncias ordinárias e não afasta o impedimento processual apontado no acórdão, que se fundamentou na necessidade de exame pela via adequada, com ampla devolutividade e contraditório próprio.
+Os embargos, nessa perspectiva, apenas buscam rediscutir a solução adotada quanto à supressão de instância, sem demonstrar efetiva ambiguidade, obscuridade, contradição ou omissão, nos termos do art. 619 do CPP.
+De fato, o entendimento desta Corte é pacífico no sentido de que "os embargos declaratórios não constituem recurso de revisão, sendo inadmissíveis se a decisão embargada não padecer dos vícios que autorizariam a sua oposição (obscuridade, contradição e omissão)". (EDcl no AgRg no REsp n. 1339703/RS, relator Ministro Felix Fischer, Quinta Turma, julgado em 4/11/2014, DJe de 17/11/2014).
+Manifesta, portanto, a impossibilidade de acolhimento dos presentes aclaratórios, porquanto não demonstrada ambiguidade, omissão, contradição ou obscuridade, mas mera irresignação do embargante com a solução apresentada por esta Corte Superior.
+Diante do exposto, rejeito os presentes embargos.
+É como voto.
