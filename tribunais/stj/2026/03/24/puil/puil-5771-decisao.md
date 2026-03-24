@@ -1,0 +1,26 @@
+DECISÃO
+Trata-se de pedido de uniformização de interpretação de lei formulado por Marcelo Ferreira Silva, com fundamento no art. 18, § 3º, da Lei n. 12.153/2009, contra acórdão da 3ª Turma Recursal da Fazenda Pública do Tribunal de Justiça de São Paulo, que firmou as teses de que "o prazo de prescrição punitiva para suspensão do direito de dirigir é de cinco anos" e de que "o art. 282 do CTB não se aplica ao prazo de aplicação da penalidade".
+O requerente alega (fls. 1-17) que "a controvérsia jurídica gira em torno da interpretação do art. 282, § 6º, II, do Código de Trânsito Brasileiro, especialmente quanto ao prazo para expedição da notificação da penalidade de cassação do direito de dirigir" e que o acórdão paradigma, da 1ª Turma Recursal do Estado de Mato Grosso do Sul, "reconheceu expressamente o prazo decadencial previsto na legislação federal, como termo final da decadência a expedição da notificação da penalidade do processo de suspensão".
+Aduz que "diversos Tribunais de Justiça e Turmas Recursais, como por exemplo do Mato Grosso do Sul, adotam o entendimento de que, com a alteração promovida pela Lei nº 14.229/2021 no Código de Trânsito Brasileiro, o prazo para instauração e notificação de penalidades de suspensão ou cassação do direito de dirigir é de 180 ou 360 dias, contados da conclusão do processo administrativo da infração, que deu origem à cassação".
+Afirma que "o acórdão recorrido entendeu ser legal a resolução 723/2018 do CONTRAN, bem como equivocadamente deixou de analisar a principal alegação da requerente em relação ao prazo de decadência previsto no art. 282, em seu § 6º do CTB".
+Requer o acolhimento do pedido, "procedendo-se à declaração da decadência de se aplicar a penalidade de suspensão do direito de dirigir".
+É o relatório.
+A Lei n. 12.153/2009, que dispõe sobre os Juizados Especiais da Fazenda Pública no âmbito dos Estados, do Distrito Federal, dos Territórios e dos Municípios, prevê, em seu artigo 18, a competência desta Corte para dirimir a divergência quando a questão controvertida for de direito material e houver divergência de interpretações da lei federal entre Turmas de diferentes Estados ou contrariedade com súmula do Superior Tribunal de Justiça:
+Art. 18. Caberá pedido de uniformização de interpretação de lei quando houver divergência entre decisões proferidas por Turmas Recursais sobre questões de direito material.
+§ 1º O pedido fundado em divergência entre Turmas do mesmo Estado será julgado em reunião conjunta das Turmas em conflito, sob a presidência de desembargador indicado pelo Tribunal de Justiça.
+§ 2º No caso do § 1º, a reunião de juízes domiciliados em cidades diversas poderá ser feita por meio eletrônico.
+§ 3º Quando as Turmas de diferentes Estados derem a lei federal interpretações divergentes, ou quando a decisão proferida estiver em contrariedade com súmula do Superior Tribunal de Justiça, o pedido será por este julgado.
+Na espécie, alega o requerente que "a controvérsia jurídica gira em torno da interpretação do art. 282, § 6º, II, do Código de Trânsito Brasileiro, especialmente quanto ao prazo para expedição da notificação da penalidade de suspensão do direito de dirigir" e que o acórdão paradigma, da 1ª Turma Recursal do Estado de Mato Grosso do Sul, "reconheceu expressamente o prazo decadencial previsto na legislação federal, como termo final da decadência a expedição da notificação da penalidade".
+O acórdão ora impugnado, por outro lado, concluiu que "a decadência prevista no art. 282, §§6º e 7º, do CTB refere-se à expedição da notificação da penalidade, e não à instauração do processo de suspensão".
+Dessa forma, não houve a demonstração de divergência entre os casos confrontados, razão pela qual o pedido de uniformização revela-se incabível.
+Sobre o tema, cumpre trazer à baila acórdão da Primeira Seção desta Corte:
+PROCESSUAL CIVIL. ADMINISTRATIVO. AGRAVO INTERNO NO PEDIDO DE UNIFORMIZAÇÃO DE INTERPRETAÇÃO DE LEI. SUSPENSÃO DO DIREITO DE DIRIGIR. PRAZO DECADENCIAL. DISSÍDIO JURISPRUDENCIAL. INEXISTÊNCIA.
+1. "Nos termos do art. 18, § 3º, da Lei 12.153/2009, o pedido de uniformização de interpretação de lei federal é cabível no âmbito do Superior Tribunal de Justiça quando as turmas recursais de diferentes estados derem à lei federal interpretações divergentes ou quando a decisão proferida estiver em contrariedade com súmula deste Tribunal, e especificamente no que se refere a questões de direito material" (AgInt no PUIL n. 3.688/PA, relator Ministro Paulo Sérgio Domingues, Primeira Seção, DJe de 23/8/2024).
+2. Hipótese em que não restou evidenciado o dissenso pretoriano suscitado pela parte reclamante, ora agravante, pois os acórdãos recorrido e paradigma emprestaram ao art. 282, § 6º, II, do CTB a mesma interpretação, no sentido de que o prazo decadencial iniciou-se com a conclusão do processo administrativo de suspensão do direito de dirigir.
+3. Agravo interno desprovido.
+(AgInt no PUIL n. 4.552/SP, relator Ministro Sérgio Kukina, Primeira Seção, julgado em 11/6/2025, DJEN de 17/6/2025.)
+Ante o exposto, nos termos do art. 34, XVIII, "a", do RISTJ, não conheço do pedido.
+Publique-se.
+Intimem-se.
+EMENTA
+PEDIDO DE UNIFORMIZAÇÃO DE INTERPRETAÇÃO DE LEI. SUSPENSÃO DO DIREITO DE DIRIGIR. PRESCRIÇÃO/DECADÊNCIA. AUSÊNCIA DE DEMONSTRAÇÃO DE DIVERGÊNCIA ENTRE OS CASOS CONFRONTADOS. NÃO CONHECIMENTO.
