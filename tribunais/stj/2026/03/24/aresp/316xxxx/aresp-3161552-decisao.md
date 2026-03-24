@@ -1,0 +1,39 @@
+DECISÃO
+Trata-se de agravo nos próprios autos interposto contra decisão que inadmitiu o recurso especial em razão da ausência de violação a dispositivo legal, da referência genérica ao preceito e da incidência da Súmula n. 7/STJ (fls. 397-401).
+O acórdão recorrido encontra-se assim ementado (fls. 317-318):
+Apelação cível - Tutela cautelar antecedente - Sentença que julgou procedente o pedido - Insurgência dos réus - Não acolhimento.
+Preliminar de cerceamento de defesa - Rejeição - Réus/apelantes que pleitearam a nulidade da sentença por ausência de produção de prova oral - Juiz que é destinatário mediato das provas - Inteligência do art. 370 do CPC - Prova testemunhal requerida pelos réus que configura diligência inútil e meramente protelatória - Exegese do art. 370, parágrafo único, do CPC - Documentos apresentados pelas partes que se mostram suficientes para o julgamento do feito - Nulidade da sentença não configurada - PRELIMINAR REJEITADA.
+Mérito - Inexistência de conexão entre a presente demanda e a dos autos do procedimento nº 1127666-89.2022.8.26.0100 - Alegação de não infringência à clausula de não concorrência prevista no instrumento de cessão de quotas sociais celebrado entre as partes - Desacolhimento - Réus que iniciaram atividade concorrente à empresa QUALIMPEL um mês após à cessão das quotas sociais - Concorrência desleal evidenciada - Exceção de contrato não cumprido - Não incidência na espécie - Alegação de inadimplemento por parte dos autores que ocorreu meses após o início da atividade concorrente pelos réus - Sentença mantida - RECURSO IMPROVIDO.
+Os embargos de declaração foram rejeitados (fls. 335-339).
+Nas razões do recurso especial (fls. 342-373), interposto com fundamento no art. 105, III, "a" e "c", da CF, a parte recorrente alegou dissídio jurisprudencial e violação dos seguintes dispositivos legais (fls. 348-349):
+  Art. 421, CC: A cláusula de não concorrência impugnada impõe vedação absoluta ao exercício de atividade econômica pelos Recorrentes por 12 anos, sem qualquer limitação territorial ou compensação financeira. Tal imposição extrapola os limites da função social do contrato, pois impede que os ex-sócios se sustentem e se mantenham no mercado de forma digna e lícita.
+  Art. 422, CC: A cláusula compromete o equilíbrio contratual ao vedar, de forma absoluta, a atuação dos Recorrentes, sem qualquer critério de razoabilidade. Não há no contrato qualquer obrigação correlata dos Recorridos ou previsão de compensação proporcional ao tempo de impedimento, o que desnatura a boa-fé objetiva como vetor de interpretação e execução contratual.
+  Art. 166, II e VI, CC: O objeto da cláusula revela-se ilícito, pois veda o exercício profissional em todo e qualquer território nacional, por prazo desproporcional e sem causa justificável, contrariando frontalmente norma de ordem pública. A ausência de delimitação razoável temporal, territorial e objetiva resulta em nulidade absoluta do pacto.
+  Art. 421, CC: "A liberdade contratual será exercida nos limites da função social do contrato."
+  Art. 422, CC: "Os contratantes são obrigados a guardar, assim na conclusão do contrato, como em sua execução, os princípios de probidade e boa-fé."
+No agravo (fls. 406-416), afirma a presença dos requisitos de admissibilidade do especial.
+Contraminuta apresentada (fls. 421-422).
+É o relatório.
+Decido.
+Trata-se de ação de obrigação de não fazer com pedido de tutela antecedente proposta em desfavor dos agravantes e julgada procedente na origem. O Tribunal local manteve a conclusão, em virtude dos seguintes fundamentos (fls. 321-323):
+No tocante à cláusula de não concorrência, deve ser observado que as partes celebraram instrumento de cessão de quotas sociais da empresa QUALIMPEL INDÚSTRIA QUÍMICA LTDA. ME, por meio do qual os réus alienaram sua participação pelo valor de R$ 12.500.000,00 fl. 47/60.
+Ficou também estabelecido na cláusula 5.1 que os réus não poderiam praticar concorrência à empresa pelo período de 12 anos da assinatura do contrato (21/01/2022), sob pena de multa de 20% do valor do contrato fl. 57.
+Confira-se:
+5.4 Os CEDENTE não poderão exercer atividade iguais ou análogas às atividades exercidas pela QUALIMPEL pelo período de 12 anos a contar da data de assinatura deste instrumento.
+Os autores afirmam que os réus estariam praticando concorrência desleal, desde fev/2022, por intermédio da empresa EAN QUÍMICA LTDA. ("EAN"), a qual também se encontra sediada na cidade de José Bonifácio/SP e tem por atividade principal a "fabricação de sabões e detergentes sintéticos", objeto análogo à QUALIMPEL fl. 09.
+Os réus, por sua vez, em sede de contestação, deduziram defesa baseada na exceção do contrato não cumprido, sob o fundamento de que receberam apenas R$ 37.380,12 do valor da negociação com os autores, o que indicaria o inadimplemento prévio destes a justificar o desenvolvimento de atividade similar por intermédio da empresa EAN.
+Sem razão, contudo!
+Os réus iniciaram a atividade da empresa EAN um mês após a celebração do contrato de cessão de quotas sociais (fl. 162/163), de forma que inexistia inadimplemento por parte dos autores. Até porque, em 07/03/2022, as partes promoveram o aditamento do contrato, por meio do qual foram elencadas as pendências financeiras da empresa cedida pelos próprios réus fl. 151/156.
+Ou seja, quando os réus constituíram a empresa EAN inexistia inadimplemento por parte dos autores, sendo irrelevante a alteração posterior do objeto social, uma vez que os réus notificaram a empresa QUALIMPEL e os seus atuais sócios acerca do inadimplemento apenas em set/2022 (fl. 157/159).
+Com efeito, mostra-se irretocável a conclusão adotada pelo D. Juízo de origem ao dispor que "Não só a concorrência teve início logo em seguida à venda da Qualimpel como, à época, não havia discussão quanto a eventual falta de pagamento do valor devido pela aquisição das quotas." fl. 220.
+Diante da flagrante violação à cláusula de não concorrência, é de todo despicienda a discussão a respeito de eventual ofensa à livre concorrência e livre iniciativa.
+De rigor, pois, a manutenção integral da r. sentença prolatada, inclusive por seus próprios fundamentos, majorando-se os honorários para R$ 11.000,00 (art. 85, §11, do CPC e Tema 1059 do E. STJ). (Grifei)
+A Corte local acrescentou ainda que (fl. 337):
+ ..  ficou claro no v. acórdão que os réus deduziram defesa baseada na exceção do contrato não cumprido, quando, na verdade, foram os primeiros a infringirem os termos do contrato ao constituírem a empresa EAN QUÍMICA LTDA., um mês após à alienação das quotas sociais, na cidade da sede da empresa QUALIMPEL, e desempenhando atividade análoga.
+Neste cenário, qualquer outra discussão acerca da cláusula de não concorrência e de princípios gerais que devem nortear qualquer relação jurídica tornou-se despicienda, diante da postura abusiva adotada pelos embargantes.
+Nesse cenário, constata-se que os agravantes não impugnaram os fundamentos adotados pelo Tribunal de origem para manter a procedência da ação, a saber, os réus foram os primeiros a descumprir as cláusulas do contrato, quando ainda não havia inadimplemento pela parte adversa e as alegações de livre concorrência e iniciativa tornaram-se despiciendas. Incide, portanto, a Súmula n. 283/ STF.
+De todo modo, acatar a tese dos agravantes de desproporcionalidade das cláusulas contratuais demandaria a análise do próprio negócio jurídico mediante interpretação das suas normas, as obrigações previstas e as concessões mútuas, providência vedada pela Súmula n. 5/STJ.
+Ante o exposto, NEGO PROVIMENTO ao agravo.
+Na forma do art. 85, § 11, do CPC/2015, MAJORO os honorários advocatícios em 20% (vinte por cento) do valor arbitrado, observando-se os limites dos §§ 2º e 3º do referido dispositivo.
+Publique-se e intimem-se.
+EMENTA
