@@ -1,0 +1,91 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Turma, por unanimidade, negar provimento ao agravo regimental.
+Os Srs. Ministros Reynaldo Soares da Fonseca, Ribeiro Dantas, Joel Ilan Paciornik e Messod Azulay Neto votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro Reynaldo Soares da Fonseca.
+EMENTA
+AGRAVO REGIMENTAL EM HABEAS CORPUS. FURTO. DOSIMETRIA DA PENA. PENA-BASE MAJORADA COM FUNDAMENTO NAS CIRCUNSTÂNCIAS DO CRIME. MODUS OPERANDI REVELADOR DE MAIOR REPROVABILIDADE. CONSUMAÇÃO DO DELITO COM A INVERSÃO DA POSSE DA RES FURTIVA. REGIME INICIAL MAIS GRAVOSO. POSSIBILIDADE. EXISTÊNCIA DE CIRCUNSTÂNCIA JUDICIAL DESFAVORÁVEL. MANUTENÇÃO DA DECISÃO AGRAVADA. RECURSO DESPROVIDO.
+I. CASO EM EXAME
+1. Agravo regimental interposto contra decisão monocrática que não conheceu do habeas corpus e concedeu, de ofício, a ordem apenas para substituir a pena privativa de liberdade por restritivas de direitos.
+II. QUESTÃO EM DISCUSSÃO
+2. Há três questões em discussão: (i) definir se a exasperação da pena-base com fundamento nas circunstâncias do crime foi devidamente motivada; (ii) estabelecer se se trata de delito tentado ou consumado; e (iii) determinar se a pena aplicada autoriza a fixação de regime inicial mais brando.
+III. RAZÕES DE DECIDIR
+3. A elevação da pena-base mostra-se devidamente fundamentada em elemento concreto do caso, consistente na ousadia do agente ao subtrair, de forma súbita e de dentro de um veículo, o aparelho celular de vítima menor de idade, circunstância que extrapola os elementos ordinários do tipo penal.
+4. O crime de furto consuma-se com a inversão da posse do bem, ainda que por breve lapso temporal e mesmo que o agente seja perseguido ou preso logo após o fato, conforme a teoria da amotio adotada pelo STJ e pelo STF.
+5. A existência de circunstância judicial desfavorável autoriza a fixação de regime inicial mais gravoso, nos termos do art. 33, § 3º, do Código Penal.
+6. A revisão da dosimetria da pena em habeas corpus somente é possível diante de flagrante ilegalidade, sendo inviável o reexame aprofundado das circunstâncias judiciais quando isso demanda revolvimento do conjunto fático-probatório.
+7. AGRAVO REGIMENTAL NÃO PROVIDO.
+RELATÓRIO
+Trata-se de agravo regimental interposto por ALAM GONÇALVES GOMES contra decisão monocrática que não conheceu do habeas corpus e, de ofício, concedeu a ordem apenas para substituir a pena reclusiva por restritivas de direitos.
+Em suas razões, o agravante reitera os fundamentos da inicial, no sentido de que a pena-base foi elevada com fundamento genérico nas "circunstâncias do crime", sem indicação concreta de maior reprovabilidade que ultrapasse o tipo penal do art. 155 do CP e que, no tocante ao regime, a reprimenda de 01 (um) ano autoriza o regime aberto, à luz do art. 33, §§ 2º e 3º, do CP.
+Requer, assim, o provimento do agravo regimental para reformar a decisão, concedendo-se a ordem a fim de reduzir as penas e abrandar o regime inicial de cumprimento.
+É o relatório.
+EMENTA
+AGRAVO REGIMENTAL EM HABEAS CORPUS. FURTO. DOSIMETRIA DA PENA. PENA-BASE MAJORADA COM FUNDAMENTO NAS CIRCUNSTÂNCIAS DO CRIME. MODUS OPERANDI REVELADOR DE MAIOR REPROVABILIDADE. CONSUMAÇÃO DO DELITO COM A INVERSÃO DA POSSE DA RES FURTIVA. REGIME INICIAL MAIS GRAVOSO. POSSIBILIDADE. EXISTÊNCIA DE CIRCUNSTÂNCIA JUDICIAL DESFAVORÁVEL. MANUTENÇÃO DA DECISÃO AGRAVADA. RECURSO DESPROVIDO.
+I. CASO EM EXAME
+1. Agravo regimental interposto contra decisão monocrática que não conheceu do habeas corpus e concedeu, de ofício, a ordem apenas para substituir a pena privativa de liberdade por restritivas de direitos.
+II. QUESTÃO EM DISCUSSÃO
+2. Há três questões em discussão: (i) definir se a exasperação da pena-base com fundamento nas circunstâncias do crime foi devidamente motivada; (ii) estabelecer se se trata de delito tentado ou consumado; e (iii) determinar se a pena aplicada autoriza a fixação de regime inicial mais brando.
+III. RAZÕES DE DECIDIR
+3. A elevação da pena-base mostra-se devidamente fundamentada em elemento concreto do caso, consistente na ousadia do agente ao subtrair, de forma súbita e de dentro de um veículo, o aparelho celular de vítima menor de idade, circunstância que extrapola os elementos ordinários do tipo penal.
+4. O crime de furto consuma-se com a inversão da posse do bem, ainda que por breve lapso temporal e mesmo que o agente seja perseguido ou preso logo após o fato, conforme a teoria da amotio adotada pelo STJ e pelo STF.
+5. A existência de circunstância judicial desfavorável autoriza a fixação de regime inicial mais gravoso, nos termos do art. 33, § 3º, do Código Penal.
+6. A revisão da dosimetria da pena em habeas corpus somente é possível diante de flagrante ilegalidade, sendo inviável o reexame aprofundado das circunstâncias judiciais quando isso demanda revolvimento do conjunto fático-probatório.
+7. AGRAVO REGIMENTAL NÃO PROVIDO.
+VOTO
+Presentes os requisitos de admissibilidade, conheço do recurso.
+No mérito, contudo, a irresignação deixa de justificar-se, devendo a decisão atacada ser mantida por seus próprios fundamentos.
+A decisão ora agravada foi proferida nos seguintes termos (fls. 268-274):
+ ..
+Como se vê, a pena-base foi exasperada a título de circunstâncias judiciais, tendo em vista a ousadia do paciente em arrebatar, subitamente e de dentro de um veículo, o celular de vítima menor de idade, fundamento que, por desbordar das circunstâncias ínsitas ou comuns à espécie, justificam validamente o aumento da pena-base.
+A propósito:
+PENAL. HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. INADEQUAÇÃO. FURTO QUALIFICADO. DOSIMETRIA. PENA-BASEACIMA DO MÍNIMO LEGAL. MODUS OPERANDI DO CRIME. COMPENSAÇÃO PARCIAL ENTRE A ATENUANTE DA CONFISSÃOESPONTÂNEA E A AGRAVANTE DA RECIDIVA. MULTIRREINCIDÊNCIA. REGIME PRISIONAL FECHADO MANTIDO. INAPLICABILIDADE DA WRIT NÃO CONHECIDO. SÚMULA 269/STJ.1. Esta Corte e o Supremo Tribunal Federal pacificaram orientação no sentido deque não cabe habeas corpus substitutivo do recurso legalmente previsto para a hipótese, impondo-se o não conhecimento da impetração, salvo quando constatada a existência de flagrante ilegalidade no ato judicial impugnado.2. A individualização da pena é submetida aos elementos de convicção judiciais acerca das circunstâncias do crime, cabendo às Cortes Superiores apenas o controle da legalidade e da constitucionalidade dos critérios empregados, a fim de evitar eventuais arbitrariedades.
+Destarte, salvo flagrante ilegalidade, o reexame das circunstâncias judiciais e dos critérios concretos de individualização da pena mostram-se inadequados à estreita via do habeas corpus, pois exigiriam revolvimento probatório.
+3. Para fins do art. 59 do Código Penal, as circunstâncias do crime devem ser entendidas como os aspectos objetivos e subjetivos de natureza acidental que envolvem o fato delituoso. In casu, não se infere ilegalidade na primeira fase da dosimetria, pois o decreto condenatório demonstrou que o modus operandi do delito revela gravidade concreta superior à ínsita aos crimes de furto qualificado, pois o delito foi perpetrado quando o veículo da vítima estava parado no semáforo, em plena luz do dia, o que demonstra a grande ousadia do agente.
+ ..
+7. Writ não conhecido.
+(HC n. 536.359/SP, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 5/12/2019, DJe de 16/12/2019; grifos acrescidos.)
+AGRAVO REGIMENTAL NO HABEAS CORPUS SUBSTITUTIVO DERECURSO PRÓPRIO. INADEQUAÇÃO DA VIA ELEITA. FURTO TENTADO. FIOS DE COBRE. CONCESSIONÁRIA DE ENERGIA ELÉTRICA. ATIPICIDADE MATERIAL. REITERAÇÃO DELITIVA. ATIPICIDADE DACONDUTA NÃO EVIDENCIADA. ILEGALIDADE FLAGRANTE NÃOCONFIGURADA.
+I - O Superior Tribunal de Justiça não admite a impetração de habeas corpus substitutivo de recurso próprio. Precedentes.
+II - Havendo ilegalidade flagrante ou coação ilegal, concede-se a ordem de ofício.
+III - A aplicação do princípio da insignificância, segundo a orientação do Supremo Tribunal Federal, demanda a verificação da lesividade mínima da conduta, apta a torná-la atípica, considerando-se: a) a mínima ofensividade da conduta do agente; b) a inexistência de periculosidade social na ação; c) o reduzido grau de reprovabilidade do comportamento; e d) a inexpressividade da lesão jurídica provocada.
+IV - A jurisprudência do Superior Tribunal de Justiça é no sentido de que a reincidência e a habitualidade delitiva são obstáculos iniciais à tese da insignificância, ressalvada excepcional peculiaridade do caso penal. Precedentes.
+V - Na hipótese, o agravante, além de ser multirreincidente, praticou o delito em comento enquanto se beneficiava do regime prisional aberto, ocasião em que atentou contra o patrimônio público, interceptando fios de cobre que guarneciam a galeria subterrânea de energia, de sorte a causar mais prejuízos decorrentes da falta de luz à população local e revelar ousadia e especial culpabilidade, circunstâncias que exigem reprovabilidade estatal diferenciada. Precedentes.
+Agravo regimental não provido.
+(AgRg no HC n. 910.939/SP, relator Ministro Messod Azulay Neto, Quinta Turma, julgado em 18/6/2024, DJe de 21/6/2024; grifos acrescidos.)
+HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. INADEQUAÇÃO DA VIA ELEITA. FURTO QUALIFICADO (ART. 155, § 4º, I, DO CÓDIGO PENAL). PACIENTE CONDENADO À PENA CORPORAL DE 2ANOS DE RECLUSÃO, NO REGIME INICIAL SEMIABERTO. PENA-BASE. EXASPERAÇÃO ACIMA DO MÍNIMO LEGAL, COM BASE NA ANÁLISE1/6DESFAVORÁVEL DE UM VETOR DO CP. PENA BASILAR ART. 59 MANTIDA. REGIME PRISIONAL MAIS GRAVOSO DO QUE A PENACOMPORTA E NÃO APLICAÇÃO DO CÓDIGO PENAL. ART. 44 PRESENÇA DE CIRCUNSTÂNCIA JUDICIAL DESFAVORÁVEL. FUNDAMENTAÇÃO IDÔNEA. INEXISTÊNCIA DE CONSTRANGIMENTOILEGAL. HABEAS CORPUS NÃO CONHECIDO.
+- O Superior Tribunal de Justiça, seguindo entendimento firmado pelo Supremo Tribunal Federal, passou a não admitir o conhecimento de habeas corpus substitutivo de recurso previsto para a espécie. No entanto, deve-se analisar o pedido formulado na inicial, tendo em vista a possibilidade de se conceder a ordem de ofício, em razão da existência de eventual coação ilegal.
+- A jurisprudência pátria, em obediência aos ditames do art. 59 do Código Penal e do art. 93, IX da Constituição Federal, é firme no sentido de que a fixação da pena-base deve ser fundamentada de forma concreta, idônea e individualizada, não sendo suficiente referências a conceitos vagos e genéricos, máxime quando ínsitos ao próprio tipo penal.
+- Hipótese em que o acórdão recorrido exasperou a pena-base 1/6 acima do mínimo legal, pois, embora tenha decotado a análise desfavorável da personalidade do agente, tendo em vista a ausência de processos com condenação definitiva, a despeito da vasta folha de antecedentes, ainda remanesceu a valoração negativa das circunstâncias do delito, evidenciada pela ousadia e ardileza da conduta do paciente, que adulterou as placas do carro furtado com fita adesiva, a fim de assegurar o produto do crime, conduta essa que, inclusive, poderia ensejar tipo penal autônomo, elementos que demonstram a maior reprovabilidade da conduta.
+- A despeito de o montante final da pena (2 anos de reclusão) autorizar, a princípio, o regime aberto, depreende-se da dosimetria realizada que há circunstância judicial desfavorável ao paciente, o que justifica a imposição do regime prisional mais gravoso, no caso, o semiaberto, consoante orientação do art. 33, § 2º e 3º, do Código Penal.
+- Do mesmo modo, nos termos do art. 44, III, do CP, presente circunstância judicial desfavorável, a qual justificou o estabelecimento da pena-base acima do piso, a substituição da pena corporal por medidas restritivas de direitos não é recomendável à espécie, ainda que o montante da pena atenda ao requisito objetivo previsto no art. 44, I, do CP.
+- Habeas corpus não conhecido.
+(HC n. 361.623/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 22/9/2016, DJe de 30/9/2016; grifos acrescidos.)
+No mais, inviável o reconhecimento da tentativa, como exposto no acórdão (fls. 228-229 - grifos acrescidos):
+Ou seja, não há dúvidas de que o delito se consumou.
+Não prospera também o pleito de reconhecimento da tentativa, pois, como visto, o réu foi detido pelos policiais militares, logo após dispensar o aparelho celular no chão.
+A corroborar tal assertiva, há os depoimentos dos policiais militares: "um popular não identificado disse que na rua paralela estava ocorrendo um roubo à transeunte, próximo ao Shopping, passando as características do autor, então, quando os policiais entraram na Rua Odete Pompeu, se depararam com um indivíduo com as mesmas características fornecidas pelo popular, assim, realizaram a abordagem, cujo indivíduo foi identificado como Alam Gonçalves Gomes. Indagado, Alam confessou a prática da subtração de um aparelho celular, mas que havia dispensado o aparelho no chão há alguns metros" (fl. 02)
+Aliás, mencione-se, pois oportuno, que há muito se aplica na jurisprudência pátria a teoria da amotio, pela qual o crime de furto se consuma com a mera inversão da posse do bem, dispensando-se a posse mansa e pacífica: "2. Quanto ao momento consumativo do crime de furto, é assente a adoção da teoria da amotio por esta Corte e pelo Supremo Tribunal Federal, segundo a qual o referido crime consuma-se no momento da inversão da posse, tornando-se o agente efetivo possuidor da coisa subtraída, ainda que não seja de forma mansa e pacífica, sendo prescindível que o objeto subtraído saia da esfera de vigilância da vítima." (STJ AgRg no HC n. 737.649/SP, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 25/10/2022, DJe de 4/11/2022.)
+Portanto, o bem foi retirado da esfera de disponibilidade da vítima. O réu saiu do local dos fatos com o celular da vítima em mãos. É o que basta para caracterização da consumação nos crimes contra o patrimônio, como dito acima.
+Como se vê, o Tribunal de Justiça decidiu em conformidade com o entendimento desta Corte Superior, que há muito adota a teoria da amotio, segundo a qual a inversão da posse dos bens, ainda que por breves instantes, caracteriza o furto consumado.
+Este é, inclusive, o conteúdo do seu Tema Repetitivo n. 934, que se amolda perfeitamente aos fatos aqui analisados:
+Consuma-se o crime de furto com a posse de fato da res furtiva, ainda que por breve espaço de tempo e seguida de perseguição ao agente, sendo prescindível a posse mansa e pacífica os desvigiada.
+No mais, considerando a existência de circunstância judicial desfavorável, justifica-se a manutenção do regime inicial intermediário, nos termos do disposto no art. 33, §3º, do CPP:
+A determinação do regime inicial de cumprimento da pena far-se-á com observância dos critérios previstos no art. 59 deste Código.  ..  (grifos acrescidos).
+Com efeito, como bem esclarecido na decisão agravada, as circunstâncias judiciais foram negativamente valoradas com base em elemento concreto da prática criminosa (ousadia do recorrente em arrebatar, subitamente e de dentro de um veículo, o celular de vítima menor de idade), tendo sido apropriadamente fundamentadas dentro de uma razoabilidade e discricionariedade regrada do julgador, em consonância com o princípio do livre convencimento motivado (ou persuasão racional): " .. A dosimetria da pena está inserida no âmbito de discricionariedade do julgador, devendo estar atrelada ao caso concreto e às particularidades subjetivas do agente, só podendo ser revista em situações excepcionais.  ..  (AgRg no HC 620232/RS, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 23/03/2021, DJEN de 05/04/2021).
+Também ficou expresso na decisão recorrida tratar-se de um delito consumado, já que houve a posse da res furtiva ainda por um curto espaço de tempo, com fulcro na teoria do amotio, consagrada por esta Corte Superior através do Tema Repetitivo nº 934.
+Ademais, com a demonstração da circunstância judicial desfavorável acima, fica evidenciada a justificativa da determinação do regime semiaberto como o inicial para o cumprimento da sanção penal, com base no §3º, do art. 33 do Código Penal. Vejamos:
+DIREITO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. TRÁFICO DE DROGAS. DOSIMETRIA. PENA-BASE. RÉU PRESO ENQUANTO EM LIBERDADE PROVISÓRIA. GRAVIDADE CONCRETA. CONFISSÃO PARCIAL. RECONHECIMENTO. AGRAVO PARCIALMENTE PROVIDO.
+I. CASO EM EXAME
+1. Agravo regimental interposto contra decisão que deu parcial provimento a recurso especial, para reconhecer o privilégio no tráfico, mas sem alterar a primeira e segunda fases na dosimetria da pena.
+II. QUESTÃO EM DISCUSSÃO
+2. A questão em discussão consiste em saber se a dosimetria da pena foi corretamente aplicada, considerando o fato de o réu ter cometido o delito enquanto em liberdade provisória pela prática de outro crime como fundamento para majoração da pena pela culpabilidade.
+3. Outra questão em discussão é saber se é possível o reconhecimento da confissão espontânea, mesmo se parcial.
+4. Por fim, avalia-se a possibilidade de substituição da pena.
+III. RAZÕES DE DECIDIR
+5. O recrudescimento da pena-base pautou-se na negativação da vetorial relativa à culpabilidade do réu, pois ele foi preso enquanto em liberdade provisória com monitoramento eletrônico pela prática dos crimes de tráfico de drogas e posse de arma. Dessa forma, estando demonstrada a maior reprovabilidade dos autos, a circunstância judicial deve ser mantida.
+6. Consoante prevê o Enunciado n. 630 desta Corte, revisto na discussão do Tema Repetitivo n. 1.194, entende-se que deve a atenuante de confissão espontânea ser aplicada ao caso em menor proporção, na fração de 1/12, pois o réu admitiu a propriedade da droga.
+7. Considerando a pena em concreto e as circunstâncias judiciais desfavoráveis (pois o réu ostenta culpabilidade desabonadora e o crime foi cometido em circunstâncias mais deletérias), o regime semiaberto é o mais adequado à prevenção e à reparação do delito, nos termos do art. 33, § 2º, "c", e § 3º, do Código Penal.
+8. Presentes circunstâncias judiciais desfavoráveis, veda-se a substituição da pena privativa de liberdade por restritivas de direitos.
+(AgRg no AREsp 3070573/RS, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 16/12/2025, DJEN de 24/12/2025 ).
+Ante o exposto, nego provimento ao agravo regimental.
+É o voto.
