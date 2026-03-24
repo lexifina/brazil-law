@@ -1,0 +1,30 @@
+DECISÃO
+Trata-se de embargos de declaração com pedido de efeito infringente (fls. 1.610-1.622) opostos à decisão desta relatoria que não conheceu do conflito (fls. 1.601-1.606).
+Em suas razões, a parte embargante alega omissão, "na medida em que, embora reconheça a homologação do Plano de Recuperação Judicial em 18 de julho de 2023, deixou de analisar as consequências jurídicas inerentes a tal ato, notadamente a novação do crédito trabalhista em questão" (fl. 1.612).
+Destaca que "a partir da homologação judicial (transitada em julgado) nova obrigação surgiu, substituindo a obrigação anterior, ponto este de impar relevância para a delimitação e exame do caso discutido nestes autos" (fl. 1.613).
+Sustenta a existência de contradição, pois (fls. 1.614- 1.615):
+Conforme expressamente consignado na sentença de homologação do PRJ (cuja cópia encontra-se nos autos), o Juízo da Recuperação Judicial, ao analisar as objeções e a legalidade das cláusulas, declarou a "nulidade das cláusulas 6 e 6.1 unicamente em relação aos credores que a elas não anuíram, permanecendo válidas quanto àqueles que aprovaram o plano de recuperação judicial, sem ressalvas".
+Essas cláusulas do PRJ tratavam justamente da extensão dos efeitos da novação aos coobrigados e da supressão de garantias. A Cláusula 6.1 do PRJ, em particular, estabelecia que "Em obediência ao art. 49, §1º, da Lei nº 11.101/2005, os credores sujeitos ao presente processo recuperacional conservarão seus direitos em desfavor dos coobrigados solidários, contudo, só exercerão esse direito na hipótese de descumprimento deste plano de recuperação nos moldes §§ 1ºe 2º, art. 61 e 73 da LRF".
+A sentença de homologação, portanto, não simplesmente afastou a abrangência dos sócios, mas modulou a eficácia das cláusulas do PRJ, resguardando a sua validade para os credores que anuíram (não objetaram) ao plano. A decisão embargada, ao afirmar categoricamente que o sócio "não foi abrangido" e que "não consta qualquer decisão do Juízo da recuperação discordando das constrições", ignora a complexidade da modulação feita pelo juízo universal.
+Aduz não ser aplicável a Súmula 581/STJ. Defende a tese de que diferentemente "de fiadores, avalistas, emitentes de garantias reais ou devedores de regresso  que assumem obrigação própria e originária perante o credor  , o sócio é alcançado apenas por uma técnica excepcional de imputação patrimonial (desconsideração da personalidade jurídica), de índole processual-patrimonial, que não o converte em devedor solidário da obrigação principal nem o transforma em coobrigado cambial, real ou fidejussório" (fl 1.616).
+É o relatório.
+Decido.
+Os embargos de declaração somente são cabíveis quando houver, na sentença ou no acórdão, obscuridade, contradição, omissão ou erro material.
+Ademais, os embargos declaratórios, em regra, não permitem rejulgamento da causa, como pretende a parte ora embargante, sendo certo que o efeito modificativo apenas é possível em circunstâncias excepcionais, uma vez comprovada a existência dos mencionados vícios no julgado, o que não se evidencia no caso em exame.
+Sob esse enfoque, os seguintes precedentes da Corte Especial:
+PROCESSO CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. PRETENSÃO DE REEXAME DA CAUSA. INEXISTÊNCIA DE VÍCIOS NO JULGADO. USURPAÇÃO DE COMPETÊNCIA DO PRETÓRIO EXCELSO. INOCORRÊNCIA. EXERCÍCIO DE COMPETÊNCIA PRÓPRIA. EMBARGOS REJEITADOS.
+1. Os embargos de declaração são cabíveis para esclarecer obscuridade, eliminar contradição e suprir omissão de ponto ou questão sobre o qual devia se pronunciar o juiz de ofício ou a requerimento da parte.
+2. O recurso aclaratório possui finalidade integrativa e, portanto, não se presta à reforma do entendimento aplicado ou ao rejulgamento da causa, conforme pretende o embargante.
+ ..
+4. Embargos de declaração rejeitados.
+(EDcl no AgRg no RE nos EDcl no AgInt no AREsp n. 1.272.022/SP, Relator Ministro JOÃO OTÁVIO DE NORONHA, CORTE ESPECIAL, julgado em 15/5/2019, DJe 23/5/2019.)
+Não se constata nenhuma das hipóteses de cabimento dos embargos de declaração, pois a questão referente à competência foi devidamente apreciada nos autos.
+Destaco que a Justiça do Trabalho "determinou a ampliação do polo passivo da ação, através da desconsideração da personalidade jurídica, incluindo os sócios da empresa (fls. 1.082- 1.093). Na decisão ficou ressalvado que "o deferimento do processamento da recuperação judicial não impede o prosseguimento da execução em face dos sócios, uma vez que o patrimônio dos sócios é distinto daquele da empresa, não havendo a vis attractiva pelo Juízo da recuperação judicial"" (fl. 1.603).
+Na hipótese, não há falar em conflito, visto que o sócio não foi abrangido pela recuperação judicial, assim como não consta qualquer decisão do Juízo da recuperação discordando das constrições realizadas no patrimônio do sócio.
+Quanto à alegação de que o Juízo da Recuperação declarou que a cláusula 6.1 (extensão dos efeitos da novação aos coobrigados e da supressão da garantia) é válida para àqueles que aprovaram o plano de recuperação judicial sem ressalvas, verifica-se que a decisão de homologação do plano de recuperação estabeleceu que (fl. 72):
+Frise-se mais uma vez, que os efeitos do plano não alcançam coobrigados, avalistas ou fiadores, não interferindo nas ações, execuções e outras medidas judiciais em andamento.
+De modo que, declaro a nulidade das cláusulas 6 e 6.1 em relação aos credores que a elas não anuíram, permanecendo válida quanto àqueles que aprovaram o plano de recuperação judicial, sem ressalvas.
+Ausentes nos autos elementos que demonstrem ter o credor da reclamação trabalhista anuído, de forma integral e expressa, ao plano, cabe a embargante comprovar, na origem, que os sócios foram alcançados pela recuperação, para efeito de firmar a competência do juízo da recuperação para apreciar atos de constrição contra o patrimônio destes .
+Em face do exposto, REJEITO os embargos de declaração.
+Publique-se e intimem-se.
+EMENTA
