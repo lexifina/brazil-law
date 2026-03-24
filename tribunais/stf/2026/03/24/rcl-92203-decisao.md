@@ -1,0 +1,93 @@
+DECISÃO
+
+RECLAMAÇÃO. ADMINISTRATIVO. PENSÃO VITALÍCIA. DETERMINAÇÃO DE INCLUSÃO EM FOLHA DE PAGAMENTO. ALEGADO DESCUMPRIMENTO DAS DECISÕES PROFERIDAS NAS ARGUIÇÕES DE DESCUMPRIMENTO DE PRECEITO FUNDAMENTAL NS. 275 E 387:  AUSÊNCIA DE IDENTIDADE MATERIAL. RECLAMAÇÃO N. 89.527: DECISÃO INTER PARTES E SEM EFEITO VINCULANTE. RECLAMAÇÃO COMO SUCEDÂNEO RECURSAL: IMPOSSIBILIDADE. PRECEDENTES. RECLAMAÇÃO À QUAL SE NEGA SEGUIMENTO.
+
+Relatório
+
+1. Reclamação, com requerimento de medida liminar, ajuizada pela Empresa de Tecnologia da Informação e Comunicação do Município de São Paulo – Prodam-SP S/A, em 19.3.2026, contra a seguinte decisão proferida pelo juízo da Septuagésima Terceira Vara do Trabalho de São Paulo/SP no Processo n. 0001293-18.2011.5.02.0073, pela qual teria sido descumprido o decidido pelo Supremo Tribunal Federal nas Arguições de Descumprimento de Preceito Fundamental ns. 275 e 387 e na Reclamação n. 89.527:
+“DECISÃO
+Vistos.
+Diante do trânsito em julgado da decisão exequenda, intime-se a reclamada para, dentro do prazo de 30 dias:
+a) proceder à inclusão da reclamante em folha de pagamento, em razão da condenação ao pagamento de pensão mensal vitalícia, no importe de 5% sobre o último salário da autora – R$ 1.069,11 –, com a devida atualização da base de cálculo, conforme os reajustes salariais correspondentes ao período, e, no caso de extinção do cargo,
+observar-se-á os índices de reajuste da categoria profissional da autora fixados em normas coletivas ou acordos coletivos e também sem prejuízo de juros e atualização monetária até o efetivo pagamento, devida desde a data de afastamento da reclamante até a data em que completar 78,6 anos de idade anos de idade;
+b) efetuar o pagamento da indenização por danos morais no valor de R$ 20.000,00, com a devida atualização, observados os parâmetros legais;
+c) apresentar os cálculos das parcelas vencidas (desde a data de afastamento da reclamante até a data da inclusão em folha de pagamento), inclusive INSS, IR e honorários periciais;
+d) anexar as planilhas com a discriminação dos cálculos efetuados (cálculo do valor da pensão mensal, das parcelas vencidas e da indenização por danos morais), dos índices aplicados e demonstração da evolução salarial do cargo antes ocupado pela reclamante (desde a data de afastamento da reclamante até a data da inclusão em folha de pagamento).
+Cumpridas as determinações acima, dê-se vista ao reclamante para se manifestar, dentro do prazo legal” (doc. 42).
+
+2. A reclamante afirma que, “após regular instrução processual e exaurimento das instâncias recursais, foi proferida decisão condenatória que reconheceu o direito da [beneficiária] ao recebimento de pensão mensal vitalícia decorrente de incapacidade laborativa, bem como ao pagamento de indenização por danos morais, dentre outras obrigações de natureza patrimonial” (fl. 2, doc. 1).
+
+Alega que “o Juízo reclamado, ao dar início à execução, determinou a imposição de obrigações executivas diretas à [beneficiária], dentre as quais: a inclusão da reclamante em folha de pagamento, em razão da condenação ao pagamento de pensão mensal vitalícia; o pagamento da indenização por danos morais no valor de R$ 20.000,00; a apresentação de cálculos das parcelas vencidas, abrangendo valores retroativos desde o afastamento da trabalhadora; a juntada de demonstrativos e elementos necessários à quantificação do débito. Tal decisão configura ato jurisdicional formal, concreto e inequívoco de natureza executiva, apto a desencadear, de forma imediata, a adoção de medidas típicas de execução forçada, inclusive constrições patrimoniais diretas. Ocorre que o Juízo reclamado determinou o prosseguimento da execução sem qualquer submissão ao regime constitucional de precatórios, deixando de observar a natureza jurídica da Reclamante e a jurisprudência vinculante desta Suprema Corte” (fl. 3, doc. 1).
+
+Esclarece que “eventual constrição de recursos financeiros da PRODAM não pode ser compreendida como simples medida executória contra uma pessoa jurídica de direito privado. Trata-se de providência com potencial de comprometer a arrecadação municipal, paralisar serviços públicos essenciais e desorganizar políticas públicas estruturantes, produzindo efeitos que extrapolam em muito a esfera patrimonial da entidade” (fl. 7, doc. 1).
+
+Sustenta que “a instauração e o processamento da fase executiva, com imposição de obrigações de pagamento direto e adoção de técnica executiva típica de particular, representam violação direta à autoridade das decisões proferidas por este Supremo Tribunal Federal, notadamente nos julgamentos das ADPFs 275 e 387, bem como na Reclamação Constitucional nº 89.527 (SERPRO), que assentaram, de forma clara, a submissão das entidades estatais prestadoras de serviço público essencial ao regime constitucional de precatórios e a vedação de bloqueios e penhoras de receitas públicas” (fl. 9, doc. 1).
+
+Assevera que “a situação jurídica da PRODAM é materialmente idêntica à do Serviço Federal de Processamento de Dados (SERPRO), cuja submissão ao regime de precatórios foi reiteradamente confirmada por esta Suprema Corte em dezenas de Reclamações. A identidade fático-jurídica entre as duas entidades é absoluta, tornando a ratio decidendi dos precedentes relativos ao SERPRO diretamente aplicável ao presente caso” (fl. 12, doc. 1).
+
+Requer “a concessão de medida liminar, inaudita altera pars, nos termos do artigo 989, inciso II, do Código de Processo Civil, para determinar: a suspensão imediata da eficácia da decisão executiva proferida nos autos da Ação Trabalhista nº 0001293-18.2011.5.02.0073, inclusive do prazo judicial de 30 (trinta) dias em curso para seu cumprimento, bem como da fase executiva instaurada perante o Juízo da 73ª Vara do Trabalho de São Paulo; e, especialmente, que a Autoridade Reclamada se abstenha de praticar ou ordenar quaisquer atos de constrição patrimonial contra a PRODAM, inclusive, mas não se limitando a, penhora, arresto, sequestro, bloqueio de valores, pesquisas e constrições de ativos financeiros por meio dos sistemas SISBAJUD, RENAJUD ou equivalentes, até o julgamento final da presente Reclamação Constitucional” (fl. 20, doc. 1).
+
+Pede, no mérito, “o julgamento pela total procedência da presente Reclamação Constitucional, para: cassar, de forma definitiva, a decisão executiva proferida em 10 de março de 2026, que determinou o cumprimento da condenação nos autos da Ação Trabalhista nº 0001293-18.2011.5.02.0073, com imposição de obrigações executivas diretas à Reclamante e fixação de prazo judicial para seu cumprimento, bem como todos os atos executórios subsequentes que adotem ou admitam técnica de execução incompatível com o regime constitucional de precatórios; reafirmar a autoridade das decisões proferidas por este Supremo Tribunal Federal nas ADPFs 275 e 387, bem como na Reclamação Constitucional nº 89.527 (SERPRO), diante da identidade fático jurídica existente; determinar que eventual satisfação do crédito, quando exigível, observe estrita e exclusivamente o regime constitucional de pagamento previsto no artigo 100 da Constituição Federal, vedada qualquer forma de execução forçada direta típica de particular” (fl. 21, doc. 1).
+
+Examinados os elementos havidos nos autos, DECIDO.
+
+3. No parágrafo único do art. 161 do Regimento Interno do Supremo Tribunal Federal, dispõe-se que “o Relator poderá julgar a reclamação quando a matéria for objeto de jurisprudência consolidada do Tribunal”, como se tem na espécie.
+
+4. Põe-se em foco nesta reclamação se, ao determinar a inclusão da beneficiária em folha de pagamento, em razão da condenação da reclamante ao pagamento de pensão mensal vitalícia, a autoridade reclamada teria descumprido o decidido pelo Supremo Tribunal Federal nas Arguições de Descumprimento de Preceito Fundamental ns. 275 e 387 e na Reclamação n. 89.527.
+
+5. A reclamação é instrumento constitucional processual posto no sistema como dupla garantia formal da jurisdição: primeiro, para o jurisdicionado que tenha recebido resposta a pleito formulado judicialmente e veja a decisão proferida afrontada, fragilizada e despojada de plena eficácia; segundo, para o Supremo Tribunal Federal (al. l do inc. I do art. 102 da Constituição da República) ou para o Superior Tribunal de Justiça (al. f do inc. I do art. 105 da Constituição), que podem ter as respectivas competências enfrentadas e menosprezadas por outros órgãos do Poder Judiciário e a autoridade de suas decisões mitigada em face de atos reclamados.
+
+Busca-se pela reclamação fazer que a prestação jurisdicional se mantenha dotada de vigor jurídico próprio ou que o órgão judicial de instância superior tenha sua competência resguardada.
+
+A reclamação não se presta a antecipar julgados, atalhar julgamentos, fazer sucumbirem decisões sem que se atenham à legislação processual específica discussão ou litígio a serem solucionados judicialmente.
+
+6. Nas Arguições de Descumprimento de Preceito Fundamental ns. 275 e 387, este Supremo Tribunal assentou a submissão ao regime de pagamento por precatórios dos débitos de sociedades de economia mista que prestam serviço público essencial em regime não concorrencial e sem intuito de lucro.
+
+Assim, nos casos em que a Justiça do Trabalho determina o cumprimento da obrigação trabalhista, sem a observância do regime de precatório, os Ministros deste Supremo Tribunal têm julgado procedentes as reclamações constitucionais para cassar medidas de execução judicial de débitos trabalhistas contra empresas públicas prestadoras de serviços públicos essenciais, prestados em regime não concorrencial, sem se considerar a sua sujeição ao regime previsto no art. 100 da Constituição da República.
+
+7. No caso em exame, a situação é diferente daquelas examinadas pelo Supremo Tribunal Federal, pois não se discute a submissão da Empresa de Tecnologia da Informação e Comunicação do Município de São Paulo – Prodam-SP S/A ao regime de precatório. Na espécie, a autoridade reclamada determinou a inclusão da beneficiária em folha de pagamento, em razão da condenação ao pagamento de pensão mensal vitalícia, nestes termos:
+“intime-se a reclamada para, dentro do prazo de 30 dias:
+a) proceder à inclusão da [beneficiária] em folha de pagamento, em razão da condenação ao pagamento de pensão mensal vitalícia, no importe de 5% sobre o último salário da autora – R$ 1.069,11 –, com a devida atualização da base de cálculo, conforme os reajustes salariais correspondentes ao período, e, no caso de extinção do cargo,
+observar-se-á os índices de reajuste da categoria profissional da autora fixados em normas coletivas ou acordos coletivos e também sem prejuízo de juros e atualização monetária até o efetivo pagamento, devida desde a data de afastamento da [beneficiária] até a data em que completar 78,6 anos de idade anos de idade” (fl. 1, doc. 42).
+
+As demais obrigações impostas à reclamante pela autoridade reclamada não determinam o bloqueio de verbas públicas:
+“b) efetuar o pagamento da indenização por danos morais no valor de R$ 20.000,00, com a devida atualização, observados os parâmetros legais;
+c) apresentar os cálculos das parcelas vencidas (desde a data de afastamento da [beneficiária] até a data da inclusão em folha de pagamento), inclusive INSS, IR e honorários periciais;
+d) anexar as planilhas com a discriminação dos cálculos efetuados (cálculo do valor da pensão mensal, das parcelas vencidas e da indenização por danos morais), dos índices aplicados e demonstração da evolução salarial do cargo antes ocupado pela [beneficiária] (desde a data de afastamento da [beneficiária] até a data da inclusão em folha de pagamento).
+Cumpridas as determinações acima, dê-se vista ao reclamante para se manifestar, dentro do prazo legal” (doc. 42, grifos nossos).
+
+Essa decisão não guarda correspondência com a controvérsia examinada nas Arguições de Descumprimento de Preceito Fundamental ns. 275 e 387. Não se comprova, no caso, estrita aderência entre a decisão reclamada e o entendimento firmado pelo Supremo Tribunal Federal nos paradigmas de controle indicados pela reclamante.
+
+Evidente, portanto, a ausência de identidade material entre a decisão reclamada e o alegado descumprimento da decisão proferida pelo Supremo Tribunal nas Arguições de Descumprimento de Preceito Fundamental ns. 275 e 387, de modo que desatendidos os requisitos constitucionais da reclamação (al. l do inc. I do art. 102 e § 3º do 103-A da Constituição da República). Assim, por exemplo:
+“AGRAVO REGIMENTAL NA RECLAMAÇÃO. ALEGADO DESCUMPRIMENTO DAS DECISÕES DO SUPREMO TRIBUNAL FEDERAL NAS ARGUIÇÕES DE DESCUMPRIMENTO DE PRECEITO FUNDAMENTAL NS. 387 E 437: AUSÊNCIA DE IDENTIDADE MATERIAL. RECLAMAÇÃO N. 48.732: DECISÃO INTER PARTES E SEM EFEITO VINCULANTE. USO DA RECLAMAÇÃO COMO SUCEDÂNEO DE RECURSO: IMPOSSIBILIDADE. PRECEDENTES. AGRAVO REGIMENTAL DESPROVIDO, COM APLICAÇÃO DE MULTA DE 1% SOBRE O VALOR ATUALIZADO DA CAUSA, SE UNÂNIME A VOTAÇÃO” (Rcl n. 57.366-AgR, Relatora a Ministra Cármen Lúcia, Primeira Turma, DJe 24.2.2023).
+
+“Agravo regimental na reclamação. 2. Administrativo. Precatório. Sequestro de verbas. 3. Alegação de afronta ao que decidido nas ADIs 1.662, 1.689, 3.401 e na ADPF 114. Inocorrência. Ausência de identidade material. Sucedâneo de recurso. Impossibilidade. 4. Inexistência de argumentos capazes de infirmar a decisão agravada. 5. Negativa de provimento ao agravo regimental” (Rcl n.  8.209-AgR, Relator o Ministro Gilmar Mendes, Segunda Turma, DJe 1º.10.2019).
+
+“Agravo Interno. Reclamação constitucional. ADPF 405. Excepcionalidade da constrição judicial de receita pública. Ato reclamado que determinou o sequestro de verba do Município para pagamento de crédito inscrito em precatório. Obrigatoriedade de previsão orçamentária e pagamento em 31.12.2021. Mora do Município na liquidação regular do requisitório. Ausência de estrita aderência. Agravo a que se nega provimento. 1. À míngua de identidade material entre o paradigma invocado e o ato reclamado, não há como divisar a alegada afronta à autoridade de decisão desta Excelsa Corte. 2. Não configura violação da ADPF 405, a determinação de bloqueio de verba municipal com o fito de garantir a satisfação do pagamento de precatório já inscrito, com obrigatoriedade de previsão orçamentária e pagamento em ano anterior, nos termos do art. 100 da Constituição Federal. 3. Agravo interno conhecido e não provido” (Rcl n. 54.965-AgR, Relatora a Ministra Rosa Weber, Primeira Turma, DJe 20.9.2022).
+
+8. Na Reclamação n. 89.527 foram partes o Serviço Federal de Processamento de Dados – SERPRO e Carlos Alberto Ferreira de Azevedo. A reclamante não foi parte dessa ação e parece pretender que os efeitos dessa reclamação sejam estendidos à execução trabalhista.
+
+São objetivos da reclamação a preservação da competência e a garantia da autoridade das decisões proferidas pelo Supremo Tribunal Federal, não sendo admissível aproveitamento da reclamação como atalho processual impróprio para se percorrerem vias recursais com supressão de instâncias e descumprimento de procedimentos e fases legalmente definidos.
+
+O decidido pelo Supremo Tribunal Federal na Reclamação n. 89.527 tem natureza subjetiva e efeitos inter partes, não se estendendo os efeitos do que nela julgado a outros processos que não foram objeto dessa ação.  Confiram-se como exemplos estes julgados:
+“AGRAVO REGIMENTAL NA RECLAMAÇÃO.
+EX-PREFEITO. AÇÃO CIVIL PÚBLICA POR ATO DE IMPROBIDADE. ALEGADO DESCUMPRIMENTO À DECISÃO PROFERIDA NA RECLAMAÇÃO 2.138. AUSÊNCIA DE ARGUMENTOS NOVOS. RECLAMAÇÃO UTILIZADA COMO SUCEDÂNEO RECURSAL. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO. 1. O instituto da Reclamação não se presta para substituir recurso específico que a legislação tenha posto à disposição do jurisdicionado irresignado com a decisão judicial proferida pelo juízo a quo. 2. Inaplicabilidade da teoria da transcendência dos motivos determinantes. 3. A decisão proferida pelo Plenário do Supremo Tribunal Federal na Reclamação 2.138/DF tem efeitos apenas inter partes, não beneficiando, assim, o ora Agravante. 4. Agravo regimental ao qual se nega provimento” (Rcl n. 5.703- AgR, Relatora a Ministra Cármen Lúcia, Plenário, DJe 16.10.2009).
+
+“AGRAVO REGIMENTAL NA RECLAMAÇÃO. ALEGADO DESCUMPRIMENTO DAS DECISÕES DO SUPREMO TRIBUNAL FEDERAL NAS ARGUIÇÕES DE DESCUMPRIMENTO DE PRECEITO FUNDAMENTAL NS. 387 E 437: AUSÊNCIA DE IDENTIDADE MATERIAL. RECLAMAÇÃO N. 48.732: DECISÃO INTER PARTES E SEM EFEITO VINCULANTE. USO DA RECLAMAÇÃO COMO SUCEDÂNEO DE RECURSO: IMPOSSIBILIDADE. PRECEDENTES. AGRAVO REGIMENTAL DESPROVIDO, COM APLICAÇÃO DE MULTA DE 1% SOBRE O VALOR ATUALIZADO DA CAUSA, SE UNÂNIME A VOTAÇÃO” (Rcl n. 57.366-AgR, Relatora a Ministra Cármen Lúcia, Primeira Turma, DJe 24.2.2023).
+
+“AGRAVO REGIMENTAL EM RECLAMAÇÃO. ADPF 324/DF. AUSÊNCIA DE ADERÊNCIA ESTRITA. IMPOSSIBILIDADE DE ANÁLISE DO CONJUNTO
+FÁTICO-PROBATÓRIO. RECLAMAÇÃO COMO SUCEDÂNEO RECURSAL. DESCABIMENTO. AGRAVO A QUE SE NEGA PROVIMENTO. I – A controvérsia posta no Juízo do Trabalho não se fixou, especificamente, na validade da terceirização de mão de obra, esta já admitida pela jurisprudência deste Supremo Tribunal, mas sim na existência de fraude à legislação trabalhista na contratação e no preenchimento dos requisitos necessários à configuração de vínculo de emprego. II – Não houve desrespeito ao que foi decidido pelo Supremo Tribunal na ADPF 324/DF, uma vez que não há identidade entre o ato reclamado e a decisão paradigma indicada. III – Dissentir das razões adotadas pelas instâncias ordinárias quanto à presença dos requisitos necessários para a caracterização de vínculo empregatício demandaria o reexame do conjunto fático-probatório dos autos, circunstância não admitida pela jurisprudência desta Corte. Precedente IV – A reclamação não pode ser utilizada como mero sucedâneo recursal. V – Agravo regimental a que se nega provimento” (Rcl n. 52.167-AgR, Relator o Ministro Ricardo Lewandowski, Segunda Turma, DJe  4.8.2022).
+
+Ausentes, na espécie, os requisitos processuais viabilizadores do regular trâmite desta ação.
+
+9. Pelo exposto, nego seguimento à presente reclamação (§ 1º do
+art. 21 do Regimento Interno do Supremo Tribunal Federal), prejudicado o requerimento de liminar.
+
+Ressalte-se que eventual recurso manifestamente inadmissível contra esta decisão demonstraria apenas inconformismo e resistência em pôr termo a processos que se arrastam em detrimento da eficiente prestação jurisdicional, o que sujeitaria a parte à aplicação da multa processual do § 4º do art. 1.021 do Código de Processo Civil.
+
+Publique-se.
+
+Brasília, 24 de março de 2026.
+
+Ministra CÁRMEN LÚCIA
+Relatora
