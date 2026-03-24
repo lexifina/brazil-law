@@ -1,0 +1,50 @@
+DECISÃO
+Examina-se embargos de declaração opostos por LENILSON APARECIDO GERONIMO contra decisão unipessoal que conheceu parcialmente e, nessa parte, negou provimento ao recurso especial que interpusera, nos termos da seguinte ementa (e-STJ fl. 913):
+PROCESSUAL CIVIL. RECURSO ESPECIAL. AÇÃO INDENIZATÓRIA. PREQUESTIONAMENTO. AUSÊNCIA. SÚMULA 282/STF. FUNDAMENTAÇÃO. AUSENTE. DEFICIENTE. SÚMULA 284/STF. HARMONIA ENTRE O ACÓRDÃO RECORRIDO E A JURISPRUDÊNCIA DO STJ. SÚMULA 568/STJ. REEXAME DE FATOS E PROVAS. INADMISSIBILIDADE. SÚMULA 7/STJ.
+1. Ação indenizatória.
+2. A ausência de decisão acerca dos dispositivos legais indicados como violados impede o conhecimento do recurso especial.
+3. A ausência de fundamentação ou a sua deficiência importa no não conhecimento do recurso quanto ao tema.
+4. O acórdão recorrido que adota a orientação firmada pela jurisprudência do STJ não merece reforma.
+5. O reexame de fatos e provas em recurso especial é inadmissível.
+6. Recurso especial parcialmente conhecido e, nessa parte, não provido.
+Nas razões do presente recurso, ao reprisar os argumentos de mérito do recurso especial, a parte embargante afirma que o acórdão embargado teria sido omisso quanto à responsabilização das instituições financeiras pelos fatos narrados e pelo prejuízo sofrido.
+É O BREVE RELATÓRIO. DECIDE-SE.
+Nos termos do art. 1.022 do CPC, somente é cabível o recurso de embargos de declaração nas hipóteses em que haja, no julgado impugnado, obscuridade, contradição, omissão ou erro material, o que não se verifica na espécie.
+Com efeito, a despeito das alegações ora aduzidas, verifica-se que a decisão embargada foi devidamente clara e fundamentada acerca da incidência das Súmulas 282 e 284/STF e 7 e 568/STJ, não havendo que falar, portanto, em omissão do decisum, senão veja-se:
+"- Da ausência de prequestionamento e da fundamentação deficiente
+O acórdão recorrido não decidiu acerca dos arts. 370 e 373, II e § 1º, do CPC, indicados como violados, não tendo a parte recorrente oposto embargos de declaração com vistas a suprir eventual omissão perpetrada pelo TJ/SP, restando ausente o devido prequestionamento, o que atrai a aplicação da Súmula 282/STF.
+Além disso, constata-se, da leitura das razões recursais, que os argumentos invocados pela parte recorrente não demonstram como o acórdão recorrido teria violado os referidos dispositivos legais, o que importa na inviabilidade do recurso especial ante a incidência da Súmula 284/STF.
+- Das Súmulas 7 e 568/STJ
+De acordo com a jurisprudência perfilhada por esta Corte Superior, se faz necessária a comprovação da existência de nexo de causalidade entre as atividades desempenhadas pela instituição financeira e o dano experimentado pela parte consumidora, excluindo-se a responsabilidade do banco em caso de fato exclusivo da vítima ou de terceiro, situação de força maior ou caso de fortuito externo (REsp 2.046.026/RJ, Terceira Turma, DJe de 27/6/2023). Nesse mesmo sentido:
+AgInt no AREsp 2.653.859/SC, Quarta Turma, DJe de 4/11/2024.
+No particular, o TJ/SP assim se manifestou:
+"(..) extrai-se, dos autos, ser incontroverso que a parte requerente, em setembro de 2022, recebeu mensagens supostamente de sua irmã Lucimara, pelo aplicativo WhatsApp (fls. 34/41), nas quais ela solicitava valores, em dinheiro, oportunidade em que aquela, dando atendimento ao pedido, realizou diversas operações bancárias, que totalizaram o importe de R$ 12.604,00, todas para terceiros por ela desconhecidos, sendo:
+(..)
+Cabe definir, contudo, se, diante das particularidades do caso concreto, concorre responsabilidade da parte ré pela fraude reportada.
+Na espécie, percebe-se que a parte autora incorreu, deveras, em culpa exclusiva, fomentada por ato de terceiro, não tendo agido com a diligência dela razoavelmente esperada, para evitar a concretização da fraude em exame.
+Ora, os fatos em comento ocorreram em setembro de 2022, ou seja, em época em que os alertas quanto a tais práticas já eram amplamente difundidos em meio social.
+Ainda, não se vislumbra qualquer falha na atividade desempenhada pelos bancos requeridos, seja no processamento das transações efetuadas pela própria autora, sem qualquer coação física ou moral, é de se frisar, seja na abertura de contas utilizadas pelos criminosos, não havendo, outrossim qualquer indicativo concreto de que houve vazamento de informações que possa ser atribuído às instituições financeiras rés.
+Quanto à conta de titularidade dos terceiros destinatários, é certo que inexistem indícios de que a abertura daquela ocorreu irregularmente ou de que as movimentações nela constantes evidenciavam seu uso para práticas espúrias.
+Outrossim, não cabia aos bancos réus promover qualquer censura prévia quanto às transações efetuadas por seus clientes. Não lhes cabe, evidentemente, monitorar transações de clientes com terceiros, de forma que apenas com a efetiva comunicação acerca do uso espúrio de conta é que se poderia exigir a adoção de alguma ação preventiva por parte das instituições.
+Na realidade, ainda que a abertura de conta tenha sido irregular, as instituições bancárias não possuem ingerência sobre a movimentação das contas e transações realizadas por seus clientes, tampouco assumem responsabilidade pela legitimidade das operações.
+A abertura das contas destinatárias dos valores transferidos pela parte autora não foi a causa direta e imediata do dano experimentado pela parte autora, fruto da atuação desta que, voluntariamente e sem a devida cautela, realizou diversas e sucessivas transferências a terceiros, sem o cuidado de verificar a ligação dos destinatários com os familiares apontados na inicial. Neste quadro, a regular abertura das contas em que depositados os valores não impediria que as transferências fossem realizadas ou os valores transferidos sacados.
+Deste modo, eventual desatendimento dos termos da Resolução Bacen 96/2021 invocada no apelo não importa em responsabilização dos apelados pelos fatos narrados na inicial.
+(..)
+Tampouco se vislumbra qualquer desídia do réu Itaú, quanto à tentativa de recuperação dos valores desviados, eis que foram adotadas as medidas que se faziam necessárias pela instituição ré, só não havendo a recuperação do numerário porquanto já não se encontrasse mais nas contas destinatárias (fls. 49/50).
+Como consignou o Juízo a quo: "(..) Em acréscimo, as transferências foram realizadas através do aplicativo e senha de uso exclusivo do Autor, de modo que não houve o vazamento de nenhuma informação pessoal do Requerente por parte das instituições bancárias, que facilitasse ou permitisse a fraude, ou seja, todas as transferências foram realizadas sem que para tanto as instituições bancárias tenham concorrido. (..) O Autor não trouxe aos autos extratos bancários que possam conduzir ao entendimento de que as transferências realizadas fugiriam do padrão do usuário, de modo a indicar que o sistema de segurança deveria ter bloqueado as movimentações que poderiam ser suspeitas." (fls. 580).
+Não há como a parte autora responsabilizar a parte ré, como se vê, pela fraude de que foi vítima, já que competia a ela verificar, desde o início, a identidade de seu interlocutor, acionando, ela própria e por outro meio inequívoco, o parente anunciado, a fim de verificar a veracidade das solicitações, mormente por estarem as contas destinatárias vinculadas a pessoas por ela desconhecidas.
+Está claro, na hipótese vertente, que a parte autora, embora ludibriada, voluntariamente realizou as operações financeiras contestadas, a beneficiar pessoas que não pretendia.
+Tais transações, ademais, não possuíam perfil de fraude a justificar a adoção de bloqueio prévio pela instituição financeira, eis que a partir do NUBANK houve uma única operação, realizada diretamente pela parte autora. Já a partir do ITAÚ foram apenas três transferências, em valores e para destinatários distintos, tendo como endereço contas abertas em vários estabelecimentos e todas, sem exceção, efetuadas direta e conscientemente pela parte autora, situação igualmente distante de perfil fraudulento.
+Assim, a despeito da aplicação do Código de Defesa do Consumidor, não há como se concluir pela responsabilidade da instituição de pagamento ré pelo lamentável episódio, incidindo, na hipótese, a regra de seu art. 14, § 3º, inciso II, a qual isenta o fornecedor de serviços quando provada a culpa exclusiva do consumidor ou de terceiros.
+Havendo culpa exclusiva de terceiro e da própria vítima (parte autora), não resta comprovado o defeito no serviço, de sorte que o ora apelado não deve arcar com os prejuízos decorrentes da fraude (art. 14, § 3º, II, CDC).
+(..)
+Nessa conformidade, rompido o nexo de causalidade pela culpa exclusiva da vítima e ato de terceiro, a improcedência da ação, quanto à parte ré, era mesmo de rigor." (e-STJ fls. 748/754)
+Nessa perspectiva, além de estar o posicionamento do TJ/SP amparado na orientação jurisprudencial deste Tribunal Superior, incidindo, quanto ao ponto, a Súmula 568/STJ, seus fundamentos, por estarem alicerçados em elementos de fatos e provas existentes nos autos, não podem ser revistos em recurso especial, o que é vedado pela Súmula 7/STJ." (e-STJ fls. 914/917)
+Na verdade, a pretexto de omissão, verifica-se que a parte embargante pretende se valer dos embargos de declaração para rediscutir a conclusão adotada na decisão embargada e tentar fazer prevalecer o seu entendimento quanto a ela, pretensão essa que, todavia, não é compatível com os estreitos limites dessa espécie recursal.
+Assim, dissociado o pleito de qualquer um dos pressupostos de interposição dos embargos de declaração, desautorizada está a pretensão ora declinada, impondo-se, então, a sua rejeição.
+Forte nessas razões, REJEITO os embargos de declaração.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. OMISSÃO, CONTRADIÇÃO, OBSCURIDADE OU ERRO MATERIAL. INEXISTÊNCIA.
+1. Rejeitam-se os embargos de declaração quando ausente omissão, contradição, obscuridade ou erro material a ser sanado.
+2. Embargos de declaração rejeitados.
