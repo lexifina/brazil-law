@@ -1,0 +1,14 @@
+DECISÃO
+Examina-se reclamação, com pedido liminar, apresentada por ANA GABRIELLY GOIS, com fundamento no do art. 988, inciso II, do CPC e no art. 105, I, "f", da Constituição Federal, em face de decisão do Juízo da 8ª Vara Cível da Comarca de Aracaju/SE, que concedeu tutela antecipada nos autos da ação reivindicatória (autos nº 0029347-05.2023.8.25.0001) (e-STJ fls. 19-20), determinando que a reclamante se abstenha de utilizar a segunda vaga de garagem do apartamento nº 405 do Condomínio Edifício Barão de Maruim.
+Sustenta a reclamante que a ação reivindicatória é via inadequada para a controvérsia, porquanto ausentes os requisitos cumulativos exigidos pela jurisprudência do STJ, quais sejam, prova do domínio, individualização da coisa e posse injusta do réu, em afronta à integridade, coerência e uniformidade do sistema de precedentes e da interpretação da legislação federal (e-STJ fl. 4), destacando-se, entre outros, o quanto decidido nos REsp 1.003.305/DF, REsp 759.018/MT, REsp 1.060.259/MG e REsp 1.984.013/MG. Aduz que exerce posse regular e pacífica sobre as duas vagas há mais de quarenta anos, conforme matrícula imobiliária nº 8633 e demarcação realizada pelo próprio condomínio. Requer a cassação da decisão liminar e a extinção do feito de origem sem resolução do mérito, nos termos do art. 485, IV, do CPC (e-STJ fls. 3-18).
+É O RELATÓRIO. DECIDE-SE.
+Consoante relatado, a presente reclamação visa à cassação da decisão liminar proferida pelo Juízo da 8ª Vara Cível da Comarca de Aracaju/SE, nos autos da ação reivindicatória nº 0029347-05.2023.8.25.0001 (202310800886) (e-STJ fls. 19-20).
+Ocorre que a referida decisão foi prolatada em 12/09/2023 (DJe) e, contra ela, a reclamante interpôs o agravo de instrumento nº 202300848487, o qual foi desprovido, mantendo-se incólume a determinação de abstenção do uso da segunda vaga de garagem do apartamento nº 405. O acórdão transitou em julgado em 08/2/2024 (e-STJ fls. 31), ou seja, muito antes da propositura da presente reclamação, ocorrida em 11/3/2026 (e-STJ fl. 1).
+Assim, a presente reclamação é inadmissível, ante o disposto no art. 988, §5º, I, do CPC, que assim preceitua:
+"§ 5º É inadmissível a reclamação:
+I - proposta após o trânsito em julgado da decisão reclamada"
+Neste sentido, citam-se: AgInt na Rcl 33.767/PE, Segunda Seção, DJe 29/9/2017; e AgInt na Rcl 31.920/BA, Segunda Seção, DJe 29/5/2017.
+Forte nessas razões, JULGO EXTINTA a presente reclamação, sem exame de mérito, com fundamento no art. 34, XVIII, "a", do RISTJ.
+Por derradeiro, previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar a condenação às penalidades fixadas nos arts. 1.021, §4º, e 1.026, §2º, do CPC.
+Publique-se. Intimem-se.
+EMENTA
