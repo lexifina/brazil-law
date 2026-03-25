@@ -1,0 +1,45 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEXTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 19/03/2026 a 25/03/2026, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Antonio Saldanha Palheiro, Carlos Pires Brandão e Og Fernandes votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Carlos Pires Brandão.
+Não participou do julgamento o Sr. Ministro Rogerio Schietti Cruz.
+EMENTA
+DIREITO PROCESSUAL PENAL. AGRAVO REGIMENTAL EM EMBARGOS DE DECLARAÇÃO EM HABEAS CORPUS. MAUS-TRATOS E MORTE DE ANIMAL. SUPOSTO ATROPELAMENTO PROPOSITAL DE CACHORRO COMUNITÁRIO. MORTE COM GRANDE SOFRIMENTO. PRISÃO PREVENTIVA. GARANTIA DA ORDEM PÚBLICA. GRAVIDADE CONCRETA DO CRIME. REINCIDÊNCIA. AGRAVANTE QUE ESTAVA EM CUMPRIMENTO DE PENA EM REGIME ABERTO COM MONITORAÇÃO ELETRÔNICA. EXISTÊNCIA DE OUTRA AÇÃO PENAL EM CURSO. IMPOSSIBILIDADE DE SUBSTITUIÇÃO POR MEDIDAS CAUTELARES DIVERSAS. INVIABILIDADE DE EXAME DE MATERIALIDADE, AUTORIA E DOLO NA VIA ESTREITA.
+1. A prisão preventiva foi mantida com fundamento na gravidade concreta do crime de maus-tratos a cachorro comunitário, supostamente praticado com intensa crueldade, mediante atropelamento e arrastamento vivo por cerca de 150 metros, causando-lhe a morte com grande sofrimento.
+2. A reincidência do paciente e o cumprimento de pena por roubo circunstanciado, em regime aberto com monitoração eletrônica, quando da suposta prática do delito, somados à existência de ação penal em andamento por tráfico de drogas, justificam a custódia para resguardar a ordem pública.
+3. É inviável a substituição da prisão por medidas cautelares diversas quando a gravidade da conduta e a reincidência demonstram insuficiência dessas providências. Precedentes.
+4. A discussão sobre materialidade, autoria e dolo do crime demandaria dilação probatória, incompatível com o rito célere e a cognição sumária do habeas corpus.
+5. Agravo regimental improvido.
+RELATÓRIO
+Trata-se de agravo regimental interposto por LUCAS CAPELATTI DA SILVA contra a decisão que indeferiu liminarmente o writ assim ementada (fl. 72):
+HABEAS CORPUS. MAUS-TRATOS A ANIMAL. SUPOSTO ATROPELAMENTO PROPOSITAL DE CACHORRO COMUNITÁRIO. MORTE COM GRANDE SOFRIMENTO. PRISÃO PREVENTIVA. NECESSIDADE DE GARANTIA DA ORDEM PÚBLICA. GRAVIDADE CONCRETA DA CONDUTA DELITUOSA. MULTIRREINCIDÊNCIA. FUNDAMENTAÇÃO IDÔNEA. INEXISTÊNCIA DE FLAGRANTE CONSTRANGIMENTO ILEGAL.
+Writ indeferido liminarmente.
+Opostos embargos declaratórios, foram rejeitados por meio de decisão que ostenta a seguinte ementa (fl. 97):
+EMBARGOS DE DECLARAÇÃO EM HABEAS CORPUS. MAUS-TRATOS A ANIMAL. SUPOSTO ATROPELAMENTO PROPOSITAL DE CACHORRO COMUNITÁRIO. MORTE COM GRANDE SOFRIMENTO. PRISÃO PREVENTIVA. INEXISTÊNCIA DE OMISSÃO. MERO INCONFORMISMO DA PARTE. INADMISSIBILIDADE.
+Embargos de declaração rejeitados.
+Nas razões, a parte agravante alega que a prisão preventiva foi mantida sem a presença dos requisitos do art. 312 do Código de Processo Penal, com motivação genérica, fundada na gravidade abstrata do delito e em valoração indevida da vida pregressa, o que caracteriza constrangimento ilegal.
+Argumenta que o fato decorreu de um acidente de trânsito, sem dolo, com tipicidade duvidosa e dependente de dilação probatória, não sendo legítimo antecipar juízo definitivo para justificar a medida extrema.
+Sustenta que a decisão utilizou ações penais em andamento e o cumprimento de pena em regime aberto com monitoração eletrônica como fundamento para a custódia, em afronta à Súmula 444 do Superior Tribunal de Justiça.
+Defende que não há risco à instrução criminal nem à aplicação da lei penal, pois o paciente possui residência fixa, emprego e estava sob monitoração eletrônica, sem notícia de tentativa de fuga ou interferência na colheita da prova.
+Afirma desproporcionalidade da prisão preventiva e a violação do princípio da homogeneidade; afirma que medidas cautelares diversas da prisão seriam suficientes, que a prisão é ultima ratio e que houve salto indevido à custódia sem readequação prévia das cautelares.
+Pretende a submissão do presente recurso ao julgamento da Sexta Turma desta Casa.
+É o relatório.
+EMENTA
+DIREITO PROCESSUAL PENAL. AGRAVO REGIMENTAL EM EMBARGOS DE DECLARAÇÃO EM HABEAS CORPUS. MAUS-TRATOS E MORTE DE ANIMAL. SUPOSTO ATROPELAMENTO PROPOSITAL DE CACHORRO COMUNITÁRIO. MORTE COM GRANDE SOFRIMENTO. PRISÃO PREVENTIVA. GARANTIA DA ORDEM PÚBLICA. GRAVIDADE CONCRETA DO CRIME. REINCIDÊNCIA. AGRAVANTE QUE ESTAVA EM CUMPRIMENTO DE PENA EM REGIME ABERTO COM MONITORAÇÃO ELETRÔNICA. EXISTÊNCIA DE OUTRA AÇÃO PENAL EM CURSO. IMPOSSIBILIDADE DE SUBSTITUIÇÃO POR MEDIDAS CAUTELARES DIVERSAS. INVIABILIDADE DE EXAME DE MATERIALIDADE, AUTORIA E DOLO NA VIA ESTREITA.
+1. A prisão preventiva foi mantida com fundamento na gravidade concreta do crime de maus-tratos a cachorro comunitário, supostamente praticado com intensa crueldade, mediante atropelamento e arrastamento vivo por cerca de 150 metros, causando-lhe a morte com grande sofrimento.
+2. A reincidência do paciente e o cumprimento de pena por roubo circunstanciado, em regime aberto com monitoração eletrônica, quando da suposta prática do delito, somados à existência de ação penal em andamento por tráfico de drogas, justificam a custódia para resguardar a ordem pública.
+3. É inviável a substituição da prisão por medidas cautelares diversas quando a gravidade da conduta e a reincidência demonstram insuficiência dessas providências. Precedentes.
+4. A discussão sobre materialidade, autoria e dolo do crime demandaria dilação probatória, incompatível com o rito célere e a cognição sumária do habeas corpus.
+5. Agravo regimental improvido.
+VOTO
+O recurso não merece prosperar.
+A prisão preventiva está idoneamente fundamentada na gravidade concreta do crime de maus-tratos a um cachorro comunitário, supostamente praticado pelo o ora paciente com imensa crueldade, atropelando-o e arrastando-o vivo por cerca de 150 metros, provocando-lhe a morte com grande sofrimento; bem como por ser reincidente, pois possui uma condenação definitiva pelo crime de roubo circunstanciado, pela qual estava cumprindo pena em regime aberto, com monitoração eletrônica, quando da suposta prática do crime objeto dos autos; além de, de acordo com a própria defesa, possuir uma outra ação penal em andamento pelo crime de tráfico de drogas (fl. 84).
+Ora, é cediço ser inviável a substituição da prisão preventiva por medidas cautelares diversas quando a gravidade da conduta e a reincidência demonstram a insuficiência dessas providências para resguardar a ordem pública (AgRg no HC n. 1.031.232/MG, Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJEN de 14/10/2025).
+Com efeito, a reincidência do paciente e a prática delitiva enquanto cumpria pena reforçam o risco de reiteração criminosa, recomendando a manutenção da prisão preventiva (RHC n. 193.225/MG, Ministra Daniela Teixeira, Quinta Turma, DJe de 25/11/2024).
+Nesse sentido, a preservação da ordem pública justifica a imposição da prisão preventiva quando o agente possuir maus antecedentes, reincidência, atos infracionais pretéritos, inquéritos ou mesmo ações penais em curso, porquanto tais circunstâncias denotam sua contumácia delitiva e, por via de consequência, sua periculosidade (AgRg no HC n. 982.427/MG, Ministro Antonio Saldanha Palheiro, Sexta Turma, DJEN 15/4/2025).
+Ademais, a gravidade concreta da conduta, reveladora do potencial elevado grau de periculosidade do agente e consubstanciada na alta reprovabilidade do modus operandi empregado na empreitada delitiva, é fundamento idôneo a lastrear a prisão preventiva, com o intuito de preservar a ordem pública (AgRg no HC n. 687.840/MS, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 13/12/2022, DJe de 19/12/2022) - (AgRg no HC n. 968.850/PR, Ministro Antonio Saldanha Palheiro, Sexta Turma, DJEN 11/3/2025).
+Confira-se, ainda, o julgamento proferido no HC n. 988.047/ES, de minha relatoria, Sexta Turma, DJEN 2/6/2025.
+Assim, nos termos da jurisprudência desta Corte, eventuais condições pessoais favoráveis não possuem o condão de, isoladamente, conduzir à revogação da prisão preventiva, sendo certo que, concretamente demonstrada pelas instâncias ordinárias sua necessidade, não se afigura suficiente a fixação de medidas cautelares alternativas.
+Ressalto que não se pode dizer que a medida é desproporcional em eventual condenação que poderá sofrer ao final do processo, pois, em sede de habeas corpus, inviável concluir que ao réu será imposto regime menos gravoso que o fechado ou deferida a substituição de penas (RHC n. 108.067/MG, Ministro Jorge Mussi, Quinta Turma, DJe 12/4/2019) - (AgRg no HC n. 910.134/SP, Ministro Joel Ilan Paciornik, Quinta Turma, DJEN 24/2/2025).
+Por fim, assevero que, para que fosse possível a discussão a respeito da materialidade/autoria/dolo do crime, seria imprescindível o exame dos elementos fáticos da lide, o que é inviável na estreita via do habeas corpus, que possui rito célere e cognição sumária.
+Ante o exposto, nego provimento ao agravo regimental.
