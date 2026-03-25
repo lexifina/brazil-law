@@ -1,0 +1,58 @@
+DECISÃO
+
+RECURSO EXTRAORDINÁRIO COM AGRAVO. PROCESSUAL CIVIL. QUESITO FORMULADO AO PERITO CONTÁBIL. INDEFERIMENTO PELO JUÍZO. AUSÊNCIA DE PREQUESTIONAMENTO DE TEMAS CONSTITUCIONAIS. IMPOSSIBILIDADE DE REEXAME DAS PROVAS E DA LEGISLAÇÃO INFRACONSTITUCIONAL. INCIDÊNCIA DAS SÚMULAS NS. 279, 282 E 356 DO SUPREMO TRIBUNAL FEDERAL. AUSÊNCIA DE OFENSA CONSITUCIONAL DIRETA. RECURSO EXTRAORDINÁRIO COM AGRAVO NÃO CONHECIDO.
+
+Relatório
+1. Agravo nos autos principais contra inadmissão de recurso extraordinário interposto, com base na al. a do inc. III do art. 102 da Constituição da República, contra julgado da Quarta Câmara Cível do Tribunal de Justiça do Paraná, com a seguinte ementa:
+“AGRAVO DE INSTRUMENTO. LIQUIDAÇÃO DE SENTENÇA. QUESITO FORMULADO AO PERITO. QUESTÃO SUSCITADA QUE TRANSBORDA DO CÁLCULO E
+ENVOLVE INTERPRETAÇÃO JURÍDICA. AFASTAMENTO. POSSIBILIDADE. MATÉRIA A SER EVENTUALMENTE APRECIADA PELO JUÍZO. ATIVIDADE PERICIAL DESTINADA AO AUXÍLIO DO JUÍZO. LIVRE CONVENCIMENTO DO JUIZ. AUSÊNCIA DE CERCEAMENTO DE DEFESA. RECURSO DESPROVIDO” (fl. 3, e-doc. 24).
+
+Os embargos de declaração opostos foram rejeitados (e-doc. 75).
+
+2. No recurso extraordinário, o agravante alegou ter o Tribunal de origem contrariado o § 10 e o inc. XVI do art. 37 e o § 6º do art. 40 da Constituição da República.
+
+Argumentou que “eventual omissão ou dúvidas de interpretação quanto ao conteúdo e limites do v. acórdão liquidando não permitem que a indenização seja calculada considerando inclusive a projeção de remuneração em período posterior às datas das aposentações dos servidores exonerados” (fl. 6, e-doc. 93).
+
+Buscou o “reconhecimento da impossibilidade jurídica de cumulação de indenização oriunda de vencimentos e proventos de aposentadoria” (fl. 6, e-doc. 93).
+
+3. O recurso extraordinário foi inadmitido pela incidência da Súmula n. 282 do Supremo Tribunal Federal (e-doc. 98).
+
+4. No agravo interposto contra a inadmissibilidade do recurso extraordinário, o agravante sustenta que “a questão jurídica atinente ao art. 37, XVI, § 10, e art. 40, § 6º, da Constituição foi devidamente enfrentada e prequestionada, na medida em que o v. acórdão recorrido de agravo de instrumento adotou entendimento no sentido de não reconhecer o direito do Agravante ao recálculo da indenização objeto de liquidação pelo perito, para fins de excluir a cumulação de vencimentos e proventos de aposentadoria. Isso viola a vedação constitucional de cumulação de indenização composta por verbas com natureza de vencimento e proventos de aposentadoria” (fl. 2, e-doc. 102).
+
+Pede “o provimento do presente recurso, com a consequente reforma da decisão agravada para o fim de admitir o processamento e julgamento do mérito do recurso extraordinário pelo STF”, e, “nesse caso, pede o integral provimento do recurso extraordinário, nos termos e para os fins lá pleiteados, aos quais se reporta” (fl. 4, e-doc. 102)
+
+Examinados os elementos havidos nos autos, DECIDO.
+
+5. Razão jurídica não assiste ao agravante.
+
+6. Como assentado na decisão agravada, as alegações de afronta aos dispositivos da Constituição da República não foram objeto de debate e decisão prévios no Tribunal de origem, tampouco os embargos de declaração opostos demonstram ter havido, no momento processual adequado, o necessário prequestionamento do tema constitucional. Incidem, na espécie vertente, as Súmulas ns. 282 e 356 do Supremo Tribunal Federal. Assim, por exemplo:
+“AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. PROCESSUAL CIVIL E ADMINISTRATIVO. AUSÊNCIA DE PREQUESTIONAMENTO DOS DISPOSITIVOS CONSTITUCIONAIS. SÚMULAS NS. 282 E 356 DO SUPREMO TRIBUNAL FEDERAL. AÇÃO POPULAR. REQUISITOS. NECESSIDADE DE ANÁLISE DA LEGISLAÇÃO INFRACONSTITUCIONAL APLICÁVEL E REEXAME FÁTICO-PROBATÓRIO. AUSÊNCIA DE OFENSA CONSTITUCIONAL DIRETA. INCIDÊNCIA DA SÚMULA N. 279 DO SUPREMO TRIBUNAL FEDERAL. ALEGADA CONTRARIEDADE AO INC. XXXVI DO ART. 5º DA CONSTITUIÇÃO DA REPÚBLICA: TEMA 660. AUSÊNCIA DE REPERCUSSÃO GERAL. AGRAVO REGIMENTAL NÃO CONHECIDO, COM DETERMINAÇÃO DE CERTIFICAÇÃO DO TRÂNSITO EM JULGADO E BAIXA IMEDIATA DO PROCESSO À ORIGEM, INDEPENDENTE DA PUBLICAÇÃO DO ACÓRDÃO” (ARE n. 1.575.791-AgR, Relatora a Ministra Cármen Lúcia, Primeira Turma, DJe 9.1.2026).
+
+“Agravo regimental em recurso extraordinário com agravo. Ação cominatória. Associação de Procuradores Municipais. Honorários advocatícios. Reserva de valores pelo Município. Ausência de lei municipal regulamentadora. Dispositivo constitucional sem o devido prequestionamento. Súmulas nºs 282 e 356 do STF. Não cabimento do apelo extremo pela alínea d do permissivo constitucional. Precedentes. 1. É inadmissível o recurso extraordinário se os dispositivos constitucionais que nele se alegam violados não estão devidamente prequestionados. Incidência das Súmulas nºs 282 e 356/STF. 2. Na ausência da configuração nos autos de conflito de competências legislativas entre os entes da federação, não se mostra viável o recurso extraordinário interposto pela letra d do permissivo constitucional. 3. Agravo regimental não provido. 4. Havendo prévia fixação de honorários advocatícios pelas instâncias de origem, seu valor monetário será majorado em 10% (dez por cento) em desfavor da parte recorrente, nos termos do art. 85, § 11, do Código de Processo Civil, observados os limites dos §§ 2º e 3º do referido artigo e a eventual concessão de justiça gratuita” (ARE n. 1.556.576-AgR, Relator o Ministro Dias Toffoli, Segunda Turma, DJe 8.1.2026).
+
+7. Ainda que esse óbice pudesse ser superado, o que não se dá na espécie, melhor sorte não assistiria ao agravante.
+
+8. Cuida-se, na origem, de agravo de instrumento interposto pelo agravante, pelo qual “insiste pela necessidade de que seu quesito formulado ao perito seja respondido, sob pena de cerceamento de defesa” (fl. 5, e-doc. 24).
+
+O Tribunal de origem manteve a decisão do juízo de primeiro grau, que indeferiu a diligência referente à perícia contábil, por considerá-la inoportuna, nestes termos:
+“Ocorre que, a respeito do tema, é assente na doutrina que não incumbe ao perito se imiscuir na tarefa de interpretação de questões jurídicas ou emitir juízos de valor, sendo a atuação, em auxílio ao Juízo, eminentemente técnica e restrita ao âmbito da respectiva atividade profissional. (...)
+Na situação específica envolvendo o servidor exequente Valcir Malagi oriundas do RGPS, a r. decisão agravada deliberou que ‘(...) Não comporta deferimento o pedido formulado pelo executado a fim de que sejam excluídos dos cálculos os valores provenientes das remunerações posteriores às datas das aposentações do referido exequente pelo Regime Geral de Previdência Social, pois, como bem notam os exequentes o Acórdão transitado em julgado fixa como termo final para o pagamento dos vencimentos a reintegração ao cargo e não a concessão de aposentadoria ou assunção de novo cargo’.
+Impende registrar que a atividade da perita busca auxiliar o juízo no tocante à elaboração da prova que demanda conhecimento técnico ou científico.
+Na espécie, o Município agravante expõe problemática que foge do cálculo em si, pois envolve interpretação jurídica e que incumbirá ao próprio Juízo decidir e valorar, quando da decisão final da impugnação do cumprimento de sentença, e não à expert nomeada.
+Sendo assim, deve prevalecer o livre convencimento do Juízo, que pode indeferir diligência que entende inoportuna, como é o caso, em que o acórdão já deliberou qual seria expressamente o termo final de pagamento, sem nada mencionar sobre a aposentadoria” (fls. 4-6, e-doc. 14).
+
+A análise das alegações do agravante e da conclusão adotada pela instância ordinária sobre o indeferimento da diligência referente à perícia contábil demandaria o reexame do conjunto probatório e da legislação infraconstitucional aplicável à espécie. A alegada contrariedade à Constituição da República, se tivesse ocorrido, seria indireta, a inviabilizar o processamento do recurso extraordinário. Incide na espécie a Súmula n. 279 do Supremo Tribunal Federal. Confiram-se, por exemplo, os seguintes julgados:
+“DIREITO TRIBUTÁRIO. AGRAVO INTERNO EM RECURSO EXTRAORDINÁRIO COM AGRAVO. PERÍCIA CONTÁBIL INDEFERIDA. CONTRADITÓRIO E AMPLA DEFESA. CARÁTER INFRACONSTITUCIONAL DA CONTROVÉRSIA. SÚMULA 279/STF. PRECEDENTES. 1. Hipótese em que a resolução da controvérsia demandaria o reexame dos fatos e do material probatório constantes nos autos, bem como a análise de legislação infraconstitucional, o que é vedado em recurso extraordinário. Incidência da Súmula 279/STF. Precedentes. 2. Ausente ofensa constitucional direta em recurso extraordinário que tem por objeto a obrigatoriedade de observância dos princípios do contraditório e da ampla defesa, nos casos de indeferimento de pedido de produção de provas em processo judicial. 3. Nos termos do art. 85, § 11, do CPC/2015, fica majorado em 25% o valor da verba honorária fixada anteriormente, observados os limites legais do art. 85, §§ 2º e 3º, do CPC/2015. 4. Agravo interno a que se nega provimento, com aplicação da multa prevista no art. 1.021, § 4º, do CPC/2015” (ARE n. 1.022.526-AgR, Relator o Ministro Luís Roberto Barroso, Primeira Turma, DJe 16.6.2017).
+
+“Direito previdenciário. Agravo regimental no recurso extraordinário com agravo. Benefício previdenciário. Cumprimento de sentença. Revisão da renda mensal inicial (RMI). Teto constitucional. Tema 76 da repercussão geral. Alegação de equívoco no cálculo judicial. Revolvimento de fatos e provas. Súmula 279 do STF. Agravo interno desprovido. 1. O recurso extraordinário busca reverter acórdão proferido em fase de cumprimento de sentença que, acolhendo o cálculo da Contadoria Judicial, concluiu pela inexistência de diferenças a serem pagas à parte autora em decorrência da aplicação dos novos tetos previdenciários (EC nº 20/1998 e EC nº 41/2003), conforme o Tema 76 da Repercussão Geral. 2. A argumentação da agravante de que o Tribunal de origem teria se baseado em entendimento
+jurídico-constitucional equivocado (negando a aplicação do Tema 76 a benefícios anteriores à CF/88 limitados pelo ‘Menor Valor Teto’) demanda, na verdade, a rediscussão das premissas fáticas e contábeis que levaram à conclusão pela ausência de proveito financeiro no caso concreto. Tal revisão, notadamente quanto a aferição da correção do cálculo judicial que concluiu pela inexistência de diferenças, exige o reexame do conjunto fático-probatório dos autos, o que torna oblíqua e reflexa eventual ofensa, a inviabilizar o conhecimento do recurso extraordinário (Súmula nº 279/STF). 3. Havendo prévia fixação de honorários advocatícios pelas instâncias de origem, seu valor monetário será majorado em 10% (dez por cento) em desfavor da parte recorrente, nos termos do art. 85, § 11, do Código de Processo Civil, observados os limites dos §§ 2º e 3º do referido artigo e a eventual concessão de justiça gratuita. 4. Agravo interno conhecido e não provido” (ARE n. 1.572.380-AgR, Relator o Ministro Flávio Dino, Primeira Turma, DJe 3.12.2025).
+
+Comprovados os óbices jurídicos impeditivos da admissibilidade do recurso, nada há a prover em relação às alegações do agravante.
+
+9. Pelo exposto, não conheço do presente recurso extraordinário com agravo (inc. III do art. 932 do Código de Processo Civil e § 1º do art. 21 do Regimento Interno do Supremo Tribunal Federal).
+
+Ressalte-se que eventual recurso manifestamente inadmissível contra esta decisão demonstraria apenas inconformismo e resistência em pôr termo a processos que se arrastam em detrimento da eficiente prestação jurisdicional.
+Publique-se.
+Brasília, 25 de março de 2026.
+Ministra CÁRMEN LÚCIA
+Relatora
