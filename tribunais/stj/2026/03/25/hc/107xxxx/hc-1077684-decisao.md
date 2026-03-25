@@ -1,0 +1,61 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de GUSTAVO BRUNO BELARMINO BARROSO, contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, no Agravo de Execução Penal n. 0025802.73.2025.8.26.0050.
+Consta dos autos que o paciente foi condenado como incurso no art. 157, § 2º, I e II, do Código Penal, às penas de 05 (cinco) anos e 04 (quatro) meses de reclusão, regime inicial fechado.
+Em 05/042018, o Juízo da Unidade Regional de Departamento Estadual de Execução Criminal - DEECRIM 1ª RAJ/SP concedeu ao apenado o livramento condicional (fls. 15/17), que foi sustado, cautelarmente, em razão de abandono dos comparecimentos obrigatórios (fl. 27).
+Interposto Agravo em Execução pela Defesa, o Tribunal de origem negou provimento ao recurso (fls. 55/61), nos termos da ementa (fls. 56/57):
+DIREITO PENAL E DE EXECUÇÃO PENAL. AGRAVO EM EXECUÇÃO. PRESCRIÇÃO DA PRETENSÃO EXECUTÓRIA. LIVRAMENTO CONDICIONAL SUSPENSO. AUSÊNCIA DE REVOGAÇÃO FORMAL. TERMO INICIAL DA PRESCRIÇÃO. ART. 112, I, DO CÓDIGO PENAL. IMPOSSIBILIDADE DE CONTAGEM DO PRAZO PRESCRICIONAL. RECURSO DESPROVIDO.
+I. CASO EM EXAME
+Agravo em execução interposto por GUSTAVO BRUNO BELARMINO BARROSO contra decisão do Juízo da execução que indeferiu o pedido de reconhecimento da prescrição da pretensão executória, formulado em razão da suspensão do livramento condicional, sob o argumento de que a prescrição deveria incidir sobre a pena remanescente, correspondente a 4 meses e 28 dias, a partir da sustação do benefício ocorrida em 09/07/2020.
+II. QUESTÃO EM CONDENAÇÃO
+A questão em condenação consiste em definir se, durante a suspensão do livramento condicional, sem decisão judicial de revogação do benefício, é possível a contagem do prazo da prescrição da pretensão executória, especialmente com base na pena remanescente.
+III. RAZÕES DE DECIDIR
+A suspensão do livramento condicional, decorrente do abandono do benefício pelo apenado, não se confunde com a sua revogação, inexistindo decisão judicial definitiva que autorize a retomada da contagem do prazo prescricional.
+A prescrição da pretensão executória, nos casos de livramento condicional, tem como termo inicial o trânsito em julgado da sentença que revoga o benefício, nos termos do art. 112, inciso I, do Código Penal.
+Enquanto pendente a apuração da infração e ausente a revogação formal do livramento condicional, o prazo prescricional permanece suspenso, não sendo possível computar o período em favor do apenado.
+Em caso de futura revogação por abandono, a pena a ser considerada será apenas aquela cumprida até a concessão do livramento condicional, nos termos do art. 88 do Código Penal.
+Considerando que, até a concessão do livramento condicional, o apenado havia cumprido 2 anos, 9 meses e 3 dias de pena, remanesce pena superior a 3 anos, atraindo o prazo prescricional de 8 anos, conforme art. 109, inciso IV, do Código Penal, não implementado no caso concreto.
+A jurisprudência do Superior Tribunal de Justiça firmou entendimento no sentido de que não se pode computar como pena cumprida o período em que o livramento condicional se encontra suspenso, enquanto não houver decisão definitiva sobre sua revogação ou manutenção.
+IV. DISPOSITIVO E TESE
+Recurso desprovido.
+Tese de julgamento:
+A suspensão do livramento condicional, sem decisão judicial de revogação, impede a fluência do prazo da prescrição da pretensão executória.
+O termo inicial da prescrição, nos casos de livramento condicional, é o trânsito em julgado da decisão que revoga o benefício, nos termos do art. 112, I, do Código Penal. Não é possível computar como pena cumprida o período em que o livramento condicional permanece suspenso.
+(TJSP; Agravo de Execução Penal 0025802-73.2025.8.26.0050; Relator (a): Rubens Hideo Arai; Órgão Julgador: Núcleo 4.0-T. X (D CRI); Foro Central Criminal Barra Funda - 3ª Vara das Execuções Criminais; Data do Julgamento: 02/03/2026; Data de Registro: 02/03/2026)
+Sustenta a Defesa que o paciente cumpriu pena em livramento condicional que teria duração de 10/04/2018 a 06/01/2021 e, em razão e ausência injustificada de comparecimento periódico em juízo houve sustação do benefício com expedição de novo mandado de prisão em 09/07/2020, cumprido em Fortaleza/CE.
+Afirma que, à época da sustação do livramento condicional, restavam apenas 04 (quatro) meses e 28 (vinte e oito) dias de pena a serem cumpridos, período que deve ser considerado para fins de prescrição.
+Argumenta que, consoante o previsto no artigo 109 do Código Penal, o prazo para a pena inferior a 01 (um) ano é de 03 (três) anos, assim, considerando que a pleito de reconhecimento da prescrição foi apresentado em 2025, o prazo prescricional está esgotado.
+Requer, liminarmente e no mérito, a concessão da ordem, para que seja reconhecida a prescrição da pretensão executória, com a consequente expedição do alvará de soltura.
+O pedido liminar foi indeferido (fls. 67/68). As informações foram prestadas (fls. 81/125; 127/128; 130/143).
+O Ministério Público Federal manifestou-se pelo não conhecimento do writ e, caso conhecido, pela denegação (fls. 146/151).
+É o relatório.
+Decido.
+Esta Corte e o Supremo Tribunal Federal pacificaram o entendimento de que não cabe habeas corpus como substitutivo do recurso legalmente previsto para a hipótese, impondo-se o não conhecimento da impetração, salvo quando constatada a existência de flagrante ilegalidade no ato judicial impugnado (STJ, HC n. 535.063/SP, Terceira Seção, Relator Ministro Sebastião Reis Junior, julgado em 10/6/2020, DJe de 25/8/2020; STF, AgRg no HC n. 180.365/PB, Primeira Turma, Relatora Ministra Rosa Weber, julgado em 27/3/2020, DJe de 2/4/2020; e AgRg no HC n. 147.210/SP, Segunda Turma, Relator Ministro Edson Fachin, julgado em 30/10/2018, DJe de 20/2/2020).
+Assim, passo à análise das razões da impetração, de forma a verificar a ocorrência de flagrante ilegalidade a justificar a concessão do habeas corpus, de ofício.
+Consta do acórdão (fls. 58/61 - grifamos):
+ ..  O agravo não merece provimento.
+O caso dos autos gira em torno do debate dentro da execução penal se, durante a sustação do livramento condicional, o tempo em que correu após a sustação corre a favor do réu ou não, isto é, se a suspensão do livramento condicional, por si só, já impede a contagem do tempo de pena, ou se esse efeito só ocorre com a decisão definitiva de revogação.
+Ora, resta claro que não houve revogação, somente a suspensão do benefício após o seu abandono por parte do apenado datado em 09/07/2020. Se a prescrição está suspensa não há como contar o tempo de prescrição, uma vez que para que ocorra a prescrição após o abandono do livramento condicional, é necessária a revogação formal do benefício por decisão judicial.
+Tal imposição é decorrente da inteligência do artigo 112, inciso I, do Código Penal que determina o termo inicial para a contagem da prescrição, sendo este o dia em que transita em julgado a sentença que revoga o livramento condicional.
+ ..  Desta forma, quando for revogado o benefício será contada a pena só até a data do livramento.
+Quando o livramento for revogado, a prescrição será calculada ou com base no tempo total de pena ou com base na pena remanescente conforme o motivo da revogação (art. 88 do CP). No caso, como houve abandono, a futura revogação implicará considerar só o tempo até a concessão do livramento.
+Considerando que até o livramento o apenado tinha cumprido 2 anos, 9 meses e 3 dias de pena, o restaria mais 3 anos de pena, o que se traduz, vide Art. 109, IV, CP, em 8 anos para a prescrição da pretensão executória, que ainda não ocorreu.
+Ora, durante a suspensão do livramento condicional, o apenado não está em cumprimento regular da pena. A suspensão, embora cautelar, interrompe o curso normal do benefício. Portanto, não seria lógico computar como pena cumprida um período em que o benefício está suspenso, aguardando-se a apuração de uma suposta infração. Portanto, não há que se falar em prescrição pela pena residual, na forma do art. 113 do CP, porque não houve revogação do livramento condicional. Justamente por não haver revogação, a prescrição não corre.
+ ..  Ante o exposto, pelo meu voto, nego provimento ao recurso.
+O não acolhimento das teses apresentadas, ou da interpretação pretendida sobre as provas coligidas aos autos não implica em obscuridade, contradição ou omissão, pois ao julgador cabe apreciar a questão conforme o que ele entender relevante à lide. O manejo de embargos de declaração para rediscutir tais questões caracteriza conduta temerária passível do reconhecimento da litigância de má-fé.
+Por derradeiro, considera-se prequestionada toda matéria infraconstitucional e constitucional, observando-se que é pacífico no Superior Tribunal de Justiça que, tratando-se de prequestionamento, é desnecessária a citação numérica dos dispositivos legais, bastando que a questão posta tenha sido decidida (EDROMS 18205/SP, Min. Felix Fischer, DJ 08.05.2006, p. 24)
+Como visto, até a decisão que concedeu o livramento, o apenado tinha cumprido 02 (dois) anos, 09 (nove) meses e 03 (três dias de pena, e deveria cumprir mais 03 (três) anos de pena e o consoante o previsto no artigo 109, inciso IV, do Código Penal prevê como 08 (oito) anos o prazo para a prescrição da pretensão executória.
+O Tribunal de Justiça do Estado de São Paulo concluiu (fl. 59 - grifamos):
+ ..  durante a suspensão do livramento condicional, o apenado não está em cumprimento regular da pena. A suspensão, embora cautelar, interrompe o curso normal do benefício. Portanto, não seria lógico computar como pena cumprida um período em que o benefício está suspenso, aguardando-se a apuração de uma suposta infração. Portanto, não há que se falar em prescrição pela pena residual, na forma do art. 113 do CP, porque não houve revogação do livramento condicional. Justamente por não haver revogação, a prescrição não corre.
+O entendimento es tá fundamentado nos termos do artigo 112, inciso I, do Código Penal que define o trânsito em julgado da sentença que revoga o livramento condicional como o termo inicial necessário para a contagem da prescrição da pretensão executória.
+No mesmo sentido a jurisprudência desta Corte Superior:
+PROCESSUAL PENAL E PENAL. HABEAS CORPUS SUBSTITUTIVO DE RECURSO. NÃO CABIMENTO. EXECUÇÃO PENAL. COMUTAÇÃO. DECRETO PRESIDENCIAL N. 8.380/2014. ANÁLISE DO PEDIDO POSTERGADA PELO JUÍZO DAS EXECUÇÕES EM FACE DA SUSPENSÃO DO BENEFÍCIO DO LIVRAMENTO CONDICIONAL PELO COMETIMENTO DE NOVOS DELITOS. PRETENSÃO DE CÔMPUTO COMO PENA CUMPRIDA DO PERÍODO DO LIVRAMENTO CONDICIONAL SUSPENSO PARA FINS DE AFERIÇÃO DO REQUISITO OBJETIVO PREVISTO NO DECRETO PRESIDENCIAL. IMPOSSIBILIDADE. INTELIGÊNCIA DO ART. 142 DA LEP C/C O ART. 88 DO CP. HABEAS CORPUS NÃO CONHECIDO.
+1. Ressalvada pessoal compreensão diversa, uniformizou o Superior Tribunal de Justiça ser inadequado o writ em substituição a recursos especial e ordinário, ou de revisão criminal, admitindo-se, de ofício, a concessão da ordem ante a constatação de ilegalidade flagrante, abuso de poder ou teratologia.
+2. É certo que o fato de o apenado estar no gozo do livramento condicional não constitui condição impeditiva à concessão da benesse da comutação das penas. Contudo, não há como computar-se o período em que o apenado permaneceu solto em livramento como pena cumprida enquanto não sobrevenha decisão final a respeito da revogação ou manutenção do benefício.
+3. Estando suspenso ou em curso o livramento condicional, somente poderá ser concedida a comutação com base no Decreto Presidencial n. 8.380/2014 aos apenados que estejam no gozo do benefício do livramento cujo tempo de cumprimento de pena, em 25 de dezembro de 2014, supere o lapso temporal nele previsto independentemente do período relativo ao livramento condicional em curso ou suspenso.
+4. Enquanto não findo o período de provas do livramento condicional não se pode ter como cumprida a respectiva pena, a qual, por essa razão, não integra o cálculo previsto no Decreto Presidencial.
+Inteligência do art. 142 da LEP c/c o art. 88 do CP.
+5. Habeas corpus não conhecido.
+(HC n. 334.489/RS, relator Ministro Nefi Cordeiro, Sexta Turma, julgado em 3/5/2016, DJe de 12/5/2016 - grifamos)
+Ante o exposto, não conheço do habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
