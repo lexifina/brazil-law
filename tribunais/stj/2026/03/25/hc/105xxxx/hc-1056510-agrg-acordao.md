@@ -1,0 +1,62 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUINTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 19/03/2026 a 25/03/2026, por unanimidade, negar provimento ao recurso, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Reynaldo Soares da Fonseca, Ribeiro Dantas, Joel Ilan Paciornik e Messod Azulay Neto votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro Reynaldo Soares da Fonseca.
+EMENTA
+DIREITO PROCESSUAL PENAL. AGRAVO REGIMENTAL EM HABEAS CORPUS. BUSCAS PESSOAL E VEICULAR. PRISÃO PREVENTIVA. SÚMULA N. 691/STF. DECISÃO FUNDAMENTADA. AUSÊNCIA DE TERATOLOGIA. AGRAVO DESPROVIDO.
+I. CASO EM EXAME
+1. Agravo regimental interposto contra decisão monocrática da Presidência do Tribunal que indeferiu liminarmente habeas corpus, com fundamento na Súmula n. 691 do STF. O agravante sustenta constrangimento ilegal decorrente da ilegalidade das buscas pessoal e veicular por ausência de fundadas suspeitas, bem como que ausentes os requisitos da prisão preventiva.
+II. QUESTÃO EM DISCUSSÃO
+2. Consiste em verificar a possibilidade de superação da Súmula n. 691/STF para concessão de habeas corpus.
+III. RAZÕES DE DECIDIR
+3. A Súmula n. 691/STF veda a impetração de habeas corpus contra decisão que indefere liminar em writ anteriormente impetrado no tribunal de origem, sob pena de supressão de instância.
+4. A jurisprudência admite a mitigação da Súmula n. 691/STF apenas em hipóteses excepcionais, quando constata flagrante ilegalidade, teratologia ou ausência de fundamentação na decisão impugnada.
+5. O indeferimento da liminar foi justificado devidamente pela ausência dos requisitos autorizativos da medida urgente, não tendo sido constatado, em exame inicial, nenhum constrangimento ilegal, porquanto a prisão em flagrante e a conversão em preventiva teriam sido devidamente fundamentadas em elementos concretos, não se verificando, assim, ilegalidade flagrante ou teratologia apta a autorizar a mitigação da Súmula n. 691/STF, cabendo, pois, ao Tribunal de origem a análise da matéria meritória.
+IV. AGRAVO REGIMENTAL DESPROVIDO.
+RELATÓRIO
+Trata-se de agravo regimental interposto por RENAN ESPADONI PAIVA RIBEIRO contra decisão da Presidência deste Tribunal, que indeferiu liminarmente o writ, por incidência da Súmula n. 691/STF.
+Em suas razões, o agravante - preso em flagrante, custódia convertida em preventiva, denunciado como incurso nos arts. 157, 180 e 311, todos do Código Penal - alega a possibilidade de afastamento do óbice da Súmula 691/STF.
+Argumenta que estão presentes os requisitos legais à concessão da liminar na origem, diante da nulidade das buscas pessoal e veicular, por ausência de fundadas suspeitas, bem como que inexiste fundamentação idônea para a segregação cautelar, além de ausente a contemporaneidade da prisão. Desta forma, sustenta a suficiência das medidas cautelares diversas da prisão.
+Requer seja reconsiderada a decisão, afastando-se a incidência da Súmula 691/STF, concedendo-se a ordem.
+É o relatório.
+EMENTA
+DIREITO PROCESSUAL PENAL. AGRAVO REGIMENTAL EM HABEAS CORPUS. BUSCAS PESSOAL E VEICULAR. PRISÃO PREVENTIVA. SÚMULA N. 691/STF. DECISÃO FUNDAMENTADA. AUSÊNCIA DE TERATOLOGIA. AGRAVO DESPROVIDO.
+I. CASO EM EXAME
+1. Agravo regimental interposto contra decisão monocrática da Presidência do Tribunal que indeferiu liminarmente habeas corpus, com fundamento na Súmula n. 691 do STF. O agravante sustenta constrangimento ilegal decorrente da ilegalidade das buscas pessoal e veicular por ausência de fundadas suspeitas, bem como que ausentes os requisitos da prisão preventiva.
+II. QUESTÃO EM DISCUSSÃO
+2. Consiste em verificar a possibilidade de superação da Súmula n. 691/STF para concessão de habeas corpus.
+III. RAZÕES DE DECIDIR
+3. A Súmula n. 691/STF veda a impetração de habeas corpus contra decisão que indefere liminar em writ anteriormente impetrado no tribunal de origem, sob pena de supressão de instância.
+4. A jurisprudência admite a mitigação da Súmula n. 691/STF apenas em hipóteses excepcionais, quando constata flagrante ilegalidade, teratologia ou ausência de fundamentação na decisão impugnada.
+5. O indeferimento da liminar foi justificado devidamente pela ausência dos requisitos autorizativos da medida urgente, não tendo sido constatado, em exame inicial, nenhum constrangimento ilegal, porquanto a prisão em flagrante e a conversão em preventiva teriam sido devidamente fundamentadas em elementos concretos, não se verificando, assim, ilegalidade flagrante ou teratologia apta a autorizar a mitigação da Súmula n. 691/STF, cabendo, pois, ao Tribunal de origem a análise da matéria meritória.
+IV. AGRAVO REGIMENTAL DESPROVIDO.
+VOTO
+A decisão da Presidência que indeferiu liminarmente o habeas corpus assim dispôs (fls. 145-147):
+Constata-se, desde logo, que a pretensão não pode ser acolhida por esta Corte Superior, pois a matéria não foi examinada pelo Tribunal de origem, que ainda não julgou o mérito do writ originário.
+Aplica-se à hipótese o enunciado 691 da Súmula do STF:
+Não compete ao Supremo Tribunal Federal conhecer de habeas corpus contra decisão do relator que, em habeas corpus requerido a Tribunal Superior, indefere a liminar.
+Confiram-se, a propósito, os seguintes julgados:
+ ..
+No caso, a situação dos autos não apresenta nenhuma excepcionalidade a justificar a prematura intervenção desta Corte Superior e superação do referido verbete sumular. Deve-se, por ora, aguardar o esgotamento da jurisdição do Tribunal de origem.
+Ante o exposto, com fundamento n o art. 21-E, IV, c/c o art. 210, ambos do RISTJ, indefiro liminarmente o presente Habeas Corpus.
+A teor do disposto na Súmula n. 691/STF, não se admite habeas corpus contra decisão que indeferiu o pedido liminar em writ antecedente, impetrado no Tribunal de origem, sob pena de supressão de instância.
+Contudo, a despeito de tal óbice processual, entende-se possível a mitigação do enunciado em casos excepcionais, quando a decisão combatida é teratológica ou despida de fundamentação idônea, o que, todavia, não é o caso dos autos.
+Por oportuno, trago à colação os seguintes excertos da decisão que indeferiu o pedido de liminar na origem (fls. 35-39):
+O remédio heroico, por sua própria natureza constitucional voltada à proteção da liberdade do indivíduo, reclama a adoção de medida processual pronta e rápida. Entretanto, a medida liminar em habeas corpus é cabível quando o constrangimento ilegal é manifesto e constatado de pronto, por meio do exame sumário da inicial, o que não ocorre no presente caso.
+Trata-se de medida excepcional, somente cabível quando, em juízo perfunctório, observa-se de plano evidente constrangimento ilegal. Não obstante a relevância dos argumentos apresentados no presente writ, não se verifica, em cognição sumária, a presença dos requisitos para a concessão da medida de urgência.
+A legalidade da prisão em flagrante foi ratificada em sede de audiência de custódia e superada a questão com a decretação da prisão preventiva.
+Ademais, as alegações de ilegalidade da abordagem, por aventada ausência de fundada suspeita, foram adequadamente rechaçadas na origem, a fls. 611/3 dos originais. Destacou-se que os policiais ofereceram relatos no sentido de que o veículo era conhecido em razão de atitudes suspeitas anteriores, afastando-se a alegação defensiva sobre ausência de registro de ocorrência anterior que o mencionasse, já que o fato de "o veículo ser de conhecimento da equipe não necessariamente importa na lavratura de Boletim de Ocorrência anterior" (fl. 611). Com efeito.
+Ressaltou-se, ainda, que não foi apenas esse elemento que levou à busca veicular, já que, ainda segundo os agentes públicos, logo que deram ordem de parada:
+"o veículo empreendeu fuga em direção à empresa Usiminas, vindo a adentrar acesso sem saída. No local, o condutor efetuou manobra em marcha ré, colidindo contra a viatura I-21021, danificando seu para-choque, e novamente fugiu, retornando à rodovia Cônego Domenico Rangoni, sentido São Paulo. Durante a perseguição, no km 265, um dos ocupantes saltou do veículo em movimento, evadindo-se para área de mata, não sendo possível sua detenção naquele momento. O acompanhamento prosseguiu até o km270, ocasião em que, em apoio à equipe da viatura I-21025, o veículo dos suspeitos colidiu novamente contra a viaturaI-21021, causando novos danos. Em seguida, o veículo parou e quatro indivíduos desembarcaram, sendo que um deles, trajando camisa preta e calça cinza com faixa refletiva, efetuou dois disparos de arma de fogo contra os policiais" (fl. 612, destacado no original).
+Assim, verifica-se que foi adequadamente justificada a fundada suspeita que levou à ordem de parada e, mais ainda, a perseguição que culminou na prisão em flagrante.
+E a ocorrência do arquivamento em relação ao suposto crime de homicídio não decorreu da ausência de provas sobre a efetiva ocorrência dos disparos, mas, apenas, sobre a ocorrência de animus necandi. Sobre isso, preclara manifestação da d. Procuradoria Geral de Justiça lançada nos autos de origem:
+"Como bem observou o Douto Suscitado, o único elemento de materialidade delitiva é o depoimento dos policiais militares, no sentido de que, em determinado momento da fuga dos agentes, o veículo parou e quatro indivíduos desembarcaram, ocasião em que um deles efetuou disparos de arma de fogo contra os policiais, sem, contudo, atingi-los. Verifica-se, assim, que, não há elemento suficiente a concluir que os investigados queriam, de fato, matá-los. Pelo contrário, há indicação de que a intenção dos investigados era tão somente a de resistir à abordagem policial" (fl. 241 daqueles).
+Assim, permanece hígida a fundamentação que levou à ratificação da prisão em flagrante e à decretação da prisão preventiva, dada a elevada periculosidade das condutas, não apenas pelos suficientes indícios da prática dos crimes, em tese, de roubo, receptação e adulteração de veículo automotor precedentes, como, também, da peculiar violência com que se deu a tentativa de fuga diante da ordem de parada dos policiais, a revelar conduta particularmente atentatória contra a ordem pública.
+Nesse ponto, importa registrar que, sobre a alegada ausência dos requisitos autorizadores da custódia cautelar e sobre os atributos pessoais favoráveis do Paciente, idêntica argumentação já foi ventilada nos autos do habeas corpus n. 2280976-05.2025.8.26.0000. Ali, o pleito liminar foi indeferido por este Relator, em 02/09/2025, decisão contra a qual foi manejado agravo regimental, não conhecido por esta c. Câmara, em decisão unânime, expressa no v. Acórdão de fls. 121/125 daqueles.
+Portanto, a presente impetração, no tocante à necessidade e adequação da prisão preventiva, é mera reiteração do habeas corpus n. 2280976-05.2025.8.26.0000, já pautado para julgamento por esta c. Câmara em 11/12/2025. Assim a presente impetração sequer deve, nesse mérito, ser conhecida.
+Outrossim, a presente impetração inova em relação à alegação de ilegalidade da prisão em flagrante, por superveniência do arquivamento em relação à imputação de crime de homicídio. Essa argumentação, porém, é, como visto, improcedente, já que não se infirmaram os disparos, mas, apenas, a ocorrência do animus necandi, de modo que, tanto os fortes indícios da prática do crime de roubo, quanto a particular periculosidade das condutas adotadas pelo Paciente e pelos corréus durante a fuga, seguem demonstrados e justificam a custódia cautelar, nos termos dos artigos 313 e 313, I, ambos do Código de Processo Penal.
+No caso em tela, como se vê, o indeferimento da liminar foi justificado devidamente pela ausência dos requisitos autorizativos da medida urgente, não tendo sido constatado, em exame inicial, nenhum constrangimento ilegal, porquanto presente a legalidade da prisão em flagrante, convertida em preventiva, bem com os seus requisitos, além de se tratar de reiteração de habeas corpus , pautado para julgamento.
+Portanto, inexiste ilegalidade flagrante ou teratologia apta a autorizar a mitigação da Súmula n. 691/STF, na medida em que não constatados de plano os requisitos autorizativos da medida urgente, sendo necessárias informações para melhor análise da questão, cabendo, assim, ao Tribunal de origem a análise da matéria meritória.
+Outrossim, o processamento do feito implicaria inevitavelmente supressão de instância.
+Ante o exposto, nego provimento ao agravo regimental.
+É o voto.
