@@ -1,0 +1,1 @@
+Art. 21-A. Nos crimes previstos nos arts. 12, 14 e 16 desta Lei, a pena é aumentada de 2/3 (dois terços) se o crime for praticado em concurso com crime previsto na Lei nº 11.343, de 23 de agosto de 2006, estiver diretamente ligado ao comércio ilícito de entorpecentes ou o artefato tiver sido utilizado para assegurar o sucesso da mercancia.
