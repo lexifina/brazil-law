@@ -1,0 +1,32 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 19/03/2026 a 25/03/2026, por unanimidade, acolher os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Afrânio Vilela, Francisco Falcão, Maria Thereza de Assis Moura e Marco Aurélio Bellizze votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Teodoro Silva Santos.
+EMENTA
+PROCESSUAL CIVIL E TRIBUTÁRIO. EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. ERRO MATERIAL. EXISTÊNCIA. EMBARGOS DE DECLARAÇÃO ACOLHIDOS.
+1. Nos termos do comando normativo insculpido no art. 1.022 do Código de Processo Civil, o recurso integrativo tem como escopo corrigir omissões, obscuridades, contradições ou erros materiais eventualmente existentes no provimento judicial.
+2. In casu, houve erro material, motivo pelo qual se exclui a expressão "Invertam-se os ônus sucumbenciais" do acordão embargado.
+3. Embargos de declaração acolhidos.
+RELATÓRIO
+Trata-se de embargos de declaração opostos por MUNICÍPIO DE PRIMAVERA DO L ESTE ao acórdão da Segunda Turma do Superior Tribunal de Justiça que deu provimento ao recurso especial, cuja ementa é a seguir reproduzida (fls. 320-321):
+TRIBUTÁRIO. RECURSO ESPECIAL. EXECUÇÃO FISCAL. FRAUDE À EXECUÇÃO. ALIENAÇÃO POSTERIOR À INSCRIÇÃO EM DÍVIDA ATIVA. CARACTERIZAÇÃO. REsp 1.141.990/PR (TEMA 290). ACÓRDÃO RECORRIDO EM DISSONÂNCIA COM A JURISPRUDÊNCIA DESTA CORTE SUPERIOR. RECURSO ESPECIAL PROVIDO.
+1. Ao decidir sobre a controvérsia recursal, a Corte a quo adotou os seguintes fundamentos (fls. 193-195; sem grifos no original): "Inicialmente, é incontroversa a data da alienação do veículo para a agravante, ocorrida em 23/05/2023, bem como a determinação da restrição judicial via RENAJUD, que se deu em 17/07/2023, ou seja, em momento posterior à concretização do negócio jurídico. No caso dos autos, a decisão monocrática reformou a sentença de primeiro grau com fundamento no artigo 185 do Código Tributário Nacional, que estabelece presunção de fraude quando a alienação ocorre após a inscrição do débito em dívida ativa. Contudo, tal presunção não pode ser aplicada de forma absoluta, devendo ser analisadas as circunstâncias concretas do caso. O Superior Tribunal de Justiça, ao editar a Súmula 375, consolidou o entendimento de que "o reconhecimento da fraude à execução depende do registro da penhora do bem alienado ou da prova de má-fé do terceiro adquirente". De fato, analisando com mais acuidade o caso, observa-se que inexiste qualquer elemento nos autos que demonstre a má-fé da agravante ao adquirir o veículo. Ademais, o próprio Tribunal de Justiça do Estado de Mato Grosso já enfrentou questão análoga em precedente recente (Apelação nº 1009244-36.2023.8.11.0037), envolvendo as mesmas partes, no qual se reconheceu a inexistência de fraude à execução e se determinou a baixa da restrição sobre o bem. No referido julgamento, destacou-se que a ausência de registro prévio da penhora afasta a presunção de fraude, uma vez que a adquirente não poderia prever a existência de restrição futura sobre o veículo, senão vejamos:  Ainda, há nos autos decisão proferida pela Justiça do Trabalho nos Embargos de Terceiro nº 0000683-36.2023.5.23.0076, na qual se reconheceu a boa-fé da agravante e determinou-se o levantamento das restrições impostas sobre o veículo. Diante do exposto, verifica-se que a agravante preenche os requisitos exigidos pela jurisprudência para afastar a presunção de fraude, pois (i) a alienação do bem ocorreu antes do bloqueio judicial e (ii) não há elementos que demonstrem sua má-fé."
+2. Com efeito, a Primeira Seção do Superior Tribunal de Justiça, por ocasião do julgamento do REsp 1.141.990/PR, sob o rito dos repetitivos (Tema 290), consolidou o entendimento de que não se aplica à execução fiscal a Súmula 375 do STJ, decidindo que, na hipótese de a alienação ter sido efetivada antes da entrada em vigor da Lei Complementar n. 118, de 09/06/2005, que alterou o art. 185 do CTN, configura-se fraude à execução se o negócio jurídico tiver ocorrido após a citação do devedor e, se posteriormente à publicação da referida norma, a transação realizar-se após a inscrição do débito tributário em dívida ativa.
+3. In casu, o ato translativo foi praticado após 09/06/2005, motivo por que resta configurada a fraude à execução.
+4. Recurso especial provido.
+Alega a parte embargante que há obscuridade quanto à fixação dos honorários de sucumbência e à inversão dos ônus sucumbenciais determinada no acórdão, gerando dúvida sobre quem deve arcar com os honorários após o provimento do recurso especial.
+Expõe a linha do tempo: a) a sentença fixou honorários em 10% (dez por cento) sobre o valor atualizado da causa, por força do princípio da causalidade; b) a decisão monocrática no Tribunal de origem corrigiu o valor da causa para R$ 92.000,00 (noventa e dois mil reais) e manteve honorários em 10% (dez por cento) sobre o valor retificado; c) o acórdão do agravo interno restabeleceu a sentença quanto ao mérito e d) o acórdão do STJ deu provimento ao recurso especial e determinou a inversão dos ônus sucumbenciais, o que poderia ensejar interpretação de que a Fazenda Pública, vencedora, seria responsável pelo pagamento dos honorários à parte vencida.
+Requer que sejam acolhidos os embargos de declaração para sanar a obscuridade.
+Impugnação não apresentada.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL E TRIBUTÁRIO. EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. ERRO MATERIAL. EXISTÊNCIA. EMBARGOS DE DECLARAÇÃO ACOLHIDOS.
+1. Nos termos do comando normativo insculpido no art. 1.022 do Código de Processo Civil, o recurso integrativo tem como escopo corrigir omissões, obscuridades, contradições ou erros materiais eventualmente existentes no provimento judicial.
+2. In casu, houve erro material, motivo pelo qual se exclui a expressão "Invertam-se os ônus sucumbenciais" do acordão embargado.
+3. Embargos de declaração acolhidos.
+VOTO
+Os embargos de declaração devem ser acolhidos.
+Nos termos do comando normativo insculpido no art. 1.022 do Código de Processo Civil, o recurso integrativo tem como escopo corrigir omissões, obscuridades, contradições ou erros materiais eventualmente existentes no provimento judicial.
+In casu, houve erro material , motivo pelo exclui-se a expressão "Invertam-se os ônus sucumbenciais" do acordão embargado.
+Ante o expos to, ACOLHO os embargos de declaração.
+É o voto.
