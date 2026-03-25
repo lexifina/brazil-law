@@ -1,0 +1,54 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUINTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 19/03/2026 a 25/03/2026, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Joel Ilan Paciornik, Messod Azulay Neto, Maria Marluce Caldas e Reynaldo Soares da Fonseca votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Reynaldo Soares da Fonseca.
+EMENTA
+Direito processual penal. Agravo regimental. INADEQUAÇÃO DA VIA ELEITA. REVISÃO CRIMINAL. INCOMPETÊNCIA DO STJ. AGRAVO REGIMENTAL IMPROVIDO.
+I. Caso em exame
+1. Agravo regimental interposto contra decisão que indeferiu liminarmente habeas corpus impetrado com o objetivo de absolver o paciente da imputação do crime de receptação qualificada ou, subsidiariamente, desclassificar a conduta para receptação culposa.
+2. O acórdão impugnado transitou em julgado, não havendo julgamento de mérito no Superior Tribunal de Justiça passível de revisão.
+II. Questão em discussão
+3. A questão em discussão consiste em saber se o habeas corpus pode ser conhecido como substitutivo de revisão criminal, considerando que o acórdão impugnado já transitou em julgado e não houve inauguração da competência do Superior Tribunal de Justiça.
+III. Razões de decidir
+4. O Superior Tribunal de Justiça não possui competência para processar habeas corpus como substitutivo de revisão criminal em hipóteses nas quais não houve inauguração de sua competência, conforme disposto no art. 105, inciso I, alínea "e", da Constituição da República.
+5. A jurisprudência do STJ é pacífica no sentido de que o habeas corpus não é a via adequada para o revolvimento de provas e fatos, sendo descabido utilizá-lo para pleitear absolvição ou desclassificação de conduta.
+6. Não há processo em curso que possibilite a concessão de habeas corpus de ofício nos termos do art. 654, § 2º, do Código de Processo Penal.
+IV. Dispositivo e tese
+7. Resultado do Julgamento: Agravo regimental improvido.
+Tese de julgamento:
+1. O habeas corpus não pode ser utilizado como substitutivo de revisão criminal em hipóteses nas quais não houve inauguração da competência do Superior Tribunal de Justiça. 2. A via do habeas corpus não é adequada para o revolvimento de provas e fatos, sendo descabido utilizá-lo para pleitear absolvição ou desclassificação de conduta. Dispositivos relevantes citados:
+CR/1988, art. 105, I, "e"; CPP, art. 654, § 2º.
+Jurisprudência relevante citada:STJ, AgRg no HC 903.400/RS, Rel. Min. Messod Azulay Neto, Quinta Turma, DJe 17.06.2024; STJ, AgRg no HC 885.889/RS, Rel. Min. Ribeiro Dantas, Quinta Turma, DJe 13.06.2024; STJ, AgRg no HC 852.988/SP, Rel. Min. Rogerio Schietti Cruz, Sexta Turma, DJe 12.06.2024; STJ, AgRg no HC 908.528/MG, Rel. Min. Messod Azulay Neto, Quinta Turma, DJe 28.05.2024; STJ, AgRg no HC 883.647/MG, Rel. Min. Sebastião Reis Júnior, Sexta Turma, DJe 15.05.2024; STJ, AgRg no HC 887.735/PE, Rel. Min. Ribeiro Dantas, Quinta Turma, DJe 25.04.2024; STJ, HC 790.768/SP, Rel. Min. Daniela Teixeira, Quinta Turma, DJe 10.04.2024; STJ, AgRg no HC 757.635/SC, Rel. Min. Teodoro Silva Santos, Sexta Turma, DJe 15.03.2024; STJ, AgRg no HC 825.424/SP, Rel. Min. Antonio Saldanha Palheiro, Sexta Turma, DJe 03.07.2024; STJ, AgRg no HC 820.174/SP, Rel. Min. Rogerio Schietti Cruz, Sexta Turma, DJe 15.08.2024; STJ, AgRg no HC 913.826/SP, Rel. Min. Antonio Saldanha Palheiro, Sexta Turma, DJe 03.07.2024; STJ, AgRg no HC 979.816/SP, Rel. Min. Rogerio Schietti Cruz, Sexta Turma, DJEN 24.03.2025; STJ, AgRg no HC 912.611/SP, Rel. Min. Jesuíno Rissato (Desembargador Convocado do TJDFT), Sexta Turma, DJe 16.08.2024; STJ, AgRg no HC 813.788/CE, Rel. Min. Laurita Vaz, Sexta Turma, DJe 29.06.2023; STJ, AgRg no AgRg no AgRg no AREsp 2.407.640/SP, Rel. Min. Joel Ilan Paciornik, Quinta Turma, DJe 29.04.2024; STJ, AgRg no HC 830.059/RJ, Rel. Min. Antonio Saldanha Palheiro, Sexta Turma, DJEN 08.05.2025.
+RELATÓRIO
+Trata-se de agravo regimental interposto por JOSE DANIEL FERNANDES contra a decisão que indeferiu liminarmente o writ.
+Em razões, a defesa afirma que a presença de manifesta ilegalidade impõe o conhecimento do writ, a fim de absolver o paciente da imputação do crime de receptação qualificada ou, subsidiariamente, desclassificar a conduta para a receptação culposa..
+Pugna, assim, pelo provimento do agravo a fim de conccder a ordem, nos termos do declinado na impetração.
+É o relatório.
+EMENTA
+Direito processual penal. Agravo regimental. INADEQUAÇÃO DA VIA ELEITA. REVISÃO CRIMINAL. INCOMPETÊNCIA DO STJ. AGRAVO REGIMENTAL IMPROVIDO.
+I. Caso em exame
+1. Agravo regimental interposto contra decisão que indeferiu liminarmente habeas corpus impetrado com o objetivo de absolver o paciente da imputação do crime de receptação qualificada ou, subsidiariamente, desclassificar a conduta para receptação culposa.
+2. O acórdão impugnado transitou em julgado, não havendo julgamento de mérito no Superior Tribunal de Justiça passível de revisão.
+II. Questão em discussão
+3. A questão em discussão consiste em saber se o habeas corpus pode ser conhecido como substitutivo de revisão criminal, considerando que o acórdão impugnado já transitou em julgado e não houve inauguração da competência do Superior Tribunal de Justiça.
+III. Razões de decidir
+4. O Superior Tribunal de Justiça não possui competência para processar habeas corpus como substitutivo de revisão criminal em hipóteses nas quais não houve inauguração de sua competência, conforme disposto no art. 105, inciso I, alínea "e", da Constituição da República.
+5. A jurisprudência do STJ é pacífica no sentido de que o habeas corpus não é a via adequada para o revolvimento de provas e fatos, sendo descabido utilizá-lo para pleitear absolvição ou desclassificação de conduta.
+6. Não há processo em curso que possibilite a concessão de habeas corpus de ofício nos termos do art. 654, § 2º, do Código de Processo Penal.
+IV. Dispositivo e tese
+7. Resultado do Julgamento: Agravo regimental improvido.
+Tese de julgamento:
+1. O habeas corpus não pode ser utilizado como substitutivo de revisão criminal em hipóteses nas quais não houve inauguração da competência do Superior Tribunal de Justiça. 2. A via do habeas corpus não é adequada para o revolvimento de provas e fatos, sendo descabido utilizá-lo para pleitear absolvição ou desclassificação de conduta. Dispositivos relevantes citados:
+CR/1988, art. 105, I, "e"; CPP, art. 654, § 2º.
+Jurisprudência relevante citada:STJ, AgRg no HC 903.400/RS, Rel. Min. Messod Azulay Neto, Quinta Turma, DJe 17.06.2024; STJ, AgRg no HC 885.889/RS, Rel. Min. Ribeiro Dantas, Quinta Turma, DJe 13.06.2024; STJ, AgRg no HC 852.988/SP, Rel. Min. Rogerio Schietti Cruz, Sexta Turma, DJe 12.06.2024; STJ, AgRg no HC 908.528/MG, Rel. Min. Messod Azulay Neto, Quinta Turma, DJe 28.05.2024; STJ, AgRg no HC 883.647/MG, Rel. Min. Sebastião Reis Júnior, Sexta Turma, DJe 15.05.2024; STJ, AgRg no HC 887.735/PE, Rel. Min. Ribeiro Dantas, Quinta Turma, DJe 25.04.2024; STJ, HC 790.768/SP, Rel. Min. Daniela Teixeira, Quinta Turma, DJe 10.04.2024; STJ, AgRg no HC 757.635/SC, Rel. Min. Teodoro Silva Santos, Sexta Turma, DJe 15.03.2024; STJ, AgRg no HC 825.424/SP, Rel. Min. Antonio Saldanha Palheiro, Sexta Turma, DJe 03.07.2024; STJ, AgRg no HC 820.174/SP, Rel. Min. Rogerio Schietti Cruz, Sexta Turma, DJe 15.08.2024; STJ, AgRg no HC 913.826/SP, Rel. Min. Antonio Saldanha Palheiro, Sexta Turma, DJe 03.07.2024; STJ, AgRg no HC 979.816/SP, Rel. Min. Rogerio Schietti Cruz, Sexta Turma, DJEN 24.03.2025; STJ, AgRg no HC 912.611/SP, Rel. Min. Jesuíno Rissato (Desembargador Convocado do TJDFT), Sexta Turma, DJe 16.08.2024; STJ, AgRg no HC 813.788/CE, Rel. Min. Laurita Vaz, Sexta Turma, DJe 29.06.2023; STJ, AgRg no AgRg no AgRg no AREsp 2.407.640/SP, Rel. Min. Joel Ilan Paciornik, Quinta Turma, DJe 29.04.2024; STJ, AgRg no HC 830.059/RJ, Rel. Min. Antonio Saldanha Palheiro, Sexta Turma, DJEN 08.05.2025.
+VOTO
+Razão não assiste ao agravante.
+Consoante informação obtida no sítio eletrônico do Tribunal a quo, ocorreu o trânsito em julgado do acórdão impugnado.
+Ou seja, o presente Habeas Corpus foi impetrado contra condenação proferida na origem já transitada em julgado e não há, neste Tribunal, julgamento de mérito em relação à ela passível de revisão.
+Segundo a jurisprudência do STJ, não deve ser conhecido o writ manejado como substitutivo de revisão criminal em hipótese na qual não houve inauguração da competência desta Corte.
+Isso porque, consoante o artigo 105, inciso I, alínea e, da Constituição Federal, compete ao Superior Tribunal de Justiça julgar, originariamente, somente as revisões criminais e as ações rescisórias de seus próprios julgados.
+Nesse sentido, vale citar os seguintes julgados colegiados desta Corte: AgRg no HC n. 903.400/RS, Rel. Ministro Messod Azulay Neto, Quinta Turma; DJe de 17.6.2024; AgRg no HC n. 885.889/RS, Rel. Ministro Ribeiro Dantas, Quinta Turma, DJe de 13.6.2024; AgRg no HC n. 852.988/SP, Rel. Ministro Rogerio Schietti Cruz, Sexta Turma, DJe de 12.6.2024; AgRg no HC n. 908.528/MG, relator Ministro Messod Azulay Neto, Quinta Turma, DJe de 28.5.2024; AgRg no HC n. 883.647/MG, Rel. Ministro Sebastião Reis Júnior, Sexta Turma, DJe de 15.5.2024; AgRg no HC n. 887.735/PE, Rel. Ministro Ribeiro Dantas, Quinta Turma, DJe de 25.4.2024; HC n. 790.768/SP, Rel. Ministra Daniela Teixeira, Quinta Turma, DJe de 10.4.2024; AgRg no HC n. 757.635/SC, Rel. Ministro Teodoro Silva Santos, Sexta Turma, DJe de 15.3.2024; AgRg no HC n. 825.424/SP, Rel. Ministro Antonio Saldanha Palheiro, Sexta Turma, DJe de 3.7.2024; AgRg no HC n. 820.174/SP, Rel. Ministro Rogerio Schietti Cruz, Sexta Turma, DJe de 15.8.2024; AgRg no HC n. 913.826/SP, Rel. Ministro Antonio Saldanha Palheiro, Sexta Turma, DJe de 3.7.2024.
+Ademais, não detendo o STJ competência para o processamento do presente writ, não está em curso processo que possibilite a concessão de Habeas Corpus de ofício nos termos do § 2º do artigo 654 do Código de Processo Penal (AgRg no HC n. 979.816/SP, relator Ministro Rogerio Schietti Cruz, Sexta Turma, DJEN de 24/3/2025; AgRg no HC n. 912.611/SP, relator Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), Sexta Turma, DJe de 16/8/2024; AgRg no HC n. 813.788/CE, relatora Ministra Laurita Vaz, Sexta Turma, DJe de 29/6/2023; AgRg no AgRg no AgRg no AREsp n. 2.407.640/SP, relator Ministro Joel Ilan Paciornik, Quinta Turma, DJe de 29/4/2024; AgRg no HC n. 830.059/RJ, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, DJEN de 8/5/2025).
+Além disso, é cediço que a via do habeas corpus não é adequada para o revolvimento de provas e fatos, sendo descabido falar em absolvição ou desclassicação da conduta,
+Ante o exposto, nego provimento ao agravo.
+É o voto.
