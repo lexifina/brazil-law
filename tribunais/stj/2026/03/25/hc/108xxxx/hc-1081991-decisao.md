@@ -1,0 +1,33 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de HENRIQUE OSANO SOTENA (ou HENRIQUE OSANO SOSTENA) no qual se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DO PARANÁ (Revisão Criminal n. 0125584-85.2025.8.16.0000).
+Consta dos autos que o paciente foi condenado, pela prática do crime previsto no art. 33, caput, da Lei n. 11.343/2006, à pena de 6 (seis) anos de reclusão, no regime inicial fechado, além do pagamento de 600 (seiscentos) dias-multa.
+O Tribunal de origem negou provimento ao recurso de apelação defensivo. Posteriormente, a Defesa ajuizou revisão criminal, a qual foi conhecida parcialmente e, na extensão conhecida, foi julgada improcedente.
+Neste writ, a parte impetrante sustenta a nulidade das provas decorrente de busca domiciliar, ao argumento de ausência de fundadas razões.
+Argumenta que não há provas suficientes para a condenação pela prática do crime de tráfico de drogas.
+Requer, liminarmente, a suspensão dos efeitos da condenação e a expedição de alvará de soltura em favor do paciente. No mérito, pleiteia a absolvição do paciente ou a readequação da dosimetria, com a consequente fixação de regime inicial menos gravoso.
+É o relatório.
+Decido.
+Inicialmente, verifica-se que as alegações de que não há provas suficientes para a condenação pela prática do crime de tráfico de drogas, bem como de readequação da dosimetria e fixação de regime inicial menos gravoso não foram examinadas pelo Tribunal de origem no acórdão impugnado, o que impede a manifestação originária desta Corte, sob pena de supressão de instância. A Corte local salientou que (fl. 41):
+Destarte, por todo o exposto, considerando-se que o pedido de desclassificação do crime de tráfico de drogas para o delito previsto no artigo 28 da Lei de Drogas sequer fora oportunamente suscitado pela Defesa e que os demais pleitos absolutórios e de revisão da carga penal e do regime de cumprimento de pena se tratam de mera reprise do que já fora devidamente analisada por este Tribunal de Justiça, em recurso próprio de apelação criminal, revela-se o inviável conhecimento da presente revisão criminal, nestes particulares aspectos, por restar configurada nítida inovação recursal, o que implica em manifesta supressão de instância.
+A propósito:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. CRIME DE RESPONSABILIDADE DE PREFEITO. FALSIDADE IDEOLÓGICA, POR 13 VEZES. NULIDADE. QUEBRA DE SIGILO TELEFÔNICO E TELEMÁTICO. INEXISTÊNCIA DE DILIGÊNCIA PRÉVIA. SUPRESSÃO DE INSTÂNCIA. AUSÊNCIA DE FLAGRANTE ILEGALIDADE. DIVERSAS DILIGÊNCIAS PREPARATÓRIAS. AGRAVO REGIMENTAL DESPROVIDO.
+(..)
+2. O Tribunal de origem não analisou o tema no viés ora delineado pela defesa, ficando esta Corte impedida de apreciar a matéria, sob pena de indevida supressão de instância.
+(..)
+5. Agravo regimental desprovido.
+(AgRg no HC n. 864.854/SP, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 2/9/2025, DJEN de 9/9/2025.)
+No tocante à alegação nulidade das provas decorrente de busca domiciliar, ao argumento de ausência de fundadas razões, constata-se que a matéria, também, não foi apreciada pelo Tribunal de origem no acórdão impugnado. No caso, verifica-se que a Corte local apreciou a alegada ausência de fundadas suspeitas para a busca pessoal (fls. 47-52). Dessa forma, este Superior Tribunal de Justiça não pode dela conhecer, sob pena de indevida supressão de instância.
+A propósito:
+AGRAVO REGIMENTAL EM HABEAS CORPUS SUBSTITUTIVO DE RECURSO. HOMICÍDIO QUALIFICADO TENTADO. CONDENAÇÃO PELO TRIBUNAL DO JÚRI. CONFIRMAÇÃO EM SEDE DE APELAÇÃO. INDEFERIMENTO DO DIREITO DE RECORRER EM LIBERDADE. MATÉRIA NÃO APRECIADA PELA CORTE A QUO. SUPRESSÃO DE INSTÂNCIA. FUNDAMENTOS JÁ APRECIADOS POR ESTA CORTE. SUPERVENIÊNCIA DE APRECIAÇÃO DO TEMA 1.068 DA REPERCUSSÃO GERAL DO SUPREMO TRIBUNAL FEDERAL. SUPERAÇÃO DA MATÉRIA ARGUIDA. AGRAVO DESPROVIDO.
+1. O habeas corpus não pode ser utilizado como substitutivo de recurso próprio, a fim de que não se desvirtue a finalidade dessa garantia constitucional, com a exceção de quando a ilegalidade apontada é flagrante, hipótese em que se concede a ordem de ofício.
+2. Os fundamentos apresentados para a decretação da prisão já foram objeto de análise por esta Corte, nos autos do HC n. 850.754/SP, sendo considerados idôneos, dado o brutal modus operandi. Ao proferir a sentença condenatória, o magistrado indeferiu o direito de recorrer em liberdade, mantendo os fundamentos prévios.
+3. O Tribunal, ao julgar o apelo, reajustou tão somente a pena imposta, não se manifestando a respeito da manutenção da prisão, eis que a defesa não requereu em seu recurso a revogação, não havendo que se falar em obrigação de o Tribunal de origem examinar a matéria de ofício. Ademais, não foram opostos embargos com finalidade de suprir tal omissão.
+4. Nesse contexto, por não ter sido analisada pelo acórdão impugnado, a referida alegação não pode ser apreciada no presente writ pelo Superior Tribunal de Justiça, sob pena de indevida supressão de instância.
+5. Ademais, ainda que assim não fosse, não se constata qualquer alteração fática - exceto a superveniência da condenação por duas instâncias - a justificar nova análise dos motivos da custódia.
+6. Conforme jurisprudência desta Corte, tendo o réu permanecido preso durante todo o andamento da ação penal, não faria sentido, ausentes alterações nas circunstâncias fáticas, que, com a superveniência da condenação, fosse deferida a liberdade.
+7. Além disso, no dia 12/9/2024, o plenário do Supremo Tribunal, por maioria, apreciando o tema 1.068 da repercussão geral, "deu interpretação conforme à Constituição, com redução de texto, ao art. 492 do CPP, com a redação da Lei n. 13.964/2019, excluindo do inciso I da alínea "e" do referido artigo o limite mínimo de 15 anos para a execução da condenação imposta pelo corpo de jurados", fixando a tese de que " a  soberania dos veredictos do Tribunal do Júri autoriza a imediata execução de condenação imposta pelo corpo de jurados, independentemente do total da pena aplicada".
+8. Diante desse recente julgamento pelo Supremo Tribunal federal, estabelecendo que a norma prevista na alínea e do inciso I do art. 492 do CPP é valida e está em plena vigência, independente da pena aplicada, revela-se superada a discussão a respeito da presença dos requisitos autorizadores contidos no art. 312 do Código de Processo Penal.
+9. Agravo desprovido. (AgRg no HC n. 966.822/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 5/3/2025, DJEN de 10/3/2025.)
+Ante o exposto, indefiro liminarmente o presente habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
