@@ -1,0 +1,15 @@
+DECISÃO
+Cuida-se de reclamação aforada por REAL AUTO ONIBUS LTDA EM RECUPERAÇÃO JUDICIAL contra decisão proferida pelo r. juízo da 2ª Vara do Trabalho do Rio de Janeiro/RJ, nos autos do processo n.º 0100092-20.2026.5.01.0002, o qual segundo aponta a reclamante ofende a autoridade da decisão exarada no CC 196.727/RJ.
+Argumenta, em resumo, que "(..) ao determinar a realização de bloqueio de contas, concomitantemente ao confisco de subsídios municipais e retenção da bilhetagem a Justiça do Trabalho reeditou exatamente o ato proibido pelo STJ, em processo envolvendo as mesmas partes e a mesma discussão jurídica."
+Entende, assim, presentes os requisitos para o manejo da presente reclamação e, na oportunidade, pede o seu acolhimento a fim de cassar a decisão impugnada (fls. 2/29).
+É o relatório.
+Decisão.
+1. A reclamação amparada no art. 105, I, f, da Constituição da República é remédio destinado a preservar a competência do Superior Tribunal de Justiça sempre que haja indevida usurpação por parte de outros órgãos judiciais ou para garantir a autoridade de suas decisões.
+A esse propósito, destaca-se que, de acordo com a uníssona orientação jurisprudencial, o ajuizamento da reclamação, tendo por finalidade garantir a autoridade de suas decisões, pressupõe a existência de um comando positivo cuja eficácia deva ser assegurada, protegida e conservada.
+Nesse sentido, confiram-se os seguintes precedentes: AgInt nos EDcl na Rcl 36.498/SP, SEGUNDA SEÇÃO, julgado em 19/03/2019, DJe 29/03/2019; AgInt na Rcl 32.352/RS, Rel. Ministra REGINA HELENA COSTA, PRIMEIRA SEÇÃO, DJe de 03/05/2017; Agint na Rcl 32.938/MS, Rel. Min. RICARDO VILLAS BÔAS CUEVA, DJe de 07/03/2017.
+Na mesma linha hermenêutica: Tércio Sampaio Ferraz Júnior. Reclamação Constitucional no Direito Processual Civil. Rio de Janeiro: Forense, 2018; Humberto Theodoro Júnior. Curso de Direito Processual Civil, vol. III, 47ª ed. Rio de Janeiro: Forense, 2016, p. 1.133 e Cássio Scarpinella Bueno. Novo Código de Processo Civil Anotado. 2ª. ed. revista, atualizada e ampliada, São Paulo: Editora Saraiva, 2016, p. 399 e 738-739.
+Na hipótese, da leitura da referida ora impugnada não se identifica, a despeito dos argumentos do reclamante, o descumprimento a comando deste STJ porquanto proferida nos autos do processo n.º 0100092.20.2026.5.01.0002, distinto ao mencionado no CC 196.727/RJ, que envolveu o Procedimento Especial de Execução Forçada n.º 0011118- 55.2013.5.01.0004, movido por WALLACE JOSÉ RAVANI FERREIRA contra a suscitante, circunstância distinta ao caso dos autos.
+Não se revela, sendo esse o contexto jurídico e processual, o descumprimento, pela autoridade ora reclamada, à deliberação deste STJ proferida no citado conflito de competência, sendo de rigor, portanto, a rejeição do presente instrumento processual ante a ausência de seus correlatos requisitos.
+2. Do exposto, com fundamento no art. 34, I, do RISTJ, indefiro liminarmente a presente reclamação.
+Publique-se. Intimem-se. Após, arquivem-se.
+EMENTA
