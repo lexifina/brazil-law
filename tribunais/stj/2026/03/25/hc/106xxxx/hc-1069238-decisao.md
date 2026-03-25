@@ -1,0 +1,31 @@
+DECISÃO
+Trata-se de habeas corpus com pedido liminar impetrado em benefício de ROMERO SANTIAGO DA SILVA no qual se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DA PARAÍBA (Apelação n. 0802586-88.2023.8.15.2002).
+Depreende-se dos autos que o ora paciente foi condenado como incurso no art. 33, caput, art. 35, caput, e art. 40, incisos III e V, todos da Lei n. 11.343/2006 e absolvido do crime previsto no art. 2º da Lei n. 12.850/2013. A pena foi fixada em 26 anos e 2 meses de reclusão, em regime fechado, além do pagamento de 3.926 dias-multa, tendo-lhe sido negado o direito de recorrer em liberdade.
+Daí o presente writ, no qual alega a defesa estar configurado constrangimento ilegal pelo excesso de prazo para julgamento da apelação e, por conseguinte, da prisão cautelar.
+Aduz, nesse sentido, que "o processo baixou à origem desde 18/11/2025 para saneamento de um problema técnico e, desde então, está totalmente paralisado" (e-STJ fl. 4).
+Pondera que o paciente está preso desde 12/12/2022, a sentença foi proferida em 19/11/2024 e o recurso de apelação foi interposto em 21/11/2024.
+Requer, inclusive liminarmente, o relaxamento da prisão preventiva do paciente.
+Liminar indeferida e informações prestadas.
+Parecer do Ministério Público Federal pela denegação da ordem.
+É o relatório.
+Decido.
+Quanto à alegação de excesso de prazo para o julgamento do recurso de apelação da defesa, esta Corte tem reiterada jurisprudência de que a análise do excesso de prazo para o julgamento da apelação deve levar em consideração o quantum de pena aplicada na sentença condenatória.
+Na presente situação, o paciente foi condenado, em 19/11/2024, a 26 anos e 2 meses de reclusão, pena a ser cumprida no regime fechado, e a apelação foi recebida em 1º/4/2025.
+Inicialmente, conforme consignado na decisão que indeferiu o pedido liminar, "recentemente, em 23/10/2025, a Sexta Turma, ao apreciar o HC n. 1.031.639/PB, afastou o excesso de prazo no julgamento da apelação apontado pela defesa do paciente, consignando estar dentro dos limites da razoabilidade o transcurso de 6 meses entre a interposição do recurso e a data do julgamento" (e-STJ fl. 714, grifei).
+As informações apresentadas pelas instâncias ordinárias noticiam que, posteriormente, os autos foram remetidos à origem para diligências, a fim de sanar problemas técnicos com os áudios da audiência de instrução.
+Constata-se, ainda, que a diligência já foi cumprida e os autos foram encaminhados ao Tribunal de origem.
+Em 5/3/2026, os autos foram conclusos, com determinação de abertura de vista ao Ministério Público, para posterior julgamento do recurso de apelação.
+Diante desse cenário, parece-me estar dentro dos limites da razoabilidade o prazo aguardado para o julgamento da apelação até a presente data, notadamente porque os autos já retornaram ao Tribunal de origem, em 5/3/2026, após o cumprimento de diligências, bem como porque constatado o regular impulsionamento do feito pela instância ordinária.
+Nesse sentido:
+HABEAS CORPUS. TRÁFICO DE DROGAS E ASSOCIAÇÃO PARA O TRÁFICO. EXCESSO DE PRAZO PARA O JULGAMENTO DA APELAÇÃO. NÃO OCORRÊNCIA. RAZOABILIDADE. CONSTRANGIMENTO ILEGAL NÃO EVIDENCIADO. ORDEM DENEGADA.
+1. A aferição do excesso de prazo reclama a observância da garantia da duração razoável do processo, prevista no art. 5º, LXXVIII, da Constituição Federal. Tal verificação, contudo, não se realiza de forma puramente matemática. Reclama, ao contrário, um juízo de razoabilidade, no qual devem ser sopesadas as particularidades da causa.
+2. Na espécie, não se constata o alegado constrangimento ilegal, pois o decurso de aproximadamente 8 meses desde o registro e autuação do recurso no Tribunal de origem (recebimento da irresignação pela segunda instância em 28/7/2016) sem o seu julgamento não extrapola os limites da razoabilidade e está justificado na complexidade do feito, pois só a sentença apelada conta com mais de 60 folhas, sendo que, consoante se extrai dos autos e do andamento processual constante do endereço eletrônico do Tribunal de Justiça do Mato Grosso do Sul, todos os 5 réus recorreram e o Ministério Público já ofertou, em 6/12/2016, parecer, indo os autos à conclusão nessa mesma data. Ademais, é cediço que eventual excesso de prazo no julgamento da apelação deve ser aferido confrontando a quantidade de pena imposta na sentença condenatória, a qual, no caso, foi de 12 anos e 8 meses de reclusão, pela prática dos crimes de tráfico de drogas e associação para o tráfico, o que reforça a conclusão de que não há, na hipótese, desídia a ser atribuída ao órgão jurisdicional.
+3. Ordem denegada. (HC n. 374.706/MS, de minha relatoria, SEXTA TURMA, julgado em 6/4/2017, DJe 20/4/2017.)
+HABEAS CORPUS. LATROCÍNIO. PACIENTE CONDENADO À PENA TOTAL DE 25 ANOS E 8 MESES DE RECLUSÃO. REGIME FECHADO. EXCESSO DE PRAZO PARA O JULGAMENTO DA APELAÇÃO CRIMINAL. INOCORRÊNCIA. PRINCÍPIO DA RAZOABILIDADE. COMPLEXIDADE DO FEITO. DIVERSOS APELANTES. ORDEM DENEGADA.
+1. O excesso de prazo para o julgamento da apelação não pode ser medido apenas em razão do tempo decorrido para o julgamento do recurso, devendo ser apreciado, também, a partir do princípio da razoabilidade e da proporcionalidade, tendo em vista a complexidade da causa em julgamento.
+2. Eventual excesso de prazo no julgamento da apelação deve ser aferido em face da quantidade de pena imposta na sentença condenatória (HC n. 234.713/CE, Relator Ministro MARCO AURÉLIO BELLIZZE, Quinta Turma, julgado em 12/6/2012, DJe 28/6/2012).
+3. Considerando que a pena total a que foi condenado o paciente é de 25 anos e 8 meses de reclusão, bem como a complexidade da causa, que conta com 4 (quatro) réus, alguns foragidos, com defensores diversos, inexiste flagrante excesso de prazo no julgamento dos recursos, pois não demonstrado que, em razão da demora no julgamento das apelações, o paciente encontra-se impedido de usufruir de benefícios relativos à execução da pena, que já foi iniciada, tendo sido expedida a competente guia de execução provisória.
+4. Ordem denegada. (HC n. 389.662/MG, relator Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 16/5/2017, DJe 22/5/2017.)
+Ante o exposto, denego a ordem.
+Publique-se. Intimem-se.
+EMENTA
