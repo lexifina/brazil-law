@@ -1,0 +1,1 @@
+Art. 3º-B. Os custos incorridos pelo exportador com bens e serviços adquiridos no país do importador e as exportações realizadas a partir de países terceiros poderão ser financiados, conforme diretrizes e limites estabelecidos em regulamento do Poder Executivo federal, em consonância com as melhores práticas internacionais.

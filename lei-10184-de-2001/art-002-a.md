@@ -1,0 +1,1 @@
+Art. 2º-A Nas operações de financiamento ou de equalização vinculadas à exportação de bens ou serviços nacionais, o Tesouro Nacional poderá pactuar condições aceitas pela prática internacional aplicada a países, projetos ou setores com limitações de acesso a financiamento de mercado.
