@@ -1,0 +1,45 @@
+Trata-se de agravos interpostos contra decisões do Tribunal de Justiça do Estado de São Paulo (TJSP) que inadmitiram os recursos extraordinários com fundamento nas Súmulas 279 e 280 do Supremo Tribunal Federal, em relação ao primeiro agravante; e no Tema 660 da repercussão geral, bem como nas Súmulas 279, 280, 282 e 356 do Supremo Tribunal Federal, quanto ao segundo agravante.
+
+Os agravantes alegam que estão presentes os pressupostos processuais e sumulares para conhecimento do recurso.
+
+A WMS Supermercados do Brasil Ltda. sustenta, em síntese, que:
+
+A recorrente incorreu na multa prevista no art. 7º, § 1º, item 2, da Lei nº 12.685/2007, por deixar de registrar 60 (sessenta) documentos fiscais no Programa de Estímulo à Cidadania Fiscal do Estado de São Paulo (Nota Fiscal Paulista), e após o trâmite regular do feito, restou sedimentada a incidência da multa ao caso concreto em duplo grau de jurisdição.
+A aplicação da Lei 12.685/2007 não é objeto do presente recurso, e não busca a recorrente confrontar a penalidade aplicada com a demonstração de vulnerabilidade de lei ordinária, portanto não há violação a Súmula 280 do STF.
+Além disso, todas as provas que foram colacionadas nos autos já foram analisadas, não há dissenso quanto a isso. O que se busca, portanto, é a aplicabilidade do direito em consenso com os preceitos constitucionais, eis que a multa aplicada viola (E MUITO) princípios da constituição, não ensejando, portanto, a violação da Súmula 279 do STF (doc. 134, p. 4).
+
+O Estado de São Paulo alega, em suma, que busca:
+
+afastar a incidência da taxa selic aos créditos do Estado de natureza não tributária. A multa aplicada pelo Procon tem como base a lei Estadual 12.685, DE 28 DE AGOSTO DE 2007, art. 7º. Por outro lado, os consectários da mora aplicados pela Fazenda Pública estão indicados em Lei federal, como é o caso do art. 406, CC c/c art. 2º, Decreto-Lei 1736/79. Nesse caso, foram mantidos os índices previstos no título executivo – CDA – até a vigência da EC 113/2021, de forma que até aqui não há controvérsia.
+A controvérsia reside pós Ec 113/2021 pois o TJSP determinou a aplicação do incide de correção pela selic após a vigência da EC 113/2021 e a FESP entende que não se aplica o art. 3º, EC 113/2021 ao caso (doc. 128, p. 5).
+
+É o relatório. Decido.
+
+Bem examinados os autos, verifico que as decisões que não admitiram os recursos extraordinários não merecem reforma.
+
+Inicialmente, observo que o acórdão recorrido está alinhado à jurisprudência do Supremo Tribunal Federal sobre a incidência da Selic na atualização monetária de valores que envolvam a condenação da Fazenda Pública. Confira-se:
+
+DIREITO TRIBUTÁRIO. EXECUÇÃO FISCAL. AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO COM AGRAVO. CONDENAÇÃO DA FAZENDA PÚBLICA. CONSECTÁRIOS LEGAIS. ATUALIZAÇÃO MONETÁRIA. EC. 113/2021. INCIDÊNCIA DA TAXA SELIC A PARTIR DE 9/12/2021. ACÓRDÃO EM HARMONIA COM A JURISPRUDÊNCIA DO SUPREMO TRIBUNAL FEDERAL. AGRAVO REGIMENTAL IMPROVIDO. I — Consoante entendimento do Supremo Tribunal Federal, nas discussões e nas condenações que envolvam a Fazenda Pública, independentemente de sua natureza e para fins de atualização monetária, deverá incidir, uma única vez, até o efetivo pagamento, o índice da taxa referencial do Sistema Especial de Liquidação e de Custódia (Selic), a partir de 9/12/2021, data da publicação da Emenda Constitucional 113/2021. II — Agravo regimental a que se nega provimento (ARE 1.527.697 AgR, da minha relatoria, Primeira Turma, DJe 27/2/2025).
+
+No mais, para divergir do entendimento firmado pelo TJSP, seria necessária a análise de legislação infraconstitucional e do conjunto fático-probatório dos autos, encontrando, assim, o óbice das Súmulas 279 e 280 do Supremo Tribunal Federal. Nessa linha:
+
+Ementa: DIREITO ADMINISTRATIVO E TRIBUTÁRIO. AGRAVO INTERNO EM EMBARGOS DE DECLARAÇÃO EM RECURSO EXTRAORDINÁRIO COM AGRAVO. PRINCÍPIOS DO CONTRADITÓRIO, DA AMPLA DEFESA, DA COISA JULGADA E DO DEVIDO PROCESSO LEGAL. CONTRARIEDADE. REPERCUSSÃO GERAL NÃO CONFIGURADA. TEMA 660/RG. DOCUMENTOS FISCAIS. REGISTRO. AUSÊNCIA. PROCON. AUTO DE INFRAÇÃO. MULTA. LEI N. 12.685/2007 DO ESTADO DE SÃO PAULO. MATÉRIA INFRACONSTITUCIONAL. REEXAME DE FATOS E PROVAS. SÚMULAS 279 E 280/STF. RECURSO DESPROVIDO. VERBA HONORÁRIA. MAJORAÇÃO CABÍVEL. I. CASO EM EXAME 1. Agravo interno interposto de decisão que negou provimento ao recurso extraordinário com agravo ante: (i) a não configuração da repercussão geral da discussão relativa à transgressão aos princípios do contraditório, da ampla defesa, dos limites da coisa julgada e do devido processo legal; e (ii) a incidência dos óbices das Súmulas 279 e 280/STF. 2. A parte agravante alega insubsistentes os óbices apontados. II. QUESTÃO EM DISCUSSÃO 3. Há duas questões em discussão: (i) verificar se está configurada, no acórdão de origem, a violação dos arts. 5º, LIV e LV, da CF/1988; e (ii) saber se é adequado recurso extraordinário quando o deslinde da controvérsia, concernente à legitimidade da multa aplicada pelo Procon em decorrência da falta do registro de documentos fiscais, exigido pela legislação estadual instituidora do Programa de Estímulo à Cidadania Fiscal do Estado de São Paulo, pressupõe reanálise de legislação infraconstitucional e revolvimento de matéria fática. III. RAZÕES DE DECIDIR 4. O STF, no julgamento do ARE 748.371, piloto do Tema 660/RG, Rel. Min. Gilmar Mendes, rejeitou a repercussão geral da questão atinente à inobservância do direito adquirido, do ato jurídico perfeito, da coisa julgada ou dos princípios da legalidade, do contraditório, da ampla defesa e do devido processo legal, por articular a matéria impugnada, em tais casos, ofensa meramente reflexa à CF/1988. 5. Dissentir da conclusão alcançada na origem demandaria revolvimento de elementos fático-probatórios, providência inviável em sede de recurso extraordinário (Súmula 279/STF). 6. Havendo o Colegiado a quo decidido a questão a partir de interpretação conferida à legislação estadual de regência, não cabe o recurso extraordinário (Súmula 280/STF). IV. DISPOSITIVO 7. Agravo interno desprovido, com majoração da verba honorária (ARE 1.219.217 ED-AgR, Rel. Min. Nunes Marques, Segunda Turma, DJe 18/2/2026 —grifei).
+
+Ementa: Direito Administrativo. Agravo regimental em recurso extraordinário com agravo. Multa. PROCON. Ausência de registro de notas fiscais. Alegação de desproporcionalidade da sanção. Tema 339 da RG. Súmulas 279 e 280/STF. Ofensa reflexa. I. Caso em exame 1. Agravo regimental contra decisão que negou seguimento a recurso extraordinário com agravo, diante da incidência do tema 339 da RG, das Súmulas 279 e 280 do STF e da ofensa reflexa ao texto constitucional. II. Questão em discussão 2. Verificar se é possível superar os óbices apontados na decisão agravada. III. Razão de decidir 3. O STF já assentou que as decisões judiciais não precisam ser necessariamente analíticas, bastando que contenham fundamentos suficientes para justificar suas conclusões (AI 791.292-QO-RG, Rel. Min. Gilmar Mendes). 4. Para dissentir do entendimento firmado pelo Tribunal de origem, seria necessário reexaminar os fatos e provas constantes dos autos, bem como a legislação infraconstitucional pertinente, o que inviabiliza o processamento do apelo extremo, tendo em vista a vedação contida nas Súmulas 279 e 280 do STF e a ausência de ofensa direta à Constituição Federal. IV. Dispositivo 5. Agravo interno a que se nega provimento (ARE 1.586.961 AgR, Rel. Min. Edson Fachin, Tribunal Pleno, DJe 20/03/2026 — grifei).
+
+Destaco, ainda, ser necessário o prequestionamento dos dispositivos constitucionais apontados como violados. Assim, consoante a Súmula 282/STF, é inadmissível o recurso extraordinário, visto que a questão constitucional suscitada não foi apreciada no acórdão recorrido. Ademais, não opostos embargos declaratórios para suprir a omissão, é inviável o recurso, nos termos da Súmula 356/STF.
+
+Ademais, o art. 1.042, caput, do Código de Processo Civil não permite a interposição de agravo contra a decisão do Tribunal de origem que aplica a sistemática da repercussão geral, conforme se observa no texto do referido dispositivo:
+
+Art. 1.042. Cabe agravo contra decisão do presidente ou do vice-presidente do tribunal recorrido que inadmitir recurso extraordinário ou recurso especial, salvo quando fundada na aplicação de entendimento firmado em regime de repercussão geral ou em julgamento de recursos repetitivos(grifei).
+
+Posto isso, nego provimento ao recurso (art. 932 do CPC). Honorários advocatícios majorados em 1% (um por cento), observados os limites previstos nos §§ 2º, 3º e 11 do art. 85 do CPC, bem como a eventual concessão do benefício da gratuidade da Justiça.
+
+Advirto que a interposição de recurso contra esta decisão monocrática pode acarretar a imposição da multa prevista no art. 1.021, § 4º, do Código de Processo Civil, bem como nova majoração dos honorários advocatícios, nos termos do art. 85, § 11, do mesmo Código.
+
+Publique-se.
+
+Brasília, 25 de março de 2026.
+
+Ministro Cristiano Zanin
+Relator
