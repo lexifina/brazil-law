@@ -1,0 +1,16 @@
+DECISÃO
+Trata-se de recurso especial no qual PATOESTE ELETRO INSTALADORA LTDA. se insurgiu contra o acórdão do TRIBUNAL REGIONAL FEDERAL DA 4ª REGIÃO assim ementado (fl. 226):
+MANDADO DE SEGURANÇA. TRIBUTÁRIO. BASE DE CÁLCULO DO IRPJ E DA CSLL. BENEFÍCIOS FISCAIS DE ICMS: REDUÇÃO DE BASE DE CÁLCULO E ISENÇÃO. APLICAÇÃO DA ORIENTAÇÃO FIXADA PELO SUPERIOR TRIBUNAL DE JUSTIÇA (STJ) NO JULGAMENTO DO TEMA REPETITIVO 1.182, SEGUNDO A QUAL OS BENEFÍCIOS FISCAIS DE ICMS (EXCETO O CRÉDITO PRESUMIDO DE ICMS) ESTÃO SUJEITOS A TODOS OS REQUISITOS DO ART. 30 DA LEI Nº 12.973, DE 2014, AOS QUAIS NÃO PRETENDE SUBMETER-SE INTEGRALMENTE O CONTRIBUINTE, CONFORME AFIRMADO NA PETIÇÃO INICIAL E SUA EMENDA. CORRETA A SENTENÇA QUE DESCONSIDERA CRÉDITOS PRESUMIDOS DE ICMS E OUTROS BENEFÍCIOS FISCAIS NÃO ESPECIFICADOS NA INICIAL, OBSERVADA A REGRA DE QUE O PEDIDO DEVE SER DETERMINADO (CPC, ART. 324). DENEGAÇÃO IN TOTUM DO MANDADO DE SEGURANÇA.
+Os embargos de declaração opostos foram parcialmente providos (fls. 233/236).
+Em suas razões, a parte recorrente afirma (fl. 248) :
+Diante das razões demonstradas, requer-se pela exclusão dos créditos presumidos de ICMS da base de cálculo do IRPJ e da CSLL, aplicando o entendimento proferido no EREsp nº 1.517.492/PR, utilizando como fundamento para sua exclusão a violação do pacto federativo (art. 150, VI, "a", da CF/88).
+A parte adversa apresentou contrarrazões (fls. 253/262).
+O recurso foi admitido às fls. 288/291.
+É o relatório.
+A questão debatida nos autos foi afetada à Primeira Seção do Superior Tribunal de Justiça para ser decidida sob o rito de recursos repetitivos (Tema 1.416/STJ), e foi assim delimitada:
+Definir se os créditos presumidos do Imposto sobre Circulação de Mercadorias e Serviços - ICMS, concedidos pelos Estados-membros como incentivo fiscal à pessoa jurídica, podem ser excluídos das bases de cálculo do Imposto sobre a Renda de Pessoa Jurídica - IRPJ e da Contribuição Social sobre o Lucro Líquido - CSLL, nos regimes jurídicos anterior e posterior à Lei n. 14.789/2023. (REsps 2.221.127/PE, 2.171.374/RS, 2.188.361/RS, e 2.188.282/PR, relatora Ministra Regina Helena Costa ).
+Nos termos do art. 34, XXIV, c/c o art. 256-L, I, ambos do Regimento Interno do Superior Tribunal de Justiça, a admissão de recurso especial como representativo da controvérsia impõe a devolução ao Tribunal de origem dos processos em que foram interpostos recursos cuja matéria identifique-se com o tema afetado, para nele permanecerem suspensos até o fim do julgamento qualificado.
+O envio do recurso especial a esta Corte Superior deve ocorrer somente após o esgotamento da instância ordinária, formalizado com o novo julgamento pelo Tribunal de origem, quando então será possível examinar, no âmbito do STJ, as matérias jurídicas que eventualmente permanecerem controvertidas. Essa cautela também evita o fracionamento do recurso e previne eventual violação ao princípio da unicidade recursal, que veda a interposição simultânea ou sucessiva de recursos contra a mesma decisão.
+Ante o exposto, determino a devolução dos autos, com a devida baixa nesta Corte Superior, a fim de que, em observância aos arts. 1.039 a 1.041 do Código de Processo Civil (CPC), o Tribunal de origem proceda nos termos do art. 1.040 e seguinte do mesmo CPC.
+Publique-se. Intimem-se.
+ EMENTA
