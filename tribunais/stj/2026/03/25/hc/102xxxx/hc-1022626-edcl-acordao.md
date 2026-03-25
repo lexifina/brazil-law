@@ -1,0 +1,46 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEXTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 19/03/2026 a 25/03/2026, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Sebastião Reis Júnior, Antonio Saldanha Palheiro e Carlos Pires Brandão votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Carlos Pires Brandão.
+Não participou do julgamento o Sr. Ministro Rogerio Schietti Cruz.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO HABEAS CORPUS. VÍCIO. INEXISTÊNCIA.
+1. Os embargos de declaração, conforme dispõe o art. 619 do Código de Processo Penal, destinam-se a sanar ambiguidade, obscuridade, contradição ou omissão, sendo admissíveis, também, para corrigir eventual erro material na decisão embargada.
+2. O não conhecimento do habeas corpus foi fundamentado, de modo suficiente, ante a impossibilidade de impetração contra ato transitado em julgado, por demandar o ajuizamento de revisão criminal. Foi afastada, ademais, a arguida ilegalidade flagrante.
+3. Ausente qualquer vício, constata-se a mera discordância da solução adotada pelo acórdão e a pretensão de nova análise do recurso anterior, inviável em embargos de declaração.
+4. Consoante entendimento do Superior Tribunal de Justiça, o magistrado não está obrigado a responder a todas as alegações das partes, tampouco a rebater, um a um, todos os seus argumentos, desde que os fundamentos utilizados tenham sido suficientes para embasar a decisão, como ocorre no caso.
+5. Embargos de declaração rejeitados.
+RELATÓRIO
+Trata-se de embargos de declaração opostos por CARLOS ALBERTO PEREIRA contra o acórdão de fls. 336-337, que negou provimento ao agravo regimental no habeas corpus.
+A defesa sustenta que há contradição interna no fundamento adotado, pois o acórdão de origem reconheceu ser "certo e notório" que o réu ficou lesionado após a abordagem policial e, em seguida, tratou as mesmas lesões como "eventuais", o que exigiria esclarecimento específico sobre o alcance desse reconhecimento fático.
+Argumenta que persiste obscuridade quanto ao nexo causal utilizado para justificar a agressividade da abordagem, porque o ato de cuspir na face de um dos agentes e o subsequente tratamento retroviral seriam concomitantes ou posteriores à contenção física, não podendo servir de justificativa retroativa para lesões já admitidas como notórias.
+Defende que a análise dos vídeos juntados aos autos (fl. 69) foi insuficiente e conclusiva, sem descrição do conteúdo capaz de demonstrar a inexistência de excesso policial, limitando-se a afirmar que as imagens apenas confirmariam o "estado nervoso" do réu, quando esse estado pode decorrer da própria agressão.
+Expõe que o acórdão, ao afastar "tortura ou prática congênere", teria ignorado a tese específica de violência desnecessária e omitido exame sobre o emprego de força além do indispensável, nos termos do art. 284 do CPP, ponto que, por si, poderia contaminar a prova colhida.
+Alega, por fim, que a afirmação de que lesões seriam "naturais" em cenários de confronto é obscura e insuficiente, pois a naturalidade do confronto não dispensa o dever legal de moderação. Ademais, sustenta que, uma vez reconhecidas lesões certas e notórias, caberia fundamentar por que elas decorreriam apenas da força estritamente necessária, e não de excesso que tornaria a prova ilícita.
+Busca o acolhimento dos embargos para que seja suprido o vício apontado e a reforma do acórdão impugnado.
+É o relatório.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO HABEAS CORPUS. VÍCIO. INEXISTÊNCIA.
+1. Os embargos de declaração, conforme dispõe o art. 619 do Código de Processo Penal, destinam-se a sanar ambiguidade, obscuridade, contradição ou omissão, sendo admissíveis, também, para corrigir eventual erro material na decisão embargada.
+2. O não conhecimento do habeas corpus foi fundamentado, de modo suficiente, ante a impossibilidade de impetração contra ato transitado em julgado, por demandar o ajuizamento de revisão criminal. Foi afastada, ademais, a arguida ilegalidade flagrante.
+3. Ausente qualquer vício, constata-se a mera discordância da solução adotada pelo acórdão e a pretensão de nova análise do recurso anterior, inviável em embargos de declaração.
+4. Consoante entendimento do Superior Tribunal de Justiça, o magistrado não está obrigado a responder a todas as alegações das partes, tampouco a rebater, um a um, todos os seus argumentos, desde que os fundamentos utilizados tenham sido suficientes para embasar a decisão, como ocorre no caso.
+5. Embargos de declaração rejeitados.
+VOTO
+O art. 619 do Código de Processo Penal disciplina que "aos acórdãos proferidos pelos Tribunais de Apelação, câmaras ou turmas, poderão ser opostos embargos de declaração, no prazo de dois dias contados da sua publicação, quando houver na sentença ambiguidade, obscuridade, contradição ou omissão", tendo a jurisprudência os admitido, também, para sanar eventual erro material na decisão embargada.
+No caso, é inviável o acolhimento da pretensão recursal, uma vez que, conforme registrado no acórdão embargado, após o trânsito em julgado da condenação, o habeas corpus não pode ser utilizado como substitutivo de revisão criminal, sob pena de supressão de instância, em desconformidade com o art. 105, I, e, da Constituição Federal. Ademais, não foi constatada flagrante ilegalidade apta a autorizar concessão de ofício.
+Observa-se, a propósito, o que constou no voto condutor do acórdão recorrido (fls. 339-342):
+Conforme consignado na decisão ora agravada, o presente habeas corpus se volta contra ato judicial definitivo da instância de origem, constatando-se que o trânsito em julgado ocorreu em 27/4/2024 (fl. 84).
+A pretensão, portanto, é manejada como substitutiva de revisão criminal, para a qual seria competente a instância inferior, nos termos do que estabelece o art. 105, I, e, da Constituição Federal.
+Registre-se que a competência do Superior Tribunal de Justiça para julgar revisão criminal é limitada às hipóteses de revisão de seus próprios julgados, o que não é o caso dos autos.
+Nesse sentido:
+ ..
+Não há, ademais, teratologia ou manifesta ilegalidade para justificar a concessão da ordem de ofício, nos termos do art. 647-A do Código de Processo Penal.
+Consoante se extrai dos autos (fls. 12-13):
+Em que pese ser certo e notório que o réu ficou mesmo lesionado após a abordagem policial que desencadeou, afinal, a ação penal originária, tudo restou elucidado com a prova oral colhida, inclusive como já assentado desde a audiência de custódia de Carlos. Ora, tratou-se de abordagem prontamente repelida pelo réu, tanto que também processado pelo delito de resistência. Ou seja, natural que, diante desse cenário, eventuais lesões viessem à tona, inclusive em relações aos policiais envolvidos. Ocorrências envolvendo confrontos - para se dizer o mínimo - podem produzir consequências tristes e indesejadas para todos, mas que não necessariamente signifiquem abuso de autoridade por parte dos agentes estatais que, frise-se novamente, também ficaram certamente lesionados. Vale anotar que um dos agentes públicos até mesmo noticiou ter sido levado a tratamento retroviral, pois, assim como o réu, sangrou durante a ocorrência, além de ter sido cuspido na face por Carlos, tudo o que foi seguido de declarações - posteriormente infirmadas pelo próprio acusado - de sua soropositividade. Não há, assim, que se falar em tortura ou qualquer outra prática congênere que levasse à anulação de provas, restando preservada a abordagem policial, em que pese o lamento que se guarda quanto às consequências que dela decorreram, tributadas à agressividade do réu, lembrando que os vídeos colacionados à fl. 69 nem de longe comprovam a circunstância trazida pela Defesa, senão apenas confirma o estado nervoso de Carlos no momento de sua prisão na pequena cidade de origem dos fatos.
+Ante o exposto, nego provimento ao agravo regimental.
+Portanto, inexistindo vício a ser dissipado, a pretensão do recurso é de rediscussão dos fundamentos do acórdão, propósito inviável para o recurso em análise , nada havendo que se possa acolher.
+Ademais, "os embargos de declaração possuem fundamentação vinculada à presença de ambiguidade, obscuridade, contradição ou omissão a ser sanada, não se prestando à revisão do mérito do julgado" (EDcl no AgRg no AREsp n. 3.069.572/PA, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 3/2/2026, DJEN de 10/2/2026).
+Por fim, consoante entendimento do Superior Tribunal de Justiça, o magistrado não está obrigado a responder a todas as alegações das partes, tampouco a rebater, um a um, todos os seus argumentos, desde que os fundamentos utilizados tenham sido suficientes para embasar a decisão, como ocorre na espécie. Nesse sentido: AgRg no AREsp n. 2.372.869/RS, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 19/3/2024, DJe de 22/3/2024; e EDcl no AgRg no RHC n. 170.844/PE, relator Ministro Jesuíno Rissato - Desembargador convocado do TJDFT, Sexta Turma, julgado em 9/4/2024, DJe de 12/4/2024.
+Ante o exposto, rejeito os embargos de declaração.
+É como voto.
