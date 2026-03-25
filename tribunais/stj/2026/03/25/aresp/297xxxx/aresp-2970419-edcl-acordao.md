@@ -1,0 +1,45 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 19/03/2026 a 25/03/2026, por unanimidade, acolher os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Afrânio Vilela, Francisco Falcão, Maria Thereza de Assis Moura e Marco Aurélio Bellizze votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Teodoro Silva Santos.
+EMENTA
+PROCESSUAL CIVIL E ADMINISTRATIVO. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. OMISSÃO. EXISTÊNCIA. GRATUIDADE DE JUSTIÇA. HIPOSSUFICIÊNCIA FINANCEIRA. INCOMPATIBILIDADE COM PREPARO JÁ RECOLHIDO. EMBARGOS DE DECLARAÇÃO ACOLHIDOS , SEM EFEITOS MODIFICATIVOS.
+1. No julgamento do agravo interno, fundamentou-se que a parte agravante, no agravo em recurso especial, deixou de impugnar de forma específica o fundamento da decisão que não admitiu o recurso especial na origem, atraindo a incidência da Súmula n. 182 do STJ. Não foi abordado, no entanto, o pedido de gratuidade de justiça formulado pela parte.
+2. Hipótese na qual já ocorreu o recolhimento do preparo recursal voluntariamente, tendo, inclusive, ocorrido a distribuição da sucumbência, com a fixação dos honorários advocatícios.
+3. "O entendimento desta Corte Superi or consolidou-se no sentido de que o pagamento das custas - como no caso concreto, em que a parte recolheu o preparo do recurso especial - é incompatível com o pedido de gratuidade de justiça" (AgInt no AREsp 1.563.316/DF, relator Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 19/2/2020).
+4. Embargos de declaração acolhidos para sanar omissão, sem efeitos modificativos.
+RELATÓRIO
+Trata-se de embargos de declaração opostos por DENILSON DE ALMEIDA PARAGUASSU contra acórdão da Segunda Turma desta Corte, que negou provimento ao agravo interno, nos termos da seguinte ementa (fl. 433):
+PROCESSO CIVIL E ADMINISTRATIVO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. NÃO IMPUGNADO DE FORMA ESPECÍFICA O FUNDAMENTO DA DECISÃO DE INADMISSÃO DO APELO NOBRE. APLICAÇÃO DA SÚMULA N. 182 DO STJ. SÚMULA N. 7 DO STJ. INSURGÊNCIA GENÉRICA. AGRAVO INTERNO DESPROVIDO.
+1. A parte agravante, no agravo em recurso especial, deixou de impugnar de forma específica, o fundamento da decisão que não admitiu o recurso especial na origem. Incidência da Súmula n. 182 do STJ.
+2. Agravo interno desprovido.
+Alega a parte embargante que houve omissão quanto ao pedido de gratuidade de justiça, formulado no apelo nobre e no agravo interno.
+Sem impugnação (fl. 454).
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL E ADMINISTRATIVO. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. OMISSÃO. EXISTÊNCIA. GRATUIDADE DE JUSTIÇA. HIPOSSUFICIÊNCIA FINANCEIRA. INCOMPATIBILIDADE COM PREPARO JÁ RECOLHIDO. EMBARGOS DE DECLARAÇÃO ACOLHIDOS , SEM EFEITOS MODIFICATIVOS.
+1. No julgamento do agravo interno, fundamentou-se que a parte agravante, no agravo em recurso especial, deixou de impugnar de forma específica o fundamento da decisão que não admitiu o recurso especial na origem, atraindo a incidência da Súmula n. 182 do STJ. Não foi abordado, no entanto, o pedido de gratuidade de justiça formulado pela parte.
+2. Hipótese na qual já ocorreu o recolhimento do preparo recursal voluntariamente, tendo, inclusive, ocorrido a distribuição da sucumbência, com a fixação dos honorários advocatícios.
+3. "O entendimento desta Corte Superi or consolidou-se no sentido de que o pagamento das custas - como no caso concreto, em que a parte recolheu o preparo do recurso especial - é incompatível com o pedido de gratuidade de justiça" (AgInt no AREsp 1.563.316/DF, relator Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 19/2/2020).
+4. Embargos de declaração acolhidos para sanar omissão, sem efeitos modificativos.
+VOTO
+Os embargos de declaração devem ser parcialmente acolhidos, apenas para sanar a alegada omissão.
+Nos termos do comando normativo insculpido no art. 1.022 do Código de Processo Civil, o recurso integrativo tem como escopo corrigir omissões, obscuridades, contradições ou erros materiais eventualmente existentes no provimento judicial.
+No julgamento do agravo interno, fundamentou-se que a parte agravante, no agravo em recurso especial, deixou de impugnar de forma específica o fundamento da decisão que não admitiu o recurso especial na origem, atraindo a incidência da Súmula n. 182 do STJ. Não foi abordado, no entanto, o pedido de gratuidade de justiça formulado pela parte.
+Nesse ponto, o então Agravante afirma não possuir condições financeiras para arcar com as custas e demais despesas processuais, sem prejuízo de seu próprio sustento e de sua família, e aponta que a "simples declaração de hipossuficiência da pessoa natural, ainda que dotada de presunção iuris tantum, é suficiente ao deferimento do pedido de gratuidade de justiça quando não ilidida por outros elementos dos autos" (fl. 354).
+Alega que o fato de ter recolhido custas no curso do processo não é entrave para o pedido de gratuidade judicial, e que não podem ser adotados apenas critérios objetivos para aferição da hipossuficiência.
+Na presente hipótese, contudo, já ocorreu o recolhimento do preparo recursal voluntariamente (fls. 203-204), tendo, inclusive, ocorrido a distribuição da sucumbência, com a fixação dos honorários advocatícios (fl. 165).
+Ora: "O entendimento desta Corte Superior consolidou-se no sentido de que o pagamento das custas - como no caso concreto, em que a parte recolheu o preparo do recurso especial - é incompatível com o pedido de gratuidade de justiça" (AgInt no AREsp 1.563.316/DF, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 17/2/2020, DJe de 19/2/2020).
+No mesmo sentido (grifo nosso):
+RECURSO ESPECIAL. DIREITO CIVIL E PROCESSUAL CIVIL. AÇÃO DE ARBITRAMENTO DE HONORÁRIOS. CONTRATO DE PRESTAÇÃO DE SERVIÇOS ADVOCATÍCIOS. CLÁUSULA AD EXITUM. REVOGAÇÃO UNILATERAL E IMOTIVADA DO MANDATO. ACORDO POSTERIOR FIRMADO PELO EX-CLIENTE. CONDIÇÃO SUSPENSIVA. IMPLEMENTO. REEXAME DE FATOS E CLÁUSULAS CONTRATUAIS. IMPOSSIBILIDADE. SÚMULAS 5 E 7/STJ. GRATUIDADE DE JUSTIÇA. PRECLUSÃO
+LÓGICA. RECURSO ESPECIAL NÃO CONHECIDO.
+1. O recolhimento do preparo recursal constitui ato incompatível com o pleito de gratuidade de justiça, operando-se a preclusão lógica quanto ao benefício para o respectivo ato processual, o que impõe a manutenção do acórdão recorrido nesse ponto. A conduta de efetuar o pagamento das custas recursais contradiz a alegação de hipossuficiência financeira para o ato, demonstrando a capacidade da parte de arcar com os encargos e, consequentemente, a ausência de interesse no benefício para aquele momento processual, em consonância com a jurisprudência consolidada desta corte. Incidência da Súmula 83/STJ.
+2. A análise da ocorrência ou não do implemento da condição suspensiva para fins de exigibilidade dos honorários contratuais, incluindo a qualificação da revogação do mandato como imotivada e a interpretação dos termos do acordo celebrado entre o ex-cliente e o devedor na ação principal como "êxito", bem como a verificação de eventual sujeição do direito do advogado ao puro arbítrio da parte contratante, demandam o reexame do conjunto fático-probatório dos autos e a interpretação de cláusulas contratuais. A revisão desses pontos exigiria a reanálise das provas produzidas para aferir a motivação da revogação, a exegese das cláusulas do acordo para determinar seu alcance e seus efeitos sobre a condição de "êxito" originalmente pactuada, e a qualificação da conduta do ex-cliente, tarefas incompatíveis com a via estreita do recurso especial.
+3. Tal providência é vedada em recurso especial, a teor do que dispõem as Súmulas 5 e 7 do STJ.
+Assim, inviabilizada a análise da alegada violação dos arts. 121, 122, 123, inciso III, e 129 do Código Civil.
+4. Recurso especial não conhecido. (REsp n. 2.003.990/DF, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 10/11/2025, DJEN de 13/11/2025.)
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. AGRAVO EM RECURSO ESPECIAL. OMISSÃO. EXISTÊNCIA, PORÉM, SEM EFEITOS INFRINGENTES. RECURSO ACOLHIDO SEM EFEITOS MODIFICATIVOS.
+1. Hipótese em que, de fato, há omissão quanto ao pedido, formulado apenas no recurso de agravo interno, de concessão do benefício de gratuidade da justiça, o qual deve ser indeferido porque " o  entendimento desta Corte Superior consolidou-se no sentido de que o pagamento das custas - como no caso concreto, em que a parte recolheu o preparo do recurso especial - é incompatível com o pedido de gratuidade de justiça" (AgInt no AREsp 1.563.316/DF, relator Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 19/2/2020).
+2. Embargos de declaração acolhidos, sem efeitos modificativos. (EDcl no AgInt no AREsp n. 2.595.986/DF, relator Ministro Paulo Sérgio Domingues, Primeira Turma, julgado em 16/6/2025, DJEN de 23/6/2025.)
+Ante o exposto, ACOLHO os embargos de declaração, sem efeitos modificativos.
+É o voto.
