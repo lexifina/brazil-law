@@ -1,0 +1,37 @@
+DECISÃO
+Trata-se de recurso ordinário com pedido de liminar interposto por ALEXANDRE DA SILVA FREIRE desafiando acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO (HC n. 2299569-82.2025.8.26.0000).
+Consta dos autos a prisão em flagrante do recorrente, posteriormente convertida em custódia preventiva, decorrente da suposta prática dos delitos capitulados no art. 33, caput, c/c o art. 40, IV, da Lei n. 11.343/2006, e no art. 329, § 1º, do Código Penal, todos na forma do art. 69 do Código Penal.
+Em suas razões, sustenta o recorrente a ocorrência de constrangimento ilegal, porquanto a decisão que manteve a prisão preventiva careceria de fundamentação idônea e concreta, amparada em elementos frágeis, notadamente em suposto reconhecimento anterior feito por guardas civis municipais, sem exame dos documentos pessoais apresentados e sem motivação suficiente.
+Alega que não estão presentes os requisitos autorizadores da custódia cautelar, previstos no art. 312 do Código de Processo Penal.
+Argumenta que deixaram de ser explicitados os motivos para a não aplicação de medidas cautelares diversas da prisão do art. 319 do Código de Processo Penal, as quais se revelariam adequadas e suficientes ao caso concreto, em razão de predicados pessoais favoráveis do recorrente.
+Defende que é nulo o reconhecimento realizado em sede policial por violação aos parâmetros do art. 226 do Código de Processo Penal, por ter ocorrido em condições de baixa visibilidade, sem observância do procedimento formal, e desacompanhado de elementos externos de confirmação.
+Expõe que não há indícios suficientes de autoria e materialidade, porque o conjunto probatório seria vago e contraditório, apoiado apenas na palavra de agentes envolvidos na abordagem, sem lastro empírico robusto, o que inviabilizaria a manutenção da prisão cautelar.
+Afirma, ainda, que seria indevida a decretação de prisão preventiva, pois, na fase investigatória, caberia a prisão temporária para localização, reconhecimento formal e colheita de elementos sob contraditório, o que não foi observado.
+Indica que deve ocorrer a substituição da prisão preventiva por domiciliar, nos termos do art. 318, III, do CPP, por ser imprescindível aos cuidados de sua genitora, de 48 anos, diagnosticada com CID F20, esquizofrenia, que demanda administração de medicamentos três vezes ao dia, higiene, alimentação e acompanhamento a consultas médicas.
+Requer, liminarmente e no mérito, o relaxamento da prisão cautelar ou sua revogação, ainda que mediante a aplicação de medidas cautelares alternativas não prisionais, ou sua substituição pela prisão domiciliar.
+O pedido liminar foi indeferido.
+Ouvido, o Ministério Público Federal manifestou-se pelo desprovimento do presente inconformismo.
+É o relatório.
+Decido.
+Pois bem. Informações extraídas do endereço eletrônico do Tribunal de origem noticiam a superveniência de sentença condenatória em desfavor do recorrente na ação penal de que cuidam estes autos, ocasião em que lhe foi negado o direito de recorrer em liberdade.
+Assim, ficam sem objeto os pedidos contidos na inicial, porquanto a restrição da liberdade, agora, decorre de novo judicial.
+Do mesmo modo, especificamente no tocante às teses de nulidade, "proferida sentença na ação penal, com a análise exauriente da matéria relativa à suposta nulidade arguida pela Defesa, fica prejudicado o habeas corpus, devendo o novo título ser impugnado originalmente perante o Tribunal a quo, pois, segundo a jurisprudência desta Corte, a supressão de instância impede o conhecimento da pretensão defensiva" (AgRg no HC n. 830.729/SP, relator Ministro Teodoro Silva Santos, Sexta Turma, julgado em 12/12/2023, DJe de 15/12/2023).
+Em outras palavras, entende o Superior Tribunal de Justiça, guardadas as devidas particularidades, que "as razões expendidas pelo Juízo de primeiro grau para indeferir o pedido de nulidade em razão da busca pessoal não mais subsistem. Após encerrada a devida instrução processual, fundamentos diversos e complementares foram apresentados pelo magistrado sentenciante. Assim, diante do novo contexto fático, evidente a perda do objeto do presente reclamo. Os novos fundamentos devem ser submetidos perante o Tribunal a quo antes de serem aqui analisados, sob pena de incidir em indevida supressão de instância" (AgRg no RHC n. 188.040/SP, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 8/4/2024, DJe de 11/4/2024).
+Vejam-se, ainda, estes precedentes, mutatis mutandis:
+AGRAVO REGIMENTAL NO RECURSO ORDINÁRIO EM HABEAS CORPUS. PROCESSUAL PENAL. TRÁFICO DE DROGAS. TESE DE NULIDADE DAS PROVAS. SUPERVENIÊNCIA DE SENTENÇA CONDENATÓRIA. COGNIÇÃO PROFUNDA E EXAURIENTE DA ALEGAÇÃO. PREJUDICIALIDADE. PRISÃO PREVENTIVA. GRAVIDADE CONCRETA DOS FATOS. NECESSIDADE DE RESGUARDAR A ORDEM PÚBLICA. FUNDAMENTAÇÃO SUFICIENTE. PRECEDENTES. AGRAVO REGIMENTAL DESPROVIDO.
+1. Proferida sentença na ação penal, com a análise exauriente da matéria relativa à suposta nulidade arguida pela Defesa, fica prejudicado o habeas corpus, devendo o novo título ser impugnado originalmente perante o Tribunal a quo, pois, segundo a jurisprudência desta Corte, a supressão de instância impede o conhecimento da pretensão defensiva.
+2. A prisão preventiva foi adequadamente fundamentada a partir da análise particularizada da situação fática dos autos, tendo sido amparada na especial gravidade do delito, evidenciada não apenas em razão da existência de anterior condenação pela prática do crime do art. 16, da Lei n. 10.826/2003, mas notadamente a partir da quantidade de substância entorpecente apreendida, supostamente destinado a distribuição em estabelecimento prisional, o que justifica a custódia cautelar, nos termos da jurisprudência do Superior Tribunal de Justiça, como forma de resguardar a ordem pública.
+3. Agravo regimental desprovido.
+(AgRg no RHC n. 179.855/MG, relator Ministro Teodoro Silva Santos, Sexta Turma, julgado em 4/3/2024, DJe de 7/3/2024.)
+AGRAVO REGIMENTAL NO HABEAS CORPUS. PROCESSUAL PENAL. TRÁFICO DE DROGAS. TESE DE NULIDADE DAS PROVAS. SUPERVENIÊNCIA DE SENTENÇA CONDENATÓRIA. COGNIÇÃO PROFUNDA E EXAURIENTE DA ALEGAÇÃO. PEDIDO PREJUDICADO. AGRAVO REGIMENTAL DESPROVIDO.
+1. Proferida sentença na ação penal, com a análise exauriente da matéria relativa à suposta nulidade arguida pela Defesa, fica prejudicado o habeas corpus, devendo o novo título ser impugnado originalmente perante o Tribunal a quo, pois, segundo a jurisprudência desta Corte, a supressão de instância impede o conhecimento da pretensão defensiva.
+2. Agravo regimental desprovido.
+(AgRg no HC n. 830.729/SP, relator Ministro Teodoro Silva Santos, Sexta Turma, julgado em 12/12/2023, DJe de 15/12/2023.)
+PROCESSO PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO E ASSOCIAÇÃO PARA O TRÁFICO DE DROGAS. NULIDADE. BUSCA PESSOAL. SENTENÇA. SUPERVENIÊNCIA. SÚMULA N. 648/STJ. HABEAS CORPUS PREJUDICADO.
+1. De acordo com a jurisprudência consolidada desta Corte, "a superveniência da sentença condenatória prejudica o pedido de trancamento da ação penal por falta de justa causa feito em habeas corpus" (Súmula n. 648, Terceira Seção, julgado em 14/4/2021, DJe de 19/4/2021). Precedentes.
+2. Agravo regimental desprovido.
+(AgRg no HC n. 776.657/MG, de minha relatoria, Sexta Turma, julgado em 8/5/2023, DJe de 11/5/2023.)
+Assim, fica sem objeto este recurso.
+Ante o exposto, julgo prejudicado o presente recurso em habeas corpus.
+Publique-se. Intimem-se.
+ EMENTA
