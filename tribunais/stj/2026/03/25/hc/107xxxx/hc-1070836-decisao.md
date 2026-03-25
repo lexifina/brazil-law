@@ -1,0 +1,50 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em benefício de ALEXSANDRO GUERRA GOMES, contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO no julgamento do Habeas Corpus n. 2387283-80.2025.8.26.0000.
+Extrai-se dos autos que o Juízo da Vara de Execução Penal determinou a realização de exame criminológico, no âmbito do pedido de progressão de regime formulado pelo paciente.
+Irresignada, a defesa impetrou habeas corpus perante o Tribunal de origem, que não conheceu do writ, nos termos do acórdão que restou assim ementado (fls. 44/45):
+"DIREITO PROCESSUAL PENAL. HABEAS CORPUS. EXECUÇÃO PENAL. PROGRESSÃO DE REGIME. LEI Nº 14.843/2024. EXAME CRIMINOLÓGICO OBRIGATÓRIO. INADEQUAÇÃO DA VIA ELEITA. NÃO CONHECIMENTO.
+I. CASO EM EXAME Habeas corpus impetrado em favor de sentenciado recolhido ao regime semiaberto, visando à progressão ao regime aberto independentemente da realização do exame criminológico, sob o argumento de que a demora na perícia configuraria constrangimento ilegal. O Ministério Público opinou pela denegação da ordem.
+II. QUESTÃO EM DISCUSSÃO A questão em discussão consiste em definir se a exigência e a pendência de realização do exame criminológico - tornado obrigatório pela Lei nº 14.843/2024 - configuram constrangimento ilegal apto a justificar a concessão de progressão de regime pela via do habeas corpus.
+III. RAZÕES DE DECIDIR
+A Lei nº 14.843/2024 torna obrigatória a realização de exame criminológico para progressão de regime e livramento condicional, possuindo aplicação imediata e compatibilidade constitucional.
+O habeas corpus não se presta ao exame de questões incidentais da execução penal nem ao adiantamento do trâmite processual, sendo via inadequada para afastar a exigência legal do exame criminológico."
+No presente writ, a defesa sustenta constrangimento ilegal decorrente do excesso de prazo para a realização do exame criminológico, a despeito de o paciente ter cumprido o requisito objetivo necessário à progressão desde 29/9/2025, sem previsão de agendamento, em violação ao princípio da duração razoável do processo.
+Sustenta afronta ao art. 5º, LXXVIII, da Constituição Federal, que assegura a razoável duração do processo e os meios que garantam a celeridade de sua tramitação.
+Defende a possibilidade de apreciação do pedido de progressão com base em documentos oficiais constantes dos autos, como Boletim Informativo e Atestado de Pena, sem que a exigência do exame criminológico, inviabilizado por absoluta falta de estrutura estatal e sem previsão de realização, obste a análise do requisito subjetivo.
+Requer, em liminar e no mérito, a concessão da ordem para que o pedido de progressão de regime do paciente seja julgado com base no Boletim Informativo e no Atestado de Pena, independentemente da realização do exame criminológico; subsidiariamente, seja o paciente colocado em prisão domiciliar com uso de tornozeleira até a realização do referido exame.
+Liminar indeferida às fls. 65/67.
+Informações prestadas às fls. 73/88 e 89/98.
+Parecer do MPF opinando pelo não conhecimento do habeas corpus às fls. 102/106.
+É o relatório.
+Decido.
+Diante da hipótese de habeas corpus substitutivo de recurso próprio, a impetração sequer deveria ser conhecida, segundo orientação jurisprudencial do Supremo Tribunal Federal - STF e do próprio Superior Tribunal de Justiça - STJ.
+Contudo, considerando as alegações expostas na inicial, razoável a análise do feito para verificar a existência de eventual constrangimento ilegal que justifique a concessão da ordem de ofício.
+No tocante à questão envolvendo o exame criminológico do paciente, o Tribunal local assim se manifestou:
+"O recurso não comporta conhecimento.
+A Lei nº 14.843/2024 tornou obrigatória a realização do exame criminológico para a concessão do livramento condicional e da progressão de regime, sendo sua aplicação imediata e constitucional.
+O paciente cumpre pena por crime praticado após a edição da Lei nº 14.843/2024, daí porque não vejo ilegalidade praticada pela autoridade apontada como coatora.
+Para fins de progressão de regime e/ou livramento condicional, são analisados, além dos requisitos objetivos, os requisitos subjetivos e as circunstâncias judiciais do sentenciado, de forma que não se torna possível, com mera documentação juntada aos autos, a análise e conclusão quanto ao direito do Paciente que, no caso sub judice, não se faz determinante. Isto porque o Habeas Corpus não serve para discussão de questão incidente de execução penal, não se admitindo o seu manuseio, do mesmo modo, para apressar o trâmite do processo de execução.
+Ante o exposto, pelo meu voto, não conheço do Habeas Corpus.
+O não acolhimento das teses apresentadas, ou da interpretação pretendida sobre as provas coligidas aos autos não implica em obscuridade, contradição ou omissão, pois ao julgador cabe apreciar a questão conforme o que ele entender relevante à lide. O manejo de embargos de declaração para rediscutir tais questões caracteriza conduta temerária passível do reconhecimento da litigância de má-fé.
+Por derradeiro, considera-se prequestionada toda matéria infraconstitucional e constitucional, observando-se que é pacífico no Superior Tribunal de Justiça que, tratando-se de prequestionamento, é desnecessária a citação numérica dos dispositivos legais, bastando que a questão posta tenha sido decidida (EDROMS 18205/SP, Min. Felix Fischer, DJ 08.05.2006, p. 24)." (fls. 45/46)
+Como se observa da atenta leitura do acórdão impugnado, verifica-se que o Tribunal de origem não se manifestou expressamente sobre a questão de alegado excesso de prazo para a conclusão do exame criminológico trazida no writ. Desse modo, resta afastada a competência desta Corte Superior para conhecimento do feito nesse tema, sob pena de incorrer em indevida supressão de instância.
+Nesse sentido:
+PENAL. PROCESSO PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. ILEGALIDADE INEXISTENTE. OMISSÃO DEVE SER QUESTIONADA VIA EMBARGOS DE DECLARAÇÃO. SUPRESSÃO. AINDA QUE NULIDADE ABSOLUTA. DESÍGNIOS AUTONOMOS. ABSORÇÃO. REVOLVIMENTO FÁTICO-PROBATÓRIO. INVIABILIDADE NA VIA DO WRIT. AUSÊNCIA DE ARGUMENTOS NOVOS APTOS A ALTERAR A DECISÃO AGRAVADA. AGRAVO DESPROVIDO.
+I - É assente nesta Corte Superior de Justiça que o agravo regimental deve trazer novos argumentos capazes de alterar o entendimento anteriormente firmado, sob pena de ser mantida a decisão agravada por seus próprios fundamentos.
+II - Ainda que a Defesa alegue que houve o prequestionamento implícito, porquanto ventilou a questão nas peças de defesa, todavia, ante a não manifestação daquela Corte, caberia o manejo dos embargos de declaração, aptos a prequestionar a matéria.
+III - Ausente manifestação do Tribunal sobre a questão de fundo também ora vindicada, incabível a análise de tal matéria, no presente habeas corpus, porquanto está configurada a absoluta supressão de instância quanto ao ponto debatido, ficando impedida esta Corte de proceder à sua análise.
+IV - A instância ordinária, diante do conjunto fático-probatório dos autos, concluiu por provas suficientes à condenação pelos 2 (dois) delitos, como sendo autônomos, bem como a defesa não logrou demonstrar o contrário.
+V - É iterativa a jurisprudência deste Superior Tribunal de Justiça no sentido de ser imprópria a via do habeas corpus (e do seu recurso) para a análise de teses de insuficiência probatória, de negativa de autoria ou até mesmo de desclassificação, em razão da necessidade de incursão no acervo fático-probatório.
+Agravo regimental desprovido.
+(AgRg no HC n. 823.044/DF, relator Ministro Messod Azulay Neto, Quinta Turma, julgado em 18/12/2023, DJe de 20/12/2023.)(grifei)
+AGRAVO REGIMENTAL EM HABEAS CORPUS. ROUBO CIRCUNSTANCIADO. WRIT IMPETRADO CONTRA CONDENAÇÃO TRANSITADA EM JULGADO. SUCEDÂNEO DE REVISÃO CRIMINAL. INADMISSIBILIDADE. AUSÊNCIA DE JULGAMENTO DE MÉRITO NESTA CORTE. INCOMPETÊNCIA DO SUPERIOR TRIBUNAL DE JUSTIÇA. TEMAS NÃO DEBATIDOS PELA CORTE DE ORIGEM. SUPRESSÃO DE INSTÂNCIA. TEMAS DEBATIDOS EM CONSONÂNCIA COM O ENTENDIMENTO DO SUPERIOR TRIBUNAL DE JUSTIÇA. AUSÊNCIA DE ILEGALIDADE FLAGRANTE.
+1. Não deve ser conhecido o writ que se volta contra sentença condenatória já transitada em julgado, manejado como substitutivo de revisão criminal, em hipótese na qual não houve inauguração da competência desta Corte Superior. Nos termos do art. 105, I, e, da Constituição Federal, compete ao Superior Tribunal de Justiça processar e julgar, originariamente, as revisões criminais e as ações rescisórias de seus julgados. Precedentes.
+2. A Jurisprudência do Superior Tribunal de Justiça "é pacífica no sentido de que, ainda que se trate de matéria de ordem pública, é imprescindível o seu prévio debate na instância de origem para que possa ser examinada por este Tribunal Superior (AgRg no HC 530.904/PR, Rel. Ministro JORGE MUSSI, Quinta Turma, julgado em 24/9/2019, DJe de 10/10/2019) - (AgRg no HC n. 726.326/CE, Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe 28/3/2022).
+3. Quanto aos temas efetivamente debatidos pela Corte de origem, verifica-se que não há qualquer ilegalidade flagrante a ser sanada, na medida em que o acórdão objurgado se encontra em consonância com a jurisprudência desta Corte, no sentido de que as condenações alcançadas pelo período depurador de 5 anos, previsto no art. 64, inciso I, do Código Penal, afastam os efeitos da reincidência, mas não impedem a configuração de maus antecedentes, permitindo, assim, o aumento da pena-base; bem como de que para a incidência da causa de aumento relativa ao emprego de arma de fogo, dispensável a apreensão e perícia da arma, desde que o emprego do artefato fique comprovado por outros meios de prova. Precedentes.
+3. Agravo regimental improvido.
+(AgRg no HC n. 842.953/SP, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 6/2/2024, DJe de 8/2/2024.)(grifei)
+Ausente, portanto, qualquer constrangimento ilegal que justifique a concessão da ordem, de ofício.
+Ante o exposto, com fundamento no art. 34, XX, do Regimento Interno do Superior Tribunal de Justiça, não conheço do habeas corpus.
+Publique-se.
+Intimem-se.
+ EMENTA
