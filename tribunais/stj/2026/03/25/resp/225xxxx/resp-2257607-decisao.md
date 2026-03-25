@@ -1,0 +1,23 @@
+DECISÃO
+Trata-se de recurso especial interposto pela UNIÃO contra acórdão do TRIBUNAL REGIONAL FEDERAL DA 1ª REGIÃO no julgamento, assim concluído (fl. 263):
+Ante o exposto, não conheço da remessa necessária. Nego provimento à apelação da União Federal e dou parcial provimento à apelação da parte autora, para fixar que a produção dos efeitos financeiros da transposição deve observar o prazo prescricional e ter seu termo inicial fixado a partir: i) da data de 01/03/2014, se integrante das carreiras de magistério, e de 01/01/2014 para os demais servidores, se o termo de opção tiver sido feito durante a vigência do art. 2º da Lei nº 12.800/2013; ou ii) da data de publicação do ato de transposição, sendo incabível o pagamento de diferenças remuneratórias retroativas, se após esse período. Esses valores deverão ser verificados em sede de liquidação de sentença.
+Opostos embargos de declaração, ficaram rejeitados.
+Nas razões do recurso especial, a parte recorrente alega violação do art. 2º da Lei n. 12.800/2013 e dos arts. 489 e 1.022 do CPC (fls. 341-351).
+Sem contrarrazões.
+Admitido o recurso na origem (fl. 361).
+É o relatório.
+Decido.
+Sobre o tema trazido pela parte recorrente, a Primeira Seção deste Tribunal Superior decidiu, na sessão virtual iniciada em 4/2/2026 e finalizada em 10/2/2026, afetar os Recursos Especiais n. 2.224.900/RO e 2.215.720/RO, de minha relatoria, à sistemática dos recursos repetitivos (Tema n. 1.411 do STJ), com o seguinte objeto:
+ d efinir se é devido o pagamento retroativo das diferenças remuneratórias decorrentes do reenquadramento ao servidor do extinto território de Rondônia que optou pela transposição ao quadro em extinção da Administração Federal, e qual o seu respectivo termo inicial.
+Trago à colação a ementa do julgado que acolheu a proposta de afetação:
+ADMINISTRATIVO. PROPOSTA DE AFETAÇÃO DE RECURSO ESPECIAL. RITO DOS RECURSOS ESPECIAIS REPETITIVOS. SERVIDOR PÚBLICO ESTADUAL. TRANSPOSIÇÃO FEDERAL. DIFERENÇAS REMUNERATÓRIAS. MARCO TEMPORAL.
+I. Delimitação da controvérsia, para fins de afetação da matéria ao rito dos recursos repetitivos, nos termos do art. 1.036, caput e § 1º, do CPC/2015: "Definir se é devido o pagamento retroativo das diferenças remuneratórias decorrentes do reenquadramento ao servidor do extinto território de Rondônia que optou pela transposição ao quadro em extinção da Administração Federal, e qual o seu respectivo termo inicial".
+II. Recurso Especial afetado ao rito do art. 1.036 e seguintes do CPC/2015 (art. 256-I do RISTJ, na redação da Emenda Regimental 24, de 28/9/2016).
+Outrossim, há determinação de "suspensão de todos os processos pendentes, individuais ou coletivos, que versem sobre a questão e tramitem no território nacional, nos quais tenha havido a interposição de recurso especial ou de agravo em recurso especial, na segunda instância, ou que estejam em tramitação no STJ".
+Nesse contexto, esta Corte Superior tem firme orientação no sentido de que os recursos que tratam da mesma controvérsia devem aguardar o julgamento do paradigma representativo no Tribunal de origem, viabilizando, assim, o juízo de conformação.
+Com efeito, "deve ser prestigiado o escopo perseguido na legislação processual, isto é, a criação de mecanismo que oportunize às instâncias de origem o juízo de retratação/conformação na forma dos arts. 1.039 a 1.041 do CPC/2015" (EDcl no AgInt no REsp n. 1.974.797/DF, relator Ministro Francisco Falcão, Segunda Turma, julgado em 10/6/2024, DJe de 12/6/2024).
+Somente depois de realizada essa providência, que representa o exaurimento da instância ordinária, é que, se for o caso, o recurso especial deverá ser encaminhado para esta Corte Superior, para que aqui possam ser analisadas as questões jurídicas nele suscitadas e que não ficaram prejudicadas pelo novo pronunciamento do Tribunal a quo.
+Ante o exposto, JULGO PREJUDICADA a análise do recurso especial e, com fundamento no art. 34, inciso XXIV, do Regimento Interno do Superior Tribunal de Justiça, DETERMINO a devolução dos autos ao Tribunal de origem, com a respectiva baixa, para que seja oportunizado o juízo de conformação, à luz da tese fixada no Tema n. 1.411 do STJ, observadas as normas dos arts. 1.040 e 1.041 do Código de Processo Civil.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSO CIVIL E ADMINISTRATIVO. RECURSO ESPECIAL. SERVIDOR PÚBLICO ESTADUAL. TRANSPOSIÇÃO FEDERAL. DIFERENÇAS REMUNERATÓRIAS. MARCO TEMPORAL. AFETAÇÃO DA CONTROVÉRSIA À SISTEMÁTICA DOS RECURSOS REPETITIVOS. TEMA N. 1.411 DO STJ. DETERMINAÇÃO DE SOBRESTAMENTO DOS PROCESSOS. PREJUDICADA A ANÁLISE DO RECURSO ESPECIAL, COM A DEVOLUÇÃO DOS AUTOS AO TRIBUNAL DE ORIGEM.
