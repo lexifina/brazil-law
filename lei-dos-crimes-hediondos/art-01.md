@@ -29,3 +29,4 @@ IV - o crime de tráfico internacional de arma de fogo, acessório ou munição,
 V - o crime de organização criminosa, quando direcionado à prática de crime hediondo ou equiparado.
 VI - os crimes previstos no Decreto-Lei nº 1.001, de 21 de outubro de 1969 (Código Penal Militar), que apresentem identidade com os crimes previstos no art. 1º desta Lei.
 VII - os crimes previstos no § 1º do art. 240 e no art. 241-B da Lei nº 8.069, de 13 de julho de 1990 (Estatuto da Criança e do Adolescente).
+VIII - os crimes de domínio social estruturado e de favorecimento ao domínio social estruturado, previstos no caput e nos §§ 1º e 3º do art. 2º e no art. 3º da lei que institui o marco legal do combate ao crime organizado no Brasil.
