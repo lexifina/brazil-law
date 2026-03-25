@@ -1,0 +1,27 @@
+DECISÃO
+Trata-se de agravo interposto por Daniel Silva Melgaco contra a decisão proferida pelo Tribunal Regional Federal da 4ª Região, que, em juízo de admissibilidade, não admitiu o recurso especial por ele apresentado, impugnando, por sua vez, o acórdão prolatado na Apelação Criminal n. 5006456-23.2024.4.04.7005/PR, que manteve a sua condenação como incurso no art. 334, caput e § 1º, IV, do Código Penal (fls. 173/190).
+Nas razões do especial, a defesa apontou contrariedade ao art. 92, III, do Código Penal. Contestou a aplicação da pena acessória de inabilitação para dirigir veículo automotor, argumentando que o réu é motorista profissional há mais de 40 anos e que a perda da carteira de habilitação o impedirá de exercer atividade laboral lícita para prover o seu sustento. Requereu o afastamento da referida sanção penal (fls. 196/197).
+Apresentadas contrarrazões (fls. 198/208), o Tribunal Regional não admitiu o recurso, por incidência da Súmula 83/STJ (fls. 212/214).
+Daí o presente agravo (fls. 217/221). Instado a se manifestar, o Ministério Público Federal opina pelo conhecimento do agravo para negar seguimento ao recurso especial (fls. 248/251).
+É o relatório.
+O agravo reúne as condições de admissibilidade, motivo pelo qual passo ao exame do recurso especial.
+A pretensão não comporta acolhimento.
+A controvérsia cinge-se em verificar a legalidade da imposição da pena acessória de inabilitação para dirigir veículo automotor (art. 92, III, do CP) a réu que exerce a profissão de motorista.
+O Tribunal de origem, ao analisar o pleito defensivo de afastamento da referida sanção, manteve a penalidade com base nas seguintes premissas fáticas (fls. 188/189 - grifo nosso):
+ ..  Pena de inabilitação do direito de dirigir veículo automotor
+Melhor sorte não acompanha a defesa quanto ao afastamento da referida sanção.
+Conforme previsto no artigo 92, inciso III, do Código Penal, é efeito da condenação "a inabilitação para dirigir veículo, quando utilizado como meio para a prática de crime doloso".
+ ..
+Conforme entendimento jurisprudencial, a reprimenda somente será afastada em caso de comprovação da atividade de motorista profissional e, conjuntamente, se não houver reiteração delitiva.
+ ..
+No caso em tela, muito embora comprovada a atividade de motorista profissional, resulta evidenciada a reiteração delitiva, consistente nas autuações fiscais-aduaneiras em desfavor do réu, bem como nas condenações transitadas em julgado pelo crime de descaminho, além da reincidência.  ..
+Verifica-se que a Corte Regional reconheceu expressamente a condição de motorista profissional do agravante, mas concluiu, de forma concretamente motivada, pela necessidade de manutenção da inabilitação para dirigir em razão da evidente reiteração delitiva específica, consubstanciada na utilização contumaz do veículo automotor como instrumento para a prática de infrações penais e administrativas ligadas ao descaminho.
+Essa conclusão não destoa da jurisprudência do Superior Tribunal de Justiça.
+Com efeito, esta Corte possui orientação pacífica no sentido de que, embora a regra seja a não aplicação do efeito da condenação previsto no art. 92, III, do Código Penal ao motorista profissional, a fim de não inviabilizar o seu direito ao trabalho lícito, tal regra comporta exceção. A medida é plenamente cabível, exigindo fundamentação idônea, quando o veículo for utilizado como meio para a prática de crime doloso e houver a necessidade de impedir a reiteração criminosa do acusado, exatamente como delineado na hipótese dos autos.
+A propósito: EDcl nos EDcl no AgRg no AREsp n. 2.618.192/MS, relator Ministro Messod Azulay Neto, Quinta Turma, julgado em 3/2/2026, DJEN de 10/2/2026; AgRg no AREsp n. 2.679.649/MS, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 17/9/2025, DJEN de 23/9/2025; AgRg no AREsp n. 2.964.941/PR, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 12/8/2025, DJEN de 19/8/2025; AgRg no AREsp n. 2.865.789/PR, relator Ministro Otávio de Almeida Toledo (Desembargador Convocado do TJSP), Sexta Turma, julgado em 10/6/2025, DJEN de 16/6/2025; AgRg no REsp n. 2.172.256/PR, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 9/4/2025, DJEN de 15/4/2025; AgRg no AREsp n. 2.618.192/MS, relator Ministro Messod Azulay Neto, Quinta Turma, julgado em 6/5/2025, DJEN de 13/5/2025; AgRg no REsp n. 2.101.916/PR, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 11/12/2024, DJEN de 16/12/2024, dentre outros.
+Afora isso, para desconstituir as premissas fáticas assentadas pelo Tribunal de origem, notadamente a constatação de que o agravante se valia de sua profissão para reiteradamente praticar ilícitos, justificando a medida obstativa, seria imprescindível o reexame aprofundado do acervo fático-probatório dos autos, providência incompatível com a via do recurso especial, a teor do que dispõe a Súmula 7/STJ (AgRg no AREsp n. 2.337.741/PR, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 5/9/2023, DJe de 11/9/2023).
+Ante o exposto, conheço do agravo para negar provimento ao recurso especial.
+Publique-se.
+EMENTA
+DIREITO PENAL. AGRAVO EM RECURSO ESPECIAL. DESCAMINHO. EFEITOS DA CONDENAÇÃO. INABILITAÇÃO PARA DIRIGIR VEÍCULO AUTOMOTOR. ART. 92, III, DO CP. MOTORISTA PROFISSIONAL. EXCEPCIONALIDADE COMPROVADA. REITERAÇÃO DELITIVA. FUNDAMENTAÇÃO IDÔNEA. ACÓRDÃO EM CONSONÂNCIA COM A JURISPRUDÊNCIA DESTA CORTE. ALTERAÇÃO DAS PREMISSAS FÁTICAS. IMPOSSIBILIDADE. SÚMULA 7/STJ.
+Agravo conhecido para negar provimento ao recurso especial.
