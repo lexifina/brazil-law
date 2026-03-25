@@ -1,0 +1,77 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUINTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 19/03/2026 a 25/03/2026, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Maria Marluce Caldas, Reynaldo Soares da Fonseca, Ribeiro Dantas e Joel Ilan Paciornik votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Reynaldo Soares da Fonseca.
+EMENTA
+Direito processual penal. Agravo regimental em agravo em recurso especial. Princípio da unirrecorribilidade. Preclusão consumativa. Recurso especial não conhecido. Limites cognitivos do recurso especial (Súmula 7, STJ). Agravo regimental desprovido.
+I. Caso em exame
+1. O agravo regimental. Agravo regimental interposto pela Defesa contra decisão monocrática que não conheceu de agravo em recurso especial, com fundamento no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, em razão da interposição, pela mesma parte, de embargos de declaração e, posteriormente, de recurso especial contra o mesmo acórdão proferido em recurso em sentido estrito.
+2. Fato relevante. O agravante foi pronunciado pela suposta prática do delito previsto no art. 121, § 2º, incisos II e IV, do Código Penal. O Tribunal de Justiça negou provimento ao recurso em sentido estrito, mantendo a decisão de pronúncia; embargos de declaração opostos foram rejeitados. Em seguida, a Defesa interpôs recurso especial, não admitido na origem, sob fundamento de incidência da Súmula 7, STJ. Interposto agravo em recurso especial, a Presidência do STJ não conheceu do recurso, por reconhecer a preclusão consumativa e o princípio da unicidade recursal.
+3. Fundamentos do agravo regimental. No agravo regimental, a Defesa sustenta inexistir violação ao princípio da unirrecorribilidade, ao argumento de que os recursos interpostos teriam objetos distintos e de que a oposição de embargos de declaração não impediria a análise do recurso especial, além de invocar o art. 1.024, § 5º, do CPC e a Súmula 579, STJ.
+II. Questão em discussão
+4. Há duas questões em discussão: (i) saber se a interposição, pela mesma parte, de embargos de declaração e, posteriormente, de recurso especial contra o mesmo acórdão viola o princípio da unirrecorribilidade e acarreta preclusão consumativa, impedindo o conhecimento do recurso subsequente; e (ii) saber se, superado o óbice processual, seria possível, em sede de recurso especial, acolher pretensões de absolvição sumária, desclassificação da conduta, exclusão de qualificadoras e reconhecimento de legítima defesa, à vista da vedação ao reexame de fatos e provas (Súmula 7, STJ).
+III. Razões de decidir
+5. A decisão agravada se mantém porque a interposição, pela mesma parte, de dois recursos contra o mesmo pronunciamento judicial configura violação ao princípio da unicidade recursal e acarreta preclusão consumativa, impedindo o conhecimento do recurso posteriormente interposto.
+6. A oposição de embargos de declaração contra o acórdão proferido no recurso em sentido estrito já representa exercício da faculdade recursal, de modo que se opera a preclusão consumativa quanto à interposição de novo recurso contra a mesma decisão, sendo inviável o conhecimento do recurso especial subsequente, ainda que se alegue diversidade de matérias.
+7. O art. 1.024, § 5º, do CPC e a Súmula 579, STJ não afastam a incidência do princípio da unirrecorribilidade no caso concreto, pois regulam situação diversa, relativa à necessidade de ratificação de recurso interposto antes do julgamento dos embargos de declaração, e não autorizam a interposição de dois recursos sucessivos contra o mesmo acórdão.
+8. Ainda que superado o óbice processual da preclusão consumativa, o recurso especial não poderia ser conhecido, porque os pedidos de absolvição sumária, desclassificação da conduta e exclusão de qualificadoras, bem como a rediscussão sobre a existência de legítima defesa, exigem reexame do conjunto fático-probatório, providência vedada pela Súmula 7, STJ.
+9. O acórdão recorrido manteve a pronúncia com base em indícios suficientes de autoria e materialidade e afastou a tese de legítima defesa e de exclusão de qualificadoras, conclusões que não podem ser revistas na via estreita do recurso especial sem incursão aprofundada na prova.
+10. Inexistindo fundamentos novos capazes de infirmar a decisão monocrática, impõe-se a manutenção do não conhecimento do agravo em recurso especial.
+IV. Dispositivo e tese
+11. Resultado do Julgamento: Agravo regimental desprovido, mantendo-se a decisão que não conheceu do agravo em recurso especial.
+Tese de julgamento:
+1. A interposição, pela mesma parte, de embargos de declaração e, posteriormente, de recurso especial contra o mesmo acórdão viola o princípio da unirrecorribilidade e gera preclusão consumativa, impedindo o conhecimento do recurso subsequente.
+2. A oposição de embargos de declaração já consuma o exercício da faculdade recursal em face do acórdão, sendo inviável a interposição de novo recurso contra a mesma decisão, ainda que com fundamento em matérias distintas.
+3. O art. 1.024, § 5º, do CPC e a Súmula 579, STJ limitam-se a disciplinar a necessidade de ratificação de recurso interposto antes do julgamento dos embargos de declaração, não afastando a incidência do princípio da unicidade recursal quando há dois recursos sucessivos contra o mesmo acórdão.
+4. Pretensões de absolvição sumária, desclassificação da conduta, exclusão de qualificadoras e reconhecimento de legítima defesa, quando dependentes da revaloração do conjunto fático-probatório, não podem ser examinadas em recurso especial, em razão do óbice da Súmula 7, STJ.
+Dispositivos relevantes citados: CF/1988, art. 105, III (implícito); Código Penal, art. 121, § 2º, II e IV; CPC, art. 1.024, § 5º; RISTJ, art. 21-E, V; Súmula 7/STJ; Súmula 579/STJ.
+Jurisprudência relevante citada: Não há precedentes indicados fora de trechos citados entre aspas.
+RELATÓRIO
+Cuida-se de agravo regimental interposto por RAIMUNDO COSTA JUNIOR contra decisão monocrática que não conheceu do agravo em recurso especial, com fundamento no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça.
+Consta dos autos que o agravante foi pronunciado pela suposta prática do delito previsto no art. 121, § 2º, incisos II e IV, do Código Penal.
+Irresignada, a defesa interpôs recurso em sentido estrito, ao qual o Tribunal de Justiça do Estado de São Paulo negou provimento, mantendo a decisão de pronúncia.
+Foram opostos embargos de declaração, posteriormente rejeitados.
+Na sequência, a defesa interpôs recurso especial, o qual não foi admitido na origem, ao fundamento de que a pretensão demandaria reexame do conjunto fático-probatório, incidindo o óbice da Súmula 7/STJ.
+Interposto agravo em recurso especial, a Presidência desta Corte não conheceu do recurso, ao fundamento de que, contra o mesmo acórdão, a parte recorrente interpôs embargos de declaração e, posteriormente, recurso especial, incidindo a preclusão consumativa e o princípio da unicidade recursal.
+No presente agravo regimental (fls. 563-570), a defesa sustenta, em síntese, que não há violação ao princípio da unirrecorribilidade, afirmando que os recursos interpostos teriam objetos distintos e que a interposição dos embargos declaratórios não impediria a análise do recurso especial.
+O Ministério Público Federal manifestou-se pelo não provimento do agravo regimental (fls. 588-595).
+É o relatório.
+EMENTA
+Direito processual penal. Agravo regimental em agravo em recurso especial. Princípio da unirrecorribilidade. Preclusão consumativa. Recurso especial não conhecido. Limites cognitivos do recurso especial (Súmula 7, STJ). Agravo regimental desprovido.
+I. Caso em exame
+1. O agravo regimental. Agravo regimental interposto pela Defesa contra decisão monocrática que não conheceu de agravo em recurso especial, com fundamento no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, em razão da interposição, pela mesma parte, de embargos de declaração e, posteriormente, de recurso especial contra o mesmo acórdão proferido em recurso em sentido estrito.
+2. Fato relevante. O agravante foi pronunciado pela suposta prática do delito previsto no art. 121, § 2º, incisos II e IV, do Código Penal. O Tribunal de Justiça negou provimento ao recurso em sentido estrito, mantendo a decisão de pronúncia; embargos de declaração opostos foram rejeitados. Em seguida, a Defesa interpôs recurso especial, não admitido na origem, sob fundamento de incidência da Súmula 7, STJ. Interposto agravo em recurso especial, a Presidência do STJ não conheceu do recurso, por reconhecer a preclusão consumativa e o princípio da unicidade recursal.
+3. Fundamentos do agravo regimental. No agravo regimental, a Defesa sustenta inexistir violação ao princípio da unirrecorribilidade, ao argumento de que os recursos interpostos teriam objetos distintos e de que a oposição de embargos de declaração não impediria a análise do recurso especial, além de invocar o art. 1.024, § 5º, do CPC e a Súmula 579, STJ.
+II. Questão em discussão
+4. Há duas questões em discussão: (i) saber se a interposição, pela mesma parte, de embargos de declaração e, posteriormente, de recurso especial contra o mesmo acórdão viola o princípio da unirrecorribilidade e acarreta preclusão consumativa, impedindo o conhecimento do recurso subsequente; e (ii) saber se, superado o óbice processual, seria possível, em sede de recurso especial, acolher pretensões de absolvição sumária, desclassificação da conduta, exclusão de qualificadoras e reconhecimento de legítima defesa, à vista da vedação ao reexame de fatos e provas (Súmula 7, STJ).
+III. Razões de decidir
+5. A decisão agravada se mantém porque a interposição, pela mesma parte, de dois recursos contra o mesmo pronunciamento judicial configura violação ao princípio da unicidade recursal e acarreta preclusão consumativa, impedindo o conhecimento do recurso posteriormente interposto.
+6. A oposição de embargos de declaração contra o acórdão proferido no recurso em sentido estrito já representa exercício da faculdade recursal, de modo que se opera a preclusão consumativa quanto à interposição de novo recurso contra a mesma decisão, sendo inviável o conhecimento do recurso especial subsequente, ainda que se alegue diversidade de matérias.
+7. O art. 1.024, § 5º, do CPC e a Súmula 579, STJ não afastam a incidência do princípio da unirrecorribilidade no caso concreto, pois regulam situação diversa, relativa à necessidade de ratificação de recurso interposto antes do julgamento dos embargos de declaração, e não autorizam a interposição de dois recursos sucessivos contra o mesmo acórdão.
+8. Ainda que superado o óbice processual da preclusão consumativa, o recurso especial não poderia ser conhecido, porque os pedidos de absolvição sumária, desclassificação da conduta e exclusão de qualificadoras, bem como a rediscussão sobre a existência de legítima defesa, exigem reexame do conjunto fático-probatório, providência vedada pela Súmula 7, STJ.
+9. O acórdão recorrido manteve a pronúncia com base em indícios suficientes de autoria e materialidade e afastou a tese de legítima defesa e de exclusão de qualificadoras, conclusões que não podem ser revistas na via estreita do recurso especial sem incursão aprofundada na prova.
+10. Inexistindo fundamentos novos capazes de infirmar a decisão monocrática, impõe-se a manutenção do não conhecimento do agravo em recurso especial.
+IV. Dispositivo e tese
+11. Resultado do Julgamento: Agravo regimental desprovido, mantendo-se a decisão que não conheceu do agravo em recurso especial.
+Tese de julgamento:
+1. A interposição, pela mesma parte, de embargos de declaração e, posteriormente, de recurso especial contra o mesmo acórdão viola o princípio da unirrecorribilidade e gera preclusão consumativa, impedindo o conhecimento do recurso subsequente.
+2. A oposição de embargos de declaração já consuma o exercício da faculdade recursal em face do acórdão, sendo inviável a interposição de novo recurso contra a mesma decisão, ainda que com fundamento em matérias distintas.
+3. O art. 1.024, § 5º, do CPC e a Súmula 579, STJ limitam-se a disciplinar a necessidade de ratificação de recurso interposto antes do julgamento dos embargos de declaração, não afastando a incidência do princípio da unicidade recursal quando há dois recursos sucessivos contra o mesmo acórdão.
+4. Pretensões de absolvição sumária, desclassificação da conduta, exclusão de qualificadoras e reconhecimento de legítima defesa, quando dependentes da revaloração do conjunto fático-probatório, não podem ser examinadas em recurso especial, em razão do óbice da Súmula 7, STJ.
+Dispositivos relevantes citados: CF/1988, art. 105, III (implícito); Código Penal, art. 121, § 2º, II e IV; CPC, art. 1.024, § 5º; RISTJ, art. 21-E, V; Súmula 7/STJ; Súmula 579/STJ.
+Jurisprudência relevante citada: Não há precedentes indicados fora de trechos citados entre aspas.
+VOTO
+O agravo regimental não merece prosperar.
+A decisão agravada deve ser mantida por seus próprios fundamentos.
+Conforme consignado na decisão monocrática, verifica-se que a defesa interpôs embargos de declaração contra o acórdão proferido no julgamento do recurso em sentido estrito e, posteriormente, apresentou recurso especial contra a mesma decisão.
+A jurisprudência desta Corte é firme no sentido de que a interposição de dois recursos pela mesma parte contra o mesmo pronunciamento judicial impede o conhecimento do recurso posteriormente apresentado, em razão da preclusão consumativa e do princípio da unicidade recursal.
+Nesse sentido:
+"A interposição de dois recursos pela mesma parte e contra a mesma decisão impede o conhecimento do segundo recurso, haja vista a preclusão consumativa e o princípio da unirrecorribilidade das decisões." (AgRg no AREsp 2.577.485/SP, Rel. Ministro Og Fernandes, Sexta Turma, DJEN 2/12/2024).
+Não procede a alegação de que os recursos versariam sobre matérias distintas.
+A oposição de embargos de declaração já representa exercício da faculdade recursal contra o mesmo acórdão, razão pela qual se opera a preclusão consumativa quanto à interposição de novo recurso, sendo inviável o conhecimento do apelo especial subsequente.
+A invocação do art. 1.024, § 5º, do CPC e da Súmula 579/STJ não altera essa conclusão, pois tais disposições dizem respeito à necessidade de ratificação do recurso interposto antes do julgamento dos embargos declaratórios, hipótese distinta daquela verificada nos autos, em que a decisão agravada reconheceu a incidência do princípio da unirrecorribilidade.
+De toda forma, ainda que superado o óbice processual, o recurso especial não poderia ser conhecido, porquanto as pretensões defensivas de absolvição sumária, desclassificação da conduta e exclusão de qualificadoras demandariam necessariamente o revolvimento do conjunto fático-probatório, providência vedada em sede de recurso especial, nos termos da Súmula 7/STJ.
+Com efeito, o acórdão recorrido manteve a pronúncia por entender presentes indícios suficientes de autoria e materialidade, bem como afastou a tese de legítima defesa e a exclusão das qualificadoras, matérias que não podem ser revistas na via estreita do apelo nobre sem reexame probatório.
+Assim, não se verificam razões capazes de infirmar a decisão agravada.
+Ante o exposto, nego provimento ao agravo regimental.
+É como voto.
