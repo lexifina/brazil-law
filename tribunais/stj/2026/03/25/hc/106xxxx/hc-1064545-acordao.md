@@ -1,0 +1,52 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEXTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 19/03/2026 a 25/03/2026, por unanimidade, denegar o habeas corpus, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Antonio Saldanha Palheiro, Carlos Pires Brandão e Og Fernandes votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Carlos Pires Brandão.
+Não participou do julgamento o Sr. Ministro Rogerio Schietti Cruz.
+EMENTA
+HABEAS CORPUS. PORTE ILEGAL DE ARMA DE FOGO DE USO PERMITIDO. PRISÃO PREVENTIVA. MANUTENÇÃO DA PRISÃO DE OFÍCIO. NÃO OCORRÊNCIA. PRINCÍPIO DO LIVRE CONVENCIMENTO MOTIVADO. NECESSIDADE DE GARANTIA DA ORDEM PÚBLICA. REITERAÇÃO DELITIVA. FUNDAMENTAÇÃO IDÔNEA. REGIME SEMIABERTO. COMPATIBILIDADE COM A CUSTÓDIA CAUTELAR. LEGALIDADE. CONSTRANGIMENTO ILEGAL AUSENTE.
+Ordem denegada.
+RELATÓRIO
+Trata-se de habeas corpus impetrado em nome de ADRIANO PEREIRA DE OLIVEIRA, preso preventivamente pela suposta prática do crime do art. 14 da Lei n. 10.826/2003 e, posteriormente, condenado à pena de 2 anos, 6 meses e 10 dias de reclusão, em regime inicial semiaberto (Processo n. 0711588-08.2025.8.07.0004, da 1ª Vara Criminal do Gama/DF - fls. 37/44).
+O impetrante aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO DISTRITO FEDERAL E DOS TERRITÓRIOS, que, em 4/12/2025, denegou a ordem no HC n. 0743457-98.2025.8.07.0000 (fls. 12/20 ).
+Alega violação do sistema acusatório, porque a prisão preventiva foi mantida por ato de ofício do magistrado mesmo após duas manifestações do Ministério Público pela revogação da cautelar e substituição por medidas diversas.
+Sustenta afronta ao princípio da homogeneidade, pois, condenado ao regime semiaberto, o paciente permanece, na prática, em regime fechado, em razão da manutenção da preventiva após a sentença.
+Afirma hipossuficiência econômica do paciente e a inaplicabilidade da fiança arbitrada em R$ 20.000,00 (vinte mil reais), pleiteando liberdade provisória sem fiança, com fundamento no art. 350 do Código de Processo Penal.
+No mérito, requer a concessão da ordem para reconhecer a ilegalidade da manutenção da prisão preventiva, por violação do sistema acusatório e do princípio da homogeneidade, com expedição de alvará de soltura e eventual imposição de medidas alternativas.
+Indeferida a liminar pelo Ministro Herman Benjamin, Presidente desta Corte Superior de Justiça, em 2/2/2026 (fls. 136/137), e solicitadas informações, essas foram prestadas (fls. 143/178 e 181/184).
+O Ministério Público Federal, em seu parecer, opinou pelo não conhecimento do writ (fls. 187/196).
+É o relatório.
+EMENTA
+HABEAS CORPUS. PORTE ILEGAL DE ARMA DE FOGO DE USO PERMITIDO. PRISÃO PREVENTIVA. MANUTENÇÃO DA PRISÃO DE OFÍCIO. NÃO OCORRÊNCIA. PRINCÍPIO DO LIVRE CONVENCIMENTO MOTIVADO. NECESSIDADE DE GARANTIA DA ORDEM PÚBLICA. REITERAÇÃO DELITIVA. FUNDAMENTAÇÃO IDÔNEA. REGIME SEMIABERTO. COMPATIBILIDADE COM A CUSTÓDIA CAUTELAR. LEGALIDADE. CONSTRANGIMENTO ILEGAL AUSENTE.
+Ordem denegada.
+VOTO
+Diz a jurisprudência do Superior Tribunal de Justiça que toda prisão imposta ou mantida antes do trânsito em julgado de sentença penal condenatória, por ser medida de índole excepcional, deve vir sempre baseada em fundamentação concreta, isto é, em elementos vinculados à realidade.
+Inexiste, na espécie, o alegado constrangimento ilegal. As instâncias ordinárias decidiram na linha da jurisprudência do Superior Tribunal de Justiça. Não há falar em revogação da prisão preventiva imposta ao paciente.
+Vejamos, no ponto, o que disse o Magistrado ao manter a prisão preventiva do paciente na sentença condenatória (fl. 42 - grifo nosso):
+ ..
+Considerando a pena estabelecida e a reincidência do sentenciado, fixo o regime inicial SEMIABERTO para cumprimento da pena, com base no art. 33, § 2º, "c", do Código Penal.
+O apenado está preso cautelarmente há pouco mais de três meses, mas a detração deste período não modifica o regime inicial de cumprimento de pena. Além disso, em face da reincidência do réu, o qual conta com processos de execução penal em curso, cabe ao juízo de execução da pena realizar a adequação do regime, diante do período de prisão cautelar.
+ ..
+O sentenciado está preso preventivamente para garantia da ordem pública.
+Verifico que os motivos e fundamentos que determinaram a prisão preventiva do apenado permanecem hígidos, sobretudo diante da reincidência do sentenciado, que evidencia sua periculosidade e probabilidade de reiteração delitiva.
+No caso, nota-se que o Tribunal a quo convalidou a segregação cautelar, entendendo-a corretamente motivada, sob os seguintes fundamentos (fls. 16/20 - grifo nosso):
+ ..
+A insurgência da Defesa diz respeito à situação atual do paciente, com a decisão do Juízo da 1ª Vara Criminal do Gama, que manteve a prisão cautelar, nos termos da decisão de id 252105930 dos autos principais, apesar de manifestação contrária do Ministério Público, que, conforme documento de id 251675369 daqueles autos, oficiou pela substituição do cárcere por medidas cautelares alternativas.
+Nesse contexto, a decisão impugnada não se enquadra na limitação promovida pela alteração legislativa mencionada, porque não há qualquer vedação à manutenção do cárcere preventivo anteriormente decretado, a pedido do Ministério Público, se a decisão estiver devidamente fundamentada nos requisitos que autorizam a prisão cautelar, como ocorre no caso concreto.
+ ..
+Ademais, ainda que o magistrado tivesse decretado a prisão preventiva após manifestação do Ministério Público pela aplicação de ou tras medidas cautelares, o que, no caso concreto, repita-se, não ocorreu, não haveria atuação de ofício do Juízo, como já decidido pelo Supremo Tribunal Federal, que se posicionou sobre o assunto.
+ ..
+Quanto à alegada desproporcionalidade da prisão preventiva em relação a eventual regime de cumprimento de pena futuramente imposto ao paciente, por ocasião de sentença condenatória, é importante observar que os institutos penais não se confundem. Com efeito, a prisão cautelar tem natureza processual, deve atender aos requisitos legais, enquanto o cumprimento da pena decorre de título judicial definitivo.
+Ademais, apesar de não ser possível, nessa etapa processual, afirmar qual o regime de cumprimento de pena que será imposto ao réu, deve-se considerar que, em se tratando de réu reincidente, vislumbra-se a possibilidade de imposição de regime mais gravoso. Nesse contexto, não haveria a alegada incompatibilidade entre a prisão preventiva e o regime de cumprimento da pena.
+ ..
+Assim, diante dos elementos constantes dos autos, impõe-se reconhecer, nos termos dos artigos 312 e 313 do Código de Processo Penal, que persistem as razões justificadoras da prisão preventiva, considerando as provas da existência dos crimes e os indícios de autoria, bem como estar demonstrada a necessidade de se garantir a ordem pública, não havendo, deste modo, coação ilegal que autorize a concessão da ordem de habeas corpus.
+No mais, é importante ressaltar a ineficácia, nesta etapa processual, de eventual medida cautelar diversa da prisão (art. 319 do CPP), porquanto se mostra, por ora, insuficiente e inadequada para acautelar os bens jurídicos previstos nos incisos I e II do art. 282 do CPP, sendo de todo recomendável a manutenção da segregação como único instrumento que atende às peculiaridades do caso concreto.
+A manutenção da custódia cautelar ganha reforço com a prolação da sentença condenatória que não concede ao agente que ficou preso durante a instrução processual o direito de recorrer em liberdade, por subsistirem as circunstâncias que justificaram a decretação da prisão preventiva (AgRg no RHC n. 169.970/TO, Ministro João Otávio de Noronha, Quinta Turma, DJe 30/9/2022).
+Além disso, a sentença condenatória, ao negar ao paciente o direito de recorrer em liberdade, se encontra em consonância com a pacífica jurisprudência desta Corte, firmada no sentido de não haver incompatibilidade entre a manutenção da prisão cautelar e a fixação do regime semiaberto para o inicial cumprimento de pena, devendo, no entanto, ser compatibilizada a prisão cautelar do Apenado com as regras próprias desse regime (RHC n. 134.443/GO, Ministra Laurita Vaz, Sexta Turma, DJe 18/12/2020) - (AgRg no RHC n. 167.177/GO, Ministro Rogerio Schietti Cruz, Sexta Turma, DJe 31/8/2022).
+Assim,  observa-se,  da  análise  dos  trechos  acima,  que  a  constrição  cautelar  está  alicerçada  em  elementos  vinculados  à  realidade,  ante  a  referência  às  circunstâncias  fáticas  justificadoras,  com  destaque,  principalmente,  à reiteração delitiva.  Tudo  a  revelar  e  a  justificar  a  manutenção  da  medida  extrema.
+Com efeito, este Superior Tribunal possui entendimento de que a preservação da ordem pública justifica a imposição da prisão preventiva quando o agente ostentar maus antecedentes, reincidência, atos infracionais pretéritos, inquéritos ou mesmo ações penais em curso, porquanto tais circunstâncias denotam sua contumácia delitiva e, por via de consequência, sua periculosidade (AgRg no HC n. 981.831/SP, Ministro Rogerio Schietti Cruz, Sexta Turma, DJe 7/5/2025; e AgRg no HC n. 890.488/MA, Ministro Og Fernandes, Sexta Turma, DJe 25/10/2024).
+Quanto aos argumentos do impetrante de a custódia cautelar ser mantida de ofício, não verifiquei nenhuma ilegalidade, pois, conforme decidiu o Tribunal a quo, não se trata de decretação de prisão preventiva de ofício e, sim, da manutenção da segregação cautelar com base no princípio do livre convencimento motivado do magistrado singular.
+Já no que tange à alegada desproporcionalidade da prisão cautelar, trata-se de prognóstico que somente será confirmado após a conclusão do julgamento da ação penal, não sendo possível inferir, nesse momento processual e na estreita via ora adotada, o eventual regime prisional a ser fixado em caso de condenação (e consequente violação do princípio da homogeneidade) - AgRg no RHC n. 144.385/MG, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 13/4/2021, DJe de 19/4/2021 (AgRg no HC n. 946.643/RS, Ministro Og Fernandes, Sexta Turma, DJe 7/11/2024).
+Há nos autos elementos hábeis a recomendar a manutenção da custódia preventiva, não se mostrando suficientes, para o caso em análise, as medidas previstas no art. 319 do Código de Processo Penal.
+Incensurável o acórdão recorrido.
+Ante o exposto, denego a ordem.
