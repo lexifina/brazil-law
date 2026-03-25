@@ -1,0 +1,56 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de UESLEI DE OLIVEIRA SILVA contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAIS proferido no HC n. 1.00000.26.053281-7/000.
+Consta nos autos que o paciente foi preso em flagrante em 02/10/2025, e após preventivamente, pela suposta prática dos delitos previstos nos arts. 33, caput, e 35, caput, da Lei 11.343/2006 e 329 do Código Penal, termos em que denunciado.
+Neste writ, a Defesa sustenta a ausência de indícios de autoria delitiva quanto aos delitos de tráfico e associação para este fim. Argumenta que não houve apreensão de drogas em poder do paciente e que inexistem elementos que indiquem a sua participação do comércio das substâncias ilícitas.
+Afirma que a matéria deveria ter sido analisada pelas instâncias ordinárias porque não envolve reexame do conjunto fático-probatório. Alega que o Tribunal a quo não enfrentou a questão e que a omissão configura constrangimento ilegal.
+Requer, liminarmente e no mérito, o trancamento da ação penal e a expedição de alvará de soltura.
+É o relatório.
+Decido.
+É consolidada a jurisprudência deste Superior Tribunal de Justiça no sentido de que a prerrogativa do relator para julgar monocraticamente o habeas corpus e o respectivo recurso não é afastada pelas normas regimentais que preveem a oitiva prévia do Ministério Público Federal (arts. 64, inciso III, e 202 do RISTJ), notadamente quando a matéria se conforma com o entendimento dominante desta Corte (AgRg no HC n. 856.046/SP, de relatoria do Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 24/10/2023, DJe de 30/10/2023).
+Assim, passo a analisar diretamente o pedido formulado na impetração.
+De início, quanto à alegada omissão na análise da tese defensiva, observa-se que o Tribunal a quo enfrentou a matéria submetida à sua análise, ainda que de maneira contrária aos interesses do paciente. Nesse sentido, não se verifica constrangimento ilegal decorrente de omissão jurisdicional.
+Ilustrativamente:
+PROCESSUAL PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. ALEGAÇÕES DE NULIDADE DO RECONHECIMENTO FOTOGRÁFICO, ILICITUDE DAS PROVAS E NEGATIVA DE PRESTAÇÃO JURISDICIONAL. CONDENAÇÃO FUNDADA EM CONJUNTO PROBATÓRIO ROBUSTO E CONVERGENTE. RECURSO IMPROVIDO.
+(..)
+6. As alegadas nulidades relativas à busca domiciliar e à oitiva de adolescente desacompanhada de responsável legal foram apreciadas pelo Tribunal de origem de forma global e fundamentada, tendo sido reconhecida a suficiência das provas lícitas para a condenação.
+7. A discordância da defesa quanto à valoração das provas não se confunde com ausência de fundamentação, inexistindo, portanto, negativa de prestação jurisdicional.
+IV. DISPOSITIVO E TESE
+8. Resultado do Julgamento: Agravo regimental improvido.
+(..)
+(AgRg no HC n. 1.060.608/SP, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 4/3/2026, DJEN de 12/3/2026.)
+AGRAVO REGIMENTAL EM HABEAS CORPUS. PROCESSO PENAL. TRÁFICO DE ENTORPECENTES. ASSOCIAÇÃO PARA O MESMO FIM. INGRESSO FORÇADO EM DOMICÍLIO. NULIDADE NÃO RECONHECIDA. INDÍCIOS DA PRÁTICA DELITIVA. VISUALIZAÇÃO DE PREPARAÇÃO DA DROGA. INSTRUÇÃO PROBATÓRIA NÃO CONCLUÍDA NA INSTÂNCIA ORDINÁRIA. AGRAVO REGIMENTAL DESPROVIDO.
+1. A Corte local enfrentou a alegação de nulidade decorrente de invasão de domicílio, afastando-a, fundamentadamente, ainda que de forma superficial. Logo, tendo o julgador demonstrado os fundamentos e os motivos que justificaram suas razões de decidir, não há falar em negativa de prestação jurisdicional.
+(..)
+5. Agravo regimental desprovido.
+(AgRg no HC n. 835.141/ES, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 15/4/2024, DJe de 18/4/2024.)
+Para adequada análise da controvérsia, colaciono o seguinte trecho do acórdão impugnado (fls. 16-17; grifamos):
+Verifica-se que a denúncia imputou ao paciente a prática dos crimes previstos no art. 33, caput, e no art. 35, ambos da Lei nº 11.343/06, e no art. 329 do Código Penal, tendo a parte impetrante apresentado insurgência apenas quanto aos crimes de tráfico de drogas e associação para o tráfico.
+Em que pesem os relevantes argumentos apresentados pela parte impetrante, analisando os autos de origem, observo que a denúncia narrou de forma clara o suposto envolvimento do paciente com os crimes previstos na Lei nº 11.343/06.
+Isso porque extrai-se das informações constantes no processo que o paciente se encontrava na residência do coflagranteado Edson, alvo de denúncias anônimas e suposto membro de facção criminosa, quando foi preso em flagrante delito juntamente com os demais denunciados, sendo apreendida considerável quantidade de drogas durante a diligência.
+Importante mencionar que ainda que não tenha sido apreendida droga na posse direta do paciente, tal fato, por si só, não é óbice para o prosseguimento da persecução penal quanto ao crime de tráfico de drogas, devendo ser considerado todo o contexto da ocorrência.
+Fato é que, segundo o Ministério Público, o paciente associou-se com os demais denunciados para a prática do crime de tráfico de drogas (art. 35 da Lei nº 11.343/06), sendo informado na denúncia que todos eles foram presos em flagrante delito nas mesmas circunstâncias de tempo e local após o recebimento de denúncias anônimas dando conta da prática do crime de tráfico de drogas na residência do coflagranteado Edson, oportunidade na qual a polícia logrou êxito na apreensão de materiais ilícitos.
+Assim, observa-se que as condutas supo stamente perpetradas pelo paciente encontram adequação legal, não havendo que se falar, a princípio, em ausência de justa causa para o ajuizamento da presente ação. Entendimento em sentido contrário, e eventual discussão acerca da negativa de autoria ou ausência de materialidade delitiva, demandaria uma aprofundada análise de provas, o que é defeso na via célere do habeas corpus.
+No aspecto, cumpre salientar que, segundo o entendimento pacífico desta Corte Superior, o habeas corpus (e seu respectivo recurso ordinário) não é instrumento adequado para a análise de alegações de insuficiência das provas de autoria e materialidade delitivas, uma vez que tal exame demanda o revolvimento do conjunto fático-probatório, o que se mostra incabível na presente via. Ilustrativamente, confira-se: AgRg no RHC n. 220.574/SC, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 19/8/2025, DJEN de 27/8/2025; AgRg no HC n. 1.006.530/RS, relator Ministro Og Fernandes, Sexta Turma, julgado em 27/8/2025, DJEN de 1/9/2025.
+De outra parte, consoante consignado pela Corte local, a denúncia individualiza a conduta do paciente e apresenta indícios de autoria que justificam a continuidade da ação penal.
+No que diz respeito à tese de ausência de apreensão de drogas com o paciente, é firme neste Superior Tribunal que, nos crimes de associação para o tráfico ou organização criminosa, a materialidade do tráfico pode ser comprovada por outros meios de prova que demonstrem o vínculo associativo estável, não sendo exigível a apreensão de entorpecentes na posse direta de cada um dos integrantes.
+A propósito:
+AGRAVO REGIMENTAL NO RECURSO ESPECIAL. TRÁFICO DE DROGAS. APREENSÃO DE DROGAS COM CORRÉUS. MATERIALIDADE DEVIDAMENTE COMPROVADA. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. Certo é que a Terceira Seção desta Corte, por ocasião do julgamento do HC n. 686.312/MS (Rel. Ministro Sebastião Reis Júnior, Rel. p/ acórdão Ministro Rogerio Schietti), ocorrido em 12/4/2023), consolidou o entendimento de que, para a comprovação da materialidade do crime previsto no art. 33 da Lei n. 11.343/2006, é imprescindível a apreensão de drogas, não podendo a materialidade ser demonstrada por outros elementos de prova, como interceptações telefônicas, depoimentos prestados por policiais, provas documentais produzidas durante a instrução criminal etc.
+2. Há distinção entre aquelas hipóteses em que não há apreensão de droga nenhuma e aqueles casos - tal como ocorre na espécie dos autos - em que a droga é apreendida somente com um (ou com alguns) dos corréus ou mesmo com terceiros não identificados.
+3. A caracterização do crime previsto no art. 33, caput, da Lei n. 11.343/2006 prescinde de apreensão de droga em poder de cada um dos acusados; basta que, evidenciado o liame subjetivo entre os agentes, haja a apreensão de substâncias entorpecentes com apenas um deles para que esteja demonstrada, ao menos em tese, a prática do delito em questão.
+4. No caso, além de os diálogos obtidos por meio das interceptações telefônicas judicialmente autorizadas demonstrarem a ligação do recorrente com outros integrantes do grupo criminoso que mantinham a guarda de substâncias entorpecentes destinadas ao comércio proscrito, os autos também demonstram ter havido a efetiva apreensão de drogas, com menção, inclusive, à feitura de laudo toxicológico.
+5. Porque evidenciado que o recorrente concorreu, de alguma forma, para a prática do delito, há provas acerca da materialidade do crime previsto no art. 33 da Lei n. 11.343/2006, ainda que não haja sido apreendida droga em seu poder, ou seja, na sua posse direta.
+6. Agravo regimental não provido.
+(AgRg no REsp n. 2.080.458/MG, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 16/10/2024, DJe de 7/11/2024.)
+Por fim, vale ressaltar que o trancamento da ação penal pela via estreita do habeas corpus constitui medida de todo excepcional. Tal providência somente é admitida quando comprovada, de plano e inequivocamente, a atipicidade da conduta, a ausência de indícios de autoria ou de prova da materialidade do delito, ou a presença de uma causa extintiva de punibilidade. Tais hipóteses, como destacado pelo Tribunal a quo, não se evidenciam na espécie.
+Nesse sentido :
+AGRAVO REGIMENTAL NO HABEAS CORPUS. DELITOS DE CORRUPÇÃO ATIVA E FRAUDE PROCESSUAL (ARTS. 333 E 347, DO CÓDIGO PENAL). PRETENSÃO DE TRANCAMENTO DA AÇÃO PENAL. EXCEPCIONALIDADE RESERVADA AOS CASOS DE INVIABILIDADE MANIFESTA DA ACUSAÇÃO. NULIDADE DA MEDIDA DE BUSCA E APREENSÃO. MEDIDA DEVIDAMENTE FUNDAMENTADA. ELEMENTOS INDICIÁRIOS PROVENIENTES DE INTERCEPTAÇÕES TELEFÔNICAS, PROVAS TESTEMUNHAIS E DOCUMENTAIS. AUSÊNCIA DE CONSTRANGIMENTO ILEGAL. REGIMENTAL DESPROVIDO.
+1. Em consonância com a orientação jurisprudencial da Primeira Turma do Supremo Tribunal Federal - STF, esta Corte não admite habeas corpus substitutivo de recurso próprio, sem prejuízo da concessão da ordem, de ofício, se existir flagrante ilegalidade na liberdade de locomoção do
+paciente.
+2. O trancamento da ação penal pela via do habeas corpus é medida excepcional, cabível apenas quando demonstrada, de plano, a atipicidade da conduta, a ausência de indícios mínimos de autoria e materialidade ou a existência de causa extintiva da punibilidade, o que não ocorre na hipótese.
+3. Nota-se que, diante da presença de indícios de autoria e materialidade delitiva, não há que se falar em falta de fundamentação da decisão que decretou a busca e apreensão, afastando-se a alegação de pescaria probatória e, por conseguinte, o constrangimento ilegal aduzido pelo recorrente.
+4. Agravo regimental desprovido.
+(AgRg no HC n. 807.236/RN, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 6/5/2025, DJEN de 12/5/2025.)
+Ante o exposto, conheço em parte do habeas corpus e, nesta extensão, denego a ordem.
+Publique-se. Intimem-se.
+EMENTA
