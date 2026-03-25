@@ -1,0 +1,21 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em favor de RICARDO DA ROCHA, contra ato do Tribunal de Justiça do Estado de São Paulo que denegou a ordem no HC n. 2393603-49.2025.8.26.0000, mantendo a prisão preventiva do paciente imposta pelo Juízo de Direito da 1ª Vara Criminal da Comarca de Itapetininga/SP, pela prática do crime de tráfico de drogas.
+Neste writ, a defesa alega que a prisão preventiva foi decretada e mantida com fundamentação genérica, sem indicação de risco concreto, embora o paciente seja primário, possua residência e exerça atividade lícita.
+Sustenta ilegalidade na manutenção do cárcere após a sentença e defende a fixação do regime inicial semiaberto, nos termos do art. 33, § 2º, b, do Código Penal, com possibilidade de medidas cautelares diversas da prisão.
+Menciona, ainda, que a pena definitiva foi de 5 anos e 10 meses e que o regime fechado foi imposto com base em gravidade abstrata.
+Pede, em liminar, a soltura; e, no mérito, requer a confirmação da ordem para manutenção da liberdade, subsidiariamente com monitoramento eletrônico em Cascavel/PR (fls. 13/14) - Autos n. 1501043-57.2025.8.26.0571, da 1ª Vara Criminal da Comarca de Itapetininga/SP (fls. 2/14).
+É o relatório.
+Infere-se dos autos que o paciente foi preso em flagrante transportando aproximadamente 4.090 kg de maconha e skank, sendo a prisão convertida em preventiva diante da gravidade concreta da conduta, evidenciada pela expressiva quantidade de entorpecentes e pelo caráter interestadual do tráfico. Sobreveio condenação pelo art. 33, caput, c.c. art. 40, V, da Lei n. 11.343/2006, à pena de 5 anos e 10 meses de reclusão, em regime inicial fechado, mantida a custódia cautelar ao fundamento de que condições pessoais favoráveis não afastam a prisão quando presentes os requisitos legais.
+O Tribunal de origem entendeu que a gravidade concreta da conduta - transporte interestadual de elevadíssima quantidade de drogas - justifica a prisão preventiva para garantia da ordem pública, instrução e aplicação da lei penal, sendo insuficientes as medidas cautelares alternativas e irrelevantes, no ponto, as condições pessoais favoráveis.
+Dos autos, tem-se que o magistrado piso manteve a segregação cautelar do paciente ao seguintes fundamentos (fl. 33):
+O réu permaneceu preso em razão de preventiva decretada durante o decorrer do feito; tal fato, aliado à pena imposta, regime inicial de cumprimento fixado, não substituição e a inexistência de qualquer alteração da situação que gerou a determinação de seu recolhimento cautelar, indica que a situação atual deve ser mantida.
+O Tribunal de Justiça manteve a prisão preventiva, destacando a gravidade concreta da conduta, consubstanciada no transporte interestadual de expressiva quantidade de entorpecentes  aproximadamente 4 toneladas de maconha e skunk.
+Nesse contexto, não se verifica constrangimento ilegal apto a ensejar a concessão da ordem, devendo ser preservada a custódia cautelar, porquanto devidamente fundamentada na gravidade concreta do delito, evidenciada pela elevada quantidade de droga apreendida.
+A corroborar: AgRg no HC n. 1.053.528/RN, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 25/2/2026, DJEN de 3/3/2026; AgRg no HC n. 1.017.815/MG, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 12/11/2025, DJEN de 17/11/2025.
+Do mesmo modo, não se verifica constrangimento ilegal quanto ao regime prisional fechado, o qual se mostra adequadamente fundamentado na expressiva quantidade de droga apreendida.
+Ilustrativamente: (AgRg no HC n. 1.073.459/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 10/3/2026, DJEN de 17/3/2026.
+Ante o exposto, indefiro liminarmente a inicial.
+Publique-se.
+EMENTA
+DIREITO PENAL E PROCESSUAL PENAL. HABEAS CORPUS. TRÁFICO DE DROGAS. TRANSPORTE INTERESTADUAL DE APROXIMADAMENTE QUATRO TONELADAS DE MACONHA E SKANK. PRISÃO PREVENTIVA MANTIDA. GRAVIDADE CONCRETA DA CONDUTA. GARANTIA DA ORDEM PÚBLICA. CONVENIÊNCIA DA INSTRUÇÃO CRIMINAL. APLICAÇÃO DA LEI PENAL. MEDIDAS CAUTELARES ALTERNATIVAS INSUFICIENTES. CONDIÇÕES PESSOAIS FAVORÁVEIS IRRELEVANTES. REGIME FECHADO. LEGALIDADE E PROPORCIONALIDADE. AUSÊNCIA DE CONSTRANGIMENTO ILEGAL.
+Indeferimento liminar da inicial.
