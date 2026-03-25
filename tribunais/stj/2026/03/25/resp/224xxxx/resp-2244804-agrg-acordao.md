@@ -1,0 +1,88 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUINTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 19/03/2026 a 25/03/2026, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Messod Azulay Neto, Maria Marluce Caldas, Reynaldo Soares da Fonseca e Ribeiro Dantas votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Reynaldo Soares da Fonseca.
+EMENTA
+Direito penal. Agravo regimental NO recurso especial. Tráfico de drogas. Tráfico privilegiado. Dosimetria. Fração de redução. Quantidade e natureza da droga. Dissídio jurisprudencial prejudicado. Agravo regimental desprovido.
+I. Caso em exame
+1. Agravo regimental interposto contra decisão monocrática proferida em recurso especial, com fundamento na Súmula n. 568 do STJ, que conheceu do apelo e negou-lhe provimento em condenação por tráfico de drogas, mantendo a fração de 1/6 aplicada à causa especial de diminuição de pena do tráfico privilegiado.
+2. Agravante alega ilegalidade na fração de redução aplicada na terceira fase da dosimetria, por suposta violação ao art. 42 da Lei n. 11.343/2006 e desacerto da decisão agravada, requerendo retratação ou submissão do agravo ao órgão colegiado para provimento do recurso especial.
+II. Questão em discussão
+3. A questão em discussão consiste em: (i) saber se é ilegal a fixação da causa especial de diminuição de pena prevista no art. 33, § 4º, da Lei n. 11.343/2006 no patamar de 1/6, em razão da quantidade e da natureza das drogas apreendidas, à luz do art. 42 da Lei de Drogas, sem configurar bis in idem na dosimetria; e (ii) saber se subsiste o exame do recurso especial pela alínea "c" do art. 105, III, da Constituição Federal (dissídio jurisprudencial), quando o apelo, fundado na alínea "a" e versando sobre os mesmos dispositivos legais e tese jurídica, foi conhecido e não provido.
+III. Razões de decidir
+4. O Tribunal de origem manteve a causa especial de diminuição do § 4º do art. 33 da Lei n. 11.343/2006 no patamar de 1/6, fundamentando a opção na expressiva quantidade e natureza dos entorpecentes apreendidos, elementos diretamente relacionados aos agravantes.
+5. A jurisprudência do STJ admite que a quantidade e a natureza da droga sejam valoradas alternativamente, a critério motivado do magistrado, ou na primeira fase (pena-base) ou na terceira fase (modulação da causa de diminuição do tráfico privilegiado), desde que não haja utilização concomitante dessas circunstâncias em ambas as etapas, sob pena de bis in idem.
+6. No caso concreto, a quantidade e a natureza dos entorpecentes não foram utilizadas para exasperar a pena-base, tendo servido apenas para modular a fração de redução na terceira fase da dosimetria, inexistindo duplicidade de valoração e, por conseguinte, violação ao art. 42 da Lei n. 11.343/2006.
+7. A expressiva quantidade de drogas apreendidas justifica, em conformidade com a orientação consolidada do STJ, a fixação da minorante do tráfico privilegiado no patamar mínimo de 1/6.
+8. O recurso especial fundado em dissídio jurisprudencial resta prejudicado quando o apelo interposto com base na alínea "a" do art. 105, III, da Constituição Federal é inadmitido ou não provido quanto ao mesmo dispositivo legal e à mesma tese jurídica discutidos pela alínea "c".
+9. Inexistindo argumentos novos capazes de infirmar os fundamentos da decisão monocrática, impõe-se a manutenção do decisum que negou provimento ao recurso especial.
+IV. Dispositivo e tese
+10. Resultado do Julgamento: Agravo regimental desprovido, mantendo-se a decisão monocrática que negou provimento ao recurso especial e a fração de 1/6 aplicada à causa de diminuição do tráfico privilegiado.
+Tese de julgamento:
+1. O magistrado pode valorar a quantidade e a natureza da droga apreendida para modular a fração da causa especial de diminuição do art. 33, § 4º, da Lei n. 11.343/2006, desde que tais elementos não tenham sido utilizados para exasperar a pena-base, afastando-se o bis in idem.
+2. A expressiva quantidade de entorpecentes apreendidos autoriza, de forma fundamentada, a fixação da causa especial de diminuição do tráfico privilegiado no patamar mínimo de 1/6.
+3. Fica prejudicado o exame do recurso especial fundado em dissídio jurisprudencial quando o apelo interposto com base na alínea "a" do art. 105, III, da Constituição Federal, versando sobre o mesmo dispositivo e a mesma tese jurídica, é inadmitido ou não provido.
+Dispositivos relevantes citados: CF/1988, art. 105, III, "a" e "c"; Lei n. 11.343/2006, arts. 33, § 4º, e 42; Súmula n. 568 do STJ
+Jurisprudência relevante citada: STJ, HC 725.534/SP, Terceira Seção, Rel. Min. Ribeiro Dantas, j. 27.04.2022; STJ, AgRg no HC n. 983.263/SP, Rel. Min. Ribeiro Dantas, Quinta Turma, j. 02.04.2025, DJe 08.04.2025; STJ, AgRg no REsp n. 2.124.529/MG, Rel. Min. Og Fernandes, Sexta Turma, j. 12.11.2025, DJe 17.11.2025; STJ, AgRg no AREsp n. 2.698.096/BA, Rel. Min. Rogerio Schietti Cruz, Sexta Turma, j. 05.11.2024, DJe 07.11.2024
+RELATÓRIO
+Trata-se de agravo regimental interposto por GABRIEL LUIZ RODRIGUES BOTELHO e GABRYEL MARQUES RIBEIRO contra decisão de minha lavra, às fls. 512/516, que conheceu do recurso especial e, com fundamento na Súmula n. 568 do STJ, negou-lhe provimento.
+No presente agravo regimental (fls. 521/526), a defesa insiste nas teses recursais de ilegalidade da fração aplicada na redução do tráfico privilegiado, do que decorre o desacerto da decisão agravada.
+Requer a retratação da decisão agravada ou a submissão do presente recurso ao julgamento do órgão colegiado, a fim de que seja provido seu apelo especial.
+EMENTA
+Direito penal. Agravo regimental NO recurso especial. Tráfico de drogas. Tráfico privilegiado. Dosimetria. Fração de redução. Quantidade e natureza da droga. Dissídio jurisprudencial prejudicado. Agravo regimental desprovido.
+I. Caso em exame
+1. Agravo regimental interposto contra decisão monocrática proferida em recurso especial, com fundamento na Súmula n. 568 do STJ, que conheceu do apelo e negou-lhe provimento em condenação por tráfico de drogas, mantendo a fração de 1/6 aplicada à causa especial de diminuição de pena do tráfico privilegiado.
+2. Agravante alega ilegalidade na fração de redução aplicada na terceira fase da dosimetria, por suposta violação ao art. 42 da Lei n. 11.343/2006 e desacerto da decisão agravada, requerendo retratação ou submissão do agravo ao órgão colegiado para provimento do recurso especial.
+II. Questão em discussão
+3. A questão em discussão consiste em: (i) saber se é ilegal a fixação da causa especial de diminuição de pena prevista no art. 33, § 4º, da Lei n. 11.343/2006 no patamar de 1/6, em razão da quantidade e da natureza das drogas apreendidas, à luz do art. 42 da Lei de Drogas, sem configurar bis in idem na dosimetria; e (ii) saber se subsiste o exame do recurso especial pela alínea "c" do art. 105, III, da Constituição Federal (dissídio jurisprudencial), quando o apelo, fundado na alínea "a" e versando sobre os mesmos dispositivos legais e tese jurídica, foi conhecido e não provido.
+III. Razões de decidir
+4. O Tribunal de origem manteve a causa especial de diminuição do § 4º do art. 33 da Lei n. 11.343/2006 no patamar de 1/6, fundamentando a opção na expressiva quantidade e natureza dos entorpecentes apreendidos, elementos diretamente relacionados aos agravantes.
+5. A jurisprudência do STJ admite que a quantidade e a natureza da droga sejam valoradas alternativamente, a critério motivado do magistrado, ou na primeira fase (pena-base) ou na terceira fase (modulação da causa de diminuição do tráfico privilegiado), desde que não haja utilização concomitante dessas circunstâncias em ambas as etapas, sob pena de bis in idem.
+6. No caso concreto, a quantidade e a natureza dos entorpecentes não foram utilizadas para exasperar a pena-base, tendo servido apenas para modular a fração de redução na terceira fase da dosimetria, inexistindo duplicidade de valoração e, por conseguinte, violação ao art. 42 da Lei n. 11.343/2006.
+7. A expressiva quantidade de drogas apreendidas justifica, em conformidade com a orientação consolidada do STJ, a fixação da minorante do tráfico privilegiado no patamar mínimo de 1/6.
+8. O recurso especial fundado em dissídio jurisprudencial resta prejudicado quando o apelo interposto com base na alínea "a" do art. 105, III, da Constituição Federal é inadmitido ou não provido quanto ao mesmo dispositivo legal e à mesma tese jurídica discutidos pela alínea "c".
+9. Inexistindo argumentos novos capazes de infirmar os fundamentos da decisão monocrática, impõe-se a manutenção do decisum que negou provimento ao recurso especial.
+IV. Dispositivo e tese
+10. Resultado do Julgamento: Agravo regimental desprovido, mantendo-se a decisão monocrática que negou provimento ao recurso especial e a fração de 1/6 aplicada à causa de diminuição do tráfico privilegiado.
+Tese de julgamento:
+1. O magistrado pode valorar a quantidade e a natureza da droga apreendida para modular a fração da causa especial de diminuição do art. 33, § 4º, da Lei n. 11.343/2006, desde que tais elementos não tenham sido utilizados para exasperar a pena-base, afastando-se o bis in idem.
+2. A expressiva quantidade de entorpecentes apreendidos autoriza, de forma fundamentada, a fixação da causa especial de diminuição do tráfico privilegiado no patamar mínimo de 1/6.
+3. Fica prejudicado o exame do recurso especial fundado em dissídio jurisprudencial quando o apelo interposto com base na alínea "a" do art. 105, III, da Constituição Federal, versando sobre o mesmo dispositivo e a mesma tese jurídica, é inadmitido ou não provido.
+Dispositivos relevantes citados: CF/1988, art. 105, III, "a" e "c"; Lei n. 11.343/2006, arts. 33, § 4º, e 42; Súmula n. 568 do STJ
+Jurisprudência relevante citada: STJ, HC 725.534/SP, Terceira Seção, Rel. Min. Ribeiro Dantas, j. 27.04.2022; STJ, AgRg no HC n. 983.263/SP, Rel. Min. Ribeiro Dantas, Quinta Turma, j. 02.04.2025, DJe 08.04.2025; STJ, AgRg no REsp n. 2.124.529/MG, Rel. Min. Og Fernandes, Sexta Turma, j. 12.11.2025, DJe 17.11.2025; STJ, AgRg no AREsp n. 2.698.096/BA, Rel. Min. Rogerio Schietti Cruz, Sexta Turma, j. 05.11.2024, DJe 07.11.2024
+VOTO
+Bem analisado o recurso, a parte agravante não trouxe qualquer argumento novo capaz de ensejar a alteração do entendimento firmado por ocasião da decisão monocrática já proferida.
+De fato, consoante consta na decisão agravada, acerca da violação ao art. 42 da Lei 11.343/06, o TRIBUNAL DE JUSTIÇA DO ESTADO DE SANTA CATARINA assim justificou o quantum de redução da pena pelo reconhecimento do tráfico privilegiado (grifos nossos):
+"Como se sabe, é vedada a aplicação cumulativa da natureza e quantidade da droga na primeira e terceira fase da dosimetria.
+Todavia, ao contrário do que sustenta a defesa, cabe ao magistrado optar, no exercício de sua discricionariedade motivada, pela etapa em que tais circunstâncias serão consideradas (primeira ou terceira fase) desde que, repisa-se, não haja duplicidade na valoração
+Sob este enfoque, "é possível a valoração da quantidade e natureza da droga apreendida, tanto para a fixação da pena-base quanto para a modulação da causa de diminuição prevista no art. 33, § 4º, da Lei n. 11.343/2006, neste último caso ainda que sejam os únicos elementos aferidos, desde que não tenham sido considerados na primeira fase do cálculo da pena" (STJ, HC 725.534/SP, Terceira Seção, Rel. Min. Ribeiro Dantas, j. 27/04/2022, Info 734).
+No presente caso, o magistrado singular deixou de exasperar a pena na primeira fase, tendo optado por adotar o fracionário de 1/6 (um sexto) sobre o privilégio, em razão da quantidade de entorpecentes apreendidos, sendo 272 tabletes compactados de maconha, totalizando 161kg, 40 porções de skank, com massa bruta de 11,6kg, 5 porções adicionais de skank, totalizando 14,6g e 5 sementes de maconha, conforme laudos periciais (eventos 21.2 e 25.1 - autos de origem).
+Logo, inexiste ilegalidade na forma como foi conduzida a dosimetria da pena, devendo ser mantida a modulação operada pelo sentenciante na terceira etapa, inclusive quanto à fração de 1/6 (um sexto) aplicada à redutora prevista no art. 33, §4º, da Lei n. 11.343/06." (fl. 422, grifo nosso).
+Como registrado na decisão agravada, depreende-se dos trechos acima que o Tribunal de origem manteve a aplicação da causa especial de diminuição de pena do § 4º do art. 33 da Lei n. 11.343/2006 no patamar de 1/6 considerando, essencialmente, a expressiva quantidade de entorpecentes apreendida e relacionada aos recorrentes.
+Dessa maneira, tal qual assinalado na decisão monocrática, o acórdão do TJSC está em consonância com a jurisprudência desta Corte Superior, a qual estabeleceu a possibilidade de valoração da quantidade e da natureza da droga tanto para a fixação da pena-base quanto para a modulação da causa de diminuição prevista no art. 33, § 4º, da Lei 11.343/2006 (alternativamente, a critério do magistrado), neste último caso ainda que sejam os únicos elementos aferidos, desde que não haja a utilização concomitante destas circunstâncias na fixação da pena-base e para modulação da fração do privilégio.
+Registre-se que no caso dos autos a quantidade e natureza da droga não foram utilizadas para exasperação da pena-base, mas apenas o foram para a modulação da fração da redução da reprimenda na terceira fase da dosimetria da pena, sem que tenha ocorrido qualquer bis in idem, o que vai ao encontro da jurisprudência desta Corte Superior
+Por outro lado, reafirma-se que a expressiva quantidade de drogas relacionadas ao delito ( 272 tabletes compactados de maconha, totalizando 161kg, 40 porções de skank, com massa bruta de 11,6kg, 5 porções adicionais de skank, totalizando 14,6g e 5 sementes de maconha) justifica a incidência da minorante em questão no patamar mínimo.
+Nesse sentido, citam-se precedentes:
+DIREITO PENAL. AGRAVO REGIMENTAL. TRÁFICO DE DROGAS. APLICAÇÃO DA MINORANTE DO TRÁFICO PRIVILEGIADO. AGRAVO IMPROVIDO.
+I. CASO EM EXAME
+1. Agravo regimental interposto contra decisão monocrática que não conheceu do habeas corpus, mas concedeu a ordem, de ofício, para redimensionar a pena imposta ao paciente para 4 anos e 2 meses de reclusão, em regime inicial semiaberto, mais o pagamento de 416 dias-multa.
+2. O agravante busca a aplicação do patamar de 2/3 à minorante do tráfico privilegiado, a fixação do regime aberto e a substituição da pena privativa de liberdade por restritivas de direitos.
+II. Questão em discussão
+3. A questão em discussão consiste em saber se a quantidade e a natureza da droga apreendida podem ser utilizadas para modular a causa de diminuição de pena prevista no art. 33, § 4º, da Lei 11.343/2006, e se é possível aplicar o patamar de 2/3 à minorante do tráfico privilegiado.
+III. Razões de decidir
+4. A quantidade e a natureza da droga apreendida são elementos idôneos para modular a causa de diminuição de pena, desde que não valoradas na primeira etapa da dosimetria, conforme entendimento consolidado pelo Supremo Tribunal Federal e pelo Superior Tribunal de Justiça.
+5. No caso concreto, a expressiva quantidade de droga apreendida justifica a aplicação da minorante no patamar de 1/6, conforme o art. 42 da Lei n. 11.343/2006.
+IV. Dispositivo e tese
+6. Agravo improvido.
+Tese de julgamento: "1. A quantidade e a natureza da droga apreendida podem ser utilizadas para modular a causa de diminuição de pena prevista no art. 33, § 4º, da Lei 11.343/2006, desde que não valoradas na primeira etapa da dosimetria. 2. A expressiva quantidade de droga apreendida justifica a aplicação da minorante no patamar de 1/6.".
+Dispositivos relevantes citados: Lei 11.343/2006, art. 33, § 4º;
+Código Penal, arts. 33, § 2º, e 44.Jurisprudência relevante citada:
+STF, ARE 666.334/AM, Rel. Min. Gilmar Mendes; STJ, HC 725.534/SP, Rel. Min. Ribeiro Dantas, Terceira Seção, julgado em 27/4/2022.
+(AgRg no HC n. 983.263/SP, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 2/4/2025, DJEN de 8/4/2025.)
+PENAL E PROCESSUAL PENAL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. DOSIMETRIA. TERCEIRA FASE. TRÁFICO PRIVILEGIADO. QUANTIDADE E NATUREZA DA DROGA. GRAU DE DIMINUIÇÃO. AGRAVO REGIMENTAL PROVIDO.
+1. A quantidade e a natureza da droga apreendida podem servir de fundamento para a majoração da pena-base ou para a modulação da fração da causa de diminuição prevista no art. 33, § 4º, da Lei n. 11.343/2006, desde que, neste último caso, não tenham sido utilizadas na primeira fase da dosimetria. Precedente.
+2. No caso, considerando a apreensão de grande quantidade de droga, de alto poder nocivo, não valorada na primeira etapa da dosimetria, mostra-se imperativa a redução da pena na terceira fase por força da referida minorante na fração mínima legalmente prevista (1/6).
+3. Agravo regimental provido.
+(AgRg no REsp n. 2.124.529/MG, relator Ministro Og Fernandes, Sexta Turma, julgado em 12/11/2025, DJEN de 17/11/2025.)
+Por fim, tendo em vista que a interposição do recurso especial pelo dissidio jurisprudencial está relacionada ao mesmo dispositivo legal acima analisado, tem-se que o recurso está mesmo prejudicado neste ponto, pois: "Segundo entendimento desta Corte, a inadmissão ou o não provimento do especial interposto com fundamento no art. 105, III, "a", da Constituição Federal prejudica o exame do recurso no ponto em que suscita divergência jurisprudencial se o dissídio alegado diz respeito ao mesmo dispositivo legal ou à mesma tese jurídica, como na espécie" (AgRg no AREsp n. 2.698.096/BA, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 5/11/2024, DJe de 7/11/2024).
+Ante o exposto, voto pelo desprovimento do agravo regimental.
