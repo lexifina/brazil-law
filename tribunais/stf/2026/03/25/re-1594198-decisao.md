@@ -1,0 +1,27 @@
+RECURSO EXTRAORDINÁRIO. PROCESSUAL CIVIL. ADMINISTRATIVO. DIREITO À SAÚDE. AUTORA COM DIAGNÓSTICO DE AMPUTAÇÃO TRANSFEMURAL (CID S78.1). NECESSIDADE DE COMPONENTE PROTÉTICO LINER DE SILICONE COM 5 ANÉIS DE VEDAÇÃO E VÁLVULA DE EXPULSÃO DE AR AUTOMÁTICA. AÇÃO PROPOSTA CONTRA O MUNICÍPIO DE PORTO ALEGRE. AGRAVO DE INSTRUMENTO INTERPOSTO CONTRA DECISÃO QUE DEFERIU PEDIDO DE TUTELA PROVISÓRIA DE URGÊNCIA. CONTROVÉRSIA ACERCA DO DEFERIMENTO OU INDEFERIMENTO DE MEDIDAS CAUTELARES, PROVIMENTOS LIMINARES OU ANTECIPAÇÃO DE TUTELA. INADMISSIBILIDADE DO RECURSO EXTRAORDINÁRIO. INCIDÊNCIA DA SÚMULA 735 DO SUPREMO TRIBUNAL FEDERAL. RECURSO INTERPOSTO SOB A ÉGIDE DO NOVO CÓDIGO DE PROCESSO CIVIL. AUSÊNCIA DE CONDENAÇÃO EM HONORÁRIOS ADVOCATÍCIOS NO JUÍZO RECORRIDO. IMPOSSIBILIDADE DE MAJORAÇÃO NESTA SEDE RECURSAL. ARTIGO 85, § 11, DO CÓDIGO DE PROCESSO CIVIL DE 2015. RECURSO DESPROVIDO.
+
+DECISÃO: Trata-se de recurso extraordinário manejado, com arrimo na alínea a do permissivo constitucional, contra acórdão da 3ª Turma Recursal da Fazenda Pública do Tribunal de Justiça do Estado do Rio Grande do Sul, que negou provimento ao agravo de instrumento do Município de Porto Alegre, para confirmar a decisão que deferiu o pedido de tutela provisória de urgência e determinou àquele ente federativo que fornecesse à autora, Fabiani da Cunha Wurdig, o componente protético liner de silicone com 5 anéis de vedação e válvula de expulsão de ar automática, em face do diagnóstico de amputação transfemural (CID S78.1).
+Não foram opostos embargos de declaração.
+Nas razões do apelo extremo, o Município de Porto Alegre apresenta preliminar de repercussão geral e, no mérito, aponta violação aos artigos 23, inciso II, 196 e 198 da Constituição da República e ao que decidido no julgamento do Tema 793 da Repercussão Geral. Afirma que “o julgado impõe uma obrigação de cunho satisfativo em face do Município de Porto Alegre sem a inclusão da União no polo passivo da demanda, único ente político com competência para deliberar sobre a inclusão de tecnologias no Sistema Único de Saúde, competência esta exercida através do Ministério da Saúde com o assessoramento da CONITEC (Comissão Nacional de Incorporação de Tecnologias no SUS)” (Doc. 11,p. 4). Discorre que “a parte moveu a presente demanda postulando o fornecimento de um componente de órtese/prótese não incorporado ao SUS, o que restou expressamente reconhecido tanto pelo NatJus quanto pela Turma Recursal a quo”, certo que “a prestação de saúde pleiteada pela parte não se encontra padronizada pelo SUS“ (Doc. 11, p. 7). Argumenta que “a tecnologia requerida pela parte Recorrida não está incorporada para disponibilização pelo SUS, de sorte que a análise sobre sua eventual inclusão se encontra na esfera de competência exclusiva da União, por meio do Ministério da Saúde” (Doc. 11, p. 8).
+Fabiani da Cunha Würdig apresentou contrarrazões ao recurso extraordinário (Doc. 13).
+Admitiu-se o recurso extraordinário (Doc.14).
+É o relatório. DECIDO.
+O recurso não merece prosperar.
+Ab initio, assevere-se que esta Suprema Corte firmou jurisprudência no sentido de que não cabe recurso extraordinário contra decisão que defere ou indefere medida cautelar, provimento liminar ou antecipação dos efeitos da tutela, por vedação expressa da Súmula 735 deste Tribunal, de seguinte teor: “Não cabe recurso extraordinário contra acórdão que defere medida liminar”.
+Nesse sentido, confiram-se, à guisa de exemplo, os seguintes julgados proferidos em casos semelhantes:
+
+“AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. PROCESSUAL CIVIL. FORNECIMENTO DE MEDICAMENTOS PELO ESTADO. ACÓRDÃO QUE MANTEVE DEFERIMENTO DE TUTELA ANTECIPADA. SÚMULA 735 DO SUPREMO TRIBUNAL FEDERAL. PRECEDENTES. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO.” (Recurso Extraordinário 540.982-AgR, Rel. Min. Cármen Lúcia, Primeira Turma, DJe de 08/05/2009, destaquei)
+
+“Direito administrativo. Agravo interno em recurso extraordinário com agravo. Ação de obrigação de fazer. Fornecimento de medicamento pelo estado. Recurso interposto contra decisão que analisa pedido de antecipação de tutela ou medida liminar. Incidência da súmula nº 735/STF.
+1. Agravo interno contra decisão que negou seguimento a recurso extraordinário com agravo.
+2. A jurisprudência do Supremo Tribunal Federal entende não ser possível a interposição de recurso extraordinário contra decisão que concede ou indefere medida liminar ou antecipação de tutela (Súmula nº 735/STF).
+ 3. Inaplicável o art. 85, § 11, do CPC/2015, uma vez que não houve prévia fixação de honorários advocatícios de sucumbência. 4. Agravo interno a que se nega provimento.” (Recurso Extraordinário com Agravo 1.452.821-AgR, Rel. Min. Roberto Barroso, Plenário, DJe de 09/01/2024, destaquei)
+
+Por fim, observo que o presente recurso foi interposto sob a égide da nova lei processual, o que conduziria à aplicação de sucumbência recursal. Nada obstante, por não ter havido condenação ao pagamento de honorários advocatícios na Turma Recursal a quo, fica impossibilitada a sua majoração, nos termos do artigo 85, § 11, do Código de Processo Civil.
+Ex positis, DESPROVEJO o RECURSO EXTRAORDINÁRIO, com fundamento no artigo 932, inciso VIII, do Código de Processo Civil de 2015 c/c o artigo 21, § 1º, do Regimento Interno do Supremo Tribunal Federal.
+Publique-se.
+Brasília, 25 de março de 2026.
+
+Ministro LUIZ FUX
+Relator
+Documento assinado digitalmente
