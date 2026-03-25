@@ -1,0 +1,162 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUINTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 19/03/2026 a 25/03/2026, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Maria Marluce Caldas, Reynaldo Soares da Fonseca, Ribeiro Dantas e Joel Ilan Paciornik votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Reynaldo Soares da Fonseca.
+EMENTA
+Direito processual penal. Agravo regimental em recurso ordinário em habeas corpus. AÇÃO PENAL PRIVADA. SUPOSTOS CRIMES CONTRA A HONRA. DECADÊNCIA E INÉPCIA DA QUEIXA-CRIME. TRANCAMENTO PREMATURO. INVIABILIDADE. Agravo regimental desprovido.
+I. Caso em exame
+1. O recurso. Agravo regimental interposto contra decisão monocrática que negara provimento a recurso ordinário em habeas corpus, por meio do qual a agravante buscava o trancamento de ação penal privada instaurada em razão de queixa-crime pelos supostos delitos de calúnia e difamação (arts. 138 e 139 do Código Penal).
+2. Fato relevante. A agravante, advogada, teve contra si oferecida queixa-crime em virtude de imputações feitas em estabelecimento comercial, na presença de policiais e terceiros, nas quais teria afirmado que determinada joia seria produto de roubo, fato que os querelantes sustentam configurar calúnia e difamação.
+3. Decisões anteriores. O Tribunal de origem afastou a alegada decadência do direito de queixa, reconheceu a regularidade formal da queixa-crime (presença de procuração, recolhimento de custas e atendimento ao art. 41 do CPP) e entendeu inexistirem hipóteses excepcionais que justificassem o trancamento prematuro da ação penal.
+II. Questão em discussão
+4. Há duas questões em discussão: (i) saber se houve decadência do direito de queixa, em razão de suposta extemporaneidade, de alegada falta de recolhimento de custas e de ausência de procuração com poderes especiais para a queixa-crime, bem como do ajuizamento inicial perante juízo absolutamente incompetente; e (ii) saber se a queixa-crime é inepta ou se a conduta é atípica a ponto de justificar, na via do habeas corpus e de seu agravo regimental, o trancamento da ação penal privada por falta de justa causa.
+III. Razões de decidir
+5. Afastou-se a decadência porque o fato ocorreu em 03/07/2024 e a queixa-crime foi apresentada em 29/11/2024, dentro do prazo legal de 6 meses, constando nos autos a juntada das procurações nos autos originários e o recolhimento regular das custas.
+6. Reconheceu-se que a distribuição equivocada do termo circunstanciado a juízo absolutamente incompetente, com posterior exclusão e redistribuição ao juízo competente, não obsta a interrupção do prazo decadencial, pois o simples ajuizamento da queixa-crime, ainda que perante juízo incompetente, é suficiente para interromper a decadência.
+7. Assentou-se, à luz da jurisprudência desta Corte, que o não recolhimento inicial de custas, quando inexigíveis no momento do ajuizamento perante Juizado Especial Criminal, não acarreta decadência, sendo possível o recolhimento posterior, após a remessa ao juízo comum e a intimação da parte, o que foi realizado.
+8. Concluiu-se que a queixa-crime descreve, de forma suficiente, os fatos supostamente criminosos, com suas circunstâncias, a qualificação da querelada e a classificação jurídica, atendendo ao art. 41 do Código de Processo Penal e permitindo o pleno exercício do contraditório e da ampla defesa, razão pela qual não se verifica inépcia.
+9. Registrou-se que o trancamento da ação penal, na via estreita do habeas corpus e de seu recurso, somente é cabível em hipóteses excepcionais de atipicidade evidente da conduta, ausência manifesta de justa causa, causa de extinção da punibilidade ou inépcia da peça acusatória, situações não configuradas no caso, diante da existência de indícios mínimos de autoria e de materialidade a serem examinados na instrução.
+10. Destacou-se a impossibilidade de revolvimento aprofundado do conjunto fático-probatório em habeas corpus, de modo que teses relativas à ausência de dolo, à imunidade profissional da advogada e à suposta atipicidade da conduta devem ser apreciadas no juízo natural, no bojo da ação penal.
+11. Verificou-se que o agravo regimental não apresentou fundamentos novos capazes de infirmar a decisão monocrática, impondo-se a sua manutenção pelos próprios fundamentos.
+IV. Dispositivo e tese
+12. Resultado do Julgamento: Agravo regimental desprovido, mantendo-se a decisão que negara provimento ao recurso ordinário em habeas corpus e indeferira o trancamento da ação penal privada.
+Tese de julgamento:
+1. O ajuizamento de queixa-crime dentro do prazo legal, ainda que perante juízo absolutamente incompetente, interrompe o prazo decadencial do direito de queixa.
+2. O não recolhimento de custas, quando inexigíveis no momento do ajuizamento perante Juizado Especial Criminal, não impede a interrupção do prazo decadencial, sendo possível o recolhimento posterior, após intimação, com a remessa ao juízo comum.
+3. A queixa-crime que atende aos requisitos do art. 41 do Código de Processo Penal, descrevendo suficientemente os fatos e permitindo o exercício da defesa, não é inepta e não autoriza o trancamento da ação penal.
+4. O trancamento da ação penal na via do habeas corpus e de seu recurso ordinário é medida excepcional, inadmissível quando dependente de exame aprofundado de fatos e provas ou quando presentes indícios mínimos de autoria e materialidade.
+Dispositivos relevantes citados: CP, arts. 138 e 139; CPP, art. 41; CPP, art. 387, IV; CF/1988, art. 5º, X; Lei n. 9.099/1995, art. 72; Lei n. 8.906/1994, com redação da Lei n. 14.365/2022.
+Jurisprudência relevante citada: STJ, AgRg no REsp 1.560.769/SP, Sexta Turma, Rel. Min. Sebastião Reis Júnior, DJe 25/2/2016; STJ, AgRg no RHC 184.944/RN, Sexta Turma, Rel. Min. Otávio de Almeida Toledo (Desembargador Convocado do TJSP), DJe 23/8/2024; STJ, AgRg no HC 881.836/SP, Sexta Turma, Rel. Min. Rogerio Schietti Cruz, DJe 11/4/2024; STJ, AgRg no RHC 194.209/SP, Quinta Turma, Rel. Min. Reynaldo Soares da Fonseca, DJe 22/3/2024; STJ, AgRg no HC 819.078/SP, Sexta Turma, Rel. Min. Laurita Vaz, DJe 15/6/2023; STJ, AgRg no HC 817.562/RS, Quinta Turma, Rel. Min. Reynaldo Soares da Fonseca, DJe 30/6/2023; STJ, AgRg no HC 812.438/SP, Quinta Turma, Rel. Min. Ribeiro Dantas, DJe 29/6/2023; STJ, HC 704.718/SP, Sexta Turma, Rel. Min. Laurita Vaz, DJe 23/5/2023; STJ, AgRg no HC 811.106/SP, Sexta Turma, Rel. Min. Rogerio Schietti Cruz, DJe 22/6/2023.
+RELATÓRIO
+Trata-se de agravo regimental interposto por RAYSSA COSTA VIEIRA contra a decisão que negou provimento ao recurso ordinário em habeas corpus.
+Consta dos autos que a agravante teve, contra si, apresentada uma queixa-crime pelos supostos crimes de calúnia (art. 138) e difamação (art. 139, ambos do CP).
+Nas razões do presente recurso, a defesa sustenta a ocorrência de constrangimento ilegal e manifesta inépcia da queixa-crime.
+Aduz que a agravante foi acusada de crime contra a honra durante o exercício profissional da advocacia.
+Argumenta que, para a configuração do delito de calúnia, é preciso que haja a imputação falsa de fato definido como crime.
+Alega que "a frase que teria sido proferida pela AGRAVANTE não é suficiente para narrar, nem de forma superficial, a prática de um delito, sendo descabida a alegação de que a AGRAVANTE teria dado "a entender que os Querelantes seriam criminosos, que teriam supostamente roubado a referida e joia e, ainda, estariam leiloando suposto produto de crime de roubo" (fls. 14/15 dos autos originários)" (fl. 351).
+Afirma que "Trata-se, antes de mais nada, de grave criminalização do mero exercício da atividade advocatícia, consubstanciada no acompanhamento de diligência" (fl. 352).
+Defende que a queixa-crime deveria ser rejeitada por extemporaneidade.
+Menciona ausência de procuração com poderes especiais para a queixa-crime.
+Requer, ao final, a reconsideração da decisão monocrática ou a submissão do pleito a julgamento pelo órgão colegiado, para que seja conhecido e provido o presente agravo regimental, concedendo a ordem pretendida.
+Pedido de sustentação oral, à fl. 359.
+O Ministério Público Federal manifestou ciência da decisão, à fl. 339.
+Por manter a decisão ora agravada por seus próprios e jurídicos fundamentos, submeto o agravo regimental à apreciação da Quinta Turma.
+É o relatório.
+EMENTA
+Direito processual penal. Agravo regimental em recurso ordinário em habeas corpus. AÇÃO PENAL PRIVADA. SUPOSTOS CRIMES CONTRA A HONRA. DECADÊNCIA E INÉPCIA DA QUEIXA-CRIME. TRANCAMENTO PREMATURO. INVIABILIDADE. Agravo regimental desprovido.
+I. Caso em exame
+1. O recurso. Agravo regimental interposto contra decisão monocrática que negara provimento a recurso ordinário em habeas corpus, por meio do qual a agravante buscava o trancamento de ação penal privada instaurada em razão de queixa-crime pelos supostos delitos de calúnia e difamação (arts. 138 e 139 do Código Penal).
+2. Fato relevante. A agravante, advogada, teve contra si oferecida queixa-crime em virtude de imputações feitas em estabelecimento comercial, na presença de policiais e terceiros, nas quais teria afirmado que determinada joia seria produto de roubo, fato que os querelantes sustentam configurar calúnia e difamação.
+3. Decisões anteriores. O Tribunal de origem afastou a alegada decadência do direito de queixa, reconheceu a regularidade formal da queixa-crime (presença de procuração, recolhimento de custas e atendimento ao art. 41 do CPP) e entendeu inexistirem hipóteses excepcionais que justificassem o trancamento prematuro da ação penal.
+II. Questão em discussão
+4. Há duas questões em discussão: (i) saber se houve decadência do direito de queixa, em razão de suposta extemporaneidade, de alegada falta de recolhimento de custas e de ausência de procuração com poderes especiais para a queixa-crime, bem como do ajuizamento inicial perante juízo absolutamente incompetente; e (ii) saber se a queixa-crime é inepta ou se a conduta é atípica a ponto de justificar, na via do habeas corpus e de seu agravo regimental, o trancamento da ação penal privada por falta de justa causa.
+III. Razões de decidir
+5. Afastou-se a decadência porque o fato ocorreu em 03/07/2024 e a queixa-crime foi apresentada em 29/11/2024, dentro do prazo legal de 6 meses, constando nos autos a juntada das procurações nos autos originários e o recolhimento regular das custas.
+6. Reconheceu-se que a distribuição equivocada do termo circunstanciado a juízo absolutamente incompetente, com posterior exclusão e redistribuição ao juízo competente, não obsta a interrupção do prazo decadencial, pois o simples ajuizamento da queixa-crime, ainda que perante juízo incompetente, é suficiente para interromper a decadência.
+7. Assentou-se, à luz da jurisprudência desta Corte, que o não recolhimento inicial de custas, quando inexigíveis no momento do ajuizamento perante Juizado Especial Criminal, não acarreta decadência, sendo possível o recolhimento posterior, após a remessa ao juízo comum e a intimação da parte, o que foi realizado.
+8. Concluiu-se que a queixa-crime descreve, de forma suficiente, os fatos supostamente criminosos, com suas circunstâncias, a qualificação da querelada e a classificação jurídica, atendendo ao art. 41 do Código de Processo Penal e permitindo o pleno exercício do contraditório e da ampla defesa, razão pela qual não se verifica inépcia.
+9. Registrou-se que o trancamento da ação penal, na via estreita do habeas corpus e de seu recurso, somente é cabível em hipóteses excepcionais de atipicidade evidente da conduta, ausência manifesta de justa causa, causa de extinção da punibilidade ou inépcia da peça acusatória, situações não configuradas no caso, diante da existência de indícios mínimos de autoria e de materialidade a serem examinados na instrução.
+10. Destacou-se a impossibilidade de revolvimento aprofundado do conjunto fático-probatório em habeas corpus, de modo que teses relativas à ausência de dolo, à imunidade profissional da advogada e à suposta atipicidade da conduta devem ser apreciadas no juízo natural, no bojo da ação penal.
+11. Verificou-se que o agravo regimental não apresentou fundamentos novos capazes de infirmar a decisão monocrática, impondo-se a sua manutenção pelos próprios fundamentos.
+IV. Dispositivo e tese
+12. Resultado do Julgamento: Agravo regimental desprovido, mantendo-se a decisão que negara provimento ao recurso ordinário em habeas corpus e indeferira o trancamento da ação penal privada.
+Tese de julgamento:
+1. O ajuizamento de queixa-crime dentro do prazo legal, ainda que perante juízo absolutamente incompetente, interrompe o prazo decadencial do direito de queixa.
+2. O não recolhimento de custas, quando inexigíveis no momento do ajuizamento perante Juizado Especial Criminal, não impede a interrupção do prazo decadencial, sendo possível o recolhimento posterior, após intimação, com a remessa ao juízo comum.
+3. A queixa-crime que atende aos requisitos do art. 41 do Código de Processo Penal, descrevendo suficientemente os fatos e permitindo o exercício da defesa, não é inepta e não autoriza o trancamento da ação penal.
+4. O trancamento da ação penal na via do habeas corpus e de seu recurso ordinário é medida excepcional, inadmissível quando dependente de exame aprofundado de fatos e provas ou quando presentes indícios mínimos de autoria e materialidade.
+Dispositivos relevantes citados: CP, arts. 138 e 139; CPP, art. 41; CPP, art. 387, IV; CF/1988, art. 5º, X; Lei n. 9.099/1995, art. 72; Lei n. 8.906/1994, com redação da Lei n. 14.365/2022.
+Jurisprudência relevante citada: STJ, AgRg no REsp 1.560.769/SP, Sexta Turma, Rel. Min. Sebastião Reis Júnior, DJe 25/2/2016; STJ, AgRg no RHC 184.944/RN, Sexta Turma, Rel. Min. Otávio de Almeida Toledo (Desembargador Convocado do TJSP), DJe 23/8/2024; STJ, AgRg no HC 881.836/SP, Sexta Turma, Rel. Min. Rogerio Schietti Cruz, DJe 11/4/2024; STJ, AgRg no RHC 194.209/SP, Quinta Turma, Rel. Min. Reynaldo Soares da Fonseca, DJe 22/3/2024; STJ, AgRg no HC 819.078/SP, Sexta Turma, Rel. Min. Laurita Vaz, DJe 15/6/2023; STJ, AgRg no HC 817.562/RS, Quinta Turma, Rel. Min. Reynaldo Soares da Fonseca, DJe 30/6/2023; STJ, AgRg no HC 812.438/SP, Quinta Turma, Rel. Min. Ribeiro Dantas, DJe 29/6/2023; STJ, HC 704.718/SP, Sexta Turma, Rel. Min. Laurita Vaz, DJe 23/5/2023; STJ, AgRg no HC 811.106/SP, Sexta Turma, Rel. Min. Rogerio Schietti Cruz, DJe 22/6/2023.
+VOTO
+No presente recurso, a agravante pede a reversão do julgado ora agravado. Da decisão impugnada, entretanto, colhe-se que analisou de forma devidamente fundamentada os pontos apresentados.
+Cinge-se a matéria a verificar a possibilidade de trancamento da ação penal, seja pela decadência (incluindo a falta de recolhimento de custas e de juntada de procuração nos autos) seja pela inépcia da queixa-crime (também em razão da suposta atipicidade dos fatos).
+No caso concreto, o Tribunal assim julgou a matéria (fls. 78-80):
+ ..  Conforme explicitado na decisão na decisão liminar: as procurações se encontram nos autos originários (id. 189749150 e 189751252) e as custas foram recolhidas corretamente (id. 200390917).
+Quanto ao prazo de apresentação da queixa-crime, este foi cumprido, vez que o fato ocorreu no dia 03/07/2024, de acordo com o Termo Circunstanciado n. 014-10427/2024, e os querelantes apresentaram a queixa-crime no dia 29/11/2024 (id. 189751259 - à época n. 0145768-12.2024.8.19.0001 -, ou seja, dentro do prazo legal de 6 meses.  ..
+Ocorre que o termo circunstanciado foi distribuído equivocadamente ao 4º JECRIM - Leblon (n. 0145768-12.2024.8.19.0001) e a distribuição foi excluída para que fosse feita perante o juízo competente, gerando o processo de n. 0852945- 49.2025.8.19.0001, o que já fora esclarecido na decisão atacada.
+Assim, descabida a alegação de decadência. (grifei)
+No que concerne a fatos e provas, a origem realizou o devido cotejamento, sendo impossível, na via eleita, desconstituir o alegado, em não se identificando um constrangimento ilegal.
+No mais, não obstante a discussão sobre as datas acima, esta Corte Superior entende que a queixa-crime proposta no juízo absolutamente incompetente, ainda assim, interrompe o prazo decadencial.
+Vejamos:
+AGRAVO REGIMENTAL EM RECURSO ESPECIAL. PENAL E PROCESSO PENAL. AÇÃO PENAL PRIVADA PROPOSTA DENTRO DO PRAZO LEGAL. AJUIZAMENTO PERANTE JUÍZO ABSOLUTAMENTE INCOMPETENTE. IRRELEVÂNCIA. INTERRUPÇÃO DO PRAZO DECADENCIAL. HONORÁRIOS SUCUMBENCIAIS. INCABÍVEIS. NÃO APRECIAÇÃO DO MÉRITO DA DEMANDA.
+1. Ainda que a queixa-crime tenha sido apresentada perante juízo absolutamente incompetente, o seu ajuizamento interrompe a decadência. Precedentes.  ..
+5. Agravo regimental improvido. (AgRg no REsp 1560769/SP, Sexta Turma, Rel. Min. Sebastião Reis Júnior, DJe 25/2/2016, grifei).
+AGRAVO REGIMENTAL NO RECURSO EM HABEAS CORPUS. QUEIXA-CRIME. DECADÊNCIA. NÃO RECOLHIMENTO DE CUSTAS QUANDO DO AJUIZAMENTO PERANTE JUIZADO ESPECIAL. INEXIGÊNCIA. RECOLHIMENTO A POSTERIORI, QUANDO DA REMESSA AO JUÍZO SINGULAR. POSSIBILIDADE. PRECEDENTES.
+1. Conforme entendimento do Superior Tribunal de Justiça, o simples ajuizamento de queixa-crime é suficiente para interromper o prazo decadencial, ainda que tenha sido apresentada perante Juízo incompetente (RHC 25.311/RJ).
+2. Oferecida a queixa-crime dentro do prazo decadencial, perante Juizado Especial Criminal, em que há recolhimento de custas, não se cogita de sua exigência no momento do ajuizamento.
+3. Somente com a remessa ao Juízo Comum é que se tornou exigível tal recolhimento, o qual, após intimação, é incontroverso ter sido realizado.
+4. É possível a posterior intimação do interessado para pagamento em caso de falta ou insuficiência de recolhimento das custas (HC 131.078/PI). Precedentes.
+5. Agravo regimental não provido (AgRg no RHC n. 184.944/RN, relator Ministro Otávio de Almeida Toledo (Desembargador Convocado do TJSP), Sexta Turma, julgado em 19/8/2024, DJe de 23/8/2024.)
+Portanto, não ficou evidenciada a decadência.
+O trancamento da ação penal constitui medida excepcional, justificada apenas quando comprovadas, de plano, sem necessidade de análise aprofundada de fatos e provas, a atipicidade da conduta, a presença de causa de extinção de punibilidade, a ausência de indícios mínimos de autoria ou de prova da materialidade.
+A liquidez dos fatos, assim, constitui requisito inafastável na apreciação da justa causa, pois o exame aprofundado de provas é inadmissível no espectro processual do habeas corpus ou de seu recurso ordinário, uma vez que seu manejo pressupõe ilegalidade ou abuso de poder flagrante a ponto de ser demonstrada de plano (AgRg no HC n. 881.836/SP, Sexta Turma, Rel. Min. Rogerio Schietti Cruz, DJe de 11/4/2024).
+No mesmo sentido:
+ ..  Como é de conhecimento, o trancamento de ação penal ou de procedimento investigativo na via estreita do habeas corpus somente é possível, em caráter excepcional, quando se comprovar, de plano, a inépcia da denúncia, a atipicidade da conduta, a incidência de causa de extinção da punibilidade ou a ausência de indícios de autoria ou prova da materialidade do delito. Não se admite, por essa razão, na maior parte das vezes, a apreciação de alegações fundadas na ausência de dolo na conduta do agente ou de inexistência de indícios de autoria e materialidade em sede mandamental, pois tais constatações dependem, via de regra, da análise pormenorizada dos fatos, ensejando revolvimento de provas incompatível, como referido alhures, com o rito sumário do mandamus (AgRg no RHC n. 194.209/SP, Quinta Turma, Rel. Min. Reynaldo Soares da Fonseca, DJe de 22/3/2024).
+Com efeito, segundo pacífica jurisprudência desta Corte Superior, a propositura da ação penal exige tão somente a presença de indícios mínimos de autoria, não sendo exigida a certeza, que a toda evidência somente será comprovada ou afastada após a instrução probatória, prevalecendo, na fase de oferecimento da denúncia, o princípio da busca pela verdade real.
+Para delimitar a quaestio, transcrevo trechos do acórdão (fls. 79-80):
+ ..  Quanto à alegação de inépcia, também sem razão.
+A queixa-crime discorreu acerca das condutas supostamente perpetradas pela ora paciente. A peça descreve suficientemente os fatos criminosos, com todas as suas circunstâncias, tudo a dar à querelada total condição de exercício das garantias constitucionais do contraditório e da ampla defesa, estando preenchido o disposto no artigo 41 do CP.
+Como bem destaca o culto Procurador de Justiça em seu parecer, "poderá a paciente dela  da queixa-crime  se defender por estarem devidamente narrados os fatos, sendo o suficiente para o momento, já que não se identificou nenhuma das hipóteses previstas no art. 397 do CPP".
+Por tudo que foi exposto, dirijo meu voto no sentido de conhecimento do writ, e, no mérito, pela DENEGAÇÃO DA ORDEM.
+Como complemento, trago os termos da queixa-crime (fls. 133-139):
+No dia 12 de novembro de 2024, o querelante efetuou o termo circunstanciado nº 014-10427/2024 sobre o fato ocorrido em 03 de julho de 2024 às 10:30 no seu estabelecimento comercial, La Gemme Leilões (www.lagemmeleiloes.com.br), localizado na Rua Visconde de Pirajá, nº 550, loja 206, bairro Ipanema, Rio de Janeiro/RJ - CEP: 22410-901.
+Na data dos fatos, a querelada RAYSSA COSTA VIEIRA chegou na loja com a foto de uma pulseira de ouro amarelo com esmeraldas e brilhantes e pediu para ter acesso a joia, alegando que teria interesse na compra do objeto.
+A querelada foi atendida pela querelante MIRIAM SIQUEIRA que atendeu a solicitação e entregou a joia para a análise da querelada, conforme minuto 8:00 do vídeo em anexo.
+Após ter acesso a joia, a querelada exigiu que a querelante MIRIAM abrisse a porta para dois amigos. Nesse momento, a funcionária explicou que não seria possível a entrada de mais pessoas por motivos de segurança do local.
+Em que pese a negativa da funcionária, quando MIRIAM foi guardar a joia, a querelada abriu a porta, conforme minuto 16:08 no vídeo e deixou os supostos amigos entrarem.
+Os amigos da querelada eram, na realidade, policiais civis da Delegacia de Polícia de Maricá e também policiais civis da Delegacia de Polícia da Ilha do Governador, o que causou uma grande confusão na loja.
+Com a entrada dos policiais, a querelada passou a dizer: "ESTA JOIA É ROUBADA.. ESTA JOIA É ROUBADA", levando a entender que os Querelantes seriam criminosos, que teriam supostamente roubado a referida e joia e, ainda, estariam leiloando suposto produto de crime de roubo.
+Os policiais civis informaram que havia uma investigação em andamento da Delegacia de Polícia de São Paulo e estavam procurando uma joia de ouro com esmeraldas que havia sido roubada.
+A querelante MIRIAM SIQUEIRA imediatamente entrou em contato com a proprietária da joia, GILDA HELENA BERNARDINO DE CAMPOS, que se dirigiu até o local com sua filha.
+Com a presença da proprietária da joia e do delegado de polícia Dr. Bruno Gilabert, foi feita a comparação das fotos da joia roubada em São Paulo e a joia da loja La Gemme Leilões e, claramente, foi possível perceber que não se tratava da mesma pulseira, conforme minuto 27:00 do vídeo em anexo.
+A querelada, sem qualquer tipo de prova, imputou o crime de ROUBO ao querelante e sua empresa.
+Além disso, a querelada causou verdadeiro transtorno na loja, com a presença de diversos policiais em um centro comercial movimentado, ofendendo a reputação de uma empresa séria que está no mercado de leilões há mais de vinte anos.
+A imputação falsa do crime gerou transtornos na loja, aos seus funcionários e clientes. A proprietária da joia teve que se dirigir até o local para provar que a joia era sua e não estava envolvida em nenhum roubo ocorrido em São Paulo.
+Além disso, a funcionária da limpeza da loja, presenciou todo o ocorrido e teve todos seus pertences revistados, causando-lhe constrangimento desnecessário (minuto 1:20:33 do vídeo). Os fatos acima narrados tipificam perfeitamente a conduta da querelada, uma vez que praticou os ilícitos penais de calúnia e difamação de forma clara.
+DO DIREITO
+A autoria é inconteste e já se encontra comprovada, pois anexa com a petição inicial, encontra-se o vídeo dos fatos narrados.
+A materialidade delitiva também resta comprovada, e será amplamente discutida em instrução processual, pois trata- se de delitos cujo meio de prova pode e deve ser comprovado por depoimentos testemunhais, entre outros meios probatórios em direito admitidos.
+Destaca-se:
+Calúnia
+"Art. 138 - Caluniar alguém, imputando-lhe falsamente fato definido como crime:
+Pena - detenção, de seis meses a dois anos, e multa".
+Difamação
+"Art. 139 - Difamar alguém, imputando-lhe fato ofensivo à sua reputação:
+Pena - detenção, de três meses a um ano, e multa".
+A honra é direito fundamental, consagrado pelo texto constitucional, no art. 5º, inciso X e sendo conceituado como o conjunto de qualidades físicas, morais e intelectuais de um ser humano, que o fazem merecedor de respeito no meio social.
+A ofensa à honra produz um abalo moral. Os crimes de calúnia e difamação tutelam a honra objetiva, isto é, o bom nome e a reputação das pessoas perante o grupo social.
+No caso em análise, a querelante imputou o crime de roubo à querelante MIRIAM e sua empresa, La Gemme Leilões, na frente dos policiais civis, de sua funcionária (nome) e de sua cliente Gilda Helena.
+A calúnia e a difamação foram praticadas de forma explícita eis que a querelada sequer exitou em dizer que a joia era produto de roubo e não deixou qualquer margem de dúvida em torno da intenção de ofender.
+No caso em apreço, não há em que se falar em erro de tipo, uma vez que a querelada não tomou qualquer precaução para se certificar se os fatos imputados aos querelantes eram verdadeiros.
+A querelada, mesmo sem ter certeza da autoria e materialidade do crime, imputou o roubo à querelante ao dizer que a joia que estava sendo vendida em seu estabelecimento era produto de crime de roubo.
+Não há dúvidas quanto ao DOLO da querelada, pois, como se observa das filmagens, tudo foi previamente planejado. A querelada, sem sequer ter certeza dos fatos, levou diversos policiais civis até o local e imputou o crime de ROUBO aos querelantes, proprietários da loja.
+Para a caracterização do Crime de Calúnia, o agente não necessariamente precisa ter consciência de que são falsa suas afirmações, basta que haja a incerteza da autoria, para que este assuma os riscos decorrentes da ofensa à integridade moral alheia.
+A querelada, em busca de uma joia roubada em São Paulo, encontrou uma joia PARECIDA na La Gemme Leilões e, sem qualquer indício de que se tratava da mesma joia e sem qualquer PROVA de autoria do crime, imputou o fato criminoso aos querelantes. O delegado de polícia, com a comparação das fotos, percebeu que não se tratava do mesmo objeto.
+Em uma rápida análise, foi possível verificar que a joia da loja não era o produto do roubo.
+O crime de calúnia se consuma quando a imputação chega ao conhecimento de terceiro. No caso, o crime foi praticado na frente dos policiais civis, de outra funcionária da loja (nome), da cliente GILDA e de quem estivesse passando na frente da loja no momento do fato.
+Considerando que a loja está localizada em um centro comercial, a movimentação de policiais civis no interior do estabelecimento chama atenção, causa constrangimento e fere a reputação de uma empresa que presta um serviço regular e de excelência há mais de vinte anos.
+Em que pese o crime de calúnia seja formal, consumando-se independente do dano à reputação, houve dano à reputação dos querelantes.
+O mercado de leilões é um ramo sério e fiscalizado, a empresa La Gemme Leilões possui mais de vinte anos de experiência e todos os produtos que são leiloados possuem contrato e são documentados na Junta Comercial.
+Assim, tendo em vista que a única honra da pessoa jurídica é a objetiva, esta poderá ser sujeito ativo em queixa por crime de difamação, não se podendo, neste caso, desconsiderar os abalos sociais que a pessoa jurídica pode sofrer frente sua imagem perante à sociedade, em especial àqueles que com quem mantém relação direta. Cabe destacar que, conforme entendimento do Superior Tribunal de Justiça, os excessos cometidos pelo advogado não são cobertos pela imunidade profissional, e, em tese, é possível sua responsabilização civil ou penal pelos danos que provocar no exercício da atividade.
+Além disso, a Lei nº 14.365/2022, que alterou a Lei 8.906/94 (Estatuto da Advocacia e da OAB) revogou a imunidade profissional do advogado nos crimes de injúria e difamação.
+Diante dos fatos narrados, é evidente o excesso praticado pela querelada, considerando que ela foi até a loja com policiais civis para imputar o crime de ROUBO aos querelantes sem qualquer prova concreta.
+O advogado, no exercício de sua profissão, deve zelar pelos interesses de seus clientes e buscar a justiça, no entanto, deve respeitar os limites da lei.  ..
+DOS PEDIDOS
+1. A concessão dos benefícios da gratuidade de justiça aos Querelantes;
+2. Seja recebida e autuada a presente QUEIXA CRIME, determinando-se a citação da Querelada;
+3. Seja designada audiência preliminar, na forma do artigo 72 da lei 9.099/95 para eventual composição e transação penal, e, em caso de impossibilidade de conciliação, requer seja recebida a presente, citada a querelada para responder aos termos da ação penal;
+4. A produção de todas as provas de Direito admitidas, quais sejam, prova documental, testemunhal, depoimento pessoal, pericial, e as demais admitidas para elucidação do alegado;
+5. A intimação e oitiva das testemunhas abaixo arroladas, bem como seja requisitado o comparecimento do Delegado BRUNO GILABERTE FREITAS (atualmente titular da 61ª Delegacia de Polícia em Xerém), uma vez que acompanhou todo o presente caso, podendo, neste caso, comparecer, também, na qualidade de testemunha;
+6. Requer ainda a fixação de valor mínimo de indenização pelos prejuízos sofridos pelo querelante, nos termos do artigo 387, inciso IV do Código de Processo Penal;
+7. E ao final desta, depois de confirmada judicialmente a autoria e materialidade dos delitos dos autos, seja a Querelada condenada, julgando-se procedente a presente Queixa-Crime, nas penas cominadas nos Artigos 138 e 139 do Código Penal.
+No caso dos autos, portanto, é possível verificar a presença dos indícios mínimos de autoria e de provas da materialidade necessários prima facie para a persecução penal, amparados nos fatos narrados e deduzidos na exordial acusatória.
+Isso porque, nos termos do art. 41 do Código de Processo Penal, a denúncia (queixa-crime) deve descrever o fato criminoso, com todas as suas circunstâncias, bem como a qualificação do acusado e a classificação do crime, in verbis:
+Art. 41. A denúncia ou queixa conterá a exposição do fato criminoso, com todas as suas circunstâncias, a qualificação do acusado ou esclarecimentos pelos quais se possa identificá-lo, a classificação do crime e, quando necessário, o rol das testemunhas.
+Da leitura da narrativa constante dos autos e da peça inicial observa-se que houve a descrição minimamente adequada dos fatos, em tese, imputados.
+É o que basta. Tudo, de forma a possibilitar à agravante o exercício da ampla defesa e do contraditório.
+De qualquer forma, as questões apresentadas pela defesa em sua amplitude dizem respeito diretamente ao mérito da ação penal e serão analisadas em seu tempo.
+De mais a mais, é iterativa a jurisprudência deste Superior Tribunal de Justiça no sentido de ser imprópria a via do habeas corpus ou do seu recurso ordinário para a análise de teses que demandem incursão no acervo fático-probatório (AgRg no HC n. 817.562/RS, Quinta Turma, Rel. Min. Reynaldo Soares da Fonseca, DJe de 30/6/2023; AgRg no HC 812.438/SP, Quinta Turma, Rel. Min. Ribeiro Dantas, DJe de 29/6/2023; HC n. 704.718/SP, Sexta Turma, Relª. Minª. Laurita Vaz, DJe de 23/5/2023; e AgRg no HC 811.106/SP, Sexta Turma, Rel. Min. Rogerio Schietti Cruz, DJe de 22/6/2023).
+Diante disso, não se constatou a flagrante ilegalidade apontada.
+Por fim, destaque-se que, no presente agravo regimental, não se aduziu qualquer argumento apto a ensejar a alteração da decisão ora agravada, devendo ser mantida por seus próp rios fundamentos (AgRg no HC n. 819.078/SP, Sexta Turma, Relª. Minª. Laurita Vaz, DJe de 15/6/2023).
+Ante o exposto, nego provimento ao agravo regimental, mantendo a decisão agravada por seus próprios fundamentos.
+É como voto.
