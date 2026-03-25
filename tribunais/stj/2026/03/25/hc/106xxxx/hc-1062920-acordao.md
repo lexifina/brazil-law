@@ -1,0 +1,38 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEXTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 19/03/2026 a 25/03/2026, por unanimidade, denegar o habeas corpus, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Antonio Saldanha Palheiro, Carlos Pires Brandão e Og Fernandes votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Carlos Pires Brandão.
+Não participou do julgamento o Sr. Ministro Rogerio Schietti Cruz.
+EMENTA
+DIREITO PROCESSUAL PENAL. HABEAS CORPUS. PRISÃO PREVENTIVA. TENTATIVA DE HOMICÍDIO EM CONTEXTO DE TRÁFICO DE DROGAS. GARANTIA DA ORDEM PÚBLICA. FUNDAMENTAÇÃO CONCRETA. MEDIDAS CAUTELARES DIVERSAS. INSUFICIÊNCIA.
+1. A decisão de primeiro grau fundamenta validamente a prisão preventiva, indicando elementos concretos que demonstram a periculosidade do paciente e a necessidade da custódia para garantia da ordem pública, especialmente o modo de execução do delito (disparos de arma de fogo a partir de motocicleta em movimento) e a motivação ligada à dívida decorrente de tráfico de drogas.
+2. Os depoimentos constantes do auto de prisão em flagrante demonstram, de forma suficiente nesta fase, a autoria delitiva e a motivação do crime, uma vez que o ofendido declara a existência de dívida de crack em favor do paciente, a tentativa de homicídio mediante disparo de arma de fogo e as reiteradas ameaças de morte.
+3. O entendimento adotado harmoniza-se com a jurisprudência do Superior Tribunal de Justiça, segundo a qual se afirma o juízo de periculosidade do acusado que pratica crime de homicídio qualificado em contexto de tráfico de drogas, legitimando a prisão preventiva para garantia da ordem pública.
+4. Considerada a intensidade do risco que o estado de liberdade do paciente representa para a ordem pública, as medidas cautelares diversas da prisão, previstas no art. 319 do Código de Processo Penal, mostram-se insuficientes para mitigá-lo de forma satisfatória.
+5. Ordem denegada.
+RELATÓRIO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de Pedro Henrique da Silva Lopes, no qual se aponta como autoridade coatora o Tribunal de Justiça do Estado do Ceará (Habeas Corpus Criminal n. 0628515-80.2025.8.06.0000).
+Segundo consta dos autos, o paciente foi preso em flagrante pela suposta prática do crime previsto no art. 121, § 2º, IV, c/c o art. 14, II, do Código Penal. Na audiência de custódia, a prisão em flagrante foi convertida em preventiva (fls. 57/63).
+O impetrante alega que a prisão preventiva do paciente caracterizaria constrangimento ilegal, na medida em que careceria de fundamentação idônea, pois teria havido um claro acréscimo de fatos para justificar a prisão e tentar demonstrar a gravidade em concreto da conduta (fl. 4).
+Sustenta que, em nenhum momento a vítima narra que foi perseguido durante 15 dias, apenas menciona em seu depoimento que deve ao paciente  pelo fornecimento de drogas  há 15 dias (fl. 4).
+Argumenta que estamos falando de um único disparo de arma de fogo, sem nenhuma comprovação de que o disparo foi em direção à pessoa da vítima, de forma que não haveria constatação de periculosidade além daquela do tipo penal na sua forma tentada (fl. 5).
+Afirma que a prisão preventiva teria sido fundamentada exclusivamente na gravidade da infração penal considerada de forma abstrata e em fatos destoantes daqueles constantes nos autos (fl. 5).
+Ao final, pede, inclusive liminarmente, que seja determinada a soltura do paciente, com a substituição da prisão preventiva pela medida cautelar de monitoramento eletrônico.
+O pedido liminar foi indeferido (fls. 73/74), e as instâncias inferiores prestaram as informações solicitadas (fls. 82/90).
+O Ministério Público Federal manifestou-se pelo não conhecimento do habeas corpus (fls. 92/94).
+É o relatório.
+EMENTA
+DIREITO PROCESSUAL PENAL. HABEAS CORPUS. PRISÃO PREVENTIVA. TENTATIVA DE HOMICÍDIO EM CONTEXTO DE TRÁFICO DE DROGAS. GARANTIA DA ORDEM PÚBLICA. FUNDAMENTAÇÃO CONCRETA. MEDIDAS CAUTELARES DIVERSAS. INSUFICIÊNCIA.
+1. A decisão de primeiro grau fundamenta validamente a prisão preventiva, indicando elementos concretos que demonstram a periculosidade do paciente e a necessidade da custódia para garantia da ordem pública, especialmente o modo de execução do delito (disparos de arma de fogo a partir de motocicleta em movimento) e a motivação ligada à dívida decorrente de tráfico de drogas.
+2. Os depoimentos constantes do auto de prisão em flagrante demonstram, de forma suficiente nesta fase, a autoria delitiva e a motivação do crime, uma vez que o ofendido declara a existência de dívida de crack em favor do paciente, a tentativa de homicídio mediante disparo de arma de fogo e as reiteradas ameaças de morte.
+3. O entendimento adotado harmoniza-se com a jurisprudência do Superior Tribunal de Justiça, segundo a qual se afirma o juízo de periculosidade do acusado que pratica crime de homicídio qualificado em contexto de tráfico de drogas, legitimando a prisão preventiva para garantia da ordem pública.
+4. Considerada a intensidade do risco que o estado de liberdade do paciente representa para a ordem pública, as medidas cautelares diversas da prisão, previstas no art. 319 do Código de Processo Penal, mostram-se insuficientes para mitigá-lo de forma satisfatória.
+5. Ordem denegada.
+VOTO
+Ao examinar os documentos que instruem os autos, não identifico ilegalidade que autorize a concessão da ordem, pelos motivos que passo a expor.
+O Juízo de primeira instância decretou validamente a prisão preventiva do paciente, para a garantia da ordem pública, em razão da periculosidade evidenciada pelas circunstâncias concretas do crime de tentativa de homicídio que deu causa à prisão em flagrante, considerando que o autuado se encontrava em uma motocicleta Honda Bros vermelha, sem capacete, com uma terceira pessoa guiando o veículo, quando efetuou os disparos em desfavor do ofendido, o qual conseguiu se evadir, ocasião em que a motivação do crime seria, em tese, o fato de a vítima possuir uma dívida oriunda da compra de drogas, no importe de R$ 150,00 (cento e cinquenta reais) - (fl. 61).
+A decisão acrescenta que o delito não teria sido fato isolado, posto que se extrai do relato do ofendido que o flagranteado já  o  estava ameaçando e perseguindo há pelo menos 15 (quinze) dias, tendo a vítima mudado, inclusive, de endereço por temer por sua vida (fls. 61/62).
+Esse entendimento está em consonância com a jurisprudência do Superior Tribunal de Justiça, segundo a qual se deve afirmar o juízo de periculosidade do acusado que comete crime de homicídio qualificado em contexto de tráfico de drogas, como é o caso do paciente (cf. RHC n. 200.832/CE, relatora Ministra Daniela Teixeira, Quinta Turma, julgado em 10/12/2024, DJEN de 16/12/2024).
+Diversamente do que alega o impetrante, os depoimentos colhidos no auto de prisão em flagrante demonstram inequivocamente a autoria delitiva e a motivação do crime, especialmente porque o ofendido declarou que está devendo R$ 150,00 de crack  ao paciente, chamado pelas iniciais dos seus prenomes ; que PH, acompanhado de outra pessoa que o depoente não conhece, atentou contra sua vida efetuando um disparo de arma de fogo; e que PH vem ameaçando o depoente de morte já algum tempo, tendo inclusive procurado o depoente na casa de seus familiares por várias vezes (fl. 44).
+Por fim, considerada a intensidade do risco que o estado de liberdade do paciente representa para a ordem pública, é inelutável a conclusão de que nenhuma das medidas cautelares previstas no art. 319 do Código de Processo Penal seria suficiente para mitigá-lo de forma satisfatória.
+Isso posto, denego a ordem .
