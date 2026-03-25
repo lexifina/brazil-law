@@ -1,0 +1,18 @@
+DECISÃO
+Trata-se de recurso especial no qual MARCHER BRASIL AGROINDUSTRIAL S.A. se insurgiu contra o acórdão do TRIBUNAL REGIONAL FEDERAL DA 4ª REGIÃO assim ementado (fl. 175):
+TRIBUTÁRIO. MANDADO DE SEGURANÇA. BENEFÍCIOS FISCAIS DE ICMS DIVERSOS DO CRÉDITO PRESUMIDO. EXCLUSÃO DA BASE DE CÁLCULO DO IRPJ E DA CSLL. ART. 30 DA LEI N.º 12.973/2014 E ALTERAÇÕES DA LEI COMPLEMENTAR N.º 160/2017. NECESSIDADE DE ATENDIMENTO AOS REQUISITOS LEGAIS. TEMA 1.182 DO STJ. AUSÊNCIA DE COMPROVAÇÃO.
+1. Para a exclusão dos benefícios fiscais diversos do crédito presumido da base de cálculo do IRPJ e da CSLL, em que pese seja desnecessária a comprovação prévia de que a subvenção fiscal foi concedida como medida de estímulo à implantação ou expansão do empreendimento econômico, é indispensável o atendimento a todos os requisitos previstos no art. 30 da Lei n.º 12.973/2014 e art. 10 da Lei Complementar n.º 160/2017. Entendimento consolidado pelo STJ no julgamento do Tema 1.182.
+2. Não havendo comprovação nos autos acerca do atendimento aos requisitos legais, inexiste direito líquido e certo a ser amparado por mandado de segurança, que exige prova pré- constituída e não permite dilação probatória.
+Os embargos de declaração opostos foram rejeitados (fls. 203/205).
+Em suas razões, a parte recorrente afirma (fl. 218) :
+Como já afirmado e demonstrado, a Impetrante jamais pretendeu afastar os requisitos previstos no art. 30 da Lei nº 12.973/2014 e no art. 10 da LC nº 160/2017. Desde a inicial, o pedido foi expressamente condicionado ao atendimento dessas exigências legais, de modo que a pretensão sempre foi a de ver reconhecido o direito à exclusão dos benefícios fiscais de ICMS da base de cálculo do IRPJ e da CSLL desde que comprovado o cumprimento dos requisitos estabelecidos em lei.
+A parte adversa apresentou contrarrazões (fls. 238/240).
+O recurso foi admitido às fls. 241/244.
+É o relatório.
+A questão debatida nos autos foi afetada à Primeira Seção do Superior Tribunal de Justiça para ser decidida sob o rito de recursos repetitivos (Tema 1.416/STJ), e foi assim delimitada:
+Definir se os créditos presumidos do Imposto sobre Circulação de Mercadorias e Serviços - ICMS, concedidos pelos Estados-membros como incentivo fiscal à pessoa jurídica, podem ser excluídos das bases de cálculo do Imposto sobre a Renda de Pessoa Jurídica - IRPJ e da Contribuição Social sobre o Lucro Líquido - CSLL, nos regimes jurídicos anterior e posterior à Lei n. 14.789/2023. (REsps 2.221.127/PE, 2.171.374/RS, 2.188.361/RS, e 2.188.282/PR, relatora Ministra Regina Helena Costa ).
+Nos termos do art. 34, XXIV, c/c o art. 256-L, I, ambos do Regimento Interno do Superior Tribunal de Justiça, a admissão de recurso especial como representativo da controvérsia impõe a devolução ao Tribunal de origem dos processos em que foram interpostos recursos cuja matéria identifique-se com o tema afetado, para nele permanecerem suspensos até o fim do julgamento qualificado.
+O envio do recurso especial a esta Corte Superior deve ocorrer somente após o esgotamento da instância ordinária, formalizado com o novo julgamento pelo Tribunal de origem, quando então será possível examinar, no âmbito do STJ, as matérias jurídicas que eventualmente permanecerem controvertidas. Essa cautela também evita o fracionamento do recurso e previne eventual violação ao princípio da unicidade recursal, que veda a interposição simultânea ou sucessiva de recursos contra a mesma decisão.
+Ante o exposto, determino a devolução dos autos, com a devida baixa nesta Corte Superior, a fim de que, em observância aos arts. 1.039 a 1.041 do Código de Processo Civil (CPC), o Tribunal de origem proceda nos termos do art. 1.040 e seguinte do mesmo CPC.
+Publique-se. Intimem-se.
+ EMENTA
