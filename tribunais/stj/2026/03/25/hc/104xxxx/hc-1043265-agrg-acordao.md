@@ -1,0 +1,86 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUINTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 19/03/2026 a 25/03/2026, por unanimidade, negar provimento ao recurso, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Reynaldo Soares da Fonseca, Ribeiro Dantas, Joel Ilan Paciornik e Messod Azulay Neto votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro Reynaldo Soares da Fonseca.
+EMENTA
+Direito Processual Penal. Agravo Regimental. Prisão Preventiva. Gravidade Concreta da Conduta. Risco de Reiteração Delitiva. Agravo Regimental Não Provido.
+I. CASO EM EXAME
+1. Agravo regimental interposto contra decisão que não conheceu de habeas corpus, no qual se pleiteava a revogação de prisão preventiva decretada em razão da gravidade concreta da conduta imputada ao agravante, evidenciada pela variedade de drogas apreendidas (maconha e crack), elevada quantia em dinheiro (R$ 5.439,45) e pela existência de outras passagens criminais.
+2. A defesa sustenta ausência de fundamentação concreta e individualizada para a manutenção da prisão preventiva, alegando que não foram analisadas as condições pessoais do agravante e a possibilidade de aplicação de medidas cautelares diversas da prisão. Argumenta, ainda, que o Ministério Público Federal se manifestou pela concessão da ordem, reconhecendo a inexistência de fundamentos concretos para a prisão preventiva.
+II. QUESTÃO EM DISCUSSÃO
+3. Há duas questões em discussão: (i) saber se a gravidade concreta da conduta imputada ao agravante, evidenciada pela variedade de drogas apreendidas, elevada quantia em dinheiro e outras passagens criminais, justifica a manutenção da prisão preventiva; e (ii) saber se a ausência de análise individualizada das condições pessoais do agravante e da possibilidade de aplicação de medidas cautelares diversas da prisão caracteriza ilegalidade na decisão que manteve a prisão preventiva.
+III. RAZÕES DE DECIDIR
+4. A prisão preventiva foi fundamentada na gravidade concreta da conduta imputada ao agravante, evidenciada pela variedade de drogas apreendidas, elevada quantia em dinheiro e outras passagens criminais, circunstâncias que indicam maior potencial lesivo da conduta e periculosidade do agente.
+5. A jurisprudência consolidada desta Corte Superior reconhece que a gravidade concreta do delito e a periculosidade do agente, evidenciadas pelo modus operandi, são fundamentos idôneos para justificar a prisão preventiva, visando à garantia da ordem pública.
+6. A presença de condições pessoais favoráveis não impede a imposição da prisão preventiva quando presentes os requisitos legais, sendo incabível sua substituição por medidas cautelares mais brandas quando a custódia provisória apresenta fundamentação concreta.
+7. A alegação de desproporcionalidade da prisão cautelar, com base em futura e hipotética condenação em regime mais brando, não se sustenta, pois, a dosimetria da pena e a fixação do regime de cumprimento dependem do encerramento da instrução criminal.
+8. O habeas corpus não deve ser utilizado como sucedâneo de revisão criminal ou recurso próprio, sendo incabível seu manejo para reexame de matéria já apreciada pelas instâncias ordinárias, salvo em hipóteses de flagrante ilegalidade, abuso de poder ou teratologia, o que não se verifica no caso concreto.
+IV. DISPOSITIVO E TESE
+9. Resultado do Julgamento: Agravo regimental não provido.
+Tese de julgamento: 1. A gravidade concreta da conduta imputada e a periculosidade do agente, evidenciadas pelo modus operandi, são fundamentos idôneos para justificar a prisão preventiva, visando à garantia da ordem pública.
+2. A presença de condições pessoais favoráveis não impede a imposição da prisão preventiva, quando presentes os requisitos legais.
+3. A prisão preventiva pode ser decretada ante o risco concreto de reiteração delitiva, evidenciado por maus antecedentes, reincidência, atos infracionais pretéritos ou ações penais em andamento.
+4. O habeas corpus não deve ser utilizado como sucedâneo de revisão criminal ou recurso próprio, salvo em hipóteses de flagrante ilegalidade, abuso de poder ou teratologia.
+RELATÓRIO
+Trata-se de agravo regimental interposto por ANTONIO JOHNATA N SILVA DE ALMEIDA, contra decisão de fls. 56-60, que não conheceu do habeas corpus.
+Sustenta a defesa que a decisão agravada não enfrentou de forma concreta e individualizada a possibilidade de aplicação de medidas cautelares diversas da prisão, limitando-se a ratificar fundamentos genéricos já constantes do decreto prisional e que inexiste na decisão qualquer análise individualizada do agravante que evidencie risco concreto à ordem pública, à instrução criminal ou à aplicação da lei penal que não pudesse ser adequadamente enfrentado mediante medidas menos severas.
+Destaca que o Ministério Público manifestou-se expressamente pela concessão da ordem, reconhecendo a ausência de fundamentação concreta apta a justificar a manutenção da prisão preventiva. Tal circunstância, embora não vincule o julgador, não pode ser simplesmente desconsiderada, sobretudo quando o órgão ministerial federal, no exercício de sua função constitucional, conclui pela inexistência dos requisitos autorizadores da segregação cautelar
+Requer o conhecimento e provimento do presente Agravo Regimental, para que seja reconsiderada a decisão agravada e, subsidiariamente, que o feito seja submetido à apreciação do Colegiado, a fim de que seja reconhecida a ilegalidade da prisão preventiva.
+É o relatório.
+EMENTA
+Direito Processual Penal. Agravo Regimental. Prisão Preventiva. Gravidade Concreta da Conduta. Risco de Reiteração Delitiva. Agravo Regimental Não Provido.
+I. CASO EM EXAME
+1. Agravo regimental interposto contra decisão que não conheceu de habeas corpus, no qual se pleiteava a revogação de prisão preventiva decretada em razão da gravidade concreta da conduta imputada ao agravante, evidenciada pela variedade de drogas apreendidas (maconha e crack), elevada quantia em dinheiro (R$ 5.439,45) e pela existência de outras passagens criminais.
+2. A defesa sustenta ausência de fundamentação concreta e individualizada para a manutenção da prisão preventiva, alegando que não foram analisadas as condições pessoais do agravante e a possibilidade de aplicação de medidas cautelares diversas da prisão. Argumenta, ainda, que o Ministério Público Federal se manifestou pela concessão da ordem, reconhecendo a inexistência de fundamentos concretos para a prisão preventiva.
+II. QUESTÃO EM DISCUSSÃO
+3. Há duas questões em discussão: (i) saber se a gravidade concreta da conduta imputada ao agravante, evidenciada pela variedade de drogas apreendidas, elevada quantia em dinheiro e outras passagens criminais, justifica a manutenção da prisão preventiva; e (ii) saber se a ausência de análise individualizada das condições pessoais do agravante e da possibilidade de aplicação de medidas cautelares diversas da prisão caracteriza ilegalidade na decisão que manteve a prisão preventiva.
+III. RAZÕES DE DECIDIR
+4. A prisão preventiva foi fundamentada na gravidade concreta da conduta imputada ao agravante, evidenciada pela variedade de drogas apreendidas, elevada quantia em dinheiro e outras passagens criminais, circunstâncias que indicam maior potencial lesivo da conduta e periculosidade do agente.
+5. A jurisprudência consolidada desta Corte Superior reconhece que a gravidade concreta do delito e a periculosidade do agente, evidenciadas pelo modus operandi, são fundamentos idôneos para justificar a prisão preventiva, visando à garantia da ordem pública.
+6. A presença de condições pessoais favoráveis não impede a imposição da prisão preventiva quando presentes os requisitos legais, sendo incabível sua substituição por medidas cautelares mais brandas quando a custódia provisória apresenta fundamentação concreta.
+7. A alegação de desproporcionalidade da prisão cautelar, com base em futura e hipotética condenação em regime mais brando, não se sustenta, pois, a dosimetria da pena e a fixação do regime de cumprimento dependem do encerramento da instrução criminal.
+8. O habeas corpus não deve ser utilizado como sucedâneo de revisão criminal ou recurso próprio, sendo incabível seu manejo para reexame de matéria já apreciada pelas instâncias ordinárias, salvo em hipóteses de flagrante ilegalidade, abuso de poder ou teratologia, o que não se verifica no caso concreto.
+IV. DISPOSITIVO E TESE
+9. Resultado do Julgamento: Agravo regimental não provido.
+Tese de julgamento: 1. A gravidade concreta da conduta imputada e a periculosidade do agente, evidenciadas pelo modus operandi, são fundamentos idôneos para justificar a prisão preventiva, visando à garantia da ordem pública.
+2. A presença de condições pessoais favoráveis não impede a imposição da prisão preventiva, quando presentes os requisitos legais.
+3. A prisão preventiva pode ser decretada ante o risco concreto de reiteração delitiva, evidenciado por maus antecedentes, reincidência, atos infracionais pretéritos ou ações penais em andamento.
+4. O habeas corpus não deve ser utilizado como sucedâneo de revisão criminal ou recurso próprio, salvo em hipóteses de flagrante ilegalidade, abuso de poder ou teratologia.
+VOTO
+Presentes os requisitos de admissibilidade, conheço do recurso.
+No mérito, contudo, a irresignação deixa de justificar-se, devendo a decisão atacada ser mantida por seus próprios fundamentos.
+A decisão ora agravada foi proferida nos seguintes termos (fls. 56-60):
+ ..
+Verifica-se que a prisão preventiva foi decretada mediante fundamentação idônea, para garantia da ordem pública, lastreada na gravidade concreta da conduta imputada: variedade de drogas (maconha e crack) e elevada quantia em dinheiro (R$ 5.439,45), além do fato de o paciente possuir outras passagens criminais - circunstâncias que revelam a indispensabilidade da imposição da medida extrema no caso concreto.
+Com efeito, nos casos de prisão em flagrante por tráfico de drogas, a conversão em prisão preventiva pode ser decretada quando a gravidade concreta da conduta se evidencia em fatores como a quantidade e a natureza da substância apreendida, a forma de acondicionamento ou a presença de instrumentos destinados à comercialização, circunstâncias que revelam maior potencial lesivo da conduta e indicam periculosidade do agente, ultrapassando a mera gravidade abstrata do delito.
+ ..
+Além disso, esta Corte Superior firmou orientação no sentido de que a prisão preventiva poderá ser decretada ante o risco concreto de reiteração delitiva, evidenciada na presença de maus antecedentes, reincidência, atos infracionais pretéritos ou até mesmo ações penais em andamento, porquanto indicativos de periculosidade.
+ ..
+Nesse contexto, quando presentes os requisitos do do CPP, a imposição da prisão preventiva é medida de rigor, independentemente de condições pessoais favoráveis do agente, mostrando-se inadequadas medidas cautelares diversas do art. 319 quando a custódia provisória apresentar fundamentação concreta.
+Nesse sentido, " a  presença de condições pessoais favoráveis não impede a imposição da prisão preventiva, quando presentes os requisitos legais" (AgRg no HC n. 990.311/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 22/4/2025, DJEN de 30/4/2025)
+Ademais, "tendo sido exposta de forma fundamentada e concreta a necessidade da prisão, revela-se incabível sua substituição por outras medidas cautelares mais brandas" (AgRg noHC n. 965.960/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 5/3/2025 DJEN de 10/3/2025)
+Outrossim, é descabida a alegação de desproporcionalidade da prisão cautelar, com base em futura e hipotética condenação a ser cumprida em regime mais brando, haja vista que o juízo só poderá dosar a pena e fixar o respectivo regime após o encerramento da instrução criminal. Não é possível antecipar tal análise em habeas corpus por se exigir prévia produção de prova.
+Por fim, vale destacar que, em que pese o ilustrado membro do Ministério Público Federal ter se manifestado pela concessão da ordem (fls. 49-53), importante repisar a concretude da fundamentação do decreto, mormente o fato do paciente possuir outras passagens criminais. Não há, portanto, flagrante ilegalidade que justifique a concessão da ordem de ofício.
+Ante o exposto, não conheço do habeas corpus
+Publique-se. Intimem-se.
+Inicialmente, o habeas corpus não deve ser manejado como sucedâneo de revisão criminal ou recurso próprio, sendo incabível sua utilização quando se pretende reexame de matéria já apreciada pelas instâncias ordinárias, salvo em hipóteses de flagrante ilegalidade, abuso de poder ou teratologia, nos termos do art. 654, § 2º, do CPP, situação excepcional não evidenciada nos presentes autos.
+Posto isso, observa-se que a prisão preventiva foi mantida com base em fundamentos concretos, ante a gravidade da conduta, evidenciada na variedade de drogas (maconha e crack ) e elevada quantia em dinheiro (R$ 5.439,45), além do fato de o paciente possuir outras passagens criminais - circunstâncias que revelam a indispensabilidade da imposição da medida extrema no caso concreto e que revelam maior potencial lesivo da conduta e indicam periculosidade do agente, ultrapassando a mera gravidade abstrata do delito. Além do que esta Corte Superior firmou orientação no sentido de que a prisão preventiva poderá ser decretada ante o risco concreto de reiteração delitiva, evidenciada na presença de maus antecedentes, reincidência, atos infracionais pretéritos ou até mesmo ações penais em andamento, porquanto indicativos de periculosidade.
+Com efeito, esta Corte Superior possui orientação no sentido de que a gravidade concreta do delito imputado e a periculosidade do agente, evidenciadas no modus operandi empregado, são circunstâncias aptas a justificar a prisão preventiva para a garantia da ordem pública. Nesse entendimento:
+AGRAVO REGIMENTAL EM HABEAS CORPUS. HOMICÍDIO DUPLAMENTE QUALIFICADO. PRISÃO PREVENTIVA. FUNDAMENTAÇÃO. PERICULOSIDADE DO AGENTE. GRAVIDADE CONCRETA. RÉU QUE SE MANTEVE FORAGIDO DURANTE VÁRIOS ANOS. SEGREGAÇÃO DEVIDAMENTE JUSTIFICADA PARA A GARANTIA DA ORDEM PÚBLICA E APLICAÇÃO DA LEI PENAL. CONDIÇÕES PESSOAIS FAVORÁVEIS. IRRELEVÂNCIA. MEDIDAS CAUTELARES ALTERNATIVAS. INSUFICIÊNCIA. AUSÊNCIA DE CONSTRANGIMENTO ILEGAL. RECURSO NÃO PROVIDO.
+ ..
+4. Esta Corte possui jurisprudência consolidada no sentido de que "a gravidade concreta da conduta, reveladora do potencial elevado grau de periculosidade do Agente e consubstanciada na alta reprovabilidade do modus operandi empregado na empreitada delitiva, é fundamento idôneo a lastrear a prisão preventiva, com o intuito de preservar a ordem pública". (AgRg no HC n. 687.840/MS, Rel. Ministra Laurita Vaz, Sexta Turma, julgado em 13/12/2022, DJe 19/12/2022).
+ ..
+9. Agravo regimental a que se nega provimento.
+(AgRg no HC n. 939.735/PE, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 30/10/2024, DJe de 5/11/2024.)
+Além disso, esta Corte Superior firmou orientação no sentido de que a prisão preventiva poderá ser decretada ante o risco concreto de reiteração delitiva, evidenciada na presença de maus antecedentes, reincidência, atos infracionais pretéritos ou até mesmo ações penais em andamento, porquanto indicativos de periculosidade. Veja-se:
+AGRAVO REGIMENTAL NO RECURSO EM HABEAS CORPUS. RÉU CONDENADO POR ROUBO MAJORADO. NEGATIVA DE RECURSO EM LIBERDADE. FUNDAMENTAÇÃO. PERICULOSIDADE DO AGENTE. REITERAÇÃO DELITIVA. SEGREGAÇÃO DEVIDAMENTE JUSTIFICADA PARA A GARANTIA DA ORDEM PÚBLICA. MEDIDAS CAUTELARES ALTERNATIVAS. INSUFICIÊNCIA. AUSÊNCIA DE CONSTRANGIMENTO ILEGAL. RECURSO NÃO PROVIDO.
+ ..
+3. Conforme pacífica jurisprudência desta Corte, "a preservação da ordem pública justifica a imposição da prisão preventiva quando o agente ostentar maus antecedentes, reincidência, atos infracionais pretéritos, inquéritos ou mesmo ações penais em curso, porquanto tais circunstâncias denotam sua contumácia delitiva e, por via de consequência, sua periculosidade" (RHC n. 107.238/GO, Relator Ministro ANTONIO SALDANHA PALHEIRO, Sexta Turma, julgado em 26/2/2019, DJe 12/3/2019). Prisão preventiva, no caso vertente, devidamente justificada para a garantia da ordem pública, nos termos do art. 312 do CPP, visando frear a reiteração delitiva.
+ ..
+7. Agravo regimental a que se nega provimento.
+(AgRg no RHC n. 187.651/GO, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 9/9/2024, DJe de 12/9/2024.)
+Ressalta-se que, em que pese o ilustrado membro do Ministério Público Federal ter se manifestado pela concessão da ordem (fls. 49-53), importante repisar a concretude da fundamentação do decreto, mormente o fato do paciente possuir outras passagens criminais.
+Desse modo, "tendo sido exposta de forma fundamentada e concreta a necessidade da prisão, revela-se incabível sua substituição por outras medidas cautelares mais brandas" (AgRg no HC n. 965.960/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 5/3/2025, DJEN de 10/3/2025).
+Não há, portanto, flagrante ilegalidade que justifique a concessão da ordem de ofício.
+Ante o exposto, nego provimento ao agravo regimental.
+É o voto.
