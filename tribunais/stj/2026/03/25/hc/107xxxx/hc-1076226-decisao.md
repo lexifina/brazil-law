@@ -1,0 +1,23 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em favor de ROBERTO MATEUS BARBOSA contra ato atribuído ao Desembargador Presidente da Segunda Câmara Criminal do Tribunal de Justiça Militar de Minas Gerais, no qual se sustenta a irregularidade da intimação do acórdão proferido em sede de apelação, em razão de sua publicação durante o período de recesso forense, o que teria inviabilizado o exercício oportuno dos recursos cabíveis e culminado na certificação do trânsito em julgado.
+A liminar foi deferida para suspender a audiência admonitória e os atos executórios dela decorrentes (e-STJ, fls. 935-937).
+As informações prestadas esclarecem que o acórdão foi encaminhado para publicação no Diário de Justiça Eletrônico Nacional em 19/12/2025, com disponibilização em 22/12/2025 e publicação em 23/12/2025. Consta, ainda, que a contagem do prazo recursal foi considerada apenas após o término do período de recesso (e-STJ, fls. 950-965).
+O Ministério Público Federal opinou pelo não conhecimento da impetração, por entender tratar-se de habeas c orpus manejado como sucedâneo de revisão criminal (e-STJ, fls. 972-974).
+É o relatório.
+Decido.
+A impetração deve ser conhecida.
+Não se está diante de hipótese de utilização do habeas corpus como sucedâneo de revisão criminal, pois a controvérsia não recai sobre o mérito da condenação, mas sobre a própria validade da formação do trânsito em julgado. Discute-se, em verdade, a regularidade da intimação do acórdão e os efeitos dela decorrentes, questão que se projeta diretamente sobre o exercício da ampla defesa e, por conseguinte, sobre a liberdade de locomoção do paciente.
+No mérito, a ordem deve ser concedida.
+Os dados relevantes são incontroversos: o acórdão foi encaminhado para publicação em 19/12/2025; disponibilizado em 22/12/2025; e publicado em 23/12/2025. Paralelamente, a Portaria Conjunta n. 303/2025 do Tribunal de Justiça Militar de Minas Gerais estabeleceu a suspensão dos prazos processuais no período de 20/12/2025 a 20/01/2026, além de limitar o envio de notas de expediente até as 18h do dia 19/12/2025.
+A correta compreensão do caso exige distinguir dois momentos distintos: o envio do expediente e a efetiva intimação.
+O envio da nota ao DJEN constitui ato interno da Administração Judiciária, voltado à organização do fluxo de publicações. Já a intimação, em sentido jurídico, somente se perfaz com a disponibilização e posterior publicação do ato no diário oficial, momento em que ele se torna cognoscível pelas partes e apto a produzir efeitos processuais.
+No caso concreto, embora o encaminhamento do expediente tenha ocorrido dentro do limite temporal previsto na portaria, a disponibilização e a publicação deram-se já no período de recesso forense, quando estavam suspensos os prazos processuais.
+Essa circunstância é determinante.
+A eficácia da intimação não pode ser antecipada para o momento do envio do expediente, sob pena de se admitir que o ato produza efeitos antes mesmo de sua existência jurídica. Se a publicação  que é o ato que dá ciência às partes  ocorreu em período de suspensão de prazos, não se pode atribuir a ela o efeito de deflagrar, validamente, a contagem recursal.
+A própria dinâmica processual confirma essa compreensão. Consta dos autos que a contagem do prazo recursal foi considerada apenas após o término do recesso, o que revela que o próprio sistema reconheceu que a publicação realizada em dezembro não produziu, naquele momento, efeitos para fins de intimação eficaz.
+Não se mostra razoável, nesse contexto, exigir da defesa o acompanhamento de publicações durante o recesso forense, período em que o próprio Tribunal declarou a suspensão dos prazos. Admitir o contrário implicaria esvaziar o regime do recesso e transferir à parte o ônus de suportar as consequências de um ato praticado em momento de excepcionalidade.
+A situação ganha relevo porque, a partir dessa publicação, foi certificada a ocorrência do trânsito em julgado e iniciadas providências executórias, inclusive com designação de audiência admonitória. O prejuízo, portanto, é concreto e evidente: a defesa foi privada da possibilidade de impugnar o acórdão por meio dos recursos cabíveis.
+Nesse cenário, resta comprometida a validade da intimação do acórdão e, por consequência, da certificação do trânsito em julgado.
+Ante o exposto, concedo a ordem para declarar a nulidade da certificação de trânsito em julgado e dos atos executórios subsequentes, determinando que seja considerada como válida, para fins de intimação, a publicação realizada após o término do período de suspensão dos prazos, com a consequente reabertura do prazo recursal em favor da defesa.
+Publique-se. Intime-se.
+EMENTA
