@@ -1,0 +1,58 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUINTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 19/03/2026 a 25/03/2026, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Joel Ilan Paciornik, Messod Azulay Neto, Maria Marluce Caldas e Reynaldo Soares da Fonseca votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Reynaldo Soares da Fonseca.
+EMENTA
+Direito processual penal. Agravo regimental em habeas corpus. tráfico de drogas. Revisão criminal. Sustentação oral em sessão presencial/videoconferência. Intimação regular. Inobservância de regras regimentais. Busca domiciliar. Supressão de instância. Agravo improvido.
+I. Caso em exame
+1. Agravo regimental interposto contra decisão monocrática que não conheceu de habeas corpus impetrado em favor de condenado pelos crimes previstos nos arts. 33, caput, e 35, caput, da Lei n. 11.343/2006 e no art. 12 da Lei n. 10.826/2003, mantendo-se a condenação definitiva.
+2. O agravante limita-se a reiterar a alegação de cerceamento de defesa em razão de ausência de sustentação oral na revisão criminal e nos embargos de declaração, bem como insiste na tese de ilegalidade da busca domiciliar em afronta ao Tema 280 do STF, pleiteando a reconsideração da decisão agravada ou o julgamento colegiado para reconhecimento das ilegalidades.
+II. Questão em discussão
+3. Há duas questões em discussão: (i) saber se a ausência de sustentação oral na revisão criminal e nos embargos de declaração, em sessão realizada na modalidade presencial/videoconferência, configura cerceamento de defesa quando o advogado foi regularmente intimado e deixou de observar as regras regimentais para inscrição e participação por videoconferência; e (ii) saber se é possível, em agravo regimental em habeas corpus, apreciar a alegada ilegalidade da busca domiciliar não examinada no acórdão impugnado.
+III. Razões de decidir
+4. O advogado do agravante foi regularmente intimado das sessões de julgamento da revisão criminal e dos embargos de declaração, inclusive da sessão presencial/videoconferência, constando nos autos registros de intimação no sistema eletrônico e de inclusão em pauta, de modo que não se verifica ausência de ciência ou surpresa quanto aos atos de julgamento.
+5. A tese de invalidade da busca domiciliar não foi específica e adequadamente enfrentada no acórdão impugnado, o que impede seu exame direto em habeas corpus, sob pena de indevida supressão de instância e de reabertura de matéria eminentemente fática.
+6. O agravo regimental apenas reproduz argumentos já apreciados na decisão monocrática e não traz elementos novos capazes de infirmar seus fundamentos, razão pela qual se impõe a manutenção do decisum agravado.
+IV. Dispositivo e tese
+7 . Resultado do Julgamento: Agravo regimental improvido.
+Tese de julgamento:
+1. A regular intimação do advogado para as sessões de julgamento e a inobservância, pela defesa, das regras regimentais para inscrição e participação em videoconferência afastam a alegação de cerceamento de defesa pela ausência de sustentação oral.
+2. Não cabe ao Superior Tribunal de Justiça apreciar tese de nulidade de busca domiciliar que não foi especificamente analisada pelo Tribunal de origem.
+Dispositivos relevantes citados: Lei n. 11.343/2006, arts. 33, caput, e 35, caput; Lei n. 10.826/2003, art. 12; Regimento Interno do Tribunal de Justiça do Estado da P araíba, art. 177-B; STF, Tema 280 da repercussão geral.
+Jurisprudência relevante citada: STJ, HC 908.559/PB, Ministro Ribeiro Dantas, DJe 15/08/2024; STF, Tema 280 da repercussão geral, ingresso em domicílio em crimes permanentes.
+RELATÓRIO
+Trata-se de agravo regimental interposto por RAYLSON ELVIS FERREIRA CAVALCANTI contra decisão monocrática que não conheceu o habeas corpus, mantendo a condenação definitiva pelos crimes previstos nos arts. 33, caput, e 35, caput, ambos Lei n. 11.343/06 e 12 Lei n. 10.826/03.
+Nas razões recursais, o agravante limita-se a repisar sucintamente a tese de cerceamento de defesa pela ausência de sustentação oral e a suposta ilegalidade da busca domiciliar por afronta ao Tem 280 do STF.
+Pugna, ao final, pela reconsideração da decisão agravada ou pela remessa do recurso ao Colegiado para julgamento para o reconhecimento das ilegalidades.
+É o relatório.
+EMENTA
+Direito processual penal. Agravo regimental em habeas corpus. tráfico de drogas. Revisão criminal. Sustentação oral em sessão presencial/videoconferência. Intimação regular. Inobservância de regras regimentais. Busca domiciliar. Supressão de instância. Agravo improvido.
+I. Caso em exame
+1. Agravo regimental interposto contra decisão monocrática que não conheceu de habeas corpus impetrado em favor de condenado pelos crimes previstos nos arts. 33, caput, e 35, caput, da Lei n. 11.343/2006 e no art. 12 da Lei n. 10.826/2003, mantendo-se a condenação definitiva.
+2. O agravante limita-se a reiterar a alegação de cerceamento de defesa em razão de ausência de sustentação oral na revisão criminal e nos embargos de declaração, bem como insiste na tese de ilegalidade da busca domiciliar em afronta ao Tema 280 do STF, pleiteando a reconsideração da decisão agravada ou o julgamento colegiado para reconhecimento das ilegalidades.
+II. Questão em discussão
+3. Há duas questões em discussão: (i) saber se a ausência de sustentação oral na revisão criminal e nos embargos de declaração, em sessão realizada na modalidade presencial/videoconferência, configura cerceamento de defesa quando o advogado foi regularmente intimado e deixou de observar as regras regimentais para inscrição e participação por videoconferência; e (ii) saber se é possível, em agravo regimental em habeas corpus, apreciar a alegada ilegalidade da busca domiciliar não examinada no acórdão impugnado.
+III. Razões de decidir
+4. O advogado do agravante foi regularmente intimado das sessões de julgamento da revisão criminal e dos embargos de declaração, inclusive da sessão presencial/videoconferência, constando nos autos registros de intimação no sistema eletrônico e de inclusão em pauta, de modo que não se verifica ausência de ciência ou surpresa quanto aos atos de julgamento.
+5. A tese de invalidade da busca domiciliar não foi específica e adequadamente enfrentada no acórdão impugnado, o que impede seu exame direto em habeas corpus, sob pena de indevida supressão de instância e de reabertura de matéria eminentemente fática.
+6. O agravo regimental apenas reproduz argumentos já apreciados na decisão monocrática e não traz elementos novos capazes de infirmar seus fundamentos, razão pela qual se impõe a manutenção do decisum agravado.
+IV. Dispositivo e tese
+7 . Resultado do Julgamento: Agravo regimental improvido.
+Tese de julgamento:
+1. A regular intimação do advogado para as sessões de julgamento e a inobservância, pela defesa, das regras regimentais para inscrição e participação em videoconferência afastam a alegação de cerceamento de defesa pela ausência de sustentação oral.
+2. Não cabe ao Superior Tribunal de Justiça apreciar tese de nulidade de busca domiciliar que não foi especificamente analisada pelo Tribunal de origem.
+Dispositivos relevantes citados: Lei n. 11.343/2006, arts. 33, caput, e 35, caput; Lei n. 10.826/2003, art. 12; Regimento Interno do Tribunal de Justiça do Estado da P araíba, art. 177-B; STF, Tema 280 da repercussão geral.
+Jurisprudência relevante citada: STJ, HC 908.559/PB, Ministro Ribeiro Dantas, DJe 15/08/2024; STF, Tema 280 da repercussão geral, ingresso em domicílio em crimes permanentes.
+VOTO
+O agravante não trouxe argumentos suficientes para infirmar a decisão impugnada, razão pela qual mantenho-a por seus próprios fundamentos.
+A Corte local informou sobre as intimações para as sessões de julgamento e os pedidos de sustentação oral:
+Ocorre que, a despeito de, devidamente, intimado da pauta em referência conforme registro no sistema PJe de leitura das partes, em22/05/2025 às 00:00:00, bem como expedientes dos ids 34916648, 34916646 e 34916638 dos autos da revisão criminal, o causídico representante do ora paciente/revisionando, deixou de requerer, na forma regimental (art. 177-B citado alhures), o link de acesso à sessão de videoconferência, para realização de sustentação oral, deixando, ainda, de comparecer presencialmente ao julgamento, o qual ocorreu, regularmente, no dia 28 de Maio de 2025, na modalidade presencial/videoconferência, conforme certidão circunstanciada dos autos revisionais. (id 36815865 - cópia anexa).
+Destarte, sob minha relatoria, a Revisão Criminal foi JULGADA IMPROCEDENTE e, contra o respectivo Acórdão (id 35120005 - cópia anexa), o revisionando opôs Embargos de Declaração, pugnando pela declaração de nulidade processual, em decorrência de alegada omissão no julgado que, no julgamento presencial, não oportunizou ao seu causídico representante a realização de sustentação oral. Os Aclaratórios foram incluídos em pauta para julgamento na 21ª Sessão Ordinária Judicial Virtual, do Órgão Especial, com início no di 18/08/2025 às 14h00, e fim em 25/08/2025, da qual o causídico ora impetrante/representante do revisionando foi regularmente intimado desde o dia 31/07/2025 conforme se verifica da aba expedientes.
+ ..
+Concluindo, em resposta a solicitação de Vossa Excelência, resta esclarecido que o advogado do paciente foi, regularmente, intimado das sessões de julgamento da Revisão Criminal n. 0814706-58.2023.8.15.0000, inclusive daquela que rejeitou os Embargos de Declaração, opostos contra o Acórdão que julgou improcedente a revisional, não sendo realizada sustentação oral por desídia do próprio causídico que, a despeito de regularmente cientificado das regras do Regimento Interno desta Corte para participar através de videoconferência, deixou de observá-las, bem como não compareceu na respectiva sessão presencial, da qual, repise-se, foi intimado.(e-STJ, fls. 55-56) (e-STJ, fls. 68-70)
+Como se observa, ao contrário do que alega a defesa, constata-se que o patrono do agravante foi devidamente intimado de todas as sessões de julgamento da revisão criminal e dos embargos de declaração, tendo tido inclusive a oportunidade de sustentar oralmente por videoconferência.
+A Corte esclareceu que o advogado peticionou diretamente no pedido revisional e solicitou o envio do link via aplicativo whatsapp. Entretanto, nos termos do art. 177-B do Regimento Interno do Tribunal de Justiça do Estado da Paraíba, exige-se inscrição prévia por e-mail até 24h antes do início da nova sessão, o que não ocorreu. Conclui-se, portanto, que as regras para participar da sessão de julgamento não foram obedecidas (e- STJ, fl. 56).
+No tocante à ilegalidade da busca domiciliar, observa-se que os embargos de declaração foram rejeitados, sendo mantido o acórdão proferido na pleito revisional.
+Cabe esclarecer que no julgamento do HC n. 908.559/PB, ao analisar a Revisão Criminal n. 814706-58.2023.8.15.0000, esta Corte explicitou que "a tese de invalidade da busca domiciliar e da prova dela decorrente não foi analisada no acórdão impugnado, o que impede o enfrentamento do tema diretamente por esta Corte de Justiça, sob pena de indevida supressão de um grau de jurisdição, e sobretudo porque o tema é eminentemente fático e não foi adequadamente apreciado - posto que firmada tão somente a natureza permanente do delito para justificar a entrada forçada dos policiais na residência do réu, em inobservância ao posto no Tema 280 do STF" (STJ, HC 908.559/PB, Ministro Ribeiro Dantas, DJe 15/08/2024).
+Ante o exposto, nego provimento ao agravo regimental.
+É o voto.
