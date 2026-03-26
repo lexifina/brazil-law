@@ -1,0 +1,53 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido de liminar, impetrado em favor de JEAN RAFAEL SCHERER FONTES, no qual se aponta como ato coator o acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO GRANDE DO SUL no HC n. 5399154-46.2025.8.21.7000/RS.
+Consta que o paciente se encontra preso preventivamente desde 25/03/2025, tendo sido denunciado como incurso no art. 121, § 2º, incisos I e IV, c.c. o art. 29, caput, ambos do Código Penal.
+Neste writ, o impetrnate sustenta, em síntese, a ocorrência de constrangimento ilegal por excesso de prazo na formação da culpa.
+Alega que o paciente está segregado há quase um ano sem que a instrução processual tenha tido início, agravado pelo cancelamento de audiência pelo Juízo de primeiro grau sem previsão de nova data.
+Afirma, ainda, a ausência de contemporaneidade e de fundamentação idônea para a manutenção da prisão preventiva, asseverando que a decisão se fia apenas na gravidade abstrata do delito.
+Requer, em liminar e no mérito, a revogação da prisão preventiva, ou, subsidiariamente, a aplicação das medidas cautelares diversas.
+Liminar indeferida às fls. 63/65.
+Informações prestadas às fls. 70/73.
+Parecer ministerial de fls. 78/85 opinando pelo não conhecimento do writ.
+É o relatório.
+Decido.
+A aferição de eventual constrangimento ilegal por excesso de prazo não resulta de uma simples soma dos prazos processuais. Trata-se de uma análise que convoca a aplicação do princípio da razoabilidade, segundo o qual a demora no trâmite processual deve ser avaliada à luz das particularidades do caso concreto. A mera extrapolação dos prazos legalmente previstos não induz, de forma automática, o reconhecimento da ilegalidade, sendo imprescindível a demonstração de que a delonga é injustificada e decorre de desídia do aparato judicial (AgRg no HC n. 907.485/SP, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 24/6/2024, DJe de 27/6/2024).
+A análise, portanto, é casuística e demanda uma ponderação entre a duração da prisão e a complexidade da causa, a pluralidade de réus, a necessidade de diligências específicas (como a expedição de cartas precatórias ou a realização de perícias) e a eventual contribuição da defesa para a demora processual.
+No caso em exame, o Tribunal de origem, ao analisar a questão, apresentou fundamentação idônea para afastar, por ora, a alegação de mora processual injustificada. Confira-se o seguinte trecho do acórdão impugnado (fls. 17/23):
+Conforme bem delineado na decisão liminar, a tramitação do feito foi impactada por uma alteração substancial no quadro processual. O aditamento da denúncia pelo Ministério Público, com a inclusão de três novos réus e a imputação de cinco novos crimes, que incluem extorsão qualificada, coação no curso do processo, favorecimento real e associação criminosa, conferiu ao processo uma complexidade superveniente que não pode ser desconsiderada.
+Essa nova realidade processual exigiu, naturalmente, a adoção de novas diligências, como as citações dos corréus, o que afasta a alegação de desídia do aparato judicial e atrai a incidência do princípio da razoabilidade na contagem dos prazos. O retardo verificado não decorre de inércia ou falha do Judiciário, mas sim do legítimo exercício da acusação em aprofundar a investigação e delimitar a responsabilidade de todos os envolvidos, o que justifica a dilação temporal.
+Do excerto transcrito, verifica-se que a tramitação processual, embora se prolongue no tempo, tem seu ritmo justificado pela complexidade inerente ao feito. Não se vislumbra, a partir dos elementos constantes dos autos, um cenário de inércia, desídia ou paralisação indevida da máquina judiciária. Pelo contrário, o processo segue seu curso regular, com a prática dos atos necessários à elucidação dos fatos, aguardando-se o cumprimento dos atos processuais supervenientes ao aditamento da denúncia para posterior designação de audiência de instrução e julgamento.
+Ausente, portanto, a flagrante ilegalidade que autorizaria a concessão da ordem de ofício, a pretensão defensiva não encontra amparo na via excepcional do habeas corpus impetrado nesta Corte.
+Este entendimento está em conformidade com a jurisprudência consolidada deste Tribunal:
+DIREITO PROCESSUAL PENAL. AGRAVO REGIMENTAL NO RECURSO EM HABEAS CORPUS. TENTATIVA DE FEMINICÍDIO. PRISÃO PREVENTIVA. INADEQUAÇÃO DO ESTABELECIMENTO PRISIONAL. SUPRESSÃO DE INSTÂNCIA. EXCESSO DE PRAZO. NÃO OCORRÊNCIA. INCIDENTE DE INSANIDADE MENTAL PENDENTE. AGRAVO IMPROVIDO, COM RECOMENDAÇÃO DE CELERIDADE.
+1. Agravo regimental interposto contra decisão que negou provimento ao recurso em habeas corpus.
+2. A defesa alega excesso de prazo na prisão preventiva, devido à demora na realização de exame de insanidade mental, instaurado em agosto de 2024, e afirma que o agravante permanece em unidade prisional comum, o que seria inadequado ao seu estado de saúde.
+3. A questão da adequação do estabelecimento prisional não foi apreciada pelas instâncias inferiores, inviabilizando seu exame pelo Superior Tribunal de Justiça, sob pena de indevida supressão de instância.
+4. A prisão cautelar não possui prazo determinado por lei, devendo sua manutenção obedecer a critérios judiciais conforme os parâmetros fático-processuais de cada caso.
+5. O reconhecimento da ilegalidade da prisão por excesso de prazo não decorre de critério matemático, mas da prevenção de retardamento injustificado da prestação jurisdicional.
+6. Não se verifica mora ilegal atribuível ao Poder Judiciário ou aos órgãos encarregados da persecução penal, pois o processo tramita regularmente, aguardando a realização do exame de sanidade mental.
+7. Em 8/8/2025, o Juízo da Vara Criminal de Ubatã - BA determinou, com urgência, a expedição de ofício à Secretaria de Administração Penitenciária e Ressocialização - SEAP, a fim de que fosse realizado o exame pericial e encaminhado o respectivo laudo de insanidade mental no prazo improrrogável de 15 dias, sob pena de eventual responsabilização por crime de desobediência.
+8. Considerando que o pedido de instauração do incidente de insanidade mental foi deferido em 26/8/2024, não obstante a determinação de celeridade na realização do exame pelo Juízo de origem, impõe-se a necessidade de recomendação de urgência tanto para a efetivação do referido incidente quanto para a tramitação do feito.
+9. Agravo regimental improvido, com recomendação de celeridade.
+(AgRg no RHC n. 217.685/BA, relator Ministro Og Fernandes, Sexta Turma, julgado em 12/8/2025, DJEN de 22/8/2025.)
+No mesmo sentido: AgRg no HC 980999/SP, Rel. Ministro Antônio Saldanha Palheiro, Sexta Turma, julgado em 01/07/2025, DJEN de 04/07/2025; AgRg no RHC 202231/SP, Rel. Ministro Messod Azulay Neto, Quinta Turma, julgado em 17/06/2025, DJEN de 26/06/2025; AgRg no RHC 202354/BA, Rel. Ministro Otávio de Almeida Toledo (Desembargador Convocado do TJSP), Sexta Turma, julgado em 09/04/2025, DJEN de 15/04/2025.
+De outro lado, a prisão preventiva foi suficientemente fundamentada pela instância ordinária, em virtude da especial reprovabilidade dos fatos, evidenciada a partir das circunstâncias da prática delitiva, e do fundado receio de reiteração delitiva, o que justifica a prisão processual do acusado, nos termos da jurisprudência do Superior Tribunal de Justiça, como forma de resguardar a ordem pública.
+Exemplificativamente:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. ORDEM DENEGADA. FALTA DE NOVOS ARGUMENTOS. HOMICÍDIO QUALIFICADO. PRISÃO PREVENTIVA. GRAVIDADE CONCRETA. EXCESSO DE PRAZO. PECULIARIDADES DA DEMANDA. PENA COMINADA. AGRAVO NÃO PROVIDO.
+1. É assente nesta Corte Superior que o regimental deve trazer novos argumentos capazes de infirmar a decisão agravada, sob pena de manutenção do decisum pelos próprios fundamentos.
+2. O modus operandi do crime de homicídio qualificado, supostamente cometido mediante golpes de faca peixeira na vítima, por motivo fútil, após mera discussão em um bar, é bastante para evidenciar a gravidade concreta dos fatos e a acentuada periculosidade social do acusado, bem como para lastrear a medida cautelar mais onerosa, que lhe foi imposta.
+3. A existência de ações penais em curso, por crimes violentos, e a prévia condenação definitiva por delito contra a vida, ao cumprimento de mais de 10 anos de reclusão, apontam o risco concreto de reiteração delitiva e são aptas, de acordo com a orientação desta Corte, para amparar o cárcere preventivo do réu.
+(..)
+7. Agravo regimental não provido.
+(AgRg no HC n. 823.916/PE, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 15/4/2024, DJe de 18/4/2024; grifamos).
+PROCESSO PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. HOMICÍDIO QUALIFICADO TENTADO. MOTIVO FÚTIL. PERIGO COMUM. PRISÃO PREVENTIVA. GARANTIA DA ORDEM PÚBLICA. MODUS OPERANDI. GRAVIDADE EM CONCRETO DA CONDUTA. FUNDADO RISCO DE REITERAÇÃO DELITIVA. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. A teor art. 312 do Código de Processo Penal, a prisão preventiva poderá ser decretada como garantia da ordem pública, da ordem econômica, por conveniência da instrução criminal ou para assegurar a aplicação da lei penal, quando houver prova da existência do crime e indício suficiente de autoria e de perigo gerado pelo estado de liberdade do imputado.
+2. No caso, está evidente a imprescindibilidade da mantença da prisão preventiva para garantia da ordem pública, diante das graves circunstâncias do caso concreto (modus operandi) e do fundado risco de reiteração delitiva.
+3. O agravante, reincidente, teria tentado ceifar a vida da vítima, mediante golpes de faca na região da cabeça do ofendido, causando-lhe graves lesões, não se consumando o intento homicida por circunstâncias alheias a sua vontade.
+4. A prisão preventiva também justifica-se diante do risco de reiteração delitiva, porquanto o agravante é reincidente.
+5. Agravo regimental não provido.
+(AgRg no HC n. 833.150/SP, relatora Ministra Daniela Teixeira, Quinta Turma, julgado em 7/5/2024, DJe de 10/5/2024; grifamos).
+Notório reconhecer que a custódia cautelar do paciente não foi decretada apenas com base na sua gravidade do delito diante da sua ocorrência em via pública e à luz do dia, como quer fazer crer a Defesa, mas também na necessidade da conveniência da instrução criminal, diante das informações constantes dos autos originais de que o acusado ameaçou uma testemunha para ocultar imagens de segurança.
+Desse modo, não restando configurado excesso de prazo na prisão processual e tendo sido concretamente demonstrada a necessidade da prisão preventiva nos autos, não se mostra suficiente a aplicação de medidas cautelares mais brandas, nos termos do art. 282, inciso II, do Código de Processo Penal.
+Ante o exposto, denego a ordem de habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
