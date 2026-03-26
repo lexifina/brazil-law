@@ -1,0 +1,71 @@
+DECISÃO: Trata-se de reclamação constitucional, com pedido de medida liminar, ajuizada por Lauro Antônio Teixeira Menezes em face de decisão proferida pelo Juízo da 6ª Vara do Trabalho de Aracaju, nos autos do Processo nº 0000810-42.2021.5.20.0006.
+O reclamante sustenta, em síntese, que o mandado de imissão na posse expedido em 27.2.2026 alcançou imóvel diverso daquele objeto da arrematação judicial, incidindo sobre propriedade de sua titularidade (“Sítio Ebenézer”). Alega, ainda, que o Juízo de origem desconsiderou decisão proferida por esta Corte na Reclamação nº 81.642, que, segundo afirma, teria determinado a suspensão do processo de origem.
+Requer, em caráter liminar, a suspensão dos efeitos da decisão reclamada e, no mérito, sua cassação.
+
+Por fim, requer a concessão de medida liminar para suspender os efeito da decisão reclamada, “bem como de qualquer qualquer outro ato que vise turbar ou esbulhar a posse do Reclamante sobre o imóvel ‘Sítio Ebenézer’, até o julgamento final da presente Reclamação” (eDOC 1, p. 13-14).
+No mérito, pede a cassação do ato reclamado.
+Na data de 10.3.2026, deferi parcialmente a medida liminar para suspender os efeitos da decisão que determinou a imissão na posse dos imóveis de matrículas nº 7.971, 9.099, 9.098 e 7.988, nos autos do Processo 0000810-42.2021.5.20.0006, até o julgamento de mérito da presente reclamação (eDOC 49, ID: d8ad6ef0).
+A autoridade reclamada prestou informações (eDOC 51).
+Lázaro Lopes de Oliveira apresentou pedido de reconsideração, aduzindo, em síntese, que a controvérsia dos autos não envolve descumprimento da decisão proferida por esta Suprema Corte na Rcl 81.642/SE, circunstância que justifica a reavaliação da medida cautelar concedida (eDOC 61).
+O reclamante apresentou duas petições que questionam as informações apresentadas pela autoridade reclamada e o pedido de reconsideração (eDOC 67 e 100).
+É o relatório.
+Decido.
+No caso em análise, o reclamante alega que a expedição do mandado de imissão na posse no âmbito do Processo 0000810-42.2021.5.20.0006 viola a decisão proferida na Rcl 81642.
+Vejamos.
+Extrai-se dos autos que, em 27.02.2026, foi expedido mandado de imissão na posse dos imóveis de matrículas nº 7.971, 9.099, 9.098 e 7.988, no âmbito do Processo 0000810-42.2021.5.20.0006, conforme documento juntado no eDOC 3.
+Lauro Antônio Teixeira Menezes, ora reclamante, apresentou petição requerendo a suspensão da ordem de imissão na posse, pedido que foi indeferido pela autoridade reclamada.
+Na ocasião, o Juízo de origem consignou que a empresa adquiriu e quitou, em 2019, os imóveis de matrículas nº 7.971, 7.988, 9.098 e 9.099 do Cartório de Registro de Imóveis de Estância/SE, mas ainda enfrenta impedimentos para exercer plenamente a propriedade.
+Assentou, ainda, que as objeções do executado — relativas a limites, benfeitorias e bem de família — já foram definitivamente rejeitadas, encontrando-se acobertadas pela coisa julgada após exame tanto pelo Juízo Auxiliar da Execução quanto pelo Tribunal de segunda instância.
+Registrou, por fim, que os autos demonstram que os imóveis foram levados a leilão e arrematados exatamente no estado em que se encontravam, incluindo todas as acessões e benfeitorias, circunstância de pleno conhecimento do executado desde a penhora e avaliação.
+ Confira-se trecho da decisão:
+
+“A pretensão do executado não possui amparo legal ou fático, motivo pelo qual deve ser rejeitada.
+A decisão de ID c5f8040, que determinou a imediata expedição do mandado de imissão na posse em favor da empresa arrematante F.S. PARTICIPAÇÕES LTDA, possui fundamento direto e sólido nas recentes decisões proferidas pelo Pleno do Tribunal Regional do Trabalho da 20ª Região, nos autos do Mandado de Segurança nº 0000692-45.2025.5.20.0000.
+Conforme consta de forma clara nos registros processuais, a medida liminar que outrora suspendia os atos de imissão na posse foi expressamente cassada. O acórdão de ID 721a53d denegou a segurança pretendida pelo ora executado, revogando a liminar. Na sequência, o acórdão de ID 11d9f44 julgou improcedentes os embargos de declaração opostos pela parte, confirmando a revogação da tutela de urgência e destacando que a cassação da liminar opera efeitos retroativos.
+Nesse contexto, a simples interposição de Recurso Ordinário perante o Tribunal Superior do Trabalho não possui efeito suspensivo automático capaz de paralisar a execução. A execução trabalhista rege-se pelo princípio da máxima efetividade. Suspender o cumprimento de uma ordem judicial definitiva e fundamentada, escorada por decisão colegiada deste Tribunal, apenas pela expectativa de um eventual julgamento no TST, configuraria grave prejuízo à arrematante. Cumpre recordar que a empresa adquiriu os imóveis de matrículas 7.971, 7.988, 9.098 e 9.099 do Cartório de Registro de Imóveis de Estância/SE no ano de 2019, quitou o preço devido e, quase sete anos depois, ainda enfrenta obstáculos seguidos para exercer seu direito de propriedade.
+Além disso, as alegações reiteradas pelo executado na manifestação de ID f8fb3da — relativas à suposta divergência de limites físicos da área, à existência de benfeitorias não avaliadas e à caracterização do imóvel como bem de família — já foram superadas pela coisa julgada. Estas questões foram debatidas, analisadas e rejeitadas exaustivamente tanto por este Juízo Auxiliar de Execução quanto pela segunda instância. Os autos evidenciam que os imóveis foram levados à hasta pública e arrematados no estado exato em que se encontravam, englobando todas as acessões e benfeitorias neles existentes, circunstância de pleno conhecimento do executado desde a época da penhora e da avaliação.
+A tentativa de impedir a concretização da posse por meio da repetição de argumentos já superados configura resistência injustificada. O regular prosseguimento dos atos expropriatórios é a única medida apta a garantir a segurança jurídica, a efetividade da prestação jurisdicional e a proteção do terceiro de boa-fé que arrematou os bens em leilão público.
+Ante o exposto, indefiro integralmente os requerimentos formulados na manifestação de ID f8fb3da.
+Mantenho, em todos os seus termos, a eficácia da decisão de ID c5f8040 e a validade do mandado de imissão na posse de ID a169be5”.
+
+Inconformado, o reclamante opôs embargos de declaração, alegando, em síntese, a existência de omissão no julgado, uma vez que o Juízo não teria analisado a afirmação de que a área física pretendida para a imissão na posse não corresponderia aos limites registrais dos imóveis arrematados. Na sequência, apresentou petições requerendo a suspensão imediata do mandado de imissão na posse, com fundamento em decisão proferida na Rcl 81.642, bem como em notíciacrime registrada perante a Polícia Federal e na oitiva agendada no Conselho Nacional de Justiça.
+ Os pedidos foram rejeitados sob os seguintes fundamentos: i) inexistência de omissão, uma vez que o Juízo expressamente consignou que as alegações relativas à suposta divergência de limites físicos, benfeitorias não avaliadas e bem de família já se encontram superadas pela coisa julgada material; ii)  o mero registro de notíciacrime perante a autoridade policial, assim como o agendamento de oitiva em órgão de controle administrativo (CNJ), não produz qualquer efeito suspensivo sobre a execução trabalhista; e iii) a decisão liminar proferida na Rcl 81.642/SE não interfere no ato de imissão na posse dos imóveis de matrículas nº 7.971, 7.988, 9.098 e 9.099. (eDOC 44)
+Daí a presente reclamação, na qual se sustenta que a autoridade reclamada, ao determinar a imissão na posse, teria violado a decisão por mim proferida no âmbito da Rcl 81.642, por meio da qual, segundo alega, foi deferido o pedido formulado por Benfeita Agropastoril e Empreendimentos S.A. e outros para suspender o Processo nº 000081042.2021.5.20.0006 até 29.01.2026, posteriormente prorrogado até 24.08.2026.
+Pois bem.
+Inicialmente, cumpre registrar que a Rcl 81.642 foi ajuizada pela empresa Benfeita Agropastoril e Empreendimentos S/A, na qual se alegava, em síntese,  a inobservância do entendimento desta Corte assentado no RE-RG 1.387.795 (tema 1232), pelo Juízo Auxiliar de Execuções vinculado ao TRT da 20ª Região, nos autos do Processo nº 0000810-42.2021.5.20.0006.
+Em 22.7.2025, foi deferida medida liminar para suspender a alienação dos bens arrolados nos Lotes 10 e 11 da 54ª Hasta Pública Unificada, até o julgamento final da reclamação, decisão posteriormente referendada pela Segunda Turma.
+Na sequência, em razão de acordo celebrado entre as partes no processo de origem, Benfeita Agropastoril e Empreendimentos S/A e Lázaro Lopes de Oliveira requereram a suspensão da própria reclamação constitucional, com fundamento no art. 313, II, do Código de Processo Civil, pelo prazo necessário à quitação integral dos créditos.  Confira-se os termos do pedido:
+
+“Benfeita Empreendimentos S/A e Lazaro Lopes de Oliveira, já qualificados nos autos em epígrafe, vêm à presença de Vossa Excelência relatar e requerer o que segue.
+No dia 22 de agosto de 2025, perante o Juízo Auxiliar em Execução, realizou-se audiência relativa à ação trabalhista nº 0000810-42.2021.5.20.0006, processo-piloto em que concentrados os atos expropriatórios dirigidos ao grupo econômico Bomfim. Na ocasião, as partes chegaram a acordo que foi homologado pelo Juiz do Trabalho na mesma data, conforme documento anexo.
+Nos termos do ajuste, as partes se comprometeram a peticionar, nos autos desta reclamação nº 81.642, requerendo a suspensão do feito pelo prazo necessário à quitação integral dos créditos. Confira-se exato teor da cláusula décima terceira:
+CLÁUSULA DÉCIMA TERCEIRA– DA SUSPENSÃO DE AÇÃO NO STF
+As partes se comprometem a peticionar conjuntamente na Reclamação Constitucional nº 81.642 (STF), requerendo a suspensão do feito pelo prazo necessário à quitação integral dos créditos.
+Portanto, requerem as partes:
+a) a suspensão do presente processo pelo prazo necessário à quitação integral dos créditos, com fulcro no inciso II do art. 313 do CPC.
+b) a suspensão de todos os prazos processuais a partir da data de protocolo desta petição, inclusive o prazo de contestação que se encontra em aberto para os reclamados, devendo o respectivo prazo ser restituído por igual tempo ao que faltava para sua complementação, nos termos do art. 221, do CPC”. (grifos nossos)
+
+O pedido foi deferido em 29.8.2025, com a suspensão do feito até 29.1.2026, posteriormente prorrogada, em 2.3.2026, por mais seis meses, diante da necessidade de apuração de saldo remanescente.
+Nesse contexto, verifica-se que a suspensão determinada por esta Corte incidiu exclusivamente sobre o trâmite da Rcl nº 81.642, em razão do acordo celebrado na origem, com a participação de empresas integrantes do denominado “Grupo Bonfim”, dentre elas a então requerente.
+Não houve, portanto, qualquer determinação de suspensão do processo-piloto em trâmite na Justiça do Trabalho.
+Registre-se, por fim, que o ora reclamante não participou do referido acordo, o qual tampouco abrangeu os imóveis objeto da presente controvérsia.
+Ademais, extrai-se dos autos que a discussão acerca da venda dos imóveis de matrículas nº 7.971, 7.988, 9.098 e 9.099, do Cartório de Registro de Imóveis de Estância/SE, já se encontra acobertada pela coisa julgada, certificada pelo Tribunal Superior do Trabalho em 30.09.2022, de modo que a presente reclamação não constitui meio adequado para o questionamento ou a desconstituição desse título.
+A esse propósito, transcreve-se trecho das informações prestadas pela autoridade reclamada, as quais esclarecem de forma suficiente a controvérsia submetida à apreciação:
+
+“A decisão, ora suspensa por Vossa Excelência, determinava a imissão na posse do arrematante dos bens vendidos em hasta pública na data de 28.11.2019, conforme auto de arrematação expedido em 28.11.2019.
+A carta de arrematação foi expedida em favor do arrematante em 04.11.2020.
+O presente processo trata da execução de mais de 900 credores e o valor obtido pela hasta pública foi usado na totalidade para pagar parte de créditos trabalhistas da execução.
+Os reclamantes exerceram amplo direito de defesa e contraditório nos autos. Atendo-se apenas ao ato expropriatório em exame, verifica-se a oposição de embargos à arrematação os quais foram julgados improcedentes. O reclamante apresentou agravo de petição contra a sentença de primeiro grau, tendo o E. TRT 20 mantido a sentença de primeiro grau, conforme acórdão de 24.11.2021, que foi integrado por acórdão de embargos de declaração datado de 22.02.2022.
+Insatisfeito o executado e ora reclamante interpôs Recurso de Revista cujo seguimento foi negado. Em seguida, interpôs Agravo de Instrumento em Recurso de Revista que foi denegado pelo TST em decisão monocrática datada de 14.5.2022. Inconformado, o ora reclamante interpôs Agravo Interno que lhe foi julgado de modo desfavorável em 8.9.2022. Em 4.10.2022, a Secretaria do TST certificou o trânsito em julgado ocorrido em 30.9.2022.
+Desse modo, a venda dos imóveis do ora reclamante está juridicamente consolidada, com trânsito em julgado certificado pelo TST”. (eDOC 51, p. 3-4)
+
+Diante do exposto, verifica-se que o ato reclamado não afronta a decisão proferida por esta Corte na Rcl 81.642, uma vez que a suspensão ali determinada limitou-se ao trâmite da própria reclamação constitucional, com a finalidade de viabilizar a apuração de saldo remanescente decorrente do acordo firmado entre as partes - referente à alienação de imóveis diversos àquele objeto desta Reclamação -, bem como a eventual formalização de ajuste complementar, não alcançando o processo de origem.
+Nesse contexto, não há impedimento para que o Juízo de origem adote medidas concretas destinadas à efetivação de atos expropriatórios amparados pela coisa julgada e situados fora do escopo do acordo homologado. Ademais, a imissão na posse decorre de arrematação regularmente formalizada e acobertada pela coisa julgada. Ausente, portanto, a necessária aderência entre o ato impugnado e o paradigma invocado, impõe-se a rejeição da presente reclamação.
+Ante o exposto, casso a liminar anteriormente deferida e nego seguimento à reclamação. Prejudicado o referendo da liminar.
+
+Publique-se.
+Brasília, 26 de março de 2026.
+
+Ministro GILMAR MENDES
+Relator
+Documento assinado digitalmente
