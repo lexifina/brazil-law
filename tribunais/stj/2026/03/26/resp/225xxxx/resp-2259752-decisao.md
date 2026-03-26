@@ -1,0 +1,15 @@
+DECISÃO
+Trata-se de recurso especial interposto por GERALDO ARAÚJO TECIDOS LTDA que discute a base de cálculo para o arbitramento de honorários advocatícios sucumbenciais em impugnação ao crédito habilitado em recuperação judicial.
+É o relatório. Decido.
+Há questão prejudicial ao julgamento do objeto do recurso especial, consistente no cabimento da condenação em honorários advocatícios sucumbenciais em caso de incidente de impugnação ao crédito no âmbito da recuperação judicial ou falência, controvérsia afetada à Segunda Seção para julgamento sob o rito dos recursos repetitivos, conforme decisões de afetação dos REsps 2.090.060/SP, 2.090.066/SP e 2.100.114/SP, as quais delimitaram o Tema 1.250 nos termos da seguinte ementa:
+"PROCESSUAL CIVIL. RECURSO ESPECIAL REPRESENTATIVO DE CONTROVÉRSIA REPETITIVA. PROPOSTA DE AFETAÇÃO. SEGUNDA SEÇÃO. RECUPERAÇÃO JUDICIAL. FALÊNCIA.
+1. Tema proposto para afetação ao rito dos recursos especiais repetitivos:
+Definir se é devida a condenação em honorários advocatícios sucumbenciais - em caso de acolhimento do incidente de impugnação ao crédito - nas ações de recuperação judicial e de falência.
+2. Determinada a suspensão do processamento de todos os processos individuais ou coletivos que versem sobre a mesma matéria, nos quais tenha havido a interposição de recurso especial ou de agravo em recurso especial, na segunda instância, ou que estejam em tramitação no STJ, respeitada, no último caso, a orientação prevista no art. 256-L do RISTJ.
+Recurso especial afetado ao rito do art. 1.036 e seguintes do CPC/2015 para que seja julgado na Segunda Seção (art. 256-I do RISTJ). Conjunto de recursos representativos afetados: REsp n. 2.100.114/SP; REsp n. 2.090.060/SP; e REsp n. 2.090.066/SP."
+(ProAfR no REsp n. 2.090.060/SP, Relator Ministro HUMBERTO MARTINS, SEGUNDA SEÇÃO, julgado em 9/4/2024, DJe de 29/4/2024.)
+Nesse contexto, em observância à economia processual e ao art. 256-L do RISTJ, os recursos que tratam da mesma controvérsia no STJ devem aguardar, no Tribunal de origem, a solução do questão, viabilizando, assim, o juízo de conformação, atualmente disciplinado pelos arts. 1.039 e 1.040 do CPC/2015.
+Cumpre destacar que, em conformidade com o art. 1.041, § 2º, do CPC/2015, apenas após essas providências é que o recurso especial, se for o caso, deverá ser reencaminhado a este Tribunal Superior, independentemente de ratificação, para análise das demais questões jurídicas nele suscitadas que eventualmente não fiquem prejudicadas pela conformidade do acórdão recorrido com a decisão sobre o tema repetitivo ou pelo novo pronunciamento do Tribunal de origem.
+Diante do exposto, determino a remessa dos autos ao Tribunal de origem, com a respectiva baixa, a fim de que, nos termos dos arts. 1.039 e 1.040 do CPC/2015, após o julgamento do tema de recurso repetitivo: i) negue-se seguimento ao recurso especial no caso de o acórdão recorrido coincidir com a tese firmada sobre o aludido tema; ou ii) proceda-se a novo exame da matéria, no órgão prolator da decisão vergastada, na hipótese desta última divergir da referida tese.
+Publique-se.
+EMENTA
