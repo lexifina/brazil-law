@@ -1,0 +1,51 @@
+DECISÃO
+Trata-se de embargos de declaração opostos por BANCO SAFRA SA contra decisão que deu provimento ao recurso especial interposto pela parte agravada para declarar o caráter abusivo da cobrança de juros capitalizados diariamente sem previsão da taxa diária aplicada, preservada, contudo, a possibilidade da cobrança da capitalização mensal e anual.
+Sustenta a parte embargante, em síntese, que o contrato objeto da presente ação (CCB 004508241) possui expressa previsão da taxa diária de juros capitalizados.
+Afirma que a taxa de juros mensal contratada é a equivalência da taxa diária, "podendo ambas as taxas ser convertidas entre si. A taxa mensal e a taxa diária são simplesmente diferentes formas de expressar o mesmo conceito de crescimento do capital ao longo do tempo" (fl. 352).
+Impugnação às fls. 363-364.
+É o relatório. Decido.
+Os embargos de declaração têm como objetivo esclarecer obscuridade, eliminar contradição ou suprimir omissão de ponto ou questão sobre o qual devia se pronunciar o órgão julgador de ofício ou a requerimento das partes, bem como para corrigir erro material (CPC/2015, art. 1.022), sendo inadmissível a sua oposição para rediscutir questões tratadas e devidamente fundamentadas na decisão embargada, já que não são cabíveis para provocar novo julgamento da lide.
+Com efeito, a decisão embargada assim se manifestou sobre o tema:
+Na espécie, o Tribunal de origem manteve a capitalização diária à base da seguinte motivação:
+No que toca à capitalização diária, igualmente não se observa qualquer abusividade ou ilegalidade.
+Tal porque, em primeiro lugar, sua incidência vem expressa no contrato celebrado entre as partes (fls. 34 item "II - "08"), não havendo que se falar em descumprimento do dever de informação, eis que tal cláusula foi redigida de forma clara, não podendo a contratante alegar qualquer desconhecimento quanto ao seu teor.
+Demais disso, a questão já foi assentada pelo E. STJ, no julgamento dos Temas nºs 247 e 953, que põem por terra a pretensão da apelante, dispensando, inclusive, maiores ponderações deste relator sobre o tema, eis que foi e é interesse do legislador, revelado no Código Adjetivo, atender à teoria dos precedentes vinculantes: (..)
+Conforme entendimento da Segunda Seção desta Corte, na hipótese em que pactuada a capitalização diária de juros, é imprescindível a informação do consumidor sobre a taxa , a fim de se garantir a possibilidade de controle do alcance diária de juros praticada a priori dos encargos do contrato, sendo insuficiente a informação acerca das taxas efetivas mensal e anual para esse mister. A propósito:
+RECURSO ESPECIAL. DIREITO CIVIL, PROCESSUAL CIVIL E DO CONSUMIDOR. (EN. 3/STJ). CÉDULA DE CRÉDITO BANCÁRIO. CAPITALIZAÇÃO DIÁRIA DE JUROS REMUNERATÓRIOS. TAXA DIÁRIA NÃO INFORMADA. VIOLAÇÃO AO DEVER DE INFORMAÇÃO. ABUSIVIDADE.
+1. Controvérsia acerca do cumprimento de dever de informação na hipótese em que pactuada capitalização diária de juros em contrato bancário.
+2. Necessidade de fornecimento, pela instituição financeira, de informações claras ao consumidor acerca da periodicidade da capitalização dos juros adotada no contrato, e das respectivas taxas.
+3. Insuficiência da informação acerca das taxas efetivas mensal e anual, na hipótese em que pactuada capitalização diária, sendo imprescindível, também, informação acerca da taxa diária de juros, a fim de se garantir ao consumidor a possibilidade de controle "a priori" do alcance dos encargos do contrato. Julgado específico da Terceira Turma.
+4. Na espécie, abusividade parcial da cláusula contratual na parte em que, apesar de pactuar as taxas efetivas anual e mensal, que ficam mantidas, conforme decidido pelo acórdão recorrido, não dispôs acerca da taxa diária.
+5. Recurso especial desprovido, com majoração de honorários."
+(REsp n. 1.826.463/SC, Relator Ministro PAULO DE TARSO SANSEVERINO, SEGUNDA SEÇÃO, DJe de 29.10.2020.)
+Confiram-se ainda:
+AGRAVO INTERNO NO RECURSO ESPECIAL. DIREITO CIVIL E CONSUMIDOR. CONTRATO DE CARTÃO DE CRÉDITO. AÇÃO REVISIONAL. JUROS REMUNERATÓRIIOS. INEXISTÊNCIA DE ABUSIVIDADE PELA TÃO SÓ SUPERAÇÃO DA MÉDIA DE MERCADO. CAPITALIZAÇÃO DIÁRIA. SUBMISSÃO DO CONSUMIDOR À SITUAÇÃO DE EXTREMA DESVANTAGEM. ABUSIVIDADE. INCIDÊNCIA DO ENUNCIADO N.º 83/STJ. MORA CORRETAMENTE AFASTADA.
+1. A tão só superação da taxa média de mercado em operações da espécie não evidencia abusividade a permitir a revisão do contrato celebrado, notadamente quando se revela diminuta a diferença entre o montante cobrado e a taxa média adotada pelo setor.
+2. Quando do julgamento do Recurso Especial n.º 1.826.463/SC, no âmbito da Segunda Seção do Superior Tribunal de Justiça, firmou-se o posicionamento acerca da necessidade de fornecimento, pela instituição financeira, de informações claras ao consumidor acerca da periodicidade da capitalização dos juros adotada no contrato, e das respectivas taxas, sob pena de reputar abusiva a capitalização diária de juros remuneratórios.
+3. Consoante a jurisprudência do Superior Tribunal de Justiça, a incidência do Enunciado n.º 83 da Súmula do Superior Tribunal de Justiça, incide sobre ambas as alíneas do permissivo constitucional.
+4. Agravo interno desprovido. (AgInt no REsp n. 1.960.803/RS, relator Ministro PAULO DE TARSO SANSEVERINO, TERCEIRA TURMA, DJe de 19.10.2022)
+CIVIL E PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. CAPITALIZAÇÃO DIÁRIA DE JUROS. PREVISÃO EXPRESSA DA TAXA NO CONTRATO. REEXAME DO CONTRATO E DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. INADMISSIBILIDADE. INCIDÊNCIA DAS SÚMULAS N. 5 E 7 DO STJ. DECISÃO MANTIDA.
+1. De acordo com a jurisprudência desta Corte, a cobrança de capitalização diária de juros em contratos bancários é possível, sendo necessária a informação acerca da taxa de juros diária a ser aplicada, ainda que haja expressa previsão quanto à periodicidade no contrato.
+2. O recurso especial não comporta o exame de questões que impliquem interpretação de cláusula contratual ou revolvimento do contexto fático- probatório dos autos, a teor do que dispõem as Súmulas n. 5 e 7 do STJ.
+3. No caso concreto, o Tribunal de origem concluiu pela previsão expressa da taxa diária de juros. Alterar esse entendimento demandaria o reexame das provas produzidas nos autos, o que é vedado em recurso especial.
+4. Agravo interno a que se nega provimento. (AgInt no REsp n. 2.002.298/RS, relator Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, DJe de 31.8.2022)
+AGRAVO INTERNO NO RECURSO ESPECIAL. CÉDULA DE CRÉDITO BANCÁRIO. CAPITALIZAÇÃO DIÁRIA DE JUROS. TAXA DIÁRIA. DEVER DE INFORMAÇÃO. PRECEDENTE DA SEGUNDA SEÇÃO DO STJ.
+1. De acordo com entendimento firmado na Segunda Seção do STJ, a capitalização diária dos juros somente pode ser cobrada quando, além de estar prevista expressamente em cláusula contratual, o contrato contenha indicação da taxa diária de juros.
+2. "Insuficiência da informação acerca das taxas efetivas mensal e anual, na hipótese em que pactuada capitalização diária, sendo imprescindível, também, informação acerca da taxa diária de juros, a fim de se garantir ao consumidor a possibilidade de controle "a priori" do alcance dos encargos do contrato. Julgado específico da Terceira Turma". "Na espécie, abusividade parcial da cláusula contratual na parte em que, apesar de pactuar as taxas efetivas anual e mensal, que ficam mantidas, conforme decidido pelo acórdão recorrido, não dispôs acerca da taxa diária." (REsp 1826463/SC, Rel. Ministro Paulo de Tarso Sanseverino, Segunda Seção, julgado em 14/10/2020, DJe de 29/10/2020).
+3. De acordo com firme posicionamento desta Corte, abuso nos encargos da normalidade descaracteriza a mora.
+4. Agravo interno não provido. (AgInt no REsp n. 1.914.532/RS, relator Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, DJe de 17.12.2021)
+AGRAVO INTERNO NO RECURSO ESPECIAL. DIREITO CIVIL, PROCESSUAL CIVIL E DO CONSUMIDOR. NEGÓCIOS JURÍDICOS BANCÁRIOS. CAPITALIZAÇÃO DIÁRIA DE JUROS REMUNERATÓRIOS. TAXA DIÁRIA NÃO INFORMADA. VIOLAÇÃO PRECEDENTE AO DEVER DE INFORMAÇÃO. ABUSIVIDADE. ESPECÍFICO DA SEGUNDA SEÇÃO DO STJ: RESP 1.826.463/SC, MINHA RELATORIA, DJE DE 29/10/2020. AGRAVO INTERNO A QUE SE NEGA PROVIMENTO. (AgInt no REsp n. 1.842.813/RS, relator Ministro Paulo de Tarso Sanseverino, Terceira Turma, DJe de 23.9.2021.)
+Desse modo, constatada a divergência entre o acórdão recorrido e o entendimento desta Corte, é impositivo o provimento do recurso especial, a fim de declarar abusiva a cobrança de capitalização diária de juros sem a previsão da taxa de juros diária aplicada, mantida a possibilidade de capitalização mensal e anual.
+De ver-se, portanto, que os presentes embargos declaratórios revelam o nítido propósito da parte embargante em rediscutir temas que foram devidamente apreciados, o que é defeso por meio da via processual escolhida, desautorizando, deste modo, o acolhimento da pretensão embutida nos aclaratórios.
+Acrescente-se, ainda, que a contradição apta a abrir a via dos embargos declaratórios é aquela interna ao decisum, existente entre a fundamentação e a conclusão do julgado ou entre premissas do próprio julgado, o que não se observa no presente caso.
+Nesse sentido:
+"PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO RECURSO ESPECIAL. AUSÊNCIA DE QUALQUER DOS VÍCIOS ELENCADOS NO ART.535 DO CPC. MERO INCONFORMISMO. EMBARGOS DE DECLARAÇÃO REJEITADOS.
+1. Os embargos de declaração somente são cabíveis quando houver, na sentença ou no acórdão, obscuridade, contradição, omissão ou erro material, consoante dispõe o art. 535 do CPC.
+2. No caso concreto, não se constata o vício alegado pelos embargantes, que buscam rediscutir a questão com base em divergência jurisprudencial com julgados do STF.
+3. A contradição que dá ensejo à oposição de embargos declaratórios deve ser interna, entre as proposições do próprio julgado impugnado. Não configura o vício previsto no aludido dispositivo processual a suposta
+contradição entre a fundamentação do decisum e o entendimento adotado em precedente colacionado pelo embargante.
+4. Embargos de declaração rejeitados."
+(EDcl no AgRg no REsp 1.189.644/SP, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 16/04/2015, DJe de 23/04/2015)
+Diante do exposto, rejeito os embargos de declaração.
+Publique-se.
+EMENTA
