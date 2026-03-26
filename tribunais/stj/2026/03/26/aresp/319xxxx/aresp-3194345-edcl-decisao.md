@@ -1,0 +1,32 @@
+DECISÃO
+Cuida-se de Embargos de Declaração opostos por VINICIUS SOUZA DE VARGAS à decisão que não conheceu do Agravo em Recurso Especial em razão da ausência de impugnação dos fundamentos da decisão que não admitiu o Recurso Especial, nos termos do art. 21-E, inciso V, do Regimento Interno do Superior Tribunal de Justiça.
+Em suas razões, sustenta a parte embargante que
+Com o devido respeito, a afirmação de que o Embargante "deixou de impugnar especificamente" o fundamento da Súmula 83/STJ constitui um manifesto erro de fato, que, por sua vez, resultou em uma omissão de análise sobre a argumentação efetivamente apresentada. A decisão embargada, ao partir dessa premissa fática incorreta, deixou de apreciar e se manifestar sobre todo um capítulo do Agravo em Recurso Especial, o qual foi dedicado, de forma exclusiva e pormenorizada, a refutar a aplicabilidade do referido óbice sumular.
+Basta uma simples consulta ao Agravo em Recurso Especial, protocolado no evento 43 e constante às fls. 338-348 (e-STJ), para constatar, de maneira inequívoca, a existência de um tópico autônomo e exaustivamente desenvolvido para combater a incidência da Súmula 83/STJ. O referido tópico, intitulado "II - DA INSUFICIÊNCIA DA SÚMULA 83 DO STJ E DA DIVERGÊNCIA ENTRE O ACÓRDÃO RECORRIDO E A JURISPRUDÊNCIA DOMINANTE DO STJ (ALÍNEA "A")", ocupa integralmente as páginas 343 a 345 (e-STJ) do processo.
+Nesse capítulo específico, o ora Embargante demonstrou, com riqueza de detalhes, que a aplicação da Súmula 83/STJ era completamente descabida, uma vez que o acórdão do Tribunal de origem, ao afastar a causa de diminuição de pena do tráfico privilegiado com base na existência de uma ação penal em curso, divergiu frontalmente da jurisprudência pacífica e dominante deste próprio Superior Tribunal de Justiça, que veda a utilização de inquéritos e processos sem trânsito em julgado para agravar a situação penal do réu.
+A argumentação foi clara ao sustentar que a Súmula 83, que pressupõe a conformidade do acórdão recorrido com a jurisprudência da Corte Superior, não poderia ser invocada justamente em um cenário de manifesta desconformidade.
+A impugnação, portanto, não foi genérica ou superficial. Pelo contrário, foi efetiva, concreta e pormenorizada, atendendo plenamente ao princípio da dialeticidade recursal, que a própria decisão embargada invoca como fundamento para a sua conclusão.(fls. 367/8)
+Requer, assim, o conhecimento e o acolhimento dos Embargos Declaratórios para que seja sanado o vício apontado.
+É o relatório.
+Decido.
+Nos termos do art. 619 do Código de Processo Penal, os embargos de declaração destinam-se a esclarecer obscuridade, eliminar contradição, suprir omissão e corrigir erro material eventualmente existentes no julgado, o que não se verifica na hipótese.
+Da análise do recurso de agravo em recurso especial observa-se que a parte agravante deixou de impugnar especificamente o fundamento da decisão agravada, Súmula 83/STJ, conforme exigido pelo art. 253, parágrafo único, do RISTJ.
+A refutação apta a infirmar a decisão agravada deve ser efetiva, individualizada, específica e fundamentada (AgInt no REsp n. 1.535.657/MT, relator Ministro Luís Felipe Salomão, Quarta Turma, DJe de 26.8.2020, e AgRg no RHC n. 128.660/SP, Rel. Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe de 24.8.2020).
+Nenhuma das alegações lançadas no agravo em recurso especial constitui impugnação específica para fins de rebatimento da Súmula n. 83 do STJ, que, segundo entendimento desta Corte Superior, exige a efetiva demonstração de que o julgado apontado na decisão de inadmissão do recurso especial foi superado pela jurisprudência do STJ, ou que exista distinção entre a matéria versada nos autos e aquela utilizada para justificar a aplicação da Súmula n. 83 do STJ.
+A propósito:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. TRÁFICO DE DROGAS. MINUTA DE AGRAVO QUE NÃO INFIRMA ESPECIFICAMENTE O FUNDAMENTO DA DECISÃO AGRAVADA. INCIDÊNCIA DA SÚMULA N.º 182 DO SUPERIOR TRIBUNAL DE JUSTIÇA. SÚMULA N.º 83/STJ. APLICÁVEL AOS RECURSOS INTERPOSTOS COM BASE NAS ALÍNEAS A E C DO PERMISSIVO CONSTITUCIONAL. AGRAVO REGIMENTAL DESPROVIDO.
+1. O Agravante, nas razões do agravo em recurso especial, deixou de rebater, especificamente, o fundamento da decisão agravada, relativo à incidência, na hipótese dos autos, da Súmula n.º 83/STJ.
+2. Não foi demonstrado o desacerto da decisão agravada, indicando eventual superação do entendimento do STJ, no qual a Corte local se orientou ou, ainda, eventual distinção com o caso dos autos.
+3. O comando contido na Súmula n.º 83/STJ também é aplicável aos recursos interpostos com fulcro nas alíneas a e c do permissivo constitucional.
+4. Agravo regimental desprovido. (AgRg no AREsp n. 1.433.473/SC, Rel. Ministra Laurita Vaz, Sexta Turma, DJe de 5.6.2019.)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DA DECISÃO COMBATIDA. ART. 932, III, DO CPC/2015. INCIDÊNCIA DA SÚMULA 83 DO STJ. PRINCÍPIO DA DIALETICIDADE NÃO ATENDIDO.
+1. Em que pese ao agravante ter sustentado a inaplicabilidade da Súmula 83/STJ por se tratar de recurso amparado na alínea "a" do permissivo constitucional, a fundamentação expendida não foi apta a cumprir o requisito da dialeticidade.
+2. Cabia ao recorrente indicar julgados contemporâneos ou supervenientes aos precedentes utilizados na decisão agravada, de modo a demonstrar que a matéria não seria pacífica naquele momento ou que estaria superada. Poderia ainda, se fosse o caso, demonstrar a existência de distinção do caso tratado nos autos. Precedentes.
+3. O óbice contido na Súmula 83/STJ também se aplica aos recursos especiais interpostos com base na alínea "a" do permissivo constitucional. Precedentes.
+4. Agravo interno a que se nega provimento. (AgInt no AREsp n. 827.751/RS, Rel. Ministro Og Fernandes, Segunda Turma, DJe de 14.5.2019.)
+Importante registrar que o momento adequado para impugnação dos fundamentos da decisão que não admite o recurso especial é a interposição do agravo em recurso especial, sob pena de preclusão caso feita posteriormente.
+Assim, não há nenhuma irregularidade sanável por meio dos presentes embargos, não padecendo a decisão embargada dos vícios que autorizariam a sua oposição (obscuridade, contradição, omissão ou erro material).
+Ante o exposto, rejeito os embargos de declaração .
+Publique-se.
+Intimem-se.
+ EMENTA
