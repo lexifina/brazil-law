@@ -1,0 +1,17 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em nome de ETHORY TYRESE DUARTE, preso preventivamente e acusado pela prática do crime de tráfico de drogas, em que se aponta como autoridade coatora o Tribunal de Justiça do Estado de São Paulo (Habeas Corpus n. 2011679-55.2026.8.26.0000).
+Alega ausência de fundamentação idônea para a prisão preventiva, com decisão padronizada e genérica; abordagem policial sem fundada suspeita; ingresso domiciliar sem mandado e sem consentimento válido; resistência dos policiais à utilização de câmeras corporais; e violência policial.
+Pede, inclusive liminarmente, a revogação da prisão preventiva ou a substituição por medidas do art. 319 do Código de Processo Penal ou, subsidiariamente, a prisão domiciliar nos termos do art. 318, VI, do mesmo diploma legal.
+É o relatório.
+Inicialmente, as questões relativas à abordagem policial sem fundada suspeita; ingresso domiciliar sem mandado nem consentimento válido; resistência dos policiais ao uso de câmeras corporais; e violência policial, suscitadas no writ, não foram debatidas pela Corte de origem, na extensão pretendida. A análise pelo Superior Tribunal de Justiça configuraria indevida supressão de instância.
+Segundo o entendimento desta Corte, o prévio exame das alegações pelas instâncias ordinárias constitui requisito indispensável para sua apreciação nesta instância, ainda que se cuide de questão de ordem pública. A propósito: AgRg no RHC n. 189.567/RJ, Ministro Jesuíno Rissato (Desembargador convocado do TJDFT), Sexta Turma, DJe de 11/4/2024.
+No mais, infere-se dos autos que a prisão preventiva foi fundamentada na garantia da ordem pública, em razão da apreensão de 32,2 g de cocaína, de balanças de precisão e de quantia em dinheiro, havendo, ainda, notícia de resistência à atuação policial (fls. 17; 36/38).
+No caso, a despeito de a segregação cautelar encontrar justificativa nos elementos do flagrante, o paciente é primário (fl. 38), o crime foi cometido sem violência ou grave ameaça e não há indicação de vínculo com organização criminosa nas peças apresentadas. A quantidade de droga, embora relevante ao juízo cautelar, não é elevada, nesta hipótese, a ponto de inviabilizar medidas menos gravosas, consideradas ainda as condições pessoais e o cenário descrito, em que se invocam nulidades cuja apuração demanda instrução adequada.
+Importante salientar que, com o advento da Lei n. 12.403/2011, a prisão cautelar passou a ser, mais ainda, a mais excepcional das medidas, devendo ser aplicada somente quando comprovada a inequívoca necessidade, devendo-se sempre verificar se existem medidas alternativas à prisão adequadas ao caso concreto (HC n. 305.905/SP, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 4/12/2014, DJe 17/12/2014) - AgRg no RHC n. 210.080/RS, Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJEN de 26/2/2025.
+Ante o exposto, concedo liminarmente a ordem de habeas corpus para revogar a prisão preventiva imposta ao paciente, sem prejuízo da fixação de medidas alternativas à prisão pelo Magistrado singular, desde que fundamentadamente.
+Comunique-se, com urgência, o teor desta decisão ao Tribunal estadual e ao Juízo a quo.
+Intime-se o Ministério Público estadual.
+Publique-se.
+EMENTA
+HABEAS CORPUS. PROCESSUAL PENAL. TRÁFICO DE DROGAS. NULIDADES. SUPRESSÃO DE INSTÂNCIA. PRISÃO PREVENTIVA. DESPROPORCIONALIDADE. MEDIDAS CAUTELARES ALTERNATIVAS. ADEQUAÇÃO E SUFICIÊNCIA.
+Ordem concedida liminarmente nos termos do dispositivo.
