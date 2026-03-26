@@ -1,0 +1,25 @@
+DECISÃO
+Trata-se de recurso ordinário em habeas corpus interposto por WEMERSON JOSE DA SILVA, contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE PERNAMBUCO.
+Depreende-se dos autos que o recorrente foi condenado à pena de 18 (dezoito) anos e 09 (nove) meses de reclusão, em regime inicial fechado, pela prática do crime de homicídio duplamente qualificado (motivo torpe e emboscada); negado o direito de recorrer em liberdade.
+Irresignada, a defesa impetrou habeas corpus perante o Tribunal de Justiça de origem, que denegou a ordem em acórdão às fls. 26-32.
+Neste recurso a defesa alega a existência de constrangimento ilegal consubstanciado no encarceramento provisório determinado em desfavor do recorrente, apontando ausência de fundamentação para a segregação cautelar.
+Aduz que "A decisão ora recorrida, ao manter a prisão do Recorrente, incorre em manifesta ilegalidade e violação a garantias fundamentais. O acórdão denegatório, ao fundamentar a manutenção da custódia unicamente na interpretação do artigo 492, inciso I, alínea "e", do Código de Processo Penal, e na tese firmada pelo Supremo Tribunal Federal no Tema 1.068, ignorou completamente a situação processual pretérita do Recorrente e a ausência de requisitos concretos para a manutenção da prisão" (fl. 45).
+Ressalta que "o Recorrente respondeu a todo o processo em liberdade provisória, condição que lhe foi concedida após a revogação de uma anterior prisão preventiva. Durante todo esse período, Wemerson José da Silva demonstrou um comportamento processual exemplar, cumprindo integralmente todas as obrigações impostas pelo juízo, sem qualquer registro de descumprimento, evasão ou interferência na instrução criminal" (fl. 48)
+Argumenta que a prisão é desproporcional, defendendo a aplicação de medidas cautelares alternativas à prisão.
+Requer a revogação da decisão que determinou a prisão preventiva ou a aplicação de medidas cautelares diversas.
+O Ministério Público Federal em parecer, às fls. 66-70, opinou pelo não provimento do recurso.
+É o relatório. DECIDO.
+Inicialmente, cumpre consignar que o Supremo Tribunal Federal, por maioria, apreciando o tema 1.068 de repercussão geral, no RE 1.235.340/SC, Tribunal Pleno, Rel. Min. Luís Roberto Barroso, em 12.09.2024, se posicionou no sentido de que a execução provisória da pena é plenamente constitucional e encontra respaldo na soberania dos veredictos do Tribunal do Júri.
+Por oportuno, trago a ementa do julgado:
+ ..  a) conheceu do recurso extraordinário e deu-lhe provimento para negar provimento ao recurso ordinário em habeas corpus e considerar que, neste caso específico, é possível a prisão imediata do acusado; (b) deu interpretação conforme à Constituição, com redução de texto, ao art. 492 do CPP, com a redação da Lei nº 13.964/2019, excluindo do inciso I da alínea "e" do referido artigo o limite mínimo de 15 anos para a execução da condenação imposta pelo corpo de jurados. Por arrastamento, excluiu do § 4º e do § 5º, inciso II, do mesmo art. 492 do CPP, a referência ao limite de 15 anos; e (c) fixou a seguinte tese: "A soberania dos veredictos do Tribunal do Júri autoriza a imediata execução de condenação imposta pelo corpo de jurados, independentemente do total da pena aplicada." ..
+In casu, a prisão foi determinada com o objetivo de cumprir o estatuído no art. 492, inciso I (e) do Código de Processo Penal, não exigindo os requisitos do art. 312 do Código de Processo Penal, eis que se trata de medida imposta para permitir a execução provisória da pena.
+Sobre o tema:
+""O art. 492, I, "e", do Código de Processo Penal, na redação dada pela Lei n. 13.964/2019, prevê a execução provisória da pena como medida decorrente da condenação proferida pelo Tribunal do Júri, não estando condicionada à presença dos requisitos da prisão preventiva (art. 312 do CPP)" (AgRg no REsp n. 2.197.745/MG, relator Ministro Reynaldo Soares da Fonseca, 5ª T., DJEN de 27/6/2025)" (AgRg no HC n. 1.045.390/ES, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 10/12/2025, DJEN de 15/12/2025.)
+"A tese vinculante do STF não exige a presença dos requisitos da prisão preventiva, dispostos nos artigos 312 e 313 do Código de Processo Penal, para o início da execução da pena imposta pelo Tribunal do Júri" (AgRg no HC n. 1.039.460/GO, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 17/12/2025, DJEN de 22/12/2025.)
+Da mesma forma, nos termos do tema de Repercussão Geral n. 1.068, a presença de condições pessoais favoráveis não obstam a prisão para execução provisória da pena.
+A propósito:
+"A execução provisória da pena após condenação pelo Tribunal do Júri é medida obrigatória, conforme Tema de Repercussão Geral n. 1.068 do STF, independentemente das condições pessoais do réu ou da demonstração dos requisitos da prisão preventiva" (AgRg no RHC n. 217.669/PR, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 15/10/2025, DJEN de 21/10/2025.)
+Diante de tais considerações, portanto, não se vislumbra a existência de qualquer flagrante ilegalid ade passível de ser sanada.
+Ante o exposto, nego provimento ao recurso ordinário.
+Publique-se. Intimem-se.
+EMENTA
