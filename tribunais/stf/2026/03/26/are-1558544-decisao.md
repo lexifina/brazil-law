@@ -1,0 +1,128 @@
+Ementa: Direito processual penal. Recurso extraordinário com agravo. Processo administrativo disciplinar militar. Conselho de Justificação. Sessão secreta de deliberação. Caráter opinativo do relatório. Contraditório e ampla defesa garantidos. Ausência de nulidade. Negado provimento.
+I. Caso em exame
+1. Recurso extraordinário com agravo interposto contra acórdão pelo qual se manteve a improcedência de ação declaratória de nulidade de processo administrativo disciplinar de oficial militar estadual.
+2. O recorrente alega violação aos princípios do devido processo legal, do contraditório e da ampla defesa, previstos na Constituição da República, em razão da realização de sessão secreta do Conselho de Disciplina sem a presença do acusado ou de seu advogado, que decidiu pela culpa do recorrente e resultou em sua exclusão da Polícia Militar do Piauí.
+3. A sentença de 1º Grau julgou improcedente a ação, e o acórdão do Tribunal de Justiça do Estado do Piauí confirmou a decisão, entendendo que a ausência do acusado e seus advogados na sessão secreta de deliberação não gera nulidade se as garantias da ampla defesa e do contraditório foram observadas nas demais fases do processo, e que o relatório do Conselho de Justificação é meramente opinativo.
+II. Questão em discussão
+4. A questão em discussão consiste em saber se a realização de sessão secreta do Conselho de Justificação, sem a presença do acusado ou de seu advogado, para deliberação do relatório, acarreta a nulidade do processo administrativo disciplinar militar, em face dos princípios constitucionais do devido processo legal, do contraditório e da ampla defesa.
+III. Razões de decidir
+5. O acórdão recorrido não julgou válida lei ou ato de governo local contestado em face da Constituição, o que inviabiliza o processamento do recurso extraordinário pela alínea “c” do permissivo constitucional.
+6. A alegação de violação aos princípios do devido processo legal, do contraditório e da ampla defesa (art. 5º, incs. LIV e LV, da Constituição da República) não prospera, pois o Supremo Tribunal Federal, no Tema RG nº 660, rejeitou a repercussão geral de alegada violação a esses princípios quando se mostra imprescindível o exame de normas de natureza infraconstitucional.
+7. Não há negativa de prestação jurisdicional por parte do Tribunal de Justiça, uma vez que a decisão foi suficientemente fundamentada, conforme o Tema RG nº 339, que exige fundamentação, ainda que sucinta, sem demandar o exame pormenorizado de cada alegação.
+8. O Colegiado de origem, com base nas provas e na Lei estadual nº 3.729, de 1980, asseverou que a decisão final sobre a exclusão do militar cabe ao Comandante Geral da PM/PI, sendo o relatório do Conselho de Disciplina apenas ato sugestivo e opinativo.
+9. Acolher os argumentos do recorrente demandaria a apreciação de elementos fático-probatórios e da legislação estadual, o que é inviável em recurso extraordinário, conforme os enunciados nº 279 e nº 280 da Súmula do Supremo Tribunal Federal.
+IV. Dispositivo
+10. Negado provimento ao agravo no recurso extraordinário.
+
+DECISÃO
+
+1. Trata-se de recurso extraordinário com agravo interposto contra acórdão prolatado pelo Tribunal de Justiça do Estado do Piauí, assim ementado:
+
+“APELAÇÃO CÍVEL. AÇÃO DECLARATÓRIA DE NULIDADE DE PROCESSO ADMINISTRATIVO DISCIPLINAR. OFICIAL MILITAR ESTADUAL. SESSÃO SECRETA DO CONSELHO DE JUSTIFICAÇÃO. AUSÊNCIA DE PREJUÍZO. CONTRADITÓRIO E AMPLA DEFESA GARANTIDOS. NULIDADE NÃO RECONHECIDA.
+1. Segundo o art. 9º, §2º, da Lei 3.728/80, ‘o justificante deverá estar presente a todas as sessões do Conselho de Justificação, exceto a sessão secreta de deliberação do relatório’.
+2. Apesar de controversa a possibilidade de realização da respectiva sessão de deliberação de forma secreta, a jurisprudência mais recente do STF e do STJ é firme em afirmar que a ausência do acusado e seus advogados naquela, por si só, não gera a nulidade do processo administrativo disciplinar militar quando observadas as garantias da ampla defesa e do contraditório.
+3. O STF, ao tratar de caso semelhante na esfera federal, decidiu que o relatório do Conselho de Justificação é meramente opinativo e que, acaso entenda o Comando da respectiva Força pela configuração de hipótese que possa ensejar indignidade para o oficialato, com perda do posto e da patente, deve, ato contínuo, remeter o processo oriundo do Conselho de Justificação ao Tribunal (Superior Tribunal Militar, no caso analisado), onde devem ser observadas as garantias do contraditório e ampla defesa. (RMS 37764 AgR, Relator(a): ROSA WEBER, Primeira Turma, julgado em 15-09-2021, PROCESSO ELETRÔNICO DJe-188 DIVULG 20-09-2021 PUBLIC 21-09-2021).
+4. O STJ, por sua vez, ao julgar caso de PAD militar do Piauí, decidiu que a mera ausência do acusado e seus causídicos na sessão de deliberação do Conselho de Justificação não gera a sua nulidade se observados os princípios do contraditório e ampla defesa no decorrer do procedimento. (RMS n. 60.913/PI, relator Ministro Sérgio Kukina, Primeira Turma, julgado em 17/10/2019, DJe de 22/10/2019).
+5. Assim, considerando que foi possibilitado, em todos os momentos do PAD, o contraditório do acusado, com apresentação de defesa escrita, alegações finais, interrogatório, oitiva das testemunhas arroladas e apresentação de laudos periciais, além de oportunizada a apresentação de recursos, não há razão para nulidade do processo administrativo disciplinar.
+6. Até porque, como ressaltado pelo STJ, já que a fase instrutória do PAD havia encerrado quando da deliberação do Conselho e inexiste previsão de sustentação na referida sessão, ausente prejuízo ao acusado, que seria necessário para fundamentar a alegada nulidade, de acordo com o princípio ‘pas de nullité sans grief’(ou ‘não há nulidade sem prejuízo’).
+7. Apelação Cível conhecida e improvida.” (e-doc. 41).
+
+2. No recurso extraordinário, interposto com base nas alíneas “a” e “c” do permissivo constitucional, a parte recorrente aponta que “a decisão atacada violou os princípios do devido processo legal, do contraditório e da ampla defesa (art. 5, incisos LIV e LV e art. 93, IX da Constituição Federal de 1988), por ter julgado válido ato de governo local contestado em face da Carta Magna, pois a SESSÃO DE JULGAMENTO ADMINISTRATIVO DECIDIU EM SESSÃO SECRETA SEM A PRESENÇA DO RECORRENTE OU DE SEU ADVOGADO, ensejando em violação aos PRINCÍPIOS CONSTITUCIONAIS DO CONTRADITÓRIO E DA AMPLA DEFESA“ (e-doc. 44, p. 2; grifos no original).
+
+2.1. Narra que, “após ter sido submetido a Conselho de Disciplina, ao final, o Conselho de Disciplina, em sessão secreta - (sem a participação do Recorrente ou de seu advogado constituído), decidiu, pela culpa do Recorrente pela prática das condutas descritas no libelo acusatório, o que foi mantido por decisão do Sr. Comandante-Geral da PMPI” (e-doc. 44, p. 11).
+
+2.2. Destaca que, “ao realizar a sessão secreta, mesmo que a Lei 3.729/80, tenha sido redigida enquanto vigorava o regime ditatorial, a ausência de prévia ciência do ato e de que a realização da sessão de julgamento de forma secreta foram procedimentos atentatórios aos preceitos democráticos, a pretexto da existência de regulamentação legal, tanto mais porque se verifica que o texto normativo que deu suporte ao procedimento adotado pela Polícia Militar do Piauí foi redigido ao tempo da ditadura militar, anterior e em franco conflito com a atual Constituição Federal” (e-doc. 44, p. 9).
+
+2.3. Ressalta, ainda, que, “o fato do recorrente e seu advogado ter sido intimado para leitura do relatório não supre o direito e o prejuízo de estarem presentes na sessão de emissão de votos(relatório) do conselho de disciplina” (e-doc. 44, p. 10; grifos no original).
+
+2.4. Ao final, requer o provimento do recurso “para declarar a nulidade da exclusão do recorrente da PMPI, assegurando ao mesmo o direito de retornar à Polícia Militar do Estado do Piauí (com seus reflexos funcionais e financeiros), devido aos vícios de nulidade e inconstitucionalidade consubstanciado na não inobservância dos princípios constitucionais do contraditório e da ampla defesa – entendimento do e. STF no Recurso Extraordinário 597.148 que reconhece como nula a sessão de julgamento de procedimento administrativo secreta” (e-doc. 44, p. 11; grifos no original).
+
+3. O recurso extraordinário teve o seu seguimento negado na forma assim resumida:
+
+“EMENTA: RECURSO EXTRAORDINÁRIO. JUÍZO DE ADMISSIBILIDADE. ACÓRDÃO EM CONFORMIDADE COM A TESE FIXADA NO TEMA 660 STF. INCIDÊNCIA DAS SUMULAS 279 E 284 DO STF. NEGADO SEGUIMENTO AO RECURSO.” (e-doc. 76).
+
+4. O recorrente agravou da decisão (e-doc. 78).
+
+É o relatório.
+
+Decido.
+
+5. O recurso não merece prosperar.
+
+6. Para melhor compreensão da controvérsia, transcrevo trechos dos fundamentos da sentença e do acórdão recorrido que confirmou o julgado:
+
+“(...) Não há nestes autos prova suficientemente robusta para descaracterizar a presunção de legalidade/legitimidade do ato administrativo emitido pelo Conselho de Justificação, pois, ancorado o ato em legislação correlata.
+O autor apontou que a reunião secreta realizada pelos membros do Conselho de Disciplina para decisão ocorreu sem a presença do acusado e de seu advogado, sendo pois, reunião oculta e não secreta, acrescentando que, de maneira geral, houve lesão aos princípios do contraditório e da ampla defesa, além da ausência de descrição dos fatos no libelo acusatório.
+A simples leitura do art. 13 da Lei Estadual 3.729/1980 demonstra que é o Comandante Geral da PMPI quem poderia decidir acerca da exclusão ou não do autor das fileiras castrenses, não o Conselho de Disciplina, que apenas elabora o relatório a ser deliberado pelo órgão máximo da instituição militar, caindo por terra esse argumento da defesa, in verbis:
+(...)
+Destaca-se ainda que o autor imputa violação do art. 13 do RDPM-PI que determina que a conduta tipificada exclusivamente como criminosa não pode ser considerada transgressão disciplinar, e, ainda a regra do art. 34, §1º e 2º do RDPM-PI que disciplina que uma conduta criminosa objeto de denúncia ministerial não pode ser estudo de transgressão militar.
+O entendimento que a sessão secreta do Conselho de Disciplina é apenas ato sugestivo à decisão do Comandante Geral da PMPI e que tal fato não lesiona os princípios do contraditório e da ampla defesa foi reforçado recentemente pela jurisprudência do Egrégio TJPI:
+(...)
+Nestes autos, verificou-se pela própria documentação que o requerente anexou ao processo que, após o parecer do Conselho de Justificação, não se seguiu imediata decisão em âmbito administrativo, tendo a Procuradoria Geral do Estado do Piauí sugerido ao Governador do Estado que a autorizasse a ingressão com processo junto ao Egrégio TJPI.
+Noutras palavras, é de difícil compreensão o suposto caráter vinculante e decisivo do Conselho de Justificação que, após a emissão de seu Parecer/Relatório, se inicia um novo processo junto ao Tribunal.
+Nesse cenário, não há como acolher a argumentação inicial da defesa de que o Parecer do Conselho de Justificação na verdade tem força de decisão.
+Por fim, a eventual sessão secreta que deliberou acerca da sugestão de exclusão do autor das fileiras castrenses, por não ter caráter decisório, não se amolda a situação indicada pelo requerente, pois não se tratou de julgamento.
+Não resta outra opção a este Juízo que não a aplicação do art. 487, I do CPC/2015, em razão da falta de elementos que subsidiem ao pleito do autor da ação, in verbis:
+(...)
+Por todo o exposto, JULGO IMPROCEDENTE A AÇÃO ORDINÁRIA DECLARATÓRIA DE NULIDADE COM PEDIDO DE TUTELA ANTECIPADA FEITO POR ALLISSON WATTSON DA SILVA NASCIMENTO, QUALIFICADO NOS AUTOS, EM RAZÃO DA AUSÊNCIA DE FUNDAMENTOS JURÍDICOS PARA ANULAÇÃO DO ATO ADMINISTRATIVO (PARECER) EMANADO DO CONSELHO DE JUSTIFICAÇÃO QUE SUGERIU A SUA EXCLUSÃO DAS FILEIRAS CASTRENSES, TUDO NA FORMA DO ART. 489, I DO CPC/2015.” (e-doc. 15, p. 4-5; grifos nossos).
+
+“(...) Conforme relatado, assevera o recorrente que a sessão secreta do Conselho de Justificação, que deliberou sobre sua exclusão dos quadros da Polícia Militar, não se coaduna com os princípios do contraditório e da ampla defesa, já que ele e seus advogados deveriam ter sido intimados para comparecer.
+Ocorre que, segundo o art. 9º, §2º, da Lei 3.728/80, ‘o justificante deverá estar presente a todas as sessões do Conselho de Justificação, exceto a sessão secreta de deliberação do relatório’. E, compulsando os autos, observa-se que o acusado e seus advogados foram notificados a comparecer em todas as demais sessões do Conselho, garantindo-se ampla instrução do feito, inclusive a de leitura do relatório, conforme se constata da ata anexada ao ID 17354559 e das notificações de ID 17360535 (fls. 09/10).
+Ademais, apesar de controversa a possibilidade de realização da respectiva sessão de deliberação de forma secreta, a jurisprudência mais recente do STF e do STJ, com a qual coaduno, é firme em afirmar que a ausência do acusado e seus advogados naquela, por si só, não gera a nulidade do processo administrativo disciplinar militar quando observadas as garantias da ampla defesa e do contraditório.
+O STF, ao tratar de caso semelhante na esfera federal, decidiu que o relatório do Conselho de Justificação é meramente opinativo e que, acaso entenda o Comando da respectiva Força pela configuração de hipótese que possa ensejar indignidade para o oficialato, com perda do posto e da patente, deve, ato contínuo, remeter o processo oriundo do Conselho de Justificação ao Tribunal (Superior Tribunal Militar, no caso analisado), onde devem ser observadas as garantias do contraditório e ampla defesa. Por ser de crucial importância, cito a ementa e trecho do julgado:
+(...)
+O STJ, por sua vez, ao julgar caso de PAD militar do Piauí, decidiu que a mera ausência do acusado e seus causídicos na sessão de deliberação do Conselho de Justificação não gera a sua nulidade se observados os princípios do contraditório e ampla defesa no decorrer do procedimento:
+(...)
+Assim, considerando que foi possibilitado, em todos os momentos do PAD, o contraditório do acusado, com apresentação de defesa escrita, alegações finais, interrogatório, oitiva das testemunhas arroladas e apresentação de laudos periciais (como se verifica do relatório de ID 17354562), além de oportunizada a apresentação de recursos, não há razão para nulidade do processo administrativo disciplinar.
+Até porque, como ressaltado pelo STJ, já que a fase instrutória do PAD havia encerrado quando da deliberação do Conselho e inexiste previsão de sustentação na referida sessão, ausente prejuízo ao acusado, ora apelante, que seria necessário para fundamentar a alegada nulidade, de acordo com o princípio ‘pas de nullité sans grief’ (ou ‘não há nulidade sem prejuízo’).
+Em linhas de conclusão, ressalto que coaduno do entendimento do Tribunal Pleno deste TJ-PI, ao julgar a Representação pela declaração de indignidade com o oficialato e consequente perda de posto e patente do autor, ora apelante (processo nº 0702266-14.2018.8.18.0000), em razão do homicídio de Camilla Pereira de Abreu, o qual, após manifestação da defesa com os mesmos argumentos ora deduzidos no presente processo, entendeu como inexistente qualquer vício processual a ensejar a nulidade dos atos.
+Assim, mantenho incólume a sentença recorrida e majoro em 5% os honorários advocatícios já fixados no primeiro grau em desfavor da parte Apelante, somando estes 15% sobre o valor da causa, em conformidade com o art. 85, § 11, do CPC/15.” (e-doc. 41, p. 4-10; grifos no original).
+
+7. Como se verifica do acima transcrito, o Colegiado a quo não julgou válida lei ou ato de governo local contestados em desfavor da Constituição da República, o que inviabiliza o processamento do recurso extraordinário pela alínea “c” do permissivo constitucional, conforme a orientação pacífica desta Suprema Corte:
+
+“AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. AUSÊNCIA DE PREQUESTIONAMENTO. INCIDÊNCIA DA SÚMULAS 282 DO SUPREMO TRIBUNAL FEDERAL. INTERPRETAÇÃO DA LEGISLAÇÃO INFRACONSTITUCIONAL LOCAL. IMPOSSIBILIDADE. INCIDÊNCIA DA SÚMULA 280/STF. INTERPOSIÇÃO DE APELO EXTREMO COM BASE NA ALÍNEA C DO INCISO III DO ART. 102 DA CONSTITUIÇÃO FEDERAL. NÃO CABIMENTO. AGRAVO A QUE SE NEGA PROVIMENTO, COM APLICAÇÃO DE MULTA. I – Ausência de prequestionamento dos dispositivos constitucionais apontados como violados. Incidência da Súmula 282/STF. II – É inadmissível o recurso extraordinário quando sua análise implica rever a interpretação de legislação infraconstitucional local que fundamenta o acórdão recorrido. Incidência da Súmula 280/STF. III – O tribunal de origem não julgou válida lei ou ato de governo local contestado em face da Constituição, o que afasta o cabimento de recurso extraordinário com base na alínea c do art. 102, III, da Constituição Federal. IV – Agravo regimental a que se nega provimento, com aplicação de multa.”
+(RE nº 938.265-AgR/SC, Rel. Min. Ricardo Lewandowski, Segunda Turma, j. 21/02/2022, p. 07/03/2022).
+
+“Agravo regimental nos embargos de declaração no recurso extraordinário com agravo. Direito Processual Civil. Recurso extraordinário fundado na alínea c do inciso III do art. 102 da Constituição Federal. Acórdão recorrido que julga válida lei ou ato de governo local contestados em face da Carta Magna. Não ocorrência. Precedentes. 1. O acórdão recorrido não julgou válida lei ou ato de governo local contestados em face da Constituição, razão pela qual fica inviabilizado o processamento do recurso extremo pela alínea c do inciso III do art. 102 da Constituição Federal. 2. Agravo regimental não provido, com imposição de multa de 1% (um por cento) do valor atualizado da causa (art. 1.021, § 4º, do CPC). 3. Havendo prévia fixação de honorários advocatícios pelas instâncias de origem, seu valor monetário será majorado em 10% (dez por cento) em desfavor da parte recorrente, nos termos do art. 85, § 11, do Código de Processo Civil, observados os limites dos §§ 2º e 3º do referido artigo e a eventual concessão de justiça gratuita.”
+(ARE nº 1.215.344-ED-AgR/SP, Rel. Min. Dias Toffoli, Tribunal Pleno, j. 11/11/2019, p. 04/12/2019).
+
+8. Quanto à alegação de violação ao art. 5º, incs. LIV e LV (devido processo legal, contraditório e ampla defesa), aponto que o recurso extraordinário não teria chances de êxito.
+
+8.1. O Pretório Excelso, no julgamento do ARE nº 748.371-RG/MT (Rel. Min. Gilmar Mendes, j. 06/06/2013, p. 1º/08/2013, Tema nº 660 do rol da Repercussão Geral), rejeitou a repercussão geral de alegada violação ao direito adquirido, ao ato jurídico perfeito, à coisa julgada ou aos princípios da legalidade, do contraditório, da ampla defesa e do devido processo legal, quando se mostrar imprescindível o exame de normas de natureza infraconstitucional.
+
+9. Quanto à suscitada negativa de prestação jurisdicional por parte do Tribunal de Justiça, destaco que o Supremo Tribunal Federal, no julgamento do AI nº 791.292-QO-RG/PE, Tema nº 339 do ementário da Repercussão Geral, concluiu pela seguinte tese: “o art. 93, IX, da Constituição Federal exige que o acórdão ou decisão sejam fundamentados, ainda que sucintamente, sem determinar, contudo, o exame pormenorizado de cada uma das alegações ou provas”.
+
+9.1. Da leitura do acórdão constante, tem-se que a decisão foi suficientemente fundamentada, não se configurando a mencionada nulidade.
+
+10. No mais, como se pode perceber, o Colegiado a quo, com fundamento nas provas dos autos e na Lei estadual nº 3.729, de 1980, asseverou que é o Comandante Geral da PM/PI quem poderia decidir acerca da exclusão ou não do autor, não o Conselho de Disciplina, que apenas elabora o relatório a ser deliberado pelo órgão máximo da instituição militar e, ainda, que a sessão secreta do Conselho de Disciplina é apenas ato sugestivo à decisão do Comandante Geral. Desse modo, somente a partir da apreciação dos elementos fático-probatórios e da legislação estadual, seria possível acolher os argumentos da parte recorrente e concluir de forma diversa do consignado pelo Tribunal de Justiça, o que é inviável no campo extraordinário, ante o óbice do enunciado nº 279 e nº 280 da Súmula do STF.
+
+11. Nessa mesma linha, o Plenário da Corte julgou o ARE nº 1.439.285-AgR/RO na forma assim ementada:
+
+“DIREITO ADMINISTRATIVO. PROCESSO ADMINISTRATIVO DISCIPLINAR. POLÍCIA MILITAR. CONSELHO DE DISCIPLINA. APLICAÇÃO DA SISTEMÁTICA DA REPERCUSSÃO GERAL PELO TRIBUNAL DE ORIGEM. TESE Nº 660. INTERPOSIÇÃO DE AGRAVO DA DECISÃO DE ADMISSIBILIDADE DO RECURSO QUE APLICA SISTEMÁTICA DA REPERCUSSÃO GERAL. NÃO CABIMENTO. NECESSIDADE DE EXAME DA LEGISLAÇÃO INFRACONSTITUCIONAL LOCAL E DE REELABORAÇÃO DA MOLDURA FÁTICA. PROCEDIMENTOS VEDADOS NA INSTÂNCIA EXTRAORDINÁRIA. EVENTUAL OFENSA REFLEXA NÃO VIABILIZA O RECURSO EXTRAORDINÁRIO. SÚMULAS Nº 279 E 280/STF. INTERPOSIÇÃO PELAS ALÍNEAS “A” E “C” DO INCISO III DO ART. 102 DA CF/1988. NÃO CABIMENTO DO APELO EXTREMO PELO PERMISSIVO DA ALÍNEA “C” DO INCISO III DO ART. 102 DA LEI MAIOR. AGRAVO NÃO PROVIDO.
+1. Pacífica a jurisprudência desta Suprema Corte no sentido de que incabível agravo para o Supremo Tribunal Federal contra a aplicação da sistemática da repercussão geral (arts. 1.036 a 1.040 do CPC) pelo Tribunal de origem.
+2. A controvérsia, conforme já asseverado na decisão guerreada, não alcança estatura constitucional. Não há falar em afronta aos preceitos constitucionais indicados nas razões recursais. Compreensão diversa demandaria a análise da legislação infraconstitucional encampada na decisão da Corte de origem e o revolvimento do quadro fático delineado, a tornar oblíqua e reflexa eventual ofensa à Constituição, insuscetível, como tal, de viabilizar o conhecimento do recurso extraordinário. Desatendida a exigência do art. 102, III, “a”, da Lei Maior, nos termos da jurisprudência desta Suprema Corte.
+3. As razões de decidir constantes do acórdão recorrido permitem concluir que o Tribunal de origem não julgou válida lei ou ato de governo local contestado em face da Constituição Federal, o que inviabiliza o recurso extraordinário com base na alínea “c” do inciso III do art. 102 da Carta Magna.
+4. A teor do art. 85, § 11, do CPC, o “tribunal, ao julgar recurso, majorará os honorários fixados anteriormente levando em conta o trabalho adicional realizado em grau recursal, observando, conforme o caso, o disposto nos §§ 2º a 6º, sendo vedado ao tribunal, no cômputo geral da fixação de honorários devidos ao advogado do vencedor, ultrapassar os respectivos limites estabelecidos nos §§ 2º e 3º para a fase de conhecimento”.
+5. Agravo interno conhecido e não provido, com aplicação da penalidade prevista no art. 1.021, § 4º, do CPC, calculada à razão de 1% (um por cento) sobre o valor atualizado da causa, se unânime a votação.”
+(ARE nº 1.439.285-AgR/RO, Rel. Min. Rosa Weber (Presidente), Tribunal Pleno, j. 28/08/2023, p. 04/09/2023).
+
+11.1. Na ementa dos embargos de declaração, houve ainda reafirmação quanto ao caráter opinativo do conselho de disciplina:
+
+“Ementa: Direito Constitucional e Administrativo. Embargos de declaração em agravo interno em recurso extraordinário com agravo. Exclusão de policial militar. Conselho de disciplina. Sessão secreta de deliberação. Parecer opinativo. Contraditório e ampla defesa. Ausência de questão constitucional. Incidência das súmulas nº 279 e 280/STF. Pretensão meramente infringente. Caráter protelatório.
+1.	Não há erro, obscuridade, contradição ou omissão no acórdão questionado, o que afasta a presença dos pressupostos de embargabilidade, conforme o art. 1.022 do CPC/2015.
+2.	A via recursal adotada não se mostra adequada para a renovação de julgamento que ocorreu regularmente.
+3.	Embargos de declaração rejeitados, determinando-se o trânsito em julgado e a baixa imediata dos autos à origem.”
+(ARE nº 1.439.285-AgR-ED/RO, Rel. Min. Luís Roberto Barroso (Presidente), Tribunal Pleno, j. 30/10/2023, p. 14/11/2023; grifos acrescidos).
+
+12. Para a espécie, inclusive, se faz válido registrar a advertência de que, em casos de apresentação de medida recursal manifestamente inadmissível ou improcedente, o Supremo Tribunal Federal entende pela possibilidade de aplicação de multa, nos termos do art. 1.021, § 4º, do CPC (ARE nº 1.321.696-ED-AgR/MG, de minha relatoria, Segunda Turma, j. 06/06/2022, p. 29/06/2022; ARE nº 1.107.805-AgR/SP, Rel. Min. Roberto Barroso, Primeira Turma, j. 13/12/2019, p. 03/02/2020; Rcl nº 45.289- AgR/DF, Rel. Min. Dias Toffoli, j. 04/10/2021; Rcl nº 24.841-ED-AgR/SP, Rel. Min. Luiz Fux, Primeira Turma, j. 20/04/2017, p. 11/05/2017; MS nº 37.637-AgR/DF, Rel. Min. Roberto Barroso, Tribunal Pleno, j. 17/05/2021, p. 16/06/2021; e MS nº 35.272-AgR-segundo/DF, Rel. Min. Edson Fachin, Segunda Turma, j. 16/06/2020, p. 08/10/2020).
+
+13. Para além, consigno ainda que a apresentação de embargos de declaração com intuito protelatório assoberba ilegitimamente a justiça, prejudicando a mais célere e efetiva prestação jurisdicional. A eventual insistência na apresentação de recursos protelatórios acarreta a possibilidade e, até mesmo, a obrigação da magistratura em fazer incidir a multa processual prevista no art. 1.026, §§ 2º a 4º, do CPC.
+
+14. Ante o exposto, nego provimento ao agravo no recurso extraordinário, nos termos do art. 21, § 1º, do RISTF. Havendo prévia condenação em honorários advocatícios, seu valor monetário será majorado em 10% (dez por cento) em desfavor da parte recorrente, na forma do art. 85, § 11, do CPC, observados os limites dos §§ 2º e 3º do referido artigo e a eventual concessão de justiça gratuita.
+
+Publique-se.
+
+Brasília, 26 de março de 2026.
+
+Ministro ANDRÉ MENDONÇA
+Relator
