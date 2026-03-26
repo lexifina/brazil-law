@@ -1,0 +1,47 @@
+DECISÃO
+Trata-se de recurso em habeas corpus interposto por IVAN CICERO DE OLIVEIRA SOARES contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE ALAGOAS que denegou o writ de origem.
+Consta dos autos que, em 17/10/2025, o paciente foi preso em flagrante pela prática de tráfico de drogas qualificado pelo uso de arma de fogo, sobrevindo decisão que converteu a custódia em preventiva.
+O recorrente alega, em síntese:
+i) ausência de fundamentação idônea e contemporânea para a manutenção da custódia cautelar, ao argumento de que o decreto prisional se teria baseado em elementos genéricos e na gravidade abstrata do delito, em desconformidade com os arts. 312 e 315 do CPP;
+ii) a quantidade de droga apreendida (480 g de maconha) e a apreensão de arma de fogo, por integrarem a própria materialidade dos delitos imputados, não poderiam, por si, servir de fundamento para o periculum libertatis, exigindo-se demonstração de risco concreto e atual à ordem pública;
+iii) a reincidência específica não operaria de forma automática, sendo imprescindível explicitar o nexo entre a vida pregressa e fatos atuais que evidenciassem perigo real e iminente na liberdade do paciente, nos termos do art. 312, § 2º, do CPP;
+iv) violação do princípio da proporcionalidade, porque não teria havido demonstração de inadequação ou insuficiência das medidas cautelares diversas da prisão previstas no art. 319 do CPP, como exige o art. 282, § 6º, do CPP.
+Requer o provimento do recurso para revogar a prisão preventiva.
+O Ministério Público Federal manifestou-se pelo desprovimento do recurso, através de parecer assim ementado (fls. 122-123):
+DIREITO PROCESSUAL PENAL. RECURSO ORDINÁRIO EM HABEAS CORPUS. TRÁFICO DE DROGAS. PRISÃO PREVENTIVA. GARANTIA DA ORDEM PÚBLICA. QUANTIDADE DE ENTORPECENTE. APREENSÃO DE ARMA DE FOGO. REINCIDÊNCIA ESPECÍFICA. DESPROVIMENTO.
+I. CASO EM EXAME
+1. Recurso ordinário contra acórdão do Tribunal de Justiça de Alagoas que manteve a prisão preventiva de paciente flagrado com 480g de maconha e uma arma de fogo. O recorrente é reincidente específico e a defesa pleiteia a revogação da custódia ou a aplicação de medidas cautelares alternativas, alegando ausência de fundamentação idônea.
+II. QUESTÃO EM DISCUSSÃO
+2. Há duas questões em discussão: (i) saber se a quantidade de droga apreendida, somada à posse de arma de fogo e à reincidência específica, constitui fundamento idôneo para a manutenção da prisão preventiva para garantia da ordem pública; e (ii) saber se as medidas cautelares diversas da prisão são suficientes no caso concreto.
+III. RAZÕES DA MANIFESTAÇÃO
+3. A jurisprudência consolidada estabelece que a quantidade de drogas, o modus operandi e a periculosidade do agente são fundamentos válidos para o decreto prisional.
+4. A apreensão de armas e petrechos de mercancia, aliada à quantidade do entorpecente, evidencia a gravidade concreta da conduta e o risco de reiteração delitiva.
+5. A reincidência específica demonstra a dedicação à atividade criminosa e justifica a segregação cautelar como meio de resguardar a ordem pública.
+6. Condições subjetivas favoráveis não impedem a custódia cautelar quando presentes os requisitos do art. 312 do CPP, e a gravidade dos fatos torna inadequadas as medidas cautelares do art. 319 do CPP.
+IV. CONCLUSÃO E TESE
+7. Manifestação no sentido de negar provimento ao recurso em habeas corpus.
+Teses da manifestação: "1. A quantidade de entorpecentes, a posse de arma de fogo e a reincidência específica justificam a prisão preventiva para a garantia da ordem pública. 2. Medidas cautelares alternativas são insuficientes quando a periculosidade do agente é demonstrada pelo risco real de reiteração delitiva".
+É o relatório.
+O recurso é tempestivo e deve ser conhecido. Passa-se, portanto, ao exame do mérito.
+A prisão preventiva justifica-se apenas quando devidamente demonstrada sua imprescindibilidade para a preservação da ordem pública, a garantia da regularidade da instrução criminal ou a asseguração da eficácia da aplicação da lei penal, nos termos do art. 312 do Código de Processo Penal.
+O decreto prisional foi assim fundamentado (fls. 52-53):
+No caso em tela, restaram presentes os elementos que ensejam a prisão preventiva do autuado: fummus comissi delicti, constatado através do auto de apreensão, em que foram descritos os objetos ilícitos: 1. Arma de fogo, sem autorização para posse ou porte; e 2. Substância entorpecente (maconha), em quantidade superior a 600 (seiscentos) gramas. Ademais, a busca foi realizada a partir de denúncia anônima qualificada e não houve indícios que os objetos encontrados com o autuado pudessem pertencer a pessoa diversa.
+Quanto ao periculum libertatis, verifica-se que estão presentes os motivos autorizadores para decretação da prisão preventiva, conforme disposto no art. 312, do CPP. Isso porque, em razão da expressiva quantidade de drogas encontradas com o autuado, da gravidade concreta da conduta e da reincidência específica em delitos de igual natureza, há não só risco à ordem pública, mas também à garantia da instrução penal e à aplicação da lei penal, haja vista ter o custodiado interrompido o cumprimento de pena em processos análogos e, nesta mesma data (14/10/2025), ter sido preso por mandado de prisão, expedido por órgão judiciário do estado de Sergipe, nos autos do processo n. 0751921-49.2025.8.02.0001.
+Diante do exposto, outra medida não é cabível senão à decretação da prisão preventiva, prevista nos arts. 312 e 313, inc. I e II, do CPP.
+Ainda de acordo com a nova disposição do Código de Processo Penal, a prisão preventiva será determinada quando, além de presentes um dos requisitos para a sua decretação, também não for cabível a sua substituição por outra medida cautelar constante no art. 319 do mesmo diploma legal, diversa da prisão.
+Portanto, a gravidade concreta dos fatos, a potencialidade delitiva e a reiteração específica em crimes de mesma natureza justificam a decretação da prisão preventiva, não só para garantir a ordem pública, mas também para assegurar a aplicação da lei penal e evitar a reincidência do preso.
+Dessa forma, entendo que a prisão preventiva se faz necessária para a garantia da ordem pública, da instrução criminal e para a aplicação da lei penal, ante a periculosidade evidenciada pela reiteração delitiva e pela gravidade concreta do delito, sendo insuficientes, no presente caso, a aplicação de medidas cautelares diversas da prisão, razão pela qual, CONVERTO A PRISÃO EM FLAGRANTE EM PRISÃO PREVENTIVA do flagranteado, cuja medida é necessária para garantia da ordem pública, da instrução criminal e para a aplicação da lei penal, o que faço com arrimo nos arts. 311, 312 e 313, do CPP.
+Verifica-se que a prisão preventiva foi decretada mediante fundamentação idônea, lastreada na garantia da ordem pública e para assegurar a aplicação da lei penal, tendo sido evidenciada a apreensão de 480 g de maconha, agravada pela utilização de espingarda calibre .12, além do fato de o paciente ter interrompido o cumprimento de pena por crime análogo e preso dias antes por mandado judicial expedido em autos diversos, elementos que revelam a indispensabilidade da imposição da medida extrema no caso concreto.
+Como asseverou o acórdão recorrido: "a quantidade expressiva de drogas, a apreensão de arma de fogo, a reiteração criminosa, reincidência específica e existência de mandado de prisão anterior foram devidamente analisados de forma individualizada, indicando que, no contexto em que se deram os fatos apurados nos autos de origem, a medida segregacional era a mais adequada à situação em questão" (fl. 94).
+Esta Corte Superior firmou orientação no sentido de que a prisão preventiva poderá ser decretada ante o risco concreto de reiteração delitiva, evidenciada na presença de maus antecedentes, reincidência, atos infracionais pretéritos ou até mesmo ações penais em andamento, porquanto indicativos de periculosidade. Veja-se:
+AGRAVO REGIMENTAL NO RECURSO EM HABEAS CORPUS. RÉU CONDENADO POR ROUBO MAJORADO. NEGATIVA DE RECURSO EM LIBERDADE. FUNDAMENTAÇÃO. PERICULOSIDADE DO AGENTE. REITERAÇÃO DELITIVA. SEGREGAÇÃO DEVIDAMENTE JUSTIFICADA PARA A GARANTIA DA ORDEM PÚBLICA. MEDIDAS CAUTELARES ALTERNATIVAS. INSUFICIÊNCIA. AUSÊNCIA DE CONSTRANGIMENTO ILEGAL. RECURSO NÃO PROVIDO.
+ ..
+3. Conforme pacífica jurisprudência desta Corte, "a preservação da ordem pública justifica a imposição da prisão preventiva quando o agente ostentar maus antecedentes, reincidência, atos infracionais pretéritos, inquéritos ou mesmo ações penais em curso, porquanto tais circunstâncias denotam sua contumácia delitiva e, por via de consequência, sua periculosidade" (RHC n. 107.238/GO, Relator Ministro ANTONIO SALDANHA PALHEIRO, Sexta Turma, julgado em 26/2/2019, DJe 12/3/2019). Prisão preventiva, no caso vertente, devidamente justificada para a garantia da ordem pública, nos termos do art. 312 do CPP, visando frear a reiteração delitiva.
+ ..
+7. Agravo regimental a que se nega provimento.
+(AgRg no RHC n. 187.651/GO, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 9/9/2024, DJe de 12/9/2024.)
+Por fim, exposta de forma devidamente fundamentada a necessidade da prisão preventiva, mostra-se incabível sua substituição por outras medidas cautelares mais brandas, previstas no art. 319 do CPP. Nesse entendimento: AgRg no HC n. 965.960/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 5/3/2025, DJEN de 10/3/2025.
+Ante o exposto, nego provimento ao recurso em habeas corpus.
+Publique-se.
+Intimem-se.
+ EMENTA
