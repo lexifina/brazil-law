@@ -1,0 +1,38 @@
+DECISÃO
+Trata-se de recurso especial interposto por VIACAO SERTANEJA LTDA, fundamentado no art. 105, inciso III, alíneas "a" e "c", da Constituição Federal, contra acórdão proferido pelo eg. Tribunal de Justiça do Estado de Minas Gerais, assim ementado:
+"EMENTA: AGRAVO DE INSTRUMENTO - AÇÃO DE AÇÃO DE EXECUÇÃO - RECUPERAÇÃO JUDICIAL - SUSPENSÃO DE ATOS EXPROPRIATÓRIOS - DEVIDA - BENS ESSENCIAIS À ATIVIDADE DA EMPRESA - EXAURIDO O PRAZO DO "STAY PERIOD" - PROSSEGUIMENTO DA EXECUÇÃO DOS CRÉDITOS EXTRACONCURSAIS - INCOMPETÊNCIA DO JUÍZO RECUPERACIONAL. - Exaurido o prazo de blindagem da recuperação judicial, indevida a suspensão da execução dos créditos extraconcursais, mesmo que se trate de bens essenciais, sob pena de violação ao disposto na Lei 11.101/2005 (com as devidas alterações dadas pela Lei nº 14.112/2020). - A competência do juízo recuperacional para analisar as execuções de crédito extraconcursal se limita aos bens de capital essenciais para o funcionamento da empresa durante o "stay period"." (e-STJ, fls. 1136)
+Os embargos de declaração foram rejeitados (e-STJ, fls. 1233-1238).
+Em seu recurso especial, o recorrente alega violação dos arts. 47, 49 § 3 e 6 § 4 da Lei 11.101/2005, pois teria sido negada vigência ao princípio da preservação da empresa e adotada interpretação literal que permitiria a expropriação e a retomada de bens de capital essenciais após o stay period, quando a leitura sistemática desses dispositivos deveria impedir constrições automáticas. Sustentou que a suspensão também visaria assegurar a manutenção dos bens essenciais na posse da recuperanda, mesmo diante de créditos extraconcursais.
+Foram apresentadas contrarrazões (e-STJ, fls. 1279).
+É o relatório. Decido.
+O cerne da controvérsia reside em verificar a possibilidade de manutenção da suspensão de atos expropriatórios sobre bens de capital considerados essenciais à atividade empresarial da recorrente após o exaurimento do prazo de blindagem (stay period). O Tribunal de origem, ao enfrentar a matéria, assim fundamentou sua decisão:
+"No caso concreto, verifica-se o exaurimento do prazo de blindagem da recuperação judicial da Executada/Agravante, assim, indevida a suspensão da execução dos créditos extraconcursais, mesmo que se trate de bens essenciais, sob pena de violação ao disposto na Lei 11.101/2005 (com as devidas alterações dadas pela Lei nº 14.112/2020). - A competência do juízo recuperacional para analisar as execuções de crédito extraconcursal se limita aos bens de capital essenciais para o funcionamento da empresa durante o "stay period"." (e-STJ, fls. 1136-1139) .
+Verifica-se que o acórdão recorrido está em estrita consonância com a jurisprudência consolidada deste Superior Tribunal de Justiça. O entendimento desta Corte é no sentido de que, decorrido o prazo de suspensão de que trata o art. 6º, § 4º, da Lei n.º 11.101/2005, exaure-se a competência do juízo da recuperação para sobrestar atos constritivos relativos a créditos não sujeitos ao plano de soerguimento.
+A tese da recorrente encontra óbice no atual regime jurídico estabelecido pela Lei n.º 14.112/2020, que reforça o marco temporal definido para a proteção aos bens de capital essenciais.
+Nesse sentido, colaciona-se a jurisprudência desta Corte:
+DIREITO EMPRESARIAL. RECURSO ESPECIAL. RECUPERAÇÃO JUDICIAL. CONSOLIDAÇÃO DE PROPRIEDADE FIDUCIÁRIA APÓS O TÉRMINO DO STAY PERIOD. POSSIBILIDADE DE RETOMADA DE MEDIDAS EXPROPRIATÓRIAS, AINDA QUE O BEM SEJA ESSENCIAL. RECURSO ESPECIAL NÃO CONHECIDO.
+ ..  III. RAZÕES DE DECIDIR
+5. O entendimento do STJ é que, decorrido o stay period, exaure-se a competência do juízo da recuperação para sobrestar atos constritivos relativos a crédito extraconcursal, permitindo a retomada de medidas expropriatórias, ainda que atinjam bens essenciais.
+6. Incide a Súmula n. 83 do STJ, também aplicável à alínea a do art. 105, III, da Constituição Federal, porque o acórdão recorrido está em consonância com a jurisprudência desta Corte; pela mesma razão, não se configura a divergência jurisprudencial.
+IV. DISPOSITIVO E TESE
+7. Recurso especial não conhecido.
+Tese de julgamento: "1. Incide a Súmula n. 83 do STJ porque o acórdão recorrido está em consonância com a jurisprudência que, após o término do stay period, afasta a competência do juízo da recuperação para sobrestar atos constritivos de crédito extraconcursal. 2. Decorrido o stay period, é possível a retomada de medidas expropriatórias relativas à propriedade fiduciária, ainda que o bem seja essencial".
+(REsp n. 2.071.910/SP, relator Ministro João Otávio de Noronha, Quarta Turma, julgado em 9/2/2026, DJEN de 13/2/2026, destaquei.)
+DIREITO PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. RECUPERAÇÃO JUDICIAL. EXECUÇÃO DE CRÉDITO EXTRACONCURSAL. FIM DO "STAY PERIOD". AUSÊNCIA DE SUBMISSÃO AO JUÍZO RECUPERACIONAL. INCIDÊNCIA DAS SÚMULAS 7 E 83/STJ. AGRAVO NÃO CONHECIDO.
+ ..  III. RAZÕES DE DECIDIR
+3. O entendimento adotado pelo acórdão recorrido está em conformidade com a jurisprudência consolidada do STJ, que reconhece a ausência de competência do juízo recuperacional para processar demanda que exige crédito extraconcursal após o fim do "stay period", atraindo a incidência da Súmula 83/STJ (CC n. 199.496/CE, rel. Min. Marco Aurélio Bellizze, DJe de 17/9/2024).
+4. A argumentação da parte agravante demanda reexame do conjunto fático-probatório dos autos, providência vedada em sede de recurso especial, conforme estabelece a Súmula 7 do STJ (AgInt no AREsp n. 2.662.008/BA, rel. Min. Moura Ribeiro, DJe de 28/2/2025).
+IV. DISPOSITIVO
+5. Agravo em recurso especial não conhecido.
+(AREsp n. 3.017.369/SP, relatora Ministra Daniela Teixeira, Terceira Turma, julgado em 10/11/2025, DJEN de 13/11/2025, destaquei.)
+DIREITO EMPRESARIAL. RECURSO ESPECIAL. RECUPERAÇÃO JUDICIAL. ALIENAÇÃO FIDUCIÁRIA. ESSENCIALIDADE DE BENS. RECURSO DESPROVIDO.
+ ..  III. Razões de decidir
+3. Alegação de violação do art. 1.022 do CPC, sem a indicação das teses omitidas, em evidente alegação genérica de contrariedade ao referido dispositivo. Súmula 284 do STF.
+4. A jurisprudência do STJ estabelece que, durante o "stay period", os bens essenciais alienados fiduciariamente devem permanecer com o devedor, sem consolidação da propriedade fiduciária em favor do credor. Após o término do "stay period", a consolidação da propriedade poderá ocorrer normalmente. Incidência da Súmula 83/STJ.
+5. Compete ao juízo da recuperação judicial decidir acerca da essencialidade dos bens para fins de aplicação da ressalva prevista na parte final do § 3º do art. 49 da Lei 11.101/2005, ainda que se trate de créditos garantidos por alienação fiduciária. IV. Dispositivo e tese. 6. Recurso desprovido.
+(REsp n. 1.932.453/MG, relator Ministro Raul Araújo, Quarta Turma, julgado em 23/6/2025, DJEN de 1/7/2025, destaquei.)
+Ademais, no que tange à alegação de essencialidade, o Tribunal a quo consignou que o exaurimento da blindagem torna "absolutamente necessário que o credor extraconcursal tenha seu crédito devidamente equalizado no âmbito da execução individual". Incide, portanto, o óbice da Súmula 83/STJ, visto que o acórdão recorrido reflete a orientação atual desta Corte.
+De igual modo, não prospera o recurso no que se refere à alegação de dissídio jurisprudencial, posto que a incidência do óbice sumular quanto à interposição pela alínea "a" do permissivo constitucional impede o conhecimento do recurso especial pela divergência jurisprudencial sobre a mesma questão (AgInt nos EDcl no AREsp n. 2.871.243/SC, relator Ministro João Otávio de Noronha, Quarta Turma, julgado em 29/9/2025, DJEN de 3/10/2025.).
+Ante o exposto, nego provimento ao recurso especial.
+Publique-se.
+EMENTA
