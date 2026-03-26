@@ -1,0 +1,37 @@
+DECISÃO:
+Cuida-se de embargos de declaração opostos por Clínica Excelência Saúde, Beleza & Bem Estar Ltda. e outra (e-doc. 13) contra decisão monocrática na qual neguei seguimento à reclamação, por entender que a controvérsia dos autos desenvolveu-se em razão da ausência de contrato escrito de prestação de serviço entre as partes, de modo que seria necessária nova incursão sobre o teor da prova produzida nos autos, providência incompatível com a via reclamatória (e-doc. 9).
+As embargantes alegam que a decisão embargada incorreu em contradição e omissão, eis que o Tema nº 1.389 da Repercussão Geral “não estabelece qualquer distinção quanto à formalização contratual, sendo irrelevante a existência de instrumento escrito para fins de sua incidência” (e-doc. 13, p. 2).
+Sustentam que,
+
+“Ao contrário, a controvérsia submetida ao STF diz respeito à própria natureza jurídica da relação havida entre as partes, justamente em hipóteses em que se discute a configuração, ou não, de vínculo de emprego, muitas vezes independentemente de formalização contratual.
+Assim, ao criar requisito não previsto no precedente vinculante, o Juízo incorre em contradição e omissão, por afastar a aplicação do Tema 1389 com base em fundamento estranho à sua ratio decidendi.” (e-doc. 13, p. 2).
+
+Defendem que não se trata de análise do mérito do processo de origem, mas apenas de pedido de suspensão da ação trabalhista, na qual se discute a temática de “pejotização”.
+Requerem o acolhimento dos presentes embargos de declaração para o saneamento dos vícios apontados, com atribuição de efeitos infringentes, a fim de que seja determinada a suspensão dos efeitos da decisão reclamada.
+É o relatório. Decido.
+De início, destaco que os embargos declaratórios constituem remédio processual para sanar vícios de omissão, contradição, obscuridade ou erro material na decisão embargada (art. 1.022 do CPC).
+As razões apresentadas não são suficientes para modificar a decisão embargada, uma vez que a ordem de suspensão dos processos, exarada pelo STF no Tema nº 1.389 da RG (ARE nº 1.532.603), não incide em casos de ausência de contrato escrito firmado entre as partes. Vide:
+
+“Competência e ônus da prova nos processos que discutem a existência de fraude no contrato civil/comercial de prestação de serviços; e a licitude da contratação de pessoa jurídica ou trabalhador autônomo para essa finalidade.” (Tema nº 1.389 da Repercussão Geral)
+
+Para alterar as conclusões adotadas na origem, seria necessário o revolvimento do conjunto fático-probatório dos autos, o que se revela incompatível com a via reclamatória. Nesse sentido, confiram-se os seguintes julgados:
+
+“DIREITO CONSTITUCIONAL. AGRAVO INTERNO EM RECLAMAÇÃO. ARBITRAGEM. SUPOSTO ATAQUE CIBERNÉTICO A E-MAILS TROCADOS ENTRE ADVOGADOS E CLIENTES. DEVIDO PROCESSO LEGAL, IGUALDADE ENTRE AS PARTES E SIGILO PROFISSIONAL. ADI 1127. AUSÊNCIA DE ADERÊNCIA ESTRITA. NECESSIDADE DE REEXAME DE FATOS E PROVAS. IMPOSSIBILIDADE. 1. Agravo interno cujo objeto é decisão que negou seguimento a reclamação contra sentença arbitral e sentença judicial que têm como pano de fundo litígio entre duas empresas pelo controle acionário de uma companhia de celulose. 2. Ausência de aderência estrita entre as decisões reclamadas e o paradigma apontado. Na ADI 1.127, o Supremo Tribunal Federal declarou a constitucionalidade da redação original do art. 7º, II, da Lei nº 8.906/1994 na parte em que exigia a presença de um representante da OAB para a realização de busca e apreensão determinada judicialmente em escritórios de advocacia ou local de trabalho do advogado. A Corte considerou que tal exigência era consectário da garantia da inviolabilidade da atuação profissional do advogado e não afrontava a efetividade da jurisdição. 3. Na espécie, os fatos e fundamentos jurídicos são distintos. Os reclamantes pretendem, na realidade, ver reconhecida a afronta a normas constitucionais e legais que asseguram a inviolabilidade das comunicações entre advogado e cliente. Todavia, não cabe reclamação por ofensa ao direito objetivo. Precedentes. 4. Tampouco é cabível a reclamação para reexame de matéria fático-probatória. Não se trata aqui de mero pedido de requalificação jurídica dos fatos à luz dos elementos de prova trazidos aos autos, uma vez que a base empírica em que se fundou o juízo reclamado é profundamente controvertida. O conjunto fático-probatório subjacente a esta reclamação deverá ser apreciado, em grau de recurso, pelo Tribunal de Justiça, e não por esta Corte. 5. Agravo interno a que se nega provimento.” (Rcl nº 56703 AgR, Rel. Min. Roberto Barroso, Primeira Turma, DJe de 24/5/23)
+
+“Agravo regimental nos embargos de declaração na reclamação. 2. Penal. Constitucional, Civil e Administrativo. 3. Ausência de violação ao enunciado da Súmula Vinculante 14. 4. Impossibilidade de aplicação da Súmula em procedimentos de natureza cível. 5. Impossibilidade de exame de fatos e provas em sede de reclamação. 5. Agravo regimental não provido.” (Rcl nº 49456 ED-EgR, Rel. Min. Gilmar Mendes, Segunda Turma, DJe de 3/3/22)
+
+Sendo assim, os embargos de declaração não comportam acolhimento, porquanto não está caracterizada nenhuma das hipóteses autorizadoras do artigo 1.022 do CPC, quais sejam omissão, contradição, obscuridade ou erro material. No caso, é evidente que a pretensão do embargante é provocar a rediscussão da causa, fim para o qual não se presta os embargos de declaração. Vide precedentes:
+
+“EMBARGOS DE DECLARAÇÃO EM AÇÃO DIRETA DE INCONSTITUCIONALIDADE. AUSÊNCIA DE CONTRADIÇÃO, OMISSÃO OU OBSCURIDADE. REJEIÇÃO. 1. Ausente contradição, omissão ou obscuridade justificadora da oposição de embargos declaratórios, a evidenciar o caráter meramente infringente da insurgência. 2. Embargos de declaração rejeitados” (ADI nº 5.785-AgR-ED, Rel. Min. Rosa Weber, Tribunal Pleno, DJe de 18/1/21).
+
+“EMBARGOS DE DECLARAÇÃO EM AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO COM AGRAVO. AUSÊNCIA DE OBSCURIDADE, CONTRADIÇÃO, OMISSÃO OU ERRO MATERIAL. 1. Não havendo ambiguidade, omissão, contradição, obscuridade ou erro material, impõe-se a rejeição dos embargos de declaração. 2. Embargos de declaração conhecidos e rejeitados” (ARE nº 1.153.306-AgR-ED, Rel. Min. Nunes Marques, Segunda Turma, DJe de 22/11/21).
+
+“RECLAMAÇÃO. INADEQUAÇÃO DO PARADIGMA INVOCADO. INVIABILIDADE. AGRAVO REGIMENTAL DESPROVIDO. EMBARGOS DE DECLARAÇÃO. AUSÊNCIA DE OMISSÃO. CARÁTER PROTELATÓRIO. REJEIÇÃO. 1. Os embargos de declaração não constituem meio hábil para reforma do julgado, sendo cabíveis somente quando houver no acórdão omissão, contradição, obscuridade ou erro material. 2. A ausência de manifestação do Colegiado sobre ponto que não se constitui matéria sobre a qual necessariamente deveria o órgão julgador se manifestar não viabiliza processamento dos embargos de declaração fundados em omissão. 3. Os embargos de declaração não se prestam à rediscussão do que assentado no julgado em decorrência de inconformismo da parte embargante, revelando-se protelatórios os embargos que, lastreados em pretensão meramente infringente, despreza o teor da fundamentação constante do acórdão embargado. 4. Embargos de declaração rejeitados” (Rcl nº 55.968-ED-AgR-ED, Rel. Min. Edson Fachin, Segunda Turma, DJe de 6/3/23).
+
+Ante o exposto, rejeito os embargos de declaração e determino o retorno imediato dos autos ao arquivo.
+Publique-se.
+Brasília, 26 de março de 2026.
+
+Ministro DIAS TOFFOLI
+Relator
+Documento assinado digitalmente
