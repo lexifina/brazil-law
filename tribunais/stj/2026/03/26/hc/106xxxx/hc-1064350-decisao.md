@@ -1,0 +1,26 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de LEONARDO CLOVIS MORAES DE SAMPAIO contra ato proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE MATO GROSSO.
+Consta dos autos que o paciente foi condenado à pena de 8 anos, 3 meses e 5 dias de reclusão, em regime inicial fechado, como incurso nos arts. 2º da Lei nº 12.850/2013 e 35 da Lei nº 11.343/2006, negado o direito de recorrer em liberdade.
+No julgamento da apelação, o Tribunal de origem negou provimento ao recurso da defesa, mantendo inalterada a sentença condenatória.
+Neste writ, o impetrante sustenta, em suma, a ausência de fundamentação concreta, específica e contemporânea que justifique a subsistência da prisão preventiva.
+Argumenta que o paciente reúne predicados pessoais favoráveis, tais como primariedade, bons antecedentes, vínculo laboral estável há cerca de nove anos e responsabilidade familiar, circunstâncias que demonstram sua adequada inserção social.
+Requer, ao final, a revogação da prisão preventiva.
+Liminar indeferida às fls. 30-31.
+Informações prestadas às fls. 39-217.
+É o relatório. DECIDO.
+No presente caso, a análise da sentença condenatória que manteve a prisão preventiva, permite a conclusão de que a prisão cautelar encontra-se devidamente fundamentada para a garantia da ordem pública, em razão da gravidade concreta das condutas atribuídas, haja vista a suposta participação do paciente em organização criminosa voltada à prática do crime de tráfico de drogas, desempenhando funções de apoio logístico, transporte e armazenamento de armas, bem como o recolhimento das taxas de adesão dos integrantes da organização criminosa. Tais circunstâncias evidenciam a relevância e a periculosidade da atuação imputada, justificando a manutenção da custódia cautelar - fl. 42.
+Ora, a jurisprudência desta Corte é assente no sentido de que se justifica a decretação de prisão como forma de fazer cessar ou diminuir a atuação de suposto membro de grupo criminoso.
+Sobre o tema, trago os seguintes precedentes desta Corte Superior de Justiça:
+"Destaca-se que "a jurisprudência desta Corte é assente no sentido de que se justifica a decretação de prisão de membros de organização criminosa como forma de interromper suas atividades" (AgRg no RHC n. 221.713/PR, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, DJEN de 21/10/2025.)
+"A prisão preventiva está devidamente fundamentada na necessidade de garantir a ordem pública, em razão da gravidade concreta das condutas atribuídas aos agravantes, integrantes de organização criminosa" (HC n. 998.215/RS, relator Ministro Messod Azulay Neto, Quinta Turma, DJEN de 16/9/2025.)
+"A prisão preventiva está fundamentada na garantia da ordem pública e na aplicação da lei penal, com base em indícios de participação da paciente em organização criminosa, conforme apurado em interceptações telefônicas e outras provas.
+A jurisprudência do Superior Tribunal de Justiça e do Supremo Tribunal Federal reconhece a idoneidade da prisão preventiva para resguardar a ordem pública quando demonstrado o risco de reiteração delitiva" HC n. 975.776/PE, relator Ministro Sebastião Reis Júnior, Sexta Turma, DJEN de 23/6/2025.)
+No mesmo sentido: AgRg no RHC n. 168.799/RS, relator Ministro Joel Ilan Paciornik, Quinta Turma, DJe de 31/3/2023; AgRg no HC n. 790.100/MG, relatora Ministra Laurita Vaz, Sexta Turma, DJe de 23/3/2023; AgRg no HC n. 787.732/MT, relator Ministro minha relatoria, Quinta Turma, DJe de 3/3/2023; AgRg no HC n. 781.026/ES, relatora Ministra Laurita Vaz, Sexta Turma, DJe de 15/12/2022; AgRg no HC n. 719.304/SP, relator Ministro Ribeiro Dantas, Quinta Turma, DJe de 13/9/2022; AgRg no RHC 166309/PR, Rel. Min. Reynaldo Soares da Fonseca, Quinta Turma, DJe 04/10/2022 e RHC 142663/DF, Rel. Min. Laurita Vaz, Sexta Turma, DJe 18/08/2022.
+Ressalta-se, ainda, que tendo o acusado permanecido preso durante toda a instrução processual, mediante decisão concretamente fundamentada, não se mostra adequada a concessão ao direito de recorrer em liberdade, haja vista a manutenção das circunstâncias que justificaram a sua segregação cautelar.
+A propósito:
+"tendo o paciente perma necido preso durante toda a instrução processual, mediante decisão devidamente motivada, não deve ser permitido recorrer em liberdade, especialmente porque, inalteradas as circunstâncias que justificaram a custódia, não se mostra adequada a soltura dele depois da condenação em Juízo de primeiro grau"(AgRg no HC n. 991.761/MS, relator Ministro Sebastião Reis Júnior, Sexta Turma, DJEN de 21/5/2025.)
+"Tendo o recorrente permanecido preso durante toda a instrução processual, não deve ser permitido recorrer em liberdade, especialmente porque, inalteradas as circunstâncias que justificaram a custódia, não se mostra adequada sua soltura depois da condenação em Juízo de primeiro grau" (AgRg no RHC n. 212.046/SC, relator Ministro Joel Ilan Paciornik, Quinta Turma, DJEN de 19/5/2025.)
+Por fim, cumpre registrar que a presença de circunstâncias pessoais favoráveis, tais como primariedade, ocupação lícita e residência fixa, não tem o condão de garantir a revogação da prisão se há nos autos elementos hábeis a justificar a imposição da segregação cautelar, como na hipótese.
+Ante o exposto, denego a ordem.
+Publique-se. Intimem-se.
+EMENTA
