@@ -1,0 +1,5 @@
+LEI Nº 9.820, DE 25 DE MARÇO DE 2026.
+
+INSTITUI A POLÍTICA ESTADUAL DE INCENTIVO À PRODUÇÃO DE CACAU DE QUALIDADE NO ESTADO DE ALAGOAS.
+
+O GOVERNADOR DO ESTADO DE ALAGOAS Faço saber que o Poder Legislativo Estadual decreta e eu sanciono a seguinte Lei:
