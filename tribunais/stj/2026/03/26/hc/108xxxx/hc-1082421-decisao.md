@@ -1,0 +1,17 @@
+DECISÃO
+Trata-se de habeas corpus, impetrado em favor de JOSE AVANI BANDEIRA DE SA, denunciado pela suposta prática de homicídio qualificado, em que se aponta como ato coator o acórdão proferido pelo Tribunal de Justiça de São Paulo no HC n. 2270563-30.2025.8.26.0000 (fls. 26/38).
+A impetração busca a revogação da prisão preventiva ou sua substituição por medidas cautelares diversas, bem como o reconhecimento da extinção da punibilidade, no âmbito da Ação Penal n. 0004188-75.2003.8.26.0052, em trâmite perante a 1ª Vara Central do Júri da comarca de São Paulo/SP.
+Sustenta:
+a) a ausência dos pressupostos legais da custódia cautelar, tendo em vista o encerramento da instrução processual, a falta de contemporaneidade e a inexistência de fatos novos aptos a justificar a medida, além de afirmar que o paciente é primário, possui residência fixa e ocupação lícita, e que a não localização para citação, por si só, não caracteriza fuga;
+b) a substituição da prisão preventiva por medidas cautelares diversas, ao argumento de que as condições pessoais favoráveis do paciente seriam suficientes para afastar a necessidade da segregação cautelar; e
+c) a prescrição da pretensão punitiva, com a consequente extinção da punibilidade, ao fundamento de que os fatos ocorreram em 9/9/2003, a denúncia foi recebida em 25/4/2005 e a prisão somente foi efetivada muitos anos depois, com invocação, ainda, do art. 115 do Código Penal.
+Sem pedido liminar.
+É o relatório.
+A impetração é inadmissível, uma vez que não se verifica flagrante ilegalidade, pois:
+a) as pretensões de revogação da prisão preventiva e de substituição da custódia por medidas cautelares diversas não podem ser conhecidas, uma vez que, embora o acórdão recorrido tenha assentado que a custódia cautelar se amparou na ausência de vínculo residencial e na evasão do paciente, a exigir o resguardo da instrução criminal e a garantia da aplicação da lei penal (fls. 27 e 35/37), a decisão de pronúncia limitou-se a manter a prisão, sem agregar fundamentação nova, e a impetração não foi instruída com cópia do decreto preventivo originário, peça indispensável para a verificação da verossimilhança da tese defensiva; e
+b) não procede a alegação de prescrição da pretensão punitiva, pois o acórdão recorrido está em consonância com a expressa previsão dos arts. 109, I, 116 e 117, I, do Código Penal, bem como do art. 366 do Código de Processo Penal. Com efeito, tratando-se de imputação por homicídio qualificado, cuja pena máxima em abstrato é de 30 anos, o prazo prescricional é de 20 anos. Além disso, o recebimento da denúncia, em 25/4/2005, interrompeu o curso da prescrição, e a posterior citação por edital ensejou a suspensão do processo e do prazo prescricional em 15/3/2006, o qual voltou a fluir apenas após o encerramento do período máximo de suspensão. Por essa razão, o Tribunal local concluiu, corretamente, que o lapso prescricional somente se encerrará em 21/5/2045 (fls. 31/33), não havendo, por ora, falar em extinção da punibilidade.
+Em razão disso, indefiro liminarmente a inicial (art. 210 do RISTJ).
+Publique-se.
+EMENTA
+PENAL E PROCESSUAL PENAL. HABEAS CORPUS. HOMICÍDIO QUALIFICADO. PRISÃO CAUTELAR. REVOGAÇÃO DA PRISÃO PREVENTIVA. SUBSTITUIÇÃO DA CUSTÓDIA POR MEDIDAS CAUTELARES DIVERSAS. INSTRUÇÃO DEFICIENTE. EXTINÇÃO DA PUNIBILIDADE. PRESCRIÇÃO. NÃO OCORRÊNCIA. CONSTRANGIMENTO ILEGAL MANIFESTO. AUSÊNCIA.
+Inicial indeferida liminarmente.
