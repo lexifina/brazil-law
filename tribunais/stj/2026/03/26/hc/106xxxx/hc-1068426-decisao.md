@@ -1,0 +1,46 @@
+DECISÃO
+Trata-se de habeas corpus com pedido de liminar impetrado em favor de RAPHAEL DA SILVA E SILVA em que se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO DE JANEIRO.
+Consta dos autos que o paciente foi condenado às penas de 4 anos, 5 meses e 10 dias de reclusão no regime fechado e de pagamento de 54 dias-multa, como incurso nas sanções do art. 157, § 2º, VII, c/c o art. 14, II, ambos do Código Penal, tendo sido negado o direito de recorrer em liberdade.
+A impetrante alega que o paciente permanece preso há 1 ano e 4 meses, sem definição do julgamento da apelação, o que configuraria excesso de prazo não atribuível à defesa.
+Aduz que houve atraso injustificado na tramitação do recurso, com despacho inicial tardio, períodos de férias do Desembargador relator e demora para a inclusão em pauta, não obstante a revisão concluída.
+Assevera que há parecer favorável do Ministério Público e elementos que poderiam conduzir à absolvição ou à redução da pena, tornando indevida a manutenção da custódia.
+Afirma que o art. 5º, LXVIII e LXXVIII, da Constituição Federal garante a tutela contra a ilegalidade e a duração razoável do processo e que o art. 648, II, do Código de Processo Penal - CPP, c/c o art. 798 do mesmo diploma, ampara o reconhecimento do excesso de prazo.
+Defende que a prisão cautelar não pode funcionar como antecipação de pena, à luz do art. 313, § 2º, do CPP, e que a jurisprudência deste Tribunal Superior recomenda a análise de razoabilidade quando a morosidade é imputável ao Estado.
+Destaca a ausência de complexidade do feito ou de pluralidade de réus, não havendo justificativa idônea para a mora processual.
+Requer, liminarmente e no mérito, a concessão da liberdade ao paciente, com a expedição de alvará de soltura, ou a aplicação de medidas cautelares alternativas.
+A defesa apresentou complementação à inicial (fls. 31-34).
+Por meio da decisão de fls. 35-36, o pedido liminar foi indeferido. Em seguida, foram juntadas aos autos as informações prestadas pela origem (fls. 42-45).
+A defesa apresentou pedido de reconsideração da decisão que indeferiu a liminar, tendo sido proferido despacho resguardando o exame da matéria para o julgamento do mérito (fl. 75).
+Foi juntada aos autos a manifestação do Ministério Público Federal, opinando pelo não conhecimento do habeas corpus, mas pela concessão parcial da ordem de ofício, a fim de que seja determinada a reavaliação imediata da necessidade da prisão preventiva do paciente, caso ainda não realizada (fls. 80-88).
+É o relatório.
+A prisão cautelar não possui um prazo determinado por lei, devendo sua manutenção obedecer a critérios verificados judicialmente conforme os parâmetros fático-processuais de cada caso, como a quantidade de crimes, a pluralidade de réus, o número de defensores envolvidos e, em alguns casos, a própria conduta adotada pela defesa.
+Por isso, o eventual reconhecimento da ilegalidade da prisão por excesso de prazo não decorre da mera aplicação de critério matemático, exigindo a prevenção de eventual retardamento demasiado e injustificado da prestação jurisdicional.
+Esse é o sentido da pacífica jurisprudência do Superior Tribunal de Justiça. A esse respeito, confiram-se os seguintes julgados: AgRg no RHC n. 187.959/CE, de minha relatoria, Sexta Turma, julgado em 30/9/2024, DJe de 3/10/2024; HC n. 876.102/PR, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 24/9/2024, DJe de 27/9/2024; e HC n. 610.097/SE, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 27/4/2021, DJe de 30/4/2021.
+Ao prestar informações a esta Corte Superior de Justiça, a Desembargadora do Tribunal de origem consignou que (fls. 42-43, grifei):
+O paciente foi preso em flagrante em 13/09/2024 (id. 143582534 e id. 143644879 - PJe) e, em sede de audiência de custódia realizada em 14/09/2024 (id. 143829551 - PJe), a prisão em flagrante foi convertida em prisão preventiva.
+O Ministério Público ofereceu denúncia contra o paciente em 20/09/2024 (id. 145187562 - PJe), pela prática do crime previsto no artigo 157, § 2º, VII, c/c artigo 14, II, ambos do Código Penal.
+Em 24/09/2024 (id. 145752060 - PJe), o MM. Juízo da 3ª Vara Criminal da Comarca de Campos dos Goytacazes proferiu decisão de recebimento da denúncia.
+A defesa apresentou resposta à acusação em 26/09/2024 (id. 146227724 - PJe).
+Em 14/10/2024 (id. 149872599 - PJe), o referido Juízo indeferiu o pleito defensivo e manteve a prisão preventiva do paciente.
+Na r. sentença proferida pelo MM. Juízo da 3ª Vara Criminal da Comarca de Campos dos Goytacazes em 11/08/2025 (id. 216072834 - PJe), a pretensão punitiva estatal foi julgada procedente para condenar o paciente pela prática do crime previsto no artigo 157, § 2º, VII c/c o artigo 14, II, ambos do Código Penal, às penas definitivas de 04 anos, 05 meses e 10 dias de reclusão, além de 54 dias-multa, no valor mínimo legal, determinando o cumprimento da pena no regime fechado, negado o direito de recorrer em liberdade.
+O paciente interpôs Recurso de Apelação em 21/08/2025 (id. 219369830 - PJe), e apresentou as Razões em 02/09/2025 (id. 222553725 - PJe).
+O recurso foi distribuído em 15/09/2025 (id. 04 - eJUD) à Egrégia Quinta Câmara Criminal, sob a relatoria do Exmo. Desembargador Paulo de Oliveira Lanzillotta Baldez.
+Em 03/11/2025 (id. 06 - eJUD), o relator despachou determinando a remessa dos autos à Procuradoria de Justiça.
+Em 10/11/2025 (id. 14 - eJUD), o parecer ministerial foi acostado aos autos.
+Em 10/11/2025 (id. 23 - eJUD), os autos foram à conclusão do relator, que apresentou Relatório em 29/11/2025 (id. 24 - eJUD).
+Em 29/11/2025 (id. 27 - eJUD), foi proferida decisão monocrática indeferindo o pleito defensivo objetivando o restabelecimento da liberdade do paciente.
+Em 10/12/2025 (id. 30 - eJUD), consta despacho do revisor pedindo dia para julgamento, sendo esse o último movimento do processo.
+No caso, o paciente foi condenado a uma pena total de 4 anos, 5 meses e 10 dias de reclusão, com a sentença condenatória proferida em 11/8/2025. Assim, não se configura excesso de prazo para o julgamento da apelação criminal, considerando que o período de aproximadamente 7 meses desde a interposição do recurso, que ocorreu em 21/8/2025, não se mostra irrazoável.
+Vale assinalar que, apesar de a legislação processual não fixar prazo para o julgamento de apelação criminal, a jurisprudência do Superior Tribunal de Justiça estabelece que a análise do excesso de prazo deve considerar a pena aplicada na sentença condenatória. Sobre o tema: AgRg no HC n. 883.271/MG, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 12/8/2024, DJe de 15/8/2024; e AgRg no HC n. 904.049/RJ, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 24/6/2024, DJe de 1º/7/2024.
+Nesse sentido:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. PROCESSUAL PENAL. TRÁFICO DE DROGAS. ALEGAÇÕES DE QUE A PRISÃO PREVENTIVA FOI DECRETADA DE OFÍCIO NA SENTENÇA, FALTA DE REALIZAÇÃO DE AUDIÊNCIA DE CUSTÓDIA E AUSÊNCIA DE CONTEMPORANEIDADE DA DECISÃO QUE DECRETOU A PRISÃO. SUPRESSÃO DE INSTÂNCIA. NEGATIVA DO DIREITO DE APELAR EM LIBERDADE. FUNDADO RECEIO DE REITERAÇÃO DELITIVA. GARANTIA DA ORDEM PÚBLICA. FUNDAMENTAÇÃO IDÔNEA. EXCESSO DE PRAZO PARA REMESSA DOS AUTOS AO TRIBUNAL DE ORIGEM. CONSTRANGIMENTO ILEGAL NÃO CONFIGURADO. AGRAVO REGIMENTAL DESPROVIDO.
+1. As teses de decretação da prisão de ofício na sentença, da falta de realização da audiência de custódia e de ausência de contemporaneidade do decreto prisional não foram apreciadas pelo Tribunal a quo, de modo que não podem ser conhecidas originariamente por este Superior Tribunal de Justiça, sob pena de supressão de instância.
+2. A prisão preventiva do Agravante encontra-se suficientemente fundamentada, tendo sido amparada no risco concreto de reiteração delitiva, pois ele é reincidente, o que justifica a segregação cautelar para garantia da ordem pública.
+3. Destaco que " a  lei processual não estabelece um prazo para o julgamento do recurso de apelação criminal, que deve ser analisado à luz do princípio da razoabilidade, a fim de se verificar a ocorrência ou não de constrangimento ilegal" (HC 498.022/RJ, Rel. Ministro RIBEIRO DANTAS, QUINTA TURMA, julgado em 05/09/2019, DJe 12/09/2019). Na hipótese vertente, verifico que os autos foram recebidos pelo Tribunal de origem, em 28/04/2023, sendo que estão conclusos ao Relator desde 02/05/2023.
+4. É entendimento pacificado desta Corte Superior de Justiça que, para a análise do excesso de prazo para o julgamento da apelação, também deve-se levar em consideração o montante de pena aplicada, que, no caso em tela, totaliza 5 (cinco) anos e 6 (seis) meses de reclusão. Diante da reprimenda fixada, a prisão preventiva não se revela, no momento, desproporcional.
+5. Agravo regimental desprovido.
+(AgRg no HC n. 787.527/MG, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 11/9/2023, DJe de 14/9/2023, grifo próprio.)
+Ante o exposto, nos termos do art. 34, XX, do Regimento Interno do Superior Tribunal de Justiça, denego a ordem de habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
+HABEAS CORPUS. PRISÃO CAUTELAR. EXCESSO DE PRAZO NO JULGAMENTO DA APELAÇÃO. NÃO OCORRÊNCIA. DECURSO DE TEMPO COMPATÍVEL COM OS PARÂMETROS FÁTICO-PROCESSUAIS. ORDEM DENEGADA.
