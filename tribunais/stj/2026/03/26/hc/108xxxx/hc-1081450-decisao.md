@@ -1,0 +1,24 @@
+DECISÃO
+Trata-se de habeas corpus com pedido liminar impetrado em favor de ROSANGELA FERNANDES BRUNA CACERES apontando como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO (Apelação Criminal n. 1500128- 97.2024.8.26.0585).
+Depreende-se dos autos que a paciente foi condenada, como incursa nas sanções do art. 33, caput, c/c o art. 40, III, ambos da Lei n. 11.343/2006, à pena de 7 anos de reclusão, a ser cumprida no regime inicial fechado, em decorrência da apreensão de aproximadamente 112g (cento e doze gramas) de maconha.
+A apelação defensiva foi desprovida pelo Tribunal de origem.
+Daí o presente writ, no qual alega a defesa que o paciente sofre constrangimento ilegal decorrente da equivocada dosimetria da reprimenda que lhe foi aplicada.
+Requer, desse modo, inclusive liminarmente, a aplicação da minorante prevista no art. 33, § 4º, da Lei n. 11.343/2006.
+É o relatório.
+Decido.
+Acerca da dosimetria da pena, o Tribunal de origem decidiu nos seguintes termos (e-STJ fls. 28/29):
+No caso em questão, embora a Apelante seja primária, esta não demonstrou possuir ocupação lícita à época dos fatos, o que sugere a sua vinculação a atividades ilícitas. A inexistência de comprovação de trabalho lícito afasta a presunção de que se trata de agente ocasional, reforçando a incompatibilidade da benesse legal com o caso concreto.
+Além disso, a forma como a droga estava acondicionada - oculta no forro da roupa íntima da Apelante - bem como o local de destino, um estabelecimento prisional, evidenciam um modus operandi que demanda um mínimo de planejamento e organização. Esse contexto afasta a hipótese de tráfico eventual ou amador.
+Ademais, o transporte de drogas para dentro de unidades prisionais não é delegado a qualquer pessoa, mas sim a indivíduos que possuam algum vínculo de confiança com aqueles que gerenciam a distribuição da droga. Assim, a circunstância da Apelante ter sido incumbida dessa tarefa reforça sua conexão com o grupo criminoso, afastando, portanto, o reconhecimento do tráfico privilegiado.
+Da leitura dos trechos precedentes, constata-se que a exasperação da pena-base foi assentada na quantidade de droga apreendida.
+No entanto, tenho que o total de entorpecente apreendido não se revela expressivo o suficiente para justificar o agravamento da reprimenda na primeira fase da dosimetria da pena.
+Ademais, de acordo com o art. 33, § 4º, da Lei n. 11.343/2006, o agente poderá ser beneficiado com a redução de 1/6 (um sexto) a 2/3 (dois terços) da pena, desde que seja primário, portador de bons antecedentes, não se dedique a atividades criminosas nem integre organização criminosa.
+Na espécie, verifica-se que a conclusão pela dedicação à atividade criminosa foi baseada em fundamentação genérica, que diz respeito aos próprios elementos do tipo penal do tráfico de drogas, incapaz de justificar o afastamento do suscitado redutor.
+No ponto, cabe a ponderação do Ministro Sebastião Reis Júnior, relator nos autos do HC n. 593.560/SP, que, em decisão monocrática em caso análogo, observou que "o paciente é primário, sem antecedentes e não houve nenhuma vetorial negativa. Além disso, a quantidade de drogas não se mostra excessiva para afastar o privilégio, além de que não poderem ser consideradas questões relativas a denúncias anônimas, ações penais em andamento, e a motivação do Magistrado sobre o armazenamento de entorpecentes ou local em que era guardado ou o fato de o paciente estar desempregado não são suficientes para afirmar que exista, de fato, dedicação ao tráfico ou que o paciente faça parte de alguma organização" (julgado em 24/3/2021, DJe 26/3/2021).
+Evidente, portanto, o constrangimento ilegal, mostrando-se imperioso o recálculo da pena.
+Dessa forma, reduzindo a pena-base ao mínimo legal e reconhecendo-se a incidência da minorante do § 4º da Lei n. 11.343/2006, na fração de 2/3, a pena da paciente deve ser reduzida para 1 ano, 11 meses e 10 dias de reclusão.
+Assim, diante do novo quantum da reprimenda, a paciente faz jus ao regime inicial aberto, o qual se revela como o mais adequado à prevenção e à repressão do delito em tela, conforme o art. 33, § 3º, do Código Penal.
+Por fim, afastada a hediondez ou a gravidade abstrata do crime como critério para obstar a substituição das penas, e preenchidos os pressupostos previstos no art. 44 do Código Penal, é cabível a conversão da pena privativa de liberdade por medidas restritivas de direitos, a serem definidas pelo Juízo das execuções criminais.
+Ante o exposto, concedo a ordem para, nos termos acima deduzidos, reduzir a reprimenda da paciente para 1 ano, 11 meses e 10 dias de reclusão, fixar o regime aberto de cumprimento de pena, bem como substituir a pena privativa de liberdade por medidas restritivas de direitos, a serem definidas pelo Juízo das execuções criminais.
+Publique-se. Intimem-se.
+EMENTA
