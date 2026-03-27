@@ -1,0 +1,19 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em nome de VINICIUS APARECIDO CODIGNOLI, condenado pelo crime de tráfico de drogas à pena de 9 anos e 4 meses de reclusão, em regime inicial fechado, em que se aponta como como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAIS na Apelação Criminal n. 1.0518.19.004056-9/001.
+Alega nulidade da prova por ingresso domiciliar sem mandado e sem fundadas razões. Sustenta que a entrada ocorreu para localizar suspeito de homicídio, sem indício prévio de tráfico perceptível do exterior, e que o consentimento foi dado por terceira pessoa não titular do quarto vasculhado (fls. 4/5).
+Aponta insuficiência probatória, afirmando que a condenação se baseou em declaração extrajudicial retratada do corréu e em testemunhos indiretos, sem corroboração independente, em afronta ao art. 155 do CPP e ao princípio do in dubio pro reo (fls. 5/6).
+Defende bis in idem na dosimetria pela valoração autônoma e cumulativa da natureza e da quantidade de drogas na primeira fase, contrariando o art. 42 da Lei n. 11.343/2006, requerendo o redimensionamento da pena-base, com redução proporcional do quantum e ajuste da pena definitiva (fls. 6/10). Subsidiariamente, aponta a impossibilidade de utilização concomitante das mesmas condenações como maus antecedentes e reincidência sem discriminação, em respeito à vedação ao bis in idem (fls. 9/10).
+Requer, inclusive liminarmente e sucessivamente, a absolvição por nulidade da prova; por insuficiência probatória; ou o redimensionamento da pena-base e da pena definitiva (fl. 13).
+É o relatório.
+O writ é inadmissível.
+Nos termos do art. 105, I, e, da Constituição Federal, a competência do Superior Tribunal de Justiça para processar e julgar revisão criminal restringe-se aos seus próprios julgados. Não lhe compete apreciar pedido que, em essência, visa à revisão de acórdão estadual já transitado em julgado.
+Ademais, é firme o entendimento desta Corte Superior de que, após longo decurso temporal desde o trânsito em julgado da condenação, configura-se a preclusão da pretensão veiculada, notadamente quando o writ possui nítido caráter revisional. A propósito: AgRg no HC n. 1.002.072/SP, Ministro Og Fernandes, Sexta Turma, DJEN 7/7/2025.
+Além disso, consoante jurisprudência desta Corte Superior, o não cabimento do writ substitutivo de revisão criminal é corroborado quando o impetrante não indica que as razões de pedir estão previstas em alguma das hipóteses do art. 621 do CPP, como no presente caso (HC n. 829.748/GO, Ministro Rogerio Schietti Cruz, Sexta Turma, DJe 11/12/2023).
+É cediço que, em habeas corpus, não cabe ampla análise de fatos e provas, o que torna inadmissível o exame do pedido de absolvição.
+A ilegalidade passível de justificar a impetração do habeas corpus deve ser manifesta e evidente, o que, na espécie, não ocorre. O Tribunal local não foi instado a se manifestar sobre a alegada nulidade por ingresso domiciliar sem mandado sob a ótica do Tema 280/STF, nem sobre a afronta ao art. 155 do CPP ou a vedação ao bis in idem entre maus antecedentes e reincidência com individualização das condenações, fato que impede o enfrentamento dos temas, originariamente, por esta Corte, sob pena de indevida supressão de instância.
+Com efeito, segundo o entendimento desta Corte, o prévio exame das alegações pelas instâncias ordinárias constitui requisito indispensável para sua apreciação nesta instância, ainda que se cuide de questão de ordem pública (AgRg no HC n. 744.653/SP, rel. Min. Ribeiro Dantas, Quinta Turma, julgado em 21/6/2022, DJe 29/6/2022) - AgRg no RHC n. 189.567/RJ, Ministro Jesuíno Rissato (Desembargador convocado do TJDFT), Sexta Turma, DJe 11/4/2024.
+Ante o exposto, indefiro liminarmente a petição inicial.
+Publique-se.
+EMENTA
+HABEAS CORPUS. PROCESSUAL PENAL. TRÁFICO DE DROGAS. WRIT SUBSTITUTIVO DE REVISÃO CRIMINAL. INEXISTÊNCIA DE ILEGALIDADE FLAGRANTE.
+Petição inicial liminarmente indeferida.
