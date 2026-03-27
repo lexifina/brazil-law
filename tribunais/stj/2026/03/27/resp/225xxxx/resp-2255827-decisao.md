@@ -1,0 +1,26 @@
+DECISÃO
+Trata-se de recurso especial interposto pelo ESTADO DO RIO GRANDE DO SUL, com fundamento no art. 105, III, alíneas "a" e "c", da Constituição Federal, contra acórdão proferido pelo Tribunal de Justiça do Estado do Rio Grande do Sul, assim ementado (fl. 1402):
+"APELAÇÃO CÍVEL. DIREITO TRIBUTÁRIO. IMPOSTOS. ICMS. MANDADO DE SEGURANÇA. COMPENSAÇÃO DE DÉBITO DE ICMS VENCIDO COM CRÉDITO DE PRECATÓRIO DO ERGS CEDIDO P OR TERCEIRO. POSSIBILIDADE. AUSÊNCIA DE LEI INFRACONSTITUCIONAL. IRRELEVÂNCIA. Extinção das obrigações até onde se compensarem. Prescindível a existência de lei infraconstitucional a regulamentar a matéria. Inteligência do art. 170, do CTN. Regularidade da cessão. Possibilidade de compensação admitida. Interpretação do art. 78, § 2.º, do ADCT, da CF/88. Princípios da razoabilidade, da proporcionalidade e da isonomia. APELAÇÃO PROVIDA."
+Nas razões do recurso especial (fls. 1438-1457), o recorrente aponta violação ao art. 170 do Código Tributário Nacional (CTN). Sustenta, em síntese, que a compensação tributária depende de lei específica do ente tributante que estabeleça as condições e garantias, o que não ocorre no âmbito do Estado do Rio Grande do Sul para a hipótese de créditos de precatórios cedidos por terceiros. Aduz que o acórdão recorrido diverge da jurisprudência consolidada do Superior Tribunal de Justiça.
+O recurso foi admitido na origem (fls. 1613-1614).
+É o relatório.
+Consigne-se inicialmente que o recurso foi interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015, devendo ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+A questão controvertida consiste em saber se é possível a compensação de débitos de ICMS com créditos de precatórios de terceiros, independentemente de lei estadual autorizadora, com base direta no art. 170 do CTN e no art. 78 do ADCT.
+O Tribunal de origem, ao julgar a apelação, entendeu pela possibilidade da compensação sob o argumento de que a ausência de lei infraconstitucional regulamentadora seria irrelevante, bastando a aplicação direta dos princípios constitucionais e do CTN.
+Contudo, tal entendimento diverge frontalmente da orientação consolidada nesta Corte Superior.
+O art. 170 do Código Tributário Nacional é claro ao dispor que a lei pode, nas condições e sob as garantias que estipular, ou que autorizar a estipular em cada caso, permitir a compensação de créditos tributários com créditos líquidos e certos, vencidos ou vincendos, do sujeito passivo contra a Fazenda Pública.
+Esta Egrégia Corte assim também entende:
+PROCESSUAL CIVIL. TRIBUTÁRIO. AGRAVO INTERNO NO RECURSO ESPECIAL. OFENSA AOS ARTS. 489 E 1.022 DO CPC/2015. INOCORRÊNCIA. MANDADO DE SEGURANÇA. REPETIÇÃO DE INDÉBITO POR MEIO DE PRECATÓRIO, REQUISIÇÃO DE PEQUENO VALOR OU RESTITUIÇÃO ADMINISTRATIVA. IMPOSSIBILIDADE. ICMS-DIFAL. COMPENSAÇÃO. INVIABILIDADE. INEXISTÊNCIA DE LEI LOCAL AUTORIZATIVA. ART. 170 DO CTN.
+I - A Corte de origem apreciou todas as questões relevantes apresentadas com fundamentos suficientes, mediante apreciação da disciplina normativa e cotejo ao posicionamento jurisprudencial aplicável à hipótese. Inexistência de omissão, contradição ou obscuridade.
+II - O mandado de segurança não é a via adequada para se postular a repetição do indébito por meio de precatório, requisição de pequeno valor ou por restituição administrativa em espécie, servindo, contudo, para se pleitear a restituição ou o ressarcimento do indébito tributário, referente aos últimos cinco anos anteriores à impetração, pela compensação, a ser aferida pela Administração, não se configurando, nessa última hipótese, a utilização do mandado de segurança como ação de cobrança.
+III - É pacífica a orientação neste Superior Tribunal de Justiça de que a inexistência de lei local autorizativa inviabiliza a compensação tributária, nos termos do art. 170 do CTN.
+IV - Agravo Interno improvido.
+(AgInt no REsp n. 2.168.122/RJ, relatora Ministra Regina Helena Costa, Primeira Turma, DJEN de 20/12/2024; grifos nossos.)
+No caso específico do Estado do Rio Grande do Sul, a legislação que outrora permitia a compensação (Lei Estadual n. 11.475/2000) foi revogada pela Lei Estadual n. 12.209/2004, de modo que não há mais amparo legal para a pretensão da ora recorrida, conforme asseverado na sentença (fl. 1347).
+Portanto, o acórdão recorrido, ao admitir a compensação independentemente de lei local, violou o art. 170 do CTN e divergiu da jurisprudência do STJ, devendo ser reformado.
+Diante do exposto, dou provimento ao recurso especial, para, reformando o acórdão recorrido, denegar a segurança pleiteada, diante da impossibilidade de compensação de débitos de ICMS com créditos de precatórios de terceiros sem a devida previsão em lei estadual autorizadora.
+Custas pela recorrida.
+Sem condenação em honorários advocatícios, nos termos do art. 25 da Lei n. 12.016/2009 e das Súmulas 105/STJ e 512/STF.
+Publique-se. Intime-se.
+EMENTA
+PROCESSUAL CIVIL E TRIBUTÁRIO. RECURSO ESPECIAL. ICMS. MANDADO DE SEGURANÇA. COMPENSAÇÃO DE DÉBITO FISCAL COM CRÉDITO DE PRECATÓRIO DE TERCEIROS. ART. 170 DO CTN. EXIGÊNCIA DE LEI LOCAL AUTORIZADORA. AUSÊNCIA. RECURSO ESPECIAL PROVIDO.
