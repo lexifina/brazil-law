@@ -1,0 +1,59 @@
+DECISÃO
+Em análise, agravo em recurso especial contra decisão que inadmitiu o recurso especial interposto pelo MUNICÍPIO DE GOIÂNIA, no qual se insurge contra acórdão do Tribunal de Justiça do Estado de Goiás, assim ementado:
+DIREITO PROCESSUAL CIVIL E TRIBUTÁRIO. AGRAVO DE INSTRUMENTO. EXECUÇÃO FISCAL. EXCEÇÃO DE PRÉ-EXECUTIVIDADE. REDIRECIONAMENTO DA EXECUÇÃO AOS SÓCIOS. PRESCRIÇÃO INTERCORRENTE. DISSOLUÇÃO IRREGULAR DA EMPRESA.
+I. CASO EM EXAME:
+Trata-se de agravo de instrumento interposto contra decisão que rejeitou exceção de pré-executividade oposta em execução fiscal. A exceção alegava ilegitimidade passiva da ex-sócia e prescrição intercorrente em relação ao redirecionamento da execução para os sócios.
+II. QUESTÃO EM DISCUSSÃO:
+As questões em discussão são:
+(i) a valoração da impugnação intempestiva à exceção de pré-executividade;
+(ii) a ilegitimidade passiva da ex-sócia para o redirecionamento da execução fiscal, em razão da dissolução da empresa; e
+(iii) a ocorrência de prescrição intercorrente para o redirecionamento da execução aos sócios.
+III. RAZÕES DE DECIDIR:
+1. Afasta-se a impugnação de intempestividade da Fazenda Pública, quando esta em nada influenciou na formação da convicção do magistrado singular para prolação da decisão recorrida, a considerar que as premissas enfrentadas se basearam, exclusivamente, em questões de ordem pública (ilegitimidade e prescrição) que poderiam ser reconhecidas, inclusive, de ofício.
+2. O distrato social, ainda que averbado na junta comercial, não garante, por si só, o afastamento da dissolução irregular da sociedade empresarial, tampouco obsta a viabilidade do redirecionamento da execução fiscal aos sócios gerentes, diante da necessidade de verificação da realização do ativo e pagamento do passivo, incluindo os tributos.
+3. Tendo o distrato social ocorrido, em 26/05/2015, com a respectiva averbação na JUCEG em 16/06/2025 (mov. 40 - fl. 95 - PDF - autos originários), sem a devida apuração e adimplemento do passivo existente, em especial dos débitos tributários de ISSQN questionados na execução fiscal na origem, conclui-se que ocorreu a dissolução irregular da empresa, o que, por sua vez, autoriza o redirecionamento do processo executivo aos seus sócios.
+4. O prazo prescricional para redirecionamento da execução aos sócios, quando a citação ocorre após a dissolução irregular, inicia-se com o despacho que determinou o referido ato (Precedentes STJ). Transcorridos 05 anos e 09 meses entre a data que ordenou o referido ato processual e o pedido de redirecionamento da execução aos sócios, impõe-se o reconhecimento da prescrição intercorrente em benefício da sócia atingida.
+IV. DISPOSITIVO E TESE
+: Agravo de instrumento conhecido e provido.
+Teses: "1. A impugnação intempestiva ao pedido de exceção de pré-executividade é irrelevante quando a decisão se baseia em matéria de ordem pública. 2. A dissolução irregular da empresa, mesmo com averbação do distrato, mantém a responsabilidade dos sócios pelos débitos tributários. 3. O prazo prescricional para redirecionamento da execução aos sócios inicia-se, quando a citação ocorre após a irregular dissolução, a partir da data do despacho que determina a citação."
+Dispositivos relevantes citados: Art. 135, III, do CTN; arts. 1.102 e seguintes do CC; art. 1.026, § 2º, do CPC.
+Jurisprudências relevantes citadas: Súmula 430, STJ; AgInt no REsp n. 1.842.398/SP; AgInt no AREsp n. 1.727.337/RJ; Tema 444, STJ; REsp 1.101.728/SP; REsp 1.222.444/RS (fls. 236-237)
+Os embargos de declaração foram rejeitados (fls. 274-279).
+Em suas razões recursais, a parte recorrente alega violação dos arts. 11, 97, III e IV, 489, § 1º, IV, 927, III e IV, 1.022, II, e parágrafo único, II, do CPC, alegando, além de omissão e deficiência de fundamentação do acórdão recorrido, que houve aplicação equivocada do Tema 444/STJ e desrespeito à Súmula 106/STJ, diante da paralisação do processo por motivos inerentes ao Judiciário.
+Contraminuta apresentada.
+É o relatório.
+Passo a decidir.
+Quanto à apontada violação aos arts. 11, 489, § 1º, IV, e 1.022, II, parágrafo único, II, do CPC, não há nulidade por omissão, tampouco negativa de prestação jurisdicional, no acórdão que decide de modo integral e com fundamentação suficiente a controvérsia posta.
+No caso, o Tribunal de origem dirimiu as questões pertinentes ao litígio de forma suficientemente ampla e fundamentada, consignando que (fls. 244-245):
+Assim, com relação ao prazo prescricional para a pretensão fazendária de redirecionamento do processo executivo fiscal contra os sócios, conforme tese firmada, deve-se investigar se o pedido de redirecionamento é realizado antes ou depois da citação da pessoa jurídica considerada irregularmente extinta.
+Com efeito, na hipótese em que a dissolução irregular ocorre antes da citação da pessoa jurídica, o termo inicial da pretensão de redirecionamento do processo executivo " corresponderá: a) à data da diligência que resultou negativa, nas situações regidas pela redação original do art. 174, parágrafo único, I, do CTN; ou b) à data do despacho do juiz que ordenar a citação, para os casos regidos pela redação do art. 174, parágrafo único, I, do CTN1.
+Mas, na hipótese em que ocorre depois da citação, o termo inicial será a data na for praticado algum ato revelador da intenção burlar o cumprimento da obrigação tributária pela sociedade empresária.
+No caso dos autos, verifica-se que a presente ação de execução fiscal foi ajuizada em 20/07/2017.
+O despacho de citação ocorreu em 21/07/2017 (mov. 04). A citação, via A. R, da pessoa jurídica foi efetivada em 24/11/2017 (mov. 12 - fl. 18 - PDF - autos originários).
+O Município de Goiânia, a seu turno, formulou pedido de penhora em 11/08/2020 (mov. 17 - fls. 23/25 - PDF - autos originários), o que foi deferido em 04/10/2020 (mov. 21 - fl. 37/38 - autos originários).
+Implementada a tentativa de penhora online, em 24/10/2020, esta foi infrutífera (mov. 22 - fl. 39/41 - PDF).
+Assim, em 15/05/2023, o município agravado pleiteou o redirecionamento da execução fiscal (mov. 32 - fls. 52/57 - autos originários), uma vez que, naquela data, verificou que a inscrição cadastral da executada se encontrava com o status "baixada".
+Nesse cenário, considerando que entre o despacho de citação (21/07/2017) e o pedido de redirecionamento (25/05/2023) transcorreram, aproximadamente, 05 (cinco) anos e 09 (nove) meses, é certo que caracterizada está a prescrição intercorrente quanto ao pedido de redirecionamento dos sócios.
+E ainda, em sede de julgamento de embargos de declaração, a Corte de origem assim se manifestou sobre a matéria dos autos (fls. 277-278):
+Revisitando o julgado, verifica-se que esta Relatoria tomou o cuidado em fazer constar, no julgamento embargado, a análise pormenorizada da tese de suposta prescrição intercorrente do redirecionamento do processo executivo aos sócios, bem assim que o caso deveria submeter a aferição daquilo que dispõe o Tema 444 do STJ.
+ ..
+No caso dos autos, é certo que a despeito da formalização do distrato social pela agravante e sua ex-sócia (Luana de Almeida Mendonça), em 26/05/2015, com a respectiva averbação na JUCEG em 16/06/2015 (mov. 40 - fl. 95 - PDF - autos originários), mas sem a devida comunicação aos órgãos de fiscalização responsável, inclusive, os fiscais.
+Dito isso, ao que tudo leva a crer, ocorreu a dissolução irregular da empresa, como minuciosamente analisado no julgamento do agravo de instrumento (Da alegada ilegitimidade passiva da agravante para o redirecionamento da execução fiscal), mas em data anterior a citação.
+ ..
+Nesse cenário, considerando que entre o despacho de citação (21/07/2017) e o pedido de redirecionamento (25/05/2023) transcorreram, aproximadamente, 05 (cinco) anos e 09 (nove) meses, é certo que caracterizada está a prescrição intercorrente quanto ao pedido de redirecionamento dos sócios.
+À vista disso tudo, percebe-se que os embargos de declaração, em verdade, foram manejados com intuito unicamente de rediscutir o mérito e o teor do que já restou decidido, uma vez que decidido contrário aos interesses do Município de Goiânia.
+Como se vê, a negativa de prestação jurisdicional não restou configurada.
+Por outro lado, a fundamentação adotada no acórdão é suficiente para respaldar a conclusão alcançada.
+Vale lembrar que, mesmo à luz do art. 489 do CPC, o órgão julgador não está obrigado a se pronunciar acerca de todo e qualquer ponto suscitado pela parte, mas apenas sobre aqueles capazes de, em tese, infirmar a conclusão adotada.
+Assim, inexiste violação aos arts.11, 489, § 1º, IV, e 1.022, II, parágrafo único, II, do CPC.
+No mérito, esta Corte Superior, sob a sistemática dos recursos repetitivos, afetou o julgamento dos Recursos Especiais 1.201.993/SP e 1.145.563/PR, nos quais foram firmadas as teses abarcadas no Tema 444/STJ:
+(i) o prazo de redirecionamento da Execução Fiscal, fixado em cinco anos, contado da diligência de citação da pessoa jurídica, é aplicável quando o referido ato ilícito, previsto no art. 135, III, do CTN, for precedente a esse ato processual;
+(ii) a citação positiva do sujeito passivo devedor original da obrigação tributária, por si só, não provoca o início do prazo prescricional quando o ato de dissolução irregular for a ela subsequente, uma vez que, em tal circunstância, inexistirá, na aludida data (da citação), pretensão contra os sócios-gerentes (conforme decidido no REsp 1.101.728/SP, no rito do art. 543-C do CPC/1973, o mero inadimplemento da exação não configura ilícito atribuível aos sujeitos de direito descritos no art. 135 do CTN). O termo inicial do prazo prescricional para a cobrança do crédito dos sócios-gerentes infratores, nesse contexto, é a data da prática de ato inequívoco indicador do intuito de inviabilizar a satisfação do crédito tributário já em curso de cobra nça executiva promovida contra a empresa contribuinte, a ser demonstrado pelo Fisco, nos termos do art. 593 do CPC/1973 (art. 792 do novo CPC - fraude à execução), combinado com o art. 185 do CTN (presunção de fraude contra a Fazenda Pública); e,
+(iii) em qualquer hipótese, a decretação da prescrição para o redirecionamento impõe seja demonstrada a inércia da Fazenda Pública, no lustro que se seguiu à citação da empresa originalmente devedora (REsp 1.222.444/RS) ou ao ato inequívoco mencionado no item anterior (respectivamente, nos casos de dissolução irregular precedente ou superveniente à citação da empresa), cabendo às instâncias ordinárias o exame dos fatos e provas atinentes à demonstração da prática de atos concretos na direção da cobrança do crédito tributário no decurso do prazo prescricional. (Grifo nosso)
+No caso dos autos, o Tribunal de origem aplicou o Tema 444/STJ e está em conformidade, especialmente com o item (i), por reconhecer dissolução irregular anterior à citação e fixar o termo inicial no despacho citatório.
+Além disso, a alteração da conclusão do Tribunal a quo, acerca da cronologia dos atos, concluindo pela prescrição, ensejaria o necessário reexame da matéria fático-probatória dos autos, atraindo, por conseguinte, a incidência da Súmula 7 do STJ.
+Nesse sentido: "É inviável, em sede de recurso especial, o reexame de matéria fático-probatória, nos termos da Súmula 7 do STJ: "A pretensão de simples reexame de prova não enseja recurso especial"" (AgInt no AREsp n. 1.964.284/SP, relator Ministro Gurgel de Faria, Primeira Turma, julgado em 27/11/2023, DJe de 5/12/2023).
+Isso posto, com fundamento no art. 253, parágrafo único, II, b, do RISTJ, conheço do agravo, para negar provimento ao recurso especial.
+Majoro os honorários advocatícios em R$ 1.000,00 (mil reais), com fundamento no art. 85, § 11, do CPC, observados os limites percentuais previstos no § 3º do referido dispositivo legal, bem como eventual concessão da gratuidade da justiça.
+Intimem-se.
+ EMENTA
