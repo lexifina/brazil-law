@@ -1,0 +1,5 @@
+Instrução Normativa RFB nº 2318, de 26 de março de 2026
+Dispõe sobre o Programa Brasileiro de Operador Econômico Autorizado.
+O SECRETÁRIO ESPECIAL DA RECEITA FEDERAL DO BRASIL, no uso da atribuição que lhe confere o art. 350, caput, inciso III, do Regimento Interno da Secretaria Especial da Receita Federal do Brasil, aprovado pela Portaria ME nº 284, de 27 de julho de 2020, e tendo em vista o disposto no art. 16 da Lei Complementar nº 95, de 26 de fevereiro de 1998, no Artigo 7.7 do Acordo sobre a Facilitação do Comércio constante do Protocolo de Emenda ao Acordo Constitutivo da Organização Mundial do Comércio, promulgado pelo Decreto nº 9.326, de 3 de abril de 2018, na Lei Complementar nº 225, de 8 de janeiro de 2026, no art. 814-A do Decreto nº 6.759, de 5 de fevereiro de 2009, e no art. 22 do Anexo da Diretriz da Comissão de Comércio do Mercosul - MERCOSUL/CCM/DIR nº 32, de 15 de dezembro de 2008, internalizada pelo Decreto nº 6.870, de 4 de junho de 2009, resolve:
+CAPÍTULO I
+DISPOSIÇÕES PRELIMINARES
