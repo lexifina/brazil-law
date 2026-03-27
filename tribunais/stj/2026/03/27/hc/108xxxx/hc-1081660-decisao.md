@@ -1,0 +1,42 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de PAULO HENRIQUE RODRIGUES ELIAS, contra acórdão prolatado pela Segunda Câmara Criminal do TRIBUNAL DE JUSTIÇA DO ESTADO DE MATO GROSSO.
+Consta dos autos que o paciente foi preso preventivamente em 22/10/2025, no curso de investigação por tráfico de drogas e associação para o tráfico (arts. 33 e 35 da Lei 11.343/2006).
+No presente writ, o impetrante sustenta falta de fundamentação própria do decreto preventivo, por inexistirem prova da materialidade, indícios suficientes de autoria e periculum libertatis concreto. Alega que interceptações telefônicas, isoladamente, não autorizam a prisão cautelar, por ausência de elementos de corroboração e concreta contemporaneidade do risco, tornando a medida desproporcional. Aponta excesso de prazo na formação da culpa.
+Requer liminarmente a expedição de alvará de soltura, com ou sem medidas cautelares diversas da prisão. No mérito, requer a concessão da ordem para revogar a prisão preventiva ou, subsidiariamente, substituí-la por medidas cautelares do art. 319 do CPP.
+Foi juntada aos autos petição (fls. 186-187).
+É o relatório.
+A Quinta Turma do Superior Tribunal de Justiça firmou entendimento no sentido de ser inadequada a impetração de habeas corpus quando utilizado em substituição a recurso próprio.
+A teor do disposto no art. 105, II, a, da CF/88, o recurso cabível contra acórdão que denega a ordem na origem é o recurso ordinário, enquanto, consoante previsto no art. 105, III, da CF, o recurso cabível contra acórdão que julga apelação, recurso em sentido estrito e agravo em execução é o recurso especial.
+Nada impede, contudo, a concessão de habeas corpus de ofício quando constatada a existência de ilegalidade flagrante, abuso de poder ou teratologia, nos termos do art. 654, §2º, do CPP, o que ora se passa a examinar.
+A prisão preventiva justifica-se apenas quando devidamente demonstrada sua imprescindibilidade para a preservação da ordem pública, a garantia da regularidade da instrução criminal ou a asseguração da eficácia da aplicação da lei penal, nos termos do art. 312 do Código de Processo Penal.
+O decreto prisional foi assim fundamentado (fl. 92-134):
+" ..
+Preliminarmente, tendo em vista que se trataria de investigação complexa que envolve crimes permanentes, insta ressaltar que " ..  a regra da contemporaneidade comporta mitigação quando, ainda que mantido período de aparente conformidade com o Direito, a natureza do delito indicar a alta possibilidade de recidiva ou "ante indícios de que ainda persistem atos de desdobramento da cadeia delitiva inicial (ou repetição de atos habituais)", como no caso de pertencimento a organização criminosa  .. " (HC n. 496.533/DF apud (STJ - HC: 920842 CE 2024/0209990-0, Relator: Ministro ANTONIO SALDANHA PALHEIRO, Data de Julgamento: 20/08/2024, T6 - SEXTA TURMA, Data de Publicação: DJe 26/09/2024).
+Logo, AFASTO desde já eventual tese de ofensa ao princípio da contemporaneidade.
+ ..
+Na hipótese, a prova da materialidade e indícios suficientes da autoria podem ser auferidos por meio dos Autos de Inquérito Policial nº 115.4.2024.29574 (Id. 196462775), do Relatório de Investigação nº 2025.13.21289 (Id. 196462774) e Relatório de Investigação nº 2025.13.54359 (Id. 196462773).
+ ..
+Paulo Henrique Rodrigues Elias (9), apontado de igual modo como lojista ligado ao Comando Vermelho e " ..  proprietário de uma boate localizada na cidade de Comodoro, denominada "Eclipse bar", em conversa travada por WhatsApp com Marcos Vinicius Rosas da Silva (7) negocia a entrega de entorpecentes enfatizando que repassaria a terceiros e encaminha comprovante de pagamento em determinada ocasião ao ser alertado de que " ..  aquele lá é negócio de camisa  .. " (Id. 196462774, fls. 35 a 39).
+ ..
+Há, desse modo, diante da gravidade concreta e indícios adicionais de que se dedicariam a atividades criminosas ou integrariam a organização criminosa denominada Comando Vermelho, elementos que autorizam a decretação das prisões preventivas requeridas pela autoridade policial.
+ ..
+Contra Paulo Henrique Rodrigues Elias (9), o TCO 1003270- 88.2023.8.11.0046 (art. 140, caput, do CP).  .. ."
+Verifica-se que a prisão preventiva foi decretada mediante fundamentação idônea, lastreada na garantia da ordem pública, tendo sido demonstrado no decreto que o paciente supostamente age como "lojista" ligado à facção criminosa Comando Vermelho, tendo sido extraídas conversas, por whatsapp, entre este e o corréu Marcos Vinícius (considerado o líder da célula criminosa em Comodoro/MT), nas quais teria negociado entrega de entorpecentes, ressaltando que repassaria a terceiros, inclusive com envio de comprovante de pagamento.
+Destaque-se, portanto, que o excerto impugnado expressou uma gravidade concreta da ação, demostrando, presumivelmente, integração do paciente em organização criminosa estruturada, pela divisão de tarefas, pelo uso de aplicativos criptografados, troca de chips e eliminação de mensagens, características que demonstram um elevado índice de administração, situação que revela a indispensabilidade da imposição da medida extrema no caso em tela.
+Ademais, por tratar-se de investigação complexa que envolve supostos crimes permanentes, não se vislumbra, neste momento, ofensa ao princípio da contemporaneidade, conforme entendimento já consolidado, "a contemporaneidade do decreto de custódia preventiva se verifica da necessidade no momento de sua decretação, ainda que o fato criminoso tenha ocorrido em um período passado" (AgRg no HC 849.475/MS, relator Ministro Messod Azulay Neto, Quinta Turma, j. em 20/2/2024, DJe 23/2/2024).
+Outrossim, esta Corte Superior possui orientação no sentido de que a gravidade concreta do delito imputado e a periculosidade do agente, evidenciadas no modus operandi empregado, são circunstâncias aptas a justificar a prisão preventiva para a garantia da ordem pública. Nesse entendimento:
+AGRAVO REGIMENTAL EM HABEAS CORPUS. HOMICÍDIO DUPLAMENTE QUALIFICADO. PRISÃO PREVENTIVA. FUNDAMENTAÇÃO. PERICULOSIDADE DO AGENTE. GRAVIDADE CONCRETA. RÉU QUE SE MANTEVE FORAGIDO DURANTE VÁRIOS ANOS. SEGREGAÇÃO DEVIDAMENTE JUSTIFICADA PARA A GARANTIA DA ORDEM PÚBLICA E APLICAÇÃO DA LEI PENAL. CONDIÇÕES PESSOAIS FAVORÁVEIS. IRRELEVÂNCIA. MEDIDAS CAUTELARES ALTERNATIVAS. INSUFICIÊNCIA. AUSÊNCIA DE CONSTRANGIMENTO ILEGAL. RECURSO NÃO PROVIDO.
+ ..
+4. Esta Corte possui jurisprudência consolidada no sentido de que "a gravidade concreta da conduta, reveladora do potencial elevado grau de periculosidade do Agente e consubstanciada na alta reprovabilidade do modus operandi empregado na empreitada delitiva, é fundamento idôneo a lastrear a prisão preventiva, com o intuito de preservar a ordem pública". (AgRg no HC n. 687.840/MS, Rel. Ministra Laurita Vaz, Sexta Turma, julgado em 13/12/2022, DJe 19/12/2022).
+ ..
+9. Agravo regimental a que se nega provimento.
+(AgRg no HC n. 939.735/PE, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 30/10/2024, DJe de 5/11/2024.)
+Além disso, a tese relativa à insuficiência das provas de autoria e materialidade não são examináveis na estreita via do habeas corpus, uma vez que demandam necessário revolvimento do acervo fático-probatório. Nesse sentido: (AgRg no HC n. 1.025.471/SC, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 14/10/2025, DJEN de 21/10/2025).
+Ainda, o item referente ao excesso de prazo na formação da culpa não foi apreciado pelo Tribunal de origem, conforme cópia do acórdão às fls. 14-24, motivo pelo qual a matéria não será examinada por este Tribunal superior, sob pena de se incorrer em indevida supressão de instância.
+Com efeito, " é  imprescindível o prévio enfrentamento da matéria pelas instâncias ordinárias para evitar indevida supressão de instância e violação dos princípios do duplo grau de jurisdição e devido processo legal" (HC n. 1.021.432/MG, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 10/12/2025, DJEN de 16/12/2025.)
+Por fim, "tendo sido exposta de forma fundamentada e concreta a necessidade da prisão, revela-se incabível sua substituição por outras medidas cautelares mais brandas" (AgRg no HC n. 965.960/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 5/3/2025, DJEN de 10/3/2025).
+Não há, portanto, flagrante ilegalidade que justifique a concessão da ordem de ofício.
+Ante o exposto, não conheço do habeas corpus.
+Publique-se.
+Intimem-se.
+EMENTA
