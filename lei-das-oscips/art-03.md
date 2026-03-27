@@ -12,4 +12,5 @@ X - promoção de direitos estabelecidos, construção de novos direitos e asses
 XI - promoção da ética, da paz, da cidadania, dos direitos humanos, da democracia e de outros valores universais;
 XII - estudos e pesquisas, desenvolvimento de tecnologias alternativas, produção e divulgação de informações e conhecimentos técnicos e científicos que digam respeito às atividades mencionadas neste artigo.
 XIII - estudos e pesquisas para o desenvolvimento, a disponibilização e a implementação de tecnologias voltadas à mobilidade de pessoas, por qualquer meio de transporte.
+XIV - disponibilização de produtos ou serviços nas áreas de microcrédito, microcrédito produtivo orientado e microfinanças.
 Parágrafo único. Para os fins deste artigo, a dedicação às atividades nele previstas configura-se mediante a execução direta de projetos, programas, planos de ações correlatas, por meio da doação de recursos físicos, humanos e financeiros, ou ainda pela prestação de serviços intermediários de apoio a outras organizações sem fins lucrativos e a órgãos do setor público que atuem em áreas afins.
