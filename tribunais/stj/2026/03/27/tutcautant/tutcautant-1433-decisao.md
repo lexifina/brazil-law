@@ -1,0 +1,20 @@
+DECISÃO
+Cuida-se de tutela cautelar antecedente requerida por Município de Bento Gonçalves na qual postula a concessão de efeito suspensivo a agravo em recurso especial.
+Relata, em síntese, ter ingressado com ação de desapropriação por interesse público, tendo sido deferida a imissão provisória na posse do imóvel pelo Juízo de primeiro grau, mediante o depósito do valor apurado administrativamente.
+Contra essa decisão liminar foi interposto agravo de instrumento pela expropriada, o qual foi provido pelo TJRS para revogar a tutela provisória, sob o argumento de que o valor depositado não atenderia os requisitos do art. 15, § 1º, do DL n. 3.365/1941 e Tema n. 472/STJ.
+Diante disso, foi interposto recurso especial, o qual foi inadmitido pela Presidência do TJRS ao argumento de que incidiria o óbice da Súmula 735/STF, o que ensejou a interposição de agravo dirigido a esta Corte e ao qual se requer a concessão de efeito suspensivo.
+Sustenta não incidir a Súmula 735/STF, pois "tal entendimento não se sustenta quando a controvérsia envolve violação direta a norma federal que disciplina os pressupostos legais da tutela de urgência, em especial, diante de uma lei específica, que trata das desapropriações por interesse público" (e-STJ, fl. 3).
+Defende, ainda, que o acórdão criou requisito inexistente ao revogar o pedido de tutela provisória, dada a ausência de necessidade de avaliação judicial prévia ou dilação probatória sobre o montante indenizatório.
+Postula, assim, o deferimento do pedido de tutela provisória de urgência para dar efeito suspensivo ao agravo em recurso especial a fim de restabelecer a decisão de primeiro grau que deferiu a imissão provisória na posse.
+Brevemente relatado, decido.
+Não se antevê, no presente juízo de cognição sumária, o preenchimento dos requisitos necessários à concessão da presente medida de urgência.
+Segundo a jurisprudência sedimentada do Superior Tribunal de Justiça, a caracterização da aparência do bom direito, sustentada na tutela de urgência destinada à atribuição de efeito suspensivo ao recurso especial, demanda, a um só tempo, o preenchimento dos pressupostos de admissibilidade recursal, bem como a plausibilidade da tese expendida nas razões recursais, a evidenciar, em juízo perfunctório, a possibilidade de êxito da insurgência.
+Depreende-se que a instância originária entendeu, diante do contexto fático-probatório dos autos, pela inexistência dos pressupostos para deferimento da imissão na posse na ação de desapropriação.
+Desta forma, a pretensão recursal exige a análise dos pressupostos de deferimento da tutela de urgência. Consoante a orientação jurisprudencial desta Corte Superior, é inviável, em regra, a interposição de recurso especial postulando o reexame do deferimento ou indeferimento de medida acautelatória ou antecipatória, pois esta possui natureza precária e provisória do juízo de mérito, cuja reversão é possível a qualquer momento pela instância originária.
+Assim, configura-se a ausência do pressuposto constitucional relativo ao esgotamento das instâncias ordinárias, imprescindível ao trânsito da insurgência especial, o que atrai a aplicação analógica da Súmula 735/STF: "Não cabe recurso extraordinário contra acórdão que defere medida liminar."
+Como se não bastasse, o ente municipal não demonstrou, de forma efetiva, o perigo na demora da prestação jurisdicional, pois eventual avaliação do bem e depósito do valor indicado será suficiente para determinar a sua imissão na posse.
+Desse modo, a parte não se desincumbiu de demonstrar a presença dos pressupostos para concessão do excepcional efeito suspensivo a recurso dirigido a esta Corte Superior, sendo insuficiente a mera postulação para tanto, sem especificar as necessidades e as particularidades do caso concreto.
+Ante o exposto, indefiro o pedido de efeito suspensivo.
+Publique-se.
+EMENTA
+TUTELA CAUTELAR ANTECEDENTE. PEDIDO DE EFEITO SUSPENSIVO A AGRAVO EM RECURSO ESPECIAL. FUMUS BONI IURIS E PERICULUM IN MORA. AUSÊNCIA DE DEMONSTRAÇÃO. PEDIDO INDEFERIDO.
