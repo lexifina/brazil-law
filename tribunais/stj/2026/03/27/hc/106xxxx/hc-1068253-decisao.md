@@ -1,0 +1,27 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em nome de FLAVIANO ESTEVAO SILVA - condenado pelo art. 33, caput, da Lei n. 11.343/2006, à pena de 5 anos de reclusão e 500 dias-multa, em regime inicial fechado -, em que a defesa aponta como autoridade coatora o Tribunal de Justiça do Estado do Espírito Santo, cuja Primeira Câmara Criminal manteve a condenação e desproveu a apelação (Processo n. 0006345-33.2023.8.08.0048, da 1ª Vara Criminal da comarca de Serra/ES).
+Em síntese, o impetrante alega o cabimento do writ mesmo diante da existência de vias recursais ordinárias e após o trânsito em julgado, por se tratar de constrangimento ilegal que atinge a liberdade de locomoção, admitindo inclusive a concessão de ofício em caso de ilegalidade flagrante.
+Sustenta nulidade da abordagem feita pela Guarda Municipal por ausência de competência para patrulhamento ostensivo isolado e por falta de justa causa, com violação aos arts. 240, § 2º, e 244 do Código de Processo Penal, pois a diligência se baseou em impressão subjetiva ("volume no bolso" e "olhar para trás"), sem denúncia específica, sem campana, sem visualização de ato de traficância ou qualquer indício concreto prévio.
+Afirma inexistência de estado flagrancial e atuação investigativa indevida da Guarda Municipal, fora da excepcionalidade admitida, de modo que a busca pessoal foi ilegal e todas as provas são contaminadas pela teoria dos frutos da árvore envenenada (art. 157, § 1º, do Código de Processo Penal), impondo a absolvição por falta de materialidade/autoria válidas.
+Em caráter liminar, pede a concessão de medida urgente para afastar o constrangimento ilegal, diante do fumus boni iuris e do periculum in mora, com a imediata tutela cautelar da liberdade do paciente.
+No mérito, requer a cassação do acórdão da Primeira Câmara Criminal do Tribunal de Justiça do Estado do Espírito Santo e a absolvição de FLAVIANO ESTEVAO SILVA, por ilicitude das provas, nos termos do art. 386, II, do Código de Processo Penal (Processo n. 0006345-33.2023.8.08.0048, da 1ª Vara Criminal da comarca de Serra/ES).
+Liminar indeferida às fls. 526/527.
+Informações prestadas às fls. 530/537 e parecer do Ministério Público Federal pelo não conhecimento do habeas corpus às fls. 567/576.
+É o relatório.
+O writ é inadmissível.
+Das informações prestadas pela autoridade coatora, extrai-se que a condenação transitou em julgado para a defesa.
+Nesse caso, o presente writ é sucedâneo de revisão criminal.
+Ocorre que, como não existe no Superior Tribunal de Justiça julgamento de mérito passível de revisão em relação à condenação sofrida pelo paciente, forçoso reconhecer a incompetência desta Corte Superior para o processamento do presente pedido.
+Nesse sentido, confiram-se: AgRg no HC n. 494.794/MA, da minha relatoria, Sexta Turma, DJe 11/4/2019 e HC n. 288.978/SP, da minha relatoria, Ministro Rogerio Schietti Cruz, Sexta Turma, DJe 21/5/2018.
+No mérito, por sua vez, não se visualiza ilegalidade flagrante suficiente a justificar a concessão da ordem de ofício. Explico.
+Em 20/2/2025, o Supremo Tribunal Federal julgou o Recurso Extraordinário n. 608.588, fixando a seguinte tese de repercussão geral no Tema 656:
+É constitucional, no âmbito dos municípios, o exercício de ações de segurança urbana pelas Guardas Municipais, inclusive policiamento ostensivo e comunitário, respeitadas as atribuições dos demais órgãos de segurança pública previstos no art. 144 da Constituição Federal e excluída qualquer atividade de polícia judiciária, sendo submetidas ao controle externo da atividade policial pelo Ministério Público, nos termos do artigo 129, inciso VII, da CF. Conforme o art. 144, § 8º, da Constituição Federal, as leis municipais devem observar as normas gerais fixadas pelo Congresso Nacional.
+Tal entendimento, portanto, permitiu a ampliação da atuação das guardas municipais na atividade de prevenção e repressão de crimes, o que afasta a exigência, até então constante da jurisprudência do Superior Tribunal de Justiça, de que a atuação das guardas municipais deve ter relação clara, direta e imediata com a proteção de bens, serviços ou instalações municipais, ou de seus usuários.
+Nesse toar, para que seja considerada idônea a abordagem, essa deve ser precedida de fundada suspeita.
+Assim, diante dos atuais limites das atribuições das guardas municipais, conforme o entendimento do Supremo Tribunal Federal sobre a matéria, não há ilegalidade na busca pessoal sofrida pelo paciente no caso em análise, uma vez que havia fundada suspeita para justificar a atuação dos agentes públicos, baseada em fato objetivo, qual seja, a fuga do paciente após avistar a guarnição (fl. 33).
+Além disso, para afastar a conclusão das instâncias ordinárias - isto é, afirmar que não houve fuga -, seria indispensável o reexame aprofundado de todo conjunto fático-probatório da ação penal, providência incompatível com os estreitos limites do habeas corpus (AgRg no HC n. 871.088/SP, Ministro Antonio Saldanha Palheiro, Sexta Turma, DJe 29/2/2024).
+Em face do exposto, não conheço do writ.
+Publique-se.
+EMENTA
+PROCESSUAL PENAL. HABEAS CORPUS. TRÁFICO DE DROGAS. WRIT SUBSTITUTIVO DE REVISÃO CRIMINAL. INADMISSIBILIDADE. INCOMPETÊNCIA DO SUPERIOR TRIBUNAL DE JUSTIÇA. AUSÊNCIA DE ILEGALIDADE FLAGRANTE. NULIDADE. BUSCA PESSOAL REALIZADA POR GUARDAS MUNICIPAIS. TEMA N. 656 DO STF. FUNDADA SUSPEITA. CONSTRANGIMENTO ILEGAL. AUSÊNCIA.
+Writ não conhecido.
