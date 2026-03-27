@@ -1,0 +1,49 @@
+Trata-se de recurso ordinário em habeas corpus interposto por Cristiano dos Reis contra acórdão da Quinta Turma do Superior Tribunal de Justiça que negou provimento ao AgRg no HC 1.046.859/MG (docs. 42 e 43).
+
+Consta de documento encartado a estes autos que:
+
+O paciente foi condenado à pena de 9 anos de reclusão e 610 dias-multa por infração aos arts. 33, caput [tráfico], e 35, caput [associação para o tráfico], c/c art. 40, inciso VI, da Lei n. 11.343/2006 e art. 16 da Lei n. 10.826/2003. Em sede de apelação, o Tribunal de Justiça do Estado de Minas Gerais absolveu o paciente do delito do art. 16 [posse ou porte ilegal de arma de fogo de uso restrito] da Lei n. 10.826/2003 e reconheceu a causa de diminuição do art. 33, § 4º, da Lei n. 11.343/2006 na fração de 1/2, redimensionando a pena para 3 anos de reclusão e 300 dias-multa, em regime aberto, com substituição da pena privativa de liberdade por restritivas de direitos. (doc. 43, p. 1 – grifei).
+
+Neste recurso ordinário, o recorrente sustenta, em síntese, que:
+
+Após o trânsito em julgado da condenação, foi impetrado Habeas Corpus no Superior Tribunal de Justiça (STJ) buscando a modificação da fração redutora do tráfico privilegiado de 1/2 para 2/3, sustentando a ocorrência de ilegalidade flagrante na dosimetria da pena.
+[...]
+A controvérsia central reside na aplicação da fração da causa de diminuição de pena prevista no art. 33, § 4º, da Lei n. 11.343/06 (tráfico privilegiado). O TJMG, embora tenha reconhecido o privilégio, aplicou a fração de 1/2 (metade), enquanto o voto vencido do Desembargador Revisor, Des. Sálvio Chaves, defendia a fração máxima de 2/3 (dois terços).
+Conforme exaustivamente demonstrado nas instâncias anteriores, o paciente Cristiano dos Reis preenche todos os requisitos legais para a aplicação da fração máxima do tráfico privilegiado. As Certidões de Antecedentes Criminais confirmam sua condição de primário e portador de bons antecedentes, sem indícios de que possua maus antecedentes.
+A jurisprudência do STJ é clara ao rechaçar a valoração negativa de antecedentes com base em inquéritos ou ações penais sem trânsito em julgado. O voto vencido enfatizou que o fato ilícito imputado ao paciente foi algo isolado em sua vida, e que a quantidade de droga apreendida, por si só, não evidencia dedicação habitual à prática de crimes.
+Foram apreendidos apenas 28,03g de maconha, quantidade considerada mínima e que, segundo a jurisprudência, não justifica a aplicação de fração menor da minorante.
+A decisão majoritária do TJMG, ao aplicar a fração de 1/2, deixou de sopesar devidamente as circunstâncias amplamente favoráveis ao paciente, sem apresentar fundamentação concreta que justificasse a não aplicação da fração máxima de 2/3. A ausência de fundamentação idônea, em face de um contexto tão favorável ao réu, configura uma flagrante ilegalidade na individualização da pena e, consequentemente, um constrangimento ilegal que atinge o direito de liberdade do paciente.
+[...]
+O Superior Tribunal de Justiça, ao desprover o Agravo Regimental, reiterou o entendimento de que o habeas corpus não pode ser utilizado como sucedâneo de revisão criminal, especialmente após o trânsito em julgado da condenação, e não verificou ilegalidade flagrante.
+Contudo, esta Suprema Corte já pacificou o entendimento de que, em situações excepcionais de manifesta ilegalidade, teratologia ou abuso de poder, o habeas corpus pode ser admitido, mesmo após o trânsito em julgado e ainda que utilizado como sucedâneo de revisão criminal. A flexibilização da Súmula 691 do STF (“Não compete ao Supremo Tribunal Federal conhecer de habeas corpus impetrado contra decisão do relator que, em habeas corpus requerido a Tribunal Superior, indefere a liminar”) em casos de flagrante ilegalidade é um exemplo dessa exceção.
+No presente caso, a ausência de fundamentação para a aplicação da fração de 1/2 do tráfico privilegiado, em detrimento da fração máxima de 2/3, quando todos os requisitos e circunstâncias são favoráveis ao paciente e há, inclusive, um voto vencido apontando para a solução mais justa e legal, representa uma ilegalidade manifesta que violou os princípios constitucionais da individualização da pena (art. 5º, XLVI, da CF) e da razoabilidade.
+O artigo 654, § 2º, do Código de Processo Penal, invocado pela defesa no STJ, autoriza a concessão da ordem de ofício justamente para os casos em que a ilegalidade é flagrante, independentemente da via processual utilizada. (doc. 48, pp. 3-4).
+
+E, ao final, requer:
+
+a) O conhecimento do presente Recurso Ordinário Constitucional e, no mérito, o seu provimento, para reformar o v. acórdão proferido pelo Superior Tribunal de Justiça e, consequentemente, a decisão monocrática que indeferiu liminarmente o Habeas Corpus impetrado em favor de CRISTIANO DOS REIS.
+b) A concessão da ordem de Habeas Corpus para reconhecer a manifesta ilegalidade na dosimetria da pena e determinar a aplicação da fração máxima de 2/3 (dois terços) da causa de diminuição prevista no art. 33, § 4º, da Lei nº 11.343/06.
+c) Consequentemente, a readequação da pena imposta ao paciente CRISTIANO DOS REIS para 02 (dois) anos de reclusão e 200 (duzentos) dias-multa, a ser cumprida em regime aberto, com a substituição da pena privativa de liberdade por restritivas de direitos, conforme o voto vencido do Desembargador Revisor do TJMG. (doc. 48, pp.  4-5).
+
+É o relatório necessário. Decido.
+
+Colaciono, por oportuno, a ementa do acórdão impugnado:
+
+Ementa DIREITO PROCESSUAL PENAL. AGRAVO REGIMENTAL. HABEAS CORPUS. INDEFERIMENTO LIMINAR. SUCEDÂNEO DE REVISÃO CRIMINAL. INCOMPETÊNCIA DO STJ. AUSÊNCIA DE ILEGALIDADE FLAGRANTE. AGRAVO REGIMENTAL DESPROVIDO. I. Caso em exame 1. Agravo regimental interposto contra decisão monocrática que indeferiu liminarmente habeas corpus, sob o fundamento de que a impetração foi realizada em substituição à revisão criminal, sendo o Superior Tribunal de Justiça incompetente para o processamento do pleito revisional. 2. O paciente foi condenado à pena de 9 anos de reclusão e 610 dias-multa por infração aos arts. 33, caput, e 35, caput, c/c art. 40, inciso VI, da Lei n. 11.343/2006 e art. 16 da Lei n. 10.826/2003. Em sede de apelação, o Tribunal de Justiça do Estado de Minas Gerais absolveu o paciente do delito do art. 16 da Lei n. 10.826/2003 e reconheceu a causa de diminuição do art. 33, § 4º, da Lei n. 11.343/2006 na fração de 1/2, redimensionando a pena para 3 anos de reclusão e 300 dias-multa, em regime aberto, com substituição da pena privativa de liberdade por restritivas de direitos. 3. Após o trânsito em julgado da condenação, foi impetrado habeas corpus com o objetivo de revisitar os critérios empregados na dosimetria da pena, o qual foi indeferido liminarmente. II. Questão em discussão 4. A questão em discussão consiste em saber se o habeas corpus pode ser utilizado como sucedâneo de revisão criminal para reanálise dos critérios empregados na dosimetria da pena, após o trânsito em julgado da condenação. III. Razões de decidir 5. O habeas corpus não pode ser utilizado como sucedâneo de revisão criminal, conforme entendimento consolidado do Superior Tribunal de Justiça. 6. A competência para processar e julgar revisões criminais de seus próprios julgados é do Superior Tribunal de Justiça, nos termos do art. 105, inciso I, alínea “e”, da Constituição Federal. 7. A decisão monocrática que indeferiu liminarmente o habeas corpus está em conformidade com o ordenamento jurídico, não havendo ilegalidade manifesta que autorize sua reforma. 8. A fração utilizada no reconhecimento da causa especial de diminuição de pena do tráfico privilegiado está devidamente justificada no acórdão impugnado. 9. Não há flagrante ilegalidade no acórdão impugnado que justifique a concessão da ordem nos termos do § 2º do art. 654 do Código de Processo Penal. IV. Dispositivo e tese 10. Resultado do Julgamento: Agravo regimental desprovido. Tese de julgamento: 1. O habeas corpus não pode ser utilizado como sucedâneo de revisão criminal. 2. A competência para processar e julgar revisões criminais de seus próprios julgados é do Superior Tribunal de Justiça, nos termos do art. 105, inciso I, alínea “e”, da Constituição Federal. 3. A ausência de flagrante ilegalidade no acórdão impugnado impede a concessão da ordem nos termos do § 2º do art. 654 do Código de Processo Penal. (doc. 42 – grifei).
+
+O acórdão da Quinta Turma do Superior Tribunal de Justiça não merece reparos. Igualmente, a jurisprudência do Supremo Tribunal Federal é firme no sentido da inviabilidade do habeas corpus como sucedâneo de revisão criminal.
+
+Nessa mesma direção:
+
+Ementa AGRAVO REGIMENTAL. HABEAS CORPUS SUCEDÂNEO DE REVISÃO CRIMINAL. INADMISSIBILIDADE. AGRAVO AO QUAL SE NEGA PROVIMENTO. I – A jurisprudência deste Supremo Tribunal é firme no sentido de que “[o] writ é impassível de ser manejado como sucedâneo de recurso ou revisão criminal” (HC 233.287 AgR/AL, Rel. Min. Luiz Fux, Primeira Turma, DJe 17/11/2023). II – Agravo ao qual se nega provimento. (HC 236.278 AgR/SP, da minha relatoria, Primeira Turma, DJe 24/4/2024 – grifei).
+
+Ementa Agravo regimental no recurso ordinário em habeas corpus. 2. Processual Penal. 3. Condenação transitada em julgado. Impossibilidade de utilização do habeas corpus como sucedâneo de revisão criminal. Ausência de manifesta ilegalidade. 4. Alegações de nulidade não examinadas pelo Superior Tribunal de Justiça. Inviabilidade de apreciação por esta Corte. Supressão de instância. 5. Pleito de absolvição por insuficiência probatória. Reexame de fatos e provas incabível na via eleita. 6. Agravo regimental não provido. (RHC 256.849 AgR/SP, Rel. Min. Gilmar Mendes, Segunda Turma, DJe 28/8/2025 – grifei).
+
+Ante o exposto, nego seguimento ao recurso ordinário (art. 21, § 1°, do Regimento Interno do Supremo Tribunal Federal).
+
+Publique-se.
+
+Brasília, 27 de março de 2026.
+
+Ministro Cristiano Zanin
+Relator
