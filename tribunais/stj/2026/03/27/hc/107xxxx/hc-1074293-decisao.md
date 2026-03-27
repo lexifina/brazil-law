@@ -1,0 +1,78 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido de liminar, impetrado em favor de TAMIRES MACHADO FERREIRA contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO GRANDE DO SUL que denegou a ordem no writ de origem, assim ementado (fl. 95):
+DIREITO PROCESSUAL PENAL. HABEAS CORPUS. TRÁFICO DE ENTORPECENTES E ASSOCIAÇÃO PARA O TRÁFICO. PRISÃO PREVENTIVA. PACIENTE MÃE DE CRIANÇAS MENORES. PEDIDO DE PRISÃO DOMICILIAR. SITUAÇÃO EXCEPCIONALÍSSIMA. DENEGAÇÃO DA ORDEM.
+I. CASO EM EXAME:
+1. Habeas corpus impetrado em favor da paciente, recolhida preventivamente desde 17/12/2025, por suposto envolvimento com os crimes de tráfico de entorpecentes e associação para o tráfico, visando a substituição da prisão preventiva por prisão domiciliar, com fundamento no fato de ser mãe de crianças menores, sendo uma delas em fase de amamentação.
+II. QUESTÃO EM DISCUSSÃO:
+1. A questão em discussão consiste na possibilidade de substituição da prisão preventiva por prisão domiciliar em favor de paciente mãe de crianças menores, sendo uma delas com aproximadamente 10 meses de idade.
+III. RAZÕES DE DECIDIR:
+1. A prisão preventiva da paciente está fundamentada em indícios concretos de sua participação ativa em organização criminosa dedicada ao tráfico de entorpecentes, com atuação na cidade de Taquara/RS e região.
+2. A análise do celular da paciente, apreendido em flagrante anterior por tráfico, revelou sua participação na estrutura financeira e logística da organização criminosa, com transferências bancárias comprovadas e mensagens que evidenciam sua atuação no comércio de drogas.
+3. O Supremo Tribunal Federal, no julgamento do HC 143.641, reconheceu a possibilidade de substituição da prisão preventiva pela domiciliar para mães de crianças menores de 12 anos, mas ressalvou situações excepcionalíssimas, que devem ser devidamente fundamentadas.
+4. O caso em análise configura situação excepcionalíssima, considerando a gravidade concreta do delito, evidenciada pela movimentação ativa e pelo modo de operação da suposta organização criminosa, representando indícios de risco efetivo à ordem pública.
+5. Não foi demonstrada a imprescindibilidade dos cuidados da paciente para com seus filhos, e o filho menor, com aproximadamente 10 meses, não está mais no período de aleitamento materno exclusivo, recomendado pela Organização Mundial da Saúde apenas nos primeiros seis meses de vida.
+IV. DISPOSITIVO E TESE:
+1. Ordem denegada.
+Consta nos autos que a paciente foi presa em flagrante, convertido em prisão preventiva, sendo denunciada pela suposta prática do crime tipificado nos arts. 33 e 35 da Lei 11.343/06.
+A defesa alega, em síntese, a ausência de fundamentação idônea do decreto prisional, uma vez que baseada na gravidade abstrata do delito, reputando ausentes os requisitos autorizadores da medida extrema (arts. 312 e 315 do CPP).
+Aponta a ausência de contemporaneidade, diante da inexistência de fatos novos e concretos aptos a demonstrar risco efetivo à sociedade, tornando uma antecipação de pena, o que é absolutamente ilegal.
+Aduz a imprescindibilidade da paciente aos cuidados dos dois filhos menores, que se encontram sem a figura central de cuidado e estabilidade afetiva e emocional, com base no art. 318-A.
+Assevera a que a prisão preventiva poderia ser substituída por medidas cautelares diversas, previstas no art. 319 do CPP, uma vez que são suficientes e adequadas, sendo implementadas de maneira proporcional.
+Requer, liminarmente e no mérito, a revogação da prisão preventiva; subsidiariamente, a sua substituição por prisão domiciliar ou a aplicação das medidas cautelares alternativas (art. 319 do CPP).
+É o relatório.
+A Quinta Turma do Superior Tribunal de Justiça firmou entendimento no sentido de ser inadequada a impetração de habeas corpus quando utilizado em substituição a recurso próprio.
+A teor do disposto no art. 105, II, a, da CF/88, o recurso cabível contra acórdão que denega a ordem na origem é o recurso ordinário, enquanto, consoante previsto no art. 105, III, da CF, o recurso cabível contra acórdão que julga apelação, recurso em sentido estrito e agravo em execução é o recurso especial.
+Nada impede, contudo, a concessão de habeas corpus de ofício quando constatada a existência de ilegalidade flagrante, abuso de poder ou teratologia, nos termos do art. 654, §2º, do CPP, o que ora se passa a examinar.
+A prisão preventiva justifica-se apenas quando devidamente demonstrada sua imprescindibilidade para a preservação da ordem pública, a garantia da regularidade da instrução criminal ou a asseguração da eficácia da aplicação da lei penal, nos termos do art. 312 do Código de Processo Penal.
+O decreto prisional foi assim fundamentado (fls. 362-371):
+ ..  O decreto de prisão preventiva exige a presença de pressupostos de admissibilidade, conforme o artigo 313 do Código de Processo Penal, fundamentos expressos na primeira parte do artigo 312 do mesmo diploma legal, e os requisitos legais dispostos no artigo 312 do Código de Processo Penal.
+O caso em tela se enquadra na hipótese do artigo 313, inciso I, do Código de Processo Penal, uma vez que as penas cominadas aos delitos imputados aos investigados, notadamente tráfico de drogas e associação para o tráfico, são superiores a quatro anos de privação de liberdade. Inclusive, a Lei n.º 11.343/06, em seus artigos 33 e 35, estabelece penas de reclusão que excedem substancialmente esse limite, tornando a medida cautelar plenamente admissível.
+I. Do Fumus Comissi Delicti
+ ..
+A materialidade dos crimes vem consubstanciada, especialmente, pelo Relatório Técnico de Extração e Análise (evento 1, DOC9), que detalha as comunicações dos investigados, o Relatório de Análise das Transferências Bancárias (evento 1, DOC7), que mapeia o fluxo financeiro ilícito e o Relatório de Investigação - Pessoas Identificadas e o Relatório de Investigação - Análise de Celular e PIX (evento 1, DOC8 e evento 1, DOC6).
+No que toca aos indícios de autoria, igualmente recaem sobre os representados, com base nos elementos extraídos da investigação policial.
+O Relatório Técnico de Extração e Análise do aparelho celular de TAMIRES MACHADO FERREIRA (evento 1, DOC9), peça central da investigação, descortinou uma complexa rede criminosa dedicada ao tráfico de entorpecentes na cidade de Taquara/RS e região. As conversas, áudios e transações financeiras revelam a participação ativa e a divisão de tarefas entre os investigados, com hierarquia definida, controle financeiro e logística para distribuição de drogas, notadamente cocaína.
+A análise do celular da investigada Tamires, apreendido em flagrante anterior por tráfico em 18/10/2025 (vide autos do Processo n.º 5307287-17.2025.8.21.0001, Evento 2, CERTANTCRIM1), foi o fio condutor que permitiu mapear a estrutura da facção "Os Manos", evidenciando que, mesmo recolhidos no sistema prisional, alguns integrantes, como Leandro de Oliveira, continuam a comandar as atividades ilícitas. A própria Tamires admitiu, em áudios, a venda de malotes, quantidades e clientela, afirmando "não uso, só vendo", o que corrobora seu papel ativo na mercancia ilícita (evento 1, DOC9).
+ ..
+Desse modo, está demonstrada a materialidade dos crimes e presentes robustos indicativos de autoria que recaem sobre os representados. Presente, assim, o fumus commissi delicti consagrado no artigo 312, segunda parte, do Código de Processo Penal. II.
+Do Periculum Libertatis
+No que refere ao periculum libertatis, observo que a custódia cautelar dos representados é o único meio de acautelar a ordem pública, o que se destaca pela recalcitrância delitiva retratada no expediente e nos antecedentes criminais.
+Diante disso, observa-se que os fatos retratados nesta representação não se tratam, aparentemente, de casos isolados na vida dos representados, o que vem corroborado, ainda, por suas certidões de antecedentes juntadas aos autos (Evento 7 e evento 2, DOC1). A análise pormenorizada dessas certidões de antecedentes, em conjunto com os relatórios investigativos, revela um padrão de reiteração delitiva que justifica a medida extrema.
+A representada TAMIRES MACHADO FERREIRA possui dois inquéritos policiais por tráfico de drogas e condutas afins, com um flagrante em 18/10/2025 que resultou na apreensão do celular que deu origem a esta investigação. (evento 2, DOC1).
+ ..
+A pluralidade e a gravidade dos delitos, especialmente a reiteração em crimes contra a saúde pública, o patrimônio e até mesmo contra a vida, atestam a periculosidade dos representados e a necessidade da medida. A garantia da ordem pública, compreendida in casu pelo risco de reiteração criminosa, torna imperativa a segregação cautelar.
+ ..
+De mais a mais, tenho que as medidas cautelares alternativas relacionadas no artigo 319 do Código de Processo Penal são insuficientes no caso em comento para os representados que tiveram a prisão decretada, e não acautelarão a ordem pública, diante da recorrência dos delitos praticados e das condições pessoais desfavoráveis dos suspeitos. A natureza e a gravidade dos crimes imputados, a complexidade da organização criminosa e o histórico criminal dos investigados indicam que apenas a prisão preventiva será capaz de cessar a atividade delitiva e resguardar a coletividade.
+Ressalto, por derradeiro, que o princípio da não culpabilidade não está sendo violado, uma vez que a prisão ora decretada é de natureza cautelar, com previsão legal, servindo ao bom andamento do processo e a garantir a sua eficácia, e não se confunde com o juízo de culpabilidade.  ..
+Como se vê, há fundamentação idônea à decretação da prisão preventiva, evidenciada na necessidade de garantir a ordem pública, diante da gravidade concretada conduta atribuída à acusada, que supostamente integra uma organização criminosa ("Os Manos"), com divisão de tarefas, hierarquia, estrutura logística e financeira para distribuição de drogas, sobretudo de cocaína. Apontou-se, igualmente, a reiteração delitiva.
+Com efeito, esta Corte Superior possui orientação no sentido de que a gravidade concreta do delito imputado e a periculosidade do agente, evidenciadas no modus operandi empregado, são circunstâncias aptas a justificar a prisão preventiva para a garantia da ordem pública. Nesse entendimento:
+AGRAVO REGIMENTAL EM HABEAS CORPUS. HOMICÍDIO DUPLAMENTE QUALIFICADO. PRISÃO PREVENTIVA. FUNDAMENTAÇÃO. PERICULOSIDADE DO AGENTE. GRAVIDADE CONCRETA. RÉU QUE SE MANTEVE FORAGIDO DURANTE VÁRIOS ANOS. SEGREGAÇÃO DEVIDAMENTE JUSTIFICADA PARA A GARANTIA DA ORDEM PÚBLICA E APLICAÇÃO DA LEI PENAL. CONDIÇÕES PESSOAIS FAVORÁVEIS. IRRELEVÂNCIA. MEDIDAS CAUTELARES ALTERNATIVAS. INSUFICIÊNCIA. AUSÊNCIA DE CONSTRANGIMENTO ILEGAL. RECURSO NÃO PROVIDO.
+ ..
+4. Esta Corte possui jurisprudência consolidada no sentido de que "a gravidade concreta da conduta, reveladora do potencial elevado grau de periculosidade do Agente e consubstanciada na alta reprovabilidade do modus operandi empregado na empreitada delitiva, é fundamento idôneo a lastrear a prisão preventiva, com o intuito de preservar a ordem pública". (AgRg no HC n. 687.840/MS, Rel. Ministra Laurita Vaz, Sexta Turma, julgado em 13/12/2022, DJe 19/12/2022).
+ ..
+9. Agravo regimental a que se nega provimento.
+(AgRg no HC n. 939.735/PE, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 30/10/2024, DJe de 5/11/2024.)
+Além disso, esta Corte Superior firmou orientação no sentido de que a prisão preventiva poderá ser decretada ante o risco concreto de reiteração delitiva, evidenciada na presença de maus antecedentes, reincidência, atos infracionais pretéritos ou até mesmo ações penais em andamento, porquanto indicativos de periculosidade. Veja-se:
+AGRAVO REGIMENTAL NO RECURSO EM HABEAS CORPUS. RÉU CONDENADO POR ROUBO MAJORADO. NEGATIVA DE RECURSO EM LIBERDADE. FUNDAMENTAÇÃO. PERICULOSIDADE DO AGENTE. REITERAÇÃO DELITIVA. SEGREGAÇÃO DEVIDAMENTE JUSTIFICADA PARA A GARANTIA DA ORDEM PÚBLICA. MEDIDAS CAUTELARES ALTERNATIVAS. INSUFICIÊNCIA. AUSÊNCIA DE CONSTRANGIMENTO ILEGAL. RECURSO NÃO PROVIDO.
+ ..
+3. Conforme pacífica jurisprudência desta Corte, "a preservação da ordem pública justifica a imposição da prisão preventiva quando o agente ostentar maus antecedentes, reincidência, atos infracionais pretéritos, inquéritos ou mesmo ações penais em curso, porquanto tais circunstâncias denotam sua contumácia delitiva e, por via de consequência, sua periculosidade" (RHC n. 107.238/GO, Relator Ministro ANTONIO SALDANHA PALHEIRO, Sexta Turma, julgado em 26/2/2019, DJe 12/3/2019). Prisão preventiva, no caso vertente, devidamente justificada para a garantia da ordem pública, nos termos do art. 312 do CPP, visando frear a reiteração delitiva.
+ ..
+7. Agravo regimental a que se nega provimento.
+(AgRg no RHC n. 187.651/GO, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 9/9/2024, DJe de 12/9/2024.)
+Ademais, quando presentes os requisitos do art. 312 do CPP, a imposição da prisão preventiva é medida de rigor, independentemente de condições pessoais favoráveis do agente, mostrando-se inadequadas medidas cautelares diversas do art. 319, quando a custódia provisória apresentar fundamentação concreta.
+Nesse sentido, " a  presença de condições pessoais favoráveis não impede a imposição da prisão preventiva, quando presentes os requisitos legais" (AgRg no HC n. 990.311/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 22/4/2025, DJEN de 30/4/2025).
+Ademais, "tendo sido exposta de forma fundamentada e concreta a necessidade da prisão, revela-se incabível sua substituição por outras medidas cautelares mais brandas" (AgRg no HC n. 965.960/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 5/3/2025, DJEN de 10/3/2025).
+Quanto ao pleito de prisão domiciliar, extrai-se do acordão impugnado (fl. 94):
+ ..  ressalto que não foi demonstrada a imprescindibilidade dos cuidados da paciente para com seus filhos.
+Ainda, muito embora o filho menor conte com aproximadamente 10 (dez) meses, tenra idade, não está mais no grupo considerando de necessário aleitamento materno, ou ainda como sustentou a defesa exclusivo.
+A Organização Mundial da Saúde recomenda o aleitamento materno exclusivo nos primeiros seis meses de vida.
+Não é o caso dos autos. Neste contexto e neste momento processual, o efetivo risco à saúde pública e à ordem pública se sobrepõe às eventuais circunstâncias favoráveis da agente.  ..
+Verifica-se que a paciente não restou provada à imprescindibilidade do cuidado aos filhos menores.
+De qualquer forma, constatada a inserção da paciente em organização criminosa de relevante envergadura, dotada de acentuado potencial lesivo à saúde pública, a prisão domiciliar revela-se insuficiente para neutralizar o risco concreto à ordem pública, mormente diante da possibilidade de continuidade ou coordenação das atividades ilícitas, impondo-se, portanto, a manutenção da custódia para resguardar a coletividade.
+Por fim, a tese referente à ausência de contemporaneidade da medida extrema não foi apreciada pelo Tribunal de origem, conforme cópia do acórdão às fls. 87-96 , motivo pelo qual a matéria não será examinada por esta Corte superior, sob pena de se incorrer em indevida supressão de instância.
+Com efeito, " é  imprescindível o prévio enfrentamento da matéria pelas instâncias ordinárias para evitar indevida supressão de instância e violação dos princípios do duplo grau de jurisdição e devido processo legal" (HC n. 1.021.432/MG, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 10/12/2025, DJEN de 16/12/2025.)
+Não há, portanto, flagrante ilegalidade que justifique a concessão da ordem de ofício.
+Ante o exposto, não conheço do habeas corpus.
+Publique-se.
+Intimem-se.
+EMENTA
