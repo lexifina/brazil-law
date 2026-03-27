@@ -1,0 +1,23 @@
+DECISÃO: Trata-se de recurso extraordinário, com base no art. 102, III, “a”, da Constituição Federal, apresentado pelo Município de Porto Velho em face do acórdão do Tribunal de Justiça do Estado de Rondônia assim ementado:
+
+“Agravo de instrumento. Valor retido por recomendação do MPF. Obrigação de fazer. Rito do art. 536 do CPC. 1. Impõe-se observar o rito estabelecido pelo art. 536 do CPC quando se está a cuidar de obrigação de fazer caracterizada por obrigação de liberar pagamento anteriormente retido por recomendação do MPF e com recursos já disponibilizado s em orçamento. 2. Agravo provido.” (Agravo de Instrumento nº 0801826-15. 2018.8.22.0000, 1ª Câmara Especial do Tribunal de Justiça do Estado de Rondônia, Rel. Des. Gilberto Barbosa, j. 09.05.2019)
+
+Na minuta, sustenta-se violação do art. 100, caput e §§ 1° e 4º, da Constituição da República. Argumenta-se, em síntese, que “por ser obrigação de dar, o rito a ser seguido deverá ser aquele indicado pelos arts. 535 e seguintes do Código de Processo Civil, ou seja, pagamento via ordem cronológica de apresentação de precatório”.
+É o relatório.
+Decido.
+O recurso comporta provimento.
+Da análise dos autos, verifica-se que o Tribunal de origem considerou que “não se mostra razoável entender que altera o conteúdo de obrigação de fazer o comando constante da sentença no sentido de impor ao Município pagar valores à empresa ora agravante, pois o magistrado, nessa mesma sentença, julga procedente o pedido inicial, cunhado como de obrigação de fazer” (e-doc. 12), razão pela qual determinou “que se aplique ao caso posto o rito estabelecido pelo artigo 536 do Código de Processo Civil, pois evidenciado, às escâncaras, que se está a cuidar de obrigação de fazer” (e-doc. 12).
+Tal entendimento não está alinhado à jurisprudência desta Suprema Corte, no sentido de que os valores que a Fazenda Pública deve pagar em razão de decisões judiciais precisam ser quitados por meio da emissão de precatório ou de requisição de pequeno valor (RPV), conforme estabelece o art. 100 da Constituição Federal.
+Nessa linha foi fixada a Tese 1262 da repercussão geral, a qual dispõe: “Não se mostra admissível a restituição administrativa do indébito reconhecido na via judicial, sendo indispensável a observância do regime constitucional de precatórios, nos termos do art. 100 da Constituição Federal”. Nesse sentido:
+
+“Recurso extraordinário. Representativo da controvérsia. Direito constitucional e tributário. Restituição administrativa do indébito reconhecido na via judicial. Inadmissibilidade. Observância do regime constitucional de precatórios (CF, art. 100). Questão constitucional. Potencial multiplicador da controvérsia. Repercussão geral reconhecida com reafirmação de jurisprudência. Decisão recorrida em dissonância com a jurisprudência do Supremo Tribunal Federal. Recurso extraordinário provido. 1. Firme a jurisprudência deste Supremo Tribunal Federal no sentido de que os pagamentos devidos pela Fazenda Pública em decorrência de pronunciamentos jurisdicionais devem ser realizados por meio da expedição de precatório ou de requisição de pequeno valor, conforme o valor da condenação, consoante previsto no art. 100 da Constituição da República 2. Recurso extraordinário provido. 3. Fixada a seguinte tese: Não se mostra admissível a restituição administrativa do indébito reconhecido na via judicial, sendo indispensável a observância do regime constitucional de precatórios, nos termos do art. 100 da Constituição Federal.” (RE 1420691 RG, Rel. Min. Presidente, Tribunal Pleno, DJe 28-08-2023)
+“AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. CONSTITUCIONAL E TRIBUTÁRIO. MANDADO DE SEGURANÇA. INDÉBITO TRIBUTÁRIO RECONHECIDO EM DECISÃO JUDICIAL. PAGAMENTO DEVIDO PELA FAZENDA PÚBLICA. RESTITUIÇÃO ADMINISTRATIVA. IMPOSSIBILIDADE. NECESSIDADE DE OBSERVÂNCIA DO REGIME DE PRECATÓRIO OU DE REQUISIÇÃO DE PEQUENO VALOR. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO, COM APLICAÇÃO DE MULTA. I – Todo pagamento devido pela Fazenda Pública em razão de decisão judicial deve observar o regime de precatório ou de requisição de pequeno valor, conforme o valor da condenação, nos termos do art. 100 da Constituição Federal. Precedentes. II – Agravo regimental a que se nega provimento, com aplicação da multa prevista no art. 1.021, § 4°, do CPC/2015.” (RE 1405737 AgR, Rel. Min. Ricardo Lewandowski, Segunda Turma, DJe 16-12-2022)
+
+Diante do exposto, com base no art. 21, §§ 1º e 2º, do RISTF, dou provimento ao recurso extraordinário para determinar que a restituição do indébito reconhecido pelo acórdão recorrido seja realizado nos termos do art. 100 da Constituição da República.
+Publique-se.
+
+Brasília, 27 de março de 2026.
+
+Ministro FLÁVIO DINO
+Relator
+Documento assinado digitalmente
