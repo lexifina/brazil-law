@@ -1,0 +1,15 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em benefício de ANA KAROLINA DA VEIGA BONFA BERNARDO contra a decisão liminar proferida, inicialmente, pelo Desembargador de Plantão do segundo grau e, posteriormente, ratificada pelo pelo Desembargador Relator do HC n. 2404794-91.2025.8.26.0000, em trâmite no Tribunal de Justiça de São Paulo.
+Sustenta-se, em resumo, a atipicidade material do suposto furto de 2 sabonetes e 1 loção corporal no valor de R$ 84,90 (oitenta e quatro reais e noventa centavos); a desproporcionalidade da prisão cautelar ante eventual pena em regime aberto ou substituível; a ausência de requisitos do art. 312 do Código de Processo Penal; a suficiência de cautelares diversas da prisão; a possibilidade de substituição da preventiva por domiciliar, nos termos do art. 318-A do Código de Processo Penal, por ser mãe de crianças de 2, 7 e 14 anos, sem violência ou grave ameaça, nem crime contra os filhos, além da presunção legal de imprescindibilidade dos cuidados.
+Requer-se, em caráter liminar, a expedição de ordem liberatória. No mérito busca o trancamento da Ação Penal n. 1502040-57.2025.8.26.0630, em trâmite na 2ª Vara Criminal da comarca de Hortolândia/SP, ou, subsidiariamente: a revogação da preventiva sem cautelar; a substituição por medida alternativa; ou a concessão de prisão domiciliar com base no art. 318-A do Código de Processo Penal.
+É relatório.
+As Turmas integrantes da Terceira Seção desta Corte, na esteira do preceituado na Súmula 691/STF, têm entendimento pacificado de não ser cabível a impetração de habeas corpus contra decisão de relator indeferindo medida liminar em ação de igual natureza, ajuizada nos Tribunais de segundo grau, salvo a hipótese de teratologia ou ilegalidade manifesta.
+É certo que caberá, primeiramente, ao Colegiado competente do Tribunal estadual, analisar em maior profundidade as questões levantadas na impetração lá ajuizada. Convém aguardar o trâmite regular do writ na origem.
+Além disso, a instrução do pedido é deficiente, pois não consta dos autos cópia da decisão proferida pelo Desembargador de Plantão no segundo grau, que indeferiu o pedido liminar, conquanto conste nos autos apenas o despacho do Relator que a ratificou (fls. 22/24).
+Tal deficiência prejudica a compreensão exata do caso, inviabilizando, assim, o exame do constrangimento ilegal sustentado, pois a ilegalidade passível de justificar a impetração do habeas corpus deve ser manifesta, de constatação evidente, restringindo-se a questões de direito.
+Este meio não comporta dilação probatória e exige prova consistente e pré-constituída das alegações, a ser trazida no momento do ajuizamento, cabendo o ônus da instrução à impetrante.
+Ante o exposto, com fundamento no art. 210 do RISTJ, indefiro liminarmente a petição inicial.
+Publique-se.
+EMENTA
+PROCESSUAL PENAL. HABEAS CORPUS. FURTO SIMPLES. PRISÃO PREVENTIVA. SÚMULA 691/STF. APLICABILIDADE. SUPRESSÃO DE INSTÂNCIA. INSTRUÇÃO DEFICIENTE. AÇÃO DE NATUREZA MANDAMENTAL QUE EXIGE PROVA PRÉ-CONSTITUÍDA. ÔNUS DO IMPETRANTE.
+Writ indeferido liminarmente.
