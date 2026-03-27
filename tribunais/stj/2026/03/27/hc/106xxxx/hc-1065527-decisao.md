@@ -1,0 +1,20 @@
+DECISÃO
+Cuida-se de habeas corpus com pedido de liminar impetrado em favor de WESLEY VITORIO DE ALBUQUERQUE, em que se aponta como ato coator a decisão monocrática de Desembargador do TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO que indeferiu o pedido de liminar formulado no HC n. 2000174-67.2026.8.26.0000.
+Consta dos autos a prisão em flagrante do paciente pela suposta prática dos delitos tipificados nos arts. 180 e 311 do CP. Foi concedida liberdade provisória condicionada ao pagamento de fiança de meio salário mínimo, sem expedição de alvará de soltura. O réu permaneceu custodiado pelo não pagamento do valor fixado.
+Em suas razões, sustenta a impetrante a ocorrência de constrangimento ilegal, porquanto a sanção corporal se mantém exclusivamente em razão do não pagamento da fiança, devendo ser afastada a cautelar pecuniária diante da impossibilidade econômica presumida pela assistência da Defensoria Pública e da ausência de elementos que indiquem capacidade financeira, com aplicação dos arts. 325, § 1º, I, e 350 do CPP.
+Afirma que a manutenção do recolhimento pelo não pagamento da fiança configura medida cautelar de natureza pessoal atípica e ilegal, pois não houve decreto de prisão preventiva. Aduz que o arbitramento do valor, por si, impõe a imediata expedição de alvará de soltura, sendo indevida a permanência no cárcere até a quitação da quantia.
+Argumenta que são adequadas e suficientes as alternativas previstas no art. 319 do CPP, revelando-se desnecessária e inadequada a fiança no caso concreto.
+Requer, liminarmente e no mérito, a colocação do paciente em liberdade independentemente do pagamento do valor arbitrado, com a dispensa da cautelar pecuniária ou sua substituição por providências menos gravosas não prisionais e a expedição do alvará de soltura.
+Liminar deferida pela Presidência do Superior Tribunal de Justiça  STJ (fls. 65/68).
+Parecer do Ministério Público Federal pela concessão da ordem de ofício (fls. 78/82).
+É o relatório.
+Decido.
+O desembargador plantonista negou o pedido de liminar no habeas corpus originário, em 02/01/2026.
+Em 06/01/2026, ao conceder a liminar, a Presidência do STJ excepcionalizou a aplicação do enunciado da Súmula n. 691 do Supremo Tribunal Federal STF, diante da flagrante ilegalidade de se manter o encarceramento preventivo apenas em virtude do não recolhimento da fiança.
+Em consulta ao Banco Nacional de Medidas Penais e Prisões  BNMP, constata-se que fora criado alvará de soltura em 03/01/2026 (cumprido em 12/01/2026), diante decisão do juízo neste teor:
+" Vistos. Trata-se de pedido formulado pela defesa de Wesley Vitorio de Albuquerque, informando problemas técnicos para realização do recolhimento da fiança arbitrada na audiência do dia 02/01/2026, em razão do não funcionamento do portal de custas no site do Tribunal de Justiça. Analisando a documentação acostada pela defesa, e em consulta ao portal de custas, restou demonstrada a impossibilidade técnica para expedir a guia de recolhimento da fiança, conforme documentos juntados às fls. 49. Diante do exposto, DEFIRO o pedido formulado pela defesa e CONCEDO ao acusado prazo para pagamento da fiança até o dia 07/01/2026, data de retorno do expediente forense. Por tratar-se de problema técnico não atribuído ao indiciado, o qual não pode permanecer indefinidamente no cárcere aguardando o funcionamento do portal de custas, que não tem previsão de retorno, defiro a liberdade provisória a Wesley Vitorio de Albuquerque, com as medidas cautelares já determinadas nas fls.38 . De tal forma, expeça-se alvará de soltura clausulado. Proceda a serventia às cautelas de praxe. Intima-se. Cumpra-se."
+Este habeas corpus está prejudicado, pois foi impetrado (03/01/2026, às 12h21) de forma praticamente simultânea à autorização de soltura do paciente (alvará criado no BNMP em 03/01/2026, às 12h59), concedida em primeiro grau.
+Isso posto, na forma do art. 34, XI, do Regimento Interno do STJ, julgo prejudicado o habeas corpus.
+Publique-se.
+Intimem-se.
+EMENTA
