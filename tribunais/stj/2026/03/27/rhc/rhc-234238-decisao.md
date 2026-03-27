@@ -1,0 +1,38 @@
+DECISÃO
+Trata-se de recurso em habeas corpus, com pedido de liminar, interposto por AGLIBERTO TEODÓSIO DOS SANTOS JÚNIOR contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DA PARAÍBA que denegou a ordem no writ de origem, assim ementado (fl. 80):
+HABEAS CORPUS. PROMOÇÃO E INTEGRAÇÃO DE ORGANIZAÇÃO CRIMINOSA (LEI Nº 12.850/13). PRISÃO PREVENTIVA. ALEGADA AUSÊNCIA DE FUNDAMENTAÇÃO E DE CONSTRANGIMENTO ILEGAL. DECRETO PRISIONAL APOIADO NA GARANTIA DA ORDEM PÚBLICA. GRAVIDADE CONCRETA E MODUS OPERANDI. ORGANIZAÇÃO CRIMINOSA DISSEMINADA POR DIVERSAS CIDADES E ESTADOS. PERICULOSIDADE DO AGENTE EVIDENCIADA. INAPLICABILIDADE DE MEDIDAS CAUTELARES DIVERSAS. ORDEM DENEGADA.
+- Não padece de falta de motivação a decisão judicial que, fundamentadamente, decreta a prisão preventiva para garantir a ordem pública (art. 312 do CPP).
+- A decretação da prisão preventiva é imprescindível para interromper a atuação de organização criminosa "disseminada por diversas cidades e estados" da Federação.
+- A gravidade concreta e o modus operandi demonstram a periculosidade do Paciente e a necessidade de sua segregação para evitar a reiteração criminosa e, ainda, para garantir a conclusão das diligências investigativas de alta complexidade.
+- O risco concreto à ordem pública e a sofisticação da organização obstam a aplicação de medidas cautelares diversas da prisão, previstas no art. 319 do CPP.
+Consta nos autos que o recorrente foi preso em flagrante, convertido em prisão preventiva pela suposta prática do crime de promoção, constituição, financiamento ou integração de Organização Criminosa (Lei nº 12.850/13).
+Neste recurso, a defesa alega que a prisão preventiva foi decretada com base em presunções, sem comprovação concreta de integração do recorrente em organização criminosa, porquanto ausentes os requisitos autorizadores da medida extrema (arts. 312 313 do CPP), sendo possível a aplicação de medidas cautelares diversas.
+Requer, liminarmente e no mérito, o provimento do recurso para revogar a prisão preventiva ou aplicar as medidas cautelares alternativas.
+É o relatório.
+O recurso é tempestivo e deve ser conhecido. Passa-se, portanto, ao exame do mérito.
+A prisão preventiva justifica-se apenas quando devidamente demonstrada sua imprescindibilidade para a preservação da ordem pública, a garantia da regularidade da instrução criminal ou a asseguração da eficácia da aplicação da lei penal, nos termos do art. 312 do Código de Processo Penal.
+O decreto prisional foi assim fundamentado (fl. 20):
+ ..  Pelo que se colhe das provas juntadas aos autos, trata-se de organização criminosa, bastante articulada com atuação em diversas cidades da Paraíba e em outros estados, cuja atividade precípua está relacionada ao tráfico de drogas e homicídios perpetrados contra opositores.
+A conclusão é que os pressupostos da prisão preventiva estão preenchidos e que é admitida a sua decretação, porquanto o crime doloso a ele imputado possui pena superior a quatro anos.
+No que tange ao fundamento, a prisão se justifica para a assegurar a garantia da ordem pública, porquanto demonstrada a gravidade em concreto da conduta, eis que há indícios muito veementes de que os investigados são integrantes de ORCRIM (NOVA OKAIDA - NOK), com atuação de diversas cidades da paraíba e em outros estados, que se dedica à prática de crimes de tráfico de drogas e homicídios, agindo com bastante violência como forma de intimidação.
+Conforme relatado pela autoridade policial, os investigados foram identificados após a quebra do sigilo telefônico nos autos nº 0805001 62.2025.8.15.0001 que tinha como objetivo investigar a pessoa de Anderson Matheus do Nascimento que possuía e exibia diversas armas de fogo em suas redes sociais.
+Nesse diapasão, dessume-se que há indícios suficientes de autoria e materialidade delitivas a autorizar a medida cautelar excepcional de PRISÃO PREVENTIVA, bem como de busca e apreensão e quebra de sigilo de dados telemático, vez que há uma nítida ligação entre os crimes aqui investigados. Cuida-se, portanto, de diligência imprescindível à continuidade e ao aprofundamento das investigações.
+A gravidade concreta está ligada ao modus operandi, máxime tratar-se de uma organização criminosa disseminada por diversas cidades e estados, à conduta particular que caracterizou a execução dos crimes, afastando-se da mera adequação típica para demonstrar a periculosidade do agente e a impossibilidade de sua continuação no seio social.
+ ..
+Ademais, a praxe demonstra que a manutenção da liberdade dos indiciados praticamente inviabiliza a colheita de provas na fase inquisitorial, o que demonstra a imprescindibilidade da medida, a fim de evitar que se percam provas da participação dos demais envolvidos.
+Por fim, o simples fato da presença de condições pessoais, por si só, não inviabiliza a decretação da medida extrema.  ..
+Verifica-se que a prisão preventiva foi decretada mediante fundamentação idônea, lastreada na garantia da ordem pública e para assegurar a aplicação da lei penal, haja vista a gravidade concreta da conduta, evidenciada no fato do recorrente supostamente fazer parte de violenta organização criminosa, com atuação interestadual, especializada em tráfico de drogas e homicídios, circunstâncias que revelam a gravidade da conduta e a periculosidade do acusado.
+Com efeito, esta Corte Superior possui orientação no sentido de que a gravidade concreta do delito imputado e a periculosidade do agente, evidenciadas no modus operandi empregado, são circunstâncias aptas a justificar a prisão preventiva para a garantia da ordem pública. Nesse entendimento:
+AGRAVO REGIMENTAL EM HABEAS CORPUS. HOMICÍDIO DUPLAMENTE QUALIFICADO. PRISÃO PREVENTIVA. FUNDAMENTAÇÃO. PERICULOSIDADE DO AGENTE. GRAVIDADE CONCRETA. RÉU QUE SE MANTEVE FORAGIDO DURANTE VÁRIOS ANOS. SEGREGAÇÃO DEVIDAMENTE JUSTIFICADA PARA A GARANTIA DA ORDEM PÚBLICA E APLICAÇÃO DA LEI PENAL. CONDIÇÕES PESSOAIS FAVORÁVEIS. IRRELEVÂNCIA. MEDIDAS CAUTELARES ALTERNATIVAS. INSUFICIÊNCIA. AUSÊNCIA DE CONSTRANGIMENTO ILEGAL. RECURSO NÃO PROVIDO.
+ ..
+4. Esta Corte possui jurisprudência consolidada no sentido de que "a gravidade concreta da conduta, reveladora do potencial elevado grau de periculosidade do Agente e consubstanciada na alta reprovabilidade do modus operandi empregado na empreitada delitiva, é fundamento idôneo a lastrear a prisão preventiva, com o intuito de preservar a ordem pública". (AgRg no HC n. 687.840/MS, Rel. Ministra Laurita Vaz, Sexta Turma, julgado em 13/12/2022, DJe 19/12/2022).
+ ..
+9. Agravo regimental a que se nega provimento.
+(AgRg no HC n. 939.735/PE, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 30/10/2024, DJe de 5/11/2024.)
+Sendo assim, quando presentes os requisitos do art. 312 do CPP, a imposição da prisão preventiva é medida de rigor, independentemente de condições pessoais favoráveis do agente, mostrando-se inadequadas medidas cautelares diversas do art. 319, quando a custódia provisória apresentar fundamentação concreta.
+Nesse sentido, " a  presença de condições pessoais favoráveis não impede a imposição da prisão preventiva, quando presentes os requisitos legais" (AgRg no HC n. 990.311/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 22/4/2025, DJEN de 30/4/2025).
+Inclusive, "tendo sido exposta de forma fundamentada e concreta a necessidade da prisão, revela-se incabível sua substituição por outras medidas cautelares mais brandas" (AgRg no HC n. 965.960/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 5/3/2025, DJEN de 10/3/2025).
+Ante o exposto, nego provimento ao recurso em habeas corpus.
+Publique-se.
+Intimem-se.
+EMENTA
