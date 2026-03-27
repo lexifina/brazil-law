@@ -1,0 +1,60 @@
+DECISÃO
+Trata-se de recurso em habeas corpus, com pedido liminar, interposto por WELLINGTON FERNANDO RODRIGUES GUIMARAES contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE GOIÁS que conheceu parcialmente da impetração e, nessa extensão, denegou a ordem. Confira-se a ementa (fls. 182-183):
+DIREITO PROCESSUAL PENAL. HABEAS CORPUS (HOMICÍDIO QUALIFICADO NA FORMA TENTADA). LEGÍTIMA DEFESA. NÃO CONHECIMENTO. PRISÃO PREVENTIVA. FUNDAMENTAÇÃO CONCRETA. ORDEM PARCIALMENTE CONHECIDA E, NESSA EXTENSÃO, DENEGADA.
+I. CASO EM EXAME
+1. Habeas corpus impetrado contra decisão que converteu a prisão em flagrante em preventiva, em investigação por homicídio qualificado na forma tentada, praticado mediante disparo de arma de fogo que atingiu a vítima na cabeça.
+II. QUESTÃO EM DISCUSSÃO
+2. Há três questões em discussão, saber se: (i) é viável o reconhecimento da tese de legítima defesa na via do habeas corpus, diante da ausência de prova pré-constituída; (ii) saber se a decisão que decretou a prisão preventiva apresenta fundamentação concreta e idônea, nos termos do artigo 312, do Código de Processo Penal; e (iii) são suficientes e adequadas as medidas cautelares diversas da prisão.
+III. RAZÕES DE DECIDIR
+3. A análise da alegada legítima defesa demanda exame aprofundado do conjunto fático-probatório, incompatível com a via estreita do habeas corpus , sobretudo em estágio inicial da persecução penal, inexistindo prova pré-constituída apta a afastar, de plano, a tipicidade da conduta.
+4. A decisão impugnada expôs fundamentos concretos para a custódia, com base na gravidade dos fatos, no modo de execução do delito, no risco à instrução criminal e na necessidade de aplicação da Lei Penal.
+5. A manutenção da prisão preventiva se justifica pelo risco de reiteração delitiva, além da suposta tentativa de evasão do distrito da culpa.
+6. Medidas cautelares diversas se revelam insuficientes diante das circunstâncias fáticas e da indicação de comportamento que demonstra risco concreto à ordem pública.
+IV. DISPOSITIVO E TESE
+7. Ordem parcialmente conhecida e, nessa extensão, denegada.
+Tese de julgamento: "1. A alegação de legítima defesa, quando dependente de dilação probatória, não deve ser examinada em habeas corpus." "2. É válida a prisão preventiva fundamentada na gravidade concreta do delito, nos antecedentes criminais e no risco de fuga e de reiteração delitiva." "3. Medidas cautelares diversas são insuficientes quando evidenciado perigo atual decorrente da liberdade do paciente."
+Consta dos autos que o recorrente foi preso em flagrante, em 6/1/2026, pela suposta prática do crime previsto no art. 121, § 2º, II e IV, c/c art. 14, II, tendo a prisão sido convertida em preventiva. Posteriormente, foi denunciado pela mesma imputação.
+No recurso, a defesa sustenta violação do art. 314 do CPP, porquanto há prova pré-constituída da alegada legítima defesa e que o deslocamento do recorrente para cidade vizinha não caracterizou evasão, pois não houve atos de ocultação ou resistência.
+Argumenta a ausência de demonstração de perigo atual, concreto e contemporâneo, apontando que os fundamentos utilizados (gravidade do resultado do disparo na cabeça, reincidência por furto sem correlação com crime de sangue, suposta evasão do distrito da culpa e referência a registros sem condenação) são insuficientes para justificar a custódia.
+Aduz condições pessoais favoráveis, suficientes à substituição por medidas cautelares diversas, como monitoração eletrônica, proibição de contato e comparecimento periódico.
+Requer, liminarmente, a expedição de alvará de soltura e, no mérito, o provimento do recurso para revogar a prisão preventiva. Subsidiariamente, a substituição da prisão por medidas cautelares diversas.
+É o relatório.
+O recurso é tempestivo e deve ser conhecido. Passa-se, portanto, ao exame do mérito.
+A prisão preventiva justifica-se apenas quando devidamente demonstrada sua imprescindibilidade para a preservação da ordem pública, a garantia da regularidade da instrução criminal ou a asseguração da eficácia da aplicação da lei penal, nos termos do art. 312 do Código de Processo Penal.
+O decreto prisional foi assim fundamentado (fls. 25-26):
+A materialidade delitiva e os indícios de autoria encontram-se demonstrados nos autos. Segundo a narrativa contida no auto de prisão em flagrante e no ofício de comunicação de prisão, o autuado teria efetuado disparos de arma de fogo contra a vítima João Vitor Fernandes da Silva, em 06/01/2026, configurando, em tese, tentativa de homicídio.
+Conforme documentação acostada aos autos, houve abordagem policial e prisão em flagrante do autuado em Goiânia (GO), sendo o crime ocorrido no município de Bela Vista de Goiás (GO).
+ ..
+Pois bem, analisando detidamente a certidão de antecedentes criminais (ev. 03), constato que o autuado possui extenso histórico criminal, além de ser reincidente, uma vez que possui execução penal em aberto (SEEU: 7003495-74.2025.8.09.0051).
+Embora a defesa tenha sustentado que o autuado agiu em legítima defesa própria e de terceiro (sua companheira Beatriz), diante de suposta ameaça praticada pela vítima e por Luciano (ex-companheiro de Beatriz), tal alegação constitui tese de mérito que deverá ser devidamente apreciada na instrução processual, não sendo possível, nesta fase cautelar, afastar sumariamente a configuração do crime.
+ ..
+Ressalta-se, ainda, que a Lei n.15.272/2025 estabeleceu novas diretrizes para a decretação da prisão preventiva, reforçando a necessidade de fundamentação concreta e específica quanto ao perigo gerado pelo estado de liberdade do imputado, o que restou devidamente comprovado, visto que o perigo concreto está evidenciado pela gravidade do delito (tentativa de homicídio com arma de fogo, atingindo a cabeça da vítima), pelos antecedentes criminais reveladores de envolvimento reiterado com a criminalidade, e pelo risco efetivo de reiteração delitiva, diante da reincidência, além do risco a aplicação da lei penal, tendo em vista que o custodiado se evadiu do distrito de culpa.
+Deste modo, havendo prova da materialidade delitiva e indícios suficientes de autoria, os elementos trazidos aos autos demonstram a necessidade da segregação cautelar do flagrado com o fito de acautelar o meio social, uma vez que, nesse caso, percebo inadequadas e insuficientes as medidas cautelares diversas da prisão elencadas no art. 319 do CPP.
+Diante do exposto, para garantia da ordem pública, CONVERTO a prisão em flagrante em PRISÃO PREVENTIVA de WELLINGTON FERNANDO RODRIGUES GUIMARÃES  ..
+Em relação também à medida extrema, o Tribunal de origem destacou os seguintes elementos (fl. 188):
+Analisando os autos, verifica-se que a medida está justificada na presença de materialidade fática, nos indícios de autoria, na necessidade de garantia da ordem pública, na conveniência da instrução processual e aplicação da Lei Penal.
+Com efeito, constata-se a gravidade concreta dos fatos, principalmente pelo modo em que o suposto crime se deu, a saber: vítima alvejada na cabeça, de inopino (surpresa), por desentendimentos anteriores (motivo fútil).
+Verifica-se que a prisão preventiva foi decretada mediante fundamentação idônea, lastreada na gravidade concreta da conduta e no modus operandi empregado: tentativa de homicídio qualificado, com disparo de arma de fogo que atingiu a cabeça da vítima. Registrou-se o risco de reiteração delitiva, extraído do extenso histórico criminal, da reincidência e do fato de o novo delito ter sido praticado enquanto cumpria pena por outra infração. Também foi considerada a necessidade de assegurar a aplicação da lei penal, diante da circunstância de ter sido localizado e preso em cidade vizinha após os fatos.
+Tais circunstâncias revelam a indispensabilidade da medida extrema no caso concreto.
+Com efeito, esta Corte Superior possui orientação no sentido de que a gravidade concreta do delito imputado e a periculosidade do agente, evidenciadas no modus operandi empregado, são circunstâncias aptas a justificar a prisão preventiva para a garantia da ordem pública. Nesse entendimento:
+AGRAVO REGIMENTAL EM HABEAS CORPUS. HOMICÍDIO DUPLAMENTE QUALIFICADO. PRISÃO PREVENTIVA. FUNDAMENTAÇÃO. PERICULOSIDADE DO AGENTE. GRAVIDADE CONCRETA. RÉU QUE SE MANTEVE FORAGIDO DURANTE VÁRIOS ANOS. SEGREGAÇÃO DEVIDAMENTE JUSTIFICADA PARA A GARANTIA DA ORDEM PÚBLICA E APLICAÇÃO DA LEI PENAL. CONDIÇÕES PESSOAIS FAVORÁVEIS. IRRELEVÂNCIA. MEDIDAS CAUTELARES ALTERNATIVAS. INSUFICIÊNCIA. AUSÊNCIA DE CONSTRANGIMENTO ILEGAL. RECURSO NÃO PROVIDO.
+ ..
+4. Esta Corte possui jurisprudência consolidada no sentido de que "a gravidade concreta da conduta, reveladora do potencial elevado grau de periculosidade do Agente e consubstanciada na alta reprovabilidade do modus operandi empregado na empreitada delitiva, é fundamento idôneo a lastrear a prisão preventiva, com o intuito de preservar a ordem pública". (AgRg no HC n. 687.840/MS, Rel. Ministra Laurita Vaz, Sexta Turma, julgado em 13/12/2022, DJe 19/12/2022).
+ ..
+9. Agravo regimental a que se nega provimento.
+(AgRg no HC n. 939.735/PE, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 30/10/2024, DJe de 5/11/2024.)
+Além disso, esta Corte Superior firmou orientação no sentido de que a prisão preventiva poderá ser decretada ante o risco concreto de reiteração delitiva, evidenciada na presença de maus antecedentes, reincidência, atos infracionais pretéritos ou até mesmo ações penais em andamento, porquanto indicativos de periculosidade. Veja-se:
+AGRAVO REGIMENTAL NO RECURSO EM HABEAS CORPUS. RÉU CONDENADO POR ROUBO MAJORADO. NEGATIVA DE RECURSO EM LIBERDADE. FUNDAMENTAÇÃO. PERICULOSIDADE DO AGENTE. REITERAÇÃO DELITIVA. SEGREGAÇÃO DEVIDAMENTE JUSTIFICADA PARA A GARANTIA DA ORDEM PÚBLICA. MEDIDAS CAUTELARES ALTERNATIVAS. INSUFICIÊNCIA. AUSÊNCIA DE CONSTRANGIMENTO ILEGAL. RECURSO NÃO PROVIDO.
+ ..
+3. Conforme pacífica jurisprudência desta Corte, "a preservação da ordem pública justifica a imposição da prisão preventiva quando o agente ostentar maus antecedentes, reincidência, atos infracionais pretéritos, inquéritos ou mesmo ações penais em curso, porquanto tais circunstâncias denotam sua contumácia delitiva e, por via de consequência, sua periculosidade" (RHC n. 107.238/GO, Relator Ministro ANTONIO SALDANHA PALHEIRO, Sexta Turma, julgado em 26/2/2019, DJe 12/3/2019). Prisão preventiva, no caso vertente, devidamente justificada para a garantia da ordem pública, nos termos do art. 312 do CPP, visando frear a reiteração delitiva.
+ ..
+7. Agravo regimental a que se nega provimento.
+(AgRg no RHC n. 187.651/GO, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 9/9/2024, DJe de 12/9/2024).
+Por sua vez, cumpre registrar que a tese relativa à legítima defesa não deve ser conhecida, uma vez que demanda necessário revolvimento do acervo fático-probatório, inviável na estreita via do habeas corpus e do recurso ordinário a ele inerente. Nesse sentido: AgRg no HC n. 1.001.039/BA, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 3/9/2025, DJEN de 8/9/2025.
+De outra parte, quando presentes os requisitos do art. 312 do CPP, a imposição da prisão preventiva é medida de rigor, independentemente de condições pessoais favoráveis do agente, mostrando-se inadequadas medidas cautelares diversas do art. 319, quando a custódia provisória apresentar fundamentação concreta.
+Nesse sentido, " a  presença de condições pessoais favoráveis não impede a imposição da prisão preventiva, quando presentes os requisitos legais" (AgRg no HC n. 990.311/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 22/4/2025, DJEN de 30/4/2025).
+Inclusive, "tendo sido exposta de forma fundamentada e concreta a necessidade da prisão, revela-se incabível sua substituição por outras medidas cautelares mais brandas" (AgRg no HC n. 965.960/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 5/3/2025, DJEN de 10/3/2025).
+Ante o exposto, nego provimento ao recurso em habeas corpus.
+Publique-se.
+Intimem-se.
+ EMENTA
