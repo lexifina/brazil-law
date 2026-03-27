@@ -1,0 +1,65 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido de liminar, impetrado em favor de MARCELO CRISTIAN BATISTA DE SOUZA, em que se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAIS no julgamento do RESE n. 1.0024.00.040185-1/001.
+Extrai-se dos autos que o paciente foi denunciado e, posteriormente, pronunciado pela suposta prática da conduta descrita no art. 121, § 2º, I e IV, do Código Penal.
+O recurso em sentido estrito interposto pela defesa teve o provimento negado pelo Tribunal estadual, nos termos da seguinte ementa (e-STJ fl. 16):
+EMENTA: RECURSO EM SENTIDO ESTRITO - HOMICÍDIO QUALIFICADO (ART. 121, § 2º, I e IV, DO CÓDIGO PENAL) - PRONÚNCIA - IRRESIGNAÇÃO DEFENSIVA - IMPRONÚNCIA - INVIABILIDADE - PROVA D A M A T E R I A L I D A D E E I N D Í C I O S S U F I C I E N T E S D A A U T O R I A V E R I F I C A D O S - P R O N Ú N C I A M A N T I D A - D E C O T E D A S QUALIFICADORAS - INVIABILIDADE. A pronúncia é mero juízo de admissibilidade da acusação e, por isso, dela não são exigidos os mesmos critérios valorativos dispensados à formação da convicção condenatória. Assim, uma vez constatado que a materialidade delitiva restou demonstrada e que há indícios suficientes da autoria, é necessária a manutenção da pronúncia (art. 413 do CPP). É impossível afastar as qualificadoras se elas encontram amparo nos elementos de prova dos autos e não são manifestamente improcedentes (Súmula 64 do Tribunal de Justiça de Minas Gerais).
+Os embargos de declaração opostos na sequência foram rejeitados (e-STJ fls. 52/63).
+Daí o presente writ, no qual a defesa alega violação ao art. 155 do Código de Processo Penal, ao sustentar que a pronúncia foi mantida com base exclusiva em elementos informativos colhidos no inquérito policial, sem prova judicializada mínima e idônea de autoria.
+Nesse sentido, argumenta a inadmissibilidade de utilização autônoma de testemunhos indiretos ("ouvir dizer"), baseados em rumores e "voz corrente" comunitária, desacompanhados de corroboração independente.
+Acrescenta a impossibilidade de invocação do in dubio pro societate como sucedâneo de prova mínima, por configurar desvio de função do juízo de pronúncia e violação à presunção de inocência.
+Requer, liminarmente, a suspensão dos efeitos da decisão de pronúncia. No mérito, pugna pela concessão da ordem para impronunciar o paciente, ou, subsidiariamente, a cassação do acórdão impugnado, com determinação de novo julgamento do recurso em sentido estrito pelo Tribunal de origem.
+É o relatório. Decido.
+De plano, verifico que foi impetrado anteriormente perante esta Corte Superior o HC n. 550.038/MG , também em benefício do ora paciente, o qual apontava como ato coator o mesmo acórdão ora impugnado, formulando-se o mesmo pedido, com fundamento na mesma causa de pedir, revelando-se, portanto, o presente mandamus mera reiteração.
+Naquela oportunidade, em decisão transitada em julgado em 19/2/2020, esta relatoria assim consignou:
+Busca-se na presente impetração, em síntese, o reconhecimento da suposta nulidade da sentença de pronúncia.
+Após pesquisa processual ao sítio eletrônico do TJMG, verifica-se que, em 16/12/2019, após deliberação do Conselho de Sentença, o paciente foi condenado, nos autos da Ação Penal n. 0401851-03.2000.8.13.0024, pela prática do crime tipificado no art. 121, § 2º, incisos II e I, do Código Penal, à pena de 15 anos e 6 meses de reclusão, em regime inicial fechado, sendo-lhe concedido o direito de recorrer em liberdade.
+Nesse sentido, conforme salientou o Ministério Público Federal, esta Corte Superior possui entendimento de que a superveniência de sentença penal condenatória pelo Tribunal do Júri prejudica o exame de eventual nulidade da sentença de pronúncia. Desta feita, a alegação de nulidade suscitada - inclusão indevida de qualificadora na pronúncia - encontra-se prejudicada (HC n. 442.758/SP, Rel. Ministro RIBEIRO DANTAS, Quinta Turma, julgado em 19/3/2019, DJe de 25/3/2019).
+Contudo, ainda que assim não o fosse, assevero que a tese defensiva não merece acolhimento.
+Isso porque, numa leitura da sentença de pronúncia (e-STJ fls. 54/57) e, analisando os fundamentos utilizados pelo Tribunal de origem ao negar provimento ao RESE interposto pela defesa, verifica-se a presença de indícios suficientes da autoria delitiva.
+Nesse sentido, esta Corte Superior possui pacífico entendimento no sentido de que: A decisão de pronúncia encerra a primeira etapa do procedimento dos crimes da competência do Tribunal do Júri e constitui juízo positivo de admissibilidade da acusação, a dispensar, nesse momento processual, prova incontroversa da autoria do delito, em toda sua complexidade normativa. Para permitir o julgamento do acusado por seu juiz natural, o Tribunal Popular, a lei processual penal exige tão somente que haja prova da existência do crime e indícios suficientes de sua autoria (REsp n. 1.790.039/RS, Rel. Ministro ROGERIO SCHIETTI CRUZ, Sexta Turma, julgado em 18/6/2019, DJe de 2/8/2019).
+Por fim, destaco os fundamentos utilizados pelo Tribunal de origem, que, acertadamente, rejeitou os embargos de declaração opostos pela defesa contra o acórdão proferido em sede de Recurso em Sentido Estrito:
+A defesa alega, em síntese, que a pronúncia foi mantida no julgamento do recurso em sentido estrito com fundamento exclusivamente em elementos do inquérito policial e que isso é inadmissível, conforme dispõe o art. 155 do CPP.
+Ocorre que o fato de os indícios da autoria constarem somente nos elementos colhidos no inquérito policial não é óbice para a prolação da pronúncia.
+A pronúncia é manifestação judicial que não encerra nenhuma proposição condenatória, pois apenas considera admissível a acusação e remete o caso à apreciação do Tribunal do Júri, único competente para julgar crimes dolosos contra a vida.
+Ressalto que o artigo 422 do Código de Processo Penal prescreve que o Presidente do Tribunal do Júri determinará a intimação do Ministério Público e da defesa para apresentarem rol de testemunhas que irão depor em plenário, cabendo ao Conselho de Sentença apreciar tais provas e se pronunciar sobre a procedência ou não da denúncia.
+Dessa forma, não é imprestável a pronúncia que aponta indícios colhidos no inquérito policial, uma vez que a prova testemunhal, utilizada pela defesa para alegar a inocência do acusado, será repetida durante os trabalhos do Tribunal do Júri.
+ ..
+Ainda que assim não fosse, os questionamentos feitos pela defesa quanto à avaliação das provas dos autos não demonstram de forma incontroversa a inocência do réu, o que se exige para a impronúncia.
+Afinal, subsistem duas versões dos fatos apresentadas nos autos: uma que afirma e outra que nega a prática pelo réu de homicídio qualificado. Tal controvérsia há de ser dirimida pelo Conselho de Sentença, juiz natural da causa, uma vez que a impronúncia exige prova inequívoca de que o acusado não foi autor do crime.
+É importar frisar que como os jurados são os juízes naturais da causa; não cabe a essa Turma, no exame da admissibilidade da acusação, analisar de forma profunda e definitiva as provas dos autos como quer a defesa.
+Assim, não há omissão nenhuma no acórdão embargado, pois nele foi evidenciada a presença de prova da materialidade e de indícios suficientes da autoria delitiva para submeter o réu a julgamento pelo Tribunal do Júri.
+Por fim, "a pronúncia está embasada na materialidade dos fatos, bem como em indícios suficientes da autoria, tanto que foi mantida no julgamento do recurso em sentido estrito e qualquer conclusão em sentido contrário demanda o exame aprofundado de provas, providência descabida na via eleita" (AgRg no HC 480.130/PE, Rel. Ministro JOEL ILAN PACIORNIK, Quinta Turma, julgado em 27/8/2019, DJe de 5/9/2019).
+Inexistente, portanto, flagrante ilegalidade a justificar a concessão, de ofício, da ordem postulada.
+Ante o exposto, nego seguimento ao presente habeas corpus.
+Nesse contexto, "O entendimento do Superior Tribunal de Justiça é pacífico no sentido de que não se conhece de habeas corpus cuja questão já tenha sido objeto de análise em oportunidade diversa, tratando-se de mera reiteração de pedido" (AgRg no HC n. 999.089/SP, relator Ministro Otávio de Almeida Toledo (Desembargador Convocado do TJSP), Sexta Turma, julgado em 11/6/2025, DJEN de 26/6/2025.)
+No mesmo sentido:
+DIREITO PROCESSUAL PENAL. AGRAVO REGIMENTAL. HABEAS CORPUS. REITERAÇÃO DE PEDIDO. AGRAVO IMPROVIDO.
+I. Caso em exame
+1. Agravo regimental interposto contra decisão que não conheceu da impetração de habeas corpus, sob alegação de nulidade absoluta por quebra da cadeia de custódia e aplicação do princípio da árvore envenenada, com pedido de absolvição do agravante.
+2. A defesa também interpôs recurso especial e agravo, os quais não foram conhecidos, além de agravo regimental, ao qual foi negado provimento.
+II. Questão em discussão
+3. A questão em discussão consiste em saber se é admissível a impetração de habeas corpus concomitantemente ou após a interposição de recurso especial em face do mesmo ato judicial.
+III. Razões de decidir
+4. O Superior Tribunal de Justiça não admite o uso de habeas corpus concomitantemente ou após a interposição de recurso especial em face do mesmo aresto, para evitar a subversão do sistema recursal e a violação do princípio da unirrecorribilidade.
+5. A reiteração de pedido formulado em anterior impetração não é admitida, conforme jurisprudência do STJ.
+IV. Dispositivo e tese
+6. Agravo improvido.
+Tese de julgamento: "1. Não é cabível a impetração de habeas corpus concomitantemente com a interposição de recurso próprio contra o mesmo ato judicial. 2. A reiteração de pedido formulado em anterior impetração não é admitida."
+Dispositivos relevantes citados: Código Penal, art. 33, § 2º, "b";
+Lei nº 11.343/2006, art. 42.Jurisprudência relevante citada: STJ, AgRg no HC 549.368/SC, Rel. Min. Joel Ilan Paciornik, Quinta Turma, DJe 19/12/2019; STJ, RCD no HC 974.883/MS, Rel. Min. Antonio Saldanha Palheiro, Sexta Turma, DJe 12/03/2025; STJ, AgRg no HC 958.774/MS, Rel. Min. Reynaldo Soares da Fonseca, Quinta Turma, DJe 10/03/2025.
+(AgRg no HC n. 984.540/SP, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 1/7/2025, DJEN de 4/7/2025.)
+PENAL. HABEAS CORPUS. TRÁFICO DE DROGAS (65 G DE COCAÍNA E 32,5 G DE CRACK). PRETENSÃO DE REVISAR NOVAMENTE A CONDENAÇÃO IMPOSTA E MANTIDA PELAS INSTÂNCIAS ORDINÁRIAS. INADMISSIBILIDADE. BUSCA PESSOAL E INVASÃO DE DOMICÍLIO. NULIDADE. REITERAÇÃO DE PEDIDO (HC N. 951.605/SP). NÃO CABIMENTO. ABSOLVIÇÃO POR FRAGILIDADE PROBATÓRIA E DOSIMETRIA DA PENA. MAJORANTE. PRÁTICA CRIMINOSA ENVOLVENDO ADOLESCENTE. REEXAME DE FATOS E PROVAS. IMPOSSIBILIDADE. CONSTRANGIMENTO ILEGAL MANIFESTO. AUSÊNCIA.
+1. A alegação de nulidade por ilicitude das provas é mera reiteração de pedido já julgado em outro habeas corpus (HC n. 951.605/SP), não merecendo conhecimento, tendo em vista já ter sido objeto de análise por esta Corte Superior.
+2. Diante do reconhecimento, pelas instâncias de origem, da existência de provas suficientes para a condenação do paciente pelo crime de tráfico de drogas com o envolvimento de adolescente, a desconstituição do que ficou estabelecido ensejaria o reexame aprofundado de todo conjunto fático-probatório da ação penal, providência incompatível com os estreitos limites do habeas corpus (AgRg no HC n. 871.088/SP, Ministro Antonio Saldanha Palheiro, Sexta Turma, DJe 29/2/2024).
+3. Ordem denegada.
+(HC n. 998.178/SP, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 18/6/2025, DJEN de 1/7/2025.)
+AGRAVO REGIMENTAL NO RECURSO EM HABEAS CORPUS. OBJETO DISCUTIDO EM OUTRAS AÇÕES. REITERAÇÃO. IMPOSSIBILIDADE. EXTENSO HISTÓRICO DE REPETIÇÃO DE PEDIDOS. FALTA DE COOPERAÇÃO PROCESSUAL. ABUSO DO DIREITO DE AÇÃO. EXPEDIÇÃO DE OFÍCIO À OAB. AUSÊNCIA DE OFENSA AO EXERCÍCIO DA ADVOCACIA. AGRAVO IMPROVIDO.
+1. A apreciação anterior do Superior Tribunal de Justiça em outros autos impede a realização de novo exame da questão, devendo ser mantida a decisão que não conheceu do pedido.
+2. Configurado o abuso do direito de ação diante da reiteração infundada de pedidos, em desrespeito ao princípio da economia processual e em contexto de judicialização excessiva e sobrecarga do Judiciário, justifica-se a expedição de ofício à OAB/SP para as providências cabíveis.
+3. A alegação de que os habeas corpus anteriormente impetrados tratam de títulos executivos judiciais distintos e visam evitar o perecimento de direito, ainda que apresentada, mostra-se genérica e insuficiente para afastar a conclusão de eventual abuso do direito de recorrer.
+4. A remessa de ofício à Ordem dos Advogados do Brasil para apuração de conduta profissional não constitui sanção, mas sim medida de caráter informativo, que se insere na esfera da atuação fiscalizatória da entidade de classe.
+5. Agravo regimental improvido.
+(AgRg no RHC n. 198.696/SP, relator Ministro Og Fernandes, Sexta Turma, julgado em 11/6/2025, DJEN de 16/6/2025.)
+Pelo exposto, indefiro liminarmente o habeas corpus.
+Publique-se.
+EMENTA
