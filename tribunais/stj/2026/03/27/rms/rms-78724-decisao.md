@@ -1,0 +1,19 @@
+DECISÃO
+Trata-se de recurso ordinário em mandado de segurança interposto por MARIA DE CASSIA DE FREITAS contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAIS que denegou a segurança.
+Informam os autos que, em sede de ação penal que apura a suposta prática do crime de homicídio, o Juízo de primeiro grau indeferiu o pedido da recorrente de realização de perícia complementar no aparelho celular da vítima, por ter considerado consistir providência protelatória (fl. 118).
+A recorrente, atuando como assistente de acusação , impetrou mandado de segurança, mas o Tribunal de origem, por unanimidade, denegou a segurança pleiteada (fls. 273-278). Os embargos de declaração opostos foram rejeitados (fls. 296-299).
+Neste recurso ordinário, a insurgente sustenta que a decisão de indeferimento da produção da prova complementar violou direito líquido e certo da insurgente à produção de prova essencial ao processamento da ação penal, notadamente porque pode demonstrar que a acusada manipulou o aparelho celular antes de entregá-lo à autoridade policial.
+Assevera, ademais, que não foram esgotados os meios tecnológicos disponíveis à polícia judiciária para efetuar o acesso aos dados do celular da vítima, o que viola o princípio da verdade real vigente no direito penal.
+Requer, portanto, o provimento do recurso para determinar a realização da perícia técnica complementar no aparelho celular da vítima.
+O pedido de justiça gratuita foi acolhido na origem (fl. 299). O Ministério Público Federal apresentou parecer pelo desprovimento do mandado de segurança (fls. 374-377).
+É o relatório. DECIDO.
+Presentes os pressupostos processuais, conheço do recurso ordinário em mandado de segurança.
+Conforme relatado, a questão controvertida consiste na análise de alegado direito líquido e certo da recorrente à produção de prova pericial complementar.
+Ao analisar as alegações da recorrente, entendo que as razões do recurso não comportam acolhimento.
+Com efeito, no caso, verifico que o acórdão impugnado concluiu, motivadamente, pela inexistência de direito líquido e certo da recorrente à elaboração de novo laudo pericial, assinalando que já haviam sido empregados 7 (sete) recursos disponíveis ao setor técnico da Polícia Federal para a tentativa de extração dos dados do aparelho celular da vítima, razão pela qual o pedido de renovação da perícia com métodos experimentais não disponíveis ao Poder Judiciário foi considerado meramente protelatório (fls. 273-278).
+Desse modo, verifico que o acórdão impugnado não comporta reforma, porque o Tribunal de origem adotou compreensão alinhada com a jurisprudência desta Corte, a qual há muito se firmou no sentido de que o indeferimento de diligências probatórias é ato que se inclui na esfera de discricionariedade do magistrado, que poderá indeferi-las, desde que de forma fundamentada, pois é o destinatário das provas.
+Confira-se: "O direito à produção de prova no processo penal não é absoluto, encontrando limites formais e materiais na cláusula do devido processo legal, conforme os arts. 400, § 1º, e 411, § 2º, do Código de Processo Penal. O magistrado, como destinatário da prova, pode indeferir diligências consideradas irrelevantes, impertinentes ou protelatórias, desde que apresente fundamentação idônea." (AgRg no RHC n. 223.288/MS, de minha relatoria, Quinta Turma, julgado em 25/11/2025, DJEN de 2/12/2025.)
+Portanto, como bem salientado pelas decisões proferidas na origem, não há, no caso, direito líquido e certo a ser reconhecido nesta via estreita, pois, ao avaliar o caso concreto, o Tribunal de origem rechaçou, de forma devidamente fundamentada, o pedido de produção de novo laudo pericial.
+Ante o exposto, com fundamento no artigo 34, inciso XVIII, alínea b, do RISTJ, nego provimento ao recurso ordinário em mandado de segurança.
+Publique-se. Intimem-se.
+EMENTA
