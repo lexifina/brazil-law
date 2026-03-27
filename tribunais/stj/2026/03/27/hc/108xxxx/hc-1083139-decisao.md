@@ -1,0 +1,18 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em nome de KLEYTON ALVES TOLEDO - preso preventivamente e acusado da prática dos crimes dos arts. 304 c/c 297 e 171 c/c 14, II, do Código Penal -, em que a defesa aponta como autoridade coatora o Tribunal de Justiça do Distrito Federal e dos Territórios, que, em 26/2/2026, concedeu a ordem no habeas corpus, determinando a expedição de alvará, por unanimidade (HC n. 0705882-22.2026.8.07.0000).
+O impetrante alega manutenção ilegal do cárcere apesar do alvará de soltura expedido pelo acórdão do Tribunal de Justiça do Distrito Federal e dos Territórios, persistindo a custódia por erro de identificação que trata o paciente como "Carlúcio Giovanucio Nunes", não obstante a comprovação documental e técnica de sua identidade civil como KLEYTON ALVES TOLEDO.
+Sustenta erro inescusável do sistema de identificação policial, afastado por documentos oficiais (CNH, passaporte, certidões) e por perícia datiloscópica do Instituto de Identificação realizada em 9/3/2026, confirmando que Kleyton e Carlúcio são pessoas distintas e com filiação e data de nascimento diversas.
+Aponta, ainda, a impropriedade de condicionar a soltura à suposta existência de mandado ativo em Goiás em nome de terceiro, "Carlúcio Giovanucio Nunes", pessoa diversa do paciente, o que reforça a ilegalidade da manutenção do cárcere por erro estatal de identificação.
+Em caráter liminar, pede a imediata soltura do paciente, independentemente do nome ou prontuário cadastrado no sistema prisional, com cumprimento das cautelares já fixadas pelo Tribunal de Justiça do Distrito Federal e dos Territórios.
+No mérito, requer a concessão definitiva da ordem, com confirmação da liminar e reconhecimento da ilegalidade da manutenção do cárcere por erro de identificação estatal.
+É o relatório.
+Não obstante a impetração tenha indicado o Tribunal de Justiça do Distrito Federal e dos Territórios como autoridade coatora, na verdade, o constrangimento ilegal está sendo promovido pelo estabelecimento prisional em que o paciente está custodiado, o qual se recusa a cumprir a determinação explicitada no acórdão prolatado no writ originário.
+Diante do descumprimento de acórdão do Tribunal de Justiça pelo estabelecimento prisional, é flagrante a incompetência desta Casa para garantir a autoridade de decisão de outro Tribunal
+É o que determina o art. 105, I, "f", da Constituição Federal: Compete ao Superior Tribunal de Justiça processar e julgar originariamente a reclamação para a preservação de sua competência e garantia da autoridade de suas decisões.
+No caso, tanto pela leitura da petição inicial (fls. 2/8) como do acórdão (fls. 10/16), verifica-se que o Tribunal de Justiça do Distrito Federal e dos Territórios concedeu a ordem no habeas corpus originário para substituir a prisão preventiva do paciente por medidas cautelares diversas, determinando-se a expedição imediata do alvará de soltura. Nenhuma ilegalidade há nisso.
+Além disso, a questão relacionada à identificação correta do paciente, se Kleyton e Carlúcio são pessoas distintas ou a mesma pessoa, demanda reexame do conjunto fático-probatório, inviável nessa via.
+Ante o exposto, indefiro liminarmente a petição inicial do habeas corpus.
+Publique-se.
+EMENTA
+PROCESSUAL PENAL. HABEAS CORPUS IMPETRADO CONTRA ACÓRDÃO QUE CONCEDEU A ORDEM NO WRIT ORIGINÁRIO. PRISÃO SUBSTITUÍDA POR MEDIDAS CAUTELARES. RECUSA DO ESTABELECIMENTO PENAL EM CUMPRIR A DETERMINAÇÃO DO TRIBUNAL A QUO. INEXISTÊNCIA DE RECLAMAÇÃO DESTINADA A GARANTIR A AUTORIDADE DO ACÓRDÃO DO TRIBUNAL DE JUSTIÇA. MANIFESTO DESCABIMENTO DO WRIT.
+Habeas corpus indeferido liminarmente.
