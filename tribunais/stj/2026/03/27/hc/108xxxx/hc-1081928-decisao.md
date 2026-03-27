@@ -1,0 +1,36 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em favor de FÁBIO DA SILVA contra acórdão prolatado pelo Tribunal de Justiça do Estado de São Paulo, assim ementado:
+"Habeas corpus" em que se busca a desconstituição da prisão preventiva. 1. Indícios de que o paciente cometeu crime de furto duplamente qualificado. 2. Reiteração delitiva que justifica a prisão preventiva para a garantia da ordem pública. A reiteração criminosa (reincidência, maus antecedentes, processos e inquéritos em andamento) justifica a prisão preventiva para a garantia da ordem pública (STJ, AgRg no HC n. 922.554/ES, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 2/9/2024, D Je de 5/9/2024; AgRg no HC nº 777.580/RJ, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 13/3/2023, D Je de 16/3/2023; AgRg no HC nº 777.587/SP, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 13/3/2023, D Je de 17/3/2023; AgRg no RHC n. 175.527/RS, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 7/3/2023, D Je de 13/3/2023). 3. Decisão judicial fundamentada. 4. Constrangimento ilegal não caracterizado. Ordem denegada.
+Consta dos autos que o paciente foi preso em flagrante em 3/1/2026, por suposta prática do delito previsto no artigo 155, § 1º e § 4º, incisos I e II, c/c o § 8º, do Código Penal. O flagrante foi convertido em prisão preventiva.
+Em habeas corpus anterior, o TJSP denegou a ordem, reafirmando a gravidade concreta, o elevado valor da res e a danificação do prédio como fundamentos da custódia.
+No presente writ, a impetrante sustenta a superveniência de decisão judicial que invalida a base fática da preventiva, tornando-a desprovida de fundamentação concreta e contemporânea e, por isso, ilegal.
+Destaca a inexistência de outros elementos individualizados que indiquem risco atual à ordem pública, à instrução criminal ou à aplicação da lei penal, destacando primariedade, endereço fixo, colaboração, ausência de violência e inexistência de ameaça ou obstrução, bem como impossibilidade de utilizar processo anterior suspenso pelo art. 366 do CPP como indicativo de reiteração delitiva, em respeito ao art. 5º, LVII, da Constituição.
+Requer, liminarmente, a suspensão da eficácia da decisão impugnada e a imediata colocação do paciente em liberdade, com imposição de medidas cautelares diversas, se necessário.
+É o relatório.
+A Quinta Turma do Superior Tribunal de Justiça firmou entendimento no sentido de ser inadequada a impetração de habeas corpus quando utilizado em substituição a recurso próprio.
+A teor do disposto no art. 105, II, "a", da CF/88, o recurso cabível contra acórdão que denega a ordem na origem é o recurso ordinário, enquanto que, consoante previsto no art. 105, III, da CF, contra acórdão que julga a apelação, o recurso em sentido estrito e o agravo em execução, cabe recurso especial.
+Nada impede, contudo, constatada a existência de ilegalidade flagrante, abuso de poder ou teratologia, a concessão de habeas corpus de ofício, nos termos do art. 654, § 2º, do Código de Processo Penal, o que ora passa-se a examinar.
+Extrai-se da decisão que decretou a custódia cautelar (fl. 21-22):
+Pois bem, autoria e materialidade estão, em princípio, suficientemente demonstradas (art. 312, caput, CPP).
+A prisão em flagrante deve ser convertida em prisão preventiva.
+A materialidade e os indícios de autoria são inequívocos, reforçados pela confissão do autuado perante a autoridade policial, admitindo que subtraía os cabos para sustentar seu vício em entorpecentes.
+No caso em apreço, a conversão da prisão em flagrante em preventiva é necessária para a garantia da ordem pública, amparada pelas seguintes razões:  ..
+Nada obstante a tipificação inicial feita pela Autoridade Policial, com o advento da Lei nº 15.181/2024, o furto de fios, cabos ou equipamentos destinados ao fornecimento de energia, transmissão de dados ou serviços públicos passou a ser expressamente tipificado como furto qualificado (Art. 155, §8º, CP), com pena de reclusão de 2 a 8 anos. A conduta atinge o patrimônio público e interrompe serviços essenciais no caso, de uma escola , demonstrando especial gravidade concreta que justifica a segregação cautelar.
+Assim, verifica-se a presença, ao menos em tese, de mais de uma qualificadora, o que aumenta a reprovabilidade da conduta do autuado.
+No que tange aos antecedentes, ainda que o autuado seja primário, incidem as circunstâncias do Art. 310, § 5º, do CPP (incluído pela Lei nº 15.272/2025), que recomendam a preventiva: (Inciso IV): O autuado responde aos autos nº 1500352-59.2023.8.26.0556, perante a 2ª Vara Criminal de Araraquara/SP; (Incisos V e VI): O referido processo encontra-se suspenso nos termos do artigo 366 do CPP, o que evidencia que o agente, ao não ser localizado para responder àquela acusação, demonstra intenção de se furtar à aplicação da lei penal. A prática de novo crime enquanto se encontra "foragido" daquele juízo torna a prisão preventiva indispensável.  ..
+Logo, em que pese ter sido praticado sem violência ou grave ameaça à pessoa, a prisão em flagrante, como mencionado, deve ser convertida em prisão preventiva, sendo a única forma de garantir a ordem pública (art. 312, caput, CPP), evitando-se, assim, que o autuado volte a praticar novos delitos contra o patrimônio alheio.
+A prisão preventiva deve ser decretada apenas em casos excepcionais, quando demonstrada a necessidade de garantir a ordem pública, a instrução criminal ou a aplicação da lei penal, conforme art. 312 do CPP.
+No caso, verifica-se que a prisão preventiva foi mantida nas instâncias ordinárias por evidenciar-se a insuficiência de medidas cautelares diversas da prisão diante do conjunto fático, pois, embora primário, o réu está sendo processado pela prática de crime de roubo impróprio nos autos n. 1500352-59.2023.8.26.0556, o que agrava sua periculosidade e demonstra sua dedicação a atividades criminosas.
+Assim, a decretação da prisão preventiva mostra-se necessária para evitar a reiteração delitiva e resguardar a ordem pública, diante da periculosidade elevada do paciente.
+Nesse sentido, destaco julgado de relatoria do Ministro Ribeiro Dantas:
+DIREITO PROCESSUAL PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO E ASSOCIAÇÃO PARA O TRÁFICO DE DROGAS. PRISÃO PREVENTIVA. GARANTIA DA ORDEM PÚBLICA. RECURSO IMPROVIDO.
+ ..
+8. A jurisprudência desta Corte reconhece que a persistência do agente na prática criminosa justifica a decretação da prisão preventiva, nos termos do art. 312 do CPP, para garantir a ordem pública.
+9. A aplicação de medidas cautelares alternativas à prisão é inviável, pois não seria suficiente para acautelar a ordem pública diante da periculosidade do agravante.
+(AgRg no HC n. 1.027.324/GO, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 15/10/2025, DJEN de 22/10/2025.)
+Por fim, as circunstâncias que envolvem o fato demonstram que outras medidas previstas n o art. 319 do Código de Processo Penal são insuficientes para a consecução do efeito almejado. Além do mais, condições pessoais favoráveis, por si só, não obstam a segregação cautelar quando presentes os requisitos legais.
+Não há, portanto, flagrante ilegalidade que justifique a concessão de habeas corpus de ofício.
+Ante o exposto, não conheço do habeas corpus.
+Publique-se.
+Intimem-se.
+EMENTA
