@@ -1,0 +1,33 @@
+DECISÃO
+Trata-se de conflito de competência suscitado pelo juízo da 10ª Vara Federal de Execução Fiscal da Seção Judiciária do Rio de Janeiro do TRF2 ante à decisão proferida pelo juízo da Vara de Execução Fiscal de Conselhos Profissionais e JEF Adjunto da Seção Judiciária de Minas Gerais do TRF6.
+Na origem, foi ajuizada execução fiscal por conselho regional profissional. O juízo suscitado declinou sua competência à Seção Judiciária da localidade da sede do exe quente, fundamentando-se na aplicação da tese fixada com o julgamento Tema de Repercussão Geral n. 1.204.
+O juízo suscitante entendeu-se incompetente ao afastar a incidência do Tema n. 1.204/STF ao caso, ao fundamento de que "o precedente que deu origem ao citado Tema não se assemelha ao caso dos presentes autos, na medida em que, naqueles autos, o Supremo Tribunal Federal buscou solucionar questão atinente à inviabilidade prática e institucional no sentido de se manterem estruturadas procuradorias em todas as unidades da Federação, o que não condiz com a realidade dos conselhos de fiscalização profissional, que, em sua maioria, são representadas por advocacia privada" (fl. 115).
+O Ministério Público Federal manifestou-se nos autos pela competência do juízo suscitado. (fls. 121-124).
+É o relatório. Decido.
+Cinge-se o presente conflito de competência em determinar o juízo competente para processar execução fiscal ajuizada por conselho profissional, se deve ser reconhecida a competência com base no domicílio do devedor ou se em razão do local em que sediado o exequente.
+Sobre o tema, assim dispõe o Código de Processo Civil:
+Art. 46. A ação fundada em direito pessoal ou em direito real sobre bens móveis será proposta, em regra, no foro de domicílio do réu.
+ ..
+§ 5º A execução fiscal será proposta no foro de domicílio do réu, no de sua residência ou no do lugar onde for encontrado.
+Nesse contexto, o Supremo Tribunal Federal, por meio do julgamento do Tema n. 1.204, fixou a seguinte tese: "A aplicação do art. 46, § 5º, do CPC deve ficar restrita aos limites do território de cada ente subnacional ou ao local de ocorrência do fato gerador." O entendimento adotado pela Corte constitucional fundou-se no reconhecimento de um desequilíbrio federativo e administrativo entre a União e os demais entes, os quais não estão estruturados para viabilizar uma atuação judicial fora dos seus territórios nos moldes em que perpetrada pelo ente nacional.
+No caso dos autos, contudo, trata-se de execução fiscal movida por conselho regional profissional que, por opção própria, ajuizou o feito no foro de domicílio do devedor, hipótese distinta daquela em que fundada o Tema n. 1.204/STF, na qual o ente federativo ajuizou o feito executório em seu território, ainda que situada em outro ente a sede da executada.
+Dessa forma, a escolha do exequente não apenas corresponde à regra contida na codificação processual civil, como também prestigia a defesa do executado, o qual poderá apresentar defesa, bem como praticar os demais atos processuais, no território em que domiciliado.
+Ademais, tratando-se de competência territorial, sua natureza é relativa e, assim, não pode ser reconhecida de ofício pelo juízo, devendo a parte contrária arguir eventual preliminar de incompetência por meio da peça contestatória. Confira-se:
+PROCESSUAL CIVIL. CONFLITO DE COMPETÊNCIA. EXECUÇÃO FISCAL PROPOSTA NA 18ª VARA FEDERAL DE SALVADOR/BA. COMPETÊNCIA RELATIVA.
+IMPOSSIBILIDADE DE DECLARAÇÃO DA INCOMPETÊNCIA DO JUÍZO DE OFÍCIO.
+1. Consoante assentado pelo Superior Tribunal de Justiça, com fulcro no art. 105, I, "d", da CF, merece conhecimento este Conflito, uma vez que ambos os Juízos, vinculados a Tribunais diversos, declararam-se incompetentes.
+2. A Ação de Execução Fiscal foi proposta na Seção Judiciária do Estado da Bahia, contudo o Juiz da 18ª Vara Federal de Salvador/BA declinou de sua competência para a Seção Judiciária do Paraná, visto que o domicílio da parte executada se encontra "sob a jurisdição de outro TRF, desde antes do ajuizamento da ação." Além disso, asseverou o magistrado em sua decisão, que seria evitada a expedição de "diversos ofícios e cartas precatórias para viabilizar o cumprimento de todos os atos pertinentes á persecução executiva."
+3. O Juiz suscitante não aceitou sua competência, tendo em vista o teor do enunciado na Súmula 58 desta Corte.
+4. Com razão o Juízo suscitante, porquanto a incompetência relativa deverá ser alegada como questão preliminar de contestação (art. 64 do CPC), não podendo ser declarada de ofício, como fez o Juízo suscitado.
+5. Conflito de Competência conhecido a fim de declarar competente para processar o feito o Juízo da 18ª Vara Federal de Salvador/BA.
+(CC 167.679/PR, Rel. MINISTRO HERMAN BENJAMIN, PRIMEIRA SEÇÃO, julgado em 27/11/2019, DJe 07/05/2020)
+COMPETÊNCIA. COMPETÊNCIA TERRITORIAL. PEDIDO DE ALTERAÇÃO DA COMPETÊNCIA PELO AUTOR. ENDEREÇO DO EXECUTADO.
+I - Cuida-se de conflito negativo de competência, suscitado pela 1ª Vara Federal de Diamantino/MT, nos autos da Execução Fiscal interposta pela Comissão de Valores Imobiliários - CVM em face de Agromon S/A Agricultura e Pecuária.
+II - A ação executiva foi ajuizada na Subseção Judiciária de São Paulo, contudo o executado não foi localizado naquela subseção, tendo o juízo originário declinado a competência em favor do juízo ora suscitante, sob o argumento de que o domicílio fiscal do executado se encontrava na cidade de São José do Rio Claro - MT.
+Após o ajuizamento da execução o exequente pleiteou a alteração da competência, razão pela qual decidiu o juízo originário declinar a competência conforme acima referido. Discordando desse entendimento, o MM. Juízo Federal da 1ª Vara de Diamantino - SJ/MT suscita o presente conflito de competência, perante esse Egrégio Superior Tribunal de Justiça.
+III - Conforme definido no art. 64, §1º, do CPC/2015, a incompetência relativa somente pode ser alegada em preliminar de contestação. Escolhido pelo exequente dentre as jurisdições possíveis aquela do ajuizamento da demanda, a competência se estabelece, não sendo possível a alteração por pedido do autor diante da ausência de amparo legal.
+IV - Conflito de competência conhecido para declarar competente o suscitado, juízo da 6ª Vara Federal de execuções fiscais de São Paulo.
+(CC 166.952/MT, Rel. MINISTRO FRANCISCO FALCÃO, PRIMEIRA SEÇÃO, julgado em 28/08/2019, DJe 02/09/2019)
+Ante o exposto, com base no art. 34 XXII, do RISTJ, conheço do conflito para declarar a competência do Juízo da Vara de Execução Fiscal de Conselhos Profissionais e JEF Adjunto da Seção Judiciária de Minas Gerais do TRF6.
+Publique-se. Intimem-se.
+EMENTA
