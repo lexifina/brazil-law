@@ -1,0 +1,20 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido de liminar, impetrado em benefício de GUILHERME DA SILVA DE ANDRADE, contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO DE JANEIRO no julgamento do Habeas Corpus n. 0080085-94.2025.8.19.0000.
+Extrai-se dos autos que o paciente foi preso em flagrante em 19/9/2025, posteriormente convertido em prisão preventiva, e restou denunciado pela suposta prática do crime tipificado no art. 35, caput, da Lei n. 11.343/2006.
+Irresignada, a defesa impetrou habeas corpus perante o Tribunal de origem, que denegou a ordem nos termos do acórdão assim ementado (fls. 14/15):
+"HABEAS CORPUS. ASSOCIAÇÃO PARA O TRÁFICO ILÍCITO DE ENTORPECENTES. Paciente preso em flagrante por suposta ofensa ao artigo 35 da Lei 11.343/2006. Prisão convertida em preventiva. Não merece acolhida o pedido de relaxamento da prisão. A Impetrante sustenta que a prisão preventiva deve ser relaxada em razão da inobservância do Aviso de Miranda ao tempo da prisão em flagrante do paciente. Oportuno esclarecer que, no Brasil, não existe o chamado "Miranda Warning" do direito americano, segundo o qual, a polícia, ao custodiar o indivíduo, deve, desde logo, informá-lo de que pode ficar calado. Precedente. No presente caso, os direitos e garantias constitucionais do réu foram respeitados. Em sede policial, quando da lavratura do Auto de Prisão em Flagrante, ele foi cientificado de seus direitos constitucionais e optou por apresentar a sua versão acerca dos fatos. Eventual irregularidade na informação acerca do direito de permanecer em silêncio é causa de nulidade relativa, cujo reconhecimento depende da comprovação do prejuízo, não sendo esta a hipótese dos autos. Precedente. De igual modo, não assiste razão em relação ao pedido de revogação da prisão preventiva. Medida cautelar suficientemente fundamentada na decisão proferida, de onde se extraem as circunstâncias concretas do evento, com a identificação da presença do fumus comissi delicti e do periculum libertatis. Demonstrada a necessidade da segregação cautelar para assegurar a ordem pública e resguardar a aplicação da lei penal. Precedente. Comprovação de condições pessoais favoráveis ao acusado não tem o condão, por si só, de afastar a necessidade da cautela extrema. Insuficiência das medidas diversas previstas no art. 319 do Código de Processo Penal. Ausência de ofensa ao Princípio da Presunção de Inocência. CONSTRANGIMENTO ILEGAL INEXISTENTE. ORDEM DENEGADA."
+No presente writ, a defesa sustenta a ausência de requisitos legais e de fundamentação idônea no decreto de prisão preventiva, destacando que a gravidade em abstrato do delito não legitima a medida extrema.
+Assevera condições pessoais favoráveis do paciente, com destaque à primariedade, bons antecedentes e residência fixa.
+Aponta inexistir violência ou grave ameaça no crime de associação para o tráfico, e que a pequena quantidade de droga apreendida não evidencia risco à ordem pública ou reiteração delitiva.
+Defende a suficiência de medidas cautelares diversas da prisão, em observância aos arts. 282, § 6º, e 321 do Código de Processo Penal - CPP, diante da inexistência de motivação concreta para afastá-las.
+Alega que o fundamento de risco de reiteração delitiva é genérico e incompatível com os predicados pessoais do paciente.
+Requer, em liminar e no mérito, a revogação da prisão preventiva, com aplicação de medidas cautelares diversas, se necessárias.
+Indeferido o pedido liminar às fls. 52/54 e prestadas as informações necessárias às fls. 61/71, o Ministério Público Federal, às fls. 77/79, opinou pela prejudicialidade do writ.
+É o relatório.
+Decido.
+Inobstante as razões suscitadas, a ação mandamental perdeu o objeto.
+Conforme informações prestadas às fls. 65/71, em 28/1/2026 foi revogada a prisão preventiva do paciente, com expedição de alvará de soltura em seu favor.
+Ante o exposto, com fundamento no art. 34, XX, do Regimento Interno do Superior Tribunal de Justiça, julgo prejudicado o habeas corpus.
+Publique-se.
+Intimem-se.
+EMENTA
