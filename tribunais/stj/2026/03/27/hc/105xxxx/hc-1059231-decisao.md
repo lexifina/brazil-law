@@ -1,0 +1,18 @@
+DECISÃO
+Cuida-se de habeas corpus impetrado em favor de DIRCEU ALVES BONFIM apontando como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DO PARANÁ (HC n. 0071971-53.2025.8.16.0000).
+Consta dos autos que o paciente encontra-se preso preventivamente, pela suposta prática dos crimes de homicídio duplamente qualificado (art. 121, § 2º, incisos II e IV, do Código Penal) e porte ilegal de arma de fogo de uso permitido (art. 14 da Lei Federal n. 10.826/2003).
+A defesa impetrou habeas corpus no Tribunal de origem, que denegou a ordem nos termos da seguinte ementa (e-STJ fls. 41/42):
+DIREITO PROCESSUAL PENAL E DIREITO PENAL. HABEAS CORPUS. PRISÃO PREVENTIVA POR HOMICÍDIO DUPLAMENTE QUALIFICADO E PORTE ILEGAL DE ARMA DE FOGO. HABEAS CORPUS DENEGADO. I. CASO EM EXAME 1. Habeas Corpus impetrado contra decisão do Juízo da Vara Criminal da Comarca de Tibagi/PR que decretou a prisão preventiva de indivíduo, em razão da prática de homicídio duplamente qualificado e porte ilegal de arma de fogo, com fundamento na garantia da ordem pública e na aplicação da lei penal. O impetrante argumenta que a decisão carece de fundamentação concreta e que não estão presentes os requisitos para a prisão preventiva, além de requerer a revogação da medida ou a substituição por cautelares diversas. II. QUESTÃO EM DISCUSSÃO 2. A questão em discussão consiste em saber se a prisão preventiva do paciente é legal e se há fundamentos suficientes para sua manutenção, considerando os princípios da presunção de inocência e a necessidade de garantir a ordem pública. III. RAZÕES DE DECIDIR 3. A prisão preventiva foi decretada com base em indícios suficientes de autoria e prova da materialidade do crime de homicídio duplamente qualificado. 4. A gravidade concreta da conduta, caracterizada pelo uso de arma de fogo e pela súbita execução do crime, justifica a manutenção da prisão preventiva para garantir a ordem pública. 5. As condições pessoais favoráveis do paciente, como primariedade e emprego fixo, não são suficientes para revogar a prisão preventiva diante da periculosidade demonstrada. 6. A alegação de irregularidade na realização da audiência de custódia não configura constrangimento ilegal, pois a audiência foi realizada em tempo razoável. IV. DISPOSITIVO E TESE 7. Habeas Corpus denegado.
+Nas razões do writ, sustenta a ausência de fundamentos concretos e contemporâneos da segregação cautelar bem como dos requisitos elencados no art. 312 do Código de Processo Penal.
+Pondera que "o paciente não empreendeu fuga voluntária, tendo se retirado do local dos fatos apenas por insistência de testemunhas que relataram tal circunstância em juízo durante a audiência de instrução" (e-STJ fl. 15).
+Ressalta as condições pessoais favoráveis do paciente.
+Defende a suficiência da substituição do cárcere por medidas cautelares, art. 319 do Código de Processo Penal, diante da desproporcionalidade da medida constritiva.
+Diante das considerações, requer a defesa a revogação da prisão preventiva e a expedição de alvará de soltura.
+Liminar indeferida (e-STJ fls. 87/90).
+Prestadas as informações, o Ministério Público Federal manifestou-se pelo não conhecimento do habeas corpus e, caso deste se conheça, pela denegação da ordem (e-STJ fls. 144/147).
+É o relatório.
+Decido.
+Pois bem. Consoante informações obtidas por meio do endereço eletrônico do Tribunal de origem, verifica-se que, no dia 20/2/2026, foi proferida decisão que revogou a prisão preventiva do paciente, sendo expedido o competente alvará de soltura em seu favor, ficando esvaziado o pleito do presente writ.
+Ante o exposto, com base no art. 34, inciso XX, do Regimento Interno do Superior Tribunal de Justiça (RISTJ), julgo prejudicado o presente habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
