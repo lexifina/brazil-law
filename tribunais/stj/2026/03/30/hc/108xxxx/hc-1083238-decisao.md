@@ -1,0 +1,96 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de VALTER MACHADO DE LIMA JUNIOR, no qual se aponta como autoridade coatora o Tribunal de Justiça do Estado do Rio Grande do Sul.
+Consta dos autos que o paciente foi preso em 06/02/2026, pela suposta prática do delito previsto no art. 33 da Lei 11.343/2006, com subsequente manutenção da custódia preventiva.
+Impetrado habeas corpus na origem, a ordem foi denegada (fls. 3).
+Neste writ, alega a defesa, em suma: i) nulidade por falta de controle jurisdicional efetivo sobre a violência policial narrada, com omissão quanto à realização e juntada de exame de corpo de delito idôneo, completo e independente, em afronta ao regime da Resolução CNJ nº 213/2015 e à regra do art. 158 do CPP; ii) fundamentação insuficiente da prisão preventiva, por ausência de demonstração concreta do periculum libertatis e da inadequação das medidas cautelares do art. 319 do CPP, em violação à lógica do art. 282, § 6º, do CPP; iii) impossibilidade de o Tribunal de origem suprir deficiência de motivação do decreto prisional com fundamento novo (reiteração delitiva), à luz do entendimento da Sexta Turma no RHC 125.022/SE, segundo o qual a Corte revisora "não pode acrescentar fundamento novo para manter a prisão"; iv) existência de condições pessoais favoráveis e histórico de dependência química, com documentos de trabalho lícito e vínculo empregatício, e pedido de encaminhamento terapêutico, elementos que devem ser considerados na análise de subsidiariedade da prisão.
+Requer o deferimento liminar para revogar a prisão preventiva, com expedição de alvará de soltura e, se necessário, imposição das medidas previstas no art. 319 do CPP (comparecimento periódico em juízo, proibição de ausentar-se da comarca, recolhimento domiciliar noturno, monitoração eletrônica), ou, subsidiariamente, determinação ao juízo de origem para, no prazo de 24 horas, juntar eventual laudo de exame de corpo de delito ou realizar novo exame pericial completo e independente, bem como apreciar o pedido de encaminhamento terapêutico e de requisição de informações à Clínica Terapêutica Novo Começo.
+É o relatório.
+Decido.
+Esta  Corte  -  HC  535.063/SP,  Terceira  Seção,  Rel.  Ministro  Sebastião  Reis  Junior,  julgado  em  10/6/2020  -  e  o  Su premo  Tribunal  Federal  -  AgRg  no  HC  180.365,  Primeira  Turma,  Rel.  Min.  Rosa  Weber,  julgado  em  27/3/2020;  AgR  no  HC  147.210,  Segunda  Turma,  Rel.  Min.  Edson  Fachin,  julgado  em  30/10/2018  -,  pacificaram  orientação  no  sentido  de  que  não  cabe  habeas  corpus  substitutivo  do  recurso  legalmente  previsto  para  a  hipótese,  impondo-se  o  não  conhecimento  da  impetração,  salvo  quando  constatada  a  existência  de  flagrante  ilegalidade  no  ato  judicial  impugnado.
+Passo, assim,  à  análise  das  razões  da  impetração,  de  forma  a  verificar  a  ocorrência  de  flagrante  ilegalidade  a  justificar  a  concessão  do  habeas  corpus,  de  ofício.
+O Tribunal de origem manteve a prisão preventiva do paciente sob os seguintes fundamentos:
+" ..
+Ao examinar o pedido de liminar, proferi decisão pelo indeferimento, nos seguintes termos (processo 5038448-39.2026.8.21.7000/TJRS, evento 6, DESPADEC1):
+ ..
+Já a decisão que converteu o flagrante em prisão preventiva, está assim fundamentada (processo 5001132-28.2026.8.21.0101/RS, evento 20, TERMOAUD1):
+ ..
+Pela MM. Juíza, foi dito que diante da quantidade e variedade de drogas apreendidas junto ao flagrado, além de sua tentativa de fuga, que, inclusive, culminou em danos a uma viatura da polícia, demonstrando seu agir desenfreado, resta notório que a aplicação das medidas protetivas diversas da prisão não serão suficientes para conter o indiciado. Assim, caracterizados, cumulativamente, prova da materialidade (existência do crime) e indício suficiente de autoria, além do perigo que a liberdade do agente representa, faz-se necessária a decretação da prisão preventiva para garantia da ordem pública. Assim, DECRETAVA A PRISÃO PREVENTIVA do conduzido.
+Expeça-se mandado de prisão, registrando no BNMP, com prazo de validade até o prazo prescricional.
+Ante a notícia de violência policial, oficie-se junto ao CNJ SISTAC, que atua no controle externo da atividade policial, para adotar as providências cabíveis, as quais deverão ser informadas ao juízo no prazo de cinco dias.
+Não é caso de concessão da ordem, ao menos em sede liminar, visto que os argumentos acostados não se mostram suficientes para que se verifique a presença de ilegalidade flagrante, a ensejar a concessão de liberdade.
+O fato é grave - tráfico de entorpecentes - considerado de jaez hedionda pela Constituição Federal, com apreensão de diversificadas substâncias ilícitas, como 189g de maconha, 26g de cocaína e 11g de haxixe.
+Conforme consta dos autos, os policiais estavam em diligências quando visualizaram um veículo e passaram a monitorá-lo à distância, diante de informações prévias de que estaria sendo utilizado para a prática de tele-entrega de entorpecentes. Em determinado momento, observaram o automóvel estacionar e o condutor entregar um objeto a um indivíduo que o aguardava na calçada.
+Diante da fundada suspeita, a guarnição realizou a abordagem, momento em que o paciente desobedeceu à ordem de parada, acelerou o veículo na direção da viatura e dos policiais já desembarcados, vindo a colidir na parte frontal esquerda da viatura, causando danos e empreendendo fuga em seguida. Para conter a evasão, os agentes efetuaram disparos nos pneus do veículo, logrando êxito em atingi-los e iniciaram acompanhamento. Na sequência, em razão dos danos nos pneus, o paciente desembarcou e tentou fugir a pé, sendo abordado.
+A prisão do paciente acarretou na apreensão de 13 tabletes de maconha (totalizando 189 gramas), 45 buchas de cocaína (pesando 26 gramas), 10 porções de haxixe (pesando 11 gramas), um veículo e um aparelho celular (processo 5001132-28.2026.8.21.0101/RS, evento 1, AUTOCIRCUNS6).
+A decisão que converteu o flagrante em prisão preventiva possui fundamentação hígida, inexistindo qualquer vício.
+No tocante à prisão preventiva, encontram-se presentes os seus requisitos legais.
+Embora as impetrantes aleguem que a decisão que decretou a prisão estaria fundamentada apenas na gravidade abstrata do delito, observo que, ao contrário, está justificada nas circunstâncias concretas do fato delituoso, notadamente na quantidade e variedade de drogas apreendidas, bem como na atitude do paciente, que investiu com seu veículo contra a viatura policial causando danos e empreendendo fuga.
+Assim, analisados especificamente o fato, suas circunstâncias, a necessidade da prisão, bem como o impacto social do crime, indicou-se a imperiosidade da medida segregatória.
+Acresço que condições pessoais eventualmente favoráveis, como trabalho lícito, vínculo empregatício e ficha de registro, não impedem a prisão preventiva, notadamente quando presentes elementos a indicar a cautelar, tampouco a prisão atenta contra o princípio constitucional da presunção de inocência ou constitui antecipação de pena.
+E o paciente possui histórico criminal ligado ao narcotráfico, com ação penal em andamento pelo mesmo crime (processo n. 5010006-36.2025.8.21.0101 - processo 5001132- 28.2026.8.21.0101/RS, evento 3, CERTANTCRIM1), oportunidade em que foi preso em flagrante em 12/11/2025 e solto, em 14/11/2025, o que evidencia a reiteração delitiva e enseja a manutenção da custódia preventiva para garantir a ordem pública.
+A alegação de que a apreensão descrita não é, por si só, prova cabal de dedicação ao tráfico, é questão a ser examinada no momento oportuno, descabido o exame aprofundado da prova em sede de habeas corpus.
+Quanto às lesões apresentadas pelo paciente, conforme narrativa dos policiais, seriam oriundas da tentativa de fuga e de quando foi contido com uso moderado da força e de algemas.
+Na audiência de custódia, o paciente apresentou sua versão sobre a origem das lesões sofridas, afirmando que houve abuso por parte dos policiais. Diante do relato, a Magistrada na audiência determinou fosse oficiadao CNJ SISTAC, para que os fatos relatados fossem apurados (processo 5001132-28.2026.8.21.0101/RS, evento 20, TERMOAUD1).
+Registro que ausente comprovação efetiva da ocorrência de violência policial durante a prisão do paciente, neste momento - mas apenas as alegações dos policiais e do paciente - não sendo possível a concessão da liberdade sob este argumento, mormente porque não é permitido em sede de habeas corpus, o revolvimento minucioso das provas.
+Ademais, eventual uso excessivo de força na atuação policial não afasta o crime antes praticado, tampouco a necessidade da segregação cautelar. Nem mesmo a nulidade do flagrante, que agora está superado pelo decreto de prisão preventiva.
+Nesse sentido:
+ ..
+No que toca ao pedido de expedição de ofício para órgãos competentes para a apuração da suposta violência policial, a Magistrada, na audiência de custódia, já solicitou a apuração junto ao CNJ SISTAC (processo 5001132-28.2026.8.21.0101/RS, evento 20, TERMOAUD1), como já dito.
+Quanto aos demais pedidos de produção de provas, registro que não há decisão do juízo singular a respeito, motivo pelo qual deixo de analisá-los no momento, sob pena de supressão de instância.
+Assim, diante dos elementos angariados ao feito, não verifico a ocorrência de constrangimento ilegal a justificar o deferimento da liminar, na medida em que a prisão cautelar se encontra devidamente fundamentada na decisão atacada.
+E, no contexto dos autos, insuficiente a aplicação de medidas cautelares diversas para garantir a ordem pública, dada a reiteração delitiva na prática do mesmo crime.
+Diante do exposto, indefiro a liminar.
+Esgotada a análise em relação aos argumentos lançados quando da apreciação preliminar, a ordem não comporta concessão, porquanto inalterados os fundamentos que determinaram a denegação do pedido liminar.
+O decreto de prisão preventiva está devidamente fundamentado, apontando fatos concretos que justificam a segregação cautelar.
+No mesmo sentido, a manifestação da douta Procuradora de Justiça, Dra. Ieda Husek Wolff (processo 5038448-39.2026.8.21.7000/TJRS, evento 14, PARECER1):
+ ..
+Da mesma forma, presente, também, pelo menos um dos fundamentos autorizadores da prisão preventiva, na forma do artigo 312 do CPP, qual seja, a garantia da ordem pública, evidenciada pela quantidade, diversidade e natureza dos entorpecentes, em tese, traficados pelo paciente, bem como pelo fundado receio de reiteração delitiva que a sua liberdade representa.
+( )
+Assim, preenchidos os requisitos do artigo 312 do Código de Processo Penal, impositiva a manutenção da prisão preventiva.
+Diante do exposto, voto por DENEGAR A ORDEM." (e-STJ, fls. 10-15; sem grifos no original)
+Quanto às alegações de agressões policiais, o Tribunal de origem registrou a ausência de comprovação efetiva da suposta violência, havendo apenas versões conflitantes entre policiais e paciente, e determinou a remessa de ofício ao CNJ SISTAC para apuração dos fatos narrados na audiência de custódia. Assentou, ainda, que eventual uso excessivo de força "não afasta o crime antes praticado, tampouco a necessidade da segregação cautelar. Nem mesmo a nulidade do flagrante, que agora está superado pelo decreto de prisão preventiva" (e-STJ, fl. 14).
+Assim, afirmada a presença de prova autônoma da prática criminosa, não contaminada pela alegada violência policial, e constatada a inviabilidade de reforma por falta de ilegalidade manifesta, a alteração do entendimento demandaria reexame do conjunto fático-probatório, providência incompatível com a via estreita do habeas corpus.
+Nesse sentido:
+DIREITO PROCESSUAL PENAL. ROUBO MAJORADO. CONDENAÇÃO FUNDAMENTADA EM DIVERSAS PROVAS LÍCITAS COLHIDAS DURANTE A INSTRUÇÃO. AGRAVO REGIMENTAL. HABEAS CORPUS SUBSTITUTIVO. INADMISSIBILIDADE. RECURSO NÃO PROVIDO.
+I. Caso em exame
+1. Agravo regimental interposto contra decisão que não conheceu de habeas corpus substitutivo de recurso próprio, em razão da ausência de flagrante ilegalidade.
+2. O Tribunal de origem concluiu que a condenação do réu foi embasada em provas independentes, não contaminadas por eventual excesso de força policial.
+3. A defesa alegou ilegalidade na prisão em flagrante devido à violência policial, requerendo a anulação da condenação e o trancamento da ação penal.
+II. Questão em discussão
+4. A questão em discussão consiste em saber se o habeas corpus pode ser utilizado como substitutivo de recurso próprio ou revisão criminal, na ausência de flagrante ilegalidade.
+5. Verificar se as provas utilizadas para a condenação foram contaminadas por suposta violência policial.
+III. Razões de decidir
+6. O habeas corpus não pode ser utilizado como substitutivo de recurso próprio, salvo em casos de flagrante ilegalidade.
+7. As provas que embasaram a condenação foram obtidas de forma independente e não foram contaminadas por eventual excesso policial.
+8. A reanálise do acervo fático-probatório é inviável em sede de habeas corpus.
+IV. Dispositivo e tese
+9. Recurso não provido.
+Tese de julgamento: "1. O habeas corpus não é substitutivo de recurso próprio, salvo em casos de flagrante ilegalidade. 2. Provas independentes não são contaminadas por eventual excesso policial.
+"Dispositivos relevantes citados: CPC, art. 1.024, § 3º; CPP, arts.
+621, 647-A, 654, § 2º.Jurisprudência relevante citada: STJ, AgRg no HC 895.777/PR, Rel. Min. Reynaldo Soares da Fonseca, Quinta Turma, julgado em 2/4/2024; STJ, AgRg no HC 864.465/SC, Rel. Min. Rogerio Schietti Cruz, Sexta Turma, julgado em 18/3/2024.
+(EDcl no HC n. 945.569/SP, relatora Ministra Daniela Teixeira, Quinta Turma, julgado em 13/11/2024, DJe de 18/11/2024.)
+Quanto ao pedido de revogação da prisão preventiva, também, não assiste razão à defesa.
+De acordo com o art. 312 do Código de Processo Penal, a prisão preventiva poderá ser decretada para garantia da ordem pública, da ordem econômica, por conveniência da instrução criminal ou para assegurar a aplicação da lei penal, desde que presentes prova da existência do crime e indícios suficientes de autoria.
+No caso, a manutenção da prisão preventiva revela-se necessária para a garantia da ordem pública, diante da gravidade concreta da conduta, evidenciada pela apreensão de 13 tabletes de maconha (189 g), 45 buchas de cocaína (26 g) e 10 porções de haxixe (11 g), bem como pela tentativa de fuga com investimento do veículo contra a viatura policial, causando danos e empreendendo evasão. Soma-se o indicativo de reiteração delitiva, pois há ação penal em andamento pelo mesmo crime de tráfico de drogas (processo n. 5010006-36.2025.8.21.0101), tendo o paciente sido preso em flagrante em 12/11/2025 e solto em 14/11/2025, o que evidencia risco concreto de repetição delitiva; elementos que, mesmo diante de condições pessoais favoráveis, autorizam a segregação cautelar para evitar novos delitos.
+Nesse sentido:
+AGRAVO REGIMENTAL EM HABEAS CORPUS. TRÁFICO DE DROGAS. PREVENTIVA. FUNDAMENTAÇÃO IDÔNEA. GARANTIA DA ORDEM PÚBLICA. RISCO CONCRETO DE REITERAÇÃO DELITIVA. MEDIDAS CAUTELARES ALTERNATIVAS. INSUFICIÊNCIA.
+1. Nos termos da jurisprudência desta Corte Superior, é idônea a decretação da prisão preventiva fundada no risco concreto de reiteração delitiva, extraído da existência de maus antecedentes, reincidência, atos infracionais pretéritos, inquéritos ou ações penais em curso (AgRg no HC n. 759.478/SP, Ministro Rogerio Schietti Cruz, Sexta Turma, DJe 23/8/2022).
+2. No caso em exame, ainda que o agravante tenha sido apreendido com reduzida quantidade de entorpecentes, ostenta antecedentes criminais por delitos graves - tentativa de homicídio, porte ilegal de arma de fogo, lesão corporal e ameaça -, além de ter obtido alvará de soltura em 24/1/2024, vindo a ser novamente preso em flagrante em 28/2/2025. Tais elementos revelam efetivo risco à ordem social, justificando a manutenção da custódia cautelar como medida necessária à preservação da ordem pública.
+3. Considerada a reiteração delitiva que recomenda a manutenção da custódia ante tempus, não se mostra suficiente, no caso, a aplicação de medidas cautelares diversas, nos termos do art. 282, inciso II, do Código de Processo Penal.
+4. Agravo regimental improvido.
+(AgRg no HC n. 1.002.703/ES, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 1/7/2025, DJEN de 7/7/2025.)
+DIREITO PROCESSUAL PENAL. AGRAVO REGIMENTAL NO RECURSO EM HABEAS CORPUS. TRÁFICO DE DROGAS. PRISÃO PREVENTIVA. REITERAÇÃO DELITIVA DO AGENTE. RECURSO DESPROVIDO.
+I. Caso em exame1. Agravo regimental interposto contra decisão que negou provimento a recurso em habeas corpus, mantendo a prisão preventiva do agravante, acusado de tráfico de drogas.
+2. O agravante foi preso em flagrante com 12 invólucros de cocaína, pesando aproximadamente 5,27g, além de dinheiro e dois celulares pertencentes a pessoas desconhecidas. A prisão foi convertida em preventiva pelo juízo de origem, fundamentada na garantia da ordem pública e na alta probabilidade de reiteração delitiva.
+3. A Corte de origem manteve a prisão preventiva, destacando a gravidade concreta da conduta e a periculosidade do agravante, que possui registros de atos infracionais análagos a crimes graves, quais sejam: "2024-040246425- 001 (lesão corporal portando arma de fogo), 2024-034782826-001 (ameaça), 2024-018485823-001 (posse ilegal de munição), 2024- 006872617-001 (tráfico), 2024-002029167-001 (homicídio tentado), 2024-000760550-001 (homicídio tentado), todos do ano de 2024".
+II. Questão em discussão4. A questão em discussão consiste em saber se a prisão preventiva do agravante é justificada pela garantia da ordem pública, considerando a pequena quantidade de drogas apreendidas e os antecedentes do agravante.
+5. A defesa alega que o agravante é primário, possui bons antecedentes, trabalho lícito e residência fixa, e que os atos infracionais anteriores não podem ser valorados negativamente, pois não resultaram em condenação.
+III. Razões de decidir6. A manutenção da prisão preventiva é justificada pela necessidade de garantir a ordem pública, diante da alta probabilidade de reiteração delitiva do agravante, evidenciada por seus inúmeros registros de atos infracionais equiparados a delitos graves cometidos em um só ano.
+7. A pequena quantidade de drogas apreendidas não afasta a necessidade da prisão preventiva, considerando a periculosidade social do agravante.
+IV. Dispositivo e tese8. Agravo regimental desprovido.
+Tese de julgamento: "A prisão preventiva é justificada pela garantia da ordem pública quando há alta probabilidade de reiteração delitiva, evidenciada por antecedentes criminais."
+Dispositivos relevantes citados: CPP, art. 312; Lei 11.343/06, art. 33.Jurisprudência relevante citada: STJ, RHC 107.238/GO, Rel. Min. Antonio Saldanha Palheiro, Sexta Turma, DJe 12/03/2019; STJ, RHC 112.720/SC, Rel. Min. Laurita Vaz, Sexta Turma, julgado em 25/6/2019, DJe 2/8/2019; STJ, AgRg no HC n. 741.621/SC, Rel. Min. Reynaldo Soares da Fonseca, Quinta Turma, julgado em 23/8/2022, DJe de 30/8/2022.
+(AgRg no RHC n. 208.389/MG, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 26/2/2025, DJEN de 7/3/2025.)
+Diante do exposto, indefiro liminarmente o habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
