@@ -1,0 +1,70 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 24/03/2026 a 30/03/2026, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros João Otávio de Noronha, Raul Araújo, Maria Isabel Gallotti e Antonio Carlos Ferreira votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro João Otávio de Noronha.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AÇÃO COMINATÓRIA - DECISÃO MONOCRÁTICA DA PRESIDÊNCIA DESTA CORTE QUE NEGOU PROVIMENTO AO RECLAMO. INSURGÊNCIA DO ADVOGADO DO AUTOR.
+1. A revisão dos critérios adotados pelo Tribunal de origem para fixação dos honorários advocatícios por equidade demandaria o reexame do conjunto fático-probatório dos autos, o que é vedado em sede de recurso especial, nos termos da Súmula 7/STJ.
+2. O Tribunal de origem, com base nos elementos de convicção dos autos, concluiu que, embora o valor dos medicamentos fornecidos seja eventualmente quantificável, a ação foi extinta pela morte do autor, impossibilitando a mensuração do proveito econômico pretendido, que era o fornecimento contínuo dos medicamentos, sendo o proveito econômico, em ações que tutelam o direito à saúde, considerado inestimável.
+3. A jurisprudência desta Corte Superior é pacífica no sentido de que os honorários advocatícios sucumbenciais, por obedecerem os critérios previstos no art. 85 do CPC/2015 - respeitados os parâmetros legais estabelecidos no dispositivo -, não podem ser revistos em sede de recurso especial, sob pena de afronta ao óbice da Súmula 7/STJ.
+4. Agravo interno desprovido.
+RELATÓRIO
+O EXMO. SR. MINISTRO LUÍS CARLOS GAMBOGI (DESEMBARGADOR CONVOCADO DO TJMG: Cuida-se de agravo interno (fls. 806-810, e-STJ), interposto por PABLO VIEIRA NETO, em face de decisão monocrática da lavra da Presidência desta Corte, que conheceu do agravo para não conhecer do recurso especial.
+Em decisão monocrática proferida às fls. 801-803, e-STJ, considerou-se inadmissível o apelo nobre em razão da incidência da Súmula 7 do STJ.
+Inconformado, o agravante refuta o óbice sumular alegando que a questão posta no Recurso Especial é de direito, não demandando reexame de provas (fls. 806-810, e-STJ).
+Impugnação às fls. 816-824, e-STJ.
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AÇÃO COMINATÓRIA - DECISÃO MONOCRÁTICA DA PRESIDÊNCIA DESTA CORTE QUE NEGOU PROVIMENTO AO RECLAMO. INSURGÊNCIA DO ADVOGADO DO AUTOR.
+1. A revisão dos critérios adotados pelo Tribunal de origem para fixação dos honorários advocatícios por equidade demandaria o reexame do conjunto fático-probatório dos autos, o que é vedado em sede de recurso especial, nos termos da Súmula 7/STJ.
+2. O Tribunal de origem, com base nos elementos de convicção dos autos, concluiu que, embora o valor dos medicamentos fornecidos seja eventualmente quantificável, a ação foi extinta pela morte do autor, impossibilitando a mensuração do proveito econômico pretendido, que era o fornecimento contínuo dos medicamentos, sendo o proveito econômico, em ações que tutelam o direito à saúde, considerado inestimável.
+3. A jurisprudência desta Corte Superior é pacífica no sentido de que os honorários advocatícios sucumbenciais, por obedecerem os critérios previstos no art. 85 do CPC/2015 - respeitados os parâmetros legais estabelecidos no dispositivo -, não podem ser revistos em sede de recurso especial, sob pena de afronta ao óbice da Súmula 7/STJ.
+4. Agravo interno desprovido.
+VOTO
+O EXMO. SR. MINISTRO LUÍS CARLOS GAMBOGI (DESEMBARGADOR CONVOCADO DO TJMG: O agravo interno não merece acolhida.
+1. No recurso especial, o recorrente aponta ofensa ao art. 85, §§ 2º e 8º, do CPC/2015, ao fundamento de que o proveito econômico obtido na demanda foi concretamente mensurado no processo, alcançando o valor de R$ 274.069,35 (duzentos e setenta e quatro mil, sessenta e nove reais e trinta e cinco centavos), correspondente ao custo dos medicamentos fornecidos pela recorrida até o falecimento do autor.
+A esse respeito, o Tribunal local, com amparo nos elementos de convicção dos autos, decidiu pela possibilidade de fixação dos honorários advocatícios por equidade, considerando que a ação foi extinta pela morte do autor. Confira-se trecho extraído do aresto hostilizado (fl. 689, e-STJ):
+"No caso, em que pese o valor dos medicamentos fornecidos seja eventualmente quantificável, sequer houve condenação definitiva à obrigação de fazer, pois a ação foi extinta em razão da morte do autor, pouco mais de 3 (três) meses após a concessão da liminar, impossibilitando a mensuração do proveito econômico pretendido, que era o fornecimento contínuo dos medicamentos.
+Ressalto, por oportuno, que o agravante limitou-se a indicar o valor dos medicamentos por estimativa, que obteve através de pesquisa ao site consultaremedios.com.br, de modo que não há nos autos a efetiva comprovação de que foram dispendidos, em favor do autor, fármacos no importe alegado de R$ 274.069,35 (duzentos e setenta e quatro mil, sessenta e nove reais e trinta e cinco centavos), não havendo como afirmar que o valor econômico seja claramente aferível.
+Versando os autos sobre direito a disponibilização de medicamentos pela operadora do plano de saúde, e diante da extinção do feito em razão do falecimento do requerente, a verba honorária deve ser estabelecida por meio de apreciação equitativa."
+Nesse contexto, destaco que a jurisprudência desta Corte firmou o entendimento de que apenas se admite a fixação dos honorários sucumbenciais em caso de proveito econômico inestimável ou irrisório, ou se o valor da causa for muito baixo:
+AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. AÇÃO RENOVATÓRIA DE ALUGUEL. OMISSÃO. AUSÊNCIA. PREQUESTIONAMENTO.
+AUSÊNCIA. SÚMULA 211/STJ. DEFICIÊNCIA DE FUNDAMENTAÇÃO. SÚMULA 284/STF. HONORÁRIOS ADVOCATÍCIOS. ART. 85, § 2º, DO CPC. PROVEITO ECONÔMICO. PARCIAL PROVIMENTO.
+1. O Tribunal de origem dirimiu fundamentadamente a controvérsia, sem incorrer em omissão, obscuridade, contradição ou erro material.
+2. A ausência de prequestionamento impede o conhecimento da questão pelo Superior Tribunal de Justiça. Incidência da Súmula n. 211 do STJ.
+3. É deficiente a argumentação do recurso especial que se sustenta em dispositivo de lei que não contém comando normativo capaz de infirmar os fundamentos do acórdão recorrido. Incidência da Súmula n. 284 do STF.
+4. A Corte Especial, no julgamento do Tema Repetitivo 1076 (relator Ministro Og Fernandes, DJe de 31/5/2022), firmou entendimento no sentido de que "apenas se admite arbitramento de honorários por equidade quando, havendo ou não condenação: (a) o proveito econômico obtido pelo vencedor for inestimável ou irrisório; ou (b) o valor da causa for muito baixo", hipóteses que não se configuram na espécie.
+5. A verba honorária referente a ação renovatória de aluguel julgada parcialmente procedente deve incidir sobre a diferença entre o valor do aluguel na data da citação e o novo valor fixado na sentença, quantia a ser multiplicada pelo período de vigência da renovação da locação, pois esse montante reflete objetivamente o proveito econômico obtido pela parte.
+6. Agravo interno parcialmente provido."
+(AgInt no AREsp 2.103.614/RJ, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 12/12/2022, DJe de 16/12/2022)
+No presente caso, verifica-se que o Tribunal de origem considerou inestimável o proveito econômico considerando a ausência de efetiva condenação à obrigação de fazer, em razão da extinção do feito, e de comprovação dos valores dos medicamentos despendidos, que foram indicados pelo recorrente por mera estimativa, realizada em pesquisa em site da internet.
+Assim, para acolhimento do apelo extremo, seria imprescindível derruir a afirmação contida no acórdão recorrido, o que, forçosamente, ensejaria em rediscussão de matéria fática, incidindo, na espécie, o óbice da Súmula n. 7 deste Superior Tribunal de Justiça. Nesse sentido:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. COBRANÇA DE SEGURO OBRIGATÓRIO DPVAT. HONORÁRIOS ADVOCATÍCIOS SUCUMBENCIAIS. VALOR. REVISÃO. SÚMULAS 7 E 83 DO STJ. DISSÍDIO JURISPRUDENCIAL NÃO DEMONSTRADO. HONORÁRIOS RECURSAIS. MAJORAÇÃO RAZOÁVEL. AGRAVO NÃO PROVIDO.
+1. A Segunda Seção desta Corte Superior pacificou o entendimento de que o § 8º do art. 85, transmite regra excepcional, de aplicação subsidiária, em que se permite a fixação dos honorários sucumbenciais por equidade, para as hipóteses em que, havendo ou não condenação: (I) o proveito econômico obtido pelo vencedor for inestimável ou irrisório; ou (II) o valor da causa for muito baixo.
+Precedente: (REsp 1746072/PR, Rel. Ministra NANCY ANDRIGHI, Rel. p/ Acórdão Ministro RAUL ARAÚJO, SEG UNDA SEÇÃO, julgado em 13/02/2019, DJe 29/03/2019).
+2. O reexame dos critérios fáticos levados em consideração para fixar os honorários advocatícios, em princípio, é inviável em sede de recurso especial, ante o teor da Súmula 7 do STJ.
+3. O dissídio jurisprudencial não foi devidamente demonstrado à míngua do indispensável cotejo analítico.
+4. Não se mostra excessiva a majoração dos honorários advocatícios em 15% sobre o valor já arbitrado nas instâncias ordinárias, na forma do art. 85, §11, do CPC/2015. Precedentes.
+5. Agravo interno não provido.
+(AgInt no AREsp n. 1.810.980/MT, relator Ministro Luis Felipe Salomão, Quarta Turma, julgado em 21/2/2022, DJe de 25/2/2022. Grifei.)
+Por fim, registro que o acórdão recorrido não viola a tese vinculante firmada por esta Corte no julgamento do Tema Repetitivo 1076, que estabeleceu a impossibilidade de fixar honorários por equidade em causas de valor elevado.
+Com efeito, o art. 85, §§ 2º e 8º, do CPC/2015 estabelece os critérios para a fixação dos honorários advocatícios, delimitando os percentuais a serem obedecidos pelo julgador quando da fixação da verba de sucumbência.
+Conforme ressaltado, a Corte de origem considerou inestimável o proveito econômico da demanda, com base nos elementos do caso concreto - ausência de condenação e de comprovação do valor dos medicamentos fornecidos - razão pela qual incide a exceção tratada no Tema Repetitivo citado. A propósito:
+CIVIL. DIREITOS AUTORAIS. AUSÊNCIA DE INDICAÇÃO DO AUTOR. ATO ILÍCITO INDENIZÁVEL. REVISÃO DO VALOR DA INDENIZAÇÃO POR DANO MORAL. VALOR NÃO EXCESSIVO OU DESPREZÍVEL. SÚMULA 7 DO STJ. HONORÁRIOS. PROVEITO ECONÔMICO INESTIMÁVEL. HONORÁRIOS. TEMA 1.076 DO STJ. ARBITRAMENTO POR EQUIDADE. POSSIBILIDADE.
+1. Cuida-se de recurso especial em que se discute a) se a reprodução de trecho de obra audiovisual sem a correta indicação do detentor dos direitos autorais consiste em ato ilícito indenizável e b) a possibilidade fixação de honorários por arbitramento na forma do art. 85, §8º, quando o proveito econômico auferido for inestimável.
+2. Os direitos autorais são expressão dos direitos da personalidade que podem ter reflexos patrimoniais, como a exploração econômica da obra. A correta creditação da obra ao autor é integrante do aspecto moral dos direitos autorais (art. 24, inc. II, da Lei n. 9.610) e a indicação incorreta é ilícito indenizável.
+3. A revisão do quantum indenizatório fixado a título de danos morais demandaria reexame do conjunto fático-probatório, esbarrando no óbice da Súmula 7/STJ.
+4. No presente caso não houve improcedência quanto ao direito material de reparação civil por dano material, uma vez que o acórdão concluiu pela improcedência do pedido, ante a ausência de provas que comprovassem o efetivo prejuízo econômico sofrido pelos autores.
+Assim, o proveito econômico ao ponto é inestimável.
+5. Segundo o Tema 1.076 do STJ, no caso de proveito econômico inestimável, é possível o arbitramento de honorários com base no art. 86, §8º, do CPC.
+Recurso especial de Rádio e Televisão Record S.A. improvido. Recurso especial de GGP Produções Ltda. e PROMOART Promoções Artísticas Ltda. não conhecido. Recurso interposto por J.P. Figueira Produções Artísticas Ltda. e Jacinto Paulo Figueira prejudicado.
+(REsp n. 1.888.672/SP, relator Ministro Humberto Martins, Terceira Turma, julgado em 9/6/2025, DJEN de 12/6/2025. Grifou-se.)
+Nesse contexto, segundo o entendimento jurisprudencial desta Corte, os honorários advocatícios sucumbenciais, por obedecerem os critérios previstos no art. 85 do CPC/2015 - respeitados os parâmetros legais estabelecidos no dispositivo -, não podem ser revistos, em sede de recurso especial, sob pena de afronta ao óbice da Súmula 7/STJ:
+PROCESSUAL CIVIL E TRIBUTÁRIO. RECURSO ESPECIAL. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA. EXECUÇÃO FISCAL. EXTINÇÃO DECORRENTE DE PROVIMENTO ALCANÇADO EM AÇÃO CONEXA. HONORÁRIOS ADVOCATÍCIOS. FIXAÇÃO. CRITÉRIO DA EQUIDADE. VALOR. REVISÃO. REEXAME DE PROVA. IMPOSSIBILIDADE.
+1. Inexiste ofensa aos arts. 489, § 1º, e 1.022 do CPC/2015 quando o Tribunal de origem se manifesta de modo fundamentado acerca das questões que lhe foram submetidas, apreciando integralmente a controvérsia posta nos autos, porquanto julgamento desfavorável ao interesse da parte não se confunde com negativa ou ausência de prestação jurisdicional.
+2."Esta Corte Superior possui orientação firme no sentido da possibilidade de fixação da verba honorária, em atenção ao critério da equidade, quando a extinção da execução fiscal, sem resolução do mérito, decorrer de acolhimento de pedido deduzido em ação conexa em que se discutiu a validade do crédito exequendo" (AgInt no REsp 2.013.832/SC, relator Ministro Paulo Sérgio Domingues, Primeira Turma, julgado em 24/6/2024, DJe de 26/6/2024.).
+3. Não se admite o recurso especial para reapreciar o valor dos honorários advocatícios fixados por equidade, ante o óbice da Súmula 7 do STJ, exceto quando quantificados de forma irrisória ou exorbitante, o que não é o caso dos autos.
+4. Agravo interno desprovido.
+(AgInt no AREsp n. 2.656.432/SP, relator Ministro GURGEL DE FARIA, Primeira Turma, julgado em 24/3/2025, DJEN de 31/3/2025.)
+3. Do exposto, nego provimento ao agravo interno.
+É como voto.
