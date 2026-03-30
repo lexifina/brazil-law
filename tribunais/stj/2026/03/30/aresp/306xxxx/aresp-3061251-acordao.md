@@ -1,0 +1,96 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 24/03/2026 a 30/03/2026, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Luís Carlos Gambogi (Desembargador Convocado do TJMG), João Otávio de Noronha, Raul Araújo e Maria Isabel Gallotti votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro João Otávio de Noronha.
+EMENTA
+PROCESSUAL CIVIL. CIVIL. AGRAVO EM RECURSO ESPECIAL. FUNDAMENTO DO ACÓRDÃO RECORRIDO. IMPUGNAÇÃO. AUSÊNCIA. SÚMULA N. 283/STF. PERÍCIA. DISCREPÂNCIAS. VERIFICAÇÃO. SÚMULA N. 7/STJ. MÁ VALORAÇÃO DAS PROVAS DOS AUTOS. INEXISTÊNCIA. AGRAVO NOS PRÓPRIOS AUTOS NÃO PROVIDO.
+I. Razões de decidir
+1. O recurso especial que não impugna fundamento do acórdão recorrido suficiente para mantê-lo não deve ser admitido, a teor da Súmula n. 283/STF.
+2. Segundo a jurisprudência do STJ, "o juiz é o destinatário da prova e, conforme o sistema de persuasão racional previsto no art. 371 do CPC, pode decidir motivadamente sobre os elementos necessários para a formação de seu convencimento, sendo livre para indeferir provas consideradas inúteis ou protelatórias" (AREsp n. 2.992.448/SP, relatora Ministra DANIELA TEIXEIRA, TERCEIRA TURMA, julgado em 3/11/2025, DJEN de 6/11/2025).
+3. O recurso especial não comporta o exame de questões que impliquem revolvimento do contexto fático-probatório dos autos (Súmula n. 7/STJ).
+4. A Corte local, soberana na análise do conjunto fático-probatório dos autos, entendeu que as circunstâncias do caso concreto, verificadas à época do julgamento, não demonstraram as inconsistências apontadas pela parte recorrente sobre o laudo pericial, estando, desse modo, comprovado o seu inadimplemento em concluir integralmente as obras do empreendimento imobiliário. Por isso, a Corte estadual, validando a aplicação da teoria da exceção de contrato não cumprido em favor da parte recorrida (CC/2002, art. 476), autorizou a rescisão contratual com a fixação dos encargos rescisórios postulados pela parte adversa. Modificar tal entendimento exigiria nova análise do conjunto probatório dos autos, medida inviável em recurso especial, nos termos da Súmula n. 7/STJ.
+5. "Conforme jurisprudência desta Corte, a errônea valoração da prova que enseja a incursão do STJ é a de direito, ou seja, quando decorre de má aplicação de regra ou princípio no campo probatório, e não para que se colham novas conclusões sobre os elementos informativos do processo" (AgInt no AREsp n. 2.243.822/RO, relator Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 17/11/2025, DJEN de 25/11/2025).
+6. No caso, inexistiu a má valoração das provas imputada pela parte às instâncias de origem, mas sim tentativa de reexame das premissas de acolhimento da pretensão da parte recorrida de rescisão do contrato de coparticipação no empreendimento imobiliário com os ônus financeiros daí advindos, a pretexto de corrigir o referido vício processual.
+II. Dispositivo
+7. Agravo nos próprios autos não provido.
+RELATÓRIO
+Trata-se de agravo nos próprios autos (CPC/2015, art. 1.042) interposto contra decisão que inadmitiu o recurso especial sob os seguintes fundamentos: (a) ausência de demonstração de ofensa ao artigo de lei indicado, (b) aplicação da Súmula n. 7/STJ e (c) falta de cotejo analítico para comprovar o dissídio jurisprudencial (fls. 4.412-4.414).
+O acórdão do TJSP traz a seguinte ementa (fl. 560):
+RESCISÃO CONTRATUAL - EMPREENDIMENTO IMOBILIÁRIO - INADIMPLEMENTO CULPOSO DAS AUTORAS - RESTITUIÇÃO DE VALORES ANTE EXCEÇÃO DE CONTRATO NÃO CUMPRIDO - ART. 476 DO CÓDIGO CIVIL - SENTENÇA MANTIDA - RECURSOS DESPROVIDOS.
+Os embargos de declaração foram rejeitados (fls. 3.891-3.893).
+No recurso especial (fls. 3.836-3.851), fundamentado no art. 105, III, "a", da CF, a parte recorrente apontou dissídio jurisprudencial e violação do art. 473, IV, § 1º, do CPC/2015, aduzindo que, ante a má valoração do laudo pericial, teria sido indevidamente condenada à restituição dos valores cobrados pela parte contrária, após a rescisão do contrato de coparticipação no empreendimento imobiliário descrito na inicial e seus aditivos.
+Acrescentou que, "ao contrário do que afirmou o r. acórdão, existe nos autos comprovação quanto aos créditos da requerida, ora recorrente, é inquestionável que referida decisão baseou-se em premissa equivocada e, portanto, deve ser considerada nula" (fl. 3.848).
+Sem contrarrazões (fl. 4.411).
+O agravo (fls. 4.418-4.425) afirma a presença de todos os requisitos de admissibilidade do especial.
+Contraminuta apresentada, requerendo a condenação da parte agravante ao pagamento de multa por litigância de má-fé, assim como o arbitramento de honorários de recursais (fls. 4.429-4.438).
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. CIVIL. AGRAVO EM RECURSO ESPECIAL. FUNDAMENTO DO ACÓRDÃO RECORRIDO. IMPUGNAÇÃO. AUSÊNCIA. SÚMULA N. 283/STF. PERÍCIA. DISCREPÂNCIAS. VERIFICAÇÃO. SÚMULA N. 7/STJ. MÁ VALORAÇÃO DAS PROVAS DOS AUTOS. INEXISTÊNCIA. AGRAVO NOS PRÓPRIOS AUTOS NÃO PROVIDO.
+I. Razões de decidir
+1. O recurso especial que não impugna fundamento do acórdão recorrido suficiente para mantê-lo não deve ser admitido, a teor da Súmula n. 283/STF.
+2. Segundo a jurisprudência do STJ, "o juiz é o destinatário da prova e, conforme o sistema de persuasão racional previsto no art. 371 do CPC, pode decidir motivadamente sobre os elementos necessários para a formação de seu convencimento, sendo livre para indeferir provas consideradas inúteis ou protelatórias" (AREsp n. 2.992.448/SP, relatora Ministra DANIELA TEIXEIRA, TERCEIRA TURMA, julgado em 3/11/2025, DJEN de 6/11/2025).
+3. O recurso especial não comporta o exame de questões que impliquem revolvimento do contexto fático-probatório dos autos (Súmula n. 7/STJ).
+4. A Corte local, soberana na análise do conjunto fático-probatório dos autos, entendeu que as circunstâncias do caso concreto, verificadas à época do julgamento, não demonstraram as inconsistências apontadas pela parte recorrente sobre o laudo pericial, estando, desse modo, comprovado o seu inadimplemento em concluir integralmente as obras do empreendimento imobiliário. Por isso, a Corte estadual, validando a aplicação da teoria da exceção de contrato não cumprido em favor da parte recorrida (CC/2002, art. 476), autorizou a rescisão contratual com a fixação dos encargos rescisórios postulados pela parte adversa. Modificar tal entendimento exigiria nova análise do conjunto probatório dos autos, medida inviável em recurso especial, nos termos da Súmula n. 7/STJ.
+5. "Conforme jurisprudência desta Corte, a errônea valoração da prova que enseja a incursão do STJ é a de direito, ou seja, quando decorre de má aplicação de regra ou princípio no campo probatório, e não para que se colham novas conclusões sobre os elementos informativos do processo" (AgInt no AREsp n. 2.243.822/RO, relator Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 17/11/2025, DJEN de 25/11/2025).
+6. No caso, inexistiu a má valoração das provas imputada pela parte às instâncias de origem, mas sim tentativa de reexame das premissas de acolhimento da pretensão da parte recorrida de rescisão do contrato de coparticipação no empreendimento imobiliário com os ônus financeiros daí advindos, a pretexto de corrigir o referido vício processual.
+II. Dispositivo
+7. Agravo nos próprios autos não provido.
+VOTO
+É assente no STJ a orientação de que "o juiz é o destinatário da prova e, conforme o sistema de persuasão racional previsto no art. 371 do CPC, pode decidir motivadamente sobre os elementos necessários para a formação de seu convencimento, sendo livre para indeferir provas consideradas inúteis ou protelatórias" (AREsp n. 2.992.448/SP, relatora Ministra DANIELA TEIXEIRA, TERCEIRA TURMA, julgado em 3/11/2025, DJEN de 6/11/2025).
+Na mesma linha:
+CIVIL. PROCESSUAL CIVIL. RECURSOS ESPECIAIS ISOLADOS. RECURSO DE PATO BRANCO. AGRAVO DE INSTRUMENTO. AÇÃO DE COBRANÇA DE INDENIZAÇÃO SECURITÁRIA. SUPERMERCADO LOCALIZADO EM SHOPPING CENTER. COBERTURA SECURITÁRIA. PROVA PERICIAL. DEVER DE FUNDAMENTAÇÃO. AUSÊNCIA. PROVA DOCUMENTAL SUFICIENTE. DESNECESSIDADE DE PERÍCIA. RECURSO ESPECIAL PROVIDO. RECURSO DE SOMPO. AGRAVO DE INSTRUMENTO. AÇÃO DE COBRANÇA DE INDENIZAÇÃO SECURITÁRIA. SUPERMERCADO LOCALIZADO EM SHOPPING CENTER. COBERTURA SECURITÁRIA. INDEFERIMENTO DE PRODUÇÃO DE PROVA. ALEGADO CERCEAMENTO DE DEFESA. MATÉRIA FÁTICA. ÓBICE DA SÚMULA N. 7 DO STJ. APLICAÇÃO DO CDC. PESSOA JURÍDICA. DESTINATÁRIA FINAL. PRECEDENTES DO STJ. INVERSÃO DO ÔNUS DA PROVA. POSSIBILIDADE. DEMONSTRAÇÃO DE HIPOSSUFICIÊNCIA TÉCNICA, JURÍDICA OU ECONÔMICA. VERIFICAÇÃO. SÚMULA N. 7 DO STJ. PECULIARIDADES DO CASO CONCRETO. RECURSO CONHECIDO EM PARTE E, NESSA EXTENSÃO, NÃO PROVIDO.
+ ..
+4. A realização de prova pericial é dispensável quando os documentos já juntados aos autos, como a proposta e a apólice de seguro, são suficientes para determinar a extensão da cobertura securitária contratada.
+5. O indeferimento de provas adicionais, como expedição de ofícios, oitiva de testemunha e inspeção judicial, não caracteriza cerceamento de defesa quando o conjunto probatório existente é suficiente para o julgamento da causa, em conformidade com o princípio do livre convencimento motivado do juiz, nos termos dos arts. 370 e 371, ambos do CPC.
+6. Qualquer outra análise acerca do alegado cerceamento de defesa, da forma como trazida no apelo nobre, seria impossível, tendo em conta o imprescindível reexame da prova, aqui obstada por força do óbice da Súmula n. 7 desta Corte.
+ ..
+11. Recurso especial da PATO BRANCO provido. Recurso especial da SOMPO conhecido em parte e, nessa extensão, não provido.
+(REsp n. 2.211.911/RO, relator Ministro MOURA RIBEIRO, TERCEIRA TURMA, julgado em 16/12/2025, DJEN de 23/12/2025.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. COISA JULGADA. INCOMPETÊNCIA. INOVAÇÃO RECURSAL. PRECLUSÃO CONSUMATIVA. OFENSA AOS ARTS. 489 E 1.022. INEXISTÊNCIA. DECISÃO SUPRESA. JULGAMENTO EXTRA PETITA . NÃO CONFIGURAÇÃO. ALEGAÇÕES RECURSAIS DEFICIENTES. SÚMULAS N. 283 E 284 DO STF. VIOLAÇÃO DO ART. 371 DO CPC DE 2015. PERSUAÇÃO RACIONAL. CONVENCIMENTO MOTIVADO DO MAGISTRADO. ALTERAÇÃO. IMPOSSIBILIDADE. SÚMULA N. 7 DO STJ. DIVERGÊNCIA JURISPRUDENCIAL. ARTS. 1.029, § 1º, DO CPC E 255, § 1º, DO RISTJ. MULTA PREVISTA NO ART. 1.021, § 4º, DO CPC. INAPLICABILIDADE. AGRAVO INTERNO DESPROVIDO.
+ ..
+7. O magistrado é o destinatário das provas, cabendo-lhe apreciar a necessidade de sua produção, sendo soberano para formar seu convencimento e decidir fundamentadamente, em atenção ao princípio da persuasão racional.
+8. Aplica-se a Súmula n. 7 do STJ ao caso em que o acolhimento da tese defendida no recurso especial reclama a análise dos elementos probatórios produzidos ao longo da demanda.
+ ..
+12. Agravo interno desprovido.
+(AgInt no AREsp n. 1.144.143/MG, relator Ministro JOÃO OTÁVIO DE NORONHA, QUARTA TURMA, julgado em 23/9/2024, DJe de 25/9/2024.)
+DIREITO PROCESSUAL CIVIL. COBRANÇA DE SEGURO. RECURSO ESPECIAL. PROVA. INDEFERIMENTO. CERCEAMENTO. AUSÊNCIA. TESE RECURSAL. DISPOSITIVO LEGAL. FALTA DE CARGA NORMATIVA. SÚMULA N. 284/STF. RECURSO ESPECIAL NÃO CONHECIDO.
+I. Caso em exame
+1. Recurso especial interposto contra acórdão proferido em ação de cobrança de seguro por invalidez permanente.
+II. Razões de decidir
+2. "O juiz é o destinatário das provas e pode indeferir, fundamentadamente, aquelas que considerar desnecessárias, nos termos do princípio do livre convencimento motivado, não configurando cerceamento de defesa o julgamento da causa sem a produção da prova solicitada pela parte, quando devidamente demonstradas a instrução do feito e a presença de dados suficientes à formação do convencimento" (AgInt no AREsp n. 2.368.822/SP, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 2/9/2024, DJe de 4/9/2024).
+ ..
+III. Dispositivo
+4. Recurso especial não conhecido.
+(REsp n. 2.124.560/MT, de minha relatoria, QUARTA TURMA, julgado em 16/12/2025, DJEN de 19/12/2025.)
+A Corte local, soberana na análise do conjunto fático-probatório dos autos, entendeu que as circunstâncias do caso concreto, verificadas à época do julgamento, não demonstraram as inconsistências no laudo pericial do modo apontado pela parte recorrente.
+Por isso, a Justiça de origem concluiu estar provado o inadimplemento da recorrente quanto à conclusão integral das obras do empreendimento imobiliário e por isso ser possível: (a) aplicar a teoria da exceção de contrato não cumprido em favor da parte recorrida (CC/2002, art. 476), e (b) autorizar a rescisão contratual com os encargos postulados pela parte adversa. Confira-se (fls. 561-562):
+De proêmio, cumpre observar que o Contrato firmado entre as partes e seus Aditivos previra obrigações recíprocas, com a divisão dos custos e responsabilidades pela implantação do empreendimento; no entretanto, conforme consignado na r. Sentença, as Autoras não concluíram integralmente a infraestrutura do Loteamento, aplicável a Exceção de Contrato Não Cumprido, prevista no Art. 476 do Código Civil. Ademais, as provas produzidas nos autos, incluindo depoimentos das testemunhas e Laudo Pericial complementar, confirmam que parte das obras foi concluída por terceiros, evidenciado o inadimplemento contratual das Autoras.
+No tocante à pretensão de que a Ré seja compelida a outorgar as Escrituras definitivas, é imprescindível o cumprimento integral das obrigações contratuais pelas Autoras, o que não restou demonstrado, e de aí que inexistente fundamento jurídico para acolher o pedido de entrega dos lotes.
+Quanto à apuração de haveres, a r. Sentença reconheceu que houve substancial adimplemento contratual por parte das Autoras, fixado valor das benfeitorias em R$-800.000,00 conforme Laudo Pericial, coisa que encontra suporte nas provas dos autos, não havendo motivos para sua alteração.
+Alega a Apelante que o Laudo Pericial foi insuficiente e que os serviços realizados por ela geraram crédito a seu favor; todavia, os elementos constantes dos autos não corroboram tal assertivo; o Labor Técnico foi exaustivo ao apurar valores relativos à infraestrutura realizada pelas Autoras, corroborado pelos esclarecimentos do Louvado e pela precariedade de impugnações, todas inconsistentes.
+Ademais, não há comprovação de que a parte Ré realizara obras adicionais que justifiquem o crédito alegado, vendo-se que a pretensão de alterar os valores fixados na sédula Sentença carece de suporte probatório idôneo.
+Ante o exposto, NEGA-SE PROVIMENTO a ambos os recursos, mantendo-se integralmente a R. Sentença por seus próprios fundamentos, mantidas as condenações impostas às partes, nos termos fixados na sédula decisão recorrida.
+Modificar tal entendimento exigiria nova análise do conjunto probatório dos autos, medida inviável em recurso especial, nos termos da Súmula n. 7/STJ.
+Não tendo a parte impugnado o conteúdo normativo do art. 476 do CC/2002, que justificou a declarar a procedência das pretensões rescisória e indenizatória em favor da parte recorrente, nos termos em discussão, é aplicável a Súmula n. 283/STF.
+Ademais, "conforme jurisprudência desta Corte, a errônea valoração da prova que enseja a incursão do STJ é a de direito, ou seja, quando decorre de má aplicação de regra ou princípio no campo probatório, e não para que se colham novas conclusões sobre os elementos informativos do processo" (AgInt no AREsp n. 2.243.822/RO, relator Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 17/11/2025, DJEN de 25/11/2025).
+No mesmo sentido:
+AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. DIREITO PROCESSUAL CIVIL E DIREITO CIVIL. AÇÃO ANULATÓRIA DE NEGÓCIO JURÍDICO. INEXISTÊNCIA DE NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NULIDADE DE ALGIBEIRA RECONHECIDA CONFORME JURISPRUDÊNCIA DO STJ. AUSÊNCIA DE PREQUESTIONAMENTO DOS ARTS. 40, 44 E 47 DO CÓDIGO CIVIL. INCIDÊNCIA DA SÚMULA 211/STJ. REVISÃO FÁTICO-PROBATÓRIA INVIÁVEL. INCIDÊNCIA DA SÚMULA 7/STJ. AFASTAMENTO DA ALEGAÇÃO DE MÁ VALORAÇÃO DA PROVA.
+ ..
+5. "A errônea valoração da prova que enseja a incursão desta Corte na questão é a de direito, ou seja, quando decorre de má aplicação de regra ou princípio no campo probatório, e não que se colham novas conclusões acerca dos elementos informativos do processo" (AgRg no AREsp n. 424.941/MS, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 2/6/2016, DJe de 7/6/2016).
+6. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 2.281.827/PE, relatora Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 24/11/2025, DJEN de 27/11/2025.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. FUNDAMENTO. IMPUGNAÇÃO. AUSÊNCIA. RAZÕES DISSOCIADAS. SÚMULAS NºS 283 E 284/STF. REEXAME DE PROVAS. SÚMULA Nº 7/STJ. DISSÍDIO PREJUDICADO. MULTA. ART. 1.021, § 4º, DO CPC. LITIGÂNCIA. MÁ-FÉ. NÃO VERIFICADA.
+ ..
+3. A errônea valoração da prova que enseja a incursão desta Corte na questão é a de direito, ou seja, quando decorre de má aplicação de regra ou princípio no campo probatório, e não que se colham novas conclusões acerca dos elementos informativos do processo.
+ ..
+7. Agravo interno não provido.
+(AgInt no AREsp n. 2.743.076/SP, relator Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 12/5/2025, DJEN de 19/5/2025.)
+No caso, inexistiu a má valoração das provas imputada pela parte às instâncias de origem, mas sim, a pretexto de corrigir o referido vício processual, tentativa de reexame das premissas de acolhimento da pretensão da parte recorrida para rescindir o contrato de coparticipação no empreendimento imobiliário com os ônus financeiros daí advindos.
+O conhecimento do recurso especial interposto com fundamento na alínea "c" do permissivo constitucional exige, além da indicação do dispositivo legal objeto de interpretação divergente, a demonstração do dissídio, mediante a verificação das circunstâncias que assemelhem ou identifiquem os casos confrontados e a realização do cotejo analítico entre elas, nos termos definidos pelos arts. 255, § 1º, do RISTJ e 1.029, § 1º, do CPC/2015, ônus dos quais a parte recorrente não se desincumbiu.
+Ademais:
+(i) "a incidência da Súmula nº 283 do STF, também obsta o conhecimento do recurso especial quanto ao dissídio" (REsp n. 2.170.633/AL, relator Ministro MOURA RIBEIRO, TERCEIRA TURMA, julgado em 15/12/2025, DJEN de 18/12/2025), e
+(ii) "é impossível conhecer da alegada divergência interpretativa, pois a incidência da Súmula 7 do STJ na questão controversa apresentada é, por consequência, óbice também para a análise do apontado dissídio, o que impede o conhecimento do recurso pela alínea c do permissivo constitucional" (AREsp n. 3.043.381/MS, relator Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 16/12/2025, DJEN de 19/12/2025).
+Por fim, rejeito o pedido de condenação da parte agravante à multa por litigância de má-fé, visto que não ficou demonstrada conduta maliciosa ou temerária a justificar tal sanção, pois a parte tão somente intentava a reforma da decisão que lhe foi desfavorável.
+Diante do exposto, NEGO PROVIMENTO ao agravo.
+Na forma do art. 85, § 11, do CPC/2015, MAJORO os honorários advocatícios em 20% (vinte por cento) do valor arbitrado, observando-se os limites dos §§ 2º e 3º do referido dispositivo.
+É como voto.
