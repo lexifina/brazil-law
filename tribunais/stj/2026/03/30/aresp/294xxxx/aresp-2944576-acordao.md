@@ -1,0 +1,83 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 24/03/2026 a 30/03/2026, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Raul Araújo, Maria Isabel Gallotti, Antonio Carlos Ferreira e Luís Carlos Gambogi (Desembargador Convocado do TJMG) votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro João Otávio de Noronha.
+EMENTA
+DIREITO PRIVADO. AGRAVO EM RECURSO ESPECIAL. PRESCRIÇÃO TRIENAL. ACTIO NATA. DILAÇÃO PROBATÓRIA. CERCEAMENTO DE DEFESA. AGRAVO EM RECURSO ESPECIAL DESPROVIDO.
+I. CASO EM EXAME
+1. Agravo em recurso especial interposto contra decisão de inadmissibilidade fundada, pela alínea a, na ausência de demonstração de violação dos arts. 206, § 3º, IV e V, do Código Civil e na incidência da Súmula n. 7 do STJ; e, pela alínea c, na inobservância do art. 1.029, § 1º, do Código de Processo Civil por falta de cotejo analítico e de similitude fática.
+2. A controvérsia diz respeito à ação de restituição de numerário, em que se pleiteou a devolução de valores pagos em parceria para aquisição de imóvel não concretizada.
+3. A sentença julgou prescrita a pretensão, com base no art. 206, § 3º, IV e V, do Código Civil, extinguindo o processo com resolução de mérito e fixando honorários de 10% sobre o valor atualizado da causa.
+4. A Corte de origem afastou a prescrição, fixou o termo inicial pela actio nata na data da notificação recebida em 29/5/2023 e anulou a sentença por cerceamento de defesa para viabilizar dilação probatória.
+II. QUESTÃO EM DISCUSSÃO
+5. Há cinco questões em discussão: (i) saber se incide o prazo prescricional trienal do art. 206, § 3º, IV, do Código Civil por se tratar de pretensão fundada em enriquecimento sem causa; (ii) saber se incide o prazo prescricional trienal do art. 206, § 3º, V, do Código Civil por se tratar de reparação civil; (iii) saber se o termo inicial da prescrição, à luz do art. 189 do Código Civil, ocorre com os depósitos efetuados; (iv) saber se há divergência jurisprudencial nos termos do art. 105, III, c, da Constituição Federal, demonstrada conforme o art. 1.029, § 1º, do CPC, inclusive em comparação com o AgInt no AREsp n. 1600905; e (v) Nas contrarrazões, há uma questão em discussão: (i) saber se, na espécie, é possível a aplicação de penalidade por litigância de má-fé.
+III. RAZÕES DE DECIDIR
+6. O recurso especial não comporta o acolhimento de teses recursais acerca de questões que impliquem reexame do conjunto fático-probatório dos autos, em face do óbice da Súmula n. 7 do STJ.
+7. Incide a Súmula n. 211 do STJ quando a questão federal não foi apreciada pelo tribunal de origem, apesar dos embargos de declaração.
+8. O dissídio jurisprudencial não pode ser conhecido porque ausentes o cotejo analítico e a demonstração da similitude fática, nos termos do art. 1.029, § 1º, do CPC e do art. 255, § 1º, do RISTJ.
+9. A aplicação de penalidade por litigância de má-fé foi afastada, pois não se configurou a utilização de recursos manifestamente protelatórios.
+IV. DISPOSITIVO E TESE
+10. Agravo em recurso especial desprovido.
+Tese de julgamento: "1. O recurso especial não comporta o acolhimento de teses recursais acerca de questões que impliquem reexame do conjunto fático-probatório dos autos, em face do óbice da Súmula n. 7 do STJ. 2. Incide a Súmula n. 211 do STJ quando a questão federal, a exemplo do art. 189 do Código Civil, não foi apreciada pelo tribunal de origem. 3. O recurso especial pela alínea c exige cotejo analítico e demonstração de similitude fática, nos termos do art. 1.029, § 1º, do CPC e do art. 255, § 1º, do RISTJ. 4. A penalidade por litigância de má-fé não se aplica na ausência de recursos manifestamente protelatórios."
+Dispositivos relevantes citados: CC, arts. 189 e 206, § 3º, IV e V; CF, art. 105, III, c; CPC, arts. 85, § 11, e 1.029, § 1º; RISTJ, art. 255, § 1º.
+Jurisprudência relevante citada: STJ, Súmulas n. 7 e 211. STJ, AgInt no AREsp n. 1.658.454/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 31/8/2020; STJ, EDcl no Agint nos EREsp n. 1.881.207/SP, relator Ministro Ricardo Villas Bôas Cueva, Segunda Seção, julgados em 29/11/2022; STJ, AgInt na Rcl n. 42.586/SP, relatora Ministra Nancy Andrighi, Segunda Seção, julgado em 15/3/2022, DJe de 17/3/2022; STJ, AgInt nos EREsp n. 1.760.825/SC, relator Ministro Marco Aurélio Bellizze, Segunda Seção, julgado em 18/8/2021.
+RELATÓRIO
+Trata-se de agravo em recurso especial interposto por ALAN BOUSSO contra a decisão que inadmitiu o recurso especial, pelos seguintes óbices: pela alínea a, por ausência de demonstração de violação dos arts. 206, § 3º, IV e V, do Código Civil, e pela incidência da Súmula n. 7 do STJ; e, pela alínea c, por não atendimento ao art. 1.029, § 1º, do Código de Processo Civil, diante da ausência de cotejo analítico e da demonstração de similitude fática (fls. 5.654-5.656).
+Alega a parte agravante que os pressupostos de admissibilidade do recurso especial foram atendidos.
+O recurso especial foi interposto, com fundamento no art. 105, III, a e c, da Constituição Federal, contra acórdão do Tribunal de Justiça de São Paulo em apelação nos autos de ação de ressarcimento de valores.
+O julgado foi assim ementado (fl. 5.421):
+APELAÇÃO. AÇÃO DE RESSARCIMENTO DE VALORES. Alegação de aquisição de bem imóvel por parceria em 2010. Sentença de extinção, em razão da prescrição. Irresignação do autor. PRESCRIÇÃO. Afastada. Embora seja o caso de prazo de prescrição trienal, previsto no art. 206, § 3º, IV, do Código Civil, em razão da pretensão de ressarcimento por enriquecimento sem causa, no caso em apreço não ocorreu, porquanto deve ser observada a actio nata que deve levar em conta a ciência inequívoca acerca da impossibilidade de concretização do negócio, mesmo após o pagamento pelo autor, a qual ocorreu em maio de 2023, com o recebimento da notificação por parte do apelado. CERCEAMENTO DE DEFESA. Ocorrência. Necessidade de dilação probatória em razão da incongruência entre as teses aventadas pelas partes. Sentença anulada. Recurso provido.
+Os embargos de declaração opostos foram decididos nestes termos (fl. 5.632):
+EMBARGOS DE DECLARAÇÃO. Embargante aponta a existência de vício no aresto em comento. Não configuração. Inexistência de vício. Provimento colegiado exauriente e devidamente fundamentado. Nítido caráter de infringência. Prequestionamento anotado. EMBARGOS REJEITADOS.
+No recurso especial, a parte aponta, além de divergência jurisprudencial, violação dos seguintes artigos:
+a) 206, § 3º, IV, do Código Civil, porque se trataria de "ação de restituição de numerário", fundada em enriquecimento sem causa, com prescrição trienal;
+b) 206, § 3º, V, do Código Civil, já que a pretensão teria natureza de reparação civil, igualmente sujeita ao prazo trienal; e
+c) 189 do Código Civil, pois o termo inicial da prescrição teria ocorrido com os depósitos efetuados e com o nascimento da pretensão, e não com a notificação extrajudicial.
+Sustenta que o Tribunal de origem, ao decidir pelo afastamento da prescrição com base na teoria da actio nata e ao reconhecer a necessidade de dilação probatória por cerceamento de defesa, divergiu do entendimento dos acórdãos paradigmas apontados.
+Requer o provimento do recurso para restaurar vigência aos dispositivos de lei tidos como violados; requer ainda o provimento do recurso para que se reconheça a prescrição trienal e se reforme o acórdão recorrido.
+Nas contrarrazões, a parte recorrida aduz que falta prequestionamento quanto aos arts. 206, § 3º, V, e 189, do Código Civil; incidem as Súmulas n. 5 e 7 do STJ; houve fundamento inatacado (actio nata/notificação e anulação da sentença); não se demonstrou a divergência nos termos do art. 1.029, § 1º, do CPC; e pugna pelo não conhecimento e, no mérito, pelo desprovimento, com pedido de multa por litigância de má-fé (fls. 5.640-5.653).
+É o relatório.
+EMENTA
+DIREITO PRIVADO. AGRAVO EM RECURSO ESPECIAL. PRESCRIÇÃO TRIENAL. ACTIO NATA. DILAÇÃO PROBATÓRIA. CERCEAMENTO DE DEFESA. AGRAVO EM RECURSO ESPECIAL DESPROVIDO.
+I. CASO EM EXAME
+1. Agravo em recurso especial interposto contra decisão de inadmissibilidade fundada, pela alínea a, na ausência de demonstração de violação dos arts. 206, § 3º, IV e V, do Código Civil e na incidência da Súmula n. 7 do STJ; e, pela alínea c, na inobservância do art. 1.029, § 1º, do Código de Processo Civil por falta de cotejo analítico e de similitude fática.
+2. A controvérsia diz respeito à ação de restituição de numerário, em que se pleiteou a devolução de valores pagos em parceria para aquisição de imóvel não concretizada.
+3. A sentença julgou prescrita a pretensão, com base no art. 206, § 3º, IV e V, do Código Civil, extinguindo o processo com resolução de mérito e fixando honorários de 10% sobre o valor atualizado da causa.
+4. A Corte de origem afastou a prescrição, fixou o termo inicial pela actio nata na data da notificação recebida em 29/5/2023 e anulou a sentença por cerceamento de defesa para viabilizar dilação probatória.
+II. QUESTÃO EM DISCUSSÃO
+5. Há cinco questões em discussão: (i) saber se incide o prazo prescricional trienal do art. 206, § 3º, IV, do Código Civil por se tratar de pretensão fundada em enriquecimento sem causa; (ii) saber se incide o prazo prescricional trienal do art. 206, § 3º, V, do Código Civil por se tratar de reparação civil; (iii) saber se o termo inicial da prescrição, à luz do art. 189 do Código Civil, ocorre com os depósitos efetuados; (iv) saber se há divergência jurisprudencial nos termos do art. 105, III, c, da Constituição Federal, demonstrada conforme o art. 1.029, § 1º, do CPC, inclusive em comparação com o AgInt no AREsp n. 1600905; e (v) Nas contrarrazões, há uma questão em discussão: (i) saber se, na espécie, é possível a aplicação de penalidade por litigância de má-fé.
+III. RAZÕES DE DECIDIR
+6. O recurso especial não comporta o acolhimento de teses recursais acerca de questões que impliquem reexame do conjunto fático-probatório dos autos, em face do óbice da Súmula n. 7 do STJ.
+7. Incide a Súmula n. 211 do STJ quando a questão federal não foi apreciada pelo tribunal de origem, apesar dos embargos de declaração.
+8. O dissídio jurisprudencial não pode ser conhecido porque ausentes o cotejo analítico e a demonstração da similitude fática, nos termos do art. 1.029, § 1º, do CPC e do art. 255, § 1º, do RISTJ.
+9. A aplicação de penalidade por litigância de má-fé foi afastada, pois não se configurou a utilização de recursos manifestamente protelatórios.
+IV. DISPOSITIVO E TESE
+10. Agravo em recurso especial desprovido.
+Tese de julgamento: "1. O recurso especial não comporta o acolhimento de teses recursais acerca de questões que impliquem reexame do conjunto fático-probatório dos autos, em face do óbice da Súmula n. 7 do STJ. 2. Incide a Súmula n. 211 do STJ quando a questão federal, a exemplo do art. 189 do Código Civil, não foi apreciada pelo tribunal de origem. 3. O recurso especial pela alínea c exige cotejo analítico e demonstração de similitude fática, nos termos do art. 1.029, § 1º, do CPC e do art. 255, § 1º, do RISTJ. 4. A penalidade por litigância de má-fé não se aplica na ausência de recursos manifestamente protelatórios."
+Dispositivos relevantes citados: CC, arts. 189 e 206, § 3º, IV e V; CF, art. 105, III, c; CPC, arts. 85, § 11, e 1.029, § 1º; RISTJ, art. 255, § 1º.
+Jurisprudência relevante citada: STJ, Súmulas n. 7 e 211. STJ, AgInt no AREsp n. 1.658.454/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 31/8/2020; STJ, EDcl no Agint nos EREsp n. 1.881.207/SP, relator Ministro Ricardo Villas Bôas Cueva, Segunda Seção, julgados em 29/11/2022; STJ, AgInt na Rcl n. 42.586/SP, relatora Ministra Nancy Andrighi, Segunda Seção, julgado em 15/3/2022, DJe de 17/3/2022; STJ, AgInt nos EREsp n. 1.760.825/SC, relator Ministro Marco Aurélio Bellizze, Segunda Seção, julgado em 18/8/2021.
+VOTO
+A controvérsia diz respeito à ação de restituição de numerário, em que a parte autora pleiteou a condenação do réu na devolução dos valores pagos, com correção monetária e juros legais, relativos a parceria para aquisição de imóvel que não se concretizou. O valor da causa foi fixado em R$ 1.345.500,00 (fl. 15).
+Na sentença, o Juízo de primeiro grau reconheceu a prescrição trienal, nos termos do art. 206, § 3º, IV e V, do Código Civil, extinguindo o processo com resolução de mérito, e fixou honorários advocatícios em 10% sobre o valor atualizado da causa (fls. 5.335-5.336).
+A Corte de origem reformou a sentença para afastar a prescrição, fixando como termo inicial a ciência inequívoca do dano com o recebimento da notificação em 29/5/2023, e anulou a sentença por cerceamento de defesa para viabilizar dilação probatória (fls. 5.423-5.425). Os embargos de declaração foram rejeitados, reiterando-se que a inicial descreve parceria negocial e que não há vício no acórdão (fls. 5.632-5.634).
+I - Art. 206, § 3º, IV e V, do Código Civil
+Alega a recorrente que a pretensão se submeteria ao prazo trienal por se tratar de reparação civil.
+O acórdão recorrido não tratou da responsabilização civil, mas afastou a prescrição com base na actio nata e reconheceu a necessidade de dilação probatória diante da incongruência entre as versões das partes, preservando o exame do mérito para o juízo de origem (fls. 5.423-5.425).
+A reforma da conclusão sobre o termo inicial da prescrição e sobre o enquadramento fático da pretensão demandaria revolvimento do acervo probatório, hipótese vedada pela Súmula n. 7 do STJ.
+II - Art. 189 do Código Civil
+A recorrente afirma que o termo inicial da prescrição deveria ser fixado na data dos depósitos, porquanto teria nascido a pretensão desde tais pagamentos.
+O acórdão recorrido não mencionou o art. 189 do Código Civil e decidiu a controvérsia pelo critério da actio nata a partir da notificação extrajudicial (fls. 5.423-5.425). Os embargos de declaração foram rejeitados sem discussão específica sobre o art. 189 (fls. 5.632-5.634).
+A questão relativa ao art. 189 do Código Civil não foi objeto de análise pelo Tribunal de origem, a despeito da oposição de embargos de declaração. Caso, pois, de aplicação da Súmula n. 211 do STJ.
+III - Divergência jurisprudencial
+A parte alega dissídio, indicando como paradigma o AgInt no AREsp n. 1600905, além de outros precedentes, para sustentar que a prescrição seria trienal e o termo inicial não decorreria da notificação.
+O acórdão recorrido afastou a prescrição pelo marco da actio nata e determinou a dilação probatória, com fundamento nas peculiaridades fáticas do caso (fls. 5.423-5. 425).
+Para a interposição de recurso especial fundado na alínea c do permissivo constitucional, é necessário o atendimento dos requisitos essenciais para a comprovação do dissídio jurisprudencial, conforme prescrições dos arts. 1.029, § 1º, do CPC e 255, § 1º, do RISTJ.
+Isso porque não basta a simples transcrição da ementa dos paradigmas, pois, além de juntar aos autos cópia do inteiro teor dos arestos tidos por divergentes ou de mencionar o repositório oficial de jurisprudência em que foram publicados, deve a parte recorrente proceder ao devido confronto analítico, demonstrando a similitude fática entre os julgados, o que não foi atendido no caso.
+Portanto, está prejudicada a apreciação do dissídio jurisprudencial ante a não realização do devido cotejo analítico.
+IV - Multa por litigância de má-fé
+Quanto à questão relacionada ao pedido formulado em impugnação ao recurso especial, ressalte-se que a litigância de má-fé, passível de ensejar a aplicação de multa e de indenização, configura-se quando houver insistência injustificável da parte na utilização e reiteração indevida de recursos manifestamente protelatórios, o que não ocorreu na espécie (AgInt no AREsp n. 1.658.454/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 31/8/2020, DJe de 8/9/2020).
+No caso, apesar do desprovimento do recurso especial, não está caracterizada a manifesta inadmissibilidade do recurso ou mesmo a litigância temerária, razão pela qual é incabível a aplicação da penalidade acima referida.
+V - Conclusão
+Ante o exposto, nego provimento ao agravo em recurso especial.
+Nos termos do § 11 do art. 85 do Código de Processo Civil, majoro, em 10% sobre o valor já arbitrado nas instâncias de origem, os honorários advocatícios em desfavor da parte ora recorrente, observados, se aplicáveis, os limites percentuais previstos no § 2º do referido artigo e ressalvada eventual concessão de gratuidade de justiça.
+É o voto.
