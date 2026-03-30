@@ -1,0 +1,83 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 24/03/2026 a 30/03/2026, por unanimidade, não conhecer do recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Moura Ribeiro, Daniela Teixeira, Nancy Andrighi e Humberto Martins votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Humberto Martins.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. DIREITO CIVIL. TAXAS CONDOMINIAIS. ÁREAS DE USO COMUM. LOJA TÉRREA COM ACESSO INDEPENDENTE. CONVENÇÃO CONDOMINIAL. DESPESAS. RATEIO. REEXAME FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. SÚMULA Nº 7/STJ.
+1. A convenção do condomínio, ao disciplinar o rateio de despesas, subordina-se às diretrizes estabelecidas nos arts. 1.336, I, e 1.340 do Código Civil.
+2. Na hipótese, rever a conclusão do aresto impugnado acerca da razoabilidade e da proporcionalidade da participação do recorrido no rateio das despesas condominiais demandaria o reexame fático-probatório dos autos, a atrair o óbice na Súmula nº 7/STJ.
+3. Agravo conhecido para não conhecer do recurso especial.
+RELATÓRIO
+Trata-se de agravo interposto por CONDOMÍNIO DO EDIFÍCIO ROSA LUÍZA contra a decisão que inadmitiu recurso especial.
+O apelo nobre, interposto com fundamento no art. 105, inciso III, alíneas "a" e "c", da Constituição Federal, insurge-se contra o acórdão do Tribunal de Justiça do Estado do Rio de Janeiro assim ementado:
+"Apelação cível. Direito condominial. Ação de nulidade de convenção c/c pedido para que o condomínio réu se abstenha de cobrar taxa condominial e encargos, bem como contendo pretensão indenizatória. Impugnação à alteração de convenção condominial que incluiu o estabelecimento comercial autor, loja térrea de acesso independente, no rateio das despesas comuns do condomínio. Sentença de improcedência. Condomínio demandado composto por 48 apartamentos e 6 lojas, essas com entrada direta e independente pela via pública. Prova pericial que, nada obstante conclusiva no sentido de que o estabelecimento em questão usufrui de "algumas facilidades", também concluiu não gerar despesas diretas para o condomínio. Ausência de vinculação obrigatória do magistrado ao laudo pericial. Aplicação do art. 479 do CPC. Ausência de razoabilidade quanto à participação do autor no rateio das despesas comuns. Alteração unilateral e inesperada da relação jurídica existente entre as partes que, à míngua de motivo plausível, acarreta ao réu vantagem econômica, caracterizando, portanto, enriquecimento sem causa. Conduta que, desafiando os princípios da razoabilidade e da proporcionalidade, é definida como abuso de direito. Incidência dos artigos 187 e 884, ambos do CC. Dano moral não configurado, posto traduzir questão de alta indagação ao Poder Judiciário. Modificação parcial da sentença. Recurso provido em parte." (e-STJ fls. 1.026/1.027)
+Nas razões do recurso especial (e-STJ fls. 1.036/1.054), o recorrente alega, além de divergência jurisprudencial, violação dos arts. 3º, 12, §§ 1º e 5º, e 13 da Lei nº 4.591/1964 e 1.336, I, do Código Civil.
+Sustenta que todas as unidades autônomas devem contribuir para as despesas condominiais na proporção da fração ideal, inclusive as lojas térreas com acesso direto à rua, tendo em vista a alteração convencional aprovada por quórum qualificado de 2/3 (dois terços) dos condôminos.
+A contraminuta foi apresentada (e-STJ fls. 1.064/1.068).
+O recurso especial foi inadmitido (e-STJ fls. 1.069/1.077), dando ensejo à interposição do presente agravo.
+É o relatório.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. DIREITO CIVIL. TAXAS CONDOMINIAIS. ÁREAS DE USO COMUM. LOJA TÉRREA COM ACESSO INDEPENDENTE. CONVENÇÃO CONDOMINIAL. DESPESAS. RATEIO. REEXAME FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. SÚMULA Nº 7/STJ.
+1. A convenção do condomínio, ao disciplinar o rateio de despesas, subordina-se às diretrizes estabelecidas nos arts. 1.336, I, e 1.340 do Código Civil.
+2. Na hipótese, rever a conclusão do aresto impugnado acerca da razoabilidade e da proporcionalidade da participação do recorrido no rateio das despesas condominiais demandaria o reexame fático-probatório dos autos, a atrair o óbice na Súmula nº 7/STJ.
+3. Agravo conhecido para não conhecer do recurso especial.
+VOTO
+Ultrapassados os requisitos de admissibilidade do agravo, passa-se ao exame do recurso especial.
+A insurgência não merece prosperar.
+Trata-se, na origem, de ação declaratória de nulidade da alteração da convenção condominial que prevê a participação das lojas térreas, que possuem entrada direta e independente pela via pública, no rateio das despesas condominiais.
+Quanto ao rateio de despesas condominiais, esta Corte de Justiça firmou entendimento no sentido de que a convenção condominial não pode se sobrepor à regra estabelecida pelo art. 1.340 do Código Civil.
+Confira-se:
+"PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. CONDOMÍNIO. ESTACIONAMENTO. CRITÉRIO DE RATEIO. CONTRIBUIÇÃO DO CONDÔMINO APENAS NAQUILO QUE EFETIVAMENTE FOR PARTÍCIPE NA DESPESA E NA PROPORÇÃO DAS FRAÇÕES IDEAIS. DOUTRINA. PRECEDENTES. CORREÇÃO DE ERRO MATERIAL, DE OFÍCIO. POSSIBILIDADE. DECISÃO MANTIDA. AGRAVO INTERNO NÃO PROVIDO.
+1. Aplica-se o NCPC a este recurso ante os termos no Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016)
+serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+2. No caso, a questão concernente à (im)possibilidade de cobrança de despesas condominiais relativas a benfeitoria em face de proprietário de unidade autônoma que não usa ou goza de nenhum benefício resultante de tal manutenção ou melhoramento é unicamente de direito e configura hipótese de violação direta dos dispositivos legais que disciplinam o instituto (arts. 884, 1.336, I, e 1.340, todos do CC/02), razão pela qual é cabível o recurso especial.
+3. A natureza estatutária da convenção de condomínio autoriza a imediata aplicação do regime jurídico previsto no novo Código Civil (REsp nº 722.904/RS, Rel. Ministro CARLOS ALBERTO MENEZES DIREITO, Terceira Turma, DJ 1º/7/2005).
+4. A convenção condominial deve estar em sintonia com a lei porque apesar da autonomia dos condôminos em autorregulamentar suas condutas, jamais poderão perder de vista a lei, cuja obediência se impõe pelo princípio da supremacia da ordem pública sobre as deliberações privadas.
+5. A regra estabelecida no art. 1.340 do novo Código Civil atende ao princípio da equidade, evitando o enriquecimento indevido dos condôminos que se utilizam de serviços ou de partes comuns a diversos deles, em detrimento daqueles que não utilizam os referidos serviços e equipamentos comuns.
+6. Na espécie, o condômino somente pode suportar, na proporção de sua participação no condomínio, as despesas de conservação das coisas de cuja utilização efetivamente participa.
+7. Onde não existe o gozo e/ou o uso da coisa comum, não existe obrigação de suportar os correspondentes dispêndios.
+8. Não sendo a linha argumentativa apresentada capaz de evidenciar a inadequação dos fundamentos invocados pela decisão agravada, o presente agravo não se revela apto a alterar o conteúdo do julgado impugnado, devendo ela ser integralmente mantida em seus próprios termos.
+9. Nos termos da jurisprudência desta Casa, a simples correção de erro material não viola o princípio da non reformatio in pejus.
+10. Agravo interno não provido, com correção de erro material."
+(AgInt nos EDcl nos EDcl no AREsp n. 1.352.120/DF, Relator Ministro Moura Ribeiro, Terceira Turma, julgado em 1º/6/2020, DJe de 4/6/2020 - grifou-se)
+No caso dos autos, a conclusão do Tribunal de origem acerca do mérito da demanda decorreu inquestionavelmente da análise do conjunto fático-probatório carreado aos autos, o que se pode aferir a partir da leitura dos fundamentos do julgado atacado, que ora se colaciona, na parte que interessa:
+"(..)
+Cinge-se a controvérsia acerca do cabimento ou não da cobrança de cotas condominiais relativas à loja de propriedade do autor, aqui apelante, situada no andar térreo do réu.
+A obrigação de pagamento das cotas condominiais pelos condôminos decorre de expressa disposição legal, nos termos do artigo 12 da Lei 4.591/64:
+"Art. 12. Cada condômino concorrerá nas despesas do condomínio, recolhendo, nos prazos previstos na Convenção, a quota-parte que lhe couber em rateio."
+Encontra também previsão no Código Civil:
+"Art. 1.336. São deveres do condômino: I - contribuir para as despesas do condomínio na proporção das suas frações ideais, salvo disposição em contrário na convenção".
+Já a forma de rateio destas despesas entre os condôminos deve ser tratada na convenção que, ostentando natureza de ato-regra, estabelece entre esses uma relação estatutária, vinculando, assim, todos os integrantes do condomínio.
+No caso dos autos, o condomínio réu é composto por 48 apartamentos e 6 lojas, essas com entrada direta e independente pela via pública. A convenção original previa o rateio das despesas condominiais apenas entre as unidades residenciais. Com a alteração promovida pela assembleia em foco, ficou estabelecido no art. 5º da convenção que "As lojas comerciais são unidades autônomas e independentes" para em seguida determinar que "participarão do rateio e pagamento das taxas e cotas condominiais, na proporção de suas frações ideais" (fls. 27/28).
+(..)
+A despeito de a perícia realizada a fls. 771/784, esclarecida a fls. 835/837, ter considerado que o demandante "usufrui de algumas facilidades", observa-se ter o expert também considerado que "a loja possui medidor de energia próprio, assim como hidrômetro e gás" e que "a loja do Autor não gera despesas diretas para o Condomínio Réu" (fls. 783).
+Entretanto, o laudo, em desfavor da parte autora, destacou o seguinte a respeito da utilização de parte comum com a caixa d"água da loja, além de outros aspectos:
+"(..) partes comuns do condomínio para estabelecimento de sua caixa d"água, necessitando entrar no prédio para realizar reparos e manutenção no mesmo; a limpeza e manutenção da fachada do prédio é feita pelo Condomínio; o para-raios do Condomínio protege todo o Condomínio; usufrui do serviço de portaria, entre outros" (fls. 783)
+Porém, tais itens não geram despesas diretas para o réu, restando evidenciada a falta de razoabilidade da participação do autor no rateio das despesas comuns.
+Salienta-se que, quanto a se permitir que o lojista tenha acesso à sua própria caixa d"água, tal ação não gera qualquer custo para o condomínio.
+Outrossim, observa-se ter o perito afirmado que a loja seria beneficiada pelo serviço do porteiro no tocante à entrega de correspondência. A respeito disso, a parte autora demonstrou contrariedade e, tendo questionado ao expert sobre tal afirmação (fls. 792), nada foi esclarecido, silêncio esse que permite entrever uma fragilidade na perícia.
+Como é sabido, o laudo pericial não goza de validade absoluta, podendo o magistrado desconsiderar as conclusões do perito a partir do princípio da persuasão racional no exercício de seu livre convencimento motivado. É o que, a propósito, dispõe o art. 479 do CPC:
+(..)
+Tem-se, portanto, que a alteração da convenção condominial no caso em exame configura, pelo viés dos princípios da razoabilidade e da proporcionalidade, verdadeiro abuso de direito, conduta definida no art. 187 do CC como ato ilícito cometido pelo titular de um direito que, ao exercê-lo, excede manifestamente os limites impostos pelo seu fim econômico ou social, pela boa-fé ou pelos bons costumes.
+Os limites do direito que se pretende exercer sobre o autor afiguram-se, pois, manifestamente excedidos. Ao objetivar vantagem econômica representada pela imposição de rateio das despesas comuns ao demandante à míngua de motivo plausível, o réu, em exercício abusivo de direito, desequilibra a relação existente entre as partes e incorre em enriquecimento indevido, conduta vedada pelo art. 884 do CC.
+Dessa forma, é lícito concluir que, nada obstante o cumprimento dos requisitos legais necessários para a alteração da convenção do condomínio, a imposição de rateio das despesas comuns à parte autora, que possui loja térrea com saída independente e sem benefício direto decorrente da administração pelo condomínio da área de uso comum, constitui, no caso concreto, medida desprovida de razoabilidade.
+Assim, é de se acolher o pedido autoral no tocante à nulidade da alteração da convenção condominial realizada na assembleia que estabeleceu o rateio em seu art. 5º. A convenção original não fazia essa previsão, e por décadas a relação jurídica entre as partes deu-se sem tal cobrança. Em razão do abuso de direito e do enriquecimento sem causa, a alteração efetivada impõe, por conseguinte, a procedência do pleito de reconhecimento de nulidade.
+Dessa forma, é também de se deferir o item 1 do pleito inicial para determinar que o condomínio demandado se abstenha de cobrar da loja 105 as taxas e/ou cotas condominiais e encargos instituídos pela assembleia geral mencionada." (e-STJ fls. 1.027/1.032 - grifou-se)
+Nesse contexto, o acolhimento da pretensão recursal demandaria o revolvimento do acervo fático-probatório dos autos, procedimento inviável ante a natureza excepcional da via eleita, conforme dispõe a Súmula nº 7/STJ.
+A propósito:
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CONDOMÍNIO. LOJA TÉRREA. RATEIO DAS DESPESAS CONDOMINIAIS. CRITÉRIOS PREVISTOS EM CONVENÇÃO DE CONDOMÍNIO. REVISÃO. SÚMULAS 5 E 7/STJ. DIVERGÊNCIA JURISPRUDENCIAL NÃO DEMONSTRADA. AGRAVO INTERNO DESPROVIDO.
+1. Quando a questão envolvendo o rateio das quotas previstas na convenção de condomínio for resolvida com base nas cláusulas contratuais e nos elementos fáticos que permearam a demanda, mostra-se inviável ao Superior Tribunal de Justiça rever a conclusão alcançada pela instância originária, uma vez que implicaria a análise dos termos contratuais e o reexame do conjunto fático-probatório, o que é vedado pelas Súmulas n. 5 e 7 do Superior Tribunal de Justiça.
+2. A jurisprudência vigente nesta Corte Superior, seguindo o disposto no art. 1.029, § 1º, do CPC/2015, c/c art. 255, § 1º, do RISTJ, entende que, para a demonstração da divergência, não basta a simples transcrição da ementa ou voto do acórdão paradigma, fazendo-se necessário o cotejo analítico entre o aresto recorrido e o divergente, com a explicitação da identidade das situações fáticas e a interpretação diversa emprestada ao mesmo dispositivo de legislação infraconstitucional, situação a qual não ficou configurada no apelo especial interposto pelos agravantes.
+3. Agravo interno desprovido."
+(AgInt no AREsp n. 2.349.673/SP, Relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 23/10/2023, DJe de 25/10/2023 - grifou-se)
+"AGRAVO INTERNO NO RECURSO ESPECIAL. COMPRA E VENDA IMOBILIÁRIA. AÇÃO ANULATÓRIA. DIREITO DE PREFERÊNCIA. INEXISTÊNCIA DE CONDOMÍNIO. JUÍZO FACTUAL NÃO INFIRMADO NAS RAZÕES DE RECURSO ESPECIAL. SÚMULAS N. 7 DO STJ E 284 DO STF.
+1. Aplica-se a Súmula n. 7 do STJ ao caso em que o acolhimento da tese defendida no recurso especial reclamar, necessariamente, o reexame do arcabouço fático-probatório dos autos.
+2. É inadmissível o recurso especial quando a fundamentação que lhe dá suporte não guarda correlação específica com o conteúdo decisório. Incidência, por analogia, da Súmula n. 284 do STF.
+3. A incidência das Súmulas n. 7 do STJ e 284 do STF quanto à interposição do recurso especial pela alínea a inviabiliza o exame da divergência jurisprudencial sobre as mesmas questões.
+4. Agravo interno desprovido."
+(AgInt no REsp n. 2.092.896/MG, Relator Ministro João Otávio de Noronha, Quarta Turma, julgado em 16/9/2024, DJe de 18/9/2024 - grifou-se)
+Observa-se, ainda, que o Tribunal de origem não se manifestou acerca dos dispositivos da Lei nº 4.591/1964 indicados pelo recorrente, o que atrai a incidência da Súmula nº 282/STF no ponto .
+Anota-se, por fim, que a aplicação da Súmula nº 7/STJ em relação ao recurso especial interposto pela alínea "a" do permissivo constitucional prejudica a análise da mesma matéria indicada no dissídio jurisprudencial.
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Nos termos do art. 85, § 11, do Código de Processo Civil, os honorários sucumbenciais fixados pelas instâncias ordinárias, devidos pelo ora recorrente, devem ser majorados para R$ 6.000,00 (seis mil reais), atualizados desde o arbitramento na origem, observado o benefício da gratuidade da justiça, se for o caso.
+É o voto.
