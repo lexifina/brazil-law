@@ -1,0 +1,43 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto pelo Distrito Federal contra inadmissão, na origem, de recurso especial fundamentado no art. 105, III, a, da Constituição Federal, manejado contra acórdão do Tribunal de Justiça do Distrito Federal e dos Territórios, assim ementado (fl. 177-178):
+DIREITO PROCESSUAL CIVIL. AGRAVO DE INSTRUMENTO. CUMPRIMENTO INDIVIDUAL DE SENTENÇA COLETIVA. SUSPENSÃO DO PROCESSO. COISA JULGADA INCONSTITUCIONAL. TAXA SELIC. RECURSO CONHECIDO E DESPROVIDO.
+I. CASO EM EXAME
+1. Agravo de instrumento interposto contra decisão que rejeitou impugnação ao cumprimento individual de sentença oriundo da ação coletiva n. 0702195-95.2017.8.07.0018.
+II. QUESTÃO EM DISCUSSÃO
+2. A controvérsia recursal reside em verificar: I - a necessidade de se suspender o cumprimento de sentença até o trânsito em julgado da ação rescisória ajuizada com o objetivo de desconstituir o título exequendo; II - a inexigibilidade do título executivo por alegada coisa julgada inconstitucional; e III - a incidência da taxa Selic, a partir de dezembro de 2021, sobre a valor consolidado do débito.
+III. RAZÕES DE DECIDIR
+3. De acordo com o art. art. 969 do CPC, a propositura de ação rescisória não impede o cumprimento da decisão rescindenda, salvo concessão de tutela provisória no bojo da ação autônoma de impugnação.
+4. Por importar o reexame do mérito de decisão transitada em julgado, a tese relativa à suposta "coisa julgada inconstitucional" formada no título exequendo deve ser debatida na ação rescisória ajuizada para desconstituí-lo, não cabendo sua análise em sede de cumprimento de sentença.
+5. A aplicação da Taxa Selic, a partir de 9 de dezembro de 2021, é determinada pela EC 113/2021, de vigência imediata, alcançando, assim, efeitos futuros relativos a fatos passados, conforme entendimento do STF.
+6. A Resolução 303/2019 do CNJ, com redação dada pela Resolução 482/2022, estabelece que a Taxa Selic incidirá sobre o valor consolidado do débito, correspondente ao crédito principal atualizado monetariamente e aos juros de mora até novembro de 2021. A norma acima transcrita, como ato normativo baixado pelo órgão de controle administrativo das atividades dos órgãos e membros do Poder Judiciário, têm força vinculante e natureza normativa primária (têm força de lei), com o que não se restringem, no zelo pela observância dos princípios que regem a administração pública, a complementar a lei, mas também o Texto Constitucional, como decidiu o Tribunal Pleno do Supremo Tribunal Federal no julgamento da ADC12-6/Distrito Federal, de Relatoria do Min. Carlos Brito, uma vez que seu poder normativo encontraria fundamento direto de validade na Constituição Federal de 1988.
+IV. DISPOSITIVO E TESE
+7. Recurso conhecido e desprovido.
+Tese de julgamento: "1. A propositura de ação rescisória não impede o cumprimento da decisãoTese de julgamento rescindenda, salvo concessão de tutela provisória na ação autônoma de impugnação, na qual também poderá ser discutida eventual formação de coisa julgada inconstitucional no título exequendo. 2. A aplicação da Taxa Selic, a partir de 9 de dezembro de 2021, sobre o valor consolidado da dívida, não configura , conforme positivado na Resolução 303/2019 do CNJ."
+Dispositivos relevantes citados: CPC, arts. 313, inc. V, "a", 502, 535, inc. III, §§ 5º e 7º, 969. EC 113/2021. Res. 303/2019, art. 22, § 1º.
+Jurisprudência relevante citada: STF, AI-AgR, 258337, Rel. Moreira Alves, 1ª Turma, p. 04.08.2000. TJDFT, AGI, 07384304220228070000, Rel. João Egmont, 2ª Turma Cível, p. 17.03.2023. TJDFT, AGI, 07423306720218070000, Rel. Maria de Lourdes Abreu, 3ª Turma Cível, p. 12.05.2022. TJDFT, AGI, 07032789320238070000, Rel. Carlos Pires Soares Neto, 1ª Turma Cível, p. 25.05.2023. TJDFT, AGI, 07016731520238070000, Rel. Carmen Bittencourt, 1ª Turma Cível, p. 02.05.2023. TJDFT, AGI, 07058433020238070000, Rel. Rômulo de Araújo Mendes, 1ª Turma Cível, p. 04.05.2023.
+Opostos embargos declaratórios, foram rejeitados (fls. 239-245 ).
+Em seu recurso especial, às fls. 261-271, a parte recorrente sustenta violação dos arts. 313, V, a, 489, 535, §§ 3º, I, 5º e 7º, e 1.022 do CPC.
+O Tribunal de origem, no entanto, inadmitiu o recurso especial (fls. 372-376), o que motivou a interposição do presente agravo.
+Contrarrazões às fls. 408-432.
+É o relatório.
+O agravo em recurso especial não comporta conhecimento.
+De pronto, verifica-se que não foi impugnada a integralidade da fundamentação da decisão de inadmissão do recurso especial (fls. 372-376), porquanto a parte agravante não infirmou, suficientemente e a contento, a aplicação da Súmula 7 do STJ.
+Segundo a jurisprudência desta Corte Superior, "para contornar o óbice referido, caberia à parte agravante desenvolver argumentos que demonstrassem como seria possível modificar o entendimento firmado pelas instâncias ordinárias sem rever o acervo fático-probatório, esclarecendo especificamente quais fatos foram devidamente consignados no acórdão proferido e como se dá a subsunção das normas que entende violadas a referidos fatos. Não basta sustentar que o julgamento do seu apelo demanda apenas apreciação de normas legais e prescinde do reexame de provas. O recorrente lança mão de argumentos genéricos que poderiam ser aplicados a qualquer caso concreto e que não tiveram o condão de demonstrar porque não seria preciso revolver o acervo probatório para aferir as violações invocadas. No STJ, "é firme o entendimento de que, para o devido afastamento do verbete da Súmula 7/STJ, compete à defesa não apenas asseverar que se cuida de revaloração probatória, mas, também, que realize o devido confronto desse entendimento com as premissas fáticas estabelecidas na origem"" (AgInt no REsp n. 1.935.445/MG, rel. Min. Herman Benjamin, Segunda Turma, DJe de 28/6/2024), ônus do qual não se desincumbiu a parte ora agravante no caso em apreço.
+Assim, ao deixar de infirmar adequadamente os fundamentos do juízo de admissibilidade realizado pelo Tribunal de origem, a parte agravante fere o princípio da dialeticidade, a atrair a incidência da previsão contida nos arts. 932, III, do Código de Processo Civil e 253, parágrafo único, I, do Regimento Interno do STJ, no sentido de que não se conhece de agravo em recurso especial que "não tenha impugnado especificamente todos os fundamentos da decisão recorrida". Nesse sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. FUNGIBILIDADE. AGRAVO DE INSTRUMENTO FUNDADO NO ART. 544 DO CPC/1973. IMPOSSIBILIDADE. AUSÊNCIA DE IMPUGNAÇÃO DOS FUNDAMENTOS DA DECISÃO DE INADMISSÃO DO APELO EXTREMO. ARTS. 932, III, DO CPC E 253, PARÁGRAFO ÚNICO, I, DO RISTJ. SÚMULA N. 182 DO STJ. LEGITIMIDADE PARA RECORRER. AUSÊNCIA DE DEMONSTRAÇÃO. AGRAVOS INTERNOS NÃO CONHECIDOS.
+(..)
+2. Em observância ao princípio da dialeticidade, mantém-se a aplicação analógica da Súmula n. 182 do STJ quando não há impugnação efetiva, específica e motivada de todos os fundamentos da decisão que inadmite recurso especial, nos termos dos arts. 932, III, do CPC e 253, parágrafo único, I, do RISTJ.
+(..)
+4. Agravos internos não conhecidos.
+(AgInt no AREsp n. 2.135.260/BA, rel. Min. João Otávio de Noronha, Quarta Turma, DJe de 27/6/2024)
+Outrossim, importa salientar que "a Corte Especial do Superior Tribunal de Justiça firmou o entendimento de que, no recurso de agravo previsto no art. 1.042 do CPC, o recorrente tem o dever de impugnar, de modo específico, todos os fundamentos que levaram à inadmissão do recurso especial, não se podendo falar, no caso, em decisão cindível em capítulos autônomos e independentes" (AgRg no AREsp n. 2.646.426/SP, rel. Min. Reynaldo Soares da Fonseca, Quinta Turma, DJe de 13/8/2024). A propósito:
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. AGRAVO EM RECURSO ESPECIAL. OMISSÃO. INEXISTÊNCIA. RECURSO REJEITADO.
+(..)
+4. A falta de efetivo combate de quaisquer dos fundamentos da decisão que inadmitiu o recurso especial, ainda que autônomos, impede o conhecimento do respectivo agravo consoante preceituam os arts. 253, I, do Regimento Interno do Superior Tribunal de Justiça e 932, III, do CPC e a Súmula 182 do STJ, aplicável por analogia.
+(..)
+7. Embargos de declaração rejeitados.
+(EDcl no AgInt nos EDcl no AREsp n. 1.878.917/SP, rel. Min. Paulo Sérgio Domingues, Primeira Turma, DJe de 30/8/2023)
+Ante o exposto, com fundamento no artigo 253, parágrafo único, inciso I, do Regimento Interno do Superior Tribunal de Justiça, não conheço do agravo em recurso especial.
+Publique-se. Intimem-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL QUE NÃO COMBATEU OS FUNDAMENTOS DA DECISÃO AGRAVADA. DESCUMPRIMENTO DO PRINCÍPIO DA DIALETICIDADE. INCIDÊNCIA DOS ARTS. 932, III, DO CPC E 253, PARÁGRAFO ÚNICO, I, DO RISTJ. AGRAVO NÃO CONHECIDO.
