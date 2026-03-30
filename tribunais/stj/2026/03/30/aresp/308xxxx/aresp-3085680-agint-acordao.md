@@ -1,0 +1,37 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 24/03/2026 a 30/03/2026, por unanimidade, negar provimento ao recurso, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Humberto Martins, Ricardo Villas Bôas Cueva, Moura Ribeiro e Daniela Teixeira votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro Humberto Martins.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DECLARATÓRIA C/C COMPENSATÓRIA POR DANOS MORAIS. AUSÊNCIA DE IMPUGNAÇÃO DOS FUNDAMENTOS DA DECISÃO DE INADMISSIBILIDADE DO RECURSO ESPECIAL.
+1. Ação declaratória c/c compensatória por danos morais.
+2. Agravo interno interposto contra decisão que não conheceu do agravo em recurso especial, em razão da não impugnação do seguinte fundamento da decisão de inadmissibilidade: ausência/erro de indicação do permissivo constitucional autorizador do recurso - Súmula 284/STF.
+3. Consoante entendimento pacífico desta Corte, não merece conhecimento o agravo em recurso especial que não impugna, especificamente, os fundamentos da decisão de inadmissão do recurso especial. Precedentes.
+4. Agravo interno não provido.
+RELATÓRIO
+Relatora: MINISTRA NANCY ANDRIGHI
+Examina-se agravo interno interposto por LINDAMAR APARECIDA FERREIRA, contra decisão que não conheceu do agravo em recurso especial.
+Ação: declaratória c/c compensatória por danos morais, ajuizada por LINDAMAR APARECIDA FERREIRA, em face de CONFEDERAÇÃO NACIONAL DE DIRIGENTES LOJISTAS, na qual requer que "seja declarada ilegal a inscrição antes do aviso prévio, bem como determinada sua exclusão" (e-STJ fl. 240) e compensação por danos morais.
+Sentença: julgou improcedentes os pedidos.
+Acórdão: negou provimento ao agravo interno, mantendo a decisão unipessoal do Relator que não conheceu do recurso de apelação interposto por LINDAMAR APARECIDA FERREIRA, nos termos da seguinte ementa:
+DIREITO CIVIL E PROCESSUAL CIVIL. AGRAVO INTERNO EM APELAÇÃO CÍVEL. IRREGULARIDADE NA REPRESENTAÇÃO PROCESSUAL. ASSINATURA FEITA ATRAVÉS DA ZAPSIGN. AGRAVO INTERNO CONHECIDO E NÃO PROVIDO. I. Caso em exame 1. Agravo interno interposto contra decisão monocrática que não conheceu da apelação interposta pela parte ora Agravante por vício da representação processual seguida de decurso de prazo. II. Questão em discussão 2. A questão em discussão consiste em saber se há vício na representação processual da parte Agravante. III. Razões de decidir 3. A assinatura digital para processos judiciais eletrônicos deve ser baseada em certificado digital emitido por Autoridade Certificadora credenciada, conforme o artigo 1º, § 2º, inciso III, alínea "a", da Lei nº 11.419/06. 4. A ausência de regularização da representação processual justifica a não aceitação do recurso de apelação, conforme precedentes deste Tribunal. 5. Muito embora tenha sido intimada para tanto, a parte Agravante /Apelante deixou o prazo decorrer sem regularizar sua representação. IV. Dispositivo 6. Agravo Interno conhecido e não provido. ___ Dispositivos relevantes citados: CPC, art. 1021, 76, §2º, I. Jurisprudência relevante citada: TJPR - 19ª Câmara Cível - 0017200- 93.2023.8.16.0001 - Curitiba - Rel.: LUCIANA CARNEIRO DE LARA - J. 07.07.2024; REsp n.º 31.189.321/RJ. 2ª Turma. Rel. Min. Mauro Campbell Marques. DJ 29/03/2011).4. Apelação cível conhecida e não provida. (TJPR - 15ª Câmara Cível - 0000480-08.2023.8.16.0080 - Engenheiro Beltrão - Rel.: DESEMBARGADOR LUIZ CARLOS GABARDO - J. 12.12.2023; AgInt no AREsp n. 1.917.838/RJ, relator Ministro Luis Felipe Salomão, Quarta Turma, julgado em 23/8/2022, DJe de 9/9 /2022; TJPR - 15ª Câmara Cível - 0001830-19.2023.8.16.0084 - Goioerê - Rel.: DESEMBARGADOR JUCIMAR NOVOCHADLO - J. 02.12.2023; TJPR - 15ª Câmara Cível - 0002509-74.2022.8.16.0077 - Cruzeiro do Oeste - Rel.: DESEMBARGADOR JUCIMAR NOVOCHADLO - J. 14.12.2024; TJPR - 10ª Câmara Cível - 0002353-20.2024.8.16.0044 - Apucarana - Rel.: SUBSTITUTO ALEXANDRE KOZECHEN - J. 09.12.2024; TJPR - 14ª Câmara Cível - 0009068-84.2021.8.16.0173 - Umuarama - Rel.: DESEMBARGADOR FRANCISCO EDUARDO GONZAGA DE OLIVEIRA - J. 09.12.2024; TJPR - 10ª Câmara Cível - 0046182-57.2023.8.16.0021 - Cascavel - Rel.: DESEMBARGADORA ELIZABETH MARIA DE FRANCA ROCHA - J. 06.12.2024; TJPR - 8ª Câmara Cível - 0006145- 79.2024.8.16.0044 - Apucarana - Rel.: DESEMBARGADOR LUCIANO CARRASCO FALAVINHA SOUZA - J. 02.12.2024. (e-STJ fls. 598-599)
+Decisão da Presidência do STJ: não conheceu do agravo em recurso especial interposto pela parte agravante devido à ausência de impugnação específica dos fundamentos da decisão que inadmitiu o recurso especial.
+Agravo interno: alega que impugnou todos os fundamentos da decisão e que são inaplicáveis os óbices das Súmulas 284/STF e 83/STJ. Traz questões relativas ao mérito do recurso especial. Requer, assim, o provimento do agravo para que seja determinado o processamento do recurso especial e apreciado o mérito.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DECLARATÓRIA C/C COMPENSATÓRIA POR DANOS MORAIS. AUSÊNCIA DE IMPUGNAÇÃO DOS FUNDAMENTOS DA DECISÃO DE INADMISSIBILIDADE DO RECURSO ESPECIAL.
+1. Ação declaratória c/c compensatória por danos morais.
+2. Agravo interno interposto contra decisão que não conheceu do agravo em recurso especial, em razão da não impugnação do seguinte fundamento da decisão de inadmissibilidade: ausência/erro de indicação do permissivo constitucional autorizador do recurso - Súmula 284/STF.
+3. Consoante entendimento pacífico desta Corte, não merece conhecimento o agravo em recurso especial que não impugna, especificamente, os fundamentos da decisão de inadmissão do recurso especial. Precedentes.
+4. Agravo interno não provido.
+VOTO
+Relatora: MINISTRA NANCY ANDRIGHI
+1. A decisão agravada não conheceu do agravo em recurso especial, com base no art. 932, III, do CPC, ante a ausência de impugnação do seguinte fundamento da decisão de inadmissibilidade proferida pelo TJ/PR:
+i) deficiência de fundamentação (Súmula 284/STF).
+1. DA DEFICIÊNCIA DE FUNDAMENTAÇÃO (SÚMULA 284 DO STF)
+2. A decisão de admissibilidade do TJ/PR identificou a deficiência na fundamentação do recurso especial de modo a não permitir a exata compreensão da controvérsia (Súmula 284 do STF). No entanto, nas razões do agravo em recurso especial, a parte agravante não identificou que os fatos contidos no acórdão recorrido seriam abrangidos nos dispositivos indicados no recurso especial, o que caracteriza a ausência de demonstração da violação legal.
+3. Nesse sentido: AgInt no REsp 2.098.663/PE, Terceira Turma, DJe 20/12/2023 e AgInt no AREsp 2.249.995/SP, Quarta Turma, DJe 20/10/2023.
+4. Em atenção ao princípio da dialeticidade, cumpre à parte agravante apontar que, nas razões do agravo em recurso especial, combateu os fundamentos da decisão agravada, ônus do qual não se desincumbiu, não sendo possível impugnar a decisão de admissibilidade nas razões do agravo interno.
+5. Assim sendo, consoante entendimento pacífico desta Corte, não merece conhecimento o agravo em recurso especial que não impugna, especificamente, os fundamentos da decisão de inadmissão do recurso especial. Nesse sentido: AgInt no AREsp 2.152.939/RS, Terceira Turma, DJe 18/8/2023 e AgInt no AREsp 1.895.548/GO, Quarta Turma, DJe 18/3/2022.
+DISPOSITIVO
+Forte nessas razões, NEGO PROVIMENTO ao agravo interno.
