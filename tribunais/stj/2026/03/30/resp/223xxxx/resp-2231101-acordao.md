@@ -1,0 +1,72 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 24/03/2026 a 30/03/2026, por unanimidade, dar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Raul Araújo, Maria Isabel Gallotti, Antonio Carlos Ferreira e Luís Carlos Gambogi (Desembargador Convocado do TJMG) votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro João Otávio de Noronha.
+EMENTA
+DIREITO PRIVADO. RECURSO ESPECIAL. AÇÃO DE COBRANÇA DE ESTADIAS C/C DANOS MORAIS. NEGATIVA DE PRESTAÇÃO JURISDICIONAL QUANTO À BASE DE CÁLCULO DA CORREÇÃO MONETÁRIA. RECURSO ESPECIAL CONHECIDO E PROVIDO.
+I. CASO EM EXAME
+1. Trata-se de recurso especial interposto contra acórdão estadual que negou provimento à apelação e manteve integralmente a sentença condenatória.
+2. A controvérsia envolve ação de cobrança de estadias c/c danos morais, fundada no art. 11, §§ 5º e 6º, da Lei n. 11.442/2007, para indenização por tempo de espera superior a cinco horas no descarregamento e atualização pelo INPC.
+3. Na sentença, o Juízo de primeiro grau julgou parcialmente procedentes os pedidos, condenando ao pagamento de R$ 20.315,10 a título de estadias, com juros de 1% ao mês desde a citação, correção monetária pelo INPC desde o evento, além de custas e honorários de 10%.
+4. A Corte de origem manteve integralmente a sentença, afirmou responsabilidade solidária da contratante, reconheceu 121 horas de paralisação, afastou prova de cláusula diversa e majorou honorários para 15%.
+II. QUESTÃO EM DISCUSSÃO
+5. A questão em discussão consiste em saber se houve negativa de prestação jurisdicional por omissão quanto à base inicial de correção monetária das estadias, especialmente sobre a retroatividade do valor mínimo de R$ 1,38 por tonelada/hora, introduzido em 2015 na Lei n. 11.442/2007.
+III. RAZÕES DE DECIDIR
+6. Ocorreu a ofensa aos art. 489, § 1º, IV, e 1.022, II, do CPC, ante a ausência de enfrentamento, pelo Tribunal de origem, da tese sobre a base inicial da correção monetária aplicada às estadias.
+7. Impõe-se o retorno dos autos à origem para análise específica das alegações constantes dos embargos de declaração acerca da aplicação temporal do valor mínimo legal (R$ 1,38/tonelada/hora) como valor de estadia relativa a transporte rodoviário de cargas e sua atualização pelo INPC.
+IV. DISPOSITIVO E TESE
+8. Recurso especial conhecido e provido.
+Tese de julgamento: "1. Ocorreu a ofensa aos art. 489, § 1º, IV, e 1.022, II, do CPC, por ausência de enfrentamento da tese sobre a base inicial da correção monetária das estadias relativas a transporte rodoviário de cargas . 2. Determina-se o retorno dos autos ao Tribunal de origem para análise integral da matéria suscitada nos embargos de declaração."
+Dispositivos relevantes citados: CPC, arts. 489, § 1º, IV, e 1.022, II; Lei n. 11.442/2007, art. 11, §§ 5º e 6º.
+RELATÓRIO
+Trata-se de recurso especial interposto por PACTUS TRANSPORTES LTDA., com fundamento no art. 105, III, a, da Constituição Federal, contra acórdão do Tribunal de Justiça do Estado de Mato Grosso em apelação cível nos autos de ação de cobrança de estadias c/c danos morais.
+O julgado foi assim ementado (fl. 186):
+APELAÇÃO CÍVEL - AÇÃO DE COBRANÇA DE ESTADIAS C/C DANOS MORAIS - TRANSPORTE RODOVIÁRIO DE CARGAS - TEMPO DE ESPERA PARA DESCARREGAMENTO - PRAZO LEGAL EXCEDIDO - RESPONSABILIDADE SOLIDÁRIA DO CONTRATANTE - ART. 5º-A, §2º, DA LEI Nº 11.442/2007 - VALOR DA ESTADIA - AUSÊNCIA DE CLÁUSULA CONTRATUAL COMPROVADA - APLICAÇÃO DO VALOR LEGAL POR TONELADA/HORA - PROVAS SUFICIENTES NOS AUTOS - SENTENÇA MANTIDA - RECURSO CONHECIDO E DESPROVIDO. Nos termos do art. 11, §5º, da Lei nº 11.442/2007, é devido ao transportador o pagamento de valor correspondente ao tempo de espera que exceder cinco horas para carregamento ou descarregamento da carga. Comprovada a chegada do veículo ao destino e a permanência superior ao limite legal, sem justificativa plausível, impõe-se a condenação ao pagamento das estadias. O contratante do transporte responde solidariamente pela obrigação, conforme expressamente previsto no art. 5º-A, §2º, da legislação de regência. Inexistente prova de cláusula contratual estipulando valor diverso, prevalece o montante legal mínimo de R$ 1,38 por tonelada/hora.
+Os embargos de declaração opostos foram decididos nestes termos (fl. 214):
+EMBARGOS DE DECLARAÇÃO EM APELAÇÃO CÍVEL - AÇÃO DE COBRANÇA DE ESTADIAS C/C DANOS MORAIS - TRANSPORTE RODOVIÁRIO DE CARGAS - TEMPO DE ESPERA PARA DESCARREGAMENTO - PRAZO LEGAL EXCEDIDO - RESPONSABILIDADE SOLIDÁRIA DO CONTRATANTE - ART. 5º-A, §2º, DA LEI Nº 11.442/2007 - VALOR DA ESTADIA - AUSÊNCIA DE CLÁUSULA CONTRATUAL COMPROVADA - APLICAÇÃO DO VALOR LEGAL POR TONELADA/HORA - PROVAS SUFICIENTES NOS AUTOS - SENTENÇA MANTIDA - INCONFORMISMO - PRETENSA REDISCUSSÃO - INEXISTÊNCIA DOS REQUISITOS DO ART. 1.022 DO CPC - EMBARGOS REJEITADOS. Nos termos do art. 11, §5º, da Lei nº 11.442/2007, é devido ao transportador o pagamento de valor correspondente ao tempo de espera que exceder cinco horas para carregamento ou descarregamento da carga. Comprovada a chegada do veículo ao destino e a permanência superior ao limite legal, sem justificativa plausível, impõe-se a condenação ao pagamento das estadias. O contratante do transporte responde solidariamente pela obrigação, conforme expressamente previsto no art. 5º-A, §2º, da legislação de regência. Inexistente prova de cláusula contratual estipulando valor diverso, prevalece o montante legal mínimo de R$1,38 por tonelada/hora. Inexistindo vício a ser sanado, o recurso deve ser rejeitado, pois a matéria foi apreciada na oportunidade do acórdão recorrido, permitindo à parte, se assim desejar, a interposição futura de recurso dirigido às Cortes Excepcionais de Justiça.
+No recurso especial, a parte aponta violação dos seguintes artigos:
+a) 489, § 1º, IV, e 1.022, II, do CPC, porquanto o acórdão não teria enfrentado o argumento específico de ilegalidade na forma de atualização do valor das estadias devidas ao transportador e que fora aplicada pelo autor, pois utilizado como termo inicial o ano de 2007 do valor incluído em lei no ano de 2015;
+b) 11, § 6º, Lei n. 11.442/2007, porque o acórdão teria adotado base de atualização do valor das estadias desde 2007 para o valor de R$ 1,38 por tonelada/hora, resultando em R$ 3,37 na data dos fatos, quando a atualização anual pelo INPC deveria incidir a partir da alteração legislativa de 2015, com base oficial da ANTT em R$ 2,12 para 2022.
+Requer o provimento do recurso para que se corrija a base de cálculo da indenização por estadia, aplicando-se o valor de R$ 2,12 por tonelada/hora vigente em 2022, nos termos do art. 11, § 6º, da Lei n. 11.442/2007; requer ainda o provimento do recurso para que se majorem os honorários advocatícios, nos termos do art. 85 do CPC.
+Nas contrarrazões, a parte recorrida aduz que o recurso não deve ser conhecido por demandar reexame fático-probatório, incidindo a Súmula n. 7 do STJ, pois a discussão versa sobre cálculos e premissas fáticas do valor atualizado; sustenta, subsidiariamente, o desprovimento, reiterando a natureza indenizatória da sobre-estadia e a correção do valor de R$ 3,37 por tonelada/hora utilizado pelas instâncias ordinárias, e requer a majoração dos honorários nos termos do art. 85, § 11, do CPC (fls. 249-253).
+O recurso especial foi admitido (fls. 254-255).
+É o relatório.
+EMENTA
+DIREITO PRIVADO. RECURSO ESPECIAL. AÇÃO DE COBRANÇA DE ESTADIAS C/C DANOS MORAIS. NEGATIVA DE PRESTAÇÃO JURISDICIONAL QUANTO À BASE DE CÁLCULO DA CORREÇÃO MONETÁRIA. RECURSO ESPECIAL CONHECIDO E PROVIDO.
+I. CASO EM EXAME
+1. Trata-se de recurso especial interposto contra acórdão estadual que negou provimento à apelação e manteve integralmente a sentença condenatória.
+2. A controvérsia envolve ação de cobrança de estadias c/c danos morais, fundada no art. 11, §§ 5º e 6º, da Lei n. 11.442/2007, para indenização por tempo de espera superior a cinco horas no descarregamento e atualização pelo INPC.
+3. Na sentença, o Juízo de primeiro grau julgou parcialmente procedentes os pedidos, condenando ao pagamento de R$ 20.315,10 a título de estadias, com juros de 1% ao mês desde a citação, correção monetária pelo INPC desde o evento, além de custas e honorários de 10%.
+4. A Corte de origem manteve integralmente a sentença, afirmou responsabilidade solidária da contratante, reconheceu 121 horas de paralisação, afastou prova de cláusula diversa e majorou honorários para 15%.
+II. QUESTÃO EM DISCUSSÃO
+5. A questão em discussão consiste em saber se houve negativa de prestação jurisdicional por omissão quanto à base inicial de correção monetária das estadias, especialmente sobre a retroatividade do valor mínimo de R$ 1,38 por tonelada/hora, introduzido em 2015 na Lei n. 11.442/2007.
+III. RAZÕES DE DECIDIR
+6. Ocorreu a ofensa aos art. 489, § 1º, IV, e 1.022, II, do CPC, ante a ausência de enfrentamento, pelo Tribunal de origem, da tese sobre a base inicial da correção monetária aplicada às estadias.
+7. Impõe-se o retorno dos autos à origem para análise específica das alegações constantes dos embargos de declaração acerca da aplicação temporal do valor mínimo legal (R$ 1,38/tonelada/hora) como valor de estadia relativa a transporte rodoviário de cargas e sua atualização pelo INPC.
+IV. DISPOSITIVO E TESE
+8. Recurso especial conhecido e provido.
+Tese de julgamento: "1. Ocorreu a ofensa aos art. 489, § 1º, IV, e 1.022, II, do CPC, por ausência de enfrentamento da tese sobre a base inicial da correção monetária das estadias relativas a transporte rodoviário de cargas . 2. Determina-se o retorno dos autos ao Tribunal de origem para análise integral da matéria suscitada nos embargos de declaração."
+Dispositivos relevantes citados: CPC, arts. 489, § 1º, IV, e 1.022, II; Lei n. 11.442/2007, art. 11, §§ 5º e 6º.
+VOTO
+I - Contextualização
+A controvérsia diz respeito à ação de cobrança de estadias c/c danos morais relativa a transporte rodoviário de cargas em que a parte autora pleiteou o pagamento de R$ 20.315,10 a título de estadias pelo tempo de espera superior a cinco horas no descarregamento, bem como R$ 5.000,00 a título de dano moral, com fundamento no art. 11, §§ 5º e 6º, da Lei n. 11.442/2007.
+Na sentença, o Juízo de primeiro grau julgou parcialmente procedentes os pedidos, condenando a ré ao pagamento de R$ 20.315,10 a título de estadias, acrescido de juros de mora de 1% ao mês a partir da citação e correção monetária pelo INPC desde o evento danoso, além das custas processuais e honorários advocatícios fixados em 10% sobre o valor da condenação.
+A Corte estadual manteve integralmente a sentença ao negar provimento à apelação, assentando responsabilidade solidária da contratante pelo tempo de espera, a comprovação de 121 horas de paralisação e a ausência de prova de cláusula contratual que estipulasse valor diverso; majorou os honorários para 15% sobre o valor atualizado da condenação.
+II- Da negativa de prestação jurisdicional
+Ocorreu a alegada ofensa aos arts. 489, § 1º, IV, e 1.022, II, do CPC, pois há omissão no acórdão dos embargos de declaração quanto à base de cálculo inicial da correção monetária sobre o valor da estadia.
+Quanto ao critério de correção monetária utilizado para fins de fixar o valor da condenação, o Tribunal recorrido manifestou-se no seguinte sentido (fl. 184):
+Além disso, não se pode admitir que meras alegações afastem a aplicação de norma legal expressa, a qual prevê valor mínimo de indenização em R$ 1,38 por tonelada/hora, atualizado anualmente pelo INPC (art. 11, §§ 5º e 6º da Lei 11.442/2007).
+Nesse cenário, correta a sentença ao adotar o critério legal em detrimento de suposto ajuste não comprovado, conforme reforçado no seguinte julgado:
+"Ausente o documento que pudesse impor ao transportador o período da entrega programada, conclui-se que o trajeto ocorreu dentro do prazo hábil para iniciar a contagem do tempo de descarregamento  .. . Diante dos elementos probatórios existentes nos autos, é devida a indenização de que trata o § 5.º do artigo 11 da Lei n.º 11.442/2007." (TJMT, RAC n. 1000582-35.2016.8.11.0003, j. 11.12.2019).
+Não há, portanto, qualquer vício na sentença que justifique sua reforma quanto ao valor da indenização fixada, pois este se fundamenta diretamente no parâmetro legal previsto para a espécie, na ausência de pacto em sentido diverso.
+Nos embargos de declaração, a parte recorrente invocou que o valor de R$ 1,38 por tonelada/hora, sobre o qual deve incidir o INPC, foi incluído na Lei n. 11.442/2007 no ano de 2015, mas o autor da ação utilizou o referido valor com incidência a contar de 2007, conferindo retroatividade à nova disposição legal, culminando com um montante da condenação maior do que o efetivamente devido.
+A Corte local, ao julgar os embargos de declaração, fez referência à mencionada tese por ocasião do relatório do julgamento, mas deixou de enfrentá-la ao perscrutar o mérito do recurso.
+Observe-se (fl. 205):
+Nas razões do recurso, a parte embargante sustenta a presença do vício de omissão no julgado, sob o argumento de que o valor da estadia deve observar o mínimo estabelecido pela Lei nº 11.442/2007, no importe de R$1,38 por tonelada/hora, com atualização anual pelo INPC, não houve qualquer apreciação do ponto específico levantado pela Embargante: a ilegalidade na forma de atualização promovida pelo autor, que considerou como base inicial o ano de 2007, majorando indevidamente o valor da indenização.
+(..)
+Além disso, não se pode admitir que meras alegações afastem a aplicação de norma legal expressa, a qual prevê valor mínimo de indenização em R$1,38 por tonelada/hora, atualizado anualmente pelo INPC (art. 11, §§ 5º e 6º da Lei 11.442/2007).
+Nesse cenário, correta a sentença ao adotar o critério legal em detrimento de suposto ajuste não comprovado, conforme reforçado no seguinte julgado:.
+Conforme se depreende do teor do julgamento dos embargos de declaração, houve omissão do Tribunal a quo quanto à base de cálculo utilizada para fins de correção monetária e a respectiva inserção no ordenamento jurídico apenas no ano de 2015, pois utilizada para correção dos valores desde 2007.
+IV - Conclusão
+Ante o exposto, conheço em parte do recurso especial e dou-lhe provimento para determinar o retorno dos autos à origem para análise integral da matéria suscitada nos embargos de declaração.
+É o voto.
