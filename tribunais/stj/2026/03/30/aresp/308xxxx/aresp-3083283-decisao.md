@@ -1,0 +1,25 @@
+DECISÃO
+Trata-se de agravo nos próprios autos (CPC, art. 1.042) interposto contra decisão que inadmitiu o recurso especial sob os seguintes fundamentos: (a) inexistência de violação dos arts. 489 e 1.022, I e II, do CPC, (b) ausência de ofensa aos artigos de lei apontados e (c) aplicação da Súmula n. 7 do STJ (fls. 129-132).
+O acórdão recorrido está assim ementado (fl. 46-50):
+AGRAVO DE INSTRUMENTO - Execução por Título Extrajudicial Fraude a Execução Doação de Bem Imóvel - Insurgência contra decisão que não reconheceu a ocorrência de fraude à execução - Ausência de comprovação - Ato ocorrido antes do ajuizamento da ação - Inteligência do artigo 792, inc. IV, do CPC - Decisão mantida - Recurso não provido.
+Os embargos de declaração foram rejeitados (fls. 57-59).
+Nas razões do recurso especial (fls. 62-78), interposto com base no art. 105, III, "a", da CF, a parte recorrente apontou violação dos seguintes dispositivos:
+(i) arts. 489, § 1º, IV, e 1.022, II, do CPC, alegando que "o caso concreto demonstra deficiência de fundamentação do acórdão recorrido, na medida em que os argumentos lançados no agravo de instrumento e nos declaratórios não foram devidamente enfrentados  ..  restou comprovada a ocorrência da fraude, o desvio de finalidade, configurando uma manobra de dilapidação de patrimônio para blindar o executado, por meios duvidosos, quando o contrato que havia sido entabulado entre as partes já havia sido assinado" (fls. 69-70),
+(ii) art. 792, § 1º, do CPC, por entender que "as movimentações patrimoniais perpetrada pelo Recorrido, Daniel Richard, isoladamente consideradas, são absolutamente legais (..) todavia, é no contexto do caso em concreto que os fatos jurídicos adquirem tons de ilicitude  ..  pois já sabia da existência da ação de execução e dolosamente preparou as condições para blindar seu patrimônio da execução" (fls. 73-74).
+Foram oferecidas contrarrazões (fls. 84-102).
+O agravo (fls. 137-148) afirma a presença de todos os requisitos de admissibilidade do especial.
+Contraminuta apresentada (fls. 152-160).
+É o relatório.
+Decido.
+Inexiste afronta aos arts. 489 e 1.022 do CPC quando o acórdão recorrido pronuncia-se, de forma clara e suficiente, acerca das questões suscitadas nos autos, manifestando-se sobre todos os argumentos que, em tese, poderiam infirmar a conclusão adotada pelo Juízo.
+Extraem-se as seguintes razões de decidir do aresto impugnado (fl. 48-49):
+O pedido foi indeferido nos termos da decisão agravada:
+"Vistos.
+1. Indefiro o processamento do pedido de reconhecimento de fraude à execução formulado nas fls. 257/258, porquanto o processo fora ajuizado em 8 de março de 2021 e as doações impugnadas pelo exequente ocorreram em 2 e 18 de fevereiro de 2021, portanto, antes do ajuizamento da ação que pudesse levar a devedora à insolvência, sendo que inciso IV do art. 792 do Código de Processo Civil permite o processamento do pedido de fraude à execução nos próprios autos apenas na hipótese de alienação depois de ajuizada a ação. Nesse passo, somente os atos de disposição praticados no curso da ação é que podem ser atacados pela fraude à execução na qual o ato jurídico permanece válido e somente não produz efeitos para o credor prejudicado pela disposição. No caso em análise em que o exequente aponta que as doações dos bens ocorreram antes do ajuizamento da ação, mas depois da constituição da dívida, este deve se valer da ação própria de fraude contra credores, na qual, se acolhida, o negócio jurídico será anulado, deixando de produzir todos os efeitos, não se tratando de mera ineficácia como na fraude à execução, que exige que o ato de disposição tenha ocorrido já com ação em curso. Assim, caso pretenda discutir a fraude contra credores noticiada (doação dos imóveis ANTES do ajuizamento da ação), deve o exequente ajuizar a necessária ação pauliana, em litisconsórcio passivo necessário entre o devedor doador e a donatária, sendo inadequada a via eleita para a discussão de fraude contra credores.2. Tendo a instituição do imóvel objeto da matrícula nº 53.742do 10 Serviço de Registro de Imóvel desta Capital, em 17 de novembro de202. Igualmente inviável o reconhecimento de que tal declaração se deu em fraude à execução ajuizada apenas 4 meses depois da instituição, razão pela qual indefiro a penhora de referido bem.
+(..)
+Conforme se depreende dos documentos dos autos, e ao contrário do que afirmado pelo agravante a doação dos bens (02.02.2021 e 08.02.2021) se deram antes do ajuizamento da ação (08.03.2021).
+Nessa conformidade, agiu com acerto o Juízo a quo, devendo ser mantida a decisão recorrida.
+No caso concreto, o TJSP consignou que ao contrário do afirmado pela parte recorrente, a doação dos bens se deram antes do ajuizamento da ação. Portanto, a decisão recorrida não é contraditória nem omissa. Em verdade, pretende-se o revolvimento do conteúdo fático-probatório dos autos, vedado em recurso especial, por óbice da Súmula n. 7/STJ.
+Ante o exposto, NEGO PROVIMENTO ao agravo.
+Publique-se e intimem-se.
+EMENTA
