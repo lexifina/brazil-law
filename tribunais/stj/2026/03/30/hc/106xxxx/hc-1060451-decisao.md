@@ -1,0 +1,47 @@
+DECISÃO
+Trata-se de habeas corpus substitutivo de recurso próprio, sem pedido liminar, impetrado em favor de ANTONIO SERGIO MARCIANO, apontando como autoridade coatora o Tribunal de Justiça do Estado de Minas Gerais (e-STJ, fls. 9-18), nos autos da Execução Penal n. 4400142-89.2024.8.13.0324.
+Conforme se extrai dos autos, o paciente foi beneficiado com livramento condicional e, não localizado para intimação quanto ao pagamento de multa, teve o benefício revogado e foi regredido ao regime semiaberto, sob fundamento de descumprimento de condições do livramento e situação análoga à fuga (e-STJ, fls. 29-32). O acórdão da 9ª Câmara Criminal do Tribunal de Justiça de Minas Gerais manteve a decisão, admitindo a cumulação de revogação do benefício com regressão de regime (e-STJ, fls. 9-18).
+A impetrante sustenta, em síntese, que o paciente está sofrendo constrangimento ilegal porque o livramento condicional possui regramento próprio, não se admitindo o reconhecimento de falta grave nem a aplicação de seus consectários (regressão de regime, alteração de lapso para benefícios e revogação de dias remidos) por fatos ocorridos fora do sistema prisional, cabendo apenas suspensão ou revogação do benefício e a desconsideração do tempo em liberdade, conforme a Lei de Execução Penal e o Código Penal (e-STJ, fls. 2-8).
+Ao final, postula a concessão da ordem para determinar o imediato restabelecimento dos dias remidos, a retificação da anotação de falta grave e a revogação da regressão prisional.
+O Ministério Público Federal, em seu parecer, manifestou-se pela concessão da ordem, consoante parecer assim ementado:
+EXECUÇÃO PENAL. LIVRAMENTO CONDICIONAL. INOBSERVÂNCIA DAS CONDIÇÕES. IMPOSSIBILIDADE DE RECONHECIMENTO DE FALTA GRAVE DISCIPLINAR COM A APLICAÇÃO DE SEUS CONSECTARIOS LEGAIS REGRAMENTO PRÓPRIO!
+- Parecer pela concessão da ordem de habeas corpus. (e-STJ, fl. 97)
+É o relatório.
+Decido.
+Esta Corte - HC 535.063, Terceira Seção, Rel. Ministro Sebastião Reis Junior, julgado em 10/6/2020 - e o Supremo Tribunal Federal - AgRg no HC 180.365, Primeira Turma, Rel. Min. Rosa Weber, julgado em 27/3/2020; AgRg no HC 147.210, Segunda Turma, Rel. Min. Edson Fachin, julgado em 30/10/2018 - pacificaram orientação de que não cabe habeas corpus substitutivo do recurso legalmente previsto para a hipótese, impondo-se o não conhecimento da impetração, salvo quando constatada a existência de flagrante ilegalidade no ato judicial impugnado.
+Passo, assim, à análise das razões da impetração, de forma a verificar a ocorrência de flagrante ilegalidade a justificar a concessão de habeas corpus de ofício.
+Ao analisar o pleito defensivo, o Tribunal de origem assim avaliou a pretensão formulada em favor do paciente (fls. 14-18, grifou-se):
+"No presente caso, o reeducando, ora agravado, foi condenado nas sanções do delito previsto no art. 33, da Lei 11.343/06, tendo a pena sido fixada em 05 (cinco) anos e 10 (dez) meses de reclusão, em regime inicialmente fechado.
+No curso da execução, restou concedido ao reeducando o benefício do livramento condicional (seq. 56.1), tendo ele sido regularmente cientificado das condições impostas (seq. 66.1).
+Posteriormente, ao tentar intimar o agravante para o pagamento da parcela referente à pena de multa, o Oficial de Justiça não o localizou, certificando que o endereço cadastrado em juízo sequer existia (seq. 122.1). Destaca-se, ainda, que o reeducando permaneceu sem comparecer ao recolhimento noturno, sendo, inclusive, desligado do sistema SIGPRI e considerado foragido da Unidade Prisional (seq. 174.1).
+Inicialmente, importa destacar que o reeducando se encontrava foragido, em razão da ausência de atualização de seu endereço nos autos da execução, o que impediu o regular acompanhamento do benefício concedido.
+Dessa forma, considerando que o apenado se manteve em situação análoga à fuga, caracterizando falta grave de natureza permanente, que se perdura até a recaptura do reeducando.
+ ..
+Nessa perspectiva, mostra-se plenamente aplicável a cumulação das sanções de revogação do benefício e regressão de regime, sem que se configure bis in idem, haja vista tratarem-se de consequências autônomas e de natureza distinta, decorrentes do mesmo fato, mas voltadas a finalidades diversas no âmbito da execução penal.
+ ..
+Dessa forma, destaca-se que o agravante terá a oportunidade de apresentar sua versão dos fatos em audiência de justificação, a ser designada oportunamente pelo Juízo de Origem, para, se for o caso, restabelecer os benefícios e o regime anteriormente fixado ao reeducando."
+Constata-se, todavia, que a decisão proferida pelo Juízo da Execução, e avalizada pelo Tribunal de Justiça do Estado de São Paulo, se distancia da consolidada jurisprudência desta Corte Superior sobre o tema, a permitir o reconhecimento de ofício da ilegalidade suscitada.
+Registre-se que, constatado o descumprimento das obrigações impostas para fruição do livramento condicional, o Juízo da Execução, a um só tempo, revogou o benefício e determinou a regressão do regime aberto para o semiaberto (ante o reconhecimento de falte grave).
+Ou seja, o Magistrado reconheceu como falta grave o descumprimento das obrigações do livramento condicional, decidindo, por consequência, pela revogação do benefício (com a perda do tempo que o paciente permaneceu em livramento) e pela regressão de regime prisional.
+Ocorre que, de acordo com a jurisprudência desta Corte Superior, o benefício de livramento condicional possui regulamentação própria, não se admitindo que o descumprimento de suas condições resulte em consequências outras que não aquelas expressamente previstas nos arts. 86 ao 88 do Código Penal e art. 140 e seguintes da Lei de Execução Penal.
+A propósito:
+"EXECUÇÃO PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. INEXISTÊNCIA DE NOVOS ARGUMENTOS HÁBEIS A DESCONSTITUIR A DECISÃO IMPUGNADA. CRIME COMETIDO DURANTE O LIVRAMENTO CONDICIONAL. RECONHECIMENTO DE FALTA DISCIPLINAR DE NATUREZA GRAVE. IMPOSSIBILIDADE. REGRAMENTO PRÓPRIO. PRECEDENTES. CONSTRANGIMENTO ILEGAL EVIDENCIADO. AGRAVO DESPROVIDO
+1. Entende o STJ que não configura prática de falta grave a hipótese de cometimento de novo crime no curso do livramento condicional, pois, nesse caso, o benefício deverá ser revogado e o tempo que o reeducando esteve solto não será decotado da pena, nos termos do art. 86, I, e art. 88, do Código Penal, bem como o art. 145 da LEP (AgRg no HC n. 617.911/RS, Ministro Nefi Cordeiro, Sexta Turma, DJe 5/3/2021).
+2. Agravo regimental desprovido."
+(AgRg no HC n. 670.755/RS, minha relatoria, Quinta Turma, julgado em 8/2/2022, DJe de 14/2/2022, grifei.)
+"PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO PENAL. LIVRAMENTO CONDICIONAL. NOVO DELITO PRATICADO DURANTE O PERÍODO DE PROVA. FALTA GRAVE. NÃO RECONHECIMENTO.
+1. De acordo com a jurisprudência desta Corte Superior de Justiça, "a prática de fato definido como crime durante o livramento condicional tem consequências próprias previstas no Código Penal e na Lei de Execuções Penais, as quais não se confundem com os consectários legais da falta grave praticada por aquele que está inserto no sistema progressivo de cumprimento de pena" (REsp n. 1.101.461/RS, relatora a Ministra MARIA THEREZA DE ASSIS MOURA, Sexta Turma, DJe de 19/2/2013).
+2. Agravo regimental desprovido."
+(AgRg no HC n. 700.729/MG, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 22/3/2022, DJe de 25/3/2022, grifei.)
+Deste modo, tratando-se de hipótese em que o paciente estava em livramento condicional, o descumprimento das condições impostas pelo Juízo da Execução (no caso, a falta de atualização do endereço, além de não permanecer em recolhimento domiciliar noturno) deve resultar nas consequências previstas nos arts. 87 e 88 do CP e art. 140 da LEP, cujas redações estabelecem:
+Código Penal
+Art. 87 - O juiz poderá, também, revogar o livramento, se o liberado deixar de cumprir qualquer das obrigações constantes da sentença, ou for irrecorrivelmente condenado, por crime ou contravenção, a pena que não seja privativa de liberdade.
+Art. 88 - Revogado o livramento, não poderá ser novamente concedido, e, salvo quando a revogação resulta de condenação por outro crime anterior àquele benefício, não se desconta na pena o tempo em que esteve solto o condenado.
+Lei de Execução Penal
+Art. 140. A revogação do livramento condicional dar-se-á nas hipóteses previstas nos artigos 86 e 87 do Código Penal.
+Parágrafo único. Mantido o livramento condicional, na hipótese da revogação facultativa, o Juiz deverá advertir o liberado ou agravar as condições.
+Assim, descumpridas as obrigações assumidas para fruição do livramento condicional, não é caso de reconhecimento de falta grave e consequente regressão de regime prisional, cabendo ao Juízo da Execução apenas a revogação do benefício, desconsiderando o tempo que o paciente permaneceu em liberdade.
+Ante o exposto, com fundamento no art. 34, XX, do RISTJ, não conheço do habeas corpus, mas concedo a ordem de ofício, para afastar o reconhecimento da falta grave, e a consequente regressão de regime prisional, devendo o descumprimento das condições do livramento condicional ensejar apenas a sua revogação e a desconsideração do tempo em que o paciente permaneceu liberado.
+Comunique-se ao Tribunal de Justiça do Estado de Minas Gerais e ao Juízo da 2ª Vara Criminal e de Execução Penal da Comarca de São João del-Rei.
+Publique-se. Intimem-se.
+ EMENTA
