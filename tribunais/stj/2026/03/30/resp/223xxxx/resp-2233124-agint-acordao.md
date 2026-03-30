@@ -1,0 +1,49 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 24/03/2026 a 30/03/2026, por unanimidade, não conhecer do recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Regina Helena Costa, Gurgel de Faria e Paulo Sérgio Domingues votaram com o Sr. Ministro Relator.
+Presidiu o julgamento a Sra. Ministra Regina Helena Costa.
+Licenciado o Sr. Ministro Sérgio Kukina.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA AO FUNDAMENTO DA DECISÃO AGRAVADA. SÚMULA N. 182/STJ.
+1. Tendo o recurso sido interposto contra decisão publicada na vigência do Código de Processo Civil de 2015 (CPC/2015), devem ser exigidos os requisitos de admissibilidade conforme nele previsto, nos termos do Enunciado Administrativo n. 3/2016/STJ.
+2. Caso no qual a decisão agravada não conheceu do recurso, em razão do óbice da Súmula n. 284/STF. Contudo, nas razões do agravo interno, a parte agravante não impugnou, de forma específica, os fundamentos da decisão agravada.
+3. A falta de impugnação específica dos fundamentos da decisão agravada inviabiliza o conhecimento do agravo interno, nos termos do artigo 1.021, § 1º, do CPC/2015. Incidência da Súmula n. 182/STJ: "É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada."
+4. Agravo interno não conhecido.
+RELATÓRIO
+O SENHOR MINISTRO BENEDITO GONÇALVES (Relator): Trata-se de agravo interno interposto por EVANDRO DE MENEZES DUARTE contra decisão proferida pela Presidência desta Corte que não conheceu do recurso, em razão do óbice da Súmula n. 284/STF.
+A parte agravante alega que o Recurso Especial está fundado na Lei n. 8.112/1990, artigo 217, IV, b e c, e na Súmula n. 663 do Superior Tribunal de Justiça (STJ), matéria prequestionada e já admitida pelo Vice-Presidente do TRF3. Defende a interpretação literal do artigo 217, afirmando que, para filho inválido, não se exige prova de dependência econômica, bastando invalidez anterior ao óbito, conforme a Súmula n. 663 do STJ. Sustenta a possibilidade de cumulação de pensão estatutária com previdenciária e menciona precedentes.
+Sem impugnação (fl. 325).
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA AO FUNDAMENTO DA DECISÃO AGRAVADA. SÚMULA N. 182/STJ.
+1. Tendo o recurso sido interposto contra decisão publicada na vigência do Código de Processo Civil de 2015 (CPC/2015), devem ser exigidos os requisitos de admissibilidade conforme nele previsto, nos termos do Enunciado Administrativo n. 3/2016/STJ.
+2. Caso no qual a decisão agravada não conheceu do recurso, em razão do óbice da Súmula n. 284/STF. Contudo, nas razões do agravo interno, a parte agravante não impugnou, de forma específica, os fundamentos da decisão agravada.
+3. A falta de impugnação específica dos fundamentos da decisão agravada inviabiliza o conhecimento do agravo interno, nos termos do artigo 1.021, § 1º, do CPC/2015. Incidência da Súmula n. 182/STJ: "É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada."
+4. Agravo interno não conhecido.
+VOTO
+O SENHOR MINISTRO BENEDITO GONÇALVES (Relator): Consigne-se inicialmente que o recurso foi interposto contra decisão publicada na vigência do Código de Processo Civil de 2015 (CPC/2015), devendo ser exigidos os requisitos de admissibilidade conforme nele previsto, nos termos do Enunciado Administrativo n. 3/2016/STJ.
+A decisão agravada não conheceu do recurso, tendo por base a seguinte fundamentação (fls. 297-298, destaques acrescidos):
+Por meio da análise do recurso de EVANDRO DE MENEZES DUARTE, verifica-se que incide a Súmula n. 284/STF, porquanto a parte recorrente deixou de indicar precisamente os dispositivos legais federais que teriam sido violados ou quais dispositivos legais seriam objeto de dissídio interpretativo, ressaltando que a mera citação de artigo de lei na peça recursal não supre a exigência constitucional.
+Aplicável, por conseguinte, o enunciado da citada súmula: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia".
+Nesse sentido: "A ausência de expressa indicação de artigos de lei violados inviabiliza o conhecimento do recurso especial, não bastando a mera menção a dispositivos legais ou a narrativa acerca da legislação federal, aplicando-se o disposto na Súmula n. 284 do STF". (AgInt no AREsp n. 1.684.101/MA, Rel. Ministro Moura Ribeiro, Terceira Turma, DJe de 26.8.2020.)
+Também, o Superior Tribunal de Justiça já se manifestou no sentido de que, "uma vez observado, no caso concreto, que nas razões do recurso especial não foram indicados os dispositivos de lei federal acerca dos quais supostamente há dissídio jurisprudencial, a única solução possível será o não conhecimento do recurso por deficiência de fundamentação, nos termos da Súmula 284/STF". (AgRg no REsp 1.346.588/DF, Rel. Ministro Arnaldo Esteves Lima, Corte Especial, DJe de 17.3.2014.)
+Confiram-se ainda os seguintes precedentes: AgInt no ARESP n. 1.611.260 /RS, Rel. Ministro Gurgel de Faria, Primeira Turma, DJe de 26.6.2020; AgInt nos EDcl no REsp n. 1.675.932/PR, Rel. Ministro Francisco Falcão, Segunda Turma, DJe de 4.5.2020; AgInt no REsp n. 1.860.286/RO, Rel. Ministro Antonio Carlos Ferreira, Quarta Turma, DJe de 14.8.2020; AgRg nos EDcl no AREsp n. 1.541.707/MS, Rel. Ministro Joel Ilan Paciornik, Quinta Turma, DJe de 29.6.2020; AgRg no AREsp n. 1.433.038/SP, Rel. Ministro Rogerio Schietti Cruz, Sexta Turma, DJe de 14.8.2020; REsp n. 1.114.407/SP, Rel. Ministro Mauro Campbell Marques, Primeira Seção, DJe de 18.12.2009; e AgRg no EREsp n. 382.756/SC, Rel. Ministra Laurita Vaz, Corte Especial, DJe de 17.12.2009.
+Caso exista nos autos prévia fixação de honorários advocatícios pelas instâncias de origem, determino sua majoração em desfavor da parte recorrente, no importe de 15% sobre o valor já arbitrado, nos termos do art. 85, § 11, do Código de Processo Civil, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão da gratuidade da justiça.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, não conheço do recurso.
+Entreta nto, a parte agravante não impugnou, especificamente, o fundamento da decisão agravada, visto que se limitou a arguir, genérica e equivocadamente, o seguinte: (a) o Recurso Especial está fundado na Lei n. 8.112/1990, artigo 217, IV, b e c, e na Súmula n. 663 do Superior Tribunal de Justiça (STJ), matéria prequestionada e já admitida pelo Vice-Presidente do TRF3; (b) a interpretação literal do artigo 217, afirmando que, para filho inválido, não se exige prova de dependência econômica, bastando invalidez anterior ao óbito, conforme a Súmula n. 663 do STJ; e, (c) a possibilidade de cumulação de pensão estatutária com previdenciária e menciona precedentes.
+Com efeito, à parte agravante impõe-se o ônus de observar o contexto em que os fundamentos da decisão foram lançados e impugná-los, de forma individualizada e específica, o que não ocorreu no caso dos autos.
+Ora, houve reafirmação do direito material e referência a precedentes e à Súmula n. 663/STJ, mas não a demonstração de que o REsp atendeu aos requisitos formais exigidos (inclusive em se tratando de demanda rescisória), e que a decisão teria incorrido em equívoco ao reconhecer deficiência de fundamentação.
+Assim, aplica-se ao caso o disposto no artigo 1.021, § 1º, do CPC/2015, ante o descumprimento do ônus da dialeticidade, de forma que incide à hipótese a Súmula n. 182/STJ: "É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada."
+Nesse sentido:
+PROCESSUAL CIVIL. DECISÃO AGRAVADA. FUNDAMENTOS. IMPUGNAÇÃO ESPECÍFICA. AUSÊNCIA. GRATUIDADE JUDICIÁRIA. INDEFERIMENTO. RECOLHIMENTO DO PREPARO. PEDIDO. INCOMPATIBILIDADE.
+1. Nos termos do art. 1.021, § 1º, do CPC/2015 e da Súmula 182 do STJ, o agravante deve infirmar, nas razões do agravo interno, os fundamentos da decisão impugnada, sob pena de não ser conhecido o seu recurso.
+2. Hipótese em que os recorrentes não se desincumbiram do ônus de impugnar, de forma clara e objetiva, os motivos da decisão ora agravada.
+3. O regular recolhimento do preparo do recurso especial é ato incompatível com o pedido de gratuidade de justiça. Precedentes.
+4. Agravo interno não conhecido. (AgInt no AREsp n. 2.318.133/RJ, relator Ministro Gurgel de Faria, Primeira Turma, julgado em 13/11/2023, DJe de 17/11/2023, grifei.)
+PROCESSUAL CIVIL. ADMINISTRATIVO. EXECUÇÃO. AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DA DECISÃO AGRAVADA. SÚMULA 182/STJ. APLICAÇÃO. AGRAVO INTERNO NÃO CONHECIDO.
+1. A decisão ora recorrida deu provimento ao recurso especial da parte contrária aplicando entendimento consolidado nesta Corte Superior acerca da possibilidade de alegação, a qualquer momento, de matéria de ordem pública, neste caso, a impenhorabilidade de bem de família.
+2. Neste recurso, a parte agravante não rebate as razões expostas na decisão que visa a impugnar, limitando-se a afirmar a impossibilidade de conhecimento do recurso especial, não se referindo ao tema de mérito.
+3. Aplicável ao caso em questão a Súmula 182 do STJ, segundo a qual "é inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada".
+4. Agravo interno não conhecido. (AgInt no AREsp n. 1.560.781/SE, relator Ministro Paulo Sérgio Domingues, Primeira Turma, julgado em 26/6/2023, DJe de 29/6/2023, grifei.)
+Ante o exposto, não conheço do agravo interno.
+É como voto.
