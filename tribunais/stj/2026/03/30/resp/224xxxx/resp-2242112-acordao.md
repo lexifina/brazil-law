@@ -1,0 +1,57 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 24/03/2026 a 30/03/2026, por unanimidade, negar provimento ao recurso, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Antonio Carlos Ferreira, Luís Carlos Gambogi (Desembargador Convocado do TJMG), João Otávio de Noronha e Raul Araújo votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro João Otávio de Noronha.
+EMENTA
+RECURSO ESPECIAL. PROCESSUAL CIVIL E DIREITO CIVIL. DESCONSIDERAÇÃO DA PERSONALIDADE JURÍDICA. AUSÊNCIA DE COMPROVAÇÃO DE DESVIO DE FINALIDADE OU CONFUSÃO PATRIMONIAL. SÚMULA 83/STJ. REEXAME DE FATOS E PROVAS. SÚMULA 7/STJ. RECURSO NÃO PROVIDO.
+1. A desconsideração da personalidade jurídica, medida excepcional prevista no art. 50 do Código Civil, exige a comprovação de abuso da personalidade caracterizado por desvio de finalidade ou confusão patrimonial, não bastando a ausência de bens penhoráveis ou o inadimplemento contumaz, entendimento em consonância com a jurisprudência desta Corte (Súmula 83/STJ). Precedentes.
+2. A revisão da conclusão do acórdão recorrido acerca da inexistência dos requisitos legais da desconsideração demandaria o reexame de fatos e provas, providência vedada em recurso especial (Súmula 7/STJ). Precedentes.
+3. Recurso especial a que se nega provimento.
+RELATÓRIO
+Trata-se de recurso especial interposto, com base nas alíneas "a" e "c" do inciso III do art. 105 da Constituição Federal, por Autopista Régis Bittencourt S/A contra acórdão assim ementado (fl. 25):
+Agravo de Instrumento. Cumprimento de sentença. Incidente de desconsideração da personalidade jurídica. Inadmissibilidade. Ausência de prova de desvio de finalidade ou confusão patrimonial. Recurso desprovido.
+Nas razões do recurso especial (fls. 33-47), a parte recorrente alega, em síntese, que o acórdão recorrido violou o art. 50 do Código Civil e o art. 1.033, IV, do Código Civil.
+Sustenta violação do art. 50 do Código Civil ao argumento de que há demonstração objetiva de desvio de finalidade e confusão patrimonial, com esvaziamento do patrimônio da pessoa jurídica, múltiplas demandas judiciais e alteração societária com intuito de fraudar credores, o que autorizaria a desconsideração da personalidade jurídica para alcançar bens dos sócios.
+Defende ofensa ao art. 1.033, IV, do Código Civil, afirmando que a retirada dos sócios Maria Irani Nóbrega e Olívio Nóbrega Filho, com a admissão de apenas um sócio, em 8/8/2017, em momento posterior ao trânsito em julgado da condenação, configuraria manobra incompatível com a exigência de pluralidade de sócios então vigente, reforçando a intenção de frustrar o adimplemento.
+O recurso também aponta divergência jurisprudencial em torno da possibilidade de desconsideração da personalidade jurídica diante de confusão patrimonial, desvio de finalidade e alterações societárias voltadas à fraude contra credores.
+Contrarrazões às fls. 57-60, nas quais a parte recorrida alega: a) ausência de demonstração de violação direta de dispositivo legal e de dissídio jurisprudencial; b) pretensão de reexame do conjunto fático-probatório, com incidência da Súmula 7/STJ; c) inexistência de prova de desvio de finalidade, confusão patrimonial ou fraude na alteração do quadro societário; d) pedido de não conhecimento do recurso e, subsidiariamente, de negar provimento.
+É o relatório.
+EMENTA
+RECURSO ESPECIAL. PROCESSUAL CIVIL E DIREITO CIVIL. DESCONSIDERAÇÃO DA PERSONALIDADE JURÍDICA. AUSÊNCIA DE COMPROVAÇÃO DE DESVIO DE FINALIDADE OU CONFUSÃO PATRIMONIAL. SÚMULA 83/STJ. REEXAME DE FATOS E PROVAS. SÚMULA 7/STJ. RECURSO NÃO PROVIDO.
+1. A desconsideração da personalidade jurídica, medida excepcional prevista no art. 50 do Código Civil, exige a comprovação de abuso da personalidade caracterizado por desvio de finalidade ou confusão patrimonial, não bastando a ausência de bens penhoráveis ou o inadimplemento contumaz, entendimento em consonância com a jurisprudência desta Corte (Súmula 83/STJ). Precedentes.
+2. A revisão da conclusão do acórdão recorrido acerca da inexistência dos requisitos legais da desconsideração demandaria o reexame de fatos e provas, providência vedada em recurso especial (Súmula 7/STJ). Precedentes.
+3. Recurso especial a que se nega provimento.
+VOTO
+Originariamente, trata-se de cumprimento de sentença derivado de ação de reparação de danos materiais, em que a parte autora pleiteou indenização. A sentença julgou parcialmente procedente o pedido para condenar a ré ao pagamento de R$ 211.826,08 (duzentos e onze mil, oitocentos e vinte e seis reais e oito centavos), corrigido monetariamente desde o ajuizamento e acrescido de juros legais desde a citação.
+Na fase executiva, o juízo indeferiu o pedido de desconsideração da personalidade jurídica, por ausência de comprovação de desvio de finalidade ou confusão patrimonial. Embargos de declaração opostos contra a decisão singular foram rejeitados.
+O Tribunal de origem negou provimento ao agravo de instrumento, entendendo inadmissível a desconsideração da personalidade jurídica, por falta de prova de desvio de finalidade ou confusão patrimonial. Afastou a mera inexistência de bens penhoráveis e considerou insuficientes, por si só, as alterações do quadro societário para caracterizar fraude.
+O recurso não merece prosperar.
+A controvérsia em tela, repita-se, decorre de agravo de instrumento interposto contra decisão proferida pelo juízo de primeiro grau que indeferiu o processamento do incidente de desconsideração da personalidade jurídica, sob o fundamento de ausência de demonstração da ocorrência de desvio de finalidade ou de confusão patrimonial.
+A Corte estadual, por sua vez, manteve aludida decisão de primeiro grau, afirmando que ausente descrição da fraude hábil a demonstrar responsabilidade, por dolo ou culpa, relativa à inexistência de bens para saldar o débito. Ainda, asseverou que a confusão patrimonial não restou evidenciada, sendo que a mera alteração do quadro societário não é sinônimo de malícia.
+Ora, inviável cogitar acerca de violação ao art. 50, do CC. Afinal, o acórdão recorrido encontra amparo na jurisprudência do Superior Tribunal de Justiça de que "A teoria da desconsideração da personalidade jurídica, medida excepcional prevista no art. 50 do Código Civil, pressupõe a ocorrência de abusos da sociedade, advindos do desvio de finalidade ou da demonstração de confusão patrimonial. A mera inexistência de bens penhoráveis ou eventual encerramento irregular das atividades da empresa não enseja a desconsideração da personalidade jurídica" (AgInt no AREsp n. 924.641/SP, relator Ministro Marco Buzzi, Quarta Turma, julgado em DJe de 12/11/2019).
+Dito de outro modo, o entendimento do Tribunal de origem, segundo o qual a mera inexistência de bens não é capaz de deflagrar automaticamente a desconsideração da personalidade jurídica, coincide com o reiterado posicionamento do Superior Tribunal de Justiça, o que atrai a incidência da Súmula 83/STJ.
+Aliás, ao ponderar sobre a controvérsia, reconheceu o Tribunal inferior, com base nos elementos de provas dos autos e na peculiaridade do caso concreto, que não ficaram configurados os requisitos para desconsideração da personalidade.
+Lembre-se de que não basta a falta de bens passíveis de constrição, sendo indispensável fortes indícios de desvio de finalidade e esvaziamento patrimonial com o escopo patente de lesar credores. No caso em mesa, tal inocorreu.
+Assim, para infirmar referida conclusão e decidir de forma diversa seria imprescindível o reexame fático-probatório, o que é incabível em recurso especial, em face do óbice da Súmula 7/STJ. Neste sentido: AgInt nos EDcl no REsp n. 1.677.200/MS, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 8/4/2024, DJe de 11/4/2024; e AgInt no AREsp n. 2.057.822/SP, relator Ministro Raul Araújo, Quarta Turma, julgado em 8/8/2022, DJe de 26/8/2022.
+A dar amparo:
+DIREITO CIVIL. RECURSO ESPECIAL. DESCONSIDERAÇÃO DA PERSONALIDADE JURÍDICA. REQUISITOS LEGAIS. AUSÊNCIA DE COMPROVAÇÃO. RECURSO NÃO CONHECIDO.
+I. CASO EM EXAME
+1. Recurso especial interposto contra acórdão do Tribunal de Justiça do Estado de São Paulo que manteve decisão de primeiro grau, indeferindo o processamento de incidente de desconsideração da personalidade jurídica, sob o fundamento de ausência de comprovação dos requisitos previstos no art. 50 do Código Civil.
+2. A parte recorrente alegou violação do art. 50 do Código Civil, sustentando que houve abuso da personalidade jurídica, caracterizado pelo desvio de finalidade e pela confusão patrimonial, diante do esvaziamento patrimonial da empresa, o que justificaria a desconsideração da personalidade jurídica.
+3. O Tribunal de origem concluiu que não foram apresentados elementos probatórios suficientes para demonstrar o abuso da personalidade jurídica, limitando-se a recorrente a afirmar que a ausência de bens penhoráveis seria suficiente para a desconsideração, entendimento que foi mantido com base na jurisprudência do Superior Tribunal de Justiça.
+II. QUESTÃO EM DISCUSSÃO
+4. A questão em discussão consiste em saber se a ausência de bens penhoráveis e o inadimplemento de obrigações, ainda que contumaz, são suficientes para justificar a desconsideração da personalidade jurídica, à luz dos requisitos previstos no art. 50 do Código Civil.
+III. RAZÕES DE DECIDIR
+5. A desconsideração da personalidade jurídica, medida excepcional prevista no art. 50 do Código Civil, exige a comprovação de abuso da personalidade jurídica, caracterizado por desvio de finalidade ou confusão patrimonial, o que não foi demonstrado nos autos.
+6. A mera inexistência de bens penhoráveis ou o inadimplemento de obrigações, ainda que contumaz, não são suficientes para justificar a desconsideração da personalidade jurídica, conforme jurisprudência consolidada do Superior Tribunal de Justiça, o que atrai a incidência da Súmula n. 83 do STJ.
+7. A análise da existência de fraude ou abuso de direito, conforme alegado pela parte recorrente, demandaria reexame de matéria fático-probatória, o que é vedado em sede de recurso especial, nos termos da Súmula n. 7 do STJ.
+IV. DISPOSITIVO E TESE
+8. Recurso não conhecido.
+Tese de julgamento: "1. Estando o acórdão recorrido em consonância com a orientação do STJ, a saber, que a ausência de bens penhoráveis ou o inadimplemento de obrigações, ainda que contumaz, não são suficientes para justificar a desconsideração da personalidade jurídica, tem aplicação o óbice previsto na Súmula 83 do STJ. 2. O reexame de matéria fático-probatória é vedado em sede de recurso especial, nos termos da Súmula n. 7 do STJ."
+Dispositivos relevantes citados: Código Civil, art. 50; CPC, art. 85, § 11.
+Jurisprudência relevante citada: STJ, AgInt no AREsp 924.641/SP, relator Ministro Marco Buzzi, Quarta Turma, julgado em 29.10.2019;
+STJ, AgInt nos EDcl no REsp 1.677.200/MS, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 08.04.2024; STJ, AgInt no AREsp 2.057.822/SP, relator Ministro Raul Araújo, Quarta Turma, julgado em 08.08.2022.
+(REsp n. 2.207.091/SP, relator Ministro João Otávio de Noronha, Quarta Turma, julgado em 24/11/2025, DJEN de 28/11/2025.)
+Em face do exposto, conheço e nego provimento ao recurso especial.
+Deixo de arbitrar ou majorar honorários nos termos do art. 85, § 11, do CPC, visto que o recurso foi interposto nos a utos de agravo de instrumento que ataca decisão interlocutória.
+É como voto.
