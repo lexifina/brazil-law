@@ -1,0 +1,22 @@
+DECISÃO
+Trata-se de recurso em habeas corpus interposto contra acórdão proferido pelo Tribunal de Justiça de Alagoas.
+O recorrente, em 23/7/2025, "foi preso em flagrante e teve sua prisão convertida em preventiva, pela suposta prática do crime previsto no art. 33, caput, da Lei n.º 11.343/2006 (tráfico de drogas)" (fl. 244).
+Em suas razões, argumenta, em suma, com a ausência dos requisitos do art. 312 do CPP, requerendo, ao final, a revogação da prisão preventiva ou a sua substituição pelas medidas cautelares previstas no art. 319 da mesma lei processual.
+Manifestou-se o Ministério Público Federal nos termos da seguinte ementa (fl. 277):
+RECURSO ORDINÁRIO EM HABEAS CORPUS. CRIME DE TRÁFICO DE DROGAS. PROVAS. VIOLAÇÃO DE DOMICÍLIO. INEXISTÊNCIA. PRISÃO PREVENTIVA. REVOGAÇÃO. NÃO VIABILIDADE. NECESSIDADE DE MANUTENÇÃO DA PRISÃO PREVENTIVA. DECISÃO FUNDAMENTADA NA GARANTIA DA ORDEM PÚBLICA E NA APLICAÇÃO DA LEI PENAL. MEDIDAS CAUTELARES ALTERNATIVAS. INADEQUADAS. NÃO APLICAÇÃO. ILEGALIDADE AUSENTE. RISCO DE FUGA. RISCO DE REITERAÇÃO CRIMINOSA. CONSTRANGIMENTO ILEGAL NÃO CONFIGURADO.
+- Parecer pelo DESPROVIMENTO do recurso ordinário.
+Na origem, Processo n. 0711868-49.2025.8.02.0058, oriundo da 5ª Vara de Arapiraca/AL, designou-se audiência de instrução e julgamento para 20/5/2026, conforme informações processuais extraídas do site do TJ/AL em 25/3/2026.
+É o relatório.
+Não obstante a excepcionalidade que é a privação cautelar da liberdade antes do trânsito em julgado da sentença condenatória, reveste-se de legalidade a medida extrema quando baseada em elementos concretos, nos termos do art. 312 do CPP.
+A decisão que decretou a prisão preventiva, no que interessa, teve a seguinte fundamentação (fls. 50-51):
+ ..  No tocante à conversão em prisão preventiva, verifica-se que a conduta atribuída aos custodiados revela-se grave, dada a quantidade e variedade de entorpecentes apreendidos (mais de 70 gramas de crack e 3 gramas de maconha), além da existência de indícios suficientes de autoria, conforme relato policial e confissão parcial. Há ainda elementos concretos que indicam risco à ordem pública, mormente diante da estruturação para o tráfico, inclusive com associação e resistência à prisão.
+Com relação a Wagner, além do flagrante, recai contra si mandado de prisão temporária regularmente expedido, o qual deve ser cumprido imediatamente, com anotação nos autos.
+Verifico ainda que, no presente momento, as medidas cautelares diversas da prisão não se mostram suficientes e adequadas para tutelar os bens jurídicos ameaçados (art. 282, § 6º, do CPP), notadamente a ordem pública e a credibilidade da justiça. ..
+Como se vê, descaraterizada a alegada inidoneidade do decreto prisional, haja vista a quantidade de drogas apreendidas - 70 gramas de crack e 3 gramas de maconha -, a primeira, como se sabe, de alto poder nocivo, além da reiteração delitiva (fl. 229), pois recai contra o acusado, ora recorrente, "mandado de prisão temporária regularmente expedido, o qual deve ser cumprido imediatamente".
+"O Supremo Tribunal Federal já concluiu que "mostra-se idônea a segregação cautelar fundada na garantia da ordem pública, quando demonstrada a periculosidade social do agente evidenciada pela quantidade, variedade e natureza da droga apreendida" (HC n. 210.563 AgR, relator Nunes Marques, Segunda Turma, julgado em 9/5/2022, DJe 6/6/2022)" (AgRg no HC n. 972.161/RS, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 5/3/2025, DJEN de 11/3/2025).
+"O fato de o agente ostentar maus antecedentes, reincidência, atos infracionais pretérito, inquérito ou mesmo ações penais em curso constitui fundamento idôneo e suficiente para justificar a prisão preventiva do acusado, por demonstrar sua periculosidade e risco concreto de reiteração delitiva." (AgRg no HC n. 971.661/ES, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 14/4/2025, DJEN de 24/4/2025).
+Por fim, em razão da motivação acima, " a s circunstâncias que envolvem o fato demonstram que outras medidas previstas no art. 319 do CPP não surtiriam o efeito almejado para a proteção da ordem pública, sendo certo, ainda, que condições subjetivas favoráveis do acusado, por si sós, não impedem a prisão cautelar, caso se verifiquem presentes os requisitos legais para a decretação da segregação provisória" (RCD no HC n. 1.061.322/SP, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 4/3/2026, DJEN de 9/3/2026).
+Diante do exposto, nego provimento ao recurso em habeas corpus.
+Publique-se.
+Intimem-se.
+EMENTA
