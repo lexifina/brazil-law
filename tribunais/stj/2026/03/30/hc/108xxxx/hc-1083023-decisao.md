@@ -1,0 +1,53 @@
+DECISÃO
+Trata-se de habeas corpus substitutivo de recurso próprio impetrado em benefício de JOÃO PEDRO MONTEIRO no qual se aponta como autoridade coatora o Tribunal de Justiça do Estado do Rio de Janeiro.
+Consta dos autos que o paciente foi condenado como incurso nos arts. 33, caput, e 35, ambos da Lei 11.343/06, à pena de 10 anos e 1 mês de reclusão, em regime inicial fechado, mais pagamento de 1.500 dias-multa.
+Inconformada, a defesa interpôs recurso de apelação, que foi improvido, mantendo-se integralmente a condenação.
+Nesta Corte, sustenta a impetrante ausência de prova do vínculo associativo exigido pelo art. 35 da Lei 11.343/06, porque não há demonstração de estabilidade e permanência, tampouco identificação de corréus, divisão de tarefas ou estrutura organizacional, sendo a condenação fundada em presunções relativas à atuação em local dominado por facção criminosa (fls. 2-3).
+Pontua que parte da droga apreendida não foi atribuída ao paciente, tendo o acórdão incorrido em contradição ao utilizar tal elemento para reforçar a condenação pelo art. 35, ampliando indevidamente o juízo condenatório sem lastro probatório.
+Requer a concessão definitiva da ordem para afastar a condenação pelo art. 35 da Lei 11.343/06.
+É o relatório.
+Decido.
+Esta Corte - HC 535.063/SP, Terceira Seção, Rel. Ministro Sebastião Reis Junior, julgado em 10/6/2020 - e o Supremo Tribunal Federal - AgRg no HC 180.365, Primeira Turma, Rel. Min. Rosa Weber, julgado em 27/3/2020; AgR no HC 147.210, Segunda Turma, Rel. Min. Edson Fachin, julgado em 30/10/2018 -, pacificaram orientação no sentido de que não cabe habeas corpus substitutivo do recurso legalmente previsto para a hipótese, impondo-se o não conhecimento da impetração, salvo quando constatada a existência de flagrante ilegalidade no ato judicial impugnado.
+Passo, assim, à análise das razões da impetração, de forma a verificar a ocorrência de flagrante ilegalidade a justificar a concessão do habeas corpus, de ofício.
+O Tribunal de origem manteve a condenação do agravante pelo delito de associação para o tráfico sob os seguintes fundamentos:
+Na hipótese, indubitável a associação do acusado, eis que a localidade onde o acusado foi preso novamente em flagrante, após ter sido rendido por policiais na posse de drogas é dominada pela facção criminosa "Comando Vermelho", que é extremamente estruturada e violenta.
+Além disso, a prova do vínculo da estabilidade e da permanência da associação extrai-se também das circunstâncias da prisão e da palavra dos policiais, tendo em vista que a atuação conjunta do réu com traficantes que atuavam em localidade dominada por facção criminosa, além da farta quantidade encontradas com o réu, que estavam embaladas separadamente prontas para venda, o que denota comunhão de desígnios entre os agentes para a comercialização do material entorpecente.
+Ou seja, a farta quantidade de drogas encontradas com o réu, que estavam embaladas separadamente prontas para a venda, com as inscrições "PDS", "CV PÓ DE 10" e "APROVADA", denota a comunhão de desígnios entre os agentes para a comercialização do material entorpecente.
+E, como já dito, a localidade dominada por facção criminosa, não se permite considerar que atuava autonomamente, sem estar associado aos demais traficantes da localidade.
+Assim, os requisitos da estabilidade e permanência estão preenchidos, considerando a quantidade de material entorpecente disponibilizado ao réu para a comercialização, na localidade dominada pelo "Comando Vermelho", sendo substância altamente nociva à saúde.
+As inúmeras etiquetas que acompanhavam a droga apreendida revelam que o acusado, em união de desígnios com outros elementos, não era um traficante ocasional, possuindo artefatos que indicam a finalidade de comercialização duradoura das substâncias ilícitas.
+Vale destacar, ainda, que o acusado é reincidente específico (FAC - index 203899659 - anotações 01 e 02), em razão do cometimento do crime de tráfico de drogas, ambos praticados na mesma localidade (Praia do Siqueira) do crime ora apurado.
+Ou seja, o contexto fático demonstra que o réu estava associado com integrantes não identificados da facção criminosa Comando Vermelho (CV), de forma permanente e estável, para o fim de praticar o tráfico na localidade (Rua Rondônia, Praia do Siqueira, Cabo Frio/RJ), que é dominada por essa facção.
+Para a caracterização do crime de associação criminosa, é imprescindível a demonstração concreta do vínculo permanente e estável entre duas ou mais pessoas, com a finalidade de praticarem os delitos do art. 33, caput e § 1º e/ou do art. 34, da Lei de Drogas (HC 354.109/MG, Rel. Ministro JORGE MUSSI, QUINTA TURMA, julgado em 15/9/2016, DJe 22/9/2016; HC 391.325/SP, Rel. Ministra MARIA THEREZA DE ASSIS MOURA, SEXTA TURMA, julgado em 18/5/2017, DJe 25/5/2017).
+Na hipótese, à mingua de um exame aprofundado do conteúdo probatório, verifica-se que as instâncias ordinárias não apresentaram elementos concretos que demonstrem efetivamente o animus associativo entre o paciente e os outros agentes.
+O Tribunal de origem manteve a condenação pelo delito do art. 35 da Lei n. 11.343/2006, em razão de o réu ter sido preso em flagrante, em local dominado por facção criminosa, com significativa quantidade de droga etiquetada com adesivos do referido grupo criminoso.
+A subsunção ao tipo penal de associação ao tráfico tem como amparo mera presunção de que ele seria integrante da referida facção criminosa. Não há conjunto probatório que aponte a sua participação nas atividades criminosas habituais do grupo criminoso. Ademais, como se verifica, o paciente foi o único denunciado pelo delito de associação para o tráfico, embora o crime seja de concurso necessário. Logo, a absolvição do réu é medida que se impõe.
+A seguir os seguintes precedentes que respaldam esse entendimento:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. DIREITO PENAL. ASSOCIAÇÃO PARA O TRÁFICO DE DROGAS (ART. 35 DA LEI N. 11.343/2006). AUSÊNCIA DE PROVAS CONCRETAS DO VÍNCULO ESTÁVEL E PERMANENTE ENTRE OS AGENTES. ABSOLVIÇÃO MANTIDA. AGRAVO IMPROVIDO.
+1. O habeas corpus não pode ser utilizado como substitutivo de revisão criminal, sob pena de configuração da supressão de instância, em desacordo com o que dispõe o art. 105, I, e, da Constituição Federal acerca das competências do Superior Tribunal de Justiça. Todavia, a existência de flagrante ilegalidade que autoriza a concessão da ordem, assim como ocorreu na presente hipótese.
+2. Para a caracterização do delito de associação para o tráfico de drogas, é imprescindível a demonstração concreta de vínculo associativo estável e permanente entre os agentes, com ânimo específico de se associarem para o comércio ilícito de entorpecentes, nos termos do art. 35 da Lei n. 11.343/2006.
+3. No caso, a condenação do agravado lastreou-se em meras inferências extraídas da prática do tráfico de drogas e da apreensão de objetos relacionados ao comércio espúrio, sem elementos probatórios suficientes a evidenciar o animus associativo, não se podendo confundir eventual coautoria com a societas sceleris exigida pelo tipo penal.
+4. A jurisprudência desta Corte Superior é firme de que a condenação por associação para o tráfico exige elementos mínimos de prova da estabilidade e permanência da associação, não bastando presunções decorrentes da dinâmica do tráfico.
+5. A pretensão do impetrante, tal como posta, não exige o reexame do conjunto probatório, mas a revaloração jurídica das circunstâncias fáticas já devidamente delineadas pelas instâncias ordinárias.
+6. Agravo regimental improvido.
+(AgRg no HC n. 909.021/SP, relator Ministro Og Fernandes, Sexta Turma, julgado em 1/7/2025, DJEN de 7/7/2025.)
+DIREITO PENAL. AGRAVO REGIMENTAL. ASSOCIAÇÃO PARA O TRÁFICO DE DROGAS. AUSÊNCIA DE ESTABILIDADE E PERMANÊNCIA. AGRAVO DESPROVIDO.
+I. Caso em exame
+1. Agravo regimental interposto pelo Ministério Público Federal contra decisão que conheceu do agravo para conhecer em parte do recurso especial e, com fundamento na Súmula n. 568 do STJ, deu-lhe provimento para absolver os agravantes do delito do art. 35 da Lei n. 11.343/06.
+2. O Tribunal de Justiça do Estado do Rio de Janeiro reformou a sentença de primeira instância para condenar os réus por associação para o tráfico, com base em elementos como a apreensão de drogas e armas em local dominado por facção criminosa.
+II. Questão em discussão
+3. A questão em discussão consiste em saber se os elementos apresentados são suficientes para configurar o delito de associação para o tráfico de drogas, conforme o art. 35 da Lei n. 11.343/06, que exige estabilidade e permanência no vínculo associativo.
+III. Razões de decidir
+4. A jurisprudência do STJ e do STF exige prova incontestável de envolvimento estável e permanente com grupo criminoso para configurar o crime de associação para o tráfico, o que não foi demonstrado no caso.
+5. A mera presença dos réus em local controlado por facção criminosa e a apreensão de drogas e armas não são suficientes para comprovar a estabilidade e permanência necessárias para a condenação por associação para o tráfico.
+6. A decisão de primeira instância, que absolveu os réus por falta de provas concretas de estabilidade e permanência, deve ser restabelecida.
+IV. Dispositivo e tese
+7. Agravo regimental desprovido.
+Tese de julgamento: "1. A configuração do crime de associação para o tráfico de drogas exige prova de estabilidade e permanência no vínculo associativo. 2. A mera presença em local controlado por facção criminosa e a apreensão de drogas e armas não são suficientes para comprovar a estabilidade e permanência necessárias para a condenação".
+Dispositivos relevantes citados: Lei nº 11.343/2006, art. 35.
+Jurisprudência relevante citada: STF, HC 124.164, Rel. Min. Teori Zavascki, 2ª Turma, j. 11.11.2014; STJ, AgRg no HC 731.019/RJ, Rel. Min. Laurita Vaz, Sexta Turma, j. 23.03.2023; STJ, AgRg no HC 760.297/RJ, Rel. Min. Jesuíno Rissato, Sexta Turma, j. 07.03.2023.
+(AgRg no AREsp n. 2.735.335/RJ, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 20/3/2025, DJEN de 26/3/2025.)
+Por fim, não cabe acolhimento o pedido de reconhecimento do tráfico privilegiado, pois trata-se de acusado reincidente, resultando a pena definitiva - pelo delito de tráfico de drogas - em 6 anos e 3 meses de reclusão, mais 625 dias-multa. O regime prisional fica mantido o inicial fechado, em razão da dupla reincidência específica do agente.
+Ante o exposto, não conheço do habeas corpus. Todavia, concedo a ordem, de ofício, para absolver o paciente da imputação do delito do art. 35, caput, da Lei n. 11.343/2006.
+Publique-se. Intimem-se.
+EMENTA
