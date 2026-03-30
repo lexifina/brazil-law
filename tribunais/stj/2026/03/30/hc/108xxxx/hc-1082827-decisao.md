@@ -1,0 +1,80 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em benefício de MARCO ANTONIO OLIVEIRA FONTES PINHEIRO, contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO DE JANEIRO no julgamento do Agravo de Execução Penal n. 5014376-79.2025.8.19.0500.
+Extrai-se dos autos que o Juízo da Vara de Execução Penal indeferiu o pedido de absolvição no procedimento disciplinar e homologou a falta grave, determinando a interrupção da data-base para progressão de regime, em desfavor do paciente.
+O Tribunal de origem negou provimento ao agravo de execução penal interposto pelo paciente, nos termos do acórdão que restou assim ementado (fls. 19/20):
+"DIREITO PROCESSUAL PENAL. AGRAVO EM EXECUÇÃO. FALTA GRAVE. RECURSO DEFENSIVO. DESPROVIDO.
+I. CASO EM EXAME
+1. Agravo em Execução contra decisão que homologou falta grave, nos termos dos artigos 50, VI, c/c 39, II, ambos da LEP, e, assim, determinou a interrupção do prazo para progressão de regime, com a realização de novo cálculo da fração necessária ao benefício, a partir da última falta grave do executado (07.02.2025).
+II. QUESTÃO EM DISCUSSÃO
+2. Legalidade do processo administrativo disciplinar.
+III. RAZÕES DE DECIDIR
+3. O controle jurisdicional do processo administrativo disciplinar limita-se à regularidade do procedimento e à legalidade do ato, não cabendo incursão no mérito administrativo, salvo em casos de flagrante ilegalidade ou desproporcionalidade, o que não se verifica no caso concreto.
+4. A prática da falta disciplinar de natureza grave foi devidamente apurada nos autos do processo disciplinar, consistente na conduta prevista nos artigos 50, VI, c/c 39, II, ambos da LEP, vez que o reeducando teria agido com insubordinação ao ser retirado da cela para atendimento médico externo, dizendo ao agente, in verbis, "tu tem que saber esperar, irmão! E sairei na hora que eu quiser e bem entender!"
+5. A defesa técnica assistiu o apenado em todas as fases do procedimento, inclusive durante o interrogatório, sendo assegurando o direito à ampla defesa e o contraditório.
+6. Não há de se falar em nulidade da prova, sob a alegação de estar embasada na narrativa do agente público, pois as declarações dos agentes penitenciários gozam de presunção de veracidade, não havendo, no caso, motivos plausíveis para se supor acusação injusta de falta grave.
+7. Em atenção ao Princípio da Independência das esferas administrativa e penal, no que diz respeito ao processo disciplinar, incumbe ao Judiciário tão somente assegurar ao apenado as garantias processuais, o que foi observado na hipótese, não havendo que se falar em bis in idem em razão da sanção já aplicada pela Administração Penitenciária.
+IV. DISPOSITIVO E TESE
+8. Recurso desprovido."
+No presente writ, a defesa alega a nulidade do procedimento administrativo disciplinar pela ausência de defesa técnica na oitiva do apenado e de lastro probatório mínimo, sendo inadmissível a fundamentação exclusiva em narrativa unilateral de agente penitenciário, desacompanhada de qualquer elemento externo de corroboração.
+Sustenta a existência de versões conflitantes entre o agente penitenciário e o apenado, configurando dúvida objetiva que impõe a aplicação do princípio do in dubio pro reo.
+Assevera a irregularidade decorrente da inexistência de oitiva de testemunhas, especialmente diante de suposta repercussão coletiva dos fatos, o que evidencia fragilidade do conjunto probatório.
+Argui que a presunção de veracidade dos agentes públicos é relativa e não se confunde com prova suficiente, sendo impróprio utilizá-la como substituto de comprovação mínima para imposição de sanção disciplinar.
+Defende a desproporcionalidade das sanções aplicadas - isolamento, suspensão de direitos e rebaixamento de comportamento -, por estarem fundadas em prova isolada e contraditada, com impacto direto na execução penal.
+Argumenta que a interrupção da data-base para progressão pressupõe o reconhecimento válido da falta grave, não sendo admissível quando o procedimento disciplinar está maculado por ausência de prova mínima.
+Aduz que o controle judicial não se limita ao aspecto formal, devendo abranger a suficiência probatória e a compatibilidade do ato administrativo com as garantias constitucionais e convencionais.
+Alega a ausência de tipicidade material da conduta descrita como insubordinação, por inexistência de violência, risco concreto à ordem ou subversão disciplinar.
+Requer, em liminar, a suspensão imediata dos efeitos do reconhecimento da falta grave, o restabelecimento da data-base anterior para progressão, a não consideração da falta para quaisquer efeitos executórios e a reclassificação provisória do comportamento carcerário; e, no mérito, pugna pela concessão da ordem para que seja declarada a nulidade do procedimento administrativo disciplinar ou, subsidiariamente, reconhecida a absolvição do apenado, com as respectivas consequências legais.
+É o relatório.
+Decido.
+Diante da hipótese de habeas corpus substitutivo de recurso próprio, a impetração sequer deveria ser conhecida, segundo orientação jurisprudencial do Supremo Tribunal Federal e do próprio Superior Tribunal de Justiça.
+Todavia, considerando as alegações expostas na inicial, razoável o processamento do feito para verificar a existência de eventual constrangimento ilegal que justifique a concessão da ordem de ofício.
+O TJ/RJ ratificou a homologação da falta disciplinar de natureza grave, nos seguintes termos:
+"Como cediço, em respeito ao princípio da independência das esferas administrativa e penal, incumbe ao judiciário assegurar ao apenado as garantias constitucionais e não proceder ao revolvimento da prova da infração.
+Destarte, não restou evidenciada nenhuma ilegalidade ou cerceamento de defesa no referido procedimento disciplinar, na medida em que a defesa técnica assistiu presencialmente ao acusado durante o seu interrogatório, teve ciência de todos os atos pertinentes ao prosseguimento regular do feito e defendeu com plenitude os interesses do agravante.
+Da análise dos autos, afere-se que a Comissão Técnica de Classificação procedeu à oitiva do reeducando, ocasião em que ele, na presença da Defensora Pública, informou alegou ter havido um mal entendido, já que as palavras proferidas se destinavam a outro interno, que estava apressando enquanto ele mudava de roupa. Por seu turno, a Defensoria Pública apresentou resposta em que explanou todas as teses de defesa, requerendo a absolvição do apenado.
+Verifica-se, portanto, que a apuração da falta atribuída ao apenado observou todos os seus direitos legais e constitucionais, garantindo-lhe o contraditório e o exercício da ampla defesa, assegurados pelo artigo 5º, LV, da CR/88.
+Noutro giro, ao contrário do que é alegado pela defesa, os fatos foram clara e objetivamente descritos pela autoridade administrativa e a conduta foi classificada como grave, nos termos da legislação vigente.
+Não há de se falar, ainda, em nulidade da prova, sob a alegação de estar embasada, tão somente, na narrativa do agente público, de modo que, as declarações dos agentes penitenciários possuem presunção de veracidade, não se vislumbrando, no presente caso, haver motivos plausíveis para que o apenado fosse, aqui, acusado injustamente da prática da falta grave acima citada.
+Nos termos do artigo 47 da Lei nº 7.210/84, "o poder disciplinar, na execução da pena privativa de liberdade, será exercido pela autoridade administrativa", cujos atos gozam das presunções de legitimidade (captação da vontade política) e legalidade (captação da vontade jurídica), além da característica da autoexecutoriedade, da qual deflui a necessidade de acautelar com rapidez e eficiência o interesse público.
+Além de inexistir qualquer ilegalidade no procedimento disciplinar ou na sanção aplicada, à luz do princípio da independência das esferas administrativa e penal, a imposição de sanção de rebaixamento e de isolamento já aplicados pela Administração Penitenciária não constitui bis in idem frente a decisão judicial ora impugnada.
+Por fim, cumpre colacionar o seguinte julgado do Superior Tribunal de Justiça sobre o tema:
+ ..
+Dessa forma, caracterizada a prática de falta grave pelo apenado, correta a fixação da data da última falta grave como termo inicial para a elaboração de cálculo da pena remanescente para a progressão, consoante o disposto na Súmula 534 do STJ." (fls. 22/26).
+Da leitura dos excertos, verifica-se que, ao contrário do afirmado pela Defensoria Pública, restou consignado no acórdão que o paciente foi assistido por defesa técnica em todos os atos do procedimento administrativo disciplinar, inclusive durante o seu interrogatório - o que afasta a alegação de cerceamento de defesa e ofensa ao princípio do contraditório.
+Além disso, o Tribunal de origem, diante do acervo fático-probatório dos autos, confirmou a conduta de insubordinação do paciente contra agente penitenciário, por ocasião de seu deslocamento para atendimento médico externo.
+A despeito das considerações tecidas pela defesa, a jurisprudência desta Corte firmou orientação pela validade do reconhecimento da falta grave com base em relatos de agentes penitenciários - circunstância esta que dispensa a produção de outras provas (AgRg no HC n. 943.563/SP, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 30/10/2024, DJe de 6/11/2024).
+Outrossim, é pacífico o entendimento do Superior Tribunal de Justiça - STJ no sentido de que " p ara superar as conclusões alcançadas na origem e chegar às pretensões apresentadas pelo agravante, para análise de tese de insuficiência probatória, com a consequente absolvição ou, ainda, para desclassificar a falta grave imputada para uma de natureza média ou leve, seria necessário amplo reexame da matéria fático-probatória, procedimento incompatível com a estreita via do habeas corpus" (AgRg no HC n. 936.933/SP, relator Ministro Otávio de Almeida Toledo (Desembargador Convocado do TJSP), Sexta Turma, julgado em 16/10/2024, DJe de 23/10/2024).
+No mesmo sentido, os recentes julgados (grifos nossos):
+AGRAVO REGIMENTAL NO HABEAS CORPUS. HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. INEXISTÊNCIA DE FLAGRANTE ILEGALIDADE. EXECUÇÃO PENAL. FALTA GRAVE. PAD. AUSÊNCIA DE DEFESA TÉCNICA NA OITIVA ADMINISTRATIVA. NULIDADE NÃO CONFIGURADA. DEFESA ESCRITA APRESENTADA PELA DEFENSORIA PÚBLICA. PREJUÍZO NÃO DEMONSTRADO. PROVA IDÔNEA. PALAVRA DO AGENTE PENITENCIÁRIO. MODIFICAÇÃO DAS CONCLUSÕES. INVIABILIDADE NA VIA ELEITA. COGNIÇÃO SUMÁRIA. IMPOSSIBILIDADE DE REEXAME APROFUNDADO DO ACERVO PROBATÓRIO. CONSECTÁRIOS EXECUTÓRIOS MANTIDOS. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. O habeas corpus não pode ser utilizado como substituto de recurso próprio, sendo possível a concessão da ordem de ofício apenas em casos de flagrante ilegalidade. No caso, não se verificou constrangimento ilegal apto a justificar medida de ofício.
+2. A alegação de nulidade do procedimento administrativo disciplinar por ausência de defesa técnica na oitiva administrativa não prospera quando demonstrada a apresentação de defesa escrita pela Defensoria Pública, inexistindo prejuízo concreto.
+3. A palavra do agente penitenciário, dotada de presunção de legitimidade, é prova idônea e suficiente para a configuração da falta disciplinar, quando não infirmada pela defesa, especialmente em situação de flagrância.
+4. Pretensões de revaloração probatória para infirmar a materialidade e autoria da falta grave não se compatibilizam com a via estreita do habeas corpus.
+5. Mantêm-se os consectários legais decorrentes da falta grave regularmente reconhecida, notadamente a interrupção da data-base e a perda de até 1/3 dos dias remidos, nos termos da legislação de regência e da jurisprudência desta Corte.
+6. Agravo regimental não provido.
+(AgRg no HC n. 1.065.318/RJ, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 10/3/2026, DJEN de 17/3/2026.)
+DIREITO PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO PENAL. FALTA GRAVE. POSSE DE CELULAR. PRESCRIÇÃO. APLICAÇÃO DO ART. 109, VI, DO CP. ABSOLVIÇÃO. IMPOSSIBILIDADE. NECESSIDADE DE INCURSÃO NO ACERVO FÁTICO-PROBATÓRIO. DEPOIMENTO DE AGENTES POLICIAIS. PRESUNÇÃO DE VERACIDADE. RECURSO DESPROVIDO.
+I. Caso em exame
+1. Agravo regimental interposto contra decisão que não conheceu de habeas corpus, no qual se alegou constrangimento ilegal decorrente do reconhecimento de falta grave por posse de celular, impedindo a progressão de regime do apenado.
+II. Questão em discussão
+2. A questão em discussão consiste na prescrição da falta grave e na necessidade de provas judiciais para o reconhecimento da infração disciplinar.
+III. Razões de decidir
+3. O STJ entende que, na ausência de norma específica, aplica-se o prazo prescricional de 3 anos do art. 109, VI, do CP, para faltas graves.
+4. A posse de celular em estabelecimento prisional constitui falta grave, sendo desnecessária a perícia para comprovar a materialidade.
+5. As instâncias ordinárias reconheceram a prática da falta grave com base em provas suficientes, não havendo necessidade de reexame fático-probatório.
+IV. Dispositivo e tese
+6. Agravo regimental desprovido.
+Tese de julgamento: 1. O prazo prescricional para faltas graves é de 3 anos, conforme art. 109, VI, do Código Penal. 2. A posse de celular em presídio é falta grave, dispensando perícia para comprovação. 3. A absolvição da falta grave demanda reexame da matéria fático-probatória, procedimento incompatível com o habeas corpus. 4. As declarações dos servidores públicos gozam de presunção de veracidade.
+(AgRg no HC n. 945.932/MG, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 13/11/2024, DJe de 18/11/2024.)
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. EXECUÇÃO PENAL. FALTA GRAVE. POSSE DE APARELHO CELULAR. SUFICIÊNCIA PROBATÓRIA. DEPOIMENTO DE AGENTE PENITENCIÁRIO. SÚMULA N. 7 DO STJ. PRECEDENTE CITADO PELA DEFESA. INAPLICABILIDADE. VALORAÇÃO DE PROVA TESTEMUNHAL. REEXAME FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. SÚMULA N. 7 DO STJ. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. No caso concreto, o Tribunal estadual assentou que o procedimento administrativo disciplinar observou o contraditório e a ampla defesa, com assistência de patrono constituído. O relato do agente penitenciário foi considerado detalhado, coerente e respaldado por elementos objetivos, como o auto de busca e apreensão. A tese defensiva, ao alegar que o depoimento de único agente não seria bastante para a homologação da falta grave, demanda reexame de fatos e provas.
+2. A aferição da suficiência dos elementos probatórios para a caracterização da falta grave demanda incursão na seara fático-probatória, providência vedada no âmbito do recurso especial, nos termos da Súmula n. 7 do STJ.
+3. O precedente citado pela defesa (AgRg no HC n. 657.993/MG) não se assemelha ao caso em análise. Aquele julgado circunscreveu sua análise ao reconhecimento da ausência de comprovação da materialidade delitiva em razão da falta de prova documental essencial (laudo toxicológico) - existência ou não de elemento indispensável à caracterização da infração disciplinar -, sem tratar da valoração do conteúdo fático-probatório.
+4. Ausentes fatos novos ou teses jurídicas diversas que permitam a análise do caso sob outro enfoque, deve ser mantida a decisão agravada. É assente neste Superior Tribunal de Justiça que o agravo regimental deve trazer novos argumentos capazes de alterar o entendimento anteriormente firmado, sob pena de ser mantida a decisão vergastada pelos próprios fundamentos (AgRg no HC n. 749.888/RS, Rel. Ministro Jesuíno Rissato - Desembargador Convocado do TJDFT, 5ª T., DJe 26/8/2022).
+5. Agravo regimental não provido.
+(AgRg no AREsp n. 2.926.494/MS, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 10/2/2026, DJEN de 20/2/2026.)
+Inviável, assim, em sede de habeas corpus, rever o entendimento adotado pelas instâncias de origem, haja vista que a ação mandamental não comporta dilação probatória.
+Ante o exposto, com fundamento no art. 210 do Regimento Interno do Superior Tribunal de Justiça - RISTJ, indefiro liminarmente o presente habeas corpus.
+Publique-se.
+Intimem-se.
+ EMENTA
