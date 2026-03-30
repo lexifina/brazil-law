@@ -1,0 +1,56 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 24/03/2026 a 30/03/2026, por unanimidade, conhecer do recurso e lhe dar provimento, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Humberto Martins, Ricardo Villas Bôas Cueva, Moura Ribeiro e Daniela Teixeira votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro Humberto Martins.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO INDENIZATÓRIA. EMBARGOS DE DECLARAÇÃO. OMISSÃO, CONTRADIÇÃO OU OBSCURIDADE. OMISSÃO CARACTERIZADA.
+1. Ação indenizatória, fundada no atraso na entrega de imóvel.
+2. Há ofensa ao art. 1.022 do CPC quando o Tribunal de origem deixa de se manifestar expressamente sobre questão suscitada nos autos e relevante para o julgamento integral da demanda.
+3. Agravo conhecido. Recurso especial parcialmente conhecido e, nessa extensão, parcialmente provido.
+RELATÓRIO
+Relatora: MINISTRA NANCY ANDRIGHI
+Tendo em vista o trânsito em julgado do julgamento da questão relativa ao Tema 1368, chamo o feito à ordem e RECONSIDERO as decisões de e-STJ fls. 2805-2806 e 2881-2883, passando a nova análise dos agravos em recursos especiais interpostos por LOTEUM INCORPORAÇÕES S/A e por ERBE INCORPORADORA 001 S/A.
+Examina-se agravo em recurso especial interposto por LOTEUM INCORPORAÇÕES S/A, contra decisão interlocutória que negou seguimento a recurso especial fundamentado, exclusivamente, na alínea "a" do permissivo constitucional, e agravo em recurso especial interposto por LOTEUM INCORPORAÇÕES S/A, contra decisão interlocutória que negou seguimento a recurso especial fundamentado, exclusivamente, na alínea "a" do permissivo constitucional.
+Ação: indenizatória, ajuizada por ANTÔNIO OSÓRIO RIBEIRO LOPES DA COSTA, em face de LOTEUM INCORPORAÇÕES S/A e ERBE INCORPORADORA 001 S/A, fundada no atraso na entrega de imóvel.
+Sentença: julgou procedente o pedido para condenar LOTEUM e ERBE, solidariamente, ao pagamento de lucros cessantes, correspondente ao aluguel de uma unidade residencial equivalente na região, desde a data prevista para a entrega dos imóveis até a data da entrega das chaves, a ser apurado em liquidação de sentença, acrescida de correção monetária desde o vencimento e juros a contar da citação.
+Acórdão: negou provimento à apelação interposta por LOTEUM e por ERBE e deu provimento à apelação do agravado, para afastar a liquidação de sentença e definir a base de cálculo dos lucros cessantes, nos termos da seguinte ementa:
+APELAÇÕES CÍVEIS. DIREITO DO CONSUMIDOR, AÇÃO DE INDENIZAÇÃO POR DANOS MATERIAIS (LUCROS CESSANTES). CONTRATO DE PROMESSA DE COMPRA E VENDA DE IMÓVEIS. ATRASO NA ENTREGA DE UNIDADE IMOBILIÁRIA. -RELAÇÃO DE CONSUMO CARACTERIZADA.
+- Preliminares rejeitadas.
+- Primeiramente afasta-se a alegação de nulidade a sentença por não ter sido deferida a produção de prova pericial contábil, concluindo, como o ilustre magistrado singular, por sua desnecessidade no caso. Com efeito, trata-se de relação de consumo, de natureza objetiva, que independe de comprovação de culpa. Questão de fato, que foi comprovado com a apresentação de vasta documentação.
+- E, quanto à condenação solidária das empresas, tem-se que se trata de entendimento há muito adotado por esse Tribunal, segundo o qual as sociedades que atuam em conjunto na negociação de contratos de compra e venda de unidades imobiliárias são solidariamente responsáveis pelos danos causados ao consumidor. Vínculo entre as partes rés comprovado.
+- Ademais, não se considera a demora na entrega caso fortuito, já que tais riscos são inerentes às atividades desenvolvidas pelas rés. Sendo assim, afasta-se a preliminar de ilegitimidade suscitada pela 2ª ré.
+- No mérito, a questão é simples. O Superior Tribunal de Justiça já firmou entendimento de serem presumidos os danos materiais (lucros cessantes) decorrentes do atraso na entrega de imóveis.
+-Percentual de 0,5% ao mês que se mostra adequado a compensar a perda financeira decorrente da não entrega do imóvel no prazo estabelecido no contrato.
+RECURSO DO AUTOR CONHECIDO E PROVIDO. (e-STJ fls. 2292-2299)
+Embargos de declaração: opostos por LOTEUM e ERBE e pelo agravado, foram rejeitados.
+O TJ/RJ consignou o seguinte:
+Conforme registrado no julgado anterior, (i) a responsabilidade das sociedades que atuam em conjunto na negociação de contratos de compra e venda de unidades imobiliárias é solidária; (ii) "A Segunda Seção, no julgamento dos EREsp 1.341.138/SP, de relatoria da eminente Ministra MARIA ISABEL GALLOTTI (julgado em 9/5/2018 e publicado no DJe de 22/05/2018), concluiu que, "descumprido o prazo para a entrega do imóvel objeto do compromisso de compra e venda, é cabível a condenação da vendedora por lucros cessantes, havendo a presunção de prejuízo do adquirente, ainda que não demonstrada a finalidade negocial da transação", merecendo destaque que, no caso, se trata de unidades em empreendimento hoteleiro, portanto, destinados à locação; (iii) o preço da indenização a título de lucros cessantes deverá ser de 0,5% ao mês sobre o valor atualizado dos imóveis, pelo INCC, a incidir da data prometida em contrato (30.06.2016) até a efetiva entrega das chaves (25.02.2021).
+O acórdão foi claro quanto ao termo inicial - data em que o imóvel deveria ser entregue (prometida no contrato), e quanto ao índice a ser utilizado para a atualização monetária. (e-STJ fls. 2440-2441)
+Recurso especial de ERBE INCORPORADORA 001 S/A: alega violação dos arts. 485, IV e 1.022, II, do CPC e do art. 406 do CC.
+Afirma que o TJ/RJ foi omisso quanto a sua ilegitimidade passiva e aplicação da taxa SELIC.
+Defende o afastamento da sua responsabilidade, considerada a sua ilegitimidade, bem como o equívoco na manutenção dos critérios de atualização fixados na sentença, visto que deve ser determinada a aplicação da taxa SELIC.
+Recurso especial de LOTEUM INCORPORAÇÕES S/A: alega violação dos arts. 112, 113, 393, 402 e 406, do CC, do art. 14, §3º, II, do CDC, e dos arts. 85, caput e §2º, 86, 489, §1º, IV, 922, 926, 927 e 1.022, II e III, do CPC, bem como dissídio jurisprudencial.
+Afirma que o TJ/RJ foi omisso, pois desconsiderou as particularidades relativas à configuração de caso fortuito; a impossibilidade de condenação por lucros cessantes, em razão da existência de cláusula penal, com aplicação do Tema 970 do STJ; a aplicação da taxa SELIC; e a data do habite-se como data final para incidência de eventual indenização.
+Sustenta que houve caso fortuito e a responsabilidade de terceiro, de modo que deve ser afastada a sua responsabilidade pelo atraso na entrega da obra. Aduz ainda que deve ser afastada a indenização por lucros cessantes, visto que não foram comprovados e existe cláusula penal moratória. Por fim, alega que deve ser reconhecida a sucumbência recíproca, bem como que deve ser aplicada a taxa SELIC, com a reforma da sentença no que se refere à fixação dos juros moratórios e da correção monetária para atualização do valor indenizatório fixado.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO INDENIZATÓRIA. EMBARGOS DE DECLARAÇÃO. OMISSÃO, CONTRADIÇÃO OU OBSCURIDADE. OMISSÃO CARACTERIZADA.
+1. Ação indenizatória, fundada no atraso na entrega de imóvel.
+2. Há ofensa ao art. 1.022 do CPC quando o Tribunal de origem deixa de se manifestar expressamente sobre questão suscitada nos autos e relevante para o julgamento integral da demanda.
+3. Agravo conhecido. Recurso especial parcialmente conhecido e, nessa extensão, parcialmente provido.
+VOTO
+Relatora: MINISTRA NANCY ANDRIGHI
+I) DO RECURSO DE ERBE INCORPORADORA 001 S/A
+1. DA NEGATIVA DE PRESTAÇÃO JURISDICIONAL
+1. Consoante o entendimento desta Corte, há ofensa ao art. 1.022 do CPC quando o órgão julgador deixa de se manifestar, de forma expressa, sobre questão oportunamente suscitada nos autos e relevante para o integral julgamento da demanda (AgInt no AREsp 1.081.502/MG, 3ª Turma, DJe de 02/02/2018 e EDcl no AgInt no REsp 1.281.316/MT, 4ª Turma, DJe de 02/03/2018.
+2. No particular, as razões recursais tecidas acerca da suposta violação do art. 1.022 do CPC residem na alegação de que o TJ/RJ, apesar de provocado por meio dos embargos declaratórios opostos pela parte agravante, não se manifestou acerca da sua ilegitimidade passiva e aplicação da taxa SELIC.
+3. Da análise do processo, constata-se que, a despeito de consignar que foi claro quanto ao índice de correção monetária, destacando a forma de cálculo do preço da indenização a título de lucros cessantes (e-STJ fls. 2296 e 2440-2441), de fato, o TJ/RJ não analisou a questão relativa à aplicação da taxa SELIC, para fins de correção monetária e juros moratórios, em que pese tenha sido devidamente suscitada nos embargos de declaração opostos pela parte agravante.
+4. Assim, observada a jurisprudência dominante desta Corte quanto ao tema, impõe-se a cassação do acórdão que apreciou os declaratórios a fim de que seja sanada a omissão acima referida, tendo-se como prejudicado o exame das demais questões aventadas no presente recurso.
+II) DO RECURSO DE LOTEUM INCORPORAÇÕES S/A
+2. DA NEGATIVA DE PRESTAÇÃO JURISDICIONAL
+5. Consoante o entendimento desta Corte, há ofensa ao art. 1.022 do CPC quando o órgão julgador deixa de se manifestar, de forma expressa, sobre questão oportunamente suscitada nos autos e relevante para o integral julgamento da demanda (AgInt no AREsp 1.081.502/MG, 3ª Turma, DJe de 02/02/2018 e EDcl no AgInt no REsp 1.281.316/MT, 4ª Turma, DJe de 02/03/2018.
+6. No particular, as razões recursais tecidas acerca da suposta violação do art. 1.022 do CPC residem na alegação de que o TJ/RJ, apesar de provocado por meio dos embargos declaratórios opostos pela parte agravante, não se manifestou acerca das particularidades relativas à configuração de caso fortuito, da impossibilidade de condenação por lucros cessantes, da aplicação da taxa SELIC e da data do habite-se como data final para incidência de eventual indenização.
+7. Da análise do processo, constata-se que, a despeito de consignar que teria sido claro quanto ao índice de correção monetária, destacando a forma de cálculo do preço da indenização a título de lucros cessantes (e-STJ fls. 2296 e 2440-2441), de fato, o TJ/RJ não analisou a questão relativa à aplicação da taxa SELIC, para fins de correção monetária e juros moratórios, em que pese tenha sido devidamente suscitada nos embargos de declaração opostos pela parte agravante.
+8. Assim, observada a jurisprudência dominante desta Corte quanto ao tema, impõe-se a cassação do acórdão que apreciou os declaratórios a fim de que seja sanada a omissão acima referida, tendo-se como prejudicado o exame das demais questões aventadas no presente recurso.
+DISPOSITIVO
+Forte nessas razões, RECONSIDERO as decisões de e-STJ fls. 2805-2806 e 2881-2883, JULGO PREJUDICADO o agravo interno de e-STJ fls. 2887-2894 e CONHEÇO do agravo para CONHECER dos recursos especiais de LOTEUM INCORPORAÇÕES S/A e de ERBE INCORPORADORA 001 S/A e DAR-LHES PROVIMENTO, a fim de determinar a remessa dos autos ao TJ/RJ, para que este se pronuncie, na esteira do devido processo legal, sobre os argumentos deduzidos nos embargos de declaração opostos pelas agravantes.
