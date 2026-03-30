@@ -1,0 +1,12 @@
+DECISÃO
+Trata-se de embargos de declaração opostos por ALESSANDRO HENRIQUE DA SILVA, contra decisão deste Relator que não concedeu a tutela de urgência pleiteada na qual se buscava a suspensão imediata da audiência de interrogatório, instrução, debates e julgamento designada para às 14h (fls. 55).
+Nas razões, a defesa reafirma que a decisão monocrática incorreta em omissões e obscuridades ao deixar de enfrentar: i) a violação à Súmula Vinculante nº 14 do Supremo Tribunal Federal, diante da negativa de acesso ao espelhamento integral (raw data, cópia bit a bit) dos dispositivos eletrônicos a descobertos, necessárias para o contraditório e a ampla defesa; e ii) o gravíssimo perigo na demora, consubstanciado na audiência de instrução, interrogatório e julgamento designado para 19/03/2026, a impor a suspensão imediata dos atos instrutórios para evitar marcha processual "às cegas" (e-STJ, fls. 216-226).
+Requer assim: a) o conhecimento dos embargos de declaração, por serem cabíveis e tempestivos; b) o provimento dos aclaratórios, com atribuição de efeitos infringentes para cassar a decisão monocrática e deferir a liminar originária, determinando a suspensão integral do andamento da ação penal na 1ª Vara Criminal de Itapetininga/SP até o julgamento do mérito do habeas corpus; c) subsidiariamente, a suspensão da audiência de instrução e julgamento aprazada para 19/03/2026 e dos prazos para requerimento de diligências, até que seja franqueado à defesa o acesso integral e auditável ao espelhamento bruto de todos os dispositivos eletrônicos apreendidos (e-STJ, fls. 229-230).
+É o relatório.
+Decido.
+Inicialmente, vale anotar que os embargos de declaração destinam-se a suprir omissão, contradição, ambiguidade ou obscuridade existente no julgado. Não se prestam, portanto, para sua revisão no caso de mero inconformismo da parte.
+Conforme posto na decisão recorrida, não se verifica, de modo claro e indiscutível, a ocorrência de cerceamento de defesa, que subsidia o pedido de tutela de urgência para suspensão da ação penal originária, na medida em que o Tribunal de origem afirma que "a defesa já possuía acesso a todos os elementos colacionados aos auto". Além disso, não há cópia da decisão de primeiro grau que tenha enfrentado os questionamentos da defesa, peça essencial para o exame da controv érsia.
+Nesse contexto, é imprescindível a vinda das informações para melhor análise das teses defensivas.
+Ante o exposto, rejeito os embargos de declaração.
+Publique-se. Intimem-se.
+EMENTA
