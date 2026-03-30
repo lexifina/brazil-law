@@ -1,0 +1,79 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 24/03/2026 a 30/03/2026, por unanimidade, conhecer parcialmente do recurso, mas lhe negar provimento, nos termos do voto do Sr. Ministro João Otávio de Noronha.
+Os Srs. Ministros Raul Araújo, Maria Isabel Gallotti, Antonio Carlos Ferreira e Luís Carlos Gambogi (Desembargador Convocado do TJMG) votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro João Otávio de Noronha.
+EMENTA
+DIREITO PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. EXECUÇÃO DE TÍTULO EXTRAJUDICIAL FUNDADA EM CONTRATO DE SERVIÇOS ADVOCATÍCIOS. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. COISA JULGADA E PRECLUSÃO CONSUMATIVA. INCIDÊNCIA DA SÚMULA 7 DO STJ. AGRAVO EM RECURSO ESPECIAL CONHECIDO PARA CONHECER EM PARTE DO RECURSO ESPECIAL E NEGAR-LHE PROVIMENTO.
+I. CASO EM EXAME
+1. Agravo em recurso especial interposto contra decisão que inadmitiu o recurso especial por inexistência de violação dos arts. 489, § 1º, e 1.022 do CPC, por ausência de demonstração suficiente de violação dos arts. 502 e 507 do CPC e por incidência da Súmula n. 7 do STJ.
+2. A controvérsia versa sobre execução de título extrajudicial fundada em contrato de prestação de serviços advocatícios, com honorários de êxito de 20% sobre valores de precatório, penhora no rosto dos autos, compensação de valores levantados indevidamente e refazimento de cálculos periciais.
+3. Na sentença, o Juízo de primeiro grau acolheu parcialmente embargos à execução e fixou o quantum exequendo referente a julho de 2007.
+4. A Corte de origem afastou a homologação do laudo pericial por incongruências, determinou o refazimento dos cálculos com parâmetros indicados, rejeitou alegações de preclusão e coisa julgada, não admitiu incidência de juros moratórios sobre valores levantados indevidamente e deu parcial provimento aos agravos.
+II. QUESTÃO EM DISCUSSÃO
+5. Há quatro questões em discussão: (i) saber se houve negativa de prestação jurisdicional e ausência de fundamentação específica quanto à coisa julgada e preclusão consumativa, em afronta aos arts. 1.022, I e II, e 489, § 1º, IV, do CPC; (ii) saber se o acórdão recorrido violou o art. 502 do CPC ao relativizar sentença transitada em julgado e determinar novo refazimento de cálculos; (iii) saber se houve ofensa ao art. 507 do CPC ao admitir reabertura de questão preclusa sobre compensação de R$ 23.180,00; e (iv) saber se houve divergência jurisprudencial quanto à eficácia preclusiva e à imutabilidade da coisa julgada.
+III. RAZÕES DE DECIDIR
+6. Não há negativa de prestação jurisdicional: o acórdão enfrentou as teses centrais, inclusive coisa julgada e preclusão, sendo desnecessário rebater exaustivamente todos os argumentos; afasta-se a apontada violação aos arts. 1.022, I e II, e 489, § 1º, IV, do CPC.
+7. Quanto às supostas violações dos arts. 502 e 507 do CPC, o conhecimento do recurso especial esbarra na necessidade de reexame do conjunto fático-probatório (complexidade dos cálculos, perícia, histórico de compensações e levantamentos), incidindo a Súmula n. 7 do STJ.
+IV. DISPOSITIVO E TESE
+8. Agravo em recurso especial conhecido para conhecer em parte do recurso especial e negar-lhe provimento.
+Tese de julgamento: "1. Não há negativa de prestação jurisdicional quando o acórdão enfrenta as teses centrais e decide de modo claro e fundamentado, afastando a violação dos arts. 1.022, I e II, e 489, § 1º, IV, do CPC. 2. Incide a Súmula n. 7 do STJ para obstar o exame de alegadas violações quanto à eficácia preclusiva e à imutabilidade da coisa julgada quando a solução demanda reexame de fatos, provas e cálculos periciais complexos".
+Dispositivos relevantes citados: CPC, arts. 1.022, 489 § 1º, IV, 502, 507, 508 e 85 § 11; CF, art. 105, III, a.
+Jurisprudência relevante citada: STJ, Súmula n. 7.
+RELATÓRIO
+Trata-se de agravo em recurso especial interposto por ESPÓLIO DE ALBERTO PRADO DE OLIVEIRA contra a decisão que inadmitiu o recurso especial por inexistência de violação dos arts. 489, § 1º, e 1.022 do Código de Processo Civil, bem como por ausência de demonstração suficiente de violação dos arts. 502 e 507 do Código de Processo Civil e por incidência da Súmula n. 7 do STJ.
+Alega a parte agravante que os pressupostos de admissibilidade do recurso especial foram atendidos.
+O recurso especial foi interposto com fundamento no art. 105, III, a, da Constituição Federal, contra acórdão do Tribunal de Justiça de São Paulo em agravo de instrumento nos autos de execução de título extrajudicial fundada em contrato de prestação de serviços advocatícios.
+O julgado foi assim ementado (fl. 326):
+PRESTAÇÃO DE SERVIÇOS ADVOCATÍCIOS EXECUÇÃO DE TÍTULO EXTRAJUDICIAL PRETENSÃO DE RECEBIMENTO DE HONORÁRIOS DE ÊXITO NO PERCENTUAL PACTUADO DE 20% DOS VALORES QUE O MANDANTE VIESSE A RECEBER EM OUTRA DEMANDA CRÉDITO DO MANDANTE DEVIDO POR ENTE PÚBLICO, ORIGINANDO PRECATÓRIO COM PAGAMENTO EFETUADO DE FORMA PARCELADA ADVOGADO QUE ESTAVA RECEBENDO OS HONORÁRIOS ANTES DO EX-CLIENTE DETERMINAÇÃO EM ACÓRDÃO ANTERIOR PARA QUE FOSSEM REPASSADOS AO PROFISSIONAL 20% DE CADA DEPÓSITO E DEVOLVIDO O EXCESSO POR ELE LEVANTADO, AUTORIZADA A COMPENSAÇÃO COM DEPÓSITOS FUTUROS DEZENAS DE DEPÓSITOS EFETUADOS PELO ENTE PÚBLICO ENTRE 2007 E 2016 DETERMINAÇÃO DE PRODUÇÃO DE PROVA PERICIAL PARA APURAR O PERCENTUAL LEVANTADO PELO EXEQUENTE LAUDO PERICIAL HOMOLOGADO INSURGÊNCIA DE AMBAS AS PARTES ALEGAÇÕES DE PRECLUSÃO E OFENSA À COISA JULGADA REJEIÇÃO INCIDÊNCIA DE JUROS MORATÓRIOS SOBRE OS VALORES INDEVIDAMENTE LEVANTADOS PELO CAUSÍDICO DESCABIMENTO EXISTÊNCIA DE INCONGRUÊNCIAS NAS PLANILHAS ANEXADAS AO LAUDO IMPOSSIBILIDADE DE HOMOLOGAÇÃO DO LAUDO NESSAS CIRCUNSTÂNCIAS HOMOLOGAÇÃO AFASTADA DETERMINAÇÃO DE REFAZIMENTO DOS CÁLCULOS, INDICADOS PARÂMETROS A SEREM ADOTADOS PELO PERITO DECISÃO MODIFICADA. AGRAVOS PARCIALMENTE PROVIDOS.
+Os embargos de declaração opostos foram decididos nestes termos (fl. 370):
+EMBARGOS DE DECLARAÇÃO INEXISTÊNCIA DE VÍCIO SANÁVEL PELA VIA DOS EMBARGOS MERO INCONFORMISMO COM O RESULTADO DO JULGAMENTO PREQUESTIONAMENTO DESNECESSIDADE. EMBARGOS REJEITADOS
+No recurso especial, a parte aponta violação dos seguintes artigos:
+a) 1.022, I e II, e 489, § 1º, IV, do Código de Processo Civil, porque o acórdão que rejeitou os embargos de declaração deixou de sanar omissões relevantes com potencial de infirmar a decisão, não enfrentou de modo claro as teses de coisa julgada material e preclusão consumativa e careceu de fundamentação específica sobre a compatibilização das decisões anteriores;
+b) 502, do Código de Processo Civil, já que o acórdão recorrido relativizou sentença transitada em julgado, proferida nos embargos à execução, que fixou o quantum exequendo em R$ 393.191,05, ao determinar novo refazimento de cálculos com parâmetros distintos dos consolidados;
+c) 507, do Código de Processo Civil, pois o acórdão admitiu reabertura de questão certificadamente preclusa quanto à compensação de R$ 23.180,00 em favor do exequente, afirmando que os cálculos anteriores teriam sido elaborados por servidor sem conhecimento técnico.
+Sustenta que o Tribunal de origem, ao decidir que as alegações de coisa julgada e preclusão não poderiam ser acolhidas por incompatibilidade com acórdão pretérito que determinou o repasse de 20% a cada depósito, divergiu do entendimento consolidado quanto à eficácia preclusiva e à imutabilidade da coisa julgada, apontando contrariedade a julgados do Superior Tribunal de Justiça.
+Requer o provimento do recurso para que se reconheça a violação dos arts. 1.022, I e II, 489, § 1º, IV, 502, 507 e 508 do Código de Processo Civil, determinando-se a cassação do acórdão recorrido e o restabelecimento da eficácia da sentença proferida nos embargos à execução que fixou o crédito do espólio. Requer ainda o provimento do recurso para que se integrem, nos termos do art. 1.025 do Código de Processo Civil, as matérias suscitadas nos embargos de declaração, com a explicitação das premissas jurídicas relativas à coisa julgada e à preclusão consumativa.
+É o relatório.
+EMENTA
+DIREITO PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. EXECUÇÃO DE TÍTULO EXTRAJUDICIAL FUNDADA EM CONTRATO DE SERVIÇOS ADVOCATÍCIOS. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. COISA JULGADA E PRECLUSÃO CONSUMATIVA. INCIDÊNCIA DA SÚMULA 7 DO STJ. AGRAVO EM RECURSO ESPECIAL CONHECIDO PARA CONHECER EM PARTE DO RECURSO ESPECIAL E NEGAR-LHE PROVIMENTO.
+I. CASO EM EXAME
+1. Agravo em recurso especial interposto contra decisão que inadmitiu o recurso especial por inexistência de violação dos arts. 489, § 1º, e 1.022 do CPC, por ausência de demonstração suficiente de violação dos arts. 502 e 507 do CPC e por incidência da Súmula n. 7 do STJ.
+2. A controvérsia versa sobre execução de título extrajudicial fundada em contrato de prestação de serviços advocatícios, com honorários de êxito de 20% sobre valores de precatório, penhora no rosto dos autos, compensação de valores levantados indevidamente e refazimento de cálculos periciais.
+3. Na sentença, o Juízo de primeiro grau acolheu parcialmente embargos à execução e fixou o quantum exequendo referente a julho de 2007.
+4. A Corte de origem afastou a homologação do laudo pericial por incongruências, determinou o refazimento dos cálculos com parâmetros indicados, rejeitou alegações de preclusão e coisa julgada, não admitiu incidência de juros moratórios sobre valores levantados indevidamente e deu parcial provimento aos agravos.
+II. QUESTÃO EM DISCUSSÃO
+5. Há quatro questões em discussão: (i) saber se houve negativa de prestação jurisdicional e ausência de fundamentação específica quanto à coisa julgada e preclusão consumativa, em afronta aos arts. 1.022, I e II, e 489, § 1º, IV, do CPC; (ii) saber se o acórdão recorrido violou o art. 502 do CPC ao relativizar sentença transitada em julgado e determinar novo refazimento de cálculos; (iii) saber se houve ofensa ao art. 507 do CPC ao admitir reabertura de questão preclusa sobre compensação de R$ 23.180,00; e (iv) saber se houve divergência jurisprudencial quanto à eficácia preclusiva e à imutabilidade da coisa julgada.
+III. RAZÕES DE DECIDIR
+6. Não há negativa de prestação jurisdicional: o acórdão enfrentou as teses centrais, inclusive coisa julgada e preclusão, sendo desnecessário rebater exaustivamente todos os argumentos; afasta-se a apontada violação aos arts. 1.022, I e II, e 489, § 1º, IV, do CPC.
+7. Quanto às supostas violações dos arts. 502 e 507 do CPC, o conhecimento do recurso especial esbarra na necessidade de reexame do conjunto fático-probatório (complexidade dos cálculos, perícia, histórico de compensações e levantamentos), incidindo a Súmula n. 7 do STJ.
+IV. DISPOSITIVO E TESE
+8. Agravo em recurso especial conhecido para conhecer em parte do recurso especial e negar-lhe provimento.
+Tese de julgamento: "1. Não há negativa de prestação jurisdicional quando o acórdão enfrenta as teses centrais e decide de modo claro e fundamentado, afastando a violação dos arts. 1.022, I e II, e 489, § 1º, IV, do CPC. 2. Incide a Súmula n. 7 do STJ para obstar o exame de alegadas violações quanto à eficácia preclusiva e à imutabilidade da coisa julgada quando a solução demanda reexame de fatos, provas e cálculos periciais complexos".
+Dispositivos relevantes citados: CPC, arts. 1.022, 489 § 1º, IV, 502, 507, 508 e 85 § 11; CF, art. 105, III, a.
+Jurisprudência relevante citada: STJ, Súmula n. 7.
+VOTO
+I - Contextualização
+A controvérsia diz respeito a execução de título extrajudicial fundada em contrato de prestação de serviços advocatícios, em que a parte autora pleiteou o recebimento de honorários de êxito no percentual de 20% sobre os valores recebidos pelo ex-cliente em demanda contra o Município de Pacaembu, com penhora no rosto dos autos do precatório e discussão sobre compensação de valores indevidamente levantados e refazimento de cálculos periciais.
+Na sentença, o Juízo de primeiro grau acolheu parcialmente embargos à execução e fixou o quantum exequendo em R$ 393.191,05 referente a julho de 2007.
+A controvérsia diz respeito a agravo de instrumento interposto contra decisão que homologou laudo pericial na execução de título extrajudicial, fixando, como devido pelo exequente, o montante de R$ 337.976,66 correspondente a valores levantados a maior.
+II - Arts. 489, § 1º, IV, e 1.022, I e II, do Código de Processo Civil.
+No caso, não há negativa de vigência aos referidos dispositivos infraconstitucionais, porque o acordão recorrido analisou e enfrentou as teses suscitadas pela parte recorrente, em especial a alegada ofensa a coisa julgada.
+De acordo com o Tribunal de origem, - as alegações de preclusão e de ofensa à coisa julgada, fundadas em decisões proferidas nos autos de origem e no processo nº 0000005-61.1997.8.26.0411, não podem ser acolhidas, haja vista a incompatibilidade de algumas dessas deliberações com o que restou decidido no acórdão que mais se coaduna com o contrato de prestação de serviços advocatícios, ajuste que representa a vontade real das partes no momento da contratação -.
+Portanto, houve debate a respeito dos temas centrais objeto do recurso especial, eventual preclusão e ofensa a coisa julgada.
+Na realidade, a parte recorrente discorda do resultado da conclusão.
+No caso, deve ser afastada a negativa de prestação jurisdicional, visto que a Corte de origem examinou e decidiu, de modo claro, objetivo e fundamentado, as questões que delimitam a controvérsia, não ocorrendo nenhum vício que possa nulificar o acórdão recorrido.
+Esclareça-se que o órgão colegiado não está obrigado a repelir todas as alegações expendidas no recurso, pois basta que se atenha aos pontos relevantes e necessários ao deslinde do litígio e adote fundamentos que se mostrem cabíveis à prolação do julgado, ainda que, relativamente às conclusões, não haja a concordância das partes.
+III - Arts. 502 e 507, do CPC
+O recurso especial n ão deve ser conhecido nesse ponto porque é essencial o reexame do contexto fático-probatório para acolher a irresignação da parte recorrente.
+No caso, para apurar se o acordão recorrido não observou os parâmetros da decisão que fixou o valor do crédito ou se apenas determinou providências para apuração do valor do crédito que foi fixado, essencial examinar, de forma minuciosa, as provas e todo o contexto fático que envolve a controvérsia entre as partes, o que não se admite em sede de recurso especial.
+Não se admite, em razão do óbice da Súmula n. 7 do STJ, a revisão do entendimento do Tribunal a quo quando a situação de mérito demandar o reexame do acervo fático-probatório dos autos.
+De acordo com o acórdão recorrido, o crédito é originário de contrato de prestação de serviços advocatícios.
+Em julho de 2.007, foi fixado o valor de R$ 393.191,05, a tal título. O que se observa é a existência de litígio para definição de valores pagos e levantados pela parte recorrente e eventuais compensações, o que evidencia um contexto fático complexo que depende de análise minuciosa das provas e de todo o histórico.
+Há, inclusive, litígio sobre a compensação de valores que já teriam sido levantados.
+Houve a realização de perícia, cuja prova teria de ser analisada para apuração de eventual ofensa a questões já decididas.
+A apuração dos cálculos, diante de histórico de levantamentos e compensações, de crédito apurada há quase 20 anos, é tão complexa, que será realizada nova perícia para definição do valor.
+Portanto, impossível apurar se houve ofensa à coisa julgada sem adentrar no reexame dos fatos e provas.
+IV - Conclusão
+Ante o exposto, conheço do agravo para conhecer em parte do recurso especial e, nessa extensão, negar-lhe provimento.
+Deixo de majorar os honorários recursais nos termos do § 11 do art. 85 do CPC, em razão da inexistência de prévia fixação na origem.
+É o voto.
