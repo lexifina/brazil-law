@@ -1,0 +1,28 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 24/03/2026 a 30/03/2026, por unanimidade, não conhecer do recurso, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Antonio Carlos Ferreira, Luís Carlos Gambogi (Desembargador Convocado do TJMG), João Otávio de Noronha e Raul Araújo votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro João Otávio de Noronha.
+EMENTA
+AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. AÇÃO DE COBRANÇA. MULTIPLICIDADE DE TEDs. FUNDAMENTOS DA DECISÃO AGRAVADA. AUSÊNCIA DE IMPUGNAÇÃO.
+1. Nos termos do art. 1021, § 1º, do Código de Processo Civil, é inviável o agravo interno que deixa de atacar especificamente os fundamentos da decisão agravada.
+2. Agravo interno não conhecido.
+RELATÓRIO
+Trata-se de agravo interno interposto por FAP Informática Ltda. contra decisão singular do Ministro Presidente do Superior Tribunal de Justiça que não conheceu do agravo em recurso especial, por aplicação, por analogia, da Súmula 182/STJ, em razão da ausência de impugnação específica ao fundamento consistente na inexistência de afronta ao art. 1.022 do Código de Processo Civil, expressamente consignado na decisão de admissibilidade proferida pelo Tribunal de origem (fls. 695-696).
+Os embargos de declaração opostos contra essa decisão foram rejeitados (fls. 723-724).
+Nas razões do agravo interno, a parte agravante sustenta ter impugnado todos os fundamentos da decisão de inadmissibilidade, alegando aplicação indevida das Súmulas 182/STJ, 7/STJ e 284/STF. Defende que resolução da controvérsia depende apenas da revaloração jurídica de premissas já fixadas, que não houve deficiência de fundamentação quanto ao art. 8º do Código de Processo Civil e que o dissídio jurisprudencial foi adequadamente demonstrado, com indicação das alíneas "a" e "c" do art. 105, III, da Constituição Federal (fls. 728-736).
+A parte agravada apresentou impugnação, defendendo a correção da decisão singular. Sustenta que o agravo em recurso especial não enfrentou especificamente todos os fundamentos da decisão de inadmissibilidade, atraindo a incidência da Súmula 182/STJ, além de afirmar que as demais alegações da parte agravante demandam reexame de provas (fls. 744-749).
+É o relatório.
+EMENTA
+AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. AÇÃO DE COBRANÇA. MULTIPLICIDADE DE TEDs. FUNDAMENTOS DA DECISÃO AGRAVADA. AUSÊNCIA DE IMPUGNAÇÃO.
+1. Nos termos do art. 1021, § 1º, do Código de Processo Civil, é inviável o agravo interno que deixa de atacar especificamente os fundamentos da decisão agravada.
+2. Agravo interno não conhecido.
+VOTO
+A decisão agravada não conheceu do agravo em recurso especial ao consignar que a parte recorrente deixou de impugnar fundamento autônomo da decisão de admissibilidade proferida pelo Tribunal de origem, consistente na inexistência de violação ao art. 1.022 do Código de Processo Civil, circunstância que atraiu, por analogia, a incidência da Súmula 182/STJ (fls. 695-696).
+No agravo interno ora examinado, entretanto, a parte agravante não demonstra, de forma concreta e delimitada, onde e como, nas razões do agravo em recurso especial (fls. 652-665), enfrentou esse fundamento específico. Limita-se a afirmar, em termos genéricos, que todos os óbices foram impugnados e que a competência desta Corte teria sido usurpada, sem estabelecer o indispensável cotejo entre a razão de decidir da decisão de inadmissibilidade e os trechos do recurso que, em tese, poderiam infirmá-la.
+Ademais, as razões do agravo em recurso especial deslocam o debate para matérias de mérito - como revaloração jurídica, proporcionalidade, ônus da prova e alegado dissídio jurisprudencial - sem nenhuma conexão lógica com o fundamento determinante do não conhecimento do recurso especial, qual seja, a inexistência de afronta ao art. 1.022 do Código de Processo Civil, expressamente examinada e afastada na decisão de admissibilidade (fls. 640-644).
+Esse déficit de dialeticidade, que não pode ser suprido pela interposição do agravo interno, acaba evidenciando o descumprimento do ônus previsto no art. 1.021, § 1º, do Código de Processo Civil. A propósito, na decisão que rejeitou os embargos de declaração, houve advertência de que, para ser considerada idônea, a impugnação deve ser específica, individualizada e dirigida aos fundamentos da inadmissibilidade, sendo inviável sua complementação em momento posterior (fls. 723-724).
+A jurisprudência desta Corte é firme no sentido de que a ausência de impugnação objetiva e integral dos fundamentos da decisão agravada impede o conhecimento do agravo interno. Além disso, a Corte Especial, ao julgar o EAREsp 746.775/PR (Rel. p/ acórdão Ministro Luis Felipe Salomão, DJe 30/11/2018), registrou que a decisão de inadmissibilidade tem dispositivo único e deve ser atacada em todos os seus fundamentos. No mesmo sentido, é pacífico o entendimento de que a mera reprodução das razões do recurso especial não configura impugnação idônea da decisão que o inadmitiu (AgInt nos EAREsp 1.157.501/SP, Rel. Ministro Moura Ribeiro, DJe 22/8/2019).
+Nota-se, portanto, que a parte agravante não demonstrou o desacerto da decisão impugnada, tampouco enfrentou, de modo específico e suficiente, o fundamento que amparou o não conhecimento do agravo em recurso especial.
+Assim, à luz do disposto no art. 1.021, § 1º, do Código de Processo Civil, impõe-se a manutenção da decisão agravada e, por conseguinte, o não conhecimento do agravo interno.
+Em face do exposto, não conheço do agravo interno.
+É como voto.
