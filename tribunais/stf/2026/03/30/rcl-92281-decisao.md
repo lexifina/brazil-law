@@ -1,0 +1,38 @@
+Decisão: Trata-se de reclamação constitucional ajuizada por Luiz Fernando Maurício Pereira contra decisão do Tribunal Regional do Trabalho da 3ª Região, nos autos do Processo nº 0010906- 74.2024.5.03.0042, por suposta violação aos princípios do devido processo legal, do contraditório e da ampla defesa (art. 5º, LV, da CF).
+O reclamante alega, em síntese, que a autoridade reclamada teria realizado o julgamento do Recurso Ordinário nos autos do Processo nº 0010906- 74.2024.5.03.0042, “sem a devida publicação da pauta no Diário de Justiça Eletrônico Nacional, circunstância que impediu o pleno conhecimento da data de julgamento e inviabilizou o exercício do direito de sustentação oral pelo Reclamante, além de ferir, de morte a Resolução CNJ nº 455/2022, que por redação dada pelas Resoluções CNJ nº 569/2024 e 624/2025, todos os atos devem, a partir de 16 de maio de 2025, serem publicados no DJEN – Diário de Justiça Eletrônico Nacional”. (eDOC 1, p. 2-3)
+Afirma que “a alegação do tribunal de origem de que a intimação do advogado teria ocorrido carece de comprovação concreta, uma vez que não houve disponibilização efetiva da pauta no DJEN, de modo que a contagem de prazos processuais prevista na regra D+2 também não poderia ter sido iniciada, comprometendo a validade de todos os atos subsequentes do julgamento”. (eDOC 1, p. 6).
+Por fim, requer a concessão de liminar para suspender os efeitos da decisão reclamada e, no mérito, pede a sua cassação.
+É o relatório.
+Decido.
+Registre-se que, conforme disposto na Constituição Federal, compete ao STF processar e julgar originariamente reclamação para a preservação de sua competência e garantia da autoridade de suas decisões (art. 102, I, l, da CF/88). Ressalto, ainda, que o Código de Processo Civil estabelece o rol das hipóteses de cabimento da reclamação, conforme a seguir transcrito:
+
+“Art. 988. Caberá reclamação da parte interessada ou do Ministério Público para:
+I - preservar a competência do tribunal;
+II - garantir a autoridade das decisões do tribunal;
+III - garantir a observância de enunciado de súmula vinculante e de decisão do Supremo Tribunal Federal em controle concentrado de constitucionalidade;
+IV - garantir a observância de acórdão proferido em julgamento de incidente de resolução de demandas repetitivas ou de incidente de assunção de competência (...)”.
+
+Entretanto, no caso dos autos, não se verifica nenhuma dessas hipóteses. Com efeito, na petição inicial, não há indicação de desrespeito a nenhum paradigma com efeito vinculante, proferido por esta Corte Suprema, a viabilizar o processamento da reclamação constitucional, cingindo-se o reclamante a apontar violação a dispositivo da Constituição Federal (art. 5º, LV, da CF).
+Registre-se que esta Corte firmou orientação no sentido de que o cabimento da reclamação, por violação à autoridade de suas decisões, exige que o paradigma indicado seja dotado de efeito vinculante ou tenha sido proferido em processo subjetivo no qual o reclamante tenha figurado como parte. Assim, não se admite reclamação fundada exclusivamente em suposta afronta a dispositivo de lei ou da Constituição Federal, sem vinculação direta a decisão desta Corte com efeito vinculante.
+ Nesse sentido, cito julgados de ambas as Turmas do STF:
+
+“AGRAVO REGIMENTAL NA RECLAMAÇÃO. DIREITO CONSTITUCIONAL E PROCESSUAL CIVIL. PARADIGMA. SÚMULA DESTITUÍDA DE EFEITO VINCULANTE. NÃO CABIMENTO. AUSÊNCIA DE IMPUGNAÇÃO DOS FUNDAMENTOS DA DECISÃO AGRAVADA. INCIDÊNCIA DO ART. 317, § 1°, DO REGIMENTO INTERNO DO SUPREMO TRIBUNAL FEDERAL - RISTF. AGRAVO REGIMENTAL IMPROVIDO. I - A parte agravante não impugnou os fundamentos da decisão agravada, o que atrai a incidência do art. 317, § 1°, do RISTF. II - A alegação de violação de súmula desprovida de efeito vinculante - como é o caso da Súmula 719 -, não está compreendida entre as hipóteses legais de cabimento da reclamação constitucional. III - A jurisprudência consolidada do Supremo Tribunal Federal assenta o não cabimento da reclamação nas hipóteses de alegada inobservância de súmula sem efeito vinculante IV - Agravo regimental improvido”. (Rcl 64142 AgR, Rel. Min. Cristiano Zanin, Primeira Turma, DJe 28.2.2024; grifo nosso)
+
+“AGRAVO INTERNO EM RECLAMAÇÃO. USURPAÇÃO DE COMPETÊNCIA. PRERROGATIVA DE FORO DE TERCEIROS. ILEGITIMIDADE ATIVA. PARADIGMAS. DECISÕES DESPROVIDAS DE EFICÁCIA VINCULANTE. RELAÇÕES PROCESSUAIS NÃO INTEGRADAS PELA PARTE RECLAMANTE. ILEGALIDADE EVIDENTE NÃO CONFIGURADA. NEGATIVA DE SEGUIMENTO. 1. Terceiro não possui legitimidade para arguir, em reclamação, usurpação da competência do Supremo em virtude de prerrogativa de foro de autoridade diversa. 2. Mostra-se inadequada reclamação na qual invocada, como paradigma, decisão desprovida de eficácia vinculante, proferida em processo de cuja relação subjetiva não participou a parte reclamante. 3. Ausente situação de ilegalidade evidente, não se justifica a concessão de habeas corpus de ofício. 4. Agravo interno desprovido”. (Rcl 55749 AgR, Rel: Min. Nunes Marques, Segunda Turma, DJ 12.11.2024; grifo nosso)
+
+Ora, a pretensão de utilização de remédio processual fora de suas hipóteses de cabimento, sem a demonstração de sua adequação ao caso concreto, caracteriza a inépcia da inicial pela ausência da causa de pedir (art. 330, § 1º, I, do CPC), que deve levar ao seu indeferimento.
+Confiram-se, a propósito, os seguintes precedentes:
+
+“AGRAVO REGIMENTAL NA RECLAMAÇÃO. INÉPCIA DA PETIÇÃO INICIAL. AUSÊNCIA DE INDIVIDUALIZAÇÃO DA DECISÃO RECLAMADA. NÃO DEMONSTRAÇÃO, DE MODO CLARO E EVIDENTE, DO DESRESPEITO À DECISÃO DESTA CORTE. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO. I - As razões do agravo regimental são inaptas para desconstituir os fundamentos da decisão agravada, que, por isso, se mantêm hígidos. II - É inepta a petição inicial da reclamação constitucional ‘[...] que não identifica com precisão quais seriam os atos contrários à autoridade do Supremo Tribunal Federal, nem que indique analiticamente como os atos reclamados poderiam violar a autoridade dos precedentes invocados’ (Rcl 9.732-AgR/SP, Rel. Min. Joaquim Barbosa, Pleno). III - A ausência de individualização da decisão reclamada, com a apresentação de fundamentação específica, não permite verificar a aderência estrita entre o ato reclamado e o paradigma invocado, sendo absolutamente insuficiente para a verificação da correlação necessária entre causa de pedir e o pedido. IV - É firme a jurisprudência desta Corte no sentido de exigir, como requisito para o cabimento da reclamação, que haja aderência estrita entre o ato reclamado e o aresto tido por desrespeitado, sendo indispensável que se demonstre, de modo claro e evidente, o desrespeito à decisão desta Corte. V - Agravo regimental a que se nega provimento”. (Rcl 40.273 AgR, rel. Ricardo Lewandowski, Segunda Turma, DJe 31.8.2020; grifo nosso)
+
+“Embargos de declaração em reclamação. Embargos de declaração recebidos como agravo regimental, nos termos do art. 1.024, §3º, CPC. 2. Processo indicado como paradigma do qual a reclamante não fez parte e cujo julgamento não teve efeito vinculante. Alegada violação à coisa julgada e a precedentes do Superior Tribunal de Justiça. Inadmissibilidade da reclamação. Não demonstrado desrespeito a decisão desta Corte. 3. Usurpação de competência não configurada. 4. Uso da reclamação como sucedâneo recursal. 5. Ausência de argumentos capazes de infirmar a decisão agravada. 6. Agravo regimental a que se nega provimento.” (Rcl 41.081 ED, de minha relatoria, Segunda Turma, DJe 26.3.2021)
+
+Assim, incabível o presente pleito.
+Ante o exposto, nego seguimento à reclamação (art. 21, § 1º, RISTF).
+
+Publique-se.
+Brasília, 30 de março de 2026.
+
+Ministro GILMAR MENDES
+Relator
+Documento assinado digitalmente
