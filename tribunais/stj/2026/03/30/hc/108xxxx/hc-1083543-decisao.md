@@ -1,0 +1,20 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em nome de ROBSON CIDRAL DE CARVALHO - condenado pelo crime de tráfico de drogas (art. 33, caput, da Lei n. 11.343/2006), à pena de 5 anos de reclusão, em regime inicial semiaberto, e 500 dias-multa - em que a defesa aponta como autoridade coatora a 3ª Câmara Criminal do Tribunal de Justiça do Estado de Santa Catarina, que, em 17/3/2026, negou provimento à Apelação Criminal n. 5029628-68.2024.8.24.0064/SC.
+O impetrante alega incompatibilidade da prisão preventiva com o regime semiaberto fixado na condenação, omissão do acórdão na reavaliação da custódia cautelar, além de afronta à Súmula Vinculante n. 56 e ao art. 316 do Código de Processo Penal.
+Sustenta o afastamento ilegal do tráfico privilegiado (art. 33, § 4º, da Lei n. 11.343/2006) por fundamentos insuficientes, uso isolado da quantidade de droga, inexistência de prova de habitualidade criminosa, reconhecimento da primariedade e dos bons antecedentes.
+Aponta bis in idem na dosimetria, dupla valoração negativa da quantidade de droga na pena-base e para afastar a minorante.
+Alega nulidade da busca veicular por denúncia anônima não documentada, ausência de fundada suspeita objetiva, com a contaminação das provas subsequentes.
+Em caráter liminar, pede a suspensão imediata da prisão preventiva; colocação em liberdade ou adequação ao regime semiaberto; expedição de contramandado de prisão (fl. 9).
+No mérito, requer a revogação da prisão preventiva, o reconhecimento da causa de diminuição do art. 33, § 4º, da Lei n. 11.343/2006, na fração máxima de 2/3, com fixação do regime inicial aberto e substituição da pena por restritivas de direitos. Subsidiariamente, o reconhecimento da nulidade das provas decorrentes de denúncia anônima não documentada e a absolvição (Processo n. 5029628-68.2024.8.24.0064, da 1ª Vara Criminal da comarca de São José/SC).
+É o relatório.
+A ilegalidade passível de justificar a impetração do habeas corpus deve ser manifesta, de constatação evidente, o que, na espécie, não ocorre.
+No caso, o presente writ é incabível por consubstanciar inadequada substituição ao recurso próprio a ser dirigido ao Superior Tribunal de Justiça (AgRg no HC n. 753.464/SC, Ministra Laurita Vaz, Sexta Turma, DJe 29/9/2022).
+Além disso, inexiste ilegalidade flagrante que justifique a concessão de habeas corpus de ofício e a consequente superação do óbice constatado.
+Com efeito, verifica-se dos autos a existência de justa causa e fundamentação idônea a justificar a abordagem policial, destacado o prévio acompanhamento do acusado, inclusive com visualização de parte da ação, que culminou na prisão em flagrante do paciente com expressiva quantidade de drogas (10,300 Kg de cocaína). Ademais, inviável o amplo reexame de fatos e provas nos autos de habeas corpus, de cognição sumária.
+Não há falar em bis in idem na dosimetria, pois a pena-base foi estabelecida no mínimo legal (fl. 55), sendo afastado o redutor pelo tráfico privilegiado com fundamentos idôneos, destacando-se, além da quantidade de drogas, a dedicação do paciente às atividades criminosas (fls. 51/52).
+Por fim, nos autos do HC 1068647/SC, já afastei a tese de incompatibilidade da prisão preventiva com o regime semiaberto fixado na condenação, porquanto o Tribunal, determinou que deve o magistrado observar que o paciente aguarde o trânsito em julgado no regime respectivo - semiaberto.
+Ante o exposto, denego a ordem de habeas corpus.
+Publique-se.
+EMENTA
+DIREITO PENAL E PROCESSUAL PENAL. HABEAS CORPUS. TRÁFICO DE DROGAS. SUBSTITUTIVO DE RECURSO PRÓPRIO. INADMISSIBILIDADE. AUSÊNCIA DE ILEGALIDADE MANIFESTA. ABORDAGEM POLICIAL COM JUSTA CAUSA. PRISÃO EM FLAGRANTE. INVIÁVEL AMPLO REEXAME FÁTICO-PROBATÓRIO. DOSIMETRIA. INOCORRÊNCIA DE BIS IN IDEM. PENA-BASE NO MÍNIMO LEGAL. AFASTAMENTO DO TRÁFICO PRIVILEGIADO. QUANTIDADE DE DROGA (10,300 KG DE COCAÍNA) E DEDICAÇÃO À ATIVIDADE CRIMINOSA. PRISÃO PREVENTIVA. ALEGADA INCOMPATIBILIDADE COM REGIME SEMIABERTO AFASTADA.
+Ordem de habeas corpus denegada.
