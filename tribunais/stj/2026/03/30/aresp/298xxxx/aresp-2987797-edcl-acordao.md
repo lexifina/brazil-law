@@ -1,0 +1,36 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 24/03/2026 a 30/03/2026, por unanimidade, não conhecer do recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros João Otávio de Noronha, Raul Araújo, Maria Isabel Gallotti e Antonio Carlos Ferreira votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro João Otávio de Noronha.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AÇÃO DE COBRANÇA - ACÓRDÃO DESTE ÓRGÃO FRACIONÁRIO QUE NÃO CONHECEU DO RECLAMO.
+INSURGÊNCIA RECURSAL DA DEMANDADA.
+1. A parte embargante não indicou quais seriam os vícios do acórdão embargado, limitando-se a reiterar as razões do agravo interno, com o fim de rediscutir as teses já julgadas, providência incabível na estreita via dos embargos de declaração
+2. Embargos de declaração não conhecido.
+RELATÓRIO
+O EXMO. SR. MINISTRO LUIS CARLOS GAMBOGI (DESEMBARGADOR CONVOCADO DO TJMG) - RELATOR: Cuida-se de embargos de declaração, opostos por ERBE INCORPORADORA S. A., contra acórdão de fls. 1.116/1.121 (e-STJ), que não conheceu do agravo interno apresentado pela ora embargante.
+A decisão embargada consubstancia-se na seguinte ementa:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AÇÃO DE COBRANÇA - DECISÃO MONOCRÁTICA DAPRESIDÊNCIA DO STJ QUE NÃO CONHECEU DO RECURSO. INSURGÊNCIA RECURSAL DA DEMANDADA. Razões do agravo interno que não impugnam especificamente 1. os fundamentos invocados na decisão agravada, nos termos do § 1º, do NCPC, atraindo a aplicação da art. 1.021, Súmula 182/STJ. Agravo interno não conhecido.
+Nas razões dos presentes embargos de declaração (fls. 1.124/1.127, e-STJ), a embargante sustenta, em síntese, a inaplicabilidade das Súmulas 5 e 7 do STJ, ao argumento de que o Recurso Especial versa sobre questão eminentemente de direito, relacionada ao direito de retenção da companhia em caso de restituição dos valores pagos. Aduz, ainda, a inaplicabilidade da Súmula 83 do STJ, sob o fundamento de que a legalidade do leilão extrajudicial e do patrimônio de afetação encontra-se pacificada na jurisprudência. Requer, portanto, o afastamento dos óbices sumulares.
+Contrarrazões às fls. 1.131/1.138 e-STJ.
+É o relatório.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AÇÃO DE COBRANÇA - ACÓRDÃO DESTE ÓRGÃO FRACIONÁRIO QUE NÃO CONHECEU DO RECLAMO.
+INSURGÊNCIA RECURSAL DA DEMANDADA.
+1. A parte embargante não indicou quais seriam os vícios do acórdão embargado, limitando-se a reiterar as razões do agravo interno, com o fim de rediscutir as teses já julgadas, providência incabível na estreita via dos embargos de declaração
+2. Embargos de declaração não conhecido.
+VOTO
+O EXMO. SR. MINISTRO LUIS CARLOS GAMBOGI (DESEMBARGADOR CONVOCADO DO TJMG) - RELATOR: Os embargos de declaração não merecem conhecimento.
+1. Nos estreitos lindes do artigo 1.022 do CPC/15, o recurso de embargos de declaração objetiva somente suprir omissão, dissipar obscuridade, afastar contradição ou sanar erro material constantes de decisão ou acórdão, não podendo ser utilizado como instrumento para a rediscussão do julgado.
+Nesse sentido:
+EMBARGOS DE DECLARAÇÃO. AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. PROMESSA DE COMPRA E VENDA. IMPUGNAÇÃO À PENHORA. BEM DE FAMÍLIA. IMPENHORABILIDADE. DESCONSTITUIÇÃO DA CONSTRIÇÃO. REVISÃO DO CONTEXTO FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. SÚMULA 7 DO STJ. OMISSÃO. INEXISTÊNCIA. EMBARGOS DE DECLARAÇÃO REJEITADOS 1. Os embargos de declaração somente se prestam a sanar obscuridade, omissão ou contradição porventura existentes no acórdão, não servindo à rediscussão da matéria já julgada no recurso. 2. Embargos de declaração rejeitados. (EDcl no AgInt no AREsp n. 871.916/RS, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 6/3/2023, DJe de 10/3/2023.)  grifou-se
+EMBARGOS DE DECLARAÇÃO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. OBSCURIDADE, OMISSÃO, CONTRADIÇÃO OU ERRO MATERIAL. NÃO OCORRÊNCIA. REFORMA DO JULGADO. IMPOSSIBILIDADE. 1. Os embargos de declaração são instrumento processual excepcional e, a teor do art. 1.022 do CPC/2015, destinam-se ao aprimoramento do julgado que contenha obscuridade, contradição, erro material ou omissão sobre tema cujo pronunciamento se impunha manifestar o julgador. Não se prestam à simples reanálise da causa, nem são vocacionados a modificar o entendimento do órgão julgador. 2. A contradição que enseja o acolhimentos dos declaratórios é aquela entre premissas e conclusões do próprio ato decisório, o que não se verifica na espécie. 3. Embargos de declaração rejeitados. (EDcl nos EDcl no REsp n. 1.997.043/MT, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 13/3/2023, DJe de 15/3/2023.)  grifou-se
+No presente caso, a parte embargante não indica quais seriam os pontos omissos, obscuros, contraditórios ou com erro material presentes no acórdão, limitando-se a reiterar as razões do agravo interno (e-STJ, 1.085/1.090), buscando, em verdade, modificar o entendimento do órgão julgador, providência incabível na estreita via dos embargos de declaração. Assim, o não conhecimento dos aclaratórios é medida que se impõe.
+Confiram-se os seguintes precedentes:
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE INDICAÇÃO DE OMISSÃO, CONTRADIÇÃO, OBSCURIDADE OU ERRO MATERIAL. EMBARGOS DE DECLARAÇÃO NÃO CONHECIDOS. 1. A parte embargante não indicou quais seriam os vícios do acórdão embargado, limitando-se a reiterar as razões do agravo interno (e-STJ, 586/592), com o fim de rediscutir as teses outrora expendidas, providência esta incabível na estreita via dos embargos de declaração. 2. Embargos de declaração não conhecido. (EDcl no AgInt no AREsp n. 2.808.794/AL, relator Ministro Raul Araújo, Quarta Turma, julgado em 3/11/2025, DJEN de 10/11/2025.)  grifou-se
+EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. AUSÊNCIA DE INDICAÇÃO DE QUALQUER DOS VÍCIOS ELENCADOS NO ART. 1.022 DO CPC/2015. NÃO CONHECIMENTO. 1. A ausência de indicação, nas razões dos embargos de declaração, da presença de quaisquer dos vícios enumerados no art. 1.022 do CPC/2015 implica o não conhecimento do recurso, pois descumpridos os requisitos previstos no art. 1.023 do mesmo diploma legal. 2. Embargos de declaração não conhecido. (EDcl no REsp n. 2.065.078/PR, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 2/10/2023, DJe de 4/10/2023.)  grifou-se
+Portanto, ausentes alegações de omissão, obscuridade ou contradição nas razões dos embargos, mostra-se incompatível com a finalidade do recurso manejado, razão pela qual não deve ser conhecido.
+2. Não obstante a rejeição dos aclaratórios, deixa-se de se aplicar a multa prevista no artigo 1.026, § 2º, do CPC/15, pois, em se tratando de primeiros embargos de declaração que não ostentam caráter manifestamente protelatórios, pressuposto para aplicação da medida, descabida a sua incidência neste momento.
+No entanto, desde já se adverte que a reiteração de embargos de declaração, com intuito de rediscussão do julgado, poderá caracterizar o aludido caráter manifestamente protelatório, ensejando a aplicação da multa citada.
+3. Do exposto, não se conhece dos embargos de declaração.
+É como voto.
