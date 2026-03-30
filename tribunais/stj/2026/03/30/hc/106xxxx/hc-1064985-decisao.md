@@ -1,0 +1,14 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de RICK JHEIRSSON ALVARENGA DE OLIVEIRA contra acórdão do Tribunal de Justiça do Estado de Minas Gerais (Apelação Criminal n. 1.0313.17.008472-4/001).
+Extrai-se dos autos que o paciente foi condenado, em primeiro grau, pela prática dos crimes previstos no art. 33, caput, da Lei n. 11.343/2006 (tráfico de drogas), art. 16 da Lei n. 10.826/2003 (posse de arma de fogo de uso restrito) e art. 180, caput, do Código Penal (receptação), tendo sido fixada a pena total de 10 anos e 11 meses de reclusão, em regime inicial fechado, além de 647 dias-multa (e-STJ fls. 335/346).
+A defesa interpôs apelação criminal, tendo o Tribunal de Justiça de Minas Gerais negado provimento ao recurso. O acórdão foi assim ementado (e-STJ fl. 412):
+APELAÇÃO CRIMINAL - TRÁFICO DE DROGAS - ABSOLVIÇÃO - IMPOSSIBILIDADE - AUTORIA E MATERIALIDADE COMPROVADAS - DEPOIMENTOS DE POLICIAIS PRESTADOS SOB O CRIVO DO CONTRADITÓRIO - VALOR PROBANTE - CONDENAÇÃO MANTIDA - QUANTUM DE AUMENTO DA PENA EM RAZÃO DO RECONHECIMENTO DE CIRCUNSTÂNCIAS AGRAVANTES - DISCRICIONARIEDADE DO JUIZ - OBSERVÂNCIA DOS PRINCÍPIOS DA RAZOABILIDADE E INDIVIDUALIZAÇÃO DA PENA IN CASU - IMPOSSIBILIDADE DE REDUÇÃO DAS REPRIMENDAS.
+No presente writ, a Defensoria Pública da União alega flagrante constrangimento ilegal na condenação por tráfico, sustentando que a apreensão de 9,61 g de maconha, encontrada em quarto alugado, desacompanhada de elementos concretos de mercancia (balança, anotações, dinheiro, clientela ou flagrante de venda), não autoriza a tipificação no art. 33 da Lei n. 11.343/2006.
+Aduz que a controvérsia é jurídica e passível de revaloração dos fatos incontroversos, invocando julgados desta Corte e o Tema 506 da Repercussão Geral do STF, no sentido de que a presunção de uso pessoal, diante da ínfima quantidade, somente pode ser afastada por prova concreta de destinação comercial.
+Sustenta, ainda, que a manutenção de penas indevidas contribui para o Estado de Coisas Inconstitucional reconhecido na ADPF 347/DF, com violação a compromissos internacionais de direitos humanos. Defende, ademais, que eventual excesso de execução, por erro material ou de cálculo, é corrigível a qualquer tempo via habeas corpus, não se sujeitando à preclusão.
+Requer, liminarmente e no mérito, o reconhecimento de ilegalidade da tipificação no art. 33, com desclassificação para o art. 28, ambos da Lei 11.343/2006.
+É o relatório. Decido.
+No caso, reconheço a perda superveniente do objeto, uma vez que o pedido de desclassificação foi submetido à esta Corte também no HC n. 1064987/MG, já julgado, no qual se consignou a ocorrência de preclusão, bem como a reiteração de pedido já analisado por esta Corte, nos autos do HC 1.039.654/MG.
+Diante do exposto, com base no art. 34, inciso XI, do Regimento Interno do Superior Tribunal de Justiça, julgo prejudicado o presente habeas corpus.
+Intimem-se.
+EMENTA
