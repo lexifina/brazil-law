@@ -1,0 +1,29 @@
+DECISÃO
+Trata-se de habeas corpus substitutivo de recurso próprio, com pedido liminar, impetrado em favor de VALFRISIO RODRIGUES ALBUQUERQUE, apontando como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DO CEARÁ .
+Extrai-se dos autos que o paciente foi condenado como incurso nas sanções do art. 157, § 2º, II, por duas vezes, na forma do art. 69, ambos do Código Penal, à pena de 16 anos de reclusão, em regime fechado, mais pagamento de 80 dias-multa.
+Transitada em julgado a condenação, a defesa ajuizou pedido de revisão criminal perante o Tribunal de origem, que não conheceu do pedido, nos termos do acórdão que recebeu a seguinte ementa:
+"PENAL E PROCESSO PENAL. REVISÃO CRIMINAL. ROUBO MAJORADO (ART. 157, §2º, INCISO II DO CP). SENTENÇA CONDENATÓRIA COM TRÂNSITO EM JULGADO. PLEITO DE SUBSTITUIÇÃO DA APLICAÇÃO DO CONCURSO MATERIAL PELA CONTINUIDADE DELITIVA. NÃO CONHECIMENTO. PRETENSÃO DE REEXAME DE MATÉRIA APRECIADA EM SEDE DE RECURSO DE APELAÇÃO. MANEJO INADEQUADO DA REVISÃO CRIMINAL COMO RECURSO APELATÓRIO. PRECEDENTES. AUSÊNCIA DE MANIFESTA TERATOLOGIA NO CÁLCULO DOSIMÉTRICO. MERO INCONFORMISMO. INEXISTÊNCIA DE CONTINUIDADE DELITIVA. DESÍGNIOS AUTÔNOMOS. APLICAÇÃO DA TEORIA OBJETIVO-SUBJETIVA. AUSÊNCIA DE LIAME SUBJETIVO. REVISÃO CRIMINAL NÃO CONHECIDA." (e-STJ, fls. 18-27)
+Neste writ, a defesa alega violação ao texto expresso da lei penal e erro de subsunção pelo TJCE, ao manter o concurso material e exigir plano prévio para negar a continuidade delitiva, quando a moldura fática incontroversa revelaria a mesma relação de oportunidade, identidade de execução e intervalo de duas horas entre condutas, aptos a autorizar o crime continuado.
+Em paralelo, sustenta a nulidade absoluta da prova de autoria pela inobservância do art. 226 do CPP, pois as publicações teriam se apoiado exclusivamente em reconhecimento de voz, porte físico e audição leiga de gravação amadora, sem qualquer procedimento formal ou perícia, e com significativo lapso temporal entre fatos (2011) e sentença (2017).
+Pretende a concessão da ordem, de ofício, para declarar a nulidade do reconhecimento e absolver o paciente. Subsidiariamente, reconhecimento da continuidade delitiva e redimensionamento da pena; e, em último caso, a cassação do acórdão da revisão criminal, determinando seu julgamento de mérito.
+É o relatório.
+Decido.
+Esta Corte - HC 535.063, Terceira Seção, Rel. Ministro Sebastião Reis Junior, julgado em 10/6/2020 - e o Supremo Tribunal Federal - AgRg no HC 180.365, Primeira Turma, Rel. Min. Rosa Weber, julgado em 27/3/2020; AgRg no HC 147.210, Segunda Turma, Rel. Min. Edson Fachin, julgado em 30/10/2018 -, pacificaram orientação no sentido de que não cabe habeas corpus substitutivo do recurso legalmente previsto para a hipótese, impondo-se o não conhecimento da impetração, salvo quando constatada a existência de flagrante ilegalidade no ato judicial impugnado.
+Assim, passo à análise das razões da impetração, de forma a verificar a ocorrência de flagrante ilegalidade a justificar a concessão do habeas corpus, de ofício.
+Inicialmente, cumpre considerar que a tese de ofensa ao art. 226 do CPP não foi objeto de análise e deliberação pelo Tribunal de origem, razão pela qual é inviável a apreciação dos temas por esta Corte, sob pena de indevida supressão de instância e alargamento inconstitucional da hipótese de competência do Superior Tribunal de Justiça para julgamento de habeas corpus, constante no art. 105, I, "c", da Constituição da República.
+Por outro lado, a questão relacionada à continuidade delitiva também já foi apreciada por este Superior Tribunal de Justiça, por ocasião do julgamento do HC 867.868/CE e do AREsp 2.165.307/CE. Este, inclusive, foi submetido à apreciação da 5ª Turma, a qual concluiu que "a aferição da presença (ou não) da unidade de desígnios e dos elementos objetivos do art. 71 do CP demandaria evidente reexame dos fatos e provas da causa, vedado nesta instância especial "pela Súmula 7/STJ".
+A propósito, confira-se a ementa do acórdão:
+"PENAL E PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. ROUBO MAJORADO. ABSOLVIÇÃO. APLICAÇÃO DA CONTINUIDADE DELITIVA. INVIABILIDADE. AGRAVO SÚMULA 7/STJ. REGIMENTAL DESPROVIDO.
+1. Como se vê, as instâncias ordinárias concluíram no sentido da materialidade e autoria dos crimes de roubo, baseadas no arcabouço probatório, composto por prova testemunhal e declarações das vítimas. Desse modo, evidente que o afastamento dessas conclusões demandaria o revolvimento fático-probatório, providência inviável em sede de recurso especial, conforme dispõe a Súmula 7/STJ.
+2. Sobre a continuidade delitiva, a aferição da presença (ou não) da unidade de desígnios e dos elementos objetivos do do CP demandaria evidente reexame dos art. 71 fatos e provas da causa, vedado nesta instância especial pela referida Súmula 7/STJ
+3. Agravo regimental desprovido."
+Assim, o presente habeas corpus, distribuído em 23/3/2026, constitui mera reiteração do pedido formulado no AREsp 2.165.307/CE , isso porque há identidade de partes e da causa de pedir, impugnando os dois feitos o mesmo acórdão (Revisão Criminal n. 0635044-86.2023.8.06.000/CE), o que constitui óbice ao seu conhecimento.
+Nesse sentido:
+"PROCESSUAL PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. OFENSA AO PRINCÍPIO DA COLEGIALIDADE. REITERAÇÃO DE PEDIDO.
+1. Não constitui ofensa ao princípio da colegialidade a análise monocrática do pedido pelo relator, notadamente pela possibilidade de submissão da controvérsia ao colegiado, por meio da interposição de agravo regimental.
+2. Não se admite a reiteração de pedido formulado em anterior impetração.
+3. Agravo regimental desprovido." (RCD no HC n. 974.883/MS, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 12/3/2025, DJEN de 18/3/2025.)
+Ante o exposto, não conheço o habeas corpus.
+Publique-se.
+Intime-se.
+EMENTA
