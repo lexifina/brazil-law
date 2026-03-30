@@ -1,0 +1,14 @@
+DECISÃO: Trata-se de agravo regimental interposto contra decisão da Presidência deste Tribunal que negou seguimento ao recurso extraordinário com agravo.
+Nas razões recursais, sustenta-se que “a matéria debatida in casu é idêntica àquela solucionada em sistemática de repercussão geral a partir de julgamento do RE 855.091, no qual se discutia, à luz dos arts. 97 e 153, III, da Constituição Federal, a incidência, ou não, de imposto de renda sobre os juros moratórios recebidos por pessoa física” (eDOC 59, p. 2).
+É o relatório. Decido.
+O Supremo Tribunal Federal reconheceu a existência de Repercussão Geral da matéria versada no RE 855.091/RG (Tema 808), cujo julgamento de mérito recebeu a seguinte ementa:
+
+“EMENTA Recurso extraordinário. Repercussão Geral. Direito Tributário. Imposto de renda. Juros moratórios devidos em razão do atraso no pagamento de remuneração por exercício de emprego, cargo ou função. Caráter indenizatório. Danos emergentes. Não incidência. 1. A materialidade do imposto de renda está relacionada com a existência de acréscimo patrimonial. Precedentes. 2. A palavra indenização abrange os valores relativos a danos emergentes e os concernentes a lucros cessantes. Os primeiros, correspondendo ao que efetivamente se perdeu, não incrementam o patrimônio de quem os recebe e, assim, não se amoldam ao conteúdo mínimo da materialidade do imposto de renda prevista no art. 153, III, da Constituição Federal. Os segundos, desde que caracterizado o acréscimo patrimonial, podem, em tese, ser tributados pelo imposto de renda. 3. Os juros de mora devidos em razão do atraso no pagamento de remuneração por exercício de emprego, cargo ou função visam, precipuamente, a recompor efetivas perdas (danos emergentes). Esse atraso faz com que o credor busque meios alternativos ou mesmo heterodoxos, que atraem juros, multas e outros passivos ou outras despesas ou mesmo preços mais elevados, para atender a suas necessidades básicas e às de sua família. 4. Fixa-se a seguinte tese para o Tema nº 808 da Repercussão Geral: “Não incide imposto de renda sobre os juros de mora devidos pelo atraso no pagamento de remuneração por exercício de emprego, cargo ou função”. 5. Recurso extraordinário não provido.” (RE 855091, Relator(a): DIAS TOFFOLI, Tribunal Pleno, REPERCUSSÃO GERAL - MÉRITO DJe 08-04-2021)
+
+Diante do exposto, reconsidero a decisão agravada e determino a devolução dos autos à Corte de origem para que adote, conforme a situação do referido tema de repercussão geral, os procedimentos previstos nos incisos I a III do artigo 1.030 do Código de Processo Civil (inciso V do art. 13 do Regimento Interno do Supremo Tribunal Federal). Julgo prejudicado o agravo interno.
+Publique-se.
+Brasília, 30 de março de 2026.
+
+Ministro EDSON FACHIN
+Presidente
+Documento assinado digitalmente
