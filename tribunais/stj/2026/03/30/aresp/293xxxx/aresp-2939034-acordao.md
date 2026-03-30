@@ -1,0 +1,69 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 24/03/2026 a 30/03/2026, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Luís Carlos Gambogi (Desembargador Convocado do TJMG), João Otávio de Noronha, Raul Araújo e Maria Isabel Gallotti votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro João Otávio de Noronha.
+EMENTA
+DIREITO PROCESSUAL CIVIL. EXECUÇÃO. OBRIGAÇÕES. AGRAVO EM RECURSO ESPECIAL. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. INADMISSIBILIDADE. SÚMULA N. 7/STJ. CONSONÂNCIA COM A JURISPRUDÊNCIA DO STJ. SÚMULA N. 83 DO STJ. INCIDÊNCIA. DIVERGÊNCIA JURISPRUDENCIAL. NÃO DEMONSTRAÇÃO. AGRAVO DESPROVIDO.
+I. Razões de decidir
+1. Inexiste afronta aos arts. 489 e 1.022 do CPC quando a Corte local pronunciou-se, de forma clara e suficiente, acerca das questões suscitadas, manifestando-se sobre todos os argumentos que, em tese, poderiam infirmar a conclusão adotada pelo Juízo.
+2. O recurso especial não comporta exame de questões que impliquem revolvimento de elementos fático-probatórios dos autos (Súmula n. 7/STJ).
+3. Não se conhece de recurso especial quando o acórdão recorrido encontra-se em consonância com a jurisprudência do Superior Tribunal de Justiça (Súmula n. 83 do STJ).
+4. "Na hipótese, o Tribunal de origem concluiu que as duplicatas atendem aos requisitos necessários para aparelhar a execução, visto que acompanhadas das notas fiscais eletrônicas e dos comprovantes de entrega das mercadorias. A modificação de tal entendimento demandaria o revolvimento do suporte fático-probatório dos autos, providência inviável no recurso especial, nos termos da Súmula 7 do STJ.  ..  (AgInt no AREsp 2548306/SC, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 09/09/2024, DJe 16/09/2024)".
+5. O conhecimento do recurso pela alínea "c" do permissivo constitucional exige a demonstração da divergência mediante o cotejo analítico do acórdão recorrido e dos arestos paradigmas, de modo a se verificarem as circunstâncias que assemelhem ou identifiquem os casos confrontados (arts. 255, § 1º, do RISTJ e 1.029, § 1º, do CPC), ônus do qual a parte recorrente não se desincumbiu.
+II. Dispositivo
+6. Agravo em recurso especial desprovido.
+RELATÓRIO
+Trata-se de agravo interposto contra decisão que inadmitiu o recurso especial pelos seguintes fundamentos: (i) ausência de violação ao dever de fundamentação, e (ii) incidência das Súmulas n. 7 e 83/STJ (fls. 578-583).
+O acórdão recorrido encontra-se assim ementado (fl. 492):
+APELAÇÃO CÍVEL. DIREITO PRIVADO NÃO ESPECIFICADO. AÇÃO DE EXECUÇÃO DE TÍTULO EXECUTIVO EXTRAJUDICIAL. EMBARGOS À EXECUÇÃO. DUPLICATAS.
+A DUPLICATA É UM TÍTULO CAUSAL POR EXCELÊNCIA. A OBRIGAÇÃO SUBJACENTE, PORTANTO, DEVE SER COMPROVADA PELA ENTREGA DAS MERCADORIAS OU PELA EFETIVA PRESTAÇÃO DOS SERVIÇOS.
+NA ESPÉCIE, NAS NOTAS FISCAIS REPRESENTATIVAS DAS CÁRTULAS CONSTA A ASSINATURA DE FUNCIONÁRIO DA EMBARGANTE NO CAMPO DO RECEBIMENTO DAS MERCADORIAS, O QUE CONFERE REGULARIDADE À EXECUÇÃO DA DÍVIDA.
+AUSENTE COMPROVAÇÃO DE QUE TENHA OCORRIDO FRAUDE NA EMISSÃO DAS DUPLICATAS, ÔNUS QUE INCUMBIA À EMBARGANTE.
+MANTIDA A SENTENÇA DE IMPROCEDÊNCIA DO PEDIDO DOS EMBARGOS À EXECUÇÃO.
+NEGARAM PROVIMENTO AO RECURSO. UNÂNIME.
+Os embargos de declaração foram rejeitados (fls. 523-526).
+Nas razões do recurso especial (fls. 533-557), interposto com fundamento no art. 105, III, "a" e "c", da CF, a parte recorrente alegou dissídio jurisprudencial e violação dos seguintes dispositivos legais:
+(i) art. art. 489, § 1º, IV e VI do CPC, sob o argumento que "a fundamentação do Acórdão recorrido é insuficiente, tendo em vista que não enfrentou todos os argumentos deduzidos pela Recorrente, tampouco explicou adequadamente a relação entre os atos normativos citados e a questão decidida, além de não seguir a jurisprudência suscitada" (fl. 550); e
+(ii) arts. 783, 784, I, e 803 do CPC e 15, II, "a" e "b", da Lei n. 5.474/1968, alegando que "os títulos apresentados pela Recorrida não estavam acompanhados dos respectivos comprovantes de entrega das mercadorias, como devidamente exigido pela legislação aplicável. Ora, as notas fiscais juntadas aos autos, continham assinaturas de pessoas totalmente estranhas ao feito, o que levantou evidente e fundada dúvida sobre a efetiva entrega das mercadorias" (fl. 546). Assim, argumenta que "a falta da duplicata e dos comprovantes de entrega, torna os documentos colacionados aos autos imexíveis por meio da demanda proposta pela Recorrida, ou seja, se não há prova suficiente da entrega da mercadoria e tampouco a apresentação das duplicatas que supostamente deram origem ao crédito discutido nos autos, deve a presente demanda ser julgada improcedente, diante da ausência dos requisitos e condições da ação" (fl. 548).
+No agravo (fls. 589-598), afirma a presença dos requisitos de admissibilidade do especial.
+Contraminuta apresentada (fls. 606-610).
+É o relatório.
+EMENTA
+DIREITO PROCESSUAL CIVIL. EXECUÇÃO. OBRIGAÇÕES. AGRAVO EM RECURSO ESPECIAL. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. INADMISSIBILIDADE. SÚMULA N. 7/STJ. CONSONÂNCIA COM A JURISPRUDÊNCIA DO STJ. SÚMULA N. 83 DO STJ. INCIDÊNCIA. DIVERGÊNCIA JURISPRUDENCIAL. NÃO DEMONSTRAÇÃO. AGRAVO DESPROVIDO.
+I. Razões de decidir
+1. Inexiste afronta aos arts. 489 e 1.022 do CPC quando a Corte local pronunciou-se, de forma clara e suficiente, acerca das questões suscitadas, manifestando-se sobre todos os argumentos que, em tese, poderiam infirmar a conclusão adotada pelo Juízo.
+2. O recurso especial não comporta exame de questões que impliquem revolvimento de elementos fático-probatórios dos autos (Súmula n. 7/STJ).
+3. Não se conhece de recurso especial quando o acórdão recorrido encontra-se em consonância com a jurisprudência do Superior Tribunal de Justiça (Súmula n. 83 do STJ).
+4. "Na hipótese, o Tribunal de origem concluiu que as duplicatas atendem aos requisitos necessários para aparelhar a execução, visto que acompanhadas das notas fiscais eletrônicas e dos comprovantes de entrega das mercadorias. A modificação de tal entendimento demandaria o revolvimento do suporte fático-probatório dos autos, providência inviável no recurso especial, nos termos da Súmula 7 do STJ.  ..  (AgInt no AREsp 2548306/SC, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 09/09/2024, DJe 16/09/2024)".
+5. O conhecimento do recurso pela alínea "c" do permissivo constitucional exige a demonstração da divergência mediante o cotejo analítico do acórdão recorrido e dos arestos paradigmas, de modo a se verificarem as circunstâncias que assemelhem ou identifiquem os casos confrontados (arts. 255, § 1º, do RISTJ e 1.029, § 1º, do CPC), ônus do qual a parte recorrente não se desincumbiu.
+II. Dispositivo
+6. Agravo em recurso especial desprovido.
+VOTO
+Cuida-se, na origem, de decisão que julgou improcedentes os embargos de execução apresentados pela parte agravante em processo de execução. Insurge-se, a parte agravante/embargante/executada, em relação aos documentos que lastreiam a execução, ante a alegação de que não possuem liquidez, certeza e exigibilidade.
+O agravo, contudo, não comporta provimento.
+No que se refere à alegação de violação ao dever de fundamentação, observa-se que a Corte local pronunciou-se, de forma clara e suficiente, acerca das questões suscitadas nos autos, manifestando-se sobre todos os argumentos que, em tese, poderiam infirmar a conclusão adotada pelo Juízo. Desse modo, não há falar em negativa de prestação jurisdicional, vício de fundamentação ou violação do art. 489 do CPC.
+Quanto à tese de que não houve prova da entrega das mercadorias, a Corte local assim se pronunciou (fls. 490-491):
+No caso em testilha, a executada-apelante sustenta a nulidade das seguintes duplicatas: DP 49086/1, DP 49086/2, DP 49086/3, DP 297910/1, DP 297910/2, DP 297910/3, DP 298458/1, DP 298458/2, sob a alegação de não reconhecer a assinatura do recebedor das mercadorias nas notas fiscais apresentadas pela credora.
+Com efeito, as referidas cártulas estão acompanhadas de notas fiscais assinadas no canhoto pelo recebedor Edson (fl. 36 do doc 1; fls. 15 e 50 do doc 2 do evento 5 dos autos do processo de execução), o que está por confirmar o recebimento das mercadorias na sede da empresa apelante.
+As duplicatas apresentam correlação com as notas fiscais.
+Em relação à versão da apelante de que a pessoa de nome Edson que firmou o recebimento das mercadorias nas notas fiscais não era seu funcionário, era ônus seu a demonstração de eventual fraude, o que não ocorreu na espécie, com base no artigo 373, I, do CPC.
+Isso porque o informante Jair Antônio Jaime Sebem, representante comercial da credora, ao ser inquirido pelo juízo, declarou que frequentemente transacionava com a recorrente e o funcionário Edson era o responsável por atender os pedidos de compras e realizar os recebimentos das mercadorias em nome da última. O informante esclareceu, ainda, que manteve contato pessoal com o funcionário Edson na empresa da embargante, bem como, durante a sua oitiva, informou e exibiu os contatos de telefone do referido funcionário constantes na agenda de seu aparelho celular.
+Destaca-se, por oportuno, que o funcionário Edson também recebeu mercadorias em nome da devedora em negócios feitos com outra empresa, nos quais houve acordo e a quitação das respectivas duplicadas (doc 2 do evento 72).
+Diante de tal cenário, reconhecida a legitimidade das duplicatas impugnadas, vai mantida a improcedência do pedido nos embargos à execução.
+Ademais, o julgador não está obrigado a responder a todas as alegações das partes, quando já tenha encontrado motivo suficiente para fundamentar a decisão, nem se obriga a ater-se aos fundamentos indicados pelas partes, tampouco a responder um a um a todos os seus argumentos: "não há falar em negativa de prestação jurisdicional se o tribunal de origem motiva adequadamente sua decisão, solucionando a controvérsia com a aplicação do direito que entende cabível à hipótese, apenas não no sentido pretendido pela parte" (AgInt no AREsp n. 629939/RJ, Rel. Ministro Ricardo Villas Bôas Cueva, Terceira Turma, DJe 19.6.2018).
+Afasto, pois, a alegação de vício de fundamentação.
+No que diz respeito à alegação de que os que os títulos apresentados à execução não estavam acompanhados dos devidos comprovantes de entrega, o que lhes retiraria a força executiva, a Corte local se manifestou de forma detalhada, conforme excerto acima transcrito, ao qual faz-se remissão para evitar redundância.
+Rever a conclusão do acórdão, quanto ao ponto, demandaria incursão no campo fático-probatório, providência vedada na via especial, conforme a Súmula n. 7 do STJ.
+Ademais, trata-se de decisão em conformidade com a jurisprudência desta Corte:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DECISÃO DA PRESIDÊNCIA DO STJ. RECONSIDERAÇÃO. AÇÃO DE COBRANÇA. DUPLICATAS. OFENSA AO ART. 489, § 1º, VI, DO CPC/2015. NÃO OCORRÊNCIA. PRESCRIÇÃO. NÃO OCORRÊNCIA. EXIGIBILIDADE DOS TÍTULOS EXECUTIVOS. REQUISITOS PREENCHIDOS. SÚMULA 7/STJ. AGRAVO INTERNO PROVIDO PARA CONHECER DO AGRAVO EM RECURSO ESPECIAL. RECURSO ESPECIAL DESPROVIDO.
+1.O agravante realizou a impugnação específica dos fundamentos da decisão de inadmissibilidade do recurso especial. Decisão da Presidência reconsiderada.
+2.Inexiste ofensa ao art. 489, § 1º, VI, quando o Tribunal de origem aprecia, de modo claro, objetivo e fundamentado, as questões que delimitam a controvérsia, ainda que não acolha a tese da parte insurgente.
+3.Tendo o credor ajuizado a execução dentro do prazo prescricional e empreendido esforços para promover a citação do executado, inexiste inércia e, portanto, inexiste prescrição.
+4.Na hipótese, o Tribunal de origem concluiu que as duplicatas atendem aos requisitos necessários para aparelhar a execução, visto que acompanhadas das notas fiscais eletrônicas e dos comprovantes de entrega das mercadorias. A modificação de tal entendimento demandaria o revolvimento do suporte fático-probatório dos autos, providência inviável no recurso especial, nos termos da Súmula 7 do STJ.
+5.Agravo interno provido para reconsiderar a decisão agravada e, em nova análise, conhecer do agravo e negar provimento ao recurso especial. (AgInt no AREsp 2548306/SC, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 09/09/2024, DJe 16/09/2024)
+Dá-se, portanto, também a incidência da Súmula n. 83/STJ para obstaculizar o conhecimento do especial.
+Por fim, o recurso também não pode ser admitido pela alínea "c" pois, "consoante iterativa jurisprudência desta Corte, a incidência da Súmula 7 do STJ impede o conhecimento do recurso lastreado, também, pela alínea c do permissivo constitucional, uma vez que falta identidade entre os paradigmas apresentados e os fundamentos do acórdão, tendo em vista a situação fática de cada caso" (AgInt no REsp 181.234 5/AM, Rel. Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 18/11/2019, DJe 21/11/2019).
+Ademais, o conhecimento do recurso especial interposto com fundamento na alínea "c" do permissivo constitucional exige indicação do dispositivo legal objeto de interpretação divergente, bem como demonstração do dissídio, mediante verificação das circunstâncias que assemelhem ou identifiquem os casos confrontados e realização de cotejo analítico entre elas, nos termos definidos pelos arts. 255, §§ 1º e 2º, do RISTJ e 1.029, § 1º, do CPC, ônus dos quais a parte agravante não se desincumbiu.
+Ante o exposto, NEGO PROVIMENTO ao agravo.
+Na forma do art. 85, § 11, do CPC/2015, MAJORO os honorários advocatícios em 20% (vinte por cento) do valor arbitrado, observando-se os limites dos §§ 2º e 3º do referido dispositivo.
+É como voto.
