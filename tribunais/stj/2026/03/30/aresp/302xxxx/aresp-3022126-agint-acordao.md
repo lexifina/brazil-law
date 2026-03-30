@@ -1,0 +1,45 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 24/03/2026 a 30/03/2026, por unanimidade, negar provimento ao recurso, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Antonio Carlos Ferreira, Luís Carlos Gambogi (Desembargador Convocado do TJMG), João Otávio de Noronha e Raul Araújo votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro João Otávio de Noronha.
+EMENTA
+DIREITO DO CONSUMIDOR. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE REEMBOLSO DE DESPESAS MÉDICAS. REEMBOLSO INTEGRAL. DESCABIMENTO. REVISÃO. IMPOSSIBILIDADE. SÚMULA 7/STJ. ANÁLISE DA DIVERGÊNCIA JURISPRUDENCIAL OBSTADA. RECURSO NÃO PROVIDO.
+1. Não cabe, em recurso especial, reexaminar matéria fático-probatória (Súmula n. 7/ STJ).
+2. "O recurso especial não pode ser conhecido com fundamento na alínea c do permissivo constitucional, porquanto o óbice da Súmula n. 7/STJ impede o exame do dissídio jurisprudencial quando, para a comprovação da similitude fática entre os julgados confrontados, é necessário o reexame de fatos e provas" (AgInt no REsp n. 2.175.976/DF, relatora Ministra Regina Helena Costa, Primeira Turma, DJEN de 20/2/2025).
+3. Agravo interno a que se nega provimento.
+RELATÓRIO
+Trata-se de agravo interno interposto contra decisão proferida pela Presidência do STJ, por meio da qual conheceu do agravo para não conhecer do recurso especial, sob os seguintes fundamentos: a) incidência do verbete 7 do STJ, ante a necessidade de reexame do acervo fático-probatório dos autos; e b) a divergência jurisprudencial não foi demonstrada.
+Nas razões do agravo interno, a parte agravante sustenta, em síntese, a não incidência do verbete 7 do STJ, ante a desnecessidade de reexame do acervo fático-probatório dos autos.
+Aduz, ainda, que houve a demonstração do dissídio jurisprudencial.
+A parte agravada apresentou impugnação às fls. 534-545.
+É o relatório.
+EMENTA
+DIREITO DO CONSUMIDOR. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE REEMBOLSO DE DESPESAS MÉDICAS. REEMBOLSO INTEGRAL. DESCABIMENTO. REVISÃO. IMPOSSIBILIDADE. SÚMULA 7/STJ. ANÁLISE DA DIVERGÊNCIA JURISPRUDENCIAL OBSTADA. RECURSO NÃO PROVIDO.
+1. Não cabe, em recurso especial, reexaminar matéria fático-probatória (Súmula n. 7/ STJ).
+2. "O recurso especial não pode ser conhecido com fundamento na alínea c do permissivo constitucional, porquanto o óbice da Súmula n. 7/STJ impede o exame do dissídio jurisprudencial quando, para a comprovação da similitude fática entre os julgados confrontados, é necessário o reexame de fatos e provas" (AgInt no REsp n. 2.175.976/DF, relatora Ministra Regina Helena Costa, Primeira Turma, DJEN de 20/2/2025).
+3. Agravo interno a que se nega provimento.
+VOTO
+Não colhe o recurso.
+No que diz respeito ao pleito de reembolso integral, a Corte de origem concluiu que "a cirurgia foi realizada sem solicitação prévia de autorização junto ao plano de saúde, tampouco em hospital credenciado. A documentação anexada pela própria parte autora também não traz prescrição médica formal determinando a técnica robótica (..) O relatório médico anexado não demonstra que a adoção da técnica robótica seria indispensável ou que as opções oferecidas pelo plano de saúde seriam inadequadas ou insuficientes ao tratamento de câncer diagnosticado " ( fl. 381)
+Dessa forma, a alteração do entendimento exposto no acórdão recorrido, como ora pretendido, demandaria o reexame do conjunto fático-probatório dos autos, providência inviável em sede de recurso especial, a teor do que dispõe a Súmula 7 desta Corte.
+Além disso, verifico que a pretensão da parte recorrente é de ver caracterizada a divergência jurisprudencial, que tem por escopo a mesma matéria levantada sob fundamento da alínea "a" do comando constitucional, que, por sua vez, foi rechaçada pela Súmula n. 7/STJ.
+Quando isso sucede, mister o reconhecimento da ausência de similitude fática entre os acordos confrontados, requisito obrigatório ao conhecimento do Recurso Especial pela alínea "c".
+Nesse sentido: "O recurso especial não pode ser conhecido com fundamento na alínea c do permissivo constitucional, porquanto o óbice da Súmula n. 7/STJ impede o exame do dissídio jurisprudencial quando, para a comprovação da similitude fática entre os julgados confrontados, é necessário o reexame de fatos e provas" ;(AgInt no REsp n. 2.175.976/DF, relatora Ministra Regina Helena Costa, Primeira Turma, DJEN de 20/2/2025).
+A propósito:
+AGRAVO REGIMENTAL NO RECURSO ESPECIAL - AÇÃODECLARATÓRIA DE INEXISTÊNCIA DE DÉBITO - ALEGADA NÃOCOMPROVAÇÃO DA CAUSA PARA EMISSÃO DE DUPLICATAS -SENTENÇA E ACÓRDÃO QUE RECONHECERAM A VALIDADE DOSTÍTULOS - DECISÃO QUE NEGOU SEGUIMENTO AO RECURSOESPECIAL. INSURGÊNCIA DO DEMANDANTE.
+1. Demonstrado que o acolhimento das razões do recurso especial torna imprescindível o reexame do conjunto fático-probatório dos autos, incide o enunciado nº 7 da Súmula do STJ.
+2. A incidência do enunciado nº 7 da Súmula do STJ impede o conhecimento do recurso especial tanto pela alínea "a" quanto pela alínea "c" do permissivo constitucional.
+3. O dissídio jurisprudencial deve ser minuciosamente demonstrado por meio do cotejo analítico entre o acórdão recorrido e os acórdãos apontados como paradigmas, procedimento não observado pela parte insurgente.
+4. Agravo regimental desprovido.
+(AgRg no REsp 1137530/MT, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 10/06/2014 , DJe24/06/2014)
+DIREITO TRIBUTÁRIO E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. OMISSÃO DE MATÉRIA CONSTITUCIONAL. ANÁLISE INCABÍVEL. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA. ITBI. IMUNIDADE. INTEGRALIZAÇÃO DE CAPITAL SOCIAL. ACÓRDÃO AMPARADO EM FUNDAMENTO CONSTITUCIONAL. PRETENSÃO DE DISTINGUISHING COM PRECEDENTE VINCULANTE DA SUPREMA CORTE. EXAME INVIÁVEL EM RECURSO ESPECIAL. DISPOSITIVO LEGAL SEM COMANDO NORMATIVO. DISSÍDIO JURISPRUDENCIAL. ANÁLISE PREJUDICADA. RECURSO DESPROVIDO.
+1. Uma das supostas omissões apontadas no apelo nobre decorreria do fato de a Corte local não ter realizado distinguishing do caso em tela com o precedente do Supremo Tribunal Federal. O referido leading case do Pretório Excelso diz respeito ao alcance da imunidade prevista no art. 156, § 2.º, inciso I, da Constituição Federal. Ocorre que, consoante pacífica jurisprudência desta Corte, " n ão é cabível acolher a violação do art. 535 do CPC/1973 (ou 1.022 do CPC/2015) para reconhecer omissão de matéria constitucional, por ser de competência do Supremo Tribunal Federal" (AgInt no REsp n. 1.948.582/PR, relator Ministro Paulo Sérgio Domingues, Primeira Turma, julgado em 24/4/2023, DJe de 28/4/2023).
+2. Na extensão cognoscível, a preliminar de negativa de prestação jurisdicional não comporta acolhimento, pois o acórdão recorrido não possui os vícios suscitados pelas Recorrentes. Ao revés, apresentou, concretamente, os fundamentos que justificaram a sua conclusão. Como é cediço, o Julgador não está obrigado a rebater, individualmente, todos os argumentos suscitados pelas partes, sendo suficiente que demonstre, fundamentadamente, as razões do seu convencimento.
+3. O Tribunal de origem decidiu a questão referente à imunidade do ITBI com lastro em fundamento eminentemente constitucional. Nesse contexto, a sua revisão é inviável em recurso especial, que se destina a uniformizar a interpretação do direito federal infraconstitucional.
+4. Entendeu, a Corte local, que o ITBI seria devido, na extensão do valor do bem que ultrapassasse a quantia do capital social integralizado e, para tanto, amparou-se em precedente vinculante da Suprema Corte (RE n. 796.376, Tema n. 796 da Repercussão Geral). A Recorrente, por sua vez, entende que o referido leading case foi aplicado de forma incorreta. Ocorre que, consoante pacífica jurisprudência deste Sodalício, "descabe ao STJ interpretar, nesta via processual, as razões de decidir adotadas pelo STF para julgar Recurso Extraordinário no rito da repercussão geral" (AgInt no AREsp n. 1.643.657/SC, relator Ministro Herman Benjamin, Segunda Turma, julgado em 16/12/2020, DJe de 18/12/2020; sem grifos no original).
+5. Embora os fundamentos constitucionais sobre os quais se amparam o acórdão de origem impeçam, por si só, o exame do mérito do apelo nobre em sua integralidade, acresce-se, ainda, o óbice da Súmula n. 284/STF, diante da ausência de comando normativo do art. 23 da Lei n. 9.249/1995 para amparar a tese nele fundamentada.
+6. Conforme jurisprudência desta Corte Superior, a existência de óbice processual, impedindo o conhecimento de questão suscitada com base na alínea a do permissivo constitucional, prejudica a análise da alegada divergência jurisprudencial acerca do mesmo tema.
+7. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 2.638.926/MT, relator Ministro TEODORO SILVA SANTOS, Segunda Turma, julgado em 9/4/2025, DJEN de 23/4/2025.)
+Em face do exposto, nego provimento ao agravo interno.
+É como voto.
