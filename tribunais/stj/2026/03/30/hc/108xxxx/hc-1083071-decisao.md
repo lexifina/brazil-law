@@ -1,0 +1,41 @@
+DECISÃO
+Trata-se de habeas corpus substitutivo de recurso próprio, com pedido de liminar, impetrado em favor de THAUAN MOREIRA ALVES CELESTINO ou THAUAN MOREIRA ALVES, em que se aponta como autoridade coatora o Tribunal de Justiça do Estado de São Paulo.
+Consta dos autos que o paciente teve a prisão preventiva decretada e foi denunciado pela suposta prática do delito previsto no artigo 33, caput, da Lei 11.343/2006.
+Impetrado habeas corpus na origem, a ordem foi denegada.
+Nesta Corte, a defesa sustenta que "A mantença da decretação da prisão preventiva foi desnecessária, uma vez que a ordem pública já está resguardada, tendo em vista que a substância inexpressiva de entorpecente foi aprendida e tirada de circulação."
+Destaca a desproporcionalidade na aplicação da medida extrema, pois "o crime supostamente cometido pelo paciente, é certo que, em caso de condenação, será reconhecido o tráfico privilegiado com imposição de regime aberto e substituição da pena corporal por penas restritivas de direitos (Súmula Vinculante 59 do STF)."
+Requer a revogação da prisão preventiva ou, subsidiariamente, a sua substituição por outras medidas cautelares do art. 319 do CPP.
+É o relatório.
+Decido.
+Esta Corte - HC 535.063/SP, Terceira Seção, Rel. Ministro Sebastião Reis Junior, julgado em 10/6/2020 - e o Supremo Tribunal Federal - AgRg no HC 180.365, Primeira Turma, Rel. Min. Rosa Weber, julgado em 27/3/2020; AgR no HC 147.210, Segunda Turma, Rel. Min. Edson Fachin, julgado em 30/10/2018 -, pacificaram orientação no sentido de que não cabe habeas corpus substitutivo do recurso legalmente previsto para a hipótese, impondo-se o não conhecimento da impetração, salvo quando constatada a existência de flagrante ilegalidade no ato judicial impugnado.
+Passo ao exame das alegações trazidas pela defesa, a fim de verificar a ocorrência de manifesto constrangimento ilegal que autorize a concessão da ordem, de ofício.
+O Tribunal de origem manteve a prisão cautelar do paciente nos seguintes termos:
+Ao notar a aproximação da viatura, o indivíduo empreendeu fuga imediata com a bicicleta, sendo alcançado e abordado em frente a uma adega situada nas proximidades. Em busca pessoal, foi localizada com o acusado a quantia de R$ 142,00 em espécie (fl. 25 dos autos de origem), não sendo encontrados ilícitos em sua posse direta naquele momento. Todavia, ao retornarem ao ponto exato onde o suspeito fora inicialmente avistado manuseando o muro, os policiais localizaram, no interior da calha, expressiva quantidade de substâncias entorpecentes, sendo: 71 porções de "crack" e 02 tubetes plásticos contendo cocaína (fl. 25 dos autos de origem).
+ ..
+Não bastasse isso, conforme oportunamente salientado pela M Ma. Juíza de Direito, o paciente ostenta passagem policial anterior recente pela mesma prática delitiva (fls. 27/28 e 33 dos autos de origem), a evidenciar que, permanecendo solto, continuará enveredado pelo mundo do crime, constituindo risco à ordem pública, de sorte que quaisquer outras medidas cautelares diversas da prisão se mostram insuficientes, sendo manifestamente inadequadas ao caso em comento, razão pela qual despiciendo a D. Magistrada discorrer sobre cada uma delas.
+De acordo com o art. 312 do Código de Processo Penal, a prisão preventiva poderá ser decretada para garantia da ordem pública, da ordem econômica, por conveniência da instrução criminal ou para assegurar a aplicação da lei penal, desde que presentes prova da existência do crime e indícios suficientes de autoria.
+No caso, observa-se que a custódia cautelar está suficientemente fundamentada na garantia da ordem pública, haja vista a reiterada conduta delitiva do paciente, uma vez que voltou a ser preso na prática da traficância após ser colocado em liberdade recentemente em outra ação penal pela qual responde a delito idêntico.
+Esta Corte já se manifestou que "a persistência do agente na prática criminosa justifica, a priori, a interferência estatal com a decretação da prisão preventiva, nos termos do art. 312 do CPP, porquanto esse comportamento revela uma periculosidade social e compromete a ordem pública" (AgRg no HC n. 984.921/RS, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 18/3/2025, DJEN de 26/3/2025.)
+No mesmo sentido:
+DIREITO PROCESSUAL PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. TRANCAMENTO DA AÇÃO PENAL. PRISÃO PREVENTIVA. TRÁFICO DE DROGAS. AGRAVO IMPROVIDO.
+I. Caso em exame
+1. Agravo regimental interposto contra decisão que não conheceu de habeas corpus substitutivo de recurso ordinário, em que se alegava a ilegalidade das provas colhidas mediante violação de domicílio e a ausência de elementos concretos para a custódia cautelar.
+II. Questão em discussão
+2. A questão em discussão consiste em saber se a prisão preventiva está devidamente fundamentada na garantia da ordem pública e no risco de reiteração delitiva, considerando a apreensão de mais de 130 kg de maconha e a existência de outro processo em curso por tráfico de entorpecentes.
+3. Outra questão em discussão é a alegação de ilegalidade das provas colhidas mediante violação de domicílio sem justa causa ou autorização judicial, e se tal alegação poderia ensejar o trancamento da ação penal ou a revogação da prisão preventiva.
+III. Razões de decidir
+4. O trancamento de ação penal por meio de habeas corpus é medida excepcional, cabível apenas quando há inequívoca comprovação de atipicidade da conduta, extinção da punibilidade ou ausência de indícios de autoria ou materialidade do delito.
+5. A alegação de nulidade pela busca domiciliar deve ser analisada pelas instâncias ordinárias, sob o crivo do contraditório, para que se possa delinear o quadro fático e verificar a legalidade das provas colhidas.
+6. O trancamento prematuro da ação penal pode cercear a acusação, impedindo o Ministério Público de demonstrar a legalidade da prova colhida durante a instrução processual.
+7. A prisão preventiva foi mantida com base na garantia da ordem pública e no risco de reiteração delitiva, considerando a quantidade significativa de drogas apreendidas e o fato do agravante responder a outra ação penal.
+8. A jurisprudência consolidada estabelece que a preservação da ordem pública justifica a prisão preventiva quando há indícios de contumácia delitiva e periculosidade do agente, não sendo suficientes medidas cautelares alternativas.
+IV. Dispositivo e tese
+9. Agravo improvido.
+Tese de julgamento: "1. A prisão preventiva pode ser mantida para garantir a ordem pública e prevenir a reiteração delitiva quando há indícios concretos de periculosidade do agente. 2. A análise de nulidade de provas colhidas mediante violação de domicílio deve ser feita pelas instâncias ordinárias sob o crivo do contraditório, para que se possa delinear o quadro fático e verificar a legalidade das provas colhidas."
+Dispositivos relevantes citados: CPP, art. 312; CPP, art. 282, § 6º.Jurisprudência relevante citada: STJ, HC 535.063/SP, Rel. Min. Sebastião Reis Junior, Terceira Seção, julgado em 10/6/2020; STF, AgRg no HC 180.365, Rel. Min. Rosa Weber, Primeira Turma, julgado em 27/3/2020.
+(AgRg no HC n. 997.960/GO, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 1/7/2025, DJEN de 4/7/2025.)
+Assim, a reiterada conduta delitiva do agente indica que a ordem pública não estaria acautelada com a sua soltura, o que obsta a aplicação de medidas cautelares diversas da prisão. Sobre o tema: AgRg no HC n. 978.980/SP, relator Ministro ANTONIO SALDANHA PALHEIRO, Sexta Turma, julgado em 26/3/2025, DJEN de 31/3/2025; AgRg no HC n. 878.550/SC, relator Ministro REYN ALDO SOARES DA FONSECA, Quinta Turma, julgado em 20/2/2024, DJe de 26/2/2024.
+Por fim, a tese de desproporcionalidade da custódia cautelar à provável futura pena do réu não comporta acolhimento, pois apenas a conclusão do processo será capaz de revelar se o acusado será beneficiado com a fixação de regime prisional diverso do fechado, sendo inviável essa discussão neste momento processual. Nessa linha: AgRg no HC n. 973.311/SP, relator Ministro OG FERNANDES, SEXTA TURMA, julgado em 11/6/2025, DJEN de 16/6/2025; AgRg no HC n. 1.001.038/SP, relator Ministro RIBEIRO DANTAS, QUINTA TURMA, julgado em 1/7/2025, DJEN de 4/7/2025.
+Ante o exposto, não conheço do habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
