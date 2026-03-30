@@ -1,0 +1,31 @@
+DECISÃO
+Trata-se de recurso ordinário em habeas corpus interposto por THIAGO LENCKI ROCHA contra acórdão da 11ª Turma do Tribunal Regional Federal da 3ª Região, no HC n. 5023579-90.2025.4.03.0000.
+Consta dos autos que o recorrente é investigado no âmbito da denominada Operação Sépsis, instaurada para apurar supostos desvios de recursos públicos na área da saúde do Município de Sorocaba/SP, além de possíveis crimes de corrupção e lavagem de capitais, relacionados à execução de termo de convênio firmado entre a municipalidade e o Instituto Nacional de Ciências da Saúde - INCS.
+A defesa sustenta que relatório parcial da autoridade policial apontou que parte dos pagamentos tidos por indevidos teria sido realizada por meio de doações eleitorais oficiais. A partir disso, invoca o entendimento firmado pelo Supremo Tribunal Federal na Pet n. 8.134/DF para afirmar a competência da Justiça Eleitoral para acompanhar o Inquérito Policial n. 5001020-16.2023.4.03.6110,
+O Tribunal de origem, contudo, entendeu prematuro o deslocamento de competência. Assentou que a referência às doações eleitorais consta apenas de relatório parcial da autoridade policial, ainda não submetido à análise conclusiva do Ministério Público, inexistindo, por ora, imputação formal apta a evidenciar, de modo seguro, a presença de crime eleitoral ou de conexão.
+No presente recurso, a defesa sustenta, em síntese, que o acórdão recorrido incorreu em equívoco ao condicionar o reconhecimento da competência da Justiça Eleitoral à existência de imputação formal. Afirma que, à luz da jurisprudência do Supremo Tribunal Federal, a definição da competência decorre da natureza dos fatos investigados, sendo suficiente a presença de conotação eleitoral, independentemente do estágio processual.
+Alega que, no caso concreto, a própria autoridade policial reconheceu que parte dos valores reputados ilícitos teria sido veiculada por meio de doações eleitorais oficiais, o que atrairia, de forma objetiva, a competência da Justiça Eleitoral, ainda que em conexão com delitos comuns.
+Sustenta, ainda, que a manutenção do feito na Justiça Federal implica constrangimento ilegal, por submeter o recorrente à persecução penal perante juízo absolutamente incompetente.
+Requer, ao final, o provimento do recurso para que seja reconhecida a competência da Justiça Eleitoral, com a consequente remessa dos autos ao juízo competente.
+O Ministério Público opinou pelo não provimento do recurso (e-STJ, fls. 252-258).
+É o relatório.
+Decido.
+O recurso não comporta provimento.
+É certo que a jurisprudência do Supremo Tribunal Federal e desta Corte reconhece a competência da Justiça Eleitoral para o processamento e julgamento dos crimes eleitorais e dos delitos a eles conexos. Também não se ignora que, em determinadas hipóteses, a utilização de doações eleitorais como forma de dissimulação de vantagem indevida pode revelar conotação eleitoral apta a atrair a competência da Justiça especializada.
+O ponto, aqui, no entanto, é outro.
+A controvérsia surge ainda na fase de investigação, antes mesmo do encerramento do inquérito e da formação da opinio delicti pelo Ministério Público. O que há, por ora, é menção, em relatório parcial da autoridade policial, a possível pagamento de vantagem indevida sob a forma de doação eleitoral oficial.
+Esse dado, embora relevante para o prosseguimento das apurações, não autoriza, neste estágio, o deslocamento imediato da competência.
+A fixação da competência penal, sobretudo quando fundada em conexão com crime eleitoral, pressupõe base fática minimamente definida. Não se mostra suficiente, para tanto, elemento provisório, destacado de investigação mais ampla e ainda não submetido ao crivo do órgão acusador.
+Como bem consignado no acórdão recorrido, a investigação envolve, em princípio, supostos delitos de desvio de recursos públicos, corrupção e lavagem de capitais. A referência à doação eleitoral surge, por ora, como um dos aspectos ainda em apuração.
+Nessas circunstâncias, não se evidencia manifesta ilegalidade na manutenção do feito, neste momento, perante a Justiça Federal, especialmente porque o juízo de origem atua apenas no acompanhamento da investigação, sem que haja ação penal instaurada.
+A definição mais precisa da natureza dos fatos, de sua capitulação jurídica e da eventual existência de crime eleitoral ou de conexão deve ocorrer em momento oportuno, à vista do resultado final das investigações e da manifestação do titular da ação penal.
+A propósito, esta Corte já assentou que "a competência da Justiça Eleitoral não se configura sem a demonstração de violação ao bem jurídico tutelado pelo direito eleitoral" (AgRg no RHC n. 186.698/GO, relator Ministro Otávio de Almeida Toledo, Desembargador convocado do TJSP, Sexta Turma, julgado em 26/3/2025, DJe de 31/3/2025).
+No mesmo sentido, há precedentes no sentido de que, ausente descrição segura de crime eleitoral e de sua conexão com os demais fatos, não há falar em deslocamento da competência para a Justiça especializada (AgRg no RHC n. 200.753/SP, relator Ministro Messod Azulay Neto, Quinta Turma, julgado em 12/2/2025, DJe de 17/2/2025).
+Também não procede a alegação de que o precedente da Pet n. 8.134/DF dispensaria, em qualquer hipótese, imputação formal ou delimitação mínima dos fatos. Naquele caso, o debate ocorreu a partir de narrativa acusatória formalizada, com descrição clara da utilização de doações eleitorais em contexto já delineado.
+Aqui, diversamente, a defesa pretende extrair consequência definitiva de elemento ainda provisório, constante de relatório parcial, antes mesmo da conclusão das investigações.
+Por fim, eventual reconhecimento posterior da incompetência não conduz, automaticamente, à nulidade dos atos já praticados, os quais poderão ser apreciados à luz da teoria do juízo aparente.
+Em síntese, a menção a doações eleitorais consta de relatório parcial da autoridade policial, ainda não submetido à análise conclusiva do Ministério Público, inexistindo, por ora, definição fática suficiente para deslocar a competência para a Justiça Eleitoral.
+Não se verifica, portanto, constrangimento ilegal.
+Ante o exposto, nego provimento ao recurso ordinário em habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
