@@ -1,0 +1,39 @@
+DECISÃO:
+Trata-se de recurso extraordinário com agravo contra decisão de inadmissão do recurso extraordinário.
+O recurso foi interposto com fundamento na alínea "a" do permissivo constitucional.
+O acórdão recorrido  ficou assim ementado:
+
+"DIREITO ADMINISTRATIVO. APELAÇÃO CÍVEL. SERVIDORA PÚBLICA MUNICIPAL. ODONTÓLOGA. REMUNERAÇÃO INFERIOR AO VENCIMENTO PREVISTO EM LEI MUNICIPAL. ADICIONAL DE INSALUBRIDADE. BASE DE CÁLCULO. SALÁRIO-BASE. SENTENÇA ULTRA PETITA. ADEQUAÇÃO. HONORÁRIOS ADVOCATÍCIOS. FIXAÇÃO NA FASE DE LIQUIDAÇÃO. PROVIMENTO PARCIAL.
+I – CASO EM EXAME
+1. Trata-se de Apelação Cível interposta pelo Município de Ilhéus em face de sentença proferida nos autos de ação ordinária proposta por servidora pública municipal, ocupante do cargo de Odontóloga, com o objetivo de obter a condenação do Ente Público ao pagamento de diferenças remuneratórias em razão do não cumprimento da Lei Municipal nº 3.761/2015, que fixa o vencimento básico do cargo em R$ 3.000,00 (três mil reais), bem como a adequação da base de cálculo do adicional de insalubridade, que vinha sendo calculado sobre o salário mínimo, em desacordo com o disposto na Lei Municipal nº 3.760/2016. A sentença julgou procedente o pedido, determinando o pagamento das diferenças salariais e fixando o adicional de insalubridade no percentual de 30% (trinta por cento) sobre o salário-base.
+II – QUESTÃO EM DISCUSSÃO
+2. A controvérsia posta nos autos cinge-se às seguintes questões: (i) verificar se a parte autora faz jus à percepção do vencimento básico previsto na Lei Municipal nº 3.761/2015, no valor de R$ 3.000,00; e (ii) analisar se o adicional de insalubridade devido à servidora deve ter como base de cálculo o salário mínimo ou o vencimento básico.
+III – RAZÕES DE DECIDIR
+3. A Lei Municipal nº 3.761/2015 prevê expressamente, em seu Anexo I, o valor do vencimento básico da Odontóloga em R$ 3.000,00. Restou comprovado nos autos, por meio das fichas financeiras acostadas, que a parte autora não recebe o valor estipulado na referida norma, revelando descumprimento da legislação municipal e violação ao princípio da legalidade administrativa, insculpido no art. 37 da CF/1988.
+4. Quanto ao adicional de insalubridade, dispõe o art. 89 da Lei Municipal nº 3.760/2016 que o referido adicional deve incidir sobre o salário-base da servidora.
+5. Assim, revela-se ilegal a conduta do Município ao utilizar o salário mínimo como base de cálculo, prática vedada pela jurisprudência do Supremo Tribunal Federal, conforme entendimento consolidado na Súmula Vinculante nº 4.
+6. Contudo, a sentença foi proferida de forma ultra petita, pois, embora a autora percebesse o adicional de insalubridade no percentual de 20%, não formulou pedido de majoração para 30%, pleiteando apenas a alteração da base de cálculo. Assim, impõe-se a adequação da decisão aos limites do pedido, nos termos dos arts. 141 e 492 do CPC/2015.
+7. Por fim, tratando-se de sentença ilíquida e considerando que a Fazenda Pública figura no polo passivo, a fixação do percentual de honorários advocatícios deverá ocorrer apenas na fase de liquidação do julgado, nos termos do art. 85, § 4º, inciso II, do CPC/2015.
+IV – DISPOSITIVO E TESE
+Ante o exposto, voto no sentido de CONHECER E DAR PROVIMENTO PARCIAL AO RECURSO, apenas para adequar a sentença aos limites do pedido inicial, determinando que o adicional de insalubridade seja pago no percentual de 20% (vinte por cento), incidente sobre o salário-base da autora, conforme previsto em lei, afastando-se a fixação em 30% por caracterizar julgamento ultra petita. A fixação do percentual dos honorários advocatícios sucumbenciais deverá ser postergada para a fase de liquidação, nos termos do art. 85, § 4º, II, do CPC.
+Dispositivos relevantes citados: CF/1988, art. 37, caput e X; CPC/2015, arts. 141, 492 e 85, § 4º, II; SV n.º 4 do STF.
+Jurisprudência relevante citada: STF, RE 842995 AgR, Rel. Min. Marco Aurélio, j. 16/12/2014; STF, RE 724818 AgR, Rel. Min. Dias Toffoli, j. 08/08/2017; STF, Súmula Vinculante nº 4."
+
+No recurso extraordinário sustenta-se violação do(s) art.(s) 1º; 2º; 18; e 37, caput e inciso X; e 60, § 4º, inciso I, da Constituição Federal.
+Decido.
+Analisados os autos, verifica-se que a afronta aos dispositivos constitucionais suscitados no recurso extraordinário seria, se ocorresse, indireta ou reflexa, o que é insuficiente para amparar o apelo extremo. Ademais, o acolhimento da pretensão recursal demandaria o reexame do conjunto fático-probatório dos autos, o que se mostra incabível em sede extraordinária. Incidência das Súmulas nºs 279 e 280 desta Corte. Sobre o tema, a propósito:
+
+“Agravo regimental no recurso extraordinário com agravo. Direito Administrativo. Servidor público. Guarda Civil. Adicional de insalubridade. Legislação infraconstitucional. Ofensa reflexa. Fatos e provas. Reexame. Impossibilidade. Precedentes. 1. Não se presta o recurso extraordinário para a análise de matéria ínsita ao plano normativo local, tampouco para o reexame de fatos e provas dos autos. Incidência das Súmulas nºs 279 e 280/STF. 2. Agravo regimental não provido, com imposição de multa de 1% (um por cento) do valor atualizado da causa (art. 1.021, § 4º, do CPC). 3. Havendo prévia fixação de honorários advocatícios pelas instâncias de origem, seu valor monetário será majorado em 10% (dez por cento) em desfavor da parte recorrente, nos termos do art. 85, § 11, do Código de Processo Civil, observados os limites dos §§ 2º e 3º do referido artigo e a eventual concessão de justiça gratuita” (ARE 1.198.743-AgR, Rel. Min. Dias Toffoli, Tribunal Pleno, DJe de 19/06/2019).
+
+“AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO COM AGRAVO. INTERPOSIÇÃO EM 5.6.2017. DIREITO ADMINISTRATIVO. AGENTES PENITENCIÁRIOS ESTADUAIS. ADICIONAL DE INSALUBRIDADE. CUMULAÇÃO COM SUBSÍDIO. REEXAME DE LEGISLAÇÃO LOCAL. INCIDÊNCIA DA SÚMULA 280/STF. AUSÊNCIA DE IMPUGNAÇÃO DO FUNDAMENTO DA DECISÃO AGRAVADA. ARTS. 1.021, §1º, CPC, E 317, § 1º, do RISTF. 1. É ônus do recorrente impugnar de modo específico os fundamentos da decisão agravada, nos termos do art. 1.021, § 1º, CPC, e 317, § 1º, RISTF, o que não ocorreu no caso. 2. Agravo regimental a que se nega provimento, com aplicação de multa, nos termos do art. 1.021, §4º, do CPC. Inaplicável a norma do artigo 85, § 11, CPC, em virtude da não fixação anterior de honorários” (ARE 1.045.695-AgR, Rel. Min. Edson Fachin, Segunda Turma, DJe de 07/05/2019).
+
+“AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO COM AGRAVO. INTERPOSIÇÃO EM 26.9.2016. DIREITO ADMINISTRATIVO. SERVIDOR PÚBLICO MUNICIPAL. ADICIONAL DE INSALUBRIDADE. INEXISTÊNCIA DE PREVISÃO LEGAL REEXAME DE FATOS E PROVAS E DE LEGISLAÇÃO INFRACONSTITUCIONAL. 1. Nos termos da orientação firmada no Supremo Tribunal Federal, não cabe recurso extraordinário quando a verificação da alegada ofensa à Constituição Federal depende de análise prévia de fatos e provas e de legislação infraconstitucional. 2. Agravo regimental a que se nega provimento, com previsão de aplicação da multa prevista no art. 1.021, § 4º, do CPC. Nos termos do artigo 85, § 11, CPC, majoro em ¼ (um quarto) a verba honorária fixada anteriormente, devendo ser observados os §§ 2º e 3º do mesmo dispositivo”. (ARE-AgR 991.075, Rel. Min. Edson Fachin, Segunda Turma, DJe 06/06/2018).
+
+Ante o exposto, nego seguimento ao recurso (alínea c do inciso V do art. 13 do Regimento Interno do Supremo Tribunal Federal).
+Havendo prévia fixação de honorários advocatícios pelas instâncias de origem, seu valor monetário será majorado em 10% (dez por cento) em desfavor da parte recorrente, nos termos do art. 85, § 11, do Código de Processo Civil, observado os limites dos §§ 2º e 3º do referido artigo e a eventual concessão de justiça gratuita.
+Publique-se.
+Brasília, 30 de março de 2026.
+
+Ministro EDSON FACHIN
+Presidente
+Documento assinado digitalmente
