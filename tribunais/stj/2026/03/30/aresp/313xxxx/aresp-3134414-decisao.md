@@ -1,0 +1,15 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por EDMILSON ARAUJO DA FONSECA contra a decisão do Tribunal de Justiça de Mato Grosso que inadmitiu recurso especial apresentado contra o acórdão exarado no julgamento da Apelação Criminal n. 1011141-70.2024.8.11.0003 (fls. 528/536).
+O Ministério Público Federal apresentou parecer opinando pelo conhecimento e desprovimento do agravo (fls. 675/684).
+É o relatório.
+O agravo é inadmissível.
+Inicialmente, esclareço que a decisão que inadmite o recurso especial na origem não é formada por capítulos autônomos, mas por um único dispositivo, razão pela qual deve ser impugnada na sua integralidade, ou seja, em todos os seus fundamentos, inclusive de forma específica, suficiente e pormenorizada, não sendo suficientes meras alegações genéricas ou relativas ao mérito da controvérsia, sob pena de incidência do óbice da Súmula 182/STJ (AgRg nos EDcl no AREsp n. 2.985.942/MA, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 16/9/2025, DJEN de 25/9/2025).
+Ao que se observa, o Tribunal de origem inadmitiu o apelo nobre pelos seguintes fundamentos: 1) inexistência de omissão apta a caracterizar violação do art. 619 do Código de Processo Penal, diante do enfrentamento suficiente nos embargos de declaração; 2) consonância do acórdão recorrido com a jurisprudência desta Corte quanto à prescindibilidade de perícia grafotécnica em uso de documento falso, atraindo a Súmula 83/STJ; e 3) necessidade de revolvimento fático-probatório para infirmar as conclusões sobre materialidade e dolo, incidindo a Súmula 7/STJ (fls. 614/619).
+Todavia, a parte agravante, nas razões do agravo em recurso especial, não impugnou, de maneira específica, a íntegra da decisão de inadmissão.
+Em relação ao fundamento de negativa de prestação jurisdicional (art. 619 do CPP), a impugnação foi genérica, sem indicação de páginas específicas do acórdão recorrido que demonstrassem omissão remanescente e sem articulação idônea de prequestionamento ficto. A decisão de admissibilidade, ao contrário, transcreveu trechos dos embargos de declaração evidenciando o enfrentamento concreto da diligência cartorária, da ausência de perícia e do princípio do in dubio pro reo, ao passo que o agravo se limitou a reiterar a existência de omissão, sem demonstrar, de forma específica e pormenorizada, a persistência do vício.
+Por conseguinte, aplica-se, à hipótese dos autos, o art. 932, inciso III, do Código de Processo Civil, c/c o art. 3º do Código de Processo Penal, e a Súmula 182/STJ por analogia.
+Ante o exposto, não conheço do agravo em recurso especial.
+Publique-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. DIREITO PENAL E PROCESSUAL PENAL. USO DE DOCUMENTO FALSO. DECISÃO DE INADMISSÃO INCINDÍVEL. NECESSIDADE DE IMPUGNAÇÃO ESPECÍFICA E INTEGRAL DOS FUNDAMENTOS. IMPUGNAÇÃO GENÉRICA QUANTO À NEGATIVA DE PRESTAÇÃO JURISDICIONAL. MANUTENÇÃO DOS ÓBICES DA SÚMULA 83/STJ E SÚMULA 7/STJ NA ORIGEM. APLICAÇÃO DA SÚMULA 182/STJ POR ANALOGIA. AGRAVO INADMISSÍVEL.
+Agravo em recurso especial não conhecido.
