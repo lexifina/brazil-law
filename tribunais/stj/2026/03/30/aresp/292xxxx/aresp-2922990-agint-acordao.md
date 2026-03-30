@@ -1,0 +1,31 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 24/03/2026 a 30/03/2026, por unanimidade, não conhecer do recurso, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Antonio Carlos Ferreira, Luís Carlos Gambogi (Desembargador Convocado do TJMG), João Otávio de Noronha e Raul Araújo votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro João Otávio de Noronha.
+EMENTA
+AGRAVO INTERNO. PROCESSUAL CIVIL. DECISÃO SINGULAR QUE NÃO CONHECEU DE AGRAVO EM RECURSO ESPECIAL. INADEQUAÇÃO DA VIA ELEITA (ART. 1.030, I, "B", E § 2º, DO CPC). NÃO IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS. SÚMULA 182/STJ. AGRAVO INTERNO NÃO CONHECIDO.
+1. É incabível o agravo em recurso especial contra decisão que nega seguimento a recurso especial com base no art. 1.030, I, "b", do Código de Processo Civil , sendo cabível agravo interno na origem, nos termos do § 2º do mesmo artigo.
+2. O agravante não impugnou de forma específica o fundamento de inadequação da via eleita, inviabilizando o conhecimento do agravo interno.
+3. Ficam prejudicadas as alegações apresentadas contra a deserção - fundamento nitidamente subsidiário - , diante da inafastável inadequação da via eleita e do flagrante não conhecimento do presente agravo interno.
+4. Agravo interno não conhecido.
+RELATÓRIO
+Trata-se de agravo interno interposto por LEANDRO DA SILVA FREITAS contra decisão singular da lavra do Ministro Presidente do Superior Tribunal de Justiça que não conheceu do agravo em recurso especial por entender, a) ser incabível o agravo em recurso especial quando a decisão de admissibilidade, publicada na vigência do Código de Processo Civil, nega seguimento ao recurso com base no art. 1.030, I, "b", do CPC, hipótese em que o recurso cabível é o agravo interno na origem, nos termos do art. 1.030, § 2º, do CPC; b) e, ainda que se admitisse a fungibilidade, haveria deserção por irregularidade no preparo, ante o preenchimento equivocado do campo "Número do Processo que consta no Acórdão Recorrido" na GRU do STJ, incidindo a Súmula 187 do STJ e precedentes (AgInt no REsp 1.587.322/SP; AgInt no AREsp 916.926/MS; AgInt no AREsp 1.435.121/PE) (fls. 1457-1458).
+Nas razões do presente agravo interno, a parte agravante alega, em síntese, que recolheu o preparo em dobro após intimação na origem, que o vício na GRU foi mero erro material sanável, devendo incidir o art. 1.007, § 4º, do Código de Processo Civil e a cooperação processual, e cita como paradigma o REsp 1.996.415/MG (Terceira Turma) para afastar formalismo excessivo. Sustenta, ainda, que é beneficiário da gratuidade de justiça e impugna a majoração de honorários do art. 85, § 11, do Código de Processo Civil, por inexistir julgamento de mérito no não conhecimento por vício formal (fls. 1461-1470).
+Decorreu o prazo sem apresentação de impugnação (fl. 1495).
+É o relatório.
+EMENTA
+AGRAVO INTERNO. PROCESSUAL CIVIL. DECISÃO SINGULAR QUE NÃO CONHECEU DE AGRAVO EM RECURSO ESPECIAL. INADEQUAÇÃO DA VIA ELEITA (ART. 1.030, I, "B", E § 2º, DO CPC). NÃO IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS. SÚMULA 182/STJ. AGRAVO INTERNO NÃO CONHECIDO.
+1. É incabível o agravo em recurso especial contra decisão que nega seguimento a recurso especial com base no art. 1.030, I, "b", do Código de Processo Civil , sendo cabível agravo interno na origem, nos termos do § 2º do mesmo artigo.
+2. O agravante não impugnou de forma específica o fundamento de inadequação da via eleita, inviabilizando o conhecimento do agravo interno.
+3. Ficam prejudicadas as alegações apresentadas contra a deserção - fundamento nitidamente subsidiário - , diante da inafastável inadequação da via eleita e do flagrante não conhecimento do presente agravo interno.
+4. Agravo interno não conhecido.
+VOTO
+Originariamente, trata-se de ação de repactuação de dívidas por superendividamento, na qual o autor pleiteou a limitação dos descontos de empréstimos bancários a 30% de seus rendimentos. A sentença julgou procedentes os pedidos e limitou os descontos a 30% do subsídio (fls. 961-962). O Tribunal de Justiça do Estado do Amapá, por sua Câmara Única, reformou a sentença para afastar a limitação quanto aos contratos com o Banco do Brasil S.A., por serem empréstimos na modalidade de Crédito Direto ao Consumidor com desconto em conta corrente, aplicando o Tema 1.085 do Superior Tribunal de Justiça e registrando a ausência, em audiência, de proposta de plano de pagamento nos moldes do art. 104-A do Código de Defesa do Consumidor. Manteve limitação apenas quanto ao empréstimo consignado do Banco Santander, e fixou honorários sucumbenciais com a inversão da sucumbência (fls. 960-965).
+Observo de pronto que o fundamento principal da decisão agravada e que fulmina de vez o conhecimento do agravo em recurso especial, qual seja, a inadequação da via eleita, não foi minimamente impugnado.
+O julgado assentou a necessidade de interposição de agravo interno na origem contra a negativa de seguimento fundada no art. 1.030, I, "b", do Código de Processo Civil, com base no art. 1.030, § 2º, do mesmo diploma, transcrevendo-o e afastando a fungibilidade, por inexistirem dúvidas objetivas sobre o recurso cabível quando a publicação ocorreu sob a vigência do atual Código de Processo Civil (fl. 1457).
+No agravo interno, a parte agravante não enfrenta de forma objetiva esse fundamento. Limita-se a requerer "juízo de retratação" e a invocar acesso à justiça, sem demonstrar a superveniência de hipótese legal que excepcione o regime do art. 1.030, § 2º, do Código de Processo Civil, nem justifica a fungibilidade no cenário normativo atual. À luz do art. 1.021, § 1º, do Código de Processo Civil, a impugnação se mostra genérica e insuficiente.
+A ausência de ataque objetivo a esse fundamento inviabiliza totalmente o conhecimento do agravo interno.
+Por fim, irrelevante toda a argumentação tecida acerca da deserção, fundamento nitidamente subsidiário e hipotético.
+Concluo, assim, que a exigência prevista no art. 1.021, § 1º, do Código de Processo Civil não foi atendida, o que conduz à inviabilidade do agravo interno.
+Em face do exposto, não conheço do agravo interno.
+É como voto.
