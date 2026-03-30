@@ -1,0 +1,15 @@
+DECISÃO
+O presente pedido de extensão, formulado por IRLA CARLA CARDOSO FELICIO, CAROLINE ALVES CAPUCHI e JANIEL DE JESUS SOARES MOURA (Petição n. 271983/2026), dos efeitos da decisão de concessão da ordem à paciente FERNANDA DE SOUZA RAMOS (fls. 49/51) - que concedeu liminarmente a ordem para substituir a segregação cautelar pela custódia domiciliar - comporta parcial acolhimento.
+Com efeito, buscam os requerentes a extensão dos efeitos da ordem concedida para substituir a prisão preventiva por custódia domiciliar e, se necessário, aplicar medidas cautelares diversas (fls. 55/57), ao argumento de que os Requerentes são primários  e tiveram suas prisões preventivas decretadas nos mesmos fundamentos genéricos e que o decreto não analisou de forma objetiva as circunstâncias do caso, além de que IRLA CARLA CARDOSO FELICIO e CAROLINE ALVES CAPUCHI também são mães de filhos menores de 12 anos (fls. 55/56).
+É o relatório.
+A extensão dos efeitos da ordem não é automática; requer pleno alinhamento dos requisitos objetivo (identidade fática) e subjetivo (circunstâncias pessoais). Nesse sentido: AgRg no RHC n. 180.888/RS, de minha relatoria, Sexta Turma, DJe de 31/8/2023).
+Assim, tem-se que a decisão paradigma apontou ilegalidade na negativa da prisão domiciliar, assentando a presunção legal de indispensabilidade dos cuidados maternos, a ausência de violência ou grave ameaça e a proteção integral à criança, o que autoriza a substituição da prisão preventiva por custódia domiciliar (fls. 50/51).
+Então, razão assiste ao pedido de extensão em relação às requerentes IRLA CARLA CARDOSO FELICIO e CAROLINE ALVES CAPUCHI, que também são mães de filhos menores de 12 anos, pois se verifica identidade de situações entre elas e a paciente (art. 580 do CPP).
+Já em relação ao requerente JANIEL DE JESUS SOARES MOURA, mantém-se a custódia cautelar. Conforme decisão cujos efeitos se pretende estender, há fundamentos idôneos para justificar a manutenção da prisão preventiva, principalmente porque foram apreendidos, na residência, 2.430 pinos com cocaína (210,51 g), 1 porção grande de maconha (98,56 g), 1 tijolo de crack (328,17 g), 7 pedras de crack (120,91 g) e cocaína a granel e em tijolos (1.911,43 g), além de materiais de preparo e embalagem (fls. 11/12; 21/22).
+Ante o exposto, defiro o pedido de extensão veiculado na Petição n. 271983/2026, para ampliar os efeitos da concessão da ordem e substituir a segregação cautelar pela custódia domiciliar também em relação às requerentes IRLA CARLA CARDOSO FELICIO e CAROLINE ALVES CAPUCHI.
+Comunique-se, com urgência, o teor desta decisão ao Tribunal estadual e ao Juízo a quo.
+Intime-se o Ministério Público estadual.
+Publique-se.
+EMENTA
+PEDIDO DE EXTENSÃO EM HABEAS CORPUS. TRÁFICO DE DROGAS. SUBSTITUIÇÃO DO ENCARCERAMENTO PREVENTIVO PELA DOMICILIAR. MÃE DE CRIANÇAS MENORES DE 12 ANOS. PRESUNÇÃO DE INDISPENSABILIDADE DOS CUIDADOS MATERNOS. CRIME SEM VIOLÊNCIA OU GRAVE AMEAÇA. PROTEÇÃO INTEGRAL À CRIANÇA. IDENTIDADE DE SITUAÇÕES CONSTATADA. EXTENSÃO DOS EFEITOS QUE SE IMPÕE.
+Pedido de extensão deferido nos termos do dispositivo.
