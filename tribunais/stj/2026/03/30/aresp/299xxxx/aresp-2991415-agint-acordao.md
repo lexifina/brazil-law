@@ -1,0 +1,65 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 24/03/2026 a 30/03/2026, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Raul Araújo, Maria Isabel Gallotti, Antonio Carlos Ferreira e Luís Carlos Gambogi (Desembargador Convocado do TJMG) votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro João Otávio de Noronha.
+EMENTA
+DIREITO PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. INADMISSIBILIDADE. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA. AGRAVO INTERNO DESPROVIDO.
+I. CASO EM EXAME
+1. Agravo interno interposto contra a decisão da Presidência do STJ, que não conheceu do agravo em recurso especial com base na aplicação analógica da Súmula n. 182 do STJ, devido à ausência de impugnação específica dos fundamentos da decisão agravada.
+2. A parte agravante defende a inaplicabilidade da Súmula n. 182 do STJ, alegando ter impugnado especificamente todos os fundamentos utilizados para a inadmissão do recurso especial.
+II. QUESTÃO EM DISCUSSÃO
+3. Há duas questões em discussão: (i) saber se a parte agravante impugnou especificamente todos os fundamentos da decisão que inadmitira o recurso especial, de modo a afastar a aplicação da Súmula n. 182 do STJ; e (ii) saber se a multa prevista no art. 1.021, § 4º, do CPC se aplica ao caso.
+III. RAZÕES DE DECIDIR
+4. A jurisprudência do STJ exige que os recursos impugnem especificamente os fundamentos da decisão cuja reforma é pretendida, não sendo suficientes alegações genéricas ou a reiteração de argumentos relativos ao mérito da controvérsia.
+5. A parte agravante não impugnou de forma específica e adequada todos os fundamentos da decisão denegatória do recurso especial, incidindo, por analogia, a Súmula n. 182/STJ.
+6. A aplicação da multa prevista no art. 1.021, § 4º, do CPC não é cabível quando não se configura a manifesta inadmissibilidade do agravo interno.
+IV. DISPOSITIVO E TESE
+7. Agravo interno desprovido.
+Tese de julgamento: "1. A decisão de inadmissibilidade do recurso especial deve ser impugnada em sua integralidade, sob pena de aplicação da Súmula n. 182 do STJ. 2. A aplicação da multa prevista no art. 1.021, § 4º, do CPC requer a manifesta inadmissibilidade do agravo interno."
+Dispositivos relevantes citados: CPC, arts. 932, III, 1.021, § 4º; RISTRJ, art. 253, parágrafo único, I;
+Jurisprudência relevante citada: STJ, AgInt no AREsp n. 2.101.598/MG, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 26/9/2022; STJ, AgInt no AREsp n. 2.053.156/RS, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 15/8/2022; STJ, AgInt no AREsp n. 1.795.402/SP, relator Ministro Humberto Martins, Segunda Turma, julgado em 3/4/2023; STJ, EAREsp n. 746.775/PR, relator Ministro João Otávio de Noronha, relator para o acórdão Ministro Luis Felipe Salomão, Corte Especial, julgados em 19/9/2018; STJ, AgInt no RMS n. 51.042/MG, relator Ministro Mauro Campbell Marques, Segunda Turma, julgado em 28/3/2017.
+RELATÓRIO
+Trata-se de agravo interno interposto por PARE & PESSATTO LTDA. - EPP e OUTROS contra decisão da Presidência do STJ que, com amparo nos arts. 21-E, V, e 253, parágrafo único, I, ambos do Regimento Interno do Superior Tribunal de Justiça, não conheceu do agravo em recurso especial em razão da incidência da Súmula n. 182 do STJ.
+Em suas razões, a parte agravante pretende a reforma da decisão agravada. Para tanto, sustenta, em síntese, que impugnou todos os fundamentos da decisão que inadmitiu o recurso especial.
+Requer, ao final, o provimento do agravo interno com a reforma da decisão recorrida (fls. 959-971).
+Contraminuta apresentada, em que a parte agravada requer a aplicação da multa prevista no art. 1.021, § 4º, do CPC (fls. 988-995).
+É o breve relatório.
+EMENTA
+DIREITO PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. INADMISSIBILIDADE. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA. AGRAVO INTERNO DESPROVIDO.
+I. CASO EM EXAME
+1. Agravo interno interposto contra a decisão da Presidência do STJ, que não conheceu do agravo em recurso especial com base na aplicação analógica da Súmula n. 182 do STJ, devido à ausência de impugnação específica dos fundamentos da decisão agravada.
+2. A parte agravante defende a inaplicabilidade da Súmula n. 182 do STJ, alegando ter impugnado especificamente todos os fundamentos utilizados para a inadmissão do recurso especial.
+II. QUESTÃO EM DISCUSSÃO
+3. Há duas questões em discussão: (i) saber se a parte agravante impugnou especificamente todos os fundamentos da decisão que inadmitira o recurso especial, de modo a afastar a aplicação da Súmula n. 182 do STJ; e (ii) saber se a multa prevista no art. 1.021, § 4º, do CPC se aplica ao caso.
+III. RAZÕES DE DECIDIR
+4. A jurisprudência do STJ exige que os recursos impugnem especificamente os fundamentos da decisão cuja reforma é pretendida, não sendo suficientes alegações genéricas ou a reiteração de argumentos relativos ao mérito da controvérsia.
+5. A parte agravante não impugnou de forma específica e adequada todos os fundamentos da decisão denegatória do recurso especial, incidindo, por analogia, a Súmula n. 182/STJ.
+6. A aplicação da multa prevista no art. 1.021, § 4º, do CPC não é cabível quando não se configura a manifesta inadmissibilidade do agravo interno.
+IV. DISPOSITIVO E TESE
+7. Agravo interno desprovido.
+Tese de julgamento: "1. A decisão de inadmissibilidade do recurso especial deve ser impugnada em sua integralidade, sob pena de aplicação da Súmula n. 182 do STJ. 2. A aplicação da multa prevista no art. 1.021, § 4º, do CPC requer a manifesta inadmissibilidade do agravo interno."
+Dispositivos relevantes citados: CPC, arts. 932, III, 1.021, § 4º; RISTRJ, art. 253, parágrafo único, I;
+Jurisprudência relevante citada: STJ, AgInt no AREsp n. 2.101.598/MG, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 26/9/2022; STJ, AgInt no AREsp n. 2.053.156/RS, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 15/8/2022; STJ, AgInt no AREsp n. 1.795.402/SP, relator Ministro Humberto Martins, Segunda Turma, julgado em 3/4/2023; STJ, EAREsp n. 746.775/PR, relator Ministro João Otávio de Noronha, relator para o acórdão Ministro Luis Felipe Salomão, Corte Especial, julgados em 19/9/2018; STJ, AgInt no RMS n. 51.042/MG, relator Ministro Mauro Campbell Marques, Segunda Turma, julgado em 28/3/2017.
+VOTO
+A irresignação não reúne condições de prosperar.
+A controvérsia diz respeito à admissibilidade do agravo em recurso especial interposto contra a decisão de inadmissibilidade do recurso especial.
+O recurso especial foi inadmitido com base na incidência da Súmula n. 83 do STJ, quanto à aduzida violação dos arts. 11, 489 e 1.022 do CPC; incidência da Súmula n. 284 do STF, quanto aos arts. 926 do CPC, e 20 e 21 da LINDB; incidência das Súmulas n. 7 e 83 do STJ quanto aos demais dispositivos legais tidos por violados; prejudicado o dissídio jurisprudencial (fls. 885-895).
+A parte ora agravante interpôs agravo em recurso especial contra a decisão do Tribunal a quo.
+A decisão da Presidência desta Corte não conheceu do agravo, porquanto os fundamentos da decisão de inadmissibilidade do recurso especial não foram combatidos em sua integralidade (fls. 954-955).
+Com efeito, a detida análise das razões do agravo em recurso especial revela que a parte agravante não impugnou, específica e adequadamente, todos os fundamentos da decisão então agravada.
+Nos termos dos arts. 932, III, do CPC e 253, parágrafo único, I, do RISTJ, não se conhecerá do agravo em recurso especial que não tenha impugnado especificamente todos os fundamentos da decisão recorrida.
+A refutação apta a infirmar a decisão agravada deve ser efetiva, específica e motivada, o que não ocorreu na espécie. Confiram-se os seguintes precedentes: AgInt no AREsp n. 2.101.598/MG, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 26/9/2022, DJe de 30/9/2022; e AgInt no AREsp n. 2.053.156/RS, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 15/8/2022, DJe de 17/8/2022.
+Importa salientar que alegações genéricas são insuficientes à impugnação da decisão de inadmissão, isto é, a irresignação há de ser total, objetiva e pormenorizada, não bastando, inclusive, a remissão a fundamentos anteriores.
+Confira-se o entendimento desta Corte quanto ao tema:
+AGRAVO INTERNO EM AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA A FUNDAMENTO DA DECISÃO AGRAVADA. ART. 932, III, DO CÓDIGO DE PROCESSO CIVIL/2015. SÚMULA N. 182/STJ. INCIDÊNCIA DA SÚMULA N. 7/STJ. NECESSIDADE DE DEMOSNTRAÇÃO EFETIVA DA NÃO APLICAÇÃO.
+1. A decisão ora agravada não conheceu do agravo em recurso especial com base na incidência da Súmula n. 182/STJ.
+2. Conforme já assentado pela Corte Especial do STJ, em atenção ao princípio da dialeticidade recursal, a impugnação deve ser realizada de forma efetiva, concreta e pormenorizada, não sendo suficientes alegações genéricas ou relativas ao mérito da controvérsia, sob pena de incidência, por analogia, da Súmula n. 182 do STJ.
+4. O novo Código de Processo Civil, por meio do art. 932, reafirmou a jurisprudência desta Corte ao exigir a impugnação específica dos fundamentos da decisão agravada.
+5. A impugnação da Súmula n. 7/STJ pressupõe estrutura argumentativa específica, indicando-se as premissas fáticas admitidas como verdadeiras pelo Tribunal de origem, a qualificação jurídica que lhe foi conferida e a apreciação jurídica que lhe deveria ter sido efetivamente atribuída. O recurso daí proveniente deveria se esmerar em demonstrar efetivamente que a referida súmula não se aplica ao caso concreto, e não simplesmente reiterar o recurso especial. (AgInt no AREsp n. 1.790.197/SP, relator Ministro Herman Benjamin, Segunda Turma, DJe de 1º/7/2021).
+Agravo interno improvido. (AgInt no AREsp n. 1.795.402/SP, relator Ministro Humberto Martins, Segunda Turma, julgado em 3/4/2023, DJe de 13/4/2023, destaquei)
+Assim, tendo em vista que o Superior Tribunal de Justiça (EAREsp n. 746.775/PR, relator Ministro João Otávio de Noronha, relator para o acórdão Ministro Luis Felipe Salomão, Corte Especial, julgados em 19/9/2018, DJe de 30/11/2018) assentou que a decisão de inadmissibilidade do recurso especial é incindível e deve ser impugnada em sua integralidade, é de rigor a manutenção da incidência, por analogia, da Súmula n. 182 do STJ, in verbis: "É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada".
+Portanto, a parte agravante não logrou êxito em demonstrar situação superveniente que justificasse a alteração da decisão agravada.
+No que se refere à aplicação do art. 1.021, § 4º, do Código de Processo Civil, pleiteada em contrarrazões, a orientação desta Corte é no sentido de que "a multa aludida no art. 1.021, §§ 4º e 5º, do CPC/2015, não se aplica em qualquer hipótese de inadmissibilidade ou de improcedência, mas apenas em situações que se revelam qualificadas como de manifesta inviabilidade de conhecimento do agravo interno ou de impossibilidade de acolhimento das razões recursais porque inexoravelmente infundadas" (AgInt no RMS n. 51.042/MG, relator Ministro Mauro Campbell Marques, Segunda Turma, julgado em 28/3/2017, DJe de 3/4/2017).
+No caso, apesar do desprovimento do agravo interno, não está configurada a manifesta inadmissibilidade, razão pela qual é incabível a aplicação de multa.
+Ante o exposto, nego provimento ao agravo interno.
+É o voto.
