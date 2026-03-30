@@ -1,0 +1,35 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 24/03/2026 a 30/03/2026, por unanimidade, negar provimento ao recurso, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Antonio Carlos Ferreira, Luís Carlos Gambogi (Desembargador Convocado do TJMG), João Otávio de Noronha e Raul Araújo votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro João Otávio de Noronha.
+EMENTA
+AGRAVO INTERNO. TUTELA CAUTELAR ANTECEDENTE. DIREITO PROCESSUAL CIVIL. AÇÃO DE INDENIZAÇÃO POR BENFEITORIAS C/C PEDIDO DE RETENÇÃO. FUMUS BONI IURIS. REEXAME DE PROVAS. SÚMULA 7/STJ. PERICULUM IN MORA NÃO CONFIGURADO À LUZ DO HISTÓRICO PROCESSUAL. DECISÃO MANTIDA.
+1. A revisão das premissas fáticas firmadas no acórdão recorrido, assentadas em prova técnica e documental, encontra óbice na Súmula 7/STJ, o que afasta a plausibilidade jurídica do pedido de efeito suspensivo.
+2. Inexistente demonstração de perigo da demora, consideradas a ação reivindicatória transitada em julgado em 2014 e a ciência da requerente acerca da ausência de direito possessório.
+3. Agravo interno a que se nega provimento.
+RELATÓRIO
+Trata-se de agravo interno interposto por ELAINE GONÇALVES FERREIRA contra decisão singular da minha lavra em que não conheci do pedido, indeferindo a petição inicial e julgando extinto o processo de tutela cautelar antecedente, pelos seguintes fundamentos: a) ausência de fumus boni iuris, por clara inviabilidade do recurso especial, cuja pretensão demandaria reexame do conjunto fático-probatório (Súmula 7/STJ), à vista das premissas fixadas no acórdão recorrido; b) ausência de periculum in mora, considerada a controvérsia possessória pregressa e o reconhecimento da propriedade do requerido com trânsito em julgado, bem como a ciência da requerente desde 2014 de que não lhe assistia direito de permanecer na posse (fls. 122-128).
+Nas razões do presente agravo interno, a agravante alega, em síntese, que a controvérsia submetida ao Superior Tribunal de Justiça é exclusivamente jurídica, envolvendo error in judicando quanto à aplicação dos arts. 1.219 e 884 do Código Civil ao possuidor de boa-fé, e error in procedendo por cerceamento de defesa decorrente do indeferimento da prova testemunhal, o que afastaria a incidência da Súmula 7/STJ.
+Sustenta que a inadmissão do recurso especial na origem não afasta a plausibilidade jurídica e não deve ser utilizada para negar o fumus boni iuris.
+Defende, ainda, a presença do periculum in mora, afirmando risco atual e concreto diante do acórdão recorrido que afastou o direito de retenção reconhecido em primeiro grau e permitiu a ordem de desocupação em prazo exíguo de 15 dias, com potencial de dano irreversível para si e seus cinco filhos (fls. 135-137).
+Decorreu o prazo sem apresentação de impugnação.
+É o relatório.
+EMENTA
+AGRAVO INTERNO. TUTELA CAUTELAR ANTECEDENTE. DIREITO PROCESSUAL CIVIL. AÇÃO DE INDENIZAÇÃO POR BENFEITORIAS C/C PEDIDO DE RETENÇÃO. FUMUS BONI IURIS. REEXAME DE PROVAS. SÚMULA 7/STJ. PERICULUM IN MORA NÃO CONFIGURADO À LUZ DO HISTÓRICO PROCESSUAL. DECISÃO MANTIDA.
+1. A revisão das premissas fáticas firmadas no acórdão recorrido, assentadas em prova técnica e documental, encontra óbice na Súmula 7/STJ, o que afasta a plausibilidade jurídica do pedido de efeito suspensivo.
+2. Inexistente demonstração de perigo da demora, consideradas a ação reivindicatória transitada em julgado em 2014 e a ciência da requerente acerca da ausência de direito possessório.
+3. Agravo interno a que se nega provimento.
+VOTO
+Originariamente, a requerente propôs tutela cautelar antecedente para atribuir efeito suspensivo a recurso especial interposto contra acórdão do Tribunal de Justiça do Estado do Rio de Janeiro, proferido em ação de indenização por benfeitorias cumulada com pedido de retenção, que rejeitou a preliminar de cerceamento de defesa e, no mérito, reformou a sentença para julgar improcedentes os pedidos, assentando, com base em prova técnica e documental, que as benfeitorias foram custeadas com recursos do réu e que não se configurou enriquecimento sem causa.
+A decisão agravada indeferiu a petição inicial e extinguiu o processo por ausência de fumus boni iuris e periculum in mora, destacando a inviabilidade do recurso especial em razão da necessidade de reexame de provas (Súmula 7/STJ) e a inexistência de risco atual, à vista do histórico processual com trânsito em julgado da ação reivindicatória em 25/9/2014.
+Quanto ao fumus boni iuris, a agravante sustenta tratar-se de discussão estritamente jurídica, sem reexame de provas, e aponta cerceamento de defesa pelo indeferimento da prova testemunhal.
+O acórdão recorrido, todavia, registrou de forma minuciosa que a prova testemunhal era inútil para demonstrar a origem dos valores e que os laudos periciais contábeis, elaborados por peritos equidistantes, eram suficientes para elucidar as questões submetidas ao crivo judicial. A saber:
+In casu, a prova testemunhal pretendida se mostra despicienda para a solução da demanda, pois não se presta a evidenciar valores recebidos e gastos pela autora nas benfeitorias realizadas no imóvel, nem mesmo comprovar a existência de prejuízo a ser indenizado, cabendo ressaltar que tais questões foram tratadas nos laudos periciais produzidos nos autos. Destaca-se que, os laudos periciais contábeis foram elaborados por peritos de confiança do juízo monocrático, equidistantes dos interesses das partes, estando bem fundamentado e elucidando suficientemente as questões postas . ao seu crivo, não havendo qualquer razão nos autos capaz de desqualificá-los  ..  (fl. 124).
+Assim, a conclusão de que as benfeitorias foram custeadas com recursos do réu e que inexistiu comprovação de aporte financeiro próprio da autora decorre de premissas fáticas firmadas a partir do conjunto probatório, cuja reversão demandaria reexame de provas, vedado em recurso especial.
+À luz desse quadro, a incidência da Súmula 7/STJ permanece adequada, afastando, no ponto, a configuração da fumaça do bom direito.
+No tocante ao periculum in mora, a agravante afirma risco iminente de desocupação em razão do afastamento do direito de retenção.
+A decisão agravada, amparando-se na decisão da origem que indeferiu o efeito suspensivo ao especial, destacou que: o imóvel foi objeto de disputa em inventário, com reconhecimento da propriedade do recorrido; proposta ação reivindicatória, cujo pedido foi acolhido e mantido em grau recursal, com trânsito em julgado em 25/9/2014; e que o cumprimento foi obstado por liminar em embargos de terceiro.
+Nesse contexto, evidenciou-se que a requerente tem ciência, desde 2014, da ausência de direito possessório, não se configurando risco atual suficiente, especialmente diante da negativa do fumus boni iuris.
+Nesse cenário, as razões do agravo interno não introduzem elementos aptos a infirmar os fundamentos da decisão agravada, que deve ser integralmente mantida.
+Em face do exposto, nego provimento ao agravo interno.
+É como voto.
