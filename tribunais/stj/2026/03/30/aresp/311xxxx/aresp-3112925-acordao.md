@@ -1,0 +1,48 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 24/03/2026 a 30/03/2026, por unanimidade, não conhecer do recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Moura Ribeiro, Daniela Teixeira, Nancy Andrighi e Humberto Martins votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Humberto Martins.
+EMENTA
+AGRAVO  EM  RECURSO  ESPECIAL.  DIREITO CIVIL. AÇÃO DE OBRIGAÇÃO DE FAZER. PLANO DE SAÚDE. TRATAMENTO. AUTISMO. COPARTICIPAÇÃO. VALOR. DECISÃO EXTRA PETITA. NECESSIDADE.  REEXAME  FÁTICO.  SÚMULA  Nº  7/STJ.
+1.  Na  hipótese,  acolher  a  tese  pleiteada  pela  parte  agravante  exigiria  exceder  os  fundamentos  do  acórdão  impugnado  e  adentrar  no  exame  das  provas,  procedimento  vedado  em  recurso  especial,  a  teor  das  Súmula  nº  7/STJ.
+2.  Agravo  conhecido  para  não  conhecer  do  recurso  especial.
+RELATÓRIO
+Trata-se  de  agravo  interposto  por  UNIMED VALE DO SEPOTUBA - COOPERATIVA DE TRABALHO MÉDICO -  contra  a  decisão  que  inadmitiu  recurso  especial.
+O  apelo  extremo,  com  fundamento  no  artigo  105,  III,  alínea  "a",  da  Constituição  Federal,  insurge-se  contra  o  acórdão  do  Tribunal  de  Justiça  do  Estado  do  Mato Grosso  assim  ementado:
+"APELAÇÃO CÍVEL - AÇÃO DE OBRIGAÇÃO DE FAZER - PLANO DE SAÚDE - PRETENSÃO DE CUSTEIO DE TRATAMENTO MULTIDISCIPLINAR - AUTOR PORTADOR DE TRANSTORNO DO ESPECTRO AUTISTA - COPARTICIPAÇÃO - COBRANÇA QUE NÃO DEVE ULTRAPASSAR 02 (DUAS) VEZES O VALOR DA MENSALIDADE DO PLANO CONTRATADO - FATOR DE MODERAÇÃO - PROPÓSITO DE GARANTIR O ACESSO AOS SERVIÇOS DE ASSISTÊNCIA À SAÚDE PACTUADOS - COBRANÇA POSTERIOR DO REMANESCENTE - VIABILIDADE DE PARCELAMENTO TEMPORAL DO EXCEDENTE, SOB CONDIÇÕES - DISSONÂNCIA DO PARECER MINISTERIAL - RECURSO CONHECIDO E PARCIALMENTE PROVIDO.
+"Não é abusiva cláusula contratual de plano privado de assistência à saúde que estabeleça a coparticipação do usuário nas despesas médico-hospitalares quando redigida de forma clara e expressa e em percentual razoável. Nos casos de tratamentos psicoterápicos contínuos e de longa duração, a contraprestação não poderá exceder o montante equivalente a 2 mensalidades do paciente. Desse modo, busca-se evitar que se comprometa a essência do próprio negócio jurídico, considerando a prevalência do direito à saúde e as peculiaridades da lide, por envolver tratamento continuado, cujo custo financeiro é alto." (TJMT, RAC 1000147-03.2022.8.11.0019, Terceira Câmara de Direito Privado, Relator Des. Carlos Alberto Alves da Rocha, julg. 26/04/2023)
+Admite-se a viabilidade do fracionamento temporal da quantia excedente à limitação mensal dos valores relativos à coparticipação, desde que (i) mantido o limite máximo de cobrança de até duas mensalidades por fatura; (ii) vedada a incidência de juros, multa ou encargos moratórios, enquanto adimplidas as parcelas; e (iii) garantida ao consumidor a informação clara, prévia e discriminada sobre os valores cobrados e o critério de diluição.
+A interpretação acolhida concilia o direito do consumidor à previsibilidade e acessibilidade do tratamento médico com o dever de reequilíbrio financeiro do contrato, evitando-se enriquecimento sem causa e assegurando a boa-fé objetiva."  (e-STJ  fl. 233).
+No  recurso  especial,  a  parte  recorrente  alega  violação  dos  arts.  10, 141 e 492  do  Código  de  Processo  Civil,  pois  a instância ordinária julgou além dos limites objetivos da lide.
+Sem  as  contrarrazões,  o  recurso  especial  foi  inadmitido,  dando  ensejo  à  interposição  do  presente  agravo.
+É  o  relatório.
+EMENTA
+AGRAVO  EM  RECURSO  ESPECIAL.  DIREITO CIVIL. AÇÃO DE OBRIGAÇÃO DE FAZER. PLANO DE SAÚDE. TRATAMENTO. AUTISMO. COPARTICIPAÇÃO. VALOR. DECISÃO EXTRA PETITA. NECESSIDADE.  REEXAME  FÁTICO.  SÚMULA  Nº  7/STJ.
+1.  Na  hipótese,  acolher  a  tese  pleiteada  pela  parte  agravante  exigiria  exceder  os  fundamentos  do  acórdão  impugnado  e  adentrar  no  exame  das  provas,  procedimento  vedado  em  recurso  especial,  a  teor  das  Súmula  nº  7/STJ.
+2.  Agravo  conhecido  para  não  conhecer  do  recurso  especial.
+VOTO
+Ultrapassados  os  requisitos  de  admissibilidade  do  agravo,  passa-se  ao  exame  do  recurso  especial.
+A  insurgência  não  merece  prosperar.
+A  alegada  ofensa  aos  artigos  10, 141 e 492  do  Código  de  Processo  Civil  foi  afastada  pelo  Tribunal  de  origem  sob  os  seguintes  fundamentos:
+"(..)
+No presente caso, a cobrança de coparticipação em percentual de 30% encontra previsão contratual. Ocorre que, em virtude do número elevado de sessões terapêuticas, o valor final cobrado revelou-se, de fato, excessivamente oneroso à autora, menor com deficiência neurológica severa.
+A jurisprudência desta Corte e do Superior Tribunal de Justiça admite, com base nos princípios da boa-fé objetiva, do equilíbrio contratual e da dignidade da pessoa humana, que a coparticipação em tratamentos contínuos seja limitada a duas vezes a mensalidade do plano, a fim de se evitar o esvaziamento do próprio objeto contratual e o perecimento da função assistencial do plano de saúde.
+No ponto, não vislumbro nulidade da sentença, uma vez que a limitação da coparticipação, embora não tenha sido pedida expressamente, representa decisão compatível com os princípios da legalidade e da função social do contrato, e se insere no poder-dever do juiz de adequar a relação contratual abusiva.
+Quanto ao ponto, o e. Superior Tribunal de Justiça já se pronunciou sobre o tema recursal - legalidade da cobrança de coparticipação - e em julgamento de recursos especiais repetitivos (TEMA 1.032), a Segunda Seção do STJ, fixou a tese de que, nos contratos de plano de saúde, não é abusiva a cláusula de coparticipação expressamente ajustada e informada ao consumidor, (..)
+Todavia, o percentual cobrado sobre cada sessão das terapias realizadas pela parte autora não pode dificultar a continuidade do tratamento, pois restringe o acesso às terapias indicadas para o desenvolvimento social do menor.
+Desse modo, mostra-se desarrazoada a cobrança efetuada pela apelante, sendo que o alto valor por ela cobrado constitui fator restritivo severo ao acesso aos serviços de saúde junto à operadora de plano de saúde, o que impossibilita a continuidade do tratamento da criança.
+Ressalta-se que este Tribunal de Justiça, quando do julgamento do recurso de apelação nº 10000147-03.2022.8.11.0019, decidiu pela legalidade da cobrança de coparticipação nas terapias para os portadores de transtorno de espectro autista - TEA, porém, impondo um teto de cobrança pelas operadoras, ou seja, "um fator limitador que determina a cobrança da coparticipação fixada em duas vezes o valor do plano contratado", a fim de não prejudicar o tratamento da parte consumidora, bem como manter o equilíbrio contratual entre as partes.
+(..)
+Desse modo, ao fixar fator de moderação para a participação financeira, busca-se evitar que se comprometa a essência do próprio negócio jurídico, isto é, a manutenção da saúde do beneficiário, além de garantir seu acesso aos serviços contratados, ainda que seja de alto custo.
+(..)
+Logo, correta a sentença que limitou a cobrança da coparticipação em relação às terapias realizadas para tratamento do menor em até 2 (duas) vezes o valor da mensalidade, devendo ser mantida no ponto.
+Entretanto, assiste parcial razão à apelante quanto ao pedido sucessivo.
+A solução encontra respaldo na jurisprudência do STJ, que admite a modulação da cobrança de coparticipação para preservar o equilíbrio contratual, a transparência e a acessibilidade do consumidor ao serviço de saúde contratado.
+Assim, entendo ser juridicamente admissível que os valores de coparticipação que ultrapassem o teto mensal sejam cobrados em períodos posteriores, observando-se: o limite mensal de cobrança já fixado judicialmente (duas mensalidades); a vedação à incidência de juros, multa ou encargo moratórios, exceto se inadimplido o parcelamento; o dever de informação clara, prévia e adequada ao consumidor, conforme determinam os arts. 6º, III, e 46 do CDC.
+Ressalte-se que a possibilidade de fracionamento temporal do valor excedente não desnatura a proteção conferida pela limitação judicial, tampouco vulnera os princípios do CDC, porquanto não onera desproporcionalmente o consumidor, apenas reorganiza a exigibilidade do crédito contratual, em conformidade com a função social do contrato e a boa-fé objetiva.
+Ademais, inviabilizar integralmente a cobrança do montante excedente implicaria enriquecimento sem causa por parte do consumidor, além de potencial desestabilização financeira da relação contratual e desequilíbrio do sistema mutualista que sustenta os contratos de plano de saúde.
+A tese ora acolhida, portanto, estabelece um ponto de equilíbrio entre os direitos do consumidor e os deveres contratuais da operadora, reafirmando a jurisprudência contemporânea em matéria de proteção contratual e sanitária."  (e-STJ  fls.  225/230  -  grifou-se).
+Do  trecho  acima  transcrito,  verifica-se  a  impossibilidade  de  rever  o  entendimento  firmado  pelas  instâncias  ordinárias  porque  demandaria  o  reexame  dos  fatos  e  das  provas  dos  autos,  o  que  é  inviável  no  recurso  especial  pelo  óbice  da  Súmula  nº  7/STJ.
+Ante  o  exposto,  conheço  do  agravo  para  não  conhecer  do  recurso  especial.
+Em observância ao art. 85, § 11, do CPC, majoro os honorários em 2% (dois por cento) sobre o valor da causa, nos termos fixados na origem, em favor do patrono da parte recorrida, observado o benefício da justiça gratuita, se for o caso.
+É  o  voto.
