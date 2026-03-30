@@ -1,0 +1,71 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 24/03/2026 a 30/03/2026, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros João Otávio de Noronha, Raul Araújo, Maria Isabel Gallotti e Antonio Carlos Ferreira votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro João Otávio de Noronha.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AÇÃO DE ARBITRAMENTO DE HONORÁRIOS ADVOCATÍCIOS - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO.
+INSURGÊNCIA DA PARTE AUTORA.
+1. As questões trazidas à discussão foram dirimidas pelo Tribunal de origem de forma suficientemente ampla, fundamentada e sem omissões. Deve ser afastada a alegada violação aos arts. 489, § 1º, IV e 1.022 do CPC/15.
+2. Havendo previsão no contrato de honorários ad exitum, o seu pagamento está sujeito à condição suspensiva, qual seja, o sucesso na demanda, não bastando, para tanto, a simples atuação do advogado dissociada de resultado. Precedente.
+3. Ademais, a jurisprudência do STJ é no sentido de que, em se tratando de contrato de prestação de serviços advocatícios celebrado por escritório de advocacia com a Administração Pública após se sagrar vencedor em procedimento licitatório regido pela Lei 8.666/93 , não pode a banca contratada pretender, posteriormente, alterar a forma de pagamento dos honorários prevista em edital, haja vista os princípios que regem o certame e os contratos administrativos (princípios da vinculação ao instrumento convocatório e da legalidade). Precedente.
+4. Agravo interno desprovido.
+RELATÓRIO
+O EXMO. SR. MINISTRO LUÍS CARLOS GAMBOGI (DESEMBARGADOR CONVOCADO DO TJMG) - Relator: Cuida-se de agravo interno interposto por HASSE ADVOCACIA E CONSULTORIA, contra decisão monocrática que conheceu do agravo para negar provimento ao recurso especial da ora insurgente.
+O apelo nobre, de sua vez, fundamentado nas alíneas "a" e "c" do permissivo constitucional, desafia acórdão prolatado pelo Tribunal de Justiça do Estado de Santa Catarina, assim ementado (fls. 1791-1792, e-STJ):
+APELAÇÃO CÍVEL. AÇÃO DE ARBITRAMENTO DE HONORÁRIOS ADVOCATÍCIOS. SENTENÇA DE PROCEDÊNCIA. RECURSO DA PARTE RÉ. INTERPRETAÇÃO DADA PELA AUTORA A PACTO HAVIDO COM A RÉ QUE IMPLICA EM RESPONSABILIDADE DE PAGAMENTO POR PARTE DESTA. RAZÃO OU NÃO DOS FUNDAMENTOS QUE SE TRADUZ EM QUESTÃO RESPEITANTE AO MÉRITO, DESATADA DA LEGITIMIDADE AD CAUSAM. COMPETÊNCIA PARA JULGAMENTO DAS CÂMARAS DE DIREITO CIVIL. INCOMPETÊNCIA TERRITORIAL TAMBÉM AFASTADA. COISA JULGADA E AUSÊNCIA DE INTERESSE PROCESSUAL. NÃO CONFIGURAÇÃO. INEXISTÊNCIA DE IDENTIDADE DE PEDIDOS. PRELIMINARES REJEITADAS. PRESCRIÇÃO QUINQUENAL IGUALMENTE NÃO CONFIGURADA. MÉRITO. CONTRATO DE PRESTAÇÃO DE SERVIÇOS ADVOCATÍCIOS QUE ESTABELECEU REMUNERAÇÃO POR COMPLETUDE DE ETAPAS PROCESSUAIS. AUSÊNCIA DE NEGATIVA DE RECEBIMENTO DOS VALORES DEVIDOS DIANTE DAS FASES ALCANÇADAS. PREVISÃO, PARA O CASO DE REVOGAÇÃO DO PACTO, DE RATEIO DOS HONORÁRIOS SUCUMBENCIAIS FRENTE AOS QUAIS CONDENADA A PARTE ADVERSA, CONTRA A QUAL CONTENDEU A CASA BANCÁRIA. ESPÉCIE DE VERBA QUE DEPENDE DE FIXAÇÃO EM SENTENÇA A SER PROFERIDA NO CORRESPONDENTE FEITO. OBRIGAÇÃO DE PAGAMENTO, ADEMAIS, QUE NÃO É DO BANCO. DESCABIMENTO DO "ARBITRAMENTO DE HONORÁRIOS DE SUCUMBÊNCIA" PRETENDIDO CONTRA O ENTE FINANCEIRO. PRECEDENTES NOS QUAIS SE BASEOU ESTE ÓRGÃO FRACIONÁRIO, EM ENTENDIMENTO PRETÉRITO, QUE TRATAVAM DE CONTRATOS NOS QUAIS PREVISTOS HONORÁRIOS DE ADVOGADO SÓ E TÃO SOMENTE PARA O CASO DE ÊXITO DA DEMANDA (AD EXITUM). PACTO DE PRESTAÇÃO DE SERVIÇOS ADVOCATÍCIOS QUE, NO CASO, ESTABELECEU REMUNERAÇÃO PARA A FINALIZAÇÃO DE
+FASES DO CORRESPONDENTE PROCESSO. DISTINGUISHING NECESSÁRIO. DESCABIMENTO DO PEDIDO DE ARBITRAMENTO DE HONORÁRIOS SUCUMBENCIAIS. AUSÊNCIA DE OBRIGAÇÃO DE PAGAMENTO QUE SE POSSA ENDEREÇAR À CASA BANCÁRIA. IMPROCEDÊNCIA DO PEDIDO INAUGURAL. ÔNUS SUCUMBENCIAIS INVERTIDOS. RECURSO CONHECIDO E PROVIDO.
+Opostos embargos de declaração, esses foram rejeitados (fls. 1936-1941, e-STJ).
+Nas razões do recurso especial (fls. 1953-1968, e-STJ), a recorrente, além de dissídio jurisprudencial, aponta violação aos seguintes artigos:
+(i) 1022 e 489 do CPC/2015, na medida em que o acórdão recorrido seria omisso em relação aos precedentes desta Corte aplicáveis ao caso;
+(ii) 85, §§ 1º, 2º, e 20 do CPC/2015 e 22 da Lei 8906/94, sob o fundamento de possuir direito aos honorários advocatícios sucumbenciais;
+Contrarrazões às fls. 2094-2105, e-STJ.
+Em juízo de admissibilidade, negou-se o processamento do recurso especial, com amparo nas Súmulas 284 do STF e 5 e 7 do STJ.
+Irresignada, aduz a agravante, em suma, que o reclamo merece trânsito, uma vez que os supracitados óbices não subsistiriam.
+Em decisão singular (fls. 2179-2183, e-STJ), conheceu-se do agravo para negar provimento ao recurso especial, ante: a) inexistência de violação ao art. 1022 do CPC/2015, porquanto a Corte local apreciou de modo suficiente as questões essenciais à solução da controvérsia, não havendo negativa de prestação jurisdicional; b) descabimento do arbitramento de honorários sucumbenciais antes do trânsito em julgado da decisão que os fixa, alinhando-se o entendimento à jurisprudência desta Corte (Súmula 83/STJ), e aplicação do art. 932 do CPC/2015 combinado com a Súmula 568/STJ.
+Daí o presente agravo interno (fls. 2187-2192, e-STJ), no qual a parte agravante sustenta, em síntese, afronta ao art. 1022 do CPC, obscuridade quanto ao momento de exigibilidade dos honorários em demanda originária de execução de título extrajudicial, afastamento da incidência das Súmulas 83 e 568/STJ e inaplicabilidade do art. 932 do CPC, pleiteando o julgamento colegiado do recurso especial.
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AÇÃO DE ARBITRAMENTO DE HONORÁRIOS ADVOCATÍCIOS - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO.
+INSURGÊNCIA DA PARTE AUTORA.
+1. As questões trazidas à discussão foram dirimidas pelo Tribunal de origem de forma suficientemente ampla, fundamentada e sem omissões. Deve ser afastada a alegada violação aos arts. 489, § 1º, IV e 1.022 do CPC/15.
+2. Havendo previsão no contrato de honorários ad exitum, o seu pagamento está sujeito à condição suspensiva, qual seja, o sucesso na demanda, não bastando, para tanto, a simples atuação do advogado dissociada de resultado. Precedente.
+3. Ademais, a jurisprudência do STJ é no sentido de que, em se tratando de contrato de prestação de serviços advocatícios celebrado por escritório de advocacia com a Administração Pública após se sagrar vencedor em procedimento licitatório regido pela Lei 8.666/93 , não pode a banca contratada pretender, posteriormente, alterar a forma de pagamento dos honorários prevista em edital, haja vista os princípios que regem o certame e os contratos administrativos (princípios da vinculação ao instrumento convocatório e da legalidade). Precedente.
+4. Agravo interno desprovido.
+VOTO
+O EXMO. SR. MINISTRO LUÍS CARLOS GAMBOGI (DESEMBARGADOR CONVOCADO DO TJMG) - Relator: A insurgencia não merece prosperar.
+1. Inicialmente, pontua-se que, consoante a jurisprudência deste Superior Tribunal de Justiça, não se pode confundir decisão contrária ao interesse da parte com ausência de fundamentação ou negativa de prestação jurisdicional.
+Salienta-se, ademais, que o magistrado não está obrigado a rebater, um a um, os argumentos trazidos pela parte, desde que, em sua decisão, d iscorra sobre todas as questões fundamentais para a correta solução da controvérsia.
+No caso em tela, verifica-se que o Tribunal de origem expressamente reconheceu expressamente ser inviável a fixação de honorários advocatícios sucumbenciais no presente caso. Ressaltou-se, ainda, não se tratar de hipótese de arbitramento de honorários no caso de revogação do mandato que deveria ser remunerado exclusivamente pelo êxito.
+Nota-se, portanto, que as alegações vertidas pela insurgente não denotam omissões, contradições ou obscuridades do aresto impugnado, mas tão somente traduzem seu inconformismo em relação ao acolhimento da tese jurídica defendida pela parte adversa.
+Assim, não há se falar em violação ao art. 1022 do CPC/2015 na espécie, uma vez que a Corte local, de modo satisfativo e sólido, apreciou todos os pontos necessários para o julgamento do caso.
+Nesse sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. EMBARGOS À EXECUÇÃO. NÃO OCORRÊNCIA DE VIOLAÇÃO AO ART. 489, § 1º, DO CPC/2015 E AO ART. 93, IX, DA CF/88. DECISÃO MONOCRÁTICA - ORA AGRAVADA - DEVIDAMENTE FUNDAMENTADA. AUSÊNCIA DE VIOLAÇÃO AO ART. 1.022 DO CPC/2015. ACÓRDÃO ESTADUAL QUE EXAMINOU OS PONTOS ESSENCIAIS AO DESLINDE DA CONTROVÉRSIA. ALEGAÇÃO DE VIOLAÇÃO AOS ARTS. 139, I, E 373, II, DO CPC/2015 E ART. 324 DO CÓDIGO CIVIL. PRETENSÃO DE REDISCUTIR MATÉRIA FÁTICO-PROBATÓRIA. INCIDÊNCIA DA SÚMULA 7/STJ. AGRAVO NÃO PROVIDO.
+1. Os vícios a que se refere o art. 1.022 do CPC/2015 - art. 535 do CPC/73 - são aqueles que recaem sobre ponto que deveria ter sido decidido e não o foi, e não sobre os argumentos utilizados pelas partes, de modo que não há falar em omissão simplesmente pelo fato de as alegações deduzidas não terem sido acolhidas pelo órgão julgador. Na espécie, deve ser rejeitada a violação ao art. 1.022 do CPC/2015, pois não existem vícios no v. acórdão estadual, que examinou os pontos essenciais ao desate da lide.
+(..)
+3. Agravo interno não provido.
+(AgInt no AREsp 1015125/AC, Rel. Ministro LÁZARO GUIMARÃES (DESEMBARGADOR CONVOCADO DO TRF 5ª REGIÃO), QUARTA TURMA, julgado em 17/04/2018, DJe 24/04/2018)
+EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO (ART. 544 DO CPC/73) - AUTOS DE AGRAVO DE INSTRUMENTO NA ORIGEM - CUMPRIMENTO PROVISÓRIO DE SENTENÇA - HONORÁRIOS ADVOCATÍCIOS - ACÓRDÃO DESTE ÓRGÃO FRACIONÁRIO QUE NEGOU PROVIMENTO AO AGRAVO REGIMENTAL, MANTENDO A DELIBERAÇÃO MONOCRÁTICA QUE DEU PROVIMENTO AO RECLAMO DO EXECUTADO PARA EXCLUIR A VERBA HONORÁRIA DA CONDENAÇÃO.
+INSURGÊNCIA DO EXEQUENTE.
+1. Violação ao artigo 535 do CPC/73, atual 1.022 do NCPC, não configurada. Acórdão desta Corte Superior que analisou detidamente todos os pontos necessários ao deslinde da controvérsia. Recurso dotado de caráter meramente infringente.
+(..)
+4. Embargos de declaração rejeitados.
+(EDcl no AgInt no AREsp 156.220/PR, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 20/02/2018, DJe 27/02/2018)
+2. No que toca às demais questões suscitadas, melhor razão não assiste à insurgente.
+Na espécie, a Corte local entendeu ser descabido o arbitramento de quinhão de honorários advocatícios sucumbenciais alegadamente cabível aos patronos destituídos, sob o fundamento de que tal verba somente é exigível após o trânsito em julgado do feito no qual for fixada. Veja-se (fl. 1787, e-STJ):
+Desde logo de se estranhar, diga-se, a ideia de arbitramento de honorários de sucumbência, vez que estes são fixados (e não propriamente arbitrados) ao fim de ato sentencial onde para tanto preteritamente se reconhece que uma das partes do processo sucumbiu.
+(..)
+O direito da autora, portanto, não nasceu no momento em que ocorreu a revogação dos poderes antes do término da ação, como por ela afirmado, mas sim poderá surgir quando da possibilidade de "perseguir os honorários de sucumbência" que vierem a ser fixados nos processos nos quais atuou, recebendo parte destes via "rateio" entre os advogados ou sociedades de advocacia que tenham atuado nos feitos, na forma dos itens 8.4 e 8.8 acima indicados.
+Com efeito, cuida-se de posicionamento que se alinha à jurisprudência desta Corte, conforme se depreende do seguinte julgado:
+AGRAVO EM RECURSO ESPECIAL. AÇÃO DE ARBITRAMENTO DE HONORÁRIOS ADVOCATÍCIOS. CONTRATO DE PRESTAÇÃO DE SERVIÇOS ADVOCATÍCIOS DECORRENTE DE CREDENCIAMENTO PÚBLICO. REMUNERAÇÃO POR FASE PROCESSUAL, RESULTADO ECONÔMICO E COTA DE MANUTENÇÃO. AUSÊNCIA DE CLÁUSULA DE REMUNERAÇÃO EXCLUSIVAMENTE POR SUCUMBÊNCIA. ENCERRAMENTO REGULAR DO VÍNCULO CONTRATUAL. INEXISTÊNCIA DE FATO GERADOR DA VERBA SUCUMBENCIAL. ARBITRAMENTO INCABÍVEL. REEXAME CONTRATUAL E FÁTICO
+DOS AUTOS. SÚMULAS 5 E 7 DO STJ.
+1. Embora a jurisprudência desta Corte admita, em regra, a ação de arbitramento de honorários em casos de rescisão unilateral de contrato de serviços advocatícios, visando a proteger o profissional que não recebeu os honorários devidos, não é jurídico permitir o uso dessa demanda para fixação de verba honorária em desacordo com o que consta do contrato escrito celebrado entre as partes.
+2. Na hipótese dos autos, o contrato em debate, firmado no âmbito de credenciamento público, previa remuneração expressa por fase processual, percentual sobre valores efetivamente recuperados e cota mensal por processo, além de honorários de sucumbência.
+3. Diante desse contexto, não pode ser desconsiderada a forma de remuneração pactuada, nem os pagamentos realizados, sob pena de violação aos princípios da força obrigatória dos contratos (pacta sunt servanda) e da vedação ao enriquecimento sem causa.
+4. Havendo previsão no contrato de honorários ad exitum, o seu pagamento está sujeito à condição suspensiva, qual seja, o sucesso na demanda, não bastando, para tanto, a simples atuação do advogado dissociada de resultado. Precedente.
+5. Além disso, a jurisprudência do STJ é no sentido de que, em se tratando de contrato de prestação de serviços advocatícios celebrado por escritório de advocacia com a Administração Pública após se sagrar vencedor em procedimento licitatório regido pela Lei 8.666/93 , não pode a banca contratada pretender, posteriormente, alterar a forma de pagamento dos honorários prevista em edital, haja vista os princípios que regem o certame e os contratos administrativos (princípios da vinculação ao instrumento convocatório e da legalidade). Precedente.
+6. Agravo conhecido para negar provimento ao recurso especial.
+(AREsp n. 2.877.588/SC, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 16/12/2025, DJEN de 19/12/2025.)
+Logo, inviável a admissão do apelo, nos termos da Súmula 83/STJ.
+De rigor, a manutenção da d ecisão recorrida.
+3 . Do exposto, nega-se provimento ao agravo interno.
+É como voto.
