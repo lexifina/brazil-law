@@ -1,0 +1,34 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 24/03/2026 a 30/03/2026, por unanimidade, não conhecer do recurso, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Antonio Carlos Ferreira, Luís Carlos Gambogi (Desembargador Convocado do TJMG), João Otávio de Noronha e Raul Araújo votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro João Otávio de Noronha.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RAZÕES DISSOCIADAS DOS FUNDAMENTOS DA DECISÃO AGRAVADA. AUSÊNCIA DE DIALETICIDADE. IMPUGNAÇÃO DE ÓBICES NÃO APLICADOS. DEFICIÊNCIA DE FUNDAMENTAÇÃO. INCIDÊNCIA DA SÚMULA 284/STF, POR ANALOGIA. AGRAVO INTERNO NÃO CONHECIDO.
+1. As razões do agravo interno partem de pressupostos fáticos que não correspondem ao conteúdo da decisão agravada, impugnando óbices que não foram aplicados e deixando de enfrentar os fundamentos efetivamente adotados na decisão recorrida.
+2. Configurada a deficiência de fundamentação e a ausência de dialeticidade, incide, por analogia, o óbice da Súmula 284 do Supremo Tribunal Federal, ante a impossibilidade de exata compreensão da controvérsia.
+3. Agravo interno não conhecido.
+RELATÓRIO
+Trata-se de agravo interno interposto por VALE S. A. contra a decisão de fls. 630/636, de minha lavra, que conheceu do agravo para dar parcial provimento ao recurso especial, por meio do qual a agravante buscava a reforma do acórdão proferido pelo Tribunal de Justiça do Estado de Minas Gerais (TJMG), que, nos autos de ação indenizatória por danos morais e materiais, negou provimento à sua apelação, nos termos da seguinte ementa:
+APELAÇÕES CÍVEIS. AÇÃO INDENIZATÓRIA. ROMPIMENTO DA BARRAGEM DA MINA CÓRREGO DO FEIJÃO EM BRUMADINHO. DANO MORAL. ADOECIMENTO PSICOLÓGICO EM DECORRÊNCIA DA TRAGÉDIA. COMPROVAÇÃO. ÔNUS DA PROVA DO AUTOR. ATENDIMENTO. CONFIGURAÇÃO. QUANTUM INDENIZATÓRIO. RAZOABILIDADE E PROPORCIONALIDADE.
+- Incumbe ao autor da ação o ônus de provar fato constitutivo do seu direito e ao réu a existência de fato impeditivo, modificativo ou extintivo do direito daquele.
+- Existente prova nos autos comprovando o alegado dano moral decorrente da tragédia ambiental provocada pela Vale S.A. se impõe a procedência da ação indenizatória.
+- O valor da indenização por dano moral deve ser arbitrado em consonância com os princípios da razoabilidade e da proporcionalidade, promovendo de modo justo a compensação do ofendido e a punição do ofensor.
+O presente agravo interno foi interposto contra a decisão de minha relatoria, que conheceu do agravo para dar parcial provimento ao recurso especial, exclusivamente para afastar a multa aplicada com fundamento no art. 1.026, § 2º, do CPC, mantendo, no mais, a decisão recorrida.
+Na decisão agravada, afastou-se a alegada negativa de prestação jurisdicional e concluiu-se pela inexistência de violação aos arts. 7º, 139, 373, 408, 412, 489 e 1.022 do Código de Processo Civil, reconhecendo-se que o Tribunal de origem apreciou adequadamente o conjunto probatório, inclusive a prova pericial, e que o arbitramento do dano moral observou critérios de proporcionalidade e razoabilidade.
+No presente agravo interno, sem dialeticidade com a decisão agravada, a parte agravante sustenta, em síntese, que a decisão teria deixado de conhecer do agravo em recurso especial, bem como aplicado os óbices das Súmulas 7 e 182 do Superior Tribunal de Justiça, defendendo que teria impugnado especificamente todos os fundamentos da decisão de inadmissibilidade proferida na origem.
+Não foram apresentadas contrarrazões ao agravo interno.
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RAZÕES DISSOCIADAS DOS FUNDAMENTOS DA DECISÃO AGRAVADA. AUSÊNCIA DE DIALETICIDADE. IMPUGNAÇÃO DE ÓBICES NÃO APLICADOS. DEFICIÊNCIA DE FUNDAMENTAÇÃO. INCIDÊNCIA DA SÚMULA 284/STF, POR ANALOGIA. AGRAVO INTERNO NÃO CONHECIDO.
+1. As razões do agravo interno partem de pressupostos fáticos que não correspondem ao conteúdo da decisão agravada, impugnando óbices que não foram aplicados e deixando de enfrentar os fundamentos efetivamente adotados na decisão recorrida.
+2. Configurada a deficiência de fundamentação e a ausência de dialeticidade, incide, por analogia, o óbice da Súmula 284 do Supremo Tribunal Federal, ante a impossibilidade de exata compreensão da controvérsia.
+3. Agravo interno não conhecido.
+VOTO
+O agravo interno não merece prosperar.
+A decisão ora agravada não deixou de conhecer do agravo em recurso especial, tampouco aplicou os óbices das Súmulas 7 ou 182 do Superior Tribunal de Justiça. Ao contrário do que sustenta a agravante, o agravo foi regularmente conhecido, e o recurso especial foi parcialmente provido, exclusivamente para afastar a multa aplicada com fundamento no art. 1.026, § 2º, do Código de Processo Civil, mantendo-se, no mais, todas as conclusões adotadas pelas instâncias ordinárias.
+Não obstante, as razões do agravo interno desenvolvem extensa argumentação partindo de premissas fáticas inexistentes, como se a decisão agravada tivesse negado conhecimento ao agravo em recurso especial ou aplicado os óbices das Súmulas 7 e 182 desta Corte. Toda a manifestação do recurso está estruturada sobre fundamentos que não integram a ratio decidendi do provimento impugnado, o que evidencia a ausência de dialeticidade.
+Com efeito, a agravante limita-se a rebater óbices que não foram utilizados na decisão agravada, deixando de enfrentar os fundamentos efetivamente adotados, circunstância que inviabiliza o conhecimento do recurso. A mera reprodução de argumentos voltados contra decisão diversa, ou contra fundamentos não empregados na decisão recorrida, não satisfaz o ônus de impugnação específica exigido pelo art. 1.021, § 1º, do Código de Processo Civil.
+Ressalte-se, ademais, que em nenhum momento a decisão agravada aplicou o óbice da Súmula 7/STJ, tampouco deixou de conhecer do recurso por ausência de impugnação específica, nos termos da Súmula 182/STJ. As referências feitas pela agravante a tais enunciados dizem respeito, quando muito, à decisão de inadmissibilidade proferida na origem, e não ao provimento ora impugnado, reforçando a completa dissociação entre as razões do recurso e o conteúdo da decisão agravada.
+Nessas condições, incide, por analogia, o óbice da Súmula 284 do Supremo Tribunal Federal, segundo a qual "é inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia". No caso, a deficiência de fundamentação decorre do fato de que o agravo interno não enfrenta os fundamentos da decisão agravada, limitando-se a impugnar situações inexistentes, o que impede a adequada compreensão da controvérsia e obsta o conhecimento útil da insurgência.
+Em face do exposto, nos termos da fundamentação supra, não conheço do agravo interno.
+É como voto.
