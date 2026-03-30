@@ -1,0 +1,27 @@
+DECISÃO
+Trata-se de habeas corpus, sem pedido liminar, impetrado em favor de DANILO DOS SANTOS contra acórdão proferido pelo Tribunal de Justiça do Estado de Santa Catarina (Apelação Criminal n. 5000052-33.2025.8.24.0084).
+Consta dos autos que o paciente foi condenado como incurso no art. 129, § 13, do Código Penal, à pena de 3 anos, 6 meses e 20 dias de reclusão, em regime inicial semiaberto, bem como ao pagamento de R$ 5.000,00 à titulo de danos morais (e-STJ fls. 11/20).
+Interposta apelação, o Tribunal local deu parcial provimento ao recurso defensivo, apenas para fixar o valor referente à honorários advocatícios ao defensor nomeado, mantendo os demais termos da condenação (e-STJ fls. 22/34).
+No presente writ (e-STJ fls. 2/6), a defesa alega que o paciente está sofrendo constrangimento ilegal, decorrente da irretroatividade da lei penal mais severa, afirmando que a dosimetria considerou o mínimo legal introduzido pela Lei n. 14.994/2024 (2 a 5 anos), posterior ao fato, quando vigente a faixa de 1 a 4 anos, em violação ao art. 5º, XL, da Constituição Federal. Sustenta, ainda, que, observadas as circunstâncias judiciais negativadas e as agravantes consideradas na sentença, a pena adequada  tomando por base o patamar mínimo vigente à época dos fatos  seria de 1 ano e 9 meses e 10 dias de reclusão.
+Requer a concessão da ordem para adequar a pena às balizas vigentes ao tempo do fato, reduzindo a pena arbitrada.
+O Ministério Público Federal opinou, às e-STJ fls. 116/124, pela concessão da ordem:
+HABEAS CORPUS. CRIME DE LESÃO CORPORAL CONTRA A MULHER POR RAZÕES DA CONDIÇÃO DO SEXO FEMININO (ART. 129, §13, DO CP). WRIT SUBSTITUTIVO DE RECURSO PRÓPRIO/REVISÃO CRIMINAL. INADMISSIBILIDADE. EXCEÇÃO. FLAGRANTE ILEGALIDADE. DOSIMETRIA DA PENA. APLICAÇÃO RETROATIVA DE LEI PENAL MAIS GRAVOSA. LEI Nº 14.994/2024. AFRONTA AO ART. 5º, INCISO XL, DA CONSTITUIÇÃO FEDERAL. PRINCÍPIO TEMPUS REGIT ACTUM. PENA-BASE FIXADA COM FUNDAMENTO EM PRECEITO SECUNDÁRIO POSTERIOR AOS FATOS. CONSTRANGIMENTO ILEGAL CONFIGURADO. REDIMENSIONAMENTO DA PENA. CONCESSÃO DA ORDEM DE OFÍCIO. PARECER PELO NÃO CONHECIMENTO DO WRIT, COM A CONCESSÃO DA ORDEM DE OFÍCIO
+É o relatório. Decido.
+Inicialmente, o Superior Tribunal de Justiça, seguindo o entendimento firmado pela Primeira Turma do Supremo Tribunal Federal, como forma de racionalizar o emprego do habeas corpus e prestigiar o sistema recursal, não admite a sua impetração em substituição ao recurso próprio. Cumpre analisar, contudo, em cada caso, a existência de ameaça ou coação à liberdade de locomoção do paciente, em razão de manifesta ilegalidade, abuso de poder ou teratologia na decisão impugnada, a ensejar a concessão da ordem de ofício.
+Na espécie, embora a impetrante não tenha adotado a via processual adequada, para que não haja prejuízo à defesa do paciente, passo à análise da pretensão formulada na inicial, a fim de verificar a existência de eventual constrangimento ilegal.
+Busca-se, no caso, a concessão da ordem para para adequar a pena às balizas vigentes ao tempo do fato, reduzindo a pena arbitrada.
+A tese defensiva merece acolhimento.
+Assim dispõe o art. 5º, XL, da Constituição Federal: "a lei penal não retroagirá, salvo para beneficiar o réu".
+Conforme se extrai da própria denúncia, os fatos ocorreram em 7 de agosto de 2024, quando o preceito secundário do tipo penal imputado ao paciente ainda previa pena de 1 (um) a 4 (quatro) anos de reclusão. Somente posteriormente o dispositivo legal foi alterado para estabelecer pena de 02 (dois) a 05 (cinco) anos de reclusão, por força da redação conferida pela Lei n. 14.994, de 9 de outubro de 2024.
+Ao analisar o recurso de apelação, ao reproduzir a tipificação, consta-se a redação pretérita do art. 129, § 13, do Código Penal, com pena de 1 a 4 anos (e-STJ fl. 24).
+Entretanto, ao transcrever a primeira fase da dosimetria, fixou-se pena-base em 2 anos e 8 meses, já refletindo a adoção do patamar mínimo de 2 anos, compatível com a alteração promovida pela Lei n. 14.994/2024, superveniente ao fato (e-STJ fl. 28):
+Assim, exaspero a pena-base do crime em 2/6 (dois sextos), fixando a pena basilar em 2 (dois) anos e 8 (oito) meses de reclusão.
+O acórdão recorrido manteve integralmente a reprimenda final (3 anos, 6 meses e 20 dias), referendando a incompatibilidade temporal do parâmetro utilizado, o que evidencia a ofensa ao princípio da irretroatividade da lei penal mais gravosa.
+Assim, reconhecida a ilegalidade, impõe-se a correção da dosimetria, tomando por base o mínimo legal vigente à época dos fatos (1 ano).
+Passo a refazer a dosimetria da pena.
+Mantidas as valorações realizadas pelas instâncias ordinárias quanto às circunstâncias judiciais e às agravantes, com exasperação de 2/6 na primeira fase e majoração de 2/6 na segunda fase, a pena deve ser redimensionada para 1 ano, 9 meses e 10 dias de reclusão.
+O regime inicial semiaberto fica preservado, tal como decidido, em razão da existência de circunstância judicial desfavorável (e-STJ fl. 30):
+É que sem maiores delongas, embora a pena fixada seja inferior a 4 anos, bem como o recorrente seja primário, verifica-se que as circunstâncias judiciais não lhe são todas favoráveis, razão pela qual, mantém-se o regime semiaberto.
+Ante o exposto, com base no art. 34, inciso XX, do RISTJ, não conheço do habeas corpus. Contudo, concedo a ordem, de ofício, para redimensionar a pena imposta ao paciente para 1 ano, 9 meses e 10 dias de reclusão, mantidos os demais termos da condenação.
+Intimem-se.
+EMENTA
