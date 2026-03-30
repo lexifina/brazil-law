@@ -1,0 +1,113 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 24/03/2026 a 30/03/2026, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Maria Isabel Gallotti, Antonio Carlos Ferreira, Luís Carlos Gambogi (Desembargador Convocado do TJMG) e João Otávio de Noronha votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro João Otávio de Noronha.
+EMENTA
+CONSUMIDOR E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. APELAÇÃO CÍVEL. AÇÃO INDENIZATÓRIA. DECISÃO DA PRESIDÊNCIA DO STJ. RECONSIDERAÇÃO. ÔNUS DA PROVA. TEORIA DA DISTRIBUIÇÃO ESTÁTICA. SÚMULA 83/STJ. FATO MODIFICATIVO, IMPEDITIVO OU EXTINTIVO DO DIREITO DO AUTOR. AUSÊNCIA DE COMPROVAÇÃO. REVISÃO. INVIABILIDADE. SÚMULA 7/STJ. AGRAVO INTERNO PROVIDO PARA CONHECER DO AGRAVO EM RECURSO ESPECIAL. RECURSO ESPECIAL DESPROVIDO.
+1. Na hipótese, o Tribunal de origem entendeu que a parte autora comprovou ter sofrido queda nas dependências do estabelecimento réu e que os danos alegados decorreram do referido acidente, ao passo que o réu não se desincumbiu de demonstrar fato impeditivo, modificativo ou extintivo do direito afirmado pela autora.
+2. O referido entendimento está em harmonia com a jurisprudência desta Corte Superior, a qual entende que o sistema processual brasileiro adotou, como regra, a teoria da distribuição estática do ônus da prova, segundo a qual cabe ao autor provar o fato constitutivo do direito e ao réu cabe provar o fato impeditivo, modificativo ou extintivo do direito do autor (art. 373 do CPC). Incide, no ponto, portanto, a Súmula 83/STJ.
+3. A modificação do entendimento, lançado no v. acórdão recorrido, demandaria o revolvimento do suporte fático-probatório dos autos, inviável em recurso especial, nos termos da Súmula 7 do STJ.
+4. Agravo interno provido. Agravo conhecido. Recurso especial desprovido.
+RELATÓRIO
+Trata-se de agravo interno interposto por PLAZA D"ORO SHOPPING LTDA contra decisão da Presidência do Superior Tribunal de Justiça (e-STJ, fls. 690-691), que conheceu do agravo para não conhecer do recurso especial, em razão da ausência de demonstração do dissídio jurisprudencial.
+Em suas razões (e-STJ, fls. 694-697), a parte agravante sustenta, em síntese, que demonstrou, específica e expressamente, o cotejo analítico ao demonstrar a existência de dissídio jurisprudencial, preenchendo todos os requisitos necessários ao conhecimento do recurso especial.
+Requer, assim, a reconsideração da decisão agravada ou sua reforma pela Turma Julgadora.
+Foram apresentadas impugnações (e-STJ, fls. 703-709 e 710-714).
+É o relatório.
+EMENTA
+CONSUMIDOR E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. APELAÇÃO CÍVEL. AÇÃO INDENIZATÓRIA. DECISÃO DA PRESIDÊNCIA DO STJ. RECONSIDERAÇÃO. ÔNUS DA PROVA. TEORIA DA DISTRIBUIÇÃO ESTÁTICA. SÚMULA 83/STJ. FATO MODIFICATIVO, IMPEDITIVO OU EXTINTIVO DO DIREITO DO AUTOR. AUSÊNCIA DE COMPROVAÇÃO. REVISÃO. INVIABILIDADE. SÚMULA 7/STJ. AGRAVO INTERNO PROVIDO PARA CONHECER DO AGRAVO EM RECURSO ESPECIAL. RECURSO ESPECIAL DESPROVIDO.
+1. Na hipótese, o Tribunal de origem entendeu que a parte autora comprovou ter sofrido queda nas dependências do estabelecimento réu e que os danos alegados decorreram do referido acidente, ao passo que o réu não se desincumbiu de demonstrar fato impeditivo, modificativo ou extintivo do direito afirmado pela autora.
+2. O referido entendimento está em harmonia com a jurisprudência desta Corte Superior, a qual entende que o sistema processual brasileiro adotou, como regra, a teoria da distribuição estática do ônus da prova, segundo a qual cabe ao autor provar o fato constitutivo do direito e ao réu cabe provar o fato impeditivo, modificativo ou extintivo do direito do autor (art. 373 do CPC). Incide, no ponto, portanto, a Súmula 83/STJ.
+3. A modificação do entendimento, lançado no v. acórdão recorrido, demandaria o revolvimento do suporte fático-probatório dos autos, inviável em recurso especial, nos termos da Súmula 7 do STJ.
+4. Agravo interno provido. Agravo conhecido. Recurso especial desprovido.
+VOTO
+As alegações da agravante afiguram-se relevantes, estando devidamente comprovado, nos autos, o prequestionamento da matéria e o cotejo analítico, de modo que, com base no art. 259 do RISTJ, reconsidero a decisão hostilizada.
+Passa-se ao exame do mérito recursal.
+Trata-se de agravo em recurso especial contra decisão que inadmitiu apelo nobre fundado no art. 105, inciso III, alínea "c", da Constituição Federal, contra acórdão proferido pelo eg. Tribunal de Justiça do Estado de Goiás (TJ-GO), assim ementado:
+"DIREITO DO CONSUMIDOR. RESPONSABILIDADE CIVIL. INVERSÃO DO ÔNUS DA PROVA NA SENTENÇA. AUSÊNCIA DE PREJUÍZO. ACIDENTE EM ESTABELECIMENTO COMERCIAL. DANOS MORAIS E ESTÉTICOS. NEXO DE CAUSALIDADE COMPROVADO. SENTENÇA MANTIDA. MULTA POR EMBARGOS DECLARATÓRIOS PROTELATÓRIOS AFASTADA.
+I. CASO EM EXAME
+1. Trata-se de apelação cível interposta contra sentença que julgou parcialmente procedentes os pedidos de indenização por danos morais e estéticos, decorrentes de acidente ocorrido em shopping. O autor, ao atravessar a área de alimentação, escorregou em uma poça d"água e sofreu fratura. O réu alegou ausência de responsabilidade, culpa exclusiva da vítima e inexistência de nexo causal.
+II. QUESTÃO EM DISCUSSÃO
+2. As questões em discussão são: (i) cerceamento de defesa em razão da análise da inversão do ônus da prova na sentença; (ii) a responsabilidade civil do shopping pelo acidente; (iii) a configuração dos danos morais e estéticos; e (iv) a multa aplicada em virtude de embargos de declaração protelatórios.
+III. RAZÕES DE DECIDIR
+3. A inversão do ônus da prova, embora declarada na sentença, não interferiu no deslinde da controvérsia, não tendo acarretado, portanto, prejuízo às partes, tampouco cerceamento de defesa ou nulidade.
+4. A parte requerente comprovou suficientemente a ocorrência do acidente, assim como o nexo de causalidade entre aquele e os danos suportados, tendo, portanto, se desincumbido a contento do ônus que lhe competia. Por outro lado, o réu não logrou comprovar fato impeditivo, modificativo ou extintivo do autor, nos termos dos arts. 14, § 3º, do CDC e 373, II, CPC.
+5. Os danos morais estão configurados pela queda, danos decorrentes e falta de assistência.
+6. Os elementos de prova constantes dos autos demonstram a sequela/deformidade do tornozelo da parte autora, decorrente do acidente sofrido, que posteriormente evoluiu para amputação do membro afetado. Danos estéticos configurados.
+7. Os valores indenizatórios foram fixados com razoabilidade e proporcionalidade.
+8. A multa por embargos de declaração protelatórios deve ser afastada, pois não evidenciado o intuito meramente protelatório ou a má-fé, mas mero exercício do direito de defesa pela parte.
+IV. DISPOSITIVO E TESE
+9. Recurso de apelação cível conhecido e parcialmente provido.
+Tese de Julgamento: "1. Embora a inversão do ônus da prova tenha ocorrido na sentença, não cerceou o direito de defesa e não causou prejuízo às partes no caso concreto. 2. O fornecedor responde objetivamente pelos danos causados ao consumidor decorrentes de falha na prestação do serviço. 3. Configurados os requisitos para o dever de indenizar, impõe-se a manutenção da condenação estabelecida na sentença. 4. O dano moral e estético deve ser fixado considerando a extensão do dano e os princípios da razoabilidade e proporcionalidade."
+____
+Dispositivos relevantes citados: Art. 6º, VIII, CDC; Art. 14, caput e §3º, CDC; Art. 373, I e II, CPC; Art. 282, §1º, CPC; Art. 944, CC.
+Jurisprudência relevante citada: STJ, AgInt no REsp n. 1.263.237/RR; TJGO, Apelação Cível 5525988-46.2022.8.09.0174; TJMG, AC: 50004496820178130702; TJRJ, Apelação 0040997-93.2019.8 .19.0021 202400123972; TJSP, AC: 10222604220198260405 SP 1022260-42 .2019.8.26.0405; TJSP, Apelação Cível 1007087-75 .2019.8.26.0405." (e-STJ, fls. 502-503)
+Os embargos de declaração opostos foram rejeitados (e-STJ, fls. 517-526).
+Em seu recurso especial (e-STJ, fls. 538-546), a parte recorrente alega divergência jurisprudencial em relação ao artigo 373, II, do Código de Processo Civil de 2015 e ao artigo 6º, VIII, do Código de Defesa do Consumidor, sustentando, em síntese, que:
+(i) a inversão do ônus da prova foi deferida apenas na sentença, sem verificação prévia de verossimilhança e hipossuficiência, o que violou o contraditório e o devido processo legal.
+(ii) ao inverso do regime legal do ônus da prova, exigiu-se do recorrente "prova negativa" (prova diabólica) de inexistência de culpa ou de responsabilidade, impondo-se encargo probatório indevido ao fornecedor.
+Foram apresentadas contrarrazões (e-STJ, fls. 577-587).
+O recurso especial foi inadmitido na origem, dando ensejo à interposição do presente agravo.
+Decido.
+A irresignação não merece prosperar.
+Na hipótese, o eg. Tribunal de origem, com arrimo no acervo fático-probatório carreado aos autos, assentou, entre outros fundamentos, que:
+"Primeiramente, vê-se que a preliminar de nulidade da sentença, em virtude da inversão do ônus da prova, não prospera. Explico.
+Embora o julgador sentenciante tenha estabelecido a inversão do ônus da prova na sentença recorrida, vê-se que, no caso concreto, isso não acarretou nenhum prejuízo ao requerido/apelante, uma vez que os pedidos foram julgados parcialmente procedentes em razão de o autor ter se desincumbido do seu ônus de comprovar que sofreu uma queda nas dependências do estabelecimento réu e, ainda, que os alegados danos por ele sofridos decorreram do aludido acidente (art. 373, I, CPC) e, lado outro, pelo fato de o réu não ter comprovado a "existência de fato impeditivo, modificativo ou extintivo do direito do autor", sobretudo no que concerne à sua tese de culpa exclusiva da vítima (arts. 14, §3º, CDC e 373, II, CPC).
+Nesse sentido, transcrevo os seguintes trechos da sentença:
+ ..  No presente caso, a despeito de todo imbróglio envolvendo a produção de provas, a análise dos autos revela que, embora insista na tese de culpa exclusiva da vítima, a parte requerida não se desincumbiu de seu ônus probatório.
+Ressalto que, ainda que ignorássemos a aplicabilidade do Código de Defesa do Consumidor, o que não é o caso, o estabelecimento requerido também não teria se desincumbido do ônus probatório insculpido no art. 373, II do CPC, posto que deixou de demonstrar, com clareza, a veracidade de suas alegações, já que não trouxe aos autos qualquer elemento de prova capaz de demonstrar minimamente o alegado.
+Ora, a parte requerida alega uma possível alteração na visão do autor, em razão da sua diabetes. No entanto, não há qualquer elemento nos autos capaz de comprovar que, de fato, ele possuía tal alteração, sendo certo que o fato de ser portador de diabetes tipo II não pode, por si só, gerar a presunção de que o requerente possuía a visão prejudicada. Do mesmo modo, não há elementos comprobatórios de uma possível desatenção do autor ou vertigem por ele sofrida.
+ ..
+O autor, por sua vez, ao juntar os exames e relatórios médicos de todo o tratamento pelo qual foi submetido, chegando à amputação do membro afetado, e colacionar fotos de seu tornozelo fraturado, trouxe verossimilhança às suas alegações, demonstrando, assim, a existência de dano.
+Neste sentir, a conclusão lógica que se tem é: tendo o autor demonstrado a existência de dano por meio da verossimilhança de suas alegações e provas por ele trazidas, e não tendo a parte requerida se desincumbido do seu ônus de desconstituir o direito alegado pelo Autor, sobressai, no presente caso, a verossimilhança das alegações do requerente.  .. .
+Com efeito, apesar de a inversão do ônus da prova, prevista no artigo 6º, VIII, do CDC, constituir "regra de instrução", e não "regra de julgamento" (devendo, pois, ocorrer na fase instrutória), no caso tal deliberação ocorrida na sentença não interferiu no deslinde da controvérsia, não tendo acarretado, portanto, prejuízo às partes, tampouco cerceamento de defesa ou nulidade (art. 282, §1º, CPC)." (e-STJ, fls. 492-493)
+Verifica-se, portanto, que o Tribunal de origem entendeu que a parte autora comprovou ter sofrido queda nas dependências do estabelecimento réu e que os danos alegados decorreram do referido acidente, ao passo que o réu não se desincumbiu de demonstrar fato impeditivo, modificativo ou extintivo do direito afirmado pela autora.
+Logo, a alegação de nulidade por inversão do ônus da prova foi afastada pelo Tribunal de origem, que constatou a regular distribuição do ônus probatório, consoante o art. 373 do CPC/2015.
+Nos termos da jurisprudência deste Superior Tribunal, "O sistema processual brasileiro adotou, como regra, a teoria da distribuição estática do ônus da prova, segundo a qual cabe ao autor provar o fato constitutivo do direito e ao réu cabe provar o fato impeditivo, modificativo ou extintivo do direito do autor (art. 373 do CPC)" (AgInt no AREsp 2.245.224/SP, Relatora Ministra MARIA ISABEL GALLOTTI, Quarta Turma, julgado em 16/10/2023, DJe de 20/10/2023). Também nesse sentido:
+"PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. AÇÃO DE INDENIZAÇÃO POR DANOS MATERIAIS E MORAIS. IMPACTO AMBIENTAL. RESPONSABILIDADE OBJETIVA. CONDIÇÃO DE PESCADOR. ÔNUS DA PROVA. FATO CONSTITUTIVO. DISTRIBUIÇÂO DINÂMICA. SÚMULA 83/STJ. AUSÊNCIA DE COMPROVAÇÃO. REVISÃO. INVIABILIDADE. SÚMULA 7/STJ. AGRAVO INTERNO DESPROVIDO.
+1. "O sistema processual brasileiro adotou, como regra, a teoria da distribuição estática do ônus da prova, segundo a qual cabe ao autor provar o fato constitutivo do direito e ao réu cabe provar o fato impeditivo, modificativo ou extintivo do direito do autor (art. 373 do CPC)" (AgInt no AREsp 2.245.224/SP, Relatora Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, j. 16/10/2023, DJe de 20/10/2023).
+2. Conforme entendimento desta Corte Superior, a inversão do ônus da prova não exime a parte autora da prova mínima sobre os fatos constitutivos do seu direito. A conclusão perfilhada no acórdão recorrido coincide com a jurisprudência assente desta Corte Superior, circunstância que atrai a incidência da Súmula 83/STJ.
+3. No caso, o eg. Tribunal de origem consignou a inexistência de prova inicial do fato constitutivo do direito do autor, especificamente no que diz respeito à sua condição de pescador. A modificação do entendimento, lançado no v. acórdão recorrido, demandaria o revolvimento do suporte fático-probatório dos autos, inviável em recurso especial, nos termos da Súmula 7 deste Pretório.
+4. Agravo interno desprovido."
+(AgInt no AREsp n. 2.892.910/RJ, relator Ministro RAUL ARAÚJO, Quarta Turma, julgado em 15/9/2025, DJEN de 22/9/2025, g.n.)
+"AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO POR DANOS MORAIS. RECURSO DESPROVIDO.
+I. CASO EM EXAME
+1. Agravo interno interposto contra decisão que não conheceu do recurso especial por intempestividade, em ação de indenização por danos morais decorrente de ofensas divulgadas em rede social.
+2. O Tribunal de origem manteve a sentença que julgou improcedente a demanda, destacando a ausência de verificação dos pressupostos da responsabilidade civil subjetiva e a falta de provas nos autos que sustentassem os fatos alegados na petição inicial.
+II. QUESTÃO EM DISCUSSÃO
+3. Há duas questões em discussão: a) saber se o recurso especial interposto é tempestivo, considerando a superveniência da Lei n. 14.939/2024 e a comprovação da suspensão do expediente forense pelo calendário do Tribunal de origem; b) definir sobre a configuração dos pressupostos da responsabilidade civil subjetiva.
+III. RAZÕES DE DECIDIR
+4. A tempestividade do recurso especial foi reconhecida, considerando a superveniência da Lei n. 14.939/2024 e a comprovação da suspensão do expediente forense pelo calendário do Tribunal de origem.
+5. A distribuição do ônus da prova deve seguir as regras do art. 373 do CPC, cabendo ao autor provar o fato constitutivo de seu direito e ao réu, fato impeditivo, modificativo ou extintivo do direito do autor.
+6. O acórdão recorrido destacou a ausência de provas nos autos que sustentassem os fatos alegados na petição inicial, relacionados à indevida circulação de postagens ou compartilhamento de vídeos em violação aos direitos da personalidade.
+7. A pretensão de modificar esse entendimento é inviável em sede de recurso especial, por extrapolar o campo da mera revaloração e implicar, necessariamente, reexame do conjunto fático-probatório.
+8. A jurisprudência do STJ consolidou-se no sentido de que o magistrado é o destinatário das provas, cabendo-lhe apreciar a necessidade de sua produção, sendo soberano para formar seu convencimento e decidir fundamentadamente.
+IV. DISPOSITIVO E TESE
+9. Agravo interno desprovido.
+Tese de julgamento: "1. A tempestividade do recurso especial pode ser comprovada por calendário judicial do Tribunal de origem. 2. A responsabilidade civil subjetiva exige a demonstração de conduta culposa, dano e nexo causal. 3. A distribuição do ônus da prova deve seguir as regras do art. 373 do CPC, cabendo ao autor provar o fato constitutivo de seu direito e ao réu, fato impeditivo, modificativo ou extintivo do direito do autor. 4. Rever o entendimento do tribunal de origem acerca das premissas firmadas com base na análise do acervo fático-probatório dos autos atrai a incidência da Súmula n. 7 do STJ".
+Dispositivos relevantes citados: Código Civil, arts. 186, 187, 935;
+CPC, art. 373.
+Jurisprudência relevante citada: STJ, Questão de Ordem no AREsp n. 2.638.376/MG, relator Ministro Antonio Carlos Ferreira, Corte Especial, julgada em 5/2/2025; STJ, EAREsp n. 1.927.268/RJ, relator Ministro Raul Araújo, Corte Especial, julgado em 19/4/2023; STJ, REsp n. 2.027.841/MG, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 22/8/2023; STJ, REsp n. 1.984.267/RJ, relator Ministro João Otávio de Noronha, Quarta Turma, julgado em 24/3/2025; STJ, AgInt no REsp n. 2.077.630/SP, relator Ministro João Otávio de Noronha, Quarta Turma, julgado em 15/4/2024; STJ, REsp n. 1.327.897/MA, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 6/12/2016."
+(AgInt nos EDcl no AREsp n. 2.619.561/SP, relator Ministro JOÃO OTÁVIO DE NORONHA, Quarta Turma, julgado em 5/5/2025, DJEN de 8/5/2025, g.n.)
+Desse modo, a conclusão perfilhada no acórdão recorrido coincide com a jurisprudência assente desta Corte Superior, circunstância que atrai a incidência da Súmula 83/STJ.
+Ademais, modificação de tal entend imento, lançado no v. acórdão recorrido, demandaria o revolvimento do suporte fático-probatório dos autos, o que é inviável em sede de recurso especial, nos termos da Súmula 7 deste Pretório. Nesse sentido:
+"DIREITO CIVIL E PROCESSUAL CIVIL. AGRAVO INTERNO EM AGRAVO EM RECURSO ESPECIAL. INVERSÃO DO ÔNUS DA PROVA. TEORIA FINALISTA MITIGADA. HIPOSSUFICIÊNCIA TÉCNICA E VEROSSIMILHANÇA. SÚMULA 7/STJ.
+1. Inexiste a alegada violação dos arts. 489 e 1.022 do CPC, uma vez que o Tribunal de origem se manifestou, de forma clara e fundamentada, quanto aos pontos alegados como omissos.
+2. A aplicação do Código de Defesa do Consumidor foi fundamentada na teoria finalista mitigada, reconhecendo a vulnerabilidade da empresa recorrida frente à parte agravante, conforme análise do contexto contratual e das partes envolvidas. A revisão dessa conclusão demandaria reexame de fatos e provas, vedado em recurso especial, conforme as Súmulas 5 e 7 do STJ.
+3. A pretensão de afastar a inversão do ônus da prova e aplicar a regra geral do art. 373 do CPC demandaria o reexame do material fático-probatório dos autos, o que encontra óbice na Súmula 7/STJ.
+4. A jurisprudência do STJ é pacífica na aplicação da teoria finalista mitigada, admitindo a incidência do CDC à adquirente ocasional de produto ou serviço para fins de atividade econômica, quando demonstrada a condição de vulnerabilidade.
+Agravo interno improvido."
+(AgInt no AREsp n. 2.792.671/RJ, relator Ministro HUMBERTO MARTINS, Terceira Turma, julgado em 9/2/2026, DJEN de 12/2/2026, g.n.)
+"AGRAVO INTERNO EM AGRAVO EM RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO. DIREITO CIVIL. AÇÃO DE OBRIGAÇÃO DE FAZER C/C INDENIZAÇÃO POR DANO MATERIAL. VÍCIOS CONSTRUTIVOS. VIOLAÇÃO AO ART. 373 DO CPC. AUSÊNCIA. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. IMPOSSIBILIDADE. SÚMULA 7 DO STJ. DECISÃO MANTIDA.
+1. Não havendo inversão do ônus da prova, aplica-se a regra geral estática disposta no art. 373, I e II, do Código de Processo Civil, o qual dispõe caber ao autor provar o fato constitutivo do direito e ao réu provar o fato impeditivo, modificativo ou extintivo do direito do autor, o que foi devidamente observado no presente caso concreto.
+2. Não cabe, em recurso especial, reexaminar matéria fático-probatória (Súmula 7 do STJ).
+3. Agravo interno a que se nega provimento."
+(AgInt no AREsp n. 2.791.295/SP, relatora Ministra MARIA ISABEL GALLOTTI, Quarta Turma, julgado em 16/12/2025, DJEN de 19/12/2025, g.n.)
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL -AUTOS DE AGRAVO DE INSTRUMENTO NA ORIGEM -DECISÃO MONOCRÁTICA QUE NÃO CONHECEU DO RECLAMO. INSURGÊNCIA RECURSAL DA PARTE AGRAVADA.
+1. Para superar as premissas sobre as quais se apoiou a Corte de origem, a fim de se reconhecer o preenchimento dos requisitos necessários para o deferimento do pedido de inversão dos ônus da prova, seria necessário o revolvimento dos elementos de fato constantes dos autos, notadamente a hipossuficiência técnica do consumidor e a verossimilhança das alegações deduzidas, o que se revela vedado na presente esfera recursal, ante o enunciado contido na Súmula 7/STJ.
+2. Incide de igual sorte no referido óbice Sumular 07/STJ, a pretensão voltada para examinar indigitada afronta à regra prevista no art. 373, do CPC/15.
+3. Agravo interno desprovido."
+(AgInt no AREsp n. 1.366.422/RJ, relator Ministro MARCO BUZZI, Quarta Turma, julgado em 24/11/2025, DJEN de 27/11/2025, g.n.)
+Ante o exposto, dou provimento ao agravo interno para reconsiderar a decisão agravada e, em nova análise, conheço do agravo para negar provimento ao recurso especial.
+Havendo, nos autos, a prévia fixação de honorários sucumbenciais pelas instâncias de origem, determino a sua majoração, em desfavor d a parte recorrente, no importe de 10% (dez por cento) sobre o valor já arbitrado, nos termos do art. 85, § 11, do Código de Processo Civil, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão da gratuidade da justiça.
+É como voto.
