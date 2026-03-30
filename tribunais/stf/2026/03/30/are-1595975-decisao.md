@@ -1,0 +1,28 @@
+DECISÃO:
+Trata-se de recurso extraordinário com agravo contra decisão de inadmissão do recurso extraordinário.
+O recurso foi interposto com fundamento na alínea "a" do permissivo constitucional.
+O acórdão recorrido  ficou assim ementado:
+
+SÚMULA DO JULGAMENTO: RECURSO INOMINADO. DIREITO ADMINISTRATIVO. SERVIDOR PÚBLICO ESTADUAL. DELEGADO. PROMOÇÃO FUNCIONAL. IMPLANTAÇÃO TARDIA. PAGAMENTO DE VALORES RETROATIVOS. SENTENÇA DE PROCEDÊNCIA. RECURSO DA PARTE RÉ. MATÉRIA REGIDA PELO ARTIGO 58 DA LCE Nº 270/2004. LEI DE RESPONSABILIDADE FISCAL. LIMITE PRUDENCIAL QUE NÃO SE AFIGURA COMO EMPECILHO AO PAGAMENTO DO DIREITO PRETENDIDO. JURISPRUDÊNCIA DO STJ EM SEDE DE RECURSOS REPETITIVOS (TEMA 1075). DÉBITO ORIUNDO DE DETERMINAÇÃO LEGAL. EXCEÇÃO PREVISTA NO ART. 22, I, DA LC Nº 101/2000. PAGAMENTO DAS PARCELAS PRETÉRITAS. INEXISTÊNCIA DE OFENSA AO ART. 169 DA CONSTITUIÇÃO FEDERAL. ALTERAÇÃO, DE OFÍCIO, DOS TERMOS DE INCIDÊNCIA DE JUROS DE MORA E CORREÇÃO MONETÁRIA. MATÉRIA DE ORDEM PÚBLICA. SENTENÇA MANTIDA POR SEUS PRÓPRIOS FUNDAMENTOS. ART. 46 DA LEI Nº 9.099/95. FUNDAMENTAÇÃO “PER RELATIONEM”. RECURSO CONHECIDO E NÃO PROVIDO.
+1- Conforme dispõe o art. 1.013 do CPC, normativo que também se aplica às matérias da Fazenda Pública, em presença de Recurso Inominado, deve se restringir o órgão de Segundo Grau ao conhecimento da matéria estritamente impugnada, sob pena de infringência ao art. 141 e 492, do mesmo Codex, eis que defeso ao julgador conhecer de questões não suscitadas pelas partes ou proferir decisões de natureza diversa da pedida, bem como condenações que extravasem os limites vinculantes da demanda.
+2- Ademais, ainda que se tente adotar uma reflexão mais profunda e respaldada na ideia de que o recurso devolve para o Segundo Grau o conhecimento da matéria, ainda assim restaria necessário respeitar tais limites legais, haja vista a dicção do referido artigo 1.013 do CPC ser clara no sentido de que a devolução da matéria recursal se limita sempre aos pontos que tenham sido objeto de impugnação pelo recurso em exame, tudo em respeito à segurança jurídica que decorre da estabilização das decisões, como regra preponderante do direito processual civil atual. As "decisões de terceira via" ou "decisões-surpresas" são veementemente proibidas pelo ordenamento pátrio por violarem o princípio do contraditório constitucionalmente assegurado (art. 5º, LV, da CF).
+3- É líquida a sentença que contém em si todos os elementos que permitem definir a quantidade de bens da vida a serem prestados, dependendo apenas de cálculos aritméticos apurados mediante critérios constantes do próprio título ou de fontes oficiais públicas e objetivamente conhecidas. Sendo líquida a obrigação, os juros de mora fluem a partir da data do vencimento, ou seja, do inadimplemento (art. 397 do CC/2002). Nesse sentido, é firme posicionamento do STJ: AgInt no AREsp n. 1.953.793/AL, relator Ministro Humberto Martins, Segunda Turma, julgado em 20/3/2023, DJe de 24/3/2023.
+4- Tratando-se de matéria de ordem pública, devem ser alterados, de ofício, os termos de incidência de juros e correção monetária, de modo a observar as seguintes diretrizes: a) até 08/12/2021, correção monetária pelo IPCA-E e incidência de juros de mora, calculados pelo índice oficial da caderneta de poupança, ambos a contar da data de inadimplemento; b) a partir de 09/12/2021, incidência única da Taxa Selic acumulada mensalmente, até a data do efetivo pagamento, como orienta o art. 3º da EC nº 113/2021.
+Precedentes: - RECURSO INOMINADO CÍVEL, 0855055-05.2020.8.20.5001, Mag. FABIO ANTONIO CORREIA FILGUEIRA, 2ª Turma Recursal, JULGADO em 02/02/2024, PUBLICADO em 07/02/2024.
+
+No recurso extraordinário sustenta-se violação do(s) art.(s) 2º e 37, caput, da Constituição Federal.
+Decido.
+Analisados os autos, verifica-se que o Tribunal de origem decidiu a controvérsia com fundamento na legislação infraconstitucional local aplicável à espécie e no conjunto fático-probatório dos autos, cuja análise se revela inviável em sede de recurso extraordinário.
+Incidem, na espécie, os óbices das Súmulas 279 e 280 do STF, segundo as quais: “Para simples reexame de prova não cabe recurso extraordinário” e “Por ofensa a direito local não cabe recurso extraordinário”. Nesse sentido:
+
+“AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. DIREITO AMBIENTAL. AÇÃO CIVIL PÚBLICA. OBRA PARA RECUPERAÇÃO DE IMÓVEL. IMPOSSIBILIDADE DE REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO E DA LEGISLAÇÃO LOCAL: SÚMULAS 279 E 280 DO SUPREMO TRIBUNAL FEDERAL. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO”. (ARE 1.085.165-AgR, Rel. Min. Cármen Lúcia, Plenário,DJe de 26/03/2018)
+
+“RECURSO EXTRAORDINÁRIO COM AGRAVO – ALEGADA VIOLAÇÃO A PRECEITOS CONSTITUCIONAIS – DIREITO LOCAL – SÚMULA 280/STF – REEXAME DE FATOS E PROVAS – IMPOSSIBILIDADE – SÚMULA 279/STF – SUCUMBÊNCIA RECURSAL (CPC, ART. 85, § 11) – NÃO DECRETAÇÃO, NO CASO, POR TRATAR-SE DE RECURSO DEDUZIDO CONTRA DECISÃO PUBLICADA SOB A ÉGIDE DO CPC/73 – AGRAVO INTERNO IMPROVIDO”. (ARE 949.507-AgR, Rel. Min. Celso de Mello, Segunda Turma, DJe de 09/10/2020)
+Ante o exposto, nego seguimento ao recurso (alínea c do inciso V do art. 13 do Regimento Interno do Supremo Tribunal Federal).
+Havendo prévia fixação de honorários advocatícios pelas instâncias de origem, seu valor monetário será majorado em 10% (dez por cento) em desfavor da parte recorrente, nos termos do art. 85, § 11, do Código de Processo Civil, observado os limites dos §§ 2º e 3º do referido artigo e a eventual concessão de justiça gratuita.
+Publique-se.
+Brasília, 30 de março de 2026.
+
+Ministro EDSON FACHIN
+Presidente
+Documento assinado digitalmente
