@@ -1,0 +1,33 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 24/03/2026 a 30/03/2026, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Maria Isabel Gallotti, Antonio Carlos Ferreira, Luís Carlos Gambogi (Desembargador Convocado do TJMG) e João Otávio de Noronha votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro João Otávio de Noronha.
+EMENTA
+PROCESSO CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE OMISSÃO, CONTRADIÇÃO, OBSCURIDADE OU ERRO MATERIAL. EMBARGOS REJEITADOS.
+1. Os embargos de declaração têm como objetivo sanar eventual existência de erro material, obscuridade, contradição ou omissão no julgado embargado (CPC/2015, art. 1.022), de modo que é inadmissível a sua oposição para rediscutir questões tratadas e devidamente fundamentadas na decisão embargada, já que não são cabíveis para provocar novo julgamento da lide.
+2. Embargos de declaração rejeitados.
+RELATÓRIO
+Tratam os autos de embargos de declaração opostos por SIFRA S/A e SIFRA SERVIÇOS DE CRÉDITO LTDA contra o v. acórdão, proferido pela eg. Quarta Turma, assim ementado:
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AGRAVODE INSTRUMENTO. PENHORA. LEVANTAMENTO DOS VALORES. IMPOSSIBILIDADE. PROPRIEDADE DA EMPRESA FALIDA. COMPETÊNCIA DO JUÍZO FALIMENTAR. ALEGADA CESSÃO DOCRÉDITO EM MOMENTO ANTERIOR À CONVOLAÇÃO DAFALÊNCIA. AUSÊNCIA DE PREQUESTIONAMENTO. NECESSIDADEDE INDICAÇÃO DE AFRONTA AO DO EM ART. 1.022 CPC/2015RELAÇÃO À MATÉRIA. INEXISTÊNCIA. INCIDÊNCIA DA AGRAVO CONHECIDO PARA NÃO CONHECERSÚMULA 211/STJ. DO RECURSO ESPECIAL.
+1. A falta de prequestionamento da matéria alegada nas razões do recursoespecial impede seu conhecimento, não obstante a oposição de embargosdeclaratórios. Incidência da Súmula 211 do STJ.
+2. Agravo conhecido para não conhecer do recurso especial.
+Nas razões dos aclaratórios, a parte embargante afirma que "A questão foi expressamente aventada tanto nas razões do agravo de instrumento originário, em que pese não deliberadas pelo acórdão recorrido, quanto nos aclaratórios de fls. 165/167. Portanto, suscitados os elementos em embargos de declaração, presente o prequestionamento. Para os fins do Art. 1.025 da Lei 13.105 de 2015, prescindível que seja suscitada violação ao Art. 1.022, bastando que este colendo tribunal superior considere existente a omissão. Ao reconhecer que a matéria ventilada não teria sido debatida no acórdão recorrido, de certo modo, evidencia este relator que o Tribunal de origem incorreu em omissão. Aliás, se tem visto uma miríade de recursos especiais em que, rotineiramente, são alegadas genéricas violações aos Arts. 489 e 1.022 do diploma processual civil, causas de sucessivas inadmissões, o que, pelo entendimento deste advogado, prejudica o exercício da prestação jurisdicional em favor do patrocinado em casos em que, efetivamente, se persegue a necessária revisão do julgado" (fl. 231, e-STJ).
+Sem impugnação, conforme certidões às fls. 238-239, e-STJ.
+É o relatório.
+EMENTA
+PROCESSO CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE OMISSÃO, CONTRADIÇÃO, OBSCURIDADE OU ERRO MATERIAL. EMBARGOS REJEITADOS.
+1. Os embargos de declaração têm como objetivo sanar eventual existência de erro material, obscuridade, contradição ou omissão no julgado embargado (CPC/2015, art. 1.022), de modo que é inadmissível a sua oposição para rediscutir questões tratadas e devidamente fundamentadas na decisão embargada, já que não são cabíveis para provocar novo julgamento da lide.
+2. Embargos de declaração rejeitados.
+VOTO
+Os embargos de declaração têm como objetivo sanar eventual existência de erro material, obscuridade, contradição ou omissão no julgado (CPC/2015, art. 1.022). É inadmissível a sua oposição para rediscutir questões tratadas e devidamente fundamentadas na decisão embargada, já que não são cabíveis para provocar novo julgamento da lide.
+Na hipótese, a Quarta Turma do STJ conheceu do agravo para não conhecer do recurso especial, por incidência da Súmula 211/STJ, uma vez que não houve o prequestionamento da matéria e não houve alegada ofensa ao art. 1022 do CPC/20 15, o que é necessário, nos termos da jurisprudência desta Corte. A título elucidativo, confira-se (fls. 198-202, e-STJ):
+"Em que pesem as alegações trazidas no agravo interno, a irresignação não merece prosperar. Com efeito, verifica-se que o recurso especial não comporta conhecimento, pois a tese de que o valor penhorado não era de titularidade da falida, uma vez que já fora cedido a fundo de investimento, não foi analisada pelo Tribunal de Justiça, carecendo de prequestionamento, apesar da oposição de embargos de declaração no eg. TJ-SP. Assim, se, mesmo após o julgamento dos embargos de declaração, o eg. Tribunal a quo continuar omisso quanto à matéria que se pretendia prequestionar, é dever do recorrente, no apelo nobre, apontar violação ao do (art. 535 do CPC/73), o que não ocorreu no art. 1.022 CPC/2015 caso em liça. Nesse cenário, o apelo nobre esbarra no óbice da Súmula 211/STJ.
+(..)
+Ademais, ainda que superado o referido óbice, observa-se do acórdão estadual que fora estabelecida a competência do juízo falimentar, ante a titularidade da falida em relação ao crédito penhorado. A título elucidativo, confira-se trecho do v. acórdão estadual (fl. 145, e-STJ):
+(..)
+Da leitura do excerto ora transcrito, verifica-se que o Tribunal de Justiça concluiu que " a questão relativa ao levantamento de valores decorrentes do acordo formalizado dever ser decidida pelo ao Juízo Universal da Falência, nos termos do artigo 76, da já Lei nº 11.101/2005, que referidos valores eram de propriedade da empresa recorrida, não havendo violação à autoridade da coisa julgada decorrente da r. sentença homologatória". Assim, a modificação do entendimento firmado, acerca da propriedade dos valores a penhorados, demandaria o reexame de fatos e provas, inviável em sede de recurso especial, nos termos da Súmula 7/STJ. "
+Evidencia-se, pois, que os embargos de declaração em apreço representam mera tentativa de rediscutir temas devidamente apreciados, o que, contudo, não é cabível na via estreita dos embargos de declaração.
+Como dito, os aclaratórios constituem recurso de estritos limites processuais cujo cabimento requer estejam presentes os pressupostos legais insertos no art. 1.022 do CPC/2015. Tal recurso, portanto, é incompatível com a pretensão de se obter efeitos infringentes.
+Com essas considerações, conclui-se que o recurso não merece prosperar.
+Diante do exposto, rejeitam-se os embargos de declaração.
+É como voto.
