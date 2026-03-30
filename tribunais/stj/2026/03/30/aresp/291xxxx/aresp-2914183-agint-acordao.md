@@ -1,0 +1,77 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 24/03/2026 a 30/03/2026, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros João Otávio de Noronha, Raul Araújo, Maria Isabel Gallotti e Antonio Carlos Ferreira votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro João Otávio de Noronha.
+EMENTA
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL - AÇÃO CONDENATÓRIA - DECISÃO MONOCRÁTICA QUE CONHECEU DO AGRAVO PARA NÃO CONHECER DO RECURSO ESPECIAL.
+IRRESIGNAÇÃO RECURSAL DO AUTOR.
+1. Incide, por analogia, o óbice da Súmula 284 do STF à hipótese em que o dispositivo de lei apontado como violado possui comando legal dissociado das razões recursais a ele relacionadas, impossibilitando a compreensão da controvérsia.
+2. Consoante entendimento consolidado do Superior Tribunal de Justiça, a concessão da gratuidade de justiça não tem efeitos retroativos. Precedentes. Incidência da Súmula 83 do STJ.
+3. Agravo interno desprovido.
+RELATÓRIO
+O EXMO. SR. MIN. LUÍS CARLOS GAMBOGI (DESEMBARGADOR CONVOCADO DO TJMG) - Relator: Cuida-se de agravo interno interposto por FABIANO SILVA TÁVORA, contra decisão monocrática que conheceu do agravo para não conhecer do recurso especial da ora insurgente.
+O apelo extremo, fundamentado na alínea "a" e "c" do permissivo constitucional, desafiou acórdão proferido pelo Tribunal de Justiça do Estado do Ceará, assim ementado (fl. 1698, e-STJ):
+EMENTA: PROCESSUAL CIVIL. APELAÇÃO CÍVEL. AÇÃO DE REPARAÇÃO DE DANOS MATERIAIS E MORAIS CUMULADA COM PEDIDO DE LUCROS CESSANTES. DESPACHO DETERMINANDO EMENDA À INICIAL. INÉRCIA DO AUTOR. PETIÇÃO INICIAL INDEFERIDA ART. 321, PARÁGRAFO ÚNICO, E ART. 485, I E IV, DO CPC. GRATUIDADE JUDICIÁRIA DEFERIDA. RECURSO CONHECIDO E PARCIALMENTE PROVIDO. 1. A decisão que pôs termo a demanda foi enfática, na medida em que determinou que o autor fosse intimado, via Diário da Justiça, para, em 15 (quinze) dias, regularizar o polo ativo, por imprescindível a inserção das empresas TÁVORA CONCURSOS LTDA. e TÁVORA ENSINO LTDA., com as juntadas dos respectivos contratos sociais e procurações ad judicia, a fim de que não se dificulte o julgamento de mérito, sob pena de aplicação do artigo 321, parágrafo único, do CPC, com o indeferimento da petição inicial e a extinção do processo sem resolução do mérito. 2. Apesar da franqueza do despacho, a parte autora optou por interpor os embargos declaratórios, os quais foram improvidos, sendo certo que e indiscutível que a interposição de embargos de declaração, nos termos do artigo 1.026, caput, do CPC, interrompe o prazo recursal, mas não implica efeito suspensivo, o que significa que os efeitos da decisão embargada permaneciam intactos, deixando esvair-se o prazo para regularizar o polo ativo, apesar da busca da vultosa quantia a título de lucros cessantes. 3. Não há como afugentar a higidez da conclusão que chegou o Magistrado da causa, haja vista que apesar de determinada a emenda à inicial, o requerente veio aos autos com o
+recurso de embargos de declaração, descuidando-se em sanar a carência apontada. 4. Ora, vige entre nós o princípio do aproveitamento, encampado pelo Código de Processo Civil, determinando que o autor venha a remediar a inicial, nos termos do art. 321 do CPC. De modo que, o autor não cumpriu a determinação judicial, deixando ao largo o princípio do aproveitamento, de molde a provar o alegado na inicial, a qual tornaria possível a desejada sentença de mérito. 5. Recurso de Apelação conhecido e parcialmente provido. Sentença reformada em parte.
+Opostos embargos declaratórios, foram rejeitados, nos termos do acórdão de fls. 1699, e-STJ.
+Nas razões de recurso especial, a parte recorrente aponta violação aos arts. 4º, 5º, 6º, 7º, 8º, 98, 139, 141 e 321 do Código de Processo Civil.
+Sustenta, em síntese: a) a aplicação incorreta da Teoria da Asserção, alegando que o magistrado não poderia exigir a inclusão de empresas no polo ativo da demanda; b) a violação dos princípios do Código de Processo Civil, como a ampla defesa e o contraditório, além de alegar favorecimento à parte recorrida; c) a necessidade de revisão dos honorários advocatícios, considerados exorbitantes, e a aplicação da justiça gratuita desde o início do processo.
+Contrarrazões apresentadas às fls. 2624-2638, e-STJ.
+Em juízo de admissibilidade, negou-se o processamento do recurso especial, dando ensejo ao agravo de fls. 2624-2638, e-STJ.
+Contraminuta apresentadas às fls. 3016-3025, e-STJ.
+Em decisão singular (fls. 3342-3346, e-STJ), conheceu-se do agravo para não conhecer do recurso especial, ante: a) deficiência de fundamentação, por indicação genérica de dispositivos legais e ausência de comando normativo suficiente, incidindo a Súmula 284/STF (fls. 3343-3345, e-STJ); b) impossibilidade de retroatividade da justiça gratuita, com amparo na jurisprudência desta Corte, atraindo a Súmula 83/STJ (fls. 3345-3346, e-STJ).
+Os embargos de declaração foram rejeitados (fls. 3417-3419, e-STJ).
+Daí o presente agravo interno (fls. 3397-3416, e-STJ), no qual a parte agravante sustenta violação aos princípios da colegialidade, do contraditório e da ampla defesa; insuficiência de fundamentação da decisão monocrática; necessidade de apreciação colegiada das teses; concessão da justiça gratuita com modulação dos efeitos para atribuição de eficácia ex tunc, à luz dos arts. 20, 21, 23 e 24 da LINDB; e crítica à denominada jurisprudência defensiva, com primazia do julgamento de mérito.
+Impugnação às fls. 3424-3432, e-STJ.
+É o relatório.
+EMENTA
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL - AÇÃO CONDENATÓRIA - DECISÃO MONOCRÁTICA QUE CONHECEU DO AGRAVO PARA NÃO CONHECER DO RECURSO ESPECIAL.
+IRRESIGNAÇÃO RECURSAL DO AUTOR.
+1. Incide, por analogia, o óbice da Súmula 284 do STF à hipótese em que o dispositivo de lei apontado como violado possui comando legal dissociado das razões recursais a ele relacionadas, impossibilitando a compreensão da controvérsia.
+2. Consoante entendimento consolidado do Superior Tribunal de Justiça, a concessão da gratuidade de justiça não tem efeitos retroativos. Precedentes. Incidência da Súmula 83 do STJ.
+3. Agravo interno desprovido.
+VOTO
+O EXMO. SR. MIN. LUÍS CARLOS GAMBOGI (DESEMBARGADOR CONVOCADO DO TJMG) - Relator: O agravo interno não merece acolhida, porquanto os argumentos tecidos pela agravante são incapazes de infirmar a decisão objurgada, motivo pelo qual merece ser mantida na íntegra por seus próprios fundamentos.
+1. Não merece prosperar a pretensão do agravante de afastamento do óbice da Súmula 284/STF no ponto em que alega a aplicação incorreta da Teoria da Asserção, alegando que o magistrado não poderia exigir a inclusão de empresas no polo ativo da demanda, e a violação dos princípios do Código de Processo Civil, como a ampla defesa e o contraditório, além de alegar favorecimento à parte recorrida. Alega também a necessidade de revisão dos honorários advocatícios, considerados exorbitantes.
+Nesses pontos, verifica-se que os dispositivos apontados como violados pelo recorrente, por disciplinarem apenas, e genericamente, princípios processuais, não têm comando normativo suficiente para infirmar os fundamentos do aresto hostilizado no sentido de que deveria o recorrente ter cumprido o comando judicial, tampouco para sustentar a tese defendida nas razões do apelo nobre, fato que caracteriza deficiência na fundamentação recursal, atraindo, por analogia, também o teor da Súmula 284 do STF. Nesse sentido:
+EMBARGOS DE DECLARAÇÃO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. PROCURADORES DIVERSOS. PRAZO EM DOBRO. ART. 191 DO CPC DE 1973. INTEMPESTIVIDADE DOS PRIMEIROS EMBARGOS DE DECLARAÇÃO AFASTADA. AUSÊNCIA DE ANÁLISE DE QUESTÕES SUSCITADAS NOS RECURSOS ESPECIAIS. OMISSÃO VERIFICADA. ILEGITIMIDADE ATIVA AD CAUSAM. ART. 267, VI, DO CPC DE 1973. DISPOSITIVO QUE NÃO POSSUI COMANDO NORMATIVO SUFICIENTE PARA AFASTAR OS FUNDAMENTOS DO ACÓRDÃO RECORRIDO. SÚMULA 284/STF. ARTS. 396 E 410 DO CÓDIGO CIVIL DE 2002. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULAS 282 E 356 DO STF.  ..
+2. O comando normativo inserido no art. 267, VI, do CPC de 1973, é demasiado genérico e não infirma as conclusões do Tribunal de origem, o qual entendeu, à luz das provas carreadas aos autos, que o demandado é legitimado passivo. Assim, a deficiência das razões recursais sobre o ponto atrai o óbice da Súmula 284/STF. ..
+(EDcl nos EDcl no AgRg no AREsp 614.390/SP, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 10/05/2016, DJe 07/06/2016)  grifou-se
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. COMPETÊNCIA FUNCIONAL. TESE DISTINTA DA MATÉRIA CONTIDA NO DISPOSITIVO LEGAL INDICADO. SUMULA N. 284/STF. PRESCRIÇÃO. FUNDAMENTO NÃO IMPUGNADO. CERCEAMENTO DE DEFESA. REEXAME DE CONTEÚDO FÁTICO-PROBATÓRIO. SÚMULA N. 7/STJ. AUSÊNCIA DE PREQUESTIONAMENTO. DECISÃO MANTIDA.
+1. Incide a Súmula n. 284 do STF na falta de pertinência entre a tese sustentada e o normativo apontado no recurso especial.  ..  6. Agravo interno desprovido. (AgInt no AREsp 625.192/SP, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 27/02/2018, DJe 13/03/2018)  grifou-se
+AGRAVO REGIMENTAL EM AGRAVO EM RECURSO ESPECIAL. ILEGITIMIDADE PASSIVA AD CAUSAM. SUCESSÃO EMPRESARIAL. ALEGAÇÃO DE OFENSA AO ART. 3º DO CPC. COMANDO NORMATIVO DEMASIADO GENÉRICO. FUNDAMENTAÇÃO DEFICIENTE. SÚMULA 284/STF. ART. 515, § 3º, DO CPC. TEORIA DA CAUSA MADURA. TRIBUNAL DE ORIGEM QUE CONCLUI PELA SUFICIÊNCIA DE ELEMENTOS. REVISÃO. SÚMULA 7/STJ.
+1. O comando normativo inserido no art. 3º do Código de Processo Civil, utilizado como violado para fins de reconhecimento de ilegitimidade passiva ad causam, é demasiado genérico e não infirma as conclusões do Tribunal de origem, o qual entendeu, à luz das cláusulas contratuais, que a demandada é a legitimada passiva. Assim, a deficiência das razões recursais sobre o ponto atrai o óbice da Súmula 284/STF.  ..
+3. Agravo regimental não provido.
+(AgRg no AREsp 371.320/SC, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 15/05/2014, DJe 22/05/2014)  grifou-se
+Ademais, a indicação de violação aos dispositivos citados se mostra genérica, deixando o recorrente de indicar a forma pela qual os dispositivos teriam sido violados.
+De tal modo, nos casos em que a arguição é genérica, não se conhece do recurso especial, por deficiência na fund amentação, que impede a compreensão da controvérsia. Incide, na hipótese, o óbice da Súmula 284/STF, assim redigida: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia".
+Nesse sentido:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ALEGAÇÃO GENÉRICA DE VIOLAÇÃO AO ART. 1.022 DO CPC/2015. DEFICIÊNCIA NA ARGUMENTAÇÃO. SÚMULA 284 DO STF. RESERVA LEGAL. FALTA DE INTERESSE DE AGIR. MATÉRIA QUE DEVERIA TER SIDO SUSCITADA EM AÇÃO CIVIL PÚBLICA ANTERIORMENTE AJUIZADA CONTRA O RECORRENTE. REVISÃO DO CONTEXTO FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. SÚMULA 7/STJ. 1. A indicação genérica do artigo de lei que teria sido contrariado, quando ele contém desdobramentos em parágrafos, incisos ou alíneas, caracteriza defeito na fundamentação do Recurso. Dessa forma, incide o óbice da Súmula 284 do STF. Precedentes. (..) 5. Agravo Interno não provido. (AgInt no AREsp n. 2.168.672/SP, relator Ministro Herman Benjamin, Segunda Turma, julgado em 22/5/2023, DJe de 5/6/2023)  grifou-se
+Sendo assim, aplicável, na controvérsia, o óbice da Súmula 284/STF.
+2. O agravante insiste, ainda, na retroatividade da concessão de justiça gratuita.
+No entanto, consoante asseverado na decisão monocrática combatida, é cediço que, nos termos do entendimento do Superior Tribunal de Justiça, a concessão da gratuidade não retroage, conforme reconhecido pelo Tribunal de origem no julgamento dos embargos de declaração (fls. 1892-1897, e-STJ).
+O acórdão recorrido encontra amparo na jurisprudência desta Corte, incidindo, no ponto, o teor da Súmula 83/STJ. Nesse sentido:
+DIREITO PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ASSISTÊNCIA JUDICIÁRIA GRATUITA. EFEITOS EX NUNC. EMBARGOS ACOLHIDOS EM PARTE.
+I. Caso em exame
+1. Embargos de declaração opostos a acórdão que julgou agravo interno no agravo em recurso especial, mantendo a decisão de deserção do recurso especial por ausência de comprovação do preparo ou da concessão da gratuidade de justiça.
+2. A parte embargante alega contradição no acórdão quanto à preclusão do pedido de justiça gratuita e à deserção do recurso, afirmando que o agravo interno visava à concessão da justiça gratuita para admissão do recurso.
+II. Questão em discussão
+3. A questão em discussão consiste em saber se há omissão ou contradição no acórdão embargado quanto ao pedido de justiça gratuita e à deserção do recurso especial.
+III. Razões de decidir
+4. Há omissão no acórdão que deixa de apreciar o pedido de assistência judiciária gratuita, formulado nas razões de agravo interno, o qual, diante da declaração de hipossuficiência feita pela parte, deve ser deferido com efeitos ex nunc.
+5. Não se observa contradição interna no acórdão embargado.
+6. A jurisprudência do STJ estabelece que a concessão da gratuidade de justiça não tem efeitos retroativos e a ausência de comprovação do preparo implica deserção do recurso especial.
+IV. Dispositivo e tese
+7. Embargos de declaração acolhidos em parte, apenas para deferir o benefício da assistência judiciária gratuita, com efeitos ex nunc.
+Tese de julgamento: "1. A concessão da assistência judiciária gratuita opera-se com efeitos ex nunc, não podendo retroagir para alcançar atos processuais anteriormente convalidados. 2. A ausência de comprovação do preparo no ato da interposição do recurso especial implica sua deserção, conforme a Súmula 187 do STJ."
+Dispositivos relevantes citados: CPC/2015, art. 1.007, § 4º;
+CPC/2015, art. 1.022; CPC/2015, art. 1.026, § 2º.Jurisprudência relevante citada: STJ, AgInt no AREsp 1.412.710/RS, Rel. Min. Moura Ribeiro, Terceira Turma, julgado em 04.05.2020; STJ, AgRg no AREsp 770.855/MT, Rel. Min. Marco Buzzi, Quarta Turma, julgado em 04.02.2016.
+(EDcl no AgInt no AREsp n. 2.505.910/SP, relator Ministro Antonio Carlos Ferreira, Quarta Turma, julgado em 19/5/2025, DJEN de 23/5/2025.)
+EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. GRATUIDADE DE JUSTIÇA. FASE RECURSAL. SEM EFEITOS RETROATIVOS.
+1. O pedido de gratuidade de justiça formulado nesta fase recursal não tem proveito para a parte, tendo em vista que o recurso de agravo interno não necessita de recolhimento de custas. Tal benefício, ainda que fosse deferido, não produziria efeitos retroativos.
+2. Se o recorrente é intimado para comprovar o recolhimento do preparo do recurso no prazo indicado e não o faz, ou não comprova o deferimento da justiça gratuita na origem, tal recurso será considerado deserto (Súmula nº 187/STJ).
+3. Pedido recebido como embargos de declaração, acolhidos para sanar omissão.
+(PET no AREsp n. 2.614.411/SP, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 12/5/2025, DJEN de 19/5/2025.)
+Inafastável a incidência do óbice da Súmula 83/STJ.
+3. Do exposto, nega-se provimento ao agravo interno.
+É como voto.
