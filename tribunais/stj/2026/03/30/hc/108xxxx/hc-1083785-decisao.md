@@ -1,0 +1,20 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em nome de JULIO CESAR BARBO MARIANO, em que a defesa aponta como autoridade coatora o Tribunal de Justiça do Estado do Rio Grande do Sul, que deu provimento ao agravo do Ministério Público e cassou a remição deferida (Agravo de Execução Penal n. 8000068-88.2025.8.21.0125).
+Em síntese, o impetrante alega a possibilidade de remição por estudo com base no art. 126 da Lei de Execução Penal e na Resolução n. 391/2021 do Conselho Nacional de Justiça, afirmando que a aprovação parcial no ENEM autoriza a remição proporcional por área de conhecimento, independentemente de frequência escolar.
+Sustenta que a metodologia de cálculo é proporcional, tomando como base 1.200 horas para o ensino médio, equivalentes a 100 dias de remição pela aprovação integral, com 20 dias por área aprovada. No caso, pleiteia a manutenção dos 20 dias pela aprovação em "Ciências da Natureza e suas Tecnologias", com pontuação de 488, acima do mínimo de 450.
+Afirma inexistir bis in idem, pois cada edição do ENEM representa fato gerador autônomo, exigindo novo ciclo de estudos, de modo que a aprovação sucessiva na mesma área não desvirtua o instituto e deve ser estimulada no âmbito da execução penal.
+Em caráter liminar e no mérito, requer a concessão do habeas corpus para cassar o acórdão e restabelecer a decisão que deferiu a remição de 20 dias pela aprovação parcial no ENEM/2024 (Processo n. 8000005-05.2021.8.21.0125).
+É o relatório.
+A concessão de ordem de habeas corpus demanda demonstração da ilegalidade, ônus que recai sobre a parte impetrante, a quem cumpre instruir o feito com a prova pré-constituída de suas alegações.
+In casu, verifico, de plano, a inviabilidade do presente writ.
+O Tribunal a quo deu provimento ao agravo ministerial afirmando que (fl. 121 - grifo nosso):
+ ..  o agravado já havia sido beneficiado com a remição pelo estudo em decorrência da aprovação na mesma área de conhecimento, quando da realização do ENEM/2023 (seq. 263 do SEEU). A concessão de um novo benefício pelo mesmo fato gerador, qual seja, a comprovação de conhecimento em um dos eixos do ensino médio, configura indevido bis in idem. A finalidade da norma é incentivar a conclusão dos ciclos de ensino e o avanço educacional, e não premiar indefinidamente a reiteração da aprovação em uma mesma matéria, o que desvirtuaria por completo o instituto da remição pelo estudo.
+ ..
+O acórdão impugnado está em consonância com a jurisprudência desta Corte, que entende que não é possível a concessão de remição por aprovações consecutivas no ENEM, na mesma área de conhecimento, tendo em vista a impossibilidade de concessão de benefício pelo mesmo fato gerador.
+Com efeito, a remição de pena por nova aprovação no Enem não pode ser concedida, pois configura duplicidade de benefícios pelo mesmo fato gerador, sendo inviável nova remição por aprovações sucessivas nas mesmas matérias do exame. A realização de exames reiterados, sem evolução acadêmica, não atende à finalidade do benefício de remição, que é incentivar o estudo contínuo e o acréscimo intelectual. (AgRg no HC n. 1.043.703/SP, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 17/12/2025, DJEN de 22/12/2025).
+Ainda sobre o tema : AgRg no HC n. 1.055.273/SP, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 25/2/2026, DJEN de 3/3/2026; AgRg no HC n. 1.037.962/SP, relator Ministro Messod Azulay Neto, Quinta Turma, julgado em 4/11/2025, DJEN de 10/11/2025; e EDcl no AgRg no HC n. 963.651/RJ, relatora Ministra Maria Marluce Caldas, Quinta Turma, julgado em 29/10/2025, DJEN de 4/11/2025.
+Ante o exposto, indefiro liminarmente a petição inicial.
+Publique-se.
+EMENTA
+HABEAS CORPUS. EXECUÇÃO PENAL. REMIÇÃO PARCIAL. ENEM. APROVAÇÃO EM EDIÇÕES SUCESSIVAS NA MESMA ÁREA DE CONHECIMENTO. IMPOSSIBILIDADE. DUPLICIDADE DO BENEFÍCIO. AUSÊNCIA DE EVOLUÇÃO ACADÊMICA. FINALIDADE RESSOCIALIZADORA DA REMIÇÃO. PRECEDENTES. AUSÊNCIA DE CONSTRANGIMENTO ILEGAL.
+Petição inicial indeferida liminarmente.
