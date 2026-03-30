@@ -1,0 +1,82 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 24/03/2026 a 30/03/2026, por unanimidade, conhecer parcialmente do recurso, mas lhe negar provimento, nos termos do voto do Sr. Ministro João Otávio de Noronha.
+Os Srs. Ministros Raul Araújo, Maria Isabel Gallotti, Antonio Carlos Ferreira e Luís Carlos Gambogi (Desembargador Convocado do TJMG) votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro João Otávio de Noronha.
+EMENTA
+DIREITO PROCESSUAL CIVIL. RECURSO ESPECIAL. AÇÃO ANULATÓRIA DE PENHORA E ADJUDICAÇÃO DE BEM INDIVISÍVEL. AUSÊNCIA DE INTIMAÇÃO DE COPROPRIETÁRIOS E DESRESPEITO ÀS QUOTAS DOS HERD EIROS. RECURSO ESPECIAL CONHECIDO EM PARTE E DESPROVIDO.
+I. CASO EM EXAME
+1. Recurso especial interposto contra acórdão proferido em apelação cível, em ação anulatória, que declarou a nulidade da penhora e da adjudicação de imóvel indivisível.
+2. A controvérsia diz respeito à nulidade da penhora e da adjudicação de imóvel indivisível por ausência de intimação dos coproprietários e desrespeito às quotas dos herdeiros.
+3. Na sentença, o Juízo de primeiro grau julgou improcedentes os pedidos e reconheceu a regularidade da adjudicação, com condenação em custas e honorários.
+4. A Corte de origem reformou a sentença para declarar a nulidade da penhora e da adjudicação, majorando honorários; os embargos de declaração foram rejeitados.
+II. QUESTÃO EM DISCUSSÃO
+5. Há quatro questões em discussão: (i) saber se a intimação da adjudicação na pessoa do advogado do executado supre a intimação dos coproprietários e herdeiros, à luz do art. 876, § 1º, I, do Código de Processo Civil; (ii) saber se a exigência do art. 889, II, do Código de Processo Civil, restrita à alienação judicial, não acarreta nulidade total da adjudicação, mas apenas nulidade parcial para ciência dos coproprietários; (iii) saber se basta a intimação do inventariante, nos termos do art. 75, VII, do Código de Processo Civil, dispensando a intimação dos herdeiros; e (iv) saber se houve violação ao art. 489, § 1º, IV, do Código de Processo Civil, por ausência de enfrentamento sobre a limitação da penhora à meação e ao quinhão do executado e sobre o depósito judicial.
+III. RAZÕES DE DECIDIR
+6. Incide a Súmula n. 7 do STJ para obstar o reexame do conjunto fático-probatório quanto à suficiência da intimação na pessoa do advogado do executado e à extensão da ciência exigida aos coproprietários em adjudicação de bem indivisível, diante das premissas firmadas pela Corte de origem de ausência de intimação dos coproprietários e desrespeito às quotas.
+7. Incide a Súmula n. 7 do STJ para afastar a revisão das conclusões locais sobre a representação do espólio pelo inventariante, a titularidade, a origem do débito e o prejuízo aos herdeiros.
+8. Não há violação ao art. 489, § 1º, IV, do Código de Processo Civil, pois o Tribunal de origem enfrentou de modo claro a causa da nulidade  ausência de intimação dos coproprietários e dívida contraída após a abertura da sucessão  e rejeitou os embargos por inexistência de vícios do art. 1.022 do Código de Processo Civil.
+IV. DISPOSITIVO E TESE
+9. Recurso especial conhecido em parte e desprovido.
+Tese de julgamento: "1. Incide a Súmula n. 7 do STJ para vedar o reexame da moldura fática quanto à necessidade de intimação dos coproprietários e à insuficiência da intimação apenas na pessoa do advogado do executado em adjudicação de bem indivisível. 2. Incide a Súmula n. 7 do STJ para obstar a revisão das conclusões locais sobre a representação do espólio pelo inventariante e o desrespeito às quotas dos herdeiros. 3. Não há violação ao art. 489, § 1º, IV, do Código de Processo Civil quando o acórdão enfrenta a causa da nulidade e rejeita embargos por inexistência de vícios do art. 1.022 do Código de Processo Civil".
+Dispositivos relevantes citados: CPC, arts. 75, VII, 85, §§ 2º e 11, 489, § 1º, IV, 843, caput e § 1º, 876, § 1º, I, 889, II e 1.022.
+Jurisprudência relevante citada: STJ, Súmula n. 7.
+RELATÓRIO
+Trata-se de recurso especial interposto por COOPERATIVA DE CRÉDITO CREDIUINA LTDA. (SICOOB CREDIUNA) com fundamento no art. 105, III, a, da Constituição Federal, contra acórdão do Tribunal de Justiça de Minas Gerais em apelação cível nos autos de ação anulatória.
+O julgado foi assim ementado (fl. 483):
+APELAÇÃO CÍVEL - AÇÃO ANULATÓRIA - PENHORA E ADJUDICAÇÃO - BEM INDIVISÍVEL - AUSÊNCIA DE INTIMAÇÃO DOS COPROPRIETÁRIOS SOBRE A ADJUDICAÇÃO - DÍVIDA CONTRAÍDA APÓS A ABERTURA DA SUCESSÃO - QUOTA-PARTE DOS HERDEIROS - DESRESPETO - NULIDADE DOS ATOS EXPROPRIATÓRIOS. - Os bens do espólio não respondem pela dívida contraída após a abertura da sucessão, por um dos herdeiros em conjunto com a viúva meeira. - De acordo com o artigo 889, II, do CPC, o coproprietário de bem indivisível deve ser cientificado da alienação judicial. - Nos casos de penhora e adjudicação de bem indivisível em que não for realizada a intimação dos coproprietários alheios à execução, bem como não for respeitada a quota-parte dos herdeiros, os atos de expropriação devem ser declarados nulos.
+Os embargos de declaração opostos foram decididos nestes termos (fl. 524):
+EMBARGOS DE DECLARAÇÃO - AUSÊNCIA DE VÍCIOS DO ART. 1022 DO CPC - REDISCUSSÃO DE MATÉRIA JÁ APRECIADA - IMPOSSIBILIDADE - EMBARGOS REJEITADOS. I- Conforme redação do artigo 1.022 do Código de Processo Civil, os embargos de declaração são cabíveis contra decisão judicial com a finalidade de esclarecer obscuridade ou eliminar contradição; suprir omissão de ponto ou questão sobre o qual devia se pronunciar o juiz de ofício ou a requerimento ou corrigir erro material. II- Os embargos de declaração não se prestam à rediscussão da matéria já julgada, e não se tratam de expediente destinado a manifestar a irresignação da parte embargante em relação à fundamentação ou conclusão do julgado. III- A inexistência de qualquer dos vícios previstos no art. 1.022, do CPC, conduz à rejeição dos embargos.
+No recurso especial, a parte aponta violação dos seguintes artigos:
+a) 876, § 1º , I, do CPC, pois sustenta que, requerida a adjudicação, a intimação deve ocorrer na pessoa do advogado do executado, de modo que não se exige a intimação de coproprietários e herdeiros;
+b) 889, II, do CPC, porque afirma que a exigência de cientificação de coproprietários refere-se à alienação judicial e não invalida, por si, a adjudicação, que no máximo ensejaria nulidade parcial para oportunizar manifestação dos coproprietários;
+c) 75, VII, do CPC, visto que o espólio deve ser representado pelo inventariante, a quem caberia a intimação, não se exigindo intimação dos demais herdeiros;
+d) 489, § 1º , IV, do CPC, porquanto a decisão seria omissa ao não resguardar a penhora apenas sobre a meação da viúva e o quinhão do herdeiro executado, bem como ao não enfrentar a questão do depósito judicial; e, ao final.
+Requer o provimento do recurso para que se reconheça a legalidade e a legitimidade da penhora e da adjudicação realizadas. Requer ainda o provimento do recurso para que se determine, subsidiariamente, a nulidade parcial a fim de que se intime os coproprietários acerca da adjudicação.
+Não foram apresentadas contrarrazões, conforme consignado (fl. 574).
+O recurso especial foi admitido, com remessa dos autos ao Superior Tribunal de Justiça, ante a necessidade de apreciação da apontada omissão e o cumprimento dos requisitos legais (fls. 573-575).
+É o relatório.
+EMENTA
+DIREITO PROCESSUAL CIVIL. RECURSO ESPECIAL. AÇÃO ANULATÓRIA DE PENHORA E ADJUDICAÇÃO DE BEM INDIVISÍVEL. AUSÊNCIA DE INTIMAÇÃO DE COPROPRIETÁRIOS E DESRESPEITO ÀS QUOTAS DOS HERD EIROS. RECURSO ESPECIAL CONHECIDO EM PARTE E DESPROVIDO.
+I. CASO EM EXAME
+1. Recurso especial interposto contra acórdão proferido em apelação cível, em ação anulatória, que declarou a nulidade da penhora e da adjudicação de imóvel indivisível.
+2. A controvérsia diz respeito à nulidade da penhora e da adjudicação de imóvel indivisível por ausência de intimação dos coproprietários e desrespeito às quotas dos herdeiros.
+3. Na sentença, o Juízo de primeiro grau julgou improcedentes os pedidos e reconheceu a regularidade da adjudicação, com condenação em custas e honorários.
+4. A Corte de origem reformou a sentença para declarar a nulidade da penhora e da adjudicação, majorando honorários; os embargos de declaração foram rejeitados.
+II. QUESTÃO EM DISCUSSÃO
+5. Há quatro questões em discussão: (i) saber se a intimação da adjudicação na pessoa do advogado do executado supre a intimação dos coproprietários e herdeiros, à luz do art. 876, § 1º, I, do Código de Processo Civil; (ii) saber se a exigência do art. 889, II, do Código de Processo Civil, restrita à alienação judicial, não acarreta nulidade total da adjudicação, mas apenas nulidade parcial para ciência dos coproprietários; (iii) saber se basta a intimação do inventariante, nos termos do art. 75, VII, do Código de Processo Civil, dispensando a intimação dos herdeiros; e (iv) saber se houve violação ao art. 489, § 1º, IV, do Código de Processo Civil, por ausência de enfrentamento sobre a limitação da penhora à meação e ao quinhão do executado e sobre o depósito judicial.
+III. RAZÕES DE DECIDIR
+6. Incide a Súmula n. 7 do STJ para obstar o reexame do conjunto fático-probatório quanto à suficiência da intimação na pessoa do advogado do executado e à extensão da ciência exigida aos coproprietários em adjudicação de bem indivisível, diante das premissas firmadas pela Corte de origem de ausência de intimação dos coproprietários e desrespeito às quotas.
+7. Incide a Súmula n. 7 do STJ para afastar a revisão das conclusões locais sobre a representação do espólio pelo inventariante, a titularidade, a origem do débito e o prejuízo aos herdeiros.
+8. Não há violação ao art. 489, § 1º, IV, do Código de Processo Civil, pois o Tribunal de origem enfrentou de modo claro a causa da nulidade  ausência de intimação dos coproprietários e dívida contraída após a abertura da sucessão  e rejeitou os embargos por inexistência de vícios do art. 1.022 do Código de Processo Civil.
+IV. DISPOSITIVO E TESE
+9. Recurso especial conhecido em parte e desprovido.
+Tese de julgamento: "1. Incide a Súmula n. 7 do STJ para vedar o reexame da moldura fática quanto à necessidade de intimação dos coproprietários e à insuficiência da intimação apenas na pessoa do advogado do executado em adjudicação de bem indivisível. 2. Incide a Súmula n. 7 do STJ para obstar a revisão das conclusões locais sobre a representação do espólio pelo inventariante e o desrespeito às quotas dos herdeiros. 3. Não há violação ao art. 489, § 1º, IV, do Código de Processo Civil quando o acórdão enfrenta a causa da nulidade e rejeita embargos por inexistência de vícios do art. 1.022 do Código de Processo Civil".
+Dispositivos relevantes citados: CPC, arts. 75, VII, 85, §§ 2º e 11, 489, § 1º, IV, 843, caput e § 1º, 876, § 1º, I, 889, II e 1.022.
+Jurisprudência relevante citada: STJ, Súmula n. 7.
+VOTO
+A controvérsia diz respeito a ação anulatória em que a parte autora pleiteou a declaração de nulidade da penhora e da adjudicação de imóvel indivisível, afirmando ausência de intimação dos coproprietários e desrespeito às quotas dos herdeiros, com fundamento no art. 843, caput e § 1º , e art. 889, II, do CPC.
+Na sentença, o Juízo de primeiro grau julgou improcedentes os pedidos, reconhecendo a regularidade da adjudicação, e condenou a autora ao pagamento das custas e honorários advocatícios fixados em 10% sobre o valor atualizado da causa.
+A Corte estadual reformou a sentença para declarar a nulidade da penhora e da adjudicação do imóvel, majorando os honorários advocatícios para 15% sobre o valor atualizado da causa.
+I - Arts. 876 § 1º , I, e 889 II, do Código de Processo Civil
+No recurso especial, a parte recorrente alega que a intimação da adjudicação realizada na pessoa do advogado do executado atende ao art. 876 § 1º , I e que a exigência do art. 889 II dirige-se à alienação judicial, não implicando nulidade total da adjudicação, mas, quando muito, nulidade parcial para intimação dos coproprietários.
+O acórdão recorrido concluiu pela nulidade dos atos expropriatórios porque "os coproprietários do bem não foram intimados acerca do ato constritivo" e houve adjudicação da totalidade do imóvel, "em afronta aos artigos 889, II e 843 do Código de Processo Civil" (fls. 486-487).
+A análise do dispositivo invocado esbarra na moldura fática fixada pelo Tribunal de origem.
+O Tribunal a quo decidiu que, por se tratar de bem indivisível, a ausência de intimação dos demais herdeiros sobre o ato de adjudicação gera a nulidade do ato, pois impede o exercício do direito de preferência e a proteção da quota-parte alheia à execução.
+A interpretação dada na origem guarda relação direta com a proteção da propriedade dos coproprietários alheios ao débito.
+Para este Superior Tribunal de Justiça concluir que a intimação do advogado de um dos executados supre a necessidade de preservação do direito dos demais herdeiros (coproprietários por força do direito de saisine), seria indispensável o reexame do título executivo e do inventário, providência vedada pela Súmula 7 do STJ.
+II - Art. 75 VII, do Código de Processo Civil
+A parte recorrente afirma que, à época dos atos, competia ao inventariante representar o espólio, bastando sua intimação, não se exigindo a intimação dos herdeiros.
+O acórdão recorrido assentou que, após o óbito, o imóvel passou aos herdeiros em condomínio indivisível e que não houve intimação dos coproprietários, o que lhes causou prejuízo, com adjudicação da totalidade do imóvel (fls. 486-487).
+Para afastar a conclusão de que a quota-parte dos demais herdeiros foi desrespeitada e que a representação pelo inventariante não seria suficiente para validar a expropriação de bem indivisível, seria necessário revolver o histórico da sucessão e a origem do débito, incidindo o óbice da Súmula 7 do STJ. A soberania do tribunal de origem na análise das provas impede a revisão da legitimidade da representação e da regularidade das intimações no caso concreto.
+III - Art. 489 § 1º , IV, do Código de Processo Civil
+No recurso especial, a parte recorrente alega falta de fundamentação porque o acórdão teria reconhecido nulidade total sem resguardar a meação e o quinhão do herdeiro executado e não enfrentou o depósito judicial.
+O acórdão dos embargos de declaração concluiu inexistirem vícios do art. 1.022 do Código de Processo Civil, rejeitando a alegada omissão e reproduzindo trechos do acórdão que fundamentaram a nulidade dos atos de penhora e adjudicação (fls. 526-529).
+Não se verifica a alegada ofensa ao artigo, pois a questão referente à omissão sobre a extensão da nulidade da penhora e à ausência de manifestação sobre o depósito judicial foi devidamente analisada pela Corte estadual, que concluiu não haver vícios integrativos, não havendo vício que possa nulificar o acórdão recorrido.
+Confira-se trecho do acórdão recorrido (fl. 527):
+2. No presente caso, embora a embargante mencione a existência de contradição, afigura-se nítido o propósito de rediscutir o mérito do julgado. 3. O simples descontentamento da parte com o julgado não tem o condão de tornar cabíveis os Embargos de Declaração, que servem ao aprimoramento da decisão, mas não à sua modificação, que só muito excepcionalmente é admitida. 4. Os Embargos de Declaração, ante a ausência de omissão, obscuridade ou contradição no acórdão embargado, não constituem instrumento adequado ao prequestionamento com vistas à interposição de Recurso Extraordinário. 5. Embargos de Declaração rejeitados, com advertência de multa.
+O Tribunal de origem enfrentou a questão de forma clara, fundamentando que a nulidade decorreu da ausência de intimação dos demais coproprietários e do fato de a dívida ter sido contraída individualmente após a morte do autor da herança, não podendo onerar o monte mor de forma indistinta.
+Não há, portanto, o vício ao artigo em referência.
+IV - Conclusão
+Ante o exposto, conheço parcialmente do recurso especial e nego-lhe provimento.
+Nos termos do § 11 do art. 85 do Código de Processo Civil, majoro, em 10% sobre o valor já arbitrado nas instâncias de origem, os honorários advocatícios em desfavor da parte ora recorrente, observados, se aplicáveis, os limites percentuais previstos no § 2º do referido artigo e ressalvada eventual concessão de gratuidade de justiça.
+É o voto.
