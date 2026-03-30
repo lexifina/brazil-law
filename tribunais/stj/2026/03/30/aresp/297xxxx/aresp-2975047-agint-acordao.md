@@ -1,0 +1,61 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 24/03/2026 a 30/03/2026, por unanimidade, não conhecer do recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Regina Helena Costa, Gurgel de Faria e Paulo Sérgio Domingues votaram com o Sr. Ministro Relator.
+Presidiu o julgamento a Sra. Ministra Regina Helena Costa.
+Licenciado o Sr. Ministro Sérgio Kukina.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. NÃO IMPUGNAÇÃO ESPECÍFICA AO FUNDAMENTO DA DECISÃO AGRAVADA. SÚMULA N. 182/STJ.
+1. Tendo o recurso sido interposto contra decisão publicada na vigência do Código de Processo Civil de 2015 (CPC/2015), devem ser exigidos os requisitos de admissibilidade conforme nele previsto, nos termos do Enunciado Administrativo n. 3/2016/STJ.
+2. Caso no qual a decisão agravada não conheceu do agravo em recurso especial, em razão do óbice contido na Súmula n. 182/STJ. Contudo, nas razões do agravo interno, a parte agravante não impugnou, novamente, de forma específica, o fundamento da decisão agravada.
+3. A falta de impugnação específica do fundamento da decisão agravada inviabiliza o conhecimento do agravo interno, nos termos do artigo 1.021, § 1º, do CPC/2015. Incidência da Súmula 182/STJ: "É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada."
+4. Agravo interno não conhecido.
+RELATÓRIO
+O SENHOR MINISTRO BENEDITO GONÇALVES (Relator): Trata-se de agravo interno interposto por HELLYSON DA ROSA SOARES contra decisão que não conheceu do agravo em recurso especial, ante o óbice da Súmula n. 182/STJ.
+A parte agravante alega que: (a) suas razões tratam de matéria de direito, sem reexame de provas, afirmando inaplicabilidade da Súmula n. 7/STJ ao caso (fls. 705-706, 710-713); (b) existente laudo pericial que atesta incapacidade para atividades militares e civis, com nexo de causalidade com acidente em trajeto (fls. 710-712)
+Colaciona precedentes do STJ sobre reforma ou reintegração de militar incapacitado (AgInt no AREsp n. 1.964.590/MS; AgInt no AREsp n. 2.673.204/MT; AgInt no REsp n. 2.162.787/MA; fls. 706-709) e defende a nulidade da decisão por ausência de fundamentação, com base no artigo 93, IX, da Constituição Federal e nos artigos 11, 371 e 489, § 1º, do CPC/2015, além do Tema n. 1.306 do STJ sobre fundamentação por referência (fls. 699-704).
+Sem impugnação.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. NÃO IMPUGNAÇÃO ESPECÍFICA AO FUNDAMENTO DA DECISÃO AGRAVADA. SÚMULA N. 182/STJ.
+1. Tendo o recurso sido interposto contra decisão publicada na vigência do Código de Processo Civil de 2015 (CPC/2015), devem ser exigidos os requisitos de admissibilidade conforme nele previsto, nos termos do Enunciado Administrativo n. 3/2016/STJ.
+2. Caso no qual a decisão agravada não conheceu do agravo em recurso especial, em razão do óbice contido na Súmula n. 182/STJ. Contudo, nas razões do agravo interno, a parte agravante não impugnou, novamente, de forma específica, o fundamento da decisão agravada.
+3. A falta de impugnação específica do fundamento da decisão agravada inviabiliza o conhecimento do agravo interno, nos termos do artigo 1.021, § 1º, do CPC/2015. Incidência da Súmula 182/STJ: "É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada."
+4. Agravo interno não conhecido.
+VOTO
+O SENHOR MINISTRO BENEDITO GONÇALVES (Relator): Consigne-se inicialmente que o recurso foi interposto contra decisão publicada na vigência do Código de Processo Civil de 2015 (CPC/2015), devendo ser exigidos os requisitos de admissibilidade conforme nele previsto, nos termos do Enunciado Administrativo n. 3/2016/STJ.
+A decisão agravada não conheceu do agravo em recurso especial com supedâneo na Súmula n. 182 do Superior Tribunal de Justiça (STJ), tendo por base a seguinte fundamentação (fls. 687-688):
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. DECISÃO AGRAVADA. FUNDAMENTO. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA. AGRAVO NÃO CONHECIDO.
+Trata-se de agravo interposto contra decisão da Corte de origem que não admitiu o recurso especial.
+É o relatório. Decido.
+Consigne-se inicialmente que o recurso foi interposto contra decisão publicada na vigência do Código de Processo Civil de 2015 (CPC/15), devendo ser exigidos os requisitos de admissibilidade conforme nele previsto, nos termos do Enunciado Administrativo n. 3/2016/STJ.
+De acordo com o que dispõem os artigos 932, III, do CPC/2015 e 253, parágrafo único, I, do Regimento Interno do STJ - RISTJ (redação dada pela Emenda Regimental n. 22/2016), compete ao agravante impugnar especificamente os fundamentos da decisão que obstou o recurso especial na origem.
+Assim, além da manifestação do inconformismo, inerente ao ato de irresignação, impõe-se ao recorrente o ônus de contrapor-se, de forma clara e específica, aos fundamentos da decisão agravada, conforme determina a lei processual civil e o princípio da dialeticidade.
+Com efeito, encontra-se consolidado nesta Corte o entendimento de que incumbe à parte agravante infirmar, especificamente, todos os fundamentos da decisão que não admitiu o processamento do recurso especial. A propósito: EAREsp 701.404/SC, rel. Ministro João Otávio de Noronha, rel. p/ Acórdão Ministro Luis Felipe Salomão, Corte Especial, DJe 30/11/2018.
+No caso dos autos, a decisão de não admissão do recurso especial está motivada na incidência da Súmula n. 7/STJ, todavia a parte agravante não impugnou, especificamente, a referida fundamentação, o que acarreta o não conhecimento do agravo.
+Nesse sentido: AgInt no AREsp 2.228.742/RS, relator Ministro Gurgel de Faria, Primeira Turma, DJe 15/3/2023; AgInt no AREsp 2.083.809/SP, relatora Ministra Regina Helena Costa, Primeira Turma, DJe 16/3/2023 ; AgInt no AREsp 2.070.066/MG, relator Ministro Benedito Gonçalves, Primeira Turma, DJe 20/10/2022.
+Ante o exposto, não conheço do agravo.
+Caso tenham sido fixados honorários sucumbenciais anteriormente pelas instâncias ordinárias, majoro-os em 10%, observados os limites e parâmetros dos §§ 2º, 3º e 11 do artigo 85 do CPC/2015 e eventual gratuidade da justiça (§ 3º do artigo 98 do CPC/2015).
+Entretanto, a parte agravante novamente não impugnou, especificamente, o fundamento da decisão agravada, visto que se limitou a arguir, genérica e equivocadamente, que: (a) suas razões tratam de matéria de direito, sem reexame de provas, afirmando inaplicabilidade da Súmula n. 7/STJ ao caso (fls. 705-706, 710-713); (b) existente laudo pericial que atesta incapacidade para atividades militares e civis, com nexo de causalidade com acidente em trajeto (fls. 710-712). Colacionou precedentes do STJ sobre reforma ou reintegração de militar incapacitado (AgInt no AREsp n. 1.964.590/MS; AgInt no AREsp n. 2.673.204/MT; AgInt no REsp n. 2.162.787/MA; fls. 706-709) e defendeu a nulidade da decisão por ausência de fundamentação, com base no artigo 93, IX, da Constituição Federal e nos artigos 11, 371 e 489, § 1º, do CPC/2015, além do Tema n. 1.306 do STJ sobre fundamentação por referência (fls. 699-704).
+Assim, uma vez mais, aplica-se ao caso o disposto no artigo 1.021, § 1º, do CPC/2015, ante o descumprimento do ônus da dialeticidade, de forma que incide à hipótese a Súmula n. 182/STJ: "É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada."
+Nesse sentido:
+PROCESSUAL CIVIL. DECISÃO AGRAVADA. FUNDAMENTOS. IMPUGNAÇÃO ESPECÍFICA. AUSÊNCIA. GRATUIDADE JUDICIÁRIA. INDEFERIMENTO. RECOLHIMENTO DO PREPARO. PEDIDO. INCOMPATIBILIDADE.
+1. Nos termos do art. 1.021, § 1º, do CPC/2015 e da Súmula 182 do STJ, o agravante deve infirmar, nas razões do agravo interno, os fundamentos da decisão impugnada, sob pena de não ser conhecido o seu recurso.
+2. Hipótese em que os recorrentes não se desincumbiram do ônus de impugnar, de forma clara e objetiva, os motivos da decisão ora agravada.
+3. O regular recolhimento do preparo do recurso especial é ato incompatível com o pedido de gratuidade de justiça. Precedentes.
+4. Agravo interno não conhecido. (AgInt no AREsp n. 2.318.133/RJ, relator Ministro Gurgel de Faria, Primeira Turma, julgado em 13/11/2023, DJe de 17/11/2023, grifei.)
+PROCESSUAL CIVIL. ADMINISTRATIVO. EXECUÇÃO. AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DA DECISÃO AGRAVADA. SÚMULA 182/STJ. APLICAÇÃO. AGRAVO INTERNO NÃO CONHECIDO.
+1. A decisão ora recorrida deu provimento ao recurso especial da parte contrária aplicando entendimento consolidado nesta Corte Superior acerca da possibilidade de alegação, a qualquer momento, de matéria de ordem pública, neste caso, a impenhorabilidade de bem de família.
+2. Neste recurso, a parte agravante não rebate as razões expostas na decisão que visa a impugnar, limitando-se a afirmar a impossibilidade de conhecimento do recurso especial, não se referindo ao tema de mérito.
+3. Aplicável ao caso em questão a Súmula 182 do STJ, segundo a qual "é inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada".
+4. Agravo interno não conhecido. (AgInt no AREsp n. 1.560.781/SE, relator Ministro Paulo Sérgio Domingues, Primeira Turma, julgado em 26/6/2023, DJe de 29/6/2023, grifei.)
+Por fim, com o fito de evitar a postergação indevida da solução da controvérsia, com a interposição de recursos manifestamente protelatórios e tecnicamente indefensáveis, registra-se que, "consoante a jurisprudência desta Corte Superior, o agravo interno não é o recurso cabível para apontar a existência de vícios integrativos (omissão, contradição, obscuridade ou erro material) em decisão monocrática, pois são os embargos de declaração a via adequada, nos termos do art. 1.022 do CPC/2015, configurando erro grosseiro a afastar a aplicação do princípio da fungibilidade" (AgInt no AREsp 1.983.815/RJ, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, DJe de 16/02/2023).
+No mesmo sentido (destaques acrescidos):
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. CÓDIGO DE PROCESSO CIVIL DE 2015. APLICABILIDADE. PRETENSÃO DE ANÁLISE DE QUESTÃO OMITIDA NA DECISÃO RECORRIDA. INADEQUAÇÃO DA VIA ELEITA. FUNGIBILIDADE RECURSAL. IMPOSSIBILIDADE. CUMPRIMENTO DE SENTENÇA. EMPRÉSTIMO COMPULSÓRIO DE ENERGIA ELÉTRICA. JUROS REMUNERATÓRIOS. TERMO FINAL. EFETIVO PAGAMENTO. APLICAÇÃO DE MULTA. ART. 1.021, § 4º, DO CÓDIGO DE PROCESSO CIVIL DE 2015. DESCABIMENTO.
+I - Consoante o decidido pelo Plenário desta Corte na sessão realizada em 09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. Assim sendo, in casu, aplica-se o Código de Processo Civil de 2015.
+II - É incabível a interposição de agravo interno para análise de eventual omissão da decisão agravada, sendo os embargos de declaração a via adequada para tal objetivo.
+III - A aplicação do princípio da fungibilidade depende do preenchimento dos seguintes requisitos: i) dúvida objetiva quanto ao recurso a ser interposto; ii) inexistência de erro grosseiro; e iii) que o recurso interposto erroneamente tenha sido apresentado no prazo daquele que seria o correto. In casu, nenhum dos requisitos restou cumprido.
+IV - A 1ª Seção deste Tribunal Superior, na assentada do dia 12.06.2019, no julgamento dos EAREsp n. 790.288/PR, de relatoria do Ministro Gurgel de Faria, firmou posicionamento segundo o qual, quanto à diferença a ser paga em dinheiro do saldo não convertido em número inteiro de ações, deverá incidir sobre esta juros remuneratórios de 31/12 do ano anterior à conversão até seu efetivo pagamento.
+V - Em regra, descabe a imposição da multa, prevista no art. 1.021, § 4º, do Código de Processo Civil de 2015, em razão do mero improvimento do Agravo Interno em votação unânime, sendo necessária a configuração da manifesta inadmissibilidade ou improcedência do recurso a autorizar sua aplicação, o que não ocorreu no caso.
+VI - Agravo Interno parcialmente conhecido e, no ponto, improvido (AgInt nos EDcl no REsp 1.857.915/PR, Rel. Ministra REGINA HELENA COSTA, PRIMEIRA TURMA, DJe de 04/05/2020).
+Ante o exposto, não conheço do agravo interno.
+É como voto.
