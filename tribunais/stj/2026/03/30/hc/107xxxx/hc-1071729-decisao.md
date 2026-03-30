@@ -1,0 +1,35 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em favor de TARIK SANTOS DOS SANTOS, apontando como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO GRANDE DO SUL.
+Depreende-se dos autos que o paciente teve a prisão preventiva decretada pela suposta prática do crime de tentativa de homicídio.
+Inconformada, a defesa impetrou habeas corpus perante o Tribunal de Justiça de origem, que denegou a ordem em acórdão às fls. 12-23.
+No presente writ, a defesa sustenta a nulidade do flagrante decorrente do ingresso ilegal em domicílio e de violência física praticada por agentes estatais, circunstâncias que configuram grave violação de direitos fundamentais e tornam insubsistente a prisão efetuada.
+Afirma que, caso não seja acolhido o pedido de relaxamento da prisão, deve-se analisar a possibilidade de revogação da preventiva, diante da ausência dos requisitos legais, uma vez que a decisão de segregação fundamenta-se apenas na gravidade abstrata dos delitos e na suposta vinculação a facção criminosa, elementos frágeis e insuficientes para afastar a presunção de inocência.
+Defende, ainda, a possibilidade de substituição da prisão preventiva por medidas cautelares diversas da prisão, previstas no artigo 319 do Código de Processo Penal.
+Liminar indeferida às fls. 27-28.
+Informações prestadas às fls. 31-74.
+O Ministério Público Federal em parecer, às fls. 93-99, manifestou-se pelo não conhecimento da ordem.
+É o relatório. DECIDO.
+No tocante às alegações de nulidade decorrente do ingresso ilegal em domicílio e de violência física praticada por agentes estatais, verifico que o habeas corpus não comporta conhecimento, porquanto a deficiente instrução impede a compreensão da controvérsia.
+Saliente-se que a doutrina e a jurisprudência entendem que o habeas corpus, por constituir ação mandamental cuja principal característica é a sumariedade, não possui fase instrutória, vale dizer:
+"a inicial deve vir acompanhada de prova documental pré-constituída que propicie o exame, pelo juiz ou tribunal, dos fatos caracterizadores do constrangimento ou ameaça, bem como de sua ilegalidade, pois ao impetrante incumbe o ônus da prova"(GRINOVER, A.P.; FILHO, A. M. G.; FERNANDES, A.S. Recursos no Processo Penal, ed. Revista dos Tribunais, 2011 p. 298).
+Sobre o tema, deve-se asseverar que, segundo orientação firmada no âmbito desta Corte, constitui ônus da impetrante instruir os autos com os documentos necessários à exata compreensão da controvérsia, sob pena de não conhecimento do writ.
+Nesse sentido:
+"O rito do habeas corpus pressupõe prova pré-constituída do direito alegado, devendo a defesa demonstrar, de maneira inequívoca, por meio de documentos, a existência de constrangimento ilegal imposto ao a cusado" (RCD no HC n. 1.048.323/GO, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, DJEN de 22/12/2025.)
+No caso dos autos, a interposição do presente habeas corpus não veio instruída com a cópia integral do acórdão recorrido, peça fundamental compreender as alegações da inicial.
+A deficiente instrução, portanto, impede sejam verificados os argumentos da inicial e a suposta existência de flagrante ilegalidade. A propósito: AgRg nos EDcl no HC n. 888.322/SP, relator Ministro Rogerio Schietti Cruz, Sexta Turma, DJe de 3/6/2024; AgRg no HC n. 886.696/PE, relator Ministro Sebastião Reis Júnior, Sexta Turma, DJe de 11/4/2024; AgRg no HC n. 852.593/MG, relator Ministro Ribeiro Dantas, Quinta Turma, DJe de 27/10/2023 e AgRg no HC n. 821.623/DF, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe de 16/6/2023.
+Passo, agora, ao exame da apontada falta de fundamentação concreta e idônea para a segregação cautelar.
+In casu, verifica- se que a decisão que decretou a segregação cautelar encontra-se devidamente fundamentada em elementos concretos extraídos dos autos, os quais demonstram de forma clara a necessidade da prisão para a garantia da ordem pública, especialmente em razão do modus operandi da conduta imputada. O paciente, em tese, teria praticado o crime de tentativa de homicídio, ao supostamente perseguir a vítima e desferir-lhe um golpe de faca no rosto, não alcançando o resultado apenas porque ela usava capacete. O delito não se consumou exclusivamente pela intervenção de um terceiro presente, que impediu o paciente de desferir novos golpes, circunstâncias que evidenciam a gravidade concreta da conduta e justificam a imposição da medida extrema - fl. 70.
+Sobre o tema:
+"A custódia preventiva está idoneamente motivada, especialmente para a garantia da ordem pública, vulnerada pela gravidade concreta do crime em razão do modus operandi empregado no delito" (RHC n. 218.885/RS, relator Ministro Sebastião Reis Júnior, Sexta Turma, DJEN de 23/9/2025.)
+"A prisão preventiva pode ser decretada antes do trânsito em julgado da sentença condenatória desde que estejam presentes os requisitos previstos no art. 312 do CPP.
+Foram constatados elementos concretos capazes de justificar a privação cautelar da liberdade, tendo em vista a gravidade concreta da conduta e o modus operandi empregado"(AgRg no AREsp n. 2.939.478/BA, relator Ministro Og Fernandes, Sexta Turma, DJEN de 23/2/2026.)
+Outrossim, consta nos autos que a manutenção da segregação cautelar também foi justificada pelo suposto risco de reiteração delitiva, já que o paciente responde a ação penal por tráfico de drogas e utilizava tornozeleira eletrônica no momento dos fatos - fl. 70.
+Com efeito, "maus antecedentes, reincidência, atos infracionais pretéritos ou até mesmo outras ações penais em curso justificam a imposição de segregação cautelar como forma de evitar a reiteração delitiva e, assim, garantir a ordem pública" (AgRg no HC n. 1.030.783/SP, relator Ministro Rogerio Schietti Cruz, Sexta Turma, DJEN de 21/10/2025.)
+No mesmo sentido:
+"como sedimentado em farta jurisprudência desta Corte, maus antecedentes, reincidência ou até mesmo outras ações penais ou inquéritos em curso justificam a imposição de segregação cautelar como forma de evitar a reiteração delitiva e, assim, garantir a ordem pública" (AgRg no RHC n. 223.637/SC, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJEN de 21/10/2025.)
+"a reiteração delitiva é fundamento apto a embasar o decreto prisional por evidenciar a periculosidade do agente"(AgRg no RHC n. 221.713/PR, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, DJEN de 21/10/2025.)
+Segundo a jurisprudência desta Corte, a contumácia delitiva justifica a prisão cautelar para a garantia da ordem pública. Nesse sentido: AgRg no HC n. 910.540/CE, Quinta Turma, Rel. Min. Reynaldo Soares da Fonseca, DJe de 3/7/2024; AgRg no HC n. 902.557/SP, Sexta Turma; Rel. Min. Antonio Saldanha Palheiro, DJe de 3/7/2024 e AgRg no HC n. 912.267/MG, Sexta Turma, Rel. Min. Rogerio Schietti Cruz, DJe de 28/6/2024.
+Por fim, não há que se falar em possibilidade de aplicação de medidas cautelares diversas da prisão, pois há nos autos elementos hábeis a recomendar a manutenção de sua custódia cautelar.
+Ante o exposto, conheço parcialmente do habeas corpus e, na parte conhecida, denego a ordem.
+Publique-se. Intimem-se.
+EMENTA
