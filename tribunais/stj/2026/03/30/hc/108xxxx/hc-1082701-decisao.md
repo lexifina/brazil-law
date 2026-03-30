@@ -1,0 +1,18 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em nome de GUILHERME HENRIQUE GONÇALVES DE OLIVEIRA, preso preventivamente e condenado pelos crimes de tráfico de drogas, com causa de aumento do envolvimento de adolescente, e associação para o tráfico, à pena de 9 anos e 4 meses de reclusão, em regime inicial fechado, e a 1.399 dias-multa (fl. 68), em que se aponta como autoridade coatora o Tribunal de Justiça do Estado de São Paulo (Habeas Corpus n. 2286116-20.2025.8.26.0000).
+Alega ausência de fundamentação concreta e individualizada da prisão, com decisão baseada na gravidade abstrata e na quantidade de entorpecentes, sem demonstração de riscos específicos à ordem pública, à instrução ou à aplicação da lei penal (fls. 3/4).
+Sustenta circunstâncias pessoais favoráveis - primariedade, inexistência de antecedentes, residência fixa, vínculos familiares e idade de 19 anos - e defende suficiência de medidas cautelares alternativas (fls. 5/7).
+Aduz excesso acusatório e ausência de individualização da conduta quanto aos delitos imputados - tráfico, associação e organização criminosa -, com imputação genérica sem descrição do papel específico do paciente (fl. 6).
+Requer, inclusive liminarmente, a concessão da ordem para revogar a prisão preventiva ou substituí-la por cautelares do art. 319 do Código de Processo Penal.
+É o relatório.
+Inicialmente, em relação às alegações de excesso acusatório e ausência de individualização da conduta nos delitos imputados, verifico que o Tribunal de Justiça não debateu os seguintes temas. Assim, tais questões não podem ser inauguradas nesta Corte Superior, sob pena de indevida supressão de instância.
+Infere-se dos autos que a prisão preventiva foi fundamentada na garantia da ordem pública, em razão da apreensão de 668,25 g de entorpecentes (maconha, cocaína, crack e dry) e contabilidade da movimentação e distribuição promovida em diversos pontos de venda identificados na cidade (fls. 13/33).
+No caso, a despeito de a segregação cautelar se encontrar justificada nas instâncias ordinárias, à luz das condições pessoais do paciente - primário (fl. 57) -, do caráter não violento dos delitos imputados e do juízo de proporcionalidade entre a quantidade e a natureza das drogas apreendidas e a possibilidade de adequado acautelamento por medidas menos gravosas, mostra-se plausível a substituição da prisão por cautelares diversas.
+Importante salientar que, com o advento da Lei n. 12.403/2011, a prisão cautelar passou a ser, mais ainda, a mais excepcional das medidas, devendo ser aplicada somente quando comprovada a inequívoca necessidade, devendo-se sempre verificar se existem medidas alternativas à prisão adequadas ao caso concreto (HC n. 305.905/SP, Relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 4/12/2014, DJe 17/12/2014) - AgRg no RHC n. 210.080/RS, Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJEN de 26/2/2025.
+Ante o exposto, concedo liminarmente a ordem para substituir a prisão cautelar imposta ao paciente por medidas alternativas à prisão a serem estabelecidas e fiscalizadas pelo Magistrado singular, salvo se ele estiver preso por outro motivo. O Juízo de primeiro grau pode decretar novamente a segregação cautelar, desde que fundamentadamente.
+Comunique-se, com urgência, o teor desta decisão ao Tribunal estadual e ao Juízo a quo.
+Intime-se o Ministério Público estadual.
+Publique-se.
+EMENTA
+HABEAS CORPUS. PROCESSUAL PENAL. TRÁFICO DE DROGAS E ASSOCIAÇÃO PARA O MESMO FIM. EXCESSO ACUSATÓRIO E AUSÊNCIA DE INDIVIDUALIZAÇÃO DA CONDUTA NOS DELITOS IMPUTADOS. SUPRESSÃO DE INSTÂNCIA. PRISÃO PREVENTIVA. DESPROPORCIONALIDADE. MEDIDAS CAUTELARES ALTERNATIVAS. ADEQUAÇÃO E SUFICIÊNCIA.
+Ordem concedida liminarmente nos termos do dispositivo.
