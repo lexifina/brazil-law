@@ -1,0 +1,78 @@
+DECISÃO
+Cuida-se de agravo (art. 1.042 do CPC), interposto por SÍLVIO ANTÔNIO DOS SANTOS, contra decisão que não admitiu recurso especial.
+O apelo extremo, fundamentado nas alíneas "a" e "c" do permissivo constitucional, desafiou acórdão proferido pelo Tribunal de Justiça do Estado de Alagoas, assim ementado (fls. 223-227, e-STJ):
+DIREITO CIVIL E DO CONSUMIDOR. APELAÇÃO CÍVEL. PREVIDÊNCIA PRIVADA. ALEGADA INEXISTÊNCIA DE CONTRATAÇÃO. INVERSÃO DO ÔNUS DA PROVA. CONTRATAÇÃO COMPROVADA. DANO MORAL NÃO CONFIGURADO. RECURSO DESPROVIDO.
+I. CASO EM EXAME
+1. Apelação cível interposta contra sentença que julgou improcedente o pedido de declaração de inexistência de débito com indenização por danos materiais e morais. O recorrente alegou não ter contratado o plano de previdência, sustentando a nulidade do contrato por ausência de manifestação de vontade válida e ocorrência de venda casada.
+II. QUESTÃO EM DISCUSSÃO
+2. Há duas questões em discussão: (i) verificar se houve a contratação válida de plano de previdência privada pelo apelante; (ii) apurar se estão presentes os requisitos para configuração de dano moral decorrente da cobrança.
+III. RAZÕES DE DECIDIR
+3. Aplica-se a legislação consumerista à relação jurídica em questão, conforme o art. 3º, §2º, do CDC e a Súmula 297/STJ, sendo cabível a inversão do ônus da prova em favor do consumidor.
+4. A apelada comprova a regularidade da contratação ao juntar aos autos a Proposta de Inscrição em Plano Pecúlio e autorização de consignação, ambos assinados pelo apelante, sem qualquer indício de vício de consentimento, falsificação ou fraude documental.
+5. Comprovada a adesão do apelante ao plano de previdência, não se configura a alegada venda casada, nem se justifica a restituição dos valores descontados ou indenização por danos materiais.
+6. A cobrança baseada em contrato válido não caracteriza dano moral, por ausência de abalo relevante ou lesão à dignidade do consumidor.
+IV. DISPOSITIVO
+7. Recurso desprovido
+Dispositivos relevantes citados: CDC, arts. 3º, §2º; CPC, art. 85, §§ 2º e 11.
+Opostos embargos de declaração, foram rejeitados nos termos do acórdão de fls. 285-290, e-STJ.
+Nas razões de recurso especial (fls. 232-257, e-STJ), aponta a parte recorrente, além da divergência jurisprudencial, ofensa aos seguintes dispositivos: art. 1.022 do CPC, arts. 6º, III, 31, 39, 42, I, e 51, IV, do Código de Defesa do Consumidor; e arts. 138, 145, 147, 151, 171, II, e 186, do Código Civil.
+Sustenta, em síntese: a) omissão na análise da prática de venda casada (art. 39, I, do CDC) e nulidade contratual (art. 51, IV, do CDC); b) ausência de informação clara e adequada na Proposta de Subscrição - Pecúlio Facultativo, tornando os descontos indevidos e acarretando o dever de pagamento de danos morais.
+Não foram apresentadas contrarrazões, conforme certidão de fls. 297.
+Em juízo de admissibilidade (fls. 298-301, e-STJ), negou-se o processamento do recurso especial, dando ensejo ao presente agravo (fls. 302-318, e-STJ).
+Não foi apresentada contraminuta, conforme certidão de fls. 326.
+É o relatório.
+Decido.
+1. Alega o recorrente violação aos arts. 1.022 do CPC, ao argumento de deficiência na fundamentação em razão de omissão e obscuridade no acórdão recorrido, não sanadas quando do julgamento dos embargos de declaração.
+Sustenta que o acórdão fora omisso sobre a natureza jurídica e a clareza informacional do documento denominado "Proposta de Subscrição - Pecúlio Facultativo", bem como sobre a tese de venda casada e a falta de informações claras acerca da natureza da previdência privada, suas finalidades e riscos (fls. 234-248, e-STJ).
+Razão não lhe assiste, no ponto.
+Não se vislumbram os alegados vícios, pois o órgão julgador dirimiu a controvérsia de forma ampla e fundamentada, conforme se infere às fls. 226-227, e-STJ:
+No caso em análise, a apelada trouxe aos autos a Proposta de Inscrição em Plano Pecúlio (pág. 138), de onde se extrai a contratação feita pelo ora recorrente ao plano privado que agora sustenta ser indevido. À pág. 139 há, ainda, autorização para consignação em folha de pagamento, débito em conta corrente ou boleto bancário. (fl. 226, e-STJ)
+Registre-se que os documentos acima referidos foram devidamente assinados pelo apelante, não tendo sido demonstrado em momento algum indícios de fraude, montagem ou transplante de assinaturas. (fl. 226, e-STJ)
+Restou, portanto, caracterizado que o apelante aderiu à contribuição questionada, sendo os descontos realizados de forma lícita. (fl. 227, e-STJ)
+Nesse mérito, comprovada a validade da contratação, não há que se falar em restituição dos valores descontados ou indenização por danos materiais. (fl. 227, e-STJ)
+Quanto ao dano moral, sua caracterização exige a presença de abalo psíquico relevante ou afronta à dignidade do consumidor, o que não se verifica no caso em análise, uma vez que a cobrança teve origem em contratação válida. (fl. 226, e-STJ)
+Foram feitas expressas menções à regularidade da contratação, à inexistência de vícios e à suficiência da fundamentação para afastar a alegada venda casada e danos morais (fls. 226-227, e-STJ).
+Ademais, a orientação desta Corte é no sentido de que o julgador não está obrigado a rebater, um a um, os argumentos invocados pelas partes, nem a indicar todos os dispositivos legais suscitados, quando tenha encontrado motivação satisfatória para dirimir o litígio, como ocorrera na hipótese. Nesse sentido, confira-se:
+PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. VIOLAÇÃO DO ART. 1.022, II, DO CPC. NÃO OCORRÊNCIA. NOVAÇÃO RECUPERACIONAL. EFEITOS. INAPLICABILIDADE AOS GARANTIDORES. MANUTENÇÃO DAS GARANTIAS E DOS PRIVILÉGIOS. AGRAVO INTERNO DESPROVIDO. 1. No caso, não há ofensa ao art. 1.022 do CPC/2015, porquanto o Tribunal de origem decidiu a matéria de forma fundamentada. O julgador não está obrigado a rebater, um a um, todos os argumentos invocados pelas partes, quando encontra motivação satisfatória para dirimir o litígio. 2. "A jurisprudência do Superior Tribunal de Justiça preleciona que o plano de recuperação judicial opera novação das dívidas a ele submetidas, sendo que, em regra, as garantias reais ou fidejussórias são preservadas, podendo o credor exercer seus direitos contra terceiros garantidores, e impõe a manutenção das ações e execuções contra fiadores, avalistas ou coobrigados em geral." (AgInt no AREsp 2.087.415/RS, Relator Ministro RICARDO VILLAS BÔAS CUEVA, Terceira Turma, julgado em 6/3/2023, DJe de 10/3/2023). 3. Agravo interno desprovido. (AgInt nos EDcl no AREsp n. 2.556.614/RJ, relator Ministro Raul Araújo, Quarta Turma, julgado em 31/3/2025, DJEN de 10/4/2025.)  grifou-se
+PROCESSO CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PREVIDÊNCIA PRIVADA. NEGATIVA DE PRESTAÇÃO JURISDICIONAL AFASTADA. PCAC E RMNR. EXTENSÃO AOS INATIVOS. IMPOSSIBILIDADE. INCIDÊNCIA DAS SÚMULAS N. 5 E 7 DO STJ. PRECEDENTES. SÚMULA N. 83/STJ. DECISÃO MANTIDA. 1. Não há ofensa aos arts. 489 e 1.022 do CPC/2015, porquanto o Tribunal de origem decidiu a matéria de forma fundamentada. O julgador não está obrigado a rebater, um a um, os argumentos invocados pelas partes, quando tenha encontrado motivação satisfatória para dirimir o litígio. 2. O recurso especial não comporta exame de questões que impliquem interpretação de contrato ou revolvimento do contexto fático-probatório dos autos, a teor do que dispõem as Súmulas n. 5 e 7 do STJ. 3. É inviável a extensão aos proventos de complementação de aposentadoria dos mesmos índices de reajuste referentes às verbas denominadas Plano de Classificação e Avaliação de Cargos - PCAC e Remuneração Mínima por Nível e Regime - RMNR -, concedidas aos empregados em atividade por acordo coletivo de trabalho, em razão da ausência de prévia formação da reserva matemática. Precedentes. 4. Agravo interno a que se nega provimento. (AgInt no AREsp n. 1.602.044/RS, relator Ministro Antonio Carlos Ferreira, Quarta Turma, julgado em 7/12/2020, DJe de 14/12/2020.)  grifou-se
+Como se vê, não se vislumbra omissão ou obscuridade, porquanto o acórdão restou devida e suficientemente fundamentado sobre as questões necessárias ao deslinde da controvérsia, não havendo falar em ofensa aos referidos dispositivos.
+Na mesma linha, precedentes: AgRg no REsp 1291104/MG, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 17/05/2016, DJe 02/06/2016; AgRg no Ag 1252154/SP, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 23/06/2015, DJe 30/06/2015; REsp 1395221/SP, Rel. Ministra ELIANA CALMON, SEGUNDA TURMA, julgado em 05/09/2013, DJe 17/09/2013.
+Inexiste, portanto, violação aos artigos 1.022 do CPC, visto que a matéria fora apreciada pelo Tribunal de origem, cuja fundamentação foi clara e suficiente para o deslinde da controvérsia.
+2. A parte insurgente afirma ainda, a ausência de informação clara e adequada na Proposta de Subscrição - Pecúlio Facultativo, tornando os descontos indevidos e acarretando o dever de pagamento de danos morais.
+No particular, a Corte local, a partir da análise dos fatos e provas dos autos, reconheceu a validade da contratação e, por consequência, a licitude dos descontos, bem como a inexistência de dano moral.
+É o que se observa da leitura dos seguintes excertos do acórdão recorrido:
+A apelada comprova a regularidade da contratação ao juntar aos autos a Proposta de Inscrição em Plano Pecúlio e autorização de consignação, ambos assinados pelo apelante, sem qualquer indício de vício de consentimento, falsificação ou fraude documental. (fl. 223, e-STJ)
+No caso em análise, a apelada trouxe aos autos a Proposta de Inscrição em Plano Pecúlio (pág. 138), de onde se extrai a contratação feita pelo ora recorrente ao plano privado que agora sustenta ser indevido. À pág. 139 há, ainda, autorização para consignação em folha de pagamento, débito em conta corrente ou boleto bancário. Registre-se que os documentos acima referidos foram devidamente assinados pelo apelante, não tendo sido demonstrado em momento algum indícios de fraude, montagem ou transplante de assinaturas. Restou, portanto, caracterizado que o apelante aderiu à contribuição questionada, sendo os descontos realizados de forma lícita. Nesse mérito, comprovada a validade da contratação, não há que se falar em restituição dos valores descontados ou indenização por danos materiais. (fls. 226-227, e-STJ)
+Quanto ao dano moral, sua caracterização exige a presença de abalo psíquico relevante ou afronta à dignidade do consumidor, o que não se verifica no caso em análise, uma vez que a cobrança teve origem em contratação válida. (fl. 226, e-STJ)
+Sendo assim, para afastar a afirmação contida no acórdão atacado quanto à comprovação de validade do contrato entabulado, revelar-se-ia necessário o reexame de cláusulas contratuais e das provas juntadas aos autos, providência vedada na via eleita, por força das Súmulas 5 e 7 do STJ.
+Nesse sentido:
+DIREITO DO CONSUMIDOR. AGRAVO EM RECURSO ESPECIAL. COBRANÇA DE TARIFAS EM CONTA DESTINADA AO RECEBIMENTO DE SALÁRIO E IMPENHORABILIDADE DE VERBA SALARIAL. AGRAVO EM RECURSO ESPECIAL DESPROVIDO.
+I. CASO EM EXAME
+1. Agravo em recurso especial interposto contra decisão do Tribunal de Justiça do Estado de São Paulo que inadmitiu o recurso especial pela aplicação das Súmulas n. 7 do STJ e 284 do STF.
+2. A controvérsia diz respeito a ação de restituição de valores c/c indenização por danos materiais e morais, com pedido de suspensão de tarifas bancárias, repetição do indébito em dobro e danos morais, fixado o valor da causa em R$ 10.770,40.
+II- QUESTÃO EM DISCUSSÃO
+3. Há duas questões em discussão: (i) saber se houve falha no dever de informação, nos termos do art. 6º, III, do Código de Defesa do Consumidor; e (ii) saber se houve descontos indevidos sobre verba salarial impenhorável, vedados pelo art. 833, IV, do Código de Processo Civil.
+III. RAZÕES DE DECIDIR
+4. Incide a Súmula n. 7 do STJ, pois a revisão das conclusões sobre a contratação de conta corrente com pacote de serviços e a compatibilidade das movimentações com conta salário demandaria reexame de contrato e extratos bancários.
+5. Quanto à alegada impenhorabilidade do salário, o acórdão reconheceu tratar-se de conta corrente com pacote de serviços regularmente contratado e utilizado, o que afasta a tese de conta salário e impede a revisão em recurso especial pelo mesmo óbice.
+IV. DISPOSITIVO E TESE
+6. Agravo em recurso especial desprovido.
+Tese de julgamento: "1. Aplica-se a Súmula n. 7 do STJ quando a pretensão do recurso especial é a simples reexame de prova".
+Dispositivos relevantes citados: Código de Processo Civil, arts. 833, IV; 85, §11; Código de Defesa do Consumidor, art. 6º, III.
+Jurisprudência relevante citada: STJ, Súmula n. 7.
+(AREsp n. 2.798.058/SP, relator Ministro João Otávio de Noronha, Quarta Turma, julgado em 16/12/2025, DJEN de 22/12/2025.)  grifou-se
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSO CIVIL. AGRAVO NÃO CONHECIDO. IMPUGNAÇÃO AOS FUNDAMENTOS DA DECISÃO DE INADMISSÃO DO APELO NOBRE. PRESENÇA. DECISÃO DA PRESIDÊNCIA. REFORMADA. ARTIGO 1.022 DO CÓDIGO DE PROCESSO CIVIL. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. INEXISTÊNCIA. PLANO DE SAÚDE. REEMBOLSO. DEVER DE INFORMAÇÃO. AUSÊNCIA DE CLAREZA DA RESPECTIVA CLÁUSULA. MODIFICAÇÃO. REEXAME DE PROVAS. INTERPRETAÇÃO DO CONTRATO. SÚMULAS NºS 5 E 7/STJ. ACÓRDÃO. IMPUGNAÇÃO. INSUFICIÊNCIA. SÚMULA Nº 283/STF.
+1. Havendo impugnação a todos os fundamentos da decisão de inadmissão do recurso especial, o agravo em recurso especial deve ser conhecido. Reconsideração da decisão da Presidência do Superior Tribunal de Justiça.
+2. Não há falar em negativa de prestação jurisdicional se o tribunal de origem motiva adequadamente sua decisão, ainda que de forma sucinta, solucionando a controvérsia com a aplicação do direito que entende cabível à hipótese, apenas não no sentido pretendido pela parte.
+3. Na hipótese, rever a conclusão do aresto impugnado a respeito do cumprimento do dever de informação demandaria o reexame de provas e interpretação do instrumento contratual, providências inviáveis no recurso especial (Súmulas nºs 5 e 7/STJ).
+4. A subsistência de fundamento não impugnado apto a manter a conclusão do aresto recorrido impõe o não conhecimento da pretensão recursal. Súmula nº 283/STF.
+5 . Agravo interno provido. Decisão monocrática reconsiderada para conhecer do agravo e não conhecer do recurso especial.
+(AgInt no AREsp n. 2.957.093/SP, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 24/11/2025, DJEN de 1/12/2025.)  grifou-se
+Inafastável a incidência das Súmulas 5 e 7 do STJ.
+Importante consignar que esta Corte de Justiça entende ser cabível a aplicação do quanto enunciado na Súmula 7/STJ também como óbice ao conhecimento do dissídio jurisprudencial, na medida em que, dada a ausência de similitude fática entre o acórdão paradigma e o recorrido, a divergência entre os julgados tem origem em quadros fáticos distintos, não em teses jurídicas opostas.
+Nesse sentido, vejam-se os seguintes precedentes: AgInt nos EDcl no REsp 1582424/TO, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 23/06/2016, DJe 01/07/2016; AgRg no AREsp 748.127/SP, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 10/03/2016, DJe 21/03/2016; AgInt no REsp 1345421/PE, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 13/09/2016, DJe 16/09/2016.
+3. Do exposto, conheço do agravo para conhecer em parte do recurso especial e negar-lhe provimento.
+Por fim, nos termos do art. 85, § 11, do CPC, majoro os honorários advocatícios em 10% (dez por cento) sobre o valor já fixado na origem, observado, se for o caso, o disposto no art. 98, § 3º, do CPC. P
+Publique-se.
+Intimem-se.
+EMENTA
