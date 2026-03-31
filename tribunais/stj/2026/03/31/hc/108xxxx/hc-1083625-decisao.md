@@ -1,0 +1,15 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de DANIEL DE SOUZA contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO proferido no HC n. 2026288-43.2026.8.26.0000
+Extrai-se dos autos que o paciente foi preso em flagrante na data de 30/01/2026, em razão da prática, em tese, do delito previsto no art. 33, caput, da Lei 11.343/06 (tráfico de drogas).
+Narra a denúncia ministerial (fls. 14-16) que, em patrulhamento ostensivo por local conhecido como ponto de tráfico, policiais militares teriam visualizado o paciente entregando objeto não identificado a outro indivíduo e recebendo dinheiro em troca. Com a aproximação da viatura, o terceiro evadiu-se, e o paciente supostamente correu portando uma bolsa preta, ingressando rapidamente em uma residência com a porta aberta. Abordado no interior do imóvel e realizada busca pessoal, foram apreendidas 54 porções de maconha, bem como a quantia total de R$ 484,00 (R$ 204,00 em notas e moedas e R$ 280,00 em notas fracionadas).
+O juízo de primeiro grau converteu a prisão em flagrante em preventiva. Pugnando pela revogação da cautelar prisional, a Defesa impetrou habeas corpus perante a Corte local, que denegou a ordem (fls. 26-31).
+Irresignada, no presente writ, sustenta a ocorrência de constrangimento ilegal em virtude da ausência de fundamentação idônea no decreto prisional, a possibilidade de aplicação de medidas cautelares do art. 319 do CPP, a primariedade técnica do paciente, a ocupação lícita e residência fixa, e, por fim, a desclassificação da conduta para o delito de posse para consumo pessoal, ante a dúvida quanto à destinação das substâncias e ao critério quantitativo.
+Requer, em liminar, a expedição de alvará de soltura para que o paciente responda ao processo em liberdade, e, no mérito, a concessão da ordem para revogar a prisão preventiva.
+É o relatório.
+Decido.
+De início, cumpre destacar que, na estreita via do habeas corpus, exige-se a prévia constituição da prova, devendo a impetração ser devidamente instruída com toda a documentação indispensável à apreciação da pretensão deduzida.
+No caso em exame, entretanto, verifica-se que a parte impetrante deixou de acostar aos autos cópia da decisão de 1º grau que decretou a prisão preventiva do paciente, peça imprescindível à adequada compreensão da controvérsia.
+A ausência de tal documento inviabiliza o conhecimento da impetração, porquanto não se desincumbiu a Defesa do ônus que lhe competia de instruir devidamente o feito. Nesse sentido: AgRg no HC n. 1.006.445/MG, relator Ministro Carlos Cini Marchionatti (Desembargador Convocado TJRS), Quinta Turma, julgado em 12/8/2025, DJEN de 18/8/2025; AgRg no HC n. 995.894/PR, relator Ministro Messod Azulay Neto, Quinta Turma, julgado em 24/6/2025, DJEN de 30/6/2025; PET no HC n. 941.704/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 16/10/2024, DJe de 22/10/2024.
+Ante o exposto, indefiro liminarmente o presente habeas corpus.
+Publique-se. Intimem-se.
+ EMENTA
