@@ -1,0 +1,17 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido de liminar, impetrado em favor de ELIANE DA SILVA KOLLING e ALTEMIR PEDRO BRAGA, apontando como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO GRANDE DO SUL, nos autos do HC n. 5370710-03.2025.8.21.7000.
+Consta dos autos que os pacientes foram presos preventivamente pela suposta prática de crimes relacionados ao art. 33, caput, da Lei n. 11.343/2006 e ao delito de lavagem de dinheiro, no contexto de investigação de organização criminosa, tendo o decreto de prisão sido proferido em 17 de setembro de 2025 e os mandados cumpridos em 18 de novembro de 2025.
+Irresignada, a Defesa impetrou writ originário perante o Tribunal de origem, que denegou a ordem (fls. 27-32).
+Neste habeas corpus, o impetrante sustenta que inexiste fumus comissi delicti para respaldar a custódia, pois os indícios apontados na investigação se resumem a supostos repasses de valores vinculados a outros investigados, que seriam, na verdade, pagamentos decorrentes de negociação imobiliária lícita, formalizada por contrato firmado em 2021.
+Afirma, ainda, que a denúncia oferecida não imputa aos pacientes a prática de tráfico de drogas, o que evidenciaria dissociação entre o fundamento utilizado no acórdão impugnado para manter a preventiva e a peça acusatória.
+Argumenta a ausência de contemporaneidade dos fatos justificadores da medida extrema, destacando que os diálogos e registros utilizados na representação policial datam de 2021 e 2022, enquanto a apreensão dos aparelhos se deu em 27 de junho de 2024, sem qualquer fato atual ou novo que demonstre risco concreto à ordem pública, à instrução criminal ou à aplicação da lei penal.
+Defende que o Ministério Público, ao oferecer a denúncia, não requereu a manutenção da prisão preventiva dos pacientes, de modo que não haveria justa causa para a continuidade da custódia cautelar. Expõe condições pessoais favoráveis e comportamento processual colaborativo, com histórico de cumprimento de medidas cautelares diversas em outro feito.
+Requer, liminarmente e no mérito, a revogação das prisões preventivas, com expedição de alvarás de soltura; subsidiariamente, pugna pela substituição das custódias por medi das cautelares do art. 319 do Código de Processo Penal.
+É o relatório.
+Decido.
+De início, cumpre destacar que, na estreita via do habeas corpus, exige-se a prévia constituição da prova, devendo a impetração ser devidamente instruída com toda a documentação indispensável à apreciação da pretensão deduzida.
+No caso em exame, entretanto, verifica-se que a parte impetrante deixou de acostar aos autos cópia da decisão que decretou a prisão preventiva dos pacientes e das posteriores que mantiveram o decreto prisional, peças imprescindíveis à adequada compreensão da controvérs ia.
+A ausência de tais documentos inviabiliza o conhecimento da impetração, porquanto não se desincumbiu a Defesa do ônus que lhe competia de instruir devidamente o feito. Nesse sentido: AgRg no HC n. 1.006.445/MG, relator Ministro Carlos Cini Marchionatti (Desembargador Convocado TJRS), Quinta Turma, julgado em 12/8/2025, DJEN de 18/8/2025; AgRg no HC n. 995.894/PR, relator Ministro Messod Azulay Neto, Quinta Turma, julgado em 24/6/2025, DJEN de 30/6/2025; PET no HC n. 941.704/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 16/10/2024, DJe de 22/10/2024.
+Ante o exposto, indefiro liminarmente o presente habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
