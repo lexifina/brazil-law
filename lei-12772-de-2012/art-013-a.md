@@ -1,0 +1,1 @@
+Art. 13-A. O efeito financeiro da progressão e da promoção a que se refere o caput do art. 12 ocorrerá a partir da data em que o docente cumprir o interstício e os requisitos estabelecidos em lei para o desenvolvimento na carreira.
