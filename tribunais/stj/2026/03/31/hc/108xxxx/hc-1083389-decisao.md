@@ -1,0 +1,45 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em benefício de RENAN SILVA PEIXOTO, contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO DE JANEIRO no julgamento da APELAÇÃO n. 0801089-93.2025.8.19.0050.
+Extrai-se dos autos que o paciente foi condenado às penas de 5 anos de reclusão, no regime semiaberto, e ao pagamento de 500 dias-multa, em virtude da prática do delito tipificado no art. 33 da Lei n. 11.343/06 (tráfico de drogas).
+A apelação manejada pela defesa restou desprovida, por acórdão que restou assim ementado:
+"DIREITO PENAL E PROCESSUAL PENAL. APELAÇÃO CRIMINAL. TRÁFICO DE DROGAS. SENTENÇA CONDENATÓRIA. PRETENSÃO ABSOLUTÓRIA. INSUFICIÊNCIA PROBATÓRIA. INOCORRÊNCIA. DESCLASSIFICAÇÃO PARA O ART. 28 DA LEI Nº 11.343/06. IMPOSSIBILIDADE. ART. 28, §2º. CIRCUNSTÂNCIAS DO FLAGRANTE E ACONDICIONAMENTO TÍPICO DA MERCANCIA. TRÁFICO PRIVILEGIADO. INAPLICABILIDADE. ENVOLVIMENTO COM O TRÁFICO. DOSIMETRIA E REGIME SEMIABERTO. MANUTENÇÃO. SUBSTITUIÇÃO DA PENA E SURSIS. INCABÍVEIS. CUSTAS PROCESSUAIS. MATÉRIA AFETA À EXECUÇÃO. RECURSO DESPROVIDO.
+I. CASO EM EXAME
+1. Apelação Criminal interposta contra sentença que condenou o acusado como incurso no art. 33, caput, da Lei nº 11.343/06, fixando pena de 05 (cinco) anos de reclusão, em regime inicial semiaberto, e 500 (quinhentos) dias-multa.
+II. QUESTÃO EM DISCUSSÃO
+2. A questão em discussão judicial consiste em saber (i) se há insuficiência probatória apta a ensejar absolvição (art. 386, VII, CPP); (ii) se é cabível a desclassificação para a conduta do art. 28 da Lei nº 11.343/06; (iii) se incide a causa especial de diminuição do art. 33, §4º, da Lei nº 11.343/06; (iv) se há reparos na dosimetria e no regime inicial; (v) se é possível substituir a pena privativa de liberdade por restritivas de direitos ou conceder sursis; e (vi) se é possível afastar a condenação ao pagamento das custas processuais por hipossuficiência.
+III. RAZÕES DE DECIDIR
+3. O conjunto probatório coligido aos autos revelou-se suficiente para sustentar a autoria e a materialidade do delito descrito no artigo 33 c/c art.40, VI, ambos da Lei nº 11.343/06, não havendo fragilidade probatória apta a justificar a absolvição. A narrativa dos Policiais Militares responsáveis pela prisão em flagrante se mostrou coerente, convergente e corroborada por provas materiais, tais como o auto de apreensão, os laudos de exames em entorpecentes e a quantidade e diversidade dos itens encontrados.
+4. Inviável a absolvição por insuficiência probatória: o acervo probatório não se limita à palavra policial, sendo corroborado pelos elementos objetivos de apreensão e perícia, bem como pela dinâmica descrita no flagrante (monitoramento prévio, ocultação do recipiente e localização imediata das drogas).
+5. Desclassificação para o art. 28 da Lei nº 11.343/06 afastada. À luz do art. 28, §2º, as circunstâncias do caso (local de intensa traficância, forma de acondicionamento com inscrições/etiquetas típicas do comércio ilícito e contexto da abordagem) evidenciam destinação mercantil, não havendo prova produzida pela defesa que sustente uso pessoal.
+6. Tráfico privilegiado incabível. Ausência de preenchimento cumulativo dos requisitos, o acusado é conhecido pelo envolvimento com o tráfico de drogas, o que afasta impreterivelmente a aplicação da referida causa de diminuição.
+7. Dosimetria e regime prisional adequados. Substituição da pena privativa de liberdade por restritivas de direitos e suspensão condicional da pena. Inviabilidade.
+8. Condenação em custas processuais decorre de consectário legal (art. 804, CPP), sendo a análise da exigibilidade/suspensão matéria afeta ao Juízo da Execução, nos termos da Súmula nº 74 do TJRJ.
+IV. DISPOSITIVO E TESE
+9. Recurso conhecido e desprovido.
+Dispositivos relevantes citados: Lei nº 11.343/2006, arts. 28, §2º, 33, caput, e 33, §4º; CP, arts. 33, §2º, alín. "b", 44, inc. I, e 77; CPP, arts. 41, 156, 386, inc. VII, e 804." (fls. 37/38)
+Os embargos de declaração foram rejeitados, por aresto de fls. 13/17.
+No presente writ, a defesa sustenta que o paciente faz jus à causa de diminuição de pena prevista no § 4º do art. 33 da Lei n. 11.343/2006.
+É o relatório.
+Decido.
+Diante da hipótese de habeas corpus substitutivo de recurso próprio, a impetração sequer deveria ser conhecida, segundo orientação jurisprudencial do Supremo Tribunal Federal e do próprio Superior Tribunal de Justiça.
+Ademais, não se verifica a existência de constrangimento ilegal a justificar a concessão da ordem de ofício.
+Por oportuno, confira-se o que restou assentado no julgado atacado:
+"Para o reconhecimento da causa de diminuição do tráfico privilegiado, não basta que o agente seja primário e de bons antecedentes, sendo necessário também que não se dedique às atividades criminosas e nem integre organização criminosa, o que não é o caso dos autos, haja vista que o acusado é conhecido pelo envolvimento com o tráfico de drogas, o que afasta impreterivelmente a aplicação da referida causa de diminuição.
+Além disso, nota-se que o exame do caso apontou efetivamente para o fato de que o acusado foi preso em flagrante em área destinada pela facção criminosa autointitulada como sendo do comando vermelho, em ponto de comercialização de drogas, o que, nessas condições, reforça a conclusão de seu envolvimento com a atividade criminosa.
+Nessas circunstâncias fáticas, inegavelmente que não se encontram evidenciados os requisitos exigidos pela norma do parágrafo 4º do artigo 33 da Lei nº 11.343/06, o que afasta a pretensão erigida pela defesa técnica." (fl. 53)
+Assim, constata-se que o Tribunal de origem negou a aplicação da causa especial de diminuição da pena do § 4º do art. 33 da Lei n. 11.343/2006, considerando que o paciente se dedicava a atividades criminosas, notadamente por estar comercializando drogas em local dominado pela organização criminosa denominada Comando Vermelho, de modo que ele não preencheria os requisitos para a diminuição da reprimenda.
+A modificação dessa conclusão demanda o revolvimento de matéria fática, o que é vedado em habeas corpus. Nesse sentido, são os seguintes julgados:
+PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS. CAUSA DE DIMINUIÇÃO DO ART. 33, § 4º, DA LEI N. 11.343/2006. INAPLICABILIDADE. DEDICAÇÃO À ATIVIDADE CRIMINOSA EVIDENCIADA. DETRAÇÃO PENAL. TEMA NÃO DEBATIDO NA CORTE DE ORIGEM. SUPRESSÃO DE INSTÂNCIA. CONSTRANGIMENTO ILEGAL NÃO VERIFICADO. AGRAVO NÃO PROVIDO.
+1. A teor do disposto no § 4º do art. 33 da Lei n. 11.343/2006, os condenados pelo crime de tráfico de drogas poderão ter a pena reduzida, de um sexto a dois terços, quando forem reconhecidamente primários, possuírem bons antecedentes e não se dedicarem a atividades delituosas ou integrarem organização criminosa.
+2. No caso, o Tribunal de origem afastou o redutor por entender que as circunstâncias do delito e as provas colhidas em juízo denotam a habitualidade delitiva do paciente no tráfico de drogas, pois, além dos cerca de 138 kg de maconha, foram apreendidas anotações relativas ao comércio espúrio junto aos entorpecentes.. Logo, a modificação desse entendimento, a fim de fazer incidir a minorante da Lei de Drogas, enseja o reexame do conteúdo probatório dos autos, o que é inadmissível em sede de habeas corpus. Precedentes.
+3. O tema relativo à alteração do regime prisional pela detração penal, nos termos do art. 387, § 2º, do Código de Processo Penal, não foi debatido na Corte de origem, o que impede sua análise diretamente por este Tribunal Superior.
+4. Agravo regimental não provido.
+(AgRg no HC n. 902.562/SP, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 20/5/2024, DJe de 23/5/2024.)
+PENAL E PROCESSUAL PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS. APLICAÇÃO DO REDUTOR DO § 4º DO ART. 33 DA LEI N. 11.343/2006. IMPOSSIBILIDADE. DEDICAÇÃO A ATIVIDADES CRIMINOSAS. PACIENTE QUE NÃO SE TRATA DE TRAFICANTE EVENTUAL. AGRAVO REGIMENTAL DESPROVIDO.
+1. O redutor da pena inserto no § 4º do art. 33 da Lei de Drogas foi afastado em decorrência dos elementos fáticos apurados na instrução processual, que demostraram que o agente dedicava-se à atividade criminosa a partir de circunstâncias concretas evidenciadas nos autos além da quantidade de droga apreendida. No ponto, destacou-se que foram apreendidos os entorpecentes e os petrechos, parte dos quais apresentavam resquícios de cocaína e maconha, além de dinheiro, bem como das fotografias de drogas e das mensagens encontradas no aparelho celular do agravante, com pedidos de compra de entorpecente por terceiros, indicando que não o fazia pela primeira vez. A modificação desse entendimento demandaria o exame aprofundado de provas, o que é vedado na estreita via do habeas corpus.
+2. Agravo regimental desprovido.
+(AgRg no HC n. 877.618/SP, de minha relatoria, Quinta Turma, julgado em 18/3/2024, DJe de 20/3/2024.)
+Ante o exposto, com fulcro no art. 210 do Regimento Interno do Superior Tribunal de Justiça, indefiro liminarmente o presente habeas corpus .
+Publique-se.
+Intimem-se.
+EMENTA
