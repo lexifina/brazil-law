@@ -1,0 +1,48 @@
+DECISÃO
+
+Trata-se de Execução Penal autuada em face de MARCELO EBERLE MOTTA, decorrente da Ação Penal 2.419/DF julgada procedente, para CONDENAR O RÉU à pena de 17 (dezessete) anos, sendo 15 (quinze) anos e 6 (seis) meses de reclusão e 1 (um) ano e 6 (seis) meses de detenção, e 100 (cem) dias-multa, cada dia multa no valor de 1/3 (um terço) do salário-mínimo, em regime inicial fechado para o início do cumprimento da pena, pois incurso nos artigos:
+
+- 359-L (abolição violenta do Estado Democrático de Direito) do Código Penal, à pena de 5 (cinco) anos e 6 (seis) meses de reclusão;
+- 359-M (Golpe de Estado) do Código Penal, à pena 6 (seis) anos e 6 (seis) meses de reclusão;
+- 163, parágrafo único, I, II, III e IV (dano qualificado), do Código Penal, à pena de  1 (um) ano e 6 (seis) meses de detenção e 50 (cinquenta) dias-multa, fixando cada dia-multa em 1/3 (um terço) do salário mínimo;
+- 62, I (deterioração do Patrimônio tombado), da Lei 9.605/1998, à pena de 1 (um) ano e 6 (seis) meses de reclusão e 50 (cinquenta) dias-multa, fixando cada dia-multa em 1/3 (um terço) do salário mínimo.
+- 288, parágrafo único (associação criminosa armada), do Código Penal, à pena de 2 (dois) anos de reclusão.
+
+O réu também foi condenado ao pagamento do valor mínimo indenizatório a título de danos morais coletivos de R$ 30.000.000,00 (trinta milhões de reais), a ser adimplido de forma solidária pelos demais condenados, em favor do fundo a que alude o art. 13 da Lei 7.347/1985.
+Foi fixado o regime fechado para o início do cumprimento da pena.
+O acórdão condenatório transitou em julgado em 28/10/2025 (eDoc. 307).
+Em 5/11/2025, em razão do trânsito em julgado da Ação Penal, determinei o início do cumprimento da pena de reclusão, em regime fechado, imposta a MARCELO EBERLE MOTTA (eDoc.308).
+Em 11/11/2025, o Centro de Remanejamento do Sistema Prisional de Juiz de Fora/MG, remeteu informações sobre o estado de saúde do apenado, e apresentou a seguinte conclusão técnica: “No momento, o paciente apresentando quadro clínico estável. Possui as enfermidades: epilepsia, dor crônica e osteomielite. Relato de estar em uso regular de suas medicações. Prescrito medicação analgésica e associado pregabalina 75mg à noite para tratamento de dor crônica. Tratamento recente de otite média aguda” (eDoc. 147).
+Em 4/12/2025, o Juízo da Vara de Execuções Criminais da Vara de Juiz de Fora/MG, remeteu o atestado de pena a cumprir atualizado (eDoc. 149).
+Em 9/01/2026, a defesa do apenado apresentou manifestação em que requer: “1)A retificação do “motivo do desligamento da monitoração eletrônica, no Atestado Carcerário, para excluir a indevida inserção de “descumprimento; 2) A inclusão das horas de restrição à liberdade no período da monitoração eletrônica no tempo de detração da pena; 3) A expedição de ofício ao i. Diretor da instituição prisional que acautela o condenado, para que preste informações sobre comportamento, atividade laboral e educacional do condenado, para fins detração da pena” (eDoc. 150).
+A Procuradoria-Geral da República, em 16/1/2026, manifestou-se: “pelo parcial reconhecimento do direito à detração penal ao condenado, contabilizando-se apenas os períodos de prisão cautelar (de 27.1.2023 a 15.12.2023 e de 27.2.2025 até o início do cumprimento da pena de reclusão fixada na condenação)”.
+Em decisão de 19/1/2026, indeferi o pedido de detração do período de cumprimento das medidas cautelares diversas da prisão;  indeferi o pedido de detração do período de prisão cautelar, pois já devidamente contabilizada no atestado de pena a cumprir; indeferi o pedido de retificação do atestado carcerário, por ausência de prova da existência do vício alegado; e determinei que fosse oficiado o Diretor da instituição prisional onde se encontra o apenado, para que prestasse informações sobre comportamento, atividade laboral e educacional do condenado, para fins de remição da pena, no prazo de 5 (cinco) dias (eDoc. 156).
+Em 26/1/2026, a defesa do sentenciado interpôs agravo regimental (eDoc. 160).
+Em 30/01/2026, a Procuradoria-Geral da República manifestou-se pelo não provimento do agravo regimental (eDoc. 164).
+Em 12/2/2026, a defesa do apenado apresentou requerimento de autorização de matrícula em curso EAD, bem como o acesso aos meios necessários à realização das atividades acadêmicas, observadas as normas de segurança da unidade prisional (eDoc. 165).
+Os autos foram remetidos à Procuradoria-Geral da República, para manifestação.
+Em 15/2/2026, a defesa de MARCELO EBERLE MOTTA, ao argumento de que “a condição atual do requerente inspira maiores preocupações, pela frequência e violência das crises convulsivas noturnas, levando a um justificado temor de uma próxima resulte em óbito”, requereu: “a) Seja determinado o urgente encaminhamento do apenado ao atendimento especializado, com a presteza que seu quadro epilético exige, de modo a evitar o potencial óbito decorrente de crise convulsiva epiléptica; b) Em caso de impossibilidade de atendimento imediato por especialista, que lhe seja deferida, excepcionalmente, a prisão domiciliar, a lhe permitir a consulta com médico especialista e adequado tratamento, em condições a serem determinadas pelo d. Ministro Relator”.
+Em 23/02/2026, a Procuradoria-Geral da República assim se manifestou: “A manifestação é pela intimação da defesa para, querendo, complementar o pedido de autorização para matrícula em curso EAD com a documentação adequada. Registra, por fim, que aguarda informações do Diretor da instituição prisional onde se encontra o apenado Marcelo Eberle Motta sobre o seu estado de saúde” (eDoc. 182).
+Em 26/02/2026, determinei que fosse reiterado o ofício ao Diretor do Centro de Remanejamento Provisório do Sistema Prisional de Juiz de Fora/MG, com cópia da petição STF nº 16.102/2026, para que prestasse informações acerca do alegado pela defesa, no prazo de 24 (vinte e quatro) horas. Da mesma forma, acolhi  o parecer da Procuradoria-Geral da República e determinei a intimação da defesa, para complementar o pedido de autorização para matrícula em curso EAD com a documentação adequada, no prazo de 5 (cinco) dias (eDoc. 187).
+Em 02/03/2026, a defesa se manifestou no seguinte sentido: “informar que a condição apontada pela P.G.R. foi implementada com a juntada do documento de peça 185, que resume as condições do contrato de prestação de serviços educacionais. Outrossim, requer o redirecionamento do ofício citado na decisão para a correta unidade prisional, uma vez que o apenado não se encontra no Centro de Remanejamento Provisório, mas na Penitenciária José Edson Cavalieri, localizada à Rua Diva Garcia, 3351, Bairro Linhares, em Juiz de Fora – MG” (eDoc. 192).
+Em 04/03/2026, determinei a expedição de ofício para a  Penitenciária José Edson Cavalieri, localizada à Rua Diva Garcia, 3351, Bairro Linhares, em Juiz de Fora – MG, com cópia da petição STF nº 16.102/2026, para que prestasse informações acerca do alegado pela defesa (eDoc. 194).
+Em 25/03/2026, o Diretor-Geral da Penitenciária José Edson Cavalieri apresentou informações (eDoc. 203).
+Em 31/03/2026, a Procuradoria-Geral da República manifestou-se: “(...) pelo indeferimento do pedido de prisão domiciliar e pela expedição de ofício à unidade prisional para que informe se há autorização ou convênio prévio entre a Sociedade de Ensino Superior Estácio de Sá e o poder público para realização do curso de graduação em Gestão de Recursos Humanos” (eDoc. 205).
+Atualmente, o apenado tem 46 (quarenta e seis) anos de idade, cumprindo a pena de  17 (dezessete) anos em regime fechado. O réu foi preso preventivamente em 27/01/2023. Em 15/12/2023 foi concedida liberdade provisória. No dia 27/02/2025 o réu foi novamente preso preventivamente, encontrando-se preso desde então. O apenado cumpriu, até a presente data, 1 (um) ano, 11 (onze) meses e 24 (vinte e quatro) dias.
+
+É o relatório. DECIDO.
+
+A defesa aponta o agravamento do estado de saúde do sentenciado,  a autorizar a excepcional concessão de prisão domiciliar humanitária.
+O quadro clínico do apenado foi objeto de análise pela equipe de saúde da unidade prisional. O Relatório Médico juntado aos autos (eDoc. 203, p. 2) informa que o sentenciado, diagnosticado com Epilepsia e discopatia degenerativa da coluna vertebral, recebe atendimento médico e multidisciplinar da equipe do Núcleo de Saúde Prisional, com fornecimento de medicação, orientações e cuidados médicos e de enfermagem.
+O mesmo relatório esclarece que, embora a unidade não disponha de médicos especialistas como neurologista e ortopedista, a realização de consultas e exames complementares é viabilizada por meio de agendamento na rede pública de saúde (SUS) ou por meio de consultas particulares agendadas pela família, assegurado o apoio de escolta e da equipe de segurança do sistema prisional (eDoc. 203, p. 2).
+
+Diante do exposto, nos termos do artigo 21 do RiSTF, em complementação às informações enviadas à juízo, DETERMINO que uma junta médica examine MARCELO EBERLE MOTTA, no prazo de 5 (cinco) dias, e envie o relatório circunstanciado aos autos.
+DETERMINO, ainda, que, no prazo de 48 (quarenta e oito) horas: (a) a unidade prisional informe se há autorização ou convênio prévio entre a Sociedade de Ensino Superior Estácio de Sá e o poder público para realização do curso de graduação em Gestão de Recursos Humanos; (b) o Juízo da Vara de Execuções Penais de Juiz de Fora remeta o atestado de pena a cumprir atualizado.
+Intimem-se os advogados regularmente constituídos.
+Ciência à Procuradoria-Geral da República.
+Publique-se.
+Brasília, 31 de março de 2026.
+
+Ministro ALEXANDRE DE MORAES
+Relator
+Documento assinado digitalmente
