@@ -1,0 +1,53 @@
+DECISÃO: Trata-se de agravo contra inadmissibilidade de recurso extraordinário em face de acórdão do Tribunal de Justiça do Estado de São Paulo, cuja ementa transcrevo:
+
+“AÇÃO REVISIONAL DE IPTU. São Paulo. Sentença de procedência, para determinar seja calculado o tributo com base no valor venal do imóvel apurado em perícia judicial, realizada em ação pretérita, e sem a majoração por excesso de área. Irresignação do Município réu. Cabimento em parte. Lançamento tributário do exercício de 2020 que se deu incontroversamente com base em valor venal equivocado, maior que aquele efetivamente apurado em prova técnica produzida em ação revisional para os exercícios de 2016 e 2017, com a qual a Municipalidade expressamente anuiu. Necessidade de revisão do IPTU nesse ponto. Reforma da r. sentença, todavia, no que se refere ao afastamento da penalização por excesso de área. Majoração prevista em lei ordinária, e não em mero decreto. Princípio da legalidade observado 'in casu'. Restrições edilícias impostas pelo loteador que não são capazes de afastar a penalização em comento, ante a previsão do art.123 do CTN e o fato de que tais restrições não são absolutas. Ação julgada parcialmente procedente, para se determinar que a revisão do lançamento se limite ao valor venal do imóvel apurado em perícia. Sucumbência recíproca configurada. Recurso provido em parte”. (eDOC 34)
+
+No recurso extraordinário, interposto com fundamento no art. 102, III, a e d, da Constituição Federal, aponta-se a violação dos arts. 5º, II, XXIII, XXVIII e XXXVI, 93, IX, 150, I e III, a, e 182, § 4º, do texto constitucional.
+Nas razões recursais, alega-se, em síntese, que é indevida a majoração, por excesso de área, do IPTU referente ao imóvel no qual reside o recorrente.
+ É o relatório.
+
+Decido.
+A pretensão recursal não merece prosperar.
+Quanto ao art. 93, IX, da Constituição Federal, o recurso extraordinário é manifestamente improcedente, por esbarrar no entendimento firmado por esta Suprema Corte no julgamento do Tema 339 da Repercussão Geral, conforme se pode depreender da tese abaixo transcrita:
+
+“O art. 93, IX, da Constituição Federal exige que o acórdão ou decisão sejam fundamentados, ainda que sucintamente, sem determinar, contudo, o exame pormenorizado de cada uma das alegações ou provas”. (AI 791.292 QO-RG, de minha relatoria, Tribunal Pleno, DJe 13.8.2010)
+
+Passando aos demais dispositivos constitucionais supostamente violados, reproduzo, inicialmente, as teses fixadas pelo Supremo Tribunal Federal nos Temas 94, 155 e 523 da Repercussão Geral:
+
+“É constitucional a Emenda Constitucional nº 29, de 2000, no que estabeleceu a possibilidade de previsão legal de alíquotas progressivas para o IPTU de acordo com o valor do imóvel”. (RE 586.693, Rel. Min. Marco Aurélio, Tribunal Pleno, DJe 22.6.2011)
+
+“É inconstitucional a lei municipal que tenha estabelecido, antes da Emenda Constitucional 29/2000, alíquotas progressivas para o IPTU, salvo se destinada a assegurar o cumprimento da função social da propriedade urbana”. (AI 712.743 QO-RG, Rel. Min. Ellen Gracie, Tribunal Pleno, DJe 8.5.2009)
+
+“São constitucionais as leis municipais anteriores à Emenda Constitucional n° 29/2000, que instituíram alíquotas diferenciadas de IPTU para imóveis edificados e não edificados, residenciais e não residenciais”. (RE 666.156, Rel. Min. Roberto Barroso, Tribunal Pleno, DJe 16.6.2020)
+
+Transcrevo trecho do acórdão prolatado pelo TJSP:
+
+“Ocorre que, muito embora o ente municipal tenha sustentado que o fez com base no art. 53 do Anexo Único do Decreto nº 58.420, de 14 de setembro de 2018, é certo que, pela leitura desse dispositivo normativo, ele apenas consolida o artigo 9º, I, da Lei Municipal nº 10.235/86, que assim dispõe:
+[...]
+Ora, em nenhum momento, o decreto em questão, por meio de seu anexo único, inovou no ordenamento jurídico. Ele apenas consolidou as Leis Tributárias do Município de São Paulo no tocante às matérias elencadas nos incisos do art. 1º, dentre as quais o Imposto sobre a Propriedade Predial e Territorial Urbana, tudo em estrita observância ao princípio da legalidade (art.150, I, da Constituição Federal, combinado com o art.97 do CTN) e à determinação constante do art.212 do CTN, 'in verbis':
+[...]
+O amparo legal do excesso de área em apreço como visto, alicerçado no art.9º, I, da Lei Municipal nº 10.235/86 já foi reconhecido em precedente deste E. Tribunal, como se vê abaixo:
+[...]
+Acresça-se que, diante da superveniência da Lei Municipal nº 16.272/15, especialmente do seu artigo 2º, o limitador de variação nominal para fins de cálculo do IPTU, ou a chamada 'trava' de aumento, que se encontra no art. 9º da Lei Municipal nº 15.889/13, foi suprimido para os imóveis não edificados ou edificados, mas com excesso de área, de modo que, como bem destacou o ente público no seu apelo, o acréscimo de IPTU pelo excesso de área, ainda que acima de referido limitador, encontra sim amparo e permissivo legais.
+Também merece ser colacionado o seguinte julgado deste E. Tribunal, igualmente proferido nesse sentido:
+[...]
+Superada a controvérsia formal acerca da majoração em questão, certo é que as partes também divergem no tocante à sua aplicabilidade material no caso concreto, sustentando o autor apelado, por um lado, que o excesso de área – fato incontroverso – se deve a limitações edilícias impostas pelo próprio loteador e, por isso, o subaproveitamento do imóvel decorreria de normas urbanístico-ambientais; já o Município, por sua vez, defende que essas restrições foram convencionadas por particulares, além de que elas não mais se coadunam com a realidade social contemporânea do bairro do Morumbi, que vem sofrendo com exponencial aumento da densidade populacional nos últimos anos.
+Nesse ponto, é certo que o artigo 182, §4º, inciso II, da Constituição Federal permite a imposição de IPTU progressivo, nos termos de Lei Municipal, de forma a assegurar o cumprimento da função social da propriedade, inexistindo qualquer dúvida da plena autonomia municipal em tratar de forma diferenciada os imóveis que tenham excesso de área ou não estejam edificados, como no caso dos autos.
+Especificamente analisando o caso concreto, é inegável que as limitações impostas ao contribuinte apelado (cujo imóvel, incontroversamente, é fruto do englobamento de quatro lotes fiscais e é constituído por dois lotes do loteamento) foram impostas voluntariamente entre particulares, de modo que não podem se sobrepor à legislação tributária acerca da matéria 'sub judice', tudo nos termos do artigo 123 do Código Tributário Nacional. Do mesmo modo, também não ficou minimamente controvertido o fato de que, nos termos da escritura de compra e venda, as limitações edilícias em apreço não são absolutas, mas, ao contrário, podem ser alteradas por acordo escrito (fls.70/71).
+Não se olvida, por um lado, que as restrições edilícias impostas constituem diretrizes de notável importância urbanística nos loteamentos das grandes cidades brasileiras, caso das limitações impostas ao imóvel 'sub judice'. Por outro lado, tampouco se pode desconsiderar que, como bem defendeu o Fisco Paulistano em contestação, a incidência de IPTU adicional “visa dar efetivo cumprimento ao princípio da função social da propriedade, evitando a manutenção de áreas subutilizados diante da verdadeira crise habitacional vivenciada pelas grandes metrópoles” (fl.204)”. (eDOC 97)
+
+Verifica-se, portanto, que divergir do entendimento firmado pelo Tribunal de origem acerca da majoração do IPTU, por excesso de área do imóvel, demandaria o reexame do acervo fático-probatório, bem como a interpretação de legislação infraconstitucional, inclusive local (Código Tributário Nacional, assim como Leis 10.235/1986, 15.889/2013 e 16.272/2015, do Município de São Paulo), providências inviáveis em sede de recurso extraordinário.
+Assim, a ofensa à Constituição, se existente, seria reflexa ou indireta, o que inviabiliza o processamento do presente recurso. Ademais, incidem, na espécie, as Súmulas 279 e 280 do Supremo Tribunal Federal. Nesse sentido, cito julgado do Plenário desta Corte:
+
+“Direito Tributário. Agravo interno em recurso extraordinário com agravo. IPTU. Alíquotas progressivas. Imóvel não edificado localizado em condomínio. Súmulas 279 e 280/STF. I. Caso em exame 1. Agravo interno contra decisão que negou seguimento a recurso extraordinário com agravo, o qual tem por objeto acórdão que manteve sentença de improcedência do pedido. II. Questão em discussão 2. Preenchimento dos pressupostos de admissibilidade do recurso extraordinário com agravo. III. Razão de decidir 3. A petição de agravo não trouxe novos argumentos aptos a desconstituir a decisão agravada, a qual deve ser mantida pelos seus próprios fundamentos. 4. Hipótese em que, para dissentir do entendimento firmado pelo Tribunal de origem, seria necessário analisar a legislação infraconstitucional aplicada ao caso, assim como reexaminar fatos e provas constantes dos autos, procedimentos vedados neste momento processual (Súmulas 279 e 280/STF). IV. Dispositivo 5. Inaplicável o art. 85, § 11, do CPC/2015, uma vez que não houve prévia fixação de honorários advocatícios de sucumbência. 6. Agravo interno a que se nega provimento, com a aplicação da multa de 1% (um por cento) sobre o valor atualizado da causa, nos termos do art. 1.021, § 4°, do CPC/2015”. (ARE 1.512.417 AgR, Rel. Min. Luís Roberto Barroso (Presidente), Tribunal Pleno, DJe 10.10.2024)
+
+Confira-se também a seguinte decisão: ARE 1.267.422, de minha relatoria, DJe 22/6/2020.
+Por fim, constato que a parte, ao interpor o recurso extraordinário com fundamento no art. 102, III, d, da Constituição Federal, não apontou que o TJSP teria julgado válida lei local contestada em face de lei federal.
+Com efeito, ressalto que a orientação sumulada desta Corte é no sentido de que é inadmissível o recurso extraordinário quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia. Registre-se que é necessária, para a admissão do recurso extraordinário, a correta adequação das razões recursais à hipótese de cabimento indicada, o que não ocorreu no caso dos autos, motivo pelo qual incide, na hipótese, em relação ao art. 102, III, d, da Constituição, a Súmula 284 do STF.
+Ante o exposto, nego seguimento ao recurso (art. 932, VIII, do CPC, c/c art. 21, §1º, do RISTF) e, tendo em vista o disposto no art. 85, § 11, do CPC, majoro, em 10%, o valor da verba honorária fixada anteriormente, observados os limites previstos nos §§ 2º e 3º do referido dispositivo, ressalvada a eventual concessão do benefício da justiça gratuita.
+ Publique-se.
+Brasília, 31 de março de 2026.
+
+Ministro GILMAR MENDES
+Relator
+Documento assinado digitalmente
