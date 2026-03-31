@@ -1,0 +1,6 @@
+Art. 132-A. A partir de 1º de julho de 2012, para fins de incorporação da GDAIPEA aos proventos de aposentadoria ou às pensões, serão adotados os seguintes critérios:
+I - para as aposentadorias e pensões instituídas até 19 de fevereiro de 2004, a GDAIPEA será correspondente a 50 (cinquenta) pontos, considerados o nível, classe e padrão do servidor;
+II - para as aposentadorias e pensões instituídas após 19 de fevereiro de 2004:
+a) quando percebidas por período igual ou superior a 60 (sessenta) meses e aos servidores que deram origem à aposentadoria ou à pensão se aplicar o disposto nos arts. 3º e 6º da Emenda Constitucional nº 41, de 19 de dezembro de 2003, e no art. 3º da Emenda Constitucional nº 47, de 5 de julho de 2005, aplicar-se-á a média dos pontos recebidos nos últimos 60 (sessenta) meses; e
+b) quando percebidas por período inferior a 60 (sessenta) meses, aos servidores de que trata a alínea a deste inciso aplicar-se-ão os pontos constantes do inciso I do caput; e
+III - para as aposentadorias e pensões que não se enquadrem nas hipóteses previstas nos incisos I e II do caput, aplicar-se-á, para fins de cálculo das aposentadorias e pensões, o disposto na Lei nº 10.887, de 18 de junho de 2004.

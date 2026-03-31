@@ -1,0 +1,1 @@
+Art. 18-B. A partir de 1º de janeiro de 2025, a estrutura dos cargos de Auditor Federal de Finanças e Controle e de Técnico Federal de Finanças e Controle passa a ser a constante do Anexo IV-C a esta Lei, observada a correlação estabelecida na forma do Anexo IV-D desta Lei.

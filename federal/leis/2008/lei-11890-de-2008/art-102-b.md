@@ -1,0 +1,1 @@
+Art. 102-B. Fica autorizada a transformação, sem aumento de despesa, dos cargos que vierem a vagar constantes da Tabela II do Anexo XIX-A em 6 (seis) cargos de Técnico de Planejamento e Pesquisa, de que trata o inciso I do caput do art. 102 desta Lei, mediante ato do Poder Executivo.

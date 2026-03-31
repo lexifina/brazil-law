@@ -1,0 +1,1 @@
+Art. 10-A. A partir de 1º de janeiro de 2025, a estrutura dos cargos de Analista de Comércio Exterior, de Analista de Planejamento e Orçamento, de Especialista em Políticas Públicas e Gestão Governamental e de Técnico de Planejamento e Orçamento passa a ser a constante do Anexo IV-A, observada a correlação estabelecida na forma do Anexo IV-B.

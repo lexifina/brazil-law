@@ -1,0 +1,1 @@
+Art. 102-A. Ficam criados, por transformação dos cargos vagos constantes da Tabela I do Anexo XIX-A, 68 (sessenta e oito) cargos de Técnico de Planejamento e Pesquisa, de que trata o inciso I do caput do art. 102 desta Lei, sem aumento de despesa.
