@@ -1,0 +1,110 @@
+DECISÃO
+Trata-se de pedido de reconsideração, contra a decisão de fls. 48-50, em que indeferi liminarmente a petição inicial por deficiência de instrução.
+Considerando a posterior juntada do documento faltante, e em prestígio à economia processual, RECONSIDERO a decisão de fls. 48-50 para dando-lhe regular processamento.
+Trata-se de habeas corpus, com pedido de liminar, impetrado em favor de WILLIAN RAFAEL MEDEIROS CANOSA, apontando como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO GRANDE DO SUL no Agravo de Execução Penal n. 8001766-86.2025.8.21.0010, em acórdão assim ementado (fls. 15-16):
+DIREITO PENAL. AGRAVO EM EXECUÇÃO PENAL. REMIÇÃO DE PENA POR ESTUDO. FREQUÊNCIA ESCOLAR APÓS CONCLUSÃO DO ENSINO MÉDIO VIA ENCCEJA. IMPOSSIBILIDADE. BIS IN IDEM. DESPROVIMENTO DO RECURSO.
+I. CASO EM EXAME:
+1. Agravo em execução penal interposto contra decisão que indeferiu ao apenado a remição de 380 horas/aula pelos estudos realizados após a aprovação no ensino médio via ENCCEJA.
+II. QUESTÃO EM DISCUSSÃO:
+1. A questão em discussão consiste na possibilidade de concessão de nova remição de pena por estudos intramuros após o apenado já ter sido beneficiado com remição pela aprovação no ensino médio via ENCCEJA.
+III. RAZÕES DE DECIDIR:
+1. O apenado já foi beneficiado com a remição de 133 dias de pena pela conclusão parcial do ensino médio mediante aprovação no ENCCEJA, não podendo desfrutar novamente da aprovação nas mesmas matérias ou pela frequência em aulas do mesmo grau de escolaridade.
+2. Tanto a frequência escolar quanto o certificado de conclusão parcial do ensino médio decorrem do mesmo fato gerador: o estudo voltado à conclusão do ensino médio, configurando indevido bis in idem a concessão de nova remição.
+3. O benefício do art. 126 da LEP visa estimular atividades ressocializadoras e o bom comportamento dos apenados, estando relacionado ao aprimoramento intelectual do reeducando, e não à mera repetição de provas sem elevação de escolaridade.
+4. O fato gerador da remição por estudo é a atividade intelectual voltada ao acréscimo de conhecimento, sendo necessário que o reeducando se dedique a práticas educativas diferentes para fazer jus a nova remição.
+5. Não há ofensa aos princípios da segurança jurídica e da proteção da confiança, pois não houve qualquer promessa ou garantia por parte da administração penitenciária de que a frequência às aulas de nível já concluído geraria direito à remição.
+IV. DISPOSITIVO E TESE:
+1. Recurso desprovido.
+Tese de julgamento: 1. Não é possível a concessão de nova remição de pena por frequência escolar quando o apenado já foi beneficiado com remição pela conclusão do mesmo nível de ensino via ENCCEJA, sob pena de configurar indevido bis in idem.
+No caso, o paciente cumpre pena em regime fechado, tendo sido beneficiado com a remição de cento e trinta e três (133) dias de pena, em decorrência da conclusão parcial do ensino médio mediante a aprovação no Exame Nacional para Certificação de Competências de Jovens e Adultos - ENCCEJA, conforme decisão proferida pelo Juízo da Execução em 31 de março de 2025.
+Posteriormente, o apenado continuou frequentando ativamente as aulas presenciais referentes ao ensino médio, totalizando trezentas e oitenta (380) horas/aula no período de 13 de fevereiro de 2025 até 23 de julho de 2025, o que foi devidamente certificado por Atestado de Efetivo Estudo.
+A Defesa postulou a remição do período de frequência escolar, o que foi indeferido pelo Juízo da 2ª Vara de Execução Criminal Regional de Caxias do Sul sob o fundamento de que, já tendo sido deferida a remição referente à conclusão do ensino médio, estaria prejudicado o deferimento de nova remição referente ao mesmo nível de ensino, porquanto o cômputo em duplicidade representaria um desvirtuamento do instituto do benefício, caracterizando o vedado bis in idem.
+A defesa, então, interpôs agravo em execução penal no TJRS, sustentando que a conclusão do ensino médio não impede nova remição de pena por estudos intramuros, não restando configurada duplicidade. Alegou que o esforço desempenhado pelo apenado está vinculado a tipo diverso de aprendizagem.
+O Tribunal de origem negou provimento ao recurso.
+No presente writ, a defesa reitera as alegações deduzidas na Corte a quo.
+Requer o deferimento do pedido de liminar para cassar o acórdão proferido pela Primeira Câmara Criminal do Tribunal de Justiça do Estado do Rio Grande do Sul (Agravo em Execução n. 8001766-86.2025.8.21.0010) e determinar, incontinenti, o cômputo da remição de pena pelas 380 (trezentas e oitenta) horas/aula de frequência escolar efetiva, na proporção de 1 (um) dia de pena a cada 12 (doze) horas de estudo.
+No mérito, busca o conhecimento e a concessão da ordem de habeas corpus, tornando definitiva a liminar, para cassar em definitivo o acórdão combatido e reconhecer o direito do paciente à remição de pena pelo estudo referente às 380 (trezentas e oitenta) horas/aula de frequência escolar, determinando a retificação de seu atestado de pena a cumprir.
+É o relatório.
+Decido.
+Esta Corte e o Supremo Tribunal Federal pacificaram o entendimento de que não cabe habeas corpus como substitutivo do recurso legalmente previsto para a hipótese, impondo-se o não conhecimento da impetração, salvo quando constatada a existência de flagrante ilegalidade no ato judicial impugnado (STJ, HC n. 535.063/SP, Terceira Seção, Relator Ministro Sebastião Reis Junior, julgado em 10/6/2020, DJe de 25/8/2020; STF, AgRg no HC n. 180.365/PB, Primeira Turma, Relatora Ministra Rosa Weber, julgado em 27/3/2020, DJe de 2/4/2020; e AgRg no HC n. 147.210/SP, Segunda Turma, Relator Ministro Edson Fachin, julgado em 30/10/2018, DJe de 20/2/2020).
+Ademais, é consolidada a jurisprudência deste Superior Tribunal de Justiça no sentido de que a prerrogativa do relator para julgar monocraticamente o habeas corpus e o respectivo recurso não é afastada pelas normas regimentais que preveem a oitiva prévia do Ministério Público Federal (arts. 64, III, e 202 do RISTJ), notadamente quando a matéria se conforma com o entendimento dominante desta Corte (AgRg no HC n. 856.046/SP, de relatoria do Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 24/10/2023, DJe de 30/10/2023).
+Assim, passo à análise das razões da impetração, de forma a verificar a ocorrência de flagrante ilegalidade a justificar a concessão do habeas corpus, de ofício.
+A controvérsia reside na possibilidade de remição por aprovação no ENCCEJA e sua cumulação com o estudo regular.
+O Tribunal a quo negou provimento ao apelo defensivo, mantendo o indeferimento realizado pelo Juízo da 2ª Vara de Execução Criminal Regional de Caxias do Sul/RS, sob os seguintes fundamentos (fls. 13-16):
+Depreende-se dos autos que o apenado cumpre pena total de 10 anos, 10 meses e 20 dias de reclusão, tendo iniciado o cumprimento da pena em 01/11/2023, segundo dados constantes do relatório execucional atualizado, extraído do sistema SEEU.
+A Magistrada de origem indeferiu a remição ao apenado, pela aprovação do ENCCEJA, nos seguintes termos (seq. 208): (..).
+Da análise do processo execucional (seq. 138,1), verifico que, em 31 de março de 2025, o apenado obteve remição de 133 dias de pena, pela conclusão parcial do ensino médio, mediante aprovação do ENCCEJA, veja-se: (..).
+No caso, a irresignação especificamente trazida pela Defesa diz respeito à concessão de nova remição, visto que, após a conclusão do ensino médio, o apenado continuou frequentando as aulas, conforme atestado anexado ao processo execucional (seq. 188.1): (..).
+Com efeito, se o apenado já foi beneficiado com a remição pela aprovação no ensino médio, por meio do ENCCEJA, não pode desfrutar, novamente, da aprovação nas mesmas matérias ou pela frequência em aulas do mesmo grau de escolaridade, no caso, ensino médio, sob pena de indevido bis in idem.
+In casu, tanto frequência escolar quanto o certificado de conclusão parcial do ensino médio decorrem do mesmo fato gerador: o estudo voltado à conclusão do ensino médio.
+O Superior Tribunal de Justiça já se manifestou em caso análogo: (..).
+De outra parte, não se vislumbra ofensa aos princípios da segurança jurídica e da proteção da confiança, uma vez que não houve qualquer promessa ou garantia por parte da administração penitenciária de que a frequência às aulas de nível já concluído geraria direito à remição. O fato de o Estado ter permitido que o agravante continuasse frequentando as aulas não implica reconhecimento do direito à remição, especialmente considerando que tal direito já foi exercido pelo mesmo nível de ensino.
+Posto isso, considerando que o apenado já havia sido agraciado com a concessão da benesse referente a conclusão parcial do ensino médio pelo ENCCEJA, o agravante não faz jus a nova remição, pelo mesmo fato gerador. Ante o exposto, voto por desprover o agravo de execução penal.
+O entendimento do Tribunal de origem é de que a concessão de nova remição por frequência escolar, após a remição por conclusão do mesmo nível de ensino via ENCCEJA, configura indevido bis in idem, pois tanto a frequência escolar quanto o certificado de conclusão parcial do ensino médio decorrem do mesmo fato gerador: o estudo voltado à conclusão do ensino médio.
+No entanto, tal fundamento não deve prosperar.
+Isso porque a jurisprudência desta Corte é pacífica no sentido de admitir a remição de pena pela aprovação no ENCCEJA, mesmo para apenados vinculados a atividades regulares de ensino, com base em interpretação extensiva in bonam partem do art. 126 da Lei de Execução Pen al, sem que isso configure bis in idem.
+A propósito:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO PENAL. IMPUGNAÇÃO MINISTERIAL. APROVAÇÃO NO ENCCEJA. APENADO VINCULADO A ATIVIDADES REGULARES DE ENSINO NO INTERIOR DO ESTABELECIMENTO PRISIONAL. INTERPRETAÇÃO EXTENSIVA IN BONAM PARTEM. POSSIBILIDADE. RECURSO IMPROVIDO.
+1- In casu, diante da possibilidade de interpretação extensiva in bonam partem, entende-se que cabe a remição até mesmo para presos que estudam por conta própria, não havendo falar em afastamento da possibilidade da concessão da benesse aos apenados que estejam vinculados a atividades regulares de ensino no interior do estabelecimento. 5. Habeas corpus não conhecido. Ordem concedida, de ofício, para reconhecer o direito do paciente à remição da pena pela aprovação no ENCCEJA (Exame Nacional para Certificação de Competências de Jovens e Adultos). (AgRg no RHC n. 185.243/MG, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 11/3/2024, DJe de 13/3/2024.).
+2- No caso, o executado frequentou o curso regular de ensino médio no interior do estabelecimento penal nos anos de 2021 a 2022 e foi aprovado em duas disciplinas do ENCCEJA/2020, nível médio. Assim, apesar de ele ter estudado o mesmo nível de ensino por duas vezes, não se trata do mesmo fato gerador, tendo em vista a forma de estudo diversa. Ao ser aprovado no exame do ENCCEJA, ele estudou por conta própria; já na atividade de ensino regular do estabelecimento penal, teve um ensino mediante acompanhamento, com controle de horas e certificado de conclusão.
+3- Agravo Regimental não provido.
+(AgRg no HC n. 953.451/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 27/11/2024, DJEN de 3/12/2024 - grifamos).
+DIREITO PENAL E PROCESSUAL PENAL. HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. EXECUÇÃO PENAL. REMIÇÃO DA PENA. APROVAÇÃO NO ENCCEJA. APENADO VINCULADO A ATIVIDADES REGULARES DE ENSINO NO INTERIOR DA UNIDADE PRISIONAL. POSSIBILIDADE DE REMIÇÃO. INEXISTÊNCIA DE BIS IN IDEM. ORDEM CONCEDIDA DE OFÍCIO. I. CASO EM EXAME
+1. Habeas corpus impetrado como substitutivo de recurso especial, questionando o indeferimento de remição de pena pela aprovação no Exame Nacional para Certificação de Competências de Jovens e Adultos (ENCCEJA), sob o argumento de que o apenado já estava vinculado a atividades regulares de ensino no interior do estabelecimento prisional e que a concessão implicaria bis in idem. II. QUESTÃO EM DISCUSSÃO
+2. Há duas questões em discussão: (i) se o habeas corpus pode ser utilizado como substitutivo de recurso próprio; (ii) se a vinculação do apenado a atividades regulares de ensino no interior do presídio impede a concessão de remição de pena pela aprovação no ENCCEJA, configurando bis in idem. III. RAZÕES DE DECIDIR
+3. A jurisprudência consolidada do Supremo Tribunal Federal (STF) e do Superior Tribunal de Justiça (STJ) não admite a utilização do habeas corpus como substitutivo do recurso cabível, salvo em casos de flagrante ilegalidade, o que justifica a concessão da ordem de ofício.
+4. O STJ possui entendimento pacífico de que a aprovação em exames como o ENCCEJA, mesmo para apenados que estejam matriculados em atividades regulares de ensino no interior da unidade prisional, gera o direito à remição de pena. A vinculação a tais atividades não impede o reconhecimento do esforço realizado, nem configura bis in idem.
+5. A interpretação extensiva in bonam partem do art. 126 da Lei de Execução Penal (LEP) e da Recomendação nº 391/2021 do Conselho Nacional de Justiça (CNJ) permite que a remição seja concedida pela aprovação no ENCCEJA, ainda que o apenado já esteja vinculado a programas regulares de ensino.
+6. No caso concreto, o apenado obteve a aprovação no ENCCEJA e, portanto, faz jus à remição de 133 dias de pena, correspondentes aos 100 dias pela conclusão do ensino médio, acrescidos de 1/3, conforme o art. 126, § 5º, da LEP. IV. DISPOSITIVO E TESE
+7. Habeas corpus não conhecido. Ordem concedida de ofício para cassar o acórdão do Tribunal de origem e restabelecer a decisão do Juízo da execução, que remiu 133 dias da pena do paciente pela aprovação no ENCCEJA.
+Tese de julgamento:
+1. O habeas corpus não pode ser utilizado como substitutivo de recurso especial, salvo em casos de flagrante ilegalidade que configure constrangimento ilegal.
+2. A aprovação no Exame Nacional para Certificação de Competências de Jovens e Adultos (ENCCEJA) permite a remição de pena, mesmo que o apenado esteja vinculado a atividades regulares de ensino no interior do estabelecimento prisional, sem que isso configure bis in idem.
+(HC n. 928.472/SP, relatora Ministra Daniela Teixeira, Quinta Turma, julgado em 8/10/2024, DJe de 11/11/2024 - grifamos).
+Ainda, o reconhecimento simultâneo de remição por estudo formal (EJA) e informal (ENCCEJA), ambos relativos ao ensino médio e ocorridos no mesmo período, caracteriza indevido bis in idem, vedado pela jurisprudência do STJ.
+Esta Corte entende que A aprovação em exames como o ENCCEJA não gera novo benefício de remição se o apenado já foi beneficiado por frequência a curso regular do mesmo nível de escolaridade. (AgRg no HC n. 940.207/SC, relator Ministro Otávio de Almeida Toledo (Desembargador Convocado do TJSP), Sexta Turma, julgado em 11/6/2025, DJEN de 26/6/2025).
+No mesmo sentido:
+DIREITO PENAL. AGRAVO REGIMENTAL. REMIÇÃO DE PENA. APROVAÇÃO EM EXAME SUPLETIVO. IMPOSSIBILIDADE DE DUPLA REMIÇÃO PELA MESMA ATIVIDADE EDUCACIONAL. AGRAVO REGIMENTAL NÃO PROVIDO.
+I. CASO EM EXAME
+1. Agravo regimental interposto contra decisão que denegou ordem de habeas corpus, na qual se pleiteava o reconhecimento do direito à remição de pena com base na aprovação em exame supletivo (ENCCEJA), mesmo após remição anterior por frequência ao ensino regular.
+2. O recorrente reproduziu os mesmos fundamentos utilizados na impetração, alegando que a aprovação no ENCCEJA e a frequência ao ensino regular constituem fatos geradores distintos para fins de remição de pena.
+II. QUESTÃO EM DISCUSSÃO
+3. A questão em discussão consiste em saber se é possível a remição de pena pela aprovação em exame supletivo (ENCCEJA), quando o reeducando já obteve remição anterior pela frequência ao ensino regular, considerando tratar-se de atividades educacionais relacionadas.
+III. RAZÕES DE DECIDIR
+4. A jurisprudência do Superior Tribunal de Justiça é pacífica no sentido de que não é possível a remição de pena pela mesma atividade educacional, sendo necessário decotar os dias já remidos pela frequência ao ensino regular quando houver posterior aprovação no ENCCEJA.
+5. O recorrente não apresentou novos argumentos capazes de alterar o entendimento anteriormente firmado, limitando-se a reiterar os fundamentos da impetração.
+IV. DISPOSITIVO E TESE
+6. Resultado do Julgamento: Agravo regimental não provido.
+Tese de julgamento:
+1. Não é possível a remição de pena pela mesma atividade educacional, sendo necessário decotar os dias já remidos pela frequência ao ensino regular quando houver posterior aprovação no ENCCEJA.
+2. O recurso não deve ser conhecido quando o agravante não apresenta novos argumentos capazes de alterar o entendimento anteriormente firmado.
+Dispositivos relevantes citados: Súmula 182 do STJ.
+Jurisprudência relevante citada: STJ, AgRg no HC 841050/ES, Rel. Min. Daniela Teixeira, Quinta Turma, DJE de 11.11.2024.
+(AgRg no HC n. 1.013.112/SP, relator Ministro Messod Azulay Neto, Quinta Turma, julgado em 19/11/2025, DJEN de 27/11/2025 - grifamos)
+DIREITO PENAL. AGRAVO REGIMENTAL. EXECUÇÃO PENAL. REMIÇÃO DE PENA POR ESTUDO. APROVAÇÃO NO ENCCEJA. PARTICIPAÇÃO PRÉVIA EM ATIVIDADE REGULAR DE ENSINO NO MESMO NÍVEL DE ESCOLARIDADE. DESCONTO DOS DIAS ANTERIORMENTE REMIDOS. POSSIBILIDADE. AGRAVO DESPROVIDO.
+I. CASO EM EXAME
+1. Agravo regimental interposto contra decisão que conheceu do recurso especial interposto pelo apenado e, com fundamento na Súmula n. 568 do Superior Tribunal de Justiça - STJ, negou-lhe provimento para manter o indeferimento da remição integral pela aprovação do ora agravante no ENCCEJA.
+II. QUESTÃO EM DISCUSSÃO
+2. A questão em discussão consiste em saber se é possível a concessão de remição integral de pena pela aprovação no ENCCEJA quando o apenado já estava matriculado por atividades educacionais regulares do mesmo nível de ensino na unidade prisional, pelas quais já teve remidos 47 dias de sua pena.
+III. RAZÕES DE DECIDIR
+3. A jurisprudência desta Corte é pacífica no sentido de que não é possível a remição em duplicidade pela mesma atividade educacional, sendo necessário decotar os dias já remidos pela frequência a curso regular quando houver posterior aprovação no ENCCEJA referente ao mesmo nível de ensino, sob pena de bis in idem.
+IV. DISPOSITIVO E TESE
+4. Agravo regimental desprovido.
+Tese de julgamento: "1. A remição de pena pela aprovação no ENCCEJA deve descontar o período anteriormente remido pela participação do apenado em atividades regulares de ensino de mesmo nível educacional no estabelecimento prisional, sob pena de configurar indevido bis in idem".
+Dispositivos relevantes citados: Lei de Execução Penal, art. 126, § 5º; Resolução CNJ n. 391/2021.
+Jurisprudência relevante citada: STJ, AgRg no HC n. 940.207/SC, relator Ministro Otávio de Almeida Toledo (Desembargador Convocado do TJSP), Sexta Turma, julgado em 11/6/2025, DJEN de 26/6/2025; STJ, AgRg no HC n. 994.742/SP, relator Ministro Carlos Cini Marchionatti (Desembargador Convocado TJRS), Quinta Turma, julgado em 18/6/2025, DJEN de 26/6/2025; STJ, HC n. 936.162/SP, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 11/6/2025, DJEN de 23/6/2025; STJ, HC n. 770.297/SC, relatora Ministra Daniela Teixeira, Quinta Turma, julgado em 5/11/2024, DJe de 11/11/2024.
+(AgRg no REsp n. 2.222.261/SP, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 19/11/2025, DJEN de 26/11/2025 - grifamos)
+AGRAVO REGIMENTAL EM HABEAS CORPUS. EXECUÇÃO PENAL.TEMPESTIVIDADE DO RECURSO DO MINISTÉRIO PÚBLICO. REMIÇÃO DE PENAS EM DUPLICIDADE. AGRAVO REGIMENTAL DESPROVIDO.
+1. Preliminarmente, registra-se que a decisão que homologou os cálculos de remição de pena em favor do paciente foi proferida em 08/07/2025. Nos termos do art. 39 da Lei nº 8.038/90, o Ministério Público dispõe do prazo de 5 (cinco) dias para se manifestar.
+Considerando que o agravo em execução penal foi interposto em 14/07/2025, impõe-se reconhecer a sua tempestividade.
+2. Esta Corte firmou entendimento no sentido de que é vedada a remição de pena em duplicidade pela mesma atividade educacional, impondo-se o decote dos dias já remidos pela frequência a curso regular quando houver, posteriormente, como na hipótese, aprovação no ENCCEJA referente ao mesmo nível de ensino.
+3. No caso em análise, o Tribunal de Justiça deu provimento ao recurso ministerial ao reconhecer que o agravado apresentou certificado de conclusão do ensino fundamental em razão de aprovação no Exame Nacional para Certificação de Competências de Jovens e Adultos - ENCCEJA/2024. Tal circunstância ensejou nova remição, com acréscimo dos dias estudados dentro da unidade prisional no mesmo período, configurando, de forma inequívoca, identidade de fato gerador e, por conseguinte, a ocorrência do vedado bis in idem.
+4. Agravo Regimental não provido.
+(AgRg no HC n. 1.027.075/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 8/10/2025, DJEN de 15/10/2025 - grifamos).
+No caso, em 31/03/2025, o paciente foi beneficiado com a remição de 133 dias de pena pela conclusão parcial do ensino médio mediante a aprovação no ENCCEJA (realizado em 30/10/2024, fl. 61).
+Posteriormente, foi certificado no seu atestado de pena 380 horas/aula pela frequência às aulas presenciais no ensino médio no período de 13/02/2025 a 23/07/2025.
+Assim, na espécie, considerando que os períodos da aprovação no ENCCEJA e de frequência às aulas presenciais são diversos, não há que se falar em duplicidade indevida na contagem.
+Ante o exposto, não conheço do habeas corpus. Todavia, concedo a ordem de ofício para reformar o acórdão impugnado e determinar ao Juízo da Execução Penal que aprecie o pedido de remição da pena pela frequência às aulas presenciais no ensino médio no período de 13/02/2025 a 23/07/2025, realizando o devido decote pelos dias já remidos pela aprovação no ENCCEJA, em duplicidade, nos termos estabelecidos nesta decisão.
+Comunique-se o Juízo da Execução Penal e o Tribunal de Justiça do Estado do Rio Grande do Sul.
+Publique-se e intimem-se.
+ EMENTA
