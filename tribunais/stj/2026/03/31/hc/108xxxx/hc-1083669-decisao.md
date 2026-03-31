@@ -1,0 +1,45 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em nome de KAWAN RIBEIRO DE SOUSA - condenado pelo crime do art. 33 da Lei n. 11.343/2006, à pena de 5 anos de reclusão, em regime inicial fechado -, em que a defesa aponta como autoridade coatora o Tribunal de Justiça do Estado de São Paulo, que, em 17/11/2025, negou provimento à apelação e manteve a condenação (Apelação Criminal n. 1501724-38.2025.8.26.0535).
+Em síntese, o impetrante alega exasperação da pena-base com fundamentação genérica, apoiada apenas na quantidade de drogas e no local dos fatos (fls. 3/4).
+Sustenta afastamento indevido da causa de diminuição do art. 33, § 4º, da Lei n. 11.343/2006, por fundamentação abstrata na quantidade e no local, malgrado a primariedade, a ausência de antecedentes relevantes e a inexistência de prova de vínculo com organização criminosa ou habitualidade delitiva.
+Afirma ilegalidade na fixação do regime inicial fechado com base na gravidade abstrata do tráfico, apesar da pena de 5 anos e das condições pessoais favoráveis, requerendo a adequação ao regime semiaberto, conforme os parâmetros do art. 33, §§ 2º, "b", e 3º, do Código Penal.
+Em caráter liminar, pede a imediata fixação do regime semiaberto, ou a determinação para que o paciente aguarde em regime compatível com a pena aplicada até o julgamento final do writ.
+No mérito, requer o reconhecimento da causa de diminuição do art. 33, § 4º, da Lei n. 11.343/2006 na fração máxima e a fixação do regime inicial semiaberto (Processo n. 1501724-38.2025.8.26.0535, da 2ª Vara Criminal da comarca de Guarulhos/SP).
+É o relatório.
+Requer-se, em síntese, a pena-base no mínimo legal, o reconhecimento do tráfico privilegiado com a respectiva redução e a imposição de regime inicial mais brando.
+In casu, o Juízo majorou a pena-base em razão da natureza da substância entorpecente (com base no art. 42 da Lei de drogas), nos seguintes termos (fl. 29):
+ ..
+Verificando as diretrizes do art. 59 do Código Penal c.c art. 42 da Lei n. 11.343/06, considerando a expressiva quantidade e variedade de entorpecentes apreendidos (202 porções de cocaína, pesando 69,1g e 242 porções de maconha, pesando 179,2g), bem como o alto poder lesivo da cocaína quando difundida na sociedade, fixo a pena-base acima do mínimo legal, em 06 anos de reclusão, e pagamento de 600 dias-multa.
+ ..
+Em relação à fixação da pena-base, o Superior Tribunal de Justiça entende que o julgador não está adstrito a critérios puramente matemáticos, havendo certa discricionariedade na dosimetria da pena, vinculada aos elementos concretos constantes dos autos.
+A esse respeito: AgRg no AREsp n. 1.140.562/SP, da minha relatoria, Sexta Turma, DJe 11/5/2018.
+Ademais, o quantum de aumento decorrente da negativação das circunstâncias não está estipulado no Código Penal, de forma que, com base em fundamentação concreta, devem ser observados os princípios da proporcionalidade, da razoabilidade, da necessidade e da suficiência à reprovação e à prevenção do crime, informadores do processo de aplicação da pena (HC n. 416.254/RJ, Ministro Ribeiro Dantas, Quinta Turma, DJe 11/10/2017).
+É copiosa a jurisprudência deste Tribunal Superior, no sentido de admitir, a título de negativação da circunstância do art. 42 da Lei n. 11.343/2006, a exasperação da pena-base em razão da quantidade ou variedade das substâncias apreendidas (AgRg no HC n. 644.335/SP, Ministro Antonio Saldanha Palheiro, Sexta Turma, DJe 28/4/2021).
+Por essa mesma razão, quando a quantidade ou a variedade da droga não é
+significativa, não há falar em exasperação da pena-base, sob pena de ofensa ao princípio da proporcionalidade (AgRg no AREsp n. 1.704.013/MG, Ministra Laurita Vaz, Sexta Turma, DJe 28/4/2021).
+Parece-me ser esse o caso, visto que foram apreendidos 69,1g de cocaína e 179,2g de maconha. Não se trata de quantidade ou variedade anormal, sendo suficiente apenas para fixar a materialidade da conduta, razão pela qual decoto a negativação de tal circunstância.
+Por sua vez, no que se refere ao redutor, extraem-se os seguintes fundamentos da sentença condenatória (fls. 29/30 - grifo nosso):
+ ..
+Não faz jus o réu à diminuição de pena prevista no parágrafo 4º, art. 33, Lei n. 11.343/06, pois restou evidente nos autos a dedicação do mesmo à atividade criminosa como meio de vida.
+As circunstâncias concretas posse de substâncias entorpecentes de elevado valor, permanência em ponto conhecido de tráfico , indicam que o réu exerce o tráfico como atividade habitual. Não é razoável supor que um jovem de 20 anos tenha acesso a tamanha quantidade e variedade drogas, dispondo de local fixo, utilizado pela criminalidade profissional, para comercializá-las aos usuários, sem que não detivesse vínculo com atividade criminosa.
+Embora primário, é possível concluir que o réu não é um iniciante na prática delituosa, mas sim alguém que se dedica profissionalmente à mercancia de drogas, a serviço de criminalidade profissional, sobretudo por não ter demonstrado o exercício de qualquer atividade lícita que pudesse justificar aquisição das drogas. Ou seja, comercializa-as como "soldado" do crime, já que só poderia comercializá-las naquele local com autorização dos traficantes maiores, de quem recebeu as drogas e as vendia naquele local com anuência deles.
+Assim, se fosse apenas um iniciante, aventurando-se nessa prática delitiva, não teria acesso a tamanha quantidade e diversidade de entorpecentes, tampouco operaria em ponto fixo de comercialização, já conhecido como local de atuação da criminalidade.
+Aquele que faz do tráfico de drogas seu meio de vida alimenta a engrenagem do crime organizado e fomenta a prática de outros delitos inclusive aqueles perpetrados com grave ameaça ou violência à pessoa e, por isso, não se enquadra no perfil do chamado "traficante ocasional", destinatário da benesse legal.
+Logo, marcada a dedicação à espúria difusão de drogas proibidas, com animus lucrandi e com modus vivendi, que é resultante de livre escolha do réu, com absoluta consciência da ilicitude, não se trataria de iniciante no tráfico de drogas e, portanto, não é merecedor da causa de diminuição em tela.
+ ..
+Da análise dos trechos transcritos, com relação ao tráfico privilegiado, não foram apontados fundamentos idôneos para deixar de reconhecer a sua aplicação em relação ao paciente. Faltaram elementos concretos acerca da existência de condutas repetidas na atuação da mercancia ilícita.
+Com efeito, a quantidade de drogas apreendida e o fato do local ser conhecido como ponto de tráfico não constituem motivação suficiente para obstar a incidência do § 4º do art. 33 da Lei n. 11.343/2006. Nada disso evidencia que o paciente se dedicava às atividades criminosas ou que integrava organização criminosa.
+Nesse sentido, a mera afirmação de que a agravante praticou o crime em local conhecido por ser "boca de fumo", sem destaque a circunstâncias indicativas de condutas repetidas na atuação da mercancia, é insuficiente para demonstrar que ele se dedicava às atividades criminosas ou integrava organização criminosa, bem como para justificar a escolha da fração da redutora do art. 33, § 4º, da Lei n. 11.343/2006 (AgRg no AREsp n. 2.395.630/MS, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 21/11/2023, DJe de 28/11/2023).
+Afora isso, a quantidade de entorpecentes apreendidos em poder do paciente não justifica nenhuma modulação da minorante, pois não extrapola aquelas circunstâncias comuns ao delito de tráfico de drogas.
+Fixadas essas premissas, passo ao redimensionamento da pena do paciente.
+Na primeira fase, afastada a majoração da pena com fulcro no art. 42 da Lei de Drogas, reduzo a pena para o mínimo legal, fixando-a em 5 anos de reclusão, e 500 dias-multa.
+Na segunda fase da dosimetria, reconheço a atenuante da menoridade relativa, porém deixo de aplicá-la em razão do disposto na Súmula 231 do STJ.
+Na terceira fase da dosimetria, aplico a redutora do tráfico privilegiado em sua fração máxima (2/3), razão pela qual fixo a pena, definitivamente, em 1 ano e 8 meses de reclusão e 166 dias-multa .
+O regime inicial de cumprimento da pena deve ser o aberto, tendo em vista que todas as circunstâncias judiciais foram favoráveis, não consta dos autos notícia de que o réu seja reincidente e a pena final fixada não é superior a 4 anos.
+Ante o exposto, concedo a ordem, de forma liminar, a fim de fixar a pena-base no mínimo legal, aplicar a causa de diminuição do tráfico privilegiado, fixar o regime inicial aberto e substituir a pena privativa de liberdade por restritivas de direitos, nos termos da presente decisão.
+Comunique-se com urgência.
+Intime-se o Ministério Público estadual.
+Publique-se.
+EMENTA
+HABEAS CORPUS. TRÁFICO DE DROGAS. DOSIMETRIA. PENA-BASE. PLEITO PELO DECOTE DO VETOR NEGATIVADO. QUANTIDADE E NATUREZA DOS ENTORPECENTES QUE NÃO SÃO SUFICIENTES PARA MAJORAR A PENA-BASE. 69,1G DE COCAÍNA E 179,2G DE MACONHA. FUNDAMENTO INIDÔNEO PARA NEGAR O REDUTOR. PRECEDENTES. REDIMENSIONAMENTO DA PENA QUE SE IMPÕE. REGIME INICIAL ALTERADO.
+Ordem concedida liminarmente.
