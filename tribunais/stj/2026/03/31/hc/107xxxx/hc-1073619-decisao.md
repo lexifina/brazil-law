@@ -1,0 +1,44 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em benefício de DOUGLAS INACIO DO PRADO, contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO no julgamento do HC n. 2376093-23.2025.8.26.0000.
+Extrai-se dos autos que o Juízo da Vara de Execução Penal indeferiu o pedido de sustação do regime semiaberto, formulado pelo paciente, determinando a permanência do paciente no regime fechado e a remessa da sindicância concluída referente à suposta falta (fl. 35) .
+Irresignada, a defesa ajuizou mandamus perante o Tribunal de origem, o qual denegou a ordem, nos termos do acórdão que restou assim ementado:
+"HABEAS CORPUS - EXECUÇÃO PENAL - FALTA DISCIPLINAR DE NATUREZA GRAVE - ALEGAÇÃO DE EXCESSO DE PRAZO NA CONCLUSÃO DE PROCEDIMENTO ADMINISTRATIVO DISCIPLINAR - INOCORRÊNCIA - ANÁLISE QUE DEMANDA EXAME DAS CIRCUNSTÂNCIAS DO CASO CONCRETO - OBSERVÂNCIA AOS PRINCÍPIOS DA RAZOABILIDADE E DA CELERIDADE - REITERADAS PROVIDÊNCIAS ADOTADAS PELO JUÍZO DA EXECUÇÃO PARA IMPULSIONAMENTO DO FEITO - AUSÊNCIA DE INÉRCIA OU DESÍDIA ESTATAL - PROCEDIMENTO EM ANDAMENTO - INEXISTÊNCIA DE DEMORA INJUSTIFICADA - HABEAS CORPUS COMO VIA INADEQUADA PARA ACELERAR INCIDENTES NA EXECUÇÃO PENAL OU APRESSAR A CONCESSÃO DE BENEFÍCIOS - AUSÊNCIA DE FLAGRANTE ILEGALIDADE - CONSTRANGIMENTO ILEGAL NÃO CONFIGURADO - ORDEM DENEGADA." (fl. 13)
+No presente writ, a defesa sustenta excesso de prazo na tramitação do procedimento disciplinar instaurado por suposta falta ocorrida em 23/11/2024, em desacordo com o art. 62 da Resolução SAP n. 144/2010, por ausência de portaria inaugural, prorrogação formal e conclusão válida, com reflexos diretos na execução penal.
+Assevera afronta ao art. 5º, LXXVIII, da Constituição Federal, ante a violação à razoável duração do processo e aos meios que asseguram a celeridade da tramitação, evidenciando constrangimento ilegal.
+Argui que a indefinição prolongada do procedimento disciplinar impacta a classificação da conduta carcerária e a análise de benefícios executórios, razão pela qual a matéria é cognoscível na presente via .
+Defende a possibilidade de concessão da ordem de ofício para sanar ilegalidade manifesta, por se tratar de questão de ordem pública, cuja solução independe do exame aprofundado do mérito da imputação disciplinar.
+Aduz que a persistência do procedimento disciplinar além do prazo regulamentar viola os princípios da proporcionalidade e da eficiência administrativa, impondo o restabelecimento do bom comportamento carcerário.
+Requer, em liminar, o restabelecimento do bom comportamento carcerário do paciente e o arquivamento imediato do procedimento disciplinar ou, subsidiariamente, a determinação para remessa integral dos autos em 5 dias. No mérito, pretende a concessão da ordem para reconhecer o excesso de prazo na tramitação do procedimento disciplinar, declarar sua nulidade e determinar o arquivamento definitivo, com o restabelecimento pleno da conduta carcerária.
+Liminar indeferida às fls. 59/61.
+Informações prestadas às fls. 67/69 e 70/78.
+Parecer do MPF opinando pelo não conhecimento do habeas corpus às fls. 80/83.
+É o relatório.
+Decido.
+Diante da hipótese de habeas corpus substitutivo de recurso próprio, a impetração não deve ser conhecida, segundo orientação jurisprudencial do Supremo Tribunal Federal - STF e do próprio Superior Tribunal de Justiça - STJ.
+Contudo, considerando as alegações expostas na inicial, razoável verificar a existência de eventual constrangimento ilegal.
+No tocante ao pedido de reconhecimento de excesso de prazo, com arquivamento do procedimento administrativo disciplinar, o Tribunal local rechaçou o pleito formulado, nos seguintes termos:
+"A análise da alegação de excesso de prazo demanda exame detalhado das circunstâncias do caso concreto, devendo-se observar os princípios da razoabilidade e da celeridade processual, sem desconsiderar a complexidade e as particularidades inerentes ao procedimento disciplinar instaurado.
+No caso em exame, verifica-se que o juízo da execução adotou reiteradas providências junto à unidade prisional, cobrando a remessa do procedimento de apuração da suposta falta disciplinar, a fim de viabilizar o regular prosseguimento da execução penal.
+Consta que, em 23/11/2024, o paciente, em tese, teria praticado falta disciplinar de natureza grave, consistente em extorsão (págs. 205/210). Em 09/05/2025, foi requisitada à Direção do CDP de Chácara Belém I a remessa de cópia da sindicância instaurada para apuração dos fatos, providência reiterada em 18/08/2025. Posteriormente, em 25/09/2025, os autos deram entrada neste Cartório, provenientes de outro juízo. Ainda assim, em 22/10/2025, bem como na presente data, foram novamente reiteradas as requisições para encaminhamento do expediente de sindicância, conforme se depreende das informações prestadas às fls. 42.
+Ressalte-se que o excesso de prazo somente se configura diante de demora injustificada, reveladora de inércia estatal, o que não se observa na presente hipótese, uma vez que o feito vem sendo impulsionado pelo juízo competente.
+ ..
+Frise-se, outrossim, que o writ não é o instrumento adequado para acelerar incidentes em execução penal, tampouco para apressar a concessão de benefícios. Por conseguinte, não restou evidenciada, no presente caso, manifesta ilegalidade apta a ensejar o reconhecimento de constrangimento ilegal." (fls. 14/16)
+Como se observa, a Corte local apreciou detalhadamente as questões atinentes ao alegado excesso de prazo, tendo destacado que as peculiaridades do caso concreto afastam o argumento de demora injustificada para a conclusão do procedimento, que vem sendo devidamente impulsionado pelo Magistrado de origem.
+Ressalto, ainda, que muito embora a defesa tenha questionado a necessidade de restabelecimento pleno da conduta carcerária do paciente, não logrou êxito em comprovar qualquer prejuízo concreto que tenha sido suportado pelo paciente com a alegada demora na conclusão do referido procedimento disciplinar.
+A esse respeito, noto que é posicionamento desta Corte que, não comprovado prejuízo pelo alegado excesso de prazo no procedimento disciplinar, ausente qualquer nulidade a ser sanada. Confira-se:
+AGRAVO REGIMENTAL NO HABEAS CORPUS . EXECUÇÃO PENAL. FALTA GRAVE HOMOLOGADA APÓS REGULAR PROCEDIMENTO ADMINISTRATIVO. EXCESSO DE PRAZO DO PAD. INOCORRÊNCIA. COMPLEXIDADE. AUSÊNCIA DE PREJUÍZO.
+NEGATIVA DE AUTORIA. FALTA COLETIVA. ABSOLVIÇÃO. NECESSIDADE DE REEXAME DO ACERVO FÁTICO-PROBATÓRIO DOS AUTOS.
+1. Não há que se falar em nulidade do Procedimento Administrativo Disciplinar por eventual excesso da prazo para sua conclusão, tendo em vista a complexidade na apuração da conduta perpetrada por dezenove detentos.
+2. Ademais, a defesa não demonstrou o prejuízo sustentado pela dilação do prazo para conclusão do PAD, exigência prevista no art. 565 do Código de Processo Penal para reconhecimento de nulidade.
+3. Alterar a conclusão a que chegaram as instâncias ordinárias acerca da autoria e da materialidade da infração disciplinar demandaria o reexame de matéria probatória, o que é inviável na estreita via do habeas corpus.
+4. No caso dos autos, o que se verifica é que a infração disciplinar foi praticada por todos os envolvidos, incluindo o ora agravante, não havendo se falar em aplicação de sanção coletiva, mas em falta disciplinar praticada em autoria coletiva.
+5. Agravo regimental desprovido. (AgRg no HC 885173 / SP, rel. Ministro Antonio Saldanha Palheiro, Sexta Turma, DJEN 22/09/2025.)(grifei)
+EXECUÇÃO PENAL. HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. INADEQUAÇÃO DA VIA ELEITA. FALTA GRAVE. EXCESSO DE PRAZO PARA A CONCLUSÃO DO PAD. PREJUÍZO NÃO DEMONSTRADO. CONSTRANGIMENTO ILEGAL NÃO EVIDENCIADO. WRIT NÃO CONHECIDO.
+1. O Supremo Tribunal Federal, por sua Primeira Turma, e o Superior Tribunal de Justiça, por sua Terceira Seção, diante da utilização crescente e sucessiva do habeas corpus, passaram a restringir a sua admissibilidade quando o ato ilegal for passível de impugnação pela via recursal própria, sem olvidar a possibilidade de concessão da ordem, de ofício, nos casos de flagrante ilegalidade.
+2. Não se verifica nulidade em decorrência do excesso de prazo para a conclusão do processo disciplinar, quando incapaz de trazer prejuízo ao exercício de defesa pelo apenado. Precedentes.
+3. In casu, não há comprovação de eventual prejuízo causado à defesa pelo fato de o PAD não ter sido concluído no prazo estabelecido pela legislação estadual pertinente. 4. Habeas corpus não conhecido. (HC 373733 / RS, rel. Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe 05/05/2017.)(grifei)
+Ausente, portanto, qualquer constrangimento ilegal que justifique a concessão da ordem, de ofício.
+Ante o exposto, nos termos do art. 34, XX, do Regimento Interno do Superior Tribunal de Justiça, não conheço do presente habeas corpus.
+Publique-se.
+Intimem-se.
+ EMENTA
