@@ -1,0 +1,70 @@
+DECISÃO:
+Trata-se de recurso extraordinário com agravo contra decisão de inadmissão do recurso extraordinário.
+O recurso foi interposto com fundamento na alínea "a" do permissivo constitucional.
+O acórdão recorrido  ficou assim ementado:
+
+APELAÇÃO CÍVEL – AÇÃO DE COBRANÇA – PRELIMINAR DE NULIDADE DA SENTENÇA – CITAÇÃO – NÃO RECEBIMENTO DE RECONVENÇÃO – PRECLUSÃO – MATÉRIAS DEVIDAMENTE DISCUTIDAS E DECIDIDAS NO PROCESSO – NÃO CONHECIMENTO - CERCEAMENTO DE DEFESA – PROVA TESTEMUNHAL - INOCORRÊNCIA – ART. 371 DO CPC – ALEGADO CONTRATO DE REPRESENTAÇÃO COMERCIAL E DA INADMISSIBILIDADE DE APLICAÇÃO DE CLÁUSULA DEL CREDERE –INAPLICABILIDADE DO REGIME JURÍDICO PREVISTO NA LEI 4.886/65 A NÃO INSCRITOS NO RESPECTIVO CONSELHO REGIONAL - RELAÇÃO REGIDA PELO CÓDIGO CIVIL – DEMONSTRADO DESCUMPRIMENTO CONTRATUAL – RESSARCIMENTO DE VALORES DEVIDOS - RECURSO PARCIALMENTE CONHECIDO E NA PARTE CONHECIDA DESPROVIDO
+Em conformidade com o disposto nos arts. 505 e 507 do Código de Processo Civil, as questões incidentalmente discutidas e apreciadas ao longo do curso do processo não podem, após a respectiva decisão, voltar a serem tratadas em fases posteriores.
+Não obstante a citação ser matéria de ordem pública e não se sujeitar, em regra, à preclusão, quando há decisão anterior irrecorrida a respeito da questão, é evidente a perda da faculdade processual de repetição dessa matéria.
+É faculdade do Juízo, quando existindo nos autos prova suficiente a formar seu convencimento, não admitir a produção de provas inúteis ou irrelevantes, para somente retardar o julgamento do feito, causando gastos desnecessários.
+No caso dos autos verifica-se que a cláusula que prevê o pagamento não pode ser considerada "del credere", pois não existe previsão específica que penalize a parte ré pelo não pagamento da comissão em caso de cancelamento da contratação ou desconto no repasse de comissão.
+In casu a alegação dos apelantes quanto a existência de cláusula "del credere" somente poderia ser comprovada através de perícia, o que não restou realizado nos autos devido à desídia dos próprios réus, ora apelantes, sendo válida a previsão da sentença quanto a possibilidade de aplicação das multas contratuais previstas nas cláusulas 8.1 e 9.1, não olvidando também a aplicação da multa estabelecida no art. 27, letra “j” da Lei nº 4.886/65, com relação à rescisão do contrato e aos gastos indevidos realizados pelos apelantes em nome do apelado.
+Sentença mantida. Recurso Desprovido.
+
+Opostos os embargos de declaração, foram rejeitados.
+No recurso extraordinário sustenta-se violação do(s) art.(s) 5º, incisos XXXV, LIV, LV e LXXVIII; 19, inciso II; 37, caput, § 6º; e 93, inciso IX, da Constituição Federal.
+Decido.
+Analisados os autos, no que tange à alegação de violação do(s) art(s). 5º, incisos LIV e LV, e 93, inciso IX, da Constituição, verifica-se que a decisão de inadmissão do recurso extraordinário está amparada em aplicação de precedente firmado com base na sistemática da repercussão geral.
+Todavia, o art. 1.042 do Código de Processo Civil é expresso sobre o não cabimento de agravo dirigido ao STF nas hipóteses em que a negativa de seguimento do recurso extraordinário tiver como base exclusivamente a sistemática da repercussão geral, sendo essa decisão passível de impugnação somente por agravo interno (art. 1.030, § 2º, do CPC/2015). Sobre o tema, destaque-se:
+
+“EMBARGOS DE DECLARAÇÃO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO EXTRAORDINÁRIO COM AGRAVO. CONVERSÃO EM AGRAVO REGIMENTAL. PROCESSUAL CIVIL. APLICAÇÃO DA SISTEMÁTICA DA REPERCUSSÃO GERAL NA ORIGEM: AUSÊNCIA DE PREVISÃO LEGAL DE RECURSO PARA O SUPREMO TRIBUNAL FEDERAL. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO” (ARE nº 1.109.295/RS-ED-ED, Tribunal Pleno, Rel. Min. Cármen Lúcia, DJe de 25/09/2018).
+
+Assim, não conheço do recurso quanto ao(s) capítulo(s) acima referenciado(s).
+Ademais, colhe-se do voto condutor do acórdão atacado a seguinte fundamentação:
+
+Das Nulidades Alegadas
+Aduzem em apertada síntese que a sentença merece ser reformada ao argumento de existência de nulidades quanto à citação dos réus Cleymar e Guilherme, bem como, cerceamento de defesa ante a ausência de oitiva das testemunhas arroladas pelo apelante e não realização de audiência de instrução e julgamento. Destacam ainda a necessidade de reforma da sentença para que seja analisada e julgada procedente a reconvenção apresentada pela parte.
+Pois bem.
+ De uma minudente análise dos autos verifico que as matérias relativas à alegada nulidade das mencionadas citações e a rejeição da reconvenção foram repelidas em sede de Agravo de Instrumento n.1409569-98.2021.8.12.0000 no ano de 2021, já transitado em julgado. Logo, em conformidade com o disposto nos arts. 5052 e 5073 do Código de Processo Civil, as questões incidentalmente discutidas e apreciadas ao longo do curso do processo não podem, após a respectiva decisão, voltar a serem tratadas em fases posteriores.
+(...)
+Dessa forma as questões mencionadas já se encontram acobertadas pelo instituto da preclusão e não podem mais ser discutidas.
+Não obstante a citação ser matéria de ordem pública e não se sujeitar, em regra, à preclusão, quando há decisão anterior irrecorrida a respeito da questão, é evidente a perda da faculdade processual de repetição dessa matéria. Nesse sentido, mutatis mutandis:
+(...)
+Portanto, não é cabível a análise dos argumentos relacionados às citações dos réus Cleymar e Guilherme, bem como, quanto aos fundamentos que ensejaram a rejeição da reconvenção, uma vez que sobre os referidos tópicos incide a preclusão. Em consequência, não merecem ser conhecidas referidas matérias.
+Da Alegada Nulidade Por Cerceamento de Defesa
+Aduzem em suas razões a nulidade da sentença por cerceamento de defesa ante a não oitiva das testemunhas arroladas devido a não realização de audiência de instrução e julgamento.
+Afirmam que a não produção de prova testemunhal prejudicou significativamente o conjunto probatório. Destacam que a instrução deste processo há de ser refeita para que ao final se compreenda que houve o enriquecimento sem causa da apelada.
+Pois bem.
+Com efeito, a produção de provas deve ser deferida somente quando for imprescindível para a formação do convencimento do magistrado.
+Da simples leitura do Art.370 do Novo Código de Processo Civil, extrai-se a possibilidade de o Juiz instruir a produção de provas de acordo com a necessidade destas para a solução do litígio, posto que cabe ao magistrado "de ofício ou a requerimento da parte, determinar as provas necessárias ao julgamento do mérito".
+O parágrafo único do referido artigo disciplina que "o juiz indeferirá, em decisão fundamentada, as diligências inúteis ou meramente protelatórias".
+Desse modo, o que se percebe é que, na qualidade de destinatário das provas, o juiz tem a faculdade de indeferir aquelas que não se prestem a formar seu convencimento, em razão da existência de outros elementos de convicção nos autos, o que não configura cerceamento de defesa.
+Na espécie, não se pode perder de vista que a Ação de Cobrança proposta pelo apelado visa o alegado direito ao recebimento do débito no valor inicial de R$502.036,94 (quinhentos e dois mil, trinta e seis reais e noventa e quatro centavos) em razão do descumprimento de cláusulas contratuais.
+In casu, resta demonstrado pela minudente análise dos autos, em especial pelos pedidos expostos na presente ação que as provas requeridas revelam-se dispensáveis ao deslinde do feito.
+(...)
+Do Mérito –Do Alegado Contrato de Representação Comercial - Da Alegada Ilegalidade da Clausula "Del Credere"
+Ponderam em síntese que a sentença merece ser reformada posto que dos termos do contrato celebrado e o reconhecimento expresso da apelada resta inequívoco que a cláusula 6ª – Da Remuneração e Condições de Pagamento, deve obedecer às normas contidas na legislação que trata da representação comercial, isto é, a Lei Federal n.º 4.886/65, sendo certo que no caso em concreto há que se aplicar ao caso o Princípio do Pacta Sunt Servanda.
+(...)
+Infere-se dos autos que os ora apelantes firmaram um contrato de prestação de serviços e parceria comercial com a parte agravada em 12/12/2014 (fls.27-33). Ocorre que os apelantes contraíram dívidas oriundas de despesas particulares, em nome da empresa apelada, despesas estas que continuaram a existir e serem renovadas depois de encerrado o contrato.
+O magistrado sentenciante devidamente reconheceu pela não aplicabilidade do regime jurídico estabelecido na Lei Federal n 4886/65 restando bem delineado que:
+(...)
+Como cediço a ausência de registro no Conselho Regional de Representantes Comerciais não impede o recebimento dos valores pelos serviços efetivamente prestados, pois violaria a garantia constitucional do livre exercício de qualquer trabalho, ofício ou profissão. Todavia nesses casos, não se aplica regime jurídico específico da Lei 4.886/65, mas sim o regime geral do Código Civil.
+Consoante se verifica da exordial e das notas que a acompanharam, especialmente da planilha de cálculo de f.46-49, cumpre ressaltar que os réus em nenhum momento negaram os repasses realizados, tampouco negaram que havia previsão contratual de que a parceira representante é que deveria arcar com os custos de funcionamento, de modo que por óbvio que o valor de comissão não seria suficiente para arcar com todos os valores.
+Ocorre que no caso concreto infere-se que o repasse da comissão versava em 43% do valor dos fretes, o que atrai a conclusão quanto a responsabilidade assumida e a validade das cláusulas contratuais. (...)
+Ademais verifica-se que a cláusula que prevê o pagamento não pode ser considerada "del credere", pois não existe previsão específica que penalize a parte ré pelo não pagamento da comissão em caso de cancelamento da contratação ou desconto no repasse de comissão.
+Outrossim a alegação dos apelantes quanto a existência de cláusula "del credere" somente poderia ser comprovada através de perícia, o que não restou realizado nos autos devido à desídia dos próprios réus, ora apelantes, sendo válida a previsão da sentença quanto a possibilidade de aplicação das multas contratuais previstas nas cláusulas 8.1 e 9.1, não olvidando também a aplicação da multa estabelecida no art. 27, letra “j” da Lei nº 4.886/65, com relação à rescisão do contrato e aos gastos indevidos realizados pelos apelantes em nome do apelado (fls.50).
+Neste contexto deve ser mantida a sentença objurgada em todos os seus termos e fundamentos.
+
+Desse modo, verifica-se que para dissentir do que decidido pelo Tribunal a quo, necessária seria a análise das cláusulas contratuais, bem como o reexame do conjunto fático-probatório dos autos, o que atrai a incidência das Súmulas 279 e 454 desta Corte, as quais dispõem: “Para simples reexame de prova não cabe recurso extraordinário” e “Simples interpretação de cláusulas contratuais não dá lugar a recurso extraordinário”.
+Nesse sentido, ARE 715.689, Rel. Min. Luís Roberto Barroso, DJe de 06/02/2014, AI 768.630, Rel. Min. Gilmar Mendes, DJede 25/06/2011, e ARE 1.277.514-AgR, Rel. Min. Alexandre de Moraes, Primeira Turma, DJede 28/09/2020, esse último, assim ementado:
+
+“CONSTITUCIONAL REFLEXA. REAPRECIAÇÃO DE PROVAS. INADMISSIBILIDADE. SÚMULAS 279 E 454 DO STF. EXAME DE DIREITO LOCAL. SÚMULA 280/STF. 1. Os Recursos Extraordinários somente serão conhecidos e julgados, quando essenciais e relevantes as questões constitucionais a serem analisadas, sendo imprescindível ao recorrente, em sua petição de interposição de recurso, a apresentação formal e motivada da repercussão geral, que demonstre, perante o SUPREMO TRIBUNAL FEDERAL, a existência de acentuado interesse geral na solução das questões constitucionais discutidas no processo, que transcenda a defesa puramente de interesses subjetivos e particulares. 2. A obrigação do recorrente em apresentar formal e motivadamente a preliminar de repercussão geral, que demonstre sob o ponto de vista econômico, político, social ou jurídico, a relevância da questão constitucional debatida que ultrapasse os interesses subjetivos da causa, conforme exigência constitucional e legal (art. 102, § 3º, da CF/88, c/c art. 1.035, § 2º, do CPC/2015), não se confunde com meras invocações desacompanhadas de sólidos fundamentos no sentido de que o tema controvertido é portador de ampla repercussão e de suma importância para o cenário econômico, político, social ou jurídico, ou que não interessa única e simplesmente às partes envolvidas na lide, muito menos ainda divagações de que a jurisprudência do SUPREMO TRIBUNAL FEDERAL é incontroversa no tocante à causa debatida, entre outras de igual patamar argumentativo. 3. Tendo o acórdão recorrido solucionado as questões a si postas com base em preceitos de ordem infraconstitucional, não há espaço para a admissão de Recurso Extraordinário, que supõe matéria constitucional prequestionada explicitamente. 4. A argumentação do recurso extraordinário traz versão dos fatos diversa da exposta no acórdão, de modo que seu acolhimento passa necessariamente pela revisão das provas e das cláusulas contratuais. Incidem, portanto, os óbices da Súmula 279 (Para simples reexame de prova não cabe recurso extraordinário) e 454 (Simples interpretação de cláusulas contratuais não dá lugar a recurso extraordinário), ambas desta Corte. 5. A solução da controvérsia depende da análise da legislação local, o que é incabível em sede de recurso extraordinário, conforme consubstanciado na Súmula 280/STF (Por ofensa a direito local não cabe recurso extraordinário)”.
+
+Ante o exposto, nego seguimento ao recurso (alínea c do inciso V do art. 13 do Regimento Interno do Supremo Tribunal Federal).
+Havendo prévia fixação de honorários advocatícios pelas instâncias de origem, seu valor monetário será majorado em 10% (dez por cento) em desfavor da parte recorrente, nos termos do art. 85, § 11, do Código de Processo Civil, observado os limites dos §§ 2º e 3º do referido artigo e a eventual concessão de justiça gratuita.
+Publique-se.
+Brasília, 31 de março de 2026.
+
+Ministro EDSON FACHIN
+Presidente
+Documento assinado digitalmente
