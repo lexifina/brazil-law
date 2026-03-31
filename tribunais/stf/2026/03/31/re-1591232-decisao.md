@@ -1,0 +1,56 @@
+Decisão
+
+Trata-se de Recurso Extraordinário interposto em face de acórdão do Tribunal de Justiça do Estado do Rio de Janeiro, assim ementado (Doc. 11, fl. 4):
+“Apelação Cível. Obrigação de Fazer. Fornecimento de medicamento pelo Poder Público. Art. 196 da C.F. e Lei Federal n° 8.080/90. Obrigação solidária da União, Estados e Municípios. Se a medicação prescrita ao paciente tem congênere na farmacopéia nacional, deve-se facultar ao devedor a substituição mediante prévia avaliação da Divisão de Perícias Judiciais desta Corte. Provimento parcial do recurso.”
+
+Opostos embargos de declaração (Doc. 14), foram rejeitados (Doc. 17).
+No Recurso Extraordinário (Doc. 19), interposto com amparo no art. 102, III, “a”, da CF/1988, o ESTADO DO RIO DE JANEIRO aponta violação ao art. 5º, LIV, da CF/1988, sustentando a nulidade do acórdão recorrido ante a falta de fundamentação em relação aos dispositivos constitucionais arguidos pelo recorrente em sede de embargos de declaração.
+Por outro lado, alega ofensa aos arts. 2º; 5º; 167; 196; e 198 da Constituição Federal, questionando a determinação de concessão de medicamento não padronizado (Aripiprazol/Abillify) para tratamento de doença mental crônica, quando há outros que, disponibilizados gratuitamente pelo Poder Público, suprem as necessidades da parte autora.
+Nessa linha, defende que o Estado, “que já destina seus esforços para satisfação de suas competências com os programas e ações de saúde que lhe cabem”, não pode ser condenado a assumir as atribuições de outros entes federativos (Doc. 19, fl. 11).
+Aponta a existência de alternativas terapêuticas disponíveis no SUS para tratamento da doença que acomete o paciente, e conclui que “existindo outras alternativas terapêuticas ao medicamento pleiteado fornecidas gratuitamente pelo SISTEMA ÚNICO DE SAÚDE, não há como reconhecer omissão no dever de saúde do ESTADO” (Doc. 19, fl. 13).
+Por fim, afirma que a determinação de fornecimento de medicamento que não consta das políticas públicas do SUS afronta a higidez orçamentária do ente.
+Em seguida determinou-se, na origem, o sobrestamento do RE à luz dos Temas 793 e 1234 do STF (Doc. 27).
+À consideração de que o caso em análise versa sobre medicamento, o juízo local afastou a aplicação do Tema 793/STF e, em seguida, determinou o retorno dos autos ao órgão julgador para eventual juízo de retratação ao Tema 1234 da repercussão geral (Doc. 29), oportunidade em que foi mantido o acórdão recorrido, em novo acórdão assim ementado (Doc. 32):
+“APELAÇÃO CÍVEL. OBRIGAÇÃO DE FAZER. FORNECIMENTO DO MEDICAMENTO PELO PODER PÚBLICO. SENTENÇA DE PROCEDÊNCIA. RETORNO DA 3ª VICE-PRESIDÊNCIA PARA REEXAME DE DECISÃO DO COLEGIADO. TEMA 1234 DO STF. I. Caso Em Exame Retorno dos autos a este Órgão Julgador, por determinação da Terceira Vice-Presidência, para eventual exercício do juízo de retratação, à luz do Tema 1234 do Supremo Tribunal Federal. Apelação Cível interposta pelo Estado réu. Parcial Provimento. Embargos de Declaração rejeitados. Interposição de Recurso Extraordinário. II. Questão em Discussão Analisa-se a conformidade do Acórdão, com a tese jurídica fixada pelo Supremo Tribunal Federal, no Tema 1234. III. Razões de Decidir Responsabilidade solidária dos entes estatais, em assegurar o cumprimento do princípio de que a saúde é direito de todos, de acordo com o artigo 196 da CRFB. Direito à saúde que se insere entre os direitos e garantias fundamentais, consagrados no art. 6º da CRFB, assim como a Lei federal nº. 8.080/90, que implantou o sistema único de saúde (sus), reconhecendo o direito à saúde (art. 2º) como fundamental. Súmula nº 65 TJRJ. Demanda distribuída em 07/11/2010, com sentença de mérito foi proferida em 30/05/2011. Modulação dos efeitos do Tema 1234, de repercussão geral. Aplicação somente às ações ajuizadas após a publicação do resultado do julgamento de mérito no Diário de Justiça Eletrônico, em 11/10/2024. Manutenção do acordão. IV – Dispositivo Juízo de Retratação não exercido.”
+
+Mantido o acórdão recorrido, o RE foi admitido na origem, e os autos, encaminhados a esta CORTE (Doc. 36).
+É o relatório. Decido.
+O cerne da controvérsia versa sobre a possibilidade de fornecimento judicial do medicamento ARIPIPRAZOL, registrado na ANVISA, não incorporado ao SUS, para o tratamento de doença mental crônica (CID10 F.20).
+Esta CORTE apreciou a questão posta em debate no julgamento do Tema 6-RG (RE 566.471, Rel. Min. MARCO AURÉLIO, Redator p/ Acórdão Min. ROBERTO BARROSO), e do Tema 1.234-RG (RE 1.366.243, Rel. Min. GILMAR MENDES), bem como consolidou seu entendimento nos enunciados das Súmulas Vinculantes 60 e 61, que assim estabelecem:
+
+“SV 60 - O pedido e a análise administrativos de fármacos na rede pública de saúde, a judicialização do caso, bem ainda seus desdobramentos (administrativos e jurisdicionais), devem observar os termos dos 3 (três) acordos interfederativos (e seus fluxos) homologados pelo Supremo Tribunal Federal, em governança judicial colaborativa, no tema 1.234 da sistemática da repercussão geral RE 1.366.243.”
+
+“SV 61 - A concessão judicial de medicamento registrado na ANVISA, mas não incorporado às listas de dispensação do Sistema Único de Saúde, deve observar as teses firmadas no julgamento do Tema 6 da Repercussão Geral (RE 566.471).”
+
+Para análise do pedido de fornecimento de medicamento não incorporado, como é o caso, há que se observar os requisitos estabelecidos no Tema 6 da repercussão geral para o fornecimento excepcional de medicamentos não incorporados:
+
+“(a) negativa de fornecimento do medicamento na via administrativa, nos termos do item '4' do Tema 1234 da repercussão geral;
+(b) ilegalidade do ato de não incorporação do medicamento pela Conitec, ausência de pedido de incorporação ou da mora na sua apreciação, tendo em vista os prazos e critérios previstos nos artigos 19-Q e 19-R da Lei nº 8.080/1990 e no Decreto nº 7.646/2011;
+(c) impossibilidade de substituição por outro medicamento constante das listas do SUS e dos protocolos clínicos e diretrizes terapêuticas;
+(d) comprovação, à luz da medicina baseada em evidências, da eficácia, acurácia, efetividade e segurança do fármaco, necessariamente respaldadas por evidências científicas de alto nível, ou seja, unicamente ensaios clínicos randomizados e revisão sistemática ou meta-análise;
+(e) imprescindibilidade clínica do tratamento, comprovada mediante laudo médico fundamentado, descrevendo inclusive qual o tratamento já realizado; e
+(f) incapacidade financeira de arcar com o custeio do medicamento.”
+
+No caso concreto, o Tribunal de origem realizou juízo negativo de retratação em relação ao Tema 1234 da repercussão geral, sob os seguintes fundamentos (Doc. 32, fls. 5-9):
+
+“Na hipótese, embora o entendimento da Corte Superior venha ditando novas diretrizes, tem-se que, no ano de 2008, quando do ajuizamento da ação, o entendimento era da responsabilidade solidária dos entes públicos, sendo dever comum das entidades federativas assegurar a todos os cidadãos, indistintamente, a saúde, tendo que desempenhar um papel relevante nessa tarefa. O que quer dizer que a responsabilidade não é exclusiva do Estado ou da União, mas também do Município, objetivando, desta sorte, assegurar o cumprimento do princípio de que a saúde é direito de todos, de acordo com o art. 196 CRFB/88.
+Vale, inclusive, salientar que, no ano do ajuizamento da ação, sequer era vigente a Tese firmada no Tema Repetitivo n° 106, do C. STJ, que foi definida no Acórdão dos embargos declaratórios, com publicação apenas em 21/09/2018.
+O Acórdão teve como fundamento o direito à saúde, decorrente do direito fundamental à vida, tutelado por nossa Carta e, por isso, assegurado por todos os entes da federação, conforme o seu artigo 196, que prescreve que a saúde é direito de todos e dever do Estado, enquanto o art. 23, inciso II, atribui competência comum à União, Estados, Distrito Federal e Municípios para cuidar da saúde e assistência pública. Além disso, a competência para legislar concorrentemente sobre previdência social, proteção e defesa da saúde é da União, dos Estados e do Distrito Federal (art. 24, XII). Por essas razões, os Municípios são competentes para prestar serviços de atendimento à saúde da população (art. 30, VII).
+Ademais, conforme o disposto no art. 198, as ações e serviços públicos de saúde integram uma rede regionalizada e hierarquizada e constituem um sistema único. O parágrafo único dispõe que esta rede é organizada e financiada com recursos do orçamento da seguridade social da União, dos Estados, do Distrito Federal e dos Municípios, além de outras fontes.
+Desta forma, o entendimento de que os artigos 196 e 198 da Constituição da República asseguram aos necessitados o fornecimento gratuito dos medicamentos indispensáveis ao tratamento de sua saúde, além dos procedimentos necessários para a manutenção de sua saúde, de responsabilidade da União, dos Estados e Municípios, já se encontra consolidado em nossos Tribunais.
+(...)
+Assim sendo, como a presente demanda foi distribuída em 18/11/2008, bem como, a sentença de mérito foi proferida em 02/05/2011, certo é que toda a tramitação do feito ocorreu antes da publicação do Acórdão de mérito do Tema 1234, de repercussão geral do E. STF, não havendo que se falar me juízo de retratação.
+(...)
+Portanto, correto o julgamento do recurso com base nos paradigmas anteriores, vigentes à época da prolação da sentença, no ano de 2011.”
+
+Contudo, a restrição temporal dos efeitos determinada no julgamento do Tema 1234 da repercussão geral, após o acolhimento parcial dos Embargos de Declaração da União, versou tão somente sobre a competência, afastando a possibilidade de suscitação de conflito negativo de competência a respeito dos processos anteriores ao referido marco jurídico.
+Já os efeitos dos requisitos fixados para fornecimento excepcional de medicamentos não incorporados, estabelecidos no julgamento do Tema 6 da repercussão geral, não foram objeto de qualquer modulação, sendo necessária sua observância nos processos em curso.
+Desse modo, destaca-se que não houve comprovação, no caso concreto, de eventual ilegalidade do ato de não incorporação do medicamento pela Conitec, ausência de pedido de incorporação ou da mora na sua apreciação, nem da comprovação, à luz da medicina baseada em evidências, da eficácia, acurácia, efetividade e segurança do fármaco, necessariamente respaldadas por evidências científicas de alto nível, ou seja, unicamente ensaios clínicos randomizados e revisão sistemática ou meta-análise, nem critérios técnicos que indiquem eventual superioridade do medicamento sobre as alternativas disponíveis no SUS.
+Verifica-se, portanto, que a pretensão da parte autora não preenche os requisitos estabelecidos no julgamento dos Temas 6 e 1234 da repercussão geral, bem como nos enunciados de Súmulas Vinculantes nºs 60 e 61, os quais não foram observados pelo acórdão recorrido, razão pela qual deve ser reformado.
+Diante do exposto, com base no art. 21, §§1º e 2º, do Regimento Interno do Supremo Tribunal Federal, DOU PROVIMENTO AO RECURSO EXTRAORDINÁRIO para julgar improcedente o pedido inicial.
+Publique-se.
+Brasília, 31 de março de 2026.
+
+Ministro ALEXANDRE DE MORAES
+Relator
+Documento assinado digitalmente
