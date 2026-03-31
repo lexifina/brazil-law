@@ -1,0 +1,73 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEXTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 25/03/2026 a 31/03/2026, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Carlos Pires Brandão, Og Fernandes e Sebastião Reis Júnior votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Carlos Pires Brandão.
+Não participou do julgamento o Sr. Ministro Rogerio Schietti Cruz.
+EMENTA
+PROCESSUAL PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. PREVENÇÃO DE OUTRA CÂMARA CRIMINAL DO TRIBUNAL DE ORIGEM. INOCORRÊNCIA. AUSÊNCIA DE CONEXÃO ENTRE AS AÇÕES PENAIS. AGRAVO DESPROVIDO.
+1. A conexão tem por finalidade a reunião de processos para julgamento conjunto, de modo a permitir uma visão global do quadro fático-probatório, favorecendo a economia processual, a coerência decisória e a racionalidade do sistema.
+2. A conexão probatória (art. 76, III, do CPP) exige dependência técnica, consistente na influência direta da prova de uma infração sobre a outra, o que não se verifica quando as ações penais se fundam em apreensões distintas, datas diversas, núcleos autônomos de imputação e conjuntos probatórios próprios.
+3. o Tribunal de origem consignou a ausência de conexão entre os processos, descrevendo expressamente os elementos que individualizam cada ação penal, o que esvazia a tese defensiva de prevenção da 12ª Câmara Criminal do Tribunal de Justiça do Estado de São Paulo.
+4. Conclusão diversa daquela alcançada pela instância ordinária exigiria aprofundado reexame do conjunto fático-probatório, providência incompatível com a estreita via do habeas corpus.
+5. Agravo regimental desprovido.
+RELATÓRIO
+O EXMO. SR. MINISTRO ANTONIO SALDANHA PALHEIRO (Relator):
+Trata-se de agravo regimental em habeas corpus interposto por VALERIO APARECIDO PEREIRA DA SILVA contra decisão em que deneguei a ordem em decisum assim relatado (e-STJ fls. 386/387):
+Trata-se de habeas corpus com pedido liminar impetrado em benefício de VALERIO APARECIDO PEREIRA DA SILVA no qual se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO (Exceção de coisa julgada n. 0040683-11.2025.8.26.0000).
+Depreende-se dos autos que o ora paciente suscitou exceção de coisa julgada "requerendo a decretação da conexão entre os autos do recurso de apelação de n. 1504149-29.2024.8.26.0032, distribuídos a este Relator em 17/10/2025 (fl. 1.124 daqueles), e os da ação penal de número 1501422-33.2024.8.26.0603, em que o recurso de apelação foi julgado pela c. 12ª Câmara Criminal em 22/09/2025, em v. Acórdão já transitado em julgado" (e-STJ fl. 14).
+O Tribunal de origem, contudo, rejeitou o pedido (e-STJ fls. 13/18).
+Daí o presente writ, no qual postula a defesa (e-STJ fls. 9/10):
+a) a suspensão do julgamento da apelação criminal nº 1504149- 29.2024.8.26.0032 pela 4ª Câmara de Direito Criminal do TJSP, caso ainda não tenha ocorrido, bem como a suspensão dos efeitos do acórdão que rejeitou a exceção de conexão/prevenção;
+b) caso já proferido o julgamento da apelação, a suspensão dos efeitos do acórdão condenatório no que tange ao Paciente, até o julgamento definitivo deste writ, impedindo-se a execução da pena com base em decisão proferida por órgão que atua em desconformidade com as regras de competência e prevenção.
+IV - DO PEDIDO (MÉRITO)
+Ante o exposto, requer-se, no mérito, a concessão da ordem para:
+a) reconhecer a conexão probatória entre os processos nº 1504149- 29.2024.8.26.0032 e nº 1501422-33.2024.8.26.0603, ambos da Comarca de Araçatuba/SP, à luz do art. 76, II, do CPP;
+b) declarar a prevenção da 12ª Câmara de Direito Criminal do TJSP, sob a relatoria do Desembargador Sérgio Mazina Martins, nos termos do art. 105 do Regimento Interno do Tribunal, para apreciação conjunta ou correlata dos feitos, determinando ao Tribunal de Justiça de São Paulo que remeta à 12ª Câmara a apelação criminal relativa ao processo nº 1504149-29.2024.8.26.0032, a fim de evitar decisões conflitantes e preservar a segurança jurídica;
+c) em consequência, anular o acórdão proferido pela 4ª Câmara de Direito Criminal que rejeitou a exceção de conexão/prevenção, por violação às regras de competência e ao juiz natural.
+Subsidiariamente, caso se entenda não ser possível impor diretamente a redistribuição interna, requer-se que este Superior Tribunal de Justiça determine, ao menos, que:
+a) o Tribunal de Justiça de São Paulo reconheça expressamente a conexão probatória entre os feitos e, ao julgar a apelação no processo nº 1504149- 29.2024.8.26.0032, considere, de forma vinculante, o conteúdo do acórdão absolutório proferido pela 12ª Câmara no processo nº 1501422-33.2024.8.26.0603, de modo a afastar qualquer condenação do Paciente fundada em quadro probatório que aquele órgão já reputou insuficiente para demonstrar a autoria;
+b) em qualquer hipótese, sejam declaradas nulas as decisões que desconsiderem a absolvição anterior do Paciente, proferida pelo mesmo Tribunal, quando lastreadas no mesmo núcleo probatório.
+Liminar indeferida (e-STJ fls. 257/259).
+Informações prestadas (e-STJ fls. 263/265 e 269/374).
+O Ministério Público manifestou-se pelo não conhecimento do habeas corpus ou, se conhecido, pela denegação da ordem (e-STJ fls. 376/381).
+No agravo, a parte recorrente sustenta que a decisão agravada equivocou-se ao tratar a controvérsia como pedido de reunião de processos, aplicando de forma automática o art. 82 do CPP e a Súmula n. 235/STJ. Alega que a insurgência é recursal-interna e busca a correta definição do órgão fracionário prevento para apreciar feitos derivados do mesmo contexto fático-probatório.
+Alega que, diversamente do afirmado na decisão agravada, a prevenção, no âmbito da distribuição interna de recursos, atua como regra de competência e de estabilização decisória, especialmente quando já houve cognição colegiada exauriente sobre o núcleo imputativo envolvendo o mesmo paciente em investigação comum.
+Sustenta, ainda, que o reconhecimento da interdependência probatória não demanda reexame fático incompatível com habeas corpus, pois decorre de premissas objetivas já assentadas nos autos, como a mesma macroinvestigação, o mesmo paciente como figura central e o risco concreto de decisões inconciliáveis.
+Aponta que o precedente invocado refere-se à reunião de processos após sentença, hipótese distinta da dos autos, em que se busca apenas preservar o juiz natural recursal e a coerência decisória no âmbito do próprio Tribunal.
+Requer, por fim, a reconsideração da decisão ou o seu enfrentamento pelo colegiado (e-STJ fl. 401).
+É o relatório.
+EMENTA
+PROCESSUAL PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. PREVENÇÃO DE OUTRA CÂMARA CRIMINAL DO TRIBUNAL DE ORIGEM. INOCORRÊNCIA. AUSÊNCIA DE CONEXÃO ENTRE AS AÇÕES PENAIS. AGRAVO DESPROVIDO.
+1. A conexão tem por finalidade a reunião de processos para julgamento conjunto, de modo a permitir uma visão global do quadro fático-probatório, favorecendo a economia processual, a coerência decisória e a racionalidade do sistema.
+2. A conexão probatória (art. 76, III, do CPP) exige dependência técnica, consistente na influência direta da prova de uma infração sobre a outra, o que não se verifica quando as ações penais se fundam em apreensões distintas, datas diversas, núcleos autônomos de imputação e conjuntos probatórios próprios.
+3. o Tribunal de origem consignou a ausência de conexão entre os processos, descrevendo expressamente os elementos que individualizam cada ação penal, o que esvazia a tese defensiva de prevenção da 12ª Câmara Criminal do Tribunal de Justiça do Estado de São Paulo.
+4. Conclusão diversa daquela alcançada pela instância ordinária exigiria aprofundado reexame do conjunto fático-probatório, providência incompatível com a estreita via do habeas corpus.
+5. Agravo regimental desprovido.
+VOTO
+O EXMO. SR. MINISTRO ANTONIO SALDANHA PALHEIRO (Relator):
+A irresignação não merece prosperar, devendo ser mantida a decisão agravada por seus próprios fundamentos.
+A defesa estrutura sua tese a partir da ideia de conexão probatória, prevista no art. 76, III, do Código de Processo Penal, sustentando que os Processos n. 1504149-29.2024.8.26.0032 e 1501422-33.2024.8.26.0603 derivam de uma mesma investigação, o que demanda a apreciação por um mesmo Juízo.
+Tal raciocínio, porém, não se enquadra na situação concreta.
+A conexão tem por finalidade a reunião de processos para julgamento conjunto, de modo a permitir uma visão global do quadro fático-probatório, favorecendo a economia processual, a coerência decisória e a racionalidade do sistema.
+No caso, ainda que se possa admitir, em tese, certa similitude investigativa entre os eventos, os elementos fáticos delineados pelo Juízo de origem demonstram a inexistência de conexão entre os processos. Tal conclusão decorre da documentação juntada pelo Juízo de origem em relação ao P rocesso n. 1504149-29.2024.8.26.0032 (e-STJ fls. 271/327), assim como em relação aos autos n. 1501422-33.2024.8.26.0603 (e-STJ fls. 337/372).
+Na espécie, não se configura conexão intersubjetiva, nos termos do art. 76, I, do CPP, uma vez que os corréus são diversos, tampouco conexão objetiva, prevista no art. 76, II, do mesmo diploma, pois inexiste imputação de que uma das infrações tenha sido praticada para facilitar, ocultar ou assegurar a impunidade de outra.
+Resta, portanto, a conexão probatória (art. 76, III, do CPP). Tal modalidade de conexão exige que a prova de uma infração influa diretamente na prova da outra. É justamente nesse ponto que a fundamentação defensiva se fragiliza.
+O acórdão do órgão reputado coator reconhece que os fatos se inserem em um "contexto fático semelhante", mas destaca que as denúncias se baseiam em apreensões distintas, datas diversas, núcleos autônomos de imputação e conjuntos probatórios próprios, ainda que com elementos investigativos em comum (e-STJ fls. 13/18).
+Essa constatação afasta a ideia de dependência probatória em sentido técnico. Com efeito, a conexão probatória pressupõe que a prova de uma infração exerça influência decisiva sobre a prova da outra, o que não se infere automaticamente do simples fato de os processos decorrerem de uma mesma investigação ou se apoiarem em relatórios policiais semelhantes.
+Transcrevo, por oportuno, o seguinte excerto do acórdão recorrido (e-STJ fl. 15/17, grifei):
+Em primeiro lugar, cabe registrar que não se aplica ao caso o invocado artigo 105 do Regimento Interno desta c. Corte, que prevê que a Câmara que primeiro conhecer de uma causa "terá a competência preventa para os feitos originários conexos e para todos os recursos".
+No caso, nota-se que não foi reconhecida, na origem, a conexão entre os feitos, de modo que não haveria causa para que a z. Serventia deste Segundo Grau operasse a distribuição por prevenção. Ao contrário nota-se que a z. Serventia aplicou devidamente a regra da prevenção, já que a apelação n. 1504149-29.2024.8.26.0032 foi distribuída ao mesmo relator do habeas corpus n. 2273927-44.2024.8.26.0000, referente especificamente àquela ação penal e já julgado em definitivo por esta c. 4ª Câmara Criminal.
+Além disso, cabe ressaltar que as denúncias oferecidas em cada um dos feitos mencionados tratam sobre fatos bastante diversos.
+Nos autos de n. 1501422-33.2024.8.26.0603, em que o recurso de apelação foi julgado pela c. 12ª Câmara Criminal, há denúncia que imputou ao requerente e aos corréus Jonas Rocha Porfirio e Maria Izabel Antonio Avato de Almeida delitos de tráfico de drogas e associação para esse fim, em razão de apreensão de drogas datada de 08/11/2024, na rua Rua Pará, 603, Jardim Paulista, comarca de Araçatuba, em imóvel alugado pelo requerente.
+Já nos autos que foram distribuídos a este Relator, os de número 1504149-29.2024.8.26.0032, a denúncia foi oferecida contra o requerente e outros dois corréus diversos dos antes mencionados, isso é, Nilma Aline de Cunha Ferreira e Thiago Costa Silva. Nesse caso, imputou-se ao requerente, entre outros, o crime tipificado no artigo 2º da Lei 12.850/13, ausente na ação penal anteriormente citada. A denúncia, ademais, cita outras apreensões que culminaram em seu oferecimento, dadas em 28 de maio de 2024, na residência de Michel de Souza Santos; em 08 de julho de 2022, em endereço relacionado a Fernando Pereira Idelfonso; no dia 14 de março de 2024, em endereço relacionado a Alessandro Barbosa e Alessandra Silva Ramos Alves; e no dia 28 de março de 2024, na residência de Thais Cristina Villela de Oliveira.
+Nota-se, portanto, que embora em contexto fático semelhante, pois relacionado à atividade, em tese, ampla de tráfico de drogas promovido pelo requerente, as denúncias referem conjunto de réus, crimes e provas distintos, ressaltando-se que nenhuma das apreensões mencionadas na ação penal n. 1504149-29.2024.8.26.0032 se relacionam diretamente com os corréus da ação n. 1501422-33.2024.8.26.0603, à exceção do próprio requerente.
+ ..
+E, uma vez que esta c. 4ª Câmara Criminal já conheceu ação de habeas corpus relacionada diretamente aos fatos apreciados na ação penal n. 1504149-29.2024.8.26.0032 (conforme termo de distribuição por prevenção a fl. 1.124 daqueles), tenho que a prevenção a este Relator se sobrepõe e, outrossim, nenhum prejuízo acarreta às partes. Aliás, por quatro vezes esta c. Câmara julgou ações de habeas corpus relativas a essa ação penal (números 2312744-80.2024.8.26.0000, 2312820-07.2024.8.26.0000, 2312855-64.2024.8.26.0000 e 2159430-80.2025.8.26.0000).
+Portanto, já tendo se debruçado anteriormente sobre este caso específico, convém que esta c. Câmara leve a efeito o julgamento dos recursos de apelação.
+Diante desse quadro, respeitada a combativa argumentação defensiva, não há falar-se "contradição decisória e violação à unidade de jurisdição", já que se trata de fatos, embora ocorridos em contexto semelhante, bastante diversos, dadas as diferenças em relação ao grupo de réus, aos crimes imputados e aos locais e datas das apreensões que deram azo a cada uma das ações penais mencionadas.
+Da leitura do excerto transcrito, verifica-se que o Tribunal de origem consignou a ausência de conexão entre os processos, descrevendo expressamente os elementos que individualizam cada ação penal, o que esvazia a tese defensiva de prevenção da 12ª Câmara Criminal do Tribunal de Justiça do Estado de São Paulo.
+Conclusão diversa daquela alcançada pela instância ordinária exigiria aprofundado reexame do conjunto fático-probatório, providência incompatível com a estreita via do habeas corpus.
+Diante de todo o exposto, nego provimento ao agravo regimental.
+É como voto.
+Ministro ANTONIO SALDANHA PALHEIRO
+Relator
