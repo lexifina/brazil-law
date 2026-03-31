@@ -1,0 +1,32 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUINTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 25/03/2026 a 31/03/2026, por unanimidade, não conhecer do recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Ribeiro Dantas, Joel Ilan Paciornik, Messod Azulay Neto e Maria Marluce Caldas votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Reynaldo Soares da Fonseca.
+EMENTA
+AGRAVO REGIMENTAL NO HABEAS CORPUS. FUNDAMENTOS DA DECISÃO AGRAVADA. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA. OFENSA À DIALETICIDADE. INCIDÊNCIA DA SÚMULA 182/STJ. AGRAVO REGIMENTAL NÃO CONHECIDO.
+1. A petiç ão recursal do agravante esbarra no óbice do enunciado n. 182 da Súmula desta Corte, porquanto não foi impugnado o fundamento da decisão agravada, consistente na impossibilidade da impetração de habeas corpus contra ato omissivo atribuído à Terceira Vice-Presidência do Tribunal de Justiça do Estado de Minas Gerais, porquanto a competência desta Corte Superior para examinar habeas corpus, nos termos do art. 105, I, "c", da Constituição Federal, somente se inaugura após decisão colegiada do Tribunal de origem, exigindo-se o exaurimento prévio da instância ordinária. Assim, a não impugnação específica e pormenorizada dos fundamentos da decisão agravada inviabiliza o conhecimento do agravo, por violação do princípio da dialeticidade, uma vez que os fundamentos não impugnados se mantêm.
+2. Agravo regimental não conhecido.
+RELATÓRIO
+Trata-se de agravo regimental interposto por JEFFERSON CAMARA DOS SANTOS contra decisão monocrática, da minha lavra, que indeferiu liminarmente o habeas corpus impetrado contra ato omissivo atribuído à Terceira Vice-Presidência do Tribunal de Justiça do Estado de Minas Gerais (e-STJ fls. 196/200).
+Em suas razões recursais (e-STJ fls. 204/208), a defesa, em suma, repete os termos da impetração, sem refutar os fundamentos da decisão monocrática desta relatoria.
+Aduz que o rigorismo formal adotado na decisão agravada ignora a teratologia do caso concreto e que o processo ficou paralisado por "absurdos" 8 meses na Terceira Vice-Presidência do TJMG, aguardando um mero exame de admissibilidade recursal, o que impõe a concessão da ordem de habeas corpus de ofício.
+Ao final, requer:
+1-Seja recebido e conhecido o presente Agravo Regimental, para que Vossa Excelência, exercendo o Juízo de Retratação, reconsidere a r. decisão monocrática, afastando o óbice formal da supressão de instância;
+2-Caso não seja este o entendimento, requer seja o feito levado à mesa da Egrégia Sexta Turma na primeira sessão desimpedida, para que seja dado provimento ao recurso;
+3-No mérito, seja concedida a MEDIDA LIMINAR, ainda que mediante ORDEM DE OFÍCIO (Art. 654, §2º, CPP), determinando-se o imediato relaxamento da prisão preventiva do Agravante JEFFERSON CAMARA DOS SANTOS, face ao inescusável excesso de prazo qualificado (831 dias), à flagrante omissão do art. 316, parágrafo único, do CPP (paralisação de 240 dias sem revisão), com a consequente expedição de ALVARÁ DE SOLTURA.
+4-Subsidiariamente, seja a prisão substituída pelas medidas cautelares do art. 319 do CPP, notadamente a monitoração eletrônica.
+EMENTA
+AGRAVO REGIMENTAL NO HABEAS CORPUS. FUNDAMENTOS DA DECISÃO AGRAVADA. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA. OFENSA À DIALETICIDADE. INCIDÊNCIA DA SÚMULA 182/STJ. AGRAVO REGIMENTAL NÃO CONHECIDO.
+1. A petiç ão recursal do agravante esbarra no óbice do enunciado n. 182 da Súmula desta Corte, porquanto não foi impugnado o fundamento da decisão agravada, consistente na impossibilidade da impetração de habeas corpus contra ato omissivo atribuído à Terceira Vice-Presidência do Tribunal de Justiça do Estado de Minas Gerais, porquanto a competência desta Corte Superior para examinar habeas corpus, nos termos do art. 105, I, "c", da Constituição Federal, somente se inaugura após decisão colegiada do Tribunal de origem, exigindo-se o exaurimento prévio da instância ordinária. Assim, a não impugnação específica e pormenorizada dos fundamentos da decisão agravada inviabiliza o conhecimento do agravo, por violação do princípio da dialeticidade, uma vez que os fundamentos não impugnados se mantêm.
+2. Agravo regimental não conhecido.
+VOTO
+De plano, destaco que não é possível conhecer do agravo regimental.
+Com efeito, a petição recursal do agravante esbarra no óbice do enunciado n. 182 da Súmula desta Corte, porquanto não foi impugnado o fundamento da decisão agravada, consistente na impossibilidade da impetração de habeas corpus contra ato omissivo atribuído à Terceira Vice-Presidência do Tribunal de Justiça do Estado de Minas Gerais, porquanto a competência desta Corte Superior para examinar habeas corpus, nos termos do art. 105, I, "c", da Constituição Federal, somente se inaugura após decisão colegiada do Tribunal de origem, exigindo-se o exaurimento prévio da instância ordinária.
+Somado a isso, ao contrário do alegado, A concessão de habeas corpus de ofício é prerrogativa do julgador e não pode ser utilizada para violar regras de competência ou como meio de burlar os requisitos do recurso próprio (AgRg no HC n. 993.856/SP, relator Ministro Messod Azulay Neto, Quinta Turma, julgado em 22/4/2025, DJEN de 30/4/2025).
+Portanto, a não impugnação específica e pormenorizada dos fundamentos da decisão agravada inviabiliza o conhecimento do agravo regimental, por violação do princípio da dialeticidade, uma vez que os fundamentos não impugnados se mantêm.
+A propósito:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. PROCESSO PENAL. PRINCÍPIO DA DIALETICIDADE. EXIGÊNCIA DE IMPUGNAÇÃO ESPECÍFICA. INCIDÊNCIA DA SÚMULA N. 182 DESTA CORTE. FUNDAMENTO DE INEXISTÊNCIA DE EXAURIMENTO DA INSTÂNCIA ANTECEDENTE NÃO COMBATIDO. PETIÇÃO INICIAL DO HABEAS CORPUS LIMINARMENTE INDEFERIDA. AGRAVO REGIMENTAL NÃO CONHECIDO.
+1. O princípio da dialeticidade impõe ao Agravante o ônus de demonstrar o desacerto da decisão agravada. No caso, as razões do regimental não rebatem, especificamente, o fundamento da decisão recorrida de que o writ não poderia ser conhecido, pois interposto contra decisão monocrática de Desembargador Relator, sem que o Órgão colegiado a quo analisasse a matéria. Fundamento de inexistência de exaurimento da instância não combatido no presente recurso.
+2. Agravo regimental não conhecido. (AgRg no HC 718.289/SP, Rel. Ministra LAURITA VAZ, SEXTA TURMA, julgado em 22/02/2022, DJe 03/03/2022)
+Ante o exposto, não conheço do agravo regimental.
+É como voto.
