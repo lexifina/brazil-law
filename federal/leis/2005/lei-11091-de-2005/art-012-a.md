@@ -1,0 +1,5 @@
+Art. 12-A. A partir de 1º de janeiro de 2025, o Incentivo à Qualificação será calculado com base no padrão de vencimento percebido pelo servidor, na forma do Anexo IV.
+§ 1º Para fins de concessão do Incentivo à Qualificação, o Poder Executivo federal estabelecerá os critérios e os processos de validação dos certificados e títulos, observadas as diretrizes previstas no art. 24, § 2º.
+§ 2º O Incentivo à Qualificação de que trata o caput será concedido aos servidores que possuírem certificado, diploma ou titulação que exceda a exigência de escolaridade mínima para ingresso no cargo do qual seja titular, independentemente do nível de classificação do cargo ocupado.
+§ 3º Os percentuais do Incentivo à Qualificação não são acumuláveis e serão incorporados aos respectivos proventos de aposentadoria e pensão.
+§ 4º O Incentivo à Qualificação somente integrará os proventos de aposentadorias e as pensões quando os certificados considerados para a sua concessão tiverem sido obtidos até a data em que se deu a aposentadoria ou a instituição da pensão.

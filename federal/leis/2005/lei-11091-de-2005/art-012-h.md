@@ -1,0 +1,3 @@
+Art. 12-H. Os efeitos financeiros do Incentivo à Qualificação decorrentes da concessão do RSC-PCCTAE ocorrerão a partir da data de sua concessão e não retroagirão à data de seu requerimento.
+§ 1º No caso de eventual concessão do RSC-PCCTAE em prazo superior ao estabelecido no § 3º do art. 12-E desta Lei, os efeitos financeiros retroagirão ao término desse prazo.
+§ 2º No caso de haver necessidade de juntada de documentação complementar por parte do servidor para aferição do cumprimento de requisito, o prazo a que se refere o § 1º deste artigo será contado a partir da data da instrução completa do processo.

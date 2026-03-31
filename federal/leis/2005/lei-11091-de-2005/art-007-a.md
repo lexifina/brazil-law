@@ -1,0 +1,1 @@
+Art. 7º-A. A partir de 1º de janeiro de 2025, os cargos que compõem o Plano de Carreira em cada nível de classificação serão estruturados em dezenove padrões de vencimento, conforme correlação estabelecida no Anexo I-D.

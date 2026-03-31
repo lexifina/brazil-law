@@ -1,0 +1,1 @@
+Art. 13-A. Os servidores lotados nas Instituições Federais de Ensino integrantes do Plano de Carreira dos Cargos Técnico- Administrativos em Educação não farão jus à Vantagem Pecuniária Individual - VPI instituída pela Lei nº 10.698, de 2 de julho de 2003.

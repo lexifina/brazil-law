@@ -1,0 +1,4 @@
+Art. 12-B. A partir de 1º de abril de 2026, fica instituído o Reconhecimento de Saberes e Competências para o Plano de Carreira dos Cargos Técnico-Administrativos em Educação (RSC-PCCTAE).
+§ 1º O RSC-PCCTAE caracteriza-se pelo reconhecimento do saber não instituído dos servidores ativos, resultante da atuação profissional no exercício do cargo, na dinâmica de ensino, de pesquisa e de extensão das Instituições Federais de Ensino, conforme o disposto no inciso IV do caput do art. 3º desta Lei.
+§ 2º O RSC-PCCTAE será utilizado exclusivamente para fins de percepção do Incentivo à Qualificação de que trata o art. 11 como uma modalidade alternativa aos critérios previstos no § 2º do art. 12-A desta Lei.
+§ 3º O RSC-PCCTAE poderá ser concedido pela respectiva Instituição Federal de Ensino de lotação do servidor.

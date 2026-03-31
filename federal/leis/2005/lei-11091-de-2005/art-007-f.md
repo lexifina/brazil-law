@@ -1,0 +1,1 @@
+Art. 7º-F. Regulamento do Poder Executivo federal disporá sobre a transformação dos cargos vagos e que vierem a vagar, relacionados no Anexo II, em cargos de Técnico em Educação e de Analista em Educação, de que trata o art. 7º-B., do Plano de Carreira dos Cargos Técnico-Administrativos em Educação, sem aumento de despesa.

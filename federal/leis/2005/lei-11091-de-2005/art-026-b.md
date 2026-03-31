@@ -1,0 +1,2 @@
+Art. 26-B É vedada a aplicação do instituto da redistribuição aos cargos vagos ou ocupados, dos Quadros de Pessoal das Instituições Federais de Ensino para outros órgãos e entidades da administração pública e dos Quadros de Pessoal destes órgãos e entidades para aquelas instituições.
+Parágrafo único. O disposto no caput deste artigo não se aplica às redistribuições de cargos entre Instituições Federais de Ensino.

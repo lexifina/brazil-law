@@ -1,0 +1,1 @@
+Art. 7º-E. O Ministério da Educação deverá submeter à apreciação e à autorização do Órgão Central do Sistema de Pessoal Civil da Administração Federal - Sipec as transformações dos cargos que vierem a vagar a que se refere o art. 7º- D, observada a adequação orçamentária e financeira.

@@ -1,0 +1,2 @@
+Art. 12-F. O RSC-PCCTAE poderá ser requerido após o cumprimento do interstício de 3 (três) anos após a data da última concessão.
+Parágrafo único. O RSC-PCCTAE somente será concedido para o percentual do Incentivo à Qualificação subsequente ao recebido pelo servidor, assegurada a cumulatividade da pontuação reconhecida, cujo somatório não utilizado poderá ser aproveitado para fins de requerimentos posteriores, nos termos do regulamento.
