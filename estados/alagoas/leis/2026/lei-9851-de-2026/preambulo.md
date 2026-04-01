@@ -1,0 +1,7 @@
+ESTADO DE ALAGOAS PODER LEGISLATIVO GABINETE DA PRESIDÊNCIA
+
+LEI Nº 9.851, DE 01 DE ABRIL DE 2026.
+
+ALTERA A LEI Nº 5.900, DE 27 DE DEZEMBRO DE 1996.
+
+O PRESIDENTE DA ASSEMBLEIA LEGISLATIVA DO ESTADO DE ALAGOAS, no uso das atribuições que lhe confere o parágrafo 6º do art. 89 da Constituição Estadual, promulga a seguinte Lei:
