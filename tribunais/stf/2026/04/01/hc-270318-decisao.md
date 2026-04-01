@@ -1,0 +1,38 @@
+Decisão
+
+Trata-se de Habeas Corpus, com pedido de liminar, impetrado contra decisão proferida pelo Ministro JOEL ILAN PACIORNIK, do Superior Tribunal de Justiça, no HC 1.078.345/SP.
+Consta dos autos que o paciente foi preso em flagrante, convertido em preventiva, e denunciado pela prática dos crimes de tráfico de drogas e de associação para o tráfico (art. 33 da Lei 11.343/2006).
+De acordo com a denúncia:
+
+Consta, ainda, que, no dia 10 de dezembro de 2025, por volta das 11h, na Rua Eugênio Ravanini, n. 611, Bairro Jardim Primavera, nesta cidade e Comarca de Leme, DENIS SILVA FARIAS, LEANDRO APARECIDO DE OLIVEIRA e GEOVANIO SALUSTIANO DE ANDRADE SILVA traziam consigo e tinham em depósito, para fins de tráfico, drogas, consistentes em 22 (vinte duas) cápsulas plásticas contendo cocaína; 01 (uma) cápsula plástica contendo cocaína; 17 (dezessete) cápsulas plásticas contendo cocaína; 01 (uma) porção de maconha e 18 (dezoito) cápsulas plásticas contendo cocaína, sem autorização e em desacordo com determinação legal ou regulamentar, conforme auto de exibição e apreensão a fls. 63/65 e auto de constatação a fls. 66/67.
+Segundo apurado, os denunciados associaram-se para o fim de praticarem, reiteradamente, o crime de tráfico de drogas no local dos fatos.
+Ocorre que policiais civis receberem informações de que no local, um conhecido ponto de venda de drogas, o denunciado DENIS vendia drogas de sua propriedade juntamente com outras pessoas, razão pela qual policiais civis dirigiram-se até o local para verificar a veracidade da informação e realizaram diligências investigatórias, inclusive filmagens. Na confluência entre as Ruas Eugenio Ravanini e Floriano Heifig, foi possível constatar que LEANDRO exercia a vigilância, realizava a venda das drogas de forma direta e também levava os usuários até o local onde os denunciados DENIS e GEOVANIO permaneciam, sendo realizada filmagens.
+Em dado momento, os policiais civis visualizaram o denunciado LEANDRO conduzir um usuário até o local onde os demais denunciados estavam (uma construção), ocasião em que GEOVANIO realizou a venda de droga, razão pela qual policiais civis compareceram no local, onde foi realizada a abordagem dos denunciados e, realizada buscas no local, foi encontrado um pote contendo 57 porções de cocaína e rádios do tipo HT.
+Em posse do denunciado LEANDRO, foi encontrado quantia em espécie e GEOVANIO foi flagrado dispensando uma máquina de cartão, empregada para o recebimento do valor da venda das drogas. No veículo do denunciado DENIS, foi localizado uma cápsula plástica contendo cocaína, um invólucro de maconha e um aparelho celular.
+A estabilidade e permanência da associação está devidamente caracterizada pela longa data em que o conluio se desenvolveu, bem como pela estrutura, organização e profissionalismo com que praticavam a atividade criminosa, com o emprego de um veículo automotor para transporte das drogas e entrega no ponto de venda administrado pelo denunciado DENIS. A elevada quantidade, forma de acondicionamento e diversidade de drogas apreendidas; as circunstâncias da apreensão; a cena, típica da venda de drogas; os testemunhos dos policiais civis que efetuaram a prisão em flagrante dos denunciados; o encontro injustificado dos denunciados juntos no local; e, por fim, a realização das filmagens realizadas, revelam o ânimo de tráfico.
+
+Buscando a revogação da custódia, a defesa impetrou Habeas Corpus no Tribunal de Justiça do Estado de São Paulo, que denegou a ordem.
+Na sequência, nova impetração, desta vez direcionada ao Superior Tribunal de Justiça, não conhecida pelo Ministro relator, em decisão assim fundamentada:
+
+[...]
+No caso dos autos, da atenta leitura do acórdão impugnado, verifica-se que a prisão preventiva foi adequadamente motivada, tendo sido demonstradas pelo Tribunal de origem, com base em elementos extraídos dos autos, a gravidade da conduta e a periculosidade do paciente, notadamente em razão das investigações prévias à prisão em flagrante evidenciarem uma estrutura organizada e profissional para a prática do tráfico, com uso de rádios comunicadores e máquina de cartão, demonstrando um elevado grau de organização e profissionalismo, inclusive com divisão de tarefas, na administração de um ponto de venda específico pelo paciente.
+[...]
+Nesse contexto, forçoso concluir que a prisão processual está devidamente fundamentada na garantia da ordem pública, não havendo falar, portanto, em existência de evidente flagrante ilegalidade capaz de justificar a sua revogação e tampouco em aplicação de medida cautelar alternativa.
+[...]
+Ante o exposto, com fundamento no art. 34, inciso XX, do Regimento Interno do Superior Tribunal de Justiça, não conheço da presente impetração.
+
+Nesta ação, o impetrante alega, em síntese, a ausência dos pressupostos autorizadores para a manutenção da prisão preventiva. Em razão disso, requer a concessão da ordem para revogar o decreto prisional, com ou sem imposição de medidas cautelares diversas.
+É o relatório. Decido.
+
+No presente caso, incide óbice ao conhecimento da ordem impetrada neste SUPREMO TRIBUNAL FEDERAL, uma vez que se impugna decisão monocrática de Ministro do Superior Tribunal de Justiça (HC 260309 AgR, Rel. Min. ALEXANDRE DE MORAES, Primeira Turma, DJe de 17/9/2025; HC 260318 AgR, Rel. Min. CRISTIANO ZANIN, Primeira Turma, DJe de 17/9/2025; HC 260219 AgR, Rel. Min, FLÁVIO DINO, Primeira Turma, DJe de 22/9/2025; HC 259789 AgR, Rel. Min. DIAS TOFFOLI, Segunda Turma, DJe de 10/9/2025; HC 208.035-AgR, Rel. Min. EDSON FACHIN, Segunda Turma, DJe de 21/9/2022; RHC 213.550-AgR, Rel. Min. ANDRÉ MENDONÇA, Segunda Turma, DJe de 1º/9/2022; HC 216.979-AgR, Rel. Min. GILMAR MENDES, Segunda Turma, DJe de 25/8/2022; HC 216.955-AgR, Rel. Min. ROSA WEBER, Primeira Turma, DJe de 25/8/2022; HC 217.067-AgR, RHC 214.783-AgR, Rel. Min. NUNES MARQUES, Segunda Turma, DJe de 4/8/2022).
+De fato, o exaurimento da instância recorrida é, como regra, pressuposto para ensejar a competência do SUPREMO TRIBUNAL FEDERAL, conforme vem sendo reiteradamente proclamado por esta CORTE (HC 211.364-AgR, Rel. Min. EDSON FACHIN, Segunda Turma, DJe de 24/8/2022; HC 172.384, Rel. Min. MARCO AURÉLIO, Redator p para o Acórdão: Min. ALEXANDRE DE MORAES, Primeira Turma, DJe de 10/2/2021; HC 180.895-AgR, Rel. Min. ROBERTO BARROSO, Primeira Turma, DJe de 18/6/2020; HC 262.350, Redatora p/ Acórdão: Min. ROSA WEBER, Primeira Turma, DJe de 30/8/2019).
+Como bem apontado pelo Ministro LUIZ FUX, com base em diversos outros precedentes desta Primeira Turma, em regra, a flexibilização dessa norma implicaria afastamento do texto da Constituição, pois a competência deste SUPREMO TRIBUNAL, sendo matéria de direito estrito, não pode ser interpretada de forma ampliada para alcançar autoridades, no caso, membros de Tribunais Superiores, cujos atos não estão submetidos à apreciação do SUPREMO TRIBUNAL FEDERAL (HC 181.447-AgR, Rel. Min. LUIZ FUX, Primeira Turma, DJe de 21/5/2020).
+Esta Primeira Turma vem autorizando, somente em circunstâncias específicas, o exame de habeas corpus quando não encerrada a análise na instância competente, óbice superável apenas em hipótese de teratologia (HC 2156.951-AgR, Primeira Turma, DJe de 25/8/2022) ou em casos excepcionais (HC 212.368-AgR, Primeira Turma, DJe de 25/4/2022), como bem destacado pela Ministra ROSA WEBER.
+No caso, entretanto, não se apresentam as hipóteses de teratologia ou excepcionalidade.
+Diante do exposto, com base no art. 21, § 1º, do Regimento Interno do STF, INDEFIRO a ordem de HABEAS CORPUS.
+Publique-se.
+Brasília, 1º de abril de 2026.
+
+Ministro ALEXANDRE DE MORAES
+Relator
+Documento assinado digitalmente
