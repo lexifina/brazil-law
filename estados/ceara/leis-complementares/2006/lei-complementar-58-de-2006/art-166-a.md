@@ -1,0 +1,3 @@
+Art. 166-A. Fica instituída a Gratificação por Encargo de Análise e Cálculo Judicial, devida pelo exercício das atribuições de membro da Assessoria de Análise, Elaboração e Revisão de Cálculos Judiciais e Extrajudiciais que será concedida no valor de R$ 1.769,14 (um mil setecentos e sessenta e nove reais e quatorze centavos).
+§ 1º O valor estabelecido neste artigo será revisto exclusivamente no mesmo índice geral de revisão dos servidores públicos civis do Estado do Ceará, não sendo incorporado para qualquer fim, inclusive aposentadoria.
+§ 2º O valor estabelecido neste artigo será devido proporcionalmente aos dias de efetivo exercício.

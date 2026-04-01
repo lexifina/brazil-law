@@ -1,0 +1,1 @@
+Art. 21-B. Cada Órgão de execução programática poderá ter um Procurador encarregado de auxiliar o Procurador-Chefe respectivo, nomeado por Portaria do Procurador-Geral do Estado dentre os Procuradores integrantes do próprio Órgão, a quem compete exercer as funções delegadas pelo Procurador-Chefe e substituí-lo, automaticamente, nos casos de ausência, impedimento ou suspeição.

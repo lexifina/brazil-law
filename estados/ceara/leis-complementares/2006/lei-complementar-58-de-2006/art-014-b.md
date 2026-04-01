@@ -1,0 +1,2 @@
+Art. 14-B. A estrutura do Gabinete da Procuradoria-Geral do Estado contará com núcleo estratégico para demandas especiais, composto por procuradores designados pelo Procurador-Geral, com competência para o acompanhamento e/ou a atuação em ações judiciais ou desempenho de atividade consultiva envolvendo questões ou temas relevantes e/ou estratégicos para o Estado.
+Parágrafo único. Aos integrantes do núcleo previsto neste artigo estende-se a autorização disposta no art. 21-A desta Lei.

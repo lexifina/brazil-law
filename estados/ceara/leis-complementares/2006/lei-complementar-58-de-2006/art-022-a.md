@@ -1,0 +1,1 @@
+Art. 22-A. O cargo de Procurador-Chefe é de livre nomeação e exoneração do Procurador-Geral do Estado, entre integrantes da carreira, ativos ou inativos, neste último caso limitada a nomeação a até 20% (vinte por cento) dos cargos de chefia disponíveis.

@@ -1,0 +1,1 @@
+Art. 21-C. A lotação máxima dos Procuradores nos Órgãos de execução programática ou instrumental instalados na Capital do Estado obedecerá aos limites estabelecidos em Portaria do Conselho Superior da Procuradoria-Geral do Estado.

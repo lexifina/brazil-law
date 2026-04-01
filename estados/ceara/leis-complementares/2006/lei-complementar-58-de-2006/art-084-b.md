@@ -1,0 +1,1 @@
+Art. 84-B. No caso de o Procurador do Estado se deslocar, no cumprimento de suas funções, ao interior do Estado, fará jus à percepção de diária, correspondente ao valor de 1,0% (um por cento) do vencimento-base do Procurador do Estado de Classe Especial, limitadas a 20 (vinte) diárias mensais.

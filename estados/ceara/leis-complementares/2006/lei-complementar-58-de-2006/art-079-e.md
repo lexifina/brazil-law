@@ -1,0 +1,1 @@
+Art. 79-E. A promoção referente as 12 (doze) primeiras vagas da Classe Especial terá eficácia a partir de setembro de 2011, ocasião na qual se consideram abertas as mesmas vagas, aplicando-se, para as futuras ascensões àquela Classe, o disposto no art. 71, §3º desta Lei Complementar.
