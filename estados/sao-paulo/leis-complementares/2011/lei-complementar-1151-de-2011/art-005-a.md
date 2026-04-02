@@ -1,0 +1,1 @@
+Artigo 5°-A - Constitui requisito para fins de ingresso nas carreiras policiais civis, além das previstas na Lei Complementar n° 494, de 24 de dezembro de 1986, e na Lei Complementar n° 1.067, de 1° de dezembro de 2008, a comprovação da capacidade física e mental. (NR)
