@@ -1,0 +1,2 @@
+Artigo 2° - Os artigos 5° ao 9° da Lei Complementar n° 419, de 25 de outubro de 1985, aplicar-se-ão aos concursos cujos editais de abertura forem publicados nos 2 (dois) primeiros anos subsequentes à edição desta lei.
+Parágrafo único - Os Oficiais PM participantes dos concursos de que trata o "caput" deste artigo que concluírem o Curso de Habilitação específico, previsto no artigo 5° da Lei Complementar n° 419, de 25 de outubro de 1985, serão incorporados ao Quadro de Oficiais Especialistas de que trata esta lei, após a respectiva nomeação.
