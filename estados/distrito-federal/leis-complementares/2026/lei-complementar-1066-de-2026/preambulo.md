@@ -1,0 +1,4 @@
+# LEI COMPLEMENTAR Nº 1.066, DE 02 DE ABRIL DE 2026
+(Autoria: Poder Executivo)
+Altera a Lei nº 5.594, de 28 de dezembro de 2015, que "institui o Fundo da Receita Tributária do Distrito Federal - PRÓ-RECEITA"; a Lei Complementar nº 981, de 14 de janeiro de 2021, que "institui o Fundo de Aprimoramento do Controle Interno do Distrito Federal - Pró-Controle Interno e dá outras providências"; e a Lei Complementar nº 982, de 18 de janeiro de 2021, que "institui o Fundo de Modernização, Manutenção e Reaparelhamento dos Órgãos de Auditoria de Atividades Urbanas e de Fiscalização e Inspeção de Atividades Urbanas - Fundafau e dá outras providências", e dá outras providências.
+A GOVERNADORA DO DISTRITO FEDERAL, FAÇO SABER QUE A CÂMARA LEGISLATIVA DO DISTRITO FEDERAL DECRETA E EU SANCIONO A SEGUINTE LEI:
