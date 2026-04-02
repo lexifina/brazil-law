@@ -1,0 +1,3 @@
+Artigo 2° - Incorrendo a opção de que trata o artigo anterior, os servidores continuarão regidos pelo sistema retribuitório em que estiverem enquadrados na data da publicação desta lei complementar.
+§ 1° - Excepcionalmente para os abrangidos pelo artigo 3° destas Disposições Transitórias, após a aplicação do disposto no "caput", fica concedido novo prazo de opção, a ser protocolado dentro de 90 (noventa) dias.
+§ 2° - A opção de que trata o parágrafo anterior para fins pecuniários surtirá efeitos a partir de 1° de janeiro de 1993, efetuada a compensação do pagamento já recebido com base no sistema instituído.
