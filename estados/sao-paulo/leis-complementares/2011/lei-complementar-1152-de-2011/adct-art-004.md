@@ -1,0 +1,1 @@
+Artigo 4° - O primeiro processo de promoção a que se refere o artigo 22 desta lei complementar observará os critérios estabelecidos de tempo de efetivo exercício na classe e na carreira até a data que anteceder a publicação desta lei complementar.

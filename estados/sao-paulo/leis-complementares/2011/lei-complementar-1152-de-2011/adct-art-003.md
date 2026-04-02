@@ -1,0 +1,1 @@
+Artigo 3° - Em caráter excepcional caberá ao Conselho da Polícia Civil realizar o processo de promoção por merecimento da 1ª Classe para a Classe Especial, até o quantitativo necessário para atingir o limite de 139 (cento e trinta e nove) Delegados de Polícia em atividade na Classe Especial.
