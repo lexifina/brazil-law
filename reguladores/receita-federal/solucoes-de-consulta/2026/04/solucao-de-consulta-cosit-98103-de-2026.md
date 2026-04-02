@@ -1,0 +1,8 @@
+Solução de Consulta Cosit nº 98103, de 24 de março de 2026
+Assunto: Classificação de Mercadorias
+Código NCM: 8517.62.59
+Mercadoria: Dispositivo gerenciador de videoconferências, com visor de LCD sensível ao toque com 10,1 polegadas, com estrutura interna semelhante à de uma máquina automática para processamento de dados, concebido e com software específico para uso como gerenciador de videoconferências, com conexão ethernet, por onde recebe sua alimentação via conexão RJ-45 se utilizando de sistema PoE, tendo também conectividade sem fio, sendo capaz de, entre outras aplicações, iniciar reuniões com um toque, compartilhar conteúdo, ajustar o volume e controlar as câmeras de sistemas de vídeo compatíveis, podendo subsidiariamente trabalhar em modo autônomo, neste caso ser um agendador para a plataforma de agendamento, permitindo visualizar a ocupação e reservar salas disponíveis, entre outras funções, possuindo também sensores de qualidade do ar e de proximidade e movimento, além de poder se integrar a sistemas de terceiros, permitindo que se controle, por exemplo, luzes, cortinas e ar condicionado diretamente do dispositivo.
+Dispositivos Legais: RGI 1 (Notas 3 da Seção XVI e 6 a) e 6 e) do Capítulo 84), RGI 6 e RGC 1 da Nomenclatura Comum do Mercosul - NCM, constante da Tarifa Externa Comum - TEC, aprovada pela Resolução Gecex nº 272, de 19 de novembro de 2021, e da Tabela de Incidência do Imposto sobre Produtos Industrializados - Tipi, aprovada pelo Decreto nº 11.158, de 29 de julho de 2022.
+[arquivo anexo: SC Cosit nº 98.103-2026.pdf]
+CARLOS HUMBERTO STECKEL
+Presidente da 2ª Turma
