@@ -1,0 +1,1 @@
+Artigo 2° - O provimento em cargo da carreira de Delegado de Polícia de candidatos aprovados em concursos públicos de ingresso, em andamento ou encerrados, cujos prazos de validade não tenham se expirado dar-se-á em conformidade com o disposto no artigo 3° desta lei complementar.
