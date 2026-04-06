@@ -1,0 +1,77 @@
+DECISÃO
+Trata-se de recurso especial interposto por INTELLIGENTSIA & ATTITUDE COMUNICAÇÃO LTDA., com respaldo na alínea "a" do permissivo constitucional, contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAIS assim ementado (e-STJ fl. 744):
+EMENTA: AGRAVO DE INSTRUMENTO - DIREITO ADMINISTRATIVO - PROCEDIMENTO LICITATÓRIO - MUNICÍPIO DE UBERLÂNDIA - CONTRATAÇÃO DE SERVIÇOS DE PUBLICIDADE - VÍCIO NA LICITAÇÃO - SUSPENSÃO DO CONTRATO ADMINISTRATIVO - DEVIDA.
+1- O art. 49, §2º da Lei 8.666/93 é claro ao afirmar que "a nulidade do procedimento licitatório induz à do contrato, ressalvado o disposto no parágrafo único do art. 59 desta Lei".
+2- Suspensa a licitação que deu base ao Contrato Administrativo de serviço de publicidade, devida a suspenção da sua execução, até a decisão final da causa.
+Opostos embargos de declaração, foram rejeitados (e-STJ fl. 851):
+EMENTA: EMBARGOS DE DECLARAÇÃO - AUSÊNCIA DE INTIMAÇÃO DE LITISCONSÓRTE NECESSÁRIO - NULIDADE DOS ATOS PROCESSUAIS - AUSÊNCIA DE PREJUÍZO À DEFESA. 1-Nos termos da jurisprudência do Superior Tribunal de Justiça, inexiste nulidade processual quando ausente prejuízo às partes, (pas de nulitté sans grief) em observância ao princípio da instrumentalidade das formas no âmbito do direito processual.
+Nas suas razões, a recorrente aponta violação dos arts. 115, I, 1.019, II, e 1.022 do Código de Processo Civil (e-STJ fls. 873/881).
+Sustenta, preliminarmente, a existência de negativa de prestação jurisdicional, em virtude de o Tribunal de origem não ter se manifestado sobre as questões que foram levantadas nos embargos de declaração e que são relevantes para o deslinde da controvérsia (e-STJ fls. 880/881).
+Quanto ao mérito, afirma que o acórdão é nulo por cerceamento de defesa, pois, na qualidade de litisconsorte passiva necessária, não foi intimada para apresentar contrarrazões ao agravo de instrumento que determinou a suspensão de seu contrato, em violação dos arts. 115, I, e 1.019, II, do Código de Processo Civil (e-STJ fls. 875/877).
+Defende, ainda, a inaplicabilidade dos efeitos da revelia para dispensar a intimação em grau recursal (art. 346 do CPC), bem como a indevida aplicação do princípio do pas de nullité sans grief, por se tratar de prejuízo presumido quando há ausência de intimação válida para contrarrazões em recurso provido em seu desfavor (e-STJ fls. 877/880).
+Contrarrazões apresentadas às e-STJ fls. 906/909.
+Juízo positivo de admissibilidade pelo Tribunal de origem às e-STJ fls. 938/940.
+Parecer ministerial às e-STJ fls. 959/962 pelo parcial conhecimento do recurso e, nessa extensão, por seu desprovimento.
+Passo a decidir.
+De início, não merece acolhimento a pretensão de nulidade do julgado por negativa de prestação jurisdicional, porquanto, no acórdão impugnado, o Tribunal a quo apreciou fundamentadamente a controvérsia, apontando as razões de seu convencimento, contudo em sentido contrário à pretensão recursal, o que não se confunde com o vício apontado.
+A propósito:
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. INEXISTÊNCIA. SUPERVENIÊNCIA DA LEI 14.230/2021. TEMA 1.199/STF. PRESENÇA DE DOLO E DO DANO. TIPICIDADE MANTIDA. DOSIMETRIA DAS PENAS. REEXAME DE FATOS E PROVAS. IMPOSSIBILIDADE. SÚMULA 7/STJ. INCIDÊNCIA. PROVIMENTO NEGADO.
+1. Inexiste a alegada violação ao art. 1.022 do Código de Processo Civil (CPC) porque a prestação jurisdicional foi dada na medida da pretensão deduzida, é o que se depreende da análise do acórdão recorrido. O Tribunal de origem apreciou fundamentadamente a controvérsia, não padecendo o julgado de erro material, omissão, contradição ou obscuridade. Julgamento diverso do pretendido não implica ofensa ao dispositivo de lei invocado.
+2. A superveniência da Lei 14.230/2021 não altera a tipicidade da conduta, porque o Tribunal de origem, no acórdão recorrido, reconheceu a presença de ato ímprobo previsto no art. 10 da Lei 8.429/1992, o dolo dos agentes e a lesão ao erário.
+3. A revisão da dosimetria das penas encontra óbice na Súmula 7 do Superior Tribunal de Justiça (STJ), salvo evidente desproporcionalidade, o que não se verifica neste caso.
+4. Agravo interno a que se nega provimento. (AgInt no AREsp n. 2.044.604/PR, relator Ministro Paulo Sérgio Domingues, Primeira Turma, julgado em 17/3/2025, DJEN de 21/3/2025.)
+No caso, o Tribunal de origem decidiu integralmente a controvérsia acerca da ausência de nulidade pela falta intimação do litisconsorte necessário com a seguinte fundamentação (e-STJ fls. 823/825):
+No presente feito, o embargante pretende declarar a nulidade da decisão agravada, ante a violação do contraditório e ampla defesa, pela ausência da sua intimação como litisconsorte necessário.
+Sustenta que, no caso de litisconsórcio necessário, a ausência de intimação da parte gera a nulidade da decisão, nos termos do art. 115, I, CPC.
+Ocorre que, o embargante é réu revel, devidamente certificada nos autos da ação de origem o decurso do prazo para sua manifestação no dia 18/07/2024 (ID nº 10267765944).
+O CPC, no art. 346, é claro ao estipular que:
+Os prazos contra o revel que não tenha patrono nos autos fluirão da data de publicação do ato decisório no órgão oficial.
+É o caso do embargante.
+Não havia nos autos, até o presente embargos de declaração, qualquer advogado por ele constituído, correndo todos os prazos processuais da publicação oficial.
+(..).
+Não obstante, em que pese na publicação oficial não constar expressamente o nome do agravante, é certo que a decisão não lhe causou nenhum prejuízo à defesa.
+O próprio embargante confessa na peça ora apresentada que:
+"Regularmente citada, a embargante não apresentou defesa, nem constituiu advogado, pois a contestação que já havia sido apresentada pelo Município abordou integralmente a matéria, aplicando-se ao caso o artigo 345, I1, do CPC". (grifo)
+O embargante foi regulamente citado nos autos, estava ciente do processo, inclusive dos termos da contestação, e optou por não apresentar defesa, já que a matéria havia sido integralmente tratada pelo seu litisconsorte.
+Ora, se a matéria já havia sido integralmente abordada na ação, não há qualquer prejuízo à defesa apto a gerar a nulidade processual pleiteada.
+A processualística brasileira adere ao princípio do pas de nullité sans grief, segundo o qual não se declara a nulidade de um ato sem que seja devidamente comprovado o prejuízo por ele causado.
+O princípio está inscrito no art. 277, CPC/15, verbis:
+"Art. 277. Quando a lei prescrever determinada forma, o juiz considerará válido o ato se, realizado de outro modo, lhe alcançar a finalidade."
+Ademais, "nos termos da jurisprudência do Superior Tribunal de Justiça, inexiste nulidade processual quando ausente prejuízo às partes, (pas de nulitté sans grief) em observância ao princípio da instrumentalidade das formas no âmbito do direito processual." (AgInt no AR Esp 1287561/SP, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 20/04/2020, D Je 27/04/2020).
+Assim, ainda que a parte recorrente considere insubsistente ou incorreta a fundamentação utilizada pelo Tribunal nos julgamentos realizados, não há necessariamente ausência de manifestação. Não há como confundir o resultado desfavorável ao litigante com a falta de fundamentação, motivo pelo qual não se constata violação dos preceitos apontados.
+No mérito, o apelo raro é oriundo de agravo de instrumento provido pelo Tribunal mineiro para suspender a execução de contrato administrativo (e-STJ fls. 744/750).
+No tocante à alegada ofensa aos arts. 115, I, e 1.019, II, do Código de Processo Civil, a parte defende que, na condição de litisconsorte passiva necessária, deveria ter sido intimada para apresentar contrarrazões ao agravo de instrumento acolhido no julgado recorrido, por se tratar de nulidade absoluta e presumida, pois a "revelia não subtrai da parte o direito de ser intimada dos atos processuais subsequentes" (e-STJ fl. 899).
+Nas razões do apelo raro, todavia, a recorrente não logrou impugnar, nas razões recursais, o seguinte fundamento do acórdão recorrido (e-STJ fl. 823):
+O embargante foi regulamente citado nos autos, estava ciente do processo, inclusive dos termos da contestação, e optou por não apresentar defesa, já que a matéria havia sido integralmente tratada pelo seu litisconsorte.
+Ora, se a matéria já havia sido integralmente abordada na ação, não há qualquer prejuízo à defesa apto a gerar a nulidade processual pleiteada
+Como se sabe, a falta de impugnação de todos os fundamentos em que se apoia o acórdão recorrido tem por consequência a incidência, por analogia, da Súmula 283 do STF: "É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente, e o recurso não abrange todos eles."
+Também não é possível conhecer do recurso especial no que tange à suposta violação do art. 346 do CPC, uma vez que as razões recursais não explicam de que forma aludido dispositivo legal veio a ser violado pelo entendimento adotado pelo acórdão recorrido, não bastando a afirmação de que o Tribunal de origem apresentou fundamentação que "representa uma interpretação equivocada e restritiva do dispositivo legal, que não se coaduna com a garantia constitucional do contraditório" (e-STJ fl. 877). Incide na espécie o óbice contido na Súmula 284 do STF.
+Nesse sentido:
+DIREITO CIVIL E PROCESSUAL CIVIL. RECURSO ESPECIAL. SUPERENDIVIDAMENTO. REPACTUAÇÃO DE DÍVIDAS. PLANO DE PAGAMENTO. LIMITAÇÃO DOS DESCONTOS A 30% DOS RENDIMENTOS MENSAIS. AUTONOMIA DA VONTADE. BOA-FÉ OBJETIVA. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULAS 282 E 356 DO STF. PERTINÊNCIA TEMÁTICA. NÃO OBSERVÂNCIA. SÚMULA N.º 284 DO STF. ALEGAÇÃO GENÉRICA DE OFENSA A DISPOSITIVO LEGAL. DEFICIÊNCIA DE FUNDAMENTAÇÃO. SÚMULA 284 DO STF. RECURSO ESPECIAL NÃO CONHECIDO.
+(..).
+5. A alegação de violação ao art. 586 do Código Civil foi apresentada de forma genérica, sem indicação clara e precisa de como o acórdão recorrido teria contrariado o dispositivo, atraindo a incidência da Súmula 284 do STF.
+6. Recurso especial não conhecido.
+(REsp n. 2.228.614/DF, relator Ministro Raul Araújo, Quarta Turma, julgado em 16/12/2025, DJEN de 19/12/2025.)
+Por fim, anoto não desconhecer a jurisprudência desta Corte, forjada ainda sob a égide do CPC/1973 (REsp 1.148.296/SP, Corte Especial, DJe de 28/09/2010), no sentido de que a ausência de intimação da parte agravada para apresentar contrarrazões ao agravo de instrumento cujo provimento lhe causou prejuízo configura cerceamento de defesa, violando os princípios do contraditório e da ampla defesa (REsp n. 2.247.384/RS, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 9/3/2026, DJEN de 12/3/2026.).
+Todavia, esse precedente, que não deve ser interpretado de modo isolado, parte do pressuposto de que a parte agravada , com advogado devidamente habilitado nos autos, deixou de ser intimada para apresentar contrarrazões por falha da Corte ao julgar o agravo de instrumento.
+Ocorre que, no caso dos autos, como visto, há a particularidade de que o agravado é revel no feito originário, de modo que, na hipótese, prevalece o normativo do art. 346 do CPC, de modo que as intimações devem ocorrer via publicação, regra básica da revelia, corretamente aplicada pelo Tribunal local no julgado recorrido.
+Sobre a hipótese:
+REVEL SEM ADVOGADO. INTIMAÇÃO DA SENTENÇA. PUBLICAÇÃO DO ATO DECISÓRIO NO ÓRGÃO OFICIAL . NECESSIDADE.
+1. O CPC/2015, de maneira distinta ao código anterior, passou a estabelecer que "os prazos contra o revel que não tenha patrono nos autos fluirão da data de publicação do ato decisório no órgão oficial" (art. 346, caput).
+2. Após as alterações legais, o STJ já entendeu que é exigida "a publicação do ato decisório na imprensa oficial, para que se inicie o prazo processual contra o revel que não tenha advogado constituído nos autos, não sendo suficiente a mera publicação em cartório, como ocorria sob a égide do diploma processual anterior" (REsp n. 1.951 .656/RS, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 7/2/2023, DJe de 10/2/2023).
+3. Caso em que o Tribunal local iniciou a contagem para interposição de apelação pelo réu revel sem advogado constituído a partir da inserção da sentença no sistema eletrônico pelo magistrado, situação que se afasta da atual orientação desta Corte.
+4 . Recurso especial provido.
+(STJ, Primeira Turma, REsp n. 2.106.717/PR, Rel. Min. Gurgel de Faria, DJe de 25/09/2024)
+RECURSO ESPECIAL. AÇÃO DE COBRANÇA. NEGATIVA DE PRESTAÇÃO JURISDICIONAL NÃO EVIDENCIADA. REVELIA. RÉUS QUE NÃO TINHAM ADVOGADO CONSTITUÍDO NOS AUTOS. INTIMAÇÃO DA SENTENÇA APENAS POR MEIO DO SISTEMA ELETRÔNICO DO RESPECTIVO TRIBUNAL. IMPOSSIBILIDADE. NECESSIDADE DE PUBLICAÇÃO DO ATO DECISÓRIO NO ÓRGÃO OFICIAL. INTELIGÊNCIA DOS ARTS. 346 DO CPC/2015 E 5º DA LEI 11.419/2006. REFORMA DO ACÓRDÃO RECORRIDO. RECURSO PROVIDO.
+1. A questão posta à discussão no presente recurso especial consiste em saber, a par da existência de negativa de prestação jurisdicional, se é necessário ou não a publicação no diário oficial das decisões proferidas em processo eletrônico com réu revel sem advogado constituído nos autos.
+2. Depreende-se do acórdão recorrido que todas as questões suficientes ao deslinde da controvérsia foram devidamente analisadas pelo Tribunal de origem, razão pela qual afasta-se a apontada negativa de prestação jurisdicional.
+3. Nos termos do art. 346 do CPC/2015, "Os prazos contra o revel que não tenha patrono nos autos fluirão da data de publicação do ato decisório no órgão oficial". Logo, exige-se a publicação do ato decisório na imprensa oficial, para que se inicie o prazo processual contra o revel que não tenha advogado constituído nos autos, não sendo suficiente a mera publicação em cartório, como ocorria sob a égide do diploma processual anterior.
+4. O art. 5º, caput e § 1º, da Lei n. 11.419/2006, que dispõe sobre a informatização do processo judicial, determina que "As intimações serão feitas por meio eletrônico em portal próprio aos que se cadastrarem na forma do art. 2º desta Lei, dispensando-se a publicação no órgão oficial, inclusive eletrônico", consignando, ainda, que "Considerar-se-á realizada a intimação no dia em que o intimando efetivar a consulta eletrônica ao teor da intimação, certificando-se nos autos a sua realização".
+5. Dessa forma, ainda que se trate de processo eletrônico, a publicação da decisão no órgão oficial somente será dispensada quando a parte estiver representada por advogado cadastrado no sistema do Poder Judiciário, ocasião em que a intimação se dará de forma eletrônica, situação, contudo, não verificada nos autos.
+6. Recurso especial provido.
+(REsp n. 1.951.656/RS, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 7/2/2023, DJe de 10/2/2023.)
+Forçoso convir que, no ponto, o acórdão recorrido encontra-se em harmonia com a jurisprudência do Superior Tribunal de Justiça, circunstância que atrai a aplicação da sua Súmula 83 ("Não se conhece do recurso especial pela divergência, quando a orientação do Tribunal se firmou no mesmo sentido da decisão recorrida"), que é cabível quando o recurso especial é interposto com base nas alíneas "a" e/ou "c" do permissivo constitucional.
+Ante o exposto, com base no art. 255, § 4º, I e II, do RISTJ, CONHEÇO PARCIALMENTE do recurso especial e, nessa extensão, NEGO-LHE PROVIMENTO.
+Sem arbitramento de honorários recursais, pois o recurso especial se origina de agravo de instrumento.
+Publique-se. Intimem-se.
+ EMENTA
