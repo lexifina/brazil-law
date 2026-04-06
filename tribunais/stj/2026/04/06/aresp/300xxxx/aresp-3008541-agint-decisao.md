@@ -1,0 +1,9 @@
+DECISÃO
+Trata-se de agravo interno interposto por Daniel Palmeira de Lima e D. Palmeira de Lima Imóveis EPP (fls. 442/463) desafiando decisão de fls. 432/437, que negou provimento ao agravo em recurso especial, com base nos seguintes fundamentos: i) incidência da Súmula 284/STF quanto às teses de direito à gratuidade da justiça, cerceamento defesa e presunção de inocência, por deficiência de fundamentação, ante a ausência de indicação de dispositivo de lei federal violado; ii) necessidade de reexame do acervo fático-probatório para infirmar as premissas fixadas pelo Tribunal de Justiça, especialmente quanto à presença de indícios de acertamento e conluio no procedimento licitatório e à higidez do saneamento e da delimitação probatória, atraindo o óbice da Súmula 7/STJ.
+Inconformada, sustenta a parte agravante, em resumo, que houve indicação expressa de violação aos dispositivos federais pertinentes (arts. 5º, LV, da CF; 9, 10, 98 e 99, § 2º, do CPC; e 17, §§ 10-C, 10-D e 11, da Lei n. 8.429/1992), com correlação entre cada tese e a norma aplicável, razão pela qual incorreta a aplicação da Súmula n. 284/STF.
+Assevera, ainda, não incidir a Súmula 7/STJ, por se tratar de matérias de direito e de mera revaloração jurídica de fatos incontroversos já delineados pelo órgão julgador de origem, sendo desnecessária a rediscussão probatória.
+A parte agravada apresentou impugnação às fls. 474/478.
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+Melhor compulsando os autos, observo assistir razão ao ora Agravante, haja vista que a decisão de fls. 432/437 não se encontra em perfeita sintonia com a integralidade das razões recursais (fls. 163/182), razão pela qual, exercendo o juízo de retratação facultado pelos arts. 1.021, § 2º, do CPC e 259, § 3º, do RISTJ, reconsidero a decisão agravada e, por entender necessário melhor exame da matéria, dou provimento ao agravo para determinar sua reaut uação como recurso especial.
+Publique-se.
+EMENTA
