@@ -1,0 +1,20 @@
+DECISÃO
+Trata-se de agravo interposto por Fabio Neira de decisão que inadmitiu na origem seu recurso especial, este manifestado com fundamento no art. 105, III, a e c, da Constituição Federal, contra acórdão do Tribunal de Justiça do Estado do Rio de Janeiro, assim ementado (fl. 446):
+APELAÇÃO CÍVEL. PRETENSÃO DE PROMOÇÃO POR ATO DE BRAVURA. MANUTENÇÃO DA SENTENÇA DE IMPROCEDÊNCIA. O CONTROLE DO ATO ADMINISTRATIVO PELO PODER JUDICIÁRIO CINGE- SE, À LEGALIDADE E SUA CONFORMIDADE COM OS PRINCÍPIOS QUE REGEM A ATIVIDADE DA ADMINISTRAÇÃO PÚBLICA, SEM, CONTUDO, HAVER A ANÁLISE DO MÉRITO DO ATO, SOB PENA DE VIOLAÇÃO DO PRINCÍPIO DA SEPARAÇÃO DE PODERES. ANÁLISE DO PREENCHIMENTO DOS REQUISITOS PARA A CONCESSÃO DA PRETENDIDA PROMOÇÃO, QUE COMPETE EXCLUSIVAMENTE À ADMINISTRAÇÃO. CRITÉRIO EMINENTEMENTE SUBJETIVO, A TRADUZIR ATO DISCRICIONÁRIO DA ADMINISTRAÇÃO PÚBLICA. DEVE SER ANALISADA A PARTICIPAÇÃO INDIVIDUAL DE CADA POLICIAL, A FIM DE SE AVERIGUAR, DENTRO DO CRITÉRIO SUBJETIVO, SE A CONDUTA INDIVIDUALIZADA DEVE SER CONSIDERADA ATO DE BRAVURA. DESPROVIMENTO DO RECURSO.
+A esse julgado foram opostos embargos de declaração, os quais restaram rejeitados (fls. 479/482).
+No recurso inadmitido, além de dissídio jurisprudencial, a parte ora agravante aponta violação aos seguintes dispositivos legais:
+Artigo 85 da Lei nº 423/81 (Estatuto da Polícia Civil do Estado do Rio de Janeiro), que garante a promoção por bravura aos servidores que preencham os requisitos legais;
+Artigo 217 do Decreto nº 3.044/80 (Regulamento da Polícia Civil do RJ), que prevê critérios objetivos para a concessão da promoção por bravura;
+Artigo 50 da Lei nº 9.784/99, que exige motivação expressa dos atos administrativos;
+Artigo 37 da Constituição Federal, que impõe os princípios da legalidade, impessoalidade e moralidade na administração pública;
+Artigo 5º da Constituição Federal e artigo 9º, §1º da Constituição Estadual do RJ, que asseguram o princípio da isonomia.
+Já nas razões do agravo, aduz que os pressupostos de admissibilidade do apelo nobre encontram-se preenchidos, reprisando a argumentação ali expendida.
+Contraminuta às fls. 703/716.
+É O RELATÓRIO. PASSO À FUNDAMENTAÇÃO.
+De início, não se presta o recurso especial ao exame de lei local, nos termos da Súmula 280/STF, ou de dispositivos constitucionais, por se tratar de matéria reservada à competência do STF, consoante dispõe o art. 102, III, da Constituição da República.
+Lado outro, " p revalece no âmbito desta Corte o entendimento de que "a Lei 9.784/1999, ao ser aplicada por analogia no âmbito da Administração Pública dos Estados e Municípios, assume natureza de lei local, o que inviabiliza o reexame das conclusões firmadas pelo Tribunal de origem em virtude do óbice da Súmula 280/STF. Nesse sentido: AgRg no AREsp 713.381/DF, Rel. Ministra Assusete Magalhães, Segunda Turma, DJe 26/10/2015" (AgInt no REsp 1.919.428/ES, Relator Ministro Sérgio Kukina, Primeira Turma, DJe de 24/2/2022)" (REsp n. 2.005.472/PA, relator Ministro Sérgio Kukina, Primeira Turma, DJEN de 11/6/2025).
+Por fim, a teor do Enunciado Administrativo n. 7 do Superior Tribunal de Justiça, "Somente nos recursos interpostos contra decisão publicada a partir de 18 de março de 2016, será possível o arbitramento de honorários recursais, na forma do art. 85, § 11, do novo CPC".
+Logo, considerando-se que o acórdão recorrido foi prolatado já na vigência do CPC/2015 e, outrossim, tendo em vista o não acolhimento da pretensão recursal da parte ora recorrente, é cabível a condenação desta em honorários advocatícios recursais, na forma do art. 85, § 11, do CPC/2015.
+ANTE O EXPOSTO, conheço do agravo para não conhecer do recurso especial. Condeno a parte recorrente ao pagamento de honorários advocatícios recursais arbitrados, nos termos do art. 85, § 11, do CPC, em 20% sobre a verba honorária fixada nas instâncias ordinárias, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão de justiça gratuita.
+Publique-se.
+EMENTA
