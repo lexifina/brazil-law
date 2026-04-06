@@ -1,0 +1,62 @@
+DECISÃO
+Trata-se de pedido de uniformização de interpretação de lei federal requerido por Darci Antônio Caldart "contra o acórdão que extinguiu o cumprimento de sentença transitada em julgado, sob o argumento de "coisa julgada inconstitucional", em afronta direta à jurisprudência consolidada do Superior Tribunal de Justiça e do Supremo Tribunal Federal" (fl. 3).
+O aludido acórdão, proferido à unanimidade pela 2.ª Turma Recursal da Fazenda Pública do Rio Grande do Sul acha-se acostado às fls. 1.601/1.603 e se apresenta guarnecida pela ementa que se segue:
+SEGUNDA TURMA RECURSAL DA FAZENDA PÚBLICA. RECURSO INOMINADO. MUNICÍPIO DE PAIM FILHO. JUÍZO DE RETRATAÇÃO. DIREITO ADMINISTRATIVO E PROCESSUAL CIVIL. SERVIDOR PÚBLICO. APOSENTADORIA PELO REGIME GERAL DE PREVIDÊNCIA SOCIAL (RGPS). CUMPRIMENTO DE SENTENÇA. COISA JULGADA INCONSTITUCIONAL. TEMA 1.150 DO SUPREMO TRIBUNAL FEDERAL. INCIDENTE DE UNIFORMIZAÇÃO DE JURISPRUDÊNCIA N. 5008873-05.2023.8.21.9000. MANUTENÇÃO DO ACÓRDÃO.
+I. Caso em exame
+1. Retornam os autos a esta Segunda Turma Recursal da Fazenda Pública para o exercício do juízo de retratação, em razão do julgamento do Incidente de Uniformização de Jurisprudência (IUJ) n. 5008873- 05.2023.8.21.9000 pelas Turmas Recursais Reunidas. O acórdão objeto de reexame, negou provimento ao recurso inominado interposto pela parte autora, mantendo a sentença de primeiro grau que extinguiu o cumprimento de sentença por inexigibilidade do título executivo judicial, o qual havia determinado a reintegração do servidor ao cargo público após sua aposentadoria pelo Regime Geral de Previdência Social.
+II. Questão em discussão
+2. A questão em julgamento é analisar se o acórdão anteriormente proferido por este Colegiado deve ser mantido ou retratado em face do entendimento uniformizado no âmbito das Turmas Recursais da Fazenda Pública por meio do IUJ n. 5008873-05.2023.8.21.9000.
+III. Razões de decidir
+3. O acórdão recorrido, objeto do presente juízo de retratação, fundamentou-se na aplicação direta da tese firmada no Tema 1.150 do Supremo Tribunal Federal, que veda a reintegração de servidor público aposentado pelo RGPS quando a lei local prevê a aposentadoria como causa de vacância. Adotou-se o entendimento de que, em se tratando de relação jurídica de trato continuado, a superveniência de precedente vinculante da Suprema Corte acarreta a perda de eficácia da coisa julgada formada em sentido contrário, tornando o título executivo inexigível, nos termos do artigo 535, § 5º, do Código de Processo Civil.
+4. O Incidente de Uniformização de Jurisprudência n. 5008873-05.2023.8.21.9000, paradigma que motivou o retorno dos autos, pacificou o entendimento no âmbito das Turmas Recursais da Fazenda Pública, estabelecendo que "não há direito à reintegração de servidor público exonerado em razão de aposentadoria pelo RGPS, com previsão de vacância na lei local, mesmo que haja decisão anterior transitada em julgado, em cumprimento ao tema 1150 do STF, exsurgindo a coisa julgada inconstitucional, não havendo previsão de vacância, obrigatória a exoneração a partir da EC nº 103/2019."
+5. Logo, verifica-se que o acórdão proferido por esta Turma deve ser mantido, pois está em conformidade com a tese firmada no Incidente de Uniformização de Jurisprudência n. 5008873- 05.2023.8.21.9000. IV. Dispositivo e tese 6. Em juízo de retratação, mantido o acórdão anteriormente proferido.
+Tese de julgamento:
+1. O acórdão que, em sintonia com o Tema 1.150 do STF, reconhece a inexigibilidade de título executivo judicial que determinou a reintegração de servidor público aposentado pelo RGPS, com fundamento na tese da coisa julgada inconstitucional, alinha-se perfeitamente ao entendimento firmado pelas Turmas Recursais Reunidas no IUJ n. 5008873-05.2023.8.21.9000, devendo ser mantido, em juízo de retratação. (fls. 1.602/1.603).
+No pedido dirigido a esta Corte, fls. 3/16, argumenta a requerente que o aresto combatido maltrata o disposto no art. 535, §§ 7º e 8º, do CPC porque, "ao extinguir o cumprimento de sentença, ignorou a regra legal expressa e aplicou de forma automática a tese do STF, como se a hipótese fosse de §7º. Essa operação hermenêutica, além de equivocada, implica violação literal à lei federal, pois suprime a exigência da ação rescisória prevista pelo legislador como condição de desconstituição da coisa julgada" (fl. 5). Indica, também, "contrariedade ao Tema 733 do STF", razões pelas quais requer "a fixação da correta interpretação do art. 535 do CPC e ao STF a preservação da autoridade do Tema 733, em face da indevida ampliação de seus efeitos por Turmas Recursais estaduais" (fl. 13).
+Em contrarrazões, fls. 805/814, o Município de Paim Filho/RS, na qualidade de requerido, argumenta que a deliberação da Turma Recursal é amparada pelo Tema 1.150/STF e, por isso, deve ser preservada.
+Feito isento de custas, conforme prevê o art. 3º, IV, da Resolução STJ/GP n. 2, de 1º de fevereiro de 2017.
+Representação regular (fl. 28).
+É O RELATÓRIO. PASSO À FUNDAMENTAÇÃO.
+O pedido de uniformização de interpretação de lei federal é um meio de impugnação de decisão judicial muito peculiar e próprio dos microssistemas dos juizados especiais, cujo juízo de admissibilidade se dá por critérios assemelhados aos que esta Corte emprega para a admissão do recurso especial.
+Na presente hipótese, como relatado, o intento do requerente é reformar o acórdão proferido pela Turma Recursal e, para isso, busca amparo nas disposições da Lei n. 12.259/2001, ao argumento de que a decisão viola o art. 535, §§ 7º e 8º, do CPC e o Tema 733/STF.
+Todavia, à luz da moldura fático-jurídica que dos autos emerge, não há como dar curso ao pedido.
+Com efeito, cuidando-se, como é o caso, de ação processada e julgada no âmbito do microssistema dos juizados especiais da Fazenda Pública, rege-se o procedimento, inteiramente, por lei específica, a saber, a Lei 12.153, de 22 de dezembro de 2009.
+Consoante expressamente dispõe o art. 18 do aludido diploma legal, "caberá pedido de uniformização de interpretação de lei quando houver divergência entre decisões proferidas por Turmas Recursais sobre questões de direito material".
+Ocorre que o requerente não cuidou de demonstrar a divergência interpretativa de lei federal entre turmas recursais mediante adequado cotejo analítico, como requer a lei, o que, só por si, impede o conhecimento do pedido. Nesse sentido:
+PROCESSUAL CIVIL. PEDIDO DE UNIFORMIZAÇÃO DE INTERPRETAÇÃO DE LEI. JUIZADOS ESPECIAIS DA FAZENDA PÚBLICA. DIVERGÊNCIA. REQUISITOS. AUSÊNCIA. LEGISLAÇÃO LOCAL. EXAME. IMPOSSIBILIDADE.
+1. O incidente de uniformização dirigido ao STJ, nos termos do art. 18, § 3º, da Lei n. 12.153/2009, é cabível quando as Turmas Recursais de diferentes Estados derem à lei federal interpretações divergentes, ou quando a decisão proferida estiver em contrariedade com súmula do Superior Tribunal de Justiça, especificamente no que se refere a questões de direito material.
+2. Deve-se demonstrar a divergência mediante: juntada de certidão ou de cópia autenticada do acórdão paradigma, ou, em sua falta, da declaração pelo advogado da autenticidade delas; citação de repositório oficial, autorizado ou credenciado, em que o acórdão divergente foi publicado; cotejo analítico, com a transcrição dos trechos dos votos em que se funda a divergência, além da demonstração das circunstâncias que identificam ou assemelham os casos confrontados, o que, in casu, não ocorreu.
+3. Não cabe a esta Corte Superior se manifestar, em sede de pedido de uniformização de interpretação de lei federal, acerca de legislação local.
+4. Agravo interno desprovido.
+(AgInt no PUIL n. 5.250/CE, relator Ministro Gurgel de Faria, Primeira Seção, DJEN de 13/3/2026.)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO PEDIDO DE UNIFORMIZAÇÃO DE INTERPRETAÇÃO DE LEI. ARTIGO 18 DA LEI 12.153/2009. DISSÍDIO NÃO COMPROVADO. PEDIDO NÃO CONHECIDO.
+ ..
+2. Nos termos do caput do art. 18 da Lei 12.153/2009 (que dispõe sobre os Juizados Especiais da Fazenda Pública no âmbito dos Estados, do DF e dos Territórios e dos Municípios), caberá pedido de uniformização de interpretação de lei quando houver divergência entre decisões proferidas por Turmas Recursais sobre questões de direito material.
+3. Em relação à suposta divergência jurisprudencial há de se adotar o mesmo entendimento firmado por ocasião da análise dos Recursos Especiais com fundamento no art. 105, III, "c", da Constituição Federal, quando deve o recorrente apontar o dispositivo de lei federal com interpretação divergente, bem como demonstrar as circunstâncias que identificam ou assemelham os casos confrontados. Precedentes.
+ ..
+5. Agravo interno não provido.
+(AgInt no PUIL n. 5.085/RS, relator Ministro Benedito Gonçalves, Primeira Seção, DJEN de 18/11/2025.)
+Além disso, a tese defendida pelo requerente, de suposta violação do art. 535 do diploma processual civil, desborda do direito material, pelo que não pode ser examinada em sede de PUIL, conforme delimita o já apontado art. 18 da Lei 12.153/2009. A propósito:
+PROCESSO CIVIL. SERVIDOR PÚBLICO MUNICIPAL. PEDIDO DE UNIFORMIZAÇÃO DE INTERPRETAÇÃO DE LEI FEDERAL. JUIZADO ESPECIAL DA FAZENDA PÚBLICA. COMPETÊNCIA. EVENTUAL RENÚNCIA AO CRÉDITO EXCEDENTE AO TETO DE 60 SALÁRIOS MÍNIMOS. QUESTÃO DE ÍNDOLE EMINENTEMENTE PROCESSUAL. INVIABILIDADE. PEDIDO NÃO CONHECIDO.
+ ..
+3. O pedido de uniformização de interpretação de lei federal não é admissível, pois a controvérsia apresentada pela parte requerente não trata de questão de direito material, mas, sim, de direito processual, relacionado à competência absoluta do Juizado Especial da Fazenda Pública.
+4. A controvérsia recursal está centrada na definição do momento e forma de aferição do valor da causa como requisito procedimental para estabelecer a competência do Juizado Especial da Fazenda Pública, e não na análise de direito material.
+5. A jurisprudência do Superior Tribunal de Justiça estabelece que o pedido de uniformização de interpretação de lei federal só pode ser conhecido quando tratar de questões de direito material, conforme o art. 18, caput, da Lei n. 12.153/2009.
+6. Pedido não conhecido.
+(PUIL n. 5.399/RS, relator Ministro Teodoro Silva Santos, Primeira Seção, DJEN de 17/3/2026.)
+TRIBUTÁRIO. PROCESSUAL CIVIL. INCIDENTE DE UNIFORMIZAÇÃO. LEI N. 12.153/2009. DISCUSSÃO SOBRE CONCESSÃO DE GRATUIDADE DE JUSTIÇA. QUESTÃO PROCESSUAL. NÃO CABIMENTO.
+1. Dispõe o art. 18, § 3º, da Lei n. 12.153/2009 que o incidente de uniformização dirigido ao STJ somente é cabível quando houver divergência entre decisões proferidas por Turmas Recursais de diferentes Estados sobre questões de direito material.
+2. Na hipótese dos autos, não há como conhecer do incidente, uma vez que o acórdão recorrido está pautado em questão de direito processual. Precedentes.
+3. Agravo interno não provido.
+(AgInt no PUIL n. 5.111/PR, relator Ministro Sérgio Kukina, Primeira Seção, DJEN de 18/11/2025.)
+Por fim, tanto a sentença (fls. 1.458/1.466) quanto o acórdão que a confirmou (fls. 1.601/1.603) trataram a causa submetida ao juizado especial à luz de fundamento constitucional (tema 1.1150/STF), matéria insusceptível de debate pela via angusta do PUIL. Confira-se:
+PROCESSUAL CIVIL. PEDIDO DE UNIFORMIZAÇÃO DE INTERPRETAÇÃO DE LEI FEDERAL. IMPOSSIBILIDADE DE SUA UTILIZAÇÃO PARA DISCUTIR ACÓRDÃO DE TURMA RECURSAL COM FUNDAMENTO CONSTITUCIONAL.
+1. Para compor a lide, a Sexta Turma Recursal do Juizado Especial do Estado da Bahia examinou a compatibilidade do art. 6º, XIV, da Lei 7.713/1988 com a Constituição Federal.
+2. A hipótese, portanto, não se relaciona com a existência de divergência entre diferentes tribunais, a respeito da interpretação, em si, de dispositivo de lei federal. O ente público pretende, na realidade, afastar o fundamento constitucional utilizado para definir a interpretação do art. 6º, XIV, da Lei 7.713/1988.
+3. A Lei 12.153/2009 não atribui ao Pedido de Uniformização de Interpretação de Lei (PUIL) natureza de sucedâneo do recurso adequado para impugnar o fundamento constitucional da decisão das Turmas Recursais.
+4. Agravo Interno não provido.
+(AgInt no PUIL n. 1.703/BA, relator Ministro Herman Benjamin, Primeira Seção, DJe de 8/3/2021.)
+Dessarte, por todas essas razões, individual ou conjuntamente consideradas, não se revela cabível o manejo do PUIL.
+ANTE O EXPOSTO, e com fundamento no art. 34, XVIII, "a", do RISTJ, não conheço do presente pedido de uniformização de interpretação de lei federal.
+Publique-se.
+EMENTA
