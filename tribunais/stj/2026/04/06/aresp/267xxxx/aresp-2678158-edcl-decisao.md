@@ -1,0 +1,14 @@
+DECISÃO
+ Trata-se  de  embargos  de  declaração  opostos  pela AGÊNCIA NACIONAL DE SAÚDE SUPLEMENTAR  contra  decisão  de  minha  lavra,  proferida  às  e-STJ  fls.  695/700,  em  que conheci do agravo para conhecer parcialmente do recurso especial da parte adversa e, nessa extensão, negar-lhe provimento.
+Sustenta a parte embargante a ocorrência de omissão quanto à fixação de honorários recursais.
+Impugnação às e-STJ fls. 714/716.
+Passo a decidir.
+O art. 1.024, § 2º, do CPC prescreve que os embargos de declaração opostos contra decisão de relator ou contra outra decisão unipessoal proferida em tribunal serão decididos monocraticamente pelo órgão prolator da decisão embargada e, nos termos do art. 1.022 do mesmo diploma legal, serão admitidos quando houver obscuridade, contradição, omissão ou erro material na decisão.
+Dito isso, assiste razão ao embargante.
+Com efeito, é devida a majoração da verba honorária sucumbencial, na forma do art. 85, § 11, do CPC, quando estiverem presentes os seguintes requisitos, simultaneamente: a) decisão recorrida publicada a partir de 18/3/2016, quando entrou em vigor o novo Código de Processo Civil; b) recurso não conhecido integralmente ou desprovido, monocraticamente, ou pelo órgão colegiado competente; e c) condenação em honorários advocatícios, desde a origem, no feito em que interposto o recurso (AgInt nos EREsp 1539725/DF, relator Ministro Antonio Carlos Ferreira, julgado em 9/ 8/2017, DJe de 19/10/2017).
+Da simples leitura da referida norma, exsurge certo que o arbitramento de honorários recursais está condicionado à existência de condenação prévia em honorários sucumbenciais pelas instâncias ordinárias, sendo vedada a majoração quando esta verba não tiver sido fixada na origem.
+Na espécie, o julgado embargado foi proferido na vigência do CPC/2015, e não houve nenhum provimento em favor do então recorrente, ora embargado, já estabelecida fixação de honorários de sucumbência em favor da embargante desde a sentença (e-STJ fl. 512), sendo de rigor a sua majoração, nos termos do art. 85, § 11, do CPC.
+Registre-se: "A majoração dos honorários recursais advocatícios é devida independentemente da comprovação do efetivo trabalho adicional pelo advogado da parte recorrida, sendo aplicável mesmo quando não são apresentadas contrarrazões" (EDcl no AREsp 2745271/PR, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 23/3/2026, DJEN de 26/3/2026).
+Ante o exposto, ACOLHO os embargos d e declaração, com efeitos modificativos, para sanar vício de integração quanto aos honorários recursais de modo a majorar a verba honorária, em desfavor da parte sucumbente, em 10% sobre o valor já arbitrado, nos termos do art. 85, § 11, do CPC/2015, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão da gratuidade de justiça.
+Publique-se. Intimem-se.
+EMENTA
