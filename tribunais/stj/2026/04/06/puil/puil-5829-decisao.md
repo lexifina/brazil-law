@@ -1,0 +1,38 @@
+DECISÃO
+Trata-se de pedido de uniformização de interpretação de lei federal requerido por Inaina Lopes Batista com o objetivo de reformar acórdão proferido pela 1.ª Turma Recursal dos Juizados Especiais Cíveis, Criminais e da Fazenda Pública do Estado do Rio Grande do Norte, aresto resumido pela seguinte ementa:
+RECURSO INOMINADO. DIREITO ADMINISTRATIVO. CONTRATAÇÃO TEMPORÁRIA. PLEITO AO PAGAMENTO DE FGTS E VERBAS RESCISÓRIAS. SENTENÇA DE PROCEDÊNCIA PARCIAL. INEXISTÊNCIA DO DIREITO ALEGADO. APLICAÇÃO DA TESE ASSENTADA PELO SUPREMO TRIBUNAL FEDERAL NO TEMA 308. SERVIDORES TEMPORÁRIOS NÃO FAZEM JUS A DÉCIMO TERCEIRO SALÁRIO E FÉRIAS REMUNERADAS ACRESCIDAS DO TERÇO CONSTITUCIONAL, SALVO POR EXPRESSA PREVISÃO LEGAL E/OU CONTRATUAL EM SENTIDO CONTRÁRIO, OU COMPROVADO DESVIRTUAMENTO DA CONTRATAÇÃO TEMPORÁRIA PELA ADMINISTRAÇÃO PÚBLICA, EM RAZÃO DE SUCESSIVAS E REITERADAS RENOVAÇÕES E/OU PRORROGAÇÕES. DEVIDO AO SERVIDOR APENAS O PAGAMENTO DO SALDO DE SALÁRIO E O LEVANTAMENTO DO FGTS QUE TENHA SIDO DEPOSITADO. SENTENÇA PARCIALMENTE REFORMADA.
+RECURSO CONHECIDO E PARCIALMENTE PROVIDO. (fl. 138).
+Colhe-se dos autos que o colegiado, interpretando o Tema 308 da repercussão geral, compreendeu que "a orientação dada pelo STF é de que o servidor contratado tem direito apenas ao levantamento dos depósitos que já tenham sido efetuados. É dizer, se não houve recolhimento, por falta de previsão legal ou do contrato temporário firmado, não há que se falar em pagamento posterior", razão pela qual reformou a sentença "para dar parcial provimento ao recurso para excluir da condenação à obrigação de realizar o pagamento dos valores relativos ao FGTS do período trabalhado" (fl. 148).
+No pedido dirigido a esta Corte, fls. 187/194, a requerente requer que se fixe a tese de que "o desvirtuamento da contratação temporária  ..  configura nulidade superveniente, ensejando o direito ao FGTS sobre todo o período efetivamente laborado, conforme dispõe o art. 19-A da Lei 8.036/90, à luz do Tema 916 da Repercussão Geral do STF" (fl. 193), ao argumento de que "a ausência de uniformização clara quanto à incidência do art. 19-A da Lei n. 8.036/90 nas hipóteses de nulidade superveniente (decorrente do desvirtuamento do contrato administrativo) tem gerado graves distorções interpretativas entre os tribunais estaduais e, inclusive, entre as próprias Turmas Recursais de um mesmo Tribunal" (fl. 192).
+Pedido sem contrarrazões.
+Feito isento de custas, conforme prevê o art. 3º, IV, da Resolução STJ/GP n. 2, de 1º de fevereiro de 2017.
+Representação regular (fl. 15).
+É O RELATÓRIO. PASSO À FUNDAMENTAÇÃO.
+O pedido de uniformização de interpretação de lei federal é um meio de impugnação de decisão judicial muito peculiar e próprio dos microssistemas dos juizados especiais, cujo juízo de admissibilidade se dá por critérios assemelhados aos que esta Corte emprega para a admissão do recurso especial.
+Na presente hipótese, como relatado, o intento do requerente é restabelecer integralmente a sentença reformada pela 1.ª Turma Recursal dos Juizados Especiais Cíveis, Criminais e da Fazenda Pública do Estado do Rio Grande do Norte, para o que invoca o amparo do disposto no art. 18 da Lei n. 12.153/2009, ao argumento de que haveria divergência na interpretação do art. 19-A da Lei n. 8.036/1990.
+Todavia, à luz dessa moldura fático-jurídica que dos autos emerge, não há como dar curso ao pedido.
+Em primeiro lugar, cuidando-se, como é o caso, de ação processada e julgada no âmbito do microssistema dos juizados especiais da Fazenda Pública, rege-se o procedimento, inteiramente, por lei específica, a saber, a Lei 12.153, de 22 de dezembro de 2009. Consoante expressamente dispõe esse aludido diploma legal, a competência do Superior Tribunal de Justiça somente se inaugura nas hipóteses previstas nos arts. 18, § 3º, e 19 do apontado diploma. Ocorre que, nos termos do art. 18, § 3º, da Lei n. 12.153/2009, o pedido dirigido a esta Corte superior somente é cabível "quando as Turmas de diferentes Estados derem a lei federal interpretações divergentes, ou quando a decisão proferida estiver em contrariedade com Súmula do Superior Tribunal de Justiça", hipóteses inocorrentes na espécie, pois o acórdão recorrido, acolhendo parcialmente o recurso interposto pela parte adversa (FUNDASE), solveu a questão controvertida exclusivamente à luz do Tema 308 do STF. Assim, não se discute lei federal, como pressupõe a norma de regência, mas garantias asseguradas na Carta Republicana, como interpretada pela Corte Suprema, o que torna insuscetível o debate pela via do PUIL.
+Nesse sentido:
+PROCESSUAL CIVIL. PEDIDO DE UNIFORMIZAÇÃO DE INTERPRETAÇÃO DE LEI FEDERAL. IMPOSSIBILIDADE DE SUA UTILIZAÇÃO PARA DISCUTIR ACÓRDÃO DE TURMA RECURSAL COM FUNDAMENTO CONSTITUCIONAL.
+1. Para compor a lide, a Sexta Turma Recursal do Juizado Especial do Estado da Bahia examinou a compatibilidade do art. 6º, XIV, da Lei 7.713/1988 com a Constituição Federal.
+2. A hipótese, portanto, não se relaciona com a existência de divergência entre diferentes tribunais, a respeito da interpretação, em si, de dispositivo de lei federal. O ente público pretende, na realidade, afastar o fundamento constitucional utilizado para definir a interpretação do art. 6º, XIV, da Lei 7.713/1988.
+3. A Lei 12.153/2009 não atribui ao Pedido de Uniformização de Interpretação de Lei (PUIL) natureza de sucedâneo do recurso adequado para impugnar o fundamento constitucional da decisão das Turmas Recursais.
+4. Agravo Interno não provido.
+(AgInt no PUIL n. 1.703/BA, relator Ministro Herman Benjamin, Primeira Seção, DJe de 8/3/2021.)
+Em segundo lugar porque a anunciada violação do art. 19-A da Lei n. 8.036/1990 pelo prisma do Tema 916/STF não foi objeto de deliberação pelo colegiado, nem mesmo houve oportuna provocação, mediante manejo de embargos declaratórios, de modo que ausente o indispensável requisito do prequestionamento.
+A propósito:
+ADMINISTRATIVO. PROCESSUAL CIVIL. DIREITO DO TRÂNSITO. AGRAVO INTERNO NA TUTELA PROVISÓRIA INCIDENTAL NO PEDIDO DE UNIFORMIZAÇÃO DE INTERPRETAÇÃO DE LEI. PREQUESTIONAMENTO. AUSÊNCIA. DISSÍDIO. FALTA DE DEMONSTRAÇÃO. PEDIDO INDEFERIDO LIMINARMENTE. AGRAVO INTERNO DESPROVIDO.
+1. A falta de efetivo debate pela origem da matéria objeto do pedido de uniformização impede o reconhecimento de seu prequestionamento.
+ ..
+3. Agravo interno desprovido.
+(AgInt na TutPrv no PUIL n. 1.577/SP, relator Ministro Afrânio Vilela, Primeira Seção, DJe de 26/8/2024.)
+Em terceiro lugar, a requerente, ao ancorar sua pretensão em suposto maltrato ao Tema 916 da repercussão geral do STF, evidenciou que o PUIL foi, neste caso, empregado no lugar do meio processualmente cabível para impugnar a decisão atacada, o que revela, mais uma vez, a inadequação do pedido, empregado, na espécie, como sucedâneo recursal. A esse respeito:
+PROCESSUAL CIVIL. PEDIDO DE UNIFORMIZAÇÃO DE INTERPRETAÇÃO DE LEI FEDERAL. IMPOSSIBILIDADE DE SUA UTILIZAÇÃO PARA DISCUTIR ACÓRDÃO DE TURMA RECURSAL COM FUNDAMENTO CONSTITUCIONAL.
+ ..
+3. A Lei 12.153/2009 não atribui ao Pedido de Uniformização de Interpretação de Lei (PUIL) natureza de sucedâneo do recurso adequado para impugnar o fundamento constitucional da decisão das Turmas Recursais.
+4. Agravo Interno não provido.
+(AgInt no PUIL n. 1.703/BA, relator Ministro Herman Benjamin, Primeira Seção, DJe de 8/3/2021.)
+Assim, por todas essas razões, individual ou conjuntamente consideradas, não se revela cabível o manejo do PUIL.
+ANTE O EXPOSTO, e com fundamento no art. 34, XVIII, "a", do RISTJ, não conheço do presente pedido de uniformização de interpretação de lei federal.
+Publique-se.
+EMENTA
