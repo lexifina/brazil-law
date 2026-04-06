@@ -1,0 +1,24 @@
+DECISÃO
+Trata-se de agravo regimental interposto por MARCOS VINICIUS DIAS LIMA contra decisão monocrática proferida pela Presidência, acostada à fls. 170-172, na qual indeferiu-se liminarmente o presente habeas corpus por reiteração de pedidos já analisados.
+Neste recurso, a Defesa aponta ausência de análise específica sobre a natureza genérica da denúncia, a inexistência de diligências prévias confirmatórias, a utilização da fuga como fundamento retroativo da abordagem e a falta de respaldo normativo à categoria "denúncia anônima especificada" para legitimar a busca pessoal à luz do artigo 244 do Código de Processo Penal (fls. 178).
+Afirma que a decisão no AREsp n. 2.556.048/GO configurou típico juízo negativo de admissibilidade, sem julgamento do mérito jurídico da tese defensiva, com reconhecimento apenas de óbice formal, e não houve pronunciamento colegiado sobre o alegado erro de subsunção (fls. 178).
+Refuta a conclusão de reiteração inadmissível e argumenta que houve recurso especial não conhecido por óbice formal, e que reiteração não se confunde com insucesso recursal, inexistindo identidade material entre um recurso especial não conhecido por incidência de enunciado sumular e um habeas corpus voltado ao controle de ilegalidade patente por erro jurídico (fls. 179).
+Aduz o núcleo da ilegalidade reside na inversão lógica da fundada suspeita, pois as instâncias ordinárias teriam utilizado a fuga posterior como fundamento legitimador da abordagem, quando a fundada suspeita deve anteceder a intervenção estatal e não pode ser construída retroativamente a partir da reação do abordado (fls. 179-180).
+Ao final, pede o conhecimento e provimento do agravo regimental para reconsiderar a decisão monocrática que indeferiu liminarmente o habeas corpus, afastar o fundamento de inadmissível reiteração, reconhecer que a controvérsia é de direito e afastar a aplicação automática da Súmula n. 7/STJ, com submissão da matéria ao órgão colegiado competente para reconhecer a nulidade absoluta da busca pessoal e veicular por ausência de fundada suspeita, com as consequências jurídicas decorrentes (fls. 180-181).
+É o relatório. DECIDO.
+Em percuciente análise dos autos, verifica-se a pertinência de parte das alegações do ora agravante.
+Dessarte, nos termos do artigo 259 do Regimento Interno do Superior Tribunal de Justiça, reconsidero a decisão monocrática que indeferiu liminarmente o presente mandamus (fls. 170-172).
+Nada obstante, em que pese a argumentação defensiva trazida na inicial do presente writ e neste regimental, trata-se de habeas corpus que se volta contra um julgado transitado, imutável, enquanto abarcado pelo preceito constitucional da coisa julgada.
+Diante disso, não deve ser conhecido, pois foi utilizado como substituto de uma revisão criminal, em uma situação na qual não se configurou a competência originária desta Corte.
+Conforme o artigo 105, inciso I, alínea "e", da Constituição Federal, compete ao Superior Tribunal de Justiça processar e julgar, originariamente, "as revisões criminais e as ações rescisórias de seus julgados".
+Nessa linha:
+" ..
+1. Na hipótese, a condenação transitou em julgado em 31/5/2023. Dessa forma, o presente writ seria sucedâneo de revisão criminal, sendo esta Corte incompetente para o processamento do pleito revisional.
+ ..
+3. Agravo regimental desprovido." (AgRg no HC n. 861.867/SC, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 2/9/2024, DJe de 6/9/2024.)
+De todo modo, cotejando as alegações deduzidas com a percuciente fundamentação contida no acórdão impugnado, não verifico a presença de qualquer coação ilegal que desafie a concessão da ordem, de ofício, nos termos do parágrafo 2º do artigo 654 do Código de Processo Penal.
+Extrai-se do contexto fático narrado no aresto impugnado que a atuação policial decorreu do prévio recebimento de informações específicas de que determinado veículo que trafegava na região dos fatos era utilizado para a prática do delito de tráfico ilícito de entorpecentes. Diante disso, tendo visualizado o veículo com as características noticiadas, os policiais tentaram realizar a abordagem; ato contínuo, os flagranteados tentaram empreender fuga, dirigindo o carro pela contramão da via, sendo alcançados posteriormente após a perseguição. Constata-se, assim, existentes as circunstâncias prévias, fundadas suspeitas, que justificaram a abordagem policial.
+Outrossim, insta salientar que é iterativa a jurisprudência do Superior Tribunal de Justiça no sentido de ser imprópria a via do habeas corpus (e do seu recurso) para a análise de teses que demandem incursão no acervo fático-probatório, como no caso das circunstâncias fáticas que envolveram a situação do flagrante.
+Ante o exposto, reconsiderando a decisão monocrática proferida pela Presidência, não conheço do presente habeas corpus.
+Publique-se. Intimem-se.
+ EMENTA
