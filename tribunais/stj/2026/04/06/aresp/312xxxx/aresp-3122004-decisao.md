@@ -1,0 +1,41 @@
+DECISÃO
+Trata-se de agravo interposto por VEIRANO E ADVOGADOS ASSOCIADOS contra decisão de inadmissão de seu recurso especial, o qual foi manejado, com apoio na alínea "a" do permissivo constitucional, para impugnar acórdão do Tribunal Regional Federal da 2ª Região assim ementado (e-STJ fl. 558):
+TRIBUTÁRIO E PROCESSUAL CIVIL. EXECUÇÃO FISCAL. APELAÇÃO DA EXECUTADA. PRESCRIÇÃO INTERCORRENTE CONDENAÇÃO DA EXEQUENTE EM HONORÁRIOS ADVOCATÍCIOS. IMPOSSIBILIDADE. PRINCÍPIO DA CAUSALIDADE. PRECEDENTES.
+1. Trata-se de apelação interposta no intuito da reformar a sentença que não condenou a exequente - União/Fazenda Nacional -, ora apelada, em honorários de sucumbência, em razão do reconhecimento de que a pretensão executória estava fulminada pela incidência da prescrição intercorrente.
+2. Até o advento da prescrição intercorrente, a dívida fiscal estava legitimamente ajuizada, tendo a prescrição intercorrente se verificado pela não localização bens passíveis de penhora, com imediata aceitação por parte da exequente. Nesse contexto, a causalidade da demanda fiscal deve ser atribuída ao executado. Precedentes do STJ.
+3. A condenação da Exequente ao pagamento de honorários advocatícios caracterizaria sua dupla penalização: além de não ter seu legítimo crédito satisfeito, ainda teria de arcar com os honorários de sucumbência.
+4. Apelação desprovida.
+Embargos de declaração rejeitados (e-STJ fls. 576/579 e fls. 594/596).
+Em seu recurso especial, a agravante aponta violação dos arts. 85, §§ 1º, 2º e 3º, 489, § 1º, IV, e 1.022, parágrafo único, I e II, do CPC.
+Aduz, preliminarmente, que o acórdão recorrido padeceria de omissão, bem como estaria desfundamentado. Isso porque o Tribunal de origem teria deixado de levar em conta que, "como consignado na r. sentença de Evento 224, que retificou a r. sentença de Evento 214, o fundamento da extinção da execução não foi a prescrição intercorrente, mas sim a homologação tácita do pedido de compensação antes do ajuizamento do feito executivo; (..)" (e-STJ fl. 603).
+No mérito, argumenta que, havendo sido a execução fiscal extinta não por prescrição intercorrente, mas por compensação, seria de rigor a condenação da Fazenda Nacional na verba honorária de sucumbência.
+Contrarrazões às e-STJ fls. 616/625, nas quais a Fazenda Nacional argumenta no sentido da impossibilidade de sua condenação em honorários advocatícios na hipótese de extinção da execução fiscal por prescrição intercorrente, bem como na ausência de causalidade a justificar a imputação, em seu desfavor, dos ônus sucumbenciais.
+Recurso especial inadmitido, com base na sua intempestividade (e-STJ fls. 627/629).
+Decisão de inadmissão agravada (e-STJ fls. 632/643).
+Sem contraminuta.
+Passo a decidir.
+Controverte-se no recurso especial sobre o cabimento da condenação em honorários advocatícios de sucumbência, contra a Fazenda Nacional, em execução fiscal.
+A irresignação merece prosperar.
+Está devidamente caracterizada a omissão no julgado.
+Ao resolver a controvérsia, assim se manifestou o Tribunal a quo (e-STJ fls. 556/557):
+Verifica-se que a apelação foi interposta no intuito da reformar a seção da sentença que não condenou a Exequente - União Federal/Fazenda Nacional -, ora Apelada, ao pagamento de honorários de sucumbência, tendo em vista que a Execução Fiscal foi extinta com resolução do mérito, em razão do reconhecimento de que a pretensão executória estava fulminada pela incidência da prescrição intercorrente, o que ficou incontroverso nos autos.
+Não assiste razão à Apelante, porque, até o advento da prescrição intercorrente, a cobrança relativa ao executivo fiscal, ajuizado em 22.06.2006 (EV. 143, OUT4, fl. 1, da EF), plasmada na CDA 70 3 06 000028-61 e no PAF 10768 505185/2006-20, estava substancial e formalmente hígida, conforme a legislação de regência (EV. 143, OUT4, da EF).
+Todavia, devido ao decurso do tempo, sem que o ente tributante conseguisse, pelas vias legais, o pagamento da dívida, tampouco a constrição patrimonial da devedora ou de seus ex-sócios para fins de penhora, a pretensão executória estatal foi fulminada pela prescrição intercorrente. Note-se que a Administração Fazendária concordou expressamente com a ocorrência da prescrição intercorrente no caso concreto, cancelando administrativamente a dívida.
+Esse quadro não muda o fato de que a obrigação contida no crédito tributário estava a cargo da Executada. Daí a inelutável conclusão de que a empresa contribuinte e seus ex-sócios deram causa ao ajuizamento da Execução Fiscal.
+Trata-se, no presente caso, da aplicação do Princípio da Causalidade:
+(..)
+A condenação da Exequente ao pagamento de honorários advocatícios à Executada não tem coerência, portanto, dentro do sistema processual de distribuição dos encargos sucumbenciais, porque ela seria penalizada duas vezes: além de não ter seu crédito satisfeito, ainda arcar com o ônus dos honorários de sucumbência.
+Nas palavras da Ministra Maria Isabel Gallotti (REsp 1.545.856):
+"Cumpre esclarecer que se trata, na origem, de ação de execução por quantia certa contra devedor solvente (recorrido) em que o credor (recorrente) necessitou da provocação do Poder Judiciário para a satisfação do seu direito, qual seja, recuperação do seu crédito.
+O transcurso de prazo sem satisfação do direito do exequente permitiu a configuração da prescrição intercorrente. Não se pode, todavia, considerar que foi o credor insatisfeito o causador do ajuizamento da execução, penalizando-o não apenas com a perda de seu patrimônio, mas também com o ônus de arcar com os honorários do advogado do devedor. Trata-se de clara incidência do princípio da causalidade em desfavor do executado, pois, em que pese a execução tenha sido extinta pela prescrição intercorrente, o pedido executório foi decorrência do não cumprimento da obrigação de forma voluntária.
+Tal entendimento encontra guarida na jurisprudência desta Corte, segundo a qual a responsabilidade pelo pagamento de honorários e custas deve ser fixada com base no princípio da causalidade, pois a parte que deu causa à instauração do processo deve suportar as despesas dele decorrentes.
+O princípio da causalidade inspirou o entendimento compendiado no enunciado 303 da Súmula deste Tribunal: "Em embargos de terceiro, quem deu causa à constrição indevida deve arcar com os honorários advocatícios."
+Não fosse o suficiente, tem-se que o sistema processual civil consagra os princípios da efetividade (art. 4º), da boa-fé processual (art. 5º) e da cooperação (art. 6º), tudo no intento de que a prestação jurisdicional seja não somente rápida e correta, mas também eficaz, efetiva.
+A parte move a execução no intento de que haja a satisfação da obrigação e de que a seu título seja dada eficácia. Se não houve satisfação por impossibilidade material, por ausência de cooperação por parte do devedor, não há de se fazer com que o exequente arque com os ônus, eis que não deu causa ao processo".
+Ante o exposto, VOTO no sentido de NEGAR PROVIMENTO ao recurso.
+Conforme se observa, no julgado tomou-se como incontroverso, de forma equivocada, o fato de que a execução fiscal teria sido extinta por prescrição intercorrente. Entretanto, esse ponto é expressamente impugnado pela ora agravante, mediante a alegação de que a extinção se dera em razão de compensação tributária. Daí por que seria devida a condenação do Fazenda Pública, exequente, na verba sucumbencial advocatícia. Sobre a matéria, quedou-se silente o Tribunal de origem.
+Como o acolhimento dessa argumentação poderia modificar a conclusão do julgamento, tem-se que seu exame expresso era de rigor, sob pena de negativa de prestação jurisdicional e violação do art. 1.022, II, do CPC.
+Registre-se, por fim, que o reconhecimento da omissão prejudica eventual alegação de intempestividade do recurso especial.
+Ante o exposto, com base no art. 253, parágrafo único, II, "c", do RISTJ, CONHEÇO do agravo para DAR PROVIMENTO ao recurso especial, de modo a determinar, ao Tribunal de origem, o rejulgamento dos aclaratórios opostos pela ora agravante, com o expresso enfrentamento da alegação de que a execução fiscal, na hipótese, teria sido extinta não por prescrição intercorrente, mas por compensação tributária, o que justificaria, em tese, a condenação da Fazenda Nacional em honorários advocatícios de sucumbência.
+Publique-se. Intimem-se.
+EMENTA
