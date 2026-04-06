@@ -1,0 +1,34 @@
+DECISÃO
+Trata-se de recurso especial interposto por TEREZINHA CENTENO CERVEIRA com respaldo nas alíneas "a" e "c" do permissivo constitucional, contra acórdão do TRIBUNAL REGIONAL FEDERAL DA 4ª REGIÃO assim ementado (e-STJ fl. 37):
+PREVIDENCIÁRIO. EXECUÇÃO DE SENTENÇA. AGRAVO DE INSTRUMENTO. TETOS. BENEFÍCIO PROPORCIONAL CRITÉRIOS DE CÁLCULO.
+1. Segundo reiterada jurisprudência deste Tribunal, na revisão dos tetos, a proporcionalidade dos benefícios de aposentadoria deve ser observada após a incidência do teto vigente, e não antes.
+2. Havendo parecer contábil nos autos, elucidando que os cálculos do INSS atendem à jurisprudência deste corte, merece provimento o agravo da Autarquia.
+Em suas razões, a parte recorrente aponta dissídio jurisprudencial e violação do art. 502 do CPC, argumentando, em suma, que o acórdão recorrido, ao dar provimento ao recurso da autarquia, alterou indevidamente os critérios de cálculos fixados na sentença transitada em julgado, devendo, ser, por isso, anulado.
+Segundo defende, "A ação proposta pela parte autora foi julgada procedente, com o reconhecimento em sentença transitada em julgado do direito à incorporação INTEGRAL do coeficiente teto por ocasião do primeiro reajuste, com os consequentes reajustes na renda mensal real, incidindo a limitação ao teto apenas no PAGAMENTO" (e-STJ fl. 58).
+Sem contrarrazões. Juízo positivo de admissibilidade pelo Tribunal de origem à e-STJ fl. 74.
+Passo a decidir.
+O recurso não pode ser conhecido, visto que a matéria inserta no presente apelo nobre carece do requisito constitucional do prequestionamento.
+Conquanto não seja exigida a menção expressa ao dispositivo de lei federal, a admissibilidade do recurso na instância excepcional pressupõe que a Corte de origem tenha se manifestado sobre a tese jurídica apontada pelo recorrente.
+Esse é o entendimento pretoriano consagrado na edição das Súmulas 282 e 356 do STF, respectivamente:
+É inadmissível o recurso extraordinário, quando não ventilada, na decisão recorrida, a questão federal suscitada.
+O ponto omisso da decisão, sobre o qual não foram opostos embargos declaratórios, não pode ser objeto de recurso extraordinário, por faltar o requisito do prequestionamento.
+Nesse sentido:
+PREVIDENCIÁRIO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AUXÍLIO-DOENÇA. PERDA DA QUALIDADE DE SEGURADO. AUSÊNCIA DE DEMONSTRAÇÃO DO DESEMPREGO INVOLUNTÁRIO. INVERSÃO DO JULGADO. INVIABILIDADE. REEXAME FÁTICO-PROBATÓRIO. SÚMULA 7/STJ. ALEGADA VIOLAÇÃO DO ART. 485, IV, DO CPC/2015. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULAS 282 E 356 DO STF. PREQUESTIONAMENTO FICTO. NÃO OCORRÊNCIA. DISSÍDIO JURISPRUDENCIAL NÃO DEMONSTRADO. INEXISTÊNCIA DE COTEJO ANALÍTICO. DECISÃO MONOCRÁTICA INDICADA COMO PARADIGMA. NÃO CABIMENTO. AGRAVO INTERNO DO PARTICULAR A QUE SE NEGA PROVIMENTO.
+1. A jurisprudência do Superior Tribunal Justiça consolidou o entendimento de que a simples ausência de registro na CTPS não tem o condão de, por si só, comprovar a situação de desemprego do segurado, para os fins previstos no art. 15, § 2º, da Lei n. 8.213/1991. Precedentes.
+2. Considerando que o Tribunal de origem concluiu que não foi demonstrado o desemprego involuntário da segurada, a adoção de entendimento diverso, conforme pretendido, demandaria o reexame do contexto fático-probatório dos autos, circunstância que redundaria na formação de novo juízo acerca dos fatos e provas, e não de valoração dos critérios jurídicos concernentes à utilização da prova e à formação da convicção, o que impede o conhecimento do recurso especial. Sendo assim, incide a Súmula 7 do STJ, segundo a qual a pretensão de simples reexame de prova não enseja recurso especial.
+3. Quanto à apontada violação do art. 485, IV, do CPC/2015, verifico que a matéria não foi apreciada pelo Tribunal de origem, tampouco foram opostos embargos de declaração com o objetivo de sanar eventual omissão da questão de direito controvertida. A ausência de enfrentamento pela Corte local da matéria impugnada, objeto do recurso excepcional, impede o acesso à instância especial, porquanto não preenchido o requisito constitucional do prequestionamento.
+Incidência, por analogia, das Súmulas 282 e 356 do STF.
+4. Indubitavelmente, não é o caso do prequestionamento ficto. Isso porque a matéria não foi veiculada nos embargos de declaração opostos na origem, o que afasta a aplicabilidade do art. 1.025, do CPC/2015. Com efeito, conforme o entendimento desta Corte Superior, a incidência do art. 1.025, do CPC/2015 exige que o recurso especial tenha demonstrado a ocorrência de violação do art. 1.022 do referido diploma legal, o que não ocorreu na espécie.
+5. No que concerne à divergência jurisprudencial, consoante entendimento firmado por este Superior Tribunal de Justiça, a parte recorrente deve proceder ao cotejo analítico entre os arestos comparados e transcrever os trechos dos acórdãos que configurem o dissídio jurisprudencial, sendo insuficiente, para tanto, a mera transcrição de ementas, pois a análise da demonstração da dissídio jurisprudencial deve ser manifestada de forma escorreita, com a necessária demonstração de similitude fática entre os acórdãos confrontados, e a inobservância do art. 1.029, § 1º, do CPC/2015 impede o conhecimento do recurso especial pela alínea c do permissivo constitucional.
+6. No mais, decisão monocrática não pode ser utilizada como paradigma para fins de alegação de dissídio jurisprudencial.
+7. Agravo interno do particular a que se nega provimento.
+(AgInt no AREsp n. 1.906.855/PR, relator Ministro Manoel Erhardt (Desembargador Convocado do TRF5), Primeira Turma, julgado em 4/4/2022, DJe de 7/4/2022.)
+PREVIDENCIÁRIO E PROCESSO CIVIL. BASE DE CÁLCULO DOS HONORÁRIOS ADVOCATÍCIOS. ACÓRDÃO DO TRIBUNAL A QUO QUE APLICA A SUMULA 111/STJ EM SEDE DE CUMPRIMENTO DE SENTENÇA. ALEGAÇÃO DE VIOLAÇÃO À COISA JULGADA. AUSENCIA DE PREQUESTIONAMENTO. SÚMULA 282/STJ. AGRAVO INTERNO DESPROVIDO.
+1. No caso em análise, o Tribunal de origem entendeu incidente à base de cálculo dos honorários advocatícios o entendimento da Súmula 111/STJ, segundo a qual os honorários advocatícios, nas ações previdenciárias, não incidem sobre as prestações vencidas após a sentença.
+2. E fica inviabilizado o conhecimento do tema trazido no recurso especial, qual seja, alegação de ofensa à coisa julgada, porquanto não debatida e decidida na instância ordinária. Ausente, portanto, o indispensável requisito do prequestionamento. Aplicação, por analogia, das Súmulas 282 e 356 do STF.
+3. Agravo interno des provido.
+(AgInt no REsp n. 2.107.069/SP, relator Ministro Mauro Campbell Marques, Segunda Turma, julgado em 12/8/2024, DJe de 15/8/2024)
+Ante o exposto, com base no art. 255, § 4º, I, do RISTJ, NÃO CONHEÇO do recurso especial.
+Sem arbitramento de honorários recursais, pois o recurso especial se origina de agravo de instrumento.
+Publique-se. Intimem-se.
+ EMENTA
