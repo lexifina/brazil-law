@@ -1,0 +1,14 @@
+DECISÃO
+Trata-se de agravo interno interposto por GERALDO APARECIDO ALEXANDRE e OUTROS contra decisão, proferida às e-STJ fls. 603/611, em que conheci do agravo para não conhecer do recurso especial em virtude da incidência da Súmula 83 do STJ.
+Aduz a parte agravante a necessidade de suspensão do processo em virtude dos REsps 2217138/SP, 2217139/SP e 2217140/SP, bem como a inaplicabilidade do óbice aludido ao caso dos autos.
+Requer, assim, o sobrestamento do feito, a reconsideração ou a reforma da decisão atacada.
+Passo a decidir.
+Em sessão virtual realizada de 18/02/2026 a 24/02/2026, a Primeira Seção afetou a seguinte questão à sistemática dos recursos repetitivos: " definir se o ajuizamento de ação de cobrança decorrente de sentença concessiva em mandado de segurança coletivo pressupõe o trânsito em julgado da referida decisão, bem como se é possível convalidar eventual vício com a superveniência do trânsito em julgado da ação mandamental" (Tema 1.146).
+Encontrando-se o tema afetado à sistemática dos recursos repetitivos, esta Corte Superior orienta que os recursos que tratam da mesma controvérsia devem aguardar o julgamento do paradigma representativo no Tribunal de origem, viabilizando, assim, o juízo de conformação, hoje disciplinado pelo art. 1.040 do CPC/2015.
+A esse respeito, confiram-se os seguintes precedentes: EDcl no REsp 1456224/MS, rel. Ministro Humberto Martins, Segunda Turma, DJe 5/2/2016; AgRg no AgRg no AREsp 552103/RS, rel. Min. Herman Benjamin, Segunda Turma, DJe 28/11/2014; AgRg no AREsp 153829/PI, rel. Ministro Mauro Campbell Marques, Segunda Turma, DJe 23/5/2012.
+Nesse mesmo sentido, estas decisões monocráticas: REsp 1588019/GO, rel. Min. Regina Helena Costa, DJe 17/3/2016; REsp 1502464/RS, AREsp 848627/PB, REsp 1574944/PB e AREsp 779676/PB, todos da relatoria do em. Ministro Benedito Gonçalves, DJe 2/12/2015, 8/3/2016, 04/03/2016 e 3/2/2016, respectivamente.
+Somente depois de realizada essa providência, que representa o exaurimento da instância ordinária, é que o recurso especial deverá ser encaminhado para esta Corte Superior analisar as questões jurídicas nele suscitadas que não ficaram prejudicadas pelo novo pronunciamento do Tribunal a quo.
+Registre-se que essa medida visa evitar, também, o desmembramento do apelo especial e, em consequência, eventual ofensa ao princípio da unirrecorribilidade ou da unicidade recursal.
+Ante o exposto, RECONSIDERO a decisão de e-STJ fls. 603/611, tornando-a sem efeito, e DETERMINO A DEVOLUÇÃO DOS AUTOS AO TRIBUNAL DE ORIGEM, com a respectiva baixa, para que, após a publicação do acórdão a ser proferido no recurso especial repetitivo e em observância ao art. 1.040 do CPC: a) negue seguimento ao recurso, se a decisão recorrida coincidir com a orientação emanada pelo Tribunal Superior; ou b) proceda ao juízo de retratação, na hipótese de o acórdão vergastado divergir da decisão sobre o tema repetitivo.
+Publique-se. Intimem-se.
+EMENTA
