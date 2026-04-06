@@ -1,0 +1,16 @@
+DECISÃO
+Trata-se de agravo interposto pela COMPANHIA ESTADUAL DE ÁGUAS E ESGOTOS - CEDAE contra decisão do TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO DE JANEIRO, que não admitiu recurso especial fundado na alínea "a" do permissivo constitucional, e que desafia acórdão assim ementado (e-STJ fls. 38/42):
+AGRAVO DE INSTRUMENTO. CUMPRIMENTO DE SENTENÇA CONTRA A CEDAE. DECISÃO QUE REJEITA IMPUGNAÇÃO E DETERMINA A EXPEDIÇÃO DE PRÉVIA DE PRECATÓRIOS. INCONFORMISMO DA EXECUTADA QUE NÃO MERECE PROSPERAR. DECISÃO HOMOLOGATÓRIA DOS CÁLCULOS DO CONTADOR OBJETO DE RECURSO ESPECIAL SEM EFEITO SUSPENSIVO. REVISÃO DO TEMA REPETITIVO 414 DO STJ QUE NÃO SE APLICA AO CASO DOS AUTOS. EXECUTADA QUE RETOMA MATÉRIAS SOBRE AS QUAIS JÁ SE OPEROU A PRECLUSÃO. DESNECESSIDADE DE RETORNO DOS AUTOS PARA O PERITO A FIM DE ATUALIZAR OS CÁLCULOS. MANUTENÇÃO DO DECISUM. RECURSO A QUE SE NEGA PROVIMENTO.
+Opostos embargos de declaração, foram rejeitados (e-STJ fls. 78/82).
+No especial obstaculizado, o ora agravante apontou violação dos arts. 7º, 9º, 10º, 489, § 1º, 525, § 1º, V, 535, § 3º, I, e 1.022, do Código de Processo Civil (e-STJ fls. 176/187).
+O apelo nobre recebeu juízo negativo de admissibilidade (e-STJ fls. 267/271).
+Posteriormente, o agravado informou que o recurso de agravo anteriormente interposto - AREsp 2878599 - não foi conhecido, tendo o acórdão transitado em julgado (e-STJ fls. 430-436). Demonstra a alegação mediante a juntada de certidão narrativa (e-STJ fls. 433/435).
+Passo a decidir.
+Considerando que os fundamentos da decisão de inadmissibilidade foram devidamente atacados, é o caso de examinar o recurso especial.
+No especial obstaculizado, o ora agravante defendeu, em suma, a impossibilidade de expedição de precatório por valor ainda controvertido, pendente de impugnação e de julgamento de recurso de agravo em recurso especial sobre a decisão que homologou os cálculos, declarando que o valor ainda era controvertido.
+O agravante pede que se revogue a determinação de expedição de precatório até que o valor da execução estivesse definitivamente julgado e precluso. Todavia, o recurso que obstava a preclusão foi definitivamente julgado - AREsp 2878599 - , não havendo mais dúvida sobre o valor do débito. Quanto a esse ponto, portanto, o agravo perdeu o objeto.
+Quanto à alegação de que houve vedação indevida ao debate de excesso de execução em sede de impugnação, com ofensa aos arts. 7º, 9º e 10 do Código de Processo Civil e ao art. 525, § 1º, V, a modificação do julgado, nos moldes pretendidos, não depende de simples análise do critério de valoração da prova, mas do reexame dos elementos de convicção postos no processo, providência incompatível com a via estreita do recurso especial, nos termos da Súmula 7 do STJ.
+Ante o exposto, CONHEÇO do agravo para NÃO CONHECER do recurso especial.
+Caso exista nos autos prévia fixação de honorários de advogado pelas instâncias de origem, determino a majoração dessa verba, em desfavor da parte recorrente, no importe de 10% (dez por cento) sobre o valor já arbitrado, nos termos do art. 85, § 11, do CPC/2015, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão da gratuidade da justiça.
+Publique-se. Intimem-se.
+ EMENTA
