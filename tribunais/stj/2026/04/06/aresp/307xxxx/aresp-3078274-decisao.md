@@ -1,0 +1,37 @@
+DECISÃO
+Trata-se de agravo interposto por Arlindo Gomes Cardoso de decisão que inadmitiu na origem seu recurso especial, manifestado com fundamento no art. 105, III, a e c, da Constituição Federal, contra acórdão do Tribunal de Justiça do Estado de São Paulo, assim ementado (fls. 485/486):
+DIREITO ADMINISTRATIVO. APELAÇÃO. PROGRESSÃO FUNCIONAL. IMPROCEDÊNCIA.
+I. Caso em Exame
+Ação ajuizada contra a Companhia Paulista de Trens Metropolitanos CPTM, pleiteando progressão funcional por antiguidade e pagamento de diferenças salariais, com base no Plano de Cargos e Salários de 2014 (PCCS 2014). A Justiça do Trabalho declinou competência para a Justiça Estadual. Sentença julgou improcedente o pedido, extinguindo o feito com base no artigo 487, inciso I, do CPC.
+II. Questão em Discussão
+2. A questão em discussão consiste em: (i) verificar a competência da Justiça Comum para julgar a ação; e (ii) determinar a existência do direito à progressão funcional por antiguidade, conforme o PCCS/2014. III. Razões de Decidir
+3. A Justiça Comum é competente, pois a controvérsia envolve relação jurídico-administrativa, conforme entendimento do STF.
+4. A progressão funcional por antiguidade não é automática, estando condicionada à deliberação administrativa e disponibilidade de recursos financeiros, conforme jurisprudência do TJSP.
+IV. Dispositivo e Tese
+5. Recurso desprovido.
+Tese de julgamento: 1. A Justiça Comum é competente para julgar ações de natureza administrativa envolvendo servidores celetistas. 2. A progressão funcional depende de critérios administrativos e disponibilidade financeira.
+Legislação Citada:
+CF/1988, art. 173, §1º, II; art. 114, I; art. 37, IX. CPC, art. 487, I; art. 85, §11. Lei 13.303/2016. Lei Complementar 101/2000.
+Jurisprudência Citada:
+STF, ADI 3395 MC, Rel. Min. Cezar Peluso, Tribunal Pleno, j. 05.04.2006. STF, AgRg no CC 138.462/MT, Rel. Min. Sérgio Kukina, Primeira Seção, j. 22.04.2015. STF, AgRg no CC 132.241/PB, Rel. Min. Napoleão Nunes Maia Filho, Primeira Seção, j. 11.11.2015. TJSP, Apelação Cível 0000508-75.2024.8.26.0366, Rel. Bandeira Lins, 8ª Câmara de Direito Público, j. 25/03/2025. TJSP, Embargos de Declaração Cível 0026630-65.2022.8.26.0053, Rel. Antonio Celso Aguilar Cortez, j. 08/01/2024. Súmula Vinculante nº 37 do STF.
+No recurso inadmitido, em apertada síntese a parte ora agravante aponta contrariedade aos seguintes dispositivos legais:
+a) arts. 122 e 129 do Código Civil, ao argumento de que " s e o empregado cumpriu o requisito temporal contido no Plano de Cargos e Salários da empresa, faz jus ao recebimento da promoção por antiguidade, não sendo válido condicionar a sua obtenção a critérios unilaterais, que refogem à alçada dos trabalhadores, por se tratar de condição potestativa ilícita, no caso dos autos à dotação orçamentária" (fl. 510).
+Nesse sentido, aduz ainda que (fl. 511):
+30.  ..  ao admitir empregados sob o regime celetista, equipara-se à Empresa Privada, de modo que a falta de dotação orçamentária, por si só, não é suficiente para obstar o direito do empregado que, diga-se, foi implementado pelo próprio regulamento interno da CPTM.
+31. Ainda que assim não fosse, a recorrida não logrou demonstrar que tenha havido óbice orçamentário à concessão das progressões pretendidas pelo recorrente.
+b) art. 468 da CLT, sob a assertiva de que " a  norma tornou-se aplicável a todos os contratos de trabalho, de modo que a promoção apresentasse como um direito fundamental do empregado, haja vista o compromisso assumido pela recorrida ao instituir o plano de carreira em 2014, verdadeiro regulamento de pessoal que passou a incorporar o contrato de trabalho e o patrimônio jurídico do empregado (artigo 468 da CLT e Súmula 51 do TST), não havendo justificativa para a inobservância de suas cláusulas pela empresa" (fl. 512).
+Aponta, ainda, a existência de dissídio jurisprudencial em relação ao julgados oriundos do Tribunal Superior do Trabalho.
+Já nas razões do agravo, defende que os pressupostos de admissibilidade do recurso especial encontram-se preenchidos, reprisando a argumentação ali expendida.
+Contraminuta às fls. 734/737.
+É O RELATÓRIO. PASSO À FUNDAMENTAÇÃO.
+Presentes os pressupostos de admissibilidade do agravo, examino o próprio apelo nobre.
+Para a abertura da via especial, requer-se o prequestionamento, ainda que implícito, da matéria infraconstitucional. A exigência tem como desiderato principal impedir a condução a este Superior Tribunal de questões federais não debatidas no Tribunal de origem, a teor das Súmulas 282/STF e 211/STJ.
+Calha ressaltar que, na forma da jurisprudência do STJ, "para que se configure o prequestionamento, não basta que o recorrente devolva a questão controvertida para o Tribunal, em suas razões recursais. É necessário que a causa tenha sido decidida à luz da legislação federal indicada, bem como seja exercido juízo de valor sobre os dispositivos legais indicados e a tese recursal a eles vinculada, interpretando-se a sua aplicação ou não, ao caso concreto" (AgInt no REsp n. 1.890.753/MA, relatora Ministra Assusete Magalhães, Segunda Turma, DJe de 6/5/2021).
+In casu, verifica-se que a Corte estadual não emitiu nenhum juízo de valor acerca dos arts. 468 da CLT, 122 e 129 do Código Civil, sequer tendo sido instada a fazê-lo por meio de embargos de declaração, motivo pelo qual falta-lhes o necessário prequestionamento, nos termos da Súmula 282/STF.
+Acrescente-se, outrossim, que o Sodalício paulista decidiu a controvérsia sob a perspectiva de que o direito pleiteado pela parte autora, ora recorrente, não estaria incorporado ao contrato de trabalho celebrado com a CPTM (Plano de Carlos e Salários 2014, item 1.2.7), motivo pelo qual também incide na espécie a Súmula 5/STJ ("A simples interpretação de cláusula contratual não enseja recurso especial.").
+Lado outro, c onquanto seja certo que " o  dissídio jurisprudencial resta prejudicado diante da incidência dos óbices sumulares aplicados à alínea a na mesma questão" (AREsp n. 2.376.238/SE, relator Ministro João Otávio de Noronha, Quarta Turma, DJEN de 12/3/2026), calha ressaltar, ainda, que " a  divergência jurisprudencial apontada pelo recorrente com julgado do Tribunal Superior do Trabalho não pode ser conhecida, pois o recurso especial exige demonstração de dissídio com acórdãos do próprio STJ ou de Tribunais a ele vinculados" (REsp n. 2.124.302/PR, relator Ministro João Otávio de Noronha, Quarta Turma, DJEN de 28/11/2025).
+Por fim, a teor do Enunciado Administrativo n. 7 do Superior Tribunal de Justiça, "Somente nos recursos interpostos contra decisão publicada a partir de 18 de março de 2016, será possível o arbitramento de honorários recursais, na forma do art. 85, § 11, do novo CPC".
+Logo, considerando-se que o acórdão recorrido foi prolatado já na vigência do CPC/2015 e, outrossim, tendo em vista o não acolhimento da pretensão recursal da parte ora recorrente, é cabível a condenação desta em honorários advocatícios recursais, na forma do art. 85, § 11, do CPC/2015.
+ANTE O EXPOSTO, conheço do agravo para não conhecer do recurso especial. Condeno a parte recorrente ao pagamento de honorários advocatícios recursais arbitrados, nos termos do art. 85, § 11, do CPC, em 20% sobre a verba honorária fixada nas instâncias ordinárias, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão de justiça gratuita.
+Publique-se.
+EMENTA
