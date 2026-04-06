@@ -1,0 +1,45 @@
+DECISÃO
+Trata-se de Agravo em Recurso Especial interposto por ZILDETE RODRIGUES DA SILVA contra decisão que inadmitiu o recurso especial.
+Segundo a parte agravante, o recurso preenche os requisitos necessários ao conhecimento e provimento, pois seria inaplicável o óbice da Súmula 7/STJ, visto que não buscou revisitar as provas dos autos. Acrescentou que "A Agravada não apresentou provas para muni-la de legitimidade suficiente para atuar na demanda" (e-STJ, fl. 1542). Sobre o dissídio, sustentou que o cotejo analítico demonstraria a similitude fática entre o acórdão recorrido e o paradigma.
+Intimada nos termos do art. 1.042, § 3º, do Código de Processo Civil, a parte agravada afirmou a inexistência de elementos aptos a promover a alteração do julgado impugnado.
+É o relatório.
+DECIDO.
+O agravo é tempestivo, nos termos do art. 1.003, § 5º, do Código de Processo Civil.
+Contudo, o agravo não pode ser conhecido por ausência de impugnação a todos os fundamentos da decisão recorrida, cujos fundamentos transcrevo para que passem a fazer parte da presente decisão:
+I. Trata-se de recurso especial interposto por ZILDETE RODRIGUES DA SILVA, com fundamento no art. 105, III, a e c, da Constituição Federal, contra o V. Acórdão proferido na C. 2ª Câmara Reservada de Direito Empresarial.
+Diante da necessidade de ato regulamentador para conferir eficácia plena ao dispositivo constitucional (art. 105, § 2º), passo à análise do reclamo, a despeito da ausência de arguição de relevância das questões de direito federal infraconstitucional discutidas no caso, nos termos do Enunciado administrativo nº 8 do E. Superior Tribunal de Justiça: "A indicação, no recurso especial, dos fundamentos de relevância da questão de direito federal infraconstitucional somente será exigida em recursos interpostos contra acórdãos publicados após a data de entrada em vigor da lei regulamentadora prevista no artigo 105, parágrafo 2º, da Constituição Federal".
+II. O recurso não reúne condições de admissibilidade pela alínea a da norma autorizadora.
+Arts. 18, 319, 330, 485, VI, do CPC e 5º, VII, da LDA:
+Não ficou demonstrada a alegada vulneração aos dispositivos arrolados, pois as exigências legais na solução das questões de fato e de direito da lide foram atendidas pelo V. Acórdão ao declinar as premissas nas quais assentada a decisão.
+Nesse sentido, o E. Superior Tribunal de Justiça vem decidindo que "a simples e genérica referência aos dispositivos legais desacompanhada da necessária argumentação que sustente a alegada ofensa à lei federal não é suficiente para o conhecimento do recurso especial" (Agravo Interno nos Embargos de Declaração no Agravo em Recurso Especial 1549004/MS, Relator Ministro Marco Aurélio Bellizze, in DJe de 25.06.2020).
+Além disso, ao decidir da forma impugnada, a D. Turma Julgadora o fez diante das provas e das circunstâncias fáticas próprias do processo sub judice, certo que as razões do recurso ativeram-se a uma perspectiva de reexame desses elementos. Mas isso é vedado pelo enunciado na Súmula 7 do E. Superior Tribunal de Justiça.
+III. Melhor sorte não colhe o reclamo sob o prisma da letra c.
+É condição sine qua non, para efeito de comprovação do dissenso interpretativo, não serem os julgados arrolados oriundos do tribunal prolator da decisão impugnada, e esse é o caso de um dos V. Acórdãos apontados.
+Nesse sentido, a própria redação do permissivo constitucional e a da Súmula 13 do E. Superior Tribunal de Justiça.
+Quanto ao paradigma remanescente, o dissenso jurisprudencial deve ser demonstrado de forma analítica, mediante o confronto das partes idênticas ou semelhantes do V. Acórdão recorrido e daqueles eventualmente trazidos à colação, na forma exigida pelo artigo 1.029, §1º, do Código de Processo Civil, com a transcrição dos trechos que configurem o dissídio, mencionadas as circunstâncias que identifiquem ou assemelhem os casos confrontados (neste sentido, o Agravo em Recurso Especial 2007116/SP, Relatora Ministra Maria Isabel Gallotti, in DJe de 02.08.2022; o Agravo Interno no Agravo em Recurso Especial 1765086/SP, Relatora Ministra Assusete Magalhães, in DJe de 30.03.2022, e o Agravo em Recurso Especial 1999092/SP, Relator Ministro Mauro Campbell Marques, in DJe de 09.02.2022).
+IV. Pelo exposto, INADMITO o recurso especial, com base no art. 1.030, V, do CPC.
+No presente processo, a parte agravante afirma, em suma, que estão presentes os requisitos para o conhecimento e provimento de seu recurso.
+Porém, a parte agravante não impugnou um dos fundamentos da decisão agravada: ausência de demonstração da vulneração a dispositivos legais, não bastando a mera alusão a dispositivos legais.
+Nos termos do art. 932, inciso III, do CPC e do art. 253, parágrafo único, inciso I, do Regimento Interno desta Corte, não se conhecerá do agravo em recurso especial que "não tenha impugnado especificamente todos os fundamentos da decisão recorrida".
+Conforme já assentado pela Corte Especial do STJ, a decisão de inadmissibilidade do recurso especial não é formada por capítulos autônomos, mas por um único dispositivo, o que exige que a parte agravante impugne todos os fundamentos da decisão que, na origem, inadmitiu o recurso especial.
+Ressalte-se que a impugnação deve ser realizada de forma efetiva, concreta e pormenorizada, não sendo suficientes alegações genéricas ou relativas ao mérito da controvérsia, sob pena de incidência, por analogia, da Súmula 182/STJ.
+Observa-se, no presente caso, que o recurso de agravo não impugna, de maneira efetiva e detida, todos os capítulos da decisão de inadmissão, em especial aquele atinente à ausência de demonstração da vulneração a dispositivos legais (em correspondência à Súmula 284/STF).
+Além disso, a impugnação contra a incidência da Súmula 7/STJ foi genérica, limitando-se a parte a afirmar a ausência de intenção de reexame de provas, ao mesmo tempo em que alega a ausência de provas da legitimidade de parte. A parte não indicou quais os fatos estabilizados pelo Acórdão recorrido, a fim de demonstrar, a partir de tal quadro fático, o erro de aplicação do direito.
+Inviável, portanto, o conhecimento do agravo.
+A propósito:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. ART. 535 DO CPC/1973. NÃO OCORRÊNCIA. FUNDAMENTOS DA DECISÃO AGRAVADA. AUSÊNCIA DE IMPUGNAÇÃO. SÚMULA Nº 182 DO SUPERIOR TRIBUNAL DE JUSTIÇA.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 1973 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. Não há falar em negativa de prestação jurisdicional se o tribunal de origem motiva adequadamente sua decisão, solucionando a controvérsia com a aplicação do direito que entende cabível à hipótese, apenas não no sentido pretendido pela parte.
+3. Não pode ser conhecido o recurso que não infirma especificamente os fundamentos da decisão agravada, por óbice da Súmula nº 182/STJ.
+4. Agravo regimental não provido.
+(AgRg no AREsp n. 726.599/DF, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 20/3/2018, DJe de 3/4/2018.)
+PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO CPC/73. VIOLAÇÃO DO ART. 557 DO CPC/73. INEXISTÊNCIA. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA AOS FUNDAMENTOS DA DECISÃO AGRAVADA. INCIDÊNCIA DA SÚMULA Nº 182 DO STJ. AGRAVO REGIMENTAL PARCIALMENTE CONHECIDO E NÃO PROVIDO.
+1. Inaplicáveis as disposições do NCPC a este julgamento ante os termos do Enunciado Administrativo nº 2 aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas até então pela jurisprudência do Superior Tribunal de Justiça.
+2. A possibilidade de interposição de agravo regimental contra decisão monocrática proferida com esteio no art. 557 do CPC/73, afasta qualquer alegação de ofensa ao princípio da colegialidade.
+3. O agravo regimental não impugnou as razões da decisão agravada, pois não refutou a aplicação das Súmulas nºs 282 e 356 do STF, em razão da ausência de prequestionamento dos arts. 113, § 2º, 128, 165, 183, § 1º, 267, § 3º, 301, 319, 322, parágrafo único, 458, II, III, 460 do CPC/73. Incide, no ponto, a Súmula nº 182 do STJ: É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada.
+4. Agravo regimental parcialmente conhecido e, nessa parte, não provido.
+(AgRg no REsp n. 1.464.098/GO, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 10/10/2017, DJe de 20/10/2017.)
+Ante o exposto, não conheço do agravo em recurso especial.
+Caso exista nos autos prévia fixação de honorários advocatícios pelas instâncias de origem, determino sua majoração em desfavor da parte agravante, no importe de 2% sobre o valor já arbitrado, nos termos do art. 85, § 11, do Código de Processo Civil, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão da gratuidade da justiça.
+Publique-se. Intimem-se.
+EMENTA
