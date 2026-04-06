@@ -1,0 +1,44 @@
+DECISÃO
+Trata-se de agravo manejado por Paulo Rogerio Santini Gabriel contra decisão que não admitiu recurso especial, este interposto com fundamento no art. 105, III, a, da CF, desafiando acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo, assim ementado (fl. 133):
+APELAÇÃO - Mandado de Segurança - CNH - Auto de Infração baseado no art. 165-A do CTB (recusa no "teste do bafômetro" - Sentença que denegou a segurança - Insurgência - Alegação de ausência de dupla notificação - Desnecessária, já que o impetrante foi devidamente notificado quando da autuação em flagrante - Ausência de violação do direito líquido e certo - Sentença mantida - RECURSO DESPROVIDO
+Opostos embargos declaratórios, foram parcialmente acolhidos, sem alteração do julgado (fls. 155/161).
+Nas razões do recurso especial, a parte agravante aponta violação aos seguintes dispositivos:
+I - arts. 280, VI, 281, § 1º, II, e 281-A do CTB, ao argumento de que, identificando-se o infrator no momento da autuação, não se dispensa sua notificação da autuação, seja porque, na hipótese, não houve assinatura do auto de infração pelo condutor, ou porque, não sendo o veículo de propriedade do autuado, não lhe foi oportunizada ciência do termo inicial para sua defesa prévia no processo administrativo. Aduz que estes requisitos são cumulativos e que não se verificaram no caso concreto;
+II - art. 282, caput e § 4º, do CTB, porque, tratando-se de infração de responsabilidade exclusiva do condutor, é obrigatória a notificação da imposição da penalidade ao infrator identificado, não bastando a cientificação apenas do proprietário do veículo.
+O Ministério Público Federal, na condição de fiscal da lei, opinou pelo pelo provimento da pretensão apenas para reabertura do prazo de defesa administrativa acerca da imposição da penalidade, diante da ausência de notificação do condutor (fls. 233/240).
+É O RELATÓRIO.SEGUE A FUNDAMENTAÇÃO.
+Cuidam os autos, na origem, de mandado de segurança impetrado por Paulo Rogério Santini Gabriel contra o Diretor do DER /SP, para anulação de auto de infração lavrado contra si por recusa em se submeter ao teste do etilômetro, sob a fundamentação de que referida nulidade se verifica em razão de ausência de sua notificação para exercer defesa no processo administrativo de ensejador da sanção.
+A segurança foi denegada pela sentença de fls. 65/69, de onde adveio apelação, de provimento negado pelo Tribunal Paulista, por acórdão de fls. 132/142, sob a justificativa de desnecessidade de dupla notificação diante da autuação em flagrante do particular, na hipótese.
+Por oportuno, observem-se as razões de decidir adotadas pela Corte de origem, que, ao dirimir a controvérsia, assim deixou consignado (fls. 135/139):
+Depreende-se pelos autos que o impetrante (condutor do veículo) foi identificado no auto de infração 1DC3025601, conforme documento de fl. 44.
+ ..
+No entanto, conforme alegado pelo impetrante/apelante, para a aplicação de penalidade por infração de trânsito resulta indispensável a dupla notificação, previstos na súmula nº 312 do Superior Tribunal de Justiça:
+ ..
+Portanto, tratando-se de infração de trânsito que só se configura com a obrigatória presença do infrator, torna-se desnecessária a expedição de notificação de ciência da infração ao próprio condutor.
+Muito embora o apelante não tenha assinado o auto de infração, foi fornecido dados de sua identificação para preenchimento do referido documento (fls. 44), observando-se inclusive, que o veículo só fora liberado para condutor devidamente habilitado.
+De fato, na forma da jurisprudência deste Superior Tribunal, nos "casos em que a autuação é lavrada em flagrante, desnecessária a primeira notificação quando o condutor é cientificado pessoalmente na ocasião da infração e, a partir daí, conta-se o prazo para oferecimento de defesa prévia" (AgInt no AREsp n. 776.293/RS, Relator Ministro Sérgio Kukina, Primeira Turma, DJe de 8/9/2022).
+Nessa linha:
+PROCESSUAL CIVIL. ADMINISTRATIVO. PEDIDO DE RECONSIDERAÇÃO RECEBIDO COMO AGRAVO INTERNO. PEDIDO DE UNIFORMIZAÇÃO DE INTERPRETAÇÃO DE LEI. INFRAÇÃO DE TRÂNSITO. AUTUAÇÃO LAVRADA EM FLAGRANTE.
+NOTIFICAÇÃO DO CONDUTOR. DESNECESSIDADE. PRECEDENTES.
+1. Na forma da jurisprudência deste Superior Tribunal, nos "casos em que a autuação é lavrada em flagrante, desnecessária a primeira notificação quando o condutor é cientificado pessoalmente na ocasião da infração e, a partir daí, conta-se o prazo para oferecimento de defesa prévia" (AgInt no AREsp n. 776.293/RS, Relator Ministro Sérgio Kukina, Primeira Turma, DJe de 8/9/2022). Nesse mesmo sentido: AgInt nos EDcl no AREsp n. 1.031.739/RS, Relator Ministro Francisco Falcão, Segunda Turma, DJe de 26/2/2018.
+2. Agravo interno desprovido.
+(RCD no PUIL n. 5.138/DF, relator Ministro Sérgio Kukina, Primeira Seção, julgado em 18/11/2025, DJEN de 26/11/2025.)
+Todavia, importa igualmente destacar que a Primeira Seção desta Corte Superior, por ocasião do julgamento do Agint no PUIL 3.113/RS, DJe 26/8/2024, fixou sua orientação no sentido de que a notificação do proprietário do veículo sobre a autuação tem como finalidade sua informação sobre a obrigação imposta, contudo, referida notificação não pode obstar o direito de defesa do condutor autuado. A propósito, confira-se a ementa do referido julgado:
+ADMINISTRATIVO. PROCESSUAL CIVIL. DIREITO DO TRÂNSITO. AGRAVO INTERNO NO PEDIDO DE UNIFORMIZAÇÃO DE INTERPRETAÇÃO DE LEI FEDERAL. DUPLA NOTIFICAÇÃO DO INFRATOR. AUSÊNCIA. PENALIDADE IMPOSTA UNICAMENTE AO CONDUTOR. DECORRÊNCIA DIRETA DA INFRAÇÃO. INSUBSISTÊNCIA. PEDIDO DE UNIFORMIZAÇÃO PROCEDENTE. AGRAVO INTERNO DESPROVIDO.
+1. A imposição de penalidade diretamente ao condutor devidamente identificado, em decorrência direta de cometimento de infração, exige sua dupla notificação prévia.
+2. A existência de dupla notificação ao proprietário valida a multa que é de sua responsabilidade, mas não exime a autoridade de trânsito de igualmente notificar o infrator, para o exercício de seu direito de defesa autônomo, notadamente havendo sanção diretamente decorrente do ato supostamente cometido e destinada exclusivamente ao condutor.
+3. Agravo interno desprovido.
+(AgInt no PUIL n. 3.113/RS, relator Ministro Afrânio Vilela, Primeira Seção, julgado em 20/8/2024, DJe de 26/8/2024.)
+E, na hipótese dos autos, as instâncias de origem reconheceram que a autuação em flagrante do condutor, e a notificação da proprietária do automóvel, seriam suficientes para a regularidade do auto de infração, dispensando, assim, a necessidade de intimação do condutor acerca da penalidade que lhe foi aplicada.
+Assim, a decisão recorrida confronta com o enunciado da Súmula 312/STJ "No processo administrativo para imposição de multa de trânsito, são necessárias as notificações da autuação e da aplicação da pena decorrente da infração".
+Neste mesmo sentido:
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO INTERNO NO RECURSO ESPECIAL. SUPOSTA VIOLAÇÃO AO ARTIGO 1.022 DO CPC. NÃO CARACTERIZADA. ARGUMENTAÇÃO GENÉRICA. SÚMULA 284/STF. INFRAÇÃO DE TRÂNSITO. NECESSIDADE DE PRÉVIA NOTIFICAÇÃO DO CONDUTOR. DUPLA NOTIFICAÇÃO. ACÓRDÃO DO TRIBUNAL DE ORIGEM EM CONSONÂNCIA COM A JURISPRUDÊNCIA DESTA CORTE. SÚMULA 568/STJ. AGRAVO NÃO PROVIDO.
+1. Quanto à alegação de negativa de prestação jurisdicional, das razões do recurso especial, verifica-se que o agravante apresentou apenas razões genéricas, sem especificação da suposta negativa de prestação jurisdicional em que incorreu o Tribunal de origem, incidindo, pois, o óbice da Súmula 284/STF.
+2. O entendimento consolidado desta Corte é no sentido de que o procedimento administrativo para imposição de multa por infração de trânsito deve englobar, sob pena de ofensa aos princípios do contraditório e da ampla defesa, duas notificações, a primeira, no momento da lavratura do auto de infração, ocasião em que é aberto prazo de trinta dias para o oferecimento de defesa prévia; e a segunda, por ocasião da aplicação da penalidade pela autoridade de trânsito, entendimento sintetizado na Súmula 312/STJ
+3. Esta Corte de Justiça possui jurisprudência no sentido de que, tratando-se de infração de trânsito de responsabilidade exclusiva do condutor do veículo, deve este ser notificado acerca da imposição da penalidade, a fim de que lhe seja oportunizada a apresentação de recurso, não bastando a cientificação do proprietário do automóvel.
+4. Agravo interno não provido.
+(AgInt no REsp n. 1.875.132/RS, relator Ministro Mauro Campbell Marques, Segunda Turma, julgado em 12/4/2021, DJe de 15/4/2021.)
+Assim, por se encontrar em confronto com o entendimento desta Corte Superior, o acórdão merece reparo, para que seja notificado o condutor acerca da sanção que lhe foi imposta, com a consequente reabertura de prazo para defesa em procedimento administrativo.
+ANTE O EXPOSTO, conheço do agravo e dou provimento ao recurso especial, nos termos dessa decisão.
+Publique-se.
+EMENTA
