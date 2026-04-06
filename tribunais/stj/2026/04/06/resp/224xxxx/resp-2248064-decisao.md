@@ -1,0 +1,75 @@
+DECISÃO
+Cuida-se de recurso especial interposto por CAIXA DE PREVIDÊNCIA DOS FUNCIONÁRIOS DO BANCO DO BRASIL - PREVI, fundamentado nas alíneas "a" e "c" do permissivo constitucional, no intuito de reformar acórdão proferido pelo Tribunal de Justiça do Distrito Federal e dos Territórios, assim ementado (fls. 235-236, e-STJ):
+Apelação cível. Direito civil e processo civil. Ação monitória. Ressarcimento. Contrato de previdência privada complementar. Falecimento da beneficiária. Verba indevidamente apropriada pelo espólio. Enriquecimento sem causa. Prazo prescr icional trienal. Recurso conhecido e desprovido.
+I. Caso em exame
+Trata-se de apelação interposta contra a sentença que acolheu a prejudicial de prescrição para declarar prescrita a pretensão da parte autora, referente ao ressarcimento do valor pago ao réu (espólio) a título de complementação de aposentadoria.
+II. Questão em discussão
+O cerne da controvérsia reside em apurar o prazo prescricional da pretensão de reaver a verba apropriada indevidamente pelo espólio, ora apelado.
+III. Razões de decidir
+O art. 206, §3º, inciso IV, do Código Civilestabelece que prescreve em 3 (três) anos a pretensão de ressarcimento de enriquecimento sem causa. Não se aplica ao caso o prazo quinquenal disposto no art. 206, §5º, I, do CC, visto que é voltado à cobrança entre os próprios contratantes, e não se estende automaticamente a terceiros que não participaram da formação do vínculo obrigacional.
+Diante da natureza jurídica da demanda que visa o ressarcimento fundado em enriquecimento sem causa de terceiro (espólio), e sendo o marco inicial do prazo prescricional a data do depósito indevido (20/01/2019), é de rigor a aplicação da regra prevista no art. 206, §3º, IV, do CC, estando a pretensão da autora/apelante fulminada pela prescrição.
+IV. Dispositivo
+Recurso conhecido e desprovido.
+Nas razões de recurso especial (fls. 252-265, e-STJ), aponta a parte recorrente, além da divergência jurisprudencial, ofensa aos seguintes dispositivos: art. 206, § 3º, IV, e § 5º, I, do Código Civil; arts. 188, 227, 985 e 986 do Código de Processo Civil.
+Sustenta, em síntese: (i) ser quinquenal, e não trienal, o prazo prescricional aplicável à pretensão de cobrança de valores pagos indevidamente por entidade de previdência complementar, à luz do art. 206, § 5º, I, do CC; (ii) possuir autonomia para eleger a via adequada de cobrança (ação de cobrança), sendo a ação de enriquecimento sem causa subsidiária (arts. 188 e 227 do CPC), e (iii) que competia aos herdeiros comunicar o óbito e representar a herança (arts. 985 e 986 do CPC), circunstância que teria dado causa ao pagamento indevido.
+Não foram apresentadas contrarrazões, conforme certidão de fls. 281.
+Em juízo de admissibilidade (fls. 285-286, e-STJ), admitiu-se o recurso, ascendendo os autos a esta Corte.
+É o relatório.
+Decido.
+1. De início a parte recorrente aduz ser quinquenal, e não trienal, o prazo prescricional aplicável à pretensão de cobrança de valores pagos indevidamente por entidade de previdência complementar, à luz do art. 206, § 5º, I, do CC.
+Sobre o tema, a jurisprudência do STJ é uníssona em afirmar que, em se tratando da pretensão de reaver valores depositados como benefício de previdência complementar privada, indevidamente apropriados por terceiro, aplica-se o prazo prescricional de três anos previsto no art. 206, § 3º, IV, do Código Civil, por envolver pretensão ressarcitória decorrente de enriquecimento sem causa. Não se cuida de relação envolvendo segurado ou beneficiário de regime de previdência complementar regido pela Lei Complementar 109/2001, razão pela qual não incide a prescrição quinquenal do art. 75 dessa lei especial.
+A propósito, os seguintes julgados:
+PROCESSO CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO DE COBRANÇA. RESTITUIÇÃO DE VALORES PAGOS INDEVIDAMENTE. FUNDAMENTAÇÃO BASEADA EM ENRIQUECIMENTO SEM CAUSA. PRESCRIÇÃO TRIENAL (ART. 206, § 3º, IV, DO CC). ALEGAÇÃO DE VIOLAÇÃO AO ART. 1.022 DO CPC. INEXISTÊNCIA DE OMISSÃO OU NEGATIVA DE PRESTAÇÃO JURISDICIONAL. DECISÃO FUNDAMENTADA. CONFUSÃO COM JULGAMENTO DESFAVORÁVEL. NECESSIDADE DE REEXAME FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. INCIDÊNCIA DA SÚMULA 7/STJ. AGRAVO NÃO CONHECIDO. MAJORAÇÃO DE HONORÁRIOS SUCUMBENCIAIS (ART. 85, § 11, DO CPC).
+I. CASO EM EXAME
+1. Agravo em recurso especial interposto contra decisão que inadmitiu o recurso especial, em ação de cobrança ajuizada pela previ para restituição de valores pagos indevidamente ao espólio, com alegações de violação aos arts. 1.022, incisos I e II, 188, 227, 985 e 986 do CPC, e ao art. 206, § 5º, inciso I, do CC.
+II. QUESTÃO EM DISCUSSÃO
+2. A controvérsia reside na adequação da ação de cobrança versus enriquecimento sem causa, no prazo prescricional aplicável (quinquenal ou trienal), na existência de omissão no acórdão recorrido configurando negativa de prestação jurisdicional, e na possibilidade de reexame fático-probatório.
+III. RAZÕES DE DECIDIR
+3. Inexistência de violação ao art. 1.022 do CPC, pois o acórdão recorrido se manifestou de forma fundamentada sobre as questões suscitadas, não confundindo decisão desfavorável com negativa de prestação jurisdicional, conforme jurisprudência do STJ.
+4. A pretensão da autora fundamenta-se em enriquecimento sem causa (art. 884 do CC), atraindo a prescrição trienal do art. 206, § 3º, inciso iv, do CC, tendo transcorrido o prazo desde o falecimento em 2018 ou conhecimento em 2019, até o ajuizamento em 2024.
+5. Infirmar a conclusão do tribunal de origem demandaria reexame de fatos e provas, vedado pela súmula 7 do STJ.
+IV - DISPOSITIVO
+6. Não se conhece do agravo em recurso especial. Majoração dos honorários sucumbenciais para 15% (quinze por cento), nos termos do art. 85, § 11, do CPC.
+(AREsp n. 2.978.204/DF, relatora Ministra Daniela Teixeira, Terceira Turma, julgado em 13/10/2025, DJEN de 16/10/2025.)  grifou-se
+DIREITO CIVIL. AGRAVO EM RECURSO ESPECIAL. PRESCRIÇÃO TRIENAL. ENRIQUECIMENTO SEM CAUSA. RESSARCIMENTO DE VALORES PAGOS NDEVIDAMENTE.
+1. O prazo prescricional aplicável à pretensão de ressarcimento de valores pagos indevidamente após o óbito da beneficiária é o trienal, previsto no art. 206, § 3º, IV, do Código Civil, por se tratar de enriquecimento sem causa.
+2. A Súmula 291/STJ não se aplica ao caso, pois trata de ações de cobrança de parcelas de complementação de aposentadoria pela previdência privada, enquanto o presente caso versa sobre restituição de valores pagos indevidamente.
+3. A expedição de ofício para obtenção de extratos bancários e quebra de sigilo bancário é irrelevante, pois o pedido principal de ressarcimento está fulminado pela prescrição, e a análise da movimentação bancária não altera o decurso do prazo prescricional.
+4. Não houve negativa de prestação jurisdicional, pois o acórdão recorrido enfrentou adequadamente as questões suscitadas, fundamentando a ocorrência da prescrição trienal.
+5. A ausência de prequestionamento explícito dos dispositivos legais invocados no recurso especial impede o seu conhecimento, conforme as Súmulas 282 e 356 do STF.
+Agravo conhecido para negar provimento ao recurso especial.
+(AREsp n. 2.760.825/SP, relator Ministro Raul Araújo, Quarta Turma, julgado em 10/11/2025, DJEN de 17/11/2025.)  grifou-se
+Na hipótese dos autos, o acórdão recorrido aplicou o prazo prescricional trienal do art. 206, § 3º, IV, do Código Civil à pretensão de ressarcimento fundada em enriquecimento sem causa de terceiro (espólio), afastando-se o prazo quinquenal do art. 206, § 5º, I, por ser voltado à cobrança entre contratantes.
+É o que se infere do seguinte trecho do acórdão recorrido (fls. 238-239, e-STJ):
+O cerne da controvérsia reside em apurar o prazo de prescrição da pretensão de reaver a verba apropriada indevidamente pelo espólio, ora apelado.
+O art. 206, §3º, inciso IV, do Código Civil estabelece prescrever em 3 (três) anos a pretensão de ressarcimento de enriquecimento sem causa.
+Por outro lado, o prazo prescricional de 5 (cinco) anos disposto no art. 206, §5º, inciso I, do CC, se refere à pretensão de cobrança de dívidas líquidas constantes de instrumento público ou particular, o que pressupõe uma relação contratual direta entre as partes, e não com terceiro.
+No caso, o óbito da Sra. Maria do Socorro de Carvalho Goulart ocorreu em 11/01/2019 (ID 71062307) e foi comunicado à apelante em fevereiro/2019, tendo sido disponibilizado indevidamente o benefício de complementação de aposentadoria em 20/01/2019, sendo este o termo inicial para a contagem do prazo prescricional.
+Na hipótese, verifica-se que a relação contratual fora estabelecida entre a parte autora/apelante e a beneficiária, Sra. Maria do Socorro de Carvalho Goulart, e não com o espólio, ora apelado. Por conseguinte, é de rigor a aplicação da regra prevista no art. 206, §3º, IV, do CC, isto porque o prazo quinquenal disposto no art. 206, §5º, I, do CC é voltado à cobrança entre os próprios contratantes, e não se estende automaticamente a terceiros que não participaram da formação do vínculo obrigacional.
+O acórdão impugnado acompanhou nesse ponto a orientação firmada no âmbito deste Superior Tribunal de Justiça. Aplica-se, portanto, o óbice enunciado na Sumula 83/STJ: Não se conhece do recurso especial pela divergência, quando a orientação do tribunal se firmou no mesmo sentido da decisão recorrida.
+2. A parte recorrente sustenta possuir autonomia para eleger a via adequada de cobrança (ação de cobrança), sendo a ação de enriquecimento sem causa subsidiária (arts. 188 e 227 do CPC) e ainda, que competia aos herdeiros comunicar o óbito e representar a herança (arts. 985 e 986 do CPC), circunstância que teria dado causa ao pagamento indevido.
+Na hipótese, observa-se que o Tribunal de origem não emitiu pronunciamento a respeito das referidas alegações, nem sobre os dispositivos de lei federal citados, e sequer foram opostos embargos de declaração para sanar a suposta omissão.
+Segundo a reiterada jurisprudência deste Superior Tribunal de Justiça, ainda que a violação à legislação federal surja por ocasião do julgamento do acórdão, deve a parte opor embargos de declaração a fim de obter a emissão de juízo de valor sobre os dispositivos legais. Caso o Colegiado local, embora provocado, persista na omissão, é imprescindível a alegação de violação ao art. 1022 do Código de Processo Civil quando da interposição do recurso especial, sob pena de incidir no intransponível óbice da ausência de prequestionamento.
+Nesse mesmo sentido, confiram-se os seguintes julgados:
+RECURSO ESPECIAL. DIREITO PROCESSUAL CIVIL E DIREITO DO CONSUMIDOR. PLANO DE SAÚDE COLETIVO. REAJUSTE POR SINISTRALIDADE. AUSÊNCIA DE COMPROVAÇÃO DA BASE DE CÁLCULO PELA OPERADORA. ÍNDOLE ABUSIVA RECONHECIDA NAS INSTÂNCIAS ORDINÁRIAS. ALEGAÇÃO DE NEGATIVA DE PRESTAÇÃO JURISDICIONAL AFASTADA. AUSÊNCIA DE PREQUESTIONAMENTO DE DISPOSITIVOS LEGAIS. INCIDÊNCIA DAS SÚMULAS 282 E 356/STF. RECURSO ESPECIAL PARCIALMENTE CONHECIDO E, NESSA EXTENSÃO, DESPROVIDO.
+1. Não há negativa de prestação jurisdicional quando o Tribunal de origem decide a controvérsia de maneira fundamentada, aplicando o direito que entende cabível, ainda que em sentido contrário à pretensão da parte. No caso, o acórdão recorrido enfrentou o núcleo da controvérsia - a validade do reajuste por sinistralidade -, assentando a sua índole abusiva pela falta de transparência e de comprovação idônea por parte da operadora, que não forneceu os documentos necessários à realização da prova pericial.
+2. A ausência de apreciação, pelo Tribunal a quo, do conteúdo normativo dos arts. 421 e 478 do Código Civil, 20 da Lei de Introdução às Normas do Direito Brasileiro e 35-E, § 2º, da Lei 9.656/98, e a não oposição de embargos de declaração pela recorrente para sanar a omissão atraem a incidência das Súmulas 282 e 356 do STF, por falta do indispensável prequestionamento.
+3. Recurso especial parcialmente conhecido e, nessa extensão, desprovido.
+(REsp n. 2.046.490/SP, relator Ministro Raul Araújo, Quarta Turma, julgado em 1/12/2025, DJEN de 9/12/2025.)
+DIREITO PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO DE BUSCA E APREENSÃO. AUSÊNCIA DE COMPROVAÇÃO DE MORA. HONORÁRIOS SUCUMBENCIAIS. AGRAVO CONHECIDO. RECURSO ESPECIAL NÃO CONHECIDO.
+1. O Tribunal de origem não apreciou o conteúdo normativo dos dispositivos indicados como violados (arts. 218, § 4º, 239, § 1º, e 85, §§ 2º e 6º, do CPC), e não foram opostos embargos de declaração para sanar eventual omissão, configurando ausência de prequestionamento, o que atrai a aplicação das Súmulas 282 e 356 do STF.
+2. O prequestionamento ficto do art. 1.025 do CPC/2015 não se aplica, pois não houve oposição de embargos de declaração nem indicação de violação ao art. 1.022 do CPC/2015 no recurso especial.
+3. A alegação de divergência jurisprudencial não foi demonstrada adequadamente, pois não foram expostas as circunstâncias que identificam ou assemelham os casos confrontados, em descumprimento aos arts. 1.029, § 1º, do CPC/2015, e 255, § 1º, do RISTJ.
+4. Agravo conhecido para não conhecer do recurso especial.
+(AREsp n. 2.768.725/AL, relator Ministro Raul Araújo, Quarta Turma, julgado em 24/11/2025, DJEN de 3/12/2025.)  grifou-se
+RECURSO ESPECIAL. DIREITO CIVIL E PROCESSUAL CIVIL. AÇÃO DE OBRIGAÇÃO DE FAZER. PROVEDOR DE PESQUISAS NA INTERNET. REMOÇÃO DE CONTEÚDO. MARCO CIVIL DA INTERNET. LEI Nº 12.965/2014. FATOS OCORRIDOS ANTES DE SUA VIGÊNCIA. INAPLICABILIDADE. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULAS 282 E 356 DO STF. RECURSO ESPECIAL NÃO CONHECIDO.
+1. A controvérsia sobre a aplicabilidade de dispositivo do Marco Civil da Internet (Lei nº 12.965/2014) a fatos ocorridos anteriormente à sua vigência obsta o conhecimento do recurso especial, uma vez que a legislação apontada como violada não rege a hipótese dos autos. Conforme entendimento consolidado, a norma a ser aplicada para a resolução de controvérsias relativas a conteúdo na internet deve considerar o momento da ocorrência do ato lesivo.
+2. A ausência de debate, pelo Tribunal de origem, acerca do dispositivo legal federal tido por violado, bem como a não oposição de embargos de declaração para sanar a omissão, atrai a incidência dos enunciados das Súmulas 282 e 356 do Supremo Tribunal Federal, por carência de prequestionamento.
+3. Recurso especial não conhecido.
+(REsp n. 1.764.854/DF, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 10/11/2025, DJEN de 18/11/2025.)  grifou-se
+Inafastável, portanto, a incidência da Súmula 282 do STF: "É inadmissível o recurso extraordinário, quando não ventilada, na decisão recorrida, a questão federal suscitada" e da Súmula 356/STF: "O ponto omisso da decisão, sobre o qual não foram opostos embargos declaratórios, não pode ser objeto de recurso extraordinário, por faltar o requisito do prequestionamento."
+3. Do exposto, conheço em parte do recurso especial e nego-lhe provimento.
+Por fim, nos termos do art. 85, § 11, do CPC, majoro os honorários advocatícios em 10% (dez por cent o) sobre o valor já fixado na origem, observado, se for o caso, o disposto no art. 98, § 3º, do CPC.
+Publique-se.
+Intimem-se.
+EMENTA
