@@ -1,0 +1,77 @@
+DECISÃO
+Trata-se de agravo interposto por ANTONIO CARLOS SALVI e por GEUZA SILVESTRE SALVI, que visa demonstrar a admissibilidade de recurso especial manejado contra acórdão assim ementado (e-STJ fl. 689):
+DIREITO CIVIL. APELAÇÃO. EMBARGOS DE TERCEIROS. RECURSO PROVIDO.
+I. Caso em Exame.
+1. Apelação interposta contra sentença que julgou procedente os embargos de terceiros para cancelamento das averbações de indisponibilidade sobre imóvel. Condenação da embargada ao pagamento de custas processuais e honorários advocatícios.
+II. Questão em Discussão.
+2. A questão em discussão consiste em determinar a responsabilidade pelo ônus de sucumbência, considerando a falta de registro de transferência do imóvel pelos embargantes.
+III. Razões de Decidir.
+3. A indisponibilidade do imóvel ocorreu devido à ausência de registro de transferência, mantendo a embargada como responsável pelas obrigações tributárias.
+4. Pelo princípio da causalidade, os embargantes devem responder pelos ônus da sucumbência, conforme precedentes do Superior Tribunal de Justiça.
+5. Sentença reformada para inversão do ônus de sucumbência, condenando os embargantes ao pagamento das custas e honorários advocatícios.
+IV. Dispositivo.
+6. Recurso provido.
+Os embargos de declaração foram rejeitados (e-STJ fls. 722/727).
+No recurso especial (e-STJ fls. 730/775), os recorrentes alegaram violação aos arts. 85, 489, § 1º, IV, e 1.022, I e II, do CPC, além de divergência jurisprudencial. Em síntese, sustentaram: (i) a nulidade do acórdão recorrido, em razão da negativa de prestação jurisdicional; (ii) a condenação da municipalidade exequente ao pagamento dos honorários advocatícios decorrentes da procedência dos embargos de terceiro, nos termos da tese firmada no julgamento do Tema 872 do STJ, uma vez que, embora ciente da alienação do imóvel em momento anterior, resistiu à pretensão da embargante, insistindo na manutenção da constrição judicial.
+Foram apresentadas contrarrazões por FINAX IMÓVEIS - EIRELI (e-STJ fls. 785/795).
+O Tribunal de origem inadmitiu o recurso especial, entendendo inexistente a alegada negativa de prestação jurisdicional e aplicando os óbices das Súmulas 83 e 7 do STJ (e-STJ fls. 796/799). Em razão disso, foi interposto o presente agravo (e-STJ fls. 802/835).
+FINAX IMÓVEIS - EIRELI apresentou contraminuta (e-STJ fls. 838/848)
+Passo a decidir.
+Atendidos os pressupostos próprios, conheço do agravo para, desde logo, examinar o recurso especial.
+No que concerne à alegada negativa de prestação jurisdicional, saliente-se que o art. 1.022 do Código de Processo Civil/2015 prevê que os embargos de declaração são cabíveis contra qualquer decisão judicial, no intuito de esclarecer obscuridade, eliminar contradição, suprir omissão ou para correção de eventual erro material, in verbis:
+Art. 1.022. Cabem embargos de declaração contra qualquer decisão judicial para:
+I - esclarecer obscuridade ou eliminar contradição;
+II - suprir omissão de ponto ou questão sobre o qual devia se pronunciar o juiz de ofício ou a requerimento;
+III - corrigir erro material.
+Especificamente quanto à hipótese do inciso II, a novel legislação processual definiu como omissão as seguintes situações: (i) deixar de se manifestar sobre tese firmada em sede de recursos repetitivos ou em incidente de assunção de incompetência; (ii) incorrer a decisão judicial em qualquer das condutas descritas no art. 489, § 1º, do CPC/2015.
+Esse dispositivo, por sua vez, trata dos casos em que a decisão judicial carece de fundamentação, senão vejamos:
+§ 1º Não se considera fundamentada qualquer decisão judicial, seja ela interlocutória, sentença ou acórdão, que:
+I - se limitar à indicação, à reprodução ou à paráfrase de ato normativo, sem explicar sua relação com a causa ou a questão decidida;
+II - empregar conceitos jurídicos indeterminados, sem explicar o motivo concreto de sua incidência no caso;
+III - invocar motivos que se prestariam a justificar qualquer outra decisão;
+IV - não enfrentar todos os argumentos deduzidos no processo capazes de, em tese, infirmar a conclusão adotada pelo julgador;
+V - se limitar a invocar precedente ou enunciado de súmula, sem identificar seus fundamentos determinantes nem demonstrar que o caso sob julgamento se ajusta àqueles fundamentos;
+VI - deixar de seguir enunciado de súmula, jurisprudência ou precedente invocado pela parte, sem demonstrar a existência de distinção no caso em julgamento ou a superação do entendimento.
+Para a admissão do recurso especial com base no referido dispositivo, a omissão tem que ser manifesta, ou seja, imprescindível para o enfrentamento da quaestio.
+No presente caso, cuidam os autos de embargos de terceiro.
+O juízo de primeiro grau julgou procedente o pedido, condenando a empresa embargada ao pagamento dos ônus sucumbenciais.
+Em seguida, o Tribunal de Justiça de São Paulo deu provimento à apelação interposta pela empresa embargada, invertendo a sucumbência e impondo, à parte embargante, o pagamento dos respectivos encargos.
+Eis a fundamentação consignada no acórdão recorrido:
+Trata-se de embargos de terceiros opostos por Antonio Carlos Salvi e Geuza Silvestre Salvi, pretendendo a liberação da indisponibilidade do imóvel de matrícula nº 11.583 (matrícula atual nº 21.176) do 1º Oficial de Registro de Imóveis da Comarca de Mogi das Cruzes -SP, alegando que o adquiriu em 21/02/1986, muito antes da ocorrência dos fatos geradores cobrados nas execuções fiscais nºs 0002981-39.2014.8.26.0219, 0002298-65.2015.8.26.0219 e 1500700-60.2019.8.26.0219 (exercícios de 2011 a 2013 fl. 132 e 2017 fl. 191).
+Os embargos de terceiros foram julgados procedentes. Contudo, pelo princípio da causalidade, a embargada foi condenada ao pagamento dos honorários advocatícios, uma vez que deixou de proceder a regularização da titularidade do bem, ocorrida em data posterior à penhora do imóvel nos autos da execução, dando ensejo à constrição indevida. Assim, deve arcar com as verbas de sucumbência, nos termos da Súmula 303 do Superior Tribunal de Justiça.
+Insurge-se a embargada apenas contra a condenação nos ônus de sucumbência. E, com razão.
+Diante da ausência do registro de transferência do imóvel pelos embargantes, houve a decretação das indisponibilidades do bem nos processos de execução descritos na exordial. Assim, a indisponibilidade do imóvel ocorreu pelo fato de o imóvel ainda estar registrado em nome da antiga proprietária.
+Dessa forma, de fato, a falta do registro de transferência do domínio manteve a embargada como responsável pelas obrigações tributária e, por consequência, deu causa às execuções fiscais e posterior indisponibilidades averbadas na matrícula imobiliária.
+Conforme entendimento firmado pelo Egrégio Superior Tribunal de Justiça, em sede do julgamento do AgRg no REsp n. 1.314.363/RN, os embargantes respondem pelo ônus de sucumbência, caso não tenham deixado de efetivar o registro da transferência de domínio do imóvel, in verbis:
+ ..
+No caso em análise, os embargantes adquiriram o imóvel descrito na matrícula 21.179 do Cartório de Registro de Imóveis de Mogi das Cruzes - SP, em 30 de novembro de 1982, de forma parcelada. Assim, houve apenas o registro da promessa de compra e venda do imóvel.
+Destaco que cabia aos embargantes registrarem a transferência de domínio do imóvel após a quitação das parcelas do contrato de compra, ensejando as contrições sobre o imóvel no ano de 2021, conforme cópia da certidão da matrícula juntada às fls. 78/82.
+Apesar das alegações dos embargantes, não restou demonstrada qualquer resistência por parte da embargada para promover o registro da transferência de domínio.
+Assim, pelo princípio da causalidade os embargantes deverão responder pelos ônus da sucumbência, conforme precedentes deste Egrégio Tribunal de Justiçam cujas ementas transcrevo abaixo como razão da decidir:
+ ..
+Assim, de rigor a reforma parcial da r. sentença, com a inversão do ônus de sucumbência, condenando os embargantes ao pagamento das custas e despesas processuais, assim como os honorários advocatícios, arbitrados em 10% sobre o valor da causa (representando o percentual mínimo previsto no art. 85, § 3º, I, e § 5º, do CPC).
+Ocorre que os embargantes, ora recorrentes, opuseram embargos de declaração buscando provocar manifestação da Corte estadual acerca da alegação de que a municipalidade exequente, mesmo após ter sido cientificada da alienação do imóvel em momento anterior à constrição, resistiu à pretensão dos terceiros, insistindo na manutenção da penhora. Confira-se:
+Com a devida venia, o v. Acórdão de Apelação merece ser aclarado.. A eminente Relatora equivocou-se, certamente sem intenção, quando corretamente entendeu que não houve resistência por parte do coembargado (FINAX) na desconstrição judicial, entretanto, DESCONSIDEROU A RESISTÊNCIA APRESENTADA NA CONTESTAÇÃO OFERTADA PELA OUTRA PARTE COEMBARGADA (MUNICÍPIO DE GUARAREMA - SP), por meio da qual INSISTIU NA INEXISTÊNCIA DE CONSTRIÇÃO JUDICIAL, OPONDO-SE AOS EMBARGOS DE TERCEIRO EM SUA CONTESTAÇÃO mesmo após a confirmação do coembargado (FINAX) acerca da venda e quitação do bem pelos embargantes, desprezando, ainda, toda a documentação acostada pelos embargantes.
+ ..
+O segundo ponto obscuro que se aponta, diz respeito ao entendimento equivocado da Relatora, ao entender inexistir qualquer resistência por parte do coembargado (FINAX) ao registro da transferência do domínio.
+Data maxima venia ao entendimento desta Relatora, ousamos discordar. Isto porque, de fato, a eminente Relatora agiu com acerto ao afastar o ônus da sucumbência do coembargado (FINAX) tendo em vista NÃO opor-se ao mérito dos embargos de terceiro. Porém, agiu com desacerto ao afastar o ônus da sucumbência do coembargado (MUNICÍPIO DE GUARAREMA-SP), tendo em vista ser evidente a insistência do coembargado (MUNICÍPIO DE GUARAREMA - SP) quando em sua petição manifestou-se contrária aos embargos de terceiro, insistindo na inexistência de constrição judicial sobre o imóvel dos embargantes, opondo-se de forma injustificada, e, assim, atraindo para si o ônus da sucumbência.
+Entretanto, no julgamento dos aclaratórios, nada foi acrescentado, limitando-se, o órgão julgador, a reiterar a fundamentação do acórdão então embargado.
+Pois bem.
+Constata-se que a omissão suscitada nos embargos de declaração enquadra-se nas hipóteses previstas nos incisos IV e VI do art. 489, § 1º, do CPC/2015, uma vez que a alegada resistência da municipalidade exequente à liberação da constrição impugnada pelos terceiros revela-se relevante para a integral solução da lide, impondo-se, portanto, o seu efetivo enfrentamento pelo Tribunal de origem.
+Para ilustrar a pertinência da questão, registro que a Primeira Seção desta Corte Superior, ao julgar o Tema 872 do STJ, firmou a seguinte tese: "Nos Embargos de Terceiro cujo pedido foi acolhido para desconstituir a constrição judicial, os honorários advocatícios serão arbitrados com base no princípio da causalidade, responsabilizando-se o atual proprietário (embargante), se este não atualizou os dados cadastrais. Os encargos de sucumbência serão suportados pela parte embargada, porém, na hipótese em que esta, depois de tomar ciência da transmissão do bem, apresentar ou insistir na impugnação ou recurso para manter a penhora sobre o bem cujo domínio foi transferido para terceiro." (grifo acrescido)
+Nesse mesmo sentido: AgInt no AREsp 553710/MG, relator Ministro Gurgel de Faria, Primeira Turma, julgado em 13/12/2018, DJe de 12/2/2019; REsp 1569 910/SE, relator Ministro Herman Benjamin, Segunda Turma, julgado em 4/2/2016, DJe de 18/5/2016.
+Logo, estando configurada a negativa de prestação jurisdicional, faz-se necessária a declaração de nulidade do acórdão que apreciou os embargos declaratórios, para que o vício seja sanado pelo TJSP, ficando prejudicadas as demais questões discutidas no apelo raro.
+Nesse sentido:
+PROCESSO CIVIL. TRIBUTÁRIO. AGRAVO REGIMENTAL NO RECURSO ESPECIAL.VIOLAÇÃO AO ART. 535, II, DO CPC. OMISSÃO CONFIGURADA. RETORNO DOS AUTOS À ORIGEM.
+1. Considerando que a Corte de origem deixou de se manifestar sobre ponto pertinente à lide, expressamente ventilado pela parte recorrente e indispensável à apreciação do apelo extremo, é inegável a violação do art. 535, II, do CPC, o que impõe o reconhecimento de nulidade do acórdão, bem como a determinação de novo julgamento dos embargos de declaração, para que seja sanada a omissão apontada.
+2. Tem-se que a interpretação sistemática do art. 530 do CPC leva à conclusão de que estão afastadas das hipóteses de cabimento de Embargos Infringentes contra acórdão que, por maioria, reforma sentença proferida com base no art. 267 do CPC, qual seja, a que leva à extinção do feito sem julgamento do mérito, como na hipótese dos autos.
+3. Agravo Regimental não provido. (AgRg no REsp 1.346.569/RJ, Rel. Ministro BENEDITO GONÇALVES, PRIMEIRA TURMA, DJe 25/11/2014).
+TRIBUTÁRIO. ISSQN. EXECUÇÃO FISCAL. VIOLAÇÃO DO ART. 535 DO CPC. OCORRÊNCIA. AUSÊNCIA DE MANIFESTAÇÃO DA CORTE A QUO, A DESPEITO DA OPOSIÇÃO DE EMBARGOS DE DECLARAÇÃO, SOBRE QUESTÃO RELEVANTE PARA O DESLINDE DA CONTROVÉRSIA. RETORNO DOS AUTOS À ORIGEM PARA NOVO JULGAMENTO DOS ACLARATÓRIOS.
+1. A análise das decisões proferidas pelo Tribunal de origem (e-STJ, fls. 355/365 e 417/424), em cotejo com os recursos da sociedade contribuinte (e-STJ, fls. 305/309 e 403/414), revela que houve omissão no acórdão recorrido sobre "(a) a argumentação quanto à falta de instauração de procedimento administrativo com a finalidade de apurar a responsabilidade tributária da Recorrente, circunstância que redundaria na nulidade do título executivo, nos moldes do que prescreve o inciso, I, do artigo 618 do Código de Processo Civil, e ainda, (b) a circunstância envolvendo o suposto desrespeito às regras previstas pelos artigos 106, 134, parágrafo único e 144 do Código Tributário Nacional" (e-STJ, fl. 459), matéria relevante ao deslinde da controvérsia.
+2. A jurisprudência deste Superior Tribunal de Justiça é firme no entendimento de que deve a parte vincular a interposição do recurso especial à violação do art. 535 do Código de Processo Civil, quando, mesmo após a oposição de embargos declaratórios, o tribunal a quo persiste em não decidir questões que lhe foram submetidas a julgamento, por força do princípio tantum devolutum quantum appellatum ou, ainda, quando persista desconhecendo obscuridade ou contradição arguidas como existentes no decisum.
+3. Por restar configurada a agressão ao disposto no art. 535 da legislação processual, impõe-se a declaração de nulidade do acórdão que julgou os embargos declaratórios, a fim de que o vício no decisum seja sanado.
+4. Recurso especial provido para anular o acórdão dos embargos de declaração, determinando o retorno dos autos à Corte de origem, a fim de que se manifeste, expressamente, a respeito do quanto alegado em sede declaratória.
+(REsp 1.313.492/SP, Rel. Ministra DIVA MALERBI (DESEMBARGADORA CONVOCADA TRF 3ª REGIÃO), SEGUNDA TURMA, DJe 31/03/2016).
+Ante o exposto, com fundamento no art. 34, XXV, e 253, parágrafo único, II, "c", do RISTJ, CONHEÇO do agravo para DAR PROVIMENTO ao recurso especial, a fim de anular o acórdão regional que julgou os embargos de declaração, por violação do art. 1.022, II, do CPC/2015, determinando o retorno dos autos ao Tribunal de origem para que reaprecie esses aclaratórios e sane o vício de integração ora identificado.
+Publique-se. Intimem-se.
+EMENTA
