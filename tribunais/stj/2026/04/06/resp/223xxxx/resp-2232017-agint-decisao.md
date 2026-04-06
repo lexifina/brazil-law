@@ -1,0 +1,14 @@
+DECISÃO
+Trata-se de agravo interno interposto pelo SINDICATO DOS TRAB. EM EDUCACAO DAS REDES PUBL. ESTADUAL E MUNICIPAIS DO ENSINO PRE-ESCOLAR, FUNDAMENTAL E MEDIO DO EST DA BAHIA/APLB SINDICATO contra decisão da minha lavra (e-STJ fls. 809/811) em que não conheci do recurso especial, cuja controvérsia aborda a legitimidade do sindicato para para ajuizar ação civil pública visando a reparação dos valores referentes ao FUNDEB repassados a menor ao Município quando este não busca tais reparações.
+Passo a decidir.
+A Primeira Seção, na sessão virtual de 4 a 10 de fevereiro de 2026, afetou os Recursos Especiais 2.228.331/DF e 2.228.559 /DF, de relatoria da eminente Ministra Maria Thereza de Assis Moura, à sistemática dos recursos repetitivos para definir a seguinte tese controvertida (Tema n. 1.408):
+Definir se sindicato tem interesse e legitimidade para propor ação civil pública buscando a condenação ao pagamento de diferenças de complementação do FUNDEF ou do FUNDEB.
+Dessa forma, encontrando-se o tema afetado à sistemática dos recursos repetitivos, esta Corte Superior orienta que os recursos que tratam da mesma controvérsia devem aguardar, no Tribunal de origem, o julgamento do paradigma representativo, viabilizando, assim, o juízo de conformação, hoje disciplinado pelo art.1.040 do CPC/2015.
+A esse respeito, confiram-se os seguintes precedentes: AgInt nos EDcl no AREsp 2.079.384/PR, Relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 12/12/2022, DJe de 14/12/2022; EDcl no AgInt no REsp 2.000.033/DF, Relator Ministro Mauro Campbell Marques, Segunda Turma, julgado em 7/12/2022, DJe de 12/12/2022; e EDcl no AgInt no REsp 2.003.948/SP, Relatora Ministra Regina Helena Costa, Primeira Turma, julgado em 5/12/2022, DJe de 7/12/2022.
+Somente depois de realizada essa providência, que representa o exaurimento da instância ordinária, é que o recurso especial deverá ser encaminhado para esta Corte Superior, para que aqui possam ser analisadas as questões jurídicas nele suscitadas e que não ficaram prejudicadas pelo novo pronunciamento do Tribunal a quo.
+Registre-se que essa medida visa evitar, também, o desmembramento do apelo especial e, em consequência, eventual ofensa ao princípio da unirrecorribilidade ou da unicidade recursal.
+Ante o exposto:
+a) RECONSIDERO a decisão às e-STJ fls. 809/811, tornando-a sem efeito; e
+b) DETERMINO a devolução dos autos ao Tribunal de origem, com a respectiva baixa, para que, após a publicação do acórdão a ser proferido no recurso representativo da controvérsia e em observância ao art. 1.040 do CPC/2015: a) negue seguimento ao recurso se a decisão recorrida coincidir com a orientação emanada pelo Tribunal Superior; ou b) proceda ao juízo de retratação na hipótese de o acórdão vergastado divergir da decisão sobre o tema repetitivo.
+Publique-se. Intimem-se.
+EMENTA
