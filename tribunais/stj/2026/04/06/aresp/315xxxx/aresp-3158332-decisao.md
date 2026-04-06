@@ -1,0 +1,40 @@
+DECISÃO
+Trata-se de agravo interposto pelos LATICÍNIOS BELA VISTA S.A. em que defende a admissibilidade de recurso especial manejado com base no art. 105, III, "a" e "c", da Constituição Federal, contra acórdão assim ementado (e-STJ fl. 221):
+MANDADO DE SEGURANÇA - CRÉDITOS DE ICMS NA AQUISIÇÃO DE MATERIAIS INTERMEDIÁRIOS - Necessidade de produção de prova pericial para verificação da natureza do insumo cujo aproveitamento de crédito de ICMS se requer - Dilação probatória incabível em sede de mandado de segurança - Ausência de demonstração documental da certeza e liquidez do direito em análise - Extinção do processo, sem resolução do mérito, nos termos do art. 485, VI, do Código de Processo Civil - Falta de interesse (inadequação) Precedentes - Sentença mantida.
+Apelo não provido.
+Os embargos de declaração foram rejeitados (e-STJ fls. 239/244).
+No recurso especial (e-STJ fls. 249/268), a parte recorrente aponta divergência jurisprudencial e violação do art. 1º da Lei n. 12.016/2009. Alega que "é possível declarar o direito aos créditos do ICMS na aquisição de materiais intermediários independentemente de prova pericial, pois a necessidade dos materiais para a atividade-fim da Recorrente restou devidamente demonstrada" (e-STJ fl. 256).
+Sustenta dissídio jurisprudencial e ofensa aos arts. 19, 20, § 1º, e 33, I, da Lei Complementar n. 87/1996. Aduz que "basta que os materiais intermediários sejam necessários consecução da atividade-fim do estabelecimento, elemento que restou demonstrado no mandamus e que não depende da prova pericial para ser atestado" (e-STJ fl. 257).
+Contrarrazões apresentadas.
+O Tribunal de origem não admitiu o recurso especial por entender incidente a Súmula 7 do STJ e inadequada a demonstração da divergência jurisprudencial (e-STJ fls. 325/326), o que ensejou a interposição deste agravo em recurso especial (e-STJ fls. 329/337).
+Oferecida contraminuta.
+O Ministério Público Federal opinou pela desnecessidade de sua intervenção (e-STJ fls. 368/372).
+Passo a decidir.
+Na origem, cuida-se de mandado de segurança visando ao reconhecimento do direito ao creditamento de ICMS pela aquisição de materiais que, alegadamente, integram o processo produtivo de laticínios e outros produtos alimentícios.
+Em primeiro grau (e-STJ fls. 94/98), o feito foi extinto sem resolução de mérito.
+O Tribunal de origem manteve a sentença nos seguintes termos (e-STJ fls. 222/227):
+Prosseguindo, trata-se de mandado de segurança impetrado por Lacticínios Bela Vista Ltda. contra ato do Delegado da Delegacia Regional Tributária em Araraquara DRT-15, com o objetivo de se "reconhecer o direito de a Impetrante usufruir dos créditos do ICMS na aquisição de (i) produtos químicos que são utilizados no envase dos laticínios; (ii) produtos químicos utilizados na realização de testes de qualidade dos produtos e insumos; e (iii) produtos químicos utilizados nas etapas de limpeza presentes no processo produtivo, produzindo os seus efeitos para os períodos futuros e para os cinco anos que antecedem o ajuizamento da presente ação, mediante o lançamento extemporâneo do crédito; ou a compensação tributária; ou a repetição do indébito pela via judicial cabível (efeitos retroativos), a critério da Impetrante." (fl.19)
+Alega que tem como atividade principal a fabricação de laticínios e como atividade secundária a fabricação de outros produtos alimentícios. Assevera que adquire diversos materiais que integram o processo produtivo, sem os quais não é possível desempenhar a fabricação de laticínios e outros alimentos produzidos pela impetrante, com destaque para produtos químicos utilizados no envase, testes de qualidade, protocolos de limpeza durante o processo industrial. Entende que a aquisição de tais produtos intermediários, por se enquadrarem no conceito de insumos, gera direito ao aproveitamento de créditos do ICMS, o que não é reconhecido pela autoridade impetrada.
+A r. sentença de fls. 94/98, cujo relatório se adota, julgou extinto o feito sem resolução do mérito, nos termos do art. 485, inciso VI, do Código de Processo Civil.
+Com razão.
+Isso porque, o mandado de segurança constitui ação civil, com assento constitucional, dirigida contra atos ilegais e abusivos do Poder Público (Autoridade Pública ou agente de pessoa jurídica no exercício de atribuições do Poder Público - art. 1º, § 1, da Lei 12.016/09), demandando prova pré-constituída, não admitindo, pois, dilação probatória.
+E, no caso, de fato, como apontado na r. sentença, a questão relativa ao pretendido aproveitamento de créditos de ICMS demanda a produção da prova pericial, para a verificação da natureza do insumo cujo aproveitamento de crédito de ICMS se postula.
+Constata-se, no ponto, que a impetrante, de fato, não demonstrou a liquidez e a certeza do seu direito, porquanto os documentos trazidos aos autos não comprovam, por si, o alegado direito ao aproveitamento de créditos de ICMS.
+Destarte, não sendo esta via pertinente para dilação probatória, realmente, a via escolhida para acolhimento da pretensão é inadequada.
+Daí, como bem decidido:
+"Cinge-se o pedido da parte autora ao reconhecimento do direito ao recebimento de créditos de ICMS oriundos da aquisição de insumos essenciais ao desenvolvimento de sua atividade-fim. Existe a alegação de que seu direito encontra guarida na Lei Kandir, sugerindo que o creditamento do ICMS deve ser verificado com base na aferição da indispensabilidade do bem na atividade-fim, já que os insumos integram o processo produtivo. Alicerça seu pedido com base no art. 155, §2º, I e II da Constituição Federal, artigos 19 e 20 da Lei Complementar nº 87/1996, e 36, 38/40 da Lei Estadual nº 6374/89, que englobam o primado da não cumulatividade que permeia a cobrança do ICMS.
+Todavia, ao contrário do que defende a impetrante, os documentos indexados aos autos não traduzem direito líquido e certo, porquanto há controvérsia sobre os creditamentos postulados, por conta dos produtos e insumos que são utilizados em sua atividade.
+(..) No caso vertente, pela narrativa dos fatos e considerando-se os limites probatórios desta ação, não se demonstrou, de plano, a existência de direito líquido e certo, tampouco de ato ilegal e ofensivo praticado por autoridade coatora, já que a questão relativa ao pretendido aproveitamento de créditos de ICMS demanda a produção da prova pericial inadmissível em mandado de segurança -, visando a verificação da natureza do insumo cujo aproveitamento de crédito de ICMS se requer.
+(..) Conquanto tenha a impetrante informado alguns produtos intermediários para fins de creditamento, a verificação sobre a integração desses produtos à cadeia de produção não deve ser atribuída exclusivamente à atividade fiscalizatória do impetrado.
+Note-se que há realmente controvérsia fática que não pode ser dirimida nesta via." (fls.95/96)
+Nesse sentido, já decidiu esta C. Câmara, em julgamento de processos de minha relatoria:
+ ..
+Destarte, de rigor a manutenção da r. sentença.
+Pois bem.
+Na hipótese, a Corte bandeirante consignou tratar-se de questão em que o direito pretendido exigiria produção de prova específica (perícia) à demonstração do que pretende o impetrante, circunstância incompatível com o rito do mandado de segurança.
+Afirmou-se, ademais, que as provas documentais que acompanham a inicial da impetração seriam insuficientes à comprovação que se propõe.
+A revisão do entendimento assentado no acórdão recorrido exige reexame de fatos e provas, o q ue é inviável no âmbito do recurso especial, nos termos da Súmula 7 do STJ.
+Ademais, os dispositivos de lei federal relacionados com a tese de creditamento do ICMS (arts. 19, 20 e 33 da LC n. 87/1996), a despeito da oposição de embargos de declaração, não foram efetivamente examinados pelo Tribunal de origem, carecendo o recurso especial, portanto, do requisito do prequestionamento, nos termos da Súmula 211 do STJ.
+Ante o exposto, com base no art. 253, parágrafo único, II, "a", do RISTJ, CONHEÇO do agravo para NÃO CONHECER do recurso especial.
+Publique-se. Intimem-se.
+EMENTA
