@@ -1,0 +1,27 @@
+DECISÃO
+Trata-se agravo manejado por Marina Bento contra decisão que não admitiu recurso especial, este interposto com fundamento no art. 105, III, a, da CF, desafiando acórdão proferido pelo Tribunal Regional Federal da 4ª Região, assim ementado (fl. 560):
+PREVIDENCIÁRIO. APELAÇÃO CÍVEL. REVISIONAL. APOSENTADORIA POR IDADE HÍBRIDA. ART. 48, § 3º, DA LEI 8213/91. ATIVIDADE URBANA E ATIVIDADE RURAL. IDADE MÍNIMA PARA RECONHECIMENTO DO TRABALHO RURAL. ANTES DE COMPLETADOS 12 ANOS. NÃO COMPROVADA INDISPENSABILIDADE. COEFICIENTE DO BENEFÍCIO. PERÍODOS CONTRIBUTIVOS. IMPOSSIBILIDADE DE MAJORAÇÃO.
+1. É devida aposentadoria por idade mediante conjugação de tempo rural e urbano durante o período aquisitivo do direito, a teor do disposto na Lei nº 11.718, de 2008, que acrescentou o § 3º ao art. 48 da Lei nº 8.213, de 1991, desde que cumprido o requisito etário de 60 anos para mulher e 65 anos para homem. A partir de 01/01/2020, a idade das mulheres recebe o acréscimo de seis meses a cada ano até atingir 62 anos (artigo 18, § 1º, da EC 103/2019).
+2. O tempo de serviço rural, ainda que remoto e descontínuo, anterior ao advento da Lei 8213/1991, pode ser computado para fins da carência necessária à obtenção da aposentadoria híbrida por idade, ainda que não tenha sido efetivado o recolhimento das contribuições, nos termos do art. 48, §3º, da Lei 8213/1991, seja qual for a predominância do labor misto exercido no período de carência ou o tipo de trabalho exercido no momento do implemento do requisito etário ou do requerimento administrativo (Tema 1007 do STJ).
+3. Relativamente à idade mínima, a limitação constitucional ao labor do menor de dezesseis anos de idade deve ser interpretada em favor do protegido, não lhe impedindo o reconhecimento de direitos trabalhistas/previdenciários quando tenha prova de que efetivamente desenvolveu tal atividade.
+4. A possibilidade da contagem do intervalo de trabalho realizado antes dos 12 (doze) anos de idade, para fins de previdência, não desonera a parte de efetivamente comprovar o efetivo labor, que não pode ser mero auxílio eventual e sem significado em relação à produtividade do grupo familiar.
+5. Nos termos do artigo 50 da Lei nº 8.213/1991, apenas os períodos contributivos devem ser utilizados para o incremento do coeficiente da aposentadoria por idade.
+6. Diante da inexistência de recolhimentos relativos ao período de trabalho rural, a averbação desse tempo de serviço não traz reflexo financeiro capaz de gerar a revisão da RMI da aposentadoria por idade recebida pela parte autora.
+Não foram opostos embargos declaratórios.
+Nas razões do recurso especial, a parte recorrente aponta violação aos arts. 50 da Lei n. 8.213/1991 e 25 da Lei n. 8.212/1991 sustentando que "o trabalho rural do segurado especial deve ser reconhecido como "ano de contribuição" no cálculo do benefício de aposentadoria por idade" (fl. 568) e "utilizado para majoração do coeficiente de cálculo do benefício de aposentadoria por idade híbrida"(fl. 569). como razões para a interposição do apelo nobre.
+Todavia, em juízo negativo de admissibilidade, decidiu a Vice-presidente do TRF-4 inadmitir o apelo nobre da parte ora agravante porque "A questão suscitada pelo(a)(s) recorrente(s) envolve análise do conjunto fático-probatório, a qual é inviável em recurso especial, nos termos da súmula n.º 07 do Superior Tribunal de Justiça" (fl. 580).
+Irresignada com a decisão da Corte Federal, a segurada ofereceu agravo às fls. 592/596, onde impugnou de forma devida e apropriada os fundamentos da inadmissibilidade.
+Regularmente intimada, a Autarquia agravada não apresentou suas contrarrazões.
+Recurso tempestivo.
+Representação regular (fl. 21).
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+O Tribunal de origem, soberano na delimitação dos fatos e das provas, e após rigoroso escrutínio do cômputo de tempo de serviço, reformou a sentença de parcial procedência em favor da Autora para "reconhecer a impossibilidade de reconhecimento de tempo de serviço prestado na condição de segurado especial para fins de majoração do coeficiente de cálculo do benefício de aposentadoria por idade híbrida" e para não " reconher  o  período rural anterior aos 12 anos de idade" (fl. 558). Enfim, registra o acórdão recorrido (fl. 556):
+No caso em julgamento, é preciso destacar que não há nos autos nenhuma prova a qual revele que a parte autora, antes dos 12 anos, contribuía de forma efetiva para a produção rural da família.
+Aliás, na hipótese, a autora frequentava a escola no ano de 1967 e seguintes (evento 1 - PROCADM9 - páginas 69, 72/73 e 81/82), e pôde continuar frequentando a escola, pois seu cadastro no CNIS indica o ensino médio incompleto como grau de instrução.
+Nesse aspecto, o fato de ter estudado quando era criança torna ainda mais improvável que tenha estudado e laborado a ponto de se considerar o período anterior aos 12 anos para fins previdenciários.
+Assim, o trabalho indispensável e de dependência do menor não restou devidamente comprovado, devendo ser mantida a sentença, que assim apreciou a questão:
+Não é possível rever essa compreensão sem o revolvimento de fatos e provas.
+Assim, a controvérsia não se limita a uma questão puramente de direito, apta a ser examinada em sede de recurso especial e, por isso, inafastável o óbice disciplinado pela Súmula 7/STJ, como bem concluiu a decisão combatida.
+ANTE O EXPOSTO, conheço do agravo para não conhecer do recurso especial.
+Publique-se.
+EMENTA
