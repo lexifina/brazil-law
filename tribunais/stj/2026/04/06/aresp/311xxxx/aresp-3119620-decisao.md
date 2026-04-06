@@ -1,0 +1,26 @@
+DECISÃO
+Examina-se agravo em recurso especial interposto por RAFAEL DO AMARAL SANTOS contra decisão que inadmitiu recurso especial fundamentado nas alíneas "a" e "c" do permissivo constitucional.
+Agravo em recurso especial interposto em: 28/10/2025.
+Concluso ao gabinete em: 3/3/2026.
+Ação: de compensação por danos morais, em fase de cumprimento de sentença, movida por POLIANA CARVALHO MODA contra o agravante e Farmácia São Benedito LTDA.
+Decisão interlocutória: rejeitou liminarmente a impugnação ao cumprimento de sentenç a, sob o fundamento da necessidade de garantia do juízo para discutir nulidade de citação e da inadequação do agravo de instrumento, por ser cabível recurso inominado.
+Acórdão: não conheceu do recurso de agravo de instrumento interposto por RAFAEL DO AMARAL SANTOS, nos termos da seguinte ementa:
+AGRAVO DE INSTRUMENTO. IMPUGNAÇÃO AO CUMPRIMENTO DE SENTENÇA. FALTA DE GARANTIA. INSURGÊNCIA CONTRA REJEIÇÃO. INADMISSIBILIDADE. DECISÃO QUE DESAFIA RECURSO INOMINADO. INTELIGÊNCIA DOS ENUNCIADOS 15 DO FOJESP, 143 DO FONAJE E PUIL Nº 0000039-35.2017.8.26.9044. ILEGITIMIDADE ATIVA RECURSAL. DEFESA DE DIREITO ALHEIO. RECURSO NÃO CONHECIDO. |. CASO EM EXAME Agravo de instrumento interposto contra decisão que rejeitou liminarmente a impugnação ao cumprimento de sentença, alegando nulidade da execução por ausência de citação da corré Farmácia São Benedito LTDA. Il. QUESTÃO EM DISCUSSÃO Consiste em averiguar a adequação do recurso interposto e a legitimidade do agravante para pleitear nulidade de citação de outra parte. HI. RAZÕES DE DECIDIR A decisão que julga a impugnação ao cumprimento de sentença possui natureza de sentença, cabendo recurso inominado, conforme entendimento da Turma de Uniformização do Sistema dos Juizados Especiais. O agravante carece de legitimidade para pleitear nulidade de citação de outra parte, conforme art. 18 do CPC e não há condenação solidária que justifique sua insurgência. IV. DISPOSITIVO E TESES Recurso não conhecido. Teses de julgamento: 1. As decisões que julgam impugnação ao cumprimento de sentença são passíveis de recurso inominado. 2. Configurada a ilegitimidade do agravante para pleitear nulidade de citação de outra parte. (e-STJ fls. 104-107)
+Embargos de Declaração: opostos por RAFAEL DO AMARAL SANTOS, não conhecidos.
+Recurso especial: alega violação dos arts. 239, 485, IV, e 1.039 do CPC, bem como dissídio jurisprudencial. Afirma que a nulidade de citação pode ser alegada a qualquer tempo e grau de jurisdição, inclusive reconhecida de ofício pelo juízo. Aduz que a ausência de citação de litisconsorte passivo necessário impõe a extinção da execução até a regular citação.
+RELATADO O PROCESSO, DECIDE-SE.
+- Da Súmula 203/STJ
+A jurisprudência do STJ é no sentido de que não cabe recurso especial contra decisão proferida por órgão de segundo grau dos Juizados Especiais, como é a hipótese dos autos. Nesse sentido é o enunciado de súmula n. 203 do STJ
+O sistema recursal pátrio é regido pelo princípio da taxatividade, de forma que, para cada provimento jurisdicional, há um meio próprio de impugnação ditado pela lei. O recurso deve estar, portanto, em perfeito vínculo de adequação com a decisão confrontada, sob pena de não se atenderem os seus requisitos extrínsecos de admissibilidade.
+O art. 41 e seus parágrafos, da Lei nº 9.099/95, prevê inequivocamente o recurso a ser manejado em face da sentença proferida em sede de juizado especial, o qual não é apreciado por órgão judiciário diverso, mas por um colegiado composto por três juízes no exercício do primeiro grau de jurisdição; logo, a turma recursal não pode ser considerada como tribunal, haja vista a expressa determinação da lei.
+Ademais, não é possível ao intérprete simplesmente ignorar a redação expressa do texto constitucional no que tange ao cabimento do apelo nobre, cujo texto do art. 105, inciso III, define que ao Superior Tribunal de Justiça compete o julgamento das causas decididas, em única ou última instância, pelos Tribunais Regionais Federais ou pelos tribunais dos Estados ou do Distrito Federal nas hipóteses que arrola.
+Destarte, não há como afastar o teor da Súmula 203 do STJ, a qual consolidou o entendimento jurisprudencial desta Corte no sentido de que não cabe recurso especial contra decisão proferida por órgão de segundo grau dos Juizados Especiais.
+Forte nessas razões, CONHEÇO do agravo e, com fundamento no art. 932, III, do CPC, NÃO CONHEÇO do recurso especial.
+Deixo de majorar os honorários de sucumbência recursal, visto que não foram arbitrados na instância de origem.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar na condenação às penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO DE COMPENSAÇÃO POR DANOS MORAIS. CUMPRIMENTO DE SENTENÇA. RECURSO ESPECIAL CONTRA DECISÃO PROFERIDA POR TURMA RECURSAL DOS JUIZADOS ESPECIAIS. INADMISSIBILIDADE. SÚMULA 203/STJ
+1. Ação de compensação por danos morais, em fase de cumprimento de sentença
+2. A jurisprudência do STJ é no sentido de que não cabe recurso especial contra decisão proferida por órgão de segundo grau dos Juizados Especiais. Súmula 203/STJ.
+3. Agravo conhecido. Recurso especial não conhecido.
