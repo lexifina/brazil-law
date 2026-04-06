@@ -1,0 +1,16 @@
+DECISÃO
+Trata-se de conflito negativo de competência instaurado entre o JUÍZO DE DIREITO DO JUIZADO ESPECIAL REGIONAL DA FAZENDA PÚBLICA DE ARARANGUÁ - SC, o suscitante, e o JUÍZO FEDERAL DA 1ª VARA DE TUBARÃO - SJ/SC, o suscitado, nos autos de ação ajuizada por DANIEL NAZARIO MARTINS contra CERGAL - Cooperativa de Eletrificação Anita Garibaldi e Águas de Jaguaruna, na qual pretende o fornecimento de água e de energia elétrica, em razão de a propriedade se achar inserida em área urbana consolidada (Balneário Paraíso).
+Extrai-se dos autos que o Juízo Estadual declinou da competência para processar e julgar o feito e determinou o envio dos autos para o Juízo da 1ª Vara Federal de Tubarão - SJ/C, pela constatação de que o imóvel da parte autora encontra-se localizado na Área de Proteção Ambiental da Baleia Franca, criada pelo Decreto Federal de 14 de setembro de 2000, e gerida pelo Instituto Chico Mendes de Conservação da Biodiversidade - ICMBio.
+O Juízo Federal determinou a devolução dos autos, "considerando que não há ente federal integrando a relação processual e que a sistemática do art. 45 do CPC pressupõe intervenção prévia para justificar a remessa" (e-STJ fl. 47).
+Por seu turno, o Juízo Estadual suscitou o presente conflito, na compreensão de que há interesse jurídico da autarquia federal na lide (e-STJ fls. 50/52).
+Manifestação do Ministério Público Federal pela competência do Juízo Federal da 1ª Vara de Tubarão - SJ/SC, o suscitado (e-STJ fls. 57/60).
+Passo a decidir.
+Nos termos do art. 955, parágrafo único, incisos I e II, do novo Código de Processo Civil, o relator poderá julgar, de plano, o conflito de competência quando sua decisão se fundar em súmula do Supremo Tribunal Federal, do Superior Tribunal de Justiça ou em tese firmada em julgamento de casos repetitivos ou em incidente de assunção de competência.
+Por sua vez, o art. 34, XXII, do RISTJ dispõe que "são atribuições do relator: decidir o conflito de competência quando for inadmissível, prejudicado ou quando se conformar com tese fixada em julgamento de recurso repetitivo ou de repercussão geral, a entendimento firmado em incidente de assunção de competência, a súmula do Superior Tribunal de Justiça ou do Supremo Tribunal Federal, a jurisprudência dominante acerca do tema ou as confrontar".
+No caso, assiste razão ao Juízo suscitante.
+Como sinalizado pelo Ministério Público Federal, a Primeira Seção desta Corte Superior tem reconhecido a competência da Justiça Federal para processar e julgar demandas envolvendo imóveis localizados na Área de Proteção Ambiental da Baleia Franca, criada pelo Decreto Federal de 14 de setembro de 2000 e gerida pelo Instituto Chico Mendes de Conservação da Biodiversidade - ICMBio, haja vista o interesse da autarquia federal na causa.
+A propósito: CC 218217/SC, Rel. Min. Benedito Gonçalves, DJEN 25/2/2026; CC 218084/SC, Rel. Min. Teodoro Silva Santos, DJEN 19/2/2026; CC 218664/SC, Rel. Min. Francisco Falcão, DJEN 4/2/2026; CC 211948/SC, Rel. Min. Maria Thereza de Assis Moura, DJEN 3/10/2025, e CC 211801/SC, Rel. Min. Afrânio Vilela, DJEN 12/6/2025.
+Ante o exposto, com base no art. 34,/XXII, do RISTJ, CONHEÇO do conflito para DECLARAR a competência do JUÍZO FEDERAL DA 1ª VARA DE TUBARÃO - SJ/SC, o Suscitado.
+Comunique-se a decisão aos juízos em conflito.
+Publique-se. Intimem-se.
+EMENTA
