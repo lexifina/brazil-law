@@ -1,0 +1,36 @@
+DECISÃO
+Trata-se de reclamação, com pedido de liminar, ajuizada por FERNANDO FRANK, na qual se aponta, como ato reclamado, acórdão proferido pela 8ª Câmara Criminal do Tribunal de Justiça do Estado do Rio Grande do Sul, em sede de juízo de retratação, nos autos da apelação criminal n. 5201169-51.2024.8.21.0001/RS.
+Em suas razões, sustenta, em síntese, que o acórdão impugnado teria desrespeitado a autoridade de precedente vinculante desta Corte Superior, consubstanciado no Tema n. 1.194/STJ (REsp 2.001.973/RS), ao deixar de reconhecer, na dosimetria da pena, a incidência da atenuante da confissão espontânea, mesmo diante da admissão fática do reclamante.
+Narra que a própria Vice-Presidência do Tribunal de origem, ao proceder ao juízo de admissibilidade do recurso especial, reconheceu a desconformidade do acórdão recorrido com o entendimento firmado por esta Corte, determinando o retorno dos autos ao órgão julgador para fins de retratação, nos termos do art. 1.030, inciso II, do Código de Processo Civil.
+Alega que, não obstante tal determinação, o órgão fracionário limitou-se a reiterar a fundamentação anteriormente adotada, mantendo de modo integral o resultado condenatório e a pena fixada, sem promover readequação da dosimetria, o que configuraria esvaziamento material da tese firmada no referido tema repetitivo.
+Argumenta que o acórdão do Tribunal de origem reconheceu a admissão da criação de duas chaves PIX, o que evidenciaria a confissão do núcleo material da conduta e ensejaria, à luz do precedente invocado, a incidência da atenuante da confissão espontânea, ainda que em sua forma parcial ou qualificada. Aduz que a decisão reclamada não se limita a revelar divergência interpretativa, configurando descumprimento material de precedente vinculante desta Corte.
+Requer, liminarmente, a suspensão dos efeitos do acórdão reclamado. No mérito, postula que seja reconhecida a violação à autoridade desta Corte Superior, determinando-se ao Tribunal de origem a realização de novo julgamento, com observância do Tema n. 1.194/STJ. Subsidiariamente, pugna pela adequação direta da dosimetria.
+É o relatório.
+Decido.
+A reclamação constitucional, nos termos do art. 105, inciso I, alínea f, da Constituição da República e do art. 988 do Código de Processo Civil, destina-se a preservar a competência do Superior Tribunal de Justiça ou a garantir a autoridade de suas decisões.
+Segundo consta da inicial, a parte reclamante objetiva garantir o respeito a precedente vinculante do Superior Tribunal de Justiça, firmado em regime de recursos especiais repetitivos, materializado no Tema n. 1.194/STJ, sob o argumento de que o acórdão proferido pelo Tribunal de origem, em sede de juízo de retratação, esvaziou a eficácia prática da tese fixada por esta Corte quanto à incidência da atenuante da confissão espontânea.
+Todavia, a Corte Especial deste Superior Tribunal, ao julgar a Rcl n. 36.476/SP, firmou entendimento no sentido de que não cabe reclamação para o exame da correta aplicação de precedente obrigatório formado em julgamento de recurso especial repetitivo, em razão da alteração promovida pela Lei n. 13.256/2016 no art. 988, inciso IV, do Código de Processo Civil.
+Com efeito, a modificação legislativa suprimiu do referido dispositivo a possibilidade de utilização da reclamação para garantir a observância de acórdão proferido em julgamento de casos repetitivos, restringindo seu cabimento às hipóteses expressamente previstas em lei, não se incluindo, entre elas, o controle da adequação de decisão judicial ao entendimento firmado em recurso especial repetitivo.
+Na hipótese em exame, embora a parte reclamante sustente que o acórdão proferido em juízo de retratação teria esvaziado a autoridade do Tema n. 1.194/STJ, o que se busca, em essência, é o reexame da forma pela qual o Tribunal de origem aplicou, ou deixou de aplicar, a tese repetitiva relativa à atenuante da confissão espontânea. A controvérsia, portanto, insere-se exatamente no âmbito de incidência da orientação restritiva firmada pela Corte Especial, de modo que não se trata de preservação da competência deste Superior Tribunal, mas de inconformismo com a suposta inadequação do julgado reclamado ao precedente repetitivo invocado.
+A própria petição inicial deixa claro que o núcleo do inconformismo reside na manutenção, no juízo de retratação, do afastamento da atenuante e, por consequência, da pena anteriormente fixada. Trata-se, portanto, de insurgência dirigida contra a interpretação e aplicação do precedente repetitivo, e não de hipótese de descumprimento direto e frontal de decisão desta Corte passível de controle por meio de reclamação.
+Por oportuno, confiram-se os seguintes precedentes desta Corte, nos quais se reafirma que a reclamação ajuizada com o propósito de questionar a adequação do acórdão impugnado a julgamento de recurso especial repetitivo mostra-se incabível, por assumir feição de sucedâneo recursal:
+DIREITO PROCESSUAL CIVIL. AGRAVO INTERNO. RECLAMAÇÃO. ADEQUAÇÃO DO JULGADO IMPUGNADO À JURISPRUDÊNCIA DO STJ. PRECEDENTE EM REPETITIVO. CONTROLE DA APLICAÇÃO. SUPOSTO DESACERTO. INICIAL INDEFERIDA.
+EXTINÇÃO DO PROCESSO SEM RESOLUÇÃO DO MÉRITO.
+1. A reclamação prevista no artigo 105, I, "f", da Constituição Federal destina-se exclusivamente a assegurar a autoridade das decisões do STJ em casos concretos ou a proteger sua competência contra usurpações, não sendo instrumento apto para dirimir divergências jurisprudenciais entre decisões das instâncias ordinárias e precedentes do STJ, ainda que vinculantes. Precedente.
+2. Consoante definido pela Corte Especial na Rcl 36.476/SP, não é cabível o ajuizamento de reclamação com vistas ao controle da aplicação, na hipótese concreta, de tese firmada pelo STJ em recurso especial repetitivo. Precedentes.
+3. Agravo interno não provido.
+(AgInt nos EDcl na Rcl n. 50.234/SP, relatora Ministra Nancy Andrighi, Segunda Seção, julgado em 11/3/2026, DJEN de 16/3/2026.)
+DIREITO PROCESSUAL CIVIL. RECLAMAÇÃO. CABIMENTO DE RECLAMAÇÃO PARA GARANTIR OBSERVÂNCIA DE PRECEDENTE REPETITIVO. INDEFERIMENTO LIMINAR.
+I. Caso em exame
+1. Reclamação ajuizada contra ato do Juízo da 1ª Vara Cível de Itapira/SP, nos autos de cumprimento de sentença, para garantir a observância de precedente vinculante oriundo de julgamento de recurso especial repetitivo - Tema n. 410 do STJ -, com fundamento no art. 988, II, do CPC e no art. 187 do RISTJ.
+II. Razões de decidir
+2. A Corte Especial do STJ, no julgamento da Rcl 36.476/SP, firmou entendimento de que não cabe reclamação para o exame da correta aplicação de precedente obrigatório formado em julgamento de recurso especial repetitivo, em razão da alteração promovida pela Lei n. 13.256/2016 no art. 988, IV, do CPC/2015.
+III. Dispositivo
+3. Resultado do Julgamento: processo extinto sem julgamento do mérito.
+(Rcl n. 49.718/SP, relator Ministro João Otávio de Noronha, Segunda Seção, julgado em 11/2/2026, DJEN de 19/2/2026.)
+Nessa medida, verifico, de plano, a manifesta inadmissibilidade da presente reclamação.
+Ante o exposto, com fundamento no art. 34, inciso XVIII, alínea a, do RISTJ, indefiro liminarmente a reclamação.
+Publique-se. Intime-se.
+Cientifiquem-se o Ministério Público Federal e o interessado.
+Sem recurso, arquivem-se os autos .
+EMENTA
