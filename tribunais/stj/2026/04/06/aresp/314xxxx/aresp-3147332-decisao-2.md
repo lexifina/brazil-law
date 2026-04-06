@@ -1,0 +1,53 @@
+DECISÃO
+Trata-se de agravo interposto por THIAGO SILVA DOS SANTOS contra decisão que inadmitiu o seu recurso especial manejado contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO no julgamento da Apelação n. 1517668-17.2024.8.26.0050.
+Consta dos autos que o ora agravante foi condenado à pena total de 4 anos e 8 meses de reclusão, além de 15 dias-multa, pela prática dos delitos previstos nos arts. 180, caput, e 311, § 2º, III, ambos do Código Penal.
+Interposta apelação, o Tribunal de origem negou provimento ao recurso da defesa, conforme acordão assim ementado (e-STJ fl. 607):
+DIREITO PENAL. APELAÇÃO CRIMINAL. RECEPTAÇÃO E ADULTERAÇÃO DE SINAL IDENTIFICADOR DE VEÍCULO AUTOMOTOR. RECURSO DESPROVIDO.
+I. Caso em Exame
+1. Vito Ferreira Filho e Thiago Silva dos Santos foram condenados por receptação e adulteração de sinal identificador de veículo, com penas de 4 anos e 1 mês de reclusão em regime semiaberto e 12 dias- multa. A defesa apelou, alegando conexão com outro processo e buscando absolvição por insuficiência probatória, além de pleitear a redução da pena e o direito de recorrer em liberdade.
+II. Questão em Discussão
+2. A questão em discussão consiste em (i) a alegação de conexão entre os processos e (ii) a suficiência das provas para a condenação por receptação e adulteração de sinal identificador de veículo. III. Razões de Decidir
+3. A preliminar de conexão entre os processos não foi acolhida, pois os delitos apurados são autônomos e envolvem veículos e vítimas distintas.
+4. Nos termos do artigo 156 do Código de Processo Penal, sendo o caminhão apreendido em poder dos apelantes, com o carregamento de carga roubada, caberia à defesa comprovar eventual conduta culposa, o que não se evidenciou. Igualmente concorre em desfavor dos réus a apuração de que o veículo foi encontrado com emplacamento falso.
+5. Pena-base devidamente exasperada diante da acentuada reprovabilidade da conduta, pois o veículo objeto de receptação foi localizado com carga roubada de valor expressivo e as investigações revelaram que a conduta dos acusados envolveu organização prévia e coordenada por múltiplos agentes.
+6. Apesar de os delitos terem sido praticados no mesmo contexto fático, a conduta dos apelantes afetou dois bens jurídicos diversos, sendo o caso de se manter o reconhecimento do concurso formal.
+IV. Dispositivo e Tese
+7. Preliminar rejeitada e recurso desprovido.
+A defesa interpôs recurso especial, com fulcro no art. 105, III, a e c, da Constituição Federal, alegando negativa de vigência aos arts. 156 e 386, inciso VII, do CPP e aos arts. 180, § 3º, 311, § 2º, III, e 59 do Código Penal.
+Em suas razões, a parte recorrente sustenta, em síntese: a) a necessidade de absolvição por insuficiência de provas; b) a aplicação do princípio da consunção entre os delitos de receptação e adulteração de sinal; c) a redução da pena-base ao mínimo legal; d) a fixação de regime prisional mais brando e a substituição da pena privativa de liberdade por restritivas de direitos.
+Inadmitido o recurso especial, houve a interposição deste agravo.
+O Ministério Público Federal, em seu parecer, manifestou-se pelo conhecimento do agravo para não conhecer do recurso especial (e-STJ fls. 780/783).
+É o relatório.
+Decido.
+Ante a presença de impugnação dos fundamentos da decisão ora agravada, conheço do agravo e passo à análise do recurso especial.
+No caso em exame, verifica-se que o Tribunal de origem, a quem cabe o exame das questões fático-probatórias dos autos, reconheceu a existência de elementos de provas suficientes para embasar o decreto condenatório pela prática dos crimes de receptação e de adulteração de sinal, tipificados nos arts. 180, caput, e 311, § 2º, III, ambos do Código Penal.
+Assim, a alteração da conclusão das instâncias de origem, com o objetivo de absolver, desclassificar as condutas atribuídas ao agravante ou, ainda, reconhecer a hipótese de consunção, demandaria análise de matéria fático-probatória, o que se revela incompatível com o que dispõe a Súmula n. 7 desta Corte Superior.
+Nesse sentido:
+PENAL. PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. RECEPTAÇÃO. PLEITO ABSOLUTÓRIO. NECESSIDADE DE REEXAME DE PROVAS. INCIDÊNCIA DA SÚMULA N. 7 DA SÚMULA N. 7 DO SUPERIOR TRIBUNAL DE JUSTIÇA - STJ. DOSIMETRIA. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULAS NS. 282 E 356 DO SUPREMO TRIBUNAL FEDERAL - STF. VEDAÇÃO À SUBSTITUIÇÃO DA PENA PRIVATIVA DE LIBERDADE. PRESENÇA DE CIRCUNSTÂNCIA NEGATIVA. AGRAVO REGIMENTAL DESPROVIDO.
+1. Para rever o entendimento firmado pela Corte de origem, no sentido de absolver o agravante por insuficiência de provas do delito de receptação, seria necessário o revolvimento do suporte fático-probatório dos autos, providência vedada pela Súmula n. 7 do STJ.
+2. "A jurisprudência do Superior Tribunal de Justiça se firmou no sentido que, no crime de receptação, se o bem houver sido apreendido em poder do acusado, cabe à defesa apresentar prova acerca da origem lícita do bem ou de sua conduta culposa, nos termos do disposto no art. 156 do Código de Processo Penal, sem que se possa falar em inversão do ônus da prova" (AgRg no AREsp 979.486/MG, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, DJe 21/3/2018).
+3. No que tange ao pleito referente à inidoneidade da fundamentação empregada para valoração negativa da conduta social, a tese não foi objeto de debate e discussão na instância ordinária, carecendo do adequado e indispensável prequestionamento, motivo pelo qual incidentes, por analogia, as Súmulas ns. 282 e 356, ambas do STF.
+4. A jurisprudência desta Corte está firmada no sentido de que a presença da circunstância negativa veda a substituição da pena privativa de liberdade em restritiva de direitos, de acordo com o disposto no art. 44 do Código Penal (AgRg no AREsp 1925219/RJ, Rel. Ministro JOEL ILAN PACIORNIK, QUINTA TURMA, DJe 2/3/2022).
+5 . Agravo regimental desprovido.
+(AgRg no AREsp n. 1.919.030/TO, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 10/5/2022, DJe de 12/5/2022.)
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. RECEPTAÇÃO. OFENSA AO PRINCÍPIO DA COLEGIALIDADE. NÃO OCORRÊNCIA. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO CONFIGURADA. REVISÃO CRIMINAL. SEGUNDA APELAÇÃO. NÃO CABIMENTO. ABSOLVIÇÃO. IMPOSSIBILIDADE. SÚMULA N. 7/STJ.
+1. O julgamento monocrático encontra previsão no Regimento Interno do Superior Tribunal de Justiça e no Código de Processo Civil.
+Ademais, é firme a jurisprudência desta Corte no sentido de que, com a interposição de agravo regimental, torna-se superada eventual nulidade, tendo em vista que se devolve a matéria recursal ao órgão julgador competente.
+2. Não configura a negativa de prestação jurisdicional a adoção de solução jurídica contrária aos interesses da parte, tendo em vista que foram apreciados, de modo fundamentado, todos os pontos necessários ao deslinde da controvérsia.
+3. O acórdão recorrido está em consonância com o entendimento consolidado desta Corte de que não cabe revisão criminal quando utilizada como nova apelação, com vistas ao mero reexame de fatos e provas, quando não verificados os pressupostos previstos no art. 621 do CPP.
+4. Tendo a Corte de origem concluído pela existência de prova apta a amparar a condenação, a revisão do julgado, para acolher o inconformismo da parte recorrente, importaria revolvimento de matéria fático-probatória, inadmissível no âmbito do recurso especial, consoante a Súmula n. 7/STJ.
+5. Agravo regimental improvido.
+(AgRg no AREsp n. 2.140.882/SP, relator Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), Sexta Turma, julgado em 14/3/2023, DJe de 17/3/2023.)
+Quanto à dosimetria, o Tribunal de origem consignou (e-STJ fl. 619):
+Do mesmo modo, no tocante à fixação das penas, não há qualquer reparação a ser feita.
+As básicas foram exasperadas em 1/6 acima dos respectivos patamares mínimos, o que se mantém, haja vista que o veículo objeto de receptação foi localizado com carga roubada de valor expressivo e as investigações revelaram que a conduta dos acusados envolveu organização prévia e coordenada por múltiplos agentes, o que, a toda evidência, atesta maior reprovabilidade da conduta.
+Cumpre ressaltar que, na esteira da orientação jurisprudencial desta Corte, por se tratar de questão afeta a certa discricionariedade do magistrado, a dosimetria da pena é passí vel de revisão, nesta instância extraordinária, apenas em hipóteses excepcionais, quando ficar evidenciada flagrante ilegalidade, constatada de plano, sem a necessidade de reexame do acervo fático-probatório dos autos.
+De acordo com a orientação desta Corte Superior, as circunstâncias da infração podem ser compreendidas como os pormenores do fato delitivo, acessórios ou acidentais, não inerentes ao tipo penal. Sendo assim, na análise das circunstâncias do crime, é imperioso ao julgador apreciar, com base em fatos concretos, o lugar do crime, o tempo de sua duração, a atitude assumida pelo agente no decorrer da consumação da infração penal, a mecânica delitiva empregada, entre outros elementos indicativos de uma maior censurabilidade da conduta.
+Conforme se observa dos fundamentos utilizados pelas instâncias de origem, a pena-base foi exasperada levando-se em conta que "veículo objeto de receptação foi localizado com carga roubada de valor expressivo e as investigações revelaram que a conduta dos acusados envolveu organização prévia e coordenada por múltiplos agentes" (e-STJ fl. 619).
+Assim, não observo negativa de vigência ao art. 59 do CP, nesse ponto.
+No que tange à fixação do regime inicial de cumprimento da pena, a jurisprudência desta Corte firmou-se no sentido de que, atendidos os requisitos constantes do art. 33, § 2º, alínea c, e § 3º, c/c o art. 59, ambos do CP - ausência de reincidência, condenação por um período não superior a 4 anos e circunstâncias judiciais totalmente favoráveis com a fixação da pena-base no mínimo legal -, deve o réu cumprir a pena privativa de liberdade no regime prisional aberto.
+No caso dos autos, verifica-se que a pena total foi fixada acima de 4 anos. Além do mais a presença de circunstância judicial desfavorável impede a fixação do regime mais brando, como pretendido pela defesa.
+Por fim, quanto ao pedido de substituição da pena privativa de liberdade por restritiva de direitos, a Corte local afastou a possibilidade de substituição da pena privativa de liberdade em virtude dos mesmos fatores já avaliados na fixação do regime, quais sejam o quantum de pena aplicada e a presença de circunstância judicial negativa.
+Ante o exposto, conheço do agravo para conhecer em parte do recurso especial e, nessa extensão, negar-lhe provimento.
+Publique-se. Intimem-se.
+EMENTA
