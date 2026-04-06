@@ -1,0 +1,34 @@
+DECISÃO
+Trata-se de recurso especial manejado por Estado do Ceará com fundamento no art. 105, III, a, da CF, contra acórdão proferido pelo Tribunal de Justiça do Estado do Ceará, assim ementado (fl. 453):
+RECURSO DE APELAÇÃO CÍVEL. DIREITO PROCESSUAL CIVIL. EMBARGOS Á EXECUÇÃO. PROPOSITURA ANTERIOR DE AÇÃO ANULATÓRIA COM AS MESMAS PARTES, CAUSA DE PEDIR E PEDIDOS. LITISPENDÊNCIA RECONHECIDA. EXTINÇÃO DO FEITO SEM JULGAMENTO DO MÉRITO. PRECEDENTES. RECURSO CONHECIDO E DESPROVIDO. SENTENÇA MANTIDA.
+1. Cumpre analisar se acertada a decisão de primeiro grau que, constatando, de ofício, a ocorrência do fenômeno processual da litispendência entre o presente feito e a Ação Anulatória de nº 0195433-04.2017.8.06.0001, ajuizada pela empresa recorrente em face da mesma pessoa jurídica de direito público interno (aqui, o Estado do Ceará).
+2. Caracteriza-se a litispendência quando a parte interessada ingressa com ação judicial contendo as mesmas partes, causa de pedir e pedido de outra ação anteriormente ajuizada e ainda em curso. 3. In casu, dúvidas não pairam quanto ao fato de que houve a propositura pretérita de Ação Anulatória pela presente embargante/apelante à data de 19/12/2017, enquanto que os Embargos à Execução em liça vieram a ser propostos em data posterior, isto é, aos 04/07/2018, consoante se extrai da peça inaugural. Observe-se, ainda, que nos dois feitos apartados a apelante pleiteou exatamente os mesmos provimentos jurisdicionais.
+4. Caracterizada a litispendência, nenhum reproche merece a sentença apelada. Precedentes.
+5. Recurso de Apelação conhecido e desprovido. Sentença mantida.
+Opostos embargos declaratórios, foram conhecidos e improvidos (fls. 490/496).
+A parte recorrente aponta violação aos seguintes dispositivos: (I) arts. 489, § 1º, e 1.022, II e parágrafo único, II, do CPC, ao argumento de que o acórdão dos embargos de declaração deixou de enfrentar questão essencial suscitada pelo recorrente  a aplicação do art. 85, § 1º, do CPC para condenação em honorários na fase recursal, considerando que a recorrente somente passou a integrar a relação processual após a prolação da sentença; (II) art. 85, § 1º e § 11, do CPC, porque são devidos honorários advocatícios de forma cumulativa nos recursos interpostos, devendo haver condenação inicial na fase recursal quando a relação processual se angulariza apenas no segundo grau, não se tratando de mera majoração recursal prevista no § 11, já que inexistente condenação na origem.
+Não foram apresentadas contrarrazões (fl. 541).
+Decisão de admissibilidade às fls. 543/547.
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+O recurso comporta êxito.
+Com efeito, a alegação de ofensa ao art. 85, § 1º, do CPC encontra suporte na jurisprudência desta Corte Superior, firme no sentido de que deve haver condenação em honorários sucumbenciais mesmo quando a angularização da relação jurídico-processual somente ocorre na fase recursal. Confira-se:
+PROCESSUAL CIVIL. AGRAVO INTERNO. RECURSO ESPECIAL. JULGAMENTO LIMINAR DE MÉRITO. CITAÇÃO DO RÉU PARA APRESENTAÇÃO DE CONTRARRAZÕES DA APELAÇÃO. SUCUMBÊNCIA DO AUTOR. CONDENAÇÃO AO PAGAMENTO DE HONORÁRIOS ADVOCATÍCIOS. PRINCÍPIO DA CAUSALIDADE. PROVIMENTO NEGADO.
+1. Conforme jurisprudência consolidada desta Corte Superior, havendo a angularização da relação processual ainda que na instância revisora pela apresentação de contrarrazões ao recurso de apelação, interposto de sentença liminar de improcedência, impõe-se a condenação da parte vencida ao pagamento dos honorários advocatícios, em observância ao princípio da sucumbência.
+2. Agravo interno a que se nega provimento.
+(AgInt no AgInt no REsp n. 1.983.779/RJ, relator Ministro Paulo Sérgio Domingues, Primeira Turma, julgado em 27/10/2025, DJEN de 30/10/2025.)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. JULGAMENTO LIMINAR DE MÉRITO. APELAÇÃO. SUCUMBÊNCIA DO AUTOR. CONDENAÇÃO AO PAGAMENTO DE HONORÁRIOS ADVOCATÍCIOS. POSSIBILIDADE. PRECEDENTES. RECURSO PROVIDO.
+1. Tendo o recurso sido interposto contra decisão publicada na vigência do Código de Processo Civil de 2015, devem ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+2. Cinge-se a controvérsia dos autos em definir se é cabível a condenação da parte ora agravada ao pagamento de honorários sucumbenciais ao patrono da parte agravante, diante do não provimento do recurso de apelação da parte autora.
+3. O Tribunal estadual concluiu pelo não cabimento da condenação ao pagamento de honorários sucumbenciais, porquanto não angularizada a relação processual na lide principal, onde a agravante não foi citada. Ocorre que contra a sentença que julgou improcedente a ação, com fundamento no artigo 285-A do CPC/1973, a parte autora (agravado) interpôs recurso de apelação, vindo a agravante, após citação, apresentar contrarrazões ao referido recurso interposto.
+4. Na hipótese de interposição de apelação em face de sentença de improcedência do pedido, proferida com base no artigo 285-A do CPC/1973, vindo a agravante apresentar contrarrazões ao recurso, enseja a condenação em honorários de sucumbência, nos termos do artigo 20 do CPC/1973, porquanto angularizada a relação processual.
+Precedentes.
+5. Agravo interno da União provido para condenar a parte autora ao pagamento de honorários advocatícios, fixados em 10% (dez por cento) sobre o valor da causa, com base no art. 20, § 4º, do CPC.
+(AgInt no REsp n. 1.664.667/RS, relator Ministro Benedito Gonçalves, Primeira Turma, julgado em 26/9/2022, DJe de 28/9/2022.)
+PROCESSUAL CIVIL. RECURSO ESPECIAL. ART. 285-A DO CPC/1973. AUSÊNCIA DE PREQUESTIONAMENTO. JULGAMENTO LIMINAR DE MÉRITO. CITAÇÃO DO RÉU PARA APRESENTAÇÃO DE CONTRARRAZÕES. SUCUMBÊNCIA DO AUTOR. PRINCÍPIO DA CAUSALIDADE. CONDENAÇÃO AO PAGAMENTO DE HONORÁRIOS ADVOCATÍCIOS.
+1. No tocante à alegada violação do art. 285-A, § 2º, do CPC/1973, não se pode conhecer da irresignação, porque o referido dispositivo legal não foi analisado pela instância de origem. Ausente, portanto, o indispensável prequestionamento. 2. O princípio da causalidade impõe a condenação ao pagamento de honorários advocatícios quando há a improcedência da apelação interposta pelo autor, após o reconhecimento da improcedência do pedido, nos termos do art. 285-A do CPC/1973, nos casos em que foram ofertadas contrarrazões pelo réu.
+3. Recurso Especial parcialmente conhecido, nessa extensão, provido.
+(REsp n. 1.790.788/RJ, relator Ministro Herman Benjamin, Segunda Turma, julgado em 12/2/2019, DJe de 11/3/2019)
+Resta prejudicada a alegação de nulidade do acórdão recorrido, por violação ao art. 1.022 do CPC.
+ANTE O EXPOSTO, dou provimento ao recurso especial, para reconhecer o direito do recorrente à fixação de honorários sucumbenciais e determinar o retorno dos autos à origem para definição do seu montante, conforme os parâmetros estabelecidos pelo Código de Processo Civil.
+Publique-se.
+EMENTA
