@@ -1,0 +1,21 @@
+DECISÃO
+KASSYANO DOS SANTOS QUEIROZ agrava de decisão que não admitiu recurso especial interposto com fundamento no artigo 105, inciso III, alínea "a", da Constituição Federal, contra acórdão do Tribunal de Justiça do Estado de São Paulo que deu parcial provimento ao apelo defensivo para reduzir a pena do recorrente para 2 anos e 6 meses de reclusão, em regime aberto, substituída a reprimenda corporal por restritiva de direitos, pelo cometimento do crime do art. 33 da Lei n. 11.343/2006.
+A defesa aponta a violação do art. 33, § 4º da Lei de Drogas, alegando, em síntese, que estão preenchidos os requisitos para a adoção da fração máxima do redutor do tráfico privilegiado (e-STJ fl.1.515)
+Contrarrazões às e-STJ fls. 1553/1558.
+Manifestação do Ministério Público Federal pelo não provimento do recurso às e-STJ fls. 1604/1606.
+É o relatório. Decido.
+A irresignação não prospera.
+Os elementos existentes nos autos informam que o recorrente foi condenado à pena de 2 anos e 6 meses de reclusão, em regime aberto, substituída a reprimenda corporal por restritiva de direitos, pelo cometimento do crime do art. 33 da Lei n. 11.343/2006.
+Assinala-se que o § 4º do art. 33 da Lei n. 11.343/2006 dispõe que, para o crime de tráfico de entorpecentes e suas figuras equiparadas, as penas poderão ser reduzidas de 1/6 (um sexto) a 2/3 (dois terços), desde que o agente seja primário, possua bons antecedentes, não se dedique às atividades criminosas e não integre organização criminosa.
+Na falta de parâmetros legais para se fixar o quantum dessa redução, os Tribunais Superiores decidiram que a quantidade e a natureza da droga apreendida, além das demais circunstâncias do delito, podem servir para a modulação de tal índice ou até mesmo para impedir a sua aplicação, quando evidenciarem o envolvimento habitual do agente com o narcotráfico (HC 401.121/SP, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 27/6/2017, DJe 1/8/2017 e AgRg no REsp 1.390.118/PR, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 23/5/2017, DJe 30/5/2017).
+No caso concreto, foi reconhecido o privilégio e aplicada a fração de redução no patamar de 1/2 (e-STJ fl. 1492), considerando a quantidade da droga  249,2g de cocaína.
+É relevante anotar que não pode esta Corte Superior, que não constitui instância revisora, proceder à alteração da fração aplicada a título de causa de diminuição de pena, nos termos do artigo 33, § 4º, da Lei n. 11.343/2006, nem da causa de aumento prevista no artigo 40, inciso I, do mesmo diploma normativo, seja para majorá-las, seja para reduzí-las, sem revolver o acervo fático-probatório. Incidência da Súmula 7/STJ" (ut, AgRg no REsp n. 1.371.371/SP, Rel. Ministra Maria Thereza de Assis Moura, Sexta Turma, DJe 25/9/2013).
+Ainda nessa mesma linha:
+AGRAVO REGIMENTAL NO RECURSO ESPECIAL. TRÁFICO DE DROGAS. ART. 33, § 4º, DA LEI N. 11.343/2006. MODIFICAÇÃO DA FRAÇÃO REDUTORA. IMPOSSIBILIDADE. SÚMULA N. 7/STJ. FUNDAMENTAÇÃO IDÔNEA. ATENUANTE DA CONFISSÃO. SÚMULA 630/STJ. RECURSO DESPROVIDO.
+1. "Não pode esta Corte Superior, que não constitui instância revisora, proceder à alteração da fração aplicada a título de causa de diminuição de pena, nos termos do artigo 33, § 4º, da Lei nº 11.343/2006, nem da causa de aumento prevista no artigo 40, inciso I, do mesmo diploma normativo, seja para majorá-las, seja para reduzí-las, sem revolver o acervo fático-probatório. Incidência da Súmula 7/STJ" (ut, AgRg no REsp 1371371/SP, Rel. Ministra MARIA THEREZA DE ASSIS MOURA, Sexta Turma, DJe 25/9/2013).
+2. O legislador não delimitou parâmetros para a redução da pena pela causa de diminuição prevista na Lei de Drogas, de forma que o quantum de diminuição fica adstrito ao prudente arbítrio do julgador, que deve observar o princípio do livre convencimento motivado, como in casu.
+3. "A incidência da atenuante da confissão espontânea no crime de tráfico ilícito de entorpecentes exige o reconhecimento da traficância pelo acusado, não bastando a mera admissão da posse ou propriedade para uso próprio"(Súmula 630/STJ).
+4. Agravo regimental improvido. (AgRg no REsp n. 1.977.901/SC, desta Relatoria, DJe de 21/2/2022).
+Diante do exposto, com fundamento no art. 932, VIII, do CPC, c/c o art. 253, parágrafo único, II, "b", do RISTJ, conheço do agravo para não conhecer d o recurso especial.
+Intimem-se.
+EMENTA
