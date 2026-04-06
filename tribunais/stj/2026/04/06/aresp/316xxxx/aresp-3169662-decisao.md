@@ -1,0 +1,61 @@
+DECISÃO
+Trata-se de agravo contra a decisão que inadmitiu o recurso especial interposto por PEDRO GOMES DA SILVA, com fundamento na alínea "a" do permissivo constitucional, em oposição a acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE PERNAMBUCO, assim ementado (fls. 296-318):
+"EMENTA: PENAL. PROCESSUAL PENAL. APELAÇÃO CRIMINAL. JURI. HOMICÍDIO QUALIFICADO. RECURSO DO MINISTÉRIO PÚBLICO. SUBMISSÃO A NOVO JULGAMENTO. DECISÃO MANIFESTAMENTE CONTRARIA A PROVA DOS AUTOS. OCORRENCIA. RESPOSTAS CONTRADITÓRIAS AOS QUESITOS. ANULAÇÃO DO JULGAMENTO. APELAÇÃO PROVIDA. DECISÃO UNANIME.
+1. A decisão prolatada pelo Conselho de Sentença deve ser anulada apenas quando nenhum arrimo encontrar nas provas que instruem os autos, isto é, quando forem nítidas a arbitrariedade e a falta de lógica das conclusões formadas diante de tudo guanto foi apresentado ao júri, de forma tal que configure um desvirtuamento de sua função judicante.
+2. No caso dos autos, observa-se que há provas cabais, sejam testemunhais, sejam de outra espécie, no sentido de que o ora apelante é o autor do crime.
+3. A defesa pediu, em plenário, apenas a absolvição por insuficiência de provas, o que torna contraditório o fato de os jurados terem respondido afirmativamente ao primeiro e segundo quesitos, referentes à materialidade e à autoria do crime, e, após, responderem "sim" também ao terceiro quesito, qual seja, o que pergunta se o jurado absolve o réu.
+4. No presente caso, a decisão do Tribunal do Júri foi manifestamente contrária à prova dos autos, tendo o Conselho de Sentença sido contraditório em suas respostas aos quesitos, sem amparo em qualquer tese apresentada."
+Em suas razões recursais, a parte recorrente aponta violação do art . 483, inciso III do CPP. Aduz para tanto, em síntese, que a absolvição no quesito genérico é autônoma, fundada na íntima convicção dos jurados, e insuscetível de controle recursal por contrariedade à prova dos autos. Aponta violação do art. 5º, inciso XXXVIII, alínea "c", da Constituição da República, ao defender que a soberania dos veredictos impede a cassação da absolvição proferida em resposta ao quesito genérico.
+Com contrarrazões (fls. 348-356), o recurso especial foi inadmitido na origem (fls. 357-359), ao que se seguiu a interposição de agravo.
+Remetidos os autos a esta Corte Superior, o MPF manifestou-se pelo desprovimento do recurso (fls. 388-389).
+É o relatório.
+Decido.
+O agravo impugna adequadamente os fundamentos da decisão agravada, devendo ser conhecido. Passo, portanto, ao exame do recurso especial propriamente dito.
+Inicialmente, é inviável o debate acerca da contrariedade a dispositivos da CR/88 em sede de recurso especial, uma vez que não compete a esta Corte Superior o seu enfrentamento, sob pena de usurpação da competência do STF. Ilustrativamente:
+"AGRAVO REGIMENTAL NO RECURSO ESPECIAL. VIOLAÇÃO DE PRINCÍPIOS E DISPOSITIVOS CONSTITUCIONAIS. DESCABIMENTO DE ANÁLISE POR ESTA CORTE. COMPETÊNCIA DO STF. CONDENAÇÃO CRIMINAL COM TRÂNSITO EM JULGADO HÁ MAIS DE 5 ANOS. CONFIGURAÇÃO DE MAUS ANTECEDENTES. PRECEDENTES. ROUBO. CONSUMAÇÃO. DESNECESSIDADE DE POSSE MANSA E PACÍFICA. AGRAVO REGIMENTAL DESPROVIDO.
+1. Compete ao Supremo Tribunal Federal analisar eventual existência de ofensa a princípios ou dispositivos constitucionais, não cabendo a esta Corte se pronunciar acerca de eventual violação à Constituição Federal sob pena de usurpação da competência.
+ ..
+4. Agravo regimental desprovido."
+(AgRg no REsp n. 1.668.004/RJ, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 26/9/2017, DJe de 2/10/2017.)
+" ..
+2. Não compete ao Superior Tribunal de Justiça se manifestar explicitamente acerca de dispositivos constitucionais, ainda que para fins de prequestionamento, sob pena de usurpação de competência reservada ao Supremo Tribunal Federal.
+Agravo regimental desprovido."
+(AgRg nos EDcl no AREsp n. 905.964/SC, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado 8/8/2017, DJe de 18/8/2017.)
+O Tribunal de Justiça de Pernambuco deu provimento à apelação do Ministério Público, reconhecendo contradição nos quesitos e decisão manifestamente contrária à prova, para cassar o veredicto e determinar novo julgamento (fls. 304-311).
+O Corte de origem entendeu que o veredicto foi manifestamente contrário às provas dos autos e contraditório, porque os jurados reconheceram a materialidade e a autoria do homicídio e, em seguida, absolveram o réu no quesito genérico, embora a defesa tenha sustentado apenas insuficiência de provas em plenário, como destacado no trecho abaixo (fls. 309- 310):
+"A testemunha Naide Alves da Silva, assim como os policiais civis Natanael Antunes Ribeiro e Teogenes Araújo Nunes, prestaram declarações no mesmo sentido, ou seja, de que o ora apelado seria a pessoa que desferiu um golpe de faca na base do pescoço da vítima, enquanto ela dormia.
+Destaque-se que a defesa pediu, em plenário, absolvição por insuficiência de provas, tese que não foi aceita pelo Conselho de Sentença, tanto é que admitiu a materialidade e autoria delitivas, respondendo afirmativamente. ao primeiro e segundo quesitos.
+Entretanto, logo após, responderam "sim" também ao terceiro quesito, qual seja, O que pergunta se o jurado absolve o réu, o que se mostra contraditório, notadamente porque, saliente-se uma vez mais, a defesa não apresentou em plenário qualquer tese absolutória que não fosse a insuficiência de provas.
+Como muito bem pontou o Parquet, em suas razões recursais (fl. 226):
+"Em síntese se houver teses subsidiárias apresentadas em Plenário, é possivel a absolvição do acusado mesmo tendo ele sido considerado o autor do crime. No entanto, no caso concreto, houve acolhimento da tese do Ministério Público no segundo quesito e consequente rejeição à tese única da defesa dirigida à inocência pela dúvida quanto à sua autoria, o que não apresenta cunho lógico à decisão por absolver o réu. ( ) Se a valoração dos elementos probatórios pelo conselho de sentença aponta ser o paciente o autor intelectual do delito, torna-se manifestamente contrária a esta mesma prova a sua absolvição, se não há nenhum argumento defensivo outro que não a negativa de autoria por insuficiência de provas. ( ) Sendo assim, a única tese sustentada pela defesa em plenário foi a de negativa de autoria, e sendo reconhecido pelos jurados que o acusado foi o autor do homicídio, a resposta afirmativa ao quesito genérico da absolvição implica em evidente contradição, revela-se a decisão dos jurados neste caso, arbitrária contraditória e manifestamente contrária à prova dos autos, razão pela qual deve ser anulado o julgamento realizado, a fim de que o acusado seja novamente submetido ao Tribunal do Júri."
+Como se sabe, a decisão prolatada pelo Conselho de Sentença deve ser anulada apenas quando nenhum arrimo encontrar nas provas que instruem os autos, isto é, quando forem nítidas a arbitrariedade e a falta de lógica das conclusões formadas diante de tudo quanto foi apresentado ao júri, de forma tal que configure um desvirtuamento de sua função judicante.
+Conclui-se, assim, que, no presente caso, a decisão do Tribunal do Júri. foi manifestamente contrária à prova dos autos, tendo o Conselho de Sentença sido contraditório em suas respostas aos quesitos, sem amparo em qualquer tese apresentada.
+Ante ao exposto, voto para dar provimento à apelação, devendo o apelado ser submetido a novo julgamento pelo Tribunal do Júri."
+Na hipótese em que a única tese defensiva corresponde à insuficiência probatória, há contradição se os jurados identificam o réu como autor do delito e, em seguida, absolvem-no. Confira-se:
+DIREITO PROCESSUAL PENAL. RECURSO ESPECIAL. TRIBUNAL DO JÚRI. CONTRADIÇÃO NAS RESPOSTAS DOS QUESITOS. NULIDADE ABSOLUTA. RECURSO PROVIDO.
+I. Caso em exame
+1. Recurso especial interposto pelo Ministério Público do Paraná contra o acórdão do Tribunal de Justiça local que manteve veredicto absolutório em julgamento do Tribunal do Júri, apesar da alegada contradição nas respostas dos quesitos.
+2. O Conselho de Sentença reconheceu a materialidade e a autoria do crime, mas absolveu o réu no quesito absolutório genérico, sendo a única tese defensiva a insuficiência probatória.
+II. Questão em discussão
+3. A questão em discussão consiste em saber se há contradição quando os jurados reconhecem a autoria e a materialidade do delito, mas absolvem o réu no quesito absolutório genérico, em um cenário no qual a única tese defensiva (consignada em ata) foi de insuficiência probatória.
+III. Razões de decidir
+4. A contradição entre as respostas aos quesitos formulados aos jurados, quando não sanada pela repetição da votação dos quesitos em contradição na própria sessão de julgamento, acarreta a sua nulidade.
+5. A regra do art. 571, VIII, do Código de Processo Penal, que impõe o dever de imediata impugnação das nulidades ocorridas durante o julgamento pelo Tribunal do Júri, refere-se aos quesitos e não às respostas dadas pelos jurados.
+6. A ausência de adoção da medida preconizada no art. 490 do Código de Processo Penal, para sanar a contradição verificada, implica a cassação do veredicto absolutório.
+IV. Dispositivo e tese
+7. Recurso provido para cassar o veredicto absolutório e determinar a realização de novo Júri.
+Tese de julgamento: "1. A contradição entre as respostas dos jurados aos quesitos, quando não sanada, acarreta nulidade absoluta.
+2. A regra de preclusão do art. 571, VIII, do CPP, refere-se aos quesitos e não às respostas dos jurados. 3. A ausência de adoção da medida do art. 490 do CPP, para sanar contradição, implica cassação do veredicto".
+Dispositivos relevantes citados: CPP, arts. 483, III e § 2º; 490;
+571, VIII; 593, III, d. Jurisprudência relevante citada: STJ, AgRg no HC 800.093/MT, Min. Ribeiro Dantas, Quinta Turma, julgado em 21/8/2023, DJe 24/8/2023; STJ, AgRg no REsp 1.610.764/SP, Min. Maria Thereza de Assis Moura, Sexta Turma, julgado em 14/8/2018, DJe 29/8/2018; STJ, AgRg no AREsp 1.929.954/SC, Min. Laurita Vaz, Sexta Turma, julgado em 22/2/2022, DJe 3/3/2022.
+(REsp n. 2.162.078/PR, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 10/6/2025, DJEN de 13/6/2025.)
+"AGRAVO REGIMENTAL NO HABEAS CORPUS. HOMICÍDIO QUALIFICADO. APELAÇÃO. ALEGADA OFENSA AO DIREITO AO SILÊNCIO PARCIAL EM PLENÁRIO. AUSÊNCIA DE REGISTRO EM ATA. PRECLUSÃO. ART. 571, VIII, DO CPP. QUESITO GENÉRICO. ABSOLVIÇÃO. NEGATIVA DE AUTORIA. ÚNICA TESE DEFENSIVA. RECONHECIMENTO PELOS JURADOS DA AUTORIA E DA MATERIALIDADE DELITIVA. CONTRADIÇÃO. REPETIÇÃO DA VOTAÇÃO. POSSIBILIADE. AUSÊNCIA DE CONSTRANGIMENTO ILEGAL. AGRAVO DESPROVIDO.
+1. As nulidades ocorridas durante a sessão de julgamento do júri devem ser suscitadas na própria sessão, com o respectivo registro em ata. Sem isso, a matéria torna-se preclusa, nos termos do 571, VIII, do CPP. Precedentes. Na hipótese, não houve protesto da defesa em ata, após a ocorrência da alegada intercorrência.
+2. "Ambas as Turmas Criminais do STJ têm entendido que, em situações nas quais a negativa de autoria é a única proposição defensiva, a absolvição do agente no terceiro quesito não deve subsistir quando houve votação positiva dos dois primeiros, ocasião em que os jurados rejeitaram a tese da defesa, porquanto afirmaram ser o acusado o autor do delito" (AgRg no AgRg no AREsp n. 1.768.322/PR, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 18/10/2022, DJe de 21/10/2022.)
+3. "Plausível, portanto, e até recomendada a repetição da série quesitária, após explicação aos jurados sobre o ocorrido, nos termos do art. 490 do Código de Processo Penal" EDcl nos EDcl no AgRg no HC n. 695.442/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 23/11/2021, DJe de 29/11/2021.
+4. Agravo regimental desprovido."
+(AgRg no HC n. 800.093/MT, Ministro Ribeiro Dantas, Quinta Turma, julgado em 21/8/2023, DJe 24/8/2023 - grifo nosso).
+Assim, o acórdão recorrido está em consonância com a orientação da Corte quanto à possibilidade de cassação de veredicto manifestamente contrário à prova dos autos.
+Ante o exposto, com fundamento no art. 253, parágrafo único, II, "a" e "b", do Regimento Interno do STJ, conheço do agravo para conhecer em parte do recurso especial e, nesta extensão, negar-lhe provimento.
+Publique-se.  Intimem-se.
+EMENTA
