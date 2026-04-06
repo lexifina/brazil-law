@@ -1,0 +1,29 @@
+DECISÃO
+Trata-se de recurso especial manejado pela Fazenda Nacional, com base no art. 105, III, a, da CF, contra acórdão proferido pelo Tribunal Regional Federal da 3ª Região, assim ementado (fls. 61/62):
+DIREITO PROCESSUAL CIVIL. CUMPRIMENTO DE SENTENÇA. VALOR APONTADO PELA FAZENDA PÚBLICA. POSSIBILIDADE DE EXPEDIÇÃO DE PRECATÓRIO COMO INCONTROVERSO. AGRAVO PROVIDO.
+I. CASO EM EXAME
+1. Agravo de instrumento interposto contra decisão que determinou a remessa dos autos à contadoria judicial para conferência dos cálculos apresentados no cumprimento de sentença, negando a imediata expedição de precatório referente ao valor considerado incontroverso.
+II. QUESTÃO EM DISCUSSÃO
+2. Há duas questões em discussão: (i) definir se o magistrado pode determinar a remessa dos autos à contadoria judicial para conferência dos cálculos apresentados pelas partes no cumprimento de sentença; e (ii) estabelecer se é possível negar a expedição imediata do precatório do valor considerado incontroverso.
+III. RAZÕES DE DECIDIR
+3. O juiz não está vinculado aos cálculos apresentados pelas partes e pode determinar sua conferência pela contadoria judicial, órgão auxiliar isento e dotado de fé pública, conforme previsto no artigo 524, §2º, do CPC.
+4. o Plenário do Supremo Tribunal Federal por unanimidade julgou constitucional a possibilidade de expedição de precatório ou requisição de pequeno valor (RPV) para o pagamento da parte incontroversa e autônoma de dívida judicial, desde que a decisão quanto a esta parcela seja definitiva (transitada em julgado). A decisão foi tomada no julgamento do Recurso Extraordinário (RE) 1205530, com repercussão geral reconhecida (Tema 28).
+5. A impugnação da Fazenda veio instruída com a Consolidação de cálculos baseada em apuração de Auditor Fiscal da Receita Federal do Brasil com extenso demonstrativo de valores
+6. A agravada não apontou qualquer mácula ao valor apresentado pela Fazenda Nacional que pode ser considerado incontroverso e pode ser requisitado.
+IV. DISPOSITIVO E TESE
+7. Recurso provido.
+Tese de julgamento:
+1. O juiz pode determinar a remessa dos autos à contadoria judicial para conferência dos cálculos apresentados pelas partes no cumprimento de sentença.
+2. Cabe expedição de precatório de valor apresentado em parecer fundamentado em apuração da Receita Federal do Brasil sendo considerado e requisitado como incontroverso.
+Dispositivos relevantes citados: CPC, art. 524, §2º.
+Jurisprudência relevante citada: STF, Recurso Extraordinário nº 1.205.530, Rel. Min. Marco Aurélio, Plenário, julgamento em Sessão Virtual de 29/05/2020 a 05/06/2020. Tema de Repercussão Geral nº 28; TRF3, AGRAVO DE INSTRUMENTO - 5030593-72.2018.4.03.0000, Rel. Desembargador Federal ANTONIO CARLOS CEDENHO, e-DJF3 03/08/2020.
+Os embargos declaratórios opostos (fls. 67/73) foram rejeitados, nos termos do acórdão de fls. 87/101.
+A parte recorrente aponta violação aos arts. 370, parágrafo único, 371, 489, § 1º, IV, 1.022, II, do CPC. Sustenta, em resumo, que: (I) a despeito dos embargos de declaração, o Tribunal a quo remanesceu omisso acerca das questões neles suscitadas; (II) "A Fazenda Pública, ao apresentar cálculos, não possui presunção absoluta de veracidade, cabendo ao juízo verificar se os valores estão compatíveis com a decisão que reconheceu a imunidade tributária" (fl. 111), sendo certo que, "No caso concreto, não há elementos suficientes para se afirmar a incontrovérsia dos valores, sendo essencial que o juízo de origem avalie minuciosamente se os cálculos refletem corretamente a determinação judicial sobre a imunidade da contribuição patronal" (fl. 111).
+Contrarrazões apresentadas às fls. 134/145.
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+De início, mostra-se deficiente a fundamentação do recurso especial em que a alegação de ofensa aos arts. 489, § 1º, IV, e 1.022 do CPC se faz de forma genérica, sem a demonstração exata dos pontos pelos quais o acórdão se fez omisso, contraditório ou obscuro (fls. 108/109). Aplica-se, na espécie, o óbice da Súmula 284 do STF. Nesse mesmo sentido vão os seguintes precedentes: AgInt no AREsp 1.070.808/MA, Rel. Ministro Marco Buzzi, Quarta Turma, DJe de 10/6/2020; AgInt no REsp 1.730.680/RJ, Rel. Ministra Regina Helena Costa, Primeira Turma, DJe de 24/4/2020; AgInt nos EDcl no AREsp 1.141.396/SP, Rel. Ministro Raul Araújo, Quarta Turma, DJe de 12/3/20020; AgInt no REsp 1.588.520/DF, Rel. Ministro Og Fernandes, Segunda Turma, DJe de 27/2/2020 e AgInt no AREsp 1.018.228/PI, Rel. Ministro Gurgel de Faria, Primeira Turma, DJe de 25/9/2019.
+Ressalte-se, por oportuno, que a fundamentação deficiente do apelo, no tocante à negativa de prestação jurisdicional declaratória, não permite, por consequência e per saltum, ingressar no exame da alegada afronta à matéria normativa de fundo relativa aos arts. 370 e 371 do CPC, porquanto remanesce ausente o indispensável prequestionamento.
+Outrossim, o recurso especial, nos moldes em que apresentado, não impugnou fundamento basilar que ampara o acórdão recorrido, a saber, o de que, "No caso vertente, porém, apesar de a agravada tergiversar nas suas contrarrazões pedindo o improvimento deste recurso, não apontou qualquer mácula à apuração feita pelo auditor de forma que o valor apresentado pela Fazenda Nacional pode ser considerado incontroverso e pode ser requisitado" (fl. 65 - g.n.), esbarrando, pois, no obstáculo da Súmula 283/STF, que assim dispõe: "É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles". A respeito do tema: AgInt no REsp 1.711.262/SE, Rel. Ministro Gurgel de Faria, Primeira Turma, DJe 17/2/2021; AgInt no AREsp 1.679.006/SP, Rel. Ministro Raul Araújo, Quarta Turma, DJe 23/2/2021.
+ANTE O EXPOSTO, não conheço do recurso especial.
+Publique-se.
+EMENTA
