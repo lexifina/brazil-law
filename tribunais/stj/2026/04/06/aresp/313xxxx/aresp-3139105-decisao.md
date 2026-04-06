@@ -1,0 +1,74 @@
+DECISÃO
+Trata-se de Agravo em Recurso Especial interposto por BANCO BRADESCO S/A contra decisão que inadmitiu o recurso especial.
+Segundo a parte agravante, o recurso preenche os requisitos necessários ao conhecimento e provimento, pois (I) teria havido negativa de prestação jurisdicional, em face da persistência de omissão e obscuridade, mesmo depois de opostos os competentes embargos de declaração; (II) não incidiria a Súmula 83/STJ, pois o Acórdão estaria em desarmonia com a jurisprudência desta Corte.
+Intimada nos termos do art. 1.042, § 3º, do Código de Processo Civil, a parte agravada afirmou a inexistência de elementos aptos a promover a alteração do julgado impugnado.
+É o relatório.
+DECIDO.
+O agravo é tempestivo, nos termos do art. 1.003, § 5º, do Código de Processo Civil.
+A análise dos argumentos recursais não indica, contudo, a existência de fundamentos que sustentem a reforma da decisão recorrida, cujos fundamentos transcrevo para que passem a fazer parte da presente decisão:
+I -
+Banco Bradesco S.A. interpôs Recurso Especial , com fundamento no artigo 105, III, alínea "a", da Constituição Federal, contra os acórdãos da 17ª Câmara Cível deste Tribunal de Justiça.
+Alegou, em síntese, violação aos seguintes dispositivos: a) Art. 1.022, incisos I, II e III, do Código de Processo Civil, sustentando que o acórdão recorrido incorreu em omissão e obscuridade ao não enfrentar os pontos essenciais suscitados nos embargos de declaração, especialmente quanto à delimitação temporal do "stay period", à inaplicabilidade da recuperação judicial ao crédito em questão e à violação ao direito de propriedade e resgate da posse dos bens dados em garantia; b) Art. 489, §1º, incisos II, III e IV, do Código de Processo Civil, argumentando que a decisão judicial não se encontra devidamente fundamentada, pois emprega conceitos jurídicos indeterminados, invoca motivos genéricos e não enfrenta todos os argumentos capazes de infirmar a conclusão adotada; c) Art. 3º do Decreto-Lei nº 911/69, defendendo que houve negativa de vigência ao dispositivo que assegura ao credor fiduciário o direito à busca e apreensão do bem alienado fiduciariamente, diante da mora ou inadimplemento, especialmente após o encerramento do "stay period"; d) Art. 6º, §4º, da Lei nº 11.101/2005, pois o acórdão recorrido estendeu indevidamente os efeitos do "stay period" além do prazo legal, impedindo a retomada da posse dos bens pelo credor fiduciário, mesmo após o encerramento do período de blindagem previsto na legislação.
+Requereu o provimento do recurso especial.
+II -
+De início, as alegações do Recorrente no tocante à ofensa aos artigos 1.022, incisos I e II, e 489, §1º, incisos II, III e IV, do Código de Processo Civil, foram feitas de forma genérica, limitando-se a fazer remissão às razões expostas no recurso de Embargos de Declaração, sem esclarecer qual a efetiva questão sobre a qual se omitiu o Colegiado e qual a sua importância para a solução da controvérsia.
+A apresentação de razões de forma genérica atrai a incidência da Súmula nº 284 do Supremo Tribunal Federal a impedir o seguimento do recurso.
+Nesse sentido:
+(..)
+Quanto aos artigos 6º, §4º, da Lei nº 11.101/2005 e 3º do Decreto-Lei nº 911/69, Câmara Julgadora concluiu que, embora o crédito garantido por alienação fiduciária não se submeta à recuperação judicial, a apreensão dos bens pode ser obstada se estes forem essenciais à atividade da empresa, conforme constatado pelo Juízo da Recuperação Judicial, bem como reconheceu que a suspensão do processo é válida enquanto perdurar o "stay period", e que a retirada dos bens essenciais é vedada durante esse período, conforme se extrai do aresto combatido:
+(..)
+Ademais, no julgamento dos embargos de declaração, os quais foram rejeitados, o Colegiado concluiu que o acórdão embargado já havia enfrentado expressamente todos os pontos suscitados, inclusive a interpretação do artigo 49, §3º, da Lei nº 11.101/2005, reiterando que, mesmo que o crédito não se submeta à recuperação judicial, a retirada de bens essenciais durante o "stay period" é vedada, conforme jurisprudência do STJ, consoante se extrai do acórdão:
+(..)
+Como se vê, a decisão no sentido de que o reconhecimento da essencialidade dos bens pode atingir os garantidos por alienação fiduciária está de acordo com a jurisprudência do Superior Tribunal de Justiça, conforme se verifica nos seguintes julgados:
+(..)
+O mesmo se diga quanto ao prazo de manutenção da posse dos bens:
+(..)
+Dessa forma, o seguimento do recurso encontra óbice na Súmula nº 83/STJ, pois conforme entendimento do Tribunal Superior "( ) Estando o acórdão recorrido em consonância com a jurisprudência do eg. STJ, o apelo nobre encontra óbice na Súmula n. 83/STJ, aplicável tanto pela alínea "a" como pela alínea "c" do permissivo constitucional. ( )" (STJ - AgInt no AREsp n. 2.060.198/SP, relator Ministro Raul Araújo, Quarta Turma, julgado em 15/8/2022, DJe de 26 /8/2022.)
+III-
+Diante do exposto, inadmito o recurso especial, com fundamento na Súmula nº 284 do Supremo Tribunal Federal e na Súmula nº 83 do Superior Tribunal de Justiça.
+No presente processo, a parte agravante afirma, em suma, que estão presentes os requisitos para o conhecimento e provimento de seu recurso.
+Ocorre, contudo, que a questão já foi enfrentada pela decisão recorrida, que analisou detidamente todas as questões jurídicas postas.
+De saída, no que tange a alegação de afronta aos artigos 1.022 e 489 do Código de Processo Civil, a ofensa ao art. 1.022, II, do Código de Processo Civil se caracteriza quando o órgão julgador, provocado por meio de embargos de declaração, deixa de suprir omissão sobre ponto relevante da controvérsia, cuja análise é indispensável à adequada prestação jurisdicional.
+De igual modo, o art. 489, §1º, IV, do CPC impõe um dever de fundamentação qualificada, estabelecendo que não se considera fundamentada a decisão judicial que não enfrenta todos os argumentos deduzidos pelas partes capazes, em tese, de infirmar a conclusão adotada.
+Esses dispositivos visam assegurar que o pronunciamento judicial seja efetivamente resolutivo, transparente e coerente, permitindo o controle pelas instâncias superiores e garantindo a observância ao devido processo legal substancial.
+Certo é que "Afasta-se a ofensa aos arts. 489 e 1.022 do CPC/2015, pois não se constatam omissão, obscuridade ou contradição nos acórdãos recorridos capazes de torná-los nulos. O colegiado originário apreciou a demanda de forma clara e precisa, deixando bem delineados os fundamentos dos julgados. " (AgInt no AREsp n. 2.441.987/DF, relator Ministro Humberto Martins, Terceira Turma, julgado em 17/2/2025, DJEN de 20/2/2025.)
+Efetivamente, compulsados os autos, colhe-se que a Corte de origem decidiu fundamentadamente a questão, sendo certo que a ausência de menção a um outro argumento invocado pela defesa não macula o comando decisório se, bem fundamentado, apresenta razões capazes de se sustentar por si.
+Na realidade, os embargos de declaração opostos pela parte agravante (e-STJ, fls. 154-162) visavam à modificação do julgado, providência para a qual a estreita via dos embargos não serve.
+O Acórdão recorrido manifestou-se expressamente sobre a vigência do stay period (no mesmo sentido defendido pela parte agravada) e sobre a essencialidade do bem para a manutenção das atividades da recuperanda..
+Assim, "Não procede a arguição de ofensa ao 1.022 do CPC, quando o Tribunal Estadual se pronuncia, de forma motivada e suficiente, sobre os pontos relevantes e necessários ao deslinde da controvérsia." (AgInt no REsp n. 1.899.000/SP, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 21/8/2023, DJe de 23/8/2023.)
+Ressalte-se que não se pode confundir decisão desfavorável aos interesses da parte com negativa de prestação jurisdicional, tampouco fundamentação concisa com ausência de fundamentação.
+Nesse sentido, destaca-se o seguinte precedente:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSO CIVIL. CUMPRIMENTO DE SENTENÇA. VIOLAÇÃO DO ART. 1.022 DO CPC. INEXISTÊNCIA. MULTA DIÁRIA. REVISÃO DA NECESSIDADE E DO VALOR FIXADO DEMANDA O REVOLVIMENTO DO ACERVO FÁTICO-PROBATÓRIO DOS AUTOS. SÚMULA N. 7/STJ.
+1. "Não se pode confundir decisão contrária ao interesse da parte com ausência de fundamentação ou negativa de prestação jurisdicional" (AgInt no AREsp n. 1.907.401/SP, relatora Ministra Assusete Magalhães, Segunda Turma, julgado em 22/8/2022, DJe de 29/8/2022).
+(AgInt no AREsp n. 2.746.371/PE, relator Ministro Humberto Martins, Terceira Turma, julgado em 17/3/2025, DJEN de 20/3/2025.)
+Portanto, constatada a pronúncia expressa e suficiente acerca dos temas indicados como omissos, a questão do direito aplicado é matéria relativa ao mérito recursal, não se podendo cogitar, no presente feito, em prestação jurisdicional defeituosa.
+Sobre a questão de fundo, a análise dos autos indica que a Corte de origem adotou entendimento alinhado ao perfilhado pela jurisprudência desta Corte, o que atrai a incidência do comando da Súmula n. 83 deste Superior Tribunal de Justiça ("não se conhece do recurso especial pela divergência, quando a orientação do Tribunal se firmou no mesmo sentido da decisão recorrida").
+Com efeito, em demandas com a mesma causa de pedir, este colegiado vem se manifestando no sentido de que compete ao juízo da recuperação judicial, mesmo em se tratando de crédito extraconcursal, dispor acerca da essencialidade dos bens para a manutenção da atividade econômica da recuperanda:
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. RECUPERAÇÃO JUDICIAL. ALIENAÇÃO FIDUCIÁRIA. ESSENCIALIDADE DO BEM. COMPETÊNCIA DO JUÍZO DA RECUPERAÇÃO JUDICIAL. ORIENTAÇÃO DA 2ª SEÇÃO DO STJ.
+1. Recuperação judicial.
+2. A 2ª Seção do STJ possui orientação jurisprudencial no sentido de que, mesmo que ultrapassado o período de suspensão (stay period) a que se refere o art. 6º, § 4º, da Lei n. 11.101/2005, compete ao juízo da recuperação judicial dispor acerca da essencialidade dos bens para a manutenção da atividade econômica da empresa, mesmo que se trate de alienação fiduciária em garantia, que não estaria sujeita aos efeitos da recuperação judicial (art. 49, § 3º).
+Precedentes.
+3. A continuidade de atos expropriatórios em juízo diverso poderá implicar alienação judicial de bens indispensáveis ao regular desenvolvimento das atividades da sociedade, inviabilizando o cumprimento do plano e violando o princípio de preservação da empresa.
+4. Agravo conhecido. Recurso especial conhecido e provido.
+(AREsp n. 3.024.278/PR, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 2/3/2026, DJEN de 6/3/2026.)
+CONFLITO DE COMPETÊNCIA. RECUPERAÇÃO JUDICIAL. BENS NÃO ESSENCIAIS. DECISÃO DO JUÍZO RECUPERACIONAL. POSSIBILIDADE DE CONSTRIÇÃO.
+1. Ainda que se atribua o caráter extraconcursal a crédito, incumbe ao juízo em que se processa a recuperação judicial deliberar sobre os atos expropriatórios e sopesar a essencialidade dos bens de propriedade de empresa passíveis de constrição e a solidez do fluxo de caixa. Precedentes.
+2. Nos termos da jurisprudência desta Corte, não há que se falar em conflito de competência a ser dirimido quando há decisão do Juízo recuperacional atestando a não essencialidade dos bens submetidos à alienação fiduciária, perseguidos em ação de busca e apreensão.
+Conflito de competência não conhecido.
+(CC n. 213.749/MT, relator Ministro Humberto Martins, Segunda Seção, julgado em 14/10/2025, DJEN de 17/10/2025.)
+DIREITO EMPRESARIAL. RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. RECUPERAÇÃO JUDICIAL. INCIDENTE DE IMPUGNAÇÃO DO CRÉDITO. CRÉDITOS GARANTIDOS POR ALIENAÇÃO FIDUCIÁRIA. NÃO SUBMISSÃO AOS EFEITOS DA RECUPERAÇÃO JUDICIAL. ART. 49, § 3º, DA LEI 11.101/2005. BENS ESSENCIAIS À ATIVIDADE EMPRESARIAL. AFERIÇÃO. COMPETÊNCIA DO JUÍZO UNIVERSAL QUE NÃO AFASTA A EXCLUSÃO DOS CRÉDITOS DA RECUPERAÇÃO JUDICIAL. RECURSO ESPECIAL PROVIDO.
+1. De acordo com a pacífica jurisprudência do STJ, por força do art. 49, § 3º, da Lei 11.101/2005, não se submetem à recuperação judicial os créditos garantidos por alienação fiduciária.
+2. Por tratar-se de créditos garantidos por alienação fiduciária, compete ao juízo da recuperação judicial exercer sua competência limitada e transitória para decidir apenas acerca da essencialidade do bem alienado fiduciariamente para fins de aplicação da ressalva prevista no art. 49, § 3º, parte final, da Lei 11.101/2005, vedando a venda ou a retirada do estabelecimento do devedor dos bens de capital essenciais ao desenvolvimento da atividade empresarial, durante o chamado stay period. Precedentes.
+3. Recurso especial provido para restabelecer a decisão de primeira instância, que declarou a não sujeição dos créditos do impugnante/recorrente à recuperação judicial.
+(REsp n. 2.016.000/MG, relator Ministro Raul Araújo, Quarta Turma, julgado em 30/6/2025, DJEN de 8/8/2025.)
+Na esteira da jurisprudência dominante desta Corte, a superação do óbice da Súmula n. 83/STJ exige que o recorrente colacione precedentes deste Superior Tribunal de Justiça, contemporâneos ou supervenientes a seu favor, ou demonstre alguma distinção entre os julgados mencionados na decisão agravada e o caso em exame, o que não fez. Nesse sentido:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. ADMISSIBILIDADE. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DA DECISÃO AGRAVADA. ART. 544, § 4º, I, DO CÓDIGO DE PROCESSO CIVIL.
+1. Incumbe ao agravante infirmar especificamente todos os fundamentos da decisão agravada, demonstrando o seu desacerto, de modo a justificar o cabimento do recurso especial interposto, sob pena de não ser conhecido o agravo (art. 544, § 4º, I, do CPC).
+2. Não basta, para afastar o óbice da Súmula nº 83/STJ, a alegação genérica de que o acórdão recorrido não está em consonância com a jurisprudência desta Corte, devendo a parte recorrente demonstrar que outra é a positivação do direito na jurisprudência desta Corte, com a indicação de precedentes contemporâneos ou supervenientes aos referidos na decisão agravada.
+3. Agravo regimental não provido.
+(AgRg no AREsp n. 238.064/RJ, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 7/8/2014, DJe de 18/8/2014. Grifo Acrescido)
+A análise das razões recursais indica que, embora afirme a adequada superação dos óbices apontados, a parte agravante não traz precedente contemporâneo que contemple a tese defendida sem a necessidade de reanálise fático-probatória.
+Ante o exposto, não conheço do agravo em recurso especial.
+Caso exista nos autos prévia fixação de honorários advocatícios pelas instâncias de origem, determino sua majoração em desfavor da parte agravante, no importe de 2% sobre o valor já arbitrado, nos termos do art. 85, § 11, do Código de Processo Civil, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão da gratuidade da justiça.
+Publique-se. Intimem-se.
+EMENTA
