@@ -1,0 +1,47 @@
+DECISÃO
+Examina-se agravo em recurso especial interposto por CPIC BRASIL FIBRAS DE VIDRO LTDA contra decisão que inadmitiu recurso especial fundamentado, exclusivamente, na alínea "a" do permissivo constitucional.
+Agravo em recurso especial interposto em: 15/9/2025.
+Concluso ao gabinete em: 23/3/2026.
+Ação: de cobrança movida por MULTISEAS AGENCIAMENTOS MARITIMOS LTDA em face de CPIC BRASIL FIBRAS DE VIDRO LTDA.
+Sentença: julgou procedente para condenar a parte requerida ao pagamento dos valores devidos a título de sobre-estadia, segundo relatório constante da Inicial, convertendo-se a moeda estrangeira em nacional levando-se em conta o câmbio do dia do efetivo pagamento, acrescidos de correção monetária e juros de mora.
+Acórdão: negou provimento à apelação interposta pela parte agravante, nos termos da seguinte ementa:
+DIREITO CIVIL. APELAÇÃO CÍVEL. AÇÃO DE COBRANÇA. DEMURRAGE. RECURSO DESPROVIDO.
+I. CASO EM EXAME
+1. Recurso de Apelação Cível interposto por CPIC Brasil Fibras de Vidro Ltda. contra sentença que julgou procedente a Ação de Cobrança movida por HMM Co., Ltd., representada por Multiseas Agenciamentos Marítimos Ltda., condenando a ré ao pagamento de valores devidos a título de sobre-estadia de contêineres.
+II. QUESTÃO EM DISCUSSÃO
+2. A questão em discussão consiste em: (i) legitimidade da parte autora para representar a pessoa jurídica estrangeira; (ii) validade do termo de responsabilidade; (iii) divergência nos cálculos do valor devido; (iv) quantia devida em caso de confirmação do dever de pagar.
+III. RAZÕES DE DECIDIR
+3. A legitimidade da autora foi confirmada, pois a Multiseas Agenciamentos Marítimos Ltda. foi devidamente constituída como representante da HMM Co., Ltd. no Brasil, conforme art. 75, inc. X, do CPC.
+4. O termo de responsabilidade é válido e a cobrança de sobre-estadia é devida, mesmo sem previsão contratual, conforme usos e costumes do comércio marítimo e jurisprudência do STJ.
+5. A planilha de cálculos apresentada pela autora é correta, considerando a retenção indevida dos contêineres pela ré.
+IV. DISPOSITIVO E TESE
+6. Preliminar rejeitada e Recurso não provido. (e-STJ fl. 397)
+Embargos de declaração: opostos pela agravante, foram rejeitados.
+Recurso especial: alega violação dos arts. 18, 330, II, 373, I e 1.022, II, do CPC. Além de negativa de prestação jurisdicional, sustenta ausência da devida representação da pessoa jurídica estrangeira e ilegitimidade ativa.
+RELATADO O PROCESSO, DECIDE-SE.
+- Da violação do art. 1.022 do CPC
+É firme a jurisprudência do STJ no sentido de que não há ofensa ao art. 1.022 do CPC quando o Tribunal, aplicando o direito que entende cabível à hipótese soluciona integralmente a controvérsia submetida à sua apreciação, ainda que de forma diversa daquela pretendida pela parte.
+A propósito, confira-se: REsp n. 2.095.460/SP, Terceira Turma, DJe de 15/2/2024 e AgInt no AREsp n. 2.325.175/SP, Quarta Turma, DJe de 21/12/2023.
+No particular, verifica-se que o acórdão recorrido decidiu, fundamentada e expressamente acerca da indenização decorrente da sobre-estadia, de maneira que os embargos de declaração opostos pela parte agravante, de fato, não comportavam acolhimento.
+Assim, observado o entendimento dominante desta Corte acerca do tema, não há que se falar em violação do art. 1.022 do CPC, incidindo, quanto ao ponto a Súmula 568/STJ.
+- Do reexame de fatos e provas
+O TJ/SP, ao analisar o recurso interposto pela recorrente, concluiu o seguinte (e-STJ fls. 400-404):
+Apreende-se dos autos que a apelada HMM Co., Ltd.,3 pessoa jurídica estrangeira representada pela Multiseas Agenciamentos Marítimos Ltda., ingressou com a presente Ação de Cobrança em desfavor da apelante CPIC Brasil Fibras de Vidro Ltda. Na petição inicial, em breve resumo, sustentou que: (a) celebraram contrato de transporte internacional de bens, consoante os conhecimentos de embarques marítimos bill of lading HDMUSHAZ44102500 (fls. 33/36) e bill of lading HDMUSHAZ38602000 (fls. 37/45), com utilização de contêineres para acondicionamento (modelo 40 HC),4 os quais foram descarregados no Porto de Santos, em São Paulo; (b) a parte adversa restituiu os contêineres após decorrido o período livre de vinte e um dias free time , consoante indicam o boletim de descarga (fls. 135/136) e os comprovantes de devoluções (fls. 137/189), de modo que se tornou credora da quantia de USD265.400,00 concernentes à demurrage, é dizer, R$1.447.677,38 pela taxa do câmbio de 20 de agosto de 2024 (R$5,4547).  ..
+Não colhe a alegação de extinção do processo por vício de representação processual. A autora/apelada HMM Co., Ltd. é pessoa jurídica estrangeira de direito privado,5 de modo que elegeu a pessoa jurídica Multiseas Agenciamentos Marítimos Ltda. para representá-la em território nacional, nos termos do art. 75, inc. X, do Código de Processo Civil, inclusive em juízo cujo contrato social foi anexado a fls. 14/30 , outorgando-lhe poderes até a data de 1.º de outubro de 2024 (a presente demanda foi proposta em 22 de agosto de 2024), com força, inclusive, para constituir e substabelecer poderes a advogados, como de fato ocorreu (fls. 31/32), nos termos da procuração e respectiva tradução de fls. 10/13  ..
+Cumpre observar que vencido o prazo de validade do mandato no curso da demanda, não resulta em extinção do processo pois se trata de vício sanável, nos termos do art. 76, § 1.º, inc. I, do Código de Processo Civil.  ..
+Não é exigível o registro e o apostilamento da procuração, pois a aplicação da Convenção da Apostila da Haia (Decreto n.º 8.660 de 29 de janeiro de 2016, regulamentada pela Resolução nº 228/2016 do Conselho Nacional de Justiça,6 incide apenas para documentos públicos, o que não é o caso dos autos, à toda evidência.  ..
+Prosseguindo, a contratação do transporte marítimo é incontroversa nos autos, assim como a utilização pela apelante de todos os contêineres sub judice, que foram descarregados e devolvidos após o free time de vinte e um dias, consoante a planilha de fls. 130/189. Nesse passo, deve-se não perder de vista que o pagamento de sobre-estadia é devido ainda que não haja previsão contratual, em razão dos usos e costumes do comércio marítimo  ..
+Imperativo notar que ambos os conhecimentos de embarque descrevem expressamente a advertência sobre os períodos livres de utilização dos contêineres pela apelante (fls. 33/45), assim como descrevem do mesmo modo os recebimentos dos bens importados e os prazos de devolução dos contêineres por mensagens eletrônicas (fls. 68/73), valendo acrescentar que o prazo livre foi estendido para vinte e um dias em benefício da apelante. Afigura estéril, portanto, a alegação de ausência de força probatória do documentos de fls. 74/78, como de rigor, posto totalmente irrelevante na espécie, ainda que se desconsidere o registro em Cartório, como informado pela apelada em sua réplica (fls. 314).
+A r. sentença apelada evidencia quantum satis a inconsistência dos argumentos apresentados na contestação e nas razões de recorrer, deixando claro não corresponder à verdade a assertiva de que o ato jurisdicional teria sido praticado sem exame das provas disponíveis, pois para o adequado equacionamento das alegações adotou entendimentos sufragados pela jurisprudência desse E. Tribunal de Justiça à luz da prova documental carreada aos autos.  ..
+Importante assinalar que a cobrança decorrente da sobre-estadia apresenta natureza jurídica de indenização, e não de cláusula penal, razão pela qual não há necessidade de demonstração de culpa do devedor pelo atraso na devolução dos contêineres para que se constitua a obrigação de pagar, nem, sequer, de redução proporcional do valor. Nesse passo, o quantum debeatur previsto na planilha de cálculos de fls. 79/129 não merece censura porque elaborada de acordo com as diretrizes estabelecidas pelas partes, considerando que por meses a apelante reteve indevidamente os contêineres, como apontam os documentos dos autos isto é, o boletim de descarga (fls. 135/136) e os comprovantes de devoluções (fls. 137/189) , não devendo prevalecer os cálculos de fls. 276/277, como de rigor.
+Desse modo, alterar o decidido no acórdão impugnado, no que se refere à regularidade da representação da pessoa jurídica estrangeira, à legitimidade passiva, bem como à indenização decorrente da sobre-estadia, exige o reexame de fatos e provas, o que é vedado em recurso especial pela Súmula 7/STJ.
+Forte nessas razões, CONHEÇO do agravo e, com fundamento no art. 932, III e IV, "a", do CPC, bem como na Súmula 568/STJ, CONHEÇO PARCIALMENTE do recurso especial e, nessa extensão, NEGO-LHE PROVIMENTO.
+Nos termos do art. 85, § 11, do CPC, majoro em 5% os honorários fixados anteriormente.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar sua condenação às penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO DE COBRANÇA. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. AUSÊNCIA. REEXAME DE FATOS E PROVAS. INADMISSIBILIDADE.
+1. Ação de cobrança.
+2. Não há violação do art. 1.022 do CPC quando o Tribunal enfrenta de forma fundamentada e sem omissões as questões suscitadas pela parte nas razões do recurso.
+3. O reexame de fatos e provas em recurso especial é inadmissível.
+4. Agravo conhecido. Recurso especial parcialmente conhecido e, nessa extensão, não provido.
