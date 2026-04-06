@@ -1,0 +1,63 @@
+DECISÃO
+Trata-se de recurso ordinário em habeas corpus, com pedido de liminar, interposto por WENDELL VIEIRA ARAÚJO MAGALHÃES contra o acórdão proferido pelo Tribunal de Justiça do Estado de Alagoas no HC n. 813361-49.2025.8.02.0000.
+Depreende-se dos autos que o recorrente possui contra si condenação transitada em julgado à pena de 16 (dezesseis) anos e 6 (seis) meses de reclusão, pela prática do crime de homicídio qualificado.
+Ajuizado o habeas corpus na origem, o Tribunal a quo denegou a ordem.
+Nas razões deste recurso ordinário, a Defesa alega constrangimento ilegal decorrente da manutenção de condenação do Tribunal do Júri de 2015, fundada, segundo sustenta, exclusivamente em depoimento posteriormente desmentido e em ambiente de coação, bem como por cerceamento de defesa pela ausência de acesso à gravação integral da sessão do júri e pela não disponibilização do voto vencido no julgamento do mandamus originário (fls. 98-100, 103-105 e 109-112).
+Aponta a existência de provas novas, com destaque para laudo pericial complementar atestando a inviabilidade fisiológica de a vítima ter falado após as lesões e gravação de investigação defensiva indicando ameaça a testemunha em plenário, além de boletim de ocorrência sobre a falsidade do depoimento que embasou a condenação (fls. 101-106).
+Sustenta nulidade por ausência de enfrentamento dessas provas pelo acórdão denegatório e por cerceamento de defesa, em razão de fechamento dos fóruns durante a pandemia e não disponibilização da mídia e transcrição da sessão do júri, impedindo o exame de vícios de quesitação, condução dos trabalhos e eventual uso de argumentos extra autos (fls. 102-108).
+Argumenta que há nulidade pela não publicação integral do voto vencido do Desembargador Tutmés Airan, o que teria inviabilizado a adequada utilização dos recursos dependentes da divergência (fls. 109-112).
+Requer, ao final, liminarmente, a suspensão dos efeitos do acórdão denegatório e a reabertura do prazo recursal com a publicação do voto vencido, bem como para suspender qualquer ordem de prisão até o julgamento do recurso (fls. 114-116).
+No mérito, pede o conhecimento e provimento do recurso a fim de que seja declarada a nulidade do acórdão e dos atos subsequentes, com republicação e reabertura de prazo, e, sucessivamente, o reconhecimento das nulidades por ausência de fundamentação quanto às provas novas e por cerceamento de defesa, com anulação do processo originário desde os vícios apontados ou submissão a novo júri (fls. 116-117).
+O pedido de liminar foi indeferido às fls. 135-137.
+As informações solicitadas foram recebidas e acostadas às fls. 146-149.
+Interposição de agravo regimental pela Defesa, contra a decisão que indeferiu o pleito liminar, às fls. 150-155.
+É o relatório. DECIDO.
+Inicialmente, cumpre esclarecer que o Regimento Interno deste Superior Tribunal de Justiça, em seu art. 34, XVIII, "b", dispõe que o relator pode decidir monocraticamente para "negar provimento ao recurso ou pedido que for contrário a tese fixada em julgamento de recurso repetitivo ou de repercussão geral, a entendimento firmado em incidente de assunção de competência, a súmula do Supremo Tribunal Federal ou do Superior Tribunal de Justiça ou, ainda, a jurisprudência dominante sobre o tema".
+Não por outro motivo, a Corte Especial deste Superior Tribunal de Justiça, em 16/3/2016, editou a Súmula n. 568, segundo a qual "o relator, monocraticamente e no Superior Tribunal de Justiça, poderá dar ou negar provimento ao recurso quando houver entendimento dominante acerca do tema".
+Pois bem.
+Para melhor delimitação da controvérsia trazida neste recurso, descrevo a seguir como restou consignado pelo Tribunal a quo no acórdão ora recorrido, in verbis (fls. 88-92 - grifei):
+"8. O habeas corpus é remédio jurídico constitucional destinado a tutelar a liberdade física do indivíduo, cabível "sempre que alguém sofrer ou se achar ameaçado de sofrer violência ou coação em sua liberdade de locomoção, por ilegalidade ou abuso de poder" (art. 5º, LXVIII, CF).
+9. Cuida-se de ação autônoma de impugnação, de natureza mandamental, dotada de rito célere e cognição sumária, cuja análise está limitada às provas pré-constituídas, em profundidade inferior à necessária para sentença de mérito no processo de conhecimento.
+10. O cerne da controvérsia consiste em verificar se a manutenção da ordem de prisão expedida em face do paciente encontra-se devidamente fundamentada, considerando possível nulidade da sentença condenatória e o surgimento de prova nova.
+11. Inicialmente, do Supremo Tribunal Federal colhe-se precedentes no sentido de que o habeas corpus não pode ser manejado como sucedâneo de recurso ou revisão criminal.
+12. De igual modo, o Superior Tribunal de Justiça não admite que o remédio constitucional seja utilizado em substituição ao recurso próprio (apelação, agravo em execução, recurso especial), tampouco à revisão criminal, ressalvadas as situações em que haja flagrante ilegalidade em prejuízo da liberdade da paciente,  .. .
+ ..
+14. No mais, cumpre destacar que a revisão criminal é uma ação autônoma de impugnação que tem como objetivo desconstituir uma decisão judicial condenatória transitada em julgado, motivo pelo qual o Tribunal Pleno é o órgão competente, originariamente, para o seu processo e julgamento, nos termos do art. 43, IX, "l", do RITJAL.
+15. Ademias, não vislumbro qualquer constrangimento ilegal apto a concesão do habeas corpus, mormente porque a decisão impugnada decorre de sentença condenatória proferida pelo Tribunal do Júri, órgão constitucionalmente dotado de soberania dos veredictos (art. 5º, XXXVIII, "c", da Constituição Federal).
+16. No caso concreto, observa-se que o paciente foi julgado e condenado por homicídio qualificado perante o Tribunal Popular, tendo sido esgotadas as vias recursais cabíveis, operando-se o trânsito em julgado da condenação.
+17. Assim, a execução da pena decorre de título judicial definitivo, não havendo ilegalidade (atual ou iminente) a ser coibida pela via estreita do habeas corpus.
+18. No mais, não procede a alegação defensiva de nulidade da condenação por suposto falso testemunho descoberto apenas agora. Explico:
+19. É firme a jurisprudência dos tribunais superiores no sentido de que o habeas corpus não é a via adequada para o revolvimento do conjunto fático-probatório, tampouco para a valoração de suposta "prova nova". Essa pretensão exige dilação probatória, incompatível com o rito célere e documental do writ.
+20. Conforme reiteradamente decidido pelos tribunais superiores, o instrumento jurídico adequado para revisar condenação transitada em julgado com fundamento em prova nova é a Revisão Criminal, prevista no art. 621, II e III, do CPP. Ademais, quando a parte pretende produzir uma prova ainda inexistente, como depoimentos, reconhecimento oficial de fatos ou esclarecimentos periciais, a medida cabível é a ação de justificação, que também tramita perante o juízo competente e com observância do contraditório.
+21. No presente caso, entretanto, não há prova nova judicializada. O que existe é um boletim de ocorrência (fls.17/19), lavrado por terceiro que teria ouvido em "conversa de bar" uma suposta versão distinta da apresentada anteriormente pelo irmão da vítima. Tal narrativa unilateral, desacompanhada de qualquer confirmação judicial, não constitui prova, tampouco elemento idôneo para infirmar um veredicto soberano.
+22. Não se trata, pois, de "prova nova", mas sim de mera notícia informal, incapaz de criar dúvida razoável sobre a higidez da condenação. Ademais, não há como atribuir ao futuro ajuizamento de revisão criminal efeito suspensivo, ainda mais quando o fundamento invocado carece de mínima robustez.
+23. Conceder salvo-conduto nessa situação implicaria, na prática, subverter o regime jurídico da revisão criminal, que não afasta automaticamente os efeitos da coisa julgada.
+24. Assim, diante da soberania do Tribunal do Júri, do trânsito em julgado da condenação, da inadequação do habeas corpus para aferir prova nova e da inexistência de qualquer ilegalidade na iminência do cumprimento da pena, não há como conceder a ordem impetrada."
+Com efeito, em que pese a argumentação defensiva, verifica-se dos excertos acima colacionados que todas as teses aventadas neste recurso ordinário, inclusive a de suposta nulidade pela não publicação integral do voto vencido no habeas corpus originário, não foram adequadamente analisadas pelo colegiado da Corte de origem, nem mesmo em sede de embargos de declaração.
+Dessarte, constatando-se que as questões suscitadas não foram examinadas pelo Tribunal a quo, fica impedida esta Corte Superior de proceder ao seu exame, sob pena de atuar em indevida supressão de instância.
+Sobre o tema, o Superior Tribunal de Justiça possui entendimento no sentido de que:
+" ..  matéria não apreciada pelo Tribunal de origem inviabiliza a análise por esta Corte Superior, sob pena de incorrer em indevida supressão de instância e violação dos princípios do duplo grau de jurisdição e devido processo legal, mesmo em caso de suposta nulidade absoluta" (AgRg no HC n. 813.772/GO, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 27/4/2023, DJe de 3/5/2023).
+Ainda nesse sentido: AgRg no HC n. 804.815/SP, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 17/4/2023, DJe de 19/4/2023; AgRg no HC n. 813.293/PB, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 25/4/2023, DJe de 28/4/2023; e AgRg nos EDcl na PET no REsp n. 1.908.093/PR, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 11/4/2023, DJe de 18/4/2023.
+Além disso, esta Corte Superior de Justiça pacificou o entendimento de que:
+" ..  o prequestionamento das teses jurídicas constitui requisito de admissibilidade da via, inclusive em se tratando de matérias de ordem pública, sob pena de incidir em indevida supressão de instância e violação da competência constitucionalmente definida para esta Corte" (AgRg nos EDcl no REsp n. 1.955.005/SC, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 17/4/2023, DJe de 24/4/2023).
+Vale ressaltar, por fim, que a conclusão proferida pela instância ordinária, de que "o instrumento jurídico adequado para revisar condenação transitada em julgado com fundamento em prova nova é a Revisão Criminal" (fl. 91), bem como de que a medida cabível para a produção de prova nova é a ação de justificação, vão ao encontro da jurisprudência deste Tribunal Superior sobre os temas.
+Confira-se:
+" ..
+IV. Dispositivo e tese
+9. Resultado do Julgamento: Agravo regimental desprovido.
+Tese de julgamento:
+1. A reclamação é medida excepcional, cabível no Superior Tribunal de Justiça apenas para preservar sua competência constitucional ou garantir a autoridade de suas decisões em casos concretos, envolvendo as mesmas partes da decisão reclamada.
+2. A reclamação não pode ser utilizada como sucedâneo recursal para rediscutir matéria já acobertada pela coisa julgada.
+3. A revisão criminal é o instrumento processual adequado para rediscutir decisões transitadas em julgado, incluindo questões relacionadas ao decreto condenatório e ao perdimento de bens." (AgRg na Rcl n. 49.300/DF, relator Ministro Antonio Saldanha Palheiro, Terceira Seção, julgado em 10/12/2025, DJEN de 16/12/2025, grifei)
+" ..
+III. RAZÕES DE DECIDIR
+4. A justificação criminal destina-se à obtenção de prova nova para subsidiar eventual revisão criminal, não podendo ser utilizada para reabrir a instrução criminal ou reinquirir testemunhas já ouvidas.
+5. A jurisprudência do Superior Tribunal de Justiça é pacífica no sentido de que a justificação criminal não pode ser utilizada para arrolar novas testemunhas ou reinquirir testemunhas já ouvidas, salvo se houver prova nova que justifique a revisão criminal.
+IV. DISPOSITIVO E TESE
+6. Agravo regimental não provido.
+Tese de julgamento: "A justificação criminal não pode ser utilizada para reabrir a instrução criminal ou reinquirir testemunhas já ouvidas, salvo se houver prova nova que justifique a revisão criminal".
+Dispositivos relevantes citados: Código de Processo Civil, art. 305.
+Jurisprudência relevante citada: STJ, AgRg no HC 775.669/SP, Rel. Min. Reynaldo Soares da Fonseca, Quinta Turma, julgado em 08.11.2022; STJ, RHC 152.297/DF, Rel. Min. Sebastião Reis Júnior, Sexta Turma, julgado em 28.09.2021." (AgRg no RHC n. 203.720/ES, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 18/12/2024, DJEN de 23/12/2024, grifei)
+Ante o exposto, não conheço do presente recurso ordinário em habeas corpus, restando prejudicado o agravo regimental interposto contra a decisão que indeferiu o pleito liminar.
+Publique-se. Intimem-se.
+ EMENTA
