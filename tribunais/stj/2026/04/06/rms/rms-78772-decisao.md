@@ -1,0 +1,22 @@
+DECISÃO
+Trata-se de recurso ordinário em mandado de segurança interposto por Janete Pereira de Souza, com fundamento no art. 105, II, b, da Constituição Federal.
+Na origem, a impetrante ajuizou mandado de segurança contra ato da Prefeita do Município de Pedrinhas, visando desconstituir a exoneração automática do cargo de Professora de Educação Básica I, motivada pela aposentadoria no Regime Geral de Previdência Social (RGPS), com pedido de reintegração e restabelecimento dos vencimentos. Deu-se, à causa, o valor de R$ 10.000,00 (dez mil reais - fl. 16).
+O Tribunal de Justiça do Estado de Sergipe denegou a segurança.
+O referido acórdão foi assim ementado:
+MANDADO DE SEGURANÇA COM PEDIDO LIMINAR. PLEITO DE REINTEGRAÇÃO A CARGO PÚBLICO. APOSENTADORIA VOLUNTÁRIA. REGIME GERAL DE PREVIDÊNCIA SOCIAL (RGPS). AUTOMÁTICA EXONERAÇÃO DO SERVIDOR PÚBLICO. DESNECESSIDADE DE ADOÇÃO DE PROCEDIMENTO ESPECÍFICO. APLICAÇÃO DA REGRA CONSTITUCIONAL CONTIDA NO ART. 37, § 14 DA CONSTITUIÇÃO FEDERAL. INCIDÊNCIA DO PRECEDENTE DO RE 1.302.501 DO STF COM REPERCUSSÃO GERAL (TEMA 1.150) CUJA TESE FOI FIXADA NO SEGUINTE SENTIDO: "O SERVIDOR PÚBLICO APOSENTADO PELO REGIME GERAL DE PREVIDÊNCIA SOCIAL, COM PREVISÃO DE VACÂNCIA DO CARGO EM LEI LOCAL, NÃO TEM DIREITO A SER REINTEGRADO AO MESMO CARGO NO QUAL SE APOSENTOU OU NELE MANTER-SE, POR VIOLAÇÃO À REGRA DO CONCURSO PÚBLICO E À IMPOSSIBILIDADE DE ACUMULAÇÃO DE PROVENTOS E REMUNERAÇÃO NÃO ACUMULÁVEIS EM ATIVIDADE.". PRECEDENTES DESTE TRIBUNAL DE JUSTIÇA SERGIPANO. JUÍZO DE RETRATAÇÃO EXERCIDO NOS TERMOS DO ART. 1030, II DO CPC. SEGURANÇA DENEGADA. DECISÃO UNÂNIME.
+Não foram opostos embargos de declaração.
+Nas razões de recurso ordinário, alega ofensa ao direito adquirido e à regra de transição do art. 6º da Emenda Constitucional n. 103/2019, pois a aposentadoria foi concedida em 31/10/2017, anterior à vigência da Emenda, não se aplicando o rompimento automático do vínculo.
+Defende nulidade da exoneração por ausência de processo administrativo disciplinar, em afronta ao art. 41, § 1º, II, da Constituição Federal, e à Súmula n. 20 do STF, que estabelece: "É necessário processo administrativo com ampla defesa, para demissão de funcionário admitido por concurso".
+Argumenta lacuna na definição dos efeitos temporais do Tema 1.150 do STF, pleiteando a aplicação do art. 6º da Emenda Constitucional n. 103/2019 aos casos pretéritos, por prevalência da norma constitucional primária sobre a jurisprudência.
+Requer tutela de urgência, com base nos arts. 300 e 932, II, do CPC/2015, para reintegração liminar, sob pena de multa diária, invocando fumus boni iuris e periculum in mora.
+No mérito, requer a reforma do acórdão recorrido, objetivando sua imediata reintegração ao cargo que exercia.
+Não foram apresentadas contrarrazões.
+O Ministério Público Federal opina pela prejudicialidade do recurso ordinário, em parecer de lavra do Subprocurador-Geral da República, Rodolfo Tigre Maia, assim ementado (fls. 1078-1083):
+RECURSO ORDINÁRIO EM MANDADO DE SEGURANÇA. ADMINISTRATIVO. SERVIDOR PÚBLICO MUNICIPAL. APOSENTADORIA PELO RGPS. EXONERAÇÃO. LEI MUNICIPAL. REPERCUSSÃO GERAL. TEMA N. 1.150/STF. REINTEGRAÇÃO. ATO COATOR. REVOGAÇÃO. PERDA DO OBJETO: PARECER PELA PREJUDICIALIDADE DO RECURSO ORDINÁRIO.
+É o relatório. Decido.
+Conforme bem salientado pelo d. representante do Parquet Federal, a Recorrente noticiou a perda superveniente do objeto desta ação mandamental. Tal circunstância decorre da edição da Portaria nº 79/2025, que estabeleceu novo regramento à exoneração da impetrante, com efeitos retroativos à data de sua aposentadoria (31/10/2017).
+O novo ato administrativo operou a revogação tácita do Decreto Municipal nº 012/2019  apontado na exordial como o ato coator  , uma vez que a incompatibilidade de vigência concomitante entre ambos é manifesta. Com a substituição do título jurídico que fundamentava a exclusão da servidora, o ato impugnado perdeu sua eficácia e foi integralmente exaurido pela novel regulamentação.
+Destarte, diante da alteração do substrato fático-jurídico da lide, impõe-se o reconhecimento da carência de ação por ausência superveniente de interesse processual. Uma vez que o provimento jurisdicional pretendido não possui mais utilidade prática frente ao novo cenário normativo, a denegação da segurança é medida que se impõe, nos termos do art. 6º, § 5º, da Lei nº 12.016/2009.
+Ante o exposto, julgo extinto o processo, sem exame do mérito, nos termos do § 5º do art. 6º da Lei n. 12.016/2009.
+Publique-se. Intimem-se.
+EMENTA
