@@ -1,0 +1,34 @@
+DECISÃO
+Trata-se de recurso especial interposto por JOSE CARLOS DOS REIS, com respaldo nas alíneas "a" e "c" do permissivo constitucional, contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO GRANDE DO SUL assim ementado (e-STJ fl. 36):
+AGRAVO DE INSTRUMENTO. DIREITO PREVIDENCIÁRIO. AUXÍLIO-ACIDENTE. APOSENTADORIA ESPECIAL. IMPOSSIBILIDADE DE CUMULAÇÃO. ACORDO JUDICIAL COM CLÁUSULA DE VITALICIEDADE. AUSÊNCIA DOS REQUISITOS PARA CONCESSÃO DE TUTELA DE URGÊNCIA. APLICAÇÃO DO PRECEDENTE NO AI N.º 70082516857.
+1. É inviável, neste momento processual, o restabelecimento do benefício de auxílio-acidente com base em cláusula de vitaliciedade constante de acordo judicial homologado em 2013, quando supervenientemente foi concedida aposentadoria especial ao segurado, com efeitos retroativos a 2014.
+2. A Súmula 507 do STJ condiciona a cumulação à existência de lesão incapacitante e aposentadoria anteriores a 11/11/1997, o que não se verifica no caso concreto.
+3. Aplicação do entendimento firmado no Agravo de Instrumento n.º 70082516857, que analisou questão idêntica, afastando a urgência da medida, à vista da percepção atual de benefício previdenciário, e reconhecendo a necessidade de instrução para apreciação exauriente do direito à cumulação.
+AGRAVO DE INSTRUMENTO NÃO PROVIDO.
+Embargos de declaração rejeitados (e-STJ fls. 43/46).
+Em suas razões, a parte recorrente aponta vulneração dos arts. 502 do CPC; 2º e 28 da Lei n. 9.784/1999; e 86 da Lei n. 8.213/1991 - redação original, bem como violação da Súmula 507 do STJ, argumentando, em suma, a possibilidade de restabelecimento do auxílio-acidente, mesmo recebendo o benefício de aposentadoria especial a partir de 1º/5/2018, ante os termos do acordo firmado entre o recorrente e o INSS em 6/11/2013, com expressamente registrou a vitaliciedade do benefício acidentário.
+Afirma também que os problemas de saúde do recorrente, que deram origem à concessão do referido benefício, iniciaram antes da alteração determinada pela Lei n. 9.528/1997.
+Segundo defende, "quando aceitou o acordo com cláusula de vitaliciedade sobre o benefício que seria implantado em favor do Segurado em 2013, a Autarquia tinha total ciência de que seria aplicado o texto original da Lei 8.213/91, antes de sofrer alterações pela Lei 9.528/97, quando o texto do §1º do art. 86 da referida Lei ainda destacava o caráter vitalício do auxílio-acidente e inexistia proibição expressa de cumulação com aposentadoria" (e-STJ fl. 52).
+Sem contrarrazões. Juízo positivo de admissibilidade pelo Tribunal de origem às e-STJ fls. 59/65.
+Passo a decidir.
+A pretensão recursal não pode ser conhecida, pois não foram impugnados todos os fundamentos do acórdão recorrido, os quais destaco (e-STJ fl. 35):
+Ainda que se alegue que o acordo judicial previa a vitaliciedade do benefício acidentário, tal cláusula não pode prevalecer contra disposição legal expressa, tampouco pode se interpretar a cláusula como autorizativa de cumulação de benefícios em desconformidade com o ordenamento jurídico vigente à época da cumulação. O princípio da legalidade estrita que rege a atuação administrativa impede que a autarquia previdenciária ou mesmo o Judiciário firmem compromisso contrário ao disposto em lei.
+Por sua vez, o recurso especial limitou-se a defender que seus problemas de saúde iniciaram antes da alteração determinada pela Lei n. 9.528/1997 e que a autarquia tinha total ciência de que seria aplicado o texto original da Lei n. 8.213/1991, quando firmou o acordo, além de ter sido homologado em juízo, sem vício, sob o signo da autonomia da vontade , possuindo caráter de sentença, a evidenciar, pelo cotejo entre as razões do recurso e do acórdão, o desencontro entre o que foi decidido e a pretensão recursal deduzida.
+A falta de pertinência entre as razões do recurso especial e a decisão questionada revela-se apta a atrair o óbice contido na Súmula 284 do STF ("É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia"), pois não é possível conhecer de recurso especial que invoca como violado dispositivo de lei federal que não possui comando normativo apto a infirmar a tese adotada pelo acórdão recorrido.
+Nesse sentido:
+PROCESSUAL CIVIL. MANDADO DE SEGURANÇA. AGRAVO REGIMENTAL. DECISÃO MONOCRÁTICA. INDEFERIMENTO LIMINAR DA AÇÃO. INCOMPETÊNCIA DO STJ PARA CONHECER ORIGINARIAMENTE DO WRIT. VEICULAÇÃO DE RAZÕES DISSOCIADAS. APLICAÇÃO DA SÚMULA 284/STF. PRECEDENTES DO STJ. AGRAVO REGIMENTAL DO IMPETRANTE NÃO CONHECIDO.
+1. Aplica-se o óbice da Súmula 284/STF quando o recurso veicular razões dissociadas dos fundamentos da decisão recorrida.
+2. No caso, a decisão agravada apenas reconheceu a incompetência do STJ, por não se configurar a hipótese do art. 105, I, b da CF/88, matéria não recorrida.
+3. Agravo Regimental do Impetrante não conhecido.
+(AgRg no MS 19.557/SP, Rel. Ministro Napoleão Nunes Maia Filho, Primeira Seção, julgado em 14/12/2016, DJe 2/2/2017. )
+PROCESSUAL CIVIL. RECURSO ESPECIAL. VIOLAÇÃO DO ART. 535 DO CPC/1973. NÃO OCORRÊNCIA. FUNDAMENTAÇÃO RECURSAL DEFICIENTE. SÚMULA 284 DO STF.
+1. Conforme estabelecido pelo Plenário do STJ, "aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas, até então, pela jurisprudência do Superior Tribunal de Justiça" (Enunciado Administrativo n. 2).
+2. O acolhimento de recurso especial por violação ao art. 535 do CPC/1973 pressupõe a demonstração de que a Corte de origem, mesmo depois de provocada mediante embargos de declaração, deixou de sanar vício de integração contido em seu julgado, o que não ocorreu na espécie.
+3. Não é possível conhecer de recurso especial que invoca como violado dispositivo de lei federal que não possui comando normativo apto a infirmar a tese adotada pelo acórdão recorrido. Inteligência da Súmula 284 do STF.
+4. Agravo interno desprovido.
+(AgInt no AREsp 290.622/MG, de minha relatoria, Primeira Turma, julgado em 02/05/2017, DJe 20/06/2017.)
+Além disso, "(..) como a fundamentação supra é apta, por si só, para manter o decisum combatido e não houve contraposição recursal ao ponto, aplica-se na espécie, por analogia, o óbice da Súmula 283/STF: "É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles."" (REsp 1.666.566/RJ, Rel. Ministro HERMAN BENJAMIN, Segunda Turma, julgado em 06/06/2017, DJe 19/06/2017).
+Ante o exposto, com base no art. 255, § 4º, I, do RISTJ, NÃO CONHEÇO do recurso especial.
+Sem arbitramento de honorários recursais, pois o recurso especial se origina de agravo de instrumento.
+Publique-se. Intimem-se.
+ EMENTA
