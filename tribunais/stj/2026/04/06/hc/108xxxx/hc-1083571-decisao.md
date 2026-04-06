@@ -1,0 +1,65 @@
+DECISÃO
+Trata-se de habeas corpus substitutivo de recurso próprio, com pedido de liminar, impetrado em benefício de RONALDO SOUSA SILVA JUNIOR, em que se aponta como autoridade coatora o Tribunal de Justiça de São Paulo.
+Consta dos autos que o paciente foi condenado à pena de 7 anos de reclusão, em regime fechado, mais pagamento de 700 dias-multa, como incurso no art. 33, caput, c/c art. 40, III, ambos da Lei n. 11.343/2006.
+Em grau recursal, o Tribunal de origem deu parcial provimento ao apelo defensivo para reduzir pena do paciente, tornando-a definitiva em 6 anos, 9 meses e 20 dias de reclusão e 680 dias-multa.
+Essa condenação transitou em julgado.
+A defesa interpôs revisão criminal, a qual foi indeferida liminarmente pelo Presidente do Tribunal.
+Interposto agravo regimental, foi indeferido.
+Neste writ, o impetrante alega, em síntese, que o Tribunal de origem "partiu da premissa equivocada de que a segunda revisão criminal seria uma mera "reiteração" da primeira, o que a levou a aplicar, de forma completamente descabida, a vedação contida no artigo 622, parágrafo único, do Código de Processo Penal." (e-STJ, fl. 4).
+Afirma que a primeira revisão criminal a causa de pedir buscava a aplicação retroativa de um novo entendimento jurisprudencial firmado pelo Supremo Tribunal Federal no julgamento do RE nº 635.659/SP (Tema 506), tese era puramente de direito. Já a segunda ação revisional fundamentou-se em hipótese completamente diversa, prevista no artigo 621, inciso I, do Código de Processo Penal, desdobrando-se em duas teses independentes: contrariedade a evidência dos autos e contrariedade a texto expresso de lei.
+Requer a concessão da ordem, a fim de que se reconheça a nulidade do indeferimento da revisão criminal, determinando-se o processamento do feito.
+É o relatório.
+Decido.
+De acordo com o disposto no art. 105, inciso I, alínea c, da Constituição da República, compete ao Superior Tribunal de Justiça apreciar habeas corpus quando o ato impugnado emana de Tribunal sujeito à sua jurisdição. Em outras palavras, não se configura competência desta Corte para examinar habeas corpus impetrado contra decisão monocrática proferida por Desembargador, ausente manifestação colegiada da instância de origem.
+Cumpre destacar que, em respeito à arquitetura constitucional do Poder Judiciário e à lógica de funcionamento do sistema processual brasileiro, é imprescindível que as instâncias ordinárias se manifestem previamente sobre a controvérsia. Somente após essa deliberação é que se abre a via para atuação do Superior Tribunal de Justiça. Nesse sentido, revela-se incabível o conhecimento do presente habeas corpus, uma vez que o ato apontado como coator consiste em decisão singular, não submetida à apreciação colegiada pela Corte originária.
+Nesse sentido:
+DIREITO PROCESSUAL PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. ATO QUESTIONADO. DECISÃO MONOCRÁTICA DO TRIBUNAL DE JUSTIÇA . NÃO EXAURIMENTO DE INSTÂNCIA. AGRAVO DESPROVIDO.
+I. Caso em exame
+1. Agravo regimental interposto contra decisão da Presidência do STJ que indeferiu liminarmente o habeas corpus, impetrado contra decisão monocrática de Desembargador do Tribunal de Justiça, sem deliberação colegiada.
+2. A defesa pleiteia a aplicação do tráfico privilegiado no patamar máximo e o abrandamento do regime prisional.
+II. Questão em discussão
+3. A questão em discussão consiste em verificar se a impetração de habeas corpus contra decisão monocrática de Desembargador pode ser conhecida pelo Superior Tribunal de Justiça (STJ) sem o exaurimento das instâncias ordinárias.
+III. Razões de decidir
+4. O Superior Tribunal de Justiça somente pode examinar habeas corpus contra decisões proferidas por Tribunais em única ou última instância, conforme o art. 105, inciso II, alínea c, da Constituição Federal, o que pressupõe a manifestação de um órgão colegiado.
+5. A impetração de habeas corpus contra decisão monocrática, sem a interposição de agravo regimental, configura falta de exaurimento das instâncias ordinárias, inviabilizando o conhecimento da ação pelo STJ.
+IV. Dispositivo e tese
+6. Agravo desprovido.
+Tese de julgamento: "1. O STJ não pode conhecer habeas corpus contra decisão monocrática de Desembargador sem exaurimento das instâncias ordinárias. 2. A manifestação de um órgão colegiado é necessária para o conhecimento do habeas corpus pelo STJ."
+Dispositivos relevantes citados: CR/1988, art. 105, II, "c".
+Jurisprudência relevante citada: STJ, HC 932.678/SP, Rel. Min. Daniela Teixeira, Quinta Turma, julgado em 15.10.2024. (AgRg no HC n. 967.072/SP, de minha relatoria, Quinta Turma, julgado em 26/2/2025, DJEN de 7/3/2025.)
+PROCESSUAL PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. DECISÃO MONOCRÁTICA DE DESEMBARGADOR. NÃO EXAURIMENTO DA INSTÂNCIA ORDINÁRIA. AUSÊNCIA DE FLAGRANTE ILEGALIDADE. TRÁFICO DE DROGAS. AGRAVO IMPROVIDO.
+1. Impetrado o habeas corpus contra decisão monocrática de desembargador, constata-se a ausência de deliberação colegiada que pudesse estabelecer a competência do Superior Tribunal de Justiça.
+2. O não exaurimento da instância de origem impõe o não conhecimento da impetração, impossibilitando a análise do pedido por este Tribunal Superior, conforme precedentes.
+3. Inexistência de flagrante ilegalidade que autorize a concessão da ordem de ofício, pois o decreto de prisão domiciliar considerou o fracionamento das drogas (divididas em pedras e embrulhos), sua natureza (crack e maconha), bem como a quantia em espécie apreendida.
+4. Agravo regimental improvido. (AgRg no HC n. 957.928/PB, relator Ministro Og Fernandes, Sexta Turma, julgado em 19/2/2025, DJEN de 24/2/2025.)
+De mais a mais, a decisão monocrática registrou que o ora paciente já havia ajuizado outra revisão criminal, que fora indeferida. Destacou, ainda, que "do cotejo entre a revisão criminal anterior (autos nº nº 2015268-89.2025.8.26.0000) e a presente, não se verifica nenhuma diferença substancial entre as questões postas. Vale dizer, o requerente se utiliza da presente ação como se nova apelação fosse, devolvendo, de forma ampla, matérias já exaustivamente apreciadas por este E. Tribunal de Justiça." (e-STJ, fl. 12).
+Com efeito, não se admite que a revisão criminal voltada unicamente ao reexame de fatos e provas, como se fosse uma nova apelação. Para que se justifique sua propositura, é imprescindível a demonstração de afronta ao texto expresso da lei penal ou à evidência incontestável dos autos, conforme estabelece o art. 621, inciso I, do Código de Processo Penal. Isto é, a revisão criminal não é cabível para reexame de fatos e provas já analisados, sem demonstração de contrariedade ao texto expresso da lei penal ou às evidências dos autos
+A propósito:
+DIREITO PROCESSUAL PENAL. AGRAVO REGIMENTAL EM HABEAS CORPUS. DECISÃO MONOCRÁTICA QUE INDEFERIU PEDIDO REVISIONAL. AUSÊNCIA DE ESGOTAMENTO DAS VIAS ORDINÁRIAS. NÃO CONHECIMENTO DO RECURSO EM HABEAS CORPUS.
+I. CASO EM EXAME
+1. Agravo regimental interposto contra decisão monocrática que indeferiu pedido revisional em habeas corpus impetrado em favor de condenado a 36 anos e 2 meses de reclusão por homicídio qualificado e tentativa de homicídio. A defesa alega ausência de provas concretas que vinculem o paciente à autoria dos crimes, questiona a imparcialidade do julgamento devido ao uso de uniforme prisional e contesta a dosimetria da pena. Requer o retorno do processo ao Tribunal de Justiça para análise colegiada ou, subsidiariamente, a absolvição, um novo julgamento pelo Tribunal do Júri ou o redimensionamento da pena.
+II. QUESTÃO EM DISCUSSÃO
+2. Há duas questões em discussão: (i) definir se o habeas corpus poderia ser conhecido pelo Superior Tribunal de Justiça em razão do pedido revisional ter sido decidido monocraticamente na instância inferior, sem esgotamento das vias recursais; e (ii) estabelecer se o pedido revisional da defesa constitui revisão criminal, configurando reexame de fatos e provas, hipótese vedada para a impetração de habeas corpus.
+III. RAZÕES DE DECIDIR
+3. O conhecimento do recurso em habeas corpus é inviabilizado pela ausência de deliberação colegiada na instância inferior, visto que o pedido revisional foi decidido monocraticamente pelo Desembargador relator, não havendo exaurimento das instâncias ordinárias.
+4. Nos termos da jurisprudência do Superior Tribunal de Justiça, a revisão criminal não se presta ao mero reexame de fatos e provas, sendo cabível somente quando há contrariedade ao texto expresso da lei penal ou à evidência dos autos, conforme disposto no art. 621, I, do CPP.
+5. A reanálise do acervo fático-probatório dos autos é imprescindível para acolher as pretensões da defesa, o que extrapola os limites do habeas corpus, instrumento destinado ao controle de legalidade e não à revisão de provas. IV. DISPOSITIVO E TESE
+6. Agravo regimental desprovido. (AgRg no HC n. 949.042/SP, relatora Ministra Daniela Teixeira, Quinta Turma, julgado em 4/12/2024, DJEN de 9/12/2024.)
+PROCESSUAL PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. REVISÃO CRIMINAL. SUPERVENIÊNCIA DE JULGAMENTO COLEGIADO. MANUTENÇÃO DO NÃO CONHECIMENTO DO PEDIDO REVISIONAL. TRÂNSITO EM JULGADO. IMUTABILIDADE DAS DECISÕES. IMPOSSIBILIDADE DE REEXAME FÁTICO-PROBATÓRIO. RETROATIVIDADE DE ENTENDIMENTO JURISPRUDENCIAL. INADMISSIBILIDADE. AGRAVO REGIMENTAL IMPROVIDO.
+1. A superveniência de decisão colegiada no julgamento do agravo interno interposto na revisão criminal afasta a alegação de afronta ao princípio da colegialidade.
+2. Todavia, subsiste o óbice ao conhecimento do habeas corpus, pois não é possível utilizar-se da revisão criminal como nova apelação, objetivando apenas o reexame de fatos e provas, sem que se verifique hipótese de contrariedade ao texto expresso da lei penal ou à evidência dos autos, consoante previsão do art. 621, I, do CPP.
+3. A jurisprudência do Superior Tribunal de Justiça firmou o entendimento de que não se admite a aplicação retroativa de nova interpretação jurisprudencial a processos cujo trânsito em julgado tenha ocorrido anteriormente à mudança de entendimento.
+4. Inexistente demonstração inequívoca de erro judiciário ou manifesta ilegalidade a autorizar a concessão da ordem de ofício.
+5. Agravo regimental improvido. (AgRg no HC n. 987.445/SP, relator Ministro Og Fernandes, Sexta Turma, julgado em 13/5/2025, DJEN de 20/5/2025.)
+Além disso, a revisão criminal exige, como condição inafastável, que a condenação esteja em evidente desacordo com a prova dos autos ou em manifesta violação à norma penal. Trata-se de um ônus que recai sobre o requerente, incumbido de demonstrar, de forma clara e inequívoca, que o juízo condenatório afronta diretamente os elementos probatórios ou o ordenamento jurídico.
+A esse respeito:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. PROCESSUAL PENAL. PETIÇÃO INICIAL IMPETRADA CONTRA INDEFERIMENTO DE PEDIDO LIMINAR EM REVISÃO CRIMINAL MANEJADA NA ORIGEM, CUJO MÉRITO AINDA NÃO FOI JULGADO. SUPRESSÃO DE INSTÂNCIA. PATENTE CONSTRANGIMENTO ILEGAL NÃO DEMONSTRADO. IMPOSSIBILIDADE DE SUPERAÇÃO DO ÓBICE PROCESSUAL REFERIDO NA SÚMULA N. 691 DO SUPREMO TRIBUNAL FEDERAL, MUTATIS MUTANDIS. PRECEDENTES. PETIÇÃO INICIAL LIMINARMENTE INDEFERIDA. AGRAVO REGIMENTAL DESPROVIDO.
+1. Não se admite habeas corpus contra decisão indeferitória de liminar proferida em revisão criminal em trâmite na instância de origem (por forçar o pronunciamento adiantado da Instância Superior e suprimir a jurisdição da Inferior, em subversão à regular ordem de competências constitucionais), salvo nas hipóteses em que se evidenciar situação desprovida de razoabilidade - o que não ocorre na espécie, sobretudo considerando ser cediço que a ação revisional não possui efeito suspensivo.
+2. E não há manifesta ilegalidade que autorize o afastamento da aplicação do óbice acima referido, visto que a prisão do Agravante decorre de sentença definitiva, confirmada em segundo grau de jurisdição, na qual este foi condenado após ampla produção probatória. Assim, atualmente, a prova colhida durante todo o trâmite processual permanece válida e apta a ensejar o édito condenatório e, consequentemente, a prisão penal do Agente.
+3. Em sede de revisão criminal contra sentença criminal condenatória, predominam os princípios do in dubio pro societate e in dubio pro judicato, ou seja, na dúvida, prevalecerá o julgado definitivo em favor da sociedade. Nessa perspectiva, não há como reconhecer patente ilegalidade na conclusão da decisão impugnada.
+4. Conforme entendimento da Terceira Seção do Superior Tribunal de Justiça, "a liminar em Revisão Criminal com base em violação a texto expresso de lei constitui medida excepcional, somente se justificando quando a ofensa se mostre aberrante, cristalina, em respeito à segurança jurídica decorrente da coisa julgada" (AgRg na RvCr 5.560/DF, Rel. Ministro FELIX FISCHER, julgado em 24/02/2021, DJe 02/03/2021).
+5. Agravo regimental desprovido. (AgRg no HC n. 777.702/SP, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 25/4/2023, DJe de 3/5/2023.)
+Ante o exposto, não conheço do habeas corpus.
+Cientifique-se o Ministério Público Federal.
+Publique-se. Intimem-se.
+EMENTA
