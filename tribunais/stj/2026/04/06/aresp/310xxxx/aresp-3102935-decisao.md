@@ -1,0 +1,42 @@
+DECISÃO
+Cuida-se de agravo interposto por BANCO SANTANDER (BRASIL) S.A. contra decisão que obstou a subida de recurso especial.
+Extrai-se dos autos que a parte agravante interpôs recurso especial, com fundamento no art. 105, III, "a", da Constituição Federal, contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO cuja ementa guarda os seguintes termos:
+"AGRAVO DE INSTRUMENTO. CUMPRIMENTO DE SENTENÇA. Determinação para intimação de pagamento da multa por descumprimento da obrigação de fazer. Insurgência recursal da executada. Não convencimento. Descumprimento confesso da obrigação da fazer malgrado as inúmeras intimações para tanto e o envio da documentação necessária pela exequente. Astreintes que possuem natureza inibitória, fixadas para o caso de descumprimento do comando judicial. Necessidade de observância aos princípios da razoabilidade, proporcionalidade e vedação do enriquecimento sem causa. Caso concreto no qual, inexistente benefício econômico vultoso e enriquecimento sem causa à parte contrária, encontra-se adequada a multa arbitrada. Decisão mantida. RECURSO IMPROVIDO."
+Rejeitados os embargos de declaração opostos.
+No recurso especial, a parte recorrente alega negativa de prestação jurisdicional e ausência de fundamentação específica, afirmando que o acórdão manteve astreintes sem enfrentar argumentos e fatos relevantes, em violação dos arts. 489, §1º, IV, 537, §1º, 5º, 6º e 8º do Código de Processo Civil e ao art. 93, IX, da Constituição Federal.
+Aponta omissões não supridas nos embargos de declaração e requer o reconhecimento do prequestionamento ficto, com fundamento nos arts. 1.022 e 1.025 do CPC e na Súmula n. 98/STJ.
+Afirma que houve fato superveniente (quitação e transferência do veículo em 2/4/2024) que tornou inexigível a obrigação de fazer, impondo a revogação ou redução da multa nos termos do art. 537, §1º, do CPC; e que a imposição da penalidade desconsiderou sua conduta diligente e colaborativa, contrariando os arts. 5º, 6º e 8º do CPC.
+Não foram oferecidas contrarrazões.
+Sobreveio juízo de admissibilidade negativo na instância de origem, o que ensejou a interposição do presente agravo.
+Não apresentada contraminuta do agravo.
+É, no essencial, o relatório.
+Atendidos os pressupostos de admissibilidade do agravo, passo ao exame do recurso especial.
+Inicialmente, em relação à ofensa aos arts. 489 e 1.022 do CPC, a controvérsia foi solucionada com a aplicação do direito que os julgadores entenderam cabível à hipótese. Foram indicados, de maneira clara e fundamentada, os motivos que formaram a sua convicção acerca da manutenção da multa coercitiva, bem como as razões para afastar a alegação de inexequibilidade superveniente da obrigação, ainda que de maneira contrária aos interesses da parte.
+Ressalta-se que cabe ao julgador apreciar os fatos e as provas da demanda segundo seu livre convencimento, declarando, ainda que de forma sucinta, os fundamentos que o levaram a solucionar a lide.
+Desse modo, o não acolhimento das teses ventiladas pela parte recorrente não significa omissão ou deficiência de fundamentação da decisão, ainda mais quando o aresto aborda todos os pontos relevantes da controvérsia, como na espécie.
+Quanto às alegações de mérito, a conclusão pela violação aos dispositivos de lei indicados como violados pressupõe refazer o juízo probatório sobre a ocorrência de descumprimento da obrigação, a colaboração processual e a proporcionalidade da multa, providência inviável nesta sede, à luz da Súmula n. 7/STJ.
+Com efeito, assim assentou o acórdão recorrido:
+O cumprimento de sentença de origem deriva do arrolamento sumário, processo nº 1001417-78.2021.8.26.0666 dos bens deixados pelo falecido M. C., dentre eles, um veículo financiado junto à instituição bancária, ora agravante.
+Com a homologação da partilha consensual, foi expedido alvará judicial para que fosse feita a transferência da dívida e do veículo em nome da herdeira inventariante. Nada obstante as inúmeras intimações, desde a fase de conhecimento, em que concedida a medida, além das ocorridas no incidente do cumprimento de sentença de origem, processo nº 0001154-29.2022.8.26.0666, a instituição financeira executada não atendeu, como lhe incumbia, o comando judicial, mantendo-se inerte com relação à transferência da dívida e do veículo.
+Chegou a executada agravante inclusive a apontar a impossibilidade de cumprimento da obrigação em razão da suposta inércia da exequente em encaminhar a documentação necessária o que, contudo, foi rechaçado pela documentação apresentada às fls. 118/120 e ss., que atesta que a exequente providenciou tudo que lhe fora solicitado.
+Decorridos dois anos desde a emissão da ordem, agora com a quitação da dívida e a transferência realizada pela própria interessada, pretende a executada se eximir de sua responsabilidade.
+Porém, como já observado, ao contrário do que acintosamente afirma nas razões do presente recurso, a agravante de fato negligenciou e se omitiu com relação à obrigação que lhe fora imposta, o que resulta na incidência da multa coercitiva imposta.
+(..)
+Para tanto, não se pode deixar de notar critérios como a efetividade da tutela judicial, o valor da obrigação principal, o tempo de cumprimento e a capacidade econômica e de resistência da devedora.
+Tudo isso sopesado no caso concreto entendo não há nenhum tipo de desproporção em seu arbitramento, ressalvado, em contrário, a absoluta inércia e descaso por parte da agravante.
+De toda sorte, bastaria o cumprimento à ordem judicial para não incorrer em seu pagamento, observado ainda ser absolutamente condizente com sua capacidade econômica.
+Assim, embora seja, em tese, possível a revisão, o caso em exame não comporta nem o pedido de seu afastamento, já que preclusa a discussão com relação ao cabimento ou não da tutela de urgência, nem de sua redução, frente à inviabilidade da quantia executada representar enriquecimento sem causa ao exequente.
+Finalmente, ao manter manter astreintes em razão da comprovada inércia da executada e da suficiência da documentação apresentada pela exequente e afirmar a natureza inibitória da multa, sua desvinculação da obrigação principal e a possibilidade de revisão apenas quando presentes desproporção ou enriquecimento sem causa, ausentes no caso, o Tribunal a quo decidiu em consonância com a orientação jurisprudencial desta Corte.
+A propósito, cito:
+PROCESSUAL CIVIL. EMBARGOS DE DIVERGÊNCIA EM AGRAVO EM RECURSO ESPECIAL. CABIMENTO. MÉRITO ANALISADO. VALOR ACUMULADO DAS ASTREINTES. REVISÃO A QUALQUER TEMPO. POSSIBILIDADE. CLÁUSULA REBUS SIC STANTIBUS. AUSÊNCIA DE PRECLUSÃO OU FORMAÇÃO DE COISA JULGADA. EXORBITÂNCIA CONFIGURADA. REVISÃO. EMBARGOS DE DIVERGÊNCIA CONHECIDOS E PROVIDOS.
+1. É dispensável a exata similitude fática entre os acórdãos paragonados, em se tratando de embargos de divergência que tragam debate acerca de interpretação de regra de direito processual, bastando o indispensável dissenso a respeito da solução da mesma questão de mérito de natureza processual controvertida.
+2. O valor das astreintes, previstas no art. 461, caput e §§ 1º a 6º, do Código de Processo Civil de 1973, correspondente aos arts. 497, caput, 499, 500, 536, caput e § 1º, e 537, § 1º, do Código de Processo Civil de 2015, pode ser revisto a qualquer tempo (CPC/1973, art. 461, § 6º; CPC/2015, art. 537, § 1º), pois é estabelecido sob a cláusula rebus sic stantibus, e não enseja preclusão ou formação de coisa julgada.
+3. Assim, sempre que o valor acumulado da multa devida à parte destinatária tornar-se irrisório ou exorbitante ou desnecessário, poderá o órgão julgador modificá-lo, até mesmo de ofício, adequando-o a patamar condizente com a finalidade da medida no caso concreto, ainda que sobre a quantia estabelecida já tenha havido explícita manifestação, mesmo que o feito esteja em fase de execução ou cumprimento de sentença.
+4. Embargos de divergência conhecidos e providos, para reduzir o valor total das astreintes, restabelecendo-o conforme fixado pelo d.
+Juízo singular.
+(EAREsp n. 650.536/RJ, relator Ministro Raul Araújo, Corte Especial, julgado em 7/4/2021, DJe de 3/8/2021.)
+Incide, portanto, o óbice da Súmula 83/STJ.
+Ante o exposto, conheço do agravo para conhecer em parte do recurso especial e negar-lhe provimento.
+Deixo de majorar os honorários nos termos do art. 85, § 11, do CPC tendo em vista que o recurso especial foi interposto nos autos de agravo de instrumento.
+Publique-se. Intimem-se.
+ EMENTA
