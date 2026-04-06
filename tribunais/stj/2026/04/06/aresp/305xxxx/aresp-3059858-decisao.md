@@ -1,0 +1,58 @@
+DECISÃO
+Trata-se  de  agravo  de COMBIO ENERGIA S.A., objetivando admissão  de  recurso especial interposto  contra  acórdão  do Tribunal de Justiça do Maranhão assim  ementado (e-STJ fls. 224/225):
+Ementa: APELAÇÃO CÍVEL. MANDADO DE SEGURANÇA. TRANSFERÊNCIA DE CRÉDITOS PARA OS CASOS QUE NÃO SEJAM DE EXPORTAÇÃO. ART. 25, § 2º, DA LC 87/1996. NECESSIDADE DE LEI ESTADUAL PARA FIXAR AS CONDIÇÕES DE TRANSFERÊNCIA. AUSÊNCIA DE NORMATIZAÇÃO ESTADUAL. INEXISTÊNCIA DE DIREITO LÍQUIDO E CERTO. APELO PARCIALMENTE PROVIDO.
+I. CASO EM EXAME
+1. Apelação Cível interposta contra sentença que extinguiu, sem resolução do mérito, o mandado de segurança impetrado por Combio Energia S.A. contra ato do Gestor do Corpo Técnico para Ação Fiscal (COTAF) e do Gestor da Célula de Gestão e Ação Fiscal (CEGAF), por inadequação da via eleita.
+II. QUESTÃO EM DISCUSSÃO
+2. Direito líquido e certo do apelante de transferir a terceiros créditos de ICMS acumulados por operações realizadas no Estado do Maranhão.
+III. RAZÕES DE DECIDIR
+3. No caso do Estado do Maranhão, inexiste lei autorizando transferência de créditos acumulados de ICMS que não sejam aqueles decorrentes de operações de exportação. Desse modo, o impetrante não tem direito líquido e certo a promover tais transferências.
+IV. DISPOSITIVO E TESES
+4. Apelo provido em parte para reformar a sentença extintiva, e denegar a segurança.
+Tese de julgamento: "A ausência de legislação estadual que autorize a transferência de créditos acumulados de ICMS, que não sejam oriundos de operações de exportação, impede o reconhecimento de direito líquido e certo para tal transferência. A Lei Complementar 87/1996 estabelece que, para créditos não vinculados a exportações, a transferência depende de regulamentação estadual, e a falta dessa regulamentação impede a fruição do direito alegado."
+Dispositivos relevantes citados: LC 87/1996, art. 25, §§ 1º e 2º.
+Jurisprudências relevantes citadas: STJ, AgInt no RMS 67.441/ES, Rel. Min. Herman Benjamin, 2ª Turma, j. 17.06.2024; TJ-RS, AC 70084328715, Rel. Carlos Roberto Lofego Canibal, j. 13.11.2020, Publ. 23.11.2020.
+Opostos embargos de declaração, foram rejeitados em acórdão que recebeu a seguinte ementa (e-STJ fls. 284/286):
+Ementa: DIREITO TRIBUTÁRIO. EMBARGOS DE DECLARAÇÃO. ICMS. TRANSFERÊNCIA DE SALDO CREDOR. ALEGAÇÃO DE INCONSTITUCIONALIDADE. AUSÊNCIA DE OMISSÃO. REJEIÇÃO DO RECURSO.
+I. CASO EM EXAME
+1. Embargos de declaração opostos contra acórdão que deu parcial provimento ao recurso de apelação, reformando a sentença extintiva e, no mérito, denegando a segurança pretendida. A embargante alega omissão no acórdão quanto à análise do argumento de inconstitucionalidade da restrição à transferência do saldo credor de ICMS, nos termos do art. 155, § 2º, I, da Constituição Federal, pleiteando o prequestionamento explícito da matéria.
+II. QUESTÃO EM DISCUSSÃO
+2. A questão em discussão consiste em verificar se há omissão no acórdão quanto à análise da alegada inconstitucionalidade da restrição à transferência de saldo credor de ICMS, nos termos do art. 155, § 2º, I, da Constituição Federal.
+III. RAZÕES DE DECIDIR
+3. O recurso de embargos de declaração visa sanar vícios de omissão, obscuridade, contradição ou erro material, não sendo cabível para rediscutir o mérito da decisão.
+4. O acórdão embargado analisou amplamente a controvérsia à luz do art. 25 da Lei Complementar 87/1996, concluindo que, na ausência de regulamentação estadual no Estado do Maranhão, não há direito líquido e certo à transferência de créditos de ICMS acumulados em operações diversas de exportação.
+5. O órgão julgador não está obrigado a se manifestar sobre todos os dispositivos legais mencionados pelas partes, bastando que analise os fundamentos essenciais ao deslinde da controvérsia.
+6. Conforme entendimento consolidado do Superior Tribunal de Justiça, os embargos de declaração não se prestam para reforma do julgado ou rediscussão da matéria (STJ, EDcl no AgInt nos EDcl no REsp n. 1.592.600/PR, Segunda Turma, rel. Min. Afrânio Vilela, j. 17/6/2024).
+IV. DISPOSITIVO E TESE
+7. Embargos de declaração rejeitados.
+Teses de julgamento: "1. Não há vício de omissão quando o órgão julgador analisa amplamente a controvérsia e apresenta fundamentação suficiente à resolução da demanda, sendo desnecessário se manifestar sobre todos os dispositivos legais indicados pelas partes. 2. Os embargos de declaração não se destinam à rediscussão do mérito ou à reforma do julgado."
+Dispositivos relevantes citados: CF/1988, art. 155, § 2º, I; Lei Complementar 87/1996, art. 25.
+Jurisprudência relevante citada: STJ, EDcl no AgInt nos EDcl no REsp n. 1.592.600/PR, rel. Min. Afrânio Vilela, Segunda Turma, j. 17/6/2024, DJe de 21/6/2024.
+No  especial,  com fundamento no art. 105, III, "a", da CF/88,  a  parte  alega  violação  dos arts. 489, §1º, IV, e 1.022, ambos do CPC, dos arts. 24 e 25 da Lei Complementar n. 87/1996 e dos arts. 97 e 99 do CTN.
+Em relação aos supostos vícios de fundamentação, sustenta que "em que pese o r. Acórdão ora recorrido tenha analisado o mérito da lide da perspectiva infraconstitucional, ou seja, quanto a alegação de ilegalidade da restrição por violação ao art. 25, §2º, da Lei Complementar 87/1997, quedou-se omisso em relação aos argumentos de teor constitucional, quais sejam, a inconstitucionalidade da restrição a transferência do saldo credor de ICMS, em violação ao art. 155, § 2º, I, da Constituição Federal" (e-STJ fl. 310).
+Quanto ao mérito da discussão travada nos autos, defende que, na interpretação do art. 25, §2º, da Lei Complementar n. 87/1996, "em não havendo  ..  no RICMS/MA e na Lei Estadual, nenhuma restrição vigente que obste a transferência de créditos, não se pode entender pela impossibilidade de ocorrência dessa transferência, mas sim pela sua possibilidade" (e-STJ fl. 315).
+Argumenta, ainda, que a lei estadual não poderia delegar para decreto "a estipulação das hipóteses de transferência, seja por ordem expressa da Lei Complementar, ou pela aplicação do art. 97, VI, do CTN", e que, ainda que fosse possível tal delegação, o regulamento, "nos exatos termos que dispõe o art. 99, do CTN, deverá respeitar os limites impostos pela Lei em função do qual foi criada" (e-STJ fls. 318/319).
+Oferecidas contrarrazões (e-STJ fls. 355/381).
+A Vice-Presidência do TJMA inadmitiu o apelo nobre (e-STJ fls. 405/412).
+Interposto agravo (art. 1.042 do CPC) às fls. e-STJ 413/432.
+Apresentada contraminuta (e-STJ fls. 446/470).
+Passo a decidir.
+Aos  recursos  interpostos  com  fundamento  no  CPC/1973  (relativos  a  decisões  publicadas  até  17  de  março  de  2016)  devem  ser  exigidos  os  requisitos  de  admissibilidade  na  forma  nele  prevista,  com  as  interpretações  dadas  até  então  pela  jurisprudência  do  Superior  Tribunal  de  Justiça  (Enunciado  Administrativo  n.  2  do  Plenário  do  STJ).
+Aos  recursos  interpostos  com  fundamento  no  CPC/2015  (relativos  a  decisões  publicadas  a  partir  de  18  de  março  de  2016)  serão  exigidos  os  requisitos  de  admissibilidade  recursal  na  forma  do  novo  CPC  (Enunciado  n.  3  do  Plenário  do  STJ).
+Entendo não  estarem  preenchidos  os  pressupostos  para  o  conhecimento  do  agravo.
+Não deve ser conhecido o agravo que não ataque, especificamente, todos os fundamentos da decisão agravada, nos termos do art. 932, III, do CPC e do art. 253, parágrafo único, I, do RISTJ. Confira-se o teor dos dispositivos citados:
+Art. 932. Incumbe ao relator:
+ ..
+III - não conhecer de recurso inadmissível, prejudicado ou que não tenha impugnado especificamente os fundamentos da decisão recorrida;
+Art. 253. O agravo interposto de decisão que não admitiu o recurso especial obedecerá, no Tribunal de origem, às normas da legislação processual vigente. (Redação dada pela Emenda Regimental n. 16, de 2014)
+Parágrafo único. Distribuído o agravo e ouvido, se necessário, o Ministério Público no prazo de cinco dias, o relator poderá: (Redação dada pela Emenda Regimental n. 16, de 2014)
+I - não conhecer do agravo inadmissível, prejudicado ou daquele que não tenha impugnado especificamente todos os fundamentos da decisão recorrida;  ..
+A Corte Especial do Superior Tribunal de Justiça, no julgamento dos Embargos de Divergência em Agravo em Recurso Especial 701404/SC, 746775/PR e 831326/SP, decidiu pela necessidade de a parte agravante impugnar, categoricamente, todos os fundamentos adotados pela decisão a quo, autônomos ou não, para justificar a inadmissão do recurso especial, sob pena de seu recurso não ser conhecido.
+No caso concreto, o TJMA inadmitiu o apelo nobre com base nos seguintes fundamentos: (i) "o colegiado decidiu a questão em acórdão suficientemente fundamentado, não havendo, pois, indícios mínimos de ofensa aos arts. 489, § 1º, IV, e 1.022, do CPC" (e-STJ fl. 406); (ii) "em relação à suposta ofensa aos arts. 97 e 99 do CTN, observa-se a ausência de prequestionamento no acórdão recorrido, o que inviabiliza o conhecimento do recurso nesse ponto, conforme as Súmulas 282 e 356 do STF" (e-STJ fl. 407); (iii) "o acórdão recorrido está em consonância com o entendimento do STJ, no sentido de que "  a ausência de lei estadual fixando as condições para transferência dos créditos acumulados de ICMS em hipótese que não se enquadra entre aquelas decorrentes de operação de exportação (art. 25, § 2º, da LC 87/1996) impede a fruição do direito, uma vez que "A LC 87/96 estabeleceu no art. 25 duas hipóteses de transferência de crédito acumulado do ICMS. No § 1º, os créditos oriundos de operações de exploração de matéria-prima ou produtos industrializados, como previsto no art. 3º inciso II. No § 2º, delegou ao legislador estadual a escolha das hipóteses, quando pretendesse o contribuinte transferir o seu crédito a terceiro" (RMS 13544, relatora Ministra Eliana Calmon, Segunda Turma, DJ de 2/6/2003, p. 229, grifamos)" (AgInt no RMS 67441/ES, relator Ministro Herman Benjamin, Segunda Turma, julgado em 21/5/2024, DJe de 17/6/2024)" (e-STJ fl. 407).
+Ao examinar o agravo, observo que a parte não impugnou, especificamente, o fundamento decisório segundo o qual o acórdão de origem se encontra em conformidade com a jurisprudência do Superior Tribunal de Justiça.
+Em observância ao princípio da dialeticidade, a impugnação deve ser feita, nas razões do agravo em recurso especial, de forma específica, concreta, pormenorizada e relativamente a todos os fundamentos adotados pela decisão a quo, trazendo argumentos capazes de demonstrar o seu desacerto.
+Nesse contexto, vem entendendo esta Corte que, "se a inadmissão teve amparo no óbice descrito na Súmula 83/STJ, deve a parte apontar precedentes deste Tribunal contemporâneos ou supervenientes aos mencionados na decisão agravada, procedendo ao cotejo analítico entre eles para demonstrar que outra é a orientação jurisprudencial nesta Corte Superior ou, na hipótese de distinção dos casos, comprovar a inaplicação ao feito do posicionamento exposto no decisum" (AgInt no AREsp 1723249/PR, Rel. Ministro Og Fernandes, Segunda Turma, julgado em 22/6/2021, DJe 28/6/2021), o que não ocorreu.
+Com efeito, no tópico referente ao suposto direito à transferência de crédito acumulado de ICMS, fora da cadeia de exportação, e à míngua de autorização por lei estadual, o agravo se limita a citar dois acórdãos desta Corte, ambos anteriores àquele mencionado na decisão agravada: REsp 1215574/ES, DJe de 18/12/2013, e RMS 18 835/MT, DJ de 6/3/2006. Ademais, não se buscou demonstrar que os julgados mencionados no recurso dizem respeito à mesma discussão dos presentes autos.
+Ante o exposto, com base no art. 253, parágrafo único, I, do RISTJ, NÃO CONHEÇO do agravo em recurso especial.
+Publique-se. Intimem-se.
+EMENTA
