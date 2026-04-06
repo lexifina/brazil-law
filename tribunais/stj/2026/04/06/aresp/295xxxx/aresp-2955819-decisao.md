@@ -1,0 +1,54 @@
+DECISÃO
+Trata-se de agravo interposto da decisão que inadmitiu o recurso especial no qual JOSE GOMES DE LIMA IRMAO se insurgira, com fundamento no art. 105, inciso III, alíneas a e c, da Constituição Federal, contra o acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DA PARAÍBA assim ementado (fl. 258):
+AGRAVO INTERNO EM APELAÇÃO. PEDIDO DE JUSTIÇA GRATUITA. PESSOA FÍSICA. INTIMAÇÃO PARA APRESENTAÇÃO DA DOCUMENTAÇÃO OU RECOLHIMENTO DAS CUSTAS. NÃO CUMPRIMENTO DA DETERMINAÇÃO. APLICAÇÃO DO ARTIGO 932, III, E ART. 1007, DO CÓDIGO DE PROCESSO CIVIL. DESERÇÃO CONFIGURADA. RECURSO APELATÓRIO NÃO CONHECIDO. DESPROVIMENTO DO AGRAVO INTERNO.
+- Tendo sido ofertada ao autor as opções de juntar a documentação apta a demonstrar a gratuidade judiciária ou recolher o preparo, a inércia da parte importa em deserção do recurso. Ademais, anote-se que a regra do art. 1007, § 4º, do CPC, aplica-se quando a parte apresenta a documentação e o magistrado, diante daquelas provas, indefere a gratuidade judiciária. No caso, reitere-se, o recorrente nem apresentou a documentação, tampouco recolheu o preparo, deixando transcorrer o prazo sem qualquer manifestação, ensejando a situação posta nos autos.
+Não foram opostos embargos de declaração.
+O recurso não foi admitido (fls. 289/291), razão pela qual foi interposto o agravo ora examinado.
+Em suas razões, a parte agravante requereu o conhecimento do agravo a fim de que fosse determinado o processamento do recurso especial.
+A parte adversa apresentou contraminuta (fls. 309/312 ).
+É o relatório.
+Da irresignação não é possível conhecer visto que a parte agravante não refutou adequadamente a decisão agravada.
+O Tribunal de origem inadmitiu o recurso especial com os seguintes fundamentos:
+(1) Inviabilidade de exame de violação constitucional em recurso especial, matéria afeta ao STF (fl. 289);
+(2) Incidência da Súmula 7/STJ, por exigir reexame fático-probatório quanto à hipossuficiência e à deserção (fl. 290);
+Nas razões do agravo em recurso especial, a parte recorrente sustenta, em síntese, o seguinte:
+(1) aplicação indevida da Súmula 7/STJ, por se tratar de questão "puramente de direito" (fls. 297/298);
+(2) violação ao art. 1.007, § 4º, do CPC (necessidade de intimação para preparo em dobro, ainda que superado o rito do art. 99, § 7º) (fls. 300/302);
+(3) reforço constitucional do art. 5º, XXXIV e XXXV da CF (acesso à justiça e direito de petição) (fls. 302/304);
+Verifico, de início, que o Tribunal de origem entendeu ser inviável admitir o recurso especial pelo fato de a discussão se tratar de matéria constitucional, afeta à competência do STF. Contudo, a parte agravante não impugnou esse fundamento. Assim, não é possível conhecer do agravo em recurso especial.
+Destaco, no mesmo sentido, a seguinte decisão:
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. DECISÃO DE ADMISSIBILIDADE. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS. MANUTENÇÃO DA DECISÃO QUE NÃO CONHECEU DO RECURSO. PROVIMENTO NEGADO.
+1. Para que o Superior Tribunal de Justiça (STJ) examine o recurso especial interposto, porém não admitido, é dever da parte recorrente, em seu agravo em recurso especial, desconstituir os fundamentos da decisão de admissibilidade, a qual não é formada por capítulos autônomos, mas por um único dispositivo.
+2. A falta de efetivo combate de um dos fundamentos da decisão que inadmitiu o recurso especial impede o conhecimento do respectivo agravo, segundo preceituam os arts. 932, inciso III, do Código de Processo Civil e 253, inciso I, do Regimento Interno do Superior Tribunal de Justiça.
+ ..
+4. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 2.406.165/RS, relator Ministro Paulo Sérgio Domingues, Primeira Turma, julgado em 2/3/2026, DJEN de 5/3/2026.)
+Além disso, na tentativa de afastar a aplicação da Súmula 7/STJ, a parte recorrente apresenta os seguintes argumentos (fls. 297/298):
+ ..  o pedido do recorrente não é para que lhe seja garantida a justiça gratuita, mas tão somente que lhe seja dada a oportunidade de pagar as custas após sua hipossuficiência não ter restado comprovada, haja vista que, ao revés da previsão do CPC, art. 99, §7º, o autor NÃO FOI INTIMADO para pagar as custas após a denegação da gratuidade.
+ ..
+O que se reclama neste caso é, justamente, o erro na aplicação da lei processual, já que cabia ao relator ter intimado o autor para pagamento das custas APÓS o indeferimento da gratuidade de justiça em 2o grau de jurisdição, nos termos
+do art. 99, § 7o, procedimento não observado nem pelo relator, nem pelo colegiado, nem pelo Presidente do TJPB.
+Observo, dessa forma, que a parte recorrente rebateu com fórmulas genéricas a aplicação da Súmula 7/STJ como óbice ao conhecimento do recurso especial, sem demonstrar a sua não incidência no caso concreto, pois não explicitou, com base no voto condutor do acórdão recorrido, quais aspectos fáticos incontroversos permitiriam o exame sem revolvimento probatório, como exige a jurisprudência desta Corte.
+A alegação de que o caso não demanda o reexame de fatos e de provas, ou a menção às razões expostas no recurso especial, não basta para infirmar a incidência da Súmula 7 do STJ.
+O entendimento deste Tribunal é o de que, para comprovar a inaplicabilidade do enunciado sumular em questão, a parte recorrente deve realizar o cotejo entre o acórdão recorrido e a tese recursal, o que não foi feito no presente caso.
+Nesse sentido, cito o seguinte julgado deste Tribunal:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RAZÕES DO AGRAVO QUE NÃO IMPUGNAM, ESPECIFICAMENTE, TODOS OS FUNDAMENTOS DA DECISÃO QUE NÃO ADMITIU O RECURSO ESPECIAL. ART. 932, III, DO CPC/2015 E SÚMULA 182/STJ, POR ANALOGIA. AGRAVO INTERNO NÃO PROVIDO.
+ ..
+II. Incumbe ao agravante infirmar, especificamente, todos os fundamentos da decisão que inadmitiu o Recurso Especial, demonstrando o seu desacerto, de modo a justificar o processamento do apelo nobre, sob pena de não ser conhecido o Agravo (art. 932, III, do CPC vigente). Nesse sentido: STJ, AgRg no AREsp 704.988/RS, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe de 10/09/2015; EDcl no AREsp 741.509/SP, Rel. Ministra REGINA HELENA COSTA, PRIMEIRA TURMA, DJe de 16/09/2015; AgInt no AREsp 888.667/RJ, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, DJe de 18/10/2016; AgInt no AREsp 895.205/PB, Rel. Ministro FRANCISCO FALCÃO, SEGUNDA TURMA, DJe de 20/10/2016.
+III. No caso, por simples cotejo entre o decidido e as razões do Agravo em Recurso Especial verifica-se a ausência de impugnação específica de todos os fundamentos da decisão que, em 2º Grau, inadmitira o Especial, o que atrai a aplicação do disposto no art. 932, III, do CPC/2015 - vigente à época da publicação da decisão então agravada e da interposição do recurso -, que faculta ao Relator "não conhecer de recurso inadmissível, prejudicado ou que não tenha impugnado especificamente os fundamentos da decisão recorrida", bem como do teor da Súmula 182 do Superior Tribunal de Justiça, por analogia.
+IV. Na forma da jurisprudência "não basta a assertiva genérica de que é desnecessária a análise de prova, ainda que seja feita breve menção à tese sustentada. É imprescindível o cotejo entre o acórdão combatido e a argumentação trazida no recurso especial que pudesse justificar o afastamento do citado óbice processual" (STJ, AgInt no AREsp 1.067.725/SP, Rel. Ministro OG FERNANDES, SEGUNDA TURMA, DJe de 20/10/2017).
+V. Agravo interno improvido.
+(AgInt no AREsp n. 1.223.898/SP, relatora Ministra Assusete Magalhães, Segunda Turma, julgado em 21/3/2018, DJe 27/3/2018, sem destaques no original.)
+O agravo em recurso especial tem por objetivo desconstituir a decisão de inadmissão de recurso especial e, por isso, é imprescindível a impugnação específica de todos os fundamentos nela lançados com o fim de demonstrar o seu desacerto, o que, com o se vê, não foi feito no presente caso.
+Por faltar impugnação pertinente, aplico ao presente caso, por analogia, a Súmula 182 do Superior Tribunal de Justiça, segundo a qual "é inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada".
+Sobre o tema:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RAZÕES DO AGRAVO QUE NÃO IMPUGNAM, ESPECIFICAMENTE, TODOS OS FUNDAMENTOS DA DECISÃO QUE NÃO ADMITIU O RECURSO ESPECIAL. ART. 932, III, DO CPC/2015 E SÚMULA 182/STJ, POR ANALOGIA. AGRAVO INTERNO NÃO PROVIDO.
+ ..
+II. Incumbe ao agravante infirmar, especificamente, todos os fundamentos da decisão que inadmitiu o Recurso Especial, demonstrando o seu desacerto, de modo a justificar o processamento do apelo nobre, sob pena de não ser conhecido o Agravo (art. 932, III, do CPC vigente). Nesse sentido: STJ, AgRg no AREsp 704.988/RS, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe de 10/09/2015; EDcl no AREsp 741.509/SP, Rel. Ministra REGINA HELENA COSTA, PRIMEIRA TURMA, DJe de 16/09/2015; AgInt no AREsp 888.667/RJ, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, DJe de 18/10/2016; AgInt no AREsp 895.205/PB, Rel. Ministro FRANCISCO FALCÃO, SEGUNDA TURMA, DJe de 20/10/2016; AgInt no AREsp 800.320/MG, Rel. Ministro OG FERNANDES, SEGUNDA TURMA, DJe de 13/10/2016; EAREsp 701.404/SC, Rel. Ministro JOÃO OTÁVIO DE NORONHA, Rel. p/ acórdão Ministro LUIS FELIPE SALOMÃO, CORTE ESPECIAL, DJe de 30/11/2018; EAREsp 831.326/SP, Rel. Ministro JOÃO OTÁVIO DE NORONHA, Rel. p/ acórdão Ministro LUIS FELIPE SALOMÃO, CORTE ESPECIAL, DJe de 30/11/2018; EAREsp 746.775/PR, Rel. Ministro JOÃO OTÁVIO DE NORONHA, Rel. p/ acórdão Ministro LUIS FELIPE SALOMÃO, CORTE ESPECIAL, DJe de 30/11/2018.
+III. No caso, por simples cotejo entre o decidido e as razões do Agravo em Recurso Especial verifica-se a ausência de impugnação específica de todos os fundamentos da decisão que, em 2º Grau, inadmitira o Especial, o que atrai a aplicação do disposto no art. 932, III, do CPC/2015 - vigente à época da publicação da decisão então agravada e da interposição do recurso -, que faculta ao Relator "não conhecer de recurso inadmissível, prejudicado ou que não tenha impugnado especificamente os fundamentos da decisão recorrida", bem como do teor da Súmula 182 do Superior Tribunal de Justiça, por analogia.
+IV. Agravo interno improvido.
+(AgInt no AREsp 1.503.814/MA, relatora Ministra Assusete Magalhães, Segunda Turma, julgado em 17/10/2019, DJe de 28/10/2019, sem destaque no original.)
+Ante o exposto, não conheço do agravo em recurso especial.
+Majoro em 10% (dez por cento), em desfavor da parte recorrente, o valor já arbitrado dos honorários sucumbenciais, nos termos do art. 85, § 11, do Código de Processo Civil, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º desse mesmo dispositivo, bem como os termos do art. 98, § 3º, desse diploma legal.
+Publique-se. Intimem-se.
+EMENTA
