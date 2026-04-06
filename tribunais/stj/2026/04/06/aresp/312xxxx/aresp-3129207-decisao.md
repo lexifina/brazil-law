@@ -1,0 +1,46 @@
+DECISÃO
+Trata-se de agravo interposto por CARLOS HENRIQUE ARAGÃO INDÚSTRIA E COMÉRCIO LTDA. contra decisão de inadmissão de seu recurso especial, que foi manejado, com respaldo na alínea "a" do permissivo constitucional, para impugnar acórdão do Tribunal Regional Federal da 1ª Região cuja ementa é a seguinte (e-STJ fl. 240):
+PROCESSUAL CIVIL. TRIBUTÁRIO. EMBARGOS À EXECUÇÃO FISCAL. CANCELAMENTO DE CERTIDÃO DE DÍVIDA ATIVA. EMBARGOS À EXECUÇÃO JÁ APRESENTADOS. HONORÁRIOS DEVIDOS. SÚMULA 153 DO STJ. CORRETA FIXAÇÃO DE HONORÁRIOS COM BASE NO ART. 20, § 4º, DO CPC.
+1. O Superior Tribunal de Justiça já pacificou o entendimento no sentido de que "A desistência da execução fiscal, após o oferecimento dos embargos, não exime o exequente dos encargos da sucumbência" (Súmula nº 150).
+2. Os honorários advocatícios são devidos quando a execução fiscal é extinta em razão da constatação de que crédito tributário encontrava-se submetido a parcelamento na esfera administrativa antes do ajuizamento da execução fiscal. Precedente do Superior Tribunal de Justiça.
+3. Tratando-se sentença proferida na vigência do Código de Processo Civil de 1973, os honorários advocatícios podem ser fixados consoante apreciação equitativa do juiz (art. 20, § 4º).
+4. Apelações não providas.
+Embargos de declaração rejeitados (e-STJ fls. 259/268).
+Em seu recurso especial, a parte indica a violação do art. 20, §§ 3º e 4º, do CPC/1973. Para tanto, argumenta, em síntese, o seguinte (e-STJ fls. 282/283):
+(..) os honorários fixados por meio da sentença equivalem a 0,2% do valor da execução fiscal e, portanto, revelam verdadeiro incentivo à conduta desidiosa da Fazenda Nacional.
+(..)
+Ao fixar os honorários advocatícios em míseros R$ 1.200,00 (mil e duzentos reais), em uma causa que gerou constrição de valores milionários à empresa, evidencia que o Juízo não atendeu aos parâmetros legais disciplinados no § 3º, do art. 20, do CPC/73, ou seja, não observou o grau de zelo do profissional, o trabalho executado pelo advogado, o tempo exigido para o seu serviço e, principalmente, a natureza e importância da causa.
+Requer, assim, a majoração da verba honorária para quinze por cento do valor dado à causa.
+Contrarrazões às e-STJ fls. 306/314.
+Recurso especial inadmitido, com base na Súmula 7/STJ (e-STJ fls. 315/316).
+Decisão de inadmissão agravada (e-STJ fls. 320/326).
+Sem contraminuta.
+Passo a decidir.
+A controvérsia recursal reside em saber se a fixação de honorários advocatícios de sucumbência, contra a Fazenda Pública, no valor de R$ 1.200,00 (mil e duzentos reais), em sede de embargos à execução fiscal nos quais a embargante atribuiu à causa o valor de 1.989.528,36 (um milhão novecentos e oitenta e nove mil quinhentos e vinte e oito reais e trinta e seis centavos), seria, ou não, irrisório, de modo a justificar, excepcionalmente, sua majoração via recurso especial.
+A resposta é negativa.
+Como se sabe, não é viável, em regra, no recurso especial, a revisão do juízo de equidade realizado pelo magistrado para fixação dos honorários advocatícios de sucumbência, nos termos do art. 20, § 4º, do CPC/1973. Isso porque tal investigação, além de exigir o reexame do histórico processual, notadamente para mensurar o trabalho realizado pelo advogado, não guarda relação direta com a legalidade da decisão atacada, mas, sim, com a percepção do julgador, que é de cunho estritamente subjetivo.
+Excepcionalmente, esta Corte Superior admite o apelo especial para reapreciar honorários advocatícios quando arbitrados de forma irrisória ou exorbitante. A razão é que, nesses casos, a violação da aludida norma processual exsurge de maneira flagrante, de modo a justificar a intervenção deste Sodalício como meio de preservar a aplicação da lei federal de regência.
+No caso dos autos, o Tribunal de origem fixou os honorários no valor de R$ 1.200,00.
+Como se vê, a quantia fixada a título de verba honorária não se mostra irrisória, guardando adequação ao êxito obtido pelo agravante, nos termos dos parâmetros previstos no art. 20, §§ 3º e 4º, do CPC/1973.
+Ademais, o arbitramento dos honorários em patamar inferior a 1% do valor da execução fiscal não caracteriza, per si, sua irrisoriedade, considerando o alto montante em execução e a permissão, na antiga lei processual civil, de que o juízo arbitrasse os honorários contra a Fazenda Pública de modo equitativo.
+Assim, não constatada a irrisoriedade ou a exorbitância na fixação dos honorários, afigura-se inviável, em recurso especial, a incursão na seara fático-probatória dos autos, em respeito ao óbice processual estampado na Súmula 7/STJ.
+Em casos análogos, as Turmas componentes da Primeira Seção do Superior Tribunal de Justiça adotaram o mesmo entendimento:
+PROCESSUAL CIVIL. HONORÁRIOS ADVOCATÍCIOS FIXADOS CONTRA A FAZENDA NACIONAL. EXECUÇÃO FISCAL. CANCELAMENTO DO DÉBITO. VALOR IRRISÓRIO. NÃO OCORRÊNCIA. REVISÃO. MATÉRIA FÁTICO-PROBATÓRIA. IMPOSSIBILIDADE. INCIDÊNCIA DA SÚMULA 7/STJ.
+1. A jurisprudência do STJ reconhece que os honorários advocatícios são passíveis de modificação na instância especial tão somente quando se mostrarem irrisórios ou exorbitantes, de modo a afastar o óbice da Súmula 7/STJ.
+2. Vencida a Fazenda Pública, a fixação dos honorários advocatícios não está adstrita aos limites percentuais de 10% e 20%, podendo ser adotado como base de cálculo o valor dado à causa ou à condenação, nos termos do art. 20, § 4º, do CPC, ou mesmo um valor fixo, segundo o critério de equidade.
+3. No caso dos autos, tem-se como pano de fundo uma Execução Fiscal, julgada extinta por Exceção de Pré-Executividade, ajuizada pela União Federal, que visava à cobrança de débitos de IRPJ e CSLL, que foram inscritos em Dívida Ativa.
+4. In casu, a ação foi proposta em maio de 2006 e, após a manifestação do executado, a Fazenda Nacional requereu a extinção Execução em abril de 2007.
+5. Para maior clareza, transcrevo a fundamentação presente na sentença, mantida por seus próprios fundamentos pelo Tribunal Regional Federal da 3ª Região: "A embargada/exequente promoveu contra o executado execução fiscal, objetivando o recebimento de crédito tributário no valor de R$ 7.857.526,23 (sete milhões, oitocentos e cinqüenta e sete mil, quinhentos e vinte e seis reais e vinte e três centavos) base maio de 2006. Após manifestação do executado a União requereu a extinção da execução fiscal (fls. 48/69). Como se vê, o fisco acabou reconhecendo o engano e determinou o cancelamento do lançamento do suposto crédito em cobrança judicial. Como conseqüência, sobreveio a sentença de extinção" (fls. 94-95, e-STJ).
+6. A revisão da verba honorária implica, como regra, reexame da matéria fático-probatória, o que é vedado em Recurso Especial (Súmula 7/STJ). Excepciona-se apenas a hipótese de valor irrisório ou exorbitante, o que não se configura neste caso. Nesse sentido, os seguintes precedentes do STJ: AgRg no AREsp 20.294/SP, Rel. Ministro Humberto Martins, Segunda Turma, DJe 14/10/2011; AgRg no Ag 1.181.959/SP, Rel. Ministro Mauro Campbell Marques, Segunda Turma, DJe 06/8/2010; REsp 947.233/RJ, Rel. Ministro Luiz Fux, Primeira Turma, DJe 10/8/2009; REsp 1.048.669/RJ, Rel. Ministro Teori Albino Zavascki, Primeira Turma, DJe 30/3/2009.
+7. Agravo Regimental não provido.
+(AgRg no AREsp 527.594/SP, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe de 28/11/2014).
+PROCESSUAL CIVIL. VIOLAÇÃO DO § 4º DO ART. 20, DO CPC. HONORÁRIOS ADVOCATÍCIOS FIXADOS COM EXCESSO. NOVA AFERIÇÃO NO ÂMBITO DO STJ. POSSIBILIDADE, SEM INFRINGÊNCIA DA SÚMULA 07/STJ.
+1. A jurisprudência do Superior Tribunal de Justiça, em hipóteses excepcionais, quando manifestamente evidenciado que o arbitramento da verba honorária se fez de modo irrisório ou excessivo, tem entendido cuidar-se de questão de direito e não de matéria fática, não incidindo, portanto, o óbice previsto na Súmula nº 07/STJ. Precedentes: Resp 502.152 - RS, Relatora Ministra DENISE ARRUDA, Primeira Turma, DJ de 24 de abril de 2006; AgRg no REsp 709.319 - CE, desta relatoria, Primeira Turma, DJ de 28 de abril de 2006; EREsp 494.377 - SP, Relator Ministro JOSÉ ARNALDO DA FONSECA, Corte Especial, DJ de 1º de julho de 2005).
+2. In casu, o Tribunal a quo, ao extinguir executivo fiscal por força de oposição de exceção de pré-executividade, fixou os honorários advocatícios em 5% sobre o valor da causa, que, à época da distribuição da execução fiscal, atingia o montante de R$ 2.681.302,28 (dois milhões, seiscentos e oitenta e um mil, trezentos e dois reais e vinte oito centavos), totalizando a quantia de R$ 134.065,11 (cento e trinta e quatro mil, sessenta e cinco reais e onze centavos), sem o acréscimo dos consectários legais.
+3. Deveras, a fixação dos honorários advocatícios no montante de R$ 134.065,11 (cento e trinta e quatro mil, sessenta e cinco reais e onze centavos) revela-se excessiva.
+4. Recurso Especial parcialmente provido.
+(REsp 766.505/SC, Rel. Ministro LUIZ FUX, PRIMEIRA TURMA, DJ 9/10/2006, p. 263).
+Ante o exposto, com base no art. 253, parágrafo único, II, "a", do RISTJ, CONHEÇO do agravo para NÃO CONHEC ER do recurso especial.
+Sem fixação de honorários recursais, porquanto a parte recorrente não foi condenada ao pagamento da verba honorária na origem.
+Publique-se. Intimem-se.
+EMENTA
