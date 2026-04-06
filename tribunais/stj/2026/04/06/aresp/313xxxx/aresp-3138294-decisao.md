@@ -1,0 +1,35 @@
+DECISÃO
+Examina-se agravo em recurso especial interposto por VALQUÍRIA RODRIGUES PIRES contra decisão que inadmitiu recurso especial fundamentado nas alíneas "a" e "c" do permissivo constitucional.
+Agravo em recurso especial interposto em: 15/10/2025.
+Concluso ao gabinete em: INFORMAÇÃO NÃO LOCALIZADA.
+Ação: de obrigação de fazer, ajuizada por VALQUÍRIA RODRIGUES PIRES, em face de NOTRE DAME INTERMÉDICA SAÚDE S/A, na qual requer fornecimento de atendimento médico-hospitalar por convênio para tratamento de bexiga neurogênica, com reativação do plano.
+Sentença: julgou improcedentes os pedidos.
+Acórdão: negou provimento ao recurso de apelação interposto por VALQUÍRIA RODRIGUES PIRES, nos termos da seguinte ementa:
+PLANO DE SAÚDE - Cancelamento de contrato - Improcedência decretada, com reconhecimento da prescrição -Descabimento - Prazo prescricional de 10 anos, consoante o disposto na regra geral contida no artigo 205 do Código de Processo Civil - Demonstração nos autos, no entanto, de que o contrato firmado com a ré e a empregadora do marido da autora foi rescindido em 2018, com migração da carteira de beneficiários para outra operadora, incluindo a autora - Apelante que, ademais, confirmou nestes autos que como estava coberta pelo novo convênio da empresa, "não fez questão da criação do plano individual, conforme fora determinado, pois a ré havia voltado a fornecer as sondas e o atendimento médico passou a ocorrer nas dependências da nova operadora" - Ilegitimidade passiva da ré configurada - Pretensão da autora que deve se voltar para a operadora do plano de saúde contratado pela ex-empregadora de seu marido quando de seu desligamento - Extinção do feito, sem análise do mérito que deve ser decretada, consoante o disposto no artigo 485, inciso VI, do CPC - Recurso desprovido. (e-STJ fl. 177)
+Embargos de Declaração: opostos por VALQUÍRIA RODRIGUES PIRES, foram rejeitados.
+Recurso especial: alega violação dos arts. 6º, III, e 7º, parágrafo único, do CDC, 27 do CDC, 189 do CC, e 1.022 e 489 do CPC, bem como dissídio jurisprudencial. Sustenta que o prazo prescricional tem início com a ciência inequívoca do erro médico constatado em laudo pericial, afastando a prescrição reconhecida. Aduz que incide a responsabilidade solidária da operadora e o dever de informação clara ao consumidor, reconhecendo a legitimidade para responder por fatos ocorridos na vigência do contrato. Argumenta que a pretensão reparatória segue prazo quinquenal contado do conhecimento do dano. Além da negativa de prestação jurisdicional, assevera que o acórdão desconsidera o princípio da congruência ao extinguir o processo por ilegitimidade passiva sem apreciar o mérito relativo ao erro médico.
+RELATADO O PROCESSO, DECIDE-SE.
+- Da violação do art. 1.022 do CPC
+Aplica-se, na hipótese, a Súmula 284/STF, uma vez que a parte recorrente alega violação do art. 1.022 do CPC, mas não especifica os incisos que teriam sido contrariados, o que evidencia a deficiência de sua fundamentação.
+Ademais, é importante salientar que a menção genérica ao artigo de lei supostamente violado sugere a interpretação de que a alegada violação se refere apenas ao seu caput, que serve meramente como introdução ao conjunto de normas estabelecidas nos seus incisos, parágrafos e alíneas. No mesmo sentido: AgInt no AgInt no AREsp n. 2.260.168/DF, Terceira Turma, DJe de 6/12/2023 e AgInt no AREsp n. 2.158.801/RJ, Quarta Turma, DJe de 6/11/2023.
+- Da ausência de prequestionamento
+O acórdão recorrido não decidiu acerca do art. 489 do CPC, indicado como violado, não tendo a parte agravante oposto embargos de declaração com vistas a suprir eventual omissão perpetrada pelo Tribunal de origem.
+Por isso, o julgamento do recurso especial é inadmissível. Aplica-se, na hipótese, a Súmula 282/STF.
+- Da fundamentação deficiente
+Os argumentos invocados pela parte agravante não demonstram como o acórdão recorrido violou os arts. 189 do CC, 27 do CDC, e 6º, III, e 7º, parágrafo único, do CDC, tendo em vista que não explicitam de forma específica e direta como esses dispositivos legais afastariam o fundamento determinante do acórdão  a ilegitimidade passiva reconhecida com base na migração da carteira e no atendimento por outra operadora (art. 485, VI, do CPC).
+Dessa forma, a ausência de argumentação específica que correlacione o conteúdo dos dispositivos legais apontados como violados aos fundamentos do acórdão recorrido compromete a exata compreensão da controvérsia, atraindo a aplicação da Súmula 284/STF. Nesse sentido: AgInt no AREsp 1.947.682/SP, Terceira Turma, DJe 20/12/2023; e AgInt no AREsp 2.138.858/SP, Quarta Turma, DJe 15/6/2023.
+- Da divergência jurisprudencial
+A comprovação da divergência jurisprudencial demanda que a parte recorrente realize uma análise comparativa detalhada entre o acórdão recorrido e o paradigma, de modo a identificar as semelhanças entre as situações de fato e a existência de interpretações jurídicas diferentes sobre o mesmo dispositivo legal, além de observar os requisitos formais, consoante previsão dos arts. 1.029, § 1º, do CPC, e 255, §§ 1º e 3º, do RISTJ.
+No entanto, neste recurso, não se constata a presença dos elementos essenciais necessários para comprovar a existência do dissídio, o que inviabiliza a análise da divergência jurisprudencial. Nesse sentido: AgInt no AREsp 2.396.088/PR, Terceira Turma, DJe de 22/11/2023, e AgInt no AREsp 2.334.899/SP, Quarta Turma, DJe de 7/12/2023.
+Forte nessas razões, CONHEÇO do agravo e, com fundamento no art. 932, III, do CPC, NÃO CONHEÇO do recurso especial.
+Nos termos do art. 85, § 11, do CPC, considerando o trabalho adicional imposto ao advogado da parte agravada em virtude da interposição deste recurso, majoro os honorários fixados anteriormente em 2% (dois por cento) sobre o valor da causa, observada eventual concessão da gratuidade de justiça.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar sua condenação às penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO DE OBRIGAÇÃO DE FAZER. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO INDICAÇÃO. SÚMULA 284/STF. PREQUESTIONAMENTO. AUSÊNCIA. SÚMULA 282/STF. FUNDAMENTAÇÃO. DEFICIENTE. SÚMULA 284/STF. DISSÍDIO JURISPRUDENCIAL. COTEJO ANALÍTICO E SIMILITUDE FÁTICA. AUSÊNCIA.
+1. Ação de obrigação de fazer.
+2. A parte recorrente alega violação do art. 1.022 do CPC, mas não especifica os incisos que teriam sido contrariados, o que evidencia a deficiência de sua fundamentação.
+3. A ausência de decisão acerca dos dispositivos legais indicados como violados impede o conhecimento do recurso especial.
+4. A ausência de fundamentação ou a sua deficiência importa no não conhecimento do recurso quanto ao tema.
+5. O dissídio jurisprudencial deve ser comprovado mediante o cotejo analítico entre acórdãos que versem sobre situações fáticas idênticas.
+6. Agravo conhecido. Recurso especial não conhecido.
