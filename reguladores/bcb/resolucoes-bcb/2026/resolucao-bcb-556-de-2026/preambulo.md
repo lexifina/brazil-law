@@ -1,0 +1,4 @@
+Resolução Nº 556 RESOLUÇÃO BCB Nº 556, DE 1º DE ABRIL DE 2026
+Altera a Circular nº 3.979, de 30 de janeiro de 2020, e a Resolução BCB nº 356, de 28 de novembro de 2023, para postergar a entrada em vigor de dispositivos referentes à base de dados de risco operacional e ao Multiplicador de Perdas Internas.
+A Diretoria Colegiada do Banco Central do Brasil, em sessão realizada em 1º de abril de 2026, com base nos arts. 9º, 10, caput, inciso IX, e 11, caput, inciso VII, da Lei nº 4.595, de 31 de dezembro de 1964, 9º, caput, inciso II, e 15 da Lei nº 12.865, de 9 de outubro de 2013, e 9º-A da Lei nº 4.728, de 14 de julho de 1965, e tendo em vista o disposto no art. 3º, § 2º, da Resolução CMN nº 4.958, de 21 de outubro de 2021, no art. 3º, § 2º, da Resolução BCB nº 200, de 11 de março de 2022, no art. 34 da Resolução nº 4.557, de 23 de fevereiro de 2017, e no art. 36 da Resolução BCB nº 265, de 25 de novembro de 2022,
+R E S O L V E :
