@@ -1,0 +1,22 @@
+DECISÃO
+Trata-se de agravo interposto por COMPANHIA PAULISTA DE FORCA E LUZ contra decisão do TRIBUNAL REGIONAL FEDERAL DA 3ª REGIÃO, que não admitiu recurso especial, fundado nas alíneas "a" e "c" do permissivo constitucional, o qual desafia acórdão assim ementado (e-STJ fls. 323/324):
+PROCESSUAL CIVIL. ART. 218 DA RESOLUÇÃO 414/2010. ANEEL. TRANSFERÊNCIA DO ATIVO DE ILUMINAÇÃO PÚBLICA PARA O MUNICÍPIO. NECESSIDADE DE LEI ESPECÍFICA.
+- O MUNICÍPIO DE PEDERNEIRAS/SP ajuizou a presente ação em face da ANEEL - AGÊNCIA NACIONAL DE ÁGUAS E ENERGIA ELÉTRICA e da COMPANHIA PAULISTA DE FORÇA E LUZ - CPFL, objetivando o reconhecimento da ilegalidade da Instrução Normativa nº 414/2010 expedida pela ANEEL, bem como a declaração da inexigibilidade em receber da CPFL o sistema de iluminação pública registrado como Ativo Imobilizado em Serviços - AIS.
+- No exame do mérito, ressalta-se que, ao prever a transferência do sistema de iluminação pública à pessoa jurídica de direito público competente - no caso, o município de PEDERNEIRAS, a ANEEL extrapolou seu poder regulamentar, estabelecendo novas obrigações ao Município, violando, por conseguinte, a autonomia municipal assegurada pelo artigo 18 da Constituição Federal.
+- Da análise do artigo 175 da Constituição Federal, verifica-se que a prestação de serviços públicos deve ser feita nos termos de lei. Por esta razão, não poderia um ato normativo infra legal, no caso uma Resolução Normativa, transferir o sistema de iluminação pública para o município, devendo, para tanto, ser instituída uma lei específica.
+- Há de ser reformada a r. sentença para declarar nulo, por ilegalidade e inconstitucionalidade, o art. 218 da Resolução Normativa nº 414/2010 da Agência Nacional de Energia Elétrica (ANEEL), ficando o Município PEDERNEIRAS/SP desobrigado de receber e administrar o sistema de iluminação pública (conforme estabelecido pelo art. 218 da referida resolução), devendo a requerida COMPANHIA PAULISTA DE FORÇA E LUZ - CPFL manter a prestação do referido serviço.
+- A ANEEL - AGÊNCIA NACIONAL DE ÁGUAS E ENERGIA ELÉTRICA e a COMPANHIA PAULISTA DE FORÇA E LUZ - CPFL devem arcar com as despesas processuais e os honorários advocatícios. Considerando o valor da causa, bem como a matéria discutida nos autos, os honorários advocatícios devem ser fixados em 10% sobre o valor atualizado da causa, nos termos do art. 85, § 2º, do Código de Processo Civil.
+- Apelação do MUNICÍPIO DE PEDERNEIRAS provida.
+Opostos embargos de declaração, foram rejeitados (e-STJ fls. 404/408).
+No especial obstaculizado, o ora agravante apontou violação dos arts. 2º, 3º, I e IV, e 3º-A, II, da Lei 9.427/1996; do art. 5º do Decreto 41.019/1957; e do art. 8º, parágrafo único, do Decreto-Lei 3.763/1941 (e-STJ fls. 443/451; 445/447; 448).
+O apelo nobre recebeu juízo negativo de admissibilidade pelo Tribunal de origem (e-STJ fls. 526/530).
+Passo a decidir.
+A parte recorrent e alegou, em suma, que o acórdão recorrido negou vigência à competência regulatória e regulamentadora da Agência Nacional de Energia Elétrica - ANEEL ao declarar nulo o art. 218 da Resolução Normativa 414/2010.
+Acontece que, em recente decisão sob a sistemática dos recursos repetitivos, esta Corte Superior concluiu o seguinte:
+Tema 1346: Não é admissível o recurso especial que discute a transferência, com base em normativos da ANEEL (art. 218 da Resolução Normativa ANEEL n. 414/2010, alterado pela Resolução ANEEL n. 479/2012 e sucedido pela Resolução Normativa ANEEL n. 959/2021), da responsabilidade pela manutenção do sistema de iluminação pública, registrado como Ativo Imobilizado em Serviço - AIS, pelas distribuidoras de energia elétrica aos municípios e ao Distrito Federal.
+Destaque-se que, ao julgar o Tema 1.181 da repercussão geral, o Supremo Tribunal Federal decidiu que a questão objeto do Tema 1.346/STJ era efetivamente é infraconstitucional.
+Isto é, ainda que por outros fundamentos, a decisão do Tribunal de origem que não admitiu o recurso especial não deve ser reformada.
+Ante o exposto, NEGO PROVIMENTO ao agravo em recurso especial .
+Caso exista nos autos prévia fixação de honorários de advogado pelas instâncias de origem, determino a majoração de tal verba, em desfavor da parte recorrente, em 10% (dez por cento) sobre o valor já arbitrado, nos termos do art. 85, § 11, do CPC/2015, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão da gratuidade de justiça.
+Publique-se. Intimem-se.
+ EMENTA
