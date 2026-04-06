@@ -1,0 +1,59 @@
+DECISÃO
+Trata-se de habeas corpus substitutivo de recurso próprio, com pedido de liminar, impetrado em favor de DOUGLAS DE SOUZA CARDOSO, em que se aponta como autoridade coatora o Tribunal de Justiça do Estado do Rio Grande do Sul.
+Consta dos autos que o paciente foi condenado pelo crime do art. 33, § 4º, da Lei nº 11.343/2006, à pena de 1 ano e 8 meses de reclusão, em regime inicial aberto, sendo substituída a pena privativa de liberdade por duas restritivas de direitos (prestação de serviços à comunidade e prestação pecuniária), mais 166 dias-multa.
+Em grau recursal, o Tribunal estadual manteve integralmente a sentença condenatória e determinou a remessa dos autos ao Ministério Público para análise da possibilidade de oferecimento de Acordo de Não Persecução Penal ao réu.
+Neste writ, a impetrante alega constrangimento ilegal pelo não oferecimento do ANPP, afirmando que estão preenchidos os requisitos legais e que a negativa ministerial é injustificada.
+Sustenta que a existência de processo criminal em curso não afasta o direito à proposta, por força da interpretação restrita do art. 28-A, § 2º, II, do Código de Processo Penal, vedada a ampliação das restrições legais para alcançar processos sem condenação transitada em julgado, em respeito à presunção de não culpabilidade.
+Argumenta, ainda, a incoerência entre a recusa e o reconhecimento judicial do tráfico privilegiado, que pressupõe primariedade, bons antecedentes e ausência de dedicação a atividades criminosas ou integração a organização criminosa.
+Requer a concessão de liminar para suspender os efeitos da decisão até o julgamento definitivo e, no mérito, a concessão da ordem para viabilizar o oferecimento do Acordo de Não Persecução Penal, com o trancamento da ação penal por falta de interesse de agir.
+É o relatório.
+Decido.
+Esta Corte - HC 535.063/SP, Terceira Seção, Rel. Ministro Sebastião Reis Junior, julgado em 10/6/2020 - e o Supremo Tribunal Federal - AgRg no HC 180.365, Primeira Turma, Rel. Min. Rosa Weber, julgado em 27/3/2020; AgR no HC 147.210, Segunda Turma, Rel. Min. Edson Fachin, julgado em 30/10/2018 -, pacificaram orientação no sentido de que não cabe habeas corpus substitutivo do recurso legalmente previsto para a hipótese, impondo-se o não conhecimento da impetração, salvo quando constatada a existência de flagrante ilegalidade no ato judicial impugnado.
+Cumpre, então, avaliar a possibilidade de concessão da ordem de ofício, se presente ilegalidade flagrante.
+Em relação ao pedido de oferecimento da ANPP, melhor sorte não assiste à defesa.
+Segundo se infere do acórdão impugnado, a medida despenalizadora foi negada ao paciente, inclusive em reexame pela Subprocuradoria-Geral de Justiça, haja vista o seu envolvimento habitual com a traficância:
+"Com efeito, o trancamento da ação penal constitui medida excepcional, somente admitida quando restar demonstrada, de plano, a atipicidade da conduta, a extinção da punibilidade ou a ausência de indícios mínimos de autoria e materialidade delitivas. No caso em exame, nenhuma dessas hipóteses excepcionais está configurada.
+Mesmo após a fundamentada decisão pelo descabimento de ANPP, retorna a defesa postulando o trancamento da ação penal, por compreender insuficientes as razões elencadas, pedindo que seja ao menos oportunizada a via negocial, pois preenchidos os requisitos objetivos previstos no art. 28-A do Código de Processo Penal, tendo sido proferida a presente decisão agravada:
+( )
+"Descabido o pleito defensivo, pois é prerrogativa do Ministério Publico o oferecimento ou não de ANPP.
+Nada mais requerido, em dois dias, certifique a Secretaria da Corte o trânsito em julgado."
+( )
+Pois bem.
+Prevê o art. 28-A do CPP, in verbis:
+"Art. 28-A. Não sendo caso de arquivamento e tendo o investigado confessado formal e circunstancialmente a prática de infração penal sem violência ou grave ameaça e com pena minima inferior a 4 (quatro) anos, o Ministério Publico poderá propor acordo de não persecução penal, desde que necessário e suficiente para reprovação e prevenção do crime, mediante as seguintes condições ajustadas cumulativa e alternativamente: (Incluído pela Lei nº 13.964, de 2019)"
+Observado o preceito acima exposto, bem como o fato de ter sido fixada ao acusado a pena de 1 ano e 8 meses de reclusão, diante da incidência da minorante da Lei de Drogas, foi proferido decisão por esta Corte, determinando a intimação do Ministério Público a fim de possibilitar o oferecimento do ANPP.
+Ocorre que o Promotor de Justiça Norberto Avena, entendeu que a oferta do ANPP não é cabível, tampouco necessário e suficiente para a reprovação e prevenção do crime em comento (evento 30, PARECERI).
+Na mesma toada, a Subprocuradora-Geral de Justiça, Josiane Superti Brasil Camejo, ratificou a posição sustentada pelo Doutor Procurador de Justiça com atuação junto à 2º Câmara Criminal do Tribunal de Justiça do Estado do Rio Grande do Sul, mantendo a negativa de proposta de acordo de não persecução penal. Assim, com o fito de não pairar dúvidas, colaciono trecho da manifestação do parquet a respeito das circunstâncias que fundamentaram a impossibilidade de oferecimento do acordo de não persecução penal:
+( )
+Com efeito, consoante Consulta ao Histórico Criminal do recorrente, em anexo, verifica-se que ele responde, também, ao Processo-Crime nº 5002401-28.2025.8.21.0040, que tramita na 2º Vara Judicial da Comarca de Caçapava do Sul, como incurso nas sanções do artigo 33, caput, da Lei n.º 11.343/2006, com aplicação da Lei nº 8.072/1990 (Evento 1, INICI, daquela Ação Penal)  fato congênere ao que aqui se discute  por fato ocorrido em IS de junho de 2022, em via pública, em Santana da Boa Vista/RS, denúncia recebida em 28 de outubro de 2025 (Evento 3, DESPADECI daquele feito).
+Note-se que a conduta pela qual o recorrente foi condenado nestes autos  ocorrida em 31 de agosto de 2022 no Município de Bagé -, foi praticada pouco mais de dois meses após a suprarreferida, ocorrida em 18 de junho de 2022 no Município de Santana da Boa Vista, evidenciando que a prática da traficância não só não é conduta isolada no agir do apelante, como, também, que ela transcende o limite territorial de uma única Comarca.
+Neste contexto, resta clara a inadequação e insuficiência da proposta de acordo de não persecução penal para os fins almejados pelo legislador de prevenção e reprovação do crime, desafiando, de pronto, uma reprimenda mais severa."
+Como corolário, não merece acolhimento o pedido de revisão veiculado.
+(..)
+Assim, ainda que não se desconheça a existência de entendimento contrário, predomina nas Cortes Superiores o posicionamento de que o referido instituto despenalizador não constitui direito subjetivo do investigado e de que cabe ao Ministério Público avaliar, de forma fundamentada, se cabível, no caso concreto, a proposição do acordo, quando considerado necessário e suficiente para a reprovação e prevenção da infração penal.
+Nesse sentido, havendo decisão judicial analisando o mérito recursal, oportunizando, ao final, a avaliação de oferta e posterior recusa, devidamente fundamentada do órgão responsável a respeito da proposição do ANPP, não verifico irregularidade no ato praticado a ponto de justificar o trancamento da ação penal.
+Frente ao exposto, voto por negar provimento ao agravo interno defensivo." (e-STJ, fls. 9-11; sem grifos no original)
+No ponto, vale anotar que a ANPP não constitui direito subjetivo do acusado, mas mera faculdade do órgão de acusação que poderá negá-la quando não atendidos os requisitos legais ou f orem insuficiente a medida à prevenção e à reparação do crime, como na hipótese, de envolvimento reiterado do paciente na traficância. Portanto, sendo motivada a recusa, inclusive referendada pela Subprocuradoria-Geral de Justiça, não se verifica a manifesta ilegalidade sustentada pela defesa.
+A seguir os julgados que respaldam esse entendimento:
+DIREITO PROCESSUAL PENAL. AGRAVO REGIMENTAL NO RECURSO EM HABEAS CORPUS. ACORDO DE NÃO PERSECUÇÃO PENAL. DISCRICIONARIEDADE REGRADA DO MINISTÉRIO PÚBLICO. HABITUALIDADE CRIMINOSA DECORRENTE DE CONDENAÇÃO POR FATO POSTERIOR. AGRAVO DESPROVIDO.
+I. CASO EM EXAME
+1. Agravo regimental interposto por Jailson da Silveira Melo contra decisão monocrática que negou provimento a recurso ordinário em habeas corpus, mantendo entendimento do Tribunal de Justiça do Estado de São Paulo, o qual validou a recusa do Ministério Público em oferecer acordo de não persecução penal (ANPP), diante da existência de condenação criminal por fato posterior à infração em análise. A defesa sustenta violação do entendimento jurisprudencial sobre a discricionariedade regrada do Parquet e requer o retorno dos autos ao Ministério Público para reanálise do ANPP.
+II. QUESTÃO EM DISCUSSÃO
+2. A questão em discussão consiste em saber se é juridicamente válida a recusa do Ministério Público em oferecer o ANPP, com fundamento em condenação criminal por fato posterior, à luz do disposto no art. 28-A do CPP e da jurisprudência do Superior Tribunal de Justiça.
+III. RAZÕES DE DECIDIR
+3. A condenação criminal por fato posterior configura fundamento idôneo para a negativa do ANPP, pois demonstra contumácia delitiva, nos termos do art. 28-A, § 2º, II, do CPP, mesmo que não se trate de reincidência ou maus antecedentes.
+4. O Superior Tribunal de Justiça entende que a habitualidade criminosa pode ser aferida com base em fatos posteriores ao delito em apuração, pois esses elementos comprometem a suficiência do acordo para a reprovação e prevenção do crime.
+5. A recusa do Parquet foi devidamente fundamentada, observando a discricionariedade regrada que lhe é conferida por lei, sendo o controle jurisdicional restrito à legalidade e racionalidade da decisão.
+6. O agravante deixou de apresentar elementos novos capazes de afastar os fundamentos da decisão agravada, o que impõe a manutenção do julgado. IV. AGRAVO REGIMENTAL DESPROVIDO.
+(AgRg no RHC n. 214.290/SP, relator Ministro Carlos Cini Marchionatti (Desembargador Convocado TJRS), Quinta Turma, julgado em 20/5/2025, DJEN de 26/5/2025.)
+PEDIDO DE RECONSIDERAÇÃO RECEBIDO COMO AGRAVO REGIMENTAL NO RECURSO EM HABEAS CORPUS. RECEPTAÇÃO QUALIFICADA. ACORDO DE NÃO PERSECUÇÃO PENAL (ANPP). NEGATIVA FUNDAMENTADA. HABITUALIDADE OU REITERAÇÃO DELITIVA. DESNECESSIDADE DE ENVIO À INSTÂNCIA REVISORA. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. Em atenção aos princípios da fungibilidade, da instrumentalidade das formas, da ampla defesa e da efetividade do processo, o pedido de reconsideração deve ser recebido como agravo regimental, tendo em vista o objeto do pleito e a apresentação da irresignação dentro do prazo legal previsto para a interposição do recurso cabível.
+2. Nos casos em que não estão preenchidos os requisitos legais para a celebração do acordo de não persecução penal (ANPP), não há discricionariedade do Ministério Público para a sua propositura, motivo pelo qual inexiste razão, inclusive, para remessa dos autos ao Procurador-Geral de Justiça, na forma do art. 28 do CPP.
+3. A contumácia delitiva descrita no art. 28-A, § 2º, II, do CPP deve ser entendida em seu sentido amplo, de modo a abranger, inclusive, circunstâncias que não configurem reincidência ou maus antecedentes, mas sejam aptas a revelar que a parte interessada está voltada para o crime.
+4. Caso concreto em que as instâncias de origem assinalaram a negativa em razão da existência de indicativos de habitualidade delitiva e integração de associação criminosa voltada a delitos patrimoniais, inclusive com indiciamento. Fundamentação que legitima a recusa de oferta do ANPP.
+5. Pedido de reconsideração recebido como agravo regimental ao qual se nega provimento .
+(PET no RHC n. 224.744/RJ, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 19/11/2025, DJEN de 27/11/2025.)
+Ante o exposto, indefiro liminarmente o habeas corpus.
+Cientifique-se o Ministério Público Federal.
+Publique-se. Intimem-se.
+EMENTA
