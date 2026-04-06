@@ -1,0 +1,49 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido de liminar, impetrado em favor de RODRIGO DA SILVA PEREIRA, contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO DE JANEIRO (Agravo de Execução Penal nº 5014093-56.2025.8.19.0500).
+Consta dos autos que o juízo da execução penal, em razão da homologação de falta grave, determinou a interrupção do prazo de progressão de regime.
+Inconformada, a defesa ingressou na origem com agravo de execução penal, o qual foi desprovido nos termos da ementa abaixo (fl. 17):
+Execução penal. Agravo de execução penal defensivo. Decisão que homologou a falta disciplinar de natureza grave e interrompeu o prazo de progressão de regime. Os fundamentos inseridos no capítulo "razões de decidir" (abaixo) integram a presente ementa, a fim de dar-lhe exata compreensão.
+Desprovimento do recurso.
+Neste habeas corpus, o impetrante busca o reconhecimento da nulidade do processo administrativo que homologou a ocorrência de falta grave.
+Argumenta que "O procedimento disciplinar apresenta vícios estruturais graves que comprometem a validade de toda a apuração" (fl. 5).
+Alega que " o Paciente foi ouvido sem a presença de defesa técnica, inexistindo qualquer registro de acompanhamento por advogado constituído ou Defensor Público no momento da oitiva, tampouco atuação defensiva na fase de formação da prova. A ausência de defensor no ato instrutório inviabilizou o exercício do contraditório substancial, impedindo a formulação de perguntas, impugnações ou esclarecimentos essenciais à elucidação dos fatos. A posterior ciência da defesa e eventual apresentação de manifestação escrita não supre a exigência constitucional de defesa técnica concomitante à instrução, conforme impõem o art. 5º, inciso LV, da Constituição Federal, o art. 59 da Lei de Execução Penal e a Súmula 533 do Superior Tribunal de Justiça" (fl. 5).
+Por fim, aduz violação direta à Súmula n. 533, STJ.
+Requer, liminarmente e no mérito, "declarar a nulidade absoluta do procedimento administrativo disciplinar instaurado em desfavor do Paciente" (fl. 14).
+Liminar indeferida, às fls. 71-73.
+Informações prestadas às fls. 80-84 e 85-102.
+O Ministério Público Federal se manifestou às fls. 108-110, pelo não conhecimento do habeas corpus.
+É o relatório. DECIDO.
+A presente impetração investe contra acórdão, funcionando como substituto do recurso próprio, motivo pelo qual não deve ser conhecida.
+A 3ª Seção, no âmbito do HC 535.063-SP, de relatoria do Ministro Sebastião Reis Júnior, julgado em 10/06/2020, e o Supremo Tribunal Federal, no julgamento do AgRg no HC 180.365, de relatoria da Ministra Rosa Weber, julgado em 27/03/2020, consolidaram a orientação de que não cabe habeas corpus substitutivo ao recurso legalmente previsto para a hipótese, impondo-se o não conhecimento da impetração, salvo quando constatada a existência de flagrante ilegalidade no ato judicial impugnado.
+Também não vislumbro a presença de coação ilegal que desafie a concessão da ordem de ofício, em observância ao § 2º do artigo 654 do Código de Processo Penal.
+Cinge-se a matéria a verificar possível nulidade na falta grave.
+No presente caso, da análise dos elementos informativos constantes dos autos, não restou verificada a flagrante ilegalidade a legitimar a atuação deste Tribunal.
+Primeiramente, verifica-se que as instâncias ordinárias, após regular processo administrativo disciplinar, com as garantias do contraditório, da ampla defesa e do devido processo legal, impuseram em desfavor do paciente infração disciplinar de natureza grave.
+No tocante ao pleito de absolvição, observa-se que as instâncias ordinárias assentaram que restou devidamente comprovada a prática da infração disciplinar, após ampla análise dos fatos e provas produzidos nos autos.
+Confiram-se alguns excertos referentes à apreciação do tema pelo Tribunal de origem (fls. 21-24):
+ ..  Na espécie, o apenado foi condenado à pena de 20 (vinte) anos, 06 (seis) meses e 24 (vinte e quatro) dias, pelos crimes de furto qualificado, roubo majorado, lesão corporal, motim de presos, sequestro/cárcere privado e constrangimento ilegal, dos quais ainda restam mais de 8 (oito) anos a cumprir (fls. 30/49 e consulta eletrônica ao SEEU).
+Como se sabe, a grave quebra da disciplina por parte do apenado impõe a apuração pela Comissão Técnica de Classificação, responsável por processar e sancionar, em devido processo legal específico, com observância do contraditório e da ampla defesa (CRFB, art. 5º, LV).
+Consoante narrado na Parte Disciplinar nº 040/2023, de 23/05/2024 (fls. 10), enquanto aguardava no setor de triagem, o apenado passou a chutar a porta insistentemente, mesmo após ter sido iniciada uma limpeza no local. Além disso, amarrou a porta, impedindo os servidores da SEAP de entrarem, de forma desrespeitosa, e incitando os demais presos da triagem a agirem da mesma forma.
+Instaurado o processo disciplinar nº 210001/027069/2024, o apenado exerceu o direito de permanecer em silêncio (fls. 14) e contou com a assistência da Defensoria Pública, que apresentou defesa escrita (fls. 15/18).
+Ao final, a Comissão Técnica, em parecer com fundamentação suficiente e individualizada, ainda que não exaustiva, reconheceu a prática de falta disciplinar de natureza grave (LEP, art. 50, VI - "inobservar os deveres previstos nos incisos II e V do artigo 39 desta lei) e aplicou as sanções previstas no art. 53, III e IV, da LEP (30 dias de isolamento e suspensão do direito de visitação) e no art. 62, III, do RPERJ (rebaixamento do índice de comportamento para negativo por 90 dias).
+Em casos como tais, sabe-se que "a palavra dos agentes penitenciários na apuração de falta grave é prova idônea para o convencimento do magistrado, haja vista tratar-se de agentes públicos, cujos atos e declarações gozam de presunção de legitimidade e de veracidade" (STJ, Jurisprudência em Teses, ed. 145, verbete n. 4).
+Noutro giro, sabe-se que, até mesmo em se tratando de decisões judiciais, o princípio da substanciação relevante, forjado à luz dos postulados "jura novit curia" e "mihi factum dabo tibi jus", não obriga o juiz a dispor exaustivamente sobre todos os questionamentos das partes, cabendo-lhe apenas fundamentar sua decisão na forma dos arts. 93, IX, da Constituição Federal, e 155 do Código de Processo Penal.  ..
+Diante de todo esse cenário, conforme muito bem realçado pela instância de base "a despeito de todas as alegações da defesa, verifico que o procedimento administrativo foi realizado no âmbito da atribuição que é dada à administração penitenciária, conforme previsão do artigo 47 da LEP, com descrição da conduta, oitiva do autor da conduta, apresentação de defesa, respeitadas as garantias constitucionais aplicáveis ao PAD."
+No mais, sabe-se que, em razão do princípio da independência das esferas administrativa e penal, cabe ao Judiciário, tão-somente, o controle da legalidade dos atos administrativos, isto é, a verificação de que o ato se encontra em conformidade com o ordenamento jurídico.
+Nessa ordem de ideias, diante do cometimento de fato definido como falta grave (LEP, art. 50, VI), a consequência é a interrupção do prazo para progressão de regime, a contar da data da falta grave cometida, nos moldes do art. 112, §6º da LEP.  ..
+Dos autos, portanto, não se afere qualquer ilegalidade.
+A falta grave foi devidamente fundamentada em análise provas, de forma que não há como se afastar ou mesmo desclassificar a imputação disciplinar na hipótese pelo Superior Tribunal de Justiça na via do habeas corpus.
+No mais, os pedidos da defesa extrapolam os limites cognitivos da via eleita.
+Nesse contexto, para modificar as decisões das instâncias ordinárias para absolver ou desclassificar a falta imputada ao paciente, seria necessária a aprofundada incursão no acervo fático-probatório produzido no processo disciplinar, providência, sabidamente, inviável na via estreita do habeas corpus ou do seu recurso ordinário, remédio de rito célere e que não admite dilação probatória.
+Nesse sentido:
+ ..  "O habeas corpus não é meio adequado para afastar as conclusões das instâncias ordinárias a respeito da materialidade da falta grave imputada ao ora agravante e, consequentemente, desclassificar a falta imputada como grave por média, diante da impossibilidade de exame aprofundado de provas"  ..  (AgRg no HC 560.935/SC, Rel. Ministra LAURITA VAZ, SEXTA TURMA, julgado em 09/06/2020, DJe 23/06/2020).
+5- A análise de que o fato praticado configura ou não infração disciplinar administrativa, seja de natureza leve, média ou grave, demanda o revolvimento do conteúdo fático-probatório dos autos, o que é inadmissível na via eleita.
+6- Agravo regimental não provido (AgRg no HC n. 885.403/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 1/7/2024, DJe de 3/7/2024.)
+AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO PENAL. DESOBEDIÊNCIA. FALTA GRAVE. PEDIDO DE ABSOLVIÇÃO POR AUSÊNCIA DE PROVA. NECESSIDADE DE REEXAME DO ACERVO FÁTICO-PROBATÓRIO DOS AUTOS.
+1. A não obediência às ordens recebidas dos agentes da unidade prisional constitui falta grave.
+2. Para modificar a decisão de origem, a fim de absolver o paciente em relação à falta disciplinar, seria necessário o reexame do acervo fático-probatório, providência inviável na via estreita do habeas corpus.
+3. Agravo regimental não provido (AgRg no HC n. 899.739/SP, relator Ministro Otávio de Almeida Toledo (Desembargador Convocado do TJSP), Sexta Turma, julgado em 19/8/2024, DJe de 23/8/2024.)
+Também a esse respeito: AgRg no HC n. 817.562/RS, Quinta Turma, Rel. Min. Reynaldo Soares da Fonseca, DJe de 30/6/2023; AgRg no HC 812.438/SP, Quinta Turma, Rel. Min. Ribeiro Dantas, DJe de 29/6/2023; HC n. 704.718/SP, Sexta Turma, Relª. Minª. Laurita Vaz, DJe de 23/5/2023; e AgRg no HC 811.106/SP, Sexta Turma, Rel. Min. Rogerio Schietti Cruz, DJe de 22/6/2023.
+Ante o exposto, não conheço do habeas corpus.
+Publique-se. Intimem-se.
+ EMENTA
