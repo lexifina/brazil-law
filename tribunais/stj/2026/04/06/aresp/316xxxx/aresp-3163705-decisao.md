@@ -1,0 +1,16 @@
+DECISÃO
+Trata-se de agravo manejado por Lojas Gabryella Ltda. contra decisão que não admitiu recurso especial, este interposto com fundamento no art. 105, III, a, da CF, desafiando acórdão proferido pelo Tribunal Regional Federal da 1ª Região, assim ementado (fl. 519):
+MANDADO DE SEGURANÇA. TRIBUTÁRIO. IPI. DECISÃO JUDICIAL. COMPENSAÇÃO. APELAÇÃO IMPROVIDA.
+1. O pretenso crédito, como considerado inexistente, sujeitou a impetrante à cobrança de tributos pela Delegacia da Receita Federal de São Luis/MA, após o envio do Processo nº 10945.001830/2005-61 pela Delegacia da Receita Federal de Foz do Iguaçu. 2. Analisando os procedimentos adotados pelo Fisco, não se verifica qualquer violação aos princípios constitucionais do devido processo legal e da ampla defesa, porquanto a pretensa cessão de crédito não legitima a impetrante a adotar medidas de defesa em nome do contribuinte, em processo administrativo instaurado entre o Fisco e a empresa Exportadora de Armarinhos Rahal Ltda, que vinculava apenas aquelas partes, tampouco teria que ser intimada dos atos nele praticados.
+3. Improvida a apelação das Lojas Gabryella Ltda. Sentença mantida.
+Opostos embargos declaratórios, foram rejeitados (fls. 547/554).
+Nas razões do recurso especial, a parte agravante aponta, além do dissídio jurisprudencial, violação aos seguintes dispositivos: (I) art. 1.022, II, do Código de Processo Civil, ao argumento de que o acórdão recorrido incorreu em omissão por não apreciar o pedido alternativo de afastamento da penalidade pecuniária aplicada, não obstante a oposição de embargos de declaração voltados a suprir tal vício e (II) art. 136 do Código Tributário Nacional, sustentando que é ilegal a imposição de penalidade pecuniária nas circunstâncias do caso, pois a recorrente atuou de boa-fé, com lastro em decisão judicial vigente à época e em documentos formais, não se configurando ilícito tributário.
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+A pretensão recursal merece acolhida pelo art. 1.022 do CPC, pois a parte ora agravante, nas razões dos embargos de declaração e do recurso especial, alega que (fls. 538):
+Dessa forma, requer a Embargante a reforma do r. Acórdão ora embargado para que seja reconhecida a omissão em relação a impossibilidade de imputação de penalidade pecuniária em desfavor da Apelante/Embargante, para que, restando exaustivamente comprovada a total insubsistência da multa punitiva aplicada pela Fazenda Pública à Embargante, que agiu de boa fé e com supedâneo em autorização judicial, seja totalmente anulada.
+Contudo, o Tribunal de origem quedou silente sobre a tese da insubsistência da multa punitiva aplicada pela Fazenda Pública e rejeitou os pertinentes aclaratórios da parte ora agravante, em franca violação ao art. 1.022 do CPC, porquanto não prestada a jurisdição de forma integral.
+Ora, reconhecida a violação aos art. 1.022 do CPC, impõe-se a anulação do
+acórdão proferido no julgamento dos embargos de declaração, restando prejudicada a análise dos demais tópicos do apelo especial.
+ANTE O EXPOSTO, conheço do agravo para dar provimento ao recurso especial para, assentando a nulidade do acórdão recorrido por violação ao art. 1.022 do CPC, determinar o retorno dos autos o Tribunal de origem, a fim de que seja realizado novo julgamento dos embargos de declaração.
+Publique-se.
+EMENTA
