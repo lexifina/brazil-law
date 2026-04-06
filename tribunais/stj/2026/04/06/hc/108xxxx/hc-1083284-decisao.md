@@ -1,0 +1,91 @@
+DECISÃO
+Cuida-se  de  habeas  corpus impetrado  em  favor  de  LUANDERSON SOARES RIBEIRO, contra acórdão  proferido  pelo Tribunal  de  Justiça  do  Estado  de  São  Paulo  no Agravo em Execução Penal n. 0007972-75.2025.8.26.0509.
+Consta dos autos que o Juízo da Execução reconheceu falta disciplinar grave, determinou o reinício da contagem do prazo de cumprimento de pena para fins de progressão de regime a partir da data da última infração, 13/1/2025 (fls. 16/18).
+Contra a decisão, a defesa interpôs agravo em execução, perante a Corte de origem, que negou provimento ao recurso (fls. 9/15).
+Nesta  impetração,  defende a imediata absolvição da suposta falta disciplinar de natureza grave imputada ao paciente, diante da manifesta ausência de elementos mínimos aptos a sustentar a condenação administrativa (fl. 4).
+Alega que a imputação se encontra amparada em evidente quadro de incerteza fática, uma vez que os agentes penitenciários não procederam à devida individualização das condutas, deixando de apontar, de forma clara e específica, o comportamento atribuído a cada reeducando. Ao contrário, resta nítido que sequer havia conhecimento concreto acerca do motivo da alegada recusa, circunstância que fragiliza por completo a validade da sanção aplicada (fl. 4).
+Destaca que ficou evidenciado no próprio procedimento disciplinar que, ao soar o sinal sonoro, o reeducando tentou deslocar-se em direção à sua cela, sendo, contudo, impedido por tumulto generalizado ocasionado por terceiros, circunstância totalmente alheia à sua vontade. As imagens acostadas aos autos corroboram de forma inequívoca que o apenado não permaneceu inerte, tampouco adotou postura de resistência ou enfrentamento aos agentes penitenciários. Ao contrário, demonstrou conduta colaborativa e respeitosa, o que afasta por completo o elemento subjetivo indispensável à configuração da falta grave prevista no art. 50, VI, da Lei de Execução Penal. (e-STJ fl. 5).
+Defende que o simples atraso no ingresso à cela, sobretudo em cenário de confusão e intensa movimentação de outros reeducandos, não pode ser interpretado como desobediência deliberada, sob pena de flagrante violação ao princípio da proporcionalidade, bem como ao art. 5º, XLV, da Constituição Federal, que veda a imposição de sanção sem a devida demonstração de dolo ou culpa. (e-STJ fl. 5).
+Acrescenta que o art. 50 da Lei de Execução Penal, estabelece rol taxativo das condutas caracterizadoras de falta grave, não admitindo interpretação extensiva ou ampliativa (fl. 5).
+Afirma que a imputação coletiva da falta disciplinar afronta diretamente o disposto no art. 45, §3º, da Lei de Execução Penal, que veda expressamente a aplicação de sanções coletivas, constituindo, por si só, fundamento suficiente para o reconhecimento da improcedência da falta disciplinar (fl. 6).
+Requer a concessão da ordem de habeas corpus para absolver o paciente da prática da falta disciplinar; afastando todos os seus efeitos; subsidiariamente, requer-se a reconsideração de 1/3 dos dias remidos (fls. 7).
+É  o  relatório. Decido.
+Inicialmente, o Superior Tribunal de Justiça, seguindo o entendimento firmado pela Primeira Turma do Supremo Tribunal Federal, como forma de racionalizar o emprego do habeas corpus e prestigiar o sistema recursal, não admite a sua impetração em substituição ao recurso próprio. Cumpre analisar, contudo, em cada caso, a existência de ameaça ou coação à liberdade de locomoção do paciente, em razão de manifesta ilegalidade, abuso de poder ou teratologia na decisão impugnada, a ensejar a concessão da ordem de ofício.
+Na espécie, embora a impetrante não tenha adotado a via processual adequada, para que não haja prejuízo à defesa do paciente, passo à análise da pretensão formulada na inicial, a fim de verificar a existência de eventual constrangimento ilegal.
+Acerca do rito a ser adotado para o julgamento desta impetração, as disposições previstas nos arts. 64, III, e 202, do Regimento Interno do Superior Tribunal de Justiça não afastam do relator a faculdade de decidir liminarmente, em sede de habeas corpus e de recurso em habeas corpus, a pretensão que se conforme com súmula ou com a jurisprudência consolidada dos Tribunais Superiores ou a contraria (AgRg no HC 513.993/RJ, Relator Ministro JORGE MUSSI, Quinta Turma, julgado em 25/6/2019, DJe 1º/7/2019; AgRg no HC 475.293/RS, Relator Ministro RIBEIRO DANTAS, Quinta Turma, julgado em 27/11/2018, DJe 3/12/2018; AgRg no HC 499.838/SP, Relator Ministro JORGE MUSSI, Quinta Turma, julgado em 11/4/2019, DJe 22/4/2019; AgRg no HC 426.703/SP, Relator Ministro RIBEIRO DANTAS, Quinta Turma, julgado em 18/10/2018, DJe 23/10/2018 e AgRg no RHC 37.622/RN, Relatora Ministra MARIA THEREZA DE ASSIS MOURA, Sexta Turma, julgado em 6/6/2013, DJe 14/6/2013).
+Nesse diapasão, uma vez verificado que as matérias trazidas a debate por meio do habeas corpus constituem objeto de jurisprudência consolidada neste Superior Tribunal, não há nenhum óbice a que o Relator conceda a ordem liminarmente, sobretudo ante a evidência de manifesto e grave constrangimento ilegal a que estava sendo submetido o paciente, pois a concessão liminar da ordem de habeas corpus apenas consagra a exigência de racionalização do processo decisório e de efetivação do próprio princípio constitucional da razoável duração do processo, previsto no art. 5º, LXXVIII, da Constituição Federal, o qual foi introduzido no ordenamento jurídico brasileiro pela EC n.45/2004 com status de princípio fundamental (AgRg no HC 268.099/SP, Relator Ministro SEBASTIÃO REIS JÚNIOR, Sexta Turma, julgado em 2/5/2013, DJe 13/5/2013).
+Na verdade, a ciência posterior do Parquet, longe de suplantar sua prerrogativa institucional, homenageia o princípio da celeridade processual e inviabiliza a tramitação de ações cujo desfecho, em princípio, já é conhecido (EDcl no AgRg no HC 324.401/SP, Relator Ministro GURGEL DE FARIA, Quinta Turma, julgado em 2/2/2016, DJe 23/2/2016).
+Em suma, para conferir maior celeridade aos habeas corpus e garantir a efetividade das decisões judiciais que versam sobre o direito de locomoção, bem como por se tratar de medida necessária para assegurar a viabilidade dos trabalhos das Turmas que compõem a Terceira Seção, a jurisprudência desta Corte admite o julgamento monocrático do writ antes da ouvida do Parquet em casos de jurisprudência pacífica (AgRg no HC 514.048/RS, Relator Ministro RIBEIRO DANTAS, Quinta Turma, julgado em 6/8/2019, DJe 13/8/2019).
+Possível, assim, a análise do mérito da impetração, já nesta oportunidade.
+Da falta grave
+Busca-se, nos autos a absolvição ou desclassificação da falta grave, consubstanciada em desobediência às ordens de funcionário da Unidade Prisional, pois, recusaram-se a adentrar em suas respectivas celas e estes se recusaram, permanecendo na área externa sem a devida autorização.
+Na hipótese, o Juízo da Execução homologou a falta grave sob os seguintes fundamentos:
+ ..
+Verifica-se do procedimento disciplinar que o sentenciado junto com demais, na data do fato, desobedeceram às ordens de funcionário da Unidade Prisional, pois, se recusaram a adentrar em suas respectivas celas e estes se recusaram, permanecendo tonos na área externa sem a devida autorização.
+O art. 50, inc. VI, da LEP dispõe que comete falta grave o condenado à pena privativa de liberdade que "inobservar os deveres previstos nos incisos II e V do art. 39 desta lei", enquanto o art. 39, inc. II da LEP dispõe que é dever do condenado a "obediência ao servidor e respeito a qualquer pessoa com quem deva relacionar-se" e também no art. V, da LEP dispõe que é dever do condenado a "execução do trabalho, das tarefas e das ordens recebidas". Portanto, não há dúvida de que o sentenciado cometera falta disciplinar de natureza grave, a teor dos dispositivos citados acima.
+O sentenciado foi devidamente ouvido, nos termos do art. 118, 2º, da LEP, com acompanhamento de advogado da FUNAP (página 224). Cogitado dispositivo não determina a oitiva judicial do sentenciado, mas visa prestigiar os princípios do devido processo legal e do contraditório, plenamente respeitados na espécie.
+Assim, o reconhecimento da falta disciplinar de natureza grave era mesmo de rigor, nada havendo a justificar o acolhimento da tese defensiva.
+Diante da condenação do sentenciado pela prática de falta grave, apurada por meio de regular procedimento disciplinar, impõe-se a aplicação do artigo 127 da Lei de Execução Penal.
+ ..
+Nota-se dos autos que o sentenciado com sua conduta, trouxe subversão à ordem e à disciplina no estabelecimento prisional, causando ainda considerável atraso nas atividades rotineiras da penitenciaria e prejudicando o bom andamento dos serviços de segurança naquele local. Diante do exposto, com base na natureza da falta grave praticada, na personalidade insubordinada do executado, impõe-se a aplicação do artigo 127 e 57 , ambos da Lei de Execução Penal, tendo como consequência a perda de 1/6 do tempo remido, observados os termos da Súmula Vinculante n. 09 do STF, publicada em 12/06/2008 (in verbis: "O disposto no artigo 127 da Lei 7.210/84 foi recebido pela ordem constitucional vigente e não se aplica o limite temporal previsto no caput do artigo 58").
+ ..
+O Tribunal de Justiça estadual manteve a decisão indeferitória sob os seguintes fundamentos (fls. 9-15):
+ ..
+A materialidade e autoria das condutas estão demonstradas por meio dos elementos reunidos no PAD, em especial pelos depoimentos dos policiais penais que testemunharam os atos de desobediência e indisciplina do agravante. Registra-se, a propósito, que os autos não revelam elementos, minimamente tangíveis, aptos a depreciar a palavra dos agentes e a regra é de que agem no estrito cumprimento de dever legal.
+ ..
+A conduta do sentenciado, apurada em procedimento disciplinar, viu-se escorreitamente punida com a supressão de um terço dos dias remidos, pois sopesadas a situação dele, as características e as circunstâncias em que ocorreu a falta disciplinar, reconhecidamente grave.
+ ..
+Logo, não se evidenciando erro técnico ou excessivo rigor já que a perda da terça parte se mostrou compatível, razoável e proporcional à indisciplina, além de necessária à inibição de reiteração, a questionada punição deve ser mantida, a teor do artigo 57, caput, da Lei nº 7.210/1984.
+ ..
+Como bem apontado pelas instâncias ordinárias, houve a instauração de procedimento administrativo disciplinar, ocasião em que o apenado foi devidamente ouvido na seara administrativa.
+A jurisprudência desta Corte tem-se orientado no sentido de que eventual análise se o fato praticado configura ou não infração disciplinar administrativa, seja de natureza leve, média ou grave, demanda o revolvimento do conteúdo fático-probatório dos autos, o que é inadmissível na via eleita.
+Nesse sentido, entre outros, os seguintes precedentes:
+PEDIDO DE RECONSIDERAÇÃO RECEBIDO COMO AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO PENAL. FALTA DISCIPLINAR GRAVE. DESOBEDIÊNCIA E DESRESPEITO A ORDEM DE AGENTES PENITENCIÁRIOS. INEXISTÊNCIA DE CERCEAMENTO DE DEFESA. PAS DE NULLITÉ SANS GRIEF. DECISÃO FUNDAMENTADA. PROVAS SUFICIENTES. DESCLASSIFICAÇÃO DA CONDUTA. REEXAME FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE NA VIA ELEITA. ALEGAÇÃO DE DESPROPORCIONALIDADE DA SANÇÃO. SUPRESSÃO DE INSTÂNCIA. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. Petição de reconsideração recebida como agravo regimental.
+2. Conforme jurisprudência consolidada, é legítima a decisão monocrática proferida por relator, sujeita a reapreciação colegiada mediante agravo regimental, inexistindo violação ao princípio da colegialidade.
+3. A alegação de cerceamento de defesa pela ausência de oitiva de testemunha arrolada não se sustenta, diante da ausência de demonstração de prejuízo concreto, aplicando-se o princípio do pas de nullité sans grief.
+4. A decisão agravada encontra-se devidamente fundamentada em elementos probatórios constantes nos autos, especialmente nos depoimentos dos policiais penais, que confirmam a conduta do sentenciado consistente em xingamentos e desrespeito, o que configura falta grave nos termos dos arts. 39, II e V, e 50, VI, da Lei n. 7.210/1984.
+5. A desclassificação da conduta para falta de menor gravidade ou a absolvição demandaria revolvimento do conjunto fático-probatório, providência incompatível com a estreita via do habeas corpus.
+6. A alegação de desproporcionalidade da sanção não foi analisada pela instância de origem, caracterizando indevida supressão de instância.
+7. Agravo regimental não provido.
+(AgRg no HC n. 1.024.353/MG, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 19/8/2025, DJEN de 27/8/2025.)
+EXECUÇÃO PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. POSSE DE DROGAS EM ESTABELECIMENTO PRISIONAL. CONFIGURAÇÃO DE FALTA GRAVE. RECURSO
+IMPROVIDO.
+I. Caso em exame
+1. Agravo regimental interposto contra decisão que não conheceu de habeas corpus, mantendo o reconhecimento de falta disciplinar de natureza grave.
+2. O agravante foi surpreendido com maconha em unidade prisional, conforme laudo de exame químico-toxicológico, sendo a falta grave homologada com base em provas documentais e testemunhais.
+II. Questão em discussão
+3. A questão em discussão consiste em saber se a posse de pequena quantidade de droga para uso pessoal em estabelecimento prisional configura falta grave, considerando o entendimento do STF no Tema n. 506 e a alegação de desproporcionalidade da sanção imposta.
+III. Razões de decidir
+4. A posse de substância entorpecente, ainda que para consumo próprio, no interior de estabelecimento prisional, configura falta grave, nos termos do art. 50, VI, c.c. o art. 39, V, da Lei de Execução Penal, por comprometer a disciplina interna e influenciar negativamente outros presidiários.
+5. O entendimento do STF no Tema n. 506, que despenalizou o porte de até 40g de maconha para consumo pessoal, não afasta a caracterização de falta disciplinar grave, que não se confunde com a tipicidade penal da conduta.
+6. A revisão das conclusões das instâncias ordinárias, a fim de se concluir pela não ocorrência da falta grave, ou pela sua desclassificação para outra de natureza mais branda, demandaria reexame de fatos e provas, procedimento inviável na via do habeas corpus.
+IV. Dispositivo e tese
+7. Agravo regimental improvido.
+Tese de julgamento:
+1. A posse de drogas em estabelecimento prisional, ainda que para consumo próprio, configura falta grave, nos termos da Lei de Execução Penal.
+2. O entendimento do STF no Tema n. 506 não afasta a caracterização de falta disciplinar grave em execução penal.
+3. A revisão de decisões que homologam falta grave exige reexame de fatos e provas, inviável na via do habeas corpus.
+Dispositivos relevantes citados: LEP, art. 50, VI; LEP, art. 39, V. Jurisprudência relevante citada: STJ, AgRg no HC n. 993.346/SP, Rel. Min. Reynaldo Soares da Fonseca, Quinta Turma, DJEN de 30/4/2025;
+STJ, AgRg no HC n. 986.224/SP, Rel. Min. Messod Azulay Neto, Quinta Turma, DJEN de 28/4/2025; STJ, AgRg no HC n. 944.520/SP, Rel. Min. Saldanha Palheiro, Sexta Turma, DJEN de 23/12/2024; STJ, AgRg no HC n. 923.475/SP, Rel. Min. Sebastião Reis Júnior, Sexta Turma, DJe de 6/9/2024; STJ, AgRg no HC n. 939.825/SP, Rel. Min. Messod Azulay Neto, Quinta Turma, DJEN de 29/11/2024; STJ, AgRg no RHC n. 199.698/PR, Rel. Min. Antonio Saldanha Palheiro, Sexta Turma, DJe de 5/9/2024.
+(AgRg no HC n. 1.026.822/SP, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 15/10/2025, DJEN de 22/10/2025.)
+DIREITO PROCESSUAL PENAL. AGRAVO REGIMENTAL. PROCEDIMENTO ADMINISTRATIVO DISCIPLINAR. FALTA GRAVE. NULIDADE. AGRAVO REGIMENTAL NÃO PROVIDO.
+I. Caso em exame
+1. Agravo regimental interposto contra decisão que não conheceu do habeas corpus, em que se alegava nulidade do procedimento administrativo que reconheceu a falta grave do apenado.
+II. Questão em discussão
+2. A questão em discussão consiste em saber se houve nulidade no procedimento administrativo disciplinar que reconheceu a falta grave, em razão da ausência de oitiva judicial do apenado e da participação do sindicado nas oitivas, bem como se há provas suficientes para a condenação.
+3. Outra questão em discussão é a possibilidade de desclassificação da falta grave para falta média, considerando o grau de lesividade e repercussão da conduta.
+III. Razões de decidir
+4. A jurisprudência do Superior Tribunal de Justiça dispensa a oitiva judicial do apenado para homologação de falta grave, desde que ele tenha sido ouvido no procedimento administrativo com defesa técnica.
+5. As instâncias ordinárias comprovaram a prática da infração disciplinar grave, com base na análise das provas consistentes nos autos.
+6. A desclassificação para falta média é inviável em sede de habeas corpus, e houve fundamentação da origem no sentido de que a conduta do apenado ultrapassou o previsto para faltas médias, demonstrando indiferença à lei e à disciplina.
+7. Não há prescrição a ser reconhecida quanto à apuração da infração disciplinar, pois o prazo prescricional de três anos não foi ultrapassado.
+IV. Dispositivo e tese
+8. Agravo regimental não provido.
+Tese de julgamento: "1. A oitiva judicial do apenado é dispensável para homologação de falta grave se ele foi ouvido no procedimento administrativo com defesa técnica. 2. A prática de falta grave devidam ente comprovada não pode ser desclassificada para falta média. 3. O prazo prescricional para faltas disciplinares é de três anos, conforme o menor prazo previsto no Código Penal.".
+Dispositivos relevantes citados: CP, art. 109, VI; LEP, art. 50, VII; LEP, art. 118, § 2º.Jurisprudência relevante citada: STJ, AgRg no HC 679.421/SP, Rel. Min. Reynaldo Soares da Fonseca, Quinta Turma, julgado em 5/10/2021; STJ, AgRg no HC 825.725/SP, Rel. Min. Reynaldo Soares da Fonseca, Quinta Turma, julgado em 14/8/2023; STJ, AgRg no HC 709.273/SP, Rel. Min. Joel Ilan Paciornik, Quinta Turma, julgado em 15/3/2022.
+(AgRg no HC n. 999.478/SP, relator Ministro Messod Azulay Neto, Quinta Turma, julgado em 24/6/2025, DJEN de 30/6/2025.)
+Desta forma, não se vislumbra, in casu, a existência de flagrante ilegalidade passível de ser sanada pela concessão da ordem de ofício.
+Ante o exposto, com amparo no art. 34, XX, do Regimento Interno do STJ, não conheço do habeas corpus.
+Intimem-se.
+EMENTA
