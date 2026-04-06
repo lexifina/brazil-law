@@ -1,0 +1,24 @@
+DECISÃO
+Trata-se de agravo interposto da decisão que inadmitiu o recurso especial no qual Agueda Maria de Araújo Leão se insurgira, com fundamento no art. 105, inciso III, alínea a, da Constituição Federal, contra o acórdão do Tribunal de Justiça do Estado da Bahia assim ementado (fls. 590/591):
+APELAÇÃO CÍVEL EM AÇÃO ORDINÁRIA COM PEDIDO DE REINTEGRAÇÃO. PROCESSUAL CIVIL E ADMINISTRATIVO. SERVIDORA PÚBLICA DEMITIDA APÓS PROCESSO ADMINISTRATIVO DISCIPLINAR. ABANDONO DE CARGO. INEXISTÊNCIA DE PRESCRIÇÃO. ATO DE EFEITOS PERMANENTES. AMPLA DEFESA E CONTRADITÓRIO ASSEGURADOS. DEMONSTRAÇÃO DO ÂNIMO DE ABANDONO. AUSÊNCIA DE PROVA DE INTERESSE EM REINTEGRAÇÃO AO CARGO POR MAIS DE UMA DÉCADA. PRECEDENTES DO STJ. NÃO PROVIMENTO DO APELO. CONFIRMAÇÃO DA SENTENÇA.
+1. A controvérsia recursal essencialmente diz respeito à regularidade de processo administrativo disciplinar, que resultou na demissão de servidora pública, vinculada à Secretaria de Saúde Estadual, por abandono do cargo de auxiliar administrativo.
+2.Em síntese, as teses recursais concentram-se em suscitar a prescrição da pretensão punitiva estatal, para além de questionar erro procedimental no tocante à ausência de citação pessoal da processada, bem como equívoco de mérito no exame da infração que acarretou a pena imposta à servidora.
+3. Registre-se que, a despeito de alguma divergência doutrinária e jurisprudencial, há precedentes relevantes do Superior Tribunal de Justiça que reconhecem a permanência do abandono de emprego, de maneira que o prazo prescricional seria contado desde a cessação da causa, qual seja, o manifesto interesse no retorno ao trabalho.
+4. Neste sentido, é afastada a prescrição, levando-se em conta que a apelada apresentou sucessivas faltas não justificadas desde janeiro de 1994, sem que tenha manifestado qualquer intenção de retorno até 2009, sendo que em janeiro de 2005 foi novamente instaurado procedimento disciplinar, do qual resultou o ato demissional ora impugnado, com data de novembro de 2011.
+5. De outro modo, também não demonstrada a violação ao contraditório ou ampla defesa, na medida em que, não encontrada a servidora em endereço constante na ficha funcional, e ausente qualquer comunicado à Administração, a citação pessoal foi inviabilizada.
+6. Ainda assim, para além de impugnação promovida por defensor dativo, houve posterior participação da servidora no feito, inclusive com a tomada de depoimento pessoal.
+7. Por fim, também é descabida a alegação de não demonstração do elemento subjetivo do abandono de cargo, visto que a apelante não logrou êxito em demonstrar qualquer tentativa de comunicação com a Administração, no sentido de perseguir a preservação de seu vínculo, mesmo tendo havido exclusão de seu nome da folha de pagamento.
+8. Apelo não provido, sentença mantida. Custas e honorários, estes majorados para 15% do valor da causa, por conta da apelante, suspensa a exigibilidade, diante da concessão da gratuidade judiciária desde a origem.
+A parte recorrente alega violação dos arts. 489, inciso II, § 1º, incisos IV e VI, do Código de Processo Civil (CPC), afirmando deficiência de fundamentação do acórdão quanto a três pontos: prescrição da pretensão punitiva, nulidade por falta de exaurimento da citação pessoal e inexistência de elemento subjetivo do abandono de cargo.
+Contrarrazões ao recurso especial apresentadas às fls. 666/671 e contraminuta ao agravo às fls. 716/720.
+O recurso não foi admitido (fls. 672/677), razão pela qual foi interposto o agravo ora examinado (fls. 694/712).
+É o relatório.
+A decisão de admissibilidade foi devidamente refutada na petição de agravo e, por isso, passo ao exame do recurso especial.
+Na origem, cuida-se de ação ordinária com pedido de reintegração, cujo objeto é a anulação do ato demissional aplicado por abandono de cargo.
+O exame da alegação de violação do art. 489, inciso II, § 1º, incisos IV e VI, do Código de Processo Civil (CPC) depende da prévia oposição de embargos de declaração no Tribunal de origem para provocá-lo a se manifestar sobre ponto omisso, contraditório ou obscuro, ou ainda sobre erro material.
+No presente processo não foram opostos embargos de declaração contra o acórdão recorrido (fls. 580/603 ).
+Incide neste caso, por analogia, a Súmula 284 do Supremo Tribunal Federal (STF), segundo a qual "é inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia".
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Majoro em 10% (dez por cento), em desfavor da parte recorrente, o valor já arbitrado dos honorários sucumbenciais, nos termos do art. 85, § 11, do Código de Processo Civil, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º desse mesmo dispositivo, bem como os termos do art. 98, § 3º, desse diploma legal.
+Publique-se. Intimem-se.
+EMENTA
