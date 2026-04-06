@@ -1,0 +1,18 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em nome de JOSE SOUZA SANTANA, custodiado em razão de liberdade provisória condicionada ao pagamento de fiança arbitrada em audiência de custódia, pela suposta prática dos crimes de adulteração de sinal identificador de veículo e direção de veículo automotor sem habilitação (Processo n. 8000778-48.2026.8.05.0213, da Vara Criminal da comarca de Ribeira do Pombal/BA - fls. 13/23).
+O impetrante aponta como autoridade coatora o Desembargador do Tribunal de Justiça da Bahia, que, em 27/3/2026, indeferiu o pedido liminar formulado no HC n. 8021030-32.2026.8.05.0000 (fls. 7 /9).
+Alega hipossuficiência econômica do paciente para prestar a fiança arbitrada, mantendo-se a custódia por motivo exclusivamente financeiro, e sustenta que o Juízo de origem reconheceu a inexistência dos requisitos da prisão preventiva. Defende a superação excepcional da Súmula 691 do Supremo Tribunal Federal diante de flagrante ilegalidade.
+Invoca o art. 325, § 1º, I, do Código de Processo Penal e pleiteia a aplicação do art. 350 do CPP , cujo teor transcreve: "Nos casos em que a fiança for determinada, mas o réu demonstrar a impossibilidade de prestá-la, o juiz poderá substituí-la por outras medidas cautelares previstas no art. 319 do CPP.".
+Requer, em liminar, a imediata dispensa da fiança arbitrada e a consequente expedição de alvará de soltura, salvo se por outro motivo estiver preso, podendo-se manter, se necessário, medidas caut elares do art. 319 do CPP (fl. 5), e no mérito, a concessão definitiva da ordem.
+É o relatório.
+Na espécie, em princípio, seria aplicável a Súmula 691/STF, observada também por esta Corte, segundo a qual não cabe habeas corpus contra indeferimento de pedido liminar em outro writ.
+Esse posicionamento pode ser afastado apenas em situações excepcionais, se evidenciada a c onfiguração de flagrante ilega lidade ou abuso de poder, o que parece ser o caso em tela.
+Com efeito, de acordo com a jurisprudência desta Corte Superior, afigura-se irrazoável manter-se o réu preso cautelarmente apenas em razão do não pagamento de fiança, mormente porque já reconhecida a possibilidade de concessão da liberdade provisória em audiência de custódia (fls. 13/23 ).
+A propósito, conforme a orientação do Superior Tribunal de Justiça, não tendo sido demonstrada a presença dos requisitos autorizadores da segregação preventiva, configura-se constrangimento ilegal a manutenção da prisão com base exclusivamente no não pagamento da fiança arbitrada (AgRg no HC n. 921.013/MG, Ministro Otávio de Almeida Toledo, Desembargador Convocado do TJSP, Sexta Turma, DJe de 4/9/2024 - grifo nosso). No mesmo sentido é o AgRg no HC n. 880.615/SC, relatora Ministra Daniela Teixeira, Quinta Turma, julgado em 23/10/2024, DJe de 30/10/2024.
+Ante o exposto, com base nos precedentes desta Corte, superando o disposto na Súmula 691/STF, concedo liminarmente a ordem para assegurar a imediata liberdade provisória ao paciente, dispensando-o do pagamento da fiança, salvo se por outro motivo estiver preso, e sem prejuízo da fixação de outras medidas cautelares, caso necessárias, para a substituição da fiança.
+Comunique-se, com urgência, às instâncias ordinárias.
+Intime-se o Ministério Público estadual.
+Publique-se.
+EMENTA
+PROCESSUAL PENAL. HABEAS CORPUS. ADULTERAÇÃO DE SINAL IDENTIFICADOR DE VEÍCULO. DIREÇÃO DE VEÍCULO AUTOMOTOR SEM HABILITAÇÃO. PRISÃO PREVENTIVA. SÚMULA 691/STF. SUPERAÇÃO. CONCEDIDA LIBERDADE PROVISÓRIA CONDICIONADA AO PAGAMENTO DE FIANÇA. NÃO PAGAMENTO. DESPROPORCI ONALIDADE DA MEDIDA. CONSTRANGIMENTO ILEGAL EVIDENCIADO.
+Ordem liminarmente concedida, nos termos do dispositivo.
