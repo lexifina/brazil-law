@@ -1,0 +1,28 @@
+DECISÃO
+Trata-se de embargos de declaração opostos por JOSÉ RICARDO IBIAS SCHUTZ contra decisão que conheceu do agravo para não conhecer do recurso especial (e-STJ fls. 1251-1254).
+Sustenta a parte embargante a ocorrência de "premissas equivocadas", visto que "o exame da condenação do Estado do Rio Grande do Sul em honorários advocatícios de sucumbência, à luz do princípio da causalidade, não implica revolvimento de matéria fática-probatória"; "a competência para legislar sobre honorários advocatícios de sucumbência é exclusiva da União" e que "o princípio da causalidade é restrito à perda do objeto (art. 85, § 10, do NCPC/2015), o que não é o caso em apreço (desistência da ação)" (e-STJ fls. 1.258-1.269).
+A parte embargante alega, ainda, ocorrência de omissão, argumentando que a decisão embargada "não se pronunciou sobre as questões relativas a condenação da Fazenda Pública em honorários, após a contratação do advogado, e ao vício de iniciativa, ventiladas no AREsp".
+Intimada, a parte embargada formulou impugnação, postulando a manutenção do decisum (e-STJ fls. 1.277-1.280).
+Passo a decidir.
+Nos termos do art. 1.022 do CPC/2015, são admitidos embargos de declaração quando houver obscuridade, contradição, omissão e erro material na decisão.
+No caso, não ocorreu nenhum dos vícios supracitados.
+Com efeito, a decisão impugnada resolveu a questão controvertida de forma inteligível e congruente, porquanto apresentou todos os fundamentos que alicerçaram o convencimento nela plasmado, bem como em conformidade com a legislação de regência e com o atual entendimento jurisprudencial do Superior Tribunal de Justiça.
+Quanto à alegação de que foram adotadas "premissas equivocadas", a parte embargante apenas demonstra inconformismo com o mérito da conclusão jurídica da decisão embargada, postulando-se a atribuição de efeitos infringentes sem que essa providência decorra de quaisquer vícios de integração que autorizam a oposição dos embargos declaratórios.
+Também não prospera a alegação de omissão quanto "às questões relativas à condenação da Fazenda Pública em honorários, após a contratação do advogado, e ao vício de iniciativa", posto que a decisão está devidamente fundamentada e alicerçada na jurisprudência deste Sodalício.
+Nesse ponto, ressalto que, consoante pacífica jurisprudência desta Corte, o Julgador não está obrigado a rebater, individualmente, todos os argumentos suscitados pelas partes, sendo suficiente que demonstre, fundamentadamente, as razões do seu convencimento.
+A propósito:
+PROCESSUAL CIVIL. MANDADO DE SEGURANÇA. AUTO DE LANÇAMENTO. BASE DE CÁLCULO DE ICMS. OPERAÇÕES INTERESTADUAIS DE TRANSFERÊNCIA DE MERCADORIAS DE MESMO CONTRIBUINTE. EMBARGOS DE DECLARAÇÃO. ALEGAÇÕES DE VÍCIOS NO ACÓRDÃO EMBARGADO. VÍCIOS INEXISTENTES. PRETENSÃO DE REEXAME.
+I - Os embargos não merecem acolhimento. Se o recurso é inapto ao conhecimento, a falta de exame da matéria de fundo impossibilita a própria existência de omissão quanto a esta matéria. Nesse sentido:
+EDcl nos EDcl no AgInt no RE nos EDcl no AgInt no REsp 1.337.262/RJ, relator Ministro Humberto Martins, Corte Especial, julgado em 21/3/2018, DJe 5/4/2018; EDcl no AgRg no AREsp 174.304/PR, relator Ministro Napoleão Nunes Maia Filho, Primeira Turma, julgado em 10/4/2018, DJe 23/4/2018; EDcl no AgInt no REsp 1.487.963/RS, relator Ministro Og Fernandes, Segunda Turma, julgado em 24/10/2017, DJe 7/11/2017.
+II - Segundo o art. 1.022 do Código de Processo Civil de 2015, os embargos de declaração são cabíveis para esclarecer obscuridade;
+eliminar contradição; suprir omissão de ponto ou questão sobre as quais o juiz devia pronunciar-se de ofício ou a requerimento; e/ou corrigir erro material.
+III - Conforme entendimento pacífico desta Corte: "O julgador não está obrigado a responder a todas as questões suscitadas pelas partes, quando já tenha encontrado motivo suficiente para proferir a decisão. A prescrição trazida pelo art. 489 do CPC/2015 veio confirmar a jurisprudência já sedimentada pelo Colendo Superior Tribunal de Justiça, sendo dever do julgador apenas enfrentar as questões capazes de infirmar a conclusão adotada na decisão recorrida." EDcl no MS 21.315/DF, relatora Ministra Diva Malerbi (Desembargadora convocada TRF 3ª Região), Primeira Seção, julgado em 8/6/2016, DJe 15/6/2016.
+IV - Ressalte-se que, no tocante ao juízo de admissibilidade do recurso especial, "a decisão de admissibilidade proferida pelo Tribunal de origem não vincula esta Corte Superior, na medida em que tal juízo está sujeito ao duplo controle, ou seja, neste Tribunal Superior é imprescindível nova análise dos pressupostos recursais".
+(AgInt nos EDcl no AREsp n. 2.174.960/GO, relator Ministro Humberto Martins, Segunda Turma, julgado em 13/2/2023, DJe de 16/2/2023.)
+V - A pretensão de reformar o julgado não se coaduna com as hipóteses de omissão, contradição, obscuridade ou erro material contidas no art. 1.022 do CPC/2015, razão pela qual inviável o seu exame em embargos de declaração.
+VI - Cumpre ressaltar que os aclaratórios não se prestam ao reexame de questões já analisadas com o nítido intuito de promover efeitos modificativos ao recurso. No caso dos autos, não há omissão de ponto ou questão sobre as quais o juiz, de ofício ou a requerimento, devia pronunciar-se, considerando que a decisão apreciou as teses relevantes para o deslinde do caso e fundamentou sua conclusão.
+VII - Embargos de declaração rejeitados.
+(EDcl no AgInt no REsp 1863006/RS, relator Ministro Francisco Falcão, Segunda Turma, julgado em 21/8/2023, DJe de 23/8/2023.).
+Com essas considerações, REJEITO os embargos de declaração.
+Publique-se. Intimem-se.
+EMENTA
