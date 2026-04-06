@@ -1,0 +1,30 @@
+DECISÃO
+Trata-se de agravo manejado por Álcool Química Ca nabrava S.A. contra decisão da Terceira Vice-Presidência do Tribunal de Justiça do Estado do Rio de Janeiro que inadmitiu seu recurso especial ante a incidência das Súmulas 7/STJ e 735/STF.
+A agravante, em síntese, sustenta que: (I) "o que se discute é a higidez do próprio título executivo extrajudicial, e não o acerto do juízo de probabilidade próprio da tutela de urgência. Assim, o objeto do recurso não se confunde com a análise típica de medidas liminares, afastando-se a incidência da Súmula nº 735 do STF" (fl. 436); (II) "não há qualquer necessidade de revolver provas, mas apenas de aplicar a legislação federal à moldura fática já assentada, o que é típico do Recurso Especial" (fl. 439).
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+Verifica-se que o inconformismo não ultrapassa a barreira do conhecimento, pois a parte agravante deixou de impugnar a totalidade dos motivos adotados pelo Tribunal de origem para negar trânsito ao apelo especial.
+De fato, a ora recorrente deixou de rebater, de modo específico, a apontada incidência da Súmula 7/STJ.
+Em relação ao mencionado empeço sumular, conquanto tenha defendido que "não há qualquer necessidade de revolver provas, mas apenas de aplicar a legislação federal à moldura fática já assentada, o que é típico do Recurso Especial" (fl. 439), não realizou o imprescindível cotejo entre o acórdão recorrido e os argumentos veiculados nas razões do apelo raro, a fim de demonstrar especificamente a inaplicabilidade do aludido óbice, nos termos em que aplicado pela Corte de origem.
+Logo, não houve efetiva impugnação a esse fundamento da decisão denegatória de admissibilidade da insurgência excepcional, como demonstram as seguintes ementas (g.n.):
+TRIBUTÁRIO E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. NÃO CONHECIMENTO DO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DA DECISÃO QUE INADMITIU O RECURSO ESPECIAL. ART. 932, III, DO CPC/2015; E SÚMULA 182 DO STJ. DECISÃO MANTIDA. AGRAVO INTERNO DESPROVIDO.
+1. Diante da ausência de impugnação específica dos fundamentos da decisão agravada, deve ser mantida a decisão que deixou de conhecer do agravo em recurso especial, com fundamento no art. 932, III, do CPC/2015; e na Súmula 182 do STJ.
+2. Conforme a jurisprudência, "inadmitido o recurso especial com base na Súmula 7 do STJ, não é suficiente a afirmação genérica de que é desnecessário o reexame de provas, ainda que seja feita uma breve menção à tese sustentada, ou simplesmente a insistência no mérito da controvérsia. É indispensável o cotejo entre o acórdão recorrido e a argumentação trazida no recurso especial que possa justificar o afastamento do óbice processual em questão" (AgInt no AREsp n. 1.991.801/SP, relator Ministro Paulo Sérgio Domingues, Primeira Turma, DJe de 17/3/2023).
+3. Agravo interno desprovido.
+(AgInt no AREsp n. 2.462.244/GO, Relator Ministro Afrânio Vilela, Segunda Turma, DJEN de 17/12/2024.)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA AOS FUNDAMENTOS DA DECISÃO DE INADMISSIBILIDADE. SÚMULA 182/STJ. AGRAVO INTERNO A QUE SE NEGA PROVIMENTO.
+1. A decisão ora recorrida não conheceu do agravo em razão da não impugnação aos fundamentos da decisão que inadmitiu o recurso especial na origem, notadamente quanto ao não cabimento de REsp para reexame fático-probatório e Súmula 83/STJ. Em razão disso, consignou-se a incidência da Súmula 182 do STJ.
+2. A parte, para ver seu recurso especial inadmitido ascender a esta Corte, precisa, primeiro, desconstituir os fundamentos utilizados para a negativa de seguimento daquele recurso sob pena de vê-los mantidos.
+3. É mister repetir que as razões demonstrativas do desacerto da decisão agravada devem ser veiculadas imediatamente nessa oportunidade, pois convém frisar não ser admitida fundamentação a destempo, a fim de inovar a justificativa para ascensão do recurso excepcional, diante da preclusão consumativa.
+4. Em nova análise do agravo interposto, tem-se que a parte agravante efetivamente não rebateu todos os fundamentos da decisão de inadmissão do recurso especial, incidindo à espécie o Enunciado da Súmula 182 do STJ.
+5. Afinal, inadmitido o recurso especial em razão da dissonância da pretensão com jurisprudência desta Corte Superior, incumbiria à parte interessada apontar precedentes contemporâneos ou supervenientes aos referidos na decisão impugnada, procedendo ao cotejo analítico entre eles.
+6. Ademais, o comando contido na Súmula n. 83/STJ também é aplicável aos recursos interpostos com fulcro nas alíneas a e c do permissivo constitucional (AgRg no AREsp 1.958.052/SC, Rel. Min. Laurita Vaz, Sexta Turma, DJe de 11/10/2021).
+7. Ainda, inadmitido o recurso especial com base na Súmula 7 do STJ, não basta a assertiva genérica de que é desnecessária a análise de prova, ainda que seja feita breve menção à tese sustentada ou simplesmente a insistência no mérito da controvérsia. É imprescindível o cotejo entre o acórdão combatido e a argumentação trazida no recurso especial que pudesse justificar o afastamento do citado óbice processual.
+8 . Agravo interno a que se nega provimento.
+(AgInt no AREsp 1.880.201/RJ, Rel. Ministro Manoel Erhardt, Desembargador Convocado do TRF5, Primeira Turma, DJe de 24/11/2021.)
+Incide, desse modo, por analogia, a Súmula 182/STJ ("É inviável o agravo
+do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão recorrida.").
+Registre-se que a Corte Especial do STJ, na assentada de 19 de setembro de
+2018, ao julgar o EAREsp 701.404/SC e o EAREsp 831.326/SP (Rel. Ministro JOÃO OTÁVIO DE NORONHA, Rel. p/ Acórdão Ministro LUIS FELIPE SALOMÃO, CORTE ESPECIAL, julgado em 19/09/2018, DJe 30/11/2018), reforçou a compreensão de que o recorrente deve impugnar especificamente todos os fundamentos da decisão agravada, sob pena de não conhecimento do agravo, por aplicação da Súmula 182.
+ANTE O EXPOSTO, nos termos do art. 932, III, do CPC/2015, não conheço do agravo.
+Publique-se.
+EMENTA
