@@ -1,0 +1,13 @@
+DECISÃO
+À fl. 654, o ESTADO DE SERGIPE informa que "que as partes celebraram acordo extrajudicial abrangendo o objeto do referido cumprimento de sentença, conforme documento anexo. Em razão disso, reconhece-se a superveniente perda do interesse recursal da parte adversa quanto aos embargos de declaração opostos (e-STJ fls. 625/632), devendo essa colenda Corte reconhecer a irresignação como prejudicada."
+Intimada, G. BARBOSA & CIA LTDA. informa que não tem mais interesse no feito, por perda de objeto, requerendo a homologação do acordo de transação extrajudicial e a extinção do feito, com resolução do mérito (fl. 662).
+É o relatório. Decido.
+No caso, verifica-se que o agravo em recurso especial interposto pela ora requerente já fora julgado (fls. 610-619), estando pendente de julgamento nesta Corte apenas os embargos de declaração, de fls. 625-632.
+Com efeito, o Código de Processo Civil de 2015 prestigia a autocomposição como forma consensual de solução de conflitos, prevendo a possibilidade de suspensão do processo por convenção das partes, respeitado o prazo máximo de 6 meses (CPC/2015, art. 313, II, §4º).
+Lado outro, não se olvida que é permitido ao relator, quando for o caso, homologar a autocomposição das partes, nos termos dos arts. 487, III, "b", e 932, I, do CPC/2015 e art. 34, IX do Regimento Interno do Superior Tribunal de Justiça.
+No caso, contudo, a situação descrita na petição, com pedido de homologação dos termos do acordo extrajudicial, traz aos autos uma situação extraordinária que está além das atribuições desta Corte.
+Dessa forma, tendo em vista que a instância de origem reúne melhores condições de realizar as diligências necessárias para acompanhar e fiscalizar os termos acordados, determino a baixa dos autos à origem para que as providências cabíveis sejam adotadas.
+Diante desse contexto, recebo a presente petição também como pedido de desistência dos embargos de declaração de fls. 625-632 e, como dito, embora a homologação de acordo esteja entre as atribuições do relator, nos termos do art. 34, IX, do RISTJ, considerando os termos da avença e em homenagem ao princípio da economia processual, devem os autos ser remetidos ao Juízo de origem, pois a execução do pacto e eventuais divergências acerca de seu cumprimento deverão ser processadas e decididas em primeira instância (art. 516, II, do CPC).
+Ante o exposto, com fundamento no art. 932, inciso III, do CPC e no art. 34, IX, do RISTJ, homologo a desistência dos embargos de declaração e determino o retorno dos autos à origem para homologação e acompanhamento do acordo.
+Publique-se. Intimem-se.
+EMENTA
