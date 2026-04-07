@@ -1,0 +1,30 @@
+DECISÃO
+Cuida-se de agravo interposto por CONFRARIA DA BARBA FRANQUEADORA LTDA. contra decisão que obstou a subida de recurso especial.
+Extrai-se dos autos que a parte agravante interpôs recurso especial, com fundamento no art. 105, III, "a" e "c", da Constituição Federal, contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO DE JANEIRO cuja ementa guarda os seguintes termos (fls. 63-64):
+AGRAVO DE INSTRUMENTO. EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. INSTRUMENTO PARTICULAR DE COMPRA E VENDA DE QUOTAS E OUTRAS AVENÇAS. EXCEÇÃO DE PRÉ-EXECUTIVIDADE REJEITADA. PENHORA INCIDENTE SOBRE ROYALTIES E TAXA DE MARKETING. ALEGADA VIOLAÇÃO À FUNÇÃO SOCIAL DA EMPRESA E À MENOR ONEROSIDADE. INEXISTÊNCIA DE PROVA IRREFUTÁVEL DA SITUAÇÃO FÁTICO-JURÍDICA ALEGADA, SENDO IMPRESCINDÍVEL O APROFUNDAMENTO PROBATÓRIO QUE SE MOSTRA INCOMPATÍVEL COM O INCIDENTE PROPOSTO. A EXCEÇÃO DE PRÉ-EXECUTIVIDADE É MEIO EXCEPCIONAL DE DEFESA, ADMITIDO APENAS PARA MATÉRIAS DE ORDEM PÚBLICA OU QUE PRESCINDAM DE DILAÇÃO PROBATÓRIA, O QUE NÃO SE VERIFICA NA HIPÓTESE DOS AUTOS. A AUSÊNCIA DE ELEMENTOS PROBATÓRIOS ROBUSTOS A JUSTIFICAR A DESCONSTITUIÇÃO DA PENHORA, POR SI SÓ, AUTORIZA A REJEIÇÃO DA EXCEÇÃO DE PRÉ-EXECUTIVIDADE, SOBRETUDO EM RAZÃO DA NECESSIDADE DE INSTRUÇÃO PROBATÓRIA PARA AFERIÇÃO DA VEROSSIMILHANÇA DAS ALEGAÇÕES. INVIÁVEL A CONVERSÃO DA EXCEÇÃO EM
+PROCESSUAL ESTABELECIDO PARA A OPOSIÇÃO DE DEFESAS NA EXECUÇÃO. DESPROVIMENTO DO RECURSO.
+Sem embargos de declaração.
+No recurso especial, aduz a parte recorrente que o acórdão contrariou as disposições contidas nos artigos 833, IV, 914 e 805 do Código de Processo Civil.
+Sustenta, em síntese, que a manutenção da penhora de 100% dos royalties afronta: a cognoscibilidade de ofício e a prova de plan; a proteção às verbas de natureza alimentar por analogia; e o princípio da menor onerosidade com exigência de percentual que preserve a continuidade empresarial, tal como fixado pela jurisprudência repetitiva do Superior Tribunal de Justiça. Subsidiariamente, requer-se a relativização da constrição, limitando-a a percentual que não inviabilize a atividade, nos termos do art. 833, § 2º, do CPC.
+Aponta divergência jurisprudencial.
+Foram oferecidas contrarrazões ao recurso especial (fls. 104-108).
+Sobreveio o juízo de admissibilidade negativo na instância de origem (fls. 110-119), o que ensejou a interposição do presente agravo.
+Apresentada contraminuta do agravo (fls. 130-134).
+É, no essencial, o relatório.
+Atendidos os pressupostos de admissibilidade do agravo, passo ao exame do recurso especial.
+Cinge-se a controvérsia à legalidade da penhora integral (100%) dos royalties e da taxa de marketing, única fonte de receita da franqueadora, e o cabimento da exceção de pré-executividade para reconhecer, de plano, a impenhorabilidade ou a necessidade de limitar a constrição a percentual que não inviabilize a atividade empresarial.
+Na origem, cuida-se de execução de título extrajudicial, com oposição de exceção de pré-executividade rejeitada ante a necessidade de dilação probatória.
+O Tribunal de origem manteve a decisão do Juízo de primeiro grau e negou provimento ao agravo de instrumento, fundamentando o acórdão nos seguintes termos (fls. 69-71):
+A decisão agravada fundou-se na ausência de matéria cognoscível de ofício e na necessidade de dilação probatória para o deslinde da tese defensiva da executada. Assentou, ainda, que não foram juntados aos autos documentos comprobatórios da alegada inviabilidade operacional, como balancetes, fluxo de caixa ou contratos sociais que evidenciassem a exclusividade da fonte de receita.
+Com efeito, consoante iterativa jurisprudência desta Corte e do Superior Tribunal de Justiça, a exceção de pré-executividade é cabível apenas para matérias cognoscíveis de ofício pelo juízo, relacionadas a questões de ordem pública - como ausência de pressupostos processuais ou condições da ação -, ou ainda quando possível seu exame sem necessidade de dilação probatória.
+ ..
+No caso em exame, a alegação de que a constrição incide sobre a totalidade das receitas da empresa e de que sua operação restaria inviabilizada carece de demonstração mínima nos autos, de forma que não é possível, nesta fase de cognição sumária, acolher a pretensão de desconstituição da penhora. A agravante não juntou documentos hábeis a comprovar a exclusividade das receitas oriundas do sistema de franquia, tampouco demonstrou que esgotou outras alternativas executivas menos onerosas ao devedor.
+Dessa forma, a alegação da agravante se distancia do escopo da exceção de pré-executividade, na medida em que depende de dilação probatória, incompatível com a via estreita do instituto.
+Ainda que se reconheça, em tese, a proteção ao princípio da função social da empresa, é imprescindível a prova de que a constrição afeta de modo desproporcional a atividade produtiva e a preservação da empresa, o que não restou configurado (grifo nosso).
+O Tribunal de origem concluiu no sentido de que a tese deduzida na exceção de pré-executividade depende de dilação probatória e que não há nos autos demonstração mínima da alegada inviabilidade operacional e da exclusividade da fonte de receita, como se pode depreender do trecho acima, extraído do acórdão recorrido.
+Afastar o referido entendimento para concluir no sentido de que a impenhorabilidade poderia ser reconhecida de plano e que a penhora integral sobre os royalties e taxa de marketing deve ser reformada por violação dos arts. 914, 805 e 833, IV, do CPC, como pretende o recorrente, demandaria o reexame do material fático-probatório dos autos, o que encontra óbice na Súmula 7/STJ.
+A incidência da Súmula n. 7 do STJ quanto à interposição pela alínea "a " do permissivo constitucional impede o conhecimento do recurso especial pela divergência jurisprudencial sobre a mesma questão.
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Deixo de majorar os honorários nos termos do art. 85, § 11, do CPC tendo em vista que o recurso especial foi interposto nos autos de agravo de instrumento.
+Publique-se. Intime-se.
+ EMENTA
