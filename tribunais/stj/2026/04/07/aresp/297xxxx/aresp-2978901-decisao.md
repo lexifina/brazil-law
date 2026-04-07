@@ -1,0 +1,46 @@
+DECISÃO
+Trata-se de agravo interposto por Grupo Hospitalar do Rio de Janeiro Ltda - Assim Saúde contra decisão que não admitiu recurso especial manejado contra acórdão assim ementado (fls. 554-555):
+APELAÇÃO CÍVEL. DIREITO À SAÚDE. AÇÃO DE OBRIGAÇÃO DE FAZER. PLANO DE SAÚDE. PORTABILIDADE DE CARÊNCIA CONTRATUAL. PARTO A TERMO. RECUSA DE COBERTURA. FALHA NA PRESTAÇÃO DO SERVIÇO. SENTENÇA DE PROCEDÊNCIA PARCIAL. Ação proposta por segurada que havia realizado portabilidade para o plano de saúde da operadora ré, já tendo cumprido prazo de carência no plano de origem. Recusa de cobertura de parto a termo, sob alegação de que a autora não teria cumprido o prazo de carência de 300 (trezentos) dias. Sentença que condenou a ré a cobrir o parto e a indenizar a autora por danos morais, fixados em R$ 12.000,00 (doze mil reais). Apelação da ré. Operadora que não comprovou a impossibilidade de aproveitamento de carência, tal como prevista no art. 3º da Resolução Normativa ANS nº 438/2018. Possibilidade de exigência do cumprimento de novos períodos de carência, inclusive para fins de parto, desde que demonstrado o oferecimento de coberturas inexistentes na segmentação original, o que não restou comprovado pela operadora. Falha na prestação do serviço configurada. Negativa que se mostra abusiva. Dano moral in re ipsa. Quantia arbitrada que não se revela desarrazoada ou desproporcional. Inteligência da Súmula nº 343 do TJRJ. Sentença que se mantém. Recurso ao qual se nega provimento.
+Embargos de declaração não providos, nos quais se consignou inexistência de omissão ou contradição e a inviabilidade de integração para fins de prequestionamento, à luz do art. 1.022 do CPC (fl. 555).
+Nas razões do recurso especial, a parte recorrente alega, em síntese, que o acórdão recorrido violou arts. 374, II e III e 489, § 1º, VI do Código de Processo Civil e 12, V, b e 35-C, I e II da Lei 9.656/1998.
+Argumenta observância do art. 12, V, b, da Lei 9.656/1998.
+Sustenta prazo de carência de 300 dias para parto a termo e afirma que a beneficiária contava apenas 270 dias, legitimando a negativa de cobertura por inexistir urgência ou emergência na programação do parto (fls. 497-501).
+Defende inexistência de portabilidade válida.
+Afirma nova contratação com redução de carências apenas para rede fidelizada, sem compatibilidade entre planos exigida pela Agência Nacional de Saúde Suplementar, mantendo a carência integral para parto a termo, sem ilicitude na negativa (fls. 495-499).
+Alega ausência de pedido médico formal para parto e reputa o parto a termo como eletivo.
+Sustenta necessidade de observância da carência contratual e inexistência de exceções legais aplicáveis. Indica documentos que, a seu ver, não comprovam urgência (fls. 495-498, 501).
+Aponta violação do art. 489, § 1º, VI, do Código de Processo Civil por falta de enfrentamento de precedente e invoca julgado do Superior Tribunal de Justiça para afastar danos morais quando plausível a recusa diante de controvérsia médica sobre urgência do procedimento.
+Indica que o dano moral não é in re ipsa na hipótese relatada (fls. 502-505 e 514-523).
+Sustenta necessidade de revaloração das provas, com base nos arts. 374, II e III, do Código de Processo Civil, sem reexame do acervo, para reconhecer inexistência de conduta ilícita, plausibilidade da recusa e inexigibilidade de indenização por dano moral no caso concreto (fls. 505-506).
+O recurso também aponta divergência jurisprudencial acerca da possibilidade de afastar danos morais em negativa de cobertura de parto a termo durante carência, quando existente controvérsia médica sobre o caráter urgente do procedimento e plausibilidade da recusa, bem como sobre os requisitos para tratamento da revaloração da prova sem reexame.
+Nas suas contrarrazões, a parte recorrida alega que o recurso não impugna os fundamentos centrais do acórdão e que incidem as Súmulas 283 e 284 do Supremo Tribunal Federal, reforçando que houve portabilidade com carências cumpridas, inexistência de prova da impossibilidade de aproveitamento e configuração de urgência seguida de emergência, com danos morais proporcionais e vedação ao reexame fático-probatório pela Súmula 7 do STJ (fls. 535-552).
+A não admissão do recurso na origem ensejou a interposição do presente agravo.
+Na sua impugnação ao agravo, a parte agravada alega que o agravo visa rediscutir matéria fática e interpretação de cláusulas, incidindo as Súmulas 7 e 5 do STJ, que houve portabilidade com cumprimento de carências e que a divergência indicada não guarda similitude fática nem atende ao art. 1.029, § 1º, do Código de Processo Civil, defendendo a manutenção da decisão de não admissão e a aplicação de penalidades por caráter protelatório (fls. 595-605).
+Assim delimitada a questão, satisfeitos os requisitos de admissibilidade do agravo, dele conheço, passando à análise do recurso especial.
+Originariamente, a autora narrou migração de plano após permanecer 4 anos e 9 meses vinculada ao plano anterior, adimplente e com carências cumpridas, buscando cobertura para parto a termo, o que foi negado sob alegação de carência de 300 dias (fls. 4-10).
+No juízo de 1º grau, houve confirmação de tutela para autorização do parto e condenação da operadora ao pagamento de danos morais em R$ 12.000,00 com fundamento na falha do serviço e na abusividade da negativa de cobertura diante da portabilidade e da urgência (fl. 555).
+O Tribunal de origem manteve a sentença. Afirmou que a operadora não provou impossibilidade de aproveitamento das carências na portabilidade prevista no art. 3 da RN ANS 438/2018, apontou falta de clareza contratual e reconheceu o dano moral in re ipsa, à luz da Súmula 343 do TJRJ (fls. 556-557).
+O Tribunal local ao apreciar a apelação entendeu às fls. 417 - 421 - grifei:
+Resta incontroverso que a autora já havia cumprido prazo de carência junto à antiga operadora (Amil) (ID 47898559).
+No entanto, em suas razões, aduz a operadora que a parte ainda estaria dentro do prazo de carência de 300 dias.
+(..)
+Contudo, a apelante não desincumbiu do referido ônus, pois se limita a afirmar, em seu recurso, que a autora deixou de cumprir os 300 dias, conforme explicitado em termo único de promoções.
+Evidente que as regras contratuais devem ser interpretadas em conformidade com a boa-fé objetiva, não podendo ser a operadora favorecida por eventual falta de clareza nas cláusulas por ela própria estabelecidas, em se tratando de contrato de adesão.
+(..)
+Resta evidenciada, por outro lado, a recusa da operadora em efetivar o parto, consoante a mensagem de recusa que acompanha a exordial (ID 47898589). Desse modo, não tendo a ré se desincumbido de demonstrar o fato impeditivo, extintivo ou modificativo do direito autoral (art. 373, inciso II, do CPC), mister reconhecer que houve falha na prestação do serviço, estando correta a sentença ao impor a obrigação de autorização e custeio do procedimento. Isto posto, inegável a configuração do dano moral, o qual exsurge dos próprios fatos narrados (in re ipsa).
+Sobre a tese de cumprimento da carência, noto que a parte não de refutou o fundamento sobre a inexistência de comprovação de que a beneficiária tenha deixado de cumprir a carência no plano anterior, o que atrai o óbice previsto na Súmula 283 do STF.
+A propósito:
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO POR DANOS MATERIAIS E MORAIS. EMBARGOS DE DECLARAÇÃO. PRESTAÇÃO JURISDICIONAL COMPLETA. PREQUESTIONAMENTO. AUSÊNCIA PARCIAL. DEFICIÊNCIA NA FUNDAMENTAÇÃO. INCIDÊNCIA, POR ANALOGIA, DA SÚMULA 284/STF. NECESSIDADE DE REEXAME DE MATÉRIA FÁTICA. SÚMULAS 282, 283, 284 E 356/STF E 7/STJ.
+ .. .
+4. Ausência de impugnação específica a fundamento do acórdão recorrido atrai a incidência, por analogia, da Súmula 283 do Supremo Tribunal Federal.
+ .. .
+6. Agravo interno a que se nega provimento.
+(AgInt nos EDcl no REsp 1711630/SC, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 16/08/2021, DJe 18/08/2021).
+Quanto aos danos morais, a sentença consignou que a preocupação e inseguranças geradas pela negativa de atendimento constitui situação que extrapola o conceito de mero aborrecimento, pois o dano moral está ínsito na gravidade do ilícito em si.
+Rever tais premissas implicaria, necessariamente em reexame de provas, vedado na via eleita em razão do óbice da Súmula 7/STJ.
+A incidência da Súmula 7/STJ prejudica a análise do dissídio jurisprudencial pretendido, inviabilizando o conhecimento do recurso especial também com base na alínea "c" do inciso III do artigo 105 da Constituição Federal.
+Da leitura do acórdão recorrido, verifica-se que o Tribunal de origem se manifestou, expressamente, sobre a incidência dos danos morais em razão do abalo psicológico da parturiente. Sendo assim, não há que se falar em omissão no tocante a esse ponto, nem, portanto, em violação do art. 489 do CPC.
+Em face do exposto, conheço do agravo para negar provimento ao recurso especial.
+Nos termos do art. 85, § 11, do Código de Processo Civil, majoro em 10% (dez por cento) a quantia já arbitrada a título de honorários em favor da parte recorrida, observados os limites estabelecidos nos §§ 2º e 3º do mesmo artigo, ônus suspensos no caso de beneficiário da justiça gratuita.
+Intimem-se.
+EMENTA
