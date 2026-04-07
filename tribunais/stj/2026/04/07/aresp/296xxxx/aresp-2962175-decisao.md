@@ -1,0 +1,14 @@
+DECISÃO
+LUIZ CARLOS MORENO DO CARMO e THIAGO ANTONIO DE OLIVEIRA COUTINHO agravam da decisão que inadmitiu o recurso especial que interpuseram, fundado no art. 105, III, "a", da Constituição Federal, contra acórdão do Tribunal de Justiça do Estado de São Paulo no Recurso em Sentido Estrito n. 1500729-24.2022.8.26.0052, que manteve a pronúncia dos réus por homicídio qualificado (consumado e tentado).
+Nas razões do especial (fls. 2.698-2.715), os recorrentes apontaram a violação dos arts. 226, 395, III e 155 do Código de Processo Penal, pelos seguintes argumentos: a) nulidade do reconhecimento fotográfico; b) pronúncia baseada em testemunhos indiretos e elementos do inquérito; e c) ausência de justa causa para a ação penal. Requereram a despronúncia dos réus.
+Antes mesmo de eventual pronunciamento acerca da admissibilidade do seu recurso, a defesa interpôs agravo, o qual não foi recebido, em virtude do trânsito em julgado do acórdão recorrido e da inexistência de decisão agravada (fl. 2.693).
+O Ministério Público Federal, em parecer de lavra da Subprocuradora-Geral da República Sônia Maria De Assunção Macieira, opinou pelo não provimento do agravo (fls. 2.737-2. 744).
+Decido.
+O agravo é manifestamente incabível, pois se insurge contra decisão inexistente. Conforme certificado à fl. 2.571, houve o trânsito em julgado em relação aos agravantes, que não interpuseram recurso especial no prazo.
+Depois da decisão de admissibilidade proferida pelo Tribunal de origem em relação aos recursos interpostos pelos corréus, a defesa dos agravantes também ajuizou agravo em recurso especial. Todavia, o Presidente da Corte local nem sequer deu prosseguimento ao agravo, conforme se vê (fl. 2.693): "considerando que Thiago Antonio de Oliveira Coutinho e Luiz Carlos Moreno do Carmo não interpuseram recurso especial no presente feito, ocorrendo o trânsito em julgado em relação a eles, conforme certidão lançada à fl. 2.572, fica prejudicado o prosseguimento do agravo apresentado, uma vez que é impossível recorrer de decisão inexistente".
+Desse modo, não há como conhecer do agravo, dada a inexistência de decisão de inadmissibilidade de recurso especial a ser impugnada. É inviável o agravo que busca recorrer de decisão inexistente.
+No mesmo sentido, opinou o Minstério Público Federal, em parecer de lavra da Subprocuradora-Geral da República Sônia Maria De Assunção Macieira:
+Quanto a LUIZ CARLOS MORENO DO CARMO e THIAGO ANTÔNIO DE OLIVEIRA COUTINHO, observa-se que não interpuseram recurso especial, consoante certificado à fl. 2.571, tendo ocorrido o trânsito em julgado em relação a ambos. Nesse cenário, resta prejudicado o agravo interposto, dada a inexistência de decisão passível de reforma.
+À vista do exposto, não conheço do agravo em recurso especial.
+Publique-se e intimem-se.
+EMENTA
