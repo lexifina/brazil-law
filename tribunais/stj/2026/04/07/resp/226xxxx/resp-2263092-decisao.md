@@ -1,0 +1,39 @@
+DECISÃO
+Vistos.
+Trata-se de Recurso Especial interposto pelo CONSELHO REGIONAL DE ENGENHARIA E AGRONOMIA DE MINAS GERAIS contra acórdão prolatado, por unanimidade, pelo Tribunal Regional Federal da 6ª Região, assim ementado (fl. 312e):
+DIREITO PROCESSUAL CIVIL E TRIBUTÁRIO. EXECUÇÃO FISCAL. CONSELHOS PROFISSIONAIS. CERTIDÃO DE DÍVIDA ATIVA. APLICAÇÃO DO ART. 37-A DA LEI Nº 10.522/2002. NULIDADE. EXTINÇÃO DO PROCESSO. RECURSO DESPROVIDO.
+I. CASO EM EXAME
+1. Apelação interposta pelo Conselho Regional de Engenharia e Agronomia de Minas Gerais - CREA/MG contra sentença que extinguiu execução fiscal, sem resolução do mérito, nos termos do art. 485, IV, do CPC, diante da nulidade da CDA apresentada.
+II. QUESTÃO EM DISCUSSÃO
+2. A questão em discussão consiste em definir se os créditos inscritos em CDA por conselhos profissionais, como o CREA/MG, estão sujeitos à disciplina do art. 37-A da Lei nº 10.522/2002, de modo que sua inobservância enseja a nulidade do título e a consequente extinção da execução fiscal.
+III. RAZÕES DE DECIDIR
+3. A nulidade da CDA por vício em seus elementos constitutivos constitui matéria de ordem pública e pode ser declarada de ofício, nos termos do art. 485, IV, do CPC.
+4. O art. 37-A da Lei nº 10.522/2002 impõe que os créditos das autarquias e fundações públicas federais, de qualquer natureza, observem os mesmos juros e multa aplicáveis aos tributos federais, ressalvada apenas a atuação do Banco Central.
+5. Os conselhos profissionais possuem natureza jurídica de autarquia sui generis, conforme entendimento consolidado pelo STF na ADC 36, mas não foram excepcionados pela legislação quanto à aplicação do art. 37-A da Lei nº 10.522/2002.
+6. A jurisprudência reconhece que a observância do referido dispositivo é obrigatória e que a não adequação da CDA aos parâmetros legais impõe sua invalidação, com a consequente extinção da execução fiscal.
+7. No caso, a CDA apresentada pelo CREA/MG não atendeu à disciplina legal e não foi substituída tempestivamente, impondo-se a manutenção da sentença.
+IV. DISPOSITIVO E TESE 8. Recurso desprovido.
+Opostos embargos de declaração, foram rejeitados.
+Com amparo no art. 105, III, a e c, da Constituição da República, a Recorrente aponta ofensa a dispositivos legais, alegando, em síntese:
+- Arts. 3º e ao §1º, do art. 6º da Lei nº 12.514/2011, ao §1º do art. 161 do CTN, ao art. 406 do Código Civil e ao §2º do art. 2º da Lei n. 6.830/1980 - a forma de atualização e cobrança dos valores constantes da CDA encontra respaldo na legislação específica e no entendimento consolidado do STF, afastando a aplicação da taxa SELIC e, consequentemente, o entendimento adotado pelo acórdão recorrido.
+Não obstante a oposição de embargos de declaração, a Corte de origem omitiu-se acerca de questões essenciais ao deslinde da controvérsia.
+Com contrarrazões, o recurso foi admitido.
+Feito breve relato, decido.
+Nos termos do art. 932, III, IV e V, do Código de Processo Civil de 2015, combinados com os arts. 34, XVIII, b e c, e 255, I e II, do Regimento Interno desta Corte, o Relator está autorizado, por meio de decisão monocrática, respectivamente, a:
+i) não conhecer de recurso inadmissível, prejudicado ou que não tenha impugnado especificamente os fundamentos da decisão recorrida;
+ii) negar provimento a recurso ou pedido contrário à tese fixada em julgamento de recurso repetitivo ou de repercussão geral (arts. 1.036 a 1.041), a entendimento firmado em incidente de assunção de competência (art. 947), à súmula do Supremo Tribunal Federal ou desta Corte ou, ainda, à jurisprudência dominante acerca do tema, consoante Enunciado da Súmula n. 568/STJ; e
+iii) dar provimento a recurso se o acórdão recorrido for contrário à tese fixada em julgamento de recurso repetitivo ou de repercussão geral (arts. 1.036 a 1.041), a entendimento firmado em incidente de assunção de competência (art. 947), à súmula do Supremo Tribunal Federal ou desta Corte ou, ainda, à jurisprudência dominante acerca do tema, consoante Enunciado da Súmula n. 568/STJ:
+"O Relator, monocraticamente e no Superior Tribunal de Justiça, poderá dar ou negar provimento ao recurso quando houver entendimento dominante acerca do tema".
+Os dispositivos legais tidos por violados - arts. 3º e ao §1º, do art. 6º da Lei nº 12.514/2011, ao §1º do art. 161 do CTN, ao art. 406 do Código Civil e ao §2º do art. 2º da Lei n. 6.830/1980 - não foram examinados pela Corte de origem.
+O prequestionamento significa o prévio debate da questão no tribunal a quo, à luz da legislação federal indicada, com emissão de juízo de valor acerca dos dispositivos legais apontados como violados.
+É entendimento pacífico desta Corte que a ausência de enfrentamento da questão objeto da controvérsia pelo tribunal a quo impede o acesso à instância especial, porquanto não preenchido o requisito constitucional do prequestionamento, nos termos da Súmula 282 do Colendo Supremo Tribunal Federal: "É inadmissível o recurso extraordinário, quando não ventilada, na decisão recorrida, a questão federal suscitada".
+O atual Estatuto Processual admite o denominado prequestionamento ficto, é dizer, aquele que se consuma " ..  com a mera oposição de aclaratórios, sem que o Tribunal a quo tenha efetivamente emitido juízo de valor sobre as teses debatidas" (AgRg no REsp 1.514.611/PR, Rel. Min. Sérgio Kukina, 1ª T., DJe 21.06.2016), nos seguintes termos:
+Art. 1.025. Consideram-se incluídos no acórdão os elementos que o embargante suscitou, para fins de pré-questionamento, ainda que os embargos de declaração sejam inadmitidos ou rejeitados, caso o tribunal superior considere existentes erro, omissão, contradição ou obscuridade.
+No entanto, na linha da orientação adotada por este Superior Tribunal, somente poder-se-ia considerar prequestionada a matéria especificamente alegada - de forma clara, objetiva e fundamentada - e reconhecida a violação ao art. 1.022 do CPC/15, (AgInt no AREsp 1.017.912/RS, Rel. Ministra ASSUSETE MAGALHÃES, SEGUNDA TURMA, julgado em 03/08/2017, DJe 16/08/2017); (REsp 1.639.314/MG, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 04/04/2017, DJe 10/04/2017); (AgInt no REsp 1.664.063/RS, de minha relatoria, PRIMEIRA TURMA, julgado em 19/09/2017, DJe 27/09/2017).
+Por fim, no que tange aos honorários advocatícios, da conjugação dos enunciados administrativos ns. 3 e 7, editados em 09.03.2016 pelo Plenário desta Corte, depreende-se que as novas regras relativas ao tema, previstas no art. 85 do Código de Processo Civil de 2015, serão aplicadas apenas aos recursos sujeitos à novel legislação, tanto nas hipóteses em que o novo julgamento da lide gerar a necessidade de fixação ou modificação dos ônus da sucumbência anteriormente distribuídos, quanto em relação aos honorários recursais (§ 11).
+Ademais, vislumbrando o nítido propósito de desestimular a interposição de recurso infundado pela parte vencida, entendo que a fixação de honorários recursais, em favor do patrono da parte recorrida, está adstrita às hipóteses de não conhecimento ou improvimento do recurso.
+Quanto ao momento em que deva ocorrer o arbitramento dos honorários recursais (art. 85, § 11, do CPC/15), afigura-se-me acertado o entendimento segundo o qual incidem apenas quando esta Corte julga, pela vez primeira, o recurso, sujeito ao Código de Processo Civil de 2015, que inaugure o grau recursal, revelando-se indevida sua fixação em agravo interno e embargos de declaração.
+Registre-se que a possibilidade de fixação de honorários recursais está condicionada à existência de imposição de verba honorária pelas instâncias ordinárias, revelando-se vedada aquela quando esta não houver sido imposta.
+Posto isso, com fundamento no art. 932, III, do Código de Processo Civil e art. 34, XVIII, a e b, do Regimento Interno desta Corte, NÃO CONHEÇO DO RECURSO ESPECIAL.
+Publique-se e intimem-se.
+EMENTA
