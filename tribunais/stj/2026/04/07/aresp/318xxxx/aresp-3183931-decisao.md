@@ -1,0 +1,93 @@
+DECISÃO
+Cuida-se de agravo interposto por BRCRED SERVIÇOS DE COBRANÇAS LTDA. contra decisão que obstou a subida de recurso especial.
+Extrai-se dos autos que a agravante interpôs recurso especial, com fundamento no art. 105, III, "a" e "c", da Constituição Federal, contra acórdão do TRIBUNAL DE JUSTIÇA DO DISTRITO FEDERAL E DOS TERRITÓRIOS cuja ementa guarda os seguintes termos (fls. 49-51):
+DIREITO PROCESSUAL CIVIL. AGRAVO DE INSTRUMENTO. PENHORA. PERCENTUAL. SALÁRIO. REGRA. IMPENHORABILIDADE. EXCEÇÕES LEGAIS. INAPLICABILIDADE. CASO CONCRETO. AGRAVO DE INSTRUMENTO DESPROVIDO.
+I. CASO EM EXAME
+1. Agravo de instrumento interposto contra decisão que acolheu a impugnação à penhora para desconstituir a constrição determinada de dez por cento (10%) da remuneração da agravada.
+II. QUESTÃO EM DISCUSSÃO
+2. A questão em discussão consiste em definir a possibilidade de penhora de percentual da remuneração da agravada para satisfação de dívida não alimentar, à luz das regras e exceções da impenhorabilidade previstas no Código de Processo Civil.
+III. RAZÕES DE DECIDIR
+3. O art. 833, inc. IV, do Código de Processo Civil estabelece a impenhorabilidade dos salários, vencimentos e outras verbas de natureza remuneratória, salvo exceções previstas expressamente na legislação.
+4. A impenhorabilidade salarial visa garantir a subsistência do devedor e de sua família, em observância ao princípio da dignidade da pessoa humana (art. 1º, inc. III, da Constituição Federal).
+5. O art. 833, § 2º, do Código de Processo Civil excepciona a regra da impenhorabilidade apenas nos casos de prestação alimentícia e quando a remuneração do devedor superar cinquenta (50) salários-mínimos mensais.
+6. O Superior Tribunal de Justiça reconheceu a possibilidade excepcional de relativização da impenhorabilidade salarial para pagamento de dívidas não alimentares, desde que demonstrado que: i) não há inexistem outros meios para quitação do débito e ii) a penhora não compromete a dignidade do devedor e de sua família.
+7. A matéria relativa à penhorabilidade de salário para pagamento de dívidas não alimentares foi afetada ao rito dos recursos repetitivos pelo Superior Tribunal de Justiça (Tema Repetitivo nº 1.230), cuja tese está pendente de julgamento, o que recomenda prudência na adoção da tese flexibilizadora.
+8. O ônus de demonstrar que a penhora pretendida não compromete a subsistência do devedor recai sobre o credor.
+IV. DISPOSITIVO E TESE
+9. Agravo de instrumento desprovido.
+Tese de julgamento: "A relativização da impenhorabilidade das verbas remuneratórias para pagamento de dívida não alimentar é possível apenas em caráter excepcional, quando comprovada a inexistência de outros meios para satisfação do crédito e desde que preservada a dignidade do devedor e de sua família".
+Sem embargos de declaração.
+No recurso especial, a parte recorrente alega que o acórdão contrariou o disposto no art. 833, IV, do CPC.
+Sustenta, em síntese, que ser possível a constrição de parte da remuneração. Aduz que não se verifica afronta a dignidade do devedor.
+Aponta divergência jurisprudencial com arestos desta Corte.
+Foram oferecidas contrarrazões ao recurso especial (fls. 122-126).
+Sobreveio o juízo de admissibilidade negativo na instância de origem (fls. 129-131), o que ensejou a interposição do presente agravo.
+Não apresentada contraminuta do agravo.
+É, no essencial, o relatório.
+Atendidos os pressupostos de admissibilidade do agravo, passo ao exame do recurso especial.
+O Tribunal de origem concluiu no sentido de que o caso em análise não se amolda àquelas situações excepcionais consideradas pela jurisprudência que autorizam a mitigação da impenhorabilidade do salário obtido pelo devedor, como se pode depreender do seguinte trecho extraído do acórdão recorrido (fls. 66-68):
+A limitação à penhorabilidade encontra amparo no princípio clássico da execução moderna, segundo o qual a execução não deve levar o executado a uma situação incompatível com a sua dignidade. Essa é a razão pela qual o Código de Processo Civil não tolera a constrição de determinados bens econômicos, como é o caso da renda de natureza salarial/alimentícia.
+A finalidade da norma protetiva dos vencimentos, salários, remunerações e proventos é tornar possível o atendimento de necessidades básicas de sustento próprio e da família, em atenção ao princípio da dignidade da pessoa humana (art. 1º, inc. III, da Constituição Federal).
+Há divergências sobre o tema em debate, interpretações diversas em julgados não vinculantes que entendem ser possível a mitigação da regra da impenhorabilidade. Todavia, as exceções à regra da impenhorabilidade salarial estão previstas legalmente, de maneira expressa.
+A regra da impenhorabilidade é excepcionada pelo art. 833, § 2º, do Código de Processo Civil, segundo o qual ela não se aplica para pagamento de prestação alimentícia e importâncias salariais excedentes a cinquenta (50) salários-mínimos mensais.
+A ação originária trata-se de ação de execução de título extrajudicial proposta em razão do inadimplemento de notas promissórias. O valor executado não consiste, portanto, em dívida de natureza alimentar.
+A penhora requerida tampouco incide sobre importância excedente a cinquenta (50) salários-mínimos. A agravada é servidora pública e recebe remuneração bruta de R$ 30.767,78 (trinta mil setecentos e sessenta e sete reais e setenta e oito centavos) (id 225704161 dos autos originários).
+A análise não exauriente, própria deste momento recursal, mostra que o caso em análise não se enquadra nas hipóteses legais de exceção da impenhorabilidade das verbas remuneratórias.
+(..)
+A Corte Especial do Superior Tribunal de Justiça firmou o entendimento de ser possível a relativização da impenhorabilidade das verbas remuneratórias para o pagamento de dívida não alimentar por ocasião do julgamento dos Embargos de Divergência em Recurso Especial nº 1.874.222/DF.
+O julgado em referência, no entanto, salientou que a relativização da impenhorabilidade das verbas remuneratórias possui caráter excepcional e poderá ocorrer somente quando: 1) outros meios de garantir a quitação do débito estiverem inviabilizados; e 2) a dignidade do devedor e de sua família for garantida.
+Ressalto que o Superior Tribunal de Justiça afetou a matéria relativa ao alcance da exceção da regra da impenhorabilidade de salário para efeito de pagamento de dívidas não alimentares à sistemática dos recursos repetitivos (Tema Repetitivo nº 1.230 do Superior Tribunal de Justiça). A questão submetida a julgamento é:
+Alcance da exceção prevista no § 2º do art. 833 do CPC, em relação à regra da impenhorabilidade da verba de natureza salarial tratada no inciso IV do mesmo dispositivo, para efeito de pagamento de dívidas não alimentares, inclusive quando a renda do devedor for inferior a cinquenta (50) salários-mínimos.
+É ônus do credor carrear aos autos lastro probatório mínimo que indique que a pretensão de penhora não afeta o sustento do devedor.
+O agravante não apresentou documento que corrobore a pretensão de penhora de percentual salarial da agravada, principalmente porque a simples análise de seu contracheque não permite a conclusão de que a sua dignidade e de seu núcleo familiar estão garantidas.
+A aferição sobre a real capacidade econômica do executado, bem como a possibilidade de se penhorar percentual da sua remuneração, sem afrontar sua dignidade, demanda a análise da existência e natureza de outros compromissos assumidos pelo devedor, como, por exemplo, despesas com tratamento de saúde seu ou de um familiar ou débitos fiscais, o que não restou demonstrado no caso concreto.
+O caso em análise não se amolda àquelas situações excepcionais consideradas pela jurisprudência que autorizam a mitigação da impenhorabilidade do salário obtido pelo devedor, principalmente em razão da ausência de provas, por parte do agravante, de que a penhora de percentual salarial da agravada não comprometerá a sua subsistência digna.
+Esta  Corte  Superior  tinha  fortes  e  abalizados  julgados  no  sentido  da  impenhorabilidade  absoluta  da  remuneração  mensal  do  executado  (salários,  vencimentos,  proventos  de  aposentadoria,  ou  pensões),  corroborando,  em  verdade,  uma  antiga  tradição  do  sistema  jurídico  brasileiro  no  sentido  da  impenhorabilidade  de  verbas  alimentares.
+No  entanto,  em  algumas  oportunidades,  entendeu  este  Superior  Tribunal  por  reconhecer  a  possibilidade  de  as  verbas  alimentares  virem  a  satisfazer  dívidas  objeto  de  execução.  Esta  Terceira  Turma,  quando  do  julgamento  do  REsp  n.  1.514.931/DF,  reconheceu  a  aplicação  da  teoria  do  mínimo  existencial  para  a  interpretação  do  art.  649  do  CPC,  abrindo  a  possibilidade  de  penhora  de  parte  dos  valores  depositados  em  conta  salário  em  que,  em  face  dos  abastados  valores  da  remuneração  do  executado,  não  haveria  o  comprometimento  de  sua  sobrevivência.
+O  acórdão  ficou  assim  ementado:
+RECURSO  ESPECIAL.  EXECUÇÃO  EXTRAJUDICIAL.  PENHORA  DE  VALORES  EM  CONTA  SALÁRIO.  EXCEPCIONAL  POSSIBILIDADE.  QUESTÃO  A  SER  SOPESADA  COM  BASE  NA  TEORIA  DO  MÍNIMO  EXISTENCIAL.
+1.  Controvérsia  em  torno  da  possibilidade  de  serem  penhorados  valores  depositados  na  conta  salário  do  executado,  que  percebe  remuneração  mensal  de  elevado  montante.
+2.  A  regra  geral  da  impenhorabilidade  dos  valores  depositados  na  conta  bancária  em  que  o  executado  recebe  a  sua  remuneração,  situação  abarcada  pelo  art.  649,  IV,  do  CPC/73,  pode  ser  excepcionada  quando  o  montante  do  bloqueio  se  revele  razoável  em  relação  à  remuneração  por  ele  percebida,  não  afrontando  a  dignidade  ou  a  subsistência  do  devedor  e  de  sua  família.
+3.  Caso  concreto  em  que  a  penhora  revelou-se  razoável  ao  ser  cotejada  com  o  valor  dos  vencimentos  do  executado.
+4.  Doutrina  e  jurisprudência  acerca  da  questão.
+5.  RECURSO  ESPECIAL  DESPROVIDO.
+(REsp  1.514.931/DF,  relator  Ministro  Paulo  de  Tarso  Sanseverino,  Terceira  Turma,  julgado  em  25/10/2016,  DJe  de 6/12/2016.)
+Posteriormente,  a  Corte  Especial  firmou  entendimento  no  mesmo  sentido,  conforme  o  seguinte  julgado:
+PROCESSUAL  CIVIL.  EMBARGOS  DE  DIVERGÊNCIA  EM  RECURSO  ESPECIAL.  EXECUÇÃO  DETÍTULO  EXTRAJUDICIAL.  IMPENHORABILIDADE  DE  VENCIMENTOS.  CPC/73,  ART.  649,IV.  DÍVIDA  NÃO  ALIMENTAR.  CPC/73,  ART.  649,  PARÁGRAFO  2º.  EXCEÇÃO  IMPLÍCITA  À  REGRA  DE  IMPENHORABILIDADE.  PENHORABILIDADE  DE  PERCENTUAL  DOS  VENCIMENTOS.  BOA-FÉ.  MÍNIMO  EXISTENCIAL.  DIGNIDADE  DO  DEVEDOR  E  DE  SUA  FAMÍLIA.
+1.  Hipótese  em  que  se  questiona  se  a  regra  geral  de  impenhorabilidade  dos  vencimentos  do  devedor  está  sujeita  apenas  à  exceção  explícita  prevista  no  parágrafo  2º  do  art.  649,  IV,  do  CPC/73  ou  se,  para  além  desta  exceção  explícita,  é  possível  a  formulação  de  exceção  não  prevista  expressamente  em  lei.
+2.  Caso  em  que  o  executado  aufere  renda  mensal  no  valor  de  R$  33.153,04,  havendo  sido  deferida  a  penhora  de  30%  da  quantia.
+3.  A  interpretação  dos  preceitos  legais  deve  ser  feita  a  partir  da  Constituição  da  República,  que  veda  a  supressão  injustificada  de  qualquer  direito  fundamental.  A  impenhorabilidade  de  salários,  vencimentos,  proventos  etc.  tem  por  fundamento  a  proteção  à  dignidade  do  devedor,  com  a  manutenção  do  mínimo  existencial  e  de  um  padrão  de  vida  digno  em  favor  de  si  e  de  seus  dependentes.  Por  outro  lado,  o  credor  tem  direito  ao  recebimento  de  tutela  jurisdicional  capaz  de  dar  efetividade,  na  medida  do  possível  e  do  proporcional,  a  seus  direitos  materiais.
+4.  O  processo  civil  em  geral,  nele  incluída  a  execução  civil,  é  orientado  pela  boa-fé  que  deve  reger  o  comportamento  dos  sujeitos  processuais.  Embora  o  executado  tenha  o  direito  de  não  sofrer  atos  executivos  que  importem  violação  à  sua  dignidade  e  à  de  sua  família,  não  lhe  é  dado  abusar  dessa  diretriz  com  o  fim  de  impedir  injustificadamente  a  efetivação  do  direito  material  do  exequente.
+5.  Só  se  revela  necessária,  adequada,  proporcional  e  justificada  a  impenhorabilidade  daquela  parte  do  patrimônio  do  devedor  que  seja  efetivamente  necessária  à  manutenção  de  sua  dignidade  e  da  de  seus  dependentes.
+6.  A  regra  geral  da  impenhorabilidade  de  salários,  vencimentos,  proventos  etc.  (art.  649,  IV,  do  CPC/73;  art.  833,  IV,  do  CPC/2015),  pode  ser  excepcionada  quando  for  preservado  percentual  de  tais  verbas  capaz  de  dar  guarida  à  dignidade  do  devedor  e  de  sua  família.
+7.  Recurso  não  provido.
+(EREsp  1.582.475/MG,  relator  Ministro  Benedito  Gonçalves,  Corte  Especial,  julgado  em  3/10/2018,  DJe  de 16/10/2018.)
+Recentemente,  a  Corte  Especial  reanalisou  a  questão  para,  na  mesma  linha,  adotar  a  tese  no  sentido  da  "possibilidade  de  relativização  da  impenhorabilidade  das  verbas  de  natureza  salarial  para  pagamento  de  dívidas  de  natureza  não  alimentar,  independentemente  do  montante  recebido  pelo  devedor,  desde  que  preservado  montante  que  assegure  sua  subsistência  digna  e  de  sua  família".
+Confira-se  a  ementa  do  julgado:
+PROCESSUAL  CIVIL.  EMBARGOS  DE  DIVERGÊNCIA  EM  RECURSO  ESPECIAL.  EXECUÇÃO  DE  TÍTULO  EXTRAJUDICIAL.  PENHORA.  PERCENTUAL  DE  VERBA  SALARIAL.  IMPENHORABILIDADE  (ART.  833,  IV  e  §  2º,  CPC/2015).  RELATIVIZAÇÃO.  POSSIBILIDADE.  CARÁTER  EXCEPCIONAL.
+1.  O  CPC  de  2015  trata  a  impenhorabilidade  como  relativa,  podendo  ser  mitigada  à  luz  de  um  julgamento  principio  lógico,  mediante  a  ponderação  dos  princípios  da  menor  onerosidade  para  o  devedor  e  da  efetividade  da  execução  para  o  credor,  ambos  informados  pela  dignidade  da  pessoa  humana.
+2.  Admite-se  a  relativização  da  regra  da  impenhorabilidade  das  verbas  de  natureza  salarial,  independentemente  da  natureza  da  dívida  a  ser  paga  e  do  valor  recebido  pelo  devedor,  condicionada,  apenas,  a  que  a  medida  constritiva  não  comprometa  a  subsistência  digna  do  devedor  e  de  sua  família.
+3.  Essa  relativização  reveste-se  de  caráter  excepcional  e  só  deve  ser  feita  quando  restarem  inviabilizados  outros  meios  executórios  que  possam  garantir  a  efetividade  da  execução  e  desde  que  avaliado  concretamente  o  impacto  da  constrição  na  subsistência  digna  do  devedor  e  de  seus  familiares.
+4.  Ao  permitir,  como  regra  geral,  a  mitigação  da  impenhorabilidade  quando  o  devedor  receber  valores  que  excedam  a  50  salários  mínimos,  o  §  2º  do  art.  833  do  CPC  não  proíbe  que  haja  ponderação  da  regra  nas  hipóteses  de  não  excederem  (EDcl  nos  EREsp  n.  1.518.169/DF,  relatora  Ministra  Nancy  Andrighi,  Corte  Especial,  DJe  de  24.5.2019).
+5.  Embargos  de  divergência  conhecidos  e  providos.
+(EREsp  n.  1.874.222/DF,  relator  Ministro  João  Otávio  de  Noronha,  julgado  em  19/4/2023,  DJe  de  24/5/2023.)
+Nesses  termos,  possível  a  mitigação  do  princípio  da  impenhorabilidade  dos  salários,  independentemente  da  natureza  da  dívida  e  do  valor  a  ser  pago,  quando  a  medida  constritiva  não  comprometer  a  subsistência  digna  do  devedor  e  de  sua  família.
+Na  situação  dos  autos,  a  Corte  de  origem,  considerando  a  peculiaridade  do  caso,  constatou  a  im possibilidade  de  mitigar  a  regra  de  impenhorabilidade , "principalmente em razão da ausência de provas, por parte do agravante, de que a penhora de percentual salarial da agravada não comprometerá a sua subsistência digna" (fl. 68).
+Assim,  para  afastar  a  conclusão  do  Tribunal  de  origem  de  que  o  bloqueio,  no  caso  concreto,  de  algum  modo  infringiria  a  teoria  do  mínimo  existencial,  demandaria  a  análise  do  contexto  fático - probatório,  o  que  se  mostra  inviável  em  recurso  especial  a  teor  da  Súmula  n.  7/STJ.
+Nesse sentido, cito:
+AGRAVO EM RECURSO ESPECIAL. EXECUÇÃO. TÍTULO. EXTRAJUDICIAL. PENHORA. 10% SALÁRIO. INEXISTÊNCIA. PREJUÍZO. SUBSISTÊNCIA. AUSÊNCIA. PREQUESTIONAMENTO. SÚMULA Nº 211/STJ. MODIFICAÇÃO. DECISÃO. IMPOSSIBILIDADE. REEXAME FÁTICO-PROBATÓRIO. SÚMULA Nº 7/STJ.
+1. Não compete a esta Corte o exame de dispositivo constitucional, sob pena de usurpação da competência atribuída ao Supremo Tribunal Federal.
+2. A falta de prequestionamento da matéria suscitada no recurso especial, a despeito da oposição de declaratórios, impede seu conhecimento, a teor da Súmula nº 211/ STJ.
+3. Na hipótese, não há como modificar o entendimento firmado pela Corte local quanto à regularidade da intimação da penhora e à inexistência de prejuízos à subsistência decorrentes da constrição de 10% da verba salarial, sem proceder no revolvimento do acervo fático-probatório dos autos, procedimento vedado pela Súmulas nº 7/STJ.
+4. Agravo conhecido. Recurso especial não conhecido.
+(AREsp n. 3.064.689/MG, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 2/3/2026, DJEN de 5/3/2026.)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CUMPRIMENTO DE SENTENÇA. AGRAVO DE INSTRUMENTO. PENHORA. VERBA SALARIAL. CAPACIDADE FINANCEIRA DO DEVEDOR PRESERVADA. ENTENDIMENTO CONSOLIDADO. SÚMULA Nº 568 DO STJ. PRETENSÃO RECURSAL QUE ENVOLVE O REEXAME DE PROVAS. IMPOSSIBILIDADE. SÚMULA Nº 7 DO STJ. AGRAVO INTERNO IMPROVIDO.
+1. A regra geral de impenhorabilidade de salário (art. 833, IV, do CPC/2015) pode ser excepcionada desde que haja manutenção de percentual capaz de guarnecer a dignidade do devedor e de sua família.
+2. Alterar as conclusões do acórdão recorrido exige reapreciação do acervo fático-probatório da demanda, o que faz incidir o óbice da Súmula nº 7 do STJ.
+3. Agravo interno não provido.
+(AgInt no AREsp n. 2.590.017/SE, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 3/11/2025, DJEN de 6/11/2025.)
+A incidência da Súmula n. 7 do STJ quanto à interposição pela alínea "a" do permissivo constitucional impede o conhecimento do recurso especial pela divergência jurisprudencial sobre a mesma questão.
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Deixo de majorar os honorários nos termos do art. 85, § 11, do CPC, tendo em vista que o recurso especial foi interposto nos autos de agravo de instrumento.
+Publique-se. Intimem-se.
+ EMENTA
