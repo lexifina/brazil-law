@@ -1,0 +1,40 @@
+DECISÃO
+Trata-se de recurso especial interposto por AGUIMAR FERREIRA LUIS E OUTROS, com fundamento no art. 105, inciso III, alínea a, da Constituição Federal, no qual se insurge contra o acórdão do Tribunal de Justiça do Distrito Federal e dos Territórios assim ementado (fls. 115/117):
+DIREITO PROCESSUAL CIVIL. AGRAVO DE INSTRUMENTO. CUMPRIMENTO DE SENTENÇA. EXECUÇÃO CONTRA A FAZENDA PÚBLICA. PRESCRIÇÃO DA PRETENSÃO EXECUTÓRIA. POSSIBILIDADE DE RECONHECIMENTO DE OFÍCIO. INEXISTÊNCIA DE RENÚNCIA TÁCITA PELA ADMINISTRAÇÃO PÚBLICA. RECURSO DESPROVIDO.
+I. CASO EM EXAME
+1. Agravo de Instrumento interposto contra decisão do juízo da 5ª Vara da Fazenda Pública do Distrito Federal que, em sede de cumprimento de sentença, reconheceu a prescrição da pretensão executória referente à devolução de valores descontados a maior a título de contribuição previdenciária entre abril de 1994 e novembro de 1998. Os agravantes sustentam que a decisão afronta a coisa julgada, pois o Tribunal de Justiça do Distrito Federal e Territórios, em decisão anterior, teria reconhecido a prescrição apenas em relação a quatro servidores, permitindo o prosseguimento da execução para os demais. Alegam, ainda, que a Fazenda Pública teria renunciado tacitamente à prescrição ao realizar pagamentos a outros credores na mesma execução.
+II. QUESTÃO EM DISCUSSÃO
+2. Há duas questões em discussão: (i) definir se a decisão que reconheceu a prescrição da pretensão executória violou a coisa julgada, considerando decisão anterior que teria restringido a prescrição a apenas quatro servidores; e (ii) estabelecer se houve renúncia tácita à prescrição pela Fazenda Pública em razão do pagamento realizado a outros exequentes.
+III. RAZÕES DE DECIDIR
+3. A prescrição é matéria de ordem pública e pode ser reconhecida de ofício pelo magistrado, nos termos do artigo 487, inciso II, do Código de Processo Civil, não estando o juízo vinculado a eventual decisão anterior que tenha limitado a prescrição a apenas parte dos credores.
+4. O Superior Tribunal de Justiça firmou entendimento, no julgamento do Tema 1.109, de que a renúncia à prescrição pela Administração Pública exige previsão legal expressa, o que não se verifica no presente caso.
+5. O simples pagamento realizado a outros credores não configura comportamento inequívoco da Administração Pública apto a caracterizar renúncia tácita à prescrição, sob pena de violação aos princípios da legalidade e da indisponibilidade do interesse público.
+6. O reconhecimento da prescrição pelo juízo de origem encontra respaldo na jurisprudência pacífica do STJ, sendo inviável o prosseguimento da execução de pretensão fulminada pela prescrição.
+IV. DISPOSITIVO E TESE
+7. Recurso desprovido.
+Tese de julgamento:
+1. A prescrição da pretensão executória pode ser reconhecida de ofício pelo magistrado, independentemente de decisão anterior que tenha limitado sua abrangência.
+2. A Fazenda Pública não pode renunciar tacitamente à prescrição sem previsão legal expressa, sendo insuficiente, para tanto, a realização de pagamentos a outros credores.
+Dispositivos relevantes citados : CPC, art. 487, II.
+Jurisprudência relevante citada : STJ, AgInt no REsp n. 1.969.825/RS, Rel. Min. Sérgio Kukina, Primeira Turma, DJe 3/5/2024; STJ, REsp n. 1.925.192/RS (Tema 1.109), Rel. Min. Sérgio Kukina, Primeira Seção, DJe 2/10/2023.
+Os embargos de declaração opostos foram rejeitados (fls. 255/263).
+A parte recorrente alega violação do art. 1.022, inciso II, do Código de Processo Civil, por omissão do Tribunal de origem em enfrentar argumentos sobre a limitação da prescrição a apenas quatro exequentes e sobre pagamentos realizados.
+Sustenta ofensa aos arts. 5º, 502, 503, 505, 507 e 508 do Código de Processo Civil por violação da coisa julgada e da preclusão; ao art. 487, inciso II, do Código de Processo Civil por aplicação indevida do reconhecimento de ofício da prescrição; e ao art. 191 do Código Civil por caracterização de renúncia tácita.
+Não foram apresentadas contrarrazões, consoante certidão de decurso de prazo de fl. 327.
+O recurso foi admitido (fls. 333/335).
+É o relatório.
+Na origem, cuida-se de cumprimento de sentença, visando ao recebimento de valores de contribuição previdenciária acima de 6% no período de 1/4/1994 a 30/11/1998.
+Inexiste a alegada violação do art. 1.022 e do art. 489 do Código de Processo Civil, pois a prestação jurisdicional foi dada na medida da pretensão deduzida, tendo o Tribunal de origem apreciado fundamentadamente a controvérsia, não padecendo o julgado de erro material, omissão, contradição ou obscuridade.
+A parte recorrente sustenta omissão da instância ordinária no tocante a estas questões: (a) suposta afronta à coisa julgada e à preclusão pro judicato, afirmando que decisões anteriores teriam afastado a prescrição apenas para quatro exequentes, com determinação de prosseguimento para os demais; (b) reconhecimento de renúncia tácita à prescrição em razão de pagamentos realizados e de manifestação judicial no cumprimento de sentença indicando apenas quatro exequentes como prescritos.
+Todavia, conforme se depreende da análise do acórdão recorrido, o Tribunal de origem, de modo expresso, fundamentado e coeso, enfrentou cada um dos pontos supostamente omissos, tendo concluído que: (i) a prescrição é matéria de ordem pública e pode ser conhecida de ofício (art. 487, II, do Código de Processo Civil), não havendo impedimento por pronunciamentos anteriores que tenham limitado sua incidência; e (ii) a renúncia tácita à prescrição pela Administração Pública exige previsão legal expressa, à luz do Tema 1.109 do Superior Tribunal de Justiça, não se inferindo de pagamentos ou de condutas administrativas.
+É importante ressaltar que o contraponto aos argumentos das partes não demanda a citação literal de suas palavras ou dos mesmos dispositivos legais. É suficiente que haja fundamentação fática e jurídica coerente e adstrita ao que se debate nos autos.
+Nos exatos termos do acórdão recorrido, o Tribunal de origem assim se manifestou (fls. 125/126):
+"Ainda que tenha havido decisão anterior restringindo o alcance da prescrição a apenas quatro servidores, cabe ressaltar que a prescrição pode ser reconhecida a qualquer tempo, inclusive de ofício, razão pela qual o juízo não estava vinculado a eventual limitação anterior da decisão.
+Quanto à alegada renúncia tácita, o entendimento firmado no Tema 1.109 do STJ é claro ao dispor que não ocorre renúncia tácita da prescrição, salvo se houver previsão legal autorizativa, o que não se verifica na hipótese dos autos.
+O simples pagamento a outros exequentes não caracteriza comportamento inequívoco da Administração Pública que pudesse implicar na renúncia à prescrição em relação aos agravantes.
+( ) o reconhecimento da prescrição pelo juízo de origem encontra amparo na jurisprudência pacífica do STJ, segundo a qual não há direito subjetivo do exequente ao prosseguimento de execução contra a Fazenda Pública quando a pretensão executória encontra-se fulminada pela prescrição."
+O Tribunal de origem reconheceu a possibilidade de novo pronunciamento sobre prescrição executória, destacando tratar-se de matéria de ordem pública e não vinculada a delimitações pretéritas, bem como afastou a renúncia tácita com base em fatos e elementos probatórios relativos a pagamentos, manifestações processuais e atos praticados na execução, além de aplicar a tese firmada no Tema 1.109/STJ. Entendimento diverso, conforme pretendido, implicaria o reexame do contexto fático-probatório dos autos, circunstância que redundaria na formação de novo juízo acerca dos fatos e das provas, e não na valoração dos critérios jurídicos concernentes à utilização da prova e à formação da convicção, o que impede o conhecimento do recurso especial quanto ao ponto.
+Incide no presente caso a Súmula 7 do Superior Tribunal de Justiça (STJ), segundo a qual "a pretensão de simples reexame de prova não enseja recurso especial".
+Ante o exposto, conheço parcialmente do recurso especial e, na parte conhecida, a ele nego provimento.
+Publique-se. Intimem-se.
+EMENTA
