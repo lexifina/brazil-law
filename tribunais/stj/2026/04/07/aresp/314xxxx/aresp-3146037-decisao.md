@@ -1,0 +1,47 @@
+DECISÃO
+Trata-se de agravo interposto por CARLOS ANDRÉ CARVALHO ACIOLI contra a decisão que inadmitiu o recurso especial, apresentado com fundamento no art. 105, III, a, da Constituição Federal, contra o acórdão exarado pelo Tribunal de Justiça do Rio Grande do Sul no julgamento do Agravo de Execução Penal n. 8003116-39.2025.8.21.0001/RS, assim ementado (fl. 86):
+EXECUÇÃO PENAL. AGRAVO. REMIÇÃO DE PENA. TRABALHO INTERNO. PRELIMINAR. NEGATIVA DE JURISDIÇÃO.
+A negativa de jurisdição pressupõe que a alegação defensiva deixou de ser analisada pelo Magistrado, o que não procede, pois o juízo da execução se manifestou e desacolheu o pedido defensivo, fundamentadamente. Da mesma forma, a DEFESA participou ativamente do Processo Administrativo Disciplinar, que teve resultado favorável, já que o reeducando foi absolvido das acusações de prática de falta grave. Eventuais recursos contra as decisões administrativas tem procedimento próprio, conforme o Regimento Disciplinar Penitenciário, não cabendo revisão pelo juízo da execução. Preliminar rejeitada.
+MÉRITO. PERDA DE UMA CHANCE. AFASTAMENTO PREVENTIVO DA LIGA LABORAL PELA SUPOSTA PRÁTICA DE FALTA GRAVE. ABSOLVIÇÃO. GARANTIA DE RETORNO PARA ATIVIDADE SEMELHANTE.
+A DEFESA alega perda de uma chance, buscando concessão de remição da pena referente ao período em que o apenado restou afastado da atividade laboral. Ademais, requer a recolocação em atividade semelhante à anterior. No caso, por decisão da administração do presídio, diante da notícia de prática de falta grave, o reeducando foi preventivamente afastado da atividade laboral que até então exercia. O isolamento preventivo, segundo o RDP, tem duração máxima de dez dias, visando a apuração do fato. Porém, os critérios para inclusão em nova liga laboral, após o julgamento do PAD, são exclusivos da penitenciária. Vale ressaltar que o interesse no trabalho interno é maior do que a quantidade de vagas oferecidas aos apenados. Sendo assim, inviável garantir a recolocação imediata na mesma posição que preenchia anteriormente, pois, sem a menor dúvida, a vaga já não está mais disponível. Inclusive, não há menção no sentido de que a demora na recolocação tenha sido decorrente da suposta falta grave. Por outro lado, diante das frequentes remições de pena deferidas e do expressivo saldo total de dias remidos, verifica-se que o apenado permanece se dedicando à liga laboral, além do estudo. Diante disso, não há que se falar em remição de pena por período que deixou de trabalhar ou garantia de reinserção na mesma atividade laboral que ocupava anteriormente. Decisão mantida.
+PRELIMINAR REJEITADA. AGRAVO DEFENSIVO IMPROVIDO. UNÂNIME.
+Esse acórdão foi objeto de embargos de declaração, rejeitados pelo órgão julgador (fls. 105/112).
+O recorrente suscita violação dos arts. 66, III, f, 41, II e 126, todos da Lei de Execução Penal; e arts. 186, 187 e 927 do Código Civil.
+Alega que houve negativa de jurisdição na execução penal, por ofensa ao art. 66, III, f, da Lei n. 7.210/1984, porque o juízo de primeiro grau teria se abstido de controlar a legalidade e as consequências do afastamento cautelar da liga laboral, sob o argumento de discricionariedade administrativa.
+Sustenta ofensa ao art. 41, II, e ao art. 126, ambos da Lei n. 7.210/1984, e negativa de vigência aos arts. 186, 187 e 927 da Lei n. 10.406/2002, ao defender remição ficta como indenização pela perda de uma chance de remir a pena no período de afastamento cautelar de 259 dias, com retorno a atividade semelhante.
+Aponta violação aos arts. 60, caput e parágrafo único, e 58, caput, da Lei de Execução Penal, afirmando que a suspensão do direito ao trabalho ultrapassou os prazos legais (10 dias e 30 dias), o que imporia remição ficta, por analogia à detração.
+Pede o provimento do recurso especial (fls. 116/133).
+Contrarrazões às fls. 134/145.
+A Corte de origem inadmitiu o reclamo com base nos seguintes fundamentos: 1) matéria constitucional veiculada em sede imprópria; 2) incidência da Súmula 83/STJ quanto à negativa de jurisdição e à remição ficta; 3) incidência da Súmula 7/STJ para afastar reexame de premissas fáticas sobre recolocação e nexo causal; e 4) ausência de prequestionamento dos arts. 58 e 60 da Lei de Execução Penal, aplicando as Súmulas 211/STJ e 282/STF (fls. 146/153), sendo a decisão atacada pelo presente agravo (fls. 155/177).
+Contrarrazões apresentadas às fls. 134/145.
+O Ministério Público Federal pugna pelo não provimento do agravo em recurso especial, tendo em vista a impossibilidade de remição ficta (fls. 197/201).
+É o relatório.
+O presente agravo deve ser conhecido, já que reúne os requisitos de admissibilidade.
+Passando ao recurso especial, quanto à violação do art. 66, III, f, da Lei de Execução Penal, da leitura do acórdão à fl. 82, verifica-se que o acórdão transcreveu a decisão de primeiro grau, indicando que o indeferimento do tempo de remição do período foi indeferido em razão da aplicação do afastamento cautelar, prerrogativa que o Juízo considerou exercido dentro dos limites estabelecidos na legislação vigente.
+A competência fixada no dispositivo indicado diz respeito à repartição de competências no âmbito do Poder Judiciário, não referindo ao controle jurisdicional da administração penitenciária. A discordância quanto ao mérito da decisão jurisdicional não passa pela competência.
+Nesse cenário, tenho como nítido que a pretensão recursal encontra óbice na Súmula 284/STF.
+Assim, considerando a natureza vinculada do recurso especial e o fato de que os dispositivos indicados não ostentam comando normativo apto a infirmar o fundamento do acórdão atacado, tampouco para respaldar a tese deduzida no especial, é de rigor a incidência da Súmula 284/STF.
+Sobre o tema, confira-se:
+ ..
+3. É inadmissível o inconformismo por deficiência na sua fundamentação quando o recurso especial deixa de indicar especificamente de que forma o dispositivo legal teria sido violado ou quando este não possui comando normativo suficiente para infirmar os fundamentos do acórdão recorrido, tampouco para sustentar a tese defendida pelo recorrente. Aplicação, por analogia, da Súmula nº 284/STF.
+4. Agravo conhecido para conhecer em parte do recurso especial e, nessa extensão, negar-lhe provimento.
+(AREsp n. 2.246.000/SP, Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 2/3/2026, DJEN de 5/3/2026 - grifo nosso).
+No mesmo sentido, confira-se o AgRg no AREsp n. 2.842.334/SP, Ministro Otavio de Almeida Toledo (Desembargador convocado do TJ/SP), Sexta Turma, DJEN 27/5/2025.
+Nos termos do § 4º do art. 126 da Lei de Execução Penal, o preso impossibilitado, por acidente, de prosseguir no trabalho ou nos estudos continuará a beneficiar-se com a remição. A jurisprudência deste Tribunal Superior entende que o dispositivo deve ser interpretado restritivamente, embora a interpretação teleológica autorize a sua aplicação em caso de doença grave.
+Em suporte:
+ ..
+1. A necessidade de interpretação restritiva da remição ficta, em atenção aos objetivos da execução penal, não pode resultar em mera aplicação literal da norma, sem se atentar para sua real finalidade.
+O § 4º do art. 126 da Lei de Execuções Penais, ao prever a remição ficta, nas hipóteses de acidente, busca proteger o apenado que se vê impossibilitado de prosseguir no trabalho em razão de limitações físicas de saúde. Nessa linha de intelecção, a teleologia da norma em análise autoriza sua interpretação extensiva para que graves problemas de saúde incapacitantes também autorizem a remição ficta.
+ ..
+4. Agravo regimental a que se nega provimento. Ordem concedida de ofício para reconhecer a remição ficta em benefício da paciente.
+(AgRg no HC n. 1.001.270/BA, Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJEN de 16/12/2025)
+No mesmo sentido: AgRg no HC n. 998.390/SP, relator Ministro Otávio de Almeida Toledo (Desembargador Convocado do TJSP), Sexta Turma, julgado em 3/9/2025, DJEN de 8/9/2025; AgRg nos EDcl no REsp n. 1.893.570/SP, relator Ministro Messod Azulay Neto, Quinta Turma, julgado em 17/9/2024, DJe de 19/9/2024;
+No caso, o paciente foi afastado do programa em razão de apuração de falta disciplinar. A demora na recolocação implica em acusar o Estado de omissão no fornecimento do trabalho, o que também não enseja a concessão da remição.
+Em reforço: EDcl no AgRg nos EDcl no AREsp n. 1.697.170/SP, relator Ministro João Otávio de Noronha, Quinta Turma, julgado em 23/3/2021, DJe de 29/3/2021.
+Assim, improcedente o pedido no ponto.
+Por fim, quanto à alegação de violação dos arts. 60, caput e parágrafo único, e 58, caput, da Lei de Execução Penal, o recurso, no entanto, padece de falta de prequestionamento, pois a matéria não foi debatida na Corte de origem, nem mesmo em sede de julgamento de aclaratórios (Súmula 211/STJ).
+Ante o exposto, conheço do agravo para conhecer em parte do recurso especial e, nessa extensão, negar-lhe provimento.
+Publique-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. LEI DE EXECUÇÃO PENAL. VIOLAÇÃO DO ART. 66, III, f, DA LEP. CONTROLE JURISDICIONAL DA EXECUÇÃO. SÚMULA 284/STF. DEFICIÊNCIA NA FUNDAMENTAÇÃO. INTERPRETAÇÃO RESTRITIVA DA REMIÇÃO FICTA. EXCEÇÃO POR DOENÇA GRAVE. AFASTAMENTO CAUTELAR POR APURAÇÃO DISCIPLINAR. DEMORA NA RECOLOCAÇÃO LABORAL. REMIÇÃO. FICTA NÃO AUTORIZADA. VIOLAÇÃO DOS ARTS. 58 E 60 DA LEP. SÚMULA 211/STJ. AUSÊNCIA DE PREQUESTIONAMENTO.
+Agravo conhecido para conhecer em parte do recurso especial e, nessa extensão, negar-lhe provimento.
