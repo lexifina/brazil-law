@@ -1,0 +1,31 @@
+DECISÃO
+LUIZ CARLOS NASCIMENTO MENDONÇA, condenado pela prática do crime de roubo majorado, agrava de decisão que inadmitiu seu recurso especial, fundado no art. 105, III, "a" e "c", da Constituição Federal, contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE SANTA CATARINA na Apelação Criminal n. 0001343-75.2017.8.24.0039/SC.
+Nas razões do especial, a defesa alegou dissídio jurisprudencial e violação dos arts. 226 e 386, V e VII, do Código de Processo Penal.
+O referido recurso foi inadmitido no juízo prévio de admissibilidade realizado pelo Tribunal local, o que ensejou a interposição deste agravo.
+O Ministério Público Federal, na pessoa da Subprocuradora-Geral da República Paula Bajer Fernandes, manifestou-se pelo não conhecimento do agravo em recurso especial (fls. 354-359 ).
+Decido.
+I. Não seguimento do recurso especial
+A Corte local, no s termos do art. 1.030, I, "b", do CPC, negou seguimento ao recurso especial, em virtude da aplicação do Tema Repetitivo n. 1.258 do STJ. Todavia, o agravante não interpôs, na instância anterior, o agravo previsto no art. 1.030, § 2º, do CPC, único recurso cabível para inaugurar o exame da matéria, o que inviabiliza, nesse ponto, o conhecimento do agravo, em razão da preclusão consumativa.
+Nesse sentido:
+ ..  É incabível a interposição do agravo em recurso especial contra decisão denegatória do recurso especial fundamentada em recurso repetitivo e proferida após a vigência do CPC/15 (17/5/2022), pois o recurso cabível é o agravo interno dirigido ao próprio Tribunal de origem, nos termos dos arts. 1.030, § 2º, e 1.042, caput, do referido diploma  ..  (AgInt no AgInt no AREsp n. 2.250.020/SP, Rel. Ministro Marco Buzzi, 4ª T., DJe 5/10/2023).
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. NEGATIVA DE SEGUIMENTO COM FUNDAMENTO NO ART. 1.030, INCISO I, ALÍNEA B, DO CÓDIGO DE PROCESSO CIVIL. VIA RECURSAL INADEQUADA. INADMISSÃO DO APELO NOBRE PELO TRIBUNAL DE ORIGEM. MINUTA DE AGRAVO QUE NÃO INFIRMA ESPECIFICAMENTE TODOS OS FUNDAMENTOS DA DECISÃO AGRAVADA. INCIDÊNCIA DA SÚMULA N. 182/STJ. SÚMULAS N. 7/STJ E 83/STJ. RAZÕES RECURSAIS. IMPUGNAÇÃO GENÉRICA. AGRAVO REGIMENTAL DESPROVIDO.
+1. O único recurso cabível seria o agravo interno ou regimental, dirigido ao próprio Tribunal de origem, segundo previsão expressa do art. 1.030, § 2.º, daquele mesmo diploma normativo, c.c. o art. 3.º do Código de Processo Penal. Impossibilidade de aplicação do princípio da fungibilidade.
+ ..
+(AgRg no AREsp n. 2.295.325/SP, Rel. Ministra Laurita Vaz, 6ª T., DJe 9/5/2023)
+AGRAVO REGIMENTAL NOS EMBARGOS DE DECLARAÇÃO NO HABEAS CORPUS. OPOSIÇÃO DE EMBARGOS DE DECLARAÇÃO CONTRA A DECISÃO QUE INADMITIU OS RECURSOS PARA A INSTÂNCIA EXTRAORDINÁRIA. NÃO CABIMENTO. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. Para impugnar decisão que obsta trânsito a recurso excepcional e que contenha simultaneamente fundamento relacionado à sistemática dos recursos repetitivos ou da repercussão geral (art. 1.030, I, do CPC) e fundamento relacionado à análise dos pressupostos de admissibilidade recursais (art. 1.030, V, do CPC), a parte sucumbente deve interpor, simultaneamente, agravo interno (art. 1.021 do CPC) caso queira impugnar a parte relativa aos recursos repetitivos ou repercussão geral e agravo em recurso especial/extraordinário (art. 1.042 do CPC) caso queira impugnar a parte relativa aos fundamentos de inadmissão por ausência dos pressupostos recursais.
+2. Portanto, segundo o entendimento desta Corte Superior, o único recurso cabível contra a decisão de admissibilidade do recurso especial é o previsto no art. 1.042 do CPC, salvo na hipótese de "decisão efetivamente incognoscível para o seu aviamento".
+3. Todavia, a decisão que inadmitiu o recurso especial não se revela portadora de nenhum defeito que impeça a sua compreensão, visto que indicou, fundamentadamente, a incidência das Súmulas n. 283 e n. 284 do STF, das Súmulas n. 7 e n. 83 do STJ, bem como ausência de prequestionamento.
+4. Considerando-se a exigência da dupla via de impugnação, se a própria defesa informa sobre a existência de fundamento relacionado à sistemática da repercussão geral e, ao mesmo tempo, afirma que não interpôs o agravo em recurso extraordinário, não há como aplicar-se a fungibilidade para que os aclaratórios sejam recebidos como agravo interno, por absoluta ausência de interesse processual, se não houve a impugnação da decisão que inadmitiu o recurso extraordinário.
+5. Agravo regimental não provido.
+(AgRg nos EDcl no HC n. 807.368/RJ, Rel. Ministro Rogerio Schietti Cruz, 6ª T., DJe 18/5/2023)
+II. Inadmissão do recurso especial
+O Tribunal de origem inadmitiu o recurso especial em razão da Súmula n. 7 do STJ e da não comprovação do dissídio jurisprudencial (cotejo analítico).
+Todavia, o recorrente, no agravo em exame, não refutou nenhum dos fundamentos acima referidos, o que atrai a incidência do art. 932, III, do CPC e a aplicação da Súmula n. 182 do STJ: "É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente o s fundamentos da decisão agravada".
+Ressalto, por oportuno, que, para refutar a Súmula n. 7 do STJ, não bastam a reprodução das razões do especial e (ou) a afirmação genérica de que o caso não demanda reexame de fatos e provas, mas a revaloração jurídica deles. É imperioso apontar os fatos incontroversos descritos no acórdão e a solução jurídica diversa extraída a partir deles, o que não ocorreu na espécie.
+Ademais, para atacar a não comprovação do dissídio jurisprudencial (cotejo analítico), é necessária a indicação dos excertos do recurso especial em que a defesa entende haver procedido ao cotejo analítico, o que deixou de fazer.
+Com efeito, "A decisão de inadmissibilidade do recurso especial não é formada por capítulos autônomos, mas por um único dispositivo, sendo exigido da parte agravante a impugnação de todos os fundamentos da decisão que, na origem, não admitiu o recurso especial" (REsp n. 1.589.562/AL, relator Ministro Paulo Sérgio Domingues, Primeira Turma, julgado em 20/2/2024, DJe de 1/3/2024), o que não se verifica na hipótese em análise.
+III. Dispositivo
+À vista do exposto, com fundamento no art. 932, III, do Código de Processo Civil, c/c o art. 253, parágrafo único, I, do RISTJ, não conheço do agravo em recurso especial.
+Publique-se e intimem-se.
+EMENTA
