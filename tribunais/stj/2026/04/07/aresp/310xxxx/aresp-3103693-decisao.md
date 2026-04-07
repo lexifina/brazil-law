@@ -1,0 +1,24 @@
+DECISÃO
+JOSE JEOVA DA SILVA agrava de decisão que inadmitiu o recurso especial interposto, com fundamento no art. 105, III, "a", da Constituição Federal, contra acórdão do Tribunal de Justiça do Estado do Amapá (Apelação n. 0032976-96.2023.8.03.0001).
+Consta nos autos que o réu foi condenado a 1 ano de detenção, em regime aberto, mais 10 dias multa, pela prática do crime previsto no art. 12 da Lei n. 10.826/2003.
+No recurso especial, a defesa apontou violação do art. 400 do Código de Processo Penal e aduziu que "a juntada do laudo pericial após o encerramento da fase de instrução e alegações finais compromete gravemente o contraditório e a ampla defesa, uma vez que a defesa técnica é diretamente impactada por tal prova técnica" (fl. 365).
+O reclamo foi inadmitido na origem, o que ensejou o agravo de fls. 492-502, no qual a parte impugna a incidência da Súmula n. 7 do STJ.
+O Ministério Público Federal manifestou-se pelo não conhecimento agravo e, caso conhecido, pelo seu desprovimento (fls. 569-570).
+Decido.
+Sobre a controvérsia, extrai-se da sentença o seguinte (fl. 221, grifei):
+No tocante a preliminar relativa a nulidade das provas pelo cerceamento de defesa decorrente da juntada tardia de laudo pericial de arma de fogo não merece prosperar, explico.
+A juntada do laudo definitivo de arma de fogo após as alegações finais não configura nulidade, pois, conforme registrado no evento 76, foi oportunizado à defesa o direito de impugná-lo. Não se verifica cerceamento de defesa, pois a defesa teve pleno acesso ao conteúdo do laudo e oportunidade de se manifestar sobre ele. A simples alegação de juntada extemporânea não é suficiente para ensejar nulidade, especialmente sem demonstração concreta de prejuízo, conforme preceitua o art. 5º, LV da CF.
+Como é cediço, a nulidade apontada pela defesa é de natureza formal, nos termos do art. 563 do CPP, e não absoluta como tenta fazer crer a defesa. Para que haja reconhecimento de nulidade formal, é imprescindível que a parte demonstre o prejuízo real causado pela irregularidade.
+No presente caso, a defesa não apresentou nenhuma evidência de que a extemporaneidade do laudo tenha prejudicado o exercício do contraditório ou impactado substancialmente sua ampla defesa ou o conteúdo da instrução processual.
+Pelo contrário, a confissão do acusado, somada às provas robustas, como os depoimentos unânimes das testemunhas policiais e da própria defesa, que confirmam a posse da arma, afasta qualquer dúvida quanto à materialidade e autoria do delito. A juntada do laudo, embora tardia, não altera o conjunto probatório, que já sustenta com clareza a condenação do acusado.
+Logo, a nulidade, sem a comprovação de prejuízo, não deve ser reconhecida, mantendo-se a regularidade do processo, pelo que afasto a preliminar aventada pela defesa.
+O Tribunal de origem, ao rechaçar a tese de nulidade do feito, consignou (fl. 349):
+Rejeito a prejudicial de nulidade e cerceamento de defesa pela juntada do laudo pericial de arma de fogo após as alegações finais, haja vista que foi determinada a intimação da defesa para manifestação sobre o laudo pericial (#74) e, inclusive, juntada a manifestação defensiva (#76), de modo que a nulidade foi sanada, na forma do art. 572, II, do CPP.
+A Corte estadual evidenciou que a juntada do laudo pericial após as alegações finais não configurou nulidade, pois a defesa foi regularmente intimada para manifestação, nos termos do art. 572, II, do CPP.
+Ressalto que, conforme posicionamento jurisprudencial deste Tribunal Superior, em homenagem ao art. 563 do CPP, não se declara a nulidade do ato processual se a irregularidade: a) não foi suscitada em prazo oportuno e b) não vier acompanhada da prova do efetivo prejuízo para a parte, como na espécie.
+Por certo, não se pode olvidar que, para a declaração de nulidade de determinado ato processual, deve haver a demonstração de eventual prejuízo concreto suportado pela parte. Não é suficiente a mera alegação da ausência de alguma formalidade, mormente quando se alcança a finalidade que lhe é intrínseca.
+Nesse sentido, prevalece na jurisprudência a conclusão de que,
+Em matéria de nulidade, rege o princípio pas de nullité sans grief, segundo o qual não há nulidade sem que o ato tenha gerado prejuízo para a acusação ou para a defesa. Não se prestigia, portanto, a forma pela forma, mas o fim atingido pelo ato. Por essa razão, a desobediência às formal idades estabelecidas na legislação processual só pode acarretar o reconhecimento da invalidade do ato quando a sua finalidade estiver comprometida em virtude do vício verificado, trazendo prejuízo a qualquer das partes da relação processual (HC n. 261.698/SP, Rel. Ministro Rogerio Schietti, 6ª T., DJe 6/4/2015).
+À vista do exposto, com fundamento no art. 932, VIII, do CPC, c/c o art. 253, parágrafo único, II, "b", parte final, do RISTJ, conheço do agravo para negar provimento ao recurso especial.
+Publique-se e intimem-se.
+EMENTA
