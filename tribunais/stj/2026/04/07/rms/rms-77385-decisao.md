@@ -1,0 +1,10 @@
+DECISÃO
+Trata-se de recurso em mandado de segurança interposto pelo Ministério Público do Estado de Minas Gerais contra acórdão do Tribunal de Justiça do Estado de Minas Gerais.
+O recorrente tinha com objetivo expedição de ofícios às operadoras Vivo, Claro, Tim e Oi para que informem eventuais endereços do denunciado, viabilizando o regular prosseguimento da ação penal que, passados mais de quatro anos desde a instauração do inquérito, não havia localizado o investigado para citação.
+Consta das informações prestadas que o Ministério Público ofereceu denúncia em 27/08/2025, a qual foi recebida em 17/12/2025, circunstância que evidencia a perda superveniente do objeto. Isso porque, uma vez superada a fase investigatória, torna-se irrelevante a realização de diligências destinadas à localização do investigado para fins de proposta de ANPP (fls. 642-645).
+Nesse sentido, manifestou-se o Ministério Público Federal (fls. 702-703):
+Ademais, a peça acusatória já foi devidamente recebida em 17 de dezembro de 2025, determinando-se a citação do réu e o encaminhamento ao CEJUSC para fins de suspensão condicional do processo quanto ao crime de furto simples.
+Nesse contexto, verifica-se a ocorrência da perda superveniente do objeto do recurso, porquanto a utilidade da prestação jurisdicional invocada no mandado de segurança desapareceu, uma vez que (i) a fase inquisitorial, na qual o indeferimento da diligência ocorreu, está superada, (iii) o interesse na localização do investigado especificamente para a celebração do ANPP - fundamento central da impetração - esvaziou-se com a desistência do acordo e o oferecimento da denúncia, e (iii) a relação processual já se angularizou com o recebimento da exordial acusatória, passando a demanda a seguir o rito da ação penal, com meios próprios de citação e localização do réu previstos no Código de Processo Penal.
+Ante o exposto, noticiada a perda do objeto, julgo prejudicado o recurso em mandado de segurança.
+Publique-se. Intimem-se.
+ EMENTA
