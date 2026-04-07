@@ -1,0 +1,40 @@
+DECISÃO
+Trata-se de agravo interposto pelo MINISTÉRIO PÚBLICO DO ESTADO DO PIAUÍ contra decisão que inadmitiu recurso especial manejado contra acórdão proferido pelo Tribunal de Justiça daquele ente federativo.
+Consta dos autos que a Defesa do agravado impetrou habeas corpus perante a Corte de origem, insurgindo-se contra a prisão preventiva decretada no bojo de investigação pela suposta prática do delito tipificado no art. 121, § 2º, IV, c/c o art. 14, II, ambos do Código Penal (homicídio qualificado tentado).
+O Tribunal a quo concedeu a ordem para relaxar a prisão cautelar, reconhecendo o excesso de prazo para o oferecimento da denúncia, aplicando, contudo, medidas cautelares diversas da prisão.
+O acórdão restou assim ementado (fls. 335/336):
+PROCESSO PENAL - HABEAS CORPUS - TENTATIVA DE HOMICÍDIO QUALIFICADO - EXCESSO DE PRAZO PARA O OFERECIMENTO DA DENÚNCIA E INÍCIO DA INSTRUÇÃO PROCESSUAL - PERÍODO QUE ULTRAPASSA 5 (CINCO) MESES - ATRASO QUE NÃO PODE SER ATRIBUÍDO À DEFESA - OFENSA AO PRINCÍPIO DA RAZOABILIDADE - CONSTRANGIMENTO ILEGAL EVIDENCIADO - ORDEM CONHECIDA E CONCEDIDA.
+No recurso especial, fundado na alínea "a" do permissivo constitucional, o Parquet estadual apontou violação dos arts. 312, caput, 313, I, 315 e 316, parágrafo único, todos do Código de Processo Penal (fls. 340/360).
+Sustentou, em síntese, a legalidade da manutenção da segregação cautelar para a garantia da ordem pública, dada a gravidade concreta do delito e o modus operandi (contexto de disputa entre organizações criminosas). Alegou, ademais, a inexistência de constrangimento ilegal por excesso de prazo, aduzindo que a demora para o oferecimento da denúncia decorreu da complexidade do feito e da necessidade de diligências complementares imprescindíveis, não havendo desídia estatal.
+Contrarrazões à fls. 363/364.
+O Tribunal de origem inadmitiu o apelo nobre.
+A Procuradoria-Geral da República manifestou-se pelo conhecimento e provimento do recurso (fls. 421/425).
+É o relatório.
+Decido.
+O agravo preenche os requisitos de admissibilidade, razão pela qual passo ao exame do recurso especial.
+A controvérsia cinge-se à verificação da legalidade da prisão preventiva e à configuração, ou não, de excesso de prazo para a formação da culpa (oferecimento da denúncia).
+O Tribunal de origem, soberano na análise do acervo fático-probatório, concluiu pelo relaxamento da prisão preventiva sob o fundamento de que o paciente, ora agravado, encontrava-se segregado há mais de quatro meses sem que a exordial acusatória tivesse sido oferecida, considerando tal lapso temporal desarrazoado para o caso concreto.
+Extrai-se do acórdão o seguinte excerto (fl. 327):
+O paciente encontra-se, portanto, segregado há 4 (quatro) meses sem ter sido denunciado, situação que configura constrangimento ilegal por conta do excesso de prazo, até porque o transcurso significativo de tempo antes do início do processo criminal, como no caso, está em desacordo com os princípios da dignidade da pessoa humana, razoabilidade e proporcionalidade, e contraria os requisitos temporais da prisão cautelar, que devem ser excepcionais, breves e provisórios.
+Como se observa, a Corte estadual, ao analisar as peculiaridades da demanda, consignou expressamente que não se tratava de feito complexo e que a demora era injustificada, não podendo ser atribuída à Defesa.
+Embora o agravante sustente que a dilação do prazo para o oferecimento da denúncia se justificava pela necessidade de diligências complementares e pela complexidade da causa, envolvendo suposta disputa de facções criminosas, o acolhimento de tal tese demandaria, inevitavelmente, a revisão das premissas fáticas estabelecidas pela instância ordinária.
+Com efeito, a jurisprudência desta Corte Superior é firme no sentido de que a aferição da razoabilidade do prazo processual não resulta de simples operação aritmética, exigindo o exame da complexidade da causa, da conduta das partes e da atuação do Judiciário.
+Todavia, quando o Tribunal a quo, com base nos elementos dos autos, atesta a inexistência de complexidade e a ausência de justificativa plausível para o retardo, a reversão desse entendimento em sede de recurso especial encontra óbice na Súmula n. 7 deste tribunal.
+Exemplificativamente:
+PROCESSUAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. PENAL. ROUBO SIMPLES E CORRUPÇÃO DE MENOR. INTIMAÇÃO DA PARTE CONTRÁRIA. OFERECIMENTO DE CONTRARRAZÕES AO AGRAVO REGIMENTAL. AUSÊNCIA DE PREVISÃO LEGAL. PRISÃO PREVENTIVA. RELAXAMENTO. EXCESSO DE PRAZO RECONHECIDO PELO TRIBUNAL DE ORIGEM. RECURSO MINISTERIAL. RAZÕES DISSOCIADAS DO ACÓRDÃO ATACADO. INCIDÊNCIA DA SÚMULA N. 284/STF. RAZOABILIDADE E PROPORCIONALIDADE DA PRISÃO. REVOLVIMENTO FÁTICO-PROBATÓRIO. INCIDÊNCIA DA SÚMULA N. 7/STJ. AGRAVO REGIMENTAL DESPROVIDO.
+1. "Não existe previsão legal ou regimental de intimação da parte contrária para a apresentação de contrarrazões ao agravo regimental (art. 258 do RISTJ). O direito ao contraditório e à ampla defesa são atendidos com a intimação para a apresentação de contrarrazões ao recurso especial" (EDcl no AgRg no REsp n. 1.382.803/MA, relator Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 10/10/2017, DJe 19/10/2017).
+2. O inconformismo que apresenta fundamentação deficiente, dissociada das razões expostas no acórdão recorrido, atrai a incidência da Súmula n. 284/STF.
+3. No que concerne à alegação do Parquet de que o excesso de prazo seria, na hipótese, razoável e proporcional, para se desconstituir as conclusões da Corte de origem sobre a ilegalidade desse excesso, seria necessário proceder ao reexame do conjunto fático-probatório dos autos, o que encontra óbice na Súmula n. 7/STJ.
+4. Agravo regimental desprovido.
+(AgRg no AREsp n. 1.793.924/MG, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 9/11/2021, DJe de 12/11/2021.)
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. PRISÃO PREVENTIVA. REQUISITOS. REVOLVIMENTO FÁTICO-PROBATÓRIO. NECESSIDADE. SÚMULA N. 7 DO STJ. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. Conforme reiteradamente decido por este Superior Tribunal de Justiça, o exame da presença dos pressupostos do art. 312 do Código de Processo Penal, a fim de se perquirir a necessidade da prisão cautelar, enseja o reexame do conteúdo fático-probatório dos autos, providência inadmissível em recurso especial (Súmula 7/STJ) (ut AgRg no REsp 1229817/MT, Rel. Ministro Ribeiro Dantas, Quinta Turma, DJe 17/2/2016). ,
+2. É plenamente possível que, embora presentes os motivos ou os requisitos que tornariam cabível a prisão preventiva, o juiz - à luz do princípio da proporcionalidade e das novas alternativas fornecidas pela Lei n. 12.403/2011 - considere a opção por uma ou mais das medidas indicadas no art. 319 do Código de Processo Penal o meio suficiente e adequado para obter o mesmo resultado - a proteção do bem jurídico sob ameaça - de forma menos gravosa. No caso, o TJAP concluiu, de forma fundamentada, que o comparecimento bimensal em juízo e o monitoramento eletrônico pelo prazo de 120 dias seriam suficientes.
+3. Agravo regimental não provido.
+(AgRg no AREsp n. 3.115.516/AP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 17/3/2026, DJEN de 24/3/2026.)
+No que tange à alegação de presença dos requisitos autorizadores da prisão preventiva (art. 312 do CPP) para a garantia da ordem pública, verifica-se que o acórdão recorrido fundamentou o relaxamento da custódia precipuamente na ilegalidade decorrente do excesso de prazo.
+Uma vez reconhecida a ilicitude da manutenção do cárcere pela extrapolação injustificada dos prazos processuais, a análise isolada do periculum libertatis torna-se inócua para reverter a conclusão do julgado, pois a persistência dos motivos da preventiva não legitima a prisão que se tornou ilegal pelo excesso de tempo sem a formação da culpa.
+Dessa forma, as conclusões da instância ordinária sobre a desídia estatal e a ausência de complexidade do feito são inafastáveis nesta via recursal, impondo-se a manutenção do acórdão recorrido.
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
+ EMENTA
