@@ -1,0 +1,29 @@
+DECISÃO
+DENIS RODRIGO CELESTINO SILVA agrava de decisão que inadmitiu seu recurso especial, interposto com base no art. 105, III, "a", da Constituição Federal, contra acórdão proferido pelo Tribunal Regional Federal da 6ª Região na Apelação Criminal n. 0001155-16.2019.4.01.3813.
+Nas razões recursais, a defesa aponta a violação do art. 65, III, "d", do Código Penal, ao argumento de que o recorrente faz jus ao reconhecimento da confissão espontânea.
+Requer o provimento do recurso, a fim de que seja reduzida a reprimenda.
+O apelo especial foi inadmitido durante o juízo prévio de admissibilidade, o que ensejou a interposição deste agravo. O Ministério Público Federal manifestou-se pelo não provimento do reclamo (fls. 1.327-1.330).
+Decido.
+O agravo é tempestivo e infirmou os fundamentos da decisão agravada, razões pelas quais comporta conhecimento.
+O especial, por sua vez, suplanta o juízo de prelibação, haja vista a ocorrência do necessário prequestionamento, além de estarem presentes os demais pressupostos de admissibilidade (cabimento, legitimidade, interesse, inexistência de fato impeditivo, tempestividade e regularidade formal), motivos pelos quais avanço na análise de mérito da controvérsia.
+Extrai-se dos autos que o agravante foi condenado pela prática do delito previsto no art. 337-A do Código Penal, à pena de 4 anos e 2 meses de reclusão mais 100 dias-multa, em regime semiaberto.
+Quanto ao pretendido reconhecimento da atenuante da confissão espontânea, certo é que este Superior Tribunal possui o entendimento de que, se a confissão do acusado foi utilizada para corroborar o acervo probatório e fundamentar a condenação, deve incidir a atenuante prevista no art. 65, III, "d", do Código Penal, sendo irrelevante o fato de a confissão haver sido espontânea ou não, total ou parcial, ou mesmo que tenha havido posterior retratação.
+Nesse sentido foi editada a Súmula n. 545 do STJ, verbis: "Quando a confissão for utilizada para a formação do convencimento do julgador, o réu fará jus à atenuante prevista no art. 65, III, d, do Código Penal".
+Em 10/9/2025, no julgamento do Tema Repetitivo n. 1.194 (REsp n. 2.001.973/RS), a Terceira Seção modificou os entendimentos sobre a matéria e firmou as seguintes teses:
+DIREITO PENAL. RECURSO ESPECIAL REPETITIVO. TEMA N. 1.194 DO STJ. CONFISSÃO ESPONTÂNEA. INFLUÊNCIA NA FORMAÇÃO DO CONVENCIMENTO DO JULGADOR. DESNECESSIDADE. RETRATAÇÃO. EFEITOS. CONFISSÃO PARCIAL E QUALIFICADA. PROPORCIONALIDADE. RECURSO PARCIALMENTE PROVIDO. TESES FIXADAS COM MODULAÇÃO DE EFEITOS.
+ ..
+Teses do Tema n. 1.194 do STJ:
+1. A atenuante genérica da confissão espontânea, prevista no art. 65, III, d, do Código Penal, é apta a abrandar a pena independentemente de ter sido utilizada na formação do convencimento do julgador e mesmo que existam outros elementos suficientes de prova, desde que não tenha havido retratação, exceto, neste último caso, que a confissão tenha servido à apuração dos fatos.
+2. A atenuação deve ser aplicada em menor proporção e não poderá ser considerada preponderante no concurso com agravantes quando o fato confessado for tipificado com menor pena ou caracterizar circunstância excludente da tipicidade, da ilicitude ou da culpabilidade.
+ ..
+(REsp n. 2.001.973/RS, relator Ministro Og Fernandes, Terceira Seção, julgado em 10/9/2025, DJEN de 16/9/2025.)
+No entanto, verifico que, no caso, as instâncias ordinárias, em nenhum momento, fizeram menção às declarações prestadas pelo réu para concluir pela sua condenação no tocante ao crime de sonegação de contribuição previdenciária.
+Ao contrário, o Tribunal de origem consignou que "o apelante sustenta que não agiu com dolo ao omitir informações nos Guias de Recolhimento do FGTS e Informações à Previdência Social (GFIP), alegando desconhecimento das irregularidades e atribuindo as falhas ao contador e as confusões administrativas na empresa" (fl. 1.216).
+Com efeito, a Corte federal refutou o reconhecimento da confissão espontânea, nos seguintes termos (fl. 1.217, grifei):
+O réu não admitiu de forma inequívoca sua responsabilidade pelos fatos descritos na denúncia, o que excluiu a configuração da confissão espontânea. Durante o interrogatório e em oportunidades em que se manifestou nos autos, o apelante apresentou alegações no sentido de que não possuía dolo nas condutas imputadas, atribuindo a responsabilidade pelos fatos ao contador da empresa, sustentando, ainda, que os créditos fiscais pendentes evitariam a tipicidade das condutas.
+Essas afirmações demonstram que o réu, além de não assumir sua responsabilidade pelos atos ilícitos, buscou transferir a culpa para terceiros e construir a tese de ausência de dolo o que é incompatível com a confissão espontânea dos fatos que lhe foram imputados. A confissão espontânea, nos termos do artigo 65, inciso III, alínea "d", do Código Penal, exige que o agente reconheça integralmente sua responsabilidade, o que não ocorreu neste caso.
+No caso, uma vez que os depoimentos prestados pelo agravante não foram utilizados para a formação do convencimento dos julgadores - que, conforme visto, se valeram dos demais elementos fático-probatórios colacionados aos autos para concluir pela condenação -, não identifico a apontada violação legal.
+O que se concluiu é que o réu não admitiu os fatos. Para afastar a conclusão do acórdão estadual e entender pela incidência da atenuante, seria necessário o revolvimento de todo o conjunto fático-probatório produzido nos autos, providência que, conforme cediço, é incabível na via do recurso especial, consoante o enunciado na Súmula n. 7 do STJ, in verbis: "A pretensão de simples reexame de prova não enseja recurso especial".
+À vista do exposto, conheço do agravo para, com fundamento no art. 932, III, do CPC, c/c o art. 253, parágrafo único, II, "a", do RISTJ, não conhecer do recurso especial.
+Publique-se e intimem-se.
+EMENTA
