@@ -1,0 +1,18 @@
+DECISÃO
+Cuida-se de Carta Rogatória por meio da qual a Procuradoria da República da Comarca do Porto Oeste - Portugal solicita a realização de diligências para avaliação das condições de vida, habitacionais e de relações familiares do menor V. D. A. com sua progenitora G. G. S. A. no Brasil, referente ao Processo Administrativo de Promoção e Proteção n. 97 /25.0T9PRD. Ressalto que o requerimento formulado ao Ministério da Justiça português não proveio de autoridade judiciária daquele país.
+Consultado previamente sobre a concessão do exequatur, com contraditório diferido, o Ministério Público opinou por sua não concessão com a consequente extinção do processo sem resolução de mérito e devolução da Carta Rogatória ao Ministério da Justiça e Segurança Pública para adoção do pedido estrangeiro por meio de auxílio direto.
+É o relatório.
+Decido
+No caso em análise, não há decisão judicial a ser submetida ao juízo de admissibilidade formal do Superior Tribunal de Justiça, mas sim um pedido de assistência que tem por finalidade a realização de estudos sociais de G. G. S. A. relativamente ao Processo Administrativo de Promoção e Proteção n. 97 /25.0T9PRD.
+Nos termos do art. 28 do Código de Processo Civil e do art. 216-O, § 2º, do Regimento Interno do Superior Tribunal de Justiça, "os pedidos de cooperação jurídica internacional que tiverem por objeto atos que não ensejem juízo delibatório do Superior Tribunal de Justiça, ainda que denominados de carta rogatória, serão encaminhados ou devolvidos ao Ministério da Justiça para as providências necessárias ao cumprimento por auxílio direto", como na espécie.
+No mesmo sentido:
+ ..
+2. A carta rogatória e o auxílio direto convivem no ordenamento jurídico como sistemas de cooperação internacional em matéria penal, entretanto são institutos com ritos e procedimentos diversos, mormente em razão das normas aplicáveis e da origem da decisão que ensejou o pedido estrangeiro.
+3. O pedido de assistência direta dos Estados Unidos da América (mutual legal assistance) firmou-se no Acordo de Assistência Judiciária em Matéria Penal, celebrado entre Brasil e Estados Unidos, devidamente integrado ao nosso ordenamento jurídico. A jurisprudência do Supremo Tribunal Federal e do Superior Tribunal de Justiça é no sentido de que os tratados e convenções internacionais de caráter normativo incorporados ao sistema jurídico brasileiro têm eficácia de lei ordinária e força normativa.
+4. Na carta rogatória passiva, existe decisão judicial oriunda de juízos ou tribunais estrangeiros que, para serem executados em território nacional, precisam do juízo de delibação do Superior Tribunal de Justiça, sem, contudo, adentrar-se no mérito da decisão proveniente do país alienígena. No auxílio direto, há um pedido de assistência do Estado estrangeiro diretamente ao Estado rogado, no exercício de atividade investigatória, para que este preste as informações solicitadas ou, havendo necessidade legal, submeta o pedido à Justiça Federal competente para julgar a providência requerida (medidas acautelatórias), conforme o caso concreto. A assistência direta decorre de acordo ou tratado internacional de cooperação em que o Brasil é, necessariamente, signatário.
+(AgInt na CR n. 11.165/EX, Rel. Ministra Laurita Vaz, Corte Especial, DJe de 15.9.2017. Grifei.)
+Ante o exposto, nos termos do art. 485, VI, do Código de Processo Civil, não conheço do pedido e julgo extinto o processo sem resolução do mérito.
+Devolva-se esta Carta Rogatória ao Ministério da Justiça para as providências necessárias ao cumprimento por auxílio direto.
+Publique-se.
+Intimem-se.
+EMENTA
