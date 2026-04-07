@@ -1,0 +1,10 @@
+DECISÃO
+Trata-se de embargos de declaração opostos por UNIVERSO ONLINE contra a decisão de fls. 1.430/1.435, de minha lavra, que conheceu do agravo para dar provimento ao recurso especial da embargante.
+Nas razões dos embargos de declaração, a embargante alega, em síntese, a existência de erro material na decisão embargada, ao ter reconhecido a sucumbência recíproca e determinado a distribuição proporcional dos ônus sucumbenciais. Sustenta que, conforme expressamente consignado na decisão, o recurso especial foi provido para julgar improcedente o pedido de indenização por danos morais em relação ao UOL, o que implica a improcedência total da ação em relação à embargante. Argumenta, assim, que não há que se falar em sucumbência recíproca, devendo os autores arcar integralmente com as custas processuais e honorários advocatícios, nos termos do art. 85, § 2º, do Código de Processo Civil.
+Assiste razão à embargante.
+Com efeito, conforme expressamente consignado na decisão embargada, o recurso especial foi provido para afastar integralmente a condenação imposta ao UOL, julgando-se improcedente o pedido indenizatório em relação à referida parte. Nesse contexto, não subsiste sucumbência recíproca, porquanto a embargante logrou êxito integral em sua pretensão.
+A menção à sucumbência recíproca, portanto, configura erro material, passível de correção por meio de embargos de declaração, nos termos do art. 1.022, III, do CPC.
+Dessa forma, impõe-se o ajuste da parte dispositiva da decisão embargada, a fim de afastar a sucumbência recíproca e atribuir aos autores o ônus integral pelo pagamento das custas processuais e dos honorários advocatícios, os quais devem ser fixados em 10% (dez por cento) sobre o valor atualizado da causa, observada, se for o caso, a suspensão de exigibilidade prevista no art. 98, § 3º, do CPC.
+Em face d o exposto, acolho os embargos de declaração para sanar erro material, com efeitos modificativos, a fim de afastar a sucumbência recíproca e condenar os autores ao pagamento integral das custas processuais e dos honorários advocatícios, nos termos da fundamentação.
+Intimem-se.
+EMENTA
