@@ -1,0 +1,18 @@
+DECISÃO
+EZEQUIEL CARLOS DA SILVA alega sofrer coação ilegal em seu direito de locomoção, em decorrência de acórdão proferido pelo Tribunal de Justiça do Estado de Pernambuco na Apelação Criminal n. 0006952-76.2023.8.17.5001.
+A defesa aponta a ocorrência de reformatio in pejus, uma vez que o acórdão afastou a análise desfavorável de uma vetorial, sem redução proporcional da pena-base. Requer, por isso, a redução da pena.
+O Ministério Público Federal manifestou-se pela denegação da ordem (fls. 836-843).
+Decido.
+Extrai-se dos autos que o paciente foi condenado, em primeiro grau, às penas de 11 anos e 4 meses de reclusão mais 24 dias-multa, em regime fechado e 3 meses e 25 dias de detenção, em regime semiaberto, pela prática dos delitos previstos nos arts. 157, § 2º, VII e 307, ambos do Código Penal.
+No caso, o Juiz de primeiro grau fixou a pena-base do réu em 5 anos e 4 meses de reclusão, por considerar desfavoráveis a culpabilidade, os antecedentes e a personalidade do agente. Assim, tem-se que o Magistrado sentenciante atribuiu o valor de 5 meses e 10 dias a cada vetor negativo.
+A Corte de origem, embora haja decotado a avaliação negativa da personalidade do réu, manteve o quantum da pena-base fixado na sentença. Confira-se (fl. 20, grifei):
+Procedido com o reexame dos vetores do art. 59, do CP, sendo possível nessa segunda instância reavaliar os critérios dosimétricos sem incorrer em reformatio in pejus, tenho como presentes duas circunstâncias desfavoráveis ao réu, a saber, a culpabilidade e os antecedentes criminais, a pena-base fixada em 05 (cinco) anos e 04 (quatro) meses mantem-se inalterada.
+É entendimento deste Tribunal Superior ser indispensável a redução da pena inicial quando reconhecida ilegalidade, segundo o conteúdo do Tema n. 1.214, firmado nos moldes da sistemática dos recursos repetitivos (grifei):
+É obrigatória a redução proporcional da pena-base quando o tribunal de segunda instância, em recurso exclusivo da defesa, afastar circunstância judicial negativa reconhecida na sentença. Todavia, não implicam reformatio in pejus a mera correção da classificação de um fato já valorado negativamente pela sentença para enquadrá-lo como outra circunstância judicial, nem o simples reforço de fundamentação para manter a valoração negativa de circunstância já reputada desfavorável na sentença.
+(REsp n. 2.058.970/MG, REsp n. 2.058.971/MG, REsp n. 2.058.976/MG, relator Ministro Sebastião Reis Júnior, Terceira Seção, julgado em 28/8/2024, DJe de 12/9/2024)
+Assim, a se considerar que a Corte estadual entendeu remanescerem contra o réu duas vetoriais, mantido o cálculo feito pelo Juiz primevo, a pena-base deve ser fixada em 4 anos, 10 meses e 20 dias de reclusão.
+Identificada a ilegalidade na primeira fase da dosimetria, passo a readequar a reprimenda.
+Partindo dos critérios adotados pelas instâncias ordinárias, fixo a pena-base em 4 anos, 10 meses e 20 dias de reclusão mais 12 dias-multa, em razão dos maus antecedentes e da culpabilidade. Na segunda etapa, a sanção foi exasperada em 1 ano pela reincidência e reduzida em 8 meses pela atenuante da confissão espontânea, o que perfaz 5 anos, 2 meses e 20 dias de reclusão mais 12 dias-multa. Na terceira fase, a sanção foi aumentada em 1/3 pelo emprego de arma branca, o que resulta em 6 anos, 11 meses e 16 dias de reclusão mais 16 dias-multa. Por fim, aplicada a fração de 1/2, pela continuidade delitiva, a pena fica definitivamente estabelecida em 10 anos, 5 meses e 9 dias de reclusão mais 24 dias-multa.
+À vista do exposto, concedo a ordem, a fim de redimensionar a pena 10 anos, 5 meses e 9 dias de reclusão mais 24 dias-multa.
+Publique-se e intimem-se.
+EMENTA
