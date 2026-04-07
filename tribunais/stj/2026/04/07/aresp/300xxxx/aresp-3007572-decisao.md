@@ -1,0 +1,18 @@
+DECISÃO
+Trata-se de agravo (art. 1.042 do CPC), interposto por STELMAN CARLOS COSTA GALVÃO, contra decisão que não admitiu recurso especial, ante a aplicação da Súmula 07 do STJ.
+Nas razões de agravo, a parte insurgente busca o destrancamento do reclamo.
+Contraminuta apresentada pela agravada.
+É o relatório.
+Decido.
+O recurso não é admissível, por violação ao princípio da dialeticidade.
+1. Observa-se das razões do agravo, que a parte recorrente não refutou analiticamente como lhe deveria o fundamento de inadmissão da decisão agravada.
+1.1. A decisão de inadmissibilidade na origem pontuou expressamente que a insurgência encontra óbice da Súmula 07 do STJ:
+No caso em apreço, inexistem elementos no acórdão impugnado que contrariem os dispositivos infraconstitucionais supostamente violados, cingindo-se a irresignação, exclusivamente, ao reexame das provas contidas nos autos, tendo em vista que resultado do julgamento se baseia em determinadas premissas fáticas e, segundo a orientação contida no Enunciado n. 7 da Súmula do Superior Tribunal de Justiça, é vedado, em sede de recurso especial, o reexame do conjunto fático-probatório constante dos autos ("A pretensão de simples reexame de prova não enseja recurso especial"). In casu, o acórdão recorrido se baseou em matéria fática e no exame das provas dos autos para chegar à conclusão pela impossibilidade de realização de audiência de conciliação nesta fase processual, sendo certo que, para se modificar tais premissas fáticas seria necessário reexaminar o conjunto fático-probatório, o que, conforme visto, é vedado.
+1.2. No caso, a conclusão adotada pelo Tribunal Estadual foi tomada exclusivamente a partir da análise dos fatos da demanda, de modo que não cabe, em recurso especial, reexaminar matéria fático-probatória (AgInt no AREsp n. 2.215.738/SP, relator Ministro Raul Araújo, Quarta Turma, julgado em 27/3/2023, DJe de 3/4/2023). Correta, portanto, a aplicação da Súmula 07 do STJ no juízo de inadmissibilidade do reclamo.
+1.3. Observa-se, ainda, em obiter dictum, que o recurso carece de dialeticidade, o que implicaria na aplicação da Súmula 182 do STJ.
+1.3.1. Como já foi dito, o Tribunal de origem, em juízo de inadmissibilidade, pontuou expressamente que o recurso almeja apenas o reexame de todo o caderno probatório da demanda, restando, portanto, dissociado da função uniformizadora do recurso especial,  a  atrair  o  teor  da  Súmula  7/STJ.  Todavia,  nas  razões  do  agravo,  a  parte  insurgente  repisou  os  argumentos  do  apelo  extremo  e  sustentou  -  apenas com o argumento retórico da revaloração das provas  -  a  inaplicabilidade  da  Súmula  7/STJ,  deixando  de  atender  a  dialeticidade  recursal.
+A  propósito,  com  relação  à  Súmula  7/STJ,  esta  eg.  Quarta  Turma,  nos  autos  do  AGInt  no  ARESp  n.  1.490.629/SP,  Rel.  Ministro  LUIS  FELIPE  SALOMÃO,  QUARTA  TURMA,  DJe  25/08/2021,  firmou  o  entendimento  de  que  "a  alegação  genérica  de  que  o  tema  discutido  no  recurso  especial  representa  matéria  de  direito  (incluídas  aí  as  hipóteses  de  qualificação  jurídica  dos  fatos  e  valoração  jurídica  das  provas),  e  não  fático-probatória,  não  é  apta  a  impugnar,  de  modo  específico,  o  fundamento  da  decisão  atacada.  Ao  revés,  deve  a  parte  agravante  refutar  o  citado  óbice  mediante  a  exposição  da  tese  jurídica  desenvolvida  no  recurso  especial  e  a  demonstração  da  adoção  dos  fatos  tais  quais  postos  nas  instâncias  ordinárias.".
+1.4. Em conclusão, seja pela incidência das Súmulas 07 e 83 do STJ ou por força da Súmula 182 do STJ, o reclamo não comporta conhecimento.
+2.  Ante  o  exposto,  não  conheço  do  reclamo.
+Publique-se. Intimem-se.
+EMENTA
