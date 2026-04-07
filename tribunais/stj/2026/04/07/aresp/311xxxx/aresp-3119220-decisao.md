@@ -1,0 +1,33 @@
+DECISÃO
+Trata-se de agravo interposto por Sindicato dos Médicos do Estado de Mato Grosso contra decisão que não admitiu recurso especial manejado em face de acórdão assim ementado (fls. 388-389):
+DIREITO CIVIL E PROCESSUAL CIVIL. APELAÇÃO CÍVEL. AÇÃO DE COBRANÇA. AUSÊNCIA DE PROVA DO DIREITO ALEGADO. ÔNUS DA PROVA. SUPRESSIO. PRETENSÃO DE COBRANÇA DE CONTRIBUIÇÃO ASSOCIATIVA SINDICAL. DECADÊNCIA DO DIREITO. RECURSO DESPROVIDO. A improcedência da demanda, e não a sua extinção sem resolução de mérito, é medida que se impõe quando a parte autora não se desincumbe do ônus de provar os fatos constitutivos de seu direito, nos termos do art. 373, I, do CPC, especialmente quanto à juntada da documentação indispensável à comprovação da obrigação discutida.
+A ausência de juntada da ata que instituiu a contribuição associativa, aliada à desfiliação do Apelado, formalizada ainda em 2001, e não infirmada por prova documental idônea, reforça a inexistência do direito pleiteado. O transcurso de prazo superior a duas décadas sem o exercício do direito de cobrança caracteriza a supressio , instituto que, fundado na boa-fé objetiva, impede a reativação de pretensões cuja exigibilidade foi renunciada tacitamente, gerando na parte contrária a legítima expectativa de estabilidade jurídica. Recurso desprovido.
+Os embargos de declaração opostos pelo agravante foram rejeitados (fls. 411-414).
+Nas razões do recurso especial, a parte recorrente alega, em síntese, que o acórdão recorrido violou art. 548, "b", da CLT; arts. 394, 397, 421, 421-A, 422 e 54, II, do Código Civil; arts. 369, 371, 485 e 486 do Código de Processo Civil; art. 5º, II e XXXV, da Constituição Federal.
+Sustenta a legitimidade da cobrança das contribuições dos associados previstas em estatuto ou aprovadas em assembleia, bastando prova de filiação e previsão estatutária, com mora caracterizada pelos arts. 394 e 397 do Código Civil (fls. 419-421).
+Argumenta que a força obrigatória das normas estatutárias vincula o associado enquanto não houver desligamento formal, sendo vedada exigência judicial de anuência periódica não prevista em lei, com base nos arts. 421, 421-A e 422 do Código Civil.
+Defende suficiência da previsão estatutária para fixação e cobrança da taxa e desnecessidade de juntada da ata, amparado nos arts. 369 e 371 do Código de Processo Civil e na presunção de legitimidade dos atos internos, com possibilidade de outros meios de prova.
+Alega violação ao art. 5º, II, da Constituição Federal por criação judicial de requisito probatório inexistente, com esvaziamento indevido da eficácia de estatuto e deliberações assembleares.
+Nas suas contrarrazões, a parte recorrida alega violação do princípio da dialeticidade, aponta não impugnação da desfiliação por ligação telefônica em 2001 e da supressio após duas décadas de inércia e invoca incidência das Súmulas 7 e 283 do STF e 182 do STJ, além de defender improcedência por ausência de prova e boa-fé objetiva (fls. 435-450).
+Assim delimitada a questão, satisfeitos os requisitos de admissibilidade do agravo, dele conheço, passando à análise do recurso especial.
+Originariamente, o Sindicato dos Médicos do Estado de Mato Grosso propôs ação de cobrança em face de Arlei Adilson Belaus, médico filiado desde 9/8/2001, pleiteando o valor de R$ 10.029,90 referentes ao período de abril de 2018 a abril de 2023, com notificações administrativas e ficha de sindicalização juntadas.
+O Juízo de 1º grau julgou improcedentes os pedidos por ausência de comprovação da estipulação da mensalidade em assembleia, falta do estatuto vigente à época da filiação, menção à desfiliação não certificada e estatuto lavrado em 3/2019 com aprovação judicial em 10/2020.
+O Tribunal de origem negou provimento à apelação, assentando o não cumprimento do ônus do art. 373, I, do CPC, ausência da ata que instituiu a contribuição, desfiliação por ligação telefônica em 2001 não infirmada documentalmente e oc orrência de supressio após duas décadas de inércia.
+O recurso não merece prosperar.
+De início, necessário salientar que a via especial não é a sede própria para a discussão de matéria de índole constitucional, sob pena de usurpação da competência exclusiva do STF.
+Da leitura do acima exposto, nota-se que a decisão impugnada entendeu que não foi apresentada a documentação indispensável à comprovação da obrigação e, ainda, reconheceu a caracterização da supressio. Leia-se:
+De início, descabe falar-se em nulidade da sentença, visto que, em razão de o Apelante não ter comprovado suas alegações, desincumbindo-se do ônus da prova, nos termos do art. 373, I, do CPC, o que inclui juntar aos autos a documentação necessária à demonstração do seu direito, é de rigor a improcedência da demanda, com análise do mérito, não havendo que se falar, portanto, em extinção sem resolução do mérito.
+No mais, além da não apresentação da ata que instituiu a taxa (contribuição associativa sindical), há outros elementos que pesam contra o Apelante, a exemplo da desfiliação do Apelado por meio de ligação telefônica ainda no ano de 2001, cujo alegado vício de formalidade não foi comprovado, vez que não foi juntado o estatuto vigente à época.
+E mais, o longo decurso de prazo sem exercer o direito de cobrar a contribuição - no caso, houve o transcurso de 02 (duas) décadas, faz que com o Apelante incorra na chamada instituto jurídico que impede a cobrança de valores apóssupressio, período de inércia prolongado, gerando na parte contrária a legítima expectativa de estabilidade.
+Ocorre, entretanto, que a parte recorrente não impugnou tais fundamentos, o que atrai o óbice previsto na Súmula 283 do STF.
+A propósito:
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO POR DANOS MATERIAIS E MORAIS. EMBARGOS DE DECLARAÇÃO. PRESTAÇÃO JURISDICIONAL COMPLETA. PREQUESTIONAMENTO. AUSÊNCIA PARCIAL. DEFICIÊNCIA NA FUNDAMENTAÇÃO. INCIDÊNCIA, POR ANALOGIA, DA SÚMULA 284/STF. NECESSIDADE DE REEXAME DE MATÉRIA FÁTICA. SÚMULAS 282, 283, 284 E 356/STF E 7/STJ.
+ .. .
+4. Ausência de impugnação específica a fundamento do acórdão recorrido atrai a incidência, por analogia, da Súmula 283 do Supremo Tribunal Federal.
+ .. .
+6. Agravo interno a que se nega provimento.
+(AgInt nos EDcl no REsp 1711630/SC, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 16/08/2021, DJe 18/08/2021).
+Ademais, na hipótese dos autos, a revisão das conclusões proferidas pelo Colegiado estadual demandaria, necessariamente, reexame do conjunto fático-probatório dos autos, o que é vedado em razão do óbice da Súmula 7/ STJ.
+Em face do exposto, conheço do agravo para não conhecer do recurso especial.
+Intimem-se.
+EMENTA
