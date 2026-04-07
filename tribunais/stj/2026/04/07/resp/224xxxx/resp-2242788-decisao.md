@@ -1,0 +1,53 @@
+DECISÃO
+Trata-se de recurso especial interposto pela UNIVERSIDADE FEDERAL DO RIO GRANDE DO SUL - UFRGS contra acórdão proferido pelo TRIBUNAL REGIONAL FEDERAL DA 4ª REGIÃO, no julgamento de Apelação Cível, que negou provimento ao recurso e manteve sentença de procedência em ação ordinária ajuizada por servidor público aposentado, relativa à conversão em pecúnia de licença-prêmio não gozada. O acórdão recorrido foi assim ementado (fl. 220):
+ADMINISTRATIVO. AÇÃO ORDINÁRIA. LICENÇA-PRÊMIO. CONVERSÃO EM PECÚNIA. SERVIDOR APOSENTADO. POSSIBILIDADE. TEMA 1086/STJ. BASE DE CÁLCULO. ÚLTIMA REMUNERAÇÃO. VERBAS DE NATUREZA PERMANENTE. AUXÍLIO-ALIMENTAÇÃO. SAÚDE SUPLEMENTAR. ABONO DE PERMANÊNCIA. INCLUSÃO. CORREÇÃO MONETÁRIA E JUROS DE MORA. EMENDA CONSTITUCIONAL Nº 113/2021. APLICAÇÃO DA TAXA SELIC. APELAÇÃO DESPROVIDA.
+Na razões do especial (fls. 255-265), interposto com fundamento no art. 105, III, alínea a, da Constituição Federal, a parte recorrente aponta violação:
+(i) ao art. 1.022, incisos I e II, do Código de Processo Civil, sustentando que o Tribunal a quo foi omisso quanto à impossibilidade de incidência de juros de mora antes da citação, alegando que a SELIC engloba juros básicos e que, nos termos do art. 240 do CPC e art. 405 do Código Civil, os juros moratórios somente seriam devidos após a constituição em mora, aplicando-se por analogia o Tema n. 611/STJ; e
+(ii) aos arts. 41 e 87, § 2º, da Lei n. 8.112/1990, ao fundamento de que verbas indenizatórias não devem compor a base de cálculo da conversão da licença-prêmio em pecúnia, sustentando a necessidade de exclusão do auxílio-alimentação (Lei n. 8.460/1992, art. 22, §§ 1º e 3º), saúde suplementar (Lei n. 8.112/1990, art. 230), auxílio-transporte (MP n. 2.165-36/2001) e adicional de insalubridade (Lei n. 8.112/1990, arts. 68-72).
+Requer, assim, o provimento do recurso.
+Foram apresentadas contrarrazões (fls. 271-283).
+O Tribunal a quo admitiu o recurso especial (fl. 289).
+É o relatório. Decido.
+De início, no que tange à alegada ofensa ao art. 1.022, incisos I e II, do Código de Processo Civil, verifica-se que o acórdão recorrido não possui as omissões suscitadas pela parte recorrente. Ao revés, o Tribunal a quo se manifestou sobre todos os aspectos importantes ao deslinde do feito, adotando argumentação concreta, que satisfaz o dever de fundamentação das decisões judiciais.
+Aliás, consoante pacífica jurisprudência das Cortes de Vértice, o julgador não está obrigado a rebater, individualmente, todos os argumentos suscitados pelas partes, sendo suficiente que demonstre, fundamentadamente, as razões do seu convencimento.
+Com efeito, não configura ofensa ao art. 1.022 do CPC o fato de o Tribunal de origem, embora sem examinar individualmente cada um dos argumentos suscitados pelo recorrente, adotar fundamentação contrária à pretensão da parte, suficiente para decidir integralmente a controvérsia.
+No caso, existe mero inconformismo da parte recorrente com o resultado do julgado proferido no acórdão recorrido, que lhe foi desfavorável. Inexiste, portanto, ofensa ao art. 1.022 do Código de Processo Civil. Nesse sentido: AgInt no AREsp n. 2.381.818/RS, relator Ministro Herman Benjamin, Segunda Turma, julgado em 18/12/2023, DJe de 20/12/2023; AgInt no REsp n. 2.009.722/PR, relator Ministro Sérgio Kukina, Primeira Turma, julgado em 3/10/2022, DJe de 6/10/2022.
+Quanto à alegação de violação ao art. 240 do Código de Processo Civil e ao art. 405 do Código Civil, no que se refere à incidência da taxa SELIC antes da citação, o recurso especial não pode ser conhecido.
+O acórdão recorrido decidiu a questão referente aos consectários legais com lastro em fundamento exclusivamente constitucional, ao aplicar o art. 3º da Emenda Constitucional n. 113/2021.
+Nesse contexto, a sua revisão é inviável em recurso especial, que se destina a uniformizar a interpretação do direito federal infraconstitucional.
+À toda evidência, a Corte de Origem pode examinar matéria constitucional. Já este Superior Tribunal de Justiça, em sede de recurso especial, segue lógica outra: não cabe a esta Corte emitir juízo a respeito dos limites do que foi julgado em matéria de ordem Constitucional.
+No mesmo sentido: AgInt no REsp n. 2.069.886/SC, relatora Ministra Regina Helena Costa, Primeira Turma, julgado em 13/11/2023, DJe de 17/11/2023; AgInt no REsp n. 1.835.129/CE, relator Ministro Og Fernandes, Segunda Turma, julgado em 19/4/2022, DJe de 28/4/2022.
+Idêntica orientação foi adotada recentemente por este Relator em caso análogo:
+PROCESSUAL CIVIL, ADMINISTRATIVO E TRIBUTÁRIO. RECURSO ESPECIAL. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. INOCORRÊNCIA. SERVIDOR PÚBLICO. CONVERSÃO DE LICENÇA-PRÊMIO NÃO GOZADA EM PECÚNIA. INCIDÊNCIA DE IMPOSTO DE RENDA E CONTRIBUIÇÃO PREVIDENCIÁRIA. NÃO CABIMENTO. TAXA SELIC. FUNDAMENTO CONSTITUCIONAL. BASE DE CÁLCULO. RUBRICAS DE NATUREZA PERMANENTE. PRECEDENTES. RECURSO ESPECIAL PARCIALMENTE PROVIDO.
+ ..
+Quanto aos consectários legais, o acórdão recorrido decidiu a questão com lastro em fundamento exclusivamente constitucional.
+Nesse contexto, a sua revisão é inviável em recurso especial, que se destina a uniformizar a interpretação do direito federal infraconstitucional. Nessa senda: AgInt no REsp n. 2.069.886/SC, relatora Ministra Regina Helena Costa, Primeira Turma, julgado em 13/11/2023, DJe de 17/11/2023; AgInt no REsp n. 1.835.129/CE, relator Ministro Og Fernandes, Segunda Turma, julgado em 19/4/2022, DJe de 28/4/2022.
+(REsp n. 2.223.495/RS, relator Ministro Teodoro Silva Santos, julgado em 28/8/2025, DJEN de 1/9/2025.)
+Por fim, quanto à alegação de violação dos arts. 41 e 87, § 2º, da Lei n. 8.112/1990, no tocante à base de cálculo da conversão da licença-prêmio em pecúnia, o recurso merece conhecimento, mas não provimento.
+É firme o entendimento no âmbito desta Corte, no sentido de que a base de cálculo para conversão da licença-prêmio em p ecúnia deve considerar as parcelas que compõem a remuneração do servidor, como o auxílio-alimentação pago em pecúnia, os valores de saúde suplementar, o abono de permanência, a gratificação natalina e o terço de férias, devidas ao servidor quando em atividade, excluído, contudo, o adicional de insalubridade e o adicional noturno, por se tratar de verbas de natureza transitória.
+Com igual entendimento:
+PROCESSO CIVIL E ADMINISTRATIVO. AGRAVO INTERNO NO RECURSO ESPECIAL. SERVIDOR PÚBLICO FEDERAL. IMPUGNAÇÃO AO CUMPRIMENTO INDIVIDUAL DE SENTENÇA COLETIVA. CONVERSÃO DE LICENÇA-PRÊMIO NÃO GOZADA EM PECÚNIA. BASE DE CÁLCULO. RUBRICAS QUE COMPÕEM A REMUNERAÇÃO. VERBAS DE NATUREZA PERMANENTE. SAÚDE SUPLEMENTAR. POSSIBILIDADE. PRECEDENTES DO STJ. AGRAVO INTERNO DESPROVIDO.
+1. É firme o entendimento no âmbito desta Corte, no sentido de que a base de cálculo para conversão da licença-prêmio em pecúnia deve considerar as parcelas que compõem a remuneração do servidor, como o auxílio-alimentação pago em pecúnia, os valores de saúde suplementar, o abono de permanência, a gratificação natalina e o terço de férias, devidas ao servidor quando em atividade, excluído, contudo, o adicional de insalubridade, por se tratar de verba de natureza transitória. Precedentes.
+2. Agravo interno desprovido.
+(AgInt no REsp n. 2.048.543/RS, relator Ministro Teodoro Silva Santos, Segunda Turma, julgado em 16/9/2024, DJe de 19/9/2024.)
+PROCESSUAL CIVIL. ADMINISTRATIVO. AÇÃO ORDINÁRIA. LICENÇA-PRÊMIO. CONVERSÃO EM PECÚNIA DOS PERÍODOS NÃO GOZADOS E NÃO UTILIZADOS PARA FINS DE APOSENTADORIA. DESPROVIMENTO DO AGRAVO INTERNO. MANUTENÇÃO DA DECISÃO RECORRIDA. NÃO VIOLAÇÃO DOS ARTS. 489 E 1.022 DO CPC. ACÓRDÃO EM CONSONÂNCIA COM O ENTENDIMENTO DO STJ. MANUTENÇÃO DA DECISÃO RECORRIDA. AGRAVO INTERNO DESPROVIDO.
+ ..
+III - Quanto à questão de fundo, a jurisprudência do STJ firmou-se no sentido de que o auxílio-alimentação pago em pecúnia, os valores de saúde suplementar, o abono de permanência, a gratificação natalina e o terço de férias, em razão de comporem a remuneração do servidor, integram a base de cálculo para conversão da licença-prêmio em pecúnia.
+ ..
+V - Agravo interno improvido.
+(AgInt no REsp n. 2.107.248/PE, relator Ministro Francisco Falcão, Segunda Turma, julgado em 17/6/2024, DJe de 19/6/2024.)
+Ainda:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. SERVIDOR PÚBLICO. LICENÇA-PRÊMIO NÃO USUFRUÍDA. BASE DE CÁLCULO. DECISÃO MONOCRÁTICA EM CONSONÂNCIA COM A JURISPRUDÊNCIA DO STJ. IMPUGNAÇÃO INSUFICIENTE. SÚMULAS 283 E 284/STF. AGRAVO INTERNO NÃO PROVIDO.
+ ..
+2. Como consignado anteriormente, esta Corte entende que as rubricas que compõem a remuneração do servidor deverão ser incluídas na base de cálculo da conversão da licença-prêmio em pecúnia, entre elas estão os auxílios alimentação e saúde, além do abono-permanência. Em idêntico sentido, AgInt no AREsp 475.822/DF, Rel. Ministro Napoleão Nunes Maia Filho, Primeira Turma, DJe de 19.12.2018.
+ ..
+4. Agravo Interno não provido.
+(AgInt no REsp n. 2.013.954/PB, relator Ministro Herman Benjamin, Segunda Turma, julgado em 11/9/2023, DJe de 21/9/2023.).
+Registre-se que, no tocante ao adicional de insalubridade, a sentença expressamente consignou que "a parte-autora não incluiu o adicional de insalubridade no cálculo acostado à inicial, pelo que resta sem objeto a alegação da ré quanto a essa parcela" (fls. 191-194).
+Dessa forma, a questão encontra-se prejudicada, porquanto não houve pedido de inclusão de tal verba na base de cálculo.
+Dessume-se que o acórdão recorrido, ao decidir que a licença-prêmio não gozada e convertida em pecúnia deve ser calculada com base na última remuneração do servidor quando em atividade, computando-se o auxílio-alimentação, a saúde suplementar e o abono de permanência, está em perfeita sintonia com a jurisprudência consolidada desta Corte Superior.
+Ante o exposto, com fundamento no art. 932 do CPC, CONHEÇO PARCIALMENTE do recurso especial e, nessa extensão, NEGO-LHE PROVIMENTO.
+Em atenção ao disposto no art. 85, § 11, do Código de Processo Civil, majoro os honorários advocatícios em 10% (dez por cento) sobre o valor já arbitrado (fls. 191-194), respeitados os limites estabelecidos nos §§ 2º e 3º do mesmo artigo.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL E ADMINISTRATIVO. RECURSO ESPECIAL. SERVIDOR PÚBLICO FEDERAL. CONVERSÃO DE LICENÇA-PRÊMIO NÃO GOZADA EM PECÚNIA. ALEGADA OFENSA AO ART. 1.022 DO CPC. INOCORRÊNCIA. INCIDÊNCIA DA TAXA SELIC. FUNDAMENTO CONSTITUCIONAL. NÃO CONHECIMENTO. BASE DE CÁLCULO. INCLUSÃO DO AUXÍLIO-ALIMENTAÇÃO E SAÚDE SUPLEMENTAR. NATUREZA PERMANENTE. EXCLUSÃO DO ADICIONAL DE INSALUBRIDADE. QUESTÃO PREJUDICADA. ACÓRDÃO EM CONFORMIDADE COM A JURISPRUDÊNCIA CONSOLIDADA DO STJ. RECURSO ESPECIAL PARCIALMENTE CONHECIDO E, NESSA EXTENSÃO, DESPROVIDO.
