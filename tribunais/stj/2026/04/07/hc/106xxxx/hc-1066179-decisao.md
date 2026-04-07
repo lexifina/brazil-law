@@ -1,0 +1,19 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em favor de VINICIUS CORREA E SILVA, contra ato do Tribunal de Justiça do Estado do Rio Grande do Sul que denegou a ordem no HC n. 5360359-68.2025.8.21.7000 (fls. 5/6).
+Neste writ, a defesa alega ausência de fundamentação idônea para a prisão preventiva, sustentando que a decisão se amparou na gravidade abstrata do delito, sem demonstração concreta do periculum libertatis. Afirma predicados pessoais favoráveis - primariedade, trabalho lícito como motorista de aplicativo e residência fixa -, além de que o paciente, usuário de maconha, teria realizado o transporte para quitar dívida com o fornecedor.
+Por fim, invoca a excepcionalidade, proporcionalidade e provisionalidade da prisão preventiva e a aplicação de medidas cautelares diversas (art. 319 do Código de Processo Penal).
+Pede, em liminar, a revogação da prisão preventiva, com soltura ou aplicação de medidas cautelares alternativas. No mérito, requer a concessão definitiva da ordem para sanar o constrangimento ilegal (Autos n. 5017535-83.2025.8.21.0141, do 2º Juízo da Vara Criminal da Comarca de Capão da Canoa/RS).
+A liminar foi indeferida (fls. 44/45).
+O Ministério Público Federal opinou pelo não conhecimento do writ (fls. 86/89).
+É  o  relatório.
+Infere-se dos autos que o paciente foi preso em flagrante e, após homologação, teve a custódia convertida em preventiva, com fundamento na garantia da ordem pública. Consta a apreensão de 3 tijolos de maconha, 1 tijolo de crack e uma porção significativa de pasta base de cocaína, totalizando aproximadamente 2,44 kg, além de celular, com referência à modalidade de tele-entrega e tentativa de evasão (fls. 39/40). O Juízo destacou a gravidade concreta da conduta, a quantidade e variedade de entorpecentes e a insuficiência de medidas cautelares alternativas.
+O Tribunal de origem entendeu que a prisão preventiva se justifica pela gravidade concreta e pelo periculum libertatis, evidenciados pela expressiva quantidade e variedade de drogas, destacando a natureza nociva da cocaína e do crack. Assentou materialidade e indícios de autoria, considerou irrelevantes as condições pessoais favoráveis e afirmou que a tese de transporte para pagamento de dívida demanda dilação probatória. Concluiu que a custódia não viola a presunção de inocência, mantendo a preventiva (fls. 5/6).
+O entendimento das instâncias ordinárias de que é legítima a prisão cautelar em questão está em consonância com a firme jurisprudência do Superior Tribunal de Justiça. A propósito, esta Corte Superior entende que, nas hipóteses em que a quantidade e/ou a natureza das drogas apreendidas e outras circunstâncias do caso revelem a maior reprovabilidade da conduta investigada, tais dados são bastantes para demonstrar a gravidade concreta do delito e, por conseguinte, justificar a custódia cautelar para a garantia da ordem pública (AgRg no HC n. 899.502/SP, Ministro Schietti Cruz, Sexta Turma, DJe 12/6/2024).
+E, ainda: AgRg no HC n. 981.884/SP, relator Ministro Otávio de Almeida Toledo (Desembargador Convocado do TJSP), Sexta Turma, julgado em 14/5/2025, DJEN de 20/5/2025; e AgRg no HC n. 990.118/SP, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 14/5/2025, DJEN de 20/5/2025.
+Registre-se que, estando concretamente demonstrada pelas instâncias ordinárias a necessidade da prisão preventiva, não se afigura suficiente a fixação de medidas cautelares alternativas.
+Por fim, eventuais condições pessoais favoráveis não possuem o condão de, isoladamente, obstar a segregação cautelar, se há nos autos elementos suficientes a demonstrar a necessidade de custódia preventiva.
+Em  face  do  exposto,  denego  a  ordem.
+Publique  -se.
+EMENTA
+PROCESSUAL PENAL. HABEAS CORPUS. TRÁFICO DE DROGAS. PRISÃO PREVENTIVA. FUNDAMENTAÇÃO. INDICAÇÃO DE ELEMENTOS CONCRETOS QUE DENOTAM A NECESSIDADE DA CUSTÓDIA PARA A GARANTIA DA ORDEM PÚBLICA. CONSTRANGIMENTO ILEGAL. AUSÊNCIA.
+Ordem  denegada.
