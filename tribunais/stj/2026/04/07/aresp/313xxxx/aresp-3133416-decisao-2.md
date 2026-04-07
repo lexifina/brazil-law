@@ -1,0 +1,41 @@
+DECISÃO
+RODRIGO ACHILLES BARROSO agrava de decisão que inadmitiu o recurso especial, fundado no art. 105, III, "a" e "c", da Constituição Federal, contra acórdão do Tribunal de Justiça do Estado de Santa Catarina na Apelação Criminal n. 0900190-15.2016.8.24.0007/SC.
+O agravante foi condenado pelo crime do art. 2º, II, da Lei n. 8.137/1990, à sanção de 2 anos, 1 mês e 15 dias de detenção mais 43 dias-multa, em regime inicial aberto. A pena privativa de liberdade foi substituída por duas restritiva de direitos.
+Nas razões do recurso especial, a defesa alegou violação do art. 41 do Código de Processo Penal. Apontou inépcia da denúncia, ao argumento de que "o Ministério Público denunciou o réu com fundamento exclusivamente na condição de sócio da empresa RGR, não individualizando as condutas dos denunciados e sem apresentar qualquer narrativa fática das condutas eventualmente ilícitas" (fl. 446).
+O recurso foi inadmitido em juízo prévio de admissibilidade realizado pelo Tribunal local, o que motivou a interposição deste agravo.
+O Ministério Público Federal manifestou-se, às fls. 536-549, pelo não conhecimento do AREsp e, eventualmente, pelo não conhecimento do REsp.
+Decido.
+I. Não admissibilidade do recurso especial
+A Corte de origem assim se manifestou sobre a alegada inépcia da denúncia (fls. 427-428):
+ ..
+Preliminar.
+As defesas de ambos os apelantes alegam a inépcia da denúncia, argumentando que ela não preencheu os requisitos do artigo 41 do Código de Processo Penal, pois não descreveu de forma detalhada e precisa as circunstâncias do suposto fato criminoso.
+O pleito, contudo, não comporta acolhimento.
+Com efeito, colhe-se dos autos que os requisitos impostos no ordenamento processual vigente foram devidamente respeitados.
+Como é cediço, a denúncia deve reunir as condições necessárias para a instauração da ação penal, ou do contrário será inepta, caracterizando-se esta pela ausência do preenchimento dos requisitos previstos no art. 41 do Código de Processo Penal, quais sejam: a exposição do fato criminoso, com todas as suas circunstâncias, a qualificação do acusado ou esclarecimentos pelos quais se possa identificá-lo, a classificação do crime e, quando necessário, o rol de testemunhas (Capez, Fernando. Curso de Processo Penal, v. 1, 18. ed. São Paulo: Saraiva, 2011, p. 200).
+Vê-se, a lei processual não exige uma descrição exaustiva e pormenorizada do fato criminoso, bastando que seu conteúdo possibilite a ampla defesa e o contraditório do acusado.
+Na hipótese, constata-se da simples leitura da peça acusatória que houve a exposição do fato criminoso com todas as suas circunstâncias, consoante o que determina o art. 41 do Código de Processo Penal, vejamos:
+"Os denunciados são sócios e administradores da empresa RGR IMPORTAÇÃO E EXPORTAÇÃO LTDA. ME, CNPJ n. 11.865.700/0001-65, IE n. 25.608.247-2, sediada na Rua Paulo Pedro Rodrigues, 416, Fundos, Rio Caveiras, CEP 88160-000, Biguaçu/SC.
+Infere-se dos autos que qualquer vantagem obtida pela empresa referida beneficiava diretamente os denunciados, pois à época dos fatos que originaram as Notificações Fiscais, exerciam a sua administração, tendo ciência e controle das transações e negócios realizados, bem como responsabilidade pela apuração e recolhimento do ICMS devido, fl.74.
+Segundo se extrai da documentação juntada a Notícia de Fato, os denunciados, na condição de administradores da referida empresa, deixaram de recolher, tempestivamente, os valores do Imposto sobre Circulação de Mercadorias e Serviços - ICMS, que informara nas Declarações do ICMS e do Movimento Econômico (DIME), os quais, na qualidade de sujeitos passivos da obrigação tributária, haveriam de ter recolhido ao Estado de Santa Catarina, porquanto cobrados dos adquirentes de mercadorias por ocasião da saída dessas do estabelecimento, realizando, assim, conduta que se amolda perfeitamente na descrição do artigo 2º, II, da Lei n. 8.137, de 27 de dezembro de 1990.
+Cabe ressaltar que, nos termos do art. 53 do RICMS/01, o ICMS a recolher deve ser apurado mensalmente pelo confronto entre os débitos e créditos escriturados durante o mês, em cada estabelecimento do sujeito passivo e, conforme determina o art. 176 da Seção II, do Anexo 5, ser informado, por meio da Declaração do ICMS e Movimento Econômico (DIME), em qualquer Unidade Setorial de Fiscalização, sendo posteriormente, conforme o caput do art. 60, recolhido até o 10º dia do mês posterior.
+O Demonstrativo de Cálculo das Notificações Fiscais ns. 146030079823 e 146030021981, que ensejou o lançamento do referido crédito tributário, indica as quantias de imposto não recolhidas pelos acusados. Veja-se:
+ ..
+Desta forma, a frente da empresa/contribuinte citada, os denunciados conduziram-se com a finalidade de cometer crimes contra a ordem tributária nos meses de fevereiro a agosto de 2012, setembro a dezembro de 2013, janeiro a maio de 2014, deixando de efetuar o recolhimento do ICMS relativo às operações tributáveis, escrituradas pelo próprio contribuinte no Livro de Registro de Apuração do ICMS e declarado na DIME - Declaração do ICMS e Movimento Econômico, considerando multa e juros, somadas as duas Notificações Fiscais, na ordem de R$ 44.924,75 (quarenta e quatro mil, novecentos e vinte e quatro reais e setenta e cinco centavos).
+Em face das circunstâncias de tempo, local e modo de execução em que as condutas foram praticadas, são essas consideradas em continuidade delitiva, consoante o disposto no artigo 71, caput, do Código Penal  .. ".
+Convém destacar que a inicial não precisa descrever pormenorizadamente o fato, desde que a narrativa factual seja suficiente para efetivar o contraditório e a ampla defesa, como ocorreu no caso.
+Ao ensejo: "A superveniência da sentença penal condenatória torna esvaída a análise do pretendido reconhecimento da inépcia da denúncia, isso porque o exercício do contraditório e da ampla defesa foi viabilizado em sua plenitude durante a instrução criminal". (STJ, AgRg no REsp n. 1.731.559/PE, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 23/8/2022).
+Assim, não há que se falar em inépcia da denúncia, pois preenchidos os requisitos legais para o seu recebimento, pelo que rejeito a prefacial arguida.
+Prevalece o entendimento de que, com a prolação da sentença condenatória, fica esvaída a análise do pretendido reconhecimento de inépcia da denúncia. Isso porque se, após toda a análise do conjunto fático-probatório amealhado aos autos ao longo da instrução criminal, já houve um pronunciamento sobre o próprio mérito da persecução penal (o que denota, ipso facto, a plena aptidão da inicial acusatória), não há mais sentido em se analisar eventual vício da peça inaugural.
+Vale dizer, se houve condenação é porque já existiu prévia e ampla dilação probatória, na qual foi devidamente aferida a presença de elementos suficientes não apenas para o recebimento da denúncia, mas até para a condenação do recorrente.
+Ilustrativamente:
+ ..  1. A superveniência da sentença penal condenatória (confirmada em apelação criminal) torna esvaída a pretensão de reconhecimento de inépcia da denúncia. Súmula 83 do STJ.
+Precedentes.  ..  4. Agravo regimental não provido. (AgRg nos EDcl no AREsp n. 879.614/SC, Rel. Ministro Rogerio Schietti, 6ª T., DJe 14/2/2020)
+Com efeito, nos crimes contra a ordem tributária praticados em coautoria, a denúncia pode ser oferecida sem a atribuição pormenorizada e exauriente de cada ação delituosa, porém é imprescindível a demonstração, em linhas gerais, do vínculo entre a posição do agente na empresa e o crime imputado, de forma a propiciar o conhecimento da acusação e o exercício da ampla defesa.
+Na hipótese, a denúncia destacou o fato de que o recorrente e a corré ostentavam a condição de sócios administradores da pessoa jurídica e que ambos tinham ciência e controle das transações e negócios praticados pela sociedade empresária.
+Ademais, no caso, não houve a demonstração de efetivo prejuízo ao exercício da ampla defesa e do contraditório, apenas a indicação de vício meramente formal, o que não se admite.
+Portanto, o recurso especial, nesse ponto, é inviável segundo o disposto na Súmula n. 83 do STJ.
+II. Dispositivo
+À vista do exposto, conheço do agravo para não conhecer do recurso especial.
+Publique-se e intimem-se.
+EMENTA
