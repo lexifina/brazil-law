@@ -1,0 +1,31 @@
+DECISÃO
+Trata-se de recurso especial interposto por INSTITUTO NACIONAL DO SEGURO SOCIAL - INSS, com fundamento no art. 105, III, alínea "a", da Constituição Federal contra acórdão proferido pelo TRIBUNAL REGIONAL FEDERAL DA 4ª REGIÃO, assim ementado (fl. 40):
+AGRAVO DE INSTRUMENTO. PREVIDENCIÁRIO. CUMPRIMENTO DE SENTENÇA. TEMA 1018 DO STJ. REAFIRMAÇÃO DA DER. POSSIBILIDADE.
+A concessão administrativa de outro benefício previdenciário, no curso da ação judicial, autoriza o segurado à optar por aquele mais vantajoso, na fase de cumprimento de sentença, observado o Tema 1018 do STJ, cuja tese se aplica ainda que se esteja diante de ação em que houve necessidade de reafirmação da DER.
+Embargos de declaração acolhidos para condenar o agravante ao pagamento de honorários recursais no patamar de 10% (dez por cento) sobre os honorários que foram arbitrados, em seu desfavor, na decisão agravada (fls. 51-52).
+Quanto a questão de fundo, a parte recorrente alega violação dos artigos 18, § 2º, da Lei nº 8.213/91 e 927, III, do Código de Processo Civil de 2015, sustentando que a tese firmada no Tema 1018 do STJ não pode ser aplicada a casos em que o benefício foi concedido judicialmente mediante reafirmação da DER, uma vez que a ratio decidendi do referido precedente pressupõe o indeferimento administrativo equivocado do benefício na data de entrada do requerimento original.
+Com contrarrazões.
+Recurso admitido na origem às fls. 69-70.
+É o relatório. Decido.
+Consigne-se inicialmente que o recurso foi interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015, devendo ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+No tocante a suposta violação dos arts. 18, §2º da Lei n. 8.213/91 e 927, inciso III do CPC/15, a Corte de origem afirmou que a parte segurada possui direito de receber os valores a que teria direito entre o período em que a DER foi reafirmada judicialmente e a concessão administrativa do benefício, bem como que o segurado pode optar pelo benefício que lhe for mais vantajoso inclusive quando a aposentadoria for concedida por reafirmação da DER.
+Nesse ponto, a decisão está em conformidade com o entendimento desta Corte Superior, de modo a incidir a Súmula 83/STJ.
+A propósito:
+PROCESSUAL CIVIL E PREVIDENCIÁRIO. RECURSOS ESPECIAIS REPRESENTATIVOS DA CONTROVÉRSIA. TEMA 1.018/STJ. RESP 1.767.789/PR E RESP 1.803.154/RS. REGIME GERAL DE PREVIDÊNCIA SOCIAL. APOSENTADORIA CONCEDIDA JUDICIALMENTE. CONCESSÃO ADMINISTRATIVA DE APOSENTADORIA NO CURSO DA AÇÃO. DIREITO DE OPÇÃO. BENEFÍCIO MAIS VANTAJOSO. POSSIBILIDADE DE EXECUÇÃO DAS PARCELAS DO BENEFÍCIO CONCEDIDO JUDICIALMENTE. IDENTIFICAÇÃO E DELIMITAÇÃO DA CONTROVÉRSIA
+1. O tema ora em discussão (1.018/STJ) consiste em estabelecer a "possibilidade de, em fase de cumprimento de sentença, o segurado do Regime Geral de Previdência Social receber parcelas pretéritas de aposentadoria concedida judicialmente até a data inicial de aposentadoria concedida administrativamente pelo INSS enquanto pendente a mesma ação judicial, com implantação administrativa definitiva dessa última por ser mais vantajosa, sob o enfoque do artigo 18, § 2º, da Lei 8.213/1991".
+PANORAMA JURISPRUDENCIAL
+2. A matéria não é pacífica no STJ: a Primeira Turma entende ser possível o recebimento das duas aposentadorias, enquanto a Segunda Turma, majoritariamente, considera inviável a percepção de ambas, mas atribui ao segurado a opção de escolher uma delas.
+3. Considerando a definição do tema no STJ com o presente julgamento, propõe-se reflexão aprofundada sobre essa questão, à luz dos precedentes da Corte Superior e sua frequente reiteração da demanda no Poder Judiciário.
+4. A estabilidade, integralidade e coerência da jurisprudência das Cortes Superiores, para além de vetor de orientação para os tribunais e magistrados, propicia a indispensável segurança jurídica a todos os jurisdicionados. Uma jurisprudência previsível é fator de estabilidade social, devendo ser escopo a ser perseguido por todo o sistema jurisdicional.
+POSICIONAMENTO DO STJ
+5. O segurado que tenha acionado o Poder Judiciário em busca do reconhecimento do seu direito à concessão de benefício previdenciário faz jus a executar os valores decorrentes da respectiva condenação, ainda que, no curso da ação, o INSS tenha lhe concedido benefício mais vantajoso.
+6. Com efeito, remanesce o interesse em receber as parcelas relativas ao período compreendido entre o termo inicial fixado em juízo e a data em que o INSS procedeu à efetiva implantação do benefício deferido administrativamente, o que não configura hipótese de desaposentação.
+DEFINIÇÃO DA TESE REPETITIVA
+7. Proponho a fixação da seguinte tese repetitiva para o Tema 1.018/STJ: "O Segurado tem direito de opção pelo benefício mais vantajoso concedido administrativamente, no curso de ação judicial em que se reconheceu benefício menos vantajoso. Em cumprimento de sentença, o segurado possui o direito à manutenção do benefício previdenciário concedido administrativamente no curso da ação judicial e, concomitantemente, à execução das parcelas do benefício reconhecido na via judicial, limitadas à data de implantação daquele conferido na via administrativa".
+CONCLUSÃO
+8. Recurso Especial não provido, sob o rito dos arts. 1.036 e seguintes do CPC/2015. (REsp n. 1.767.789/PR, relator Ministro Herman Benjamin, Primeira Seção, julgado em 8/6/2022, DJe de 1/7/2022 - destaque nosso)
+Nesse mesmo sentido: REsp n. 2.192.502, Ministro Gurgel de Faria, DJe de 07/03/2025; REsp n. 2.232.534/RS, Ministro Benedito Gonçalves, DJe de 29/09/2025.
+Ante o exposto, nego provimento ao recurso especial. Caso tenham sido fixados honorários sucumbenciais anteriormente pelas instâncias ordinárias, majoro-os em 10% (dez por cento), observados os limites e parâmetros dos §§ 2º, 3º e 11 do artigo 85 do CPC/2015.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL E PREVIDENCIÁRIO. RECURSO ESPECIAL. APOSENTADORIA CONCEDIDA JUDICIALMENTE. REAFIRMAÇÃO DA DER. CONCESSÃO ADMINISTRATIVA DE APOSENTADORIA NO CURSO DA AÇÃO. DIREITO DE OPÇÃO. BENEFÍCIO MAIS VANTAJOSO. POSSIBILIDADE DE EXECUÇÃO DAS PARCELAS DO BENEFÍCIO CONCEDIDO JUDICIALMENTE. TEMA 1018/STJ. RECURSO ESPECIAL NÃO PROVIDO.
