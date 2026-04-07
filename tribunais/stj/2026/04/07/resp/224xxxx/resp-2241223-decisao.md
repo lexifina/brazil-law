@@ -1,0 +1,22 @@
+DECISÃO
+Trata-se de recurso especial interposto pela UNIÃO , com fundamento no art. 105, inciso III, alínea a, da Constituição Federal, no qual se insurge contra o acórdão do Tribunal Regional Federal da 1ª Região assim ementado (fl. 210):
+ADMINISTRATIVO. MANDADO DE SEGURANÇA. SERVIDOR PÚBLICO. REDUÇÃO DA JORNADA DE TRABALHO. CONCESSÃO DE HORÁRIO ESPECIAL. DEPENDENTE COM DEFICIÊNCIA COMPROVADA. POSSIBILIDADE. COMPENSAÇÃO DE HORÁRIOS. DESNECESSIDADE. ART. 98, §3º, DA LEI 8.112/90 COM REDAÇÃO DADA PELA LEI 13.370/2016. FIXAÇÃO DA NOVA CARGA HORÁRIA. SENTENÇA REFORMADA.
+1. O Estatuto dos Servidores Públicos, com redação dada pela Lei 13.370/16, prevê a possibilidade de concessão de horário especial ao servidor público com deficiência, ou que possua dependente nesta condição, a fim de atender às necessidades de tratamento e acompanhamento médico, sem necessidade de compensação de horários, mediante comprovação por junta médica oficial.
+2. In casu, o laudo pericial realizado por junta médica oficial na via administrativa atestou que a filha da impetrante possui paralisia cerebral (CID 10, G80), quadro clínico que se adequa ao conceito de impedimento mental de longo prazo capaz de obstruir sua participação social plena e efetiva em igualdade de condições com as demais pessoas, conforme Lei nº 13.146/15 e art. 98, §3º da Lei 8.112/90, e recomendou a redução da jornada de trabalho da impetrante, desde que condicionada à compensação de horários, o que foi acatado pela Administração.
+3. A controvérsia perdeu parcialmente seu objeto com a edição da Lei 13.370/16, de 12 de dezembro de 2016, que, alterando a redação do §3º do art. 98 da Lei 8.112/90, retirou qualquer dúvida quanto à necessidade ou não de compensação de horários pelo servidor que possua dependente com deficiência, deixando claro que o benefício deve ser concedido independentemente da referida exigência.
+4. Considerando que o art. 98 da Lei 8.112/90 não fixou qualquer critério para o estabelecimento da nova jornada de trabalho com horário reduzido e considerando que a jornada de trabalho mínima prevista no art. 19 do referido diploma legal é de 30 (trinta) horas semanais (seis horas diárias), pertinente a redução da jornada de trabalho da servidora para o patamar de trinta horas semanais, em harmonia com a recomendação do laudo médico pericial elaborado na via administrativa.
+5. Apelação provida.
+Os embargos de declaração opostos foram rejeitados (fls. 236/248).
+A parte recorrente alega violação do art. 1º da Lei 13.370/2016, sustentando a tese de que a norma, ao alterar o art. 98, § 3º, da Lei 8.112/1990 para dispensar compensação de horário em casos de servidor com cônjuge, filho ou dependente com deficiência, não produz efeitos retroativos, devendo a dispensa de compensação limitar-se ao período posterior à sua vigência.
+O recurso foi admitido (fl. 277).
+É o relatório.
+Na origem, cuida-se de mandado de segurança, por meio do qual a parte autora pleiteia a concessão de horário especial sem compensação e sem redução de remuneração com dispensa de viagens para acompanhar pessoa com deficiência sob seus cuidados.
+O art. 1º da Lei 13.370/2016, quanto à retroatividade dos seus efeitos, não foi apreciado pelo Tribunal de origem.
+A falta de enfrentamento no acórdão recorrido da matéria objeto do recurso impede o acesso a esta instância por não ter sido preenchido o requisito constitucional do prequestionamento.
+Incide no presente caso, por analogia, a Súmula 282 do Supremo Tribunal Federal (STF).
+Para que se configure o prequestionamento, não basta que a parte recorrente devolva a questão controvertida para o Tribunal. É necessário que a causa seja decidida à luz da legislação federal indicada, bem como que seja exercido juízo de valor sobre o dispositivo legal indicado e a tese recursal a ele vinculada, interpretando-se sua incidência ou não no caso concreto.
+Ausente pronunciamento do Tribunal Regional Federal da 1ª Região sobre o ponto, caberia, inicialmente, suscitá-lo em embargos de declaração. Mantida a omissão, deveria a parte interessada deduzir a nulidade do julgamento por violação do art. 1.022 do Código de Processo Civil.
+No caso dos autos, os embargos de declaração foram rejeitados, afastando-se a existência de vício, sem exame específico da retroatividade do art. 1º da Lei 13.370/2016.
+Ante o exposto, não conheço do recurso especial.
+Publique-se. Intimem-se.
+EMENTA
