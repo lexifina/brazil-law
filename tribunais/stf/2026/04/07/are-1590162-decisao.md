@@ -1,0 +1,80 @@
+RECURSO EXTRAORDINÁRIO COM AGRAVO. DIREITO ADMINISTRATIVO E FINANCEIRO. FUNDEF. COMPLEMENTAÇÃO DEVIDA PELA UNIÃO AOS MUNICÍPIOS PAGA NA VIA JUDICIAL. RATEIO. REPASSE DE 60% (SESSENTA POR CENTO) DOS VALORES AOS PROFISSIONAIS DO MAGISTÉRIO, NA FORMA DE ABONO. ARTIGO 5º, PARÁGRAFO ÚNICO, DA EMENDA CONSTITUCIONAL Nº 114/2021. INAPLICABILIDADE AOS PRECATÓRIOS PAGOS ANTES DA VIGÊNCIA DA NORMA. PRECEDENTES DESTA SUPREMA CORTE. NEGADO SEGUIMENTO AO AGRAVO.
+
+DECISÃO: Trata-se de agravo nos próprios autos objetivando a reforma de decisão que inadmitiu recurso extraordinário interposto pela alínea “a” do permissivo constitucional contra acórdão que assentou:
+
+“AGRAVO INTERNO. APELAÇÃO. FUNDEB. PRECATÓRIO. RECURSOS EXTRAORDINÁRIOS. SUBVINCULAÇÃO DE 60% PARA PAGAMENTO DE PROFISSIONAIS DO MAGISTÉRIO. IMPOSSIBILIDADE. DECISÃO MANTIDA.
+I. Caso em exame
+1. O recurso versa sobre a alegação de vinculação de, no mínimo, 60% dos recursos oriundos de precatórios do FUNDEF ao pagamento da remuneração dos profissionais do magistério da educação básica. A decisão agravada afastou tal obrigação, em conformidade com o entendimento consolidado pelo STF.
+II. Questão em discussão
+2. A controvérsia consiste em definir se há obrigatoriedade de subvinculação do percentual mínimo de 60% dos recursos extraordinários, originados de precatórios do FUNDEF, ao pagamento de profissionais da educação, à luz da jurisprudência do STF e do STJ.
+III. Razões de decidir
+3. O STF, no julgamento da ADPF 528, reconheceu que os recursos extraordinários provenientes de precatórios do FUNDEF não estão sujeitos à subvinculação de 60% para a remuneração dos profissionais do magistério, dada sua natureza excepcional.
+4. A EC 114/2021, embora estabeleça regras para a destinação de recursos educacionais, não altera a compreensão da natureza extraordinária desses valores nem justifica sua aplicação compulsória ao pagamento de remunerações.
+5. O STJ, ao julgar o AgInt no REsp 1958342/BA, corroborou o entendimento de que o rateio de valores acumulados judicialmente entre os profissionais do magistério não atende à finalidade educativa nem ao princípio de valorização continuada desses profissionais.
+IV. Dispositivo e tese
+Agravo interno desprovido."
+
+Nas razões do apelo extremo, a parte recorrente sustenta preliminar de repercussão geral e, no mérito, por sua vez, aponta a ocorrência de violação ao artigo 60 do Atos da Disposições Constitucionais Transitórias e ao artigo 5º, parágrafo único, da Emenda Constitucional nº 114/2021.
+Embora intimada, a parte recorrida não apresentou contrarrazões.
+O Tribunal a quo negou seguimento ao recurso extraordinário, por entender que encontraria óbice na Súmula 284 do STF.
+
+É o relatório. DECIDO.
+
+O agravo não merece prosperar, ainda que restasse superado o óbice da Súmula 284 do Supremo Tribunal Federal, tecido no juízo negativo de admissibilidade recursal empreendido pelo Tribunal de origem.
+Com efeito, colhe-se do recurso extraordinário  a argumentação infra:
+
+“Como resultado de sua atuação, recebeu o precatório n. 0208458-44.2019.4.01.9198, sacado antes de 12 de novembro de 2020, conforme consta nos autos.”  (Doc. 79, p. 11, grifei)
+
+Outrossim, considerando tal marco temporal e a legislação temática então vigente, qual seja, a Lei nº 11.494/2007, o acórdão recorrido dispôs:
+
+“A propósito, consoante consignado na decisão agravada, o STF julgou a Arguição de Descumprimento de Preceito Fundamental n. 528 e reconheceu a correção do acórdão proferido no âmbito do Tribunal de Contas da União, que havia desobrigado os gestores estaduais e municipais de no tocante ao patamar mínimo de 60% (sessenta por cento) para pagamento de remuneração dos profissionais de ensino.
+[...]
+Ademais, o art. 22 da Lei nº 11.494/2007 não contém, em seu campo de gravitação normativa, determinação capaz de albergar a pretensão da agravante quanto ao bloqueio de 60% dos recursos extraordinários oriundos de decisões judiciais referentes ao FUNDEB.” (Doc. 72, p. 4/6)
+
+A esse respeito, anoto que a Segunda Turma do Supremo Tribunal Federal perfilha o entendimento de que o artigo 5º, parágrafo único, da Emenda Constitucional nº 114/2021 – que prevê o repasse aos profissionais do magistério, na forma de abono, de 60% (sessenta por cento) das receitas que os Estados e os Municípios receberem a título de pagamentos da União por força de ações judiciais que tenham por objeto a complementação de parcela desta no Fundo de Manutenção e Desenvolvimento do Ensino Fundamental e de Valorização do Magistério (Fundef) –, não se aplica aos precatórios pagos antes da vigência da norma. A propósito, referencio as ementas infra:
+
+“Direito administrativo e outras matérias de direito público. Recurso extraordinário com agravo. Precatório Fundef/Fundeb. Complementação da união. Não retroatividade da Emenda Constitucional nº 114, de 2021. ADPF nº 582/DF. Segurança jurídica. Recurso não provido.
+I. Caso em exame
+1. Agravo em recurso extraordinário contra acórdão de origem em que mantida a improcedência de pedido de recebimento do valor alusivo ao rateio de 60% de precatório referente à complementação do Fundo de Manutenção e Desenvolvimento do Ensino Fundamental e de Valorização do Magistério (Fundef) pela União, recebido por Município em 2020.
+2. No acórdão de origem, negou-se provimento à apelação, com base no entendimento de que a Emenda Constitucional nº 114, de 2021, não se aplica retroativamente a precatórios recebidos antes de sua vigência e na orientação firmada na Arguição de Descumprimento de Preceito Fundamental nº 528/DF do Supremo Tribunal Federal, que afasta a subvinculação para recursos de complementação do Fundef pagos por meio de precatório.
+3. A recorrente aponta violação ao art. 60 do Ato das Disposições Constitucionais Transitórias e ao art. 5º, parágrafo único, da EC nº 114, de 2021, sob o argumento de que os professores municipais têm direito ao rateio de ao menos 60% de precatório referente à complementação de recursos do Fundef, porquanto o pagamento em momento futuro não alteraria a sua destinação. Aduz não haver mais a necessidade de legislação municipal prevendo o rateio da verba e alega que o citado art. 5º tem caráter meramente interpretativo, aplicando-se a fatos anteriores.
+II. Questão em discussão
+4. A questão a ser discutida é saber se a EC nº 114, de 2021, e a Lei federal nº 14.325, de 2022, que a regulamentou, podem ser aplicadas retroativamente para determinar o rateio de precatórios de complementação do Fundef recebidos por Município em data anterior à respectiva vigência.
+III. Razões de decidir
+5. O Supremo Tribunal Federal, no julgamento da ADPF nº 528/DF, firmou o entendimento de que a regra de destinação de 60% dos recursos anuais do Fundef para remuneração de profissionais do magistério (art. 22 da Lei federal nº 11.494, de 2007) não se aplica a verbas extraordinárias de complementação recebidas por meio de precatórios, a fim de evitar desequilíbrio fiscal e aumento salarial insustentável.
+6. Tal julgamento ocorreu após a vigência da EC nº 114, de 2021, tendo o Plenário desta Corte optado por manter essa orientação para as situações concretas estabelecidas sob a legislação anterior, conforme se observa no voto condutor do julgamento, proferido pelo Ministro Alexandre de Moraes.
+7. A alegação de que o referido art. 5º, parágrafo único, da EC nº 114, de 2021, seria uma norma interpretativa é afastada tanto pela orientação estabelecida na citada ADPF nº 528/DF quanto pela necessidade de regulamentação posterior pela Lei federal nº 14.325, de 2022, que adicionou o art. 47-A à Lei federal nº 14.113, de 2020, detalhando os critérios e a forma de pagamento.
+8. Além disso a referida emenda, em seu art. 8º, fixou a vigência de seus dispositivos (exceto o art. 1º) a partir de sua publicação, em 17/11/2021, não havendo previsão expressa de retroatividade. Se o poder constituinte derivado tivesse a intenção de conferir efeitos retroativos à aludida emenda, o teria feito expressamente, como ocorreu com o art. 6º da Emenda Constitucional nº 47, de 2005.
+9. É preciso observar, também, que esta Segunda Turma, em julgamentos recentes e à unanimidade, tem asseverado a impossibilidade de se aplicarem retroativamente normas que versem sobre precatório, inclusive emendas constitucionais, tendo em vista o princípio da segurança jurídica (ARE nº 1.520.420-AgR/SP, de minha relatoria, p. 24/01/2025; ARE nº 1.490.013-AgR/SP, Rel. Min. Nunes Marques, p. 06/02/2025; e ARE nº 1.489.583-AgR/SP, Rel. Min. Edson Fachin, p. 08/04/2025).
+10. Nesse contexto, a determinação de pagamento retroativo de 60% aos profissionais do magistério sobre precatórios já recebidos antes da EC nº 114, de 2021, acarretaria sérios prejuízos às finanças de Estados e Municípios, dado que os valores já recebidos, devido à notória crise fiscal que assola o país, muito provavelmente já teriam sido gastos.
+11. Desse modo, não se pode aplicar retroativamente a EC nº 114, de 2021, e, consequentemente, a Lei federal nº 14.325, de 2022, com o fim de afetar precatórios que foram pagos anteriormente e respeitaram tanto a ordem constitucional vigente à época como as determinações estabelecidas pelo Supremo Tribunal Federal no julgamento da ADPF nº 528/DF, sob pena de ofensa ao postulado da segurança jurídica. Até porque, em regra, a aplicação da lei no tempo deve obedecer ao brocardo latino tempus regit actum.
+IV. Dispositivo
+12. Recurso não provido.” (ARE 1.589.800-AgR, 2ª Turma, Rel. Min. André Mendonça, DJe de 26/3/2026)
+
+“Direito Administrativo e outras matérias de Direito Público. Recurso Extraordinário com Agravo. Precatório Fundef/Fundeb. Complementação da união. Não retroatividade da Emenda Constitucional nº 114, de 2021. ADPF nº 582/DF. Segurança jurídica. Recurso não provido.
+I. Caso em exame
+1. Agravo em recurso extraordinário contra acórdão de origem em que mantida a improcedência de pedido de recebimento do valor alusivo ao rateio de 60% de precatório referente à complementação do Fundo de Manutenção e Desenvolvimento do Ensino Fundamental e de Valorização do Magistério (Fundef) pela União, recebido por Município em 2020.
+2. No acórdão de origem, negou-se provimento à apelação, com base no entendimento de que a Emenda Constitucional nº 114, de 2021, não se aplica retroativamente a precatórios recebidos antes de sua vigência e na orientação firmada na Arguição de Descumprimento de Preceito Fundamental nº 528/DF do Supremo Tribunal Federal, que afasta a subvinculação para recursos de complementação do Fundef pagos por meio de precatório.
+3. A recorrente aponta violação ao art. 60 do Ato das Disposições Constitucionais Transitórias e ao art. 5º, parágrafo único, da EC nº 114, de 2021, sob o argumento de que os professores municipais têm direito ao rateio de ao menos 60% de precatório referente à complementação de recursos do Fundef, porquanto o pagamento em momento futuro não alteraria a sua destinação. Aduz não haver mais a necessidade de legislação municipal prevendo o rateio da verba e alega que o citado art. 5º tem caráter meramente interpretativo, aplicando-se a fatos anteriores.
+II. Questão em discussão
+4. A questão a ser discutida é saber se a EC nº 114, de 2021, e a Lei federal nº 14.325, de 2022, que a regulamentou, podem ser aplicadas retroativamente para determinar o rateio de precatórios de complementação do Fundef recebidos por Município em data anterior à respectiva vigência.
+III. Razões de decidir
+5. O Supremo Tribunal Federal, no julgamento da ADPF nº 528/DF, firmou o entendimento de que a regra de destinação de 60% dos recursos anuais do Fundef para remuneração de profissionais do magistério (art. 22 da Lei federal nº 11.494, de 2007) não se aplica a verbas extraordinárias de complementação recebidas por meio de precatórios, a fim de evitar desequilíbrio fiscal e aumento salarial insustentável.
+6. Tal julgamento ocorreu após a vigência da EC nº 114, de 2021, tendo o Plenário desta Corte optado por manter essa orientação para as situações concretas estabelecidas sob a legislação anterior, conforme se observa no voto condutor do julgamento, proferido pelo Ministro Alexandre de Moraes.
+7. A alegação de que o referido art. 5º, parágrafo único, da EC nº 114, de 2021, seria uma norma interpretativa é afastada tanto pela orientação estabelecida na citada ADPF nº 528/DF quanto pela necessidade de regulamentação posterior pela Lei federal nº 14.325, de 2022, que adicionou o art. 47-A à Lei federal nº 14.113, de 2020, detalhando os critérios e a forma de pagamento.
+8. Além disso a referida emenda, em seu art. 8º, fixou a vigência de seus dispositivos (exceto o art. 1º) a partir de sua publicação, em 17/11/2021, não havendo previsão expressa de retroatividade.  Se o poder constituinte derivado tivesse a intenção de conferir efeitos retroativos à aludida emenda, o teria feito expressamente, como ocorreu com o art. 6º da Emenda Constitucional nº 47, de 2005.
+9. É preciso observar, também, que esta Segunda Turma, em julgamentos recentes e à unanimidade, tem asseverado a impossibilidade de se aplicarem retroativamente normas que versem sobre precatório, inclusive emendas constitucionais, tendo em vista o princípio da segurança jurídica (ARE nº 1.520.420-AgR/SP, de minha relatoria, p. 24/01/2025; ARE nº 1.490.013-AgR/SP, Rel. Min. Nunes Marques, p. 06/02/2025; e ARE nº 1.489.583-AgR/SP, Rel. Min. Edson Fachin, p. 08/04/2025).
+10. Nesse contexto, a determinação de pagamento retroativo de 60% aos profissionais do magistério sobre precatórios já recebidos antes da EC nº 114, de 2021, acarretaria sérios prejuízos às finanças de Estados e Municípios, dado que os valores já recebidos, devido à notória crise fiscal que assola o país, muito provavelmente já teriam sido gastos.
+11. Desse modo, não se pode aplicar retroativamente a EC nº 114, de 2021, e, consequentemente, a Lei federal nº 14.325, de 2022, com o fim de afetar precatórios que foram pagos anteriormente e respeitaram tanto a ordem constitucional vigente à época como as determinações estabelecidas pelo Supremo Tribunal Federal no julgamento da ADPF nº 528/DF, sob pena de ofensa ao postulado da segurança jurídica. Até porque, em regra, a aplicação da lei no tempo deve obedecer ao brocardo latino tempus regit actum.
+IV. Dispositivo
+12. Recurso ao qual se nega provimento.” (ARE 1.581.265-AgR, 2ª Turma, Rel. Min. André Mendonça, DJe de 12/3/2026)
+
+Nesse viés, desponta não merecer respaldo a pretensão recursal.
+Ex positis, NEGO SEGUIMENTO ao agravo, ex vi art. 932, inc. VIII, do Código de Processo Civil, e art. 21, § 1º, do Regimento Interno do STF.
+Ademais, tendo havido a prévia fixação de honorários advocatícios pelas instâncias de origem, seu valor monetário será majorado em 10% (dez por cento) em desfavor da parte recorrente, nos termos do artigo 85, § 11, do Código de Processo Civil, observados os limites dos §§ 2º e 3º do referido artigo e a eventual concessão de justiça gratuita.
+Publique-se.
+Brasília, 7 de abril de 2026.
+
+Ministro LUIZ FUX
+Relator
+Documento assinado digitalmente
