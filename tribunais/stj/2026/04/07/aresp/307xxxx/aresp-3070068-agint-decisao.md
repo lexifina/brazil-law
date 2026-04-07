@@ -1,0 +1,43 @@
+DECISÃO
+Trata-se de agravo interno interposto pelo SINDICATO DOS TRABALHADORES SERV PUBLICO MUN UBERLANDIA da decisão da Presidência do Superior Tribunal de Justiça que não conheceu do recurso especial em razão da ausência de indicação do dispositivo legal supostamente violado (fls. 421/422).
+A parte agravante afirma que teria indicado expressamente, em suas razões recursais, os dispositivos legais violados. Alega que, " a ssim, a norma federal violada é o art. 9º-A, § 3º, da Lei Federal n.º 11.350/2006, incluído pela Lei Federal n.º 13.342/2016" (fl. 433).
+Requer a reconsideração da decisão para que o recurso especial seja processado e provido.
+A parte adversa não apresentou impugnação (fl. 444).
+É o relatório.
+Diante das alegações da parte agravante, reconsidero a decisão agravada e passo ao exame do recurso especial.
+Trata-se de recurso especial interposto pelo SINDICATO DOS TRABALHADORES SERV PUBLICO MUN UBERLANDIA, com fundamento no art. 105, inciso III, alínea a, da Constituição Federal, no qual se insurge contra o acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAIS assim ementado (fl. 250):
+DIREITO ADMINISTRATIVO E CONSTITUCIONAL. APELAÇÃO CÍVEL. AÇÃO CIVIL PÚBLICA. ADICIONAL DE INSALUBRIDADE. AGENTES COMUNITÁRIOS DE SAÚDE. ILEGITIMIDADE ATIVA. AGENTES DE COMBATE ÀS ENDEMIAS E DE ZOONOSES. PAGAMENTO PROPORCIONAL CONFORME GRAU DE EXPOSIÇÃO. BASE DE CÁLCULO. MENOR VENCIMENTO. DESPROVIMENTO.
+1. Apelação cível contra sentença que extinguiu o processo, por ilegitimidade ativa, quanto aos Agentes Comunitários de Saúde, e julgou improcedentes os pedidos de pagamento de adicional de insalubridade no grau máximo para os Agentes de Combate às Endemias e Agentes de Zoonoses. A sentença reconheceu que o adicional é pago com base no menor vencimento do Município, em percentual proporcional ao grau de exposição dos servidores aos agentes nocivos.
+2. A questão em discussão consiste em saber se (i) o adicional de insalubridade deve ser estendido aos Agentes Comunitários de Saúde, (ii) qual é a base de cálculo correta do adicional para os Agentes de Combate às Endemias e Zoonoses, e (iii) se é devido o pagamento do adicional no percentual máximo.
+3. O Sindicato não tem legitimidade ativa para representar os Agentes Comunitários de Saúde, por ausência de vínculo direto com o Município. 4. Quanto aos Agentes de Combate às Endemias e Zoonoses, o adicional de insalubridade deve ser calculado com base no menor vencimento do Município, nos percentuais de 10%, 20% ou 40%, conforme o grau de exposição aos agentes nocivos, devendo cada caso ser analisado individualmente com base em laudo técnico, não havendo fundamento para pagamento uniforme no grau máximo.
+5. Apelação cível desprovida.
+Os embargos de declaração opostos foram rejeitados (fls. 291/295).
+A parte recorrente alega violação do art. 9º-A, § 3º, da Lei 11.350/2006, ao argumento de que o adicional de insalubridade dos Agentes de Combate às Endemias e dos Agentes Comunitários de Saúde deveria ser calculado sobre o vencimento ou o salário-base, e não sobre o menor padrão de vencimento municipal, entendimento que teria sido reforçado pela Emenda Constitucional 120/2022 (fls. 356/360).
+Requer o provimento de seu recurso.
+A parte adversa apresentou contrarrazões (fls. 382/386).
+Da leitura do acórdão recorrido, constato que o mérito recursal foi decidido à luz da interpretação do art. 90 da Lei Complementar municipal 40/1992 (Estatuto dos Servidores Públicos do Município de Uberlândia). Confira-se (fls. 253/255, destaquei):
+Por outro lado, o Município comprovou que já paga o adicional de insalubridade aos Agentes de Controle de Zoonoses, mesmo antes da vigência da Emenda Constitucional n.º 120/2022, conforme previsto no art. 90 da Lei Complementar Municipal n. 40/1992 (Estatuto dos Servidores Públicos do Município de Uberlândia).
+ ..
+A base de cálculo do adicional é aquela expressamente prevista na legislação específica sobre a matéria, ou seja, o menor vencimento pago pelo Município, conforme dispõe a Lei Municipal n. 40/1992. Ainda que o Supremo Tribunal Federal (STF) tenha declarado a inconstitucionalidade do uso do salário mínimo como indexador de base de cálculo de vantagens devidas a servidores públicos (Súmula Vinculante 4 e RE 565714/SP, Tema 25), também estabeleceu que é vedado ao Poder Judiciário fixar novos parâmetros para a base de cálculo do adicional de insalubridade até que o respectivo ente público edite nova legislação sobre o tema.
+ ..
+Por sua vez, a Lei Federal n. 11.350/06, alterada pela Lei Federal n. 13.342/16, invocada pelo apelante, destina-se aos servidores vinculados à União, havendo previsão expressa na própria legislação de que, quando o servidor estiver submetido a vínculos de outra natureza, será aplicável a legislação específica (Art. 9.º, § 3.º, II).
+Como se verifica, o Tribunal de origem concluiu que, existindo disciplina específica na legislação municipal acerca da base de cálculo do adicional de insalubridade, devia prevalecer o critério estabelecido na Lei Complementar municipal 40/1992, adotando-se o menor vencimento pago pelo município.
+Inclusive, da análise das razões recursais, é possível observar que, para sustentar a alegada violação ao art. 9º-A, § 3º, da Lei n. 11.350/2006  no sentido de que a base de cálculo do adicional de insalubridade deveria incidir sobre o vencimento ou o salário-base, e não sobre o menor padrão de vencimento municipal  , a parte recorrente aponta a divergência entre a legislação local e a lei federal, o que evidencia que o exame da controvérsia pressupõe a análise da Lei Complementar municipal 40/1992. Confiram-se (fls. 356/358, destaquei):
+No r. Acórdão recorrido, o Egrégio Tribunal de Justiça de Minas Gerais informa que o Município Recorrido comprovou que já realiza o pagamento do adicional de insalubridade aos Agentes Comunitários de Saúde (ACS) e Agentes de Combate às Endemias (ACE), conforme o previsto no art. 90 da Lei Complementar Municipal n.º 040/92, mesmo antes da vigência da Emenda Constitucional n.º 120/2022. O Tribunal, então, aduz que a base de cálculo do adicional de insalubridade está expressamente prevista no comando normativo municipal, sendo ela definida como o menor vencimento pago pelo Ente Federativo Réu, conforme disposto no §1º do art. 90 da referida Lei Complementar.
+Em seguida, o acórdão sustenta que é vedado ao Poder Judiciário alterar os parâmetros para a base de cálculo da verba indenizatória enquanto o ente público não editar uma nova legislação sobre o tema, razão pela qual a r. Turma do Tribunal de Justiça negou provimento ao recurso de apelação interposto pela Entidade Sindical Recorrente, no tocante ao cálculo do adicional insalubre considerando o vencimento ou salário-base.
+Dentre as medidas para a garantia de uma vida digna dos servidores públicos, a lei federal estabelece expressamente, em seu art. 9º-A, § 3º, a garantia do adicional insalubre com base no VENCIMENTO OU SALÁRIO-BASE, tampouco no menor vencimento segundo estipulado pelo Município Recorrido
+ ..
+Há, portanto, nítida afronta, por parte do Município Recorrido, à melhor interpretação da Lei Federal n.º 11.350/2006, eis que o art. 90 da Lei Complementar Municipal n.º 040/92 dispõe a seguinte redação:
+ ..
+Conforme o comando acima, a lei municipal dispõe que o valor do adicional de insalubridade será calculado sobre o menor vencimento pago pelos cofres municipais, com percentuais variáreis. No entanto, essa previsão se encontra em desconformidade com as disposições da Lei Federal n.º 11.350/2006, que garantem expressamente que a verba indenizatória deve ser calculada sobre o vencimento ou salário-base, e não sobre o valor do menor vencimento.
+Portanto, a alteração do julgado, conforme pretendido nas razões recursais, demandaria, necessariamente, a análise da legislação local, providência vedada em recurso especial.
+Desse modo, aplico à espécie, por analogia, o enunciado 280 da Súmula do Supremo Tribunal Federal ("Por ofensa ao direito local não cabe recurso extraordinário").
+Nesse mesmo sentido:
+PROCESSUAL CIVIL. ACÓRDÃO RECORRIDO. FUNDAMENTO CONSTITUCIONAL. LEGISLAÇÃO LOCAL. EXAME. IMPOSSIBILIDADE.
+ ..
+3. A análise das teses apresentadas depende do exame de legislação local, o que não é viável no âmbito do recurso especial, nos termos da Súmula 280 do STJ (Leis Complementares Municipais n. 01/2012 e 02/2000).
+4. Agravo interno desprovido.
+(AgInt no AgInt no AREsp n. 2.092.887/PR, relator Ministro Gurgel de Faria, Primeira Turma, julgado em 17/4/2023, DJe de 20/4/2023.)
+Ante o exposto, reconsidero a decisão de fls. 421/422 para conhecer do agravo e não conhecer do recurso especial por fundamento diverso.
+Publique-se. Intimem-se.
+ EMENTA
