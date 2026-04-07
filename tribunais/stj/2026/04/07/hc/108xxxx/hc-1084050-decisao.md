@@ -1,0 +1,56 @@
+DECISÃO
+Trata-se de habeas corpus, sem pedido liminar, impetrado em favor de CAIO ANDRADE DA SILVA, apontando como ato coator o acórdão proferido pela 4ª Câmara Criminal do Tribunal de Justiça do Estado de Minas Gerais, que negou provimento ao Recurso de Apelação n. 1.0704.20.002429-4/001, mantendo a sentença condenatória proferida pelo Juízo da Vara Criminal e da Infância e da Juventude da Comarca de Unaí/MG.
+Consta que o paciente foi condenado às penas de 10 (dez) anos e 2 (dois) meses de reclusão, em regime inicial fechado, e 661 (seiscentos e sessenta e um) dias-multa, pela prática dos crimes previstos nos arts. 33, caput, da Lei n. 11.343/2006, e 15 da Lei n. 10.826/2003.
+A impetração alega, em síntese, a ocorrência de constrangimento ilegal, sustentando a nulidade das provas obtidas em suposta violação de domicílio e, subsidiariamente, a necessidade de absolvição quanto ao crime de tráfico de drogas, por insuficiência probatória, ou, ao menos, a desclassificação da conduta para o tipo penal previsto no artigo 28 da Lei n. 11.343/2006.
+Requer, no mérito, a concessão de ordem, ainda que de ofício, para absolver o paciente ou, subsidiariamente, desclassificar a conduta de tráfico de drogas que lhe foi imputada.
+É o relatório.
+Decido.
+Inicialmente, ressalto que, conforme o entendimento consolidado desta Corte, as disposições contidas nos arts. 64, inciso III, e 202 do Regimento Interno do Superior Tribunal de Justiça não afastam a prerrogativa do relator de apreciar liminarmente, em habeas corpus ou recurso em habeas corpus, a pretensão que esteja em conformidade com súmula ou com a jurisprudência consolidada dos Tribunais Superiores, ou, ainda, que as contrarie, v.g. AgRg no HC n. 856.046/SP, de relatoria do Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 24/10/2023, DJe de 30/10/2023.
+Assim, passo a analisar diretamente o pedido formulado na insurgência.
+A análise da presente impetração exige rigorosa observância aos limites constitucionais do habeas corpus, remédio constitucional de natureza específica destinado exclusivamente à proteção do direito fundamental de locomoção, nos termos do art. 5º, LXVIII, da Constituição Federal.
+O desvirtuamento funcional do instituto tem sido objeto de constante preocupação desta Corte Superior. Conforme destacado pelo Ministro Rogério Schietti Cruz no AgRg no HC n. 959.440/RO, o Superior Tribunal de Justiça "não admite que o remédio constitucional seja utilizado em substituição ao recurso próprio (apelação, recurso especial, recurso ordinário), tampouco à revisão criminal", ressalvadas situações excepcionais de flagrante ilegalidade. O precedente enfatiza que a utilização inadequada do writ implica "subversão da essência do remédio heroico e alargamento inconstitucion al de sua competência".
+Com efeito, a utilização indiscriminada do writ como um atalho para rediscutir matéria já decidida pelas instâncias ordinárias desvirtua sua nobre finalidade, que é a de proteger a liberdade de locomoção contra ilegalidade ou abuso de poder manifesto e de plano identificável.
+Dessa forma, a regra é o não conhecimento da impetração que se apresenta como substitutiva de revisão criminal, como é o caso.
+Contudo, em situações excepcionais, nas quais se verifique a existência de flagrante ilegalidade, teratologia ou abuso de poder que implique grave constrangimento à liberdade do paciente, os tribunais têm admitido a concessão da ordem de ofício, flexibilizando a regra geral de não cabimento.
+É sob essa ótica, portanto, que a presente impetração será analisada: verifica-se, de ofício, a existência de eventual constrangimento ilegal manifesto que justifique uma intervenção excepcional desta Corte.
+Analisando detidamente os autos e as decisões proferidas nas instâncias ordinárias, não se vislumbra a ocorrência de flagrante ilegalidade ou teratologia apta a justificar a concessão da ordem de ofício.
+Em primeiro lugar, quanto à tese de nulidade da busca domiciliar, cumpre salientar que a matéria não foi examinada pelo Tribunal de origem no acórdão impugnado, o que impede a manifestação originária desta Corte, sob pena de supressão de instância.
+A propósito:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. CRIME DE RESPONSABILIDADE DE PREFEITO. FALSIDADE IDEOLÓGICA, POR 13 VEZES. NULIDADE. QUEBRA DE SIGILO TELEFÔNICO E TELEMÁTICO. INEXISTÊNCIA DE DILIGÊNCIA PRÉVIA. SUPRESSÃO DE INSTÂNCIA. AUSÊNCIA DE FLAGRANTE ILEGALIDADE. DIVERSAS DILIGÊNCIAS PREPARATÓRIAS. AGRAVO REGIMENTAL DESPROVIDO.
+(..)
+2. O Tribunal de origem não analisou o tema no viés ora delineado pela defesa, ficando esta Corte impedida de apreciar a matéria, sob pena de indevida supressão de instância.
+(..)
+5. Agravo regimental desprovido.
+(AgRg no HC n. 864.854/SP, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 2/9/2025, DJEN de 9/9/2025.)
+No mais, o édito condenatório pela prática do crime de tráfico de drogas foi proferida com fundamentação que, à primeira vista, mostra-se idônea e em conformidade com o conjunto probatório produzido.
+Conforme consta dos autos, o paciente foi preso em flagrante em 07 de junho de 2020. A prisão ocorreu após policiais militares, em patrulhamento, ouvirem um estampido de arma de fogo. Durante a abordagem ao veículo em que o paciente se encontrava, este teria dispensado um revólver calibre .38, municiado com cinco cartuchos intactos e um deflagrado. Na ocasião, foram apreendidos com ele um aparelho celular e a quantia de R$ 867,00 (oitocentos e sessenta e sete reais). Ato contínuo, os policiais se deslocaram até a residência do paciente, onde localizaram três tabletes de maconha, totalizando 18,78 gramas.
+A impetração renova o argumento de que as provas seriam insuficientes para a condenação por tráfico de drogas, alegando que a quantidade de entorpecente apreendida (18,78g de maconha) seria compatível com a condição de usuário do paciente, o que demandaria a desclassificação da conduta para o artigo 28 da Lei de Drogas.
+No entanto, as instâncias ordinárias, soberanas na análise do conjunto fático-probatório, concluíram de forma diversa, com base em fundamentos que não se mostram manifestamente ilegais. A sentença condenatória, mantida pelo acórdão, não se baseou apenas na quantidade da droga, mas em um conjunto de elementos que, analisados em contexto, levaram à conclusão pela destinação comercial do entorpecente.
+Destacou-se que os agentes públicos, tanto militares quanto civis, relataram de forma coesa que o paciente já era conhecido no meio policial e monitorado por denúncias de envolvimento com o tráfico de drogas. A jurisprudência pátria é pacífica quanto à validade dos depoimentos de policiais como meio de prova, especialmente quando colhidos sob o crivo do contraditório e em harmonia com os demais elementos dos autos, como no caso presente.
+A tese defensiva de que a droga se destinava ao consumo próprio, embora plausível em abstrato, foi confrontada com as provas e rejeitada de forma fundamentada pelas instâncias ordinárias. A análise para diferenciar o tráfico do porte para consumo pessoal, nos termos do artigo 28, §2º, da Lei nº 11.343/06, é complexa e depende da valoração de todas as circunstâncias do caso. O acórdão impugnado, ao ponderar a prova oral, o histórico do paciente e as circunstâncias da apreensão, concluiu pela manutenção da condenação por tráfico, afastando a tese de desclassificação.
+Reverter essa conclusão demandaria um profundo reexame de fatos e provas, providência incompatível com a via estreita do habeas corpus, que não se presta a funcionar como uma terceira instância de julgamento.
+Com igual conclusão:
+DIREITO PROCESSUAL PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS. PROVA TESTEMUNHAL. REVOLVIMENTO FÁTICO-PROBATÓRIO. AGRAVO REGIMENTAL NÃO PROVIDO.
+I. Caso em exame
+1. Agravo regimental interposto contra decisão que conheceu parcialmente do habeas corpus e, nesta extensão, denegou a ordem. O agravante sustenta ausência de fundamentação adequada na subsunção da conduta ao delito de tráfico de drogas (art. 33 da Lei n. 11.343/2006), alegando insuficiência de provas, contradições nos depoimentos de policiais e ausência de individualização das mochilas apreendidas com entorpecentes.
+2. O agravante reitera que não formulou pedido de desclassificação no habeas corpus originário, mas pleitos de absolvição por insuficiência de provas, aplicação do princípio do in dubio pro reo e, subsidiariamente, redução da pena. Requer reconsideração da decisão agravada ou submissão ao órgão colegiado para concessão da ordem.
+II. Questão em discussão
+3. A questão em discussão consiste em saber se a condenação pelo crime de tráfico de drogas pode ser mantida com base em depoimentos de policiais e outras provas constantes nos autos, sem que haja necessidade de revolvimento fático-probatório, e se há elementos para acolher os pleitos de absolvição ou redução de pena.
+III. Razões de decidir
+4. O depoimento de policiais constitui meio de prova idôneo para fundamentar a condenação, desde que ausente qualquer dúvida sobre a imparcialidade dos agentes, cabendo à defesa demonstrar a imprestabilidade da prova, o que não ocorreu no caso.
+5. A jurisprudência consolidada afirma que o crime de tráfico de drogas é de ação múltipla, consumando-se com a prática de qualquer dos verbos nucleares descritos no tipo penal, sendo desnecessária a efetiva prática de atos de mercancia.
+6. A análise das instâncias ordinárias concluiu, de forma fundamentada, pela subsunção da conduta ao art. 33 da Lei n. 11.343/2006, com base na prova testemunhal, nas circunstâncias da apreensão e na forma de acondicionamento dos entorpecentes.
+7. A pretensão de desclassificação ou absolvição demandaria revolvimento do conjunto fático-probatório, o que é inviável na via estreita do habeas corpus.
+IV. Dispositivo e tese
+8. Resultado do Julgamento: Agravo regimental não provido.
+Tese de julgamento:
+1. O depoimento de policiais constitui meio de prova idôneo para fundamentar a condenação, desde que ausente dúvida sobre a imparcialidade dos agentes.
+2. O crime de tráfico de drogas é de ação múltipla, consumando-se com a prática de qualquer dos verbos nucleares descritos no tipo penal, sendo desnecessária a prática de atos de mercancia.
+3. O habeas corpus não se presta ao revolvimento do conjunto fático-probatório para fins de desclassificação ou absolvição.
+Dispositivos relevantes citados: Lei n. 11.343/2006, art. 33; CPP, art. 619.
+Jurisprudência relevante citada: STJ, AgRg no HC 959.510/PR, Rel. Min. Reynaldo Soares da Fonseca, Quinta Turma, j. 03.12.2024; STJ, AgRg no AREsp 1.803.460/ES, Rel. Min. Antonio Saldanha Palheiro, Sexta Turma, j. 13.09.2022; STJ, AgRg no HC 762.463/SP, Rel. Min. Rogerio Schietti Cruz, Sexta Turma, j. 28.11.2022.
+(AgRg no HC n. 1.026.730/RJ, relator Ministro Carlos Pires Brandão, Sexta Turma, julgado em 19/11/2025, DJEN de 28/11/2025.)
+Diante do exposto, verifica-se que a impetração utiliza o habeas corpus como substitutivo da via apropriada, o que, em regra, não é admitido. Ademais, a análise do caso não revela a existência de constrangimento ilegal flagrante, abuso de poder ou decisão teratológica que autorize a concessão da ordem de ofício.
+Ante o exposto, não conheço do presente habeas corpus.
+Publique-se. Intimem-se.
+ EMENTA
