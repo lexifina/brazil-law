@@ -1,0 +1,28 @@
+DECISÃO
+Cuida-se de Agravo apresentado por EVEN CONSTRUTORA E INCORPORADORA S.A à decisão que não admitiu seu Recurso Especial.
+O apelo, fundamentado no artigo 105, III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, assim resumido:
+AGRAVO DE INSTRUMENTO - Julgamento antecipado parcial do mérito (artigos 356, § 5º, e 1.015, II, do CPC) - Ação declaratória de existência de relação jurídica cumulada com pedido indenizatório a danos materiais - Contrato de prestação de serviços de promoção de eventos e marketing - Alegado inadimplemento da remuneração ajustada - Decisão agravada que rejeitou a alegação de prescrição da pretensão inicial - Acerto - Pretensão indenizatória fundada em ilícito contratual - Incidência do prazo prescricional decenal (art. 205 do CC) - Não aplicação do prazo trienal (art. 206, § 3º, V, do CC), cuja incidência está relacionada às pretensões reparatórias por ilícitos extracontratuais (responsabilidade aquiliana) - Entendimento consolidado pelo C. STJ - Precedentes, ademais, deste E. TJSP - Decisão mantida - RECURSO NÃO PROVIDO (fl. 32).
+Quanto à controvérsia, pela alínea "a" do permissivo constitucional, a parte recorrente aduz contrariedade aos arts. 206, §§ 3º e 5º, I, do Código Civil, no que concerne ao reconhecimento da prescrição, em razão de os serviços de guarda/estocagem não serem abrangidos pelo contrato de 1º/1/2011, com início em 2013 e ajuizamento em 11/10/2022, trazendo a seguinte argumentação:
+Isto posto, a Recorrente, inconformada com o julgado, oferece, tempestivamente, Recurso Especial pretendendo a reforma da decisão em comento, conforme razões a seguir, com fundamento na afronta a legislação federal (fl. 52).
+O que toca a Prescrição dos autos, é sabido que se aplica o quanto previsto no artigo 206 § 3º do Código Civil: prescrição trienal.  (fl. 52).
+Como é cediço, o instituto da prescrição tem por finalidade conferir certeza às relações jurídicas, na busca de estabilidade, porquanto não seria possível suportar uma perpétua situação de insegurança:  Nas palavras de Pontes de Miranda:  (fls. 52-52).
+Pois bem. No caso em comento, os pedidos são baseados em prestação de serviço não abrangidos pelo contrato celebrado entre as partes em 01/01/2011, tendo as supostas prestações de serviços para estocagem iniciado no ano de 2013 e tendo o ajuizamento da presente demanda ocorrido em 11/10/2022 (fl. 53).
+E não há que se falar em relação contratual, na medida em que os pedidos são baseados em prestação de serviço NÃO ABRANGIDOS PELO CONTRATO celebrado entre as partes em 01/01/2011, de modo que não há que se falar em responsabilidade contratual no presente caso, pois não houve contrato nesse sentido (fl. 53).
+Mesmo que se considere como sendo, o que se admite apenas por suposição, o Código Civil estabeleceu no art. 206, §5º, I, que todas as dívidas de instrumento público ou particular têm prazo quinquenal de prescrição. Sendo assim, os valores postulados na presente ação prescrevem em 5 anos (fl. 53).
+O V. Acórdão recorrido contrariou o Código Civil, fundamentalmente parágrafo terceiro e quinto, do art. 206 do Código Civil, apontado nesta irresignação e, acorde com o disposto no artigo 105, inciso III, alínea "a" da Constituição Federal de 1988 (fl. 54).
+É o relatório.
+Decido.
+Quanto à controvérsia, o Tribunal a quo se manifestou nos seguintes termos:
+A responsabilidade discutida nos autos principais, portanto, é contratual.
+Nesse particular, ao contrário do que sustenta a agravante, não há que se falar em aplicação, na espécie, do prazo trienal previsto no art. 206, § 3º, inciso V, do Código Civil, tendo em vista que relacionado aos casos de reparação civil extracontratual (aquiliana), que não é a hipótese dos autos.
+ ..
+Frise-se, assim, que o prazo prescricional para reclamar indenização resultante de ilícito contratual é de 10 anos, nos termos do art. 205 do Código Civil.
+No caso sub judice, reitere-se que a pretensão indenizatória está fundamentada em alegado descumprimento contratual por parte da requerida, nos termos da causa de pedir inicial.
+Desse modo, enfim, aplica-se à espécie o prazo de prescrição decenal, nos termos do art. 205 do Código Civil, como bem anotado pelo MM. Juiz a quo (fl. 33).
+Assim, incidem as Súmulas n. 5 e 7 do STJ, porquanto a pretensão recursal demanda reexame de cláusulas contratuais e reexame do acervo fático-probatório juntado aos autos.
+Nesse sentido: "Não cabe, em recurso especial, reexaminar matéria fático-probatória e a interpretação de cláusulas contratuais (Súmulas n. 5 e 7 do Superior Tribunal de Justiça)" (AgInt no AREsp n. 2.243.705/SP, relatora Ministra Maria Isabel Gallotti, Quarta Turma, DJe de 20/10/2023).
+Confiram-se ainda os seguintes julgados: AgInt no AREsp n. 2.446.415/SP, relator Ministro Humberto Martins, Terceira Turma, DJEN de 20/3/2025; REsp n. 2.106.567/SP, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, DJEN de 5/3/2025; AgInt no AREsp n. 2.572.293/RS, relator Ministro Benedito Gonçalves, Primeira Turma, DJEN de 13/12/2024; AgInt no AgInt no AREsp n. 2.560.748/DF, relator Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 22/11/2024; REsp n. 1.851.431/SC, relator Ministro Paulo Sérgio Domingues, Primeira Turma, DJe de 7/10/2024; REsp n. 1.954.604/MG, relator Ministro Francisco Falcão, Segunda Turma, DJe de 21/3/2024; AgInt no REsp n. 1.995.864/PB, relator Ministro Raul Araújo, Quarta Turma, DJe de 20/10/2023.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do Agravo para não conhecer do Recurso Especial.
+Publique-se.
+Intimem-se.
+ EMENTA
