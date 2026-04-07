@@ -1,0 +1,67 @@
+DECISÃO
+Trata-se de habeas corpus com pedido de liminar impetrado em favor de MAXIMILIANO SILVA DE OLIVEIRA em que se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO GRANDE DO SUL.
+Consta dos autos que o paciente foi denunciado pela suposta prática dos delitos previstos nos arts. 121, § 2º, I (duas vezes) e IV, c/c o art. 14, II, e 180, caput, todos do Código Penal.
+Alega que o writ é cabível para controle de legalidade, por envolver revaloração jurídica de fundamentos constantes da sentença e do acórdão, sem revolvimento probatório.
+Afirma que, excepcionalmente, a via cognitiva do habeas corpus comporta conhecimento quando evidenciado constrangimento ilegal, inclusive para concessão de ordem de ofício.
+Aduz que há três ilegalidades principais: ilicitude dos reconhecimentos por show-up; insuficiência do standard probatório para a pronúncia; e omissão sobre laudo genético que afasta a autoria.
+Defende que o reconhecimento fotográfico feito na fase policial, mais de quatro meses após os fatos, exibiu foto isolada do paciente e resultou apenas em "semelhança", contrariando o art. 226 do CPP e a jurisprudência desta Corte.
+Assevera que o acórdão incorreu em erro material ao tratar tal ato como reconhecimento positivo, apesar de, em juízo, a informante ter negado ter reconhecido o paciente, gerando contradição interna e vício de fundamentação.
+Entende que a cadeia probatória está contaminada: descrição genérica inicial; posterior reconhecimento de terceiro diverso; relato indireto da policial; e, ao final, show-up que induziu memória e não individualizou autoria.
+Pondera que também houve show-up em juízo, quando a vítima de roubo afirmou não ter visualizado o ocupante do banco traseiro e, ainda assim, apontou "semelhança" por cor de pele e cabelo, reforçando o risco de falso reconhecimento.
+Informa que o Tema n. 1.258 do STJ impõe observância estrita do art. 226 do CPP, alinhamento de pessoas semelhantes e necessidade de provas independentes, requisitos não observados no caso.
+Relata que a Resolução CNJ n. 484/2022 e a Portaria do Ministério da Justiça n. 1.122/2026 vedam o show-up, exigem documentação adequada e proíbem o reconhecimento como único elemento, o que reforça a nulidade.
+Alega que a prática resistente de tratar o art. 226 do CPP como mera recomendação foi superada pela jurisprudência desta Corte, impondo a invalidação dos atos de reconhecimento realizados.
+Afirma que a prova técnica pericial (laudo genético) concluiu que os perfis coletados no veículo são divergentes do perfil do paciente, e que a sentença e o acórdão omitiram por completo tal dado.
+Aduz que a ausência de enfrentamento da prova técnica essencial configura nulidade por falta de fundamentação, impondo novo julgamento do recurso com apreciação integral das provas.
+Defende que o standard probatório para a pronúncia não foi atingido, pois se baseou em elementos inquisitoriais e testemunhos indiretos, sem suporte judicial direto e sem provas autônomas.
+Pondera que a linha do tempo evidencia fragilidade dos indícios e confirma que não há base mínima para submeter o paciente a julgamento pelo júri.
+Informa que há sessão do tribunal do júri designada para 27/4/2026, o que justifica a liminar para sobrestamento diante do periculum in mora.
+Requer, liminarmente, a suspensão da sessão do tribunal do júri. No mérito, postula o desentranhamento dos reconhecimentos ilícitos, a declaração de nulidade do acórdão por omissão quanto ao laudo genético, com retorno para novo julgamento, e a impronúncia do paciente por insuficiência de lastro probatório.
+É o relatório.
+O Superior Tribunal de Justiça já firmou compreensão de que o habeas corpus não deve ser utilizado como substitutivo do recurso legalmente previsto para a hipótese, impondo-se o não conhecimento da impetração, salvo quando constatada a existência de flagrante ilegalidade no ato judicial impugnado.
+Observam-se a respeito: AgRg no HC n. 933.316/MG, relator Ministro Messod Azulay Neto, Quinta Turma, julgado em 20/8/2024, DJe de 27/8/2024; AgRg no HC n. 874.713/SP, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 13/8/2024, DJe de 20/8/2024; AgRg no HC n. 918.177/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 19/8/2024, DJe de 22/8/2024; AgRg no HC n. 749.702/SP, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 26/2/2024, DJe de 29/2/2024; AgRg no HC n. 912.662/SP, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 24/6/2024, DJe de 27/6/2024; e HC n. 740.303/ES, relator Ministro Jesuíno Rissato - Desembargador convocado do TJDFT, Quinta Turma, julgado em 9/8/2022, DJe de 16/8/2022.
+No caso em exame, não se verifica a ocorrência de ilegalidade flagrante apta a superar esse entendimento.
+O Tribunal de origem ressaltou, no acórdão do recurso em sentido estrito, que a pronúncia se baseou nas provas produzidas judicialmente, sobretudo na prova oral. No ponto (fls. 31-32):
+Exposta a prova, consigno que, na fase processual em que o presente feito se encontra, não há de se esperar do julgador um juízo de certeza, mas apenas que, caso pronuncie o réu, a decisão esteja baseada na existência de elementos que atestem a materialidade do delito e a presença de indícios suficientes de sua autoria. A despeito disso, a sentença de pronúncia não pode ser proferida sem mínimos elementos submetidos ao devido processo legal.
+Assim, para que o réu seja pronunciado, a acusação não precisa provar que ele seja efetivamente o autor do delito, pois se trata de juízo de probabilidade, e não de certeza. Ou seja, basta que existam nos autos indícios suficientes de autoria, ainda que derivados de testemunhas não oculares ou da própria vítima, haja vista que a decisão de pronúncia, conforme registrado, constitui simples juízo de admissibilidade da acusação.
+Dito isso, no caso em exame, a despeito de o réu ter negado qualquer participação no evento criminoso, extrai-se dos autos a presença de elementos mínimos que permitem o seu encaminhamento a julgamento pelo Tribunal do Júri.
+De efeito, ouvida sob o crivo do contraditório, a Policial Civil Pâmela Baldo, disse que, durante a investigação, conversou com a vítima, tendo esta afirmado que a mandante do crime seria "(..) a ex-companheira dele, que era a Júlia, e que a pessoa que tentou executar ele seria um companheiro, um atual namorado dela, algo nesse sentido, e ele mandou uma fotografia de uma pessoa".
+A informante Cleice Suzana da Silva Marinho, ex-companheira da vítima e que estava na companhia dele por ocasião dos fatos, reconheceu o ora recorrente como sendo muito semelhante com um dos autores do crime.
+Para além disso, ao ser ouvido na fase administrativa, o ora recorrente confirmou que teve rápido relacionamento com a corré Júlia (ex-companheira da vítima), chegando a afirmar que residiu, por algum tempo, na casa dela. Relatou, ainda, que em determinado ocasião a corré pediu para ele "fazer uma mão", esclarecendo que se tratava de um roubo, e não da tentativa de homicídio investigada no feito em análise.
+Nesse cenário, e sobretudo na fase em que se encontra o feito, não é possível afastar a tese acusatória.
+Esclareço que não se está a afirmar que o réu praticou o delito, ou desconsiderando as teses apresentadas pela defesa, mas tão somente apontando que há a possibilidade, pelo que consta nos autos, de que o tenha feito, o que somente será apreciado pelo Tribunal do Júri, o qual detém a competência constitucional para tanto.
+Saliento, ainda, que não se trata aqui de acolher o princípio denominado como in dubio pro societate, que nada mais é do que uma forma didática que surgiu para enaltecer a passagem de uma fase de formação da culpa para uma fase de apreciação do mérito, mas sim de uma transição consubstanciada num juízo de mera admissibilidade da imputação, sem toque de mérito, que garanta minimamente o reconhecimento da materialidade do delito, dos indícios suficientes de autoria e no animus necandi na conduta da agente, tal como se mostrou indicada na hipótese deste caso concreto.
+Pontuo que é entendimento consolidado que o juiz pronunciante deixará um juízo de suspeita para os jurados, visto que a pronúncia não deve invadir o mérito. Daí, a imprescindibilidade do Conselho de Sentença proceder com a devida análise meritória dos fatos e provas colacionados nos autos.
+Nesse contexto, a pronúncia somente deverá ser modificada quando, do arcabouço probatório, ficar demonstrada, de forma incontestável, a presença de motivos suficientes, o que não é o caso dos autos, não havendo que se falar, por conseguinte, em impronúncia.
+O entendimento do Tribunal de origem está em consonância com a jurisprudência desta Corte Superior, que estabelece que a pronúncia encerra simples juízo de admissibilidade da acusação, satisfazendo-se, tão somente, pelo exame da ocorrência do crime e de indícios de sua autoria, não demandando juízo de certeza necessário à sentença condenatória, uma vez que as eventuais dúvidas serão dirimidas durante a segunda fase do procedimento do júri.
+Nesse sentido:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. HOMICÍDIO QUALIFICADO, RESISTÊNCIA, DESOBEDIÊNCIA E DESACATO. DECISÃO DE PRONÚNCIA BASEADA EM ELEMENTOS COLHIDOS NA FASE INQUISITORIAL E NA FASE JUDICIAL. INDÍCIOS MÍNIMOS DE AUTORIA. REVISÃO DO ACÓRDÃO. NECESSIDADE DE DILAÇÃO PROBATÓRIA. IMPOSSIBILIDADE.
+1. A decisão de pronúncia encerra simples juízo de admissibilidade da acusação, satisfazendo-se tão somente pelo exame da ocorrência do crime e de indícios de sua autoria.
+2. No caso, a pronúncia não se baseou somente na prova obtida na fase inquisitorial, mas também nas provas produzidas judicialmente, sobretudo na prova oral, inclusive no que diz respeito aos crimes conexos.
+3. A alteração do entendimento das instâncias ordinárias, de modo a despronunciar o acusado, demandaria ampla dilação probatória, incabível na via estreita do habeas corpus.
+4. Agravo regimental improvido.
+(AgRg no HC n. 848.629/RS, Sexta Turma, de minha relatoria, DJe de 3/10/2024.)
+PENAL E PROCESSUAL PENAL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. HOMICÍDIO QUALIFICADO. LEGÍTIMA DEFESA . IMPOSSIBILIDADE. DECISÃO MANTIDA POR SEUS PRÓPRIOS FUNDAMENTOS. RECURSO NÃO PROVIDO.
+ ..
+5. A decisão de pronúncia é um juízo de admissibilidade, cabendo ao Tribunal do Júri a análise aprofundada das provas.
+6. A exclusão de qualificadoras só é possível se manifestamente improcedentes, o que não se verifica no caso.
+IV. Dispositivo e tese
+7. Agravo regimental desprovido.
+(AgRg no REsp n. 2.143.622/AL, Quinta Turma Turma, relatora Ministra Daniela Teixeira, DJe de 2/10/2024.)
+Acrescenta-se, ainda, que a revisão das premissas fáticas consideradas pelas instâncias antecedentes na formulação do juízo de admissibilidade da acusação demandaria reexame probatório incompatível com a estreita via cognitiva do habeas corpus.
+Quanto à alegada nulidade do reconhecimento pessoal levado a efeito, bem quanto ao suposto laudo genético a que faz referência a defesa, observa-se que as matérias não foram apreciadas no ato judicial impugnado, o que impede o conhecimento do pedido pelo Superior Tribunal de Justiça, sob pena de indevida supressão de instância.
+Nesse sentido:
+PROCESSO PENAL. AGRAVO REGIMENTAL NOS EMBARGOS DE DECLARAÇÃO NO HABEAS CORPUS. TRÁFICO DE DROGAS. PROVA DECLARADA NULA. NECESSIDADE DE REALIZAÇÃO DE NOVA AUDIÊNCIA DE INSTRUÇÃO DE JULGAMENTO. IMPEDIMENTO DO JUÍZO DE PRIMEIRO GRAU E DESEMBARGADORES QUE ATUARAM ORIGINARIAMENTE NO FEITO. SUPRESSÃO DE INSTÂNCIA. COMPETÊNCIA DO JUÍZO DE CONHECIMENTO. CONSTRANGIMENTO ILEGAL NÃO VERIFICADO. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. O pleito defensivo relativo à declaração de impedimento dos julgadores não foi analisado pelas instâncias ordinárias, o que obsta a análise diretamente por este Tribunal Superior, sob pena de indevida supressão de instância, sendo certo que o incidente de impedimento ou suspeição deve ser requerido junto ao Juízo que conduzirá o processo, mediante demonstração do justo impedimento, a teor do disposto no Código de Processo Penal. Precedentes.
+2. Agravo regimental não provido.
+(AgRg nos EDcl no HC n. 805.331/SP, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 19/8/2024, DJe de 23/8/2024 - grifo próprio.)
+AGRAVO REGIMENTAL EM EMBARGOS DE DECLARAÇÃO EM HABEAS CORPUS. MATÉRIAS DEDUZIDAS NO WRIT QUE NÃO FORAM APRECIADAS PELO TRIBUNAL DE ORIGEM. SUPRESSÃO DE INSTÂNCIA. PETIÇÃO INICIAL LIMINARMENTE INDEFERIDA. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. Não tendo sido abordada, pelo Tribunal de origem, a nulidade vergastada sob o ângulo pretendido na impetração, resta inviável seu conhecimento per saltum por esta Corte Superior. Supressão de instância inadmissível.
+2. Precedentes de que, até mesmo as nulidades absolutas devem ser objeto de prévio exame na origem a fim de que possam inaugurar a instância extraordinária (AgRg no HC n. 395.493/SP, Sexta Turma, rel. Min. Rogerio Schietti Cruz, DJe de 25/05/2017).
+3. Agravo regimental não provido.
+(AgRg nos EDcl no HC n. 906.517/SP, relator Ministro Otávio de Almeida Toledo - Desembargador convocado do TJSP, Sexta Turma, julgado em 20/8/2024, DJe de 23/8/2024 - grifo próprio.)
+Diante de tais considerações, portanto, não se observa a existência de nenhuma flagrante ilegalidade passível de ser sanada pela concessão da ordem, ainda que de ofício.
+Ante o exposto, não conheço do habeas corpus.
+Cientifique-se o Ministério Público Federal.
+Publique-se. Intimem-se.
+EMENTA
