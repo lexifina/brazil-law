@@ -1,0 +1,21 @@
+DECISÃO
+RICARDO LUIZ CATARINO agrava da decisão que inadmitiu seu recurso especial, interposto com base no art. 105, III, "a", da CF, contra acórdão prolatado pelo Tribunal de Justiça do Estado de São Paulo na Apelação Criminal n. 1502019-07.2023.8.26.0548.
+Consta dos autos que o agravante foi condenado a 24 anos e 6 meses de reclusão, em regime inicial fechado, e multa, pela prática dos crimes previstos nos arts. 14 da Lei n. 10.826/2003 e 159, § 2º, do Código Penal.
+A defesa aduz, em síntese, violação do princípio da identidade física do juiz, nulidade da sentença por ausência de motivação (falta de exame das teses defensivas), nulidade das provas obtidas a partir de abordagem e prisão pela Guarda Municipal, a não conversão do julgamento em diligência e a condenação com base somente na palavra da vítima.
+Apresentadas as contrarrazões, a Corte de origem não admitiu o recurso especial, em razão dos óbices previstos nas Súmulas n. 7 do STJ e 283 do STF, além do que, em relação à contrariedade à Constituição Federal, somente cabe Recurso Extraordinário, o que ensejou a interposição deste agravo.
+O Ministério Público Federal manifestou-se pelo não provimento do agravo (fls. 1.603-1.614).
+Decido.
+O agravo é tempestivo, mas não infirmou adequadamente todas as motivações lançadas na decisão de inadmissibilidade do recurso especial, razão pela qual não merece conhecimento.
+No caso, o agravante não rebateu adequadamente a incidência da Súmula n. 7 do STJ. Além das teses de nulidade do processo por violação ao princípio da identidade física do juiz e da ilicitude das provas decorrentes da atuação de guardas municipais, o recurso especial também apontou: a) cerceamento de defesa por indeferimento de provas que, segundo o advogado, poderiam refutar a versão da vítima e b) que a condenação teria se baseado essencialmente em prova oral, sem a devida consideração das versões apresentadas pelos acusados e demais elementos dos autos. Nos dois últimos pontos, são insuficientes, para rebater a Súmula n. 7 do STJ, assertivas genéricas de que a apreciação do recurso não demanda reexame de provas.
+A parte deve demonstrar no agravo em recurso especial, com particularidade, o raciocínio jurídico pelo qual alterar o entendimento adotado pelo Tribunal de origem independe da reapreciação subjetiva de fatos e provas delineados no acórdão recorrido.
+Entretanto, sobre tal óbice, assim alegou o agravante (fl. 1.512): "Com relação à aplicação da súmula nº 7, do Colendo STJ, esse óbice ao seguimento do Recurso Especial não deve prosperar, já que a Defesa deixou evidente que a pretensão posta nas razões recursais não tem a mínima intenção em adentrar no meritum causae e muito menos revolver-se em estudos aprofundados de provas, sobretudo porque é cediço que é impossível na via estreita do Recurso Especial". As razões são vagas e retóricas e não demonstram, principalmente em relação ao pedido de absolvição, o desacerto da decisão de inadmissibilidade proferida pelo Tribunal de origem.
+Nessa perspectiva:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. EXIGÊNCIA DE IMPUGNAÇÃO ESPECÍFICA. AGRAVO REGIMENTAL NÃO CONHECIDO.
+1. A teor do § 1.º do art. 1.021 do Código de Processo Civil, aplicável por força do art. 3.º do Código de Processo Penal, dispõe-se que "na petição de agravo interno, o recorrente impugnará especificadamente os fundamentos da decisão agravada".
+2. Não basta a mera afirmação em sentido oposto ao óbice, com argumentos que se contrapõem a qualquer decisão que se funde no conteúdo do Enunciado n.º 7 da Súmula do Superior Tribunal de Justiça, deve-se particularizar o fundamento de inadmissão, na medida da admissibilidade, sob pena de vê-lo mantido.
+3. Agravo regimental não conhecido.
+(AgRg no AREsp n. 1.575.387/SP, Rel. Ministra Laurita Vaz, 6ª T., DJe 21/2/2020, grifei)
+O vício das razões recursais atrai, à espécie, a Súmula n. 182 desta Corte Superior, segundo a qual "É inviável o agravo do art. 1.021, § 1º, do novo CPC que deixa de atacar especificamente todos os fundamentos da decisão agravada".
+À vista do exposto, com fundamento no art. 932, III, do CPC, c/c o art. 253, parágrafo único, I, do RISTJ, não conheço do agravo em recurso especial.
+Publique-se e intimem-se.
+EMENTA
