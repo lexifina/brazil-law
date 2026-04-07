@@ -1,0 +1,66 @@
+DECISÃO
+Trata-se de agravo interposto da decisão que inadmitiu o recurso especial no qual ISA ENERGIA BRASIL S.A. se insurgira contra o acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO assim ementado (fl. 264):
+Agravo de Instrumento. Demanda condenatória. Tutela de urgência. Insurgência contra decisão que determinou a imediata cessação dos descontos correspondentes às "GLOSAS DEFINIDAS", notadamente o teto salarial e a contribuição previdenciária, na complementação de aposentadoria ex-funcionário da CTEEP. Não cabimento. Presença dos requisitos prescritos pelo art. 300 do CPC. Precedentes. Decisão mantida. Recurso não provido.
+Nas razões de seu recurso especial, a parte recorrente requer o provimento de seu recurso.
+A parte adversa apresentou contrarrazões (fls. 359/371).
+É o relatório.
+A decisão de admissibilidade foi devidamente refutada na petição de agravo e, por isso, passo ao exame do recurso especial.
+Na origem, cuida-se de ação ordinária em que a parte autora pede a cessação dos descontos correspondentes às glosas definidas na complementação de aposentadoria.
+Nas razões de seu recurso especial, relativamente ao deferimento da tutela provisória de urgência antecipada, a parte recorrente sustenta violação do art. 300 do Código de Processo Civil (CPC), ao argumento de que inexiste periculum in mora, já que os descontos teriam sido iniciados em 7/2019 e a ação foi ajuizada somente em 11/2023, revelando lapso temporal incompatível com urgência (fls. 320/322).
+Quanto ao ponto, no acórdão recorrido, o Tribunal de origem decidiu nestes termos (fls. 265/267, destaque inovado):
+A magistrada a quo, entendendo por preenchidos os requisitos do art. 300 do CPC, deferiu o pedido, in verbis:
+ ..  Feito todo o panorama dos acontecimentos, nota-se que as decisões mais recentes foram proferidas pelo Supremo Tribunal Federal e, em ambas, o ministro relator foi claro ao determinar que a medida cautela na Pet.  7340 deve ser mantida, assegurando-se o pagamento dos beneficiários admitidos até o dia 13/05/74 da mesma forma que vinham recebendo.
+Sabe-se que o autor está representado nas ações coletivas ora citadas. Há, por conseguinte, probabilidade do direito que permita a concessão da tutela provisória.
+O perigo de demora é inequívoco, haja vista que o autor vem sofrendo descontos em seus rendimentos, nos termos da documentação de fls. 370/379.
+Desse modo, preenchidos que estão os requisitos do art. 300 do CPC, defiro o pedido de tutela de urgência para determinar às rés que cessem imediatamente os descontos na folha de pagamento do autor, correspondentes às "GLOSAS DEFINIDAS". Prazo de 15 dias.
+ ..
+Feito esse breve resumo, convém destacar que a análise para julgamento deste recurso (mérito do agravo) está adstrita à verificação da presença - ou não - dos requisitos necessários à concessão da liminar, de maneira que deve ser evitado o exame da matéria de fundo.
+Nessa linha, em que pese a irresignação da recorrente, tenho que a r. decisão agravada deve ser mantida. Explico. A probabilidade do direito, à evidência, decorre das decisões proferidas pelo STF - as quais, posteriores ao acórdão lançado nos autos da Reclamação Trabalhista (Processo TRT/SP nº 0187500-98.1996.5.02.0058), de forma expressa dispuseram quanto à imprescindibilidade de se manter o pagamento dos beneficiários admitidos até o dia 13 de maio de /974, da mesma forma que vinham percebendo. O periculum in mora, de seu turno, justifica-se pelo fato de os descontos recaírem sobre os proventos do agravado - verba de natureza alimentar, indispensável ao seu próprio sustento e de sua família.
+Portanto, demonstrada a presença dos requisitos autorizadores da concessão da tutela de urgência, a manutenção da r. decisão agravada é medida que se impõe.
+A jurisprudência desta Corte é pacífica quanto ao não cabimento de recurso especial para reexame de decisão que concede ou nega tutela provisória, por sua natureza precária, nos termos da Súmula 735 do Supremo Tribunal Federal.
+A propósito:
+PROCESSUAL CIVIL E TRIBUTÁRIO. AGRAVO INTERNO NO RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO CONTRA DECISÃO INTERLOCUTÓRIA QUE INDEFERIU A TUTELA DE URGÊNCIA. DISCUSSÃO QUE NECESSARIAMENTE ALCANÇA O DEBATE DA QUESTÃO MERITÓRIA DOS AUTOS. INCIDÊNCIA DA SÚMULA 735/STF. PROVIMENTO NEGADO.
+1. Nos termos da Súmula 735 do Supremo Tribunal Federal, "não cabe recurso extraordinário contra acórdão que defere medida liminar", orientação que se estende às decisões que apreciam pedido de antecipação de tutela, aplicando-se, por analogia, ao recurso especial.
+2. A análise realizada em liminar ou antecipatória de tutela, na mera aferição dos requisitos de perigo da demora e de relevância jurídica, ou de verossimilhança e fundado receio de dano, respectivamente, não acarreta, por si só, o esgotamento das instâncias ordinárias, requisito indispensável à inauguração da instância especial conforme a previsão constitucional.
+3. Este Tribunal Superior admite o afastamento do enunciado sumular em questão nas hipóteses em que a concessão, ou não, da medida liminar e o deferimento, ou não, da antecipação de tutela caracterizar ofensa direta à lei federal que regulamenta esses institutos, desde que se revele prescindível a interpretação das normas que dizem respeito ao mérito da causa, o que não é o caso dos autos.
+4. O presente caso trata do efetivo debate acerca da interpretação dos arts. 44 e 61, § 3º, da Lei 9.430/1996, o que evidencia a incidência do óbice da Súmula 735/STF, uma vez que, enquanto não advier sentença de mérito, não se consideram exauridas as instâncias ordinárias.
+5. Agravo interno a que se nega provimento.
+(AgInt no REsp n. 1.894.762/PE, relator Ministro Paulo Sérgio Domingues, Primeira Turma, julgado em 18/9/2023, DJe de 20/9/2023.)
+Entretanto, "é possível, em tese, a mitigação desse enunciado sumular e, por conseguinte, a admissibilidade do Recurso Especial, especificamente na hipótese em que indicada a ofensa direta à lei federal que disciplina a tutela provisória (art. 300 do CPC/2015, correspondente ao art. 273 do CPC/1973)" (Aglnt no AREsp 2.101.981/PE, Rei. Ministra Regina Helena Costa, Primeira Turma, julgado em 14/11/2022, DJe 17/11/2022).
+No presente caso, embora a parte recorrente afirme violação ao art. 300 do Código de Processo Civil, a pretensão recursal demanda revisar as premissas fáticas firmadas pelo Tribunal de origem para reconhecer a verossimilhança do direito e o perigo da demora.
+Observo que o Tribunal a quo concluiu que a análise para julgamento do recurso estava adstrita à verificação da presença ou não dos requisitos necessários à concessão da liminar e, assim, concluiu pela presença dos requisitos autorizadores da tutela de urgência previstos no art. 300 do CPC.
+Entendimento diverso do que consta do acórdão recorrido, conforme pretendido, implicaria o reexame do contexto fático-probatório dos autos, circunstância que redundaria na formação de novo juízo acerca dos fatos e das provas, e não na valoração dos critérios jurídicos concernentes à utilização da prova e à formação da convicção, o que impede o conhecimento do recurso especial quanto ao ponto.
+Incide no presente caso a Súmula 7 do Superior Tribunal de Justiça (STJ), segundo a qual "a pretensão de simples reexame de prova não enseja recurso especial".
+Nesse mesmo sentido:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. VIOLAÇÃO DO ART. 1.022 DO CPC/2015. NÃO OCORRÊNCIA. TUTELA PROVISÓRIA DE URGÊNCIA. INTERPOSIÇÃO DE RECURSO ESPECIAL. DESCABIMENTO. SÚMULA 735/STF. PENSÃO POR MORTE. ANÁLISE DOS REQUISITOS ELENCADOS NO ART. 300 DO CPC/2015. REVISÃO. IMPOSSIBILIDADE. SÚMULA 7/STJ.
+1. Tendo o recurso sido interposto contra decisão publicada na vigência do Código de Processo Civil de 2015, devem ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+2. Não há violação do art. 1022, II, do CPC/2015 quando o Tribunal de origem se manifesta de forma clara, coerente e fundamentada sobre as teses relevantes à solução do litígio.
+3. À luz do art. 105, inc. III, da Constituição Federal, o recurso especial não é a via recursal adequada à revisão de decisão precária, não definitiva, e, por isso, via de regra, não é cabível contra acórdão que defere ou nega tutela de urgência. Observância da Súmula 735 do STF.
+4. No caso dos autos, considerado o teor do acórdão recorrido, não se pode conhecer do recurso, quanto à tese de violação do art. 300 do CPC/2015, porque a questão a respeito do deferimento da tutela de urgência está, estritamente, vinculada ao exame de fatos e provas. Observância da Súmula 7 do STJ.
+5. Agravo interno não provido.
+(AgInt no AgInt no AREsp n. 2.913.540/BA, relator Ministro Benedito Gonçalves, Primeira Turma, julgado em 9/12/2025, DJEN de 12/12/2025.)
+DIREITO CIVIL E PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. USUCAPIÃO (BENS IMÓVEIS). AÇÃO DE USUCAPIÃO. TUTELA DE URGÊNCIA INDEFERIDA NA ORIGEM. REQUISITOS DO ARTIGO 300 DO CÓDIGO DE PROCESSO CIVIL NÃO PREENCHIDOS. PRETENSÃO DE MANUTENÇÃO NA POSSE DOS AUTORES. REEXAME DE FATOS E PROVAS. INVIABILIDADE. SÚMULA 7/STJ. SÚMULA 735/STF. AGRAVO EM RECURSO ESPECIAL NÃO CONHECIDO.
+I. Caso em exame
+1. Agravo em Recurso Especial interposto contra decisão que inadmitiu recurso especial, fundamentada na aplicação das Súmulas 735 do STF e 7 do STJ, em razão da natureza precária da decisão recorrida e da necessidade de reexame do conjunto fático-probatório.
+2. No recurso especial, os recorrentes alegaram violação aos arts. 1.198, 1.203 e 1.238 do Código Civil; 889, III, 10, 489, § 1º, IV e VI, e 995, parágrafo único, do Código de Processo Civil, além de apontarem divergência jurisprudencial quanto à conversão da detenção em posse e à análise dos requisitos de tutela de urgência.
+3. Os recorrentes também sustentaram a existência de omissão em relação a fundamentos relevantes, indevida inversão do ônus da prova e negativa de pedido liminar sem ponderação adequada de risco.
+4. Foi formulado pedido de atribuição de efeito suspensivo ao recurso especial, em razão de risco de desocupação compulsória e irreversibilidade do dano.
+II. Questão em discussão
+5. A questão em discussão consiste em saber se o recurso especial é cabível para reexaminar decisão que indeferiu tutela de urgência em ação de usucapião, considerando a aplicação das Súmulas 735 do STF e 7 do STJ, bem como a alegação de ofensa direta aos dispositivos legais que disciplinam a matéria da tutela provisória e a subsunção de fatos incontroversos aos dispositivos do Código Civil.
+III. Razões de decidir
+6. O Superior Tribunal de Justiça possui jurisprudência pacífica no sentido de que, em regra, não é cabível recurso especial contra decisão que concede ou indefere tutela provisória, em razão da natureza precária da decisão, sujeita à modificação a qualquer tempo, conforme aplicação analógica da Súmula 735 do STF.
+7. A revisão da conclusão do Tribunal de origem quanto ao preenchimento dos requisitos para concessão da tutela provisória demandaria o revolvimento de matéria fático-probatória, o que é vedado em sede de recurso especial, conforme a Súmula 7 do STJ.
+8. A função uniformizadora do recurso especial não permite seu uso para reexame de fatos e provas, sendo inviável a reforma da compreensão firmada pela Corte de origem sobre o tema.
+IV. Dispositivo
+9. Agravo não conhecido.
+(AREsp n. 3.051.203/RS, relatora Ministra Daniela Teixeira, Terceira Turma, julgado em 9/2/2026, DJEN de 12/2/2026.)
+PROCESSUAL CIVIL. RECURSO ESPECIAL. TUTELA ANTECIPADA. REEXAME DOS REQUISITOS. IMPOSSIBILIDADE. SÚMULAS 7 DO STJ E 735 DO STF. INCIDÊNCIA.
+1. É firme a orientação jurisprudencial do Superior Tribunal de Justiça acerca da impossibilidade de se rever em recurso especial a existência dos requisitos suficientes para a concessão de medida urgente, em razão do óbice da Súmula 7 do STJ, bem assim da Súmula 735 do STF.
+2. Esta Corte de Justiça admite a mitigação do referido enunciado, especificamente quando a própria medida importar em ofensa direta à lei federal que disciplina a tutela provisória (CPC/2015, em seu art. 300, correspondente ao art. 273 do CPC/1973).
+3. Hipótese em que a Corte de origem, nos autos de ação popular, analisou os requisitos do art. 273 do CPC/1973 com base no suporte fático-probatório constante nos autos, ressaltando a existência de danos ambientais verificados em laudo técnico para justificar a suspensão liminar de termo de ajustamento de conduta firmado em inquérito civil.
+4. A tese recursal de que, "nas hipóteses em que se discute a validade de atos administrativos, o aludido dispositivo somente pode ser utilizado quando o fundamento for a ofensa direta ao princípio da legitimidade dos atos administrativos", serve apenas como tentativa de contornar a incidência daqueles óbices sumulares, pois não denota violação direta do preceito de lei que disciplina o deferimento da medida antecipatória, muito menos diz respeito à revaloração jurídica dos critérios concernentes à utilização da prova.
+5. Agravo interno desprovido.
+(AgInt no AREsp n. 1.090.207/SP, relator Ministro Gurgel de Faria, Primeira Turma, julgado em 2/4/2019, DJe de 16/4/2019.)
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
+ EMENTA
