@@ -1,0 +1,29 @@
+DECISÃO
+Trata-se de agravo interposto da decisão que inadmitiu o recurso especial no qual Gelsi Gastão Hepp e Iara Ilê Hepp se insurgiram, com fundamento no art. 105, inciso III, alínea(s) a e c, da Constituição Federal, contra o acórdão do Tribunal de Justiça do Estado do Rio Grande do Sul assim ementado (fl. 619):
+APELAÇÃO CÍVEL. DIREITO TRIBUTÁRIO. CONTRIBUIÇÃO DE MELHORIA. MUNICÍPIO DE LAJEADO. OBSERVÂNCIA DOS REQUISITOS LEGAIS ATINENTES À ESPÉCIE. VALORIZAÇÃO INDIVIDUAL DO IMÓVEL. PRECEDENTES. EM QUE PESE A ASSINATURA DO CONTRATO PARA A REALIZAÇÃO DAS OBRAS SER ANTERIOR A PROMULGAÇÃO DA LEI, NÃO HÁ NOS AUTOS PROVA DE QUE A OBRA TENHA SE INICIADO EM MOMENTO ANTERIOR. PROVA DOS AUTOS QUE INDICA O INICIO DAS OBRAS EM MOMENTO ANTERIOR A PROMULGAÇÃO DA LEI. ÔNUS QUE INCUMBIA AO AUTOR, FULCRO AO ARTIGO 373, I, CPC. RECURSO DESPROVIDO.
+Os embargos de declaração opostos foram rejeitados (fls. 641/643).
+A parte recorrente alega violação dos arts. 81 e 82 do Código Tributário Nacional (CTN), sustentando que a contribuição de melhoria exige demonstração de valorização efetiva e individual do imóvel e que o Município de Lajeado não realizou avaliação individualizada prévia e posterior dos imóveis, limitando-se a estimativa geral de valorização por bairro, o que descaracteriza o fato gerador e viola o limite individual previsto no art. 81 do CTN (fls. 660/667).
+Afirma também ofensa ao art. 82, § 1º, do CTN, porque o lançamento teria sido feito por rateio com base na testada do imóvel, sem considerar o fator individual de valorização (fls. 663/667).
+Alega, ainda, ofensa aos incisos II e III do art. 82 do CTN, por ausência de observância dos requisitos de publicação prévia, prazo de impugnação e regulamentação do processo administrativo, destacando a inadequação do Edital 05/2015 e do Edital 02/2022 para cumprimento desses requisitos (fls. 667/669).
+Aponta divergência jurisprudencial quanto à interpretação dos arts. 81 e 82 do CTN (fl. 658).
+Não foram apresentadas contrarrazões (fl. 686).
+O recurso não foi admitido, razão pela qual foi interposto o agravo ora examinado.
+É o relatório.
+A decisão de admissibilidade foi devidamente refutada na petição de agravo e, por isso, passo ao exame do recurso especial.
+Na origem, cuida-se de ação declaratória de nulidade de lançamento de contribuição de melhoria, visando à desconstituição da cobrança por ausência de lei específica válida, edital idôneo e valorização individual do imóvel.
+Quanto às alegações referentes aos arts. 81 e 82 do CTN, por ausência de valorização individual e adoção de rateio pela testada, nos exatos termos do acórdão recorrido (fls. 616/617 e 641/642):
+- "Na hipótese, o Município atendeu à determinação legal. No Edital nº 05/2015 (evento 8, EDITAL2), há a discriminação da previsão de valorização do imóvel, e demonstração de que, após a conclusão das obras, haverá a efetiva valorização do imóvel, de acordo com o detalhamento contido no Edital 02/2022 (evento 8, EDITAL3). Ainda, como consta, na sentença, a obra foi realizada após publicação da Lei e do edital respectivos: a Lei Municipal nº 9984 foi publicada em 04/12/2015 (OUT4) e o Edital nº. 05/2015 foi publicado em 28/12/15 (EDITAL2)." (fls. 616/617)
+O Tribunal de origem reconheceu o cumprimento dos requisitos legais, inclusive quanto à demonstração de valorização e à suficiência dos elementos editalícios. Entendimento diverso, conforme pretendido, implicaria o reexame do contexto fático-probatório dos autos, circunstância que redundaria na formação de novo juízo acerca dos fatos e das provas, e não na valoração dos critérios jurídicos concernentes à utilização da prova e à formação da convicção, o que impede o conhecimento do recurso especial quanto ao ponto.
+Já quanto à ofensa ao art. 82, incisos II e III, do Código Tributário Nacional (prazo mínimo de 30 dias para impugnação e regulamentação do processo administrativo), também nos exatos termos do acórdão, a verificação dos prazos, da forma de impugnação e da regulamentação administrativa depende da análise dos editais e do procedimento efetivamente adotado, cuja regularidade foi afirmada pelo Tribunal. Entendimento diverso exigiria revisão de fatos e documentos, o que ultrapassa os limites cognitivos do recurso especial.
+Incide, em ambas impugnações, no presente caso a Súmula 7 do Superior Tribunal de Justiça (STJ), segundo a qual "a pretensão de simples reexame de prova não enseja recurso especial".
+É pacífico o entendimento desta Corte Superior de que os mesmos óbices impostos à admissão do recurso pela alínea a do permissivo constitucional impedem a análise recursal pela alínea c; em razão disso, fica prejudicada a apreciação do dissídio jurisprudencial referente ao mesmo dispositivo de lei federal apontado como violado ou à tese jurídica.
+A propósito:
+PROCESSUAL CIVIL, ADMINISTRATIVO E AMBIENTAL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO CIVIL PÚBLICA. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA. FUNDAMENTAÇÃO SUFICIENTE. ASSISTÊNCIA SIMPLES E ASTREINTES. REEXAME FÁTICO-PROBATÓRIO. ÓBICE DA SÚMULA N. 7 DO STJ. AGRAVO INTERNO DESPROVIDO.
+ ..
+3. Prejudicada a análise do dissídio jurisprudencial quando a tese já foi afastada pelo não conhecimento do recurso especial pela alínea a do inciso III do art. 105 da Constituição Federal.
+4. Agravo interno desprovido.
+(AgInt no AREsp n. 2.781.380/RS, relator Ministro Teodoro Silva Santos, Segunda Turma, julgado em 17/12/2025, DJEN de 22/12/2025, sem destaque no original.)
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Majoro em 10% (dez por cento), em desfavor da parte recorrente, o valor já arbitrado dos honorários sucumbenciais, nos termos do art. 85, § 11, do Código de Processo Civil, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º desse mesmo dispositivo, bem como os termos do art. 98, § 3º, desse diploma legal.
+Publique-se. Intimem-se.
+EMENTA
