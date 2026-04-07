@@ -1,0 +1,18 @@
+DECISÃO
+Trata-se de Habeas Corpus, com pedido de medida liminar, impetrado em favor de RAMON ARAUJO MACIEL, apontando como autoridade coatora o Tribunal de Justiça do Estado da Bahia.
+O impetrante alega, em resumo, que o paciente sofre constrangimento ilegal na execução de sua pena. Sustenta que o Juízo da Execução, ao reconhecer a prática de falta grave consistente em novo crime, determinou a regressão de regime e, de forma equivocada, fixou a data da recaptura como marco interruptivo para a contagem de novos benefícios, em vez da data do cometimento da infração. Argumenta que tal decisão viola o entendimento consolidado dos tribunais, causa prejuízo contínuo ao paciente, carece de fundamentação idônea e revela-se contraditória. Aponta, ainda, a ocorrência de cerceamento de defesa pela não realização de audiência de justificação e a demora excessiva no julgamento do Agravo em Execução interposto contra a referida decisão.
+O pedido de liminar foi indeferido (fls. 134-135).
+Foram solicitadas e devidamente prestadas as informações pelo Juízo de primeiro grau (fls. 143-148) e pelo Tribunal de Justiça do Estado da Bahia (fls. 154-158), as quais detalham o andamento do processo de execução e do recurso pendente.
+Posteriormente, a defesa juntou petição de memoriais, reforçando os argumentos da inicial e impugnando o parecer ministerial (e-STJ fls. 169-184).
+Instado a se manifestar, o Ministério Público Federal opinou pelo não conhecimento do writ e, caso superada a preliminar, pela denegação da ordem, por não vislumbrar flagrante ilegalidade (fls. 160-166).
+É o relatório.
+Decido.
+Com efeito, em consulta aos sistemas processuais, verifica-se que o Agravo em Execução Penal nº 2001271-75.2025.8.05.0080, interposto pela defesa contra a decisão impugnada neste writ, foi julgado pelo Tribunal de Justiça do Estado da Bahia.
+No julgamento, a Corte de origem deu parcial provimento ao recurso defensivo para: a) declarar a nulidade parcial da decisão agravada no ponto em que homologou a falta grave por evasão, por ausência da indispensável audiência de justificação; b) estabelecer a data do cometimento do novo crime (05/09/2022) como marco interruptivo para a contagem de prazo para futuros benefícios; e c) determinar que o Juízo de origem realize a audiência de justificação para apurar a suposta falta relativa ao descumprimento das condições do regime aberto.
+O Habeas Corpus foi ajuizado com o objetivo principal de sanar suposto constrangimento ilegal consubstanciado na decisão do Juízo da Execução que estabeleceu a data da reca ptura do paciente como novo marco para a concessão de benefícios, bem como na ausência de audiência de justificação e na demora no julgamento do recurso cabível.
+Conforme se depreende do novo cenário processual, o julgamento do Agravo em Execução Penal nº 2001271-75.2025.8.05.0080 pelo Tribunal de Justiça da Bahia acolheu a pretensão central da defesa, modificando a decisão que configurava o ato coator.
+Ao determinar a retroação da data-base para a data do cometimento da falta grave e anular a decisão no tocante à falta por evasão, determinando a realização de audiência de justificação, o Tribunal de origem satisfez o objeto deste writ, fazendo cessar a coação ilegal que se buscava afastar.
+Dessa forma, com o atendimento da pretensão na via recursal ordinária, o presente Habeas Corpus perdeu supervenientemente seu objeto. A tutela jurisdicional que aqui se pleiteava foi alcançada na instância apropriada, tornando inútil o prosseguimento deste feito.
+Diante do exposto, julgo prejudicado o presente habeas corpus.
+Publique-se. Intimem-se.
+ EMENTA
