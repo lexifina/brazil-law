@@ -1,0 +1,26 @@
+DECISÃO
+Trata-se de habeas corpus preventivo com pedido de liminar impetrado em favor de RAYKA WILSON DA SILVA DE AZEVEDO em que se aponta como autoridade coatora o TRIBUNAL REGIONAL FEDERAL DA 2ª REGIÃO.
+Consta dos autos que a 1ª Vara Criminal Federal de Vitória denegou a ordem de habeas corpus preventivo que buscava a expedição de salvo-conduto para que o paciente importasse sementes, mudas, plantas e insumos necessários para o cultivo de Cannabis sativa, com intuitos terapêuticos.
+A defesa interpôs recurso em sentido estrito, que foi improvido pela Corte regional.
+No presente writ, a impetrante sustenta que o paciente realiza tratamento com derivados de Cannabis sativa, por prescrição e acompanhamento médico contínuo, para dores crônicas, transtorno de ansiedade e distúrbios do sono, com melhora clínica documentada.
+Defende que a impetração está instruída com documentos de prescrição e relatório médico, autorização sanitária da ANVISA, laudo agronômico e certificação técnica, aptos a justificar salvo-conduto preventivo.
+Entende que o direito à saúde e a dignidade da pessoa humana, previstos nos arts. 1º, III, 6º e 196 da Constituição Federal, asseguram proteção contra criminalização de conduta estritamente terapêutica e que, ausente lesão ao bem jurídico tutelado pela Lei de Drogas, devem incidir os princípios da ofensividade, da proporcionalidade e da intervenção mínima, afastando persecução penal.
+Aduz que há plausibilidade jurídica e risco iminente de apreensão e interrupção do tratamento, justificando tutela liminar para impedir atos de prisão, busca e apreensão, indiciamento, denúncia e persecução penal até o julgamento de mérito.
+Requer, liminarmente e no mérito, a expedição de salvo-conduto preventivo para resguardar a liberdade do paciente e a continuidade do tratamento, com parâmetros técnicos e sanitários definidos.
+É o relatório.
+O Superior Tribunal de Justiça entende ser inviável a utilização do habeas corpus como sucedâneo de recurso próprio, previsto na legislação, impondo-se o não conhecimento da impetração. Nesse sentido: AgRg no HC n. 933.316/MG, relator Ministro Messod Azulay Neto, Quinta Turma, julgado em 20/8/2024, DJe de 27/8/2024 e AgRg no HC n. 749.702/SP, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 26/2/2024, DJe de 29/2/2024.
+Portanto, não se conhece da impetração.
+Em atenção ao disposto no art. 647-A do CPP, verifico que o julgado impugnado não possui ilegalidade flagrante que permita a concessão da ordem de ofício, conforme se depreende da fundamentação a ser exposta a seguir.
+Inicialmente, acerca do laudo e receituário médicos, assim consignou o Tribunal de origem (fl. 20, grifei):
+Além disso, o médico subscritor dos laudos do evento 1, OUT3, páginas 7 e 8, Dr. Adolfo Almeida (CRJV1 5298545-7), conforme destacou o órgão ministerial, foi preso na Operação Seeds, suspeito de emitir laudo ideologicamente falso, justamente para subsidiar HCs preventivos, como o presente.
+O Ministério Público Federal também pontou que no julgamento do HC 898.175/RJ, o STJ manteve acórdão dessa Corte que denegou ordem semelhante à presente, justamente por terem sido apresentados laudos assinados pelo Dr. Adolfo Almeida, conforme trecho que se transcreve:
+(..)
+Ocorre que investigação recente (Operação Seeds) descortinou a existência de grupo criminoso aluando no Rio de Janeiro que oferecia a interessados no consumo recreativo da droga o "serviço" de liberação por meio da emissão de laudo e parecer médico ideologicamente falso, com ajuizamento de ações na Justiça visando justamente obter salvo-conduto para cultivo de cannabis.
+Em outras palavras, uma associação criminosa especializada em atender essa pretensão em todas as suas fases, identificando-se um advogado, um biólogo e um médico que cuidariam de todos processo, desde a confecção dos laudos ao ajuizamento da ação constitucional para obtenção de salvo- conduto.
+No presente caso, há vários laudos assinados pelo médico Adolfo Antônio Pires da Rosa de Almeida, CRM 5298545-7, que foi preso no âmbito da operação "Seeds" (eventos 1.5, 1.6, 1.8, 1.9 e 1.10), o que torna indiscutível a necessidade de análise mais detida da efetiva condição de saúde do Recorrente.
+Verifica-se, portanto, que a Corte de origem consignou que o médico subscritor dos laudos apresentados, Dr. Adolfo Almeida, foi preso no âmbito da Operação "Seeds", sob suspeita de emissão de documentos ideologicamente falsos destinados a instruir h abeas corpus preventivos, razão pela qual os referidos laudo e receituário não se prestam a amparar a pretensão deduzida.
+Outrossim, mostra-se inviável, na via estreita do habeas corpus, a aferição da idoneidade de tais documentos, por demandar dilação probatória, providência incompatível com a natureza célere e sumária desse instrumento processual.
+Ademais, o certificado acostado à fl. 43 ostenta caráter genérico, desprovido da indicação do conteúdo programático do curso realizado, não sendo suficiente, de plano, para comprovar que o paciente detém a capacitação técnica necessária ao cultivo e à extração do óleo de cannabis para fins medicinais.
+Ante o exposto, com fundamento no art. 210 do Regimento Interno do Superior Tribunal de Justiça, não conheço do habeas corpus.
+Publique-se. Intimem-se.
+ EMENTA
