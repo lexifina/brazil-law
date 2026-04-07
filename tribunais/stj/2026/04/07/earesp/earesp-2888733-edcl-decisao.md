@@ -1,0 +1,13 @@
+DECISÃO
+Trata-se de embargos de declaração (fls. 1.147-1.150) opostos à decisão desta relatoria que indeferiu liminarmente os embargos de divergência em agravo em recurso especial (fls. 1.142-1.144).
+A parte embargante alega que a decisão necessita de esclarecimentos pois, "conforme amplamente exposto nos embargos de divergência, embora o acórdão paradigma indicado tenha sido proferido em 2019, foi colacionada decisão monocrática de 2024, proferida por este próprio Ministro Relator, que confirma que o entendimento firmado no paradigma permanece atual, vigente e alinhado à orientação do STJ.  ..  Ocorre que tal decisão contemporânea, destacada de forma expressa no recurso, não foi objeto de qualquer análise no decisum ora embargado. Assim, concluiu-se pelo não atendimento de requisito previsto no art. 266 do RISTJ sem que houvesse sido examinada a prova inequívoca de que o dissenso jurisprudencial é efetivamente atual, tal como exige o referido dispositivo regimental" (fls. 965-966).
+Não foi apresentada impugnação, conforme a certidão de fl. 1.155.
+É o relatório.
+Decido.
+Os embargos de declaração são cabíveis quando existir, na sentença ou no acórdão, obscuridade, contradição, omissão ou erro material, consoante dispõe o art. 1.022 do CPC/2015, erros não observadas nos autos.
+Ademais, os embargos declaratórios, em regra, não permitem rejulgamento da causa, como pretende a parte ora embargante, sendo certo que o efeito modificativo pleiteado é possível apenas em hipóteses excepcionais, uma vez comprovada a existência dos mencionados vícios no julgado, o que não se evidencia no caso em exame.
+Como aludido, não se permitiu o estabelecimento de divergência com o AgInt no AREsp n. 703.635/RJ (QUARTA TURMA, Relator Ministro RAUL ARAÚJO, julgado em 2/4/2019) em razão da ausência de atualidade do p aradigma apresentado para confronto. A citação de decisão monocrática desta relatoria foi apresentada pela parte ora embargante apenas "a fim de reforçar o entendimento de que a constrição do bem dado em garantia  .. , somente pode ocorrer de forma validade mediante sua inclusão como parte na ação de execução" (fl. 1.107). Ademais, a título de argumentação, não prosperam os embargos de divergência interpostos tendo como paradigma decisão monocrática. A hipótese de cabimento do recurso prevê a divergência entre acórdãos, segundo o art. 1.043, I, e § 4º, do CPC/2015.
+Assim, não se constata nenhum dos casos de cabimento dos embargos declaratórios. A embargante pretende tão somente o rejulgamento do recurso e a reforma da decisão ora embargada, que enfrentou o cabimentos dos embargos de divergência à luz dos precedentes indicados na peça recursal.
+Em face do exposto, REJEITO os embargos de declaração.
+Publique-se e intimem-se.
+EMENTA
