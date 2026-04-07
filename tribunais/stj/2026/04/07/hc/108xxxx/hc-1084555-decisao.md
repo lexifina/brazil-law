@@ -1,0 +1,26 @@
+DECISÃO
+Trata-se de habeas corpus substitutivo de recurso próprio, com pedido de liminar, impetrado em benefício de GUSTAVO MARQUES FORTINI em que se aponta como autoridade coatora o Tribunal de Justiça do Estado de Minas Gerais.
+Segundo se infere dos autos, o paciente foi condenado como incurso no art. 33, §4º, da Lei nº 11.343/06 e no art. 329 do Código Penal, às penas de 04 (quatro) anos e 02 (dois) meses de reclusão, em regime inicial semiaberto, 02 (dois) meses de detenção, em regime inicial aberto, e 417 (quatrocentos e dezessete) dias-multa.
+Em grau recursal, o Tribunal de origem deu parcial provimento ao apelo defensivo para reduzir a pena pelo delito de tráfico de droga para 2 anos e 6 meses de reclusão, em regime aberto, mais 250 dias-multa, sendo ainda determinado o encaminhamento do feito ao Parquet para se manifestar quanto a possibilidade de propor ao acusado o acordo de não persecução penal (ANPP), nos termos do art. 28-A do CPP. Na sequência, o Procurador de Justiça negou o oferecimento do acordo.
+Irresignada, a defesa suscitou perante a Corte local a nulidade pela recusa ministerial do ANPP e a superveniente falta de justa causa; o Relator, entretanto, "convalidou a recusa ministerial, afirmando não vislumbrar "manifesta ilegalidade"" (fls. 4), mantendo o prosseguimento do feito e a execução da pena.
+Neste writ, a impetrante alega: (i) flagrante ilegalidade na recusa do Ministério Público em ofertar o ANPP, em violação ao art. 28-A do CPP e à orientação desta Corte sobre a discricionariedade regrada; (ii) necessidade de controle judicial da recusa, por ausência de fundamentação idônea; (iii) inexistência de vedação legal ao ANPP em razão do crime autônomo de resistência, pois o tráfico imputado foi sem violência; (iv) inidoneidade da fundamentação na gravidade abstrata e na quantidade de droga, contrariando a tese firmada no REsp 2.038.947/SP; (v) inexistência de preclusão, à luz do HC 185.913/DF, do Supremo Tribunal Federal, considerando a nova situação jurídica após a redução da pena (fls. 4-7).
+Requer a concessão da ordem para: (a) reconhecer e declarar a nulidade da decisão do Relator do TJMG que convalidou a recusa do Ministério Público ao ANPP; e (b) reconhecer a nulidade absoluta do feito, com extinção em razão da superveniente falta de justa causa para a ação penal (fls. 9).
+É o relatório.
+Decido.
+Na verdade, a defesa se insurge neste feito contra ato do Procurador-Geral de Justiça do Estado de Minas Gerais, que negou-lhe o oferecimento da ANPP, em suposta decisão desmotivada. Isso porque, a decisão do Desembargador Relator originário apontada como atacada não tem conteúdo decisório ("inexistindo providência jurisdicional a ser adotada"). Conforme por ele destacado, "eventual irresignação deverá ser deduzida pela via própria" (e-STJ, fl. 62)
+Logo, não compete a este Superior Tribunal de Justiça julgar, originariamente, o habeas corpus impetrado contra ato do Procurador-Geral de Justiça Estadual, conforme preceitua o art. 105, inciso I, alíneas a e c, da Constituição Federal:
+"Art. 105. Compete ao Superior Tribunal de Justiça:
+I - processar e julgar, originariamente:
+a) nos crimes comuns, os Governadores dos Estados e do Distrito Federal, e, nestes e nos de responsabilidade, os desembargadores dos Tribunais de Justiça dos Estados e do Distrito Federal, os membros dos Tribunais de Contas dos Estados e do Distrito Federal, os dos Tribunais Regionais Federais, dos Tribunais Regionais Eleitorais e do Trabalho, os membros dos Conselhos ou Tribunais de Contas dos Municípios e os do Ministério Público da União que oficiem perante tribunais;
+ ..
+c) os habeas corpus, quando o coator ou paciente for qualquer das pessoas mencionadas na alínea "a", ou quando o coator for tribunal sujeito à sua jurisdição, Ministro de Estado ou Comandante da Marinha, do Exército ou da Aeronáutica, ressalvada a competência da Justiça Eleitoral.
+A seguir, o julgado que respalda esse entendimento:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. PARCELAMENTO IRREGULAR DO SOLO URBANO. PLEITO DE RESTABELECIMENTO DAS CONDIÇÕES DA SUSPENSÃO CONDICIONAL DO PROCESSO. INCOMPETÊNCIA DO SUPERIOR TRIBUNAL DE JUSTIÇA. ATO COATOR SUPOSTAMENTE PRATICADO PELA PROCURADORA-GERAL DE JUSTIÇA DO MPDFT, POR FORÇA DO ART. 28 DO CPP. AUTOS QUE TRAMITAM EM PRIMEIRO GRAU DE JURISDIÇÃO. NECESSIDADE DE MANIFESTAÇÃO DA CORTE LOCAL A RESPEITO DAS CONDIÇÕES E REQUISITOS DO SURSIS PROCESSUAL EVENTUALMENTE NÃO OBSERVADOS. AGRAVO IMPROVIDO.
+1. A competência para o julgamento de habeas corpus impetrado contra ato coator de Procurador-Geral de Justiça, não se encontra prevista no rol taxativo do art. 105 da Constituição Federal, nem no art. 11 do Regimento Interno desta Corte, com bem ressaltou o Ministério Público Federal em seu parecer (HC n. 57.506/PA, Rel. Ministro OG FERNANDES, Sexta Turma, julgado em 15/12/2009, DJe de 22/2/2010).
+ ..
+5. Agravo regimental improvido, remetendo-se os autos para o Tribunal de Justiça do Distrito Federal e Territórios.
+(AgRg no HC n. 550.851/DF, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 4/2/2020, DJe de 10/2/2020.)
+Ante o exposto, não conheço do habeas corpus.
+Cientifique-se o Ministério Público Federal.
+Publique-se. Intimem-se.
+EMENTA
