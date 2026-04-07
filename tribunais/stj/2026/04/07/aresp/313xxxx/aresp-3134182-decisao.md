@@ -1,0 +1,27 @@
+DECISÃO
+SOLANGE APARECIDA DE CARVALHO GOMES interpõe recurso especial, com fundamento no art. 105, III, "a", da Constituição Federal, contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAIS (Embargos Infringentes e de Nulidade n. 1.0000.24.279851-0/002).
+Consta dos autos que a ré foi condenada, pela prática do delito de tráfico de drogas, à pena de 3 anos e 8 meses de reclusão, em regime inicial semiaberto, mais multa.
+Nas razões do recurso especial, a defesa aponta a violação dos arts. 1º, 59 e 68 do CP, pois considera que a circunstância judicial da culpabilidade, valorada negativamente, não se deu com fundamentação idônea.
+Sustenta o desrespeito ao art. 33, § 4º, da Lei n. 11.343/2006, sob a tese de que a recorrente preenche os requisitos para a concessão da minorante. Assevera que a condenação usada a título de antecedentes, teve trânsito em julgado posterior à ação penal em debate e, portanto, não se presta a afastar o benefício.
+O recurso especial foi inadmitido durante o juízo prévio de admissibilidade realizado pelo Tribunal de origem, com base na Súmula n. 7 do STJ.
+O Ministério Público Federal manifestou-se pelo não provimento do agravo (fls. 1.004-1.007).
+Decido.
+O agravo é tempestivo e infirmou os fundamentos da decisão agravada, motivos pelos quais passo à análise do recurso especial.
+I. Violação do art. 33, § 4º, da Lei n. 11.343/2006
+Quanto ao pleito de aplicação da minorante pelo tráfico privilegiado, o especial não suplanta o juízo de prelibação, haja vista a incidência da Súmula n. 283 do STF.
+O Tribunal de origem, ao julgar o recurso de apelação, negou o benefício à recorrente, amparado nos seguintes fundamentos (fl. 832, destaquei):
+ ..  Em relação à minorante prevista no art. 33, § 4º, da Lei 11.343/06, saliento que, conquanto não tenham sido reconhecidos na sentença, a apelante possui maus antecedentes pelo mesmo delito (f. 88/94 e consulta ao SEEU e ao SIAP), o que, aliados à significativa quantidade de drogas apreendidas e às demais circunstâncias que envolveram o fato, isto é, a arrecadação de balança de precisão e caderno com anotações referentes ao tráfico, obsta à concessão do privilégio, porquanto evidencia que ela possuía certo grau de envolvimento com organização criminosa voltada para a prática do tráfico de drogas ou, pelo menos, que se dedicava a essa atividade criminosa.
+Ao julgar os embargos infringentes, a Corte estadual acrescentou (fls. 903-904):
+Ademais, nos termos dos votos majoritários proferidos, observa- se da CAC acostada ao feito e das certidões constantes do SEEU, que Solange é portadora de maus antecedentes, possuindo condenação anterior definitiva (com trânsito em julgado posterior aos presentes fatos), também pelo crime de tráfico de drogas. E neste ponto, acerca da possibilidade da extração de informações do sítio ou sistemas eletrônicos de Tribunal como evidência a comprovar a existência de maus antecedentes e/ou reincidência, é a jurisprudência do Colendo STJ:
+ ..
+Em assim sendo, aderindo ao entendimento dos votos majoritários, tenho que os comprovados maus antecedentes da recorrente evidenciam o seu envolvimento anterior com o comércio espúrio e sua permanência em práticas ilícitas, sendo, portanto, aptos a afastar ao reconhecimento da minorante, benesse destinada apenas ao criminoso eventual.
+Verifico, portanto, que, na espécie, incide o óbice da Súmula n. 283 do STF, uma vez que a parte deixou de atacar fundamentos autônomos e suficientes para manter o julgado, quais sejam: a) a apreensão de petrechos, balança de precisão e anotações relacionadas ao tráfico; b) a condenação anterior que configurou maus antecedentes pelo mesmo delito, elementos que analisados em conjunto levariam à conclusão da dedicação da ré ao comércio ilícito de entorpecentes.
+Nesse sentido: "A subsistência de fundamento inatacado apto a manter a conclusão do aresto impugnado impõe o não-conhecimento da pretensão recursal, a teor do entendimento disposto na Súmula n. 283 do STF: "É inadmissível o recurso extraordinário quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles"(AgInt nos EDcl no AREsp n. 1.317.285/MG, relator Ministro Luis Felipe Salomão, Quarta Turma, DJe de 19/12/2018).
+II. Violação dos arts. 1º, 59 e 68 do CP
+No que concerne à controvérsia relativa à fixação da pena-base, com a valoração negativa da culpabilidade, a compreensão dessa Corte Superior é a de que:
+ A  individualização da pena é uma atividade em que o julgador está vinculado a parâmetros abstratamente cominados pela lei, sendo-lhe permitido, entretanto, atuar discricionariamente na escolha da sanção penal aplicável ao caso concreto, após o exame percuciente dos elementos do delito, e em decisão motivada. Dessarte, ressalvadas as hipóteses de manifesta ilegalidade ou arbitrariedade, é inadmissível às Cortes Superiores a revisão dos critérios adotados na dosimetria da pena" (AgRg no HC n. 917.992/GO, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 26/8/2024, DJe de 30/8/2024, grifei).
+Portanto, forçoso concluir que o Tribunal de origem decidiu em consonância com a jurisprudência pacífica desta Corte, o que inviabiliza a admissibilidade da pretensão, consoante o óbice previsto na Súmula n. 83 do STJ.
+III. Dispositivo
+À vista do exposto, conheço do agravo, para não conhecer do recurso especial.
+Publique-se e intimem-se.
+EMENTA
