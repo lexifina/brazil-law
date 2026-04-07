@@ -1,0 +1,14 @@
+DECISÃO
+O JUÍZO FEDERAL DA 12ª VARA CRIMINAL DO DISTRITO FEDERAL - SJ/DF suscita conflito de competência, em inquérito policial, diante do JUÍZO FEDERAL DA 2ª VARA DE NITERÓI - SJ/RJ.
+A controvérsia estabelecida neste incidente processual cinge-se a saber qual o juízo competente para a prática de atos jurisdicionais em investigação deflagrada para apurar a suposta prática dos crimes de divulgação de segredo, volação do sigilo funcional e corrupção passiva.
+Ouvido, manifestou-se o Ministério Público Federal pelo conhecimento do conflito para que seja declarado competente o Juízo Federal da 2ª Vara de Niterói - SJ/RJ, ora suscitado (fls. 15-19).
+Decido.
+Depreende-se dos autos que foi instaurado inquérito policial para apurar a suposta prática dos crimes de divulgação de segredo, volação do sigilo funcional e corrupção passiva, a partir de abrodagem realizada pela Polícia Rodoviária Federal em Duque de Caxias - RJ.
+Em razão da utillização de credenciais de Policial Rodoviário Federal lotado em Brasília, com a finalidade de acessar indevidamente o sistema "Aletra Brasil", foi de declinada a competência para o Juízo Federal de Brasília.
+Contudo, como destacou o Ministério Público Federal, em consonância com a decisão do Juízo suscitante, toda a investigação foi deflagrada e concentra a maior parte dos suspeitos no Rio de Janeiro.
+Assim, "é de se considerar que, embora diligências tenham apontado a utilização de credenciais de policial rodoviário federal lotado em Brasília (DF) visando a realização das consultas ilícitas ao sistema "Alerta Brasil", os elementos informativos  ..  não apontam para a participação de policial rodoviário federal, mas indica a atuação de envolvidos em esquema estruturado de uso e repasse de informações sigilosas obtidas em sistema restrito, a partir do Rio de Janeiro, no qual a estrutura operacional da fraude estaria sediada" (fl. 18).
+Diante da incerteza sobre o lugar da consumação ou da prática do último ato de execução, há que se observar a regra de prevenção (art. 83 do CPP), sobretudo porque grande parte da investigação - senão toda - foi realizada no Rio de Janeiro, local, portanto, com maior facilidade na coleta de elementos de informação.
+De fato, " e m situações excepcionais, a jurisprudência desta Corte tem admitido a fixação da competência para o julgamento do delito no local onde tiveram início os atos executórios, em nome da facilidade para a coleta de provas e para a instrução do processo, tendo em conta os princípios que atendem à finalidade maior do processo que é a busca da verdade real" (CC 151.836/GO, Rel. Min. Reynaldo Soares da Fonseca, DJe 26/6/2017).
+Ante o exposto, conheço do conflito para declarar competente o Juízo Federal da 2ª Vara de Niterói - SJ/RJ, ora suscitado.
+Publique-se. Dê-se ciência aos Juízos suscitante e suscitado.
+EMENTA
