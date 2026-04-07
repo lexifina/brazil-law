@@ -1,0 +1,16 @@
+DECISÃO
+Trata-se de agravo interno interposto por ELSA MAXIMINA DUTRA contra decisão de minha lavra, proferida às e-STJ fls. 380/385, em que conheci do agravo para não conhecer do recurso especial em virtude da impossibilidade de análise de matéria essencialmente constitucional.
+Acolhidos os aclaratórios para correção de erro material (e-STJ fls. 413/414).
+Aduz a parte agravante que a matéria veiculada em seu apelo nobre obstado seria infralegal. Invoca, ainda, o Tema 1.339 do STF, bem como pugna pela aplicação dos arts. 1.031 e 1.032 do CPC ao seu recurso.
+Requer, assim, a reconsideração ou a reforma da decisão atacada ou remessa dos autos ao STF para processamento do recurso extraordinário.
+Petição às e-STJ fls. 418/423, em que se pleiteia o sobrestamento do feito em virtude de matéria repetitiva.
+Passo a decidir.
+A Primeira Seção, por meio dos REsps 2.224.900/RO e 2.215.720/RO, rel. Ministro TEODORO SILVA SANTOS, submeteu a seguinte controvérsia à sistemática dos recursos repetitivos: "Definir se é devido o pagamento retroativo das diferenças remuneratórias decorrentes do reenquadramento ao servidor do extinto território de Rondônia que optou pela transposição ao quadro em extinção da Administração Federal, e qual o seu respectivo termo inicial" (Tema 1.411 do STJ).
+Encontrando-se o tema afetado à sistemática dos recursos repetitivos, esta Corte Superior orienta que os recursos que tratam da mesma controvérsia devem aguardar o julgamento do paradigma representativo no Tribunal de origem, viabilizando, assim, o juízo de conformação, hoje disciplinado pelo art. 1.040 do CPC/2015.
+A esse respeito, confiram-se os seguintes precedentes: EDcl no REsp 1.456.224/MS, rel. Ministro Humberto Martins, Segunda Turma, DJe 5/2/2016; AgRg no AgRg no AREsp 552.103/RS, rel. Min. Herman Benjamin, Segunda Turma, DJe 28/11/2014; AgRg no AREsp 153.829/PI, rel. Ministro Mauro Campbell Marques, Segunda Turma, DJe 23/5/2012.
+Nesse mesmo sentido, estas decisões monocráticas: REsp 1.588.019/GO, rel. Min. Regina Helena Costa, DJe 17/3/2016; REsp 1.502.464/RS, AREsp 848.627/PB, REsp 1.574.944/PB e AREsp 779.676/PB, todos da relatoria do em. Ministro Benedito Gonçalves, DJe 2/12/2015, 8/3/2016, 04/03/2016 e 3/2/2016, respectivamente.
+Somente depois de realizada essa providência, que representa o exaurimento da instância ordinária, é que o recurso especial deverá ser encaminhado para esta Corte Superior analisar as questões jurídicas nele suscitadas que não ficaram prejudicadas pelo novo pronunciamento do Tribunal a quo.
+Registre-se que essa medida visa evitar, também, o desmembramento do apelo especial e, em consequência, eventual ofensa ao princípio da unirrecorribilidade ou da unicidade recursal.
+Ante o exposto, RECONSIDERO a decisão de e-STJ fls. 380/385 e DETERMINO A DEVOLUÇÃO DOS AUTOS AO TRIBUNAL DE ORIGEM, com a respectiva baixa, para que, após a publicação do acórdão a ser proferido no recurso representativo da controvérsia e em observância ao art. 1.040 do CPC: a) negue seguimento ao recurso, se a decisão recorrida coincidir com a orientação emanada pelo Tribunal Superior; ou b) proceda ao juízo de retratação, na hipótese de o acórdão vergastado divergir da decisão sobre o tema repetitivo.
+Publique-se. Intimem-se.
+EMENTA
