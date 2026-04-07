@@ -1,0 +1,15 @@
+DECISÃO
+Trata-se de habeas corpus, impetrado em nome de DANIELE MATTOS DOS SANTOS - condenada por falsa identidade a 3 meses de detenção (fls. 53/61 - Ação Penal n. 5000256-54.2023.8.24.0082, da 2ª Vara Criminal da comarca de Florianópolis/SC) -, apontando como ato coator o acórdão de apelação criminal proferido pelo Tribunal de Justiça de Santa Catarina, que negou provimento ao recurso defensivo (fls. 10/16 ).
+A impetração busca substituir a pena privativa de liberdade por restritiva de direitos, sustentando:
+a) contradição da sentença ao negar a substituição por "circunstâncias judiciais desfavoráveis", embora tenha fixado a pena-base no mínimo legal, com vetores do art. 59 favoráveis (fl. 60); e
+b) insuficiência da fundamentação do acórdão ao afastar o art. 44, § 3º, do Código Penal por mera referência à reincidência genérica, sem indicar elemento concreto de não recomendabilidade social (fls. 5/6).
+É o relatório.
+O writ comporta acolhimento, pois, embora se trate de medida objetivando revisar, novamente, a condenação imposta e mantida pelas instâncias ordinárias, o que é inadmissível, do atento exame dos autos, observo a ocorrência de flagrante constrangimento ilegal, pois, na sentença, fixou-se a pena-base no mínimo legal, com todas as circunstâncias judiciais favoráveis, mas negou-se a substituição sob o argumento genérico de circunstâncias judiciais desfavoráveis (fls. 59/60); em grau recursal, o acórdão manteve o indeferimento afirmando que a exceção do art. 44, § 3º, do Código Penal não se mostra socialmente recomendável, tendo em vista que o cumprimento de medidas restritivas não se mostrará suficiente à prevenção de novos delitos - já que a apelante é reincidente (fl. 14), em desacordo com o entendimento desta Corte Superior, para o qual configura constrangimento ilegal se as instâncias ordinárias deixam de explicitar, de maneira concreta, as razões pelas quais a reincidência genérica do paciente tornaria socialmente inadequada a substituição da pena.
+Nesse sentido: HC n. 886.940/DF, Ministra Daniela Teixeira, Quinta Turma, DJEN de 11/4/2025.
+Assim, considerando tratar-se de crime sem violência ou grave ameaça à pessoa, a reprimenda fixada em 3 meses de detenção (fl. 60) e a incidência do art. 44, § 3º, do Código Penal, a pena privativa de liberdade deve ser substituída por uma pena restritiva de direitos, a ser fixada e fiscalizada pelo juízo da execução penal.
+Em razão disso, concedo liminarmente a ordem impetrada à paciente Daniele Mattos dos Santos para substituir a pena privativa de liberdade de 3 meses de detenção por uma pena restritiva de direitos, a ser definida e implementada pelo juízo da execução penal competente, referente à condenação proferida na Ação Penal n. 5000256-54.2023.8.24.0082, da 2ª Vara Criminal da comarca de Florianópolis/SC.
+Intime-se o Ministério Público estadual.
+Publique-se.
+EMENTA
+PENAL. HABEAS CORPUS. FALSA IDENTIDADE. DOSIMETRIA. SUBSTITUIÇÃO DA PENA PRIVATIVA DE LIBERDADE POR RESTRITIVA DE DIREITOS. ART. 44, § 3º, DO CP. FUNDAMENTAÇÃO GENÉRICA NA REINCIDÊNCIA. INADEQUAÇÃO. CONSTRANGIMENTO ILEGAL EVIDENCIADO.
+Ordem liminarmente concedida nos termos do dispositivo.
