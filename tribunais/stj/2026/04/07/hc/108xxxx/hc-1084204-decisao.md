@@ -1,0 +1,16 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em nome de KAROLLAYNE SIMAO, condenada pelos crimes de tráfico de drogas e porte ilegal de arma de fogo com numeração suprimida, em que se aponta como autoridade coatora o Tribunal de Justiça do Estado de Santa Catarina (Revisão Criminal n. 5061936-24.2025.8.24.0000).
+Alega nulidade da busca pessoal por ausência de fundada suspeita, pois baseada em "atitude suspeita" genérica, sem elementos objetivos e verificáveis.
+Sustenta nulidade do ingresso domiciliar sem mandado, sem fundadas razões contemporâneas que autorizassem a relativização da inviolabilidade do domicílio.
+Requer, inclusive liminarmente, a concessão da ordem para reconhecer as nulidades, declarar ilícitas as provas e afastar as condenações dos arts. 33 da Lei n. 11.343/2006 e 16 da Lei n. 10.826/2003, com absolvição por ausência de prova lícita suficiente ou, subsidiariamente, anulação do julgado nesses pontos.
+É o relatório.
+O Tribunal a quo entendeu que a prisão em flagrante ocorrida em 2019 foi válida. Quanto à busca pessoal, conforme depoimento policial em juízo (fl. 10):
+ ..  estavam em patrulhamento noturno de rotina, durante o encerramento das atividades nos postos da marginal da BR 101. Nesse dia, visualizaram o veículo parado no centro do pátio do Posto Dubai que, com a aproximação da guarnição policial, se movimentou e parou próximo à conveniência do posto. O masculino desceu do veículo e foi até a conveniência. O deslocamento gerou suspeita na guarnição, que optou pela abordagem. Após a abordagem, o condutor foi questionado se havia algum objeto ilícito em sua posse ou no interior do veículo. De pronto, ele já informou que havia uma arma de fogo que estava dentro da bolsa da feminina. No momento em que o depoente olhou para o veículo, a feminina estava abaixada, mexendo na bolsa e foi verbalizado que ela saísse do veículo com a mão na cabeça, porém ela demorou ainda entre cinco a dez segundos até parar o movimento e sair do veículo.
+A abordagem fundamenta-se na convergência de fatores: a) movimento evasivo do veículo perante a viatura; b) admissão voluntária do condutor quanto à existência de arma de fogo; e c) comportamento furtivo da passageira, que ignorou ordens policiais enquanto manipulava o objeto onde supostamente estaria o armamento. Tais elementos retiram a abordagem do campo da "intuição" e a inserem no campo do dever de agir policial .
+De outra parte, o Tribunal de Justiça afirmou a licitude do ingresso domiciliar sem mandado, com base em informações do patrulhamento tático sobre depósito de drogas na residência, seguidas da apreensão de 7,8 kg de maconha e documentos que vinculam a paciente ao imóvel (fls. 11/12), após a prisão em flagrante anterior.
+Com efeito, inexiste nulidade no ingresso domiciliar quando as fundadas razões são lastreadas em informações prévias de inteligência policial que apontam o imóvel como depósito de ilícitos, somadas à prisão em flagrante anterior pela posse de arma de fogo, decorrente de busca pessoal válida.
+Ante o exposto, indefiro liminarmente a petição inicial.
+Publique-se.
+EMENTA
+HABEAS CORPUS. DIREITO PENAL E PROCESSUAL PENAL. TRÁFICO DE DROGAS E PORTE ILEGAL DE ARMA DE FOGO. PRISÃO EM FLAGRANTE. BUSCA PESSOAL. FUNDADA SUSPEITA. INGRESSO DOMICILIAR. FUNDADAS RAZÕES.
+Petição inicial indeferida liminarmente.
