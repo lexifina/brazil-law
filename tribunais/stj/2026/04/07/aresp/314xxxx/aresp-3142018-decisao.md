@@ -1,0 +1,18 @@
+DECISÃO
+A controvérsia posta nos autos diz respeito à prescrição das obrigações de pagar quantia certa pela fazenda pública, quando há determinação, no mesmo título executivo judicial, de implantar parcelas vincendas em folha de pagamento, relativa ao Tema n. 1.311 do STJ, cujo julgamento ocorreu, recentemente, pela Primeira Seção.
+No referido julgamento definiu-se a seguinte tese:
+"O curso do prazo prescricional da obrigação de pagar quantia certa pela fazenda pública não é suspenso durante o cumprimento da obrigação de implantar em folha de pagamento imposta na mesma sentença."
+Nesse contexto, julgado o tema pela sistemática dos recursos repetitivos ou repercussão geral, esta Corte Superior orienta que os recursos que tratam da mesma controvérsia devem retornar ao Tribunal de origem para que este faça o juízo de conformação.
+Confira-se:
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. FATO SUPERVENIENTE. ARTIGOS 493, 1.030, II, E 1.040, II, DO CPC/2015. NECESSIDADE DE DEVOLUÇÃO DOS AUTOS À ORIGEM PARA CONCLUSÃO DE JUÍZO DE CONFORMAÇÃO.
+Tendo o recurso sido interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015, devem ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+Nos termos do que dispõe o artigo 1.022 do CPC/2015, cabem embargos de declaração contra qualquer decisão judicial para esclarecer obscuridade, eliminar contradição, suprir omissão de ponto ou questão sobre a qual devia se pronunciar o juiz de ofício ou a requerimento, bem como para corrigir erro material.
+A questão jurídica objeto do recurso especial diz respeito ao Tema 1223/STJ  (ou tema análogo conforme o precedente citado no modelo) .
+A jurisprudência do Superior Tribunal de Justiça é uníssona no sentido de que o fato superveniente só pode ser considerado na hipótese de conhecimento do recurso especial, o que não ocorreu na espécie.
+Em que pese o fato superveniente não seja suscetível de exame pelo STJ, o retorno dos autos à origem é medida que se impõe, à luz dos artigos 493, 1.030, II, e 1.040, II, do CPC/2015, para que seja f eita a adequação do julgado ao decidido pelas Cortes Superiores sob o rito dos recursos repetitivos ou da repercussão geral.
+Embargos de declaração acolhidos, com efeitos modificativos, para tornar sem efeito as decisões anteriores e determinar a devolução dos autos ao Tribunal de origem para oportuno juízo de conformação (EDcl no AgInt no AREsp 2.349.769/SC, relator Ministro Benedito Gonçalves, Primeira Turma, DJe 7/5/2024).
+Com efeito, somente após realizada essa providência, que representa o exaurimento da instância ordinária, é que o recurso especial deverá ser encaminhado para esta Corte Superior, para serem analisadas as questões jurídicas nele suscitadas e que não ficaram prejudicadas pelo novo pronunciamento do Tribunal a quo.
+Ante o exposto, determino a devolução dos autos ao Tribunal de origem, com a respectiva baixa, para que aplique as medidas cabíveis previstas nos arts. 1.039, 1.040, I e II, e 1.041 do CPC/2015, conforme o caso.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO EM RECURSO ESPECIAL. CUMPRIMENTO DE SENTENÇA CONTRA A FAZENDA PÚBLICA. PRESCRIÇÃO DA PRETENSÃO EXECUTÓRIA. TERMO INICIAL. TRÂNSITO EM JULGADO DA FASE DE CONHECIMENTO. AUTONOMIA DAS OBRIGAÇÕES DE FAZER E DE PAGAR. ACÓRDÃO RECORRIDO QUE CONDICIONOU O INÍCIO DO PRAZO AO EXAURIMENTO DA OBRIGAÇÃO DE FAZER. DISSONÂNCIA COM O ENTENDIMENTO FIRMADO NO TEMA REPETITIVO 1311/STJ. AGRAVO CONHECIDO PARA DAR PROVIMENTO AO RECURSO ESPECIAL.
