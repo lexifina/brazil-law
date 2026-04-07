@@ -1,0 +1,41 @@
+DECISÃO
+HERALDO MOURÃO DO NASCIMENTO agrava de decisão que inadmitiu o recurso especial, fundado no art. 105, III, "a", da Constituição Federal, contra acórdão proferido pelo Tribunal de Justiça do Distrito Federal e dos Territórios na Apelação Criminal n. 0704230-78.2024.8.07.0019.
+Nas razões do especial, a defesa aponta a violação dos arts. 155 e 386, III, do Código de Processo Penal, ao argumento de que faz jus à aplicação do princípio da insignificância, diante do ínfimo valor da res furtiva, uma garrafa de bebida avaliada em R$ 59,90.
+O recurso especial foi inadmitido no juízo de admissibilidade realizado pelo Tribunal estadual, o que ensejou a interposição deste agravo.
+O Ministério Público Federal opinou pelo não provimento do recurso.
+Decido.
+Depreende-se dos autos que o réu foi condenado pela prática do delito de furto simples. A Corte estadual manteve os termos da sentença e afastou a incidência do princípio da insignificância. Confira-se (fl. 389, grifei):
+Delineados os contornos do acervo probatório, verifica-se que os depoimentos colhidos ao longo da persecução penal, notadamente as declarações prestadas pelo agente de prevenção de perdas do supermercado e pelo policial militar responsável pela prisão em flagrante, são suficientes para demonstrar que o réu, na data dos fatos, subtraiu, para si, uma garrafa de bebida alcoólica exposta à venda no interior do estabelecimento comercial.
+ ..
+No caso dos autos, contudo, não se verifica o preenchimento dos requisitos necessários à aplicação do princípio da insignificância, uma vez que, embora o preço da res furtiva seja de R$59,90 (ID 72583632), a conduta do agente revela acentuado grau de reprovabilidade.
+Conforme destacado pelo d. Magistrado sentenciante, o acusado ostenta duas condenações criminais definitivas, pelos crimes de desacato e ameaça, exaradas nas ações penais nº 0003147-75.2018.8.07.0020 (data do fato: 26/8/2018; trânsito em julgado em 18/3/2022 - ID 72583643, págs. 5, 6, 16 e 17) e nº 2015.07.1.027512-8 (data do fato: 24/10/2015; trânsito em julgado em 20/9/2017 - ID 72583643, págs. 7 e 8), o que, inequivocamente, demonstra envolvimento reiterado com a prática de infrações penais.
+Ademais, observa-se que, na execução penal referente a delito pretérito (Processo nº 0405335-49.2022.8.07.0015), a pena privativa de liberdade aplicada ao réu foi inicialmente substituída por restritiva de direitos, porém, diante do descumprimento das condições estabelecidas, sobreveio sua reconversão em sanção corporal. De modo semelhante, no presente feito, também restou descumprida a medida cautelar de comparecimento aos atos processuais, imposta como condição para a concessão da liberdade provisória (ID 72583647), circunstância que evidencia conduta reiterada de inobservância das decisões judiciais e omissão no cumprimento de sanções impostas, conforme bem destacado pela d. Procuradoria de Justiça Criminal. Tal histórico revela flagrante desrespeito às normas vigentes e reforça o juízo de reprovabilidade da conduta do apelante.
+Para que o fato seja considerado criminalmente relevante, não basta a mera subsunção formal a um tipo penal. Deve ser avaliado o desvalor representado pela conduta humana, bem como a extensão da lesão causada ao bem jurídico tutelado, com o intuito de aferir se há necessidade e merecimento da sanção, à luz dos princípios da fragmentariedade e da subsidiariedade.
+As hipóteses de aplicação do princípio da insignificância se revelam com mais clareza no exame da punibilidade concreta - possibilidade jurídica de incidência da pena -, que atribui conteúdo material e sentido social a um conceito integral de delito como fato típico, ilícito, culpável e punível, em contraste com a estrutura tripartite (formal) tradicionalmente adotada, conforme expus de maneira mais aprofundada no julgamento do REsp n. 1.864.600/MG, ocorrido em 15/9/2020.
+Por oportuno, ressalto que, por se tratar de categorias de conteúdo absoluto, a tipicidade e a ilicitude não comportam dimensionamento do grau de ofensa ao bem jurídico tutelado, compreendido a partir da apreciação dos contornos fáticos da conduta delitiva e dos condicionamentos sociais em que se inserem o agente e a vítima.
+Nesse contexto, o diálogo entre a política criminal e a dogmática na jurisprudência sobre a bagatela deve também ser informado pelos elementos subjacentes ao crime, que se compõem do valor dos bens subtraídos e do comportamento social do acusado nos últimos anos.
+Assim, os registros de vida pregressa devem ser entendidos como elementos objetivos, e não subjetivos. Isso porque não se avalia a pessoa do agente, mas, sim, o seu histórico penal - que pode ser incompatível com a exclusão da punibilidade - e a perspectiva de recidiva do comportamento avesso ao direito.
+O exame desses dados alinha-se com o princípio da isonomia, pois o indivíduo que furta uma vez não pode ser igualado ao que furta habitualmente, escorando-se este, conscientemente, na impunidade.
+Na espécie, a Corte estadual salientou a contumácia delitiva do réu, que ostenta duas condenações definitivas pelos delitos de desacato e ameaça.
+Além disso, o acórdão registrou que, em execução penal de delito pretérito, o réu descumpriu as condições estabelecidas para a substituição da pena privativa de liberdade por restritiva de direitos e, no presente feito, igualmente descumpriu a medida cautelar imposta para a concessão de liberdade provisória , o que denota a dificuldade em cumprir as determinações judiciais.
+Assim, em que pese o valor da res furtiva, entendo não ser viável a incidência do princípio da insignificância, diante da recidiva criminal do réu, o que está em consonância com a jurisprudência desta Corte Superior
+Ilustrativamente:
+PROCESSO PENAL. RECURSO EM HABEAS CORPUS. FURTO SIMPLES. TRANCAMENTO. INSIGNIFICÂNCIA. IMPOSSIBILIDADE. REITERAÇÃO DELITIVA EM CRIMES PATRIMONIAIS. ORDEM DENEGADA. AGRAVO DESPROVIDO. PRISÃO PREVENTIVA. GARANTIA DA ORDEM PÚBLICA. GRAVIDADE CONCRETA. REITERAÇÃO DELITIVA. RECURSO IMPROVIDO.
+ ..
+2. Na espécie, não há como reconhecer o reduzido grau de reprovabilidade ou a mínima ofensividade da conduta, pois, independentemente do valor atribuído à res furtiva, consta dos autos que o recorrente possui duas condenações anteriores definitivas pela prática de crimes de roubo e furto, circunstância que demonstra a prática de crimes de forma habitual e reiterada, reveladora de personalidade voltada para o crime, ficando afastado o requisito do reduzido grau de reprovabilidade da conduta para aplicação do princípio da insignificância ora pretendido. Precedentes.
+ ..
+6. Recurso em habeas corpus improvido.
+(RHC n. 161.967/MG, relator Ministro Antonio Saldanha Palheiro, 6ª T., DJe de 6/5/2022, grifei)
+ ..
+1. Não preenche o agravante os requisitos para a aplicação do princípio da insignificância, em que pese o reduzido valor do bem furtado, por ser o réu multirreincidente em crime patrimonial (AgRg no AREsp n. 1.073.572/MG, Ministro Nefi Cordeiro, Sexta Turma, DJe 23/4/2018).
+2. Agravo regimental improvido.
+(AgRg no HC n. 466.521/SC, relator Ministro Sebastião Reis Júnior, 6ª T., DJe de 19/5/2020, destaquei)
+ ..
+4. A jurisprudência do Superior Tribunal de Justiça é no sentido de que a reincidência e a habitualidade delitiva são obstáculos à aplicação do princípio da insignificância.
+IV. Dispositivo e tese5. Agravo regimental desprovido.
+Tese de julgamento: "1. A reincidência e a habitualidade delitiva impedem a aplicação do princípio da insignificância em casos de furto qualificado. 2. O concurso de agentes aumenta a reprovabilidade da conduta, afastando a atipicidade material."
+Dispositivos relevantes citados: CP, art. 155, §4º, IV; CP, art. 71; CR/88, art. 15, III. Jurisprudência relevante citada: STF, HC 84.412/SP; STJ, AgRg no HC 910.939/SP, Rel. Min. Messod Azulay Neto, Quinta Turma, julgado em 18.06.2024; STJ, AgRg no AREsp 2.097.544/MG, Rel. Min. Messod Azulay Neto, Quinta Turma, julgado em 23.05.2023.
+(AgRg no AREsp n. 2.745.965/MG, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 10/12/2024, DJEN de 17/12/2024.)
+À vista do exposto, com fundamento no art. 932, VIII, do CPC, c/c o art. 253, parágrafo único, II, "b", parte final, do RISTJ, conheço do agravo para negar provimento ao recurso especial.
+Publique-se e intimem-se.
+EMENTA
