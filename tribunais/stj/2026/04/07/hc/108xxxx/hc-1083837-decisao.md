@@ -1,0 +1,58 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em benefício de JESSICA RODRIGUES DE MOURA no qual se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO GRANDE DO SUL (HC n. 5016123-40.2019.8.21.0073).
+Depreende-se dos autos que a ora paciente foi condenada à pena de 9 anos e 4 meses de reclusão, e 1 ano e 6 meses de detenção, por haver praticado os crimes previstos nos arts. 33, 35 e 40, VI, da Lei n.11.343/2006; e 12 da Lei n. 10.826/2003 (e-STJ fls. 55/70).
+O Tribunal de origem negou provimento à apelação (e-STJ fls. 30/39).
+Daí o presente writ, no qual sustenta a defesa, basicamente, que a "transcrição integral da sentença penal condenatória, sem análise própria das razões recursais, caracteriza nulidade por ausência de fundamentação, violando expressamente o dever de fundamentação das decisões judiciais exigido pelo artigo 93, inc. IX da Carta Constitucional de 1988, bem como afronta as disposições infraconstitucionais contidas no artigo 489, parágrafo 1º do CPC/2015, e artigo 315 do CPP" (e-STJ fl. 3).
+Diante dessas considerações, pede "a absolvição do paciente ou a redução da pena a concessão da ordem de habeas corpus, a fim de levantar de declarar a nulidade do acórdão atacado, determinando o retorno dos autos à origem para novo julgamento, observado o dever de fundamentação e o duplo grau de jurisdição" (e-STJ fl. 5).
+É o relatório.
+Decido.
+O writ não merece conhecimento.
+O Superior Tribunal de Justiça, de longa data, vem buscando fixar balizas para a racionalização do uso do habeas corpus, visando a garantia não apenas do curso natural das ações ou revisões criminais mas também da efetiva priorização do objeto ínsito ao remédio heroico, qual seja, o de prevenir ou remediar lesão ou ameaça de lesão ao direito de locomoção.
+Nessa linha, esta Corte, em diversas ocasiões, já assentou a impossibilidade de impetração de habeas corpus em substituição à revisão criminal, quando já transitada em julgado a condenação do réu, posicionando-se no sentido de que " n ão deve ser conhecido o writ que se volta contra acórdão condenatório já transitado em julgado, manejado como substitutivo de revisão criminal, em hipótese na qual não houve inauguração da competência desta Corte" (HC n. 730.555/SC, relator Ministro Olindo Menezes, Desembargador convocado do TRF 1ª Região, Sexta Turma, julgado em 9/8/2022, DJe de 15/8/2022).
+Nesse mesmo sentido, os seguintes precedentes:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. ROUBO DUPLAMENTE MAJORADO TENTADO. INSURGÊNCIA CONTRA ACÓRDÃO TRANSITADO EM JULGADO. MANEJO DO WRIT COMO REVISÃO CRIMINAL. DESCABIMENTO. ILEGALIDADE FLAGRANTE NÃO DEMONSTRADA. REPRIMENDA INFERIOR A QUATRO ANOS. PENA-BASE FIXADA NO MÍNIMO LEGAL. REGIME MAIS GRAVOSO. POSSIBILIDADE. GRAVIDADE CONCRETA DA CONDUTA EVIDENCIADA. REFORMATIO IN PEJUS. NÃO OCORRÊNCIA. EFEITO DEVOLUTIVO AMPLO DO RECURSO DE APELAÇÃO. BIS IN IDEM. SUPRESSÃO DE INSTÂNCIA. PETIÇÃO INICIAL LIMINARMENTE INDEFERIDA. AGRAVO REGIMENTAL DESPROVIDO.
+1. Não deve ser conhecido o writ que se volta contra acórdão já transitada em julgado, manejado como substitutivo de revisão criminal, em hipótese na qual não houve inauguração da competência desta Corte. Precedentes da Quinta e Sexta Turmas do Superior Tribunal de Justiça.
+ ..
+6. Agravo regimental desprovido.
+(AgRg no HC n. 751.156/SP, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 9/8/2022, DJe de 18/8/2022, grifei.)
+AGRAVO REGIMENTAL EM HABEAS CORPUS INDEFERIDO LIMINARMENTE. TRÁFICO DE DROGAS. ACÓRDÃO TRANSITADO EM JULGADO. DOSIMETRIA. SUBSTITUTIVO DE REVISÃO CRIMINAL. NÃO INAUGURADA A COMPETÊNCIA DO STJ. INADMISSIBILIDADE. AUMENTO DA PENA-BASE. ELEVADA QUANTIDADE DE DROGAS. PROPORCIONALIDADE. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DA DECISÃO AGRAVADA. SÚMULA 182/STJ.
+Agravo regimental não conhecido.
+(AgRg no HC n. 751.137/SP, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 2/8/2022, DJe de 4/8/2022, grifei.)
+No caso, a condenação da paciente transitou em julgado em 27/6/2023, de maneira que não se deve conhecer do writ que pretende a desconstituição do acórdão proferido pela Corte local, olvidando-se a parte de ajuizar a necessária revisão criminal antes de inaugurar a competência deste Tribunal Superior acerca da controvérsia.
+De toda forma, não se vislumbra ilegalidade flagrante apta a ser sanada na presente via, ainda que mediante a eventual concessão de habeas corpus de ofício.
+Isso, porque, como cediço, de fato, a fundamentação das decisões do Poder Judiciário é condição absoluta de sua validade (Constituição da República, arts. 5º, inciso LXI, e 93, inciso IX, respectivamente).
+Nesse cenário, o recente Tema Repetitivo n. 1.306, no qual se consignou que "a técnica da fundamentação por referência (per relationem) é permitida desde que o julgador, ao reproduzir trechos de decisão anterior, documento e/ou parecer como razões de decidir, enfrente, ainda que de forma sucinta, as novas questões relevantes para o julgamento do processo, dispensada a análise pormenorizada de cada uma das alegações ou provas" (EDcl no REsp n. 2.150.218/MA, relator Ministro Luis Felipe Salomão, Corte Especial, julgado em 25/11/2025, DJEN de 1º/12/2025.).
+Na hipótese vertente, não houve a alegada ausência de fundamentação, uma vez que o acórdão vergastado não se limitou à transcrição da decisão de primeira instância, tendo acrescido fundamentos próprios. Eis o excerto (e-STJ fls. 32/37):
+Antes de iniciar o voto, destaco que o fato de reproduzir parte da decisão com o fundamento do julgador não causa nenhuma nulidade, pois não viola a exigência constitucional da motivação.
+Neste sentido é a jurisprudência do Supremo Tribunal Federal, a Corte responsável pelo controle da constitucionalidade da lei e de atos judiciais. Exemplo:
+"A jurisprudência desta Corte é no sentido de que não viola a exigência constitucional da motivação o acórdão de segunda instância que adota como razões de decidir fundamentos contidos na sentença recorrida. Precedentes." (Ag. Reg. no Recurso Extraordinário 1.099.396, Primeira Turma, Relator Roberto Barroso).
+Depois, eu poderia, se quisesse, usar da mesma fundamentação da decisão judicial, mas determinando que a minha assessoria, usando os mesmos argumentos, trocassem palavras e verbos por seus sinônimos, invertessem frases ou parte delas etc., e todos diriam que a fundamentação era deste Relator.
+Mas o referido acima não seria honesto. Prefiro reproduzir a sentença ou decisão como proferida. Deste modo, valorizo o trabalho do colega quem, efetivamente, teve o esforço intelectual da argumentação jurídica e fática, para mostrar, fundamentalmente, porque tomou aquela decisão.
+ ..
+4. Quanto às punições, os recursos também não procedem. Sobre a pena-base e acréscimos ou reduções em face às agravantes e às atenuantes, digo que a aplicação da punição tem muito de subjetiva.
+E para tanto, digo que, por exemplo, entre as balizas de doze a trinta anos (homicídio qualificado) ou entre cinco a quinze anos (tráfico de entorpecentes) ou entre dois a oito anos (furto qualificado) ou entre seis a dez anos (atentado violento ao pudor) etc., qual é a punição mais justa  Sempre será aquela que, no meu entendimento, na consideração das circunstâncias fáticas do delito e pessoais do condenado cumpra o estipulado pelo artigo 59 do Código Penal na sua parte final: "estabelecerá conforme seja necessário e suficiente para reprovação e prevenção do crime.".
+Deste modo, deve-se, tanto quanto possível, aceitar aquela fixada na sentença.
+Sua alteração só deve acontecer, quando se verificar grave erro na imposição da reprimenda.
+ ..
+No caso, como se vê da sentença, não houve erro ou abuso da autoridade judicial quando da fixação das penas dos apelantes. O julgador analisou corretamente as circunstâncias ligadas aos fatos e as pessoais dos condenados, impondo aos últimos punições que entendeu adequadas para a situação. Nada a corrigir.
+Deixo de reproduzir esta decisão, porque, já sendo do conhecimento dos interessados, se constituirá em uma repetição inútil e enfadonha.
+Quanto à questão da suspensão da exigibilidade das custas processuais, ou mesmo a sua isenção, filio-me ao pensamento do Superior Tribunal de Justiça. O tema está pacificado naquela Corte, inclusive em situações em que o condenado foi defendido pela Defensoria Pública. Exemplo:
+"Nos termos da jurisprudência do Superior Tribunal de Justiça, ainda que a parte seja beneficiária da justiça gratuita, o art. 804 do CPP determina a condenação do vencido em custas, devendo ficar suspensa a exigibilidade do pagamento, pelo prazo de 5 (cinco) anos, após o qual ficará prescrita a obrigação, a teor do art. 12 da Lei n.º 1.060/1950.
+A suspensão de que se trata apenas pode ser concedida pelo Juízo da Vara de Execuções Penais, haja vista ser na fase da execução o momento adequado para aferir a real situação financeira do condenado, diante da possibilidade de alteração após a condenação." (AgRg no AREsp 254330, Quinta Turma, Relator Marco Aurélio Bellizze).
+Quanto ao pedido de detração, tal matéria é afeta à execução da pena, devendo ser apreciada por aquele juízo.
+Por fim, quanto à pena de multa, digo que sua imposição é decorrência de dispositivo legal penal e, portanto, obrigatória, quando o réu é condenado por crime no qual há cominação relativa a ela. As questões de isenção ou redução do montante, ou outras possíveis, devem ser discutidas no juízo da execução penal.
+5. Assim, nos termos supra, voto por rejeitar a preliminar e, no mérito, por negar provimento aos apelos.
+Dessa forma, na linha da jurisprudência consolidada nesta Corte, não se deve reputar como nula a decisão, mantendo-se, portanto, incólume o acórdão impugnado.
+Nesse sentido:
+PENAL E PROCESSUAL PENAL. AGRAVO REGIMENTAL NO RECURSO EM HABEAS CORPUS. HOMICÍDIO QUALIFICADO TENTADO. PRISÃO PREVENTIVA. GARANTIA DA ORDEM PÚBLICA. GRAVIDADE CONCRETA DA CONDUTA DELITUOSA. FUNDAMENTAÇÃO PER RELATIONEM. POSSIBILIDADE. AGRAVO REGIMENTAL IMPROVIDO.
+1. A prisão preventiva pode ser decretada antes do trânsito em julgado da sentença condenatória, desde que estejam presentes os requisitos previstos no art. 312 do CPP, hipótese em que não há que se falar em antecipação de pena.
+2. A prisão preventiva encontra-se devidamente fundamentada na gravidade concreta do delito, demonstrada pelo modus operandi empregado, consistente em tentativa de homicídio qualificado motivada por vingança decorrente de desavenças pretéritas envolvendo familiares, perpetrada mediante disparos de arma de fogo, recurso que dificultou a defesa da vítima.
+3. O Tribunal de origem observou os requisitos do art. 312 do Código de Processo Penal, justificando a necessidade da custódia cautelar para garantir a ordem pública, tendo em vista a gravidade concreta do fato.
+4. A fundamentação per relationem utilizada na decisão agravada é válida, conforme entendimento consolidado no Tema repetitivo n. 1.306 da Corte Especial do STJ, visto que enfrentadas todas as questões suscitadas pela defesa e relevantes para o julgamento.
+5. As condições pessoais favoráveis do agravante, como primariedade e bons antecedentes, não são suficientes para revogar a prisão preventiva, sobretudo porque presentes os requisitos legais para sua decretação.
+6. As medidas cautelares alternativas à prisão foram consideradas insuficientes para resguardar a ordem pública, conforme jurisprudência do STJ.
+7. Agravo regimental improvido.
+(AgRg no RHC n. 221.966/MG, relator Ministro Og Fernandes, Sexta Turma, julgado em 17/12/2025, DJEN de 22/12/2025.).
+Ante o exposto, indefiro liminarmente a impetração.
+Publique-se. Intimem-se.
+EMENTA
