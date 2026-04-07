@@ -1,0 +1,29 @@
+DECISÃO
+ALEXANDRE SILVA MELO agrava de decisão que inadmitiu o recurso especial, fundado no art. 105, III, "a", da Constituição Federal, contra acórdão do Tribunal de Justiça do Estado do Espírito Santo no Recurso em Sentido Estrito n. 5039644-51.2024.8.08.0024.
+O agravante teve indeferido pedido de indulto natalino (Decreto Presidencial n. 11.302/2022). Contra a referida decisão interpôs recurso em sentido estrito, o qual não foi conhecido pela Corte antecedente.
+Nas razões do recurso especial, a defesa alegou violação dos arts. 581, IX, e 619 do Código de Processo Penal, 1º do Código Penal e 9º do Decreto Presidencial n. 11.302/2022. Em síntese, apontou omissão no julgado de origem e, subsidiariamente, que se reconheça o cabimento do recurso em sentido estrito.
+O recurso foi inadmitido em juízo prévio de admissibilidade realizado pelo Tribunal local, o que motivou a interposição deste agravo.
+O Ministério Público Federal manifestou-se, às fls. 314-317, pelo não provimento do AREsp.
+Decido.
+A Corte de origem não conheceu do recurso em sentido estrito, com base nos seguintes fundamentos (fls. 130-133):
+ ..
+Primeiramente, observo que, em análise dos autos da Ação Penal nº 0002921-94.2019.8.08.0024, fora proferida Sentença condenatória (link no Id. 10055990, vol. 06, parte 04, pp. 60/120), em face da qual foram interpostos recursos de Apelação Criminal pelas defesas dos réus FELIPE MEDICI TOSCANO, ISIS AVANCI LAGUARDIA MEDICI TOSCANO e ALEXANDRE SILVA MELO, distribuídos à minha Relatoria.
+Naqueles autos, enquanto ainda diligenciava a instrução dos recursos (apresentação de razões e contrarrazões), a defesa do réu Alexandre Silva Melo, ao ser intimada para apresentar suas razões (ID 4558002), alegou questão prejudicial, requerendo "o envio dos autos da presente ação penal ao juízo da Quarta Vara Criminal de Vitória para análise de pleito de extinção da punibilidade em razão da concessão de indulto, considerando o disposto no artigo 12 do Decreto Presidencial nº 11.302, de 22 de dezembro de 2022" (ID 4900102).
+Reiterou tal pleito nas petições de ID 5109705, 5320721 E 5538605, apontado ser imprescindível sua apreciação antes da elaboração de suas razões recursais do apelo.
+No Despacho de ID 5575089 (31/07/2023) daqueles autos principais, determinei a baixa do feito ao juízo de origem, para intimação do Ministério Público para contrarrazoar os recurso, bem como "a fim de que o magistrado se manifeste sobre o requerimento formulado pela Defesa do apelante ALEXANDRE SILVA MELO, id. 5320721, Decreto Presidencial nº 11.302/2022".
+Em apreciação destes autos do Recurso em Sentido Estrito, verifico no ID 10055989, que fora proferida Decisão indeferindo o indulto em 03/9/2023, tendo a defesa interposto o RESE em 02/10/23 (ID 10055987).
+Ocorre que, com o retorno da tramitação dos autos da Apelação, a defesa do réu Alexandre fora intimada para apresentar suas razões, as quais foram juntadas em 04/10/2023 (ID 6235100), ou seja, posteriormente à Decisão que indeferiu o pedido de indulto.
+Todavia, não apresentou qualquer questionamento referente ao indulto em suas razões de apelo.
+Não desconheço que o art. 581, inc. IX, do Código de Processo Penal, dispõe que cabe Recurso em Sentido Estrito da decisão que "indeferir o pedido de reconhecimento da prescrição ou de outra causa extintiva da punibilidade".
+Todavia, reforço que fora a própria defesa que suscitou a apreciação de tal questão antes da apresentação de suas razões do apelo, destacando que o "o reconhecimento da extinção da punibilidade decorrente do perdão presidencial afetará o objeto do recurso de apelação".
+Ademais, tal decisão fora proferida enquanto ainda tramitava recurso de Apelação Criminal e, anteriormente à apresentação das razões recursais defensivas.
+Portanto, considerando que já havia sido proferida Sentença de Mérito no bojo da Ação Penal e que os autos retornaram àquele juízo, para apreciar questão prejudicial suscitada pela defesa, reputo que tal decisão integrou a Sentença proferida pelo juízo de conhecimento.
+Por este motivo, resta evidente que fora interposto o recurso inadequado em face da Decisão que indeferiu a pretensão de extinção da punibilidade por aplicação de indulto presidencial, pois, como dito, tal decisão passou a integrar a sentença e a irresignação defensiva deveria ter constado das razões do recurso de apelação.
+Destarte, houve a preclusão da irresignação recursal, considerando que referia Apelação Criminal fora julgada em 04/6/2024, bem como já interposto Recurso Especial pelas partes.
+Ante o exposto, NÃO CONHEÇO do Recurso em Sentido Estrito.
+Conforme se observa, a instância antecedente estabeleceu que a própria defesa suscitou que o pedido de indulto fosse examinado antes de que fossem apresentadas as razões da apelação criminal. O pedido foi atendido. Não há omissão relevante no julgado, pois os motivos pelos quais o recurso não foi conhecido foram devidamente explicitados.
+Contudo, no caso dos autos, é possível constatar hipótese de dúvida razoável sobre o recurso adequado para impugnar a decisão que indeferiu o pedido de indulto. Assim, ao se reconhecer a preclusão do tema imporia uma barreira intransponível à defesa.
+Assim, considerados que a discussão sobre o indulto natalino não interfere no andamento normal da ação penal, a previsão do art. 581, IX, do CPP, e reconhecimento do direito ao duplo grau de jurisdição, é pertinente determinar que o Tribunal de origem conheça do recurso em sentido estrito e examine o seu mérito como entender de direito.
+À vista do exposto, conheço do agravo para não conhecer e dar provimento ao recurso especial, a fim de determinar que a Corte de origem conheça do recurso em sentido e strito, interposto pela defesa, e examine o seu mérito como entender de direito.
+Publique-se e intimem-se.
+EMENTA
