@@ -1,0 +1,33 @@
+DECISÃO
+Trata-se de recurso especial interposto por UNIVERSIDADE FEDERAL DE SANTA CATARINA - UFSC, com fundamento no art. 105, inciso III, alínea a, da Constituição Federal, contra acórdão do Tribunal Regional Federal da 4ª Região, proferido no julgamento da Apelação Cível n. 5023857-66.2023.4.04.7200/SC, assim ementado (fl. 734):
+ADMINISTRATIVO E PROCESSUAL CIVIL. SERVIDOR PÚBLICO. ABONO DE PERMANÊNCIA. VALORES RECONHECIDOS ADMINISTRATIVAMENTE. INTERESSE PROCESSUAL. CORREÇÃO MONETÁRIA. PARCELAS PAGAS ADMINISTRATIVAMENTE. HONORÁRIOS ADVOCATÍCIOS. BASE DE CÁLCULO.
+1. Assegurado o direito do autor de pleitear o recebimento dos valores reconhecidos administrativamente de forma imediata pela via judicial, sem ter que se sujeitar ao moroso desenrolar relativo à quitação dos valores referentes a exercícios anteriores, à luz do princípio constitucional da inafastabilidade da jurisdição. Reconhecido o interesse processual do autor. Preliminar afastada. Precedentes.
+2. O marco inicial de incidência do índice de correção monetária deve ser o vencimento de cada parcela, sob pena de enriquecimento ilícito do devedor. Precedentes.
+3. Deve incidir a correção monetária nas parcelas pagas administrativamente em atraso, ante o caráter alimentar da verba, nos termos da Súmula nº 09 desta Corte.
+4. A base de cálculo dos honorários sucumbenciais deve ser o valor da condenação, com as devidas atualizações, em conformidade com o art. 85, §3º, do Código de Processo Civil.
+Os embargos de declaração opostos foram acolhidos nos seguintes termos (fl. 761):
+PREVIDENCIÁRIO. PROCESSO CIVIL. EMBARGOS DE DECLARAÇÃO. HIPÓTESES. RECURSO DA PARTE AUTORA PROVIDO. MAJORAÇÃO DOS HONORÁRIOS SUCUMBENCIAIS. RECURSO DA PARTE RÉ PROVIDO APENAS PARA EFEITO DE PREQUESTIONAMENTO.
+1. São cabíveis embargos de declaração contra qualquer decisão judicial para esclarecer obscuridade, eliminar contradição, suprir omissão ou corrigir erro material, consoante dispõe o artigo 1.022 do Código de Processo Civil.
+2. A modificação do julgado é admitida apenas excepcionalmente e após o devido contraditório (artigo 1.023, § 2º, do Código de Processo Civil).
+3. Não há necessidade de o julgador mencionar os dispositivos legais e constitucionais em que fundamenta sua decisão, tampouco todos os citados pelas partes.
+4. A pretensão da parte ré é, à guisa de declaração, modificar a decisão atacada.
+5. Embargos de declaração da parte autora acolhidos, para fazer constar no texto do voto parágrafo referente à majoração dos honorários advocatícios de sucumbência em grau recursal.
+6. Embargos de declaração da parte ré acolhidos tão somente para efeitos de prequestionamento.
+Em suas razões (fls. 773-781), o recorrente alega violação dos arts. 240, caput, do Código de Processo Civil, e 405 do Código Civil, sustentando que a citação válida constitui em mora o devedor e fixa o termo inicial dos juros moratórios, de modo que a aplicação da taxa Selic antes da citação é indevida por englobar, de forma indissociável, correção monetária e juros de mora.
+Argumenta, ainda, que a EC n. 113/2021 (art. 3º) não alterou o termo inicial da mora e que, em caráter subsidiário, deve incidir o IPCA-E no período anterior à citação, conforme os Temas n. 611 e 905 do Superior Tribunal de Justiça.
+Relata que o STF, no Tema n. 1.335 da Repercussão Geral, assentou a não incidência da taxa Selic no "período de graça" dos precatórios e a exclusividade da correção monetária. Aponta, ainda, como paradigma a ACO n. 1.527/STF, com a conclusão de que não cabe Selic em período sem mora.
+Requer, assim, o provimento do recurso.
+Contrarrazões apresentadas (fls. 792-802).
+O recurso foi admitido na origem (fls. 803-804).
+É o relatório.
+Decido.
+A tese recursal se concentra na discussão a respeito do termo inicial da aplicação da taxa Selic e a possibilidade de sua incidência anteriormente à citação.
+Registra-se que o Supremo Tribunal Federal reconheceu a repercussão geral da questão controvertida nos autos, qual seja, Tema n. 1.349/STF (RE n. 1.516.074/TO), cuja questão constitucional é "saber se o art. 3º da EC n. 113/2021 determina a incidência da taxa SELIC sobre o valor do débito corrigido acrescido de juros".
+Desse modo, por medida de economia processual e para evitar decisões dissonantes entre o Supremo Tribunal Federal e o Superior Tribunal de Justiça, os recursos que tratam da mesma controvérsia no STJ devem aguardar, no Tribunal de origem, a solução no recurso extraordinário afetado, o que viabiliza, assim, o juízo de conformação, hoje disciplinado pelos arts. 1.039 e 1.040 do CPC.
+Somente depois de realizada essa providência, que representa o exaurimento da instância ordinária, é que o recurso especial, se for o caso, deverá ser encaminhado a este órgão superior, para que possam ser analisadas as questões jurídicas nele suscitadas e que não ficaram prejudicadas pelo novo pronunciamento do Tribunal a quo.
+A propósito, a reiterada jurisprudência deste Tribunal Superior é no sentido de que "o ato de sobrestamento e remessa dos autos à origem, para a devida observação do rito de demandas repetitivas ou entendimento a ser definido pelo STF com repercussão geral recon hecida, não possui conteúdo decisório, razão por que é irrecorrível" (AgInt nos EDcl no AgInt no REsp n. 1.849.739/SP, relator Ministro Mauro Campbell Marques, Segunda Turma, DJe de 6/12/2023).
+No mesmo sentido, ilustrativamente: PDist nos EDcl no AgInt no AREsp n. 2.609.044/DF, relator Ministro Teodoro Silva Santos, Segunda Turma, julgado em 21/5/2025, DJEN de 29/5/2025; AgInt no AREsp n. 2.628.004/AM, relatora Ministra Maria Thereza de Assis Moura, Segunda Turma, julgado em 11/12/2024, DJe de 16/12/2024; AgInt nos EDcl no REsp n. 2.112.878/RS, relator Ministro Benedito Gonçalves, Primeira Turma, julgado em 9/12/2024 , DJe de 12/12/2024; AgInt no AREsp n. 2.695.543/MS, relator Ministro Humberto Martins, Terceira Turma, julgado em 18/11/2024 de 22/11/2024.
+Ante o exposto, JULGO PREJUDICADA a análise do recurso especial e, com fundamento no art. 34, inciso XXIV, do Regimento Interno do Superior Tribunal de Justiça, DETERMINO a imediata devolução dos autos ao Tribunal de origem, com a respectiva baixa, independentemente da publicação desta decisão ou da juntada de petição pelas partes, para que seja oportunizado o juízo de conformação, à luz da tese fixada no Tema n. 1.349 do STF, observadas as normas dos arts. 1.040 e 1.041 do Código de Processo Civil.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSO CIVIL. RECURSO ESPECIAL. TAXA SELIC. EMENDA CONSTITUCIONAL N. 113/2021. TEMA N. 1.349 DO STF. SOBRESTAMENTO DO FEITO. DEVOLUÇÃO DOS AUTOS À ORIGEM. RECURSO PREJUDICADO.
