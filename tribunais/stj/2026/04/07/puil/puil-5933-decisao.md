@@ -1,0 +1,32 @@
+DECISÃO
+Em análise, Incidente de Uniformização de Interpretação de Lei Federal, com pedido liminar, suscitado por Aldo Emídio da Silva, nos autos do Recurso Inominado nº 0004939-28.2024.8.16.0077, em trâmite no sistema dos Juizados Especiais do Estado do Paraná, em face de Companhia de Saneamento do Paraná - SANEPAR.
+A parte recorrente insurge-se contra acórdão proferido pela 6ª Turma Recursal do Juizado Especial do Tribunal de Justiça do Estado do Paraná, que julgou o recurso interposto na ação envolvendo indenização por dano material.
+Segundo sustenta, o acórdão recorrido teria adotado interpretação contrária à jurisprudência dominante do Superior Tribunal de Justiça, especialmente em relação ao entendimento firmado em tema repetitivo do STJ (Tema 414).
+Diante disso, afirma que está configurada hipótese de cabimento do incidente de uniformização previsto no art. 18 da Lei 12.153/2009, aplicável quando decisões de Turmas Recursais divergirem da orientação do STJ.
+Sem contrarrazões.
+É o relatório.
+Passo a decidir.
+A Lei 12.153/2009, que dispõe sobre os Juizados Especiais da Fazenda Pública no âmbito dos Estados, do Distrito Federal, dos Territórios e dos Municípios, prevê, em seu artigo 18, a competência desta Corte para dirimir a divergência quando a questão controvertida for de direito material e houver divergência de interpretações da lei federal entre Turmas de diferentes Estados ou contrariedade à súmula do Superior Tribunal de Justiça:
+Art. 18. Caberá pedido de uniformização de interpretação de lei quando houver divergência entre decisões proferidas por Turmas Recursais sobre questões de direito material.
+§ 1º O pedido fundado em divergência entre Turmas do mesmo Estado será julgado em reunião conjunta das Turmas em conflito, sob a presidência de desembargador indicado pelo Tribunal de Justiça.
+§ 2º No caso do § 1º, a reunião de juízes domiciliados em cidades diversas poderá ser feita por meio eletrônico.
+§ 3º Quando as Turmas de diferentes Estados derem a lei federal interpretações divergentes, ou quando a decisão proferida estiver em contrariedade com súmula do Superior Tribunal de Justiça, o pedido será por este julgado.
+No caso, aponta-se divergência do acórdão impugnado com o precedente qualificado - Tema 414 - julgado no âmbito dos recursos especiais repetitivos.
+Ocorre, contudo, que embora não se desconheça a existência do precedente qualificado citado, sua observância pelo Tribunal a quo não pode ser desafiada por PUIL, cabendo a parte valer-se de outras vias, para tanto.
+Segundo a jurisprudência deste STJ, "a indicação de suposta contrariedade a julgado repetitivo não se equipara à alegação de ofensa a enunciado da Súmula do STJ, para fins de cabimento do pedido de uniformização de interpretação de lei" (AgInt no PUIL 2.924/SP, relator Ministro Paulo Sérgio Domingues, Primeira Seção, julgado em 28/2/2024, DJe de 1/3/2024).
+No mesmo sentido:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO PEDIDO DE UNIFORMIZAÇÃO DE INTERPRETAÇÃO DE LEI. ALEGADA DIVERGÊNCIA DO ENTENDIMENTO FIRMADO, PELA TURMA RECURSAL ESTADUAL, COM A JURISPRUDÊNCIA DESTA CORTE. NÃO CABIMENTO. PRECEDENTES.
+1. Tendo o recurso sido interposto contra decisão publicada na vigência do Código de Processo Civil de 2015, devem ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+2. "Nos termos do art. 18, § 3º, da Lei n. 12.153/2009, o mecanismo de uniformização de jurisprudência e de submissão das decisões das turmas recursais ao crivo do Superior Tribunal de Justiça, no âmbito dos juizados especiais da Fazenda Pública, restringe-se a questões de direito material, quando as turmas de diferentes estados derem a lei federal interpretações divergentes, ou quando a decisão proferida estiver em contrariedade a súmula do Superior Tribunal de Justiça" (AgInt no PUIL 1.774/BA, relator Ministro Gurgel de Faria, Primeira Seção, DJe 24/11/2020.).
+3. No caso concreto, o requerente aponta suposta divergência com o entendimento desta Corte Superior de Justiça, firmado sob o rito do julgamento dos recursos especiais repetitivos (REsp 1.110.549/RS - Tema 589), hipótese a que não se destina o pedido de uniformização.
+4. Agravo interno não provido.
+(AgInt no PUIL n. 3.876/RO, relator Ministro Benedito Gonçalves, Primeira Seção, julgado em 30/4/2024, DJe de 6/5/2024).
+PUIL. PROCESSUAL CIVIL. NA ORIGEM: AÇÃO ANULATÓRIA. SUPOSTA DECADÊNCIA DA PRETENSÃO DE INSTAURAÇÃO DE PROCEDIMENTO DE SUSPENSÃO DO DIREITO DE DIRIGIR. DECISÃO AGRAVADA MANTIDA PELOS SEUS FUNDAMENTOS.
+I - Na origem, trata-se de ação anulatória objetivando a declaração de decadência da pretensão de instauração de procedimento de suspensão do direito de dirigir do ora agravante. Na sentença julgou-se improcedente o pedido. Ainda em primeira instância, em embargos de declaração, julgou procedente para reconhecer a decadência do direito de aplicar a infração. Na turma recursal, em sede de recurso inominado, reformou-se a sentença, ao argumento de que o prazo decadencial é o previsto no art. 1º, da Lei n. 9.873/1999, ou seja, cinco anos.
+II - O cabimento de Incidente de Uniformização de Interpretação de Lei ao STJ, no âmbito dos Juizados Especiais da Fazenda Pública, dar-se-á apenas nos casos em que o acórdão regional divirja sobre a interpretação de norma federal daquele firmado por Turma Recursal de outro Estado ou viola diretamente os termos de Enunciado de Súmula do STJ, de sorte que não se presta para sanar divergência entre julgados proferidos pela mesma Turma Recursal, entre Turma Recursal e Tribunal de Justiça, ainda que de estados distintos, nem que afronte a jurisprudência dominante do STJ, mesmo que firmada em sede de Recurso Especial Repetitivo, sob pena de incorrer-se em interpretação extensiva da norma processual, criando uma terceira hipótese de cabimento do Incidente de Uniformização que o legislador ordinário não previu.
+III - A parte requerente se limitou a transcrever excertos dos julgados indicados como divergentes e link de acesso via internet, deixando, pois, de realizar o necessário cotejo analítico e demonstrar a similitude fática entre os julgados.
+IV - Agravo interno desprovido.
+(AgInt no PUIL n. 4.897/SP, relator Ministro Francisco Falcão, Primeira Seção, julgado em 13/8/2025, DJEN de 18/8/2025.)
+Isso posto, com fundamento no art. 34, XVIII, do RISTJ, não conheço do pedido. Pedido liminar prejudicado.
+Intimem-se.
+EMENTA
