@@ -1,0 +1,72 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por REGINO OLIVEIRA DOS SANTOS contra a decisão do Tribunal de origem que inadmitiu o recurso especial, ante os óbices das Súmulas n. 7 e 83 do STJ (fls. 159-160).
+Consta dos autos que o agravante foi condenado às penas de 5 anos, 3 meses e 10 dias em regime inicial fechado e 527 dias-multa, como incurso nas sanções do art. 33, caput, da Lei n. 11.343/2006 (fls. 175-176).
+A parte agravante sustenta que o recurso especial devolve controvérsia estritamente jurídica, relativa à correta interpretação do art. 621 do CPP e à legalidade da motivação utilizada para afastar a causa de diminuição prevista no art. 33, § 4º, da Lei n. 11.343/2006, não havendo necessidade de revolvimento fático-probatório, razão pela qual não incide a Súmula n. 7 do STJ (fls. 166-169).
+Alega que a decisão de inadmissibilidade equivocou-se ao afirmar ausência de plausibilidade na violação do art. 621 do CPP, pois a revisão criminal foi proposta para sanar erro de direito na dosimetria, o que se enquadra nas hipóteses dos incisos I e III do referido dispositivo (fls. 166-167).
+Aduz que a aplicação da Súmula n. 7 do STJ ao "refazimento do cálculo" não procede, porque não pretende reavaliar provas, mas corrigir ilegalidade na terceira fase da dosimetria decorrente da negativa do redutor do art. 33, § 4º, da Lei n. 11.343/2006, com fundamento substituído em prejuízo do réu, em afronta aos arts. 59 e 68 do Código Penal (fls. 168-169).
+Afirma que a extinção da punibilidade pelo art. 35 da Lei n. 11.343/2006 removeu o único suporte utilizado na sentença para afastar a minorante e que o acórdão recorrido inovou, no âmbito revisional, ao invocar elementos genéricos para manter o não reconhecimento do benefício, o que exigiria controle de legalidade e não reexame probatório (fls. 167-169).
+Defende que a aplicação da Súmula n. 83 do STJ é indevida, pois o cerne do especial é verificar se a motivação adotada para afastar o redutor atende ao padrão jurisprudencial que exige elementos concretos e autônomos, não se podendo, na admissibilidade, presumir a idoneidade do fundamento controvertido (fls. 169-170).
+Informa que o recurso especial é cabível e tempestivo e que a matéria federal está prequestionada, tendo sido debatidos os arts. 621 do CPP; 33, § 4º, da Lei n. 11.343/2006; e 59 e 68 do CP no acórdão recorrido e reconhecidos na decisão de inadmissibilidade (fls. 166-170).
+Em contrarrazões, o recorrido alega que o agravo deve ser improvido, pois a pretensão demanda revolvimento probatório, atraindo a Súmula n. 7 do STJ, e que o acórdão está alinhado à jurisprudência desta Corte Superior, incidindo a Súmula n. 83 do STJ; sustenta, ainda, que não houve impugnação específica suficiente e que é inviável utilizar a revisão criminal como sucedâneo para rediscutir dosimetria sem manifesta ilegalidade (fls. 180-185).
+Parecer do Ministério Público Federal é pelo desprovimento do agravo, por ausência de impugnação específica, incidência da Súmula n. 182 do STJ, impossibilidade de uso da revisão criminal como sucedâneo recursal, manutenção dos óbices das Súmulas n. 7 e 83 do STJ e vedação ao reexame fático-probatório para restabelecer a minorante do art. 33, § 4º, da Lei n. 11.343/2006 (fls. 216-222).
+É o relatório.
+A conclusão da instância de origem no sentido da inadmissibilidade do recurso deve ser mantida.
+Assim constou do acórdão recorrido (fl. 125):
+Conforme relatado, a controvérsia principal gira em torno da alegada ilegalidade na dosimetria da pena, sustentando o Agravante que, com a extinção da punibilidade pelo delito de associação para o tráfico (art. 35 da Lei 11.343/2006), restaria superado o único fundamento que obstava a concessão da causa de diminuição prevista no art. 33, § 4º, da mesma Lei, sendo, portanto, cabível o redimensionamento da pena com aplicação da minorante do tráfico privilegiado.
+Todavia, conforme mencionado na decisão que ora é atacada, a simples extinção da punibilidade por prescrição de um dos delitos imputados (associação para o tráfico) não tem o condão, por si só, de automaticamente restabelecer a causa de diminuição de pena, notadamente quando subsistem nos autos elementos autônomos que denotam a habitualidade delitiva do condenado.
+A propósito, a jurisprudência do Superior Tribunal de Justiça é pacífica no sentido de que, mesmo em caso de absolvição ou extinção da punibilidade pelo art. 35 da Lei de Drogas, pode ser negada a aplicação do tráfico privilegiado se os autos demonstrarem, de forma autônoma, a dedicação do agente à prática criminosa.
+A conclusão do Tribunal de origem não destoa da jurisprudência do STJ, tendo em vista que a extinção da punibilidade do delito de associação para o tráfico não faz com que desapareçam circunstâncias fáticas por meio das quais se constate a prática reiterada e organizada do tráfico de drogas (fls. 90-92), como indicado na decisão que não conheceu da revisão criminal.
+Destacou-se a apreensão de 38 pedras de crack e 97 papelotes de maconha, armazenadas em local próprio, ponto de venda e movimentação intensa de usuário na residência do réu, demonstrando elementos de conduta rotineira.
+Incidente a Súmula n. 83 do STJ.
+Nos termos da orientação jurisprudencial desta Corte Superior, "elementos tais quais petrechos e anotações típicos de tráfico, balança de precisão, ponto habitual de venda, forma de acondicionamento da droga, entre outros, somados à quantidade e à variedade de entorpecentes, são idôneos para afastar a benesse do tráfico privilegiado, pois indicam a dedicação do acusado a atividades ilícitas" (AgRg no AREsp n. 2.181.966/MS, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 7/3/2023, DJe de 10/3/2023).
+No mesmo sentido:
+AGRAVO REGIMENTAL EM AGRAVO EM RECURSO ESPECIAL. PENAL E PROCESSUAL PENAL. TRÁFICO DE DROGAS. TRÁFICO PRIVILEGIADO. NÃO INCIDÊNCIA. PETRECHOS APREENDIDOS. DEDICAÇÃO A ATIVIDADES CRIMINOSAS. REEXAME DE PROVAS. IMPOSSIBILIDADE. SÚMULA 7/STJ.
+1. A apreensão de expressiva quantidade de droga, aliada à existência de balanças de precisão e outros petrechos, evidencia a dedicação do agente à atividade criminosa, o que afasta a aplicação da minorante prevista no § 4º do art. 33 da Lei n. 11.343/2006.
+2. A alteração das conclusões adotadas pelo Tribunal de origem demandaria o reexame do conjunto fático-probatório, providência vedada em sede de recurso especial, a teor da Súmula 7/STJ.
+3. Agravo regimental improvido.
+(AgRg no AREsp n. 2.681.556/SP, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 15/10/2025, DJEN de 21/10/2025.)
+Chegar a entendimento diverso demandaria reexame de provas, providência inviável na via especial, por força do óbice da Súmula n. 7 do STJ, que veda o revolvimento do conjunto fático-probatório já analisado pelas instâncias ordinárias.
+A propósito:
+DIREITO PENAL. RECURSO ESPECIAL. TRÁFICO DE DROGAS. LEGALIDADE DA BUSCA DOMICILIAR. MANDADO JUDICIAL EXPEDIDO POR AUTORIDADE COMPETENTE. DILIGÊNCIA ACOMPANHADA POR TESTEMUNHA. OBSERVÂNCIA DO ARTIGO 245 DO CPP. MINORANTE DO TRÁFICO PRIVILEGIADO. AUSÊNCIA DOS REQUISITOS LEGAIS. ART. 33, § 4º, LEI 11343.2006. DEDICAÇÃO ÀS ATIVIDADES CRIMINOSAS. RECURSO DESPROVIDO.
+I. Caso em exame
+1. Recurso especial interposto contra acórdão que manteve condenação por tráfico de drogas.
+2. O Tribunal de origem afastou a nulidade da busca e apreensão e negou a aplicação do tráfico privilegiado, considerando a dedicação do réu à atividade criminosa.
+II. Questões em discussão
+3. Há duas questões em discussão: (i) se o cumprimento do mandado judicial de busca e apreensão na residência do recorrente sem a sua presença, mas acompanhado por terceiro, é válido; (ii) se o recorrente preenche os requisitos legais para a aplicação da causa de diminuição de pena do art. 33, § 4º, da Lei n. 11.343/2006
+III. Razões de decidir
+4. A ausência do acusado, proprietário do imóvel, no momento do cumprimento do mandado judicial de busca e apreensão não macula o procedimento, pois a entrada dos agentes foi acompanhada por uma testemunha, não havendo falar em contrariedade ao artigo 245, § 4º, do Código de Processo Penal.
+5. A dedicação do réu a atividades criminosas, evidenciada por provas nos autos, impede a aplicação da minorante do tráfico privilegiado.
+6. O Tribunal de origem negou a aplicação da causa de diminuição de pena sopesando que as diversas denúncias que apontam o recorrente comanda o tráfico na região, além de outros elementos indicativos de sua habitualidade criminosa, dentre eles o depoimento do usuário abordado.
+7. Diante da conclusão das instâncias ordinárias, para se acolher a tese de que o agente não se dedicava às atividades criminosas, seria necessário o reexame aprofundado das provas, providência inadmissível na via do apelo nobre, em razão do óbice da Súmula n. 7 do STJ.
+IV. Dispositivo e tese
+8. Recurso desprovido.
+(REsp n. 2.011.492/PR, relatora Ministra Daniela Teixeira, Quinta Turma, julgado em 3/12/2024, DJEN de 18/12/2024, grifei.)
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. TRÁFICO DE DROGAS, ASSOCIAÇÃO PARA O TRÁFICO E POSSE ILEGAL DE MUNIÇÃO DE USO RESTRITO. PRESCRIÇÃO DA PRETENSÃO PUNITIVA. MATÉRIA NÃO APRECIADA PELO TRIBUNAL DE ORIGEM. SUPRESSÃO DE INSTÂNCIA. CONDENAÇÃO MANTIDA. REEXAME DE PROVAS. SÚMULA N. 7/STJ. DOSIMETRIA DA PENA. FUNDAMENTAÇÃO IDÔNEA. TRÁFICO PRIVILEGIADO. NÃO PREENCHIMENTO DOS REQUISITOS. DEDICAÇÃO À ATIVIDADE CRIMINOSA DEMONSTRADA. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. Inviável o conhecimento da tese de prescrição da pretensão punitiva relativa ao delito do art. 12 da Lei n. 10.826/2003, por não ter sido objeto de deliberação pelo Tribunal de origem, sob pena de indevida supressão de instância.
+2. A Corte a quo concluiu que a condenação pelos crimes de tráfico e associação para o tráfico de drogas foi baseada em farto conjunto probatório, compreendendo depoimentos testemunhais, laudos periciais, documentos e interceptações telefônicas.
+3. Nesse contexto, a análise das teses absolutórias relativas aos delitos de tráfico de drogas e associação para o tráfico demandaria revolvimento do conjunto fático-probatório dos autos, providência vedada na via eleita, nos termos da Súmula n. 7/STJ.
+4. A pena-base foi fixada com adequada fundamentação, em razão da quantidade e da natureza das drogas apreendidas, nos termos do art. 42 da Lei n. 11.343/2006.
+5. Correta a exclusão das circunstâncias judiciais dos motivos, circunstâncias e consequências do crime, por fundamentação genérica ou ínsita ao tipo penal.
+6. Inviável a aplicação da causa especial de diminuição de pena do art. 33, § 4º, da Lei n. 11.343/2006, diante de elementos concretos que demonstram dedicação da ré à atividade criminosa, com vínculo associativo e atuação reiterada.
+7. Reanalisar os fatos que ensejaram o afastamento da figura do tráfico privilegiado pela Corte de origem também demandaria revolvimento do conjunto fático-probatório, o que, em sede de recurso especial, constitui providência vedada pelo óbice da Súmula n. 7/STJ 8. Agravo regimental não provido.
+(AgRg no AREsp n. 2.508.449/RN, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 22/4/2025, DJEN de 30/4/2025, grifei.)
+DIREITO PENAL E PROCESSUAL PENAL. AGRAVO REGIMENTAL EM HABEAS CORPUS SUBSTITUTIVO. TRÁFICO DE DROGAS. VENDA DE DROGAS POR DELIVERY. APREENSÃO DE 8 QUILOS DE MACONHA. NEGATIVA DE TRÁFICO PRIVILEGIADO. FIXAÇÃO DO REGIME FECHADO. AGRAVO DESPROVIDO.
+I. CASO EM EXAME
+1. Agravo regimental interposto contra decisão monocrática que não conheceu de habeas corpus substitutivo de recurso próprio, por ausência de flagrante ilegalidade. A agravante foi condenada por tráfico de drogas, tendo o Juízo de primeiro grau reconhecido a causa de diminuição de pena do art. 33, § 4º, da Lei n. 11.343/2006.
+O Tribunal de Justiça de São Paulo, no entanto, afastou o privilégio com fundamento na dedicação profissional da ré ao tráfico via delivery, com estruturação da atividade e ligação com traficantes. Sustenta-se no recurso a ilegalidade da decisão por fragilidade das provas, ausência de associação criminosa e primariedade da acusada.
+II. QUESTÃO EM DISCUSSÃO
+2. Há duas questões em discussão: (i) definir se a agravante faz jus à aplicação da causa de diminuição de pena do tráfico privilegiado;
+(ii) estabelecer se é possível a fixação de regime inicial fechado, mesmo com pena inferior a 8 anos.
+III. RAZÕES DE DECIDIR
+3. O habeas corpus não pode ser utilizado como substitutivo de recurso próprio, salvo em casos de flagrante ilegalidade, abuso de poder ou teratologia, o que não se verifica no caso.
+4. A negativa do tráfico privilegiado está adequadamente fundamentada em elementos probatórios que demonstram dedicação profissional ao tráfico, com organização de esquema de entrega de drogas por delivery e vínculo com traficantes conhecidos, o que afasta os requisitos subjetivos da benesse.
+5. A análise das instâncias ordinárias é soberana quanto à valoração das provas e das circunstâncias do crime, sendo inviável sua revisão na via estreita do habeas corpus, especialmente diante do óbice da Súmula 7 do STJ.
+6. A fixação do regime inicial fechado está juridicamente justificada com base na valoração negativa das circunstâncias judiciais, especialmente pela grande quantidade de drogas apreendidas (mais de 8 kg de maconha), nos termos do art. 59 e art. 33, § 3º, ambos do Código Penal, e do art. 42 da Lei de Drogas.
+IV. DISPOSITIVO E TESE
+7. Agravo regimental desprovido.
+Teses de julgamento: (a) o habeas corpus não é admissível como substitutivo de recurso próprio e a concessão de ofício da ordem depende de flagrante constrangimento ilegal; (b) a dedicação profissional ao tráfico e o vínculo com organização criminosa afastam o benefício do tráfico privilegiado; (c) a apreensão de grande quantidade de drogas justifica a fixação de regime inicial fechado, ainda que a pena aplicada seja inferior a oito anos.
+(AgRg no HC n. 981.156/SP, relator Ministro Carlos Cini Marchionatti - Desembargador convocado do TJRS, Quinta Turma, julgado em 24/6/2025, DJEN de 30/6/2025, grifei.)
+Por fim, registre-se que, n  os termos do art. 932, III, do Código de Processo Civil, incumbe monocraticamente ao relator "não conhecer de recurso inadmissível", hipótese amparada também pelo art. 253, parágrafo único, II, a, do Regimento Interno do Superior Tribunal de Justiça.
+Ante o exposto, conheço do agravo e não conheço do recurso especial.
+Publique-se. Intimem-se.
+ EMENTA
