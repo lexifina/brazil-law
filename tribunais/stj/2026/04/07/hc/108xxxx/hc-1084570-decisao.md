@@ -1,0 +1,25 @@
+DECISÃO
+Trata-se de habeas corpus com pedido de liminar impetrado em favor de LEANDRO HENRIQUE SOUZA MENDES, em que se aponta como autoridade coatora o Desembargador relator do TRIBUNAL REGIONAL FEDERAL DA 4ª REGIÃO.
+Narra a defesa que o juízo de origem homologou o flagrante e concedeu liberdade provisória condicionada ao pagamento de fiança no montante de R$ 200.000,00 (duzentos mil reais) . Informa que o pedido de redução e parcelamento da fiança foi indeferido, apesar de documentação que, segundo a impetração, demonstraria a hipossuficiência econômica do paciente.
+No presente writ, a defesa sustenta que o paciente permanece preso tão somente pelo inadimplemento da fiança arbitrada, sem a demonstração dos requisitos do artigo 312 do Código de Processo Penal, e afirma que ostenta condições pessoais favoráveis.
+Assevera, ainda, que medidas cautelares diversas da prisão, previstas no artigo 319 do Código de Processo Penal, seriam adequadas e suficientes para acautelar o caso.
+Requer o afastamento da exigência de pagamento da fiança arbitrada, com a expedição de alvará de soltura, por ausência de requisitos do artigo 312 do Código de Processo Penal, com eventual imposição das medidas cautelares do artigo 319 do Código de Processo Penal; subsidiariamente, pede a redução do valor e o parcelamento da fiança em dez pagamentos .
+É o relatório. DECIDO.
+Os autos não versam sobre hipótese que admite a pretendida valoração antecipada da matéria, pois, pela análise da quaestio trazida à baila na exordial, verifica-se que o habeas corpus investe contra liminar. De fato, ressalvadas hipóteses excepcionais descabe o instrumento heroico em situação como a presente, sob pena de ensejar supressão de instância.
+A matéria, inclusive, já se encontra sumulada: "Não compete ao Supremo Tribunal Federal conhecer de habeas corpus impetrado contra decisão do Relator que, em habeas corpus requerido a tribunal superior, indefere a liminar" (Súmula nº 691/STF).
+No caso dos autos, no entanto, é de se superar a incidência do enunciado sumular, ante a ocorrência de flagrante ilegalidade.
+Não se mostra proporcional a manutenção do paciente na prisão tão somente em razão do não pagamento de fiança, visto que o caso não configura excepcionalidade imprescindível para o decreto preventivo.
+Ressalte-se que a Terceira Seção do Superior Tribunal de Justiça, no julgamento do HC n. 568.693/ES, confirmou a liminar concedida pelo relator, Ministro Sebastião Reis Júnior, e determinou a soltura de todas as pessoas do país cuja liberdade provisória fora condicionada ao pagamento de fiança e ainda se encontram submetidas à privação cautelar de liberdade devido ao não pagamento do valor, mantendo a possibilidade de imposição de outras medidas substitutivas da fiança, caso necessária.
+Estão evidenciados, portanto, o fumus boni iuris e o periculum in mora, o que autoriza o deferimento da medida.
+In casu, o paciente não pode permanecer preso apenas por não possuir condições econômicas para pagar o valor da fiança.
+Cumpre destacar, ainda, que outras medidas cautelares diversas da prisão, previstas no art. 319 do Código de Processo Penal, se mostram, neste momento, adequadas e suficientes para resguardar a ordem pública, assegurar a instrução criminal e garantir a aplicação da lei penal, atendendo plenamente às peculiaridades do caso concreto.
+Diante desse contexto, a manutenção da fiança revela-se desproporcional e desnecessária, sobretudo porque já foram apreendidas as canetas emagrecedoras e os anabolizantes, além da demonstração da hipossuficiência econômica do paciente e de tratar-se de crime sem violência.
+Outrossim, não se trata de elidir o caráter coercitivo da fiança, mas, sim, de reconhecer no caso concreto que, a par da incapacidade financeira, o paciente se encontra com a liberdade de locomoção restringida diante do valor fixado.
+Sobre o tema:
+"Embora não haja nos autos prova plena acerca das condições financeiras do Agravante para arcar ou não com o valor da fiança arbitrada, o fato de o Acusado estar preso sem ter pago a importância arbitrada indica que a falta do recurso realmente é o fator que impede sua liberdade" (AgRg no HC n. 816.299/ES, Sexta Turma, Rel. Min. Laurita Vaz, DJe de 19/6/2023).
+"o arbitramento da fiança em valor elevado para réu que demonstrou hipossuficiência econômica caracteriza flagrante ilegalidade, pois viola os princípios da proporcionalidade e da razoabilidade" (AgRg no HC n. 880.615/SC, relatora Ministra Daniela Teixeira, Quinta Turma, DJe de 30/10/2024).
+Desse modo, encontrando-se o paciente com a liberdade restringida única e exclusivamente por não possuir condições de adimplir o valor arbitrado a título de fiança, não se mostra razoável e proporcional a negativa de concessão de liberdade provisória.
+Ante o exposto, concedo a ordem para afastar a fiança arbitrada na origem e autorizar que o paciente aguarde em liberdade o julgamento do processo, destacando ser imperioso a imposição das medidas cautelares alternativas, previstas no art. 319 do Código de Processo Penal.
+Comunique-se para cumprimento.
+Publique-se. Intimem -se.
+ EMENTA
