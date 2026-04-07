@@ -1,0 +1,61 @@
+DECISÃO
+Trata-se de recurso especial interposto por ELISEU CARDOSO contra acórdão assim ementado (fl. 184):
+APELAÇÃO CRIMINAL. CRIME CONTRA O PATRIMÔNIO. LATROCÍNIO (CÓDIGO PENAL, ART. 157, § 3º, II). SENTENÇA CONDENATÓRIA. INSURGIMENTO DA DEFESA.
+DOSIMETRIA DA PENA. ESTÁGIO INTERMEDIÁRIO. PLEITEADO RECONHECIMENTO DA CIRCUNSTÂNCIA ATENUANTE DA CONFISSÃO ESPONTÂNEA. INVIABILIDADE. ADMISSÃO NA FORMA QUALIFICADA QUE NÃO TEM O CONDÃO DE ABRANDAR A REPRIMENDA. ADEMAIS, RELATO NÃO CONSIDERADO PELO SENTENCIANTE PARA FUNDAMENTAR O DECISUM.
+ARBITRAMENTO DE HONORÁRIOS ADVOCATÍCIOS. DEFENSOR NOMEADO EXCLUSIVAMENTE PARA APRESENTAR AS RAZÕES RECURSAIS. VERBA DEVIDA.
+RECURSO CONHECIDO E DESPROVIDO.
+Consta dos autos que o recorrente foi condenado às penas de 26 anos e 8 meses de reclusão no regime inicial fechado e de 13 dias-multa, como incurso no art. 157, § 3º, II, do Código Penal.
+No recurso especial, interposto com fundamento no art. 105, III, a e c, da Constituição Federal, a defesa sustenta violação dos arts. 65, III, d, do Código Penal e 5º, XXXVIII, LIV e LV, da Constituição Federal, sob o argumento de que a admissão da autoria em juízo, ainda que acompanhada de justificativa quanto ao estado de entorpecimento, impõe o reconhecimento da atenuante legal.
+Requer o conhecimento e o provimento do recurso a fim de que seja reconhecida a atenuante da confissão espontânea, com o consequente redimensionamento da pena.
+As contrarrazões foram apresentadas (fls. 206-211) e o recurso foi admitido pela Corte de origem (fls. 212-215).
+O Ministério Público Federal manifestou-se pelo improvimento do recurso especial (fls. 227-231).
+É o relatório.
+Inicialmente, cumpre esclarecer que " é  inviável a análise, em recurso especial, da irresignação fundada na violação a artigos ou princípios constitucionais. A uma, por se tratar de matéria reservada à apreciação do Supremo Tribunal Federal e, a duas, por não se inserirem no conceito de lei federal, nos termos do art. 105, III, da Constituição Federal" (AREsp n. 2.960.045/PI, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 16/10/2025, DJEN de 23/10/2025.)
+Ademais, destaco que, " n a hipótese de interposição pela alínea "c" do art. 105, III, da CF, exige-se a demonstração analítica das circunstâncias que evidenciam a divergência jurisprudencial, com cotejo analítico que evidencie, de maneira clara e objetiva, as semelhanças entre os casos confrontados e as razões da divergência; a mera transcrição de ementas ou trechos de julgados é insuficiente para o conhecimento do recurso especial" (AgRg no AREsp n. 2.405.789/MG, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 9/12/2025, DJEN de 18/12/2025.)
+O Tribunal de origem afastou a incidência da atenuante da confissão espontânea nos seguintes termos (fls. 181-182):
+Consoante relatado, almeja o apelante o reconhecimento da circunstância atenuante da confissão espontânea.
+Razão, todavia, não lhe assiste.
+ ..
+Na espécie, o réu limitou-se a responder "sim" quando questionado a respeito da veracidade da acusação, passando a argumentar na sequência que não se lembra do que aconteceu, porquanto estava sob efeito de drogas, não sabendo descrever o que "fez ou deixou de fazer", "mas está sendo acusado" de ter matado a vítima (sic, vídeo 1 do evento 104 da ação penal).
+Assim, o simples fato de haver alegado que o episódio ocorreu em razão de fatores externos, como o uso de drogas, tal qual na espécie, não se mostra suficiente para a incidência da confissão espontânea, notadamente quando evidente a intenção única e exclusiva de ver minorada a sanção.
+Assinala-se que "A confissão qualificada, em que o acusado admite a autoria, mas alega ter agido acobertado por causa excludente da ilicitude (confessa ter matado em legítima defesa), não atenua a pena, já que, neste caso, o acusado não estaria propriamente colaborando para a elucidação da autoria, tampouco concordando com a pretensão acusatória, mas agindo no exercício do direito de autodefesa" (CAPEZ, Fernando. Curso de direito penal - parte geral: Arts. 1º a 120. 29. ed. São Paulo: SaraivaJur, 2025, v. 1. p. 433).
+ ..
+Não bastasse, as palavras do apelante sequer foram consideradas pelo Magistrado para fundamentar o decreto condenatório.
+Logo, evidente que não se configura a situação preconizada na Súmula n. 545 do Superior Tribunal de Justiça.
+Por oportuno, extrai-se da sentença (fls. 116-117):
+Ao ser interrogado pela Autoridade Policial acercados fatos, o acusado ELISEU CARDOSOalegou que pegou o veculo de um indivduo chamado "Bira" e depois vendeu o carro pelo valor de R$ 2.000,00 (dois mil reais) para comprar entorpecentes  .. .
+Sob o crivo do contraditrio e da ampla defesa, o ru ELISEU CARDOSO afirmou que estava sob efeito de drogas e no se recorda como se deram os fatos:
+ ..  Questionado pelomagistradose verdadeira a acusao, respondeu: verdade. Eu no lembro como aconteceu, estava sob efeito de drogas. Tinha tomado umas cachaastambm. Venho sofrendo desde a infncia com isso. Eu no lembro muito bem o que aconteceu ali. Eu no sei dizer o que eu fiz ou deixei de fazer.
+Sem perguntas pelo Ministrio Pblico.
+Dada a palavra assistente de acusao:
+Questionado se estava no local sozinho, respondeu: Estava sozinho, sempre frequentei aquele local para usar entorpecentes. Questionado se foi ali com o intuito de roubar, respondeu: No fui ali com o intuito de roubar ningum, de matar ningum. Questionado do motivo de ter acontecido a morte, a violncia, respondeu: Eu estava ali usando droga, ele chegou e falou que no queria ningum no barco dele. Ento, comeamos a discutir e eu no lembro o que aconteceu. Questionado se recorda que matou ele, respondeu; Eu tenho conscincia que matei ele, o que esto me acusando, mas no sei dizer o que aconteceu. Questionado se saiu com o carro dele, respondeu: Sim, eu sai com o carro, fiquei apavorado com a discusso e peguei o carro para fugir. Larguei o carro em um bairro mais para frente. Antes, fui na minha irm para pegar gasolina para colocar no carro, mas no era para gasolina e sim para pegar mais drogas. Questionado se estava de tnis, respondeu: Estava de sandlia. No lembro a roupa que eu estava  .. .
+Não obstante a conclusão da Corte de origem, o art. 65, III, d, do Código Penal dispõe que a pena será atenuada quando o agente "tiver confessado espontaneamente, perante a autoridade, a autoria do crime".
+Trata-se de causa obrigatória de redução da pena, cuja aplicação não se condiciona à forma pela qual influenciou o convencimento do julgador, nem à circunstância de ser parcial, qualificada ou extrajudicial.
+Com efeito, a Terceira Seção desta Corte Superior, no julgamento do Recurso Especial n. 2.001.973/RS (Tema repetitivo n. 1.194), revisou as Súmulas n. 545 e 630, fixando as seguintes teses:
+1. A atenuante genérica da confissão espontânea, prevista no art. 65, III, d, do Código Penal, é apta a abrandar a pena independentemente de ter sido utilizada na formação do convencimento do julgador e mesmo que existam outros elementos suficientes de prova, desde que não tenha havido retratação, exceto, neste último caso, que a confissão tenha servido à apuração dos fatos.
+2. A atenuação deve ser aplicada em menor proporção e não poderá ser considerada preponderante no concurso com agravantes quando o fato confessado for tipificado com menor pena ou caracterizar circunstância excludente da tipicidade, da ilicitude ou da culpabilidade.
+Dessa forma, a decisão do Tribunal de origem, ao afastar a incidência da atenuante prevista no art. 65, III, d, do Código Penal (confissão espontânea), diverge da orientação jurisprudencial do Superior Tribunal de Justiça.
+A propósito:
+RECURSO ESPECIAL. FURTO QUALIFICADO. DOSIMETRIA. CULPABILIDADE. EXASPERAÇÃO DA PENA-BASE. DELITO COMETIDO DURANTE REPOUSO NOTURNO. FUNDAMENTAÇÃO IDÔNEA. CONFISSÃO ESPONTÂNEA. ATENUANTE PREVISTA NO ART. 65, III, D, DO CÓDIGO PENAL. APLICABILIDADE INDEPENDENTEMENTE DE SUA INFLUÊNCIA NO CONVENCIMENTO DO JULGADOR OU DE SER PARCIAL/QUALIFICADA. JURISPRUDÊNCIA CONSOLIDADA DO STJ. REDIMENSIONAMENTO DA PENA. RECURSO ESPECIAL PARCIALMENTE PROVIDO.
+I. Caso em exame
+1. Recurso especial interposto contra o acórdão do Tribunal de Justiça do Piauí que manteve a condenação do recorrente por furto qualificado, reduzindo a pena a 3 anos, 2 meses e 3 dias de reclusão, e 22 dias-multa. O recorrente pleiteia o redimensionamento da pena, mediante a reanálise da negativação da culpabilidade e o reconhecimento da atenuante da confissão espontânea.
+II. Questão em discussão
+2. Há duas questões em discussão: (i) verificar a validade dos fundamentos utilizados para a negativação da culpabilidade na primeira fase da dosimetria da pena; (ii) analisar se a confissão parcial, não utilizada para o convencimento do julgador, pode ser reconhecida como circunstância atenuante nos termos do art. 65, III, d, do Código Penal.
+III. Razões de decidir
+3. Não obstante este Superior Tribunal tenha consolidado entendimento no sentido de que a causa de aumento prevista no § 1º do art. 155 do Código Penal (prática do crime de furto no período noturno) não incide no crime de furto na sua forma qualificada (Tema 1.087), é possível ao Juízo de primeiro grau, com base nas circunstâncias do caso concreto, fundamentar a exasperação da pena-base em razão de o delito ter sido cometido durante o repouso noturno.
+4. A jurisprudência desta Corte de Justiça, firmada no REsp n. 1.972.098/SC, é no sentido de que, feita a confissão, o réu terá direito à atenuante correspondente, independentemente de sua influência no convencimento do julgador e de ser parcial, qualificada, extrajudicial ou retratada.
+IV. Dispositivo e tese
+5. Recurso especial parcialmente provido.
+Tese de julgamento: "1. A confissão espontânea deve ser reconhecida como atenuante, ainda que parcial ou qualificada, e independentemente de sua influência no convencimento do julgador. 2. É cabível a exasperação da pena-base em razão de o furto ter sido cometido durante o repouso noturno".
+ ..
+(REsp n. 2.183.558/PI, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 18/6/2025, DJEN de 26/6/2025, grifei.)
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO AOS FUNDAMENTOS DA DECISÃO RECORRIDA. AGRAVO NÃO CONHECIDO. PRESENÇA DE ILEGALIDADE FLAGRANTE NA DOSIMETRIA. CONFISSÃO ESPONTÂNEA. AFASTAMENTO POR SER QUALIFICADA E NÃO TER SIDO UTILIZADA COMO FUNDAMENTO DA CONDENAÇÃO. ENTENDIMENTO CONTRÁRIO À JURISPRUDÊNCIA DO STJ. DIREITO À APLICAÇÃO DA ATENUANTE. CONCESSÃO DE HABEAS CORPUS DE OFÍCIO PARA REDUZIR A PENA.
+1. A ausência de impugnação específica aos fundamentos da decisão recorrida, ônus da parte recorrente, atrai a incidência do art. 1.021, § 1º, do CPC e da Súmula n. 182 desta Corte.
+2. Constatada a presença de ilegalidade flagrante a justificar a concessão de habeas corpus de ofício, diante do afastamento da atenuante da confissão espontânea por ser qualificada e por não ter sido utilizada como fundamento da condenação.
+3. Nos termos da jurisprudência pacífica do STJ, "o réu fará jus à atenuante do art. 65, III, d, do CP quando houver admitido a autoria do crime perante a autoridade, independentemente de a confissão ser utilizada pelo juiz como um dos fundamentos da sentença condenatória, e mesmo que seja ela parcial, qualificada, extrajudicial ou retratada" (AgRg no AREsp n. 1.907.143/DF, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 7/3/2023, DJe de 13/3/2023).
+4. Agravo regimental não conhecido. Concedido habeas corpus de ofício, nos termos do art. 654, § 2º, do CPP, para, reconhecendo a atenuante da confissão espontânea, reduzir as penas a 4 anos e 8 meses de reclusão e 22 dias-multa, mantida, no mais, a condenação.
+(AgRg no AREsp n. 2.869.358/SC, relator Ministro Carlos Cini Marchionatti - Desembargador convocado TJRS -, Quinta Turma, julgado em 8/4/2025, DJEN de 11/4/2025, grifei.)
+Assim, impõe-se a reforma do acórdão recorrido, a fim de se reconhecer a incidência da atenuante da confissão espontânea.
+Ante o exposto, conheço em parte do recurso especial e, nessa extensão, dou-lhe provimento, para determinar que o Tribunal de origem individualize novamente a pena aplicada ao recorrente, conforme os fundamentos expostos nesta decisão.
+Publique-se. Intimem-se.
+EMENTA
