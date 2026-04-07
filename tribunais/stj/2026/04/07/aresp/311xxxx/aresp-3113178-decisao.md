@@ -1,0 +1,32 @@
+DECISÃO
+Trata-se de agravo interposto por GILMAR DE OLIVEIRA MUNIZ contra decisão que inadmitiu recurso especial, este fundado no art. 105, III, alíneas "a" e "c", da Constituição Federal, manejado em face de acórdão proferido pelo Tribunal de Justiça do Estado do Paraná no julgamento da Apelação Criminal n. 0010735-50.2024.8.16.0028 (fls. 11.705/11.715).
+Consta dos autos que o agravante foi condenado em primeira instância pela prática dos crimes previstos no art. 16, caput e § 1º, IV, da Lei n. 10.826/2003, e no art. 180 do Código Penal. Interposta apelação pela defesa, o Tribunal de origem deu parcial provimento ao recurso para reconhecer a existência de crime único entre os delitos do Estatuto do Desarmamento, redimensionando a pena para 5 (cinco) anos, 10 (dez) meses e 12 (doze) dias de reclusão, em regime fechado, e para determinar a restituição de valores apreendidos (fls. 11.271/11.296).
+Nas razões do recurso especial, a defesa suscitou, em síntese, a violação do art. 619 do Código de Processo Penal, por omissão do Tribunal de origem em se manifestar sobre prova de vídeo que, segundo alega, comprovaria a tortura sofrida pelo réu e a violação do art. 1º da Lei n. 9.455/1997 e do art. 157 do Código de Processo Penal, ao argumento de nulidade das provas obtidas mediante tortura (fls. 11.650/11.673).
+Contrarrazões à fls. 11.683/11.685.
+O Tribunal a quo inadmitiu o recurso especial com fundamento na incidência das Súmulas n. 7 e 83 do Superior Tribunal de Justiça (fls. 11.689/11.693).
+No presente agravo, o recorrente sustenta a inaplicabilidade dos referidos óbices sumulares, defendendo que a controvérsia não demanda reexame fático-probatório, mas revaloração jurídica das provas, e que o acórdão recorrido diverge da jurisprudência desta Corte.
+O Ministério Público Federal opinou pelo não conhecimento do agravo (fls. 11.840/11.849).
+É o relatório.
+Decido.
+O agravo não merece ser conhecido.
+A decisão de inadmissibilidade do recurso especial foi fundamentada na incidência dos óbices das Súmulas n. 7 ("A pretensão de simples reexame de prova não enseja recurso especial") e 83 ("Não se conhece do recurso especial pela divergência, quando a orientação do tribunal se firmou no mesmo sentido da decisão recorrida") desta Corte Superior.
+Nas razões do agravo, contudo, o recorrente não logrou infirmar, de maneira específica e pormenorizada, os fundamentos da decisão agravada, limitando-se a tecer alegações genéricas sobre a inaplicabilidade dos referidos enunciados sumulares.
+Com efeito, a jurisprudência deste Superior Tribunal de Justiça é pacífica no sentido de que a parte agravante deve demonstrar, de forma fundamentada, o equívoco da decisão de inadmissibilidade, rebatendo todos os seus pontos. A mera reiteração dos argumentos do recurso especial ou a impugnação genérica dos óbices aplicados não é suficiente para atender ao princípio da dialeticidade recursal.
+Nesse prisma, para afastar a incidência da Súmula n. 7/STJ, não basta ao recorrente afirmar que a questão é de revaloração jurídica; cumpre-lhe demonstrar, a partir das premissas fáticas estabelecidas no acórdão recorrido, como a sua tese não demanda o reexame do acervo probatório, o que não ocorreu na espécie.
+Tampouco prospera o argumento de violação à paridade de armas em razão da admissão do recurso especial do Ministério Público. Aquele recurso tem por objeto a restituição de valores apreendidos, matéria de direito que prescinde de reexame probatório.
+A tramitação paralela de recursos com objetos distintos não impõe tratamento isonômico quanto aos pressupostos de admissibilidade, que são aferidos individualmente em relação a cada impugnação.
+Da mesma forma, para infirmar a aplicação da Súmula n. 83/STJ, é imprescindível que o agravante demonstre que o entendimento do Tribunal de origem diverge da jurisprudência consolidada nesta Corte, mediante a colação de precedentes contemporâneos ou supervenientes que amparem sua tese, ônus do qual não se desincumbiu.
+A ausência de impugnação específica e suficiente dos fundamentos que obstaram o seguimento do recurso especial atrai a incidência, por analogia, da Súmula n. 182 do STJ, que dispõe: "É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada".
+Nesse sentido, esta corte:
+DIREITO PENAL. PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. HOMICÍDIO QUALIFICADO TENTADO. OFENSA AO PRINCÍPIO DA DIALETICIDADE. SÚMULA 182, STJ. DOSIMETRIA DA PENA. CONSEQUÊNCIAS DO CRIME. DESDOBRAMENTOS INERENTES AO TIPO PENAL. PRECEDENTES. INDENIZAÇÃO PELOS DANOS CAUSADOS. ART. 387, IV, CPP. REQUISITOS PACIFICADOS PELA TERCEIRA SEÇÃO. NECESSIDADE DE INSTRUÇÃO ESPECÍFICA.
+I - A ausência de impugnação específica e pormenorizada aos fundamentos da decisão agravada inviabiliza o conhecimento do recurso por violação ao princípio da dialeticidade, sendo insuficiente a reiteração do mérito da controvérsia. Incidência da Súmula n. 182, STJ.
+II - O escopo do recurso especial é mais restrito que o da apelação, motivo pelo qual é inviável concluir que as consequências do crime foram mais graves do que as descritas pelo Tribunal de origem.
+III - No caso dos autos, o Tribunal de Justiça afirmou que os desdobramentos dos crimes foram inerentes ao tipo penal, pois as vítimas conseguiram se recuperar e puderam retomar suas atividades em curto e médio prazo.
+IV - Não é razoável atribuir valor negativo às consequências do crime quando estas forem normais ao tipo penal violado, ou, ainda, na hipótese em que o Tribunal de origem não discorreu suficientemente sobre os danos experimentados pelas vítimas.
+Ademais, a incapacidade de exercer as atividades habituais por mais de 30 dias, por si só, não conduz à conclusão de que foram extrapoladas as consequências ínsitas à tentativa de homicídio qualificado. Precedentes.
+V - A Quinta e a Sexta Turmas divergiam quanto aos requisitos exigidos para os fins do art. 387, inciso IV, do Código de Processo Penal. Nada obstante, a Terceira Seção firmou entendimento no mesmo sentido adotado na decisão agravada, isto é, de que a fixação de indenização mínima em virtude da prática delitiva requer, em regra, a realização de instrução específica.
+Agravo regimental conhecido em parte e, nessa extensão, desprovido.
+(AgRg no AgRg no AREsp n. 2.243.176/RN, relator Ministro Messod Azulay Neto, Quinta Turma, julgado em 7/5/2024, DJe de 15/5/2024.)
+Ante o exposto, não conheço do agravo.
+Publique-se. Intimem-se.
+EMENTA
