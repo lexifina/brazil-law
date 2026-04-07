@@ -1,0 +1,11 @@
+DECISÃO
+Trata-se de conflito negativo de competência suscitado pelo Juízo de Direito da 16ª Vara da Fazenda Pública da Comarca de São Paulo em desfavor do Tribunal de Justiça do Estado da Bahia, nos autos do cumprimento individual de sentença coletiva ajuizado por Nelma Ribeiro de Santana em face do Estado da Bahia, visando ao cumprimento da obrigação de fazer decorrente de mandado de segurança coletivo que assegurou a implementação do piso nacional do magistério, com adequação do vencimento/subsídio e reflexos nas demais parcelas.
+A inicial foi distribuída no TJBA, que declinou da competência ao fundamento de que a execução individual de título coletivo deve ser feita perante o juiz de primeiro grau de uma das Varas da Fazenda Pública do domicílio da parte exequente, determinando a remessa dos autos para o foro do domicílio da autora.
+Por sua vez, o Juízo da Fazenda Pública de São Paulo suscitou o presente conflito ao argumento de que: (a) a jurisdição dos Tribunais de Justiça é limitada ao território do respectivo Estado, conforme a Constituição da República e a Constituição do Estado de São Paulo; (b) permitir que a Justiça paulista julgue demanda contra outro ente federado viola o pacto federativo e acarreta prejuízos à defesa do Estado demandado; (c) a interpretação constitucional firmada nas ações diretas de inconstitucionalidade sobre competência territorial deve restringir o foro do domicílio do autor aos limites do ente demandado; e (d) a ação deve tramitar perante a Justiça Estadual da Bahia.
+É o relatório. Decido.
+Nos termos do art. 955, caput, segunda parte, do CPC e do art. 196 do RI/STJ, designo o Tribunal de Justiça do Estado da Bahia, o suscitado, a fim de que delibere, em caráter provisório, a respeito das medidas urgentes.
+Oficie-se aos Juízos que compõem o conflito de competência, informando-os do teor desta decisão.
+Após, dê-se vista dos autos ao Ministério Público Federal, nos termos do art. 64, XII, do RI/STJ.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. CONFLITO NEGATIVO DE COMPETÊNCIA. CUMPRIMENTO INDIVIDUAL DE SENTENÇA COLETIVA. FORO DE DOMICÍLIO DO BENEFICIÁRIO OU O FORO EM QUE PROFERIDA A SENTENÇA COLETIVA. ESCOLHA DO BENEFICIÁRIO. PRECEDENTES. COMPETÊNCIA DO JUÍZO SUSCITADO.
