@@ -1,0 +1,14 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em nome de WESLLEY JHONY TENORIO DA SILVA, preso preventivamente e acusado pela prática do crime de tráfico de drogas (Processo n. 1500705-46.2025.8.26.0551, da 2ª Vara Criminal da comarca de Limeira/SP).
+A impetrante aponta como autoridade coatora a Primeira Câmara de Direito Criminal do Tribunal de Justiça de São Paulo, que denegou o Habeas Corpus n. 20231004220268260000.
+Alega pequena quantidade de droga apreendida e dinheiro em valor reduzido; residência fixa e ocupação lícita; inexistência de violência ou grave ameaça; contradições em depoimentos de guardas municipais; e necessidade de exame de dependência toxicológica com possível desclassificação para o art. 28 da Lei n. 11.343/2006.
+Em caráter liminar, pede soltura com expedição de alvará e, no mérito, requer a revogação da preventiva, com eventual desclassificação da imputação, após exame toxicológico.
+É o relatório.
+Do atento exame dos autos observo que a segregação cautelar do acusado se encontra fundamentada na garantia da ordem pública, com base em elementos concretos: apreensão de trinta e uma porções de cocaína e dinheiro em espécie, em local conhecido por tráfico, e notável reiteração delitiva, pois o paciente é duplamente reincidente, com registros pretéritos por receptação e roubo majorado (fls. 10/12 e 15). O indeferimento da liberdade provisória pelo juízo singular reforçou a necessidade da custódia, destacando o encerramento da instrução e a pendência de perícia requerida pela defesa, bem como a multirreincidência do réu (fl. 21).
+Como se vê, a imposição da prisão preventiva se encontra adequadamente fundamentada a partir da análise particularizada da situação fática dos autos, tendo sido amparada no risco concreto de reiteração delitiva, notadamente porque o autuado ostenta antecedentes criminais, registrando condenações pretéritas, o que justifica a custódia cautelar, nos termos da jurisprudência do Superior Tribunal de Justiça, como forma de resguardar a ordem pública.
+Com efeito, a jurisprudência desta Corte Superior compreende que a preservação da ordem pública justifica a imposição da prisão preventiva quando o agente possuir maus antecedentes, reincidência, atos infracionais pretéritos, inquéritos ou mesmo ações penais em curso, porquanto tais circunstâncias denotam sua contumácia delitiva e, por via de consequência, sua periculosidade (AgRg no RHC n. 159.385/SC, Ministro Antonio Saldanha Palheiro, Sexta Turma, DJe 27/5/2022).
+Indefiro liminarmente o writ (art. 210 do RISTJ).
+Publique-se.
+EMENTA
+DIREITO PROCESSUAL PENAL. HABEAS CORPUS. TRÁFICO DE DROGAS. PRISÃO PREVENTIVA. GARANTIA DA ORDEM PÚBLICA. REITERAÇÃO DELITIVA. DUPLA REINCIDÊNCIA. FUNDAMENTAÇÃO CONCRETA. PRECEDENTES. INDEFERIMENTO LIMINAR DO WRIT.
+Habeas corpus indeferido liminarmente.
