@@ -1,0 +1,29 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de ANDERSON BATISTA DE MORAES, apontando como autoridade coatora o Tribunal de Justiça do Estado do Rio Grande do Sul, nos autos da Apelação Criminal n. 5004214-28.2016.8.21.0001.
+Consta dos autos que o paciente foi denunciado pela suposta prática de tentativa de homicídio qualificado contra duas vítimas, em fatos ocorridos em março de 2014. Submetido a julgamento pelo Conselho de Sentença em 15 de outubro de 2025, o paciente e o corréu foram absolvidos da prática dos crimes imputados, com fundamento no artigo 386, inciso VII, do Código de Processo Penal.
+Irresignado, o Ministério Público interpôs recurso de apelação, sustentando a nulidade do julgamento por violação ao artigo 479 do CPP. O Tribunal de origem acolheu a preliminar para decretar a nulidade do júri e determinar a realização de nova sessão plenária.
+A Defesa alega, em síntese, a inexistência de nulidade posterior à pronúncia, argumentando que a simples menção verbal ao sistema "Consultas Integradas" durante a tréplica não configura leitura ou exibição de documento vedada pelo artigo 479 do CPP.
+Sustenta a ausência de prejuízo concreto à acusação, ressaltando que a própria Juíza Presidente consignou em ata que o incidente não prejudicou a solenidade.
+Argumenta, ainda, que a decisão absolutória encontra amparo na prova dos autos e que a sua cassação ofende a soberania dos veredictos.
+Requer, liminarmente, a suspensão dos efeitos do acórdão e da realização de novo júri. No mérito, pugna pela cassação do acórdão e pelo restabelecimento da sentença absolutória.
+É  o  relatório.
+Decido.
+É consolidada a jurisprudência deste Superior Tribunal de Justiça no sentido de que a prerrogativa do relator para julgar monocraticamente o habeas corpus e o respectivo recurso não é afastada pelas normas regimentais que preveem a oitiva prévia do Ministério Público Federal (arts. 64, III, e 202 do RISTJ), notadamente quando a matéria se conforma com o entendimento dominante desta Corte (AgRg no HC n. 856.046/SP, de relatoria do Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 24/10/2023, DJe de 30/10/2023).
+Esta Corte e o Supremo Tribunal Federal pacificaram o entendimento de que não cabe habeas corpus como substitutivo do recurso legalmente previsto para a hipótese, impondo-se o não conhecimento da impetração, salvo quando constatada a existência de flagrante ilegalidade no ato judicial impugnado (STJ, HC n. 535.063/SP, Terceira Seção, Relator Ministro Sebastião Reis Junior, julgado em 10/6/2020, DJe de 25/8/2020; STF, AgRg no HC n. 180.365/PB, Primeira Turma, Relatora Ministra Rosa Weber, julgado em 27/3/2020, DJe de 2/4/2020; e AgRg no HC n. 147.210/SP, Segunda Turma, Relator Ministro Edson Fachin, julgado em 30/10/2018, DJe de 20/2/2020).
+Ademais,  não  há  ilegalidade  flagrante  que  justifique  a  concessão  de  habeas  corpus  de  ofício.
+No que tange à alegada nulidade, verifica-se que o Tribunal de origem fundamentou de forma idônea a necessidade de anulação do julgamento, demonstrando a ocorrência de prejuízo concreto à acusação. A Corte estadual destacou que a Defesa introduziu dado fático novo e inacessível à refutação imediata ao citar fonte documental oficial não constante do processo. A verificação quanto à efetiva ocorrência desse prejuízo  para infirmar o que foi decidido na origem  demandaria o revolvimento aprofundado de todo o suporte fático-probatório da ação penal, providência vedada em sede de habeas corpus.
+Quanto à tese de que o veredicto absolutório deve ser mantido por estar em harmonia com as provas  ponto que o Tribunal a quo considerou prejudicado em razão da nulidade processual reconhecida  , o exame direto dessa matéria por este Superior Tribunal de Justiça configuraria indevida supressão de instância, visto que o mérito da apelação (art. 593, III, "d", do CPP) não foi objeto de análise pela Corte de origem. Ademais, a verificação da justiça da decisão dos jurados exigiria, igualmente, incursão no material probatório, o que é inviável na via eleita.
+Nesse sentido:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. HOMICÍDIO. SESSÃO PLENÁRIA. ART. 479 DO CPP. INOBSERVÂNCIA. DOCUMENTO UTILIZADO NÃO JUNTADO AOS AUTOS. PREJUÍZO PARA A ACUSAÇÃO. CONCLUSÃO DIVERSA. REVOLVIMENTO FÁTICO-PROBATÓRIO. AGRAVO REGIMENTAL IMPROVIDO.
+1. Verifica-se inobservância ao art. 479 do CPP decorrente da utilização pela defesa, na sessão plenária, de documento que não se encontrava juntado aos autos.
+2. A existência de prejuízo para a acusação, assentada pela Corte de origem, não pode ser revista na presente via, visto que ensejaria indevido revolvimento fático-probatório, vedado em sede de habeas corpus. Precedente.
+3. Agravo regimental improvido.
+(AgRg no HC n. 814.609/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 29/5/2023, DJe de 2/6/2023.)
+REGIMENTAL. AGRAVO EM RECURSO ESPECIAL. JURI. LEITURA DE DOCUMENTO PELA DEFESA NÃO JUNTADO AOS AUTOS. NULIDADE. AUSÊNCIA DE PREJUÍZO. NECESSIDADE DE REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. RECURSO IMPROVIDO.
+1. O artigo 479 da Lei Processual Penal veda a leitura de documento ou a apresentação de objeto que não tiver sido juntado aos autos com a antecedência mínima de 3 (três) dias úteis, dando-se ciência à outra parte.
+2. Desconstituir o entendimento do Tribunal de origem, quanto ao prejuízo causado à acusação, pela apresentação de documento novo pela defesa durante os debates, objetivando afastar a nulidade do julgamento, exige o reexame do conjunto fático-probatório dos autos, inviável na via eleita ante o óbice da Súmula 7/STJ.
+3. Agravo regimental a que se nega provimento.
+(AgRg no AREsp n. 1.003.820/SP, relator Ministro Jorge Mussi, Quinta Turma, julgado em 16/5/2017, DJe de 7/6/2017.)
+Ante o exposto, indefiro liminarmente o presente habeas corpus.
+Publique-se. Intimem-se
+ EMENTA
