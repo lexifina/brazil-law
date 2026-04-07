@@ -1,0 +1,61 @@
+DECISÃO
+Trata-se de habeas corpus com pedido de liminar impetrado em favor de EDSON BANDEIRA JÚNIOR em que se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DO MARANHÃO (Habeas Corpus n. 0825562-51.2025.8.10.0000) .
+Consta dos autos que se conheceu do agravo interno em habeas corpus e a ele foi negado provimento, mantendo-se o não conhecimento da impetração por inadequação da via, diante da impugnação a buscas domiciliar e veicular e à suspensão da CNH, sem ameaça direta à liberdade de locomoção.
+A parte impetrante sustenta que as buscas e a suspensão da CNH foram decretadas sem fundadas razões, em ofensa ao art. 240, § 1º, do CPP, e sem motivação idônea, em afronta ao art. 93, IX, da Constituição Federal.
+Alega que a investigação por associação criminosa, competição automobilística e poluição sonora não individualiza o paciente e se baseia em relatos genéricos que não o identificam nem vinculam seu veículo aos fatos.
+Aduz que os relatórios de inteligência indicam que o veículo do paciente está "conforme fábrica", e que registros de radar e aerolevantamento por drone não apontam sua placa, inexistindo indícios concretos.
+Assevera que o paciente possui compromissos profissionais que demonstram incompatibilidade temporal com os eventos investigados, reforçando a ausência de justa causa.
+Afirma que a decisão de primeiro grau deferiu busca domiciliar, apreensão do veículo, suspensão da CNH por 90 dias e quebra de sigilo de dados, medidas executadas em 10/7/2025, sem fundamentação específica.
+Defende que a diligência é nula por violar a inviolabilidade do domicílio, impondo a exclusão das provas ilícitas e das delas derivadas, nos termos do art. 157 do CPP.
+Entende que a motivação per relationem foi genérica e não individualizou a necessidade e a proporcionalidade das medidas cautelares em relação ao paciente, contrariando o art. 93, IX, da Constituição Federal.
+Pondera que há coação ilegal por ausência de justa causa, nos termos do art. 648, I, do CPP, e que a apreensão do veículo restringe a liberdade de locomoção e o exercício profissional do paciente.
+Informa que a manutenção do inquérito com provas ilícitas causa insegurança e constrangimento psicológico, exigindo pronta intervenção por ilegalidade flagrante.
+Relata que estão presentes fumus boni iuris e periculum in mora, pois o bem apreendido sofre depreciação e a investigação permanece contaminada por elementos nulos.
+Requer, liminarmente e no mérito, a suspensão do processo relacionado às medidas cautelares e a imediata devolução do veículo do paciente; e, no mérito, busca a anulação das decisões que autorizaram as buscas e mantiveram o não conhecimento do habeas corpus, a exclusão das provas ilícitas e o trancamento do inquérito por ausência de justa causa.
+É o relatório.
+A controvérsia diz respeito à possibilidade de o Tribunal de origem deixar de apreciar o mérito do habeas corpus, ao fundamento de inadequação da via eleita.
+O acórdão impugnado deixou de conhecer da impetração com base nos seguintes fundamentos (fls. 18-19, grifei ):
+Conheço do Agravo Regimental, porquanto presentes os pressupostos objetivos e subjetivos de admissibilidade.
+No mérito, todavia, o recurso não merece provimento.
+De início, impõe-se delimitar corretamente o alcance da controvérsia posta em julgamento. A decisão monocrática agravada não adentrou o mérito das teses suscitadas no habeas corpus, tampouco apreciou a legalidade ou não das medidas cautelares impostas ao paciente. O indeferimento liminar da impetração ocorreu exclusivamente em razão de sua manifesta inadmissibilidade, por utilização do writ como sucedâneo de recurso próprio, nos termos do art. 415, parágrafo único, do Regimento Interno deste Tribunal, em consonância com a orientação consolidada do Supremo Tribunal Federal e do Superior Tribunal de Justiça.
+Assim, não procede qualquer alegação de que as teses defensivas tenham sido enfrentadas ou rejeitadas na decisão monocrática. Ao revés, o que se reconheceu foi a inadequação da via eleita, circunstância que, por si só, obsta o exame do mérito, independentemente da relevância ou complexidade dos argumentos apresentados.
+Nesse contexto, o Agravo Regimental ora interposto não logra afastar o fundamento central da decisão agravada, qual seja, a impossibilidade de utilização do habeas corpus para impugnar decisão judicial que deferiu busca e apreensão domiciliar e veicular, bem como determinou a suspensão da Carteira Nacional de Habilitação, quando inexistente ameaça direta e imediata ao direito de locomoção e ausente ilegalidade flagrante.
+Consoante expressamente consignado na decisão monocrática:
+(i) a decisão que defere medidas cautelares investigativas, como busca e apreensão, está sujeita a reexame pelas vias recursais adequadas, não se prestando o habeas corpus à rediscussão de seu acerto ou desacerto;
+(ii) a suspensão da CNH, por si só, não configura coação ou ameaça direta à liberdade de locomoção, não se enquadrando, portanto, no âmbito de proteção do remédio constitucional; e
+(iii) ausente situação de teratologia, abuso de poder ou ilegalidade manifesta, impõe-se o indeferimento liminar do writ, por manifesta inadequação.
+O Agravo Regimental, embora busque o conhecimento do habeas corpus, não demonstra a existência de situação excepcional capaz de afastar a aplicação da jurisprudência consolidada, limitando-se a sustentar que as teses defensivas mereceriam apreciação, o que, contudo, pressupõe o reconhecimento da adequação da via eleita, premissa corretamente afastada na decisão agravada.
+Nesse sentido, a decisão monocrática agravada encontra-se em estrita conformidade com a orientação dominante do STF e do STJ, segundo a qual o habeas corpus não pode ser manejado como sucedâneo recursal, salvo em hipóteses absolutamente excepcionais, o que não se verifica no caso concreto.
+Ademais, ad argumentandum tantum, ainda que superado o óbice relativo à inadequação da via eleita, o habeas corpus igualmente não seria conhecido, porquanto as medidas impugnadas  busca e apreensão domiciliar e veicular e suspensão da Carteira Nacional de Habilitação  não importam, nem direta nem indiretamente, em ameaça ou risco concreto ao direito de locomoção do paciente.
+Com efeito, o remédio constitucional previsto no art. 5º, inciso LXVIII, da Constituição Federal, destina-se à tutela do status libertatis, sendo cabível apenas diante de coação ou ameaça atual ou iminente à liberdade de ir e vir, o que não se verifica na hipótese. A suspensão da CNH, por si só, não impede o deslocamento do paciente por outros meios lícitos, tampouco a medida de busca e apreensão, de natureza investigativa e episódica, traduz restrição à liberdade ambulatorial.
+Dessa forma, não há reparos a serem feitos na decisão agravada, a qual deve ser mantida por seus próprios fundamentos, uma vez que corretamente reconheceu a inadmissibilidade do habeas corpus, sem ingressar no exame do mérito das teses deduzidas.
+Ante o exposto, em consonância com o parecer ministerial, CONHEÇO do Agravo Regimental e NEGO-LHE PROVIMENTO, mantendo-se a decisão monocrática por seus próprios fundamentos.
+Insta consignar que o Superior Tribunal de Justiça firmou compreensão de que o habeas corpus não pode ser utilizado como substitutivo do recurso legalmente previsto para a hipótese, impondo-se o não conhecimento da impetração quando assim manejado.
+Observem-se a respeito: AgRg no HC n. 943.146/MG, Quinta Turma, relator Ministro Reynaldo Soares da Fonseca, DJe de 22/10/2024; AgRg no HC n. 874.713/SP, Quinta Turma, relator Ministro Ribeiro Dantas, DJe de 20/8/2024; AgRg no HC n. 749.702/SP, Sexta Turma, relator Ministro Antonio Saldanha Palheiro, DJe de 29/2/2024; AgRg no HC n. 912.662/SP, Sexta Turma, relator Ministro Sebastião Reis Júnior, DJe de 27/6/2024.
+Todavia, igualmente consolidado é o entendimento de que matérias de ordem pública, como a nulidade absoluta, podem ser conhecidas a qualquer tempo e grau de jurisdição, sobretudo quando possuam potencial reflexo na liberdade de locomoção.
+No caso concreto, não houve exame, ainda que sumário, acerca da alegada existência de nulidade processual, circunstância apta, em tese, a atrair a invalidade da investigação criminal em curso.
+O acórdão impugnado limitou-se a afirmar que a questão já havia sido suscitada por meio de habeas corpus, concluindo pela inadequação da via eleita. Tal fundamento, por si só, não autoriza o Tribunal de origem de se eximir da apreciação da tese defensiva, em especial por se tratar de matéria de ordem pública, insuscetível de preclusão e cognoscível de ofício.
+Nessas condições, a recusa absoluta de apreciação do mérito da impetração configura indevida negativa de prestação jurisdicional obstando o exame adequado da nulidade arguida.
+Em caso semelhante, assim decidiu esta Corte Superior de Justiça:
+DIREITO PROCESSUAL PENAL. AGRAVO REGIMENTAL EM HABEAS CORPUS. NULIDADE DE RECONHECIMENTO PESSOAL. SUPRESSÃO DE INSTÂNCIA. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. AGRAVO PARCIALMENTE PROVIDO.
+I. Caso em exame
+1. Agravo regimental interposto contra decisão monocrática que não conheceu de habeas corpus, sob o fundamento de supressão de instância, em razão de ausência de análise pela Corte de origem sobre a nulidade do reconhecimento pessoal realizado na fase policial.
+2. O agravante sustenta que a nulidade do reconhecimento foi arguida em sede de apelação, sendo a condenação baseada exclusivamente nesse ato, realizado em desconformidade com o art. 226 do Código de Processo Penal, sem apoio em outros elementos probatórios idôneos.
+3. A decisão agravada considerou inviável a apreciação da matéria pelo Superior Tribunal de Justiça, em razão de supressão de instância, e destacou que até mesmo nulidades absolutas devem ser previamente examinadas na origem.
+II. Questão em discussão
+4. A questão em discussão consiste em saber se houve negativa de prestação jurisdicional pela Corte de origem ao não apreciar a alegação de nulidade do reconhecimento pessoal, devidamente arguida em sede de apelação.
+III. Razões de decidir
+5. A ausência de análise pela Corte de origem sobre a nulidade do reconhecimento pessoal, apesar de devidamente arguida pela defesa em sede de apelação, configura negativa de prestação jurisdicional, violando o art. 619 do Código de Processo Penal.
+6. A apreciação direta da matéria pelo Superior Tribunal de Justiça é inviável, sob pena de supressão de instância, sendo necessário que a Corte de origem examine previamente a alegação de nulidade.
+7. Diante da negativa de prestação jurisdicional, é cabível a anulação do acórdão da Corte de origem, determinando-se novo julgamento do recurso de apelação, com apreciação das alegações defensivas relativas à nulidade do reconhecimento pessoal.
+IV. Dispositivo e tese
+8. Resultado do Julgamento: Agravo parcialmente provido para conceder em menor extensão a ordem de habeas corpus, anulando o acórdão e determinando novo julgamento do recurso de apelação pela Corte de origem.
+Tese de julgamento:
+1. A ausência de análise pela Corte de origem sobre alegação de nulidade devidamente arguida em sede de apelação configura negativa de prestação jurisdicional, violando o art. 619 do Código de Processo Penal. 2. A apreciação direta de matéria não examinada pela Corte de origem pelo Superior Tribunal de Justiça enseja indevida supressão de instância.
+Dispositivos relevantes citados: CPP, art. 226; CPP, art. 619.
+Jurisprudência relevante citada: STJ, AgRg no RHC 182.899/PB, Rel. Min. Jesuíno Rissato, Sexta Turma, julgado em 08.04.2024; STJ, AgRg no HC 395.493/SP, Rel. Min. Rogério Schietti Cruz, Sexta Turma, julgado em 25.05.2017; STJ, AgRg no AREsp 2.590.503/RS, Rel. Min. Sebastião Reis Júnior, Sexta Turma, julgado em 24.09.2024.
+(AgRg no HC n. 1.014.117/AM, relator Ministro Otávio de Almeida Toledo - Desembargador convocado do TJSP -, Sexta Turma, julgado em 2/9/2025, DJEN de 10/9/2025, grifei .)
+Ante o exposto, com fundamento no art. 210 do Regimento Interno do Superior Tribunal de Justiça, concedo em parte a ordem para determinar que o Tribunal de Justiça aprecie o mérito do habeas corpus originário.
+Cientifique-se o Ministério Público Federal.
+Publique-se. Intimem-se.
+ EMENTA
