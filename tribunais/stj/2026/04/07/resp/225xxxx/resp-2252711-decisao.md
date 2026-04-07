@@ -1,0 +1,102 @@
+DECISÃO
+Trata-se de recurso especial interposto por RAIMUNDO JÚNIOR MORAES SANTOS e LEANDRO MACHADO PANTOJA com fundamento no art. 105, III, "a", da Constituição Federal, em face de acórdão proferido pelo Tribunal de Justiça do Estado do Pará, nos autos da Apelação Criminal nº 0005255-13.2017.8.14.0022, assim ementado (e-STJ fl. 388):
+DIREITO PENAL. APELAÇÃO CRIMINAL. ROUBO MAJORADO. DOSIMETRIA DA PENA. FUNDAMENTAÇÃO IDÔNEA. RECURSO DESPROVIDO.
+I. CASO EM EXAME
+1. Apelação criminal em que se pretende a reforma de sentença que condenou os réus, pela prática do crime previsto no art. 157, § 2º, I, II e V, do CP.
+II. QUESTÃO EM DISCUSSÃO
+2. Há três questões em discussão: (i) definir se houve bis in idem na consideração do cometimento do crime mediante pluralidade de agentes; (ii) estabelecer se é obrigatória a adoção de fração de 1/8 por cada circunstância judicial negativada; (iii) determinar se é imprescindível a apreensão e perícia da arma de fogo para a incidência da causa de aumento de pena prevista no art. 157, § 2º-A, I, do Código Penal.
+III. RAZÕES DE DECIDIR
+3. A referência à pluralidade de agentes foi utilizada exclusivamente como elemento para valoração negativa das circunstâncias do crime na primeira fase da dosimetria, não sendo aplicada como majorante na terceira fase, o que afasta a alegação de bis in idem.
+4. O ordenamento jurídico não estabelece critério matemático obrigatório para a fixação da pena-base; o julgador pode, com base no livre convencimento motivado, adotar a fração que entender adequada conforme as peculiaridades do caso concreto.
+5. A jurisprudência do STJ admite a incidência da majorante do emprego de arma de fogo com base em outros elementos probatórios presentes nos autos, sendo prescindível a apreensão e perícia da arma, desde que a utilização seja devidamente comprovada  o que se verificou pelas declarações da vítima e pela confissão de um dos réus.
+IV. DISPOSITIVO E TESE
+6. Recurso conhecido e desprovido.
+Em suas razões recursais (e-STJ fls. 399/404), sustentam os recorrentes a ocorrência de violação ao art. 59 do Código Penal, ao argumento de que a pena-base fixada no acórdão recorrido mostra-se desproporcional, porquanto, embora reconhecida apenas uma circunstância judicial negativa, houve exasperação superior ao patamar usualmente admitido pela jurisprudência do Superior Tribunal de Justiça.
+Defendem que a controvérsia devolvida a esta Corte diz respeito exclusivamente à legalidade da dosimetria da pena, sem necessidade de reexame do conjunto fático-probatório. Argumentam que, ainda que adotada a fração de 1/8 para a elevação da pena-base, houve erro de cálculo, pois, partindo-se da pena mínima legal de 4 anos, o aumento proporcional conduziria à pena-base de 4 anos e 6 meses de reclusão, e não à reprimenda fixada no acórdão recorrido.
+Diante do que expõem, pugnam, ao fim, pel o conhecimento e provimento do recurso especial para reconhecer a afronta ao art. 59 do Código Penal, reformando-se o acórdão recorrido "para corrigir o cálculo na exasperação da pena-base no patamar de 1/8, pois é evidente o erro de cálculo no presente feito".
+Contrarrazões apresentadas às fls. 406/415 (e-STJ).
+O recurso especial foi admitido na origem (e-STJ fls. 417/420).
+Em parecer, o Ministério Público Federal  manifestou-se  pelo  não conhecimento do recurso especial ou, subsidiariamente, pelos seu desprovimento  (e-STJ fls. 436/448).
+É  o  relatório.
+Decido.
+Presentes os requisitos de admissibilidade, conheço do recurso especial.
+A pretensão recursal, todavia, não merece acolhida.
+Consoante se extrai dos autos, os recorrentes foram condenados, em primeira instância, pela prática do crime previsto no art. 157, § 2º, I, II e V, do Código Penal, às penas de 5 anos, 7 meses e 6 dias de reclusão, em regime inicial semiaberto, e 42 dias-multa, quanto a Raimundo Junior Moraes dos Santos; e 7 anos de reclusão, em regime inicial semiaberto, e 56 dias-multa, quanto a Leandro Machado Pantoja, tendo o Juízo sentenciante valorado negativamente, na primeira fase da dosimetria, as circunstâncias do crime, e, na terceira fase, reconhecido a incidência das causas de aumento referentes ao emprego de arma de fogo e à restrição da liberdade da vítima.
+Em sede de apelação, o Tribunal de Justiça do Estado do Pará conheceu do recurso defensivo e negou-lhe provimento, mantendo integralmente a condenação e a dosimetria da pena, nos termos da fundamentação delineada no acórdão recorrido (e-STJ fls. 390/ss.):
+"(..)
+Em primeiro plano, a insurgência defensiva se assenta na tese de que o juízo sentenciante teria negativado indevidamente a vetorial das circunstâncias do crime, com base na pluralidade de agentes, aspecto já previsto como majorante na terceira fase da dosimetria.
+Sem embargo, não se verifica, na motivação da sentença objurgada, a invocação da majorante do concurso de pessoas (art. 157, § 2º, II, do CP) na terceira fase do cálculo da pena. Ao revés, o incremento punitivo fundou-se exclusivamente em duas causas de aumento: o emprego de arma de fogo e a restrição à liberdade da vítima (ID 17638123, pág. 9), afastando a duplicidade valorativa alegada.
+Nesse cenário, a remissão à pluralidade de agentes, enquanto traço das circunstâncias do delito, e não enquanto majorante, pode ser legitimamente sopesada na fixação da pena-base, visto que "a jurisprudência do STJ permite a utilização de majorantes excedentes do crime de roubo como circunstâncias judiciais desfavoráveis na primeira fase da dosimetria, desde que não sejam aplicadas novamente na terceira fase" (STJ, AgRg no AREsp n. 2.618.483/SC (..), Rel. Min. Messod Azulay Neto, Quinta Turma, j. 10/6/2025), como se deu na espécie.
+Da mesma forma, inexiste margem para acolher o pleito pela aplicação da fração de 1/8 para cada circunstância judicial negativada na primeira fase.
+No ponto, a jurisprudência do Superior Tribunal de Justiça tem se firmado no sentido de que "o nosso ordenamento não estabelece critérios pré-determinados para a fixação da pena; implica dizer, não há direito subjetivo do réu ou obrigatoriedade na adoção de alguma fração de aumento específica para cada circunstância judicial negativa, bastando apenas que o julgador utilize a prerrogativa do livre convencimento motivado a fim de escolher o método que entender mais adequado e fundamentar sua decisão" (AgRg no HC n. 850.763/RJ, (..), Rel. Min. Sebastião Reis Júnior, Sexta Turma, j. 2.09.2024), providências essas que foram devidamente tomadas no presente caso.
+Em complemento, convém ressaltar que "não há um critério matemático para a escolha das frações de aumento em função da negativação dos vetores contidos no art. 59 do Código Penal, sendo garantida a discricionariedade do julgador para a fixação da pena-base, dentro do seu livre convencimento motivado e de acordo com as peculiaridades do caso concreto" (STJ, AgRg no AREsp 1840942/TO 2.114.382/MG (..), Rel. Min. Jesuíno Rissato - Des. Convocado do TJDFT), Sexta Turma, j. 11/4/2023).
+Por fim, no que tange à causa de aumento de pena pelo uso de arma de fogo, revela-se "dispensável a apreensão e a perícia da arma de fogo, para a incidência da majorante do § 2º-A, I, do art. 157 do CP, quando existirem, nos autos, outros elementos de prova que evidenciem a sua utilização no roubo (STJ, AgRg no AREsp n. 1843257/TO (..) Rel. Min. Antonio Saldanha Palheiro, Sexta Turma, j. 28.2.2023).
+In casu, conforme consignado na sentença condenatória (ID 17638123), verifica-se que a vítima, Cláudia Braga Rodrigues relatou em juízo que os réus utilizaram uma arma de fogo. Tal declaração foi corroborada pela própria confissão do réu Raimundo Junior Moraes dos Santos que afirmou que o corréu Leandro Machado Pantoja estava armado.
+Destarte, deve ser mantida a causa de aumento de pena aplicada pelo Juízo sentenciante na terceira fase da dosimetria.
+(..)"
+Da leitura do trecho transcrito, nota-se que a Corte estadual apreciou, de forma específica e fundamentada, as teses suscitadas pela defesa, concluindo, em síntese, que: a) não houve bis in idem na dosimetria, pois a pluralidade de agentes foi valorada apenas na primeira fase, como circunstância do crime, ao passo que, na terceira fase, o aumento decorreu exclusivamente do emprego de arma de fogo e da restrição da liberdade da vítima; b) inexiste direito subjetivo do réu à adoção da fração de 1/8 para cada circunstância judicial negativada, porquanto o ordenamento jurídico não estabelece critério matemático obrigatório para a fixação da pena-base; e c) a discussão relativa à majorante do emprego de arma de fogo foi igualmente afastada pelo Tribunal de origem, à vista dos elementos probatórios reputados idôneos.
+Nesse panorama, a moldura delineada pelo acórdão recorrido revela aderência à orientação desta Corte Superior, tanto no que se refere à possibilidade de valoração, na primeira fase da dosimetria, de circunstância não reproduzida como majorante na etapa final, quanto no que diz respeito à inexistência de critério matemático vinculante para a exasperação da pena-base.
+Com efeito, nos termos do entendimento jurisprudencial deste Tribunal Superior, "a dosimetria da pena e seu regime de cumprimento inserem-se dentro de um juízo de discricionariedade do julgador, atrelado às particularidades fáticas do caso concreto e subjetivas do agente, somente passível de revisão por esta Corte no caso de inobservância dos parâmetros legais ou de flagrante desproporcionalidade" (AgRg no HC n. 774.095/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 18/10/2022, DJe de 24/10/2022).
+Ademais, a orientação desta Corte  inclusive no âmbito da Terceira Seção  admite que, havendo pluralidade de majorantes no roubo, a majorante sobressalente possa ser considerada em fase antecedente, quando não aplicada cumulativamente na terceira fase, exatamente para evitar dupla incidência e, ao mesmo tempo, preservar a resposta penal proporcional ao caso concreto.
+Ilustrando essa orientação, vejam-se os seguintes arestos:
+AGRAVO REGIMENTAL EM AGRAVO EM RECURSO ESPECIAL. DIREITO PENAL. ROUBO MAJORADO. CONCURSO DE AGENTES E EMPREGO DE ARMA DE FOGO. VIOLAÇÃO DO ART. 68, PARÁGRAFO ÚNICO, DO CP. AFASTADA A APLICAÇÃO CUMULATIVA DAS MAJORANTES. DESLOCAMENTO DA MAJORANTE DO CONCURSO DE AGENTES, RECONHECIDA PELO TRIBUNAL DE ORIGEM, PARA A PRIMEIRA FASE DE DOSIMETRIA. DISCRICIONARIEDADE DO JULGADOR. PRECEDENTES. MERO INCONFORMISMO. MANUTENÇÃO PELOS PRÓPRIOS FUNDAMENTOS.
+Agravo regimental improvido.
+(AgRg no REsp n. 2.150.504/MG, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 25/11/2025, DJEN de 2/12/2025.)
+Direito penal. Agravo regimental EM AGRAVO EM RECURSO ESPECIAL. ROUBO MAJORADO. CONCURSO DE AGENTES E EMPREGO DE ARMA DE FOGO. Dosimetria da pena. MAJORANTE SOBEJANTE RECONHECIDA PELO TRIBUNAL E AFASTADA NA TERCEIRA FASE DE DOSIMETRIA. Agravo REGIMENTAL IMprovido.
+I. Caso em exame
+1. Agravo regimental interposto contra decisão que não conheceu de recurso especial, mantendo a exclusão da majorante do concurso de pessoas na terceira fase de dosimetria da pena, conforme decisão do Tribunal de origem.
+2. O agravante argumenta que a majorante do concurso de agentes foi reconhecida no acórdão de origem, mas não computada na dosimetria da pena, requerendo seu deslocamento para a primeira fase da dosimetria.
+II. Questão em discussão
+3. A questão em discussão consiste em saber se a majorante do concurso de agentes, reconhecida no acórdão de origem, deve ser deslocada para a primeira fase da dosimetria da pena, após sua exclusão na terceira fase.
+III. Razões de decidir
+4. A decisão agravada deve ser mantida, pois o agravo regimental não apresentou novos argumentos capazes de alterar o entendimento anteriormente firmado.
+5. O Tribunal de origem pode afastar a aplicação de causa de aumento na terceira fase por ausência de fundamentação idônea e aplicá-la na primeira fase, sem reformatio in pejus, se não houver agravamento da situação do réu, quando houver recurso exclusivo da defesa.
+6. A jurisprudência desta Corte admite a cumulação das majorantes do roubo, desde que fundamentada em elementos concretos, optando-se pela aplicação da majorante mais gravosa na ausência de motivação suficiente.
+IV. Dispositivo e tese
+7. Agravo regimental improvido.
+(AgRg no AREsp n. 2.384.595/RN, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 10/9/2025, DJEN de 15/9/2025.)
+AGRAVO REGIMENTAL NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. ROUBO MAJORADO. AUTORIA BASEADA EM OUTROS ELEMENTOS PROBATÓRIOS INDEPENDENTES DO RECONHECIMENTO PREVISTO NO ART. 226 DO CPP. INDEFERIMENTO DE PROVA. MOTIVAÇÃO VÁLIDA. CONCURSO DE MAJORANTES. DESLOCAMENTO DE UMA DAS CAUSAS DE AUMENTO DA TERCEIRA PARA A PRIMEIRA FASE DA DOSIMETRIA. POSSIBILIDADE. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. Por ocasião do julgamento do HC n. 598.886/SC (Rel. Ministro Rogério Schietti, DJe 18/12/2020), a Sexta Turma deste Tribunal Superior concluiu que a inobservância do procedimento previsto no art.
+226 do Código de Processo Penal torna inválido o reconhecimento do suspeito e não poderá servir de lastro a eventual condenação, mesmo se confirmado o ato em juízo.
+2. Ainda que o ato de reconhecimento haja sido feito em desacordo com o modelo legal previsto no art. 226 do CPP e não possa ser sopesado, nem mesmo de forma suplementar, para fundamentar uma condenação, se houver outras provas, independentes dele e suficientes para sustentar o decreto condenatório, afasta-se a tese de absolvição.
+3. No caso, não há como se concluir que a condenação do réu haja sido baseada, única e exclusivamente, no ato de reconhecimento, mas nas demais provas dos autos - depoimentos da vítima e de duas testemunhas que assistiram às imagens das câmeras de vigilância e relato da testemunha Greice, que já o conhecia por ele haver trabalhado como segurança na farmácia roubada e por identificá-lo como autor do crime em outra unidade da mesma rede, em que agiu com idêntico método -, sob o crivo do contraditório e da ampla defesa.
+4. De acordo com a jurisprudência deste Superior Tribunal: "o indeferimento fundamentado de pedido de produção de prova não caracteriza constrangimento ilegal, pois cabe ao juiz, na esfera de sua discricionariedade, negar motivadamente a realização das diligências que considerar desnecessárias ou protelatórias" (HC n. 198.386/MG, Rel. Ministro Gurgel de Faria, 5ª T., DJe 2/2/2015).
+5. O Tribunal de origem, com fundamentação suficiente, ratificou o entendimento do Juízo de primeira instância, que indeferiu o pedido de juntada das imagens da câmera de segurança, por entender que transcorreram quase quatro anos desde a data dos fatos, o que permitiu concluir que as supostas imagens não mais estivessem arquivadas na delegacia.
+6. Diante do concurso de majorantes, uma delas - concurso de agentes - foi usada para elevar a pena-base, e a outra - emprego de arma de fogo - foi considerada como causa de aumento na terceira fase da dosimetria, procedimento que não viola o art. 68 do CP. Precedentes.
+7. Agravo regimental não provido.
+(AgRg nos EDcl no AREsp n. 2.553.424/SP, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 10/9/2024, DJe de 18/9/2024.)
+Outrossim, é igualmente certo que inexiste direito subjetivo à utilização das frações de 1/6 sobre a pena-base, 1/8 do intervalo entre as penas mínima e máxima - como no caso dos autos - ou mesmo outro valor. O que se exige do magistrado é a fundamentação concreta e adequada, além da proporcionalidade na exasperação da pena.
+Nessa perspectiva:
+DIREITO PENAL. AGRAVO REGIMENTAL. DOSIMETRIA DA PENA. PEDIDO DE RECONSIDERAÇÃO RECEBIDO COMO AGRAVO REGIMENTAL. NÃO PROVIMENTO.
+I. CASO EM EXAME
+1. Pedido de reconsideração ajuizado contra decisão terminativa, recebido como agravo regimental, interposto no prazo legal, visando à análise pelo Colegiado.
+2. O pedido de reconsideração foi ajuizado contra decisão que concedeu parcialmente a ordem em habeas corpus, relacionada à dosimetria da pena em condenação por homicídio qualificado, furto qualificado e corrupção de menores.
+II. QUESTÃO EM DISCUSSÃO
+3. A questão em discussão consiste em saber se houve erro no recálculo da pena dos delitos, considerando que o quantum adotado para o aumento das circunstâncias judiciais negativadas estaria superior a 1/6, critério já adotado pelo Tribunal de origem.
+III. RAZÕES DE DECIDIR
+4. A discricionariedade vinculada do magistrado sentenciante deve ser observada na fixação da pena-base, conforme o art. 59 do CP, que não atribui pesos absolutos a cada circunstância judicial.
+5. Não há impedimento para que o magistrado fixe a pena-base no máximo legal, desde que haja fundamentação idônea e suficiente, mesmo que apenas uma circunstância judicial tenha sido valorada.
+6. A Corte de origem não estabeleceu a fração de 1/6 para cada vetorial negativada, e o recálculo da pena foi proporcional ao quantum fixado pelas instâncias ordinárias, ao excluir a negativação da personalidade.
+IV. DISPOSITIVO E TESE
+7. Agravo regimental não provido.
+Tese de julgamento: "1. A discricionariedade vinculada do magistrado na fixação da pena-base permite a fixação de fração superior a 1/6 ou 1/8, desde que fundamentada. 2. A exclusão de uma vetorial negativada deve resultar em recálculo proporcional da pena, conforme fixado pelas instâncias ordinárias".
+Dispositivos relevantes citados: CP, art. 59.
+Jurisprudência relevante citada: STJ, AgRg no HC 846.844/SP, Min. Joel Ilan Paciornik, Quinta Turma, julgado em 15.04.2024.
+(RCD no HC n. 962.253/ES, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 5/3/2025, DJEN de 11/3/2025.)
+DIREITO PENAL E PROCESSUAL PENAL. AGRAVO EM RECURSO ESPECIAL. FURTO SIMPLES. DOSIMETRIA. PENA-BASE. FRAÇÃO DE AUMENTO. DISCRICIONARIEDADE DO MAGISTRADO. DESPROPORCIONALIDADE NÃO VERIFICADA. AGRAVO CONHECIDO E RECURSO ESPECIAL DESPROVIDO.
+I. CASO EM EXAME
+1. Agravo interposto por Uerlis da Costa Barbosa contra decisão do Tribunal de Justiça do Distrito Federal que inadmitiu recurso especial, no qual se apontava violação ao art. 59 do Código Penal, alegando exasperação desproporcional da pena-base em fração superior a 1/6, sem fundamentação idônea. Requer a revisão da dosimetria.
+II. QUESTÃO EM DISCUSSÃO
+2. A questão em discussão consiste em verificar a legalidade e proporcionalidade da exasperação da pena-base na primeira fase da dosimetria, considerando as circunstâncias judiciais negativamente valoradas e a fundamentação apresentada pelas instâncias ordinárias.
+III. RAZÕES DE DECIDIR
+3. A revisão da dosimetria da pena é admitida apenas em hipóteses excepcionais de manifesta ilegalidade, quando ausentes fundamentação idônea ou observância aos princípios da proporcionalidade e razoabilidade, conforme jurisprudência consolidada do STJ.
+4. Não há direito subjetivo do réu à utilização das frações de 1/6 sobre a pena-base, 1/8 do intervalo entre as penas mínima e máxima (como no caso dos autos) ou mesmo outro valor. O que se exige do magistrado é a fundamentação concreta e adequada, além da proporcionalidade na exasperação da pena. Precedentes.
+5. No caso, o preceito secundário do tipo penal (art. 155, caput, do Código Penal) prevê pena-base de 1 a 4 anos de reclusão, tendo as instâncias ordinárias procedido ao aumento de 4 meses e 5 dias, pela valoração negativa de 01 (uma) circunstância judicial (antecedentes), não se evidenciando ofensa aos princípios da proporcionalidade, razoabilidade, necessidade e suficiência à reprovação e à prevenção ao crime.
+6. O exercício discricionário do julgador ao individualizar a pena-base, desde que respeitados os parâmetros legais e fundamentado em elementos concretos, não configura ilegalidade. ,
+IV. AGRAVO CONHECIDO PARA NEGAR PROVIMENTO AO RECURSO ESPECIAL.
+(AREsp n. 2.717.526/DF, relatora Ministra Daniela Teixeira, Quinta Turma, julgado em 17/12/2024, DJEN de 3/1/2025.)
+À vista disso, não se divisam ilegalidade manifesta, bis in idem ou desproporcionalidade aptos a justificar a intervenção desta Corte para redimensionar a pena-base no patamar pretendido pela defesa, impondo-se, assim, a manutenção do acórdão recorrido.
+Incide, por fim, o enunciado da Súmula nº 568 do STJ, que estabelece que "o relator, monocraticamente e no Superior Tribunal de Justiça, poderá dar ou negar provimento ao recurso quando houver entendimento dominante acerca do tema.".
+Ante o exposto, conheço do recurso especial para negar-lhe provimento.
+Publique-se. Intimem-se.
+EMENTA
