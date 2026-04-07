@@ -1,0 +1,29 @@
+DECISÃO
+O MINISTÉRIO PÚBLICO DO ESTADO DE MINAS GERAIS agrava da decisão que inadmitiu o recurso especial que interpôs, fundado no art. 105, III, "a", da Constituição Federal, contra acórdão do Tribunal de Justiça daquele Estado na Apelação n. 1.0000.23.172.959-1/003.
+O Parquet estadual apontou violação dos arts. 59, 67 e 68, do Código Penal, 619 e 620, do Código de Processo Penal; 1.022, II, e parágrafo único, II, 1.025 e 489, §1º, VI, do Código de Processo Civil, estes c/c os arts. 3º e 315, § 2º, VI, do Código de Processo Penal.
+Argumentou que, " não obstante a ausência de critério matemático uniforme para a definição do quantum de majoração por cada circunstância judicial negativada, as instâncias ordinárias não podem se furtar do dever de motivação do quantum escolhido, se este se apresenta diferente dos padrões usualmente fixados pelo STJ" (fl. 1.243).
+Pleiteou o provimento do recurso, para "aplicar à pena- base o padrão acolhido pelo STJ (1/6 sobre a pena mínima, ou 1/8 sobre o intervalo entre as penas mínima e máxima) em relação às circunstâncias judiciais negativadas (culpabilidade, antecedentes, circunstâncias e consequências do crime)" (fl. 1.245).
+O especial foi inadmitido, ante a incidência das Súmulas n. 7 e 83 do STJ.
+O Ministério Público Federal opinou pelo "CONHECIMENTO E PROVIMENTO DO RECURSO ESPECIAL interposto pelo MPMG, a fim de determinar o retorno dos autos ao Tribunal de Justiça do Estado de Minas Gerais para que refaça a dosimetria da pena-base, observando os parâmetros da jurisprudência do Superior Tribunal de Justiça e apresentando fundamentação concreta e idônea para o quantum de aumento decorrente das circunstâncias judiciais negativas" (fl. 1.336).
+Decido.
+O agravo é tempestivo e impugna adequadamente os fundamentos da decisão recorrida, razão pela qual deve ser conhecido.
+O recurso especial também supera o juízo de admissibilidade, uma vez que a matéria em discussão foi devidamente prequestionada e estão preenchidos os demais requisitos necessários (cabimento, legitimidade, interesse recursal, inexistência de óbices processuais, tempestividade e regularidade formal).
+Passo, portanto, à análise do mérito.
+A jurisprudência do STJ é firme em garantir a discricionariedade do julgador, sem a fixação de critério aritmético, na escolha da reprimenda a ser estabelecida na primeira etapa da dosimetria. Assim, o magistrado, dentro do seu livre convencimento motivado e de acordo com as peculiaridades do caso concreto, decidirá o quantum de exasperação da pena-base, em observância aos princípios da razoabilidade e da proporcionalidade.
+Portanto, a individualização da pena está sujeita à revisão por esta Corte de Justiça nas hipóteses de manifesta ilegalidade, quando não observados os parâmetros legais estabelecidos no Código Penal ou o princípio da proporcionalidade.
+No caso em exame, a Corte estadual aumentou a pena-base em 1/8 para cada circunstância judicial desfavorável, critério que não se revela desarrazoado, segundo o entendimento deste Tribunal Superior. Ressalto que a jurisprudência do STJ não impõe ao magistrado a adoção de uma fração específica, aplicável a todos os casos, a ser usada na valoração negativa das vetoriais previstas no art. 59 do CP.
+Nesse sentido: "Ainda que a defesa tenha trazido inúmeros precedentes em que a pena foi elevada na fração de 1/6, não existe um parâmetro obrigatório, e cada caso traz a sua particularidade" (AgRg no HC n. 707.460/MS, Rel. Ministro Sebastião Reis Júnior, 6ª T., DJe de 15/3/2022); "A fração de aumento na dosimetria da pena pode ser de 1/8 do intervalo entre os limites mínimo e máximo da pena cominada ao delito, não existindo direito subjetivo a critério rígido ou puramente matemático para a exasperação da pena-base" (AgRg nos EDcl nos EAREsp n. 2.753.737/DF, Rel. Ministra Maria Marluce Caldas, 3ª S., DJEN de 11/2/2026).
+Também, menciono: " 2. A jurisprudência do Superior Tribunal de Justiça reconhece como critérios ideais para a individualização da pena o aumento na fração de 1/8 por cada circunstância judicial negativamente valorada e de 1/6 para a agravante da reincidência" (REsp n. 2.183.766/MG, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 11/6/2025, DJEN de 23/6/2025, destaquei).
+Ilustrativamente:
+ ..
+9. No caso, a pena-base foi elevada em fração de 1/8 para cada uma das três vetoriais negativadas (antecedentes, circunstâncias e consequências), totalizando um aumento de 3/8, o que não configura ilegalidade uma vez que em conformidade com a jurisprudência desta Corte.
+ ..
+(HC n. 954.043/SC, relatora Ministra Daniela Teixeira, Quinta Turma, julgado em 10/12/2024, DJEN de 16/12/2024.)
+ ..
+4. Hipótese em que, nos termos do art. 42 da Lei n. 11.343/2006, a Corte de origem fixou a pena-base em 1/8 acima do mínimo legal, considerando como desfavorável a natureza altamente lesiva da droga apreendida (crack), o que não se mostra desproporcional.
+ ..
+(HC n. 427.620/SP, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 15/3/2018, DJe de 20/3/2018.)
+Saliento, por fim, que o relatório do Grupo de Trabalho sobre dosimetria da pena do CNJ identificou a tendência de os julgadores adotarem a fração de 1/8 sobre o intervalo entre a pena mínima e a pena máxima ou 1/6 sobre a pena mínima. Todavia, segundo conclui o documento: "Importante frisar, portanto, que a despeito das tendências citadas, inexiste qualquer óbice legal ou jurisprudencial à valoração de circunstâncias judiciais de forma diversa" (CONSELHO NACIONAL DE JUSTIÇA (Brasil). Relatório GT Dosimetria da Pena. Brasília, 2022, p. 38, destaquei. Disponível em: https://www.cnj.jus.br/wp-content/uploads/2022/09/relatorio-gt-dosimetria-da-pena-v5.pdf).
+À vista do exposto, conheço do agravo para negar provimento ao recurso especial.
+Publique-se e intimem-se.
+EMENTA
