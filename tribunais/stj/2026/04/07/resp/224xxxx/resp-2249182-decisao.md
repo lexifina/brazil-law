@@ -1,0 +1,46 @@
+DECISÃO
+Trata-se de recurso especial interposto por MARINI INDÚSTRIA E COMÉRCIO DE PLÁSTICOS EIRELI, com fundamento no art. 105, inciso III, alínea a, da Constituição Federal, no qual se insurge contra o acórdão do Tribunal Regional Federal da 4ª Região assim ementado (fl. 138):
+TRIBUTÁRIO. MANDADO DE SEGURANÇA. CONTRIBUIÇÕES PREVIDENCIÁRIAS. PATRONAL. SAT/RAT. TERCEIROS. HORA EXTRA E ADICIONAL DE HORA EXTRA. LEI 13.485/2017. INAPLICABILIDADE.
+1. Tema 687 do STJ "As horas extras e seu respectivo adicional constituem verbas de natureza remuneratória, razão pela qual se sujeitam à incidência de contribuição previdenciária".
+2. A redação do art. 11, IV, da Lei 13.485/2017 não conduziu à mudança de tal entendimento jurisprudencial, por não incluír em seu bojo a totalidade dos contribuintes do RGPS..
+3. Sendo vedado ao Poder Judiciário acrescentar benefício/bene ciário não aprovado pelo legislador positivo, improcede o pedido autoral.A jurisprudência do STF é  rme no sentido de ser impossível ao Poder Judiciário, por não possuir função legislativa típica, conceder benefício  scal sem amparo legal, ao fundamento de concretização do princípio da isonomia
+4. Os entendimentos acima delineados aplicam-se às contribuições ao SAT/RAT e Terceiros, uma vez que a base de cálculo destas também é a mesma.
+Os embargos de declaração opostos foram rejeitados (fls. 146/148 ).
+A parte recorrente alega violação dos arts. 22, incisos I e II, e 28, § 9º, da Lei 8.212/1991, sustentando que a contribuição previdenciária patronal, os adicionais de Riscos Ambientais do Trabalho (SAT/RAT) e as contribuições para Terceiros somente incidem sobre remuneração, não alcançando verbas indenizatórias, e que as horas extras, quando qualificadas em lei como indenização, não integram o salário de contribuição (fls. 151/156 e 162/164).
+Sustenta ofensa ao art. 11, inciso IV, alínea b, da Lei 13.485/2017, afirmando que o dispositivo excluiu as horas extraordinárias pagas a título de indenização da base de cálculo das contribuições previdenciárias, com aplicação aos contribuintes do Regime Geral de Previdência Social (RGPS) (fls. 156/157 e 158/159).
+Aponta violação do art. 457 da Consolidação das Leis do Trabalho (CLT), argumentando que remuneração é contraprestação por serviço e que a equiparação de verba indenizatória a salário para fins contributivos contraria o conceito trabalhista (fls. 162/164).
+Argumenta que os arts. 109, 110 e 111, II, do Código Tributário Nacional (CTN) impedem a alteração, por via tributária, de conceitos de direito privado utilizados pela Constituição para definir competências tributárias, razão pela qual indenizações não podem ser tributadas como salários (fls. 154/155 e 163/164). Requer, ainda, a compensação de valores recolhidos, com fundamento nos arts. 66 da Lei 8.383/1991, 89 da Lei 8.212/1991, 39 da Lei 9.250/1995, 156, II, 150, § 1º, 168, I, e 170-A do CTN, e na Súmula 213 do Superior Tribunal de Justiça (STJ) (fls. 165/166).
+Contrarrazões apresentadas (fls. 192/196).
+Admitido o recurso especial na origem (fls. 204/205).
+É o relatório.
+Na origem, cuida-se de mandado de segurança preventivo, em que a parte autora requereu afastar a incidência de contribuições previdenciárias patronais, SAT/RAT e Terceiros sobre horas extras e respectivos adicionais, com reconhecimento do direito à compensação dos últimos cinco anos.
+A parte recorrente requer a exclusão das horas extras e do respectivo adicional da base de cálculo das contribuições previdenciárias patronais, SAT/RAT e Terceiros, com fundamento no art. 11, IV, b, da Lei 13.485/2017, e afastamento do Tema 687/STJ (fls. 132/137 e 138/138).
+No caso em questão, embora a parte recorrente tenha indicado nas razões do recurso especial violação de dispositivos de lei federal, é incabível o recurso especial pois interposto de acórdão com fundamento eminentemente constitucional.
+O Tribunal de origem afastou a pretensão autoral fundamentado na interpretação do art. 150, II, da Constituição Federal, nos termos consignados: declaração de inconstitucionalidade material, incidenter tantum, do art. 11, IV, da Lei 13.485/2017 por violação à isonomia tributária e vedação de atuação do Judiciário como legislador positivo (fls. 135/136).
+Dessa forma, é forçoso reconhecer que, possuindo o acórdão recorrido fundamento eminentemente constitucional, revela-se descabida sua revisão pela via do recurso especial, sob pena de usurpação de competência do Supremo Tribunal Federal (STF), prevista no art. 102 da Constituição Federal.
+O exame do alcance e dos limites de tese jurídica fixada pelo STF demanda a interpretação de preceitos e dispositivos constitucionais, providência essa de competência exclusiva da Suprema Corte.
+Nesse mesmo sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AGRAVO DE INSTRUMENTO NA ORIGEM - AÇÃO MONITÓRIA - PROVA DUCUMENTAL - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO RECLAMO. INSURGÊNCIA DA DEMANDADA.
+1. A competência desta Corte restringe-se à interpretação e uniformização do direito infraconstitucional federal, não sendo cabível o exame de eventual violação a dispositivos e princípios constitucionais sob pena de usurpação da competência atribuída ao Supremo Tribunal Federal, nos termos do art. 102 da Constituição Federal.
+
+4. Agravo interno desprovido.
+(AgInt no AREsp n. 2.807.807/RJ, relator Ministro Marco Buzzi, Quarta Turma, julgado em 11/6/2025, DJEN de 17/6/2025, sem destaque no original.)
+PROCESSUAL CIVIL E TRIBUTÁRIO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ICMS. BASE DE CÁLCULO. PIS E COFINS. NÃO INCIDÊNCIA. FORMA DE CÁLCULO. ICMS DESTACADO NAS NOTAS FISCAIS VERSUS ICMS A RECOLHER NA COMPETÊNCIA. ACÓRDÃO RECORRIDO FUNDADO EM PRECEDENTE DO SUPREMO TRIBUNAL FEDERAL EM REPERCUSSÃO GERAL. AGRAVO INTERNO DA FAZENDA NACIONAL A QUE SE NEGA PROVIMENTO.
+
+2. O Tribunal de origem apenas interpretou o precedente do Supremo Tribunal Federal em repercussão geral para aplicá-lo ao caso concreto, razão pela qual não cabe ao Superior Tribunal de Justiça dirimir a controvérsia em sede de Recurso Especial no pertinente à interpretação constitucional do referido RE 574.706 RG/PR, sob pena de usurpação da competência do Supremo Tribunal Federal prevista no art. 102 da Constituição Federal.
+3. Agravo Interno da FAZENDA NACIONAL a que se nega provimento.
+(AgInt no AREsp n. 1.578.077/SP, Ministro Manoel Erhardt - Desembargador Convocado do TRF da 5ª Região, Primeira Turma, julgado em 19/4/2021, DJe de 29/4/2021, sem destaque no original.)
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. PENSÃO MILITAR. FILHA. REQUISITOS DO ART. 7º DA LEI 3.765/60 C/C LEI 8.216/91. ALEGADA OMISSÃO ACERCA DE VIOLAÇÃO A DISPOSITIVOS CONSTITUCIONAIS. AFERIÇÃO. IMPOSSIBILIDADE DE ANÁLISE, EM SEDE DE RECURSO ESPECIAL. ALEGADA OFENSA AO ART. 535 DO CPC/73. NÃO OCORRÊNCIA. AUSÊNCIA DE INDICAÇÃO DO DISPOSITIVO LEGAL QUE, EM TESE, TERIA RECEBIDO INTERPRETAÇÃO DIVERGENTE DAQUELA FIRMADA POR OUTROS TRIBUNAIS. DEFICIÊNCIA DE FUNDAMENTAÇÃO. SÚMULA 284/STF, APLICADA POR ANALOGIA. IMPOSSIBILIDADE DE APRECIAÇÃO DE MATÉRIA CONSTITUCIONAL, EM SEDE DE RECURSO ESPECIAL, SOB PENA DE USURPAÇÃO DA COMPETÊNCIA DO STF. AGRAVO INTERNO IMPROVIDO.
+
+V. Do exame do julgado combatido e das razões recursais, verifica-se que a solução da controvérsia possui enfoque eminentemente constitucional. Dessa forma, compete ao Supremo Tribunal Federal eventual reforma do acórdão recorrido, no mérito, sob pena de usurpação de competência inserta no art. 102 da Constituição Federal. Precedentes do STJ (AgRg no AREsp 584.240/RS, Rel. Ministro BENEDITO GONÇALVES, PRIMEIRA TURMA, DJe de 03/12/2014; AgRg no REsp 1.473.025/PR, Rel. Ministro HUMBERTO MARTINS, SEGUNDA TURMA, DJe de 03/12/2014).
+VI. Agravo interno improvido.
+(AgInt no REsp n. 1.377.313/CE, relatora Ministra Assusete Magalhães, Segunda Turma, julgado em 18/4/2017, DJe de 26/4/2017, sem destaque no original.)
+Quanto ao reconhecimento do direito à compensação dos recolhimentos indevidos dos últimos cinco anos, verifico que o art. 66 da Lei 8.383/1991, o art. 89 da Lei 8.212/1991, o art. 39 da Lei 9.250/1995 e os arts. 156, II, 150, § 1º, 168, I, e 170-A do Código Tributário Nacional não foram apreciados pelo Tribunal de origem.
+A falta de enfrentamento no acórdão recorrido da matéria objeto do recurso impede o acesso a esta instância por não ter sido preenchido o requisito constitucional do prequestionamento.
+Incide no presente caso, por analogia, a Súmula 282 do Supremo Tribunal Federal (STF).
+Para que se configure o prequestionamento, não basta que a parte recorrente devolva a questão controvertida para o Tribunal. É necessário que a causa seja decidida à luz da legislação federal indicada, bem como que seja exercido juízo de valor sobre o dispositivo legal indicado e a tese recursal a ele vinculada, interpretando-se sua incidência ou não no caso concreto.
+Ausente pronunciamento do Tribunal Regional Federal da 4ª Região sobre o ponto, caberia, inicialmente, suscitá-lo em embargos de declaração. Mantida a omissão, deveria a parte interessada deduzir a nulidade do julgamento por violação do art. 1.022 do Código de Processo Civil.
+No caso dos autos, não foi alegada violação do art. 1.022 do CPC.
+Ante o exposto, não conheço do recurso especial.
+Publique-se. Intimem-se.
+EMENTA
