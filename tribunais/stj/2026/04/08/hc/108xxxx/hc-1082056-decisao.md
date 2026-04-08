@@ -1,0 +1,81 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em benefício de VICTOR BARBOSA ROSA, contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO GRANDE DO SUL no julgamento da Apelação Criminal n. 5009262-69.2024.8.21.0006/RS.
+Extrai-se dos autos que o paciente foi condenado às penas de 5 anos de reclusão e 1 ano de detenção, no regime inicial semiaberto, além do pagamento de 510 dias-multa, pela prática dos crimes tipificados nos arts. 33 da Lei n. 11.343/06 e 12 da Lei n. 10.826/03.
+O Tribunal de origem deu parcial provimento às apelações interpostas pelo paciente e pelo Parquet estadual, redimensionando a pena ao patamar de 6 anos, 1 mês e 10 dias de reclusão, além de 500 dias-multa, mantidos os demais termos da sentença. Confira-se a ementa do julgado (fls. 27/28):
+"DIREITO PENAL. APELAÇÕES CRIMINAIS. TRÁFICO DE DROGAS. POSSE IRREGULAR DE MUNIÇÃO. PRELIMINAR DE NULIDADE DA PROVA REJEITADA. CONDENAÇÃO MANTIDA. DOSIMETRIA REDIMENSIONADA. RECURSOS PARCIALMENTE PROVIDOS.
+I. CASO EM EXAME:
+1. Apelações criminais interpostas pelo Ministério Público e pela defesa do réu contra sentença que o condenou como incurso nas sanções do art. 33, caput, da Lei nº 11.343/06 e art. 12 da Lei nº 10.826/03, às penas de 05 anos de reclusão e 01 ano de detenção, em regime inicial semiaberto, além de 510 dias-multa, absolvendo-o da imputação do art. 35, caput, da Lei nº 11.343/06, e absolvendo a corré de todas as imputações.
+II. QUESTÃO EM DISCUSSÃO:
+1. No recurso da defesa, há quatro questões em discussão: (i) preliminar de nulidade da prova por ocorrência de fishing expedition; (ii) absolvição por insuficiência probatória quanto ao crime de tráfico de drogas; (iii) absolvição quanto ao crime de posse irregular de munição por ausência de lesividade; (iv) subsidiariamente, aplicação da minorante do tráfico privilegiado e reconhecimento da atenuante da confissão espontânea.
+2. No recurso do Ministério Público, a questão em discussão consiste na exasperação da pena-base do crime de tráfico de drogas, com valoração negativa da culpabilidade, circunstâncias e quantidade de drogas apreendidas.
+III. RAZÕES DE DECIDIR:
+1. A preliminar de nulidade da prova por ocorrência de fishing expedition não merece acolhimento, pois a abordagem policial decorreu de denúncias anônimas específicas sobre o envolvimento do réu com o tráfico de drogas, indicando inclusive os locais onde as substâncias eram armazenadas, caracterizando fundada suspeita que legitima a ação dos agentes policiais.
+2. A materialidade e autoria do crime de tráfico de drogas estão comprovadas pela apreensão de 409 gramas de maconha na residência da genitora do réu e 10 gramas na sua própria residência, além de balança de precisão, conforme laudos periciais e depoimentos coerentes dos policiais civis que efetuaram a prisão em flagrante.
+3. O réu confessou parcialmente a prática delitiva, admitindo a propriedade da droga, mas alegando ser para uso próprio, versão que não se sustenta diante da quantidade apreendida, da forma de acondicionamento e do conteúdo extraído de seu aparelho celular, que evidencia transações ligadas ao narcotráfico.
+4. A posse irregular de munições configura crime de perigo abstrato, sendo dispensável a efetiva intenção do agente em causar lesão ao bem jurídico, bastando a mera conduta de possuir munição em desacordo com determinação legal para configurar o tipo penal previsto no art. 12 da Lei nº 10.826/03.
+5. A quantidade de drogas apreendidas (419 gramas de maconha) e as circunstâncias do crime, com utilização de aplicativo de conversação para combinar a entrega de entorpecentes, dificultando o trabalho investigativo, justificam a exasperação da pena-base.
+6. A confissão qualificada do réu, que admitiu a propriedade das drogas mas alegou ser para uso próprio, enseja a aplicação da atenuante prevista no art. 65, III, "d", do CP, conforme Súmula 630 do STJ, com redução na fração de 1/12.
+IV. DISPOSITIVO E TESE:
+1. Preliminar de nulidade da prova rejeitada.
+2. Recurso da defesa parcialmente provido apenas para aplicar a atenuante da confissão na forma qualificada.
+3. Recurso ministerial parcialmente provido para majorar a pena quanto ao crime de tráfico de drogas para 6 anos, 1 mês e 10 dias de reclusão.
+Tese de julgamento: 1. A abordagem policial baseada em denúncias anônimas específicas, que indicam o envolvimento do investigado com o tráfico de drogas e os locais de armazenamento dos entorpecentes, caracteriza fundada suspeita que legitima a ação dos agentes, não configurando fishing expedition.
+Dispositivos relevantes citados: CPP, arts. 240, §2º, 244; CP, art. 65, III, "d"; Lei nº 11.343/06, arts. 33, caput, 42; Lei nº 10.826/03, art. 12.
+Jurisprudência relevante citada: STJ, HC n. 888.542, Rel. Min. Ribeiro Dantas, D Je de 18/07/2024; STJ, Súmula 630; TJRS, Apelação Criminal, Nº 50053327420248210028, Segunda Câmara Criminal, Rel. Rosaura Marques Borba, j. 22-04-2025; TJRS, Apelação Criminal, Nº 50001602820218210006, Segunda Câmara Criminal, Rel. Marcia Kern, j. 23-06-2025."
+No presente writ, a Defensoria Pública sustenta nulidade das provas por ausência de fundada suspeita para a abordagem pessoal e ingresso domiciliar, em afronta aos arts. 240, § 2º, e 244 do Código de Processo Penal - CPP, caracterizando pescaria probatória.
+Alega invalidade do consentimento para ingresso domiciliar, por ter sido formalizado posteriormente em sede policial, o que afasta a voluntariedade do morador e contamina a diligência.
+Aduz que a mera denúncia anônima, desacompanhada de diligências investigativas prévias, não constitui justa causa para busca pessoal e violação de domicílio, impondo a declaração de ilicitude das provas e das delas derivadas.
+Requer, em liminar, a suspensão dos efeitos da condenação até o julgamento definitivo do presente writ e, no mérito, a concessão da ordem para declarar a ilicitude das provas produzidas mediante busca pessoal ilegal e violação de domicílio, bem como das provas derivadas, com a absolvição do paciente, nos termos do art. 386, II e VII, do CPP.
+Indeferido o pedido liminar (fls. 720/722), o Ministério Público Federal opinou pelo não conhecimento do mandamus (fls. 729/738).
+É o relatório.
+Decido.
+Diante da hipótese de habeas corpus, substitutivo de recurso próprio, a impetração sequer deveria ser conhecida, segundo orientação jurisprudencial do Supremo Tribunal Federal - STF e do próprio Superior Tribunal de Justiça - STJ. Contudo, razoável o processamento do feito para verificar a existência de eventual constrangimento ilegal que autorize a concessão da ordem de ofício.
+A irresignação da defesa foi examinada na Corte estadual, com estes fundamentos (fls. 19/20):
+"A Defensoria Pública suscita a nulidade das provas colhidas durante a abordagem do acusado, ante a ocorrência de pescaria probatória (fishing expedition).
+A preliminar defensiva não merece prosperar.
+ ..
+Os depoimentos dos policiais civis Eduardo Felipe, Pedro e Daniel, colhidos sob o crivo do contraditório, foram uníssonos e coerentes: relataram que a delegacia vinha recebendo informações de que o indivíduo conhecido como "Vitinho" estaria envolvido com o tráfico de drogas, movimentando grande quantidade de substâncias entorpecentes. Por fim, a equipe recebeu uma denúncia específica, informando que o apelante não apenas comercializava entoipecentes em sua própria residência, mas também utilizava a casa de sua genitora, Andréa dos Santos Barbosa, como um local seguro para armazenar a maior parte da droga. Houve, então, divisão de equipes que, simultaneamente, realizaram diligências.
+Verifica-se, portanto, que as denúncias anônimas recebidas informaram à autoridade policial a alcunha do acusado ("Vitinho"), a região onde o mesmo estaria traficando (bairro Vila Nova), bem como onde ele escondia drogas: na casa de sua mãe. Ademais, em consulta aos antecedentes do réu, a autoridade policial verificou que ele já havia sido detido em 2020 por praticar, em tese, o mesmo crime no endereço da sua genitora evento 1, DOC1.
+Essas circunstâncias, ao meu ver, são suficientes para caracterizai" a fundada suspeita e legitimar a ação de abordagem dos agentes policiais, de modo que é válida a prova obtida nesse contexto, mormente diante da autorização expressa para ingresso em ambas as residências.
+ ..
+Por essas razões, não havendo falar em pescaria probatória (fishing expedition), rejeito a preliminar de nulidade da busca pessoal."
+O art. 244 do Código de Processo Penal dispõe que "A busca pessoal independerá de mandado, no caso de prisão ou quando houver fundada suspeita de que a pessoa esteja na posse de arma proibida ou de objetos ou papéis que constituam corpo de delito, ou quando a medida for determinada no curso de busca domiciliar".
+Da análise dos trechos colacionados, verifica-se que o Tribunal de origem reconheceu a legalidade da busca pessoal, porquanto precedida de denúncia anônima especificada, indicando a localidade supostamente utilizada pelo acusado para traficância de entorpecentes, bem ainda diligências confirmatórias.
+Dessa forma, conclui-se que o entendimento do acórdão recorrido não destoa da jurisprudência desta Corte, no sentido de que a denúncia anônima, quando suficientemente especificada, consiste em fundada suspeita apta a legitimar a busca.
+Nesse sentido, confiram-se precedentes:
+DIREITO PROCESSUAL PENAL. HABEAS CORPUS. BUSCA DOMICILIAR SEM MANDADO JUDICIAL. FUNDADAS RAZÕES. MINORANTE DO TRÁFICO. MODIFICAÇÃO DA FRAÇÃO APLICADA. IMPOSSIBILIDADE. HABEAS CORPUS NÃO CONHECIDO.
+1. Habeas corpus impetrado contra o acórdão do Tribunal de Justiça do Estado de Goiás que, na revisão criminal, manteve a condenação do paciente por tráfico de drogas, com base em provas obtidas em busca domiciliar sem mandado judicial.
+2. A defesa alega ter havido violação de domicílio e ilicitude das provas, argumentando que a busca foi realizada com base em denúncias anônimas, sem mandado judicial e sem consentimento válido do morador.
+3. A questão em discussão consiste em saber se a busca domiciliar sem mandado judicial estava amparada por fundadas razões que configurassem justa causa, conforme a interpretação constitucional fixada no Tema n. 280 de repercussão geral e na jurisprudência da Corte de origem.
+4. A jurisprudência do Supremo Tribunal Federal reconhece como legítimas a busca pessoal e a entrada forçada em domicílio sem mandado judicial, desde que amparada em fundadas razões devidamente justificadas a posteriori.
+5. No caso, o acórdão recorrido seguiu a orientação consolidada no Tema n. 280, considerando elementos que indicavam a presença de justa causa, como a denúncia anônima específica, a fuga para o interior do imóvel, a autorização de ingresso e a confissão em juízo.
+6. Ademais, não é possível a alteração da fração aplicada à causa de diminuição do tráfico privilegiado, tendo em vista as circunstâncias do caso concreto, especialmente pelo fato de o paciente ter sido preso em flagrante portando petrechos e insumos para a produção e refino de entorpecentes e armazenando mais de 8 quilos de maconha para terceiro que se encontrava dentro do sistema prisional.
+7. Habeas corpus não conhecido.
+(HC n. 986.523/GO, relator Ministro Og Fernandes, Sexta Turma, julgado em 10/3/2026, DJEN de 23/3/2026.)
+DIREITO PROCESSUAL PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. TRÁFICO DE DROGAS. BUSCA PESSOAL. FUNDADAS RAZÕES. DENÚNCIA ESPECÍFICA. JUSTA CAUSA NA AÇÃO POLICIAL. AGRAVO PROVIDO.
+1. A validade da busca pessoal está condicionada à existência de fundadas suspeitas, amparadas em situação fática que denote, diante das peculiaridades e dinâmica dos acontecimentos próprios da diligência policial, clareza e objetividade quanto à posse, por parte do investigado, de objeto que constitua corpo de delito.
+2. No caso concreto, a busca pessoal empreendida foi evidentemente precedida de fundadas razões, uma vez que a diligência foi realizada com base em denúncia anônima específica e detalhada, a qual amparou a fundada suspeita de que o acusado estaria na posse de material ilícito.
+3. A hipótese não reporta uma situação de abordagem pessoal alimentada por informações genéricas ou sem nenhuma referibilidade.
+Também não se observa a hipótese de revista exploratória ou de fishing expedition. Muito pelo contrário, tomando-se em conta o que foi registrado no acórdão recorrido, a ação policial foi especificamente direcionada às pessoas apontadas, em denúncia anônima, como portadoras de material ilícito, em local público e determinado, conhecido, aliás, por ser ponto de venda de drogas, suspeita que se confirmou com a apreensão de 19 porções de maconha na posse do réu e outras 7 porções na posse do corréu, além de R$ 49,00.
+4. A desconstituição das premissas fáticas firmadas pelas instâncias ordinárias demandaria o reexame do acervo fático-probatório dos autos, providência incompatível com o recurso especial.
+5. Agravo regimental provido para restabelecer a condenação originária.
+(AgRg no AREsp n. 2.934.361/AP, relator Ministro Sebastião Reis Júnior, relator para acórdão Ministro Og Fernandes, Sexta Turma, julgado em 21/10/2025, DJEN de 19/12/2025.)
+DIREITO PROCESSUAL PENAL. AGRAVO EM RECURSO ESPECIAL. TRÁFICO DE DROGAS. ALEGAÇÃO DE ILEGALIDADE DE BUSCA PESSOAL. DENÚNCIA ANÔNIMA ESPECIFICADA. FUNDADA SUSPEITA CONFIRMADA POR DILIGÊNCIAS POLICIAIS. PLEITO DE DESCLASSIFICAÇÃO PARA USO PRÓPRIO. ELEMENTOS PROBATÓRIOS INDICATIVOS DE MERCANCIA ILÍCITA DE DROGAS. REVISÃO DE FATOS E PROVAS. SÚMULA N. 7/STJ. AGRAVO CONHECIDO E RECURSO ESPECIAL DESPROVIDO.
+I. CASO EM EXAME
+1. Agravo interposto contra decisão que inadmitiu recurso especial no qual a parte agravante pleiteava a nulidade da busca pessoal realizada sem fundada suspeita e a desclassificação do crime de tráfico de drogas (art. 33 da Lei nº 11.343/2006) para o crime de porte de substância entorpecente para consumo próprio (art. 28 da Lei nº 11.343/2006). A defesa sustenta a ausência de elementos suficientes para a condenação por tráfico.
+II. QUESTÃO EM DISCUSSÃO
+2. Há duas questões em discussão:
+(i) se a busca pessoal realizada pelos policiais militares foi ilegal, diante da alegada ausência de fundada suspeita;
+(ii) se é possível desclassificar o crime de tráfico de drogas para o delito de uso pessoal, considerando a quantidade de entorpecentes apreendida (2,44g de cocaína).
+III. RAZÕES DE DECIDIR
+3. A busca pessoal realizada pelos policiais encontra respaldo nos arts. 240, §2º, e 244 do Código de Processo Penal, tendo sido motivada por denúncia anônima especificada, a qual detalhava características do acusado (vestimenta e local onde se encontrava), sendo confirmada por diligências policiais. Tal procedimento configura exercício regular da atividade investigativa, inexistindo ilegalidade na ação policial.
+4. A materialidade e autoria do crime de tráfico de drogas foram demonstradas por provas robustas, incluindo a apreensão de porções individuais de entorpecentes (2,44g de cocaína) prontas para comercialização e mensagens obtidas mediante extração de dados telefônicos, que evidenciaram o envolvimento do recorrente com atividades de mercancia ilícita e com o grupo criminoso Comando Vermelho.
+5. A condição de usuário, ainda que admitida, não exclui a responsabilidade pelo delito de tráfico de drogas, especialmente diante de elementos que indicam a destinação mercantil da droga apreendida, como a embalagem em porções individuais e a declaração do réu sobre a intenção de venda.
+6. O pleito de desclassificação do crime de tráfico para uso próprio demanda reexame de provas, o que encontra óbice na Súmula nº 7 do Superior Tribunal de Justiça, sendo inviável em sede de recurso especial.
+IV. AGRAVO CONHECIDO. RECURSO ESPECIAL DESPROVIDO.
+(AREsp n. 2.732.440/MT, relatora Ministra Daniela Teixeira, Quinta Turma, julgado em 11/2/2025, DJEN de 17/2/2025.)
+Em relação à alegada invalidade do consentimento posterior para ingresso domiciliar, a matéria não foi discutida na instância ordinária, circunstância que afasta qualquer pronunciamento desta Corte a respeito, sob pena de indevida supressão de instância.
+Ante o exposto, com fundamento no art. 34, inciso XX, do Regimento Interno do Superior Tribunal de Justiça, não conheço do habeas corpus.
+Publique-se.
+Intimem-se.
+ EMENTA
