@@ -1,0 +1,67 @@
+DECISÃO
+ANDREI DE FARIAS PEREIRA DA SILVA alega sofrer constrangimento ilegal em decorrência de acórdão proferido pelo Tribunal de Justiça do Estado do Rio de Janeiro no Agravo de Execução Penal n. 5005728-13.2025.8.19.0500.
+A defesa sustenta, em síntese, que que o juízo da execução penal reconheceu o direito do impetrante à comutação de 1/5 da pena, nos termos do Decreto n. 12.338/2024, mas o Tribunal de origem cassou a benesse por considerar hediondo o roubo majorado com uso de arma de fogo (art. 157, § 2º-A, I, do Código Penal), praticado em 16/1/2016, com fundamento na data do decreto presidencial - e não na do fato.
+Alega violação do art. 5º, XL, da Constituição Federal, pois a Lei n. 13.964/2019, ao incluir o delito no rol dos crimes hediondos, não pode retroagir para prejudicar fatos a ela anteriores. Requer liminar para suspender os efeitos do acórdão impugnado e, ao final, o restabelecimento da comutação de pena deferida pelo Juízo da execução (fls. 2-7).
+Indeferida a liminar (fls. 34-35).
+O juízo da execução penal e o Tribunal de origem prestaram informações (fls. 51-68 e 42-45, respectivamente).
+O Ministério Público Federal se manifestou pelo não conhecimento do habeas corpus, e, caso conhecido, pela sua denegação (fls. 70-75).
+Decido.
+I. Aferição da hediondez no momento da edição do Decreto Presidencial
+A concessão de indulto ou comutação de pena constitui ato discricionário do Presidente da República, condicionado ao preenchimento dos requisitos estabelecidos no decreto presidencial, nos termos do art. 84, XII, da Constituição Federal.
+O Decreto n. 12.338/2024 estabelece, em seu art. 1º, I, que o indulto e a comutação de pena não alcançam as pessoas condenadas por crime hediondo ou equiparado, nos termos da Lei n. 8.072/1990.
+O art. 7º, parágrafo único, do referido Decreto dispõe que, na hipótese de concurso com crime impeditivo, não será declarado o indulto ou a comutação correspondente ao crime não impeditivo enquanto a pessoa condenada não cumprir dois terços da pena correspondente ao crime impeditivo.
+A jurisprudência do Superior Tribunal de Justiça consolidou o entendimento de que a aferição da natureza hedionda do delito, para fins de indulto ou comutação, deve observar a data de edição do decreto presidencial, e não a data da prática do crime.
+Os precedentes desta Corte Superior reafirmam essa orientação, especificamente na análise dos decretos posteriores às modificações introduzidas pela Lei n. 13.964/2019, que passou a considerar o roubo mediante emprego de arma de fogo como hediondo:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO PENAL. INDULTO. ROUBO CIRCUNSTANCIADO PELO EMPREGO DE ARMA DE FOGO. DELITO ELEVADO À CATEGORIA DE HEDIONDO PELA LEI N. 13.964/2019. IMPOSSIBILIDADE DE CONCESSÃO DA BENESSE. VEDAÇÃO EXPRESSA DO ART. 1º, I, DO DECRETO 11.846/2023. NATUREZA DO DELITO QUE DEVE SER AFERIDA NO MOMENTO DA ENTRADA EM VIGOR DO DIPLOMA PRESIDENCIAL. RECURSO IMPROVIDO.
+1 - O Superior Tribunal de Justiça consolidou entendimento no sentido de que "a natureza do crime deve ser aferida ao tempo da entrada em vigor da norma instituidora do benefício." (RHC n. 29.660/PR, relator Ministro NAPOLEÃO NUNES MAIA FILHO, Quinta Turma, julgado em 12/4/2011, DJe de 20/5/2011).
+2 - Na hipótese, o acórdão do Tribunal de Justiça que cassou o deferimento do pedido de concessão do indulto com fundamento no art. 1º, I, do Decreto n. 11.846, de 22 de dezembro de 2023, está em consonância com a disciplina dada pelo referido Decreto e não destoa da jurisprudência desta Corte Superior de Justiça.
+3 - Não foram apontados argumentos suficientes para desconstituir as premissas fixadas na decisão recorrida, razão pela qual inexiste constrangimento ilegal a ser reconhecido e que justifique a reforma da decisão agravada.
+4 - Agravo regimental desprovido.
+(AgRg no HC n. 955.700/SP, relator Ministro Reynaldo Soares da Fonseca, 5ª T., DJEN de 5/3/2025, destaquei.)
+DIREITO PENAL. DIREITO PROCESSUAL PENAL. AGRAVO REGIMENTAL. HABEAS CORPUS. DECRETO PRESIDENCIAL N. 11.846/2023. FIXAÇÃO DE REQUISITOS. COMPETÊNCIA PRIVATIVA DO CHEFE DO PODER EXECUTIVO. VEDADO AO MAGISTRADO AMPLIAR OU RESTRINGIR HIPÓTESES. DESCUMPRIMENTO DAS CONDIÇÕES DO INDULTO. CRIMES COMETIDOS COM VIOLÊNCIA OU GRAVE AMEAÇA. AGRAVO REGIMENTAL NÃO PROVIDO.  ..
+6. Agravo regimental não provido. Tese de julgamento: 1. A concessão de indulto ou comutação de penas é vedada para crimes praticados com violência ou grave ameaça à pessoa e para crimes hediondos, sendo que a hediondez do crime é aferida no momento da promulgação do decreto presidencial. Dispositivos relevantes citados: Decreto Presidencial n. 11.846/2023, Código Penal, art. 157, § 2º, I e II.  .. .
+(AgRg no HC n. 976.180/SP, relator Ministro Otávio de Almeida Toledo - Desembargador convocado do TJSP, 6ª T., DJEN de 2/6/2025, destaquei.)
+AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO. COMUTAÇÃO DE PENA. DECRETO N. 12.338/2024. CRIME HEDIONDO. VEDAÇÃO LEGAL. AFERIÇÃO REALIZADA QUANDO EDITADO O DECRETO. HABEAS CORPUS INDEFERIDO LIMINARMENTE. AGRAVO REGIMENTAL DESPROVIDO.
+1. Sobre o pedido de comutação com base no Decreto n. 12.338/24, a Corte estadual compreendeu não ser possível a concessão da benesse, tendo em vista que o apenado foi condenado por crime hediondo.
+2. O entendimento adotado pelo Tribunal local não destoa da orientação jurisprudencial desta Corte Superior segundo a qual a hediondez do delito, para fins de indulto e comutação, é aferida na data de edição do respectivo decreto e não no momento da prática delituosa.
+3. Agravo regimental desprovido.
+(AgRg no HC n. 991.855/SP, relator Ministro Antonio Saldanha Palheiro, 6ª T., DJEN de 20/5/2025, destaquei).
+Não há violação do princípio da legalidade ou da irretroatividade da lei penal mais gravosa. Tratando-se o indulto de ato discricionário do Presidente da República, restrito às condições estabelecidas no decreto presidencial, a vedação de sua concessão aos condenados por crimes hediondos não configura aplicação retroativa de lei mais gravosa.
+A abrangência dos limites e dos pressupostos da indulgência deve ser analisada a partir da publicação do Decreto.
+II. Interpretação do Decreto n. 12.338/2024
+O Decreto n. 12.338/2024 disciplinou o indulto natalino e definiu, em seu artigo 1º, uma lista de delitos impeditivos, contemplando o crime hediondo.
+Art. 1º O indulto e a comutação de pena não alcançam as pessoas, nacionais e migrantes, condenadas:
+I - por crime hediondo ou equiparado, nos termos do disposto na Lei nº 8.072, de 25 de julho de 1990;
+ ..
+Conforme a Lei n. 8.072/1990, com redação dada pela Lei n. 13.964/2019, o roubo circunstanciado pelo emprego de arma de fogo (art. 157, § 2º-A, I) é considerado hediondo (art. 1º, II).
+Por sua vez, o parágrafo único do art. 7º do Decreto n. 12.338/2024 estabelece:
+Art. 7º Para fins da declaração do indulto e da comutação de pena, as penas correspondentes a infrações diversas deverão ser somadas até 25 de dezembro de 2024.
+Parágrafo único. Na hipótese de haver concurso com crime previsto no art. 1º, não será declarado o indulto ou a comutação de pena correspondente ao crime não impeditivo enquanto a pessoa condenada não cumprir dois terços da pena correspondente ao crime impeditivo.
+Enquanto não cumprida a fração exigível de dois terços da pena do delito impeditivo, não é cabível o indulto ou a comutação aos demais crimes que preenchem os requisitos. Vejamos.
+AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO. INDULTO. DECRETO N. 12.338/2024. REQUISITO OBJETIVO NÃO IMPLEMENTADO. CUMPRIMENTO DE 2/3 DA PENA DECORRENTE DE CONDENAÇÃO POR CRIME IMPEDITIVO. TRÁFICO DE DROGAS. HEDIONDO. HABEAS CORPUS INDEFERIDO LIMINARMENTE. AGRAVO REGIMENTAL DESPROVIDO.
+1. Sobre o pedido de indulto com base no Decreto n. 12.338/2024, a Corte estadual compreendeu não ser possível a concessão da benesse, tendo em vista que apenado não resgatou 2/3 da pena referente à condenação por crimes impeditivos (tráfico de drogas, por se tratar de crime hediondo).
+2. Extrai-se do art. 7º, parágrafo único, do Decreto n. 12.338/2024 que, " n a hipótese de haver concurso com crime descrito no art. 1º, não será declarado o indulto ou a comutação da pena correspondente ao crime não impeditivo enquanto a pessoa condenada não cumprir dois terços da pena correspondente ao crime impeditivo".
+3. A expressão "concurso", utilizada pelo artigo supracitado, deve ser compreendida em seu sentido amplo, como unificação de penas, ou seja, a prática de qualquer desses delitos, não se referindo, pois, aos arts. 69 e 70 do Código Penal.
+4. Agravo regimental desprovido.
+(AgRg no HC n. 1.040.121/SP, Rel. Ministro Antonio Saldanha Palheiro, 6ªT., DJEN de 16/12/2025, destaquei)
+Desta forma, deve-se cumprir a fração de dois terços dos delitos impeditivos para ser possível a concessão do indulto ou da comutação aos crimes não impeditivos que preenchem os demais requisitos do decreto.
+III. O caso dos autos
+O juízo da execução penal deferiu pedido de comutação de pena com os seguintes argumentos (fls. 22-26):
+Trata-se de pedido de comutação da Defesa com fulcro no Decreto 2024.
+Parecer ministerial pelo indeferimento, alegando crime impeditivo.
+A despeito do percuciente parecer ministerial, é certo que os crimes de roubo com emprego de arma de fogo, praticados antes da data de 23/01/2020 - data da vigência da lei 13.964/19 - não ostentavam a condição de crimes hediondos em face da ausência de lei dispondo neste sentido, a qual somente sobreveio ao ordenamento jurídico após a supra mencionada data de vigência do pacote anti-crime.
+Destarte, conquanto não se descure tratar-se de questão controvertida na jurisprudência, entendo que a melhor orientação do tema cabe àqueles que preconizam a impossibilidade de retroatividade da lei 13.964/19, por ser mais gravosa neste particular, ainda que à época de edição do respectivo Decreto de indulto/comutação tal delito tivesse sido, em abstrato, enquadrado na categoria de crimes hediondos e equiparados.
+Todavia, os fatos concretamente perpetrados pelo ora apenado não podem ser considerados hediondos: a uma, diante da ausência de previsão legal neste sentido; e a duas, por caracterizar uma retroação de norma prejudicial ao réu a crimes anteriores. Ambos os argumentos de constitucional (Princípio da Legalidade - não há crime sem lei anterior status que o defina - art. 5º, II, da CR/88; e Princípio da Irretroatividade da Lei mais Gravosa - art. 5º, XL, da CR/88), os quais entendo devem prevalecer sobre a previsão constante em decreto presidencial, com status de norma primária.
+Neste sentido, os acórdãos abaixo emanados deste e. TJRJ:  ..
+Assim, considerando que o apenado, reincidente, cumpriu mais de  de suas penas de crimes comuns em 25/12/2023, DEFIRO a comutação de 1/5 de sua pena com base no Decreto 12.338/2024.
+Atualizem-se os cálculos.
+ ..
+O Tribunal de origem deu provimento ao recurso de agravo em execução interposto pelo Ministério Público, com acórdão assim ementado (fls. 66-67):
+AGRAVO EM EXECUÇÃO. RECURSO DO MINISTÉRIO PÚBLICO. DECRETO PRESIDENCIAL Nº 12.338/2024. INDULTO NATALINO. CRIME DE ROUBO MAJORADO PELO EMPREGO DE ARMA DE FOGO. VEDAÇÃO LEGAL. DELITO IMPEDITIVO À CONCESSÃO DE COMUTAÇÃO. 1. Conforme se extrai da consulta ao sistema SEEU bem assim das peças que instruem este agravo em execução, o agravante possui uma Carta de Execução de Sentença em trâmite na VEP sob o nº 0265472-92.2019.8.19.0001, em razão de dois processos criminais a que respondeu pelos crimes do art. 157 §2º,I e V e 157, caput do Código Penal. 2. Na espécie, o Juízo da Vara de Execuções Penais concedeu ao apenado a comutação de 1/5 da pena do crime com base no Decreto 12.338/2024, por entender que o crime praticado pelo apenado (roubo com emprego de arma de fogo), não pode ser considerado como hediondo, pois praticado em 2016, anterior portanto à entrada em vigor da Lei nº 13.964/2019, que passou a classificar como hediondo o crime de roubo perpetrado com emprego de arma de fogo (art. 157, §2º-A, I, do CP). 3. Não obstante, a aferição da natureza hedionda do delito, para fins de concessão de indulto e comutação de penas, em que pese a existência de opiniões em sentido contrário, deve considerar a data da publicação do Decreto Presidencial, não a data do cometimento do delito. 4. Não há aqui qualquer ofensa ao princípio da irretroatividade da lei penal mais gravosa, uma vez que o Decreto, editado no exercício do poder discricionário do Presidente da República, define os critérios e requisitos com base na legislação vigente. Com efeito, deve ser observada a regra contida no artigo 1º, inciso I, do Decreto nº 12.338/24, que afasta sua incidência em relação aos delitos hediondos. Precedentes do STF e STJ. Recurso Provido.
+Tratando-se de sentenciado condenado pela prática de delito hediondo, reincidente simples (relatório da situação processual executória juntado às fls. 27-30), a comutação da pena somente é possível caso tenha cumprido 2/3 da reprimenda até 25/12/2024, nos termos do que dispõe o parágrafo único do art. 7º do Decreto n. 12.338/2024.
+Conforme reconhecido pelo Tribunal de origem, na data de 25/12/2024 o impetrante não havia cumprido 2/3 da pena do crime hediondo para que pudesse ser beneficiado pelo indulto de crime não impeditivo.
+A ausência de cumprimento da fração exigida pelo decreto constitui óbice à concessão da comutação.
+IV. Dispositivo
+À vista do exposto, denego a ordem de habeas corpus.
+Publique-se e intimem-se.
+EMENTA
