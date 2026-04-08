@@ -1,0 +1,50 @@
+DECISÃO
+
+Trata-se de execução penal autuada em face de JOÃO CLÁUDIO TOZZI, decorrente da AP  2436/DF, julgada procedente para condenar i réu à pena de 14 (quatorze) anos, sendo 12 (doze) anos e 6 (seis) meses de reclusão e 1 (um) ano e 6 (seis) meses de detenção e 100 (cem) dias-multa, cada dia-multa no valor de 1/3 (um terço) do salário mínimo, pois incurso nos artigos:
+
+- 359-L (abolição violenta do Estado Democrático de Direito) do Código Penal, à pena de 4 (quatro) anos e 6 (seis) meses  de reclusão;
+- 359-M (Golpe de Estado) do Código Penal, à pena de 5 (cinco) anos de reclusão;
+- 163, parágrafo único, I, II, III e IV (dano qualificado) todos do Código Penal, à pena de 1 (um) ano e 6 (seis) meses de detenção e 50 (cinquenta) dias-multa, fixando cada dia-multa em 1/3 (um terço) do salário mínimo;
+- 62, I (deterioração do Patrimônio tombado), da Lei 9.605/1998, à pena de 1 (um) ano e 6 (seis) meses de reclusão e 50 (cinquenta) dias-multa, fixando cada dia-multa em 1/3 (um terço) do salário mínimo;
+- 288, parágrafo único (associação criminosa armada), do Código Penal, à pena de 1 (um) ano e 6 (seis) meses de reclusão.
+
+O réu também foi condenado ao pagamento do valor mínimo indenizatório a título de danos morais coletivos de R$ 30.000.000,00 (trinta milhões de reais), a ser adimplido de forma solidária pelos demais condenados, em favor do fundo a que alude o art. 13 da Lei 7.347/1985.
+Foi fixado o regime fechado para o início do cumprimento da pena (eDoc. 217).
+Em 16/6/2025, substituí a prisão preventiva de JOÃO CLÁUDIO TOZZI pela prisão domiciliar, em seu endereço residencial (eDoc. 63).
+Em 12/02/2026, em virtude do trânsito em julgado do acórdão condenatório, determinei o início do cumprimento da pena de reclusão, em regime fechado, em relação ao réu JOÃO CLÁUDIO TOZZI (CPF 490.547.329- 20), COM A MANUTENÇÃO DA PRISÃO DOMICILIAR ACRESCIDA DAS MEDIDAS CAUTELARES (eDoc. 102).
+Em 03/03/2026, a Vara de Execuções Penais e Corregedoria de Presídios de Maringá remeteu o seguinte pedido de esclarecimentos: “Trata-se de pedidos de providências solicitado pelo Excelentíssimo Senhor Ministro Alexandre de Moraes, do Supremo Tribunal Federal para a emissão e juntada do atestado de pena de JOÃO CLAUDIO TOZZI. Compulsando os autos, verifica-se que a execução penal em face de JOÃO CLAUDIO TOZZI tramita originariamente perante o Supremo Tribunal Federal, ao passo que a fiscalização da monitoração eletrônica e das medidas cautelares está sendo operacionalizada pela Justiça Federal. Diante da dualidade de registros e visando evitar a duplicidade de atos ou conflitos de atribuição, oficie-se ao Supremo Tribunal Federal, com a urgência que o caso requer, solicitando esclarecimentos acerca da competência para a prática dos atos de gestão da execução. Especificamente, requer-se a confirmação de que compete a este Juízo da Vara de Execuções Penais (VEP) de Maringá/PR a emissão e juntada do atestado de pena a cumprir, bem como o cálculo de detração, ou se tais providências permanecem sob a responsabilidade do Juízo Federal fiscalizador ou da própria Corte Superior”.
+Em 06/03/2026, determinei que fosse oficiado ao Juízo da Vara de Execuções Penais de Maringá/PR, com cópia dos documentos previstos no art. 1º da Resolução CNJ nº 113 de 2010, para que, no prazo de 5 (cinco) dias, procedesse à emissão do atestado de pena a cumprir do apenado JOÃO CLÁUDIO TOZZI (eDoc. 108).
+Em 06/03/2026, a defesa do apenado requereu: “a) autorização para que o apenado possa ausentar-se de sua residência exclusivamente para fins de exercício de atividade laboral, conforme proposta de emprego constante da declaração anexada aos autos; b) que seja autorizado o deslocamento do requerente entre sua residência e o local de trabalho no período compreendido entre seis horas e dezoito horas, de segunda feira a sexta feira, ou conforme eventual necessidade da jornada laboral; c) que seja estabelecida a obrigação de retorno imediato do apenado à sua residência ao término da jornada de trabalho, permanecendo inalteradas todas as demais condições impostas ao regime domiciliar; d) que, caso Vossa Excelência entenda pertinente, sejam fixadas medidas adicionais de controle e fiscalização, tais como comprovação periódica da atividade laboral ou quaisquer outras condições que este Supremo Tribunal Federal reputar adequadas” (eDoc. 105).
+Em 11/03/2026, determinei que o apenado JOÃO CLÁUDIO TOZZI fosse submetido a nova perícia médica, a ser realizada pela Casa de Custódia de Maringá/PR, no prazo de 48 (quarenta e oito) horas (eDoc. 113).
+Em 17/03/2026, o Diretor da Casa de Custódia de Maringá informou, no Ofício nº. 064/2026 (eDoc. 117):
+
+ “Em atenção ao Ofício Eletrônico nº 5188/2026, bem como à respeitável decisão proferida em 11 de março de 2026, vem, respeitosamente, à presença de Vossa Excelência informar que esta Casa de Custódia de Maringá não dispõe de profissional médico e ou perito integrante de seu quadro funcional, circunstância que inviabiliza a constituição de junta médica oficial para a realização de avaliações periciais. Outrossim, certifica-se que os profissionais médicos que atualmente prestam serviços no setor de saúde deste Estabelecimento Penal são disponibilizados por meio de convênio PNAISP, firmado entre o Ministério da Saúde e a Prefeitura Municipal de Maringá. Nesse contexto, cumpre esclarecer que há, no momento, apenas uma médica clínica geral em exercício nesta unidade. Ademais, informa-se que o réu JOÃO CLÁUDIO TOZZI, filho de Agenor Tozzi e Áurea Thomé Tozzi, foi devidamente notificado, tendo comparecido a esta unidade na data de 16 de março de 2026, ocasião em que foi submetido à avaliação de seu quadro clínico, conforme laudo anexo”.
+Em 17/03/2026, a Direção da Casa de Custódia e o médico generalista subscreveram resposta ao ofício eletrônico nº 5188 de 2026 (eDoc. 183).
+Em 18/03/2026, determinei a expedição de ofício à Direção da Casa de Custódia de Maringá para que esclarecesse se a unidade prisional possui recursos para o cumprimento da pena pelo apenado (eDoc. 121).
+Em 23/03/2026, a Direção da Casa de Custódia e o médico generalista subscreveram resposta ao Ofício Eletrônico nº 6066/2026 (eDoc. 129).
+Em 30/03/2026, a Procuradoria-Geral da República apresentou a seguinte manifestação: “O documento remetido, no entanto, não apresenta conclusão médica assertiva quanto à compatibilidade de manutenção dos cuidados médicos no cárcere, não esclarecendo se o tratamento a que João Cláudio Tozzi é submetido é viável na unidade prisional. A manifestação é pelo indeferimento do pedido de autorização trabalho externo e pela manutenção da prisão domiciliar de João Cláudio Tozzi e sua submissão à junta médica oficial para avaliar o seu quadro clínico e a viabilidade de prestação dos cuidados necessários no âmbito carcerário” (eDoc. 137).
+
+É o relatório. DECIDO.
+
+A prisão domiciliar concedida ao sentenciado representa uma medida excepcionalíssima, fundamentada exclusivamente em razões de saúde, para substituir o recolhimento em estabelecimento prisional (HC 153961, Rel. Min. DIAS TOFFOLI, Segunda Turma, DJe de 25/5/2020).
+Importante destacar que tal concessão não implicou alteração do regime de cumprimento de pena, que permanece sendo o fechado, conforme fixado no título executivo judicial transitado em julgado. A substituição do local de cumprimento da pena não se confunde com a progressão para um regime mais brando.
+Nesse contexto, o apenado continua sujeito às regras e restrições inerentes ao regime fechado, ainda que esteja em seu domicílio.
+A legislação de regência, notadamente a Lei de Execução Penal (Lei nº 7.210/1984), estabelece requisitos específicos para a concessão do trabalho externo a presos do regime fechado. O artigo 37 da referida lei é claro ao exigir, além de aptidão, disciplina e responsabilidade, o cumprimento mínimo de 1/6 (um sexto) da pena:
+
+Art. 37. A prestação de trabalho externo, a ser autorizada pela direção do estabelecimento, dependerá de aptidão, disciplina e responsabilidade, além do cumprimento mínimo de 1/6 (um sexto) da pena.
+
+Conforme consta dos autos, o sentenciado cumpriu, até a presente data, 2 (dois) anos, 5 (cinco) meses e 14 (catorze) dias de sua pena total, lapso temporal apontado pelo Ministério Público como inferior ao requisito objetivo exigido pela lei. Soma-se a isso a ausência de indicação prévia do local de trabalho e de manifestação favorável da autoridade competente acerca da aptidão e disciplina do apenado.
+Ademais, o trabalho externo para presos em regime fechado é admitido, em regra, para a prestação de serviços ou em obras públicas, mediante cautelas contra a fuga e em favor da disciplina, conforme o artigo 36 da Lei de Execução Penal. A atividade pretendida, de natureza privada e a ser exercida em home office, não se amolda a essa hipótese legal e flexibilizaria, de forma indevida, as condições do regime imposto.
+Autorizar o trabalho externo, nas condições pleiteadas, desvirtuaria a finalidade da prisão domiciliar humanitária, que é a de viabilizar tratamento de saúde, e não a de antecipar um benefício ao qual o sentenciado ainda não faz jus.
+A natureza da prisão domiciliar, neste caso, é substitutiva do cárcere, mas não afasta a essência do regime fechado, que é incompatível com a benesse do trabalho externo sem o preenchimento dos rigorosos requisitos legais.
+Diante de todo o exposto, nos termos dos artigos 21 e 341 do Regimento Interno do STF:
+A) INDEFIRO o pedido de autorização para trabalho externo formulado pela defesa de JOÃO CLÁUDIO TOZZI;
+B) DETERMINO ao Juízo da Vara de Execuções Penais de Maringá que oficie o órgão da Secretaria de Administração Penitenciária responsável pela realização de perícias no âmbito prisional para que, no prazo de 5 (cinco) dias, avalie o quadro clínico do apenado e a viabilidade de prestação dos cuidados necessários no âmbito carcerário.
+Intimem-se os advogados regularmente constituídos.
+Ciência à Procuradoria-Geral da República.
+Publique-se.
+Brasília, 8 de abril de 2026.
+
+Ministro ALEXANDRE DE MORAES
+Relator
+Documento assinado digitalmente
