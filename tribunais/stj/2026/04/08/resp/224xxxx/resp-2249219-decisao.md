@@ -1,0 +1,36 @@
+DECISÃO
+Trata-se de recurso especial interposto por C.G. ENGENHARIA E CONSTRUTORA LTDA., fundamentado no art. 105, inciso III, alíneas "a" e "c", da Constituição Federal, contra acórdão proferido pelo eg. Tribunal de Justiça do Estado de São Paulo, assim ementado:
+"APELAÇÃO - Ação de obrigação de fazer c.c. indenização por danos morais Protesto de duplicata Sentença de procedência Recurso do réu Pretensão que visa à manutenção da cobrança realizada Acolhimento - Autor que realiza pagamento de boleto bancário fraudado recebido por e- mail Pagamento direcionado para terceira pessoa que poderia ter sido verificado pela parte autora Duplicata não adimplida Protesto devido - Ausência de responsabilidade do réu Sentença alterada, julgando-se improcedente a ação, e procedente a reconvenção Recurso do réu provido, com inversão do ônus da sucumbência." (e-STJ, fls. 217-220)
+Os embargos de declaração foram acolhidos, sem efeitos modificativos (e-STJ, fls. 356-358).
+Em seu recurso especial, o recorrente alega violação dos seguintes dispositivos da legislação federal, com as respectivas teses:
+(i) arts. 1.007, caput e § 4º, do Código de Processo Civil, pois teria havido conhecimento da apelação sem a comprovação do preparo no ato da interposição e, mesmo após intimação, não teria sido recolhido em dobro no prazo; a aceitação posterior, fora do prazo e em valor simples, teria violado a exigência legal e acarretaria deserção.
+(ii) art. 309 do Código Civil, pois o pagamento feito de boa-fé por meio de boleto enviado pelo próprio credor por e-mail, ainda que direcionado a terceiro que atua como intermediador de pagamentos, teria sido válido como quitação a credor putativo; o acórdão teria negado eficácia ao pagamento em contrariedade ao dispositivo.
+(iii) art. 942, caput, do Código de Processo Civil, pois, no julgamento ampliado por resultado não unânime, não teria sido assegurado o direito de sustentação oral perante os novos julgadores, em afronta à regra que assegura tal prerrogativa.
+(iv) arts. 1.007, caput e § 4º, do Código de Processo Civil (dissídio), pois o acórdão teria adotado interpretação divergente da jurisprudência quanto à necessidade de recolhimento em dobro e à deserção quando não comprovado o preparo tempestivamente.
+(v) art. 309 do Código Civil (dissídio), pois o acórdão teria decidido de modo divergente sobre a validade do pagamento a credor putativo em casos de boleto fraudado enviado pelo próprio credor.
+Não foram ofertadas contrarrazões, conforme certidão de fl. 410, e-STJ.
+É o relatório. Passo a fundamentar e decidir.
+O recurso merece parcial provimento especificamente quanto ao argumento de violação ao art. 942 do Código de Processo Civil.
+Examinando os autos, verifica-se que a recorrente sustenta a nulidade do acórdão recorrido sob o fundamento de que, quando do julgamento ampliado, impõe-se a prévia intimação das partes, a fim de que lhes seja oportunizada a realização de sustentação oral.
+Como é notório, a finalidade da técnica de ampliação do colegiado é "aprofundar a discussão a respeito de controvérsia, de natureza fática ou jurídica, acerca da qual houve dissidência" (REsp 1.771.815/SP, Terceira Turma, DJe de 21/11/2018).
+O aprofundamento do debate ocorre com a convocação de novos julgadores, em número suficiente para possibilitar a inversão do resultado inicialmente proclamado. Ressalte-se, ainda, que esta Corte Superior possui orientação firme de que há nulidade no julgamento estendido quando não se oportuniza ao patrono da parte a realização de sustentação oral. A propósito:
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. INTEMPESTIVIDADE. RECONSIDERAÇÃO. AÇÃO DE RESCISÃO CONTRATUAL CUMULADA COM PERDAS E DANOS. JULGAMENTO ESTENDIDO. SUSTENTAÇÃO ORAL. INOBSERVÂNCIA DO ART. 942 DO CPC. AGRAVO INTERNO PROVIDO PARA CONHECER DO AGRAVO EM RECURSO ESPECIAL. RECURSO ESPECIAL PROVIDO.
+1. O recurso especial foi interposto tempestivamente, sendo comprovados, no momento da interposição, os feriados locais. Decisão da Presidência desta Corte Superior reconsiderada.
+2. Na hipótese de julgamento estendido (art. 942 do CPC), faz-se mister possibilitar ao advogado a realização de sustentação oral, sob pena de nulidade.
+3. Agravo interno provido para conhecer do agravo e dar provimento ao recurso especial, com o fim de determinar o retorno dos autos à Corte de origem para que realize novo julgamento, com a prévia intimação do recorrente para realizar sustentação oral."
+(AgInt no AREsp n. 2.226.463/SP, relator Ministro Raul Araújo, Quarta Turma, julgado em 5/6/2023, DJe de 13/6/2023, g.n.)
+"RECURSO ESPECIAL. DIREITO CIVIL, CONSUMIDOR E PROCESSUAL CIVIL. RESPONSABILIDADE CIVIL PELO FATO DO SERVIÇO. ATRASO DE VOO. PASSAGEIRO MENOR (15 ANOS). JULGAMENTO ESTENDIDO. 1. PROCESSUAL CIVIL. JULGAMENTO ESTENDIDO. REALIZAÇÃO DA EXTENSÃO DO JULGAMENTO NA MESMA SESSÃO EM QUE LEVADO O VOTO VISTA VENCIDO. INTERPRETAÇÃO DA LOCUÇÃO "SENDO POSSÍVEL" CONSTANTE NO ENUNCIADO DO §1º DO ART. 842 DO CPC. NECESSIDADE DE SALVAGUARDA DO DEVIDO PROCESSO LEGAL E DA AMPLA DEFESA.
+1.1. Esta Corte Superior é chamada a dizer da correta interpretação da locução "sendo possível" constante no início do §1º do art. 942 do CPC, dispositivo a condicionar a realização do julgamento estendido na mesma sessão em que verificada a não unanimidade, e, ainda, acerca do direito à indenização pelo atraso de voo doméstico.
+1.2. O legislador de 2015 estava imbuído do espírito que se fez evidenciar em multifárias passagens do CPC no sentido do primado do devido processo legal, e centrado, notadamente, no constitucional direito ao contraditório e à ampla defesa.
+1.3. A regra do §1º do art. 942 do CPC é clara e expressa acerca da possibilidade de o julgamento estendido ocorrer na mesma sessão quando: a) os demais integrantes do colegiado, embora não tendo participado do julgamento anterior, estiveram presentes à sustentação oral, dando-se por habilitados para o julgamento estendido, ou, b) quando se possibilite ao advogado, agora em face da extensão do julgamento e inclusão de novos integrantes, a realização de sustentação oral.
+1.4. Caso concreto em que não se possibilitou ao advogado do demandante, ora recorrente, sustentar oralmente, o que, assim, faria nulo o julgamento realizado.
+1.5. Nulidade, porém, que pode ser superada ante a possibilidade de, no mérito, ser provido o recurso especial, alcançando-lhe o direito à indenização pretendida.
+(..)
+3. RECURSO ESPECIAL PROVIDO."
+(REsp 1.733.136/RO, Relator Ministro PAULO DE TARSO SANSEVERINO, Terceira Turma, julgado em 21/9/2021, DJe de 24/9/2021)
+Isso ocorre porque a sustentação oral pode influir no ânimo dos novos julgadores chamados à resolução da lide no contexto do julgamento estendido.
+Dessa forma, à luz das razões acima delineadas, impõe-se a reforma do acórdão recorrido.
+Por fim, cumpre destacar que, diante do acolhimento da alegação de nulidade do julgamento, fica prejudicada a análise das demais matérias suscitadas nas razões recursais.
+Ante o exposto, voto no sentido de dar parcial provimento ao recurso especial, para reconhecer a nulidade do julgamento e determinar o retorno dos autos ao Tribunal de origem, a fim de que seja realizado novo julgamento, com a intimação da parte recorrente, garantindo-lhe a oportunidade de exercer a sustentação oral.
+É como voto.
+EMENTA
