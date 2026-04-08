@@ -1,0 +1,39 @@
+DECISÃO
+Trata-se de agravo interposto da decisão que não admitiu o recurso especial pelo qual o MUNICÍPIO DE BOA VIAGEM se insurgira contra o acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DO CEARÁ assim ementado (fl. 109):
+Administrativo e Processo civil. Apelação cível. Ação Ordinária de Cobrança. Adicional de tempo de serviço. Previsão legal. Sentença procedente. Recurso conhecido e desprovido. I. Caso em exame: 1. Apelação cível objetivando a reforma de sentença que julgou procedente a pretensão autoral de condenação do Município de Boa Viagem ao pagamento de adicional de tempo de serviço. II. Questão em discussão: 2. A questão em discussão consiste em analisar se servidora faz jus a verba pleiteada. III. Razões de decidir: 3. Demandado que não se desincumbiu de comprovar fato impeditivo, modificativo ou extintivo do direito da demandante. IV. Dispositivo e tese: 4. Apelação conhecida e desprovida.
+Não foram opostos embargos de declaração.
+Em suas razões, a parte agravante requer o conhecimento do agravo a fim de que seja determinado o processamento do recurso especial.
+A parte adversa apresentou contraminuta (fls. 163/166).
+É o relatório.
+Da irresignação não é possível conhecer visto que a parte agravante não refutou adequadamente a decisão agravada.
+O Tribunal de origem não admitiu o recurso especial porque o acórdão recorrido estaria conformado ao entendimento deste Tribunal.
+Confiram-se estes trechos da decisão de admissibilidade (fls. 144/146):
+É cediço que, a Corte Especial, no julgamento do REsp 1.101.727/PR, submetido ao rito dos recursos repetitivos, firmou o entendimento de que a dispensa de reexame necessário, quando o valor da condenação ou do direito controvertido for inferior a sessenta salários mínimos, não se aplica a sentenças ilíquidas (Tema 17 do STJ - REsp n. 1.101.727/PR, relator Ministro Hamilton Carvalhido, Corte Especial, julgado em 4/11/2009, DJe de 3/12/2009).
+Não obstante, o STJ também entende que, constatando-se de plano que o valor da condenação possa ser aferido por meros cálculos aritméticos e não ultrapasse as balizas previstas pelo art. 496, § 3º, do CPC/2015, não há iliquidez do título a atrair a remessa necessária. Nesse sentido:
+ ..
+Ademais, registro julgado do STJ (REsp 2149342) em demanda similar à presente envolvendo o Município de Boa Viagem (ora recorrente) em que se decidiu e se assentou que "o entendimento adotado no acórdão recorrido encontra-se em consonância com a orientação desta Corte acerca da dispensa do reexame necessário se houver possibilidade de aferição por simples cálculos aritméticos de que o valor da condenação não ultrapassa o
+teto de 1.000 (mil) salários mínimos."
+Dessa forma, a conformidade da decisão recorrida com a jurisprudência do STJ atrai a incidência da Súmula 83 dessa Corte Superior e constitui óbice à admissão do recurso especial, pela alínea "a" do inciso III, do art. 105 da Constituição Federal. A saber  .. .
+Constata-se que a parte agravante reiterou as razões do recurso especial e, quanto ao fundamento de inadmissão, limitou-se a afirmar o seguinte (fl. 156):
+Com a devida vênia, não se aplica ao caso a Súmula 83/STJ.
+Isso porque o próprio STJ, em julgamento submetido ao rito dos repetitivos (Tema 17), fixou tese vinculante no sentido de que a dispensa da remessa necessária não se aplica a sentenças ilíquidas, ainda que de valor estimável.
+Ou seja, há distinção fundamental: a jurisprudência posterior invocada pela r. decisão agravada se refere a hipóteses de cálculos simples em matérias previdenciárias, enquanto aqui se trata de verbas estatutárias de servidores municipais, de natureza distinta e sem parâmetros uniformes de cálculo.
+Portanto, não se pode concluir que o r. acórdão recorrido está em sintonia com a jurisprudência pacífica do STJ. Ao contrário, o caso exige a aplicação da tese firmada em recurso repetitivo, que prevalece sobre precedentes pontuais.
+O objetivo do agravo em recurso especial é o de desconstituir a decisão de inadmissão do recurso especial, sendo, por isso, imprescindível a impugnação específica de todos os fundamentos nela lançados com o fim de demonstrar o seu desacerto, o que, como se vê, não foi feito no presente caso.
+Dessa forma, por faltar impugnação pertinente, aplico ao presente caso, por analogia, a Súmula 182 do Superior Tribunal de Justiça, segundo a qual "é inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada".
+Na mesma linha:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA AOS FUNDAMENTOS DA DECISÃO AGRAVADA. INCIDÊNCIA DA SÚMULA 182/STJ. AGRAVO INTERNO DA FAZENDA NACIONAL NÃO CONHECIDO.
+1. A parte agravante deve infirmar os fundamentos da decisão impugnada, mostrando-se inadmissível o recurso que não se insurge contra todos eles - Súmula 182 do Superior Tribunal de Justiça.
+2. Em análise do Agravo Interno interposto, tem-se que a parte agravante não rebateu todos fundamentos da decisão que conheceu do Agravo para conhecer em parte e negar provimento ao Recurso Especial, pois deixou de se manifestar acerca da incidência das Súmulas 282 e 356/STF.
+3. Por fim, há de se registrar a necessidade de impugnação devida e específica de todos os fundamentos da decisão agravada, mesmo que sejam distintos e independentes entre si.
+4. Agravo Interno da FAZENDA NACIONAL não conhecido.
+(AgInt no AREsp n. 1.616.546/SC, relator Ministro Napoleão Nunes Maia Filho, Primeira Turma, julgado em 22/6/2020, DJe de 29/6/2020.)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RAZÕES DO AGRAVO QUE NÃO IMPUGNAM, ESPECIFICAMENTE, TODOS OS FUNDAMENTOS DA DECISÃO QUE NÃO ADMITIU O RECURSO ESPECIAL. ART. 932, III, DO CPC/2015 E SÚMULA 182/STJ, POR ANALOGIA. AGRAVO INTERNO NÃO PROVIDO.
+ ..
+II. Incumbe ao agravante infirmar, especificamente, todos os fundamentos da decisão que inadmitiu o Recurso Especial, demonstrando o seu desacerto, de modo a justificar o processamento do apelo nobre, sob pena de não ser conhecido o Agravo (art. 932, III, do CPC vigente). Nesse sentido: STJ, AgRg no AREsp 704.988/RS, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe de 10/09/2015; EDcl no AREsp 741.509/SP, Rel. Ministra REGINA HELENA COSTA, PRIMEIRA TURMA, DJe de 16/09/2015; AgInt no AREsp 888.667/RJ, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, DJe de 18/10/2016; AgInt no AREsp 895.205/PB, Rel. Ministro FRANCISCO FALCÃO, SEGUNDA TURMA, DJe de 20/10/2016; AgInt no AREsp 800.320/MG, Rel. Ministro OG FERNANDES, SEGUNDA TURMA, DJe de 13/10/2016; EAREsp 701.404/SC, Rel. Ministro JOÃO OTÁVIO DE NORONHA, Rel. p/ acórdão Ministro LUIS FELIPE SALOMÃO, CORTE ESPECIAL, DJe de 30/11/2018; EAREsp 831.326/SP, Rel. Ministro JOÃO OTÁVIO DE NORONHA, Rel. p/ acórdão Ministro LUIS FELIPE SALOMÃO, CORTE ESPECIAL, DJe de 30/11/2018; EAREsp 746.775/PR, Rel. Ministro JOÃO OTÁVIO DE NORONHA, Rel. p/ acórdão Ministro LUIS FELIPE SALOMÃO, CORTE ESPECIAL, DJe de 30/11/2018.
+III. No caso, por simples cotejo entre o decidido e as razões do Agravo em Recurso Especial verifica-se a ausência de impugnação específica de todos os fundamentos da decisão que, em 2º Grau, inadmitira o Especial, o que atrai a aplicação do disposto no art. 932, III, do CPC/2015 - vigente à época da publicação da decisão então agravada e da interposição do recurso -, que faculta ao Relator "não conhecer de recurso inadmissível, prejudicado ou que não tenha impugnado especificamente os fundamentos da decisão recorrida", bem como do teor da Súmula 182 do Superior Tribunal de Justiça, por analogia.
+IV. Agravo interno improvido.
+(AgInt no AREsp 1.503.814/MA, relatora Ministra Assusete Magalhães, Segunda Turma, julgado em 17/10/2019, DJe de 28/10/2019.)
+Ante o exposto, não conheço do agravo em recurso especial.
+Publique-se. Intimem-se.
+ EMENTA
