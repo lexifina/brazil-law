@@ -1,0 +1,30 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por ADONIS SIMOES PEREIRA contra decisão do Tribunal de origem que inadmitiu o recurso especial com fundamento na Súmula n. 211 do STJ, ante a falta de prequestionamento da matéria arguida.
+Nas razões do presente agravo em recurso especial, a defesa argumenta que o recurso deveria ter sido admitido, pois houve o prequestionamento ficto da matéria em sede de embargos de declaração, independentemente de sua admissão.
+A parte recorrente aborda, ainda, aspectos relacionados ao mérito da causa e reitera questões deduzidas no recurso especial.
+Requer o provimento do recurso, com a consequente repercussão jurídica.
+Impugnação apresentada (fls. 734-738).
+Parecer do Ministério Público Federal opinando pelo não conhecimento do agravo em recurso especial, nos termos da seguinte ementa (fl. 765):
+PENAL. AGRAVO EM RECURSO ESPECIAL. LATROCÍNIO. AUSÊNCIA DE PREQUESTIONAMENTO. REEXAME DE FATOS E PROVAS. NÃO IMPUGNAÇÃO ESPECÍFICA DA DECISÃO QUE INADMITIU O RECURSO ESPECIAL. SÚMULA Nº 182 DO STJ. PELO NÃO CONHECIMENTO DO AGRAVO EM RECURSO ESPECIAL.
+É o relatório.
+A conclusão sobre a inadmissibilidade do recurso deve ser mantida.
+O prequestionamento é um dos requisitos de admissibilidade do recurso especial e consiste na necessidade de a questão alegada no recurso ter sido expressamente apreciada pelo Tribunal de origem.
+Conforme se verifica dos autos, a matéria atinente à suposta violação ao art. 74, § 1º, do Código de Processo Penal, sob o argumento de nulidade absoluta do processo devido a incompetência do juízo sentenciante em razão da matéria, não foi objeto de análise e deliberação pelo Tribunal estadual.
+Note-se que a questão sequer foi objeto de irresignação no apelo ordinário, não tendo sido analisada na ocasião de seu julgamento.
+Além disso, embora o agravante tenha provocado o pronunciamento do Tribunal de origem quanto à questão por meio de embargos de declaração, sequer houve a análise da matéria.
+Dessa forma, constatada a ausência de prequestionamento, inafastável a aplicação do óbice da Súmula n. 211 do STJ, segundo o qual é inadmissível recurso especial quanto à questão que, a despeito da oposição de embargos declaratórios, não foi apreciada pelo Tribunal de origem.
+Nesse sentido:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. PROCESSO PENAL. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA N. 211 DO STJ. PREQUESTIONAMENTO FICTO. ART. 1.025 DO CÓDIGO DE PROCESSO CIVIL. INAPLICABILIDADE. ABSOLVIÇÃO. NECESSÁRIO REEXAME DE PROVAS. SÚMULA 7/STJ. PLEITO PARA CONCESSÃO DE HABEAS CORPUS DE OFÍCIO. UTILIZAÇÃO COMO MEIO PARA ANÁLISE DO MÉRITO DO RECURSO. INVIABILIDADE. AGRAVO NÃO PROVIDO.
+1. Em relação aos arts. 8º da Declaração Universal dos Direitos Humanos; 8,1 e 8,2 da CADH; 14, 1, do Pacto Internacional sobre os Direitos Civis e Políticos; e 159 do Código de Processo Penal; verifica-se que não foram devidamente prequestionados na instância de origem, incidindo à espécie a Súmula 211/STJ. Muito embora tenham sido opostos embargos de declaração para suscitar o debate, a matéria não foi abordada nas razões de apelação, motivo pelo qual a Corte de origem não tinha o dever de se pronunciar a respeito, em face da inovação recursal. In casu, esta Corte entende ser inaplicável o art. 1.025 do CPC.
+2. O acolhimento do pedido de absolvição por insuficiência probatória demanda, in casu, necessariamente, o revolvimento do conteúdo fático probatório, o que é vedado em sede de recurso especial (Súmula 7/STJ).
+3. "Nos termos do art. 654, § 2.º, do Código de Processo Penal, o habeas corpus de ofício é deferido por iniciativa dos Tribunais quando detectarem ilegalidade flagrante, não se prestando como meio para que a Defesa obtenha pronunciamento judicial acerca do mérito de recurso que não ultrapassou os requisitos de admissibilidade." (AgRg no REsp 1.788.559/TO, Rel. Ministra LAURITA VAZ, SEXTA TURMA, julgado em 6/8/2019, DJe 19/8/2019).
+4. Agravo regimental não provido.
+(AgRg no AREsp 974.450/SP, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 7/11/20 19, DJe de 18/11/2019.)
+Ademais, é pacífico o entendimento do Superior Tribunal de Justiça de que "para atender ao requisito do prequestionamento, é necessário que a questão haja sido objeto de debate pelo Tribunal de origem, à luz da legislação federal indicada, com emissão de juízo de valor acerca do dispositivo legal apontado como violado" (REsp n. 1.998.033/PB, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 8/10/2024, DJe de 14/10/2024).
+Outrossim, mesmo quando a questão apresentada no recurso especial - e não analisada no acórdão recorrido - envolver matéria de ordem pública, o prequestionamento é essencial para a apreciação do ponto pelas instâncias superiores. Por outro lado, não basta que a menção à matéria que se pretende controverter tenha sido mencionada em obiter dictum, ou seja, sem que tenha servido efetivamente de fundamento do acórdão (AgRg no AREsp n. 2.487.930/SP, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 8/10/2024, DJe de 16/10/2024; AgRg no AREsp n. 2.613.339/SC, relatora Ministra Daniela Teixeira, Quinta Turma, julgado em 7/10/2024, DJe de 15/10/2024).
+Por outro viés, é importante ressaltar que o acolhimento da tese de incompetência absoluta importaria em readequação típica dos fatos, de modo conferir interpretação segundo a qual o latrocínio seria, em verdade, um crime de homicídio.
+A realização dessa tarefa importaria em necessária reanalise probatória dos fatos que foram julgados pelas instâncias ordinárias, o que se mostra inviável na via do recurso especial, conforme enunciado n. 7 da súmula do Superior Tribunal de Justiça.
+Por fim, registro que, n  os termos do art. 932, III, do Código de Processo Civil, incumbe monocraticamente ao relator "não conhecer de recurso inadmissível", hipótese amparada também pelo art. 253, parágrafo único, II, a, do Regimento Interno do Superior Tribunal de Justiça.
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
+EMENTA
