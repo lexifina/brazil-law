@@ -1,0 +1,16 @@
+DECISÃO
+LAISLA GABRIELE GOMES DA SILVA alega ser vítima de coação ilegal em decorrência de acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo na Apelação Criminal n. 1511742-89.2023.8.26.0050.
+Consta dos autos que a paciente foi condenada à pena de 17 anos, 7 meses e 2 dias de reclusão, em regime inicial fechado, mais multa, pela prática dos delitos de roubos majorados e extorsão qualificada.
+A defesa aduz, em síntese, que a condenação se haveria baseado exclusivamente em reconhecimentos fotográficos, realizados na fase inquisitiva, em desconformidade com o rito estabelecido pelo art. 226 do Código de Processo Penal, razão pela qual postula a absolvição da ré, calcada no art. 386, VII, CPP.
+Subsidiariamente, alega desproporcionalidade no aumento da pena-base. Assim, pleiteia a redução da reprimenda basilar ao mínimo legal ou a aplicação da fração de 1/6 para cada circunstância valorada negativamente.
+Ainda em caráter subsidiário, sustenta a inidoneidade dos fundamentos empregados para a fixação do regime inicial fechado, motivo por que requer o estabelecimento do regime semiaberto.
+O Ministério Público Federal apresentou parecer pelo não conhecimento do writ ou, se conhecido, pela denegação da ordem (fls. 1.214-1.222).
+Decido.
+Este habeas corpus se insurge contra acórdão de apelação proferido em 25/3/2024, o qual transitou em julgado no dia 9/5/2024 (fl. 1.127). Em 24/1/2026, a defesa impetrou este habeas corpus, de modo que o presente writ é substitutivo de revisão criminal.
+Por força do art. 105, I, "e", da Constituição Federal, a competência desta Corte para processar e julgar revisão criminal limita-se às hipóteses de seus próprios julgados. Como não existe no STJ julgamento de mérito passível de revisão em relação à condenação sofrida pelo paciente, forçoso reconhecer a incompetência deste Tribunal para o processamento do presente pedido.
+Importante destacar que esta Corte, em diversas ocasiões, reconheceu a impossibilidade de uso do habeas corpus em substituição à revisão criminal, assim se posicionando: "o trânsito em julgado do acórdão que julga a apelação criminal, sem que haja a inauguração da competência deste Sodalício, torna incognoscível o pedido de habeas corpus" (AgRg no HC n. 805.183/SP, relator Ministro Teodoro Silva Santos, Sexta Turma, julgado em 12/3/2024, DJe de 15/3/2024).
+Na mesma direção, cito, ainda, as seguintes decisões monocráticas: HC n. 905.628/SP, Rel. Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), DJe 17/4/2024; HC n. 905.340/SP, Rel. Ministra Daniela Teixeira, DJe 17/4/2024; HC n. 905.232/SP, Rel. Ministro Messod Azulay Neto, DJe 17/4/2024; HC n. 904.932/PR, Rel. Ministro Antonio Saldanha Palheiro, DJe 16/4/2024.
+Muito embora não se ignore a ampliação do uso do habeas corpus nem a importância dessa ação constitucional para a defesa da liberdade de locomoção, a crescente quantidade de impetrações, que, antes, deveriam ser examinadas em instâncias diversas, prejudica as funções constitucionais desta Corte, em detrimento da eficácia do recurso especial, o que enfraquece a delimitação de teses para trazer uniformidade e previsibilidade ao sistema jurídico.
+À vista do exposto, não conheço do habeas corpus.
+Publique-se e intimem-se.
+EMENTA
