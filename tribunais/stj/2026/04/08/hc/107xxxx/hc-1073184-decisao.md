@@ -1,0 +1,24 @@
+DECISÃO
+EDSON BATISTA GONÇALVES alega sofrer constrangimento ilegal no seu direito de locomoção, em decorrência de acórdão prolatado pelo Tribunal de Justiça do Estado do Espírito Santo na Apelação n. 0014734-12.2005.8.08.0024, que anulou a decisão absolutória dos jurados e determinou a realização de novo julgamento.
+A defesa alega que: a) o acórdão impugnado apresentou fundamentação deficiente, uma vez que se limitou a transcrever depoimentos que amparavam a tese acusatória e não demonstrou a discordância probatória apta a justificar a anulação do julgamento; b) o Tribunal local não enfrentou "pontos centrais sustentados pela defesa e debatidos em plenário" (fl. 3); c) a absolvição do paciente pelo Conselho de Sentença pela negativa de autoria se pautou na dúvida legítima dos jurados, o que não gera nulidade do julgamento.
+Requereu o restabelecimento da absolvição.
+O Ministério Público Federal, em parecer da Subprocuradora-Geral da República Samantha Chantal Dobrowolski, opinou pela prejudicialidade do habeas corpus (fls. 37-40).
+Decido.
+Consta dos autos que o réu foi pronunciado pela suposta prática do crime previsto no art. 121, § 2º, I e IV, do Código Penal, por fatos ocorridos em 3/4/2005. Submetido ao Tribunal do Júri, o paciente foi absolvido com base no segundo quesito (negativa de autoria). Diante da apelação interposta pelo Ministério Público sob o argumento de que a absolvição era manifestamente contrária às provas dos autos, o Tribunal local, em 11/9/2023, proveu o recurso para anular a decisão dos jurados e determinar a submissão do acusado a novo julgamento. Contra tal decisão, a defesa interpôs recurso especial (AREsp n. 2.753.889/ES), o qual não foi conhecido pela Presidência do STJ. Assim, a decisão anulatória transitou em julgado em 5/11/2024.
+Da consulta ao sítio eletrônico da Corte de origem, verifica-se, porém, que o réu foi submetido a novo julgamento em 11/11/2025, ocasião em que o Conselho de Sentença o condenou. Contra a decisão, o acusado opôs embargos de declaração, os quais foram rejeitados, e interpôs apelação, em 1º/12/2025, ainda pendente de julgamento pelo colegiado local. Não obstante, em 12/2/2026, a defesa impetrou o presente habeas corpus com o objetivo de rediscutir os fundamentos que embasaram a anulação da decisão absolutória.
+A rigor, esta Corte Superior reconhece a perda do objeto da pretensão deduzida em habeas corpus em razão da realização de julgamento perante o Tribunal do Júri. Nesse sentido:
+PROCESSUAL PENAL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. HOMICÍDIO QUALIFICADO. PEDIDO DE DESAFORAMENTO. SUPERVENIÊNCIA DE JULGAMENTO PELO TRIBUNAL DO JÚRI. TRÂNSITO EM JULGADO. PERDA DE OBJETO.
+1. A superveniência do trânsito em julgado da condenação proferida pelo Tribunal do Júri importa na perda do objeto do recurso especial pendente relacionado ao pedido de desaforamento.
+2. "Realizado o julgamento do paciente perante o Tribunal do Júri, não merece reparo acórdão que julga prejudicado pedido de desaforamento, em virtude da perda do seu objeto" (HC 57.368/MS, Rel. Ministro ARNALDO ESTEVES LIMA, QUINTA TURMA, julgado em 03/08/2006, DJ 04/09/2006, p. 313)
+3. Agravo regimental desprovido.
+(AgRg no REsp n. 1.043.974/RJ, Rel. Ministro Antonio Saldanha Palheiro, 6ª T., DJe 16/6/2021, destaquei.)
+Sobre o tema, cabe destacar a possibilidade de afastar tal óbice formal quando tanto a decisão impugnada quanto a própria impetração do writ forem anteriores ao novo julgamento. A hipótese dos autos, contudo, não se enquadra nessa exceção. Conforme demonstrado, o presente habeas corpus foi impetrado em 12/2/2026, data em que a decisão ora contestada já havia transitado em julgado há mais de um ano e o paciente já havia sido submetido a novo julgamento, do qual resultou sua condenação, objeto de apelação pendente de apreciação. Portanto, a pretensão deduzida nesta ação está prejudicada.
+Ademais, por força do art. 105, I, "e", da Constituição Federal, a competência desta Corte para processar e julgar revisão criminal limita-se às hipóteses de seus próprios julgados. Assim, impõe-se o reconhecimento da incompetência deste Tribunal Superior para o processamento do habeas corpus, porquanto não existe nesta Corte julgamento de mérito passível de revisão quanto à condenação sofrida pelo réu. Em verdade, busca-se discutir decisão do Tribunal local que transitou em julgado em 5/11/2024.
+Nessa perspectiva:
+ ..
+2. O habeas corpus foi impetrado contra acórdão já transitado em julgado. Verifica-se, assim, a inadmissibilidade do writ, manejado como substitutivo de revisão criminal, em hipótese na qual não houve inauguração da competência desta Corte Superior (art. 105, inciso I, alínea e, da Constituição da República). Precedentes.
+ ..
+(AgRg no HC n. 883.695/SP, Rel. Ministro Teodoro Silva Santos, 6ª T., DJe18/3/2024.)
+À vista do exposto, não conheço do habeas corpus.
+Publique-se e intimem-se.
+EMENTA
