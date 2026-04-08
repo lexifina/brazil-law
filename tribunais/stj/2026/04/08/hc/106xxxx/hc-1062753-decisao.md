@@ -1,0 +1,55 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em benefício de CHARLE ARTHUR VERGARA POSSAS, contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO no julgamento do Agravo de Execução Penal n. 0022863-95.2025.8.26.0996.
+Extrai-se dos autos que o Juízo da Vara de Execução Penal indeferiu os pedidos de livramento condicional e progressão de regime, formulados pelo paciente.
+O Tribunal de or igem deu parcial provimento ao agravo de execução penal interposto pelo paciente apenas para conceder a progressão do regime, nos termos do acórdão que restou assim ementado (fl. 19):
+"DIREITO PENAL. AGRAVO EM EXECUÇÃO PENAL. PROGRESSÃO DE REGIME E LIVRAMENTO CONDICIONAL. RECURSO PARCIALMENTE PROVIDO."
+No presente writ, a defesa sustenta a inidoneidade da fundamentação apresentada para negar a concessão do benefício do livramento condicional, apontando que " ..  os requisitos de natureza objetiva e subjetiva, torna-se imperativa a concessão do benefício, uma vez que, no caso concreto, este assume o status de direito subjetivo do apenado, em função da inexistência de qualquer óbice ao seu deferimento" (fl. 15).
+Requer, em liminar e no mérito, a concessão da ordem para anular o acórdão atacado e conceder o livramento condicional em favor do Paciente.
+Liminar indeferida às fls. 115/116.
+Informações prestadas às fls. 126/137 e 138/140.
+Parecer do MPF opinando pela concessão da ordem às fls. 142/146.
+É o relatório.
+Decido.
+Diante da hipótese de habeas corpus substitutivo de recurso próprio, a impetração não deve ser conhecida, segundo orientação jurisprudencial do Supremo Tribunal Federal - STF e do próprio Superior Tribunal de Justiça - STJ.
+Contudo, considerando as alegações expostas na inicial, razoável verificar a existência de eventual constrangimento ilegal.
+A irresignação do paciente merece prosperar. A respeito da negativa do livramento condicional, nota-se a fundamentação do Tribunal local:
+"Para a análise de seu mérito, foi determinada sua submissão a exame criminológico. Ao ser avaliado sobreveio conclusão favorável da comissão examinadora.
+Entendo que a decisão que indeferiu a progressão de regime a Charle merece reforma eis que pinça pequenos trechos supostamente negativos dos pareceres psicológico e social para apontar falta do requisito subjetivo, o que, aos olhos deste Relator, não basta.
+A leitura do inteiro teor dos relatórios que compõe o exame criminológico advoga em sentido oposto. Todos os experts foram favoráveis ao abrandamento do rigor carcerário do reeducando, adiantando, inclusive, que endossavam a afirmação de que poderia gozar até mesmo da liberdade condicional (fls. 41/47).
+Não bastasse isso, a análise direta dos autos da execução também sugere a este Relator a possibilidade de progressão ao regime intermediário, no qual ainda há grande vigilância.
+É verdade que executando penas por seis crimes que somam quase 20 anos de reclusão, mas o mais recente foi praticado a mais de dois anos. Mais relevante que isso é observar que não resgatou apenas o requisito objetivo exigido, mas superou em muito esse lapso, já tendo cumprido mais de 1/2 de todas as suas penas.
+Mesmo em termos de faltas disciplinares, seu prontuário contém anotação de apenas uma, praticadas no ano de 2019. Tendo ocorrido há mais de 6 anos, decerto não pode mais pesar em seu desfavor.
+Em suma, já tendo resgatado mais de uma década de pena, superando 56% do total, e tendo passado longo período sem delinquir, além de ostentar boa conduta no sistema penitenciário há seis anos, não vejo como a simples afirmação de que teria utilizado "argumentos superficiais" ou outra da espécie bastaria para mantê-lo ainda mais tempo no regime mais severo.
+Por outro lado, para o deferimento do livramento condicional, benesse mais ampla, a análise desse requisito deve ser mais cuidadosa, de modo que não vejo como considerar que o agravante está no momento devidamente preparado para ser recolocado em convívio social de forma tão ampla.
+Além disso, o fato de ter sido atestado que seus planos para o futuro estão elaborados com base na idealização de retorno ao convício familiar e que apresenta vínculos familiares prejudicados, aliado ao registro de falta disciplinar em seu prontuário, consistente em subversão a ordem e disciplina e agressão a sentenciado, reconhecidos assim aspectos sobre sua personalidade diretamente vinculados aos crimes pelos quais foi condenado, entendo ser recomendável a sua gradativa reinserção social, ficando, por ora, afastada a viabilidade de concessão do livramento condicional.
+Por todos esses argumentos, julgo que deva ser deferida a progressão ao regime semiaberto, ficando o livramento condicional para momento mais oportuno. (fls. 21/22)
+No caso concreto, observa que não há fundamentação idônea para o indeferimento do livramento condicional, haja vista o cumprimento do requisito objetivo e subjetivo, neste caso destacando que todos os profissionais que avaliaram o paciente recomendaram também o livramento condicional. Em situações como a presente, esta Corte entende cabível a concessão do livramento condicional. Confiram-se:
+DIREITO PROCESSUAL PENAL. HABEAS CORPUS. EXECUÇÃO PENAL. TRÁFICO DE DROGAS, ROUBO MAJORADO E USO DE DOCUMENTO FALSO. PROGRESSÃO DE REGIME E LIVRAMENTO CONDICIONAL. GRAVIDADE DOS DELITOS PRATICADOS E LONGA PENA A CUMPRIR. FUNDAMENTAÇÃO INIDÔNEA. EXAME CRIMINOLÓGICO FAVORÁVEL. CONSTRANGIMENTO ILEGAL EVIDENCIADO. CONCESSÃO DE ORDEM DE OFÍCIO.
+I. CASO EM EXAME
+1. Habeas corpus substitutivo de recurso próprio, cujo objetivo é restabelecer decisão do Juízo da Execução que havia deferido o livramento condicional.
+2. O paciente teve deferida a progressão ao regime semiaberto, decisão que foi cassada em agravo de execução interposto pelo Ministério Público estadual, determinando o retorno ao regime fechado. No entanto, o apenado já estava em gozo do livramento condicional.
+II. QUESTÃO EM DISCUSSÃO
+3. A questão em discussão consiste em saber se houve fundamentação idônea para o indeferimento da progressão de regime ou do livramento condicional.
+III. RAZÕES DE DECIDIR
+4. A jurisprudência desta Corte firmou-se no sentido de que a gravidade abstrata do crime e a longa pena a cumprir não justificam o indeferimento dos benefícios do sistema progressivo das penas, por não estarem relacionados ao comportamento do sentenciado durante a execução penal.
+5. A decisão do Tribunal de origem carece de fundamentação idônea, pois se baseia apenas na gravidade dos delitos e na longa pena a cumprir, sem considerar o atestado de bom comportamento carcerário do reeducando e o exame criminológico favorável. IV. ORDEM CONCEDIDA DE OFÍCIO PARA RESTABELECER A DECISÃO DO JUÍZO DA EXECUÇÃO QUE HAVIA DEFERIDO O LIVRAMENTO CONDICIONAL. (HC 941633 / SP, rel. Ministra Daniela Teixeira, Quinta Turma, DJEN 17/12/2024.)(grifei)
+AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO PENAL. LIVRAMENTO CONDICIONAL. NECESSIDADE DE SUBMISSÃO A EXAME CRIMINOLÓGICO.
+FUNDAMENTAÇÃO INIDÔNEA. FALTA GRAVE ANTIGA E REABILITADA. EXAME CRIMINOLÓGICO FAVORÁVEL. EXIGÊNCIA DE EXAME COMPLEMENTAR PSIQUIÁTRICO. CONSTRANGIMENTO ILEGAL EVIDENCIADO. AGRAVO DESPROVIDO.
+1. É firme a jurisprudência desta Corte de que a análise desfavorável do mérito do condenado deve ser feita com base nas peculiaridades do caso concreto e levando em consideração fatos recentes ocorridos durante a execução penal.
+2. No caso dos autos, a Corte de origem determinou a submissão do ora agravado a exame psiquiátrico complementar ao criminológico sem a indicação de argumento idôneo, visto que se limitou a salientar a gravidade em abstrato dos delitos praticados pelos quais foi condenado e faltas graves antigas (a última praticada em 2020 e devidamente reabilitada), o que consubstancia o alegado constrangimento ilegal, conforme o entendimento desta Corte.
+Precedentes.
+3. Agravo regimental desprovido. (AgRg no HC 871572 / SP, rel. Ministro Antonio Saldanha Palheiro, Sexta Turma, DJe 16/05/2024.)(grifei)
+AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO PENAL. DECISÃO UNIPESSOAL DO RELATOR. PREVISÃO REGIMENTAL E SUMULADA.
+JURISPRUDÊNCIA CONSOLIDADA PELAS CORTES SUPERIORES. LIVRAMENTO CONDICIONAL. REQUISITO OBJETIVO ALCANÇADO. FALTA GRAVE REABILITADA. CONCESSÃO. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. O avanço para julgamento in limine de questões pacificadas pelo colegiado - com lastro no art. 34, XVIII, "c", e XX, do Regimento Interno deste Superior Tribunal, e no enunciado n. 568 da Súmula desta Corte de Justiça - está em consonância com o princípio da efetiva entrega da prestação jurisdicional e visa a otimizar o processo e seus atos, para viabilizar sua razoável duração e a concentração de esforços em lides não iterativas.
+2. A prolação de decisum, liminarmente, antes do parecer do Ministério Público Federal, é admitida pelos Tribunais Superiores, quando se reconhece flagrante ilegalidade sobre a qual haja repisada jurisprudência. De todo modo, a remessa dos autos para manifestação do Parquet, como fiscal da lei, sempre ocorre, ainda que posteriormente, com possibilidade de interposição do recurso cabível ao colegiado.
+3. A Terceira Seção desta Corte Superior, no julgamento do REsp n. 1.970.217/MG, sob o rito do recurso especial repetitivo, Rel. para o acórdão Min. Ribeiro Dantas, finalizado em 1º/6/2023 (Tema n. 1.161), fixou a tese de que, "a valoração do requisito subjetivo para concessão do livramento condicional - bom comportamento durante da execução da pena (art. 83, inciso III, alínea "a", do Código Penal) - deve considerar todo o histórico prisional, não se limitando ao período de 12 meses referido na alínea "b" do mesmo inciso III do art. 83 do Código Penal".
+4. A gravidade abstrata dos crimes praticados pelo apenado e a longa pena a cumprir foram os únicos fundamentos para afastar o benefício de livramento condicional. Outra sorte não socorre o fundamento atrelado ao histórico disciplinar, porquanto não consta a prática de falta grave recente e a última foi reabilitada em 21/2/2019, de modo que não macula, per si, o preenchimento do requisito de ordem subjetiva. Ademais, conforme destacado pela instância de origem, o resultado do exame criminológico foi favorável ao paciente.
+5. Não foi mencionada circunstância pessoal negativa do apenado ou comportamento desabonador durante a execução da pena, a justificar alguma dúvida quanto ao requisito subjetivo do livramento condicional. Dessa forma, a benesse foi indeferida sem a devida fundamentação concreta, a impor ao paciente patente constrangimento ilegal.
+6. Agravo regimental não provido. (AgRg no HC 872252 / SP, rel. Ministro Rogério Schietti Cruz, Sexta Turma, DJe 18/04/2024.)(grifei)
+Como se observa, evidenciado o constrangimento ilegal suportado pelo paciente, que exige a concessão da ordem, de ofício.
+Ante o exposto, nos termos do art. 34, XX, do Regimento Interno do Superior Tribunal de Justiça, não conheço do presente habeas corpus. Porém, de ofício, concedo a ordem para deferir o livramento condicional ao paciente.
+Comunique-se o Tribunal local e o Juiz da Execução.
+Publique-se.
+Intimem-se.
+ EMENTA
