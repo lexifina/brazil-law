@@ -1,0 +1,22 @@
+DECISÃO
+Cuida-se de agravo, interposto por WAGNER PACHECO DA SILVA, em face de decisão que inadmitiu o recurso especial.
+O apelo extremo, por sua vez, fundamentado nas alíneas "a" e "c" do permissivo constitucional, desafia acórdão proferido pelo Tribunal de Justiça do Distrito Federal e Territórios, assim ementado:
+AGRAVO DE INSTRUMENTO. EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. VAGA DE GARAGEM. IMPUGNAÇÃO À PENHORA. REJEIÇÃO. IMPENHORABILIDADE. NÃO CONSTATAÇÃO. ROL DO ART. 835 DO CPC. INOBSERVÂNCIA. NÃO IDENTIFICADA. ROL PREFERENCIAL, E NÃO OBRIGATÓRIO. VALOR DO BEM MUITO INFERIOR AO DÉBITO. AUSÊNCIA DE ÓBICE. DECISÃO MANTIDA. 1. Nos termos da Súmula 449 do Superior Tribunal de Justiça, "A vaga de garagem que possui matrícula própria no registro de imóveis não constitui bem de família para efeito . de penhora" 2. Há recente aresto da Corte Superior no sentido de que a vedação à alienação de vaga de garagem para terceiro estranho ao condomínio, sem autorização expressa na convenção condominial, prevista no art. 1.331, § 1º, do CC/2002, prevalece mesmo no caso de alienação judicial por hasta pública. 3. Não se sustentam as alegações de impenhorabilidade, tampouco de acessoriedade da vaga ao bem de família. 4. O rol do art. 835 do CPC é preferencial, o que não se confunde com a estrita e obrigatória observância. 5. O valor da vaga de garagem em comparação com o débito perseguido não constitui óbice à penhora impugnada. 6. Agravo de instrumento conhecido e não provido.
+Opostos embargos de declaração, restaram rejeitados.
+Nas razões do recurso especial, a parte insurgente apontou ofensa aos artigos 805 do CPC e 1.331, § 1º, do Código Civil, aduzindo que "o Acórdão recorrido, ao admitir a penhora da vaga de garagem, mas ressalvando que sua alienação em hasta pública deve ser restrita aos condôminos, criou uma situação juridicamente paradoxal e que atenta contra a própria finalidade do processo de execução", violando os princípios da efetividade e da menor onerosidade.
+O apelo extremo foi inadmitido, dando ensejo ao presente agravo por meio do qual a parte agravante pretende a reforma da decisão impugnada e o processamento do apelo.
+É o relatório.
+Decido.
+O inconformismo não merece prosperar.
+1. Consoante jurisprudência desta Corte, "o art. 1.331, § 1º, do Código Civil, com a redação dada pela Lei n. 12.607/2012, trouxe uma limitação à possibilidade de alienação do bem, visto que as vagas de garagem não poderão ser alienadas ou alugadas a pessoas estranhas ao condomínio, salvo se expressamente autorizado. O objetivo da alteração legislativa é o de oferecer mais segurança ao condomínio, reduzindo, assim, a circulação de pessoas estranhas nos prédios residenciais e comerciais. Dessa forma, a fim de compatibilizar a norma legal (CC, art. 1.331, § 1º), que veda a alienação das vagas de garagem a pessoas estranhas ao condomínio sem autorização expressa, com o teor da Súmula 449/STJ, que permite a penhora da vaga de garagem com matrícula própria no registro de imóveis, independentemente de o imóvel ser reconhecido como bem de família, deve ser limitada a participação na hasta pública apenas aos condôminos do respectivo condomínio." (REsp n. 2.042.697/SC, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 7/2/2023, DJe de 10/2/2023.).
+No mesmo sentido:
+CIVIL. RECURSO ESPECIAL. PENHORA. VAGA DE GARAGEM. MATRÍCULA PRÓPRIA. REGISTRO DE IMÓVEIS. TERCEIRO. PESSOA ESTRANHA. CONDOMÍNIO. PROIBIÇÃO. CONVENÇÃO CONDOMINIAL. IMPOSSIBILIDADE. RECURSO PARCIALMENTE PROVIDO.
+1. É possível a penhora de vaga de garagem com matrícula própria em registro público associada a imóvel considerado bem de família, conforme estabelecido na Súmula n. 449 do STJ.
+2. A vedação à alienação de vaga de garagem para terceiro estranho ao condomínio, sem autorização expressa na convenção condominial, prevista no art. 1.331, § 1º, do CC/2002, prevalece mesmo no caso de alienação judicial por hasta pública.
+3. Recurso especial parcialmente provido para, reconhecendo a possibilidade de penhora da vaga de garagem, apenas determinar que a hasta pública seja restrita aos condôminos.
+(REsp n. 2.095.402/SC, relator Ministro Antonio Carlos Ferreira, Quarta Turma, julgado em 6/8/2024, DJe de 8/8/2024.)
+O acórdão recorrido, portanto, encontra-se em consonância com a jurisprudência desta Corte, o que atrai a aplicação da súmula 83 do STJ.
+2. Do exposto, com fulcro no art. 932 do NCPC c/c Súmula 568 do STJ, conheço do agravo para, de plano, negar provimento ao recurso especial.
+Publique-se.
+Intimem-se.
+EMENTA
