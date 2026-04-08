@@ -1,0 +1,26 @@
+DECISÃO
+Trata-se de agravo contra a decisão que inadmitiu o recurso especial interposto pelo MINISTÉRIO PÚBLICO DO ESTADO DO RIO GRANDE DO SUL, com fundamento na alínea "a" do permissivo constitucional, em oposição a acórdãos proferidos pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO GRANDE DO SUL (e-STJ, fls. 88-94 e 103-107).
+Opostos embargos de declaração, foram rejeitados (fls. 103-107).
+Em suas razões recursais, a parte aponta violação ao art. 35 da Lei nº 11.343/2006, aduzindo, em síntese, que o acervo probatório - composto por monitoramento prévio da residência, apreensão de drogas e dinheiro fracionado, além de depoimentos de usuários e policiais - evidenciaria a estabilidade e a permanência do vínculo entre os recorridos, de modo a caracterizar a associação para o tráfico (fls. 110-117).
+Requer o provimento do recurso, a fim de afastar a absolvição e restabelecer a condenação dos recorridos pelo crime de associação para o tráfico de drogas (art. 35 da Lei nº 11.343/2006) (fls. 110-117).
+Com contrarrazões (fls. 119-123), o recurso especial foi inadmitido na origem, à luz da Súmula 7/STJ (fls. 124-126), ao que se seg uiu a interposição de agravo (fls. 129-140).
+Remetidos os autos a esta Corte Superior, o Ministério Público Federal manifestou-se pelo não conhecimento do agravo ou, se conhecido, pelo seu não provimento (fls. 160-164).
+É o relatório.
+Decido.
+O agravo impugna adequadamente os fundamentos da decisão agravada, devendo ser conhecido. Passo, portanto, ao exame do recurso especial propriamente dito.
+A controvérsia foi analisada no acórdão do seguinte modo (fls. 91-92):
+No presente caso, embora os réus tenham sido presos juntos em flagrante pela prática do delito de tráfico de drogas, entendo que não há provas suficientes nos autos a comprovar que estivessem eles associados, com comprovação de hierarquia e organização e caráter de permanência exigido pelo tipo penal.
+Ao encontro, verifico que, a partir da análise preliminar dos objetos apreendidos (processo 5000659- 20.2022.8.21.0089/RS, evento 39, OUT1, pp. 30-37), nenhum conteúdo pertinente à investigação foi encontrado com a ré ANA CRISTINA. Com relação ao réu LUIS EDUARDO, nada aportou aos autos que pudesse efetivamente comprovar que este e ANA CRISTINA, sua genitora, estivessem associados para o fim de praticar a conduta prevista no artigo 33, caput, da Lei n.º 11.343/06.
+Ressalta-se que, o fato de serem mãe e filho e residirem no mesmo imóvel não é suficiente para caracterizar o delito, sendo necessária a comprovação de que ambos atuavam de forma coordenada e estável na prática do tráfico. Não há nos autos elementos que demonstrem a divisão de tarefas entre os acusados, a forma como se organizavam para a prática do tráfico, a existência de uma estrutura hierárquica ou qualquer outro elemento que indique a existência de uma associação estável e permanente.
+Embora existam elementos que indiquem a prática do crime de tráfico de drogas pelos acusados, não há provas suficientes da existência de um vínculo associativo permanente e estável, requisito essencial para a configuração do crime de associação, com a finalidade de praticar o tráfico, o que, por óbvio, fragiliza a tese acusatória, por dificultar a comprovação do dolo específico de estabilidade e permanência associativa, devendo pravelecer, na hipótese, o princípio constitucional in dubio pro reo.
+Logo, em face de significativa dúvida quanto ao preenchimento dos requisitos necessários à caracterização do crime de associação para o tráfico pelos apelantes, a absolvição dos réus neste ponto é medida que se impõe, nos termos do artigo 386, VII, do Código de Processo Penal.
+Conforme o Tribunal de origem, soberano na análise das provas dos autos, não se evidenciou a existência de vínculo associativo estável e permanente entre os réus, ausentes provas concretas de organização, hierarquia, divisão de tarefas ou atuação coordenada voltada à prática reiterada do tráfico, não sendo suficiente, para tal fim, o fato de serem mãe e filho e residirem no mesmo imóvel. Diante da fragilidade probatória quanto ao dolo específico de associação e à permanência do vínculo, decidiu-se pela absolvição, com fundamento no art. 386, VII, do Código de Processo Penal, em observância ao princípio do in dubio pro reo.
+Dessa forma, para desconstituir o entendimento firmado pelo Tribunal de origem e concluir pela absolvição do crime de associação para o tráfico, seria necessário o revolvimento do conjunto fático-probatório, o que é vedado pela Súmula 7/STJ.
+Ilustrativamente:
+ ..
+3. Cabe ao aplicador da lei, na instância ordinária, analisar a existência de provas suficientes para embasar o decreto condenatório, ou a ensejar a absolvição, sendo inviável, em sede de recurso especial, rediscutir a suficiência probatória para a condenação (Súmula 7/STJ) (ut, AgRg no REsp 1.716.998/RN, Relatora Ministra Maria Thereza de Assis Moura, Sexta Turma, DJe 16/5/2018).
+4. Agravo regimental parcialmente conhecido e, nessa extensão, improvido.
+(AgRg no AREsp n. 2.570.018/PR, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 18/6/2024, DJe de 21/6/2024.)
+Ante o exposto, com fundamento no art. 253, parágrafo único, II, "a", do Regimento Interno do STJ, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
+EMENTA
