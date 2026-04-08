@@ -1,0 +1,24 @@
+DECISÃO
+Trata-se de recurso em habeas corpus, com pedido liminar, interposto por DANIEL SERAFIM MOSSEN, contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAIS no julgamento do HC n. 1.0000.25.506603-7/000.
+Extrai-se dos autos que o recorrente foi preso em flagrante em 26/12/2025, posteriormente convertido em prisão preventiva, pela suposta prática do crime tipificado no art. 33, caput, da Lei n. 11.343/2006.
+Irresignada, a defesa impetrou habeas corpus perante o Tribunal de origem, que denegou a ordem nos termos do acórdão que restou assim ementado (fl. 250):
+"HABEAS CORPUS - TRÁFICO DE DROGAS - CONVERSÃO DA PRISÃO EM FLAGRANTE EM PREVENTIVA - DECISÃO A QUO FUNDAMENTADA - ART. 282, §6º, DO CPP - REQUISITOS AUTORIZADORES DA MEDIDA EXCEPCIONAL (ARTS. 312 E 313, I, DO CPP) - GARANTIA DA ORDEM PÚBLICA - CONSIDERÁVEL QUANTIDADE DE DROGAS - REITERAÇÃO DELITIVA - PENA MÁXIMA COMINADA SUPERIOR A QUATRO ANOS - EXPECTATIVA DE PENA MAIS BRANDA - IMPOSSIBILIDADE DE ANÁLISE NESTA VIA - CONDIÇÕES PESSOAIS FAVORÁVEIS - IRRELEVÂNCIA - MEDIDAS CAUTELARES DIVERSAS DA SEGREGAÇÃO - NÃO CABIMENTO. - Não há que se falar em constrangimento ilegal se a decisão que converteu a prisão em flagrante em preventiva, assim como a que a manteve, encontram-se devidamente fundamentadas na necessidade de garantia da ordem pública. - Presentes os requisitos previstos no art. 312 do Código de Processo Penal, é possível a manutenção da custódia cautelar quando se tratar de crime doloso punido com pena privativa de liberdade máxima superior a quatro anos, conforme ocorre no caso em análise (art. 313, inciso I, do Código de Processo Penal). - A definição quanto ao regime inicial do cumprimento de pena depende de uma análise criteriosa das circunstâncias judiciais previstas no art. 59 do Código Penal, bem como da existência de agravantes/atenuantes e causas especiais, o que somente poderá ser realizada pelo juiz da causa, sendo necessário um profundo exame probatório, o que não se pode admitir em sede de Habeas Corpus. - As condições pessoais favoráveis do paciente não são suficientes para lhe garantir a liberdade provisória, mormente quando presentes outras circunstâncias autorizadoras da cautela. - As medidas cautelares diversas da custódia, previstas no art. 319 do CPP, não se mostram suficientes e adequadas à prevenção e à repressão do delito."
+Nas razões do presente recurso, a defesa alega que a decisão que converteu a prisão em flagrante em preventiva carece de fundamentação concreta e individualizada, sustentando a ausência dos requisitos do art. 312 do Código de Processo Penal e violação ao princípio da presunção de inocência.
+Sustenta que a custódia cautelar foi mantida com base na gravidade abstrata do delito e em referências genéricas à necessidade de garantia da ordem pública, sem demonstração efetiva do periculum libertatis.
+Aduz que não há condenação com trânsito em julgado apta a afastar a presunção de inocência, não podendo processos em andamento ou registros anteriores servirem, isoladamente, como fundamento idôneo para presumir reiteração delitiva ou periculosidade concreta.
+Assevera que a quantidade de droga apreendida não é expressiva a ponto de justificar a medida extrema, destacando, ainda, a inexistência de violência ou grave ameaça na conduta atribuída ao recorrente.
+Argui a possibilidade de aplicação das medidas cautelares diversas da prisão previstas no art. 319 do Código de Processo Penal, afirmando que o acórdão recorrido não apresentou fundamentação concreta acerca da sua insuficiência, em afronta ao art. 282, § 6º, do CPP.
+Sustenta, ainda, que, em caso de eventual condenação, poderá ser reconhecida a causa de diminuição prevista no § 4º do art. 33 da Lei n. 11.343/06, com fixação de regime inicial diverso do fechado, o que evidenciaria a desproporcionalidade da prisão preventiva.
+Requer, em liminar e no mérito, o provimento do recurso para que seja revogada a prisão preventiva, com ou sem aplicação de medidas cautelares diversas.
+Liminar indeferida nos termos da decisão de fls. 281/283.
+Informações prestadas pelas instâncias de origem às fls. 290/291 e 292/294.
+Parecer do Ministério Público Federal pelo desprovimento do recurso (fls.300/302).
+É o relatório.
+Decido.
+O habeas corpus está prejudicado.
+Conforme informações do Juízo de origem constantes de fls. 292/294, constata-se que, em 05/03/2026 (conforme consulta ao site do Tribunal de origem), nos autos n. 5009878-41.2026.8.13.0024, o paciente foi solto, em razão da desclassificação do delito.
+Assim, a notícia da superveniência de revogação da prisão preventiva durante a tramitação do presente writ implica na perda do objeto da irresignação.
+Ante o exposto, com fundamento no art. 34, XX, c/c art. 202, c/c art. 246, todos do Regimento Interno do Superior Tribunal de Justiça - RISTJ, julgo prejudicado o presente recurso em habeas corpus.
+Publique-se.
+Intimem-se.
+ EMENTA
