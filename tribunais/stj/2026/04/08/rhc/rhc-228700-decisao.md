@@ -1,0 +1,36 @@
+DECISÃO
+Trata-se de recurso ordinário em habeas corpus, sem pedido de liminar, interposto por ROBERTO MARCONDES DE AZEVEDO contra acórdão proferido pelo Tribunal de Justiça do Estado de Santa Catarina no HC n. 5085018-84.2025.8.24.0000.
+Depreende-se dos autos que o recorrente, advogado regularmente inscrito na OAB sob o n. 10.748, responde à ação penal n. 5001405-86.2024.8.24.0523, que tramita perante o Juízo da 1ª Vara Criminal da Comarca da Capital/SC, na qual figura como acusado pela suposta prática de crime de fraude a licitações (fl. 7).
+Consta, ainda, que foram deferidas medidas cautelares de busca e apreensão em desfavor do recorrente (fls. 7-8).
+A Defesa impetrou habeas corpus perante o Tribunal de origem, que não conheceu do mandamus (fl. 77). Posteriormente, foram opostos embargos de declaração, não conhecidos (fls. 91-93).
+No presente recurso ordinário, busca-se, em síntese, a concessão da ordem para: (i) reconhecer a nulidade da segunda diligência de busca e apreensão por violação ao artigo 7º, II e § 6º, da Lei n. 8.906/1994, com a declaração de ilicitude das provas obtidas e das delas derivadas, bem como o seu desentranhamento; e (ii) suspender o andamento do feito de origem para impedir a prolação de sentença e vedar o uso de quaisquer elementos probatórios derivados da diligência impugnada até o julgamento definitivo (fls. 100-108).
+Intimado, o Ministério Público manifestou-se pelo não conhecimento ou pelo desprovimento do recurso, conforme parecer de fls. 121-122.
+É o relatório. DECIDO.
+A competência do Superior Tribunal de Justiça é taxativamente estabelecida no art. 105, II, "a", da Constituição Federal, que lhe confere a atribuição de julgar, em recurso ordinário, os habeas corpus decididos em única ou última instância pelos Tribunais Regionais Federais ou pelos tribunais dos Estados, do Distrito Federal e dos Territórios, quando a decisão for denegatória.
+No caso concreto, o habeas corpus recorrido não foi conhecido, conforme restou ementado no acórdão impugnado (fl. 77):
+"HABEAS CORPUS. ALEGAÇÃO DE NULIDADE ABSOLUTA DA DILIGÊNCIA DE BUSCA E APREENSÃO POR VIOLAÇÃO ÀS PRERROGATIVAS DA ADVOCACIA (ART. 7º, II E §6º, DA LEI 8.906/94). IMPETRAÇÃO UTILIZADA COMO SUCEDÂNEO DE RECURSO PRÓPRIO. INADEQUAÇÃO DA VIA ELEITA. AUSÊNCIA DE CONSTRANGIMENTO ILEGAL. TRANCAMENTO DE AÇÃO PENAL. MEDIDA EXCEPCIONAL. INOCORRÊNCIA DE ILEGALIDADE MANIFESTA. CUMPRIMENTO REGULAR DE MANDADOS DE BUSCA E APREENSÃO. RESPEITO ÀS PRERROGATIVAS DA ADVOCACIA. ENTREGA VOLUNTÁRIA DE OBJETOS. INEXISTÊNCIA DE VIOLAÇÃO AO SIGILO PROFISSIONAL. WRIT NÃO CONHECIDO."
+Ademais, também não verifico, de plano, a presença de qualquer coação ilegal ou teratologia que justifique a concessão da ordem, de ofício, na forma do § 2º do artigo 654 do Código de Processo Penal.
+Confira-se o que foi asseverado no aresto recorrido, in verbis (fls. 75-76 - grifei):
+"Outrossim, não se verifica flagrante ilegalidade que autorize a concessão da ordem de ofício, uma vez que, conforme consta no boletim de ocorrência (ev. 62.2) e consignado pelo magistrado de primeira instância, o paciente entregou voluntariamente os objetos, sem oposição, de modo que não houve violação das prerrogativas da advocacia, nulidade processual ou sigilo profissional (ev. 145.1):
+ ..
+Da ilegalidade no cumprimento dos mandados de busca e apreensão realizados na casa do acusado ROBERTO MARCONDES DE AZEVEDO
+A Defesa alegou que houve ilegalidade no cumprimento dos mandados de busca e apreensão realizado na casa do réu supracitado, que, por ser inscrito nos quadros da OAB, deveria ter sido integralmente acompanhado por representante do órgão de classe, nos termos do art. 7º, II, e § 6º, do Estatuto da Advocacia e da Ordem dos Advogados do Brasil.
+As alegações defensivas não se sustentam.
+Observa-se que os cumprimentos dos primeiros mandados de busca e apreensão endereçados ao acusado ROBERTO MARCONDES DE AZEVEDO foi acompanhado por representantes da OAB, conforme constou expressamente nos boletins de ocorrência pertinentes à sdiligência e no respectivo auto circunstanciado, que, inclusive, consta com a identificação dos advogados Leandro Ramos de Azevedo (OAB/SC 66350) e Marcelo P. Ferreira (OAB/SC 12309). É o que se extrai dos eventos 41.2 e 41.3 dos autos n. 5043375-48.2023.8.24.0023.
+Devidamente respeitadas, portanto, as prerrogativas previstas no art. 7º, II, e § 6º, da Lei n. 8.906/94.
+Quanto ao mandado de busca e apreensão cujo cumprimento se deu nos n. 5111237-36.2023.8.24.0023, tal como mencionado pelo Ministério Público, consta a informação de que o acusado ROBERTO MARCONDES DE AZEVEDO estava saindo com seu veículo e forneceu de forma espontânea seu celular com a senha de acesso, além de uma agenda que estava em seu automóvel, aos policiais (evento 62.2, p. 1).
+Uma vez que o réu não se opôs à atuação policial e fez a entrega voluntária dos objetos supracitados, não se pode falar em nulidade processual por inobservância das prerrogativas de classe, pois, segundo o disposto no art. 565 do Código de Processo Penal:
+Art. 565. Nenhuma das partes poderá argüir nulidade a que haja dado causa, ou para que tenha concorrido, ou referente a formalidade cuja observância só à parte contrária interesse.
+Da mesma forma, não há que se falar em violação de sigilo profissional, visto que os objetos apreendidos estão relacionados à investigação dos fatos apurados na presente demanda, sem relação com o possível exercício da advocacia pelo denunciado.
+Ademais, o art. 34, VII, da Lei n. 8.906/94 se refere à conduta do advogado que viola sigilo profissional, o que constitui infração disciplinar. Portanto, o dispositivo legal em questão sequer se aplicaria ao caso em tela, no qual não se discute infração ligada à prática advocatícia.
+Por esses motivos, a prefacial em comento deve ser rejeitada.
+ ..
+Isso posto, voto no sentido de não conhecer da ordem."
+Com efeito, é sabido que, em direito, é vedado às partes a adoção de comportamentos contraditórios (nemo venire contra factum proprium). De acordo com o art. 565 do Código de Processo Penal, "nenhuma das partes poderá argüir nulidade a que haja dado causa, ou para que tenha concorrido, ou referente a formalidade cuja observância só à parte contrária interesse".
+In casu, o recorrente "forneceu de forma espontânea seu celular com a senha de acesso, além de uma agenda que estava em seu automóvel, aos policiais" (fl. 76 - grifei), não podendo, agora, alegar a ocorrência de nulidade decorrente de atos que ele próprio deu causa.
+Ademais, conforme se depreende dos excertos acima colacionados, "os objetos apreendidos estão relacionados à investigação dos fatos apurados na presente demanda, sem relação com o possível exercício da advocacia pelo denunciado" (fl. 76 - grifei).
+Para desconstituir a conclusão alcançada pela instância ordinária, soberana no exame dos fatos e provas, necessário seria o revolvimento do arcabouço fático-probatório dos autos de origem, providência incabível na via estreita do habeas corpus, e do seu recurso ordinário, que não admitem dilação probatória.
+Desta forma, inexiste flagrante ilegalidade e o pedido trazido neste recurso não comporta guarida sob nenhuma vertente.
+Ante o exposto, não conheço do recurso ordinário em habeas corpus, com fundamento nos artigos 210 e 246 do RISTJ.
+Publique-se. Intimem -se.
+EMENTA
