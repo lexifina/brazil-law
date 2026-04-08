@@ -1,0 +1,32 @@
+AgInt no RECURSO ESPECIAL Nº 1868163 - SP (2020/0069620-2)
+
+RELATORA: MINISTRA REGINA HELENA COSTA
+
+AGRAVANTE: SERVIMED COMERCIAL LTDA
+
+ADVOGADOS: LAURINDO LEITE JUNIOR - SP173229
+
+LEANDRO MARTINHO LEITE - SP174082
+
+JULIO CESAR COVRE - SP308566
+
+PATRÍCIA DE ALMEIDA TREVELIN - SP338474
+
+AGRAVADO: FAZENDA DO ESTADO DE SÃO PAULO
+
+ADVOGADOS: MARIA LIA PINTO PORTO - SP108644
+
+REGINALDO DE MATTOS E OUTRO(S) - SP093172
+
+EMENTA
+
+DECISÃO
+Vistos.
+Considerando as informações apresentadas por SERVIMED COMERCIAL LTDA., na petição de fls. 1028/1029e, a análise deste Agravo Interno ficou prejudicado.
+Posto isso, com fundamento no art. 932, III, IV, do Código de Processo Civil e art. 34, XVIII, a e b, do Regimento Interno desta Corte, JULGO PREJUDICADO o Agravo Interno de fls. 953/996e.
+Publique-se. Intime-se.
+
+Brasília, 08 de abril de 2026.
+
+REGINA HELENA COSTA
+Relatora
