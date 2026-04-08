@@ -1,0 +1,27 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de JEFISON BRITO DA COSTA contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DA BAHIA proferido no HC n. 8065273-95.2025.8.05.0000.
+Consta dos autos que foi designada sessão do Tribunal do Júri para julgamento do paciente pela prática do crime previsto no art. 121 § 2º, II do Código Penal, para o dia 15/10/2025, contudo, o paciente não compareceu ao ato processual.
+O impetrante afirma que o paciente, em 12/10/2025, teria adoecido por problemas renais, o que teria impedido seu deslocamento de Salvador à Comarca de Paulo Afonso para comparecimento à sessão de julgamento.
+A defesa informou ter juntado aos autos laudo, atestados e receita médica que atestariam a condição de saúde do réu e a impossibilidade de comparecimento ao júri designado, razão pela qual não haveria justificativa para a expedição de mandado de prisão. Alega que a expedição do mandado de prisão teria ocorrido "sem fundamento idôneo", porquanto o motivo justificado para o adiamento do júri estaria demonstrado nos documentos médicos acostados.
+Argumenta que o art. 449 do Código de Processo Penal autorizaria o adiamento da sessão do júri por motivo justificável, o que seria o caso de doença do réu que o impediria de comparecer ao ato.
+Requer, liminarmente e no mérito, a revogação da custódia preventiva do paciente.
+O pedido liminar foi indeferido às fls. 24/25, por meio de decisão da lavra do Ministro Herman Benjamin.
+Informações prestadas às fls. 31/42.
+O Ministério Público Federal manifestou-se às fls. 53/59, opinando pelo não conhecimento do writ e, caso conhecido, pela denegação da ordem.
+É o relatório.
+DECIDO.
+A ordem deve ser denegada.
+O Tribunal de origem manifestou-se nos seguintes termos (fls. 07/11):
+3. A prisão preventiva encontra amparo nos arts. 312 e 313 do CPP, estando fundamentada na garantia da aplicação da lei penal e na conveniência da instrução criminal, diante da conduta reiteradamente evasiva do paciente e da frustração da sessão de julgamento.
+4. O paciente foi regularmente intimado por edital após tentativa frustrada de localização, em razão do fornecimento de endereços incorretos ou inexistentes, descumprindo dever legal de manter seu endereço atualizado, o que denota intento deliberado de se esquivar do julgamento.
+5. A ausência na sessão do Júri foi justificada por atestado médico que recomendava apenas dois dias de afastamento, por encontrar-se o réu acometido de cálculo renal, diagnosticado meses antes da sessão de julgamento, sendo desconsiderada pelo juízo diante da disponibilização prévia de videoconferência e da ausência de justificativa para a falta do defensor, o que evidenciou tentativa de obstrução da marcha processual.
+6. A decisão judicial apresenta fundamentação concreta, individualizada e contemporânea, apontando elementos objetivos relacionados à gravidade do crime, à conduta evasiva e à insuficiência de medidas cautelares alternativas, em conformidade com o art. 315, §2º, do CPP.
+7. A jurisprudência do STJ e deste Tribunal de Justiça reconhece que a fuga do distrito da culpa, o descumprimento de medidas cautelares e a frustração do julgamento do júri autorizam a decretação da prisão preventiva, ainda que transcorrido tempo desde a prática do fato.
+Do excerto transcrito, concluo que, ao contrário do que alega a Defesa, a prisão preventiva foi suficientemente fundamentada pela instância ordinária, em virtude da necessidade de garantia de aplicação da lei penal, o que justifica a prisão processual do acusado, nos termos da jurisprudência do Superior Tribunal de Justiça, como forma de resguardar a ordem pública, tendo em vista que a marcha processual já vinha se alongando há bastante tempo, em decorrência da conduta do paciente, culminando com a sua ausência à sessão plenária, bem como a de seu defensor constituído que não se fez presente sequer para aguardar a decisão judicial a respeito do adiamento solicitado.
+Como bem ressalvado na manifestação ministerial, "diversamente do que sustenta a defesa, não se está diante de mera ausência pontual e justificável ao ato processual, mas de conduta processual reiteradamente evasiva, caracterizada pelo fornecimento de endereços inverídicos, pela frustração de tentativas de localização e, por fim, pela ausência injustificada à sessão plenária do Tribunal do Júri regularmente designada, circunstâncias que evidenciam risco concreto à aplicação da lei penal e à própria efetividade da prestação jurisdicional".
+Notório reconhecer ainda que o Magistrado de primeiro grau oportunizou ao acusado seu comparecimento por videoconferência, tendo em vista que sua patologia, além de não ser grave, era conhecida há bastante tempo, possibilitando este acompanhamento de forma remota, mas a ausência do patrono acabou por inviabilizar a realização da sessão, denotando que as partes não desejavam a sua ocorrência, procrastinando o andamento do processo de forma indevida e desleal.
+Sendo assim, a denúncia de decretação da medida extrema resultou fundamentada em dados objetivos extraídos dos autos, relacionados ao comportamento processual do paciente e à frustração do julgamento popular, em estrita observância ao artigo 315, §2º, do Código de Processo Penal, não se podendo reconhecer como legítima a invocação ao ar. 449 do CPP.
+Dessa forma, tendo sido concretamente demonstrada a necessidade da prisão preventiva nos autos, mantenho o acórdão recorrido por seus próprios fundamentos.
+Ante o exposto, denego o pedido de habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
