@@ -1,0 +1,28 @@
+DECISÃO
+WILDEGLAN ALVES SOARES alega sofrer constrangimento ilegal em decorrência de acórdão proferido pelo Tribunal de Justiça do Estado do Pará na Apelação Criminal n. 0808246-10.2024.8.14.0045.
+A defesa sustenta que há excesso de prazo no julgamento da apelação, pois o réu permanece preso preventivamente desde 05/12/2024 pela suposta prática de tráfico de drogas, sem que tenha dado causa à mora processual. Afirma que a sentença o condenou a 8 anos e 10 meses de reclusão, que lhe foi negado o direito de recorrer em liberdade, e que a demora injustificada para apreciação do apelo configura antecipação de pena e viola o princípio da razoável duração do processo. Aduz, ainda, que o paciente é primário e sem antecedentes, o que reforça a desnecessidade da custódia cautelar no contexto de excesso de prazo.
+Requer a expedição de alvará de soltura, com a revogação da prisão preventiva e eventual imposição de medidas cautelares alternativas, para que o réu aguarde em liberdade o julgamento da apelação.
+Decido.
+I. Excesso de prazo para julgamento da apelação
+Os prazos processuais previstos na legislação pátria devem ser computados de maneira global e o reconhecimento do excesso deve-se pautar sempre pelos critérios da razoabilidade e da proporcionalidade (art. 5º, LXXVIII, da CF), considerando cada caso e suas particularidades.
+Consoante o entendimento desta Corte Superior, "O prazo para a conclusão da instrução criminal não tem as características de fatalidade e de improrrogabilidade, fazendo-se imprescindível raciocinar com o juízo de razoabilidade para definir o excesso de prazo, não se ponderando a mera soma aritmética dos prazos para os atos processuais. (Precedentes do STF e do STJ)" (RHC n. 58.274/ES, Rel. Ministro Felix Fischer, 5ª T., DJe 17/9/2015).
+O Juízo de origem assim fundamentou, inicialmente, a prisão preventiva do ora paciente (fl. 32, destaquei):
+Logo, nesta senda, havendo elementos que induzem materialidade e indícios de autoria, a ordem pública é premissa que deve ser resguardada, à vista de conduta que impõe severo combate ao ordenamento jurídico, pelo transporte entre estados de elevada quantidade de entorpecente, em nítido desvalor ao dever de cuidado objeto.
+Esse agir, por si só, firmado no transporte de entorpecente de quantidade superior a 20kg, denota capacidade do agente na atividade de reiteração, portanto, em evidente mácula à ordem jurídica, incompatível com a concessão de liberdade provisória.
+O Juiz sentenciante manteve a prisão cautelar, pois "a gravidade em concreto está demonstrado também pela nocividade e alta quantidade de entorpecentes apreendidos (cerca de 20 quilos de entorpecentes dos tipos MACONHA, COCAÍNA e ECSTASY), realizado em um ônibus de transporte interestadual, colocando em risco não só saúde pública, de forma geral, mas também dos passageiros que estavam na condução" (fl. 568, destaquei).
+Logo, o Magistrado sentenciante, conforme dita o art. 387, § 2º, do CPP, ao manter a prisão preventiva na sentença para garantir a ordem pública, ressaltou a quantidade de droga apreendida em poder do acusado, o que configura motivação idônea para a manutenção da prisão.
+Inconformada, a defesa interpôs recurso de apelação, pendente de julgamento.
+De acordo com as informações prestadas pelas instâncias ordinárias e o andamento processual acostado aos autos, o acusado foi preso em flagrante no dia 5/12/2024 e teve sua prisão convertida em preventiva. Foi proferida sentença em 23/5/2025. Na ocasião, o réu foi condenado a 8 anos e 10 meses de reclusão, em regime inicial fechado, pela prática do crime de tráfico de drogas.
+Interposta apelação pela defesa, o Ministério Público apresentou contrarrazões em 3/9/2025 e os autos foram remetidos à Corte estadual.
+A Corte de origem prestou os seguintes esclarecimentos (fl. 751):
+O Ministério Público exarou parecer circunstanciado, datado de 03/09/2025 pelo conhecimento e improvimento do recurso de apelação  .. , estando o feito concluso para julgamento desde então.
+O Desembargador Rômulo José Ferreira Júrnior, a quem os autos foram distribuídos, ao analisar o feito, apontou a prevenção da Desembargadora Eva do Amaral Coelho  .. , em face da distribuição do Habeas Corpus nº 0801813-91.2025.8.14.0000, ocorrida em 06/02/2025, oportunidade em que a ordem foi denegada à unanimidade  .. .
+O processo eletrônico foi encaminhado ao gabinete da Desembargadora Eva do Amaral Coelho em 14/01/2026 para que se pronuncie do despacho exarado pelo Exmo. Desembargador Rômulo José Ferreira Júrnior, conforme termos de remessa  .. .
+No caso, considerando a pena total aplicada - 8 anos e 10 meses de reclusão -, não verifico flagrante excesso de prazo, pois não foi demonstrado que, em razão de eventual demora para a apreciação da apelação, o apenado se encontre impedido de usufruir de benefícios relativos à execução da sua pena.
+Em virtude dessas considerações, não verifico, ao menos por ora, excesso injustificado de prazo para o julgamento da apelação a ensejar a imediata concessão de liberdade ao paciente.
+Todavia, diante do tempo decorrido desde a prisão em flagrante do réu (cerca de 1 ano e 3 meses) e do período transcorrido desde a remessa dos autos ao Tribunal de origem para julgamento da apelação defensiva, deve ser recomendado à Corte estadual que dê máxima prioridade ao julgamento do recurso.
+II. Dispositivo
+À vista do exposto, denego a ordem de habeas corpus, mas recomendo ao Tribunal de origem que dê máxima prioridade ao julgamento do recurso de apelação .
+Comunique-se, com urgência, o inteiro teor desta decisão à autoridade apontada como coatora.
+Publique-se e intimem-se.
+EMENTA
