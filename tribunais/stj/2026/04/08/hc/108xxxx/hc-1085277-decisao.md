@@ -1,0 +1,19 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de RAPHAEL LUIS BARBOSA DA SILVA, apontando como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, nos autos do HC n. 2400385-72.2025.8.26.0000.
+Consta dos autos que o paciente responde à ação penal pela suposta prática de furto qualificado, por várias vezes, e de organização criminosa, com apuração de desvios de produtos de alto valor em centro de distribuição empresarial, mediante atuação conjunta e organizada, com divisão de tarefas e expressivo prejuízo patrimonial. A prisão temporária foi convertida em preventiva por decisão de 12/12/2025.
+A defesa alega que a prisão preventiva decorre de decisão carente de motivação concreta, fundada em gravidade abstrata do delito, sem demonstração específica de risco à ordem pública, à instrução criminal ou à aplicação da lei penal, em afronta aos arts. 312 e 315 do Código de Processo Penal.
+Sustenta que se trata de crime sem violência ou grave ameaça, que o paciente é primário, possui residência fixa e ocupação lícita, e que eventual condenação permitiria o cumprimento da pena em regime inicial diverso do fechado, de modo que a segregação cautelar seria desproporcional e violadora do princípio da homogeneidade.
+Argumenta, ainda, que não foi observado o caráter de extrema ratio da prisão preventiva, porque não se examinou, de modo individualizado, a suficiência de medidas cautelares alternativas previstas no art. 319 do Código de Processo Penal.
+Aponta, no mesmo sentido, as alterações introduzidas pela Lei n. 15.272/2025, com a inclusão dos §§ 3º e 4º no art. 312 do Código de Processo Penal, que exigem demonstração concreta de periculosidade do agente e vedam fundamentação em gravidade abstrata, bem como dos §§ 5º e 6º do art. 310 do Código de Processo Penal, que impõem exame obrigatório de circunstâncias objetivas para a conversão da prisão em flagrante em preventiva.
+Ressalta que o paciente forneceu qualificação e endereço atual e que colaborou com a investigação, confessando e esclarecendo a dinâmica da organização criminosa, o que afastaria risco à aplicação da lei penal e recomendaria resposta ao processo em liberdade.
+Argumenta, ainda, existência de nulidades decorrentes de alegada denúncia anônima e ingresso domiciliar sem consentimento e autorização, afirmando constrangimento ilegal.
+Por fim, registra que outro corréu, Kleber Corrêa, obteve revogação da prisão preventiva com imposição de medidas cautelares, o que, no seu entender, reforça a suficiência de providências menos gravosas em favor do paciente.
+Requer, liminarmente e no mérito, a revogação da prisão preventiva ou sua substituição por cautelares do art. 319 do Código de Processo Penal.
+É o relatório.
+Decido.
+De início, cumpre destacar que, na estreita via do habeas corpus, exige-se a prévia constituição da prova, devendo a impetração ser devidamente instruída com toda a documentação indispensável à apreciação da pretensão deduzida.
+No caso em exame, entretanto, verifica-se que a parte impetrante deixou de acostar aos autos cópia da decisão que decretou a prisão preventiva do paciente, peça imprescindível à adequada compreensão da controvérsia.
+A ausência de tal documento inviabiliza o conhecimento da impetração, porquanto não se desincumbiu a Defesa do ônus que lhe competia de instruir devidamente o feito. Nesse sentido: AgRg no HC n. 1.006.445/MG, relator Ministro Carlos Cini Marchionatti (Desembargador Convocado TJRS), Quinta Turma, julgado em 12/8/2025, DJEN de 18/8/2025; AgRg no HC n. 995.894/PR, relator Ministro Messod Azulay Neto, Quinta Turma, julgado em 24/6/2025, DJEN de 30/6/2025; PET no HC n. 941.704/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 16/10/2024, DJe de 22/10/2024.
+Ante o exposto, indefiro liminarmente o presente habeas corpus.
+Publique-se. Intimem-se.
+ EMENTA
