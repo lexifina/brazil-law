@@ -1,0 +1,13 @@
+DECISÃO
+PAULO GUILHERME CARACA DOS SANTOS apresenta petição de fls. 75-123 em que requer, liminarmente e no mérito, a extensão dos efeitos da Revisão Criminal n. 0023482-06.2025.8.26.0000, em que foi aplicada a minorante do tráfico privilegiado, ao corréu.
+Decido.
+Inicialmente, faz-se necessária breve contextualização fática, essencial à compreensão da controvérsia apresentada.
+A princípio, a defesa impetrou habeas corpus contra acórdão proferido na Apelação n. 1501335- 29.2020.8.26.0535, pelo Tribunal de Justiça do Estado de São Paulo, requerendo a reforma da dosimetria, por considerar que o paciente preenche os requisitos para a aplicação do tráfico privilegiado.
+Ao apreciar o writ, indeferi liminarmente o habeas corpus, por se tratar de sucedâneo de revisão criminal.
+Depois, o impetrante apresentou petição de fls. 75-123, em que trouxe cópia da revisão criminal, em que foi deferida ao corréu a aplicação da minorante. A defesa peticionou naqueles autos, requerendo a extensão dos efeitos, ao que a Corte estadual fundamentou (fls. 122):
+Nos termos do parecer da douta Procuradoria de Justiça (fl. 88), não se mostra possível a análise, por mera petição, da pretendida aplicação do disposto no artigo 580 do Código de Processo Penal, para se estender, em favor do corréu Paulo Guilherme Caraça dos Santos, a decisão de mitigação das penas proferida no julgamento da revisão criminal ajuizada pelo peticionário Kleber Henrique de Oliveira, cabendo ao interessado manejar, se entender conveniente, pedido revisional autônomo.
+Assim, verifico que a tese não foi objeto de análise pelo Tribunal de origem, circunstância que impede a sua apreciação por esta Corte Superior, sob pena de atuar em indevida supressão de instância. A propósito: "O não enfrentamento de matéria pelas instâncias originárias impede sua análise pelo STJ, sob pena de supressão de instância" (AgRg no RHC n. 158.451/ES, Rel. Ministro João Otávio de Noronha, 5ª T., DJe 27/5/2022; HC n. 732.686/GO, Rel. Ministro Sebastião Reis Júnior, 6ª T., DJe 27/6/2022; AgRg no HC n. 525.579/SP, 5ª T., Rel. Min. Joel Ilan Paciornik, DJe 3/12/2019).
+Ademais, não constato na espécie, constrangimento ilegal que demande a atuação desta Corte Superior de ofício, uma vez que, à época do acórdão de apelação, as instâncias originárias negaram a redução de pena pretendida com base nos registros anteriores de atos infracionais e na condenação definitiva por tráfico de drogas do paciente, motivos pelos quais, não observo flagrante ilegalidade ou teratologia a ser sanada.
+À vista do exposto, indefiro liminarmente o pedido.
+Publique-se  e  intimem-se.
+ EMENTA
