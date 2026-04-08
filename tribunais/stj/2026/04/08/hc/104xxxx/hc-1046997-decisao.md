@@ -1,0 +1,40 @@
+DECISÃO
+FILIPE GUSTAVO DO CARMO SILVA alega ser vítima de constrangimento ilegal em decorrência de acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo no Agravo de Execução Penal n. 0010211-91.2025.8.26.0496.
+A defesa aduz, em síntese, que o Juízo da execução penal homologou cálculo de liquidação de penas com a data da primeira prisão do paciente como marco inicial para todos os benefícios executórios, em conformidade com o Tema n. 1.006 deste Superior Tribunal.
+Sustenta que o Tribunal de origem, ao prover o agravo ministerial, determinou o reinício da contagem do prazo para a progressão de regime a partir da data da última prisão, em contrariedade à tese vinculante desta Corte e às Súmulas ns. 441, 534 e 535. Requer a cassação do acórdão impugnado e o restabelecimento dos cálculos homologados pelo Juízo de primeiro grau, com a data da primeira prisão como termo inicial para os benefícios executórios, em especial o livramento condicional, a comutação e o indulto (fls. 2-8).
+O Ministério Público Federal manifestou-se pelo não conhecimento do habeas corpus e, pela concessão de ofício da ordem para afastar a fixação de novo marco temporal na unificação de penas para fins de livramento condicional, comutação e indulto, com a data de início de cumprimento de pena como termo inicial para esses benefícios (fls. 29-34).
+Decido.
+O Juízo da execução penal, ao determinar a elaboração de novo cálculo de liquidação de penas depois da unificação, aplicou o Tema n. 1.006 desta Corte Superior e manteve a data da primeira prisão do paciente como marco inicial para todos os benefícios executórios:
+ ..
+O sentenciado foi condenado à pena privativa de liberdade, em regime prisional inicial fechado.
+Sobreveio nova condenação, também à pena corporal, em regime prisional inicial fechado.
+Por outro lado, conforme preceitua o art. 111 da Lei de Execução Penal: "Quando houver condenação por mais de um crime, no mesmo processo ou em processos distintos, a determinação do regime de cumprimento será feita pelo resultado da soma ou unificação das penas, observada, quando for o caso, a detração ou remição. Parágrafo único. Sobrevindo condenação no curso da execução, somar-se-á pena ao restante da que está sendo cumprida, para determinação do regime".
+No caso vertente, imposto regime prisional inicial único fechado, há de determinar-se, única e exclusivamente, a soma das penas aplicadas.
+Nem se argumente, como às vezes se faz, que somente a condenação definitiva poderá gerar tal consequência.
+Uma de duas: ou a condenação provisória proporciona ao sentenciado os mesmos direitos e consequências no âmbito da execução penal, ou não. Nessa última hipótese, não estará ele cumprindo pena, mas, sim, preso em decorrência de prisão processual. Aí, a nova condenação não será ainda objeto de execução, de sorte a lhe impedir, ao menos imediatamente, a obtenção de benesses executórias. O tempo de prisão processual servirá, oportunamente e se o caso, de detração, nos termos do art. 42 do Código Penal.
+O que não se pode admitir é que a execução provisória, permitida pelo art. 2º da Lei de Execução Penal e Súmula n. 716, editada pelo Colendo Supremo Tribunal Federal, cujo escopo é conferir dignidade à pessoa humana, um dos fundamentos da República Federativa do Brasil(CF, art. 1º, inciso III), possibilitando que a demora na prestação jurisdicional na fase de conhecimento seja compensada com a justa execução da pena, seja mão de via única: utilizada somente no aspecto que beneficia o preso.
+Em outros termos, mais diretos: juridicamente possível e necessária a soma das reprimendas impostas, ainda que se trate de execução provisória.
+Por fim, a despeito de compreensão diversa deste magistrado a respeito da questão, a superveniente condenação não deve proporcionar a interrupção do prazo para obtenção de benefícios, conforme decidiu o Egrégio Superior Tribunal de Justiça no julgamento dos Recursos Especiais ns. 1.753.512/PR e 1.753.509/PR (Tema n. 1.006), firmando a seguinte tese jurídica: "A unificação de penas não enseja a alteração da data-base para concessão de novos benefícios executórios".
+Tal decisão é dotada de efeito vinculante, por força da regra prevista nos arts. 927, III, e 1.040, III, ambos do Código de Processo Civil, mediante interpretação supletiva admitida pelo art. 3º do Código de Processo Penal.
+Posto isso, DETERMINO a elaboração de novo cálculo da pena privativa de liberdade aplicada ao sentenciado FILIPE GUSTAVO DO CARMO SILVA  .. , observando-se as diretrizes acima estabelecidas, manifestando-se as partes em seguida, para que, querendo, ofereçam impugnação, no prazo de 5 (cinco) dias, em observância ao contraditório.  .. .
+O Tribunal de origem deu provimento ao agravo interposto pelo Ministério Público para determinar a retificação do cálculo, com a fixação da data da última prisão do paciente como nova data-base para fins de progressão de regime. O acórdão apontado como coator foi assim ementado (fls. 9-14, destaques no original):
+EMENTA: DIREITO PENAL. AGRAVO EM EXECUÇÃO PENAL. CÁLCULO DE PENAS. RECURSO PROVIDO.
+I. Caso em Exame
+Agravo em execução penal interposto pelo Ministério Público do Estado de São Paulo contra decisão que indeferiu o pedido de retificação do cálculo de penas do sentenciado. O Ministério Público requer a retificação do cálculo para que seja considerado como base de dados para progressão de regime a data da última prisão do sentenciado.
+II. Questão em Discussão
+2. A questão em discussão consiste em determinar se a base de cálculos para progressão de regime deve ser a data da última prisão do sentenciado.
+III. Razões de Decidir
+3. O art. 111, parágrafo único, da Lei de Execução Penal estabelece que, sobrevindo condenação no curso da execução, somar-se-á a pena ao restante do que estiver sendo cumprido, para determinação do regime.
+4. A jurisprudência do Superior Tribunal de Justiça defende que o lapso do período aquisitivo para benefícios deve ser reiniciado desde a última prisão do sentenciado.
+4. Dispositivo e Tese
+5. Recurso provido.
+Tese de julgamento: 1. A base de dados para progressão de regime deve ser a data da última prisão do sentenciado. 2. A unificação de penas em razão da superveniência de nova prisão deve considerar a última prisão como termo inicial para novos benefícios.
+A questão a ser examinada diz respeito à possibilidade de fixar a data da última prisão do paciente como novo marco para fins de progressão de regime e outros benefícios, na ausência de falta grave homologada pelo Juízo da execução, em contrariedade à tese firmada por esta Corte no Tema n. 1.006.
+No julgamento dos REsp n. 1.753.512/PR e n. 1.753.509/PR, sob a sistemática dos recursos repetitivos, este Superior Tribunal firmou a tese do Tema n. 1.006: "a unificação de penas não enseja a alteração da data-base para concessão de novos benefícios executórios".
+No caso dos autos, o Juízo da execução penal aplicou corretamente o Tema n. 1.006 ao manter a data da primeira prisão como marco inicial para todos os benefícios executórios.
+A jurisprudência desta Corte, consolidada no Tema n. 1.006, estabelece que a mera unificação ou soma das penas não enseja, por si só, a modificação da data-base, sob pena de violação do princípio da legalidade e de dupla penalização pelo mesmo fato. Para que haja interrupção do lapso temporal para a progressão de regime, é indispensável o reconhecimento formal da falta grave pelo Juízo da execução, conforme a Súmula n. 534 deste Superior Tribunal.
+Prevalece, portanto, o Tema n. 1.006, e o marco inicial para os benefícios executórios é a data da primeira prisão do paciente, diante da ausência de falta grave homologada, ou informação de interrupção no cumprimento da pena capaz de ensejar a modificação da data-base.
+À vista do exposto, concedo a ordem para determinar o restabelecimento dos cálculos de liquidação de penas homologados pelo Juízo da execução penal, sem a alteração da data-base pela data da última prisão.
+Comunique-se, com urgência , o inteiro teor desta decisão às instâncias ordinárias para as providências cabíveis.
+Publique-se e intimem-se.
+EMENTA
