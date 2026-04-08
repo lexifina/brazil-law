@@ -1,0 +1,53 @@
+DECISÃO
+Trata-se de habeas corpus substitutivo de recurso próprio, com pedido liminar, impetrado em favor de MARCOS LIMA FARIAS, apontando como autoridade coatora o Tribunal de Justiça do Estado de São Paulo (fls. 6-12), nos autos do Agravo de Execução Penal n. 0027348-41.2025.8.26.0996.
+Conforme se extrai dos autos, na execução penal do paciente houve a suspensão cautelar do livramento condicional em razão de prisão em flagrante em 26/3/2024, seguida de revogação do benefício após condenação por crime cometido durante a vigência do livramento, com fixação de regime fechado, reconhecimento de falta grave e declaração de perda de um terço dos dias remidos (fls. 47-49). O agravo em execução interposto foi recebido e remetido ao Tribunal estadual (fl. 57), que, em 19/1/2026, negou provimento, mantendo a regressão, a falta grave e o perdimento de 1/3 dos dias remidos (fls. 6-12).
+A impetrante sustenta, em síntese, que o paciente está sofrendo constrangimento ilegal porque a prática de fato previsto como crime constitui falta grave apenas quando o sentenciado cumpre pena em regime fechado ou semiaberto (art. 52 da Lei de Execução Penal), não se aplicando tal figura ao período de prova do livramento condicional; afirma que, no livramento condicional, as sanções são taxativas e limitadas à revogação do benefício, à advertência ou ao agravamento das condições (arts. 86 do Código Penal e 140 da LEP), sendo inadmissível a perda de dias remidos por ausência de previsão legal (fls. 2-4).
+Ao final, formula pedido para concessão da ordem para afastar a perda de dias remidos (fls. 4-5).
+Em juízo preliminar neste Superior Tribunal de Justiça (fls. 89-90), a liminar foi indeferida. As informações foram prestadas (fls. 96-98).
+O Ministério Público Federal, em seu parecer, manifestou-se pela concessão da ordem, consoante parecer assim ementado:
+"HABEAS CORPUS. EXECUÇÃO PENAL. LIVRAMENTO CONDICIONAL. COMETIMENTO DE NOVO CRIME DOLOSO NO PERÍODO DE PROVA. RECONHECIMENTO DE FALTA GRAVE E PERDA DE DIAS REMIDOS PELO TRIBUNAL DE ORIGEM. IMPOSSIBILIDADE. AUSÊNCIA DE PREVISÃO LEGAL. SANÇÕES TAXATIVAS NO LIVRAMENTO CONDICIONAL. REVOGAÇÃO DO BENEFÍCIO (ART. 86 DO CP). CONSTRANGIMENTO ILEGAL CONFIGURADO. ORDEM CONCEDIDA.
+1. A legislação penal estabelece sanções específicas para o descumprimento das condições do livramento ou prática de novo crime, limitando-se à revogação do benefício, advertência ou agravamento das condições (arts. 86 do CP e 140 da LEP), inexistindo amparo normativo para a perda do tempo remido nesta fase da execução.
+2. A decisão do Tribunal de origem que mantém a perda de 1/3 dos dias remidos sob o argumento de violação ao caráter ressocializador da pena diverge da taxatividade das normas de execução penal, configurando constrangimento ilegal.
+- Parecer pela concessão da ordem, para afastar a perda dos dias remidos imposta ao paciente." (e-STJ, fl. 104)
+É o relatório.
+Decido.
+Esta Corte - HC 535.063, Terceira Seção, Rel. Ministro Sebastião Reis Junior, julgado em 10/6/2020 - e o Supremo Tribunal Federal - AgRg no HC 180.365, Primeira Turma, Rel. Min. Rosa Weber, julgado em 27/3/2020; AgRg no HC 147.210, Segunda Turma, Rel. Min. Edson Fachin, julgado em 30/10/2018 - pacificaram orientação de que não cabe habeas corpus substitutivo do recurso legalmente previsto para a hipótese, impondo-se o não conhecimento da impetração, salvo quando constatada a existência de flagrante ilegalidade no ato judicial impugnado.
+Passo, assim, à análise das razões da impetração, de forma a verificar a ocorrência de flagrante ilegalidade a justificar a concessão de habeas corpus de ofício.
+Ao analisar o pleito defensivo, o Tribunal de origem assim avaliou a pretensão formulada em favor do paciente (e-STJ, fls. 8-12):
+"Consta dos autos que o sentenciado foi preso em flagrante delito pela prática de roubo crime doloso quando em cumprimento do benefício do livramento condicional.
+Por conta disso, a decisão agravada revogou o livramento condicional, bem como reconheceu a falta grave cometida e declarou a perda de 1//3 dos dias anteriormente remidos.
+A prática de novo delito durante o benefício do livramento condicional não se limita às disposições dos artigos 86 a 88 do Código Penal, sendo indispensável a aplicação do artigo 52 da Lei de Execução Penal, a fim de resguardar a finalidade educativa e ressocializadora da pena.
+O livramento condicional representa a etapa final do cumprimento da pena, submetendo o reeducando às regras da Lei de Execução Penal, mesmo quando usufruído fora do estabelecimento prisional.
+Ressalta-se, ainda, que os sentenciados, ao serem agraciados com livramento condicional, são claramente informados acerca das normas, dos deveres a que se submetem e das consequências do descumprimento. Portanto, a infração cometida nesse contexto evidencia a escolha consciente em violar regras previamente advertidas.
+Assim, é irrelevante que o condenado esteja em liberdade ou recluso, pois permanece sujeito às sanções disciplinares aplicáveis, incluindo a perda proporcional de dias remidos, nos termos do artigo 127 da Lei de Execução Penal.
+Logo, a incidência de nova infração penal demonstra afronta direta às condições impostas para a fruição do benefício, impondo a aplicação das medidas corretivas e ressocializadoras previstas no ordenamento.
+ ..
+Inadmissível, portanto, a alegação defensiva de impossibilidade de homologação da falta durante a vigência do benefício, haja vista que a reincidência delitiva compromete o caráter educativo e ressocializador da execução penal.
+Destaca-se, ainda, que o novo ilícito foi cometido justamente no período de prova, evidenciando violação à confiança estatal e descumprimento das condições estabelecidas para sua ressocialização.
+Referida circunstância, somada ao caráter doloso do delito e à sua gravidade concreta, legitima de forma plena a adoção das medidas sancionatórias previstas na Lei de Execução Penal, não apenas como resposta proporcional à conduta, mas também como instrumento necessário à preservação da ordem executória.
+Dessa forma, a perda dos dias eventualmente remidos, no limite máximo permitido, encontra-se devidamente fundamentada, tendo em vista a gravidade da falta disciplinar. Isso porque o reeducando praticou conduta tipificada como crime doloso, circunstância que autoriza a aplicação da fração máxima de perdimento adotada.
+Por conseguinte, a r. decisão agravada revela-se escorreita, devendo ser mantida por seus próprios e bem lançados fundamentos."
+Constata-se, todavia, que a decisão proferida pelo Juízo da Execução, e avalizada pelo Tribunal de Justiça do Estado de São Paulo, se distancia da consolidada jurisprudência desta Corte Superior sobre o tema, a permitir o reconhecimento de ofício da ilegalidade suscitada.
+Registre-se que, constatado a prática delitiva no curso livramento condicional, o Juízo da Execução, a um só tempo, revogou o benefício, determinou a regressão do regime, bem como a perda de dias remidos (ante o reconhecimento de falte grave).
+Ocorre que, de acordo com a jurisprudência desta Corte Superior, o benefício de livramento condicional possui regulamentação própria, não se admitindo que o descumprimento de suas condições resulte em consequências outras que não aquelas expressamente previstas nos arts. 86 ao 88 do Código Penal e art. 140 e seguintes da Lei de Execução Penal.
+A propósito:
+"EXECUÇÃO PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. INEXISTÊNCIA DE NOVOS ARGUMENTOS HÁBEIS A DESCONSTITUIR A DECISÃO IMPUGNADA. CRIME COMETIDO DURANTE O LIVRAMENTO CONDICIONAL. RECONHECIMENTO DE FALTA DISCIPLINAR DE NATUREZA GRAVE. IMPOSSIBILIDADE. REGRAMENTO PRÓPRIO. PRECEDENTES. CONSTRANGIMENTO ILEGAL EVIDENCIADO. AGRAVO DESPROVIDO
+1. Entende o STJ que não configura prática de falta grave a hipótese de cometimento de novo crime no curso do livramento condicional, pois, nesse caso, o benefício deverá ser revogado e o tempo que o reeducando esteve solto não será decotado da pena, nos termos do art. 86, I, e art. 88, do Código Penal, bem como o art. 145 da LEP (AgRg no HC n. 617.911/RS, Ministro Nefi Cordeiro, Sexta Turma, DJe 5/3/2021).
+2. Agravo regimental desprovido."
+(AgRg no HC n. 670.755/RS, minha relatoria, Quinta Turma, julgado em 8/2/2022, DJe de 14/2/2022, grifei.)
+"PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO PENAL. LIVRAMENTO CONDICIONAL. NOVO DELITO PRATICADO DURANTE O PERÍODO DE PROVA. FALTA GRAVE. NÃO RECONHECIMENTO.
+1. De acordo com a jurisprudência desta Corte Superior de Justiça, "a prática de fato definido como crime durante o livramento condicional tem consequências próprias previstas no Código Penal e na Lei de Execuções Penais, as quais não se confundem com os consectários legais da falta grave praticada por aquele que está inserto no sistema progressivo de cumprimento de pena" (REsp n. 1.101.461/RS, relatora a Ministra MARIA THEREZA DE ASSIS MOURA, Sexta Turma, DJe de 19/2/2013).
+2. Agravo regimental desprovido."
+(AgRg no HC n. 700.729/MG, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 22/3/2022, DJe de 25/3/2022, grifei.)
+Deste modo, tratando-se de hipótese em que o paciente estava em livramento condicional, a prática de novo crime e, em decorrência, o descumprimento das condições impostas pelo Juízo da Execução devem resultar nas consequências previstas nos arts. 87 e 88 do CP e art. 140 da LEP, cujas redações estabelecem:
+Código Penal
+Art. 87 - O juiz poderá, também, revogar o livramento, se o liberado deixar de cumprir qualquer das obrigações constantes da sentença, ou for irrecorrivelmente condenado, por crime ou contravenção, a pena que não seja privativa de liberdade.
+Art. 88 - Revogado o livramento, não poderá ser novamente concedido, e, salvo quando a revogação resulta de condenação por outro crime anterior àquele benefício, não se desconta na pena o tempo em que esteve solto o condenado.
+Lei de Execução Penal
+Art. 140. A revogação do livramento condicional dar-se-á nas hipóteses previstas nos artigos 86 e 87 do Código Penal.
+Parágrafo único. Mantido o livramento condicional, na hipótese da revogação facultativa, o Juiz deverá advertir o liberado ou agravar as condições.
+Assim, descumpridas as obrigações assumidas para fruição do livramento condicional, não é caso de reconhecimento de falta grave e consequente perda dos dias remidos, cabendo ao Juízo da Execução apenas a revogação do benefício.
+Ante o exposto, com fundamento no art. 34, XX, do RISTJ, não conheço do habeas corpus, mas concedo a ordem de ofício, para afastar a perda de dias remidos.
+Comuniquem-se as instâncias de origem.
+Publique-se. Intimem-se.
+ EMENTA
