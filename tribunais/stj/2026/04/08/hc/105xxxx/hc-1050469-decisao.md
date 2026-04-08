@@ -1,0 +1,18 @@
+DECISÃO
+ROBSON PEREIRA alega ser vítima de coação ilegal em decorrência de acórdão proferido pelo Tribunal de Justiça do Estado do Espírito Santo na Apelação Criminal n. 0001005-68.2022.8.08.0008.
+Consta dos autos que o paciente foi condenado, pela prática dos delitos tipificados nos arts. 157, § 3º, II, do Código Penal (latrocínio) e 12 da Lei n. 10.826/2003 (posse ilegal de arma de fogo), em concurso material, às penas de 21 anos e 10 meses de reclusão e 1 ano de detenção, no regime fechado, além do pagamento de 83 dias-multa, à razão mínima.
+Nas razões deste writ, a defesa pugna, em síntese, pelo reconhecimento da nulidade absoluta das provas dada a alegação de flagrante quebra da cadeia de custódia, que, por sua vez, haveria comprometido a autenticidade e a confiabilidade das evidências que ampararam a condenação por latrocínio.
+Instado a se manifestar, o Ministério Público Federal opinou pelo não conhecimento do writ (fls. 648-650).
+Decido.
+O impetrante se insurge contra acórdão de apelação que foi julgado em 11/9/2024 (fl. 21). Em consulta ao sítio eletrônico desta Corte Superior, verifica-se o AREsp n. 2.975.094/ES, interposto em 27/6/2025 e que não foi conhecido pelo então Presidente deste Tribunal Superior em decisão monocrática proferida em 6/8/2025, cujo trânsito em julgado operou-se em 13/8/2025.
+O presente writ foi impetrado em 6/11/2025.
+Diante desse cenário, está desprovido de dúvidas o caráter substitutivo de revisão criminal com a impetração do habeas corpus.
+Por força do art. 105, I, "e", da Constituição Federal, a competência desta Corte para processar e julgar revisão criminal limita-se às hipóteses de seus próprios julgados. Como não existe no STJ julgamento de mérito passível de revisão em relação à condenação sofrida pelo paciente, forçoso reconhecer a incompetência deste Tribunal para o processamento do presente pedido.
+Importante destacar que este Tribunal Superior, em diversas ocasiões, reconheceu a impossibilidade de uso do habeas corpus em substituição à revisão criminal e assim posicionou-se: "o trânsito em julgado do acórdão que julga a apelação criminal, sem que haja a inauguração da competência deste Sodalício, torna incognoscível o pedido de habeas corpus" (AgRg n. HC n. 805.183/SP, Rel. Ministro Teodoro Silva Santos, 6ª T., DJe 15/3/2024).
+Nessa perspectiva, cito, ainda, as seguintes decisões monocráticas: HC n. 905.628/SP, Rel. Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), DJe 17/4/2024; HC n. 905.340/SP, Rel. Ministra Daniela Teixeira, DJe 17/4/2024; HC n. 905.232/SP, Rel. Ministro Messod Azulay Neto, DJe 17/4/2024; HC n. 904.932/PR, Rel. Ministro Antonio Saldanha Palheiro, DJe 16/4/2024.
+A despeito da ampliação do uso do habeas corpus, e sem esquecer a sua importância na defesa da liberdade de locomoção, a crescente quantidade de impetrações, que, antes, deveriam ser examinadas em instâncias diversas, tem prejudicado as funções constitucionais desta Corte, cujo escopo maior é trazer uniformidade e previsibilidade ao sistema jurídico.
+Portanto, diante do manifesto caráter substitutivo recursal do presente writ, inviável seu processamento.
+Por fim, destaca-se que o Subprocurador-Geral da República João Heliofar de Jesus Villar endossa essa compreensão nos autos ao assinalar que "tendo em vista que o caso presente não apresenta nenhuma especificidade que exija a antecipação da apreciação, que poderá ser feita oportunamente, quando da apreciação do instrumento processual cabível (a revisão criminal), a ser ajuizada na origem, o caso é de não conhecimento da impetração" (fl. 650).
+À vista do exposto, não conheço do habeas corpus.
+Publique-se e intimem-se.
+EMENTA
