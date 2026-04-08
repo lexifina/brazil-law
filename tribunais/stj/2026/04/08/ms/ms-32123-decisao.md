@@ -1,0 +1,30 @@
+DECISÃO
+Trata-se de mandado de segurança, com pedido de medida liminar, impetrado por DIVALDO VIEIRA LARA contra decisões monocráticas proferidas por Desembargadores do TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO GRANDE DO SUL.
+Consta dos autos que o impetrante postulou a concessão do benefício de gratuidade judiciária em sede de recurso especial interposto em ação penal privada, o que não foi acolhido por Desembargador 2º Vice-Presidente da Corte de origem (fls. 11/12). Posteriormente, similar pretensão foi formulada em sede de agravo em recurso especial, o qual não foi conhecido por Desembargadora 2ª Vice-Presidente do TJRS (fls. 8/10).
+Irresignado, o impetrante alega violação aos arts. 5º, LXXIV, da Constituição Federal, e 99, § 3º, do Código de Processo Civil, sustentando a presunção juris tantum da hipossuficiência da pessoa natural, reforçada por elementos indiciários mínimos, como a ausência de renda atual após a renúncia ao cargo.
+Requer, em sede liminar, a suspensão dos efeitos de decisão e a dispensa provisória do recolhimento das custas/preparo até o julgamento de mérito; no mérito, a confirmação da liminar para cassar as decisões impugnadas e deferir definitivamente gratuidade.
+Deferida a gratuidade no âmbito deste mandado de segurança (fl. 399).
+É o relatório.
+Decido.
+O presente writ foi impetrado em desfavor de mais de uma decisão proferida por Desembargador.
+Contudo, a competência desta Corte Superior, nos termos do disposto no art. 105, inciso I, b, da Constituição Federal, limita-se a julgar originariamente mandado de segurança contra ato de Ministro de Estado ou do próprio Tribunal.
+Nesse sentido foi editada a Súmula n. 41 do STJ in verbis: "O Superior Tribunal de Justiça não tem competência para processar e julgar, originariamente, mandado de segurança contra ato de outros tribunais ou dos respectivos órgãos".
+Assim: "tratando-se de mandado de segurança impetrado contra ato de desembargador do Tribunal de Justiça do Estado de São Paulo, imperiosa a incidência do Enunciado n. 41 da Súmula do Superior Tribunal de Justiça" (AgRg no MS n. 23.632/SP, de minha relatoria, TERCEIRA SEÇÃO, DJe de 23/3/2018).
+Em acréscimo, na esteira de firme jurisprudência do Superior Tribunal de Justiça, o writ não pode ser utilizado como sucedâneo de recurso ou como meio autônomo de impugnação tendente à desconstituição da autoridade da coisa julgada, não cabendo mandado de segurança contra ato judicial passível de recurso ou correição, o que não foi observado pelo impetrante. A propósito:
+AGRAVO REGIMENTAL NO RECURSO EM MANDADO DE SEGURANÇA. PROCESSO PENAL. SUSTENTAÇÃO ORAL. PRELIMINAR DE NULIDADE. INEXISTÊNCIA. AÇÃO DE RESTITUIÇÃO DE COISAS APREENDIDAS. MANDADO DE SEGURANÇA. INCABÍVEL. ENUNCIADO SUMULAR N. 267/STF. EXCESSO DE PRAZO. SUPERAÇÃO. DENÚNCIA RECEBIDA. RECURSO EM MANDADO DE SEGURANÇA DESPROVIDO. AUSÊNCIA DE NOVOS ARGUMENTOS HÁBEIS A DESCONSTITUIR A DECISÃO IMPUGNADA. AGRAVO REGIMENTAL DESPROVIDO.
+I - Na esteira da jurisprudência firmada por esta Corte Superior de Justiça, havendo pedido expresso de sustentação oral, a ausência de intimação do advogado constituído torna nula a sessão de julgamento, por ofensa à ampla defesa. Contudo, a nulidade suscitada deve ser arguida na primeira oportunidade em que a Defesa tomar ciência do julgamento, levando-se ao conhecimento da Corte local, por meio do recurso cabível, a ocorrência do vício e o efetivo prejuízo, sob pena de preclusão. Precedentes.
+II - Diante da existência de medida judicial específica a albergar a pretensão do recorrente, que aliás já se encontra em andamento perante o eg. Tribunal de origem, o entendimento consignado pela instância ordinária guarda harmonia com a orientação firmada no Enunciado Sumular n. 267 do Supremo Tribunal Federal, no sentido de que "não cabe mandado de segurança contra ato judicial passível de recurso ou correição".
+III - A jurisprudência deste Superior Tribunal de Justiça já sedimentou o entendimento no sentido de que a alegação de excesso de prazo na medida constritiva resta superado após o início da ação penal. No caso dos autos, conforme consignou a própria Defesa, em 15/1/2020 foi recebida a denúncia nos autos do Processo Criminal n. 0023593-08.2015.4.01.3900, assim como consta do sítio eletrônico da eg. Corte regional que já foi dado início à instrução criminal.
+IV - Por fim, neste agravo regimental não foram apresentados argumentos novos capazes de alterar o entendimento anteriormente firmado, devendo ser mantida a decisão impugnada por seus próprios e jurídicos fundamentos. Agravo regimental desprovido.
+(AgRg no RMS 64.869/PA, Rel. Ministro JESUÍNO RISSATO (DESEMBARGADOR CONVOCADO DO TJDFT), QUINTA TURMA, DJe 20/08/2021).
+AGRAVO REGIMENTAL EM MANDADO DE SEGURANÇA. ATO JUDICIAL. IMPETRAÇÃO EM SUBSTITUIÇÃO AO RECURSO CABÍVEL. NÃO CABIMENTO. AUSÊNCIA DE TERATOLOGIA OU DE MANIFESTA ILEGALIDADE NA DECISÃO RECORRIDA. INDEFERIMENTO LIMINAR DO MANDAMUS. INCOMPETÊNCIA ABSOLUTA DESTA CORTE. SÚMULA 41/STJ. AGRAVO NÃO CONHECIDO.
+I - É incabível a impe tração de mandado de segurança contra ato judicial passível de recurso, o que se admite excepcionalmente quando presente teratologia ou manifesta ilegalidade.
+II - Em sendo assim, incide na hipótese a súmula 182 deste Tribunal ("é inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada").
+III - A título de reforço dos fundamentos postos, está-se diante de óbice constitucional relativo à incompetência absoluta desta Corte para o julgamento do mandado de segurança originário contra ato de outro tribunal, conforme disposto no art. 105, I, b, da CF/88, bem como do art. 12, I, do RISTJ e, ainda, do enunciado da Súmula 41/STJ.
+Agravo regimental não conhecido.
+(AgRg no MS n. 28.908/RS, relator Ministro MESSOD AZULAY NETO, TERCEIRA SEÇÃO, DJe de 3/5/2023).
+Ante o exposto, nos termos do art. 10 da Lei n. 12.016/2009, c/c o art. 212 do Regimento Interno do Superior Tribunal de Justiça, indefiro liminarmente o presente mandamus.
+Sem condenação em honorários advocatícios, observada a Súmula n. 105/STJ e o art. 25 da Lei n. 12.016/2009.
+Publique-se.
+Intimem-se.
+EMENTA
