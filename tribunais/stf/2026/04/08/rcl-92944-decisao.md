@@ -1,0 +1,57 @@
+DECISÃO
+
+RECLAMAÇÃO. CONSTITUCIONAL. ADMINISTRATIVO. FUNCIONÁRIO MUNICIPAL PRESTADOR DE SERVIÇOS AUTÔNOMOS. VÍNCULO JURÍDICO-ADMINISTRATIVO. INCOMPETÊNCIA DA JUSTIÇA DO TRABALHO: DESCUMPRIMENTO DAS DECISÕES PROFERIDAS NA AÇÃO DIRETA DE INCONSTITUCIONALIDADE N. 3.395 E NO RECURSO EXTRAORDINÁRIO N. 655.283, TEMA 606 DA REPERCUSSÃO GERAL. RECLAMAÇÃO JULGADA PROCEDENTE.
+
+Relatório
+1. Reclamação, com requerimento de medida liminar, ajuizada pelo Município de Sapucaia do Sul/RS, em 6.4.2026, contra a seguinte decisão do juízo da Segunda Vara do Trabalho de Sapucaia do Sul no Processo n. 0020861-94.2025.5.04.0292, pela qual teria sido desrespeitado o decidido pelo Supremo Tribunal Federal na Ação Direta de Inconstitucionalidade n. 3.395 e no Recurso Extraordinário n. 655.283, Tema 606 da repercussão geral:
+“1 – INCOMPETÊNCIA ABSOLUTA EM RAZÃO DA MATÉRIA.
+Argui o Município a incompetência desta Especializada para processar e julgar a presente ação, argumentando que ‘a controvérsia, em sua essência, não versa sobre direitos e obrigações decorrentes de um contrato de trabalho válido, mas sim sobre a legalidade de um ato administrativo que precedeu e condicionou a própria existência do vínculo empregatício’.
+À análise.
+A competência desta Especializada está determinada no art. 114, da Constituição Federal, com a redação dada pela Emenda Constitucional nº 45/2004, o qual dispõe que compete à Justiça do Trabalho processar e julgar as ações oriundas da relação de trabalho.
+No caso em exame, a pretensão da reclamante é a nulidade da despedida com a consequente reintegração ao emprego, com amparo no disposto no artigo 10º da Lei Federal nº 11.350/2006 e no artigo 4º da Lei Municipal nº 3.273/2010.
+A autora não discute a fase pré-contratual efetivamente.
+E a documentação acostada pelo próprio Município aponta para um vínculo regido pela CLT (fls. 2275 segs.).
+Assim sendo, afasto a prefacial de incompetência da Justiça do Trabalho para processar e julgar a presente ação” (fls. 2-5,e-doc. 9).
+
+2. O reclamante relata cuidar-se de “ato judicial que, ao afirmar a competência da Justiça do Trabalho para processar e julgar demanda cuja causa de pedir remota e a própria natureza do ato impugnado são eminentemente jurídico-administrativas, afrontou diretamente a autoridade das decisões proferidas por esta Suprema Corte no julgamento da Ação Direta de Inconstitucionalidade nº 3.395 e do Tema 606 da Repercussão Geral (RE 655.283)” (fl. 2).
+
+Informa que “a beneficiária ajuizou Reclamatória Trabalhista (Processo nº 0020861-94.2025.5.04.0292) perante a Justiça Especializada, postulando, em síntese, a declaração de nulidade de sua dispensa e a consequente reintegração ao emprego de Agente Comunitária de Saúde, cargo para o qual foi admitida. A dispensa ocorreu em estrito cumprimento, por parte do Município Reclamante, de uma determinação cogente do Tribunal de Contas do Estado do Rio Grande do Sul (TCE/RS)” (fl. 2).
+
+Esclarece que, “buscando preservar os vínculos e a continuidade do serviço, ingressou com a Ação Declaratória nº 5000423-75.2018.8.21.0035 perante a Justiça Comum Estadual, visando desconstituir a referida decisão da Corte de Contas. Contudo, a pretensão municipal foi julgada improcedente, e a decisão judicial que chancelou a validade do ato do TCE/RS transitou em julgado em 2024. Diante de um comando definitivo, tanto na esfera administrativa quanto na judicial, não restou ao Município outra alternativa senão proceder à desconstituição dos atos de admissão declarados nulos, sob pena de incorrer em ato de improbidade administrativa e desobediência” (fl. 2).
+
+Requer medida liminar para “determinar a imediata suspensão do trâmite da Reclamatória Trabalhista nº 0020861-94.2025.5.04.0292, em curso perante a 1ª Vara do Trabalho de Sapucaia do Sul/RS, até o julgamento final da presente Reclamação” (fl. 8).
+
+Pede, no mérito, a procedência da presente reclamação para “cassar em definitivo a decisão reclamada, que afirmou a competência da Justiça do Trabalho, e, por conseguinte, declarar a incompetência absoluta da Justiça do Trabalho para processar e julgar a Reclamatória Trabalhista nº 0020861-94.2025.5.04.0292, determinando-se a remessa dos autos à Justiça Comum do Estado do Rio Grande do Sul, por ser o foro competente para apreciar a matéria, garantindo-se, assim, a autoridade das decisões desta Suprema Corte exaradas na ADI 3.395 e no Tema 606 da Repercussão Geral” (fls. 8-9).
+
+Examinados os elementos havidos nos autos, DECIDO.
+
+3. O parágrafo único do art. 161 do Regimento Interno do Supremo Tribunal Federal dispõe que “o Relator poderá julgar a reclamação quando a matéria for objeto de jurisprudência consolidada do Tribunal”, como se tem na espécie.
+
+4. Põe-se em foco nesta ação se o juízo da Segunda Vara do Trabalho de Sapucaia do Sul teria descumprido o decidido pelo Supremo Tribunal Federal na Ação Direta de Inconstitucionalidade n. 3.395 e no Recurso Extraordinário n. 655.283, Tema 606 da repercussão geral.
+
+5. Em 5.4.2006, no julgamento da Ação Direta de Inconstitucionalidade n. 3.395, este Supremo Tribunal referendou medida cautelar deferida pelo Ministro Nelson Jobim:
+“INCONSTITUCIONALIDADE. Ação direta. Competência. Justiça do Trabalho. Incompetência reconhecida. Causas entre o Poder Público e seus servidores estatutários. Ações que não se reputam oriundas de relação de trabalho. Conceito estrito desta relação. Feitos da competência da Justiça Comum. Interpretação do art. 114, inc. I, da CF, introduzido pela EC 45/2004. Precedentes. Liminar deferida para excluir outra interpretação. O disposto no art. 114, I, da Constituição da República, não abrange as causas instauradas entre o Poder Público e servidor que lhe seja vinculado por relação jurídico-estatutária” (DJ 10.11.2006).
+
+6. Em 15.4.2020, este Supremo Tribunal confirmou a cautelar deferida e julgou parcialmente procedente a Ação Direta de Inconstitucionalidade n. 3.395 para fixar interpretação conforme à Constituição da República, no sentido de que o inc. I do art. 114, alterado pela Emenda Constitucional n. 45/2004, não abrange causas ajuizadas para discussão de relação jurídico-estatutária entre o Poder Público e seus servidores. Esta a ementa do julgado:
+“CONSTITUCIONAL E TRABALHO. COMPETÊNCIA DA JUSTIÇA DO TRABALHO. ART. 114, I, DA CONSTITUIÇÃO FEDERAL. EMENDA CONSTITUCIONAL 45/2004. AUSÊNCIA DE INCONSTITUCIONALIDADE FORMAL. EXPRESSÃO ‘RELAÇÃO DE TRABALHO’. INTERPRETAÇÃO CONFORME À CONSTITUIÇÃO. EXCLUSÃO DAS AÇÕES ENTRE O PODER PÚBLICO E SEUS SERVIDORES. PRECEDENTES. MEDIDA CAUTELAR CONFIRMADA. AÇÃO DIRETA JULGADA PARCIALMENTE PROCEDENTE. 1. O processo legislativo para edição da Emenda Constitucional 45/2004, que deu nova redação ao inciso I do art. 114 da Constituição Federal, é, do ponto de vista formal, constitucionalmente hígido. 2. A interpretação adequadamente constitucional da expressão ‘relação do trabalho’ deve excluir os vínculos de natureza jurídico estatutária, em razão do que a competência da Justiça do Trabalho não alcança as ações judiciais entre o Poder Público e seus servidores. 3. Medida Cautelar confirmada e Ação Direta julgada parcialmente procedente” (DJe 1º.7.2020).
+
+No voto condutor do julgamento, o Relator, Ministro Alexandre de Moraes, afirmou:
+“Cabe se desconsiderar qualquer espaço para uma leitura interpretativa do inciso I do art. 114 da Constituição Federal que admita como competente a Justiça do Trabalho para julgamento de causas que alcancem relações jurídicas laborais, figurando em um dos polos a União, os Estados, o Distrito Federal e os Municípios, e no outro os seus Servidores ocupantes de cargos criados por lei, de provimento efetivo ou em comissão, incluídas autarquias e fundações públicas. As relações laborais entre os Entes federativos e seus Servidores somente são dotadas de juridicidade, aliás, compaginando-se com o entendimento encampado e pacificado pelo SUPREMO TRIBUNAL FEDERAL para a expressão ‘relações de trabalho’, acaso observando essas como relações puramente de Direito Administrativo, isto é, como relações decorrentes, não de contrato civil de trabalho, mas de estatuto jurídico específico. É essa compreensão que, considerado o caso vertente, transforma, aliás, em rigorosamente impertinente qualquer debate em torno do problema de uma alegada inconstitucionalidade formal. (…)
+É à luz do exposto que permanece jurídica a definição adotada pela Decisão cautelar que chancelou a monocrática liminar, proferida nesta Ação Direta de Inconstitucionalidade, no sentido de não tomar por incluído pelo inciso I do art. 114 da Constituição Federal, ‘em seu âmbito material de validade, as relações de natureza jurídico-administrativa dos servidores públicos’ (ADI 3.395 MC, Rel. Min. CEZAR PELUSO, Pleno, 5/4/2006), sendo daí cabível a interpretação conforme à Constituição, sem redução de texto. VOTO, pois, por, conhecendo da Ação Direta de Inconstitucionalidade 3.395, DAR-LHE PARCIAL PROCEDÊNCIA, confirmando a decisão liminar concedida e fixando, com aplicação de interpretação conforme à Constituição, sem redução de texto, que o disposto no inciso I do art. 114 da Constituição Federal não abrange causas ajuizadas para discussão de relação jurídico-estatutária entre o Poder Público dos Entes da Federação e seus Servidores” (DJe 1º.7.2020).
+
+Como reiterado no julgamento de mérito da Ação Direta de Inconstitucionalidade n. 3.395, o vínculo jurídico estabelecido entre servidores contratados e a Administração é de Direito Administrativo, não comportando a matéria discussão na Justiça trabalhista. Nesse sentido, por exemplo:
+“AGRAVO REGIMENTAL NA RECLAMAÇÃO. CONSTITUCIONAL. AÇÃO DIRETA DE INCONSTITUCIONALIDADE N. 3.395-MC/DF. AGENTE COMUNITÁRIO DE SAÚDE. VÍNCULO JURÍDICO-ADMINISTRATIVO: COMPETÊNCIA DA JUSTIÇA COMUM. PRECEDENTES. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO” (Rcl n. 40.404-AgR, Relatora a Ministra Cármen Lúcia, Segunda Turma, DJe 8.7.2020).
+
+“RECLAMAÇÃO. CONSTITUCIONAL. ADMINISTRATIVO. FUNCIONÁRIO MUNICIPAL PRESTADOR DE SERVIÇOS AUTÔNOMOS. VÍNCULO JURÍDICO-ADMINISTRATIVO. INCOMPETÊNCIA DA JUSTIÇA DO TRABALHO: DESCUMPRIMENTO DA DECISÃO PROFERIDA NA AÇÃO DIRETA DE INCONSTITUCIONALIDADE N. 3.395. RECLAMAÇÃO JULGADA PROCEDENTE” (Rcl n. 91.237, Relatora a Ministra Cármen Lúcia, decisão monocrática transitada em julgado, DJe 11.3.2026).
+
+“AGRAVO REGIMENTAL NA RECLAMAÇÃO. CONSTITUCIONAL. SERVIDORA PÚBLICA DA FUNDAÇÃO NACIONAL DE SAÚDE FUNASA. MUDANÇA DO REGIME JURÍDICO CELETISTA PARA ESTATUTÁRIO. CAUSA DE PEDIR RELACIONADA AO VÍNCULO JURÍDICO-ADMINISTRATIVO: INCOMPETÊNCIA DA JUSTIÇA DO TRABALHO PARA PROCESSAR E JULGAR A CAUSA. PRECEDENTES. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO” (Rcl n. 52.017-AgR, Relatora a Ministra Cármen Lúcia, Primeira Turma, DJe 30.3.2022).
+
+Na espécie em exame, o vínculo firmado entre o reclamante e a beneficiária está submetido a regime jurídico-administrativo. A competência para dirimir conflito decorrente dessa relação administrativa não comporta discussão jurídica, na esteira dos precedentes.
+
+7. Pelo exposto, caracterizado o desrespeito ao decidido por este Supremo Tribunal na Ação Direta de Inconstitucionalidade n. 3.395, julgo procedente a presente reclamação, declaro a incompetência da Justiça do Trabalho para processar e julgar o Processo n. 0020861-94.2025.5.04.0292 e determino a remessa dos autos eletrônicos à Justiça Estadual comum para decidir como de direito.
+
+Publique-se.
+Brasília, 8 de abril de 2026.
+
+Ministra CÁRMEN LÚCIA
+Relatora
