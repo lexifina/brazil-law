@@ -1,0 +1,24 @@
+DECISÃO
+Trata-se de agravo de decisão que não admitiu recurso especial, interposto contra acórdão assim ementado:
+CONSUMIDOR. COMPROMISSO DE COMPRA E VENDA. IMÓVEL. Atraso na conclusão das obras. Prazo de entrega que deve obedecer à previsão do negócio firmado entre as partes, não do financiamento contraído junto à CEF. Empreendimento até hoje não concluído, há muito superado o prazo de tolerância contratual. Devida a multa, expressamente estabelecida no ajuste, até a efetiva entrega das chaves. Parcelas vencidas e vincendas x juros de mora. Termos iniciais distintos. Orientação do STJ. Sentença mantida. Honorários majorados. Recurso desprovido, com observação (fl. 329).
+Nas razões do recurso especial, a parte recorrente aponta divergência jurisprudencial, sustentando que "resta evidenciada a inaplicabilidade do Código de Defesa do Consumidor, posto que fora celebrado contrato em conformidade com as regras estabelecidas no Código Civil, sendo respeitados todos os direitos e princípios consagrados pelo código civilista, como a boa-fé objetiva, autonomia de vontade, consensualismo e obrigatoriedade das cláusulas pactuadas, mantido o equilíbrio contratual, sem qualquer vício de vontade. Portanto, incontroverso a anuência do Recorrido quanto às cláusulas ali dispostas, não havendo, o que se falar em nulidade das cláusulas contratuais, tampouco na aplicação do dispositivo consumerista" (fl.344).
+O recurso especial não foi admitido com fundamento de incidência do enunciado 13 do STJ, além da não comprovação da divergência jurisprudencial.
+Nas razões do agravo em recurso especial, a parte agravante cingiu-se a alegar que foi comprovada a divergência jurisprudencial.
+Assim delimitada a controvérsia, passo a decidir.
+Nos termos do art. 932, inciso III, do Código de Processo Civil e do art. 253, parágrafo único, inciso I, do Regimento Interno desta Corte, não se conhecerá do agravo em recurso especial que não tenha impugnado especificamente todos os fundamentos da decisão recorrida.
+Na hipótese, o Tribunal de origem não admitiu o recurso, em razão do óbice do verbete 13 do STJ, além da não comprovação da divergência jurisprudencial.
+Em suas razões do agravo em recurso especial, a parte agravante, contudo, não impugnou especificamente o fundamento da decisão agravada, em relação à incidência da súmula 13 do STJ, pois não rebateu o aludido impedimento, cingindo-se a alegar que houve a comprovação da divergência jurisprudencial.
+Registre-se que a impugnação da decisão agravada há de ser específica, de modo que, não admitido o recurso especial, a parte recorrente deve explicitar os motivos pelos quais não incidem os óbices apontados, sob pena de vê-los mantidos.
+Assim, em respeito ao princípio da dialeticidade, os recursos devem ser fundamentados, sendo necessária a impugnação específica a todos os pontos analisados na decisão recorrida, sob pena de não conhecimento do recurso, por ausência de cumprimento dos requisitos previstos no art. 932, III, do Código de Processo Civil de 2015, e pela aplicação analógica da Súmula 182 do STJ. Nesse sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AÇÃO CONDENATÓRIA - DECISÃO MONOCRÁTICA DA PRESIDÊNCIA DESTA CORTE QUE NÃO CONHECEU DO RECLAMO, ANTE A AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DA DECISÃO AGRAVADA. INSURGÊNCIA DA PARTE DEMANDADA.
+1. Consoante expressa previsão contida nos artigos 932, III, do CPC/15 e 253, I, do RISTJ e em razão do princípio da dialeticidade, deve o agravante demonstrar, de modo fundamentado, o desacerto da decisão que inadmitiu o apelo extremo, o que não aconteceu na hipótese. Incidência da Súmula 182 do STJ.
+2. São insuficientes ao cumprimento do dever de dialeticidade recursal as alegações genéricas de inconformismo, devendo a parte autora, de forma clara, objetiva e concreta, demonstrar o desacerto da decisão impugnada.
+Precedentes.
+3. Agravo interno desprovido.
+(AgInt no AREsp 1904123/MA, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 4/10/2021, DJe 8/10/2021)
+A propósito, a Corte Especial do STJ manteve o entendimento de que o recorrente deve impugnar especificamente todos os fundamentos da decisão agravada, sob pena de não conhecimento do agravo em recurso especial, por aplicação da Súmula 182/STJ (Embargos de Divergência em Agravo em Recurso Especial 746.775/PR, Relator Ministro João Otávio de Noronha, Relator para acórdão Ministro Luis Felipe Salomão, julgamento em 19/9/2018, DJe 30/11/2018).
+Desse modo, sem a impugnação específica e suficiente para infirmar todos os fundamentos da decisão agravada, aplica-se, por analogia, o enunciado n. 182 da Súmula do STJ.
+Em face do exposto, não conheço do agravo.
+Nos termos do art. 85, § 11, do CPC/2015, majoro em 10% (dez por cento) a quantia já arbitrada a título de honorários em favor da parte recorrida, observados os limites previstos nos §§ 2º e 3º do referido dispositivo legal.
+Intimem-se.
+EMENTA
