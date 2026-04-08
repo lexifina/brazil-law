@@ -1,0 +1,38 @@
+DECISÃO
+Trata-se de agravo regimental interposto por JOSE EVANDRO PEREIRA DA COSTA contra decisão que não conheceu do agravo em recurso especial (e-STJ, fls. 618-619).
+Nas razões, a defesa reafirma que impugnou especificamente todos os fundamentos da decisão de inadmissão, inclusive a incidência da Súmula 7/STJ; sustenta a regularidade dos pressupostos de admissibilidade; afirma que a controvérsia cinge-se à fixação do regime prisional, questão de direito que prescinde de reexame de provas; e invoca os enunciados das Súmulas 440/STJ, 718 e 719/STF, além do HC 111.840/ES, para assentar a necessidade de motivação idônea e a vedação de impor regime mais gravoso com base na gravidade abstrata do delito, destacando que a pena-base foi fixada no mínimo legal e que o recorrente é primário, sem maus antecedentes (e-STJ, fls. 624-627).
+Requer assim o conhecimento e provimento do agravo regimental, com a reconsideração da decisão monocrática e o encaminhamento do recurso ao órgão colegiado competente, para, ao final, fixar o regime inicial semiaberto em observância à quantidade de pena e à primariedade, nos termos do art. 33, §§ 2º e 3º, do Código Penal (e-STJ, fls. 628).
+É o relatório.
+Decido.
+Verifico que a tese ora suscitada já foi objeto de julgamento nos autos do HC conexo n. 1.060.658/SP que, assim entendeu:
+" ..
+A irresignação não merece guarida.
+Observa-se que o agravante não trouxe argumentos suficientemente capazes de infirmar a decisão agravada, motivo pelo qual a mantenho por seus próprios fundamentos.
+No que tange à fixação do regime inicial para o resgate da sanção, cumpre ressaltar que a aplicação de pena no patamar mínimo previsto no preceito secundário na primeira fase da dosimetria não conduz, obrigatoriamente, à fixação do regime indicado pela quantidade de sanção corporal, sendo lícito ao julgador impor regime mais rigoroso do que o indicado pela regra geral do §§ 2º e 3º, do Código Penal, desde que mediante fundamentação idônea, assim comoart. 33, ocorrido na espécie.
+No caso, verifica-se que os fundamentos utilizados pelo acórdão não podem ser tidos por genéricos e, portanto, constituem motivação suficiente para justificar a imposição de regime prisional mais gravoso que o estabelecido em Lei (art. 33, §§ 2º e 3º, do Código Penal), não havendo se falar em violação da Súmula/STJ 440, bem como dos verbetes sumulares 718 e 719 do Supremo Tribunal Federal.
+Confira-se, por pertinente, o seguinte excerto extraído do aresto impugnado:
+"Em relação ao regime inicial para o cumprimento da pena privativa de liberdade, necessária a reforma da r. sentença neste ponto. Com efeito, fundamentou o d. Juízo de origem a fixação do regime semiaberto em razão da quantidade de pena estabelecida, o que justificaria a adoção do regime intermediário para o início do cumprimento das reprimendas impostas (f. 426/427). No entanto, novamente com a devida vênia ao entendimento esposado pelo d. Juízo sentenciante, o regime inicial de cumprimento das penas não poderá ser outro que não o fechado, em face do emprego de arma de fogo para a consecução da subtração planejada pelo marido da vítima e seu comparsa, a demonstrar a maior frieza e periculosidade dos agentes, tudo, pois, suficiente a indicar a necessidade do regime mais gravoso para a reprovação e prevenção do delito, em razão de sua gravidade concreta, conforme § 3º, do Código Penal (STJ - HC 274.908-SP, Quinta art. 33, Turma, D Je HC 293.512-SP, Quinta Turma, D Je 1º/7/2014; e HC 262.939- 2/9/2014; SP, Sexta Turma, D Je HC 294.803-SP). 25/4/2014. Daí porque o regime inicial fechado ser o mais indicado ao caso em apreço." (e-STJ, fls. 22-23).
+Como se vê, não obstante a pena-base tenha sido fixada no piso legal, o estabelecimento do regime semiaberto, mais severo do que o indicado pelo da quantum reprimenda, baseou-se na gravidade concreta do delito, evidenciada pelo fato de que o delito foi planejado pelo paciente que é marido da vítima, o que exige resposta estatal superior, dada a maior reprovabilidade da conduta, em atendimento ao princípio da individualização da pena. Ilustrativamente:
+ .. ."
+Portanto, como há identidade de partes e da causa de pedir, tem-se a prejudicialidade do agravo regimental no agravo em recurso especial.
+Nesse sentido:
+" ..  2. Conforme consignado na decisão embargada, o agravo em recurso especial constitui mera reiteração dos pedidos formulados nos HC 724.878/SE, HC 744.894/SE e HC 779.990/SE, e isto porque há identidade de partes e causa de pedir, tendo esta Corte Superior afastado a alegada litispendência entre as ações penais instauradas contra o embargante; mantido a condenação do réu pelos delitos de tráfico de drogas, associação para o tráfico de drogas e lavagem de dinheiro; e afastada a pretensão de reconhecimento do tráfico privilegiado. Assim, em virtude da reiteração, tem-se a prejudicialidade do agravo em recurso especial.
+ ..  5. Embargos de declaração rejeitados."
+(EDcl no AgRg nos EDcl nos EDcl no AREsp n. 2.249.797/SE, minha relatoria, Quinta Turma, julgado em 27/6/2023, DJe de 30/6/2023.)
+"AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. DECISÃO AGRAVADA. IMPUGNAÇÃO SUFICIENTE. RECONSIDERAÇÃO. TRÁFICO DE DROGAS. ART. 33, § 4º, DA LEI 11.343/2006. REGIME PRISIONAL. SUBSTITUIÇÃO DA PENA PRIVATIVA DE LIBERDADE POR RESTRITIVAS DE DIREITO. TEMAS ANALISADOS NESTA CORTE NO HC 378.845/SP. REITERAÇÃO DE PEDIDO. AGRAVO CONHECIDO PARA JULGAR PREJUDICADO O RECURSO ESPECIAL.
+1. Impugnada suficientemente a decisão de inadmissão do recurso especial, deve ser conhecido o agravo.
+2. A controvérsia recursal configura mera reiteração do HC 378.845/SP, em que denegada a ordem de habeas corpus.
+3. Agravo regimental provido para conhecer do agravo, julgando prejudicado o recurso especial."
+(AgRg no AREsp 1649191/SP, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 16/06/2020, DJe 23/06/2020).
+"AGRAVO REGIMENTAL NO AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. DECISÃO DA PRESIDÊNCIA DO STJ. SÚMULA N.º 182/STJ. NÃO INCIDÊNCIA. IMPUGNAÇÃO DOS FUNDAMENTOS DA DECISÃO DE INADMISSIBILIDADE DO RECURSO ESPECIAL. DECISÃO RECONSIDERADA. PENAL. TRÁFICO DE DROGAS. 136,51G (CENTO E TRINTA E SEIS GRAMAS E CINQUENTA E UM CENTIGRAMAS) DE COCAÍNA E 28,14G (VINTE E OITO GRAMAS E QUATORZE CENTIGRAMAS) DE CRACK. PLEITOS DE RESTABELECIMENTO DO REDUTOR DA PENA, DE FIXAÇÃO DO REGIME ABERTO E DE SUBSTITUIÇÃO DA PENA CORPORAL EM RESTRITIVAS DE DIREITOS. MATÉRIAS DECIDIDAS EM HABEAS CORPUS. PERDA DE OBJETO. AGRAVO REGIMENTAL DESPROVIDO.
+1. A apreciação, em sede de habeas corpus, de pedidos reiterados em recurso especial, torna o conhecimento do apelo nobre prejudicado.
+2. Agravo regimental desprovido."
+(AgRg no AgRg no AREsp 1676750/SP, Rel. Ministra LAURITA VAZ, SEXTA TURMA, julgado em 09/06/2020, DJe 23/06/2020.)
+"AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. FURTOS EM CONTINUIDADE DELITIVA. PRINCÍPIO DA INSIGNIFICÂNCIA E ABRANDAMENTO DO REGIME PRISIONAL. REITERAÇÃO DE PEDIDOS. MATÉRIAS JÁ DEBATIDAS NO ÂMBITO DE HABEAS CORPUS. INSURGÊNCIA DESPROVIDA.
+1. Os pleitos de absolvição pela aplicação do princípio da insignificância e de mitigação do regime inicial de cumprimento de pena já foram analisados na anterior impetração do HC n. 532.742/SP.
+2. Verificada a reiteração de pedidos e não tendo o recorrente trazido qualquer fato capaz de dar ensejo a nova análise por este Tribunal das questões deduzidas, conclui-se, portanto, pela inadmissibilidade do presente recurso.
+3. Agravo regimental desprovido."
+(AgRg no AREsp 1662272/SP, Rel. Ministro JORGE MUSSI, QUINTA TURMA, julgado em 19/05/2020, DJe 29/05/2020).
+Ante o exposto julgo prejudicado o agravo regimental no em recurso especial.
+Publique-se. Intimem-se.
+ EMENTA
