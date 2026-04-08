@@ -1,0 +1,15 @@
+DECISÃO
+ALDOMIR ROSKAMP alega ser vítima de coação ilegal em decorrência de acórdão proferido pelo Tribunal de Justiça do Estado de Santa Catarina na Apelação Criminal n. 0900052-20.2019.8.24.0047.
+A defesa pleiteia, por meio deste writ, a reforma do acórdão impetrado, com a declaração de extinção da punibilidade em razão da ocorrência da prescrição retroativa.
+Ausente pedido liminar, o Ministério Público Federal, em parecer do Subprocurador-Geral da República Mario Ferreira Leite, opinou pelo não conhecimento do writ (fls. 477-480).
+Decido.
+No caso, a defesa se insurge contra acórdão proferido no julgamento da apelação criminal pelo Tribunal de Justiça do Estado de Santa Catarina.
+No entanto, de acordo com informações constantes no site desta Corte Superior, contra o acórdão da apelação, a defesa também interpôs, em 30/7/2025, recu rso especial, que, inadmitido, ensejou a interposição de agravo ao STJ (AREsp n. 3.114.063/SC). Ainda, em pesquisa ao sistema eletrônico desta Corte Superior, verifica-se que o referido agravo foi encaminhado ao Ministério Público para parecer em 21/1º/2026 .
+Diante de tal cenário, constata-se a impossibilidade de conhecimento deste mandamus, por violação do princípio da unirrecorribilidade, visto que já foi interposto o recurso cabível.
+Com efeito, em diversas ocasiões, este Superior Tribunal reconheceu a impossibilidade de uso do habeas corpus concomitante à interposição de recurso especial ou em substituição à revisão criminal. A crescente quantidade de impetrações que, antes, deveriam ser examinadas em instâncias diversas, compromete as funções constitucionais desta Corte Superior, em detrimento da eficácia do recurso especial, o que prejudica a delimitação de teses para trazer uniformidade e previsibilidade ao sistema jurídico.
+Conforme tem decidido esta Corte, " o  ajuizamento simultâneo do writ com interposição de recurso próprio contra o mesmo ato judicial, tal como no caso dos autos, trata-se de indevida subversão do sistema recursal e de violação do princípio da unirrecorribilidade. Cabe à parte optar pelo caminho que lhe seja mais favorável, arcando com as consequências de sua escolha" (AgRg no HC n. 589.923/SP, Rel. Ministro Sebastião Reis Júnior, 6ª T., DJe 1º /4/2022).
+Ainda: "não bastasse o entendimento pacificamente adotado por esta Corte Superior, no sentido da inviabilidade de uso do remédio constitucional em substituição a recurso previsto em lei, na hipótese em exame o habeas corpus fora impetrado em paralelo ao recurso especial interposto contra o acórdão proferido pela instância ordinária, em evidente violação ao princípio da unirrecorribilidade" (AgRg no HC n. 863.824/RJ, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 12/8/2024, DJe de 15/8/2024).
+Na mesma direção: "não se admite a tramitação simultânea de recursos (ou ações autônomas de impugnação) e de habeas corpus manejados contra o mesmo ato, sob pena de violação do princípio da unirrecorribilidade" (AgRg no HC n. 826.186/SP, Rel. Ministra Laurita Vaz, 6ª T., DJe 21/8/2023).
+À vista do exposto, não conheço do habeas corpus.
+Publique-se e intimem-se.
+EMENTA
