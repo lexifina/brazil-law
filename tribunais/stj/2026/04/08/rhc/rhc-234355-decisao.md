@@ -1,0 +1,74 @@
+DECISÃO
+Trata-se de recurso ordinário em habeas corpus interposto por PAULO ROBERTO ARAUJO CRUZ contra acórdão do Tribunal de Justiça do Estado do Pará.
+Consoante se extrai dos autos, o recorrente teve a prisão em flagrante convertida em preventiva, pela suposta suposta prática do delito tipificado no art. 33 da Lei n. 11.343/06 (tráfico de drogas).
+Inconformada, a defesa impetrou habeas corpus no Tribunal de origem, tendo sido a ordem denegada, por meio de acórdão assim ementado:
+"PROCESSO PENAL. HABEAS CORPUS. TRÁFICO DE DROGAS. NULIDADE DO FLAGRANTE. VIOLAÇÃO DE DOMICÍLIO. PROVA ILÍCITA. INOCORRÊNCIA. NECESSIDADE DE DILAÇÃO PROBATÓRIA. PRISÃO PREVENTIVA. FUNDAMENTAÇÃO IDÔNEA. QUANTIDADE E NATUREZA DA DROGA. MEDIDAS CAUTELARES DIVERSAS. INSUFICIÊNCIA. ORDEM CONHECIDA E DENEGADA. DECISÃO UNÂNIME.
+I. CASO EM EXAME
+1. Habeas corpus, com pedido de liminar, impetrado contra decisão do d. Juízo da Vara de Garantias da Região Metropolitana de Belém/PA, que manteve a prisão em flagrante, posteriormente convertida em preventiva pela suposta prática do crime previsto no art. 33 da Lei nº 11.343/2006.
+A defesa alega nulidade do flagrante por obtenção ilícita da prova, em razão de ingresso domiciliar sem mandado judicial e sem consentimento válido, e requer a concessão de liberdade provisória com aplicação de medidas cautelares diversas da prisão.
+II. QUESTÕES EM DISCUSSÃO
+2. Há duas questões em discussão: (i) saber se houve nulidade do flagrante por violação de domicílio e ilicitude da prova; (ii) saber se estão presentes os requisitos da prisão preventiva ou se é cabível a substituição por medidas cautelares diversas.
+III. RAZÕES DE DECIDIR
+3. A Constituição Federal admite o ingresso em domicílio, sem mandado judicial, em caso de flagrante delito (CF/1988, art. 5º, XI). In casu, os elementos informativos indicam que a diligência decorreu de denúncia específica acerca da comercialização de entorpecentes. Consta que, ao chegar ao local, o investigado tentou evadir-se e, após abordagem, houve autorização para ingresso no imóvel, onde foram apreendidas substâncias entorpecentes. O Supremo Tribunal Federal reconhece a validade do ingresso domiciliar quando presentes fundadas razões, devidamente justificadas (STF, RE 1492256 AgR- EDv-AgR, Rel. Min. Edson Fachin, Rel. p/ Acórdão Min. Alexandre de Moraes, Tribunal Pleno, j. 17/02/2025).
+4. A análise aprofundada acerca da existência de justa causa para o ingresso no domicílio ou da validade do consentimento demanda revolvimento fático- probatório. Tal providência é incompatível com a via estreita do habeas corpus, que exige prova pré-constituída. Precedentes afastam o reconhecimento de nulidade quando a controvérsia depende de dilação probatória (STJ, RCD no HC 865883/RS, Rel. Min. Daniela Teixeira, Quinta Turma, j. 04/11/2024; TJMT, HC 1037824-22.2025.8.11.0000, Rel. Des. Lidio Modesto da Silva Filho, Quarta Câmara Criminal, j. 13/12/2025).
+5. A prisão preventiva encontra fundamento no art. 312 do CPP. A decisão apontou elementos concretos, inclusive a quantidade e a natureza da droga apreendida, que evidenciam a gravidade concreta da conduta e o risco à ordem pública. A jurisprudência do Superior Tribunal de Justiça admite a utilização da quantidade de entorpecente como fundamento idôneo para a custódia cautelar. Precedente: STJ, AgRg no HC 1034383/SP, Rel. Min. Rogerio Schietti Cruz, Sexta Turma, j. 29/10/2025.
+6. As condições pessoais favoráveis não impedem a manutenção da prisão quando presentes os requisitos legais. Precedente: STJ, AgRg no RHC 221902/GO, Rel. Min. Reynaldo Soares da Fonseca, Quinta Turma, j.
+29/10/2025.
+7. Mostram-se inadequadas e insuficientes as medidas cautelares diversas da prisão previstas no art. 319 do CPP, diante das circunstâncias concretas do caso.
+IV. DISPOSITIVO 8. Ordem conhecida e denegada." (e-STJ, fls. 115-116).
+Nesta Corte, a defesa sustenta nulidade do flagrante por ilicitude da prova, em razão de entrada domiciliar sem mandado, sem fundamentos e sem comprovação inequívoca de consentimento do morador, baseada apenas em denúncia de transeunte não identificado e suposta tentativa de fuga, sem diligências prévias.
+Alega que a ausência de razões concretas que caracterizassem flagrante delito viciou a prisão e, por consequência, contaminou toda a prova destinada à eventual ação penal.
+Afirma que a controvérsia dispensa dilação probatória porque o próprio relato policial evidenciou a irregularidade.
+Requer o conhecimento e provimento do recurso ordinário em habeas corpus para reconhecer a nulidade do flagrante por prova ilícita e determinar o trancamento da ação penal (e-STJ, fls. 128-137).
+O Ministério Público Federal manifestou-se às fls. 204-207 (e-STJ).
+É o relatório.
+A Constituição da República, no art. 5º, inciso XI, estabelece que "a casa é asilo inviolável do indivíduo, ninguém nela podendo penetrar sem consentimento do morador, salvo em caso de flagrante delito ou desastre, ou para prestar socorro, ou, durante o dia, por determinação judicial."
+Como se vê, as hipóteses de inviolabilidade do domicílio serão excepcionadas quando: (i) houver autorização judicial; (ii) flagrante delito ou (iii) haja consentimento do morador.
+Ao interpretar parte da referida norma, o Plenário do Supremo Tribunal Federal, no julgamento do RE 603.616/RO, esclareceu que "a entrada forçada em domicílio sem mandado judicial só é lícita, mesmo em período noturno, quando amparada em fundadas razões, devidamente justificadas a posteriori, que indiquem que dentro da casa ocorre situação de flagrante delito, sob pena de responsabilidade disciplinar, civil e penal do agente ou da autoridade e de nulidade dos atos praticados" (Rel. Ministro GILMAR MENDES, julgado em 05/11/2015). Ou seja, as buscas domiciliares sem autorização judicial dependem, para sua validade e regularidade, da existência de fundadas razões de que naquela localidade esteja ocorrendo um delito.
+A corroborar esse entendimento:
+"DIREITO PROCESSUAL PENAL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. TRÁFICO DE DROGAS. INVASÃO DE DOMICÍLIO. FUNDADAS RAZÕES. AGRAVO DESPROVIDO.
+I. Caso em exame
+1. Agravo regimental interposto contra decisão que negou provimento ao recurso especial, mantendo a validade de ingresso policial em domicílio sem mandado judicial, em razão de tentativa de fuga do réu e denúncias anônimas indicando prática de tráfico de drogas.
+2. Fato relevante. O réu tentou evadir-se ao perceber a chegada dos policiais, pulando pelos telhados das casas vizinhas, sendo posteriormente contido. Denúncias anônimas indicavam a prática de tráfico de drogas e outros crimes.
+3. Decisão anterior. A decisão agravada considerou legítimo o ingresso policial no domicílio, com fundadas razões, conforme entendimento consolidado na jurisprudência.
+II. Questão em discussão
+4. A questão em discussão consiste em saber se o ingresso policial em domicílio sem mandado judicial, fundamentado em tentativa de fuga do réu e denúncias anônimas, configura violação ao direito constitucional à inviolabilidade do domicílio.
+III. Razões de decidir
+5. A tentativa de fuga do réu e as denúncias anônimas indicando prática de tráfico de drogas configuram fundadas razões para o ingresso policial no domicílio, conforme previsto no art. 240, § 1º, do CPP.
+6. A jurisprudência do STF exige que as razões para o ingresso em domicílio sejam prévias e fundadas, não podendo se basear em mera suspeita subjetiva ou em elementos obtidos após a diligência.
+7. No caso concreto, as circunstâncias fáticas anteriores ao ingresso policial legitimaram a ação, não havendo ilegalidade na entrada dos policiais na residência do réu.
+IV. Dispositivo e tese
+8. Resultado do Julgamento: Agravo desprovido.
+Tese de julgamento:
+1. O ingresso policial em domicílio sem mandado judicial é legítimo quando fundamentado em fundadas razões, previamente conhecidas, que indiquem flagrante delito.
+2. A tentativa de fuga do réu, aliada a denúncias anônimas corroboradas por elementos concretos, pode configurar fundadas razões para ingresso em domicílio.
+Dispositivos relevantes citados: CF/1988, art. 5º, XI.
+Jurisprudência relevante citada: STF, RE n. 1.474.190/RJ, relator Ministro André Mendonça, julgado em 16/4/2024; STF, RE n. 1.447.066 AgR, relator Ministro Dias Toffoli, Segunda Turma, julgado em 9/10/2023.
+(AgRg no REsp n. 2.202.298/PR, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 29/10/2025, DJEN de 5/11/2025.)
+"AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. TRÁFICO DE DROGAS. VIOLAÇÃO DE DOMICÍLIO. NÃO OCORRÊNCIA. TEMA N. 280 DO STF. FUNDADAS RAZÕES. FUGA DE SUSPEITO E ODOR DE ENTORPECENTES. JUSTA CAUSA EVIDENCIADA. INGRESSO FRANQUEADO PELO PROPRIETÁRIO DO IMÓVEL. AGRAVO REGIMENTAL PROVIDO. RECURSO ESPECIAL NÃO PROVIDO.
+1. Conforme o Tema n. 280 do STF, o ingresso forçado em domicílio sem mandado judicial é lícito quando amparado em fundadas razões, devidamente justificadas a posteriori, que indiquem a ocorrência de situação de flagrante delito.
+2. No caso, a justa causa para a medida extrema não se baseou apenas em denúncia anônima, mas em elementos concretos aferidos pelos agentes estatais antes da invasão, consubstanciados na visualização de indivíduo empreendendo fuga pelos fundos da residência ao notar a presença policial e na percepção de forte odor de maconha exalando do imóvel.
+3. O Supremo Tribunal Federal, no julgamento do RE 1.447.045/SP (Rel. Min. Alexandre de Moraes), assentou que o Poder Judiciário não pode impor ao Executivo obrigações administrativas não previstas na Constituição, como a exigência de documentação escrita ou gravação audiovisual para validar o consentimento do morador, sob pena de violação do princípio da separação dos poderes.
+4. A autorização para ingresso no lote franqueada pelo proprietário do imóvel, somada ao contexto fático de flagrância visual e olfativa, legitima a atuação policial.
+5. Agravo regimental provido."
+(AgRg no AgRg no AREsp n. 2.934.140/MG, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 3/3/2026, DJEN de 11/3/2026.)
+No tocante à validade das provas utilizadas para decretar e manter a prisão preventiva do recorrente, colhe-se, por pertinente, os seguintes trechos da decisão de primeiro grau e do aresto recorrido, respectivamente:
+"Consta nos autos que, no dia 02/12/2025, uma guarnição policial realizava patrulhamento de rotina no bairro do Cafezal, quando foi abordada por um transeunte não identificado, que solicitou sigilo para efetuar uma denúncia anônima. O denunciante informou a existência de um suposto laboratório de drogas em uma casa de alvenaria de cor rosa, situada na Rua Beira Mar, nas proximidades do antigo porto do Cafezal.
+Diante das informações recebidas, foi imediatamente planejada e executada uma operação policial, contando com o reforço de outras viaturas. Ao chegarem ao endereço indicado, as guarnições promoveram o cerco ao imóvel. Nesse momento, foi avistado o nacional Paulo Roberto Araújo Cruz, que, ao perceber a presença policial, tentou evadir-se do local exclamando "PERDI, PERDI, PERDI".
+Após solicitada e obtida a devida autorização para ingresso no domicílio, os policiais procederam a uma minuciosa busca no interior da residência. A diligência confirmou a veracidade da denúncia, sendo encontrado um conjunto de objetos destinados ao preparo e à distribuição de entorpecentes.
+O material ilícito, consistente em 280 porções pequenas e uma porção maior de substância análoga ao "oxi", estava acondicionado dentro de um balde de manteiga na cozinha. Foram também apreendidos instrumentos claramente relacionados ao acondicionamento e fracionamento de drogas, isto é, quatro carretéis de linha, três facas, uma colher e uma quantidade significativa de saquinhos plásticos. Durante a abordagem, o indiciado tentou desfazer-se de um aparelho celular da marca Samsung, na cor branca perolada.
+O Laudo de Constatação Provisório analisou o material, que atestou positivo para 499,0 g (quatrocentos e noventa e nove gramas) da substância entorpecente vulgarmente conhecido como "oxi".
+Em face da descoberta, o investigado tentou subornar os policiais presentes, oferecendo a quantia de R$ 5.000,00 (cinco mil reais) como contraprestação por sua liberação, o que não foi aceito. Diante da materialidade delitiva flagrante e da conduta do agente, foi-lhe dada voz de prisão em flagrante delito, sendo ele então conduzido à delegacia de polícia para as providências legais cabíveis." (e-STJ, fls. 88-90).
+"A principal tese defensiva levantada pelos impetrantes reside na alegação de ilicitude das provas colhidas, sob o argumento de que a entrada dos policiais militares na residência do paciente se deu sem mandado judicial e sem a configuração de justa causa ou consentimento válido, resultando em afronta ao direito constitucional de inviolabilidade do domicílio.
+A priori não identifico nenhuma ilegalidade no flagrante que originou a prisão do ora paciente, sobretudo porque, em análise dos depoimentos extrajudiciais, verifico que os policiais militares receberam uma denúncia, sendo especificado o local da comercialização do entorpecente, e ao chegarem ao imóvel o paciente tentou evadir-se, sendo abordado, ocasião em que os agentes solicitaram autorização para ingressar na residência e acharam os entorpecentes em questão. (RE 1492256 AgR-EDv-AgR, Relator(a): EDSON FACHIN, Relator(a) p/ Acórdão: ALEXANDRE DE MORAES, Tribunal Pleno, julgado em 17-02-2025, PROCESSO ELETRÔNICO DJe-s/n DIVULG 05-03-2025 PUBLIC 06-03-2025).
+Outrossim, destaco que a discussão sobre as circunstâncias do flagrante (justa causa), ou se houve consentimento válido do morador, demandaria revolvimento fático-probatório, providência inviável na via sumaríssima do habeas corpus, impondo o necessário deslocamento da matéria para a instrução criminal.
+Para corroborar:
+(..)
+No que tange à prisão preventiva do paciente, a motivação do ato impugnado baseada, inclusive, na quantidade e natureza da droga, mostra-se de acordo com o artigo 312, §3º, inciso III do CPP, revelando tal constrangimento com base na legalidade.
+Nesse sentido:
+(..)
+Por fim, destaco que as condições pessoais favoráveis, tais como primariedade e bons antecedentes, não têm o condão de afastar a prisão cautelar quando presentes os requisitos legais (AgRg no RHC n. 221.902/GO, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 29/10/2025, DJEN de 5/11/2025.), como in casu." (e-STJ, fls. 120-121).
+No caso, como se vê, a fundamentação utilizada pelas instâncias ordinárias está em sintonia com o entendimento deste Superior Tribunal de Justiça, uma vez que a denúncia anônima recebida, aliada à tentativa de fuga do agente ao avistar a chegada das viaturas, constitui fundamento idôneo para justificar o ingresso dos policiais no domicílio.
+Ante o exposto, nego provimento ao recurso ordinário em habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
