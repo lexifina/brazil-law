@@ -1,0 +1,218 @@
+Poder Judiciário
+Justiça do Trabalho
+Tribunal Superior do Trabalho
+PROCESSO Nº TST-EDCiv-Ag-AIRR - 214-47.2019.5.05.0038
+A C Ó R D Ã O
+1ª Turma
+GMARPJ/fpa/MARPJ
+EMBARGOS DE DECLARAÇÃO. ERRO MATERIAL. PROVIMENTO.
+EXISTÊNCIA DE OUTRO ÓBICE PROCESSUAL A IMPEDIR O
+CONHECIMENTO DO RECURSO.
+1. Dá-se provimento aos embargos de declaração para corrigir
+erro material e afastar o óbice da irregularidade de
+representação.
+2. Mantém-se a conclusão pelo não conhecimento do agravo,
+agora, por ausência de dialeticidade, na medida em que não
+impugnado o óbice da Súmula 126 do TST, erigida pelo Tribunal
+Regional e confirmada na decisão monocrática que se pretendeu
+impugnar.
+Embargos declaratórios providos, porém, sem efeito
+modificativo.
+Vistos, relatados e discutidos estes autos de Embargos de Declaração Cível em
+Agravo em Agravo de Instrumento em Recurso de Revista nº TST-EDCiv-Ag-AIRR - 214-
+47.2019.5.05.0038, em que é Embargante OTIMA TRANSPORTES DE SALVADOR SPE S/A e são
+Embargados GILMAR DA SILVA PASSOS e TRANSPORTES SOL S.A.
+Trata-se de embargos de declaração opostos pela ré OTIMA TRANSPORTES DE
+SALVADOR SPE S/A contra o acórdão desta Primeira Turma por meio do qual foi negado provimento ao
+seu agravo.
+Foram apresentadas contrarrazões pela parte autora.
+É o relatório.
+V O T O
+1. CONHECIMENTO
+Satisfeitos os pressupostos genéricos de admissibilidade pertinentes à
+tempestividade e à representação processual, CONHEÇO dos embargos de declaração.
+2. MÉRITO
+Contra acórdão que negou provimento ao seu agravo, a ré OTIMA TRANSPORTES
+DE SALVADOR SPE S/A opõe embargos de declaração, alegando erro material, pois seu recurso foi
+subscrito por advogado que detém poderes para representá-lo, havendo confusão com o advogado do
+outro réu.
+Tem razão.
+O recurso de revista que teve seu seguimento negado por irregularidade de
+representação foi o interposto pela ré TRANSPORTES SOL S.A., o qual não teve seu agravo conhecido por
+falta de dialeticidade.
+Já a agora embargante, OTIMA TRANSPORTES DE SALVADOR SPE S/A está
+regularmente representada.
+Ainda assim, seu agravo não merece prosperar, por fundamento diverso.
+É que o recurso de revista da embargante teve seu seguimento negado por
+invocação dos óbices das Súmulas 333 e 126 do TST, fundamentos estes integralmente confirmados por
+Este documento pode ser acessado no endereço eletrônico http://www.tst.jus.br/validador sob código 10066EB1EE2902FB56.
+decisão monocrática.
+O agravante, entretanto, apenas sustenta que o recurso de revista cumpre os
+requisitos de admissibilidade recursal. Combate o óbice erigido pelo juízo de prelibação quanto à
+aplicação da Súmula n. 333 do TST, porém, deixa de impugnar especificamente o óbice da Súmula 126
+do TST.
+A ausência de combate específico às razões da decisão agravada não atende o
+comando inserto no art. 1.021, § 1º, do CPC, o qual preconiza, verbis:
+Art. 1.021. Contra decisão proferida pelo relator caberá agravo interno para o respectivo órgão
+colegiado, observadas, quanto ao processamento, as regras do regimento interno do tribunal.
+§ 1º Na petição de agravo interno, o recorrente impugnará especificadamente os fundamentos
+da decisão agravada.
+A ausência de combate específico às razões da decisão agravada não atende o
+comando inserto no art. 1.021, § 1º, do CPC, o qual preconiza, verbis:
+Art. 1.021. Contra decisão proferida pelo relator caberá agravo interno para o respectivo órgão
+colegiado, observadas, quanto ao processamento, as regras do regimento interno do tribunal.
+§ 1º Na petição de agravo interno, o recorrente impugnará especificadamente os fundamentos
+da decisão agravada.
+Assim, a par do não atendimento do disposto no art. 1.021, § 1º, do CPC, não
+tendo sido observado o pressuposto de regularidade formal inerente aos recursos de fundamentação
+vinculada, incide o óbice da Súmula n. 422, I, do TST, verbis:
+RECURSO. FUNDAMENTO AUSENTE OU DEFICIENTE. NÃO CONHECIMENTO (redação alterada,
+com inserção dos itens I, II e III) - Res. 199/2015, DEJT divulgado em 24, 25 e 26.06.2015. Com errata
+publicado no DEJT divulgado em 01.07.2015.
+I - Não se conhece de recurso para o Tribunal Superior do Trabalho se as razões do recorrente
+não impugnam os fundamentos da decisão recorrida, nos termos em que proferida.
+Nesse sentido, precedente desta 1ª Turma:
+AGRAVO. AGRAVO DE INSTRUMENTO EM RECURSO DE REVISTA. AUSÊNCIA DE IMPUGNAÇÃO DOS
+FUNDAMENTOS DA DECISÃO RECORRIDA. SÚMULA Nº 422, I, DO TST. 1. Não se conhece de recurso
+para o Tribunal Superior do Trabalho se as razões da parte recorrente não impugnam os
+fundamentos da decisão recorrida, nos termos em que proferida (princípio da dialeticidade). 2. Na
+hipótese, a agravante não impugnou, de forma específica e fundamentada, o óbice erigido pela Corte
+Regional e confirmado pela decisão monocrática, por meio da técnica per relationem, referente à
+consonância do acórdão recorrido com a jurisprudência desta Corte Superior – art. 896, § 7º, da CLT e
+Súmula nº 333 do TST. 3. Assim, não foi atendido o comando inserto no art. 1.021, § 1º, do CPC e na
+Súmula nº 422, I, do TST, tornando deficiente a fundamentação do presente agravo. Agravo de que
+não se conhece (Ag-AIRR 0000794-42.2022.5.10.0003, 1ª Turma, Relator Ministro Amaury Rodrigues
+Pinto Junior, DEJT 07/11/2024).
+Ressalte-se que é pacífica a jurisprudência dos Tribunais Superiores (STF, STJ e
+TST), no exame de recursos de fundamentação vinculada, no sentido de que o recurso que se encontra
+deficiente de fundamentação não reúne condições de ser admitido, sendo defeso ao Relator suprir
+deficiência na fundamentação do recurso, cuja responsabilidade é inteiramente da parte recorrente
+(Súmula 284 do STF).
+Assinale-se que, tratando-se de recurso de natureza extraordinária, o não
+atendimento aos requisitos de admissibilidade impede o exame do mérito da controvérsia.
+Assim, DOU PROVIMENTO aos embargos de declaração para corrigir erro
+material quanto à regularidade de representação da agravante, porém, mantém-se a conclusão pelo
+não conhecimento do agravo, agora por falta de dialeticidade.
+ISTO POSTO
+ACORDAM os Ministros da Primeira Turma do Tribunal Superior do Trabalho, por
+unanimidade, conhecer dos embargos de declaração e, no mérito, dar-lhes provimento para corrigir
+erro material quanto à regularidade de representação da agravante, porém, mantém-se a conclusão
+pelo não conhecimento do agravo, agora por falta de dialeticidade.
+Brasília, 8 de abril de 2026.
+Firmado por assinatura digital (MP 2.200-2/2001)
+AMAURY RODRIGUES PINTO JUNIOR
+Ministro Relator
+Este documento pode ser acessado no endereço eletrônico http://www.tst.jus.br/validador sob código 10066EB1EE2902FB56.
+Fir
+m
+a
+d
+o
+p
+o
+r
+a
+s
+sin
+a
+t
+u
+r
+a
+digit
+al e
+m
+1
+3
+/
+0
+4
+/
+2
+0
+2
+6
+p
+elo
+sis
+t
+e
+m
+a
+A
+s
+sin
+eJ
+u
+s
+d
+a
+J
+u
+s
+tiç
+a
+d
+o
+T
+r
+a
+b
+alh
+o, c
+o
+n
+f
+o
+r
+m
+e
+M
+P
+2.2
+0
+0
+-
+2
+/
+2
+0
+0
+1, q
+u
+e in
+s
+tit
+uiu
+a In
+f
+r
+a
+-
+E
+s
+t
+r
+u
+t
+u
+r
+a
+d
+e
+C
+h
+a
+v
+e
+s
+P
+ú
+blic
+a
+s
+B
+r
+a
+sileir
+a. Este documento pode ser acessado no endereço eletrônico http://www.tst.jus.br/validador sob código 10066EB1EE2902FB56.
