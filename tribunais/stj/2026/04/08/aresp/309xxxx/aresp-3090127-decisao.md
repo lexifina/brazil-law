@@ -1,0 +1,20 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por FRANCISCO LEONARDO PINHEIRO DA SILVA contra a decisão do Tribunal de Justiça do Estado do Maranhão que inadmitiu recurso especial, apresentado contra o acórdão proferido no julgamento do Recurso em Sentido Estrito n. 0803835-80.2023.8.10.0105 (fls. 683/730).
+O Ministério Público Federal apresentou parecer opinando pelo não conhecimento do agravo em recurso especial (fls. 855/857).
+É o relatório.
+O agravo é inadmissível.
+Inicialmente, esclareço que a decisão que inadmite o recurso especial na origem não é formada por capítulos autônomos, mas por um único dispositivo, razão pela qual deve ser impugnada na sua integralidade, ou seja, em todos os seus fundamentos, inclusive de forma específica, suficiente e pormenorizada, não sendo suficientes meras alegações genéricas ou relativas ao mérito da controvérsia, sob pena de incidência do óbice da Súmula n. 182/STJ (AgRg nos EDcl no AREsp n. 2.985.942/MA, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 16/9/2025, DJEN de 25/9/2025).
+Ao que se observa, o Tribunal de origem inadmitiu o apelo nobre pelos seguintes fundamentos:
+- violação do art. 414 do CPP: decisão de pronúncia não exige juízo de certeza, bastando prova da materialidade e indícios de autoria - Súmula 83/STJ;
+- ofensa aos arts. 155 e 413 do CPP: materialidade e autoria estão embasadas na existência de laudo pericial, vídeos, depoimentos e outras provas - Súmula 83/STJ;
+- inexistência de excesso de linguagem na decisão de pronúncia, em consonância com a jurisprudência do Superior Tribunal de Justiça (Súmula 83/STJ).
+Todavia, a parte agravante, nas razões do agravo em recurso especial, não cuidou de trazer julgado contemporâneo ao provimento judicial agravado e prolatado em moldura fática análoga, de forma a atestar que o acórdão recorrido não estaria em harmonia com a atual jurisprudência do Superior Tribunal de Justiça.
+Ademais, não comprovou que os precedentes apontados na decisão agravada seriam inaplicáveis à hipótese dos autos. A orientação sedimentada é de que cabe ao agravante, nas razões do agravo, demonstrar que a orientação jurisprudencial desta Corte Superior é diversa daquela referida na decisão agravada ou que a situação retratada nos autos possui uma peculiaridade que a distingue dos precedentes invocados.
+Com efeito, a parte agravante limitou-se a repetir o mérito do recurso especial (insuficiência de indícios, uso de elementos inquisitoriais e hearsay testimony) sem demonstrar a inaplicabilidade dos precedentes indicados na decisão agravada ou colacionar precedentes contemporâneos/supervenientes capazes de afastar a súmula, como exige a orientação desta Corte, incorrendo, portanto, em deficiência de impugnação específica;
+Quanto ao fundamento de inexistência de excesso de linguagem, a decisão agravada ancorou-se em precedente da Sexta Turma, e o agravo não enfrentou tal ponto de modo direto e pormenorizado, restringindo-se a reproduzir a tese genérica de nulidade por excesso de linguagem, sem refutar o precedente indicado pela Vice-Presidência. Nessas condições, não se desobrigou do ônus de comprovar a incorreção do decisum que não admitiu o apelo nobre.
+Tal o contexto, verifico que deixou de ser observada a dialeticidade recursal (art. 932, inciso III, do CPC, c/c o art. 3º do CPP). Por conseguinte, o agravo em recurso especial carece do indispensável pressuposto de admissibilidade atinente à impugnação adequada e concreta de todos os fundamentos empregados pela Corte a quo para não admitir o recurso especial, a atrair a incidência da Súmula 182/STJ.
+Ante o exposto, não conheço do agravo em recurso especial (arts. 932, III, do CPC/2015, e 253, parágrafo único, I, do RISTJ).
+Publique-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. PENAL. PROCESSUAL PENAL. IMPUGNAÇÃO DEFICIENTE. INOBSERVÂNCIA DO COMANDO LEGAL INSERTO NOS ARTS. 932, III, DO CPC/2015, E 253, PARÁGRAFO ÚNICO, I, DO RISTJ. SÚMULA 182/STJ.
+Agravo em recurso especial não conhecido.
