@@ -1,0 +1,50 @@
+DECISÃO
+Trata-se de agravo contra a decisão que inadmitiu o recurso especial interposto pelo MINISTERIO PÚBLICO DO ESTADO DE MATO GROSSO com fundamento na alínea "a" do permissivo constitucional, em oposição a acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE MATO GROSSO, assim ementado (e-STJ, fls. 2.467 - 2.476):
+"DIREITO PENAL E PROCESSUAL PENAL. RECURSO EM SENTIDO ESTRITO. LESÃO CORPORAL MAJORADA, INJÚRIA, AMEAÇA, RESISTÊNCIA E DESACATO. RECURSO DO MINISTÉRIO PÚBLICO. PRETENDIDA A PRISÃO PREVENTIVA. LIBERDADE PROVISÓRIA CONCEDIDA COM MEDIDAS CAUTELARES DIVERSAS. SUFICIÊNCIA DAS MEDIDAS IMPOSTAS. AUSÊNCIA DE DESCUMPRIMENTO. TRANSCURSO DE CINCO MESES SEM REITERAÇÃO DELITIVA. PRISÃO PREVENTIVA COMO ULTIMA RATIO. RECURSO DESPROVIDO.
+I. CASO EM EXAME
+1. Recurso em sentido estrito interposto pelo Ministério Público de Mato Grosso contra decisão que concedeu liberdade provisória, mediante imposição de medidas cautelares diversas da prisão, aos custodiados pela prática, em tese, dos crimes de lesão corporal majorada (CP, art. 129, §12º, I), injúria (CP, art. 140, caput), ameaça (CP, art. 147), resistência (CP, art. 329) e desacato (CP, art. 331).
+2. Fatos relevantes: (i) prisão em flagrante após tumulto generalizado em estabelecimento comercial; (ii) recorridos em visível estado de embriaguez e sinais de uso de entorpecentes; (iii) agressões físicas contra policiais militares durante a intervenção; (iv) subtração de bastão policial por um dos custodiados; (v) disparo de arma de fogo efetuado por policial para conter as agressões; (vi) juízo de primeiro grau que concedeu liberdade provisória com imposição de dez medidas cautelares diversas; (vii) histórico criminal dos recorridos com condenações transitadas em julgado por crimes diversos; transcurso de aproximadamente cinco meses desde a concessão da liberdade provisória sem notícia de descumprimento das medidas cautelares; (ix) ausência de denúncia oferecida até a data do julgamento do recurso.
+3. Requerimentos do recurso: (i) decretação da prisão preventiva dos recorridos em substituição à liberdade provisória; (ii) alegação de insuficiência das medidas cautelares diversas diante da gravidade concreta das condutas e periculosidade dos agentes; (iii) necessidade de resguardo da ordem pública e conveniência da instrução processual.
+II. QUESTÃO EM DISCUSSÃO
+4. A questão em discussão consiste em verificar se as medidas cautelares diversas da prisão impostas pelo juízo de primeiro grau são suficientes para garantir a ordem pública e a conveniência da instrução processual, ou se é necessária a decretação da prisão preventiva dos recorridos.
+III. RAZÕES DE DECIDIR
+5. A prisão preventiva é medida extrema de ultima ratio, que somente se legitima quando as medidas cautelares alternativas se revelarem insuficientes para resguardar a ordem pública, assegurar o regular andamento da persecução penal ou evitar o risco de fuga.
+6. As medidas cautelares diversas da prisão mostram-se suficientes quando não há notícia de descumprimento das condições impostas nem de reiteração criminosa, indicando sua eficácia e reforçando a desnecessidade da prisão preventiva.
+7. O transcurso de meses desde a imposição das medidas cautelares, sem registro de descumprimento ou envolvimento com novos delitos, corrobora a adequação das providências acautelatórias e a desnecessidade da medida extrema.
+8. A restrição corporal cautelar reclama elementos motivadores extraídos do caso concreto que justifiquem sua imprescindibilidade, sendo insuficiente a mera alusão à gravidade abstrata do crime ou à existência de condenações anteriores.
+IV. DISPOSITIVO
+9. Recurso desprovido.
+________________________________
+Dispositivos relevantes citados: CF, art. 5º, LXI e LVII; CPP, arts. 282, §6º, 312 e 319; CP, arts. 129, §12º, I, 140, caput, 147, 329 e 331.
+Jurisprudência relevante citada: STF, HC 123441, HC 188727 AgR-segundo; TJMT, ApCrim 1001670-33.2025.8.11.0023, ApCrim 1009018-79.2024.8.11.0042."
+Em seu recurso especial, o agravante aponta violação dos arts. 312, 282, § 6º e 319, todos do Código de Processo Penal, argumentando, em síntese, que (i) o acórdão recorrido negou a prisão preventiva dos agravados mesmo diante de quadro concreto de periculosidade e reiteração delitiva; e (ii) as medidas cautelares impostas são inadequadas e insuficientes diante da gravidade do caso e do perfil dos agentes.
+Com contrarrazões (e-STJ, fls. 2.508 - 2.519), o recurso especial foi inadmitido na origem (e-STJ, fls. 2.520 - 2.523), ao que se seguiu a interposição de agravo.
+Remetidos os autos a esta Corte Superior, o MPF manifestou-se pelo conhecimento do agravo para desprover o recurso especial (e-STJ, fls. 2.572 - 2.575).
+É o relatório.
+Decido.
+O recurso não deve ser conhecido.
+A decisão que inadmitiu o recurso especial na origem pautou-se na incidência da Súmula 7/STJ; no agravo, todavia, a parte ora agravante não combateu especificamente o referido fundamento da decisão agravada.
+Afinal, sobre a aplicação da Súmula 7/STJ, a parte agravante trouxe apenas razões genéricas de inconformismo (aduzindo que não seria necessário reexaminar as provas dos autos), o que não satisfaz a exigência de impugnação específica para viabilizar o conhecimento do agravo. Isso porque, para que se considere adequadamente impugnada a Súmula 7/STJ, o agravo precisa empreender um cotejo entre os fatos estabelecidos no acórdão e as teses recursais, mostrando em que medida estas não exigem a alteração do quadro fático delineado pelo Tribunal local. Nesse sentido:
+" ..
+1. Nas razões do agravo em recurso especial, não foram rebatidos, de modo específico e concreto, os fundamentos da decisão agravada relativos à aplicação das Súmulas n. 7 e 83, ambas do Superior Tribunal de Justiça, atraindo, à espécie, a incidência da Súmula n. 182 do Superior Tribunal de Justiça.
+2. No tocante à incidência da Súmula n. 7/STJ, a Agravante limitou-se a sustentar, genericamente, que as pretensões elencadas no apelo nobre envolvem mero debate jurídico, não demandando, assim, reexame de provas, sem explicitar, contudo, à luz da tese recursal trazida no recurso especial, de que maneira a análise não dependeria do reexame de provas. Assim, não houve a observância da dialeticidade recursal, motivo pelo qual careceu de pressuposto de admissibilidade, qual seja, a impugnação efetiva e concreta aos fundamentos utilizados para inadmitir o recurso especial, no caso, a incidência da Súmula n. 7 do Superior Tribunal de Justiça.
+ ..
+6. Agravo regimental desprovido".
+(AgRg no AREsp n. 1.789.363/SP, relator Ministra Laurita Vaz, Sexta Turma, julgado em 2/2/2021, DJe de 17/2/2021.)
+" ..
+1. A falta de impugnação específica dos fundamentos utilizados na decisão ora agravada atrai a incidência do enunciado sumular n. 182 desta Corte Superior. Como tem reiteradamente decidido esta Corte, os recursos devem impugnar, de maneira específica e pormenorizada, os fundamentos da decisão contra a qual se insurgem, sob pena de vê-los mantidos. Não são suficientes meras alegações genéricas ou à insistência no mérito da controvérsia.
+ ..
+11. Agravo regimental não conhecido".
+(AgRg no RHC n. 128.660/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 18/8/2020, DJe de 24/8/2020.)
+Ademais, a Corte Especial do STJ manteve o entendimento da necessidade de impugnação específica de todos os fundamentos da decisão agravada, sob pena de incidência da Súmula 182/STJ. Eis a ementa do aresto paradigma:
+"PROCESSO CIVIL. EMBARGOS DE DIVERGÊNCIA. IMPUGNAÇÃO ESPECÍFICA DE TODOS OS FUNDAMENTOS DA DECISÃO RECORRIDA. ART. 544, § 4º, I, DO CPC/1973. ENTENDIMENTO RENOVADO PELO NOVO CPC, ART. 932.
+1. No tocante à admissibilidade recursal, é possível ao recorrente a eleição dos fundamentos objeto de sua insurgência, nos termos do art. 514, II, c/c o art. 505 do CPC/1973. Tal premissa, contudo, deve ser afastada quando houver expressa e específica disposição legal em sentido contrário, tal como ocorria quanto ao agravo contra decisão denegatória de admissibilidade do recurso especial, tendo em vista o mandamento insculpido no art. 544, § 4º, I, do CPC, no sentido de que pode o relator "não conhecer do agravo manifestamente inadmissível ou que não tenha atacado especificamente os fundamentos da decisão agravada" - o que foi reiterado pelo novel CPC, em seu art. 932.
+2. A decisão que não admite o recurso especial tem como escopo exclusivo a apreciação dos pressupostos de admissibilidade recursal. Seu dispositivo é único, ainda quando a fundamentação permita concluir pela presença de uma ou de várias causas impeditivas do julgamento do mérito recursal, uma vez que registra, de forma unívoca, apenas a inadmissão do recurso. Não há, pois, capítulos autônomos nesta decisão.
+3. A decomposição do provimento judicial em unidades autônomas tem como parâmetro inafastável a sua parte dispositiva, e não a fundamentação como um elemento autônomo em si mesmo, ressoando inequívoco, portanto, que a decisão agravada é incindível e, assim, deve ser impugnada em sua integralidade, nos exatos termos das disposições legais e regimentais.
+4. Outrossim, conquanto não seja questão debatida nos autos, cumpre registrar que o posicionamento ora perfilhado encontra exceção na hipótese prevista no art. 1.042, caput, do CPC/2015, que veda o cabimento do agravo contra decisão do Tribunal a quo que inadmitir o recurso especial, com base na aplicação do entendimento consagrado no julgamento de recurso repetitivo, quando então será cabível apenas o agravo interno na Corte de origem, nos termos do art. 1.030, § 2º, do CPC.
+5. Embargos de divergência não providos".
+(EAREsp n. 746.775/PR, relator Ministro João Otávio de Noronha, relator p/ Acórdão Ministro Luís Felipe Salomão, Corte Especial, julgado em 19/9/2018, DJe de 30/11/2018.)
+Por conseguinte, a Súmula 182/STJ impede que se passe ao mérito do agravo do art. 1.042 do CPC, o qual não supera o juízo de admissibilidade.
+Ante o exposto, não conheço do agravo em recurso especial.
+Publique-se. Intimem-se.
+EMENTA
