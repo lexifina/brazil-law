@@ -1,0 +1,20 @@
+DECISÃO
+Examina-se reclamação ajuizada por EDGLEY DE OLIVEIRA OLIVERI e ADRIANO DE JESUS BATISTA contra decisão proferida pela Turma Recursal do Grupo Jurisdicional de Passos/MG, que lhes condenou "ao pagamento de indenização por danos materiais"(e-STJ fl. 2).
+Na razões, alegam, em síntese, que o STJ tem entendimento firmado no sentido "de que a produção de prova pericial é imprescindível quando a matéria controvertida depende de conhecimento técnico específico, sob pena de cerceamento de defesa" (e-STJ fl. 4), e que a decisão da Turma Recursal, por supostamente desconsiderar esse entendimento, "viola a exigência de prova técnica em matéria complexa, compromete a segurança jurídica e afronta diretamente a orientação consolidada do STJ" (e-STJ fl. 6).
+Assim, requerem "a concessão de medida liminar para suspender os efeitos do acórdão", bem como o julgamento procedente da reclamação "para cassar o acórdão da Turma Recursal, reconhecer a nulidade do processo por cerceamento de defesa e determinar a remessa à Justiça Comum ou a reabertura da instrução com realização de prova pericial" (e-STJ fl. 9).
+RELATADO O PROCESSO, DECIDE-SE.
+Nos termos do art. 105, inciso I, alínea "f", da Constituição Federal, e do art. 988 do CPC, compete ao STJ processar e julgar originariamente a reclamação para a preservação de sua competência ou para a garantia da autoridade de seus julgados apenas quando objetivamente violados.
+Quanto ao cabimento para garantir a autoridade de suas decisões, segundo a jurisprudência do STJ, pressupõe-se, nessa hipótese, a existência de um comando positivo desta Corte cuja eficácia deva ser assegurada e que tenha sido proferida em processo que envolva as mesmas partes ou que possa produzir efeitos em relação jurídica por elas mantida (AgInt na Rcl 38.236/SP, Primeira Seção, DJe 28/10/2019; AgRg na Rcl 33.823/SP, Terceira Seção, DJe 1º/8/2017; AgInt na Rcl 28.688/RJ, Segunda Seção, DJe 29/8/2016).
+Desse modo, consoante a pacífica jurisprudência desta Corte, é incabível o ajuizamento de reclamação com o objetivo de adequar o julgado impugnado à jurisprudência do STJ, mesmo que consolidada em Súmula ou em recurso especial repetitivo (AgInt na Rcl 42.586/SP, Segunda Seção, DJe 17/3/2022; AgInt na Rcl 42.013/PR, Primeira Seção, DJe 3/12/2021; Rcl 36.476/SP, Corte Especial, DJe 6/3/2020).
+No particular, os reclamantes não indicam a existência de ato violador da competência dessa Corte, tampouco apontam violação à decisão proferida pelo STJ em processo no qual figuraram como parte.
+Nesse contexto, verifica-se que a presente reclamação está sendo utilizada como sucedâneo recursal, o que não é admitido (AgInt na Rcl 41.077/SP, Segunda Seção, DJe 2/12/2021; AgInt na Rcl 41.796/RJ, Segunda Seção, DJe 7/12/2021).
+Assim, p or não se enquadrar em qualquer das hipóteses legais de cabimento, impõe-se a extinção da presente reclamação.
+Forte nessas razões, INDEFIRO a petição inicial e, em consequência, JULGO EXTINTA a reclamação, sem exame de mérito, com fundamento no art. 34, XVIII, "a", do RISTJ e 485, I, do CPC.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá ensejar a condenação nas penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. RECLAMAÇÃO. AFRONTA À AUTORIDADE DE DECISÃO DO STJ OU À COMPETÊNCIA DESTA CORTE. AUSÊNCIA. INDEFERIMENTO DA PETIÇÃO INICIAL. EXTINÇÃO DO PROCESSO SEM RESOLUÇÃO DO MÉRITO.
+1. Para que a reclamação constitucional seja admitida, é imprescindível que se caracterize, de modo objetivo, usurpação de competência deste Tribunal ou ofensa direta à decisão aqui proferida, circunstâncias não evidenciadas nos autos.
+2. Consoante a jurisprudência dominante do STJ, é incabível o ajuizamento de reclamação com o objetivo de adequar o julgado impugnado à jurisprudência do STJ, mesmo que consolidada em Súmula ou em recurso especial repetitivo.
+3. É vedada a utilização da reclamação como sucedâneo recursal. Precedentes.
+4. Petição inicial indeferida. Reclamação extinta sem resolução de mérito.
