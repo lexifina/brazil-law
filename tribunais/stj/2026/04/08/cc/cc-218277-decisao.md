@@ -1,0 +1,38 @@
+DECISÃO
+Trata-se de conflito negativo de competência suscitado por FABIO JUNIOR APARECIDO DE OLIVEIRA entre o Juízo de Direito da Vara de Execuções Penais, Medidas Alternativas e Corregedoria dos Presídios de Londrina/PR e o Juízo de Direito da Vara de Execuções Penais de Itajaí/SC.
+Consta dos autos que o suscitante foi condenado definitivamente pelo Juízo da 4ª Vara Criminal da Comarca de Londrina/PR, tendo sido instaurada a respectiva execução penal perante o Juízo da Vara de Execuções Penais daquela comarca.
+No curso da execução, foi expedido mandado de prisão, o qual veio a ser cumprido na Comarca de Itajaí/SC, local em que o sentenciado passou a permanecer custodiado.
+O Juízo de Direito da Vara de Execuções Penais, Medidas Alternativas e Corregedoria dos Presídios de Londrina/PR, em suas razões, deixou de prosseguir na execução penal sob o fundamento de que o sentenciado se encontra recolhido em unidade prisional situada no Estado de Santa Catarina.
+O Juízo de Direito da Vara de Execuções Penais de Itajaí/SC, por seu turno, recusou a assunção da competência, sob o argumento de que, diante da superlotação das unidades prisionais locais, compete ao Estado que expediu a ordem de prisão a fiscalização do cumprimento da pena.
+Sobreveio decisão monocrática deste relator (e-STJ, fls. 247-250), com fundamento no art. 196 do RISTJ, na qual foi designado provisoriamente o Juízo de Direito da Vara de Execuções Penais, Medidas Alternativas e Corregedoria dos Presídios de Londrina/PR para apreciar eventuais medidas urgentes.
+Foram prestadas as informações pelos juízos suscitados (e-STJ, fl. 257 e e-STJ, fls. 268-171).
+Instado a manifestar-se, o Ministério Público Federal opinou pelo conhecimento do conflito para declarar competente o Juízo de Direito da Vara de Execuções Penais de Londrina/PR.
+É o relatório.
+Decido.
+C umpre registrar, inicialmente, que este conflito negativo de competência deve ser conhecido, porquanto se trata de incidente estabelecido entre juízes vinculados a tribunais diversos, nos termos do art. 105, inciso I, alínea d, da Constituição da República, razão pela qual passo ao seu exame.
+A matéria controvertida relaciona-se à definição do juízo competente para o processamento da execução penal instaurada em face do suscitante, considerando que, embora originária do Juízo de Londrina/PR, a execução envolve custodiado em estabelecimento prisional situado na Comarca de Itajaí/SC.
+Nos termos do art. 65 da Lei de Execução Penal, a execução da pena compete ao juízo indicado na lei local de organização judiciária e, na sua ausência, ao da sentença condenatória.
+Na hipótese, verifico que a execução penal foi instaurada perante o Juízo da Vara de Execuções Penais de Londrina/PR, em decorrência de condenação definitiva ali proferida, sendo certo que a custódia do sentenciado em Itajaí/SC decorre exclusivamente do cumprimento de mandado de prisão expedido no âmbito dessa execução.
+Nessa medida, a circunstância de o sentenciado encontrar-se fisicamente recolhido em unidade prisional situada em outra unidade da federação não possui, somente por si, aptidão para deslocar a competência jurisdicional da execução penal.
+A jurisprudência desta Corte Superior é firme no sentido de que o simples cumprimento do mandado de prisão em comarca diversa não constitui fundamento idôneo para a modificação da competência executória, a qual permanece, em regra, com o juízo da condenação, salvo hipótese de transferência regular da execução, precedida de consulta e anuência do juízo destinatário.
+A esse respeito, confiram-se, entre outros, os seguintes precedentes:
+CONFLITO NEGATIVO DE COMPETÊNCIA. EXECUÇÃO PENAL. EXECUTADO QUE CUMPRE PENA EM PRESÍDIO DE LOCALIDADE DIVERSA DO JUÍZO DA ÚNICA PENA REMANESCENTE. COMPETÊNCIA DO JUÍZO DA CONDENAÇÃO. TRANSFERÊNCIA DA EXECUÇÃO APENAS APÓS CONSULTA E CONCORDÂNCIA DO JUÍZO DESTINATÁRIO. PRECEDENTES.
+1. A jurisprudência do Superior Tribunal de Justiça estabelece que a competência para a execução penal é do juízo da condenação, conforme o art. 65 da Lei de Execuções Penais. Precedentes.
+2. A transferência da execução da pena não pode ser determinada unilateralmente, sendo necessária a prévia consulta ao juízo destinatário para verificar a disponibilidade de vagas e condições adequadas no sistema prisional local. Precedentes.
+3. Situação em que o apenado cumpre pena em presídio de São Paulo, mas a única pena remanescente decorre do Poder Judiciário do Estado de Goiás.
+4. O simples fato de o condenado estar preso em comarca diversa não constitui causa legal para deslocamento da competência para a execução da pena. Precedentes.
+5. Conflito conhecido para declarar competente o Juízo da 2ª Vara Criminal de Planaltina - GO (suscitado).
+(CC n. 209.128/SP, relator Ministro Og Fernandes, Terceira Seção, julgado em 5/6/2025, DJEN de 11/6/2025.)
+AGRAVO REGIMENTAL NO CONFLITO DE COMPETÊNCIA. INCIDENTE INSTAURADO ENTRE JUÍZO DE DIREITO DA VARA DE EXECUÇÕES PENAIS E CORREGEDORIA DOS PRESÍDIOS DE CASCAVEL/PR E O JUÍZO DE DIREITO DA UNIDADE REGIONAL DE DEPARTAMENTOS ESTADUAL DE EXECUÇÃO CRIMINAL DEECRIM 2ª RAJ DE ARAÇATUBA/SP. RECURSO INTERPOSTO PELO INTRESSADO. LEGITIMIDADE. EXECUÇÃO PENAL. COMPETÊNCIA DO JUÍZO DA CONDENAÇÃO. ART. 65 DA LEI DE EXECUÇÃO PENAL. TRANSFERÊNCIA CONDICIONADA À CONSULTA PRÉVIA SOBRE EXISTÊNCIA DE VAGAS NO SISTEMA PRISIONAL. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. Tendo em vista que o apenado, na qualidade de interessado, pode interpor conflito de competência (art. 115, I, do Código de Processo Penal - CPP e art. 195 do Regimento Interno do Superior Tribunal de Justiça - RISTJ), por decorrência lógica possui legitimidade para interpor o presente agravo regimental. Precedentes: AgRg no CC n. 182.880/BA, de minha relatoria, Terceira Seção, DJe de 27/6/2022;
+AgRg no CC 150.024/DF, Rel. Ministro Antônio Saldanha Palheiro, Terceira Seção, DJe 13/11/2017 e AgRg no CC 143.256/RO, Rel. Ministro Rogerio Schietti Cruz, Terceira Seção, DJe 17/6/2016.
+2. Em se tratando de pena privativa de liberdade, o simples fato de o condenado ter sido preso em Comarca diversa, em cumprimento a mandado de prisão expedido pelo Juiz prolator da sentença penal condenatória, não constitui causa legal de deslocamento de competência originária para a execução da pena.
+3. Ademais, este Sodalício firmou a compreensão de que "a transferência da execução da pena não pode ser determinada de maneira unilateral: é necessária a prévia consulta ao juízo para o qual o sentenciado pretende ser transferido, notadamente a fim de se verificar a disponibilidade de vagas ou de condições adequadas para o cumprimento da reprimenda no sistema prisional local" (AgRg no CC n. 189.921/SC, relator Ministro Rogerio Schietti Cruz, Terceira Seção, DJe de 21/9/2022).
+4. Agravo regimental não provido.
+(AgRg no CC n. 206.855/PR, relator Ministro Joel Ilan Paciornik, Terceira Seção, julgado em 12/3/2025, DJEN de 18/3/2025.)
+Na espécie, não há notícia de transferência formal da execução penal, tampouco de prévia concordância do Juízo de Itajaí/SC para assumi-la. Ao revés, o referido juízo recusou a competência, mantendo-se, desse modo, incólume a regra de que a execução penal compete ao juízo da condenação, na ausência de transferência regular.
+Desse modo, a conclusão ora adotada converge com a orientação inicialmente delineada na decisão de caráter provisório, impondo-se a fixação definitiva da competência no mesmo sentido.
+Ante o exposto, conheço do conflito para declarar competente o Juízo de Direito da Vara de Execuções Penais, Medidas Alternativas e Corregedoria dos Presídios de Londrina/PR.
+Comunique-se. Publique-se.
+Cientifique-se o Ministério Público Federal e, oportunamente, encaminhem-se os autos ao Juízo competente.
+EMENTA
