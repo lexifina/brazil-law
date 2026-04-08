@@ -1,0 +1,24 @@
+DECISÃO
+DIEGO BARBOSA FERNANDES condenado em definitivo pela prática do crime previsto no art. 304 c/c o art. 297 do Código Penal Militar, alega sofrer coação ilegal em seu direito de locomoção, em decorrência de acórdão proferido pelo Tribunal de Justiça do Estado do Rio de Janeiro na Apelação Criminal n. 0128420-20.2020.8.19.0001.
+A defesa pretende a reforma do julgado, com base na aplicação do Tema Repetitivo n. 1.303, ao argumento de ser inidônea a justificativa do Ministério Público para não oferecer o acordo de não persecução penal (ausência de confissão).
+O Ministério Público Federal, em parecer da lavra da Subprocuradora-Geral da República Mônica Nicida Garcia, às fls. 679-686, opinou pelo não conhecimento do habeas corpus e, eventualmente, pela não concessão da ordem, de ofício.
+Decido.
+A Corte antecedente assim se manifestou, quanto ao não oferecimento do acordo de não persecução penal (fl. 15):
+ ..
+Dito isso, no caso vertente ausente o requisito - confissão informal e circunstancial - o que somado ao fato da entrega da prestação jurisdicional já ter sido efetivada com a prolação de sentença de mérito, autoriza a conclusão da inaplicabilidade do referido instituto processual penal, com base nos mesmos fundamentos esposados no seguinte aresto do Superior Tribunal de Justiça..
+De início, é oportuno registrar que a hipótese dos autos não é de aplicação retroativa do acordo de não persecução penal, introduzido no ordenamento jurídico pela Lei n. 13.964/2019. Os fatos imputados ao paciente foram praticados em 26/6/2020.
+A condenação transitou em julgado no ano de 2023, conforme explicitado pelo Ministério Público Federal, em seu parecer: "autos baixaram definitivamente em 27/02/2023" (fl. 683).
+Com efeito, o Superior Tribunal de Justiça, em consonância com a orientação do Supremo Tribunal Federal, adotou entendimento de que, nos processos em andamento na data de julgamento do HC n. 185.913/DF (18/9/2024), seria possível também a rediscussão da justificativa inidônea para a negativa do benefício. Contudo, nessa data, o feito já havia transitado em julgado.
+Portanto, o caso dos autos não se enquadra na hipótese firmada no Tema Repetitivo n. 1.303. Logo, ante a inércia da parte, a matéria tornou-se preclusa e não cabe a reabertura da discussão em habeas corpus substitutivo de revisão criminal.
+Ilustrativamente:
+RECURSO ESPECIAL REPRESENTATIVO DE CONTROVÉRSIA. ACORDO DE NÃO PERSECUÇÃO PENAL. ART. 28-A DO CÓDIGO DE PROCESSO PENAL. NORMA DE CONTEÚDO HÍBRIDO (PROCESSUAL E PENAL). POSSIBILIDADE DE APLICAÇÃO RETROATIVA A PROCESSOS EM CURSO NA DATA DA ENTRADA EM VIGOR DA LEI 13.964/2019, DESDE QUE AINDA NÃO TRANSITADA EM JULGADO A CONDENAÇÃO. MODIFICAÇÃO DE ENTENDIMENTO JURISPRUDENCIAL DESTA CORTE. RECURSO DO MINISTÉRIO PÚBLICO FEDERAL DESPROVIDO.
+1. Recurso representativo de controvérsia, para atender ao disposto no art. 1.036 e seguintes do CPC/2015 e na Resolução STJ n. 8/2008.
+2. Delimitação da controvérsia: "(im)possibilidade de acordo de não persecução penal posteriormente ao recebimento da denúncia".
+3. TESE: 3.1 - O Acordo de Não Persecução Penal constitui um negócio jurídico processual penal instituído por norma que possui natureza processual, no que diz respeito à possibilidade de composição entre as partes com o fim de evitar a instauração da ação penal, e, de outro lado, natureza material em razão da previsão de extinção da punibilidade de quem cumpre os deveres estabelecidos no acordo (art. 28-A, § 13, do Código de Processo Penal - CPP).
+3.2 - Diante da natureza híbrida da norma, a ela deve se aplicar o princípio da retroatividade da norma penal benéfica (art. 5º, XL, da CF), pelo que é cabível a celebração de Acordo de Não Persecução Penal em casos de processos em andamento quando da entrada em vigor da Lei n. 13.964/2019, mesmo se ausente confissão do réu até aquele momento, desde que o pedido tenha sido feito antes do trânsito em julgado da condenação.
+3.3 - Nos processos penais em andamento em 18/09/2024 (data do julgamento do HC n. 185.913/DF pelo Plenário do Supremo Tribunal Federal), nos quais seria cabível em tese o ANPP, mas ele não chegou a ser oferecido pelo Ministério Público ou não houve justificativa idônea para o seu não oferecimento, o Ministério Público, agindo de ofício, a pedido da defesa ou mediante provocação do magistrado da causa, deverá, na primeira oportunidade em que falar nos autos, manifestar-se motivadamente acerca do cabimento ou não do acordo no caso concreto.
+3.4 - Nas investigações ou ações penais iniciadas a partir de 18/09/2024, será admissível a celebração de ANPP antes do recebimento da denúncia, ressalvada a possibilidade de propositura do acordo, no curso da ação penal, se for o caso  ..
+(REsp n. 1.890.343/SC, Rel. Ministro Reynaldo Soares da Fonseca, Terceira Seção, DJe 28/10/2024, destaquei.)
+À vista do exposto, denego a ordem de habeas corpus.
+Publique-se e intimem-se.
+EMENTA
