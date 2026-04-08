@@ -1,0 +1,20 @@
+DECISÃO
+Trata-se de recurso em habeas corpus interposto por GERALDO LUCIO DE CARVALHO contra o acórdão proferido pelo Tribunal de Justiça do Estado de Minas Gerais, que denegou a ordem no HC n. 1.0000.26.030942-2/000.
+Sustenta-se que o acórdão da Apelação n. 1.0183.08.144594-6/001 expressamente abrandou o regime inicial imposto ao recorrente para o semiaberto, após absolvições de diversos fatos e reexame das circunstâncias judiciais. Em 9/8/2025, sobreveio o trânsito em julgado da condenação.
+Alega-se que, ao cumprir o julgado, o Juiz de primeiro grau, de ofício, determinou a expedição de mandado de prisão para início da execução no regime fechado, afirmando que a dosimetria fixara a reprimenda final em 7 anos e 6 meses, no regime inicial fechado, com fundamento no art. 33, §§ 2º e 3º, do Código Penal e na Súmula n. 269 do Superior Tribunal de Justiça, o que contraria o comando conclusivo do acórdão da apelação.
+Aduz-se que o Tribunal de origem, ao qualificar como erro material a menção ao abrandamento do regime na conclusão do acórdão e manter regime mais gravoso, incorreu em reformatio in pejus e esvaziou a força normativa da parte dispositiva, que define a coisa julgada.
+Sustenta-se que o suposto erro não foi isolado, pois houve situação semelhante em relação a outros corréus, de modo que deve prevalecer a conclusão mais favorável constante do acórdão.
+Assevera-se que, ausente recurso do Ministério Público contra o abrandamento do regime fixado na conclusão do acórdão, eventual correção de erro material não pode resultar em agravamento da situação do réu.
+Requer, em caráter liminar, a determinação de início do cumprimento da pena no regime intermediário. No mérito, busca-se o reconhecimento do regime inicial para o semiaberto, com a cassação da decisão que determinou a execução no regime fechado.
+Os autos foram a mim distribuídos por prevenção de Turma.
+É o relatório.
+O recurso não merece prosperar, pois não há constrangimento ilegal a ser sanado por esta via.
+A Corte estadual, ao denegar a ordem, afirmou que, de fato, há uma menção isolada ao abrandamento do regime na parte conclusiva do voto. Contudo, tal menção está em manifesta dissonância com toda a estrutura lógica da decisão, configurando evidente erro material, o qual não tem o condão de alterar o resultado proclamado (fl. 718).
+Realmente, pelo que se observa do acórdão proferido no julgamento da apelação, a contradição quanto ao regime inicial decorre de menção isolada ao regime semiaberto (fls. 678). Há motivação explícita e suficiente para a fixação do regime inicial fechado (art. 33, §§ 2º e 3º, do CP), ancorada nas circunstâncias judiciais desfavoráveis e na pena definitiva de 7 anos e 6 meses de reclusão (fls. 651/656).
+Com efeito, segundo o entendimento deste Superior Tribunal, o erro material não decorre de juízo de valor ou de aplicação de norma jurídica sobre os fatos do processo. Sua correção é possível a qualquer tempo, de ofício ou a requerimento das partes, até porque o erro material não transita em julgado, tendo em vista que a sua correção não implica a alteração do conteúdo do provimento jurisdicional. (AgRg no REsp n. 1.213.286/SC, Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe 29/6/2015) - (AgRg no AREsp n. 2.828.799/SP, Ministro Ribeiro Dantas, Quinta Turma, DJEN 30/4/2025). No mesmo sentido, o AgRg no REsp n. 1.919.570/SC, de minha relatoria, Sexta Turma, DJe 23/3/2023.
+Portanto, a compreensão da Corte estadual está em consonância com a jurisprudência deste Superior Tribunal, uma vez que a referência ao regime intermediário não encontra amparo na fundamentação da dosimetria, tampouco altera a parte dispositiva do acórdão.
+Pelo exposto, nego provimento ao recurso em habeas corpus.
+Publique-se.
+EMENTA
+PENAL E PROCESSUAL PENAL. RECURSO EM HABEAS CORPUS. CRIME DE RESPONSABILIDADE. CONDENAÇÃO TRANSITADA EM JULGADO. REGIME INICIAL DE CUMPRIMENTO DA PENA. ERRO MATERIAL QUE NÃO TEM O CONDÃO DE AFASTAR A APLICAÇÃO DA IMPOSIÇÃO LEGAL. INEXISTÊNCIA DE CONSTRANGIMENTO ILEGAL.
+Recurso improvido.
