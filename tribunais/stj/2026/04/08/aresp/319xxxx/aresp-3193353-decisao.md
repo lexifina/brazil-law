@@ -1,0 +1,67 @@
+DECISÃO
+Trata-se de agravos interpostos por GENI BEIRÃO GONÇALVES e por SELECTA COMÉRCIO E INDÚSTRIA S.A. - MASSA FALIDA contra decisão do TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, que não admitiu recursos especiais, fundados na alínea "a" do permissivo constitucional, os quais desafiam acórdão assim ementado (e-STJ fl. 883):
+DIREITO ADMINISTRATIVO APELAÇÕES AÇÃO DE INDENIZAÇÃO POR DANOS MORAIS E MATERIAIS REINTEGRAÇÃO DE POSSE PINHEIRINHO PROVIMENTO DO APELO FAZENDÁRIO E DESPROVIMENTO DAS APELAÇÕES INTERPOSTAS PELA AUTORA E MASSA FALIDA SELECTA COMÉRCIO E INDÚSTRIA S/A.
+1. Ação proposta em face de Massa Falida de Selecta Comércio e Indústria S/A, Município de São José dos Campos e do Estado de São Paulo. 1.1. Suposto uso indiscriminado de violência, destruição de bens móveis, submissão a condições desumanas nos abrigos municipais e abuso no cumprimento de ordem judicial de reintegração de posse na área denominada Pinheirinho. 1.2. Sentença que julgou extinta, sem resolução do mérito, a reconvenção oposta pela Massa Falida, negou o pleito indenizatório movido em face do ente municipal e condenou a Fazenda Estadual ao pagamento de indenização por danos morais, bem como por danos materiais, essa última condenação em solidariedade com a Massa Falida corré.
+2. Ausência de comprovação, também, dos danos morais atribuídos ao Estado de São Paulo. 2.1. Danos materiais evidenciados e que devem recair, unicamente, à Massa Falida.
+2.2. Na qualidade de depositária dos bens pertencentes à autora, ônus que não compete à Fazenda Estadual, deveria a Massa Falida ter tomado as providências necessárias para preservá-los, mas agiu negligentemente e não o fez.
+3. Reconvenção. 3.1. Lucros cessantes. 3.2. Inadmissibilidade.
+3.3. Pedido que não tem conexão com a causa principal ou com os fundamentos de defesa.
+4. Sentença parcialmente reformada, para fins de julgar improcedente o pedido de indenização por danos morais formulado na inicial contra o Estado de São Paulo e restringir a condenação por danos materiais, tão somente, à Massa Falida de Selecta Comércio e Indústria S/A.
+5. RECURSO DA FAZENDA ESTADUAL PROVIDO E RECURSOS DA CORRÉ MASSA FALIDA E DA AUTORA DESPROVIDOS.
+As partes opuseram embargos de declaração, os quais foram rejeitados.
+No recurso especial obstaculizado, Geni Beirão Gonçalves apontou violação dos arts. 1.022, I e II, 489, § 1º, I e IV, 82, 369 e 373 § 1º, do Código de Processo Civil, além dos arts. 37, §, 6º da Constituição Federal, 186 e 927 do Código Civil, e 1º e 44, XI, da Lei Complementar Federal n. 80/94.
+Por sua vez, Selecta Comércio e Indústria S.A. alegou ofensa aos arts. 186, 927, 944 e 952 do Código Civil; 373, I e 556 do CPC, bem como ao art. 103 da Lei n. 11.101/2005.
+Contrarrazões às e-STJ fls. 1.165/1.169.
+Os apelos nobres receberam juízo negativo de admissibilidade pelo Tribunal de origem.
+Por meio do despacho de e-STJ fls. 1.383/1.385, determinou-se a intimação da empresa SELECTA COMÉRCIO E INDÚSTRIA S.A. - MASSA FALIDA, com fulcro no art. 1.007, § 4º, do Código de Processo Civil/2015, para que comprovasse o deferimento da justiça gratuita ou efetuasse o recolhimento em dobro das custas. Contudo, decorrido o prazo, não houve qualquer manifestação da empresa agravante.
+AGRAVO EM RECURSO ESPECIAL DE GENI BEIRÃO GONÇALVES
+De início, cumpre destacar que não deve ser conhecido o agravo que não ataque especificamente todos os fundamentos da decisão agravada, tanto nos termos do art. 544, § 4º, I, do CPC/1973, quanto nos moldes dos arts. 932, III, do CPC/2015 e 253, parágrafo único, I, do RISTJ. Confira-se o teor dos dispositivos citados:
+Art. 544. Não admitido o recurso extraordinário ou o recurso especial, caberá agravo nos próprios autos, no prazo de 10 (dez) dias.
+ ..
+§ 4º No Supremo Tribunal Federal e no Superior Tribunal de Justiça, o julgamento do agravo obedecerá ao disposto no respectivo regimento interno, podendo o relator:
+I - não conhecer do agravo manifestamente inadmissível ou que não tenha atacado especificamente os fundamentos da decisão agravada.
+Art. 932. Incumbe ao relator:
+ ..
+III - não conhecer de recurso inadmissível, prejudicado ou que não tenha impugnado especificamente os fundamentos da decisão recorrida; (Grifos acrescidos)
+Art. 253. O agravo interposto de decisão que não admitiu o recurso especial obedecerá, no Tribunal de origem, às normas da legislação processual vigente. (Redação dada pela Emenda Regimental n. 16, de 2014)
+Parágrafo único. Distribuído o agravo e ouvido, se necessário, o Ministério Público no prazo de cinco dias, o relator poderá: (Redação dada pela Emenda Regimental n. 16, de 2014) 120 Superior Tribunal de Justiça
+I - não conhecer do agravo inadmissível, prejudicado ou daquele que não tenha impugnado especificamente todos os fundamentos da decisão recorrida; (Redação dada pela Emenda Regimental n. 22, de 2016)
+Aliás, a Corte Especial do Superior Tribunal de Justiça, no julgamento dos Embargos de Divergência em Agravo em Recurso Especial 701.404/SC, 746.775/PR e 831.326/SP, decidiu pela necessidade de o agravante impugnar especificamente todos os fundamentos adotados pela decisão a quo, autônomos ou não, para justificar a inadmissão do recurso especial, sob pena de seu recurso não ser conhecido.
+No caso, constata-se que a inadmissibilidade do recurso especial decorreu dos seguintes fundamentos: (i) inexistência de afronta aos arts. 489 e 1.022 do CPC/2015; (ii) ausência de desrespeito à legislação federal apontada, e iii) a pretensão de reforma do acórdão exigiria o reexame do conjunto fático-probatório dos autos, o que atrai a incidência da Súmula 7 do STJ.
+Entretanto, a parte agravante deixou de impugnar, específica e adequadamente tais fundamentos.
+Destaco, por oportuno, não ser suficiente a apresentação de razões genéricas sobre o óbice apontado pela decisão de inadmissibilidade, sendo exigível, do agravante, o efetivo ataque aos seus fundamentos.
+Em relação à ausência de violação do art. 1.022 do CPC, não se mostra suficiente a alegação genérica de que o acórdão recorrido foi omisso sobre questão fundamental ao deslinde da controvérsia. Caberia à agravante especificar quais seriam as questões que eventualmente deixaram de ser adequadamente enfrentadas pelo Tribunal de origem e, principalmente, a sua relevância para o resultado da demanda, o que não ocorreu no caso.
+Quanto à Súmula 7 do STJ, é de rigor que, além da contextualização do caso concreto, a impugnação contenha as devidas razões pelas quais se entende ser possível o conhecimento da pretensão, independentemente do reexame fático-probatório, mediante, por exemplo, a apresentação do cotejo entre as premissas fáticas e as conclusões delineadas no acórdão recorrido e na sua tese recursal, providência da qual a agravante não se desincumbiu.
+De notar, ainda, que o Tribunal de origem, ao realizar o juízo de admissibilidade do apelo nobre, deve analisar os pressupostos específicos e constitucionais concernentes ao mérito da controvérsia, não havendo que falar em usurpação da competência do STJ.
+Nesse sentido: AgInt no AREsp n. 2.107.891/PR, relator Ministro Humberto Martins, Segunda Turma, julgado em 14/11/2022, DJe de 30/11/2022; AgInt no AREsp n. 2.164.815/RS, relator Ministro João Otávio de Noronha, Quarta Turma, julgado em 28/11/2022, DJe de 30/11/2022; e AgInt no AREsp n. 2.098.383/BA, relator Ministro Manoel Erhardt (Desembargador Convocado do TRF5), Primeira Turma, julgado em 15/8/2022, DJe de 17/8/2022.
+Nesse contexto, forçoso convir que a irresignação não merece conhecimento.
+AGRAVO EM RECURSO ESPECIAL DE SELECTA COMÉRCIO E INDÚSTRIA S.A.
+No caso, o recurso especial da empresa agravante não foi instruído com a guia de custas devidas ao Superior Tribunal de Justiça, tampouco com o respectivo comprovante de pagamento.
+É certo que a falta de comprovação do recolhimento das custas processuais, no ato da interposição do recurso, não gera, de imediato, a sua deserção, que somente ocorrerá depois de concedida a oportunidade, ao interessado, de providenciar o saneamento do vício no prazo de 5 dias, consoante o art. 1.007, § 7º, do novo estatuto processual.
+No caso, constatada a irregularidade, a parte foi devidamente intimada para regularizar o recolhimento (e-STJ fls. 1.383/1.385), sem que o vício fosse sanado.
+Conforme registrado no aludido despacho, "o benefício da gratuidade judiciária não tem efeito retroativo, de modo que a sua concessão posterior à interposição do recurso não tem o condão de isentar a parte do recolhimento do respectivo preparo. Desse modo, nem mesmo eventual deferimento da benesse nesta fase processual, descaracterizaria a deserção do recurso especial" (AgInt no AREsp 2380943/SP, relatora Ministra Nancy Andrighi, Terceira Turma, DJe de 18/10/2023)
+Nesse sentido:
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. GRATUIDADE DA JUSTIÇA. PEDIDO FORMULADO EM CUMPRIMENTO DE SENTENÇA. OMISSÃO. DEFERIMENTO, COM EFEITO EX NUNC. EMBARGOS DE DECLARAÇÃO ACOLHIDOS.
+1. O Superior Tribunal de Justiça possui o entendimento de que, "embora a parte interessada possa, a qualquer tempo, formular pedido de concessão dos benefícios da assistência judiciária gratuita, eventual deferimento pelo Juiz ou Tribunal somente produzirá efeitos quanto aos atos processuais relacionados ao momento do pedido ou os posteriores a ele, não sendo admitida, portanto, sua retroatividade" (AgRg nos EREsp 1.502.212/SC, Relator Ministro RAUL ARAÚJO, Corte Especial, DJe de 14/6/2019).
+2. Embargos de declaração acolhidos, apenas para imprimir efeito ex nunc à gratuidade de justiça concedida ao ora embargado.
+(EDcl no AgInt no AREsp n. 2.778.237/DF, relator Ministro Raul Araújo, Quarta Turma, julgado em 18/8/2025, DJEN de 22/8/2025.)
+DIREITO PROCESSUAL CIVIL. AÇÃO DE INDENIZAÇÃO POR ERRO MÉDICO. RECURSO ESPECIAL. GRATUIDADE DE JUSTIÇA. EFEITOS EX NUNC. RECURSO NÃO CONHECIDO.
+I. Caso em exame
+1. Recurso especial interposto contra acórdão do Tribunal de Justiça do Estado de São Paulo que extinguiu demanda indenizatória por erro médico, sem julgamento de mérito, devido à falta de recolhimento da taxa judiciária após a revogação da gratuidade de justiça anteriormente deferida.
+2. O Tribunal de origem indeferiu o pedido de gratuidade de justiça formulado em apelação, por entender que seus efeitos não são retroativo.
+II. Questão em discussão
+3. A questão em discussão consiste em saber se a concessão da gratuidade de justiça em sede recursal pode retroagir para dispensar o recolhimento de custas processuais já exigidas e não pagas.
+III. Razões de decidir
+4. A jurisprudência do STJ estabelece que a concessão da gratuidade de justiça possui efeitos apenas futuros, não retroagindo para alcançar encargos processuais anteriores.
+5. A parte recorrente não comprovou o recolhimento do preparo no prazo assinalado nem obteve o deferimento da gratuidade de justiça na origem, configurando a deserção do recurso especial.
+6. A consonância entre o acórdão recorrido e a jurisprudência desta Corte dita a inviabilidade do recurso especial, por força do óbice da Súmula 83 do STJ.
+IV. Dispositivo
+7. Recurso não conhecido.
+(REsp n. 2.042.702/SP, relatora Ministra Daniela Teixeira, Terceira Turma, julgado em 23/6/2025, DJEN de 2/7/2025.)
+Além do mais, "a concessão do benefício do diferimento do pagamento das custas, com base em lei local, não tem o condão de eximir a parte do pagamento das custas devidas ao STJ, que têm natureza de taxa federal" (AgInt nos Edcl no AREsp 1.456.819/SP, Relator Ministro Benedito Gonçalves, Primeira Turma, DJe 6/5/2020).
+Ilustrativamente, veja-se, ainda, os seguintes precedentes: AgInt nos EDcl no relator AREsp n. 2.560.473/MA, Relator Ministro Moura Ribeiro, Terceira Turma, julgado em 24/2/2025, DJEN de 27/2/2025; AgInt no AREsp n. 1.814.207/RO, Relator Ministro Francisco Falcão, Segunda Turma, julgado em 28/6/2021, DJe 1/7/2021 e AgInt no AREsp n. 1.870.505/RJ, Relator Ministro Mauro Campbell Marques, Segunda Turma, julgado em 4/10/2021, DJe de 7/10/2021.
+Nessa quadra, ausente a comprovação da hipossuficiência econômica alegada e não recolhido tempestivamente o preparo devido, impõe-se o decreto de deserção do recurso especial, nos termos do art. 1.007, § 4º, do CPC.
+Ante o exposto, com fundamento no parágrafo único, I, do art. 253, RISTJ, NÃO CONHEÇO do agravo em recurso especial de GENI BEIRÃO GONÇALVES e, com base no parágrafo único, II, "a", do RISTJ, art. 253, CONHEÇO do agravo de SELECTA COMÉRCIO E INDÚSTRIA S.A. para NÃO CONHECER do recurso especial.
+Caso exista, nos autos, prévia fixação de honorários de advogado pelas instâncias de origem, determino a majoração de tal verba, em desfavor dos recorrentes, em 10% (dez por cento) sobre o valor já arbitrado, nos termos do § 11, do observados, se aplicáveis, os limites percentuais previstos nos art. 85, CPC/2015, §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão da gratuidade de justiça.
+Publique-se. Intimem-se.
+EMENTA
