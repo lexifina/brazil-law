@@ -1,0 +1,28 @@
+DECISÃO
+Trata-se de embargos de declaração opostos pelo Distrito Federal à decisão de fls. 280/281), que declarou prejudicada a análise de seu recurso especial, com a determinação de devolução dos autos ao Tribunal de origem, para que lá aguardasse o fim do julgamento do Tema de repercussão geral 1.349, pelo Supremo Tribunal Federal.
+Em apertadíssima síntese, aduz que (fl. 286):
+ ..  o REsp apresentou o argumento de inexigibilidade da obrigação por ofensa aos arts. 15, 16, 17 e 21, I e parágrafo único da LRF, em razão da inviabilidade orçamentária e financeira de implementação de reajuste, bem como ausência de previsão na LDO e dotação orçamentária na LOA, o que não é abarcado pelo Tema n.º 1.349/STF, em que se discute "à luz do artigo 3º da Emenda Constitucional n.º 113/2021 se a metodologia de atualização dos débitos contra a Fazenda Pública, com a incidência da taxa SELIC, deve ou não abranger o valor consolidado da dívida (principal corrigido acrescido de juros)".
+Daí aduzir que "é viável a análise do REsp quanto ao argumento da inexigibilidade da obrigação" (fl. 287), por se tratar (fl. 292):
+ ..  de fundamento autônomo, que não depende da definição acerca da aplicação da taxa SELIC, pois incide sobre a própria exigibilidade do título executivo. Ainda que superada a discussão acerca dos índices de atualização, subsistiria a tese de que a obrigação é juridicamente inexigível nos exercícios financeiros em que não implementadas as condições constitucionais e legais para sua execução.
+Requer, assim, o acolhimento dos embargos de declaração.
+Impugnação às fls. 299/304.
+É O RELATÓRIO. PASSO À FUNDAMENTAÇÃO.
+Não prospera a irresignação da parte embargante.
+De acordo com o previsto no artigo 1.022 do CPC, são cabíveis embargos de declaração nas hipóteses de obscuridade, contradição, omissão ou erro material na decisão embargada.
+Entretanto, no caso dos autos, não se verifica a existência de nenhum desses vícios, pois o acórdão embargado enfrentou e decidiu, de maneira integral e com fundamentação suficiente, toda a controvérsia posta no recurso.
+Com efeito, no decisum embargado restou expressamente consignado que ainda não houve o esgotamento das Instâncias ordinárias, o que inviabiliza o conhecimento do apelo nobre da parte ora embargante. Confira-se (fls. 280/281):
+O Plenário do Supremo Tribunal Federal, ao julgar a , AC 2.177 MC-QO/PE Rel. Ministra Ellen Gracie, asseverou que "o parágrafo 3º do -B, do CPC, art. 543 estabelece que, após julgamento de "mérito do recurso extraordinário, os recursos sobrestados serão apreciados pelos Tribunais, Turmas de Uniformização ou Turma Recursais, que poderão declará-los prejudicados ou retratar-se"  ..  É inconteste, dessa forma, que mesmo após o reconhecimento da repercussão geral, a jurisdição do Tribunal a quo ainda não se encontrará esgotada" e "A jurisdição do Supremo Tribunal Federal somente se inicia com a manutenção, pela instância ordinária, de decisão contrária ao ". (entendimento firmado nesta Corte, em face do disposto no § 4º do -B do CPC art. 543 , Relator(a): Min. ELLEN GRACIE, Tribunal Pleno, julgado emAC 2177 MC-QO D Je-035 DIVULG 19-02-2009 PUBLIC 20-02-2009 EMENT VOL-02349-12/11 /2008, 05 PP00945 RTJ VOL-00209-03 PP-01021).
+A partir desse julgamento, pode-se compreender que só haverá exaurimento das instâncias ordinárias, para fins de cabimento dos apelos extraordinários, após o Tribunal de origem realizar o juízo de conformidade - o qual consiste no rejulgamento da apelação - à luz do posicionamento firmado pelos Tribunais Superiores (STF/STJ).
+Outrossim, só caberá a subida do recurso especial ao STJ, após a realização do juízo de conformidade com repercussão geral, se houver resíduo não alcançado pela afetação, pois se a matéria discutida no apelo coincidir integralmente com aquela tratada na repercussão geral, o Recurso Especial (REsp) deverá ser declarado prejudicado.
+Nesse panorama, considerando que o recurso extraordinário interposto nos autos encontra-se sobrestado para realização de juízo de adequação com o que restar assentado pela Corte Suprema no tem-se por prematura a realização do Tema 1.349/STF, juízo de admissibilidade em relação ao recurso especial da parte agravante, bem como a remessa dos autos a este Tribunal Superior.
+Dessa forma, não podem ser acolhidos embargos de declaração que, a pretexto de alegada omissão no julgado, traduzem, na verdade, o inconformismo da parte com a decisão tomada, buscando rediscutir o que decidido já foi. Nesse panorama, inexistente qualquer vício no acórdão embargado, conforme exige o art. 1.022 do CPC, impõe-se a rejeição do pleito integrativo. A propósito:
+EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NOS EMBARGOS DE DIVERGÊNCIA EM AGRAVO EM RECURSO ESPECIAL. CONTRADIÇÃO E OMISSÃO. VÍCIOS NÃO CONFIGURADOS. PROPÓSITO DE MODIFICAÇÃO DO JULGAMENTO. MEIO IMPRÓPRIO.
+1. Os embargos de declaração, conforme dispõe o art. 1.022 do CPC/2015, destinam-se a esclarecer obscuridade, eliminar contradição, suprir omissão ou corrigir erro material.
+2. Não se identifica, no recurso, qualquer ponto sobre o qual era necessária manifestação, mas apenas a discordância da parte com a solução apresentada no julgamento e seu propósito de modificação.
+3. Por contradição entende-se coexistência de afirmações em desacordo no mesmo julgado, gerando ilogicidade ao texto. Mas desse problema não se ressente o julgado.
+4. Embargos de declaração rejeitados, com aplicação de multa de 1% (um por cento) sobre o valor atualizado da causa.
+(EDcl no AgInt nos EAREsp n. 666.334/RS, relator Ministro Og Fernandes, Primeira Seção, DJe de 28/8/2018.)
+Portanto, inexiste omissão a ser sanada.
+ANTE O EXPOSTO, rejeito os embargos de declaração.
+Publique-se.
+EMENTA
