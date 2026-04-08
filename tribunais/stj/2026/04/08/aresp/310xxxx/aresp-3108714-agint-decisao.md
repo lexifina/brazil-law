@@ -1,0 +1,65 @@
+DECISÃO
+Trata-se de agravo interno interposto pelo MUNICÍPIO DE LAGOA DO ITAENGA contra decisão do Presidente do STJ, em que conheceu do agravo para não conhecer do recurso especial (e-STJ fls. 165/166).
+Nas suas razões, a parte agravante sustenta, em síntese, que, além de ter indicado expressamente violação ao artigo 37, XIV, da CF, o recurso especial "fundamentou-se na contrariedade ao artigo 373, inciso I, do Código de Processo Civil, arguindo que o ônus da prova quanto ao vício de iniciativa na legislação municipal não foi devidamente observado pelo Tribunal a quo" (e-STJ fl. 173).
+Sem impugnação.
+Passo a decidir
+Exerço juízo de retratação, passando a nova análise do agravo em recurso especial.
+Trata-se de agravo interposto pelo MUNICÍPIO DE LAGOA DO ITAENGA contra decisão do Tribunal de Justiça do Estado de Pernambuco, que não admitiu o recurso especial, fundado nas alíneas "a" e "c" do permissivo constitucional, o qual desafia acórdão assim ementado (e-STJ fls. 116/117):
+EMENTA: CONSTITUCIONAL E ADMINISTRATIVO. REEXAME NECESSÁRIO E APELAÇÃO. SERVIDORA PÚBLICA DO MUNICÍPIO DE LAGOA DE ITAENGA. AUXILIAR DE SERVIÇOS GERAIS. ADICIONAL POR TEMPO DE SERVIÇO. PREVISÃO CONTIDA NA LEI MUNICIPAL Nº 334/98. EMENDA CONSTITUCIONAL Nº 16/99. SUPRESSÃO DE DIREITO CONCEDIDO A SERVIDOR SEM EDIÇÃO DE LEI. IMPOSSIBILIDADE. SÚMULAS 128 E 141 DO TJPE. REEXAME NECESSÁRIO DESPROVIDO. APELO PREJUDICADO. DECISÃO UNÂNIME.
+1. De proêmio, importa salientar, como consignado na sentença, a submissão ao Duplo Grau Obrigatório de Jurisdição, ante a iliquidez da decisão, proferida em desfavor do Município de Lagoa do Itaenga. Deve ser autuado, então, o Reexame Necessário.
+2. O cerne da questão refere-se ao pagamento do adicional por tempo de serviço - quinquênios com fundamento na Lei Municipal nº 334/1998, que dispõe sobre o Plano de Cargos, Carreiras, Vencimentos e Valorização do Magistério do Sistema Público (PCCV).
+3. Quanto à alegada inconstitucionalidade formal, acertou a Magistrada ao ressaltar a inexistência de comprovação do vício de iniciativa apontado, prevalecendo, pois, a sua presunção de constitucionalidade.
+4. In casu, consta dos autos que a autora é auxiliar de serviços gerais do Município de Lagoa de Itaenga, desde 15 de março de 2005 e pleiteia a implantação dos quinquênios a que faz jus, com o devido pagamento retroativo.
+5. A sentença de primeiro grau acertadamente considerou a plena vigência do referido dispositivo legal, mesmo após a Edição da Emenda Constitucional Estadual nº 16/99, que incluiu o parágrafo 7º no art. 131 da referida Constituição Estadual, vedando o pagamento ao servidor público de qualquer adicional por tempo de serviço.
+6. Isso porque, é entendimento pacífico neste Egrégio Tribunal de Justiça de Pernambuco que a supressão do quinquênio não deve ocorrer de modo automático nos regimes jurídicos municipais, diante da independência legislativas dos Entes Públicos.
+7. Posicionamento este que restou sedimentado pela Edição das Súmulas nº 128 e 141 deste TJPE nos seguintes dizeres: "É devido o adicional por tempo de serviço (quinquênios) até que Lei Municipal revogue referido benefício, não bastando para esse fim a simples remissão à EC n. 16, de 1999". "Súmula nº 141 - Em razão do pacto federativo, é de se respeitar e exigir o legítimo exercício da autonomia legislativa municipal para efeito de alteração do regime jurídico dos seus servidores públicos".
+8. Por conseguinte, caso o Ente Municipal pretenda extinguir o referido adicional, deverá fazê-lo através de legislação específica, revogando-se o disposto no art. 9º, b da Lei Municipal nº 334/98. Não o tendo feito até então, está obrigado a implementar o adicional na remuneração dos servidores que preencherem os requisitos legais para tanto.
+9. Deste modo, inexistindo comprovação da revogação do referido benefício, forçoso concluir pela permanência da percepção do quinquênio aos servidores públicos do Município de Lagoa de Itaenga.
+10. Outra questão incontroversa é a existência da relação jurídica firmada entre a parte, Marinalva Venâncio Bezerra da Silva, com o citado Ente Público, no cargo de auxiliar de serviços gerais, desde 15 de março de 2005, consoante se observa da Portaria nº 214/2005, juntada aos autos (ID 42397965).
+11. Não é possível afastar o dever da municipalidade em arcar com a implantação do benefício previsto em lei válida e eficaz, em especial considerando que a implementação de direitos e vantagens dos servidores devem ser incluídos na Lei Orçamentária Anual, tornando-se presumida a existência de prévia e suficiente dotação orçamentária para suportar as despesas daí decorrentes.
+12. Desta forma, a servidora faz jus a implantação dos quinquênios a que tem direito, bem como o seu pagamento retroativo aos últimos cinco anos a contar do ajuizamento da ação ordinária.
+13. A sentença não merece reparo quanto aos índices de juros de mora e correção monetária aplicados à condenação, uma vez que observou os Enunciados Administrativos nºs 08, 11, 15 e 20 da Seção de Direito Público. 14. Do mesmo modo, a sentença, corretamente, determinou que a fixação do percentual dos honorários advocatícios deve ocorrer quando da liquidação do julgado.
+15. Reexame Necessário desprovido, prejudicado o apelo.
+16. Decisão unânime.
+No especial obstaculizado, o Município recorrente alega, além de divergência jurisprudencial, violação dos arts. 373, I, do CPC/2015 e 37, XIV, da CF, sustentando, em síntese, que "não faz sentido que a autora queira ver aplicado o adicional aos seus vencimentos se já tem previsto a quinquênio e decênio em questão, trata-se, a bem da verdade, de verdadeiro bis in idem de vantagens para o servidor, o que é plenamente vedado pelo ordenamento jurídico pátrio" (e-STJ fl. 135).
+Sem contrarrazões.
+O apelo nobre recebeu juízo negativo de admissibilidade pelo Tribunal de origem (e-STJ fls. 145/152), o que ensejou a interposição do presente agravo.
+Sem contraminuta.
+Pois bem.
+A insurgência não merece prosperar.
+Inicialmente, no pertinente ao art. 37, XIV , da Constituição da República, cumpre salientar que o recurso especial não é remédio processual adequado para conhecer de irresignação fundada em suposta afronta a preceito constitucional, sendo essa atribuição da Suprema Corte, em sede de recurso extraordinário (art. 102, III, da CF/1988).
+No tema:
+PROCESSUAL CIVIL. TRIBUTÁRIO. AGRAVO INTERNO NO RECURSO ESPECIAL.  ..  VIOLAÇÃO A DISPOSITIVOS DA CONSTITUIÇÃO DA REPÚBLICA IMPOSSIBILIDADE DE ANÁLISE EM SEDE DE RECURSO ESPECIAL. COMPETÊNCIA DO STF  ..
+ ..
+III - O recurso especial possui fundamentação vinculada, não constituindo instrumento processual destinado a examinar possível ofensa à norma Constitucional.  ..
+VIII - Agravo Interno improvido.
+(AgInt no REsp 1.564.937/SC, Rel. Ministra REGINA HELENA COSTA, PRIMEIRA TURMA, julgado em 04/05/2017, DJe 11/05/2017).
+No mais, extrai-se do acórdão recorrido que (e-STJ fls. 111/115):
+In casu, consta dos autos que a autora é auxiliar de serviços gerais do Município de Lagoa de Itaenga, desde 15 de março de 2005 e pleiteia a implantação dos quinquênios a que faz jus, com o devido pagamento retroativo. O direito ao recebimento do adicional por tempo de serviço está regulamentado pela Lei Municipal nº 334/1998, que instituiu o Plano de Cargos, Carreiras e Vencimentos e Valorização do Magistério do Sistema Público Municipal de Lagoa de Itaenga, nos termos da Emenda Constitucional nº 14/96 e das Leis Federais nº 9.394/96 e nº 9.424/96.
+(..)
+O Artigo 19, do mesmo diploma legal diz que: "O profissional do magistério, que for promovido pela Avaliação de Desempenho, fará jus a 05% (cinco por cento) sobre seu vencimento correspondente ao período de 05 (cinco) anos, pelo qual foi avaliado".
+Por sua vez o artigo 20 prevê:
+(..)
+É sabido que a Lei Estadual nº 6.123/68, em sua redação originária, assegurava aos servidores públicos estaduais o adicional por tempo de serviço, in verbis:
+(..)
+Com o advento da Emenda Constitucional Estadual nº 16/99, restou extinta a gratificação referente a quinquênios no âmbito dos Estados, tendo o inciso I do parágrafo 7º do artigo 128 da Constituição do Estado de Pernambuco passado a disciplinar, in verbis:
+(..)
+No entanto, referida extinção não pode ser extensível aos servidores do Município de Lagoa de Itaenga, eis que em face do princípio da autonomia administrativa previsto no art. 30, I, da Constituição Federal de 1988, o Município detém competência para elaborar o regime jurídico de seus servidores, observando as normas constitucionais aplicáveis aos servidores públicos.
+O Município apelante, ao recepcionar o Estatuto Estadual (Lei nº 6.123/68), o fez por meio de Lei Municipal (Lei Municipal nº 259/1993), observando o processo legislativo regular.
+Nessa toada, as alterações posteriores à Lei nº 6.123/68 não podem automaticamente incidir sobre o Município, sem que exista lei municipal autorizadora para esse fim, sob pena de ofensa ao princípio da autonomia dos entes federativos.
+Mesmo que a Lei Municipal nº 259/1993 disponha quanto à adoção do Estatuto dos Servidores Públicos Estaduais (Lei nº 6123/1968), com suas alterações posteriores, as disposições da ECE nº 16/99 não podem ser aplicadas de imediato aos servidores municipais, sem que exista lei municipal específica para tanto, sendo descabido pleito de declaração de inconstitucionalidade do art. 7º, §2º, III da Lei Municipal nº 259/1993.
+Em questão similar aos autos, envolvendo o Município de Lagoa de Itaenga, este Tribunal já teve a oportunidade de se pronunciar quanto à impossibilidade de supressão automática do adicional por tempo de serviço (quinquênio) do rol dos direitos dos servidores municipais, sem que exista lei municipal para tanto, inclusive por esta 1ª Câmara.
+(..)
+A sentença de primeiro grau acertadamente considerou a plena vigência do referido dispositivo legal, mesmo após a Edição da Emenda Constitucional Estadual nº 16/99, que incluiu o parágrafo 7º no art. 131 da referida Constituição Estadual, vedando o pagamento ao servidor público de qualquer adicional por tempo de serviço. O posicionamento de que a supressão do quinquênio não deve ocorrer de modo automático nos regimes jurídicos municipais, diante da independência legislativas dos Entes Públicos, já restou sedimentado pela Edição das Súmulas nº 128 e 141 deste TJPE nos seguintes dizeres:
+(..)
+Por conseguinte, caso o Ente Municipal pretenda extinguir o referido adicional, deverá fazê-lo através de legislação específica, revogando-se o disposto no art. 9º, b da Lei Municipal nº 334/98. Não o tendo feito até então, está obrigado a implementar o adicional na remuneração dos servidores que preencherem os requisitos legais para tanto.
+Outra questão incontroversa é a existência da relação jurídica firmada entre a parte, Marinalva Venâncio Bezerra da Silva, com o citado Ente Público, no cargo de auxiliar de serviços gerais, desde 15 de março de 2005, consoante se observa da Portaria nº 214/2005, juntada aos autos (ID 42397965).
+Em sua peça de ingresso, a parte pleiteia a determinação ao município Demandado que proceda à imediata implantação dos quinquênios à sua remuneração, ao pagamento das diferenças salariais vencidas e vincendas, e reflexos.
+Agiu acertadamente a juíza a quo quando julgou procedente o pedido, condenando o réu a conceder a promoção da autora por tempo de serviço, concedendo o adicional de 5% (cinco por cento) a cada cinco anos (quinquênio), bem como ao pagamento dos valores atrasados relativos ao adicional por tempo de serviço, a serem apurados em liquidação.
+Impende ressaltar, por oportuno, que não é possível afastar o dever da municipalidade em arcar com a implantação do benefício previsto em lei válida e eficaz, em especial considerando que a implementação de direitos e vantagens dos servidores devem ser incluídos na Lei Orçamentária Anual, tornando-se presumida a existência de prévia e suficiente dotação orçamentária para suportar as despesas daí decorrentes.
+Desta forma, a servidora faz jus a implantação dos quinquênios a que tem direito, bem como o seu pagamento retroativo aos últimos cinco anos a contar do ajuizamento da ação ordinária.
+Portanto, depreende-se ter sido a controvérsia julgada à luz de interpretação de legislação local (Lei estadual n. 6.123/1968, Emenda Constitucional estadual n. 16/1999 e Lei municipal n. 259/1993) , o que atrai a incidência, por analogia, da Súmula 280 do STF.
+Ante o exposto, RECONSIDERO a decisão de e-STJ fls. 165/166, tornando-a sem efeito, e, com base no art. 253, parágrafo único, II, "a", do RISTJ, CONHEÇO do agravo para NÃO CONHECER do recurso especial, por outro fundamento.
+Caso exista nos autos prévia fixação de honorários sucumbenciais pelas instâncias de origem, majoro, em desfavor da parte recorrente, em 10% o valor já arbitrado (na origem), nos termos do art. 85, § 11, do CPC/2015, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo, bem como nos termos do art. 98, § 3º, do mesmo diploma legal.
+Publique-se. Intimem-se.
+EMENTA
