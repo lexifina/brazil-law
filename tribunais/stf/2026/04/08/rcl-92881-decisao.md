@@ -1,0 +1,61 @@
+DECISÃO: Trata-se de reclamação constitucional com pedido de liminar, proposta por Regional Vitta Bauru Desenvolvimento Imobiliário Ltda, em face de decisão proferida pelo Tribunal Regional do Trabalho da 15ª Região, nos autos do Processo n. 0010743-17.2024.5.15.0089.
+Em suas razões, a reclamante afirma que a autoridade reclamada, ao reconhecer a competência da Justiça do Trabalho, teria antecipado indevidamente a legitimação do vínculo empregatício, invalidando implicitamente o contrato de corretagem imobiliária firmado entre as partes.
+Diante disso, alega o desrespeito à autoridade das decisões proferidas pelo STF no julgamento da ADPF 324, das ADCs 48 e 66, das ADIs 3.991 e 5.625, do do RE-RG 958.252 (Tema 725), paradigma da Repercussão Geral.
+Consta da exordial o seguinte contexto-fático:
+
+“Trata-se de Reclamação trabalhista (0010743-17.2024.5.15.0089) ajuizada por STEPHANIE BELORIO SANTOS, inicialmente em curso na 2ª Vara do Trabalho de Bauru/SP.
+Na petição inicial a beneficiária confessa a existência de contrato de prestação de serviços de corretagem:
+(...)
+ Apesar de reconhecer um negócio jurídico firmado por partes capazes, a beneficiária requereu a nulidade do contrato de contrato de prestação de serviços e distrato (doc. 8/9 – fls. 207/231 – id. 67a1b13 / id. 5b693e0 da RT) e o reconhecimento do vínculo empregatício no período de 03/07/2023 a 19/01/2024, na função de consultora de vendas. Com isso, ela ignorou outros diversos elementos que demonstram a ausência de vício de vontade na forma de trabalho negociada entre as partes, como por exemplo: notas ficais emitidas (doc. 10 - fls. 235/242 - id. 71bdd09 da RT), existência de pessoa jurídica de prestação de serviços de corretagem (doc. 7 – fls. 232/234 – id. 82e19bd da RT).
+Ao apresentar contestação, a ora reclamante demonstrou que o contrato civil foi pactuado sem qualquer vício de consentimento, estabelecendo-se entre as partes relação cível de intermediação imobiliária, nos exatos termos da Lei 6.530/78.
+Juntou-se aos autos o distrato (doc. 9 - fls. 224/231 - Id. 5b693e0 dos autos de origem) em que consta expressamente a quitação plena, total e irrevogável do contrato mantido entre as partes, nada mais podendo reclamar a que título for, havendo cláusula expressa sobre a inexistência de vínculo empregatício entre as partes:
+(...)
+A 2ª Vara do Trabalho de Bauru/SP reconheceu a incompetência material da Justiça do Trabalho, e determinou a remessa dos autos à Justiça Comum Estadual para processamento e julgamento do pedido formulado pela reclamante, conforme entendimento pacificado pelo e. STF, in verbis (doc. 3 - fls. 262/264, id. 12f7a48 da RT):
+(...)
+Contudo, a 6ª Câmara do Tribunal Regional do Trabalho da 15ª Região reconheceu a competência da Justiça do Trabalho, determinando o retorno a origem para o prosseguimento e julgamento do mérito da ação, violando a aplicação do entendimento pacificado pelo E. STF na ADPF 324 e Tema 725, in verbis (doc. 4, fls. 302/308, id. ec89397 da RT):
+(...)
+Embora formalmente qualificada como decisão de competência, o acórdão reclamado encerra juízo material relevante, ao tratar o contrato civil de corretagem como mera matéria defensiva e assumir como premissa legítima a possibilidade de reconhecimento do vínculo empregatício. Trata-se de antecipação indevida da invalidação de contrato civil lícito, em afronta direta ao entendimento fixado na ADPF 324, que reconhece a constitucionalidade de modelos alternativos de organização do trabalho, inclusive na atividade-fim.” (eDOC 1, pp. 9/13)
+
+Ao final, requer a concessão de medida liminar para suspender o trâmite processual na origem e, no mérito, seja julgada procedente a reclamação para cassar o ato reclamado e “reconhecer a validade do contrato de prestação de serviços de corretagem de imóveis indicado nesses autos, julgando-se, por fim, improcedente aquela ação trabalhista”. (eDOC 1, p. 30)
+Subsidiariamente, postula, a suspensão imediata do processo trabalhista de origem, com base no Tema 1389 da repercussão geral, até a decisão final da controvérsia constitucional.
+É o relatório.
+Decido.
+Registre-se que o Supremo Tribunal Federal, no julgamento do ARE-RG 1.532.603, de minha relatoria (Tema 1.389), reconheceu a repercussão geral das seguintes questões: 1) competência da Justiça do Trabalho para julgar as causas em que se discute a fraude no contrato civil de prestação de serviços; 2) licitude da contratação de trabalhador autônomo ou pessoa jurídica para a prestação de serviços, à luz do entendimento firmado pelo STF no julgamento da ADPF 324, que reconheceu a validade constitucional de diferentes formas de divisão do trabalho e a liberdade de organização produtiva dos cidadãos; e 3) ônus da prova relacionado à alegação de fraude na contratação civil, averiguando se essa responsabilidade recai sobre o autor da reclamação trabalhista ou sobre a empresa contratante.
+Na sequência, determinei a suspensão nacional da tramitação de todos os processos que tratem das questões mencionadas no Tema 1.389 da repercussão geral, até julgamento definitivo do recurso extraordinário, com fundamento no art. 1.035, § 5º, do CPC, nos seguintes termos:
+
+“Conforme disposto no art. 1.035, § 5º, do CPC, ‘Reconhecida a repercussão geral, o relator no Supremo Tribunal Federal determinará a suspensão do processamento de todos os processos pendentes, individuais ou coletivos, que versem sobre a questão e tramitem no território nacional’.
+Cumpre registrar que essa Corte, no julgamento do RE 966.177, Rel. Min. Luiz Fux, DJe 1.2.2019, assentou que a suspensão nacional ‘não consiste em consequência automática e necessária do reconhecimento da repercussão geral realizada com fulcro no caput do mesmo dispositivo, sendo da discricionariedade do relator do recurso extraordinário paradigma determiná-la ou modulá-la’.
+(...)
+Desse modo, a suspensão nacional dos processos, quando reconhecida a repercussão geral da matéria, se trata de faculdade reservada ao relator, que deverá verificar a necessidade e a adequação da medida.
+Vejamos.
+No caso dos autos, está em discussão: 1) a competência da Justiça do Trabalho para julgar as causas em que se discute a fraude no contrato civil de prestação de serviços; 2) a licitude da contratação de trabalhador autônomo ou pessoa jurídica para a prestação de serviços, à luz do entendimento firmado pelo STF no julgamento da ADPF 324, que reconheceu a validade constitucional de diferentes formas de divisão do trabalho e a liberdade de organização produtiva dos cidadãos; e 3) a questão referente ao ônus da prova relacionado à alegação de fraude na contratação civil, averiguando se essa responsabilidade recai sobre o autor da reclamação trabalhista ou sobre a empresa contratante.
+A controvérsia sobre esses temas tem gerado um aumento expressivo do volume de processos que tem chegado ao STF, especialmente por intermédio de reclamações constitucionais.
+Como já destaquei na manifestação sobre a existência de repercussão geral, parcela significativa das reclamações em tramitação nesta Corte foram ajuizadas contra decisões da Justiça do Trabalho que, em maior ou menor grau, restringiam a liberdade de organização produtiva. Esse fato se deve, em grande parte, à reiterada recusa da Justiça trabalhista em aplicar a orientação desta Suprema Corte sobre o tema.
+Conforme evidenciado, o descumprimento sistemático da orientação do Supremo Tribunal Federal pela Justiça do Trabalho tem contribuído para um cenário de grande insegurança jurídica, resultando na multiplicação de demandas que chegam ao STF, transformando-o, na prática, em instância revisora de decisões trabalhistas.
+Essa situação não apenas sobrecarrega o Tribunal, mas também perpetua a incerteza entre as partes envolvidas, afetando diretamente a estabilidade do ordenamento jurídico.
+Feitas essas considerações, entendo necessária e adequada a aplicação do disposto no art. 1.035, § 5º, do CPC, ao caso dos autos, para suspender o processamento de todas as ações que tramitem no território nacional e versem sobre os assuntos discutidos nestes autos.
+Entendo que essa medida impedirá a multiplicação de decisões divergentes sobre a matéria, privilegiando o princípio da segurança jurídica e desafogando o STF, permitindo que este cumpra seu papel constitucional e aborde outras questões relevantes para a sociedade.
+Ante o exposto, determino a suspensão nacional da tramitação de todos os processos que tratem das questões mencionadas nos presentes autos, relacionadas ao Tema 1.389 da repercussão geral, até julgamento definitivo do recurso extraordinário”.
+
+Como visto, a medida se deu para impedir a multiplicação de decisões divergentes sobre a matéria, privilegiando o princípio da segurança jurídica.
+No caso dos autos, verifica-se que a controvérsia se refere à existência de fraude em contrato de corretagem firmado entre as partes, visando ao consequente reconhecimento de vínculo empregatício, matéria abrangida pelo Tema 1.389.
+Todavia, o Tribunal reclamado afastou a incidência do referido precedente paradigma ao reconhecer a competência material da Justiça do Trabalho, sem que determinar o sobrestamento do feito. Confira-se, pois, trecho do julgado:
+
+“O MM. Juízo de origem declarou a incompetência material desta Justiça Especializada para processar e julgar a presente ação ’por se tratar de relação jurídica de representação comercial típica’ (Id. 12f7a48, fl. 277), determinando a remessa dos autos à Justiça Comum Estadual para processamento e julgamento do pedido formulado pela reclamante, contra o que ela se rebela.
+Merece reforma a sentença.
+A atenta leitura da petição inicial descortina que a autora, declinando na causa de pedir ter prestado serviços para a reclamada na forma prevista e com os elementos delineados no artigo 3º da CLT - ou seja, de modo contínuo e não-eventual, mediante pessoalidade, onerosidade, alteridade e subordinação jurídica-, deduz pedido de natureza declaratória da existência de contrato individual de emprego no período, cumulado com pedidos de natureza condenatória de pagamento das obrigações derivadas dessa típica relação jurídica. A declaração judicial do vínculo de emprego é, portanto, o antecedente lógico do acolhimento dos demais pedidos de cunho condenatório.
+(...)
+A narrativa da peça de ingresso conduz à existência, em tese, de elementos de fato que podem conduzir à caracterização de fraude aos preceitos da CLT. Ao postular a declaração judicial da natureza empregatícia da relação, invocou a autora o art. 9º da Consolidação das Leis do Trabalho, que desde 1943 ostenta a seguinte redação: ’Serão nulos de pleno direito os atos praticados com o objetivo de desvirtuar, impedir ou fraudar a aplicação dos preceitos contidos na presente Consolidação’.
+Como se vê, a causa de pedir e o pedido não se conectam com suposta ilegalidade ou irregularidade de contrato de prestação de serviços firmado entre pessoas jurídicas, mas adotam como ponto de partida a sua nulidade, na perspectiva da fraude. E isso porque, no bojo da narrativa da profissional, fora ela compelida a constituir sociedade empresária para, de modo disfarçado, dissimulado, fantasiado ou mascarado, atuar como se empregada fosse. Ou seja, havendo um contrato formal de parceria para a realização de serviços, o reconhecimento, em tese, do vínculo empregatício, pressupõe o decreto da nulidade do negócio jurídico firmado, com amparo no retrocitado dispositivo celetista.
+(...)
+Pelo exposto, dou provimento ao recurso para, reconhecendo a competência material da Justiça do Trabalho para a apreciação do feito, nos exatos termos do artigo 114, inciso I, da Constituição da República, determinar o retorno dos autos ao MM. Juízo de origem para o prosseguimento e julgamento de mérito, como entender de direito.” (eDOC 9, ID: 16d83f0d)
+
+Nesses termos, verifica-se que o ato reclamado deixou de observar a determinação de suspensão nacional proferida no Tema 1389 da repercussão geral.
+Ante o exposto, julgo parcialmente procedente a reclamação para determinar a suspensão do Processo n. 0010743-17.2024.5.15.0089, até julgamento do mérito do Tema 1.389 da repercussão geral.
+
+Publique-se. Comunique-se.
+Brasília, 8 de abril de 2026.
+
+Ministro GILMAR MENDES
+Relator
+Documento assinado digitalmente
