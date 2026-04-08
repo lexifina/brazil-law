@@ -1,0 +1,39 @@
+DECISÃO
+LUCAS IVAN DE SOUSA alega ser vítima de coação ilegal em decorrência de acórdão proferido pelo Tribunal de Justiça do Estado do Paraná no HC n. 0109911-52.2025.8.16.0000.
+A defesa sustenta que não estão presentes os requisitos dos arts. 312 e 313 do CPP para justificar a custódia cautelar. Afirma que o decreto prisional não tem fundamentação concreta e está assentado na gravidade abstrata do crime. Sustenta, ainda a desproporcionalidade da prisão e a suficiência de medidas cautelares alternativas.
+Requer a revogação da prisão preventiva, ainda que mediante imposição de cautelares diversas.
+O Ministério Público Federal opinou pelo não conhecimento da ordem.
+Decido.
+O Juízo de primeira instância decretou a custódia cautelar do acusado pela prática de tráfico de drogas , com base nos motivos a seguir (informações extraídas do sítio eletrônico do tribunal de origem):
+ ..
+No caso, ainda que os flagranteados sejam tecnicamente primários, as circunstâncias do caso concreto revelam especial periculosidade.
+Foram encontrados três tipos diferentes de drogas - cocaína, maconha e crack - a quantidades significativas - 138 pedras de crak e mais de três quilogramas de maconha - quantias muita acima das apreensões costumeiras sugerindo intensa traficância.
+Anota-se ainda apreensão do caderno que segundo os policiais possuía anotações de operações realizadas anteriormente revelando a reiteração delituosa.
+Deve anotar ainda a existência do buraco nos fundos da residência, confirmando-se mais uma vez o grande volume de drogas movimentado, bem como especialização na atuação com vistas a ocultação das drogas, o que reforça o risco de reiteração.
+Dada a gravidade revelada no caso concreto bem como a existência de sérios indícios de reiteração, impõe-se o decreto de prisão.
+ ..
+O Tribunal de origem manteve a medida constritiva pelos seguintes argumentos (fls. 24-30):
+ ..
+Como se observa, a decisão atacada justificou as razões pelas quais, no presente caso, a segregação cautelar mostra-se como a medida mais adequada para garantir a ordem pública, diante da do crimegravidade concreta supostamente praticado pelo paciente, evidenciada pela apreensão de , 3,361 kg de maconha 198 porções de , , além de outros utensílios relacionados ao comércio de drogas, conforme auto decrack 7 porções de cocaína exibição e apreensão de no mov. 1.3.
+Os elementos constantes dos autos indicam que uma equipe da Polícia Militar recebeu denúncias sobre a ocorrência de tráfico de drogas na Rua Zamberlan, em frente ao número 380, Parque Residencial Ana Rosa, na cidade de Cambé/PR. Por essa razão, foi acionado o Serviço Reservado da Polícia Militar, que se deslocou até o endereço para realizar diligências veladas. Na ocasião, os policiais avistaram um indivíduo saindo da residência para atender duas pessoas.
+Diante da fundada suspeita, uma equipe da Rádio Patrulha realizou a abordagem dos indivíduos, sendo um deles identificado como morador da residência, Antônio Eduardo Gonçalves Leite. Nada de ilícito foi encontrado com os abordados. Neste momento, os policiais indagaram sobre as denúncias de tráfico no local, ocasião em que Antônio informou residir com seu primo, Lucas Ivan de Sousa - ora paciente, autorizando a entrada da equipe e a realização de buscas, conforme documento de consentimento para busca domiciliar constante no mov. 1.24.
+Durante as buscas na residência, a equipe concentrou-se no quarto do paciente, que não se encontrava no local naquele momento. Nesse cômodo, foram localizadas as drogas mencionadas, além de uma balança de precisão, um caderno com anotações referentes ao tráfico de drogas, um prato e uma faca com resquícios de substâncias entorpecentes, a quantia de R$ 216,00 em notas trocadas e R$ 413,00 em moedas, tudo indicando a prática do comércio ilícito de drogas.
+Aproximadamente duas horas depois, outra equipe da Polícia Militar, em patrulhamento, visualizou o paciente em frente à residência mencionada, acompanhado de sua genitora. Ao avistarem a viatura, ambos demonstraram nervosismo, momento em que a mãe do paciente colocou a mão no bolso da calça dele, retirando diversas cédulas de dinheiro e jogando-as ao solo, o que despertou a suspeita da equipe.
+Os policiais realizaram a abordagem do paciente e, em revista pessoal, localizaram em seu bolso mais entorpecentes, além da quantia de R$ 776,00 em notas trocadas, razão pela qual o denunciado foi preso em flagrante delito.
+Diante desse cenário, restou devidamente comprovado o periculum libertatis, pois as circunstâncias fáticas acima descritas - sobretudo pela expressiva variedade e quantidade de entorpecentes apreendidos, além do modus operandi, indicam a gravidade em concreto da conduta e permitem a manutenção da prisão preventiva.
+A prisão preventiva é compatível com a presunção de não culpabilidade do acusado desde que não assuma natureza de antecipação da pena e não decorra, automaticamente, do caráter abstrato do crime ou do ato processual praticado (art. 313, § 2º, CPP). Além disso, a decisão judicial deve apoiar-se em motivos e fundamentos concretos, relativos a fatos novos ou contemporâneos, dos quais se possa extrair o perigo que a liberdade plena do investigado ou réu representa para os meios ou os fins do processo penal (arts. 312 e 315 do CPP).
+No caso, o decreto prisional está devidamente fundamentado, pois indicou a gravidade da conduta, extraída da apreensão de 3,361 kg de maconha 198 porções de crack, 7 porções de cocaína, além de outros utensílios relacionados ao comércio de drogas.
+O STJ é firme ao afirmar que, nas situações em que a quantidade e/ou a natureza dos entorpecentes e outras circunstâncias do caso revelem a maior reprovabilidade da conduta investigada, tais dados são bastantes para demonstrar a gravidade concreta do delito e denotam a necessidade de se acautelar a ordem pública.
+Nessa perspectiva: "é idônea a motivação invocada pela Juízo de primeiro grau para embasar a ordem de prisão do paciente, porquanto evidenciou a gravidade em concreto da conduta praticada, consideradas a quantidade e a natureza do entorpecente apreendido" (HC n. 527.088/PR, Rel. Ministro Rogerio Schietti, 6ª T., DJe 19/9/2019).
+Menciono também:
+ ..
+1. A periculosidade do agente, ao ser preso com expressiva quantidade de droga, mais de 1 kg de maconha, constitui fundamentação idônea para a garantia da ordem pública.
+2. A desproporcionalidade da prisão preventiva em relação ao provável regime prisional não pode ser aferida antes da dosimetria da pena, incabível, portanto, sua antecipação na via eleita.
+3. Presentes fundamentos concretos para justificar a custódia cautelar, não se revela cabível a aplicação de medidas cautelares alternativas à prisão.
+4. Agravo regimental improvido.
+(AgRg no HC n. 633.326/MG, Rel. Ministro Olindo Menezes (Desembargador convocado do TRF 1ª Região), 6ª T., DJe 7/5/2021, grifei)
+Em razão da gravidade do crime e das indicadas circunstâncias do fato, as medidas cautelares alternativas à prisão não se mostram adequadas e suficientes para evitar a prática de novas infrações penais. Nesse sentido: "as circunstâncias que envolvem o fato demonstram que outras medidas previstas no art. 319 do Código de Processo Penal são insuficientes para a consecução do efeito almejado. Ou seja, tendo sido exposta de forma fundamentada e concreta a necessidade da prisão, revela-se incabível sua substituição por outras medidas cautelares mais brandas" (AgRg no HC n. 789.592/SP, Rel. Ministro Reynaldo Soares da Fonseca, 5ª T., DJe 27/2/2023).
+Ressalto, por fim, que "Eventuais condições pessoais favoráveis não têm o condão de, por si sós, garantir a revogação da prisão preventiva" (AgRg no HC n. 582.182/RS, Rel. Ministro Sebastião Reis Júnior, 6ª T., DJe 21/8/2020).
+À vista do exposto, denego a ordem.
+Publique-se e intimem-se.
+EMENTA
