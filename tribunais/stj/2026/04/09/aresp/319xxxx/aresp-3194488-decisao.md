@@ -1,0 +1,15 @@
+DECISÃO
+Trata-se agravo interposto por JOSE RIBAMAR DO NASCIMENTO SOUSA contra decisão que inadmitiu o recurso especial interposto contra acórdão do Tribunal de Justiça do Distrito Federal e Territórios.
+O Presidente do Tribunal a quo negou seguimento ao recurso especial no termo do art. 1.030, I, "b", do CPC - Tema 190 do Superior Tribunal de Justiça - e, quanto às demais questões, não admitiu o recurso por incidência do óbice contido na Súmula 7 do STJ.
+Contraminuta, manifestou-se o Ministério Público Federal pelo não conhecimento do agravo.
+É o relatório. Decido.
+Não merece conhecimento o agravo.
+De início, destaca-se que, nos termos do § 2º do art. 1.030 do CPC, contra a decisão monocrática do presidente ou vice-presidente do tribunal recorrido que nega seguimento a recurso especial interposto contra acórdão sintonizado com entendimento fixado por Corte Superior em regime de julgamento de recursos repetitivos, cabe a interposição de agravo interno.
+No caso, a interposição de agravo em recurso especial, no lugar do agravo interno, configura hipótese de erro grosseiro, que inviabiliza a aplicação do princípio da fungibilidade recursal.
+Com efeito, é manifestamente inadmissível o agravo em recurso especial interposto contra decisão que nega seguimento a recurso especial, por estar o acórdão recorrido em consonância com entendimento exarado no regime de julgamento de recursos repetitivos (art. 1.042 do CPC/2015)(AgRg no AREsp n. 1.898.696/SP, Relator Ministro JESUÍNO RISSATO (Desembargador Convocado do TJDFT), Quinta Turma, julgado em 5/10/2021, DJe de 13/10/2021).
+No tocante à incidência da Súmula 7 do STJ, o agravante, nas razões do presente inconformismo, não impugnou o referido fundamento.
+Como cediço, A ausência de impugnação de todos os fundamentos da decisão que inadmitiu o recurso especial, ônus da parte recorrente, obsta o conhecimento do agravo, nos termos do art. 932, III, CPC/2015, art. 253, parágrafo único, I, do RISTJ, e da Súmula n. 182 do STJ, aplicável por analogia (AgRg no REsp n. 1.939.745/DF, Relator Ministro OLINDO MENEZES (Desembargador Convocado do TRF 1ª Região), Sexta Turma, julgado em 17/5/2022, DJe de 20/5/2022).
+No mesmo sentido, A decisão que inadmite o recurso especial na origem não é formada por capítulos autônomos, mas por um único dispositivo, razão pela qual deve ser impugnada na sua integralidade, ou seja, em todos os seus fundamentos (EAREsp n. 831.326/SP, Relator p/ acórdão Ministro LUIS FELIPE SALOMÃO, Corte Especial, DJe 30/11/2018), inclusive de forma específica, suficiente e pormenorizada (AgRg no AREsp n. 1.234.909/SP, Ministro REYNALDO SOARES DA FONSECA, Quinta Turma, DJe 2/4/2018 (AgRg no AREsp n. 1.943.977/MS, Relator Ministro SEBASTIÃO REIS JÚNIOR, Sexta Turma, julgado em 10/5/2022, DJe de 17/5/2022.)
+Ante o exposto, não conheço do agravo em recurso especial.
+Intimem-se.
+EMENTA
