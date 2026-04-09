@@ -1,0 +1,12 @@
+DECISÃO
+Cuida-se de Agravo interposto por UNIMED-RIO COOPERATIVA DE TRABALHO MÉDICO DO RIO DE JANEIRO LTDA, à decisão que inadmitiu Recurso Especial com fundamento no art. 105, III, da Constituição Federal.
+É o relatório.
+Decido.
+Por meio da análise do recurso de UNIMED-RIO COOPERATIVA DE TRABALHO MÉDICO DO RIO DE JANEIRO LTDA, verifica-se que a parte recorrente deixou de indicar precisamente os dispositivos legais federais que teriam sido violados ou quais dispositivos legais seriam objeto de dissídio interpretativo, trazendo apenas alegação de violação ou interpretação divergente de ato normativo secundário, que não está compreendido no conceito de lei federal.
+O STJ já decidiu que não é cabível o Recurso Especial quando se busca analisar a violação ou a interpretação divergente de norma diversa de tratado ou lei federal.
+Confiram-se ainda os seguintes precedentes: AgInt no AREsp n. 1.565.020/RJ, Rel. Ministro Moura Ribeiro, Terceira Turma, DJe de 14.8.2020; AgInt no REsp n. 1.832.794/RO, Rel. Ministra Regina Helena Costa, Primeira Turma, DJe de 27.11.2019; AgInt no AREsp n. 1.425.911/MG, Rel. ;Ministro Luis Felipe Salomão, Quarta Turma, DJe de 15.10.2019; AgInt no REsp n. 1.864.804/SP, Rel. Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 7.6.2021.
+Caso exista nos autos prévia fixação de honorários advocatícios pelas instâncias de origem, determino sua majoração em desfavor da parte recorrente, no importe de 15% sobre o valor já arbitrado, nos termos do art. 85, § 11, do Código de Processo Civil, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão da gratuidade da justiça.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, não conheço do recurso.
+Publique-se.
+Intimem-se.
+ EMENTA
