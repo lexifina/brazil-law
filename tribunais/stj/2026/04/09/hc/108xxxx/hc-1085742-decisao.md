@@ -1,0 +1,16 @@
+DECISÃO
+Trata-se de habeas corpus ajuizado em benefício de CARLOS EDUARDO ROSA RUIZ LOPES - condenado pelos crimes dos arts. 146, § 1º, e 158, § 1º, do Código Penal, em continuidade delitiva por cinco vezes, às penas de 9 anos, 8 meses e 4 dias de reclusão e 8 meses e 4 dias de detenção, nos regimes iniciais fechado e semiaberto, respectivamente - em que a defesa aponta como autoridade coatora o Tribunal de Justiça do Estado de São Paulo, que, em 28/3/2023, negou provimento à Apelação Criminal n. 0007438-89.2014.8.26.0292 (fls. 8/17).
+O impetrante alega prescrição retroativa do delito de constrangimento ilegal, à luz do art. 109, VI, do Código Penal, porque a pena concreta de 8 meses e 4 dias é inferior a 1 ano, a denúncia somente foi oferecida em julho de 2019 e não houve marco interruptivo, razão pela qual a prescrição teria ocorrido em julho de 2016, matéria de ordem pública reconhecível a qualquer tempo, inclusive após o trânsito em julgado.
+Argumenta que há prejuízo concreto decorrente da manutenção do capítulo condenatório relativo ao constrangimento ilegal, por influenciar diretamente o cálculo de progressão de regime, afetando o direito de ir e vir do paciente.
+Pede, assim, a declaração da prescrição do delito de constrangimento ilegal, com a consequente redução do período de 8 meses e 4 dias da pena total imposta ao paciente.
+É o relatório.
+Diz a jurisprudência desta Corte que não se deve conhecer do writ que se volta contra acórdão já transitado em julgado, manejado como substitutivo de revisão criminal, em hipótese em que não há, no âmbito do Superior Tribunal de Justiça, julgamento de mérito passível de revisão criminal em relação a essa condenação (por exemplo, AgRg no HC n. 885.105/SP, Ministro Messod Azulay Neto, Quinta Turma, DJe 19/9/2024).
+Ademais, quanto ao pleito de reconhecimento da prescrição, observo que o acórdão aqui impugnado não se manifestou a respeito. Assim, a análise da alegação importaria indevida supressão de instância.
+Não é possível que a defesa, não tendo alegado a ocorrência da prescrição perante as instâncias ordinárias, venha diretamente ao STJ buscando que tal questão seja decidida.
+Ora, admitir a análise direta por esta Corte de eventual ilegalidade não submetida ao crivo do Tribunal de origem denotaria patente desprestígio às instâncias ordinárias e inequívoco intento de desvirtuamento do ordenamento recursal ordinário, o que efetivamente tem se buscado coibir (AgRg no HC n. 818.673/SC, Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe 29/5/2023).
+Tampouco o Supremo Tribunal Federal admite o habeas corpus nessa circunstância de ausência de pronunciamento judicial conclusivo pela Corte a quo quanto à tese defensiva suscitada apenas no writ. A propósito: HC n. 235.221-AgR, Ministro Cristiano Zanin, Primeira Turma, DJe 9/2/2024; HC n. 236.138-AgR, Ministro Alexandre de Moraes, Primeira Turma, DJe 22/2/2024; e RHC n. 230.594-AgR, Ministro Nunes Marques, Segunda Turma, DJe 23/2/2024.
+Pelo exposto, indefiro liminarmente a petição inicial (art. 210 do RISTJ).
+Publique-se.
+EMENTA
+HABEAS CORPUS SUBSTITUTIVO DE REVISÃO CRIMINAL. FALTA DE CABIMENTO. CRIMES DE CONSTRANGIMENTO ILEGAL E EXTORSÃO. PRESCRIÇÃO RETROATIVA QUANTO AO PRIMEIRO DELITO. DUPLA SUPRESSÃO DE INSTÂNCIA. INADMISSIBILIDADE. PRECEDENTES.
+Petição inicial indeferida liminarmente.
