@@ -1,0 +1,50 @@
+DECISÃO
+ANDERSON MADUREIRA NAHUM interpõe recurso especial, fundado no art. 105, III, "a", da Constituição Federal, contra acórdão proferido pelo Tribunal de Justiça do Estado do Pará na Apelação Criminal n. 0004164-50.2010.8.14.0015.
+O ora agravante foi condenado à pena de 5 anos de reclusão, em regime inicial semiaberto, mais multa, como incurso no art. 33, caput, da Lei n. 11.343/2006.
+Em suas razões, a defesa suscita contrariedade ao art. 33, § 4º, da Lei n. 11.343/2006, ao argumento de que "não pode uma condenação POSTERIOR ser utilizada para afastar benefício legal no processo em que o réu era primário à época dos fatos" (fl. 504).
+Postula, dessa forma, a aplicação da minorante.
+Apresentadas as contrarrazões (fls. 507-518) e admitido o recurso (fls. 520-524), o Ministério Público Federal manifestou-se pelo provimento do recurso especial, "a fim de que incida sobre a pena do recorrente a minorante do tráfico privilegiado" (fl. 545).
+Decido.
+O agravo é tempestivo e preencheu os requisitos de admissibilidade. Passo ao exame do recurso especial.
+Ao afastar a incidência da minorante, o Juiz sentenciante assim fundamentou (fl. 382, grifei):
+O réu não faz jus à diminuição de pena prevista no §4º, do artigo 33, da Lei n. 11.343/06, visto que ostenta antecedentes que indicam sua inclinação para o cometimento de delitos.
+ ..
+O denunciado foi condenado com trânsito em julgado nos autos do processo 0001926-41.2011.814.0015 por crime da mesma natureza.
+Todavia, quando da realização da dosimetria da pena, destacou o Magistrado que "O denunciado não possui antecedentes. A condenação com trânsito em julgado do denunciado nos autos 0001926-41.2011.814.0015 se refere a fato posterior ao apurado nestes autos" (fl. 383, grifei).
+Irresignada, a defesa recorreu. O Tribunal a quo negou provimento ao apelo, ocasião em que consignou que "o apelante possui condenação com trânsito em julgado nos autos do processo 0001926-41.2011.814.0015 por crime da mesma natureza, revelando-se fundamento idôneo para deixar de reconhecer a referida causa de diminuição" (fl. 495).
+Como visto, as instâncias ordinárias, embora hajam reconhecido expressamente a primariedade do agravante, negaram a aplicação do redutor com base no registro de uma condenação, pela prática de crime de mesma natureza.
+Pela leitura da denúncia, vê-se que a conduta criminosa apurada nestes autos data de 8/7/2010 (fl. 378).
+Contudo, o Juiz de primeiro grau afirmou que o registro descrito para negar a incidência do redutor trata de fato ocorrido após a conduta ilícita apurada neste feito.
+Sobre a matéria posta em discussão, cumpre destacar que a razão de ser da causa especial de diminuição de pena prevista no art. 33, § 4º, da Lei n. 11.343/2006 é justamente punir com menor rigor o pequeno traficante, ou seja, aquele indivíduo que não faz do tráfico de drogas o seu meio de vida; antes, ao cometer um fato isolado, acaba incidindo na conduta típica prevista no art. 33 da mencionada lei federal.
+A propósito, confira-se o seguinte trecho de voto deste Superior Tribunal: "Como é cediço, o legislador, ao instituir o referido benefício legal, teve como objetivo conferir tratamento diferenciado aos pequenos e eventuais traficantes, não alcançando, assim, aqueles que fazem do tráfico de entorpecentes um meio de vida." (HC n. 437.178/SC, Rel. Ministro Ribeiro Dantas, 5ª T., DJe 11/6/2019).
+Por isso mesmo, para a aplicação da minorante em comento, é exigido, além da primariedade e dos bons antecedentes, que o acusado não integre organização criminosa e nem se dedique a atividades delituosas.
+Na hipótese, não está demonstrado que o réu se dedicava à atividade criminosa no momento em que praticada a conduta apurada neste feito.
+A conclusão das instâncias ordinárias - utilização de condenações por fatos posteriores aos que estão em apuração - destoa da jurisprudência desta Corte Superior, firme ao asseverar que "a negativa da minorante do tráfico privilegiado com fundamento em condenação por fato posterior ao objeto do processo constitui flagrante violação ao art. 33, § 4º, da Lei 11.343/06" (AgRg no AgRg no AREsp n. 1.991.186/SC, relator Ministro Olindo Menezes (Desembargador Convocado do TRF 1ª REGIÃO), Sexta Turma, julgado em 28/6/2022, DJe de 1/7/2022, grifei).
+No mesmo sentido, confiram-se:
+ ..
+1. Inquéritos ou ações penais em curso, sem condenação definitiva, não constituem fundamentos idôneos para afastar ou modular a fração de diminuição de pena do tráfico privilegiado, sob pena de violação do princípio constitucional da presunção de inocência (RE n. 591.054/SC, submetido ao regime de repercussão geral). O mesmo entendimento se aplica às condenações transitadas em julgado relacionadas a fatos posteriores" (AgRg no REsp 1.891.998/SP, relator Ministro João Otávio de Noronha, Quinta Turma, julgado em 14/6/2022, DJe de 17/6/2022)." (AgRg no AREsp n. 2.107.531/GO, relatora Ministra Daniela Teixeira, Quinta Turma, julgado em 19/3/2024, DJe de 22/3/2024).
+2. Não é possível ignorar que, nos termos do art. 5º, LVII, da Constituição Federal, "ninguém será considerado culpado até o trânsito em julgado de sentença penal condenatória".
+3. Agravo regimental desprovido.
+(AgRg no AREsp n. 2.479.534/SC, relator Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), Sexta Turma, julgado em 20/8/2024, DJe de 23/8/2024)
+ ..
+2. Ações penais em curso não são suficientes para afastar a aplicação ou mesmo modular a minorante de tráfico de drogas.
+Precedentes.
+3. Outrossim, "condenações transitadas em julgado por fatos posteriores, não podem ser considerados como maus antecedentes, má conduta social ou personalidade desajustada, sob pena de malferir o princípio constitucional da presunção de não-culpabilidade. Exegese do enunciado 444 da Súmula deste STJ, verbis: "É vedada a utilização de inquéritos policiais e de ações penais em curso para agravar a pena-base". (AgRg no AREsp n. 894.405/SP, relatora Ministra Maria Thereza de Assis Moura, Sexta Turma, julgado em 24/5/2016, DJe de 13/6/2016.). Assim, também não se prestam tais condenações ao afastamento da benesse prevista na Lei de Drogas.
+4. Agravo regimental improvido.
+(AgRg no HC n. 866.362/AL, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 29/4/2024, DJe de 3/5/2024)
+ ..
+3. No tocante ao reconhecimento do tráfico privilegiado, este Superior Tribunal de Justiça, por ocasião do julgamento dos Recursos Especiais n. 1.977.027/PR e 1.977.180/PR, realizado em 10/08/2022, sob o rito dos recursos especiais repetitivos (Tema 1.139), firmou entendimento segundo o qual "É vedada a utilização de inquéritos e/ou ações penais em curso para impedir a aplicação do art. 33, § 4.º, da Lei n. 11.343/06"
+4. "Inquéritos ou ações penais em curso, sem condenação definitiva, não constituem fundamentos idôneos para afastar ou modular a fração de diminuição de pena do tráfico privilegiado, sob pena de violação do princípio constitucional da presunção de inocência (RE n. 591.054/SC, submetido ao regime de repercussão geral). O mesmo entendimento se aplica às condenações transitadas em julgado relacionadas a fatos posteriores" (AgRg no REsp 1.891.998/SP, relator Ministro João Otávio de Noronha, Quinta Turma, julgado em 14/6/2022, DJe de 17/6/2022).
+5. Agravo regimental não provido.
+(AgRg no AREsp n. 2.107.531/GO, relatora Ministra Daniela Teixeira, Quinta Turma, julgado em 19/3/2024, DJe de 22/3/2024)
+Consequentemente, à ausência de fundamento suficiente o bastante para justificar o afastamento da causa especial de diminuição prevista no § 4º do art. 33 da Lei n. 11.343/2006, deve o recurso ser provido, a fim de aplicar, em favor do acusado, o referido benefício.
+No que tange ao quantum de redução de pena, faço lembrar que tanto a Quinta quanto a Sexta Turmas deste Superior Tribunal firmaram o entendimento de que, considerando que o legislador não estabeleceu especificamente os parâmetros para a escolha da fração de redução de pena prevista no § 4º do art. 33 da Lei n. 11.343/2006, devem ser consideradas, para orientar o cálculo da minorante, as circunstâncias judiciais previstas no art. 59 do Código Penal, especialmente o disposto no art. 42 da Lei de Drogas.
+Considerando que não foi apreendida quantidade expressiva de drogas (22,260 g de cocaína e 10,420 g de maconha), entendo, dentro do livre convencimento motivado, ser adequada e suficiente a redução de pena no patamar máximo de 2/3.
+Como consectário da redução efetivada na pena do acusado, deve ser procedida nova dosimetria da pena.
+Na primeira fase, a pena foi estabelecida em 5 anos de reclusão e 500 dias-multa. Na segunda etapa, ausentes atenuantes e agravantes. Por último, diminuo a pena em 2/3 e torno a pena definitiva em 1 ano e 8 meses de reclusão e pagamento de 167 dias-multa.
+Assim, uma vez que ele foi condenado a pena bastante inferior a 4 anos, era tecnicamente primário ao tempo do delito e foi beneficiado com a minorante prevista no § 4º do art. 33 da Lei n. 11.343/2006, deve ser fixado o regime inicial aberto, nos termos do art. 33, § 2º, "c", e § 3º, do Código Penal.
+Da mesma forma, entendo que a favorabilidade das circunstâncias mencionadas evidencia que a substituição da pena se mostra medida socialmente recomendável, de acordo com o art. 44, III, do Código Penal, de maneira que deve a ser provido o recurso também para determinar a substituição da reprimenda privativa de liberdade por duas restritivas de direitos, as quais deverão ser estabelecidas pelo Juízo das Execuções Criminais, à luz das peculiaridades do caso concreto.
+À vista do exposto, dou provimento ao recurso especial, a fim de reconhecer a minorante prevista no art. 33, § 4º, da Lei n. 11.343/2006 e, por conseguinte, reduzir a reprimenda para 1 anos e 8 meses de reclusão e pagamento de 164 dias-multa, fixar o regime aberto e determinar a substituição da pena privativa de liberdade por duas restritivas de direitos, a serem escolhidas pelo Juízo das Execuções Criminais.
+Comunique-se, com urgência.
+Publique-se e intimem-se.
+EMENTA
