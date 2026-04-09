@@ -1,0 +1,44 @@
+DECISÃO
+Examina-se agravo em recurso especial interposto por ELIANA SANTOS COSTA GOMES contra decisão que inadmitiu recurso especial fundamentado nas alíneas "a" e "c" do permissivo constitucional.
+Agravo em recurso especial interposto em: 17/11/2025.
+Concluso ao gabinete em: 31/3/2026.
+Ação: de busca e apreensão ajuizada pela instituição bancária (agravada), em face da agravante, devido ao não pagamento das parcelas do automóvel objeto do contrato de alienação fiduciária firmado entre as partes
+Sentença: julgou procedente o pedido formulado pela agravada, para confirmar a liminar concedida, bem como para consolidar a propriedade exclusiva do autor e a posse plena sobre o veículo apreendido, ficando autorizada a venda extrajudicial. Julgou improcedente a reconvenção apresentada pela ré/agravante.
+Decisão monocrática: negou provimento à apelação da agravante.
+Acórdão: negou provimento ao agravo interno interposto pela agravante, nos termos da seguinte ementa:
+DIREITO PROCESSUAL CIVIL E CONTRATUAL. AGRAVO INTERNO. CÉDULA DE CRÉDITO BANCÁRIO. JUROS REMUNERATÓRIOS. CAPITALIZAÇÃO MENSAL. AUSÊNCIA DE ILEGALIDADE. MANUTENÇÃO DA DECISÃO MONOCRÁTICA.
+I. CASO EM EXAME Trata-se de agravo interno interposto contra decisão monocrática que negou provimento à apelação cível da autora em ação revisional cumulada com reconvenção, no curso de ação de busca e apreensão ajuizada por instituição financeira, tendo como objeto a validade da capitalização dos juros em contrato bancário.
+II. QUESTÃO EM DISCUSSÃO 2. A questão em discussão consiste em saber se a capitalização dos juros pactuada em contrato de Cédula de Crédito Bancário é válida, bem como se a decisão monocrática que reconheceu a regularidade da cobrança e manteve a procedência da ação de busca e apreensão deve ser reformada. Documento recebido eletronicamente da origem
+III. RAZÕES DE DECIDIR 3.a. A Cédula de Crédito Bancário possui disciplina própria (Lei nº 10.931/2004), permitindo expressamente a capitalização de juros, desde que pactuada. 3.b. O contrato acostado aos autos prevê, de forma clara, as taxas de juros anual e mensal, bem como a capitalização mensal, afastando alegação de prática abusiva ou onerosidade excessiva. 3.c. A capitalização diária mencionada nas cláusulas gerais não foi utilizada como método de cálculo da dívida, não havendo ilegalidade a ser sanada. 3.d. A alegação de danos morais por suposta apreensão irregular do veículo não foi objeto de impugnação na contestação nem analisada na sentença, configurando inovação recursal. 3.e. A mora restou comprovada e não foi afastada, o que legitima a busca e apreensão do bem. 3.f. O agravo interno não apresentou argumentos capazes de infirmar os fundamentos da decisão monocrática, limitando-se à repetição de alegações já apreciadas.
+IV. TESE 4. Tese de julgamento: "1. É válida a cláusula de capitalização mensal de juros em contrato de Cédula de Crédito Bancário, desde que expressamente pactuada. 2. A menção à capitalização diária nas cláusulas gerais, quando não utilizada no cálculo da dívida, não configura ilegalidade. 3. A mora do devedor autoriza a busca e apreensão do bem, sendo descabida a alegação de danos morais por sua apreensão quando não há prova de ilicitude. 4. A inovação recursal não pode ser conhecida em sede de agravo interno."
+V. NORMAS E PRECEDENTES CITADOS 5. Dispositivos relevantes citados: CPC/2015, arts. 1.021, 1.022; Lei nº 10.931/2004, arts. 26 e 28, § 1º. 6. Jurisprudência relevante citada: - TJGO, Agravo Interno no AI nº 5227871 17.2017.8.09.0000, Rel. Des. Jeová Sardinha de Moraes, 6ª Câmara Cível, DJ 04/04/2018. - STJ, REsp 1.058.114/RS (Tema 576), Rel. Min. Luis Felipe Salomão, DJe 10/03/2009. - STJ, REsp 1.505.276/MG (Tema 722), Rel. Min. Paulo de Tarso Sanseverino, DJe 24/06/2015.
+VI. DISPOSITIVO Agravo interno conhecido e desprovido.
+Embargos de Declaração: opostos pela agravante, foram rejeitados.
+Recurso especial: alega violação dos arts. 6º, III e 46, do CDC; art. 783, do CPC; art. 3º, § 6º, do Decreto-Lei 911/69; dos Temas 576 e 722, do STJ, além de divergência jurisprudencial. Aponta violação ao dever de informação, bem como a abusividade de cláusula contratual que prevê a cobrança de capitalização diária de juros remuneratórios.
+Defende a descaracterização da mora, devido a cobrança abusiva de encargos no período de normalidade do contrato. Afirma, ainda, que não se mostra devida a busca e apreensão do veículo objeto do contrato de alienação fiduciária.
+Requer, ao final, o provimento do recurso para: (i) declarar a abusividade da capitalização diária dos juros; a iliquidez do título e a descaracterização da mora; (ii) julgar improcedente a ação de busca e apreensão; (iii) em caso de alienação do veículo, converter a ação em perdas e danos com aplicação da multa de 50% (cinquenta por cento) sobre o valor atualizado do financiamento.
+RELATADO O PROCESSO, DECIDE-SE.
+- Do reexame de fatos e provas e da interpretação de cláusulas contratuais
+O TJ/GO ao dirimir a controvérsia, fundamentou o seguinte sobre a alegada irregularidade na cobrança da capitalização dos juros (e-STJ fl. 305-306):
+ ..  apesar de haver nas condições gerais do contrato a previsão de eventual capitalização diária dos juros, esta não fora utilizada como forma de cálculo, de modo que não há irregularidade contratual que impeça a constituição em mora da devedora, ora embargante.
+Assim, conforme se extrai dos autos, o contrato entabulado entre as partes se trata de Cédula de Crédito Bancário (mov. 01), que possui regramento próprio, dado pela Lei federal nº 10.931, de 02 de agosto de 2004.
+Nos termos definidos pelo artigo 26, da aludida lei, a Cédula de Crédito Bancário é "título de crédito emitido, por pessoa física ou jurídica, em favor de instituição financeira ou de entidade a esta equiparada, representando promessa de pagamento em dinheiro, decorrente de operação de crédito, de qualquer modalidade".
+ ..
+Nota-se, portanto, que o instrumento negocial objeto de revisão possui regulamentação específica, que prevê de forma expressa que os pactuantes podem estipular juros capitalizados.
+Pela análise da documentação acostada (mov. 01, doc. 06), é possível identificar que o contrato em análise prevê, expressamente, na cláusula F - Condições do Financiamento, a taxa de juros anual e mensal, de forma que este se encontra regular, atendendo à legislação de regência.
+ ..
+Assim, não há que se falar em abusividade contratual no período da normalidade capaz de afastar os efeitos da mora.
+Por consequência, não sendo afastados os efeitos da mora, a procedência da Ação de Busca e Apreensão é medida que se impõe, julgando-se improcedente a reconvenção pelos termos alinhavados, conforme decidido pelo magistrado singular e reiterado na Decisão Monocrática ora recorrida.
+Nesse contexto, alterar o decidido no acórdão impugnado, no que tange à existência da cobrança da capitalização diária de juros, exige o reexame de fatos e provas, bem como a interpretação de cláusulas contratuais, o que é vedado em recurso especial pelas Súmulas 5 e 7/STJ.
+- Da divergência jurisprudencial
+Além disso, a incidência da Súmula 7 desta Corte acerca do tema que se supõe divergente (cobrança de capitalização diária dos juros), impede o conhecimento da insurgência veiculada pela alínea "c" do art. 105, III, da Constituição da República. Isso porque, a de monstração da divergência não pode estar fundamentada em questões de fato, mas apenas na interpretação do dispositivo legal. Nesse sentido: AgInt no AREsp n. 1.974.371/RJ, Terceira Turma, DJe de 22/11/2023 e REsp n. 1.907.171/RJ, Quarta Turma, DJe de 11/1/2024.
+Forte nessas razões, CONHEÇO do agravo e, com fundamento no art. 932, III, do CPC, NÃO CONHEÇO do recurso especial.
+Nos termos do art. 85, § 11, do CPC, considerando o trabalho adicional imposto ao advogado da parte agravada em virtude da interposição deste recurso, majoro os honorários fixados anteriormente em 15% sobre o valor da causa (e-STJ fls. 261) para 18%, observada eventual concessão da gratuidade de justiça.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar sua condenação às penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO DE BUSCA E APREENSÃO. CAPITALIZAÇÃO DE JUROS. PREVISÃO CONTRATUAL EXPRESSA. REEXAME DE FATOS E PROVAS. SIMPLES INTERPRETAÇÃO DE CLÁUSULA CONTRATUAL. IMPOSSIBILIDADE. SÚMULAS 5 E 7/STJ. DISSÍDIO JURISPRUDENCIAL. PREJUDICADO
+1. Ação de busca e apreensão.
+2. O reexame de fatos e provas e a simples interpretação de cláusula contratual em recurso especial são inadmissíveis.
+3. A incidência da Súmula 7/STJ prejudica a análise do dissídio jurisprudencial pretendido. Precedentes desta Corte.
+4. Agravo conhecido. Recurso especial não conhecido.
