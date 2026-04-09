@@ -1,0 +1,28 @@
+DECISÃO
+THIAGO DE SANTANA SANTOS alega sofrer constrangimento ilegal em decorrência de acórdão proferido pelo Tribunal de Justiça do Estado da Bahia no Habeas Corpus n. 8009737-65.2026.8.05.0000.
+A defesa sustenta que a prisão preventiva foi mantida com base em fundamentos genéricos e sem demonstração concreta do periculum libertatis. Afirma que a quantidade de droga apreendida é pequena e desacompanhada de elementos robustos de traficância. Aduz, ainda, que a referência a "histórico criminal" é vaga e juridicamente inadequada para justificar a custódia. Alega ausência de contemporaneidade do risco e de análise individualizada das medidas cautelares diversas.
+Requer a concessão de liminar para revogar a prisão preventiva com a expedição de alvará de soltura, ainda que com imposição de cautelares alternativas, e, no mérito, o provimento do recurso ordinário para restaurar a liberdade do recorrente mediante medidas previstas no art. 319 do CPP.
+Decido.
+Infere-se dos autos que o insurgente foi preso em flagrante, em 7/2/2026, pela suposta prática dos delitos de tráfico de drogas , ao haver sido surpreendido na posse de 24,72 g de maconha, divididos em 29 porções, 15,9 g de cocaína em pó, em 11 porções, além de R$ 162,00 (cento e sessenta e dois reais).
+O Magistrado de origem homologou o flagrante e converteu a prisão em preventiva, em decisão assim fundamentada:
+ ..
+Quanto ao periculum libertatis, o Ministério Público e a Autoridade Policial fundamentam a necessidade da prisão na garantia da ordem pública, diante do risco considerável de reiteração de ações por parte do flagranteado.
+Conforme consultas aos sistemas deste Tribunal, o flagranteado THIAGO DE SANTANA SANTOS possui um histórico criminal que incluir diversas passagens e uma condenação anterior pelo crime de tráfico de drogas (Ação Penal Pública n. 8169563-32.2023.8.05.0001). Esse histórico evidencia a habitualidade delitiva e a real probabilidade de que, em liberdade, o autuado volte a cometer crimes de mesma natureza, o que justifica extrema para acautelar o meio social.
+ ..
+A gravidade concreta do delito, a quantidade e a natureza das substâncias apreendidas (maconha e cocaína) bem como a conduta do flagranteado ao supostamente utilizar uma criança como escudo durante a prisão, demonstram a periculosidade do agente e a insuficiência das medidas cautelares diversas da prisão para resguardar a ordem pública.
+ ..
+Ainda que os policiais tenham alegado resistência à prisão e o uso do filho menor como escudo, a ocorrência de lesões requer investigação para que se verifique a proporcionalidade e a legalidade da atuação policial, garantindo a lisura do processo e a proteção dos direitos fundamentais (fls. 27-28, grifei).
+O Tribunal de origem ratificou a decisão de primeiro grau (fls. 140-155).
+O recurso comporta pronta solução, por decisão monocrática, pois existe entendimento pacífico sobre o tema.
+Deveras, " o  avanço para julgamento in limine de questões pacificadas pelo colegiado, com lastro no art. 34, XVIII, "b", do RISTJ, está em consonância com o princípio da efetiva entrega da prestação jurisdicional e visa a otimizar o processo e seus atos, para viabilizar sua razoável duração e a concentração de esforços em lides não iterativas (AgRg no HC n. 659.494/SP, Rel. Ministro Rogerio Schietti, 6ª T., DJe 24/6/2021)" (AgRg no HC n. 736.796/SC, relator Min. Rogerio Schietti, 6ª T., DJe 16/5/2022).
+A jurisprudência desta Corte Superior é firme em assinalar que, para submeter alguém à prisão cautelar, é cogente a fundamentação concreta, sob as balizas do art. 312 do CPP.
+Apoiado nessas premissas, verifico que se mostram suficientes as razões invocadas nas instâncias de origem para embasar a ordem de prisão do acusado, porquanto contextualizaram, em dados dos autos, a necessidade cautelar de sua segregação.
+Com efeito, o Juízo singular apontou a presença dos vetores contidos no art. 312 do Código de Processo Penal, em especial a gravidade concreta da conduta, caracterizada pela quantidade drogas apreendidas ( 24,72 g de maconha, divididos em 29 porções, 15,9 g de cocaína em pó, em 11 porções, além de R$ 162,00 (cento e sessenta e dois reais) ), além de haver feito seu filho de escudo no ato da prisão. Ainda, ficou consignada a reiteração delitiva do paciente.
+Essas circunstâncias revelam a periculosidade do agente e o risco de reiteração delitiva, dada a aparente habitualidade da conduta, situação que, por si só, na linha da orientação que tem sido adotada por esta Corte, justifica a custódia cautelar.
+De fato, "A jurisprudência deste Tribunal Superior é firme em assinalar que a quantidade e a variedade de entorpecentes apreendidos, a participação de adolescente na empreitada e o fato de o paciente figurar no polo passivo de outra demanda criminal justificam a segregação cautelar, a despeito da sua primariedade, diante da gravidade concreta da conduta perpetrada e do fundado risco de reiteração delitiva" (AgRg no HC n. 782.464/SC, relator Ministro Rogerio Schietti Cruz, Sexta Turma, DJe de 9/3/2023).
+Concluo, então, haver sido demonstrada a exigência cautelar justificadora da manutenção da prisão preventiva do acusado.
+Por idênticos fundamentos (art. 282, I, do Código de Processo Penal), a adoção de medidas cautelares diversas não se prestaria a evitar o cometimento de novas infrações penais.
+A propósito: "Tendo sido exposta de forma fundamentada e concreta a necessidade da prisão, revela-se incabível sua substituição por outras medidas cautelares mais brandas" (HC n. 745.982/MS, relator Ministro Sebastião Reis Júnior, Sexta Turma, DJe de 22/9/2022).
+À vista do exposto, denego a ordem, in limine.
+Publique-se e intimem-se.
+EMENTA
