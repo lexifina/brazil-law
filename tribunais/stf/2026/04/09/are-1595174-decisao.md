@@ -1,0 +1,40 @@
+DECISÃO: Trata-se de agravo contra inadmissibilidade de recurso extraordinário em face de acórdão do Tribunal Regional Federal da 2ª Região (TRF2), cuja ementa transcrevo:
+
+“TRIBUTÁRIO. EMBARGOS À EXECUÇÃO FISCAL. APELAÇÃO CÍVEL E REEXAME NECESSÁRIO. UNIÃO FEDERAL. IPTU. IMUNIDADE TRIBUTÁRIA RECÍPROCA. BEM VINCULADO A SUAS FINALIDADES ESSENCIAIS. PRESUNÇÃO. AFASTAMENTO. MEDIANTE DEMONSTRAÇÃO DE DESTINAÇÃO DIVERSA DO BEM. SENTENÇA CONFIRMADA. NEGADO PROVIMENTO AO RECURSO DE APELAÇÃO E AO REEXAME NECESSÁRIO. MAJORAÇÃO DOS HONORÁRIOS ADVOCATÍCIOS EM 1%.. 1. Trata-se de reexame necessário e de recurso de apelação interposto pelo exequente/embargado, Município do Rio de Janeiro, em face da sentença proferida, nos autos dos embargos à execução em referência, a qual julgou procedente, em parte, o pedido autoral, para declarar nulas as cobranças pertinentes ao Imposto Predial Territorial Urbano – IPTU veiculadas na EF conexa. 2. O Município do Rio de Janeiro requer, em seu recurso, a reforma integral da sentença por entender, no caso de IPTU, que no caso a executada não pode se beneficiar da imunidade prevista no artigo 150, VI, "a", e § 2º, da CF, tendo em vista que o imóvel foi objeto de contrato de arrendamento, o que ensejaria o afastamento das “às finalidades essenciais” da entidade. 3. A Carta Magna, expressamente, estatui a impossibilidade de quaisquer dos entes políticos inovarem a ordem jurídica para tributar, mediante impostos, o patrimônio, a renda ou os serviços dos demais integrantes da Federação (art. 150, VI, “a” da CRFB). 4. No caso, a União tem a seu favor a presunção relativa de que o seu patrimônio, renda e serviços estão vinculados às suas finalidades essenciais, de modo que a mera alegação de que o imóvel não atenda “às finalidades essenciais” da entidade, desacompanhada de prova idônea, não tem o condão de ilidir tal presunção. "O C. STF entende que a imunidade constitucionalmente prevista pode ser afastada caso o imóvel tributado pelo IPTU se encontre dissociado das finalidades essenciais do ente público, desde que o Município demonstre que foi dada destinação diversa ao bem, de modo a afastar a benesse tributária" (TRF2, APELAÇÃO CÍVEL Nº 5026111-92.2022.4.02.5101, 3a. TURMA ESPECIALIZADA, Desembargador Federal MARCUS ABRAHAM, POR UNANIMIDADE, JUNTADO AOS AUTOS EM 13/10/2023). 5. Há de ser reconhecido, portanto, que a União goza de imunidade recíproca em relação à cobrança do IPTU, diante da presunção de que o imóvel, objeto da execução fiscal nº 5055611- 43.2021.4.02.5101, está vinculado às finalidades essenciais da entidade, cabendo ao ente municipal responsável por instituir o imposto afastá-la, o que não ocorreu no caso concreto. 6. Em que pese o bem público ter sido arrendado à pessoa jurídica de direito privado, não incide na hipótese o entendimento firmado no Tema n° 437 do STF, pois a arrendatária é pessoa jurídica de direito privado sem fins lucrativos. 7. Dessa forma, merece ser mantida a sentença de primeiro grau. Honorários majorados em 1%. 8. Negado provimento ao recurso de apelação do Município do Rio de Janeiro e ao reexame necessário”. (eDOC 27)
+
+No recurso extraordinário, interposto com fundamento no art. 102, III, a, da Constituição Federal, aponta-se a violação dos arts. 150, VI, a, § 2º, e § 3º, e 156, I, do texto constitucional.
+Nas razões recursais, alega-se, em síntese, a legitimidade da cobrança do IPTU, no caso concreto, pois o contribuinte não seria a União, mas sim uma pessoa jurídica de direito privado.
+Sustenta que o Tema 437 da Repercussão Geral é aplicável, porque, embora o imóvel tributado seja de propriedade da União, foi cedido ao Círculo Militar da Praia Vermelha, uma pessoa jurídica de direito privado, que funciona como um clube e não presta serviço público.
+Destaca que:
+
+“O Círculo Militar da Praia Vermelha é associação privada, típica do direito civil, voltada para lazer, desporto e integração entre militares e suas famílias. É vinculado à Escola de Comando do Estado Maior, mas não integra a estrutura da Adm. Pública”. (eDOC 1, p 8)
+
+Assevera que o possuidor a qualquer título é contribuinte do imposto, nos termos dos arts. 32 e 34 do Código Tributário Nacional.
+É o relatório.
+
+Decido.
+A pretensão recursal não merece prosperar.
+O TRF2 assim decidiu, ao reconhecer a incidência da imunidade recíproca, prevista no art. 150, VI, a, da Constituição Federal:
+
+“A execução fiscal correlata (n° 5055611-43.2021.4.02.5101) foi proposta pelo Município do Rio de Janeiro em face do devedor Círculo Militar da Praia Vermelha para a cobrança de créditos de IPTU e TCDL. O feito originariamente foi distribuído à Justiça estadual, que declinou da sua competência em favor da Justiça Federal Comum, em razão da União Federal ter afirmado que é a legítima proprietária e possuidora do imóvel que deu ensejo à cobrança do imposto/taxa, evento 1-dec54 daqueles autos.
+Já no evento 02, o MM. Juízo Federal da 2ª. Vara Federal de Execução Fiscal do Rio de Janeiro determinou a retificação da autuação para fazer constar como exequente Município do Rio de Janeiro e a União (Advocacia Geral da União) como executada e, em momento posterior foi determinada a citação da executada na forma do artigo 910 do CPC/2015.
+[...]
+A Carta Magna, expressamente, estatui a impossibilidade de quaisquer dos entes políticos inovarem a ordem jurídica para tributar, mediante impostos, o patrimônio, a renda ou os serviços dos demais integrantes da Federação (art. 150, VI, “a” da CRFB), estendendo tal imunidade às Autarquias e às Fundações instituídas e mantidas pelo Poder Público, no que se refere ao patrimônio, à renda e aos serviços, vinculados às suas finalidades essenciais ou às delas decorrentes (art. 150, §2° da CRFB).
+O tema em foco não apresenta qualquer traço de novidade, estando pacificado na jurisprudência do Excelso Pretório, como é exemplo o seguinte precedente:
+[...]
+No caso ora sob exame, sem razão a Apelante, uma vez que figura no polo passivo da execução fiscal conexa a União Federal. Logo, ela tem a seu favor a presunção relativa de que o seu patrimônio, renda e serviços estão vinculados às suas finalidades essenciais, de modo que a mera alegação de que o imóvel não atende “às finalidades essenciais” da entidade, desacompanhada de prova idônea, não tem o condão de ilidir tal presunção, como a propósito, em casos semelhantes envolvendo a mesma autarquia, já decidiu a 3ª Turma Especializada:
+[...]
+Assim, há de ser reconhecido que a União Federal goza de imunidade recíproca em relação à cobrança do IPTU, diante da presunção de que o imóvel, objeto da execução fiscal nº 5055611-43.2021.4.02.5101, se encontra vinculado às finalidades essenciais, cabendo ao ente municipal responsável por instituir o imposto afastá-la, o que não ocorreu no caso concreto.
+Por fim, em que pese o bem público objeto destes embargos ter sido arrendado à pessoa jurídica de direito privado (evento 1-anexo23 da execução fiscal conexa), não incide na hipótese o entendimento firmado no Tema n° 437 do STF, pois a arrendatária é pessoa jurídica de direito privado sem fins lucrativos, conforme evento 1- anexo25 da demanda executiva”. (eDOC 27 – grifei)
+
+Com efeito, divergir do entendimento firmado pelo Tribunal de origem, para aplicar o Tema 437 RG, afastar a imunidade recíproca que foi reconhecida e concluir pela legitimidade da incidência do IPTU, demandaria o reexame do acervo fático-probatório, providência inviável em sede de recurso extraordinário.
+Assim, incide, na espécie, a Súmula 279 do Supremo Tribunal Federal.
+Nesse sentido, cito a seguinte decisão: RE 1.577.009, Rel. Min. Luiz Fux, DJe 26.11.2025.
+Ante o exposto, nego seguimento ao recurso (art. 932, VIII, do CPC, c/c art. 21, §1º, do RISTF) e, tendo em vista o disposto no art. 85, § 11, do CPC, majoro, em 10%, o valor da verba honorária fixada anteriormente, observados os limites previstos nos §§ 2º e 3º do referido dispositivo, ressalvada a eventual concessão do benefício da justiça gratuita.
+
+Publique-se.
+Brasília, 9 de abril de 2026.
+
+Ministro GILMAR MENDES
+Relator
+Documento assinado digitalmente
