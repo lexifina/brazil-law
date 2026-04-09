@@ -1,0 +1,18 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido de liminar, impetrado em favor de GABRIEL LEOPOLDINO DA CONCEIÇÃO contra decisão de Desembargador do Tribunal de Justiça do Estado de São Paulo, Relator do HC n. º 2354601-72.2025.8.26.0000, que indeferiu a tutela de urgência lá impetrada e manteve a prisão cautelar do paciente pela suposta prática do delito tipificado no art. 33, caput, da Lei n. 11.343/2006.
+Nesta Corte, o impetrante alega, em suma, a incompatibilidade entre a fixação do regime semiaberto e a manutenção da custódia cautelar, razão pela qual requer a substituição da custódia preventiva por outras medidas alternativas.
+É o relatório.
+Decido.
+Nos termos da Súmula 691/STF, não cabe habeas corpus contra decisão que indefere pedido liminar, salvo em casos de flagrante ilegalidade ou teratologia da decisão impugnada (AgRg no HC 438.735/MA, Rel. Ministro FELIX FISCHER, QUINTA TURMA, julgado em 22/3/2018, DJe 27/3/2018; AgRg no HC 435.454/SP, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 20/3/2018, DJe 12/4/2018).
+Na hipótese, a Corte de origem indeferiu o pleito liminar por não verificar os requisitos autorizadores da medida de urgência, nos seguintes termos:
+Com efeito, a impetração cinge-se à alegada incompatibilidade entre o regime semiaberto, fixado na r. sentença proferida em 18 de setembro de 2025, e a manutenção da prisão preventiva do paciente.
+Ocorre que, em consulta aos sistemas de execução penal, verifica-se que o paciente já foi transferido, em 02 de outubro de 2025, ao Centro de Progressão Penitenciária de Campinas, estabelecimento prisional adequado e compatível com o regime semiaberto fixado no título condenatório.
+Dessa forma, o alegado constrangimento ilegal, consistente na permanência em regime mais gravoso que o determinado na sentença, a princípio, encontra-se superado, não se verificando, em cognição sumária, a urgência ou a flagrante ilegalidade da situação atual do paciente.
+ ..
+Ademais, cumpre registrar que a manutenção da segregação cautelar não se afigura, em tese, incompatível com a fixação do regime semiaberto, notadamente quando subsistem os fundamentos da prisão preventiva.
+A custódia cautelar não constitui antecipação de pena, mas sim medida processual voltada à garantia da ordem pública, à conveniência da instrução criminal ou à aplicação da lei penal. No caso em apreço, a r. sentença que negou ao paciente o direito de recorrer em liberdade o fez mediante fundamentação concreta, destacando a necessidade da custódia para a garantia da ordem pública, notadamente em razão da gravidade concreta do delito (apreensão de significativa quantidade e variedade de drogas, além de munições) e, principalmente, do elevado risco de reiteração delitiva, visto que o paciente praticou o novo crime enquanto gozava de benefício de liberdade provisória em outro processo por tráfico de drogas.
+Da leitura atenta da decisão impugnada, a reiterada habitualidade delitiva do agente é fundamento suficiente para a prisão cautelar, ainda que estabelecido o regime prisional semiaberto. "O STF admite que, em regra, a fixação do regime semiaberto afasta a prisão preventiva, mas ressalva hipóteses excepcionais em que a gravidade concreta da conduta ou o risco de reiteração delitiva justifiquem a segregação" (AgRg no HC n. 1.017.334/GO, relator Ministro Carlos Cini Marchionatti (Desembargador Convocado TJRS), Quinta Turma, julgado em 2/9/2025, DJEN de 8/9/2025).
+Assim, por ora, não se verifica a ocorrência de flagrante ilegalidade, de modo a justificar o processamento da presente ordem.
+Ante o exposto, indefiro liminarmente o habeas corpus, nos termos do art. 210 do STJ.
+Publique-se. Intime-se.
+EMENTA
