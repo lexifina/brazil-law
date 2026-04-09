@@ -1,0 +1,19 @@
+DECISÃO
+Trata-se de habeas corpus, impetrado em nome de VANTUIR CALIXTO - na execução de pena de 5 anos, 8 meses e 6 dias, em razão das condenações por furto e falsa identidade -, apontando como ato coator o acórdão proferido pelo Tribunal de Justiça de Santa Catarina, que conheceu e negou provimento ao agravo defensivo (fls. 55/59 - Agravo de Execução Penal n. 8000100-90.2026.8.24.0023).
+A impetração busca a concessão do indulto previsto no art. 9º, XV, do Decreto n. 12.338/2024, em relação às condenações por furto e falsa identidade, referentes à Execução n. 8002320-95.2025.8.24.0023, da Vara de Execuções Penais da comarca de Florianópolis/SC (fls. 18/19), sustentando que:
+a) o art. 9º, XV, do Decreto n. 12.338/2024 não exige lapso mínimo de cumprimento de pena, sendo indevida a inovação restritiva adotada pelo Tribunal (fls. 6/7);
+b) o art. 7º do Decreto n. 12.338/2024 (soma de penas) não cria requisito temporal e não impede o indulto do art. 9º, XV no caso concreto (fls. 6/7);
+c) inexistência, no art. 9º, XV, de exigência de exclusividade em crimes patrimoniais; vedação de interpretação restritiva in malam partem (fls. 6/8);
+d) aplicação da dispensa de reparação do dano nas hipóteses do art. 12, § 2º, do Decreto (incapacidade econômica presumida, assistência da Defensoria, inexistência de bens e renda) (fls. 2/3 e 7);
+e) ausência de faltas graves nos 12 meses anteriores ao marco do decreto (fl. 2); e
+f) a extinção da punibilidade por indulto, em concurso de crimes, incide isoladamente sobre cada pena (art. 119 do Código Penal) (fl. 8).
+Sem pedido liminar.
+É o relatório.
+O writ é inadmissível, uma vez que se trata de medida substitutiva de recurso próprio, o que afasta a competência desta Corte Superior para análise do pleito (AgRg no HC n. 978.148/SP, Ministro Og Fernandes, Sexta Turma, DJEN de 7/7/2025), e não se verifica a ocorrência de flagrante constrangimento ilegal apto a subsidiar a superação do óbice, porque:
+a) as alegações de aplicação da dispensa de reparação do dano nas hipóteses do art. 12, § 2º, do Decreto n. 12.338/2024, e de ausência de faltas graves nos 12 meses anteriores ao marco do decreto não podem ser conhecidas, pois não foram apreciadas pela Corte estadual no acórdão hostilizado, o que configuraria prestação jurisdicional em indevida supressão de instância (HC n. 964.852/SC, Ministro Antonio Saldanha Palheiro, Sexta Turma, DJEN de 10/12/2025); e
+b) o Tribunal, no julgamento do agravo de execução penal, afastou a alegação de que o art. 9º, XV, do Decreto n. 12.338/2024 não exige lapso mínimo, ao fundamento de que o art. 7º do decreto estabelece regra expressa de soma das penas para fins de indulto e comutação e, na data de 25/12/2025, o apenado havia cumprido apenas 19 dias, inexistindo requisito objetivo para a concessão (fls. 57/58), em consonância com o entendimento desta Corte Superior, segundo o qual o Decreto n. 12.338/2024 estabelece, em seu art. 7º, regra expressa e inequívoca: "Para fins da declaração do indulto e da comutação de pena, as penas correspondentes a infrações diversas deverão ser somadas até 25 de dezembro de 2024". Essa disposição difere substancialmente do Decreto n. 11.302/2022, que previa análise individualizada da pena máxima em abstrato de cada infração penal, conforme o parágrafo único do art. 5º (EDcl no AgRg no HC n. 1.005.970/SC, Ministro Rogerio Schietti Cruz, Sexta Turma, DJEN de 11/3/2026).
+Em razão disso, indefiro liminarmente a inicial (art. 210 do RISTJ).
+Publique-se.
+EMENTA
+EXECUÇÃO PENAL. HABEAS CORPUS. INDULTO. DECRETO N. 12.338/2024. ART. 9º, XV. INADMISSIBILIDADE DO WRIT COMO SUCEDÂNEO DE RECURSO PRÓPRIO. SUPRESSÃO DE INSTÂNCIA QUANTO À DISPENSA DE REPARAÇÃO DO DANO E À AUSÊNCIA DE FALTA GRAVE. REGRA DE SOMA DE PENAS DO ART. 7º DO DECRETO N. 12.338/2024. INEXISTÊNCIA DE REQUISITO OBJETIVO PARA INDULTO NO MARCO TEMPORAL. AUSÊNCIA DE FLAGRANTE CONSTRANGIMENTO ILEGAL.
+Inicial indeferida liminarmente.
