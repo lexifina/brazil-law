@@ -1,0 +1,49 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em benefício de SANDRO ISMAEL ALVES DA SIL VA, contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO GRANDE DO SUL no julgamento da Apelação Criminal n. 5004392-37.2025.8.21.0073/RS.
+Extrai-se dos autos que o paciente foi condenado à pena de 41 anos, 5 meses e 23 dias de reclusão, no regime inicial fechado, pela prática do crime tipificado no art. 121-A, § 1º, I, e § 2º, V, do Código Penal - CP.
+O Tribunal de origem negou provimento às apelações criminais interpostas pelo paciente e pelo parquet estadual, em acórdão assim ementado (fls. 22-23):
+"DIREITO PENAL. APELAÇÕES CRIMINAIS. FEMINICÍDIO QUALIFICADO. DOSIMETRIA DA PENA. ATENUANTE DA CONFISSÃO ESPONTÂNEA. VALORAÇÃO NEGATIVA DA CULPABILIDADE E DAS CONSEQUÊNCIAS DO CRIME. RECURSOS DESPROVIDOS.
+I. CASO EM EXAME:
+1. Apelações criminais interpostas pelo Ministério Público e pela Defesa contra sentença do Tribunal do Júri que condenou o réu como incurso nas sanções do art. 121-A, § 1º, inciso I, e § 2º, inciso V, do Código Penal, à pena de 41 anos, 5 meses e 23 dias de reclusão, em regime inicial fechado, por ter ceifado a vida de sua companheira, desferindo-lhe múltiplos golpes de arma branca, por motivo fútil, com emprego de meio cruel, mediante recurso que dificultou a defesa da vítima e por razões da condição de sexo feminino.
+II. QUESTÃO EM DISCUSSÃO:
+1. No recurso do Ministério Público, a questão em discussão consiste no afastamento da atenuante da confissão espontânea, ao argumento de que o réu apresentou versão qualificada dos fatos, alegando ter agido em legítima defesa.
+2. No recurso da Defesa, há três questões em discussão: (i) a ocorrência de bis in idem na negativação da culpabilidade, cujos fundamentos se confundiriam com os da qualificadora do meio cruel; (ii) a indevida valoração negativa das consequências do crime; (iii) o excessivo quantum de aumento aplicado na pena- base.
+III. RAZÕES DE DECIDIR:
+1. A atenuante da confissão espontânea deve ser mantida, pois a admissão pelo réu de que desferiu os golpes contra a vítima, ainda que sob a invocação de uma excludente de ilicitude, serviu para robustecer o conjunto probatório quanto à autoria delitiva, contribuindo para a formação da íntima convicção dos jurados.
+2. A Súmula 545 do STJ estabelece que a confissão do autor possibilita a atenuação da pena prevista no art. 65, III, "d", do Código Penal, independentemente de ser utilizada na formação do convencimento do julgador.
+3. Não há bis in idem na valoração negativa da culpabilidade, pois enquanto a qualificadora do meio cruel valora o sofrimento físico imposto à vítima pelo modo de execução, a culpabilidade valora a depravação moral e a intensidade do dolo do agente, manifestadas no contexto específico do crime doméstico.
+4. A valoração negativa das consequências do crime está justificada, pois o impacto psicológico, o trauma permanente e a perda da principal referência afetiva e material de forma violenta para duas crianças de 5 e 6 anos de idade transcendem o resultado comum de um homicídio.
+5. O quantum de aumento da pena-base mostra-se proporcional e adequado à gravidade do fato, com o reconhecimento de duas circunstâncias judiciais desfavoráveis (culpabilidade e consequências), resultando em aumento de 1/6 para cada uma, totalizando 2/6 (ou 1/3) sobre a pena mínima.
+IV. DISPOSITIVO E TESE:
+1. Recursos desprovidos.
+Tese de julgamento: 1. A confissão qualificada, em que o réu admite a autoria mas alega excludente de ilicitude, enseja a aplicação da atenuante prevista no art. 65, III, "d", do Código Penal, quando contribui para a formação do convencimento dos julgadores."
+No presente writ, a defesa sustenta ilegalidade na fixação da pena decorrente do indevido deslocamento, para a segunda fase da dosimetria, da causa de aumento prevista no inciso IV, do § 2º, do art. 121 do CP, em violação ao sistema trifásico do art. 68 do CP e ao princípio da especialidade.
+Assevera que, por expressa disposição do art. 121-A, § 2º, V, do CP, as circunstâncias relativas ao "meio cruel" e ao "recurso que dificultou a defesa da vítima" devem incidir na terceira fase como majorantes, conjuntamente, e não como agravante genérica na segunda fase.
+Argui que o parágrafo único do art. 68 do CP não autoriza o deslocamento de causa de aumento específica para a fase das agravantes e atenuantes, limitando-se a disciplinar o concurso de majorantes e minorantes na etapa final da dosimetria.
+Requer, em liminar e no mérito, a concessão da ordem para que seja refeita a dosimetria da pena, nos termos apresentados na inicial.
+É o relatório.
+Decido.
+Diante da hipótese de habeas corpus substitutivo de recurso próprio, a impetração não deve ser conhecida, segundo orientação jurisprudencial do Supremo Tribunal Federal e do próprio Superior Tribunal de Justiça.
+Ademais, a possibilidade de análise da matéria para eventual concessão da ordem de ofício não se mostra adequada ao presente caso.
+Da atenta leitura do acórdão impugnado, verifica-se que o Tribunal de origem não se manifestou expressamente sobre a suposta ilegalidade na fixação da pena, em razão de deslocamento da majorante "recurso que dificultou a defesa do ofendido" para a segunda fase da dosimetria.
+Vale salientar que a Corte local limitou-se a afirmar que, "na segunda fase, houve o reconhecimento de duas agravantes: recurso que dificultou a defesa da vítima (art. 61, II, c, do CP) e motivo fútil (art. 61, II, a, do CP)", sem enfrentar a tese de violação ao art. 68, parágrafo único, do CP.
+Desse modo, resta afastada a competência desta Corte Superior para conhecimento do feito, sob pena de incorrer em indevida supressão de instância.
+Nesse sentido:
+PENAL. PROCESSO PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. ILEGALIDADE INEXISTENTE. OMISSÃO DEVE SER QUESTIONADA VIA EMBARGOS DE DECLARAÇÃO. SUPRESSÃO. AINDA QUE NULIDADE ABSOLUTA. DESÍGNIOS AUTONOMOS. ABSORÇÃO. REVOLVIMENTO FÁTICO-PROBATÓRIO. INVIABILIDADE NA VIA DO WRIT. AUSÊNCIA DE ARGUMENTOS NOVOS APTOS A ALTERAR A DECISÃO AGRAVADA. AGRAVO DESPROVIDO.
+I - É assente nesta Corte Superior de Justiça que o agravo regimental deve trazer novos argumentos capazes de alterar o entendimento anteriormente firmado, sob pena de ser mantida a decisão agravada por seus próprios fundamentos.
+II - Ainda que a Defesa alegue que houve o prequestionamento implícito, porquanto ventilou a questão nas peças de defesa, todavia, ante a não manifestação daquela Corte, caberia o manejo dos embargos de declaração, aptos a prequestionar a matéria.
+III - Ausente manifestação do Tribunal sobre a questão de fundo também ora vindicada, incabível a análise de tal matéria, no presente habeas corpus, porquanto está configurada a absoluta supressão de instância quanto ao ponto debatido, ficando impedida esta Corte de proceder à sua análise.
+IV - A instância ordinária, diante do conjunto fático-probatório dos autos, concluiu por provas suficientes à condenação pelos 2 (dois) delitos, como sendo autônomos, bem como a defesa não logrou demonstrar o contrário.
+V - É iterativa a jurisprudência deste Superior Tribunal de Justiça no sentido de ser imprópria a via do habeas corpus (e do seu recurso) para a análise de teses de insuficiência probatória, de negativa de autoria ou até mesmo de desclassificação, em razão da necessidade de incursão no acervo fático-probatório.
+Agravo regimental desprovido.
+(AgRg no HC n. 823.044/DF, relator Ministro Messod Azulay Neto, Quinta Turma, julgado em 18/12/2023, DJe de 20/12/2023.)
+AGRAVO REGIMENTAL EM HABEAS CORPUS. ROUBO CIRCUNSTANCIADO. WRIT IMPETRADO CONTRA CONDENAÇÃO TRANSITADA EM JULGADO. SUCEDÂNEO DE REVISÃO CRIMINAL. INADMISSIBILIDADE. AUSÊNCIA DE JULGAMENTO DE MÉRITO NESTA CORTE. INCOMPETÊNCIA DO SUPERIOR TRIBUNAL DE JUSTIÇA. TEMAS NÃO DEBATIDOS PELA CORTE DE ORIGEM. SUPRESSÃO DE INSTÂNCIA. TEMAS DEBATIDOS EM CONSONÂNCIA COM O ENTENDIMENTO DO SUPERIOR TRIBUNAL DE JUSTIÇA. AUSÊNCIA DE ILEGALIDADE FLAGRANTE.
+1. Não deve ser conhecido o writ que se volta contra sentença condenatória já transitada em julgado, manejado como substitutivo de revisão criminal, em hipótese na qual não houve inauguração da competência desta Corte Superior. Nos termos do art. 105, I, e, da Constituição Federal, compete ao Superior Tribunal de Justiça processar e julgar, originariamente, as revisões criminais e as ações rescisórias de seus julgados. Precedentes.
+2. A Jurisprudência do Superior Tribunal de Justiça "é pacífica no sentido de que, ainda que se trate de matéria de ordem pública, é imprescindível o seu prévio debate na instância de origem para que possa ser examinada por este Tribunal Superior (AgRg no HC 530.904/PR, Rel. Ministro JORGE MUSSI, Quinta Turma, julgado em 24/9/2019, DJe de 10/10/2019) - (AgRg no HC n. 726.326/CE, Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe 28/3/2022).
+3. Quanto aos temas efetivamente debatidos pela Corte de origem, verifica-se que não há qualquer ilegalidade flagrante a ser sanada, na medida em que o acórdão objurgado se encontra em consonância com a jurisprudência desta Corte, no sentido de que as condenações alcançadas pelo período depurador de 5 anos, previsto no art. 64, inciso I, do Código Penal, afastam os efeitos da reincidência, mas não impedem a configuração de maus antecedentes, permitindo, assim, o aumento da pena-base; bem como de que para a incidência da causa de aumento relativa ao emprego de arma de fogo, dispensável a apreensão e perícia da arma, desde que o emprego do artefato fique comprovado por outros meios de prova. Precedentes.
+3. Agravo regimental improvido.
+(AgRg no HC n. 842.953/SP, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 6/2/2024, DJe de 8/2/2024.)
+Ante o exposto, com fundamento no art. 210 do Regimento Interno do Superior Tribunal de Justiça, indefiro liminarmente o presente habeas corpus.
+Publique-se.
+Intimem-se.
+EMENTA
