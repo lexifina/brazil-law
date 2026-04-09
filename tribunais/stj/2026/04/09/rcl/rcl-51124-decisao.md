@@ -1,0 +1,14 @@
+DECISÃO
+Cuida-se de reclamação ajuizada por MARCELO STELLA ZAMBERLAN com fundamento nos arts. 105, I, f", da CF, art. 988, §5.º, II do CPC, e 187 e 121-A do RISTJ, contra acórdão proferido pelo eg. Tribunal de Justiça do Estado do Rio Grande do Sul/RS.
+Argumenta o reclamante que a deliberação ora questionada aplicou indevidamente o Tema 872 deste STJ bem como a Súmula 303/STJ, razão pela qual merece o seu reexame e a devida adequação ao entendimento definido por esta Corte Superior.
+É o relatório.
+Decisão.
+1. Nos termos dos artigos 105, I, "f", da Constituição Federal, 988, inc. II, do NCPC e 187 do RISTJ, somente caberá reclamação quando um órgão julgador estiver exercendo competência privativa ou exclusiva deste Tribunal ou, ainda, quando as decisões deste não estiverem sendo cumpridas por quem de direito.
+Com esse norte hermenêutico, a presente reclamação constitucional deve ser rejeitada porquanto, na hipótese dos autos, o "seu acolhimento tornaria ineficaz o propósito racionalizador implantado pelo regime dos recursos repetitivos." (ut. AgRg na Rcl 29.631/SP, Rel. Min. ASSUSETE MAGALHÃES, PRIMEIRA SEÇÃO, julgado em 22/02/2017, DJE de 07/03/2017.
+Na hipótese, a presente reclamação não foi manejada para preservar a competência desta Corte e tampouco para garantir a autoridade de suas decisões, mas, unicamente, com o propósito de reformar decisão proferida pelo Tribunal de Justiça do Estado do Rio Grande do Sul, não se verificando, pois, nenhuma das hipóteses previstas nos artigos 105, I, "f", da Constituição Federal e 988 do Código de Processo Civil de 2015, mostrando-se incompatível com os objetivos tutelados pelo instituto processual-constitucional porquanto utilizada com o propósito de reforma do julgado.
+Ademais, o reclamante interpôs recurso especial aduzindo as mesmas razões da presente reclamação, de modo a evidenciar o propósito de mera utilização da reclamação como sucedâneo de recurso. Nessa linha: AgInt na Rcl 40.576/DF, Rel. Ministro ANTONIO CARLOS FERREIRA, SEGUNDA SEÇÃO, julgado em 01/12/2020, DJe 09/12/2020; AgInt na Rcl 40.177/SP, Rel. Ministro LUIS FELIPE SALOMÃO, SEGUNDA SEÇÃO, julgado em 29/09/2020, DJe 02/10/2020; AgInt na Rcl n. 45.542/SP, relator Ministro João Otávio de Noronha, Segunda Seção, julgado em 29/8/2023, DJe de 1/9/2023.
+Finalmente, em pronunciamento exarado pela eg. Corte Especial, nos autos da Reclamação 36.476/SP, Rel. Min. Nancy Andrighi, DJe de 06/03/2020, fixou orientação no sentido de que não é cabível o ajuizamento de reclamação com o objetivo de controlar a aplicação, no caso concreto, de tese firmada pelo STJ em recurso especial repetitivo.
+Inexistente, porquanto, qualquer das hipóteses legais de cabimento, o indeferimento liminar da presente reclamação é medida de rigor.
+2. Do exposto, com fundamento no art. 34, indefiro liminarmente a petição inicial da presente reclamação.
+Publique-se. Intimem-se. Após, arquivem-se.
+EMENTA
