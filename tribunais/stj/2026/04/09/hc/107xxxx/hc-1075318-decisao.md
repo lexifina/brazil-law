@@ -1,0 +1,22 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em nome de GUSTAVO HENRIQUE HEINDRICKSON DOS SANTOS - preso preventivamente e denunciado pela prática do crime de furto qualificado, em que a defesa aponta como órgão coator o TRIBUNAL DE JUSTIÇA DO ESTADO DE SANTA CATARINA, que denegou a ordem do HC n. 5106350-10.2025.8.24.0000 (fls. 11/17).
+Alega a defesa que o decreto prisional está baseado em fundamentação genérica. Aduz possuir apenas uma condenação anterior por delito diverso e nenhuma outra ação penal em andamento. Sustenta que  ..  a mera existência de reincidência genérica por delito diverso, de igual modo, não seria o suficiente para a prisão preventiva no caso em tela, notadamente quando não se aponta qualquer gravidade concreta da conduta ou periculosidade do paciente (fl. 5). Afirma a inexistência de violência ou grave ameaça. Assevera que o paciente é pai de família e possui trabalho lícito e endereço fixo.
+No âmbito liminar e no mérito, requer a revogação da prisão preventiva, ainda que com a aplicação de medidas cautelares alternativas.
+Liminar indeferida (fls. 27/28) e informações prestadas (fls. 34/43 e 44/62), o Ministério Público Federal opinou pelo não conhecimento do writ ou pela denegação da ordem (fls. 64/65).
+É o relatório.
+O Juízo de primeiro grau decretou a custódia, sob a seguinte fundamentação (fl. 20 - grifo nosso):
+Em relação aos conduzidos GUSTAVO HENRIQUE HEINDRICKSON DOS SANTOS, EMANUEL ELIFAZ LUCIANO DE BORBA e EDUARDO HENRIQUE BASTOS FAGUNDES, verifica-se que o periculum libertatis igualmente sobressai presente, haja vista a necessidade premente de acautelar a ordem pública, pois possuem condenações transitadas em julgado pela prática de crimes contra o patrimônio e respondem a diversos processos ainda em andamento (conforme certidões de antecedentes acostadas aos autos), de modo que em liberdade provavelmente voltarão a praticar crimes da mesma natureza.
+Nesse norte, é possível concluir que a livre circulação dos mencionados conduzidos no meio social acarreta risco à ordem pública, sendo certo que a decretação da prisão cautelar se trata da única medida hábil a coibir a reiteração de condutas delituosas.
+O Tribunal de origem manteve a segregação, nestes termos (fls. 16/17 - grifo nosso):
+No caso em exame, embora concisa e tenha cuidado dos numerosos então custodiados em conjunto, o Magistrado a quo demonstrou a necessidade de salvaguardar a ordem pública, haja vista a periculosidade, estampada pelo envolvimento em outras infrações penais.
+Compulsando a certidão de antecedentes criminais (evento 6, CERTANTCRIM1, dos autos originários), verifica-se que o paciente ostenta uma condenação com trânsito em julgado anterior também pela prática de crime patrimonial (art. 180, caput, do Código Penal) e que, quando do cometimento do novo delito, o processo de execução penal já estava em andamento (SEEU, autos n. 8000960-17.2024.8.24.0038).
+ ..
+Logo, diferentemente do alegado na impetração, a decisão combatida não carece de fundamentos. Foram apontadas circunstâncias concretas que revelam a possibilidade de reiteração criminosa e, portanto, a imprescindibilidade da prisão preventiva e a insuficiência das medidas cautelares diversas da prisão.
+Como se vê, a prisão preventiva está idoneamente fundamentada na reincidência do paciente, que possui uma condenação transitada em julgado pelo crime de receptação, cuja execução já estava em andamento quando da prática do crime objeto deste writ.
+Com efeito, a preservação da ordem pública justifica a imposição da prisão preventiva quando o agente possuir maus antecedentes, reincidência, atos infracionais pretéritos, inquéritos ou mesmo ações penais em curso, porquanto tais circunstâncias denotam sua contumácia delitiva e, por via de consequência, sua periculosidade (AgRg no HC n. 982.427/MG, Ministro Antonio Saldanha Palheiro, Sexta Turma, DJEN 15/4/2025).
+Assim, nos termos da jurisprudência desta Corte, eventuais condições pessoais favoráveis não possuem o condão de, isoladamente, conduzir à revogação da prisão preventiva, sendo certo que, concretamente demonstrada pelas instâncias ordinárias sua necessidade, não se afigura suficiente a fixação de medidas cautelares alternativas.
+Ante o exposto, denego a ordem.
+Publique-se.
+EMENTA
+HABEAS CORPUS. FURTO QUALIFICADO. PRISÃO PREVENTIVA. REINCIDÊNCIA. FUNDAMENTAÇÃO IDÔNEA. INEXISTÊNCIA DE FLAGRANTE CONSTRANGIMENTO ILEGAL.
+Ordem denegada.
