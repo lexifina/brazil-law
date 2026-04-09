@@ -1,0 +1,41 @@
+DECISÃO
+Cuida-se de Habeas Corpus impetrado em favor de ROBSON ALMEIDA SANTOS JUNIOR em que se aponta como ato coator o acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO DE JANEIRO assim ementado:
+DIREITO PENAL. APELAÇÕES CRIMINAIS. CONDENAÇÃO POR FURTO MAJORADO PELO CONCURSO DE AGENTES. DESPROVIMENTO DO APELO DA ACUSAÇÃO E PARCIAL PROVIMENTO DO RECURSO DA DEFESA.
+I. CASO EM EXAME
+1. As partes recorrem da sentença que condenou o acusado pela prática do delito de furto em concurso de pessoas, visando o Ministério Público que o réu seja condenado nos termos da denúncia, como incurso no delito descrito no art. 157, §2º, II, do CP, enquanto a defesa pretende o afastamento do concurso de agentes, o reconhecimento da tentativa, além do abrandamento da pena e do regime.
+II. QUESTÕES EM DISCUSSÃO
+2. (i) Adequação típica da conduta do apelante, (ii) concurso de pessoas, (iii) tentativa, (iv) dosimetria e (v) regime.
+III. RAZÕES DE DECIDIR
+3. Finda a instrução criminal, restou comprovado que o recorrente, em comunhão de ações e divisão de tarefas com sujeito não identificado, subtraiu, mediante arrebatamento, um colar de ouro da vítima.
+4. A materialidade e a autoria delitivas foram comprovadas na hipótese dos autos, inexistindo menor dúvida acerca da ação subtrativa, de modo que a defesa busca o afastamento do concurso de agentes, o reconhecimento da tentativa, a revisão da pena e do regime, enquanto o MP almeja o enquadramento típico para o delito de roubo.
+5. Deve ser mantida a reconhecida figura do furto por arrebatamento, haja vista que, conforme se depreende do relato da testemunha presencial, o acusado limitou-se a puxar a corrente que estava no pescoço do lesado, sem efetivamente esboçar qualquer ato de violência ou grave ameaça contra ele. Além disso, a lesão provocada acidentalmente na vítima ocorreu durante a contenção feita pelo lesado, não configurando violência típica do crime de roubo.
+6. Inviável a acolhida de exclusão da causa de aumento pelo concurso de pessoas, uma vez que restou comprovada a autoria do delito pelo recorrente, em comunhão de ações e desígnios com um indivíduo não identificado, que contribuiu para o êxito da empreitada criminosa.
+7. Rechaça-se a pretensão defensiva de reconhecimento de furto tentado. A legislação pátria adotou a teoria da apprehensio ou amotio, em que o delito contra o patrimônio se consuma quando a coisa subtraída passa para o poder do agente, mesmo que num curto espaço de tempo, independente da res furtiva permanecer na posse tranquila do agente.
+8. A dosimetria não merece ajuste, pois fixada com base no sistema trifásico do Código Penal e à luz dos Princípios da Razoabilidade e da Proporcionalidade.
+9. A despeito dos maus antecedentes e da reincidência, diante do volume de pena, o regime deve ser estabilizado no semiaberto.
+IV. DISPOSITIVO E TESE
+10. Parcial provimento do apelo da defesa e desprovimento do recurso do MP;
+Tese de julgamento: O arrebatamento na ação subtrativa não conduz à reclassificação para o delito de roubo. Dispositivo relevante citado: CP, art. 155, §4º, IV.
+Jurisprudência relevante citada: STJ, Súmula 582 e HC n. 839.876/SP, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 14/4/2025, DJEN de 25/4/2025.
+Consta dos autos que o paciente foi condenado à pena de 2 (dois) anos e 03 (três) meses de reclusão, em regime inicial semiaberto, pela prática do delito capitulado no art. 155, § 4º, IV, do Código Penal.
+Em suas razões, sustenta a Defensoria Pública estadual a ocorrência de constrangimento ilegal, porquanto a qualificadora do concurso de agentes deve ser afastada diante da ausência de prova inequívoca do liame subjetivo e da participação consciente de terceiro na empreitada criminosa, sendo insuficiente o relato da testemunha que menciona "possível" cúmplice e inexistindo outros elementos seguros.
+Alega que a fixação de regime mais gravoso na sentença violou os parâmetros do art. 33 do Código Penal e a exigência de motivação idônea, tendo em vista a pena inferior a 4 (quatro) anos e a natureza do crime sem violência ou grave ameaça, razão pela qual postula o abrandamento para o semiaberto.
+Requer, no mérito, o afastamento da qualificadora do concurso de agentes com a desclassificação para furto simples, o redimensionamento da pena e a aplicação do regime semiaberto.
+É o relatório.
+Decido.
+A Terceira Seção do STJ, no julgamento do HC n. 535.063/SP, firmou entendimento de que não cabe Habeas Corpus substitutivo de recurso próprio, impondo-se o não conhecimento da impetração, salvo quando constatada alguma teratologia no ato judicial impugnado (Rel. Ministro Sebastião Reis Júnior, DJe de 25.8.2020).
+Assim, passo à análise das razões da impetração a fim de verificar se há flagrante ilegalidade que justifique a concessão do writ de ofício.
+Na espécie, consta do Voto condutor do acórdão impugnado a seguinte fundamentação para reconhecer a incidência da qualificadora do concurso de agentes:
+De igual modo, deve ser mantida a incidência da causa de aumento pelo concurso de pessoas, uma vez que restou comprovada a autoria do delito pelo recorrente, em comunhão de ações e desígnios com um indivíduo não identificado, que contribuiu para o êxito da empreitada criminosa.
+A referida majorante deriva da maior probabilidade de sucesso do delito praticado por mais de um agente, o que amplia o desvalor da ação e enseja maior grau de reprovabilidade, não podendo ser considerada irrelevante para o direito penal.
+A tese sustentada pelo acusado, no sentido de que ele não conhecia o elemento que levou o cordão, restou isolada frente aos demais relatos colhidos em Juízo, sobretudo da testemunha presencial, que afirmou que o apelante entregou a res ao elemento que dava cobertura a ação (fl. 20, grifo meu).
+Na espécie, pelo trecho do julgado acima transcrito, verifica-se que a instância de origem, depois de minuciosa análise dos fatos e provas produzidos nos autos, concluiu pela existência de elementos concretos a ensejar a condenação do paciente e, para concluir em sentido diverso, acolhendo a tese de afastamento da qualificadora do concurso de pessoas, seria necessário o revolvimento de todo o conjunto fático-probatório, providência inadmissível na via estreita do habeas corpus.
+Nesse sentido, vale citar os seguintes julgados desta Corte: AgRg no HC n. 913.488/SP, Rel. Ministro Ribeiro Dantas, Quinta Turma, DJe de 12.9.2024; AgRg no HC n. 903.472/SP, Rel. Ministro Ribeiro Dantas, Quinta Turma, DJe de 6.9.2024; AgRg no HC n. 838.412/SC, Rel. Ministro Ribeiro Dantas, Quinta Turma, DJe de 6.9.2024; AgRg no HC n. 923.273/SP, Rel. Ministro Sebastião Reis Júnior, Sexta Turma, DJe de 6.9.2024; AgRg no HC n. 749.134/SP, Rel. Ministra Daniela Teixeira, Quinta Turma, DJe de 3.9.2024; AgRg no HC n. 917.080/SP, Rel. Ministro Ribeiro Dantas, Quinta Turma, DJe de 6.9.2024; AgRg no HC n. 885.771/DF, Rel. Ministro Antonio Saldanha Palheiro, Sexta Turma, DJe de 5.9.2024; AgRg nos EDcl no HC n. 867.797/SP, Rel. Ministro Rogerio Schietti Cruz, Sexta Turma, DJe de 29.8.2024; AgRg no HC n. 842.280/SP, Rel. Ministro Messod Azulay Neto, Quinta Turma, DJe de 27.8.2024; AgRg no HC n. 886.081/SP, relator Ministro Messod Azulay Neto, Quinta Turma, DJEN de 13/5/2025; HC n. 978.889/SC, relator Ministro Sebastião Reis Júnior, Sexta Turma, DJEN de 25/4/2025.
+Por fim, no que se refere ao pedido de alteração do regime inicial de cumprimento de pena, do fechado para o semiaberto, o Tribunal de origem, ao julgar o recurso de apelação defensivo, acolheu o pedido, nos seguintes termos:
+Por outro lado, como bem enalteceu a D. Procuradoria de Justiça, a despeito dos maus antecedentes e da reincidência, tendo em conta o volume de pena, o regime fechado afigura-se incompatível, devendo ser realizado o abrandamento para o semiaberto (CP, art. 33), sem chances para as restritivas ou sursis (CP, art. 44) (fl. 22, grifo meu).
+Conclui-se, assim, que no caso em análise não há manifesta ilegalidade a ensejar a concessão da ordem de ofício.
+Ante o exposto, com fundamento no art. 21-E, IV, c/c o art. 210, ambos do RISTJ, indefiro liminarmente o presente Habeas Corpus.
+Cientifique-se o Ministério Público Federal.
+Publique-se.
+Intimem-se.
+ EMENTA
