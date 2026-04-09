@@ -1,0 +1,61 @@
+DECISÃO
+Cuida-se de Habeas Corpus impetrado em favor de MAICON MACHADO DA SILVEIRA em que se aponta como ato coator o acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO GRANDE DO SUL assim ementado:
+DIREITO PENAL. AGRAVO EM EXECUÇÃO. LIVRAMENTO REQUISITO CONDICIONAL. SUBJETIVO NÃO PREENCHIDO. HISTÓRICO PRISIONAL DESFAVORÁVEL. FALTA GRAVE RECENTE. DESPROVIMENTO DO RECURSO.
+I. CASO EM EXAME:
+Agravo em execução interposto pela Defesa contra decisão da Magistrada da Vara Adjunta de Execuções Criminais que indeferiu o livramento condicional ao apenado que cumpre pena de 20 anos de reclusão por crime de latrocínio.
+II. QUESTÃO EM DISCUSSÃO:
+Há duas questões em discussão: (i) o preenchimento dos requisitos para concessão do livramento condicional; (ii) subsidiariamente, a possibilidade de determinação de nova avaliação psicossocial ou realização de audiência admonitória para melhor aferir o requisito subjetivo.
+III. RAZÕES DE DECIDIR:
+1. O preenchimento do requisito objetivo não assegura, de forma automática, a concessão do livramento condicional, sendo necessária também a implementação do requisito subjetivo, consistente na análise do mérito do apenado.
+2. A valoração do requisito subjetivo para concessão do livramento condicional deve considerar todo o histórico prisional do apenado, conforme estabelecido pelo Superior Tribunal de Justiça no Tema Repetitivo 1161.
+3. O apenado possui histórico desfavorável durante o cumprimento da pena, com falta grave homologada por fuga do sistema prisional em 25/04/2024, o que resultou em regressão e perda de dias remidos.
+4. O exame criminológico concluiu que o apenado apresenta "aparente dificuldades ligadas ao controle de impulsividade", o que demanda cautela na análise do caso, especialmente considerando o crime violento pelo qual cumpre pena.
+5. O contexto probatório, em especial o histórico carcerário, demonstra que o apenado não apresenta condições favoráveis e compatíveis com o livramento condicional.
+6. Quanto ao pleito subsidiário de nova avaliação psicossocial, não compete ao Tribunal analisá-lo, sob pena de supressão de instância, devendo ser apreciado pelo Magistrado da Vara de Execução.
+IV. DISPOSITIVO E TESE:
+Recurso desprovido.
+Tese de julgamento: A concessão do livramento condicional exige
+o preenchimento do requisito subjetivo, que deve ser avaliado considerando todo o histórico prisional do apenado, sendo legítima a negativa do benefício quando verificada a ocorrência de falta grave recente e avaliação psicossocial desfavorável.
+Consta dos autos que foi indeferido o pedido de livramento condicional ao paciente.
+Em suas razões, sustenta a impetrante a ocorrência de constrangimento ilegal, porquanto estaria preenchido o requisito subjetivo para concessão do livramento condicional, não havendo fundamentação idônea para a negativa.
+Alega que a última falta grave ocorreu em 25.04.2024, tendo transcorrido período superior a 12 (doze) meses sem novas intercorrências, de modo que o registro não pode, por si só, impedir a concessão do benefício.
+Argumenta que o requisito subjetivo foi comprovado por atestado emitido pelo sistema prisional, demonstrando bom comportamento durante a execução da pena.
+Defende que a avaliação psicossocial desfavorável, fundada em supostas dificuldades de controle de impulsividade, não constitui requisito legal e, isoladamente, não autoriza o indeferimento do benefício.
+Requer, em suma, a concessão do livramento condicional.
+É o relatório.
+Decido.
+A Terceira Seção do STJ, no julgamento do HC n. 535.063/SP, firmou entendimento de que não cabe Habeas Corpus substitutivo de recurso próprio, impondo-se o não conhecimento da impetração, salvo quando constatada alguma teratologia no ato judicial impugnado (Rel. Ministro Sebastião Reis Júnior, DJe de 25.8.2020).
+Assim, passo à análise das razões da impetração a fim de verificar se há flagrante ilegalidade que justifique a concessão do writ de ofício.
+Na espécie, consta do Voto condutor do acórdão impugnado a seguinte fundamentação quanto à controvérsia apresentada:
+No caso concreto, observa-se que o apenado possui saldo remanescente de aproximadamente 6 anos, por crime hediondo cometido em 2012, em um contexto de desentendimento em uma festa, oportunidade em que desferiu golpes de faca na vítima, que veio a falecer, bem como ostenta falta grave homologada consistente em fuga praticada em 25/04/2024.
+Outrossim, realizado o exame criminológico, foi concluído que o apenado apresenta "aparente dificuldades ligadas ao controle impulsividade", o que demanda cautela na análise do caso, notadamente considerando o crime violento pelo qual cumpre pena.
+Nesse cenário, o contexto probatório, em especial o histórico carcerário, demonstra que o apenado não apresenta condições favoráveis e compatíveis com o livramento condicional(fl. 11).
+A jurisprudência desta Corte firmou-se no sentido de que a gravidade abstrata do crime e a longa pena a cumprir, por não serem aspectos relacionados ao comportamento do sentenciado durante a execução penal, não justificam o indeferimento dos benefícios executórios pelo não preenchimento do requisito subjetivo, que deve estar fundado em fatos ocorridos ao longo da execução penal.
+Da mesma forma o entendimento consolidado por esta Corte é de que não há obrigatoriedade de o sentenciado passar por regime intermediário para que obtenha o benefício do livramento condicional, ante a inexistência de previsão no art. 83 do Código Penal.
+Nesse sentido, os seguintes julgados:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO PENAL. LIVRAMENTO CONDICIONAL. AUSÊNCIA DE REQUISITO SUBJETIVO. HISTÓRICO PRISIONAL QUE REGISTRA A PRÁTICA DE FALTA GRAVE (FUGA). IDONEIDADE DA FUNDAMENTAÇÃO. INEXISTÊNCIA DE FLAGRANTE ILEGALIDADE.
+1. Esta Corte Superior pacificou o entendimento segundo o qual, ainda que haja atestado de boa conduta carcerária, a análise desfavorável do mérito do condenado feita pelo Juízo das execuções, ou mesmo pelo Tribunal de origem, com base nas peculiaridades do caso concreto e levando em consideração fatos ocorridos durante a execução penal, justifica o indeferimento tanto do pleito de progressão de regime prisional quanto do de concessão de livramento condicional pelo inadimplemento do requisito subjetivo.
+2. No caso dos autos, o indeferimento do livramento condicional se deu em razão da ausência do requisito subjetivo, considerando, para tanto, o histórico prisional do paciente, no qual consta que ele praticou falta de natureza grave (fuga), o que evidencia a idoneidade da fundamentação utilizada, não havendo falar, portanto, em existência de flagrante ilegalidade que justifique a concessão da ordem.
+3. Ressalte-se, ainda, que o afastamento dos fundamentos utilizados pelas instâncias ordinárias quanto ao mérito subjetivo do paciente demandaria o reexame de matéria fático-probatória, providência inadmissível na via estreita do habeas corpus.
+4. Agravo regimental a que se nega provimento. (AgRg no HC n. 584.224/RS, Rel. Ministro Antonio Saldanha Palheiro, Sexta Turma, DJe de 18.12.2020.)
+AGRAVO REGIMENTAL EM HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. EXECUÇÃO PENAL. LIVRAMENTO CONDICIONAL INDEFERIDO NAS INSTÂNCIAS ORDINÁRIAS. PROGRESSÃO PER SALTUM. FALTA GRAVE RECENTE QUE CONSTITUI FUNDAMENTO IDÔNEO PARA O INDEFERIMENTO DA BENESSE. AGRAVO REGIMENTAL DESPROVIDO.
+1. O Superior Tribunal de Justiça, alinhando-se à nova jurisprudência da Corte Suprema, também passou a restringir as hipóteses de cabimento do habeas corpus, não admitindo que o remédio constitucional seja utilizado em substituição ao recurso ou ação cabível, ressalvadas as situações em que, à vista da flagrante ilegalidade do ato apontado como coator, em prejuízo da liberdade do paciente, seja cogente a concessão, de ofício, da ordem de habeas corpus. (AgRg no HC 437.522/PR, Rel. Ministro FELIX FISCHER, QUINTA TURMA, julgado em 07/06/2018, DJe 15/06/2018).
+2. Na hipótese, o indeferimento do pedido de livramento condicional foi mantido, pelo Tribunal de Justiça com fundamento na necessidade de o apenado experimentar por mais tempo o regime semiaberto ao qual foi recentemente progredido, assim como na existência de falta grave recente decorrente de cometimento de novo delito, enquanto cumpria pena.
+3. A jurisprudência desta Superior Corte de Justiça consolidou entendimento no sentido de que não há obrigatoriedade de o sentenciado passar por regime intermediário para que obtenha o benefício do livramento condicional, ante a inexistência de tal previsão no art. 83 do Código Penal.
+Precedentes: AgRg no HC n. 681.079/SP, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 26/10/2021, DJe de 4/11/2021;
+AgRg no REsp 1.952.241/MG, Rel. Ministro ANTONIO SALDANHA PALHEIRO, Sexta Turma, julgado em 9/11/2021, DJe 12/11/2021; (RHC 116.324/SP, Rel. Ministro REYNALDO SOARES DA FONSECA, Quinta Turma, julgado em 10/9/2019, DJe 18/9/2019.
+4. Isso não obstante, a jurisprudência d esta Corte também é assente no sentido de que a prática de falta grave cometida durante a execução da pena impede a concessão do livramento condicional, por evidenciar a ausência do requisito subjetivo exigido durante o resgate da pena.
+Nessa linha, em recente julgamento do Recurso Especial n. 1.970.217/MG (Relator Ministro RIBEIRO DANTAS, Terceira Seção, julgado em 24/5/2023, DJe de 1º/6/2023), na sistemática dos recursos representativos de controvérsia (Tema 1161), em sessão de 24/5/2023, a Terceira Seção desta Corte firmou tese no sentido de que "A valoração do requisito subjetivo para concessão do livramento condicional - bom comportamento durante da execução da pena (art.
+83, inciso III, alínea "a", do Código Penal) - deve considerar todo o histórico prisional, não se limitando ao período de 12 meses referido na alínea "b" do mesmo inciso III do art. 83 do Código Penal."
+5. No caso concreto, o executado interrompeu o cumprimento da pena em 12/08/2015, por abandono, ao não retornar da saída temporária, tendo sido recapturado em virtude de prisão em flagrante em 18/09/2018, sendo de se reconhecer que a falta grave homologada e somente reabilitada em 17/09/2019 perdurou pelo tempo durante o qual o apenado permaneceu evadido.
+5. Agravo regimental desprovido. (AgRg no HC n. 872.027/SP, Rel. Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe de 15.12.2023.)
+Ainda na mesma linha: AgRg no HC n. 835.267/RJ, Rel. Ministro Ribeiro Dantas, Quinta Turma, DJe de 27.10.2023.
+Contudo, na espécie, a orientação adotada na origem encontra-se em harmonia com a jurisprudência consolidada por esta Corte no sentido de que, embora a falta grave não interrompa o prazo para obtenção de livramento condicional, a prática de infrações disciplinares graves durante a execução da pena, bem como a existência de exame criminológico desfavorável, ainda que somente alguns de seus aspectos sejam negativos, demonstram a ausência do requisito subjetivo para concessão do referido benefício executório.
+Nessa linha, os seguintes julgados: AgRg no HC n. 813.574/SP, Rel. Ministro Joel Ilan Paciornik, Quinta Turma, DJe de 29.6.2023; AgRg no HC n. 763.755/SP, Rel. Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), Sexta Turma, DJe de 10.3.2023.); AgRg no HC n. 778.699/SP, Rel. Ministro Messod Azulay Neto, Quinta Turma, DJe de 15.6.2023; AgRg no HC n. 764.854/MS, Rel. Ministro Sebastião Reis Júnior, Sexta Turma, DJe de 21.12.2022; AgRg no HC n. 788.010/SP, Rel. Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe de 19.12.2022; AgRg no HC n. 823.985/SP, Rel. Ministro Ribeiro Dantas, Quinta Turma, DJe de 16.8.2023; AgRg no HC n. 843.673/SP, Rel. Ministra Laurita Vaz, Sexta Turma, DJe de 28.9.2023; AgRg no HC n. 823.985/SP, Rel. Ministro Ribeiro Dantas, Quinta Turma, DJe de 16.8.2023.
+Ademais, a modificação das premissas fáticas delineadas pelas instâncias de origem ensejam o reexame do conteúdo probatório dos autos, o que é inadmissível em Habeas Corpus.
+Conclui-se, assim, que no caso em análise não há manifesta ilegalidade a ensejar a concessão da ordem de ofício.
+Ante o exposto, com fundamento no art. 21-E, IV, c/c o art. 210, ambos do RISTJ, indefiro liminarmente o presente Habeas Corpus.
+Cientifique-se o Ministério Público Federal.
+Publique-se.
+Intimem-se.
+ EMENTA
