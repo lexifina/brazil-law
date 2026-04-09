@@ -1,0 +1,19 @@
+DECISÃO
+Cuida-se de Embargos de Declaração opostos por SILMARA DOS SANTOS FERREIRA INTROPEDI à decisão que conheceu do Agravo para não conhecer do Recurso Especial, em razão da aplicação de óbices de admissibilidade recursal, nos termos do art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça.
+Em suas razões, sustenta a parte embargante:
+No entanto, data máxima vênia, tal conclusão revela-se eivada de omissão e contradição, uma vez que a matéria referente ao limite da responsabilização da atual sócia falida, inexistência dos requisitos obrigatórios e ainda, violação a dispositivos legais previstos na Lei Federal nº 10.406/2002, notadamente os artigos 49-A, 50, 1.032, 1.052, §2º, todos do CC, bem como ainda, os artigos 98 e 99 do CPC, fora expressamente suscitada no recurso especial e devidamente prequestionados em 1ª e 2ª instancias, com a devida indicação dos dispositivos legais tidos por violados até mesmo no agravo em recurso especial, tendo sido objeto de análise, ainda que de forma deficiente, pelo Tribunal de origem, conforme se verifica do excerto constante às folhas 1697/1708, ED sob folhas 1710/1715, acórdão proferido pelo Tribunal aos embargos, sob folhas 1717/1719, todos anexos nos presentes autos.
+Assim, a decisão ora embargada, ao afirmar que não houve impugnação especifica e permenorizada, e prequestionamento das matérias, desconsidera os argumentos efetivamente trazidos no agravo de folhas 1758/1765, os quais demonstraram, de forma objetiva e fundamentada, o desrespeito, recortando pontos específicos do acórdão, em afronta aos artigos 49-A, 158, 50, 1.032, 1.052, §2º, todos do CC.
+Observa-se, que a matéria fora amplamente impugnada especificamente, debatida e prequestionada.
+Assim, contraditoriamente à decisão ora embargada, não há que se falar em ausência de matéria prequestionada pela simples razão de tratar-se o recurso especial, ora em curso, de questionamento de violação de lei federal (fls. 1789-1790).
+Requer, assim, o conhecimento e acolhimento dos Embargos Declaratórios para que seja sanado o vício apontado.
+A parte embargada foi devidamente intimada para contra-arrazoar estes aclaratórios.
+É o relatório.
+Decido.
+Nos termos do art. 1.022 do Código de Processo Civil, os Embargos de Declaração destinam-se a esclarecer obscuridade, eliminar contradição, suprir omissão e corrigir erro material eventualmente existentes no julgado, o que não se verifica na hipótese.
+Registre-se que "não é o órgão julgador obrigado a rebater, um a um, todos os argumentos trazidos pelas partes em defesa da tese que apresentaram. Deve apenas enfrentar a demanda, observando as questões relevantes e imprescindíveis à sua resolução. Nesse sentido: REsp 927.216/RS, Segunda Turma, Rel. Ministra Eliana Calmon, DJ de 13.8.2007; e REsp 855.073/SC, Primeira Turma, Rel. Ministro Teori Albino Zavascki, DJ de 28.6.2007". (EDcl nos EDcl no REsp 1.642.531/SC, Rel. Ministro Herman Benjamin, Segunda Turma, DJe de 22.4.2019.)
+Por fim, ressalto que a pretensão de rediscutir matéria devidamente abordada e decidida no decisum embargado, consubstanciada na mera insatisfação com o resultado da demanda, não se coaduna com a via eleita. Nesse sentido, o EDcl no AgRg nos EREsp n. 1.315.507/SP, Rel. Ministro Luis Felipe Salomão, Corte Especial, DJe de 28.8.2014.
+Assim, não há qualquer irregularidade sanável por meio dos presentes embargos, porquanto toda a matéria apta à apreciação desta Corte foi analisada, não padecendo a decisão embargada dos vícios que autorizariam a sua oposição (obscuridade, contradição, omissão ou erro material).
+Ante o exposto, rejeito os Embargos de Declaração e advirto a parte embargante sobre a reiteração deste expediente, sob pena de pagamento de multa de 2% sobre o valor atualizado da causa, porque os próximos embargos versando sobre o mesmo assunto serão considerados manifestamente protelatórios (art. 1.026, § 2º, do Código de Processo Civil).
+Publique-se.
+Intimem-se.
+ EMENTA
