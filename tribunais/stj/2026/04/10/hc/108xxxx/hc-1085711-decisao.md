@@ -1,0 +1,14 @@
+DECISÃO
+GUILHERME KAWA PEREIRA DOS SANTOS alega sofrer coação ilegal diante de acórdão do Tribunal de origem, proferido no Recurso em Sentido Estrito n. 0020131-46.2025.8.27.2700.
+Consta da petição inicial do habeas corpus que o paciente foi preso em 04/06/2025, em flagrante. O Juiz decretou sua prisão preventiva na audiência de custódia. Sobreveio a pronúncia do réu apenas em relação a dois fatos relacionados às vítimas Rafael e Reurismar. Houve exclusão de uma das imputações originais e impronúncia do corréu Erick Falcão Bezerra.
+Contra a decisão, a defesa interpôs recurso em sentido estrito, no qual sustentou nulidade do reconhecimento, fragilidade da prova de autoria e pediu a revogação da prisão preventiva. O Tribunal de origem negou provimento ao reclamo.
+Neste writ, o impetrante se insurge contra a manutenção da prisão preventiva, ao argumento de ausência de fundamentação concreta, atual e individualizada. Aduz que não há demonstração de risco de reiteração delitiva, de ameaça à instrução criminal ou de risco à aplicação da lei penal. Alega, ainda, que o paciente é primário, encontra-se preso desde junho de 2025 e que a instrução criminal já foi encerrada. Sustenta, por fim, a fragilidade do suporte indiciário, pois uma das vítimas não soube identificar o autor dos disparos.
+Requer a revogação ou a substituição da medida.
+Decido.
+A "manutenção da custódia cautelar no momento da sentença de pronúncia, nos casos em que o Acusado permaneceu preso durante toda a instrução criminal, não requer fundamentação exaustiva, sendo suficiente o entendimento de que permanecem inalterados os motivos que levaram à decretação da medida extrema em um primeiro momento, desde que estejam, de fato, preenchidos os requisitos legais do art. 312 do Código de Processo Penal" (AgRg no HC n. 775.947/MG, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 6/12/2022, DJe de 15/12/2022, grifei).
+No caso, ao pronunciar o réu, o Juiz manteve sua prisão preventiva pois "o suporte fático apontado para sua decretação permanece inalterado, não havendo fato novo ou modificação de situação que justifique a suas revogação" (fl. 23). Todavia, o habeas corpus não está instruído com a cópia da decisão que decretou a medida, citada no ato judicial.
+A deficiente instrução do writ impede o seu conhecimento, pois a parte não comprovou o apontado vício de motivação judicial.
+Ora, é "ônus do impetrante de instruir o habeas corpus requerido a esta Corte com cópia do ato coator, além da prova pré-constituída da aventada ilegalidade ou do abuso de poder. A deficiente instrução do writ impede o seu conhecimento" (EDcl no HC n. 783.484/MS, r elator Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), 6ª T., DJe de 17/2/2023, destaquei).
+À vista do exposto, indefiro liminarmente o processamento deste habeas corpus, com fundamento no art. 210 do RISTJ.
+Publique-se. Intimem-se.
+EMENTA
