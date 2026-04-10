@@ -1,0 +1,59 @@
+DECISÃO
+Examina-se agravo em recurso especial interposto por CORTEVA AGRISCIENCE DO BRASIL LTDA. contra decisão que inadmitiu recurso especial fundamentado, exclusivamente, nas alíneas "a" e "c" do permissivo constitucional.
+Agravo em recurso especial interposto em: 25/09/2025.
+Concluso ao gabinete em: 27/11/2025.
+Ação: de reparação de danos ajuizada por FABIANO ORLANDO, SALETE BERNARDI ORLANDO e SIDNEI ORLANDO (agravados), em desfavor da agravante, por alegado vício de qualidade do produto adquirido.
+Decisão interlocutória: indeferiu a incidência do CDC, bem como a inversão do ônus da prova em favor da parte ora agravada.
+Acórdão: deu parcial provimento ao agravo de instrumento interposto pela agravada para permitir a incidência do CDC, nos termos da seguinte ementa:
+AGRAVO DE INSTRUMENTO. AÇÃO INDENIZATÓRIA. VENDA DE SEMENTES DE MILHO. SUPOSTO VÍCIO DE QUALIDADE DO PRODUTO. DECISÃO INTERLOCUTÓRIA QUE, EM PRETENSA RETIFICAÇÃO DE ERRO MATERIAL CONTIDO NA DECISÃO SANEADORA, RECONHECEU A INAPLICABILIDADE DO CÓDIGO DE DEFESA DO CONSUMIDOR AO CASO, DETERMINANDO A DISTRIBUIÇÃO REGULAR DO ÔNUS DA PROVA COM BASE NO ART. 373, INC. I, DO CPC, BEM COMO MANTEVE OS PONTOS CONTROVERTIDOS FIXADOS NO PROVIMENTO ANTERIOR. RECURSO DOS AUTORES. ERRO MATERIAL INEXISTENTE. FUNDAMENTOS DA DECISÃO SANEADORA QUE HAVIAM SIDO DIRECIONADOS AO RECONHECIMENTO DA RELAÇÃO DE CONSUMO. MODIFICAÇÃO DE ENTENDIMENTO, COM O AFASTAMENTO DA LEGISLAÇÃO PROTETIVA, QUE POR CONSEQUÊNCIA CARECE DE FUNDAMENTAÇÃO. HIPOSSUFICIÊNCIA TÉCNICA E ECONÔMICA DOS AGRAVANTES, PRODUTORES RURAIS, EM FACE DA EMPRESA AGRAVADA QUE JUSTIFICA A INCIDÊNCIA DO CDC NO CASO, BEM COMO A INVERSÃO DO ÔNUS DA PROVA, COM BASE NA TEORIA FINALISTA MITIGADA. EXPERTISE E TAMPOUCO RECURSOS DE FÁCIL ALCANCE PARA DEMONSTRAR A EXISTÊNCIA DE INADEQUAÇÕES CONTIDAS NO CÓDIGO GENÉTICO DAS SEMENTES ADQUIRIDAS DA AGRAVADA. DECISÃO MODFIFICADA NO PONTO. PRETENDIDO AFASTAMENTO DA EXTENSÃO DOS DANOS COMO UM DOS PONTOS CONTROVERTIDOS FIXADOS NA DECISÃO SANEADORA. INSUBSISTÊNCIA. MATÉRIA DEVIDAMENTE IMPUGNADA NA CONTESTAÇÃO DA PARTE AGRAVADA. RECURSO PARCIALMENTE PROVIDO.
+Embargos de Declaração: opostos por ambas as partes, foram parcialmente acolhidos, para sanar as omissões, sem atribuição de efeito infringente.
+Recurso especial: alega violação dos arts. 489, § 1º, IV, V e VI, 1.022, Parágrafo Único, II e 373, § 2º, do CPC; art. 6º, VIII, do CDC, bem como dissídio jurisprudencial.
+Aponta negativa de prestação jurisdicional, sob o argumento de que o acórdão estadual não enfrentou os precedentes indicados do STJ e do TJ/SC acerca da inaplicabilidade do CDC nas relações de compra e venda de insumos agrícolas para produtores rurais.
+Defende que não existe verossimilhança das alegações nem hipossuficiência técnica, econômica ou jurídica dos recorridos, que são grandes produtores rurais, experientes e assistidos por engenheiro agrônomo, com acesso integral às provas e que adquiriram insumos para incrementar atividade produtiva.
+Invoca o art. 6º, VIII, do CDC e julgados sobre a não automaticidade da inversão do ônus e a necessidade de comprovação da hipossuficiência e verossimilhança das alegações.
+Postula, ao final, a anulação do acórdão recorrido, determinando o retorno do processo ao TJ/SC para sanar as omissões suscitadas. De forma sucessiva, afastar a incidência do CDC e a inversão do ônus da prova.
+RELATADO O PROCESSO, DECIDE-SE.
+- Da violação do art. 489 do CPC
+Do exame do acórdão recorrido, constata-se que as questões de mérito foram devidamente analisadas e discutidas, de modo que a prestação jurisdicional foi esgotada.
+É importante salientar que a ausência de manifestação a respeito de determinado ponto não deve ser confundida com a adoção de razões contrárias aos interesses da parte. Logo, não há contrariedade ao art. 489 do CPC, pois o Tribunal de origem decidiu de modo claro e fundamentado.
+No mesmo sentido: AgInt nos EDcl no AREsp n. 1.547.208/SP, Terceira Turma, DJe 19/12/2019 e AgInt no AREsp n. 1.480.314/RJ, Quarta Turma, DJe 19/12/2019.
+- Da violação do art. 1.022 do CPC
+É firme a jurisprudência do STJ no sentido de que não há ofensa ao art. 1.022 do CPC quando o Tribunal de origem, aplicando o direito que entende cabível à hipótese soluciona integralmente a controvérsia submetida à sua apreciação, ainda que de forma diversa daquela pretendida pela parte.
+A propósito, confira-se: REsp n. 2.095.460/SP, Terceira Turma, DJe de 15/2/2024 e AgInt no AREsp n. 2.325.175/SP, Quarta Turma, DJe de 21/12/2023.
+No particular, verifica-se que o acórdão recorrido decidiu, fundamentado e expressamente acerca da jurisprudência citada, de maneira que os embargos de declaração opostos pela parte agravante, de fato, não comportavam acolhimento.
+É o que se extrai da seguinte passagem:
+A uma, os precedentes mencionados pela agravada não tratam de precedentes vinculantes aos quais este Tribunal deva prestar necessária observância, sendo prescindível, portanto, que se realize o distinguishing entre aquelas hipóteses e o caso em tela.
+Outrossim, a duas, a vulnerabilidade técnica dos agravantes não pode ser afastada unicamente pela elaboração de laudo técnico em ação de produção antecipada de prova, tampouco pela suposta assessoria por engenheiros agrônomos, na medida em que ainda há provas complementares para serem produzidas na ação de origem.
+Ademais, a três, o aresto foi suficientemente claro, coerente e fundamentado quanto aos elementos que considerou para reputar presente a vulnerabilidade dos agravantes e, assim, a aplicabilidade do CDC no caso:
+Assim, observado o entendimento dominante desta Corte acerca do tema, não há que se falar em violação do art. 1.022 do CPC, incidindo, quanto ao ponto a Súmula 568/STJ.
+- Da harmonia entre o acórdão recorrido e a jurisprudência do STJ
+O TJ/SC ao decidir pela aplicação da teoria finalista mitigada, a fim de permitir a aplicação do CDC na relação firmada entre as partes, assim fundamentou:
+Com efeito, é consabido que, a teor do que dispõe art. 2º do CDC, "consumidor é toda pessoa física ou jurídica que adquire ou utiliza produto ou serviço como destinatário final."
+Uma leitura fria do referido dispositivo poderia, assim, levar à conclusão de que a relação jurídica travada entre as partes não possui caráter consumerista, na medida em que os agravantes não figuram como destinatários finais das sementes de milho adquiridas da empresa agravada. Ao contrário, atuam profissionalmente como produtores rurais, valendo-se do insumo adquirido para fins de plantação e posterior revenda da colheita.
+Ocorre que, no ordenamento brasileiro, convencionou-se aderir à teoria finalista mitigada, que permite a ampliação do conceito de consumidor, permitindo que a legislação protetiva aplique-se aos casos em que o adquirente de produtos ou serviços, conquanto não seja seu destinatário final, encontra-se em posição de hipossuficiência frente àquele responsável pelo seu fornecimento.
+..
+E adentrando nas molduras do caso concreto, entendo que está, de fato, caracterizada a vulnerabilidade dos recorrentes.
+Embora se dediquem à atividade agrícola, os agravantes litigam nos autos de origem em face de uma empresa multinacional cujo objeto contratual é justamente a pesquisa científica e a produção de insumos agrícolas, especialmente sementes, grãos e cereais, com um capital social superior a R$ 3.000.000.000,00 (três bilhões de reais; Evento 26, Anexo 2 - 1G).
+A disparidade entre os litigantes, aliás, não se limita ao campo econômico, assumindo maior relevância, em realidade, no seu aspecto técnico.
+Isso porque se discute, no caso, pretenso vício de qualidade genética nas sementes que os agravantes adquiriram da empresa agravada. Por mais experientes que sejam os recorrentes no setor agrícola, e ainda que o contrato havido entre as partes seja de alta expressão econômica, o fato é que sua dedicação concentra-se no cultivo de vegetais para posterior revenda da colheita.
+Sob o ponto de vista técnico, os agravantes não detém expertise e tampouco recursos de fácil alcance para demonstrar a existência de inadequações contidas no código genético das sementes adquiridas, de modo a justificar a baixa produtividade de sua safra.
+De outro lado, a agravada reconhecidamente figura como uma das líderes mundiais no desenvolvimento e comercialização de sementes geneticamente modificadas, dispondo de conhecimento específico, além de recursos técnicos e econômicos que lhe proporcionam muito mais condições de comprovar a qualidade dos produtos por ela comercializados.
+A disparidade técnica e econômica havida entre as partes no tocante ao cerne da discussão travada nos autos - vício do produto - é, portanto, de todo evidente, atraindo a incidência do Código de Defesa do Consumidor ao caso, com a consequente inversão do ônus probatório na forma do art. 6º, inc. VIII, do CDC.
+De fato, a decisão do TJ/SC encontra-se em harmonia com a jurisprudência desta Corte no sentido de atenuar a incidência da teoria finalista, aplicando o Código de Defesa do Consumidor quando estiver caracterizada situação de hipossuficiência técnica, jurídica ou econômica da pessoa física ou jurídica adquirente, ainda que integre o serviço ou o produto adquirido às suas próprias atividades econômicas, a exemplo de autônomos, microempresas e empresários individuais.
+Nesse sentido: REsp 1.080.719/MG, Terceira Turma, DJe de 17/08/2009; AgRg no AREsp 560.463/GO, Quarta Turma, DJe de 23/9/2014; AgRg no AREsp 646.466/ES, DJe de 10/6/2016; AgInt nos EDcl no AREsp 1.401.381/SP, Terceira Turma, DJe de 27/6/2019.
+Logo, não merece reforma o acórdão recorrido.
+Aplica-se, na espécie, a Súmula 568/STJ.
+- Do reexame de fatos e provas
+Demais disso, alterar as conclusões do TJ/SC, no que se refere à aplicação do CDC e à inversão do ônus da prova, tal como pretendido pela parte agravante , exige o reexame de fatos e provas, o que é vedado em recurso especial pela Súmula 7/STJ.
+Forte nessas razões, CONHEÇO do agravo e, com fundamento no art. 932, III e IV, "a", do CPC, bem como na Súmula 568/STJ, CONHEÇO PARCIALMENTE do recurso e, nessa extensão, NEGO PROVIMENTO ao recurso especial interposto por CORTEVA AGRISCIENCE DO BRASIL LTDA.
+Deixo de majorar os honorários na forma do art. 85, §11, do CPC, visto que não foram arbitrados no julgamento do recurso pelo Tribunal de origem.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar sua condenação às penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO. VENDA DE SEMENTES DE MILHO. SUPOSTO VÍCIO DE QUALIDADE DO PRODUTO. VIOLAÇÃO DO ART. 489 DO CPC. INOCORRÊNCIA. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. AUSÊNCIA. APLICAÇÃO DO CDC. TEORIA FINALISTA MITIGADA. HARMONIA ENTRE O ACÓRDÃO RECORRIDO E A JURISPRUDÊNCIA DO STJ. INVERSÃO DO ÔNUS DA PROVA. REEXAME DE FATOS E PROVAS. INADMISSIBILIDADE. SÚMULAS 7/STJ.
+1. Ação de indenização por danos materiais e compensação por danos morais.
+2. Devidamente analisadas e discutidas as questões de mérito, e fundamentado corretamente o acórdão recorrido, de modo a esgotar a prestação jurisdicional, não se verifica violação do art. 489 do CPC.
+3. Ausentes os vícios do art. 1.022 do CPC, rejeitam-se os embargos de declaração.
+A jurisprudência desta Corte tem mitigado os rigores da teoria finalista para autorizar a incidência do CDC nas hipóteses em que a parte (pessoa física ou jurídica), embora não seja tecnicamente a destinatária final do produto ou serviço, se apresente em situação de vulnerabilidade. Precedentes.
+4. O reexame de fatos e provas em recurso especial é inadmissível.
+5. Agravo conhecido. Recurso especial parcialmente conhecido e, nessa extensão, não provido.
