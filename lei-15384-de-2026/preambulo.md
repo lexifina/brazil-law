@@ -1,0 +1,2 @@
+Altera a Lei nº 11.340, de 7 de agosto de 2006 (Lei Maria da Penha), o Decreto-Lei nº 2.848, de 7 de dezembro de 1940 (Código Penal), e a Lei nº 8.072, de 25 de julho de 1990 (Lei dos Crimes Hediondos), para prever a violência vicária entre as formas de violência doméstica e familiar, criar o tipo penal do vicaricídio e incluí-lo no rol dos crimes hediondos.
+O PRESIDENTE DA REPÚBLICA Faço saber que o Congresso Nacional decreta e eu sanciono a seguinte Lei:
