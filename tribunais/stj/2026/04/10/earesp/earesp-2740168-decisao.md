@@ -1,0 +1,20 @@
+DECISÃO
+Trata-se de embargos de divergência interpostos por RI HAPPY BRINQUEDOS S.A. e OUTRO contra o acórdão da Terceira Turma assim ementado (fl. 1.116):
+PROCESSUAL CIVIL. AGRAVO INTERNO EM AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO DOS FUNDAMENTOS DA DECISÃO DE ADMISSIBILIDADE DO TRIBUNAL DE ORIGEM. INCIDÊNCIA DA SÚMULA N. 182/STJ.
+1. No caso dos autos, não houve impugnação de todos os fundamentos da decisão que inadmitiu o recurso especial.
+2. É inviável o conhecimento do agravo em recurso especial que não tenha impugnado especificamente todos os fundamentos da decisão agravada. Incidência da Súmula n. 182 do STJ.
+Agravo interno improvido.
+Os embargos de declaração opostos foram rejeitados (fls. 1.154-1.159).
+Aduz o embargante que há divergência com acórdãos paradigma da Corte Especial (EREsp n. 1.424.404/SP), da Segunda Turma (AgInt no AREsp n. 2.030.338/SP e AgInt no AREsp n. 1.795.402/SP) e da Primeira Turma (AgInt no AgInt no REsp n. 1.763.586/RS), relativamente à tese de que a impugnação específica, para afastar a aplicação da Súmula n. 182 do STJ, pode ser reconhecida quando o agravante enfrenta, de modo fundamentado, os óbices lançados na decisão de inadmissibilidade, admitindo-se, no âmbito do agravo interno, a impugnação parcial dirigida a fundamentos autônomos, e que, no agravo em recurso especial, a dialeticidade exige cotejo concreto dos fundamentos, mas não formalismo excessivo.
+Alega que o acórdão embargado aplicou rigidamente a Súmula n. 182 do STJ sem demonstrar, de modo objetivo, a alegada deficiência argumentativa; sustenta a primazia do julgamento de mérito (arts. 4º e 6º do CPC), a inaplicabilidade das Súmulas n. 315 e 168 do STJ quando a divergência versa matéria processual, e afirma ter impugnado os óbices de inadmissibilidade, inclusive quanto às Súmulas n. 5, 7 e 13 do STJ e ao dissídio.
+É o relatório. Decido.
+Os embargos não reúnem condições de processamento, porquanto não há similitude entre os arestos confrontados.
+No acórdão embargado, a Terceira Turma assentou ser "incindível" a decisão de inadmissibilidade do recurso especial proferida na origem, exigindo impugnação específica de todos os seus fundamentos pelo agravo em recurso especial, e aplicou a Súmula n. 182 do STJ diante da ausência de ataque a óbices como as Súmulas n. 5, 7 e 13 do STJ e a deficiência na demonstração do dissídio (fls. 1.118-1. 122).
+Já o paradigma da Corte Especial (EREsp n. 1.424.404/SP) versa sobre a dinâmica própria do agravo interno no STJ, admitindo impugnação parcial de capítulos autônomos da decisão singular e afastando a Súmula 182/STJ nessa hipótese, sem rediscutir a regra específica aplicável ao agravo em recurso especial dirigido contra decisão de inadmissibilidade na origem. Seguindo essa mesma orientação, o acórdão paradigma da Primeira Turma (AgInt no AgInt no REsp n. 1.763.586/RS), em agravo interno, aplica a diretriz da Corte Especial e afasta a Súmula n. 182 d o STJ quando houver capítulos autônomos, reconhecendo apenas a preclusão da matéria não impugnada.
+Os paradigmas da Segunda Turma também não servem para comprovar a divergência, porquanto o AgInt no AREsp n. 2.030.338/SP demonstra hipótese inversa, em que houve ataque específico e, por isso, não incidiria a Súmula n. 182/STJ e o AgInt no AREsp n. 1.795.402/SP manteve a incidência da Súmula 182/STJ por impugnação genérica.
+Verifica-se que os arestos confrontados analisaram contextos fáticos totalmente distintos e cercados de peculiaridades próprias.
+Para que se viabilizem os embargos de divergência, é necessária a demonstração da similitude das circunstâncias fáticas em face das quais se deu o julgamento e de soluções jurídicas diversas.
+Ante o exposto, com fundamento no art. 266-C do RISTJ, indefiro liminarmente os embargos de divergência.
+Nos termos do § 11 do art. 85 do CPC, majoro, em 10% sobre o valor já arbitrado nas instâncias de origem, os honorários advocatícios em desfavor da parte ora recorrente, observados, se aplicáveis, os limites percentuais previstos no § 2º do referido artigo e ressalvada eventual concessão de gratuidade de justiça.
+Publique-se. Intimem-se.
+EMENTA
