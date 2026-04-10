@@ -1,0 +1,26 @@
+DECISÃO
+Cuida-se de Habeas Corpus impetrado em favor de PAOLA DE SOUZA FERREIRA em que se aponta como ato coator o acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SANTA CATARINA assim ementado:
+AGRAVO INTERNO EM HABEAS CORPUS. TRÁFICO E ASSOCIAÇÃO PARA O TRÁFICO LEI 11.343/2006, ARTS. 33, CAPUT, E 35 . DECISÃO MONOCRÁTICA QUE NÃO CONHECEU DO WRIT SUBSTITUTIVO. RECURSO DA DEFESA. PLEITO DE PROGRESSÃO PARA O REGIME ABERTO. INVIABILIDADE. UTILIZAÇÃO DO HABEAS CORPUS COMO SUCEDÂNEO RECURSAL. REGIME SEMIABERTO HARMONIZADO DEFERIDO EM RAZÃO DO DÉFICIT DE VAGAS EM ESTABELECIMENTO PRISIONAL FEMININO. RECOLHIMENTO DOMICILIAR INTEGRAL COM MONITORAMENTO ELETRÔNICO MANTIDO. AUSÊNCIA DE FLAGRANTE ILEGALIDADE, ABUSO DE PODER OU TERATOLOGIA. ANÁLISE DETALHADA DE MARCOS TEMPORAIS QUE DEMANDA INCURSÃO NO ACERVO FÁTICO- PROBATÓRIO DA EXECUÇÃO. DECISÃO MANTIDA. RECURSO DESPROVIDO.
+Consta dos autos que foi indeferido o pedido de progressão de regime ao aberto, mantendo-se a paciente no regime semiaberto harmonizado, tendo sido, também, determinada a utilização de tornozeleira eletrônica como condição ao cumprimento da prisão domiciliar.
+Em suas razões, sustenta a impetrante a ocorrência de constrangimento ilegal, porquanto a data-base para progressão de regime deve ser o dia do preenchimento do requisito objetivo, não sendo possível adotar a data da realização do exame criminológico favorável, que possui natureza meramente declaratória.
+Alega que há constrangimento ilegal porque já havia sido implementado o requisito objetivo para o regime aberto, com data prevista no cálculo em 21.01.2026, e a negativa fundou-se indevidamente na vedação à progressão per saltum, apesar de inexistirem notícias de falta grave ou descumprimento.
+Argumenta que foi cumprido o requisito previsto no art. 112, § 3º, da LEP, para a concessão da progressão de regime especial à paciente, considerando que o mencionado dispositivo legal veda o benefício somente às condenadas pelo crime de organização criminosa, não sendo possível lhe conferir interpretação extensiva para abranger as condenadas pelo crime de associação para o tráfico.
+Defende que foram atendidos os requisitos necessários para concessão do benefício de prisão domiciliar à paciente, por possuir filhos menores de 12 (doze) anos de idade, devendo ser observado o melhor interesse da criança, inclusive sem monitoramento eletrônico, em caráter subsidiário.
+Requer, em suma, a progressão ao regime aberto e, subsidiariamente, a aplicação da fração de 1/8 (um oitavo) para fins de progressão especial e, alternativamente, a autorização de cumprimento da prisão domiciliar sem monitoramento eletrônico.
+É o relatório.
+Decido.
+A Terceira Seção do STJ, no julgamento do HC n. 535.063/SP, firmou entendimento de que não cabe Habeas Corpus substitutivo de recurso próprio, impondo-se o não conhecimento da impetração, salvo quando constatada alguma teratologia no ato judicial impugnado (Rel. Ministro Sebastião Reis Júnior, DJe de 25.8.2020).
+Assim, passo à análise das razões da impetração a fim de verificar se há flagrante ilegalidade que justifique a concessão do writ de ofício.
+Na espécie, consta do Voto condutor do acórdão impugnado a seguinte fundamentação quanto à controvérsia apresentada:
+No dia 10/03, a agravante impetrou habeas corpus perante este Tribunal e interpôs o recurso cabível no juízo de origem sequencial 63 - SEEU - Sistema Eletrônico de Execução Unificado . Posteriormente, em 15/03 sequencial 80 , a impetrante peticionou na instância de execução requerendo esclarecimentos sobre a data prevista para o preenchimento do requisito objetivo à progressão ao regime aberto.
+..
+Como se observa, a utilização do writ como substituto processual é vedada, principalmente quando se discute o mesmo objeto e já existe recurso próprio interposto na origem (fls. 13-14).
+Segundo entendimento firmado pela Terceira Seção do STJ no julgamento do HC n. 482.549/SP, havendo a simultânea interposição de recurso próprio e impetração de Habeas Corpus versando sobre os mesmos temas, inexiste ilegalidade em se reservar a análise das questões para o momento do julgamento do Agravo em Execução que está pendente de análise na origem, salvo se o writ impetrado no Tribunal a quo fosse destinado à tutela direta e imediata da liberdade de locomoção, o que não é o caso dos autos (Rel. Ministro Rogerio Schietti Cruz, DJe 3.4.2020).
+Ainda nesse sentido: AgRg nos EDcl nos EDcl no HC n. 580.806/MG, Rel. Ministro Sebastião Reis Júnior, Sexta Turma, DJe de 4.8.2020; AgRg no HC n. 801.494/AP, Rel. Ministro Rogerio Schietti Cruz, Sexta Turma, DJe de 17.8.2023; AgRg no HC n. 809.553/SP, Rel. Ministro Joel Ilan Paciornik, Quinta Turma, DJe de 16.8.2023; AgRg no HC n. 809.199/SP, Rel. Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe de 28.4.2023.
+Na espécie, conforme afirmou o Tribunal a quo (fl.13) tramitavam simultaneamente recurso de Agravo em Execução e Habeas Corpus com o mesmo objeto, em clara ofensa ao princípio da unirrecorribilidade.
+Conclui-se, assim, que no caso em análise não há manifesta ilegalidade a ensejar a concessão da ordem de ofício.
+Ante o exposto, com fundamento no art. 21-E, IV, c/c o art. 210, ambos do RISTJ, indefiro liminarmente o presente Habeas Corpus.
+Cientifique-se o Ministério Público Federal.
+Publique-se.
+Intimem-se.
+EMENTA
