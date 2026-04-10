@@ -1,0 +1,38 @@
+DECISÃO
+YLEJANDRA PAZ TEIXEIRA DE LIMA alega ser vítima de coação ilegal em decorrência de acórdão proferido pelo Tribunal de Justiça do Estado de Minas Gerais no HC n. 1.0000.26.009972-6/000.
+A defesa sustenta que não estão presentes os requisitos dos arts. 312 e 313. ambos do CPP para justificar a custódia cautelar. Afirma que o decreto prisional não tem fundamentação concreta e está assentado na gravidade abstrata do crime. Sustenta, ainda a desproporcionalidade da prisão e a suficiência de medidas cautelares alternativas.
+Requer a revogação da prisão preventiva, ainda que mediante imposição de cautelares diversas.
+O Ministério Público Federal opinou pelo não provimento do recurso ordinário (fls. 182-186).
+Decido.
+Infere-se dos autos que a recorrente foi presa em flagrante, pela suposta prática do delito de tráfico ilícito de entorpecentes. O Juízo de primeira instância homologou o flagrante e converteu a prisão em preventiva, com base nos motivos a seguir (fls. 77-79, destaquei):
+No caso das flagranteadas, verifica-se a presença da situação descrita no inciso I do artigo 313 do CPP visto que o crime imputado ao autuado possui previsão de pena de reclusão acima de 04 anos.
+No presente caso, justificável é a prisão preventiva com base no art. 312 do Código de Processo Penal, ou seja, como medida de garantia da ordem pública e garantia de aplicação da lei penal.
+Analisando o caso, nota-se que foi praticado, em tese, crime de tráfico de drogas.
+Foi narrado pelos policiais militares que durante operação militar, deram ordem de parada a um ônibus intermunicipal oriundo de Juiz de Fora, com destino a São João Del Rei.
+Ao procederem a fiscalização no ônibus, perceberam que as ora autuadas aparentaram muito nervosas e inquietas com a presença policial.
+Ao ser anunciado que as bagagens de mão dos passageiros seriam revistadas, as flagranteadas demonstraram ainda mais nervosismo, o que gerou a fundada suspeita para sua revista pessoal.
+As autuadas informaram aos policiais que seriam namoradas e, durante a revista, os policiais visualizaram uma sacola aos pés de Bruna, sendo que ao vistoriá-la, encontraram seu interior 8 barras de maconha, tendo as autuadas, então, se negado a prestar quaisquer outras informações.
+Denota-se, portanto, que as autuadas transportavam enorme quantidade de drogas, sendo constatado pelo laudo toxicológico preliminar que se tratava de mais de 5kg de maconha, quantidade que aparenta ser muito superior ao esperado de um traficante comum e desproporcional ao mero usuário.
+Ainda que as autuadas sejam tecnicamente primárias, a enorme quantidade de drogas localizadas, bem como pelo fato das autuadas estarem, em tese, transportando-as de outra cidade para sua natal, indicam elementos indiciários de tráfico de drogas em larga escala, o que demonstra o risco à ordem pública gerado pela conduta das flagranteadas.
+A Prisão Preventiva, para garantia da ordem pública, justifica-se pela conduta que demonstra a gravidade concreta, o perigo gerado pelo estado de liberdade e a insuficiência das medidas cautelares diversas da prisão.
+Dessa forma, havendo prova razoável da existência do crime e indícios suficientes de autoria, além da concorrência de ao menos um dos pressupostos elencados no art. 312 do Código de Processo Penal (garantia da ordem pública e da aplicação da lei penal), entende-se que deve ser decretada a prisão preventiva dos autuados, nos termos do art. 311 do Código de Processo Penal.
+Em razão de tais fatos, entende-se não ser o caso de aplicar às flagranteadas quaisquer das medidas cautelares diversas da prisão elencadas no art. 319 do Código de Processo Penal, uma vez que insuficientes e inadequadas para coibir as suas recidivas criminosas e, consequentemente, preservar a ordem pública.
+Ante o exposto, HOMOLOGO A PRISÃO EM FLAGRANTE e CONVERTO a prisão em flagrante de BRUNA ROBERTA DA SILVA BATISTA e YLEJANDRA PAZ TEIXEIRA DE LIMA em prisão preventiva.
+O Tribunal de origem manteve a medida constritiva pelos seguintes argumentos (fls. 123-128):
+De igual modo, resta caracterizado o "periculum libertatis", à vista da necessidade de garantia da ordem pública, diante da exorbitante quantidade de entorpecentes apreendidos (5, 328 kg (cinco quilos, trezentos e vinte e oito gramas), acondicionados em oito invólucros), bem como pelo transporte intermunicipal da substância ilícita. tais circunstâncias revelam indícios de envolvimento das agentes em atividade de tráfico de drogas em larga escala, denotando a gravidade concreta da conduta e o risco de reiteração delitiva, o que torna legítima a manutenção da custódia cautelar, além de inadequadas e insuficientes as medidas cautelares diversas da prisão.
+A prisão preventiva é compatível com a presunção de não culpabilidade do acusado desde que não assuma natureza de antecipação da pena e não decorra, automaticamente, do caráter abstrato do crime ou do ato processual praticado (art. 313, § 2º, CPP). Além disso, a decisão judicial deve apoiar-se em motivos e fundamentos concretos, relativos a fatos novos ou contemporâneos, dos quais se possa extrair o perigo que a liberdade plena do investigado ou réu representa para os meios ou os fins do processo penal (arts. 312 e 315 do CPP).
+No caso, o decreto prisional está devidamente fundamentado, pois indicou a gravidade da conduta, extraída da apreensão de 5 kg de maconha e a prática do delito em coautoria.
+O STJ é firme ao afirmar que, nas situações em que a quantidade e/ou a natureza dos entorpecentes e outras circunstâncias do caso revelem a maior reprovabilidade da conduta investigada, tais dados são bastantes para demonstrar a gravidade concreta do delito e denotam a necessidade de se acautelar a ordem pública.
+Nessa perspectiva: "é idônea a motivação invocada pela Juízo de primeiro grau para embasar a ordem de prisão do paciente, porquanto evidenciou a gravidade em concreto da conduta praticada, consideradas a quantidade e a natureza do entorpecente apreendido" (HC n. 527.088/PR, Rel. Ministro Rogerio Schietti, 6ª T., DJe 19/9/2019).
+Menciono também:
+..
+1. A periculosidade do agente, ao ser preso com expressiva quantidade de droga, mais de 1 kg de maconha, constitui fundamentação idônea para a garantia da ordem pública.
+2. A desproporcionalidade da prisão preventiva em relação ao provável regime prisional não pode ser aferida antes da dosimetria da pena, incabível, portanto, sua antecipação na via eleita.
+3. Presentes fundamentos concretos para justificar a custódia cautelar, não se revela cabível a aplicação de medidas cautelares alternativas à prisão.
+4. Agravo regimental improvido.
+(AgRg no HC n. 633.326/MG, Rel. Ministro Olindo Menezes (Desembargador convocado do TRF 1ª Região), 6ª T., DJe 7/5/2021, grifei)
+Em razão da gravidade do crime e das indicadas circunstâncias do fato, as medidas cautelares alternativas à prisão não se m ostram adequadas e suficientes para evitar a prática de novas infrações penais. Nesse sentido: "as circunstâncias que envolvem o fato demonstram que outras medidas previstas no art. 319 do Código de Processo Penal são insuficientes para a consecução do efeito almejado. Ou seja, tendo sido exposta de forma fundamentada e concreta a necessidade da prisão, revela-se incabível sua substituição por outras medidas cautelares mais brandas" (AgRg no HC n. 789.592/SP, Rel. Ministro Reynaldo Soares da Fonseca, 5ª T., DJe 27/2/2023).
+Ressalto, por fim, que "Eventuais condições pessoais favoráveis não têm o condão de, por si sós, garantir a revogação da prisão preventiva" (AgRg no HC n. 582.182/RS, Rel. Ministro Sebastião Reis Júnior, 6ª T., DJe 21/8/2020).
+À vista do exposto, nego provimento ao recurso em habeas corpus.
+Publique-se e intimem-se.
+EMENTA
