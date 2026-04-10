@@ -1,0 +1,17 @@
+DECISÃO
+Trata-se de agravo interposto por MARCOS KAUÁ MOREIRA DE SOUZA contra a decisão que inadmitiu o recurso especial, com fundamento no art. 105, III, a, da Constituição Federal, apresentado contra o acórdão proferido pelo Tribunal de Justiça de Minas Gerais no julgamento da Apelação Criminal n. 1.0000.24.458947-9/001, assim ementado (fls. 410/411):
+APELAÇÃO CRIMINAL - TRÁFICO DE DROGAS - RECURSO DEFENSIVO - ABSOLVIÇÃO - MATERIALIDADE, AUTORIA E DESTINAÇÃO MERCANTIL DEMONSTRADAS - CREDIBILIDADE DOS DEPOIMENTOS PRESTADOS POR AGENTES POLICIAIS - IMPOSSIBILIDADE. Demonstradas a materialidade e a autoria delitivas, e não existindo causas de exclusão da ilicitude ou da culpabilidade, é de ser mantida a condenação do acusado pelo crime de tráfico de drogas. Orienta-se a jurisprudência no sentido de que os depoimentos dos agentes policiais, colhidos sob o crivo do contraditório, merecem credibilidade como elementos de convicção, máxime quando em harmonia com os elementos constantes dos autos. (STJ, HC n. 262.582/RS, Rel. Ministro Nefi Cordeiro, Sexta Turma, julgado em 10/03/2016, DJe 17/03/2016). ISENÇÃO DAS CUSTAS PROCESSUAIS - SUSPENSÃO DA EXIGIBILIDADE - JUÍZO DA EXECUÇÃO. Eventual suspensão da exigibilidade do pagamento das custas processuais deve ser examinada pelo Juízo da Execução Penal. RECURSO DO MINISTÉRIO PÚBLICO - EXCLUSÃO DA CAUSA ESPECIAL DE DIMINUIÇÃO DE PENA PREVISTA NO § 4º, DO ARTIGO 33, DA LEI Nº 11.343/06 - DEDICAÇÃO À PRÁTICA CRIMINOSA - REQUISITOS NÃO PREENCHIDOS - NECESSIDADE. Incabível a concessão da benesse do tráfico privilegiado se demonstrado, pela prova coligida, que o réu vinha se dedicando à traficância de drogas.
+Nas razões do recurso especial, a parte agravante aponta violação do art. 33, § 4º, da Lei n. 11.343/2006.
+Alega que o acórdão afastou indevidamente o tráfico privilegiado com base em relatório circunstanciado de investigação, lista de ocorrências policiais e passagem posterior por tráfico, fundamentos inidôneos à luz da jurisprudência.
+Argumenta que registros policiais sem trânsito em julgado, bem como fato posterior não podem sustentar a conclusão de dedicação a atividades criminosas, e que a quantidade e variedade de drogas, por si sós, são inerentes ao tipo e não justificam negar a minorante.
+Defende que, sendo primário e de bons antecedentes, preenche os requisitos do art. 33, § 4º, e requer a aplicação da fração máxima, com restauração da sentença de primeiro grau quanto ao regime e substituição da pena.
+A Corte de origem inadmitiu o reclamo com base nos seguintes fundamentos: 1) incidência da Súmula 7/STJ; e 2) indicação de paradigma em consonância com o acórdão recorrido (AgRg no REsp n. 2.002.201/RS), premissa típica da Súmula 83/STJ (fls. 502/503), sendo a decisão atacada pelo presente agravo (fls. 509/521).
+Instado a se manifestar na condição de custos legis, o Ministério Público Federal opinou pelo improvimento do recurso (fls. 550/556).
+É o relatório.
+O recurso perdeu o objeto.
+Ora, conforme certidão de óbito juntada à fl. 533, obtida pela diligente serventia desta Corte, o agravante faleceu no dia 15/10/2025.
+Assim, declaro extinta a punibilidade do agravante, nos termos do art. 107, I, do Código Penal, e, com fundamento no art. 34, XI, do RISTJ, julgo prejudicado o agravo em recurso especial.
+Publique-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. ÓBITO DO AGRAVANTE. EXTINÇÃO DA PUNIBILIDADE. RECURSO PREJUDICADO.
+Declarada extinta a punibilidade do agravante. Agravo em recurso especial julgado prejudicado.
