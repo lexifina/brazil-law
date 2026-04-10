@@ -1,0 +1,38 @@
+DECISÃO
+Cuida-se de agravo interposto por GALWAN CONSTRUTORA E INCORPORADORA S.A. contra decisão que obstou a subida de recurso especial.
+Extrai-se dos autos que a agravante interpôs recurso especial, com fundamento no art. 105, III, "a", da Constituição Federal, contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DO ESPÍRITO SANTO cuja ementa guarda os seguintes termos (fls. 675-676):
+CIVIL E PROCESSUAL CIVIL - APELAÇÃO CÍVEL - CONSTRUÇÃO - REGIME DE ADMINISTRAÇÃO (PREÇO DE CUSTO) - CONDOMÍNIO FECHADO - RESPONSABILIDADE DOS CONDÔMINOS - MITIGAÇÃO - AÇÃO INDENIZATÓRIA - ATRASO DE OBRA - IMÓVEL - MORA RECONHECIDA - CLÁUSULA PENAL MORATÓRIA - INVERSÃO - CUMULAÇÃO COM LUCROS CESSANTES - IMPOSSIBILIDADE - DANO MORAL CARACTERIZADO - HONORÁRIOS SUCUMBENCIAIS - MAJORAÇÃO - SENTENÇA PARCIALMENTE MODIFICADA.
+1. A responsabilidade pela construção no regime de administração (preço de custo) recai sobre os condôminos, que administram os recursos e assumem os riscos do empreendimento, conforme o art. 58 da Lei nº 4.591/64. No entanto, esta responsabilidade pode ser mitigada ou afastada se houver controle significativo da obra pela construtora ou impedimento da participação efetiva dos condôminos. Isto porque, o contrato de administração pressupõe que os condôminos estejam efetivamente à frente da administração da obra, caso contrário, haverá uma descaracterização do regime de preço de custo, podendo a construtora ser responsabilizada pelos prejuízos decorrentes de sua atuação.
+2. Verificada a mora da construtora quanto ao prazo de entrega do imóvel, tem direito o adquirente ao recebimento do valor correspondente a um aluguel no valor de mercado, por mês de atraso ou fração, a título de reparação material.
+3. O Colendo Superior Tribunal de Justiça, ao julgar os recursos especiais nºs. 1.631.485 e 1.614.721, sob a sistemática dos recursos repetitivos (Tema 971), fixou a seguinte tese jurídica, que se revela aplicável ao caso sub examine: "No contrato de adesão firmado entre o comprador e a construtora/incorporadora, havendo previsão de cláusula penal apenas para o inadimplemento do adquirente, deverá ela ser considerada para a fixação da indenização pelo inadimplemento do vendedor".
+4. A cláusula penal moratória tem a finalidade de indenizar pelo adimplemento tardio da obrigação e, em regra, estabelecida em valor equivalente ao locativo, afasta-se sua cumulação com lucros cessantes, consoante orientação firmada em sede de recurso repetitivo (Tema 970) pelo Colendo Superior Tribunal de Justiça.
+5. É cediço que o mero inadimplemento ou mora contratuais não enseja, per se, dano moral indenizável. Admite-se, contudo, a indenização por dano moral quando o atraso na entrega da obra for expressivo, notadamente se as circunstâncias fáticas apontarem contexto que superam meras contrariedades ou dissabores do cotidiano.
+Rejeitados os embargos de declaração opostos (fls. 744-758).
+No recurso especial, a parte recorrente alega, preliminarmente, ofensa ao art. 1.022 do CPC, porquanto, apesar da oposição dos embargos de declaração, o Tribunal de origem não se pronunciou sobre pontos necessários ao deslinde da controvérsia.
+Aduz, no mérito, que o acórdão contrariou as disposições contidas nos arts. 141, 326 e 492 do CPC.
+Sustenta, em síntese, que a decisão recorrida incorreu em flagrante julgamento extra petita ao condenarem a recorrente à inversão de cláusula penal com base em dispositivo contratual (Cláusula 13ª) diversos daqueles expressamente pleiteados pelo autor na petição inicial (inversão da Cláusula 12, §2º).
+Foram oferecidas contrarrazões ao recurso especial (fls. 799-813).
+Sobreveio o juízo de admissibilidade negativo na instância de origem (fls. 814-834), o que ensejou a interposição do presente agravo.
+Apresentada contraminuta do agravo (fls. 875-895).
+É, no essencial, o relatório.
+Atendidos os pressupostos de admissibilidade do agravo, passo ao exame do recurso especial.
+Inicialmente, não há falar em ofensa aos arts. 489 e 1.022 do CPC, uma vez que o Tribunal de origem, no julgamento dos embargos de declaração, deixou claro que (fl. 748):
+De plano, esclareço que a suposta nulidade da sentença sequer foi ventilada nas razões recursais, de forma que incabível a alegação de omissão quanto à sua análise.
+Além disso, extrai-se do voto condutor proferido pelo então Relator, eminente Desembargador Convocado Aldary Nunes Júnior, que a questão afeta à alegada impossibilidade de cumulação da condenação por lucros cessantes com a inversão da cláusula penal fora devidamente apreciada e rejeitada, como se extrai do seguinte excerto do voto condutor
+Observa-se, portanto, que a lide foi solucionada em conformidade com o que foi apresentado em juízo. Assim, verifica-se que o acórdão recorrido está com fundamentação suficiente, inexistindo omissão ou contradição.
+Por outro lado, da análise das razões do recurso especial, observa-se que a recorrente limita-se a suscitar que a decisão recorrida incorreu em flagrante julgamento extra petita e deixa de impugnar o fundamento do acordão recorrido no sentido de a suposta nulidade da sentença sequer foi ventilada nas razões recursais, o que atrai a incidência da Súmula n. 283/STF: "É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles".
+Nesse sentido, cito:
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO POR DANOS MATERIAIS. TUTELA CAUTELAR ANTECEDENTE REQUERIDA EM OUTRO PROCESSO. LIMINAR DEFERIDA. BLOQUEIO DE TRANSFERÊNCIA DE EMBARCAÇÃO. PREQUESTIONAMENTO. AUSÊNCIA. SÚMULA Nº 282 DO STF. BOA-FÉ DA recorrente. FUNDAMENTO NÃO IMPUGNADO. SÚMULA Nº 283 DO STF. AGRAVO CONHECIDO. RECURSO ESPECIAL NÃO CONHECIDO.
+1. A ausência de debate no acórdão recorrido quanto aos temas suscitados no recurso especial e sobre os quais não foram opostos embargos de declaração evidencia a falta de prequestionamento, incidindo o disposto na Súmula nº 282 do STF.
+2. O acórdão recorrido afirmou que a conduta da recorrente não se coadunava com a boa-fé e que ela assumiu os riscos ao concretizar a transação comercial mesmo ciente das limitações impostas pela medida cautelar, o que romperia o nexo de causalidade entre a medida judicial e os prejuízos alegadamente suportados. Como esse fundamento não foi impugnado, merece aplicação a Súmula nº 283 do STF.
+3. Agravo conhecido. Recurso especial não conhecido.
+(AREsp n. 3.034.688/TO, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 23/3/2026, DJEN de 30/3/2026.)
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. APELAÇÃO. AÇÃO DE INDENIZAÇÃO. CUMPRIMENTO DE SENTENÇA. PERDA DE OBJETO. POSTERIOR RATIFICAÇÃO. RAZÕES DISSOCIADAS. SÚMULAS 283 E 284/STF. AGRAVO CONHECIDO. RECURSO ESPECIAL NÃO CONHECIDO.
+1. A subsistência de fundamento inatacado, apto a manter a conclusão do aresto impugnado, e a apresentação de razões dissociadas desse fundamento impõem o reconhecimento da incidência das Súmulas 283 e 284 do STF, por analogia. Precedentes.
+1.1. As razões do recurso especial não impugnaram a posterior ratificação da decisão que permitiu a execução provisória, nem se atentaram ao trânsito em julgado que confirmou o título, deixando de atacar ponto essencial do acórdão recorrido.
+2. Agravo conhecido. Recurso especial não conhecido.
+(AREsp n. 2.559.510/RN, relator Ministro Raul Araújo, Quarta Turma, julgado em 23/3/2026, DJEN de 26/3/2026.)
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Nos termos do art. 85, § 11, do CPC, majoro os honorários fixados em desfavor da parte recorrente para 15% sobre o valor atualizado da condenação
+Publique-se. Intimem -se.
+EMENTA
