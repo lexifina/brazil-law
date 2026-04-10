@@ -1,0 +1,15 @@
+DECISÃO
+Trata-se de embargos de declaração opostos por Everson Martins Ferreira contra decisão que indeferiu, liminarmente, os embargos de divergência ao fundamento de que o acórdão indicado como paradigma diverge da orientação firmada pela Corte Especial no REsp n. 1.660.671/RS, não se prestando, portanto, a evidenciar dissídio apto a ser sanado por meio de embargos de divergência (fls. 160-163).
+O embargante alega que a decisão embargada, ao indeferir liminarmente os embargos de divergência, "incorreu em omissão ao deixar de se pronunciar quanto ao Tema 1.285/STJ e à possibilidade de suspensão do presente recurso". Requer, assim, o acolhimento dos embargos de declaração, "a fim de que a omissão seja sanada, com devida análise do pedido de suspensão do recurso até decisão definitiva do Tema 1.285/STJ".
+Sem impugnação (cf. certidão de fl. 175).
+É o relatório. Passo a decidir.
+Consigne-se inicialmente que o recurso foi interposto contra decisão publicada na vigência do Código de Processo Civil de 2015, devendo ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+Nos termos do que dispõe o artigo 1.022 do CPC/2015, cabem embargos de declaração contra qualquer decisão judicial para esclarecer obscuridade, eliminar contradição, suprir omissão de ponto ou questão sobre a qual devia se pronunciar o juiz de ofício ou a requerimento, bem como para corrigir erro material.
+No caso, a decisão embargada examinou, de forma suficiente, os requisitos de admissibilidade dos embargos de divergência, destacando a necessidade de similitude fático-jurídica entre os acórdãos confrontados e a inadequação do paradigma indicado, por destoar da orientação firmada pela Corte Especial.
+Também foi trazida jurisprudência da Corte Especial sobre a indispensável similitude fático-processual para a admissão dos embargos de divergência: "A admissão dos embargos de divergência está condicionada à comprovação do dissídio jurisprudencial, por meio da demonstração da similitude fático-processual entre o acórdão embargado e o julgado paradigma, inexistente na hipótese dos autos." (AgRg nos EREsp n. 1.975.411/SP, relatora Ministra Nancy Andrighi, Corte Especial, julgado em 12/8/2024, DJe de 5/9/2024).
+Quanto ao pedido de suspensão em razão do Tema 1.285/STJ, a alegada omissão não se verifica. Isso porque, repita-se, os embargos de divergência foram rechaçados por falta de paradigma apto, pois o acórdão da Primeira Turma invocado "destoa da orientação firmada pela Corte Especial, não sendo apto portanto a sustentar divergência".
+Nesse contexto, o sobrestamento não se impõe na via estreita do juízo de admissibilidade dos embargos de divergência, que se exauriu no indeferimento liminar, nos termos do art. 266-C do Regimento Interno do STJ, já mencionado na decisão.
+Ante o exposto, rejeito os embargos de declaração.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NOS EMBARGOS DE DIVERGÊNCIA NO RECURSO ESPECIAL. ART. 1.022 DO CPC/2015. VIOLAÇÃO. AUSÊNCIA.
