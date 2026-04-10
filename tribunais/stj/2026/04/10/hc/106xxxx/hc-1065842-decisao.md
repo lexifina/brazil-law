@@ -1,0 +1,95 @@
+DECISÃO
+Trata-se de habeas corpus com pedido de liminar impetrado em favor de LIDINEIA ANDRADE DE MELO em que se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO DE JANEIRO.
+Consta dos autos que a paciente foi condenada à pena de 14 anos de reclusão em regime inicial fechado, posteriormente beneficiada com a progressão ao regime semiaberto.
+A defesa registra que, após apuração da falta disciplinar de natureza grave por incitação de motim e desobediência durante revista, com parecer unânime da Comissão Técnica de Classificação, o Juízo da execução homologou a falta grave e determinou a interrupção da data-base para progressão. O agravo em execução foi julgado improvido.
+A impetrante sustenta a nulidade absoluta do PAD pela ausência de defesa técnica na oitiva da paciente, em afronta ao art. 5º, LV, da Constituição Federal, ao art. 59 da Lei de Execução Penal e à Súmula n. 533 do STJ, com prejuízo presumido e inaplicabilidade do pas de nullité sans grief.
+Alega insuficiência probatória, afirmando que a falta grave foi reconhecida apenas com base em relatos de policiais penais, sem elementos de corroboração, o que não legitima sanção disciplinar com reflexos na execução.
+Assevera que o controle jurisdicional deve ser pleno quanto à legalidade, não sendo possível blindar a violação de garantias fundamentais sob o rótulo de mérito administrativo.
+Afirma que é indevida a exigência de demonstração de prejuízo, pois a nulidade é absoluta quando ausente defensor na oitiva, com prejuízo presumido conforme a jurisprudência desta Corte Superior.
+Defende violação do art. 8.2, d, da Convenção Americana sobre Direitos Humanos, assegurando assistência por defensor desde os atos iniciais, o que teria sido desrespeitado no procedimento disciplinar.
+Entende configurado constrangimento ilegal atual, pois a homologação do PAD viciado interrompeu a data-base e agravou a execução, sendo o habeas corpus via adequada para cessar a ilegalidade.
+Pondera, em reforço, quadro comparativo entre o PAD e a orientação do STJ, concluindo pela nulidade do procedimento e pela impossibilidade de produção de efeitos executórios.
+Requer, liminarmente e no mérito, a suspensão dos efeitos do PAD e o restabelecimento da data-base anterior; e, no mérito, a declaração de nulidade do PAD e a desconstituição de seus efeitos. Subsidiariamente, requer o afastamento do reconhecimento da falta grave por insuficiência probatória.
+O pedido de liminar foi indeferido em fls. 85-86.
+Foram prestadas informações pelas instâncias de origem em fls. 93-96 e 104-172.
+O Ministério Público Federal manifesta-se pelo não conhecimento do habeas corpus em parecer assim ementado (fl. 174):
+EXECUÇÃO PENAL. HABEAS CORPUS SUBSTITUTIVO DE RECURSO ESPECIAL. NÃO CABIMENTO. FALTA GRAVE. PROCEDIMENTO ADMINISTRATIVO DISCIPLINAR (PAD). ALEGADA NULIDADE POR AUSÊNCIA DE DEFESA TÉCNICA. NÃO OCORRÊNCIA. PACIENTE ASSISTIDA PELA DEFENSORIA PÚBLICA. PROVA DA INFRAÇÃO. DEPOIMENTO DE AGENTES PÚBLICOS. PRESUNÇÃO DE VERACIDADE E LEGITIMIDADE. CONTROLE JURISDICIONAL LIMITADO À LEGALIDADE E REGULARIDADE FORMAL. INVIABILIDADE DE REEXAME DE PROVAS NA VIA ELEITA. AUSÊNCIA DE FLAGRANTE ILEGALIDADE. PARECER PELO NÃO CONHECIMENTO.
+É o relatório.
+O Superior Tribunal de Justiça entende ser inadmissível a utilização do habeas corpus como sucedâneo de recurso próprio, previsto na legislação, impondo-se o não conhecimento da impetração.
+Sobre a questão, confiram-se os seguintes julgados desta Corte Superior:
+DIREITO PENAL E PROCESSUAL PENAL. AGRAVO REGIMENTAL EM HABEAS CORPUS. CONDENAÇÃO TRANSITADA EM JULGADO. IMPOSSIBILIDADE DE UTILIZAÇÃO DO HABEAS CORPUS COMO SUCEDÂNEO DE REVISÃO CRIMINAL. AGRAVO DESPROVIDO.
+I. CASO EM EXAME
+1. Agravo regimental interposto por Pablo da Silva contra decisão monocrática que não conheceu de habeas corpus, com base no entendimento de que o habeas corpus foi utilizado em substituição a revisão criminal. O agravante foi condenado a 1 ano de reclusão, com substituição da pena por restritiva de direitos, pela prática de furto (art. 155, caput, CP). A defesa pleiteou a conversão da pena restritiva de direitos em multa, alegando discriminação com base na condição financeira do paciente.
+II. QUESTÃO EM DISCUSSÃO
+2. Há duas questões em discussão: (i) definir se é cabível o conhecimento do habeas corpus utilizado em substituição à revisão criminal; e (ii) estabelecer se a escolha da pena restritiva de direitos, em vez de multa, configura discriminação por condição financeira.
+III. RAZÕES DE DECIDIR
+3. O habeas corpus não é admitido como substituto de revisão criminal, conforme a jurisprudência consolidada do STJ e do STF, ressalvados casos de flagrante ilegalidade.
+4. Não houve demonstração de ilegalidade evidente na escolha da pena restritiva de direitos, sendo esta compatível com a natureza do crime e as condições pessoais do condenado.
+IV. DISPOSITIVO E TESE
+5. Agravo regimental desprovido.
+Tese de julgamento:
+1. O habeas corpus não pode ser utilizado como substituto de revisão criminal, salvo em casos de flagrante ilegalidade.
+2. A escolha de pena restritiva de direitos, em substituição à privativa de liberdade, não configura discriminação por condição financeira, desde que adequadamente fundamentada.
+Dispositivos relevantes citados: Código Penal, art. 155; STJ, AgRg no HC 861.867/SC; STF, HC 921.445/MS.
+(AgRg no HC n. 943.522/SC, relator Ministro Messod Azulay Neto, Quinta Turma, julgado em 22/10/2024, DJe de 4/11/2024.)
+PROCESSUAL PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS. NULIDADE. ABSOLVIÇÃO IMPETRAÇÃO DE HABEAS CORPUS NA FLUÊNCIA DO PRAZO PARA A INTERPOSIÇÃO DE RECURSOS NA ORIGEM. IMPOSSIBILIDADE.
+1. "O writ foi manejado antes do dies ad quem para a interposição da via de impugnação própria na causa principal, o recurso especial. Dessa forma, a impetração consubstancia inadequada substituição do recurso cabível ao Superior Tribunal de Justiça, não se podendo excluir a possibilidade de a matéria ser julgada por esta Corte na via de impugnação própria, a ser eventualmente interposta na causa principal" (AgRg no HC n. 895.954/DF, relator Ministro Otávio de Almeida Toledo - Desembargador Convocado do TJSP, Sexta Turma, julgado em 12/8/2024, DJe de 20/8/2024.)
+2. Agravo regimental desprovido.
+(AgRg no HC n. 939.599/SE, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 23/10/2024, DJe de 28/10/2024.)
+Portanto, não se pode conhecer do presente habeas corpus.
+Por outro lado, o exame dos autos não indica a existência de ilegalidade flagrante, apta a autorizar a concessão da ordem de ofício.
+O Tribunal de origem negou provimento ao agravo em execução interposto pela defesa, consignando, para tanto, que (fls. 16-22):
+Em fevereiro de 2024, foi apurada a prática de falta disciplinar de natureza grave, através do procedimento disciplinar nº SEI- 210046/001293/2023, pelas infrações previstas nos incisos I e VI do art. 50 da Lei nº 7.210/84 (doc.02 - fl. 25).
+O procedimento administrativo foi acostado no doc.02 - fls. 06/19 deste processo, sendo que da sua leitura observa-se que a agravante, durante procedimento de revista, descumpriu as determinações dos agentes penitenciários, bem como incitou movimento para subverter a ordem e a disciplina da unidade prisional.
+Indagado pela autoridade administrativa, a apenada negou a acusação, sob a alegação de que não agrediu ninguém e quis apenas se defender (doc.02 - fls. 18).
+O parecer da Comissão Técnica de Classificação (doc.02-fl. 25) concluiu por unanimidade a prática da falta disciplinar de natureza grave, sugerindo a aplicação de trinta dias de isolamento com suspensão de direitos por igual período, além do rebaixamento de seu índice para negativo por cento e oitenta dias, o que foi aplicado como sanção ao apenado pelo Diretor do Instituto Prisional (doc.02 - fl. 26).
+Sobrevindo o procedimento administrativo ao processo de execução, e após vista às partes, por decisão datada de 10/04/2024, foi o mesmo homologado e determinada a interrupção do prazo para fins de progressão de regime a contar da falta (aba 254.1 dos autos executórios originários CES nº 0298888-32.2011.8.19.0001). Posteriormente, a defesa técnica pugnou pela absolvição da apenada do PAD, considerando sua absolvição no processo 0833646-30.2023.8.19.0204, referente a pratica de crime de tráfico de drogas durante o acautelamento, o que foi afastado nos seguintes termos (doc.02 -fls. 38/39):
+..
+No ponto, impossível discordar da decisão objurgada, em vista da falta grave cometida pela apenada, apurada em procedimento administrativo disciplinar que assegurou o contraditório e a ampla defesa, inexistindo qualquer ilegalidade ou equívoco.
+Cumpre registrar que o argumento da defesa quanto a alegada fragilidade do acervo probatório, colocando em dúvida a prática de falta grave pela agravante, não restou comprovado nos autos, em especial porque a falta cometida foi reportada por servidor, ausente qualquer prova que infirme sua narrativa , sendo certo que a agravante em sua autodefesa não fez qualquer menção a uma atitude de maldade ou vingança por parte dos agentes penitenciários, inexistindo nos autos elemento que indique eventual intenção espúria dos servidores para prejudicarem uma inocente.
+Não se pode esquecer que o agente penitenciário, enquanto servidor público goza de presunção de veracidade, sendo certo que as suas declarações são perfeitamente aptas a comprovar a prática da falta disciplinar que ora se questiona, verbis:
+..
+Outrossim, não se pode olvidar que ao Poder Judiciário cabe apenas o controle da legalidade do ato administrativo, não cabendo ao magistrado se imiscuir no mérito da punição e tampouco a valoração das provas constantes no PAD.
+..
+Deveras, inviável acolher o pleito da combativa Defesa.
+Saliente-se, por oportuno, que a defesa não trouxe qualquer prova que demonstrasse eventual erro no parecer da Comissão Técnica de classificação, se limitando a alegações genéricas. Ademais, o procedimento administrativo foi realizado no âmbito da atribuição que é dada à administração penitenciária, com descrição da conduta, oitiva do autor da conduta, apresentação de defesa, respeitadas as garantias constitucionais aplicáveis ao PAD, não havendo que se falar, assim, em violação às garantias constitucionais, nem mesmo em eventual parcialidade dos agentes públicos responsáveis. A apenada exerceu seu direito constitucional à apresentação de autodefesa, inclusive negando a falta, não havendo porque se negar legitimidade e presunção de veracidade ao que foi afirmado pelo servidor público, ausente demonstração em contrário.
+Diante do exposto, voto para negar provimento ao recurso.
+Dos trechos do acórdão acima colacionados, verifica-se que, especificamente quanto à ausência da defesa técnica durante a oitiva da apenada no procedimento administrativo disciplinar, o Tribunal de origem não examinou a matéria alegada, circunstância que inviabiliza o exame pelo Superior Tribunal de Justiça, sob pena de indevida supressão de instância.
+Por outro lado, o Tribunal de origem afastou a alegação de nulidade do procedimento administrativo disciplinar, uma vez que concluiu que a respectiva falta foi "apurada em procedimento administrativo disciplinar que assegurou o contraditório e a ampla defesa, inexistindo qualquer ilegalidade ou equívoco" (fl. 18).
+Na mesma linha, a Corte local registra, ainda, que "o procedimento administrativo foi realizado no âmbito da atribuição que é dada à administração penitenciária, com descrição da conduta, oitiva do autor da conduta, apresentação de defesa, respeitadas as garantias constitucionais aplicáveis ao PAD, não havendo que se falar, assim, em violação às garantias constitucionais, nem mesmo em eventual parcialidade dos agentes públicos responsáveis" (fl. 22, grifei).
+A propósito, nesse mesmo raciocínio foi a manifestação do Ministério Público Federal, vejamos (fls. 175-177):
+Inicialmente, a tese de descumprimento de garantias asseguradas pelo Pacto de San José da Costa Rica não foi debatida na instância antecedente, o que impede a plena admissibilidade do habeas corpus, sob pena de se incorrer em indevida supressão de instância.
+No mais, não se pode perder de perspectiva que: 1) "Esta Corte - HC 535.063/SP, Terceira Seção, Rel. Ministro Sebastião Reis Junior, julgado em 10/6/2020 - e o Supremo Tribunal Federal - AgRg no HC 180.365, Primeira Turma, Rel. Min. Rosa Weber, julgado em 27/3/2020; AgR no HC 147.210, Segunda Turma, Rel. Min. Edson Fachin, julgado em 30/10/2018 -, pacificaram orientação no sentido de que não cabe habeas corpus substitutivo do recurso legalmente previsto para a hipótese, impondo-se o não conhecimento da impetração, salvo quando constatada a existência de flagrante ilegalidade no ato judicial impugnado" (AgRg no HC n. 801.250/SP, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 17/4/2023, D Je de 24/4/2023) e 2) "De acordo com a nossa sistemática recursal, o recurso cabível contra acórdão do Tribunal de origem que denega a ordem no HABEAS CORPUS é o recurso ordinário, consoante dispõe o art. 105, II, "a", da Constituição Federal. Do mesmo modo, o recurso adequado contra acórdão que julga apelação ou recurso em sentido estrito é o recurso especial, nos termos do art. 105, III, da Constituição Federal" (HC n. 794.375/SE, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 21/3/2023, D Je de 24/3/2023).
+No caso, o Tribunal a quo, ao negar provimento ao agravo em execução, entendeu que a manutenção da decisão que homologou a falta grave era impositiva, mantendo incólume a decisão do Juízo das execuções.
+Quanto à regularidade do Procedimento e observância da ampla defesa, o acórdão consignou que o Processo Administrativo Disciplinar (PAD) transcorreu de forma regular, respeitando as normas constitucionais e legais, tendo a paciente sido devidamente assistida pela Defensoria Pública durante o procedimento. Ressaltou-se que a apenada exerceu seu direito à autodefesa, inclusive negando a autoria dos fatos.
+..
+Ademais, a jurisprudência dessa Corte Superior veda a utilização do habeas corpus para o reexame de fatos e provas visando a absolvição de falta grave.
+Nesse contexto, a alteração do entendimento a que chegaram as instâncias ordinárias, a fim de absolver a paciente da imputação de prática de falta disciplinar, demandaria o reexame do conjunto fático-probatório, providência incompatível como o rito do habeas corpus.
+Nesse sentido:
+DIREITO PROCESSUAL PENAL. AGRAVO REGIMENTAL. HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. FALTA GRAVE EM EXECUÇÃO PENAL. ABSOLVIÇÃO. NECESSIDADE DE REVOLVIMENTO DE MATÉRIA FÁTICO-PROBATÓRIA. INVIABILIDADE. NULIDADE NÃO ARGUIDA NO TRIBUNAL DE ORIGEM. SUPRESSÃO DE INSTÂNCIA. AGRAVO REGIMENTAL NÃO PROVIDO.
+I. Caso em exame
+1. Agravo regimental interposto contra decisão que não conheceu de habeas corpus substitutivo de recurso próprio, impetrado em favor de reeducando acusado de falta grave por desobediência e desrespeito a servidor público em estabelecimento prisional.
+2. O acórdão do Tribunal de Justiça do Estado de Alagoas manteve a homologação do processo administrativo disciplinar, reconhecendo a prática de falta grave com base em depoimentos de agentes penitenciários e relatórios de procedimento administrativo.
+II. Questão em discussão
+3. A questão em discussão consiste em determinar se é possível afastar ou desclassificar a falta disciplinar de natureza grave atribuída ao reeducando, considerando-se as limitações da via do habeas corpus, que impede a análise aprofundada de matéria fático-probatória.
+4. Outra questão em discussão é a alegação de vício na oitiva de coinvestigado como testemunha, que não foi objeto de julgamento pelas instâncias ordinárias.
+III. Razões de decidir
+5. A jurisprudência do STJ e do STF é pacífica ao não admitir habeas corpus como substitutivo de recurso próprio ou revisão criminal, exceto em caso de flagrante ilegalidade que gere constrangimento ilegal.
+6. O Tribunal de origem reconheceu a prática de falta grave pelo reeducando, com base em provas que indicaram desrespeito e desobediência a servidor público no ambiente prisional, corroboradas por depoimentos de agentes penitenciários.
+7. A reavaliação da natureza da falta disciplinar, visando sua desclassificação ou absolvição, exigiria o reexame de provas e fatos, o que é inviável na via estreita do habeas corpus.
+8. Quanto à alegação de vício na oitiva de coinvestigado como testemunha, a questão não foi apreciada pelas instâncias ordinárias, impedindo a manifestação desta Corte sobre o tema, sob pena de supressão de instância. Ademais, a análise da decisão de primeiro grau revela que o coinvestigado foi ouvido nessa condição, não na condição de testemunha. A ele também foi imputada a falta grave e ele foi ouvido nessa condição. De qualquer forma, o fato é que, isolado esse depoimento, ainda há provas suficientes para sustentar a homologação da falta grave.
+IV. Dispositivo e tese
+9. Agravo regimental não provido.
+(AgRg no HC n. 957.183/AL, relatora Ministra Daniela Teixeira, Quinta Turma, julgado em 26/2/2025, DJEN de 5/3/2025, grifei.)
+AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO PENAL. FALTA GRAVE. DESCUMPRIMENTO DE ORDEM DE AGENTE PENITENCIÁRIO. FALTA DISCIPLINAR DE NATUREZA GRAVE. PRECEDENTES. ABSOLVIÇÃO. REVOLVIMENTO FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE NA VIA ELEITA. AGRAVO DESPROVIDO.
+1. Esta Corte possui entendimento segundo o qual o descumprimento de ordem emitida por agente penitenciário é apto, em princípio, a ensejar o reconhecimento de falta grave cometida pelo reeducando, nos termos dos arts. 50, VI e 39, II e V, ambos da Lei de Execução Penal. Precedentes.
+2. Revisar os elementos de prova para concluir pela atipicidade ou pela desclassificação da falta grave exigiria o revolvimento do contexto fático-probatório, procedimento incompatível com a estreita via do habeas corpus, na qual não se admite dilação probatória.
+3. Agravo regimental desprovido.
+(AgRg no HC n. 895.251/SP, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 29/4/2024, DJe de 3/5/2024, grifei.)
+AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO. FALTA GRAVE. ART. 50, I E VI, DA LEP. ATIPICIDADE OU DESCLASSIFICAÇÃO PARA FALTA DE NATUREZA MÉDIA. IMPOSSIBILIDADE DE REVOLVIMENTO DE PROVAS NA VIA ELEITA. DECISÃO DENEGATÓRIA MANTIDA. AGRAVO IMPROVIDO.
+1. Tendo as conclusões do acórdão regional sido lastreadas nas provas extraídas de procedimento administrativo regular, o acolhimento das alegações da defesa - atipicidade da conduta imputada a título de falta grave (art. 50, I e VI, da LEP), ou a desclassificação para falta de natureza média (art. 45, I, do RIP dos Estabelecimentos Prisionais de São Paulo) - demandaria revolvimento de provas, incabível na via estreita do habeas corpus.
+2. Agravo regimental improvido.
+(AgRg no HC n. 766.258/SP, relator Ministro Jesuíno Rissato -Desembargador convocado do TJDFT -, Sexta Turma, julgado em 7/3/2023, DJe de 10/3/2023, grifei.)
+Ante o exposto, não conheço do habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
