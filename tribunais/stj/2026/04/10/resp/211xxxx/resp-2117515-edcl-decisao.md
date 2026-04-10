@@ -1,0 +1,15 @@
+DECISÃO
+Trata-se de embargos de declaração opostos por Synchro Sistemas de Informação Ltda. e Filial(is) desafiando decisão, acostada às fls. 622/624, que não conheceu do recurso especial, sob os seguintes fundamentos: (i) não houve ofensa aos arts. 489 e 1.022 do CPC, na medida em que o Tribunal de origem dirimiu, fundamentadamente, as questões que lhe foram submetidas e apreciou integralmente a controvérsia posta nos autos; e (ii) o art. 10 Lei 10.666/2003, só por si, não contém comando capaz de sustentar a tese recursal de que, "sendo a finalidade do FAP a melhora do ambiente do trabalho, não haveria sentido em se cogitar da inclusão de acidentes de trajeto no cálculo da respectiva contribuição, tendo em vista que ditos acidentes não podem sequer ser evitados pelas empresas empregadoras" (fl. 477) nem de infirmar o juízo formulado pelo acórdão recorrido de que "O acidente "in itinere" é equiparado ao acidente de trabalho, consoante o disposto no artigo 21, inciso IV, alínea d, da Lei nº 8.213/91" (fl. 330) , de maneira que se impõe ao caso concreto a incidência da Súmula 284/STF.
+A parte embargante, em suas razões, sustenta haver omissão quanto à análise do alegado dissídio pretoriano.
+Transcorreu in albis o prazo para resposta (fl. 638).
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+De início, impõe-se a corrigenda, de ofício, de erro material identificado no decisório: onde se lê: "ANTE O EXPOSTO, não conheço do recurso especial"; leia-se: "ANTE O EXPOSTO, conheço em parte do recurso especial e, nessa extensão, nego-lhe provimento".
+Adiante, de acordo com o previsto no artigo 1.022 do CPC, são cabíveis embargos de declaração nas hipóteses de obscuridade, contradição, omissão do decisum atacado ou para correção de erro material.
+Entretanto, na hipótese, não se verifica a existência da pecha de omissão indicada.
+Isso porque é cediço que "Os óbices que impedem o exame do especial pela alínea a prejudicam a análise do recurso interposto pela alínea c do permissivo constitucional para discutir a mesma matéria" (AgInt no REsp n. 2.233.858/RJ, relatora Ministra Regina Helena Costa, Primeira Turma, julgado em 1/12/2025, DJEN de 4/12/2025).
+No caso, a decisão alvejada foi expressa ao fazer incidir o óbice sumular 284/STF no ponto em que indicada ofensa ao art. 10 da Lei 10.666/2003, sobre o qual foi indicado o dissídio pretoriano. Assim, notória a inviabilidade de se conhecer do apelo raro seja pela alínea a, seja pela c do permissivo constitucional nesse particular.
+Não há, portanto, qualquer vício ensejador do recurso aclaratório no decisório alvejado, ressaindo dos argumentos suscitados pelo embargante sua mera irresignação com a decisão ora embargada, objetivando a reforma do decidido, o que, como cediço, não se coaduna com a via integrativa.
+Nesse panorama, inexistente a omissão indicada, impõe-se a rejeição dos presentes embargos de declaração no particular.
+ANTE O EXPOSTO, acolho em parte os embargos de declaração, sem efeitos modificativos, apenas para sanear, de ofício, o erro material constatado.
+Publique-se.
+EMENTA
