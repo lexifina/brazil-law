@@ -1,0 +1,9 @@
+DECISÃO
+Cuida-se de pedido de extensão formulado por PAULO VITOR DA SILVA CIMADON, nos autos da Petição n. 00316154/2026, visando à aplicação, em seu favor, dos efeitos da decisão que acolheu o recurso ordinário em habeas corpus interposto por DANIEL SILVA DOS SANTOS (fls. 366/368), na qual se determinou a substituição da prisão cautelar por medidas cautelares diversas.
+Sustenta o requerente a existência de identidade fático-processual com o corréu beneficiado, destacando a primariedade, a ausência de violência ou grave ameaça, a inexistência de vínculo com organização criminosa e a não expressividade da quantidade de droga apreendida. Ressalta, ainda, que as prisões foram decretadas pela mesma decisão, invocando, para tanto, o disposto no art. 580 do Código de Processo Penal (fls. 381/381).
+A extensão pretendida, embora não automática, exige a demonstração de similitude objetiva e subjetiva entre as situações processuais.
+No caso, a decisão paradigma reconheceu a desproporcionalidade da prisão preventiva, substituindo-a por medidas cautelares diversas, com fundamento nas condições pessoais favoráveis do paciente, na ausência de violência ou grave ameaça, na inexistência de vínculo com organização criminosa e na quantidade de droga não exacerbada, à luz dos princípios da excepcionalidade da prisão cautelar e da proporcionalidade.
+Verificada a correspondência entre as circunstâncias do requerente e as do corréu beneficiado, impõe-se a aplicação da mesma solução jurídica, nos termos do art. 580 do Código de Processo Penal.
+Diante disso, defiro o pedido de extensão formulado na Petição n. 00316154/2026, para aplicar ao requerente PAULO VITOR DA SILVA CIMADON os efeitos da decisão que acolheu o recurso ordinário em habeas corpus, substituindo a prisão preventiva por medidas cautelares diversas.
+Publique-se.
+EMENTA
