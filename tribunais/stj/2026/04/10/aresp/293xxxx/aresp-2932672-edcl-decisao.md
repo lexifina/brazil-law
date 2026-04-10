@@ -1,0 +1,18 @@
+DECISÃO
+Trata-se de embargos de declaração, opostos por DIVERTOYS INDUSTRIA E COMERCIO LTDA, em face de decisão monocrática (fls. 1204/1214, e-STJ), que conheceu do agravo para não conhecer do recurso especial da parte ora embargante.
+Daí os presentes aclaratórios (fls. 1217/1221, e-STJ), nos quais a parte sustenta, em síntese, omissão quanto aos fundamentos que teriam ensejado o não conhecimento do recurso especial, bem como que a decisão teria se limitado a aplicar as Súmulas 7 e 83 do STJ sem enfrentar o núcleo das razões recursais; afirma, ainda, que o acórdão dos embargos de declaração do Tribunal de origem seria genérico, não esclarecendo se a multa decorreu da identidade do produto ou da impossibilidade de uso da marca, o que configuraria ofensa ao art. 489, § 1º, IV, c/c art. 1.022 do CPC/2015.
+Impugnação às fls. 1225/1237, e-STJ.
+É o relatório.
+Decido.
+Sem razão a embargante, impondo-se a rejeição do recurso.
+1. Com efeito, inexiste, no caso, qualquer mácula a ser sanada por meio da oposição de embargos de declaração.
+Consoante se depreende do artigo 1.022 do Código de Processo Civil de 2015, os aclaratórios apenas são cabíveis quando constar, na decisão embargada, obscuridade, contradição ou omissão em ponto sobre o qual deveria ter se pronunciado, bem como na hipótese de erro material. Não se revelando, por conseguinte, meio processual adequado para análise da irresignação da parte que ficou insatisfeita com o resultado do julgamento que lhe foi desfavorável.
+Na presente hipótese, o decisum embargado contém fundamentação suficiente para justificar a negativa de provimento do apelo.
+Não se vislumbra, portanto, quaisquer das máculas do art. 1.022 do CPC/15 na decisão hostilizada, cuidando-se o presente reclamo de mera irresignação da parte quanto à solução adotada, o que resta vedado na estreita via recursal sob foco.
+A propósito:
+AGRAVO REGIMENTAL. AGRAVO EM RECURSO ESPECIAL. AÇÃO RESCISÓRIA. VIOLAÇÃO A LITERAL DISPOSIÇÃO DE LEI. NÃO CONFIGURAÇÃO. JULGADO FUNDADO NA ANÁLISE DE FATOS E PROVAS. NOVO REJULGAMENTO DA CAUSA EM RESCISÓRIA. IMPOSSIBILIDADE. AÇÃO DE ÍNDOLE RESTRITA. DECISÃO MANTIDA PELOS PRÓPRIOS FUNDAMENTOS. 1. Os embargos de declaração não se prestam para sanar o inconformismo da parte com o resultado desfavorável no julgamento ou para rediscutir matéria já decidida. Logo, o seu não acolhimento, quando manejados nesses termos, não acarreta ofensa ao artigo 535 do Código de Processo Civil. (..) 5. Agravo regimental não provido. (AgRg no AREsp 450787/GO, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 15/04/2014, DJe 26/05/2014) grifou-se
+2. Não obstante, deixa-se de se aplicar a multa prevista no artigo 1026, § 2º, do CPC/15, pois, em se tratando de primeiros embargos de declaração que não ostentam caráter manifestamente protelatórios, pressuposto para aplicação da medida, descabida a sua incidência neste momento.
+No entanto, desde já se adverte que a reiteração de embargos de declaração, com intuito de rediscussão do julgado, poderá caracterizar o aludido caráter manifestamente protelatório , ensejando a aplicação da multa citada.
+3. Ante o exposto, rejeito os embargos de declaração.
+Publique-se. Intimem-se.
+EMENTA
