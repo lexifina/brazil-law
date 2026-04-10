@@ -1,0 +1,32 @@
+DECISÃO
+Examina-se agravo em recurso especial interposto por JOÃO MACHADO DA SILVA NETO e CRISTIANI MARIA CORREA DA SILVA contra decisão que inadmitiu recurso especial fundamentado, exclusivamente, na alínea "a" do permissivo constitucional.
+Agravo em recurso especial interposto em: 15/10/2025.
+Concluso ao gabinete em: 11/3/2026.
+Ação: embargos à execução, ajuizada por JOÃO MACHADO DA SILVA NETO e CRISTIANI MARIA CORREA DA SILVA, em face de SB CRÉDITO FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS MULTISSETORIAL, na qual requer o reconhecimento da nulidade da execução por ausência dos títulos cedidos e de exigibilidade, a carência da ação por falta de prova do inadimplemento, bem como o reconhecimento de sucessão empresarial com redirecionamento da execução.
+Sentença: julgou improcedentes os pedidos.
+Acórdão: negou provimento ao recurso de apelação interposto por JOÃO MACHADO DA SILVA NETO e CRISTIANI MARIA CORREA DA SILVA, nos termos da seguinte ementa (e-STJ fl. 145):
+APELAÇÃO CÍVEL. EMBARGOS À EXECUÇÃO. CONTRATO DE CESSÃO FIDUCIÁRIA DE DIREITOS CREDITÓRIOS. SENTENÇA DE IMPROCEDÊNCIA.
+RECURSO DOS EMBARGANTES. ALEGAÇÃO DE SUCESSÃO EMPRESARIAL. INEXISTÊNCIA. PRECEDENTE DA CÂMARA AFASTANDO A RESPONSABILIDADE DA SUPOSTA SUCESSORA. CONTRATO CELEBRADO POR FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS (FIDC), REGULADO PELA COMISSÃO DE VALORES MOBILIÁRIOS (CVM). CLÁUSULA DE RECOMPRA VÁLIDA E ADMITIDA NA SISTEMÁTICA DOS FIDC. OPERAÇÃO QUE NÃO CONFIGURA FACTORING. TÍTULOS ENCAMINHADOS COM TERMOS DE CESSÃO E PLANILHAS. DOCUMENTAÇÃO SUFICIENTE PARA CONSTITUIÇÃO DO TÍTULO EXECUTIVO EXTRAJUDICIAL. ÔNUS DA PROVA DO ADIMPLEMENTO QUE COMPETIA AOS APELANTES, DETENTORES DO HISTÓRICO DAS OBRIGAÇÕES. ALEGAÇÃO DE PROVA DIABÓLICA AFASTADA. AUSÊNCIA DE ACEITE NAS DUPLICATAS QUE NÃO COMPROMETE A EXIGIBILIDADE, DIANTE DOS DEMAIS ELEMENTOS DE PROVA. EXECUÇÃO FUNDADA EM OBRIGAÇÃO CONTRATUAL AUTÔNOMA, DECORRENTE DE CLÁUSULA DE RECOMPRA, E NÃO EM RELAÇÃO CAMBIAL DIRETA. SENTENÇA MANTIDA. RECURSO DESPROVIDO.
+Recurso especial: alega violação dos arts. 1º, 15, II, e 20 da Lei 5.474/1968, 295 e 297 do CC, 320 e 803, I, do CPC, e 3º da Lei 13.775/2018. Afirma que a duplicata, como título causal, exige aceite ou, sem aceite, protesto e comprovação do negócio subjacente, de modo que não há exigibilidade das duplicatas executadas. Aduz que o instrumento contratual desacompanhado dos títulos cedidos impede a constituição de prova escrita indispensável à execução, impondo a extinção por inépcia. Argumenta que a operação tem natureza de fomento mercantil, sendo nula a cláusula de recompra por transferir ao cedente o risco de inadimplemento e configurar pluralidade indevida de garantias. Assevera que não houve demonstração do inadimplemento dos sacados nem de vício nos títulos, condição necessária ao exercício de regresso.
+RELATADO O PROCESSO, DECIDE-SE.
+- Do reexame de fatos e provas e da interpretação de cláusulas contratuais
+O TJ/SC ao analisar o recurso de apelação interposto pela parte recorrente, concluiu o seguinte (e-STJ fls. 142-144):
+Quanto à natureza do contrato, foi suficientemente demonstrada a realização por Fundo de Investimento em Direitos Creditórios (FIDC), entidade regulada pela Comissão de Valores Mobiliários (CVM), e que o instrumento contratual prevê cláusula de recompra dos títulos inadimplidos, operação admitida na sistemática dos FIDC. A tentativa de desqualificar a natureza jurídica da avença, por conseguinte, não encontra respaldo nos documentos acostados aos autos.
+..
+No que tange à ausência de prova do inadimplemento, os títulos encartados à petição inicial da ação executiva foram acompanhados dos respectivos termos de cessão e planilhas, os quais são suficientes para a constituição do título executivo extrajudicial.
+A alegação de "prova diabólica", da mesma forma, não procede. Os títulos foram cedidos em bloco pelos próprios apelantes, que detinham pleno conhecimento e controle sobre o histórico das obrigações, inclusive quanto a eventual adimplemento pelos sacados. Caso tenha havido pagamento, competia exclusivamente aos recorrentes, e não à apelada, comprovar a quitação.
+Além disso, embora não conste o aceite, os documentos apresentados são suficientes para conferir exigibilidade ao título e não há nulidade a ser reconhecida. Os apelantes, em nenhum momento, refutaram a relação contratual com a apelada, razão pela qual a execução preenche todos os requisitos de validade e procedibilidade.
+A apelada não promove a execução diretamente contra os sacados das duplicatas, mas sim com base em obrigação contratual assumida pelas apelantes - especificamente, a cláusula de recompra prevista no contrato de cessão fiduciária de direitos creditórios. Trata-se de vínculo obrigacional autônomo, definido contratualmente, sem configurar relação cambial direta entre a apelada e os sacados.
+..
+Logo, a sentença que rejeitou os embargos à execução não comporta reparos.
+Desse modo, alterar o decidido no acórdão impugnado, no que se refere a exigibilidade das duplicatas executadas, exige o reexame de fatos e provas e a interpretação de cláusulas contratuais, o que é vedado em recurso especial pelas Súmulas 5 e 7, ambas do STJ.
+Desse modo, não é possível que sejam revisitados fatos ou que seja conferida nova interpretação de cláusula contratual, uma vez que são matérias ligadas à demanda e alheias à função desta Corte Superior que é a uniformização da interpretação da legislação federal.
+Forte nessas razões, CONHEÇO do agravo e, com fundamento no art. 932, III, do CPC, NÃO CONHEÇO do recurso especial.
+Nos termos do art. 85, § 11, do CPC, considerando o trabalho adicional imposto ao advogado da parte agravada em virtude da interposição deste recurso, majoro os honorários fixados anteriormente em 12% sobre o valor da causa (e-STJ fls. 107; 144) para 14% (quatorze por cento), observada eventual concessão da gratuidade de justiça.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar sua condenação às penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO DE EMBARGOS À EXECUÇÃO. REEXAME DE FATOS. INTERPRETAÇÃO DE CLÁUSULAS CONTRATUAIS. INADMISSIBILIDADE.
+1. Ação de embargos à execução.
+2. O reexame de fatos e a interpretação de cláusulas contratuais em recurso especial são inadmissíveis.
+3. Agravo conhecido. Recurso especial não conhecido.
