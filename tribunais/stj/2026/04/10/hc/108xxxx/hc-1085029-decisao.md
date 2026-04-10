@@ -1,0 +1,33 @@
+DECISÃO
+WESLEY MICHEL SOARES alega sofrer constrangimento ilegal diante de acórdão proferido pelo Tribunal de Justiça do Estado do Paraná na Apelação n. 0002119-85.2023.8.16.0169.
+A defesa busca a absolvição do paciente, em razão da invalidade do reconhecimento pessoal e, subsidiariamente, busca o redimensionamento da pena.
+Verifico, contudo, que o habeas corpus foi impetrado em 29/3/2026, contra acórdão transitado em julgado, eis que prolatado em 20/5/2024 sem notícia de interposição recursal (conforme informações processuais obtidas no portal Jus.br), a evidenciar que este writ é, portanto, substitutivo de revisão criminal.
+Por força do art. 105, I, "e", da Constituição Federal, a competência desta Corte para processar e julgar revisão criminal limita-se às hipóteses de seus próprios julgados. Como não existe no STJ julgamento de mérito passível de revisão em relação à condenação sofrida pelo paciente, é de se reconhecer a incompetência deste Tribunal Superior para o processamento do habeas corpus.
+Nessa perspectiva:
+..
+2. O habeas corpus foi impetrado contra acórdão já transitado em julgado. Verifica-se, assim, a inadmissibilidade do writ, manejado como substitutivo de revisão criminal, em hipótese na qual não houve inauguração da competência desta Corte Superior (art. 105, inciso I, alínea e, da Constituição da República). Precedentes.
+..
+(AgRg no HC n. 883.695/SP, relator Ministro Teodoro Silva Santos, Sexta Turma, DJe de 18/3/2024.)
+Portanto, o writ não pode ser conhecido.
+Há, contudo, ilegalidade flagrante na dosimetria da pena, a reclamar a concessão da ordem ex officio, diante de estampada reformatio in pejus indireta.
+Conforme se depreende do acórdão impugnado (fl. 1.170):
+Primeiramente, importante esclarecer, que já houve julgamento nos presentes autos, onde, na ocasião, o acusado fora condenado à pena de 05 (cinco) anos e 04 (quatro) meses de reclusão, e ao pagamento de 13 dias-multa, em regime inicial semiaberto, sendo, inclusive, a sentença confirmada por este e. Tribunal de Justiça.
+Entretanto, após o trânsito em julgado, a defesa do réu adentrou com Revisão Criminal - Autos 0074521- 94.2020.8.16.0000 - alegando nulidade de sua citação, sendo acolhida a tese e julgando-se procedente e, consequentemente, anulando a sentença.
+Sendo assim, fora realizado novo trâmite processual, chegando-se ao presente recurso de apelação.
+Ocorre que, mesmo com a anulação da condenação anterior (à pena de 5 anos e 4 meses), em meio impugnativo exclusivo da defesa (revisão criminal), o acórdão no novo recurso de apelação estabeleceu reprimenda maior do que aquela extirpada, fixando o montante de pena em 7 anos e 11 meses de reclusão.
+A proibição da reformatio in pejus, derivação da regra mais ampla do favor rei (LOZZI, Gilberto. Favor rei e processo penale, Milano, Giuffr , 1968, p. 115), traduz-se na vedação a que, em recurso interposto exclusivamente pelo acusado, o Tribunal agrave a situação do recorrente, em relação à decisão impugnada, aceita pelo acusador. Proíbe-se, também, a reformatio in pejus indireta, para impedir que, nos casos em que a decisão impugnada pelo acusado seja anulada pelo tribunal, a nova decisão venha a ser mais gravosa aos interesses da defesa.
+Cuida-se de opção de política criminal do processo penal moderno, mais voltado à proteção do inocente do que à punição do acusado. Em verdade, antes do interesse do Estado em punir o infrator, está o interesse, do mesmo Estado, em tutelar a liberdade individual daquele que se encontra na posição de acusado.
+Sob tal orientação finalística da atividade punitiva do Estado, e certo de que o direito de defesa encontra na possibilidade de recorrer uma de suas principais expressões, " .. a proibição da reformatio in peius se perfila como indispensável premissa para dar efetividade ao direito", pois a finalidade da impugnação é precisamente a de eliminar ou amenizar um precedente provimento que se mostre, ou se afirme, injusto manter (MONTAGNA, Mariangela. Divieto di reformatio in peius e appello incidentale. IN: A. Gaito, (org.), Le impugnazioni penali, Torino: Utet, 1998, p. 377, traduzi).
+Não pudesse o acusado livremente exercitar a sua defesa, "com os meios e recursos a ela inerentes" (art. 5º, LV, da CF), por temer o agravamento de sua situação penal e processual, restaria tal direito esvaziado e acarretaria o trânsito em julgado de uma sentença que, ao menos para ele, enquanto destinatário do comando judicial, materializou uma injustiça.
+Em acurada observação, Julio Maier refere que a Corte Suprema da Argentina tem afirmado, reiteradamente, que a proibição de reformatio in peius "é também uma garantia constitucional, cuja inobservância afeta o devido processo e viola o direito de defesa do acusado". Pontua, porém, que a regra proibitiva de reforma para pior da sentença apenas impugnada pela defesa decorre mais do princípio acusatório, com seus consectários lógicos, entre os quais os que se expressam nos seguintes aforismos: nemo iudex sine actore; ne procedat iudex ex officio; sententia debet esse conformis libello; ne eat iudex extra et ultra petita partium (Derecho procesal penal. I. Fundamentos. 2. ed. Buenos Aires: Editores del Puerto, 2002, p. 590, traduzi).
+É flagrante a ilegalidade decorrente da fixação de pena superior no segundo julgamento de apelação criminal, após a anulação do processado em revisão criminal, que só pode ser manejada pela defesa.
+A propósito:
+..
+2. "É entendimento deste Sodalício que a proibição do agravamento da situação do acusado, prevista no artigo 617 do Código de Processo Penal, também se estende aos casos em que há a anulação da decisão recorrida, por intermédio de recurso exclusivo da defesa ou por meio de impetração de habeas corpus, de tal sorte que o órgão julgador que vier a proferir novo julgamento ficará vinculado aos limites da pena in concreto imposta na decisão anulada, não podendo, de forma alguma, recrudescer a sanção, sob pena de operar-se a vedada reformatio in pejus indireta" (EDcl no AgRg no AREsp 596.663/MG, Rel. Ministro JORGE MUSSI, QUINTA TURMA, DJe 1/8/2018)
+3. Agravo Regimental desprovido.
+(AgRg no HC n. 494.314/RJ, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 20/8/2019, DJe de 30/8/2019, grifei.)
+Assim, é o caso de concessão da ordem de ofício, para reconhecer o limite ao quantum de pena estabelecido pela reprimenda anteriormente fixada e, dessarte, reduzir seu patamar para 5 anos e 4 meses de reclusão, mantidas as demais condições.
+À vista do exposto, indefiro liminarmente o habeas corpus mas concedo a ordem de ofício para reduzir a pena privativa de liberdade para 5 anos e 4 meses de reclusão.
+Comunique-se, com urgência, ao Juízo da execução.
+Publique-se e intimem-se.
+EMENTA
