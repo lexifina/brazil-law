@@ -1,0 +1,32 @@
+DECISÃO
+
+Trata-se de Habeas Corpus impetrado contra acórdão da Sexta Turma do Superior Tribunal de Justiça, proferido no julgamento do Agravo Regimental no RHC 221.413/SP, submetido à relatoria do Ministro SEBASTIÃO REIS JÚNIOR.
+Pelo que se depreende, o paciente foi denunciado pela prática dos crimes de corrupção ativa, por sete vezes (art. 333 do Código Penal), e de lavagem de capitais (art. 1º, § 4º, da Lei n. 9.613/1998).
+Alegando a incompetência da Justiça Federal, a defesa impetrou Habeas Corpus no Tribunal Regional Federal da 3ª Região, que denegou a ordem. Na sequência, interpôs Recurso Ordinário no Superior Tribunal de Justiça, ao qual o Ministro relator negou provimento, em decisão confirmada no julgamento do subsequente Agravo Regimental, conforme ementa:
+
+AGRAVO REGIMENTAL EM RECURSO EM HABEAS CORPUS. PROCESSUAL PENAL. OPERAÇÃO LAMA ASFÁLTICA. CORRUPÇÃO ATIVA E LAVAGEM DE CAPITAIS. OBRAS DA RODOVIA MS-180 CUSTEADAS COM VALORES PROVENIENTES DE FINANCIAMENTO DO BNDES NO ÂMBITO DO PROINVESTE, COM FONTE NO FAT. AFETAÇÃO DE INTERESSE DA UNIÃO. FIXAÇÃO DA COMPETÊNCIA DA JUSTIÇA FEDERAL. QUITAÇÃO POSTERIOR DO CONTRATO E CONCLUSÃO DA OBRA QUE NÃO ELIDEM A LESÃO AO INTERESSE FEDERAL À ÉPOCA DOS FATOS. PRESCRIÇÃO DE DELITOS LICITATÓRIOS QUE NÃO DESLOCA A COMPETÊNCIA QUANTO ÀS IMPUTAÇÕES AUTÔNOMAS DE CORRUPÇÃO E LAVAGEM DE CAPITAIS. CONSTRANGIMENTO ILEGAL. AUSÊNCIA.
+Agravo regimental improvido.
+
+Nesta ação, a defesa alega, em suma: “o que atrai a competência da Justiça Federal prevista no art. 109, VI, da CFRB é a atribuição de fiscalização do emprego da verba pública pela União – ou mesmo o desvio direito de verbas de tal Ente –, o que claramente não é o caso dos autos originários”. Em razão disso, requer-se a concessão da ordem, para “reconhecer a incompetência manifesta da Justiça Federal para processar e julgar a ação penal”.
+É o relatório. Decido.
+
+Não há que se falar em qualquer ilegalidade no acórdão impugnado. Isso porque o Superior Tribunal de Justiça ratificou o entendimento das instâncias ordinárias no sentido de que a competência para processar e julgar a ação penal em questão é da Justiça Federal, tendo em vista a apuração de infrações penais em detrimento de bens, serviços ou interesses da União (art. 109, IV, da Constituição Federal).
+No caso em exame, sobressaem os registros de que a ação penal visa apurar crimes de lavagem de dinheiro e de corrupção ativa e passiva, pois, conforme a denúncia, “havia, em tese, o direcionamento das licitações de obras públicas para a contratação da empresa PROTECO e demais empresas integrantes do consórcio, como a empresa DM CONSTRUTORA, favorecida na contratação, tendo como contraparte os pagamentos de vantagens indevidas de forma oculta/dissimulada”, sendo destacado que os “recursos repassados têm origem federal, foram transferidos por força de contrato de repasse, são controlados e fiscalizados pela União”, o que evidencia “o interesse do ente federal e a competência da Justiça Federal”.
+Confira-se o elucidativo voto do Ministro Relator:
+
+A Constituição da República, em seu art. 109, IV, fixa a competência da Justiça Federal para infrações penais cometidas em detrimento de bens, serviços ou interesses da União e de suas entidades. A Lei n. 9.613/1998, por seu turno, estabelece, no art. 2º, III, b, a competência federal para o processamento dos crimes de lavagem quando a infração antecedente se insere na competência da Justiça Federal. O acórdão recorrido aplicou tais parâmetros de forma adequada às particularidades do caso.
+No caso, a denúncia explicita que as obras da MS-180, que serviram de contexto às supostas fraudes e aos pagamentos dissimulados, foram financiadas por contrato com o BNDES no âmbito do PROINVESTE, com aporte do FAT, fundo vinculado ao Ministério do Trabalho. Tais verbas, por definição, são recursos federais, submetidos a controle e fiscalização da União. A narrativa acusatória, somada às peças administrativas e policiais coligidas, aponta que as supostas práticas ilícitas teriam alcançado justamente a aplicação desses valores, mediante direcionamento de licitações, superfaturamento e mascaramento de pagamentos por contratos simulados (fls. 1.640/1.658). Nesse cenário, está configurada a afetação de interesse federal suficiente para fixar a competência da Justiça Federal.
+[..]
+A competência permanece na Justiça Federal, porque o vínculo com bens e interesses da União decorre da própria origem e destinação das verbas supostamente desviadas ou dissimuladas, como corretamente pontuado no acórdão recorrido.
+Em necessária síntese conclusiva, o Juízo de primeiro grau, ao acolher os embargos de declaração ministeriais, sanou omissão e reconheceu a presença de elementos que evidenciam a origem federal dos recursos aplicados nas obras sob apuração, recebendo a denúncia. O TRF3 confirmou esse entendimento. À luz das peças constantes dos autos, não se verifica ilegalidade apta a ser corrigida em sede de recurso ordinário em habeas corpus. Ao contrário, os elementos indicam com suficiência para a fixação da competência a afetação de interesse federal pela suspeita de malversação de verbas do BNDES/PROINVESTE/FAT vinculadas à execução da Rodovia MS-180.
+
+Observa-se que as instâncias ordinárias concluíram que o suporte probatório constante dos autos principais indica a competência da Justiça Federal para o processamento e julgamento da ação penal. Assim, para se chegar a conclusão diversa, de modo a afastar o quadro fático delineado na denúncia, seria necessário proceder ao reexame do conjunto fático-probatório, providência que, como se sabe, mostra-se incompatível com esta via processual (HC 136.622-AgR/MS, Rel. Min. ROBERTO BARROSO, Primeira Turma, Dje de 17/2/2017; HC 135.748/DF, Rel. Min. RICARDO LEWANDOWSKI, Segunda Turma, Dje de 13/2/2017; HC 135.956/RS, Rel. Min. TEORI ZAVASCKI, Segunda Turma, Dje de 28/11/2016; HC 134.445-AgR/DF, Rel. Min. EDSON FACHIN, Primeira Turma, Dje de 27/9/2016).
+Em conclusão, os autos não revelarem hipóteses caracterizadoras de restrições abusivas ou arbitrárias que tenham afetado o direito de locomoção do paciente, pressuposto indispensável para a concessão da ordem de Habeas Corpus.
+Diante do exposto, com base no art. 21, § 1º, do Regimento Interno do STF, INDEFIRO a ordem de HABEAS CORPUS.
+Retifique-se a autuação para fazer constar o nome do paciente por extenso.
+Publique-se.
+Brasília, 10 de abril de 2026.
+
+Ministro ALEXANDRE DE MORAES
+Relator
+Documento assinado digitalmente
