@@ -1,0 +1,33 @@
+DECISÃO
+Cuida-se de Agravo apresentado por CENTRO DE ESTUDOS UNIFICADOS BANDEIRANTE à decisão que não admitiu seu Recurso Especial.
+O apelo, fundamentado no artigo 105, III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, assim resumido:
+Ação monitória. Prestação de serviços educacionais. Confissão de dívida que não importou em novação e interrompeu o prazo prescricional. Protesto posterior que não teve o condão de interromper a contagem do prazo, eis que a interrupção do prazo prescricional se dá em única oportunidade. Art. 202 "caput" do Código Civil. Prescrição consumada. Embargos monitórios corretamente acolhidos. Recurso improvido.
+Quanto à controvérsia, pela alínea "a" do permissivo constitucional, a parte recorrente aduz violação aos arts. 5º e 6º, § 1º, da Lei nº 9.870/1999 e ao art. 360, I, do Código Civil, no que concerne ao afastamento da prescrição, em razão de a confissão de dívida de 2015 ter celebrado nova obrigação para viabilizar a rematrícula, caracterizando novação e, por conseguinte, a interrupção ter ocorrido apenas com o protesto de 2020. Argumenta que:
+Trata-se, na origem, de Ação Monitória ajuizada pelo Centro De Estudos Unificados Bandeirante - CEUBAN em face de Silvia Mara Novaes Sousa Bertani, pleiteando a conversão do mandado monitório - um Instrumento Particular de Confissão de Dívida assinado pela devora, mas sem força executiva em razão da ausência da assinatura de duas testemunhas - em mandado executivo (fl. 130).
+Inconformada, a recorrente interpôs Recurso de Apelação ao Egrégio Tribunal de Justiça do Estado de São Paulo, no intuito de elucidar que, como adiante veremos, a assinatura do Instrumento Particular de Confissão de Dívida configura novação e, consequentemente, não interrompe a prescrição de qualquer dívida anterior, visto tratar-se de nova obrigação (fl. 131).
+O que se pretende discutir com a interposição do presente recurso é inaplicabilidade do instituto da prescrição, pautada no argumento de que a novação da dívida não interrompe a prescrição, mas, sim, constitui nova obrigação totalmente independente (fl. 133).
+Como tese jurídica central, é importante considerar que o acordo firmado entre as partes celebrou uma nova obrigação entre as partes, extinguindo a relação jurídica anterior, , não se confundindo com a causa do artigo 202, VI (fl. 134).
+Ou seja, não obstante, ter violado a Lei 9.870/99 como acima exposto, o v. Acórdão também violou o Art. 360, I da Lei 10.406/02 (do Código Civil), outra lei federal (fl. 134).
+Ora, Excelências, havendo nova dívida não há por que se falar em interrupção da prescrição (fl. 134).
+A dívida anterior foi NOVADA para surgir a NOVA obrigação de pagamento do ACORDO entabulado (fl. 135).
+A interrupção da prescrição do Instrumento Particular de Confissão de Dívida se deu, portanto, pela primeira vez e única vez, com o Protesto do Título em julho de 2020 (fl. 135).
+Tendo a prescrição sido interrompida em julho/2020, por sua vez, a prescrição se daria apenas em julho/2025, mas que, não chegou a ocorrer diante da citação válida (fl. 135).
+A assinatura da Confissão de Dívida sendo, indiscutivelmente, uma novação, não ensejou a interrupção da prescrição em sua celebração. Não tendo ensejado interrupção da prescrição pela assinatura da Confissão, não há por que se falar em "segunda interrupção" pelo protesto do título (fl. 135).
+O termo de acordo em questão novou a dívida anterior, não se confundindo com a causa do artigo 202, VI (fl. 135).
+Ou seja, para que a aluna inadimplente pudesse retomar seus estudos, deveria firmar uma nova obrigação com a universidade credora (fl. 136).
+Tendo o protesto do título interrompido a prescrição pela primeira e única vez e a demanda tendo sido ajuizada dentro do prazo prescricional, não há por que se falar em prescrição (fl. 137).
+Diante de todo o exposto, tem-se que o v. Acórdão foi de encontro aos artigos 5º e 6º, § 1º da Lei 9.870/99, bem como ao Art. 360, I da Lei 10.406/02 (Código Civil), ambas leis federais, sendo imperioso, portanto, sua reforma nos termos supramencionados (fl. 137).
+É o relatório.
+Decido.
+Quanto à controvérsia, o Tribunal a quo se manifestou nos seguintes termos:
+Realmente, o teor dos documentos deixava clado que não ocorreu a extinção da antiga obrigação e formação de uma nova obrigação, mas mero reconhecimento do débito, o que conforme o artigo 361 da lei civil importou em confirmação da dívida pela devedora e, consequentemente na interrupção de prescrição.
+Daí não apresentar relevo a alegação de que os protestos realizados em outubro de 2020 interromperam a prescrição, eis que conforme bem salientou a Juíza a interrupção da prescrição ocorre apenas uma vez.
+Ademais, ainda que assim não fosse o fato objetivo é que os incisos II e III o artigo 202 do Código Civil dispõem que o protesto judicial e o protesto cambial são causas de interrupção da prescrição, mas não o protesto extrajudicial, como aqui ocorreu (fl. 119).
+Assim, incidem as Súmulas n. 5 e 7 do STJ, porquanto a pretensão recursal demanda reexame de cláusulas contratuais e reexame do acervo fático-probatório juntado aos autos.
+Nesse sentido: "Não cabe, em recurso especial, reexaminar matéria fático-probatória e a interpretação de cláusulas contratuais (Súmulas n. 5 e 7 do Superior Tribunal de Justiça)" (AgInt no AREsp n. 2.243.705/SP, relatora Ministra Maria Isabel Gallotti, Quarta Turma, DJe de 20/10/2023).
+Confiram-se ainda os seguintes julgados: AgInt no AREsp n. 2.446.415/SP, relator Ministro Humberto Martins, Terceira Turma, DJEN de 20/3/2025; REsp n. 2.106.567/SP, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, DJEN de 5/3/2025; AgInt no AREsp n. 2.572.293/RS, relator Ministro Benedito Gonçalves, Primeira Turma, DJEN de 13/12/2024; AgInt no AgInt no AREsp n. 2.560.748/DF, relator Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 22/11/2024; REsp n. 1.851.431/SC, relator Ministro Paulo Sérgio Domingues, Primeira Turma, DJe de 7/10/2024; REsp n. 1.954.604/MG, relator Ministro Francisco Falcão, Segunda Turma, DJe de 21/3/2024; AgInt no REsp n. 1.995.864/PB, relator Ministro Raul Araújo, Quarta Turma, DJe de 20/10/2023.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do Agravo para não conhecer do Recurso Especial.
+Nos termos do art. 85, § 11, do Código de Processo Civil, majoro os honorários de advogado em desfavor da parte recorrente em 15% sobre o valor já arbitrado nas instâncias de origem, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão de justiça gratuita.
+Publique-se.
+Intimem-se.
+EMENTA
