@@ -1,0 +1,61 @@
+DECISÃO
+Cuida-se de Habeas Corpus impetrado em favor de MARCOS ROQUE DA SILVA em que se aponta como ato coator o acórdão proferido pelo TRIBUNAL REGIONAL FEDERAL DA 4ª REGIÃO assim ementado:
+DIREITO PENAL E PROCESSUAL PENAL. REVISÃO CRIMINAL. TRÁFICO TRANSNACIONAL DE ENTORPECENTES E ASSOCIAÇÃO PARA O TRÁFICO. DOSIMETRIA DA PENA. REEXAME DE PROVAS. IMPOSSIBILIDADE. IMPROCEDÊNCIA.
+I. CASO EM EXAME:
+1. Revisão criminal ajuizada com fundamento no art. 621, inc. I, do CPP, contra condenação por tráfico transnacional de entorpecentes e associação para o tráfico, buscando a revisão da dosimetria da pena, alegando fundamentação genérica e desproporcional na majoração da pena-base e excesso no aumento.
+II. QUESTÃO EM DISCUSSÃO:
+2. Há três questões em discussão: (i) a possibilidade de reexame da dosimetria da pena em sede de revisão criminal, quando as teses já foram analisadas em apelação; (ii) a adequação da fundamentação e do percentual de aumento da pena-base, considerando a quantidade e qualidade da droga e os antecedentes do réu; e (iii) a correta aplicação do concurso material de crimes em vez de continuidade delitiva.
+III. RAZÕES DE DECIDIR:
+3. A revisão criminal é uma ação penal de natureza constitutiva e sui generis, de caráter excepcional, destinada a rever decisão condenatória transitada em julgado apenas em casos de erro judiciário, conforme as hipóteses taxativas do art. 621 do CPP, não se prestando como sucedâneo recursal para reapreciação de provas ou teses já afastadas.
+4. A dosimetria da pena pode ser revista em sede de revisão criminal somente em situações excepcionais de flagrante injustiça ou ilegalidade, sem que isso implique incursão nos elementos fáticos já considerados pelo julgador.
+5. A pretensão do requerente de rediscutir a fundamentação e o percentual de majoração da pena-base, que não foram objeto de questionamento na apelação criminal, configura tentativa de reforma do julgado por inconformidade, o que é inadmissível em revisão criminal.
+6. A sentença justificou a majoração da pena-base nos crimes de tráfico e associação para o tráfico com base em vetoriais negativas como antecedentes, grande quantidade (120 kg 427 kg) e qualidade (maconha) do entorpecente, em conformidade com o art. 42 da Lei nº 11.343/2006, que confere preponderância a esses fatores.
+7. A quantidade e a qualidade da droga são vetoriais autônomas que autorizam o aumento da pena-base, e a fixação da pena-base não exige critérios matemáticos rígidos, permitindo discricionariedade motivada do julgador.
+8. A aplicação da agravante da reincidência (art. 61, inc. I, do CP) e da causa de aumento pela transnacionalidade do delito (art. 40, inc. I, da Lei nº 11.343/2006) foi correta, e a reincidência impede a concessão da minorante do art. 33, §4º, da Lei nº 11.343/2006.
+9. A alegação de continuidade delitiva não prospera, pois os fatos criminosos ocorreram em ocasiões relativamente distantes (aproximadamente quatro meses entre os delitos de tráfico e entre outubro de 2010 e fevereiro de 2011 para associação), o que afasta o requisito temporal para sua configuração, mantendo- se o concurso material de crimes.
+10. Não se verifica flagrante injustiça ou ilegalidade na dosimetria da pena, uma vez que o percentual de elevação das penas-base não desbordou dos limites legais previstos para os crimes em questão.
+IV. DISPOSITIVO E TESE:
+11. Revisão criminal julgada improcedente.
+Tese de julgamento: 12. A revisão criminal não se presta a reexaminar amplamente o mérito da condenação ou a dosimetria da pena, salvo flagrante ilegalidade ou injustiça, e não pode ser utilizada como sucedâneo recursal para rediscutir teses já afastadas em apelação.
+Consta dos autos que o paciente foi condenado à pena de 28 (vinte e oito) anos, 1 (um) mês e 16 (dezesseis) dias de reclusão e multa, em regime inicial fechado, pela prática, em concurso material, dos delitos capitulados nos arts. 33, caput, c/c art. 40, I, da Lei n. 11.343/2006, em duas oportunidades, e art. 35, caput, c/c art. 40, I, da mesma lei, também em duas oportunidades.
+Em suas razões, sustenta o impetrante a ocorrência de constrangimento ilegal, porquanto a pena-base foi exasperada com fundamento genérico no art. 42 da Lei n. 11.343/2006, sem motivação concreta e individualizada quanto à natureza e à quantidade da droga em cada fato delituoso, o que teria ocasionado aumento desproporcional na primeira fase da dosimetria, impondo o redimensionamento da reprimenda.
+Argumenta que o redimensionamento da pena deve repercutir no regime inicial de cumprimento, com a fixação de regime mais brando, conforme o resultado da readequação da pena-base.
+Requer, liminarmente e no mérito, o redimensionamento da pena com afastamento ou redução da exasperação da pena-base fundada no art. 42 da Lei n. 11.343/2006 e a alteração do regime inicial de cumprimento. Subsidiariamente, pugna pela expedição de alvará de soltura ou pela fixação de regime mais brando, conforme o resultado do redimensionamento.
+É o relatório.
+Decido.
+A Terceira Seção do STJ, no julgamento do HC n. 535.063/SP, firmou o entendimento de que não cabe Habeas Corpus substitutivo de recurso próprio, impondo-se o não conhecimento da impetração, salvo quando constatada alguma teratologia no ato judicial impugnado (Rel. Ministro Sebastião Reis Júnior, DJe de 25.8.2020).
+Assim, passo à análise das razões da impetração a fim de verificar se há flagrante ilegalidade que justifique a concessão do writ de ofício.
+Na espécie, quanto à fundamentação utilizada para a exasperação da pena-base e em relação ao patamar de aumento de pena na primeira fase da dosimetria , consta do Voto condutor do acórdão impugnado a seguinte fundamentação:
+Sob essa perspectiva, analiso a pretensão do requerente.
+Na espécie, verifica-se que a sentença foi objetiva e clara ao elencar os motivos que levaram à majoração da pena-base nos crimes de tráfico de entorpecentes e associação para o tráfico, quais sejam, a existência de três vetoriais negativas: antecedentes, quantidade (120 kg 427 kg) e qualidade (maconha) do entorpecente (evento 19, VOTO2):
+7.4. Réu MARCOS ROQUE DA SILVA
+A dosimetria foi assim tratada em sentença:
+"III. 1 - Fato nº 02 da Denúncia - Tráfico de Entorpecentes - Apreensão na cidade de Londrina/PR.
+..
+Antecedentes: são desfavoráveis ao réu. Conforme certidão de antecedentes criminais juntada ao ev. 342 - CERTANTCRIM3, o réu possui diversas condenações com trânsito em julgado, como por exemplo a oriunda da 2ª Vara Criminal da Comarca de Foz do Iguaçu/PR, tendo em vista fato praticado na data de 09/02/2006, capitulado no art. 16, caput, da Lei nº 10.826/2003, cuja condenação transitou em julgado na data de 08/08/2011.
+..
+III. 2 - Fato nº 04 da Denúncia - Tráfico de Entorpecentes - Apreensão na cidade de Wenceslau Braz/PR.
+..
+Tendo em vista a grande quantidade de entorpecente apreendido, cerca de 427 kg de maconha, a pena-base do delito deverá ser fixada acima do mínimo legal ("Em se tratando de tráfico de drogas, a expressiva quantidade do narcótico apreendido autoriza o agravamento da pena-base. Precedente". TRF4, ACR 0007987- 06.2008.404.7002, Oitava Turma, Relator Paulo Afonso Brum Vaz, D. E. 11/06/2010).
+..
+Antecedentes: são desfavoráveis ao réu. Conforme certidão de antecedentes criminais juntada ao ev. 342 - CERTANTCRIM3, o réu possui diversas condenações com trânsito em julgado, como por exemplo a oriunda da 2ª Vara Criminal da Comarca de Foz do Iguaçu/PR, tendo em vista fato praticado na data de 09/02/2006, capitulado no art. 16, caput, da Lei nº 10.826/2003, cuja condenação transitou em julgado na data de 08/08/2011.
+..
+7.4.1. Delito previsto no artigo 33 da Lei 11.343/2006 (duas vezes - fatos 02 e 04 da denúncia)
+Como se nota, as penas-bases dos delitos em comento foram fixadas em 06 (seis) anos e 04 (quatro) meses de reclusão, visto que consideradas como circunstâncias judiciais negativas as vetoriais referentes aos antecedentes do acusado, a natureza e a quantidade da droga apreendida.
+E, nesse particular aspecto, não se observa a existência de flagrante injustiça ou ilegalidade na dosimetria, uma vez que o percentual de elevação das penas-base em decorrência de três vetoriais negativadas - 01 (um) e 04 (quatro) meses de reclusão para o delito de tráfico de entorpecentes e 01 (um) de reclusão para o delito de associação para o tráfico -, não desbordou dos limites legais previstos para o crime em questão - 05 (cinco) a 15 (quinze) anos e 03 (três) a 10 (dez) anos.
+..
+Por fim, cumpre referir que o entendimento há muito sedimentado neste Tribunal é de que a fixação da pena-base deve atender às peculiaridades do caso, sem adoção de critérios matemáticos rígidos (fls. 127-134).
+Preliminarmente, na esteira da orientação jurisprudencial desta Corte, a dosimetria da pena situa-se no âmbito de discricionariedade julgador, só sendo passível de revisão na via estreita do habeas corpus quando ficar, de plano, evidenciada alguma flagrante ilegalidade, sem a necessidade de análise de aspectos fáticos e probatórios.
+A fixação da pena-base acima do mínimo legal, contudo, exige fundamentação concreta e adequada, sendo vedada a adoção de justificativas vagas, genéricas ou relacionadas aos elementos constitutivos do próprio tipo penal.
+Cumpre ainda ressaltar que no julgamento do Tema Repetitivo n. 1.262 a Terceira Seção do STJ firmou entendimento no sentido de que na "análise das vetoriais da natureza e da quantidade da substância entorpecente, previstas no art. 42 da Lei n. 11.343/2006, configura-se desproporcional a majoração da pena-base quando a droga apreendida for de ínfima quantidade, independentemente de sua natureza".
+Nessa linha, o acórdão impugnado não diverge da jurisprudência do STJ, pois, conforme se extrai do trecho acima transcrito, a instância de origem, com base no art. 42 da Lei n. 11.343/2006, se pautou na natureza e quantidade da substância entorpecente apreendida, em conjunto, para exasperar a pena-base, não se tratando de ínfima quantidade.
+Nesse sentido, vale citar os seguintes julgados desta Corte: AgRg no HC n. 1.022.633/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJEN de 6/10/2025; AgRg no AREsp n. 2.055.151/MS, relator Ministro Sebastião Reis Júnior, Sexta Turma, DJEN de 23/9/2025.
+Em relação à fração de aumento adotada para a exasperação da pena-base em relação a cada vetorial valorada negativamente, a jurisprudência desta Corte firmou-se no sentido de que não há um critério matemático rígido para a fixação da pena basilar, de forma que não há direito subjetivo do réu de utilização de alguma fração de aumento específica para cada circunstância judicial desfavorável. Ademais, as frações de 1/6 sobre a pena-base ou de 1/8 sobre intervalo entre as penas mínima e máxima são parâmetros aceitos pela jurisprudência do STJ, mas não se revestem de caráter obrigatório, sendo possível a utilização de patamar diverso, exigindo-se apenas que seja proporcional e devidamente justificado o critério utilizado pelas instâncias ordinárias. Nesse sentido: AgRg no REsp n. 2.229.721/SP, Rel. Ministro Joel Ilan Paciornik, Quinta Turma, DJEN de 23.12.2025; AgRg no AREsp n. 2.834.810/SP, Rel. Ministro Sebastião Reis Júnior, Sexta Turma, DJEN de 9.12.2025; EDcl no AgRg no REsp n. 2.026.685/RS, Rel. Ministro Messod Azulay Neto, Quinta Turma, DJEN de 2.12.2025; AgRg no REsp n. 2.239.314/AL, Rel. Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJEN de 28.11.2025; AgRg no AREsp n. 1.819.146/PE, Rel. Ministro Rogerio Schietti Cruz, Sexta Turma, DJEN de 18.11.2025; AgRg no HC n. 1.004.080/SP, Rel. Ministro Carlos Pires Brandão, Sexta Turma, DJEN de 18/11/2025.
+No caso concreto, não há como reconhecer a presença de manifesta ilegalidade, pois a decisão impugnada fundamentou adequadamente o quantum adotado para a majoração da pena-base, estando de acordo com a jurisprudência do STJ.
+Por fim, mantida a sanção penal, fica prejudicado o pedido de alteração do regime inicial de cumprimento da pena.
+Conclui-se, assim, que no caso em análise não há manifesta ilegalidade a ensejar a concessão da ordem de ofício.
+Ante o exposto, com fundamento no art. 21-E, IV, c/c o art. 210, ambos do RISTJ, indefiro liminarmente o presente Habeas Corpus.
+Cientifique-se o Ministério Público Federal.
+Publique-se.
+Intimem-se.
+EMENTA
