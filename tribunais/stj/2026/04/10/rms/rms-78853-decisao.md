@@ -1,0 +1,23 @@
+DECISÃO
+Examina-se recurso ordinário em mandado de segurança interposto por FABIO GARCIA DE MELO MARTINS a acórdão proferido pelo TJ/SP.
+Ação: mandado de segurança, impetrado pelo ora recorrente contra decisão proferida pela 23ª Câmara de Direito Privado do Tribunal de Justiça de São Paulo.
+Acórdão: indeferiu a petição inicial e extinguiu o processo sem resolução de mérito, nos termos da seguinte ementa:
+" MANDADO DE SEGURANÇA CÍVEL. Decisão interlocutória proferida em sede de ação de execução de título extrajudicial. Atos constritivos. Penhora SISBAJUD. Alegação de impenhorabilidade. Inadequação da via eleita e ausência dos requisitos legais para o manejo da ação mandamental. Inadmissibilidade do mandado de segurança contra ato de magistrado passível de recurso. Indeferimento da petição inicial e extinção do processo sem resolução do mérito."
+Recurso ordinário: alega que a decisão é manifestamente teratológica, porquanto admitiu o desconto de R$ 2.891,02 (dois mil oitocentos e noventa e um reais e dois centavos), em afronta ao art. 833, X, do CPC.
+É o relatório.
+Inicialmente, cumpre salientar que o mandado de segurança somente é cabível quando o direito líquido e certo reclamado for plenamente aferível no momento da impetração, devendo sua existência e delimitação serem comprovadas de plano, sem a necessidade de dilação probatória.
+Tal remédio processual, quando utilizado em face de decisão judicial, apenas se revela viável caso não haja previsão de recurso apto a desafiá-la e, ainda, se o impetrante comprovar a manifesta teratologia, a flagrante ilegalidade do provimento impugnado ou a ocorrência de abuso de poder da autoridade apontada como coatora.
+Além disso, a via estreita do mandado de segurança não comporta análise da fundamentação jurídica adotada pelo ato judicial impugnado, pois tal instrumento não pode ser utilizado como sucedâneo recursal. Nesse sentido: MS 27.348/DF, Corte Especial, DJe 9/6/2023.
+Na hipótese, não se verifica manifesta ilegalidade, abuso de poder ou teratologia no ato apontado como coator.
+A decisão a que se insurge o impetrante indeferiu a petição inicial a extinguiu o processo sem resolução do mérito, em virtude da inadequação da via eleita, porquanto o recorrente se utilizou do mandado de segurança como sucedâneo recursal, o que já é há muito tempo assentado na jurisprudência deste STJ.
+Veja-se:
+"A propositura do mandado de segurança, por sua vez, não é cabível quando há previsão legal de recurso próprio para atacar a decisão judicial. Sobre o assunto, o E. Supremo Tribunal Federal editou a Súmula nº 267 que dispõe que "não cabe mandado de segurança contra ato judicial passível de recurso ou correição". No caso dos autos, seria cabível contra a decisão interlocutória a interposição de agravo de instrumento. Todavia, compulsando os autos, verifica-se uma desatenção da parte impetrante para com os prazos processuais, considerando-se que (i) à fl. 266, foi proferida decisão1 determinando que o autor justificasse com documentação comprobatória a alegação de impenhorabilidade, todavia se quedou inerte, o que motivou a decisão de indeferimento à fl. 635, mantida pela decisão de fl. 641 após pedido de reconsideração; (ii) foram posteriormente opostos (intempestivos) embargos de declaração de fls. 671/672, que restaram desacolhidos; (iii) contra essas decisões, sendo a última datada de junho de 2024, não foi interposto recurso cabível." (e-STJ Fl.45)
+Evidencia-se, a partir disso, a ausência de qualquer ilegalidade ou teratologia na decisão que foi objeto de mandado de segurança.
+Saliente-se, por fim, que a mera discordância dos impetrantes quanto ao resultado do julgamento não configura ilegalidade, abuso de poder ou teratologia capazes de evidenciar violação a direito líquido e certo pela autoridade apontada como coatora.
+Forte nessas razões, CONHEÇO e NEGO PROVIMENTO ao recurso ordinário.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar sua condenação às penalidades fixadas nos artigos 1.021, § 4º, e 1.026, § 2º, ambos do CPC.
+Publique-se. Intimem-se.
+EMENTA
+RECURSO EM MANDADO DE SEGURANÇA. ATO JUDICIAL. ILEGALIDADE OU TERATOLOGIA NÃO CONSTATADAS.
+1. Tratando-se de ilegalidade derivada de ato judicial, o cabimento do mandado de segurança restringe-se a situações excepcionais em que não haja recurso hábil a impugnar a decisão, devendo o impetrante demonstrar, em todo caso, o caráter abusivo, a ilegalidade ou a teratologia do ato impugnado.
+2. Recurso ordinário conhecido e não provido.
