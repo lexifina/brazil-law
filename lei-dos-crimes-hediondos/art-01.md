@@ -5,6 +5,7 @@ a) contra autoridade ou agente descrito nos arts. 142 e 144 da Constituição Fe
 b) contra membro do Poder Judiciário, do Ministério Público, da Defensoria Pública ou da Advocacia Pública, de que tratam os arts. 131 e 132 da Constituição Federal, ou oficial de justiça, no exercício da função ou em decorrência dela, ou contra seu cônjuge, companheiro ou parente, inclusive por afinidade, até o terceiro grau, em razão dessa condição; ou
 c) nas dependências de instituição de ensino;
 I-B - feminicídio (art. 121-A);
+I-C - vicaricídio (art. 121-B);
 II - roubo:
 a) circunstanciado pela restrição de liberdade da vítima (art. 157, § 2º, inciso V);
 b) circunstanciado pelo emprego de arma de fogo (art. 157, § 2º-A, inciso I) ou pelo emprego de arma de fogo de uso proibido ou restrito (art. 157, § 2º-B);
