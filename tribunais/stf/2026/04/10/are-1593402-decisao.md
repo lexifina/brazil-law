@@ -1,0 +1,68 @@
+DECISÃO
+
+Trata-se de Agravo em Recurso Extraordinário interposto em face de acórdão proferido pelo Tribunal de Justiça do Estado da Bahia, cuja ementa possui  o seguinte cabeçalho (Doc. 13, fl. 1):
+
+“DIREITO ADMINISTRATIVO. RECURSO DE APELAÇÃO. SERVIDOR OCUPANTE DE CARGO COMISSIONADO. VERBAS REMUNERATÓRIAS. ÔNUS DA PROVA. HONORÁRIOS ADVOCATÍCIOS. FIXAÇÃO NA FASE DE LIQUIDAÇÃO. APELO CONHECIDO E DESPROVIDO. SENTENÇA PARCIALMENTE REFORMADA EX OFFICIO EM REEXAME NECESSÁRIO.”
+
+No Recurso Extraordinário (Doc. 16), interposto com amparo no art. 102, III, “a”, da Constituição Federal, o MUNICÍPIO DE RIACHÃO DO JACUÍPE/BA aponta violação ao art. 37, II, da CF/1988, na medida em que o acórdão recorrido o condenou a pagar ao recorrido, ocupante de cargo em comissão, os valores referentes às férias acrescidas de 1/3 constitucional e ao décimo terceiro salário, equiparando, indevidamente, os ocupantes de cargos comissionados a servidores efetivos ou temporários.
+Aduz que o Tema 551/STF foi aplicado de forma equivocada pelo Juízo de origem, devendo ser aplicado, ao caso, o Tema 612/STF.
+Afirma que “os cargos em comissão, nos termos constitucionais, destinam-se apenas às funções de direção, chefia e assessoramento, sendo providos por livre nomeação e exoneração, sem concurso público e sem gerar estabilidade ou vínculo jurídico típico de servidor efetivo”, sendo tais cargos, “por sua própria essência, (...) submetidos a regime jurídico-administrativo e não ao regime celetista (Doc. 16, fl. 8).
+Sustenta que “a extensão de verbas trabalhistas aos ocupantes de cargos em comissão viola também o princípio da legalidade estrita em matéria remuneratória (art. 37, caput, CF), segundo o qual a Administração Pública somente pode conceder vantagens pecuniárias a seus agentes quando houver expressa previsão em lei”, não sendo “admissível que, a pretexto de interpretação ampliativa ou por analogia, se atribuam direitos que a Constituição e a legislação não contemplaram para essa modalidade de vínculo” (Doc. 16, fl. 8).
+Em exame de admissibilidade (Doc. 19), o RE foi inadmitido com base na Súmula 356/STF.
+No agravo, a parte agravante refuta a incidência do referido óbice sumular (Doc. 22).
+É o relatório. Decido.
+
+Os recursos extraordinários somente serão conhecidos e julgados, quando essenciais e relevantes as questões constitucionais a serem analisadas, sendo imprescindível ao recorrente, em sua petição de interposição de recurso, a apresentação formal e motivada da repercussão geral que demonstre, perante o SUPREMO TRIBUNAL FEDERAL, a existência de acentuado interesse geral na solução das questões constitucionais discutidas no processo, que transcenda a defesa puramente de interesses subjetivos e particulares.
+A obrigação do recorrente de apresentar, formal e motivadamente, a  repercussão geral que demonstre, sob o ponto de vista econômico, político, social ou jurídico, a relevância da questão constitucional debatida que ultrapasse os interesses subjetivos da causa, conforme exigência constitucional, legal e regimental (art. 102, § 3º, da CF/88, c/c art. 1.035, § 2º, do Código de Processo Civil de 2015 e art. 327, § 1º, do Regimento Interno do Supremo Tribunal Federal), não se confunde com meras invocações, desacompanhadas de sólidos fundamentos e de demonstração dos requisitos no caso concreto, de que (a) o tema controvertido é portador de ampla repercussão e de suma importância para o cenário econômico, político, social ou jurídico; (b) a matéria não interessa única e simplesmente às partes envolvidas na lide; ou, ainda, de que (c) a jurisprudência do SUPREMO TRIBUNAL FEDERAL é incontroversa no tocante à causa debatida, entre outras alegações de igual patamar argumentativo (ARE 691.595-AgR, Rel. Min. RICARDO LEWANDOWSKI, Segunda Turma, DJe de 25/2/2013; ARE 696.347-AgR-segundo, Rel. Min. CÁRMEN LÚCIA, Segunda Turma, DJe de 14/2/2013; ARE 696.263-AgR, Rel. Min. LUIZ FUX, Primeira Turma, DJe de 19/2/2013; AI 717.821-AgR, Rel. Min. JOAQUIM BARBOSA, Segunda Turma, DJe de 13/8/2012).
+Eis os fundamentos da parte para sustentar a repercussão geral da matéria (Doc. 16, fls. 7-8):
+
+“A matéria veiculada no presente recurso possui indiscutível repercussão geral, na medida em que transcende os interesses subjetivos das partes e alcança a própria organização da Administração Pública em âmbito nacional.
+A controvérsia diz respeito à extensão de direitos típicos de servidores efetivos ou empregados celetistas a ocupantes de cargos em comissão, de livre nomeação e exoneração, cujo regime jurídico está disciplinado diretamente pelo art. 37, II, da Constituição Federal.
+A manutenção do entendimento firmado no acórdão recorrido gera consequências jurídicas e financeiras de grande monta para todos os entes federativos, uma vez que, ao reconhecer direitos trabalhistas indevidos a cargos comissionados, amplia-se significativamente o rol de encargos da Administração, comprometendo o equilíbrio orçamentário municipal e desvirtuando a finalidade dos cargos de confiança.
+Trata-se, portanto, de questão que envolve a interpretação uniforme da Constituição Federal, sobretudo no tocante: 1. à correta delimitação do regime jurídico aplicável aos cargos em comissão, previstos constitucionalmente como de provimento precário e transitório; 2. à distinção entre os precedentes do Supremo Tribunal Federal nos Temas 551 e 612 da Repercussão Geral, sendo certo que o primeiro se refere exclusivamente a servidores temporários (art. 37, IX, CF), e não a cargos comissionados; 3. à necessidade de preservação do princípio da legalidade estrita em matéria de concessão de vantagens remuneratórias a agentes públicos, cuja previsão deve estar expressamente contida em lei, em consonância com a jurisprudência consolidada desta Corte Suprema.
+Portanto, a definição da questão constitucional pelo Supremo Tribunal Federal terá reflexo direto em milhares de demandas semelhantes em curso nos tribunais de todo o país, impondo-se a sua análise sob o regime da repercussão geral, como forma de assegurar a uniformidade e a estabilidade da interpretação constitucional.”
+
+Não havendo demonstração fundamentada da presença de repercussão geral, incabível o seguimento do Recurso Extraordinário.
+Além disso, o Juízo de origem não analisou a questão constitucional veiculada, não tendo sido esgotados todos os mecanismos ordinários de discussão, INEXISTINDO, portanto, o NECESSÁRIO PREQUESTIONAMENTO EXPLÍCITO, que pressupõe o debate e a decisão prévios sobre o tema jurígeno constitucional versado no recurso. Incidência das Súmulas 282 (É inadmissível o recurso extraordinário, quando não ventilada, na decisão recorrida, a questão federal suscitada) e 356 (O ponto omisso da decisão, sobre o qual não foram opostos embargos declaratórios, não pode ser objeto de recurso extraordinário, por faltar o requisito do prequestionamento), ambas desta CORTE SUPREMA.
+Em relação à ofensa ao art. 37, caput, da Constituição Federal, aplica-se neste caso a restrição da Súmula 636/STF: Não cabe recurso extraordinário por contrariedade ao princípio constitucional da legalidade, quando a sua verificação pressuponha rever a interpretação dada a normas infraconstitucionais pela decisão recorrida.
+No caso concreto, foram os seguintes os fundamentos do acórdão recorrido para manter o direito ao pagamento das férias integrais e proporcionais acrescidas de 1/3 e do décimo terceiro salário ao servidor que exerceu cargo em comissão (Doc. 13, fls. 5-7):
+
+“É incontroverso nos autos que o apelado ocupou cargo em comissão no município apelante, de livre nomeação e exoneração, característica própria dos cargos de confiança da Administração Pública.
+Tal circunstância, por si só, não afasta automaticamente o direito às verbas pleiteadas, sendo necessário examinar o regime jurídico aplicável.
+O Supremo Tribunal Federal, ao julgar o Tema 551 da repercussão geral, estabeleceu que servidores temporários não fazem jus a décimo terceiro salário e férias remuneradas acrescidas do terço constitucional, salvo quando houver expressa previsão legal ou contratual em sentido contrário, ou quando comprovado o desvirtuamento da contratação temporária pela Administração Pública.
+Embora o precedente trate especificamente de servidores temporários, seus fundamentos têm sido aplicados pela jurisprudência aos ocupantes de cargos comissionados, que também mantêm vínculo precário com a Administração.
+Ocorre que, no caso dos autos, verifica-se a existência de previsão legal específica. O próprio município juntou aos autos cópia da Lei Municipal nº 162/1991, que institui o Estatuto dos Servidores Públicos do Município de Riachão do Jacuípe. Referida norma expressamente prevê o direito a férias e décimo terceiro salário a todos os servidores municipais, sem fazer distinção entre efetivos, temporários ou comissionados.
+(...)
+Dessa forma, não merece prosperar a alegação do apelante de que o apelado não faria jus às verbas deferidas na sentença. A existência de previsão legal específica no estatuto dos servidores municipais afasta a aplicação da tese fixada pelo STF para os casos em que não há tal previsão”.
+
+Ao assim decidir, o acórdão recorrido está alinhado à jurisprudência desta CORTE, segundo a qual os servidores ocupantes de cargo em comissão têm direito ao percebimento de férias com acréscimo do terço constitucional e de décimo terceiro salário. Vejam-se os seguintes precedentes:
+
+“DIREITOS CONSTITUCIONAL E ADMINISTRATIVO. SERVIDOR PÚBLICO ESTADUAL. CARGO COMISSIONADO. EXONERAÇÃO. FÉRIAS NÃO GOZADAS: PAGAMENTO ACRESCIDO DO TERÇO CONSTITUCIONAL. PREVISÃO CONSTITUCIONAL DO BENEFÍCIO. AUSÊNCIA DE PREVISÃO EM LEI. JURISPRUDÊNCIA DESTE SUPREMO TRIBUNAL. RECURSO AO QUAL SE NEGA PROVIMENTO.
+1. O direito individual às férias é adquirido após o período de doze meses trabalhados, sendo devido o pagamento do terço constitucional independente do exercício desse direito.
+2. A ausência de previsão legal não pode restringir o direito ao pagamento do terço constitucional aos servidores exonerados de cargos comissionados que não usufruíram férias.
+3. O não pagamento do terço constitucional àquele que não usufruiu o direito de férias é penalizá-lo duas vezes: primeiro por não ter se valido de seu direito ao descanso, cuja finalidade é preservar a saúde física e psíquica do trabalhador; segundo por vedar-lhe o direito ao acréscimo financeiro que teria recebido se tivesse usufruído das férias no momento correto.
+4. Recurso extraordinário não provido” (RE 570.908/RN-RG, Relator(a): Min. CÁRMEN LÚCIA, Tribunal Pleno, DJe de 12/3/2010).
+
+“AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO COM AGRAVO. INTERPOSIÇÃO EM 12.4.2017. SERVIDOR PÚBLICO MUNICIPAL. CARGO EM COMISSÃO. DIREITO A FÉRIAS COM ACRÉSCIMO DO TERÇO CONSTITUCIONAL. PREVISÃO NA CONSTITUIÇÃO FEDERAL. PRECEDENTES.
+1. É firme o entendimento deste Tribunal de que os servidores ocupantes de cargo em comissão têm direito ao recebimento de férias com o terço constitucional, o qual não pode ser restringido por falta de previsão legal.
+2. Agravo regimental a que se nega provimento, com previsão de aplicação da multa prevista no art. 1.021, § 4º, do CPC. Inaplicável o artigo 85, § 11, CPC, visto que a sentença fixou os honorários advocatícios em 20% do valor da condenação, percentual máximo estabelecido no § 2º do referido dispositivo legal” (ARE 1.019.020-AgR, Relator(a): Min. EDSON FACHIN, Segunda Turma,  DJe de 1°/8/2018).
+
+“AGRAVO REGIMENTAL EM AGRAVO DE INSTRUMENTO. CARGO COMISSIONADO. EXONERAÇÃO. FÉRIAS NÃO GOZADAS E CONVERSÃO EM PECÚNIA. POSSIBILIDADE. PRECEDENTES. O Plenário do Supremo Tribunal Federal, no julgamento do RE 570.908-RG, sob a relatoria da Ministra Cármen Lúcia, firmou o entendimento de que servidor público estadual, ocupante de cargo comissionado, após a sua exoneração, faz jus ao recebimento em pecúnia, acrescido do terço constitucional, das férias não gozadas. Esta Corte reafirmou esse entendimento ao julgar o ARE 721.001-RG, sob a relatoria do Ministro Gilmar Mendes, assentando a vedação de enriquecimento ilícito pela Administração. Agravo regimental a que se nega provimento” (AI 813.805/RJ-AgR, Primeira Turma, Relator(a): Min. ROBERTO BARROSO, DJe 25/6/2014).
+
+No mesmo sentido, as seguintes decisões monocráticas: ARE 1.360.303, Rel. Min. DIAS TOFFOLI, DJe de 25/2/2022; RE 1.267.151, Rel. Min. CÁRMEN LÚCIA, DJe de 2/6/2020, esse último assim ementado:
+
+“RECURSO EXTRAORDINÁRIO. CONSTITUCIONAL E ADMINISTRATIVO. CARGO COMISSIONADO. DIREITO A FÉRIAS E DÉCIMO TERCEIRO. ACÓRDÃO RECORRIDO EM HARMONIA COM A JURISPRUDÊNCIA DO SUPREMO TRIBUNAL FEDERAL. TEMAS 30, 484 E 635 DA REPERCUSSÃO GERAL. PRECEDENTES. RECURSO EXTRAORDINÁRIO AO QUAL SE NEGA PROVIMENTO.”
+
+Por fim, o Plenário desta CORTE, no julgamento do RE 570.908-RG, Rel. Min. CÁRMEN LÚCIA (Tema 30, Tribunal Pleno, DJe de 12/3/2010), fixou a seguinte tese:
+
+“I - O direito individual às férias é adquirido após o período de doze meses trabalhados, sendo devido o pagamento do terço constitucional independente do exercício desse direito; II - A ausência de previsão legal não pode restringir o direito ao pagamento do terço constitucional aos servidores exonerados de cargos comissionados que não usufruíram férias.”
+
+Diante do exposto, com base no art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal, NEGO SEGUIMENTO AO AGRAVO EM RECURSO EXTRAORDINÁRIO.
+Fixam-se honorários advocatícios adicionais equivalentes a 10% (dez por cento) do valor a esse título arbitrado nas instâncias ordinárias (Código de Processo Civil de 2015, art. 85, § 11).
+Publique-se.
+
+Brasília, 10 de abril de 2026.
+
+Ministro ALEXANDRE DE MORAES
+Relator
+Documento assinado digitalmente
