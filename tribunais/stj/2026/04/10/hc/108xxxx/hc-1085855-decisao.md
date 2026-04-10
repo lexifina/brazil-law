@@ -1,0 +1,19 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em nome de VALDINEI DE ARAUJO - condenado pelos crimes do art. 157, § 1º, II e V, § 2º-A, I, por três vezes, na forma do art. 70, e do art. 311, todos do Código Penal, ao cumprimento de 11 anos de reclusão, em regime inicial fechado -, em que a defesa aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DO PARANÁ, que, em 29/3/2026, manteve a condenação no julgamento da Apelação n. 0006864-34.2023.8.16.0129 (fls. 49/81).
+Em suma, o impetrante alega o cabimento do writ por ilegalidade manifesta, fundada em error in judicando, consubstanciado em erro grosseiro de tipificação penal.
+Sustenta enquadramento incorreto no art. 311 do Código Penal, com uso da redação antiga do caput, apesar de a Lei n. 14.562/2023 já estar em vigor na data dos fatos, o que viciou a subsunção e comprometeu a validade da condenação.
+Afirma que inexistem provas de que o paciente tenha praticado os núcleos "adulterar" ou "remarcar" do caput do art. 311; as informações colhidas indicam apenas ciência de irregularidade preexistente na placa, não a execução da adulteração.
+Aponta distinção normativa introduzida pela Lei n. 14.562/2023 entre o caput do art. 311 e o inciso III: a situação dos autos, quando muito, subsumir-se-ia ao inciso III (conduzir ou utilizar veículo com sinal adulterado quando o agente devesse saber), não ao caput, que exige adulterar ou remarcar.
+Aduz violação do princípio da correlação e da legalidade, por condenação sem prova do núcleo típico imputado, com interpretação ampliativa em prejuízo do réu, vedada pela Constituição.
+Pede, inclusive em caráter liminar, a absolvição do paciente quanto ao crime do art. 311 Código Penal, afastando-se os efeitos dessa condenação.
+É o relatório.
+Segundo o entendimento do Superior Tribunal de Justiça, é incognoscível o writ ajuizado quando em curso o prazo para interposição do recurso cabível na origem, como na espécie.
+Com efeito, verifica-se a possibilidade do manejo da via adequada para a obtenção do intento defensivo ou, ao menos, de uma resposta jurisdicional do Superior Tribunal de Justiça, de modo que qualquer pronunciamento imediato desta Corte Superior quanto ao pleito vindicado pela impetrante seria precoce, além de implicar a subversão da essência do remédio heroico e o alargamento inconstitucional de sua competência para julgamento de habeas corpus (AgRg no HC n. 733.563/RS, Ministro Rogerio Schietti Cruz, Sexta Turma, DJe 16/5/2022).
+Além disso, a questão tal como aqui colocada não foi enfrentada pela Corte a quo; e não se admite a supressão de instância.
+Por fim, não se extrai do contexto apresentado nenhuma ilegalidade capaz de justificar a impetração do presente writ, considerando que o paciente foi denunciado e condenado pelo crime do art. 311 do Código Penal (o qual engloba o caput e todos os seus parágrafos e incisos), e o próprio dispositivo legal equipara as condutas ao dispor que incorre nas mesmas penas do agente que adultera aquele que utiliza sabendo ou devendo saber estar adulterado.
+Ora, a alteração legislativa promovida pela Lei nº 14.562/2023 ampliou o alcance do tipo penal do art. 311 do Código Penal, abrangendo condutas como posse, transporte e ocultação de objeto adulterado, tornando irrelevante a comprovação da autoria material do ato de adulterar (AgRg no HC n. 1.015.927/SP, relator Ministro Messod Azulay Neto, Quinta Turma, julgado em 16/12/2025, DJEN de 19/12/2025).
+Pelo exposto, indefiro liminarmente a petição inicial (art. 210 do RISTJ).
+Publique-se.
+EMENTA
+HABEAS CORPUS SUBSTITUTIVO DE RECURSO ESPECIAL. PRAZO PARA INTERPOSIÇÃO DO RECURSO CABÍVEL AINDA EM CURSO NA ORIGEM. INADEQUAÇÃO DA VIA ELEITA. ROUBO E ADULTERAÇÃO DE SINAL IDENTIFICADOR DE VEÍCULO. ERRO DE TIPIFICAÇÃO QUANTO AO DELITO DO ART. 311 DO CP. QUESTÃO NÃO DEBATIDA NA ORIGEM. IMPOSSIBILIDADE DE SUPRESSÃO DE INSTÂNCIA. INEVIDÊNCIA DA ILEGALIDADE APONTADA.
+Writ indeferido liminarmente.
