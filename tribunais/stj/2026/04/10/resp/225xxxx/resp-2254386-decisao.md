@@ -1,0 +1,34 @@
+DECISÃO
+Trata-se de Recurso Especial interposto por BANCO BRADESCO S.A., com fundamento no art. 105, inciso III, alíneas "a" e "c", da Constituição Federal, contra o acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DA PARAÍBA, assim ementado (e-STJ, fls. 219-221):
+"EMENTA: DIREITO PROCESSUAL CIVIL. APELAÇÃO CÍVEL. AÇÃO MONITÓRIA AJUIZADA CONTRA PESSOA JÁ FALECIDA. ILEGITIMIDADE PASSIVA. AUSÊNCIA DE CONDIÇÃO DA AÇÃO. EXTINÇÃO SEM RESOLUÇÃO DE MÉRITO. MANUTENÇÃO DA SENTENÇA. RECURSO DESPROVIDO. (..)A questão em discussão consiste em definir se é possível o prosseguimento de ação monitória ajuizada contra devedor falecido antes da propositura da demanda, mediante substituição processual pelo espólio ou sucessores.
+III. RAZÕES DE DECIDIR
+A legitimidade processual constitui condição da ação e deve estar presente desde o ajuizamento da demanda, sendo inviável sua posterior convalidação se ausente desde o início. Nos termos do art. 110 do CPC, a sucessão processual somente se aplica em casos de falecimento superveniente ao início da relação processual, não sendo admissível quando o óbito é anterior ao ajuizamento. É pacífico no STJ o entendimento de que, não tendo havido citação válida em vida do devedor, e sendo o falecimento anterior à propositura da ação, inexiste angularização da lide, o que impede a substituição processual e impõe a extinção do feito por ilegitimidade passiva."
+Segundo a parte recorrente, o recurso preenche os requisitos necessários ao conhecimento e provimento.
+Trata-se de ação monitória em que o Juiz de primeiro grau extinguiu o feito, sem resolução de mérito, sob o fundamento de ilegitimidade passiva. O Tribunal de origem manteve a sentença sob o argumento de que a propositura da demanda em desfavor de pessoa falecida implica ausência de legitimidade passiva, sendo inviável a sucessão processual quando o óbito é anterior ao ajuizamento.
+A parte recorrente alega violação aos artigos 75, VII, 317, 321, 329, I e 485, VI, do Código de Processo Civil, bem como dissídio jurisprudencial, sustentando a possibilidade de emenda da petição inicial para correção do polo passivo antes da citação.
+Intimada nos termos do art. 1.030 do Código de Processo Civil, a parte recorrida não se manifestou.
+É o relatório.
+DECIDO.
+O recurso especial é tempestivo e cabível, pois interposto em face de decisão que negou provimento ao recurso de apelação interposto na origem (art. 105, III, "a" e "c", da Constituição Federal).
+No presente processo, a parte afirma, em suma, que estão presentes os requisitos para o conhecimento e provimento de seu recurso.
+Cinge-se a controvérsia à possibilidade de se facultar ao autor, ora recorrente, a emenda da petição inicial para fins de regularização do polo passivo, em razão do falecimento do réu ocorrido anteriormente à propositura da ação.
+No caso dos autos, a ação monitória foi ajuizada em 15/07/2022 contra Eudes Gomes Monteiro, que havia falecido em 04/01/2019, razão pela qual não houve citação válida, uma vez que o réu, desde o início, não possuía capacidade de figurar como parte no polo passivo da relação processual, configurando a ausência de pressuposto processual de validade, qual seja, a capacidade de ser parte.
+Assim, o acórdão recorrido encontra-se em dissonância do entendimento consolidado desta Corte Superior, segundo o qual, tratando-se de ausência de citação válida em razão do falecimento anterior ao ajuizamento da ação, o vício configura ilegitimidade passiva, mas não autoriza a extinção imediata do processo.
+Deve-se assegurar à parte autora a oportunidade de emendar a petição inicial, promovendo a correta identificação do polo passivo, seja pelo espólio, se houver inventário, seja pelos sucessores, na ausência deste, nos termos do art. 329, I, do CPC/2015.
+Nesse sentido, destacam-se os seguintes precedentes desta Corte Superior:
+" .. 2. Ajuizada a ação em face de réu falecido previamente à propositura da demanda, deve ser reconhecida a ilegitimidade passiva do de cujus, permitindo-se ao autor, na ausência de citação válida, emendar a petição inicial para corrigir o polo passivo, direcionando a demanda ao espólio. Precedentes.
+3. Recurso especial conhecido e provido para o fim de possibilitar que a recorrente emende a petição inicial e corrija o polo passivo."
+(REsp n. 1.857.115/PB, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 18/8/2025, DJEN de 21/8/2025.)
+"PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. NECESSIDADE DE SE FACULTAR A EMENDA DA PETIÇÃO INICIAL PARA CORREÇÃO DO POLO PASSIVO.
+1. Cinge-se a controvérsia à possibilidade de extinção do processo, sem resolução do mérito, em virtude do falecimento do réu antes do ajuizamento da ação monitória, sem que tenha sido oportunizado à parte autora emendar a petição inicial para regularizar o polo passivo da demanda, à luz do art. 110 do CPC.
+2. O acórdão está em sintonia com a jurisprudência do STJ, visto que, tratando-se de ausência de citação válida por falecimento anterior ao ajuizamento, o vício configura ilegitimidade passiva, não podendo o feito ser extinto de plano. Deve-se assegurar à parte autora a oportunidade de emendar a petição inicial, promovendo a correta identificação do polo passivo, seja pelo espólio, se houver inventário, seja pelos sucessores, na ausência deste."
+(AgInt no REsp n. 2.003.599/MG, relator Ministro Humberto Martins, Terceira Turma, julgado em 13/11/2023, DJe de 17/11/2023)
+"RECURSO ESPECIAL. PROCESSO CIVIL. AÇÃO MONITÓRIA. DEVEDOR FALECIDO ANTES DO AJUIZAMENTO DA DEMANDA. INCAPACIDADE DE SER PARTE. EMENDA À INICIAL. POSSIBILIDADE. ESPÓLIO OU HERDEIROS. INCLUSÃO.
+1. Não havendo citação válida do réu, pois falecido antes do ajuizamento da ação, deve ser facultada ao autor a emenda à petição inicial, para incluir no polo passivo o espólio ou os herdeiros, nos termos do art. 329, I, do CPC/2015."
+(REsp n. 2.025.757/SE, relator Ministro Antonio Carlos Ferreira, Quarta Turma, julgado em 2/5/2023, DJe de 5/5/2023)
+"1. O vício decorrente da ausência de citação válida do réu, falecido antes do ajuizamento da ação, pode ser corrigido por meio da emenda à petição inicial, para incluir no polo passivo o espólio ou os herdeiros, nos termos do art. 329, I, do CPC/2015. Precedentes."
+(AREsp n. 2.553.651/RJ, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 30/6/2025, DJEN de 7/7/2025)
+Portanto, o entendimento do Tribunal de origem, ao determinar a extinção do processo sem possibilitar a emenda da inicial, diverge da orientação jurisprudencial consolidada nesta Corte Superior.
+Ante o exposto, conheço do recurso especial e lhe dou provimento para reformar o acórdão recorrido e anular a sentença proferida, a fim de possibilitar que o recorrente emende a petição inicial e corrija o polo passivo, direcionando a demanda ao espólio ou sucessores de Eudes Gomes Monteiro, devendo o processo seguir seu curso regular.
+Publique-se. Intimem-se.
+EMENTA
