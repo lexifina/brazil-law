@@ -1,0 +1,2 @@
+Altera a Lei nº 14.758, de 19 de dezembro de 2023, que institui a Política Nacional de Prevenção e Controle do Câncer no âmbito do Sistema Único de Saúde (SUS) e o Programa Nacional de Navegação da Pessoa com Diagnóstico de Câncer, para dispor sobre princípios e diretrizes para o desenvolvimento e regulação sanitária de novas tecnologias contra o câncer.
+O PRESIDENTE DA REPÚBLICA Faço saber que o Congresso Nacional decreta e eu sanciono a seguinte Lei:
