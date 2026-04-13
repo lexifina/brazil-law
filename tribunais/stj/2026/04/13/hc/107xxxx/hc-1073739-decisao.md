@@ -1,0 +1,63 @@
+DECISÃO
+Trata-se de habeas corpus, sem pedido liminar, impetrado em favor de MAURICIO BERNARDO contra o acórdão proferido pelo Tribunal de Justiça do Estado de Santa Catarina.
+Consta dos autos que o Juízo das Execuções deferiu o indulto natalino com fundamento no art. 9º, inciso XV, do Decreto n. 12.338/2024 e julgou extinta a punibilidade em relação à condenação da ação penal autuada sob o n. 0005959- 73.2019.8.24.0023 (fls. 16-17).
+Houve a interposição de recurso de agravo em execução ministerial, o qual foi provido, para cassar a decisão concessiva de indulto, ficando o acórdão assim ementado (fl. 48):
+AGRAVO EM EXECUÇÃO PENAL. DECISÃO QUE DEFERIU O INDULTO EM FAVOR DO APENADO (DECRETO PRESIDENCIAL N. 12.338/2024). RECURSO DO MINISTÉRIO PÚBLICO. ALEGADO O NÃO PREENCHIMENTO DOS REQUISITOS NECESSÁRIOS PARA A CONCESSÃO DO INDULTO. REEDUCANDO CONDENADO PELA PRÁTICA DE CRIME PATRIMONIAL SEM VIOLÊNCIA OU GRAVE AMEAÇA A PESSOA. PENA PRIVATIVA DE LIBERDADE SUBSTITUÍDA POR MEDIDA RESTRITIVA DE DIREITOS. NECESSÁRIO CUMPRIMENTO DAS FRAÇÕES ESTABELECIDAS NO ART. 9º, VII, DO ATO NORMATIVO. APENADO QUE NÃO DEU INÍCIO AO CUMPRIMENTO DA PENA. PRESSUPOSTO OBJETIVO PARA A CONCESSÃO DO BENEFÍCIO NÃO PREENCHIDO. DECISÃO REFORMADA.
+No caso de apenado condenado a medidas restritivas de direitos em substituição às penas privativas de liberdade, é inaplicável o disposto no art. 9º, XV, do Decreto n. 12.338/2024, devendo ser observado o cumprimento de 1/5 da pena na hipótese de ser o reeducando reincidente, ou 1/6, se primário, conforme previsto no inciso VII do mesmo dispositivo legal.
+RECURSO CONHECIDO E PROVIDO.
+No presente writ, a defesa sustenta a ilegalidade do acórdão por inovação indevida na ordem jurídica, argumentando que o art. 9º, inciso XV, do Decreto n. 12.338/2024 não exige o cumprimento de qualquer tempo mínimo de pena para a concessão do indulto em crimes patrimoniais sem violência.
+Assevera que o paciente preenche os requisitos legais, destacando a presunção de hipossuficiência econômica por ser assistido pela Defensoria Pública, além de estar desempregado, sem renda ou bens, e com pena de multa fixada no mínimo.
+Alega que a regra geral do art. 3º, inciso I, do Decreto permite o benefício mesmo em penas substituídas por restritivas de direitos, bem como preenche o requisito subjetivo pela ausência de falta grave nos últimos doze meses.
+Requer o conhecimento da presente ação para reconhecer a ilegalidade do acórdão e deferir o direito do paciente ao indulto.
+As informações foram prestadas (fls. 62-77).
+O Ministério Público Federal apresentou parecer pelo não conhecimento da impetração, com a seguinte ementa (fl. 79):
+Habeas corpus substitutivo de recurso especial. Execução penal. Indulto. Decreto n. 12.338/2024. Pena privativa de liberdade substituída por restritivas de direitos. Falta de cumprimento do requisito objetivo. Ausência de flagrante ilegalidade.
+- "A jurisprudência do Superior Tribunal de Justiça está consolidada no sentido de que, para a concessão de indulto, é necessário o cumprimento de determinada fração de cada uma das penas restritivas de direitos impostas, mesmo quando a pena privativa de liberdade é substituída por penas alternativas" RHC n. 221.075/SP, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 25/2/2026, DJEN de 4/3/2026.).
+Parecer pelo não conhecimento da ordem.
+É o relatório.
+DECIDO.
+A Quinta Turma do Superior Tribunal de Justiça firmou entendimento no sentido de ser inadequada a impetração de habeas corpus quando utilizado em substituição a recurso próprio.
+A teor do disposto no art. 105, II, a, da CF/88, o recurso cabível contra acórdão que denega a ordem na origem é o recurso ordinário, enquanto, consoante previsto no art. 105, III, da CF, o recurso cabível contra acórdão que julga apelação, recurso em sentido estrito e agravo em execução é o recurso especial.
+Nada impede, contudo, a concessão de habeas corpus de ofício quando constatada a existência de ilegalidade flagrante, abuso de poder ou teratologia, nos termos do art. 654, §2º, do CPP, o que ora passa-se a examinar.
+A impetrante visa ao restabelecimento do indulto reconhecido em primeiro grau.
+A Corte local assim decidiu a questão controvertida (fls. 45-46):
+Segundo preconiza o art. 9º, XV, do Decreto Presidencial em questão, "concede-se o indulto coletivo às pessoas, nacionais e migrantes, condenadas: XV - a pena privativa de liberdade por crime contra o patrimônio, cometido sem violência ou grave ameaça a pessoa que, até 25 de dezembro de 2024, tenham reparado o dano conforme o disposto no art. 16 ou no art. 65, caput, inciso III, alínea "b", do Decreto-Lei nº 2.848, de 7 de dezembro de 1940 - Código Penal, excetuada a necessidade de reparação do dano nas hipóteses previstas no art. 12, § 2º, deste Decreto" (grifou-se).
+Na hipótese, consta que o apenado foi condenado, nos autos da ação penal n. 0005959- 73.2019.8.24.002, pela prática de crime patrimonial sem violência ou grave ameaça a pessoa (receptação - art. 180, caput, do CP), à pena privativa de liberdade de 1 (um) ano de reclusão.
+Consoante se denota da dicção do dispositivo citado alhures, não há limitação máxima quanto à quantidade de pena imposta, tampouco necessidade de cumprimento parcial da reprimenda para a concessão do indulto em relação aos condenados às penas privativas de liberdade pela prática de crimes patrimoniais praticados sem violência e/ou grave ameaça contra pessoa.
+Ocorre que, in casu, ao recorrente foi imposta medida restritiva de direitos em substituição à pena privativa de liberdade, de modo que inaplicável, portanto, o disposto no art. 9º, XV, do Decreto em questão.
+Isso porque, conquanto a substituição das penas corporais por medidas restritivas de direitos não obste a concessão do indulto, conforme expressamente previsto no art. 3º, I, do Decreto n. 12.338/2024, há que se observar que, nesse caso, deveria o apenado ter cumprido 1/6 (um sexto) da pena, se não reincidente, ou 1/5 (um quinto), se reincidente.
+É o que se extrai do disposto no art. 9º, VII, do referido Decreto, in verbis: "Concede-se o indulto coletivo às pessoas, nacionais e migrantes, condenadas: VII - a pena privativa de liberdade sob o regime aberto ou substituída por pena restritiva de direitos, na forma prevista no art. 44 do Decreto- Lei nº 2.848, de 7 de dezembro de 1940 - Código Penal, ou beneficiadas com a suspensão condicional da pena, que tenham cumprido, até 25 de dezembro de 2024, um sexto da pena, se não reincidentes, ou um quinto da pena, se reincidentes".
+Na hipótese, verifica-se que, quanto à medida restritiva de direitos, não houve a satisfação do requisito objetivo, porquanto não há notícias, nos autos do PEC, de que o recorrente já tenha dado início ao seu cumprimento, não havendo que se falar, portanto, em concessão de indulto.
+ ..
+Diante do exposto, voto no sentido de conhecer do recurso e dar-lhe provimento, para cassar a decisão vergastada. (grifos acrescidos)
+Como se vê, o Tribunal de origem concluiu que o paciente não fazia jus ao indulto, por não ter preenchido o requisito (objetivo) previsto no art. 9º, XV, do Decreto Presidencial n. 12.338/24, uma vez que, nos autos, não há noticias de que o paciente tenha iniciado o cumprimento da pena.
+Considerou-se, outrossim, a intenção do legislador de excluir do âmbito de aplicação do indulto os condenados no regime aberto cuja pena foi substituída por restritiva de direitos, porquanto exigido, nesse caso, um período mínimo de cumprimento de pena, o qual não teria sido implementado pelo paciente.
+Portanto, a interpretação adotada pelo Tribunal de origem está em consonância com o que dispõe o Decreto n. 12.338/2024, alinhada à jurisprudência consolidada do Superior Tribunal de Justiça, no sentido de que a concessão do indulto ou da comutação da pena é admissível desde que o condenado tenha cumprido as frações correspondentes da reprimenda respectiva, quando tais requisitos são exigidos pelo respectivo Decreto Presidencial.
+Em casos análogos, assim decidiu esta Corte:
+AGRAVO REGIMENTAL NO RECURSO ESPECIAL. EXECUÇÃO PENAL. INDULTO. DECRETO N. 11.302/2022. PENA PRIVATIVA DE LIBERDADE SUBSTITUÍDA POR PENAS RESTRITIVAS DE DIREITOS. CONCESSÃO DO BENEFÍCIO. INVIABILIDADE. RECONVERSÃO DAS PENAS RESTRITIVAS DE DIREITOS EM PENA PRIVATIVA DE LIBERDADE PARA A CONCESSÃO DO INDULTO. AUSÊNCIA DE AMPARO LEGAL. RECURSO IMPROVIDO.
+1. "O indulto é constitucionalmente considerado como prerrogativa do Presidente da República, podendo ele trazer no ato discricionário e privativo, as condições que entender cabíveis para a concessão do benefício, não se estendendo ao judiciário qualquer ingerência no âmbito de alcance da norma" (AgRg no HC n. 417.366/DF, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 21/11/2017, DJe de 30/11/2017.)
+2. No caso dos autos, o recorrente foi condenado como incurso nas sanções do art. 306, § 1º, I, c/c o art. 298, III, ambos do Código de Trânsito Brasileiro, sendo fixado o regime aberto e convertida a pena privativa de liberdade em uma restritiva de direito, circunstância que não se enquadra entre os requisitos necessários para a concessão do indulto previstos no Decreto Presidencial n. 11.302/2022.
+3. A reconversão das penas restritivas de direito em pena privativa de liberdade tão somente para o fim de incidência do benefício em tela não encontra amparo legal. Precedentes.
+4. Agravo regimental improvido.
+(AgRg no REsp n. 2.124.043/RO, relator Ministro Og Fernandes, Sexta Turma, julgado em 18/6/2025, DJEN de 26/6/2025; grifos acrescidos.)
+AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO PENAL. INDULTO. NÃO PREENCHIMENTO DOS REQUISITOS ESTABELECIDOS NO DECRETO PRESIDENCIAL N. 11.302/2022. IMPOSSIBILIDADE DE CONCESSÃO DA BENESSE A APENADO EM CUMPRIMENTO DE PENAS RESTRITIVAS DE DIREITOS. RECONVERSÃO OPERADA APÓS A PUBLICAÇÃO DO MARCO LEGAL. DECISÃO MANTIDA. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. Nos termos da compreensão do Superior Tribunal de Justiça, "o Presidente da República optou por não contemplar os condenados à pena privativa de liberdade substituída por restritivas de direitos com a concessão do indulto, de forma que não há que se atribuir interpretação ampliativa.  ..  Nesse diapasão, consolidou-se nesta Corte Superior de Justiça entendimento no sentido de que a reconversão das penas restritivas de direitos em sanção privativa de liberdade, unicamente para fins de concessão do indulto, não encontra respaldo no ordenamento jurídico pátrio" (HC n. 422.303/DF, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe de 12/12/2017.), mormente em situações como a dos autos, em que a reconversão se deu após a publicação do decreto presidencial.
+2. Agravo regimental não provido.
+(AgRg no HC n. 858.958/SC, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 4/12/2023, DJe de 7/12/2023; grifos acrescidos.)
+DIREITO PROCESSUAL PENAL. AGRAVO REGIMENTAL. INDULTO PRESIDENCIAL. REQUISITOS OBJETIVOS. AGRAVO DESPROVIDO.
+I. Caso em exame
+1. Agravo regimental interposto contra decisão que negou provimento a recurso especial, mantendo a decisão do Tribunal Regional Federal da 5ª Região que afastou a concessão de indulto ao apenado, por não cumprimento dos requisitos objetivos previstos no Decreto n. 11.846/2023.
+II. Questão em discussão
+2. A questão em discussão consiste em determinar se o cumprimento parcial das penas restritivas de direitos impostas ao apenado é suficiente para a concessão do indulto, considerando-se os critérios estabelecidos pelo Decreto Presidencial n. 11.846/2023.
+III. Razões de decidir
+3. A jurisprudência do STJ é pacífica no sentido de que, para a concessão do indulto, o apenado deve cumprir o requisito temporal em relação a cada uma das penas restritivas de direitos que lhe foram impostas, sendo insuficiente o cumprimento parcial de uma das penas substitutivas.
+4. O Decreto n. 11.846/2023 exige o cumprimento de um terço da pena para apenados não reincidentes, em relação a cada pena restritiva de direitos. No caso, o agravante não atendeu a essa fração mínima.
+IV. Dispositivo e tese
+5. Agravo regimental desprovido.
+Tese de julgamento: "1. Para a concessão de indulto, o apenado deve cumprir o requisito temporal em relação a cada uma das penas restritivas de direitos impostas. 2. O cumprimento parcial de uma das penas substitutivas é insuficiente para a concessão do indulto".
+(AgRg no REsp n. 2.184.731/PE, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 21/5/2025, DJEN de 26/5/2025; grifos acrescidos).
+Não há, portanto, flagrante ilegalidade que justifique a concessão de habeas corpus de ofício.
+Ante o exposto, não conheço do habeas corpus.
+Publique-se.
+Intimem-se.
+EMENTA
