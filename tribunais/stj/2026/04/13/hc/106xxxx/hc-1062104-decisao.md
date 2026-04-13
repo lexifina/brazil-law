@@ -1,0 +1,28 @@
+DECISÃO
+Cuida-se de habeas corpus com pedido liminar, impetrado em favor de ALEXANDRE GABRIEL, em que se aponta como autoridade coatora o Tribunal de Justiça do Estado de São Paulo, que negou provimento ao Agravo em Execução Penal, deixando de aplicar o indulto natalino previsto no Decreto n. 12.338/2024 (art. 9º, VIII, c/c art. 3º, I) em razão de o apenado não ter cumprido 1/6 das penas restritivas de direito aplicadas.
+A defesa do impetrante alega que o decreto é cabível em relação a penas restritivas de direitos, e destaca a desnecessidade de expedição de guia de recolhimento para concessão do benefício. Liminarmente e no mérito, pleiteia a extinção da punibilidade.
+Liminar indeferida (fls. 76/77).
+Informações prestadas (fls. 86/105).
+O MPF opinou pela denegação da ordem (fls. 107/110).
+É o relatório.
+Fundamento e decido.
+A Constituição da Republica assegura, no artigo 5º, caput, inciso LXVII, que "conceder-se-á habeas corpus sempre que alguém sofrer ou se achar ameaçado de sofrer violência ou coação em sua liberdade de locomoção, por ilegalidade ou abuso de poder".
+É entendimento pacífico do Superior Tribunal de Justiça que o habeas corpus não pode ser utilizado como substitutivo de recurso próprio, salvo em casos de manifesta ilegalidade, abuso de poder ou teratologia (AgRg no HC n. 972.937/MT, relator Ministro Messod Azulay Neto, Quinta Turma, julgado em 20/3/2025, DJEN de 26/3/2025; AgRg no HC n. 985.793/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 18/3/2025, DJEN de 26/3/2025; AgRg no HC n. 908.616/RS, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 19/3/2025, DJEN de 24/3/2025).
+No mesmo sentido, o "habeas corpus não é a via adequada para apreciar o pedido de absolvição ou de desclassificação de condutas, tendo em vista que, para se desconstituir o decidido pelas instâncias de origem, mostra-se necessário o reexame aprofundado dos fatos e das provas constantes dos autos, procedimento vedado pelos estreitos limites do writ, caracterizado pelo rito célere e por não admitir dilação probatória" AgRg no RHC n. 198.668/MG, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 1/7/2024, DJe de
+3/7/2024).
+A teor do disposto no art. 105, II, a, da CF/88, o recurso cabível contra acórdão que denega a ordem na origem é o recurso ordinário, enquanto, consoante previsto no art. 105, III, da CF, contra acórdão que julga a apelação, o recurso em sentido estrito e o agravo em execução, cabe recurso especial.
+Nada impede, contudo, constatada a existência de ilegalidade flagrante, abuso de poder ou teratologia, a concessão de habeas corpus de ofício, nos termos do art. 654, §2º do CPP, o que ora passa-se a examinar.
+Consoante relatado, cuida-se de Habeas Corpus visando ao deferimento do indulto disciplinado pelo Decreto n. 12.338/2024, ao argumento de que o Tribunal a quo teria ignorado "o disposto no art. 3, I, do Decreto Presidencial invocado, que dispõe sobre o cabimento GENÉRICO do indulto também em relação às penas restritivas de forma diversa da previsão do art. 9º, VII, do ato invocado, e, portanto, tratando-se de direito subjetivo da pessoa condenada, sua efetivação exige sua aceitação e ciência".
+Pois bem.
+Como é cediço, o indulto é ato discricionário, privativo do Presidente da República, concedido aos apenados que preencherem os requisitos previstos no respectivo Decreto Presidencial.
+O pedido de indulto natalino foi formulado com base no Decreto Presidencial n. 12.338/2024, o qual estabeleceu o seguinte requisito para a produção dos seus efeitos:
+"Art. 9º Concede-se o indulto coletivo às pessoas, nacionais e migrantes, condenadas:
+VII - a pena privativa de liberdade sob o regime aberto ou substituída por pena restritiva de direitos, na forma prevista no art. 44 do Decreto-Lei nº 2.848, de 7 de dezembro de 1940 - Código Penal, ou beneficiadas com a suspensão condicional da pena, que tenham cumprido, até 25 de dezembro de 2024, um sexto da pena, se não reincidentes, ou um quinto da pena, se reincidentes".
+No caso dos autos, o réu foi condenado, como incurso no art. 155, §4º incisos II e IV, do Código Penal, às penas definitivas de 2 (dois) anos de reclusão, em regime inicial aberto, e pagamento de 10 (dez) dias-multa, substituindo a pena privativa de liberdade por duas penas restritivas de direitos a serem definidas pelo Juízo da Execução.
+No Acórdão impetrado, restaram consolidadas as informações de que o paciente não cumpriu o requisito temporal mínimo disciplinado no art. 9º, VII, do Decreto Presidencial n. 12.338/2024, isto é, não cumpriu, ainda, um sexto da pena restritiva de direitos, tendo adimplido apenas duas das 15 parcelas em que se dividiu o valor da prestação pecuniária, e prestou apenas 16 horas de serviços à comunidade, em face das 720 horas a serem realizadas.
+Como corretamente asseverou o Parquet, este Sodalício tem jurisprudência pacífica no sentido de que o "Decreto nº 12.338/2024, embora empregue a expressão "um sexto da pena", deve ser interpretado em conformidade com a natureza autônoma das penas substitutivas, de modo que o cumprimento parcial de apenas uma delas é insuficiente para a concessão do benefício" (AgRg no HC n. 1.008.131/SC, relator Ministro CARLOS CINI MARCHIONATTI (Desembargador Convocado TJRS), Quinta Turma, julgado em 19/8/2025, DJEN de 25/8/2025).
+Desta forma, o requerente não cumpriu qualquer dos requisitos para aplicação, ainda que parcial, em seu favor, do indulto disciplinado pelo Decreto n. 12.338/2024, motivo pelo qual não há constrangimento ilegal a ser reconhecido por esta Corte Superior
+Ante o exposto, não conheço do habeas corpus.
+Publique-se.
+Intimem-se.
+EMENTA
