@@ -1,0 +1,30 @@
+Trata-se de recurso extraordinário interposto contra acórdão do Tribunal de Justiça do Estado de São Paulo, assim ementado:
+
+JUÍZO DE RETRATAÇÃO. Acréscimos Moratórios. Disciplina. Alinhamento aos critérios preconizados pelo 8 Superior Tribunal de Justiça (Tema 905) e pelo Supremo .!i ço Tribunal Federal (Tema 810). ADEQUAÇÃO PARCIAL DO JULGADO COM DETERMINAÇÃO (doc. 34, p. 2).
+
+O recorrente, fundado no art. 102, III, a, da Constituição Federal, alega, em suma, que:
+
+[...] o v. acórdão proferido em sede de readequação (artigo 1.040 do CPC), não merece persistir, na medida em que ofensivo ao princípio da justa indenização (5°, XXIV, da CF/88), já que desconsiderou o julgamento das ADIn's n° 4.425 e 4.357 (art. 100, § 12, do corpo permanente, e artigo 97, § 16, do ADCT), mantido parcialmente pela modulação ocorrida, mesmo após o julgamento do Tema n° 810/STF e do Tema n° 905/STJ (doc. 56, p. 2).
+
+É o relatório. Decido.
+
+A pretensão recursal não merece acolhida.
+
+Isso porque, conforme a jurisprudência do Supremo Tribunal Federal, não é cabível recurso extraordinário contra acórdão do Tribunal de origem fundado na aplicação de entendimento firmado em regime de repercussão geral. Nesse sentido, cito os seguintes julgados:
+
+Ementa: DIREITO PROCESSUAL CIVIL. AGRAVO INTERNO EM RECURSO EXTRAORDINÁRIO COM AGRAVO. DECISÃO DO TRIBUNAL DE ORIGEM QUE APLICA A SISTEMÁTICA DA REPERCUSSÃO GERAL. INADMISSIBILIDADE DO AGRAVO PREVISTO NO ART. 1.042, DO CÓDIGO DE PROCESSO CIVIL. NÃO CABIMENTO DE NOVO RECURSO EXTRAORDINÁRIO CONTRA DECISÃO EM JUÍZO DE RETRATAÇÃO. 1. Agravo interno contra decisão que negou seguimento a recurso extraordinário interposto para impugnar acórdão que negou provimento ao recurso. 2. Nos termos do art. 1.030, § 2º, do CPC, o agravo interno é recurso próprio à impugnação de decisão que aplica entendimento firmado em regime de repercussão geral, não sendo cabível a interposição do agravo previsto no art. 1.042, do Código de Processo Civil. 3. O STF entende que “(n)ão é cabível novo recurso extraordinário ou qualquer outro instrumento processual dirigido ao Supremo Tribunal Federal contra decisão do tribunal de origem quanto à vinculação do feito a tema da sistemática da repercussão geral” (ARE 1370036-AgR, Rel. Min. Dias Toffoli). 4. Nos termos do art. 85, § 11, do CPC/2015, fica majorado em 10% o valor da verba honorária fixada anteriormente, observados os limites legais do art. 85, §§ 2º e 3º, do CPC/2015. 5. Agravo interno a que se nega provimento, com a aplicação da multa de 1% (um por cento) sobre o valor atualizado da causa, nos termos do art. 1.021, § 4°, do CPC/2015 (ARE 1.464.462 AgR/PR, Rel. Min. Luís Roberto Barroso, Tribunal Pleno, DJe 20/2/2024 — grifei).
+
+Ementa: AGRAVO REGIMENTAL NOS EMBARGOS DE DECLARAÇÃO NO RECURSO EXTRAORDINÁRIO COM AGRAVO. NÃO CABIMENTO DE RECURSO AO SUPREMO TRIBUNAL FEDERAL CONTRA ACÓRDÃO DO TRIBUNAL DE ORIGEM QUE APLICA A SISTEMÁTICA DA REPERCUSSÃO GERAL. TRIBUTÁRIO. IPTU. IMUNIDADE TRIBUTÁRIA PREVISTA NO ART. 150, VI, A, DA CONSTITUIÇÃO FEDERAL. SOCIEDADE DE ECONOMIA MISTA PRESTADORA DE SERVIÇO PÚBLICO. DISTRIBUIÇÃO DE LUCROS A ACIONISTAS PRIVADOS. RISCO AO EQUILÍBRIO CONCORRENCIAL. IMUNIDADE RECÍPROCA AFASTADA. AGRAVO IMPROVIDO. I – Não é cabível recurso ao Supremo Tribunal Federal com a finalidade de rever acórdão do Juízo de origem fundado em precedente firmado sob o regime da repercussão geral. II – A sociedade de economia mista prestadora de serviço público, que distribua lucros a acionistas privados e ofereça risco ao equilíbrio concorrencial, não está abrangida pela imunidade tributária recíproca. Inteligência do decidido no Tema 1.140 da Repercussão Geral (RE 1.320.054 RG/SP, Rel. Min. Luiz Fux, Presidente, DJe 14/5/2021) e na ACO 1.460 AgR/SC, da relatoria do Ministro Dias Toffoli, DJe 11/12/2015. III – Agravo ao qual se nega provimento (ARE 1.460.220 ED-AgR/SC, da minha relatoria, Primeira Turma, DJe 6/11/2025 — grifei).
+
+Ementa: DIREITO PROCESSUAL CIVIL. APLICAÇÃO DA SISTEMÁTICA DA REPERCUSSÃO GERAL PELO TRIBUNAL DE ORIGEM. INTERPOSIÇÃO DE NOVO RECURSO EXTRAORDINÁRIO CONTRA O ACÓRDÃO PROFERIDO EM JUÍZO DE RETRATAÇÃO. NÃO CABIMENTO. DECISÃO RECORRIDA ALINHADA COM A JURISPRUDÊNCIA DO SUPREMO TRIBUNAL FEDERAL. RECURSO EXTRAORDINÁRIO QUE NÃO MERECE CONHECIMENTO. AGRAVO NÃO PROVIDO. 1. A jurisprudência desta Suprema Corte é no sentido de que não é cabível novo recurso para o Supremo Tribunal Federal contra a aplicação da sistemática da repercussão geral (arts. 1.036 a 1.040 do CPC) pelo Tribunal de origem. 2. Nos termos do art. 1.030, § 2º, do CPC, o agravo interno na origem é recurso próprio à impugnação de decisão que aplica entendimento firmado em regime de repercussão geral, não sendo cabível a interposição do agravo previsto no art. 1.042, do Código de Processo Civil. 3. Havendo prévia fixação de honorários advocatícios pelas instâncias de origem, seu valor monetário será majorado em 10% (dez por cento) em desfavor da parte recorrente, nos termos do art. 85, § 11, do Código de Processo Civil, observados os limites dos §§ 2º e 3º do referido artigo e a eventual concessão de justiça gratuita. 4. Agravo interno conhecido e não provido (ARE 1.429.914 AgR/AC, Rel. Min. Flávio Dino, Primeira Turma, DJe 6/5/2024 — grifei).
+
+Ementa: AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO COM AGRAVO. TRIBUTÁRIO. IPTU. IMUNIDADE. TERRENO SEM UTILIZAÇÃO. ACÓRDÃO PROFERIDO EM JUÍZO DE RETRATAÇÃO. ADEQUAÇÃO AO TEMA 693 DA REPERCUSSÃO GERAL. DISCUSSÃO EM TORNO DA CORRETA APLICAÇÃO DA TESE DEFINIDA EM RECURSO AFETADO À SISTEMÁTICA DA REPERCUSSÃO GERAL. NÃO CABIMENTO. PRECEDENTES. 1. Incabível o apelo extremo, na hipótese, para discutir a correta aplicação de tese firmada pelo Supremo Tribunal Federal em recurso afetado pela sistemática da repercussão geral. 2. Agravo regimental a que se nega provimento (ARE 1.069.780 AgR/RS, Rel. Min. Edson Fachin, Segunda Turma, DJe 9/1/2023 — grifei).
+
+Posto isso, nego provimento ao recurso (art. 932 do CPC).
+
+Publique-se.
+
+Brasília, 13 de abril de 2026.
+
+Ministro Cristiano Zanin
+Relator
