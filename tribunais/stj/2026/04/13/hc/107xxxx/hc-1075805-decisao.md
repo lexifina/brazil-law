@@ -1,0 +1,47 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de TAMIRIS CRISTINA CANDIDO contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO que denegou o HC n. 3017004-28.2025.8.26.0000.
+Consta dos autos que a prisão em flagrante da paciente, pela suposta prática do delito de tráfico de drogas (art. 33 da Lei n. 11.343/2006), foi convertida em preventiva para garantia da ordem pública (fls. 24-27).
+Inconformada, a defesa impetrou o writ originário, o qual foi denegado nos termos da seguinte ementa (fl. 12):
+DIREITO PENAL. HABEAS CORPUS. TRÁFICO DE DROGAS. PRISÃO PREVENTIVA. DECISÃO CONCRETAMENTE FUNDAMENTADA. ORDEM DENEGADA. I. Caso em Exame 1. Habeas corpus impetrado alegando constrangimento ilegal por indeferimento de prisão domiciliar. A paciente foi presa em flagrante por tráfico de drogas, com significativa quantidade de entorpecentes e dinheiro, e possui condenação recorrível anterior por furto qualificado. II. Questão em Discussão 2. A questão em discussão consiste em avaliar a legalidade da prisão preventiva e a possibilidade de substituição por prisão domiciliar, considerando a maternidade de um filho adolescente e convenções internacionais sobre direitos humanos. III. Razões de Decidir 3. A prisão preventiva foi mantida devido à reiteração delitiva da paciente e à quantidade de drogas apreendidas, indicando envolvimento com a criminalidade e risco à ordem pública. 4. A legislação brasileira diferencia crianças de adolescentes, não contemplando a prisão domiciliar para responsáveis por adolescentes, o que não contraria convenções internacionais. IV. Dispositivo e Tese 5. Ordem denegada. Tese de julgamento: 1. A prisão preventiva é legal e proporcional, considerando os maus antecedentes e a quantidade de drogas. 2. A diferenciação entre crianças e adolescentes na legislação brasileira não viola convenções internacionais. Legislação Citada: Código de Processo Penal, artigos 310, §5º, inciso I; 312, §3º, III; 313, I; 316, parágrafo único; 318; 318-A.
+A impetrante sustenta a ausência de fundamentação concreta e idônea para a decretação da prisão preventiva, ressaltando que a quantidade de droga apreendida não é expressiva (21,81 g de maconha, 2,72 g de crack e 40,44 g de cocaína), bem como que a paciente é primária, possui endereço fixo e é responsável por dois filhos menores de idade, de 14 e 17 anos.
+Destaca que o art. 318-A do CPP não delimita idade ao tratar da prisão domiciliar; a distinção entre criança e adolescente não pode restringir o alcance da norma em desfavor da mãe; a Convenção sobre os Direitos da Criança define "criança" como "todo ser humano com menos de 18 anos"; as Regras de Bangkok priorizam medidas não privativas de liberdade para mulheres com filhos dependentes, sem marco etário.
+Requer, em liminar, a expedição de alvará de soltura e, no mérito, a revogação da prisão preventiva ou, subsidiariamente, a sua substituição por medidas cautelares do art. 319 do CPP; a prisão domiciliar e a expedição de guia de execução provisória da pena.
+Liminar indeferida (fls. 35/37).
+Informações prestadas pelo Juízo de primeiro grau (fls. 40/42) e pelo Tribunal de origem (fls. 48/50).
+Parecer do Ministério Público Federal, às fls.73/78, pela denegação da ordem.
+É o relatório.
+Decido.
+O habeas corpus está prejudicado.
+Após impetração do presente writ, conforme fls. 62/69, no dia 02/03/2026, foi proferida sentença nos autos da ação penal nº 1506450-93.2025.8.26.0393, condenando a paciente TAMIRIS CRISTINA CÂNDIDO, devidamente qualificada nos autos, à pena de 5 (cinco) anos e 10 (dez) meses de reclusão, em regime inicial semiaberto, mais pagamento de 583 (quinhentos e oitenta e três dias-multa), no valor unitário mínimo legal (art. 43 da Lei nº 11.343/2006), tendo-a como incursa nas sanções do artigo 33, caput, da Lei nº 11.343/06, tendo sido negado o direito de recorrer em liberdade.
+A despeito de posicionamento anterior desta Quinta Turma do Superior Tribunal de Justiça, a Corte tem evoluído a orientação para entender que o advento de sentença resulta na prejudicialidade do reclamo que pretende a revogação da segregação, por constituir novo título a justificar a manutenção da custódia processual do(a) paciente, cujos fundamentos devem ser impugnados por via própria, caso assim entenda a defesa. Em corroboração, cito precedentes desta Corte Superior:
+DIREITO PROCESSUAL PENAL. AGRAVO REGIMENTAL. HABEAS CORPUS. SUPERVENIÊNCIA DE SENTENÇA CONDENATÓRIA. PREJUDICIALIDADE. AGRAVO REGIMENTAL NÃO PROVIDO.
+I. Caso em exame
+1. Agravo regimental interposto contra decisão que julgou prejudicado o pedido de habeas corpus em razão da superveniência de sentença condenatória que manteve a prisão cautelar do agravante, condenado à pena de 05 (cinco) anos de reclusão e 500 (quinhentos) dias-multa, em regime inicial fechado, por infração ao art. 33, caput, da Lei n. 11.343/2006.
+II. Questão em discussão
+3. A questão em discussão consiste em saber se a superveniência de sentença condenatória que mantém a prisão cautelar prejudica o exame do mérito do habeas corpus que impugnava o decreto prisional anterior.
+III . Razões de decidir
+4. A superveniência de sentença condenatória constitui novo título judicial que prejudica a análise do habeas corpus impetrado contra o decreto prisional anterior, conforme entendimento do Supremo Tribunal Federal e do Superior Tribunal de Justiça.
+IV. Dispositivo e tese 6 . Agravo regimental não provido.Tese de julgamento: 1. A superveniência de sentença condenatória que mantém a prisão cautelar prejudica o exame do mérito do habeas corpus impetrado contra o decreto prisional anterior.Dispositivos relevantes citados: Lei n . 11.343/2006, art. 33; CPP, art. 387, § 1º .Jurisprudência relevante citada: STF, HC 143.333, Rel. Min. Edson Fachin, Tribunal Pleno, julgado em 12 .04.2018; STJ, AgRg no HC 846.404/MG, Rel. Min . Rogerio Schietti Cruz, Sexta Turma, julgado em 27.11.2023.
+(AgRg no HC: 952653 SP 2024/0386400-6, Relator.: Ministro OTÁVIO DE ALMEIDA TOLEDO DESEMBARGADOR CONVOCADO DO TJSP, Data de Julgamento: 26/02/2025, T6 - SEXTA TURMA, Data de Publicação: DJEN 06/03/2025)
+DIREITO PROCESSUAL PENAL. HABEAS CORPUS. TRÁFICO DE DROGAS. PRISÃO PREVENTIVA. SUPERVENIÊNCIA DE SENTENÇA CONDENATÓRIA. PREJUDICIALIDADE. NOVO TÍTULO JUDICIAL. ORDEM JULGADA PREJUDICADA. I. CASO EM EXAME
+1. Habeas corpus impetrado contra a prisão preventiva da paciente.
+No curso do processo, foi proferida sentença condenatória de parcial procedência em 05/10/2023, mantendo a prisão da paciente. II. QUESTÃO EM DISCUSSÃO
+2. A questão em discussão consiste em determinar se a superveniência de sentença condenatória, que ratificou a prisão preventiva, prejudica a análise do habeas corpus impetrado contra o decreto de prisão cautelar. III. RAZÕES DE DECIDIR
+3. A superveniência de sentença condenatória, proferida em conformidade com o art. 387, § 1º, do CPP, substitui o decreto de prisão preventiva anterior, configurando novo título judicial que demanda impugnação própria.
+4. Conforme entendimento consolidado desta Corte, a sentença condenatória que ratifica a prisão preventiva torna prejudicado o habeas corpus impetrado contra o decreto prisional original, uma vez que há um novo fundamento para a custódia.
+ORDEM DE HABEAS CORPUS JULGADA PREJUDICADA.
+(HC n. 777.864/RJ, relatora Ministra Daniela Teixeira, Quinta Turma, julgado em 22/10/2024, DJe de 28/10/2024.)
+AGRAVO REGIMENTAL NO AGRAVO REGIMENTAL NO HABEAS CORPUS. DIREITO PENAL. PROCESSUAL PENAL. INSURGÊNCIA CONTRA PRISÃO PREVENTIVA. SUPERVENIÊNCIA DE SENTENÇA CONDENATÓRIA. NOVO ATO COATOR QUE DESAFIA IMPUGNAÇÃO PRÓPRIA. AGRAVO NÃO PROVIDO.
+1. A superveniência de um novo título judicial, decisão exarada pelo Juízo de primeiro grau, em consonância com o que determina o § 1º do art. 387 do Código de Processo Penal, com a redação que lhe foi dada pela Lei n. 12.736/2012, prejudica a impetração voltada à impugnação do decreto prisional original.
+2. No caso, o surgimento de novo título judicial a amparar prisão preventiva do agravante - a saber: a sentença condenatória - prejudica a análise do objeto da presente impetração, que se insurgia contra a ordem de custódia cautelar original.
+3. Agravo regimental não provido.
+(AgRg no AgRg no HC n. 890.403/SP, relator Ministro Otávio de Almeida Toledo (Desembargador Convocado do Tjsp), Sexta Turma, julgado em 24/6/2024, DJe de 27/6/2024.)
+AGRAVO REGIMENTAL NO RECURSO EM HABEAS CORPUS. ROUBO E TRÁFICO DE DROGAS. PRISÃO PREVENTIVA. INCOMPETÊNCIA DO JUÍZO. SUPERVENIÊNCIA DE CONDENAÇÃO COM TRÂNSITO EM JULGADO. PRISÃO QUE PASSOU A DECORRER DE CONDENAÇÃO DEFINITIVA. PREJUDICADA ANÁLISE DA PRISÃO PREVENTIVA. AUSÊNCIA DE FLAGRANTE ILEGALIDADE. AGRAVO DESPROVIDO.
+1. É certa a perda superveniente do objeto do recurso em habeas corpus, considerando que, diante da superveniência da condenação definitiva, com trânsito em julgado da condenação imposta, não há mais falar em ilegalidade da prisão preventiva.
+2 . Agravo regimental desprovido.
+(AgRg no RHC n. 172.428/PI, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 24/4/2023, DJe de 26/4/2023.)
+Assim, a notícia da superveniência de sentença durante a tramitação do presente writ implica na perda do objeto da irresignação, pois cessadas as circunstâncias determinantes da impetração formulada nesta Corte Superior.
+Ante o exposto, com fundamento no art. 34, XVIII, a, do Regimento Interno do Superior Tribunal de Justiça, julgo prejudicado o habeas corpus.
+Publique-se.
+Intimem-se.
+EMENTA
