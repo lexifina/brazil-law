@@ -1,0 +1,81 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em favor de CLEYTON VIEIRA DE SOUZA contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE MATO GROSSO DO SUL proferido nos autos da Apelação Criminal n. 0931354-34.2025.8.12.0001.
+Consta dos autos que o paciente foi condenado pela prática do delito tipificado no artigo 33, caput, c.c. art. 40, IV, ambos da Lei n. 11.343/06 (tráfico de drogas), à pena de 05 anos e 10 meses de reclusão, em regime inicial semiaberto, e 583 dias-multa (fl. 36).
+Irresignada, a defesa interpôs recurso de apelação perante a Corte de origem, que foi desprovido, nos termos do acórdão assim ementado:
+DIREITO PENAL E PROCESSUAL PENAL. APELAÇÃO CRIMINAL. TRÁFICO DE DROGAS. ASSOCIAÇÃO COM ADOLESCENTE. AUTORIA E MATERIALIDADE COMPROVADAS. PROVA TESTEMUNHAL IDÔNEA. IMPOSSIBILIDADE DE ABSOLVIÇÃO OU DESCLASSIFICAÇÃO. TRÁFICO PRIVILEGIADO. NÃO CABIMENTO. COM O PARECER, RECURSO DESPROVIDO.
+I. CASO EM EXAME
+1. Apelação Criminal interposta contra sentença da 2ª Vara Criminal da comarca de Campo Grande/MS, que condenou o Réu à pena de 5 anos e 10 meses de reclusão, em regime inicial semiaberto, e ao pagamento de 583 dias-multa, pela prática do crime previsto no art. 33, caput, c/c art. 40, VI, da Lei nº 11.343/06.
+2. A defesa pleiteou absolvição, alegando fragilidade das provas, ou, subsidiariamente, a aplicação da causa de diminuição prevista no § 4º do art. 33 da Lei de Drogas (tráfico privilegiado).
+II. QUESTÃO EM DISCUSSÃO
+3. Há duas questões em discussão: (i) verificar se as provas produzidas são suficientes para sustentar a condenação pelo crime de tráfico de drogas; (ii) avaliar se o réu faz jus à causa de diminuição de pena prevista no § 4º do art. 33 da Lei nº 11.343/06 (tráfico privilegiado).
+III. RAZÕES DE DECIDIR
+4. A prova testemunhal colhida em Juízo, especialmente os depoimentos dos policiais militares responsáveis pela prisão em flagrante, é coerente, harmônica e compatível com os demais elementos de convicção dos autos, sendo idônea para sustentar a condenação, nos termos da jurisprudência do STF e do STJ.
+5. As circunstâncias do flagrante - apreensão de 130g de maconha e 1g de cocaína, parte com o réu, parte com o adolescente que o acompanhava, e outra porção escondida no local -, bem como o modo de acondicionamento e a confissão do menor de que trabalhava para o Apelante, demonstram inequívoca destinação mercantil das drogas, afastando a tese de uso próprio.
+6. A versão defensiva mostrou-se inverossímil e dissociada das provas, especialmente diante da contradição entre os relatos do Réu e os elementos colhidos sob o crivo do contraditório.
+7. O reconhecimento do tráfico privilegiado (§4º do art. 33) exige cumulativamente que o agente seja primário, possua bons antecedentes, não se dedique a atividades criminosas nem integre organização criminosa.
+8. O réu não preenche o requisito subjetivo da benesse, pois atuava de forma habitual na traficância, utilizando inclusive menor de idade como auxiliar e exercendo o comércio ilícito em ponto já conhecido por venda de drogas, o que demonstra dedicação a atividades criminosas.
+9. A jurisprudência desta Corte e do STJ é firme no sentido de que o envolvimento reiterado em atividades ilícitas e o uso de menor na traficância afastam a incidência do redutor do tráfico privilegiado.
+IV. DISPOSITIVO E TESE
+10. Com o Parecer, Recurso desprovido.
+Tese de julgamento: A) É idônea a prova testemunhal de policiais que realizaram a prisão em flagrante, quando coerente e colhida sob o contraditório. B) A apreensão de quantidade relevante de drogas, fracionadas e acompanhadas de elementos típicos da mercancia, afasta a tese de uso próprio. C) Não se aplica o tráfico privilegiado ao agente que demonstra dedicação habitual à atividade criminosa, notadamente quando utiliza menor de idade na traficância" (fls. 16/17)
+Sobreveio, então, o presente writ (fls. 2/15).
+A impetrante sustenta, em síntese, a ocorrência de constrangimento ilegal decorrente da não aplicação da causa de diminuição de pena da prevista no art. 33, §4º, da Lei de Drogas.
+Aduz, ademais, que, a despeito de o paciente ser réu primário, possuir bons antecedentes e não integrar organização criminosa, as instâncias ordinárias concluíram, sem amparo em elementos concretos, que ele se dedicaria a atividades ilícitas.
+Requer, assim, a concessão da ordem para que seja reconhecida a minorante do tráfico privilegiad o e, via de consequência, fixado regime inicial menos gravoso e, ainda, examinada a viabilidade de conversão da pena privativa de liberdade por restritiva de direitos.
+As informações foram prestadas (fls. 81/93).
+O Ministério Público Federal manifestou-se pelo não conhecimento do writ (fls. 100/106:
+HABEAS CORPUS SUBSTITUTIVO DE REVISÃO CRIMINAL. CONDENAÇÃO TRANSITADA EM JULGADO. NÃO CABIMENTO, NOS TERMOS DA ORIENTAÇÃO FIRMADA PELO SUPERIOR TRIBUNAL DE JUSTIÇA. AUSÊNCIA DE FLAGRANTE ILEGALIDADE QUE JUSTIFIQUE A CONCESSÃO DA ORDEM DE OFÍCIO. TRÁFICO DE DROGAS (ART. 33, CAPUT, C/C ART. 40, VI, AMBOS DA LEI Nº 11.343/06). PLEITO DE RECONHECIMENTO DA CAUSA DE DIMINUIÇÃO DE PENA DO ART. 33, §4º, DA REFERIDA LEI. TRIBUNAL DE ORIGEM QUE MANTEVE O AFASTAMENTO DO PRIVILÉGIO, SOB O FUNDAMENTO QUE O RÉU ATUAVA DE FORMA HABITUAL NA TRAFICÂNCIA, UTILIZANDO INCLUSIVE MENOR DE IDADE COMO AUXILIAR. INCOMPETÊNCIA DO STJ PARA ANALISAR REVISÃO CRIMINAL DE ACÓRDÃO PROFERIDO POR TRIBUNAL ESTADUAL.
+PARECER PELO NÃO CONHECIMENTO DO HABEAS CORPUS.
+É o relatório.
+A Quinta Turma do Superior Tribunal de Justiça firmou entendimento no sentido de ser inadequada a impetração de habeas corpus quando utilizado em substituição a recurso próprio.
+Nos termos do art. 105, II, "a", da Constituição Federal, o recurso cabível contra acórdão denegatório de ordem originária é o recurso ordinário, ao passo que, consoante previsão do art. 105, III, da Carta Magna, em face de acórdão proferido em apelação, recurso em sentido estrito e agravo em execução, o recurso adequado é o especial.
+Todavia, nada impede a concessão de habeas corpus de ofício quando constatada a existência de ilegalidade flagrante, abuso de poder ou teratologia, nos termos do art. 654, § 2º, do Código de Processo Penal, o que se passa a examinar.
+A Corte estadual, ao negar provimento à apelação criminal interposta pela defesa, manifestou-se nos seguintes termos do voto do relator:
+"Tráfico Privilegiado.
+O Apelante requer a aplicação da causa especial de diminuição da pena prevista no § 4º do art. 33 da Lei n. 11.343/06 em seu grau máximo de 2/3.
+Sem razão neste ponto.
+Com efeito, reza o art. 33, § 4º, da Lei nº 11.373/2006, in verbis:
+"§4º. Nos delitos definidos no caput e no § 1º deste artigo, as penas poderão ser reduzidas de um sexto a dois terços, desde que o agente seja primário, de bons antecedentes, não se dedique às atividades criminosas nem integre organização criminosa."
+É cediço que se trata de minorante fundada em razões de política criminal e que visa beneficiar o pequeno traficante, aquele que ainda não está profundamente envolvido com o mundo do crime e que, pelas circunstâncias, merece oportunidade mais rápida de ressocialização.
+Da leitura do preceito sob exame, extrai-se que, para que reste configurado o tráfico ilícito de drogas na sua forma privilegiada, com a consequente diminuição da pena privativa de liberdade e da sanção pecuniária, faz-se necessário que o réu satisfaça todos aqueles requisitos, cumulativamente, ou melhor, que seja primário, possua bons antecedentes, não se dedique às atividades criminosas nem integre organização criminosa, de maneira que a ausência de um de tais requisitos determina negar a benesse.
+Quanto à prova de tais requisitos, Renato Marcão leciona que:
+"é preciso que o Ministério Público esteja atento no sentido de buscar provar, em cada caso concreto, a presença de ao menos uma das situações indesejadas que estão indicadas expressamente, de maneira a afastar a incidência do §4º, pois, em caso de dúvida, esta se revolverá em benefício do réu" (MARCÃO, Renato. Tóxicos: Lei n.11.343, de 23 de agosto de 2006: Lei de Drogas: anotada e interpretada 11 ed. São Paulo: Salvador, 2017; p.147).
+Nesse sentido é a jurisprudência do STF:
+"A ausência de provas do envolvimento em atividades criminosas ou da participação em organização criminosa deve ser interpretada em benefício do acusado e, por conseguinte, não é suficiente para afastar a aplicação da causa de redução da pena. Incidência do princípio da presunção de inocência e da regra do indubio pro reo" (STF, HC 103.225/RN, 2ª Turma, Rel. Min. Joaquim Barbosa, j.11.10.2011, DJe de 22.11.2011).
+Verifica-se o Apelante foi flagrado comercializando entorpecentes em um ponto sobre o qual já pendiam informações policiais de que funcionava um comércio de entorpecentes, oportunidade em que foi localizado 130g de maconha, dividida em 17 e 14 porções, mais 1g de cocaína dividida em 4 porções (f. 45), sendo ainda que o Réu dispunha de indivíduo menor de idade que lhe auxiliava na tarefa de comercializar o produto, vigiando a presença de policiais e prestando auxílio material.
+Dessarte, é evidente que o Réu não faz jus ao beneplácito em epígrafe, porquanto dedicava-se a atividades criminosas, o que se dessome do fato de que foi apreendida consigo significativa quantidade de substância entorpecente, bem como que no local em que estava armazenada a droga havia regular comercialização dos entorpecentes, configurando-se ponto de venda das substâncias ilícitas.
+Tanto é assim que o adolescente Guilherme narrou que atuava como "funcionário" do Réu, prestando-lhe auxílio na comercialização das drogas.
+De efeito, o Recorrente fazia do local uma "boca de fumo", a indicar sua dedicação a atividades criminosas e demonstra a evidente reiteração na prática de delitos.
+(..)
+Assim, por se dedicar à atividade criminosa, nega-se a concessão do tráfico privilegiado ao Apelante." (fls. 25/28)
+Depreende-se dos excertos transcritos acima que o Tribunal de origem deixou de aplicar a causa especial de diminuição prevista no §4º do artigo 33 da Lei n. 11.343/06 ao fundamento de que, embora a minorante tenha por escopo beneficiar o pequeno traficante ainda não imerso na criminalidade organizada, sua incidência pressupõe o preenchimento cumulativo de todos os requisitos legais, de sorte que a ausência de qualquer um deles constitui óbice intransponível à concessão do benefício.
+Assentou que, examinando as circunstâncias do caso concreto, inequívoca a dedicação habitual do paciente ao comércio ilícito de drogas, seja pela quantidade expressiva de drogas apreendidas, pela utilização do imóvel como ponto de venda já monitorado pelas autoridades policiais e, ainda, pelo recrutamento de adolescente para atuar como auxiliar na comercialização e exercer vigilância contra a aproximação de agentes estatais.
+Concluiu, assim, que os elementos de convicção, valorados em conjunto, evidenciavam a existência de estruturada "boca de fumo", cuja própria configuração afasta qualquer dúvida quanto à reiteração delitiva e ao envolvimento sistemático do agente com a atividade criminosa, circunstâncias incompatíveis com o reconhecimento do tráfico privilegiado.
+Com efeito, como bem assentou a Corte estadual, a aplicação da referida benesse exige o preenchimento cumulativo dos requisitos legais - primariedade, bons antecedentes, não dedicação a atividades ilícitas e não integração a organização criminosa - pressupostos que, na espécie, não se fazem presentes.
+Nesse contexto, afastar a conclusão a que chegaram as instâncias ordinárias, no sentido de que o paciente se dedicava habitualmente ao tráfico de entorpecentes, demandaria necessário revolvimento do acervo fático-probatório, providência vedada na via estreita do habeas corpus. A corroborar, citam-se precedentes:
+DIREITO PENAL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. TRÁFICO DE DROGAS. TRÁFICO PRIVILEGIADO. AUSÊNCIA DE REQUISITOS LEGAIS. AGRAVO REGIMENTAL DESPROVIDO.
+(..)
+II. QUESTÃO EM DISCUSSÃO
+4. A questão em discussão consiste em saber se os fundamentos apresentados no agravo regimental são suficientes para afastar a decisão monocrática que negou provimento ao recurso especial, mantendo a condenação do recorrente e a inaplicabilidade da causa de diminuição de pena prevista no art. 33, § 4º, da Lei nº 11.343/06.
+III. RAZÕES DE DECIDIR
+5. O agravo regimental deve trazer novos argumentos capazes de alterar o entendimento firmado anteriormente, sob pena de ser mantida a decisão combatida por seus próprios fundamentos.
+6. A decisão agravada foi devidamente fundamentada, analisando todos os pontos apresentados pelo agravante, não havendo elementos hábeis a alterar o entendimento firmado.
+7. A natureza e a quantidade de droga apreendida, bem como as circunstâncias do art. 59 do Código Penal, podem ser utilizadas para definir o índice de redução ou impedir a incidência da minorante do art. 33, § 4º, da Lei nº 11.343/06, quando evidenciada a dedicação do agente a atividades criminosas.
+8. As instâncias ordinárias apresentaram elementos idôneos que indicam a dedicação do recorrente a atividades criminosas e sua ligação com organização criminosa, o que impede a aplicação da causa de diminuição de pena.
+9. A pretensão de afastar as conclusões da Corte de origem sobre a inaplicabilidade do tráfico privilegiado demandaria o revolvimento do acervo fático-probatório, o que é vedado em recurso especial, conforme a Súmula nº 7 do Superior Tribunal de Justiça.
+IV. DISPOSITIVO E TESE
+10. Resultado do Julgamento: Agravo regimental desprovido.
+Tese de julgamento: 1. A causa de diminuição de pena prevista no art. 33, § 4º, da Lei nº 11.343/06 não se aplica quando evidenciada a dedicação do agente a atividades criminosas ou sua ligação com organização criminosa. 2. A pretensão de simples reexame de prova não enseja recurso especial, conforme a Súmula nº 7 do Superior Tribunal de Justiça.
+(..)
+(AgRg no REsp n. 2.226.299/MG, relator Ministro Messod Azulay Neto, Quinta Turma, julgado em 4/3/2026, DJEN de 11/3/2026.)  g.n.
+AGRAVO REGIMENTAL NO HABEAS CORPUS. ART. 33, CAPUT, DA LEI N. 11.343/2006. CAUSA DE DIMINUIÇÃO DA PENA DO TRÁFICO PRIVILEGIADO. INAPLICÁVEL. AGENTE QUE SE DEDICA À ATIVIDADE CRIMINOSA. NECESSIDADE DE REEXAME DE FATOS E PROVAS. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. Para aplicação da causa de diminuição de pena do art. 33, § 4º, da Lei n. 11.343/2006, o condenado deve preencher, cumulativamente, todos os requisitos legais, quais sejam: ser primário, de bons antecedentes, não se dedicar a atividades criminosas, nem integrar organização criminosa.
+2. Na espécie, não se vislumbra ilegalidade decorrente da não incidência da causa de diminuição da pena descrita no § 4º do art. 33 da Lei de Drogas, uma vez que a incidência da minorante do tráfico privilegiado foi denegada porque o Tribunal a quo reconheceu expressamente que o paciente se dedica à atividade criminosa, tendo em vista não apenas a indevida consideração de ação penal em curso (fundamento inidôneo para tanto), mas, também, as circunstâncias do caso concreto, apontando elementos suficientes para manutenção da negativa de aplicação da redutora, notadamente as diversas denúncias possuídas pelos policiais militares de que o réu está envolvido com o tráfico (e-STJ fl. 26), bem como a consideração levada a efeito pelo Tribunal a quo no sentido de que o paciente foi preso em flagrante com certa quantidade de droga e dinheiro em local conhecido como "ponto de venda de drogas", não havendo dúvida de que vinha se dedicando à atividade criminosa e fazia do tráfico o seu meio de vida, como, de resto, apontavam as denúncias anônimas e ele mesmo confessou na delegacia (de que traficava havia alguns meses) (e-STJ fl. 36) - sendo pouco crível, portanto, que ele se tratasse de um traficante eventual.
+3. Entendimento em sentido contrário demandaria, necessariamente, o revolvimento do conjunto fático-probatório, inviável na via estreita do habeas corpus. Precedentes.
+4. Agravo regimental não provido.
+(AgRg no HC n. 826.725/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 14/8/2023, DJe de 16/8/2023.)  g.n.
+Assim, ausente constrangimento ilegal, não há justificativa à concessão da ordem de ofício.
+Ante o exposto, com fulcro no art. 34, inciso XX, do RISTJ, não conheço do habeas corpus.
+Publique-se.
+Intimem-se.
+EMENTA
