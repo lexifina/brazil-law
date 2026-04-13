@@ -1,0 +1,57 @@
+DECISÃO
+Trata-se de habeas corpus impetrado de próprio punho por ALESSANDRO COSTA DOS SANTOS, contra acórdão que indeferiu a revisão criminal ajuizada na origem.
+Insurge-se o impetrante contra a dosimetria que lhe foi imposta em condenação por latrocínio.
+Instada a se manifestar, a Defensoria Pública da União aduz ilegalidade na fixação da pena-base, por bis in idem e motivação inidônea. Também questiona a fração escolhida para a atenuante da menoridade relativa, aquém do quantum usualmente utilizado pela jurisprudência sem fundamentação concreta.
+Requer o redimensionamento da reprimenda.
+Sem pedido liminar.
+Foram prestadas informações (fls. 86-97).
+O Ministério Público Federal manifestou-se pelo não conhecimento.
+É o relatório.
+DECIDO.
+A Quinta Turma do Superior Tribunal de Justiça firmou entendimento no sentido de ser inadequada a impetração de habeas corpus quando utilizado em substituição a recurso próprio.
+A teor do disposto no art. 105, II, a, da CF/88, o recurso cabível contra acórdão que denega a ordem na origem é o recurso ordinário, enquanto, consoante previsto no art. 105, III, da CF, o recurso cabível contra acórdão que julga apelação, recurso em sentido estrito e agravo em execução é o recurso especial.
+Nada impede, contudo, a concessão de habeas corpus de ofício quando constatada a existência de ilegalidade flagrante, abuso de poder ou teratologia, nos termos do art. 654, §2º, do CPP, o que ora passa-se a examinar.
+Acerca dos temas ora arguidos, assim se constou do acórdão revisional (fls. 92-97; grifos acrescidos):
+Da atenta leitura dos dois volumes dos presentes autos, constata-se que as questões colocadas na inicial já foram analisadas pelo v. acórdão, por ocasião do julgamento do recurso de apelação criminal também interposto pelo peticionário.
+Nas razões da presente revisão criminal (fls. 13/vº), não foram apontados quaisquer fatos novos que justificassem o ajuizamento da ação, assim como não foi trazida prova nova alguma sobre os fatos que pudesse inocentar o condenado ou para mitigar suas penas. Em outras palavras, é evidente que a intenção do ora peticionário é o reexame do conjunto de provas, pretensão já realizada pelo v. acórdão (fls. 381/396, vol. 2), portanto, impossibilitado o exame pretendido, nos termos em que foi formalizado, em razão da ausência de expressa previsão em quaisquer dos três incisos do artigo 621 do Código de Processo Penal.
+Ressalte-se que, submetido a julgamento pelo Magistrado de 1 º Grau, foi decidido por meio da r. sentença (fls. 274/288, vol. 2) que o ora revisionando praticou a conduta delituosa contra ele imputada.
+E, finalmente, em sede de apelação, após novo exame dos elementos do conjunto fático-probatório, a Colenda 3ª Câmara Criminal Extraordinária do Egrégio Tribunal de Justiça de São Paulo, por votação unânime, negou provimento ao recurso defensivo de Alessandro, mantendo a condenação (fls. 381/396, vol. 2).
+Dessa forma, por mais que seja a primeira revisão criminal proposta pelo peticionário, verifica-se que se trata do mesmo pedido e causa de pedir da apelação (mitigação das penas: fls. 302/321, vol. 2).
+Portanto, ilógico simplesmente se reanalisar o conjunto fático-probatório e atribuir entendimento diverso do quanto já examinado por este Tribunal, sem que provas novas tenham sido produzidas, quando o próprio Código de Processo Penal disciplina que não se pode reiterar pedido.
+Não obstante a legislação não seja expressa neste sentido, é a solução mais adequada ao caso, sob pena de tratar a revisão criminal como uma segunda apelação ou, o equivalente, a primeira apelação como uma revisão criminal (decisão contrária à evidência dos autos).
+ ..
+No mais, no intuito do exaurimento da prestação jurisdicional, destaque-se ter o peticionário Alessandro manifestado, tão-somente, seu inconformismo com os critérios utilizados na fixação da dosimetria das penas. O Supremo Tribunal Federal já decidiu que "não se presta a revisão criminal para simples reavaliação dos critérios utilizados pelo magistrado na análise das circunstâncias do art. 59 do Código Penal"; "É evidente, portanto, a intenção do requerente de revisitar tema já vencido no decreto condenatório, sem qualquer comprovação de ofensa ao texto legal ou à evidência dos autos, o que impede o conhecimento da pretensão no ponto." (STF, RvC nº 5.437/RO, Relator Ministro Teori Zavascki, Tribunal Pleno, j. 17.12.2017, DJe 52)  ..
+.
+De início, verifica-se que a tese ora vindicada não foi objeto de exame no acórdão impugnado, que considerou ausentes as hipóteses previstas no art. 621 do CPP, reputando tratar-se de mera pretensão de reexame de teses já apreciadas e decididas no acórdão que julgou o recurso de apelação, entendimento que está em consonância com a jurisprudência desta Corte.
+Nesse sentido:
+HABEAS CORPUS. LAVAGEM DE DINHEIRO. REVISÃO CRIMINAL. VIA INADEQUADA PARA APONTAR A NULIDADE DE ATO DE OFICIAL DE JUSTIÇA NÃO ARGUÍDA EM TEMPO OPORTUNO. DOSIMETRIA DA PENA. OBSERVÂNCIA DOS PARÂMETROS LEGAIS. IMPOSSIBILIDADE DE DESCONSTITUIÇÃO DA COISA JULGADA. HABEAS CORPUS DENEGADO.
+1. A segurança jurídica exige a estabilidade da coisa julgada. Por isso, a revisão criminal somente pode ser ajuizada nas hipóteses do art. 621 do CPP e não admite a dilação probatória.
+ ..
+6. No que tange ao artigo 62, I, do Código Penal, não há direito líquido e certo ao afastamento da agravante, pois as instâncias ordinárias reconheceram que o agente promoveu e organizou o crime e dirigiu a atividade do corréu. Não se presta o habeas corpus, mormente quando impetrado contra acórdão de revisão criminal, a corrigir critérios razoáveis do juiz, em conformidade com o seu livre convencimento motivado.
+7. Habeas corpus denegado.
+(HC n. 685.496/RS, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 9/11/2021, DJe de 23/11/2021; grifos acrescidos.)
+Tampouco há falar em constrangimento ilegal, ante o não conhecimento do pleito revisional na origem, tendo em vista que o cabimento da revisão criminal ocorre em situações específicas, sem servir como uma segunda apelação, sob pena de se relativizar a garantia da coisa julgada e da segurança jurídica.
+A propósito, os seguintes precedentes:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. CONDENAÇÃO POR INFRAÇÃO AOS ARTS. 288, CAPUT, E 171, CAPUT, DO Página 8 de 10 CÓDIGO PENAL. REVISÃO CRIMINAL. UTILIZAÇÃO DA VIA COMO SE RECURSO FOSSE. NÃO CABIMENTO. ABSOLVIÇÃO. SÚMULA N. 7/STJ. RECURSO IMPROVIDO.
+1. "O Superior Tribunal de Justiça já pacificou o entendimento no sentido do não cabimento da revisão criminal quando utilizada como nova apelação, com vistas ao mero reexame de fatos e provas, não se verificando hipótese de contrariedade ao texto expresso da lei penal ou à evidência dos autos, consoante previsão do art. 621, I, do CPP" (ut, HC 206.847/SP, Rel. Ministro NEFI ORDEIRO, Sexta Turma, DJe 25/02/2016).
+2. "A jurisprudência desta Corte Superior de Justiça está fixada no sentido de que o escopo restrito da revisão criminal, ajuizada com fundamento no art. 621, inciso I, do Código de Processo Penal, pressupõe condenação sem qualquer lastro probatório, o que não confunde com a mera fragilidade probatória" (AgRg nos EDcl no REsp 1940215/RJ, Rel. Ministra LAURITA VAZ, SEXTA TURMA, julgado em 16/11/2021, DJe 25/11/2021).
+3. Agravo regimental improvido.
+(AgRg no AREsp n. 1.989730/PR, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 22/2/2022, DJe de 25/2/2022)
+RECURSO ESPECIAL. REVISÃO CRIMINAL. VIOLAÇÃO DO ART. 621, I, DO CPP. PEDIDO REVISIONAL ACOLHIDO COM BASE EM INTERPRETAÇÃO SUBJETIVA DAS PROVAS DOS AUTOS. DESCABIMENTO. PRECEDENTES DESTA CORTE. ACÓRDÃO CASSADO. CONDENAÇÃO RESTABELECIDA.
+1. A revisão criminal não deve ser adotada como um segundo recurso de apelação, pois o acolhimento da pretensão revisional reveste-se de excepcionalidade, cingindo-se às hipóteses em que a contradição à evidência dos autos seja manifesta, induvidosa, dispensando a interpretação ou análise subjetiva das provas produzidas (HC n. 464.843/SC, Ministro Felix Fischer, Quinta Turma, DJe 8/10/2018).
+2. No caso dos autos, o Tribunal a quo, ao julgar a apelação defensiva, analisou o laudo pericial, mas compreendeu que, apesar das conclusões do perito, as circunstâncias da prisão evidenciavam que o apelante tinha plena consciência de seus atos, circunstância que rechaçava a inimputabilidade alegada. De outra parte, ao acolher o pedido revisional, a Corte de origem não circunstanciou nenhum elemento novo que firmasse, de forma induvidosa, a inimputabilidade do apenado, apenas analisou os mesmos elementos coligidos (nova interpretação subjetiva), formando convicção distinta nessa nova análise, destoando, assim, da orientação jurisprudencial desta Corte.
+3. Recurso especial provido, a fim de cassar o acórdão da revisão criminal e restabelecer a condenação do recorrido.
+(REsp n. 1.764.740/MS, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 5/2/2019, DJe de 26/2/2019)
+AGRAVO REGIMENTAL NO RECURSO ESPECIAL. REVISÃO CRIMINAL. TRÁFICO DE ENTORPECENTES. CABIMENTO DA REVISÃO CRIMINAL EM SITUAÇÕES EXCEPCIONAIS. PRECEDENTES. ENUNCIADO SUMULAR N. 568/STJ. MINORANTE PREVISTA NO § 4º DO ART. 33 DA LEI DE DROGAS. DEDICAÇÃO A ATIVIDADES CRIMINOSAS. VERIFICAÇÃO. IMPOSSIBILIDADE. REVOLVIMENTO DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. ENUNCIADO SUMULAR N. 7/STJ. DECISÃO AGRAVADA MANTIDA. PEDIDO DE CONCESSÃO DE HABEAS CORPUS, DE OFÍCIO. IMPOSSIBILIDADE. AGRAVO REGIMENTAL DESPROVIDO.
+I - O Agravo Regimental deve trazer novos argumentos capazes de alterar o entendimento firmado anteriormente, sob pena de ser mantida a r. decisão vergastada por seus próprios e jurídicos fundamentos.
+II - No presente caso, não há que se falar em violação ao art. 621 do Código de Processo Penal, porquanto os fundamentos invocados pela eg. Corte de origem para julgar improcedente o pedido revisional estão em consonância com o entendimento deste Sodalício, no sentido de que o cabimento da revisão criminal ocorre em situações excepcionais, não se prestando à servir como uma segunda apelação, sob pena de relativizar sobremaneira a garantia da coisa julgada e da segurança jurídica. Precedentes.
+III - Ademais, verifica-se que o eg. Tribunal de origem declinou, de forma explícita, as razões - baseado nas provas carreadas aos autos - pelas quais concluiu pela manutenção da não incidência da causa especial de diminuição da pena prevista no art. 33, § 4º, da Lei n. 11.343/2006.
+IV - Na hipótese, entender de modo contrário ao estabelecido pela eg. Corte estadual, como pretende a recorrente, demandaria o revolvimento, no presente recurso, do material fático-probatório dos autos, inviável nesta instância (Enunciado sumular n. 7 do STJ).
+V - Por fim, "É descabido postular a concessão de habeas corpus de ofício, como forma de tentar burlar a inadmissão do recurso especial" (AgRg no AREsp n. 864.672/SP, Quinta Turma, Rel. Min. Reynaldo Soares da Fonseca, DJe de 1/6/2016).
+Agravo regimental desprovido.
+(AgRg no REsp n. 1.979.670/PR, relator Ministro Jesuíno Rissato (Desembargador convocado do TJDFT), Quinta Turma, julgado em 8/3/2022, DJe de 17/3/2022.)
+Não há, portanto, flagrante ilegalidade que justifique a concessão da ordem de ofício.
+Ante o exposto, não conheço do habeas corpus.
+Publique-se.
+Intimem-se.
+EMENTA
