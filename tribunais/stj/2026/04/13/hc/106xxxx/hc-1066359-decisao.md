@@ -1,0 +1,41 @@
+DECISÃO
+Trata-se de habeas corpus com pedido de liminar impetrado em favor de GABRIEL DE SOUZA BOTELHO, no qual se aponta como autoridade coatora a Terceira Câmara Criminal do TJRJ.
+Consta dos autos que, na execução penal, foi deferida ao paciente a progressão ao regime aberto, na modalidade albergue domiciliar com monitoramento eletrônico. Interposto agravo em execução ministerial, o Tribunal de Justiça cassou o benefício.
+A impetrante afirma que o apenado teria cumprido mais de 78% da pena, atingindo o lapso temporal para a progressão ao regime aberto em 30/10/2024, de modo que o requisito objetivo teria sido preenchido.
+Argumenta que o sentenciado não possuiria falta disciplinar, ostentando comportamento classificado como neutro, estando presente o requisito subjetivo necessário à concessão da benesse.
+Alega que a progressão de regime não poderia ser negada em razão da gravidade abstrata do delito.
+Assevera que o Tribunal de origem, ao desconsiderar a atualidade do comportamento carcerário, substituindo o juízo técnico por valoração retrospectiva e abstrata, teria transformado a progressão em sanção adicional, incompatível com o modelo de execução progressiva adotado pelo ordenamento jurídico pátrio.
+Requer, liminarmente, a suspensão dos efeitos do acórdão impugnado e, no mérito, a concessão da ordem para que seja determinada a imediata progressão do paciente ao regime aberto.
+Indeferida a liminar e prestadas informações, o Ministério Público Federal assim se manifestou (fl. 78):
+HABEAS CORPUS. AGRAVO EM EXECUÇÃO PENAL. PROGRESSÃO DE REGIME ABERTO INDEFERIDO. REGRESSÃO AO REGIME SEMIABERTO. REQUISITO SUBJETIVO NÃO PREENCHIDO. PRECEDENTE DO STJ.
+- O acórdão coator decidiu em conformidade com a jurisprudência do STJ que entende que a noção de bom comportamento do reeducando abrange a valoração de elementos que não se restringem ao atestado emitido pela direção carcerária e que o histórico de faltas disciplinares, aliado à gravidade do crime praticado e ao comportamento reiterado do apenado, legitima o indeferimento da progressão de regime.
+Pelo não conhecimento.
+É o relatório.
+DECIDO.
+A Quinta Turma do Superior Tribunal de Justiça firmou entendimento no sentido de ser inadequada a impetração de habeas corpus quando utilizado em substituição a recurso próprio.
+A teor do disposto no art. 105, II, a, da CF/88, o recurso cabível contra acórdão que denega a ordem na origem é o recurso ordinário, enquanto, consoante previsto no art. 105, III, da CF, o recurso cabível contra acórdão que julga apelação, recurso em sentido estrito e agravo em execução é o recurso especial.
+Nada impede, contudo, a concessão de habeas corpus de ofício quando constatada a existência de ilegalidade flagrante, abuso de poder ou teratologia, nos termos do art. 654, §2º, do CPP, o que ora passa-se a examinar.
+O Juízo das Execuções concedeu a progressão a regime aberto nos seguintes termos (fls. 59-60; grifos acrescidos):
+Ora, na hipótese vertente o apenado, reincidente, cumpre pena de 6 anos e 1 mês de reclusão pelo delitos de furto. Verifica-se ainda que conforme a TFD atualizada, o apenado possui conduta abonadora, estando preso ininterruptamente desde 30/10/2024, sem registro de faltas graves recentes, o que demonstra por si só, responsabilidade no cumprimento da pena, não havendo qualquer razão de ordem pessoal que justifique a necessidade de realização do exame criminológico.
+Quanto aos argumentos desfavoráveis de gravidade em abstrato do crime e do período de pena a cumprir, há entendimento jurisprudencial de que esses argumentos não são suficientes a justificar o indeferimento do benefício, caso não sejam somados a outros dados concretos que demonstrem que o apenado não está apto a usufruir do benefício, o que não é o caso dos autos, uma vez que o apenado demonstrou bom comportamento carcerário. Destaque-se o entendimento jurisprudencial do Superior Tribunal de Justiça:
+ ..
+Por fim, vale destacar que, apesar da prisão há menos de 12 meses, o apenado readquiriu o bom comportamento na forma do art. 112, §7º da LEP, não havendo óbice à concessão do benefício no presente momento.
+O Tribunal de Justiça, por sua vez, cassou o benefício aos seguintes argumentos (fls. 19-20; grifos acrescidos):
+Em que pese o apenado tenha cumprido o requisito temporal previsto no art. 112 da LEP desde 10.04.25, não preencheu o requisito subjetivo exigido pelo mesmo dispositivo. Além de ser reincidente específico, o agravado possui histórico de reiteração delitiva, totalizando 12 (doze) anotações em sua FAC, inclusive por crimes cometidos durante a execução penal (fls. 24/41).
+Nesse viés, observa-se, ainda, um histórico de descumprimentos de condições impostas em benefícios concedidos em período anterior, como no livramento condicional de 17.09.21, quando foi preso por novo crime apenas dois meses após sua soltura, e na nova concessão de livramento condicional em 19.04.24, ocasião em que foi novamente preso, fato que resultou em sua 12ª anotação (processo nº 0946307-42.2024.8.19.0001). Também houve descumprimento das condições da PAD, diante da não instalação da tornozeleira eletrônica e da nova prisão registrada em 29.09.20, que acarretou regressão de regime. Ademais, não há registro de atividades laborais ou educacionais em sua TFD, cujo índice de comportamento foi classificado como "neutro" em 31.10.24 (fls. 06/08)
+Nesse panorama, o STJ já decretou que "a circunstância de o paciente já haver se reabilitado, pela passagem do tempo, desde o cometimento das sobreditas faltas, não impede que se invoque o histórico de infrações praticadas no curso da execução penal, como indicativo de mau comportamento carcerário" (STJ, Rel. Min. Antônio Saldanha Palheiro, HC 791487/SP, 5ª T., julg. em 22.05.23).
+Ademais, o apenado também não cumpriu o disposto no inciso I do art. 114 da LEP, não havendo, no caso, elementos concretos idôneos a evidenciar que o agravado esteja trabalhando ou comprove a possibilidade de fazê-lo imediatamente.
+No caso, como se vê, o Tribunal local apontou elementos concretos, extraídos da execução da pena, para justificar o indeferimento do benefício, diante de "um histórico de descumprimentos de condições impostas em benefícios concedidos em período anterior", destacando também a não observância do art. 114, I, da Lei de Execução Penal.
+Embora o Juízo da Execução tenha registrado a inexistência de falta grave recente, e embora a Terceira Seção do Superior Tribunal de Justiça adote interpretação flexível no que diz respeito à comprovação de atividade laboral prevista no art. 114 da LEP (veja-se, por exemplo, o HC n. 292.746/RJ, de relatoria da Ministra Maria Thereza de Assis Moura, da Sexta Turma, no DJe de 27/6/2014), esta Corte firmou o entendimento de que a valoração do requisito subjetivo para concessão dos benefícios requeridos deve considerar todo o histórico carcerário, e não apenas o período de 12 meses do art. 83, III, b, do Código Penal.
+Confira-se:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO PENAL. LIVRAMENTO CONDICIONAL. DETERMINAÇÃO DA REALIZAÇÃO DE EXAME CRIMINOLÓGICO. VALIDADE. FALTA GRAVE. EXISTÊNCIA. AGRAVO DESPROVIDO.
+1. O Tribunal a quo julgou de acordo com o entendimento desta Corte, ao determinar a realização do exame criminológico para a apreciação do pedido de livramento condicional, em razão do agravante possuir registro da prática de faltas graves.
+2. A Terceira Seção, no julgamento do REsp 1.970. 217/MG, fixou a seguinte tese jurídica, sintetizada no Tema Repetitivo 1161: "A valoração do requisito subjetivo para concessão do livramento condicional - bom comportamento durante da execução da pena (art. 83, inciso III, alínea "a", do Código Penal) - deve considerar todo o histórico prisional, não se limitando ao período de 12 meses referido na alínea "b" do mesmo inciso III do art. 83 do Código Penal".
+3. Agravo desprovido.
+(AgRg no HC n. 923.436/SP, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 9/9/2024, DJe de 11/9/2024).
+Constatada motivação concreta no afastamento do benefício, não se verifica nenhuma ilegalidade a ser sanada.
+Não há, portanto, justificativa para concessão da ordem de ofício.
+Ante o exposto, não conheço do habeas corpus.
+Publique-se.
+Intimem-se.
+ EMENTA
