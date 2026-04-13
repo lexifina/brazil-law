@@ -1,0 +1,29 @@
+DECISÃO
+Cuida-se de agravo interposto por BANCO DO BRASIL S.A. contra decisão que obstou a subida de recurso especial.
+Extrai-se dos autos que o agravante interpôs recurso especial, com fundamento no art. 105, III, "a", da Constituição Federal, contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO cuja ementa guarda os seguintes termos (fl. 283):
+AGRAVO DE INSTRUMENTO - Liquidação de sentença - Decisão que homologou o laudo pericial apresentado pelo perito, a fim de tornar líquido o débito exequendo no valor de R$ 32.107,25 em 09/01/2025 - Pretensão à reforma - Inadmissibilidade - Abono salarial (PASEP) - V. acórdão transitado em julgado constatou que os requisitos para recebimento do abono salarial foram devidamente preenchidos pela autora/exequente, que deixou de receber os valores a que fazia jus em razão da duplicidade de registro - Coisa julgada - Impossibilidade de rediscussão - Cálculos realizados em observância ao quanto decidido no v. acórdão - Impugnação genérica, sem apresentação do valor que o executado entende devido - Decisão mantida - RECURSO DESPROVIDO.
+Sem embargos de declaração.
+No recurso especial, a parte recorrente alega violação dos arts. 141 e 492 do Código de Processo Civil, sob a tese de decisão extra petita e de que a liquidação homologou valores sem observar os limites do pedido e os critérios legais do PASEP, resultando em condenação indevida.
+Afirme que: a impugnação apontou "falta de saldo" na conta PASEP da recorrida; a homologação do laudo teria desconsiderado a forma de remuneração legal do Fundo PIS-PASEP; somente cotistas cadastrados antes de 04/10/1988 teriam direito à distribuição de cotas; a conta da autora foi aberta em 06/12/1999; e os índices aplicados pelo perito seriam os do Tribunal de Justiça de São Paulo, estranhos à legislação específica.
+Aponta violação do art. 239 da Constituição Federal de 1988, no tocante aos requisitos do abono salarial, afirmando que o pagamento anual depende de cadastro, tempo mínimo de trabalho, renda média de até dois salários mínimos e correta informação na Relação Anual de Informações Sociais (RAIS), os quais deveriam ter sido cotejados tecnicamente pelo perito.
+Argumenta que a legislação específica do Fundo PIS-PASEP impõe índices próprios de correção não observados pelo perito, indicando como fundamentos: alínea a do art. 3º da Lei Complementar n. 26/1975; art. 10 da Lei n. 7.738/1989, art. 2º da Lei n. 7.764/1989, Circular Banco Central do Brasil n. 1.517/1989; art. 7º da Lei n. 7.959/1989; art. 38 da Lei n. 8.177/1991; art. 12 da Lei n. 9.365/1996; e Resolução Conselho Monetário Nacional n. 2.131/1994.
+Sem contrarrazões ao recurso especial.
+Sobreveio o juízo de admissibilidade negativo na instância de origem (fls. 310 - 311), o que ensejou a interposição do presente agravo.
+Apresentada contraminuta do agravo (fls. 322 - 330).
+É, no essencial, o relatório.
+Atendidos os pressupostos de admissibilidade do agravo, passo ao exame do recurso especial.
+O recurso especial tem origem em liquidação de sentença decorrente de ação de obrigação de fazer com indenização por danos materiais e morais, em que se apurou o valor devido a título de abono salarial do Programa de Formação do Patrimônio do Servidor Público (PASEP). O acórdão recorrido, ao julgar agravo de instrumento do Banco do Brasil S.A., manteve decisão que homologou o laudo pericial no montante de R$ 32.107,25, com fundamento na coisa julgada quanto ao preenchimento dos requisitos legais do abono e na impugnação genérica do executado, sem apresentação de cálculo próprio.
+De início, não comporta conhecimento o recurso especial quanto à alegação de malferimento do art. 239 da Constituição Federal, por ser a via inadequada à alegação de afronta a seus artigos e preceitos, sob pena de usurpação de competência atribuída exclusivamente à Suprema Corte.
+Quanto aos demais pontos, da análise do acórdão recorrido, observa-se que o Tribunal de origem, ao negar provimento ao agravo de instrumento, limitou-se a consignar a existência de coisa julgada quanto ao preenchimento dos requisitos do abono salarial, a adequação dos cálculos ao acórdão anterior e a genericidade da impugnação do banco.
+Não abordou, portanto, a questão de que teria havido decisão extra petita (arts. 141 e 492 do CPC) e nem os critérios legais de remuneração das contas do Fundo PIS-PASEP (LC n. 26/1975; Leis n. 7.738/1989, 7.764/1989, 7.959/1989, 8.177/1991, 9.365/1996; Circular BACEN n. 1.517/1989; Resolução CMN n. 2.131/1994).
+Com efeito, verifica-se que a Corte de origem não analisou, sequer implicitamente, os arts. 141 e 492 do CPC e a tese de extra petita, tampouco examinou a legislação específica dos índices do Fundo PIS-PASEP ventilada nas razões do especial.
+Logo, não foi cumprido o necessário e indispensável exame da questão pela decisão atacada, apto a viabilizar a pretensão recursal da recorrente. Assim, incide, no caso, o enunciado das Súmulas n. 282 e 356 do excelso Supremo Tribunal Federal.
+Ness e sentido:
+1. A simples indicação dos dispositivos legais tidos por violados, sem que o tema tenha sido enfrentado pelo acórdão recorrido, obsta o conhecimento do recurso especial, por falta de prequestionamento, a teor das Súmulas n. 282 e 356 do STF.
+(AgInt nos EDcl no AREsp n. 2.611.383/AL, relator Ministro Antonio Carlos Ferreira, Quarta Turma, DJEN de 28/2/2025.)
+1. A falta de prequestionamento da matéria suscitada no recurso especial impede seu conhecimento, a teor da Súmula nº 282/STF, aplicada por analogia.
+(AgInt no AgInt no AREsp n. 2.604.963/SP, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, DJEN de 20/12/2024.)
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Deixo de majorar os honorários nos termos do art. 85, § 11, do CPC tendo em vista que o recurso especial foi interposto nos autos de agravo de instrumento.
+Publique-se. Intimem-se.
+ EMENTA
