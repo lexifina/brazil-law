@@ -1,0 +1,40 @@
+DECISÃO
+Trata-se de reclamação, com pedido de medida liminar, ajuizada por EDER NOLASCO DE SOUZA contra ato do Órgão Especial do Tribunal de Justiça do Estado de Mato Grosso, que teria supostamente desrespeitado a competência desta Corte e a autoridade de seus precedentes ao inadmitir recurso especial mediante aplicação indevida de temas repetitivos e fundamentos desconexos com a controvérsia dos autos.
+Sustenta o reclamante, em síntese, que o Tribunal de origem, ao negar seguimento ao recurso especial, teria incorrido em erro de enquadramento ao invocar inicialmente o Tema 1258 do STF e, posteriormente, ao julgar agravo interno, e fundamentar a inadmissão com base no Tema 1285 do STJ, sem proceder ao necessário distinguishing.
+Aduz que a controvérsia recursal diz respeito à nulidade de prova decorrente de reconhecimento fotográfico irregular e à vedação de condenação baseada exclusivamente em elementos informativos não judicializados, matérias que demandariam apreciação por esta Corte Superior.
+Requer, assim, a concessão de medida liminar para suspender os efeitos do acórdão impugnado e o andamento da ação penal originária e, ao final, a procedência da reclamação para cassar o acórdão do Tribunal de origem, determinando o regular processamento do recurso especial.
+É o relatório.
+Decido.
+A reclamação constitucional possui finalidade específica e excepcional, cabendo sua utilização para preservar a competência desta Corte ou assegurar a autoridade de suas decisões, bem como, na forma do art. 988, II e IV, do Código de Processo Civil, para garantir a observância de enunciado de súmula vinculante, de decisão proferida em controle concentrado de constitucionalidade ou de precedente firmado sob a sistemática dos recursos repetitivos.
+A jurisprudência pacífica do Superior Tribunal de Justiça orienta que a reclamação não se presta a substituir os meios recursais próprios, nem constitui via adequada para rediscutir o mérito de decisão proferida por órgão jurisdicional de instância inferior, ainda que se alegue contrariedade a entendimento jurisprudencial desta Corte.
+Com efeito, para que a reclamação seja admitida como instrumento de garantia da autoridade das decisões deste Tribunal, é indispensável a demonstração de descumprimento concreto de decisão proferida por esta Corte em processo específico. Não basta, portanto, a mera alegação de que a decisão reclamada contraria, em abstrato, entendimento jurisprudencial do Superior Tribunal de Justiça; exige-se a existência de aderência estrita e objetiva entre o ato impugnado e o conteúdo do provimento jurisdicional paradigma, de modo que a contrariedade seja frontal e direta.
+No caso dos autos, verifica-se que a controvérsia não decorre de descumprimento de decisão específica desta Corte proferida no mesmo feito, tampouco de afronta direta a precedente qualificado dotado de eficácia vinculante. A insurgência do reclamante dirige-se, em verdade, contra o juízo de admissibilidade realizado pelo Tribunal de origem, ao fundamento de erro na aplicação de temas jurisprudenciais, circunstância que não autoriza, por si só, o manejo da reclamação constitucional.
+Cumpre destacar, ainda, que os temas invocados pelo Tribunal de origem, ainda que eventualmente aplicados de forma inadequada, não evidenciam descumprimento de precedente obrigatório com aderência estrita ao caso concreto, mas sim discussão acerca da correção do enquadramento jurídico realizado na decisão de inadmissibilidade do recurso especial.
+Desse modo, a controvérsia apresentada pelo reclamante diz respeito, em essência, à revisão do acerto ou desacerto do juízo negativo de admissibilidade do recurso especial, bem como à análise de matérias de mérito relacionadas à validade da prova penal produzida, questões que devem ser submetidas aos meios impugnativos próprios, não se prestando a reclamação a substituir tais instrumentos processuais.
+Nesse sentido:
+DIREITO PROCESSUAL CIVIL E PROCESSUAL PENAL. AGRAVO REGIMENTAL NA RECLAMAÇÃO CONSTITUCIONAL. GARANTIA DA AUTORIDADE DE DECISÃO DO STJ. NECESSIDADE DE ESGOTAMENTO DAS INSTÂNCIAS ORDINÁRIAS. INADMISSIBILIDADE DA RECLAMAÇÃO COMO SUCEDÂNEO RECURSAL. AGRAVO REGIMENTAL DESPROVIDO. I. CASO EM EXAME
+1. Agravo regimental interposto contra decisão monocrática que não conheceu de reclamação ajuizada com a finalidade de garantir a autoridade da decisão proferida no RHC 184.258/SP, sob fundamento de ausência de esgotamento das instâncias ordinárias. A parte agravante também formulou pedido de tutela provisória, cujo teor se assemelha ao do agravo regimental, sendo ambos apreciados conjuntamente.
+II. QUESTÃO EM DISCUSSÃO
+2. A questão em discussão consiste em definir se é cabível reclamação constitucional para garantir a autoridade de decisão do STJ proferida em recurso próprio, mesmo sem o prévio esgotamento das instâncias ordinárias.
+III. RAZÕES DE DECIDIR
+3. A competência originária do Superior Tribunal de Justiça para processar e julgar reclamações tem por finalidade a preservação de sua competência e a garantia da autoridade de suas decisões, nos termos do art. 105, I, f, da CF, sendo indispensável a demonstração de descumprimento concreto de decisão proferida por esta Corte em processo específico.
+4. A jurisprudência do STJ estabelece como requisito de admissibilidade da reclamação constitucional o prévio esgotamento das instâncias ordinárias, a fim de evitar indevida supressão de instância.
+5. Inadmite-se a utilização da reclamação como sucedâneo recursal de decisão proferida por Juízo de primeiro grau, especialmente quando ainda pendente de exame por tribunal local.
+6. A ausência de manifestação da instância de origem sobre a controvérsia impede o conhecimento da reclamação, por configurar tentativa de subversão do sistema recursal ordinário.
+IV. DISPOSITIVO E TESE
+7. Agravo regimental desprovido.
+Tese de julgamento:
+1. A reclamação constitucional destinada a garantir a autoridade de decisão proferida pelo STJ exige o prévio esgotamento das instâncias ordinárias.
+2. É inadmissível o uso da reclamação como sucedâneo recursal de decisão de primeiro grau ainda não submetida à apreciação do tribunal de origem.
+3. A ausência de manifestação da instância inferior sobre a matéria impede o conhecimento da reclamação por configurar supressão de instância. (AgRg na Rcl n. 49.275/SP, relator Ministro Carlos Cini Marchionatti (Desembargador Convocado TJRS), Terceira Seção, julgado em 13/8/2025, DJEN de 19/8/2025.).
+AGRAVO REGIMENTAL NA RECLAMAÇÃO. PRESERVAÇÃO DE COMPETÊNCIA OU DESRESPEITO À AUTORIDADE DE DECISÃO ESPECÍFICA DO STJ. NÃO OCORRÊNCIA. OFENSA A JURISPRUDÊNCIA DO STJ. SUCEDÂNEO RECURSAL. IMPOSSIBILIDADE. AGRAVO NÃO PROVIDO.
+1. A reclamação constitucional é ação destinada à tutela específica da competência e da autoridade das decisões da Corte, exigindo-se, nesse último caso, a demonstração de que há aderência estrita entre o objeto do ato reclamado e o conteúdo do provimento jurisdicional exarado pelo Tribunal Superior, uma vez que a ação reclamatória não se qualifica como sucedâneo recursal. Precedentes.
+2. Hipótese em que a parte reclamante se insurge contra sentença que não teria observado enunciado da Súmula do STJ e o princípio da irretroatividade da lei penal.
+3. Nos termos da firme orientação desta Corte Superior, a reclamação não tem cabimento como sucedâneo recursal, não sendo adequada à preservação de sua jurisprudência, mas sim à autoridade de decisão tomada em caso concreto e envolvendo as partes postas no litígio do qual ela é originada. Precedentes.
+4. Agravo regimental a que se nega provimento.
+(AgRg na Rcl n. 46.846/RJ, relator Ministro Og Fernandes, Terceira Seção, julgado em 1/10/2024, DJe de 7/10/2024.)
+Diante desse contexto, verifica-se que a presente reclamação busca, em realidade, viabilizar o reexame do juízo de admissibilidade do recurso especial e, reflexamente, do mérito da condenação penal, providência que não se coaduna com a finalidade da ação reclamatória.
+Ante o exposto, indefiro liminarmente a presente reclamação, com fulcro no art. 34, XVIII, b, do RISTJ.
+Publique-se.
+Intimem-se.
+EMENTA
