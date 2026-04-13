@@ -1,0 +1,28 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em favor de HONACIO GLEIK FERREIRA, apontando como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE MATO GROSSO, em razão do julgamento da revisão criminal n. 1030040-91.2025.8.11.0000.
+Consta dos autos que o paciente foi condenado, em primeiro grau de jurisdição, pelo Juízo da 7ª Vara Criminal da Comarca de Cuiabá/MT, na ação penal n. 1008685-64.2023.8.11.0042, à pena de 9 (nove) anos de reclusão, a ser cumprida em regime inicial fechado, e ao pagamento de 610 (seiscentos e dez) dias-multa, por infrações ao artigo 273, § 1º e § 1º-B, incisos I e V, do Código Penal, com aplicação, por analogia in bonam partem, do preceito secundário do art. 33 da Lei n. 11.343/2006, e ao artigo 1º, caput, da Lei n. 9.613/1998 (fls. 881-923).
+A defesa propôs, perante o Tribunal de Justiça, a revisão criminal n. 1030040-91.2025.8.11.0000, que foi conhecida e teve seu pedido revisional julgado improcedente (fls. 10-28).
+Na presente impetração, busca-se a concessão da ordem de modo a: (i) declarar a nulidade da condenação pelo artigo 273 do Código Penal por ausência de laudo pericial e insuficiência probatória; (ii) subsidiariamente, desclassificar a conduta para o artigo 276 do Código Penal; e, ainda subsidiariamente, (iii) anular a dosimetria para aplicar o preceito secundário do crime de contrabando (artigo 334-A do Código Penal) e reconhecer a causa de diminuição do artigo 33, § 4º, da Lei n. 11.343/2006.
+O pedido de liminar foi indeferido (fl. 1101).
+As informações foram prestadas (fls. 1116-1120).
+O Ministério Público Federal opinou pelo não conhecimento (fls. 1134-1141).
+É o relatório. DECIDO.
+A controvérsia nos autos refere-se a uma possível ilegalidade flagrante, caracterizada na recusa ao reconhecimento da nulidade por ausência de laudo pericial definitivo quanto ao art. 273 do Código Penal e da desclassificação da conduta para tipo previsto no art. 276 do Código Penal. Requer, por fim, a aplicação do preceito secundário do crime do art. 334-A do Código Penal e o reconhecimento da causa de diminuição do art. 33, § 4º, da Lei n. 11.343/2006.
+Contudo, o Superior Tribunal de Justiça firmou entendimento de que não é possível o conhecimento de habeas corpus, quando impetrado de forma concomitante com o recurso próprio, sob pena de subversão do sistema recursal. A esse respeito:
+DIREITO PROCESSUAL PENAL. EMBARGOS DE DECLARAÇÃO. HABEAS CORPUS E RECURSO ESPECIAL. DUPLA IMPUGNAÇÃO. INEXISTÊNCIA. EMBARGOS PROVIDOS SEM ATRIBUIÇÃO DE EFEITO MODIFICATIVO.
+ ..
+Tese de julgamento: "1. A impetração de habeas corpus concomitante a recurso especial não é admitida pela jurisprudência do Superior Tribunal de Justiça". "2. Não se conhece de habeas corpus substitutivo ao recurso legalmente previsto para a hipótese, salvo quando constatada a existência de flagrante ilegalidade no ato judicial impugnado."
+Dispositivos relevantes citados: CPP, art. 654, §2º.Jurisprudência relevante citada: STJ, HC 535.063-SP, Rel. Min. Sebastião Reis Júnior, j. 10.06.2020; STF, AgRg no HC 180.365, Rel. Min. Rosa Weber, j. 27.03.2020; STJ, AgRg no HC 888.544/SP, Rel. Min. Reynaldo Soares da Fonseca, j. 18.03.2024; STJ, AgRg no RHC 198.668/MG, Rel. Min. Reynaldo Soares da Fonseca, j. 01.07.2024.
+(EDcl no AgRg nos EDcl no HC n. 952.040/SP, relator Ministro Messod Azulay Neto, Quinta Turma, julgado em 10/6/2025, DJEN de 17/6/2025.)
+PROCESSO PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS. NULIDADE. BUSCA VEICULAR. OFENSA AO ART. 157 DO CÓDIGO DE PROCESSO PENAL - CPP. NÃO OCORRÊNCIA. AGRAVO DESPROVIDO.
+1. O habeas corpus foi liminarmente indeferido em virtude da constatação da interposição concomitante, mediante idênticos fundamentos, de recurso especial pela defesa contra o mesmo acórdão proferido pelo Tribunal de Justiça.
+2. Não se conhece de habeas corpus impetrado concomitantemente com o recurso especial, sob pena de subversão do sistema recursal e de violação ao princípio da unirrecorribilidade das decisões judiciais.
+3. Mesmo que superado o óbice de processamento da ação, não prospera a alegação de flagrante ilegalidade. De acordo com o consignado pelas instâncias ordinárias, policiais militares receberam informações acerca da prática de tráfico de drogas, na modalidade de "tele-entregas", com a utilização de veículo do mesmo modelo daquele dirigido pelo agravante. Após avistarem automóvel com referidas características saindo em alta velocidade de uma residência procederam o acompanhamento e posterior abordagem do condutor, encontrando em seguida cerca de 330g de maconha, R$ 14.150,00 (quatorze mil cento e cinquenta reais) em espécie, embalagens zip lock e balanças de precisão.
+4. A fim de desconstituir as conclusões das instâncias ordinárias a respeito da dinâmica dos fatos que culminaram com a busca veicular, seria necessário aprofundado revolvimento fático-probatório, procedimento vedado na via estreita do habeas corpus.
+5. Agravo regimental desprovido.
+(AgRg no HC n. 833.593/RS, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 5/12/2023, DJe de 12/12/2023.)
+Observo que as teses vertidas na presente impetração são as mesmas do objeto do agravo em recurso especial interposto pela defesa (ARESP n. 3169306/MT), as quais se confundem com o próprio mérito da causa e exigem dilação probatória para o seu enfrentamento, o que não possível na via estreita do habeas corpus.
+Com essas considerações, não verifico a presença de constrangimento ilegal que desafie a concessão da ordem nos termos do art. 654, § 2º, do Código de Processo Penal, ainda que de ofício.
+Ante o exposto, não conheço do habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
