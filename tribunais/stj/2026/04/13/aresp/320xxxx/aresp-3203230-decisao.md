@@ -1,0 +1,33 @@
+DECISÃO
+Trata-se de agravo interposto por JHUAN GLEYSON RODRIGUES DE SOUZA contra decisão de fls. 492-494, que inadmitiu o recurso especial com fundamento na Súmula n. 7 do Superior Tribunal de Justiça.
+O recorrente foi absolvido em primeira instância.
+Interposta apelação pelo Ministério Público, o recurso foi provido para reformar a sentença absolutória, reconhecer a validade da ação policial e condenar o recorrente pelo delito previsto no art. 33, caput, da Lei n. 11.343/2006, com aplicação da causa de diminuição do art. 33, § 4º, no grau máximo, fixando a pena no mínimo legal, além de determinar a remessa dos autos ao juízo de origem para o Parquet avaliar proposta de Acordo de Não Persecução Penal, conforme HC 185.913/DF do Supremo Tribunal Federal.
+No recurso especial, sustenta-se violação dos arts. 244 e 157 do CPP, aduzindo ilegalidade da abordagem por ausência de fundada suspeita e ilicitude das provas por derivação, com pedido de conhecimento e remessa dos autos à instância superior.
+No agravo em recurso especial, a parte sustenta que a decisão agravada equivocou-se ao aplicar a Súmula n. 7/STJ, pois a controvérsia é jurídica e demanda apenas revaloração dos fatos incontroversos quanto à exigência de fundada suspeita do art. 244 do CPP e à ilicitude por derivação do art. 157 do CPP.
+Afirma que a abordagem se apoiou em elementos subjetivos (nervosismo, infração administrativa) e em policiais sem farda/veículo descaracterizado, o que não configura justa causa.
+Contraminuta apresentada (fls. 510-511).
+O Ministério Público Federal manifestou-se pelo desprovimento do agravo, nos termos da seguinte ementa (fl. 529):
+AGRAVO EM RECURSO ESPECIAL. PENAL E PROCESSUAL PENAL. TRÁFICO DE DROGAS. ALEGADA NULIDADE DA BUSCA PESSOAL. PRETENSÃO DE DESCONSTITUIR AS PREMISSAS FÁTICAS RECONHECIDAS NO ACÓRDÃO RECORRIDO. NECESSIDADE DE REEXAME DE PROVAS. INCIDÊNCIA DA SÚMULA 7 DO STJ. PARECER PELO CONHECIMENTO E DESPROVIMENTO DO AGRAVO.
+É o relatório.
+Os requisitos de admissibilidade foram atendidos, inclusive tendo a defesa impugnado cada ponto da decisão agravada. Passa-se a análise do recurso especial.
+A tese central do presente recurso especial consiste na violação dos arts. 244 e 157 do Código de Processo Penal, com a consequente absolvição da recorrente.
+Delimitada a controvérsia, destaca-se o entendimento firmado pela Corte local (fls. 414-416):
+Entendo que a abordagem veicular ocorreu com a preexistência de elementos mínimos a caracterizar fundadas razões para a medida, por se cuidar de hipótese excepcional.
+Com efeito, no caso, a abordagem do apelante deu-se por fundadas razões.
+Ademais, como consta dos autos e do termo de depoimento do condutor no auto de prisão em flagrante, que a abordagem ocorreu decorrente de fundada suspeita, prevista no artigo 244 do CPP, em razão de, conforme depoimento das testemunhas Carlos Frederico Finger e Higor Alves de Oliveira, agentes policiais, durante diligência investigativa, depararam-se com o Jhuan Gleyson Rodrigues de Souza conduzindo motocicleta Honda/CG 125 Titan ES, placa KEY-1080, sendo que, ao avistar a viatura, demonstrou comportamento anômalo, passando a trafegar pela calçada em clara violação ao artigo 193 do Código de Trânsito Brasileiro.  ..
+Como visto, os policiais abordaram o apelante a partir da verificação de situação que caracteriza fundada suspeita haja vista que ele apresentou nervosismo diante da presença da viatura, circunstância justificada ante o fato de que ele estava efetuando o transporte de entorpecentes na mochila que portava, totalizando cerca de 103 (cento e três) porções de material pulverizado branco, acondicionadas em plástico incolor tipo "ziplock", vulgarmente conhecido como cocaína, com massa bruta de 99,302g (noventa e nove gramas trezentos e dois miligramas), prontos para comercialização, conforme laudo de perícia criminal de constatação de drogas, e que ganharia sendo que cada porção seria vendida pelo valor de R$ 50,00 (cinquenta reais) e que receberia R$ 10,00 (dez reais) por entrega.
+Nessas circunstâncias, observa-se que a busca pessoal (revista) traduziu em exercício regular da atividade investigativa promovida pela autoridade policial, o que justificou a abordagem após a confirmação das características pessoais relatadas, pois a paciente demonstrou nervosismo, momento em que a polícia realizou a abordagem conforme procedimento operacional padrão da PM/GO.
+Verifica-se que o Tribunal de origem consignou que a abordagem veicular ocorreu diante da preexistência de elementos caracterizadores da fundada suspeita, visto que, ao avistar a viatura, o agravante passou a trafegar pela calçada, em manifesta violação ao art. 193 do Código de Trânsito Brasileiro. O nervosismo ao avistar a viatura policial, seguida de tentativa de esquivar-se dos agentes mediante infração de trânsito, justifica a atuação da equipe policial.
+Esta Corte Superior entende que, nos termos da Súmula n. 7/STJ, a pretensão de simples reexa me de provas não enseja recurso especial, uma vez que a competência do STJ se restringe à uniformização da interpretação da legislação infraconstitucional, não lhe cabendo atuar como terceira instância revisora.
+No caso, a revisão dos fundamentos do acórdão recorrido, com o objetivo reconhecer a ausência de fundada suspeita e restabelecer a absolvição do agravante, implicaria o revolvimento do conjunto fático-probatório, providência vedada na via do recurso especial, conforme destacado acima.
+Nesse sentido:
+AGRAVO EM RECURSO ESPECIAL. TRÁFICO DE DROGAS. PROVAS PARA A CONDENAÇÃO. NECESSIDADE DE REEXAME FÁTICO-PROBATÓRIO. SÚMULA N. 7 DO STJ. ART. 33, § 4º DA LEI N. 11.343/2006. REQUISITOS NÃO PREENCHIDOS. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO
+ESPECIAL.
+1. Cabe ao aplicador da lei, em instância ordinária, fazer um cotejo fático e probatório a fim de analisar a existência de provas suficientes a absolver, condenar ou desclassificar a imputação feita ao acusado. Óbice do enunciado n. 7 da Súmula deste STJ (ut, AgInt no AREsp n. 1.265.017/DF, relatora Ministra Maria Thereza de Assis Moura, Sexta Turma, DJe de 24/5/2018.)
+ ..
+(AREsp n. 3.021.096/BA, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 11/11/2025, DJEN de 19/11/2025.)
+Assim, modificar o entendimento firmado pelas instâncias ordinárias, com o propósito de reverter a conclusão da Corte local, esbarra no óbice previsto na Súmula n. 7 do Superior Tribunal de Justiça.
+Ante o exposto, com fundamento no art. 253, parágrafo único, II, "a", do RISTJ, conheço do agravo para não conhecer do recurso especial.
+Publique-se.
+Intimem-se.
+EMENTA
