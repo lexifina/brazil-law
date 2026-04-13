@@ -1,0 +1,15 @@
+DECISÃO
+Trata-se de embargos de declaração opostos por MAYCON ANTONIO MORAIS DA SILVA contra a decisão (fls. 143/147) que negou provimento ao recurso em habeas corpus.
+Aduz o embargante a existência de omissão na decisão embargada, ao deixar de analisar o ato coator proferido pelo juízo de origem, que, na ocasião, indeferiu o pedido defensivo de acesso integral e original das imagens das câmeras segurança referentes ao dia e hora dos fatos.
+Sustenta que a decisão embargada, em nenhum momento, debruçou-se sobre os fundamentos jurídicos externados pela autoridade coatora, que de forma inidônea, deferiu sem ressalvas o pleito da acusação para intimar a vítima a fornecer as filmagens do delito, mas indeferiu o pedido da defesa para que a vítima fornecesse a íntegra da gravação, sob o único fundamento de que a ofendida "não tem obrigação legal de realizar a produção da prova", violando a paridade de armas.
+Requer o acolhimento dos embargos de declaração, a fim de que seja sanada a omissão e apreciado o ponto central do recurso em habeas corpus, que prescinde de revolvimento fático-probatório.
+É o relatório.
+Decido.
+Sabe-se que os embargos de declaração têm a finalidade simples e única de completar, aclarar ou corrigir uma decisão ambígua, omissa, obscura ou contraditória, conforme dispõe o art. 619 do CPP.
+No caso, é inviável o acolhimento da pretensão recursal, uma vez que, conforme registrado na decisão embargada, verifica-se a existência de elementos concretos que justificam a denegação da ordem, pois o juízo de origem indeferiu o pleito defensivo para que fosse determinada à vítima que juntasse a íntegra do conteúdo das filmagens das câmeras de segurança, de forma fundamentada, destacando a autoridade coatora a irrelevância e o caráter protelatório da diligência.
+A alegação de omissão quanto à análise do cerne do recurso revela inconformismo com o resultado da decisão, buscando reabrir debate já apreciado, o que é incompatível com a via integrativa dos embargos de declaração.
+Sem olvidar, este Colendo Superior Tribunal de Justiça possui o entendimento de que o juiz, como destinatário da prova, pode indeferir diligências que reputar impertinentes, desnecessárias ou protelatórias, não havendo que se falar em constrangimento ilegal causado ao recorrente. Nesse sentido, AREsp n. 1.875.997/ES, relator Ministro João Otávio de Noronha, Quarta Turma, julgado em 17/11/2025, DJEN de 24/11/2025.
+De se vê, portanto, que os presentes embargos refletem mera irresignação da parte com o resultado do julgamento, o que revela o descabimento do recurso ora manejado.
+Como cediço, "os embargos declaratórios não constituem recurso de revisão, sendo inadmissíveis se a decisão embargada não padecer dos vícios que autorizariam a sua oposição (obscuridade, contradição e omissão). Na espécie, à conta de omissão no v. acórdão, pretende o embargante a rediscussão, sob nova roupagem, da matéria já apreciada" (EDcl no AgRg nos EDcl nos EAREsp n. 1.604.546/PR, Relator Ministro Messod Azulay Neto, Terceira Seção, julgado em 08/02/2023, DJe de 22/02/2023).
+Ante o exposto, rejeito os embargos de declaração.
+EMENTA
