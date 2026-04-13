@@ -1,0 +1,1 @@
+Art. 15-A. O Fundo Nacional de Desenvolvimento Científico e Tecnológico (FNDCT) poderá destinar recursos específicos ao financiamento de pesquisas, projetos e estudos voltados ao desenvolvimento de tecnologias contra o câncer no País.

@@ -1,0 +1,1 @@
+Art. 15-B. As vacinas contra o câncer, os medicamentos e os produtos oncológicos de terapia avançada enquadram-se na categoria de precedência prioritária, aplicando-se, para os respectivos processos de registro e de alteração pós-registro, os prazos máximos de decisão final estabelecidos no inciso I do § 2º do art. 17-A da Lei nº 6.360, de 23 de setembro de 1976.
