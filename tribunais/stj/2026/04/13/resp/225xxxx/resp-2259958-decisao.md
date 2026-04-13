@@ -1,0 +1,72 @@
+DECISÃO
+Trata-se de recurso especial interposto por LUIZ FERNANDO DERRADI, com fundamento no art. 105, III, a, da Constituição Federal, no qual se insurge contra o acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO de fls. 61-67.
+A parte recorrente alega violação do art. 112, V e VII, da Lei de Execução Penal, sustentando que a progressão de regime deve observar a condição do apenado à época de cada crime.
+Afirma que, para o tráfico praticado em 22/2/2018, quando era primário em crimes hediondos, deve incidir a fração de 40%, reservando a fração de 60% apenas ao tráfico praticado em 13/7/2022, que caracterizou a reincidência específica.
+Sustenta ofensa ao art. 2º do Código Penal, ao argumento de que a aplicação da fração de 60% ao crime de 2018 configura retroatividade de condição pessoal superveniente (reincidência específica), em prejuízo do apenado, contrariando a irretroatividade da norma penal mais gravosa.
+Aponta violação dos arts. 5º, XL e XLVI, da Constituição Federal, ao defender que a execução deve respeitar a individualização da pena, afirmando que a unificação prevista no art. 111 da LEP não autoriza homogeneizar, de forma mais gravosa, os percentuais de progressão, devendo cada condenação observar o status subjetivo existente no momento do fato.
+Argumenta que a jurisprudência do Superior Tribunal de Justiça orienta que os percentuais de progressão trazidos pela Lei n. 13.964/2019 devem observar a situação do apenado na data da prática de cada infração, não admitindo a retroação da reincidência específica para agravar fatos anteriores, além de que a unificação das penas não transmuta a natureza dos crimes nem a condição do apenado à época de cada delito.
+Contrarrazões apresentadas às fls. 143-148.
+O recurso foi admitido na origem (fls. 149-150).
+O Ministério Público Federal manifesta-se pelo não seguimento do recurso especial às fls. 161, nos termos da seguinte ementa (fls. 158-159):
+DIREITO PENAL E PROCESSUAL PENAL. RECURSO ESPECIAL. EXECUÇÃO PENAL. RETIFICAÇÃO DO CÁLCULO DA PENA. PROGRESSÃO DE REGIME. REINCIDÊNCIA. TEMA 1208 STJ. NEGATIVA DE SEGUIMENTO.
+I. CASO EM EXAME
+1. Recurso especial contra acórdão que manteve o indeferimento de retificação de cálculo de penas em execução penal. O recorrente busca a aplicação de lapsos de progressão de primário, alegando que condenação anterior por furto não geraria reincidência para crime hediondo anterior.
+II. QUESTÃO EM DISCUSSÃO
+2. Há duas questões em discussão: (i) saber se a reincidência pode ser reconhecida pelo juízo das execuções penais ainda que não conste na sentença condenatória; e (ii) saber se a reincidência incide sobre a totalidade das penas unificadas para fins de benefícios executórios.
+III. RAZÕES DA MANIFESTAÇÃO
+3. A reincidência é circunstância de caráter pessoal que deve ser considerada na fase de execução sobre a totalidade das penas unificadas, repercutindo no cálculo de todos os benefícios.
+4. Segundo a tese vinculante do Tema Repetitivo n. 1.208 do STJ, o juízo das execuções penais pode admitir a reincidência para análise da concessão de benefícios, independentemente de seu reconhecimento pelo juízo da condenação.
+5. É legítima a aplicação do percentual de 20% para progressão de regime nos casos de reincidência relativa a crime praticado sem violência ou grave ameaça, nos termos do art. 112, II, da LEP.
+6. O alinhamento do acórdão recorrido com a jurisprudência pacífica do Superior Tribunal de Justiça atrai a incidência do óbice da Súmula n. 83/STJ.
+IV. CONCLUSÃO E TESE
+7. Manifestação no sentido de negar seguimento ao recurso especial. Teses da manifestação: "1. A reincidência é circunstância de caráter pessoal que deve ser considerada na fase de execução, estendendo-se sobre a totalidade das penas unificadas para fins de cálculo de benefícios. 2. A reincidência pode ser admitida pelo juízo das execuções penais para análise da concessão de benefícios, ainda que não reconhecida pelo juízo que prolatou a sentença condenatória (Tema Repetitivo n. 1.208/STJ). 3. É legítima a aplicação do percentual de 20% de cumprimento da pena para progressão de regime nos casos de reincidência relativa a crime praticado sem violência ou grave ameaça (Art. 112, II, LEP)".
+É o relatório.
+No caso dos autos, o Tribunal de origem negou provimento ao agravo em execução interposto pela defesa e, assim, manteve a decisão de primeiro grau, consignando, para tanto, que (fls. 63-67, grifei):
+Inicialmente, cumpre anotar que o agravante cumpre pena total de quinze anos, três meses e vinte e sete dias de reclusão, pela prática de diversos delitos, dentre eles dois crimes de tráfico de entorpecentes (vide fls. 12/15).
+E o crime de tráfico de entorpecentes é equiparado a hediondo.
+Na verdade, tem-se que são equiparados a hediondos, nos termos do art. 2º da Lei n. 8.072/1990 e do art. 5º, XLIII, da Constituição Federal, os crimes de tortura, de terrorismo e de "tráfico ilícito de entorpecentes e drogas afins".
+De fato, o art. 5º, XLIII, da Constituição Federal, dispõe sobre a classificação do tráfico de drogas como infração penal equiparada aos crimes hediondos.
+Posto isso, saliente-se que a revogação do § 2º, do art. 2º da Lei n. 8.072//90 não alterou a hediondez do delito por equiparação, até porque, tal classificação adveio da Constituição Federal.
+ ..
+Posto isso, inobstante as alegações defensivas, tem-se que, embora na sentença condenatória do processo criminal 0001606-06.2018.8.26.0302 o executado - condenado por delito equiparado a hediondo de tráfico de drogas -, tenha sido considerado primário, novamente condenado por crime da mesma natureza (portanto também equiparado a hediondo) nos autos criminais nº 1508836-83.2022.8.26.0302, houve o reconhecimento da reincidência, esta evidentemente específica em delito hediondo.
+Assim, não há dúvidas de que o sentenciado é reincidente específico em crime hediondo/equiparado.
+Outrossim, "incabível considerar a reincidência como mero atributo da sentença condenatória, mas sim como característica pessoal ostentada pelo executado em toda a execução", como bem elencado pelo d. juízo de primeiro grau, bem como pelo i. representante do órgão ministerial em suas contrarrazões (vide fls. 33 e 44).
+Vê-se que o ora agravante já cumpria pena também por crime de tráfico de drogas, cometido em 2018 (processo 0001606-06.2018.8.26.0302), quando foi condenado por novo delito de tráfico de drogas, praticado em 2022 (processo 1508836-83.2022.8.26.0302), estando ambas as penas ainda em fase de execução.
+Desse modo, em sede de execução, observado o determinado nos artigos 111 e 118 da Lei de Execuções Penais, as penas do ora agravante foram unificadas, com previsão de término de cumprimento em 22/04/2033 (fls. 12/15).
+Nessa toada, como bem destacou o d. magistrado "a quo", "com a soma e unificação das penas, os efeitos da reincidência estendem-se às demais execuções, pois indissociável da figura do sentenciado. Por consequência, as frações aplicadas para progressão e livramento condicional seguem a correspondência de cada crime de acordo com a reincidência" ( fls. 33).
+Como resumiu a d. Procuradoria Geral de Justiça em seu parecer: "o agravante é reincidente específico em crime equiparado a hediondo (tráfico de drogas fls. 269/273 dos autos do processo de execução), de modo que correta a aplicação do disposto no artigo 112, inciso VII, da Lei nº 7.210/1984, que prevê o lapso de 60% para a progressão de regime. Ressalte-se que apesar de a sentença condenatória do processo criminal nº 0001606-06.2018.8.26.0302 ter considerado o executado como primário, nos autos criminais nº 1508836-83.2022.8.26.0302 houve o reconhecimento da reincidência."
+Destarte, a r. decisão ora recorrida é de ser mantida em todos os seus jurídicos e legais fundamentos, pelos motivos acima explanados.
+Nessas circunstâncias, verifica-se que o acórdão recorrido está em sintonia como a jurisprudência desta Corte Superior, a qual entende que "a reincidência é circunstância de caráter pessoal que pode ser reconhecida na fase da execução penal e estende-se sobre a totalidade das penas somadas para efeito de cálculo dos benefícios" (AgRg no HC 761.742/RS, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 14/11/2022, DJe de 24/11/2022).
+Dessa forma, não há como acolher a pretensão do recorrente, uma vez que lhe foi exigido o cumprimento de 60% das penas impostas pelos crime equiparados a hediondos por possuir duas condenações por tráfico ilícito de entorpecentes, sendo ele, portanto, reincidente específico.
+A propósito:
+DIREITO PROCESSUAL PENAL. EXECUÇÃO PENAL. AGRAVO REGIMENTAL NO RECURSO ORDINÁRIO EM HABEAS CORPUS. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA. REITERAÇÃO DOS ARGUMENTOS DO RECURSO ORDINÁRIO. SÚMULA 182/STJ. PROGRESSÃO DE REGIME. UNIFICAÇÃO DE PENAS. REINCIDÊNCIA. AGRAVO REGIMENTAL NÃO PROVIDO.
+I. Caso em exame
+1. Agravo regimental interposto contra decisão monocrática que negou provimento ao recurso ordinário em habeas corpus, objetivando a retificação dos cálculos de pena, afastando o efeito da reincidência para fins de cumprimento da fração de 3/5 (três quintos) da reprimenda para progressão do regime prisional.
+2. O Juízo de primeira instância unificou as penas em 33 (trinta e três) anos e 1 (um) mês de reclusão, em regime inicialmente fechado, registrando a reincidência do réu, com base no art. 63 do Código Penal, por ser reincidente específico em crime de natureza hedionda.
+II. Questão em discussão
+3. A questão em discussão consiste em saber se a reincidência específica em crime hediondo deve ser considerada na fase de execução penal, estendendo-se sobre a totalidade das penas somadas para efeito de cálculo dos benefícios, como a progressão de regime.
+III. Razões de decidir
+4. A ausência de impugnação específica dos fundamentos da decisão agravada, com mera reiteração das teses ventiladas no recurso ordinário, atrai a incidência da Súmula n. 182/STJ, por violação ao princípio da dialeticidade.
+5. A jurisprudência desta Corte entende que a reincidência é circunstância de caráter pessoal que deve ser considerada na fase de execução, estendendo-se sobre a totalidade das penas somadas, com repercussão no cálculo dos benefícios executórios.
+6. No caso de reincidência específica em crime hediondo, exige-se o cumprimento de 60% da pena para a progressão de regime, conforme precedentes do STJ.
+IV. Dispositivo e tese
+7. Agravo regimental não provido.
+Tese de julgamento: "1. A reincidência específica em crime hediondo deve ser considerada na fase de execução penal, estendendo-se sobre a totalidade das penas somadas para efeito de cálculo dos benefícios. 2. A ausência de impugnação específica dos fundamentos da decisão agravada, com mera reiteração das teses, viola o princípio da dialeticidade e atrai a incidência da Súmula n. 182/STJ".
+Dispositivos relevantes citados: Código Penal, art. 63.
+Jurisprudência relevante citada: STJ, AgRg no HC 900.892/MT, Rel. Min. Otávio de Almeida Toledo, Sexta Turma, julgado em 19/8/2024;
+STJ, AgRg no HC 761.742/RS, Rel. Min. Rogerio Schietti Cruz, Sexta Turma, julgado em 14/11/2022; STJ, REsp 1.957.657/MG, Rel. Min. João Otávio de Noronha, Quinta Turma, julgado em 23/11/2021.
+(AgRg no RHC n. 208.164/PE, relator Ministro Otávio de Almeida Toledo (Desembargador convocado do TJSP), Sexta Turma, julgado em 21/5/2025, DJEN de 27/5/2025, grifei.)
+AGRAVO REGIMENTAL NO RECURSO ESPECIAL. TRÁFICO DE DROGAS. NÃO CONHECIMENTO. AUSÊNCIA DE INDICAÇÃO DOS DISPOSITIVOS DE LEI VIOLADOS. SÚMULA N. 284 STF. MESMO QUE ASSIM NÃO FOSSE, O ENTENDIMENTO DO TRIBUNAL DE ORIGEM ENCONTRA RESSONÂNCIA NA JURISPRUDÊNCIA DESTA CORTE. REINCIDÊNCIA ESPECÍFICA. TRÁFICO DE DROGAS. PROGRESSÃO DE REGIME. RESGATE DE 60% DA PENA. ART. 112, VII, DA LEP. INCIDÊNCIA DA SÚMULA 83/STJ. AGRAVO REGIMENTAL DESPROVIDO.
+1. "A admissibilidade do recurso especial exige a clara indicação dos dispositivos supostamente violados, o que não foi observado pela defesa, atraindo a incidência da Súmula 284 do STF" (AgRg no REsp n. 2.164.614/AL, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 4/12/2024, DJe de 10/12/2024).
+2. Ainda que assim não fosse, uma vez que o agravante é reincidente específico na prática de tráfico de drogas, crime hediondo por equiparação, situação que impõe a aplicação do percentual de 60% de resgate de pena para fins de progressão de regime, nos termos do art. 112, VII, da Lei 7.210/1984 (alterado pela Lei 13.964/2019), não havendo, portanto, razões para se modificar o entendimento do Tribunal a quo, o qual está em sintonia com a jurisprudência desta Corte superior, situação que atrai o óbice da Súmula 83/STJ.
+3 . Agravo regimental desprovido.
+(AgRg no REsp n. 2.173.235/SP, relatora Ministra Daniela Teixeira, Quinta Turma, julgado em 18/2/2025, DJEN de 25/2/2025, grifei.)
+PROCESSUAL PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. CRIME DE TRÁFICO DE DROGAS. PROGRESSÃO DE REGIME. REINCIDENTE ESPECÍFICO. EQUIPARAÇÃO À HEDIONDEZ DO DELITO. ART. 112, VII, DA LEI DE EXECUÇÃO PENAL - LEP. APLICAÇÃO DO PERCENTUAL DE 60%. UNIFICAÇÃO DE PENAS. REINCIDÊNCIA. RECONHECIMENTO PELO JUÍZO DA EXECUÇÃO. POSSIBILIDADE. INCIDÊNCIA SOBRE A TOTALIDADE DAS PENAS. AGRAVO REGIMENTAL DESPROVIDO.
+1. Segundo entendimento desta Corte Superior, deve ser cumprida 60% (3/5) da pena para que haja a progressão de regime no caso de reincidente específico na prática de crime hediondo nos termos do que dispõe o art. 112, VII, da Lei de Execução Penal, não sendo necessário que seja em razão da prática do mesmo delito.
+Na hipótese, o agravante registra condenação anterior pelo art. 33, caput, da Lei de Drogas - equiparado a hediondo - e outra posterior, pelo mesmo crime, do art. 33, caput, da Lei n. 11.343/06, sendo reincidente específico. Assim, é caso de aplicação do percentual de 60%, (3/5) da pena, previsto no inciso VII, do art. 112 da LEP, para o cálculo de progressão de regime do paciente.
+2. A jurisprudência do STJ é firme no sentido de que a reincidência é circunstância pessoal que, no momento da unificação das penas, interfere na integralidade dos feitos em execução, e não somente nas penas em que ela tiver sido reconhecida, sem que se possa falar em ofensa à coisa julgada.
+3. Agravo regimental desprovido.
+(AgRg no HC n. 903.170/SC, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 2/9/2024, DJe de 5/9/2024, grifei.)
+Ante o exposto, nego provimento ao recurso especial.
+Publique-se. Intimem-se.
+EMENTA
