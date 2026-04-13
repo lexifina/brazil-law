@@ -1,0 +1,23 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de ADALBERTO FELIPE VICTORIO no qual se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DO PARANÁ (Apelação Criminal n. 0006888-26.2023.8.16.004).
+Consta dos autos que o paciente foi condenado, pela prática ela prática dos ilícitos tipificados no art. 33, caput, da Lei n.º 11.343/2006 e art. 12, caput, da Lei n.º 10.826/2003, à pena de 7 (sete) anos de reclusão, no regime inicial fechado, além do pagamento de 711 (setecentos e onze) dias-multa, bem como 1 (um) ano e 3 (três) meses de detenção.
+O Tribunal de origem negou provimento ao apelo defensivo.
+Neste writ, a parte impetrante sustenta a nulidade das provas decorrente de busca domiciliar, ao argumento de ausência de fundadas razões.
+Requer, liminarmente, a suspensão dos efeitos da condenação. No mérito, pleiteia a absolvição do paciente.
+É o relatório.
+Decido.
+De início, constata-se que a alegação trazida no presente writ pela Defesa, não foi apreciada pelo Tribunal de origem no acórdão impugnado. Assim, este Superior Tribunal de Justiça não pode delas conhecer, sob pena de indevida supressão de instância.
+A propósito:
+AGRAVO REGIMENTAL EM HABEAS CORPUS SUBSTITUTIVO DE RECURSO. HOMICÍDIO QUALIFICADO TENTADO. CONDENAÇÃO PELO TRIBUNAL DO JÚRI. CONFIRMAÇÃO EM SEDE DE APELAÇÃO. INDEFERIMENTO DO DIREITO DE RECORRER EM LIBERDADE. MATÉRIA NÃO APRECIADA PELA CORTE A QUO. SUPRESSÃO DE INSTÂNCIA. FUNDAMENTOS JÁ APRECIADOS POR ESTA CORTE. SUPERVENIÊNCIA DE APRECIAÇÃO DO TEMA 1.068 DA REPERCUSSÃO GERAL DO SUPREMO TRIBUNAL FEDERAL. SUPERAÇÃO DA MATÉRIA ARGUIDA. AGRAVO DESPROVIDO.
+1. O habeas corpus não pode ser utilizado como substitutivo de recurso próprio, a fim de que não se desvirtue a finalidade dessa garantia constitucional, com a exceção de quando a ilegalidade apontada é flagrante, hipótese em que se concede a ordem de ofício.
+2. Os fundamentos apresentados para a decretação da prisão já foram objeto de análise por esta Corte, nos autos do HC n. 850.754/SP, sendo considerados idôneos, dado o brutal modus operandi. Ao proferir a sentença condenatória, o magistrado indeferiu o direito de recorrer em liberdade, mantendo os fundamentos prévios.
+3. O Tribunal, ao julgar o apelo, reajustou tão somente a pena imposta, não se manifestando a respeito da manutenção da prisão, eis que a defesa não requereu em seu recurso a revogação, não havendo que se falar em obrigação de o Tribunal de origem examinar a matéria de ofício. Ademais, não foram opostos embargos com finalidade de suprir tal omissão.
+4. Nesse contexto, por não ter sido analisada pelo acórdão impugnado, a referida alegação não pode ser apreciada no presente writ pelo Superior Tribunal de Justiça, sob pena de indevida supressão de instância.
+5. Ademais, ainda que assim não fosse, não se constata qualquer alteração fática - exceto a superveniência da condenação por duas instâncias - a justificar nova análise dos motivos da custódia.
+6. Conforme jurisprudência desta Corte, tendo o réu permanecido preso durante todo o andamento da ação penal, não faria sentido, ausentes alterações nas circunstâncias fáticas, que, com a superveniência da condenação, fosse deferida a liberdade.
+7. Além disso, no dia 12/9/2024, o plenário do Supremo Tribunal, por maioria, apreciando o tema 1.068 da repercussão geral, "deu interpretação conforme à Constituição, com redução de texto, ao art. 492 do CPP, com a redação da Lei n. 13.964/2019, excluindo do inciso I da alínea "e" do referido artigo o limite mínimo de 15 anos para a execução da condenação imposta pelo corpo de jurados", fixando a tese de que " a  soberania dos veredictos do Tribunal do Júri autoriza a imediata execução de condenação imposta pelo corpo de jurados, independentemente do total da pena aplicada".
+8. Diante desse recente julgamento pelo Supremo Tribunal federal, estabelecendo que a norma prevista na alínea e do inciso I do art. 492 do CPP é valida e está em plena vigência, independente da pena aplicada, revela-se superada a discussão a respeito da presença dos requisitos autorizadores contidos no art. 312 do Código de Processo Penal.
+9. Agravo desprovido. (AgRg no HC n. 966.822/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 5/3/2025, DJEN de 10/3/2025.)
+Ante o exposto, indefiro liminarmente o presente habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
