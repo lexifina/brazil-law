@@ -1,0 +1,41 @@
+Decisão: Cuida-se de embargos de declaração (eDOC 148) opostos em face de decisão monocrática (eDOC 147), na qual foi negado seguimento ao recurso, com apoio nas Súmulas 279 e 636 do STF, na necessidade de análise de norma infraconstitucional e na ausência de violação ao artigo 93, IX, da CF .
+Nas razões dos presentes embargos, alega-se que (eDOC148, pp. 3-4):
+“(...) ao contrário do que constou, a CF exige, sim, que os fundamentos apresentados pelo recorrente sejam todos examinados pela Corte, não só em razão do disposto no artigo 93, IX, mas ainda em atendimento ao princípio de eficiência disposto no artigo 37, da mesma CF. 4 Aliás, para bem observar o princípio igualmente constitucional do devido processo legal (CF, art.5º, LIV), deve a Corte de Justiça cumprir o disposto no artigo 489, §1º, IV)1. Não se pronunciou a r. decisão embargada a respeito.
+(...)
+Em primeiro lugar, não se pretende que essa Colenda Corte Supra examine matéria infraconstitucional, mas, sim, que faça o enquadramento do caso à hipótese do artigo 5º, LXXIV, da CF (LXXIV – o Estado prestará assistência jurídica integral e gratuita aos que comprovarem insuficiência de recursos). Não se aplica ao caso, portanto, o enunciado da Súmula 636, do STF.
+E o próprio r. acórdão de 2º Grau, ora recorrido, fez constar expressamente que o rendimento mensal do recorrente não chegava a R$.6 mil e que o valor da causa indevidamente fixado era de mais de R$.3,2 milhões, não sendo necessário, portanto, o reexame de fatos e provas (porque já afirmados no r. acórdão) para concluir que, por insuficiência de recursos, o recorrente não possuía condição de suportar o pagamento nem mesmo da taxa judiciária inicial, da ordem de R$.50.000,00.
+Não pretende o recorrente o reexame de fatos e provas, portanto, visto que os fatos já afirmados como incontroversos no r. acórdão recorrido, por si, admitem o enquadramento jurídico da hipótese.”
+
+Ao final, postula-se o acolhimento dos embargos, a fim de que sejam afastados os apontados vícios.
+É o relatório. Decido.
+Em nome da celeridade processual (art. 5º, LXXVIII, da CF) e ante a inexistência de prejuízo, visto que não há, na hipótese, efeitos modificativos, deixo de intimar a parte Embargada para apresentação de contrarrazões.
+Acentuo que o princípio do contraditório exige a manifestação das partes para que não haja decisão surpresa, o que não é o caso, uma vez que a decisão recorrida será mantida.
+Nos termos do art. 1.024, § 2º, do CPC, “Quando os embargos de declaração forem opostos contra decisão de relator ou outra decisão unipessoal proferida em tribunal, o órgão prolator da decisão embargada decidi-los-á monocraticamente”.
+Com efeito, reputo não assistir razão à parte Embargante.
+É que, de acordo com a norma do artigo 1.022 do Código de Processo Civil, os embargos de declaração são cabíveis nos casos de obscuridade, contradição ou omissão da decisão impugnada, bem como para corrigir eventual erro material. Na hipótese, não se constata nenhum dos vícios elencados.
+Restou claro, na decisão embargada, que o recurso extraordinário com agravo é inadmissível em razão da incidência, no caso concreto, das Súmulas 279 e 636 do STF, da necessidade de exame de legislação infraconstitucional   e da ausência de violação ao artigo 93, IX, da CF.
+Verifica-se que a parte embargante busca, indevidamente, a rediscussão da matéria, com objetivo de obter excepcionais efeitos infringentes.
+Com essas considerações, registra-se que os embargos declaratórios não se prestam para tal fim, conforme reiterados pronunciamentos desta Suprema. Nesse sentido:
+
+“EMBARGOS DE DECLARAÇÃO EM AÇÃO DIRETA DE INCONSTITUCIONALIDADE. INEXISTÊNCIA DOS VÍCIOS. PRETENSÃO DE REDISCUSSÃO DA MATÉRIA. INADEQUAÇÃO.
+1. Cumpre rejeitar embargos de declaração quando não se verifica omissão, obscuridade, contradição ou erro material no acórdão recorrido, sendo inviável a rediscussão da matéria julgada.
+2. Os aclaratórios não são meio processual adequado para a reforma da decisão, tampouco para a rediscussão da matéria. 3. Embargos de declaração desprovidos” (ADI 5597-ED-terceiros, Rel. Min. Nunes Marques, Tribunal Pleno, DJe 18.11.2024).
+
+“Direito Processual Civil. Embargos declaratórios no agravo regimental no recurso extraordinário com agravo. Princípios da legalidade e da livre iniciativa. Natureza infraconstitucional. Súmula 636/STF. Tentativa de rediscussão da matéria. Alegação de vícios na decisão embargada. Inexistência. Embargos rejeitados.
+I. Caso em exame
+1. Embargos de declaração opostos contra acórdão que negou provimento a agravo interno por concluir, com amparo em precedentes desta Corte, pela manutenção da decisão agravada, a qual entendeu pela ausência de ofensa direta à Constituição Federal.
+II. Questão em discussão
+2. A questão em discussão consiste em determinar se o acórdão embargado incorreu em vícios do art. 1.022 do CPC.
+III. Razões de decidir
+3. Os embargos de declaração não constituem meio hábil para reforma do julgado, sendo cabíveis somente quando houver no acórdão omissão, contradição, obscuridade ou erro material, o que não ocorre no presente caso.
+4. Conforme debatido na decisão embargada, eventual divergência em relação ao entendimento adotado pelo juízo a quo demandaria a análise de legislação infraconstitucional, o que inviabiliza o recurso extraordinário.
+5. A parte embargante busca, na verdade, a rediscussão de matéria já enfrentada nas decisões anteriormente proferidas. IV - Dispositivo 6. Embargos de declaração rejeitados.” (ARE 1.564.864-AgR-ED, de minha relatoria, Tribunal Pleno, DJe 15.01.2026)
+
+Deve ser, portanto, mantida a decisão ora embargada.
+Diante do exposto, com base no art. 21, § 1º, do RISTF e no art. 1.024, § 2º, do CPC, rejeito os embargos de declaração.
+Publique-se.
+Brasília, 13 de abril de 2026.
+
+Ministro EDSON FACHIN
+Presidente
+Documento assinado digitalmente
