@@ -1,0 +1,29 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 07/04/2026 a 13/04/2026, por unanimidade, negar provimento ao recurso, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Antonio Carlos Ferreira, Luís Carlos Gambogi (Desembargador Convocado do TJMG), João Otávio de Noronha e Raul Araújo votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro João Otávio de Noronha.
+EMENTA
+AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. AÇÃO DE COBRANÇA. PLANO DE SAÚDE. AUSÊNCIA DE IMPUGNAÇÃO AOS FUNDAMENTOS DA DECISÃO AGRAVADA. REPRODUÇÃO DAS RAZÕES DO RESP. ART. 932, III, DO CÓDIGO DE PROCESSO CIVIL. SÚMULA 182/STJ. DECISÃO MANTIDA.
+1. Nos termos do art. 932, III, do Código de Processo Civil e do art. 253, parágrafo único, I, do Regimento Interno do Superior Tribunal de Justiça, não se conhece de agravo em recurso especial cujas razões não impugnam especificamente todos os fundamentos da decisão agravada. Aplicação do enunciado 182 da Súmula do STJ.
+2. Agravo interno a que se nega provimento.
+RELATÓRIO
+Trata-se de agravo interno interposto por NOTRE DAME INTERMEDICA SAUDE S.A. contra decisão singular da lavra do Ministro Presidente do STJ pela qual o agravo em recurso especial não foi conhecido em virtude da incidência da Súmula 182/STJ, haja vista a ausência de impugnação da Súmula 7/STJ.
+Nas razões do presente agravo interno, a parte agravante alega, em síntese, que o agravo impugnou especificamente todos os fundamentos da decisão de admissibilidade, em especial o óbice da Súmula 7/STJ. Sustenta que a controvérsia é de direito, pois versa sobre a impossibilidade de custeio de tratamento em local não credenciado, com violação dos arts. 421 e 422 do Código Civil e 12 da Lei 9.656/98, e que, no AREsp, houve tópico próprio demonstrando a não incidência da Súmula 7/STJ.
+Na sua impugnação ao agravo interno, SOCIEDADE BENEFICENTE SÃO CAMILO alega que a tese da agravante demanda reexame do conjunto fático-probatório, pois seria necessário verificar a situação concreta quanto à rede credenciada e às hipóteses excepcionais de urgência/emergência. Defende a correção da decisão monocrática por aplicação da Súmula 7/STJ e requer a negativa de provimento, com condenação em custas e honorários.
+É o relatório.
+EMENTA
+AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. AÇÃO DE COBRANÇA. PLANO DE SAÚDE. AUSÊNCIA DE IMPUGNAÇÃO AOS FUNDAMENTOS DA DECISÃO AGRAVADA. REPRODUÇÃO DAS RAZÕES DO RESP. ART. 932, III, DO CÓDIGO DE PROCESSO CIVIL. SÚMULA 182/STJ. DECISÃO MANTIDA.
+1. Nos termos do art. 932, III, do Código de Processo Civil e do art. 253, parágrafo único, I, do Regimento Interno do Superior Tribunal de Justiça, não se conhece de agravo em recurso especial cujas razões não impugnam especificamente todos os fundamentos da decisão agravada. Aplicação do enunciado 182 da Súmula do STJ.
+2. Agravo interno a que se nega provimento.
+VOTO
+Trata-se de recurso impugnando acórdão do Tribunal de Justiça de São Paulo assim ementado:
+Apelação - Plano de saúde - Ação de Cobrança - Insurgência contra sentença que julgou procedente a lide secundária para condenar o plano de saúde, de forma regressiva - Serviços prestados em hospital credenciado - Obrigação do plano de saúde de arcar com os custos dos exames de diagnóstico - Sentença mantida - Recurso improvido.
+O recurso especial interposto pela operadora de saúde não foi admitido pelo Tribunal de origem em razão de ausência de demonstração de vulneração aos arts. 421 e 422 do Código Civil e 12 da Lei 9.656/98 e de incidência da Súmula 7/STJ.
+No seu agravo em recurso especial, a parte agravante apenas afirmou que todos os requisitos estavam presentes, que o acórdão recorrido contrariou a lei federal e que não pretendia reexame de provas, tratando-se de matéria exclusivamente de direito relacionada ao custeio de tratamento fora da rede credenciada.
+Indicou violação aos arts. 421 e 422 do Código Civil e 12 da Lei 9.656/98, com reiteradas razões de mérito e menção genérica à não incidência da Súmula 7/STJ.
+Como se vê, as razões do agravo em recurso especial deixaram de impugnar integralmente os fundamentos da decisão que não admitiu o recurso especial, haja vista que a impugnação à Súmula 7/STJ foi genérica, limitando-se a afirmar tratar-se de questão de direito e de "nova interpretação" sem demonstrar, de forma efetiva e concreta, quais premissas fáticas foram adotadas pelo acórdão recorrido e que permaneceriam incontroversas, nem por que o exame pretendido prescindiria de revolvimento do acervo probatório. Ausente, portanto, ataque específico e suficiente ao fundamento de incidência da Súmula 7/STJ, exigido para afastar o óbice.
+A propósito, a Corte Especial do STJ manteve o entendimento de que o recorrente deve impugnar especificamente todos os fundamentos da decisão agravada, sob pena de não conhecimento do agravo em recurso especial, por aplicação da Súmula 182/STJ (Embargos de Divergência em Agravo em Recurso Especial 746.775/PR, Relator Ministro João Otávio de Noronha, Relator para acórdão Ministro Luis Felipe Salomão, julgado em 19/9/2018, DJe 30/11/2018).
+Outrossim, importa esclarecer que, conforme jurisprudência pacífica deste Superior Tribunal de Justiça, a mera reprodução do recurso especial não é suficiente para impugnar a decisão agravada que não admitiu o recurso (AgInt nos EAREsp 1.157.501/SP, Rel. Ministro Moura Ribeiro, Segunda Seção, julgado em 20/8/2019, DJe 22/8/2019).
+Desse modo, sem impugnação específica e suficiente para infirmar todos os fundamentos da decisão que não admitiu o recurso especial na origem, correta a aplicação, por analogia, da Súmula 182/STJ, devendo-se manter a decisão ora agravada integralmente.
+Em face do exposto, nego provimento ao agravo interno.
+É como voto
