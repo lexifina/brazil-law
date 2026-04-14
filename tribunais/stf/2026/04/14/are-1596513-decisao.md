@@ -1,0 +1,42 @@
+DECISÃO:
+Trata-se de recurso extraordinário com agravo contra decisão de inadmissão do recurso extraordinário.
+O recurso foi interposto com fundamento na alínea "a" do permissivo constitucional.
+O acórdão recorrido  ficou assim ementado:
+
+TRIBUTÁRIO. AÇÃO DE CONHECIMENTO. CONTRIBUIÇÕES PREVIDENCIÁRIAS. VERBAS INDENIZATÓRIAS E SALARIAIS. COMPENSAÇÃO DO INDÉBITO DE ACORDO COM A LEI VIGENTE NA DATA EM QUE FOR EFETIVADA. APELAÇÃO E REMESSA NECESSÁRIA PARCIALMENTE PROVIDAS.
+1. Trata-se de apelação interposta pela ré, União (Fazenda Nacional), contra a sentença que, em ação declaratória de inexistência de relação jurídica de natureza tributária e repetição de indébito, julgou parcialmente procedente o pedido, para afastar a incidência de contribuição previdenciária patronal, para terceiros e Riscos Ambientais de Trabalho – RAT sobre verbas de natureza indenizatória da folha de salário.
+2. A União defende a incidência dessas contribuições sobre as seguintes verbas: (a) auxílio-educação; (b) auxílio-alimentação pago em dinheiro, vale ou tíquete; (c) participação nos lucros, alegando que essa matéria foi objeto do Tema 344, apreciado pelo STF em repercussão geral; (d) diárias excedentes a 50% (cinquenta por cento) da remuneração mensal do empregado; e (e) ajuda de custo em parcela única.
+3. Embora algumas verbas tenham a incidência da contribuição previdenciária afastada pelo art. 28 da Lei n. 8.212/1991, persiste o interesse processual da autora na demanda, considerando que a empresa continua pagando a respectiva contribuição, não obstante o disposto no art. 22, § 2º, da Lei n. 8.212/1991, e a União contestando as ações com esse objeto. Preliminar rejeitada.
+4. As verbas de caráter indenizatório recebidas pelo trabalhador não integram o salário de contribuição para fins de incidência de contribuição previdenciária.
+4.1 Auxílio-educação: “O STJ tem pacífica jurisprudência no sentido de que o auxílio educação, embora contenha valor econômico, constitui investimento na qualificação de empregados, não podendo ser considerado como salário in natura, porquanto não retribui o trabalho efetivo, não integrando, desse modo, a remuneração do empregado. É verba utilizada para o trabalho, e não pelo trabalho.” (AgRg no AREsp n. 182.495/RJ, relator Ministro HERMAN BENJAMIN, Segunda Turma, julgado em 26/02/2013, DJe de 07/03/2013).
+4.2. Participação nos lucros e resultados da empresa – a contribuição previdenciária não incide sobre essa verba desde que realizadas nos termos da lei (art. 28, § 9º, "j", Lei n. 8.212/1991 e Lei n. 10.101/2000). Segundo o STJ, “A jurisprudência do STJ é de que a parcela que não sofre a incidência de contribuição previdenciária, no que se refere aos valores pagos a título de participação nos lucros, é aquela paga nos moldes da Lei 10.101/2000. Nesse sentido: REsp 1.216.838/RS, Rel. Ministro Castro Meira, DJe 19/12/2011. (REsp n. 1.650.783/SP, Relator Ministro HERMAN BENJAMIN, Segunda Turma em 26/09/2017, Dje 19/12/2017).
+4.3. Diárias de viagem: “É dominante a orientação do Superior Tribunal de Justiça de que não incide contribuição previdenciária sobre o valor de diárias para viagens, desde que não exceda a 50% da remuneração mensal.” (AgInt no REsp n. 1.590.233/RN, relator Ministro NAPOLEÃO NUNES MAIA FILHO, Primeira Turma em 05/10/2020, DJe de 08/10/2020).
+5. As verbas de caráter salarial (que remuneram a atividade laboral) recebidas pelo trabalhador integram o salário de contribuição para fins de incidência de contribuição previdenciária.
+5.1. Auxílio alimentação: o STJ, ao julgar os REsps 1.995.437/CE e 2.004.478/SP, em 26/04/2023, fixou tese para o Tema 1.164: “Incide a contribuição previdenciária a cargo do empregador sobre o auxílio-alimentação pago em pecúnia.” (REsp n. 1.995.437/CE, relator Ministro GURGEL DE FARIA, Primeira Seção, julgado em 26/04/2023, DJe de 12/05/2023).
+6. As contribuições previdenciárias e de intervenção no domínio econômico (de terceiros: Incra, FNDE, entidades do Sistema “S”, Apex-Brasil, ABDI, etc.) têm a mesma base de cálculo: a folha de salário (Lei n. 8.212/1991, art. 21, RE 396.266/SC, Plenário em 26/11/2003). Por isso, ambas incidem sobre verbas salariais e não incidem sobre verbas indenizatórias. A Lei n. 8.212/1991 instituiu o Plano de Custeio da Previdência Social e estabeleceu a contribuição de 20% sobre a folha de salários (art. 22, inciso I) e um adicional de 1% a 3% previsto no inciso II desse artigo sobre essa mesma base a ser pago pela empresa a título de Risco Ambiental do Trabalho RAT. Não devem incidir esses tributos e seus adicionais quando a verba é indenizatória.
+7. Sem arbitramento de honorários recursais (Tema 1.059 do STJ). 8. Apelação da União e remessa necessária parcialmente providas.
+
+Opostos os embargos de declaração, foram rejeitados.
+No recurso extraordinário sustenta-se violação do(s) art.(s) 194, VI; 195, I; 197, V; e 201, caput, e §11, da Constituição Federal.
+Decido.
+Analisados os autos, verifica-se que a controvérsia acerca da habitualidade e da natureza jurídica das verbas questionadas, para fins de delimitação da base de cálculo da contribuição previdenciária patronal, tem natureza infraconstitucional, o que não enseja a abertura da via extraordinária. Nesse sentido, confira-se:
+
+AGRAVO INTERNO NO RECURSO EXTRAORDINÁRIO COM AGRAVO. TRIBUTÁRIO. MANDADO DE SEGURANÇA. CONTRIBUIÇÃO PREVIDENCIÁRIA PATRONAL. BASE DE CÁLCULO. VALORES PAGOS PELO EMPREGADOR. CONSTITUCIONALIDADE SE PAGO COM HABITUALIDADE E EM RETRIBUIÇÃO DIRETA À ATIVIDADE LABORAL. FÉRIAS GOZADAS. NATUREZA DA VERBA. INTERPRETAÇÃO DE NORMAS INFRACONSTITUCIONAIS. IMPOSSIBILIDADE EM SEDE EXTRAORDINÁRIA. AGRAVO INTERNO DESPROVIDO. (ARE nº 1.095.542/RJ, Primeira Turma, Rel. Min. Luiz Fux , Dje de 1º/04/2020)
+
+Agravo regimental em recurso extraordinário com agravo. 2. Direito Administrativo. 3. Incidência de contribuição previdenciária sobre a Gratificação de Atividade de Combate e Controle de Endemias (GACEN). Natureza da verba. 4. Matéria infraconstitucional. Ofensa reflexa à Constituição Federal. 4. Ausência de argumentos capazes de infirmar a decisão agravada. 5. Negado provimento ao agravo regimental, sem majoração da verba honorária. (ARE nº 1.228.175/CE AgR, Segunda Turma, Rel. Min. Gilmar Mendes, Dje de 10/12/2019)
+
+RECURSO EXTRAORDINÁRIO CONTRIBUIÇÃO PREVIDENCIÁRIA PATRONAL COMPOSIÇÃO DA BASE DE CÁLCULO PARCELAS HABITUALMENTE PAGAS PELO EMPREGADOR ORIENTAÇÃO QUE PREVALECE NO SUPREMO TRIBUNAL TRIBUNAL EM RAZÃO DE JULGAMENTO FINAL, COM REPERCUSSÃO GERAL, DO RE 565.160/SC DISCUSSÃO EM TORNO DA NATUREZA JURÍDICA DE DETERMINADOS PARCELAS PERCEBIDAS PELO EMBREGADO, PARA FINS DE INCIDÊNCIA, OU NÃO, DA REFERIDA CONTRIBUIÇÃO OFENSA INDIRETA À CONSTITUIÇÃO CONTENCIOSO DE MERA LEGALIDADE SUCUMBÊNCIA RECURSAL (CPC, ART. 85, § 11) NÃO DECRETAÇÃO, NO CASO, ANTE A INADMISSIBILIDADE DE CONDENAÇÃO EM VERBA HONORÁRIA, POR TRATAR-SE DE PROCESSO DE MANDADO DE SEGURANÇA (SÚMULA 512/STF E LEI Nº 12.016/2009, ART. 25) AGRAVO INTERNO IMPROVIDO. (RE nº 1.144.163/SP AgR, Segunda Turma, Rel. Min. Celso de Mello , Dje de 25/11/2019)
+
+Ainda no mesmo sentido a seguintes decisões monocráticas: RE 1.212.932, Rel. Min. Luiz Fux, Dje de 21/11/2019; ARE nº 1.241.661, Rel. Min. Gilmar Mendes , Dje de 22/11/2019; RE nº 1.249.349, Rel. Min. Ricardo Lewandowski , Dje de 17/01/2020.
+Ademais, o Supremo Tribunal Federal, nos autos do ARE 1.260.750, Rel. Min. Presidente, Tribunal Pleno, DJe de 15/09/2020 (Tema 1.100), decidiu pela ausência de repercussão geral da matéria sub examine, ante a reconhecida infraconstitucionalidade, nos seguintes termos:
+
+“Na definição individualizada da natureza jurídica de verbas percebidas pelo empregado, bem como de sua respectiva habitualidade, para fins de incidência da contribuição previdenciária a cargo do empregador sobre a folha de salários e demais rendimentos conforme o art. 22, I, da Lei nº 8.212/1991.”
+
+Ante o exposto, nego seguimento ao recurso (alínea c do inciso V do art. 13 do Regimento Interno do Supremo Tribunal Federal).
+Havendo prévia fixação de honorários advocatícios pelas instâncias de origem, seu valor monetário será majorado em 10% (dez por cento) em desfavor da parte recorrente, nos termos do art. 85, § 11, do Código de Processo Civil, observado os limites dos §§ 2º e 3º do referido artigo e a eventual concessão de justiça gratuita.
+Publique-se.
+Brasília, 14 de abril de 2026.
+
+Ministro EDSON FACHIN
+Presidente
+Documento assinado digitalmente
