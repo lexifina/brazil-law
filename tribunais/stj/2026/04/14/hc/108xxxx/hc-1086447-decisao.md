@@ -1,0 +1,10 @@
+DECISÃO
+Trata-se de habeas corpus, impetrado em nome de ANDERSON TORRES DA COSTA - condenado por homicídio qualificado tentado a 9 anos e 4 meses de reclusão (fls. 12/18 - Ação Penal n. 1510082-08.2020.8.26.0554, da Vara do Júri e Execuções da comarca de Santo André/SP) -, apontando como ato coator o acórdão de apelação criminal proferido pelo Tribunal de Justiça de São Paulo, que manteve a sentença (fls. 19/28).
+A impetração pretende a revisão da dosimetria para que seja considerado, na primeira fase da pena, o comportamento da vítima, alegando omissão das instâncias ordinárias quanto a esse vetor do art. 59 do Código Penal, sua autonomia em relação à tese da violenta emoção rejeitada pelo Júri e a existência de elementos nos autos que indicariam contribuição da vítima para o fato.
+Entretanto, o writ não pode ser conhecido, porque, além de se tratar de impetração destinada a revisar novamente a condenação imposta e mantida pelas instâncias ordinárias (HC n. 1.021.432/MG, de minha relatoria, Sexta Turma, DJEN de 16/12/2025), as alegações de omissão na primeira fase da dosimetria acerca do comportamento da vítima (art. 59 do Código Penal), distinção entre a tese rejeitada de violenta emoção e a circunstância judicial "comportamento da vítima", e existência de elementos fáticos de contribuição da vítima para o evento não foram debatidas pela Corte estadual no acórdão de apelação (fls. 19/28) nem na sentença condenatória (fls. 12/18), de forma que sua análise pelo Superior Tribunal de Justiça configuraria indevida supressão de instância.
+Nesse sentido: HC n. 964.852/SC, Ministro Antonio Saldanha Palheiro, Sexta Turma, DJEN de 10/12/2025.
+Em razão disso, não conheço da impetração.
+Publique-se.
+EMENTA
+PENAL. HABEAS CORPUS. HOMICÍDIO QUALIFICADO TENTADO. DOSIMETRIA. COMPORTAMENTO DA VÍTIMA. ART. 59 DO CÓDIGO PENAL. ALEGAÇÃO DE OMISSÃO NAS INSTÂNCIAS ORDINÁRIAS. AUTONOMIA DO VETOR EM RELAÇÃO À VIOLENTA EMOÇÃO. EXISTÊNCIA DE ELEMENTOS NOS AUTOS. VIA ELEITA INADEQUADA PARA REVISAR CONDENAÇÃO. SUPRESSÃO DE INSTÂNCIA.
+Writ não conhecido.
