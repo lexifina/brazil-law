@@ -1,0 +1,43 @@
+DECISÃO: Trata-se de reclamação constitucional ajuizada pelo Ministério Público da Bahia contra decisão da desembargadora relatora da Ação Penal Originária nº 0002183-68.2017.8.05.0248, no âmbito do Tribuna de Justiça daquele Estado.
+O reclamante alega que “OSNI CARDOSO DE ARAÚJO foi denunciado, juntamente com o corréu Mauro Bacellar de Oliveira Filho, perante o colendo Tribunal de Justiça do Estado da Bahia, em razão da prática do crime insculpido no art. 1º, inc. I, do Decreto-Lei nº 201/672.”
+Afirma que “A denúncia demonstra que o aludido crime foi cometido durante o exercício do mandato de Prefeito do município de Serrinha/BA, bem como em razão do aludido cargo. Após o término do referido mandato, o Tribunal de Justiça do Estado, em 06 de março de 2017, com base no entendimento jurisprudencial então vigente3, declinou da competência para o processamento e julgamento do feito e determinou a remessa da ação penal para a primeira instância.”
+Aduz que “O MM. Juízo da 2ª Vara Criminal da Comarca de Serrinha/BA, então, recebeu a denúncia em 02 de outubro de 2024. Em 12 de maio de 2025, o referido Juízo - com fulcro no entendimento consolidado por essa egrégia Suprema Corte no HC 232.627/DF e no Inq 4787 -, determinou a remessa da ação penal ao Tribunal de Justiça do Estado da Bahia.”
+Pontua que “no entanto, que a eminente Desembargadora Relatora da multicitada ação penal (nº 0002183-68.2017.8.05.0248) decidiu que a competência para processar e julgar o feito é do juízo de primeiro grau, determinando a consequente remessa/devolução dos autos.”
+A desembargadora se recusou a submeter o agravo interno à apreciação do colegiado.
+Nesta reclamação, o MPBA requer “a procedência integral do pedido formulado na presente RECLAMAÇÃO CONSTITUCIONAL, para cassar a decisão proferida pela eminente Desembargadora Relatora do processo nº 0002183-68.2017.8.05.0248, em trâmite no Tribunal de Justiça do Estado da Bahia, e determinar a competência da aludida Corte Estadual para processar e julgar a referida ação penal;”
+A Procuradoria-Geral da República opinou pela procedência da reclamação. (eDOC 8)
+É o relatório.
+Decido.
+
+Registro que, nos termos da Constituição Federal, compete ao STF processar e julgar originariamente reclamação para a preservação de sua competência e garantia da autoridade de suas decisões (art. 102, I, “l’, da CF/88).
+Nesse sentido, o Código de Processo Civil estabelece o rol das hipóteses de cabimento da reclamação, conforme a seguir transcrito:
+
+“Art. 988. Caberá reclamação da parte interessada ou do Ministério Público para:
+I - preservar a competência do tribunal;
+II - garantir a autoridade das decisões do tribunal;
+III garantir a observância de enunciado de súmula vinculante e de decisão do Supremo Tribunal Federal em controle concentrado de constitucionalidade; (Redação dada pela Lei nº 13.256, de 2016)
+IV - garantir a observância de acórdão proferido em julgamento de incidente de resolução de demandas repetitivas ou de incidente de assunção de competência (…).”
+
+Na situação dos autos, conforme narrado, o reclamante aduz transgressão ao decidido por este Supremo Tribunal Federal no Habeas Corpus nº 232.627/DF, no qual o Plenário desta Corte fixou tese no sentido de que a prerrogativa de foro para julgamento de crimes praticados no cargo e em razão das funções subsiste mesmo após o afastamento do cargo, ainda que o inquérito ou a ação penal sejam iniciados depois de cessado seu exercício.
+Passo a examinar a questão suscitada nesta reclamação a partir do que assentei no exame do HC 232.627/DF, do qual fui Relator.
+Naquele julgamento, ponderei que a prerrogativa de foro assegura a certos agentes o direito de serem julgados por órgãos específicos do Poder Judiciário, afastadas as regras comuns de competência em matéria penal, cujo objetivo é preservar o interesse da sociedade no sentido de que esses agentes possam exercer livremente suas funções, protegidos contra pressões indevidas, com ampla autonomia.
+Destaquei as oscilações jurisprudenciais sobre a abrangência do instituto, com definição da extensão do foro especial ora pela natureza do delito (contemporaneidade e pertinência temática), ora pelo exercício atual de funções públicas (atualidade), que, a meu ver, traduz o propósito do art. 53, §1º, da Constituição de 1988 (“Os Deputados e Senadores, desde a expedição do diploma, serão submetidos a julgamento perante o Supremo Tribunal Federal”).
+Enfatizei que o entendimento até então prevalecente, firmado no julgamento da AP 937-QO, Rel. Min. Roberto Barroso, DJe 11.12.2018, no sentido de que a prerrogativa de foro deve ser limitada aos crimes praticados no cargo e em razão do cargo, reduz indevidamente o alcance da prerrogativa de foro, de modo a distorcer seus fundamentos e frustrar o atendimento dos fins perseguidos pelo legislador. Ele também é contraproducente, por causar flutuações de competência no decorrer das causas criminais e por trazer instabilidade para o sistema de Justiça.
+No voto por mim proferido, sustentei que a interpretação do foro especial deve ser concebida e aplicada em vista da natureza do crime praticado pelo agente, e não de critérios temporais relacionados ao exercício atual do mandato. Daí a necessidade de estabelecer um critério geral mais abrangente, focado na natureza do fato criminoso, e não em elementos que podem ser manobrados pelo acusado (permanência no cargo), preservando os aspectos centrais do entendimento firmado na AP 937-QO.
+Diante desse quadro, propus, no julgamento do HC 232.627/DF, a fixação da seguinte tese: a prerrogativa de foro para julgamento de crimes praticados no cargo e em razão das funções subsiste mesmo após o afastamento do cargo, ainda que o inquérito ou a ação penal sejam iniciados depois de cessado seu exercício, no que fui acompanhado pela maioria dos Ministros desta Suprema Corte.
+Feitas essas considerações, observa-se ser incontroverso nos autos que as condutas imputadas ao beneficiário Osnir teriam sido praticadas quando exercia o cargo de prefeito do Município de Serrinha, na Bahia, tendo relação com suas funções públicas.
+Assiste razão o reclamante.
+A desembargadora relatora, ao manter a competência do Juízo de primeiro grau, asseverou que “a decisão que fixa a competência absoluta, uma vez transitada em julgado, reveste-se de caráter definitivo e imutável, não podendo ser revista a posteriori em virtude de simples alteração jurisprudencial superveniente.” (eDOC 3)
+Dessa forma, como se pode observar, a decisão reclamada incorreu em evidente desrespeito à autoridade das decisões desta Suprema Corte. Conforme expressamente assentado no julgamento do HC 232.627/DF, e reiterado na Questão de Ordem no Inq. 4787 (DJe 27.5.2025), a nova orientação jurisprudencial tem aplicação imediata aos processos em curso.
+No julgamento HC 232.627/DF, sustentei “a aplicação imediata da nova interpretação aos processos em curso, com a ressalva de todos os atos praticados pelo STF e pelos demais Juízos com base na jurisprudência anterior”.
+Essa ressalva buscou a preservação da validade dos atos processuais já praticados, como o recebimento da denúncia, decisões diversas ou atos instrutórios, a fim de garantir a celeridade e a economia processual, e não a perpetuação de uma decisão sobre competência que se tornou obsoleta diante do novo entendimento deste Tribunal.
+Nesse sentido, torna-se desnecessário, portanto, procedimento de convalidação das decisões já proferidas.
+Portanto, embora inicialmente a competência do Tribunal de Justiça da Bahia tenha sido declinada com base na jurisprudência anterior deste Supremo Tribunal, tem-se que, antes do prosseguimento da ação na primeira instância, sobreveio o novo entendimento do STF.
+O Juízo de primeiro grau, em respeito ao que decidido por esta Corte no HC 232.627/DF, determinou o retorno dos autos ao Tribunal. Em nova manifestação, durante a vigência do entendimento firmado no HC 232.627/DF, a desembargadora relatora manteve o entendimento de que aquele juízo seria incompetente e que os autos deveriam retornar ao Juízo de primeiro grau, decisão que contraria o entendimento da Corte.
+Ante o exposto, julgo procedente a reclamação para cassar a decisão da desembargadora relatora do Tribunal de Justiça da Bahia, proferida nos autos da Ação Penal Originária nº 0002183-68.2017.8.05.0248 (eDOC 3) e assentar a competência daquela Corte para o processamento e julgamento do feito, preservados todos os atos processuais já praticados, nos termos do HC 232.627/DF.
+Publique-se.
+Brasília, 14 de abril de 2026.
+
+Ministro GILMAR MENDES
+Relator
+Documento assinado digitalmente
