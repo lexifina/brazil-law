@@ -1,0 +1,296 @@
+Poder Judiciário
+Justiça do Trabalho
+Tribunal Superior do Trabalho
+PROCESSO Nº TST-Ag-ED-ROT - 6183-13.2021.5.15.0000
+A C Ó R D Ã O
+Subseção II Especializada em Dissídios Individuais
+GMARPJ/ebb/cgr/er
+DIREITO PROCESSUAL DO TRABALHO. AGRAVO EM RECURSO
+ORDINÁRIO. DECADÊNCIA. PRAZOS DOS ARTS. 525, § 15, 535, §
+8°, DO CPC. QUESTÃO DE ORDEM ARGUIDA NA AÇÃO
+RESCISÓRIA (AR) 2.876.
+A ação rescisória foi proposta em 30/3/2021, observando,
+portanto, o prazo de dois anos previsto no art. 525, § 15, do CPC
+e o decidido pelo Supremo Tribunal Federal, em julgamento de
+questão de ordem, na Ação Rescisória (AR) 2.876.)
+APLICAÇÃO DOS ÍNDICES FIXADOS PELO CONSELHO DE
+REITORES DAS UNIVERSIDADES PAULISTAS (CRUESP).
+PRINCÍPIO DA ISONOMIA. SÚMULA VINCULANTE N. 37 DO STF
+E ART. 37, X, DA CONSTITUIÇÃO DA REPÚBLICA.
+1. A inobservância do art. 37, X, da Constituição da República
+obsta a concessão de diferenças salariais decorrentes da
+aplicação dos reajustes fixados pelo Conselho de Reitores das
+Universidades do Estado de São Paulo (CRUESP) aos
+empregados de instituições diversas, a fim de garantir a
+isonomia de índices em relação aos servidores das
+Universidades Estaduais Paulistas.
+2. O acórdão rescindendo ao estender à ré os mesmos índices
+fixados pela CRUESP, em última análise, concedeu reajuste
+salarial a servidor municipal sem a corresponde lei específica de
+iniciativa do chefe do Poder Executivo, contrariando a Súmula
+Vinculante n. 37 do Supremo Tribunal Federal e violando o artigo
+37, X, da Constituição da República.
+3. Acrescente-se que, estando o pedido de corte rescisório
+fundamentado em violação manifesta de norma constitucional,
+não incidem os óbices das Súmulas n. 83 do TST e n. 343 do STF;
+notadamente por se tratar de incontestável equívoco
+interpretativo quanto ao sólido entendimento do STF, firmado
+desde 1963, e não de reformulação de jurisprudência daquela
+Corte.
+BENEFICIÁRIO DA JUSTIÇA GRATUITA. HONORÁRIOS
+ADVOCATÍCIOS DEVIDOS. SUSPENSÃO DA EXIGIBILIDADE.
+INCIDÊNCIA DA NORMA PROCESSUAL CIVIL, NÃO
+CONTEMPLADA NA DECISÃO PROFERIDA PELO SUPREMO
+TRIBUNAL FEDERAL NA ADI 5.766. ARBITRAMENTO DA VERBA
+HONORÁRIA NO PERCENTUAL MÍNIMO PREVISTO NO CPC.
+1. Estabelece a Súmula n. 219, IV, deste TST que, “na ação
+rescisória e nas lides que não derivem de relação de emprego, a
+responsabilidade pelo pagamento dos honorários advocatícios da
+sucumbência submete-se à disciplina do Código de Processo Civil
+(arts. 85, 86, 87 e 90)”.
+2. Inaplicável, nesse cenário, o disposto no art. 791-A, § 4º, da
+CLT, cuja inconstitucionalidade fora declarada pelo excelso STF,
+a despeito do que decidido no acórdão recorrido.
+3. Ao revés, incide ao caso o disposto nos §§ 2º e 3º do art. 98 da
+Norma Processual Civil.
+4. Deferidos os benefícios da justiça gratuita, portanto, de rigor a
+manutenção da condenação ao pagamento da verba honorária,
+bem como a ressalva efetuada quanto à suspensão de sua
+exigibilidade, a teor do disposto nos §§ 2º e 3º do art. 98 da
+Norma Processual Civil.
+Agravo a que se nega provimento.
+Vistos, relatados e discutidos estes autos de Agravo em Embargos de Declaração
+em Recurso Ordinário Trabalhista nº TST-Ag-ED-ROT - 6183-13.2021.5.15.0000, em que é Agravante(s)
+LUIZ FELIPE FERREIRA e é Agravado(s) CENTRO ESTADUAL DE EDUCAÇÃO TECNOLÓGICA PAULA
+SOUZA. Este documento pode ser acessado no endereço eletrônico http://www.tst.jus.br/validador sob código 10066EE733FC759929.
+Trata-se de agravo interposto em face de decisão monocrática que negou
+provimento ao recurso ordinário interposto pelo réu.
+Foi apresentada contraminuta ao agravo (fls. 374-393).
+É o relatório.
+V O T O
+1. CONHECIMENTO
+Satisfeitos os pressupostos legais de admissibilidade recursal pertinentes à
+tempestividade (fls. 261 e 280) e à regularidade de representação (fl. 103), CONHEÇO do agravo.
+2. MÉRITO
+2.1 DECADÊNCIA. PRAZOS DOS ARTS. 525, § 15, 535, § 8°, DO CPC. QUESTÃO DE
+ORDEM ARGUIDA NA AÇÃO RESCISÓRIA (AR) 2.876
+Em agravo, o réu alega que: a) a ação rescisória proposta pelo CEETEPS deveria ser
+extinta devido à decadência, uma vez que o prazo para ajuizamento da ação rescisória, conforme o
+artigo 975 do CPC, já teria expirado em 22/09/2017; b) o artigo 535, § 8º, do CPC, que embasa a ação
+rescisória, não interrompe a decadência, nem cria um novo direito, sendo que a aplicação do novo
+dispositivo processual, após o prazo decadencial, violaria a segurança jurídica (art. 5º, XXXVI, da CF) e a
+coisa julgada (art. 502 do CPC).
+Os artigos 525, § 15, e 535, § 8º, do CPC preveem o cabimento de ação rescisória,
+quando verificado que a coisa julgada está fundada em lei ou ato normativo considerado
+inconstitucional pelo Supremo Tribunal Federal, ou em aplicação ou interpretação da lei ou do ato
+normativo tido pelo Supremo Tribunal Federal como incompatível com a Constituição Federal, em
+controle de constitucionalidade concentrado ou difuso.
+Por sua vez, o Supremo Tribunal Federal, em julgamento de questão de ordem na
+Ação Rescisória (AR) 2.876, fixou, em 23/4/2025, a seguinte tese:
+“O § 15 do art. 525 e o § 8º do art. 535 do Código de Processo Civil devem ser interpretados
+conforme a Constituição, com efeitos ex nunc, no seguinte sentido, com a declaração incidental de
+inconstitucionalidade do § 14 do art. 525 e do § 7º do art. 535:
+1. Em cada caso, o Supremo Tribunal Federal poderá definir os efeitos temporais de seus
+precedentes vinculantes e sua repercussão sobre a coisa julgada, estabelecendo inclusive a extensão
+da retroação para fins da ação rescisória ou mesmo o seu não cabimento diante do grave risco de
+lesão à segurança jurídica ou ao interesse social.
+2. Na ausência de manifestação expressa, os efeitos retroativos de eventual rescisão não
+excederão cinco anos da data do ajuizamento da ação rescisória, a qual deverá ser proposta no
+prazo decadencial de dois anos contados do trânsito em julgado da decisão do STF.
+3. O interessado poderá apresentar a arguição de inexigibilidade do título executivo judicial
+amparado em norma jurídica ou interpretação jurisdicional considerada inconstitucional pelo STF,
+seja a decisão do STF anterior ou posterior ao trânsito em julgado da decisão exequenda, salvo
+preclusão (Código de Processo Civil, arts. 525, caput, e 535, caput).”
+Na forma do decidido, e inexistindo de modulação de efeitos dos precedentes
+vinculantes, o prazo decadencial de 2 anos para a propositura da ação rescisória é contado do trânsito
+em julgado da decisão da Suprema Corte, todavia, os efeitos retroativos de eventual rescisão não
+excederão 5 anos da data do ajuizamento da demanda desconstitutiva.
+Note-se que não obstante tenha sido instaurado no TST o incidente de arguição
+de inconstitucionalidade a respeito dos mesmos dispositivos (ArgInc n° 20117-10.2022.5.04.0000), o
+relator do caso, Ministro Luiz José Dezena da Silva, concluiu pela perda do objeto da controvérsia, uma
+vez que a matéria já foi decidida pela Corte Suprema.
+Assim, ainda que transitado em julgado o acórdão rescindendo em 22/09/2017 e
+ajuizada a presente demanda desconstitutiva em 30/3/2021, não há que se falar em decadência da
+pretensão rescisória, a qual se sujeita exclusivamente ao prazo decadencial de dois anos contados do
+trânsito em julgado da decisão do STF, que no caso do ARE 1.057.577/SP se deu em 16/4/2019.
+APLICAÇÃO DOS ÍNDICES FIXADOS PELO CONSELHO DE REITORES DAS
+Este documento pode ser acessado no endereço eletrônico http://www.tst.jus.br/validador sob código 10066EE733FC759929.
+UNIVERSIDADES PAULISTAS (CRUESP). PRINCÍPIO DA ISONOMIA. SÚMULA VINCULANTE N. 37 DO STF
+E ART. 37, X, DA CONSTITUIÇÃO DA REPÚBLICA.
+Este Relator, por decisão monocrática, negou provimento ao recurso ordinário
+interposto pelo réu, mediante os seguintes fundamentos (fls. 296-301):
+[...]
+A decisão rescindenda reconheceu o direito à extensão dos reajustes fixados pelo Conselho de
+Reitores das Universidades do Estado de São Paulo – CRUESP e concedidos aos servidores da
+Universidade Estadual Paulista "Júlio de Mesquita Filho" - UNESP à ré, empregada da CETTEPS,
+considerando a vinculação econômico-financeira havida entre elas.
+Sobre a matéria, há disciplina específica no art. 37, X, da Constituição da República, no sentido
+de que “a remuneração dos servidores públicos e o subsídio de que trata o § 4º do art. 39 somente
+poderão ser fixados ou alterados por lei específica, observada a iniciativa privativa em cada caso,
+assegurada revisão geral anual, sempre na mesma data e sem distinção de índices".
+Por sua vez, o art 169, § 1°, I e II, da Constituição da República dispõe que:
+Art. 169. A despesa com pessoal ativo e inativo da União, dos Estados, do Distrito Federal e
+dos Municípios não poderá exceder os limites estabelecidos em lei complementar.
+§ 1º A concessão de qualquer vantagem ou aumento de remuneração, a criação de cargos,
+empregos e funções ou alteração de estrutura de carreiras, bem como a admissão ou contratação
+de pessoal, a qualquer título, pelos órgãos e entidades da administração direta ou indireta,
+inclusive fundações instituídas e mantidas pelo poder público, só poderão ser feitas:
+I - se houver prévia dotação orçamentária suficiente para atender às projeções de despesa
+de pessoal e aos acréscimos dela decorrentes;
+II - se houver autorização específica na lei de diretrizes orçamentárias, ressalvadas as
+empresas públicas e as sociedades de economia mista.
+Por certo, os artigos 37, X, e 169, § 1º, I e II, da Carta de 1988 exigem que a remuneração dos
+servidores públicos seja fixada ou alterada por meio de lei específica e com prévia dotação
+orçamentária, a despeito da autonomia financeira das universidades.
+A Súmula 339 do STF, de 1963, já firmava diretriz no sentido de que não cabe ao Poder
+Judiciário, que não tem função legislativa, aumentar vencimentos dos servidores públicos ao
+fundamento de isonomia, sendo pacífico naquela corte, desde então, o entendimento de que o
+aumento de vencimentos de servidores públicos depende de lei específica e não pode ser imposto
+pelo Poder Judiciário apenas com base no princípio da isonomia.
+Em 28/8/2014, o Supremo Tribunal Federal quando do julgamento do Recurso Extraordinário
+592.317/RJ (Tema 315 da tabela de repercussão geral), reafirmou a vedação da concessão judicial de
+aumento remuneratório a servidor público com base no princípio da isonomia, sem previsão
+específica em lei, dando ensejo a edição da Súmula Vinculante 37, de seguinte teor:
+Não cabe ao Poder Judiciário, que não tem a função legislativa, aumentar vencimentos de
+servidores públicos sob o fundamento de isonomia.
+Tendo em vista a inexistência de lei específica para a extensão de reajuste salarial fixado pelo
+CRUESP a empregados de instituições diversas, esta Corte Superior adequou seu antigo
+posicionamento ao entendimento da Suprema Corte, conforme os seguintes precedentes:
+[...]
+Especificamente sobre a extensão dos reajustes concedidos pela CRUESP, o Supremo Tribunal
+Federal, em 16/4/2019, no julgamento do ARE 1057577/DF (Tema 1027 da tabela de temas de
+repercussão geral), confirmou a jurisprudência já assentada por aquela Corte, fixando a tese de que
+a “extensão, pelo Poder Judiciário, das verbas e vantagens concedidas pelo Conselho de Reitores das
+Universidades do Estado de São Paulo (Cruesp) aos empregados das instituições de ensino autônomas
+vinculadas às universidades estaduais paulistas contraria o disposto na Súmula Vinculante 37”.
+Como se vê, a concessão das diferenças salariais pela decisão rescindenda afrontou os termos
+do artigo 37, X, da CF, e da Súmula Vinculante 37 do E. STF.
+Ilustram esse entendimento precedentes desta Subseção:
+[...]
+Esclareça-se que, estando o pedido de corte rescisório fundamentado em violação manifesta
+de norma constitucional, não incidem os óbices das Súmulas n° 83 do TST e 343 do STF; notadamente
+por se tratar de incontestável equívoco interpretativo quanto ao sólido entendimento do STF,
+firmado desde 1963, e não de reformulação de jurisprudência daquela Corte.
+Ante o exposto, nego provimento.
+Opostos embargos de declaração, estes foram parcialmente providos apenas para
+prestar esclarecimentos quanto ao prazo decadencial (fl. 348):
+[...]
+No que diz respeito à decadência, verifica-se, de plano, que a questão objeto da pretensão
+rescisória diz respeito à análise da constitucionalidade da extensão aos servidores do Centro
+Estadual de Educação Tecnológica Paula Souza dos reajustes fixados pelo Conselho de Reitores das
+Universidades do Estado de São Paulo – CRUESP.
+É certo que já externei entendimento de que a pretensão não se adequaria à hipótese de
+rescindibilidade de que trata o art. 535, § 8°, do CPC, e sim aquela prevista no art. 966, V, do CPC, o
+que importaria, em última análise, o reconhecimento da decadência.
+Contudo, melhor refletindo, e considerando os intensos debates ocorridos na SBDI-II desta
+Corte, reflui para adotar a compreensão de que a matéria envolve juízo próprio de controle difuso
+de constitucionalidade, possibilitando a aplicação do art. 535, §§ 5° e 8°, do CPC.
+Nessa linha: TutCautAnt - 1000938-84.2022.5.00.0000, SBDI-II, relator Ministro Luiz Jose Dezena
+da Silva, DJe de 9/11/2022; AR - 6174-51.2021.5.15.0000, SBDI-II, relator Ministro Douglas Alencar
+Rodrigues, DJe 16/5/2023.
+No caso, a presente ação rescisória, intentada em 30/3/2021, foi proposta dentro do prazo legal
+(art. 535, § 8º, do CPC), pois a decisão proferida pelo Excelso Supremo Tribunal Federal no ARE
+1.057.577/SP, com trânsito em julgado em 16/4/2019, é posterior ao trânsito em julgado do acórdão
+rescindendo, cuja condenação tornou-se definitiva em 22/9/2017 (fl. 38).
+Reitere-se, que o STF, no julgamento do ARE 1.057.577/SP, submetido à sistemática da
+repercussão geral, decidiu que a extensão das vantagens concedidas pelo Conselho de Reitores das
+Universidades do Estado de São Paulo - CRUESP aos empregados das instituições de ensino
+autônomas vinculadas às universidades estaduais paulistas contraria o artigo 37, X, da CF e a Súmula
+Vinculante nº 37 daquela Corte Suprema. Não se verificando qualquer distinção com o caso dos
+autos. Este documento pode ser acessado no endereço eletrônico http://www.tst.jus.br/validador sob código 10066EE733FC759929.
+A agravante sustenta que o caso em questão se enquadra em "distinguishing",
+pois as razões que levaram à decisão no ARE 1.057.577 não se aplicam ao caso em tela, na medida em
+que a decisão que o CEETEPS busca rescindir não se baseia na extensão de reajustes salariais por
+isonomia, mas na interpretação de uma norma legal específica (vinculação do CEETEPS à UNESP), que
+determina o pagamento do índice CRUESP. Argui que a decisão monocrática deveria ser reformada, pois
+o índice CRUESP não representa concessão de aumento de vencimentos.
+A decisão rescindenda reconheceu o direito do réu às diferenças salariais
+decorrentes da aplicação dos reajustes fixados pelo Conselho de Reitores das Universidades do Estado
+de São Paulo – CRUESP, em face do disposto na Lei Estadual n. 8.898/94, bem como no artigo 71 do
+Decreto Estadual n. 41.554/97.
+Como consignado na decisão agravada, o Supremo Tribunal Federal, quando do
+julgamento do Recurso Extraordinário 592.317/RJ (Tema 315 da sua Tabela de Repercussão Geral),
+reafirmou a vedação consubstanciada em sua Súmula nº 339 desde 1963 de concessão judicial de
+aumento remuneratório a servidor público com base no princípio da isonomia, sem previsão específica
+em lei, dando ensejo à edição da Súmula Vinculante 37.
+Em 2 de fevereiro de 2019, o Supremo Tribunal Federal, no julgamento do ARE
+1.057.577/SP (Tema 1.027 da sua Tabela de Repercussão Geral), fixou a tese de que a “extensão, pelo
+Poder Judiciário, das verbas e vantagens concedidas pelo Conselho de Reitores das Universidades do Estado
+de São Paulo (Cruesp) aos empregados das instituições de ensino autônomas vinculadas às universidades
+estaduais paulistas contraria o disposto na Súmula Vinculante 37”.
+Na presente hipótese, a decisão rescindenda manteve a condenação da
+Faculdade de Medicina de São José do Rio Preto - FAMERP a pagar à parte autora as diferenças salariais
+decorrentes de reajustes conferidos pelo CRUESP, sob o fundamento de que a política salarial da
+FAMERP, apesar desta possuir autonomia de gestão administrativa, financeira e patrimonial de acordo
+com a Lei nº 8.899/94, deveria observar os reajustes provenientes das resoluções do CRUESP em relação
+a seus funcionários, conforme interpretação do Decreto Estadual nº 41.228/1996, de forma a garantir os
+mesmos índices de reajuste concedidos aos servidores das universidades estaduais paulistas.
+Destarte, a concessão das diferenças salariais pela decisão rescindenda afrontou
+os termos do art. 37, X, da Constituição Federal e da Súmula Vinculante 37 do Supremo Tribunal Federal,
+por não terem respaldo em lei específica de iniciativa do Chefe do Poder Executivo.
+Por fim, esclarece-se que, estando o pedido de corte rescisório fundamentado em
+violação manifesta de norma constitucional, não incidem os óbices das Súmulas nº 83 do TST e 343 do
+STF, por se tratar de incontestável equívoco interpretativo quanto ao sólido entendimento do STF,
+firmado desde 1963, e não de reformulação de jurisprudência daquela Corte.
+2.2 HONORÁRIOS SUCUMBENCIAIS
+O agravante insurge-se contra a condenação em honorários sucumbenciais e
+custas processuais nesta ação rescisória, por ser beneficiário da justiça gratuita. Invoca o entendimento
+firmando pelo Supremo Tribunal Federal na ADI 5.766.
+Estabelece a Súmula n. 219, IV, deste TST que, “na ação rescisória e nas lides que
+não derivem de relação de emprego, a responsabilidade pelo pagamento dos honorários advocatícios
+da sucumbência submete-se à disciplina do Código de Processo Civil (arts. 85, 86, 87 e 90)”.
+Inaplicável, nesse cenário, o disposto no art. 791-A, § 4º, da CLT, cuja
+inconstitucionalidade fora declarada pelo excelso STF, a despeito do que decidido no acórdão recorrido.
+Ao revés, incide ao caso o disposto nos §§ 2º e 3º do art. 98 da norma processual
+civil, a saber:
+Vencido o beneficiário, as obrigações decorrentes de sua sucumbência ficarão sob condição
+suspensiva de exigibilidade e somente poderão ser executadas se, nos 5 (cinco) anos subsequentes
+ao trânsito em julgado da decisão que as certificou, o credor demonstrar que deixou de existir a
+situação de insuficiência de recursos que justificou a concessão de gratuidade, extinguindo-se,
+passado esse prazo, tais obrigações do beneficiário.
+Nesse sentido, é assente o entendimento no âmbito desta Subseção II Este documento pode ser acessado no endereço eletrônico http://www.tst.jus.br/validador sob código 10066EE733FC759929.
+Especializada em Dissídios Individuais, senão vejamos:
+RECURSO ORDINÁRIO EM AÇÃO RESCISÓRIA AJUIZADA SOB A ÉGIDE DO CPC DE 2015. ART. 966,
+V, DO CPC DE 2015. ESCALA DE TRABALHO PREVISTA EM NORMA COLETIVA. ALEGAÇÃO DE VIOLAÇÃO
+DOS ARTS. 3º E 4º DA LEI 5.811/1972 . MATÉRIA CONTROVERTIDA. ÓBICE DA SÚMULA 83, I, DO TST. 1.
+Trata-se de ação rescisória por meio da qual o Autor pretende desconstituir acórdão transitado em
+julgado, alegando violação dos arts. 3º, I, II, III e IV, e 4º, II, da Lei 5.811/1972. 2. De acordo com o
+quadro fático descrito no acórdão rescindendo, o Autor trabalhava em regime de sobreaviso, em
+escala 7x7, com compensação de jornada, em conformidade com as disposições ajustadas nas
+normas coletivas juntadas aos autos da ação trabalhista originária. 3. Tratando-se de matéria
+controvertida à época em que proferida a decisão rescindenda, é improcedente a pretensão
+rescisória formulada com fundamento na indicação de violação de texto infraconstitucional,
+consoante preceitua a Súmula 83, I, do TST. AÇÃO RESCISÓRIA. HONORÁRIOS ADVOCATÍCIOS.
+BENEFICIÁRIO DA JUSTIÇA GRATUITA. SUSPENSÃO DA EXIGIBILIDADE POR DOIS ANOS NO ACÓRDÃO
+RECORRIDO. MANUTENÇÃO. VEDAÇÃO AO REFORMATIO IN PEJUS. 1. Na hipótese, após julgar
+improcedente o pedido de corte rescisório, o TRT condenou o Autor ao pagamento de honorários
+advocatícios de 10% sob o valor da causa. Entendeu A Corte Regional que, conquanto se trate de
+beneficiário da justiça gratuita, ainda assim deve ser mantida tal condenação, com exigibilidade
+suspensa por dois anos , na forma do § 4º do art. 791-A da CLT. 2. Cuidando-se se de ação rescisória,
+que possui indiscutível natureza civil, a incidência de honorários advocatícios rege-se pelas
+disposições do processo civil, não se aplicando a disciplina da Lei 13.467/2017. 3. Por força do
+disposto no § 2º do art. 98 do CPC de 2015, subsiste a responsabilidade quanto ao pagamento dos
+honorários advocatícios pela parte beneficiária da justiça gratuita, sendo que, nessa hipótese, a
+referida obrigação somente poderá ser executada se " nos 5 (cinco) anos subsequentes ao trânsito
+em julgado da decisão que as certificou, o credor demonstrar que deixou de existir a situação de
+insuficiência de recursos que justificou a concessão de gratuidade, extinguindo-se, passado esse
+prazo, tais obrigações do beneficiário " (art. 98, § 3º, do CPC de 2015). 3. Nesse cenário, fixada no
+acórdão recorrido a suspensão de exigibilidade da verba advocatícia por dois anos, a ampliação
+dessa condição suspensiva para cinco anos, em sede recursal, na forma da legislação aplicável à
+espécie, implicaria inadmissível reformatio in pejus , justificando-se, por isso, a manutenção do
+acórdão regional. Recurso ordinário conhecido e não provido" (RO-369-04.2018.5.05.0000, Subseção II
+Especializada em Dissídios Individuais, Relator Ministro Douglas Alencar Rodrigues, DEJT 05/08/2022).
+Deferidos os benefícios da justiça gratuita, portanto, de rigor a manutenção da
+condenação ao pagamento da verba honorária, bem como a ressalva efetuada quanto à suspensão de
+sua exigibilidade, a teor do disposto nos §§ 2º e 3º do art. 98 da norma processual civil.
+NEGO PROVIMENTO.
+ISTO POSTO
+ACORDAM os Ministros da Subseção II Especializada em Dissídios Individuais do
+Tribunal Superior do Trabalho, por unanimidade, conhecer do agravo e, no mérito, negar-lhe
+provimento.
+Brasília, 14 de abril de 2026.
+Firmado por assinatura digital (MP 2.200-2/2001)
+AMAURY RODRIGUES PINTO JUNIOR
+Ministro Relator
+Firmado por assinatura digital em 14/04/2026 pelo sistema AssineJus da Justiça do Trabalho, conforme MP 2.200-2/2001, que instituiu a Infra-Estrutura
+de Chaves Públicas Brasileira. Este documento pode ser acessado no endereço eletrônico http://www.tst.jus.br/validador sob código 10066EE733FC759929.
