@@ -1,0 +1,48 @@
+DECISÃO
+Trata-se de Recurso Extraordinário com Agravo interposto em face de acórdão do Tribunal Superior Eleitoral, cuja ementa possui o seguinte cabeçalho (Doc. 119, fl. 1):
+
+“ELEIÇÕES 2024. AGRAVO REGIMENTAL. AGRAVO. RECURSO ESPECIAL ELEITORAL. REPRESENTAÇÃO. PROPAGANDA ELEITORAL IRREGULAR. AFIXAÇÃO EM BENS PARTICULARES. ORDEM JUDICIAL. DETERMINAÇÃO DE REMOÇÃO DA PUBLICIDADE IRREGULAR. CUMPRIMENTO APENAS PARCIAL DO COMANDO JUDICIAL NO PRAZO FIXADO. MULTA. PRINCÍPIOS DA PROPORCIONALIDADE E DA RAZOABILIDADE OBSERVADOS PELA CORTE REGIONAL. CARÁTER COERCITIVO DAS ASTREINTES. PLENA COMPATIBILIDADE COM OS FEITOS ELEITORAIS. PRAZO PARA CUMPRIMENTO QUE DEVE TER ADERÊNCIA COM A DINÂMICA E CELERIDADE DO PROCESSO ELEITORAL. ACÓRDÃO FUNDAMENTADO. SIMPLES REFORÇO ARGUMENTATIVO. PREVALÊNCIA DOS FUNDAMENTOS DO DECISUM. SÚMULAS-TSE N 26 E 30. NÃO PROVIMENTO.”
+
+Opostos Embargos de Declaração (Doc. 124), foram rejeitados (Doc. 129).
+No RE (Doc. 134), com fundamento no art. 102, III, da Constituição, PABLO AURINO RAMOS ARAUJO e MAGDA CRISTINA ALVES ALMEIDA, apontam violação ao art. 93, IX, da CF/1988, por negativa de prestação jurisdicional.
+Sustentam, por outro lado, afronta ao art. 5º, LIV e LV, da CF/1988 (princípios da razoabilidade, proporcionalidade e do devido processo legal), pois “o acórdão recorrido manteve multa coercitiva (astreintes) de R$ 8.000,00 sem ponderar as circunstâncias fáticas que tornaram inexequível o cumprimento integral da decisão liminar no prazo de 48 horas, a saber, a necessidade de remoção de mais de 100 peças de propaganda em um município de grande extensão territorial (mais de 550 km²)” (Doc. 134, fl. 7).
+Aduzem que “a aplicação automática da multa, sem análise da boa-fé e do cumprimento substancial da obrigação, representa violação direta ao devido processo legal substancial, conforme consagrado no art. 5º, LIV, e ao princípio da proporcionalidade” (Doc. 134, fl. 7).
+Ao final, requerem o provimento do presente recurso para afastar a multa aplicada.
+Em exame de admissibilidade, o Recurso Extraordinário foi inadmitido com base na Súmula 284/STF (Doc. 138).
+No Agravo, a parte agravante refuta a incidência do referido óbice sumular (Doc. 141).
+É o relatório. Decido.
+
+Os recursos extraordinários somente serão conhecidos e julgados, quando essenciais e relevantes as questões constitucionais a serem analisadas, sendo imprescindível ao recorrente, em sua petição de interposição de recurso, a apresentação formal e motivada da repercussão geral que demonstre, perante o SUPREMO TRIBUNAL FEDERAL, a existência de acentuado interesse geral na solução das questões constitucionais discutidas no processo, que transcenda a defesa puramente de interesses subjetivos e particulares.
+A obrigação do recorrente de apresentar, formal e motivadamente, a repercussão geral que demonstre, sob o ponto de vista econômico, político, social ou jurídico, a relevância da questão constitucional debatida que ultrapasse os interesses subjetivos da causa, conforme exigência constitucional, legal e regimental (art. 102, § 3º, da CF/88, c/c art. 1.035, § 2º, do Código de Processo Civil de 2015 e art. 327, § 1º, do Regimento Interno do Supremo Tribunal Federal), não se confunde com meras invocações, desacompanhadas de sólidos fundamentos e de demonstração dos requisitos no caso concreto, de que (a) o tema controvertido é portador de ampla repercussão e de suma importância para o cenário econômico, político, social ou jurídico; (b) a matéria não interessa única e simplesmente às partes envolvidas na lide; ou, ainda, de que (c) a jurisprudência do SUPREMO TRIBUNAL FEDERAL é incontroversa no tocante à causa debatida, entre outras alegações de igual patamar argumentativo (ARE 691.595-AgR, Rel. Min. RICARDO LEWANDOWSKI, Segunda Turma, DJe de 25/2/2013; ARE 696.347-AgRsegundo, Rel. Min. CÁRMEN LÚCIA, Segunda Turma, DJe de 14/2/2013; ARE 696.263-AgR, Rel. Min. LUIZ FUX, Primeira Turma, DJe de 19/2/2013; AI 717.821-AgR, Rel. Min. JOAQUIM BARBOSA, Segunda Turma, DJe de 13/8/2012).
+Eis os fundamentos apresentados pela parte para demonstrar a existência de repercussão geral da questão veiculada (Doc. 134, fl. 5):
+
+“2.4. Repercussão Geral
+16. A matéria possui repercussão geral, nos termos do art. 102, §3º, da Constituição Federal, por envolver a extensão da garantia do devido processo legal e da proporcionalidade na aplicação de sanções coercitivas (astreintes) no processo eleitoral, tema de relevância transcendente à esfera subjetiva das partes, com impacto sobre a segurança jurídica e a isonomia entre candidatos.
+17. A discussão ultrapassa os interesses das partes e afeta a interpretação uniforme de princípios constitucionais na aplicação de multas em sede eleitoral, de modo que o reconhecimento da repercussão geral se impõe.”
+
+Não havendo demonstração fundamentada da presença de repercussão geral, incabível o seguimento do Recurso Extraordinário.
+Além disso, quanto à suscitada ofensa ao art. 93, IX, da Carta Magna, o Juízo de origem não destoou do entendimento firmado por esta CORTE no julgamento do AI 791.292-QO-RG/PE (Rel. Min. GILMAR MENDES, Tema 339).
+Nessa oportunidade, o SUPREMO TRIBUNAL FEDERAL assentou que o inciso IX do art. 93 da Constituição Federal de 1988 “exige que o acórdão ou decisão sejam fundamentados, ainda que sucintamente, sem determinar, contudo, o exame pormenorizado de cada uma das alegações ou provas, nem que sejam corretos os fundamentos da decisão”.
+No caso em apreço, a fundamentação do acórdão recorrido alinha-se às diretrizes desse precedente.
+No que diz respeito à alegação de afronta ao ato jurídico perfeito, à ampla defesa e à coisa julgada, o apelo extraordinário não tem chances de êxito, pois esta CORTE, no julgamento do ARE 748.371-RG/MT (Rel. Min. GILMAR MENDES, Tema 660), rejeitou a repercussão geral da alegada violação ao direito adquirido, ao ato jurídico perfeito, à coisa julgada ou aos princípios da legalidade, do contraditório, da ampla defesa e do devido processo legal, quando se mostrar imprescindível o exame de normas de natureza infraconstitucional.
+No caso concreto, o Tribunal de origem, à luz das peculiaridades do caso concreto, reduziu o valor da multa aplicada para R$ 8.000,00 (oito mil reais), aos seguintes fundamentos (Doc. 69, fl. 9):
+
+“Ao prever a possibilidade de aplicação de multa, no valor de R$ 8.000,00, aquela ordem não esclarecia se este valor seria aplicado pelo seu descumprimento total ou parcial, ou se seria aplicado para cada propaganda eleitoral irregular não retirada dentro do prazo de 48 horas.
+Também não esclarecia se a multa em questão seria aplicada a cada um dos Recorrentes ou se seria aplicada à sua campanha.
+Portanto, por tais imprecisões, entendo que, para que seja ela razoável e proporcional ao que restou demonstrado nos autos, aquela multa deveria ser aplicada uma única vez, em razão do cumprimento intempestivo da ordem expedida. Pelas mesmas razões, também deveria ser aplicada aos Recorrentes de forma conjunta e solidária, e não a cada um deles isoladamente, visto que compunham uma única candidatura majoritária.
+Desta forma, voto no sentido de dar provimento parcial ao presente Recurso Eleitoral para, reformando parcialmente a sentença proferida pelo Juízo da 53ª Zona Eleitoral deste Estado, aplicar aos Recorrentes multa de forma conjunta e solidária, no valor de R$ 8.000,00, em razão do cumprimento intempestivo da ordem liminar expedida.”
+
+Desse modo, para divergir dos fundamentos do acórdão recorrido seria necessário analisar a questão à luz das provas dos autos, providência vedada na via extraordinária em face do óbice da Súmula 279/STF (Para simples reexame de prova não cabe recurso extraordinário).
+Nesse sentido, em casos semelhantes:
+
+“Embargos de declaração no recurso extraordinário com agravo. Embargos de declaração recebidos como agravo regimental, nos termos do art. 1.024, §3º, CPC. 2. Direito eleitoral. Propaganda irregular. Condenação ao pagamento de multa. Razoabilidade e proporcionalidade. 3. Ofensa constitucional indireta. 4. Necessidade de reexame de fatos e provas. Incidência da Súmula 279 desta Corte. 5. Ausência de argumentos capazes de infirmar a decisão agravada. 6. Negado provimento ao agravo regimental.” (RE 1353158 ED / GO, Relator(a): Min. GILMAR MENDES, Segunda Turma, DJe de 7/1/2022)
+“EMENTA: DIREITO ELEITORAL. AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO COM AGRAVO. REPRESENTAÇÃO POR CONDUTA VEDADA AOS AGENTES PÚBLICOS EM CAMPANHA. PROPAGANDA ELEITORAL IRREGULAR. PROPORCIONALIDADE NA APLICAÇÃO DE MULTA. AUSÊNCIA DE MATÉRIA CONSTITUCIONAL. VIOLAÇÃO AO ART. 93, IX, DA CONSTITUIÇÃO. NÃO CARACTERIZAÇÃO. PRECEDENTES. 1. O acórdão do Tribunal de origem está devidamente fundamentado, embora em sentido contrário aos interesses da parte agravante, circunstância que não configura violação ao art. 93, IX, da CF/88. 2. Hipótese em que a resolução da controvérsia demandaria o reexame do conjunto fático-probatório dos autos (Súmula 279/STF) e da norma infraconstitucional pertinente, procedimentos inviáveis nesta fase recursal. Precedentes. 3. Agravo regimental a que se nega provimento.” (ARE 888378 AgR-terceiro / DF, Relator(a): Min. ROBERTO BARROSO, Primeira Turma, DJe de 25/8/2016)
+
+Diante do exposto, com base no art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal, NEGO SEGUIMENTO AO RECURSO EXTRAORDINÁRIO COM AGRAVO.
+Não se aplica o art. 85, § 11, do Código de Processo Civil de 2015, tendo em vista que não houve fixação de honorários advocatícios nas instâncias de origem.
+Publique-se.
+Brasília, 14 de abril de 2026.
+
+Ministro ALEXANDRE DE MORAES
+Relator
+Documento assinado digitalmente
