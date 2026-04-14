@@ -1,0 +1,21 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em nome de RODRIGO DE FREITAS LOPES, preso preventivamente e acusado pela prática de associação para o tráfico, com causa de aumento por envolver adolescente (Processo n. 1515331-92.2025.8.26.0576, da Vara do Júri e do Juizado Especial Criminal da comarca de São José do Rio Preto/SP).
+Os impetrantes apontam como autoridade coatora a 4ª Câmara de Direito Criminal do Tribunal de Justiça de São Paulo, que, em 30/3/2026, denegou a ordem (HC n. 2388185-33.2025.8.26.0000).
+Alegam, em síntese, ausência de fundamentação concreta da preventiva e uso apenas da gravidade abstrata; inexistência de periculum libertatis; crimes sem violência ou grave ameaça; condições pessoais favoráveis do paciente (primariedade, residência fixa e ocupação lícita); e suficiência de medidas cautelares diversas, invocando o art. 310, § 4º, e o art. 315, § 2º, II, do Código de Processo Penal.
+Em caráter liminar, pedem a revogação da prisão, com expedição de alvará e aplicação de cautelares do art. 319; e, no mérito, requerem a confirmação da soltura ou, subsidiariamente, concessão de liberdade provisória com cautelares.
+É o relatório.
+Do atento exame dos autos, observo que a segregação cautelar do acusado se encontra fundamentada em elementos concretos: investigação de organização criminosa armada e estruturada, com divisão de tarefas, atuação no ponto de tráfico "Pit Stop", uso de armas de fogo, execução de rivais e emprego de adolescentes, além de risco à instrução pela intimidação de testemunhas - várias requereram sigilo de identidade.
+O acórdão consignou prova da materialidade e indícios de autoria em laudos, extrações de dados de celulares, filmagens e apreensões, gravidade concreta dos fatos, risco de reiteração delitiva e insuficiência de cautelares diversas (art. 282, § 6º).
+Verifica-se referência expressa ao paciente como integrante de organização criminosa, com função de gerência do ponto "Pit Stop", repassando drogas aos vendedores e recolhendo valores das vendas, evidenciando sua inserção estrutural na facção.
+Ora, tratando-se de associação criminosa que possui constante atuação, para que se interrompa ou diminua seu desempenho, faz-se necessária a ordem de prisão.
+Nesse sentido: HC n. 974.892/SP, de minha relatoria, Sexta Turma, DJEN de 27/3/2025; AgRg no HC n. 947.800/SC, Ministro Antonio Saldanha Palheiro, Sexta Turma, DJEN de 11/3/2025; e AgRg no RHC n. 207.913/CE, Ministro Og Fernandes, Sexta Turma, DJEN de 12/3/2025.
+Nesse contexto, observa-se que a manutenção da constrição cautelar está baseada em elementos vinculados à realidade, pois as instâncias ordinárias fizeram referências às circunstâncias fáticas justificadoras, destacando a gravidade em concreto do delito e a atuação do paciente na organização criminosa.
+Ademais, o histórico de homicídios contra rivais evidencia a necessidade da prisão: em liberdade, os investigados causam temor às testemunhas, muitas das quais solicitaram sigilo de identidade. Dessa forma, a custódia se justifica para resguardar a instrução criminal, assegurando a segurança das testemunhas e a preservação da prova a ser produzida em juízo.
+A propósito: RHC n. 116.157/AL, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 10/10/2019, DJe de 18/10/2019.
+Registre-se que, estando concretamente demonstrada pelas instâncias ordinárias a necessidade da prisão preventiva, não se afigura suficiente a fixação de medidas cautelares alternativas.
+De mais a mais, eventuais condições pessoais favoráveis não possuem o condão de, isoladamente, obstar a segregação cautelar, se há nos autos elementos suficientes a demonstrar a necessidade de segregação cautelar.
+Indefiro a petição inicial (art. 210 do RISTJ).
+Publique-se.
+EMENTA
+DIREITO PENAL E PROCESSUAL PENAL. HABEAS CORPUS. ORGANIZAÇÃO CRIMINOSA ARMADA LIGADA AO TRÁFICO DE DROGAS. OPERAÇÃO ARMAGEDON. PRISÃO. FUNDAMENTOS. DIVISÃO DE TAREFAS E GERÊNCIA DE PONTO DE TRÁFICO. USO DE ARMAS DE FOGO. EXECUÇÃO DE RIVAIS. EMPREGO DE ADOLESCENTES. INTIMIDAÇÃO DE TESTEMUNHAS. GRAVIDADE CONCRETA. CONVENIÊNCIA DA INSTRUÇÃO. INSUFICIÊNCIA DE MEDIDAS CAUTELARES DIVERSAS. CONDIÇÕES PESSOAIS FAVORÁVEIS INSUFICIENTES.
+Petição inicial indeferida .
