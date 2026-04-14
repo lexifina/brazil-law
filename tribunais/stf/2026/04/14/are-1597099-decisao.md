@@ -1,0 +1,43 @@
+DECISÃO: Trata-se de agravo interposto contra decisão de inadmissibilidade de recurso extraordinário em face de acórdão do Superior Tribunal de Justiça, ementado nos seguintes termos:
+
+“ADMINISTRATIVO. SERVIDOR PÚBLICO. AGRAVO INTERNO NO RECURSO ESPECIAL. MILITAR. ANISTIADO POLÍTICO. PRETENSÃO DE REVISÃO DO ATO DE CONCESSÃO DE ANISTIA. PRESCRIÇÃO DE FUNDO DE DIREITO. OCORRÊNCIA. 1. As ações em que se postula a revisão do ato de anistia política, a fim de obter novas promoções para o militar anistiado, estão sujeitas ao prazo prescricional previsto no art. 1º do Decreto n. 20.910/1932. Precedentes. 2. Agravo interno desprovido”. (eDOC 52 – ID: 39a8059d)
+
+No recurso extraordinário, interposto com fundamento no art. 102, III, “a”, da Constituição Federal, aponta-se violação aos arts. arts. 5º, incisos XXXV, XXXVI e LV, 37, caput, e 93, inciso IX, do texto constitucional, bem como ao art. 8º do ADCT. (eDOC 80 – ID: 4b48f7b6)
+Nas razões recusais, insurge-se contra acórdão que manteve o reconhecimento da prescrição quinquenal do fundo de direito, com fundamento no Decreto nº 20.910/1932, relativamente à pretensão de revisão de ato concessivo da anistia.
+Sustenta-se que “a aplicação do Decreto nº 20.910/1932 ao caso concreto contraria a literalidade da Lei nº 10.559/2002, viola o art. 8º do ADCT e descaracteriza a natureza constitucional e política da anistia, reduzindo-a indevidamente a uma relação patrimonial comum, o que é inaceitável sob a ótica do Estado Democrático de Direito”. (eDOC 80 – ID: 4b48f7b6, p. 6)
+É o relatório.
+Decido.
+Inicialmente, com relação à alegada ofensa ao artigo 93, IX, da Constituição Federal, observo que esta Corte já apreciou a matéria por meio do regime da repercussão geral, no julgamento do AI-QO-RG 791.292, de minha relatoria, DJe 13.8.2010 (tema 339). Na oportunidade, o STF reconheceu a existência de repercussão geral do tema e reafirmou sua jurisprudência no sentido de que o referido artigo exige que o acórdão ou a decisão sejam fundamentados, ainda que sucintamente, sem estabelecer, todavia, o exame pormenorizado de cada uma das alegações ou provas.
+Confira-se a ementa do referido julgado:
+
+“Questão de ordem. Agravo de Instrumento. Conversão em recurso extraordinário (CPC, art. 544, §§ 3º e 4º). 2. Alegação de ofensa aos incisos XXXV e LX do art. 5º e ao inciso IX do art. 93 da Constituição Federal. Inocorrência. 3. O art. 93, IX, da Constituição Federal exige que o acórdão ou decisão sejam fundamentados, ainda que sucintamente, sem determinar, contudo, o exame pormenorizado de cada uma das alegações ou provas, nem que sejam corretos os fundamentos da decisão. 4. Questão de ordem acolhida para reconhecer a repercussão geral, reafirmar a jurisprudência do Tribunal, negar provimento ao recurso e autorizar a adoção dos procedimentos relacionados à repercussão geral” (AI-QO-RG 791.292, de minha relatoria, DJe 13.8.2010).
+
+Na espécie, o Tribunal de origem apreciou as questões suscitadas, fundamentando-as de modo suficiente a demonstrar as razões objetivas de seu convencimento. Assim, verifica-se que a prestação jurisdicional foi concedida nos termos da legislação vigente, apesar de ter sido a conclusão contrária aos interesses da parte recorrente.
+Quanto aos demais argumentos, verifica-se que o Tribunal de origem, ao examinar a legislação infraconstitucional aplicável à espécie (Decreto nº 20.910/32) e o conjunto probatório constante dos autos, entendeu que o direito do recorrente revisar o ato de anistia estava fulminado pela prescrição. Nesse sentido, extrai-se o seguinte trecho do acórdão recorrido:
+
+“Como asseverado no decisum agravado, em relação à prescrição, o Tribunal a quo assim se manifestou (fl. 285):
+[...]
+Em suma, na hipótese, a demanda versa sobre o inconformismo da parte autora com os termos das Portarias que os considerou anistiados.
+Ora, reveste-se de contradição a tese de que há imprescritibilidade de qualquer direito ou prerrogativa inerente à condição de anistiado político, ai incluídos os reflexos patrimoniais daí advindos, por tratar-se de ato de natureza política e não ato administrativo de caráter geral, se, por outro lado, adota-se o entendimento de que a Lei n. 10.559/2002 teria representado renúncia tácita à prescrição do direito à reparação econômica e indenizatória pelos detentores daquela condição, isso porque só é possível renunciar a algo que já ocorreu e, portanto, cabível o reconhecimento de prescrição pelo decurso de novo prazo para exercer-se o direito de ação em relação à Fazenda Pública.
+Neste contexto, há de ser considerada a regra da prescrição quinquenal vigente no Decreto 20.910/32.
+A portaria que declarou a parte autora anistiada política e lhe conferiu reparação econômica foi publicada em 2004. Tendo sido a presente demanda proposta em 22.09.2015, eis que restou transcorrido o lustro prescricional para interposição da ação.
+Diante desse contexto, o entendimento adotado no aresto recorrido destoa da jurisprudência desta Corte Superior no sentido de que as ações em que se postula a revisão do ato de anistia política, a fim de obter novas promoções para o militar anistiado, estão sujeitas ao prazo prescricional previsto no art. 1º do Decreto n. 20.910 /1932 (AgInt no REsp n. 2.053.797/DF, relator Ministro Sérgio Kukina, Primeira Turma, julgado em 12/6/2023, DJe de 15/6/2023).
+(...)”. (eDOC 52 – ID: 39a8059d, p. 3)
+
+Assim, verifica-se que a matéria debatida no acórdão recorrido restringe-se ao âmbito da legislação infraconstitucional, de modo que eventual ofensa à Constituição, se existente, seria meramente reflexa ou indireta, o que inviabiliza o processamento do presente recurso.
+Além disso, divergir do entendimento firmado pelo Tribunal de origem demandaria o revolvimento do acervo fático-probatório, providência inviável no âmbito do recurso extraordinário. Nesses termos, incide no caso a Súmula 279 do Supremo Tribunal Federal.
+Confiram-se, a propósito, os seguintes precedentes:
+
+“EMENTA: AGRAVO INTERNO NO RECURSO EXTRAORDINÁRIO COM AGRAVO. ADMINISTRATIVO. PROCESSUAL CIVIL. DECISÃO DE ADMISSIBILIDADE DO RECURSO EXTRAORDINÁRIO. APLICAÇÃO DE PRECEDENTE DESTA CORTE PROFERIDO NA SISTEMÁTICA DE REPERCUSSÃO GERAL - TEMA 339. ARTIGO 1.030, INCISO I, ALÍNEA A, DO CÓDIGO DE PROCESSO CIVIL. AGRAVO INTERNO INTERPOSTO E DESPROVIDO PELA CORTE ESPECIAL DO SUPERIOR TRIBUNAL DE JUSTIÇA. INTERPOSIÇÃO DE AGRAVO. DESCABIMENTO. AGRAVO NÃO CONHECIDO NESSA PARTE. MILITAR ANISTIADO. REVISÃO DE ATO CONCESSIVO. PRETENSÃO À NOVA PROMOÇÃO. RECONHECIMENTO PELO SUPERIOR TRIBUNAL DE JUSTIÇA DA OCORRÊNCIA DE PRESCRIÇÃO. DECRETO 20.910/1932. LEI 10.559/2002. MATÉRIA DE ÍNDOLE INFRACONSTITUCIONAL. OFENSA INDIRETA À CONSTITUIÇÃO DA REPÚBLICA. PRECEDENTES. REVOLVIMENTO DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. IMPOSSIBILIDADE. SÚMULA 279 DO SUPREMO TRIBUNAL FEDERAL. AGRAVO INTERNO DESPROVIDO”. (ARE 1550773 AgR, Rel. Min. Luiz Fux, Segunda Turma, DJe 27.11.2025)
+
+“EMENTA: AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO COM AGRAVO. INTERPOSIÇÃO EM 09.12.2022. SERVIDOR PÚBLICO. ANISTIA. ARTIGO 8º DO ADCT/88. COBRANÇA DE VALORES RELATIVOS À CORREÇÃO MONETÁRIA E JUROS LEGAIS. INDENIZAÇÃO RECONHECIDA E PAGA ADMINISTRATIVAMENTE. AÇÃO AJUIZADA APÓS O PRAZO DE CINCO ANOS. PRESCRIÇÃO DO FUNDO DE DIREITO. DECRETO Nº 20.910/32. INAPLICÁVEL, AO CASO, O TEMA 394 DA REPERCUSSÃO GERAL. RE 553.710-ED. ACÓRDÃO PROFERIDO EM JUÍZO DE RETRATAÇÃO NEGATIVO. OFENSA REFLEXA. PRECEDENTES. 1. Eventual divergência em relação ao entendimento adotado pelo juízo a quo, no que tange à prescrição fundada no Decreto 20.910/32, demandaria o reexame da legislação infraconstitucional pertinente, de modo que possível ofensa à Constituição Federal, se existente, somente se verificaria pela via indireta ou reflexa, o que inviabiliza o processamento do recurso extraordinário. 2. Inaplicável, à hipótese, a tese fixada no Tema 394 da repercussão geral (RE 553.710-ED). 3. Agravo regimental a que se nega provimento. Majorados em ¼ (um quarto) os honorários fixados anteriormente, nos termos do art. 85, §11, do CPC, devendo ser observados os limites dos § § 2º e 3º do mesmo dispositivo”. (ARE 1312546 AgR, Rel. Min. EDSON FACHIN, Segunda Turma, DJe 20.04.2023)
+
+No mesmo sentido, cito, ainda, as decisões monocráticas nos seguintes recursos: RE 1593743, Rel. Min. Cármen Lúcia; ARE 1582867, Rel. Min. André Mendonça; ARE 1537948, Rel. Min. Gilmar Mendes.
+Ante o exposto, nego seguimento ao recurso (artigo 932, VIII, do CPC, c/c art. 21, §1º, do RISTF) e, tendo em vista a ausência de fixação de honorários pela origem, deixo de aplicar o disposto no §11 do art. 85 do CPC.
+
+Publique-se.
+Brasília, 14 de abril de 2026.
+
+Ministro GILMAR MENDES
+Relator
+Documento assinado digitalmente
