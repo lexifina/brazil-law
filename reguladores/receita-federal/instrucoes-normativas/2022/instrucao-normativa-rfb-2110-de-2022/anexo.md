@@ -22,3 +22,6 @@ Anexo VII
 Anexo VIII - REMUNERAÇÃO RECEBIDA EM OUTROS VÍNCULOS - ORDENAÇÃO PARA FINS DE DESCONTO
 Anexo VIII
 [arquivo anexo: Anexo VIII.pdf]
+ANEXO IX - DECLARAÇÃO DE CONDIÇÃO DE SEGURADO ESPECIAL (ART. 159, § 13)
+Anexo IX
+[arquivo anexo: Anexo IX.pdf]
