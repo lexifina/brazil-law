@@ -1,0 +1,24 @@
+DECISÃO
+Trata-se de recurso em habeas corpus de MATHEUS DE JESUS MACEDO contra o acórdão proferido pelo Tribunal de Justiça da Bahia, que, nos autos do HC n. 8005683-56.2026.8.05.0000, denegou a ordem, mantendo a revogação do livramento condicional e determinando a expedição de mandado de prisão (execução penal n. 2000837-19.2024.8.05.0146, 1ª Vara Criminal da Comarca de Senhor do Bonfim/BA).
+O recorrente alega que o Juízo da execução revogou o livramento condicional anteriormente concedido - deferido em 24/01/2025 com base na fração de 1/3 - por reconhecer, posteriormente, que a condenação por homicídio qualificado (art. 121, § 2º, I e IV, do Código Penal) exige o cumprimento de 2/3 para o benefício (art. 83, V, do Código Penal).
+Sustenta que permaneceu em livramento por mais de um ano, cumprindo regularmente todas as condições impostas, sem falta disciplinar ou prática de nova infração penal, e que a revogação do benefício decorreu exclusivamente de erro estatal no cálculo do requisito objetivo, o que configura violação aos princípios da segurança jurídica e da proteção da confiança legítima.
+Afirma que não há previsão na Lei de Execução Penal para revogação do livramento condicional por erro estatal de cálculo, sendo taxativas as hipóteses dos arts. 86 e 87 do Código Penal, e que a decisão de ofício cria causa não prevista em lei, em afronta à legalidade estrita na execução penal.
+Pede, liminarmente, a suspensão imediata dos efeitos do acórdão recorrido, com o recolhimento/suspensão do mandado de prisão, até o julgamento definitivo deste writ; e, no mérito, a concessão da ordem para reconhecer a ilegalidade da revogação e restabelecer o livramento condicional com manutenção das condições impostas (fls. 92/102).
+É o relatório
+A concessão de ordem de habeas corpus ou o provimento do respectivo recurso demanda demonstração da ilegalidade, ônus que recai sobre a parte impetrante, a quem cumpre instruir o feito com a prova pré-constituída de suas alegações.
+In casu, verifico, de plano, a inviabilidade do presente recurso.
+Primeiramente, a jurisprudência consolidada do Superior Tribunal de Justiça estabelece que a retificação, de ofício, pelo juiz da execução do incorreto atestado de pena não encontra óbice nos institutos da preclusão e da coisa julgada, por não importar em alteração no título executório a ser cumprido pelo sentenciado (AgRg no HC n. 984.924/SP, relator Ministro Otávio de Almeida Toledo (Desembargador Convocado do TJSP), Sexta Turma, julgado em 20/8/2025, DJEN de 28/8/2025).
+No mesmo sentido: AgRg no HC n. 984.924/SP, Ministro Otávio de Almeida Toledo (Desembargador Convocado do TJSP), Sexta Turma, DJEN de 28/8/2025; AgRg no HC n. 1.027.453/SP, Ministro Joel Ilan Paciornik, Quinta Turma, DJEN de 9/3/2026.
+Essa retificação, inclusive, pode levar à revogação de benefício erroneamente concedido, como já salientado por este Tribunal Superior, vide o seguinte julgado:
+PROCESSUAL PENAL. EXECUÇÃO. HABEAS CORPUS. PROGRESSÃO DE REGIME CONCEDIDA. POSTERIOR REVOGAÇÃO DIANTE DO NÃO PREENCHIMENTO DO REQUISITO OBJETIVO. COISA JULGADA. CLÁUSULA REBUS SIC STANDIBUS. ALTERAÇÃO DO SUBSTRATO FÁTICO-JURÍDICO. ERRO MATERIAL. POSSIBILIDADE DE CORREÇÃO. ORDEM DENEGADA.
+1. A força vinculativa do ato decisório, em sede de execução penal, subordina-se à cláusula rebus sic standibus, é dizer, está atrelada à manutenção dos pressupostos fáticos e jurídicos que lhe serviram de suporte.
+2. In casu, inexiste o alegado constrangimento ilegal, tendo em vista que a decisão que revogou a progressão de regime equivocadamente concedida ao paciente, diante do constatado erro material, não padece de nenhuma ilegalidade, tampouco caracteriza ofensa à coisa julgada. Uma vez constatada a existência de nova execução, até então desconhecida, agiu com acerto o Juízo singular ao reconhecer a alteração do substrato fático-jurídico e revogar a decisão que havia deferido o benefício, por ausência de lapso temporal, sob pena de, ao contrário, manter o apenado em um regime de cumprimento de pena do qual ele ainda não faz jus por não ter preenchido o requisito objetivo.
+3. Ordem denegada.
+(HC n. 385.541/SP, Ministra Maria Thereza de Assis Moura, Sexta Turma, DJe de 24/5/2017 - grifo nosso)
+No caso, não há falar em violação de legítima expectativa, porque não há le gitimidade na concessão de benefício contrário à lei. Embora o apenado estivesse de boa-fé, o comando legal não autorizou o benefício.
+No caso, inclusive, é de ressaltar que o tempo de cumprimento do livramento condicional foi considerado tempo de pena efetivamente cumprido, o que resguarda a boa-fé do apenado.
+Ante o exposto, nego provimento ao recurso em habeas corpus.
+Publique-se.
+EMENTA
+RECURSO EM HABEAS CORPUS. EXECUÇÃO PENAL. PRECLUSÃO DOS CÁLCULOS DA PENA. RETIFICAÇÃO EX OFFICIO. POSSIBILIDADE. REVOGAÇÃO DO BENEFÍCIO ERRONEAMENTE CONCEDIDO. POSSIBILIDADE. PRECEDENTE.
+Recurso em habeas corpus improvido.
