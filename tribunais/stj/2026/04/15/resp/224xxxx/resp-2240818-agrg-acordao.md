@@ -1,0 +1,39 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEXTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 09/04/2026 a 15/04/2026, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Antonio Saldanha Palheiro, Carlos Pires Brandão, Og Fernandes e Sebastião Reis Júnior votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Carlos Pires Brandão.
+EMENTA
+AGRAVO REGIMENTAL NO RECURSO ESPECIAL. TRÁFICO DE DROGAS. MINORANTE PREVISTA NO ART. 33, § 4º, DA LEI N. 11.343/2006. FRAÇÃO DO REDUTOR. FUNDAMENTAÇÃO CONCRETA E IDÔNEA. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. O disposto no art. 33, § 4º, da Lei n. 11.343/2006 estabelece apenas os requisitos necessários para a aplicação da minorante nele prevista, deixando, contudo, de estabelecer os parâmetros para a fixação do quantum de diminuição de pena. Uma vez que, no caso, a instância de origem - dentro do seu livre convencimento motivado - fundamentou, com base em argumentos idôneos e específicos dos autos, o porquê da redução de pena no patamar de 1/6, não há falar em violação do art. 33, § 4º, da Lei n. 11.343/2006.
+2. Agravo regimental não provido.
+RELATÓRIO
+NELINHO DE OLIVEIRA FERREIRA MACIEL interpõe agravo regimental contra decisão de minha relatoria, em que neguei provimento ao recurso especial e, por conseguinte, mantive inalterada a reprimenda a ele imposta pela prática do crime de tráfico de drogas.
+A defesa reitera a sua compreensão de que a minorante prevista no § 4º do art. 33 da Lei de Drogas deve ser aplicada no patamar máximo de 2/3, e não em 1/6, como efetivado pela Corte de origem.
+Para tanto, argumenta que "a afirmação de que o recorrente teria "perfeita consciência de estar a serviço de um grupo dessa natureza" não se ancora em qualquer elemento concreto do processo, constituindo mera presunção, o que viola frontalmente o dever constitucional de motivação e a necessária individualização da pena"(fl. 1.118).
+Sustenta que "inexiste nos autos qualquer elemento concreto que evidencie ciência do recorrente quanto à natureza ilícita da carga ou eventual vínculo, mesmo indireto, com organização cri minosa" (fl. 1.118).
+Requer, assim, a reconsideração do decisum anteriormente proferido ou a submissão do feito a julgamento pelo órgão colegiado, para q ue (fls. 1.120-1.121):
+ ..  esta Corte Superior proceda à readequação do quantum de redução, aplicando a minorante no patamar máximo de 2/3, diante do preenchimento integral dos requisitos legais e da inexistência de circunstâncias negativas concretamente demonstradas;
+d) subsidiariamente ao pedido anterior, caso não se entenda cabível o patamar máximo, que seja fixada fração mais favorável, ao menos em 1/3, em consonância com a jurisprudência desta Corte, especialmente em hipóteses nas quais há maior gravidade fática e efetiva demonstração de ciência do agente quanto à atuação em favor de organização criminosa;
+e) apenas de forma subsidiária, na hipótese de não se entender possível a reforma direta por esta Corte, que seja reconhecida a nulidade do acórdão recorrido por ausência de fundamentação idônea, nos termos do art. 93, IX, da Constituição Federal c/c art.
+564, V, do Código de Processo Penal, determinando-se o retorno dos autos à instância de origem para novo julgamento com fundamentação concreta acerca do quantum de redução;
+f) por fim, sendo alterada a fração de diminuição, que seja realizada a nova dosimetria da pena, com a adequação do regime inicial de cumprimento e das demais consequências legais decorrentes da reprimenda final.
+EMENTA
+AGRAVO REGIMENTAL NO RECURSO ESPECIAL. TRÁFICO DE DROGAS. MINORANTE PREVISTA NO ART. 33, § 4º, DA LEI N. 11.343/2006. FRAÇÃO DO REDUTOR. FUNDAMENTAÇÃO CONCRETA E IDÔNEA. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. O disposto no art. 33, § 4º, da Lei n. 11.343/2006 estabelece apenas os requisitos necessários para a aplicação da minorante nele prevista, deixando, contudo, de estabelecer os parâmetros para a fixação do quantum de diminuição de pena. Uma vez que, no caso, a instância de origem - dentro do seu livre convencimento motivado - fundamentou, com base em argumentos idôneos e específicos dos autos, o porquê da redução de pena no patamar de 1/6, não há falar em violação do art. 33, § 4º, da Lei n. 11.343/2006.
+2. Agravo regimental não provido.
+VOTO
+Em que pesem os argumentos despendidos pelo recorrente, entendo que não lhe assiste razão.
+O Tribunal de origem entendeu devida a incidência da minorante em questão no patamar de 1/6, nos seguintes termos (fl. 1.030):
+No que concerne à redução da pena prevista no § 4º do art. 33 da Lei nº11.343/2006, entendo, em consonância com a jurisprudência pacificada do Superior Tribunal de Justiça, que não se pode afastar nesta hipótese, de forma absoluta, sua incidência. No entanto, a redução não pode ser aplicada em seu patamar máximo.
+Ora, ainda que não integre, em caráter estável e permanente, a organização criminosa, o transportador tem perfeita consciência de estar a serviço de um grupo dessa natureza, o que não pode ser desprezado, assim como também não pode sê-lo a gravidade concreta do ilícito, razão pela qual entendo que o apelante faz jus à minorante prevista no art. 33, § 4º, da Lei n. 11.343/2006 na fração de 1/6.
+Com efeito, segundo o disposto no § 4º do art. 33 da Lei de Drogas, "Nos delitos definidos no caput e no § 1º deste artigo, as penas poderão ser reduzidas de um sexto a dois terços, vedada a conversão em penas restritivas de direitos, desde que o agente seja primário, de bons antecedentes, não se dedique às atividades criminosas nem integre organização criminosa".
+Assim, observa-se que o dispositivo legal estabelece apenas os requisitos necessários para a aplicação da minorante nela prevista, deixando, contudo, de estabelecer os parâmetros para a fixação do quantum de diminuição de pena.
+No caso, uma leitura atenta do acórdão recorrido permite identificar que a Corte estadual - dentro do seu livre convencimento motivado - fundamentou, com base em argumentos idôneos e específicos dos autos, o porquê da redução mínima prevista em lei, havendo destacado, em síntese, a complexidade da operação, a magnitude do tráfico de drogas, a possível multiplicidade de pessoas envolvidas e a consciência de que o réu estava a serviço de uma organização criminosa.
+Em caso semelhante, a Sexta Turma desta Corte Superior também entendeu devida a aplicação da minorante no patamar mínimo de 1/6, conforme precedente abaixo colacionado:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. TRÁFICO TRANSNACIONAL DE DROGAS. FRAÇÃO DA MINORANTE PREVISTA NO § 4º DO ART. 33 DA LEI N. 11.343/2006. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. Havendo sido concretamente fundamentada a aplicação da minorante em comento no patamar de 1/6, sobretudo em razão de ""estar-se diante de quem se prestou a atuar na condição popularmente conhecida como "mula" do tráfico"" (fl. 252), não há contrariedade ao disposto no art. 33, § 4º, da Lei de Drogas.
+2. Agravo regimental não provido.
+(AgRg no AREsp n. 684.780/AM, Rel. Ministro Rogerio Schietti, DJe 19/5/2016).
+Ainda, relembro, por oportuno, que o juiz, ao reconhecer a presença dos quatro requisitos necessários ao reconhecimento da benesse em questão, não está obrigado a aplicar o patamar máximo de redução de pena, porquanto possui plena discricionariedade para, à luz das peculiaridades do caso concreto, efetivar a diminuição no quantum que entenda suficiente e necessário para a prevenção e a repressão do delito perpetrado, tal como ocorreu no caso dos autos.
+Portanto, em razão de todas essas considerações, não identifico a apontada violação legal e, por conseguinte, entendo irretocável a conclusão do decisum recorrido de que deveria ser mantida inalterada a reprimenda aplicada ao réu.
+À vista do exposto, nego provimento ao agravo regimental.
