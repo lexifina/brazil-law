@@ -1,0 +1,43 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEXTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 09/04/2026 a 15/04/2026, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Carlos Pires Brandão, Og Fernandes, Sebastião Reis Júnior e Rogerio Schietti Cruz votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Carlos Pires Brandão.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO HABEAS CORPUS. ALEGAÇÃO DE OMISSÃO. NÃO OCORRÊNCIA. EMBARGOS DE DECLARAÇÃO REJEITADOS.
+1. Os embargos de declaração, no processo penal, são oponíveis com fundamento na existência de ambiguidade, obscuridade, contradição e/ou omissão no decisum embargado e, por isso, não constituem instrumento adequado para demonstração de inconformismos da parte com o resultado do julgado e/ou para formulação de pretensões de modificações do entendimento aplicado, salvo quando, excepcionalmente, cabíveis os efeitos infringentes, o que, contudo, não configura a hipótese dos autos.
+2. O acórdão embargado foi claro e expresso ao concluir que, nos termos da orientação jurisprudencial do STJ, o exame da continuidade delitiva na fase de execução penal deve ser realizado no momento da unificação das penas aplicadas em processos diferentes. Diante disso, já tendo as penas aplicadas ao réu sido unificadas, eventuais defeitos não impugnados estão acobertados em razão da preclusão. Ademais, embora as matérias de ordem pública possam ser conhecidas de ofício, uma vez já praticado o ato processual e caso não seja impugnado em momento oportuno, elas podem sofrer os efeitos da preclusão.
+3. Tendo o acórdão embargado analisado explicitamente as questões relevantes e imprescindíveis para a análise do writ, não há que se falar em omissão no julgado, sendo certo que o julgador não está obrigado a enfrentar, um a um, todos os argumentos deduzidos pela parte quando a fundamentação for adequada para sustentar a conclusão adotada, o que efetivamente ocorreu no caso concreto.
+4 . Embargos de declaração rejeitados.
+RELATÓRIO
+O EXMO. SR. MINISTRO ANTONIO SALDANHA PALHEIRO (Relator):
+Trata-se de embargos de declaração opostos por VAGNER MIRANDA MELO contra o acórdão que negou provimento ao agravo regimental.
+Em suas razões, o ora embargante alega que "a decisão padece de omissão e falta de fundamentação exauriente, porquanto o acórdão deixou de enfrentar a tese central de que a matéria em debate constitui matéria de ordem pública. É irrefutável que vícios na dosimetria da pena, que impactam diretamente a liberdade de locomoção, não se sujeitam aos efeitos da preclusão, podendo ser sanados a qualquer tempo, inclusive de ofício, em respeito ao princípio da individualização da pena. Ao se ater apenas ao fundamento da preclusão, a decisão ignorou o argumento de que o quantum da pena é matéria insuscetível de ser convalidada pelo decurso do tempo" (e-STJ fl. 114).
+Aduz, ainda, que o julgado "não se enfrentou o pedido expresso de distinção (distinguishing). Conforme exposto nas razões do agravo, foi invocado precedente deste Colendo Tribunal (Habeas Corpus 967.446/SP) que deixou explícito que "o condenado não poderá ser penalizado pelo equívoco, erro, omissão ou falta de celeridade no reconhecimento de seus direitos e garantias. A responsabilidade é do Estado. Trata-se até mesmo de matéria de ordem pública, cujo reconhecimento independe do interessado, tanto no caso da unificação de penas, como no de reconhecimento de continuidade delitiva ou da progressão de regime" (e-STJ fl. 114).
+Diante disso, requer o acolhimento dos embargos para que, emprestando-lhes efeitos infringentes, sejam sanados os vícios apontados.
+É o relatório.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO HABEAS CORPUS. ALEGAÇÃO DE OMISSÃO. NÃO OCORRÊNCIA. EMBARGOS DE DECLARAÇÃO REJEITADOS.
+1. Os embargos de declaração, no processo penal, são oponíveis com fundamento na existência de ambiguidade, obscuridade, contradição e/ou omissão no decisum embargado e, por isso, não constituem instrumento adequado para demonstração de inconformismos da parte com o resultado do julgado e/ou para formulação de pretensões de modificações do entendimento aplicado, salvo quando, excepcionalmente, cabíveis os efeitos infringentes, o que, contudo, não configura a hipótese dos autos.
+2. O acórdão embargado foi claro e expresso ao concluir que, nos termos da orientação jurisprudencial do STJ, o exame da continuidade delitiva na fase de execução penal deve ser realizado no momento da unificação das penas aplicadas em processos diferentes. Diante disso, já tendo as penas aplicadas ao réu sido unificadas, eventuais defeitos não impugnados estão acobertados em razão da preclusão. Ademais, embora as matérias de ordem pública possam ser conhecidas de ofício, uma vez já praticado o ato processual e caso não seja impugnado em momento oportuno, elas podem sofrer os efeitos da preclusão.
+3. Tendo o acórdão embargado analisado explicitamente as questões relevantes e imprescindíveis para a análise do writ, não há que se falar em omissão no julgado, sendo certo que o julgador não está obrigado a enfrentar, um a um, todos os argumentos deduzidos pela parte quando a fundamentação for adequada para sustentar a conclusão adotada, o que efetivamente ocorreu no caso concreto.
+4 . Embargos de declaração rejeitados.
+VOTO
+O EXMO. SR. MINISTRO ANTONIO SALDANHA PALHEIRO (Relator):
+Os embargos de declaração, consoante disposição do art. 619 do Código de Processo Penal, destinam-se a sanar possível ambiguidade, obscuridade, contradição ou omissão nas razões delineadas no corpo da decisão, em face das pretensões deduzidas e demais elementos constantes do processo.
+Essa é a vocação legal do recurso, sempre enfatizada nos precedentes desta Corte Superior, como se depreende do aresto a seguir:
+PROCESSUAL PENAL. EMBARGOS DE DECLARAÇÃO.  ..  ART. 619 DO CPP. AMBIGUIDADE, OMISSÃO, CONTRADIÇÃO OU OBSCURIDADE. AUSÊNCIA.
+1. Os embargos de declaração são cabíveis nas hipóteses de haver ambiguidade, obscuridade, contradição e/ou omissão no acórdão prolatado (artigo 619 do Código de Processo Penal).
+2. No caso, percebe-se claramente a oposição do recurso tão somente para rediscutir o mérito do que fora decidido. Sob o pretexto da alegação de omissão ou inexatidão, pretende o embargante apenas renovar a discussão com os mesmos argumentos com os quais a Corte Especial do Superior Tribunal de Justiça não concordou.
+ ..
+5. As Cortes Superiores já pacificaram que os efeitos infringentes nos embargos de declaração dependem da premissa de que haja algum dos vícios a serem sanados (omissão, contradição ou obscuridade) e, por decorrência, a conclusão deve se dar no sentido oposto ao que inicialmente proferido. Precedentes.
+6. Não há vício de embargabilidade quando o aresto recorrido decide integralmente a controvérsia, de maneira sólida e fundamentada.
+7. Embargos de declaração rejeitados. (EDcl na APn 613/SP, relator Ministro OG FERNANDES, CORTE ESPECIAL, DJe 3/2/2016.)
+Com efeito, os embargos declaratórios constituem instrumento de colaboração no processo. Trata-se de instrumento de efetivo aperfeiçoamento da tutela jurisdicional.
+In casu, o acórdão embargado foi claro e expresso ao concluir que, nos termos da orientação jurisprudencial do STJ, o exame da continuidade delitiva na fase de execução penal deve ser realizado no momento da unificação das penas aplicadas em processos diferentes. Diante disso, já tendo as penas aplicadas ao réu sido unificadas, eventuais defeitos não impugnados estão acobertados em razão da preclusão. Ademais, embora as matérias de ordem pública possam ser conhecidas de ofício, uma vez já praticado o ato processual e caso não seja impugnado em momento oportuno, elas podem sofrer os efeitos da preclusão.
+Desse modo, tendo o acórdão embargado analisado explicitamente as questões relevantes e imprescindíveis para a análise do conflito de competência, não há que se falar em omissão no julgado.
+Registre-se que o julgador não está obrigado a enfrentar, um a um, todos os argumentos deduzidos pela parte, sendo suficiente que apresente fundamentação adequada e coerente para sustentar a conclusão adotada, o que efetivamente ocorreu no caso concreto.
+Percebe-se, na verdade, uma insatisfação da parte quanto ao resultado do julgamento e a pretensão de modificá-lo por meio de instrumento processual nitidamente inábil à finalidade almejada.
+Ante o exposto, rejeito os embargos de declaração.
+É como voto.
+Ministro ANTONIO SALDANHA PALHEIRO
+Relator
