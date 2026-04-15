@@ -1,0 +1,53 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em nome de LUCAS MESQUITA GOMES, denunciado pela suposta prática do crime do art. 12 da Lei n. 10.826/2003, beneficiário de suspensão condicional do processo posteriormente revogada (Processo n. 5024133-85.2022.8.24.0008, da 2ª Vara Criminal da comarca de Blumenau/SC).
+A impetrante aponta como autoridade coatora o Tribunal de Justiça de Santa Catarina, que, em 19/3/2026, por unanimidade, conheceu e negou provimento ao recurso em sentido estrito, mantendo a revogação da suspensão condicional do processo (Recurso em Sentido Estrito n. 5003242-04.2026.8.24.0008 - 13/17).
+Alega, em síntese, ilegalidade da revogação do sursis processual por ausência de intimação válida do beneficiário para justificar suposto descumprimento, somada a falhas estatais na fiscalização do benefício - cancelamento da carta precatória originária, expedição de ofício em nome de terceiro e ausência de retorno da nova deprecada -, o que afastaria a conclusão de inadimplemento voluntário e injustificado.
+Sustenta ser indispensável prova de intimação válida para legitimar a revogação diante de imputação específica de descumprimento, inexistente no caso.
+Afirma que o período de prova encerrou-se em 4/11/2024 sem demonstração idônea de inadimplemento pessoal, voluntário e injustificado, sendo indevida a manutenção da revogação por presunção extraída de deficiência estatal de fiscalização.
+Registra, ainda, a manifestação do Ministério Público, em primeiro e segundo graus, favorável ao reconhecimento da extinção da punibilidade.
+Em caráter liminar, pede a suspensão imediata dos efeitos da decisão revogatória da suspensão condicional do processo, com restabelecimento provisório do benefício. No mérito, requer a cassação da decisão que revogou a suspensão condicional do processo e do acórdão que a manteve, com a restauração dos efeitos do benefício e a declaração da extinção da punibilidade, à vista do transcurso do período de prova sem comprovação de inadimplemento voluntário e injustificado.
+É o relatório.
+Busca a impetração a cassação da decisão que revogou a suspensão condicional do processo.
+Inicialmente, transcrevo a fundamentação da decisão do Magistrado singular, que revogou o benefício (fl. 55):
+1. Em audiência, o acusado aceitou o benefício da suspensão condicional do processo (evento 20, DOC1), sendo que, dentre as condições fixadas, estabeleceu-se a prestação pecuniária no importe de 1 (um) salário mínimo.
+O Ministério Público, no evento 41, DOC1, requereu a intimação do acusado, a fim de que justificasse o descumprimento da referida condição, sob pena de rescisão do benefício e prosseguimento da ação penal. O pleito fora deferido (evento 43, DOC1) e a carta precatória expedida (evento 48, DOC1).
+Decorrido o prazo sem resposta (evento 53, DOC1), instado, o Ministério Público manifestou-se pela revogação da suspensão condicional do processo, nos termos do art. 89, § 4º, da Lei 9.099/95 (evento 56, DOC1).
+Assim, acolho o parecer ministerial retro e, por consequência, REVOGO o benefício da suspensão condicional do processo, o que faço com fulcro no art. 89, § 4º, da Lei n. 9.099/95, porquanto não houve resposta do denunciado referente ao cumprimento das condições impostas.
+2. Intime-se o acusado para apresentar resposta à acusação por escrito, em 10 (dez) dias (ou de 20 dias, no caso de defensor público), através de advogado, na forma do art. 396-A do CPP.
+Por sua vez, a Corte local negou provimento ao recurso em sentido estrito interposto pelo paciente, aos seguintes fundamentos (fls. 14/15):
+Após manifestação do Ministério Público do Estado de Santa Catarina, intimado para comprovar o pagamento da prestação pecuniária (evento 31.1 da ação penal), foi expedida carta precatória, a qual, no entanto, teve sua distribuição cancelada, sem qualquer motivo aparente (evento 38.2).
+Em seguida, o órgão ministerial voltou a requerer a intimação do acusado (evento 41.1), todavia foi emitido ofício em nome de pessoa diversa do recorrente (evento 48.1).
+Diante da conjuntura, entendendo o Magistrado singular que o demandado não comprovou o cumprimento das condições do benefício, revogou o sursis processual concedido (correlato evento 59.1).
+Posto isso, destaca-se que a suspensão condicional do processo é regulada pela Lei 9.099/1995, que, após estatuir os requisitos para a implementação da benesse em seu art. 89, dispõe, no § 4º do citado dispositivo:
+§ 4º A suspensão poderá ser revogada se o acusado vier a ser processado, no curso do prazo, por contravenção, ou descumprir qualquer outra condição imposta.
+Na conjuntura vertente, em que pese tenha Lucas Mesquita Gomes se comprometido a cumprir as condições estabelecidas, evitando a continuidade da persecução penal, não há nos autos informações de que as tenha executado da forma acordada perante o Juízo, sendo certo que o desrespeito sem qualquer justificativa não pode ser tratado com brandura, tendo em vista que firmemente rejeitado pelo ordenamento jurídico.
+A propósito, conforme entendimento do Superior Tribunal de Justiça, " ..  o descumprimento de condição estabelecida na suspensão condicional do processo - artigo 89 da Lei n.º 9.099/95 - é causa de revogação do benefício, que pode ocorrer, inclusive, após expirado o período de prova e extinta a punibilidade,  ..  (HC 379.650/RS, rel. Min. Maria Thereza de Assis Moura, j. 13-12- 2016).
+ ..
+Ademais, constatado o descumprimento da condição imposta, não há falar em necessidade de intimação do recorrente, uma vez que já havia sido devidamente cientificado, quando da homologação da suspensão condicional do processo, acerca das obrigações assumidas e das consequências de sua inobservância, incidindo, assim, em causa de revogação obrigatória da benesse.
+ ..
+Destarte, deve permanecer incólume a decisão hostilizada.
+Ante o exposto, voto no sentido de conhecer do recurso e negar-lhe provimento.
+No caso, embora o Tribunal tenha feito referência à causa de revogação obrigatória, a hipótese, na verdade, trata de causa de revogação facultativa, nos termos do § 4º do art. 89 da Lei n. 9.099/1995. Então, nos termos da jurisprudência desta Corte Superior, razão assiste à impetração, pois ao paciente é assegurada a possibilidade de se justificar quanto ao descumprimento das condições impostas para a suspensão processual.
+Confiram-se julgados nesse sentido:
+PROCESSO PENAL. HABEAS CORPUS SUBSTITUTIVO DE RECURSO ESPECIAL. NÃO CABIMENTO. CRIME DE TRÂNSITO. REVOGAÇÃO DA SUSPENSÃO CONDICIONAL DO PROCESSO. POSSIBILIDADE. AUSÊNCIA DE INTIMAÇÃO DO PACIENTE OU DE SUA DEFESA PARA JUSTIFICAR O DESCUMPRIMENTO DAS CONDIÇÕES IMPOSTAS. CONSTRANGIMENTO ILEGAL CONFIGURADO. ORDEM CONCEDIDA DE OFÍCIO.
+ ..
+II - Este Tribunal Superior, ao julgar o Resp n. 1.498.034/RS, sob a égide dos recursos repetitivos, fixou a tese de que "Da exegese do § 4º do art. 89 da Lei n. 9.099/1995 ("a suspensão poderá ser revogada se o acusado vier a ser processado, no curso do prazo, por contravenção, ou descumprir qualquer outra condição imposta), constata-se ser viável a revogação da suspensão condicional do processo ante o descumprimento, durante o período de prova, de condição imposta, mesmo após o fim do prazo legal." (REsp n. 1.498.034/RS, Terceira Seção, Rel. Min. Rogerio Schietti Cruz, DJe de 02/12/2015, grifei).
+III - Em outra vertente, muito embora seja possível a revogação da suspensão condicional do processo após o fim do período de prova, é necessário oportunizar à Defesa a manifestação acerca do pedido formulado pelo Ministério Público. Precedentes.
+IV - In casu, não houve intimação prévia do paciente a fim de justificar o descumprimento das condições, antes da revogação do sursis processual, configurando o constrangimento ilegal apontado pela Defesa.
+Habeas corpus não conhecido. Ordem concedida, de ofício, anulando a condenação do ora paciente, a partir da decisão do d. Juízo de 1º grau que revogou a suspensão condicional do processo sem a sua prévia intimação, para determinar que o acusado e sua Defesa sejam intimados a fim de poderem se manifestar acerca dos motivos que ensejaram o descumprimento das condições impostas, em respeito aos princípios constitucionais do contraditório e da ampla defesa.
+(HC n. 543.784/ES, Ministro Leopoldo de Arruda Raposo (Desembargador Convocado do TJ/PE), Quinta Turma, DJe de 28/2/2020 - grifo nosso)
+RECURSO ORDINÁRIO EM HABEAS CORPUS. CRIME AMBIENTAL. ART. 39 DA LEI 9.605/98. REVOGAÇÃO DA SUSPENSÃO CONDICIONAL DO PROCESSO APÓS O FIM DO PERÍODO DE PROVA. POSSIBILIDADE. AUSÊNCIA DE INTIMAÇÃO DO RECORRENTE OU DE SUA DEFESA PARA JUSTIFICAR O DESCUMPRIMENTO DAS CONDIÇÕES IMPOSTAS. CONSTRANGIMENTO ILEGAL CONFIGURADO. RECURSO PARCIALMENTE PROVIDO.
+ ..
+II - Em outra vertente, muito embora seja possível a revogação da suspensão condicional do processo após o fim do período de prova, é necessário oportunizar à Defesa a manifestação acerca do pedido formulado pelo Ministério Público. Precedentes.
+III - In casu, não houve intimação prévia do recorrente a fim de justificar o descumprimento das condições, antes da revogação do sursis processual, configurando o constrangimento ilegal apontado pela Defesa.
+Recurso ordinário parcialmente provido para anular a decisão do Juízo de 1º grau que revogou a suspensão condicional do processo, determinando-se a prévia intimação do recorrente e de sua Defesa para que possam se manifestar acerca dos motivos que ensejaram o descumprimento das condições impostas.
+(RHC n. 84.930/RS, Ministro Felix Fischer, Quinta Turma, DJe de 6/4/2018 - grifo nosso)
+Conclui-se, então, que a impetração evidenciou inquestionável ilegalidade no acórdão hostilizado.
+Por fim, além de o pedido de extinção da punibilidade não ter sido objeto de debate na instância de origem, com a concessão da ordem, entendo que também está prejudicado, devendo eventual insurgência ser dirigida à instância ordinária.
+Em razão disso, concedo liminarmente a ordem impetrada para anular a decisão que revogou a suspensão condicional do processo, Ação Penal n. 5024133-85.2022.8.24.0008, da 2ª Vara Criminal da comarca de Blumenau/SC, devendo o acusado ser intimado para se manifestar acerca dos motivos que ensejaram o descumprimento das condições impostas.
+Comunique-se com urgência.
+Intime-se o Ministério Público estadual.
+Publique-se.
+EMENTA
+PROCESSUAL PENAL. HABEAS CORPUS. POSSE IRREGULAR DE ARMA DE FOGO DE USO PERMITIDO. SUSPENSÃO CONDICIONAL DO PROCESSO. REVOGAÇÃO. AUSÊNCIA DE INTIMAÇÃO DO PACIENTE PARA JUSTIFICAR O DESCUMPRIMENTO DAS CONDIÇÕES IMPOSTAS. CONSTRANGIMENTO ILEGAL CONFIGURADO. PRECEDENTES.
+Ordem concedida liminarmente nos termos do dispositivo.
