@@ -1,0 +1,48 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEXTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 09/04/2026 a 15/04/2026, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Carlos Pires Brandão, Og Fernandes, Sebastião Reis Júnior e Rogerio Schietti Cruz votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Carlos Pires Brandão.
+EMENTA
+AGRAVO REGIMENTAL NO HABEAS CORPUS. LESÃO CORPORAL. DECISÃO DO MINISTRO PRESIDENTE QUE INDEFERIU LIMINARMENTE O PEDIDO. DOSIMETRIA. SUBSTITUIÇÃO DE PENA PRIVATIVA DE LIBERDADE POR RESTRITIVAS DE DIREITOS. CIRCUNSTÂNCIA JUDICIAL DESFAVORÁVEL. MEDIDA NÃO SOCIALMENTE RECOMENDÁVEL. FIXAÇÃO DE REGIME MAIS GRAVOSO. FUNDAMENTAÇÃO IDÔNEA. AGRAVO REGIMENTAL DESPROVIDO.
+1. "Não há como determinar a substituição da pena privativa de liberdade por restritiva de direitos, por ausência de cumprimento do requisito subjetivo (circunstância judicial desfavorável, com a fixação da pena-base acima do mínimo legal - art. 44, III, do Código Penal)" (AgRg no AREsp n. 1.058.790/MS, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 2/8/2018, DJe de 9/8/2018.)
+2. No caso, o Tribunal de origem decidiu em consonância com o entendimento pacificado nesta Corte Superior, uma vez que fixou o regime semiaberto com base em fundamentação idônea - existência de circunstância judicial desfavorável -, apta a justificar o recrudescimento do regime prisional.
+3. Agravo regimental desprovido.
+RELATÓRIO
+O EXMO. SR. MINISTRO ANTONIO SALDANHA PALHEIRO (Relator):
+Trata-se de agravo regimental interposto por FABIO MENDES GONDIM contra a decisão de e-STJ fls. 873/876, por meio da qual a Presidência desta Corte Superior indeferiu liminarmente o habeas corpus impetrado em seu favor.
+A controvérsia tratada nos autos foi devidamente relatada às e-STJ fls. 873/876, in verbis:
+Consta dos autos que o paciente foi condenado à pena de 3 (três) anos de reclusão, em regime semiaberto, pela prática do delito capitulado no art. 129, § 1º, incisos I e III, e § 2º, inciso IV, do Código Penal.
+Em suas razões, sustentam os impetrantes a ocorrência de constrangimento ilegal, porquanto o acórdão manteve regime inicial semiaberto para pena definitiva de 3 (três) anos de reclusão imposta ao paciente primário, sem fundamentação idônea e em descompasso com a legislação aplicável.
+Alegam que é devido o direito à substituição da pena privativa de liberdade por restritivas de direitos, por preenchimento dos requisitos legais, e que a negativa se apoiou em fundamentação inidônea, contaminada por elementos de delitos atingidos pela prescrição e por gravidade abstrata do tipo penal remanescente.
+Argumentam que, subsidiariamente, deve ser fixado o regime aberto, pois houve erro na fixação do regime inicial, ausência de motivação específica, violação aos critérios legais, bis in idem na consideração do resultado lesivo e desproporcionalidade frente à pena de 3 (três) anos.
+Defendem que é possível a aplicação imediata do regime menos severo, havendo excesso de execução na guia que mantém o regime semiaberto e iminência de recolhimento indevido, o que justifica tutela liminar para suspender o cumprimento no regime intermediário.
+Expõem que o uso do remédio constitucional é cabível diante de teratologia e flagrante ilegalidade, sendo inaplicável, por analogia, óbice sumular ao conhecimento do writ, ante a ameaça concreta à liberdade ambulatorial do paciente.
+Requerem, em suma, a substituição da pena privativa de liberdade por restritiva de direitos e, subsidiariamente, a alteração do regime inicial de cumprimento da pena para o aberto.
+Neste agravo regimental, a defesa repisa os argumentos deduzidos anteriormente, requerendo, desse modo, a reconsideração da decisão agravada ou a submissão da matéria ao colegiado.
+É o relatório.
+EMENTA
+AGRAVO REGIMENTAL NO HABEAS CORPUS. LESÃO CORPORAL. DECISÃO DO MINISTRO PRESIDENTE QUE INDEFERIU LIMINARMENTE O PEDIDO. DOSIMETRIA. SUBSTITUIÇÃO DE PENA PRIVATIVA DE LIBERDADE POR RESTRITIVAS DE DIREITOS. CIRCUNSTÂNCIA JUDICIAL DESFAVORÁVEL. MEDIDA NÃO SOCIALMENTE RECOMENDÁVEL. FIXAÇÃO DE REGIME MAIS GRAVOSO. FUNDAMENTAÇÃO IDÔNEA. AGRAVO REGIMENTAL DESPROVIDO.
+1. "Não há como determinar a substituição da pena privativa de liberdade por restritiva de direitos, por ausência de cumprimento do requisito subjetivo (circunstância judicial desfavorável, com a fixação da pena-base acima do mínimo legal - art. 44, III, do Código Penal)" (AgRg no AREsp n. 1.058.790/MS, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 2/8/2018, DJe de 9/8/2018.)
+2. No caso, o Tribunal de origem decidiu em consonância com o entendimento pacificado nesta Corte Superior, uma vez que fixou o regime semiaberto com base em fundamentação idônea - existência de circunstância judicial desfavorável -, apta a justificar o recrudescimento do regime prisional.
+3. Agravo regimental desprovido.
+VOTO
+O EXMO. SR. MINISTRO ANTONIO SALDANHA PALHEIRO (Relator):
+O recurso não apresenta argumento capaz de desconstituir os fundamentos que embasaram a decisão ora impugnada, que deve ser integralmente mantida, in verbis (e-STJ fls. 873/876):
+A matéria referente ao regime inicial de cumprimento da pena aqui suscitada é também objeto do AREsp n. 2.344.774/MS.
+Constata-se, assim, a inadmissível reiteração, consoante o entendimento do Superior Tribunal de Justiça. Vejam-se os seguintes precedentes:
+ ..
+Na espécie, consta do Voto condutor do acórdão impugnado a seguinte fundamentação quanto ao pedido de substituição da pena privativa de liberdade por penas restritivas de direito:
+Incabível a substituição da pena corpórea por penas alternativas, em face do princípio da suficiência da pena, considerando a presença de duas circunstâncias judiciais negativas.
+ ..
+O requisito que demanda maior atenção, em razão da elevada dose de subjetividade que encerra, é o previsto pelo inciso III, o qual não se atrela exclusivamente à análise das circunstâncias judiciais, já realizada pela sentença, daí a necessidade de ser analisado com vistas ao princípio da proporcionalidade, face aos critérios da retributividade e suficiência da sanção penal.
+Face a tais fundamentos, e diante do não atendimento ao requisito previsto pelo inciso III do artigo 44 do Código Penal, incabível a substituição da pena privativa de liberdade por restritivas de direitos (fl. 36).
+Nos termos do art. 44, I a III, do Código Penal, a substituição da pena privativa de liberdade por restritivas de direito exige o cumprimento dos seguintes requisitos cumulativos: (I) aplicação de pena privativa de liberdade não superior a quatro anos e que o crime não tenha sido praticado com violência ou grave ameaça à pessoa ou, qualquer que seja a pena aplicada, se o crime for culposo; (II) o réu não ser reincidente em crime doloso; e (III) a culpabilidade, os antecedentes, a conduta social e a personalidade do condenado, bem como os motivos e as circunstâncias indicarem que essa substituição seja suficiente.
+O art. 44, § 3º, do Código Penal, por sua vez, prevê que é admissível a substituição da pena ao condenado reincidente em crime doloso, desde que, preenchidos os demais requisitos cumulativos, não se trate de reincidência na prática do mesmo crime e, em face de condenação anterior, a medida seja socialmente recomendável.
+Ademais, segundo a jurisprudência do STJ, mesmo não se tratando de reincidência específica, a existência de circunstância judicial desfavorável, com a fixação da pena-base acima do mínimo legal, evidencia que a substituição da reprimenda privativa de liberdade por restritivas de direitos não se mostra medida socialmente recomendável (AgRg no HC n. 904.123/MS, Rel. Ministro Rogerio Schietti Cruz, Sexta Turma, DJe de 3.6.2024; AgRg no HC n. 898.119/SP, Rel. Ministro Messod Azulay Neto, Quinta Turma, DJe de 16.5.2024; AgRg no AREsp n. 2.150.896/SC, Rel. Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe de 19.9.2022).
+Reincidente específico, é possível a negativa de substituição da reprimenda privativa de liberdade por restritivas de direitos com base em circunstâncias do caso concreto que demonstrem que a medida não é socialmente recomendável. Nesse sentido, vale citar os seguintes julgados: AgRg no AREsp n. 2.469.857/DF, Rel. Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), Sexta Turma, DJe de 17.5.2024; AgRg no REsp n. 2.050.963/SP, Rel. Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), Sexta Turma, DJe de 18.4.2024; AgRg no HC n. 887.064/SP, Rel. Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe de 11.4.2024; AgRg no AREsp n. 2.411.877/GO, Rel. Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe de 1.12.2023; AgRg no HC n. 824.579/SP, Rel. Ministro Ribeiro Dantas, Quinta Turma, DJe de 30.8.2023; AgRg no AREsp n. 2.703.609/SP, relator Ministro Joel Ilan Paciornik, Quinta Turma, DJEN de 14/4/2025.
+Nessa linha, o julgado impugnado não diverge da jurisprudência do STJ e da nossa legislação pátria, pois a negativa de substituição da pena privativa de liberdade por restritivas de direito foi fundamentada na ausência do requisito previsto no art. 44, III, do CP, ante a existência de circunstâncias judiciais desfavoráveis.
+De fato, uma vez que as instâncias ordinárias valoram negativamente duas circunstâncias judiciais mediante fundamentação idônea, não há que se cogitar na imposição de regime inicial menos gravoso, nem na substituição da pena privativa de liberdade por restritivas de direitos.
+Ante o exposto, nego provimento ao agravo regimental.
+É o voto.
+Ministro ANTONIO SALDANHA PALHEIRO
+Relator
