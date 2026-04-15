@@ -1,0 +1,84 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUINTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 09/04/2026 a 15/04/2026, por unanimidade, negar provimento ao recurso, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Reynaldo Soares da Fonseca, Ribeiro Dantas, Joel Ilan Paciornik e Messod Azulay Neto votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro Reynaldo Soares da Fonseca.
+EMENTA
+DIREITO PENAL E PROCESSUAL PENAL. AGRAVO REGIMENTAL EM HABEAS CORPUS. HABEAS CORPUS COMO SUCEDÂNEO DE RECURSO PRÓPRIO. INADEQUAÇÃO DA VIA ELEITA. PRISÃO PREVENTIVA. TRÁFICO DE DROGAS. GRAVIDADE CONCRETA. QUANTIDADE, NATUREZA E DIVERSIDADE DE ENTORPECENTES. REINCIDÊNCIA. GARANTIA DA ORDEM PÚBLICA. PRISÃO DOMICILIAR. MÃE DE MENOR. SITUAÇÃO EXCEPCIONALÍSSIMA. PRÁTICA DELITIVA EM AMBIENTE DOMÉSTICO. INDEFERIMENTO. AGRAVO REGIMENTAL DESPROVIDO.
+I. CASO EM EXAME
+1. Agravo regimental interposto contra decisão monocrática que não conheceu de habeas corpus, por inadequação da via eleita, e afastou a concessão da ordem de ofício, mantendo a prisão preventiva de mulher condenada por tráfico de drogas, diante da apreensão de expressiva quantidade e variedade de entorpecentes em ambiente doméstico, da reincidência específica e do indeferimento do pedido de substituição da custódia por prisão domiciliar.
+II. QUESTÃO EM DISCUSSÃO
+2. Há duas questões em discussão: (i) definir se é cabível a impetração de habeas corpus como sucedâneo de recurso próprio, na ausência de flagrante ilegalidade; (ii) estabelecer se estão presentes os requisitos legais e jurisprudenciais para a manutenção da prisão preventiva e para o indeferimento da substituição por prisão domiciliar a mãe de criança menor de 12 anos, em situação excepcionalíssima.
+III. RAZÕES DE DECIDIR
+3. O habeas corpus é inadequado quando utilizado como substitutivo de recurso próprio ou de revisão criminal, admitindo-se exame de ofício apenas em hipóteses de flagrante ilegalidade, abuso de poder ou teratologia, não evidenciadas no caso concreto.
+4. A prisão preventiva é mantida com fundamento concreto na garantia da ordem pública, diante da gravidade da conduta, evidenciada pela quantidade, natureza e diversidade dos entorpecentes apreendidos, todos acondicionados e prontos para o comércio.
+5. A reincidência específica da agravante em crime de tráfico de drogas demonstra contumácia delitiva e periculosidade, legitimando a custódia cautelar.
+6. A substituição da prisão preventiva por medidas cautelares diversas revela-se inadequada quando demonstrada, de forma fundamentada, a necessidade da segregação.
+7. A substituição da prisão preventiva por domiciliar a mãe de criança menor de 12 anos pode ser indeferida em situações excepcionalíssimas, nos termos da jurisprudência do STF e do STJ, especialmente quando o delito é praticado em ambiente doméstico.
+8. A prática do tráfico de drogas no mesmo ambiente em que convive o filho menor afasta a adequação da prisão domiciliar, em atenção ao princípio do melhor interesse da criança.
+9. A ausência de comprovação da imprescindibilidade da agravante aos cuidados do filho menor, somada à informação de que a criança se encontra sob os cuidados do genitor, reforça o indeferimento do benefício.
+IV. DISPOSITIVO E TESE
+10. Agravo regimental desprovido.
+Tese de julgamento:
+1. O habeas corpus não é meio adequado para substituir recurso próprio ou revisão criminal, salvo em caso de flagrante ilegalidade, abuso de poder ou teratologia.
+2. A quantidade, a natureza e a diversidade dos entorpecentes, aliadas à reincidência, constituem fundamentos idôneos para a manutenção da prisão preventiva para garantia da ordem pública.
+3. A prisão domiciliar a mãe de criança menor de 12 anos pode ser indeferida em situações excepcionalíssimas, especialmente quando a prática delitiva ocorre em ambiente doméstico incompatível com o melhor interesse do menor.
+RELATÓRIO
+Trata-se de agravo regimental interposto por AGATA FERNANDA KUHL MOTA contra decisão de fls. 81-82, que não conheceu do habeas corpus e manteve a prisão cautelar da ora agravante.
+Sustenta a defesa que a agravante foi denunciada pelo art. 33 da Lei n. 11.343/2006, encontrando-se presa desde 31/5/2025 e é mãe de criança menor de 12 (doze) anos. Alega que, embora haja registro de passagem criminal anterior, não se verifica situação excepcionalíssima a justificar o indeferimento da prisão domiciliar, tendo sobrevindo sentença condenatória em 5 (cinco) anos e 10 (dez) meses de reclusão, com manutenção da custódia cautelar.
+Sustenta que o Tribunal de origem denegou a ordem sob presunção indevida de inadequação materna e exigência de prova da imprescindibilidade, em suposta afronta ao HC coletivo n. 143.641/STF. Argumenta que a decisão monocrática agravada manteve a prisão preventiva por entender que a droga estava em casa, mas que a quantidade apreendida (cerca de meio quilo somando maconha, cocaína e crack) não configura hipótese excepcionalíssima para afastar o comando do HC coletivo n. 143.641/SP.
+Aponta que não há qualquer referência de acesso da criança aos entorpecentes e que a fundamentação baseada no local da guarda da droga esvazia o precedente, criando distinção econômica entre mães acusadas de tráfico.
+Defende, ainda, que a imprescindibilidade materna é presumida pelo ordenamento e que a substituição dos cuidados por outros parentes viola o princípio da intrans cendência da pena, razão pela qual deve ser substituída a prisão preventiva por domiciliar, sem prejuízo das medidas cautelares diversas.
+Requer o provimento do agravo regimental para reconsiderar a decisão agravada e conceder a ordem, substituindo a prisão preventiva por domiciliar, ou, ao menos, revogando a preventiva.
+É o relatório.
+EMENTA
+DIREITO PENAL E PROCESSUAL PENAL. AGRAVO REGIMENTAL EM HABEAS CORPUS. HABEAS CORPUS COMO SUCEDÂNEO DE RECURSO PRÓPRIO. INADEQUAÇÃO DA VIA ELEITA. PRISÃO PREVENTIVA. TRÁFICO DE DROGAS. GRAVIDADE CONCRETA. QUANTIDADE, NATUREZA E DIVERSIDADE DE ENTORPECENTES. REINCIDÊNCIA. GARANTIA DA ORDEM PÚBLICA. PRISÃO DOMICILIAR. MÃE DE MENOR. SITUAÇÃO EXCEPCIONALÍSSIMA. PRÁTICA DELITIVA EM AMBIENTE DOMÉSTICO. INDEFERIMENTO. AGRAVO REGIMENTAL DESPROVIDO.
+I. CASO EM EXAME
+1. Agravo regimental interposto contra decisão monocrática que não conheceu de habeas corpus, por inadequação da via eleita, e afastou a concessão da ordem de ofício, mantendo a prisão preventiva de mulher condenada por tráfico de drogas, diante da apreensão de expressiva quantidade e variedade de entorpecentes em ambiente doméstico, da reincidência específica e do indeferimento do pedido de substituição da custódia por prisão domiciliar.
+II. QUESTÃO EM DISCUSSÃO
+2. Há duas questões em discussão: (i) definir se é cabível a impetração de habeas corpus como sucedâneo de recurso próprio, na ausência de flagrante ilegalidade; (ii) estabelecer se estão presentes os requisitos legais e jurisprudenciais para a manutenção da prisão preventiva e para o indeferimento da substituição por prisão domiciliar a mãe de criança menor de 12 anos, em situação excepcionalíssima.
+III. RAZÕES DE DECIDIR
+3. O habeas corpus é inadequado quando utilizado como substitutivo de recurso próprio ou de revisão criminal, admitindo-se exame de ofício apenas em hipóteses de flagrante ilegalidade, abuso de poder ou teratologia, não evidenciadas no caso concreto.
+4. A prisão preventiva é mantida com fundamento concreto na garantia da ordem pública, diante da gravidade da conduta, evidenciada pela quantidade, natureza e diversidade dos entorpecentes apreendidos, todos acondicionados e prontos para o comércio.
+5. A reincidência específica da agravante em crime de tráfico de drogas demonstra contumácia delitiva e periculosidade, legitimando a custódia cautelar.
+6. A substituição da prisão preventiva por medidas cautelares diversas revela-se inadequada quando demonstrada, de forma fundamentada, a necessidade da segregação.
+7. A substituição da prisão preventiva por domiciliar a mãe de criança menor de 12 anos pode ser indeferida em situações excepcionalíssimas, nos termos da jurisprudência do STF e do STJ, especialmente quando o delito é praticado em ambiente doméstico.
+8. A prática do tráfico de drogas no mesmo ambiente em que convive o filho menor afasta a adequação da prisão domiciliar, em atenção ao princípio do melhor interesse da criança.
+9. A ausência de comprovação da imprescindibilidade da agravante aos cuidados do filho menor, somada à informação de que a criança se encontra sob os cuidados do genitor, reforça o indeferimento do benefício.
+IV. DISPOSITIVO E TESE
+10. Agravo regimental desprovido.
+Tese de julgamento:
+1. O habeas corpus não é meio adequado para substituir recurso próprio ou revisão criminal, salvo em caso de flagrante ilegalidade, abuso de poder ou teratologia.
+2. A quantidade, a natureza e a diversidade dos entorpecentes, aliadas à reincidência, constituem fundamentos idôneos para a manutenção da prisão preventiva para garantia da ordem pública.
+3. A prisão domiciliar a mãe de criança menor de 12 anos pode ser indeferida em situações excepcionalíssimas, especialmente quando a prática delitiva ocorre em ambiente doméstico incompatível com o melhor interesse do menor.
+VOTO
+Presentes os requisitos de admissibilidade, conheço do recurso.
+No mérito, contudo, a irresignação deixa de justificar-se, devendo a decisão atacada ser mantida por seus próprios fundamentos.
+A decisão ora agravada foi proferida nos seguintes termos (fls. 81-82):
+ ..
+A Quinta Turma do Superior Tribunal de Justiça firmou entendimento no sentido de ser inadequada a impetração de habeas corpus quando utilizado em substituição a recurso próprio.
+A teor do disposto no art. 105, II, a, da CF/88, o recurso cabível contra acórdão que denega a ordem na origem é o recurso ordinário, enquanto, consoante previsto no art. 105, III, da CF, o recurso cabível contra acórdão que julga apelação, recurso em sentido estrito e agravo em execução é o recurso especial.
+Nada impede, contudo, a concessão de habeas corpus de ofício quando constatada a existência de ilegalidade flagrante, abuso de poder ou teratologia, nos termos do art. 654, § 2º, do CPP, o que ora se passa a examinar.
+A prisão preventiva justifica-se apenas quando devidamente demonstrada sua imprescindibilidade para a preservação da ordem pública, a garantia da regularidade da instrução criminal ou a asseguração da eficácia da aplicação da lei penal, nos termos do art. 312 do Código de Processo Penal.
+Sobre a controvérsia, extrai-se do acórdão impugnado (fls. 75-78):
+ ..  No caso, ausente prova idônea nesse sentido e considerando a gravidade concreta do delito (apreensão de expressiva quantidade e variedade de entorpecentes), mostra-se inaplicável, de forma irrestrita, o precedente do STF no HC coletivo 143.641/SP, que admite manutenção da custódia em situações excepcionais devidamente fundamentadas. Aqui, a prisão também se justifica como medida de proteção integral e em atenção ao princípio do melhor interesse da criança, uma vez que os entorpecentes (186 gramas de maconha, 222 gramas de cocaína, 20 gramas de crack), foram encontrados na residência da própria paciente.
+ ..
+Ademais, a paciente não fez prova de sua imprescindibilidade aos cuidados do filho menor, sendo insuficiente alegar que o menor necessita de ajuda. Cabia à Defesa o ônus da comprovação com outros elementos que pudessem atestar cabalmente essa necessidade.
+Ressalte-se, por fim, que, conforme bem destacado pelo d. Juízo a quo, por ocasião da audiência de custódia, ao indeferir a substituição da prisão preventiva por domiciliar, a paciente informou que a criança se encontra sob os cuidados do genitor.
+Inexiste, portanto, constrangimento ilegal a ser sanado por essa via.  ..
+Verifica-se que o benefício pretendido foi afastado tendo em vista a notícia de que os delitos eram praticados em ambiente doméstico.
+Embora o Supremo Tribunal Federal tenha admitido a substituição da prisão preventiva pela domiciliar de todas as mulheres presas, gestantes, puérperas ou mães de crianças e deficientes, nos termos do art. 2º do ECA e da Convenção sobre Direitos das Pessoas com Deficiências (Decreto Legislativo n. 186/2008 e Lei n. 13.146/2015), devem ser excetuados os casos de crimes praticados por elas mediante violência ou grave ameaça à pessoa, contra seus descendentes ou, ainda, em situações excepcionalíssimas.
+Nos termos da jurisprudência desta Corte, " a pós a publicação da Lei 13.769/2018, que introduziu o art. 318-A ao Código de Processo Penal, a 3ª Seção desta Corte Superior manteve o entendimento de que é possível ao julgador indeferir a prisão domiciliar a mães de crianças menores de 12 anos, quando constatada, além das exceções previstas no dispositivo, a inadequação da medida em razão de situações excepcionalíssimas, nos termos do entendimento consolidado pelo Supremo Tribunal Federal no julgamento do HC Coletivo n. 143.641/SP" (AgRg no RHC n. 139.900/SP, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 9/3/2021, DJe de 23/3/2021).
+Portanto, observada a situação excepcionalíssima, "é caso de aplicação do decidido pela Terceira Seção desta Casa no julgamento do RHC n. 113.897/BA, no qual se destacou a inadequação da prisão domiciliar em razão das circunstâncias em que praticado o delito, porquanto a prática delituosa "desenvolvia-se no mesmo ambiente em que convive com o filho menor, não se mostrando adequado para os cuidados do incapaz a prisão domiciliar" (RHC n. 113.897/BA, relator Ministro Nefi Cordeiro, Terceira Seção, julgado em 27/11/2019, DJe 13/12/2019)" (AgRg no HC n. 982.118/ES, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 11/6/2025, DJEN de 16/6/2025).
+Não há, portanto, flagrante ilegalidade que justifique a concessão da ordem de ofício.
+Ante o exposto, não conheço do habeas corpus.
+ ..
+Inicialmente, o habeas corpus não deve ser manejado como sucedâneo de revisão criminal ou recurso próprio, sendo incabível sua utilização quando se pretende reexame de matéria já apreciada pelas instâncias ordinárias, salvo em hipóteses de flagrante ilegalidade, abuso de poder ou teratologia, nos termos do art. 654, § 2º, do CPP, situação excepcional não evidenciada nos presentes autos.
+Posto isso, observa-se que a prisão preventiva foi mantida com base em fundamentos concretos para a garantia da ordem pública, em razão da gravidade da conduta, considerando que a agravante foi presa em flagrante e posteriormente condenada pela prática do delito de tráfico de drogas, tendo sido apreendidas 58 porções de maconha, 255 porções de cocaína e 18 porções de crack - todas acondicionadas e prontas para o comércio, em local conhecido como ponto de venda. Ademais, conforme aponta a sentença, a paciente é reincidente, tendo sido anteriormente condenada pela prática do crime de tráfico de drogas na ação penal de n. 1500180-70.2023.8.26.0604.
+Com efeito, " a  jurisprudência consolidada do Superior Tribunal de Justiça reconhece que a quantidade, a natureza e a diversidade das substâncias entorpecentes apreendidas constituem fundamentos adequados para a decretação da prisão preventiva" (AgRg no HC n. 1.031.163/SP, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 15/10/2025, DJEN de 22/10/2025.)
+Ademais, conforme pacífica jurisprudência desta Corte, "a preservação da ordem pública justifica a imposição da prisão preventiva quando o agente ostentar maus antecedentes, reincidência, atos infracionais pretéritos, inquéritos ou mesmo ações penais em curso, porquanto tais circunstâncias denotam sua contumácia delitiva e, por via de consequência, sua periculosidade" (RHC n. 107.238/GO, Relator Ministro ANTONIO SALDANHA PALHEIRO, Sexta Turma, julgado em 26/2/2019, DJe 12/3/2019).
+Desse modo, "tendo sido exposta de forma fundamentada e concreta a necessidade da prisão, revela-se incabível sua substituição por outras medidas cautelares mais brandas" (AgRg no HC n. 965.960/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 5/3/2025, DJEN de 10/3/2025).
+Outrossim, quanto ao pleito defensivo acerca da substituição da prisão preventiva por prisão domiciliar, não assiste razão a defesa, tendo em vista que o benefício pretendido foi indeferido diante da notícia do cometimento do crime em ambiente doméstico.
+Portanto, correta a compreensão pretérita, apontando que a prática delitiva "desenvolvia-se no mesmo ambiente em que convive com o filho menor, não se mostrando adequado para os cuidados do incapaz a prisão domiciliar" (RHC n. 113.897/BA, relator Ministro Nefi Cordeiro, Terceira Seção, julgado em 27/11/2019, DJe 13/12/2019).
+  Não há, portanto, flagrante ilegalidade que justifique a concessão da ordem de ofício.
+Ante o exposto, nego provimento ao agravo regimental.
+É o voto.
