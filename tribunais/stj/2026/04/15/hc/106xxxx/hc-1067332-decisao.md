@@ -1,0 +1,50 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em favor de ANDERSON DE OLIVEIRA em que se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DO PARANÁ (Apelação Criminal n. 018112-61.2018.8.16.0035).
+Na peça inicial, a defesa informa que o paciente foi condenado à pena de 6 anos e 7 meses de reclusão, em regime inicialmente fechado, e ao pagamento de 700 dias-multa, pelo crime tipificado no art. 33 da Lei n. 11.343/2006.
+O acórdão condenatório transitou em julgado.
+Daí o presente writ, no qual alega a inexistência de provas suficientes para a condenação. No mérito, requer a concessão da ordem para absolver o paciente e reformar o acórdão recorrido, restabelecendo a sentença absolutória de primeiro grau (e-STJ fls. 2/33).
+Foram prestadas informações (e-STJ fls. 112/124).
+O Ministério Público Federal manifestou-se pelo não conhecimento do habeas corpus (e-STJ fls. 162/164).
+É o relatório.
+Decido.
+A jurisprudência do Superior Tribunal de Justiça é uníssona no sentido de que não cabe a utilização de habeas corpus como sucedâneo de recurso próprio ou de revisão criminal, sob pena de desvirtuamento do objeto ínsito ao remédio heroico, qual seja, o de prevenir ou remediar lesão ou ameaça de lesão ao direito de locomoção.
+Não se desconhece a orientação presente no art. 647-A, caput e parágrafo único, do Código de Processo Penal, segundo a qual se permite a qualquer autoridade judicial, no âmbito de sua competência jurisdicional e quando verificada a presença de flagrante ilegalidade, a expedição de habeas corpus de ofício em vista de lesão ou ameaça de lesão à liberdade de locomoção.
+Entretanto, tal não é o caso do presente writ.
+Isso, porque, segundo o entendimento deste Tribunal, " o  habeas corpus não é a via adequada para apreciar o pedido de absolvição ou de desclassificação de condutas, tendo em vista que, para se desconstituir o decidido pelas instâncias de origem, mostra-se necessário o reexame aprofundado dos fatos e das provas constantes dos autos, procedimento vedado pelos estreitos limites do writ, caracterizado pelo rito célere e por não admitir dilação probatória" (AgRg no RHC n. 198.668/MG, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 1º/7/2024, DJe de 3/7/2024).
+No caso em apreço, o Tribunal, ao analisar a controvérsia, assentou sua decisão nos fundamentos constantes das e-STJ fls. 48/57:
+A respeito da materialidade do crime, esta é certa e decorre da apreensão de 243,4 kg da substância vulgarmente conhecida como "maconha", devidamente periciada, conforme consta do laudo pericial de mov. 104.1 e boletim de ocorrência de mov. 49.2.
+Conforme destaca o representante ministerial em primeiro grau, bem como a douta Procuradoria Geral de Justiça, a autoria também restou devidamente comprovada nos autos. Vejamos.
+ ..
+Conforme bem destacado pelo Ministério Público, os policiais apreenderam em flagrante ambos os acusados tendo em vista que as denúncias anteriores também davam conta do envolvimento de mais dois homens com a acusada.
+Além disso, se o acusado tivesse se dirigido à residência somente para realizar um orçamento de um banheiro, não teria porque ter se evadido para o interior de uma residência de uma pessoa até então desconhecida (conforme ele mesmo alega).
+Não bastasse, a defesa não produziu qualquer prova além da testemunhal, que realmente embasasse sua versão, como um registro de chamada telefônica que solicitou o orçamento, ou mesmo de um contrato de trabalho com a pessoa que alega ter uma empresa de serviços de obras e reformas.
+O que temos de concreto, é que no momento da abordagem o acusado se evadiu para o interior da residência, quando a acusada afirma que receberia alguém em sua residência para buscar a droga.
+A autoridade policial então apreendeu o acusado, que foi localizado no interior da residência ao lado da apelante quando esta fazia a pesagem da droga.
+Importante ressaltar também, que o acusado alega que teria se dirigido à residência para fazer o orçamento de um banheiro, sendo que os policiais localizaram determinada quantidade de drogas no quarto da apelante e também no banheiro da residência.
+Além disso, temos também em desfavor do acusado o fato de que este já fora condenado por associação e tráfico de entorpecentes, em fato ocorrido no ano de 2013.
+Temos, portanto, de um lado, denúncias de que na casa da acusada o tráfico envolvia a proprietária da residência e mais duas pessoas, a fuga do acusado (reincidente em tráfico de entorpecentes) para o interior da casa de uma pessoa que sequer conhecia, um orçamento solicitado para um cômodo da casa que estava repleto de drogas e nenhuma comprovação de vínculo empregatício entre o acusado e o suposto proprietário da empresa de obras e reformas.
+De outro lado, temos as palavras isoladas do acusado de que estava no local para realizar um orçamento, contando somente com as palavras de uma testemunha por ele arrolada e do informante que é marido da acusada.
+Assim, não havendo qualquer comprovação do contato prévio sobre este orçamento, ou mesmo de vínculo profissional entre a testemunha arrolada e o acusado, entendo que a versão apresentada pela acusação encontra respaldo nas provas produzidas nos autos, ao contrário da versão apresentada pela Defesa, razão pela qual, a condenação do acusado pela prática do crime previsto no artigo 33 da Lei 11.343/05, é medida que se impõe.
+Com efeito, da leitura do trecho citado, observa-se que as instâncias ordinárias, após ampla instrução probatória, concluíram, com base nas provas angariadas sob o crivo do contraditório e da ampla defesa, pela condenação do paciente pelo crime imputado.
+Segundo a Corte local, em momento anterior à prisão do paciente, as autoridades policiais receberam notícias acerca do tráfico de drogas no imóvel indicado, empreitada delitiva dirigida por uma mulher e dois homens. Consta, ainda, que o paciente, ao avistar os policiais, evadiu-se para o interior da residência  a qual continha vultosa quantidade de entorpecentes  , sendo apreendido ao lado da coautora enquanto ela realizava a pesagem do entorpecente.
+Dessa forma, a partir desse quadro fático, conclui-se que a Corte local formou sua convicção acerca dos fatos a partir da livre apreciação dos elementos probatórios constantes dos autos, os quais consubstanciam arcabouço probatório robusto que permite a manutenção da condenação do paciente, inviabilizando, por consequência, a absolvição.
+Portanto, diverso do que alega a defesa, para infirmar o pronunciamento das instâncias ordinárias, emanado com respaldo nas provas obtidas sob o pálio do devido processo legal e com respeito aos princípios do contraditório e da ampla defesa, seria necessário o reexame do material fático-probatório constante dos autos, o que é vedado na via eleita.
+Nesse sentido:
+DIREITO PROCESSUAL PENAL. AGRAVO REGIMENTAL. BUSCA DOMICILIAR. TRÁFICO DE DROGAS E RECEPTAÇÃO. AGRAVO REGIMENTAL IMPROVIDO.
+1. O Tribunal local considerou legítima a entrada dos policiais na residência, com base na autorização do padrasto do agravante e na situação de flagrante delito, segundo a jurisprudência do Supremo Tribunal Federal e do Superior Tribunal de Justiça.
+2. Conforme consignado na sentença, o vídeo juntado pela defesa demonstra que o ingresso dos policiais na residência se deu em um contexto de fuga do agravante, o que justifica o ingresso no domicílio.
+3. No mais, "o habeas corpus não é a via adequada para apreciar o pedido de absolvição ou de desclassificação de condutas, tendo em vista que, para se desconstituir o decidido pelas instâncias de origem, mostra-se necessário o reexame aprofundado dos fatos e das provas constantes dos autos, procedimento vedado pelos estreitos limites do writ, caracterizado pelo rito célere e por não admitir dilação probatória" (AgRg no RHC n. 198.668/MG, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 1º/7/2024, DJe de 3/7/2024).
+4. Agravo regimental improvido.
+(AgRg na PET no HC n. 896.346/SP, relator Ministro Og Fernandes, Sexta Turma, julgado em 18/6/2025, DJEN de 26/6/2025.)
+AGRAVO REGIMENTAL EM HABEAS CORPUS. PROCESSO PENAL. TRÁFICO DE DROGAS. ALEGAÇÃO DE INIMPUTABILIDADE DO RÉU. NÃO CONFIGURADA. NULIDADE DA PROVA. QUEBRA DA CADEIA DE CUSTÓDIA NÃO COMPROVADA. MATERIALIDADE COMPROVADA. CONDENAÇÃO DEVIDAMENTE FUNDAMENTADA. CONSTRANGIMENTO ILEGAL NÃO EVIDENCIADO. AGRAVO REGIMENTAL DESPROVIDO.
+1. Comprovado nos autos que a conduta delitiva sobreveio à maioridade penal, o réu é totalmente imputável.
+2. Nos termos do art. 158-A do Código de Processo Penal, considera-se cadeia de custódia o conjunto de todos os procedimentos utilizados para manter e documentar a história cronológica do vestígio coletado em locais ou em vítimas de crimes, para rastrear sua posse e manuseio a partir de seu reconhecimento até o descarte.
+Consequentemente, a quebra da cadeia seria a inobservância dos referidos procedimentos, afastando a confiabilidade da prova produzida, tornando-a eventualmente nula.
+3. Se as instâncias ordinárias compreenderam que não foi constatado nenhum comprometimento da cadeia de custódia ou ofensa às determinações contidas no art. 158-A do Código de Processo Penal, o seu reconhecimento, neste momento processual, demandaria amplo revolvimento do conjunto fático- probatório, o que, como é sabido, não é possível na via do habeas corpus.
+4. O habeas corpus não é a via adequada para apreciar o pedido de absolvição ou de desclassificação de condutas, tendo em vista que, para se desconstituir o decidido pelas instâncias de origem, mostra-se necessário o reexame aprofundado dos fatos e das provas constantes dos autos, procedimento vedado pelos estreitos limites do writ, caracterizado pelo rito célere e por não admitir dilação probatória. Precedentes.
+5. Agravo regimental desprovido.
+(AgRg no HC n. 922.374/GO, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 18/6/2025, DJEN de 26/6/2025.)
+Não vislumbro, assim, manifesta ilegalidade que permita a concessão da ordem.
+Ante o exposto, não conheço do habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
