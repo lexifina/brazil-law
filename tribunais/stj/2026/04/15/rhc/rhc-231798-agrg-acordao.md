@@ -1,0 +1,71 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEXTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 09/04/2026 a 15/04/2026, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Sebastião Reis Júnior, Rogerio Schietti Cruz, Antonio Saldanha Palheiro e Carlos Pires Brandão votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Carlos Pires Brandão.
+EMENTA
+PENAL E PROCESSUAL PENAL. AGRAVO REGIMENTAL NO RECURSO EM HABEAS CORPUS. HOMICÍDIO QUALIFICADO TENTADO. CORRUPÇÃO DE MENORES. ASSOCIAÇÃO PARA O TRÁFICO. EXCESSO DE PRAZO NÃO CONFIGURADO. PROCESSO COMPLEXO. SUSPENSÃO DO FEITO. ART. 366 DO CPP. ENCERRAMENTO DA INSTRUÇÃO. SÚMULA N. 52 DO STJ. PRISÃO PREVENTIVA. REAVALIAÇÃO NONAGESIMAL. AUSÊNCIA DE ILEGALIDADE. AGRAVO REGIMENTAL IMPROVIDO.
+1. O excesso de prazo na prisão cautelar deve ser aferido à luz do princípio da razoabilidade, considerando as peculiaridades do caso concreto, não se limitando a critério matemático.
+2. A complexidade do feito, evidenciada pela pluralidade de réus, pela multiplicidade de delitos de natureza grave, pela submissão ao rito especial do Tribunal do Júri e pela suspensão do processo, nos termos do art. 366 do Código de Processo Penal, em razão da não localização do agravante, justifica a maior duração da persecução penal.
+3. Não se verifica desídia ou inércia do Poder Judiciário quando a marcha processual segue regular, com designação e realização de audiências e encerramento da instrução criminal.
+4. Encerrada a instrução, revela-se superada a alegação de excesso de prazo, nos termos da Súmula n. 52 do STJ.
+5. O prazo de 90 dias para reavaliação da prisão preventiva não possui natureza peremptória, de modo que sua inobservância não implica, automaticamente, a ilegalidade da custódia. Assim, a efetiva reavaliação da medida em momento posterior afasta a alegação de ausência de controle judicial.
+6. Agravo regimental improvido.
+RELATÓRIO
+Trata-se de agravo regimental interposto por WALLAS ALMEIDA SILVARES contra a decisão de fls. 229-233, que negou provimento ao recurso em habeas corpus.
+Nas razões deste recurso, a defesa aduz que o decreto de prisão preventiva é genérico e sem elementos concretos, o que violaria a necessidade de fundamentação específica.
+Argumenta que falta contemporaneidade na medida cautelar, porque a prisão preventiva foi decretada e só foi cumprida anos depois, situação que tornaria a segregação incompatível com os requisitos atuais da cautelar.
+Defende que houve desídia estatal, com ausência de reavaliação periódica da prisão por três anos e demora injustificada no andamento processual, o que imporia o relaxamento ou a substituição da prisão por medidas cautelares diversas.
+Expõe que revisões posteriores da prisão não afastam a mora anterior, pois não sanariam o período pretérito sem controle judicial da cautelar.
+Requer, ao final, o acolhimento do agravo, pretendendo obter a concessão da ordem. Busca a reconsideração da decisão para que seja revogada a prisão preventiva do agravante ou a submissão do recurso ao colegiado.
+É o relatório.
+EMENTA
+PENAL E PROCESSUAL PENAL. AGRAVO REGIMENTAL NO RECURSO EM HABEAS CORPUS. HOMICÍDIO QUALIFICADO TENTADO. CORRUPÇÃO DE MENORES. ASSOCIAÇÃO PARA O TRÁFICO. EXCESSO DE PRAZO NÃO CONFIGURADO. PROCESSO COMPLEXO. SUSPENSÃO DO FEITO. ART. 366 DO CPP. ENCERRAMENTO DA INSTRUÇÃO. SÚMULA N. 52 DO STJ. PRISÃO PREVENTIVA. REAVALIAÇÃO NONAGESIMAL. AUSÊNCIA DE ILEGALIDADE. AGRAVO REGIMENTAL IMPROVIDO.
+1. O excesso de prazo na prisão cautelar deve ser aferido à luz do princípio da razoabilidade, considerando as peculiaridades do caso concreto, não se limitando a critério matemático.
+2. A complexidade do feito, evidenciada pela pluralidade de réus, pela multiplicidade de delitos de natureza grave, pela submissão ao rito especial do Tribunal do Júri e pela suspensão do processo, nos termos do art. 366 do Código de Processo Penal, em razão da não localização do agravante, justifica a maior duração da persecução penal.
+3. Não se verifica desídia ou inércia do Poder Judiciário quando a marcha processual segue regular, com designação e realização de audiências e encerramento da instrução criminal.
+4. Encerrada a instrução, revela-se superada a alegação de excesso de prazo, nos termos da Súmula n. 52 do STJ.
+5. O prazo de 90 dias para reavaliação da prisão preventiva não possui natureza peremptória, de modo que sua inobservância não implica, automaticamente, a ilegalidade da custódia. Assim, a efetiva reavaliação da medida em momento posterior afasta a alegação de ausência de controle judicial.
+6. Agravo regimental improvido.
+VOTO
+A pretensão recursal não merece acolhimento, uma vez que os fundamentos apresentados no agravo regimental não evidenciam equívoco na decisão recorrida.
+Conforme consta da decisão agravada, a prisão cautelar não possui um prazo determinado por lei, devendo sua manutenção obedecer a critérios verificados judicialmente conforme os parâmetros fático-processuais de cada caso, como a quantidade de crimes, a pluralidade de réus, o número de defensores envolvidos e, em alguns casos, a própria conduta adotada pela defesa.
+Por isso, o eventual reconhecimento da ilegalidade da prisão por excesso de prazo não decorre da mera aplicação de critério matemático, exigindo a prevenção de eventual retardamento demasiado e injustificado da prestação jurisdicional.
+Esse é o sentido da pacífica jurisprudência do Superior Tribunal de Justiça. A esse respeito, confiram-se os seguintes julgados: AgRg no RHC n. 187.959/CE, de minha relatoria, Sexta Turma, julgado em 30/9/2024, DJe de 3/10/2024; HC n. 876.102/PR, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 24/9/2024, DJe de 27/9/2024; e HC n. 610.097/SE, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 27/4/2021, DJe de 30/4/2021.
+O Tribunal local examinou a questão nos seguintes termos, conforme se observa no voto condutor do acórdão (fl. 198):
+Quanto à alegação de excesso de prazo na formação da culpa, sustenta a defesa que o paciente encontra-se preso há aproximadamente cinco anos, o que, segundo afirma, configuraria constrangimento ilegal decorrente de morosidade processual.
+Consoante se depreende dos autos, o paciente se encontrava em liberdade desde 27 de julho de 2018, em razão do cumprimento de pena em regime aberto, conforme alvará de soltura expedido pela Vara de Execuções Penais do Juizado de Vila Velha/ES, no processo n. 0009497-54.2015.8.08.0021.
+Posteriormente, foi expedido decreto de prisão preventiva nos presentes autos em 20 de janeiro de 2020. No entanto, a custódia cautelar não foi cumprida à época, permanecendo o réu em liberdade.
+Em razão da não localização do acusado, o curso da presente ação penal foi suspenso por decisão judicial, com fulcro no art. 366 do Código de Processo Penal, em decorrência da citação por edital e da consequente suspensão do prazo prescricional.
+Somente em 2023 o réu foi preso em flagrante pela prática de novo delito e, na sequência, formalmente recolhido por força do decreto de prisão preventiva anteriormente expedido nestes autos.
+A citação pessoal do acusado foi finalmente efetivada em 06 de outubro de 2023 (id n. 76315402), momento em que a marcha processual pôde ser retomada.
+Destaco, ainda, que a ação penal em exame envolve cinco denunciados, circunstância que amplia a complexidade procedimental, sobretudo diante da necessidade de atos citatórios sucessivos, desmembramento processual (referente ao ora paciente), em 22/5/2025, e designações de audiências de instrução e julgamento, o que naturalmente reflete em maior lapso temporal de tramitação, sem que isso configure desídia estatal.
+Ressalte-se, por oportuno, que o feito segue seu curso regular, encontrando-se atualmente designada audiência de instrução e julgamento para o dia 15/12/2025, o que evidencia a ausência de paralisação injustificada.
+Nesse contexto, é de se aplicar o princípio da razoabilidade, segundo o qual a aferição de eventual excesso de prazo deve considerar a complexidade do processo, a pluralidade de réus e a contribuição da defesa para o decurso do tempo, conforme pacífico entendimento do STJ e STF:
+Conforme se verifica dos autos, a prisão preventiva do agravante foi decretada em 20/1/2020, tendo sido efetivamente cumprida apenas no ano de 2023, período em que o feito permaneceu suspenso, nos termos do art. 366 do Código de Processo Penal. Com o cumprimento da custódia, procedeu-se à citação pessoal em 6/10/2023.
+A audiência de instrução e julgamento foi designada para o dia 15/12/2025.
+Em consulta ao sítio eletrônico do Tribunal de Justiça, verifica-se a realização da referida audiência. Ademais, em 4/2/2026, foi promovida audiência de continuação, ocasião em que se deu o encerramento da instrução criminal.
+Nesse contexto, consideradas as particularidades do caso concreto - notadamente a complexidade do feito, que envolve cinco réus assistidos por procuradores distintos, a apuração de crimes diversos e de elevada gravidade, a prévia suspensão do processo em razão da não localização do agravante, bem como o fato de estar o processo sujeito ao procedimento especial do Tribunal do Júri - não se verifica inércia ou desídia atribuível ao Poder Judiciário quanto ao encerramento da instrução ou à formação da culpa.
+Nesse sentido:
+AGRAVO REGIMENTAL EM RECURSO EM HABEAS CORPUS COM SEGUIMENTO NEGADO. HOMICÍDIO QUALIFICADO E RECEPTAÇÃO SIMPLES. NULIDADE. RECEBIMENTO DA DENÚNCIA. SUPERVENIÊNCIA DA DECISÃO DE PRONÚNCIA. PREJUDICIALIDADE. PRISÃO PREVENTIVA. RISCO DO ESTADO DE LIBERDADE PARA A ORDEM PÚBLICA. GRAVIDADE CONCRETA E REITERAÇÃO DELITIVA. ELEMENTOS CONCRETOS E IDÔNEOS. ALEGAÇÃO DE EXCESSO DE PRAZO PARA A FORMAÇÃO DA CULPA. DESÍDIA OU INÉRCIA DO MAGISTRADO SINGULAR. AUSÊNCIA. ILEGALIDADE MANIFESTA. INEXISTÊNCIA. MANUTENÇÃO DA DECISÃO MONOCRÁTICA QUE SE IMPÕE.
+1. Deve ser mantida a decisão monocrática na qual se negou seguimento ao recurso ordinário, quando não evidenciado constrangimento ilegal quanto à alegada nulidade da decisão de recebimento da denúncia, nem ausência de fundamentação da segregação provisória ou coação ilegal por excesso de prazo.
+2. Prejudicada a alegação de nulidade do recebimento de denúncia, em razão da superveniência da pronúncia do ora agravante.
+3. Inexistente constrangimento quanto à fundamentação do decreto prisional, pois se demonstrou o receio de perigo gerado pelo estado de liberdade à ordem pública, ressaltando a gravidade concreta do delito e a reiteração delitiva, em razão da suspeita de envolvimento com diversos delitos de homicídio ocorridos na localidade, com modo de execução semelhante, em disputas entre facções criminosas pelo tráfico de drogas na região.
+4. Inevidente o alegado excesso de prazo para formações da culpa, uma vez que se trata de feito complexo (com 4 réus, diversidade de condutas delitivas e sujeito ao procedimento especial do Tribunal do Júri) e inexiste contribuição do Judiciário na eventual mora processual, pois, nos termos das informações prestadas pelo Juízo de primeiro grau, em 7/5/2024, foi proferida a pronúncia, tendo sido interposto recurso em sentido estrito pelo ora agravante em 13/5/2024.
+5. Agravo regimental improvido.
+(AgRg no RHC n. 196.620/MA, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 26/8/2024, DJe de 28/8/2024, sem destaque no original.)
+No caso, não se verifica desídia ou mora estatal na ação penal quando a sequência dos atos processuais afasta a ideia de paralisação indevida do processo ou de responsabilidade do Estado persecutor, razão pela qual não há falar em ilegalidade por excesso de prazo.
+Nesse sentido:
+PROCESSO PENAL. AGRAVO REGIMENTAL NO RECURSO EM HABEAS CORPUS. HOMICÍDIO QUALIFICADO TENTADO E CONSUMADO. ORGANIZAÇÃO CRIMINOSA. MEDIDAS CAUTELARES. FUNDAMENTAÇÃO PER RELATIONEM. IMPRESCINDIBILIDADE DA MEDIDAS DEMONSTRADA. EXCESSO DE PRAZO. NÃO OCORRÊNCIA. AGRAVO REGIMENTAL DESPROVIDO.
+1. Não se configura desprovida de fundamentos a decisão que mantém as medidas cautelares impostas pelos mesmos fundamentos quando da sua decretação.
+2. A chamada técnica da fundamentação per relationem (também denominada motivação por referência ou por remissão) é reconhecida pelo Supremo Tribunal Federal como legítima e compatível com o disposto no art. 93, IX, da Constituição Federal.
+3. Diante das circunstâncias concretas do caso e em observância ao binômio proporcionalidade e adequação, é possível a manutenção das medidas cautelares quando se mostrarem necessárias para garantir a ordem pública, a conveniência da instrução criminal ou a aplicação da lei penal.
+4. Inexiste excesso de prazo nas hipóteses em que não há procrastinação do andamento processual por parte da acusação ou por desídia do Poder Judiciário.
+5. Agravo regimental desprovido.
+(AgRg no RHC n. 160.743/MG, relator Ministro João Otávio de Noronha, Quinta Turma, julgado em 17/5/2022, DJe de 20/5/2022.)
+Destaca-se ainda que a instrução já se encontra encerrada, incidindo no caso a Súmula n. 52 do STJ, que dispõe que, "encerrada a instrução criminal, fica superada a alegação de constrangimento por excesso de prazo".
+No que se refere à reavaliação nonagesinal dos fundamentos da prisão, de acordo com o art. 316 do CPP, esta Corte Superior possui entendimento de que:
+ ..  o prazo de 90 dias para reavaliação dos fundamentos da prisão (conforme disposto no art. 316, parágrafo único, do CPP) não é peremptório, isto é, eventual atraso na execução deste ato não implica automático reconhecimento da ilegalidade da prisão, tampouco a imediata colocação do custodiado cautelar em liberdade (HC n. 621.416/RS, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 13/4/2021, DJe de 16/4/2021).
+Ademais, consta do acórdão que, em 18/8/2025, foi proferida decisão reavaliando a prisão preventiva. Posteriormente, na audiência ocorrida em 4/2/2026, foi realizada nova apreciação, ocasião em que foi mantida a prisão. Não há, pois, falar em ilegalidade flagrante que justifique a concessão da ordem.
+Dessa forma, o agravante não trouxe fundamentos aptos a reformar a decisão agravada, que se mantém por seus próprios fundamentos.
+Ante o exposto, nego provimento ao agravo regimental.
+É como voto.
