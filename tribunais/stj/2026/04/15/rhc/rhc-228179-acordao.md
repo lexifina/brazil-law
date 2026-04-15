@@ -1,0 +1,49 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEXTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 09/04/2026 a 15/04/2026, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Rogerio Schietti Cruz, Antonio Saldanha Palheiro, Carlos Pires Brandão e Og Fernandes votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Carlos Pires Brandão.
+EMENTA
+DIREITO PROCESSUAL PENAL. RECURSO EM HABEAS CORPUS. TRÁFICO DE DROGAS, ASSOCIAÇÃO PARA O TRÁFICO E ORGANIZAÇÃO CRIMINOSA. PRISÃO PREVENTIVA. FUNDAMENTAÇÃO CONCRETA.
+1. A prisão preventiva foi fundamentada na gravidade concreta dos delitos imputados, que envolvem crimes de associação para o tráfico ilícito de entorpecentes no contexto de organização criminosa.
+2. A jurisprudência do Superior Tribunal de Justiça reconhece que a gravidade concreta da conduta e o elevado grau de periculosidade do agente, consubstanciados na alta reprovabilidade do modus operandi, são fundamentos idôneos para a decr etação da prisão preventiva, visando à preservação da ordem pública.
+3. Condições pessoais favoráveis não são suficientes para revogar a prisão preventiva, especialmente diante da gravidade concreta da conduta e da insuficiência das medidas cautelares previstas no art. 319 do Código de Processo Penal.
+4. A contemporaneidade da prisão preventiva diz respeito aos motivos ensejadores da medida, e não ao momento da prática do fato ilícito.
+5. Recurso improvido.
+RELATÓRIO
+Trata-se de recurso em habeas corpus interposto por JANICE SIQUEIRA DA SILVA, em que se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO GRANDE DO NORTE no julgamento proferido no Habeas Corpus n. 0800474-31.2025.8.20.5400.
+Consta dos autos que a recorrente foi presa preventivamente em 17/10/2025, pela suposta prática da conduta descrita nos arts. 35 da Lei n. 11.343/2006 e art. 2º, §§ 2º e 3º, da Lei n. 12.850/2013 (fls. 633/637).
+Nas razões do recurso, a defesa alega que o acórdão impugnado manteve a prisão preventiva pela necessidade de garantir a ordem pública, sem, no entanto, apresentar qualquer fundamentação concreta (fl. 643).
+Aduz que a decisão foi fundamentada em dados extraídos do aparelho celular da recorrente que remontam ao ano de 2022, de forma que a prisão preventiva, decretada apenas em 2025, carece de contemporaneidade (fl. 643).
+Sustenta que a fundamentação que manteve a prisão preventiva é genérica, não individualiza a conduta da recorrente e apresenta excesso de linguagem, antecipando um juízo condenatório, o que viola o postulado de necessidade de motivação das decisões judiciais (fls. 644/645).
+Destaca que não foi verificada a possibilidade de substituição da prisão preventiva por medidas cautelares diversas da prisão, o que torna nula a decisão (fl. 645).
+Pontua que não foi demonstrado qualquer perigo concreto na liberdade da recorrente, lastreando-se a decisão em argumentos vagos e genéricos (fls. 645/646).
+Requer o provimento do recurso, com a revogação da prisão preventiva da recorrente; subsidiariamente, pugna pela sua substituição por medidas cautelares diversas (fl. 646).
+Intimado, o Ministério Público Federal opinou pelo não provimento do recurso (fls. 654/657).
+É o relatório.
+EMENTA
+DIREITO PROCESSUAL PENAL. RECURSO EM HABEAS CORPUS. TRÁFICO DE DROGAS, ASSOCIAÇÃO PARA O TRÁFICO E ORGANIZAÇÃO CRIMINOSA. PRISÃO PREVENTIVA. FUNDAMENTAÇÃO CONCRETA.
+1. A prisão preventiva foi fundamentada na gravidade concreta dos delitos imputados, que envolvem crimes de associação para o tráfico ilícito de entorpecentes no contexto de organização criminosa.
+2. A jurisprudência do Superior Tribunal de Justiça reconhece que a gravidade concreta da conduta e o elevado grau de periculosidade do agente, consubstanciados na alta reprovabilidade do modus operandi, são fundamentos idôneos para a decr etação da prisão preventiva, visando à preservação da ordem pública.
+3. Condições pessoais favoráveis não são suficientes para revogar a prisão preventiva, especialmente diante da gravidade concreta da conduta e da insuficiência das medidas cautelares previstas no art. 319 do Código de Processo Penal.
+4. A contemporaneidade da prisão preventiva diz respeito aos motivos ensejadores da medida, e não ao momento da prática do fato ilícito.
+5. Recurso improvido.
+VOTO
+O recurso, no entanto, não comporta provimento.
+Veja-se que, ao julgar o habeas corpus impetrado na origem, o Tribunal de Justiça adotou a seguinte fundamentação (fls. 636/637 - grifo nosso):
+19. No que tange à paciente Janice Siqueira da Silva, consigno que a prisão foi decretada com base em fundamentação concreta, individualizada e contemporânea, dentro do limite de cognição que a fase processual inicial (recebimento de denúncia) autoriza.
+20. A investigação realizada dá conta de que ela supostamente integra a organização criminosa armada "Sindicato do Crime", inclusive com papel de liderança, conforme constou na decisão que decretou a sua prisão preventiva:
+Outrossim, consoante a denúncia, a acusada JANICE SIQUEIRA DA SILVA restou denunciada por ter se associado a DANILO DA SILVA CARDOSO para traficar entorpecentes lícitos, com fulcro nas conversas encontradas no celular no citado réu, ocorridas no ano de 2022. Posteriormente, durante a fase ostensiva desta operação, com o cumprimento da busca e apreensão, deferida nos autos cautelares n.º 0865683-14.2024.8.20.5001, foi apreendido aparelho celular da denunciada JANICE SIQUEIRA, cujo análise de dados revelou elementos que robusteceram a sua atuação criminosa em período mais recente.
+Depreende-se do conteúdo do aparelho celular, que, em conversas que datam do ano de 2024, JANICE SIQUEIRA continuava associando com outras pessoas para fins de tráfico de drogas, além de integrar a organização criminosa armada Sindicato do Crime" ou "Sindicato do RN". Neste contexto, constata-se que novos fatos delitivos foram evidenciados - além daqueles que foram apurados no início da investigação, restando patente então haver indícios de que JANICE SIQUEIRA permanece atuando na criminalidade, razão pela qual sua liberdade representa risco à garantia da ordem pública.
+Além disso, no caso da citada ré, tendo em vista que é apontada como liderança, exercendo papel relevante para a manutenção do grupo criminoso, a medida ora requerida é imprescindível para paralisar as atividades da ORCRIM.
+21. Da fundamentação utilizada pela autoridade impetrada, verifico que a medida extrema foi imposta com base em elementos concretos, em absoluta relação com o contexto fático relativo à suposta prática das condutas delituosas pela paciente.
+22. O mencionado "risco à ordem pública" encontra fundamento nos elementos concretos do fato, pois que há menção ao envolvimento ativo da paciente com facção criminosa armada, por longo lapso temporal, que denota evidente inclinação à prática de crimes relacionados ao tráfico de entorpecentes, bem como à sua posição de liderança na organização.
+23. Desse modo, entendo que o pleito não merece acolhimento em relação à referida paciente.
+Conforme se depreende do excerto acima transcrito, a prisão preventiva da recorrente foi mantida diante da gravidade concreta dos delitos imputados, que envolve associação para o tráfico ilícito de entorpecentes, cujos delitos, aparentemente, foram praticados no contexto de organização criminosa.
+Note-se que foram expedidos mandados de busca e apreensão após investigação que teve início a partir da apreensão de aparelho celular do corréu. Com a deflagração da operação e apreensão do aparelho celular da recorrente, novos elementos investigativos surgiram, inclusive indicando posição de liderança da investigada.
+A propósito, o Superior Tribunal de Justiça, de forma reiterada, registra entendimento no sentido de que a gravidade concreta da conduta, reveladora do potencial elevado grau de periculosidade do agente e consubstanciada na alta reprovabilidade do modus operandi empregado na empreitada delitiva, é fundamento idôneo a lastrear a prisão preventiva, com o intuito de preservar a ordem pública (AgRg no RHC n. 171.820/PR, Ministra Laurita Vaz, Sexta Turma, DJe 20/4/2023).
+Ainda nesse sentido: AgRg no HC n. 940.170/SP, Ministra Daniela Teixeira, Quinta Turma, DJe 30/10/2024; e AgRg no RHC n. 192.072/BA, Ministro Rogerio Schietti Cruz, Sexta Turma, DJe 22/8/2024.
+Destaca-se que a jurisprudência desta Corte é assente no sentido de que se justifica a decretação de prisão de membros de organização criminosa como forma de interromper suas atividades (AgRg no RHC n. 197.732/RJ, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 12/8/2024, DJe de 15/8/2024).
+Ademais, eventuais condições pessoais favoráveis da recorrente não têm o condão de, por si sós, garantir a revogação da prisão preventiva, pois há nos autos elementos hábeis a recomendar a manutenção da custódia preventiva, não se mostrando suficientes as medidas previstas no art. 319 do Código de Processo Penal.
+Acerca da alegação de ausência de contemporaneidade, na linha dos precedentes Tribunais Superiores, duas considerações: primeiro, a contemporaneidade diz respeito aos motivos ensejadores da prisão preventiva, não ao momento da prática criminosa; além disso, é preciso atentar que deve se levar em conta as circunstâncias atuais que demonstrem o perigo concreto atual ou iminente mesmo de conduta praticada no passado.
+E, no presente caso, além da gravidade concreta da conduta e periculosidade da agente, evidenciada pela suposta posição de liderança na ORCRIM, os fatos são recentes, de forma que a existência de conversas que remontam ao ano de 2022 apenas demonstra que, em tese, a prática dos crimes se perpetuou no tempo.
+Diante do exposto, nego provimento ao recurso em habeas corpus.
