@@ -1,0 +1,29 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 09/04/2026 a 15/04/2026, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Afrânio Vilela, Francisco Falcão, Maria Thereza de Assis Moura e Marco Aurélio Bellizze votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Teodoro Silva Santos.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ALEGAÇÃO DE VIOLAÇÃO DOS ARTIGOS 1.022 E 489, § 1º, INCISO IV, DO CÓDIGO DE PROCESSO CIVIL. AUSÊNCIA DE INDICAÇÃO ESPECÍFICA DOS PONTOS OMISSOS, CONTRADITÓRIOS, OBSCUROS OU COM ERRO MATERIAL. DEFICIÊNCIA DE FUNDAMENTAÇÃO. INVOCAÇÃO DE DISPOSITIVO CONSTITUCIONAL INEXISTENTE. INCIDÊNCIA DA SÚMULA N. 284/STF. AGRAVO INTERNO DESPROVIDO.
+1. Não prospera a alegação de violação dos arts. 1.022 e 489, § 1º, inciso IV, do Código de Processo Civil quando o recorrente não especifica, de forma clara e objetiva, os pontos do acórdão recorrido supostamente omissos, contraditórios, obscuros ou com erro material, bem como a relevância de sua análise para a solução da controvérsia. Deficiência de fundamentação atraindo a incidência da Súmula n. 284/STF.
+2. A indicação de fundamento constitucional inexistente (art. 63, § 1º, inciso II, alínea c, da Constituição Federal) evidencia a ausência de delimitação da controvérsia e reforça o óbice da Súmula n. 284/STF, por não permitir a exata compreensão da tese recursal.
+3. Precedentes específicos do Superior Tribunal de Justiça confirmam a aplicação do óbice da Súmula n. 284/STF em hipóteses de formulação genérica ou dissociada do conteúdo normativo invocado (AgInt no REsp n. 1.930.411/RS; AgInt no REsp n. 1.987.866/SP; AgInt nos EDcl no AREsp n. 1.311.559/RS; REsp n. 2.089.769/PB).
+4. Agravo interno desprovido.
+RELATÓRIO
+Trata-se de agravo interno interposto pelo ESTADO DO RIO DE JANEIRO contra decisão por mim proferida, na qual se conheceu do agravo para não conhecer do recurso especial (fls. 491-494).
+Pondera a parte agravante que: (i) o acórdão recorrido padece de vícios de fundamentação a serem sanados; (ii) é inaplicável a Súmula n. 284/STF ao caso, havendo mero erro material na indicação do dispositivo constitucional (fls. 500-505).
+Não foi apresentada resposta ao agravo interno (fl. 509).
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ALEGAÇÃO DE VIOLAÇÃO DOS ARTIGOS 1.022 E 489, § 1º, INCISO IV, DO CÓDIGO DE PROCESSO CIVIL. AUSÊNCIA DE INDICAÇÃO ESPECÍFICA DOS PONTOS OMISSOS, CONTRADITÓRIOS, OBSCUROS OU COM ERRO MATERIAL. DEFICIÊNCIA DE FUNDAMENTAÇÃO. INVOCAÇÃO DE DISPOSITIVO CONSTITUCIONAL INEXISTENTE. INCIDÊNCIA DA SÚMULA N. 284/STF. AGRAVO INTERNO DESPROVIDO.
+1. Não prospera a alegação de violação dos arts. 1.022 e 489, § 1º, inciso IV, do Código de Processo Civil quando o recorrente não especifica, de forma clara e objetiva, os pontos do acórdão recorrido supostamente omissos, contraditórios, obscuros ou com erro material, bem como a relevância de sua análise para a solução da controvérsia. Deficiência de fundamentação atraindo a incidência da Súmula n. 284/STF.
+2. A indicação de fundamento constitucional inexistente (art. 63, § 1º, inciso II, alínea c, da Constituição Federal) evidencia a ausência de delimitação da controvérsia e reforça o óbice da Súmula n. 284/STF, por não permitir a exata compreensão da tese recursal.
+3. Precedentes específicos do Superior Tribunal de Justiça confirmam a aplicação do óbice da Súmula n. 284/STF em hipóteses de formulação genérica ou dissociada do conteúdo normativo invocado (AgInt no REsp n. 1.930.411/RS; AgInt no REsp n. 1.987.866/SP; AgInt nos EDcl no AREsp n. 1.311.559/RS; REsp n. 2.089.769/PB).
+4. Agravo interno desprovido.
+VOTO
+A despeito dos argumentos veiculados no presente recurso, a insurgência não merece prosperar.
+Não obstante o recurso especial alegue violação do art. 1.022 e 489, § 1º, inciso IV, do Código de Processo Civil, não especifica em quais os pontos do acórdão recorrido haveria omissão, contradição, obscuridade ou erro material, tampouco a relevância da análise dessas questões para o caso concreto.
+O recorrente alega omissão quanto à inconstitucionalidade da Lei Estadual n. 9.650/2022, e do art. 63, § 1º, inciso II, alínea c, da Constituição Federal. Contudo, tal dispositivo constitucional não existe, não havendo, portanto, comando normativo capaz de amparar a tese neles fundamentada - vício de iniciativa da Lei Estadual -, que está dissociada de seu conteúdo, o que caracteriza a ausência de delimitação da controvérsia e atrai a incidência da Súmula n. 284 do STF ("É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia"). Nesse sentido AgInt no REsp n. 1.930.411/RS, relator Ministro Gurgel de Faria, Primeira Turma, julgado em 4/9/2023, DJe de 6/9/2023; AgInt no REsp n. 1.987.866/SP, relator Ministro Herman Benjamin, Segunda Turma, julgado em 8/8/2022, DJe de 15/8/2022.
+Portanto, o conhecimento desse capítulo recursal é obstado pela falta de delimitação da controvérsia, atraindo a aplicação da Súmula n. 284 do STF. Nesse sentido, v.g.: AgInt nos EDcl no AREsp n. 1.311.559/RS, relator Ministro Paulo Sérgio Domingues, Primeira Turma, julgado em 30/10/2023, DJe de 3/11/2023; REsp n. 2.089.769/PB, relator Ministro Mauro Campbell Marques, Segunda Turma, julgado em 19/9/2023, DJe de 21/9/2023.
+Ante o exposto, NEGO PROVIMENTO ao agravo interno.
+Sem honorários (art. 25 da Lei n. 12.016/2009; Súmula n. 512/STF: "Não cabe condenação em honorários de advogado na ação de mandado de segurança"; Súmula 105/STJ: "Na ação de mandado de segurança não se admite condenação em honorários advocatícios").
+É o voto.
