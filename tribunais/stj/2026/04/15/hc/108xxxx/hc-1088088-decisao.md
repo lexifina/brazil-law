@@ -1,0 +1,47 @@
+DECISÃO
+Trata-se de habeas corpus substitutivo de recurso próprio impetrado em benefício de LEANDRO DE OLIVEIRA PEDROSO, apontando como autoridade coatora o Tribunal de Justiça do Estado de São Paulo (HC n. 2036855-36.2026.8.26.0000).
+Consta dos autos que, após o trânsito em julgado da condenação, a defesa postulou, perante o Juízo de conhecimento de primeiro grau, a expedição da guia de recolhimento definitiva independentemente do cumprimento do mandado de prisão, tendo sido indeferido o pedido defensivo.
+Contra essa decisão a defesa impetrou habeas corpus perante o Tribunal de Justiça do Estado de São Paulo, que denegou a ordem (e-STJ fls. 866/868).
+No presente writ, a defesa afirma que o paciente está submetido a constrangimento ilegal, por ter sido indeferida a expedição da guia de recolhimento definitiva independentemente do cumprimento do mandado de prisão.
+Sustenta que o acusado permaneceu em liberdade provisória com determinação de cumprimento de medidas cautelares diversas do cárcere, especialmente a de recolhimento domiciliar noturno, no período de 15/4/2020 até o trânsito em julgado. Assim, aplicando-se a detração, poderá ele iniciar o cumprimento da pena em regime diverso do fechado.
+Ao final, em liminar e no mérito, requer a expedição da guia de execução independentemente do cumprimento do mandado prisional, para que seja analisada a detração perante o competente Juízo das Execuções Criminais.
+É o relatório.
+Decido.
+O Tribunal de origem denegou a ordem sob os seguintes fundamentos (e-STJ fls. 16/20):
+A ordem deve ser denegada.
+Primeiramente, convém sublinhar que o prévio cumprimento do mandado de pr isão, à luz do ordenamento vigente, é mesmo requisito do qual depende a expedição da guia de recolhimento. Logo, desde já vale destacar a ausência de ilegalidade nos atos do MM. Juízo de origem, que simplesmente está agindo com o que determina a lei e as normas da Corregedoria Geral da Justiça.
+Não há qualquer obscuridade ou ambiguidade no texto legal. A expedição da guia deve ser feita após a prisão do sentenciado, pois, no documento, deve constar a data de término da pena, o que só é possível aferir a partir do momento da prisão.
+ ..
+Destarte, conforme se depreende da leitura dos dispositivos colacionados, é condição para a expedição de guia de recolhimento definitiva (que dá início ao processo de execução) o cumprimento do mandado de prisão. Não é possível, portanto, determinar a expedição de guia sem que o paciente seja efetivamente recolhido à prisão.
+ ..
+E, no caso trazido a julgamento, como visto, o paciente foi condenado definitivamente em regime fechado, sendo certo que somente após o cumprimento do mandado de prisão é que a guia de recolhimento será expedida e encaminhada ao MM. Juízo da execução competente para o exame da sua situação prisional, a quem caberá decidir sobre eventuais pedidos de detração penal, sendo certo que, somente em caso de indeferimento, será possível à Defesa, caso queira, dirigir-se a esta Corte, sob pena de supressão de instância.
+Essa conclusão a que chegou o Tribunal de origem encontra-se em consonância com a orientação jurisprudencial do Superior Tribunal de Justiça de que "é imprescindível a prisão do sentenciado para posterior expedição de guia de recolhimento" (AgRg no RHC n. 167.177/GO, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 23/8/2022, DJe de 31/8/2022). Nesse mesmo sentido, cita-se:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. DIREITO PENAL. EXECUÇÃO PENAL. GUIA DE RECOLHIMENTO. MANDADO DE PRISÃO PENDENTE DE CUMPRIMENTO. REGIME FECHADO. PRETENSÃO DE CONCESSÃO DE PRISÃO DOMICILIAR. IMPOSSIBILIDADE. REEDUCANDA AINDA NÃO INICIOU A EXECUÇÃO DA PENA. AUSÊNCIA DE CONSTRANGIMENTO ILEGAL.
+1. Com o cumprimento do mandado de prisão é que poderá ser expedida a guia de recolhimento definitiva, instaurando-se o processo de execução, no qual poderão ser formulados pedidos de benefícios prisionais, e que serão analisados pelo Juízo das Execuções Criminais, nos termos dos arts. 66 e 105 da LEP e 674 do Código de Processo Penal.
+2. As instâncias ordinárias destacaram que não foi comprovada a imprescindibilidade dos cuidados da agravante em relação aos filhos menores de idade, reservando a apreciação ao juízo competente, o das execuções penais.
+3. Agravo regimental improvido.
+(AgRg no HC n. 924.414/SP, relator Ministro Og Fernandes, Sexta Turma, julgado em 5/3/2025, DJEN de 12/3/2025, grifei.)
+Ademais, conforme o disposto no art. 105 da Lei de Execução Penal (Lei n. 7.210/1984): "Transitando em julgado a sentença que aplicar pena privativa de liberdade, se o réu estiver ou vier a ser preso, o Juiz ordenará a expedição de guia de recolhimento para a execução."
+Por outro lado, quanto à alegação de que o paciente teria direito à detração para fins de fixação do regime inicial menos gravoso, verifica-se que a sentença já transitou em julgado, de forma que corretamente não compete eventual aplicação de detração com a consequente modificação do regime inicialmente fixado ao Juízo de conhecimento, mas sim ao Juízo das execuções penais após a expedição da competente guia de recolhimento. Confiram-se:
+AGRAVO REGIMENTAL NO RECURSO ORDINÁRIO EM HABEAS CORPUS. IRRESIGNAÇÃO DEFENSIVA. PRETENSÃO DE EXPEDIÇÃO DE GUIA DE EXECUÇÃO DEFINITIVA ANTES DO TRÂNSITO EM JULGADO DA CONDENAÇÃO. RÉU QUE RECORRIA EM LIBERDADE. PEDIDOS DE DETRAÇÃO, DE ALTERAÇÃO DO REGIME INICIAL DE CUMPRIMENTO DA PENA E DE CONCESSÃO DE BENEFÍCIOS EXECUTÓRIOS. COMPETÊNCIA DO JUÍZO DE EXECUÇÃO. FUNDAMENTOS DA DECISÃO AGRAVADA NÃO IMPUGNADOS. SÚMULA 182/STJ. AGRAVO REGIMENTAL NÃO CONHECIDO.
+1. A ausência de impugnação específica dos fundamentos da decisão agravada no momento oportuno impede o conhecimento do recurso, atraindo o óbice da Súmula 182 desta Corte Superior ("é inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada").
+In casu, o agravante não apresentou nenhum argumento para rebater os fundamentos que levaram ao desprovimento de seu recurso.
+2. É inviável a expedição de guia definitiva de execução penal antes do trânsito em julgado da condenação, na forma dos arts. 105 da Lei de Execução Penal e 674 do Código de Processo Penal, tanto mais quando ao réu foi dado o direito de recorrer em liberdade.
+3. Não cabe a esta Corte, sob pena de indevida supressão de instância, decidir sobre eventuais benefícios cabíveis na execução penal. Tal competência cabe ao Juízo de Execuções ao qual deverá ser dirigido o pedido após a expedição de guia de execução definitiva.
+4. Agravo regimental não conhecido.
+(AgRg no RHC n. 185.146/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 3/10/2023, DJe de 11/10/2023, grifei.)
+PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS. CAUSA DE DIMINUIÇÃO DE PENA DO ART. 33, § 4º, DA LEI DE DROGAS. INAPLICABILIDADE. DEDICAÇÃO À ATIVIDADE CRIMINOSA EVIDENCIADA. REGIME PRISIONAL MAIS GRAVOSO (FECHADO). CIRCUNSTÂNCIA JUDICIAL DESFAVORÁVEL. MODO ADEQUADO. AFASTAR CARÁTER HEDIONDO. PLEITO PREJUDICADO. DETRAÇÃO. TRÂNSITO EM JULGADO. COMPETÊNCIA DO JUÍZO DA EXECUÇÃO. AGRAVO NÃO PROVIDO.
+1. Nos termos do disposto no § 4º do art. 33 da Lei n. 11.343/2006, os condenados pelo crime de tráfico de drogas terão a pena reduzida, de um sexto a dois terços, quando forem reconhecidamente primários, possuírem bons antecedentes e não se dedicarem a atividades criminosas ou integrarem organizações criminosas.
+2. Concluído pelas instâncias antecedentes, com fulcro nos elementos constantes dos autos e no fato de registrar atos infracionais análogos ao tráfico de entorpecentes, que o agravante se dedica ao tráfico de drogas, a alteração desse entendimento - para fazer incidir a minorante da Lei de Drogas - enseja o reexame do conteúdo probatório dos autos, o que é inadmissível em sede de habeas corpus.
+Precedentes.
+3. Conforme entendimento do Superior Tribunal de Justiça, o registro de atos infracionais é elemento idôneo para afastar a figura do tráfico privilegiado, quando evidenciar a propensão do agente a práticas criminosas. Precedentes.
+4. Embora o agente seja primário e a pena reclusiva tenha sido fixada em patamar inferior a 8 anos de reclusão, o regime fechado mostra-se adequado para o início do cumprimento das sanções impostas, diante da aferição desfavorável de circunstância judicial (quantidade e natureza de entorpecente), nos termos dos art. 33 do CP c.c o art. 42 da Lei n. 11.343/2006.
+5. Estabelecida a sanção em patamar superior a 4 anos de reclusão, é inviável a substituição da pena corporal por restritivas de direitos, ante a ausência de preenchimento de requisito objetivo (art. 44, I, do Código Penal).
+6. Fica prejudicado o pleito de afastamento do caráter hediondo do delito, pelo não reconhecimento da redutora do tráfico privilegiado.
+7. Noticiado o trânsito em julgado da ação penal, caberá ao Juízo de execução penal averiguar a possibilidade de estabelecimento de regime mais brando diante do desconto do período em que o agravante permaneceu preso preventivamente.
+8. Agravo regimental não provido.
+(AgRg no HC n. 573.149/SP, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 2/6/2020, DJe de 15/6/2020, grifei.)
+Assim, não há como reconhecer a ilegalidade apontada pela defesa, sem que haja o efetivo exame pelo Juízo da execução penal, autoridade competente para tal mister.
+Ante o exposto, denego liminarmente a ordem .
+Publique-se. Intimem-se.
+ EMENTA
