@@ -1,0 +1,19 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em nome de EMERSON BODARIO JUNIOR, preso preventivamente e acusado pela prática do crime de tráfico de drogas (Processo n. 1500105-56.2026.8.26.0594, do Juízo das Garantias da comarca de Bauru/SP).
+O impetrante aponta como autoridade coatora a 1ª Câmara de Direito Criminal do Tribunal de Justiça do Estado de São Paulo, que, em 25/3/2026, denegou a ordem (HC n. 2033942-81.2026.8.26.0000).
+Alega fundamentação genérica da prisão preventiva, assentada em gravidade abstrata e na invocação automática da reincidência, sem demonstração concreta, atual e individualizada do periculum libertatis.
+Sustenta que a quantidade de 1,278 kg de maconha foi usada apenas como reforço retórico, sem indicar estrutura criminosa ou periculosidade diferenciada.
+Em caráter liminar, pede a revogação da prisão com expedição de alvará de soltura, subsidiariamente a substituição por cautelares diversas da prisão; e, no mérito, requer a concessão definitiva da ordem para revogar a custódia, com possibilidade de fixação de medidas alternativas.
+É o relatório.
+Do atento exame dos autos observo que a segregação cautelar do acusado se encontra fundamentada na gravidade concreta do fato e, de modo específico, na reiteração delitiva, pois o paciente é reincidente específico, além de ter sido apreendida quantidade expressiva de droga, tudo a indicar risco à ordem pública.
+É o que consta, por exemplo, do acórdão que descreve a apreensão de 16 porções contendo 1.278 kg de maconha (14 fracionadas e 2 em tabletes) e realça a reincidência específica, exigindo maior cautela na soltura.
+Como se vê, a imposição da prisão preventiva se encontra adequadamente fundamentada a partir da análise particularizada da situação fática dos autos, tendo sido amparada no risco concreto de reiteração delitiva, notadamente porque o autuado ostenta reincidência específica, o que justifica a custódia cautelar, nos termos da jurisprudência do Superior Tribunal de Justiça, como forma de resguardar a ordem pública.
+Com efeito, a jurisprudência desta Corte Superior compreende que a preservação da ordem pública justifica a imposição da prisão preventiva quando o agente possuir maus antecedentes, reincidência, atos infracionais pretéritos, inquéritos ou mesmo ações penais em curso, porquanto tais circunstâncias denotam sua contumácia delitiva e, por via de consequência, sua periculosidade (AgRg no RHC n. 159.385/SC, Ministro Antonio Saldanha Palheiro, Sexta Turma, DJe 27/5/2022).
+Ademais, in casu, foram apreendidos 1,278 kg de maconha.
+O entendimento das instâncias ordinárias de que é legítima a prisão cautelar em questão está em consonância com a firme jurisprudência do Superior Tribunal de Justiça. A propósito, esta Corte Superior entende que hipóteses em que a quantidade e/ou a natureza das drogas apreendidas e outras circunstâncias do caso revelem a maior reprovabilidade da conduta investigada, tais dados são bastantes para demonstrar a gravidade concreta do delito e, por conseguinte, justificar a custódia cautelar para a garantia da ordem pública (AgRg no HC n. 899.502/SP, Ministro Schietti Cruz, Sexta Turma, DJe 12/6/2024).
+E, ainda: AgRg no HC n. 981.884/SP, relator Ministro Otávio de Almeida Toledo (Desembargador Convocado do TJSP), Sexta Turma, julgado em 14/5/2025, DJEN de 20/5/2025; e AgRg no HC n. 990.118/SP, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 14/5/2025, DJEN de 20/5/2025.
+Indefiro liminarmente o writ (art. 210 do RISTJ).
+Publique-se.
+EMENTA
+PROCESSUAL PENAL. HABEAS CORPUS. TRÁFICO DE DROGAS. PRISÃO PREVENTIVA. FUNDAMENTAÇÃO. INDICAÇÃO DE ELEMENTOS CONCRETOS QUE DENOTAM A NECESSIDADE DA CUSTÓDIA PARA A GARANTIA DA ORDEM PÚBLICA. REINCIDÊNCIA ESPECÍFICA. APREENSÃO DE 1,278 KG DE MACONHA. CONSTRANGIMENTO ILEGAL. AUSÊNCIA.
+Inicial indeferida liminarmente.
