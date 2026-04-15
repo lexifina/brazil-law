@@ -1,0 +1,67 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUINTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 09/04/2026 a 15/04/2026, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Joel Ilan Paciornik, Messod Azulay Neto, Maria Marluce Caldas e Reynaldo Soares da Fonseca votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Reynaldo Soares da Fonseca.
+EMENTA
+Direito processual penal. Agravo regimental em habeas corpus. Acordo de não persecução penal. Habeas corpus originário contra ato de Procurador-Geral de Justiça estadual. Competência do Superior Tribunal de Justiça. Rol taxativo do art. 105 da Constituição DA REPÚBLICA. Agravo regimental improvido.
+I. Caso em exame
+1. Agravo regimental interposto contra decisão monocrática que não conheceu de habeas corpus, por incompetência do Superior Tribunal de Justiça, com fundamento no art. 105, inciso I, alíneas "a" e "c", da Constituição da República.
+2. A Defesa afirma que, no HC n. 261.803/CE, o Supremo Tribunal Federal reconheceu a retroatividade do art. 28-A do CPP e determinou ao Juízo de origem a abertura de vista ao Ministério Público para avaliação do oferecimento de ANPP. Sustenta que o Ministério Público estadual recusou o acordo e o Procurador-Geral de Justiça ratificou a recusa, bem como que o Tribunal de Justiça estadual, no HC n. 0622278-30.2025.8.06.0000, teria mantido a negativa do ANPP em desacordo com o comando do STF.
+3. A Defesa sustenta que, uma vez indicada a inclusão do Tribunal de Justiça estadual como autoridade coatora, restaria configurada a competência constitucional do Superior Tribunal de Justiça, nos termos do art. 105, inciso I, alínea "c", da Constituição da República, postulando a reconsideração da decisão agravada ou seu julgamento colegiado, para que o Ministério Público estadual analise o oferecimento do ANPP nos termos definidos pelo Supremo Tribunal Federal.
+II. Questão em discussão
+4. A questão em discussão consiste em saber se compete ao Superior Tribunal de Justiça processar e julgar, originariamente, habeas corpus impetrado contra ato do Procurador-Geral de Justiça estadual que ratificou a recusa de ANPP.
+III. Razões de decidir
+5. Constata-se que o mandamus se volta contra ato do Procurador-Geral de Justiça estadual, que ratificou a recusa do acordo de não persecução penal por membro do Ministério Público e determinou o prosseguimento da ação penal, de modo que o núcleo do ato apontado como coator não se enquadra nas hipóteses de competência originária do Superior Tribunal de Justiça.
+6. O art. 105, inciso I, alíneas "a" e "c", da Constituição da República, estabelece rol taxativo de autoridades e situações que definem a competência originária do Superior Tribunal de Justiça, não incluindo Procurador-Geral de Justiça estadual entre as autoridades cujo ato pode ser diretamente impugnado por habeas corpus perante esta Corte.
+7. A equivocada indicação do Tribunal de Justiça estadual como autoridade coatora, sem que se tenha ato próprio dessa Corte a enquadrar-se na competência prevista no art. 105, inciso I, alínea "c", da Constituição da República, não afasta a incompetência originária do Superior Tribunal de Justiça já reconhecida, impondo-se a manutenção da decisão agravada.
+IV. Dispositivo e tese
+8. Resultado do Julgamento: Agravo regimental improvido, mantida a decisão que não conheceu do habeas corpus por incompetência do Superior Tribunal de Justiça.
+Tese de julgamento:
+1. O Superior Tribunal de Justiça não detém competência originária para processar e julgar habeas corpus impetrado contra ato de Procurador-Geral de Justiça estadual, à luz do rol taxativo do art. 105, inciso I, da Constituição da República.
+Dispositivos relevantes citados: CR/1988, art. 105, I, "a" e "c"; CPP, art. 28; CPP, art. 28-A; Lei n. 11.697/2008 (organização judiciária do Distrito Federal e Territórios, arts. relativos à competência do TJDFT para habeas corpus contra ato de Procurador-Geral de Justiça).
+Jurisprudência relevante citada: STJ, AgRg no HC 550.851/DF, Rel. Min. Reynaldo Soares da Fonseca, Quinta Turma, j. 04.02.2020, DJe 10.02.2020.
+RELATÓRIO
+Trata-se de agravo regimental interposto por HUMBERTO LUIS FORTES contra decisão que não conheceu do habeas corpus por incompetência desta Corte, nos termos do art. 105, inciso I, alíneas a e c, da Constituição Federal.
+Nas razões, a defesa reafirma que, no julgamento do HC n. 261.803/CE, o STF reconheceu a retroatividade do art. 28-A do CPP. Assim, determinou que o Juízo a quo abrisse vista para que o Ministério Público avaliasse a propositura de ANPP. Todavia, em descumprimento da decisão, o MPCE teria recusado o oferecimento e o PGJ ratificou a recusa.
+Alega que " u ma vez retificada a indicação para incluir o TRIBUNAL DE JUSTIÇA DO ESTADO DO CEARÁ como autoridade coatora (órgão que, no HC 0622278-30.2025.8.06.0000, denegou a ordem e manteve a negativa do ANPP mesmo após o comando do STF), resta inequivocamente configurada a hipótese constitucional do art. 105, I, "c", da CF" (e-STJ, fl. 108)
+Requer a reconsideração da decisão agravada e, caso não acolhida, o julgamento perante a Quinta Turma, com o provimento do agravo para o Ministério Público Estadual analise o oferecimento do ANPP "nos exatos termos determinados pelo STF, com motivação idônea e controlável, sem subterfúgios que esvaziem o comando vinculante da Corte Suprema" (e-STJ, fl. 113).
+É o relatório.
+EMENTA
+Direito processual penal. Agravo regimental em habeas corpus. Acordo de não persecução penal. Habeas corpus originário contra ato de Procurador-Geral de Justiça estadual. Competência do Superior Tribunal de Justiça. Rol taxativo do art. 105 da Constituição DA REPÚBLICA. Agravo regimental improvido.
+I. Caso em exame
+1. Agravo regimental interposto contra decisão monocrática que não conheceu de habeas corpus, por incompetência do Superior Tribunal de Justiça, com fundamento no art. 105, inciso I, alíneas "a" e "c", da Constituição da República.
+2. A Defesa afirma que, no HC n. 261.803/CE, o Supremo Tribunal Federal reconheceu a retroatividade do art. 28-A do CPP e determinou ao Juízo de origem a abertura de vista ao Ministério Público para avaliação do oferecimento de ANPP. Sustenta que o Ministério Público estadual recusou o acordo e o Procurador-Geral de Justiça ratificou a recusa, bem como que o Tribunal de Justiça estadual, no HC n. 0622278-30.2025.8.06.0000, teria mantido a negativa do ANPP em desacordo com o comando do STF.
+3. A Defesa sustenta que, uma vez indicada a inclusão do Tribunal de Justiça estadual como autoridade coatora, restaria configurada a competência constitucional do Superior Tribunal de Justiça, nos termos do art. 105, inciso I, alínea "c", da Constituição da República, postulando a reconsideração da decisão agravada ou seu julgamento colegiado, para que o Ministério Público estadual analise o oferecimento do ANPP nos termos definidos pelo Supremo Tribunal Federal.
+II. Questão em discussão
+4. A questão em discussão consiste em saber se compete ao Superior Tribunal de Justiça processar e julgar, originariamente, habeas corpus impetrado contra ato do Procurador-Geral de Justiça estadual que ratificou a recusa de ANPP.
+III. Razões de decidir
+5. Constata-se que o mandamus se volta contra ato do Procurador-Geral de Justiça estadual, que ratificou a recusa do acordo de não persecução penal por membro do Ministério Público e determinou o prosseguimento da ação penal, de modo que o núcleo do ato apontado como coator não se enquadra nas hipóteses de competência originária do Superior Tribunal de Justiça.
+6. O art. 105, inciso I, alíneas "a" e "c", da Constituição da República, estabelece rol taxativo de autoridades e situações que definem a competência originária do Superior Tribunal de Justiça, não incluindo Procurador-Geral de Justiça estadual entre as autoridades cujo ato pode ser diretamente impugnado por habeas corpus perante esta Corte.
+7. A equivocada indicação do Tribunal de Justiça estadual como autoridade coatora, sem que se tenha ato próprio dessa Corte a enquadrar-se na competência prevista no art. 105, inciso I, alínea "c", da Constituição da República, não afasta a incompetência originária do Superior Tribunal de Justiça já reconhecida, impondo-se a manutenção da decisão agravada.
+IV. Dispositivo e tese
+8. Resultado do Julgamento: Agravo regimental improvido, mantida a decisão que não conheceu do habeas corpus por incompetência do Superior Tribunal de Justiça.
+Tese de julgamento:
+1. O Superior Tribunal de Justiça não detém competência originária para processar e julgar habeas corpus impetrado contra ato de Procurador-Geral de Justiça estadual, à luz do rol taxativo do art. 105, inciso I, da Constituição da República.
+Dispositivos relevantes citados: CR/1988, art. 105, I, "a" e "c"; CPP, art. 28; CPP, art. 28-A; Lei n. 11.697/2008 (organização judiciária do Distrito Federal e Territórios, arts. relativos à competência do TJDFT para habeas corpus contra ato de Procurador-Geral de Justiça).
+Jurisprudência relevante citada: STJ, AgRg no HC 550.851/DF, Rel. Min. Reynaldo Soares da Fonseca, Quinta Turma, j. 04.02.2020, DJe 10.02.2020.
+VOTO
+O agravante não trouxe argumentos suficientes para infirmar a decisão impugnada, razão pela qual mantenho-a por seus próprios fundamentos.
+Nas razões do recurso, a Defesa alega que, em 23/4/2025, no julgamento do HC n. 0622278-30.2025.8.06.0000, o Tribunal de Justiça do Estado do Ceará analisou a negativa de ANPP, tornando-se a autoridade coatora.
+Todavia, observa-se que, após o julgamento do HC n. 261.803/CE pelo STF, somente em 4/12/2025, o Procurador-Geral de Justiça manifestou-se no sentido de ratificar a recusa do ANPP pelo membro ministerial estadual e determinar o retorno dos autos ao Juízo de origem para prosseguimento da ação penal" (e-STJ, fl. 20).
+Como se vê, o mandamus se insurgiu contra ato do Procurador-Geral de Justiça do Estado do Ceará que negou o oferecimento da ANPP e não ao acórdão estadual referido pela defesa.
+Logo, não compete a este Superior Tribunal de Justiça julgar, originariamente, o impetrado contra ato do Procurador-Geral de Justiça Estadual, conforme preceitua habeas corpus o art. 105, inciso I, alíneas a e c, da Constituição Federal:
+"Art. 105. Compete ao Superior Tribunal de Justiça:
+I - processar e julgar, originariamente:
+a) nos crimes comuns, os Governadores dos Estados e do Distrito Federal, e, nestes e nos de responsabilidade, os desembargadores dos Tribunais de Justiça dos Estados e do Distrito Federal, os membros dos Tribunais de Contas dos Estados e do Distrito Federal, os dos Tribunais Regionais Federais, dos Tribunais Regionais Eleitorais e do Trabalho, os membros dos Conselhos ou Tribunais de Contas dos Municípios e os do Ministério Público da União que oficiem perante tribunais;
+ ..
+c) os habeas corpus, quando o coator ou paciente for qualquer das pessoas mencionadas na alínea "a", ou quando o coator for tribunal sujeito à sua jurisdição, Ministro de Estado ou Comandante da Marinha, do Exército ou da Aeronáutica, ressalvada a competência da Justiça Eleitoral.
+A seguir, o julgado que respalda esse entendimento:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. PARCELAMENTO IRREGULAR DO SOLO URBANO. PLEITO DE RESTABELECIMENTO DAS CONDIÇÕES DA SUSPENSÃO CONDICIONAL DO PROCESSO. INCOMPETÊNCIA DO SUPERIOR TRIBUNAL DE JUSTIÇA. ATO COATOR SUPOSTAMENTE PRATICADO PELA PROCURADORA-GERAL DE JUSTIÇA DO MPDFT, POR FORÇA DO ART. 28 DO CPP. AUTOS QUE TRAMITAM EM PRIMEIRO GRAU DE JURISDIÇÃO. NECESSIDADE DE MANIFESTAÇÃO DA CORTE LOCAL A RESPEITO DAS CONDIÇÕES E REQUISITOS DO SURSIS PROCESSUAL EVENTUALMENTE NÃO OBSERVADOS. AGRAVO IMPROVIDO.
+1. A competência para o julgamento de habeas corpus impetrado contra ato coator de Procurador-Geral de Justiça, não se encontra prevista no rol taxativo do art. 105 da Constituição Federal, nem no art. 11 do Regimento Interno desta Corte, com bem ressaltou o Ministério Público Federal em seu parecer (HC n. 57.506/PA, Rel. Ministro OG FERNANDES, Sexta Turma, julgado em 15/12/2009, DJe de 22/2/2010).
+2. Conforme a Lei Federal n. 11.697/2008, que dispõe acerca da organização judiciária do Distrito Federal e dos Territórios, compete ao TJDFT o processamento e julgamento dos habeas corpus impetrados contra ato de Procurador-Geral de Justiça do Distrito Federal.
+3. A simples manifestação da Procuradora-Geral de Justiça do MPDFT, nos autos que tramitam em primeiro grau, que, por analogia ao art. 28 do CPP, ratificou o posicionamento de Promotora de Justiça no sentido do não oferecimento da suspensão condicional do processo, não desloca a competência para o julgamento do mandamus, diretamente, perante esta Corte Superior.
+4. Na espécie, independentemente do posicionamento adotado pela autoridade máxima do órgão ministerial, incumbe à respectiva Corte local o controle de legalidade a respeito dos requisitos e condições do sursis processual eventualmente não observados, e, sobre o tema, a Corte de origem não proferiu qualquer manifestação.
+5. Agravo regimental improvido, remetendo-se os autos para o Tribunal de Justiça do Distrito Federal e Territórios.
+(AgRg no HC n. 550.851/DF, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 4/2/2020, DJe de 10/2/2020.)
+Ante o exposto, nego provimento ao agravo regimental .
+É o voto.
