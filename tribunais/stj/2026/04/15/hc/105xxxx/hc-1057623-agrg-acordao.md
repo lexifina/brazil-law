@@ -1,0 +1,35 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEXTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 09/04/2026 a 15/04/2026, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Antonio Saldanha Palheiro, Carlos Pires Brandão, Og Fernandes e Sebastião Reis Júnior votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Carlos Pires Brandão.
+EMENTA
+AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS E ASSOCIAÇÃO PARA O TRÁFICO. NULIDADE DE INTERCEPTAÇÕES TELEFÔNICAS. WRIT IMPETRADO CONTRA DECISÃO JÁ IMPUGNADA POR RECURSO ESPECIAL. PRINCÍPIO DA UNIRRECORRIBILIDADE. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. Este Superior Tribunal reconhece a impossibilidade de uso do habeas corpus concomitante à interposição de recurso especial.
+2. No caso dos autos, a defesa impetra habeas corpus contra acórdão proferido no julgamento de apelação criminal em relação ao qual também interpôs recurso especial e, na sequência, agravo em recurso especial, ainda em andamento.
+3. Conforme tem decidido esta Corte, " o  ajuizamento simultâneo do writ com interposição de recurso próprio contra o mesmo ato judicial, tal como no caso dos autos, trata-se de indevida subversão do sistema recursal e de violação do princípio da unirrecorribilidade. Cabe à parte optar pelo caminho que lhe seja mais favorável, arcando com as consequências de sua escolha" (AgRg no HC n. 589.923/SP, Rel. Ministro Sebastião Reis Júnior, 6ª T., DJe 1º/4/2022).
+4. Agravo regimental não provido.
+RELATÓRIO
+O SENHOR MINISTRO ROGERIO SCHIETTI CRUZ:
+DIEGO IVAN BARBOSA interpõe agravo regimental contra decisão monocrática em que indeferi liminarmente o habeas corpus.
+Consta dos autos que o paciente foi condenado pela prática dos crimes previstos nos arts. 33, caput, e 35, ambos c/c o art. 40, VI, da Lei n. 11.343/2006, e o primeiro c/c os arts. 62, I, e 71, caput, do Código Penal.
+O agravante argumenta, em síntese, que "não se trata de utilização indevida do habeas corpus como sucedâneo recursal, tampouco de tentativa de rediscussão da matéria já debatida no âmbito do recurso especial" (fls. 153-154) e que, sob pena de vulneração do princípio da inafastabilidade da jurisdição, "o habeas corpus deve ser conhecido e processado, ainda que concomitantemente à pendência de recurso especial, quando houver demonstração de ilegalidade flagrante" (fl. 156). Reitera, ademais, a argumentação quanto ao mérito (ilegalidade das interceptações telefônicas).
+Pleiteia, assim, a reconsideração da decisão agravada ou a submissão do feito a julgamento colegiado.
+EMENTA
+AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS E ASSOCIAÇÃO PARA O TRÁFICO. NULIDADE DE INTERCEPTAÇÕES TELEFÔNICAS. WRIT IMPETRADO CONTRA DECISÃO JÁ IMPUGNADA POR RECURSO ESPECIAL. PRINCÍPIO DA UNIRRECORRIBILIDADE. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. Este Superior Tribunal reconhece a impossibilidade de uso do habeas corpus concomitante à interposição de recurso especial.
+2. No caso dos autos, a defesa impetra habeas corpus contra acórdão proferido no julgamento de apelação criminal em relação ao qual também interpôs recurso especial e, na sequência, agravo em recurso especial, ainda em andamento.
+3. Conforme tem decidido esta Corte, " o  ajuizamento simultâneo do writ com interposição de recurso próprio contra o mesmo ato judicial, tal como no caso dos autos, trata-se de indevida subversão do sistema recursal e de violação do princípio da unirrecorribilidade. Cabe à parte optar pelo caminho que lhe seja mais favorável, arcando com as consequências de sua escolha" (AgRg no HC n. 589.923/SP, Rel. Ministro Sebastião Reis Júnior, 6ª T., DJe 1º/4/2022).
+4. Agravo regimental não provido.
+VOTO
+O SENHOR MINISTRO ROGERIO SCHIETTI CRUZ (Relator):
+Apesar dos argumentos empregados pelo agravante, entendo que não lhe assiste razão.
+Conforme salientei por ocasião da decisão monocrática ora agravada, a defesa se insurge contra acórdão proferido no julgamento de apelação criminal pelo Tribunal de Justiça do Estado de São Paulo.
+No entanto, contra o acórdão da apelação, a defesa também interpôs recurso especial, não admitido na origem. Na sequência, interpôs agravo em recurso especial (AREsp n. 2.413.226/SP), ainda em andamento.
+Mesmo com o agravo em recurso especial ainda em trâmite, pendente o julgamento de agravo regimental interposto pela defesa, impetrou-se o presente habeas corpus.
+Diante de tal cenário, constata-se a impossibilidade de conhecimento deste mandamus, por violação do princípio da unirrecorribilidade, visto que já foi interposto o recurso cabível, sob pena de se permitir a utilização indefinida de habeas corpus contra capítulos autônomos do acórdão proferido na origem.
+Com efeito, em diversas ocasiões, este Superior Tribunal reconheceu a impossibilidade de uso do habeas corpus concomitante à interposição de recurso especial ou em substituição à revisão criminal. A crescente quantidade de impetrações, que, antes, deveriam ser examinadas em instâncias diversas, está prejudicando as funções constitucionais desta Corte Superior, em detrimento da eficácia do recurso especial, o que prejudica a delimitação de teses para trazer uniformidade e previsibilidade ao sistema jurídico.
+Conforme tem decidido esta Corte, " o  ajuizamento simultâneo do writ com interposição de recurso próprio contra o mesmo ato judicial, tal como no caso dos autos, trata-se de indevida subversão do sistema recursal e de violação do princípio da unirrecorribilidade. Cabe à parte optar pelo caminho que lhe seja mais favorável, arcando com as consequências de sua escolha" (AgRg no HC n. 589.923/SP, Rel. Ministro Sebastião Reis Júnior, 6ª T., DJe 1º/4/2022, grifei).
+Ainda: "não bastasse o entendimento pacificamente adotado por esta Corte Superior, no sentido da inviabilidade de uso do remédio constitucional em substituição a recurso previsto em lei, na hipótese em exame o habeas corpus fora impetrado em paralelo ao recurso especial interposto contra o acórdão proferido pela instância ordinária, em evidente violação ao princípio da unirrecorribilidade" (AgRg no HC n. 863.824/RJ, Rel. Ministro Ribeiro Dantas, Quinta Turma, julgado em 12/8/2024, DJe de 15/8/2024).
+Na mesma direção: "não se admite a tramitação simultânea de recursos (ou ações autônomas de impugnação) e de habeas corpus manejados contra o mesmo ato, sob pena de violação do princípio da unirrecorribilidade" (AgRg no HC n. 826.186/SP, Rel. Ministra Laurita Vaz, 6ª T., DJe 21/8/2023).
+Portanto, ausentes fatos novos ou teses jurídicas diversas que permitam a análise do caso sob outro enfoque, deve ser mantida a decisão agravada. A propósito: "É assente nesta Corte Superior de Justiça que o agravo regimental deve trazer novos argumentos capazes de alterar o entendimento anteriormente firmado, sob pena de ser mantida a r. decisão vergastada pelos próprios fundamentos" (AgRg no HC n. 749.888/RS, Rel. Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), 5ª T., DJe 26/8/2022).
+À vista do exposto, nego provimento ao agravo regimental.
