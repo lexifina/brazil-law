@@ -1,0 +1,31 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em nome de ALLAN FERNANDES KAESTNER e MARCOS ANTONIO JOAQUIM DE SOUZA JUNIOR, presos preventivamente e acusados pela prática do crime de tráfico de drogas (Processo n. 1502189-78.2024.8.26.0536, da 2ª Vara Criminal da comarca de São Vicente/SP).
+O impetrante aponta como autoridade coatora o Tribunal de Justiça do Estado de São Paulo, que, em 6/4/2026, denegou a ordem no Habeas Corpus n. 2024433-29.2026.8.26.0000.
+Alega ausência de fundamentação idônea para a prisão preventiva, sustentando que a não localização para citação não é motivo hábil para a custódia cautelar e que há mecanismos legais como a suspensão do processo e do prazo prescricional (art. 366 do Código de Processo Penal).
+Afirma desproporcionalidade e violação ao princípio da homogeneidade, destacando primariedade, bons antecedentes e pequena apreensão de drogas. Sustenta vulnerabilidade social e de saúde do paciente ALLAN, com internação voluntária para tratamento de dependência química e deficiência física severa, além de acompanhamento social para obtenção de benefício assistencial, e pede que a prisão não interrompa o tratamento.
+Em caráter liminar, pede a expedição de alvará de soltura; no mérito, requer a revogação da preventiva e o restabelecimento da liberdade provisória, com continuidade do tratamento em clínica especializada.
+É o relatório.
+Inicialmente, quanto ao paciente Allan Fernandes, este habeas corpus está prejudicado. Isso porque, ao consultar o sítio eletrônico do Tribunal de origem, verifiquei que, em 9/4/2026, o Juízo de Direito de primeiro grau revogou a sua prisão preventiva.
+Desse modo, passo à análise do pedido do paciente Marcos Antonio Joaquim de Souza .
+Do atento exame dos autos observo que a segregação cautelar do acusado se encontra fundamentada no descumprimento injustificado de medida cautelar alternativa referente ao compromisso de comparecer a todos os atos do processo e não mudar de endereço sem prévia autorização do Juízo (fls. 217/218).
+Com efeito, nos termos do § 4º do art. 282 do Código de Processo Penal, em caso de descumprimento de condição de cautelar, poderá ser substituída a medida, imposta outra em cumulação ou, em último caso, decretada a prisão preventiva.
+No caso, a despeito de a segregação cautelar se encontrar devidamente justificada, o paciente é tecnicamente primário, o crime foi perpetrado sem violência ou grave ameaça, não se extrai dos autos que o acusado integre organização criminosa e foi apreendida ínfima quantidade de droga - 0,8 g de cocaína (massa líquida - fls. 126/127) -, circunstâncias que firmam a possibilidade de novamente substituir a prisão por cautelares diversas.
+As circunstâncias do caso evidenciam a necessidade de algum acautelamento da ordem pública; contudo, não se mostram aptas, em juízo de proporcionalidade, a embasar a prisão cautelar.
+Importante salientar que, com o advento da Lei n. 12.403/2011, a prisão cautelar passou a ser, mais ainda, a mais excepcional das medidas, devendo ser aplicada somente quando comprovada a inequívoca necessidade, devendo-se sempre verificar se existem medidas alternativas à prisão adequadas ao caso concreto (HC n. 305.905/SP, de minha relatoria, Sexta Turma, julgado em 4/12/2014, DJe 17/12/2014) - (AgRg no RHC n. 210.080/RS, Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe 26/2/2025).
+A propósito, confira-se:
+AGRAVO REGIMENTAL NO RECURSO EM HABEAS CORPUS. TRÁFICO DE DROGAS. PRISÃO PREVENTIVA. DESCUMPRIMENTO MEDIDA CAUTELAR ANTERIORMENTE IMPOSTA. POUCA QUANTIDADE DE DROGA. FUNDAMENTAÇÃO. INIDÔNEA. MEDIDAS CAUTELARES ALTERNATIVAS. CABIMENTO. AGRAVO DESPROVIDO.
+ ..
+3. Como se vê, o decreto prisional não apontou elementos válidos para justificar a prisão preventiva, com base nas hipóteses da norma processual penal. Com efeito, o agravado foi flagrado na posse de 03 pinos de cocaína (2,40g), mais 14 pedras de crack (3,56g). Precedentes.
+4. Subsiste apenas o descumprimento de medida cautelar, por ocasião da liberdade provisória concedida ao recorrente, mediante comparecimento em juízo para assinaturas.
+Contudo, conforme comprovado pela Defensoria Pública, o réu realizou a assinatura por três meses, em 12/6/2023, 20/7/2023 e 18/8/2023, não comparecendo nos outros meses, em razão de que se encontrava preso preventivamente em outro processo, entre o período de 28/8/2023 até 5/3/2024, onde fora solto em razão de concessão do direito de recorrer em liberdade.
+5. No caso, porém, embora as informações indiquem um aparente risco de reiteração, é certo que o fato criminoso que determinou a segregação cautelar não se reveste de gravidade excepcional, já que o crime não foi cometido com violência ou grave ameaça à pessoa e apreensão de reduzida quantidade de drogas. Precedentes.
+6. Assim, entendo que a prisão preventiva do agravado é ilegal, sendo perfeitamente possível a aplicação de outras medidas mais brandas, como as previstas no art. 319 do CPP.
+7. Agravo regimental a que se nega provimento.
+(AgRg no RHC n. 198.021/MG, Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe 17/6/2024 - grifo nosso).
+Em face do exposto, com fulcro no art. 210 do RISTJ, conheço parcialmente do habeas corpus e, nessa extensão, concedo liminarmente, para substituir a prisão cautelar imposta ao paciente Marcos Antonio Joaquim de Souza Junior por medidas alternativas à prisão, a serem estabelecidas e fiscalizadas pelo Magistrado singular, salvo se estiver preso por outro motivo, podendo o Juízo de primeiro grau decretar novamente a segregação cautelar, desde que fundamentadamente.
+Comunique-se, com urgência, o teor desta decisão ao Tribunal estadual e ao Juízo a quo.
+Intime-se o Ministério Público estadual.
+Publique-se.
+EMENTA
+DIREITO PENAL E PROCESSUAL PENAL. HABEAS CORPUS. TRÁFICO DE DROGAS. PRISÃO PREVENTIVA. FUNDAMENTAÇÃO. DESCUMPRIMENTO DE MEDIDA CAUTELAR ALTERNATIVA IMPOSTA PELO JUÍZO DE PRIMEIRO GRAU. PACIENTE TECNICAMENTE PRIMÁRIO. ÍNFIMA QUANTIDADE DE DROGA APREENDIDA (0,8 G DE COCAÍNA). EXCEPCIONALIDADE. MEDIDAS CAUTELARES DIVERSAS DA PRISÃO. PROPORCIONALIDADE, SUFICIÊNCIA E ADEQUAÇÃO. CONSTRANGIMENTO ILEGAL EVIDENCIADO.
+Habeas corpus conhecido em parte e, nessa extensão, ordem concedida liminarmente, nos termos do dispositivo.
