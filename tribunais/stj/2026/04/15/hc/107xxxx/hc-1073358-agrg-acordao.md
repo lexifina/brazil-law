@@ -1,0 +1,85 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUINTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 09/04/2026 a 15/04/2026, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Maria Marluce Caldas, Reynaldo Soares da Fonseca, Ribeiro Dantas e Joel Ilan Paciornik votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Reynaldo Soares da Fonseca.
+EMENTA
+Direito processual penal. Agravo regimental em habeas corpus. Revisão criminal. Hipóteses do art. 621 do CPP. Habeas corpus sucedâneo de revisão criminal. INCompetência do STJ. Ausência de flagrante ilegalidade. Revolvimento fático-probatório inviável. Agravo regimental desprovido.
+I. Caso em exame
+1. Agravo regimental interposto pela defesa contra decisão monocrática que não conheceu de habeas corpus impetrado em favor de condenado definitivamente pelo delito de tráfico de drogas.
+2. A defesa ajuizou revisão criminal perante Tribunal de Justiça estadual, visando, em síntese, o reconhecimento de ilicitude da prova, alegando extração de dados pela autoridade policial e quebra da cadeia de custódia, com consequente nulidade do processo. A revisão criminal foi indeferida de plano e o agravo regimental interposto na origem foi desprovido.
+3. No habeas corpus originário, impugnado na decisão agravada, a defesa alegou supressão da jurisdição revisional, sustentando que a negativa de processamento da ação revisional configuraria vício procedimental autônomo e violação ao devido processo legal e à ampla defesa, pleiteando o conhecimento do writ e a concessão da ordem para afastar o indeferimento liminar da revisão criminal.
+II. Questão em discussão
+4. A questão em discussão consiste em saber se: (i) a revisão criminal proposta na origem preenchia os pressupostos do art. 621 do Código de Processo Penal, de modo a tornar processualmente cabível a sua tramitação e, por consequência, se a negativa de processamento pelo Tribunal de origem configurou supressão indevida da jurisdição revisional; e (ii) o habeas corpus pode ser utilizado, após o trânsito em julgado da condenação, como sucedâneo de revisão criminal ou de recurso especial, para submeter a matéria a Tribunal Superior, bem como se há flagrante ilegalidade ou teratologia apta a justificar a concessão da ordem, o que autorizaria o afastamento do não conhecimento do writ e o reexame da conclusão adotada na origem sem revolvimento indevido de fatos e provas.
+III. Razões de decidir
+5. A revisão criminal possui hipóteses taxativas previstas no art. 621 do Código de Processo Penal, exigindo que a sentença condenatória seja contrária ao texto expresso da lei penal ou à evidência dos autos, se funde em prova comprovadamente falsa ou seja posteriormente infirmada por novas provas de inocência ou de circunstância especial de diminuição de pena, o que não se verificou no caso concreto, em que houve mera reiteração de teses já apreciadas nas instâncias ordinárias, sem indicação de provas novas ou de situação enquadrável nos incisos do dispositivo legal.
+6. O Tribunal de origem consignou que a ação revisional foi manejada com o objetivo de transformá-la em terceiro apelo e/ou recurso especial, reiterando argumentos já afastados na sentença condenatória e no julgamento do recurso, notadamente quanto à licitude das provas e à alegada quebra da cadeia de custódia, de modo que o indeferimento de plano da revisão criminal não configurou supressão indevida da jurisdição revisional, mas reconhecimento de seu descabimento processual.
+7. O habeas corpus foi utilizado como sucedâneo de revisão criminal, uma vez que a condenação transitou em julgado e o writ passou a veicular pretensão de reexame do mérito da condenação e do indeferimento da ação revisional, finalidade incompatível com a via estreita do remédio constitucional e com o regime de impugnações previsto para processos findos.
+8. Nos termos do art. 105, inciso I, alínea "e", da Constituição Federal, a competência originária do Superior Tribunal de Justiça para processar revisões criminais restringe-se aos seus próprios julgados, sendo este Tribunal incompetente para funcionar como instância revisional de condenações proferidas pelos Tribunais de Justiça, o que impede o uso do habeas corpus como instrumento indireto de revisão criminal de decisões de Corte local.
+9. Para infirmar a conclusão do Tribunal de origem acerca da inexistência de hipótese de revisão criminal e da regularidade do indeferimento liminar seria necessário revolvimento de fatos e provas, providência incompatível com a via do habeas corpus, que se destina ao controle de ilegalidades evidentes e não ao reexame aprofundado do conjunto probatório.
+10. Não se constatou teratologia, coação ilegal ou flagrante ilegalidade capaz de autorizar, com base no § 2º do art. 654 do Código de Processo Penal, a concessão da ordem de ofício, mantendo-se hígida a decisão que não conheceu do habeas corpus originário.
+IV. Dispositivo e tese
+11. Resultado do Julgamento: Agravo regimental desprovido.
+Tese de julgamento:
+1. A revisão criminal somente é processualmente cabível quando a pretensão se enquadra nas hipóteses taxativas do art. 621 do Código de Processo Penal, não se admitindo seu uso como terceiro grau recursal ou sucedâneo de recurso especial.
+2. Após o trânsito em julgado da condenação, o habeas corpus não pode ser utilizado como sucedâneo de revisão criminal ou de recurso especial para reabrir discussão sobre o mérito da condenação ou sobre o indeferimento liminar da ação revisional.
+3. A competência do Superior Tribunal de Justiça para processar revisões criminais restringe-se, nos termos do art. 105, I, "e", da Constituição Federal, aos seus próprios julgados, sendo inviável utilizar o habeas corpus para submeter à revisão desta Corte condenações proferidas por tribunais locais.
+Dispositivos relevantes citados: CF/1988, art. 105, I, "e"; CPP, art. 621, incisos I, II e III; CPP, art. 654, § 2º.
+Jurisprudência relevante citada: STJ, AgRg no HC 861.867/SC, Quinta Turma, j. 02.09.2024, DJe 06.09.2024; STJ, AgRg no HC 819.078/SP, Sexta Turma, j. 15.06.2023, DJe 15.06.2023.
+RELATÓRIO
+Trata-se de agravo regimental interposto por EVERTON TORRES SILVEIRA contra a decisão que não conheceu do habeas corpus.
+Consta nos autos que o agravante restou definitivamente condenado pelo delito de tráfico de drogas.
+A defesa ajuizou revisão criminal perante o Tribunal de Justiça do Estado de Mato Grosso do Sul, que a indeferiu de plano. O seu agravo regimental foi desprovido.
+Nas razões do presente recurso, a defesa sustenta que o habeas corpus questionou a supressão da jurisdição revisional.
+Aduz que "A negativa de processamento da ação revisional constitui vício procedimental autônomo" (fl. 291).
+Assere que "A supressão da via revisional compromete, ainda, o devido processo legal (art. 5º, LIV) e a ampla defesa (art. 5º, LV), pois a defesa não se limita às instâncias ordinárias; abrange os meios extraordinários previstos pelo próprio sistema para correção de vícios estruturais" (fls.292-293).
+Requer, ao final, a reconsideração da decisão monocrática ou a submissão do pleito a julgamento pelo órgão colegiado, para que seja conhecido e provido o presente agravo regimental, concedendo a ordem pretendida.
+O Ministério Público Federal manifestou ciência da decisão, à fl. 300.
+Por manter a decisão ora agravada por seus próprios e jurídicos fundamentos, submeto o agravo regimental à apreciação da Quinta Turma.
+É o relatório.
+EMENTA
+Direito processual penal. Agravo regimental em habeas corpus. Revisão criminal. Hipóteses do art. 621 do CPP. Habeas corpus sucedâneo de revisão criminal. INCompetência do STJ. Ausência de flagrante ilegalidade. Revolvimento fático-probatório inviável. Agravo regimental desprovido.
+I. Caso em exame
+1. Agravo regimental interposto pela defesa contra decisão monocrática que não conheceu de habeas corpus impetrado em favor de condenado definitivamente pelo delito de tráfico de drogas.
+2. A defesa ajuizou revisão criminal perante Tribunal de Justiça estadual, visando, em síntese, o reconhecimento de ilicitude da prova, alegando extração de dados pela autoridade policial e quebra da cadeia de custódia, com consequente nulidade do processo. A revisão criminal foi indeferida de plano e o agravo regimental interposto na origem foi desprovido.
+3. No habeas corpus originário, impugnado na decisão agravada, a defesa alegou supressão da jurisdição revisional, sustentando que a negativa de processamento da ação revisional configuraria vício procedimental autônomo e violação ao devido processo legal e à ampla defesa, pleiteando o conhecimento do writ e a concessão da ordem para afastar o indeferimento liminar da revisão criminal.
+II. Questão em discussão
+4. A questão em discussão consiste em saber se: (i) a revisão criminal proposta na origem preenchia os pressupostos do art. 621 do Código de Processo Penal, de modo a tornar processualmente cabível a sua tramitação e, por consequência, se a negativa de processamento pelo Tribunal de origem configurou supressão indevida da jurisdição revisional; e (ii) o habeas corpus pode ser utilizado, após o trânsito em julgado da condenação, como sucedâneo de revisão criminal ou de recurso especial, para submeter a matéria a Tribunal Superior, bem como se há flagrante ilegalidade ou teratologia apta a justificar a concessão da ordem, o que autorizaria o afastamento do não conhecimento do writ e o reexame da conclusão adotada na origem sem revolvimento indevido de fatos e provas.
+III. Razões de decidir
+5. A revisão criminal possui hipóteses taxativas previstas no art. 621 do Código de Processo Penal, exigindo que a sentença condenatória seja contrária ao texto expresso da lei penal ou à evidência dos autos, se funde em prova comprovadamente falsa ou seja posteriormente infirmada por novas provas de inocência ou de circunstância especial de diminuição de pena, o que não se verificou no caso concreto, em que houve mera reiteração de teses já apreciadas nas instâncias ordinárias, sem indicação de provas novas ou de situação enquadrável nos incisos do dispositivo legal.
+6. O Tribunal de origem consignou que a ação revisional foi manejada com o objetivo de transformá-la em terceiro apelo e/ou recurso especial, reiterando argumentos já afastados na sentença condenatória e no julgamento do recurso, notadamente quanto à licitude das provas e à alegada quebra da cadeia de custódia, de modo que o indeferimento de plano da revisão criminal não configurou supressão indevida da jurisdição revisional, mas reconhecimento de seu descabimento processual.
+7. O habeas corpus foi utilizado como sucedâneo de revisão criminal, uma vez que a condenação transitou em julgado e o writ passou a veicular pretensão de reexame do mérito da condenação e do indeferimento da ação revisional, finalidade incompatível com a via estreita do remédio constitucional e com o regime de impugnações previsto para processos findos.
+8. Nos termos do art. 105, inciso I, alínea "e", da Constituição Federal, a competência originária do Superior Tribunal de Justiça para processar revisões criminais restringe-se aos seus próprios julgados, sendo este Tribunal incompetente para funcionar como instância revisional de condenações proferidas pelos Tribunais de Justiça, o que impede o uso do habeas corpus como instrumento indireto de revisão criminal de decisões de Corte local.
+9. Para infirmar a conclusão do Tribunal de origem acerca da inexistência de hipótese de revisão criminal e da regularidade do indeferimento liminar seria necessário revolvimento de fatos e provas, providência incompatível com a via do habeas corpus, que se destina ao controle de ilegalidades evidentes e não ao reexame aprofundado do conjunto probatório.
+10. Não se constatou teratologia, coação ilegal ou flagrante ilegalidade capaz de autorizar, com base no § 2º do art. 654 do Código de Processo Penal, a concessão da ordem de ofício, mantendo-se hígida a decisão que não conheceu do habeas corpus originário.
+IV. Dispositivo e tese
+11. Resultado do Julgamento: Agravo regimental desprovido.
+Tese de julgamento:
+1. A revisão criminal somente é processualmente cabível quando a pretensão se enquadra nas hipóteses taxativas do art. 621 do Código de Processo Penal, não se admitindo seu uso como terceiro grau recursal ou sucedâneo de recurso especial.
+2. Após o trânsito em julgado da condenação, o habeas corpus não pode ser utilizado como sucedâneo de revisão criminal ou de recurso especial para reabrir discussão sobre o mérito da condenação ou sobre o indeferimento liminar da ação revisional.
+3. A competência do Superior Tribunal de Justiça para processar revisões criminais restringe-se, nos termos do art. 105, I, "e", da Constituição Federal, aos seus próprios julgados, sendo inviável utilizar o habeas corpus para submeter à revisão desta Corte condenações proferidas por tribunais locais.
+Dispositivos relevantes citados: CF/1988, art. 105, I, "e"; CPP, art. 621, incisos I, II e III; CPP, art. 654, § 2º.
+Jurisprudência relevante citada: STJ, AgRg no HC 861.867/SC, Quinta Turma, j. 02.09.2024, DJe 06.09.2024; STJ, AgRg no HC 819.078/SP, Sexta Turma, j. 15.06.2023, DJe 15.06.2023.
+VOTO
+No presente recurso, o agravante pede a reversão do julgado ora agravado. Da decisão impugnada, entretanto, colhe-se que analisou de forma devidamente fundamentada os pontos apresentados.
+A controvérsia consiste em se aferir a possibilidade de reconhecer que a revisão criminal proposta na origem seria processualmente cabível.
+Na hipótese, portanto, o habeas corpus foi impetrado contra uma revisão criminal de condenação com trânsito em julgado.
+Das razões expostas, contudo, o que se verifica é que sequer se enquadrariam nos parâmetros da revisão criminal, por ausência de seus pressupostos, quais sejam, os requisitos do art. 621, incisos, do Código de Processo Penal:
+Art. 621. A revisão dos processos findos será admitida:
+I - quando a sentença condenatória for contrária ao texto expresso da lei penal ou à evidência dos autos;
+II - quando a sentença condenatória se fundar em depoimentos, exames ou documentos comprovadamente falsos;
+III - quando, após a sentença, se descobrirem novas provas de inocência do condenado ou de circunstância que determine ou autorize diminuição especial da pena.
+Aliás, segundo a origem, sequer a hipótese seria de flagrante ilegalidade no caso concreto, já que (fls. 26 e 142):
+In casu, a despeito dos argumentos aduzidos no recurso, como fiz consignar, a matéria já foi apreciada e afastada pelo juízo singular e pelo Eg. Tribunal durante o julgamento do seu recurso (f. 638/661).
+O que se tem, como já consignado, é a extemporânea reiteração de teses, objetivando-se a transformação da ação revisional em terceiro apelo e/ou recurso especial, as quais não estão embasadas em provas novas ou outras hipóteses de incidência do disposto no art. 621 do CPP.
+Conforme constante do relatório, o ponto de insurgência que embasou a propositura desta ação revisional, em resumo, é a alegação de ilicitude da prova; a realização da extração de dados pela autoridade policial e a quebra da cadeia de custódia, o que, de acordo com a exordial, nulificou todo o processo.
+In casu, a despeito de tais argumentos, por singela análise da sentença condenatória, constato que houve a devida apreciação da alegada licitude da prova, assim como da produção de relatório após a devida autorização judicial.
+Diante disso, o writ não foi conhecido, pois, ao fim, utilizado como substituto de um recurso especial em revisão criminal ou mesmo uma tentativa de nova revisão criminal em um Tribunal Superior.
+Conforme o artigo 105, inciso I, alínea "e", da Constituição Federal, compete a este STJ, originariamente e somente, "as revisões criminais e as ações rescisórias de seus julgados".
+Nessa linha:
+ ..  Na hipótese, a condenação transitou em julgado em 31/5/2023. Dessa forma, o presente writ seria sucedâneo de revisão criminal, sendo esta Corte incompetente para o processamento do pleito revisional.  ..  Agravo regimental desprovido (AgRg no HC n. 861.867/SC, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 2/9/2024, DJe de 6/9/2024.)
+De todo modo, para afastar a conclusão da origem, seria necessário um revolvimento de fatos e provas inviável na presente via.
+Nesse compasso, não verifico a presença de teratologia ou coação ilegal que desafie a concessão da ordem, nos termos do § 2º do artigo 654 do Código de Processo Penal.
+Diante disso, não se constatou a flagrante ilegalidade apontada.
+Por fim, destaque-se que, no presente agravo regimental, não se aduziu qualquer argumento apto a ensejar a alteração da decisão ora agravada, devendo ser mantida por seus próprios fundamentos (AgRg no HC n. 819.078/SP, Sexta Turma, Relª. Minª. Laurita Vaz, DJe de 15/6/2023).
+Ante o exposto, nego provimento ao agravo regimental, mantendo a decisão agravada por seus próprios fundamentos.
+É como voto.
