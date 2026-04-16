@@ -1,0 +1,31 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em nome de RENATO DA SILVA OLIVEIRA, condenado pelos crimes de homicídio qualificado, tráfico ilícito de entorpecentes e associação para o tráfico, à pena total de 30 anos, 7 meses e 6 dias de reclusão, atualmente em regime semiaberto, preso na unidade Vicente Piragibe/Bangu (Processo n. 0206694-08.2014.8.19.0001, da Vara de Execuções Penais do Rio de Janeiro/RJ Cartório Final RG 1 e 2).
+A impetrante aponta como autoridade coatora o Tribunal de Justiça do Rio de Janeiro, que, em 17/3/2026, deu provimento à insurgência defensiva para indeferir o benefício de visita periódica ao lar (Agravo em Execução Penal n. 5001641-77.2026.8.19.0500).
+Alega ausência de fundamentação idônea, com violação do art. 93, IX, da Constituição Federal, pois a gravidade do crime não é fundamento idôneo para negar a saída temporária.
+Sustenta que o histórico favorável do paciente - bom comportamento e retornos anterior do reeducando - o que configuraria constrangimento ilegal.
+Em caráter liminar, pede e o restabelecimento das saídas temporárias; no mérito, requer a cassação do acórdão impugnado e o restabelecimento do benefício da saída temporária em definitivo (fls. 2/4).
+É o relatório.
+A concessão de ordem de habeas corpus demanda demonstração da ilegalidade, ônus que recai sobre a parte impetrante, a quem cumpre instruir o feito com a prova pré-constituída de suas alegações.
+In casu, verifico, de plano, a viabilidade do presente writ.
+A progressão ao regime semiaberto não traz como consequência automática o deferimento da benesse relativa às saídas temporárias, a qual necessita que o apenado satisfaça requisitos específicos elencados no art. 123 da Lei de Execução Penal.
+Nesse sentido, entre outros, da minha relatoria, o AgRg no AREsp n. 683.107/RJ, Sexta Turma, DJe 4/8/2015; e o HC n. 241.411/RJ, Ministra Maria Thereza de Assis Moura, Sexta Turma, DJe 27/11/2012. Da Quinta Turma, o HC n. 241.780/RJ, Ministra Laurita Vaz, DJe 24/10/2012.
+No entanto, entendo que os fundamentos suscitados não infirmaram os fundamentos do Juízo de primeiro grau.
+O benefício da saída temporária foi concedida aos seguintes termos (fls. 19/20):
+Contudo, após a elaboração dos estudos técnicos, cujos laudos foram juntados nas seq. 156.1, contando com prognósticos especializados favoráveis ao benefício, elaborados por médica psiquiatra, psicóloga e assistente social da SEAP, não foram aduzidos elementos concretos aptos a afastar os requisitos subjetivos, sendo certo que o apenado se apresentou com aspectos psicológicos positivos, como afetividade preservada e equilíbrio emocional, demonstrando a intenção de estudar e trabalhar e expressando o desejo de ajudar sua família, sendo certo que não foram apresentados elementos que contraindiquem o benefício, de modo que o apenado preenche o requisito subjetivo.
+A TFD da seq. 167.1 demonstra comportamento carcerário classificado com o índice "excelente", não tendo praticado qualquer falta disciplinar ao longo de toda a execução, devendo ser considerado que está preso ininterruptamente desde o dia 19/08/2021.
+Estão presentes também os requisitos previstos no art. 122, caput, e inciso I, bem como no art. 123, II, da LEP, visto que o apenado já obteve sua progressão ao regime semiaberto, comprova manter vínculos familiares e já cumpriu fração superior a 1/6 da pena.
+Embora não se disponha de métodos infalíveis para, empiricamente, prever de modo absoluto a aptidão de cada apenado ao retorno gradativo e harmônico ao convívio social, a realização de exames criminológicos torna-se indispensável em casos de acentuada gravidade do delito, como na hipótese em apreço, ensejando o cotejo com os demais elementos subjetivos, como conduta carcerária e histórico de reiteração criminosa.
+Por essa razão, este Juízo, com fundamento na Súmula n. 439 do STJ, antes de julgar o mérito, determinou que fossem elaborados exames criminológicos, para possível apreciação com a necessária parcimônia, e com embasamento em estudo técnico do caso, por profissionais da Psiquiatria, da Psicologia e do Serviço Social, quanto ao preenchimento dos requisitos subjetivos do direito à saída extramuros pretendida para visitação à família, previsto na Lei de Execução Penal.
+Reitere-se que o apenado está em regime semiaberto, tendo cumprido fração superior à exigida pelo art. 123, I, da LEP, preso ininterruptamente há mais de doze anos , sem ter praticado faltas disciplinares, ostentando comportamento carcerário classificado como excelente. Conclui-se que também os exames criminológicos resultaram em prognósticos científicos favoráveis à concessão do benefício, o que se denota dos laudos pormenorizados subscritos por profissionais responsáveis pelas respectivas análises técnicas especializadas. (fls. 19/20)
+Não obstante, fica desde já consignado que em caso de eventuais desvios durante a fruição do benefício, fica o penitente sujeito à regressão para o regime fechado, sem prejuízo da demais consequências legais.
+Conclui-se, assim, que, no presente momento, o apenado preenche os requisitos previstos nos artigos 122 e 123 da LEP para a concessão do benefício.
+No caso, o paciente teve exame criminológico favorável, fundamento esse não considerado pelo Tribunal local, que se limitou a estabelecer presunções em desfavor do paciente, como o pouco tempo de atividade laboral e a necessidade de concessão paulatina dos benefícios (fls. 15/17).
+Nesse sentido, a gravidade abstrata dos delitos, a longa pena a cumprir e a prematuridade na concessão da saída temporária, não são fundamentos idôneos para indeferir a saída temporária (AgRg no HC n. 991.042/RJ, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 3/9/2025, DJEN de 8/9/2025.)
+Assim, os fundamentos utilizados pelo Tribunal não se mostram idôneos, razão pela qual necessário afastar o constrangimento ilegal.
+Ante o exposto, concedo liminarmente a ordem para restaurar a decisão de primeiro grau, que concedeu a saída temporária para visita periódica ao lar (fls. 19/22).
+Comunique-se.
+Intime-se o Ministério Público estadual.
+Publique-se.
+EMENTA
+HABEAS CORPUS. EXECUÇÃO PENAL. PROGRESSÃO DE REGIME. SAÍDAS TEMPORÁRIAS. INDEFERIMENTO. FALTA DO PRESSUPOSTO LEGAL. REEXAME FÁTICO-PROBATÓRIO. INVIABILIDADE. PRECEDENTES.
+Ordem concedida liminarmente.
