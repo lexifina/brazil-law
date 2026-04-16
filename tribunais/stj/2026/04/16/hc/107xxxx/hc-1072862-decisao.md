@@ -1,0 +1,23 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de MURILO HENRIQUE ANDRADE, apontando como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO.
+Consta nos autos que o paciente foi sentenciado, em 01/07/2024, à pena de 19 (dezenove) anos, 5 (cinco) meses e 10 (dez) dias de reclusão, em regime inicial fechado, pela suposta prática dos crimes de tráfico de drogas, associação para o tráfico de de drogas e organização criminosa.
+No presente writ, a defesa alega a ocorrência de constrangimento ilegal consubstanciado no excesso de prazo para o julgamento da apelação.
+Aduz qu e "A demora no julgamento do apelo não pode ser atribuída à Defesa e configura nítido constrangimento ilegal, pois submete o paciente a uma espera indefinida pelo reexame de sua condenação, prolongando indevidamente os efeitos de uma custódia que ainda pende de confirmação em segunda instância" (fls. 6-7).
+Requer a concessão da ordem para determinar que a autoridade coatora paute o julgamento da apelação em prazo não superior a 30 (trinta) dias, sob pena de, em caso de descumprimento, ser expedido alvará de soltura em favor do paciente (fl. 9).
+Informações prestadas às fls. 27-124, 125-127 e 131-133.
+O Ministério Público Federal em parecer, às fls. 134-136, opinou pela denegação da ordem.
+É  o  relatório. DECIDO.
+Pretende  o  Paciente,  em  síntese,  o  reconhecimento  de  constrangimento  ilegal  consubstanciado  no  excesso  de  prazo  para  o  julgamento  da  apelação.
+Inicialmente,  deve  se  ressaltar  que  os  prazos  processuais  não  têm  as  características  de  fatalidade  e  de  improrrogabilidade,  fazendo-se  imprescindível  raciocinar  com  o  juízo  de  razoabilidade  para  definir  o  excesso  de  prazo.
+Na  hipótese, o paciente afirma que; tendo sido prolatada sentença condenatória em seu desfavor, no dia 01 de julho de 2024, e considerando que o recurso de apelação interposto, ainda não teria sido apreciado; restou configurado constrangimento ilegal em razão de excesso de prazo.
+Transcrevo, por oportuno, trecho das informações prestadas pelo Tribunal de origem:
+" ..  O recurso de apelação chegou às mãos deste relator em 11 de abril de 2025. Após diligências necessárias para sanar o processo, retornou a esta relatoria em 17 de agosto de 2025. Efetuada a atenta análise do feito, envolvendo oito apelantes, e elaborado o voto desta relatoria, foi o processo enviado, nesta data, para análise do revisor" (fl. 132).
+In casu,  não  se  verifica  a  existência  de  demora  exacerbada  a  configurar  o  constrangimento  ilegal  suscitado,  levando  em  consideração  a s particularidades da causa; que apura as condutas de tráfico de drogas, associação para o tráfico de drogas e organização criminosa; envolvendo pluralidade de pessoas 8 (oito) apelantes,  tendo  sido  aplicada  ao  paciente substancial reprimenda de  19 (dezenove) anos, 5 (cinco) meses e 10 (dez) dias de reclusão, em regime inicial fechado;  não  apresentando  qualquer  irregularidade  capaz  de  justificar  o  relaxamento  da  prisão  cautelar  sob  o  fundamento  de  excesso  de  prazo.
+No  ponto,  cumpre  registrar  que,  de  acordo  com  a  jurisprudência  desta  Corte,  o  excesso  de  prazo  para  o  julgamento  da  apelação  deve  levar  em  consideração  o  quantum  da  pena  aplicada  pela  sentença  condenatória:
+"Ademais, eventual excesso de prazo deve ser mensurado de acordo com a quantidade de pena imposta na sentença condenatória" (AgRg no RHC n. 197.741/RJ, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 26/8/2024, DJe de 30/8/2024.)
+Outrossim, não restou demonstrado que, em razão de eventual demora para a apreciação do recurso de apelação, o Paciente se encontra impedido de usufruir de benefícios relativos à execução da pena:
+"Considerando a pena total a que foi condenado o paciente - 11 anos de reclusão, em regime inicial fechado -, não verifico flagrante excesso de prazo para o julgamento do recurso, pois não demonstrado que, em razão de eventual demora para a apreciação da apelação, o paciente se encontra impedido de usufruir de benefícios relativos à execução da pena, que já foi iniciada, tendo sido expedida a competente guia de execução provisória" (AgRg no RHC n. 202.029/ES, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 7/10/2024, DJe de 14/10/2024.)
+Diante  de  tais  considerações,  portanto,  não  se  vislumbra  a  existência  de  qualquer  flagrante  ilegalidade  passível  de  ser  sanada  pela  concessão  da  ordem.
+Ante o exposto, denego a ordem. Todavia, recomende-se ao Tribunal de origem que empreenda os esforços necessários a fim de possibilitar a apreciação do recurso.
+Publique-se. Intimem-se.
+EMENTA
