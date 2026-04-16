@@ -1,0 +1,20 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido de liminar, impetrado em favor de HUGO DA CUNHA CARVALHO, apontando como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO DE JANEIRO, em decorrência do julgamento da apelação criminal n. 0847383-67.2023.8.19.0021 (fls. 2-4).
+Consta nos autos que o paciente foi condenado pelo Juízo da 3ª Vara Criminal da Comarca de Duque de Caxias pelos crimes de roubo majorado pelo concurso de pessoas e emprego de arma de fogo e de latrocínio tentado, com reconhecimento de continuidade delitiva, não havendo, cont udo, elementos suficientes nas peças apresentadas para precisar a pena fixada em primeira instância (fls. 73-76).
+A defesa apelou ao Tribunal de Justiça do Estado do Rio de Janeiro, que deu parcial provimento ao recurso, para redimensionar a pena final, em continuidade delitiva, para 13 (treze) anos, 07 (sete) meses e 10 (dez) dias de reclusão, em regime fechado, além de 05 (cinco) dias-multa no mínimo legal (fls. 75-76).
+Na presente impetração, busca-se a concessão da ordem para: (i) reconhecer a nulidade do reconhecimento pessoal realizado em juízo por inobservância do artigo 226 do Código de Processo Penal e por ausência de certeza quanto à identificação; (ii) afastar a condenação fundada em elementos informativos do inquérito, por violação ao artigo 155 do Código de Processo Penal; (iii) anular o processo a partir do indeferimento da perícia técnica de imagens, por cerceamento de defesa, com determinação de sua produção; (iv) reconhecer violação ao princípio da correlação entre denúncia e sentença; e (v) revogar a prisão preventiva, com expedição de alvará de soltura, ou substituição por medidas cautelares do artigo 319 do Código de Processo Penal (fls. 6-16).
+É o relatório. DECIDO.
+Verifico que os autos não foram suficientemente instruídos, pois a parte sequer juntou aos autos a cópia do acórdão proferido pelo Tribunal local referente à apelação criminal ora questionada, nem da sentença proferida pelo juízo de primeiro grau, estando, portanto, deficiente a instrução do feito.
+A orientação firmada no âmbito desta Corte é no sentido de que constitui ônus do impetrante instruir os autos com os documentos necessários à exata compreensão da controvérsia, sob pena de não conhecimento do writ.
+Nesse sentido:
+" ..
+1. Ação constitucional de natureza mandamental, o habeas corpus tem como escopo precípuo afastar eventual ameaça ao direito de ir e vir, cuja natureza urgente exige prova pré-constituída das alegações e não comporta dilação probatória; desse modo, é cogente ao impetrante apresentar elementos documentais suficientes que permitam aferir a suscitada existência de constrangimento ilegal no ato atacado na impetração. Precedentes.
+2. Compulsando os autos, constato que das 443 páginas que instruem o writ, não consta a cópia da sentença condenatória, o que impossibilita a correta compreensão do caso e, por conseguinte, o exame da suposta ilegalidade. Precedentes.
+ .. " (AgRg no HC 834755/MS, Relator Ministro REYNALDO SOARES DA FONSECA, 5ª Turma, DJ-e de DJe 14/08/2023)
+Anoto que a doutrina e a jurisprudência entendem que o habeas corpus, por constituir ação mandamental cuja principal característica é a sumariedade, não possui fase instrutória, vale dizer:
+"a inicial deve vir acompanhada de prova documental pré-constituída, que propicie o exame, pelo juiz ou tribunal, dos fatos caracterizadores do constrangimento ou ameaça, bem como de sua ilegalidade, pois ao impetrante incumbe o ônus da prova" (GRINOVER, A.P.; FILHO, A. M. G.; FERNANDES, A.S. Recursos no Processo Penal, ed. Rev. dos Tribunais, 2011 p. 298).
+Por essa razão, firmou-se a jurisprudência desta Corte Superior no sentido de que é ônus do impetrante a correta instrução dos autos, no momento do protocolo da impetração ou da interposição do recurso ordinário, sob pena de não conhecimento.
+No caso, a deficiência de instrução inviabiliza a análise da questão atinente ao mérito do habeas corpus.
+Ante o exposto, indefiro liminarmente o habeas corpus.
+Publique-se. Intimem-se.
+ EMENTA
