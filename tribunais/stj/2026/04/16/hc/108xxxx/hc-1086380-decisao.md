@@ -1,0 +1,13 @@
+DECISÃO
+Trata-se de habeas corpus, impetrado em nome de BRUNO DE CONTI AVELAR - condenado por roubo majorado e extorsão qualificada majorada a 18 anos, 9 meses e 22 dias de reclusão, em regime fechado, e 34 dias-multa -, apontando como ato coator acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO (Apelação Criminal n. 1547676-11.2023.8.26.0050).
+Busca a impetração revisão da dosimetria na condenação proferida pelo Juízo de Direito da 12ª Vara Criminal da comarca de São Paulo/SP (Ação Penal n. 1547676-11.2023.8.26.0050), ao argumento de exasperação indevida da pena-base, com alegação de bis in idem, por dupla valoração da reincidência; possibilidade de compensação integral entre a atenuante da confissão espontânea e a agravante da reincidência; afastamento da majorante do emprego de arma branca, por ausência de apreensão e perícia do instrumento; e, necessidade de redução do aumento na terceira fase para a fração mínima de 1/6, por suposta ausência de fundamentação concreta.
+Sem pedido liminar.
+É o relatório.
+De início, observo que o writ foi indevidamente utilizado como espécie de "segunda apelação criminal" - em especial, considerando o julgamento da apelação criminal perante a Corte estadual em 29/10/2024 -, dirigida a uma Corte de Precedentes, o que é inadmissível.
+Da análise do acórdão a quo não se verifica coação ilegal manifesta, pois a dosimetria da pena está inserida no âmbito de discricionariedade regrada do julgador, estando atrelada às particularidades fáticas do caso concreto e subjetivas dos agentes, elementos que somente podem ser revistos por este STJ em situações excepcionais, quando malferida alguma regra de direito.
+No caso, o Tribunal revendo a reprimenda imposta, ao manter a exasperação da pena-base assentou que o réu cometeu os crimes em questão quando estava em cumprimento de pena; a compensação parcial na segunda fase em 1/6 se deu apontando fundamentação adequada - reincidência, vítima maior de 60 anos e confissão espontânea -; manteve-se a prescindibilidade da apreensão e perícia na arma, quando existem outros elementos de prova; e, na terceira fase, ao afastar a restrição de liberdade da vítima, indicou a fração de 1/2 diante do concurso de pessoas e emprego de arma, conforme farto entendimento desta Corte Superior de Justiça.
+Em razão disso, indefiro liminarmente a inicial (art. 210 do RISTJ).
+Publique-se.
+EMENTA
+PENAL. HABEAS CORPUS. ROUBO MAJORADO E EXTORSÃO QUALIFICADA. DOSIMETRIA. PRETENSÃO DE REVISÃO DA CONDENAÇÃO IMPOSTA E MANTIDA PELAS INSTÂNCIAS ORDINÁRIAS. UTILIZAÇÃO INDEVIDA DO WRIT. APELAÇÃO CRIMINAL JULGADA EM 29/10/2024. INVIABILIDADE. FORMULAÇÃO DE PRETENSÕES INFUNDADAS. CONSTRANGIMENTO ILEGAL MANIFESTO. AUSÊNCIA.
+Inicial indeferida liminarmente.
