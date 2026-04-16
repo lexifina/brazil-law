@@ -1,0 +1,2 @@
+Art. 191-A - Fica assegurado ao paciente o transporte para retorno ao município em que reside após alta de unidade do Sistema Único de Saúde situada em outro município em caso de atendimento de urgência e emergência ou de atendimento eletivo, conforme regulamentação da autoridade competente.
+Parágrafo único - Para fins do disposto no caput, cabe ao município de residência do paciente a realização do transporte adequado conforme prescrito pelo responsável pela alta.

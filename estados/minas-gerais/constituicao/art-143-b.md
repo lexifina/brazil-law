@@ -1,0 +1,1 @@
+Art. 143-B - O preenchimento do quadro de servidores da Polícia Penal será feito exclusivamente por meio de concurso público de provas ou de provas e títulos e por meio da transformação de cargos de carreira dos agentes penitenciários.

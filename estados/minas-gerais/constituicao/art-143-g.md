@@ -1,0 +1,1 @@
+Art. 143-G - À polícia legislativa a que se refere o inciso III do caput do art. 62 desta Constituição incumbem a segurança dos membros do parlamento mineiro e o policiamento da sede e das demais dependências da Assembleia Legislativa.

@@ -1,0 +1,1 @@
+Art. 59-A - À Deputada será concedida licença-maternidade, com duração de cento e vinte dias, prorrogável automática e imediatamente por mais sessenta dias, salvo em caso de solicitação formal da Deputada, e ao Deputado será concedida licença-paternidade, com duração de 15 dias, sem perda do subsídio.

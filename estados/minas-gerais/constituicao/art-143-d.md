@@ -1,0 +1,1 @@
+Art. 143-D - A Polícia Penal, dotada de autonomia administrativa, será dirigida por policial penal com no mínimo quinze anos de efetivo exercício, que esteja na classe final da respectiva carreira e seja bacharel em Direito.
