@@ -1,0 +1,11 @@
+DECISÃO
+O presente writ, ajuizado em favor de ADRIEL RICARDO DE OLIVEIRA - condenado pela prática de roubo majorado e extorsão qualificada, à pena de 17 anos, 7 meses e 6 dias de reclusão, em regime inicial fechado, além de 36 dias-multa -, em que se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO (Apelação n. 1501179-48.2023.8.26.0628), não comporta processamento.
+Busca a impetração a absolvição do paciente ou a anulação da condenação, por fragilidade probatória, com a ausência de reconhecimento válido da vítima e a falta de prova direta e elementos objetivos de vinculação do paciente aos atos executórios dos delitos.
+Ocorre que, além de se tratar de habeas corpus destinado a revisar condenação transitada em julgado, o que é inadmissível, consoante jurisprudência desta Corte Superior, o não cabimento do writ substitutivo de revisão criminal é corroborado quando o impetrante não indica que as razões de pedir estão previstas em alguma das hipóteses do art. 621 do CPP, como no presente caso (HC n. 829.748/GO, Ministro Rogerio Schietti Cruz, Sexta Turma, DJe 11/12/2023).
+Ademais, inexiste ilegalidade flagrante que justifique a superação dos óbices constatados, considerando que a pretensa revisão do julgado, com vistas a perquirir sobre provas da autoria, não se coaduna com a estreita via do habeas corpus, dada a necessidade de profundo reexame de fatos e provas (AgRg no HC n. 834.062/SP, Ministro Jesuíno Rissato (Desembargador convocado do TJDFT), Sexta Turma, DJe de 30/11/2023).
+Vale destacar que a instância de origem apontou vasto conjunto probatório, entre os quais as declarações da vítima e dos agentes públicos; os dados extraídos de aparelho celular apontando comunicação entre os réus; a apreensão de bloqueador de sinal no veículo conduzido pelo paciente e a identificação de fragmento de impressão papilar do corréu nesse mesmo veículo; a ausência de justificativa verossímil por parte da defesa.
+Pelo exposto, indefiro liminarmente o habeas corpus (art. 210 do RISTJ).
+Publique-se.
+EMENTA
+HABEAS CORPUS. CRIMES DE ROUBO E EXTORSÃO. CONDENAÇÃO TRANSITADA EM JULGADO. PRETENSÃO DE REVISÃO. AUSÊNCIA DE CABIMENTO. FRAGILIDADE DE PROVAS. INEVIDÊNCIA. INEXISTÊNCIA DE ILEGALIDADE MANIFESTA.
+Petição inicial indeferida liminarmente.
