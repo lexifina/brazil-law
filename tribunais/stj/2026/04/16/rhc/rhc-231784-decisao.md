@@ -1,0 +1,27 @@
+DECISÃO
+Trata-se de recurso ordinário em habeas corpus, com pedido liminar, interposto por FRANCISCO GEILSON VIEIRA DE SOUSA CASTELO BRANCO contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO PIAUÍ.
+Consta nos autos que o recorrente teve a prisão preventiva decretada pela suposta prática dos crimes de tráfico de drogas e organização criminosa.
+Irresignada, a defesa impetrou habeas corpus perante o Tribunal de Justiça de origem.
+Neste recurso sustenta, em suma, a ausência de fundamentação concreta e idônea da decisão que decretou a prisão cautelar em desfavor do recorrente ponderando suas condições pessoais favoráveis.
+Aduz que o recorrente estaria sofrendo constrangimento ilegal em razão do excesso de prazo para a formação da culpa.
+Alega, ainda, que corréus, na mesma situação fática que o recorrente, foram beneficiados com a liberdade provisória.
+Requer a revogação da prisão preventiva ou, subsidiariamente, sua substituição por medida cautelar diversa.
+Liminar indeferida às fls. 202-204.
+Informações prestadas às fls. 213-216.
+O Ministério Público Federal em parecer, às fls. 218-236, opinou pelo não provimento do recurso.
+É o relatório. DECIDO.
+In casu, a prisão preventiva se encontra devidamente fundamentada em dados concretos extraídos dos autos, que evidenciam a necessidade de encarceramento provisório, haja vista que, em tese, o recorrente integraria organização criminosa voltada ao tráfico de drogas; constando nos autos que ele seria uma das lideranças da facção Guardiões do Estado (GDE) no litoral do Piauí e suposto fornecedor de drogas para a facção PCC em Cajueiro da Praia, bem como que exerceria a traficância em larga escala.
+Tais circunstâncias demonstram a gravidade concreta da conduta e a periculosidade do recorrente, justificando a segregação cautelar para a garantia da ordem pública.
+Sobre o tema:
+"A jurisprudência desta Corte sustenta que a prisão preventiva é justificada para garantir a ordem pública, especialmente quando evidenciada a periculosidade do agente, diante da gravidade concreta da conduta e do seu envolvimento com organização criminosa" (AgRg no RHC n. 219.188/MG, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 22/10/2025, DJEN de 29/10/2025.)
+"a jurisprudência desta Corte é assente no sentido de que se justifica a decretação de prisão de membros de grupo criminoso como forma de interrom per suas atividades. Dessa forma, "justifica-se a decretação da prisão preventiva de membros de organização criminosa, como forma de desarticular e interromper as atividades do grupo" (AgRg no HC n. 728.450/SP, Rel. Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 09/08/2022, DJe 18/08/2022)" (AgRg no HC n. 1.019.718/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 15/10/2025, DJEN de 21/10/2025.)
+Ademais, a jurisprudência desta Corte é assente no sentido de que se justifica a decretação de prisão como forma de fazer cessar ou diminuir a atuação de suposto membro de grupo criminoso. Nesse sentido, confiram-se alguns precedentes: (AgRg no HC n. 948.505/MG, relator Ministro Og Fernandes, Sexta Turma, julgado em 3/12/2024, DJEN de 18/12/2024.)(AgRg no RHC n. 168.799/RS, relator Ministro Joel Ilan Paciornik, Quinta Turma, DJe de 31/3/2023); (AgRg no HC n. 790.100/MG, relatora Ministra Laurita Vaz, Sexta Turma, DJe de 23/3/2023); (AgRg no HC n. 781.026/ES, relatora Ministra Laurita Vaz, Sexta Turma, DJe de 15/12/2022); (AgRg no HC n. 719.304/SP, relator Ministro Ribeiro Dantas, Quinta Turma, DJe de 13/9/2022);(AgRg no RHC 166309/PR, Rel. Min. Reynaldo Soares da Fonseca, Quinta Turma, DJe 04/10/2022); (RHC 142663/DF, Rel. Min. Laurita Vaz, Sexta Turma, DJe 18/08/2022); (AgRg no RHC n. 187.597/MG, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 8/4/2024, DJe de 11/4/2024.).
+No mais, cumpre consignar que condições pessoais favoráveis, tais como primariedade, ocupação lícita e residência fixa, não têm o condão de, por si sós, garantirem ao recorrente a revogação da prisão preventiva se há nos autos elementos hábeis a recomendar a manutenção de sua custódia cautelar. Pela mesma razão, não há que se falar em possibilidade de aplicação de medidas cautelares diversas da prisão, o que ocorre na hipótese.
+Por fim, no que se refere às teses acerca da extemporaneidade da prisão e excesso de prazo; verifico que a quaestio não foi objeto de deliberação no acórdão hostilizado, o que obsta o exame desta Corte, sob pena de indevida supressão de instância.
+Ilustrativamente:
+"Quanto à al egada ausência de contemporaneidade entre os fatos e o decreto de custódia preventiva, observa-se que o Tribunal de origem não analisou o pleito, no julgamento do writ originário, de modo que sua apreciação direta por esta Corte Superior fica obstada, sob pena de se incorrer em indevida supressão de instância" (AgRg no RHC n. 186.267/PE, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 4/3/2024, DJe de 7/3/2024.)
+"O alegado excesso de prazo para o término da instrução criminal, não foi objeto de análise pelo Tribunal estadual, o que impede o exame direto por esta Corte, por configurar indevida supressão de instância. Precedentes" (AgRg no HC n. 935.313/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 16/9/2024, DJe de 18/9/2024.)
+Diante de tais considerações, portanto, não se vislumbra a existência de qualquer flagr ante ilegalidade passível de ser sanada.
+Ante o exposto, nego provimento ao recurso ordinário em habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
