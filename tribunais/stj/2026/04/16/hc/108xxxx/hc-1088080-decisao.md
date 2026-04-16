@@ -1,0 +1,19 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em favor de ALEXANDRE RODRIGUES contra decisão proferida pelo Juízo Federal da 4ª Vara Federal de Cascavel/PR.
+Consta que o paciente responde à Ação Penal n. 5008185-38.2025.4.04.7009, pela suposta prática do delito previsto no art. 334-A do Código Penal (contrabando).
+Registre-se que, em oportunidade diversa, o Tribunal Regional Federal da 4ª Região concedeu parcialmente ordem de habeas corpus, determinando a remessa dos autos ao órgão superior do Ministério Público Federal para revisão da possibilidade de oferta do acordo, afastando a suspensão da ação penal, em acórdão assim ementado (e-STJ fl. 99):
+HABEAS CORPUS. ACORDO DE NÃO PERSECUÇÃO PENAL. INDEFERIMENTO DE REMESSA AO ÓRGÃO SUPERIOR DO MINISTÉRIO PÚBLICO FEDERAL. SUSPENSÃO DA AÇÃO PENAL. AUSÊNCIA DE PREVISÃO LEGAL.
+1. Manifestada a inconformidade da defesa quanto à recusa do Ministério Público Federal em ofertar proposta de acordo de não persecução penal, incumbe ao juízo a remessa do processo ao órgão superior do Parquet para revisão da possibilidade de oferta do acordo, em observância ao princípio da ampla defesa e ao disposto no art. 28-A, § 14, do CPP.
+2. Ausente previsão legal, não há falar em suspensão da ação penal enquanto pendente de análise a insurgência defensiva no âmbito administrativo do órgão ministerial.
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, a Egrégia 7ª Turma do Tribunal Regional Federal da 4ª Região decidiu, por unanimidade, conceder em parte a ordem de habeas corpus, nos termos do relatório, votos e notas de julgamento que ficam fazendo parte integrante do presente julgado.
+No presente writ, a defesa alega que, apesar da determinação do TRF-4 de remessa dos autos à 2ª Câmara de Coordenação e Revisão do MPF, o juízo de origem designou audiência de instrução, debates e julgamento para 14 de abril de 2026, sem retorno da instância revisional, o que acarretaria perecimento do objeto do ANPP e violação à ampla defesa, por esvaziamento da utilidade prática da revisão ministerial (e-STJ fls. 2/7).
+Requer a concessão de medida liminar para suspender a Ação Penal n. 5008185-38.2025.4.04.7009, sustando-se, em especial, a audiência designada para 14 de abril de 2026, até o julgamento de mérito deste habeas corpus. Pleiteia, no mérito, a concessão definitiva da ordem para manter a suspensão do processo até a manifestação final e irrecorrível da 2ª CCR do MPF sobre o cabimento do ANPP (e-STJ fl. 9).
+É o relatório.
+A impetração dirige-se contra ato do Juízo Federal da 4ª Vara de Cascavel/PR que, nos autos da Ação Penal n. 5008185-38.2025.4.04.7009, designou audiência de instrução, debates e julgamento para 14 de abril de 2026. Registre-se que o fez em consonância com acórdão do Tribunal Regional Federal da 4ª Região (e-STJ fls. 99/104) que, embora tenha determinado a remessa dos autos ao órgão superior do Ministério Público Federal para revisão da recusa do ANPP, expressamente afastou a suspensão da ação penal por ausência de previsão legal.
+Cuida-se, de toda forma, de writ contra ato jurisdicional praticado por juízo de primeiro grau, no curso da ação penal em trâmite.
+À luz da Constituição Federal, art. 105, I, "a" e "c", e II, é manifesta a incompetência desta Corte para, originariamente, conhecer de habeas corpus contra ato de juiz singular e para examinar recurso ordinário em habeas corpus que não se enquadre nas hipóteses constitucionais de competência.
+Com efeito, "é vedada a apreciação per saltum da pretensão defensiva, sob pena de supressão de instância, uma vez que compete ao Superior Tribunal de Justiça, na via processual do habeas corpus, apreciar ato de um dos Tribunais Regionais Federais ou dos Tribunais de Justiça estaduais" (EDcl no HC 609.741/MG, Rel. Ministra LAURITA VAZ, SEXTA TURMA, julgado em 15/9/2020, DJe 29/9/2020).
+Pelo exposto, indefiro liminarmente o mandamus.
+Publique-se.
+EMENTA
