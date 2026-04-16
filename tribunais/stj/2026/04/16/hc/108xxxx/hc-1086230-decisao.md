@@ -1,0 +1,14 @@
+DECISÃO
+ANTONIEL MADEIRA JÚNIOR, acusado por tráfico e posse de munições de uso restrito, alega ser vítima de constrangimento ilegal em decorrência de acórdão proferido pelo Tribunal de Justiça do Estado de Minas Gerais, que denegou a ordem impetrada naquela Corte, na qual pretendia a revogação da preventiva, objetivo este reiterado nesta oportunidade.
+O caso comporta o julgamento antecipado do habeas corpus, porquanto se amolda à pacífica orientação desta Corte em hipóteses análogas, desfavorável à pretensão defensiva.
+Deveras, extrai-se dos autos que o paciente foi preso em flagrante, posteriormente convertida em preventiva, pela suposta prática de tráfico de drogas e posse ilegal de munições de uso restrito, cuja constrição foi mantida pelo Tribunal de origem razão dos seguintes fundamentos (fl. 141, destaquei):
+ ..
+Noutro giro, é relevante destacar a apreensão de significativa quantidade de substâncias entorpecentes e munições, conforme consta nos autos. Foram localizados: 01 (um) papelote de substância análoga à cocaína em posse do conduzido; 05 (cinco) porções de substância análoga à maconha e resquícios de substância análoga à cocaína sobre uma mesa no interior do imóvel; bem como uma bolsa contendo 41 (quarenta e um) papelotes de substância branca aparentando ser cocaína, 02 (duas) porções adicionais da mesma substância e 15 (quinze) porções de substância esverdeada aparentando ser maconha. Ainda, foram apreendidas 24 (vinte e quatro) munições intactas de calibre .40 e 01 (uma) munição intacta de calibre 9mm.
+Ainda que o paciente ostente a condição de primariedade, as circunstâncias fáticas que envolveram o flagrante demonstram sua propensão para a prática de delitos da mesma natureza, evide
+Conforme tenho assinalado em diversas oportunidades, a prisão preventiva possui natureza excepcional, sempre sujeita a reavaliação, de modo que a decisão judicial que a impõe ou a mantém, para compatibilizar-se com a presunção de não culpabilidade, deve ser suficientemente motivada, com indicação concreta das razões fáticas e jurídicas que justificam a cautela, nos termos dos arts. 312, 313 e 282, I e II, do Código de Processo Penal.
+No caso, depreende-se da decisão constritiva a gravidade concreta dos fatos imputados ao paciente, evidenciada pela existência, junto com a droga apreendida, de munições de uso restrito, utilizáveis por armamento de calibres diferentes.
+Segundo a orientação deste Superior Tribunal, "a gravidade concreta do delito, à luz de seu modus operandi, evidencia a periculosidade do suspeito e o interesse cautelar de evitar a reiteração delitiva" (HC n. 615.256/PR, relator Ministro Rogerio Schietti, DJe 29/3/2021).
+À vista do exposto, com fundamento no art. 34, XX, do RISTJ, denego in limine o habeas corpus.
+Dê-se ciência ao Ministério Público Federal.
+Publique-se e intimem-se
+EMENTA
