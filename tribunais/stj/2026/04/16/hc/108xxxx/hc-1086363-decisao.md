@@ -1,0 +1,15 @@
+DECISÃO
+Trata-se de habeas corpus, impetrado em nome de DAVID EDSON FERNANDES LINS - condenado por associação para o tráfico de drogas majorado, à pena de 4 anos e 8 meses de reclusão e 1.089 dias-multa, em regime inicial fechado -, apontando como ato coator o acórdão do Tribunal de Justiça do Rio de Janeiro (Revisão Criminal n. 0002342-71.2026.8.19.0000).
+Busca a impetração a revisão da dosimetria na condenação proferida pelo Juízo de Direito da 42ª Vara Criminal da comarca do Rio de Janeiro/RJ (Ação Penal n. 0515748-22.2014.8.19.0001), ao argumento de nulidade por fundamentação genérica na exasperação da pena-base, com o afastamento da circunstância judicial negativa (circunstâncias do crime) na primeira fase, em bis in idem com as majorantes do art. 40, IV e VI, da Lei n. 11.343/2006, redução da fração das causas de aumento do art. 40, IV e VI, para 1/6, por ausência de individualização da conduta e uso de gravidade abstrata.
+Sem pedido liminar.
+É o relatório.
+No caso, além de se tratar de writ utilizado como espécie de segunda revisão criminal, o que é inadmissível, inexiste ilegalidade flagrante que justifique a superação do óbice constatado, pois o Tribunal estadual não incorreu em omissão nem em negativa de prestação jurisdicional, decidindo em consonância com a jurisprudência desta Casa. Isso porque a revisão criminal é admitida apenas em situações excepcionais, não podendo ser tratada como uma segunda apelação.
+O Tribunal estadual, no julgamento da revisão criminal, afastou a alegação de bis in idem, ao fundamento de que o simples fato de o réu pertencer à facção criminosa conhecida por Comando Vermelho já ensejaria a exacerbação da reprimenda, ainda mais exercendo função de comando, sendo ele o segundo homem na hierarquia (fls. 16/17), não se confundindo com a causa de aumento do art. 40, IV, da Lei n. 11.343/2006, em consonância com o entendimento desta Corte Superior de que a dosimetria pode valorar circunstâncias do crime desde que haja lastro fático concreto.
+O acórdão a quo manteve a fração de 1/3 na terceira fase, fundamentando-se no emprego de arsenal bélico e na participação frequente de adolescentes nos confrontos, com apoio em depoimentos testemunhais, registros de ocorrência e filmagens acostadas, não havendo ilegalidade evidente, porquanto a escolha da fração superior ao mínimo foi motivada em elementos concretos do caso (fls. 15/17).
+Além disso, não foram apresentados fatos ou provas novas capazes de ensejar a revisão criminal (CPP, art. 621), tendo a Corte local julgado improcedente o pedido revisional por inexistência de afronta legal ou constitucional.
+Assim, a pretensão de reexame da valoração das provas e do mérito da dosimetria é incompatível com a via estreita do habeas corpus, ausente flagrante ilegalidade.
+Em razão disso, indefiro liminarmente a inicial (art. 210 do RISTJ).
+Publique-se.
+EMENTA
+PENAL. HABEAS CORPUS. ASSOCIAÇÃO PARA O TRÁFICO DE DROGAS MAJORADO. DOSIMETRIA. MANDAMUS UTILIZADO COMO SEGUNDA REVISÃO CRIMINAL. UTILIZAÇÃO INDEVIDA DO WRIT. INVIABILIDADE. FORMULAÇÃO DE PRETENSÕES INFUNDADAS. CONSTRANGIMENTO ILEGAL MANIFESTO. AUSÊNCIA.
+Inicial indeferida liminarmente.
