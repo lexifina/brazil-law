@@ -1,0 +1,23 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em favor de BRUNO APARECIDO DE ALMEIDA SILVA em que se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO (Revisão Criminal n. 0010537-84.2025.8.26.0000).
+Consta dos autos que o paciente foi condenado às penas de 7 anos, 5 meses e 25 dias de reclusão, em regime inicial fechado, e de 17 dias-multa, como incurso nas sanções dos arts. 157, § 2º, II e V, por duas vezes, c/c o art. 70, caput, primeira parte, ambos do Código Penal.
+A impetrante sustenta condenação amparada em prova insuficiente, especialmente pela ausência de reconhecimento válido do paciente e pela inexistência de testemunhas que tenham presenciado o roubo.
+Alega que o reconhecimento realizado na fase policial não observou o procedimento do art. 226 do Código de Processo Penal, o que fragiliza a autoria e impede que tal elemento seja base exclusiva para condenação.
+Aduz que os policiais militares apenas efetuaram a prisão após o fato e que o paciente, em interrogatório, negou participação afirmando exercer atividade de carretos, corroborada por testemunha de defesa.
+Assevera que a sentença absolutória de primeiro grau aplicou o princípio do in dubio pro reo, revertido no acórdão condenatório com fundamento apenas na posse dos bens.
+Afirma que, subsidiariamente, a fração de aumento de 3/8 aplicada às causas de aumento do art. 157, §2º, II e V, do CP carece de fundamentação concreta e incorre em bis in idem, devendo ser reduzida ao mínimo de 1/6, em observância à Súmula n. 443 do STJ.
+Defende que não há concurso formal, porque a violência e a grave ameaça se dirigiram a uma única pessoa que exercia a posse de bens próprios e de terceiros, impondo o reconhecimento de crime único.
+Entende que o regime inicial fechado foi fixado com base na gravidade abstrata, contrariando as Súmulas n. 440 do STJ e 718 e 719 do STF, razão pela qual requer o regime semiaberto, consideradas as circunstâncias favoráveis.
+Pondera que deve ser aplicada a detração penal prevista no art. 387, § 2º, do Código de Processo Penal, computando-se o período de prisão cautelar de quase 8 meses para fixação do regime inicial.
+Relata que, diante de todo o quadro, a absolvição é medida que se impõe. Alternativamente, pleiteia o redimensionamento da pena, o afastamento do concurso formal e a alteração do regime inicial, com a aplicação da detração penal.
+Requer, em suma, a absolvição. Subsidiariamente, busca o redimensionamento da pena e a alteração do regime inicial de cumprimento, com reconhecimento de crime único e aplicação da detração penal.
+É o relatório.
+É firme no Superior Tribunal de Justiça a compreensão de que o habeas corpus não pode ser utilizado como substitutivo do recurso legalmente previsto.
+No caso, apreciado pela instância de origem o pedido de revisão criminal, a impugnação deve ser feita por meio de recurso especial, nos termos previstos no art. 105, III, da Constituição Federal, por se tratar de "causas decididas, em única ou última instância, pelos Tribunais Regionais Federais ou pelos tribunais dos Estados, do Distrito Federal e Territórios".
+Nesse sentido: AgRg no HC n. 1.042.849/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 4/11/2025, DJEN de 12/11/2025; AgRg no HC n. 1.015.569/SP, relator Ministro Messod Azulay Neto, Quinta Turma, julgado em 24/9/2025, DJEN de 30/9/2025; e HC n. 988.028/SC, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 14/5/2025, DJEN de 21/5/2025.
+Por isso, e observado o princípio da unirrecorribilidade, a impetração é substitutiva de recurso próprio, razão pela qual do habeas corpus não se pode conhecer.
+Deve-se registrar, em acréscimo, que, nas hipóteses em que a instância de origem não conhece do pedido revisional, por entender não caracterizada alguma das previsões contidas no art. 621 do Código de Processo Penal, a irresignação quanto a tal conclusão - cabível no recurso especial, como esclarecido - depende da demonstração de aplicação incorreta do referido dispositivo da lei processual.
+Com efeito, a jurisprudência deste Superior Tribunal não admite a utilização da revisão criminal como nova oportunidade de interpor apelação, reabrindo-se a rediscussão de questões já acobertadas pela coisa julgada, sendo indispensável a demonstração de cabimento do pedido revisional. Nesse sentido: HC n. 988.028/SC, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 14/5/2025, DJEN de 21/5/2025; e HC n. 970.713/BA, de minha Relatoria, Sexta Turma, julgado em 3/9/2025, DJEN de 9/9/2025.
+Ante o exposto, com fundamento no art. 210 do Regimento Interno do Superior Tribunal de Justiça, não conheço do habeas corpus.
+Publique-se. Intimem-se.
+ EMENTA
