@@ -1,0 +1,51 @@
+Decisão: Trata-se de agravo contra inadmissibilidade de recurso extraordinário em face de acórdão do Tribunal de Justiça do Estado do Rio de Janeiro, cuja ementa transcrevo:
+
+“APELAÇÃO CÍVEL. DIREITO TRIBUTÁRIO. AÇÃOANULATÓRIA DE DÉBITO FISCAL. ICMS. FLUÍDO DEPERFURAÇÃO. REQUERIMENTO PARA ANULAÇÃO DO LANÇAMENTO FISCAL Nº 03.165055-9, BEM COMO DO CRÉDITO TRIBUTÁRIO EXIGIDO. SENTENÇA DE PROCEDÊNCIA, QUE CONFIRMOU A DECISÃO QUE ANTECIPOU PARCIALMENTE OS EFEITOS DA TUTELA EANULOU O LANÇAMENTO FISCAL. RECURSO DE AMBASAS PARTES. RECURSO DE APELAÇÃO DA PARTE AUTORA,REQUERENDO A ANTECIPAÇÃO DOS EFEITOS DA TUTELA RECURSAL PARA SUSPENDER A EXIGIBILIDADE DO CRÉDITO TRIBUTÁRIO E, NO MÉRITO, A REFORMA DASENTENÇA, PARA MAJORAR OS HONORÁRIOS DE SUCUMBÊNCIA NOS TERMOS DO ART. 85, §S 2º E 3º DO CPC. RECURSO DE APELAÇÃO DA PARTE RÉ PARA VER RECONHECIDO COMO DEVIDO O DÉBITO DE ICMSDECORRENTE DO AI Nº 03.165055-9, E A CONSEQUENTE EXCLUSÃO DA CONDENAÇÃO DO ERJ AO PAGAMENTO DE HONORÁRIOS SUCUMBENCIAIS. RECURSO DE APELAÇÃO DA PARTE AUTORA QUE MERECE AMPARO. HONORÁRIOSDE SUCUMBÊNCIA FIXADOS EM SENTENÇA QUE NÃO OBSERVARAM AS DISPOSIÇÕES LEGAIS EM CONDENAÇÕES CONTRA A FAZENDA PÚBLICA. SENTENÇA DE PROCEDÊNCIA QUE TORNA SEM EFEITO OLANÇAMENTO FISCAL QUE DEU ORIGEM AO CRÉDITO TRIBUTÁRIO. SENTENÇA REFORMADA NO SENTIDO DE (I)FIXAR OS HONORÁRIOS DE SUCUMBÊNCIA NOSPERCENTUAIS MÍNIMOS DO ART. 85, §3º DO CÓDIGO DEPROCESSO CIVIL, NA FORMA DO §5º DO MESMO DISPOSITIVO, CONSIDERANDO O VALOR ATRIBUÍDO À CAUSA DEVIDAMENTE ATUALIZADO; E (II) ANTECIPAROS EFEITOS DA TUTELA PARA DECLARAR SUSPENSA A EXIGIBILIDADE DO CRÉDITO DO AUTO DE INFRAÇÃO Nº03.165055-9, TENDO EM VISTA A PROCEDÊNCIA DA AÇÃO ANULATÓRIA DA EXECUÇÃO FISCAL Nº 0007032-42.2010.8.19.0021, CONFORME PERMITE O ART. 151, INCISO V DO CÓDIGO TRIBUTÁRIO NACIONAL. PROVIMENTO DORECURSO DA PARTE AUTORA. NEGADO PROVIMENTO AORECURSO DA PARTE RÉ”. (eDOC 216, p. 1-2)
+
+No recurso extraordinário, interposto com fundamento no art. 102, III, a, da Constituição Federal, aponta-se violação ao art. 155, § 2º, I, do texto constitucional.
+Nas razões recursais, alega-se a inexistência do direito ao crédito decorrente de mercadoria utilizada na extração do petróleo, tendo em vista a não incidência do ICMS, por não se incorporar ao produto final comercializado pela parte recorrida.
+Sustenta-se que, para se configurar como insumo capaz de legitimar o direito de crédito pelo ICMS pago na sua aquisição, deve ocorrer a integralização do bem ao produto final do processo produtivo, bem como seu consumo imediato, não bastando ser essencial. Aduz-se que, no caso dos autos, as mercadorias são bens de uso e consumo do estabelecimento, mas não insumos, porque não se incorporam fisicamente ao produto final.
+É o relatório.
+
+Decido.
+A pretensão recursal não merece prosperar.
+Na hipótese, a parte recorrente sustenta a inexistência do direito ao crédito decorrente de mercadoria utilizada na extração do petróleo, tendo em vista a não incidência do ICMS sobre ela, por não se incorporar ao produto final comercializado pela parte recorrida.
+Com relação a essa questão, o tribunal de origem assentou o seguinte:
+
+“Com a edição da Lei Complementar nº 87/1996 (conhecida como Lei Kandir), restou estabelecido em seu artigo 20, § 1º que, ao sujeito passivo, para fins de compensação, é garantido o direito ao creditamento do ICMS anteriormente cobrado em operações de que tenha resultado a aquisição de mercadoria, ainda que destinada ao seu uso, consumo ou ativo permanente. Confira-se:
+(...)
+Ocorre que o art. 33, inciso I, da LC 87/96 estabelece limitação temporal para a utilização do creditamento referente aos de bens de uso e consumo: a partir de janeiro de 2020, com a redação dada ao referido inciso pela LC 138/10, vigente à época da autuação, e, partir da LC 171/2019, a parir de 1º de janeiro 2033, sendo certo que a referida limitação já foi chancelada pelo Supremo Tribunal Federal.
+Destaca-se, portanto, que somente os insumos estão fora da limitação temporal estabelecida na referida lei, e podem ser utilizados para fins de creditamento, antes de janeiro de 2033.
+As partes não divergem quanto ao fato de que o fluido de perfuração e seus componentes não são agregados ao produto final da autora. O cerne da lide está,portanto, em se aferir se os referidos produtos se inserem no conceito de insumos ajustificar o creditamento para fins de ICMS, sem a limitação temporal prevista no inciso I, do art. 33 da LC 87/96.
+O C. Superior Tribunal de Justiça, em sede de recursos repetitivos, definiu oque se pode considerar insumos, sendo certo que, apesar de serem temas que envolvem PIS E COFINS, tal conceito também é plenamente aplicado pelo Tribunal Superior em matéria envolvendo creditamento de ICMS. Confira-se:
+(...)
+Nesse contexto, consoante orientação pacífica do STJ, é considerado insumo o bem e serviço imprescindível ao desemprenho da atividade empresarial final do contribuinte e, por essa razão, não se trata de conceito que envolva tão somente a integração física ao produto final comercializado pela autora, mas também se estende ao que integra, essencialmente, a sua cadeia produtiva.
+Conforme estatuto social da autora trazido aos autos, sua atividade tem como objeto, dentre outros, a pesquisa, a lavra, a refinação, o processamento, o comércio e o transporte de petróleo proveniente de poço, de xisto ou de outras rochas, de seus derivados. Portanto, a análise da natureza dos referidos produtos deve ser feita tendo como baliza o objeto social da autora.
+O laudo pericial anexado aos autos no index 259 apresentou conclusão os seguintes termos:
+(...)
+Nesse contexto, verifico ter restado comprovado nos autos que o fluido de perfuração e seus componentes integram diretamente a cadeia produtiva da ré, tendo,portanto, natureza jurídica de insumos, passíveis de creditamento de ICMS.
+(...)
+Nesse contexto, compete ao Judiciário, nos estritos limites da legalidade,reconhecer a correção do creditamento do ICMS realizado pela autora referente aaquisição dos insumos acima descritos”. (eDOC 216, p. 10-18)
+
+Depreende-se do exceto acima que o Tribunal de origem, ao examinar a legislação infraconstitucional aplicável à espécie (Leis Complementares 87/1996, 138/10 e 171/2019) e a jurisprudência do Superior Tribunal de Justiça, bem como o conjunto probatório constante dos autos, assentou o direito da parte recorrida ao creditamento do ICMS, em razão da natureza jurídica de insumos dos produtos tratados nos autos.
+Assim, verifica-se que a matéria debatida no acórdão recorrido restringe-se ao âmbito infraconstitucional, de modo que a ofensa à Constituição, se existente, seria reflexa ou indireta, o que inviabiliza o processamento do presente recurso.
+Além disso, divergir do entendimento firmado pelo Tribunal de origem demandaria o revolvimento do acervo fático-probatório, providência inviável no âmbito do recurso extraordinário. Nesses termos, incide, no caso, o óbice da Súmula 279 do Supremo Tribunal Federal.
+Confiram-se, a propósito, os seguintes precedentes:
+
+“EMENTA: AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO COM AGRAVO. DIREITO TRIBUTÁRIO. ICMS INCIDENTE SOBRE BROCAS DE PERFURAÇÃO. EXTRAÇÃO DE PETRÓLEO. NECESSIDADE DE REEXAME DE FATOS E PROVAS E DE LEGISLAÇÃO INFRACONSTITUCIONAL. INCIDÊNCIA DAS SÚMULAS 279 E 280 DO STF. I. CASO EM EXAME 1. Agravo interno contra decisão que negou seguimento a recurso extraordinário com agravo, o qual tem por objeto acórdão que negou provimento aos recursos. II. QUESTÃO EM DISCUSSÃO 2. Preenchimento dos pressupostos de admissibilidade do recurso extraordinário com agravo. III. RAZÃO DE DECIDIR 3. Hipótese em que, para dissentir do entendimento firmado pelo Tribunal de origem, seria necessário reexaminar fatos e provas constantes dos autos e a legislação infraconstitucional pertinente, o que inviabiliza o processamento do recurso extraordinário, tendo em vista a vedação contida na Súmula 279 do STF e a ausência de ofensa direta à Constituição Federal. IV. DISPOSITIVO 4. Agravo regimental a que se nega provimento”.
+(ARE 1.543.260 AgR, Rel. EDSON FACHIN (Vice-Presidente), Tribunal Pleno, DJe 14.7.2025)
+
+“EMENTA: AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. TRIBUTÁRIO. IMPOSTO SOBRE CIRCULAÇÃO DE MERCADORIAS E SERVIÇOS – ICMS. OPERAÇÕES DE COMODATO. AQUISIÇÃO DE BENS DESTINADOS AO ATIVO PERMANENTE. DIREITO A CREDITAMENTO. SÚMULAS NS. 279 E 573 DO SUPREMO TRIBUNAL FEDERAL E AUSÊNCIA DE OFENSA CONSTITUCIONAL DIRETA. MANUTENÇÃO DA DECISÃO AGRAVADA PELOS SEUS PRÓPRIOS FUNDAMENTOS. VERBA HONORÁRIA MAJORADA EM 1% (§§ 2º, 3º E 11 DO ART. 85 DO CÓDIGO DE PROCESSO CIVIL). AGRAVO REGIMENTAL DESPROVIDO, COM APLICAÇÃO DE MULTA DE 1% SOBRE O VALOR ATUALIZADO DA CAUSA, SE UNÂNIME A VOTAÇÃO.”
+(ARE 1.450.881 AgR, Rel. CÁRMEN LÚCIA, Primeira Turma, DJe 6.3.2024)
+
+“Ementa: Direito tributário. Agravo interno em recurso extraordinário com agravo. ICMS. Bens destinados ao ativo fixo. Creditamento. Relação com a atividade fim. Controvérsia de índole infraconstitucional. 1. Agravo interno contra decisão que negou seguimento a recurso extraordinário com agravo, o qual tem por objeto acórdão que reformou parcialmente sentença de improcedência da ação. 2. Hipótese em que, para dissentir do entendimento firmado pelo Tribunal de origem, seria necessário analisar a legislação infraconstitucional aplicada ao caso, assim como reexaminar fatos e provas constantes dos autos, procedimentos vedados neste momento processual (Súmula nº 279/STF). 3. Nos termos do art. 85, § 11, do CPC/2015, fica majorado em 10% o valor da verba honorária fixada anteriormente, observados os limites legais do art. 85, §§ 2º e 3º, do CPC/2015. 4. Agravo interno a que se nega provimento.”
+(ARE 1.452.107 AgR, Rel. LUÍS ROBERTO BARROSO (Presidente), Tribunal Pleno, DJe 8.1.2024)
+
+Ante o exposto, nego seguimento ao recurso (art. 932, VIII, do CPC, c/c art. 21, §1º, do RISTF) e, tendo em vista o disposto no art. 85, § 11, do CPC, majoro, em 10%, o valor da verba honorária fixada anteriormente (eDOC 191, p. 23), observados os limites previstos nos §§ 2º e 3º do referido dispositivo, ressalvada a eventual concessão do benefício da justiça gratuita.
+
+Publique-se.
+Brasília, 16 de abril de 2026.
+
+Ministro GILMAR MENDES
+Relator
+Documento assinado digitalmente
