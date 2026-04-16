@@ -1,0 +1,49 @@
+DECISÃO:
+Vistos.
+Trata-se de agravo contra a decisão que não admitiu recurso extraordinário interposto contra acórdão da 1ª Câmara de Direito Público do Tribunal de Justiça do Estado de São Paulo, assim ementado:
+
+“DIREITO PROCESSUAL CIVIL. AGRAVO DE INSTRUMENTO. CUMPRIMENTO DE SENTENÇA CONTRA A FAZENDA PÚBLICA. DECISÃO RECORRIDA QUE REJEITOU A IMPUGNAÇÃO OFERECIDA PELA EXECUTADA. MANUTENÇÃO DO “DECISUM”. DESPROVIMENTO DO RECURSO.
+1. CASO EM EXAME: Trata-se de recurso de agravo de instrumento interposto contra decisão que, em sede de Cumprimento de Sentença contra a Fazenda Pública, rejeitou a impugnação oferecida pela parte executada.
+2. QUESTÃO EM DISCUSSÃO: Controvérsia atinente à inexigibilidade da obrigação contida no título executivo, por ser inconstitucional, com fundamento no artigo 535, incisos I e III, §§ 5º e 7º, do Código de Processo Civil.
+3. RAZÕES DE DECIDIR: 3.1. Decisão exequenda que reconheceu aos autores o direito a reajuste dos proventos de aposentadoria pelo Índice de Preços ao Consumidor IPC, de março e de abril de 1990, com fulcro em acordo coletivo de trabalho vigente à época. Título exequendo que está calcado em acordo coletivo, o qual não foi considerado inconstitucional pela Suprema Corte. Inaplicabilidade do art. 535, § 5º, do Código de Processo Civil CPC. Precedentes dessa Corte Paulista. 3.2. Pedido subsidiário. Honorários advocatícios. Rejeitada a impugnação, era de rigor o reconhecimento da sucumbência, com a consequente condenação do vencido em honorários advocatícios, na forma do artigo 85, §7º, do Código de Processo Civil, que prevê que "não serão devidos honorários advocatícios no cumprimento de sentença contra a Fazenda Pública que enseje expedição de precatório, desde que não tenha sido impugnada", ditame que superou a Súmula nº 519 do Superior Tribunal de Justiça.
+4. DISPOSITIVO: Decisão mantida. Recurso não provido.”
+
+Opostos embargos de declaração, foram rejeitados.
+No apelo extremo, o recorrente alega violação aos artigos 5º, inciso XXXVI e 102, §2º, da Constituição Federal, bem como violação ao Tema 106 da repercussão geral.
+Declara que
+
+“A presente ação foi ajuizada por aposentados e/ou pensionistas de ex-empregados da extinta FEPASA (Ferrovia Paulista S/A), que recebem complementação de aposentadoria e/ou pensão do Estado de São Paulo, pretendendo a condenação da requerida ao pagamento de correções monetárias incidentes sobre seus benefícios, nos índices de 84,93% e 44,80%, correspondentes, respectivamente, ao IPC do mês de março de 1990, a partir de abril de 1990, e ao IPC do mês de abril de 1990, a partir de maio de 1990, respeitada, em ambos os casos, a prescrição quinquenal.”
+
+Discorre que a “existência ou não de direito adquirido à aplicação do IPC de março e abril de 1990 já foi analisada diversas vezes pelo Supremo Tribunal Federal, que sempre respondeu negativamente. Há inclusive decisão em sede de controle concentrado (ADI 666) nesse sentido”.
+Pontua que “[e]m 10 de agosto de 2020, o Supremo Tribunal Federal decidiu com repercussão geral no RE 590.880 (Tema 106) que título que fixa correção conforme o IPC de março de 1990 faz coisa julgada inconstitucional”.
+Requer, ao fim, “seja devolvido o acórdão para retratação do grupo julgador, mediante aplicação do Tema 106 do STF, ou seja, dado provimento a este Recurso Extraordinário com fundamento nesse mesmo tema. Subsidiariamente, requer-se seja reconhecida nova repercussão geral com conhecimento e provimento do presente recurso extraordinário para que seja reformado o acórdão recorrido, acolhendo-se a impugnação, com declaração de inexigibilidade do título”.
+Decido.
+A irresignação não merece prosperar.
+Colhe-se do voto condutor a seguinte fundamentação:
+
+“A tese fazendária está calcada na inconstitucionalidade da coisa julgada, nos termos do que prevê o artigo 535, III e §5º, do Código de Processo Civil, de teor seguinte:
+(...)
+Com efeito, o exame dos autos revela que o título exequendo está calcado em acordo coletivo, o qual, à primeira vista, não foi considerado inconstitucional pela Suprema Corte, o que impede a incidência do artigo 535, § 5º, do Código de Processo Civil à espécie, para o fim de declarar a inexigibilidade do título executivo.
+Vale ressaltar que o decidido pela Corte Suprema na ADI nº 666/PE não afeta a apreciação do presente agravo de instrumento, uma vez que se refere a inconstitucionalidade de Resolução Administrativa do Tribunal Regional Eleitoral do Estado de Pernambuco, sendo de se registrar, ademais, que os precedentes indicados nas razões recursais (MS 21216, AI 170042 AgR, AI 258212 AgR, AI 333127 AgR, AI 184632 AgR) sequer possuem efeito vinculante capaz de abalar o entendimento ora adotado.
+Nesse panorama, não há que se falar em inexigibilidade da obrigação, uma vez que o título executivo judicial não está alicerçado em lei ou ato normativo considerado inconstitucional pelo Supremo Tribunal Federal.”
+
+Nesse contexto, verifica-se que o acolhimento da pretensão recursal não prescinde da análise da legislação infraconstitucional aplicável à espécie (Decreto nº 35.530/59 - Estatuto dos Ferroviários), do contrato coletivo firmado e das provas dos autos, operações vedadas em recurso extraordinário. Incidência das Súmulas nº 279, 454 e 636 da Corte. Neste sentido:
+
+“Direito Administrativo. Agravo interno em recurso extraordinário com agravo. Complementação de aposentadoria. FEPASA. Reajuste. Aplicação do IPC. Incidência das Súmulas 279 e 280/STF. I. Caso em exame 1. Agravo interno contra decisão que negou seguimento a recurso extraordinário com agravo, o qual tem por objeto acórdão que negou provimento ao agravo de instrumento. II. Questão em discussão 2. Preenchimento dos pressupostos de admissibilidade do recurso extraordinário com agravo. III. Razão de decidir 3. A petição de agravo não trouxe novos argumentos aptos a desconstituir a decisão agravada, a qual deve ser mantida pelos seus próprios fundamentos. 4. Hipótese em que, para dissentir do entendimento firmado pelo Tribunal de origem, seria necessário analisar a legislação infraconstitucional aplicada ao caso, assim como reexaminar fatos e provas constantes dos autos, procedimentos vedados neste momento processual (Súmulas 279 e 280/STF). IV. Dispositivo 5. Inaplicável o art. 85, § 11, do CPC/2015, uma vez que não houve prévia fixação de honorários advocatícios de sucumbência. 6. Agravo interno a que se nega provimento, com a aplicação da multa de 1% (um por cento) sobre o valor atualizado da causa, nos termos do art. 1.021, § 4°, do CPC/2015.” (ARE 1521078 AgR, Relator Min. Luís Roberto Barroso (Presidente), Tribunal Pleno, Dje de 05-12-2024)
+
+“Agravo regimental no recurso extraordinário com agravo. Direito Administrativo. Reajuste salarial. Complementação de aposentadoria/pensão. IPC. FEPASA. Alegação de violação de direito adquirido. Legislação infraconstitucional. Ofensa reflexa. Fatos e provas. Reexame. Impossibilidade. Precedentes. 1. Não se presta o recurso extraordinário para a análise de matéria infraconstitucional, tampouco para o reexame dos fatos e das provas constantes dos autos (Súmula nº 279/STF). 2. Agravo regimental não provido, com imposição de multa de 1% (um por cento) do valor atualizado da causa (art. 1.021, § 4º, do CPC). 3. Havendo prévia fixação de honorários advocatícios pelas instâncias de origem, seu valor monetário será majorado em 10% (dez por cento) em desfavor da parte recorrente, nos termos do art. 85, § 11, do Código de Processo Civil, observados os limites dos §§ 2º e 3º do referido artigo e a eventual concessão de justiça gratuita.” (ARE 1.235.791-AgR, de minha relatoria no exercício da Presidência, Tribunal Pleno, DJe de 5/3/2020)
+
+“AGRAVO INTERNO NO RECURSO EXTRAORDINÁRIO COM AGRAVO. DIREITO ADMINISTRATIVO. FERROVIÁRIO. FEPASA. COMPLEMENTAÇÃO DE APOSENTADORIA/PENSÃO. REAJUSTE. IPC. LEGISLAÇÃO INFRACONSTITUCIONAL. OFENSA REFLEXA. FATOS E PROVAS. REEXAME. IMPOSSIBILIDADE. PRECEDENTES. 1. O recurso extraordinário não se presta à análise de matéria infraconstitucional, tampouco ao reexame dos fatos e das provas constantes dos autos (Súmula 279 do STF). 2. Agravo interno desprovido, com imposição de multa de 5% (cinco por cento) do valor atualizado da causa (artigo 1.021, § 4º, do CPC), caso seja unânime a votação. 3. Honorários advocatícios majorados ao máximo legal em desfavor da parte recorrente, caso as instâncias de origem os tenham fixado, nos termos do artigo 85, § 11, do Código de Processo Civil, observados os limites dos §§ 2º e 3º e a eventual concessão de justiça gratuita” (ARE nº 1.122.200/SP-AgR, Tribunal Pleno, Relator o Ministro Presidente - Luiz Fux, DJe de 12/02/2021).
+
+Ressalte-se que o Plenário desta Corte, no exame do RE nº 610.223/SP, Relatora a Ministra Ellen Gracie, concluiu pela ausência da repercussão geral de matéria similar à versada neste feito, em virtude de sua natureza infraconstitucional. O acórdão desse julgamento ficou assim ementado:
+
+“EXTENSÃO AOS APOSENTADOS E PENSIONISTAS DA ANTIGA FEPASA DE VANTAGENS SALARIAIS CONCEDIDAS AOS FERROVIÁRIOS EM ATIVIDADE COM BASE EM ACORDO COLETIVO. APLICAÇÃO DOS EFEITOS DA AUSÊNCIA DE REPERCUSSÃO GERAL TENDO EM VISTA TRATAR-SE DE DIVERGÊNCIA SOLUCIONÁVEL PELA APLICAÇÃO DA LEGISLAÇÃO FEDERAL INEXISTÊNCIA DE REPERCUSSÃO GERAL''.
+
+Ante o exposto, nos termos do artigo 21, § 1º, do Regimento Interno do Supremo Tribunal Federal, nego seguimento ao recurso.
+Havendo prévia fixação de honorários advocatícios pelas instâncias de origem, seu valor monetário será majorado em 10% (dez por cento) em desfavor da parte recorrente, nos termos do art. 85, § 11, do Código de Processo Civil, observado os limites dos §§ 2º e 3º do referido artigo e a eventual concessão de justiça gratuita.
+Publique-se.
+Brasília, 16 de abril de 2026.
+
+Ministro DIAS TOFFOLI
+Relator
+Documento assinado digitalmente
