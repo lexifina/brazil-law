@@ -1,0 +1,26 @@
+DECISÃO
+Trata-se de recurso ordinário em habeas corpus interposto por LUIS FERNANDO MARTINS DA SILVA contra o acórdão proferido pelo Tribunal de Justiça do Estado do Piauí que denegou o HC n. 0764531-08.2025.8.18.0000, mantendo a prisão preventiva imposta pelo Juízo da 1ª Vara da comarca de Bom Jesus/PI, em razão da suposta prática dos crimes de tráfico de drogas e associação para o mesmo fim (Autos n. 0814704-09.2022.8.18.0140).
+No recurso, a defesa sustenta excesso de prazo na formação da culpa, sem previsão de início da instrução, com reconhecimento de delonga para corréu preso e ausência de apreciação dos pedidos de revogação apresentados em 2/9/2025 e reiterados em 5/12/2025.
+Argumenta ausência de contemporaneidade e de risco atual, enfatizando que os fatos remontam a 2022, sem fatos novos ou urgência cautelar, e que a simples não localização do ora recorrente não justifica a medida extrema.
+Registra que foram beneficiados corréus com medidas menos gravosas e que o recorrente apresentou resposta à acusação, reforçando a suficiência de cautelares alternativas.
+Pede a concessão da ordem para revogar a custódia por excesso de prazo e falta de contemporaneidade; subsidiariamente, a substituição por medidas cautelares diversas.
+Sem pedido liminar.
+O Ministério Público Federal manifestou-se pelo não provimento do recurso (fls. 163/176).
+É o relatório.
+Dos autos, constata-se que a prisão preventiva foi decretada em 29/5/2023, no contexto da Operação Rota 135, instaurada após a apreensão de 654 kg de maconha em 18/1/2022. A decisão apontou organização criminosa com atuação interestadual, divisão de tarefas e logística estruturada, atribuindo ao recorrente o transporte e a distribuição de entorpecentes, com necessidade da cautela para garantia da ordem pública e aplicação da lei penal.
+O Tribunal de Justiça, ao apreciar a matéria, ressaltou a gravidade concreta das condutas, a estruturação da organização criminosa e a periculosidade evidenciada pelo papel do recorrente no transporte e distribuição de drogas. Destacou a condição de foragido para assegurar a aplicação da lei penal, a contemporaneidade vinculada à subsistência dos motivos da custódia e a insuficiência de medidas cautelares alternativas. Afastou o excesso de prazo, atribuindo a paralisação do feito à fuga do ora recorrente.
+Analisando detidamente os autos, observa-se que, em 29/05/2023, o recorrente teve a prisão preventiva decretada pelo juízo de primeiro grau em razão da suposta prática dos crimes de tráfico de drogas e associação para o mesmo fim.
+Contudo, até o momento, o mandado de prisão não foi cumprido, estando o recorrente em lugar incerto e não sabido.
+Pois bem, nesta Corte, há farta jurisprudência dizendo que a condição de foragido afasta a alegação de constrangimento ilegal, seja pela dita ausência de contemporaneidade, seja pelo apregoado excesso de prazo para encerramento da instrução criminal (RHC n. 174.115/PI, da minha relatoria, Sexta Turma, DJe 29/3/2023) - (RCD no HC n. 968.075/BA, de minha relatoria, Sexta Turma, DJEN 11/3/2025).
+Assim, não obstante o tempo transcorrido da decretação da prisão preventiva, inexiste, na espécie, o alegado constrangimento ilegal. As instâncias ordinárias decidiram na linha do entendimento do Superior Tribunal de Justiça.
+Noutro ponto, do atento exame dos autos, observo que a segregação cautelar do acusado se encontra fundamentada no fato de que o réu supostamente integra organização criminosa responsável pelo tráfico de grande volume de entorpecentes, com apreensão de 654 kg de maconha.
+Nesse contexto, observa-se que a manutenção da constrição cautelar está baseada em elementos vinculados à realidade, pois as instâncias ordinárias fizeram referências às circunstâncias fáticas justificadoras, destacando a gravidade em concreto do delito.
+Ora, tratando-se de organização criminosa que possui constante atuação, para que se interrompa ou diminua seu desempenho, faz-se necessária a ordem de prisão.
+Nesse sentido: HC n. 974.892/SP, de minha relatoria, Sexta Turma, DJEN 27/3/2025; AgRg no HC n. 947.800/SC, Ministro Antonio Saldanha Palheiro, Sexta Turma, DJEN 11/3/2025; e AgRg no RHC n. 207.913/CE, Ministro Og Fernandes, Sexta Turma, DJEN 12/3/2025.
+Ademais, a condição de foragido reforça a imprescindibilidade da medida extrema para assegurar a aplicação da lei penal, sendo irrelevantes as alegadas condições pessoais favoráveis ( AgRg no RHC n. 221602/SP, Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJEN 5/11/2025 - grifo nosso). E, mais: RHC n. 220.733/BA, de minha relatoria, Sexta Turma, DJEN 23/9/2025; e AgRg no RHC n. 191.286/RJ, Ministro Joel Ilan Paciornik, Quinta Turma, DJe 8/4/2025.
+Por fim, verifica-se que os corréus que tiveram a prisão revogada, não se encontravam na mesma situação fática do recorrente, vez que não estavam foragidos.
+Ante o exposto, nego provimento ao recurso em habeas corpus.
+Publique-se.
+EMENTA
+DIREITO PENAL E PROCESSUAL PENAL. RECURSO ORDINÁRIO EM HABEAS CORPUS. TRÁFICO DE DROGAS E ASSOCIAÇÃO PARA O TRÁFICO. PRISÃO PREVENTIVA. INOCORRÊNCIA DE EXCESSO DE PRAZO. RÉU FORAGIDO. FUNDAMENTOS DA PRISÃO. ORGANIZAÇÃO CRIMINOSA. GRAVIDADE CONCRETA. GRANDE QUANTIDADE DE ENTORPECENTES. CONDIÇÃO DE FORAGIDO. CONTEMPORANEIDADE. AUSÊNCIA DE ILEGALIDADE. MANUTENÇÃO DA CUSTÓDIA.
+Recurso improvido.
