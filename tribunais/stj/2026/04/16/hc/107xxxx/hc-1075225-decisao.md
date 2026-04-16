@@ -1,0 +1,45 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em favor de LEONARDO SANTOS FELIPE, apontando como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO DE JANEIRO, em razão do julgamento da apelação n. 0804787-94.2024.8.19.0001.
+Consta dos autos que o paciente foi condenado, em primeiro grau de jurisdição, pelo Juízo da 37ª Vara Criminal da Comarca da Capital/RJ, à pena de 7 (sete) anos, 5 (cinco) meses e 25 (vinte e cinco) dias de reclusão, a ser cumprida em regime inicial fechado, e ao pagamento de 16 (dezesseis) dias-multa, por infração ao art. 157, § 2º, incisos II, V e VII, c/c o artigo 61, inciso II, alínea "h", do Código Penal (fls. 34-46).
+A defesa e a acusação interpuseram apelação criminal ao Tribunal de Justiça, que negou provimento ao recurso defensivo e deu provimento ao apelo ministerial para reconhecer a incidência da majorante do emprego de arma de fogo, elevando a reprimenda final para 12 (doze) anos, 5 (cinco) meses e 21 (vinte e um) dias de reclusão e 26 (vinte e seis) dias-multa, mantidos os demais termos da sentença (fls. 10-20).
+As informações foram prestadas (fls. 144-149 e 155-160).
+O Ministério Público Federal opinou pelo não conhecimento (fls. 163-172).
+É o relatório. DECIDO.
+A controvérsia nos autos refere-se a uma possível ilegalidade flagrante, caracterizada na aplicação cumulativa e em cascata das causas de aumento de pena na terceira fase da dosimetria, sem fundamentação concreta apta a justificar o afastamento do art. 68, parágrafo único, do Código Penal.
+Contudo, a presente impetração investe contra acórdão, funcionando como substituto do recurso próprio, motivo pelo qual não deve ser conhecida. A 3ª Seção, no âmbito do HC 535.063-SP, de relatoria do Ministro Sebastião Reis Júnior, julgado em 10/06/2020, e o Supremo Tribunal Federal, no julgamento do AgRg no HC 180.365, de relatoria da Ministra Rosa Weber, julgado em 27/03/2020, consolidaram a orientação de que não cabe habeas corpus substitutivo ao recurso legalmente previsto para a hipótese, impondo-se o não conhecimento da impetração, salvo quando constatada a existência de flagrante ilegalidade no ato judicial impugnado.
+Também não vislumbro a presença de coação ilegal que desafie a concessão da ordem de ofício, em observância ao § 2º do artigo 654 do Código de Processo Penal.
+De acordo com o enunciado da Súmula n. 443/STJ, "o aumento na terceira fase de aplicação da pena no crime de roubo circunstanciado exige fundamentação concreta, não sendo suficiente para a sua exasperação a mera indicação do número de majorantes".
+Ainda, a jurisprudência do Superior Tribunal de Justiça é firme no sentido de que o art. 68, parágrafo único, do Código Penal não obriga o magistrado a aplicar uma única causa de aumento quando diante de concurso de majorantes, mas exige que sempre se justifique a escolha da fração imposta. A aplicação cumulativa é, portanto, admissível, desde que lastreada em fundamentação concreta que evidencie a maior gravidade da conduta.
+Nesse sentido:
+ ..
+1. Em relação ao crime de roubo, a jurisprudência desta Corte Superior é no sentido de que o art. 68, parágrafo único, do Código Penal, não exige que o juiz aplique uma única causa de aumento referente à parte especial do Código Penal, quando estiver diante de concurso de majorantes, mas que sempre justifique a escolha da fração imposta.
+2. Na hipótese em apreciação, restou devidamente justificada a cumulação das causas de aumento do concurso de pessoas, restrição à liberdade da vítima e do uso de arma de fogo (art. 157, § 2º, I e V, e § 2º-A, I, do CP), considerando que o crime foi praticado por seis agentes e houve emprego de duas armas de fogo, bem como o fato das vítimas terem permanecido amarradas por duas horas. Além disso, foi valorado o modus operandi do crime, destacando-se a violência empregada pelos agentes.
+3. Descabe falar em violação do art. 68 do CP, devendo ser mantida a aplicação cumulativa dos incrementos e a adoção do aumento de 3/8 pela restrição da liberdade e comparsaria, sendo descabido, de igual modo, falar em ofensa à Súmula 443/STJ.
+4. Consoante "orientação firmada pela Terceira Seção desta Corte, para a incidência da causa de aumento relativa ao emprego de arma de fogo, dispensável a apreensão e perícia da arma, desde que o emprego do artefato fique comprovado por outros meios de prova".
+(AgRg no AREsp n. 2.100.469/RN, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 20/6/2023, D Je de 23/6/2023).
+5. A causa de aumento de uso de arma de fogo, em relação ao delito de roubo caracteriza circunstância objetiva, a qual se comunica a todos os coautores do crime. Outrossim, para rever o aludido entendimento a fim de afastar a majorante seria necessário o reexame das provas dos autos, providência que não se coaduna com a via do writ.
+6. De acordo com a jurisprudência, " a  modificação da conclusão do Tribunal de origem para que seja reconhecida a participação de menor importância demandaria o exame aprofundado de provas, o que não pode ser feito no âmbito do mandamus" (AgRg no HC 492.161/MS, Rel. Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 11/02/2020, DJe 20/ 2/2020).
+7. Agravo desprovido.
+(AgRg no HC n. 867.811/SC, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 18/3/2024, DJe de 21/3/2024.)
+No caso concreto, o acórdão impugnado não se limitou a enumerar as majorantes reconhecidas. Ao contrário, indicou elementos específicos que justificaram a cumulação, como o concurso de quatro agentes, o cerceamento da liberdade das vítimas por quase quatro horas, o emprego de arma branca e o reconhecimento superveniente de uso de arma de fogo e de uma granada.
+Não fosse suficiente, consta dos autos que o paciente aterrorizou a criança, questionando-lhe se ela sabia o que aconteceria se ele puxasse o pino da granada.
+Tais circunstâncias são dotadas de conteúdo concreto próprio e revelam grau de execução que extrapola o simples ajuntamento típico das majorantes, afastando qualquer teratologia no método adotado pelo tribunal de origem.
+Embora o impetrante sustente que houve ilegalidade no aumento cumulativo de causas de aumento de pena, entende o Superior Tribunal de Justiça que, havendo fundamentação idônea apta a demonstrar maior gravidade da conduta, é possível a aplicação sucessiva e cumulativa das causas de aumento de pena extraídas do caso concreto.
+A esse respeito:
+DIREITO PENAL E PROCESSUAL PENAL. HABEAS CORPUS. ROUBO CIRCUNSTANCIADO. DOSIMETRIA. TERCEIRA FASE. CAUSAS DE AUMENTO. CONCURSO DE AGENTES, RESTRIÇÃO DA LIBERDADE DAS VÍTIMAS E EMPREGO DE ARMA DE FOGO. APLICAÇÃO CUMULATIVA DEVIDAMENTE JUSTIFICADA. CRITÉRIO DE CÁLCULO SUCESSIVO (EFEITO CASCATA). ORDEM DENEGADA.
+I. CASO EM EXAME
+1. Habeas corpus impetrado em favor de Mateus Willi de Castro, condenado a 15 anos, 4 meses e 13 dias de reclusão por três roubos majorados, com emprego de arma de fogo, concurso de agentes e restrição da liberdade das vítimas, em concurso material com tráfico de drogas. A defesa pleiteia a revisão da dosimetria, argumentando que deveria ser aplicado apenas um aumento na pena, em fração única, ao invés de aumentos cumulativos pelas majorantes incidentes.
+II. QUESTÃO EM DISCUSSÃO
+2. Há duas questões em discussão: (i) se, na terceira fase da dosimetria, é permitido o uso cumulativo de frações para causas de aumento de pena em roubo majorado, aplicando-se o "efeito cascata";
+e (ii) se a fundamentação adotada para o aumento sucessivo das majorantes atende ao requisito de fundamentação concreta, conforme jurisprudência e a Súmula 443 do STJ.
+III. RAZÕES DE DECIDIR
+3. De acordo com a Súmula 443/STJ, o aumento na terceira fase de aplicação da pena no crime de roubo circunstanciado exige fundamentação concreta, não sendo suficiente para a sua exasperação a mera indicação do número de majorantes.
+4. No caso, ao fazer incidir, de forma sucessiva e cumulativa, a fração de aumento de 1/3 pelo concurso de agentes e pela restrição de liberdade da vítima, além do acréscimo relativo ao emprego de arma de fogo (2/3), aplicado pelo magistrado sentenciante, a Corte local apresentou fundamentos concretos aptos a evidenciar a maior gravidade da conduta, destacando a pluralidade de agentes envolvidos na empreitada criminosa (três) e a restrição de liberdade das vítimas, que teria perdurado por cerca de 12 horas.
+5. No concurso de majorantes, esta Corte adota o critério cumulativo de cálculo (efeito cascata), não havendo falar em acumulação simples das frações. Precedentes.
+IV. ORDEM DE HABEAS CORPUS DENEGADA.
+(HC n. 850.319/SP, relatora Ministra Daniela Teixeira, Quinta Turma, julgado em 27/11/2024, DJe de 4/12/2024.)
+Dessa forma, não havendo elementos que autorizem a superação das conclusões regularmente estabelecidas, a tese defensiva deve ser rejeitada.
+Com essas considerações, não verifico a presença de constrangimento ilegal que desafie a concessão da ordem nos termos do art. 654, § 2º, do Código de Processo Penal, ainda que de ofício.
+Ante o exposto, não conheço do habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
