@@ -1,0 +1,18 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em nome de JUNIOR DOS SANTOS DE OLIVEIRA, condenado pelo crime de homicídio qualificado (art. 121, § 2º, I, IV e VI) e ocultação de cadáver (art. 211), na forma do art. 69, todos do Código Penal, à pena de 24 anos de reclusão, em regime inicial fechado (Processo n. 5006700-60.2022.8.21.0070, da 1ª Vara Criminal da comarca de Taquara/RS) (fl. 91).
+Os impetrantes apontam como autoridade coatora o Tribunal de Justiça do Estado do Rio Grande do Sul, que, em 13/11/2025, deu provimento parcial aos recursos para fixar a pena definitiva em 24 anos de reclusão (acórdão, fls. 841/850).
+Quanto ao crime de homicídio, alegam ilegalidades na primeira fase de fixação da reprimenda, tendo em vista que: a culpabilidade não extrapola a normalidade do tipo penal de homicídio, estando ausente a prova de um dolo mais intenso ou de uma reflexão aprofundada sobre o ato (fls. 3/4); os antecedentes do paciente, ligados ao tráfico, não podem ser utilizados para exasperar a pena base se configuram a agravante da reincidência, a ser analisada na segunda fase, sob pena de flagrante bis in idem (fl. 4); o motivo do ciúme, frágil e especulativo, não pode ser usado para majorar a pena-base, especialmente quando já foi utilizado para qualificar o crime (motivo torpe) (fl. 4); as circunstâncias do crime, em sua esmagadora maioria, são integralmente desconhecidas (fl. 4); usar a consequência "morte" para elevar a pena base do crime de "matar alguém" é uma redundância que viola o princípio da vedação ao bis in idem (fls. 4/5).
+Sustentam, também, ilegalidade na segunda fase, argumentando que as qualificadoras sobejantes, utilizadas como agravantes, não foram comprovadas, no curso da instrução criminal.
+Postulam, ainda, a aplicação da atenuante da confissão no patamar de 1/6, por ter sido admitido o disparo.
+Quanto ao crime de ocultação de cadáver, argumentam que não há prova da ação delituosa, pois a mera ausência do corpo, embora sugestiva, não prova, por si só, que foi o paciente quem praticou os atos de ocultação (fl. 6), acrescentando que, na ausência de qualquer prova sobre as circunstâncias deste suposto delito, a pena deve ser fixada, se mantida a condenação, em seu patamar mínimo de 01 (um) ano de reclusão (fl. 6).
+Pleiteiam, inclusive liminarmente, a concessão da ordem, com o redimensionamento da pena.
+É o relatório.
+O writ é inadmissível.
+Nos termos do art. 105, I, e, da Constituição Federal, a competência desta Corte para processar e julgar revisão criminal restringe-se aos seus próprios julgados. Não lhe compete apreciar pedido que, em essência, visa à revisão de acórdão estadual já transitado em julgado.
+Consoante jurisprudência desta Corte Superior, o não cabimento do writ substitutivo de revisão criminal é corroborado quando o impetrante não indica que as razões de pedir estão previstas em alguma das hipóteses do art. 621 do CPP, como no presente caso (HC n. 829.748/GO, Ministro Rogerio Schietti Cruz, Sexta Turma, DJe 11/12/2023). Ademais, a pretensão, nos termos em que aqui formulada, demandaria aprofundado revolvimento fático-probatório, inviável em sede de habeas corpus.
+Por fim, oportuno ressaltar a ausência de flagrante ilegalidade, devendo ser observada a prevalência da discricionariedade do julgador no momento da dosimetria da pena.
+Indefiro liminarmente a petição inicial (art. 210 do RISTJ).
+Publique-se.
+EMENTA
+HABEAS CORPUS SUBSTITUTIVO DE REVISÃO CRIMINAL. FALTA DE CABIMENTO. HOMICÍDIO TRIPLAMENTE QUALIFICADO E OCULTAÇÃO DE CADÁVER. PLEITO DE REVISÃO DA PENA. PREVALÊNCIA DA DISCRICIONARIEDADE DO JULGADOR. ILEGALIDADE FLAGRANTE INEXISTENTE.
+Inicial indeferida liminarmente.
