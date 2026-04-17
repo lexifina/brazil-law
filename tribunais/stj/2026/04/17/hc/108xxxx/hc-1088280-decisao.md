@@ -1,0 +1,23 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em favor de LUARA DONATTA FERREIRA DA SILVA (ou LUARA DONATTA FERREIRA DE LIMA), presa preventivamente pela suposta prática do delito previsto no art. 33, caput, da Lei n. 11.343/2006, no âmbito do Habeas Corpus n. 2086102-83.2026.8.26.0000, originário da Vara Regional das Garantias da 2ª Região Administrativa Judiciária da comarca de Araçatuba/SP.
+Aponta a impetrante como autoridade coatora a Desembargadora do Tribunal de Justiça do Estado de São Paulo que, em 8/4/2026, indeferiu o pedido liminar formulado no referido writ e, em 9/4/2026, manteve a decisão ao apreciar o pedido de reconsideração.
+Sustenta, em síntese, constrangimento ilegal decorrente da manutenção da custódia cautelar, ao argumento de que a paciente faz jus à substituição da prisão preventiva por domiciliar, por ser mãe de crianças menores de 12 anos, com fundamento no art. 318-A do Código de Processo Penal e no entendimento firmado pelo Supremo Tribunal Federal no HC coletivo n. 143.641/SP.
+Aduz, ainda, a possibilidade de concessão de liberdade provisória, por se tratar de crime cometido sem violência ou grave ameaça, sendo suficientes, a seu ver, as medidas cautelares diversas da prisão.
+Defende, por fim, a superação do óbice da Súmula 691 do Supremo Tribunal Federal, sob o argumento de existência de flagrante ilegalidade e abuso de poder na decisão impugnada.
+Requer, em caráter liminar, a concessão imediata da prisão domiciliar ou, subsidiariamente, da liberdade provisória e, no mérito, a confirmação da ordem, com a superação do enunciado sumular, à luz dos arts. 647-A e 654 do Código de Processo Penal.
+É o relatório.
+Em minha avaliação, não é hipótese de concessão da medida liminar.
+Na espécie, aplica-se o enunciado da Súmula 691 do Supremo Tribunal Federal, observado também por esta Corte, segundo o qual não cabe habeas corpus contra o indeferimento de pedido liminar formulado no Tribunal de origem.
+Com efeito, as questões trazidas na impetração não foram ainda enfrentadas pelo colegiado competente, não se admitindo a pretendida supressão de instância. Esse posicionamento, como é cediço, pode ser afastado apenas em situações excepcionais, se evidenciada dos autos a configuração de flagrante ilegalidade ou abuso de poder.
+Ao compulsar os autos, constato que tal excepcionalidade não se verifica no caso concreto.
+Da atenta leitura do ato apontado como coator, depreende-se que a liminar foi indeferida sob o fundamento de que a concessão da prisão domiciliar exige a demonstração minimamente robusta das circunstâncias fáticas invocadas, especialmente no que se refere à alegada imprescindibilidade da paciente aos cuidados dos filhos menores, circunstância que não se revelou, de plano, evidenciada. Ademais, consignou-se a ausência de situação excepcional apta a justificar a imediata substituição da custódia cautelar.
+De maneira adequada o acórdão considerou, ainda que em sede de cognição sumária, que as condições pessoais favoráveis, por si sós, não afastam a necessidade da prisão preventiva, especialmente quando ausentes elementos seguros que infirmem os fundamentos do decreto prisional ou demonstrem a inadequação da medida.
+Julgo que a decisão impugnada está ancorada em fundamentação idônea, compatível com a natureza excepcional da liminar em habeas corpus, não se evidenciando, neste momento, ilegalidade manifesta ou teratologia que autorize a mitigação do óbice sumular.
+A meu ver, a análise mais aprofundada acerca da alegada incidência do art. 318-A do Código de Processo Penal, bem como da efetiva situação de vulnerabilidade dos filhos da paciente e da imprescindibilidade de sua presença, demanda exame detido do conjunto fático-probatório, providência que deve ser realizada, em primeiro lugar, pelo órgão colegiado do Tribunal de origem.
+No tocante às demais teses suscitadas, eventual apreciação direta por esta Corte implicaria indevida supressão de instância, não sendo dado ao Superior Tribunal de Justiça inaugurar o exame de matérias ainda não definitivamente enfrentadas na origem.
+Diante desse contexto, não se vislumbra constrangimento ilegal de pronto reconhecimento, apto a justificar a concessão da liminar pleiteada.
+Ante o exposto, com base no art. 210 do RISTJ, indefiro liminarmente o presente habeas corpus.
+Publique-se.
+EMENTA
+HABEAS CORPUS. DIREITO PENAL. LEGISLAÇÃO EXTRAVAGANTE. TRÁFICO DE DROGAS. IMPETRAÇÃO CONTRA INDEFERIMENTO DE LIMINAR NO TRIBUNAL DE ORIGEM. SÚMULA 691 DO STF. PRISÃO PREVENTIVA. PEDIDO DE PRISÃO DOMICILIAR. NECESSIDADE DE EXAME FÁTICO. AUSÊNCIA DE FLAGRANTE ILEGALIDADE. SUPRESSÃO DE INSTÂNCIA.
+Writ indeferido liminarmente.
