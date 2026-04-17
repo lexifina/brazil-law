@@ -1,0 +1,32 @@
+DECISÃO
+RONE CARLOS DE OLIVEIRA alega sofrer constrangimento ilegal no seu direito de locomoção em decorrência de acórdão do Tribunal de Justiça do Estado de São Paulo no Agravo Interno na Revisão Criminal n. 0005596-91.2025.8.26.0000/50000.
+Consta dos autos que o réu foi condenado a 7 anos e 6 meses de reclusão mais multa, no regime fechado, pela prática do crime de tráfico de drogas.
+A defesa sustenta a possibilidade de redimensionamento da sanção em revisão criminal, uma vez que a natureza da droga, isoladamente, não constitui motivação idônea para a exasperação da pena-base.
+Decido.
+O habeas corpus comporta apreciação imediata, tendo em vista que a questão deduzida nesta impetração encontra solução no entendimento dominante do Superior Tribunal de Justiça.
+I. Pena-base
+O Tribunal de Justiça manteve a pena estabelecida na sentença pelos seguintes fundamentos (fl. 17):
+No ponto, apenas para realçar os passos trilhados, RONE é portador de antecedentes criminais desabonadores consoante se extrai da certidão de fls. 1 dos autos originários, circunstância que aliada à quantidade e à variedade das drogas apreendidas, justificam o acréscimo operado em sua basilar, revelando-se, ademais, a fração adotada adequada e proporcional às peculiaridades do caso e às suas condições pessoais, tudo em estrita harmonia com os critérios estabelecidos pelo artigo 42 da Lei nº 11.343/06 e artigo 59 do Código Penal.
+Vê-se, portanto, que não há nenhuma ilegalidade na dosimetria penal aplicada a ensejar sua revisão pela via eleita.
+Com efeito, nenhum fato novo foi trazido aos autos para que o veredito lançado fosse revisto por meio desta via excepcional.
+O Juízo de origem exasperou a pena-base do réu, consoante os seguintes argumentos (fls. 38-39, grifei):
+Passando à análise específica das circunstâncias previstas no artigo 42 da Lei nº 11.343/06, constato que a quantidade da droga merece maior reprovabilidade, pois apreendido quase um quilo de cocaína. A natureza também é prejudicial, já que foi apreendida cocaína, a- presentando maior potencial lesivo, a evidenciar maior gravidade da conduta e a demandar, por consequência, fixação da pena acima do mínimo.
+ ..
+De igual modo, o réu ostenta maus antecedentes, sendo que possui ao menos duas condenações judiciais anteriores com trânsito em julgado pelo crime de tráfico, conforme descrito no quadro acima. Diante disso, exaspero a pena-base em 1/6 para cada uma das circunstâncias judiciais negativas, em um total de 3/6 ou 1/2 (metade), fixando-a em 07 (sete) anos e 06 (seis) me- ses de reclusão e pagamento de 750 (setecentos e cinquenta) dias-multa, pelo crime do art. 33, caput, da Lei nº 11.343/2006.
+A fixação da pena é regulada por princípios e regras constitucionais e legais previstos, respectivamente, nos arts. 5º, XLVI, da Constituição Federal, 59 do Código Penal e 387 do Código de Processo Penal. Todos esses dispositivos remetem o aplicador do direito à individualização da medida concreta para que, então, seja eleito o quantum de pena a ser aplicada ao condenado criminalmente, visando à prevenção e à repressão do delito perpetrado.
+Quanto ao crime de tráfico de drogas, certo é que, segundo o disposto no art. 42 da Lei n. 11.343/2006, "O Juiz, na fixação das penas, considerará, com preponderância sobre o previsto no art. 59 do Código Penal, a natureza e a quantidade da substância ou do produto, a personalidade e a conduta social do agente".
+Ressalte-se que o STJ compreende que "A pena fixada sem fundamentação adequada constitui ilegalidade, pois sujeita o acusado ao cumprimento de sanção superior à devida, sendo cabível a revisão criminal, nesse caso, amparada no art. 621, I, do Código de Processo Penal. Por isso, não há falar em ausência de amparo legal para a propositura da revisão criminal" (AgRg no REsp n. 1.587.184/SC, Rel. Ministro Reynaldo Soares da Fonseca, 5ª T., DJe 1º/8/2016, destaquei).
+Na hipótese, houve apreensão de quase um quilo de cocaína, o que constitui motivação válida para exasperação da pena-base, contudo, embora a natureza da droga apreendida constitua, de fato, circunstância preponderante a ser sopesada na dosimetria da pena, tal vetorial deve ser examinada em conjunto, e não de modo autônomo em relação à quantidade de entorpecentes, de modo que admissível o controle da legalidade da dosimetria e a correção da sanção aplicada.
+Faço lembrar que, segundo a jurisprudência desta Corte, "a quantidade e natureza da droga, em conformidade com a interpretação do art. 42 da Lei 11.343/2006 somente pode ser valorada como uma única vetorial, e não como fizeram as instâncias ordinárias, separando-se a natureza e a quantidade como se fossem duas circunstâncias judiciais distintas" (HC n. 567.261/RJ, Rel. Ministro Nefi Cordeiro, 6ª T., DJe 16/6/2020, grifei).
+No mesmo sentido:
+1. A natureza da droga apreendida, isoladamente considerada, não constitui fundamento suficiente para majorar a pena-base. A natureza e a quantidade das drogas, previstas no art. 42 da Lei n. 11.343/06, integram vetor judicial único e devem ser avaliadas proporcional e conjuntamente, não sendo possível cindir o exame dessa circunstância especial.
+2. Conforme o entendimento do Supremo Tribunal Federal, a natureza e a quantidade das drogas constituem circunstância judicial única, portanto, incindível, pois somente quando avaliadas em conjunto será possível exercer juízo valorativo adequado e atingir os fins almejados pelo legislador. (STF, AgRg no RHC 169.343/ES, Rel. Ministra ROSA WEBER, PRIMEIRA TURMA, julgado em 08/06/2021).  ..
+(REsp n. 1.976.266/SP, Rel. Ministra Laurita Vaz, 6ª T., DJe 03/11/2022)
+Por tais razões, deve ser promovida a readequação da pena, com a exclusão de uma das circunstâncias negativas.
+II. Nova dosimetria
+Na primeira fase, excluída uma das circunstâncias negativas, fica a pena-base fixada em 6 anos e 8 meses de reclusão e 665 dias-multa, a qual se torna definitiva ante a ausência de outras causas modificativas, mantido o regime fechado, em razão total da reprimenda e a existência de vetoriais desfavoráveis (quantidade de drogas e maus antecedentes), consoante o art. 33, §§ 2º e 3º, do CP.
+III. Dispositivo
+À vista do exposto, concedo o habeas corpus, in limine, a fim de reduzir a reprimenda do paciente para 6 anos e 8 meses de reclusão e 665 dias-multa, no regime fechado.
+Comunique-se, com urgência, o inteiro teor dessa decisão às instâncias ordinárias para as providências cabíveis.
+Publique-se e intimem-se.
+EMENTA
