@@ -1,0 +1,35 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido de liminar, impetrado em favor de CHARLIE, no qual aponta como autoridade coatora o Tribunal Regional Federal da 4ª Região - 8ª Turma.
+O impetrante afirma que o paciente se encontra cerceado de sua liberdade em decorrência de decisão que reconverteu a pena restritiva de direitos em privativa, com regressão ao regime fechado, não obstante ter sido condenado à pena de 1 ano, em regime inicial aberto.
+Assevera que "contra a decisão que determinou a regressão de regime, a defesa interpôs agravo em execução penal, o qual não foi conhecido pelo juízo de origem sob fundamentos formais, o que ensejou a interposição de carta testemunhável, instrumento destinado justamente a viabilizar o acesso ao Tribunal competente." (e-STJ, fl. 3).
+Aduz que o recurso se encontra paralisado "em razão da inércia do Ministério Público Federal, que, mesmo após reiteradas intimações, deixou de se manifestar, impedindo o regular prosseguimento do feito e, por consequência, a apreciação da legalidade da prisão." (e-STJ, fl. 4).
+Sustenta que (i) houve manifestação do Ministério Público do Estado do Paraná pela nulidade da regressão, por inexistência de falta grave, ausência de início da execução e não realização de audiência de justificação, requerendo o restabelecimento do regime aberto e a expedição de alvará de soltura; (ii) houve recusa do Juízo da execução em exercer controle de legalidade, sob fundamento formal de inexistência de previsão para reconsideração e de que a matéria estaria em recurso próprio, perpetuando o encarceramento.
+Obtempera, ainda, que houve a impetração anterior de habeas corpus que não foi conhecido sob o fundamento da inadequação da via eleita, argumentando que tal entendimento não merece subsistir ante a realidade fática superveniente, pois o recurso adequado revelou-se ineficaz.
+Defende o ingresso desta ação constitucional para cessar o constrangimento ilegal decorrente da manutenção do paciente em custódia sem controle jurisdicional.
+Requer, ao final, o reconhecimento da nulidade da regressão de regime e o restabelecimento do regime aberto, com expedição de alvará de soltura. Subsidiariamente, postula pela "fixação de regime compatível com a pena aplicada" (e-STJ, fl. 8).
+Anexa aos autos as petições n. 343.251/2026 e 341.613/2026, respectivamente às e-STJ, fls. 360-657 e 658-752.
+É o relatório.
+Decido.
+De plano, verifico a inviabilidade deste habeas corpus.
+Da petição inicial, depreende-se que o impetrante se insurge contra a reconversão da pena restritiva de direitos do paciente em privativa de liberdade.
+Todavia, o ato tido como coator se refere ao julgamento da apelação criminal (e-STJ, fls. 33-50), não se coadunando, portanto, os argumentos apresentados neste habeas corpus com tal peça.
+Ressalto que, não obstante a profusa juntada de documentos, o detido exame dos autos revela que a pretensão não foi analisada pelo Tribunal de origem, pois não há acórdão que tenha julgado o agravo em execução penal (autuado em 15/12/2025, e-STJ, fls. 355-357), muito menos o proferido no HC n. 5009055-27.2026.4.04.0000 (e-STJ, fl. 372), o qual já consta o parecer do Ministério Público Federal (e-STJ, fl. 370).
+É cediço que, de  acordo  com  o  disposto  no  art.  105, I, "c", da Constituição da República, o Superior Tribunal de Justiça não possui competência para processar e julgar habeas corpus impetrado contra ato de juiz de primeiro grau, situação verificada nestes autos, uma vez que o impetrante se insurge contra decisão que reconverteu pena restritiva em privativa de liberdade.
+Cabe ao Superior Tribunal de Justiça processar e julgar habeas corpus somente quando o ato coator for de tribunal sujeito à sua jurisdição, o que não se verifica no caso em questão. O pedido também não encontra amparo em nenhuma das hipóteses de competência originária desta Corte Superior.
+Nesse  sentido,  confiram-se  os  seguintes  precedentes:
+"AGRAVO REGIMENTAL NA PETIÇÃO NO HABEAS CORPUS. EXECUÇÃO PENAL. IMPUGNAÇÃO DEFENSIVA. HABEAS CORPUS IMPETRADO CONTRA ATO DE JUIZ DA EXECUÇÃO PENAL. INVIABILIDADE DE CONHECIMENTO. SUPRESSÃO DE INSTÂNCIA. COMPETÊNCIA DESTA CORTE PARA JULGAMENTO DE ATOS DE TRIBUNAL SUJEITO A SUA JURISDIÇÃO. AGRAVO DESPROVIDO.
+1. "Inviável o conhecimento por esta Corte Superior de alegação de constrangimento ilegal praticado por juiz de direito, uma vez que, na forma do art. 105, I, alínea "c" da Carta da República, possui competência para atos emanados de Tribunal sujeito a sua jurisdição". (AgInt no HC 418.953/CE, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 21/11/2017, DJe 12/12/2017).
+2. Situação em que a defesa se insurge contra decisão do Juízo de execução que indeferiu pedido de trabalho externo beneficiado com a prisão domiciliar sob uso de monitoramento eletrônico, pois os elementos dos autos apontaram para a impossibilidade do deferimento do benefício à luz do que estabelece a Súmula Vinculante 56 do Supremo Tribunal Federal.
+3. Incabível o pronunciamento por este Tribunal sobre a questão de mérito, sem que tenha havido prévia deliberação da Corte de origem sobre o tema.
+4. Agravo regimental desprovido." (AgRg na PET no HC n. 906.615/CE, de minha relatoria, Quinta Turma, julgado em 12/8/2024, DJe de 15/8/2024).
+"AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS. DOSIMETRIA DA PENA. SUPRESSÃO DE INSTÂNCIA. HABEAS CORPUS IMPETRADO CONTRA ATO DE JUIZ DE DIREITO. INCOMPETÊNCIA DO SUPERIOR TRIBUNAL DE JUSTIÇA. AGRAVO REGIMENTAL DESPROVIDO.
+O Superior Tribunal de Justiça, a teor do artigo 105, inciso I, alínea "c", da Constituição da República, não possui competência para julgar habeas corpus impetrado contra ato de Juiz de Direito.
+Agravo regimental desprovido." (AgRg no HC n. 868.026/MS, relator Ministro Messod Azulay Neto, Quinta Turma, julgado em 6/2/2024, DJe de 14/2/2024).
+"PROCESSUAL PENAL. PEDIDO DE RECONSIDERAÇÃO RECEBIDO COMO AGRAVO REGIMENTAL. EXECUÇÃO. FALTA GRAVE. REGRESSÃO DE REGIME. IMPETRAÇÃO CONTRA ATO DE JUIZ. SUPRESSÃO DE INSTÂNCIA. AUSÊNCIA DE COMPROVAÇÃO DE TER SIDO A CORTE DE ORIGEM SEQUER PROVOCADA. AGRAVO REGIMENTAL DESPROVIDO.
+1. Formulado pedido de reconsideração no prazo de 5 dias, é de ser admitido como agravo regimental.
+2. Esta Corte já sinalizou ser "inviável o conhecimento por esta Corte Superior de alegação de constrangimento ilegal praticado por juiz de direito, uma vez que, na forma do art. 105, I, alínea "c", da Carta da República, possui competência para atos emanados de Tribunal sujeito a sua jurisdição" (AgInt no HC n. 418.953/CE, relator Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 21/11/2017, DJe 12/12/2017).
+3. Na hipótese vertente, ademais, não há sequer nenhuma comprovação de que a Corte de origem tenha sido ao menos provocada.
+4. Agravo regimental desprovido." (RCD no HC n. 714.339/RS, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 22/2/2022, DJe de 25/2/2022).
+Ante  o  exposto,  indefiro  liminarmente  este  habeas  corpus. Nada a prover quanto às petições de e-STJ, fls. 360-657 e 658-752.
+Publique-se.  Intimem-se.
+EMENTA
