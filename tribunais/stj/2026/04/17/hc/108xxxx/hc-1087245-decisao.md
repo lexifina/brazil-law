@@ -1,0 +1,60 @@
+DECISÃO
+Cuida-se de Habeas Corpus impetrado em favor de VALDIR RODRIGUES em que se aponta como ato coator o acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE MATO GROSSO DO SUL assim ementado:
+AGRAVO DE EXECUÇÃO PENAL - DECISÃO QUE RECONHECEU A PRÁTICA DE FALTA GRAVE E MANTEVE O REGIME FECHADO - VIOLAÇÃO DAS CONDIÇÕES DE MONITORAMENTO - JUSTIFICATIVA DO REEDUCANDO NÃO ACEITA SOB FUNDAMENTOS IDÔNEOS - DECISÃO MANTIDA - RECURSO NÃO PROVIDO.
+Não é o caso de reforma da decisão, pois reconhecida a falta grave acertadamente, sob fundamentos idôneos, não prosperando a justificativa do reeducando diante do cenário apurado, uma vez que insuficientes os elementos que comprovam suas alegações, devendo ser mantido o reconhecimento da falta grave com os seus respectivos consectários.
+Recurso a que, com o parecer, nego provimento.
+Consta dos autos que foi determinada a regressão cautelar do paciente ao regime fechado, em razão de supostas violações ao monitoramento eletrônico, tendo sido determinado o reinício da contagem de prazos para fins de progressão e a perda de 1/5 (um quinto) dos dias remidos.
+Em suas razões, sustenta o impetrante a ocorrência de constrangimento ilegal, porquanto a regressão de regime foi decretada sem a prévia oitiva judicial do sentenciado, o que acarreta nulidade da decisão.
+Alega que as violações ao monitoramento decorreram do exercício de atividade laboral do reeducando, sendo pontuais e relacionadas à área de inclusão, devendo ser afastadas à vista das justificativas apresentadas em audiência.
+Argumenta que a regressão de regime é desproporcional e inadequada, por se tratar da primeira notícia de suposta violação de perímetro e por comprometer o sustento do condenado e sua ressocialização.
+Defende que a conduta imputada é atípica, pois a violação de perímetro não se encontra no rol taxativo de faltas graves da Lei de Execução Penal, não podendo ensejar regressão de regime ou perda de dias remidos.
+Expõe que, caso reconhecida alguma infração, deve haver desclassificação para falta média, nos termos do Regimento Interno Básico das Unidades Prisionais do Estado de Mato Grosso do Sul então vigente.
+Argumenta, subsidiariamente, que o paciente faz jus à progressão ao regime aberto, por já ter atingido o lapso necessário, conforme relatório processual executório.
+Requer, em suma, o restabelecimento do regime semiaberto e, subsidiariamente, a absolvição da falta disciplinar, ou, ainda, a desclassificação para falta média.
+É o relatório.
+Decido.
+A Terceira Seção do STJ, no julgamento do HC n. 535.063/SP, firmou entendimento de que não cabe Habeas Corpus substitutivo de recurso próprio, impondo-se o não conhecimento da impetração, salvo quando constatada alguma teratologia no ato judicial impugnado (Rel. Ministro Sebastião Reis Júnior, DJe de 25.8.2020).
+Assim, passo à análise das razões da impetração a fim de verificar se há flagrante ilegalidade que justifique a concessão do writ de ofício.
+Na espécie, consta do Voto condutor do acórdão impugnado a seguinte fundamentação quanto à controvérsia apresentada:
+Alega o agravante que as violações da área de inclusão sob o argumento de que estava tralhando como ajudante de pedreiro e vigia de depósito no período noturno. Para tanto, juntou as declarações de emprego às f. 19 e 20.
+Como bem destacado pelo douto Procurador de Justiça nos seguintes trechos do parecer, que utilizo como razões de decidir dada a percuciência com que tratada a questão (f. 44/48):
+"( ) A justificativa apresentada pelo sentenciado mostra-se evasiva e insubsistente. O argumento de que as violações ocorreram em razão do trabalho como vigilante noturno não exime o sentenciado do estrito cumprimento da pena nos moldes que lhe foram impostos.
+Conforme consta, o recorrente descumpriu reiteradamente as condições impostas, sendo válido destacar o registro de 43 vezes de violação da área de inclusão.
+Uma vez praticada falta disciplinar de natureza grave impõe-se a aplicação da sanção de regressão de regime prisional, conforme dispõe o artigo 118 da LEP (..)
+Da análise dos autos, apesar de constar as declarações de emprego juntadas às f. 19 e 20, verifica-se que a versão apresentada pelo agravante não restou suficiente comprovada, prestada de forma evasiva e insubsistente, uma vez que da análise dos referidos documentos não constam data de início de quando fora contratado, bem como os dias trabalhados e sequer horários.
+Por outro lado, constata-se que o histórico de incidentes apresentado pela UMMVE (mov. 112.1), constam violações reiteradas (43 vezes) e em dias espaçados, sendo a primeira ocorrida em 17/07/2024, com registros alternando de alguns minutos a até 09 horas fora da área de inclusão.
+Ademais, cabe ressaltar que a situação da pena do agravante era em regime semiaberto, que havia sido abrandada com a monitoração eletrônica, dispensando-a do pernoite no estabelecimento penal, sendo assim inadmissível que permanecesse circulando ao seu livre alvedrio, sem limitação e vigilância, à revelia da Justiça.
+Nesse compasso, embora seja importante o exercício de atividade laboral, não se deve desconsiderar que tal prática não pode se sobrepor ao cumprimento de uma sanção estatal, razão pela qual deve o agente ter a cautela de se adequar às condições impostas pelo Estado-juiz, assim como de, caso necessário, comprovadamente requerer a eventual modificação das suas condições.
+Frente a esse cenário, realmente a justificativa apresentada não deve ser acolhida, pois insuficientes os elementos que comprovam suas alegações.
+Assim, diante das inúmeras violações, está caracterizada a falta de natureza grave, visto que o agravante absolutamente descumpriu as condições que lhe foram impostas na decisão que a progrediu de regime, o que autoriza sua regressão (fls. 22-23).
+Segundo entendimento firmado nessa Corte, a violação da tornozeleira eletrônica, ou seu descarregamento total ou perda da comunicação com o sistema, bem como desrespeito ao perímetro fixado, constituem falta grave.
+Nesse sentido, vale ainda citar os seguintes julgados:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO PENAL. REGRESSÃO DE REGIME PRISIONAL. COMETIMENTO DE FALTA GRAVE. VIOLAÇÃO DA TORNOZELEIRA ELETRÔNICA. PERDA DA COMUNICAÇÃO. FUGA. DECISÃO FUNDAMENTADA. AUSÊNCIA DE ILEGALIDADE. AGRAVO DESPROVIDO.
+1. A teor dos precedentes desta Corte, a violação da tornozeleira eletrônica, o descarregamento total da bateria, a perda da comunicação com o sistema configura falta grave, nos termos dos arts. 50, II da LEP, pois o apenado, com sua conduta, descumpre as ordens do servidor responsável pela monitoração e impede a fiscalização da execução da pena.
+2. As instâncias ordinárias consideraram inacreditáveis as alegações de que houve perda de sinal de GPS do aparelho de monitoramento eletrônico. A modificação desse entendimento demandaria aprofundado exame do acervo fático-probatório do processo de execução, providência inviável na via estreita do habeas corpus.
+3. Agravo regimental desprovido. (AgRg no HC n. 821.741/GO, Rel. Ministro Ribeiro Dantas, Quinta Turma, DJe de 24.8.2023.)
+AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO PENAL. PRISÃO DOMICILIAR COM MONITORAMENTO ELETRÔNICO. VIOLAÇÃO DO PERÍMETRO DE PERMANÊNCIA. FALTA GRAVE. AFASTAMENTO. NECESSÁRIO REVOLVIMENTO DA MATÉRIA FÁTICO-PROBATÓRIA. IMPOSSIBILIDADE. AGRAVO REGIMENTAL DESPROVIDO.
+1. Nos termos da jurisprudência desta Corte, a violação do perímetro estabelecido na decisão que concede a prisão domiciliar mediante monitoramento eletrônico configura falta grave.
+2. O afastamento da falta grave praticada pelo ora agravante demanda o reexame de matéria fático-probatória, inadmissível na via estreita do habeas corpus. Precedentes.
+3. Agravo regimental desprovido. (AgRg no HC n. 822.563/AL, Rel. Ministro Joel Ilan Paciornik, Quinta Turma, DJe de 16.8.2023.)
+De igual sorte: AgRg no HC n. 785.238/SP, Rel. Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), Sexta Turma, DJe de 20/4/2023; AgRg no HC n. 758.317/SP, Rel. Ministro Joel Ilan Paciornik, Quinta Turma, DJe de 14.12.2022; AgRg no HC n. 750.743/RS, Rel. Ministro Sebastião Reis Júnior, Sexta Turma, DJe de 4.8.2022; HC n. 517.455/SC, Rel. Ministro Leopoldo de Arruda Raposo (Desembargador Convocado do TJ/PE), Quinta Turma, DJe de 16.10.2019.
+Nessa linha, o entendimento do Tribunal a quo está em conformidade com a jurisprudência do STJ.
+Ademais, para modificar a decisão de origem a fim de absolver ou desclassificar a falta disciplinar, seria necessário o reexame do acervo fático-probatório, o que é inviável na via estreita do Habeas Corpus.
+Nesse sentido, vale citar os seguintes julgados: AgRg no HC n. 839.334/SP, Rel. Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe de 26.9.2023; AgRg no HC n. 817.562/RS, Quinta Turma, Rel. Ministro Reynaldo Soares da Fonseca, DJe de 30.6.2023; AgRg no HC n. 780.022/SP, Rel. Ministra Laurita Vaz, Sexta Turma, DJe de 21.8.2023; AgRg no HC 812.438/SP, Quinta Turma, Rel. Ministro Ribeiro Dantas, DJe de 29.6.2023; HC n. 704.718/SP, Sexta Turma, Rel. Ministra Laurita Vaz, DJe de 23.5.2023; e AgRg no HC 811.106/SP, Sexta Turma, Rel. Ministro Rogerio Schietti Cruz, DJe de 22.6.2023; AgRg no HC n. 822.563/AL, Rel. Ministro Joel Ilan Paciornik, Quinta Turma, DJe de 16.8.2023; AgRg no HC n. 770.180/SP, Rel. Ministro Antonio Saldanha Palheiro, Sexta Turma, DJe de 19.4.2023; AgRg no HC n. 748.272/MS, Rel. Ministro Antonio Saldanha Palheiro, Sexta Turma, DJe de 16.2.2023.
+E, segundo entendimento firmado nesta Corte, é dispensável a oitiva do apenado em juízo antes da homologação da falta grave se a apuração da infração disciplinar ocorreu por meio de processo administrativo no qual foi assegurada a observância das garantias do contraditório e da ampla defesa.
+Nesse sentido, vale citar os seguintes julgados:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO PENAL. FALTA GRAVE HOMOLOGADA APÓS REGULAR PROCEDIMENTO ADMINISTRATIVO. NULIDADE. INSUFICIÊNCIA DE PROVAS. FALTA COLETIVA. ABSOLVIÇÃO. DESCLASSIFICAÇÃO. NECESSIDADE DE REEXAME DO ACERVO FÁTICO-PROBATÓRIO DOS AUTOS.
+1. Esta Corte possui orientação de ser desnecessária a realização de audiência de justificação para homologação de falta grave, se ocorreu a apuração da falta disciplinar em regular procedimento administrativo, no qual foi assegurado ao reeducando o contraditório e a ampla defesa, inclusive com a participação da defesa técnica.
+ ..
+4. Agravo regimental desprovido. (AgRg no HC n. 782.937/SP, Rel. Ministro Antonio Saldanha Palheiro, Sexta Turma, DJe de 19.4.2023.)
+AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO PENAL. IMPUGNAÇÃO DEFENSIVA. FALTA GRAVE. HOMOLOGAÇÃO APÓS REGULAR PROCEDIMENTO ADMINISTRATIVO DISCIPLINAR COM OITIVA DO APENADO NA PRESENÇA DE DEFESA. PRÉVIA OITIVA JUDICIAL DO APENADO. PRESCINDIBILIDADE. RECURSO IMPROVIDO.
+1- É desnecessária nova oitiva do apenado em juízo antes da homologação da falta grave se a ele foi oportunizado manifestar-se no âmbito do procedimento administrativo instaurado para apuração da infração disciplinar, devidamente acompanhado de defesa técnica  ..  (AgRg no HC n. 709.291/SP, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 24/5/2022, DJe de 27/5/2022.).
+2- No caso, o apenado foi ouvido em 31/3/2022, na presença de advogado da FUNAP, perante o órgão sindicante, foi representado por advogado e foi feita defesa prévia. Portanto, a ausência de audiência de justificação judicial não torna nula a homologação da falta grave.
+3- Agravo regimental não provido. (AgRg no HC n. 786.742/SP, Rel. Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe de 14.12.2022.)
+Nessa linha, o entendimento do Tribunal a quo está em conformidade com a jurisprudência do STJ.
+Conclui-se, assim, que no caso em análise não há manifesta ilegalidade a ensejar a concessão da ordem de ofício.
+Ante o exposto, com fundamento no art. 21-E, IV, c/c o art. 210, ambos do RISTJ, indefiro liminarmente o presente Habeas Corpus.
+Cientifique-se o Ministério Público Federal.
+Publique-se.
+Intimem-se.
+ EMENTA
