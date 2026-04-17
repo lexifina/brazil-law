@@ -1,0 +1,23 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido de liminar, impetrado em favor de REBERT WILLIAN LIMA, contra ato coator do TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO (Habeas Corpus Criminal n. 381066-21.2025.8.26.0000).
+Consta dos autos que "O paciente fora preso no dia 26/11/2025 pela suposta prática delitiva descrita no artigo 33 da Lei n. 11.343/2006" (fl. 3).
+Neste writ, a defesa sustenta que a reincidência específica não seria fundamento para a preventiva.
+Assim como a gravidade abstrata do delito.
+Assere que "a prisão preventiva deve ser revogada, sendo suficiente a aplicação das medidas cautelares diversas da prisão previstas no art. 319 do Código de Processo Penal" (fl. 13).
+Requer, inclusive liminarmente, "Revogar a prisão preventiva, expedindo-se ALVARÁ DE SOLTURA; com a aplicação das medidas cautelares, a ser fixada a critério de Vossa Excelência, DOS PEDIDOS Diante do exposto, requer-se: Concessão definitiva da ordem para revogar a prisão preventiva; Expedição de alvará de soltura, se por outro motivo não estiver preso; Reconhecimento de nulidade da decisão por ausência de fundamentação concreta; Subsidiariamente, substituição por cautelares diversas. Reconhecimento da nulidade do flagrante, pela invasão de domicílio" (fl. 16).
+É o relatório. DECIDO.
+A presente impetração investe contra acórdão, funcionando como substituto do recurso próprio, motivo pelo qual não deve ser conhecida.
+A 3ª Seção, no âmbito do HC 535.063-SP, de relatoria do Ministro Sebastião Reis Júnior, julgado em 10/06/2020, e o Supremo Tribunal Federal, no julgamento do AgRg no HC 180.365, de relatoria da Ministra Rosa Weber, julgado em 27/03/2020, consolidaram a orientação de que não cabe habeas corpus substitutivo ao recurso legalmente previsto para a hipótese, impondo-se o não conhecimento da impetração, salvo quando constatada a existência de flagrante ilegalidade no ato judicial impugnado.
+Também não vislumbro a presença de coação ilegal que desafie a concessão da ordem de ofício, em observância ao § 2º do artigo 654 do Código de Processo Penal.
+A controvérsia se resume à prisão preventiva.
+In casu, contudo, a prisão preventiva se encontra devidamente fundamentada em dados concretos extraídos dos autos, que evidenciam a necessidade de encarceramento provisório, notadamente se considerada a natureza da droga apreendida em poder do paciente, consistente em cocaína, além de quantia de dinheiro em espécie; eppendorfs e embalagens; o Tribunal de origem também pontuou que o paciente é reincidente específico (fl. 21).
+Tais circunstâncias demonstram a gravidade concreta da conduta e a periculosidade do agente, justificando a segregação cautelar para a garantia da ordem pública.
+Sobre os temas :
+"São fundamentos idôneos para a decretação da segregação cautelar no caso de tráfico ilícito de entorpecentes a quantidade, a variedade ou a natureza das drogas apreendidas, bem como a gravidade concreta do delito, o modus operandi da ação delituosa e a periculosidade do agente" (AgRg no HC n. 751.585/SP, relator Ministro João Otávio de Noronha, Quinta Turma, julgado em 27/9/2022, DJe de 30/9/2022.)
+"A prisão cautelar está fundamentada na necessidade de garantia da ordem pública, haja vista a gravidade concreta da conduta, diante da apreensão de 347 kg de maconha e 9,2 kg de skunk, havendo indicativo de que o agravante teria contratado o corréu para transportar as drogas para outro Estado da Federação, comunicando-se por meio de walkie talkies, que ambos portavam dentro de cada veículo" (AgRg no HC n. 900.609/MS, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 20/5/2024, DJe de 23/5/2024.)
+"No caso dos autos, a custódia do agravante foi adequadamente motivada para garantia da ordem pública, tendo sido demonstradas pelas instâncias ordinárias, com base em elementos extraídos dos autos, a gravidade concreta do delito e a periculosidade do acusado, diante da apreensão de grande quantidade de drogas - onze porções de maconha pesando aproximadamente 9kg e 146,80g de skunk -, bem como pelas circunstâncias do flagrante, em que foi descumprida ordem dos policiais de parada veicular, a qual se deu somente após perseguição na rodovia, além da quebra do celular pelo paciente" (AgRg no HC n. 984.241/GO, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 14/4/2025, DJEN de 25/4/2025.)
+Ainda, não há que se falar em possibilidade de aplicação de medidas cautelares diversas da prisão, pois há nos autos elementos hábeis a recomendar a custódia cautelar.
+Diante de tais considerações, portanto, não se vislumbra a existência de qualquer flagrante ilegalidade passível de ser sanada.
+Ante o exposto, não conheço do habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
