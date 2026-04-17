@@ -1,0 +1,30 @@
+DECISÃO
+Trata-se de habeas corpus impetrado por TIAGO PAVANELO PADILHA em seu favor, apontando como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO (Revisão Criminal n. 2339348-44.2025.8.26.0000).
+Depreende-se dos autos que o recorrente foi condenado definitivamente, como incurso nas sanções previstas nos arts. 33, caput, e 35, caput, da Lei n. 11.343/2006, à pena de 14 anos de reclusão, a ser inicialmente descontada no regime prisional fechado, acrescida do pagamento de 2.100 dias-multa.
+Ajuizada revisão criminal, o desembargador relator indeferiu o pedido de retirada de pauta de sessão presencial (e-STJ fl. 8).
+O Tribunal de origem indeferiu o pedido revisional (e-STJ fls. 10/25).
+Daí o presente writ, no qual sustenta o impetrante nulidade por cerceamento de defesa, em razão do indeferimento do pedido de retirada da revisão criminal da pauta da sessão de julgamento virtual para que a defesa técnica pudesse sustentar oral e presencialmente.
+Requer o reconhecimento da nulidade do acórdão proferido na revisão criminal, com determinação de novo julgamento da ação revisional pelo Tribunal de origem, "em sessão presencial ou telepresencial, com prévia e regular intimação da defesa para que, querendo, possa realizar a devida sustentação oral" (e-STJ fl. 7).
+É o relatório.
+Decido.
+O Superior Tribunal de Justiça não pode conhecer da questão suscitada no presente habeas corpus, diante da falta de manifestação de órgão colegiado do Tribunal de origem sobre o tema.
+Nessa alheta, fica impossibilitado o pronunciamento deste Sodalício, sobrepujando a competência da Corte estadual, a ensejar supressão de instância e violação dos princípios do duplo grau de jurisdição e do devido processo legal substancial.
+Adequado à espécie, nessa perspectiva, o ensinamento de Renato Brasileiro, que, ao apreciar a matéria, destacou a inviabilidade do "pedido de julgamento de habeas corpus per saltum, ou seja, do julgamento do remédio heroico pelas instâncias superiores sem prévia provocação das instâncias inferiores acerca do constrangimento ilegal à liberdade de locomoção, sob pena de verdadeira supressão de instância e consequente violação do princípio do duplo grau de jurisdição" (LIMA, Renato Brasileiro. Manual de processo penal: volume único. 4. ed. rev. ampl. e atual. Salvador: JusPodivm, 2016, p. 2.470).
+Nesse mesmo caminhar:
+HABEAS CORPUS. ROUBO MAJORADO. WRIT SUBSTITUTIVO DE RECURSO PRÓPRIO.  ..  SUPRESSÃO DE INSTÂNCIA. ORDEM CONCEDIDA DE OFÍCIO.
+ ..
+10. O direito de recorrer em liberdade não foi objeto de discussão pela Corte de origem, motivo pelo qual se evidencia a incompetência deste Superior Tribunal de Justiça para apreciar o aludido tema posto no writ e a consequente supressão de instância.
+ ..  (HC 278.542/SP, relator Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 4/8/2015, DJe 18/8/2015.)
+HABEAS CORPUS SUBSTITUTIVO DE RECURSO ESPECIAL. INADEQUAÇÃO DA VIA ELEITA. APROPRIAÇÃO INDÉBITA. NULIDADE. CERCEAMENTO DE DEFESA. MATÉRIA NÃO DEBATIDA NA ORIGEM. INCOMPETÊNCIA TERRITORIAL. VÍCIO NÃO ALEGADO NA PRIMEIRA OPORTUNIDADE. DEFEITO RELATIVO. PRECLUSÃO. NULIDADE DE ALGIBEIRA. PRÁTICA NÃO TOLERADA. VIOLAÇÃO DO PRINCÍPIO DA BOA-FÉ. ABSOLVIÇÃO. NECESSIDADE DE REEXAME DE FATOS E PROVAS. HABEAS CORPUS NÃO CONHECIDO.
+1. O habeas corpus não pode ser utilizado como substitutivo de recurso próprio, a fim de que não se desvirtue a finalidade dessa garantia constitucional, com a exceção de quando a ilegalidade apontada é flagrante, hipótese em que se concede a ordem de ofício.
+2. A questão relativa ao suposto cerceamento de defesa alegado pelo impetrante não foi objeto de prévio debate pelas instâncias ordinárias, inviabilizando sua análise pelo Superior Tribunal de Justiça sob pena de indevida supressão de instância.
+3. Quanto ao vício relativo à inobservância da competência territorial, verifica-se que a Corte de origem, ao analisar o pleito defensivo, aduziu que a defesa manteve-se silente durante todo o curso da instrução, levantando o vício apenas na apelação, o que resulta na preclusão do defeito alegado.
+4. Além disso, o fato de não ter alegado o vício na primeira oportunidade caracteriza a chamada nulidade de algibeira. Esse procedimento é incompatível com o princípio da boa-fé, que norteia o sistema processual vigente, exigindo lealdade e cooperação de todos os sujeitos envolvidos na relação jurídico-processual.
+5. O pedido de absolvição, nos termos apresentados, não é condizente com a via eleita, porquanto, para desconstituir o entendimento da Corte a quo, seria necessário o revolvimento de fatos e provas, o que é inviável em sede de habeas corpus.
+6. Habeas corpus não conhecido. (HC n. 617.877/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 1/12/2020, DJe de 7/12/2020.)
+Ademais, não verifico flagrante ilegalidade no caso, porquanto ficou consignado pelo desembargador relator que, "tramitando o feito segundo o fluxo regido pelas Resoluções CNJ 591/2024 e TJSP 984/2025, as sustentações orais devem ser procedidas pelas partes na forma e prazos dispostos pelos respectivos artigos 9º e 12º. Prossiga-se, pois, no julgamento já iniciado" (e-STJ fl. 8, grifei).
+Conforme pontuado pela instância ordinária, havia possibilidade de realização de sustentação oral no julgamento virtual, na forma e prazos previstos nas "Resoluções CNJ 591/2024 e TJSP 984/2025", o que, ao que parece, não foi observado.
+Ademais, insta consignar que "a oposição ao julgamento virtual prevista no art. 184-D, parágrafo único, do RISTJ, há de ser acompanhada de argumentação idônea a bem evidenciar efetivo prejuízo ao direito de defesa da parte (EDcl no AgInt no AREsp n. 2.120.288/TO, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 28/11/2022, DJe de 30/11/2022)" (EDcl no AgInt no AREsp n. 2.018.341/RJ, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 6/3/2023, DJe de 13/3/2023, grifei).
+Ante o exposto, indefiro liminarmente o habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
