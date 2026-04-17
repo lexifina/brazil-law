@@ -1,0 +1,24 @@
+DECISÃO
+RODRIGO RODRIGUES DOS SANTOS alega sofrer coação ilegal diante de acórdão proferido pelo Tribunal de Justiça de origem, no Agravo em Execução n. 8002684-63.2025.8.21.0019/RS.
+Consta dos autos que o Juízo da execução reconheceu a prática de falta grave pelo apenado, consistente em evasão do regime semiaberto, ocorrida em 31/8/2024, com recaptura em 8/5/2025, após permanecer foragido por mais de oito meses. Em audiência, o apenado admitiu a conduta. Foi determinada a regressão ao regime fechado, a perda de 1/6 dos dias remidos e a interrupção da data-base, considerada a data da recaptura.
+A defesa se insurge contra a decisão, mantida em segundo grau. Afirma que o reeducando permaneceu no período de evasão na residência de sua mãe, que precisava de cuidados diretos em razão de seu estado de saúde debilitado, e que o paciente era o único responsável por sua assistência.
+Aduz que a recaptura ocorreu sem resistência e não existiu prática de novos delitos no período da fuga.
+Sustenta, ainda, que as circunstâncias pessoais e familiares do sentenciado justificariam a mitigação da sanção disciplinar.
+Requer a concessão da ordem para afastar o reconhecimento da falta grave ou, subsidiariamente, reduzir sua gravidade, com a consequente revogação das sanções impostas.
+Decido.
+Não há ilegalidade a ser sanada.
+A fuga configura falta grave, nos termos do art. 50, II, da Lei de Execução Penal, cuja consequência jurídica inclui a regressão de regime (art. 118, I, da LEP) e a interrupção da data-base para nova transferência, bem como a perda de até 1/3 dos dias remidos (art. 127 da LEP), providências que foram regularmente aplicadas pelo Juízo da execução, com base em elementos concretos extraídos dos autos.
+O habeas corpus, como se sabe, não se presta à reavaliação das justificativas apresentadas pelo sentenciado, sobretudo quando já examinadas e afastadas pelas instâncias ordinárias. Nesse sentido:
+ ..  as instâncias ordinárias, mediante exame do conteúdo probatório dos autos e das declarações fornecidas pelo paciente, entenderam que as justificativas apresentadas não eram suficientes para afastar o reconhecimento da falta grave capitulada no art. 50, inciso II, da LEP (fuga).
+III - Dessa forma, desconstituir o entendimento firmado pelas instâncias originárias para afastar a falta grave que foi imputada ao paciente, não se verificando ilegalidade manifesta, demandaria amplo revolvimento da matéria fático-probatória, procedimento incompatível com a via estreita do habeas corpus. Precedentes.
+IV - Consoante o entendimento firmado por esta Corte Superior de Justiça, a prática de falta grave determina a regressão de regime, a alteração da data-base para a progressão e a perda de até 1/3 (um terço) dos dias remidos. Súmulas nº 534, 535 e 441 desta Corte.
+Precedentes.
+ ..
+(HC n. 472.152/RS, relator Ministro Felix Fischer, Quinta Turma, julgado em 12/2/2019, DJe de 19/2/2019.)
+No caso, o próprio paciente admitiu a evasão, que perdurou por período expressivo. As alegações defensivas de que o reeducando não resistiu à prisão e que a fuga teria sido motivada pela necessidade de prestar assistência à genitora enferma não têm o condão de afastar a falta grave, tampouco de desclassificar a conduta ou elidir as consequências legais dela decorrentes.
+Ressalto que o ordenamento jurídico prevê medidas para o enfrentamento de situações excepcionais durante a execução penal, como a prisão domiciliar para assistência de familiares. Compete ao reeducando requerer ao Juiz da Execução a intervenção humanitária, desde que demonstradas, de forma idônea, a imprescindibilidade do apenado, a gravidade do estado de saúde do familiar e a inexistência de terceiros aptos a prestar a assistência necessária. O comportamento de fuga, unilateral, à margem da legalidade, não pode ser chancelado pelo Poder Judiciário.
+É possível o avanço para a pronta solução do feito, com base na jurisprudência desta Corte. Não há falar em absolvição ou em desclassificação do ato de indisciplina, pois, "nos termos do art. 50, inciso II, da Lei de Execução Penal, a fuga caracteriza falta grave, justificando a regressão cautelar do regime prisional pelo Juízo das Execuções e interrupção do lapso temporal para obtenção de benefícios, exceto para a concessão do livramento condicional, do indulto e da comutação de pena" (HC n. 275.747/RS, relatora Ministra Maria Thereza de Assis Moura, Sexta Turma, julgado em 21/11/2013, DJe de 9/12/2013).
+Ao optar pela fuga, o paciente assumiu o risco das consequências jurídicas de seu comportamento e não é possível, nesta via estreita, infirmar a conclusão das instâncias ordinárias, que reconheceram, de forma fundamentada, a prática de falta grave e aplicaram as normas legais cabíveis.
+Diante do exposto, denego o habeas corpus, in limine.
+Publique-se e intimem-se.
+EMENTA
