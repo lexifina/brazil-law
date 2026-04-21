@@ -1,0 +1,36 @@
+DECISÃO:
+Trata-se de recurso extraordinário com agravo contra decisão de inadmissão do recurso extraordinário.
+O recurso foi interposto com fundamento na alínea "a" do permissivo constitucional.
+O acórdão recorrido  ficou assim ementado:
+
+CIVIL E PROCESSO CIVIL. APELAÇÃO CÍVEL. REIVINDICATÓRIA. RECONVENÇÃO. USUCAPIÃO COMO DEFESA. RECONHECIMENTO. FLUÊNCIA DE PRAZO DE POSSE (AD USUCAPIONEM). TERMO INICIAL. REGULARIZAÇÃO IMOBILIÁRIA. INDEPENDÊNCIA. ÁREA PARTICULAR. POSSE MANSA E PACÍFICA. COMPROVAÇÃO. PERÍODO SUFICIENTE. HONORÁRIOS ADVOCATÍCIOS. VALOR DO BEM. PROVEITO ECONÔMICO. APLICAÇÃO DO TEMA 1076 DO STJ.
+1. No caso de ação reivindicatória cumulada com pedido indenizatório, para fins de quantificação do valor da causa, deve ser considerado inicialmente o proveito econômico potencial que a causa pode gerar à parte, à luz do que preconiza o artigo 291 e seguintes do Código de Processo Civil.
+2. Na linha do que estabelece a Lei de Registros Públicos, a presunção legítima é a de que a propriedade não pode ser suspensa em razão de mera oposição engendrada por terceiro, ainda que se trate da União Federal, mormente em se tratando de ações em curso em Juízos com competências completamente distintas, circunstância que afasta a aplicação integral do artigo 685 do Código de Processo Civil.
+3. O atendimento de todos os pressupostos jurídicos, notadamente daqueles constantes no artigo 1.245 do Código Civil, combinados com o disposto na Lei de Registros Públicos, principalmente, em seus artigos 1º, 212, 214 e 216, permite a propositura de ação reivindicatória, nos termos do artigo 1.228 do Código Civil.
+4. A eventual usucapiáo do imóvel acaba por obstar a procedéncia da acáo reivindicatória, na medida em que é causa originária de aquisição de propriedade, tal como preconiza a legislação, a doutrina e a jurisprudência pátrias, podendo, há muito, ser usada como matéria de defesa.
+5. Para que a usucapião tenha o condão de infirmar a reivindicatória, necessário verificar se atende a contento os seus pressupostos, a começar pelos previstos na Constituição Federal de 1988, a exemplo do 8 3º do artigo 183, em que o legislador destacou que “os imóveis públicos não serão adquiridos por usucapião.”
+6. Somente após o registro no álbum imobiliário (arts. 167, inciso I, e 19 da Lei 6.015/73), que o imóvel individualizado terá existência legal. Antes do registro não há que se falar em propriedade do terreno, enquanto subdivisão de um parcelamento. Consequentemente, o prazo apto a gerar a aquisição originária deve ser contado, em regra, apenas e tão somente após o efetivo registro; porém, comprovada a posse usucapionem, o Judiciário, por meio do EstadoJuiz, pode determinar a abertura de matrícula de área dentro de imóvel maior, de natureza privada, de acordo com as regras municipais de parcelamento do solo.
+7. O instituto da usucapião, como forma de aquisição de propriedade que é, repousa no dever do cumprimento da função social da propriedade, conforme exigência constitucional (art. 182, § 2º, da CRFB/1988).
+8. Se a ocupação de terreno sem registro de loteamento, a despeito de ser irregular, serviu de moradia para a família, preenchido está o requisito referente ao cumprimento da função social da propriedade. Essa conclusão exsurge exatamente da ratio decidendi do precedente classificado de Tema 1.025 do colendo STJ (também Tema 8 do IRDR deste TJDFT), os quais, apesar de guardarem sutil diferença, suficiente para que não se lhes aplique de forma vinculante, possuem alguma convergência em sua essência.
+9. Quando o objeto usucapível não ostenta natureza pública, a ação de usucapião utilizada como defesa (reconvenção) não esbarra em óbice intransponível, podendo serem aferidos os demais requisitos.
+10. Comprovado o exercício da posse mansa e pacífica por prazo superior a 15 (quinze) anos, tal como exigido 1.238 do Código Civil, não há como deixar de reconhecer que o prazo apto a gerar a aquisição originária da área transcorreu, se não houve resistência do pretenso proprietário.
+11. Os honorários advocatícios em ação reivindicatória e de usucapião, não havendo condenação em perdas e danos, devem ser fixados com base no proveito econômico, consistente no valor do bem disputado pelas partes, conforme interpretacáo do Tema 1076, do colendo Superior Tribunal de Justica.
+12. Recurso dos réus provido. Julgado prejudicado o apelo da autora.
+
+Opostos os embargos de declaração, foram rejeitados.
+No recurso extraordinário sustenta-se violação do(s) art.(s)  5º, inciso XXIII; 93, inciso IX, e 182, § 2º,  da Constituição Federal.
+Decido.
+Analisados os autos, verifica-se que o Plenário da Corte, em sede de repercussão geral, reafirmou a orientação de que o artigo 93,inciso IX, da Constituição não exige que o órgão judicante se manifeste sobre todos os argumentos apresentados pela defesa, mas sim que ele fundamente, ainda que sucintamente, as razões que entendeu suficientes à formação de seu convencimento (AI nº 791.292/PE-RG-QO, Tribunal Pleno, Rel. Min. Gilmar Mendes, DJe de 13/08/2010).
+Ademais, verifica-se que, para ultrapassar o entendimento do Tribunal de origem, seria necessário analisar a causa à luz da interpretação dada à legislação infraconstitucional pertinente e reexaminar os fatos e as provas dos autos, o que não é cabível em sede de recurso extraordinário, nos termos da Súmula 279/STF. Sobre o tema, a propósito:
+
+“Agravo regimental no recurso extraordinário com agravo. Direito Civil. Prequestionamento. Ausência. Usucapião. Requisitos. Legislação infraconstitucional. Ofensa reflexa. Fatos e provas. Reexame. Impossibilidade. Precedentes. 1. É inadmissível o recurso extraordinário se a matéria constitucional que nele se alega violada não está devidamente prequestionada. Incidência das Súmulas nºs 282 e 356/STF. 2. A afronta aos princípios da legalidade, do devido processo legal, da ampla defesa, do contraditório, dos limites da coisa julgada ou da prestação jurisdicional, quando depende, para ser reconhecida como tal, da análise de normas infraconstitucionais, configura apenas ofensa indireta ou reflexa à Constituição Federal. 3. Inviável, em recurso extraordinário, o reexame dos fatos e das provas dos autos e a análise da legislação infraconstitucional. Incidência das Súmulas nºs 279 e 636/STF. 4. Agravo regimental não provido, com imposição de multa de 1% do valor atualizado da causa (art. 1.021, § 4º, do CPC)” (ARE nº 1.143.628/GO-AgR, Tribunal Pleno, Rel. Min. Dias Toffoli, DJe de 13/12/2018).
+
+Também nesse sentido: ARE nº 1.071.192/SP-AgR, Segunda Turma, Rel. Min. Dias Toffoli, DJe de 22/11/2017 e ARE nº 930.522/RO-AgR, Primeira Turma, Rel. Min. Alexandre de Moraes, DJe de 29/6/2017.
+Ante o exposto, nego seguimento ao recurso (alínea c do inciso V do art. 13 do Regimento Interno do Supremo Tribunal Federal).
+Havendo prévia fixação de honorários advocatícios pelas instâncias de origem, seu valor monetário será majorado em 10% (dez por cento) em desfavor da parte recorrente, nos termos do art. 85, § 11, do Código de Processo Civil, observado os limites dos §§ 2º e 3º do referido artigo e a eventual concessão de justiça gratuita.
+Publique-se.
+Brasília, 21 de abril de 2026.
+
+Ministro EDSON FACHIN
+Presidente
+Documento assinado digitalmente
