@@ -1,0 +1,27 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 14/04/2026 a 22/04/2026, por unanimidade, não conhecer do recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Benedito Gonçalves, Sérgio Kukina, Regina Helena Costa e Gurgel de Faria votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Sérgio Kukina.
+EMENTA
+DIREITO PROCESSUAL CIVIL E DIREITO TRIBUTÁRIO. AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DA DECISÃO AGRAVADA. SÚMULA 182/STJ. APLICAÇÃO. RECURSO NÃO CONHECIDO.
+1. Nos termos da Súmula 182 do Superior Tribunal de Justiça, não se conhece do agravo interno que não rebate os fundamentos da decisão que, nesta instância, examinou recurso.
+2. Agravo interno de que não se conhece.
+RELATÓRIO
+Trata-se de agravo interno interposto por CESCAGE CENTRO DE ENSINO SUPERIOR DOS CAMPOS GERAIS LTDA da decisão da Presidência do Superior Tribunal de Justiça de fls. 3.287/3.288.
+Nas razões recursais, a parte agravante requer a reconsideração da decisão agravada ou a apreciação do processo pelo órgão colegiado competente.
+A parte adversa não apresentou impugnação (fl. 3.314).
+É o relatório.
+EMENTA
+DIREITO PROCESSUAL CIVIL E DIREITO TRIBUTÁRIO. AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DA DECISÃO AGRAVADA. SÚMULA 182/STJ. APLICAÇÃO. RECURSO NÃO CONHECIDO.
+1. Nos termos da Súmula 182 do Superior Tribunal de Justiça, não se conhece do agravo interno que não rebate os fundamentos da decisão que, nesta instância, examinou recurso.
+2. Agravo interno de que não se conhece.
+VOTO
+Na origem, o TRIBUNAL DE JUSTIÇA DO ESTADO DO PARANÁ proferiu o acórdão assim ementado (fl. 3.165):
+APELAÇÃO CÍVEL E REEXAME NECESSÁRIO. DIREITO TRIBUTÁRIO. AÇÃO ORDINÁRIA. SENTENÇA DE PARCIAL PROCEDÊNCIA. DISCUSSÃO A RESPEITO DA CONCESSÃO DE ISENÇÃO TRIBUTÁRIA. INSURGÊNCIA DO ENTE MUNICIPAL. PRESCRIÇÃO SUSCITADA PELO MUNICÍPIO APÓS A INTERPOSIÇÃO DO RECURSO. POSSIBILIDADE. MATÉRIA DE ORDEM PÚBLICA QUE NÃO SE SUJEITA À PRECLUSÃO TEMPORAL. PRECEDENTES DO STJ. ACOLHIMENTO EM PARTE. PRAZO QUINQUENAL PARA A PROPOSITURA DE AÇÃO ANULATÓRIA DE CRÉDITO TRIBUTÁRIO. ART. 1º DO DECRETO Nº 20.910/1932. TERMO INICIAL: NOTIFICAÇÃO DO CONTRIBUINTE A RESPEITO DO LANÇAMENTO. TEMA REPETITIVO Nº 229 DO STJ. DECURSO DE MAIS DE 5 (CINCO) ANOS QUANTO ÀS DÍVIDAS DE IPTU. EXTINÇÃO PARCIAL DO PROCESSO, COM RESOLUÇÃO DE MÉRITO, NOS TERMOS DO ART. 487, II, DO CÓDIGO DE PROCESSO CIVIL. ANÁLISE DO RECURSO RESTRITA AO RECONHECIMENTO DO DIREITO À ISENÇÃO E À ANULAÇÃO DOS DÉBITOS DE ISS. DOAÇÃO DE IMÓVEL AO CESCAGE POR MEIO DA LEI Nº 6.486/2000 E AUTORIZAÇÃO PARA INCLUSÃO NO SISTEMA DE INCENTIVOS PREVISTO PELA LEI Nº 3.947/1986 DO MUNICÍPIO DE PONTA GROSSA. PROGRAMA DE DESENVOLVIMENTO INDUSTRIAL - PRODESI. PARECER FAVORÁVEL DA COMISSÃO DE DESEVOLVIMENTO INSDUTRAL (CODESI) PELA CONCESSÃO DA ISENÇÃO (PARECER Nº 83/2000). POSTERIOR REVOGAÇÃO POR MEIO DO PARECER Nº 46/2001. AUSÊNCIA DE MOTIVAÇÃO APARENTE. ALEGAÇÃO DE EXTRAVIO DO PROCESSO ADMINISTRATIVO INSTAURADO PARA APURAR AS IRREGULARIDADES NO PARECER CONCESSIVO Nº 83/2000. IRRELEVÂNCIA. ADEMAIS, EXISTÊNCIA DE DECISÃO ANTERIOR DESTA CÂMARA QUE RECONHECEU O DIREITO À ISENÇÃO A PARTIR DA MESMA CONTROVÉRSIA JURÍDICA. RATIO QUE SE APLICA AO CASO CONCRETO. REDISTRIBUIÇÃO DODECIDENDI ÔNUS SUCUMBENCIAL. RECURSO DESPROVIDO. MANUTENÇÃO DA SENTENÇA EM REEXAME NECESSÁRIO.
+Na decisão agravada, não se conheceu do agravo em recurso especial porque a parte agravante havia deixado de impugnar especificamente a incidência da Súmula 283 do Supremo Tribunal Federal (STF).
+Em seu agravo interno, a parte recorrente alega que teria impugnado, de forma específica, os pontos da decisão de admissibilidade desde o recurso especial e, novamente, no agravo em recurso especial (fls. 3.292/3.293). Sustenta que foram enfrentadas duas questões centrais: a aplicação do art. 1º do Decreto 20.910/1932 na ação anulatória com pedido de extinção de execuções fiscais, invocando o entendimento deste Tribunal no julgamento do Recurso Especial 1.054.833/RJ (AgRg); e a não incidência da Súmula 7 do STJ por se tratar de matéria exclusivamente de direito, com fatos incontroversos (fls. 3.293/3.304).
+Como se vê, a decisão agravada assentou um fundamento único processual: ausência de impugnação do óbice da Súmula 283 do STF (fls. 3287/3288). O agravo interno não enfrenta esse ponto. As razões concentram-se em mérito (prescrição e distinção do Tema 229), em superação da Súmula 7 do STJ e em alegada negativa de vigência de dispositivos legais (fls. 3.292/3.301), sem impugnar a falta de ataque ao óbice da Súmula 283 do STF.
+A parte agravante, no recurso ora examinado, não rebate as razões expostas na decisão que visa impugnar. Por esse motivo, aplico ao presente caso a Súmula 182 do Superior Tribunal de Justiça (STJ), segundo a qual "é inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada".
+Registro que o recurso de agravo, tanto aquele previsto no art. 1.042 do Código de Processo Civil (CPC) como o dito regimental ou interno previsto no art. 1.021, § 1º, do mesmo CPC, objetiva desconstituir os fundamentos da decisão que examinou o recurso especial; o recurso não comporta seguimento sem essa providência.
+Ante o exposto, não conheço do agravo interno.
+É o voto.
