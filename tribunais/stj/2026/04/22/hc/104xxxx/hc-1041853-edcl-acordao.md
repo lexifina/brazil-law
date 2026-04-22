@@ -1,0 +1,36 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Sexta Turma, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Rogerio Schietti Cruz, Antonio Saldanha Palheiro, Carlos Pires Brandão e Og Fernandes votaram com o Sr. Ministro Relator.
+EMENTA
+EMBARGOS DE DECLARAÇÃO EM HABEAS CORPUS DENEGADO. INEXISTÊNCIA DOS VÍCIOS PRECONIZADOS NO ART. 619 DO CPP. MANIFESTA IMPROCEDÊNCIA. REDISCUSSÃO. DESCABIMENTO.
+Embargos de declaração rejeitados.
+RELATÓRIO
+Trata-se de embargos de declaração opostos por LUTHER MURILO MENDES ao acórdão da Sexta Turma desta Corte, assim ementado (fl. 241):
+DIREITO PROCESSUAL PENAL. HABEAS CORPUS. TRÁFICO DE DROGAS. BUSCA DOMICILIAR. CONSENTIMENTO DA MORADORA. PROVAS DERIVADAS.
+1. De acordo com a jurisprudência do Superior Tribunal de Justiça, a mera existência de notícia-crime a respeito da ocorrência de tráfico de drogas em determinado imóvel é insuficiente para conformar justa causa para a realização de busca domiciliar sem autorização judicial; no caso, porém, o ingresso dos policiais militares foi autorizado por uma das moradoras da chácara, de maneira que fica prejudicada a apreciação da existência de fundadas razões para o ingresso forçado no local.
+2. O consentimento da moradora para o ingresso dos policiais no imóvel foi considerado válido, mesmo sem registro por escrito ou por outro meio idôneo, pois o crime ocorreu antes que se tivesse firmado o entendimento jurisprudencial nesse sentido.
+3. Além disso, não há elementos suficientes nos autos que infirmem a existência ou a validade do consentimento dado pela moradora para a entrada dos policiais no imóvel.
+4. Ordem denegada.
+Nas razões, a defesa do embargante alega que o acórdão padece de omissão quanto ao real alcance da tese defensiva, sustentando que a defesa, na impetração, não se limitou a exigir formalidade de gravação ou autorização escrita, mas questionou a própria suficiência probatória da autorização para ingresso domiciliar, por ter decorrido exclusivamente de denúncia anônima, cabendo ao Estado demonstrar a voluntariedade do consentimento de modo seguro e inequívoco (fl. 253).
+Aduz a existência de omissão quanto à aplicação temporal do entendimento jurisprudencial, argumentando que, embora o fato seja anterior à consolidação do entendimento desta Corte sobre rigorosa comprovação da voluntariedade do consentimento (fixado em 2021), o trânsito em julgado da condenação deu-se em 2/2/2022, quando tal orientação já estava firmada (fl. 254).
+Afirma, assim, que não se trata de aplicação retroativa a processo definitivamente encerrado, mas de incidência imediata a feito ainda em curso, o que exigiria enfrentamento específico pela decisão embargada (fl. 256).
+Ao final, requer o conhecimento e o acolhimento dos embargos de declaração para sanar as omissões e contradições apontadas, com pronunciamento expresso quanto às questões suscitadas, especialmente sobre: inviolabilidade do domicílio; ônus probatório do Estado na comprovação do consentimento; e ilicitude das provas obtidas em violação domiciliar (fl. 256).
+É o relatório.
+EMENTA
+EMBARGOS DE DECLARAÇÃO EM HABEAS CORPUS DENEGADO. INEXISTÊNCIA DOS VÍCIOS PRECONIZADOS NO ART. 619 DO CPP. MANIFESTA IMPROCEDÊNCIA. REDISCUSSÃO. DESCABIMENTO.
+Embargos de declaração rejeitados.
+VOTO
+Os embargos de declaração são acolhidos quando evidenciado vício no decisum recorrido com efetiva obscuridade, contradição, ambiguidade ou omissão (art. 619 do CPP).
+No caso, é evidente o mero inconformismo do embargante com o resultado do julgamento de seu habeas corpus.
+As teses tidas por omissas foram todas analisadas no acórdão proferido. No ponto (fls. 245/246):
+Ao examinar o voto condutor do acórdão impugnado, constata-se que a condenação do paciente não se ressente da ilegalidade apontada, pelos motivos que passo a expor.
+Segundo o entendimento firmado no julgamento do Tema 280/STF, a mera notícia-crime sobre tráfico de drogas em determinado local é insuficiente para conformar justa causa para a realização de busca domiciliar sem autorização judicial; portanto, apenas a informação  de  que o denunciado Luther Murilo Mendes estava traficando no bairro Itamarati  ..  numa chácara na última rua do bairro (fl. 73) é evidentemente pouco para que se reconheça a existência de fundadas razões para a realização de busca no local.
+Com efeito, embora o art. 5º, XI, da Constituição da República autorize o ingresso forçado na casa em situação de flagrante delito, a coletividade  ..  também precisa sentir-se segura e ver preservados seus mínimos direitos e garantias constitucionais, em especial o de não ter a residência invadida e devassada, a qualquer hora do dia ou da noite, por agentes do Estado, sem as cautelas devidas e sob a única justificativa, não amparada em elementos concretos de convicção, de que o local supostamente seria, por exemplo, um ponto de tráfico de drogas, ou de que o suspeito do tráfico ali se homiziou (HC n. 598.051/SP, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 2/3/2021, DJe de 15/3/2021).
+Neste caso, contudo, o julgado consigna que a esposa do corréu consentiu com o ingresso dos policiais militares na chácara, de forma que a legitimação da busca domiciliar não se calça diretamente em fundadas razões da ocorrência de delito, mas no consentimento da moradora, o que guarda consonância com o dispositivo constitucional em causa.
+Ressalte-se que o crime ocorreu antes que se tivesse firmado o atual entendimento jurisprudencial no sentido de que o consentimento para o ingresso na casa deve ser registrado por escrito ou outro meio idôneo, de sorte que seria anacrônico exigir dos policiais militares que participaram da ação que tivessem adotado providência dessa natureza.
+No mais, como bem observa o voto condutor do acórdão que julgou improcedente a revisão criminal, o ingresso policial no imóvel foi autorizado pela companheira de Willian, a qual, ouvida na fase extrajudicial, confirmou que estava no imóvel no momento em que os militares chegaram, ao passo que,  e m nenhum momento, a mulher nega a autorização para o ingresso na residência (fl. 74).
+Em suma, ainda que não houvesse fundadas razões para o ingresso forçado dos policiais militares na chácara onde as drogas foram apreendidas, a entrada dos agentes no imóvel foi autorizada por uma das moradoras, e não há elementos suficientes que permitam infirmar a existência ou a validade do consentimento dado.
+A esse respeito, cumpre destacar a orientação do Supremo Tribunal Federal, firmada em julgado com repercussão geral, no sentido de que as decisões judiciais não precisam ser necessariamente analíticas, bastando que contenham fundamentos suficientes para justificar suas conclusões (QO no AI n. 791.292, julgado sob a relatoria do Ministro Gilmar Mendes), circunstância verificada no caso .
+Aliás, o que se verifica das razões dos embargos é a tentativa do embargante de, por via oblíqua, rediscutir as conclusões do acórdão embargado, providência descabida na via eleita.
+Vale lembrar que é vedado à parte inovar suas pretensões e seus argumentos em sede de embargos de declaração.
+Ante o exposto, rejeito os embargos de declaração.
