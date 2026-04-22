@@ -1,0 +1,69 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 14/04/2026 a 22/04/2026, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Ricardo Villas Bôas Cueva, Moura Ribeiro e Daniela Teixeira votaram com o Sr. Ministro Relator.
+Presidiu o julgamento a Sra. Ministra Daniela Teixeira.
+Impedida a Sra. Ministra Nancy Andrighi.
+EMENTA
+DIREITO PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. MAJORAÇÃO DE HONORÁRIOS ADVOCATÍCIOS. MAJORAÇÃO JÁ EFETUADA POR OCASIÃO DO JULGAMENTO MONOCRÁTICO. ART. 85, §11, DO CPC. NOVA APLICAÇÃO. IMPOSSIBILIDADE.
+1. "Não haverá honorários recursais no julgamento de Agravo Interno e de Embargos de Declaração apresentados pela parte que, na decisão que não conheceu integralmente de seu recurso ou negou-lhe provimento, teve imposta contra si a majoração prevista no §11 do art. 85 do CPC/2015" (AgInt nos EREsp n. 1.539.725/DF, relator Ministro Antonio Carlos Ferreira, Segunda Seção, julgado em 9/8/2017, DJe de 19/10/2017; e AgInt nos EAREsp n. 762.075/MT, relator Ministro Felix Fischer, relator para acórdão Ministro Herman Benjamin, Corte Especial, julgado em 19/12/2018, DJe de 7/3/2019.)
+Embargos de declaração rejeitados.
+RELATÓRIO
+O EXMO. SR. MINISTRO HUMBERTO MARTINS (relator):
+Cuida-se de embargos de declaração opostos por PIENSCO MANUTENÇÃO E PROJETOS LTDA-ME contra acórdão da Terceira Turma que, por unanimidade, manteve decisão monocrática de minha relatoria que não conheceu do agravo em recurso especial.
+A parte embargante alega omissão dos acórdãos embargados, na medida em que "embora tenham mantido integralmente as decisões monocráticas que negaram seguimento aos recursos das instituições financeiras, não se pronunciaram sobre a majoração dos honorários advocatícios sucumbenciais".
+Diz que, "com o desprovimento dos Agravos Internos, a majoração da verba honorária tornou-se impositiva".
+Requer o acolhimento dos embargos de declaração para majorar a verba honorária.
+A parte embargada, instada a manifestar-se, apresentou impugnação (fls. 1.126/1.128 - 1.130/1.131).
+É, no essencial, o relatório.
+EMENTA
+DIREITO PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. MAJORAÇÃO DE HONORÁRIOS ADVOCATÍCIOS. MAJORAÇÃO JÁ EFETUADA POR OCASIÃO DO JULGAMENTO MONOCRÁTICO. ART. 85, §11, DO CPC. NOVA APLICAÇÃO. IMPOSSIBILIDADE.
+1. "Não haverá honorários recursais no julgamento de Agravo Interno e de Embargos de Declaração apresentados pela parte que, na decisão que não conheceu integralmente de seu recurso ou negou-lhe provimento, teve imposta contra si a majoração prevista no §11 do art. 85 do CPC/2015" (AgInt nos EREsp n. 1.539.725/DF, relator Ministro Antonio Carlos Ferreira, Segunda Seção, julgado em 9/8/2017, DJe de 19/10/2017; e AgInt nos EAREsp n. 762.075/MT, relator Ministro Felix Fischer, relator para acórdão Ministro Herman Benjamin, Corte Especial, julgado em 19/12/2018, DJe de 7/3/2019.)
+Embargos de declaração rejeitados.
+VOTO
+O EXMO. SR. MINISTRO HUMBERTO MARTINS (relator):
+A irresignação não merece acolhida.
+Nos presentes embargos de declaração, a parte embargante alega omissão quanto à majoração dos honorários advocatícios.
+Contudo, não há omissão a ser sanada.
+Isso porque, quanto à fixação e à majoração de honorários advocatícios, a jurisprudência do STJ fixou as seguintes premissas:
+"PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DIVERGÊNCIA EM RECURSO ESPECIAL. ACÓRDÃO EMBARGADO PUBLICADO NA VIGÊNCIA DO CPC/2015. FALTA DE SIMILITUDE FÁTICA. PRESCRIÇÃO. REPARAÇÃO. DIREITOS AUTORAIS. ILÍCITO EXTRACONTRATUAL. ACÓRDÃO EMBARGADO CONFORME A JURISPRUDÊNCIA DO STJ. NÃO CABIMENTO. DECISÃO MANTIDA.
+1. Os embargos de divergência não podem ser admitidos quando inexistente semelhança fático-processual entre os arestos confrontados.
+2. No caso, a TERCEIRA TURMA apreciou controvérsia sobre a prescrição envolvendo violação extracontratual de direitos autorais. O paradigma (REsp n. 1.211.949/MG), no entanto, enfrentou questão relativa ao prazo prescricional para execução de multa cominatória, por descumprimento de decisão judicial que proibia o réu de executar obra musical. Constata-se assim a diferença fático-processual entre os julgados confrontados.
+3. A jurisprudência de ambas as turmas que compõem esta SEGUNDA SEÇÃO firmou-se no mesmo sentido do acórdão embargado, segundo o qual é de 3 (três) anos, quando se discute ilícito extracontratual, o prazo de prescrição relativo à pretensão decorrente de afronta a direito autoral. Precedentes.
+4. As exigências relativas à demonstração da divergência jurisprudencial não foram modificadas pelo CPC/2015, nos termos do seu art. 1.043, §4º.
+5. É devida a majoração da verba honorária sucumbencial, na forma do art. 85, § 11, do CPC/2015, quando estiverem presentes os seguintes requisitos, simultaneamente: a) decisão recorrida publicada a partir de 18.3.2016, quando entrou em vigor o novo Código de Processo Civil; b) recurso não conhecido integralmente ou desprovido, monocraticamente ou pelo órgão colegiado competente; e c) condenação em honorários advocatícios desde a origem no feito em que interposto o recurso.
+6. Não haverá honorários recursais no julgamento de agravo interno e de embargos de declaração apresentados pela parte que, na decisão que não conheceu integralmente de seu recurso ou negou-lhe provimento, teve imposta contra si a majoração prevista no §11 do art. 85 do CPC/2015.
+7. Com a interposição de embargos de divergência em recurso especial tem início novo grau recursal, sujeitando-se o embargante, ao questionar decisão publicada na vigência do CPC/2015, à majoração dos honorários sucumbenciais, na forma do §11 do art. 85, quando indeferidos liminarmente pelo relator ou se o colegiado deles não conhecer ou negar-lhes provimento.
+8. Quando devida a verba honorária recursal, mas, por omissão, o Relator deixar de aplicá-la em decisão monocrática, poderá o colegiado, ao não conhecer ou desprover o respectivo agravo interno, arbitrá-la ex officio, por se tratar de matéria de ordem pública, que independe de provocação da parte, não se verificando reformatio in pejus.
+9. Da majoração dos honorários sucumbenciais promovida com base no § 11 do art. 85 do CPC/2015 não poderá resultar extrapolação dos limites previstos nos §§ 2º e 3º do referido artigo.
+10. É dispensada a configuração do trabalho adicional do advogado para a majoração dos honorários na instância recursal, que será considerado, no entanto, para quantificação de tal verba.
+11. Agravo interno a que se nega provimento. Honorários recursais arbitrados ex officio, sanada omissão na decisão ora agravada." (AgInt nos EREsp n. 1.539.725/DF, relator Ministro Antonio Carlos Ferreira, Segunda Seção, julgado em 9/8/2017, DJe de 19/10/2017.)
+" PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DIVERGÊNCIA EM AGRAVO EM RECURSO ESPECIAL. FUNDAMENTAÇÃO MONOCRÁTICA NÃO ATACADA. INADMISSIBILIDADE. REGRA TÉCNICA DE CONHECIMENTO RECURSAL. INCIDÊNCIA DA SÚMULA 315/STJ. MAJORAÇÃO DOS HONORÁRIOS ADVOCATÍCIOS. APLICAÇÃO DO § 11 DO ART. 85 DO CÓDIGO DE PROCESSO CIVIL. VIABILIDADE. RECURSO NÃO PROVIDO. 1. Não se admite a interposição de Embargos de Divergência na hipótese de não ter sido analisado o mérito do Recurso Especial, conforme a Súmula 315/STJ.
+2. A questão que sobeja em divergência é quanto ao cabimento ou não de honorários de advogado nesta fase recursal, novidade instituída pelo Novo Código de Processo Civil.
+3. Os critérios de cabimento dos honorários advocatícios recursais, previstos no §11 do art. 85 do novo CPC, já foram tema de discussão na Terceira Turma, na sessão de 4 de abril de 2017, no julgamento dos EDcl no AgInt no REsp 1.573.573/RJ, o que levou à uniformização do tema no âmbito daquele órgão julgador.
+4. Tais critérios foram reavaliados pela Segunda Seção, no julgamento do AgInt nos Embargos de Divergência em REsp 1.539. 725-DF, os quais passam a ser adotados como entendimento desta egrégia Corte Especial.
+5. É devida a majoração da verba honorária sucumbencial, na forma do art. 85, §11, do CPC/2015, quando estiverem presentes os seguintes requisitos, simultaneamente: a) decisão recorrida publicada a partir de 18.3.2016, quando entrou em vigor o novo Código de Processo Civil; b) recurso não conhecido integralmente ou desprovido, monocraticamente ou pelo órgão colegiado competente; e c) condenação em honorários advocatícios desde a origem no feito em que interposto o recurso.
+6. Não haverá honorários recursais no julgamento de Agravo Interno e de Embargos de Declaração apresentados pela parte que, na decisão que não conheceu integralmente de seu recurso ou negou-lhe provimento, teve imposta contra si a majoração prevista no §11 do art. 85 do CPC/2015.
+7. Com a interposição de Embargos de Divergência em Recurso Especial tem início novo grau recursal, sujeitando-se o embargante, ao questionar decisão publicada na vigência do CPC/2015, à majoração dos honorários sucumbenciais, na forma do §11 do art. 85, quando indeferidos liminarmente pelo relator ou se o colegiado deles não conhecer ou negar-lhes provimento
+8. Quando devida a verba honorária recursal, mas, por omissão, o Relator deixar de aplicá-la em decisão monocrática, poderá o colegiado, ao não conhecer do respectivo Agravo Interno ou negar-lhe provimento, arbitrá-la ex officio, por se tratar de matéria de ordem pública, que independe de provocação da parte, não se verificando reformatio in pejus.
+9. Da majoração dos honorários sucumbenciais promovida com base no §11 do art. 85 do CPC/2015 não poderá resultar extrapolação dos limites previstos nos §§ 2º e 3º do referido artigo.
+10. É dispensada a configuração do trabalho adicional do advogado para a majoração dos honorários na instância recursal, que será considerado, no entanto, para quantificação de tal verba.
+11. In casu, denota-se: a) a majoração da verba, no caso que ora se examina, decorre da inadmissão dos Embargos de Divergência - o que, como visto, trouxe novo grau recursal com sua interposição; b) a lei não exige comprovação do efetivo trabalho adicional realizado pelo advogado da parte recorrida para a majoração dos honorários. O trabalho adicional realizado pelo advogado da parte recorrida, em grau recursal, deve ser tido como critério de quantificação, e não como condição para majorar os honorários.
+12. Quanto à matéria, precedentes do Pretório Excelso: ARE 898.896 AgR-EDv-AgR/RJ - Relator Ministro Dias Toffolli, julgado em 24/02/2017, Tribunal Pleno, DJe de 15/3/2017; ARE 859.077 AgR-ED-EDv-AgR/AC - Relator Ministro Marco Aurélio, julgado em 23/03/2017, Tribunal Pleno, DJe de 29/5/2017.
+13. Cabível a majoração dos honorários recursais em desfavor da parte insurgente, nos termos da decisão agravada.
+14. Agravo Interno não provido." (AgInt nos EAREsp n. 762.075/MT, relator Ministro Felix Fischer, relator para acórdão Ministro Herman Benjamin, Corte Especial, julgado em 19/12/2018, DJe de 7/3/2019.)
+Desse modo, cuidando-se de hipótese em que já aplicada a majoração dos honorários advocatícios prevista no art. 85, §11, do CPC, por ocasião das decisões monocráticas mantidas pelos acórdãos que negaram provimento ao agravo interno (v. fls. 994 e 1.001), não há falar em nova majoração, uma vez que a interposição de agravo interno não inaugura instância.
+A propósito, confira-se ainda:
+"DIREITO PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. MULTA POR LITIGÂNCIA DE MÁ-FÉ E MAJORAÇÃO DE HONORÁRIOS. EMBARGOS ACOLHIDOS SEM EFEITOS INFRINGENTES.
+I. Caso em exame
+1. Embargos de declaração opostos ao acórdão que negou provimento ao agravo interno, mantendo a decisão que não conhecera do agravo em razão da aplicação analógica da Súmula n. 182 do STJ.
+II. Questão em discussão
+2. A questão em discussão consiste em saber se o acórdão embargado foi omisso quanto à aplicação da multa por litigância de má-fé, à multa prevista no art. 1.021, § 4º, do CPC e à majoração dos honorários sucumbenciais.
+III. Razões de decidir
+3. Observou-se a ocorrência de omissão no acórdão embargado a respeito dos pedidos realizados em contraminuta ao agravo interno acerca da multa por litigância de má-fé, da multa prevista no art. 1.021, § 4º, do CPC e da majoração dos honorários sucumbenciais.
+4. A aplicação de penalidade por litigância de má-fé foi afastada, pois não se configurou a utilização de recursos manifestamente protelatórios.
+5. A aplicação da multa prevista no art. 1.021, § 4º, do CPC não é cabível quando não se configura a manifesta inadmissibilidade do agravo interno.
+6. A interposição de agravo interno não inaugura instância, sendo inviável a majoração de honorários no julgamento de agravo interno e de embargos de declaração quando o recurso não ultrapassa a fase de conhecimento ou é desprovido.
+IV. Dispositivo e tese
+7. Embargos de declaração acolhidos sem efeitos infringentes. Tese de julgamento: "1. A omissão quanto aos pedidos deduzidos em contraminuta ao agravo interno justifica o acolhimento dos embargos de declaração para sanar o vício". Dispositivos relevantes citados: CPC de 2015, arts. 1.021, § 4º, e 1.022.Jurisprudência relevante citada: STJ, AgInt no AREsp n. 1.658.454/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 31/8/2020; STJ, EDcl no AgInt nos EREsp n. 1.881.207/SP, relator Ministro Ricardo Villas Bôas Cueva, Segunda Seção, julgados 29/11/2022; STJ, EDcl no AgInt no AREsp n. 437.263/MS, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgados 3/4/2018." (EDcl no AgInt no AREsp n. 2.792.711/MS, relator Ministro João Otávio de Noronha, Quarta Turma, julgado em 26/5/2025, DJEN de 2/6/2025.)
+Ante o exposto, rejeito os embargos de declaração.
+É como penso. É como voto.
