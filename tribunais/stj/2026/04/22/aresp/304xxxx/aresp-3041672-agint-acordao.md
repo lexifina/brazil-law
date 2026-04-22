@@ -1,0 +1,50 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 14/04/2026 a 22/04/2026, por unanimidade, não conhecer do recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Ricardo Villas Bôas Cueva, Moura Ribeiro, Daniela Teixeira e Nancy Andrighi votaram com o Sr. Ministro Relator.
+Presidiu o julgamento a Sra. Ministra Daniela Teixeira.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO EM AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO DA DECISÃO AGRAVADA. INCIDÊNCIA DA SÚMULA N. 182/STJ.
+1. A decisão agravada não conheceu do agravo em recurso especial em razão do óbice da Súmula n. 182/STJ, pois consignou a ausência de impugnação dos fundamentos da origem que obstou a subida do apelo nobre.
+2. O argumento utilizado na decisão recorrida para não conhecer do agravo em recurso especial não foi objeto de impugnação nas razões recursais do agravo interno.
+3. Razões do agravo interno que desatendem o princípio da dialeticidade e a previsão contida no art. 1.021, §1º, do CPC.
+Agravo interno não conhecido.
+RELATÓRIO
+O EXMO. SR. MINISTRO HUMBERTO MARTINS (relator):
+Cuida-se de agravo interno interposto por JOSÉ CARLOS PEREIRA PINTO contra decisão monocrática de minha relatoria (fls. 1226-1229) que não conheceu do agravo em recurso especial.
+Extrai-se dos autos que o recurso especial inadmitido foi interposto, com fundamento no art. 105, inciso III, alíneas "a" e "c", da Constituição Federal, contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO DE JANEIRO assim ementado (fl. 1.085):
+APELAÇÃO CÍVEL. RESPONSABILIDADE CIVIL. CIRURGIA ESTÉTICA. RESULTADO ESPERADO NÃO OBTIDO. CERCEAMENTO DE DEFESA REJEITADO 1) Demanda na qual a Autora requer a condenação do cirurgião réu em razão de resultado insatisfatório em cirurgia plástica. Prolatada sentença de procedência, insurge-se o Demandado da decisão. 2) Autora que foi submetida a abdominoplastia e lipoaspiração. Cicatrizes resultantes incompatíveis com a técnica cirúrgica. 3) Paciente de cirurgia plástica embelezadora é pessoa saudável que pretende obter uma melhora em seu aspecto estético. Obrigação do cirurgião que é certa e determinada, devendo utilizar a melhor técnica disponível para melhorar a aparência ou corrigir alguma imperfeição. Presunção de culpa do médico no caso de insucesso. 4) Resultado obtido incompatível com o esperado. Alegação de ocorrência de infecção que não restou demonstrada. 5) Mantida a condenação do Réu em ressarcir os valores despendidos assim como reparar em danos morais e estéticos. Frustração da legítima expectativa da Autora após se submeter a uma intervenção cirúrgica e todas as suas implicações, cicatrizes e cuidados pós-operatórios, sendo incontestável. Insucesso no procedimento estético que influencia negativamente na autoestima, afetando o seu estado psíquico. 6) Indenização moral em R$ 20.000,00 e indenização estética em R$ 20.000,00, que bem atende aos princípios da razoabilidade e proporcionalidade, não merecendo reforma. RECURSO DESPROVIDO.
+Rejeitados os embargos de declaração opostos (fls. 1.118-1.125).
+Em suas razões recursais (fls. 1233-1251), o agravante sustenta que não busca o reexame de provas, mas a correta valoração jurídica dos fatos, alegando violação aos arts. 14, § 4º, do CDC e 489, § 1º, III, do CPC. Argumenta que cumpriu os protocolos médicos, que a responsabilidade é subjetiva e que as complicações (infecção e necrose) decorreram de fatores alheios à sua atuação. Requer a reforma da decisão para afastar a condenação.
+A parte agravada apresentou contraminuta (fls. 1254-1257), pugnando pela manutenção da decisão recorrida e pelo não conhecimento do recurso por ausência de dialeticidade, com a consequente majoração dos honorários advocatícios.
+É, no essencial, o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO EM AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO DA DECISÃO AGRAVADA. INCIDÊNCIA DA SÚMULA N. 182/STJ.
+1. A decisão agravada não conheceu do agravo em recurso especial em razão do óbice da Súmula n. 182/STJ, pois consignou a ausência de impugnação dos fundamentos da origem que obstou a subida do apelo nobre.
+2. O argumento utilizado na decisão recorrida para não conhecer do agravo em recurso especial não foi objeto de impugnação nas razões recursais do agravo interno.
+3. Razões do agravo interno que desatendem o princípio da dialeticidade e a previsão contida no art. 1.021, §1º, do CPC.
+Agravo interno não conhecido.
+VOTO
+O EXMO. SR. MINISTRO HUMBERTO MARTINS (relator):
+A decisão agravada não conheceu do agravo em recurso especial em razão do óbice da Súmula n. 182/STJ, pois consignou a ausência de impugnação dos fundamentos da origem que obstou a subida do apelo nobre (fls. 1.228-1.229):
+Embora tempestivo e dispensado de preparo, o recurso não merece conhecimento, pois não ataca de maneira específica e adequada os fundamentos da decisão que inadmitiu o recurso especial.
+A decisão agravada firmou que a pretensão recursal exigia o revolvimento da prova pericial e dos fatos delineados pelo Tribunal de origem, que concluiu pela incompatibilidade das cicatrizes com a técnica indicada, pela existência de nexo causal e pela ausência de causa excludente apta a afastar a culpa do profissional. A leitura do agravo revela que, embora procure afastar a incidência da Súmula n. 7 do STJ sob o argumento de que pretende apenas revaloração da prova, o agravante busca, na essência, infirmar conclusões fático-probatórias assentadas com base na prova técnica produzida. A divergência instaurada não decorre de erro de direito na valoração da prova, mas da tentativa de reconstrução do próprio conteúdo pericial, o que demanda incursão na seara probatória, incompatível com a via especial. Não foram demonstrados fatos incontroversos reconhecidos no acórdão recorrido; ao contrário, há evidente esforço para repisar a tese de ausência de culpa com fundamento em interpretação própria do laudo, afastada pelas instâncias ordinárias.
+A decisão agravada registrou também que a solução dada ao alegado cerceamento de defesa está em consonância com a jurisprudência consolidada desta Corte, segundo a qual o juiz, como destinatário da prova, pode indeferir a produção de provas que considerar impertinentes, irrelevantes ou protelatórias, não configurando cerceamento de defesa o julgamento antecipado quando o feito contém elementos suficientes para a solução da controvérsia. Tal fundamento veio amparado em precedentes expressos e atraiu a aplicação das Súmulas n. 83 e 568/STJ. O agravo não rebate especificamente essa fundamentação. Limita-se a mencionar genericamente a ausência de audiência técnica, sem demonstrar dissonância jurisprudencial ou indicar violação de norma federal que exigisse a produção da prova ou evidenciasse a inadequação dos precedentes utilizados. Ausente a impugnação específica, mantém-se hígido o fundamento da decisão recorrida.
+Do mesmo modo, permanece incólume o fundamento relativo à impossibilidade de revisão do quantum indenizatório. A decisão agravada destacou que o valor não se apresenta irrisório nem exorbitante, o que impede a intervenção do STJ, cuja jurisprudência é absolutamente estável no sentido de que somente em hipóteses excepcionais é possível rever o montante arbitrado. O agravante não apresenta nenhum argumento sobre o tema, não discute a razoabilidade dos valores, tampouco indica violação de dispositivo legal ou divergência jurisprudencial. A completa ausência de impugnação específica atrai a incidência da segundo a qual não se Súmula n. 182/STJ, conhece do agravo que deixa de atacar os fundamentos da decisão que inadmitiu o recurso.
+Com efeito, o agravo interno não merece conhecimento, porquanto o fundamento utilizado na decisão recorrida para não conhecer do agravo em recurso especial - incidência da Súmula n. 182/STJ em razão da ausência de adequada impugnação - não foi objeto de impugnação nas razões recursais, as quais se limitaram a reiterar as alegações do recurso especial.
+Desse modo, forçosa é a incidência do disposto nos arts. 932, III, e 1.021, § 1º, do CPC, segundo os quais não se conhece do recurso que não ataca especificamente os fundamentos da decisão recorrida nos seguintes termos:
+Art. 932. Incumbe ao relator:
+ ..
+III - não conhecer de recurso inadmissível, prejudicado ou que não tenha impugnado especificamente os fundamentos da decisão recorrida;
+ ..
+Art. 1.021. Contra decisão proferida pelo relator caberá agravo interno para o respectivo órgão colegiado, observadas, quanto ao processamento, as regras do regimento interno do tribunal.
+§ 1º Na petição de agravo interno, o recorrente impugnará especificadamente os fundamentos da decisão agravada.
+Assim, a ausência de impugnação do fundamento para não conhecimento do agravo em recurso especial faz incidir, novamente, na espécie, por analogia, os preceitos da Súmula n. 182/STJ: "É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada".
+A propósito, confiram-se estes julgados:
+1. Nos termos do art. 1021, § 1º, do Código de Processo Civil/2015 e da Súmula 182/STJ, é inviável o agravo interno que deixa de atacar especificamente os fundamentos da decisão agravada.
+(AgInt no AREsp n. 2.723.028/SC, relatora Ministra Maria Isabel Gallotti, Quarta Turma, DJEN de 21/8/2025.)
+1. Razões do agravo interno que não impugnam especificamente o fundamento invocado na deliberação monocrática. Em razão do princípio da dialeticidade, deve a parte agravante demonstrar de modo fundamentado o desacerto da decisão agravada, nos termos do art. 1021, § 1º do CPC. Incidência da Súmula 182/STJ.
+(AgInt no AREsp n. 2.385.024/MG, relator Ministro Marco Buzzi, Quarta Turma, DJEN de 5/5/2025.)
+2. É inepta a petição de agravo interno no recurso especial que não impugna, especificamente, os fundamentos da decisão agravada.
+(AgInt no REsp n. 2.130.925/SP, relatora Ministra Nancy Andrighi, Terceira Turma, DJEN de 20/2/2025.)
+Ante o exposto, não conheço do agravo interno.
+É como penso. É como voto.
