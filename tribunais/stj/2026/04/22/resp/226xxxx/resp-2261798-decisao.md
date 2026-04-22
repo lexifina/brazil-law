@@ -1,0 +1,14 @@
+DECISÃO
+Trata-se de recurso especial interposto pelo particular, com fundamento no art. 105, III, "a", da Constituição Federal, contra acórdão do TRF4, assim ementado:
+AGRAVO DE INSTRUMENTO. CUMPRIMENTO DE SENTENÇA. SALDO COMPLEMENTAR. TEMA 810 STF. PRESCRIÇÃO DA PRETENSÃO EXECUTÓRIA. OCORRÊNCIA. PROVIDO. O prazo de prescrição da pretensão executória, nos termos da Súmula n. 150 do STF, é idêntico ao prazo de que dispõe a parte para ajuizamento da ação originária, ou seja, 5 anos. Tendo o título executivo fixado os índices para a atualização monetária a serem aplicados no cumprimento do julgado, sem nada ressalvar, a prescrição quinquenal tem início na data do trânsito em julgado da sentença ou acórdão. No caso concreto resta prescrita a pretensão executória, pois o pedido de pagamento de saldo complementar só foi formulado mais de cinco anos depois do trânsito em julgado.
+Em suas razões, o recorrente alega violação aos arts. 525, § 15, 927 e 928, todos do CPC. Sustenta, em síntese, que a concordância com os valores discutidos, seu levantamento, e a extinção da execução não geram preclusão, em razão do quanto decidido pelo STF nos temas 810 e 1170, em sede de repercussão geral.
+Sem contrarrazões, o recurso foi admitido.
+É o relatório. Decido.
+A questão controvertida nestes autos foi afetada pela Primeira Seção deste STJ à sistemática dos recursos repetitivos, sob o Tema 1.426 - recursos paradigmas REsps ns. 2.258.164/RS e 2.253.608/RS, relator o Ministro Gurgel de Faria, DJEN de 14/04/2026, com a seguinte descrição:
+Definir se há possibilidade de complementação de valores no cumprimento de sentença contra a Fazenda Pública, relativos à correção monetária, a partir do entendimento firmado pelo Supremo Tribunal Federal nos Temas 810, 1.170 e 1.361.
+Houve determinação de suspensão dos recursos especiais ou agravos em recursos especiais em segunda instância e/ou neste STJ, fundados em idêntica questão de direito.
+Encontrando-se o tema afetado à sistemática dos repetitivos, esta Corte Superior já assentou que os recursos que tratam da mesma controvérsia - como é o caso do presente - devem aguardar o julgamento do paradigma representativo no Tribunal de origem, viabilizando, assim, o juízo de conformação. Nesse sentido: AREsp n. 2.649.449, Ministro Gurgel de Faria, DJEN de 04/02/2025.
+Do exposto, prejudico a análise deste REsp e determino a devolução dos autos ao Tribunal de origem, com a respectiva baixa, para que, após a publicação do acórdão referente ao Tema 1.426/STJ, realize o juízo de adequação, conforme estabelecem os arts. 1.040 e 1.041 do CPC.
+Publique-se. Intimem-se.
+EMENTA
+RECURSO ESPECIAL. PRECATÓRIO COMPLEMENTAR. CORREÇÃO MONETÁRIA. TEMAS 810, 1170 E 1361/STF. MATÉRIA AFETADA À SISTEMATICA DOS REPETITIVOS: TEMA. 1.426/STJ (DJEN de 14/04/2026). DEVOLUÇÃO DO FEITO À ORIGEM PARA JUÍZO DE CONFORMAÇÃO, APÓS O JULGAMENTO DOS RECURSOS PARADIGMAS, COM FIXAÇÃO DE TESE VINCULANTE.
