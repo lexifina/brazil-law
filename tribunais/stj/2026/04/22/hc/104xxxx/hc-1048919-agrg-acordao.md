@@ -1,0 +1,78 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUINTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 16/04/2026 a 22/04/2026, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Maria Marluce Caldas, Reynaldo Soares da Fonseca, Ribeiro Dantas e Joel Ilan Paciornik votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Reynaldo Soares da Fonseca.
+EMENTA
+Direito processual penal. Agravo regimental. Prisão preventiva. Medidas cautelares diversas. Ausência de argumentos novos. Decisão mantida. Agravo regimental desprovido.
+I. Caso em exame
+1. Agravo regimental interposto pelo Ministério Público estadual contra decisão monocrática que concedeu a ordem para substituir a prisão preventiva imposta ao agravado por medidas cautelares diversas, previstas no art. 319 do Código de Processo Penal.
+2. O agravante sustenta a necessidade da prisão cautelar do agravado, afirmando que o juízo de primeiro grau considerou a gravidade concreta do fato e o risco para a instrução criminal, em razão de ameaças proferidas pelo agravado contra a companheira perante a autoridade policial, e requer a reconsideração da decisão ou sua submissão ao órgão colegiado.
+II. Questão em discussão
+3. Há duas questões em discussão: (i) saber se, à luz dos arts. 282 e 312 do Código de Processo Penal, estão demonstrados, com base em elementos concretos, os requisitos para a manutenção da prisão preventiva do agravado ou se se mostra suficiente a substituição por medidas cautelares diversas previstas no art. 319 do mesmo diploma; e (ii) saber se o agravo regimental apresentou argumentos novos capazes de infirmar os fundamentos da decisão que substituiu a prisão preventiva por cautelares alternativas.
+III. Razões de decidir
+4. A custódia preventiva, por sua natureza excepcional, somente se legitima quando demonstrados o fumus commissi delicti e o periculum libertatis, na forma do art. 312 do Código de Processo Penal, e quando incabível a substituição por medidas cautelares menos gravosas, nos termos do art. 282, § 6º, do mesmo diploma.
+5. Embora o juízo de origem tenha apontado a necessidade da prisão para garantia da ordem pública, não evidenciou, com base em elementos concretos, a periculosidade do agravado, a gravidade específica da conduta ou o risco de reiteração criminosa, circunstâncias que devem ser valoradas quando não demonstrada a indispensabilidade do decreto prisional.
+6. A primariedade, os bons antecedentes do agravado e a ausência de provas acerca de risco de fuga ou de obstrução da investigação revelam, em juízo de proporcionalidade, que a prisão preventiva não se mostra necessária, sendo adequadas e suficientes medidas cautelares alternativas à segregação.
+7. À luz da microrreforma processual introduzida pela Lei n. 12.403/2011 e dos princípios da excepcionalidade, da provisionalidade e da proporcionalidade, a prisão preventiva não deve ser decretada ou mantida quando as medidas previstas no art. 319 do Código de Processo Penal forem aptas ao acautelamento da ordem pública, da instrução criminal ou da aplicação da lei penal.
+8. A manutenção da prisão preventiva, quando ausentes os requisitos legais necessários, configuraria indevida antecipação de pena, motivo pelo qual se mostra possível preservar a ordem pública e a aplicação da lei penal por meio de medidas cautelares diversas.
+9. O agravo regimental não apresentou fatos novos ou teses jurídicas diversas capazes de alterar o entendimento anteriormente firmado, impondo-se a manutenção da decisão recorrida por seus próprios e jurídicos fundamentos.
+IV. Dispositivo e tese
+10. Resultado do Julgamento: Agravo regimental desprovido, mantida a decisão que substituiu a prisão preventiva por medidas cautelares diversas previstas no art. 319 do Código de Processo Penal.
+Tese de julgamento:
+1. A prisão preventiva, por sua natureza excepcional, exige demonstração concreta dos requisitos do art. 312 do Código de Processo Penal e somente se justifica quando não forem suficientes medidas cautelares diversas previstas no art. 319.
+2. A ausência de elementos concretos quanto à periculosidade, à gravidade específica da conduta e ao risco de reiteração criminosa, especialmente em favor de acusado primário e de bons antecedentes, autoriza a substituição da prisão preventiva por medidas cautelares distintas do encarceramento.
+3. O agravo regimental deve trazer argumentos novos capazes de modificar o entendimento anteriormente firmado, sob pena de manutenção da decisão recorrida por seus próprios fundamentos.
+Dispositivos relevantes citados:
+Código de Processo Penal, art. 282, incisos I e II e § 6º; Código de Processo Penal, art. 310, inciso II; Código de Processo Penal, art. 312; Código de Processo Penal, art. 316; Código de Processo Penal, art. 319; Lei n. 12.403/2011.
+Jurisprudência relevante citada:
+STJ, RHC n. 117.739/MG, Sexta Turma, rel. Min. Antonio Saldanha Palheiro, DJe 19/12/2019; STJ, AgRg no HC n. 803.633/SP, Sexta Turma, rel. Min. Laurita Vaz, DJe 28/03/2023; STJ, HC n. 663.365/PR, Sexta Turma, rel. Min. Sebastião Reis Júnior, DJe 16/08/2021; STJ, AgRg no AREsp n. 3.064.347/PR, Quinta Turma, rel. Min. Ribeiro Dantas, DJEN 24/12/2025; STJ, AgRg no HC n. 1.032.833/RJ, Sexta Turma, rel. Min. Rogerio Schietti Cruz, DJEN 23/12/2025.
+RELATÓRIO
+Trata-se de agravo regimental interposto pelo MINISTÉRIO PÚBLICO DO ESTADO DE SÃO PAULO contra decisão, às fls. 157-159, que concedeu a ordem para substituir a prisão preventiva imposta ao agravado por medidas cautelares diversas previstas no art. 319 do Código de Processo Penal.
+Nas razões do presente inconformismo, o agravante sustenta a necessidade de prisão cautelar do agravado.
+Argumenta que "foram considerados pelo juízo de primeiro grau a gravidade concreta do fato e o risco para a instrução criminal, visto que o paciente, mesmo diante da autoridade policial, proferiu ameaças contra a própria companheira" (fl. 176).
+Requer a reconsideração da decisão hostilizada, ou, em caso de entendimento diverso, a submissão ao Órgão Colegiado.
+Por manter a decisão agravada, submeto o agravo regimental à apreciação da Quinta Turma.
+É o relatório.
+EMENTA
+Direito processual penal. Agravo regimental. Prisão preventiva. Medidas cautelares diversas. Ausência de argumentos novos. Decisão mantida. Agravo regimental desprovido.
+I. Caso em exame
+1. Agravo regimental interposto pelo Ministério Público estadual contra decisão monocrática que concedeu a ordem para substituir a prisão preventiva imposta ao agravado por medidas cautelares diversas, previstas no art. 319 do Código de Processo Penal.
+2. O agravante sustenta a necessidade da prisão cautelar do agravado, afirmando que o juízo de primeiro grau considerou a gravidade concreta do fato e o risco para a instrução criminal, em razão de ameaças proferidas pelo agravado contra a companheira perante a autoridade policial, e requer a reconsideração da decisão ou sua submissão ao órgão colegiado.
+II. Questão em discussão
+3. Há duas questões em discussão: (i) saber se, à luz dos arts. 282 e 312 do Código de Processo Penal, estão demonstrados, com base em elementos concretos, os requisitos para a manutenção da prisão preventiva do agravado ou se se mostra suficiente a substituição por medidas cautelares diversas previstas no art. 319 do mesmo diploma; e (ii) saber se o agravo regimental apresentou argumentos novos capazes de infirmar os fundamentos da decisão que substituiu a prisão preventiva por cautelares alternativas.
+III. Razões de decidir
+4. A custódia preventiva, por sua natureza excepcional, somente se legitima quando demonstrados o fumus commissi delicti e o periculum libertatis, na forma do art. 312 do Código de Processo Penal, e quando incabível a substituição por medidas cautelares menos gravosas, nos termos do art. 282, § 6º, do mesmo diploma.
+5. Embora o juízo de origem tenha apontado a necessidade da prisão para garantia da ordem pública, não evidenciou, com base em elementos concretos, a periculosidade do agravado, a gravidade específica da conduta ou o risco de reiteração criminosa, circunstâncias que devem ser valoradas quando não demonstrada a indispensabilidade do decreto prisional.
+6. A primariedade, os bons antecedentes do agravado e a ausência de provas acerca de risco de fuga ou de obstrução da investigação revelam, em juízo de proporcionalidade, que a prisão preventiva não se mostra necessária, sendo adequadas e suficientes medidas cautelares alternativas à segregação.
+7. À luz da microrreforma processual introduzida pela Lei n. 12.403/2011 e dos princípios da excepcionalidade, da provisionalidade e da proporcionalidade, a prisão preventiva não deve ser decretada ou mantida quando as medidas previstas no art. 319 do Código de Processo Penal forem aptas ao acautelamento da ordem pública, da instrução criminal ou da aplicação da lei penal.
+8. A manutenção da prisão preventiva, quando ausentes os requisitos legais necessários, configuraria indevida antecipação de pena, motivo pelo qual se mostra possível preservar a ordem pública e a aplicação da lei penal por meio de medidas cautelares diversas.
+9. O agravo regimental não apresentou fatos novos ou teses jurídicas diversas capazes de alterar o entendimento anteriormente firmado, impondo-se a manutenção da decisão recorrida por seus próprios e jurídicos fundamentos.
+IV. Dispositivo e tese
+10. Resultado do Julgamento: Agravo regimental desprovido, mantida a decisão que substituiu a prisão preventiva por medidas cautelares diversas previstas no art. 319 do Código de Processo Penal.
+Tese de julgamento:
+1. A prisão preventiva, por sua natureza excepcional, exige demonstração concreta dos requisitos do art. 312 do Código de Processo Penal e somente se justifica quando não forem suficientes medidas cautelares diversas previstas no art. 319.
+2. A ausência de elementos concretos quanto à periculosidade, à gravidade específica da conduta e ao risco de reiteração criminosa, especialmente em favor de acusado primário e de bons antecedentes, autoriza a substituição da prisão preventiva por medidas cautelares distintas do encarceramento.
+3. O agravo regimental deve trazer argumentos novos capazes de modificar o entendimento anteriormente firmado, sob pena de manutenção da decisão recorrida por seus próprios fundamentos.
+Dispositivos relevantes citados:
+Código de Processo Penal, art. 282, incisos I e II e § 6º; Código de Processo Penal, art. 310, inciso II; Código de Processo Penal, art. 312; Código de Processo Penal, art. 316; Código de Processo Penal, art. 319; Lei n. 12.403/2011.
+Jurisprudência relevante citada:
+STJ, RHC n. 117.739/MG, Sexta Turma, rel. Min. Antonio Saldanha Palheiro, DJe 19/12/2019; STJ, AgRg no HC n. 803.633/SP, Sexta Turma, rel. Min. Laurita Vaz, DJe 28/03/2023; STJ, HC n. 663.365/PR, Sexta Turma, rel. Min. Sebastião Reis Júnior, DJe 16/08/2021; STJ, AgRg no AREsp n. 3.064.347/PR, Quinta Turma, rel. Min. Ribeiro Dantas, DJEN 24/12/2025; STJ, AgRg no HC n. 1.032.833/RJ, Sexta Turma, rel. Min. Rogerio Schietti Cruz, DJEN 23/12/2025.
+VOTO
+Presentes os pressupostos de admissibilidade, conheço do recurso.
+No mérito, entretanto o recurso não merece subsistir.
+Pois bem. O agravo regimental deve trazer novos argumentos capazes de alterar o entendimento anteriormente firmado, sob pena de ser mantida a decisão vergastada por seus próprios fundamentos.
+Nesse compasso, não obstante o teor das razões suscitadas no presente recurso, não vislumbro elementos hábeis a alterar a decisão. Ao contrário, os argumentos ali externados merecem ser ratificados pelo Colegiado, senão vejamos.
+A custódia prisional, como sabemos, é providência extrema que deve ser determinada quando demonstrados o fumus commissi delicti e o periculum libertatis, na forma do art. 312 do Código de Processo Penal. Em razão de seu caráter excepcional, somente deve ser imposta quando incabível a substituição por outra medida cautelar menos gravosa, conforme disposto no art. 282, § 6º, do Código de Processo Penal (RHC n. 117.739/MG, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, DJe de 19/12/2019).
+Registre-se que, conquanto o Juízo de primeiro grau tenha feito apontamentos quanto à necessidade da prisão para garantir a ordem pública, não demonstrou, suficientemente, em elementos concretos a periculosidade do agravado, a gravidade da conduta, nem o risco de reiteração criminosa. Tais circunstâncias, embora não garantam eventual direito à soltura, devem ser valoradas, quando não demonstrada a indispensabilidade do decreto prisional.
+Com efeito, a prisão não se mostra necessária, em juízo de proporcionalidade, para embasar a segregação corpórea. Ressalte-se que o agravado é primário e com bons antecedentes, não há provas acerca do risco de fuga ou obstrução da investigação e em caso de descumprimento das cautelares impostas, a prisão poderá ser novamente decretada em seu desfavor. Logo, a imposição de medidas cautelares alternativas à prisão preventiva são as mais indicadas ao caso ora em análise.
+Em hipóteses como a destes autos, esta Corte Superior tem entendido pela possibilidade de substituição da prisão preventiva por medidas diversas do encarceramento.
+Ressalte-se que:
+"Além disso, de acordo com a microrreforma processual procedida pela Lei n. 12.403/2011 e com os princípios da excepcionalidade (art. 282, § 4.º, parte final, e § 6.º, do CPP), provisionalidade (art. 316 do CPP) e proporcionalidade (arts. 282, incisos I e II, e 310, inciso II, parte final, do CPP), a prisão preventiva há de ser medida necessária e adequada aos propósitos cautelares a que serve, não devendo ser decretada ou mantida caso intervenções estatais menos invasivas à liberdade individual, enumeradas no art. 319 do CPP, mostrem-se, por si sós, suficientes ao acautelamento do processo e/ou da sociedade." (AgRg no HC n. 803.633/SP, Sexta Turma, relatora Ministra Laurita Vaz, DJe de 28/3/2023)
+Por óbvio, não se está a minimizar a gravidade da conduta imputada ao agravado, porém há que se reconhecer que, uma vez ausentes os requisitos necessários para a prisão preventiva, sua manutenção caracterizaria verdadeira antecipação de pena.
+Diante disso, considerando as peculiaridades do caso, entendo possível o resguardo da ordem pública e a garantia da aplicação da lei penal por medidas cautelares diversas, previstas no art. 319 do Código de Processo Penal. Nesse sentido, por exemplo, a jurisprudência do STJ: HC n. 663.365/PR, relator Ministro Sebastião Reis Júnior, Sexta Turma, DJe de 16/8/2021.
+Destarte, neste agravo regimental, não se aduziu qualquer argumento novo e apto a ensejar a alteração da decisão ora agravada, devendo ser mantida por seus próprios e jurídicos fundamentos.
+Nesse sentido:
+"O agravo regimental não apresenta argumentos novos ou capazes de infirmar os fundamentos da decisão agravada, que se encontra em consonância com a jurisprudência pacífica desta Corte Superior."(AgRg no AREsp n. 3.064.347/PR, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 16/12/2025, DJEN de 24/12/2025.)
+"Ausentes fatos novos ou teses jurídicas diversas, aplica-se a orientação de que o agravo regimental deve trazer novos argumentos capazes de alterar o entendimento anteriormente firmado, sob pena de manutenção da decisão pelos próprios fundamentos."(AgRg no HC n. 1.032.833/RJ, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 17/12/2025, DJEN de 23/12/2025.)
+Ante o exposto, por não vislumbrar a existência de argumentos capazes de alterar o entendimento anteriormente exposto, nego provimento ao agravo regimental.
+É o voto.
