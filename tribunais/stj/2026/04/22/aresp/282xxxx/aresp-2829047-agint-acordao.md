@@ -1,0 +1,26 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 14/04/2026 a 22/04/2026, por unanimidade, não conhecer do recurso, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Antonio Carlos Ferreira, Luís Carlos Gambogi (Desembargador Convocado do TJMG), João Otávio de Noronha e Raul Araújo votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro João Otávio de Noronha.
+EMENTA
+AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. AÇÃO DE COBRANÇA DE COTAS CONDOMINIAIS. CUMPRIMENTO DE SENTENÇA. FUNDAMENTO ÚNICO DA DECISÃO AGRAVADA (INTEMPESTIVIDADE DO RECURSO ESPECIAL). AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA. SÚMULA 182/STJ.
+1. Ausente impugnação específica ao fundamento único da decisão agravada, consistente na intempestividade do recurso especial (fls. 275-276), inviável o conhecimento do agravo interno, nos termos do art. 1.021, § 1º, do Código de Processo Civil e da Súmula 182/STJ.
+2. Agravo interno não conhecido.
+RELATÓRIO
+Trata-se de agravo interno interposto por espólio de Daldy Souza Freitas Santos e espólio de Laura Teixeira Freitas Santos contra decisão singular da lavra do Ministro Presidente do STJ que não conheceu do agravo em recurso especial por intempestividade do recurso especial, porquanto a intimação do acórdão recorrido ocorreu em 16/5/2024 e o recurso especial foi protocolado apenas em 7/6/2024, além de ter determinado a majoração de honorários, se existentes (fls. 275-276).
+Nas razões do presente agravo interno, a parte agravante sustenta, em síntese, que a decisão agravada deve ser reformada para: Sustenta a preservação da coisa julgada e a exigência de simetria entre o título executivo judicial e a liquidação, com vedação de inclusão de parcelas não contempladas no acordo homologado, e requer a extinção da execução por satisfação da obrigação (fls. 320-337). Aduz a existência de depósitos judiciais suficientes e postula a conciliação de valores para devolução de suposto excedente ao inventariante, com indicação de dados bancários (fls. 331-335). Defende a tramitação preferencial e a concessão da gratuidade de justiça, com base em normas protetivas de idosos e pessoas com deficiência (fls. 318-319 e 336-337).
+Impugnação ao agravo interno às fls. 341-349, na qual a parte agravada alega que as razões são repetitivas, genéricas e voltadas a temas de mérito, sem enfrentar o fundamento da decisão agravada; afirma a inadequação da gratuidade de justiça aos espólios e sustenta a pertinência da cobrança de cotas vincendas por se tratar de obrigação de trato sucessivo, requerendo a manutenção da decisão que negou provimento ao recurso.
+É o relatório.
+EMENTA
+AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. AÇÃO DE COBRANÇA DE COTAS CONDOMINIAIS. CUMPRIMENTO DE SENTENÇA. FUNDAMENTO ÚNICO DA DECISÃO AGRAVADA (INTEMPESTIVIDADE DO RECURSO ESPECIAL). AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA. SÚMULA 182/STJ.
+1. Ausente impugnação específica ao fundamento único da decisão agravada, consistente na intempestividade do recurso especial (fls. 275-276), inviável o conhecimento do agravo interno, nos termos do art. 1.021, § 1º, do Código de Processo Civil e da Súmula 182/STJ.
+2. Agravo interno não conhecido.
+VOTO
+De plano, verifico que o agravo interno interposto não merece ser conhecido, uma vez que a parte agravante não atacou especificamente o único fundamento da decisão agravada.
+A decisão ora agravada não conheceu do agravo em recurso especial por intempestividade do recurso especial, registrando que a parte foi intimada do acórdão recorrido em 16/5/2024 e somente interpôs o recurso especial em 7/6/2024, concluindo pela exorbitação do prazo de 15 dias úteis, com base nos arts. 994, VI; 1.003, § 5º; 1.029; e 219, caput, do Código de Processo Civil. Ainda, determinou, se cabível, a majoração dos honorários advocatícios (fls. 275-276).
+No presente agravo interno, contudo, a parte não apresentou argumentos voltados a atacar objetiva e integralmente o fundamento de intempestividade da decisão agravada, se limitando a aduzir questões de mérito relativas à coisa julgada, liquidação, depósitos judiciais, extinção da execução e gratuidade de justiça (fls. 320-337), sem qualquer contagem de prazo, indicação de causa suspensiva/interrupção, comprovação de feriado local ou demonstração concreta apta a infirmar a conclusão de intempestividade.
+Conclui-se, portanto, que as razões do agravo interno não impugnam especificamente o fundamento da decisão agravada, deixando de cumprir o dever de atacar, de forma precisa, o motivo único que conduziu ao não conhecimento do recurso.
+A absoluta falta de impugnação da decisão agravada enseja o não conhecimento do agravo interno, na linha do entendimento jurisprudencial pacífico desta Corte. Nesse sentido é o EREsp n. 1.424.404/SP (relator Ministro Luis Felipe Salomão, Corte Especial, julgado em 20/10/2021, DJe de 17/11/2021).
+Imperioso concluir, portanto, que a exigência constante do art. 1.021, § 1º, do Código de Processo Civil não foi cumprida, o que conduz à inviabilidade do agravo interno.
+Em face do exposto, não conheço do agravo interno.
+É como voto.
