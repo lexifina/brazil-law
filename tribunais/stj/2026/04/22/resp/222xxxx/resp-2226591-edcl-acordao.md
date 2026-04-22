@@ -1,0 +1,92 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 14/04/2026 a 22/04/2026, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Ricardo Villas Bôas Cueva, Moura Ribeiro, Daniela Teixeira e Nancy Andrighi votaram com o Sr. Ministro Relator.
+Presidiu o julgamento a Sra. Ministra Daniela Teixeira.
+EMENTA
+DIREITO DO CONSUMIDOR E DIREITO PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO EM RECURSO ESPECIAL. VÍCIO DO PRODUTO. TV. ART. 18 DO CDC. JULGAMENTO EXTRA PETITA. NATUREZA ESSENCIAL DO BEM. SÚMULA N. 7/STJ. AUSÊNCIA DE VÍCIOS DO ART. 1.022 DO CPC.
+1. Embargos de declaração opostos em recurso especial interposto em ação de responsabilidade civil por vício em aparelho de televisão com menos de dois anos de uso, em que se pleiteava, em síntese, a substituição do produto por outro novo e a condenação em indenizaçã o por danos materiais e morais.
+2. O acórdão embargado esclareceu, de forma clara e fundamentada, que a condenação em danos materiais em valor diverso do produto novo decorreu de interpretação lógica e sistemática do pedido de indenização formulado na inicial, mantendo-se a decisão dentro dos limites da lide e dos pedidos, em conformidade com os arts. 141 e 492 do CPC.
+3. O Tribunal de origem aplicou a disciplina do art. 18, § 1º, do CDC, ao reconhecer o dever de ressarcir os prejuízos equivalentes ao orçamento de conserto, por não ter constatado tratar-se de produto essencial nem demonstrado que a substituição das partes viciadas comprometeria a qualidade, as características ou o valor do bem, afastando, por isso, a incidência do art. 18, § 3º, do CDC.
+4. A revisão, pelo STJ, do enquadramento do aparelho de televisão como produto essencial, bem como da existência e contagem do prazo de 30 dias entre a comunicação do defeito à assistência técnica e o ajuizamento da ação, exigiria o reexame do conjunto fático-probatório dos autos, providência vedada em recurso especial pela Súmula 7/STJ. 5. Não se verifica contradição entre a fundamentação e o dispositivo do acórdão recorrido, pois a negativa do exercício da alternatividade prevista no art. 18, § 1º, do CDC decorreu justamente da conclusão de inexistência dos requisitos do § 3º, especialmente a natureza essencial do produto, questão igualmente afeta à análise probatória das circunstâncias do caso concreto.
+5. Os embargos de declaração buscam, em verdade, a modificação do mérito do julgado, sem apontar efetiva obscuridade, contradição, omissão ou erro material na decisão embargada, o que extrapola a finalidade estrita prevista no art. 1.022 do CPC, tornando a via eleita inadequada para o pretendido rejulgamento da causa.
+Embargos de declaração rejeitados.
+RELATÓRIO
+O EXMO. SR. MINISTRO HUMBERTO MARTINS (relator):
+Cuida-se de embargos de declaração opostos por RAFAEL DE AZEVEDO BORGES DA SILVA contra acórdão da Terceira Turma que, por unanimidade, conheceu em parte do recurso especial e negou-lhe provimento.
+O aresto embargado tem a seguinte ementa (fls. 300-301):
+DIREITO DO CONSUMIDOR. RECURSO ESPECIAL. INDENIZAÇÃO POR DANOS MATERIAIS E MORAIS. VÍCIO OCULTO EM APARELHO TELEVISOR. ACÓRDÃO . NÃOEXTRA PETITA OCORRÊNCIA. DANOS MORAIS. REEXAME FÁTICO- PROBATÓRIO.
+I. CASO EM EXAME
+1. Recurso especial interposto contra acórdão do Tribunal de Justiça do Estado de Mato Grosso do Sul que, em ação de indenização por danos materiais e morais, condenou a requerida ao pagamento de indenização por danos materiais, consistentes nos valores dispendidos com o conserto do produto, mas negou o pedido de indenização por danos morais.
+II. QUESTÃO EM DISCUSSÃO
+2. A questão em discussão consiste em saber se houve julgamento extra petita ao determinar o ressarcimento ao consumidor do valor referente ao conserto do produto, em vez da devolução do valor pago pelo aparelho televisor.
+III. RAZÕES DE DECIDIR
+3. O acórdão recorrido limitou-se aos lindes da controvérsia proposta pela parte autora, respeitando o princípio da congruência, ao interpretar logicamente o pedido feito pelo autor.4. Aferir se um determinado bem é de natureza essencial demanda análise fático- probatória, inviável pela presente Corte, ante o óbice oposto pela Súmula n. 7 do STJ.
+5. Não houve negativa de conserto do aparelho pela assistência técnica, não havendo violação do art. 18, § 1º, do CDC, já que não assistia à parte autora a alternatividade ali prevista.
+6. A Corte de origem é soberana na análise do pleito de indenização por danos morais, sendo seu reexame obstado pela Súmula n. 7 do STJ.
+IV. DISPOSITIVO E TESE
+Recurso especial conhecido em parte e, nessa parte, improvido.
+Sustenta a parte embargante que o acórdão reconheceu a existência de vício oculto no televisor, a exigência de pagamento de R$ 2.600,00 para o conserto, e que o vício não foi sanado. Apesar disso, concluiu que "não houve negativa de conserto do aparelho pela assistência técnica" (fl. 310), afastando a incidência do art. 18, § 1º, do Código de Defesa do Consumidor (CDC). Alega contradição lógica, pois, sendo reconhecido o vício e a exigência de pagamento para o reparo, haveria recusa de conserto gratuito nas condições legais.
+Acrescenta que decorreu o prazo legal de 30 dias entre a comunicação do defeito à assistência técnica autorizada (12/05/2023) e o ajuizamento da ação (28/06/2023), conforme registrado no acórdão ("transcurso do prazo de 30 (trinta) dias ", fl. 309), sem providências para sanar o vício.
+Aduz a ocorrência de nova contradição, visto que o acórdão reconheceu a aplicação do art. 18, § 1º, do CDC, nos seguintes termos: "Não tendo o tribunal estadual constatado que o bem em questão é de natureza essencial, aplicou à espécie a regra constante do art. 18, § 1º, do CDC, acolhendo a pretensão autoral em parte." (fl. 308). Aponta que, embora reconhecida a incidência do dispositivo que permite ao consumidor optar por alternativas legais, inclusive a restituição imediata da quantia paga (inciso II), o acórdão negou o exercício da alternatividade e determinou solução diversa, vinculada ao conserto do aparelho, rompendo a coerência entre fundamentação e dispositivo.
+Requer, ao final, o acolhimento dos embargos declaratórios, empregando efeitos modificativos, para para sanar a contradição interna e determinar a restituição integral do valor pago pelo aparelho de TV, conforme a petição inicial.
+A parte embargada, instada a manifestar-se, apresentou impugnação às fls. 326-328.
+É, no essencial, o relatório.
+EMENTA
+DIREITO DO CONSUMIDOR E DIREITO PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO EM RECURSO ESPECIAL. VÍCIO DO PRODUTO. TV. ART. 18 DO CDC. JULGAMENTO EXTRA PETITA. NATUREZA ESSENCIAL DO BEM. SÚMULA N. 7/STJ. AUSÊNCIA DE VÍCIOS DO ART. 1.022 DO CPC.
+1. Embargos de declaração opostos em recurso especial interposto em ação de responsabilidade civil por vício em aparelho de televisão com menos de dois anos de uso, em que se pleiteava, em síntese, a substituição do produto por outro novo e a condenação em indenizaçã o por danos materiais e morais.
+2. O acórdão embargado esclareceu, de forma clara e fundamentada, que a condenação em danos materiais em valor diverso do produto novo decorreu de interpretação lógica e sistemática do pedido de indenização formulado na inicial, mantendo-se a decisão dentro dos limites da lide e dos pedidos, em conformidade com os arts. 141 e 492 do CPC.
+3. O Tribunal de origem aplicou a disciplina do art. 18, § 1º, do CDC, ao reconhecer o dever de ressarcir os prejuízos equivalentes ao orçamento de conserto, por não ter constatado tratar-se de produto essencial nem demonstrado que a substituição das partes viciadas comprometeria a qualidade, as características ou o valor do bem, afastando, por isso, a incidência do art. 18, § 3º, do CDC.
+4. A revisão, pelo STJ, do enquadramento do aparelho de televisão como produto essencial, bem como da existência e contagem do prazo de 30 dias entre a comunicação do defeito à assistência técnica e o ajuizamento da ação, exigiria o reexame do conjunto fático-probatório dos autos, providência vedada em recurso especial pela Súmula 7/STJ. 5. Não se verifica contradição entre a fundamentação e o dispositivo do acórdão recorrido, pois a negativa do exercício da alternatividade prevista no art. 18, § 1º, do CDC decorreu justamente da conclusão de inexistência dos requisitos do § 3º, especialmente a natureza essencial do produto, questão igualmente afeta à análise probatória das circunstâncias do caso concreto.
+5. Os embargos de declaração buscam, em verdade, a modificação do mérito do julgado, sem apontar efetiva obscuridade, contradição, omissão ou erro material na decisão embargada, o que extrapola a finalidade estrita prevista no art. 1.022 do CPC, tornando a via eleita inadequada para o pretendido rejulgamento da causa.
+Embargos de declaração rejeitados.
+VOTO
+O EXMO. SR. MINISTRO HUMBERTO MARTINS (relator):
+Nos termos do art. 1.022 do CPC, os embargos de declaração destinam-se a corrigir erro material, esclarecer obscuridade, eliminar contradição ou suprir omissão existente na decisão embargada.
+No caso em exame, inexistem vícios no julgado.
+Com efeito, verifica-se que o acórdão embargado, de maneira clara e fundamentada, consignou que, ao analisar os fundamentos do acórdão recorrido, depreende-se que a concessão de indenização por danos materiais em valor distinto do requerido em sede inicial decorre de interpretação lógica dada ao pedido feito pelo autor.
+Não tendo o tribunal estadual constatado que o bem em questão é de natureza essencial, aplicou à espécie regra constante do art. 18, § 1º, do CDC, acolhendo a pretensão autoral em parte.
+No caso dos autos, o acórdão recorrido assim se manifestou sobre o pedido de indenização por danos materiais (fl. 173):
+Consta nos autos que o aparelho de televisão do autor, com menos de dois anos de uso, apresentou defeito, cujo valor do conserto foi orçado em R$ 2.600,00 (f. 18).
+Nesse ponto, apesar de o autor não comprovar que efetivamente realizou o conserto do aparelho, é certo que para recuperar o bem terá que dispender valores e, portanto, sofrerá prejuízos, que devem ser ressarcidos no montante do valor do orçamento realizado, de R$ 2.600,00 (dois mil e seiscentos reais).
+Em embargos de declaração, a Corte de origem também se manifestou sobre o ponto no seguinte sentido (fls. 204-206):
+Na hipótese, o embargante alega ocorrência de julgamento extra-petita, na medida em que requereu o recebimento de produto novo, ao passo que o acórdão determinou o ressarcimento do valor indicado no orçamento apresentado.
+Não verifico o vício alegado.
+O artigo 18 do Código de Defesa do Consumidor estabelece que:
+Art. 18. Os fornecedores de produtos de consumo duráveis ou não duráveis respondem solidariamente pelos vícios de qualidade ou quantidade que os tornem impróprios ou inadequados ao consumo a que se destinam ou lhes diminuam o valor, assim como por aqueles decorrentes da disparidade, com a indicações constantes do recipiente, da embalagem, rotulagem ou mensagem publicitária, respeitadas as variações decorrentes de sua natureza, podendo o consumidor exigir a substituição das partes viciadas.
+§ 1º Não sendo o vício sanado no prazo máximo de trinta dias, pode o consumidor exigir, alternativamente e à sua escolha:
+I - a substituição do produto por outro da mesma espécie, em perfeitas condições de uso;
+II - a restituição imediata da quantia paga, monetariamente atualizada, sem prejuízo de eventuais perdas e danos;
+III - o abatimento proporcional do preço.
+§ 2º Poderão as partes convencionar a redução ou ampliação do prazo previsto no parágrafo anterior, não podendo ser inferior a sete nem superior a cento e oitenta dias. Nos contratos de adesão, a cláusula de prazo deverá ser convencionada em separado, por meio de manifestação expressa do consumidor.
+§ 3º O consumidor poderá fazer uso imediato das alternativas do § 1º deste artigo sempre que, em razão da extensão do vício, a substituição das partes viciadas puder comprometer a qualidade ou características do produto, diminuir-lhe o valor ou se tratar de produto essencial.
+Da leitura do §1º do artigo 18, vê-se que, primeiramente, o fornecedor deverá sanar o vício, no prazo de 30 dias e, apenas no caso de o vício não ser sanado no prazo estabelecido pelo fornecedor, o consumidor poderá exigir as opções previstas nos incisos.
+Além disso, apesar do embargante invocar, na hipótese, a aplicação do §3º do artigo 18, do CDC, ao afirmar que "o conserto de aparelho de alto valor agregado que, com menos de 2 anos de uso apresentou defeito de grande extensão e monta, requerendo a troca da tela inteira ao custo de 60% do valor pago na TV nova" (f. 03), o autor não trouxe comprovação de que com a troca das peças defeituosas haveria o comprometimento da qualidade do produto ou a diminuição de seu valor.
+Ainda, ressalta-se que o aparelho televisão, pela sua natureza não se enquadra no critério de "produto essencial".
+Portanto, não preenchidos os requisitos previstos no §3º, do artigo 18 do CDC, aplica-se a regra, prevista no §1º do referido dispositivo normativo.
+Portanto, como concluiu a decisão embargada, o acórdão recorrido, no que diz respeito aos arts. 141, 492 e 1.022 do CPC, limitou-se aos lindes da controvérsia proposta pela parte autora, bem como aos pedidos firmados por ela em sede inaugural, assim respeitado o princípio da congruência e o entendimento jurisprudencial esposado por esta Corte, tendo sido examinados todos os pontos objeto de embargos de declaração pela parte autora, ora recorrente.
+Ademais, tal como pontuado no acórdão embargado, aferir se um determinado bem é de natureza essencial ou afastar as peculiaridades aferidas pela Corte de origem, demanda a análise fático-probatória, inviável pela presente Corte, ante o óbice oposto pela Súmula n. 7 do STJ.
+Nesse sentido:
+DIREITO DO CONSUMIDOR. RECURSO ESPECIAL. VÍCIO DO PRODUTO. REPARO SUPERIOR A 30 DIAS. SUBSTITUIÇÃO DO BEM. REEXAME DE FATOS E PROVAS. SÚMULA N. 7/STJ. RECURSO NÃO CONHECIDO.
+1. Recurso especial interposto contra acórdão do Tribunal de Justiça do Estado de Minas Gerais que negou provimento à apelação em ação de obrigação de fazer, na qual se pleiteava a substituição de veículo por outro da mesma espécie, em razão de vício no produto não sanado no prazo de 30 dias, conforme art. 18, § 1º, do Código de Defesa do Consumidor (CDC).
+2. A questão em discussão consiste em saber se o consumidor tem direito potestativo à substituição do produto por outro da mesma espécie, nos termos do art. 18, § 1º, do CDC, quando o vício não é sanado no prazo de 30 dias, independentemente das peculiaridades do caso concreto.
+3. O Tribunal local considerou que, embora o reparo tenha ultrapassado o prazo de 30 dias, as peculiaridades do caso concreto, como o tempo de uso do veículo (quase quatro anos), a elevada quilometragem (56.793 km) e a efetividade do reparo, afastam a necessidade de substituição do bem ou restituição do preço.
+4. A revisão do entendimento do Tribunal de origem demandaria o reexame do conjunto fático-probatório, o que encontra óbice na Súmula 7 do STJ.
+5. A incidência do óbice da Súmula 7/STJ impede o conhecimento do recurso especial pela alínea "a" do permissivo constitucional, o que também inviabiliza o conhecimento pela alínea "c", em razão da ausência de cotejo analítico entre os julgados.
+6. Recurso especial não conhecido.
+(REsp n. 2.086.840/MG, relator Ministro Raul Araújo, Quarta Turma, julgado em 17/11/2025, DJEN de 25/11/2025.)
+Quanto à alegação de que decorreu o prazo legal de 30 dias entre a comunicação do defeito à assistência técnica autorizada (12/05/2023) e o ajuizamento da ação (28/06/2023), sem providências para sanar o vício, também não cabe esta análise ao STJ, sob pena de violar o teor da Súmula 7/STJ.
+Por fim, quanto à alegação da segunda contradição, o embargante sustenta que o acórdão negou o exercício da alternatividade e determinou solução diversa, vinculada ao conserto do aparelho, rompendo a coerência entre fundamentação e dispositivo.
+Contudo, observa-se que o acórdão, de forma fundamentada, aplicou o § 3º do art. 18 do CDC, segundo o qual: O consumidor poderá fazer uso imediato das alternativas do § 1º deste artigo sempre que, em razão da extensão do vício, a substituição das partes viciadas puder comprometer a qualidade ou características do produto, diminuir-lhe o valor ou se tratar de produto essencial.
+Como visto, não houve mera negativa da alternatividade, pois o Tribunal entendeu pelo não cumprimento de um dos requisitos para requerer a substituição do bem; e verificar a natureza essencial do produto demanda análise das provas dos autos.
+Assim, não se verifica contradição entre a fundamentação e o dispositivo do acórdão recorrido, pois a negativa do exercício da alternatividade prevista no art. 18, § 1º, do CDC decorreu justamente da conclusão de inexistência dos requisitos do § 3º, especialmente a natureza essencial do produto, questão igualmente afeta à análise probatória das circunstâncias do caso concreto.
+Observa-se, portanto, a pretensão do embargante na modificação do julgado. Todavia, os embargos de declaração não são a via adequada para se buscar o rejulgamento da causa.
+A propósito, cito:
+EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO RECURSO ESPECIAL. PROCESSUAL CIVIL. ERRO MATERIAL. OCORRÊNCIA. CORREÇÃO. EFEITOS INTEGRATIVO E MODIFICATIVO. EMBARGOS DE DECLARAÇÃO ACOLHIDOS.
+1. Os embargos de declaração têm como objetivo sanar eventual existência de obscuridade, contradição, omissão ou erro material (CPC/2015, art. 1.022).
+2. No caso, os presentes aclaratórios merecem acolhimento, para sanar erro material verificado.
+3. Embargos de declaração acolhidos, com efeitos integrativo e modificativo.
+(EDcl no AgInt no REsp n. 2.122.639/PR, relator Ministro Raul Araújo, Quarta Turma, julgado em 9/9/2024, DJe de 13/9/2024.)
+No mesmo sentido, cito: EDcl no AgInt no AREsp n. 1.896.238/RJ, relator Ministro Herman Benjamin, Segunda Turma, DJe de 25/3/2022; EDcl no AgInt no AREsp n. 1.880.896/RJ, relator Ministro Mauro Campbell Marques, Segunda Turma, DJe de 26/5/2022.
+Portanto, é evidente que os presentes embargos são incabíveis, pois veiculam pretensão exclusivamente infringente do julgado, sem o propósito específico de sanar obscuridade, contradição, omissão ou erro material.
+Ante o exposto, rejeito os embargos de declaração.
+É como penso. É como voto.
