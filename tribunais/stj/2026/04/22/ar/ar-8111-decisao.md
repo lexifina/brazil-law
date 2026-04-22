@@ -1,0 +1,24 @@
+DECISÃO
+Cuida-se de Ação Rescisória ajuizada por MARIA BERNARDETE GUEDES apontando como rescindendo o seguinte acórdão proferido pela Quarta Turma:
+RECURSO ESPECIAL. PETIÇÃO DE HERANÇA. PRESCRIÇÃO DA PRETENSÃO DE RECONHECIMENTO DE DIREITOS HEREDITÁRIOS. TERMO INICIAL. ABERTURA DA SUCESSÃO. TEMA 1200. PRESCRIÇÃO VERIFICADA. RECURSO PROVIDO.
+1. "O prazo prescricional para propor ação de petição de herança conta-se da abertura da sucessão, cuja fluência não é impedida, suspensa ou interrompida pelo ajuizamento de ação de reconhecimento de filiação, independentemente do seu trânsito em julgado" (REsp n. 2.029.809/MG, relator Ministro Marco Aurélio Bellizze, Segunda Seção, julgado em 22/5/2024, DJe de 28/5/2024).
+2. Recurso especial a que se dá provimento.
+Afirma, em suma, a presença de vícios rescisórios que autorizariam o superamento excepcional da coisa julgada formada na demanda originária havida entre as partes, nos termos dos artigos 966 a 975 do Código de Processo Civil.
+Postula a desconstituição da coisa julgada, com base no artigo 966 do Código de Processo Civil.
+É o relatório.
+DECIDO.
+A ação rescisória constitui instrumento processual de natureza excepcional, previsto nos artigos 966 a 975 do Código de Processo Civil, destinado a desconstituir decisão judicial transitada em julgado quando presente vício grave que comprometa a higidez do pronunciamento jurisdicional.
+O fundamento da ação rescisória reside na necessidade de compatibilizar dois valores fundamentais do sistema processual: a segurança jurídica, representada pela estabilidade da coisa julgada, e a justiça das decisões judiciais.
+Trata-se de medida de caráter constitutivo negativo, que visa expurgar do ordenamento jurídico decisão maculada por defeito substancial, preservando, assim, a integridade do sistema jurisdicional.
+O manejo da ação rescisória subordina-se ao atendimento de pressupostos específicos de admissibilidade, rigorosamente estabelecidos pelo legislador para evitar a banalização do instituto.
+Exige-se, primeiramente, a existência de decisão de mérito transitada em julgado, uma vez que somente após o esgotamento das vias recursais ordinárias é que se justifica o manejo deste instrumento excepcional. Em segundo lugar, deve estar presente uma das hipóteses taxativamente previstas no artigo 966 do Código de Processo Civil, não sendo admitida interpretação extensiva ou analogia.
+O terceiro pressuposto refere-se à observância do prazo decadencial de dois anos, contados do trânsito em julgado da última decisão proferida no processo. Por fim, não pode haver coisa julgada secundum eventum litis, ou seja, a questão objeto da rescisória não pode ter sido decidida por sentença que também já transitou em julgado.
+Em todas as hipóteses, há de se ter em vista que, presente a excepcionalidade de seu manejo, "A Ação Rescisória não pode ser utilizada como sucedâneo recursal não interposto em momento adequado, tampouco se destina a corrigir eventual injustiça do julgado." (AR 5547 SC 2015/0014133-5, Relator.: Ministro HERMAN BENJAMIN, Data de Julgamento: 28/02/2024, PRIMEIRA SEÇÃO, Data de Publicação: DJe 06/05/2024)
+A competência para processar e julgar ação rescisória é do tribunal que proferiu a decisão rescindenda, conforme estabelece o artigo 968 do Código de Processo Civil. Cuida-se de regra de competência funcional visa assegurar que o julgamento da ação rescisória seja realizado por órgão jurisdicional de maior hierarquia em relação àquele que proferiu a decisão impugnada, conferindo maior legitimidade ao controle da higidez dos pronunciamentos judiciais.
+Nesse sentido, este Superior Tribunal de Justiça tem afirmado de maneira reiterada que "A teor da orientação pacífica desta eg. Segunda Seção, este STJ não detém competência para a apreciação de ação rescisória quando inexistente pronunciamento a respeito do mérito da demanda rescindenda, requisito inafastável para o devido manejo da referida pretensão." (AgInt na AR n. 6.422/DF, relator Ministro Marco Buzzi, Segunda Seção, julgado em 8/3/2023, DJe de 13/3/2023.)
+No presente feito, observa-se que a parte autora aponta violação manifesta ao art. 996, V do CPC, assim como erro de fato.
+Aduz, em suma, que houve vedação à pretensão de reconhecimento de filiação e que o prazo prescricional foi contado de maneira equivocada com relação à genitora.
+Todavia, observa-se do dispositivo do acórdão rescindendo que o colegiado limitou-se a "reconhecer a prescrição da pretensão de reconhecimento de direitos hereditários da ora recorrida em relação a Edgar Guedes da Silva."
+Ou seja, inexistiu vedação ao reconhecimento de filiação e, tampouco, declarou-se a prescrição da pretensão voltada à sucessão patrimonial da genitora.
+Ante o exposto, com fulcro no art. 34, XVIII, "a" do RISTJ, constatado o não preenchimento dos requisitos legais, declaro extinta sem resolução de mérito a presente ação.
+EMENTA
