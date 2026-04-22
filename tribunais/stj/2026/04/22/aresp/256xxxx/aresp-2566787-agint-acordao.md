@@ -1,0 +1,73 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 14/04/2026 a 22/04/2026, por unanimidade, dar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Luís Carlos Gambogi (Desembargador Convocado do TJMG), João Otávio de Noronha, Raul Araújo e Maria Isabel Gallotti votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro João Otávio de Noronha.
+EMENTA
+DIREITO PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DECISÃO DA PRESIDÊNCIA. RECONSIDERAÇÃO. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA. PROVA. INDEFERIMENTO. CERCEAMENTO. AUSÊNCIA. ATO NORMATIVO INFRALEGAL. ANÁLISE. IMPOSSIBILIDADE. DISPOSITIVO LEGAL. FALTA DE CARGA NORMATIVA. SÚMULA N. 284/STF. AGRAVO INTERNO PROVIDO. AGRAVO EM RECURSO ESPECIAL CONHECIDO E NÃO PROVIDO.
+I. Caso em exame
+1. Agravo interno interposto contra decisão da Presidência do STJ que não conheceu do recurso.
+II. Razões de decidir
+2. Não se aplica o óbice utilizado pela Presidência. Novo exame do recurso.
+3. Inexiste afronta aos arts. 489 e 1.022 do CPC quando a Corte local pronunciou-se, de forma clara e suficiente, acerca das questões suscitadas, manifestando-se sobre todos os argumentos que, em tese, poderiam infirmar a conclusão adotada pelo Juízo.
+4. "O juiz é o destinatário das provas e pode indeferir, fundamentadamente, aquelas que considerar desnecessárias, nos termos do princípio do livre convencimento motivado, não configurando cerceamento de defesa o julgamento da causa sem a produção da prova solicitada pela parte, quando devidamente demonstradas a instrução do feito e a presença de dados suficientes à formação do convencimento" (AgInt no AREsp n. 2.368.822/SP, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 2/9/2024, DJe de 4/9/2024).
+5. No âmbito restrito do recurso especial, não se permite a análise de alegação de ofensa a resolução, portaria, instrução normativa ou outros atos que não se caracterizem como lei federal, conforme estabelecido no art. 105, III, "a", da Constituição Federal.
+6. Considera-se deficiente, a teor da Súmula n. 284/STF, a fundamentação recursal que alega violação de dispositivos legais cujo conteúdo jurídico não tem alcance normativo para amparar a tese defendida no recurso especial.
+III. Dispositivo
+7. Agravo Interno provido para reconsiderar a decisão da Presidência do STJ e, em novo exame, negar provimento ao agravo em recurso especial.
+RELATÓRIO
+Trata-se de agravo interno interposto contra decisão da Presidência do STJ, que não conheceu do agravo em recurso especial (fls. 1.475-1.477).
+Em suas razões (fls. 1.481-1.497), a parte agravante alega que impugnou especificamente todos os fundamentos da decisão que inadmitiu o recurso especial na origem, em especial o óbice da Súmula n. 7/STJ. Sustenta que a controvérsia veicula matéria eminentemente jurídica, consistente na violação de lei federal que independe do reexame fático-probatório.
+Ao final, pede a reconsideração da decisão ou a apreciação do agravo pelo Colegiado.
+A parte agravada apresentou impugnação (fls. 1.504-1.525), requerendo a aplicação da multa prevista no art. 1.021, § 4º, do CPC.
+É o relatório.
+EMENTA
+DIREITO PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DECISÃO DA PRESIDÊNCIA. RECONSIDERAÇÃO. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA. PROVA. INDEFERIMENTO. CERCEAMENTO. AUSÊNCIA. ATO NORMATIVO INFRALEGAL. ANÁLISE. IMPOSSIBILIDADE. DISPOSITIVO LEGAL. FALTA DE CARGA NORMATIVA. SÚMULA N. 284/STF. AGRAVO INTERNO PROVIDO. AGRAVO EM RECURSO ESPECIAL CONHECIDO E NÃO PROVIDO.
+I. Caso em exame
+1. Agravo interno interposto contra decisão da Presidência do STJ que não conheceu do recurso.
+II. Razões de decidir
+2. Não se aplica o óbice utilizado pela Presidência. Novo exame do recurso.
+3. Inexiste afronta aos arts. 489 e 1.022 do CPC quando a Corte local pronunciou-se, de forma clara e suficiente, acerca das questões suscitadas, manifestando-se sobre todos os argumentos que, em tese, poderiam infirmar a conclusão adotada pelo Juízo.
+4. "O juiz é o destinatário das provas e pode indeferir, fundamentadamente, aquelas que considerar desnecessárias, nos termos do princípio do livre convencimento motivado, não configurando cerceamento de defesa o julgamento da causa sem a produção da prova solicitada pela parte, quando devidamente demonstradas a instrução do feito e a presença de dados suficientes à formação do convencimento" (AgInt no AREsp n. 2.368.822/SP, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 2/9/2024, DJe de 4/9/2024).
+5. No âmbito restrito do recurso especial, não se permite a análise de alegação de ofensa a resolução, portaria, instrução normativa ou outros atos que não se caracterizem como lei federal, conforme estabelecido no art. 105, III, "a", da Constituição Federal.
+6. Considera-se deficiente, a teor da Súmula n. 284/STF, a fundamentação recursal que alega violação de dispositivos legais cujo conteúdo jurídico não tem alcance normativo para amparar a tese defendida no recurso especial.
+III. Dispositivo
+7. Agravo Interno provido para reconsiderar a decisão da Presidência do STJ e, em novo exame, negar provimento ao agravo em recurso especial.
+VOTO
+Assiste razão à parte recorrente, motivo pelo qual reconsidero a decisão da Presidência e passo a novo exame do agravo em recurso especial.
+O acórdão recorrido está assim ementado (fl. 1.300):
+RESPONSABILIDADE CIVIL - Ação de obrigação de fazer e indenização por danos morais - Autora, fabricante de esquadrias de alumínio, que teve seu nome relacionado em relatório setorial elaborado pela ré como empresa "não conforme", no que se refere à qualidade de seus produtos - Pedido em sede de tutela cautelar antecedente para exclusão do seu nome do relatório como "não conforme" acolhido e confirmado em julgamento de agravo de instrumento - Sentença de parcial procedência para o fim de confirmar a tutela e condenar a ré a pagamento de indenização por danos morais no valor de R$ 25.000,00 - Inconformismo da ré - Não acolhimento - Apuração sobre a veracidade ou não das informações divulgadas sobre os produtos fabricados pela autora que não se insere no objeto da demanda, não sendo necessária a realização de perícia - Controvérsia atinente à conduta indevida da ré de realizar estudos sobre a qualidade dos produtos da autora, que não é sua associada, sem sua participação, e de divulgar o resultado sem a sua prévia ciência e oportunidade para refutar a conclusão obtida - Atuação que feriu a imagem mercadológica da ré, surpreendida com a divulgação do relatório desqualificando-a - Danos morais configurados - Adequada fixação da indenização na quantia de R$ 25.000,00 - Precedente deste E. Tribunal de Justiça em caso análogo envolvendo a mesma requerida - Apelo desprovido.
+Os embargos de declaração foram rejeitados (fls. 1.332-1.336).
+Nas razões do recurso especial (fls. 1.338-1.368), fundamentado no art. 105, III, "a", da CF, a parte recorrente apontou ofensa aos seguintes dispositivos legais:
+(i) arts. 489, II, e § 1º, IV, e 1.022, I e II, do CPC, por negativa de prestação jurisdicional e existência de omissões e contradições não sanadas,
+(ii) arts. 7º, 355, I, 369 e 373, I, do CPC, sustentando a configuração de cerceamento de defesa decorrente do julgamento antecipado da lide e indeferimento de produção de prova pericial, que reputava essencial para atestar a veracidade das informações divulgadas,
+(iii) arts. 4º, 5º, 6º, 18, § 6º, II, e 39, VIII, do CDC, ao argumento de que a conduta de realizar testes e publicar os resultados visava garantir a segurança e a informação do consumidor, em conformidade com as regras do Programa Setorial de Qualidade.
+O recurso especial não foi admitido na origem em virtude de ausência de ofensa aos arts. 489 e 1.022 do CPC, incidência da Súmula n. 7/STJ e ausência de ofensa aos demais dispositivos legais indicados (fls. 1.416-1.418).
+No agravo (fls. 1.421-1.443), afirma a presença dos requisitos de admissibilidade do especial e impugna as razões de inadmissibilidade.
+Contraminuta apresentada (fls. 1.446-1.466).
+Examino as alegações.
+A Corte local pronunciou-se, de forma clara e suficiente, acerca das questões suscitadas nos autos, manifestando-se sobre todos os argumentos que, em tese, poderiam infirmar a conclusão adotada pelo Juízo. Desse modo, não há falar em negativa de prestação jurisdicional, vício de fundamentação ou violação dos arts. 489 e 1.022 do CPC.
+O Tribunal de origem enfrentou detidamente a tese de que o ato da agravante foi ilícito, esclarecendo que o cerne da questão não era a qualidade do produto em si, mas a divulgação de relatório apontando "não conformidade", sem propiciar prévio contraditório ou oportunidade de participação nos estudos à empresa não associada, causando-lhe danos à imagem. Assim, não se constatam os vícios alegados.
+Quanto ao cerceamento pelo indeferimento da prova, a Justiça local decidiu de acordo com a jurisprudência desta Corte, que entende que o juiz pode indeferir, desde que fundamentadamente, aquelas consideradas desnecessárias ou protelatórias.
+A esse respeito:
+PROCESSO CIVIL, AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. OMISSÃO. INEXISTÊNCIA. REEXAME DE PROVAS. SÚMULA N. 7/STJ. CERCEAMENTO DE DEFESA. AUSÊNCIA.
+ ..
+3. O juiz é o destinatário das provas e pode indeferir, fundamentadamente, aquelas que considerar desnecessárias, nos termos do princípio do livre convencimento motivado, não configurando cerceamento de defesa o julgamento da causa sem a produção da prova solicitada pela parte, quando devidamente demonstradas a instrução do feito e a presença de dados suficientes à formação do convencimento.  .. .
+4. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 2.368.822/SP, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 2/9/2024, DJe de 4/9/2024.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. VIOLAÇÃO DE NORMA REGIMENTAL DE TRIBUNAL LOCAL. IMPOSSIBILIDADE DE ANÁLISE NO ÂMBITO DO RECURSO ESPECIAL. SÚMULA 399/STF. CERCEAMENTO DE DEFESA. MAGISTRADO COMO DESTINATÁRIO FINAL DO ACERVO PROBATÓRIO. SÚMULA 83/STJ. REVISÃO. IMPOSSIBILIDADE. SÚMULA 7/STJ. AGRAVO INTERNO DESPROVIDO.
+ ..
+2. O magistrado é o destinatário final das provas, competindo a ele indeferir a produção daquelas consideradas desnecessárias ou protelatórias, não havendo se falar em cerceamento de defesa.
+3. Agravo interno desprovido. (AgInt no AREsp n. 1.984.819/RJ, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 9/5/2022, DJe de 11/5/2022.)
+No caso concreto, o Tribunal de origem expressamente consignou que "não há justificativa para anulação da r. sentença ou conversão do julgamento em diligência para análise dos produtos classificados como "não conformes" porque este não é o objeto da lide" (fl. 1.308). A Corte destacou que a controvérsia residia unicamente na conduta indevida de divulgar resultados depreciativos sem a prévia ciência e sem conferir à parte a oportunidade de contraprova.
+No que diz respeito à alegação de ofensa aos arts. 4º, 5º, 6º, 18, § 6º, II, e 39, VIII, do CDC, e o argumento de que a conduta seria lícita e pautada no interesse do consumidor e em normativas vigentes, a Corte local assim se manifestou (fls. 1.306-1.309):
+Nesse cenário, não poderia a ré elaborar estudos, sobretudo de produtos de empresas não filiadas, tal como a autora, para qualificá-las negativamente sem dar-lhes oportunidade de participação nas análises realizadas.
+Em caso análogo, referente à demanda movida por outra fabricante, cujo nome foi incluído em relatório setorial, destacou este Egrégio Tribunal de Justiça, em v. acórdão de relatoria do Ilustre Desembargador Emerson Sumariva Júnior, que: " ..  Ainda que a ré tenha atestado que os produtos analisados sejam de má qualidade, o cerne da questão no presente feito é a divulgação do resultado sem que fosse dado qualquer chance à autora para um possível contraprova. Determinar uma perícia judicial neste momento mostra-se algo desnecessário, posto que a divulgação do resultado já foi feita, causando consequências à empresa autora.  .. "
+ ..
+Neste contexto, a divulgação do resultado dos estudos sem que à autora fosse dada qualquer oportunidade de contraprova ou esclarecimento é suficiente para revelar a conduta indevida da requerida, não lhe sendo legítimo divulgar resultados depreciativos, aptos a ferir sua imagem mercadológica, sem a oportunidade para acompanhamento dos testes e direito ao contraditório e contraprova.
+Verifica-se, sobretudo, que não foi dada ciência sobre os resultados referentes à não conformidade, conforme previsto, inclusive, no Regimento Geral do Sistema de Qualificação de Empresas e Materiais (SiMac)  .. .
+Há, no caso, portanto, correta aplicação dos efeitos horizontais do contraditório, cuja observância se impõe, já que era necessária a ciência da autora dos resultados dos testes antes de sua divulgação.
+Assim, observando-se que, em nenhum momento a requerente foi informada dos estudos sobre a qualidade de seus produtos e chamada a deles participar, bem como, principalmente, não foi nem sequer informada dos resultados antes da divulgação para que pudesse contestá-los, revela-se legítima a pretensão de exclusão do seu nome do mencionado relatório setorial na qualidade de "não conforme".
+Para afastar o entendimento das instâncias originárias a respeito da ilicitude da conduta pela inobservância do contraditório prévio, e acolher a tese de que a divulgação estava estritamente autorizada pelas normas técnicas e pelos preceitos de proteção ao consumidor, de forma a excluir o dever de indenizar, seria imprescindível a análise de normas regulamentares (SiMaC/Portarias), atos que não se caracterizam como lei federal, conforme estabelecido no art. 105, III, "a", da Constituição Federal.
+Ademais, considera-se deficiente, a teor da Súmula n. 284/STF, a fundamentação recursal que alega violação de dispositivos legais cujo conteúdo jurídico não tem alcance normativo para amparar a tese defendida no recurso especial. Na hipótese, nenhum dos artigos citados possui carga normativa suficiente para afastar o dever de observância do contraditório horizontal, utilizando pelo Tribunal de origem como argumento central para sustentar a pretensão indenizatória formulada.
+Ante o exposto, DOU PROVIMENTO ao agravo interno para reconsiderar a decisão da Presidência desta Corte (fls. 1.475-1.477) e, em novo exame, CONHEÇO do agravo em recurso especial e NEGO-LHE PROVIMENTO.
+É como voto.
