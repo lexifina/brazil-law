@@ -1,0 +1,31 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 14/04/2026 a 22/04/2026, por unanimidade, não conhecer do recurso, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Antonio Carlos Ferreira, Luís Carlos Gambogi (Desembargador Convocado do TJMG), João Otávio de Noronha e Raul Araújo votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro João Otávio de Noronha.
+EMENTA
+AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. CUMPRIMENTO DE SENTENÇA. REINTEGRAÇÃO DE POSSE. FUNDAMENTOS DA DECISÃO AGRAVADA. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA.
+1. Nos termos do art. 1021, § 1º, do Código de Processo Civil, é inviável o agravo interno que deixa de atacar especificamente os fundamentos da decisão agravada.
+2. Agravo interno não conhecido.
+RELATÓRIO
+Trata-se de agravo interno interposto por VALMOR BROLIM contra decisão singular da lavra da Ministra Presidente do Superior Tribunal de Justiça que conheceu do agravo para não conhecer do recurso especial, ante a incidência da Súmula 7/STJ, com prejuízo da análise do dissídio jurisprudencial, nos termos do art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça (fls. 5085-5088).
+Nas razões do presente agravo interno, a parte agravante sustenta a inaplicabilidade da Súmula 7/STJ, afirmando que se cuida de cumprimento de sentença fundado em coisa julgada material, com pretensão eminentemente jurídica de imissão na posse, sem necessidade de reexame probatório (fls. 5095-5099). Aduz que há pendência de julgamento de agravo de instrumento na origem, defendendo a precedência desse julgamento nos termos do art. 946 do Código de Processo Civil, e invoca afronta aos arts. 337, § 4º, 502 e 538 do Código de Processo Civil (fls. 5104-5119). Argumenta, ainda, o exercício de composse sobre a área da Fazenda Gislaine II e a necessidade de reintegração de posse com base no título judicial (fls. 5096-5119).
+Impugnação ao agravo interno às fls. 5126-5184, pelo espólio de Evandro Alberto de Oliveira Bonini, na qual o agravado defende a manutenção da decisão agravada, enfatizando a incidência da Súmula 7/STJ e apontando a ausência de prequestionamento das normas federais indicadas, além de ressaltar as premissas fáticas firmadas pelo acórdão estadual quanto à sucumbência do exequente, inexistência de título executivo e impossibilidade de inverter o comando sentencial na fase executiva.
+Foi certificado o decurso de prazo quanto à resposta de PLÁCIDO BROLIM (fl. 5185).
+É o relatório.
+EMENTA
+AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. CUMPRIMENTO DE SENTENÇA. REINTEGRAÇÃO DE POSSE. FUNDAMENTOS DA DECISÃO AGRAVADA. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA.
+1. Nos termos do art. 1021, § 1º, do Código de Processo Civil, é inviável o agravo interno que deixa de atacar especificamente os fundamentos da decisão agravada.
+2. Agravo interno não conhecido.
+VOTO
+De plano, verifico que o agravo interno interposto não merece ser conhecido, uma vez que a parte agravante não atacou devidamente a decisão agravada.
+A decisão ora agravada conheceu do agravo para não conhecer do recurso especial, por aplicar a Súmula 7/STJ, destacando que a reforma do acórdão estadual - que apontou a sucumbência do exequente, a ausência de título executivo apto a amparar cumprimento de sentença e a tentativa de inversão do comando sentencial transitado em julgado - demandaria reexame do quadro fático-probatório, o que também prejudicaria a apreciação do dissídio jurisprudencial (fls. 5085-5088).
+No presente agravo interno, contudo, a parte não apresentou argumentos voltados a impugnar objetiva e integralmente o capítulo único da decisão agravada, limitando-se a aduzir, de forma genérica, a inaplicabilidade da Súmula 7/STJ por suposta natureza exclusivamente jurídica da controvérsia (cumprimento de sentença, coisa julgada e imissão na posse), além de inserir questões estranhas ao fundamento da decisão - como precedência de julgamento de agravo de instrumento na origem - sem enfrentar as premissas fáticas firmadas no acórdão recorrido e expressamente transcritas na decisão agravada, referentes a sucumbência na fase de conhecimento, inexistência de título executivo para amparar a execução e necessidade de ação própria para eventual discussão possessória (fls. 4740-4742 e 5085-5088).
+O agravo interno impugnou apenas de modo genérico o óbice aplicado, sem enfrentar de forma objetiva e suficiente as premissas fáticas apontadas na decisão agravada que o justificaram (necessidade de revisão das conclusões do acórdão estadual quanto à sucumbência, ausência de título executivo e indevida inversão do comando sentencial).
+Ademais, não houve ataque específico ao fundamento de prejuízo da análise do dissídio jurisprudencial em razão da incidência da Súmula 7/STJ.
+Conclui-se, portanto, que as razões do agravo interno não impugnam especificamente os fundamentos da decisão agravada, pois não demonstram, com objetividade, a possibilidade de afastamento do óbice, nem infirmam as premissas fáticas adotadas, o que atrai a aplicação da orientação jurisprudencial desta Corte quanto à exigência de impugnação específica dos fundamentos da decisão agravada para o conhecimento do agravo interno.
+Nesse sentido, a Corte Especial firmou que a ausência de ataque específico aos fundamentos da decisão agravada obsta o conhecimento do agravo, na linha do entendimento pacífico desta Casa (Embargos de Divergência em Recurso Especial n. 1.424.404/SP, relator Ministro Luis Felipe Salomão, Corte Especial, julgado em 20/10/2021, DJe de 17/11/2021).
+Mesmo que assim não fosse, não haveria como ser afastado o óbice reconhecido.
+O acolhimento das teses do agravante exigiria a revisão das premissas fáticas fixadas pelo Tribunal de origem  sucumbência na fase de conhecimento, inexistência de título executivo apto ao cumprimento e tentativa de inversão do comando sentencial  expressamente destacadas no acórdão estadual (fls. 4740-4742) e reafirmadas na decisão agravada (fls. 5085-5088).
+Diante disso, permanece incólume o fundamento de inadmissibilidade calcado na Súmula 7/STJ, com prejuízo da análise do dissídio .
+Em face do exposto, não conheço do agravo interno.
+É como voto.
