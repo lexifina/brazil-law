@@ -1,0 +1,34 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 14/04/2026 a 22/04/2026, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Ricardo Villas Bôas Cueva, Moura Ribeiro, Daniela Teixeira e Nancy Andrighi votaram com o Sr. Ministro Relator.
+Presidiu o julgamento a Sra. Ministra Daniela Teixeira.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO DE REGRESSO. ALEGADO PAGAMENTO DE DÍVIDA ALHEIA. VIOLAÇÃO DO ART. 880 DO CC. NECESSIDADE DE REEXAME DE PROVAS E DE INTERPRETAÇÃO DE CLÁUSULAS CONTRATUAIS. SÚMULAS 7 E 5 DO STJ. FUNDAMENTO AUTÔNOMO NÃO IMPUGNADO. AUSÊNCIA DE COMPROVAÇÃO DO FATO CONSTITUTIVO DO DIREITO. SÚMULA 283 DO STF.
+1. A revisão da conclusão firmada pelas instâncias ordinárias quanto à inexistência de pagamento de dívida alheia e à ausência de comprovação do fato constitutivo do direito regressivo exige reexame do conjunto fático-probatório dos autos e interpretação das cláusulas contratuais que regem a relação entre as partes, providência inviável em recurso especial, nos termos das Súmulas 7 e 5 do STJ.
+2. A alegação de mera revaloração jurídica de fatos incontroversos não afasta os óbices processuais quando a pretensão recursal implica, na prática, modificar as premissas fáticas fixadas pelo tribunal de origem.
+3. A manutenção do acórdão recorrido também se ampara em fundamento autônomo não especificamente impugnado no recurso especial, atraindo a incidência da Súmula 283 do STF.
+Agravo interno improvido.
+RELATÓRIO
+O EXMO. SR. MINISTRO HUMBERTO MARTINS (relator):
+Cuida-se de agravo interno interposto por PETRÓLEO BRASILEIRO S/A - PETROBRAS contra decisão de minha relatoria, que não conheceu do recurso especial anteriormente manejado, em virtude da incidência dos óbices das Súmulas 5 e 7 do STJ, bem como das Súmulas 283 e 284 do STF, diante da necessidade de reexame do conjunto fático-probatório e de cláusulas contratuais, da existência de fundamento autônomo não devidamente impugnado no acórdão recorrido - consistente na ausência de comprovação do fato constitutivo do direito alegado - e da deficiência na demonstração do dissídio jurisprudencial (fls. 1.234-1.238).
+Nas razões do presente inconformismo, a agravante defendeu que (1) deve ser afastada a incidência das Súmulas 5 e 7 do STJ, pois a controvérsia não demandaria reexame de provas nem interpretação de cláusulas contratuais, mas apenas revaloração jurídica de fatos incontroversos; (2) houve violação do art. 880 do CC, sustentando que efetuou pagamento de dívida que seria de responsabilidade da parte contratada, o que lhe conferiria direito de regresso; (3) a decisão agravada teria aplicado indevidamente os óbices processuais, uma vez que o recurso especial teria impugnado adequadamente os fundamentos do acórdão recorrido; e (4) a matéria suscitada mereceria apreciação pelo órgão colegiado desta Corte (fls. 1.245-1.252).
+Foi apresentada contraminuta (fls. 1.260-1.275).
+É, no essencial, o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO DE REGRESSO. ALEGADO PAGAMENTO DE DÍVIDA ALHEIA. VIOLAÇÃO DO ART. 880 DO CC. NECESSIDADE DE REEXAME DE PROVAS E DE INTERPRETAÇÃO DE CLÁUSULAS CONTRATUAIS. SÚMULAS 7 E 5 DO STJ. FUNDAMENTO AUTÔNOMO NÃO IMPUGNADO. AUSÊNCIA DE COMPROVAÇÃO DO FATO CONSTITUTIVO DO DIREITO. SÚMULA 283 DO STF.
+1. A revisão da conclusão firmada pelas instâncias ordinárias quanto à inexistência de pagamento de dívida alheia e à ausência de comprovação do fato constitutivo do direito regressivo exige reexame do conjunto fático-probatório dos autos e interpretação das cláusulas contratuais que regem a relação entre as partes, providência inviável em recurso especial, nos termos das Súmulas 7 e 5 do STJ.
+2. A alegação de mera revaloração jurídica de fatos incontroversos não afasta os óbices processuais quando a pretensão recursal implica, na prática, modificar as premissas fáticas fixadas pelo tribunal de origem.
+3. A manutenção do acórdão recorrido também se ampara em fundamento autônomo não especificamente impugnado no recurso especial, atraindo a incidência da Súmula 283 do STF.
+Agravo interno improvido.
+VOTO
+O EXMO. SR. MINISTRO HUMBERTO MARTINS (relator):
+O agravo interno não merece prosperar.
+Isso porque o Tribunal de origem, ao examinar a controvérsia, concluiu expressamente que a recorrente não demonstrou a ocorrência de pagamento de dívida alheia nem comprovou o fato constitutivo do direito regressivo invocado. Tal conclusão decorreu da análise das provas produzidas nos autos e da interpretação do contrato celebrado entre as partes, a partir do qual o Tribunal local fixou as premissas fáticas da controvérsia.
+Dessa forma, a pretensão recursal de reconhecer a existência de pagamento de obrigação que seria imputável à parte adversa, e, por consequência, o direito de regresso com fundamento no art. 880 do CC, pressupõe necessariamente a revisão das premissas fáticas estabelecidas pelo Tribunal de origem. Em outras palavras, seria indispensável reexaminar o conjunto probatório para verificar a efetiva ocorrência do alegado pagamento e, ainda, reinterpretar as cláusulas contratuais que definem a responsabilidade das partes pelas obrigações discutidas.
+Essa providência, contudo, é vedada na via estreita do recurso especial, conforme entendimento consolidado desta Corte, consubstanciado nas Súmulas 7 e 5 do STJ.
+Não se trata, portanto, de simples revaloração jurídica de fatos incontroversos, como pretende fazer crer a agravante, mas de tentativa de alterar as conclusões fáticas firmadas pelas instâncias ordinárias, o que impede o conhecimento do recurso especial.
+Além disso, a decisão agravada também consignou que o acórdão recorrido se amparou em fundamento autônomo suficiente para a manutenção do julgamento, qual seja, a ausência de comprovação do fato constitutivo do direito alegado pela recorrente. Esse fundamento não foi especificamente impugnado no recurso especial, o que constitui óbice adicional ao conhecimento do apelo extremo, nos termos da Súmula 283 do STF.
+Ressalte-se que o agravo interno limita-se, em grande medida, a reiterar as razões anteriormente apresentadas no recurso especial, sem demonstrar de forma concreta a inaplicabilidade dos óbices processuais apontados na decisão agravada. A mera repetição de argumentos já examinados não é suficiente para infirmar os fundamentos que conduziram ao não conhecimento do recurso.
+Por fim, cumpre destacar que a prolação de decisão monocrática com fundamento no art. 932 do CPC não viola o princípio da colegialidade. A própria sistemática processual prevê a possibilidade de controle da decisão singular por meio da interposição de agravo interno, como ocorreu no presente caso.
+Ante o exposto, nego provimento ao agravo interno.
+É como penso. É como voto.
