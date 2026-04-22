@@ -1,0 +1,54 @@
+DECISÃO: Trata-se de reclamação com pedido liminar, ajuizada pelo Município de São José dos Campos, contra acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo, nos autos do Processo nº 2173986-58.2023.8.26.0000.
+O reclamante relata que o a autoridade reclamada declarou a inconstitucionalidade da Lei Municipal 4.533/94, que restringia a incineração de resíduos sólidos industriais em incineradores industriais instalados ou que venham a se instalar no Município aos oriundos de processos industriais de empresas localizadas na municipalidade.
+Alega que interpôs recurso extraordinário em face da referida decisão, o qual teve o seguimento negado em razão da aplicação equivocada do Tema 145 da repercussão geral. Aponta, ainda, usurpação da competência do STF para apreciação do recurso interposto.
+Sustenta que a referida legislação é constitucional pois não excedeu “os limites da competência atribuída ao Município pela Constituição Federal e, de forma alguma, viola a competência do Estado sobre licenciamento ambiental e disposição final de resíduos”. (eDOC 1, p. 8)
+Reafirma que “o assunto tratado na lei municipal impugnada matéria de interesse do município, por estar relacionada à gestão dos resídios sólidos produzidos na localidade - especificamente de resíduos sólidos a serem incinerados - e levando-se em consideração o direito dos cidadãos a um meio ambiente ecologicamente equilibrado, reforça-se a conclusão acerca da constitucionalidade da lei municipal em análise”. (eDOC 1, p. 9)
+Por fim, requer a concessão de medida liminar para suspender os efeitos do ato reclamado. No mérito, pede a cassação de “todas as decisões proferidas nos autos da ADI nº. 2173986-58.2023.8.26.0000, por violação ao entendimento firmado por esta CORTE no julgamento do Tema 145-RG, determinando-se, por conseguinte, a remessa dos autos ao C. STF para análise e julgamento do recurso extraordinário interposto”. (eDOC 1, p. 10)
+A autoridade reclamada prestou informações (eDOC 16).
+A parte beneficiária do ato reclamado apresentou contestação (eDOC 35).
+A Procuradoria-Geral da República manifestou-se pelo desprovimento da reclamação, conforme parecer ementado nos seguintes termos:
+
+“DIREITO CONSTITUCIONAL E AMBIENTAL. RECLAMAÇÃO CONSTITUCIONAL. COMPETÊNCIA LEGISLATIVA MUNICIPAL. TRATAMENTO DE RESÍDUOS SÓLIDOS. TEMA 145/STF. INTERESSE REGIONAL. PARECER PELO NÃO CONHECIMENTO OU DESPROVIMENTO. 1. Reclamação constitucional ajuizada pelo Município de São José dos Campos contra decisão do Tribunal de Justiça de São Paulo (TJ-SP) que declarou parcial inconstitucionalidade da Lei Municipal nº 4.533/1994. 2. A norma impugnada restringia a incineração de resíduos sólidos industriais em incineradores instalados no município apenas aos materiais oriundos de empresas localizadas na própria municipalidade. 3. O reclamante alega que a decisão desrespeitou o entendimento fixado no Tema 145 da repercussão geral (RE nº 586.224), que trata da competência municipal para legislar sobre meio ambiente. 4. O Tema 145/STF condiciona a competência legislativa municipal em matéria ambiental à existência de interesse local e à harmonia com a disciplina dos demais entes federados. 5. O Tribunal de origem assentou que, ao integrar a Região Metropolitana do Vale do Paraíba e Litoral Norte, o município não detém titularidade exclusiva para legislar de forma restritiva sobre a gestão de resíduos sólidos, devendo observar o interesse regional. 6. Inexiste violação à tese fixada, uma vez que o TJ-SP aplicou os critérios de repartição de competência estabelecidos pelo STF, concluindo que a norma local consubstanciou regramento substitutivo do quadro normativo estadual. - Parecer pelo não conhecimento da reclamação ou, se conhecida, pelo seu desprovimento”. (eDOC 39)
+
+É o relatório.
+Decido.
+
+Nos temos da  Constituição Federal, compete ao STF processar e julgar originariamente reclamação para a preservação de sua competência, garantia da autoridade de suas decisões e da observância das Súmulas Vinculantes (arts. 102, I, l, e 103-A, § 3º da CF/88).
+No caso dos autos, o Tribunal de Justiça do Estado de São Paulo declarou a inconstitucionalidade da Lei nº 4.533/1994, que dispõe sobre a incineração de resíduos industriais no Município, nos seguintes termos:
+
+ “Art. 1º - Os incineradores industriais instalados ou que venham a se instalar no Município somente poderão incinerar resíduos oriundos de processos industriais de empresas localizadas no Município;
+Art. 2º - A inobservância desta lei levará às sanções previstas no Código Administrativo para a infringência de normas legais, culminando com o encerramento da atividade em caso de reincidência.
+Art. 3º - Esta lei entra em vigor na data da sua publicação, revogadas as disposições em contrário”.
+
+Na ocasião, a autoridade reclamada assentou que, embora os Municípios possam disciplinar a gestão de resíduos no âmbito de seu interesse local, deve prevalecer, na hipótese, o interesse regional, próprio da região metropolitana em que se inserem. Confira-se trecho do ato reclamado:
+
+“Por sua vez, quanto à Lei nº 4.533/1994, a pretensão é procedente.
+O Município de São José dos Campos integra a região metropolitana do Vale do Paraíba e Litoral Norte (LCE nº 1.166, de 09.01.12). De caráter compulsório, conforme já reconheceu o C. Supremo Tribunal Federal:
+
+“... O caráter compulsório da participação deles (Municípios) em regiões metropolitanas, microrregiões e aglomerações urbanas já foi acolhido pelo Pleno do STF (ADI 1841/RJ, Rel. Min. Carlos Velloso, DJ 20.9.2002; ADI 796/ES, Rel. Min. Néri da Silveira, DJ 17.12.1999). O interesse comum inclui funções públicas e serviços que atendam a mais de um município, assim como os que, restritos ao território de um deles, sejam de algum modo dependentes, concorrentes, confluentes ou integrados de funções públicas, bem como serviços supramunicipais.” (ADI n. 1.842 DJ-e 16.9.13 Rel. Min. LUIZ FUX, Relator para o Acórdão o Min. GILMAR MENDES).
+Nesse contexto, a norma impugnada, Lei nº 4.533/94, ao restringir aos incineradores industriais instalados ou que venham a se instalar no município, a incineração industrial de resíduos oriundos de processos industriais de empresas localizadas apenas no Município, por se tratar de forma de destinação de resíduos sólidos, ainda que apenas industriais, desconsiderou a necessária observância da regionalidade.
+Se por um lado, como já visto, o interesse local presente na questão permita ao Município legislar sobre o assunto, na medida em que as normas federais e estaduais - Lei Federal nº 12.305/10 (Política Nacional de Resíduos Sólidos) e Lei Estadual nº 12.300/06 (Política Estadual de Resíduos Sólidos de São Paulo) não proíbem aos Municípios regularem seus resíduos de modo isolado, por outro, o interesse regional, diga-se da região metropolitana a qual está inserido, deve ser observada, diante da limitação feita”. (eDOC 5, p. 12-13)
+
+Foi interposto recurso extraordinário contra a referida decisão, cujo seguimento foi negado ao fundamento de que o acórdão recorrido estaria em consonância com o Tema 145 da repercussão geral. Interposto agravo interno, este também foi desprovido.
+Daí o ajuizamento da presente reclamação, na qual se sustenta, em síntese, a aplicação equivocada, pelo Tribunal de origem, da tese firmada no referido Tema 145 da repercussão geral, assim enunciada: “O município é competente para legislar sobre o meio ambiente com a União e o Estado, no limite do seu interesse local e desde que tal regramento seja harmônico com a disciplina estabelecida pelos demais entes federados (art. 24, VI, c/c 30, I e II, da Constituição Federal)”.
+Feitas essas considerações, verifica-se que o ato reclamado não configura afronta à tese firmada por esta Corte no Tema 145 da repercussão geral, mas, ao contrário, revela sua adequada aplicação ao caso concreto.
+Com efeito, o precedente vinculante estabelece que a competência municipal para legislar sobre matéria ambiental deve ser exercida no âmbito do interesse local e em harmonia com a disciplina normativa estabelecida pelos demais entes federativos, não se tratando de competência de exercício irrestrito.
+No caso concreto, o Tribunal de origem não afastou a competência legislativa municipal, mas apenas reconheceu que a restrição imposta pela norma local, ao limitar a incineração de resíduos industriais àqueles oriundos de empresas situadas no próprio Município, desconsiderou a necessária articulação com o interesse regional, especialmente no contexto de organização metropolitana.
+A jurisprudência desta Corte corrobora essa compreensão. No julgamento da ADI 1.842, da qual fui redator para o acórdão, assentou-se que a integração dos Municípios em regiões metropolitanas, embora não suprima sua autonomia, impõe a observância de funções públicas de interesse comum, cuja disciplina transcende o âmbito estritamente local. Confira-se trecho da ementa do julgado:
+
+“3. Autonomia municipal e integração metropolitana.
+A Constituição Federal conferiu ênfase à autonomia municipal ao mencionar os municípios como integrantes do sistema federativo (art. 1º da CF/1988) e ao fixá-la junto com os estados e o Distrito Federal (art. 18 da CF/1988).
+A essência da autonomia municipal contém primordialmente (i) autoadministração, que implica capacidade decisória quanto aos interesses locais, sem delegação ou aprovação hierárquica; e (ii) autogoverno, que determina a eleição do chefe do Poder Executivo e dos representantes no Legislativo.
+O interesse comum e a compulsoriedade da integração metropolitana não são incompatíveis com a autonomia municipal. O mencionado interesse comum não é comum apenas aos municípios envolvidos, mas ao Estado e aos municípios do agrupamento urbano. O caráter compulsório da participação deles em regiões metropolitanas, microrregiões e aglomerações urbanas já foi acolhido pelo Pleno do STF (ADI 1841/RJ, Rel. Min. Carlos Velloso, DJ 20.9.2002; ADI 796/ES, Rel. Min. Néri da Silveira, DJ 17.12.1999).
+O interesse comum inclui funções públicas e serviços que atendam a mais de um município, assim como os que, restritos ao território de um deles, sejam de algum modo dependentes, concorrentes, confluentes ou integrados de funções públicas, bem como serviços supramunicipais”.
+
+A gestão de resíduos sólidos, sobretudo em escala industrial, insere-se nesse contexto, por envolver impactos que ultrapassam os limites territoriais de um único Município.
+Assim, ao reconhecer a prevalência do interesse regional na hipótese, o acórdão reclamado aplicou adequadamente os parâmetros constitucionais de repartição de competências, em consonância com a orientação firmada no Tema 145 da repercussão geral.
+Ante o exposto, nego seguimento à reclamação (art. 21, § 1º, do RISTF).
+
+Publique-se.
+Brasília, 22 de abril de 2026.
+
+Ministro GILMAR MENDES
+Relator
+Documento assinado digitalmente
