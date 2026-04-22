@@ -1,0 +1,68 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 14/04/2026 a 22/04/2026, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Raul Araújo, Maria Isabel Gallotti, Antonio Carlos Ferreira e Luís Carlos Gambogi (Desembargador Convocado do TJMG) votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro João Otávio de Noronha.
+EMENTA
+DIREITO PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO DE REINTEGRAÇÃO DE POSSE COM SERVIDÃO DE PASSAGEM. NULIDADE POR VIOLAÇÃO AOS ARTS. 934 E 935 DO CPC E ALEGADA OFENSA À RESOLUÇÃO DO CNJ. AGRAVO EM RECURSO ESPECIAL DESPROVIDO.
+I. CASO EM EXAME
+1. Agravo em recurso especial interposto contra decisão que inadmitiu o recurso especial por ausência de prequestionamento dos arts. 934 e 935 do CPC, falta de indicação de violação ao art. 1.022 do CPC para prequestionamento ficto, incidência das Súmulas n. 211 do STJ e n. 282 do STF e vedação de reexame de provas pela Súmula n. 7 do STJ.
+2. A controvérsia trata de ação de reintegração de posse envolvendo servidão de passagem não registrada, com alegação de esbulho por obstrução do acesso mediante porteiras e cadeados.
+3. Na sentença, o Juízo de primeiro grau julgou improcedentes os pedidos e fixou honorários em 10% sobre o valor da causa.
+4. A Corte de origem reformou a sentença para julgar procedente a reintegração de posse da servidão de passagem entre as glebas, com honorários de 10% do valor atualizado da causa.
+II. QUESTÃO EM DISCUSSÃO
+5. Há três questões em discussão: (i) saber se o acórdão é nulo por violação do art. 934 do CPC em razão da publicação da pauta e do julgamento virtual sem observância do rito; (ii) saber se houve violação do art. 935 do CPC pelo desrespeito ao prazo mínimo de cinco dias entre a pauta e a sessão, com cerceamento de defesa pela impossibilidade de memoriais e sustentação oral; e (iii) saber se a Resolução n. 591/2024 do CNJ impõe a observância do prazo mínimo também em sessão virtual, com ciência adequada aos patronos.
+III. RAZÕES DE DECIDIR
+6. Ausente prequestionamento específico dos arts. 934 e 935 do CPC no acórdão recorrido, e não indicada violação ao art. 1.022 do CPC para fins de prequestionamento ficto, incidem a Súmula n. 211 do STJ e a Súmula n. 282 do STF, o que obsta o conhecimento da matéria federal.
+Aplica-se o entendimento de que o recurso especial não é via adequada para apreciar ofensa a atos administrativos, como resoluções do CNJ, por não se tratarem de lei federal.
+IV. DISPOSITIVO E TESE
+7. Agravo em recurso especial desprovido.
+Tese de julgamento: "1. Incidem a Súmula n. 211 do STJ e a Súmula n. 282 do STF quando a questão federal suscitada no recurso especial não foi apreciada pelo tribunal de origem, a despeito da oposição de embargos de declaração, e não há indicação de violação ao art. 1.022 do CPC. 2. O recurso especial não comporta a análise de alegada ofensa a resolução administrativa, por não se enquadrar no conceito de lei federal."
+Dispositivos relevantes citados: CPC, arts. 934, 935, 1.022 e 85 § 11
+Jurisprudência relevante citada: STJ, Súmula n. 211; STF, Súmula n. 282; STJ, AREsp n. 3.025.999/SC, relator Ministro João Otávio de Noronha, Quarta Turma, julgado em 9/2/2026; STJ, AREsp n. 2.984.576/SP, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 10/11/2025.
+RELATÓRIO
+Trata-se de agravo em recurso especial interposto por AGROPECUÁRIA VALE DO SOL LTDA (EPP) contra a decisão que inadmitiu o recurso especial, pelos óbices de ausência de prequestionamento quanto aos arts. 934 e 935, do Código de Processo Civil, por não ter sido indicada violação ao art. 1.022 do Código de Processo Civil para fins de prequestionamento ficto, pela incidência das Súmulas n. 211 do STJ e n. 282 do STF, e pela vedação de reexame de provas, conforme a Súmula n. 7 do STJ.
+Alega a parte agravante que os pressupostos de admissibilidade do recurso especial foram atendidos.
+O recurso especial foi interposto com fundamento no art. 105, III, a, da Constituição Federal, contra acórdão do Tribunal de Justiça do Estado de Mato Grosso do Sul, em apelação cível, nos autos de ação de reintegração de posse.
+O julgado foi assim ementado (fl. 395):
+APELAÇÃO CÍVEL - AÇÃO DE REINTEGRAÇÃO DE POSSE - SERVIDÃO DE PASSAGEM NÃO REGISTRADA - IMPEDIMENTO DE ACESSO À PROPRIEDADE DA REQUERENTE - CONVENÇÃO INFORMAL ENTRE OS PROPRIETÁRIOS - CIÊNCIA INEQUÍVOCA DA REQUERIDA - IMPEDIMENTO MEDIANTE COLOCAÇÃO DE PORTEIRAS E CADEADOS - ESBULHO POSSESSÓRIO DEMONSTRADO - RECURSO CONHECIDO E PROVIDO. Cinge-se a controvérsia em definir se havia servidão de passagem entre as propriedades das partes e, em caso positivo, se ocorreu esbulho possessório pela Requerida/Apelada em desfavor da Requerente/Apelante. A servidão de passagem não se confunde com o instituto da passagem forçada, pois, enquanto este diz respeito ao direito de vizinhança e decorre da lei, com pagamento de indenização pelo beneficiado, aquela, ligada ao direito real sobre coisa alheia, não possui caráter obrigatório e pode ensejar compensação pecuniária. Ainda que se trate de servidão de trânsito não titulada, possível conferir proteção possessória, na forma da Súmula 415 do STF. No caso, as provas dos autos, sobretudo a pericial e testemunhal, deixaram assente a presença da servidão de passagem entre os lotes de propriedade das partes, que serviu por longo período como único meio para que a Requerente ingressasse em sua área. Logo, o ato da Requerida de impedir o acesso à estrada, mediante a colocação de cercas e cadeados, resulta em esbulho possessório e dá ensejo à reintegração postulada, na forma do art. 560 do CPC. Recurso conhecido e provido.
+Os embargos de declaração opostos foram decididos nestes termos (fl. 422):
+EMBARGOS DE DECLARAÇÃO EM APELAÇÃO CÍVEL - AÇÃO DE REINTEGRAÇÃO DE POSSE - SERVIDÃO DE PASSAGEM NÃO REGISTRADA - ALEGAÇÃO DE CONTRADIÇÃO E OMISSÃO - REDISCUSSÃO DO MÉRITO - NÃO CABIMENTO - PREQUESTIONAMENTO - EMBARGOS REJEITADOS. Os embargos de declaração são cabíveis contra qualquer decisão judicial para sanar obscuridade ou eliminar contradição, suprir omissão de ponto ou questão sobre o qual devia se pronunciar o juiz de ofício ou a requerimento e corrigir erro material, hipóteses que não se encontram presentes no caso. No caso, observa-se mero inconformismo da parte com o resultado da demanda, o que não autoriza a oposição dos Embargos de Declaração, devendo a insurgência, se for o caso, ser objeto de recurso apropriado, já que não se amolda a nenhuma das hipóteses do art. 1.022 do CPC. E mesmo para fins de prequestionamento, a oposição de embargos pressupõe a existência de algum dos vícios do art. 1.022 do CPC, sendo desnecessário que o julgador se manifeste sobre todos os dispositivos legais apontados pelas partes como violados. Embargos de Declaração rejeitados.
+No recurso especial, a parte aponta violação dos seguintes artigos:
+a) 934, do Código de Processo Civil, porque a pauta não foi publicada com antecedência adequada e o julgamento ocorreu de forma virtual sem observância do rito legal, o que teria tornado nulo o acórdão;
+b) 935, do Código de Processo Civil, já que não se observou o lapso mínimo de cinco dias entre a publicação da pauta e a sessão, de modo que houve cerceamento de defesa pela impossibilidade de apresentação de memoriais e de sustentação oral;.
+Aponta, ainda, ofensa à Resolução CNJ n. 591/2024, porquanto defende que o prazo mínimo do art. 935, do Código de Processo Civil, deve ser respeitado também em sessão virtual, com ciência adequada para os patronos.
+Requer o provimento do recurso para que se anule o acórdão, determinando-se novo julgamento no tribunal de origem, com observância dos arts. 934 e 935 do Código de Processo Civil; requer ainda o provimento do recurso para que se reconheça o cerceamento de defesa e se assegure a participação por memoriais e sustentação oral no novo julgamento.
+Contrarrazões às fls. 446-453.
+É o relatório.
+EMENTA
+DIREITO PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO DE REINTEGRAÇÃO DE POSSE COM SERVIDÃO DE PASSAGEM. NULIDADE POR VIOLAÇÃO AOS ARTS. 934 E 935 DO CPC E ALEGADA OFENSA À RESOLUÇÃO DO CNJ. AGRAVO EM RECURSO ESPECIAL DESPROVIDO.
+I. CASO EM EXAME
+1. Agravo em recurso especial interposto contra decisão que inadmitiu o recurso especial por ausência de prequestionamento dos arts. 934 e 935 do CPC, falta de indicação de violação ao art. 1.022 do CPC para prequestionamento ficto, incidência das Súmulas n. 211 do STJ e n. 282 do STF e vedação de reexame de provas pela Súmula n. 7 do STJ.
+2. A controvérsia trata de ação de reintegração de posse envolvendo servidão de passagem não registrada, com alegação de esbulho por obstrução do acesso mediante porteiras e cadeados.
+3. Na sentença, o Juízo de primeiro grau julgou improcedentes os pedidos e fixou honorários em 10% sobre o valor da causa.
+4. A Corte de origem reformou a sentença para julgar procedente a reintegração de posse da servidão de passagem entre as glebas, com honorários de 10% do valor atualizado da causa.
+II. QUESTÃO EM DISCUSSÃO
+5. Há três questões em discussão: (i) saber se o acórdão é nulo por violação do art. 934 do CPC em razão da publicação da pauta e do julgamento virtual sem observância do rito; (ii) saber se houve violação do art. 935 do CPC pelo desrespeito ao prazo mínimo de cinco dias entre a pauta e a sessão, com cerceamento de defesa pela impossibilidade de memoriais e sustentação oral; e (iii) saber se a Resolução n. 591/2024 do CNJ impõe a observância do prazo mínimo também em sessão virtual, com ciência adequada aos patronos.
+III. RAZÕES DE DECIDIR
+6. Ausente prequestionamento específico dos arts. 934 e 935 do CPC no acórdão recorrido, e não indicada violação ao art. 1.022 do CPC para fins de prequestionamento ficto, incidem a Súmula n. 211 do STJ e a Súmula n. 282 do STF, o que obsta o conhecimento da matéria federal.
+Aplica-se o entendimento de que o recurso especial não é via adequada para apreciar ofensa a atos administrativos, como resoluções do CNJ, por não se tratarem de lei federal.
+IV. DISPOSITIVO E TESE
+7. Agravo em recurso especial desprovido.
+Tese de julgamento: "1. Incidem a Súmula n. 211 do STJ e a Súmula n. 282 do STF quando a questão federal suscitada no recurso especial não foi apreciada pelo tribunal de origem, a despeito da oposição de embargos de declaração, e não há indicação de violação ao art. 1.022 do CPC. 2. O recurso especial não comporta a análise de alegada ofensa a resolução administrativa, por não se enquadrar no conceito de lei federal."
+Dispositivos relevantes citados: CPC, arts. 934, 935, 1.022 e 85 § 11
+Jurisprudência relevante citada: STJ, Súmula n. 211; STF, Súmula n. 282; STJ, AREsp n. 3.025.999/SC, relator Ministro João Otávio de Noronha, Quarta Turma, julgado em 9/2/2026; STJ, AREsp n. 2.984.576/SP, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 10/11/2025.
+VOTO
+A controvérsia diz respeito a ação de reintegração de posse em que a parte autora pleiteou a reintegração na posse de servidão de passagem entre as glebas E e B, sob alegação de esbulho possessório decorrente da colocação de porteiras, cadeados e obstrução do acesso.
+Na sentença, o Juízo de primeiro grau julgou improcedentes os pedidos e fixou honorários advocatícios em 10% sobre o valor da causa.
+A Corte de origem reformou a sentença para julgar procedente a reintegração na posse da servidão de passagem que liga a Gleba E à Gleba B, com fixação de honorários em 10% do valor atualizado da causa. Nos embargos de declaração, rejeitou a alegada contradição e omissão.
+I - Arts. 934 e 935, do Código de Processo Civil
+No recurso especial a parte recorrente alega nulidade do julgamento por violação aos arts. 934 e 935, do Código de Processo Civil, ao argumento de que o acórdão foi prolatado sem observância do prazo mínimo entre a publicação da pauta e a sessão, o que teria impedido a apresentação de memoriais e a realização de sustentação oral, configurando cerceamento de defesa.
+O acórdão recorrido, em apelação, não examinou especificamente tais dispositivos. Nos embargos, a Corte estadual registrou a desnecessidade de aguardar manifestação sobre julgamento virtual em embargos de declaração por não haver sustentação oral nessa via, e reafirmou a inexistência de omissão, contradição ou obscuridade, rejeitando os aclaratórios.
+A questão relativa à alegada violação dos arts. 934 e 935, do Código de Processo Civil, não foi objeto de análise específica pelo Tribunal de origem e, a despeito da oposição de embargos de declaração, não houve o necessário prequestionamento com a indicação de violação ao art. 1.022 do Código de Processo Civil no recurso especial.
+Caso, pois, de aplicação da Súmulas n. 211 do STJ e 282 do STF.
+Nesse sentido: (AREsp n. 3.025.999/SC, relator Ministro João Otávio de Noronha, Quarta Turma, julgado em 9/2/2026, DJEN de 13/2/2026.) (AREsp n. 2.984.576/SP, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 10/11/2025, DJEN de 13/11/2025.)
+Em complemento, quanto à invocação de dispositivo administrativo, o recurso especial não é via adequada para análise de ofensa a resolução, portaria, regimento interno ou instrução normativa, atos administrativos que não se enquadram no conceito de lei federal.
+II - Conclusão
+Ante o exposto, nego provimento ao agravo em recurso especial.
+Nos termos do § 11 do art. 85 do CPC, majoro, de 10% para 12% sobre o valor fixado na origem, os honorários advocatícios em desfavor da parte ora recorrente, ressalvada eventual concessão de gratuidade de justiça.
+É o voto.
