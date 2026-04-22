@@ -1,0 +1,85 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Turma, por unanimidade, negar provimento ao agravo regimental.
+Os Srs. Ministros Joel Ilan Paciornik, Messod Azulay Neto, Maria Marluce Caldas e Reynaldo Soares da Fonseca votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Reynaldo Soares da Fonseca.
+EMENTA
+Direito Penal. Agravo Regimental NO AGRAVO EM RECURSO ESPECIAL. Tráfico de drogas. Desclassificação do delito. SÚMULA 7/STJ. Agravo IMprovido.
+I. Caso em exame
+1. Agravo regimental interposto contra decisão que conheceu do agravo para não conhecer do recurso especial, mantendo a condenação do agravante pelo crime de tráfico de drogas.
+II. Questão em discussão
+2. Há uma questão em discussão: saber se a condenação por tráfico de drogas pode ser desclassificada para uso pessoal.
+III. Razões de decidir
+3. As instâncias ordinárias, soberanas na análise da prova, reconheceram a materialidade e a autoria do crime de tráfico de drogas com base em elementos concretos: apreensão de mais de dois quilos de maconha (um tablete no bolso do réu e duas barras prensadas ocultas na caixa d"água de sua residência), forma de acondicionamento incompatível com consumo pessoal, laudos periciais confirmando a natureza da substância e depoimentos firmes dos policiais militares, inclusive quanto à admissão do réu de que receberia valor para guardar a droga para terceiros.
+4. A desclassificação da conduta para o delito de porte de drogas para consumo pessoal demandaria rediscutir a destinação da substância entorpecente, o que implicaria reexame aprofundado do conjunto fático-probatório (quantidade, forma de armazenamento, local da apreensão e circunstâncias da ação), providência vedada em recurso especial, nos termos da Súmula 7/STJ.
+IV. Dispositivo e tese
+5. Resultado do Julgamento: Agravo regimental improvido.
+Tese de julgamento:
+1. A desclassificação do delito de tráfico de drogas para uso pessoal demanda o revolvimento do conjunto fático-probatório, vedado em recurso especial, conforme Súmula 7/STJ.
+Dispositivos relevantes citados:Lei n. 11.343/2006, arts. 28 e 33; Súmula 7/STJ
+Jurisprudência relevante citada: STJ, AgRg no AREsp n. 2.802.251/PA, Quinta Turma, j. 17/6/2025, DJEN 25/6/2025; STJ, AgRg no REsp n. 2.092.432/SP, Sexta Turma, j. 11/6/2025, DJEN 16/6/2025.
+RELATÓRIO
+Trata-se de agravo regimental interposto por JHONNY HERBERT SANTOS NUNES contra decisão desta relatoria que conheceu do agravo para não conhecer do recurso especial.
+A parte agravante sustenta que as premissas fáticas se encontram devidamente delineadas pela instância ordinária, não havendo necessidade de reexame fático-probatório, reiterando a alegação de que a condenação por tráfico de drogas se apoiou, em essência, em depoimentos policiais não corroborados por outros elementos probatórios.
+Aduz que apenas uma pequena porção de entorpecente foi encontrada em posse direta do recorrente (no bolso), compatível com consumo pessoal, ao passo que o restante foi localizado em caixa d"água de acesso comum, sem prova de posse exclusiva.
+Defende que, à luz do § 2º do artigo 28 da Lei 11.343/2006, devem prevalecer critérios como natureza e quantidade da substância, local e condições da ação, circunstâncias pessoais e antecedentes, o que conduziria à desclassificação para posse para consumo. Invoca a presunção de inocência e o princípio do in dubio pro reo, afirmando que não há prova segura do destino mercantil da droga, razão pela qual o acórdão recorrido teria aplicado indevidamente o artigo 33 em detrimento do artigo 28 do referido diploma legal.
+Requer, assim, a reconsideração da decisão agravada ou a submissão do feito ao crivo do órgão colegiado.
+É o relatório.
+EMENTA
+Direito Penal. Agravo Regimental NO AGRAVO EM RECURSO ESPECIAL. Tráfico de drogas. Desclassificação do delito. SÚMULA 7/STJ. Agravo IMprovido.
+I. Caso em exame
+1. Agravo regimental interposto contra decisão que conheceu do agravo para não conhecer do recurso especial, mantendo a condenação do agravante pelo crime de tráfico de drogas.
+II. Questão em discussão
+2. Há uma questão em discussão: saber se a condenação por tráfico de drogas pode ser desclassificada para uso pessoal.
+III. Razões de decidir
+3. As instâncias ordinárias, soberanas na análise da prova, reconheceram a materialidade e a autoria do crime de tráfico de drogas com base em elementos concretos: apreensão de mais de dois quilos de maconha (um tablete no bolso do réu e duas barras prensadas ocultas na caixa d"água de sua residência), forma de acondicionamento incompatível com consumo pessoal, laudos periciais confirmando a natureza da substância e depoimentos firmes dos policiais militares, inclusive quanto à admissão do réu de que receberia valor para guardar a droga para terceiros.
+4. A desclassificação da conduta para o delito de porte de drogas para consumo pessoal demandaria rediscutir a destinação da substância entorpecente, o que implicaria reexame aprofundado do conjunto fático-probatório (quantidade, forma de armazenamento, local da apreensão e circunstâncias da ação), providência vedada em recurso especial, nos termos da Súmula 7/STJ.
+IV. Dispositivo e tese
+5. Resultado do Julgamento: Agravo regimental improvido.
+Tese de julgamento:
+1. A desclassificação do delito de tráfico de drogas para uso pessoal demanda o revolvimento do conjunto fático-probatório, vedado em recurso especial, conforme Súmula 7/STJ.
+Dispositivos relevantes citados:Lei n. 11.343/2006, arts. 28 e 33; Súmula 7/STJ
+Jurisprudência relevante citada: STJ, AgRg no AREsp n. 2.802.251/PA, Quinta Turma, j. 17/6/2025, DJEN 25/6/2025; STJ, AgRg no REsp n. 2.092.432/SP, Sexta Turma, j. 11/6/2025, DJEN 16/6/2025.
+VOTO
+Não obstante os argumentos expendidos pela parte agravante, estes não possuem o condão de infirmar os fundamentos da decisão agravada.
+Consoante anteriormente explicitado, para melhor elucidação dos fatos, transcrevo os seguintes excertos do acórdão recorrido (e-STJ, fls. 396 e 399-400, com destaques):
+" ..  em apuração de notícias dando conta que Johnny, vulgo "Sherek", além de estar envolvido em diversas ocorrências de furto de portões em construções da região, também estaria estocando grande quantidade de drogas para o elemento alcunhado "Brunim", diligenciaram a sua residência e o abordaram, tendo em seu poder, no bolso da bermuda, um tablete de maconha.
+Acrescentaram, ainda, que, com o auxílio dos animais da ROCCA, localizaram mais 02 barras prensadas de maconha, pesando aproximadamente dois quilos, escondidas no interior da caixa d"água da residência, sendo que, questionado, o réu terminou por confirmar à guarnição que receberia 200 reais para guardar as substâncias para um indivíduo cuja identidade não pode declinar.
+Tais testemunhas salientaram, por fim, sem titubear, que ao ser flagrado guardando as drogas em sua residência, Johnny ofereceu aos policiais uma arma de fogo em troca de sua liberdade e, após simularem aceitar a proposta, o réu entrou em contato telefônico com terceiros, porém não logrou êxito na obtenção do armamento prometido. Ressalto que, atualmente, é pacífica a jurisprudência no sentido de que os policiais civis ou militares, mormente os que se encontravam no momento e no lugar do crime ou que atuaram nas investigações merecem a mesma credibilidade dos testemunhos em geral, somente podendo ser desprezados se demonstrado, de modo concreto, que agiram sob suspeição. Nada havendo que retire a idoneidade de seus depoimentos, a palavra deles serve como prova suficiente para subsidiar o convencimento do julgador.
+A propósito, colhem-se precedentes do Pretório Excelso e do augusto STJ, respectivamente:
+ ..
+Assim, apesar de a defesa ter alegado insuficiência de provas em relação à traficância, não é o que se verifica do conjunto dos elementos de convicção existentes no feito, suficiente a ensejar a condenação de Johnny pelo tráfico.
+Não há que se falar, tampouco, em desclassificação para o delito de porte de droga para uso próprio. De acordo com o §2º do artigo 28 da Lei nº 11.343/06, deve-se atender à natureza e quantidade de substância apreendida, ao local e às condições em que se desenvolveu a ação, às circunstâncias sociais e pessoais, bem como à conduta e aos antecedentes do agente, para que se possa determinar se a droga destinava-se mesmo a consumo pessoal. E, neste diapasão, a forma como a droga foi localizada (duas barras prensadas e um tablete de maconha, pesando quase 02 quilos, montante e formato incompatíveis com o imediato consumo almejado pelo mero usuário), juntamente com informações de que o agente estaria estocando as substâncias para notório narcotraficante, evidenciam o nítido propósito mercantil, não havendo nos autos qualquer comprovação da exclusividade de uso das substâncias apreendidas.
+E, ainda que o increpado fosse também usuário de entorpecentes, cabe acrescentar que tal fato não afasta, por si só, a possibilidade de sua condenação pelo delito de tráfico, quando o contexto probatório aponta para o envolvimento na mercancia ilícita, até porque é frequente usuários perpetrarem o crime mais gravoso com a finalidade de sustentar o próprio vício.
+Banda outra, os elementos de convicção também são mais que suficientes para comprovar que Johnny, flagrado com drogas, ofereceu aos policiais militares uma vantagem indevida (consistente na entrega de arma de fogo) para que não efetivassem a sua prisão em flagrante, o que configura indiscutivelmente as elementares do tipo penal previsto no artigo 333 do Código Penal."
+Como se vê, a condenação por tráfico de drogas encontra-se amparada tanto em provas colhidas na fase inquisitorial quanto em juízo, conforme depoimentos dos policiais militares e o contexto da prisão em flagrante do réu. Segundo a instância ordinária, o recorrente foi preso por tráfico de drogas após diligência policial motivada por informações de que ele estaria armazenando entorpecentes em sua residência. Durante a abordagem, os policiais encontraram um tablete de maconha em seu bolso e, com o auxílio de cães farejadores, localizaram mais duas barras prensadas de maconha escondidas na caixa d"água da casa, totalizando mais de dois quilos da substância. Conforme os depoimentos policiais, o próprio acusado admitiu que receberia R$ 200 para guardar a droga para terceiros.
+A quantidade expressiva e a forma de armazenamento da droga, incompatíveis com o consumo pessoal, aliadas aos depoimentos firmes dos policiais e aos laudos periciais que confirmaram a natureza do entorpecente, demonstraram a materialidade e a autoria do crime de tráfico, justificando a prisão e a condenação do réu.
+Desse modo, a alteração do julgado, a fim de desclassificar o delito de tráfico de drogas, ou mesmo de absolver o recorrente, demandaria nova incursão no arcabouço probatório dos autos, o que não é possível nesta via especial, tendo em vista o óbice da Súmula 7/STJ.
+No mesmo sentido, confiram-se, com destaques:
+"DIREITO PENAL. AGRAVO REGIMENTAL. TRÁFICO DE DROGAS. REEXAME DE PROVAS. AGRAVO NÃO PROVIDO.
+I. Caso em exame
+1. Agravo regimental interposto contra decisão monocrática que não conheceu de recurso especial, com fundamento no art. 932, III, do Código de Processo Civil, em razão da vedação ao reexame de provas (Súmula n. 7 do STJ).
+2. O Tribunal de Justiça do Estado do Pará manteve a condenação por tráfico de drogas, destacando a materialidade e autoria do crime, com base em provas materiais e testemunhais, incluindo depoimentos de policiais.
+3. A defesa alega que a intenção é discutir matéria jurídica e não reexaminar provas, sustentando a possibilidade de revaloração de provas em recurso especial e citando precedentes do STJ para desclassificação do crime de tráfico para uso pessoal.
+II. Questão em discussão
+4. A questão em discussão consiste em saber se é possível desclassificar o crime de tráfico de drogas para porte para consumo pessoal sem reexame de provas, considerando a jurisprudência do STJ e a aplicação da Súmula n. 7.
+III. Razões de decidir
+5. A decisão monocrática foi mantida, pois a desclassificação do crime demandaria reexame de provas, o que é vedado em recurso especial, conforme a Súmula n. 7 do STJ.
+6. A jurisprudência reconhece que a determinação do destino da droga deve considerar a natureza, quantidade, local e condições da apreensão, conforme art. 28, § 2º, da Lei n. 11.343/2006.
+7. A condenação por tráfico foi baseada em elementos como a quantidade e forma de acondicionamento da substância, além das circunstâncias da prisão em flagrante, que indicam destinação ao comércio ilícito.
+8. Os depoimentos de policiais foram considerados válidos como meio de prova, desde que não haja dúvida sobre a imparcialidade, o que não foi demonstrado pela defesa.
+9. O agravo regimental foi considerado mera reiteração de argumentos já analisados, sem fundamento novo apto a alterar a decisão.
+IV. Dispositivo e tese
+10. Agravo regimental não provido.
+Tese de julgamento: "1. A desclassificação do crime de tráfico de drogas para uso pessoal demanda reexame de provas, vedado em recurso especial. 2. A determinação do destino da droga deve considerar a natureza, quantidade, local e condições da apreensão. 3. Depoimentos de policiais são válidos como prova, desde que não haja dúvida sobre a imparcialidade".
+Dispositivos relevantes citados: Lei n. 11.343/2006, art. 28, § 2º;
+CPC, art. 932, III. Jurisprudência relevante citada: STJ, AgRg no HC 762.132/SP, Rel. Min. Rogerio Schietti Cruz, Sexta Turma, julgado em 14/11/2022; STJ, AR Esp n. 2.721.091/GO, Rel. Min. Daniela Teixeira, Quinta Turma, julgado em 3/12/2024; STJ, AgRg no AR Esp n. 2.629.078/MG, Rel. Min. Relator, Quinta Turma, julgado em 22/10/2024."
+(AgRg no AREsp n. 2.802.251/PA, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 17/6/2025, DJEN de 25/6/2025.)
+"AGRAVO REGIMENTAL NO RECURSO ESPECIAL. TRÁFICO DE DROGAS. TESE RECURSAL DE VIOLAÇÃO DE DOMICÍLIO. NEGATIVA DE SEGUIMENTO COM BASE EM TEMA DE REPERCUSSÃO GERAL DO STF. NÃO INTERPOSIÇÃO DE AGRAVO INTERNO. ART. 1.030, I, "A" E § 2º, DO CPC. IMPOSSIBILIDADE DE EXAME. PLEITO DE DESCLASSIFICAÇÃO DA CONDUTA PARA PORTE DE DROGAS PARA USO PESSOAL. NECESSIDADE DE REAPRECIAÇÃO DAS PROVAS. INCIDÊNCIA DA SÚMULA N. 7 DO STJ. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. A negativa de seguimento ao recurso especial baseada na contraposição da pretensão recursal a tema de repercussão geral fixado pelo STF desafia a interposição de agravo interno, nos termos do art. 1.030, I, "a" e § 2º, do CPC. Nessa hipótese, caso a decisão de inadmissibilidade proferida na origem não seja adequadamente impugnada, opera-se a preclusão que inviabiliza nova discussão acerca da matéria.
+2. No caso, as instâncias ordinárias, após toda a análise do conjunto fático-probatório amealhado aos autos, concluíram pela existência de elementos concretos e coesos a ensejar a condenação pelo crime de tráfico de drogas (art. 33 da Lei n. 11.343/2006).
+Para chegar a conclusão diversa e desclassificar a conduta imputada ao réu em recurso especial, seria necessária o reexame aprofundado de fatos e provas, providência vedada pela Súmula n. 7 do STJ.
+3. Nos termos do art. 28, § 2º, da Lei n. 11.343/2006, não é apenas a quantidade de drogas que constitui fator determinante para a conclusão de que a substância se destinava a consumo pessoal, mas também o local e as condições em que se desenvolveu a ação, as circunstâncias sociais e pessoais, bem como a conduta e os antecedentes do agente.
+4. Agravo regimental não provido."
+(AgRg no REsp n. 2.092.432/SP, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 11/6/2025, DJEN de 16/6/2025.)
+Ante o exposto, nego provimento ao agravo regimental.
+É o voto.
