@@ -1,0 +1,43 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 14/04/2026 a 22/04/2026, por unanimidade, dar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Moura Ribeiro, Daniela Teixeira, Nancy Andrighi e Humberto Martins votaram com o Sr. Ministro Relator.
+Presidiu o julgamento a Sra. Ministra Daniela Teixeira.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. EMBARGOS DE TERCEIRO. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. ALEGAÇÃO DE OFENSA A COISA JULGADA. OMISSÃO CONFIGURADA. OFENSA AO ARTIGO 1.022 DO CÓDIGO DE PROCESSO CIVIL. PROVIMENTO. RETORNO À ORIGEM PARA JULGAMENTO.
+1. Há ofensa o artigo 1.022 do Código de Processo Civil quando do Tribunal de origem não se manifesta sobre questão relevante ao deslinde da controvérsia, apesar de a parte ter oposto os competentes embargos de declaração.
+2. Agravo conhecido para conhecer do recurso especial e dar-lhe provimento.
+RELATÓRIO
+Trata-se de agravo interposto por COMPANHIA DE HABITAÇÃO POPULAR DE CURITIBA - COHAB/CT contra decisão que inadmitiu recurso especial. O apelo extremo, fundamentado no art. 105, inciso III, alíneas "a" e "c", da Constituição Federal, insurge-se contra acórdão do Tribunal de Justiça do Estado do Paraná assim ementado:
+"APELAÇÃO CÍVEL - EMBARGOS DE TERCEIRO - GRATUIDADE DA JUSTIÇA - AUSÊNCIA DE INTERESSE RECURSAL - BENEFÍCIO JÁ CONCEDIDO PELO JUÍZO DE PRIMEIRO GRAU - RECURSO NÃO CONHECIDO NESTA PARTE - MÉRITO - AÇÃO DE COBRANÇA DE TAXAS CONDOMINIAIS AJUIZADA EM FACE DO PROMITENTE COMPRADOR - FASE DE CUMPRIMENTO DE SENTENÇA - PENHORA SOBRE IMÓVEL DA PROMITENTE VENDEDORA, ALHEIA AO PROCESSO - DÉBITOS CONDOMINIAIS - NATUREZA DA OBRIGAÇÃO - PROPTER REM APLICAÇÃO, POR ANALOGIA, DOS ARTS. 1.345 DO CC E 109, §3º DO CPC - CONSTRIÇÃO LEGÍTIMA - AUSÊNCIA DE VIOLAÇÃO À COISA JULGADA - ENTENDIMENTO DO STJ E DESTE TRIBUNAL DE JUSTIÇA - SENTENÇA MANTIDA - INAPLICABILIDADE DO ART. 85, §11, DO CPC.
+RECURSO DE APELAÇÃO PARCIALMENTE CONHECIDO, NESSA PARTE, NÃO PROVIDO" (e-STJ fl. 284).
+Os embargos de declaração opostos foram rejeitados (e-STJ fls. 305/310).
+No recurso especial, o recorrente alega, além de divergência jurisprudencial, violação dos seguintes dispositivos legais com as respectivas teses:
+(i) arts. 489 §1º, VI e 1.022, I e II, do Código de Processo Civil - haja vista a nulidade do acórdão recorrido por deficiência de fundamentação e negativa de prestação jurisdicional ao não apreciar aspectos relevantes da demanda suscitados nos embargos declaratórios;
+(ii) arts. 506 e 779, I, do Código de Processo Civil - pois houve violação aos limites objetivos da coisa julgada;
+(iii) arts. 9, 12, §4º e 20 da Lei 4.591/64 - porque a recorrente é parte ilegítima a responder pelos pretensos débitos condominiais.
+Sem as contrarrazões (e-STJ, fls. 394/395), o recurso especial foi inadmitido, dando ensejo à interposição do presente agravo.
+É o relatório.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. EMBARGOS DE TERCEIRO. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. ALEGAÇÃO DE OFENSA A COISA JULGADA. OMISSÃO CONFIGURADA. OFENSA AO ARTIGO 1.022 DO CÓDIGO DE PROCESSO CIVIL. PROVIMENTO. RETORNO À ORIGEM PARA JULGAMENTO.
+1. Há ofensa o artigo 1.022 do Código de Processo Civil quando do Tribunal de origem não se manifesta sobre questão relevante ao deslinde da controvérsia, apesar de a parte ter oposto os competentes embargos de declaração.
+2. Agravo conhecido para conhecer do recurso especial e dar-lhe provimento.
+VOTO
+Ultrapassados os requisitos de admissibilidade do agravo, passa-se ao exame do recurso especial.
+A insurgência merece prosperar.
+Consoante o princípio da devolutividade dos recursos, incumbe ao Tribunal local manifestar-se a respeito das matérias necessárias ao deslinde da controvérsia e que tenham sido submetidas à sua apreciação, sob pena de se configurar omissão, hipótese de cabimento dos embargos declaratórios.
+Com efeito, o não enfrentamento pela Corte de origem de questões ventiladas nos aclaratórios e imprescindíveis à solução do litígio implica violação do art. 1.022 do CPC, tanto mais que se revela inadmissível o recurso especial que trate de tema não analisado pela instância de origem, a despeito da oposição de aclaratórios, porquanto ausente o requisito do prequestionamento nos termos da Súmula nº 211/STJ. Nesse sentido:
+"AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. PLANO DE SAÚDE COLETIVO EMPRESARIAL. EX-EMPREGADO APOSENTADO. REGIME DE CUSTEIO. DIVISÃO DE CATEGORIAS. OMISSÃO E NEGATIVA DE PRESTAÇÃO JURISDICIONAL VERIFICADAS. VÍCIOS NÃO CORRIGIDOS NO JULGAMENTO DOS ACLARATÓRIOS. QUESTÕES RELATIVAS AO CERNE DA CONTROVÉRSIA. VIOLAÇÃO DOS ARTS. 489 E 1.022, AMBOS DO NCPC. ANULAÇÃO DO ACÓRDÃO ESTADUAL E RETORNO DOS AUTOS À INSTÂNCIA DE ORIGEM. DECISÃO MANTIDA. AGRAVO NÃO PROVIDO.
+1. O presente agravo interno foi interposto contra decisão publicada na vigência do NCPC, razão pela qual devem ser exigidos os requisitos de admissibilidade recursal na forma nele prevista, nos termos do Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+2. Quando o tema suscitado nos embargos de declaração é relevante ao deslinde da controvérsia, e o Tribunal de origem não se pronunciou sobre ele, imprescindível a anulação do acórdão para que outro seja proferido, ante a contrariedade ao art. 1.022 do NCPC.
+3. No caso, foi constatado que houve prestação jurisdicional incompleta no que concerne a legalidade da mudança da forma de contribuição para o novo modelo por faixa etária e a inexistência de discriminação ao ex-empregado aposentado, por se tratar de plano único.
+4. Por ora, apesar da manifesta inadmissibilidade deste recurso, e da anterior advertência em relação à aplicação do NCPC, deixo de aplicar a multa prevista no art. 1.021, § 4º, do NCPC. 5. Agravo interno não provido." (AgInt nos EDcl no AgInt no REsp 1.728.492/SP, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 10/9/2019, DJe de 13/9/2019.)
+"AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. TEMPESTIVIDADE DO RECURSO. PREVALÊNCIA DA INTIMAÇÃO ELETRÔNICA SOBRE A PUBLICAÇÃO NO DJE. RECONSIDERAÇÃO DA DECISÃO AGRAVADA. RESOLUÇÃO DE CONTRATO DE PARCERIA ENTRE ADVOGADOS. DIVISÃO DE HONORÁRIOS. CERCEAMENTO DE DEFESA. FUNDAMENTO NÃO IMPUGNADO. SÚMULA 283/STF. DANOS MORAIS E MATERIAIS. OMISSÃO CONFIGURADA. ART. 1.022, II, DO CPC/2015. RETORNO DOS AUTOS AO TRIBUNAL DE ORIGEM. AGRAVO INTERNO PROVIDO.
+1. A Quarta Turma desta Corte, no julgamento do AREsp 1.330.052/RJ, decidiu pela prevalência da intimação eletrônica sobre a publicação no Diário de Justiça. Agravo interno provido para afastar a intempestividade.
+2. Quanto à alegação de cerceamento de defesa, verifica-se a ausência de impugnação de fundamento autônomo e suficiente à manutenção do acórdão recorrido, circunstância que atrai o óbice da Súmula 283/STF.
+3. A ausência de manifestação sobre questão relevante para o julgamento da causa, mesmo após a oposição de embargos de declaração, constitui negativa de prestação jurisdicional (art. 1.022, II, do CPC/2015), impondo-se a anulação do acórdão dos embargos de declaração e o retorno dos autos ao Tribunal de origem para que se manifeste sobre o ponto omisso.
+4. Agravo interno provido para, reconsiderando a decisão agravada, conhecer do recurso especial e dar-lhe parcial provimento, a fim de que a Corte de origem se manifeste sobre pontos omissos." (AgInt nos EDcl no AREsp 1.343.785/RJ, relator Ministro Raul Araújo, Quarta Turma, julgado em 18/6/2019, DJe de 28/6/2019.)
+Na hipótese, está caracterizada a negativa de prestação jurisdicional, pois se buscou o pronunciamento acerca de matéria relevante à solução da controvérsia, permanecendo o Tribunal local silente quanto à tese de que teria havido ofensa à coisa julgada subjetiva, ante a imutabilidade do título executivo judicial.
+Prejudicado, por ora, o exame das demais violações suscitadas no recurso especial.
+Ante o exposto, conheço do agravo para dar provimento ao recurso especial, determinando o retorno dos autos ao Tribunal de origem para que realize novo julgamento dos embargos de declaração opostos pela recorrente, nos termos da fundamentação acima.
+Na hipótese, não cabe a majoração dos honorários sucumbenciais prevista no art. 85, § 11, do Código de Processo Civil, tendo em vista o provimento do recurso.
+É o voto
