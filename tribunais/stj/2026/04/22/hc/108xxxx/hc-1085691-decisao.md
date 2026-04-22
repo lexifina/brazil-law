@@ -1,0 +1,17 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de RAFAEL DORIA DE SOUSA PEREIRA, apontando como autoridade coatora o Desembargador Presidente do Tribunal de Justiça do Estado de Alagoas (Plantão), que nos autos do Habeas Corpus n. 0800126-38.2026.8.02.9002 não conheceu do pleito de urgência submetido ao plantão judiciário.
+Consta dos autos que, em 28/03/2026, o Juízo da Vara Plantonista Criminal da Comarca de Maceió/AL deferiu medidas protetivas de urgência em desfavor do paciente (autos n. 0700760-59.2026.8.02.0067). A referida d ecisão determinou a suspensão da posse e a restrição do porte de armas, bem como a obrigatoriedade de comparecimento a reuniões de grupo de apoio e reflexivo.
+Irresignada, a Defesa impetrou habeas corpus no plantão judiciário de segundo grau, tendo o Desembargador Presidente deixado de analisar o pedido liminar por não vislumbrar urgência excepcional apta a justificar a atuação plantonista, determinando a regular distribuição do feito.
+A Defesa sustenta a desproporcionalidade das medidas impostas e a ausência de lastro probatório quanto ao risco atual e iminente. Argumenta que a suspensão do porte de arma interdita faticamente o exercício profissional do paciente, que é Policial Rodoviário Federal e instrutor de tiro. Afirma, ainda, que o próprio formulário de avaliação de risco afasta agressões físicas e que a obrigatoriedade de participação em grupo reflexivo configura indevida antecipação de pena.
+Requer a concessão da medida liminar para determinar a imediata suspensão dos efeitos da decisão de primeiro grau nos pontos atacados ou, subsidiariamente, que seja determinada a análise do pleito de urgência pelo plantão do Tribunal de Justiça do Estado de Alagoas. No mérito, pugna pela concessão definitiva da ordem para anular as medidas consideradas ilegais e desproporcionais.
+Informações prestadas às fls. 125/128.
+É o relatório.
+Decido.
+O presente habeas corpus insurge-se contra a decisão exarada em sede de plantão judiciário pelo Tribunal de Justiça do Estado de Alagoas, que declinou de examinar o pedido liminar formulado em favor do paciente. A impetração originária buscava obstar a eficácia de medidas protetivas de urgência impostas na primeira instância, com destaque para a suspensão do porte de arma funcional do paciente e a obrigação de comparecimento a grupo de apoio reflexivo.
+Consoante as informações processuais supervenientes aportadas aos autos, constata-se que o cenário fático-jurídico que motivou a presente impetração sofreu alteração substancial. O relator natural perante a Câmara Criminal do Tribunal de origem apreciou o pedido de urgência e proferiu decisão deferindo a liminar pleiteada (fl. 126).
+Nesse contexto fático, a omissão ou recusa de prestação jurisdicional em caráter de urgência, inicialmente imputada ao Desembargador plantonista e objeto deste writ, não mais subsiste. A jurisdição ordinária atuou de forma efetiva sobre a matéria por meio do relator sorteado, cuja decisão passou a consubstanciar o novo título judicial que embasa as medidas discutidas.
+Por fim, ressalte-se que eventual insurgência contra o novo ato judicial deve ser direcionada aos fundamentos apresentados nesse ato, tornando prejudicada a análise do título anterior por esta Corte.
+Diante de todo o exposto, é imperioso reconhecer a perda superveniente do objeto deste remédio constitucional.
+Ante o exposto, julgo prejudicado o habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
