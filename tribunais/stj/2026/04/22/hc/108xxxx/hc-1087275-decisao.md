@@ -1,0 +1,16 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em benefício de RYAN QUIRINO DE OLIVEIRA - preso preventivamente e acusado da prática de furto qualificado -, em que a defesa aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, que denegou a ordem no HC n. 2017349-74.2026.8.26.0000 (fls. 11/23).
+Em suma, a impetrante alega atipicidade material por aplicação do princípio da insignificância, pois a res furtiva - produtos de higiene avaliados em R$ 491,50 - revela lesão patrimonial inexpressiva.
+Defende, ainda, ausência dos requisitos do art. 312 do Código de Processo Penal para a prisão preventiva. Afirma que não há reincidência, que os processos em andamento não contam com sentença condenatória, e que a gravidade abstrata do delito não pode, por si, justificar a cautelar extrema. Sustenta que não há risco à ordem pública ou à instrução criminal, que medidas cautelares diversas seriam suficientes, e que a prisão cautelar não pode antecipar pena, sob pena de ofensa à presunção de inocência.
+Em caráter liminar, requer a suspensão da persecução penal e a expedição de alvará de soltura.
+No mérito, pede o trancamento da ação penal ou, subsidiariamente, o direito de aguardar em liberdade o curso do processo, com confirmação da liminar.
+É o relatório.
+No caso, não há ilegalidade a ser reparada por meio da via eleita.
+De um lado, como registrado pelo Juízo de origem, os valores dos bens são superiores a 10% do salário-mínimo, bem como os flagranteados possuem processos em andamento pelos mesmos delitos de furto, denotando reiteração delitiva, situações incompatíveis com a bagatela própria (fl. 27).
+Com efeito, a jurisprudência do Superior Tribunal de Justiça estabelece ser incabível a aplicação do princípio da insignificância quando o valor da res furtiva supera 10% do salário mínimo vigente à época dos fatos (AgRg no HC n. 922.483/SP, relator Ministro Carlos Cini Marchionatti (Desembargador Convocado TJRS), Quinta Turma, julgado em 10/6/2025, DJEN de 16/6/2025). Na mesma linha: AgRg no HC n. 944.528/SC, relator Ministro Otávio de Almeida Toledo (Desembargador Convocado do TJSP), Sexta Turma, DJEN 2/6/2025; e AgRg no HC n. 972.208/GO, relator Ministro Ribeiro Dantas, Quinta Turma, DJEN 12/5/2025.
+De outro, ambos os réus praticaram o delito na pendência de ação penal (fl. 29), tendo o paciente obtido liberdade provisória em 19/02/2025, vontando a delinquir (fl. 18). Ora, em hipóteses análogas, esta Corte tem decidido que a prisão preventiva foi fundamentada em elementos concretos, como o risco de reiteração delitiva, evidenciado pela prática de novo crime de furto enquanto o réu estava em liberdade provisória concedida em outro processo criminal (AgRg no HC n. 1.060.080/SP, relator Ministro Carlos Pires Brandão, Sexta Turma, DJEN de 10/3/2026). Ainda: AgRg no HC n. 1.005.872/SP, relator Ministro Rogerio Schietti Cruz, Sexta Turma, DJEN 4/7/2025.
+Pelo exposto, indefiro liminarmente o habeas corpus (art. 210 do RISTJ).
+Publique-se.
+EMENTA
+HABEAS CORPUS. FURTO QUALIFICADO. TRANCAMENTO DA AÇÃO PENAL. PRINCÍPIO DA INSIGNIFICÂNCIA. INAPLICABILIDADE. PRISÃO PREVENTIVA. RISCO DE REITERAÇÃO DELITIVA. JURISPRUDÊNCIA. INEVIDÊNCIA DE CONSTRANGIMENTO ILEGAL.
+Writ indeferido liminarmente.
