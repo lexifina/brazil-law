@@ -1,0 +1,84 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUINTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 16/04/2026 a 22/04/2026, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Maria Marluce Caldas, Reynaldo Soares da Fonseca, Ribeiro Dantas e Joel Ilan Paciornik votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Reynaldo Soares da Fonseca.
+EMENTA
+Direito processual penal. Embargos de declaração. Habeas corpus. Agravo regimental. Nulidade de provas digitais. Cadeia de custódia. Alegada omissão. Inexistência de vícios do art. 619 do CPP. Embargos rejeitados.
+I. Caso em exame
+1. Embargos de declaração opostos em favor da embargante contra acórdão de Turma que, à unanimidade, negara provimento a recurso, mantendo decisão que indeferira liminarmente habeas corpus impetrado como substitutivo de recurso próprio.
+2. Segundo a embargante, o acórdão teria incorrido em omissão por não enfrentar questões jurídicas centrais suscitadas na defesa, relativas à alegada origem ilícita da investigação, à suposta quebra da cadeia de custódia, à fragilidade probatória e à aplicação da teoria dos frutos da árvore envenenada, pugnando pelo acolhimento dos embargos com efeitos infringentes.
+II. Questão em discussão
+3. A questão em discussão consiste em saber se o acórdão embargado incorreu em omissão, contradição, obscuridade ou erro material, nos termos do art. 619 do CPP.
+III. Razões de decidir
+4. Os embargos de declaração, nos termos do art. 619 do CPP, somente são cabíveis para sanar ambiguidade, obscuridade, contradição, omissão ou erro material, não se prestando ao reexame do mérito da causa ou à rediscussão de fundamentos já apreciados.
+5. O acórdão embargado analisou de forma fundamentada a controvérsia acerca da suposta nulidade absoluta das provas digitais, da alegada violação à cadeia de custódia e da teoria dos frutos da árvore envenenada, assentando que a condenação se amparou em conjunto probatório amplo, harmônico, submetido ao contraditório e confirmado pelo Conselho de Sentença, não se verificando ilicitude probatória capaz de macular todo o processo.
+6. Ficou reafirmado que o habeas corpus foi utilizado como substitutivo de recurso próprio e, na prática, como sucedâneo de revisão criminal, em situação em que não se configurou competência originária da Corte, já havendo trânsito em julgado do acórdão condenatório, o que inviabiliza a pretensão de ampla reanálise fático-probatória na via estreita do habeas corpus.
+7. A jurisprudência do Superior Tribunal de Justiça é iterativa no sentido de que o habeas corpus e seus recursos não se prestam à incursão aprofundada no acervo fático-probatório nem ao controle do convencimento do Tribunal do Júri, sob pena de violação à soberania dos veredictos, não se tendo identificado flagrante ilegalidade a justificar exceção a essa orientação.
+IV. Dispositivo e tese
+8. Resultado do Julgamento: Embargos de declaração rejeitados.
+Tese de julgamento:
+1. Os embargos de declaração, previstos no art. 619 do CPP, não se prestam ao reexame de matéria de mérito nem à rediscussão de fundamentos já enfrentados, exigindo a demonstração específica de omissão, contradição, obscuridade ou erro material.
+2. É imprópria a via do habeas corpus e de seus recursos para substituir recurso próprio ou revisão criminal e para promover reexame aprofundado do acervo fático-probatório, especialmente quando já transitada em julgado a condenação proferida pelo Tribunal do Júri, salvo em hipóteses de flagrante ilegalidade não configuradas.
+Dispositivos relevantes citados: CPP, art. 619.
+Jurisprudência relevante citada: STJ, AgRg no HC 817.562/RS, Quinta Turma, Rel. Min. Reynaldo Soares da Fonseca, DJe 30.06.2023; STJ, AgRg no HC 812.438/SP, Quinta Turma, Rel. Min. Ribeiro Dantas, DJe 29.06.2023; STJ, HC 704.718/SP, Sexta Turma, Rel. Min. Laurita Vaz, DJe 23.05.2023; STJ, AgRg no HC 811.106/SP, Sexta Turma, Rel. Min. Rogerio Schietti Cruz, DJe 22.06.2023; STJ, AgRg no HC 819.078/SP, Sexta Turma, Rel. Min. Laurita Vaz, DJe 15.06.2023; STJ, EDcl no AgRg no REsp 1.988.016/SP, Quinta Turma, Rel. Min. João Batista Moreira (Des. Convocado do TRF1), DJe 27.06.2023; STJ, EDcl no AgRg no AREsp 1.681.479/RN, Quinta Turma, Rel. Min. Ribeiro Dantas, DJe 23.03.2023; STJ, AgRg no REsp 2.062.933/PR, Sexta Turma, Rel. Min. Rogerio Schietti Cruz, DJe 17.08.2023.
+RELATÓRIO
+Trata-se de embargos de declaração opostos em favor de LAINY FERREIRA FINGERGUT em face do acórdão proferido por esta Quinta Turma, que, à unanimidade, negaram provimento ao recurso, para manter a decisão que indeferiu liminarmente o habeas corpus.
+Nos presentes aclaratórios, a embargante alega que houve omissão, pois, no seu entender, não foram enfrentadas questões jurídicas centrais levantadas pela defesa.
+Sustenta que "A defesa demonstrou, de forma detalhada, a existência de flagrante ilegalidade na persecução penal  .. " (fl. 272).
+Assere sobre a origem, em tese, ilícita da investigação e a suposta quebra da cadeia de custódia.
+Afirma a ocorrência de fragilidade probatória.
+Menciona a teoria dos frutos da árvore envenenada.
+Requer, ao final, o conhecimento e acolhimento dos embargos de declaração, com efeitos infringentes, para sanar os vícios apontadas.
+O Ministério Público Federal manifestou ciência da decisão, à fl. 269.
+É o relatório.
+EMENTA
+Direito processual penal. Embargos de declaração. Habeas corpus. Agravo regimental. Nulidade de provas digitais. Cadeia de custódia. Alegada omissão. Inexistência de vícios do art. 619 do CPP. Embargos rejeitados.
+I. Caso em exame
+1. Embargos de declaração opostos em favor da embargante contra acórdão de Turma que, à unanimidade, negara provimento a recurso, mantendo decisão que indeferira liminarmente habeas corpus impetrado como substitutivo de recurso próprio.
+2. Segundo a embargante, o acórdão teria incorrido em omissão por não enfrentar questões jurídicas centrais suscitadas na defesa, relativas à alegada origem ilícita da investigação, à suposta quebra da cadeia de custódia, à fragilidade probatória e à aplicação da teoria dos frutos da árvore envenenada, pugnando pelo acolhimento dos embargos com efeitos infringentes.
+II. Questão em discussão
+3. A questão em discussão consiste em saber se o acórdão embargado incorreu em omissão, contradição, obscuridade ou erro material, nos termos do art. 619 do CPP.
+III. Razões de decidir
+4. Os embargos de declaração, nos termos do art. 619 do CPP, somente são cabíveis para sanar ambiguidade, obscuridade, contradição, omissão ou erro material, não se prestando ao reexame do mérito da causa ou à rediscussão de fundamentos já apreciados.
+5. O acórdão embargado analisou de forma fundamentada a controvérsia acerca da suposta nulidade absoluta das provas digitais, da alegada violação à cadeia de custódia e da teoria dos frutos da árvore envenenada, assentando que a condenação se amparou em conjunto probatório amplo, harmônico, submetido ao contraditório e confirmado pelo Conselho de Sentença, não se verificando ilicitude probatória capaz de macular todo o processo.
+6. Ficou reafirmado que o habeas corpus foi utilizado como substitutivo de recurso próprio e, na prática, como sucedâneo de revisão criminal, em situação em que não se configurou competência originária da Corte, já havendo trânsito em julgado do acórdão condenatório, o que inviabiliza a pretensão de ampla reanálise fático-probatória na via estreita do habeas corpus.
+7. A jurisprudência do Superior Tribunal de Justiça é iterativa no sentido de que o habeas corpus e seus recursos não se prestam à incursão aprofundada no acervo fático-probatório nem ao controle do convencimento do Tribunal do Júri, sob pena de violação à soberania dos veredictos, não se tendo identificado flagrante ilegalidade a justificar exceção a essa orientação.
+IV. Dispositivo e tese
+8. Resultado do Julgamento: Embargos de declaração rejeitados.
+Tese de julgamento:
+1. Os embargos de declaração, previstos no art. 619 do CPP, não se prestam ao reexame de matéria de mérito nem à rediscussão de fundamentos já enfrentados, exigindo a demonstração específica de omissão, contradição, obscuridade ou erro material.
+2. É imprópria a via do habeas corpus e de seus recursos para substituir recurso próprio ou revisão criminal e para promover reexame aprofundado do acervo fático-probatório, especialmente quando já transitada em julgado a condenação proferida pelo Tribunal do Júri, salvo em hipóteses de flagrante ilegalidade não configuradas.
+Dispositivos relevantes citados: CPP, art. 619.
+Jurisprudência relevante citada: STJ, AgRg no HC 817.562/RS, Quinta Turma, Rel. Min. Reynaldo Soares da Fonseca, DJe 30.06.2023; STJ, AgRg no HC 812.438/SP, Quinta Turma, Rel. Min. Ribeiro Dantas, DJe 29.06.2023; STJ, HC 704.718/SP, Sexta Turma, Rel. Min. Laurita Vaz, DJe 23.05.2023; STJ, AgRg no HC 811.106/SP, Sexta Turma, Rel. Min. Rogerio Schietti Cruz, DJe 22.06.2023; STJ, AgRg no HC 819.078/SP, Sexta Turma, Rel. Min. Laurita Vaz, DJe 15.06.2023; STJ, EDcl no AgRg no REsp 1.988.016/SP, Quinta Turma, Rel. Min. João Batista Moreira (Des. Convocado do TRF1), DJe 27.06.2023; STJ, EDcl no AgRg no AREsp 1.681.479/RN, Quinta Turma, Rel. Min. Ribeiro Dantas, DJe 23.03.2023; STJ, AgRg no REsp 2.062.933/PR, Sexta Turma, Rel. Min. Rogerio Schietti Cruz, DJe 17.08.2023.
+VOTO
+Preambularmente, insta consignar que os embargos de declaração são cabíveis nas hipóteses do art. 619 do CPP, isto é, nos casos de ambiguidade, obscuridade, contradição ou omissão. Podem também ser admitidos para a correção de eventual erro material, consoante o entendimento hoje preconizado pelo CPC; sendo possível, apenas excepcionalmente, a alteração ou modificação do decisum embargado.
+São inadmissíveis, portanto, quando, a pretexto da necessidade de esclarecimento, aprimoramento ou complemento da decisão embargada, objetivam, em essência, novo julgamento do caso.
+No presente caso, a embargante aponta que houve omissão no acórdão embargado.
+Contudo, tem-se que a manifestação monocrática e a colegiada analisaram de forma devidamente fundamentada os pontos apresentados e, quanto aos presentes embargos, buscam tão somente o reexame das matérias anteriormente julgadas.
+No acordão ora embargado, foi ressaltado, às fls. 259-263, que:
+Cinge-se a controvérsia acerca de possível reconhecimento da nulidade da condenação, em especial, em razão da da suposta nulidade absoluta das provas digitais obtidas e da violação à cadeia de custódia.
+No entanto, o habeas corpus foi impetrado como substitutivo de recurso próprio, o que não se mostra permitido.
+Ainda que não obstante, hoje, o acórdão conta com trânsito em julgado.
+Diante disso, foi indeferido, pois utilizado como substituto de uma revisão criminal, em uma situação na qual não se configurou a competência originária desta Corte.  ..
+Por elucidativos, confiram-se os fundamentos do acórdão impugnado para rechaçar a tese de nulidade absoluta das provas digitais obtidas e da violação à cadeia de custódia (fls. 41-42):
+ ..  Como já registrado na análise da preliminar acima rechaçada, da mesma forma, meras citações da pronúncia e de outro Inquérito Policial, sem maiores incursões, no entrechoque das ideias divergentes, leia-se acusação e Defesa, não podem culminar com o reconhecimento de uma atipicidade processual a tornar um julgamento do júri imprestável, como quer fazer crer a Defesa.
+No tocante a pronúncia, inclusive, o juízo a quo consignou que "o trecho lido se trata do depoimento quo foi colhido na audiência de instrução, transcrito na pronuncia, bem como esclareceu que toda a Sessão está sendo gravada podendo ser utilizada a gravação para quaisquer fins de apuração. Repetiu- se que não se trata do trecho realizado pelo Magistrado ao pronunciar a ré. Esclarece mais uma vez que, para conhecimento, cópia da Pronuncia e o relatório está com os jurados." (sic).
+Advirta-se que, como bem o disse a douta Procuradoria de Justiça, "o julgamento popular é um ato complexo, no qual diversas partes interessadas participam. É natural que, em tais circunstâncias, ocorram momentos de tensão e emoção. Contudo, as eventuais irregularidades alegadas não possuem o condão de macular a lisura do processo, uma vez que não houve qualquer prejuízo à defesa ou ao réu." (Id nº. 75455088).
+Da mesma forma, perseguir outra nulidade, agora, relativa ao uso de prints de celulares em que se comprovou o envolvimento da Apelante com o suposto executor do homicídio (vulgo "sombra"), cujas provas já estavam colacionadas nos autos, a não surpreender, nem de longe, a Defesa, também não faz qualquer sentido.
+Ademais, em consulta a Ata da Sessão Plenária (Id n.º 74939793) e do exame da sentença hostilizada - "Nesse sentido, inexistindo preliminar ou prejudicial de mérito suscitada ou nulidades a serem reconhecidas de oficio, passo a acatar o veredicto soberano do Conselho de Sentença". Id n.º. 74939792 - não se vislumbra ter havido arguição de nulidade, mas, tão somente, intervenção da Defesa para registro em ata, oportunidade em que o Magistrado-Presidente do Tribunal do Júri esclareceu todos os temas, revelando-se a prefacial muito mais como um artifício denominado pelos Tribunais Superiores como "nulidade de algibeira".  ..
+Some-se, ainda, que mesmo que se tratasse de nulidade absoluta, seria indispensável a demonstração de efetivo prejuízo, bem como arguição oportuna, sob pena de preclusão e, no caso vertente, não se vislumbra qualquer prejuízo a Apelante a ser reconhecido nesta instância ad quem.  ..
+No mesmo compasso, o parecer do MPF (fl. 221):
+Como se vê, a Corte de origem consignou que a condenação da paciente não se fundou de maneira exclusiva ou determinante em prints de conversas de WhatsApp ou áudios extraídos de aparelho celular, mas em um conjunto probatório amplo, harmônico e submetido ao crivo do contraditório, devidamente apreciado pelo Conselho de Sentença.
+Assim, a pretensão defensiva de anulação integral da condenação, desde o oferecimento da denúncia, esbarra na constatação de que o édito condenatório está amparado em conjunto probatório suficiente e validamente produzido, não havendo falar em ilicitude probatória capaz de contaminar todo o processo.
+A acolhida da tese defensiva demandaria, ademais, reexame aprofundado do acervo fático-probatório e das razões que conduziram o Conselho de Sentença à condenação, providência incompatível com a estreita via do habeas corpus, sobretudo diante da soberania das decisões do Tribunal do Júri, corretamente preservada pelo acórdão impugnado.
+Sendo assim, para infirmar a conclusão da origem, que, inclusive confirmou o julgamento pelo Conselho de Sentença, dotado da soberania dos vereditos constitucionalmente prevista, é iterativa a jurisprudência deste Superior Tribunal de Justiça no sentido de ser imprópria a via do habeas corpus (e do seu recurso) para a análise de teses que demandem incursão no acervo fático-probatório.
+ ..
+De mais a mais, é iterativa a jurisprudência deste Superior Tribunal de Justiça no sentido de ser imprópria a via do habeas corpus (e do seu recurso) para a análise de teses que demandem incursão no acervo fático-probatório (AgRg no HC n. 817.562/RS, Quinta Turma, Rel. Min. Reynaldo Soares da Fonseca, DJe de 30/6/2023; AgRg no HC 812.438/SP, Quinta Turma, Rel. Min. Ribeiro Dantas, DJe de 29/6/2023; HC n. 704.718/SP, Sexta Turma, Relª. Minª. Laurita Vaz, DJe de 23/5/2023; e AgRg no HC 811.106/SP, Sexta Turma, Rel. Min. Rogerio Schietti Cruz, DJe de 22/6/2023).
+Diante disso, não se constatou a flagrante ilegalidade apontada.
+Por fim, destaque-se que, no presente agravo regimental, não se aduziu qualquer argumento apto a ensejar a alteração da decisão ora agravada, devendo ser mantida por seus próprios fundamentos (AgRg no HC n. 819.078/SP, Sexta Turma, Relª. Minª. Laurita Vaz, DJe de 15/6/2023).
+Ante o exposto, nego provimento ao agravo regimental, mantendo a decisão agravada por seus próprios fundamentos.
+Consoante consta, a matéria foi devidamente analisada, claro, nos limites em que aqui apresentada e nas balizas da via eleita, não havendo falar em vícios.
+Em suma, o acórdão embargado analisou de forma fundamentada os pontos apresentados, não havendo omissão ou contradição, nem mesmo erro material.
+Ao fim, o que pretende a embargante, na verdade, é o reexame da matéria de mérito já julgada, situação que não se coaduna com a via dos embargos de declaração. Corroborando: EDcl no AgRg no REsp n. 1.988.016/SP, Quinta Turma, Rel. Min. João Batista Moreira, Des. Convocado do TRF1, DJe de 27/6/2023; EDcl no AgRg no AREsp n. 1.681.479/RN, Quinta Turma, de minha relatoria, DJe de 23/3/2023; e AgRg no REsp n. 2.062.933/PR, Sexta Turma, Rel. Min. Rogerio Schietti Cruz, DJe de 17/8/2023.
+Ante o exposto, rejeito os embargos de declaração.
+É como voto.
