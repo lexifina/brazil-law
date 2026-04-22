@@ -1,0 +1,30 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 16/04/2026 a 22/04/2026, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Maria Thereza de Assis Moura, Marco Aurélio Bellizze, Teodoro Silva Santos e Afrânio Vilela votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Teodoro Silva Santos.
+EMENTA
+PROCESSUAL CIVIL. AÇÃO DE OBRIGAÇÃO DE FAZER. FORNECIMENTO DE MEDICAMENTO NÃO INCORPORADO AO SUS. TEMA N. 106/STJ. RESPONSABILIDADE SOLIDÁRIA DOS ENTES FEDERATIVOS. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA N. 211/STJ. DESPROVIMENTO DO AGRAVO INTERNO. MANUTENÇÃO DA DECISÃO RECORRIDA.
+I - Na origem, trata-se de ação de obrigação de fazer, cumulada com pedido de tutela de urgência, objetivando o fornecimento de medicamento. Sobreveio sentença julgando procedente o pedido para determinar aos entes demandados o fornecimento do fármaco prescrito, reconhecendo estarem preenchidos os requisitos fixados pelo Superior Tribunal de Justiça no Tema n. 106/STJ. O Tribunal de Justiça negou provimento à apelação, mantendo a condenação solidária dos entes federativos.
+II - "Não há prequestionamento da tese recursal quando a questão postulada não foi examinada pela Corte de origem sob o viés pretendido pela parte recorrente" (AgInt no AREsp n. 1.946.228/DF, relator Ministro Francisco Falcão, Segunda Turma, DJe de 28/4/2022).
+III - Agravo interno improvido.
+RELATÓRIO
+Trata-se de agravo interno interposto contra decisão que julgou ação de obrigação de fazer, cumulada com pedido de tutela de urgência, objetivando o fornecimento de medicamento. Sobreveio sentença julgando procedente o pedido, para determinar aos entes demandados o fornecimento do fármaco prescrito, reconhecendo estarem preenchidos os requisitos fixados pelo Superior Tribunal de Justiça no Tema n. 106/STJ. O Tribunal de Justiça negou provimento à apelação, mantendo a condenação solidária dos entes federativos.
+A decisão recorrida tem o seguinte dispositivo: "Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do Agravo para não conhecer do Recurso Especial."
+No agravo interno, a parte recorrente traz, resumidamente, os seguintes argumentos:
+a) decisão monocrática incorreu em equívoco ao aplicar a Súmula n. 284/STF sob o fundamento de ausência de exame da questão federal pelo Tribunal de origem. Afirma que o acórdão recorrido enfrentou expressamente as teses suscitadas no recurso especial, especialmente a ilegitimidade passiva do município, a natureza de medicamento de alto custo não incorporado ao SUS, a aplicação do Tema n. 106/STJ e a responsabilidade solidária dos entes federativos;
+b) aduz que o recurso especial indicou de forma clara os dispositivos federais tidos por violados - notadamente os arts. 7º, IX e X; 15, I e II; 16; 17; 18; 19-M; 19-Q, § 2º, I, da Lei n. 8.080/1990 e o art. 15 do Decreto n. 7.508/2011 - todos relacionados à repartição de competências no SUS e à atribuição do Ministério da Saúde para incorporação de medicamentos;
+c) s ustenta que o acórdão recorrido examinou expressamente o Tema n. 106/STJ, transcrevendo seus requisitos e concluindo que estavam preenchidos no caso concreto, o que demonstraria o enfrentamento da matéria federal. Argumenta que, ao decidir pela possibilidade de fornecimento de medicamento não incorporado ao SUS e rejeitar a preliminar de ilegitimidade passiva do município, o Tribunal de origem enfrentou - ainda que para rejeitar - a tese relativa à repartição de competências estabelecida na Lei n. 8.080/1990;
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AÇÃO DE OBRIGAÇÃO DE FAZER. FORNECIMENTO DE MEDICAMENTO NÃO INCORPORADO AO SUS. TEMA N. 106/STJ. RESPONSABILIDADE SOLIDÁRIA DOS ENTES FEDERATIVOS. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA N. 211/STJ. DESPROVIMENTO DO AGRAVO INTERNO. MANUTENÇÃO DA DECISÃO RECORRIDA.
+I - Na origem, trata-se de ação de obrigação de fazer, cumulada com pedido de tutela de urgência, objetivando o fornecimento de medicamento. Sobreveio sentença julgando procedente o pedido para determinar aos entes demandados o fornecimento do fármaco prescrito, reconhecendo estarem preenchidos os requisitos fixados pelo Superior Tribunal de Justiça no Tema n. 106/STJ. O Tribunal de Justiça negou provimento à apelação, mantendo a condenação solidária dos entes federativos.
+II - "Não há prequestionamento da tese recursal quando a questão postulada não foi examinada pela Corte de origem sob o viés pretendido pela parte recorrente" (AgInt no AREsp n. 1.946.228/DF, relator Ministro Francisco Falcão, Segunda Turma, DJe de 28/4/2022).
+III - Agravo interno improvido.
+VOTO
+O agravo interno não merece provimento.
+A parte agravante repisa os mesmos argumentos já analisados na decisão recorrida.
+Quanto à controvérsia, não houve o prequestionamento da tese recursal, porquanto a questão postulada não foi examinada pela Corte a quo sob o viés pretendido pela parte recorrente.
+Nesse sentido: "Não há prequestionamento da tese recursal quando a questão postulada não foi examinada pela Corte de origem sob o viés pretendido pela parte recorrente" (AgInt no AREsp n. 1.946.228/DF, relator Ministro Francisco Falcão, Segunda Turma, DJe de 28/4/2022).
+Confiram-se ainda os seguintes precedentes: AgInt no AREsp n. 2.023.510/GO, relator Ministro Humberto Martins, Terceira Turma, DJe de 29/2/2024; AgRg no AREsp n. 2.354.290/ES, relator Ministro Joel Ilan Paciornik, Quinta Turma, DJe de 15/2/2024; AgInt no AREsp 1.514.978/SC, relator Ministro Napoleão Nunes Maia Filho, Primeira Turma, DJe de 17/6/2020; AgInt no AREsp n. 1.582.679/DF, relator Ministro Herman Benjamin, Segunda Turma, DJe de 26/5/2020; AgInt no AREsp 965.710/SP, relatora Ministra Assusete Magalhães, Segunda Turma, DJe de 19.9.2018; e AgRg no AREsp 1.217.660/SP, relator Ministro Jorge Mussi, Quinta Turma, DJe de 4/5/2018.
+Ante o exposto, não havendo razões para modificar a decisão recorrida, nego provimento ao agravo interno.
+É o voto.
