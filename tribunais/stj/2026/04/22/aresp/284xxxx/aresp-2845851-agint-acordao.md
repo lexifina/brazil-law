@@ -1,0 +1,66 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 16/04/2026 a 22/04/2026, por unanimidade, não conhecer do recurso, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Marco Aurélio Bellizze, Teodoro Silva Santos, Afrânio Vilela e Francisco Falcão votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro Teodoro Silva Santos.
+EMENTA
+DIREITO PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. (DECISÃO DA PRESIDÊNCIA DO STJ NÃO REFUTADA). AUSÊNCIA DE IMPUGNAÇÃO AOS FUNDAMENTOS DA DECISÃO AGRAVADA. DESCUMPRIMENTO DO PRINCÍPIO DA DIALETICIDADE. ARTS. 932, III, E 1.021, §1º, DO CPC. AGRAVO INTERNO NÃO CONHECIDO.
+1. "Em atenção ao princípio da dialeticidade recursal, a impugnação deve ser realizada de forma efetiva, concreta e pormenorizada, não sendo suficientes alegações genéricas ou relativas ao mérito da controvérsia". (AgInt no AREsp n. 2.275.418/RN, rel. Min. Humberto Martins, Segunda Turma, DJe de 19/4/2023)
+2. "Verificada a ausência de impugnação específica de todos os fundamentos da decisão agravada, não se conhece do agravo interno, diante da inobservância do princípio da dialeticidade, conforme exigem os arts. 932, III, e 1.021, § 1º, do CPC/2015". (AgInt no AREsp n. 2.590.320/SP, rel. Min. Marco Aurélio Bellizze, Terceira Turma, DJe de 15/8/2024)
+3. Agravo interno não conhecido.
+RELATÓRIO
+Trata-se de agravo interno interposto por ARACELES MARIA MENDES DA GAMA E OUTROS, contra decisão monocrática, de lavra da Presidência deste Tribunal, que conheceu do agravo para não conhecer do recurso especial, com a seguinte fundamentação (fls. 538-543):
+Decido.
+Quanto à controvérsia, incide a Súmula n. 284/STF, tendo em vista que não há a indicação clara e precisa do dispositivo de lei federal tido por violado, pois nas razões do Recurso Especial não se particularizou o inciso, o parágrafo ou a alínea sobre o qual recairia a referida ofensa, incidindo, por conseguinte, o citado enunciado: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia". Ressalte-se, por oportuno, que essa indicação genérica do artigo de lei que teria sido contrariado induz à compreensão de que a violação alegada é somente de seu caput, que, no caso, traz em seu texto uma mera introdução ao regramento legal contido nos incisos, nos parágrafos ou nas alíneas.
+Nesse sentido: "A alegação de ofensa a normas legais sem a individualização precisa e compreensível do dispositivo legal supostamente ofendido, isto é, sem a específica indicação numérica do artigo de lei, parágrafos e incisos e das alíneas, e a citação de passagem de artigos sem a efetiva demonstração da contrariedade de lei federal impedem o conhecimento do recurso especial por deficiência de fundamentação, aplicando-se o disposto na Súmula n. 284 do STF" (AgInt no REsp n. 2.038.626/PR, Rel. Ministro João Otávio de Noronha, Quarta Turma, DJEN de 17/2/2025).
+De igual sorte: "Ausente a indicação dos incisos e/ou parágrafos supostamente violados do artigo de lei apontado, tem incidência a Súmula 284 do STF (AgInt no AREsp n. 2.422.363/RS, Rel. Ministro Gurgel de Faria, Primeira Turma, DJe de 19/4/2024).
+Confiram-se também os seguintes julgados: (..)
+Ademais, não houve o prequestionamento da tese recursal, porquanto a questão postulada não foi examinada pela Corte sob o viés pretendido pela partea quo recorrente. Nesse sentido: "Não há prequestionamento da tese recursal quando a questão postulada não foi examinada pela Corte de origem sob o viés pretendido pela parte recorrente" (AgInt no AREsp n. 1.946.228/DF, relator Ministro Francisco Falcão, Segunda Turma, DJe de 28/4/2022).
+Confiram-se ainda os seguintes precedentes: (..)
+Além disso, o Tribunal a quo se manifestou nos seguintes termos:
+A presente ação rescisória foi inadmitida, porque ajuizada diante de decisão proferida em fase de cumprimento de sentença que, a rigor, não é decisão de mérito, não faz coisa julgada material e, assim, não desafia ação rescisória. Para além das razões já expressas na decisão monocrática e não superadas no presente recurso, cumpre ainda acrescer os seguintes fundamentos. Do ponto de vista estritamente legal, o próprio Código de Processo Civil define o que seja decisão de mérito. Confira-se:  ..
+ ..  Ora, no caso em tela, não há ocorrência de nenhuma das hipóteses listadas no dispositivo acima citado.
+ ..
+Como ressaltado, o v. acórdão rescindendo não julgou pedido, não submeteu nenhum pedido à cognição, não abriu processo de conhecimento embutido na execução, mas, ao contrário, apenas reafirmou a ausência de discrepância entre a coisa julgada formada e o quanto executado.
+O sentido da fase executiva é o de efetivação do direito constante no título, ou seja, vai do direito aos fatos, ao contrário da fase de conhecimento, que parte dos fatos, para chegar ao direito. Assim, na fase de execução, o que se busca é transformar em realidade aquilo que consta no título executivo judicial, dando ao credor exatamente aquilo que lhe foi garantido no julgado. Não há pedido a ser submetido à cognição e julgado, na fase de execução. Por isso, não há decisão de mérito transitado em julgado, no caso em tela. Não se nega que o atual Código de Processo Civil substituiu a expressão "sentença" por "decisão" de mérito. Cabível, assim, por hipótese, a rescisória de decisão de julgamento parcial do mérito (posto que, nesse caso, não há sentença). A fundamentação deste julgado, porém, não é lastreada do vocábulo "sentença", mas, nuclearmente, na expressão "de mérito", entendida esta, em termos legais e doutrinários, como decisão que julga pedido no processo de conhecimento (fls. 460-462).
+Assim, incide a Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), porquanto o acolhimento da pretensão recursal demandaria o reexame do acervo fático-probatório juntado aos autos. Nesse sentido: (..)
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do Agravo para não conhecer do Recurso Especial.
+Em seu agravo interno, às fls. 549-554, a parte recorrente reitera as razões de sua petição de agravo em recurso especial e suscita que "o requisito de admissibilidade da ação rescisória, qual seja, "decisão de mérito" está preenchido, não havendo que se falar em extinção da ação por inépcia da petição inicial" (fl. 551).
+Argumenta, ainda, que houve o prequestionamento da matéria, sob entendimento de que "as questões infraconstitucionais invocadas pelos ora Agravantes no que tange à infringência aos artigos 330, I, e 966, do CPC, foram enfrentadas pelo Tribunal local, sendo desnecessária a citação numérica pelo v. acórdão recorrido" (fl. 551).
+Por fim, aduz que "não é necessário o reexame do conjunto fático-probatório (..)
+uma vez que o fato de o acórdão rescindendo ter sido proferido no curso da execução não elimina o fato de ter tratado sobre o mérito da demanda originária" (fl. 552).
+As contrarrazões não foram apresentadas.
+É o relatório.
+EMENTA
+DIREITO PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. (DECISÃO DA PRESIDÊNCIA DO STJ NÃO REFUTADA). AUSÊNCIA DE IMPUGNAÇÃO AOS FUNDAMENTOS DA DECISÃO AGRAVADA. DESCUMPRIMENTO DO PRINCÍPIO DA DIALETICIDADE. ARTS. 932, III, E 1.021, §1º, DO CPC. AGRAVO INTERNO NÃO CONHECIDO.
+1. "Em atenção ao princípio da dialeticidade recursal, a impugnação deve ser realizada de forma efetiva, concreta e pormenorizada, não sendo suficientes alegações genéricas ou relativas ao mérito da controvérsia". (AgInt no AREsp n. 2.275.418/RN, rel. Min. Humberto Martins, Segunda Turma, DJe de 19/4/2023)
+2. "Verificada a ausência de impugnação específica de todos os fundamentos da decisão agravada, não se conhece do agravo interno, diante da inobservância do princípio da dialeticidade, conforme exigem os arts. 932, III, e 1.021, § 1º, do CPC/2015". (AgInt no AREsp n. 2.590.320/SP, rel. Min. Marco Aurélio Bellizze, Terceira Turma, DJe de 15/8/2024)
+3. Agravo interno não conhecido.
+VOTO
+O agravo interno em apreço não possui aptidão para ser conhecido.
+O artigo 932, inciso III, do Código de Processo Civil assevera que "incumbe ao relator (..) III - não conhecer de recurso inadmissível, prejudicado ou que não tenha impugnado especificamente os fundamentos da decisão recorrida". Idêntica redação consta no artigo 255, §4º, inciso I, do Regimento Interno do STJ. Ambos os dispositivos nasceram por inspiração no enunciado 182 da Súmula do STJ, que reza:
+É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada.
+O regramento supra mencionado é utilizado para o julgamento unipessoal dos processos no STJ, que não tenham obedecido o princípio da dialeticidade.
+Para o agravo interno, o Código de Processo Civil trouxe a previsão contida no artigo 1.021, §1º, segundo a qual, "na petição de agravo interno, o recorrente impugnará especificadamente os fundamentos da decisão agravada". No mesmo sentido é a dicção do artigo 259, §2º, do Regimento Interno do STJ.
+Na hipótese em análise, a decis ão monocrática de fls. 538-543, fundou-se em três argumentos, quais sejam: 1 - incidência, por analogia, do enunciado 284 da Súmula do STF, "tendo em vista que não há indicação clara e precisa do dispositivo de lei federal tida por violado" (fl. 541); 2 - ausência de prequestionamento da tese recursal, "porquanto a questão postulada não foi examinada peça Corte a quo sob o viés pretendido pela parte recorrente"; e 3 - aplicabilidade do enunciado 7 da Súmula do STJ, diante da impossibilidade de reexame de fatos e provas na instância especial.
+Todavia, em sede de agravo interno, a parte recorrente não refutou, de forma fundamentada e a contento, os argumentos da decisão monocrática, os quais, à míngua de impugnação específica, detalhada, concreta e pormenorizada, permanecem hígidos, produzindo todos os efeitos no mundo jurídico.
+A propósito:
+"PROCESSUAL CIVIL. ADMINISTRATIVO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. IMPUGNAÇÃO GENÉRICA. INCIDÊNCIA DO ART. 1021, § 1º, DO CPC/2015.
+1. O agravo interno que limita-se a tecer impugnações genéricas quanto aos fundamentos da decisão agravada, bem como a repetir as mesmas razões do agravo em recurso especial, não atende o ônus da dialeticidade previsto no art. 1021, § 1º do CPC/2015.
+2. Agravo interno não conhecido"
+(AgInt no AREsp n. 1.973.779/SP, rel. Min. Mauro Campbell Marques, Segunda Turma, DJe de 24/3/2022)
+"AGRAVO INTERNO. PEDIDO DE TUTELA PROVISÓRIA INDEFERIDO. REQUERIMENTO PARA AGREGAÇÃO DE EFEITO SUSPENSIVO A RECURSO ESPECIAL INADMITIDO NA ORIGEM, HOJE, EM FASE DE PROCESSAMENTO.
+(..)
+4. A alegação genérica no agravo interno, apenas reprisando as razões apresentadas na peça vestibular, não é apta a caracterizar a impugnação específica exigida no art. 1.021, § 1º, do CPC, e, portanto, a autorizar o conhecimento, no ponto, do presente agravo.
+5. AGRAVO INTERNO PARCIALMENTE CONHECIDO E, NESTA PARTE, DESPROVIDO".
+(AgInt no TP n. 711/PE, rel. Min. Paulo de Tarso Sanseverino, Terceira Turma, DJe de 19/10/2017)
+Note-se que "a parte, ao recorrer, deve demonstrar o desacerto da decisão contra a qual se insurge, contestando todos os óbices por ela levantados, sob pena de sua manutenção". (AgRg nos EDv nos EAREsp n. 1.226.428/SP, rel. Min. Jorge Mussi, Corte Especial, DJe de 26/5/2020)
+Assim, "inexistindo impugnação suficiente, como seria de rigor, aos fundamentos da decisão ora agravada, essa circunstância obsta, por si só, a pretensão recursal, pois, à falta de contrariedade, permanecem incólumes os motivos expendidos pela decisão recorrida". (AgInt no AREsp n. 1.439.852/MS, rel. Min. Luis Felipe Salomão, Quarta Turma, DJe de 18/3/2020)
+A respeito do tema, saliente-se que, "em atenção ao princípio da dialeticidade recursal, a impugnação deve ser realizada de forma efetiva, concreta e pormenorizada, não sendo suficientes alegações genéricas ou relativas ao mérito da controvérsia, sob pena de incidência, por analogia, da Súmula n. 182 do STJ." (AgInt no AREsp n. 2.067.588/SP, rel. Min. Herman Benjamin, Segunda Turma, DJe de 20/8/2024)
+Desse modo, "verificada a ausência de impugnação específica de todos os fundamentos da decisão agravada, não se conhece do agravo interno, diante da inobservância do princípio da dialeticidade, conforme exigem os arts. 932, III, e 1.021, § 1º, do CPC/2015". (AgInt no AREsp n. 2.590.320/SP, rel. Min. Marco Aurélio Bellizze, Terceira Turma, DJe de 15/8/2024) No mesmo sentido:
+PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO MANDO DE SEGURANÇA. RECURSO ESPECIAL. INTEMPESTIVIDADE. SUSPENSÃO DOS PRAZOS PROCESSUAIS NO TRIBUNAL DE ORIGEM. AUSÊNCIA DE COMPROVAÇÃO DO FERIADO LOCAL QUANDO DA INTERPOSIÇÃO DO RECURSO. COVID-19.
+(..)
+3. Em observância ao disposto no art. 1.021, § 1º, do CPC, que reforça o entendimento já consolidado na Súmula n. 182 do STJ, não se conhece de agravo interno que não impugna os fundamentos de decisão agravada.
+4. Agravo interno não conhecido.
+(AgInt nos EDcl no MS n. 28.813/DF, rel. Min. João Otávio de Noronha, Corte Especial, DJe de 16/8/2024)
+Ante o exposto, não conheço do agravo interno.
+É como voto.
