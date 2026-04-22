@@ -1,0 +1,58 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 14/04/2026 a 22/04/2026, por unanimidade, conhecer do recurso e lhe dar provimento, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Raul Araújo, Maria Isabel Gallotti, Antonio Carlos Ferreira e Luís Carlos Gambogi (Desembargador Convocado do TJMG) votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro João Otávio de Noronha.
+EMENTA
+DIREITO CIVIL. AGRAVO EM RECURSO ESPECIAL. ENCARGOS MORATÓRIOS EM INDENIZAÇÃO POR DANOS MORAIS. APLICAÇÃO DA TAXA SELIC COMO ÍNDICE ÚNICO E VEDAÇÃO DE CUMULAÇÃO COM CORREÇÃO MONETÁRIA. AGRAVO EM RECURSO ESPECIAL CONHECIDO PARA CONHECER DO RECURSO ESPECIAL E DAR-LHE PROVIMENTO.
+I. CASO EM EXAME
+1. Agravo em recurso especial contra decisão que inadmitiu o recurso especial por ausência de prequestionamento, com incidência da Súmula n. 282 do STF e da Súmula n. 356 do STF.
+2. A controvérsia decorre de ação de indenização por danos morais e materiais proposta em razão do rompimento da barragem do Fundão.
+3. Na sentença, o Juízo de primeiro grau condenou ao pagamento de R$ 15.000,00 por danos morais e afastou os danos materiais por ausência de prova.
+4. A Corte de origem majorou os danos morais para R$ 40.000,00 e fixou juros de 1% ao mês até a entrada em vigor da Lei n. 14.905/2024, com aplicação da taxa Selic a partir de então, além de correção monetária pelo IPCA desde o arbitramento, conforme o art. 406, § 1º, do Código Civil, e o art. 389, parágrafo único, do Código Civil.
+II. QUESTÃO EM DISCUSSÃO
+5. Há três questões em discussão: (i) saber se o art. 406 do Código Civil impõe a taxa Selic como índice único desde o evento danoso; (ii) saber se é possível cumular a Selic com correção monetária à luz do art. 389 do Código Civil; e (iii) saber se há divergência jurisprudencial quanto aos encargos moratórios.
+III. RAZÕES DE DECIDIR
+6. Ocorre a ofensa ao art. 406 do Código Civil, pois a taxa Selic deve incidir como taxa de juros de mora nas dívidas civis, antes da entrada em vigor da Lei n. 14.905/2024, conforme o Tema Repetitivo n. 1368 do STJ.
+7. Ocorre a ofensa ao art. 389 do Código Civil, porque não se admite a cumulação da taxa Selic com correção monetária, dado que a Selic já engloba atualização e juros.
+IV. DISPOSITIVO E TESE
+8. Agravo em recurso especial conhecido para conhecer do recurso especial e dar-lhe provimento.
+Tese de julgamento: "1. Aplica-se a interpretação do art. 406 do Código Civil firmada no Tema Repetitivo n. 1368 do STJ, segundo a qual a taxa Selic é o índice único de juros de mora nas dívidas civis, mesmo antes da vigência da Lei n. 14.905/2024. 2. A taxa Selic não pode ser cumulada com correção monetária, devendo incidir desde o evento danoso e afastando a aplicação de juros de 1% ao mês".
+Dispositivos relevantes citados: CC, arts. 389, parágrafo único, e 406, § 1º; CF, art. 105, III, a e c.
+Jurisprudência relevante citada: STJ, Tema Repetitivo n. 1368.
+RELATÓRIO
+Trata-se de agravo em recurso especial interposto por SAMARCO MINERAÇÃO S/A contra a decisão que inadmitiu o recurso especial ao fundamento de ausência de prequestionamento da matéria federal suscitada, com incidência das Súmulas n. 282 e 356 do STF.
+O recurso especial foi interposto com fundamento no art. 105, III, alíneas a e c, da Constituição Federal, contra acórdão do Tribunal de Justiça do Estado de Minas Gerais proferido em apelação nos autos de ação de indenização por danos morais e materiais.
+O julgado foi assim ementado:
+DIREITO CIVIL E PROCESSUAL CIVIL. APELAÇÃO CÍVEL. RESPONSABILIDADE CIVIL. ROMPIMENTO DE BARRAGEM. DANOS MORAIS. MAJORAÇÃO. DESISTÊNCIA PARCIAL DO RECURSO. REJEIÇÃO DAS PRELIMINARES. PROVIMENTO PARCIAL. I. CASO EM EXAME 1. Apelação cível interposta contra sentença da 1ª Vara Cível da Comarca de Ponte Nova que condenou as apeladas ao pagamento de R$15.000,00 a título de danos morais, em razão dos prejuízos sofridos pela apelante em seu imóvel e atividade rural decorrentes do rompimento da barragem do Fundão, em Mariana/MG. A apelante pleiteia a majoração do valor da indenização por danos morais e a condenação das rés ao pagamento de danos materiais e lucros cessantes. Contudo, desiste parcialmente do recurso quanto ao pedido de danos materiais e lucros cessantes, diante de tratativa extrajudicial. II. QUESTÃO EM DISCUSSÃO 2. Há duas questões em discussão: (i) definir se há violação ao princípio da dialeticidade e inovação recursal que impeça o conhecimento do recurso; e (ii) estabelecer se o valor da indenização por danos morais fixado na sentença deve ser majorado. III. RAZÕES DE DECIDIR 3. A desistência parcial do recurso quanto aos danos materiais e lucros cessantes é homologada, nos termos do art. 998 do CPC. 4. A alegada violação ao princípio da dialeticidade é afastada, pois a apelante expôs de forma clara os fundamentos que justificam a majoração dos danos morais, rebatendo a sentença. 5. A preliminar de inovação recursal resta prejudicada, pois a desistência do pedido de indenização por lucros cessantes retira a questão do exame do tribunal. 6. O dano moral restou demonstrado pelos documentos e depoimentos constantes dos autos, comprovando que a apelante foi diretamente atingida pelo desastre e sofreu prejuízos relevantes em sua moradia e atividade rural. 7. A fixação da indenização por danos morais deve observar os princípios da razoabilidade e proporcionalidade, garantindo a justa compensação sem ensejar enriquecimento ilícito. 8. Considerando a gravidade dos danos e os precedentes da 12ª Câmara Cível, a indenização por danos morais deve ser majorada para R$ 40.000,00. IV. DISPOSITIVO E TESE 9. Recurso parcialmente provido.
+No recurso especial, além da divergência jurisprudencial, o recorrente aponta violação dos arts. 389 e 406 do Código Civil, sustentando, em síntese, que o acórdão recorrido incorreu em erro ao estabelecer a incidência de juros de 1% ao mês até a entrada em vigor da Lei n. 14.905/2024 e, apenas a partir de então, aplicar a taxa Selic, cumulada com correção monetária pelo IPCA, em desconformidade com a orientação do STJ, segundo a qual a Selic deve incidir como índice único, desde o evento danoso, sem cumulação com correção monetária.
+Requer, ao final, o provimento do recurso especial para que seja fixada a taxa Selic como único encargo moratório durante todo o período de atualização da condenação.
+É o relatório.
+EMENTA
+DIREITO CIVIL. AGRAVO EM RECURSO ESPECIAL. ENCARGOS MORATÓRIOS EM INDENIZAÇÃO POR DANOS MORAIS. APLICAÇÃO DA TAXA SELIC COMO ÍNDICE ÚNICO E VEDAÇÃO DE CUMULAÇÃO COM CORREÇÃO MONETÁRIA. AGRAVO EM RECURSO ESPECIAL CONHECIDO PARA CONHECER DO RECURSO ESPECIAL E DAR-LHE PROVIMENTO.
+I. CASO EM EXAME
+1. Agravo em recurso especial contra decisão que inadmitiu o recurso especial por ausência de prequestionamento, com incidência da Súmula n. 282 do STF e da Súmula n. 356 do STF.
+2. A controvérsia decorre de ação de indenização por danos morais e materiais proposta em razão do rompimento da barragem do Fundão.
+3. Na sentença, o Juízo de primeiro grau condenou ao pagamento de R$ 15.000,00 por danos morais e afastou os danos materiais por ausência de prova.
+4. A Corte de origem majorou os danos morais para R$ 40.000,00 e fixou juros de 1% ao mês até a entrada em vigor da Lei n. 14.905/2024, com aplicação da taxa Selic a partir de então, além de correção monetária pelo IPCA desde o arbitramento, conforme o art. 406, § 1º, do Código Civil, e o art. 389, parágrafo único, do Código Civil.
+II. QUESTÃO EM DISCUSSÃO
+5. Há três questões em discussão: (i) saber se o art. 406 do Código Civil impõe a taxa Selic como índice único desde o evento danoso; (ii) saber se é possível cumular a Selic com correção monetária à luz do art. 389 do Código Civil; e (iii) saber se há divergência jurisprudencial quanto aos encargos moratórios.
+III. RAZÕES DE DECIDIR
+6. Ocorre a ofensa ao art. 406 do Código Civil, pois a taxa Selic deve incidir como taxa de juros de mora nas dívidas civis, antes da entrada em vigor da Lei n. 14.905/2024, conforme o Tema Repetitivo n. 1368 do STJ.
+7. Ocorre a ofensa ao art. 389 do Código Civil, porque não se admite a cumulação da taxa Selic com correção monetária, dado que a Selic já engloba atualização e juros.
+IV. DISPOSITIVO E TESE
+8. Agravo em recurso especial conhecido para conhecer do recurso especial e dar-lhe provimento.
+Tese de julgamento: "1. Aplica-se a interpretação do art. 406 do Código Civil firmada no Tema Repetitivo n. 1368 do STJ, segundo a qual a taxa Selic é o índice único de juros de mora nas dívidas civis, mesmo antes da vigência da Lei n. 14.905/2024. 2. A taxa Selic não pode ser cumulada com correção monetária, devendo incidir desde o evento danoso e afastando a aplicação de juros de 1% ao mês".
+Dispositivos relevantes citados: CC, arts. 389, parágrafo único, e 406, § 1º; CF, art. 105, III, a e c.
+Jurisprudência relevante citada: STJ, Tema Repetitivo n. 1368.
+VOTO
+Cuida-se, na origem, de ação de indenização por danos morais e materiais proposta em razão do rompimento da barragem do Fundão. O juízo de primeiro grau julgou parcialmente procedente o pedido para condenar as rés ao pagamento de indenização por danos morais no valor de R$ 15.000,00, afastando os danos materiais por ausência de prova.
+Em grau de apelação, o Tribunal de origem majorou a indenização para R$ 40.000,00, estabelecendo a incidência de juros de mora de 1% ao mês desde o evento danoso até a entrada em vigor da Lei n. 14.905/2024 e, a partir de então, a aplicação da taxa Selic, nos termos do art. 406, § 1º, do Código Civil, além de correção monetária pelo IPCA desde o arbitramento, conforme o art. 389, parágrafo único, do mesmo diploma legal.
+No recurso especial, a parte recorrente aponta violação dos arts. 389 e 406 do Código Civil.
+A controvérsia devolvida cinge-se à definição dos encargos moratórios incidentes sobre a condenação, especialmente quanto à aplicação da taxa Selic e à possibilidade de sua cumulação com correção monetária.
+Nos termos da orientação firmada pela Corte Especial do STJ, no julgamento do Tema Repetitivo n. 1368, fixou-se a tese de que o art. 406 do Código Civil de 2002, antes da entrada em vigor da Lei n. 14.905/2024, deve ser interpretado no sentido de que a taxa Selic é o índice aplicável aos juros de mora nas dívidas de natureza civil, por se tratar da taxa em vigor para a atualização monetária e a mora no pagamento de impostos devidos à Fazenda Nacional.
+Além disso, consolidou-se o entendimento de que a taxa Selic não pode ser cumulada com outros índices de correção monetária, sob pena de bis in idem, por já englobar ambos os componentes.
+No caso em análise, o acórdão recorrido estabeleceu a incidência de juros de mora de 1% ao mês até a vigência da Lei n. 14.905/2024, com aplicação da taxa Selic apenas a partir de então, além de cumulação com correção monetária pelo IPCA.
+Tal entendimento diverge da orientação desta Corte. Com efeito, à luz da tese firmada no Tema n. 1368, a taxa Selic deve incidir como índice único desde o evento danoso, não sendo possível sua cumulação com correção monetária, tampouco a aplicação de juros de 1% ao mês no período anterior à Lei n. 14.905/2024.
+Assim, o acórdão recorrido merece reforma para adequar os critérios de atualização da condenação à jurisprudência consolidada desta Corte.
+Ante o exposto, conheço do agravo para conhecer do recurso especial e dar-lhe provimento, a fim de determinar a incidência da taxa Selic, como índice único de juros de mora e correção monetária, a incidir desde o evento danoso.
+É o voto.
