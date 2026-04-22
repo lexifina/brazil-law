@@ -1,0 +1,16 @@
+DECISÃO
+Trata-se de embargos de declaração, opostos por BRUNO TEIXEIRA DA SILVA, contra decisão de fls. 288-292, que não conheceu do habeas corpus.
+Sustenta a parte embargante não haver supressão de instância, pois o pedido de trancamento da ação penal não foi objeto da impetração mas, sim, a revogação da prisão preventiva ou, subsidiariamente, sua substituição por cautelares diversas.
+Aponta omissão na decisão impugnada, pois não teria tratado nem da tese referente à ausência de contemporaneidade da medida extrema, tampouco das teses de ausência de fundamentação do decreto; de valoração jurídica indevida dos registros investigativos (os quais seriam referentes a absolvições, arquivamentos, investigações sem denúncia, procedimentos paralisadas e processo em que o paciente figura como vítima); e de subsidiariedade das medidas cautelares.
+Requer o conhecimento e provimento dos embargos de declaração, com efeitos infringentes, para sanar os vícios apontados e reexaminar a legalidade da prisão preventiva do embargante.
+Petição juntada pela defesa às fls. 309-310 e 318-323, bem como memoriais às fls. 313-316.
+É o relatório.
+Em que pese o esforço defensivo, o recurso se mostra intempestivo.
+Com efeito, nos termos do art. 619 do CPP, bem como do art. 263 do RISTJ, o prazo para a oposição dos embargos de declaração é de 2 dias.
+Todavia, a defesa, que tomou ciência antecipada da decisão impugnada no dia 5/3/2026, quinta-feira (conforme certidão à fl. 293), interpôs a irresignação apenas no dia 10/3/2026, circunstância que torna intempestivo o presente recurso.
+Embora a defesa pleiteie o recebimento do recurso como agravo regimental caso os declaratórios sejam considerados intempestivos (fls. 309-310), o pedido não pode ser atendido pois " a  jurisprudência dominante desta Corte é assente no sentido de que "Embora seja possível se conhecer de embargos de declaração como agravo regimental - quando evidente o seu caráter infringente -, a aplicação do princípio da fungibilidade pressupõe a tempestividade dos embargos, que, nos termos do art. 619 do CPP, devem ser opostos no prazo de 2 (dois) dias". (EDcl na IJ n. 159/MG, relatora Ministra Nancy Andrighi, Corte Especial, julgado em 1/9/2021, DJe de 8/9/2021)" (AgRg nos EDcl nos EREsp n. 1.846.665/RO, relator Ministro Reynaldo Soares da Fonseca, Terceira Seção, julgado em 25/9/2024, DJe de 1/10/2024.)
+E apenas a título de esclarecimento, uma vez que o embargante faz menção a tal fato: apesar de constar do ato embargado ponderações a respeito do trancamento da ação penal, tratou-se de erro material sua inserção no corpo do édito, circunstância que em nada altera o resultado do julgado, pois a tese central da defesa - exame da legalidade da prisão preventiva - foi devidamente realizado, de onde se concluiu que a prisão preventiva foi decretada mediante fundamentação válida (garantia da ordem pública em virtude modus operandi da conduta, destacando-se a prática de homicídio, com corrupção de menores, suposta liderança em facção criminosa e reiteração delitiva).
+Ante o exposto, não conheço dos embargos de declaração e, por consequência, indefiro o recebimento do presente recurso como agravo regimental.
+Publique-se.
+Intimem-se.
+EMENTA
