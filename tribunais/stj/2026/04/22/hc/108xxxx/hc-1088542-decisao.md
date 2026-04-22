@@ -1,0 +1,13 @@
+DECISÃO
+ITALO IGOR SILVA DE OLIVEIRA, condenado por homicídio e porte ilegal de amra de fogo, alega ser vítima de constrangimento ilegal em decorrência de acórdão proferido pelo Tribunal de Justiça do Distrito Federal e dos Territórios, que julgou improcedente a revisão criminal ajuizada naquela Corte.
+Nesta oportunidade, a defesa, com o objetivo de que seja reavaliado o critério de fixação, alega a defesa que " a  manutenção da dosimetria da pena, foi decidida sem que se considerasse a primariedade, a confissão espontânea. A ausência de reavaliação concreta do regime viola o princípio da individualização da pena" (fl. 9).
+O caso permite o julgamento antecipado do habeas corpus, porquanto se adequa a pacífica orientação desta Corte em casos análogos, os quais são desfavoráveis à pretensão defensiva.
+De início, cumpre registrar que a argumentação deduzida pela defesa, dirigida contra o acórdão proferido em sede de apelação, revela-se inadequada, na medida em que o decisum efetivamente impugnado corresponde àquele proferido no âmbito da revisão criminal, o qual se constitui no último título judicial oriundo da irresignação defensiva.
+Em relação ao que foi decidido na revisão criminal, extrai-se a seguinte passagem (fl. 47): "No que tange à dosimetria penal, importa destacar que eventual revisão da dosimetria da pena em sede de revisão criminal é situação excepcional, somente admitida se presentes os pressupostos do art. 621 do CPP, os quais, consoante ja demosntrado, não ocorrem no presente caso".
+Tal afirmação se coaduna com a orientação desta Corte, conforme seguinte expressa o seguinte aresto: "  a  revisão criminal não se presta à reavaliação da dosimetria da pena, salvo em casos de flagrante desproporcionalidade ou ausência de fundamentação" (AgRg na RvCr n. 6.487/PR, relator Ministro Joel Ilan Paciornik, DJe 25/8/2025).
+Na hipótese, observa-se que, ainda em sede de apelação, a reprimenda imposta foi devidamente reduzida, mediante a exclusão da valoração negativa da culpabilidade e das circunstâncias do crime em relação ao delito de homicídio, bem como pelo reconhecimento da atenuante da confissão no tocante ao crime de porte ilegal de arma de fogo.
+Diante desse cenário, não se evidencia, ictu oculi, qualquer flagrante contrariedade a dispositivo de lei que justifique a revisão criminal, tampouco a concessão da ordem de ofício. Nesse ponto, correto o acórdão quando pontuou: "não caracterizados os requisitos que autorizam a desconstituição da coisa julgada por meio da ação revisional, a pretensão do autor não merece prosperar" (fl. 31).
+Ante o exposto, com fundamento no art. 34, XX, do RISTJ, denego in limine a ordem.
+Dê-se ciência ao Ministério Público Federal.
+Publique-se e intimem-se.
+EMENTA
