@@ -1,0 +1,45 @@
+DECISÃO
+Cuida-se de agravo interposto por J. E. C. R. contra decisão que obstou a subida de recurso especial.
+Extrai-se dos autos que a parte agravante interpôs recurso especial, com fundamento no art. 105, III, "a" e "c", da Constituição Federal, contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO GRANDE DO SUL cuja ementa guarda os seguintes termos (fl. 619):
+APELAÇÃO CÍVEL. SEGURO DE VIDA. AÇÃO DE COBRANÇA. SUICÍDIO. INOBSERVÂNCIA DE CRITÉRIO OBJETIVO. PRAZO DE CARÊNCIA. INDENIZAÇÃO SECURITÁRIA DESCABIDA. 1) Trata-se de ação de cobrança decorrente de contrato de seguro de vida celebrado pelo marido e genitor dos autores, que veio a óbito em consequência de suicídio, julgada improcedente na origem. 2) Nos contratos de seguro de vida firmados sob a égide do Código Civil de 2002, o suicídio passou a ser risco não coberto se cometido nos primeiros dois anos de vigência da avença. O art. 798 do CC/2002 estabeleceu apenas critério objetivo, para a concessão do seguro de vida em casos de suicídio, dispondo acerca da exigência de lapso temporal, o que afastada o critério subjetivo, da premeditação. Inaplicabilidade das súmulas nº 105/STF e 61 do STJ, considerando que foram editadas sob égide do Código Civil de 1916. 3) A Segunda Seção do egrégio STJ pacificou entendimento no sentido de que durante os dois primeiros anos de vigência do contrato de seguro de vida, o suicídio é risco não coberto - R Esp n.1.334.005/GO. 4)  No caso telado, vislumbra-se que o óbito do segurado ocorreu em 14/01/2020 (certidão de óbito evento 1- doc. 11) - decorrente de enforcamento e que o contrato firmado entre as partes teve início da vigência em 12/12/2019 conforme documento juntado aos autos (doc. 8 - evento 7). 5) Logo, descabida a indenização a título de seguro de vida, pois o suicídio do segurado ocorreu dentro do prazo objetivo de carência de dois anos previsto nos contratos de seguro e autorizados pelos dispositivos legais 797, caput e 798 ambos do Código Civil. 6) Sentença mantida. APELAÇÃO DESPROVIDA.
+Sem embargos de declaração.
+A parte recorrente alega violação dos arts. 489, §1º, e 1.022, II, do Código de Processo Civil, por negativa de prestação jurisdicional, afirmando que o acórdão deixou de apreciar argumentos centrais (fls. 758-759).
+Sustenta ofensa ao art. 798 do Código Civil quanto ao alcance da exclusão de cobertura por suicídio nos dois primeiros anos, defendendo interpretação não automática do critério objetivo e a necessidade de considerar a boa-fé e a ausência de premeditação (fls. 753-755).
+Aponta dissídio jurisprudencial (art. 105, III, c, da Constituição Federal), quanto à interpretação do art. 798 do Código Civil (fls. 753-755).
+Argumenta que não há incidência das Súmulas n. 5/STJ e n. 7/STJ, porque a controvérsia é exclusivamente jurídica, sem necessidade de reexame de provas ou cláusulas contratuais (fls. 753-754).
+Foram oferecidas contrarrazões ao recurso especial (fls.727-734).
+Sobreveio o juízo de admissibilidade negativo na instância de origem (fls. 735-740), o que ensejou a interposição do presente agravo.
+Apresentada contraminuta do agravo (fls. 775-781).
+Manifestação do Ministério Público pelo não provimento do agravo (fls. 798-800).
+É, no essencial, o relatório.
+Atendidos os pressupostos de admissibilidade do agravo, passo ao exame do recurso especial.
+O recurso especial tem origem em ação de cobrança de seguro de vida, proposta pelos autores em razão do falecimento por suicídio do segurado, com negativa de pagamento sob argumento de ocorrência do sinistro dentro do prazo de carência de dois anos, sentença de improcedência mantida pelo Tribunal de origem (fls. 752-753).
+Não merece prosperar a pretensão recursal.
+O provimento de recurso especial, com fundamento em violação do art. 1.022, inciso II, do Código de Processo Civil, exige a demonstração, de forma fundamentada, dos seguintes requisitos:
+(i) que a matéria alegadamente omitida tenha sido previamente suscitada na apelação, no agravo ou nas respectivas contrarrazões, ou, alternativamente, que se trate de questão de ordem pública passível de apreciação ex officio pelas instâncias ordinárias, em qualquer fase do processo;
+(ii) que tenham sido opostos embargos de declaração com o objetivo de apontar expressamente à instância local a omissão a ser sanada;
+(iii) que a tese omitida seja relevante para o desfecho do julgamento, de modo que sua análise possa conduzir à anulação ou à reforma do acórdão, ou ainda revelar a existência de contradição na fundamentação adotada; e
+(iv) que não haja outro fundamento autônomo capaz de sustentar, por si só, a manutenção do acórdão recorrido.
+No caso dos autos, não há falar em ofensa aos artigos 489 e 1.022 do CPC, uma vez que o Tribunal de origem deixou claro que o art. 798 do CC estabeleceu apenas critério objetivo, qual seja, temporal, tornando despicienda a questão da premeditação (fl. 615).
+Observa-se, portanto, que a lide foi solucionada em conformidade ao que foi apresentado em juízo. Verifica-se que o acórdão recorrido possui fundamentação suficiente, inexistindo omissão ou contradição.
+O que a parte recorrente aponta como "omissão" ou "falta de fundamentação" traduz, na verdade, mero inconformismo com a tese jurídica adotada. O julgador não está obrigado a rebater, um a um, todos os argumentos e dispositivos legais invocados pelas partes, quando já encontrou motivo suficiente para fundamentar sua decisão. O Poder Judiciário não funciona como um órgão consultivo, obrigado a responder a um "questionário" das partes.
+A propósito, cito os seguintes precedentes:
+PROCESSUAL CIVIL. DESAPROPRIAÇÃO DIRETA. UTILIDADE PÚBLICA. CONCESSIONÁRIA DE VEÍCULOS. RECURSO ESPECIAL. OFENSA AO ARTIGO 1022, II, DO CPC/15. INOCORRÊNCIA. DEVOLUÇÃO TOTAL DA MATÉRIA EM REEXAME NECESSÁRIO. SÚMULA 325/STJ. NECESSIDADE DE ALUGAR IMÓVEL LINDEIRO PARA ALTERAR ACESSO A LOJA. INDENIZAÇÃO AFASTADA PELO TRIBUNAL DE ORIGEM. REVISÃO. SÚMULA 7/ STJ.
+1. Os arts. 489, § 1º, e 1.022 do Código de Processo Civil não foram ofendidos. A pretexto de apontar a existência de erros materiais, omissão e premissas erradas, a parte agravante quer modificar as conclusões adotadas pelo aresto vergastado a partir das informações detalhadas do laudo pericial.
+ ..
+5. Agravo Interno não provido.
+(AgInt no AREsp n. 1.974.188/RS, relator Ministro Herman Benjamin, Segunda Turma, julgado em 17/10/2022, DJe de 4/11/2022.)
+ADMINISTRATIVO E PROCESSUAL CIVIL. DANO MORAL. SUSPENSÃO DO FORNECIMENTO DO SERVIÇO DE ÁGUA . DEMORA INJUSTIFICADA NO RESTABELECIMENTO DO SERVIÇO. ARTS. 489, § 1º, E 1022, II, DO CPC. OMISSÃO NÃO CONFIGURADA. DEVER DE INDENIZAR. REQUISITOS PARA A RESPONSABILIZAÇÃO DA CONCESSIONÁRIA. ACÓRDÃO ANCORADO NO SUBSTRATO FÁTICO-PROBATÓRIO DOS AUTOS. REVISÃO. IMPOSSIBILIDADE. SÚMULA 7/STJ. VALOR DA INDENIZAÇÃO. EXCESSO NÃO CARACTERIZADO.
+1. Cuida-se de ação de procedimento ordinário ajuizada em desfavor de SAMAR - Soluções Ambientais de Araçatuba, com o fim de obter indenização pelos danos morais que alega ter sofrido com suspensão do serviço de água na residência da autora.
+2. Verifica-se, inicialmente, não ter ocorrido ofensa aos arts. 489, § 1º, e 1.022, II, do CPC, na medida em que o Tribunal de origem dirimiu, fundamentadamente, as questões que lhe foram submetidas e apreciou integralmente a controvérsia posta nos autos.
+ ..
+6. Agravo interno não provido.
+(AgInt no AREsp n. 2.118.594/SP, relator Ministro Sérgio Kukina, Primeira Turma, julgado em 22/11/2022, DJe de 25/11/2022; grifo meu.)
+No mais, o Tribunal de origem concluiu no sentido de que o sinistro (suicídio) ocorreu dentro dos dois primeiros anos de vigência do contrato, com base na certidão de óbito e no documento que indica a data de início da apólice, razão pela qual é indevida a indenização securitária, como se pode depreender do seguinte trecho extraído do acórdão recorrido (fl. 615):
+No caso telado, vislumbra-se que o óbito do segurado ocorreu em 14/01/2020 (evento 1, CERTOBT11) - decorrente de enforcamento e que o contrato firmado entre as partes teve início da vigência em 12/12/2019 conforme documento juntado aos autos (evento 7, OUT8). Logo, descabida a indenização a título de seguro de vida, pois o suicídio do segurado ocorreu dentro do prazo objetivo de carência de dois anos previsto nos contratos de seguro e autorizados pelos dispositivos legais 797, caput e 798 ambos do Código Civil.
+Afastar o referido entendimento para concluir no sentido de que deve haver cobertura securitária em razão da ausência de prova de premeditação do suicídio, como pretende o recorrente, demandaria o reexame do material fático-probatório dos autos, o que encontra óbice na Súmula 7/STJ.
+Ante o exposto, nego provimento ao agravo interposto.
+Nos termos do art. 85, § 11, do CPC, majoro os honorários fixados em desfavor da parte recorrente para 15% sobre o valor atualizado da causa, devendo ser observada eventual concessão de gratuidade da justiça pelas instâncias ordinárias.
+Dê-se ciência ao Ministério Público.
+Publique-se. Intimem-se.
+ EMENTA
