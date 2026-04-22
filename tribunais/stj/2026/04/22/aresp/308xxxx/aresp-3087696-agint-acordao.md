@@ -1,0 +1,60 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 14/04/2026 a 22/04/2026, por unanimidade, dar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Moura Ribeiro, Daniela Teixeira, Nancy Andrighi e Humberto Martins votaram com o Sr. Ministro Relator.
+Presidiu o julgamento a Sra. Ministra Daniela Teixeira.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECONSIDERAÇÃO. DECISÃO. ADMISSIBILIDADE. IMPUGNAÇÃO. FUNDAMENTOS. SÚMULA Nº 182/STJ AFASTADA. PROPRIEDADE INDUSTRIAL E INTELECTUAL. DIREITO AUTORAL. DISPONIBILIZAÇÃO. OBRAS MUSICAIS. PLATAFORMA DE STREAMING. SEM CRÉDITO AUTORAL. NEGATIVA DE PRESTAÇÃO. OMISSÃO NÃO VERIFICADA. DANOS MORAIS. VALOR. FIXAÇÃO. PROPORCIONALIDADE. REVISÃO. IMPOSSIBILIDADE. REEXAME DE PROVAS. SÚMULA Nº 7/STJ.
+1. Verificado que, no caso, a parte agravante impugnou os fundamentos da decisão que não admitiu o apelo nobre, afasta-se a Súmula nº 182/STJ.
+2. Na espécie, não houve violação dos arts. 489 e 1.022 do Código de Processo Civil, visto que agiu corretamente o tribunal de origem ao rejeitar os embargos de declaração por inexistir omissão, contradição, obscuridade ou erro material no acórdão atacado, ficando patente o intuito infringente da irresignação.
+3. No que se refere à redução do valor dos danos morais, o Superior Tribunal de Justiça firmou entendimento no sentido de que o exame da quantia fixada a título de danos morais somente é admissível em hipóteses excepcionais, quando for verificada a sua exorbitância ou irrisoriedade, em flagrante ofensa aos princípios da razoabilidade e da proporcionalidade, o que não ocorreu na hipótese.
+4. No caso, o valor de R$ 17.000,00 (dezessete mil reais) não destoa dos parâmetros adotados por esta Corte; ao contrário, revela-se adequado diante das especificidades do caso concreto, sendo inarredável, assim, a aplicação do óbice da Súmula nº 7/STJ.
+5. Agravo interno provido. Decisão reconsiderada para conhecer do agravo e conhecer em parte do recurso especial e, nessa extensão, negar-lhe provimento.
+RELATÓRIO
+Trata-se de agravo interno interposto por CLARO S.A. contra a decisão que não conheceu do agravo em recurso especial em virtude da falta de impugnação específica de fundamento da decisão combatida, a saber : Súmula nº 7/STJ.
+Nas presentes razões (e-STJ fls. 428-434), a agravante alega que impugnou a incidência da Súmula nº 7/STJ, haja vista que defendeu que
+"o recurso especial discute única e exclusivamente matéria de direito, relacionada à interpretação do art. 884 do Código Civil, sem qualquer necessidade de reexame de provas. As premissas fáticas foram expressamente fixadas pelas instâncias ordinárias, não havendo controvérsia probatória." (e-STJ fls. 432)
+Ressalta ainda que citou jurisprudência desta Corte, que autoriza a revaloração jurídica de fatos incontroversos, e destacou que a própria decisão de inadmissão reconheceu que as premissas fáticas estavam definidas, o que reforça que a questão é de direito.
+Assim, alega que há erro material na decisão agravada, ao desconsiderar que há trechos inteiros no agravo que tratam diretamente desse óbice, o que torna a premissa utilizada pela decisão simplesmente incompatível com os autos.
+Ao final, requer a reforma da decisão atacada.
+Sem impugnação (e-STJ fl. 438).
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECONSIDERAÇÃO. DECISÃO. ADMISSIBILIDADE. IMPUGNAÇÃO. FUNDAMENTOS. SÚMULA Nº 182/STJ AFASTADA. PROPRIEDADE INDUSTRIAL E INTELECTUAL. DIREITO AUTORAL. DISPONIBILIZAÇÃO. OBRAS MUSICAIS. PLATAFORMA DE STREAMING. SEM CRÉDITO AUTORAL. NEGATIVA DE PRESTAÇÃO. OMISSÃO NÃO VERIFICADA. DANOS MORAIS. VALOR. FIXAÇÃO. PROPORCIONALIDADE. REVISÃO. IMPOSSIBILIDADE. REEXAME DE PROVAS. SÚMULA Nº 7/STJ.
+1. Verificado que, no caso, a parte agravante impugnou os fundamentos da decisão que não admitiu o apelo nobre, afasta-se a Súmula nº 182/STJ.
+2. Na espécie, não houve violação dos arts. 489 e 1.022 do Código de Processo Civil, visto que agiu corretamente o tribunal de origem ao rejeitar os embargos de declaração por inexistir omissão, contradição, obscuridade ou erro material no acórdão atacado, ficando patente o intuito infringente da irresignação.
+3. No que se refere à redução do valor dos danos morais, o Superior Tribunal de Justiça firmou entendimento no sentido de que o exame da quantia fixada a título de danos morais somente é admissível em hipóteses excepcionais, quando for verificada a sua exorbitância ou irrisoriedade, em flagrante ofensa aos princípios da razoabilidade e da proporcionalidade, o que não ocorreu na hipótese.
+4. No caso, o valor de R$ 17.000,00 (dezessete mil reais) não destoa dos parâmetros adotados por esta Corte; ao contrário, revela-se adequado diante das especificidades do caso concreto, sendo inarredável, assim, a aplicação do óbice da Súmula nº 7/STJ.
+5. Agravo interno provido. Decisão reconsiderada para conhecer do agravo e conhecer em parte do recurso especial e, nessa extensão, negar-lhe provimento.
+VOTO
+Assiste razão à agravante.
+Depreende-se dos autos que, nas razões do agravo em recurso especial (e-STJ fls. 387-397), refutaram-se especificamente os fundamentos da decisão recorrida.
+Assim, considerando-se a manifestação da parte agravante, faz-se imperiosa a reconsideração da decisão, passando-se, pois, a novo exame do recurso.
+No apelo nobre, fundamentado no art. 105, III, alínea "a", da Constituição Federal, a recorrente insurge-se contra o acórdão proferido pelo Tribunal de Justiça do Estado do Rio Grande do Sul assim ementado:
+"APELAÇÃO CÍVEL. DIREITO DA PROPRIEDADE INDUSTRIAL E INTELECTUAL. DIREITO AUTORAL. DISPONIBILIZAÇÃO DE OBRAS MUSICAIS DO AUTOR EM PLAFORMA DE STREAMING SEM O DEVIDO CRÉDITO AUTORAL. A RESPONSABILIDADE DA EMPRESA DE STREAMING NÃO PODE SER AFASTADA, DADA A DISPONIBILIZAÇÃO DAS MÚSICAS EM SUA PLATAFORMA E A OBTENÇÃO DE LUCROS COM AS ASSINATURAS DOS OUVINTES. NÃO HAVENDO DÚVIDAS ACERCA DA AUTORIA DAS OBRAS PUBLICADAS E CONSIDERANDO SER POSSÍVEL QUE A RÉ INDIQUE EM SUA PLATAFORMA OS CRÉDITOS AUTORAIS DE CADA MÚSICA, O FATO DE NÃO TER PROCEDIDO DESTA FORMA IMPÕE SUA RESPONSABILIZAÇÃO POR CONTA DA VIOLAÇÃO DO DIREITO MORAL DO AUTOR. DANO MORAL INDENIZÁVEL CONFIGURADO. OBSERVÂNCIA DA LEI 9.610/98 EM SEUS ARTIGOS 7º, 22, 29 E 68. O VALOR DA INDENIZAÇÃO PELO DANO MORAL DEVE SER ARBITRADO CONSIDERANDO A NECESSIDADE DE PUNIR O OFENSOR E EVITAR QUE REPITA SEU COMPORTAMENTO, DEVENDO SE LEVAR EM CONTA O CARÁTER PUNITIVO DA MEDIDA, A CONDIÇÃO SOCIAL E ECONÔMICA DO LESADO E A REPERCUSSÃO DO DANO. VERBA INDENIZATÓRIA MAJORADA. VERBA HONORÁRIA MAJORADA A FIM DE ATENDER AS DIRETRIZES DO ART. 85, §2º DO CPC APELO DA RÉ NÃO PROVIDO. APELO DO AUTOR PROVIDO." (e-STJ fls. 311)
+Os embargos de declaração opostos foram rejeitados (e-STJ fls. 338-342).
+Nas razões do especial (e-STJ fls. 347-356), a recorrente aponta negativa de vigência dos seguintes dispositivos e suas respectivas teses:
+(i) arts. 489, § 1º, IV, e 1.022, II, do CPC - nulidade do acórdão por não suprir omissão apontada nos aclaratórios, em especial, no que diz respeito à desproporcionalidade do valor atribuído aos danos morais, e
+(ii) art. 884 do Código Civil - é exorbitante o valor da condenação por danos morais, fixada em R$ 17.000,00 (dezessete mil reais), o que provoca o enriquecimento ilícito do recorrido.
+A irresignação não merece acolhida.
+No tocante à omissão a pontada no acórdão estadual, o Tribunal de origem, ao decidir os embargos de declaração, concluiu que o aresto embargado foi claro acerca da proporcionalidade do valor atribuído aos danos morais. É o que se extrai da seguinte passagem:
+"Em que pese a parte ré alegue desproporcionalidade na fixação dos danos morais, verifico que a decisão embargada é clara e bem fundamentada ao referir que foram considerados os princípios da razoabilidade e da proporcionalidade, bem como o grau da culpa da ré, a extensão do sofrimento psíquico e a prevenção do enriquecimento ilícito.
+Assim, o valor fixado de R$ 17.000,00 é razoavelmente proporcional ao dano ocasionado pelas oito músicas veiculadas sem os devidos créditos ao autor.
+Ademais, o fato de não terem sido acolhidos os argumentos invocados pela parte ré no seu recurso não configura mácula a ensejar o acolhimento dos aclaratórios. A irresignação com o resultado do julgamento deve ser manejada pela via processual adequada." (e-STJ fl. 340- grifou-se)
+Nesse contexto, no que diz respeito à alegada negativa de prestação jurisdicional - violação do art. 1.022 do CPC -, agiu corretamente o Tribunal de origem ao rejeitar os embargos declaratórios por inexistir omissão, contradição, obscuridade ou erro material no acórdão embargado, ficando patente, em verdade, o intuito infringente da irresignação, que objetivava a reforma do julgado por via inadequada.
+A propósito:
+"PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE DEVOLUÇÃO DE PARCELAS PREVIDENCIÁRIAS. PREVIDÊNCIA PRIVADA. ENCERRAMENTO DO PLANO. EMBARGOS DE DECLARAÇÃO. OMISSÃO, CONTRADIÇÃO OU OBSCURIDADE. VIOLAÇÃO DO ART. 489 DO CPC/2015. INOCORRÊNCIA. REEXAME DE FATOS. INTERPRETAÇÃO DE CLÁUSULAS CONTRATUAIS. INADMISSIBILIDADE. SÚMULAS 5 E 7/STJ. DISSÍDIO JURISPRUDENCIAL. COTEJO ANALÍTICO E SIMILITUDE FÁTICA. AUSÊNCIA. SÚMULA 7/STJ. DECISÃO MANTIDA.
+1. Ação de devolução de parcelas previdenciárias.
+2. Ausentes os vícios do art. 1.022 do CPC/15, rejeitam-se os embargos de declaração.
+3. Devidamente analisadas e discutidas as questões de mérito, e fundamentado corretamente o acórdão recorrido, de modo a esgotar a prestação jurisdicional, inexiste a violação do art. 489 do CPC/15.
+4. O reexame de fatos e a interpretação de cláusulas contratuais em recurso especial são inadmissíveis.
+5. O dissídio jurisprudencial deve ser comprovado mediante o cotejo analítico entre acórdãos que versem sobre situações fáticas idênticas.
+6. A incidência das Súmulas 5 e 7/STJ prejudicam a análise do dissídio jurisprudencial pretendido. Precedentes desta Corte.
+7. Agravo interno não provido."
+(AgInt no AREsp 2.183.495/RJ, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 28/11/2022, DJe de 30/11/2022. - grifou-se. )
+Registra-se que, mesmo à luz do art. 489 do CPC, o órgão julgador não estaria obrigado a se pronunciar acerca de todo e qualquer ponto suscitado pelas partes, mas apenas a respeito daqueles capazes de, em tese, de algum modo, infirmar a conclusão adotada pelo órgão julgador (inciso IV). A motivação contrária ao interesse da parte, ou mesmo omissa em relação a pontos considerados irrelevantes pelo julgador, não autoriza o acolhimento dos embargos declaratórios.
+No que se refere à redução do valor dos danos morais, o Superior Tribunal de Justiça firmou entendimento no sentido de que o exame da quantia fixada a título de danos morais somente é admissível em hipóteses excepcionais, quando for verificada a sua exorbitância ou irrisoriedade, em flagrante ofensa aos princípios da razoabilidade e da proporcionalidade.
+Inexistem, entretanto, tais circunstâncias no presente caso, em que não se mostra desarrazoado o arbitramento da indenização pelos danos morais no montante de R$ 17.000,00 (dezessete mil reais) pela veiculação de oito músicas sem os devidos créditos ao autor.
+Mencionada quantia não destoa dos parâmetros adotados por esta Corte, ao contrário, revela-se adequada diante das especificidades do caso concreto, sendo inarredável, assim, a aplicação do óbice da Súmula nº 7/STJ.
+Ante o exposto, dou provimento ao agravo interno, reconsidero a decisão agravada (e-STJ fls. 423-424) e conheço do agravo para conhecer em parte do recurso especial e, nessa extensão, negar-lhe provimento.
+Na origem, os honorários sucumbenciais foram fixados em 20% (vinte por cento) sobre o valor da condenação, não cabendo a majoração prevista no art. 85, § 11, do Código de Processo Civil por já estar no limite máximo estabelecido no § 2º do mesmo dispositivo legal.
+É o voto.
