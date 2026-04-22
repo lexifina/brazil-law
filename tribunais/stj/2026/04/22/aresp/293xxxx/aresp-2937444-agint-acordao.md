@@ -1,0 +1,31 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 14/04/2026 a 22/04/2026, por unanimidade, negar provimento ao recurso, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Antonio Carlos Ferreira, Luís Carlos Gambogi (Desembargador Convocado do TJMG), João Otávio de Noronha e Raul Araújo votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro João Otávio de Noronha.
+EMENTA
+AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. DIREITO PROCESSUAL CIVIL. DIREITO CIVIL/CONSUMIDOR. AÇÃO DE OBRIGAÇÃO DE FAZER CUMULADA COM INDENIZATÓRIA POR DANOS MATERIAIS E MORAIS. TEMA 886/STJ. COTAS CONDOMINIAIS ANTES DA IMISSÃO NA POSSE. MANUTENÇÃO DO RESSARCIMENTO. DANO MORAL. ATRASO NA ENTREGA DO IMÓVEL. MERO INADIMPLEMENTO. INEXISTÊNCIA DE CIRCUNSTÂNCIA ESPECIAL. AFASTAMENTO. CUMULAÇÃO DE CLÁUSULA PENAL COM ALUGUEL. NÃO CONHECIMENTO POR INEXISTÊNCIA DE CONDENAÇÃO CUMULADA.
+1. Responsabilidade condominial definida conforme a imissão na posse.
+2. Mero atraso na entrega do imóvel não configura dano moral indenizável.
+3. Ausente a condenação impugnada na origem, cumulação de cláusula penal com aluguel, não pode a insurgência ser conhecida.
+4. Agravo interno a que se nega provimento.
+RELATÓRIO
+Trata-se de agravo interno interposto por GAFISA S.A. contra decisão singular da minha lavra em que conheci do agravo em recurso especial em parte e, nessa extensão, dei provimento para afastar a condenação em danos morais, mantendo os demais capítulos, pelos seguintes fundamentos: a) responsabilidade pelas cotas condominiais definida conforme o Tema 886/STJ, com a obrigação do adquirente apenas a partir da imissão na posse; b) inexistência de dano moral indenizável pelo mero atraso na entrega das chaves, com revaloração jurídica das premissas fáticas fixadas, sem reexame probatório; c) não conhecimento do ponto relativo à cumulação de cláusula penal com aluguel, por inexistir condenação cumulada na sentença.
+Nas razões do presente agravo interno, a parte agravante sustenta que a decisão agravada violou dispositivos de lei federal e contrariou jurisprudência do Superior Tribunal de Justiça, enfatizando a aceitabilidade do prequestionamento implícito e a inaplicabilidade das Súmulas 7/STJ e 284/STF. Defende que não incide a Súmula 284/STF porque o recurso especial teria atacado todos os fundamentos do acórdão recorrido e reitera a tese de impossibilidade de cumulação de multa contratual com outras verbas indenizatórias. Requer a reforma da decisão para admitir e prover integralmente o recurso especial.
+Decorreu o prazo sem apresentação de impugnação (fl. 548).
+É o relatório.
+EMENTA
+AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. DIREITO PROCESSUAL CIVIL. DIREITO CIVIL/CONSUMIDOR. AÇÃO DE OBRIGAÇÃO DE FAZER CUMULADA COM INDENIZATÓRIA POR DANOS MATERIAIS E MORAIS. TEMA 886/STJ. COTAS CONDOMINIAIS ANTES DA IMISSÃO NA POSSE. MANUTENÇÃO DO RESSARCIMENTO. DANO MORAL. ATRASO NA ENTREGA DO IMÓVEL. MERO INADIMPLEMENTO. INEXISTÊNCIA DE CIRCUNSTÂNCIA ESPECIAL. AFASTAMENTO. CUMULAÇÃO DE CLÁUSULA PENAL COM ALUGUEL. NÃO CONHECIMENTO POR INEXISTÊNCIA DE CONDENAÇÃO CUMULADA.
+1. Responsabilidade condominial definida conforme a imissão na posse.
+2. Mero atraso na entrega do imóvel não configura dano moral indenizável.
+3. Ausente a condenação impugnada na origem, cumulação de cláusula penal com aluguel, não pode a insurgência ser conhecida.
+4. Agravo interno a que se nega provimento.
+VOTO
+Originariamente, foi proposta ação de obrigação de fazer cumulada com indenização por danos materiais e morais, na qual os autores pleiteiam a restituição de valores pagos a título de cotas condominiais anteriores à entrega das chaves, a aplicação de multa contratual pelo atraso na entrega do imóvel e a condenação da ré ao pagamento de danos morais.
+A sentença julgou parcialmente procedentes os pedidos, condenando a ré ao ressarcimento das cotas condominiais no valor de R$ 3.732,55 (três mil setecentos e trinta e dois reais e cinquenta e cinco centavos), à multa contratual de 1% (um por cento) do preço de venda atualizado e ao pagamento de R$ 4.000,00 (quatro mil reais) a título de danos morais para cada autor.
+O Tribunal de origem manteve a sentença, fundamentando que a responsabilidade pelas cotas condominiais recai sobre o adquirente apenas a partir da imissão na posse, que ocorreu em 11.10.2017, e que a condenação por danos morais está em consonância com os princípios da razoabilidade e proporcionalidade.
+A responsabilidade pelas cotas condominiais foi corretamente definida com base na tese firmada em recurso repetitivo (Tema 886/STJ), no sentido de que o que define a responsabilidade pelo pagamento das obrigações condominiais é a relação material com o imóvel, representada pela imissão na posse pelo promissário comprador. O acórdão de origem apenas determinou o ressarcimento de valores pagos antes da entrega das chaves, em conformidade com esse entendimento.
+Quanto aos danos morais, a decisão agravada afastou a condenação por reconhecer que o mero atraso na entrega do imóvel não configura, por si só, lesão a direito da personalidade apta a ensejar compensação extrapatrimonial. Houve revaloração jurídica das premissas fáticas delineadas pelas instâncias ordinárias, sem reexame de prova, em alinhamento à jurisprudência desta Corte.
+No ponto referente à alegada cumulação de cláusula penal com aluguel, o não conhecimento se impõe, uma vez que não houve condenação cumulada na sentença, a qual expressamente consignou "Dessa forma, o período em que os autores teriam direito às chaves- julho a setembro de 2017- deve ser computada a multa contratual no montante equivalente a 1% (um por cento) do preço de venda atualizado, nos moldes da cláusula contratual n. 3.4.3. De certo que diante da cláusula penal dada em favor dos autores, não é de se condenar o réu, ainda, em lucros cessantes, eis que aquela já se presta a compensar os danos desta natureza. " (fl.285). Ausente capítulo efetivamente decidido na origem sobre a cumulação, não há matéria a ser revista em especial.
+Nesse contexto, não havendo argumentos aptos a infirmar os fundamentos da decisão agravada, esta deve ser integralmente mantida.
+Em face do exposto, conheço do agravo interno e nego provimento.
+É como voto.
