@@ -1,0 +1,46 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 14/04/2026 a 22/04/2026, por unanimidade, conhecer do recurso e lhe dar parcial provimento, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Moura Ribeiro, Daniela Teixeira, Nancy Andrighi e Humberto Martins votaram com o Sr. Ministro Relator.
+Presidiu o julgamento a Sra. Ministra Daniela Teixeira.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. AGRAVO DE INSTRUMENTO. NEGÓCIOS JURÍDICOS BANCÁRIOS. LIQUIDAÇÃO PROVISÓRIA DE SENTENÇA COLETIVA. CÉDULA DE CRÉDITO RURAL. PLANO COLLOR I. CHAMAMENTO AO PROCESSO DA UNIÃO E DO BACEN. INADMISSIBILIDADE. COMPETÊNCIA DA JUSTIÇA ESTADUAL. SUSPENSÃO DO FEITO. TEMA N. 1.290/STF.
+1. Nos termos da jurisprudência consolidada do STJ, o chamamento ao processo é instituto próprio da fase de conhecimento, não sendo aplicável à fase de liquidação ou cumprimento de sentença. É facultado ao credor, em liquidação individual de sentença coletiva, optar pelo ajuizamento contra qualquer um dos devedores solidários, não havendo litisconsórcio necessário.
+2. Impõe-se a devolução dos autos ao Tribunal de origem para que, se for o caso, realize juízo de retratação em face do Tema n. 1.290/STF, que determinou a suspensão nacional de todas as demandas relativas ao critério de reajuste do saldo devedor das cédulas de crédito rural referente ao mês de março de 1990.
+3. Agravo conhecido para dar parcial provimento ao recurso especial.
+RELATÓRIO
+Trata-se de agravo interposto por BANCO DO BRASIL S/A contra a decisão que negou seguimento ao recurso especial.
+O apelo extremo, fundamentado no art. 105, III, "a", da Constituição Federal, impugna acórdão proferido pelo Tribunal de Justiça do Estado do Rio Grande do Sul assim ementado:
+"AGRAVO INTERNO EM AGRAVO DE INSTRUMENTO. NEGÓCIOS JURÍDICOS BANCÁRIOS. LIQUIDAÇÃO PROVISÓRIA DE SENTENÇA. LITISCONSÓRCIO PASSIVO. INEXISTENTE. COMPETÊNCIA DA JUSTIÇA ESTADUAL. DECISÃO MANTIDA.
+Ausentes novos argumentos ou provas que justifiquem modificar decisão que entendeu pela ausência de necessidade de chamar a União e o Bacen ao polo passivo do processo, assim como afastou a competência da Justiça Federal para julgamento do processo, o que está em consonância com a jurisprudência consolidada neste Colegiado.
+RECURSO DESPROVIDO." (e-STJ fl. 59)
+Os embargos de declaração foram rejeitados (e-STJ fls. 82/84).
+O recorrente aponta violação dos arts. 130, 132, 509, inciso II, 511, 1.022 e 1.025, todos do Código de Processo Civil.
+Preliminarmente, requer a suspensão do feito em razão da decisão proferida pelo Supremo Tribunal Federal no Recurso Extraordinário n. 1.445.162 (Tema n. 1.290), na qual o Relator, Ministro Alexandre de Moraes, determinou a suspensão do processamento de todas as demandas pendentes que tratem da questão relativa ao critério de reajuste do saldo devedor das cédulas de crédito rural referente ao mês de março de 1990, inclusive as liquidações e cumprimentos provisórios de sentença. Sustenta que a discussão travada nos autos de origem se insere no âmbito da questão objeto de repercussão geral.
+No mérito, defende a possibilidade de chamamento ao processo da União e do BACEN na fase de liquidação provisória de sentença coletiva pelo procedimento comum, com fundamento nos arts. 130, 132, 509, inciso II, e 511 do CPC. Assevera que, tratando-se de liquidação pelo procedimento comum, a cognição é ampla e regida pelo regramento inerente à fase de conhecimento, o que tornaria compatível o instituto do chamamento ao processo dos demais devedores solidários. Argumenta que o recorrente, a União e o Bacen foram condenados solidariamente na ação civil pública de origem, e que o chamamento ao processo serviria para formar título executivo judicial em face dos codevedores solidários, nos termos do art. 130, inciso III, do CPC, viabilizando o exercício do direito de regresso nos próprios autos, conforme previsto no art. 132 do CPC. Sustenta, ademais, que o chamamento ao processo dos entes federais atrairia a competência da Justiça Federal, nos termos do art. 109, inciso I, da Constituição Federal.
+Sem contrarrazões (e-STJ fl. 120).
+O recurso especial foi obstado na origem, o que deu ensejo à interposição do presente agravo.
+É o relatório.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. AGRAVO DE INSTRUMENTO. NEGÓCIOS JURÍDICOS BANCÁRIOS. LIQUIDAÇÃO PROVISÓRIA DE SENTENÇA COLETIVA. CÉDULA DE CRÉDITO RURAL. PLANO COLLOR I. CHAMAMENTO AO PROCESSO DA UNIÃO E DO BACEN. INADMISSIBILIDADE. COMPETÊNCIA DA JUSTIÇA ESTADUAL. SUSPENSÃO DO FEITO. TEMA N. 1.290/STF.
+1. Nos termos da jurisprudência consolidada do STJ, o chamamento ao processo é instituto próprio da fase de conhecimento, não sendo aplicável à fase de liquidação ou cumprimento de sentença. É facultado ao credor, em liquidação individual de sentença coletiva, optar pelo ajuizamento contra qualquer um dos devedores solidários, não havendo litisconsórcio necessário.
+2. Impõe-se a devolução dos autos ao Tribunal de origem para que, se for o caso, realize juízo de retratação em face do Tema n. 1.290/STF, que determinou a suspensão nacional de todas as demandas relativas ao critério de reajuste do saldo devedor das cédulas de crédito rural referente ao mês de março de 1990.
+3. Agravo conhecido para dar parcial provimento ao recurso especial.
+VOTO
+Ultrapassados os requisitos de admissibilidade dos agravos, passa-se ao exame do recurso especial.
+O recurso merece prosperar em parte.
+No mérito, o recurso especial devolve à apreciação desta Corte a controvérsia relativa à possibilidade de chamamento ao processo da União e do Banco Central do Brasil na fase de liquidação provisória de sentença coletiva pelo procedimento comum, com a consequente atração da competência da Justiça Federal.
+O acórdão recorrido não merece reforma nesse ponto.
+Nos termos da jurisprudência consolidada deste Tribunal, o chamamento ao processo é instituto próprio da fase de conhecimento, não sendo aplicável à fase de liquidação ou cumprimento de sentença, que se dá no interesse do credor.
+Ademais, tratando-se de devedores solidários, é facultado ao credor optar pelo ajuizamento da liquidação individual contra qualquer um deles, não havendo litisconsórcio necessário, ainda que reconhecida a responsabilidade solidária entre União, Banco Central e Banco do Brasil na ação coletiva originária.
+A propósito, confira-se o recente precedente desta Corte versando sobre caso idêntico:
+"AGRAVO EM RECURSO ESPECIAL. LIQUIDAÇÃO DE SENTENÇA COLETIVA. BANCO DO BRASIL. RESPONSABILIDADE SOLIDÁRIA. CHAMAMENTO AO PROCESSO. INADMISSIBILIDADE. COMPETÊNCIA DA JUSTIÇA ESTADUAL. AUSÊNCIA DE OMISSÃO. ART. 1.022 DO CPC. SUSPENSÃO PELO TEMA 1290/STF. DESCABIMENTO.
+1. Não se verifica ofensa ao art. 1.022 do CPC quando o tribunal de origem aprecia expressamente as questões suscitadas, ainda que em sentido contrário ao interesse da parte recorrente.
+2. Nos termos da jurisprudência consolidada do STJ, o chamamento ao processo é instituto próprio da fase de conhecimento, não sendo aplicável à fase de liquidação ou cumprimento de sentença, que se dá no interesse do credor.
+3. É facultado ao credor, em liquidação/cumprimento individual de sentença coletiva, optar pelo ajuizamento contra qualquer um dos devedores, não havendo litisconsórcio necessário, ainda que reconhecida responsabilidade solidária entre União, Banco Central e Banco do Brasil. Precedentes.
+4. Agravo conhecido para conhecer do recurso especial e negar-lhe provimento." (AREsp n. 2.949.146/RS, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 24/11/2025, DJEN de 1/12/2025.)
+Não prospera, portanto, a irresignação do recorrente nesse ponto.
+Contudo, assiste razão ao recorrente quanto ao pedido de suspensão do feito.
+O Supremo Tribunal Federal, no Recurso Extraordinário n. 1.445.162/DF, reconheceu a repercussão geral da controvérsia relativa ao "critério de reajuste do saldo devedor das cédulas de crédito rural, no mês de março de 1990, nos quais prevista a indexação aos índices da caderneta de poupança" (Tema n. 1.290), e determinou, com base no art. 1.035, § 5º, do CPC, a suspensão do processamento de todas as demandas pendentes que tratem da questão em tramitação no território nacional, inclusive as liquidações e cumprimentos provisórios de sentença lastreados nos acórdãos proferidos pelo Superior Tribunal de Justiça.
+Apesar de o presente feito já se encontrar em fase de liquidação individual de sentença, o julgamento do Supremo Tribunal Federal pode afetar a higidez da coisa julgada, a depender dos efeitos que sejam conferidos pela Corte Suprema à sua decisão em controle difuso (v. STF, Plenário, AR 2.876 QO/DF, Rel. Min. Gilmar Mendes, julgado em 24/4/2025). Esse contexto torna prudente devolver os autos ao Tribunal de origem, para que aguarde o julgamento do Tema n. 1.290/STF e, se for o caso, realize o juízo de retratação.
+Ante o exposto, conheço do agravo para dar parcial provimento ao recurso especial tão somente para determinar a devolução dos autos ao Tribunal de Justiça do Estado do Rio Grande do Sul, a fim de que aguarde o julgamento do Tema n. 1.290/STF e, se for o caso, realize o juízo de retratação.
+É o voto.
