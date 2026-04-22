@@ -1,0 +1,47 @@
+DECISÃO
+Examina-se agravo em recurso especial interposto por JOSE LEOCADIO REZENDE HULMANN, contra decisão que negou seguimento a recurso especial fundamentado, exclusivamente, na alínea "a" do permissivo constitucional.
+Agravo em Recurso especial interposto em: 24/11/2025.
+Concluso ao gabinete em: 12/3/2026.
+Ação: rescisão contratual c/c pedido de cobrança e de indenização pelas perdas e pelos danos, em fase de cumprimento de sentença, ajuizada por ANDRE PIOVESAN DE FARIAS, em face de JOSE LEOCADIO REZENDE HULMANN.
+Decisão interlocutória: rejeitou os pedidos de reconhecimento de fraude à execução e impenhorabilidade dos imóveis de matrículas nº 2.339 e nº 61.619 do 8º Registro de Imóveis de Curitiba.
+Acórdão: deu provimento ao Agravo de Instrumento interposto pela parte agravada, nos termos da seguinte ementa:
+"AGRAVO DE INSTRUMENTO. CUMPRIMENTO DE SENTENÇA. FRAUDE À EXECUÇÃO. DOAÇÃO REALIZADA PARA DESCENDENTE, QUANDO JÁ TRAMITAVA CUMPRIMENTO DE SENTENÇA. MÁ-FÉ PRESUMIDA DO DEVEDOR QUE TENTA BLINDAR SEU PATRIMÔNIO. ENTENDIMENTO STJ. RECONHECIMENTO FRAUDE À EXECUÇÃO. DECISÃO REFORMADA. RECURSO CONHECIDO E PROVIDO.
+I. CASO EM EXAME
+1. Agravo de instrumento interposto contra decisão que indeferiu o reconhecimento de fraude à execução em relação à doação de imóvel realizada pelo devedor a seu filho e à companheira, enquanto já tramitava ação de cumprimento de sentença. O agravante alegou que a doação foi feita com o intuito de frustrar a execução, uma vez que o devedor já havia sido intimado para pagamento e a penhora dos bens havia sido deferida. A decisão recorrida entendeu que não havia prova de má-fé do adquirente e que a doação não configurava fraude à execução.
+II. QUESTÃO EM DISCUSSÃO
+2. A questão em discussão consiste em saber se a doação de imóvel realizada pelo devedor a seus descendentes, durante o trâmite de cumprimento de sentença, configura fraude à execução e deve ser considerada ineficaz em relação ao credor.
+III. RAZÕES DE DECIDIR
+3. A doação de bens de ascendente para descendente, quando já tramitava ação contra o devedor, configura fraude à execução.
+4. A má-fé do devedor é presumida em doações entre familiares, especialmente quando há intenção de frustrar a execução.
+5. A doação ocorreu após a intimação do devedor para pagamento, evidenciando a intenção de esvaziar seu patrimônio.
+6. A decisão de primeiro grau foi reformada por erro ao não reconhecer a fraude à execução, considerando a relação de parentesco e a situação de insolvência do devedor.
+IV. DISPOSITIVO E TESE
+7. Recurso conhecido e provido para reconhecer a ocorrência de fraude à execução na doação realizada pelo executado, decretando a ineficácia do negócio jurídico e determinando que o patrimônio retorne ao patrimônio do devedor para que possa ser penhorado pelo exequente.
+Tese de julgamento: A doação de bens de ascendente para descendente, realizada enquanto tramita ação capaz de levar o devedor à insolvência, configura fraude à execução, sendo a má-fé presumida, independentemente da prova de má-fé dos donatários." (e-STJ fls. 95-96)
+Embargos de Declaração: opostos, pela parte agravante, foram rejeitados.
+Recurso especial: alega violação dos arts. 792, IV, § 4º, 828, § 4º, 927, III, 1.022, II, CPC. Além de negativa de prestação jurisdicional, sustenta que: i) o TJ/PR fundamenta que não se aplicaria a Súmula 375/STJ e o disposto no art. 792, § 4º, CPC, nos casos em que presumida a má-fé da parte recorrente, que fez a doação de bens aos seus descendentes, sem se atentar para o fato de que o imóvel foi doado não só ao filho, mas também à ex-companheira LILIAN GOMES DE OLIVEIRA; e, ii) não há previsão legal que ampare o fundamento utilizado pelo TJ/PR, no sentido de que há presunção de má-fé à hipótese, sendo contrário ao expressamente disposto no art. 828, § 4º, CPC; e, iii) há também violação do art. 927, III, CPC, pelo TJ/PR decorrente da inobservância do Tema Repetitivo 243, firmado por esta Corte.
+RELATADO O PROCESSO, DECIDE-SE.
+- Da violação do art. 1.022 do CPC
+É firme a jurisprudência do STJ no sentido de que não há ofensa ao art. 1.022 do CPC quando o Tribunal de origem, aplicando o direito que entende cabível à hipótese, soluciona integralmente a controvérsia submetida à sua apreciação, ainda que de forma diversa daquela pretendida pela parte.
+A propósito, confira-se: AgInt nos EDcl no AREsp 1.094.857/SC, Terceira Turma, DJe de 2/2/2018 e AgInt no AREsp 1.089.677/AM, Quarta Turma, DJe de 16/2/2018.
+No particular, verifica-se que o acórdão recorrido decidiu, fundamentada e expressamente acerca da ocorrência de fraude à execução, bem como acerca da frustração da penhora sobre o imóvel de Matrícula nº 178.075 (8ª CI), de maneira que os embargos de declaração opostos pela parte agravante, de fato, não comportavam acolhimento.
+Assim, observado o entendimento dominante desta Corte acerca do tema, não há que se falar em violação do art. 1.022 do CPC.
+- Da fundamentação deficiente
+Os argumentos invocados pela parte agravante não demonstram como o acórdão recorrido violou os arts. 927, III, CPC, o que importa na inviabilidade do recurso especial ante a incidência da Súmula 284/STF.
+- Da ausência de prequestionamento
+O acórdão recorrido não decidiu acerca dos arts. 792, IV, § 4º, 828, § 4º, CPC, indicados como violados, apesar da oposição de embargos de declaração.
+Por isso, o julgamento do recurso especial é inadmissível. Aplica-se, na hipótese, a Súmula 211/STJ.
+- Do reexame de fatos e provas
+Alterar o decidido no acórdão impugnado, no que se refere ao fato de que "após analisar detidamente os autos, constata-se que, como constou na própria decisão singular, ao tempo da doação realizada pela parte agravante ao filho Matheus Gomes Rezende Hulmann e à companheira Lilian Gomes de Oliveira, firmada em 17 de julho de 2015 (vide registro R-12/2.339 da matrícula de mov. 23.2), já tramitavam as ações de cumprimento de sentença que iniciaram em 16.01.2012 (mov. 1.1 de ambos os processos), tendo a parte agravante sido intimada para pagar voluntariamente o débito em 29.01.2013 (fls. 126 no mov. 1.12 dos autos n. 0004421- 92.2012.8.16.0001), por isso a doação de bens de ascendente para descendente, quando, ao tempo da alienação, já tramitava contra a parte agravante uma ação, configura fraude à execução, haja vista a presunção da má-fé da parte agravante que tenta blindar o patrimônio", bem como de que "resta patente que o ato da parte agravante visou, única e exclusivamente, a frustração da execução, como forma de dissipar o patrimônio", assim também de que "quanto à existência de outros bens da parte agravante passíveis de penhora, deve-se destacar que, como muito bem pontuado pela parte agravada, em suas razões, ao contrário do que consta da decisão agravada, a penhora sobre o imóvel de Matrícula nº 178.075 (8ª CI) não pode persistir, pois precisou ser levantada em razão da arrematação do imóvel por outro credor no Estado da Bahia", além de que "tratando-se de doação realizada entre ascendente e descendentes, durante o trâmite do cumprimento de sentença, presume-se a má- fé da parte agravante, sendo desnecessária a intimação prévia dos donatários, porquanto há entendimento consolidado pelo Superior Tribunal de Justiça, segundo o qual não se aplica, na hipótese, a Súmula 375 do STJ, nem se exige a observância do disposto no artigo 782, § 4º, do Código de Processo Civil, haja vista não se tratar de terceiros de boa-fé (e-STJ fl. 173)", ao entendimento de que "a respeito do Tema 243 do STJ, também não há omissão, uma vez que o precedente refere-se à necessidade, em regra, de averbação da constrição na matrícula do bem ou à demonstração de má-fé do terceiro adquirente, no entanto, como bem exposto, essa diretriz não se aplica quando a alienação se dá entre ascendente e descendente, hipótese na qual a má-fé é presumida (e-STJ fl. 173)", exige o reexame de fatos e provas, o que é vedado em recurso especial pela Súmula 7/STJ.
+Forte nessas razões, CONHEÇO do agravo e, com fundamento no art. 932, IV, "a", do CPC, bem como na Súmula 568/STJ, CONHEÇO PARCIALMENTE do recurso especial e, nessa extensão, NEGO-LHE PROVIMENTO.
+Deixo de majorar os honorários de sucumbência recursal, visto que não foram arbitrados na instância de origem.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar a condenação às penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO DE RESCISÃO CONTRATUAL C/C PEDIDO DE COBRANÇA E DE INDENIZAÇÃO POR PERDAS E DANOS. EMBARGOS DE DECLARAÇÃO. OMISSÃO, CONTRADIÇÃO OU OBSCURIDADE. NÃO OCORRÊNCIA. FUNDAMENTAÇÃO. AUSENTE. DEFICIENTE. SÚMULA 284/STF. PREQUESTIONAMENTO. AUSÊNCIA. SÚMULA 211/STJ. REEXAME DE FATOS E PROVAS. INADMISSIBILIDADE.
+1. Ação de rescisão contratual c/c pedido de cobrança e de indenização por perdas e danos.
+2. Ausentes os vícios do art. 1.022 do CPC, rejeitam-se os embargos de declaração.
+3. A ausência de fundamentação ou a sua deficiência importa no não conhecimento do recurso quanto ao tema.
+4. A ausência de decisão acerca dos dispositivos legais indicados como violados, não obstante a oposição de embargos de declaração, impede o conhecimento do recurso especial.
+5. O reexame de fatos e provas em recurso especial é inadmissível.
+6. Agravo conhecido. Recurso especial conhecido em parte e, nessa extensão, não provido.
