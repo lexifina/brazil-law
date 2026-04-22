@@ -1,0 +1,27 @@
+DECISÃO
+Cuida-se de Agravo apresentado pelo MUNICÍPIO DE CEDRAL à decisão que não admitiu seu Recurso Especial.
+O apelo, fundamentado no artigo 105, III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO MARANHÃO, assim resumido:
+DIREITO CONSTITUCIONAL E ADMINISTRATIVO. APELAÇÃO CÍVEL. AÇÃO DE COBRANÇA PROPOSTA POR SERVIDORA COMISSIONADA. PAGAMENTO DE VERBAS TRABALHISTAS. FGTS. FÉRIAS EM DOBRO. DANOS MORAIS. DESCABIMENTO. RECURSO NÃO PROVIDO.
+Quanto à controvérsia, a parte recorrente alega violação do art. 373, I e II, do CPC, no que concerne à necessidade de correta distribuição do ônus da prova na ação de cobrança, em razão da ausência de prova mínima do inadimplemento e da transferência indevida ao Município do encargo de demonstrar pagamento, trazendo a seguinte argumentação:
+A decisão do Tribunal de Justiça incorreu em manifesta ofensa ao ordenamento jurídico, ao interpretar e aplicar de forma inadequada o disposto no art. 373, incisos I e II, do Código de Processo Civil.
+ ..
+A controvérsia, portanto, não diz respeito aos fatos da demanda, mas repousa exclusivamente sobre a correta interpretação do direito processual federal, notadamente no tocante à distribuição do ônus da prova.
+A decisão da Corte de origem subverteu a lógica do art. 373 do CPC ao impor ao Município o ônus de provar um fato extintivo (o pagamento), sem que a autora tenha previamente demonstrado o fato constitutivo de sua pretensão  o inadimplemento correspondente  , como exige o inciso I do referido dispositivo (fl. 95).
+E foi precisamente essa a hipótese verificada nos autos. A decisão conferiu à autora o direito ao recebimento de verbas remuneratórias a partir de uma presunção de veracidade das alegações iniciais, sem que constasse nos autos qualquer prova concreta do fato constitutivo do direito invocado.
+ ..
+Nenhuma dessas condições foi verificada nos autos. Inexistiu decisão expressa que autorizasse a redistribuição do ônus da prova; ao contrário, a inversão decorreu de uma presunção judicial quanto ao inadimplemento  desprovida, contudo, de qualquer suporte probatório mínimo (fls . 96-97).
+A decisão reconheceu a pretensão em favor da autora com base em presunções não autorizadas pelo ordenamento, sem que ela tenha cumprido seu dever legal de demonstrar os fatos constitutivos do direito alegado.
+Cuida-se, pois, de afronta direta à sistemática delineada no art. 373 do Código de Processo Civil. A decisão aplicou indevidamente o inciso II, ao atribuir ao Município o encargo de provar fato extintivo, sem que a autora, Carina Malheiros Moreira, tivesse previamente se desincumbido de demonstrar o fato constitutivo de seu direito, como exige o inciso I (fl. 98).
+É o relatório.
+Decido.
+Quanto à controvérsia, o Tribunal a quo se manifestou nos seguintes termos:
+Extrai-se dos autos, em especial dos contracheques juntados ao feito, que a autora foi contratada pelo município demandado para exercer o cargo comissionado de Inspetor Escolar, de 15 de agosto de 2018 a 31 de dezembro de 2020, tendo afirmado que não recebeu os valores referentes ao salário de dezembro/2020, ao FGTS e outras verbas trabalhistas durante todo o período laborado, razão pela qual ajuizou a presente demanda.
+De início, é dever da Administração Municipal o pagamento das verbas trabalhistas devidas a seus agentes, notadamente quando a efetiva prestação dos serviços restar incontroversa, principalmente pela ausência de prova da negativa de tal fato por parte da Administração, sob pena de configurar um enriquecimento ilícito da edilidade (fl. 82).
+Assim, incide a Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), porquanto o reexame da premissa fixada pelo acórdão recorrido quanto à distribuição do ônus probatório das partes exigiria a incursão no acervo fático-probatório dos autos, o que não é possível em Recurso Especial.
+Nesse sentido, o STJ já decidiu que "a análise sobre a verificação da distribuição do ônus probatório das partes pressupõe o reexame dos elementos fático-probatórios contidos nos autos, inclusive com o cotejamento de peças processuais, o que é inviável em sede de recurso especial, tendo em vista o óbice da Súmula 7/STJ" (AgInt no AREsp n. 2.490.617/PE, relator Ministro Mauro Campbell Marques, Segunda Turma, DJe de 13/6/2024).
+Confiram-se ainda os seguintes julgados: AgInt no AREsp n. 2.575.962/PR, relator Ministro Marco Buzzi, Quarta Turma, DJe de 22/11/2024; REsp n. 2.164.369/CE, relatora Ministra Nancy Andrighi, Terceira Turma, DJe de 8/11/2024; AgInt no AREsp n. 2.653.386/BA, relator Ministro Raul Araújo, Quarta Turma, DJe de 21/10/2024; AgInt no REsp n. 2.019.364/SP, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, DJe de 29/8/2024; EDcl no AgInt no AREsp n. 1.993.580/SP, relator Ministro Afrânio Vilela, Segunda Turma, DJe de 2/5/2024; AgInt no AREsp n. 1.867.210/SP, relator Ministro Herman Benjamin, Segunda Turma, DJe de 13/10/2021.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do Agravo para não conhecer do Recurso Especial.
+Nos termos do art. 85, § 11, do Código de Processo Civil, majoro os honorários de advogado em desfavor da parte recorrente em 15% sobre o valor já arbitrado nas instâncias de origem, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão de justiça gratuita.
+Publique-se.
+Intimem-se.
+ EMENTA
