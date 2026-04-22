@@ -1,0 +1,84 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 16/04/2026 a 22/04/2026, por unanimidade, negar provimento ao recurso, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Marco Aurélio Bellizze, Teodoro Silva Santos, Afrânio Vilela e Francisco Falcão votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro Teodoro Silva Santos.
+EMENTA
+DIREITO PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DECISÃO DA PRESIDÊNCIA DO STJ MANTIDA. VIOLAÇÃO AO ART. 700 DO CPC. NOTA FISCAL. DOCUMENTO HÁBIL. EMBASAMENTO. AÇÃO MONITÓRIA. ALTERAÇÃO DO ENTENDIMENTO FIRMADO PELO TRIBUNAL DE ORIGEM QUE DEMANDARIA REEXAME DO ACERVO FÁTICO E PROBATÓRIO DOS AUTOS. IMPOSSIBILIDADE. INCIDÊNCIA DA SÚMULA 7/STJ. AGRAVO INTERNO A QUE SE NEGA PROVIMENTO.
+1. "Considerando a fundamentação adotada na origem, para modificar o entendimento firmado no aresto impugnado, é necessário exceder as razões colacionadas no acórdão vergastado, o que demanda incursão no contexto fático-probatório dos autos, o que é inviável em Recurso Especial, ante o óbice contido na Súmula 7 do STJ". (REsp n. 1.968.314/RS, rel. Min. Herman Benjamin, Segunda Turma, DJe de 16/03/2022)
+2. "Hipótese em que o Tribunal de origem, examinando a prova dos autos, considerou que o autor não se desincumbiu do ônus de comprovar o fato constitutivo do direito alegado. A revisão desse entendimento exige o revolvimento de matéria fática, inviável em sede de recurso especial (Súmula 7/STJ)". (AgInt no REsp 1.851.342/MG, Rel. Min. Raul Araújo, Quarta Turma, DJe de 1/7/2020)
+3. Agravo interno não provido.
+RELATÓRIO
+Trata-se de agravo interno interposto por TICKET SOLUÇÕES HDFGT S/A contra decisão monocrática, de lavra da Presidência do STJ, que conheceu do agravo para não conhecer do recurso especial, consoante a seguinte argumentação (fls. 714/717):
+Cuida-se de Agravo apresentado por TICKET SOLUCOES HDFGT S/A à decisão que não admitiu seu Recurso Especial.
+O apelo, fundamentado no artigo 105, III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE GOIÁS, assim resumido:
+(..)
+Quanto à controvérsia, a parte recorrente alega violação do art. 700 do CPC, no que concerne ao reconhecimento de que a nota fiscal, mesmo sem a assinatura do devedor e quando acompanhada de documentos complementares, deve ser considerada documento hábil e suficiente para embasar a ação monitória, trazendo a seguinte argumentação:
+(..)
+É o relatório.
+Decido.
+Quanto à controvérsia, o Tribunal a quo se manifestou nos seguintes termos:
+(..)
+Assim, incide a Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), porquanto o acolhimento da pretensão recursal demandaria o reexame do acervo fático-probatório juntado aos autos.
+Nesse sentido: "Para o acolhimento do apelo extremo, no sentido de afirmar se são suficientes os documentos que instruíram a ação monitória, seria imprescindível derruir a afirmação contida no decisum atacado, o que, forçosamente, enseja em rediscussão da matéria fática-probatória, atraindo o óbice da Súmula 7 do STJ." (AgInt no AREsp n. 1.254.657/SC, relator Ministro Marco Buzzi, Quarta Turma, julgado em 29/6/2020, DJe de 3/8/2020.)
+Confiram-se os seguintes julgados: AgInt no REsp n. 2.113.579/MG, relatora Ministra Maria Isabel Gallotti, Quarta Turma, DJEN de 27/3/2025; AgInt no AREsp n. 2.691.829/SP, relator Ministro Sérgio Kukina, Primeira Turma, DJEN de 28/3/2025; AREsp n. 2.839.474/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJEN de 26/3/2025; AgInt no REsp n. 2.167.518/RS, relatora Ministra Nancy Andrighi, Terceira Turma, DJEN de 27/3/2025; AgRg no AREsp n. 2.786.049/SP, relator Ministro Messod Azulay Neto, Quinta Turma, DJEN de 26/3/2025; AgRg no AREsp n. 2.753.116/RN, relator Ministro Sebastião Reis Júnior, Sexta Turma, DJEN de 25/3/2025; AgInt no REsp n. 2.185.361/CE, relatora Ministra Regina Helena Costa, Primeira Turma, DJEN de 28/3/2025; AgRg no REsp n. 2.088.266/MG, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, DJEN de 25/3/2025; AREsp n. 1.758.201/AM, relatora Ministra Maria Thereza de Assis Moura, Segunda Turma, DJEN de 27/3/2025; AgInt no AREsp n. 2.643.894/DF, relator Ministro Raul Araújo, Quarta Turma, DJEN de 31/3/2025; AgInt no AREsp n. 2.636.023/RS, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, DJEN de 28/3/2025; AgInt no REsp n. 1.875.129/PE, relator Ministro Paulo Sérgio Domingues, Primeira Turma, DJEN de .21/3/2025.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do Agravo para não conhecer do Recurso Especial.
+Nas razões do agravo interno, interposto às fls. 721/722, a parte agravante contesta a aplicação do óbice do enunciado 7 da Súmula do STJ, trazendo a seguinte argumentação:
+Ao contrário do que consta na decisão agravada, não há que se falar em revisão fático-probatória, pois os trechos do acórdão colacionados no decisum não são nem mesmo pertinentes com a matéria específica deduzida no recurso especial.
+Os trechos colacionados às fls. 716 da decisão agravada tratam da vigência contratual, data de emissão das notas fiscais etc.
+Todas essas questões referem-se à consequência da matéria deduzida no REsp. Vale dizer: a matéria jurídica posta no recurso especial é preliminar - portanto, anterior - àquelas analisadas no acórdão e cujos trechos foram invocados pela decisão monocrática.
+Perceba-se que no recurso especial foi indicada a afronta ao art. 700 do CPC, pois a premissa jurídica já sedimentada pelo STJ é de que a nota fiscal, mesmo sem aceite do devedor, juntamente com o relatório de prestação dos serviços, é documento hábil a embasar a ação monitória.
+Essa matéria foi analisada pelo acórdão recorrido de maneira pontual, ao assentar:
+Ademais, a prestação do serviço não foi demonstrada, pois as notas fiscais eletrônicas não possuem o aceite e o Relatório de Utilização dos Créditos é um documento unilateral.
+Ora, não há controvérsia sobre esses elementos, tratando-se somente de controvérsia jurídica para saber se a nota fiscal, mesmo sem aceite, acompanhada do relatório de uso é suficiente para embasar a ação monitória.
+Todos os outros elementos constantes no acórdão recorrido e que foram destacados na monocrática seriam consequência de eventual afastamento da premissa jurídica indicada.
+Em outras palavras: somente após entender que a nota fiscal e o relatório não seriam suficientes para a ação monitória é que seriam apreciados os demais elementos do caso que supostamente permeariam a ação monitória.
+Logo, a questão posta a julgamento no recurso especial é somente a premissa jurídica analisada pelo acórdão recorrido, a qual, uma vez provido o recurso especial, derroga toda a consequência fática analisada pelo acórdão recorrido.
+Por essa razão, somente incidiria a Súmula 7 se a controvérsia residisse nos elementos subsequentes, mas como a questão é exclusivamente do antecedente lógico (premissa jurídica), que é uma matéria exclusivamente de direito, então não incide esse óbice sumular.
+As contrarrazões foram apresentadas (fls. 726/735).
+É o relatório.
+EMENTA
+DIREITO PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DECISÃO DA PRESIDÊNCIA DO STJ MANTIDA. VIOLAÇÃO AO ART. 700 DO CPC. NOTA FISCAL. DOCUMENTO HÁBIL. EMBASAMENTO. AÇÃO MONITÓRIA. ALTERAÇÃO DO ENTENDIMENTO FIRMADO PELO TRIBUNAL DE ORIGEM QUE DEMANDARIA REEXAME DO ACERVO FÁTICO E PROBATÓRIO DOS AUTOS. IMPOSSIBILIDADE. INCIDÊNCIA DA SÚMULA 7/STJ. AGRAVO INTERNO A QUE SE NEGA PROVIMENTO.
+1. "Considerando a fundamentação adotada na origem, para modificar o entendimento firmado no aresto impugnado, é necessário exceder as razões colacionadas no acórdão vergastado, o que demanda incursão no contexto fático-probatório dos autos, o que é inviável em Recurso Especial, ante o óbice contido na Súmula 7 do STJ". (REsp n. 1.968.314/RS, rel. Min. Herman Benjamin, Segunda Turma, DJe de 16/03/2022)
+2. "Hipótese em que o Tribunal de origem, examinando a prova dos autos, considerou que o autor não se desincumbiu do ônus de comprovar o fato constitutivo do direito alegado. A revisão desse entendimento exige o revolvimento de matéria fática, inviável em sede de recurso especial (Súmula 7/STJ)". (AgInt no REsp 1.851.342/MG, Rel. Min. Raul Araújo, Quarta Turma, DJe de 1/7/2020)
+3. Agravo interno não provido.
+VOTO
+A insurgência não merece ser provida.
+De fato, nos termos da jurisprudência do STJ, "a documentação consistente em notas fiscais serve para o ajuizamento da ação monitória, não se exigindo que contenha a assinatura do devedor" (AgInt no AREsp n. 2.497.320/TO, rel. Min. Gurgel de Faria, Primeira Turma, DJe de 06/06/2024).
+Todavia, ao contrário dos argumentos expostos pela parte agravante, é necessário que esteja acompanhada de outros documentos que comprovem a entrega da mercadoria ou a prestação do serviço, bem como seja considerada juridicamente hábil pelo magistrado, para, naquele primeiro momento, comprovar o montante da dívida, atestando a inequívoca existência do direito alegado pela parte.
+A propósito:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO MONITÓRIA. DOCUMENTOS INSTRUTÓRIOS. INIDONEIDADE. DÍVIDA. ASSINATURA. AUSÊNCIA. NOTAS FISCAIS ELETRÔNICAS. REQUERIMENTOS DE CRÉDITO. AUTENTICIDADE. NÃO COMPROVAÇÃO. EFICÁCIA PROBANTE. FALTA. SÚMULA Nº 7/STJ.
+1. A documentação consistente em notas fiscais e relatórios de requerimento de crédito serve para o ajuizamento da ação monitória, não se exigindo que contenha a assinatura do devedor, desde que sejam capazes de atestar a inequívoca existência do direito alegado. Precedentes.
+2. O recurso especial é inviável quando a modificação do acórdão recorrido demanda o reexame do conjunto fático-probatório dos autos, conforme dispõe a Súmula nº 7/STJ.
+3. Na hipótese, o tribunal de origem verificou a falta de assinatura ou participação da empresa recorrida e da prova de que os créditos lhe teriam sido efetivamente disponibilizados e também a ausência nos autos do contrato firmado entre as partes a balizar a movimentação de vultosa quantia, não tendo a parte recorrente provado os fatos constitutivos do seu direito.
+4. A modificação do acórdão recorrido é providência que esbarra no óbice da Súmula nº 7/STJ.
+5. Agravo interno não provido.
+(AgInt no AREsp n. 2.239.383/MG, rel. Min. Ricardo Villas Bôas Cueva, Terceira Turma, DJe de 07/03/2024)
+Na hipótese, conforme mencionado na decisão ora agravada, constata-se que a Corte de origem, soberana na análise das circunstâncias fáticas da causa, concluiu que (fls. 546/550):
+Do compulso dos autos, verifico que a recorrente não comprovou a prestação do serviço, uma vez que o único contrato assinado pelas partes vigorou até 03/2021 e as notas fiscais venceram em 30/12/2021, 31/01/2022, 02/03/2022 e 30/03/2022.
+O Termo Aditivo apresentado pela apelante, no momento do ajuizamento da ação, não se encontra assinado. A recorrente afirma que, com base no artigo 435 do Código de Processo Civil, apresenta, nesse momento processual, o Termo Aditivo devidamente assinado.
+Considerando que a apelante não comprovou o motivo que a impediu de apresentar o Termo Aditivo juntamente com a exordial, conforme determina o artigo 434 do Código de Processo Civil, esse documento não pode ser utilizado para embasar a reforma da sentença em decorrência da preclusão e sob pena de supressão de instância.
+(..)
+Ademais, a prestação do serviço não foi demonstrada, pois as notas fiscais eletrônicas não possuem o aceite e o Relatório de Utilização dos Créditos é um documento unilateral.
+(..)
+Ressalto, também, que o Ofício nº 199/2022 - COMURG/DRAF/GERFIN, datado em 09/11/2022 e assinado pelo Diretor Administrativo/Financeiro da COMURG, não confessa a existência da dívida. Apenas responde à notificação enviada pela recorrente, manifestando a ausência de recursos. Confira-se:
+(..)
+A apelante aduz que o juízo deveria definir a distribuição do ônus probante e, ainda, delimitar as questões de direito relevantes para a decisão do mérito, o que não foi feito. No entanto, esse fato, por si só, não gera a nulidade do processo, uma vez que a demanda foi julgada com base no artigo 373 do Código de Processo Civil, que estabelece a distribuição estática do ônus da prova, que é a regra no processo civil, e os pontos controvertidos do presente feito podem ser facilmente deduzidos da petição inicial e dos embargos /monitórios, possibilitando o pleno exercício do direito de defesa.
+Como se vê, o Tribunal a quo verificou que, além da falta de assinatura ou participação da empresa recorrida e da prova de que os créditos lhe teriam sido efetivamente disponibilizados, não foi trazido aos autos o contrato firmado entre as partes a balizar a movimentação de vultosa quantia, não tendo a parte recorrente se desincumbido de provar os fatos constitutivos do seu direito.
+Assim, "considerando a fundamentação adotada na origem, para modificar o entendimento firmado no aresto impugnado, é necessário exceder as razões colacionadas no acórdão vergastado, o que demanda incursão no contexto fático-probatório dos autos, o que é inviável em Recurso Especial, ante o óbice contido na Súmula 7 do STJ". (REsp n. 1.968.314/RS, rel. Min. Herman Benjamin, Segunda Turma, DJe de 16/03/2022). Na mesma toada:
+AGRAVO INTERNO NO RECURSO ESPECIAL. DIREITO CIVIL E PROCESSUAL CIVIL. AÇÃO MONITÓRIA. CONTRATO DE CONFISSÃO DE DIVIDA. AUSÊNCIA DE DEMONSTRAÇÃO DE VIOLAÇÃO DE LEI FEDERAL. INCIDÊNCIA DO ENUNCIADO N.º 284/STF. CERCEAMENTO DE DEFESA. NÃO OCORRÊNCIA. LITIGÂNCIA DE MÁ-FÉ. NÃO VERIFICADA.
+1. Consoante a jurisprudência do Superior Tribunal de Justiça, a ausência de demonstração da afronta a lei federal, caracteriza a ausência de fundamentação jurídica e legal, conforme previsto no Enunciado n.º 284, do STF.
+2. Entendimento no âmbito do Superior Tribunal de Justiça no sentido de que não se exige, na ação monitória, a demonstração inequívoca da existência da relação jurídica e da quantia devida, sendo suficiente a apresentação de documento escrito que possa ensejar a convicção do juiz quanto à existência do direito alegado.
+3. Rever o posicionamento do Tribunal de Justiça implicaria a revisão de provas e cláusulas contratuais, medida vedada pelo Enunciado n.º 7, da Súmula de Jurisprudência do Superior Tribunal de Justiça.
+4. Conforme a jurisprudência do Superior Tribunal de Justiça, a interposição de recursos cabíveis não implica litigância de má-fé nem ato atentatório à dignidade da justiça, ainda que com argumentos reiteradamente refutados pelo Tribunal de origem ou sem alegação de fundamento novo.
+5. Não apresentação de argumentos novos capazes de infirmar os fundamentos que alicerçaram a decisão agravada.
+6. AGRAVO INTERNO CONHECIDO E DESPROVIDO.
+(AgInt no REsp 1.854.504/DF, Rel. Min. Paulo de Tarso Sanseverino, Terceira Turma, DJe de 3/11/2021)
+"AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO MONITÓRIA. DÍVIDA FUNDADA EM INSTRUMENTO PARTICULAR. CONTRATO DE PRESTAÇÃO DE SERVIÇOS DE TRANSPORTE. PRESCRIÇÃO QUINQUENAL. ART. 206, § 5º, I, DO CÓDIGO CIVIL. CONTRATO BILATERAL. COMPROVAÇÃO DA EXISTÊNCIA DO CRÉDITO. SÚMULA 7/STJ. AGRAVO INTERNO DESPROVIDO.
+1. A ação monitória visando à cobrança de dívida líquida fundada em contrato particular de prestação de serviços sujeita-se ao prazo prescricional de 5 (cinco) anos, nos termos do art. 206, § 5º, I, do Código Civil. Precedentes.
+2. A ação monitória não é a via processual cabível para cobrar dívida ilíquida. Conforme já decidido por esta Corte, "A ação monitória é meio processual disponibilizado ao credor para realizar dívidas representadas em prova escrita, pelo que, sob pena de inépcia da inicial, a propositura da monitória deve vir acompanhada de um documento, considerado pelo magistrado juridicamente hábil, para, naquele primeiro momento, comprovar o montante da dívida, sem o qual não poderá expedir o competente mandado monitório" (AgRg no REsp 1.402.170/RS, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 11/02/2014, DJe de 14/03/2014).
+3. Hipótese em que o Tribunal de origem, examinando a prova dos autos, considerou que o autor não se desincumbiu do ônus de comprovar o fato constitutivo do direito alegado. A revisão desse entendimento exige o revolvimento de matéria fática, inviável em sede de recurso especial (Súmula 7/STJ).
+4. Agravo interno a que se nega provimento.
+(AgInt no REsp 1.851.342/MG, Rel. Min. Raul Araújo, Quarta Turma, DJe de 1/7/2020)
+Desse modo, verifica-se que a parte agravante não trouxe nenhum argumento capaz de modificar o entendimento firmado pela decisão agravada, que deve ser mantido por seus próprios termos e fundamentos.
+Ante o exposto, nego provimento ao agravo interno.
+É como voto.
