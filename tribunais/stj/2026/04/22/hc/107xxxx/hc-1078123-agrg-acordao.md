@@ -1,0 +1,32 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEXTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 16/04/2026 a 22/04/2026, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Rogerio Schietti Cruz, Carlos Pires Brandão e Og Fernandes votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Carlos Pires Brandão.
+Não participou do julgamento o Sr. Ministro Antonio Saldanha Palheiro.
+EMENTA
+AGRAVO REGIMENTAL EM HABEAS CORPUS. TRÁFICO DE DROGAS E ASSOCIAÇÃO PARA O MESMO FIM. PRISÃO DOMICILIAR. AGRAVANTE COM FILHOS MENORES DE 12 ANOS DE IDADE. SITUAÇÃO EXCEPCIONALÍSSIMA. AUSÊNCIA DE CONSTRANGIMENTO ILEGAL.
+Agravo regimental improvido.
+RELATÓRIO
+Trata-se de agravo regimental interposto por CLECIANE DO NASCIMENTO PAIVA contra decisão monocrática assim ementada (fl. 127):
+HABEAS CORPUS. TRÁFICO DE DROGAS E ASSOCIAÇÃO PARA O MESMO FIM. PRISÃO DOMICILIAR. PACIENTE COM FILHOS MENORES DE 12 ANOS DE IDADE. SITUAÇÃO EXCEPCIONALÍSSIMA. AUSÊNCIA DE CONSTRANGIMENTO ILEGAL.
+Petição inicial indeferida liminarmente.
+Nas razões, a parte agravante alega que a decisão não enfrentou elementos fáticos supervenientes comprovados, notadamente gravidez de risco e internação em enfermaria, os quais alteram substancialmente o juízo de proporcionalidade da medida cautelar.
+Argumenta que o art. 318-A do Código de Processo Penal estabelece direito objetivo com o verbo será, de modo que reiteração delitiva e quantidade de droga não se qualificam como exceções aptas a afastar a substituição da preventiva por domiciliar.
+Sustenta que os fundamentos da prisão preventiva e as exceções à prisão domiciliar da gestante são categorias jurídicas autônomas, não comunicantes, sendo indevido afastar o benefício com base em gravidade abstrata do delito e reiteração.
+Postula a imediata substituição da prisão preventiva da agravante por prisão domiciliar, nos termos do art. 318-A do Código de Processo Penal (fl. 141).
+É o relatório.
+EMENTA
+AGRAVO REGIMENTAL EM HABEAS CORPUS. TRÁFICO DE DROGAS E ASSOCIAÇÃO PARA O MESMO FIM. PRISÃO DOMICILIAR. AGRAVANTE COM FILHOS MENORES DE 12 ANOS DE IDADE. SITUAÇÃO EXCEPCIONALÍSSIMA. AUSÊNCIA DE CONSTRANGIMENTO ILEGAL.
+Agravo regimental improvido.
+VOTO
+O agravo regimental não prospera, porquanto a agravante não conseguiu infirmar os fundamentos adotados na decisão de fls. 127/129.
+Indeferi liminarmente a petição inicial. A paciente foi presa em flagrante em 18/12/2025 por tráfico e associação, tendo sido a prisão homologada e convertida em preventiva em 19/12/2025. A decisão de origem destacou a apreensão de 425 g de cocaína, dinheiro e materiais usualmente empregados na traficância, além de registro de prisão anterior em curto lapso temporal. O Tribunal local denegou a ordem, mantendo a custódia cautelar (fls. 127/128).
+O Supremo Tribunal Federal, no julgamento do HC n. 143.641/SP, concedeu habeas corpus coletivo para determinar a substituição da prisão preventiva pela domiciliar - sem prejuízo da aplicação concomitante das medidas alternativas previstas no art. 319 do CPP - de todas as mulheres presas, gestantes, puérperas, ou mães de crianças e deficientes sob sua guarda  .. , enquanto perdurar tal condição, excetuados os casos de crimes praticados por elas mediante violência ou grave ameaça, contra seus descendentes ou, ainda, em situações excepcionalíssimas, as quais deverão ser devidamente fundamentadas pelos juízes que denegarem o benefício.
+Na esteira dessa orientação, foi promulgada a Lei n. 13.769/2018, que incluiu, no Código de Processo Penal, os arts. 318-A e 318-B, prevendo, como regra, a prisão domiciliar à mulher que esteja gestante, responsável por criança ou pessoa com necessidades especiais, também excluindo as situações de crimes praticados mediante violência e/ou contra a própria criança.
+Registra-se que a simples constatação de a acusada ser genitora de filho menor de 12 anos não implica automática e indiscutivelmente concessão do benefício de prisão domiciliar, visto que o Supremo Tribunal Federal, no próprio julgamento do HC n. 143.641/SP, autorizou a manutenção da prisão preventiva caso verificada a presença de situações excepcionais que justifiquem a mitigação do direito.
+Sobre a questão, decidiu o Tribunal local manter a segregação cautelar sob o fundamento de que a agravante foi novamente presa em  poucos dias  pela suposta prática do mesmo delito (fl. 33). Com efeito, a agravante responde a outra ação penal pela suposta prática do mesmo crime, liberada em audiência de custódia no dia 9/12/2025 (fl. 51).
+Segundo os incisos III e IV do § 5º do art. 310 do CPP, respectivamente, incluídos pela Lei n. 15.272/2025, são circunstâncias que, sem prejuízo de outras, recomendam a conversão da prisão em flagrante em preventiva: ter o agente já sido liberado em prévia audiência de custódia por outra infração penal, salvo se por ela tiver sido absolvido posteriormente; ter o agente praticado a infração penal na pendência de inquérito ou ação penal.
+Assim, em razão de a acusada ter sido liberada em audiência de custódia no dia 9/12/2025, quando flagrada pela suposta prática de tráfico de drogas, e ser novamente presa em flagrante em 18/12/2025, o caso concreto configura hipótese excepcionalíssima, justificando o indeferimento da conversão da prisão preventiva em domiciliar.
+No mesmo sentido, mutatis mutandis: AgRg no HC n. 896.585/TO, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 17/6/2024, DJe de 19/6/2024; AgRg no HC n. 911.749/PR, Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 21/5/2024, DJe 29/5/2024; AgRg no HC n. 902.214/SP, Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 20/5/2024, DJe 23/5/2024; e AgRg no HC n. 849.909/SC, relator Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), Sexta Turma, julgado em 18/3/2024, DJe 21/3/2024.
+Ademais, o Tribunal de Justiça registrou que a agravante não demonstrou a impossibilidade de submissão a tratamento e acompanhamento médico no ambiente prisional (fl. 36), e que não se localizou comprovação de que a gestação atual da ré apresente riscos, havendo apenas documentação relativa a gestações pretéritas, datadas de 2018 e 2019 (fl. 36); conclusão insuscetível de inversão nesta Corte Superior, por demandar reexame fático-probatório.
+Ante o exposto, nego provimento ao agravo regimental.
