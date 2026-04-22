@@ -1,0 +1,35 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEXTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 16/04/2026 a 22/04/2026, por unanimidade, denegar o habeas corpus, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Rogerio Schietti Cruz, Carlos Pires Brandão e Og Fernandes votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Carlos Pires Brandão.
+Não participou do julgamento o Sr. Ministro Antonio Saldanha Palheiro.
+EMENTA
+PROCESSUAL PENAL. HABEAS CORPUS. DANO QUALIFICADO E EXERCÍCIO ARBITRÁRIO DAS PRÓPRIAS RAZÕES. TRANCAMENTO DA AÇÃO PENAL PRIVADA. WRIT SUBSTITUTIVO DE RECURSO PRÓPRIO. INADMISSIBILIDADE. AUSÊNCIA DE FLAGRANTE CONSTRANGIMENTO ILEGAL.
+1. O writ não pode ser utilizado como substitutivo de recurso próprio, ressalvada a hipótese de flagrante ilegalidade apta à concessão da ordem de ofício.
+2. O trancamento da ação penal por meio de habeas corpus constitui medida excepcional, admissível apenas quando houver comprovação inequívoca, desde logo, da atipicidade da conduta, da incidência de causa extintiva da punibilidade ou da ausência de indícios de autoria e de prova da materialidade delitiva.
+3. Na hipótese, o Tribunal de origem reconheceu a presença de indícios mínimos de materialidade, autoria e dolo, concluindo que a verificação do animus nocendi, quanto ao crime de dano qualificado, demanda instrução probatória, sendo inviável o reexame na via estreita do habeas corpus.
+4. Quanto ao crime de exercício arbitrário das próprias razões, o acórdão recorrido assentou que a independência das esferas penal e cível impede condicionar o processamento da ação penal privada ao prévio desfecho da controvérsia patrimonial, não afastando, por si só, a tutela penal da conduta narrada.
+5. Ordem denegada.
+RELATÓRIO
+Trata-se de habeas corpus impetrado em nome de EDMARIO HONORATO DE LIMA - réu em ação penal que apura a prática, em tese, dos crimes de dano qualificado e exercício arbitrário das próprias razões -, apontando-se como ato coator o acórdão proferido pelo Tribunal de Justiça do Distrito Federal e dos Territórios no julgamento do Recurso em Sentido Estrito n. 0723446-79.2024.8.07.0001 (fls. 8/33).
+A impetração busca o restabelecimento da decisão que rejeitou a queixa-crime e, em consequência, o trancamento da Ação Penal Privada n. 0723446-79.2024.8.07.0001 (da 4ª Vara Criminal de Brasília/DF), sustentando ausência de justa causa quanto ao:
+a) dano qualificado, porque não estaria caracterizado o animus nocendi, já que a própria narrativa acusatória indicaria que a conduta decorreu de inconformismo com suposto inadimplemento contratual, e não de dolo específico de destruir, inutilizar ou deteriorar a coisa alheia (fls. 4/5); e
+b) exercício arbitrário das próprias razões, porque a controvérsia teria natureza eminentemente civil, sendo indevida a intervenção do Direito Penal, à luz dos princípios da subsidiariedade, da fragmentariedade e da intervenção mínima (fl. 5).
+O pedido liminar foi indeferido pela Presidência do Superior Tribunal de Justiça, por não se verificar, em cognição sumária, manifesta ilegalidade ou urgência a justificar o deferimento da medida (fls. 227/228).
+Prestadas informações pelo Tribunal de origem (fl. 273) e pelo juízo de primeiro grau (fls. 231/232), o Ministério Público Federal opinou pelo não conhecimento do habeas corpus ou, acaso conhecido, pela denegação da ordem, arguindo, em resumo, que o writ foi manejado como sucedâneo recursal e que o trancamento da ação penal somente é admitido em hipóteses excepcionais, não verificadas na espécie, sendo prematuro o encerramento da persecução penal (fls. 278/281).
+É o relatório.
+EMENTA
+PROCESSUAL PENAL. HABEAS CORPUS. DANO QUALIFICADO E EXERCÍCIO ARBITRÁRIO DAS PRÓPRIAS RAZÕES. TRANCAMENTO DA AÇÃO PENAL PRIVADA. WRIT SUBSTITUTIVO DE RECURSO PRÓPRIO. INADMISSIBILIDADE. AUSÊNCIA DE FLAGRANTE CONSTRANGIMENTO ILEGAL.
+1. O writ não pode ser utilizado como substitutivo de recurso próprio, ressalvada a hipótese de flagrante ilegalidade apta à concessão da ordem de ofício.
+2. O trancamento da ação penal por meio de habeas corpus constitui medida excepcional, admissível apenas quando houver comprovação inequívoca, desde logo, da atipicidade da conduta, da incidência de causa extintiva da punibilidade ou da ausência de indícios de autoria e de prova da materialidade delitiva.
+3. Na hipótese, o Tribunal de origem reconheceu a presença de indícios mínimos de materialidade, autoria e dolo, concluindo que a verificação do animus nocendi, quanto ao crime de dano qualificado, demanda instrução probatória, sendo inviável o reexame na via estreita do habeas corpus.
+4. Quanto ao crime de exercício arbitrário das próprias razões, o acórdão recorrido assentou que a independência das esferas penal e cível impede condicionar o processamento da ação penal privada ao prévio desfecho da controvérsia patrimonial, não afastando, por si só, a tutela penal da conduta narrada.
+5. Ordem denegada.
+VOTO
+A presente impetração - que busca o restabelecimento da decisão que rejeitou a queixa-crime e, em consequência, o trancamento da Ação Penal Privada n. 0723446-79.2024.8.07.0001, da 4ª Vara Criminal de Brasília/DF, na qual se apura, em tese, a prática dos crimes de dano qualificado e exercício arbitrário das próprias razões - não comporta acolhimento.
+Inicialmente, por se tratar de writ substitutivo de recurso próprio, o que é inadmissível (AgRg no HC n. 996.214/RO, Ministro Messod Azulay Neto, Quinta Turma, DJEN de 2/9/2025).
+Ademais, não se verifica a ocorrência de flagrante constrangimento ilegal apto a subsidiar a concessão de ordem de ofício, pois o trancamento de uma ação penal por habeas corpus constitui medida excepcional, que deve ser aplicada somente quando há comprovação inequívoca, desde o início, da atipicidade da conduta, da presença de uma causa que extinga a punibilidade, ou da inexistência de indícios de autoria ou de provas que confirmem a materialidade do delito.
+No caso, o Tribunal estadual considerou que havia indícios mínimos de materialidade, autoria e dolo (fl. 15), e concluir de forma diversa demandaria reexame probatório, inviável na via estreita do habeas corpus:
+a) seja em relação ao crime de dano qualificado, calcado nas declarações da querelante e do próprio querelado, bem como nas fotografias e vídeos juntados aos autos, e de que a verificação do animus nocendi depende de instrução probatória, a ser realizada em momento oportuno, de modo que, havendo dúvida sobre a caracterização do elemento subjetivo, deve prevalecer o interesse social pela apuração do fato (fls. 15/18); ou
+b) quanto ao exercício arbitrário das próprias razões, ao fundamento de que a independência das esferas penal e cível impede de condicionar o processamento da ação penal privada ao prévio desfecho da controvérsia patrimonial, sob pena de impor à vítima escolha sem amparo legal entre as vias, além de que o caráter de ultima ratio do Direito Penal não afasta, por si só, a tutela penal da conduta narrada (fl. 20).
+Em razão disso, denego a ordem.
