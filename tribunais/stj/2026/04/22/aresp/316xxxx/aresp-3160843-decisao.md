@@ -1,0 +1,44 @@
+DECISÃO
+Examina-se agravo em recurso especial interposto por BANCO DO BRASIL S.A. contra decisão que inadmitiu recurso especial fundamentado nas alíneas "a" e "c" do permissivo constitucional..
+Agravo em recurso especial interposto em: 22/10/2025.
+Concluso ao gabinete em: 8/4/2026.
+Ação: recuperação judicial ajuizada por Moinhos de Trigo Indígena S.A - MOTRISA (Motrisa Sergipe) e Outros, na qual requer a homologação do plano de recuperação e a concessão da recuperação judicial.
+Decisão interlocutória: homologou o plano de recuperação judicial e concedeu a recuperação judicial às empresas do GRUPO MOTRISA, com ressalvas, e fixou prazo de 180 dias para regularização do passivo fiscal.
+Acórdão: negou provimento ao recurso de agravo de instrumento interposto pelo agravante, nos termos da seguinte ementa (e-STJ fls. 283-284):
+RECUPERAÇÃO JUDICIAL. APROVAÇÃO DO PLANO PELA ASSEMBLEIA GERAL DE CREDORES. SOBERANIA DAS DELIBERAÇÕES. INTERVENÇÃO JUDICIAL LIMITADA AO CONTROLE DE LEGALIDADE. DESÁGIO E PRAZO DE PAGAMENTO ESTABELECIDOS NO PLANO. DIREITOS PATRIMONIAIS DISPONÍVEIS.
+AUSÊNCIA DE ILEGALIDADE OU ABUSIVIDADE. PRINCÍPIO DA PRESERVAÇÃO DA EMPRESA. PRINCÍPIO DA PARIDADE, DIANTE DO TRATAMENTO DESIGUAL ENTRE OS CREDORES. NÃO OCORRÊNCIA. RECURSO CONHECIDO E DESPROVIDO.
+- Na recuperação judicial, a Assembleia Geral de Credores detém competência soberana para deliberar sobre a aprovação, rejeição ou modificação do plano de soerguimento, nos termos do artigo 35, inciso I, alínea "a", da Lei nº 11.101/2005, cabendo ao Poder Judiciário apenas a fiscalização dos requisitos legais. O plano aprovado pela maioria das classes de credores, respeitados os quóruns previstos no artigo 45 da legislação falimentar, possui natureza contratual e expressa a vontade das partes envolvidas, não cabendo ao magistrado imiscuir-se no mérito das condições econômico-financeiras pactuadas. A estipulação de deságio e prazo dilatado para pagamento insere-se no âmbito da autonomia privada dos credores e decorre da negociação coletiva, não havendo ilegalidade ou abusividade que justifique a anulação das cláusulas questionadas;
+- A jurisprudência do STJ admite-se a criação da subclasse de credores da mesma categoria, desde que respeitados determinados critérios de natureza objetiva e que esta criação tenha como finalidade o soerguimento da sociedade empresária. Logo, não há que se falar em violação ao princípio da paridade entre credores, em virtude da criação de subclasses de credores ("credores colaborativos" e "credores financeiros";
+- Recurso conhecido e desprovido.
+Embargos de Declaração: opostos pelo agravante, foram rejeitados.
+Recurso especial: alega violação dos arts. 8º e 489, § 1º, IV, e 1.022, II, do CPC; 47, 50, I, 58, § 2º, 61 e 67, parágrafo único, da Lei 11.101/2005; 186, 187 e 884 do CC, e 20, 21, 22, 23, 24, 25, 26, 27, 28, 29 e 30 da LINDB, bem como dissídio jurisprudencial. Afirma que o plano aprovado impõe tratamento diferenciado e abusivo entre credores da mesma classe, com deságio de 90% e carência de 24 meses, gerando onerosidade excessiva e violando a paridade. Aduz que cláusulas econômicas aprovadas, como prazos e correção reduzida, configuram enriquecimento sem causa e abuso de direito. Argumenta que o período de carência projeta indevidamente a supervisão judicial, exigindo, ao menos, a contagem do prazo de supervisão após o término da carência. Além da negativa de prestação jurisdicional, sustenta que o controle judicial de legalidade deve afastar estipulações desproporcionais e incompatíveis com a preservação equilibrada da empresa e dos interesses dos credores.
+RELATADO O PROCESSO, DECIDE-SE.
+- Da violação do art. 1.022 do CPC
+É firme a jurisprudência do STJ no sentido de que não há ofensa ao art. 1.022 do CPC quando o Tribunal de origem, aplicando o direito que entende cabível à hipótese soluciona integralmente a controvérsia submetida à sua apreciação, ainda que de forma diversa daquela pretendida pela parte.
+A propósito, confira-se: REsp n. 2.095.460/SP, Terceira Turma, DJe de 15/2/2024 e AgInt no AREsp n. 2.325.175/SP, Quarta Turma, DJe de 21/12/2023.
+No particular, verifica-se que o acórdão recorrido decidiu, fundamentada e expressamente, acerca da ausência de violação ao princípio da paridade entre os credores (e-STJ fl. 703), bem como da inexistência de ilegalidade das cláusulas constantes no plano de recuperação judicial (e-STJ fl. 711), de maneira que os embargos de declaração opostos pela parte agravante, de fato, não comportavam acolhimento.
+Assim, observado o entendimento dominante desta Corte acerca do tema, não há que se falar em violação do art. 1.022 do CPC, incidindo, quanto ao ponto a Súmula 568/STJ.
+- Da violação do art. 489 do CPC
+Do exame do acórdão recorrido, constata-se que as questões de mérito foram devidamente analisadas e discutidas, de modo que a prestação jurisdicional foi esgotada.
+É importante salientar que a ausência de manifestação a respeito de determinado ponto não deve ser confundida com a adoção de razões contrárias aos interesses da parte. Logo, não há contrariedade ao art. 489 do CPC, pois o Tribunal de origem decidiu de modo claro e fundamentado.
+No mesmo sentido: AgInt nos EDcl no AREsp n. 1.547.208/SP, Terceira Turma, DJe 19/12/2019 e AgInt no AREsp n. 1.480.314/RJ, Quarta Turma, DJe 19/12/2019.
+- Da ausência de prequestionamento
+O acórdão recorrido não decidiu acerca dos arts. 61, caput e § 1º, 47 e 50, I, todos da Lei 11.101/2005; art. 8º do CPC; arts. 186, 187 e 884 do CC; e arts. 20, 21, 22, 23, 24, 25, 26, 27, 28, 29 e 30, todos da LINDB, indicados como violados, apesar da oposição de embargos de declaração. Por isso, o julgamento do recurso especial é inadmissível. Aplica-se, na hipótese, a Súmula 211/STJ.
+Nesse sentido: AgInt no REsp n. 1.820.915/SP, Terceira Turma, DJe de 17/4/2024 e AgInt no AREsp n. 2.116.675/MG, Quarta Turma, DJe de 2/5/2024.
+- Da Súmula 568/STJ
+Esta Corte Superior tem perfilhado entendimento no sentido de que o plano aprovado pela assembleia de credores tem índole predominantemente contratual, sendo vedado ao Judiciário imiscuir-se nas especificidades do conteúdo econômico negociado entre devedor e credores.
+Confiram-se: AgInt no AREsp 1.325.791/RJ, TERCEIRA TURMA, DJe 05/11/2018; REsp 1.631.762/SP, TERCEIRA TURMA, DJe 25/06/2018; REsp 1.359.311/SP, QUARTA TURMA, DJe 30/09/2014.
+No caso, o TJ/SE assentou que "No tocante às deliberações quanto ao deságio, a forma de pagamento do crédito, o prazo de carência, e incidência dos juros e correção monetária são direitos disponíveis, de cunho patrimonial, que se inserem dentro da esfera de disponibilidade, ostentando natureza negocial, ficando a cargo dos credores a ponderação que certamente levarão em consideração a situação econômica financeira da empresa, o que refoge ao âmbito do controle jurisdicional" (e-STJ fl. 288).
+Assim, verifica-se que o acórdão está em consonância com a jurisprudência desta Corte, de modo que a irresignação não merece prosperar.
+Forte nessas razões, CONHEÇO do agravo e, com fundamento no art. 932, III e IV, "a", do CPC, bem como na Súmula 568/STJ, CONHEÇO PARCIALMENTE do recurso especial e, nessa extensão, NEGO-LHE PROVIMENTO.
+Deixo de majorar os honorários na forma do art. 85, §11, do CPC, visto que não foram arbitrados no julgamento do recurso pelo Tribunal de origem.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar sua condenação às penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. RECUPERAÇÃO JUDICIAL. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. AUSÊNCIA. VIOLAÇÃO DO ART. 489 DO CPC. INOCORRÊNCIA. PREQUESTIONAMENTO. AUSÊNCIA. SÚMULA 211/STJ. CONTROLE JUDICIAL DE LEGALIDADE DO PLANO DE RECUPERAÇÃO JUDICIAL APROVADO PELA ASSEMBLÉIA GERAL DE CREDORES. POSSIBILIDADE, EM TESE. CONDIÇÕES ECONÔMICAS. ALTERAÇÃO. IMPOSSIBILIDADE. ACÓRDÃO RECORRIDO EM CONSONÂNCIA COM A JURISPRUDÊNCIA DO STJ.
+1. Recuperação Judicial.
+2. Ausentes os vícios do art. 1.022 do CPC, rejeitam-se os embargos de declaração.
+3. Devidamente analisadas e discutidas as questões de mérito, e fundamentado corretamente o acórdão recorrido, de modo a esgotar a prestação jurisdicional, não há que se falar em violação do art. 489 do CPC.
+4. A ausência de decisão acerca dos dispositivos legais indicados como violados, não obstante a interposição de embargos de declaração, impede o conhecimento do recurso especial.
+5. Esta Corte Superior tem perfilhado entendimento no sentido de que o plano aprovado pela assembleia de credores tem índole predominantemente contratual, sendo vedado ao Judiciário imiscuir-se nas especificidades do conteúdo econômico negociado entre devedor e credores. Precedentes.
+6. Agravo conhecido. Recurso especial parcialmente conhecido e, nessa extensão, não provido.
