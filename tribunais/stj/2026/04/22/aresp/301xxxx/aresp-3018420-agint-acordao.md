@@ -1,0 +1,53 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 14/04/2026 a 22/04/2026, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Paulo Sérgio Domingues, Benedito Gonçalves, Sérgio Kukina e Regina Helena Costa votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Sérgio Kukina.
+EMENTA
+PROCESSUAL CIVIL E TRIBUTÁRIO. RECURSO ESPECIAL. EXECUÇÃO FISCAL. EXCEÇÃO DE PRÉ-EXECUTIVIDADE. DILAÇÃO PROBATÓRIA. NECESSIDADE. NÃO DEMONSTRAÇÃO. REEXAME DE MATÉRIA FÁTICA. INVIABILIDADE.
+1. Nos termos da Súmula 393 do STJ, "a exceção de pré-executividade é admissível na execução fiscal relativamente às matérias conhecíveis de ofício que não demandem dilação probatória".
+2. No caso concreto, a revisão da conclusão alcançada no acórdão recorrido, de que o debate levantado na exceção de pré-executividade, relativo à indevida cobrança dos valores relativos à CSLL sobre o lucro inflacionário do exercício de 1995, não exige dilação probatória, pressupõe a incursão no conjunto fático-probatório dos autos, o que atrai a aplicação das Súmulas 83 e 7 do STJ.
+3. Agravo interno desprovido.
+RELATÓRIO
+Trata-se de agravo interno interposto pela FAZENDA NACIONAL contra decisão de minha lavra, constante às e-STJ fls. 1.473/1.478, na qual conheci do agravo para não conhecer do recurso especial, em razão dos óbices contidos nos enunciados de Súmula 7 e 83 do STJ.
+Nas razões recursais (e-STJ fls. 1.484/1.490), a parte agravante sustenta que a decisão monocrática não poderia ter aplicado a Súmula 83 do STJ, pois o acórdão recorrido admitiu a exceção de pré-executividade para excluir valores da Certidão de Dívida Ativa relativos à CSLL sobre lucro inflacionário, matéria que demandaria dilação probatória, em descompasso com a Súmula 393 do STJ.
+Afirma que a controvérsia é eminentemente de direito, sem reexame de fatos, e que a definição do montante a ser excluído exige reexame da escrita fiscal, o que inviabiliza a via incidental.
+Argumenta que não incide o óbice da Súmula 7 do STJ, pois a matéria é fundamentalmente de direito.
+A parte agravada apresentou impugnação (e-STJ fls. 1.494/1.498).
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL E TRIBUTÁRIO. RECURSO ESPECIAL. EXECUÇÃO FISCAL. EXCEÇÃO DE PRÉ-EXECUTIVIDADE. DILAÇÃO PROBATÓRIA. NECESSIDADE. NÃO DEMONSTRAÇÃO. REEXAME DE MATÉRIA FÁTICA. INVIABILIDADE.
+1. Nos termos da Súmula 393 do STJ, "a exceção de pré-executividade é admissível na execução fiscal relativamente às matérias conhecíveis de ofício que não demandem dilação probatória".
+2. No caso concreto, a revisão da conclusão alcançada no acórdão recorrido, de que o debate levantado na exceção de pré-executividade, relativo à indevida cobrança dos valores relativos à CSLL sobre o lucro inflacionário do exercício de 1995, não exige dilação probatória, pressupõe a incursão no conjunto fático-probatório dos autos, o que atrai a aplicação das Súmulas 83 e 7 do STJ.
+3. Agravo interno desprovido.
+VOTO
+A irresignação recursal não merece prosperar.
+Como relatado na decisão agravada, cuidam os autos, na origem, de execução fiscal, objetivando a cobrança de crédito relativo à CSLL supostamente apurada sobre lucro inflacionário do exercício de 1995, conforme auto de infração juntado aos autos.
+O juízo de primeiro grau manteve a validade da CDA e deixou de analisar a exceção de pré-executividade.
+O Tribunal de origem, ao examinar o agravo de instrumento da empresa, deu-lhe provimento, nos seguintes termos (e-STJ fl. 1.394 e seguintes):
+Por primeiro, sabe-se que a denominada "exceção de pré-executividade" admite a defesa do executado sem a garantia do Juízo somente nas hipóteses excepcionais de ilegitimidade de parte ou pagamento documentalmente com prova do cancelamento de débito, anistia, remissão e outras situações reconhecíveis de plano, ou seja, a sua admissibilidade deve basear-se em prova inequívoca não sendo cabível nos casos em que há necessidade de produção de provas.
+A fim de pacificar o entendimento, destaco, ainda, que o c. STJ tratou do tema por meio da edição da Súmula nº 393, abaixo transcrita:
+"A exceção de pré-executividade é admissível na execução fiscal relativamente às matérias conhecíveis de ofício que não demandem dilação probatória."
+Nesse sentido:
+(..)
+No caso, verifica-se pelo auto de infração (processo nº 10830.005723/00-12-ID 28708907-autos originários), que os valores em cobrança no feito executivo, são relativos à CSLL sobre o lucro inflacionário do exercício de 1.995. No entanto, a cobrança foi reconhecida como indevida pelo Superior Tribunal de Justiça nos Embargos de Divergência no Recurso Especial nº 436.302-PR, cuja ementa transcrevo a seguir:
+(..)
+Ademais, consta na Lista de Dispensa de contestar e recorrer (Art. 2º, V, VII e §§ 3º a 8º, da Portaria PGFN n. 502/2016):
+(..)
+Deste modo, considerando que a matéria objeto do feito executivo, já foi decidida definitivamente pelo Superior Tribunal de Justiça (Embargos de Divergência no Recurso Especial nº 436.302-PR), a decisão agravada merece reforma.
+(..)
+Ante o exposto, dou provimento ao agravo de instrumento. para determinar a exclusão do valor da CSLL apurada sobre o lucro inflacionário da CDA que instrui a execução fiscal, extinguindo o processo em relação ao valor ao mesmo.
+Pois bem.
+Conforme pacífico entendimento jurisprudencial deste Tribunal Superior, "a exceção de pré-executividade é cabível quando atendidos simultaneamente dois requisitos, um de ordem material e outro de ordem formal, ou seja: (a) é indispensável que a matéria invocada seja suscetível de conhecimento de ofício pelo juiz; e (b) é indispensável que a decisão possa ser tomada sem necessidade de dilação probatória" (REsp 1110925/SP, repetitivo, Rel. Ministro Teori Albino Zavascki, Primeira Seção, DJe 04/05/2009). No mesmo sentido: REsp 1136144/RJ, repetitivo, Rel. Ministro Luiz Fux, Primeira Seção, DJe 1º/02/2010).
+Ainda nesse sentido é o seguinte julgado:
+PROCESSUAL CIVIL E TRIBUTÁRIO. AGRAVO INTERNO. ENUNCIADO ADMINISTRATIVO Nº 3 DO STJ. INCONSTITUCIONALIDADE DE INCLUSÃO DO ICMS NA BASE DE CÁLCULO DO PIS E DA COFINS NÃO AFASTADA PELO ACÓRDÃO RECORRIDO. POSSIBILIDADE DE ARGÜIÇÃO DE INCONSTITUCIONALIDADE EM SEDE DE EXCEÇÃO DE PRÉ-EXECUTIVIDADE. EXCESSO DE EXECUÇÃO. SITUAÇÃO NÃO COMPROVADA PARA FINS DE DECOTE NA CDA. IMPOSSIBILIDADE DE DILAÇÃO PROBATÓRIA EM SEDE DE EXCEÇÃO DE PRÉ- EXECUTIVIDADE.
+1. Esta Corte já se manifestou acerca do cabimento de exceção de pre- executividade para discutir constitucionalidade de tributo. Contudo, não foi por contrariar essa assertiva que o acórdão recorrido não conheceu do pleito. O que ocorreu no caso dos autos foi o reconhecimento da impossibilidade de conhecimento da exceção de pré-executividade em razão da necessidade de dilação probatória a fim de corroborar o acolhimento do excesso de execução, eis que não demonstrado o recolhimento das contribuições ao PIS e a COFINS nas competências exigidas com a inclusão do ICMS sobre as contribuições referidas, ou seja, não foi trazido aos autos os documentos necessários a evidenciar o acréscimo desarrazoado para análise de eventual nulidade do título que goza de presunção de liquidez e certeza.
+2. É cediço nesta Corte que eventual reconhecimento de parcela inconstitucional de tributo incluída na CDA não invalida todo o título executivo (REsp 1.115.501/SP, na sistemática do art. 543-C do CPC), permanecendo parcialmente exigível a parcela não eivada de vicio, não havendo sequer necessidade de emenda ou substituição da CDA. Em casos que tais, esta Corte tem autorizado o chamado "decote" na CDA, sobretudo em casos que demandam meros cálculos aritméticos.
+3. Se até mesmo nos casos de embargos à execução fiscal tem sido exigida a memória de cálculos e demonstrativo do excesso de execução para fins de recebimento dos embargos (AgRg no REsp 1.453.745/MG, Primeira Turma, DJe 17/04/2015), quanto mais a exceção de pré-executividade deve ser instruída com prova pré-constituída do pagamento da parcela inconstitucional do tributo para fins de possibilitar o decote na CDA, o que não ocorreu na hipótese, conforme declinado pelo acórdão recorrido, não possível abrir prazo para juntada de tais documentos posteriormente, haja vista o descabimento de dilação probatória em sede de exceção de pre-executividade consoante orientação adotada no REsp 1.110.925/SP, Rel. Ministro Teori Albino Zavascki, Primeira Seção, DJe 04/05/2009, julgado sob o rito do art. 543-C do CPC/1973.
+4. Agravo interno não provido. (AgInt no REsp 1704550/SP Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, julgado em 07/08/2018, DJe 14/08/2018).
+Sobre o tema, a Súmula 393 do STJ: "A exceção de pré-executividade é admissível na execução fiscal relativamente às matérias conhecíveis de ofício que não demandem dilação probatória."
+No caso, o Tribunal de origem, ao entendimento de que a matéria ali debatida foi decidida em definitivo pelo Superior Tribunal de Justiça, inclusive constando na lista de dispensa de contestar e recorrer da Fazenda Nacional, afirmou que "se verifica pelo auto de infração (processo n. 10830.005723/00-12-ID 28708907 - autos originários), que os valores em cobrança no feito executivo são relativos à CSLL sobre o lucro inflacionário do exercício de 1.995. No entanto, a cobrança foi reconhecida como indevida pelo Superior Tribunal de Justiça nos Embargos de Divergência no Recurso Especial 436.302-PR" (e-STJ fl. 1.396). Assim, deu provimento ao recurso da parte contribuinte para acolher a exceção de pré-executividade, ante a desnecessidade de dilação probatória para concluir pela exclusão do valor da CSLL apurada sobre o lucro inflacionário, atuando em harmonia com a orientação desta Corte Superior.
+Nesse cenário, além de o acórdão recorrido estar em conformidade com a jurisprudência desta Corte Superior de Justiça, atraindo o seu enunciado sumular 83, a pretensão de reforma do acórdão, nos termos dos argumentos da parte recorrente, implicaria o reexame do conjunto fático-probatório dos autos, providência incompatível com a via estreita do recurso especial, nos termos da Súmula 7 também deste Superior Tribunal .
+Irrepreensível, portanto, o julgado agravado.
+Por fim, embora não merecedor de acolhimento, tenho que o presente inconformismo não representa interposição de agravo interno manifestamente inadmissível ou improcedente, a ensejar, por decisão unânime do Colegiado, a multa processual prevista no § 4º do art. 1.021 do CPC.
+Ante o exposto, NEGO PROVIMENTO ao agravo interno.
+É como voto.
