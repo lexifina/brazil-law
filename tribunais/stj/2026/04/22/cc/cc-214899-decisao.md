@@ -1,0 +1,12 @@
+DECISÃO
+Cuida-se de conflito entre o r. juízo de direito da vara única de Campo Belo do Sul/SC e o r. juízo da 1ª Vara Cível de Torres/RS acerca da competência para processar e julgar ação Declaratória de Nulidade e Ineficácia de Negócio Jurídico, fundada em alegada venda a non domino, cumulada com pedidos correlatos (danos morais e multa contratual), decorrente de relação de consumo na aquisição de unidade imobiliária.
+O MPF ofertou parecer no sentido da competência do r. juízo da 1ª Vara Cível de Torres/RS (fls. 162/165).
+É o relatório.
+Decisão.
+1. A matéria subjacente ao presente incidente encontra-se pacificada no âmbito deste Superior Tribunal de Justiça, de modo a atrair a incidência da Súmula 568/STJ e a possibilidade do exame unipessoal da questão (ut. CC 179.787/PE, Rel. Min. Paulo de Tarso Sanseverino, Dje de 25/05/2021; CC 169.970/SP, Rel. Min. Antonio Carlos Ferreira, Dje de 30/03/2020).
+2. A orientação jurisprudencial da Segunda Seção caminha no sentido de que "Em se tratando de relação consumerista, a competência é absoluta ou relativa, dependendo da posição processual ocupada pelo consumidor; sendo o consumidor autor, pode ajuizar a demanda no foro do seu domicílio, no de domicílio do réu, no foro de eleição ou no local de cumprimento da obrigação" (ut. AgInt no AREsp 1.877.552/DF, Terceira Turma, rel. Min. Ricardo Villas Bôas Cueva, julgado em 30/5/2022)
+Na mesma linha: AgInt nos EDcl no CC 185.781/DF, Segunda Seção, rel. Min. Nancy Andrighi, julgado em 16/8/2022.
+Na hipótese, não há ajuizamento em juízo aleatório. A ação foi proposta no foro do domicílio da ré Caroline Costa Schuarstz (em Torres/RS), solução contemplada pelo art. 46 do CPC e pela sistemática consumerista. A cláusula contratual de eleição de foro (Santa Rosa do Sul/SC) não é absoluta e não afasta, nas ações pessoais e nas relações de consumo, a faculdade de escolha do consumidor, tampouco legitima a declinação de ofício quando a competência é territorial relativa e a ação foi proposta em foro legalmente legítimo. No mesmo sentido, é o parecer do MPF, acostado às fls. 162/165.
+3. Do exposto, com fundamento no art. 955, parágrafo único, do NCPC c/c Súmula 568/STJ, conheço do presente conflito e, por conseguinte, declaro a competência do r. Juízo da 1ª Vara Cível de Torres/RS para a processar e julgar a demanda, nos termos da fundamentação supracitada.
+Publique-se. Intimem-se. Oficiem-se.
+EMENTA
