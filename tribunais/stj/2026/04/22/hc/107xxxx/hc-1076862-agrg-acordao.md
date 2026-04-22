@@ -1,0 +1,97 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUINTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 16/04/2026 a 22/04/2026, por unanimidade, dar parcial provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Maria Marluce Caldas, Reynaldo Soares da Fonseca, Ribeiro Dantas e Joel Ilan Paciornik votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Reynaldo Soares da Fonseca.
+EMENTA
+Direito processual penal. Agravo regimental em habeas corpus. Tráfico de drogas. Habeas corpus substitutivo de revisão criminal. Atenuante da confissão espontânea. Dosimetria da pena. Regime inicial de cumprimento. Recurso parcialmente provido.
+I. Caso em exame
+1. Agravo regimental interposto contra decisão monocrática que indeferiu liminarmente habeas corpus, por ser substitutivo de revisão criminal, impetrado em face de acórdão de Tribunal de Justiça, já transitado em julgado, em que se pleiteia a readequação da dosimetria da pena e do regime inicial de cumprimento.
+II. Questão em discussão
+2. A questão em discussão consiste em saber se é admissível o conhecimento de habeas corpus impetrado como substitutivo de revisão criminal, diante de acórdão já transitado em julgado, e, em caso de não conhecimento formal, se é possível a análise de eventual ilegalidade para concessão da ordem de ofício.
+3. Outra questão em discussão consiste em saber se, constatada confissão do paciente quanto à condição de usuário de drogas, é obrigatória a incidência da atenuante da confissão espontânea na segunda fase da dosimetria, mesmo quando negada a traficância, com a consequente readequação da pena.
+4. Questão adicional em discussão consiste em definir o critério de quantificação da atenuante da confissão espontânea e sua compensação com a agravante da reincidência, bem como verificar a possibilidade de manutenção do regime inicial fechado, ainda que a pena tenha sido fixada aquém de oito anos, em razão de circunstâncias judiciais desfavoráveis e da reincidência.
+III. Razões de decidir
+5. O habeas corpus impetrado contra acórdão transitado em julgado, visando unicamente à readequação da pena, configura utilização substitutiva de revisão criminal, hipótese em que não se inaugura a competência originária do Superior Tribunal de Justiça, nos termos do art. 105, I, "e", da Constituição Federal, razão pela qual o writ não deve ser conhecido, ressalvada a análise de eventual ilegalidade flagrante para concessão de ofício, conforme art. 654, § 2º, do Código de Processo Penal.
+6. A leitura do acórdão condenatório demonstra que o paciente confessou ser usuário de drogas, o que impõe o reconhecimento da atenuante da confissão espontânea, ainda que parcial, quando admitido o uso e negada a traficância, em consonância com a Súmula 630 do Superior Tribunal de Justiça.
+7. Diante da existência de agravante da reincidência já aplicada na segunda fase, a atenuante da confissão espontânea deve ser reconhecida e compensada em proporção inferior àquela reservada à confissão plena, fixando-se, no caso concreto, o aumento pela reincidência em 1/10 sobre a pena-base.
+8. Mantidos os critérios da primeira fase, com pena-base em 5 anos e 10 meses de reclusão e 583 dias-multa, e aplicado o aumento de 1/10 na segunda fase, em razão da reincidência, já compensada parcialmente com a confissão reconhecida, a pena definitiva foi redimensionada para 6 anos e 5 meses de reclusão e 641 dias-multa, ausentes outras causas modificativas.
+9. A fixação do regime inicial deve observar não apenas o quantum da pena, mas também as circunstâncias judiciais do art. 59 do Código Penal e a reincidência, nos termos do art. 33, §§ 2º e 3º, do Código Penal, sendo legítima a imposição do regime fechado, embora a pena seja inferior a oito anos, quando presentes circunstâncias judiciais desfavoráveis e a reincidência, com fundamentação concreta.
+IV. Dispositivo e tese
+6. Resultado do Julgamento: Agravo regimental parcialmente provido, para reconhecer a atenuante da confissão espontânea, redimensionando a pena do agravante para 6 anos e 5 meses de reclusão e 641 dias-multa, mantido o regime inicial fechado.
+Tese de julgamento:
+1. O habeas corpus impetrado como substitutivo de revisão criminal, contra acórdão transitado em julgado de Tribunal de Justiça, não deve ser conhecido.
+2. A atenuante da confissão espontânea incide quando o acusado admite a condição de usuário de drogas, ainda que negue a traficância, devendo ser considerada na segunda fase da dosimetria.
+3. É possível compensar de forma parcial a atenuante da confissão espontânea com a agravante da reincidência, modulando-se o respectivo impacto na pena, inclusive com a fixação de fração de aumento inferior à usualmente aplicada para a reincidência.
+4. O regime inicial de cumprimento de pena pode ser fixado em grau mais gravoso do que o indicado pelo quantum da pena quando presentes circunstâncias judiciais desfavoráveis e reincidência, com fundamentação concreta, nos termos do art. 33, §§ 2º e 3º, e art. 59 do Código Penal.
+Dispositivos relevantes citados: CF/1988, art. 105, I, "e"; CPP, art. 654, § 2º; CP, arts. 33, §§ 2º e 3º, 59 e 65, III, "d"; Súmula 630/STJ
+Jurisprudência relevante citada: STJ, AgRg no HC 561.185/SP, Sexta Turma, j. 10/03/2020, DJe 16/03/2020; STJ, AgRg no HC 486.185/SP, Quinta Turma, j. 23/04/2019, DJe 07/05/2019; STJ, AgRg no HC 859.680/SP, Quinta Turma, j. 06/02/2024, DJe 14/02/2024
+RELATÓRIO
+Trata-se de agravo regimental interposto em face da decisão monocrática de minha autoria que indeferiu liminarmente o habeas corpus, por ser substitutivo de revisão criminal (fls. 321-322).
+Aduz o agravante que existe flagrante ilegalidade, de modo que, necessária a readequação da dosimetria de pena e regime inicial de cumprimento (fls. 328-338).
+É o relatório.
+EMENTA
+Direito processual penal. Agravo regimental em habeas corpus. Tráfico de drogas. Habeas corpus substitutivo de revisão criminal. Atenuante da confissão espontânea. Dosimetria da pena. Regime inicial de cumprimento. Recurso parcialmente provido.
+I. Caso em exame
+1. Agravo regimental interposto contra decisão monocrática que indeferiu liminarmente habeas corpus, por ser substitutivo de revisão criminal, impetrado em face de acórdão de Tribunal de Justiça, já transitado em julgado, em que se pleiteia a readequação da dosimetria da pena e do regime inicial de cumprimento.
+II. Questão em discussão
+2. A questão em discussão consiste em saber se é admissível o conhecimento de habeas corpus impetrado como substitutivo de revisão criminal, diante de acórdão já transitado em julgado, e, em caso de não conhecimento formal, se é possível a análise de eventual ilegalidade para concessão da ordem de ofício.
+3. Outra questão em discussão consiste em saber se, constatada confissão do paciente quanto à condição de usuário de drogas, é obrigatória a incidência da atenuante da confissão espontânea na segunda fase da dosimetria, mesmo quando negada a traficância, com a consequente readequação da pena.
+4. Questão adicional em discussão consiste em definir o critério de quantificação da atenuante da confissão espontânea e sua compensação com a agravante da reincidência, bem como verificar a possibilidade de manutenção do regime inicial fechado, ainda que a pena tenha sido fixada aquém de oito anos, em razão de circunstâncias judiciais desfavoráveis e da reincidência.
+III. Razões de decidir
+5. O habeas corpus impetrado contra acórdão transitado em julgado, visando unicamente à readequação da pena, configura utilização substitutiva de revisão criminal, hipótese em que não se inaugura a competência originária do Superior Tribunal de Justiça, nos termos do art. 105, I, "e", da Constituição Federal, razão pela qual o writ não deve ser conhecido, ressalvada a análise de eventual ilegalidade flagrante para concessão de ofício, conforme art. 654, § 2º, do Código de Processo Penal.
+6. A leitura do acórdão condenatório demonstra que o paciente confessou ser usuário de drogas, o que impõe o reconhecimento da atenuante da confissão espontânea, ainda que parcial, quando admitido o uso e negada a traficância, em consonância com a Súmula 630 do Superior Tribunal de Justiça.
+7. Diante da existência de agravante da reincidência já aplicada na segunda fase, a atenuante da confissão espontânea deve ser reconhecida e compensada em proporção inferior àquela reservada à confissão plena, fixando-se, no caso concreto, o aumento pela reincidência em 1/10 sobre a pena-base.
+8. Mantidos os critérios da primeira fase, com pena-base em 5 anos e 10 meses de reclusão e 583 dias-multa, e aplicado o aumento de 1/10 na segunda fase, em razão da reincidência, já compensada parcialmente com a confissão reconhecida, a pena definitiva foi redimensionada para 6 anos e 5 meses de reclusão e 641 dias-multa, ausentes outras causas modificativas.
+9. A fixação do regime inicial deve observar não apenas o quantum da pena, mas também as circunstâncias judiciais do art. 59 do Código Penal e a reincidência, nos termos do art. 33, §§ 2º e 3º, do Código Penal, sendo legítima a imposição do regime fechado, embora a pena seja inferior a oito anos, quando presentes circunstâncias judiciais desfavoráveis e a reincidência, com fundamentação concreta.
+IV. Dispositivo e tese
+6. Resultado do Julgamento: Agravo regimental parcialmente provido, para reconhecer a atenuante da confissão espontânea, redimensionando a pena do agravante para 6 anos e 5 meses de reclusão e 641 dias-multa, mantido o regime inicial fechado.
+Tese de julgamento:
+1. O habeas corpus impetrado como substitutivo de revisão criminal, contra acórdão transitado em julgado de Tribunal de Justiça, não deve ser conhecido.
+2. A atenuante da confissão espontânea incide quando o acusado admite a condição de usuário de drogas, ainda que negue a traficância, devendo ser considerada na segunda fase da dosimetria.
+3. É possível compensar de forma parcial a atenuante da confissão espontânea com a agravante da reincidência, modulando-se o respectivo impacto na pena, inclusive com a fixação de fração de aumento inferior à usualmente aplicada para a reincidência.
+4. O regime inicial de cumprimento de pena pode ser fixado em grau mais gravoso do que o indicado pelo quantum da pena quando presentes circunstâncias judiciais desfavoráveis e reincidência, com fundamentação concreta, nos termos do art. 33, §§ 2º e 3º, e art. 59 do Código Penal.
+Dispositivos relevantes citados: CF/1988, art. 105, I, "e"; CPP, art. 654, § 2º; CP, arts. 33, §§ 2º e 3º, 59 e 65, III, "d"; Súmula 630/STJ
+Jurisprudência relevante citada: STJ, AgRg no HC 561.185/SP, Sexta Turma, j. 10/03/2020, DJe 16/03/2020; STJ, AgRg no HC 486.185/SP, Quinta Turma, j. 23/04/2019, DJe 07/05/2019; STJ, AgRg no HC 859.680/SP, Quinta Turma, j. 06/02/2024, DJe 14/02/2024
+VOTO
+Presentes os requisitos de admissibilidade, conheço do agravo regimental.
+O presente habeas corpus investe contra acórdão do Tribunal de Justiça de São Paulo com trânsito em julgado, aduzindo a necessidade de readequação de pena para fins de considerar a confissão e fixar regime de pena inicial mais brando. Diante dessa situação, não deve ser conhecido, porquanto manejado como substitutivo de revisão criminal, em hipótese na qual não houve inauguração da competência desta Corte.
+Consoante o artigo 105, inciso I, alínea "e", da Constituição Federal, compete ao Superior Tribunal de Justiça, originariamente, "as revisões criminais e as ações rescisórias de seus julgados".
+Nesse sentido:
+"AGRAVO REGIMENTAL EM HABEAS CORPUS. PORTE ILEGAL DE ARMA DE FOGO DE USO RESTRITO. WRIT IMPETRADO CONTRA ACÓRDÃO TRANSITADO EM JULGADO SUBSTITUTIVO DE REVISÃO CRIMINAL. INEXISTÊNCIA DE JULGAMENTO DE MÉRITO NESTA CORTE. NÃO INAUGURADA A COMPETÊNCIA DO STJ. INADMISSIBILIDADE. FUNDAMENTO SUBSIDIÁRIO. APLICAÇÃO DO PRINCÍPIO DA INSIGNIFICÂNCIA. TEMA NÃO ANALISADO NA ORIGEM. INDEVIDA SUPRESSÃO DE INSTÂNCIA.
+Agravo regimental improvido.
+(AgRg no HC 561.185/SP, Rel. Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, julgado em 10/03/2020, DJe 16/03/2020)
+AGRAVO REGIMENTAL EM HABEAS CORPUS. TRÁFICO DE DROGAS. ASSOCIAÇÃO PARA O NARCOTRÁFICO. DOSIMETRIA DE PENA. CIRCUNSTÂNCIAS JUDICIAIS DESFAVORÁVEIS. QUANTUM DE AUMENTO. DISCRICIONARIEDADE DO JULGADOR. CAUSA DE DIMINUIÇÃO DE PENA DO ART. 33, § 4º, DA LEI N. 11.343/2006. INAPLICABILIDADE. CONDENAÇÃO PELO ART. 35 DA LEI DE DROGAS. SENTENÇA TRANSITADA EM JULGADO. INEXISTÊNCIA DE FLAGRANTE ILEGALIDADE NA APLICAÇÃO DA REPRIMENDA. HIPÓTESE DE NÃO CONHECIMENTO DO MANDAMUS. MANUTENÇÃO DA DECISÃO POR SEUS PRÓPRIOS FUNDAMENTOS.AGRAVO REGIMENTAL IMPROVIDO.
+ ..
+4. Tratando-se de impetração que se destina a atacar acórdão proferido em sede de apelação criminal, já transitado em julgado, contra o qual seria cabível a interposição de revisão criminal, depara-se com flagrante utilização inadequada da via eleita, circunstância que impede o seu conhecimento.
+ ..
+6. Agravo regimental improvido.
+(AgRg no HC 486.185/SP, Rel. Ministro JORGE MUSSI, QUINTA TURMA, julgado em 23/04/2019, DJe 07/05/2019)
+Tendo em vista a alegação de nulidades e a possibilidade de concessão da ordem de ofício, em observância § 2º do artigo 654 do Código de Processo Penal, acaso prosperem, passo à análise.
+Verifico que consta do acórdão de fls. 34-41 a informação de que o paciente teria confessado ser usuário de drogas. Portanto, necessária a readequação, de acordo com a Súmula 630 desta Corte, que prevê a aplicação da atenuante da confissão, ainda que parcialmente, quando admitido o uso e negada a traficância.
+Em caso semelhante, foi o entendimento desta Corte:
+Direito Processual Penal. EMBARGOS DE DECLARAÇÃO. ERRO MATERIAL. ATENUANTE DA CONFISSÃO ESPONTÂNEA. DEPOIMENTOS POLICIAIS. EMBARGOS PARCIALMENTE ACOLHIDOS.
+I. CASO EM EXAME
+1. Embargos de declaração opostos contra acórdão da Quinta Turma do STJ que negou provimento ao agravo regimental interposto pelo embargante.
+2. O embargante alegou erro material no acórdão embargado, sustentando: (i) afastamento indevido da atenuante da confissão espontânea com base na Súmula 630 do STJ, que foi revisada pela Terceira Seção no Tema Repetitivo n. 1.194 (REsp n. 2.001.973/RS), admitindo a incidência da atenuante mesmo quando a confissão não é utilizada para formar o convencimento; e (ii) divergências relevantes entre os depoimentos policiais, que foram considerados firmes e harmônicos pelo acórdão embargado.
+II. QUESTÃO EM DISCUSSÃO
+3. Há duas questões em discussão: (i) saber se a atenuante da confissão espontânea deve ser aplicada nos casos em que o acusado admite a posse da droga para consumo pessoal, mesmo sem reconhecer a traficância, conforme entendimento do Tema Repetitivo n. 1.194 do STJ; e (ii) saber se há erro material na análise dos depoimentos policiais, considerando alegadas divergências entre os relatos.
+III. RAZÕES DE DECIDIR
+4. A Terceira Seção do STJ, ao julgar o Tema Repetitivo n. 1.194 (REsp n. 2.001.973/RS), revisou o entendimento da Súmula 630, admitindo a incidência da atenuante da confissão espontânea nos casos em que o acusado reconhece a posse ou propriedade da droga para uso próprio, mesmo que negue a traficância.
+5. A confissão espontânea, ainda que qualificada e desinfluente no convencimento do órgão julgador, pode ser reconhecida como circunstância atenuante, desde que modulada ao patamar de 1/12 da pena, conforme precedente do STJ (AREsp n. 2.609.326/MG).
+6. Não há erro material nos depoimentos policiais, que foram considerados firmes e harmônicos, guardando linearidade com os elementos constantes no auto de prisão em flagrante. Pequenas divergências entre os depoimentos não configuram nulidade automática.
+7. Os embargos de declaração não se prestam à rediscussão de questões já analisadas, sendo cabíveis apenas para sanar omissão, contradição, ambiguidade ou obscuridade, conforme art. 619 do CPP.
+8. O julgador não está obrigado a responder todas as alegações das partes, desde que os fundamentos apresentados sejam suficientes para embasar a decisão.
+IV. DISPOSITIVO E TESE
+9. Resultado do Julgamento: Embargos de declaração parcialmente acolhidos para reconhecer a atenuante da confissão espontânea e fixar a pena do embargante em 5 anos e 5 meses de reclusão e 541 dias-multa, mantidos os demais termos da decisão embargada.
+Tese de julgamento:
+Dispositivos relevantes citados:CPP, art. 619; CP, art. 65, III, "d"; CPC, art. 1.022, III.
+Jurisprudência relevante citada:STJ, Tema Repetitivo n. 1.194 (REsp n. 2.001.973/RS), Terceira Seção, julgado em 14/4/2025; STJ, AREsp n. 2.609.326/MG, Rel. Min. Otávio de Almeida Toledo (Desembargador Convocado do TJSP), Sexta Turma, julgado em 14/4/2025, DJEN de 24/4/2025.
+(EDcl no AgRg nos EDcl nos EDcl no AREsp n. 2.918.886/SP, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 3/2/2026, DJEN de 9/2/2026.)
+Em decorrência de todos os elementos apontados e, já existindo a aplicação da agravante de 1/6 da reincidência na segunda fase da dosimetria, a ser compensada com a atenuante da confissão agora reconhecida, aplico a atenuante em proporção menor do que a confissão plena, de maneira que o quantum de aumento por força da reincidência deve se dar em 1/10.
+Passo à readequação da dosimetria da pena. Mantenho os critérios utilizados na primeira fase da dosimetria, que resultou na pena-base de 5 (cinco) anos e 10 (dez) meses de reclusão e 583 (quinhentos e oitenta e três) dias-multa, agravo em 1/10 na segunda fase, resultando em 6 (seis) anos e 5 (cinco) meses de reclusão e 641 (seiscentos e quarenta e um) dias-multa, tornando-a definitiva, pois ausentes outras causas modificativas.
+Quanto ao pleito de fixação do regime semiaberto, tem-se que a definição do regime inicial de cumprimento de pena considera não só o quantum de pena fixado, mas também as circunstâncias judiciais do art. 59 do Código Penal, nos termos do art. 33, §§ 2º e 3º, do Código Penal. Assim, cabe ao juiz sentenciante estabelecer o regime adequado, de acordo com os critérios legais, observadas as circunstâncias do caso concreto.
+No caso, conquanto a pena tenha sido fixada aquém de oito anos, foram apontadas circunstâncias judiciais desfavoráveis, o que justifica a imposição de regime mais severo. Nesse sentido o entendimento do Superior Tribunal de Justiça:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS. RÉU REINCIDENTE. ESTABELECIMENTO DE REGIME INICIAL PRISIONAL MAIS GRAVOSO. FUNDAMENTAÇÃO IDÔNEA. CIRCUNSTÂNCIAS JUDICIAIS DESFAVORÁVEIS. AGRAVO REGIMENTAL DESPROVIDO. I - A fundamentação a partir de elementos concretamente considerados, autoriza o recrudescimento do regime inicial prisional. II - O regime de cumprimento de pena mais gravoso do que a pena comporta pode ser estabelecido, desde que haja fundamentação específica, com base em elementos concretos extraídos dos autos, a teor das Súmulas n. 440/STJ e n. 718 e n. 719/STF. (..) (AgRg no HC n. 859.680/SP, relator Ministro Messod Azulay Neto, Quinta Turma, julgado em 6/2/2024, DJe de 14/2/2024.)
+Além disso, o acusado é reincidente. Não há que se falar em ausência de fundamentação idônea quando a fixação do regime inicial observou a previsão dos arts 33, §3º e 59 do Código Penal, e as circunstâncias do caso concreto.
+Ante o exposto, dou parcial provimento ao recurso, redimensionando a pena para 6 (seis) anos e 5 (cinco) meses de reclusão e 641 (seiscentos e quarenta e um) dias-multa, em regime fechado, conforme fundamentação.
+É como voto.
