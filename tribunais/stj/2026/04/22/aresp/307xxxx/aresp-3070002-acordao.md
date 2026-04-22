@@ -1,0 +1,54 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 16/04/2026 a 22/04/2026, por unanimidade, não conhecer do recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Afrânio Vilela, Francisco Falcão, Maria Thereza de Assis Moura e Marco Aurélio Bellizze votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Teodoro Silva Santos.
+EMENTA
+PROCESSO CIVIL E ADMINISTRATIVO. AGRAVO EM RECURSO ESPECIAL. AÇÃO REGRESSIVA. SEGURADORA. CONCESSIONÁRIA DE SERVIÇO PÚBLICO. NEXO CAUSAL NÃO COMPROVADO. REEXAME DE MATÉRIA FÁTICA. IMPOSSIBILIDADE. INCIDÊNCIA DA SÚMULA N. 7/STJ. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
+1. A Corte de origem concluiu, diante do contexto fático-probatório contido nos autos, que a agravante não se desincumbiu de seu ônus probatório de comprovar o nexo de causalidade entre o acidente e falha do serviço público.
+2. A modificação da conclusão adotada pela instância originária acerca da responsabilidade da parte agravada esbarra na Súmula n.7/STJ.
+3. Agravo conhecido para não conhecer do recurso especial.
+RELATÓRIO
+Trata-se de agravo em recurso especial interposto por ALLIANZ SEGUROS S/A, fundamentado no art. 105, inciso III, alíneas a e c da Constituição da República, contra decisão do TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO que não admitiu o recurso especial interposto em face do acórdão proferido na apelação do Processo n. 1082915-80.2023.8.26.0100.
+Na origem, cuida-se de ação de reparação de danos em acidente de veículo ajuizada pela parte agravante objetivando a reparação pelos danos segurados (fl. 193).
+Foi proferida sentença que julgou os pedidos improcedentes (fls. 193-194).
+O TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, no julgamento da apelação, a desproveu, em acórdão cuja ementa é a seguir transcrita (fl. 241):
+APELAÇÃO - RESPONSABILIDADE CIVIL Ação regressiva promovida por seguradora contra concessionária de serviço público Acidente de trânsito em decorrência de suposto óleo na pista Sentença de improcedência Pretensão de reforma Impossibilidade Hipótese em que não restou cabalmente comprovado que a presença de óleo na pista tenha sido a causa determinante do acidente - Conjunto probatório dos autos que não aponta omissão da concessionária com relação ao seu dever de fiscalização da rodovia - Falha do serviço público não demonstrada - Impossibilidade de responsabilizar a concessionária apelada por eventos fortuitos Sentença mantida - Apelação desprovida.
+Embargos de declaração rejeitados (fls. 270-273).
+Nas razões do recurso especial, a parte recorrente indica afronta aos arts. 186, 927 do Código Civil; 14 e 22 do Código de Defesa do Consumidor e divergência jurisprudencial, trazendo os seguintes argumentos: (a) o veículo segurado foi surpreendido de forma abrupta e inesperada por uma grande quantidade de óleo derramado sobre a pista de rolamento que o fez derrapar e sofrer danos; (b) a responsabilidade da parte agravada decorre da falta de monitoramento adequado da rodovia e falha no serviço, o que restou comprovado pelo Boletim de Ocorrência e após encerramento da instrução e (c) a parte agravada não fez prova de suas alegações, não havendo que se falar em caso fortuito ou força maior, e deve responder de forma objetiva.
+Ao final, requer "a reforma do Acórdão de fls. 240-247, condenando-se as Recorridas à indenização por danos materiais, conforme requerido e demonstrado na inicial " (fls. 376-377).
+Contrarrazões às fls. 455-464.
+O Tribunal a quo não admitiu o recurso especial, por considerar que (a) não foi evidenciado o suposto maltrato às normas legais enunciadas; e (b) incide a Súmula 7/STJ (fls. 465-468).
+Nas razões do presente agravo em recurso especial, alega a parte agravante que (fls. 471-483):
+O r. acórdão violou os dispositivos de lei federal, quais sejam os artigos 186 e 927, do Código Civil, porque manteve a sentença afirmando não ter restado comprovado o nexo causal.
+ ..
+Porém, o reconhecimento da responsabilidade objetiva das concessionárias de rodovias em casos de acidente causados por animal ou objeto na via é unânime neste colendo Superior Tribunal de Justiça e mesmo que se considerasse a aplicação da responsabilidade subjetiva, o que nitidamente não é o caso, ainda assim restou comprovada a culpa da Agravada, mediante as provas juntadas aos autos.
+ ..
+Frise-se que não se pretende através do Recurso Especial o reexame fático nos autos, o que é vedado pela Súmula 7, mas sim, que seja aplicada a legislação federal, vez que patenteada a responsabilidade da Agravada, havendo desrespeito ao disposto nos artigos 186 e 927, do Código Civil e artigos 14 e 22 do Código de Defesa do Consumidor, haja vista que inequívoco o prejuízo a Agravante pela conduta das prestadoras de serviços públicos ora Agravadas.
+É o relatório.
+EMENTA
+PROCESSO CIVIL E ADMINISTRATIVO. AGRAVO EM RECURSO ESPECIAL. AÇÃO REGRESSIVA. SEGURADORA. CONCESSIONÁRIA DE SERVIÇO PÚBLICO. NEXO CAUSAL NÃO COMPROVADO. REEXAME DE MATÉRIA FÁTICA. IMPOSSIBILIDADE. INCIDÊNCIA DA SÚMULA N. 7/STJ. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
+1. A Corte de origem concluiu, diante do contexto fático-probatório contido nos autos, que a agravante não se desincumbiu de seu ônus probatório de comprovar o nexo de causalidade entre o acidente e falha do serviço público.
+2. A modificação da conclusão adotada pela instância originária acerca da responsabilidade da parte agravada esbarra na Súmula n.7/STJ.
+3. Agravo conhecido para não conhecer do recurso especial.
+VOTO
+Satisfeitos os requisitos de admissibilidade do agravo, tendo em vista, notadamente, que a parte agravante impugnou de forma suficiente os óbices elencados na decisão de inadmissibilidade proferida pelo Tribunal de origem, passo ao exame do recurso especial.
+A irresignação não merece prosperar.
+Ao decidir sobre o mérito de demanda, a Corte a quo, com base no acervo fático-probatório dos autos, adotou os seguintes fundamentos (fls. 240-247):
+Inicialmente, registre-se que o artigo 37, §6º, da Constituição Federal prevê que as pessoas jurídicas de direito público e as de direito privado prestadoras de serviços públicos responderão pelos danos que seus agentes, nessa qualidade, causarem a terceiros. Desse modo, ocorrendo ato ilícito ou ato que cause dano anormal e específico, afirma-se o dever de indenizar se constatados a conduta do ofensor, o dano do ofendido e o nexo de causalidade existente entre a conduta e o dano, sem questionamentos acerca da culpa ou do dolo.
+ ..
+No caso dos autos, restou devidamente comprovado o dano sofrido pelo veículo do segurado, conforme se depreende das fotografias constantes às fls. 41/74, do orçamento de fls. 75/78 e das notas fiscais de fls. 83/84. Entretanto, a Autora não logrou êxito em demonstrar de forma cabal que o acidente tenha ocorrido em razão de grande quantidade de óleo derramado sobre a pista de rolamento, conforme sustentado em suas argumentações. Nesse contexto, fica evidenciado que a Apelante não cumpriu adequadamente o ônus de provar o fato constitutivo de seu direito, conforme preceitua o art. 373, inciso I, do Código de Processo Civil.
+Como bem consignado pelo MM. Juiz a quo, "não há prova nos autos de que o suposto óleo derramado sobre a pista de rolamento da rodovia administrada pelas rés, na data dos fatos, tenha causado o acidente que provocou os danos ao veículo da segurada da autora, para tanto não bastando somente o boletim de acidente de trânsito elaborado pela Polícia Rodoviária Federal" (fls. 193/194).
+Cumpre ressaltar, nesse ponto, que não se pode afirmar, de forma conclusiva, que a presença de óleo na pista tenha sido a causa determinante do acidente, uma vez que há a possibilidade de que tenha ocorrido por condução imprudente do veículo. Além disso, no momento do sinistro, as condições meteorológicas eram de chuva, o que resultou em pista molhada e escorregadia, fatores que igualmente devem ser considerados como potenciais contributivos para o evento. Diante disso, não restou comprovada a alegada negligência das concessionárias no que tange ao cumprimento de seu dever de fiscalização da rodovia, razão pela qual não se pode imputar às Apeladas responsabilidades por eventos fortuitos.
+Portanto, na ausência de provas robustas que demonstrem falha das Apeladas no dever de fiscalização e não havendo evidências do nexo causal entre a pretensa omissão das concessionárias e o acidente, é incabível a imputação de responsabilidade às Apeladas pelos danos indenizados pela Autora ao segurado.
+Assim, considerando a fundamentação do acórdão recorrido acima transcrita, os argumentos utilizados pela parte recorrente - no sentido de que restou configurada a responsabilidade da concessionária - somente poderiam ter a sua procedência verificada mediante necessário reexame de matéria fático-probatório. Todavia, não cabe a esta Corte, a fim de alcançar conclusão diversa, reavaliar todo o conjunto de fatos e provas da causa, conforme preceitua o enunciado da Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial").
+Nesse sentido:
+DIREITO ADMINISTRATIVO. AGRAVO INTERNO NO RECURSO ESPECIAL. RESPONSABILIDADE CIVIL. ACIDENTE DE TRÂNSITO. PRESENÇA DE ANIMAL NA PISTA. NEXO DE CAUSALIDADE. REEXAME DE PROVAS. SÚMULA 7 DO STJ. AGRAVO INTERNO NÃO PROVIDO.
+1. Recurso especial em ação de reparação de danos materiais e morais decorrentes de atropelamento de animal em via pública, ajuizada contra a AGÊNCIA ESTADUAL DE GESTÃO DE EMPREENDIMENTOS (AGESUL) e o ESTADO DE MATO GROSSO DO SUL.
+2. A questão em discussão consiste em saber se há nexo de causalidade entre a omissão dos entes públicos na fiscalização da rodovia e o acidente, considerando as condições da rodovia e a presença de sinalização adequada.
+3. A alteração da conclusão do Tribunal de origem sobre o nexo causal entre a omissão na fiscalização e os danos exigiria reexame da matéria fático-probatória dos autos, atraindo a incidência da Súmula 7 do STJ.
+4. O agravo interno não prospera, pois não foram apresentados argumentos hábeis para desconstituir os fundamentos da decisão agravada.
+5. Agravo interno não provido.
+(AgInt no REsp n. 1.858.184/MS, relator Ministro Afrânio Vilela, Segunda Turma, julgado em 19/11/2025, DJEN de 27/11/2025.)
+Ainda na mesma linha de entendimento: AREsp n. 3.024.130, Ministro Teodoro Silva Santos, DJEN de 26/11/2025.
+Ante o exposto, CONHEÇO do agravo para NÃO CONHECER do recurso. Em atenção ao disposto no art. 85, § 11, do Código de Processo Civil, majoro os honorários advocatícios em 10% (dez por cento) sobre o valor já arbitrado (fl. 247), respeitados os limites estabelecidos nos §§ 2º e 3º do mesmo artigo, bem como eventual concessão da gratuidade de justiça.
+É como voto.
