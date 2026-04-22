@@ -1,0 +1,19 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido de liminar, impetrado em favor de DAVIDSON FERNANDO DOS SANTOS, apontando como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAIS, em decorrência do julgamento do habeas corpus n. 1.0000.26.081258-1/000.
+Consta dos autos que o paciente foi condenado pelo Juízo da 3ª Vara Criminal da Comarca de Uberaba, na ação penal n. 0064161-81.2021.8.13.0701, à pena de 6 (seis) anos, 8 (oito) meses e 18 (dezoito) dias de reclusão, em regime inicialmente fechado, além de 48 (quarenta e oito) dias-multa, no valor unitário mínimo, por infração ao artigo 157, § 2º, inciso II e inciso V, e § 2º-A, inciso I, do Código Penal (fls. 17-28).
+A defesa interpôs apelação, à qual o Tribunal de Justiça do Estado de Minas Gerais negou provimento (fls. 29-32).
+Após o trânsito em julgado, a defesa impetrou o HC n. 1.0000.26.081258-1/000, que não foi conhecido pelo Tribunal de Justiça do Estado de Minas Gerais (fls. 12-16).
+Na presente impetração, busca-se a concessão da ordem para: (i) absolver o paciente, nos termos do artigo 386, inciso VII, do Código de Processo Penal, por ausência de prova suficiente de autoria; ou, subsidiariamente, (ii) desclassificar a conduta para o delito de receptação; e, alternativamente, (iii) reconhecer a nulidade do acórdão do Tribunal de Justiça do Estado de Minas Gerais, por negativa de prestação jurisdicional, com a determinação de novo julgamento (fls. 10-11).
+É o relatório. DECIDO.
+A controvérsia consiste em possível constrangimento ilegal, decorrente da condenação do paciente mantida em grau de apelação e do não conhecimento do habeas corpus impetrado perante o Tribunal de Justiça do Estado de Minas Gerais, diante da alegada ausência de exame das teses defensivas relativas à suficiência probatória, à desclassificação da conduta e à suposta negativa de prestação jurisdicional (fls. 10-32).
+A presente impetração investe contra acórdão, funcionando como substituto do recurso próprio, motivo pelo qual não deve ser conhecida. A 3ª Seção, no âmbito do HC 535.063-SP, de relatoria do Ministro Sebastião Reis Júnior, julgado em 10/06/2020, e o Supremo Tribunal Federal, no julgamento do AgRg no HC 180.365, de relatoria da Ministra Rosa Weber, julgado em 27/03/2020, consolidaram a orientação de que não cabe habeas corpus substitutivo ao recurso legalmente previsto para a hipótese, impondo-se o não conhecimento da impetração, salvo quando constatada a existência de flagrante ilegalidade no ato judicial impugnado.
+Da análise do acórdão impugnado (fls. 12-16), verifico que o habeas corpus não foi conhecido, por ter sido impetrado em substituição à revisão criminal. A jurisprudência do Superior Tribunal de Justiça é firme no sentido de que não se admite habeas corpus quando as teses apresentadas não foram previamente apreciadas pelo Tribunal apontado como coator, sob pena de indevida supressão de instância.
+A esse respeito, destaco o seguinte julgado:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS. REDUÇÃO DE PENA. HABEAS CORPUS NÃO CONHECIDO PELO TRIBUNAL DE ORIGEM . ACÓRDÃO EM CONFORMIDADE COM A JURISPRUDÊNCIA DO SUPERIOR TRIBUNAL DE JUSTIÇA - STJ. SUPRESSÃO DE INSTÂNCIA. AGRAVO REGIMENTAL DESPROVIDO.
+1 . O Tribunal de origem não conheceu do habeas corpus lá impetrado por ser substitutivo de apelação criminal e pela impossibilidade de revolvimento fático-probatório na via eleita. Desse modo, não há como esta Corte Superior manifestar-se sobre as teses defensivas, sob pena de incorrer em indevida supressão de instância.
+2. Agravo Regimental desprovido .
+(AgRg no HC 739823-AM, relator Ministro JOEL ILAN PACIORNIK, QUINTA TURMA, Data de Julgamento: 07/06/2022, Data de Publicação: DJe 10/06/2022)
+De toda sorte, não verifico a presença de ilegalidade flagrante que desafie a concessão da ordem nos termos do artigo 654, § 2º, do Código de Processo Penal.
+Ante o exposto, não conheço do habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
