@@ -1,0 +1,28 @@
+DECISÃO
+JOSÉ LUIZ BARBIERI impetra o presente mandado de segurança, com pedido de liminar, apontando como ato coator a decisão do Relator do Agravo em Recurso Especial n. 3.139.343/MS, que não conheceu do recurso.
+Relata que figura como parte no processo originário n. 0800439-07.2024.8.12.0008, no qual o juízo de primeira instância indeferiu a oitiva de testemunhas consideradas fundamentais, sob o fundamento de desnecessidade da prova, proferindo julgamento antecipado de mérito desfavorável. Afirma que a controvérsia discutida nos autos dependia estritamente de prova oral, de modo que o indeferimento configurou nulidade absoluta por cerceamento de defesa.
+Informa que, em razão desse indeferimento, buscou a reapreciação da matéria pelas instâncias superiores. No entanto, ao manejar o recurso cabível, ocorreu equívoco na denominação da peça recursal, que foi inicialmente considerada como agravo de instrumento, embora recebida e processada pelo Tribunal de Justiça de Mato Grosso do Sul como recurso adequado. Sustenta que o TJMS reconheceu tratar-se de erro material sanável, com base na jurisprudência consolidada do STJ, que distingue erro material evidente de erro grosseiro ou erro de julgamento.
+Afirma que, apesar disso, ao chegar ao Superior Tribunal de Justiça, o relator do AREsp n. 3.139.343/MS não conheceu do recurso, qualificando o equívoco como erro grosseiro, decisão que transitou em julgado sem que houvesse qualquer análise do mérito relacionado ao alegado cerceamento de defesa. Aduz que o trânsito em julgado ocorreu sobre decisão que não enfrentou a nulidade da instrução probatória, criando verdadeiro "limbo jurídico", no qual o direito constitucional à prova e à ampla defesa teria sido sacrificado por rigor excessivamente formal.
+Sustenta a presença de direito líquido e certo violado, à luz do art. 5º, LV, da Constituição Federal, bem como dos princípios da primazia do julgamento de mérito e do contraditório. Argumenta inexistir outro recurso dotado de efeito suspensivo apto a evitar o dano, razão pela qual o mandado de segurança se apresenta como a última via processual eficaz para obstar os efeitos de uma decisão que reputa nula desde a origem.
+Afirma presentes o fumu boni iuris, consubstanciado no cerceamento de defesa e na nulidade insanável da instrução processual, e o periculum in mora, caracterizado pela iminência de atos de execução e possível expropriação patrimonial, uma vez que o feito já retornou ao Tribunal de Justiça do Estado após o trânsito em julgado no STJ.
+Requer a concessão de liminar para a suspensão imediata dos efeitos das decisões que indeferiram a produção da prova testemunhal e de todos os atos subsequentes no processo originário. No mérito, pleiteia a concessão definitiva da segurança, para que seja anulado o processo a partir do indeferimento da prova oral, com o consequente retorno dos autos à fase de instrução, a fim de que seja assegurado o pleno exercício da ampla defesa e do contraditório.
+É o relatório. Decido.
+O presente mandado de segurança se revela manifestamente incabível.
+A uma, porque o ato judicial inquinado já transitou em julgado, o que atrai a aplicação da Súmula n. 268/STF.
+A duas, porque a jurisprudência pacífica desta Corte Superior proclama que o cabimento do mandado de segurança contra decisão judicial é excepcional, quando se tratar de ato manifestamente ilegal e/ou teratológico, não podendo ser utilizado indevidamente como sucedâneo recursal. No caso, o ato apontado como coator deixou de aplicar o princípio da fungibilidade recursal em razão de erro grosseiro perpetrado pela parte, que interpôs agravo de instrumento, dirigido ao STJ, em face de acórdão do Tribunal de origem.
+Nesse sentido:
+RECURSO ORDINÁRIO EM MANDADO DE SEGURANÇA. ATO JUDICIAL. TRÂNSITO EM JULGADO. SÚMULA Nº 268/STF. ILEGALIDADE. TERATOLOGIA. ABUSO DE PODER. INEXISTÊNCIA.
+1. A jurisprudência do Superior Tribunal de Justiça orienta-se no sentido de que a via mandamental se mostra incabível quando o ato judicial questionado já tiver transitado em julgado. Súmula nº 268/STF.
+2. O mandado de segurança somente pode ser impetrado contra ato judicial quando evidenciado o caráter abusivo, a ilegalidade ou a teratologia na decisão combatida, situação que não ocorreu nos autos.
+3. Recurso ordinário não provido.
+(RMS n. 78.365/RJ, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 30/3/2026, DJEN de 7/4/2026.)
+AGRAVO INTERNO NO MANDADO DE SEGURANÇA. GRATUIDADE DE JUSTIÇA. CONCESSÃO. IRRETROATIVIDADE. ATO COATOR. ÓRGÃO FRACIONÁRIO DESTA CORTE SUPERIOR. DECISÃO QUE NÃO ADMITE RECURSO ESPCIAL. AUSÊNCIA DE TERATOLOGIA. ATO JUDICIAL PASSÍVEL DE RECURSO. NÃO CABIMENTO. SÚMULA 267/STF.
+1. Mandado de segurança.
+2. A jurisprudência desta Corte é no sentido de que a concessão do pedido de gratuidade de justiça opera efeitos ex nunc, não abrangendo situações passados, ou seja, vedada sua retroatividade.
+3. Segundo a jurisprudência desta Corte, a utilização de mandado de segurança contra ato jurisdicional de órgãos fracionários ou de Relator desta Corte é medida excepcional, cabível somente nos casos em que se pode demonstrar que a decisão possui manifesta ilegalidade ou está eivada de teratologia.
+4. O mandado de segurança não pode ser utilizado como sucedâneo recursal, sendo descabido o seu manejo contra ato judicial recorrível.
+5. Agravo interno não provido.
+(AgInt no MS n. 31.659/DF, relatora Ministra Nancy Andrighi, Corte Especial, julgado em 3/3/2026, DJEN de 10/3/2026.)
+Ante o exposto, indefiro a inicial do mandado de segurança, ficando prejudicado o pedido de liminar.
+Publique-se. Intimem-se.
+EMENTA
