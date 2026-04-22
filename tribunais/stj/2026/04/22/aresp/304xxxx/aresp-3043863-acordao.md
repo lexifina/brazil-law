@@ -1,0 +1,72 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 14/04/2026 a 22/04/2026, por unanimidade, conhecer parcialmente do recurso, mas lhe negar provimento, nos termos do voto do Sr. Ministro João Otávio de Noronha.
+Os Srs. Ministros Raul Araújo, Maria Isabel Gallotti, Antonio Carlos Ferreira e Luís Carlos Gambogi (Desembargador Convocado do TJMG) votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro João Otávio de Noronha.
+EMENTA
+DIREITO CIVIL. AGRAVO EM RECURSO ESPECIAL. RESPONSABILIDADE CIVIL POR DANO MORAL DECORRENTE DE ROMPIMENTO DE BARRAGEM. REEXAME DE PROVAS. OMISSÃO INEXISTENTE. MULTA POR EMBARGOS DECLARATÓRIOS. DISSÍDIO JURISPRUDENCIAL NÃO DEMONSTRADO. AGRAVO EM RECURSO ESPECIAL CONHECIDO PARA CONHECER EM PARTE DO RECURSO ESPECIAL E NEGAR-LHE PROVIMENTO.
+I. CASO EM EXAME
+1. Agravo em recurso especial interposto contra decisão que inadmitiu o recurso especial por inexistência de omissão, necessidade de reexame de provas, à luz da Súmula n. 7 do STJ, e ausência de similitude fática para o dissídio.
+2. A controvérsia decorre de ação de indenização por danos morais em razão do rompimento da barragem da Mina Córrego do Feijão, em Brumadinho/MG.
+3. Na sentença, o Juízo de primeiro grau julgou parcialmente procedentes os pedidos, fixando R$ 10.000,00 por autor a título de danos morais e R$ 750,00 de ressarcimento por consultas psicológicas.
+4. A Corte de origem negou provimento às apelações e manteve a condenação.
+II. QUESTÃO EM DISCUSSÃO
+5. Há quatro questões em discussão: (i) saber se houve omissão ou deficiência de fundamentação, em violação aos arts. 1.022 e 489, § 1º, II e IV, do CPC; (ii) saber se o acórdão desconsiderou indevidamente a prova pericial e inverteu o ônus da prova, em afronta aos arts. 7, 139, 141, 373, II, 408 e 412, do CPC; (iii) saber se é indevida a multa aplicada aos embargos de declaração, à luz da Súmula n. 98 do STJ e do art. 1.026, § 2º, do CPC; e (iv) saber se há dissídio jurisprudencial demonstrado pela alínea c, com adequado cotejo analítico e identidade fática.
+III. RAZÕES DE DECIDIR
+6. Não há violação aos arts. 1.022 e 489, § 1º, II e IV, do CPC, pois o acórdão enfrentou as provas e fundamentou a conclusão, inclusive destacando o livre convencimento motivado diante dos relatórios médicos e das circunstâncias do evento.
+7. A revisão da valoração probatória, inclusive da perícia, é inviável em recurso especial, por incidência da Súmula n. 7 do STJ.
+8. Mantém-se a multa do art. 1.026, § 2º, do CPC, porque os embargos visaram rediscutir matéria decidida, sendo o reexame das circunstâncias igualmente vedado pela Súmula n. 7 do STJ.
+9. Não se conhece do dissídio, por ausência de cotejo analítico e de identidade fática entre os julgados.
+IV. DISPOSITIVO E TESE
+10. Agravo em recurso especial conhecido para conhecer em parte do recurso especial e negar-lhe provimento.
+Tese de julgamento: "1. Incide a Súmula n. 7 do STJ para obstar o reexame do conjunto fático-probatório, inclusive quanto à valoração da prova pericial. 2. Não há violação aos arts. 1.022 e 489, § 1º, II e IV, do CPC quando o acórdão aprecia as provas e explicita os fundamentos, à luz do livre convencimento motivado. 3. É legítima a multa do art. 1.026, § 2º, do CPC quando os embargos de declaração têm caráter protelatório, sendo inviável revisar as circunstâncias pela Súmula n. 7 do STJ. 4. Não se conhece do dissídio jurisprudencial sem cotejo analítico e identidade fática."
+Dispositivos relevantes citados: CPC, arts. 7, 85 § 11, 139, 141, 373 II, 408, 412, 489 § 1º II e IV, 1.022 e 1.026 § 2º.
+Jurisprudência relevante citada: STJ, Súmulas n. 7 e 98.
+RELATÓRIO
+Trata-se de agravo em recurso especial interposto por VALE S.A. contra a decisão que inadmitiu o recurso especial ao fundamento de inexistência de omissão no acórdão recorrido e de que a pretensão recursal demandaria o reexame do conjunto fático-probatório dos autos, providência vedada em recurso especial, nos termos da Súmula 7 do STJ, bem como da impossibilidade de análise do dissídio jurisprudencial ante a ausência de demonstração da necessária similitude fática entre os julgados confrontados.
+O recurso especial foi interposto com fundamento no art. 105, III, a e c, da Constituição Federal, contra acórdão do Tribunal de Justiça do Estado de Minas Gerais proferido em apelação cível nos autos de ação de indenização por danos morais decorrentes do rompimento da barragem da Mina Córrego do Feijão, no Município de Brumadinho/MG.
+O julgado foi assim ementado:
+EMENTA: APELAÇÕES CÍVEIS - AÇÃO DE INDENIZAÇÃO POR DANOS MORAIS - BRUMADINHO - BARRAGEM MINA CÓRREGO DO FEIJÃO - ROMPIMENTO - DANO MORAL - ADOECIMENTO PSICOLÓGICO - PROVA - QUANTIFICAÇÃO - JUROS DE MORA - TERMO INICIAL. Incumbe ao autor da ação o ônus de provar o fato constitutivo do seu direito e ao réu a existência de fato impeditivo, modificativo ou extintivo do direito daquele. Existente prova nos autos comprovando o alegado dano moral decorrente da tragédia ambiental provocada pela Vale S/A, se impõe a procedência da pretensão indenizatória. O valor da indenização por dano moral deve ser arbitrado em consonância com os princípios da razoabilidade e da proporcionalidade, promovendo de modo justo a compensação do ofendido e a punição do ofensor. Os juros moratórios, tratando-se de responsabilidade extracontratual, incidem desde a data do evento danoso (Súmula 54 do STJ).
+Foram opostos embargos de declaração pela ora recorrente, os quais foram rejeitados, tendo o Tribunal de origem consignado inexistirem omissão, obscuridade ou contradição no acórdão embargado, além de reconhecer o caráter protelatório do recurso e aplicar multa de 2% sobre o valor atualizado da causa, nos termos do art. 1.026, § 2º, do Código de Processo Civil.
+No recurso especial, além da divergência jurisprudencial, a recorrente aponta violação dos arts. 7º, 139, 141, 373, II, 408, 412, 489, § 1º, II e IV, e 1.022 do Código de Processo Civil, sustentando, em síntese, que o Tribunal de origem teria desconsiderado as conclusões da prova pericial que afastaram a existência de nexo causal entre o rompimento da barragem e o alegado dano psicológico, além de ter deixado de enfrentar adequadamente as teses suscitadas nos embargos de declaração.
+Sustenta, ainda, ser indevida a multa aplicada em razão da oposição de embargos de declaração reputados protelatórios.
+Requer, ao final, o provimento do recurso especial para reformar o acórdão recorrido.
+É o relatório.
+EMENTA
+DIREITO CIVIL. AGRAVO EM RECURSO ESPECIAL. RESPONSABILIDADE CIVIL POR DANO MORAL DECORRENTE DE ROMPIMENTO DE BARRAGEM. REEXAME DE PROVAS. OMISSÃO INEXISTENTE. MULTA POR EMBARGOS DECLARATÓRIOS. DISSÍDIO JURISPRUDENCIAL NÃO DEMONSTRADO. AGRAVO EM RECURSO ESPECIAL CONHECIDO PARA CONHECER EM PARTE DO RECURSO ESPECIAL E NEGAR-LHE PROVIMENTO.
+I. CASO EM EXAME
+1. Agravo em recurso especial interposto contra decisão que inadmitiu o recurso especial por inexistência de omissão, necessidade de reexame de provas, à luz da Súmula n. 7 do STJ, e ausência de similitude fática para o dissídio.
+2. A controvérsia decorre de ação de indenização por danos morais em razão do rompimento da barragem da Mina Córrego do Feijão, em Brumadinho/MG.
+3. Na sentença, o Juízo de primeiro grau julgou parcialmente procedentes os pedidos, fixando R$ 10.000,00 por autor a título de danos morais e R$ 750,00 de ressarcimento por consultas psicológicas.
+4. A Corte de origem negou provimento às apelações e manteve a condenação.
+II. QUESTÃO EM DISCUSSÃO
+5. Há quatro questões em discussão: (i) saber se houve omissão ou deficiência de fundamentação, em violação aos arts. 1.022 e 489, § 1º, II e IV, do CPC; (ii) saber se o acórdão desconsiderou indevidamente a prova pericial e inverteu o ônus da prova, em afronta aos arts. 7, 139, 141, 373, II, 408 e 412, do CPC; (iii) saber se é indevida a multa aplicada aos embargos de declaração, à luz da Súmula n. 98 do STJ e do art. 1.026, § 2º, do CPC; e (iv) saber se há dissídio jurisprudencial demonstrado pela alínea c, com adequado cotejo analítico e identidade fática.
+III. RAZÕES DE DECIDIR
+6. Não há violação aos arts. 1.022 e 489, § 1º, II e IV, do CPC, pois o acórdão enfrentou as provas e fundamentou a conclusão, inclusive destacando o livre convencimento motivado diante dos relatórios médicos e das circunstâncias do evento.
+7. A revisão da valoração probatória, inclusive da perícia, é inviável em recurso especial, por incidência da Súmula n. 7 do STJ.
+8. Mantém-se a multa do art. 1.026, § 2º, do CPC, porque os embargos visaram rediscutir matéria decidida, sendo o reexame das circunstâncias igualmente vedado pela Súmula n. 7 do STJ.
+9. Não se conhece do dissídio, por ausência de cotejo analítico e de identidade fática entre os julgados.
+IV. DISPOSITIVO E TESE
+10. Agravo em recurso especial conhecido para conhecer em parte do recurso especial e negar-lhe provimento.
+Tese de julgamento: "1. Incide a Súmula n. 7 do STJ para obstar o reexame do conjunto fático-probatório, inclusive quanto à valoração da prova pericial. 2. Não há violação aos arts. 1.022 e 489, § 1º, II e IV, do CPC quando o acórdão aprecia as provas e explicita os fundamentos, à luz do livre convencimento motivado. 3. É legítima a multa do art. 1.026, § 2º, do CPC quando os embargos de declaração têm caráter protelatório, sendo inviável revisar as circunstâncias pela Súmula n. 7 do STJ. 4. Não se conhece do dissídio jurisprudencial sem cotejo analítico e identidade fática."
+Dispositivos relevantes citados: CPC, arts. 7, 85 § 11, 139, 141, 373 II, 408, 412, 489 § 1º II e IV, 1.022 e 1.026 § 2º.
+Jurisprudência relevante citada: STJ, Súmulas n. 7 e 98.
+VOTO
+A controvérsia tem origem em ação de indenização por danos morais ajuizada pelos recorridos em face da recorrente em razão do rompimento da barragem da Mina Córrego do Feijão, ocorrido em 25/1/2019, no Município de Brumadinho/MG.
+O juízo de primeiro grau julgou parcialmente procedente a demanda para condenar a ré ao pagamento de indenização por danos morais no valor de R$ 10.000,00 para cada autor, bem como ao ressarcimento de despesas com consultas psicológicas no montante de R$ 750,00.
+Interpostas apelações pelas partes, o Tribunal de origem negou provimento aos recursos, mantendo a condenação.
+No recurso especial, a parte recorrente aponta, inicialmente, violação dos arts. 1.022 e 489, § 1º, II e IV, do Código de Processo Civil. Sustenta que o Tribunal de origem teria deixado de apreciar questões relevantes suscitadas pela recorrente, notadamente no que se refere às conclusões do laudo pericial, o qual teria afastado a existência de transtorno psicológico relacionado ao evento narrado.
+Contudo, a alegação não procede. No caso, verifica-se que o acórdão recorrido apreciou expressamente a prova produzida nos autos e consignou que, apesar das conclusões do laudo pericial judicial, os relatórios médicos juntados aos autos e as circunstâncias do evento traumático vivenciado pelos autores autorizavam o reconhecimento da ocorrência de abalo psicológico indenizável.
+O Tribunal de origem destacou, ainda, que a prova pericial não vincula o julgador, que pode formar sua convicção a partir da análise do conjunto probatório, à luz do princípio do livre convencimento motivado.
+Assim, as razões de decidir foram devidamente expostas, sendo possível identificar, de forma clara, os fundamentos adotados pelo Tribunal de origem para manter a condenação imposta à recorrente.
+Não se constata, portanto, omissão ou deficiência de fundamentação apta a caracterizar violação dos arts. 1.022 e 489 do Código de Processo Civil.
+A recorrente sustenta, ainda, violação dos arts. 7º, 139, 141, 373, II, 408 e 412 do Código de Processo Civil, argumentando que o acórdão recorrido teria desconsiderado as conclusões da prova pericial produzida nos autos e invertido indevidamente o ônus da prova.
+Todavia, o Tribunal de origem, ao examinar o conjunto probatório, concluiu que os elementos constantes dos autos eram suficientes para demonstrar a ocorrência de abalo psicológico decorrente do rompimento da barragem, circunstância que justificaria a condenação ao pagamento de indenização por danos morais.
+A revisão dessa conclusão demandaria o reexame do conjunto fático-probatório, especialmente quanto à valoração atribuída às provas produzidas no processo, inclusive à prova pericial.
+Tal providência é inviável em recurso especial, por força do óbice estabelecido na Súmula n. 7 do STJ, segundo a qual a pretensão de simples reexame de prova não enseja recurso especial.
+A recorrente sustenta, ainda, a ilegalidade da multa aplicada em razão da oposição de embargos de declaração reputados protelatórios. Argumenta que os embargos foram opostos apenas com o objetivo de provocar o necessário prequestionamento da matéria, circunstância que afastaria a incidência da penalidade, nos termos da Súmula 98 do STJ.
+Também, nesse ponto, a pretensão não merece acolhida. O Tribunal de origem consignou, expressamente, que os embargos de declaração opostos pela recorrente tinham por objetivo rediscutir matéria já decidida, circunstância que evidenciaria o caráter protelatório do recurso, razão pela qual aplicou a multa prevista no art. 1.026, § 2º, do Código de Processo Civil.
+A revisão dessa conclusão demandaria a análise das circunstâncias concretas que levaram o Tribunal de origem a reconhecer o caráter protelatório do recurso, providência que igualmente encontra óbice na Súmula n. 7 do STJ.
+Por fim, quanto à divergência jurisprudencial apontada, verifica-se que a recorrente não demonstrou adequadamente a identidade fática entre o acórdão recorrido e os julgados paradigmas indicados, deixando de realizar o indispensável cotejo analítico entre os precedentes confrontados. Tal deficiência impede o conhecimento do recurso especial pela alínea c do permissivo constitucional.
+Ante o exposto, conheço do agravo para conhecer em parte do recurso especial e, nessa extensão, negar-lhe provimento.
+Nos termos do § 11 do art. 85 do Código de Processo Civil, majoro, em 10% sobre o valor já arbitrado nas instâncias de origem, os honorários advocatícios em desfavor da parte ora recorrente, observados, se aplicáveis, os limites percentuais previstos no § 2º do referido artigo e ressalvada eventual concessão de gratuidade de justiça.
+É o voto.
