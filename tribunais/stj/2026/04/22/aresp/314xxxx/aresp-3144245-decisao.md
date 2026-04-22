@@ -1,0 +1,16 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por BANCO DO NORDESTE DO BRASIL S.A. contra a decisão que inadmitiu o recurso especial na origem.
+O recurso especial foi interposto contra o acórdão assim ementado:
+AGRAVO INTERNO EM APELAÇÃO CÍVEL. AÇÃO DE EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. CÉDULA DE CRÉDITO RURAL HIPOTECÁRIA. PRESCRIÇÃO INTERCORRENTE. OCORRÊNCIA. SUSPENSÃO DO PROCESSO A PEDIDO DO EXEQUENTE ATÉ 31/12/2019. INÉRCIA APÓS O TÉRMINO DO PRAZO DE SUSPENSÃO. INTIMAÇÃO PARA MANIFESTAR INTERESSE NO PROSSEGUIMENTO DO FEITO. TRANSCURSO IN ALBIS. PRAZO PRESCRICIONAL DE TRÊS ANOS COMPLETADO EM 31/12/2023. PENDÊNCIA DE JULGAMENTO DE EMBARGOS Ã EXECUÇÃO QUE NÃO OBSTA A FLUÊNCIA DA PRESCRIÇÃO INTERCORRENTE. APLICAÇÃO DO ENTENDIMENTO FIRMADO PELO STJ NO IAC  01 (RESP 1604412/SC). DECISÃO MONOCRÃTICA MANTIDA. AGRAVO INTERNO DESPROVIDO.
+Os autos vieram conclusos para análise.
+É o relatório. Decido.
+O agravo em recurso especial possui como objeto questão submetida a julgamento afetado à sistemática dos recursos repetitivos em que se busca "definir se as Leis 11.775/2008, 12.716/2012, 12.844/2013, 13.001/2014, 13.340/2016, 13.306/2018, 13.606/2018 e 13.729/2018 - que instituíram medidas de estímulo à liquidação ou renegociação de operações de crédito rural - suspenderam automaticamente o prazo de prescrição nas execuções fundadas em título executivo extrajudicial ou judicial, ou se a referida suspensão estava condicionada à manifestação expressa do executado quanto ao interesse em renegociar ou liquidar a dívida" (Recursos Especiais n. 2.219.068/MA, 2.217.707/MA, 2.232.278/PR e 2.236.997/RS).
+Dessa forma, para que seja observada a sistemática prevista nos arts. 1.040 e 1.041 do CPC, impõe-se a devolução dos autos ao Tribunal de origem, conforme dispõe o art. 2 56-L do RISTJ:
+Art. 256-L. Publicada a decisão de afetação, os demais recursos especiais em tramitação no STJ fundados em idêntica questão de direito:
+I - se já distribuídos, serão devolvidos ao Tribunal de origem, para nele permanecerem suspensos, por meio de decisão fundamentada do relator;
+II - se ainda não distribuídos, serão devolvidos ao Tribunal de origem por decisão fundamentada do Presidente do STJ.
+Registre-se que, segundo a orientação jurisprudencial do STJ, o ato judicial que determina o sobrestamento e o retorno dos autos à corte de origem a fim de que seja exercido o competente juízo de retratação/conformação (arts. 1.040 e 1.041 do CPC) não tem carga decisória, por isso é provimento irrecorrível.
+Nesse sentido: AgInt no REsp n. 1.140.843/PR, relatora Ministra Regina Helena Costa, Primeira Turma, julgado em 23/10/2018, DJe de 30/10/2018; AgInt nos EDcl nos EREsp n. 1.126.385/MG, relator Ministro Og Fernandes, Primeira Seção, julgado em 13/9/2017, DJe de 20/9/2017; AgInt no REsp n. 1.663.877/SE, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 22/8/2017, DJe de 4/9/2017; e AgInt no REsp n. 1.661.811/SP, relator Ministro Luis Felipe Salomão, Quarta Turma, julgado em 26/6/2018, DJe de 29/6/2018.
+Ante o exposto, determino a restituição dos autos ao Tribunal de origem a fim de que fiquem sobrestados até o julgamento definitivo da matéria submetida à sistemática dos recursos repetitivos (Tema n. 1.406 ) e eventual retratação prevista nos arts. 1.040, II, e 1.041 do CPC.
+Publique-se. Intimem-se.
+ EMENTA
