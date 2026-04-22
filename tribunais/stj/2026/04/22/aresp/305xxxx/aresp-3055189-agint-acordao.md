@@ -1,0 +1,52 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 14/04/2026 a 22/04/2026, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Sérgio Kukina, Regina Helena Costa, Gurgel de Faria e Paulo Sérgio Domingues votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Sérgio Kukina.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. CUMPRIMENTO DE SENTENÇA. IMPOSSIÇÃO DE MULTA. FUNDAMENTO AUTÔNOMO DO ACÓRDÃO NÃO IMPUGNADO. SÚMULA N. 283/STF. BASE DE CÁLCULO DA MULTA APLICADA. LIMITES DA COISA JULGADA. SÚMULA N. 7/STJ.
+1. Tendo o recurso sido interposto contra decisão publicada na vigência do Código de Processo Civil de 2015, devem ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+2. O Tribunal de origem concluiu que, em razão do trânsito em julgado, não seria mais possível, em cumprimento de sentença, alterar o quanto decidido na ação de conhecimento, sob pena de violação à coisa julgada. Contudo, não houve impugnação a esse fundamento que, por si só, respalda o resultado do julgamento. Incidência da Súmula n. 283 do STF.
+3. Em face das premissas fáticas assentadas no acórdão objurgado, verificar os limites da coisa julgada, a fim de alterar a base de cálculo da multa aplicada demandaria, necessariamente, o reexame de fatos e provas dos autos, providência incompatível com a via especial, nos termos da Súmula n. 7 do STJ.
+4. Agravo interno não provido.
+RELATÓRIO
+O EXMO. SR. MINISTRO BENEDITO GONÇALVES (Relator): Trata-se de agravo interno interposto contra decisão assim ementada (fl. 206):
+PROCESSO CIVIL E ADMINISTRATIVO. AGRAVO EM RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. CUMPRIMENTO DE SENTENÇA MULTA IMPOSTA EM AÇÃO CIVIL PÚBLICA POR ATO DE IMPROBIDADE. FUNDAMENTO AUTÔNOMO DO ACÓRDÃO NÃO IMPUGNADO. VIOLAÇÃO DOS SÚMULA N. 283/STF. ARTS. 917, §2º, INCISOS I, II e III, 926, E 927 DO CPC. AUSÊNCIA DE PARTICULARIZAÇÃO. LIMITES DA COISA JULGADA. SÚMULA N. 284/STF. AGRAVO CONHECIDO PARA NÃOSÚMULA N. 7/STJ. CONHECER DO RECURSO ESPECIAL.
+O agravante reitera alegada violação dos arts. 926, 927 e 917, § 2º, I, II e III, do Código de Processo Civil, quanto ao termo inicial da correção monetária, bem como a base de cálculo incidente sobre a multa civil, assim como defende a reforma da decisão monocrática, aduzindo ser inaplicável ao caso os óbices processuais aplicados. Assevera que "o objetivo do Agravante, com a interposição do Recurso Especial, é afastar as violações contidas no v. acórdão recorrido, de modo a restabelecer a ordem jurídica maculada por aquela decisão, no sentido de (i) obter a suspensão do feito até decisão final acerca do Tema 1.128/STJ, sob pena de incorrer em violação ao princípio da segurança, eis que o termo inicial da correção monetária poderá ser da data do trânsito em julgado da ação, ocorrido em 12/12/2018, a teor da discussão existente no Tema 1.128 do Superior Tribunal de Justiça e (ii) e reconhecer que o valor recebido a título de adicional por tempo de serviço não pode integrar a base de cálculo, por não ter natureza de contraprestação, ainda que paga de forma habitual. Ocorre que, o Presidente do Tribunal de Justiça de São Paulo, negou seguimento ao Recurso Especial com relação à matéria atinente ao termo de incidência da correção monetária, considerando a tese firmada no Tema 1.128 do STJ." (fl. 218).
+Com impugnação.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. CUMPRIMENTO DE SENTENÇA. IMPOSSIÇÃO DE MULTA. FUNDAMENTO AUTÔNOMO DO ACÓRDÃO NÃO IMPUGNADO. SÚMULA N. 283/STF. BASE DE CÁLCULO DA MULTA APLICADA. LIMITES DA COISA JULGADA. SÚMULA N. 7/STJ.
+1. Tendo o recurso sido interposto contra decisão publicada na vigência do Código de Processo Civil de 2015, devem ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+2. O Tribunal de origem concluiu que, em razão do trânsito em julgado, não seria mais possível, em cumprimento de sentença, alterar o quanto decidido na ação de conhecimento, sob pena de violação à coisa julgada. Contudo, não houve impugnação a esse fundamento que, por si só, respalda o resultado do julgamento. Incidência da Súmula n. 283 do STF.
+3. Em face das premissas fáticas assentadas no acórdão objurgado, verificar os limites da coisa julgada, a fim de alterar a base de cálculo da multa aplicada demandaria, necessariamente, o reexame de fatos e provas dos autos, providência incompatível com a via especial, nos termos da Súmula n. 7 do STJ.
+4. Agravo interno não provido.
+VOTO
+O EXMO. SR. MINISTRO BENEDITO GONÇALVES (Relator): Consigne-se inicialmente que o recurso foi interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015, devendo ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+O presente recurso não merece prosperar, tendo em vista que dos argumentos apresentados no agravo interno não se vislumbram razões para reformar a decisão agravada.
+O cerne da controvérsia consiste em verificar se houve excesso de execução quanto à base de cálculo da multa civil, referente aos valores do adicional por tempo de serviço.
+Inicialmente, no que tange ao pedido de suspensão do feito até decisão final acerca do Tema 1.128/STJ, observa-se que o efeito devolutivo do recurso a esta Corte Superior, por meio do Agravo em Recurso Especial, se deu tão somente quanto à discussão da base de cálculo da multa civil aplicada, o que impede a análise da tese que teve seu seguimento negado na instância de origem, a saber: o termo inicial da correção monetária incidente sobre a multa civil.
+Ademais, no caso dos autos, conforme consignado nas razões recursais, o recorrente sustentava que o termo inicial deveria corresponder à data do trânsito em julgado da ação. Contudo, a tese vinculante fixada pelo STJ determina que os encargos incidam desde a data do ato de improbidade - que é necessariamente anterior ao trânsito em julgado.
+Assim, a suspensão do cumprimento de sentença para aguardar o julgamento do Tema 1.128 do STJ não teria o condão de beneficiar o recorrente, uma vez que a tese firmada não acolheu a pretensão de fixação do termo inicial na data do trânsito em julgado, mas em momento anterior (data do ato de improbidade).
+Feito esses destaques, no que tange à alegação de que a inclusão do valor recebido a título de adicional por tempo de serviço não poderia fazer parte da base de cálculo homologada pela decisão agravada, o que configuraria excesso de execução, o Tribunal a quo decidiu (fls. 38-40):
+ ..  ao que se verifica da decisão exequenda, a multa imposta ao agravante foi fixada em montante "equivalente a doze vezes o valor da remuneração que receberiam nesta data, caso exercessem os cargos que ocupavam na época dos fatos, com correção monetária a partir desta data, e (..)" (fl. 268 - g. n.).
+Bem delimitado, portanto, a base de cálculo da multa e o termo inicial da correção monetária.
+Quanto à base de cálculo, não há mesmo dissonância entre o quanto decidido na sentença em cumprimento e o cálculo homologado pela decisão agravada.
+ ..
+Contudo, no que tange ao termo inicial da correção monetária, assiste razão em parte ao agravante.
+A decisão em cumprimento determinou expressamente que a correção monetária deveria incidir a partir da data da sentença, e assim transitou em julgado, não sendo possível agora, em sede de cumprimento de sentença, alterar o quanto decidido na ação de conhecimento, sob pena de violação à coisa julgada.
+Por essa mesma razão, não é caso de fixar o termo "a quo" da correção monetária na data do trânsito em julgado da sentença exequenda, como pretende o agravante.
+Contudo, os argumentos apresentados no recurso especial não foram suficientes para combater o fundamento de que, em razão do trânsito em julgado da ação, não seria mais possível, "em sede de cumprimento de sentença, alterar o quanto decidido na ação de conhecimento, sob pena de violação à coisa julgada".
+Assim, à míngua da devida impugnação, preserva-se incólume o fundamento do decisum vergastado, que se mostra capaz, por si só, de manter o resultado do julgamento ocorrido na Corte de origem, tornando inadmissível o recurso que não o impugnou. Incide ao caso a Súmula n. 283 do STF. Nesse sentido: AgInt no REsp 1.678.341/ES, Rel. Ministra Regina Helena Costa, Primeira Turma, DJe de 8/5/2019; e AgInt no AREsp 1.775.664/RJ, Rel. Ministro Francisco Falcão, Segunda Turma, DJe de 10/06/2021.
+Por fim, em face das premissas fáticas assentadas no acórdão objurgado, verificar os limites da coisa julgada, a fim de alterar a base de cálculo da multa aplicada demandaria, necessariamente, o reexame de fatos e provas dos autos, providência incompatível com a via especial, nos termos da Súmula n. 7 do STJ.
+Nesse sentido:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO A FUNDAMENTO CONTIDO NO ACÓRDÃO RECORRIDO. REVISÃO. IMPOSSIBILIDADE. SÚMULA N. 283/STF. SÚMULA 7/STJ.
+ ..
+3. A revisão do entendimento do Tribunal de origem, no que se refere aos limites subjetivos da coisa julgada, demandaria necessariamente o reexame do conteúdo fático-probatório dos autos, o que é vedado em sede de recurso especial, ante o óbice da Súmula 7 do STJ.
+4. Agravo interno não provido. (AgInt no AREsp n. 2.967.740/MS, relator Ministro Benedito Gonçalves, Primeira Turma, DJEN de 27/11/2025.)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL.  .. . REFORMA DO JULGADO QUE DEMANDARIA O REEXAME DOS FATOS E DAS PROVAS DOS AUTOS. IMPOSSIBILDIADE. SÚMULA 7/STJ. AGRAVO INTERNO NÃO PROVIDO.
+ ..
+2. Assim, alterar o entendimento adotado pelo Tribunal de origem, a fim de rever os limites subjetivos da coisa julgada, de acolher os fundamentos de violação da coisa julgada ou de afastar as premissas fáticas que levaram ao reconhecimento da prescrição demandaria reexame de fatos e provas, o que é vedado em recurso especial, nos termos do enunciado n. 7 da Súmula do STJ.
+3. Agravo interno a que se nega provimento.
+(AgInt no REsp n. 2.212.480/DF, relatora Ministra Maria Thereza de Assis Moura, Segunda Turma, DJEN de 26/11/2025.)
+Ante o exposto, nego provimento ao agravo interno.
+É como voto.
