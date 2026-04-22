@@ -1,0 +1,38 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 14/04/2026 a 22/04/2026, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Sérgio Kukina.
+Os Srs. Ministros Sérgio Kukina, Regina Helena Costa, Gurgel de Faria e Paulo Sérgio Domingues votaram com o Sr. Ministro Relator.
+EMENTA
+PROCESSUAL CIVIL E TRIBUTÁRIO. AGRAVO INTERNO NO RECURSO ESPECIAL. EXECUÇÃO FISCAL. PRESCRIÇÃO QUINQUENAL INTERCORRENTE. ART. 40 DA LEI N. 6.830/1980. INTERRUPÇÃO. TEMA 566/STJ. AUSÊNCIA DE EFETIVA CONSTRIÇÃO PATRIMONIAL. DILIGÊNCIAS INFRUTÍFERAS. RESULTADO PRÁTICO NÃO CONFIGURADO. REEXAME DE FATOS E PROVAS. SÚMULA 7/STJ.
+1. Tendo o recurso sido interposto contra decisão publicada na vigência do Código de Processo Civil de 2015, devem ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+2. A interrupção da prescrição intercorrente, nos termos do art. 40 da Lei n. 6.830/1980, exige a efetiva citação do devedor ou a efetiva constrição patrimonial, não sendo suficiente o mero peticionamento ou a prática de diligências infrutíferas.
+3. Conclusão do Tribunal de origem no sentido da inexistência de resultado prático útil das diligências promovidas pela Fazenda Pública, circunstância que, à luz do Tema Repetitivo 566/STJ, não é apta a interromper o curso da prescrição intercorrente.
+4. A controvérsia não se resolve por mera qualificação jurídica de fatos incontroversos, mas exige a revisão do juízo firmado pelo Tribunal de origem quanto à eficácia concreta das diligências realizadas (juízo de eficácia fática). Pretender reconhecer resultado prático útil onde o acórdão recorrido expressamente afirmou sua inexistência implica reexame fático-probatório, atraindo a incidência da Súmula 7/STJ.
+5. Agravo interno não provido.
+RELATÓRIO
+O SENHOR MINISTRO BENEDITO GONÇALVES (RELATOR): Trata-se de agravo interno interposto pelo ESTADO DO ACRE contra decisão monocrática que não conheceu do Recurso Especial, pela aplicação da Súmula 7/STJ.
+Nas presentes razões, a parte agravante sustenta, em síntese, que a decisão monocrática incorreu em equívoco ao aplicar o óbice da Súmula 7/STJ.
+Nas presentes razões, o Estado do Acre sustenta, em síntese, que a controvérsia devolvida ao STJ não exigiria revolvimento de fatos, mas apenas revaloração jurídica de fatos incontroversos, defendendo que a localização do veículo, o pedido de penhora e a restrição de circulação via sistema RENAJUD seriam suficientes para interromper o curso da prescrição intercorrente e que o Tribunal de origem teria aplicado de forma equivocada a tese firmada no julgamento do REsp 1.340.553/RS (Tema 566/STJ).
+Requer, assim, a reconsideração da decisão agravada ou, subsidiariamente, o provimento do agravo interno para que o recurso especial seja conhecido e apreciado.
+Contrarrazões apresentadas.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL E TRIBUTÁRIO. AGRAVO INTERNO NO RECURSO ESPECIAL. EXECUÇÃO FISCAL. PRESCRIÇÃO QUINQUENAL INTERCORRENTE. ART. 40 DA LEI N. 6.830/1980. INTERRUPÇÃO. TEMA 566/STJ. AUSÊNCIA DE EFETIVA CONSTRIÇÃO PATRIMONIAL. DILIGÊNCIAS INFRUTÍFERAS. RESULTADO PRÁTICO NÃO CONFIGURADO. REEXAME DE FATOS E PROVAS. SÚMULA 7/STJ.
+1. Tendo o recurso sido interposto contra decisão publicada na vigência do Código de Processo Civil de 2015, devem ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+2. A interrupção da prescrição intercorrente, nos termos do art. 40 da Lei n. 6.830/1980, exige a efetiva citação do devedor ou a efetiva constrição patrimonial, não sendo suficiente o mero peticionamento ou a prática de diligências infrutíferas.
+3. Conclusão do Tribunal de origem no sentido da inexistência de resultado prático útil das diligências promovidas pela Fazenda Pública, circunstância que, à luz do Tema Repetitivo 566/STJ, não é apta a interromper o curso da prescrição intercorrente.
+4. A controvérsia não se resolve por mera qualificação jurídica de fatos incontroversos, mas exige a revisão do juízo firmado pelo Tribunal de origem quanto à eficácia concreta das diligências realizadas (juízo de eficácia fática). Pretender reconhecer resultado prático útil onde o acórdão recorrido expressamente afirmou sua inexistência implica reexame fático-probatório, atraindo a incidência da Súmula 7/STJ.
+5. Agravo interno não provido.
+VOTO
+O SENHOR MINISTRO BENEDITO GONÇALVES (RELATOR): Tendo o recurso sido interposto contra decisão publicada na vigência do Código de Processo Civil de 2015, devem ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+O agravo interno não merece prosperar.
+O recurso especial foi interposto contra acórdão do Tribunal de Justiça do Estado do Acre que, em sede de apelação, manteve sentença de extinção da execução fiscal, reconhecendo a ocorrência de prescrição quinquenal intercorrente, nos termos do art. 40 da Lei n. 6.830/1980, diante da ausência de efetiva constrição patrimonial e da inexistência de resultado prático útil das diligências promovidas pela Fazenda Pública após a suspensão do feito em 27/1/2016.
+A decisão agravada não conheceu do recurso especial ao fundamento de que o acórdão recorrido, à luz das premissas fáticas expressamente fixadas, não contrariou a orientação firmada por esta Corte no julgamento do REsp 1.340.553/RS (Tema 566/STJ), sendo certo que eventual acolhimento da tese recursal demandaria o reexame do conjunto fático-probatório, providência vedada em sede de recurso especial, nos termos da Súmula 7/STJ.
+Com efeito, o Tribunal de origem foi categórico ao consignar que as diligências promovidas pela Fazenda Pública não resultaram em efetiva constrição patrimonial, destacando que a tentativa de penhora do veículo restou frustrada e que a restrição de circulação lançada via sistema RENAJUD não produziu resultado prático apto a interromper o curso da prescrição intercorrente.
+A partir dessa moldura fática, concluiu pela caracterização da prescrição quinquenal intercorrente, entendimento mantido no julgamento dos embargos de declaração.
+Nesse contexto, a pretensão recursal de reconhecer que as diligências alegadas seriam suficientes para interromper a prescrição implica, necessariamente, revisitar a conclusão do acórdão recorrido quanto à inexistência de constrição patrimonial efetiva, o que extrapola os limites da revaloração jurídica e ingressa no campo do reexame de fatos e provas.
+A controvérsia não se resolve por mera qualificação jurídica de fatos incontroversos, mas exige a revisão do juízo firmado pelo Tribunal de origem quanto à eficácia concreta das diligências realizadas (juízo de eficácia fática). Pretender reconhecer resultado prático útil onde o acórdão recorrido expressamente afirmou sua inexistência implica reexame fático-probatório, atraindo a incidência da Súmula 7/STJ.
+Ressalte-se, ademais, que a decisão agravada aplicou corretamente a tese firmada no Tema 566/STJ, segundo a qual apenas a efetiva citação do devedor ou a efetiva constrição patrimonial são aptas a interromper o curso da prescrição intercorrente, não bastando, para tanto, o mero peticionamento ou a prática de diligências infrutíferas.
+Assim, não demonstrada a inaplicabilidade da Súmula 7/STJ ao caso concreto, impõe-se a manutenção do decisum por seus próprios fundamentos.
+Ante todo o exposto, nego provimento ao agravo interno.
+É como voto.
