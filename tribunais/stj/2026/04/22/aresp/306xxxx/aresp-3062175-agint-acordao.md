@@ -1,0 +1,59 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 14/04/2026 a 22/04/2026, por unanimidade, negar provimento ao recurso, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Nancy Andrighi, Humberto Martins, Ricardo Villas Bôas Cueva e Moura Ribeiro votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento a Sra. Ministra Daniela Teixeira.
+EMENTA
+DIREITO PROCESSUAL CIVIL E CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ALEGAÇÃO DE NEGATIVA DE PRESTAÇÃO JURISDICIONAL. ARTS. 1.022 E 489 DO CPC. INOCORRÊNCIA. NECESSIDADE DE REEXAME FÁTICO-PROBATÓRIO. SÚMULA 7/STJ. ARBITRAMENTO DE HONORÁRIOS ADVOCATÍCIOS EM CASO DE RESCISÃO DO CONTRATO PELO MANDANTE. JURISPRUDÊNCIA CONSOLIDADA DO STJ. DECISÃO MANTIDA. AGRAVO INTERNO DESPROVIDO.
+I. CASO EM EXAME
+1. Agravo interno interposto contra decisão monocrática que não conheceu de agravo em recurso especial em demanda envolvendo arbitramento de honorários advocatícios após a rescisão de contrato de prestação de serviços advocatícios por iniciativa do mandante. A parte agravante sustenta violação aos arts. 1.022 e 489 do CPC e aos arts. 421, caput e parágrafo único, 421-A, III, 422 e 884 do Código Civil, bem como ao art. 22, § 2º, da Lei 8.906/1994, alegando nulidade do acórdão por negativa de prestação jurisdicional e incorreta interpretação da legislação federal.
+II. QUESTÃO EM DISCUSSÃO
+2. Há três questões em discussão: (i) definir se o acórdão recorrido incorreu em negativa de prestação jurisdicional por violação aos arts. 1.022 e 489 do CPC; (ii) estabelecer se o recurso especial apresenta fundamentação adequada quanto à alegada violação de dispositivos legais; e (iii) determinar se o exame da controvérsia demandaria reexame do conjunto fático-probatório, vedado pela Súmula 7 do STJ.
+III. RAZÕES DE DECIDIR
+3. Afasta-se a violação aos arts. 489 e 1.022 do CPC quando o acórdão recorrido enfrenta de forma clara e suficiente as questões relevantes da controvérsia, ainda que em sentido contrário aos interesses da parte recorrente.
+4. A análise da alegada nulidade do contrato e das circunstâncias relativas à prestação de serviços advocatícios exige o reexame do conjunto fático-probatório dos autos, providência vedada em recurso especial, nos termos da Súmula 7 do STJ.
+5. A jurisprudência do STJ admite o arbitramento judicial de honorários advocatícios quando o contrato de prestação de serviços é rescindido por iniciativa do mandante antes do término da execução do serviço.
+IV. DISPOSITIVO
+6. Agravo interno não provido.
+RELATÓRIO
+Trata-se de agravo interno interposto contra decisão de minha relatoria, que não conheceu do agravo em recurso especial.
+O agravante sustenta, em síntese, a ocorrência de negativa de prestação jurisdicional pelo Tribunal de origem por omissões não sanadas em embargos de declaração quanto a pontos essenciais, o que impõe o retorno dos autos à origem para exame específico das questões e documentos, à luz de julgados desta Corte.
+Afirma, ainda, que não incide a Súmula 7/STJ porque o TJMT reconheceu de forma inconteste a existência de contrato e de termo de quitação, tratando-se de mera subsunção normativa, e aponta violação ao art. 22, § 2º, da Lei 8.906/1994.
+Intimada nos termos do art. 1.021, § 2º, do Código de Processo Civil, a parte agravada manifestou-se pelo desprovimento da insurgência.
+É o relatório.
+EMENTA
+DIREITO PROCESSUAL CIVIL E CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ALEGAÇÃO DE NEGATIVA DE PRESTAÇÃO JURISDICIONAL. ARTS. 1.022 E 489 DO CPC. INOCORRÊNCIA. NECESSIDADE DE REEXAME FÁTICO-PROBATÓRIO. SÚMULA 7/STJ. ARBITRAMENTO DE HONORÁRIOS ADVOCATÍCIOS EM CASO DE RESCISÃO DO CONTRATO PELO MANDANTE. JURISPRUDÊNCIA CONSOLIDADA DO STJ. DECISÃO MANTIDA. AGRAVO INTERNO DESPROVIDO.
+I. CASO EM EXAME
+1. Agravo interno interposto contra decisão monocrática que não conheceu de agravo em recurso especial em demanda envolvendo arbitramento de honorários advocatícios após a rescisão de contrato de prestação de serviços advocatícios por iniciativa do mandante. A parte agravante sustenta violação aos arts. 1.022 e 489 do CPC e aos arts. 421, caput e parágrafo único, 421-A, III, 422 e 884 do Código Civil, bem como ao art. 22, § 2º, da Lei 8.906/1994, alegando nulidade do acórdão por negativa de prestação jurisdicional e incorreta interpretação da legislação federal.
+II. QUESTÃO EM DISCUSSÃO
+2. Há três questões em discussão: (i) definir se o acórdão recorrido incorreu em negativa de prestação jurisdicional por violação aos arts. 1.022 e 489 do CPC; (ii) estabelecer se o recurso especial apresenta fundamentação adequada quanto à alegada violação de dispositivos legais; e (iii) determinar se o exame da controvérsia demandaria reexame do conjunto fático-probatório, vedado pela Súmula 7 do STJ.
+III. RAZÕES DE DECIDIR
+3. Afasta-se a violação aos arts. 489 e 1.022 do CPC quando o acórdão recorrido enfrenta de forma clara e suficiente as questões relevantes da controvérsia, ainda que em sentido contrário aos interesses da parte recorrente.
+4. A análise da alegada nulidade do contrato e das circunstâncias relativas à prestação de serviços advocatícios exige o reexame do conjunto fático-probatório dos autos, providência vedada em recurso especial, nos termos da Súmula 7 do STJ.
+5. A jurisprudência do STJ admite o arbitramento judicial de honorários advocatícios quando o contrato de prestação de serviços é rescindido por iniciativa do mandante antes do término da execução do serviço.
+IV. DISPOSITIVO
+6. Agravo interno não provido.
+VOTO
+O agravo interno é tempestivo, nos termos do art. 1.003, § 5º do Código de Processo Civil.
+A análise dos argumentos recursais não indica, contudo, hipótese que resulte na reconsideração dos argumentos fáticos e jurídicos anteriormente lançados, motivo pelo qual mantenho a decisão recorrida pelos fundamentos expostos, os quais transcrevo para que passem a fazer parte da presente decisão colegiada (e-STJ fls. 1.986-1.995):
+"  ..  De saída, no que tange a alegação de afronta aos artigos 1.022 e 489 do Código de Processo Civil, a ofensa ao II, do Código de Processo Civil se art. 1.022, caracteriza quando o órgão julgador, provocado por meio de embargos de declaração, deixa de suprir omissão sobre ponto relevante da controvérsia, cuja análise é indispensável à adequada prestação jurisdicional.
+De igual modo, o §1º, IV, do CPC impõe um dever de art. 489, fundamentação qualificada, estabelecendo que não se considera fundamentada a decisão judicial que não enfrenta todos os argumentos deduzidos pelas partes capazes, em tese, de infirmar a conclusão adotada.
+Esses dispositivos visam assegurar que o pronunciamento judicial seja efetivamente resolutivo, transparente e coerente, permitindo o controle pelas instâncias superiores e garantindo a observância ao devido processo legal substancial.
+Certo é que "Afasta-se a ofensa aos arts. 489 e 1.022 do pois CPC/2015, não se constatam omissão, obscuridade ou contradição nos acórdãos recorridos capazes de torná-los nulos. O colegiado originário apreciou a demanda de forma clara e precisa, deixando bem delineados os fundamentos dos julgados." (AgInt no AREsp n. 2.441.987/DF, relator Ministro Humberto Martins, Terceira Turma, julgado em 17/2/2025, DJEN de 20/2/2025.)
+Efetivamente, compulsados os autos, colhe-se que a Corte de origem analisou e rebateu, um a um, os argumentos levantados, sendo certo que a ausência de menção a um outro argumento invocado pela defesa não macula o comando decisório se, bem fundamentado, apresenta razões capazes de se sustentar por si.
+(..)
+Portanto, constatada a pronúncia expressa e suficiente acerca dos temas indicados como omissos, a questão do direito aplicado é matéria relativa ao mérito recursal, não se podendo cogitar, no presente feito, em prestação jurisdicional defeituosa.
+A análise das razões recursais indica que a parte recorrente limitou-se à menção dos preceitos legais que considera violados ou desconsiderados (artigos 421, caput e parágrafo único, 421-A, III, 422, e 884 do código civil, bem como ao artigo 22, §2º, da lei lei 8.906/94, sem deixar claro, de maneira argumentativa objetiva e convincente, a forma como ocorreu a efetiva contrariedade ou negativa de vigência, pelo Tribunal de origem.
+A hipótese atrai, portanto, a incidência do entendimento exposto pela súmula 284 do STF, na medida em que: "A ausência de fundamentação ou a sua deficiência importa no não conhecimento do recurso quanto ao tema." (AgInt no AREsp n. 2.444.719/RS, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 26/2/2024, DJe de 28/2/2024.)
+No presente feito, percebe-se das razões recursais que a parte recorrente limitou-se a revolver as alegações de sua apelação, sem, contudo, indicar de forma clara qual dispositivo de lei a interpretação do Tribunal de origem vilipendiou.
+Para conhecer da controvérsia apresentada neste recurso, notadamente a suposta nulidade do contrato firmado entre as partes, mostra-se necessário o revolvimento do acervo fático-probatório dos autos, procedimento incompatível com o entendimento firmado pela Súmula nº 7 deste Superior Tribunal de Justiça, que estabelece que: "A pretensão de simples reexame de prova não enseja recurso especial."
+De fato, presente a função uniformizadora do Recurso Especial, não se pode cogitar de seu emprego para a realização de rejulgamento do contexto fático- probatório, em atitude típica de revisão promovida por nova instância.
+(..)
+No presente feito, o acolhimento da tese recursal demandaria inevitável revisão do quadro fático-probatório estabelecido na instância de origem, providência que, como visto, é inviável nesta sede.
+Ante o exposto, não conheço do agravo em recurso especial.
+Caso exista nos autos prévia fixação de honorários advocatícios pelas instâncias de origem, determino sua majoração em desfavor da parte agravante, no importe de 2% sobre o valor já arbitrado, nos termos do § 11, do Código de art. 85, Processo Civil, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão da gratuidade da justiça.  .. "
+Como bem delineado na decisão impugnada, para conhecer da controvérsia apresentada neste recurso, mostra-se necessário o revolvimento do acervo fático-probatório dos autos, procedimento incompatível com o entendimento firmado pela Súmula n. 7 deste Superior Tribunal de Justiça. (AREsp n. 2.784.609/MT, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 13/10/2025, DJEN de 17/10/2025.)
+Além disso, a conclusão adotada pelo Tribunal de origem está em consonância com a jurisprudência consolidada desta Corte, no sentido do cabimento da ação de arbitramento de honorários caso o contrato tenha sido rescindido por iniciativa do mandante, antes do término da prestação de serviço. (AgInt no AREsp n. 2.348.277/MG, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 23/10/2023, DJe de 25/10/2023 e AgInt no AREsp n. 1.147.232/CE, relator Ministro Marco Buzzi, Quarta Turma, julgado em 4/10/2022, DJe de 6/3/2023)
+Por fim, na linha da fundamentação lançada na decisão recorrida, este Tribunal Superior firmou entendimento no sentido de que "inexiste violação do art. 1.022 do CPC quando o acórdão recorrido, de forma clara e fundamentada, analisa a questão suscitada, ainda que em sentido contrário aos interesses da parte, não se confundindo o inconformismo com negativa de prestação jurisdicional" (AREsp n. 2.988.980/SP, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 9/12/2025, DJEN de 16/12/2025 e AREsp n. 2.823.584/GO, relatora Ministra Daniela Teixeira, Terceira Turma, julgado em 27/10/2025, DJEN de 30/10/2025.)
+Mantenho, portanto, a decisão agravada.
+Ante o exposto, nego provimento ao agravo interno.
+É o voto.
