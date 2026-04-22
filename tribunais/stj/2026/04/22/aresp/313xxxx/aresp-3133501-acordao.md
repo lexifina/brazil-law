@@ -1,0 +1,59 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 16/04/2026 a 22/04/2026, por unanimidade, não conhecer do recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Afrânio Vilela, Francisco Falcão, Maria Thereza de Assis Moura e Marco Aurélio Bellizze votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Teodoro Silva Santos.
+EMENTA
+PROCESSUAL CIVIL E PREVIDENCIÁRIO. AGRAVO EM RECURSO ESPECIAL. AÇÃO DE APOSENTADORIA POR INVALIDEZ. ALEGAÇÃO DE OFENSA AOS ARTS. 505, INCISO I, DO CPC E 42 E 59 DA LEI N. 8.213/1991. COISA JULGADA RECONHECIDA PELO TRIBUNAL DE ORIGEM. TRÍPLICE IDENTIDADE DE AÇÕES. REVISÃO. IMPOSSIBILIDADE. SÚMULA N. 7/STJ. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
+1. Trata-se, na origem, de ação de aposentadoria por invalidez, com pedido alternativo de auxílio-doença, ajuizada pela ora recorrente, objetivando o reconhecimento da incapacidade laboral e o recebimento dos benefícios previdenciários.
+2. Rever a conclusão adotada pelo acórdão recorrido - de que existente a coisa julgada, ante a tríplice identidade entre as ações - requer o reexame de matéria fático-probatória. Todavia, não cabe a esta Corte, a fim de alcançar conclusão diversa, reavaliar todo o conjunto de fatos e provas da causa, conforme preceitua a Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial.").
+3. Agravo conhecido para não conhecer do recurso especial.
+RELATÓRIO
+Trata-se de agravo interposto por INEZ RODRIGUES TOBIAS da decisão do TRIBUNAL REGIONAL FEDERAL DA 3ª REGIÃO que inadmitiu o recurso especial dirigido contra o acórdão prolatado na Apelação Cível n. 5041419-89.2025.4.03.9999, assim ementado (fl. 165):
+PREVIDENCIÁRIO. APOSENTADORIA POR INCAPACIDADE PERMANENTE. ARTIGO 42, CAPUT E § 2º DA LEI 8.213/91. AUXÍLIO POR INCAPACIDADE TEMPORÁRIA. ARTIGOS 59 E 62 DA LEI N.º 8.213/91. NÃO HÁ NOVOS ELEMENTOS QUE INDIQUEM AGRAVAMENTO DA DOENÇA. COISA JULGADA. EXTINÇÃO DO FEITO. HONORÁRIOS ADVOCATÍCIOS.
+1. Ajuizada demanda em que figuram as mesmas partes, fundada no mesmo pedido e causa de pedir - concessão de aposentadoria por invalidez ou auxílio-doença, de ação anterior transitada em julgada, exigindo-se o reconhecimento da coisa julgada, conforme o disposto no artigo 502 do Código de Processo Civil.
+2. Da análise do conjunto probatório, verifica-se que a parte autora padece das mesmas patologias apresentadas na demanda anterior, não trazendo nenhum elemento ou atestado posterior que indique o agravamento das doenças.
+3. Extinção do feito, sem resolução do mérito, nos termos do artigo 485, inciso V, do Código de Processo Civil.
+4. Condena a parte autora ao pagamento dos honorários advocatícios, que arbitra em 10% sobre o valor da causa, nos termos do § 2º do artigo 85 do Código de Processo Civil, observando-se a suspensão de exigibilidade prevista no § 3º do artigo 98 do mesmo diploma legal.
+5. De ofício, processo julgado sem resolução do mérito. Apelação prejudicada.
+Não foram opostos declaratórios.
+Nas razões do recurso especial, interposto com base no art. 105, inciso III, alínea a, da Constituição Federal, a parte recorrente alega afronta aos arts. 505, inciso I, do Código de Processo Civil e 42 e 59 da Lei n. 8.213/1991.
+Aduz preencher os requisitos para a concessão de aposentadoria por invalidez ou auxílio-doença.
+Defende que, em relações jurídicas continuativas, a modificação do estado de fato ou de direito autoriza novo julgamento, motivo pelo qual, no caso, não incide coisa julgada (fls. 177-184).
+Ao final, requer que seja afastado o reconhecimento da coisa julgada e concedidos os benefícios previdenciários (fl. 184).
+Contrarrazões às fls. 185-186.
+Não admitido o recurso especial pelo Tribunal de origem (fls. 187-190), seguiu-se o presente agravo em recurso especial (fls. 191-197).
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL E PREVIDENCIÁRIO. AGRAVO EM RECURSO ESPECIAL. AÇÃO DE APOSENTADORIA POR INVALIDEZ. ALEGAÇÃO DE OFENSA AOS ARTS. 505, INCISO I, DO CPC E 42 E 59 DA LEI N. 8.213/1991. COISA JULGADA RECONHECIDA PELO TRIBUNAL DE ORIGEM. TRÍPLICE IDENTIDADE DE AÇÕES. REVISÃO. IMPOSSIBILIDADE. SÚMULA N. 7/STJ. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
+1. Trata-se, na origem, de ação de aposentadoria por invalidez, com pedido alternativo de auxílio-doença, ajuizada pela ora recorrente, objetivando o reconhecimento da incapacidade laboral e o recebimento dos benefícios previdenciários.
+2. Rever a conclusão adotada pelo acórdão recorrido - de que existente a coisa julgada, ante a tríplice identidade entre as ações - requer o reexame de matéria fático-probatória. Todavia, não cabe a esta Corte, a fim de alcançar conclusão diversa, reavaliar todo o conjunto de fatos e provas da causa, conforme preceitua a Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial.").
+3. Agravo conhecido para não conhecer do recurso especial.
+VOTO
+Satisfeitos os requisitos de admissibilidade do agravo, tendo em vista que a parte agravante impugnou, de forma suficiente, os óbices elencados na decisão de inadmissibilidade proferida pelo Tribunal de origem, passo ao exame do recurso especial.
+Trata-se, na origem, de ação de aposentadoria por invalidez, com pedido alternativo de auxílio-doença, ajuizada pela ora recorrente, objetivando o reconhecimento da incapacidade laboral e o recebimento dos benefícios previdenciários.
+O Tribunal de origem, no enfrentamento da matéria, asseverou expressamente (fl. 164; sem grifos no original):
+ ..
+Anteriormente à presente demanda, em 30/08/2023, a parte autora ajuizou idêntica ação (processo nº 1008388-38.2023.8.26.0269), junto à 4ª Vara de Itapetininga - SP, objetivando a concessão de auxílio por incapacidade temporária ou de aposentadoria por incapacidade permanente, tendo sido julgado improcedente o pedido, em razão da ausência de incapacidade laborativa, e certificado o trânsito em julgado em 20/03/2024 (id 318428995 - Pág. 1/14).
+Em 23/07/2024, a autora ajuizou o presente feito, fundado no mesmo pedido e na mesma causa de pedir: concessão de auxílio por incapacidade temporária ou de aposentadoria por incapacidade permanente, em razão das mesmas moléstias alegadas na ação anterior, quais sejam diabetes mellitus tipo 2, fibromialgia, artrite gotosa e lesão coriorretiniana em olho esquerdo.
+Impõe-se, in casu, o reconhecimento da coisa julgada, uma vez que a primeira ação possui as mesmas partes, o mesmo pedido e mesma causa de pedir e já se encerrou, definitivamente, com o julgamento de mérito, a teor do disposto no artigo 502 do Código de Processo Civil.
+Frise-se que, da análise do conjunto probatório, verifica-se que a parte autora padece das mesmas patologias diagnosticadas na demanda anterior, não trazendo nenhum elemento ou atestado posterior que indique o agravamento das doenças.
+Assim, constatando-se que entre as duas demandas há identidade de partes, de causa de pedir e de pedido, visando o mesmo efeito jurídico da demanda anterior, definitivamente julgada pelo mérito, configurada está a ofensa à coisa julgada material, impondo-se a extinção do presente feito, sem resolução do mérito, nos termos do artigo 485, inciso V, do Código de Processo Civil.
+Condeno a parte autora ao pagamento dos honorários advocatícios, que arbitro em 10% sobre o valor da causa, nos termos do § 2º do artigo 85 do Código de Processo Civil, observando-se a suspensão de exigibilidade prevista no § 3º do artigo 98 do mesmo diploma legal.
+Diante do exposto, DE OFÍCIO, reconheço a existência de coisa julgada, devendo ser reformada a sentença para JULGAR EXTINTO O PROCESSO SEM RESOLUÇÃO DO MÉRITO, conforme o artigo 485, inciso V, do Código de Processo Civil, FICANDO PREJUDICADA A APELAÇÃO, nos termos da fundamentação.
+Assim, rever a conclusão adotada pelo acórdão recorrido - de que há, in casu, a existência de coisa julgada, ante a tríplice identidade entre as ações - requer o reexame de matéria fático-probatório de todos os argumentos invocados. Todavia, não cabe a esta Corte, a fim de alcançar conclusão diversa, reavaliar todo o conjunto de fatos e provas da causa, conforme preceitua a Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial.").
+Nesse sentido:
+ADMINISTRATIVO E PROCESSUAL CIVIL. AÇÃO DE EXECUÇÃO. AUSÊNCIA. OMISSÃO, ART. 535, II, DO CPC. FALTA PARCIAL DE PREQUESTIONAMENTO. SÚMULA 211/STJ. IMPOSSIBILIDADE DE REEXAMINAR O CONJUNTO FÁTICO-PROBATÓRIO PRODUZIDO NOS AUTOS. SÚMULA 7/STJ.
+1. Trata-se, na origem, de Embargos à Execução de Obrigação de Fazer propostos pelo Município de São Paulo contra execução de título judicial ajuizada pelo Sindicato dos Servidores Públicos Municipais.  ..  Segundo consta dos autos, a demanda versou sobre reajustes pertinentes aos quadrimestres de março a junho/1995 (9,51%), julho a outubro/1995 (7,55%), novembro/1997 a fevereiro/1998 (1,18%) e de março a junho/1998 (1,10%), com fundamento na Lei 11.722/1995, além da devolução dos percentuais de reajustes excluídos, por compensação, elencados no art. 2º da Lei nº 12.397/1997.
+ ..
+7. A Corte local salientou que deliberou anteriormente sobre a classificação da demanda em Ação Coletiva e, dessa maneira, não caberia mais se manifestar sobre o tema. Por outro lado, o acórdão reprochado deixou registrado que os recorrentes, nos Embargos à Execução, confirmaram a existência de título judicial, portanto não poderia em seu recurso de Apelação modificar seu entendimento.
+8. Para alterar a conclusão a que chegou a Corte estadual sobre a violação à coisa julgada e à litispendência, é necessário o reexame de provas, impossível nos estritos limites de cognição do Recurso Especial, ante o óbice da Súmula 7 do Superior Tribunal de Justiça.
+9. Recurso Especial do Município de São Paulo parcialmente conhecido, e, nessa extensão, não provido, e Recurso Especial dos Servidores Municipais não conhecido.
+(REsp n. 1.800.115/SP, relator Ministro Herman Benjamin, Segunda Turma, julgado em 9/4/2019, DJe de 29/5/2019; sem grifos no original)
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO INTERNO NO RECURSO ESPECIAL. SERVIDOR PÚBLICO FEDERAL. DNIT. ENQUADRAMENTO. LEI 11.171/2005. PRAZO PRESCRICIONAL. TESE DE RECONHECIMENTO DE LITISPENDÊNCIA E COISA JULGADA REFUTADA PELA CORTE DE ORIGEM, A PARTIR DAS PREMISSAS FÁTICAS DOS AUTOS. INCIDÊNCIA DA SÚMULA 7/STJ. AGRAVO INTERNO DA UNIÃO A QUE SE NEGA PROVIMENTO.
+1. A inversão conclusão firmada pela Corte de origem, refutando a configuração de litispendência e coisa julgada - demanda a análise minuciosa dos elementos configuradores da litispendência entre ações (identidade de partes, de causa de pedir e do pedido), o que implica, necessariamente, no reexame do conjunto fático-probatório dos autos, atraindo a incidência da Súmula 7/STJ.
+2. Quanto à tese de prescrição de fundo de direito, como bem pontua o acórdão recorrido, a parte autora não se volta contra a extinção do DNER, ocorrida em 2001. A ação busca a correção do enquadramento legal decorrente da Lei 11.171/2005, assim, tendo a ação sido proposta em 11.12.2009, não há que se falar em prescrição de fundo de direito.
+3. Agravo Interno da UNIÃO a que se nega provimento.
+(AgInt no REsp n. 1.505.896/SC, relator Ministro Napoleão Nunes Maia Filho, Primeira Turma, julgado em 12/2/2019, REPDJe de 26/2/2019, DJe de 25/02/2019; sem grifos no original)
+Ante o exposto, CONHEÇO do agravo para NÃO CONHECER do recurso especial.
+Em atenção ao disposto no § 11, do Código de Processo Civil, majoro art. 85, os honorários advocatícios em 10% (dez por cento) sobre o valor já arbitrado (fl. 172), respeitados os limites estabelecidos nos §§ 2º e 3º do mesmo artigo, bem como eventual concessão da gratuidade de justiça.
+É como voto.
