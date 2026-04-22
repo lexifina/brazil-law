@@ -1,0 +1,57 @@
+DECISÃO
+Examina-se agravo em recurso especial interposto por FGR INCORPORACOES JARDINS CANNES SPE LTDA contra decisão que inadmitiu recurso especial fundamentado nas alíneas "a" e "c" do permissivo constitucional.
+Agravo em recurso especial interposto em: 27/10/2025.
+Concluso ao gabinete em: 9/4/2026.
+Ação: de rescisão contratual c/c declaratória de nulidade e restituição de parcelas pagas, ajuizada por FABRICIO MARTINS BORGES em face de FGR INCORPORACOES JARDINS CANNES SPE LTDA.
+Sentença: julgou parcialmente procedente para: a) confirmar a tutela de urgência concedida e declarar rescindido o contrato firmado entre as partes; b) condenar o autor a devolver o imóvel situado à Quadra 5, Lote 26, Jardins Cannes, no prazo de 15 dias; e c) condenar o requerido ao pagamento, a título de restituição, em parcela única e imediata, das parcelas pagas pelo autor, acrescidas de correção monetária e juros de mora, deduzindo-se da referida quantia o percentual de 10%, além dos valores de IPTU, água, energia e taxa de condomínio eventualmente em aberto, além da taxa de corretagem, vedado qualquer desconto a título de taxa de fruição.
+Acórdão: deu provimento à apelação interposta pela parte agravada e negou provimento à interposta pela agravante, nos termos da seguinte ementa:
+DIREITO CIVIL E DO CONSUMIDOR. APELAÇÕES CÍVEIS. RESCISÃO CONTRATUAL. COMPRA E VENDA DE IMÓVEL. RETENÇÃO DE VALORES. CULPA DO CONSUMIDOR. HONORÁRIOS SUCUMBENCIAIS. SENTENÇA PARCIALMENTE REFORMADA.
+I. CASO EM EXAME
+1. Trata-se de apelações cíveis interpostas contra sentença que julgou parcialmente procedentes os pedidos iniciais de ação de rescisão contratual cumulada com declaração de nulidade de cláusulas e restituição de parcelas pagas. A ação foi ajuizada por promitente comprador em face de incorporadora, buscando a rescisão do contrato de compra e venda de imóvel, a devolução de encargos, comissão de corretagem e a restituição de 90% das parcelas pagas. A sentença declarou a rescisão, determinou a devolução do imóvel pelo autor e condenou a ré a restituir as parcelas pagas, com retenção de 10% e débitos do imóvel, vedada a taxa de fruição. Contudo, impôs os ônus sucumbenciais ao autor pela sucumbência mínima da ré. O autor apelou contra a condenação em honorários sucumbenciais, enquanto a ré apelou alegando ilegitimidade passiva quanto à comissão de corretagem, ausência de interesse processual do autor e necessidade de retenção de 10% do valor do contrato ou 25% das parcelas pagas.
+II. QUESTÃO EM DISCUSSÃO
+2. A questão consiste em: (a) saber se a incorporadora possui ilegitimidade passiva para o pedido de devolução de comissão de corretagem; (b) verificar a existência de interesse processual do autor quando o contrato já estaria rescindido; (c) definir o percentual e a base de cálculo da retenção de valores em caso de rescisão por culpa do promitente comprador, sob a égide da Lei nº 13.786/2018; e (d) analisar a correta distribuição dos ônus sucumbenciais, considerando a parcial procedência dos pedidos e o princípio da causalidade.
+III. RAZÕES DE DECIDIR
+3. Não há motivos para reforma em relação a comissão de corretagem, pois somente é possível recorrer de matéria da qual a parte restou sucumbente, o que não ocorre na situação em tela.
+4. O interesse processual do autor é evidente, dado que a ré ofereceu resistência à pretensão inicial, justificando a necessidade da ação judicial.
+5. A relação jurídica estabelecida entre as partes é de consumo, sendo aplicáveis as normas do Código de Defesa do Consumidor.
+6. Na resolução de contrato de compra e venda de imóvel por culpa do consumidor, a retenção de valores deve incidir sobre as parcelas efetivamente pagas, em percentual entre 10% e 25%, sendo abusiva a cláusula contratual que, mesmo sob a égide da Lei nº 13.786/2018, resulte na perda integral dos valores pagos, em ofensa ao Código de Defesa do Consumidor e à boa-fé contratual.
+7. Diante do êxito do autor na pretensão principal da demanda, qual seja, a rescisão contratual com restituição dos valores, a sucumbência da ré não pode ser considerada mínima, devendo os honorários advocatícios sucumbenciais serem integralmente imputados a ela.
+IV. DISPOSITIVO E TESE
+8. Segundo apelo parcialmente conhecido e desprovido. Primeiro apelo conhecido e provido. (e-STJ fls. 589-590)
+Recurso especial: alega violação dos arts. 32-A da Lei 6.766/1979 e 67-A da Lei 13.786/2018, bem como dissídio jurisprudencial. Sustenta, em síntese, a majoração do percentual de retenção, pela rescisão do contrato de compra e venda de imóvel por culpa do comprador, para 25%. Insurge-se contra a distribuição do ônus da sucumbência.
+RELATADO O PROCESSO, DECIDE-SE.
+- Da Súmula 568 do STJ
+O TJ/GO, ao julgar o recurso de apelação interposto pela parte agravante, concluiu o seguinte (e-STJ fls. 597-598):
+Quando à alegação da ré de ser devida a retenção de 10% (dez por cento) do valor do contrato, ou, subsidiariamente, ser devida a retenção de 25% (vinte e cinco por cento) das parcelas pagas, entendo que também não merece prosperar.
+A resolução do contrato de compra e venda de imóvel por culpa do consumidor gera o direito de retenção de parte do valor recebido pelo fornecedor, a fim de recompor eventuais perdas e custos inerentes ao negócio jurídico, devendo-se restituir o saldo remanescente de imediato e em parcela única.
+Nesse linear, o Superior Tribunal de Justiça e este Tribunal de Justiça alinham-se no sentido de permitir a retenção entre 10% (dez por cento) e 25% (vinte e cinco por cento) dos valores pagos pelo promitente comprador.
+No presente caso, o contrato em discussão prevê retenção de 10% (dez por cento) do valor total da venda (mov. 01, arq. 10).
+Contudo, a despeito do contrato em análise ter sido celebrado em 22/07/2022 - data posterior à vigência da Lei nº 13.786/2018 (Lei do Distrato) - , não deve a ele ser aplicado o artigo 32-A, da Lei nº 6.766/1979.
+Isso porque, nos termos do artigo 413, do Código Civil, a penalidade deve ser reduzida equitativamente pelo juiz se a obrigação principal tiver sido cumprida em parte, ou se o montante da penalidade for manifestamente excessivo, tendo-se em vista a natureza e a finalidade do negócio.
+Rememora-se, ainda, que à relação estabelecida entre as partes aplica-se o Código de Defesa do Consumidor e conforme posto pelo magistrado de origem, deve- se buscar a função social do contrato. Isto posto, acaso se aplique o disposto no inciso II, do artigo 32-A, da Lei nº 6.766/79, o montante devido por cláusula penal e despesas administrativas, inclusive arras ou sinal, ficaria limitado a 10% (dez por cento) do valor atualizado do contrato, o que redundaria em PERDA INTEGRAL DAS PARCELAS PAGAS.
+Significa que a retenção de 10% (dez por cento) do valor atualizado do contrato afronta o artigo 53, do Código de Defesa do Consumidor, e as demais normas no que tange à adequação e boa-fé contratual, porque colocaria uma parte em situação de extrema desvantagem em relação à outra, já que haveria perda da integralidade de valores pagos pelo consumidor, devendo a multa portanto incidir apenas sobre o total efetivamente pago e nos percentuais entre 10% (dez por cento) e 25% (vinte e cinco por cento).
+ ..
+Dessa forma, necessária a manutenção da sentença na parte em que estabelece a retenção de 10% (dez por cento) das parcelas pagas.
+Da leitura dos trechos acima, verifica-se a decisão proferida pelo TJ/SP não destoa da jurisprudência do STJ que é no sentido da razoabilidade de retenção dos pagamentos realizados até a rescisão operada entre 10% (dez por cento) e 25% (vinte e cinco por cento), conforme as circunstâncias do caso concreto. Ademais, no caso, a retenção foi de 10%, conforme previsão contratual expressa.
+Nesse sentido: REsp n. 2.126.664/RJ, Quarta Turma, DJEN de 19/12/2025; AgInt no AREsp n. 2.860.032/MS, Quarta Turma, DJEN de 28/8/2025.
+Assim, com fundamento na Súmula 568/STJ, o recurso não deve ser provido.
+- Da existência de fundamento não impugnado
+A parte agravante não impugnou o fundamento utilizado pelo TJ/GO, quanto à inaplicabilidade do art. 32-A da Lei 6.766/1979 frente ao poder do juiz de reduzir equitativamente a penalidade quando a obrigação principal tiver sido cumprida em parte ou o montante for manifestamente excessivo, razão pela qual deve ser mantido o acórdão recorrido. Aplica-se, na hipótese, a Súmula 283/STF.
+Nesse sentido: AgInt no REsp 2.072.391/SP, Quarta Turma, DJe de 25/4/2024; e AgInt no REsp n. 2.013.576/SP, Terceira Turma, DJe de 11/4/2024.
+- Do reexame de fatos e provas e da interpretação de cláusulas contratuais
+Alterar o decidido no acórdão impugnado, no que se refere ao percentual de retenção devido ante a rescisão do contrato de compra e venda, bem como quanto à distribuição do ônus da sucumbência, exige o reexame de fatos e provas e a interpretação de cláusulas contratuais, o que é vedado em recurso especial pelas Súmulas 5 e 7, ambas do STJ.
+Desse modo, não é possível que sejam revisitados fatos ou que seja conferida nova interpretação de cláusula contratual, uma vez que são matérias ligadas à demanda e alheias à função desta Corte Superior que é a uniformização da interpretação da legislação federal.
+- Da divergência jurisprudencial
+Além disso, a incidência da Súmula 7 desta Corte acerca do tema que se supõe divergente, percentual de retenção devido ante a rescisão do contrato de promessa de compra e venda, impede o conhecimento da insurgência veiculada pela alínea "c" do art. 105, III, da Constituição da República. Isso porque, a demonstração da divergência não pode estar fundamentada em questões de fato, mas apenas na interpretação do dispositivo legal. Nesse sentido: AgInt no AREsp n. 1.974.371/RJ, Terceira Turma, DJe de 22/11/2023 e REsp n. 1.907.171/RJ, Quarta Turma, DJe de 11/1/2024.
+Forte nessas razões, CONHEÇO do agravo e, com fundamento no art. 932, III, do CPC, NÃO CONHEÇO do recurso especial.
+Nos termos do art. 85, § 11, do CPC, considerando o trabalho adicional imposto ao advogado da parte agravada em virtude da interposição deste recurso, majoro os honorários fixados anteriormente em 15% sobre o valor da condenação (e-STJ fl. 599) para 20%.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar sua condenação às penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO DE RESCISÃO CONTRATUAL C/C DECLARATÓRIA DE NULIDADE E RESTITUIÇÃO DE PARCELAS PAGAS. ACÓRDÃO EM CONSONÂNCIA COM A JURISPRUDÊNCIA DESTA CORTE. SÚMULA 568/STJ. FUNDAMENTO DO ACÓRDÃO NÃO IMPUGNADO. SÚMULA 283/STF. REEXAME DE FATOS. INTERPRETAÇÃO DE CLÁUSULAS CONTRATUAIS. INADMISSIBILIDADE. DISSÍDIO PREJUDICADO.
+1. Ação de rescisão contratual c/c declaratória de nulidade e restituição de parcelas pagas.
+2. Razoabilidade de retenção dos pagamentos realizados até a rescisão operada entre 10% (dez por cento) e 25% (vinte e cinco por cento), conforme as circunstâncias do caso concreto. Julgados desta Corte.
+3. A existência de fundamento do acórdão recorrido não impugnado - quando suficiente para a manutenção de suas conclusões - impede a apreciação do recurso especial.
+4. O reexame de fatos e a interpretação de cláusulas contratuais em recurso especial são inadmissíveis.
+5. A incidência da Súmula 7/STJ prejudica a análise do dissídio jurisprudencial pretendido. Precedentes desta Corte.
+6. Agravo conhecido. Recurso especial não conhecido.
