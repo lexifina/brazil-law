@@ -1,0 +1,124 @@
+Poder Judiciário da UniãoTRIBUNAL DE JUSTIÇA DO DISTRITO FEDERAL E DOS TERRITÓRIOS
+
+Órgão
+3ª Turma Criminal
+Processo N.HABEAS CORPUS CRIMINAL 0708624-20.2026.8.07.0000PACIENTE(S)ALYNE REZENDE VIEIRA NEVESIMPETRANTE(S)CARLOS EDUARDO DA SILVA OLIVEIRAAUTORIDADE(S)JUÍZO DA 1ª VARA DE ENTORPECENTES DO DFRelatorDesembargador CRUZ MACEDO
+ Acórdão Nº2115548
+
+EMENTA
+
+DIREITO PROCESSUAL PENAL. HABEAS CORPUS. TRÁFICO DE DROGAS. PRISÃO PREVENTIVA. FUNDAMENTAÇÃO CONCRETA. GARANTIA DA ORDEM PÚBLICA. INGRESSO DOMICILIAR SEM MANDADO. FUNDADAS RAZÕES. CRIME PERMANENTE. MEDIDAS CAUTELARES DIVERSAS INSUFICIENTES. ORDEM DENEGADA.
+
+I. CASO EM EXAME
+
+1. Habeas corpus, com pedido liminar, impetrado em favor de paciente presa preventivamente por suposta prática do crime do art. 33, caput, da Lei n. 11.343/2006, contra decisão do Juízo da 1ª Vara de Entorpecentes do Distrito Federal que manteve a custódia cautelar. A Defesa sustenta ausência de fundamentação concreta da prisão preventiva, ilegalidade do ingresso policial no domicílio sem mandado judicial, desnecessidade da segregação diante da primariedade, bons antecedentes, residência fixa e ocupação lícita da paciente, além da suficiência de medidas cautelares diversas da prisão. Requer a concessão da ordem para que a paciente responda ao processo em liberdade.
+
+II. QUESTÃO EM DISCUSSÃO
+
+2. Há três questões em discussão: (i) definir se a prisão preventiva está concretamente fundamentada nos requisitos do art. 312 do Código de Processo Penal; (ii) estabelecer se o ingresso policial no domicílio da paciente, sem mandado judicial, ocorreu com fundadas razões aptas a afastar a alegação de ilicitude da prova; (iii) determinar se as condições pessoais favoráveis da paciente autorizam a substituição da prisão preventiva por medidas cautelares diversas.
+
+III. RAZÕES DE DECIDIR
+
+3. A prisão preventiva é legítima quando fundamentada em elementos concretos extraídos do caso, aptos a demonstrar risco à ordem pública e probabilidade de reiteração delitiva.
+
+4. A expressiva quantidade e variedade de entorpecentes, aliadas à apreensão de instrumentos próprios da traficância, evidenciam estrutura voltada à comercialização ilícita de drogas e demonstram risco concreto de reiteração delitiva, o que justifica a custódia cautelar para garantia da ordem pública, nos termos do art. 312 do CPP.
+
+5. O ingresso policial no domicílio não decorre de mera suspeita genérica, mas de monitoramento prévio e de elementos concretos colhidos durante a abordagem, aptos a configurar fundadas razões de que no interior do imóvel havia situação de flagrante delito.
+
+6. O tráfico de drogas, na modalidade de ter em depósito, possui natureza permanente, de modo que o estado de flagrância subsiste enquanto perdurar a guarda do entorpecente, o que autoriza o ingresso domiciliar sem mandado judicial quando posteriormente justificadas as fundadas razões, em conformidade com o art. 5º, XI, da Constituição Federal e com o Tema 280 do STF.
+
+7. As condições pessoais favoráveis da paciente, embora relevantes, não afastam a prisão preventiva quando presentes prova da materialidade, indícios suficientes de autoria e elementos concretos demonstrativos da necessidade da segregação cautelar.
+
+8. Medidas cautelares diversas da prisão são insuficientes quando a gravidade concreta da conduta e a estrutura da traficância revelam risco efetivo à ordem pública.
+
+IV. DISPOSITIVO
+
+9. Ordem denegada.
+
+ACÓRDÃO
+
+Acordam os Senhores Desembargadores do(a) 3ª Turma Criminal do Tribunal de Justiça do Distrito Federal e dos Territórios, CRUZ MACEDO - Relator, DEMETRIUS GOMES CAVALCANTI - 1º Vogal e NILSONI DE FREITAS CUSTODIO - 2º Vogal, sob a Presidência da Senhora Desembargadora NILSONI DE FREITAS CUSTODIO, em proferir a seguinte decisão: CONHECER E DENEGAR A ORDEM. UNÂNIME., de acordo com a ata do julgamento e notas taquigráficas.
+
+Brasília (DF), 30 de abril de 2026
+
+Desembargador CRUZ MACEDORelator
+
+RELATÓRIO
+
+Cuida-se de habeas corpus, com pedido liminar, impetrado pelo advogado CARLOS EDUARDO DA SILVA OLIVEIRA em favor de ALYNE REZENDE VIEIRA NEVES, apontando como autoridade coatora o Juízo da 1ª Vara de Entorpecentes do Distrito Federal, que manteve a prisão preventiva da paciente em ação penal na qual lhe é imputada a prática do crime previsto no art. 33, caput, da Lei n. 11.343/2006 (tráfico de drogas).
+
+Sustenta a Defesa que a paciente se encontra submetida a constrangimento ilegal, pois a prisão preventiva teria sido mantida sem fundamentação concreta, baseada apenas na gravidade abstrata do delito e na quantidade de entorpecente apreendida.
+
+Afirma que requereu a revogação da custódia cautelar perante o juízo de origem, contudo, o pedido foi indeferido.
+
+Argumenta que a decisão impugnada não demonstrou risco concreto à ordem pública, à instrução criminal ou à aplicação da lei penal, limitando-se a invocar fundamentos genéricos. Sustenta, ainda, que o ingresso policial na residência da paciente ocorreu sem mandado judicial e sem a demonstração de fundadas razões que justificassem a medida, em violação ao art. 5º, inciso XI, da Constituição Federal, o que contaminaria as provas obtidas.
+
+Ressalta que a paciente é primária, possui bons antecedentes, residência fixa e exerce atividade remunerada, circunstâncias que evidenciariam a desnecessidade da prisão cautelar, sendo suficientes medidas cautelares diversas da prisão. Alega, ainda, que a prisão preventiva se mostra desproporcional e configura antecipação indevida de pena.
+
+Por entender presentes os requisitos que autorizam a medida, requer a concessão liminar da ordem de habeas corpus, para que a paciente seja colocada em liberdade. No mérito, a confirmação da ordem, para que a custodiada responda ao processo em liberdade, com ou sem imposição de medidas cautelares diversas.
+
+Em decisão de id 81788575, o pedido liminar foi indeferido.
+
+O Juízo prestou informações em id 81942917.
+
+A Procuradoria de Justiça manifestou-se em id 82251196, pela denegação da ordem.
+
+É o relatório.
+
+VOTOS
+
+O Senhor Desembargador CRUZ MACEDO - Relator
+
+Presentes os pressupostos de admissibilidade, conheço do habeas corpus.
+
+Apesar dos argumentos da Defesa, não vejo configurada ilegalidade ou abuso de poder que justifique o reconhecimento, pela presente via constitucional, da alegada coação ilegal imposta à paciente.
+
+Da análise do feito principal n. 0707713-05.2026.8.07.0001, é possível verificar que tanto a decisão que converteu em preventiva a prisão em flagrante da paciente quanto a que a manteve estão bem fundamentadas, sem qualquer ofensa ao inciso IX do art. 93 da Constituição Federal, não havendo ilegalidade manifesta ou teratologia que justifique a liberação da paciente, como pretende a Defesa.
+
+Confira-se em id 265788714do processo principal:
+
+(...) No caso concreto, há elementos robustos que evidenciam o fumus comissi delicti. O auto de prisão em flagrante descreve, de forma coerente e circunstanciada, que ALYNE e GUSTAVO foram monitorados pela inteligência da PMDF e identificados em condutas típicas de tráfico de drogas, inclusive realizando deslocamentos suspeitos em veículo locado (APF, Relato). Durante a tentativa de abordagem, os flagranteados teriam desobedecido ordens legais, empreendido fuga em alta velocidade e efetuado manobras perigosas, configurando indícios de desobediência e risco à coletividade. No trajeto da fuga, teriam lançado pela janela duas porções de droga fracionada, já acondicionada em embalagens típicas do comércio ilícito, reforçando os indícios de autoria. Além disso, a busca pessoal resultou na apreensão de alta quantia em espécie (R$ 1.700,00 com ALYNE) e, posteriormente, mediante uso das chaves do imóvel encontradas no veículo, a equipe localizou na residência substancial quantidade de drogas — cerca de 1 kg de cocaína e 1 kg de maconha, segundo laudo de ID 265777707 — além de 3 balanças de precisão e diversos “ziplocks” (ID 265777705), o que indica preparação para fracionamento e venda, corroborando o modus operandi típico da narcotraficância. No tocante ao periculum libertatis, a gravidade concreta da conduta é evidente. A grande quantidade de cocaína — droga de alto valor e elevado potencial lesivo — demonstra significativo poder financeiro e capacidade de inserção no mercado ilícito, circunstância que agrava a periculosidade dos flagranteados. Igualmente, a presença de grande quantidade de maconha, balanças, embalagens e dinheiro reforça o risco concreto de reiteração delitiva, pois tudo indica estrutura operacional organizada para o tráfico. Em relação a GUSTAVO, a FAP (ID 265775713) demonstra reincidência específica em crime de tráfico de drogas, circunstância que, nos termos do art. 310, § 2º, do CPP, impede a concessão de liberdade provisória. Ademais, tal reincidência revela probabilidade elevada de reiteração criminosa. Consoante sedimentado em farta jurisprudência desta Corte Superior, maus antecedentes, reincidência, atos infracionais pretéritos ou até mesmo outras ações penais em curso justificam a imposição de segregação cautelar como forma de evitar a reiteração delitiva e, assim, garantir a ordem pública (STJ - AgRg no HC n. 813.662/RS, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 14/8/2023, DJe de 16/8/2023). Quanto a ALYNE, ainda que tecnicamente primária (ID 265775714), tal circunstância não é capaz de atenuar a gravidade concreta da conduta, especialmente diante do montante expressivo de drogas apreendidas e da existência de indícios de que participava diretamente da atividade ilícita, inclusive com o fornecimento do veículo de locação e com a guarda de valores em espécie. A primariedade, portanto, não impede a constatação de elevada periculosidade, nem reduz o risco concreto de reiteração delitiva. Ademais, o modo de agir aponta para possível afastamento futuro da minorante do art. 33, § 4º, da Lei 11.343/2006, reforçando a necessidade da medida extrema. Também se nota a existência de elementos próprios do art. 310, § 5º, que recomendam a conversão do flagrante em preventiva: os autuados empreenderam fuga, demonstrando resistência ao cumprimento da lei; e há fundado risco de perturbação da instrução e reiteração delitiva, dada a estrutura de tráfico e os recursos financeiros envolvidos. De igual modo, o art. 312, §§ 3º e 4º, reforça a imprescindibilidade da custódia cautelar diante do modus operandi sofisticado, da expressiva quantidade de droga, da natureza altamente lesiva da cocaína e da presença de instrumentos típicos da traficância. Por fim, não é possível substituir a prisão preventiva por medidas cautelares diversas, a teor do art. 282, § 6º, do CPP. As circunstâncias concretas — grande quantidade de drogas, dinheiro, instrumentos de fracionamento, tentativa de fuga e reincidência específica de GUSTAVO — revelam risco efetivo à ordem pública e à aplicação da lei penal, incompatíveis com medidas menos gravosas, que se mostrariam insuficientes e inadequadas diante da gravidade da estrutura delitiva evidenciada. Diante de todo o exposto, a prisão preventiva revela-se necessária, adequada e proporcional.
+
+Ao se manifestar sobre o pedido de revogação da prisão cautelar, o Juízo competente assim se manifestou (id 267496504 dos autos principais):
+
+(...) Voltando a análise ao acervo processual, não se verifica qualquer circunstância fática e/ou jurídica superveniente que venha infirmar as razões de convicção externadas na decisão que decretou a prisão preventiva do postulante, restando, pois, seus fundamentos intactos, conforme se passará a demonstrar. Saliente-se, por oportuno, que a manutenção da cautelar prisional não exige a demonstração de fatos novos, bastando a persistência das circunstâncias existentes ao tempo de decretação/conversão da medida. (...) No caso em tela, a gravidade concreta da conduta praticada pela requerente, notadamente em face da apreensão de significativa quantidade e da diversidade de entorpecentes, demonstra, por si só, que a ordem pública merece ser resguardada. Verdadeiramente, resta evidenciada conduta tipicamente associada ao tráfico, porquanto se presume a impossibilidade de distribuição da grande quantidade de entorpecente em um único ato, evidenciando-se, assim, o risco de reiteração criminosa. (...) Tecidas tais considerações, no caso em análise, não há falar em violação de domicílio no caso vertente, uma vez que os agentes públicos se encontravam resguardados pela exceção inserta no mencionado art. 5º, inc. XI, da Magna Carta, qual seja, o flagrante delito, pela prática de tráfico de drogas, posto que consta dos autos que os agentes públicos relataram haver informações prévias de que o veículo utilizado pelos acusados, na data dos fatos, estaria vinculado a atividades relacionadas ao tráfico de entorpecentes. Ao avistarem referido automóvel nas imediações da estação de metrô de Taguatinga Sul, os policiais militares procederam à emissão de ordem legal de parada, mediante sinais luminosos e sonoros. Todavia, o denunciado Gustavo, condutor do veículo, desobedeceu a determinação e empreendeu fuga em alta velocidade. Durante a perseguição, a denunciada Alyne, passageira do automóvel, foi visualizada arremessando objetos pela janela. Após a interceptação, os acusados abandonaram o veículo e tentaram evadir-se a pé, sendo imediatamente contidos pelos agentes. Em diligência subsequente, os policiais retornaram ao ponto indicado por testemunha presencial, onde localizaram dois invólucros contendo substância entorpecente, posteriormente identificada como cocaína. Na busca pessoal realizada em Alyne, foi encontrada a quantia de R$ 1.700,00 (mil e setecentos reais) em espécie, oculta em suas vestes íntimas. Já na revista veicular, localizou-se uma chave correspondente ao imóvel situado na QS 5, endereço previamente monitorado pelo serviço de inteligência policial. Questionado, Gustavo autorizou a entrada dos policiais no referido imóvel, ocasião em que se constatou intenso odor de maconha, além da apreensão de expressiva quantidade de substâncias entorpecentes, dinheiro em espécie (R$ 1.726,00 [mil, setecentos e vinte e seis reais]), diversas embalagens plásticas e papel filme destinados ao fracionamento da droga, três balanças de precisão e dois aparelhos celulares, de modo que, analisados em conjunto, configuraram as fundadas razões e suspeita, conforme previsto no art. 240, §§ 1º e 2º, do CPC. Além do mais, é sabido que o crime de tráfico de drogas é de natureza permanente, protraindo no tempo, pois, a situação de flagrante, a autorizar, por conseguinte, o ingresso dos agentes estatais no domicílio do(a) imputado(a), justamente por configurar exceção ao princípio constitucional da inviolabilidade domiciliar (CF, artigo 5º, XI). Além de tudo, foi atendida a inteligência contida no tema 280 do STF: “A entrada forçada em domicílio sem mandado judicial só é lícita, mesmo em período noturno, quando amparada em fundadas razões, devidamente justificadas a posteriori, que indiquem que dentro da casa ocorre situação de flagrante delito, sob pena de responsabilidade disciplinar, civil e penal do agente ou da autoridade, e de nulidade dos atos praticados.” - Condições pessoais favoráveis do(a) postulante. Ademais, as condições pessoais favoráveis da postulante (primariedade, bons antecedentes, trabalho lícito e residência fixa no distrito da culpa) não são suficientes para, de per si, autorizar o acolhimento do pedido em análise quando ocorrentes os motivos legitimadores da sua constrição provisória. (...) Assim sendo, resta evidente que nenhuma das medidas cautelares dispostas no artigo 319 do Código de Processo Penal mostra-se eficaz, adequada e suficiente para o caso em questão. - Desproporcionalidade da prisão em cotejo à futura pena e ao regime prisional a ser aplicado. Como é cediço, a alegação de desproporcionalidade da prisão preventiva somente poderá ser verificada após a prolação de sentença, sendo descabida, durante o curso do processo, a antecipação da análise da pena e do regime prisional a serem futuramente aplicados, sob pena de exercício de adivinhação e futurologia, os quais, a toda evidência, carecem de fundamentação legal. (...)Ante o exposto, presentes o fumus comissi delicti e o periculum libertatis, mostrando-se, pois, indevida e insuficiente a aplicação de medidas cautelares diversas da prisão, indefere-se o pedido de revogação da prisão preventiva.
+
+Ao contrário do que alega a Defesa, da análise dos conteúdos acima transcritos, observa-se que as decisões não só individualizam a conduta atribuída à paciente, que foi presa em flagrante delito, com grande quantidade de droga, após tentativa frustrada de fuga, como também apontam, concretamente, a sua periculosidade e o risco de reiteração delitiva que autorizam a prisão cautelar.
+
+Os elementos constantes dos autos principais n. 0707713-05.2026.8.07.0001 indicam a presença dos pressupostos e requisitos autorizadores da prisão preventiva. Há prova da materialidade delitiva e indícios suficientes de autoria, bem como circunstâncias concretas aptas a evidenciar o perigo decorrente da liberdade da paciente.
+
+Conforme registrado na decisão impugnada, a paciente e o comparsa foram monitorados pela inteligência policial e identificados em condutas típicas de tráfico de drogas, tendo empreendido fuga durante tentativa de abordagem policial e arremessado porções de entorpecentes pela janela do veículo. Posteriormente, foram apreendidos valores em dinheiro, expressiva quantidade de drogas - cerca de um quilo de cocaína e um quilo de maconha - além de balanças de precisão e embalagens plásticas utilizadas para fracionamento da substância.
+
+O laudo de perícia criminal – exame preliminar – de id 265777707 atesta não só a grande quantidade de droga apreendida, como também a natureza das substâncias. Além disso, o documento confirma a apreensão de três balanças digitais e cinco pacotes com diversos sacos plásticos, com fechamento adesivo e tipo “ziplock”, elementos que confirmam a prática delitiva.
+
+Ademais, as circunstâncias do flagrante evidenciam a gravidade concreta da conduta, bem como indicam a existência de estrutura voltada à comercialização de entorpecentes, tudo a revelar o risco concreto de reiteração delitiva e justificar a custódia cautelar como forma de garantia da ordem pública, nos termos do art. 312 do Código de Processo Penal.
+
+Do mesmo modo, não há falar em ilegalidade na busca domiciliar, pois o ingresso dos policiais na residência não decorreu de mera intuição ou diligência exploratória, mas sim de monitoramento policial prévio, apto a fornecer fundadas razões, objetivamente aferíveis, de que no interior do imóvel se desenvolvia atividade delitiva.
+
+Na ocorrência policial de id 265777712 dos autos principais consta que:
+
+Segundo os elementos informativos até o momento coligidos, uma equipe da Polícia Militar do Distrito Federal (PMDF), no exercício de suas atribuições, integrante do serviço de inteligência do 17º Batalhão, identificou condutas típicas de tráfico realizadas pelo casal ALYNE e GUSTAVO HENRIQUE, praticadas em Taguatinga e Areal, por meio do veículo VW / T-CROSS, Placa UAX2B28/ UF, em monitoramento realizado em 13/2/2026, às 17h, nas imediações da residência do casal, na QS 5, Rua 800, Lote 7, Areal/DF até a QS5, metrô pistão sul. O fato foi comunicado à equipe ostensiva, para realizar abordagem. (...) No veículo, foram encontradas as chaves da residência do casal. Em razão da ciência do local da residência, por conta do anterior monitoramento, a equipe policial foi até o endereço, onde foram encontradas armazenadas dois blocos, envoltos em saco plástico, de substância em pó embranquecido, análoga à cocaína; trinta e nove envelopes plásticos com vedação hermética com substância empedrada de cor branca, semelhante à cocaína; dois blocos de substância pardo esverdeada prensada, com início de fragmentação, semelhante à maconha; (15) porções, em envelope com vedação hermética, de substância envolvida em plástico filme, esverdeadas, análogas a maconha; 3 balanças de precisão; diversos sacos de vedação hermética; R$1.726,00 (mil setecentos e vinte e seis reais) em espécie.
+
+A jurisprudência do Supremo Tribunal Federal firmou-se no sentido de que o ingresso forçado em domicílio, sem mandado judicial, somente é legítimo quando amparado em elementos concretos que indiquem situação de flagrante, justificáveis posteriormente, nos termos do art. 5º, inciso XI, da Constituição.
+
+No caso, como se viu, tais elementos estavam presentes, especialmente porque o delito de tráfico de drogas, na modalidade “ter em depósito”, prevista no art. 33 da Lei n. 11.343/2006, possui natureza permanente, protrai-se no tempo e faz subsistir o estado de flagrância enquanto perdurar a guarda do entorpecente. Assim, evidenciado que a diligência policial foi precedida de investigação e monitoramento prévio aptas a demonstrar a probabilidade concreta da ocorrência do crime no local, mostra-se lícita a entrada no imóvel para fazer cessar a permanência delitiva e apreender a substância entorpecente, não havendo nulidade a ser reconhecida, especialmente em sede de habeas corpus.
+
+No mais, apesar da alegada primariedade da paciente, os tribunais têm decidido que eventuais condições pessoais favoráveis, tais como ocupação lícita e residência fixa, não são elementos suficientes a garantir a sua liberdade, quando evidenciada a necessidade de segregação cautelar para garantir a ordem pública, a ordem econômica, por conveniência da instrução criminal, ou para assegurar a aplicação da lei penal, quando houver prova da existência do crime e indícios suficientes de autoria, nos termos do art. 312 do Código de Processo Penal, exatamente como no presente caso. Colhe-se o seguinte julgado sobre o tema:
+
+DIREITO PROCESSUAL PENAL. HABEAS CORPUS. TRÁFICO DE DROGAS. PRISÃO PREVENTIVA. GRAVIDADE CONCRETA DA CONDUTA. QUANTIDADE E VARIEDADE DE DROGAS APREENDIDAS. REQUISITOS DO ART. 312 DO CPP PREENCHIDOS. ORDEM DENEGADA. I. CASO EM EXAME 1. Habeas corpus impetrado contra decisão que indeferiu o pedido de revogação da prisão preventiva. O paciente foi preso em flagrante pela suposta prática de tráfico de drogas após a apreensão de 6 porções de maconha (13,51 g), 17,71 g de cocaína, 21 comprimidos de MDA e apetrechos relacionados à comercialização de entorpecentes, como balança de precisão e embalagens tipo ziplock. II. QUESTÃO EM DISCUSSÃO 2. Há duas questões em discussão: (i) se a gravidade da conduta justifica a manutenção da prisão preventiva; (ii) se as condições pessoais favoráveis do paciente e a alegação de ausência de alta periculosidade afastam a necessidade da segregação cautelar. III. RAZÕES DE DECIDIR 3. A prisão preventiva está devidamente fundamentada nos requisitos do art. 312 do Código de Processo Penal, com base na necessidade de garantia da ordem pública e no perigo gerado pelo estado de liberdade do imputado, evidenciado pela apreensão de drogas variadas e instrumentos típicos do tráfico. 4. As circunstâncias do flagrante, incluindo o local dos fatos e a diversidade de substâncias entorpecentes apreendidas, indicam envolvimento do paciente com a mercancia ilícita de drogas, justificando a segregação cautelar. 5. A presença de condições pessoais favoráveis, como residência fixa, ocupação lícita e primariedade, não é suficiente para afastar a prisão preventiva quando presentes elementos que demonstrem a necessidade de sua manutenção. 6. A alegação de que as drogas apreendidas seriam para uso pessoal é questão de mérito, a ser apurada na instrução penal, não cabendo análise aprofundada em sede de habeas corpus. 7. Medidas cautelares diversas da prisão, previstas no art. 319 do CPP, mostram-se inadequadas e insuficientes diante da gravidade concreta da conduta e do risco de reiteração delitiva. IV. DISPOSITIVO E TESE 8. Ordem de habeas corpus denegada. (Acórdão 1961873, 0701250-84.2025.8.07.0000, Relator(a): LEILA ARLANCH, 1ª TURMA CRIMINAL, data de julgamento: 06/02/2025, publicado no DJe: 13/02/2025.)
+
+Por fim, as circunstâncias do caso, notadamente a quantidade e diversidade de drogas apreendidas, bem como os instrumentos destinados ao fracionamento da substância, revelam que medidas cautelares diversas da prisão se mostram inadequadas e insuficientes para resguardar a ordem pública.
+
+Assim, diante dos elementos constantes dos autos, não se vislumbra o alegado constrangimento ilegal, pois persistem as razões justificadoras da prisão preventiva da paciente, cuja liberdade representa risco concreto à ordem pública.
+
+DISPOSITIVO
+
+Com tais fundamentos, DENEGO A ORDEM de habeas corpus.
+
+É como voto.
+
+O Senhor Desembargador DEMETRIUS GOMES CAVALCANTI - 1º Vogal Com o(a) relator(a)A Senhora Desembargadora NILSONI DE FREITAS CUSTODIO - 2º Vogal Com o(a) relator(a)
+
+DECISÃO
+
+CONHECER E DENEGAR A ORDEM. UNÂNIME.
