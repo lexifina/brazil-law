@@ -1,0 +1,33 @@
+DECISÃO
+Cuida-se de recurso especial interposto por COOPERATIVA DE CREDITO VALE DO ITAJAI VIACREDI, com fundamento no artigo 105, inciso III, alíneas "a" e "c", da Constituição Federal, contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SANTA CATARINA, que julgou demanda relativa a leilão extrajudicial.
+O julgado negou provimento ao recurso de apelação nos termos da seguinte ementa (fl. 364):
+EMENTA: DIREITO CIVIL. APELAÇÃO CÍVEL. NULIDADE DE LEILÃO EXTRAJUDICIAL. AUSÊNCIA DE NOTIFICAÇÃO PESSOAL DO DEVEDOR. NULIDADE DO PROCEDIMENTO.
+I. CASO EM EXAME
+1. A PARTE AUTORA AJUIZOU AÇÃO VISANDO À DECLARAÇÃO DE NULIDADE DE EDITAL E LEILÕES EXTRAJUDICIAIS, ALEGANDO QUE NÃO FOI DEVIDAMENTE NOTIFICADA PARA PURGAR A MORA, O QUE COMPROMETEU A VALIDADE DO PROCEDIMENTO DE CONSOLIDAÇÃO DA PROPRIEDADE DO IMÓVEL DADO EM GARANTIA EM CONTRATO DE ALIENAÇÃO FIDUCIÁRIA. II. QUESTÃO EM DISCUSSÃO
+2. HÁ DUAS QUESTÕES EM DISCUSSÃO: (I) SABER SE HOUVE A NOTIFICAÇÃO PESSOAL DO DEVEDOR ACERCA DAS DATAS DOS LEILÕES; E (II) SABER SE A AUSÊNCIA DE NOTIFICAÇÃO COMPROMETE A VALIDADE DO PROCEDIMENTO DE ALIENAÇÃO FIDUCIÁRIA. III. RAZÕES DE DECIDIR
+3. A NOTIFICAÇÃO PESSOAL DO DEVEDOR É REQUISITO ESSENCIAL PARA A VALIDADE DO LEILÃO EXTRAJUDICIAL, CONFORME DISPOSTO NO ART. 27 DA LEI N. 9.514/1997. A AUSÊNCIA DESSA NOTIFICAÇÃO INVIABILIZA O EXERCÍCIO DO DIREITO DE PREFERÊNCIA E A PURGAÇÃO DA MORA, CONFIGURANDO VIOLAÇÃO AO DEVIDO PROCESSO LEGAL.
+4. NO CASO CONCRETO, RESTOU COMPROVADO QUE A NOTIFICAÇÃO FOI ENVIADA A ENDEREÇO DIVERSO DO PACTUADO, O QUE COMPROMETE A VALIDADE DO ATO E FUNDAMENTA A NULIDADE DO PROCEDIMENTO DE ALIENAÇÃO.
+IV. DISPOSITIVO E TESE
+5. RECURSO CONHECIDO E DESPROVIDO.
+Rejeitados os embargos de declaração opostos (fls. 373-376).
+A parte recorrente sustenta violação do art. 1.022, II, do CPC, ao argumento de que o Tribunal de origem, mesmo após a oposição de embargos de declaração, permaneceu omisso quanto à análise de documento superveniente juntado na fase recursal, limitando-se a afirmar que a controvérsia estaria suficientemente decidida.
+Aponta, ainda, ofensa aos arts. 435, parágrafo único, e 489, § 1º, IV, do CPC, defendendo a possibilidade de juntada e apreciação de documento novo em grau recursal, desde que observados os princípios da boa-fé, lealdade processual e contraditório, bem como a necessidade de enfrentamento de todos os fundamentos relevantes ao deslinde da controvérsia. Indica também violação do art. 27, §§ 2º-A e 2º-B, da Lei n. 9.514/1997, sustentando ter comprovado a regular notificação do devedor acerca dos leilões, ponto que não teria sido examinado em razão da não apreciação do documento.
+Alega a inaplicabilidade das Súmulas 7 e 83 do STJ, por não pretender reexame de provas, mas apenas o reconhecimento da nulidade por ausência de apreciação do documento.
+Por fim, suscita divergência jurisprudencial, indicando como paradigma o REsp n. 1.121.031/MG e outros precedentes, no sentido da admissibilidade excepcional de juntada de documento novo na fase recursal, desde que preservado o contraditório e ausente má-fé.
+Apresentadas as contrarrazões (fls. 413-425), sobreveio o juízo de admissibilidade positivo da instância de origem (fls. 426-428.
+É, no essencial, o relatório.
+O recurso especial tem origem em ação anulatória, na qual se declarou a nulidade do leilão extrajudicial do imóvel (matrícula n. 25.941), por ausência de ciência inequívoca do devedor acerca das datas dos leilões, com fundamento no art. 27, §§ 2º-A e 2º-B, da Lei n. 9.514/1997.
+Inicialmente, em relação ao art. 1.022 do CPC/2015, deve-se ressaltar que o acórdão recorrido não incorreu em omissão, uma vez que o voto condutor do julgado apreciou, fundamentadamente, todas as questões necessárias à solução da controvérsia, dando-lhes, contudo, solução jurídica diversa da pretendida pela parte recorrente.
+Quanto ao mérito, a inadimplência contratual permite o início do procedimento de consolidação da propriedade do imóvel, nos termos do contrato entabulado entre as partes, autorizado pela Lei n. 9.514/1997. Assim, comprovada a mora e a ausência de notificação do devedor fiduciante, incabível a consolidação da propriedade do bem pela credora fiduciária, o que de fato ocorreu in casu.
+De acordo com a modificação introduzida pela Lei n. 13.465/2017 no art. 27 da Lei n. 9.514/1997, tornou-se necessária a intimação do devedor fiduciante da data do leilão, assegurando-lhe a prerrogativa de exercer o direito de preferência para a aquisição do imóvel pelo montante correspondente ao saldo devedor, somado aos encargos e despesas da consolidação da propriedade fiduciária.
+O preceito contido no § 2º-A do art. 27 da Lei n. 9.514/1997, com a redação conferida pela lei n. 13.465/2017, dispõe expressamente que a comunicação ao devedor deve ser realizada "mediante correspondência endereçada aos endereços constantes do contrato, inclusive ao endereço eletrônico".
+Quanto à notificação, o acórdão assim consignou sobre a intimação para a purgar a mora (fl. 362):
+Logo, tendo em conta que no caso concreto, restou demonstrado que, embora tenha sido consolidada a propriedade em favor da credora fiduciária, as notificações encaminhadas para informar a realização dos leilões foram direcionadas a endereço totalmente diverso daquele previsto no contrato e na matrícula do imóvel, sem qualquer justificativa plausível ou documento hábil que comprovasse eventual alteração formal de domicílio pelo devedor.
+Trata-se de vício substancial, que impede a presunção de ciência do devedor e, por consequência, nulifica a alienação realizada, em razão da violação ao devido processo legal e ao princípio da boa-fé objetiva que rege as relações contratuais.
+Portanto, ausente a devida intimação pessoal do devedor nos moldes legais e jurisprudenciais, é inevitável o reconhecimento da nulidade do leilão extrajudicial, devendo as partes serem reintegradas ao status quo ante, com a desconstituição da consolidação da propriedade e o desfazimento da alienação do imóvel a terceiros.
+Desse modo, elidir a conclusão da Corte regional com o fim de acolher a pretensão da recorrente de nulidade do procedimento em razão da ausência de intimação para purgar a mora demandaria a análise do conteúdo fático-probatório dos autos, o que se mostra inviável em recurso especial, consoante o enunciado da Súmula n. 7/STJ.
+Também não prospera a alegação de documento novo, porquanto o acórdão afastou a possibilidade de que a parte devedora teve ciência inequívoca do leilão, conforme trecho acima transcrito.
+Ante o exposto, não conheço do recurso especial.
+Nos termos do art. 85, § 11, do CPC, majoro os honorários fixados em desfavor da parte recorrente para 18% sobre o valor atualizado da causa.
+Publique-se. Intimem-se.
+ EMENTA
