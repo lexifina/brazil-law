@@ -1,0 +1,50 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 16/04/2026 a 22/04/2026, por unanimidade, conhecer parcialmente do recurso, mas lhe negar provimento, nos termos do voto do Sr. Ministro Teodoro Silva Santos.
+Os Srs. Ministros Afrânio Vilela, Francisco Falcão, Maria Thereza de Assis Moura e Marco Aurélio Bellizze votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Teodoro Silva Santos.
+EMENTA
+PROCESSUAL CIVIL E TRIBUTÁRIO. RECURSO ESPECIAL. EMBARGOS À EXECUÇÃO FISCAL. IMPOSTO PREDIAL E TERRITORIAL URBANO - IPTU. MUNICÍPIO DE BELO HORIZONTE. REDE FERROVIÁRIA FEDERAL S.A. - RFFSA. IMUNIDADE TRIBUTÁRIA. ACÓRDÃO RECORRIDO PELA INEXISTÊNCIA. VIOLAÇÃO DOS ARTS. 489 E 1.022 DO CPC/2015. NÃO OCORRÊNCIA. CONFORMIDADE COM TESE DEFINIDA PELO SUPREMO TRIBUNAL FEDERAL EM PRECEDENTE QUALIFICADO (TEMA N. 224 DO STF). RECURSO ESPECIAL CONHECIDO EM PARTE E NÃO PROVIDO.
+1. Não há violação do art. 1.022 do CPC/2015 quando o órgão julgador, de forma clara e coerente, externa fundamentação adequada e suficiente à conclusão do acórdão embargado.
+2. Após reconhecer a repercussão geral do Tema n. 224, o Supremo Tribunal Federal definiu tese de que a União Federal deve responder pelos débitos de IPTU da Rede Ferroviária Federal S/A., cujos fatos geradores ocorreram à época de sua existência, uma vez que a extinta sociedade de economia mista não tinha direito à imunidade tributária.
+3. No caso dos autos, o acórdão recorrido está em conformidade com tese definida em precedente qualificado do Supremo Tribunal Federal.
+4. Recurso especial conhecido em parte e desprovido.
+RELATÓRIO
+MINISTRO TEODORO SILVA SANTOS (Relator):
+Trata-se de recurso especial interposto pela UNIÃO FEDERAL, com fundamento no art. 105, inciso III, alínea a, da Constituição Federal, contra acórdão proferido pelo Tribunal Regional Federal da 1ª Região, que julgou a Apelação Cível n. 0064150-22.2010.4.01.3800, assim ementado:
+PROCESSUAL CIVIL E TRIBUTÁRIO. EMBARGOS A EXECUÇÃO FISCAL. PRESCRIÇÃO. LANÇAMENTO DE OFÍCIO. RFFSA. SUCESSÃO TRIBUTÁRIA DA UNIÃO. IPTU (EXERCÍCIO DE 2003 A 2005). IMUNIDADE TRIBUTÁRIA RECÍPROCA DO ART. 150, § 2º, DA CF/1988 INAPLICAVÉL. COBRANÇA DA CONTRIBUIÇÃO PARA O CUSTEIO DA ILUMINAÇÃO PÚBLICA INSTITUIDA PELO MUNICIPO DE BELO HORIZONTE. CONSTITUCIONALIDADE. HONORÁRIOS.
+Opostos embargos de declaração, foram rejeitados.
+A parte recorrente alega violação do art. 1.022 do Código de Processo Civil - CPC/2015 e dos arts. 130 e 131 do Código Tributário Nacional - CTN, sustentando, em síntese (fls. 233-242):
+Cumpre reiterar que o paradigma da repercussão geral adotado como fundamento da decisão recorrida (RE 599.176) se refere à questão da ausência de imunidade recíproca da União, por sucessão, em relação aos débitos tributários da RFFSA. O que se está a suscitar no presente recurso é a alegação posta nos autos acerca da imunidade originária da própria RFFSA no pagamento de tributos. Assim, o decidido no RE 599.176 não prejudica a alegação ora em evidência  ..  a própria RFFSA gozava originariamente de imunidade, com o que a definição da responsabilidade da União para o pagamento de IPTU incidente sobre imóveis que pertenciam à extinta sociedade importa em violação aos referidos dispositivos legais, quais sejam, os arts. 130 e 131 do CTN.
+ ..
+O acórdão violou o art. 1.022, inciso II, do CPC/2015, uma vez que não analisou especificamente as questões sobre as quais efetivamente deveria se pronunciar. Isso porque, diante do acolhimento da pretensão autoral com base no RE n. 599.176, a União interpôs embargos de declaração suscitando a seguinte situação: o RE n. 599.176 não apreciou a questão da imunidade originária da RFFSA.
+Ao final da peça recursal, requer "seja conhecido e provido o recurso para que seja anulado o acórdão, de modo a que os embargos de declaração da União sejam submetidos a novo julgamento. E caso assim não se entenda, e em atenção ao princípio da eventualidade, seja reformado o julgado, por violação à normas inscritas nos artigos 130 e 131 do CTN. nos termos acima explicitados" (fl. 242).
+Sem contrarrazões do MUNICÍPIO DE BELO HORIZONTE.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL E TRIBUTÁRIO. RECURSO ESPECIAL. EMBARGOS À EXECUÇÃO FISCAL. IMPOSTO PREDIAL E TERRITORIAL URBANO - IPTU. MUNICÍPIO DE BELO HORIZONTE. REDE FERROVIÁRIA FEDERAL S.A. - RFFSA. IMUNIDADE TRIBUTÁRIA. ACÓRDÃO RECORRIDO PELA INEXISTÊNCIA. VIOLAÇÃO DOS ARTS. 489 E 1.022 DO CPC/2015. NÃO OCORRÊNCIA. CONFORMIDADE COM TESE DEFINIDA PELO SUPREMO TRIBUNAL FEDERAL EM PRECEDENTE QUALIFICADO (TEMA N. 224 DO STF). RECURSO ESPECIAL CONHECIDO EM PARTE E NÃO PROVIDO.
+1. Não há violação do art. 1.022 do CPC/2015 quando o órgão julgador, de forma clara e coerente, externa fundamentação adequada e suficiente à conclusão do acórdão embargado.
+2. Após reconhecer a repercussão geral do Tema n. 224, o Supremo Tribunal Federal definiu tese de que a União Federal deve responder pelos débitos de IPTU da Rede Ferroviária Federal S/A., cujos fatos geradores ocorreram à época de sua existência, uma vez que a extinta sociedade de economia mista não tinha direito à imunidade tributária.
+3. No caso dos autos, o acórdão recorrido está em conformidade com tese definida em precedente qualificado do Supremo Tribunal Federal.
+4. Recurso especial conhecido em parte e desprovido.
+VOTO
+MINISTRO TEODORO SILVA SANTOS (Relator):
+O recurso especial se origina de embargos opostos, em agosto de 2010, pela União Federal, na qualidade de sucessora da Rede Ferroviária Federal S.A - RFFSA., à execução fiscal ajuizada pelo Município de Belo Horizonte para a cobrança de dívida de Imposto Predial e Territorial Urbano - IPTU e de Contribuição para o Custeio da Iluminação Pública - CCIP, do exercício financeiro de 2003. À época, foi dado à causa o valor de R$ 19.130,14 (dezenove mil, cento e trinta reais e quatorze centavos).
+No primeiro grau de jurisdição, o pedido foi julgado procedente, em parte, "para declarar a inexistência de relação jurídica tributária da qual decorra a obrigação da UNIÃO de pagar Imposto Sobre a Propriedade Predial e Territorial Urbana - IPTU em relação ao imóvel descrito na petição inicial, ficando mantido o crédito tributário relativo à Contribuição Municipal para o Custeio dos Serviços de Iluminação Pública - CCIP do exercício 2003" (fl. 130).
+Em sede de apelação, o Tribunal Regional Federal da 1ª Região reformou a sentença para julgar improcedente o pedido autoral. Vejamos, desde logo e no que interessa, o que está consignado no voto condutor do acórdão recorrido (fls. 198-205):
+Cinge-se a controvérsia sobre a legalidade da cobrança de IPTU e CCIP incidentes sobre imóvel pertencente, à época dos fatos geradores, à Rede Ferroviária Federal S/A sucedida pela União.
+Inicialmente, salientamos que a RFFSA, sociedade de economia mista, foi extinta em 22/01/2007, e a União a sucedeu nos direitos, obrigações e ações judiciais, nos termos do art. 2º da Lei n. 11.483/2007, tendo os seus imóveis transferidos ao patrimônio da União.
+Assim, no momento da transferência do imóvel, a responsabilidade por sucessão afeta os créditos tributários cujos fatos geradores tenham ocorrido antes da sucessão.
+Logo, a União assume a responsabilidade pelo pagamento do imposto, em face da aquisição da propriedade, nos termos do art. 130 do Código Tributário Nacional.
+O Pleno do Supremo Tribunal Federal no julgamento do RE 599.176, sob a sistemática da repercussão geral (art. 543-A do CPC/73), decidiu que, a União responderá pelo débito tributário da extinta RFFSA, sendo inaplicável a imunidade tributária recíproca, confira-se:
+ ..
+Desse modo, tratando de cobrança do IPTU com fatos geradores anteriores a sucessão da RFFSA pela União, inaplicável a imunidade tributária recíproca.
+Por ocasião do julgamento dos embargos de declaração, nada foi acrescido à fundamentação (fls.221-226).
+Pois bem.
+O Supremo Tribunal Federal, ao apreciar Questão de Ordem no AI n. 791.292/PE, definiu tese segundo a qual "o art. 93, inc. IX, da Constituição Federal exige que o acórdão ou a decisão sejam fundamentados, ainda que sucintamente, sem determinar, contudo, o exame pormenorizado de cada uma das alegações ou provas".
+Nessa linha, não há violação dos arts. 489 e 1.022 do CPC/2015 quando o órgão julgador, de forma clara e coerente, externa fundamentação adequada e suficiente à conclusão do acórdão embargado.
+No caso dos autos, não se verifica violação dos referidos dispositivos, na medida em que a fundamentação adotada pelo órgão julgador torna desnecessária a integração pedida nos aclaratórios.
+Isso porque, se o Supremo Tribunal Federal definiu tese de que a União Federal deve responder pelos débitos de IPTU da Rede Ferroviária Federal S/A., cujos fatos geradores ocorreram à época de sua existência (Tema n. 224 do STF), por lógica, a extinta sociedade de economia mista não tinha direito à imunidade tributária; e isso está expresso no voto proferido pelo Ministro Joaquim Barbosa, condutor do acórdão proferido no RE n. 599.176/PR: "como sociedade de economia mista, constituída sob a forma de sociedade por ações, apta a cobrar pela prestação de seus serviços e a remunerar o capital investido, a RFFSA não fazia jus à imunidade tributária".
+Na mesma linha, "não se aplica o princípio da imunidade tributária a débito de IPTU devido pela extinta Rede Ferroviária Federal S.A." (RE n. 966497 AgR, Relatora Ministra Rosa Weber, Primeira Turma, julgado em 16-09-2016). Portanto, não convence a alegação da União Federal de que a questão recursal não estaria prejudicada pelo tese definida no precedente qualificado do Supremo Tribunal Federal.
+No contexto, o acórdão recorrido está em conformidade com tese definida em precedente qualificado do Supremo Tribunal Federa e, por isso, o recurso especial sequer deveria ter sido admitido.
+Ante o exposto, CONHEÇO EM PARTE do recurso especial e, nessa extensão, NEGO-LHE PROVIMENTO.
+É como voto.
