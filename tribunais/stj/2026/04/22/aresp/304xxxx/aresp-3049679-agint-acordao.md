@@ -1,0 +1,49 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 16/04/2026 a 22/04/2026, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Maria Thereza de Assis Moura, Marco Aurélio Bellizze, Teodoro Silva Santos e Afrânio Vilela votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Teodoro Silva Santos.
+EMENTA
+DIREITO ADMINISTRATIVO. CUMPRIMENTO INDIVIDUAL DE SENTENÇA COLETIVA. LIMITAÇÃO TERRITORIAL. LEGITIMIDADE ATIVA DE EXEQUENTE DOMICILIADO EM OUTRO ESTADO. ÓBICE DA SÚMULA N. 7/STJ. DESPROVIMENTO DO AGRAVO INTERNO. MANUTENÇÃO DA DECISÃO RECORRIDA.
+I - Na origem, trata-se de ação de cumprimento individual de sentença coletiva proferida em ação civil pública, na qual se reconheceu o direito à incorporação do percentual de 28,86% às remunerações dos servidores ativos, inativos e pensionistas que não sejam litigantes em ações individuais, cujos processos estejam suspensos, nem firmatários de acordo, a partir de janeiro de 1993, com os respectivos reflexos, observadas as datas de admissão e deduzidas as reposições já efetuadas com fundamento nas Leis n. 8.622/1993 e 8.627/1993, em desfavor do INSS. O Juízo de primeiro grau julgou extinto o feito. Interposta apelação, o Tribunal a quo reformou a sentença.
+II - Nesta Corte, trata-se de agravo interno interposto contra decisão que conheceu do agravo em recurso especial para não conhecer do recurso especial.
+III - Quanto à matéria de fundo, verifica-se que a Corte de origem analisou a controvérsia dos autos levando em consideração os fatos e provas relacionados à matéria. Assim, para se chegar à conclusão diversa, seria necessário o reexame fático-probatório, o que é vedado pelo enunciado n. 7 da Súmula do STJ, segundo o qual "A pretensão de simples reexame de provas não enseja recurso especial".
+IV - Agravo interno improvido.
+RELATÓRIO
+Na origem, trata-se de ação de cumprimento individual de sentença coletiva proferida em ação civil pública, na qual se reconheceu o direito à incorporação do percentual de 28,86% às remunerações dos servidores ativos, inativos e pensionistas que não sejam litigantes em ações individuais, cujos processos estejam suspensos, nem firmatários de acordo, a partir de janeiro de 1993, com os respectivos reflexos, observadas as datas de admissão e deduzidas as reposições já efetuadas com fundamento nas Leis n 8.622/1993 e 8.627/1993, em desfavor do INSS. O Juízo de primeiro grau julgou extinto o feito. Interposta apelação, o Tribunal a quo reformou a sentença.
+Nesta Corte, trata-se de agravo interno interposto contra decisão que conheceu do agravo em recurso especial para não conhecer do recurso especial, que foi manejado contra acórdão assim ementado:
+APELAÇÃO CÍVEL. CUMPRIMENTO INDIVIDUAL DE SENTENÇA COLETIVA. LIMITAÇÃO TERRITORIAL. NÃO CABIMENTO. RECURSO PROVIDO.
+1. O EXEQUENTE É PARTE LEGÍTIMA PARA PROMOVER O CUMPRIMENTO INDIVIDUAL DE SENTENÇA, AINDA QUE DOMICILIADO EM OUTRA LOCALIDADE, DIVERSA DA SEÇÃO JUDICIÁRIA EM QUE PROFERIDA A SENTENÇA COLETIVA.
+2. AO JULGAR O RE Nº 1.101.937 (TEMA 1.075 DA REPERCUSSÃO GERAL), O SUPREMO TRIBUNAL FEDERAL CONSIDEROU INCONSTITUCIONAL O ART. 16 DA LEI Nº 7.347/1985, ALTERADO PELA LEI Nº 9.494/1997, FIRMANDO A TESE DE QUE NÃO SE PODE RESTRINGIR OS EFEITOS CONDENATÓRIOS DE DEMANDAS COLETIVAS, LIMITANDO O ROL DOS BENEFICIÁRIOS DA DECISÃO POR MEIO DE UM CRITÉRIO TERRITORIAL DE COMPETÊNCIA.
+3. O SUPERIOR TRIBUNAL DE JUSTIÇA FIXOU A TESE, SOB A SISTEMÁTICA DOS RECURSOS REPETITIVOS PREVISTA NO ART. 543-C DO CÓDIGO DE PROCESSO CIVIL DE 1973, DE QUE "A LIQUIDAÇÃO E A EXECUÇÃO INDIVIDUAL DE SENTENÇA GENÉRICA PROFERIDA EM AÇÃO CIVIL COLETIVA PODE SER AJUIZADA NO FORO DO DOMICILIO DO BENEFICIÁRIO, PORQUANTO OS EFEITOS E A EFICÁCIA DA SENTENÇA NÃO ESTÃO CIRCUNSCRITOS A LINDES GEOGRÁFICOS, MAS AOS LIMITES OBJETIVOS E SUBJETIVOS DO QUE FOI DECIDIDO, LEVANDO-SE EM CONTA, PARA TANTO, SEMPRE A EXTENSÃO DO DANO E A QUALIDADE DOS INTERESSES METAINDIVIDUAIS POSTOS EM JUÍZO (ARTS. 468, 472 E 474. CPC E 93 E 103, CDCF (RESP Nº 1.243.887/PR, CORTE ESPECIAL. RELATOR MINISTRO LUIS FELIPE SALOMÃO, J. EM 19/10/2011, DJE DE 12/12/2011).
+4. A SENTENÇA PROFERIDA NA AÇÃO COLETIVA Nº 0005019- 15.1997.4.03.6000 NÃO RESTRINGIU O DIREITO DO REAJUSTE AOS SERVIDORES LOCALIZADOS OU RESIDENTES NO ESTADO DO MATO GROSSO DO SUL, NÃO HAVENDO DÚVIDA, PORTANTO, DO DIREITO DO EXEQUENTE EM PROMOVER O CUMPRIMENTO INDIVIDUAL DE SENTENÇA EM SEU DOMICÍLIO, AINDA QUE LOCALIZADO EM ESTADO DIVERSO AO QUAL PERTENCE A SEÇÃO JUDICIÁRIA QUE PROLATOU O TÍTULO EXECUTIVO.
+5. APELAÇÃO PROVIDA.
+Os embargos declaratórios opostos foram rejeitados.
+A decisão recorrida tem o seguinte dispositivo: "Ante o exposto, nos termos do art. 253, parágrafo único, II, a, do Regimento Interno do STJ, conheço do agravo relativamente à matéria que não se enquadra em tema repetitivo, e não conheço do recurso especial."
+No agravo interno, a parte recorrente traz, resumidamente, os seguintes argumentos:
+ ..
+O INSS concorda com os fundamentos descritos nas alíneas "a" e "c" acima indicadas e não deduz aqui nenhum inconformismo quanto aos pontos. Contudo, em relação aos fundamentos mencionados na alínea "b", data venia, eles não se sustentam.
+ ..
+Com efeito, o INSS entende que é desnecessário o reexame da matéria fática para que se decida se os efeitos de sentença condenatória proferida na ação civil pública nº 0005019- 15.1997.4.03.6000 atingem apenas os servidores públicos federais lotados nos órgãos do Mato Grosso do Sul apontados como réus ou todos os servidores públicos federais do país.
+ ..
+Ora, saber se a sentença proferida em ação civil pública pode ter efeitos nacionais, abrangendo servidores domiciliados fora do estado onde foi proferida independe, à toda evidência, de qualquer tipo de análise de fato ou prova, bastando o exame da legislação pátria e do entendimento jurisprudencial sobre o tema.
+ ..
+Acrescente-se, outrossim, que a situação fática do processo já se encontra bem definida nos autos e foi especificamente delimitada pelo próprio acórdão recorrido. Com efeito, extrai-se do acórdão prolatado pelo Tribunal "a quo" o seguinte (f. 311):
+ ..
+Aqui, a questão central da controvérsia é a não incidência do Tema 1075 do STF ao título executivo formado em ação coletiva, já que o seu julgamento se deu em abril de 2021 e foi muito superveniente ao ajuizamento da ACP n. 0005019-15.1997.4.03.6000 (de setembro de 1997) e ao trânsito em julgado do título formado na ACP (ocorrido em 02/08/2019).
+Por isso, entende o INSS que a aplicação do entendimento do Supremo Tribunal Federal no julgamento de Recurso Extraordinário com repercussão geral somente poderia ocorrer se houvesse o ajuizamento de Ação Rescisória no prazo decadencial pelos interessados.
+ ..
+É o relatório.
+EMENTA
+DIREITO ADMINISTRATIVO. CUMPRIMENTO INDIVIDUAL DE SENTENÇA COLETIVA. LIMITAÇÃO TERRITORIAL. LEGITIMIDADE ATIVA DE EXEQUENTE DOMICILIADO EM OUTRO ESTADO. ÓBICE DA SÚMULA N. 7/STJ. DESPROVIMENTO DO AGRAVO INTERNO. MANUTENÇÃO DA DECISÃO RECORRIDA.
+I - Na origem, trata-se de ação de cumprimento individual de sentença coletiva proferida em ação civil pública, na qual se reconheceu o direito à incorporação do percentual de 28,86% às remunerações dos servidores ativos, inativos e pensionistas que não sejam litigantes em ações individuais, cujos processos estejam suspensos, nem firmatários de acordo, a partir de janeiro de 1993, com os respectivos reflexos, observadas as datas de admissão e deduzidas as reposições já efetuadas com fundamento nas Leis n. 8.622/1993 e 8.627/1993, em desfavor do INSS. O Juízo de primeiro grau julgou extinto o feito. Interposta apelação, o Tribunal a quo reformou a sentença.
+II - Nesta Corte, trata-se de agravo interno interposto contra decisão que conheceu do agravo em recurso especial para não conhecer do recurso especial.
+III - Quanto à matéria de fundo, verifica-se que a Corte de origem analisou a controvérsia dos autos levando em consideração os fatos e provas relacionados à matéria. Assim, para se chegar à conclusão diversa, seria necessário o reexame fático-probatório, o que é vedado pelo enunciado n. 7 da Súmula do STJ, segundo o qual "A pretensão de simples reexame de provas não enseja recurso especial".
+IV - Agravo interno improvido.
+VOTO
+O agravo interno não merece provimento.
+A parte agravante repisa os mesmos argumentos já analisados na decisão recorrida.
+A Corte de origem bem analisou a controvérsia com base nos seguintes fundamentos:
+A controvérsia estabelecida nestes autos cinge-se à legitimidade do exequente para o cumprimento individual de sentença, quando domiciliado em área diversa daquela que corresponde à Seção Judiciária em que a sentença coletiva foi prolatada. (..) a sentença proferida na ação coletiva não restringiu a concessão do direito do reajuste aos servidores localizados ou residentes no Estado do Mato Grosso do Sul, não havendo dúvida, portanto, do direito do exequente em ajuizar o cumprimento individual de sentença em seu domicílio, ainda que localizado em estado diverso ao qual pertence a Seção Judiciária que prolatou o título executivo. (..) Ante o exposto, dou provimento à apelação para afastar a ilegitimidade ativa do exequente, determinando o prosseguimento da execução individual, nos termos da fundamentação.
+Quanto à matéria de fundo, verifica-se que a Corte de origem analisou a controvérsia dos autos levando em consideração os fatos e provas relacionados à matéria. Assim, para se chegar à conclusão diversa, seria necessário o reexame fático-probatório, o que é vedado pelo enunciado n. 7 da Súmula do STJ, segundo o qual "A pretensão de simples reexame de provas não enseja recurso especial".
+Ante o exposto, não havendo razões para modificar a decisão recorrida, nego provimento ao agravo interno.
+É o voto.
