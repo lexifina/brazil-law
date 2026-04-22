@@ -1,0 +1,12 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido de liminar, impetrado em favor de LUCAS GALHARDO DA SILVA, apontando como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, em decorrência do julgamento do habeas corpus criminal n. 2311452-26.2025.8.26.0000.
+Consta nos autos que o paciente teve a prisão em flagrante convertida em preventiva pelo Juízo da 2ª Vara Criminal da Comarca de Hortolândia/SP, na audiência de custódia realizada em 24/9/2025, com fundamento nos artigos 310, inciso II, e 312 do Código de Processo Penal, destacando a gravidade concreta da conduta, o risco concreto de continuidade delitiva e a existência de condenações anteriores, inclusive por homicídio, bem como a insuficiência de medidas cautelares diversas (fls. 29-31).
+A defesa impetrou habeas corpus ao Tribunal de Justiça do Estado de São Paulo, que denegou a ordem, mantendo a conversão do flagrante em preventiva à vista da nocividade do entorpecente apreendido, do modo de execução estruturado em concurso de agentes, do risco de reiteração delitiva evidenciado pelas condenações anteriores e da inviabilidade de cautelares alternativas (fls. 7-18).
+Na presente impetração, busca-se a concessão da ordem para: (i) revogar a prisão preventiva, por ausência de fundamentação concreta e de requisitos dos artigos 312 e 315 do Código de Processo Penal; e (ii) substituir a custódia por medidas cautelares diversas da prisão, com eventual concessão de liberdade provisória.
+É o relatório. DECIDO.
+Inicialmente, constata-se que, no HC n. 1.048.924/SP, foi formulada idêntica pretensão em favor da paciente. O presente writ, portanto, é mera reiteração de pedido, em que há identidade de partes, de pedido e de causa de pedir, além de impugnarem ambos o mesmo acórdão e a mesma matéria.
+Assim, concluo pela inadmissibilidade do habeas corpus, porquanto "não pode ser conhecida a impetração que veicula mera reiteração de pedido já formulado em writ anteriormente impetrado nesta Corte" (AgRg no HC 286.354/AC, Rel. Ministra LAURITA VAZ, QUINTA TURMA, julgado em 15/05/2014, DJe 23/05/2014).
+No mesmo sentido, v.g.: HC 519.170/RS, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 15/10/2019, DJe 21/10/2019; EDcl no AgRg no HC 532.973/RS, Rel. Ministro RIBEIRO DANTAS, QUINTA TURMA, julgado em 10/10/2019, DJe 15/10/2019.
+Ante o exposto, com fundamento nos arts. 34, inciso XX, e 210, do RISTJ, não conheço do presente habeas corpus.
+Publique-se. Intimem -se.
+EMENTA
