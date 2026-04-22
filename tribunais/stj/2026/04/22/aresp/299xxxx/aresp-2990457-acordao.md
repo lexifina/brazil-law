@@ -1,0 +1,100 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 14/04/2026 a 22/04/2026, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Raul Araújo, Maria Isabel Gallotti, Antonio Carlos Ferreira e Luís Carlos Gambogi (Desembargador Convocado do TJMG) votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro João Otávio de Noronha.
+EMENTA
+DIREITO PRIVADO. AGRAVO EM RECURSO ESPECIAL. RESCISÃO CONTRATUAL. TERMO INICIAL DOS JUROS DE MORA E LIMITAÇÃO DOS ITENS DE RESSARCIMENTO. AGRAVO EM RECURSO ESPECIAL DESPROVIDO.
+I. CASO EM EXAME
+1. Agravo em recurso especial interposto contra decisão que inadmitiu o recurso especial por incidência das Súmulas 283 e 284 do STF e 7 do STJ.
+2. A controvérsia diz respeito à ação de rescisão contratual de compra e venda de duas áreas rurais, com pedidos de cláusula penal, lucros cessantes, reintegração de posse e ressarcimentos correlatos.
+3. Na sentença, o Juízo de primeiro grau rescindiu o contrato, confirmou a reintegração de posse, aplicou cláusula penal de 20%, fixou aluguel, determinou devolução de R$ 200.000,00, impôs ressarcimento por benfeitorias a apurar em liquidação com compensação de valores e arbitrou honorários em 10%.
+4. A Corte de origem reformou parcialmente para limitar o ressarcimento a itens específicos e parcelas de empréstimos quitadas, com correção desde o desembolso e juros de 1% ao mês a partir do trânsito em julgado; os embargos de declaração foram rejeitados.
+II. QUESTÃO EM DISCUSSÃO
+5. Há quatro questões em discussão: (i) saber se houve violação do art. 402 do Código Civil ao restringir as perdas e danos; (ii) saber se houve violação do art. 403 do Código Civil ao limitar os lucros cessantes e os prejuízos diretos; (iii) saber se houve violação do art. 405 do Código Civil ao fixar os juros moratórios a partir do trânsito em julgado; e (iv) saber se há divergência jurisprudencial quanto ao termo inicial dos juros de mora em responsabilidade contratual.
+III. RAZÕES DE DECIDIR
+6. Incidem a Súmula n. 5 do STJ e a Súmula n. 7 do STJ para obstar o reexame de fatos, provas e cláusulas contratuais quanto à extensão das perdas e danos previstas nos arts. 402 e 403 do Código Civil.
+7. Incidem a Súmula n. 282 do STF e a Súmula n. 356 do STF diante da ausência de prequestionamento e da deficiência de fundamentação na alegada violação ao art. 405 do Código Civil.
+8. Não se demonstra o dissídio jurisprudencial por ausência de cotejo analítico e comprovação de similitude fática, nos termos do art. 1.029, § 1º, do CPC e do art. 255, § 1º, do RISTJ, ficando prejudicado o exame também pela inadmissão pela alínea a.
+IV. DISPOSITIVO E TESE
+9. Agravo em recurso especial desprovido.
+Tese de julgamento:
+"1. Incidem as Súmulas n. 5 e 7 do STJ para obstar o reexame de fatos, provas e cláusulas contratuais quanto à extensão das perdas e danos previstas nos arts. 402 e 403 do Código Civil. 2. Incidem as Súmulas n. 282 e 356 do STF diante da ausência de prequestionamento e da deficiência de fundamentação na alegada violação ao art. 405 do Código Civil. 3. Não se demonstra o dissídio jurisprudencial por ausência de cotejo analítico e comprovação de similitude fática, nos termos do art. 1.029, § 1º, do CPC e do art. 255, § 1º, do RISTJ, ficando prejudicado o exame também pela inadmissão pela alínea a ".
+Dispositivos relevantes citados:
+CC, arts. 402, 403 e 405; CF, art. 105, III, a e c; CPC, arts. 1.029, § 1º, e 85, § 11; RISTJ, art. 255, § 1º.
+Jurisprudência relevante citada:
+STJ, Súmulas n. 5 e 7; STF, Súmulas n. 282, 283, 284 e 356; STJ, AgInt no REsp n. 1885347/RN, relator Ministro Antonio Carlos Ferreira, Quarta Turma, julgado em 21/2/2022.
+RELATÓRIO
+Trata-se de agravo em recurso especial interposto por MAURO JUNES POLETTO contra a decisão que inadmitiu o recurso especial por incidência da Súmula n. 283 do STF, por incidência da Súmula n. 7 do STJ e por incidência da Súmula n. 284 do STF, no ponto relativo à divergência jurisprudencial, com referência aos arts. 402, 403 e 405 do Código Civil (fls. 2.291-2.292).
+Alega a parte agravante que os pressupostos de admissibilidade do recurso especial foram atendidos.
+Há pedido de efeito suspensivo ao especial (fls. 2.254-2.268 e 2.291-2.292).
+Contraminuta às fls. 2.310-2.319.
+O recurso especial foi interposto, com fundamento no art. 105, III, a e c, da Constituição Federal, contra acórdão do TJSC em apelação cível nos autos de ação de rescisão contratual.
+O julgado foi assim ementado (fl. 2.243):
+APELAÇÃO CÍVEL. AÇÃO DE RESCISÃO CONTRATUAL. COMPRA E VENDA DE DUAS ÁREAS RURAIS. SENTENÇA DE PARCIAL PROCEDÊNCIA.
+RECURSO DOS AUTORES. PRELIMINARES. ALEGAÇÃO DE AFRONTA AOS DISPOSITIVOS ATINENTES AO INSTITUTO DA REVELIA. INSUBSISTÊNCIA. RECONHECIMENTO DA REVELIA QUE NÃO IMPEDE A PRODUÇÃO DE PROVAS, NOS TERMOS DO ART. 349 DO CÓDIGO DE PROCESSO CIVIL.
+AVENTADA A NULIDADE DA SENTENÇA NA PARTE QUE CONDENOU OS AUTORES AO RESPECTIVO RESSARCIMENTO DE VALORES. TESE AFASTADA. CONSEQUÊNCIA LÓGICA E NATURAL DO PEDIDO DE RESCISÃO DA AVENÇA. MÉRITO. IMPUGNAÇÃO AO ROL EXPOSTO PELO SENTENCIANTE A TÍTULO DE RESSARCIMENTO DE BENFEITORIAS. PARCIAL ACOLHIMENTO. RESTITUIÇÃO QUE DEVE SE LIMITAR À QUANTIA DESEMBOLSADA PELOS RÉUS NO PAGAMENTO DE PARCELAS DOS EMPRÉSTIMOS BANCÁRIOS REALIZADOS PARA CONSTRUÇÃO DOS AVIÁRIOS E ITENS CORRELATOS NO LOCAL, ALÉM DOS BOLETOS PAGOS EM NOME DOS AUTORES E DO POÇO ARTESIANO ALI CONCRETIZADO. AINDA, EXCLUSÃO DA OBRIGAÇÃO DE RESSARCIR, PROPORCIONALMENTE, OS RÉUS, PELA AQUISIÇÃO DE TERRENO VIZINHO, SOBRE O QUAL FICOU ASSENTADA PARTE DOS AVIÁRIOS. REGISTRO IMOBILIÁRIO QUE PERMANECE EM NOME DE TERCEIRO ALHEIO AO FEITO. QUESTÃO QUE NÃO PODE SER DIRIMIDA NO ÂMBITO DESTE PROCESSO. SENTENÇA REFORMADA, NESSES PONTOS. RECURSOS DOS RÉUS (ANÁLISE CONJUNTA). CONTRARRAZÕES. SUSCITAÇÃO, PELOS AUTORES, DE FALTA DE DIALETICIDADE NOS RECURSOS DOS RÉUS. PARCIAL ACOLHIMENTO, NOS PONTOS EM QUE NÃO HOUVE IMPUGNAÇÃO ESPECÍFICA AOS FUNDAMENTOS DA SENTENÇA. INSURGÊNCIA À REVELIA DECRETADA NA ORIGEM. INSUBSISTÊNCIA. DECISÃO TOMADA PELO MAGISTRADO EM OBSERVÂNCIA AO DECIDIDO PELO TRIBUNAL EM DUAS OCASIÕES (AGRAVOS DE INSTRUMENTO N. 2014.063351-0 E N. 2014.063350-3) CONCLUINDO PELA INVIABILIDADE DA CONTAGEM DO PRAZO EM DOBRO. DEFENDIDA A ABUSIVIDADE DA CLÁUSULA PENAL, ESTABELECIDA EM 20% DO VALOR DO CONTRATO. NÃO ACOLHIMENTO. EXCESSIVIDADE QUE DEVE SER VERIFICADA CONFORME AS PECULIARIDADES DO CASO CONCRETO (ART. 413 DO CÓDIGO CIVIL). CONTRATO FIRMADO ENTRE PARTICULARES, PLENAMENTE APTOS E COM DISCERNIMENTO PARA A COMPREENSÃO DO QUE ESTAVAM PACTUANDO. ADIMPLEMENTO DE APENAS R$ 200.000,00 DE UM TOTAL DE R$ 510.000,00. RAZOABILIDADE DA SANÇÃO. ALMEJADO O RESSARCIMENTO INTEGRAL PELA AQUISIÇÃO DO TERRENO VIZINHO. ANÁLISE QUE FOI PROMOVIDA AO TRATAR DO APELO DOS AUTORES. PRETENSÃO DE FIXAÇÃO DE HONORÁRIOS ADVOCATÍCIOS DE SUCUMBÊNCIA EM FAVOR DE SEUS PATRONOS. DESCABIMENTO. AUTORES QUE DECAÍRAM DE PARTE MÍNIMA DOS PEDIDOS. ADEMAIS, CONDENAÇÃO A TÍTULO DE RESSARCIMENTO QUE DECORRE DO PRÓPRIO PEDIDO DE RESCISÃO, NÃO ATRAINDO ÔNUS SUCUMBENCIAL COMO PRETENDIDO PELOS DEMANDADOS. RECURSO DOS AUTORES CONHECIDO E PROVIDO PARCIALMENTE. RECURSO DOS RÉUS CONHECIDO EM PARTE E, NESSA EXTENSÃO, NÃO PROVIDO.
+Os embargos de declaração opostos foram decididos nestes termos (fl. 2.251):
+EMBARGOS DE DECLARAÇÃO EM APELAÇÃO CÍVEL. AÇÃO DE RESCISÃO CONTRATUAL. COMPRA E VENDA DE DUAS ÁREAS RURAIS. SENTENÇA DE PARCIAL PROCEDÊNCIA. ACÓRDÃO QUE (I) CONHECEU DO APELO DOS AUTORES E DEU-LHES PARCIAL PROVIMENTO E (II) CONHECEU EM PARTE DO APELO DOS RÉUS E, NESSA EXTENSÃO, NEGOU-LHE PROVIMENTO.
+EMBARGOS OPOSTOS PELO RÉU. ALEGAÇÃO DE OMISSÃO NO JULGADO. INSUBSISTÊNCIA. AUSÊNCIA DE VÍCIO NA DECISÃO. APRECIAÇÃO DA CONTROVÉRSIA DE MODO INTEGRAL, SUFICIENTE E CONGRUENTE. INTENTO DE REDISCUTIR O JULGADO. LITIGÂNCIA DE MÁ-FÉ SUSCITADA EM CONTRARRAZÕES. NÃO ACOLHIMENTO. CONDUTAS DO ART. 80 DO CPC NÃO DEMONSTRADAS. EMBARGOS CONHECIDOS E REJEITADOS.
+No recurso especial, a parte aponta, além de divergência jurisprudencial, violação dos seguintes artigos:
+a) 402 do Código Civil, porque as perdas e danos devidas ao credor abrangeram o que se perdeu e o que razoavelmente se deixou de lucrar, e o acórdão recorrido teria afastado a incidência ampla dos consectários indenizatórios;
+b) 403 do Código Civil, já que as perdas e danos só incluíram os prejuízos efetivos e os lucros cessantes por efeito direto e imediato da inexecução, e a decisão teria reduzido indevidamente itens indenizáveis;
+c) 405 do Código Civil, pois os juros de mora contaram-se desde a citação nas obrigações contratuais sem termo certo e ilíquidas, e o acórdão fixou os juros a partir do trânsito em julgado; e
+Sustenta que o Tribunal de origem, ao decidir pela incidência de "juros de mora de 1% ao mês a contar do trânsito em julgado", divergiu do entendimento de que, em responsabilidade contratual, os juros incidem desde a citação, apontando o AREsp 1.748.987 e outros precedentes (fls. 2.264-2.265).
+Requer o provimento do recurso para que se fixe o termo inicial dos juros de mora na citação, bem como a reforma do acórdão no ponto relativo aos itens de ressarcimento.
+Ainda, requer efeito suspensivo ao especial (fls. 2.254-2.268).
+É o relatório.
+EMENTA
+DIREITO PRIVADO. AGRAVO EM RECURSO ESPECIAL. RESCISÃO CONTRATUAL. TERMO INICIAL DOS JUROS DE MORA E LIMITAÇÃO DOS ITENS DE RESSARCIMENTO. AGRAVO EM RECURSO ESPECIAL DESPROVIDO.
+I. CASO EM EXAME
+1. Agravo em recurso especial interposto contra decisão que inadmitiu o recurso especial por incidência das Súmulas 283 e 284 do STF e 7 do STJ.
+2. A controvérsia diz respeito à ação de rescisão contratual de compra e venda de duas áreas rurais, com pedidos de cláusula penal, lucros cessantes, reintegração de posse e ressarcimentos correlatos.
+3. Na sentença, o Juízo de primeiro grau rescindiu o contrato, confirmou a reintegração de posse, aplicou cláusula penal de 20%, fixou aluguel, determinou devolução de R$ 200.000,00, impôs ressarcimento por benfeitorias a apurar em liquidação com compensação de valores e arbitrou honorários em 10%.
+4. A Corte de origem reformou parcialmente para limitar o ressarcimento a itens específicos e parcelas de empréstimos quitadas, com correção desde o desembolso e juros de 1% ao mês a partir do trânsito em julgado; os embargos de declaração foram rejeitados.
+II. QUESTÃO EM DISCUSSÃO
+5. Há quatro questões em discussão: (i) saber se houve violação do art. 402 do Código Civil ao restringir as perdas e danos; (ii) saber se houve violação do art. 403 do Código Civil ao limitar os lucros cessantes e os prejuízos diretos; (iii) saber se houve violação do art. 405 do Código Civil ao fixar os juros moratórios a partir do trânsito em julgado; e (iv) saber se há divergência jurisprudencial quanto ao termo inicial dos juros de mora em responsabilidade contratual.
+III. RAZÕES DE DECIDIR
+6. Incidem a Súmula n. 5 do STJ e a Súmula n. 7 do STJ para obstar o reexame de fatos, provas e cláusulas contratuais quanto à extensão das perdas e danos previstas nos arts. 402 e 403 do Código Civil.
+7. Incidem a Súmula n. 282 do STF e a Súmula n. 356 do STF diante da ausência de prequestionamento e da deficiência de fundamentação na alegada violação ao art. 405 do Código Civil.
+8. Não se demonstra o dissídio jurisprudencial por ausência de cotejo analítico e comprovação de similitude fática, nos termos do art. 1.029, § 1º, do CPC e do art. 255, § 1º, do RISTJ, ficando prejudicado o exame também pela inadmissão pela alínea a.
+IV. DISPOSITIVO E TESE
+9. Agravo em recurso especial desprovido.
+Tese de julgamento:
+"1. Incidem as Súmulas n. 5 e 7 do STJ para obstar o reexame de fatos, provas e cláusulas contratuais quanto à extensão das perdas e danos previstas nos arts. 402 e 403 do Código Civil. 2. Incidem as Súmulas n. 282 e 356 do STF diante da ausência de prequestionamento e da deficiência de fundamentação na alegada violação ao art. 405 do Código Civil. 3. Não se demonstra o dissídio jurisprudencial por ausência de cotejo analítico e comprovação de similitude fática, nos termos do art. 1.029, § 1º, do CPC e do art. 255, § 1º, do RISTJ, ficando prejudicado o exame também pela inadmissão pela alínea a ".
+Dispositivos relevantes citados:
+CC, arts. 402, 403 e 405; CF, art. 105, III, a e c; CPC, arts. 1.029, § 1º, e 85, § 11; RISTJ, art. 255, § 1º.
+Jurisprudência relevante citada:
+STJ, Súmulas n. 5 e 7; STF, Súmulas n. 282, 283, 284 e 356; STJ, AgInt no REsp n. 1885347/RN, relator Ministro Antonio Carlos Ferreira, Quarta Turma, julgado em 21/2/2022.
+VOTO
+A controvérsia diz respeito à ação de rescisão contratual em que a parte autora pleiteou a resolução do contrato de compra e venda de duas áreas rurais, a cláusula penal de 20% do valor do contrato, lucros cessantes, reintegração na posse e ressarcimentos correlatos.
+Na sentença, o Juízo de primeiro grau julgou parcialmente procedentes os pedidos, rescindiu o contrato, confirmou a reintegração de posse, condenou os réus à cláusula penal de 20% com correção e juros, fixou aluguel pelo uso do imóvel, determinou a devolução de R$ 200.000,00 pelos autores aos réus e condenou os autores a pagarem aos réus a quantia desembolsada para benfeitorias, a ser apurada em liquidação, além de compensar os valores. Fixou honorários em 10% do valor atualizado da causa (fls. 2.298-2.299).
+A Corte de origem reformou parcialmente a sentença apenas quanto ao item "f", limitando o ressarcimento a itens específicos e às parcelas de empréstimos efetivamente quitadas pelos réus, com correção desde o desembolso e juros de mora de 1% ao mês a partir do trânsito em julgado.
+I - Arts. 402 e 403 do Código Civil
+No recurso especial, a parte recorrente alega que o acórdão violou os arts. 402 e 403 do Código Civil ao restringir indevidamente os itens de ressarcimento de perdas e danos.
+Verifica-se que o Tribunal de origem, com base no exame do conjunto fático-probatório dos autos, concluiu pela existência de prejuízos indenizáveis, delimitando a extensão das perdas e danos a partir das circunstâncias concretas da causa, especialmente no que concerne aos investimentos realizados, à origem dos recursos empregados, à fruição do bem e à necessidade de evitar enriquecimento sem causa.
+Nesse contexto, a revisão das conclusões adotadas no acórdão recorrido  notadamente quanto à configuração dos lucros cessantes, à efetiva existência de prejuízo e ao nexo causal entre a conduta das partes e os danos alegados  demandaria o reexame do acervo fático-probatório dos autos, providência vedada em sede de recurso especial, nos termos da Súmula 7 do STJ.
+Ademais, a controvérsia foi solucionada também à luz da interpretação das cláusulas contratuais firmadas entre as partes, especialmente no que se refere às obrigações assumidas, à forma de pagamento, às consequências do inadimplemento e aos efeitos da rescisão contratual. A pretensão recursal, ao buscar infirmar tais conclusões, esbarra igualmente no óbice da Súmula 5 do STJ.
+Com efeito, a pretensão de rediscutir a caracterização e a extensão dos danos materiais  inclusive lucros cessantes  , bem como a responsabilidade das partes pelos prejuízos decorrentes da execução e rescisão do contrato, implica necessariamente reavaliar fatos, provas e cláusulas contratuais, o que é inviável na via estreita do recurso especial.
+Assim, incidem, na espécie, os óbices das Súmulas 5 e 7 do Superior Tribunal de Justiça.
+II- Ar ts 405 do Código Civil
+No recurso especial, a parte recorrente alega violação do art. 405 do Código Civil ao fixar os juros moratórios apenas a partir do trânsito em julgado, quando deveriam incidir desde a citação em obrigações contratuais ilíquidas e sem termo.
+A Corte estadual decidiu que incidem "a contar do trânsito em julgado" e que o ressarcimento limita-se a provas de desembolsos específicos e parcelas pagas, fundamentou nos pagamentos das cédulas rurais diretamente vinculados à atividade, retomada da posse pelos autores com desconto bancário dos valores da parceira avícola, e necessidade de evitar pagamento em duplicidade, além da liquidação posterior do quantum (fls. 2.245-2.249).
+Contudo, nas razões do recurso especial, a parte limitando-se a alegar que os juros deveriam correr desde a citação e que todos os itens de benfeitorias deveriam ser mantidos, não refutou o fundamento do Tribunal a quo referente à inexistência de mora dos autores e à limitação do ressarcimento aos desembolsos comprovados e a parcelas de empréstimos quitadas.
+Com efeito, a mera indicação do dispositivo legal, desacompanhada de argumentação apta a demonstrar, de forma concreta, a sua violação, não é suficiente para viabilizar o conhecimento do recurso especial, conforme orientação consolidada desta Corte.
+Nesse sentido:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. MERA INDICAÇÃO DE DISPOSITIVO. AUSÊNCIA DE PREQUESTIONAMENTO. INCIDÊNCIA DAS SÚMULAS N. 282 E 356 DO STF. TEORIA DO FATO CONSUMADO. POSSIBILIDADE DE APLICAÇÃO AO CASO CONCRETO . INCIDÊNCIA DA SÚMULA N. 83 DO STJ. DECISÃO MANTIDA.
+1 . A simples indicação dos dispositivos legais tidos por violados, sem que o tema tenha sido enfrentado pelo acórdão recorrido, obsta o conhecimento do recurso especial, por falta de prequestionamento. Súmulas 282 e 356 do STF.
+2. De acordo com a jurisprudência do STJ, se a mudança da situação consolidada pelo decurso do tempo for mais prejudicial que a observância do princípio da legalidade (necessidade de escritura pública), deve ser aplicada a teoria do fato consumado . Precedentes do STJ. Incidência da Súmula n. 83 do STJ.
+3 . Agravo a que se nega provimento. (AgInt no REsp: 1885347 RN 2020/0180010-5, relator Ministro Antonio Carlos Ferreira, Quarta Turma, julgado em 21/02/2022, DJe de 25/02/2022.)
+Dessa forma, não se formou o indispensável prequestionamento, requisito essencial ao conhecimento do recurso especial, conforme o art. 105, III, da Constituição Federal.
+Incide, dessa forma, os óbices previstos nas Súmulas 282 e 256 do STF.
+III - Divergência jurisprudencial
+A recorrente afirma que há dissídio jurisprudencial quanto ao termo inicial dos juros moratórios nas obrigações de natureza contratual, indicando precedentes no sentido da incidência desde a citação.
+Para a interposição de recurso especial fundado na alínea c do permissivo constitucional, é necessário o atendimento dos requisitos essenciais para a comprovação do dissídio jurisprudencial, conforme prescrições dos arts. 1.029, § 1º, do Código de Processo Civil e 255, § 1º, do RISTJ. Isso porque não basta a simples transcrição da ementa dos paradigmas, pois, além de juntar aos autos cópia do inteiro teor dos arestos tidos por divergentes ou de mencionar o repositório oficial de jurisprudência em que foram publicados, deve a parte recorrente proceder ao devido confronto analítico, demonstrando a similitude fática entre os julgados, o que não foi atendido no caso.
+Portanto, está prejudicada a apreciação do dissídio jurisprudencial ante a não realização do devido cotejo analítico.
+Ademais, é entendimento desta Corte que a inadmissão do recurso especial interposto com fundamento no artigo 105, III, a, da Constituição Federal, em razão da incidência de enunciado sumular, prejudica o exame do recurso no ponto em que suscita divergência jurisprudencial se o dissídio alegado diz respeito ao mesmo dispositivo legal ou tese jurídica, o que ocorreu na hipótese.
+IV - Conclusão
+Ante o exposto, nego provimento ao agravo em recurso especial.
+Diante do que foi acima decidido, o pedido de atribuição de efeito suspensivo, formulado nas razões do recurso especial, fica prejudicado.
+Nos termos do § 11 do art. 85 do Código de Processo Civil, majoro, em 10% sobre o valor já arbitrado nas instâncias de origem, os honorários advocatícios em desfavor da parte ora recorrente, observados, se aplicáveis, os limites percentuais previstos no § 2º do referido artigo e ressalvada eventual concessão de gratuidade de justiça.
+É o voto.
