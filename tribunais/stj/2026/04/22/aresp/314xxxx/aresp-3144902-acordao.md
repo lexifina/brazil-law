@@ -1,0 +1,123 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 14/04/2026 a 22/04/2026, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Raul Araújo, Maria Isabel Gallotti, Antonio Carlos Ferreira e Luís Carlos Gambogi (Desembargador Convocado do TJMG) votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro João Otávio de Noronha.
+EMENTA
+DIREITO DO CONSUMIDOR. AGRAVO EM RECURSO ESPECIAL. AÇÃO DE RESCISÃO CONTRATUAL E INDENIZAÇÃO POR DANOS MORAIS. RELATIVIZAÇÃO DO PRAZO DO ART. 18, § 1º, DO CDC E QUALIDADE DE CONSUMIDOR. AGRAVO EM RECURSO ESPECIAL DESPROVIDO.
+I. CASO EM EXAME
+1. Agravo em recurso especial contra decisão que inadmitiu o recurso especial pelos óbices das Súmulas n. 7 do STJ e 284 do STF.
+2. A controvérsia diz respeito à ação de rescisão de contrato e indenização por vício oculto não sanado em 30 dias, com pedidos de restituição de valores, cancelamento/ajuste do financiamento e danos morais.
+3. Na sentença, o Juízo de primeiro grau reconheceu o vício, aplicou o CDC, desfez a compra e venda, determinou a restituição da entrada e a resolução do financiamento, condenou o banco à devolução das parcelas e a vendedora à restituição ao banco, e rejeitou danos morais.
+4. A Corte de origem reformou parcialmente para julgar improcedentes os pedidos em face do banco, manteve a resolução da compra e venda por vício não sanado em 30 dias, indeferiu danos morais e revogou a tutela; nos embargos de declaração, acolhidos em parte, ajustou a restituição pela vendedora ao autor e atribuiu ao autor a quitação do financiamento em 30 dias.
+II. QUESTÃO EM DISCUSSÃO
+5. Há três questões em discussão: (i) saber se o prazo de 30 dias do art. 18, § 1º, do CDC é relativo diante da diligência da fornecedora e da complexidade na obtenção de peças; (ii) saber se o autor, mecânico, não é destinatário final nos termos do art. 2º do CDC; e (iii) saber se há divergência jurisprudencial suficiente com julgados para o conhecimento pela alínea c do permissivo constitucional.
+III. RAZÕES DE DECIDIR
+6. Incide a Súmula n. 7 do STJ quando a análise da controvérsia acerca da violação dos artigos arrolados demandar o reexame de elementos de fato e de provas.
+7. O recurso pela alínea c não foi conhecido por ausência de cotejo analítico nos termos dos arts. 1.029, § 1º, do CPC e 255, § 1º, do RISTJ, sendo que a incidência dos óbices pela alínea a do permissivo constitucional impede o conhecimento pela alínea c sobre a mesma matéria.
+IV. DISPOSITIVO E TESE
+8. Agravo em recurso especial desprovido.
+Tese de julgamento: "1. Aplica-se a Súmula n. 7 do STJ quando a análise da controvérsia demandar o reexame de elementos de fato e de provas. 3. O recurso especial pela alínea c do permissivo constitucional não é conhecido sem o cotejo analítico exigido pelos arts. 1.029, § 1º, do CPC e 255, § 1º, do RISTJ, sendo ainda inviável o conhecimento óbices pela alínea a".
+Dispositivos relevantes citados: CDC, arts. 2º e 18, § 1º; CPC, art. 1.029, § 1º; RISTJ, art. 255, § 1º.
+Jurisprudência relevante citada: STJ, Súmula n. 7; STF, Súmula n. 284; STJ, AgInt no REsp n. 2.054.387/RJ, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 21/8/2023; STJ, AgInt nos EDcl no REsp n. 1.998.539/PB, relator Ministro Benedito Gonçalves, Primeira Turma, julgados em 3/4/2023; STJ, AgInt no AREsp n. 1.611.756/GO, relator Ministro Raul Araújo, Quarta Turma, julgado em 29/8/2022.
+RELATÓRIO
+Trata-se de agravo em recurso especial interposto por AUTO CAR COMERCIO DE VEÍCULOS LTDA. contra a decisão que inadmitiu o recurso especial pelos óbices das Súmulas n. 7 do STJ e 284 do STF.
+Alega a parte agravante que os pressupostos de admissibilidade do recurso especial fora m atendidos.
+Contraminuta às fls. 713-716.
+O recurso especial foi interposto com fundamento no art. 105, III, a e c, da Constituição Federal, contra acórdão do Tribunal de Justiça de Santa Catarina em apelação cível nos autos de ação de rescisão de contrato e indenização por danos morais.
+O julgado foi assim ementado (fls. 536-537):
+APELAÇÃO CÍVEL. AÇÃO DE RESCISÃO DE CONTRATO E INDENIZAÇÃO POR DANOS MORAIS. SENTENÇA DE PARCIAL PROCEDÊNCIA. RECURSOS DE APELAÇÃO INTERPOSTOS POR AMBOS DEMANDADOS. RECURSO ADESIVO DA PARTE AUTORA.
+ADMISSIBILIDADE. RESCISÃO CONTRATUAL. PRETENSÃO ACOLHIDA NA SENTENÇA. AUSÊNCIA DE INTERESSE RECURSAL DA PARTE AUTORA. NÃO CONHECIMENTO. RECURSO ADESIVO PARCIALMENTE CONHECIDO.
+IMPUGNAÇÃO À JUSTIÇA GRATUITA DEFERIDA EM FAVOR DO AUTOR . AUSÊNCIA DE PROVAS E RAZÕES SUFICIENTES PARA REVOGAÇÃO DA GRATUIDADE JUDICIÁRIA. DOCUMENTOS APRESENTADOS QUE, ALÉM DE INDICAREM DADOS OBTIDOS PELA INTERNET, DIZEM RESPEITO À PESSOA JURÍDICA QUE NÃO COMPÕE A LIDE. BENEFÍCIO CONCEDIDO À PESSOA FÍSICA. OBSERVÂNCIA DO ART. 99, § 3º, DO CPC. MANUTENÇÃO.
+PRELIMINAR. (I)LEGITIMIDADE PASSIVA ALEGADA PELA INSTITUIÇÃO FINANCEIRA. CONDIÇÕES DA AÇÃO AFERIDAS COM BASE NA TEORIA DA ASSERÇÃO. ENTENDIMENTO CONSOLIDADO DO STJ. CAUSA DE PEDIR ATRELADA A RESCISÃO DO CONTRATO DE MÚTUO FIRMADO COM A CASA BANCÁRIA. LEGITIMIDADE PASSIVA DESTA CONFIGURADA. PREFACIAL AFASTADA.
+APELO DA PRIMEIRA DEMANDADA. AVENTADA A INAPLICABILIDADE DO CDC AO CASO. INSUBSISTÊNCIA. AUTOR QUE EXERCE A PROFISSÃO DE MECÂNICO. HIPÓTESE QUE, POR CERTO, LHE CONFERE CONHECIMENTO SOBRE VEÍCULOS. PORÉM, NÃO TEM O CONDÃO DE AFASTAR A PROTEÇÃO CONSUMERISTA. VÍCIO OCULTO E IMPERCEPTÍVEL NO MOMENTO DA COMPRA. ADEMAIS, QUALIDADE DE CONSUMIDOR EVIDENCIADA, MORMENTE PORQUE DESTINATÁRIO FINAL DO PRODUTO ADQUIRIDO (ART. 2º, DO CDC). VEÍCULO QUE, AINDA QUE FACILITE O EXERCÍCIO DA ATIVIDADE PROFISSIONAL, NÃO É MEIO ESSENCIAL DE INCREMENTO E DESENVOLVIMENTO DESTA.
+APELO DA PRIMEIRA DEMANDADA. COMPRA E VENDA DE VEÍCULO USADO. PROBLEMAS MECÂNICOS (FALHA NO MOTOR E VAZAMENTO DE ÓLEO) APRESENTADOS NO DIA SEGUINTE DA COMPRA. FATO INCONTROVERSO. EMPRESA VENDEDORA QUE, REALMENTE, NÃO SE EXIMIU EM PRESTAR ASSISTÊNCIA TÉCNICA IMEDIATA. NO ENTANTO, NÃO LOGROU ÊXITO EM DISPONIBILIZAR O VEÍCULO DEVIDAMENTE CONSERTADO DENTRO NO PRAZO LEGAL DE 30 (TRINTA) DIAS, NOS TERMOS DO ARTIGO. 18, §1º, DO CDC. AQUISIÇÃO DAS PEÇAS NECESSÁRIAS AO CONSERTO APÓS ESGOTADO O PRAZO LEGAL. ÔNUS DA DEMORA QUE NÃO PODE SER SUPORTADO PELO CONSUMIDOR. ADEMAIS, DESGASTE NATURAL DECORRENTE DO TEMPO QUE NÃO SE CONFUNDE COM DEFEITO EXISTENTE AO TEMPO DA COMPRA, TAMPOUCO TEM O CONDÃO DE AFASTAR A RESPONSABILIDADE DA FORNECEDORA EM GARANTIR QUE O VEÍCULO COLOCADO A VENDA ESTIVESSE APTO AO USO IMEDIATO. RESCISÃO DO CONTRATO DE COMPRA E VENDA QUE SE REVELA ACERTADA.
+APELO DO SEGUNDO DEMANDADO. RESCISÃO DE CONTRATO DE COMPRA E VENDA DE VEÍCULO USADO. CÉDULA DE CRÉDITO BANCÁRIO FIRMADA PARA FINANCIAR O NEGÓCIO JURÍDICO. INSTITUIÇÃO FINANCEIRA QUE NÃO POSSUI VÍNCULOS COM A REVENDA DE VEÍCULOS USADOS. BANCO DE VAREJO. INEXISTÊNCIA DE ACESSORIEDADE ENTRE OS CONTRATOS. IMPOSSIBILIDADE DE RESPONSABILIZAR A INSTITUIÇÃO FINANCEIRA PELOS DEFEITOS OCULTOS. PRECEDENTES DO SUPERIOR TRIBUNAL DE JUSTIÇA. SENTENÇA REFORMA EM PARTE. IMPROCEDÊNCIA DOS PEDIDOS INAUGURAIS EM FACE DA CASA BANCÁRIA QUE SE IMPÕE.
+"1. Com efeito, segundo a jurisprudência deste Tribunal Superior, a responsabilidade solidária entre a instituição  nanceira e a concessionária de automóveis somente se perfaz quando existe vinculação entre ambas, isto é, a instituição  nanceira atua como "banco da montadora", integrando a cadeia de consumo e, portanto, sendo responsável pelo defeito no produto, o que não é o caso dos autos, em que a instituição  nanceira tão somente viabilizou o  nanciamento do veículo defeituoso, sem nenhuma vinculação com a revendedora de automóveis, tendo atuado somente como "banco de varejo". Precedentes. 2. A jurisprudência desta Corte Superior, se  rmou no sentido de que eventual rescisão da compra e venda não afeta o contrato de  nanciamento, salvo na hipótese em que a instituição  nanceira seja vinculada diretamente à comercialização do bem, o que não se con gura no presente caso". (AgInt no AREsp n. 1.828.349/PR, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 21/3/2022, DJe de 24/3/2022.)
+RECURSO ADESIVO. DANOS MORAIS. PLEITO CALCADO NA AQUISIÇÃO DE VEÍCULO DEFEITUOSO E NA IMPOSSIBILIDADE DE UTILIZÁ-LO POR MAIS DE 4 (QUATRO) MESES. AUSÊNCIA DE DEMONSTRAÇÃO DE QUE A SITUAÇÃO EXPERIMENTADA PELA PARTE AUTORA ATINGIU NEGATIVAMENTE SUA ESFERA PSÍQUICA E MORAL. TENTATIVA INFRUTÍFERA DE SOLUÇÃO PELA VIA ADMINISTRATIVA QUE NÃO TEM O CONDÃO DE GERAR ABALO MORAL, MORMENTE PORQUE NÃO REFLETIU SITUAÇÃO HUMILHANTE OU VEXATÓRIA. CONTEXTO DOS AUTOS QUE NÃO CONFIGURA DEVER DE INDENIZAR. PEDIDO AFASTADO.
+CONTRATO DE MÚTUO MANTIDO. TUTELA DE URGÊNCIA CONCEDIDA NA ORIGEM, PORTANTO, REVOGADA.
+PEDIDO DE CONDENAÇÃO DA PARTE AUTORA POR LITIGÂNCIA DE MÁ-FÉ. AUSÊNCIA DE CONDUTA PROCESSUAL DOLOSA. IMPOSSIBILIDADE DE PRESUNÇÃO DE MÁ-FÉ. AUSENTES OS REQUISITOS PREVISTOS NO ART. 80 DO CPC. PLEITO NÃO ACOLHIDO.
+SENTENÇA REFORMADA INTEGRALMENTE EM RELAÇÃO AO SEGUNDO DEMANDADO. SUCUMBÊNCIA REDISTRIBUÍDA QUANTO A ESTE. HONORÁRIOS RECURSAIS NÃO INCIDENTES. (ART. 85, § 11, CPC).
+MAJORAÇÃO DOS HONORÁRIOS EM FAVOR DO ADVOGADO DO AUTOR INVIÁVEL. VERBA FIXADA NA ORIGEM NO PERCENTUAL MÁXIMO LEGAL. MONTANTE FIXADO EM FAVOR DO CAUSÍDICO DA PRIMEIRA DEMANDADA DEVIDAMENTE MAJORADO.
+RECURSO DA PRIMEIRA DEMANDADA DESPROVIDO. APELO DO SEGUNDO DEMANDADO PROVIDO. RECURSO ADESIVO DESPROVIDO.
+Os embargos de declaração opostos foram decididos nestes termos (fl. 552):
+EMBARGOS DE DECLARAÇÃO EM APELAÇÃO CÍVEL. AÇÃO DE RESCISÃO DE CONTRATO E INDENIZAÇÃO POR DANOS MORAIS. SENTENÇA DE PARCIAL PROCEDÊNCIA. RECURSOS DE APELAÇÃO INTERPOSTOS POR AMBOS DEMANDADOS. RECURSO ADESIVO DA PARTE AUTORA. ACLARATÓRIOS DESTA.
+MÉRITO. OMISSÃO VERIFICADA. SANAÇÃO IMPERIOSA. CONTRATO COMPRA E VENDA DE VEÍCULO RESCINDIDO, PORÉM CONTRATO DE FINANCIAMENTO BANCÁRIO MANTIDO. REVENDEDORA DO VEÍCULO QUE DEVE PROCEDER A DEVOLUÇÃO DO VALOR FINANCIADO E RECEBIDO COMO PAGAMENTO EM FAVOR DO AUTOR. MEDIDA NECESSÁRIA AO STATUS QUO ANTE. INTEGRAÇÃO DO ACÓRDÃO NO PONTO.
+JUSTIÇA GRATUITA. CONDIÇÃO DE BENEFICIÁRIO DA GRATUIDADE DA JUSTIÇA QUE NÃO IMPEDE A CONDENAÇÃO AO PAGAMENTO DOS ÔNUS DE SUCUMBÊNCIA, MAS SOMENTE SUSPENDE A EXIGIBILIDADE DAS VERBAS. ART. 98, § 3º, DO CPC. VÍCIO INEXISTENTE.
+EMBARGOS ACOLHIDOS EM PARTE.
+Novos embargos de declaração opostos foram assim decididos (fl. 569):
+EMBARGOS DE DECLARAÇÃO EM EMBARGOS DE DECLARAÇÃO. APELAÇÃO CÍVEL. AÇÃO DE RESCISÃO DE CONTRATO E INDENIZAÇÃO POR DANOS MORAIS. ACÓRDÃO QUE ACOLHE EM PARTE OS EMBARGOS DE DECLARAÇÃO OPOSTOS PELO AUTOR. SEGUNDOS ACLARATÓRIOS DA PARTE DEMANDADA.
+MÉRITO. CONTRATO COMPRA E VENDA DE VEÍCULO RESCINDIDO, PORÉM CONTRATO DE FINANCIAMENTO BANCÁRIO MANTIDO. REVENDEDORA DO VEÍCULO QUE DEVE PROCEDER A DEVOLUÇÃO DO VALOR FINANCIADO E RECEBIDO COMO PAGAMENTO EM FAVOR DO AUTOR. CONTRADIÇÃO INEXISTENTE. OMISSÃO, POR OUTRO LADO, VERIFICADA. SANAÇÃO IMPERIOSA. AUTOR QUE DEVE PROCEDER A QUITAÇÃO DO CONTRATO DE FINANCIAMENTO, NO PRAZO ESTIPULADO. INTEGRAÇÃO DO ACÓRDÃO NO PONTO.
+EMBARGOS ACOLHIDOS EM PARTE.
+No recurso especial, a parte aponta divergência jurisprudencial e violação dos seguintes artigos:
+a) 18, § 1º, do Código de Defesa do Consumidor, porque o prazo de 30 dias não seria absoluto, devendo considerar a diligência da fornecedora e a complexidade na obtenção de peças em veículo com mais de dez anos, afastando a resolução automática; e
+b) 2º do Código de Defesa do Consumidor, já que o autor, mecânico, teria adquirido o veículo como insumo para incrementar atividade profissional, não se enquadrando como destinatário final pela teoria finalista mitigada.
+Sustenta que o Tribunal de origem, ao decidir que a extrapolação do prazo do art. 18, § 1º, do CDC autoriza o desfazimento do negócio, divergiu do entendimento do Tribunal de Justiça do Estado de São Paulo e do Superior Tribunal de Justiça -AgInt no AREsp n. 2.197.121/RO -.
+Requer o provimento do recurso para que se afaste a resolução automática e se restabeleça o contrato; requer ainda que se reconheça a inaplicabilidade do CDC ao caso ou, subsidiariamente, que os autos retornem ao Tribunal de origem para reapreciação conforme interpretação teleológica.
+Contrarrazões às fls. 688-694.
+É o relatório.
+EMENTA
+DIREITO DO CONSUMIDOR. AGRAVO EM RECURSO ESPECIAL. AÇÃO DE RESCISÃO CONTRATUAL E INDENIZAÇÃO POR DANOS MORAIS. RELATIVIZAÇÃO DO PRAZO DO ART. 18, § 1º, DO CDC E QUALIDADE DE CONSUMIDOR. AGRAVO EM RECURSO ESPECIAL DESPROVIDO.
+I. CASO EM EXAME
+1. Agravo em recurso especial contra decisão que inadmitiu o recurso especial pelos óbices das Súmulas n. 7 do STJ e 284 do STF.
+2. A controvérsia diz respeito à ação de rescisão de contrato e indenização por vício oculto não sanado em 30 dias, com pedidos de restituição de valores, cancelamento/ajuste do financiamento e danos morais.
+3. Na sentença, o Juízo de primeiro grau reconheceu o vício, aplicou o CDC, desfez a compra e venda, determinou a restituição da entrada e a resolução do financiamento, condenou o banco à devolução das parcelas e a vendedora à restituição ao banco, e rejeitou danos morais.
+4. A Corte de origem reformou parcialmente para julgar improcedentes os pedidos em face do banco, manteve a resolução da compra e venda por vício não sanado em 30 dias, indeferiu danos morais e revogou a tutela; nos embargos de declaração, acolhidos em parte, ajustou a restituição pela vendedora ao autor e atribuiu ao autor a quitação do financiamento em 30 dias.
+II. QUESTÃO EM DISCUSSÃO
+5. Há três questões em discussão: (i) saber se o prazo de 30 dias do art. 18, § 1º, do CDC é relativo diante da diligência da fornecedora e da complexidade na obtenção de peças; (ii) saber se o autor, mecânico, não é destinatário final nos termos do art. 2º do CDC; e (iii) saber se há divergência jurisprudencial suficiente com julgados para o conhecimento pela alínea c do permissivo constitucional.
+III. RAZÕES DE DECIDIR
+6. Incide a Súmula n. 7 do STJ quando a análise da controvérsia acerca da violação dos artigos arrolados demandar o reexame de elementos de fato e de provas.
+7. O recurso pela alínea c não foi conhecido por ausência de cotejo analítico nos termos dos arts. 1.029, § 1º, do CPC e 255, § 1º, do RISTJ, sendo que a incidência dos óbices pela alínea a do permissivo constitucional impede o conhecimento pela alínea c sobre a mesma matéria.
+IV. DISPOSITIVO E TESE
+8. Agravo em recurso especial desprovido.
+Tese de julgamento: "1. Aplica-se a Súmula n. 7 do STJ quando a análise da controvérsia demandar o reexame de elementos de fato e de provas. 3. O recurso especial pela alínea c do permissivo constitucional não é conhecido sem o cotejo analítico exigido pelos arts. 1.029, § 1º, do CPC e 255, § 1º, do RISTJ, sendo ainda inviável o conhecimento óbices pela alínea a".
+Dispositivos relevantes citados: CDC, arts. 2º e 18, § 1º; CPC, art. 1.029, § 1º; RISTJ, art. 255, § 1º.
+Jurisprudência relevante citada: STJ, Súmula n. 7; STF, Súmula n. 284; STJ, AgInt no REsp n. 2.054.387/RJ, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 21/8/2023; STJ, AgInt nos EDcl no REsp n. 1.998.539/PB, relator Ministro Benedito Gonçalves, Primeira Turma, julgados em 3/4/2023; STJ, AgInt no AREsp n. 1.611.756/GO, relator Ministro Raul Araújo, Quarta Turma, julgado em 29/8/2022.
+VOTO
+A controvérsia diz respeito a ação de rescisão de contrato e indenização por danos morais em que a parte autora pleiteou a resolução da compra e venda de veículo por vício oculto não sanado em 30 dias, restituição de valores pagos (entrada e financiamento), cancelamento/ajuste do financiamento e indenização por danos morais. O valor da causa foi fixado em R$ 92.465,16.
+Na sentença, o Juízo de primeiro grau reconheceu o vício, aplicou o CDC, desfez a compra e venda, determinou a restituição da entrada de R$ 70.000,00 e a resolução do financiamento, condenando o banco à devolução das parcelas e a vendedora à restituição de R$ 56.000,00 ao banco, e rejeitou danos morais.
+A Corte de origem reformou parcialmente a sentença para julgar improcedentes os pedidos contra o banco, manter a resolução da compra e venda por vício não sanado em 30 dias, indeferir danos morais, revogar a tutela, e, nos embargos, ajustar a restituição de R$ 56.000,00 pela vendedora ao autor e atribuir ao autor a quitação do financiamento em 30 dias.
+I - Art. 18, § 1º, do CDC
+No recurso especial, a parte recorrente alega que o prazo de 30 dias não é rígido e deveria ser relativizado, pois a fornecedora atuou com diligência e a demora decorreu da aquisição de peças específicas para veículo antigo.
+O acórdão recorrido concluiu que os vícios surgiram no dia seguinte à compra e não foram sanados no prazo legal de 30 dias; a revendedora prestou assistência, mas entregou o veículo consertado apenas em novembro, salientando que a aquisição de peças se deu fora do prazo.
+Confira-se (fls. 528-529, destaquei):
+2.3.2) Da rescisão do contrato de compra e venda
+No caso, restou incontroverso nos autos que o autor adquiriu perante a corré Autocar Comércio de Veículos o veículo Ranger XL CD4 2.2, placa MLB1C45, fabricação/modelo 2013/2014 (evento 1, DOC6), cujo contrato de compra e venda foi firmado em 07.07.2023 (evento 1, DOC10).
+Também restou incontroverso que no dia seguinte da compra o veículo passou a apresentar problemas mecânicos, tal como falha no motor e vazamento de óleo.
+Ainda, é inconteste que a empresa comerciante não se eximiu de prestar assistência ao comprador, tendo recolhido o veículo e direcionado a mecânicas para realizar os reparos necessários.
+No entanto, o ponto essencial para o deslinde da questão se refere ao prazo em que o veículo permaneceu no conserto e, por isso, indisponível ao consumidor.
+Com efeito, o prazo legal para que o fornecedor promova o reparo do bem é de 30 (trinta) dias. Ultrapassado tal período sem a entrega do produto em perfeitas condições de uso, é facultado ao consumidor exigir a rescisão contratual com a restituição da quantia paga. Veja-se in verbis o que dispõe o CDC:
+ ..
+No caso, as provas dos autos demonstram que o contrato de compra e venda foi assinado em 07.07.2023, tendo o veículo apresentado problema no dia seguinte.
+Na reclamação formulada pelo autor ao Procon, constata-se que apresentadas as falhas, o veículo foi encaminhado ao conserto, tendo retornado com o mesmo problema. No referido documento, o autor narra que (evento 1, DOC12):
+ ..
+Na defesa apresentada pelo fornecedor perante o Procon, a empresa justifica o seguinte (evento 1, DOC14):
+ ..
+No entanto, apesar da postura ativa da revendedora em prestar a assistência necessária ao reparo, o fato é que, ao fim e ao cabo, o veículo somente foi disponibilizado ao autor, devidamente consertado, em novembro de 2023, o que se verifica por meio de documento de entrega/retirada do veículo apresentado pela própria ré (evento 15, DOC2), corroborado pelo depoimento testemunhal do mecânico que promoveu o conserto (Cleber Lopes Mota), o qual afirmou que o veículo chegou em sua mecânica início de novembro e ficou pronto ao final do referido mês (evento 58, VÍDEO2).
+A demora na execução do reparo, segundo defende a parte ré, se deu em razão da necessidade de aquisição de peças as quais não são comercializadas na cidade.
+No entanto, apesar de ter afirmado na via extrajudicial (Procon) que a compra das peças foi realizada em setembro e que o veículo ficaria pronto no final do referido mês, infere-se da notal fiscal das peças que estas foram adquirias pela Autor Car somente em 05.10.2023 (evento 13, NFISCAL8), ou seja, muito após escoado o prazo legal de 30 (trinta) dias.
+Ora, não cabe ao consumidor suportar o ônus da demora na aquisição das peças, sendo certo que extrapolado o prazo legal para sanação do vício, cabe-lhe optar pelo desfazimento do negócio, o que justifica o fato de o autor não ter ido retirar o veículo na mecânica após o conserto (intempestivo sob o viés legal).
+Nesse contexto, rever as conclusões do acórdão impugnado demandaria, necessariamente, reexame do conjunto fático-probatório dos autos, o que é vedado pela Súmula n. 7 do STJ.
+II - Art. 2º do CDC
+A parte recorrente afirma que o autor não seria consumidor, pois adquiriu o veículo como insumo profissional e não seria destinatário final, afastando-se a teoria finalista mitigada.
+O acórdão recorrido assentou que, embora mecânico, o autor é pessoa física e destinatário final; o vício era oculto e o veículo, ainda que facilite o trabalho, não é meio essencial de incremento da atividade econômica.
+Veja-se (fls. 527-528):
+2.3.1) Da (in)aplicabilidade do CDC
+A primeira demandada, Auto Car Comércio da Veículos, sustenta a inaplicabilidade do Código de Defesa do Consumidor na hipótese, diante da capacidade técnica do autor para avaliar o veículo adquirido devido a sua profissão de mecânico, bem como diante do uso do bem para incrementar a atividade profissional.
+Primeiramente, importante mencionar que não se ignora o fato de que o autor exerce profissionalmente a atividade de mecânico - o que certamente lhe torna conhecedor do funcionamento de veículos.
+No entanto, tal constatação não tem o condão de afastar a aplicabilidade das normas de proteção do consumidor ao caso pois, tratando-se de vício oculto, não se pode esperar que seja constatado, de plano, até mesmo por um expert, mormente porque não é evidente no momento da compra.
+Ademais, consoante dispõe o art. 2º, da CDC, "Consumidor é toda pessoa física ou jurídica que adquire ou utiliza produto ou serviço como destinatário final".
+No caso, constata-se que o bem foi adquirido pela pessoa física e, conquanto também seja utilizado por ele para trabalho (além de passeio, conforme afirmado no depoimento pessoal do autor), é certo que a caminhonete não é o meio pelo qual exerce a tua atividade profissional de mecânico.
+Dito de outra forma, ainda que o veículo possa facilitar a atividade profissional do autor (no resgate de caminhões, como citado por ele no depoimento pessoal), o bem não é meio essencial de incremento da atividade econômica por ele exercia, a qual se consubstancia essencialmente no conserto de caminhões.
+A propósito, vale mencionar que: "Para a teoria maximalista, basta que o consumidor seja o "destinatário final" dos produtos ou serviços (CDC, art. 2º), incluindo-se aí não apenas aquilo que é adquirido ou utilizado para uso pessoal, familiar ou doméstico, como também o que é adquirido para o desempenho de atividade ou profissão, bastando, para tanto, que não haja finalidade de revenda" (TJSC, Apelação Cível n. 2004.005718-0, da Capital, rel. Des. Henry Petry Junior, Terceira Câmara de Direito Civil, j. 19-02-2008, grifei).
+Portanto, tratando-se o autor de pessoa física adquirente do produto como destinatário final, é inafastável a aplicação das normas de proteção do consumidor ao caso. Tese afastada, portanto.
+A revisão desse enquadramento atrai o óbice da Súmula n. 7 do STJ, por demandar revolvimento do conjunto fático-probatório.
+III- Dissídio Jurisprudencial
+Para a interposição de recurso especial fundado na alínea c do permissivo constitucional, é necessário o atendimento dos requisitos essenciais para a comprovação do dissídio jurisprudencial conforme prescrições dos arts. 1.029, § 1º, do CPC e 255, § 1º, do RISTJ.
+Isso porque não basta a simples transcrição da ementa dos paradigmas, pois, além de juntar aos autos cópia do inteiro teor dos arestos tidos por divergentes ou de mencionar o repositório oficial de jurisprudência em que foram publicados, deve a parte recorrente proceder ao devido confronto analítico, demonstrando a similitude fática entre os julgados, o que não foi atendido no caso.
+Ademais, a incidência de óbices sumulares quanto à interposição pela alínea a do permissivo constitucional impede o conhecimento do recurso especial pela divergência jurisprudencial sobre a mesma questão.
+Nesse sentido: AgInt no REsp n. 2.054.387/RJ, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 21/8/2023, DJe de 23/8/2023; AgInt nos EDcl no REsp n. 1.998.539/PB, relator Ministro Benedito Gonçalves, Primeira Turma, julgado em 3/4/2023, DJe de 11/4/2023; AgInt no AREsp n. 1.611.756/GO, relator Ministro Raul Araújo, Quarta Turma, julgado em 29/8/2022, DJe de 1/9/2022.
+Portanto, inviável o conhecimento do recurso quanto à divergência jurisprudencial.
+IV - Conclusão
+Ante o exposto, nego provimento ao agravo em recurso especial.
+Deixo de majorar os honorários recursais nos termos do § 11 do art. 85 do CPC, em razão do alcance do limite máximo previsto no § 2º do referido artigo.
+É o voto.
