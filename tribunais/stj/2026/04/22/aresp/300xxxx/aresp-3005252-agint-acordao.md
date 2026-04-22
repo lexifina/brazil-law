@@ -1,0 +1,63 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 16/04/2026 a 22/04/2026, por unanimidade, não conhecer do recurso, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Marco Aurélio Bellizze, Teodoro Silva Santos, Afrânio Vilela e Francisco Falcão votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro Teodoro Silva Santos.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DECISÃO DA PRESIDÊNCIA DO STJ NÃO REFUTADA. AUSÊNCIA DE IMPUGNAÇÃO AO FUNDAMENTO DA DECISÃO AGRAVADA. DESCUMPRIMENTO DO PRINCÍPIO DA DIALETICIDADE. ARTS. 932, III, E 1.021, §1º, DO CPC . AGRAVO INTERNO NÃO CONHECIDO.
+1. "A parte, ao recorrer, deve demonstrar o desacerto da decisão contra a qual se insurge, contestando todos os óbices por ela levantados, sob pena de sua manutenção". (AgRg nos EDv nos EAREsp n. 1.226.428/SP, rel. Min. Jorge Mussi, Corte Especial, DJe de 26/5/2020)
+2. "Verificada a ausência de impugnação específica de todos os fundamentos da decisão agravada, não se con hece do agravo interno, diante da inobservância do princípio da dialeticidade, conforme exigem os arts. 932, III, e 1.021, § 1º, do CPC/2015". (AgInt no AREsp n. 2.590.320/SP, rel. Min. Marco Aurélio Bellizze, Terceira Turma, DJe de 15/8/2024)
+3. Agravo interno não conhecido.
+RELATÓRIO
+Trata-se de agravo interno interposto pelo THIAGO PESSANHA CORREA contra decisão monocrática, de lavra da Presidência desta Corte, que conheceu do agravo para não conhecer do recurso especial, nos termos da seguinte argumentação (fl. 363):
+Decido.
+Quanto à controvérsia, não é cabível o Recurso Especial porque interposto contra acórdão com fundamento em legislação local, ainda que se alegue violação ou interpretação divergente de dispositivos de lei federal. Aplicável, por analogia, a Súmula n. 280 do STF: "Por ofensa a direito local não cabe recurso extraordinário".
+Nesse sentido: "A tutela jurisdicional prestada pela Corte de origem com fundamento em legislação local impede o exame do apelo extremo, mediante aplicação da Súmula 280/STF". (REsp 1.759.345/PI, Rel. Ministro Og Fernandes, Segunda Turma, DJe de 17.10.2019.)
+Confiram-se ainda os seguintes precedentes: ;AgInt no AREsp n. 2.593.766/RS, relatora Ministra Maria Thereza de Assis Moura, Segunda Turma, DJEN de 24/2/2025; AgInt no AREsp n. 2.583.702/RS, relator Ministro Teodoro Silva Santos, Segunda Turma, DJEN de 16/12/2024; AgInt no REsp n. 2.165.402/DF, relator Ministro Benedito Gonçalves, Primeira Turma, DJEN de 12/12/2024; AgInt no AREsp n. 2.709.248/RJ, relator Ministro Francisco Falcão, Segunda Turma, DJEN de 9/12/2024; AgInt no REsp n. 2.149.165/RJ, relatora Ministra Regina Helena Costa, Primeira Turma, DJe de 3/10/2024; AgInt no AREsp n. 2.507.694/SP, relator Ministro Humberto Martins, Terceira Turma, DJe de 25/9/2024; AgInt no AREsp n. 2.278.229/RS, relator Ministro Herman Benjamin, Segunda Turma, DJe de 19/12/2023; AgInt no AREsp n. 2.277.943/RN, relator Ministro Humberto Martins, Terceira Turma, DJe de 25/10/2023.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do Agravo para não conhecer do Recurso Especial.
+Nos termos do art. 85, § 11, do Código de Processo Civil, majoro os honorários de advogado em desfavor da parte recorrente em 15% sobre o valor já arbitrado nas instâncias de origem, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão de justiça gratuita.
+A parte agravante, em seu agravo interno de fls. 372-377, sustenta não ser aplicável o óbice da Súmula 280 do STF em razão de a pretensão recursal centrar-se na análise da violação ao artigo 5º, § 2º, da Lei Federal nº 8.112/1990, que prevê percentual de vagas destinadas às pessoas com deficiência, nestes termos:
+Quanto à aplicação da Súmula 280/STF, com a devida vênia, da leitura do recurso especial, percebe-se que o direito pleiteado tem seu fundamento não em legislação local, mas sim na Lei Federal nº 8.112/1990.
+Assim, apesar do concurso público realizado ter tido como parâmetro legal os cargos criados pela Lei Complementar Estadual nº 304/2004 e de ser brevemente discutida na ação a violação à Lei Estadual nº 7.052/2002, o recurso especial trata não da violação às referidas leis estaduais, mas debate, na realidade, como a condução do concurso público violou os ditames da Lei Federal nº 8.112/1990.
+(..)
+Portanto, apesar do concurso aqui contestado ter violado as disposições de uma lei estadual e ter sido, também, fundamentado em legislação local, a matéria de fundo do recurso especial não demanda a reanálise dos dispositivos legais estaduais, já que o cerne da questão de direito se refere à violação de dispositivos de lei federal.
+(..)
+As contrarrazões foram apresentas às fls. 385-389.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DECISÃO DA PRESIDÊNCIA DO STJ NÃO REFUTADA. AUSÊNCIA DE IMPUGNAÇÃO AO FUNDAMENTO DA DECISÃO AGRAVADA. DESCUMPRIMENTO DO PRINCÍPIO DA DIALETICIDADE. ARTS. 932, III, E 1.021, §1º, DO CPC . AGRAVO INTERNO NÃO CONHECIDO.
+1. "A parte, ao recorrer, deve demonstrar o desacerto da decisão contra a qual se insurge, contestando todos os óbices por ela levantados, sob pena de sua manutenção". (AgRg nos EDv nos EAREsp n. 1.226.428/SP, rel. Min. Jorge Mussi, Corte Especial, DJe de 26/5/2020)
+2. "Verificada a ausência de impugnação específica de todos os fundamentos da decisão agravada, não se con hece do agravo interno, diante da inobservância do princípio da dialeticidade, conforme exigem os arts. 932, III, e 1.021, § 1º, do CPC/2015". (AgInt no AREsp n. 2.590.320/SP, rel. Min. Marco Aurélio Bellizze, Terceira Turma, DJe de 15/8/2024)
+3. Agravo interno não conhecido.
+VOTO
+O agravo interno em apreço não possui aptidão para ser conhecido.
+O artigo 932, inciso III, do Código de Processo Civil assevera que "incumbe ao relator (..) III - não conhecer de recurso inadmissível, prejudicado ou que não tenha impugnado especificamente os fundamentos da decisão recorrida". Idêntica redação consta no artigo 255, §4º, inciso I, do Regimento Interno do STJ. Ambos os dispositivos nasceram por inspiração no enunciado 182 da Súmula do STJ, que reza:
+É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada.
+O regramento supra mencionado é utilizado para o julgamento unipessoal dos processos no STJ, que não tenham obedecido o princípio da dialeticidade.
+Para o agravo interno, o Código de Processo Civil trouxe a previsão contida no artigo 1.021, § 1º, segundo a qual, "na petição de agravo interno, o recorrente impugnará especificadamente os fundamentos da decisão agravada". No mesmo sentido é a dicção do artigo 259, §2º, do Regimento Interno do STJ.
+Na hipótese em análise, a decisão monocrática de fls. 361-363, fundou-se na aplicação do enunciado 280 da Súmula do STF, por analogia, em razão da impossibilidade de análise de legislação local na órbita do recurso especial.
+Todavia, em sede de agravo interno, a parte agravante não refutou suficientemente o referido fundamento da decisão monocrática, o qual, à míngua de fundamentação pormenorizada, detalhada e específica, permanece hígido, produzindo todos os efeitos no mundo jurídico.
+De fato, para infirmar o aludido óbice, a parte recorrente deveria ter explicitado em seu petitório de agravo interno, como seria possível ao STJ apreciar e julgar o recurso especial aventado, sem a necessidade de interpretação da legislação local, e como a ofensa teria se dado de maneira direta, e não reflexa, como in casu. Todavia, tal linha argumentativa não foi explanada no agravo interno .
+Com efeito, a controvérsia atinente à reserva de vagas para pessoas com deficiência em concurso público de âmbito estadual foi resolvida a partir da interpretação da Lei Estadual nº 7.050/2002, conforme é possível depreender da ementa do acórdão (fls. 270-271):
+APELAÇÃO CÍVEL. AÇÃO ORDINÁRIA. CONCURSO PÚBLICO. RESERVA PCD. CONVOCAÇÕES. EXPECTATIVA DE DIREITO. RECURSO IMPROVIDO.
+1. De acordo com a Lei Estadual nº. 7.050/2002, na realização de concursos públicos para preenchimento de cargos e empregos públicos de provimento efetivo do quadro de pessoal das administrações direta, indireta e fundacional do Estado deve ser reservado, à pessoa com deficiência 10% (dez por cento) das vagas.
+2. A preterição do candidato se dá mediante a convocação daqueles posteriores a sua colocação, de acordo com o cargo para o qual logrou aprovação.
+3. O edital deve ser claro e específico quanto ao número de vagas a serem preenchidas e as habilitações exigidas para o desempenho da função, bem como quanto a reserva de vagas PCD, pretos/pardos e indígenas, de forma a observar a garantia de acesso aos cargos públicos e permitir aos candidatos que se submetam aos exames para aquele que melhor atende aos seus ensejos e particularidades.
+4. O candidato que se inscreve para o cargo que não tem a previsão editalícia de reserva de vagas classifica-se pela lista geral de aprovados, não se enquadrando como preterição as nomeações de seus antecessores em pontuação.
+5. Recurso conhecido e improvido.
+6. Honorários majorados em 2%, suspensa a exigibilidade ao beneficiário da gratuidade da justiça.
+No julgamento dos embargos de declaração, o juízo a quo expressamente assinalou a regência da legislação estadual para a hipótese, em detrimento da lei federal apontada como violada. In verbis (fl. 313 e 316):
+Diga-se, apesar de não ter havido abordagem específica quanto à aplicação da Lei Federal nº 8.112/1990 e do Decreto Federal nº 9.508/2018, o tema foi examinado sob observância da Lei Estadual nº. 7.050/2002, a qual consolida as normas estaduais relativas às pessoas com deficiência e dá outras providências.
+(..)
+Para além disso, diante da previsão em legislação estadual quanto à reserva de vagas, não há obrigatoriedade da utilização, por analogia, da Lei Federal nº 8.112/1990 e do Decreto Federal nº 9.508/2018.
+Assim, não é possível alterar a conclusão do acórdão sem um prévio juízo sobre o sentido e alcance das previsões dispostas em lei estadual sobre a reserva de vagas para pessoa com deficiência. Ainda, eventual exame da lei estadual em confronto com a lei federal escapa à competência desta Corte Superior, em razão de previsão expressa de competência do Supremo Tribunal Federal para apreciar a matéria, nos termos do artigo 102, inciso III, alínea "d", da Constituição Federal.
+Note-se que "a parte, ao recorrer, deve demonstrar o desacerto da decisão contra a qual se insurge, contestando todos os óbices por ela levantados, sob pena de sua manutenção". (AgRg nos EDv nos EAREsp n. 1.226.428/SP, rel. Min. Jorge Mussi, Corte Especial, DJe de 26/5/2020)
+Assim, "inexistindo impugnação suficiente, como seria de rigor, aos fundamentos da decisão ora agravada, essa circunstância obsta, por si só, a pretensão recursal, pois, à falta de contrariedade, permanecem incólumes os motivos expendidos pela decisão recorrida". (AgInt no AREsp n. 1.439.852/MS, rel. Min. Luis Felipe Salomão, Quarta Turma, DJe de 18/3/2020)
+A respeito do tema, saliente-se que, "em atenção ao princípio da dialeticidade recursal, a impugnação deve ser realizada de forma efetiva, concreta e pormenorizada, não sendo suficientes alegações genéricas ou relativas ao mérito da controvérsia, sob pena de incidência, por analogia, da Súmula n. 182 do STJ." (AgInt no AREsp n. 2.067.588/SP, rel. Min. Herman Benjamin, Segunda Turma, DJe de 20/8/2024)
+Desse modo, "verificada a ausência de impugnação específica de todos os fundamentos da decisão agravada, não se conhece do agravo interno, diante da inobservância do princípio da dialeticidade, conforme exigem os arts. 932, III, e 1.021, § 1º, do CPC/2015". (AgInt no AREsp n. 2.590.320/SP, rel. Min. Marco Aurélio Bellizze, Terceira Turma, DJe de 15/8/2024) No mesmo sentido:
+PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO MANDO DE SEGURANÇA. RECURSO ESPECIAL. INTEMPESTIVIDADE. SUSPENSÃO DOS PRAZOS PROCESSUAIS NO TRIBUNAL DE ORIGEM. AUSÊNCIA DE COMPROVAÇÃO DO FERIADO LOCAL QUANDO DA INTERPOSIÇÃO DO RECURSO. COVID-19.
+(..)
+3. Em observância ao disposto no art. 1.021, § 1º, do CPC, que reforça o entendimento já consolidado na Súmula n. 182 do STJ, não se conhece de agravo interno que não impugna os fundamentos de decisão agravada.
+4. Agravo interno não conhecido.
+(AgInt nos EDcl no MS n. 28.813/DF, rel. Min. João Otávio de Noronha, Corte Especial, DJe de 16/8/2024)
+Ante o exposto, não conheço do agravo interno.
+É como voto.
