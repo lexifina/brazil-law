@@ -1,0 +1,32 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 14/04/2026 a 22/04/2026, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Sérgio Kukina, Regina Helena Costa, Gurgel de Faria e Paulo Sérgio Domingues votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Sérgio Kukina.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO À DECISÃO DE INADMISSÃO DO RECURSO ESPECIAL NA CORTE DE ORIGEM.
+1. Tendo o recurso sido interposto contra decisão publicada na vigência do Código de Processo Civil de 2015 (CPC/2015), devem ser exigidos os requisitos de admissibilidade conforme nele previsto, nos termos do Enunciado Administrativo n. 3/2016/STJ.
+2. A ausência de impugnação específica aos fundamentos da decisão da Corte de origem que não admitiu o recurso impede o conhecimento do agravo, nos termos dos artigos 932, III, do CPC/2015 e 253, parágrafo único, I, do Regimento Interno do Superior Tribunal de Justiça - RISTJ (redação dada pela Emenda Regimental n. 22/2016).
+3. Agravo interno não provido.
+RELATÓRIO
+O SENHOR MINISTRO BENEDITO GONÇALVES (Relator): Trata-se de agravo interno interposto por SEMENTES ESPERANÇA COMÉRCIO IMPORTAÇÃO E EXPORTAÇÃO LTDA contra decisão que não conheceu de seu agravo em recurso especial, assim ementada (fl.1618):
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. DECISÃO AGRAVADA. FUNDAMENTOS. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA. AGRAVO NÃO CONHECIDO.
+A parte agravante sustenta que demonstrou em seu agravo em recurso especial como se deram as ofensas aos artigos 489 e 1.022 do CPC/15, pois " ..  o D. Juízo não analisou o pedido e rejeito o mérito por ausência de comprovação do direito alegado, o que evidencia absurda incoerência, na medida em que a Agravante foi tolhida do princípio da universalidade de provas e da utilização de todos os meios cabíveis, sendo punida com a rejeição do mérito justamente por suposta não comprovação." (fl. 1631)
+Sem impugnação.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO À DECISÃO DE INADMISSÃO DO RECURSO ESPECIAL NA CORTE DE ORIGEM.
+1. Tendo o recurso sido interposto contra decisão publicada na vigência do Código de Processo Civil de 2015 (CPC/2015), devem ser exigidos os requisitos de admissibilidade conforme nele previsto, nos termos do Enunciado Administrativo n. 3/2016/STJ.
+2. A ausência de impugnação específica aos fundamentos da decisão da Corte de origem que não admitiu o recurso impede o conhecimento do agravo, nos termos dos artigos 932, III, do CPC/2015 e 253, parágrafo único, I, do Regimento Interno do Superior Tribunal de Justiça - RISTJ (redação dada pela Emenda Regimental n. 22/2016).
+3. Agravo interno não provido.
+VOTO
+O SENHOR MINISTRO BENEDITO GONÇALVES (Relator): Consigne-se inicialmente que o recurso foi interposto contra decisão publicada na vigência do Código de Processo Civil de 2015 (CPC/2015), devendo ser exigidos os requisitos de admissibilidade conforme nele previsto, nos termos do Enunciado Administrativo n. 3/2016/STJ.
+Dito isso, observa-se que o presente recurso não merece prosperar, tendo em vista que dos argumentos apresentados no agravo interno não se vislumbram razões para reformar a decisão agravada.
+A parte agravante sustenta não ser hipótese para a aplicação do enunciado da Súmula n. 182 do Superior Tribunal de Justiça (STJ).
+Entretanto, constata-se que a decisão ora agravada não conheceu do agravo em recurso especial, uma vez que não impugnado, especificamente, fundamento da decisão que inadmitiu o recurso na Corte de origem.
+Neste agravo interno, a parte agravante não demonstrou ter se insurgido, especificamente, na minuta do agravo, contra a decisão que obstou o recurso especial e que está respaldada no seguinte fundamento: Ausência de violação aos artigos 489 e 1.022 do CPC/15.
+Ocorre que à parte agravante impõe-se o ônus de observar o contexto em que os fundamentos da decisão da Corte de origem foram lançados e impugná-los, de forma individualizada e específica, o que não ocorreu no caso dos autos.
+Com efeito, para que se tenha como devidamente infirmada a assertiva de ausência de violação aos arts. 489 e 1.022 do CPC/2015, é preciso que a parte demonstre efetivamente como se deram as ofensas apontadas, esclarecendo os pontos não fundamentados, omissos, contraditórios ou obscuros e a importância do seu esclarecimento na solução da controvérsia. Todavia, a recorrente não apresentou razões que impugnassem esse fundamento da decisão do Tribunal de origem.
+Imperioso registrar que é defeso à parte, nas razões de agravo interno, impugnar tardiamente os fundamentos da decisão que inadmitiu o recurso especial, seja para retificar os termos do AREsp, seja para aditar-lhe fundamento.
+Assim, a falta ou a insurgência genérica contra a decisão que não admitiu o recurso especial, no tempo e modo oportunos, obstam o conhecimento do agravo. Essa é a determinação contida nos artigos 932, III, do CPC/2015 e 253, parágrafo único, I, do RISTJ (redação dada pela Emenda Regimental n. 22/2016).
+Ante o exposto, nego provimento ao agravo interno.
+É como voto.
