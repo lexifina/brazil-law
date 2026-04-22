@@ -1,0 +1,68 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 14/04/2026 a 22/04/2026, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Benedito Gonçalves, Sérgio Kukina, Regina Helena Costa e Gurgel de Faria votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Sérgio Kukina.
+EMENTA
+DIREITO PROCESSUAL CIVIL E DIREITO DO CONSUMIDOR. AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. DECISÃO DE ADMISSIBILIDADE. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS. MANUTENÇÃO DA DECISÃO QUE NÃO CONHECEU DO RECURSO. PROVIMENTO NEGADO.
+1. Para que o Superior Tribunal de Justiça (STJ) examine o recurso especial interposto, porém não admitido, é dever da parte recorrente, em seu agravo em recurso especial, desconstituir os fundamentos da decisão de admissibilidade, a qual não é formada por capítulos autônomos, mas por um único dispositivo.
+2. A falta de efetivo combate de um dos fundamentos da decisão que inadmitiu o recurso especial impede o conhecimento do respectivo agravo, segundo preceituam os arts. 932, inciso III, do Código de Processo Civil e 253, inciso I, do Regimento Interno do Superior Tribunal de Justiça.
+3. Agravo interno a que se nega provimento.
+RELATÓRIO
+Trata-se de agravo interno interposto por ELITA RIBEIRO NEVES da de cisão em que não se conheceu de seu recurso porque a decisão de admissibilidade do recurso especial não havia sido integralmente refutada (fls. 408/413).
+A parte agravante afirma que impugnou os fundamentos da decisão de admissibilidade.
+Requer a reconsideração da decisão agravada ou a apreciação do recurso pelo órgão colegiado competente.
+A parte adversa não apresentou impugnação (fl. 425).
+É o relatório.
+EMENTA
+DIREITO PROCESSUAL CIVIL E DIREITO DO CONSUMIDOR. AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. DECISÃO DE ADMISSIBILIDADE. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS. MANUTENÇÃO DA DECISÃO QUE NÃO CONHECEU DO RECURSO. PROVIMENTO NEGADO.
+1. Para que o Superior Tribunal de Justiça (STJ) examine o recurso especial interposto, porém não admitido, é dever da parte recorrente, em seu agravo em recurso especial, desconstituir os fundamentos da decisão de admissibilidade, a qual não é formada por capítulos autônomos, mas por um único dispositivo.
+2. A falta de efetivo combate de um dos fundamentos da decisão que inadmitiu o recurso especial impede o conhecimento do respectivo agravo, segundo preceituam os arts. 932, inciso III, do Código de Processo Civil e 253, inciso I, do Regimento Interno do Superior Tribunal de Justiça.
+3. Agravo interno a que se nega provimento.
+VOTO
+Na origem, o TRIBUNAL DE JUSTIÇA DO DISTRITO FEDERAL E DOS TERRITÓRIOS proferiu o acórdão assim ementado (fls. 290/291):
+PROCESSUAL CIVIL. DIREITO DO CONSUMIDOR. APELAÇÃO CÍVEL. CONCESSIONÁRIA DE SERVIÇO PÚBLICO. CAESB. FORNECIMENTO DE ÁGUA. CONTRATO SINALAGMÁTICO. INADIMPLEMENTO PROLONGADO. RESOLUÇÃO N. 14/2001 DA ADASA. NOTIFICAÇÃO PRÉVIA POR PRAZO LEGAL MÍNIMO DE 30 DIAS. COMPROVADA. SUSPENSÃO DO FORNECIMENTO DE ÁGUA. LEGITIMIDADE. INDENIZAÇÃO POR DANOS MORAIS. NÃO CABIMENTO.
+I. CASO EM EXAME
+1. Apelação cível interposta pela CAESB contra sentença que, em ação declaratória cumulada com pedido de obrigação de fazer e indenização por danos morais, determinou que a empresa se abstivesse de interromper o fornecimento de água à autora, por débitos pretéritos sem o aviso prévio legal, condenando-a ao pagamento de indenização no valor de R$ 7.000,00 pelos danos morais experimentados. A apelante sustenta a legalidade do corte devido à inadimplência reiterada, apontando a existência de notificação prévia no prazo legalmente estipulado pela ADASA e a inexistência de danos morais indenizáveis, ou, subsidiariamente, a necessidade de redução do respectivo quantum estipulado no r. decisum vergastado.
+II. QUESTÃO EM DISCUSSÃO
+2. Há duas questões em discussão: (i) verificar a legitimidade do corte do fornecimento de água em razão de inadimplemento prolongado e (ii) estabelecer a possibilidade de condenação por danos morais diante das circunstâncias do caso.
+III. RAZÕES DE DECIDIR
+3. O fornecimento de água, enquanto serviço público essencial, possui caráter oneroso, regido por contrato sinalagmático, onde a contraprestação do consumidor é indispensável para a manutenção da continuidade do serviço.
+4. O I, da Res. nº 14/2001 da ADASA, preconiza que o prestador art. 121, de serviços poderá suspender a prestação de serviços de abastecimento de água por inadimplemento, desde que notificado com antecedência de 30 (trinta) dias, sendo vedada a suspensão por motivo de fatura pendente há mais de 120 (cento e vinte) dias.
+5. A análise detida dos documentos que instruíram os autos demonstrou que o corte foi precedido de múltiplas notificações, dentro do prazo regulamentar, reforçando a legalidade do ato de corte do serviço pela empresa apelante.
+5.1. Constatado que o corte de fornecimento de água se deu em razão do inadimplemento por pelo menos 9 (nove) anos consecutivos em que a residência da cliente recebeu ininterruptamente o serviço de água, não há que se falar em qualquer ilegalidade decorrente da interrupção legítima do respectivo serviço público. Precedentes da 8ª Turma Cível do e. TJDFT.
+IV. DISPOSITIVO E TESE
+6. Apelação Cível conhecida e provida. Sentença reformada para julgar improcedentes os pedidos formulados na petição inicial. Ônus sucumbenciais invertidos. Suspensão da exigibilidade ressalvada. Tese de julgamento:
+1. O corte no fornecimento de água por inadimplemento prolongado, precedido de notificação regular, é legítimo, ainda que o serviço seja essencial.
+2. A inadimplência reiterada do consumidor afasta a configuração de dano moral indenizável fundada na interrupção do serviço. Dispositivos relevantes citados: Código de Defesa do Consumidor, art. 22; Resolução nº 14/2001 da ADASA, art. 121, I.
+Jurisprudência relevante citada: TJDFT, Apelação Cível nº 07055227720198070018, Rel. Robson Teixeira de Freitas, 8ª Turma Cível, j. 13.05.2020; TJDFT, Apelação Cível nº 07124126620188070018, Rel. Diaulas Costa Ribeiro, 8ª Turma Cível, j. 20.11.2019.
+A fim de que este Tribunal examine o recurso especial interposto, contudo inadmitido, é dever da parte interessada, nas razões de seu agravo em recurso especial, rebater os fundamentos da decisão de admissibilidade, apresentando argumentos suficientes para demonstrar o desacerto da decisão agravada.
+A falta de efetivo combate de um dos fundamentos da decisão que inadmitiu o recurso especial impede o conhecimento do respectivo agravo, conforme preceituam os arts. 932, inciso III, do Código de Processo Civil (CPC) e 253, inciso I, do Regimento Interno do Superior Tribunal de Justiça.
+Nesse mesmo sentido:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DECISÃO DE INADMISSIBILIDADE. FUNDAMENTO NÃO IMPUGNADO. SÚMULA 182/STJ. INCIDÊNCIA.
+1. A jurisprudência do Superior Tribunal de Justiça entende ser necessária a impugnação dos fundamentos da decisão denegatória da subida do recurso especial para que se conheça do respectivo agravo.
+2. Como registrado na primeira oportunidade, a empresa agravante não infirma especificamente a tese de que o acórdão recorrido estaria em consonância com o entendimento deste STJ. Logo, a Súmula 182 desta Corte foi corretamente aplicada ao caso.
+3. Incumbiria à parte interessada apontar precedentes contemporâneos ou supervenientes aos referidos na decisão combatida, procedendo ao cotejo analítico entre eles.
+4. O disposto nos arts. 932, parágrafo único, e 1.029, § 3º, do Código de Processo Civil de 2015 não é aplicável na hipótese de incidência da Súmula 182 do Superior Tribunal de Justiça. Precedentes.
+5. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 1.112.333/SP, relator Ministro Og Fernandes, Segunda Turma, julgado em 21/3/2019, DJe de 28/3/2019.)
+No presente caso, do agravo não se conheceu por deixar a parte agravante de impugnar a decisão de admissibilidade relativamente à aplicação da Súmula 284 do Supremo Tribunal Federal (STF) e em relação à ausência de demonstração da similitude fática entre os julgados confrontados.
+Nas razões do agravo em recurso especial, a parte recorrente alegou o seguinte:
+(1) "não há que se falar em óbice ao conhecimento do Recurso Especial com base na Súmula 7 do Superior Tribunal de Justiça, uma vez que a controvérsia instaurada é estritamente jurídica, prescindindo de qualquer reexame do conjunto fático-probatório dos autos" (fl. 358);
+(2) "A sentença ponderou de forma exemplar a necessidade de diferenciar subsídios atuais de débitos pretéritos, conforme entendimento do Superior Tribunal de Justiça, que não admite a suspensão de serviços essenciais como forma de coação ao pagamento de dívidas antigas. A decisão, portanto, mostra-se justa e técnica irrepreensível, merecendo total respaldo e manutenção por este Egrégio Tribunal" (fl. 364);
+(3) "O Recurso Especial manejado pela ora Agravante foi fundamentado na violação ao artigo 40, § 2º, da dispositivo legal que Lei nº 11.445/2007, prevê expressamente que a suspensão do fornecimento de serviços públicos essenciais só poderá ocorrer mediante notificação prévia com antecedência mínima de 30 dias" (fl. 365);
+(4) "Objetiva ao requerente, pelo presente, garantir a observância, pela remessa ré, do entendimento amplamente consolidado pelo c. Superior Tribunal de Justiça, no sentido da inviabilidade jurídica de suspensão do fornecimento de serviço essencial por subsídios pretéritos. O título de ilustração, revelou a transcrever as ementas de alguns julgados em que tal entendimento foi adotado" (fl. 370);
+(5) "a conduta da CAESB violou não apenas o direito fundamental ao acesso à água potável, mas também as normas de proteção ao consumidor, notadamente o artigo 22 do Código de Defesa do Consumidor, que impõe às concessionárias o dever de fornecer serviços adequados, eficientes, seguros e contínuos" (fl. 371); e
+(6) "A conduta abusiva e ilícita da CAESB, ao cortar abruptamente o fornecimento de água, gerou à recorrente sofrimento físico e psicológico, potencializado por sua condição de vulnerabilidade extrema: idosa, portadora de neoplasia maligna e viúva" (fl. 372).
+Em nova análise do agravo em recurso especial, constato que a parte agravante efetivamente não rebateu como deveria a decisão de admissibilidade do recurso especial porque não impugnou a incidência do óbice da Súmula 284/STF, deixando de apontar qual dispositivo legal teria sido vulnerado quanto à controvérsia recursal dos danos morais, bem como não demonstrou de que forma comprovara a similitude fática entre as hipóteses confrontadas para fins de demonstração do dissídio jurisprudencial suscitado.
+Está correta a decisão que não conheceu do recurso.
+Finalmente, é preciso frisar que a decisão de admissibilidade do recurso especial não é constituída por capítulos autônomos; ao contrário, ela é formada por um único dispositivo, o que demanda da parte agravante a impugnação de todos os fundamentos em razão dos quais seu recurso não foi admitido.
+A propósito, cito este precedente da Corte Especial deste Tribunal:
+PROCESSO CIVIL. EMBARGOS DE DIVERGÊNCIA. IMPUGNAÇÃO ESPECÍFICA DE TODOS OS FUNDAMENTOS DA DECISÃO RECORRIDA. ART. 544, § 4º, I, DO CPC/1973. ENTENDIMENTO RENOVADO PELO NOVO CPC, ART. 932.
+1. No tocante à admissibilidade recursal, é possível ao recorrente a eleição dos fundamentos objeto de sua insurgência, nos termos do art. 514, II, c/c o art. 505 do CPC/1973. Tal premissa, contudo, deve ser afastada quando houver expressa e específica disposição legal em sentido contrário, tal como ocorria quanto ao agravo contra decisão denegatória de admissibilidade do recurso especial, tendo em vista o mandamento insculpido no art. 544, § 4º, do CPC, no sentido de que pode o relator "não conhecer do agravo manifestamente inadmissível ou que não tenha atacado especificamente os fundamentos da decisão agravada" - o que foi reiterado pelo novel CPC, em seu art. 932.
+2. A decisão que não admite o recurso especial tem como escopo exclusivo a apreciação dos pressupostos de admissibilidade recursal. Seu dispositivo é único, ainda quando a fundamentação permita concluir pela presença de uma ou de várias causas impeditivas do julgamento do mérito recursal, uma vez que registra, de forma unívoca, apenas a inadmissão do recurso. Não há, pois, capítulos autônomos nesta decisão.
+3. A decomposição do provimento judicial em unidades autônomas tem como parâmetro inafastável a sua parte dispositiva, e não a fundamentação como um elemento autônomo em si mesmo, ressoando inequívoco, portanto, que a decisão agravada é incindível e, assim, deve ser impugnada em sua integralidade, nos exatos termos das disposições legais e regimentais.
+4. Outrossim, conquanto não seja questão debatida nos autos, cumpre registrar que o posicionamento ora perfilhado encontra exceção na hipótese prevista no art. 1.042, caput, do CPC/2015, que veda o cabimento do agravo contra decisão do Tribunal a quo que inadmitir o recurso especial, com base na aplicação do entendimento consagrado no julgamento de recurso repetitivo, quando então será cabível apenas o agravo interno na Corte de origem, nos termos do art. 1.030, § 2º, do CPC.
+5. Embargos de divergência não providos.
+(EAREsp n. 746.775/PR, relator Ministro João Otávio de Noronha, relator para acórdão Ministro Luis Felipe Salomão, Corte Especial, julgado em 19/9/2018, DJe de 30/11/2018.)
+Ante o exposto, nego provimento ao agravo interno.
+É o voto.
