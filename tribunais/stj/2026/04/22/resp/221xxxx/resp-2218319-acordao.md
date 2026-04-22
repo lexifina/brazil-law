@@ -1,0 +1,73 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 14/04/2026 a 22/04/2026, por unanimidade, não conhecer do recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Raul Araújo, Maria Isabel Gallotti, Antonio Carlos Ferreira e Luís Carlos Gambogi (Desembargador Convocado do TJMG) votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro João Otávio de Noronha.
+EMENTA
+DIREITO DO CONSUMIDOR. RECURSO ESPECIAL. DESCONTOS INDEVIDOS EM BENEFÍCIO PREVIDENCIÁRIO E DANO MORAL. INEXISTÊNCIA DE FUNDAMENTAÇÃO ESPECÍFICA E IMPOSSIBILIDADE DE REEXAME FÁTICO. RECURSO ESPECIAL NÃO CONHECIDO.
+I. CASO EM EXAME
+1. Recurso especial contra acórdão do Tribunal de Justiça do Estado do Rio Grande do Sul que negou provimento à apelação cível. Incidência dos óbices da Súmula n. 284 do STF por deficiência de fundamentação e da Súmula n. 7 do STJ por necessidade de revolvimento do conjunto fático-probatório.
+2. A controvérsia diz respeito à ação declaratória de inexistência de relação jurídica c/c repetição de indébito e indenização por danos morais, proposta em razão de descontos indevidos em benefício previdenciário.
+3. Na sentença, o Juízo de primeiro grau julgou procedentes os pedidos, declarou inexistente a relação jurídica, condenou à devolução em dobro dos valores com correção e juros, fixou danos morais em R$ 5.000,00 e honorários em 15%.
+4. A Corte de origem manteve integralmente a sentença, negou provimento à apelação, preservou os danos morais e a repetição em dobro, e majorou os honorários para 20%, ajustando juros e correção.
+II. QUESTÃO EM DISCUSSÃO
+5. Há quatro questões em discussão: (i) saber se a condenação por danos morais afronta os arts. 927 e 186 do CC por tratar indevidamente o dano como in re ipsa; (ii) saber se há divergência jurisprudencial quanto à não configuração de dano moral em hipóteses de descontos indevidos; (iii) saber se o acórdão recorrido violou o art. 489, § 1, II, III, IV, V e VI, do CPC por deficiência de fundamentação; e (iv) saber se houve violação ao art. 492 do CPC por extrapolar os limites do pedido.
+III. RAZÕES DE DECIDIR
+6. Aplica-se a Súmula n. 284 do STF, pois as razões recursais não apresentam impugnação específica apta a demonstrar contrariedade aos dispositivos indicados, o que impede o conhecimento do recurso quanto aos arts. 186 e 927 do CC e 373, I, do CPC.
+7. Incide a Súmula n. 7 do STJ, porque a revisão do reconhecimento do dano moral, fundado na natureza alimentar da verba e na reiteração dos descontos, demanda reexame de matéria fático-probatória, inviável na via especial, também pelo dissídio.
+IV. DISPOSITIVO E TESE
+8. Recurso especial não conhecido.
+Tese de julgamento: "1. Aplica-se a Súmula n. 284 do STF quando as razões do recurso especial não apresentam impugnação específica e adequada ao conteúdo dos dispositivos legais apontados como violados. 2. Incide a Súmula n. 7 do STJ quando a pretensão recursal demanda reexame das circunstâncias fáticas que embasaram o reconhecimento do dano moral."
+Dispositivos relevantes citados: CF, art. 105; CC, arts. 186, 926 e 927; CPC, arts. 373 I .
+Jurisprudência relevante citada: STJ, Súmula n. 7; STF, Súmula n. 284; STJ, AgInt no AREsp n. 2544150/MA, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 13/5/2024.
+RELATÓRIO
+Trata-se de recurso especial interposto por MBM PREVIDÊNCIA COMPLEMENTAR com fundamento no art. 105, III, a, c, da Constituição Federal, contra acórdão do Tribunal de Justiça do Estado do Rio Grande do Sul em apelação cível nos autos de ação declaratória de inexistência de relação jurídica c/c repetição de indébito e indenização por danos morais.
+O julgado foi assim ementado (fl. 324):
+APELAÇÃO CÍVEL. RESPONSABILIDADE CIVIL. AÇÃO DECLARATÓRIA DE INEXISTÊNCIA DE RELAÇÃO JURÍDICA. ÔNUS DA PROVA. INTELIGÊNCIA DO ART. 373, II, DO CPC. CASO DOS AUTOS EM QUE A CONTRATAÇÃO DO SEGURO NÃO RESTOU COMPROVADA PELA PARTE RÉ. NEGÓCIO JURÍDICO INEXISTENTE. NEGLIGÊNCIA E FALHA NA PRESTAÇÃO DE SERVIÇO BANCÁRIO. DESCONTO INDEVIDO DE PARCELAS EM BENEFÍCIO PREVIDENCIÁRIO DA PARTE AUTORA. DANOS MORAIS CONFIGURADOS. DEVER DE INDENIZAR MNTIDO. REPETIÇÃO DE INDÉBITO EM DOBRO. POSSIBILIDADE.
+Inexistindo comprovação nos autos de que o contrato de seguro foi celebrado com a anuência da autora, este deve ser considerado inexistente, já que lhe falta um dos elementos de existência do negócio jurídico, a manifestação de vontade. Os descontos efetivados em benefício previdenciário da autora, referentes ao seguro não contratado, caracteriza inequívoca responsabilidade da instituição bancária diante da sua negligência e falha na prestação dos serviços, impondo-se o dever de indenizar. Restando comprovada a cobrança indevida do consumidor de valor não justi cado, tem aplicabilidade o parágrafo único do artigo 42 do CDC, sendo devida a repetição do indébito em dobro. Indenização por danos morais mantida. NEGARAM PROVIMENTO AO APELO.
+No recurso especial, a parte aponta, além de divergência jurisprudencial, violação dos seguintes artigos:
+a) 927, 186, do Código Civil, porque sustenta que não há dano moral in re ipsa em simples descontos indevidos, sendo imprescindível comprovação de efetivo abalo, nexo causal e culpa;
+b) 926, 186, do Código Civil, porquanto afirma que o acórdão conferiu interpretação divergente ao conceito de dano moral indenizável, tratando como presumido o que demandaria prova de violação a direitos da personalidade;
+c) 489, § 1, II, III, IV, V, VI, do Código de Processo Civil, visto que a decisão seria dissociada da realidade dos fatos ao afirmar abalo de crédito e tratar o caso como cartão de crédito consignado, sem enfrentar os argumentos de inexistência de negativação e de pequena monta dos descontos;
+d) 492, do Código de Processo Civil, pois a condenação em danos morais teria extrapolado os limites do pedido e das causas de pedir, e, ao final, requer a cassação para novo julgamento.
+Sustenta que o Tribunal de origem divergiu, em síntese, ao presumir dano moral em razão de descontos indevidos sem prova de efetivo abalo, apontando como paradigmas julgados do TJSP e do TJMG (Apelação Cível 1001409-02.2022.8.26.0526; 1.0000.24.190637-9/001) e precedentes do STJ (REsp 1.881.453/RS; REsp 1.234.549; REsp 1.269.246), nos quais se afasta o dano moral in re ipsa em hipóteses de mero dissabor ou ausência de demonstração de prejuízo relevante (fls. 335-343).
+Requer o provimento do recurso para que se julgue improcedente o pedido de indenização por danos morais; requer ainda o provimento do recurso para que se casse o acórdão recorrido, com reconhecimento de violação aos arts. 489, § 1, II, III, IV, V, VI, e 492, do Código de Processo Civil, determinando-se o retorno dos autos à origem para novo julgamento.
+É o relatório.
+EMENTA
+DIREITO DO CONSUMIDOR. RECURSO ESPECIAL. DESCONTOS INDEVIDOS EM BENEFÍCIO PREVIDENCIÁRIO E DANO MORAL. INEXISTÊNCIA DE FUNDAMENTAÇÃO ESPECÍFICA E IMPOSSIBILIDADE DE REEXAME FÁTICO. RECURSO ESPECIAL NÃO CONHECIDO.
+I. CASO EM EXAME
+1. Recurso especial contra acórdão do Tribunal de Justiça do Estado do Rio Grande do Sul que negou provimento à apelação cível. Incidência dos óbices da Súmula n. 284 do STF por deficiência de fundamentação e da Súmula n. 7 do STJ por necessidade de revolvimento do conjunto fático-probatório.
+2. A controvérsia diz respeito à ação declaratória de inexistência de relação jurídica c/c repetição de indébito e indenização por danos morais, proposta em razão de descontos indevidos em benefício previdenciário.
+3. Na sentença, o Juízo de primeiro grau julgou procedentes os pedidos, declarou inexistente a relação jurídica, condenou à devolução em dobro dos valores com correção e juros, fixou danos morais em R$ 5.000,00 e honorários em 15%.
+4. A Corte de origem manteve integralmente a sentença, negou provimento à apelação, preservou os danos morais e a repetição em dobro, e majorou os honorários para 20%, ajustando juros e correção.
+II. QUESTÃO EM DISCUSSÃO
+5. Há quatro questões em discussão: (i) saber se a condenação por danos morais afronta os arts. 927 e 186 do CC por tratar indevidamente o dano como in re ipsa; (ii) saber se há divergência jurisprudencial quanto à não configuração de dano moral em hipóteses de descontos indevidos; (iii) saber se o acórdão recorrido violou o art. 489, § 1, II, III, IV, V e VI, do CPC por deficiência de fundamentação; e (iv) saber se houve violação ao art. 492 do CPC por extrapolar os limites do pedido.
+III. RAZÕES DE DECIDIR
+6. Aplica-se a Súmula n. 284 do STF, pois as razões recursais não apresentam impugnação específica apta a demonstrar contrariedade aos dispositivos indicados, o que impede o conhecimento do recurso quanto aos arts. 186 e 927 do CC e 373, I, do CPC.
+7. Incide a Súmula n. 7 do STJ, porque a revisão do reconhecimento do dano moral, fundado na natureza alimentar da verba e na reiteração dos descontos, demanda reexame de matéria fático-probatória, inviável na via especial, também pelo dissídio.
+IV. DISPOSITIVO E TESE
+8. Recurso especial não conhecido.
+Tese de julgamento: "1. Aplica-se a Súmula n. 284 do STF quando as razões do recurso especial não apresentam impugnação específica e adequada ao conteúdo dos dispositivos legais apontados como violados. 2. Incide a Súmula n. 7 do STJ quando a pretensão recursal demanda reexame das circunstâncias fáticas que embasaram o reconhecimento do dano moral."
+Dispositivos relevantes citados: CF, art. 105; CC, arts. 186, 926 e 927; CPC, arts. 373 I .
+Jurisprudência relevante citada: STJ, Súmula n. 7; STF, Súmula n. 284; STJ, AgInt no AREsp n. 2544150/MA, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 13/5/2024.
+VOTO
+I - Contextualização do caso
+A controvérsia diz respeito à ação de declaratória de inexistência de relação jurídica c/c repetição de indébito e indenização por danos morais em que a parte autora pleiteou declarar a inexistência da relação jurídica, condenar à repetição em dobro dos valores descontados indevidamente de benefício previdenciário e condenar ao pagamento de danos morais, com gratuidade judiciária e tramitação preferencial (fls. 316-317).
+Na sentença, o Juízo de primeiro grau julgou procedentes os pedidos, declarou a inexistência da relação jurídica, condenou à repetição/compensação dos valores em dobro com correção pelo IGP-M a contar de cada desembolso e juros de 1% ao mês desde a citação, e condenou ao pagamento de R$ 5.000,00 por danos morais, com correção pelo IGP-M desde o arbitramento e juros de 1% ao mês a partir da citação; fixou honorários advocatícios de 15% sobre o valor da condenação e condenou ao pagamento de custas (fls. 316-317).
+A Corte estadual manteve integralmente a sentença ao negar provimento à apelação, reafirmou a inexistência de contratação e a falha na prestação do serviço, manteve a repetição de indébito em dobro, manteve os danos morais em R$ 5.000,00 e majorou os honorários para 20% sobre o valor atualizado da condenação, ajustando os critérios de juros e correção conforme a Súmula 54 do STJ e a taxa SELIC após o arbitramento (fls. 320-322; ementa em fl. 324).
+II - Da alegada violação aos arts. 186 e 927 do Código Civil e 373, inciso I, do Código de Processo Civil
+O recorrente insurge-se contra o acórdão no ponto em que reconheceu a ocorrência de danos morais decorrentes de descontos indevidos no benefício previdenciário da parte recorrida. Aponta, ao final das razões recursais, violação aos arts. 186 e 927 do Código Civil e 373, inciso I, do Código de Processo Civil, invocando o permissivo da alínea "a" do art. 105, inciso III, da Constituição Federal.
+A alegação não pode ser conhecida. As razões recursais não desenvolvem, em nenhum momento, argumentação analítica que demonstre de que forma o acórdão recorrido teria contrariado os dispositivos indicados. A menção aos artigos é feita de modo tópico, desacompanhada de qualquer esforço em evidenciar a relação entre o conteúdo normativo invocado e o que foi decidido pelo tribunal de origem.
+A deficiência de fundamentação impede a exata compreensão da controvérsia, atraindo o óbice da Súmula n. 284 do Supremo Tribunal Federal, aplicável ao recurso especial por analogia.
+O recurso especial não comporta conhecimento neste ponto.
+III - Do alegado dissídio jurisprudencial
+O recorrente sustenta que o tribunal de origem divergiu de acórdãos do Tribunal de Justiça de São Paulo e do Tribunal de Justiça de Minas Gerais ao reconhecer a configuração de danos morais in re ipsa pelos descontos indevidos no benefício previdenciário da parte recorrida. Defende que a situação constituiria mero dissabor, não configurando lesão a direito da personalidade apta a ensejar reparação extrapatrimonial.
+O acórdão recorrido assentou que "a realização de sucessivos descontos indevidos do benefício previdenciário da parte consumidora, diante do caráter alimentar da referida verba, constitui dano moral indenizável", consignando ser "presumível que as quantias descontadas foram subtraídas da renda destinada ao sustento".
+A reforma dessa conclusão exigiria o reexame das circunstâncias fáticas que levaram o tribunal de origem a reconhecer a presença de elementos agravantes justificadores do dano moral, notadamente a natureza alimentar da verba atingida e a reiteração dos descontos. Esse caminho é vedado no âmbito do recurso especial.
+A jurisprudência desta Corte é assente no sentido de que a verificação da presença ou ausência de circunstâncias agravantes aptas a configurar o dano moral em casos de desconto indevido em benefício previdenciário constitui juízo eminentemente fático, insuscetível de revisão na via especial.
+Nesse sentido: "infirmar as convicções alcançadas pelo Tribunal de origem acerca da ausência de elementos para a configuração da violação aos direitos da personalidade da recorrente, a ensejar a indenização por danos morais, exige o reexame de matéria fático-probatória dos autos, o que é vedado, no âmbito do recurso especial, conforme a Súmula 7 do Superior Tribunal de Justiça" (AgInt no AREsp n. 2.544.150/MA, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 13/5/2024, DJe de 15/5/2024).
+A reforma do acórdão recorrido, portanto, é inviável também pela alínea "c", por força da Súmula n. 7 do STJ, dado que a controvérsia instalada é de natureza fática.
+O recurso especial não comporta conhecimento neste ponto.
+IV - Conclusão
+Ante o exposto, não conheço do recurso especial.
+Deixo de majorar os honorários visto que já foram fixados na origem no patamar máximo de 20%.
+É o voto.
