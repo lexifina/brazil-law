@@ -1,0 +1,54 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 16/04/2026 a 22/04/2026, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Afrânio Vilela, Francisco Falcão, Maria Thereza de Assis Moura e Marco Aurélio Bellizze votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Teodoro Silva Santos.
+EMENTA
+PROCESSUAL CIVIL E DIREITO ADMINISTRATIVO. AGRAVO INTERNO NO RECURSO ESPECIAL. SERVIDOR PÚBLICO. AÇÃO DECLARATÓRIA NO JUIZADO ESPECIAL JULGADA PROCEDE NTE. POSTERIOR AÇÃO DE COBRANÇA DAS DIFERENÇAS SALARIAIS. JUÍZO DA FAZENDA PÚBLICA ESTADUAL. COMPETÊNCIA. FUNDAMENTO DO ACÓRDÃO RECORRIDO NÃO IMPUGNADO E RAZÕES DISSOCIADAS. INCIDÊNCIA DOS ÓBICES DAS SÚMULAS N. 283 E 284 DO STF. AGRAVO INTERNO DESPROVIDO.
+1. Na origem: ação de cobrança ajuizada por Amujacy Arruda Nunes Coelho contra o Estado de Goiás, buscando a concessão de revisão do valor de sua pensão, e, por conseguinte, a condenação dos requeridos ao pagamento das diferenças de subsídio geradas no período de 28/07/2017 e 28/07/2022, no montante de R$ 1.948.853,67 (um milhão, novecentos e quarenta e oito mil oitocentos e cinquenta e três reais), devidamente atualizado. Em sede de sentença, o pleito foi julgado procedente para condenar o Estado de Goiás "ao pagamento de diferenças salariais relativas ao reenquadramento judicialmente estabelecido, observada a prescrição quinquenal".
+2. Nesta Corte, decisão que não conheceu do recurso especial.
+3. No caso, verifica-se que a parte recorrente não contestou o fundamento que, por si só, sustenta o acórdão recorrido. Da mesma forma, as razões do recurso especial estão dissociadas do que foi decidido pelo Tribunal de origem, evidenciando uma falha na fundamentação do recurso, o que, por analogia, atrai as restrições das Súmulas n. 283 e 284 do STF.
+4. Não tendo a parte agravante logrado êxito em infirmar os fundamentos que nortearam a decisão ora agravada, impõe-se a sua manutenção, em todos os seus termos.
+5. Agravo interno desprovido.
+RELATÓRIO
+Trata-se de agravo interno interposto pelo ESTADO DE GOIÁS contra a decisão de minha lavra que negou conhecimento ao recurso especial (fls. 430-434).
+Nas razões deste agravo interno, a parte agravante, em síntese, alega a insubsistência da decisão agravada, ao afirmar que (fls. 443):
+Ocorre que, concessa venia, sobredito óbices não se aplicam ao caso em exame, pois o recurso especial do Estado impugnou especificamente os fundamentos do acórdão recorrido, demonstrando violação direta aos artigos 2º e 27 da Lei 12.153/2009 e ao art. 3º, §3º, da Lei 9.099/95, com argumentação robusta acerca da incompetência absoluta da Vara da Fazenda Pública, à luz da natureza acessória da ação de cobrança em relação à ação declaratória já transitada em julgado no Juizado Especial da Fazenda Pública.
+Não há falar, portanto, em deficiência de fundamentação nem ausência de impugnação.
+ ..
+Ora, concessa venia, o Estado de Goiás não deixou fundamento carente de impugnação, tampouco veiculou fundamentação dissociada do acórdão recorrido. O que o Estado de Goiás está a apontar em seu Recurso Especial é que, mesmo diante da alegada competência da Vara de Fazenda Pública estadual ou mesmo da afirmada ausência de acessoriedade entre as demandas, o acórdão recorrido incorreu em contrariedade a preceitos de lei federal porquanto, em consonância com a legislação, a propositura da demanda perante o Juizado Especial da Fazenda Pública implica em renúncia ao excedente a 60 (sessenta) salários mínimos, o que atinge a causa de pedir!
+Ao final, requer a reconsideração da decisão agravada ou o conhecimento e provimento do recurso pelo órgão colegiado (fl. 450).
+Apresentada contraminuta (fls. 455-466 ).
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL E DIREITO ADMINISTRATIVO. AGRAVO INTERNO NO RECURSO ESPECIAL. SERVIDOR PÚBLICO. AÇÃO DECLARATÓRIA NO JUIZADO ESPECIAL JULGADA PROCEDE NTE. POSTERIOR AÇÃO DE COBRANÇA DAS DIFERENÇAS SALARIAIS. JUÍZO DA FAZENDA PÚBLICA ESTADUAL. COMPETÊNCIA. FUNDAMENTO DO ACÓRDÃO RECORRIDO NÃO IMPUGNADO E RAZÕES DISSOCIADAS. INCIDÊNCIA DOS ÓBICES DAS SÚMULAS N. 283 E 284 DO STF. AGRAVO INTERNO DESPROVIDO.
+1. Na origem: ação de cobrança ajuizada por Amujacy Arruda Nunes Coelho contra o Estado de Goiás, buscando a concessão de revisão do valor de sua pensão, e, por conseguinte, a condenação dos requeridos ao pagamento das diferenças de subsídio geradas no período de 28/07/2017 e 28/07/2022, no montante de R$ 1.948.853,67 (um milhão, novecentos e quarenta e oito mil oitocentos e cinquenta e três reais), devidamente atualizado. Em sede de sentença, o pleito foi julgado procedente para condenar o Estado de Goiás "ao pagamento de diferenças salariais relativas ao reenquadramento judicialmente estabelecido, observada a prescrição quinquenal".
+2. Nesta Corte, decisão que não conheceu do recurso especial.
+3. No caso, verifica-se que a parte recorrente não contestou o fundamento que, por si só, sustenta o acórdão recorrido. Da mesma forma, as razões do recurso especial estão dissociadas do que foi decidido pelo Tribunal de origem, evidenciando uma falha na fundamentação do recurso, o que, por analogia, atrai as restrições das Súmulas n. 283 e 284 do STF.
+4. Não tendo a parte agravante logrado êxito em infirmar os fundamentos que nortearam a decisão ora agravada, impõe-se a sua manutenção, em todos os seus termos.
+5. Agravo interno desprovido.
+VOTO
+A despeito dos argumentos veiculados no presente recurso, a insatisfação não merece prosperar.
+Na origem, ação de cobrança ajuizada por Amujacy Arruda Nunes Coelho contra o Estado de Goiás, buscando a concessão de revisão do valor de sua pensão, e, por conseguinte, a condenação dos requeridos ao pagamento das diferenças de subsídio geradas no período de 28/07/2017 e 28/07/2022, no montante de R$ 1.948.853,67 (um milhão, novecentos e quarenta e oito mil oitocentos e cinquenta e três reais), devidamente atualizado. Em sede de sentença, o pleito foi julgado procedente para condenar o Estado de Goiás "ao pagamento de diferenças salariais relativas ao reenquadramento judicialmente estabelecido, observada a prescrição quinquenal" (fl. 269).
+Nesta Corte, decisão de minha lavra não conhecendo do recurso especial (fls. 430-434), que ora mantenho .
+No que diz respeito às controvérsias, o Tribunal na origem se manifestou no seguinte sentido (fls. 326-330; sem grifos no original):
+Assim, limitada a matéria à declaração do direito ao recebimento de diferenças do posicionamento na carreira de servidor inativo/pensionista, sem cunho condenatório que possibilitasse a imediata execução do título, pois o acórdão se limitou a reconhecer, tão somente, a existência do direito relativo as diferenças no vencimento em razão do posicionamento na carreira, presente a competência, a adequação e o interesse processual do ajuizamento da ação de cobrança na Justiça Comum.
+ ..
+Superadas as preliminares de mérito, sobeja a alegação de pretender-se a limitação da cobrança ao teto de 60 salários-mínimos previsto na Lei nº 12.153/2009, porquanto essa restrição o é para o ajuizamento de causas perante a Justiça especializada, circunstância dispare ao caso em tela.
+Destarte, inexistindo vedação legal ao ajuizamento de ação estritamente declaratória em sede de Juizado Especial, atribuindo-lhe valor meramente estimativo, o posterior ingresso da ação de cobrança com pretensão condenatória na Justiça Comum, com intuito de receber valores maiores do que aqueles limitados pelo artigo 2º da Lei nº 12.153/2009, não autoriza a conclusão de renúncia tácita, pois:
+ ..
+Nesse cenário, verifica-se que a parte recorrente não contestou o fundamento que, por si só, sustenta o acórdão recorrido. Da mesma forma, observa-se que as razões do recurso especial estão dissociadas do que foi decidido pelo Tribunal de origem, evidenciando uma falha na fundamentação do recurso, o que, por analogia, atrai as restrições das Súmulas n. 283 e 284 do Supremo Tribunal Federal. Nesse sentido:
+PROCESSUAL CIVIL. AÇÃO ANULATÓRIA DE ATO ADMINISTRATIVO. IMPOSIÇÃO DE MULTA ADMINISTRATIVA PELO PROCON ESTADUAL. EMPRESA DE TELEFONIA. VIOLAÇÃO AO DEVER DE INFORMAÇÃO AOS CONSUMIDORES ACERCA DA COBRANÇA DE TARIFAS EXTRAS. CONFIGURAÇÃO DE INFRAÇÃO ÀS NORMAS CONSUMERISTAS. CABIMENTO DA MULTA APLICADA. REDUÇÃO DO VALOR DA MULTA PELO TRIBUNAL DE ORIGEM. HONORÁRIOS ADVOCATÍCIOS. ACOLHIMENTO DO PEDIDO SUBSIDIÁRIO E REJEIÇÃO DO PRINCIPAL. SUCUMBÊNCIA RECÍPROCA. FUNDAMENTOS DO ACÓRDÃO A QUO NÃO COMBATIDOS. SÚMULAS 283 E 284/STF.
+ ..
+3. Nas razões recursais, nota-se que a parte recorrente não infirma os argumentos de que "constatada a hipótese de sucumbência reciproca, decorrente do acolhimento apenas do pleito subsidiário", limitando-se a defender que "a severa redução havida sobre a multa administrativa impingida à Recorrente pelo Estado ora recorrido caracteriza sucumbência em parte mínima do pedido que encampou na exordial, o que de antemão assegura-lhe a percepção da totalidade dos honorários advocatícios devidos calculados sobre o proveito econômico obtido". Como a fundamentação do acórdão recorrido é apta, por si só, para manter o decisum combatido e não houve contraposição recursal sobre o ponto, não há como conhecer do recurso. Por isso, aplicam-se, na espécie, por analogia, os óbices das Súmulas 284 e 283 do STF, ante a deficiência na motivação e a ausência de impugnação de fundamento autônomo.
+ ..
+5. Agravo Interno não provido.
+(AgInt no REsp n. 2.087.302/MG, Relator Ministro Herman Benjamin, Segunda Turma, julgado em 19/8/2024, DJe de 22/8/2024).
+PROCESSUAL CIVIL E TRIBUTÁRIO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO CIVIL PÚBLICA. DISCURSÃO SOBRE MATÉRIA TRIBUTÁRIA. LEGITIMIDADE ATIVA DO PARQUET. ACÓRDÃO COM FUNDAMENTO AUTÔNOMO NÃO IMPUGNADO E RAZÕES RECURSAIS DISSOCIADAS DE SEUS FUNDAMENTOS. INCIDÊNCIA, POR ANALOGIA, DAS SÚMULAS N. 283 E 284/STF. MATÉRIA DECIDIDA PELO TRIBUNAL DE ORIGEM SOB O ENFOQUE EMINENTEMENTE CONSTITUCIONAL. COMPETÊNCIA DO STF.
+ ..
+2. Caso em que o recorrente deixou de impugnar o fundamento autônomo do acórdão recorrido, estando, ainda, as razões recursais dissociadas daquilo que restou decidido pelo Tribunal de origem, o que caracteriza deficiência na fundamentação do recurso especial e atrai, por analogia, os óbices das Súmulas 283 e 284, do STF.
+ ..
+4. Agravo interno não provido.
+(AgInt no AREsp n. 2.050.268/SP, Relator Ministro Benedito Gonçalves, Primeira Turma, julgado em 18/12/2023, DJe de 21/12/2023).
+Assim, não tendo a parte agravante logrado êxito em infirmar os fundamentos que nortearam a decisão ora agravada, impõe-se a sua manutenção, em todos os seus termos.
+Ante o exposto, NEGO PROVIMENTO ao agravo interno.
+É o voto.
