@@ -1,0 +1,38 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 14/04/2026 a 22/04/2026, por unanimidade, negar provimento ao recurso, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Antonio Carlos Ferreira, Luís Carlos Gambogi (Desembargador Convocado do TJMG), João Otávio de Noronha e Raul Araújo votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro João Otávio de Noronha.
+EMENTA
+AGRAVO INTERNO. RECURSO EM MANDADO DE SEGURANÇA. PRETENSÃO DE REFORMA DA DECISÃO SINGULAR QUE INDEFERIU A PETIÇÃO INICIAL POR NÃO SER CASO DE MANDADO DE SEGURANÇA. ART. 10 DA LEI 12.016/09. EXCEPCIONALIDADE DO MANEJO DO MANDADO DE SEGURANÇA CONTRA ATO JUDICIAL. SÚMULA 267 DO STF. INEXISTÊNCIA DE ILEGALIDADE FLAGRANTE OU TERATOLOGIA NO ATO JUDICIAL IMPUGNADO. AUSÊNCIA DE FATO NOVO OU FUNDAMENTO JURÍDICO QUE MODIFIQUE POSICIONAMENTO JURISDICIONAL ANTERIOR. MANUTENÇÃO DA DECISÃO AGRAVADA. CONHECIMENTO E DESPROVIMENTO DO AGRAVO INTERNO.
+1. A impetração de mandado de segurança contra ato judicial é medida excepcional, admissível somente nas hipóteses em que se verifica de plano decisão teratológica, ilegal ou abusiva, contra a qual não caiba recurso.
+2. Inexistentes razões de fato e de direito bastantes para que seja modificada a decisão agravada, deve, nessa oportunidade, ser ratificado o pronunciamento jurisdicional singular, por todos os seus fundamentos.
+3. Agravo interno a que se nega provimento.
+RELATÓRIO
+Trata-se de agravo interno interposto por EDGAR MENDONÇA MEISTER contra a decisão mediante a qual neguei provimento a seu recurso em mandado de segurança.
+O acórdão recorrido tem a seguinte ementa:
+AGRAVO INTERNO EM MANDADO DE SEGURANÇA. INDEFERIMENTO DA PETIÇÃO INICIAL. IMPETRAÇÃO DA ORDEM CONTRA DECISÃO INTERLOCUTÓRIA QUE NÃO CONHECEU DE EMBARGOS DECLARATÓRIOS E APLICOU MULTA POR LITIGÂNCIA DE MÁ-FÉ EM DESFAVOR DO EXECUTADO. ATO JUDICIAL PASSÍVEL DE RECURSO. APLICAÇÃO DO º, II, DA ART. 5 E DA SÚMULA 267 DO STF. TERATOLOGIA E ABUSO DELEI N. 12.016/2009 PODER NÃO VERIFICADOS. IMPOSSIBILIDADE DE UTILIZAÇÃO DO MANDAMUS COMO SUCEDÂNEO RECURSAL. DECISÃO TERMINATIVA MANTIDA. RECURSO CONHECIDO E DESPROVIDO.
+O agravante alega que deve ser analisada a garantia do duplo grau de jurisdição e o princípio da dialeticidade, bem como a sanção pecuniária imposta pelo Juízo de Primeiro Grau, que considerou os embargos de declaração medida protelatória e de má-fé.
+Em sua impugnação, o ESTADO DE SANTA CATARINA afirma que as razões do agravo são mera reprodução dos recursos anteriormente interpostos. Entende que a decisão deve ser mantida por seus próprios fundamentos, além de ser aplicável ao caso a Súmula 284/STF.
+É o relatório.
+EMENTA
+AGRAVO INTERNO. RECURSO EM MANDADO DE SEGURANÇA. PRETENSÃO DE REFORMA DA DECISÃO SINGULAR QUE INDEFERIU A PETIÇÃO INICIAL POR NÃO SER CASO DE MANDADO DE SEGURANÇA. ART. 10 DA LEI 12.016/09. EXCEPCIONALIDADE DO MANEJO DO MANDADO DE SEGURANÇA CONTRA ATO JUDICIAL. SÚMULA 267 DO STF. INEXISTÊNCIA DE ILEGALIDADE FLAGRANTE OU TERATOLOGIA NO ATO JUDICIAL IMPUGNADO. AUSÊNCIA DE FATO NOVO OU FUNDAMENTO JURÍDICO QUE MODIFIQUE POSICIONAMENTO JURISDICIONAL ANTERIOR. MANUTENÇÃO DA DECISÃO AGRAVADA. CONHECIMENTO E DESPROVIMENTO DO AGRAVO INTERNO.
+1. A impetração de mandado de segurança contra ato judicial é medida excepcional, admissível somente nas hipóteses em que se verifica de plano decisão teratológica, ilegal ou abusiva, contra a qual não caiba recurso.
+2. Inexistentes razões de fato e de direito bastantes para que seja modificada a decisão agravada, deve, nessa oportunidade, ser ratificado o pronunciamento jurisdicional singular, por todos os seus fundamentos.
+3. Agravo interno a que se nega provimento.
+VOTO
+O agravo não prospera.
+Com efeito, o acórdão recorrido está em harmonia com a orientação firmada na jurisprudência desta Corte, para a qual não é cabível mandado de segurança contra ato judicial passível de recurso, salvo situações excepcionais. Confiram-se, a propósito:
+AGRAVO INTERNO NO RECURSO EM MANDADO DE SEGURANÇA. INCIDENTE DE SUSPEIÇÃO EM AÇÃO DE DESTITUIÇÃO DE PODER FAMILIAR. INDEFERIMENTO. IMPUGNAÇÃO DE DECISÃO JUDICIAL. EXCEPCIONALIDADE. ILEGALIDADE OU TERATOLOGIA. INEXISTÊNCIA. SUCEDÂNEO RECURSAL. DESCABIMENTO. AGRAVO DESPROVIDO. SÚMULA N. 267/STF. 1. Deve ser aplicado o entendimento desta Corte Superior no sentido de que não se afigura adequada a utilização de mandado de segurança como sucedâneo recursal, cristalizada, inclusive, no Enunciado n. 267 da Súmula de jurisprudência do STF, in verbis: "Não cabe Mandado de Segurança contra ato judicial passível de recurso ou correição." 2. Como bem assinalou o Tribunal de origem, o writ interposto na origem é substitutivo de agravo de instrumento, haja vista que o rol do do art. 1.015 CPC/2015 possui taxatividade mitigada, segundo o entendimento da Corte Especial do STJ ( . Tema 988/STJ) 3. Agravo interno desprovido.
+(AgInt no RMS n. 69.181/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 13/2/2023, DJe de 16/2/2023).
+PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO EM MANDADO DE SEGURANÇA. ILEGALIDADE. TERATOLOGIA. ABUSO DE PODER. NÃO OCORRÊNCIA. DECISÃO MANTIDA. 1. "A jurisprudência deste Tribunal Superior é firme no sentido de que o mandado de segurança não se presta para amparar a revisão de ato de natureza jurisdicional, salvo situação de absoluta excepcionalidade, em que ficar cabalmente evidenciado o caráter teratológico da medida impugnada" (AgInt no RMS n. 65.754/SP, Relator Ministro MARCO BUZZI, QUARTA TURMA, julgado em D Je de . 4/4/2022, 6/4/2022) 2. O recurso deve observar o princípio da dialeticidade, ou seja, apresentar as razões pelas quais a parte recorrente não se conforma com o acórdão proferido pelo Tribunal de origem, a fim de permitir ao julgador cotejar os fundamentos lançados na decisão judicial com as razões de insurgência. 3. Agravo interno a que se nega provimento.
+(AgInt nos EDcl no RMS n. 69.847/SP, relator Ministro Antonio Carlos Ferreira, Quarta Turma, julgado em 13/2/2023, DJe de 22/2/2023).
+No caso em exame, consta que o acórdão recorrido segue à risca o entendimento acima apresentado, conforme se verifica do seguinte trecho do acórdão (fl. 98):
+O mandado de segurança impetrado pelo recorrente tem por objeto decisão interlocutória proferida pelo Juiz da 4ª Vara Cível da Comarca de Joinville, que não conheceu de embargos declaratórios e aplicou "nova multa por litigância de má-fé em desfavor do executado no equivalente a 5% (cinco por cento) do valor atualizado da causa".
+Conforme mencionado na decisão monocrática ora impugnada, o art. 5º, inciso II, da Lei n. 12.01 6/2009 obsta a utilização do mandado de segurança como sucedâneo aos recursos legalmente previstos para o combate de provimentos jurisdicionais.
+A esse respeito, o Supremo Tribunal Federal consolidou entendimento de que "Não cabe mandado de segurança contra ato judicial passível de recurso ou correição" (Súmula n. 267).
+(..)
+Acrescento que é inviável o reexame das matérias debatidas por meio de mandado de segurança quando ausente teratologia ou abuso de poder.
+Consoante observado pelo Ministério Público Federal, a agravante pretende "a reanálise das decisões judiciais proferidas nas instâncias ordinárias, pretensão que deve ser feita por intermédio do recurso próprio (agravo de instrumento)" (fl. 154).
+À míngua, portanto, de direito líquido e certo a ser amparado, é mesmo o caso de se denegar a ordem pleiteada. Aplica-se ao caso a Súmula 267 do STF.
+Em face do exposto, acompanho o parecer do Ministério Público Federal e nego provimento ao agravo interno.
+É como voto.
