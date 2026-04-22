@@ -1,0 +1,99 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 14/04/2026 a 22/04/2026, por unanimidade, conhecer parcialmente do recurso, mas lhe negar provimento, nos termos do voto do Sr. Ministro João Otávio de Noronha.
+Os Srs. Ministros Raul Araújo, Maria Isabel Gallotti, Antonio Carlos Ferreira e Luís Carlos Gambogi (Desembargador Convocado do TJMG) votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro João Otávio de Noronha.
+EMENTA
+DIREITO CIVIL. AGRAVO EM RECURSO ESPECIAL. REVISÃO DE CONTRATO DE COMPRA E VENDA DE LOTE. CLÁUSULA DE CORREÇÃO PELA REMUNERAÇÃO DA POUPANÇA CUMULADA COM JUROS DE 1% AO MÊS. MORA E RESTITUIÇÃO. INTERPRETAÇÃO DE CLÁUSULAS CONTRATUAIS E REEXAME DE MATÉRIA FÁTICO-PROBATÓRIA. SÚMULAS N. 5 E 7 DO STJ. AGRAVO CONHECIDO. RECURSO ESPECIAL CONHECIDO EM PARTE E DESPROVIDO.
+I. CASO EM EXAME
+1. Trata-se de agravo em recurso especial interposto contra decisão que inadmitiu o recurso especial por aplicação das Súmulas n. 5 e 7 do STJ, por ausência de violação do art. 1.022 do CPC e por ausência de probabilidade de provimento para fins de efeito suspensivo nos termos do art. 995, parágrafo único, do CPC.
+2. A controvérsia diz respeito à ação de procedimento comum revisional com repetição de indébito, que busca declarar abusiva a cláusula de correção das parcelas pela remuneração plena da poupança acrescida de 1% e limitar a multa moratória a 2%, com restituição de valores pagos a maior.
+3. A sentença julgou procedente em parte para declarar abusiva a cláusula 3.1, limitar a multa moratória a 2% e condenar à restituição simples dos valores pagos a maior, com juros de mora de 1% desde a citação e correção monetária desde cada desembolso, fixando honorários de 10%.
+4. A Corte de origem rejeitou a preliminar de incongruência e negou provimento à apelação, mantendo a sentença e majorando os honorários para 15%.
+II. QUESTÃO EM DISCUSSÃO
+5. Há onze questões em discussão: (i) saber se houve negativa de prestação jurisdicional por omissão, obscuridade e contradição (art. 1.022 do CPC); (ii) saber se é possível corrigir as parcelas pela TR, como remuneração básica da poupança, cumulada com juros de 1% ao mês (art. 46 da Lei n. 10.931/2004, art. 1º da Lei n. 6.899/1981, art. 5º, I, da Lei n. 9.514/1997); (iii) saber se a correção para assegurar o valor real da prestação foi indevidamente afastada (art. 317 do CC); (iv) saber se houve descaracterização da mora sem consignação do valor incontroverso (arts. 334 e 335 do CC e art. 330, §§ 2º e 3º, do CPC); (v) saber se a atualização monetária e perdas e danos foram indevidamente afastadas (arts. 389, 395 e 404 do CC); (vi) saber se a restituição deveria ser em dobro, sob pena de enriquecimento sem causa (arts. 884 e 885 do CC); (vii) saber se houve julgamento extra petita e desrespeito aos limites do pedido (arts. 10, 11, 141, 490 e 492 do CPC); (viii) saber se o acórdão afastou correção monetária devida em condenações e obrigações pecuniárias (art. 1º da Lei n. 6.899/1981); (ix) saber se não foram observadas teses firmadas em repetitivos e a devolução integral das matérias na apelação (art. 927, III, art. 1.013, caput, §§ 1º e 2º, e art. 1.014 do CPC); (x) saber se houve ausência de enfrentamento de argumentos e precedentes capazes de infirmar a conclusão (art. 489, § 1º, III, IV e VI, e art. 1.022, I e II, parágrafo único, I e II, do CPC); e (xi) saber se há probabilidade de provimento para concessão de efeito suspensivo (art. 995, parágrafo único, do CPC).
+III. RAZÕES DE DECIDIR
+6. Não se verifica a alegada violação do art. 1.022 do CPC, pois o Tribunal de origem examinou as questões suscitadas e os embargos declaratórios buscaram rediscutir o mérito.
+7. Aplica-se a Súmula n. 5 do STJ, quando a tese recursal exigir interpretação de cláusula contratual .
+8. O recurso especial não comporta o acolhimento de teses recursais acerca de questões que impliquem reexame do conjunto fático-probatório dos autos, em face do óbice da Súmula n. 7 do STJ.
+IV. DISPOSITIVO E TESE
+9. Agravo em recurso especial conhecido para conhecer em parte do recurso especial e negar-lhe provimento.
+Tese de julgamento: "1. Não se verifica a alegada violação ao art. 1.022 do CPC quando o Tribunal de origem enfrenta as questões suscitadas. 2. Aplica-se a Súmula n. 5 do STJ e incide a Súmula n. 7 do STJ quando a pretensão demanda interpretação de cláusula contratual e reexame do conjunto fático-probatório,"
+Dispositivos relevantes citados: CC, arts. 317, 334, 335, 389, 395, 404, 884 e 885; CPC, arts. 10, 11, 85, § 11, 141, 330, §§ 2º e 3º, 489, § 1º, III, IV e VI, 995, parágrafo único, 1.013, caput, §§ 1º e 2º, 1.014, 1.022, I e II, parágrafo único, I e II; Lei n. 10.931/2004, art. 46; Lei n. 6.899/1981, art. 1º; Lei n. 9.514/1997, art. 5º, I.
+Jurisprudência relevante citada: STJ, Súmulas n. 5 e 7.
+RELATÓRIO
+Trata-se de agravo em recurso especial interposto por BALLESTEROS EMPREENDIMENTOS IMOBILIÁRIOS LTDA. e por VITORIA DA UNIÃO EMPREENDIMENTOS IMOBILIÁRIOS LTDA. contra a decisão que inadmitiu o recurso especial por aplicação das Súmulas n. 5 e 7 do STJ, por ausência de violação do art. 1.022 do Código de Processo Civil e por ausência de probabilidade de provimento para fins de efeito suspensivo nos termos do art. 995, parágrafo único, do Código de Processo Civil.
+Alega a parte agravante que os pressupostos de admissibilidade do recurso especial foram atendidos.
+Há pedido expresso de efeito suspensivo ao recurso.
+O recurso especial foi interposto, com fundamento no art. 105, III, a, da Constituição Federal, contra acórdão do Tribunal de Justiça do Estado de Minas Gerais em apelação cível nos autos de ação revisional de contrato c/c repetição de indébito.
+O julgado foi assim ementado (fl. 1.098):
+APELAÇÃO. COMPRA E VENDA DE LOTE EM CONDOMÍNIO. COBRANÇA DE JUROS REMUNERATÓRIOS CUMULADA COM CORREÇÃO DA PRESTAÇÃO POR ÍNDICE DA CADERNETA DE POUPANÇA. ABSUIVIDADE. VALOR COBRADO A MAIOR. DEVOLUÇÃO. CORREÇÃO MONETÁRIA.
+- A cumulação de juros remuneratórios à taxa de 1% (um por cento) ao mês mais o índice mensal de remuneração da caderneta de poupança para atualizar os valores das prestações mensais em contrato de compra e venda de imóvel é abusiva, vez que em desacordo com o que dispõe em desacordo com o art. 46 da Lei nº 10.931/04.
+- Reconhecida a cobrança indevida de juros remuneratórios à taxa de 1% (um por cento) ao mês mais o índice mensal de remuneração da caderneta de poupança, correta a ordem de devolução dos valores cobrados a maior.
+Os embargos de declaração opostos foram decididos nestes termos (fl. 1.146):
+EMBARGOS DE DECLARAÇÃO. INEXISTÊNCIA DE OMISSÃO OU CONTRADIÇÃO. REDISCUSSÃO DO MÉRITO. NÃO APLICABILIDADE DO ARTIGO 1022 DO CPC/2015. REJEIÇÃO DOS EMBARGOS DE DECLARAÇÃO QUE SE IMPÕE.
+- Não havendo qualquer omissão, obscuridade ou contradição no acórdão, não demonstrando a efetiva necessidade de aplicabilidade do artigo 1022 do CPC, há de rejeitar os embargos de declaração.
+- Irresignações sobre questões de mérito do julgado, não podem ser objeto de embargos de declaração, pois esses somente se prestam para o aclaramento de omissões, obscuridades, contradições e erros materiais.
+No recurso especial, a parte aponta violação dos seguintes artigos:
+a) 317 do Código Civil, porque o acórdão recorrido teria afastado a correção para assegurar o valor real da prestação;
+b) 334 e 335 do Código Civil, porque teria havido descaracterização da mora sem consignação do valor tido por incontroverso e sem depósitos judiciais;
+c) 389, 395 e 404 do Código Civil, já que se teria afastado a atualização monetária devida nas obrigações pecuniárias e alterado a disciplina de perdas e danos;
+d) 884 e 885 do Código Civil, pois a ordem de restituição simples em vez de em dobro teria violado a vedação ao enriquecimento sem causa;
+e) 46 da Lei n. 10.931/2004, porquanto seria possível a correção pelas parcelas do índice de remuneração básica dos depósitos de poupança (TR), cumulada com juros de 1% ao mês;
+f) 1º da Lei n. 6.899/1981, visto que se teria afastado correção monetária devida em condenações e obrigações pecuniárias;
+g) 5º, I, da Lei n. 9.514/1997, porque o acórdão teria afastado a reposição integral do valor emprestado e o respectivo reajuste;
+h) 10, 11, 141, 490 e 492 do Código de Processo Civil, pois o julgamento teria sido extra petita e sem observar os limites do pedido;
+i) 330, §§ 2º e 3º, do Código de Processo Civil, porque a mora não poderia ser afastada sem pagamento do valor incontroverso nos termos legais;
+j) 489, § 1º, III, IV e VI, e 1.022, I e II, parágrafo único, I e II, do Código de Processo Civil, porquanto teria havido omissão, obscuridade, contradição e ausência de enfrentamento de argumentos e precedentes capazes de infirmar a conclusão;
+k) 927, III, 1.013, caput, §§ 1º e 2º, e 1.014 do Código de Processo Civil, já que não teriam sido observadas teses firmadas em repetitivos e devolução da matéria impugnada na apelação.
+Requer o provimento do recurso para que se reconheça a negativa de prestação jurisdicional, se autorize a correção monetária das parcelas pela TR ou outro índice oficial, se afaste a descaracterização da mora e se permita a compensação de créditos e débitos; requer ainda a concessão de efeito suspensivo.
+Não foram apresentadas contrarrazões, conforme a certidão de fl. 1.188.
+É o relatório.
+EMENTA
+DIREITO CIVIL. AGRAVO EM RECURSO ESPECIAL. REVISÃO DE CONTRATO DE COMPRA E VENDA DE LOTE. CLÁUSULA DE CORREÇÃO PELA REMUNERAÇÃO DA POUPANÇA CUMULADA COM JUROS DE 1% AO MÊS. MORA E RESTITUIÇÃO. INTERPRETAÇÃO DE CLÁUSULAS CONTRATUAIS E REEXAME DE MATÉRIA FÁTICO-PROBATÓRIA. SÚMULAS N. 5 E 7 DO STJ. AGRAVO CONHECIDO. RECURSO ESPECIAL CONHECIDO EM PARTE E DESPROVIDO.
+I. CASO EM EXAME
+1. Trata-se de agravo em recurso especial interposto contra decisão que inadmitiu o recurso especial por aplicação das Súmulas n. 5 e 7 do STJ, por ausência de violação do art. 1.022 do CPC e por ausência de probabilidade de provimento para fins de efeito suspensivo nos termos do art. 995, parágrafo único, do CPC.
+2. A controvérsia diz respeito à ação de procedimento comum revisional com repetição de indébito, que busca declarar abusiva a cláusula de correção das parcelas pela remuneração plena da poupança acrescida de 1% e limitar a multa moratória a 2%, com restituição de valores pagos a maior.
+3. A sentença julgou procedente em parte para declarar abusiva a cláusula 3.1, limitar a multa moratória a 2% e condenar à restituição simples dos valores pagos a maior, com juros de mora de 1% desde a citação e correção monetária desde cada desembolso, fixando honorários de 10%.
+4. A Corte de origem rejeitou a preliminar de incongruência e negou provimento à apelação, mantendo a sentença e majorando os honorários para 15%.
+II. QUESTÃO EM DISCUSSÃO
+5. Há onze questões em discussão: (i) saber se houve negativa de prestação jurisdicional por omissão, obscuridade e contradição (art. 1.022 do CPC); (ii) saber se é possível corrigir as parcelas pela TR, como remuneração básica da poupança, cumulada com juros de 1% ao mês (art. 46 da Lei n. 10.931/2004, art. 1º da Lei n. 6.899/1981, art. 5º, I, da Lei n. 9.514/1997); (iii) saber se a correção para assegurar o valor real da prestação foi indevidamente afastada (art. 317 do CC); (iv) saber se houve descaracterização da mora sem consignação do valor incontroverso (arts. 334 e 335 do CC e art. 330, §§ 2º e 3º, do CPC); (v) saber se a atualização monetária e perdas e danos foram indevidamente afastadas (arts. 389, 395 e 404 do CC); (vi) saber se a restituição deveria ser em dobro, sob pena de enriquecimento sem causa (arts. 884 e 885 do CC); (vii) saber se houve julgamento extra petita e desrespeito aos limites do pedido (arts. 10, 11, 141, 490 e 492 do CPC); (viii) saber se o acórdão afastou correção monetária devida em condenações e obrigações pecuniárias (art. 1º da Lei n. 6.899/1981); (ix) saber se não foram observadas teses firmadas em repetitivos e a devolução integral das matérias na apelação (art. 927, III, art. 1.013, caput, §§ 1º e 2º, e art. 1.014 do CPC); (x) saber se houve ausência de enfrentamento de argumentos e precedentes capazes de infirmar a conclusão (art. 489, § 1º, III, IV e VI, e art. 1.022, I e II, parágrafo único, I e II, do CPC); e (xi) saber se há probabilidade de provimento para concessão de efeito suspensivo (art. 995, parágrafo único, do CPC).
+III. RAZÕES DE DECIDIR
+6. Não se verifica a alegada violação do art. 1.022 do CPC, pois o Tribunal de origem examinou as questões suscitadas e os embargos declaratórios buscaram rediscutir o mérito.
+7. Aplica-se a Súmula n. 5 do STJ, quando a tese recursal exigir interpretação de cláusula contratual .
+8. O recurso especial não comporta o acolhimento de teses recursais acerca de questões que impliquem reexame do conjunto fático-probatório dos autos, em face do óbice da Súmula n. 7 do STJ.
+IV. DISPOSITIVO E TESE
+9. Agravo em recurso especial conhecido para conhecer em parte do recurso especial e negar-lhe provimento.
+Tese de julgamento: "1. Não se verifica a alegada violação ao art. 1.022 do CPC quando o Tribunal de origem enfrenta as questões suscitadas. 2. Aplica-se a Súmula n. 5 do STJ e incide a Súmula n. 7 do STJ quando a pretensão demanda interpretação de cláusula contratual e reexame do conjunto fático-probatório,"
+Dispositivos relevantes citados: CC, arts. 317, 334, 335, 389, 395, 404, 884 e 885; CPC, arts. 10, 11, 85, § 11, 141, 330, §§ 2º e 3º, 489, § 1º, III, IV e VI, 995, parágrafo único, 1.013, caput, §§ 1º e 2º, 1.014, 1.022, I e II, parágrafo único, I e II; Lei n. 10.931/2004, art. 46; Lei n. 6.899/1981, art. 1º; Lei n. 9.514/1997, art. 5º, I.
+Jurisprudência relevante citada: STJ, Súmulas n. 5 e 7.
+VOTO
+A controvérsia diz respeito à ação de procedimento comum revisional com repetição de indébito em que a parte autora pleiteou a declaração de abusividade da cláusula de correção das parcelas pela remuneração plena da poupança acrescida de 1% e a limitação da multa moratória a 2%, com restituição dos valores pagos a maior. O valor da causa foi fixado em R$ 63.227,02.
+Na sentença, o Juízo de primeiro grau declarou a abusividade da cláusula 3.1 (correção pela remuneração plena da poupança acrescida de 1%), limitou a multa moratória a 2% e condenou à restituição simples dos valores pagos a maior, com juros de mora de 1% desde a citação e correção monetária desde cada desembolso, fixando honorários de 10% (fl. 1.026).
+A Corte de origem rejeitou a preliminar de incongruência e negou provimento à apelação, mantendo a sentença, com majoração dos honorários para 15% (fls. 1.104-1.105).
+I - Art. 1.022 do Código de Processo Civil
+No recurso especial, a parte recorrente alega negativa de prestação jurisdicional, com omissões e contradições sobre: (i) suposta exclusão integral da correção monetária, sem pedido expresso; (ii) manutenção da mora apesar de depósitos; e (iii) não enfrentamento de fundamentos sobre pagamento de parcelas (fls. 1.161-1.164).
+O acórdão dos embargos de declaração concluiu pela inexistência de omissão, obscuridade ou contradição, assentando que todas as questões foram analisadas e que os embargos buscavam rediscutir o mérito (fls. 1.147-1.148).
+Não se verifica a alegada ofensa ao artigo, pois a questão referente à indicada omissão, obscuridade e contradição foi devidamente analisada pela Corte estadual que concluiu que o julgado apreciou todas as matérias suscitadas, não havendo vício a ser sanado.
+Confira-se trecho do acórdão recorrido (fl. 1.104):
+Portanto, correta a sentença, que limitou a correção monetária nela prevista à aplicação do índice de remuneração básica dos depósitos de caderneta de poupança, sem cumulação com juros, já que a cláusula 3.1 do contrato, dispõe a correção de forma cumulada.
+No tocante ao pedido reconvencional, conforme bem exposto pelo ilustre Magistrado primevo, houve o pagamento do valor incontroverso no curso da ação e sendo reconhecida a ilegalidade da cobrança dos encargos contratuais, não há que se falar em débitos em atraso. A parte apelada comprovou que as parcelas vencidas antes do ajuizamento da ação foram pagas posteriormente, conforme relatório financeiro juntado no documento de ordem 89 e que não foi impugnado pela apelante.
+II - Art. 46 da Lei n. 10.931/2004, 1º, da Lei n. 6.899/1981, 5º, I, da Lei n. 9.514/1997
+A parte alega que é possível a correção monetária das parcelas pela TR, como índice de remuneração básica da poupança, cumulada com juros remuneratórios de 1% ao mês, e que o acórdão teria excluído a correção monetária devida (fls. 1.167-1.170).
+O acórdão recorrido manteve a sentença que reputou abusiva a cumulação da remuneração plena da poupança com juros de 1% ao mês e afirmou ser correta a limitação à remuneração básica da poupança (TR), sem a cumulação com juros (fl. 1.104).
+A questão relativa à alegada possibilidade de cumulação e à disciplina da correção monetária foi decidida com fundamento na interpretação da cláusula contratual de reajuste (cláusula 3.1) e nos elementos do contrato, o que atrai, no ponto, a incidência da Súmula n. 5 do STJ, além de demandar reexame do conjunto fático-probatório, vedado pela Súmula n. 7 do STJ.
+III - Arts. 334 e 335 do Código Civil, 330, §§ 2º e 3º, do Código de Processo Civil
+A parte recorrente afirma que não poderia haver descaracterização da mora sem consignação do valor incontroverso, e que a autora estaria inadimplente de parcelas pretéritas (fls. 1.170-1.176).
+O acórdão recorrido assentou que houve pagamento do valor incontroverso no curso da ação e, reconhecida a ilegalidade dos encargos, não há débitos em atraso, mencionando relatório financeiro não impugnado (fls. 1.104-1.105).
+No recurso especial, a parte alega inadimplência e ausência de consignação, pretensão que demanda o reexame dos elementos probatórios (relatórios e pagamentos), o que é incabível em recurso especial ante o óbice da Súmula n. 7 do STJ.
+IV - Arts. 389, 395 e 404 do Código Civil, 884 e 885 do Código Civil
+Alega a parte recorrente que a restituição deveria observar atualização monetária e que, diante da cobrança indevida, seria cabível a devolução em dobro, sob pena de enriquecimento sem causa (fls. 1.160-1.168; 1.177-1.179).
+O acórdão recorrido manteve a restituição simples dos valores pagos a maior, com correção monetária desde cada desembolso e juros de mora de 1% desde a citação (fl. 1.099).
+A pretensão de alterar o critério de restituição e os consectários envolve interpretação das cláusulas e circunstâncias do contrato e do caso concreto, atraindo a incidência das Súmulas n. 5 e 7 do STJ.
+V - Arts. 10, 11, 141, 490 e 492 do Código de Processo Civil, 927, III, 1.013, caput, §§ 1º e 2º, e 1.014 do Código de Processo Civil
+Argumenta a parte recorrente que houve julgamento extra petita ao supostamente excluir correção monetária e que não foram observados precedentes e a devolução integral das matérias na apelação (fls. 1.160-1.166).
+O acórdão recorrido rejeitou a preliminar de incongruência, afirmando que o pedido foi corretamente interpretado e que a cláusula abusiva foi bem delimitada nos termos da sentença (fls. 1.100-1.101).
+A definição dos limites do pedido e da interpretação da cláusula contratual foi enfrentada pela Corte local, e a revisão pretendida demandaria reinterpretação de contrato (Súmula n. 5 do STJ).
+VI - Conclusão
+Ante o exposto, conheço do agravo para conhecer em parte do recurso especial para negar-lhe provimento.
+Nos termos do § 11 do art. 85 do CPC, majoro, em 10% sobre o valor já arbitrado nas instâncias de origem, os honorários advocatícios em desfavor da parte ora recorrente, observados, se aplicáveis, os limites percentuais previstos no § 2º do referido artigo e ressalvada eventual concessão de gratuidade de justiça.
+É o voto.
