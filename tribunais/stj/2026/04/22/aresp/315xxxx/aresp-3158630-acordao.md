@@ -1,0 +1,63 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 14/04/2026 a 22/04/2026, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Moura Ribeiro, Daniela Teixeira, Nancy Andrighi e Humberto Martins votaram com o Sr. Ministro Relator.
+Presidiu o julgamento a Sra. Ministra Daniela Teixeira.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. AÇÃO REVISIONAL. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. ALEGAÇÃO GENÉRICA. SÚMULA Nº 284/STF. ACÓRDÃO RECORRIDO EM CONSONÂNCIA COM ENTENDIMENTO FIRMADO POR ESTA CORTE SUPERIOR. PRESCRIÇÃO. TERMO INICIAL. RENEGOCIAÇÃO. ÚLTIMO CONTRATO.
+1. É deficiente a fundamentação do recurso especial em que a alegação de ofensa ao art. 1.022 do CPC se faz de forma genérica, sem a demonstração exata dos pontos pelos quais o acórdão tornou-se omisso, contraditório ou obscuro. Aplica-se, por analogia, o óbice da Súmula nº 284/ STF ao caso concreto.
+2. Segundo orientação jurisprudencial prevalente no STJ, o prazo prescricional decenal de ação revisional de contrato de mútuo bancário é contado da data da assinatura do contrato - e não do vencimento.
+3. Havendo novação das dívidas pela contratação de créditos sucessivos e renegociação do contrato de mútuo preexistente, o termo inicial da prescrição é a data da assinatura do último contrato.
+4. Agravo conhecido para negar provimento ao recurso especial.
+RELATÓRIO
+Trata-se de agravo interposto por FUNDAÇÃO DOS ECONOMIÁRIOS FEDERAIS FUNCEF contra a decisão que inadmitiu o recurso especial.
+O apelo nobre, fundamentado no art. 105, III, alínea "a", da Constituição Federal, desafia acórdão do Tribunal de Justiça do Estado de Santa Catarina assim ementado:
+"RECURSOS DE AGRAVO INTERNO EM APELAÇÕES CÍVEIS. AÇÃO REVISIONAL. SENTENÇA DE PROCEDÊNCIA. DECISÃO MONOCRÁTICA QUE CONHECEU E DEU PARCIAL PROVIMENTO AO APELO DA RÉ PARA DECLARAR A LEGALIDADE DAS TABELAS PRICE E SAC, BEM COMO RECONHECER A PRESCRIÇÃO DA PRETENSÃO DE REVISÃO DE ALGUNS CONTRATOS. INSURGÊNCIA DE AMBAS AS PARTES. RECURSO DA PARTE AUTORA. PRETENSÃO DE AFASTAMENTO DO INSTITUTO DA PRESCRIÇÃO. ACOLHIMENTO. COMPROVAÇÃO DE QUE OS PACTOS DECLARADOS PRESCRITO FORAM, EM VERDADE, OBJETO DE RENEGOCIAÇÃO. PREVALÊNCIA DA DATA DO ÚLTIMO CONTRATO DA SUCESSÃO NEGOCIAL QUE DEVE SER OBSERVADO PARA TAL FINALIDADE. RECURSO PROVIDO NO PONTO. AVENTADA IMPOSSIBILIDADE DE UTILIZAÇÃO DAS TABELAS PRICE E SAC. INACOLHIMENTO. ENTIDADE DE PREVIDÊNCIA COMPLEMENTAR FECHADA. NÃO INCIDÊNCIA DO CÓDIGO DE DEFESA DO CONSUMIDOR. INTELIGÊNCIA DO ART. 1º, DO DECRETO N. 22.626/1933 (LEI DE USURA) E DOS ARTS. 591 E 406 DO CÓDIGO CIVIL C/C ART. 161, §1º, DO CÓDIGO TRIBUTÁRIO NACIONAL. PROIBIÇÃO DE FIXAÇÃO DE JUROS SUPERIORES A 12% AO ANO, SENDO PERMITIDA, CONTUDO, A CAPITALIZAÇÃO ANUAL DE JUROS. NOS CONTRATOS FIRMADOS ENTRE AS PARTES, INEXISTE PREVISÃO DE CAPITALIZAÇÃO DE JUROS EM PERIODICIDADE INFERIOR À ANUAL. ADEMAIS, A MERA UTILIZAÇÃO DO SISTEMA DE AMORTIZAÇÃO CONSTANTE (SAC) PARA AMORTIZAÇÃO DOS JUROS NÃO IMPLICA, POR SI SÓ, CAPITALIZAÇÃO MENSAL IMPLÍCITA. PRECEDENTES DESSA CORTE DE JUSTIÇA. DECISÃO UNIPESSOAL MANTIDA NO TÓPICO. RECURSO DA PARTE RÉ. ADMISSIBILIDADE. ALEGADA A LEGITIMIDADE DE UTILIZAÇÃO DAS TABELAS PRICE E SAC. PRETENSÃO NÃO CONHECIDA. DECISÃO MONOCRÁTICA QUE CONHECEU E DEU PROVIMENTO AO RECURSO NO TÓPICO. AUSÊNCIA DE INTERESSE RECURSAL. SUSTENTADA AUSÊNCIA DE INTERESSE DE AGIR DA AUTORA EM REVISAR CONTRATOS JÁ QUITADOS. REJEIÇÃO. QUITAÇÃO DOS CONTRATOS QUE NÃO IMPEDE A REVISÃO DE CLÁUSULAS ABUSIVAS. INEXISTÊNCIA DE CONVALIDAÇÃO DE EVENTUAIS ILEGALIDADES. ALEGADA INCIDÊNCIA DA PRESCRIÇÃO TRIENAL. NÃO PROVIMENTO. PRETENSÃO DE REVISÃO CONTRATUAL QUE SE SUBMETE AO PRAZO DECENAL, CONFORME ART. 205 DO CÓDIGO CIVIL, SENDO INDIFERENTE A QUALIFICAÇÃO JURÍDICA DO MUTUANTE COMO ENTIDADE FECHADA DE PREVIDÊNCIA COMPLEMENTAR. PRECEDENTES. RECURSO DA AUTORA CONHECIDO E PROVIDO EM PARTE. REDISTRIBUIÇÃO DOS ÔNUS SUCUMBENCIAIS. RECURSO DA RÉ CONHECIDO EM PARTE E, NA EXTENSÃO, DESPROVIDO. HONORÁRIOS RECURSAIS INCABÍVEIS." (e-STJ fl. 578)
+Os embargos de declaração opostos foram rejeitados (e-STJ fl. 646).
+Nas razões do recurso especial (e-STJ fls. 653/670), a recorrente alega violação dos arts. 1.022, II, do Código de Processo Civil e 205 do Código Civil, por defender a reanálise de fatos e documentos pelo Tribunal de origem e sustentar que o termo inicial do prazo prescricional é a data de assinatura do contrato, ainda que tenha ocorrido renegociação.
+Após a apresentação das contrarrazões (e-STJ fls. 675/678), o recurso não foi admitido na origem, ensejando a interposição do presente recurso.
+É o relatório.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. AÇÃO REVISIONAL. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. ALEGAÇÃO GENÉRICA. SÚMULA Nº 284/STF. ACÓRDÃO RECORRIDO EM CONSONÂNCIA COM ENTENDIMENTO FIRMADO POR ESTA CORTE SUPERIOR. PRESCRIÇÃO. TERMO INICIAL. RENEGOCIAÇÃO. ÚLTIMO CONTRATO.
+1. É deficiente a fundamentação do recurso especial em que a alegação de ofensa ao art. 1.022 do CPC se faz de forma genérica, sem a demonstração exata dos pontos pelos quais o acórdão tornou-se omisso, contraditório ou obscuro. Aplica-se, por analogia, o óbice da Súmula nº 284/ STF ao caso concreto.
+2. Segundo orientação jurisprudencial prevalente no STJ, o prazo prescricional decenal de ação revisional de contrato de mútuo bancário é contado da data da assinatura do contrato - e não do vencimento.
+3. Havendo novação das dívidas pela contratação de créditos sucessivos e renegociação do contrato de mútuo preexistente, o termo inicial da prescrição é a data da assinatura do último contrato.
+4. Agravo conhecido para negar provimento ao recurso especial.
+VOTO
+Ultrapassados os requisitos de admissibilidade do agravo, passa-se ao exame do recurso especial.
+A irresignação não merece prosperar.
+De início, constata-se a deficiência de fundamentação do recurso especial porque há somente alegação genérica de negativa de prestação jurisdicional sem a especificação das teses que supostamente deveriam ter sido analisadas pelo acórdão recorrido. Assim, incide a Súmula nº 284/STF: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia."
+A propósito:
+"AGRAVO INTERNO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE OBRIGAÇÃO DE FAZER. PLANO DE SAÚDE. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. ALEGAÇÕES GENÉRICAS. SÚMULA 284/STF. ATENDIMENTO DE EMERGÊNCIA. PERÍODO DE CARÊNCIA. LIMITAÇÃO DE COBERTURA. RECUSA INJUSTICADA. AGRAVAMENTO DA SITUAÇÃO DE AFLIÇÃO PSICOLÓGICA E ANGÚSTIA DO BENEFICIÁRIO. CIRCUNSTÂNCIAS DELIMITADAS NO JULGADO ESTADUAL. DANO MORAL. CARACTERIZAÇÃO. ACÓRDÃO ESTADUAL EM HARMONIA COM A JURISPRUDÊNCIA DESTA CORTE SUPERIOR. SÚMULA 83/STJ. AGRAVO INTERNO DESPROVIDO.
+1. É deficiente a fundamentação do recurso especial em que a alegação de violação aos arts. 489 e 1.022 do CPC/2015 se faz de forma genérica, sem a demonstração exata dos pontos pelos quais o acórdão tornou-se omisso, contraditório ou obscuro. Aplica-se, na hipótese, o óbice da Súmula 284/STF.
+(..)."
+(AgInt no AgInt no AREsp 2.174.617/CE, Relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 13/2/2023, DJe de 16/2/2023 - grifou-se)
+"AGRAVO INTERNO NO RECURSO ESPECIAL. REQUERIMENTO DE FALÊNCIA. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. FUNDAMENTAÇÃO DEFICIENTE. SÚMULA Nº 284/STF. NULIDADE. PREJUÍZO NÃO DEMONSTRADO. CONTRATO DE LOCAÇÃO. PROTESTO. TÍTULO EXECUTIVO EXTRAJUDICIAL. REQUISITOS. LIQUIDEZ. AUSÊNCIA. REEXAME. IMPOSSIBILIDADE. SÚMULA Nº 7/STJ.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. O recurso especial que indica violação do art. 1.022 do Código de Processo Civil de 2015, mas traz somente alegação genérica de negativa de prestação jurisdicional é deficiente em sua fundamentação, o que atrai o óbice da Súmula nº 284 do Supremo Tribunal Federal, aplicada por analogia.
+(..)."
+(AgInt no REsp 1.675.361/RJ, Relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 10/10/2022, DJe de 17/10/2022 - grifou-se)
+Quanto à prescrição, o Tribunal de origem decidiu que:
+"(..)
+Muito embora o contrato firmado entre as partes no ano de 2007 não contenha menção expressa que se tratava de uma renegociação  ao contrário do que constava nos pactos anteriores  , é possível inferir, a partir dos extratos acostados aos autos, que referido ajuste também teve por finalidade a amortização do saldo devedor do contrato anterior.
+Com efeito, verifica-se que, do valor total de R$ 29.050,00, a quantia de R$ 22.990,82 foi destinada à quitação do débito pretérito, sendo a quantia efetivamente repassada à tomadora limitada a R$ 6.479,50 (evento 10, EXTR7, p. 35). Assim, é evidente que tal contrato está vinculado aos anteriores, compondo uma mesma cadeia negocial.
+A mesma lógica se aplica aos contratos subsequentes, conforme demonstrado pelos extratos, que evidenciam a sistemática de quitação do saldo anterior com recursos do novo contrato, até o último da série negocial, que ocorreu em 20/3/2024 (data da última parcela), de modo que deve ser afastada a prescrição, pois não decorreu o prazo decenal estabelecido no Código Civil de 2002.
+Dessarte, afasta-se a prescrição dos contratos firmados, uma vez que eventuais renegociações podem alterar o termo inicial, pois "Havendo sucessão negocial com a novação das dívidas mediante contratação de créditos sucessivos, com renegociação do contrato preexistente, é a data do último contrato avençado que deve contar como prazo prescricional".(STJ, AgInt no R Esp n. 1.966.860/RS, rel.ª Min.ª Nancy Andrighi, Terceira Turma, julgado em 13-03-2023)." (e-STJ fl. 574)
+A jurisprudência desta Corte firmou-se no sentido de que o prazo prescricional decenal de ação revisional de contrato de mútuo bancário é contado da data da assinatura do contrato - e não do vencimento.
+Contudo, havendo novação das dívidas pela contratação de créditos sucessivos e renegociação do contrato pré-existente, como ocorre na hipótese em exame, o termo inicial é a data da assinatura do último contrato.
+Confiram-se:
+"AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO REVISIONAL. CONTRATOS DE MÚTUO. PRESCRIÇÃO DECENAL. TERMO INICIAL. DATA DA ASSINATURA DO AJUSTE. REPACTUAÇÃO. CONTINUIDADE NEGOCIAL. ASSINATURA DO ÚLTIMO CONTRATO RENOVADO. AGRAVO INTERNO DESPROVIDO.
+1. Nas ações revisionais de contrato de empréstimo pessoal, nas quais se discute a legalidade das cláusulas pactuadas, a contagem do prazo prescricional decenal tem início a partir da data da assinatura do contrato.
+2. Havendo sucessão negocial com a novação das dívidas mediante contratação de créditos sucessivos, com renegociação do contrato preexistente, é a data do último contrato avençado que deve contar como prazo prescricional. Precedentes.
+3. Agravo interno desprovido."
+(AgInt no REsp 2.117.154/RS, Relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 12/8/2024, DJe de 15/8/2024)
+"PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO REVISIONAL. CONTRATOS DE MÚTUO. PRESCRIÇÃO DECENAL. TERMO INICIAL. DATA DA ASSINATURA DO CONTRATO. REPACTUAÇÃO DOS CONTRATOS. ASSINATURA DO ÚLTIMO CONTRATO RENOVADO. SUCESSÃO NEGOCIAL.
+1. Ação revisional de contratos.
+2. A jurisprudência desta Corte é firme em determinar que o termo inicial do prazo prescricional decenal nas ações de revisão de contrato bancário, em que se discute a legalidade das cláusulas pactuadas, é a data da assinatura do contrato.
+3. Havendo sucessão negocial com a novação das dívidas mediante contratação de créditos sucessivos, com renegociação do contrato preexistente, é a data do último contrato avençado que deve contar como prazo prescricional.
+4. Agravo interno não provido."
+(AgInt no REsp 1.966.860/RS, Relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 13/3/2023, DJe de 15/3/2023)
+Assim, o acórdão proferido pela Corte local está em plena consonância com a jurisprudência firmada nesta Corte Superior.
+Ante o exposto, conheço do agravo para negar provimento ao recurso especial.
+Na origem, os honorários sucumbenciais foram fixados em 15% (quinze por cento) do valor da causa, ficando a recorrente responsável pelo pagamento de 20% (vinte por cento) e a parte recorrida em 80% (oitenta por cento) desse valor, em razão da sucumbência recíproca.
+Assim, em observância ao art. 85, § 11, do CPC, majoro os honorários em 3% (três por cento) sobre o valor da causa, em favor do patrono da parte recorrida.
+É o voto.
