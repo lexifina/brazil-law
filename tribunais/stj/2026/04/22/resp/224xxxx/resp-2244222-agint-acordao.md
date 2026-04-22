@@ -1,0 +1,69 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 14/04/2026 a 22/04/2026, por unanimidade, não conhecer do recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Luís Carlos Gambogi (Desembargador Convocado do TJMG), João Otávio de Noronha, Raul Araújo e Maria Isabel Gallotti votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro João Otávio de Noronha.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. DECISÃO AGRAVADA. FUNDAMENTOS. IMPUGNAÇÃO. AUSÊNCIA. SÚMULA N. 182/STJ. AGRAVO NÃO CONHECIDO.
+I. Razões de decidir
+1. A ausência de impugnação específica dos fundamentos da decisão monocrática atrai a Súmula n. 182/STJ.
+II. Dispositivo
+2. Agravo interno não conhecido.
+RELATÓRIO
+Trata-se de agravo interno (fls. 1.789-1.804) interposto contra decisão desta relatoria que não conheceu do recurso especial (fls. 1.782-1.785).
+Em suas razões, a parte agravante afirma que inexistiria abuso na cláusula que condiciona a rescisão unilateral do contrato de plano de saúde à notificação prévia da operadora, com antecedência mínima de 60 (sessenta) dias.
+Ao final, pede a reconsideração da decisão monocrática ou a apreciação do agravo pelo Colegiado.
+Sem impugnação (fl. 1.809).
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. DECISÃO AGRAVADA. FUNDAMENTOS. IMPUGNAÇÃO. AUSÊNCIA. SÚMULA N. 182/STJ. AGRAVO NÃO CONHECIDO.
+I. Razões de decidir
+1. A ausência de impugnação específica dos fundamentos da decisão monocrática atrai a Súmula n. 182/STJ.
+II. Dispositivo
+2. Agravo interno não conhecido.
+VOTO
+A insurgência não merece ser conhecida.
+O recurso especial foi decidido nos seguintes termos (fls. 1.782-1.785):
+Trata-se de recurso especial interposto com fundamento no art. 105, III, "a" e "c", da CF, contra acórdão do TJSP assim ementado (fl. 1.721):
+APELAÇÃO - PLANO DE SAÚDE - Discussão acerca da validade da cláusula que prevê a necessidade de aviso prévio de 60 dias para se efetivar o cancelamento unilateral a pedido da empresa estipulante - Sentença de procedência - Insurgência da operadora de saúde - Rejeição - Artigo 17, parágrafo único da RN 195/2009 que foi invalidado em ação civil pública - RN nº 455/2020 emitida pela ANS dando efetivo cumprimento à decisão proferida na ação coletiva, anulando o parágrafo único da RN nº 195/2009 - RN nº 455/2020 revogada pela RN 557/2022, na qual ausente previsão análoga à contida no parágrafo único do art. 17 da RN 195/2009 - Ausência de vedação regulamentar expressa da prática que não a autoriza - Abusividade reconhecida - Decisão judicial proferida na Ação Civil Pública nº. 0136265-83.2013.4.02.5101 que deve ser prestigiada - Entendimento adotado na ação civil pública que não restou superado - Histórico envolvendo a questão que deve ser considerado - Precedentes recentes deste Núcleo de Justiça 4.0 e outros do TJSP em casos análogos - Manutenção do afastamento da cobrança de aviso prévio de 60 dias - Sentença mantida - NEGARAM PROVIMENTO AO RECURSO.
+Nas razões apresentadas (fls. 1.735-1.745), a recorrente aponta dissídio jurisprudencial e contrariedade aos arts. 421 e 422 do CC/2002, argumentando que: (a) inexistiria abuso na cláusula que condiciona a rescisão unilateral do contrato de plano de saúde à notificação prévia da operadora, com antecedência mínima de 60 (sessenta) dias, e, (b) "havendo a prestação dos serviços contratados, não pode a recorrida se opor ao pagamento, sob pena de invalidação do contrato firmado. Como é de conhecimento comum, não há prestação de serviços sem que haja a devida contraprestação, uma vez que tais relações são de caráter comercial" (fl. 1.740).
+Sem contrarrazões (fl. 1.765).
+O recurso foi admitido na origem (fls. 1.772-1.774).
+É o relatório.
+Decido.
+A fim de descaracterizar o abuso de cláusula contratual de exigência de notificação prévia da operadora de saúde, com antecedência mínima de 60 (sessenta) dias) do pedido de cancelamento do plano, a recorrente apontou violação dos arts. 421 e 422 do CC/2002.
+Ocorre que tais dispositivos legais, isoladamente, não possuem o alcance normativo pretendido, porque nada dispõem sobre os requisitos da mencionada notificação, tampouco sobre o procedimento de comunicação de desinteresse do usuário em manter o vínculo contratual.
+Dessa forma, a fundamentação recursal mostra-se deficiente e atrai, por analogia, a Súmula n. 284/STF. Nesse aspecto: AgInt no AgInt no AREsp n. 984.530/SP, Relator Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 21/9/2017, DJe 20/10/2017, e AgInt no REsp n. 1.505.441/SC, Relator Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 27/6/2017, DJe 2/8/2017.
+A Corte local não se manifestou quanto aos arts. 421 e 422 do CC/2002 sob o ponto de vista da parte recorrente. Dessa forma, sem terem sido objeto de debate na decisão recorrida e ante a falta de aclaratórios no ponto, as matérias contidas em tais dispositivos carecem de prequestionamento e sofrem, por conseguinte, o empecilho das Súmulas n. 282 e 356 do STF.
+Ademais, segundo a Corte de origem, há coisa julgada material na ação coletiva n. 0136265-83.2.013.84.02.5101 - do Tribunal Regional Federal da 2ª Região -, reconhecendo o abuso aqui discutido, motivo pelo qual, à luz dos arts. 16, 81, 93, II, e 103 do CDC (normas prequestionadas implicitamente), a cobrança do saldo residual do contrato seria inexigível. Confira-se (fls. 1.723-1.731):
+Em que pese a irresignação da operadora de saúde, o recurso não comporta provimento.
+Conforme supramencionado, a empresa autora, não desejando manter mais contrato com a operadora de saúde, solicitou o cancelamento do plano, oportunidade em que a ré exigiu o cumprimento de aviso prévio de 60 dias. Nesse contexto, é cediço que o artigo 17, parágrafo único da Resolução Normativa nº 195/2009, previa que, in verbis: "Art. 17 As condições de rescisão do contrato ou de suspensão de cobertura, nos planos privados de assistência à saúde coletivos por adesão ou empresarial, devem também constar do contrato celebrado entre as partes. Parágrafo único. Os contratos de planos privados de assistência à saúde coletivos por adesão ou empresarial somente poderão ser rescindidos imotivadamente após a vigência do período de doze meses e mediante prévia notificação da outra parte com antecedência mínima de sessenta dias."
+Assim, em razão dessa expressa disposição, a apelada pretendia a cobrança das mensalidades referentes a esses 60 dias.
+Sucede que, a ação civil pública nº 0136265-83.2013.4.02.5101, proposta pela Autarquia de Proteção e Defesa do Consumidor do Estado do Rio de Janeiro - Procon-RJ em face da ANS, que tramitou na Justiça Federal, vinculada ao TRF-2, reconheceu a invalidade do artigo supracitado, de certo, ainda, que referida decisão tem abrangência nacional, na medida em que esta ação coletiva foi proposta em face da agência reguladora responsável e a lide que aqui se discute está dentro dos limites objetivos e subjetivos desta decisão, nos termos do Tema 1075/STF.
+A propósito, no sistema de recursos repetitivos, o Tema nº 480 do C. Superior Tribunal de Justiça consignou que "os efeitos e a eficácia da sentença coletiva que não estão circunscritos a lindes geográficos, mas aos limites objetivos e subjetivos do que foi decidido."
+Ademais, em efetivo cumprimento à decisão proferida na ação coletiva, cabe salientar que a ANS emitiu a Resolução Normativa nº 455 de 30/03/2020, revogando o parágrafo único do art. 17 da RN 195 de 2009. Ocorre que a Resolução Normativa nº 455/20 foi revogada pela Resolução Normativa nº 557/22, na qual o caput do artigo 17 da RN 455/20 se encontra reproduzido no artigo 23, in verbis:
+ ..
+Nesse contexto, tem-se que, ainda que ausente qualquer vedação expressa à cobrança do aviso prévio na resolução normativa supramencionada, não se pode alegar que a prática resta autorizada ou não é abusiva, em razão do quanto decidido na Ação Civil Pública nº 0136265-83.2013.4.02.5101. Importante salientar que a inexistência de disposição expressa acerca da impossibilidade de cobrança de aviso prévio é decorrente da anulação do quanto disposto no parágrafo único do artigo 17 da Resolução Normativa nº 195/09, em razão da decisão judicial proferida nos autos da Ação Civil Pública nº 0136265-83.2013.4.02.51.01, de forma que o entendimento de que a inexistência de vedação expressa autorizaria a prática se mostra contrária ao histórico envolvendo a questão.
+ ..
+Ressalta-se que a cobrança do aviso prévio é embasada na Clausula 23.1.1.4 do contrato, na qual prevista a possibilidade de rescisão imotivada "por qualquer das partes, transcorrido o prazo inicial de 12 (doze) meses, mediante prévia notificação escrita a ser enviada pela parte denunciante, com antecedência mínima de 60 (sessenta) dias" (fl. 63).
+A despeito da cláusula mencionada expressamente estabelecer que a obrigação de cumprimento de aviso prévio à rescisão do contrato é aplicável tanto à operadora quanto à estipulante, faz-se necessário considerar que a relação existente entre as partes é de consumo, eis que a demandante se enquadra no conceito de consumidora final e a empresa demandada, operadora de saúde, naquele relacionado aos fornecedores de serviços (artigos 2º e 3º, do CDC). A hipossuficiência da empresa estipulante do plano em razão de sua condição de consumidora foi inclusive reconhecida quando do julgamento da Ação Civil Pública nº 0136265-83.2013.4.02.51.01:
+ ..
+Ademais, o instrumento firmado entre as partes se trata de contrato de adesão, no qual as cláusulas e condições são definidas unilateralmente pela operadora de saúde, sendo certo que, embora a cláusula que embasa a cobrança do aviso prévio seja aplicável a ambas as partes, operadora e estipulante não se encontram em situação equânime, nos termos supramencionados. E, tampouco, há equivalência entre os motivos que ensejariam a rescisão unilateral do contrato por cada uma das partes. Isso porque "a empresa que contrata os serviços de plano de saúde afigura-se hipossuficiente do ponto de vista técnico, já que não domina o complexo sistema de cálculos atuariais subjacentes ao contrato".
+ ..
+Nesse contexto, verifica-se que o afastamento da cobrança do aviso prévio no caso de rescisão por iniciativa da estipulante também decorre da respectiva relação de hipossuficiência, enquanto consumidora, ante a operadora, e objetiva evitar "vantagem pecuniária injusta e desproporcional por parte das operadoras de planos de saúde, ao arrepio dos incisos II e IV, do art. 6º, do CDC", nos termos do quanto decidido na Ação Civil Pública nº 0136265-83.2013.4.02.5101.
+Dessa forma, reitera-se que, neste cenário, a ausência de qualquer vedação expressa à cobrança do aviso prévio na RN nº 557/22 da ANS não enseja a conclusão de que a prática resta autorizada ou não se configura abusiva, ante a necessidade de observância dos próprios princípios norteadores do Direito do Consumidor ao caso.
+A respeito de tal razão de decidir, suficiente para manter o acórdão impugnado no ponto, a parte recorrente não se manifestou especificamente, o que atrai a Súmula n. 283/STF.
+O conhecimento do recurso especial interposto com fundamento na alínea "c" do permissivo constitucional exige, além da indicação do dispositivo legal objeto de interpretação divergente, a demonstração do dissídio, mediante a verificação das circunstâncias que assemelhem ou identifiquem os casos confrontados e a realização do cotejo analítico entre elas, nos termos definidos pelos arts. 255, §§ 1º, do RISTJ e 1.029, § 1º, do CPC/2015, ônus dos quais a parte recorrente não se desincumbiu.
+Registre-se, por fim, que "a divergência entre julgados do mesmo Tribunal não enseja recurso especial" (Súmula n. 13/STJ).
+Diante do exposto, NÃO CONHEÇO do recurso especial.
+Publique-se e intimem-se.
+É inviável o agravo previ sto no art. 1.021 do CPC/2015 que deixa de atacar especificamente os fundamentos da decisão agravada (Súmula n. 182/STJ).
+Nesse sentido, confira-se o seguinte precedente:
+AGRAVO INTERNO. CUMPRIMENTO DE SENTENÇA ARBITRAL. PENHORA DE FATURAMENTO DA SOCIEDADE EMPRESÁRIA EXECUTADA. ADIANTAMENTO DOS HONORÁRIOS DO ADMINISTRADOR-DEPOSITÁRIO PELA EXEQUENTE. AUSÊNCIA DE DISSÍDIO JURISPRUDENCIAL. SÚMULA N. 83 DO STJ. VIOLAÇÃO DO ART. 25 DA LEI N. 11.101/2005. FALTA DE PREQUESTIONAMENTO DA MATÉRIA VENTILADA NO RECURSO ESPECIAL. SÚMULAS N. 211 DO STJ. NECESSIDADE DE INDICAÇÃO, NO RECURSO ESPECIAL, DE VIOLAÇÃO DO ART. 1.022 DO CPC DE 2015. REVISÃO DO VALOR DOS HONORÁRIOS DO ADMINISTRADOR DA PENHORA. NÃO IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DA DECISÃO AGRAVADA. ART. 1.021, § 1º, DO CPC. INCIDÊNCIA DA SÚMULA N. 182 DO STJ. AGRAVO INTERNO PARCIALMENTE CONHECIDO E DESPROVIDO.
+ ..
+3. Em observância ao disposto no art. 1.021, § 1º, do CPC, que reforça o entendimento já consolidado na Súmula n. 182 do STJ, não se conhece de agravo interno que não impugna especificamente os fundamentos de capítulo da decisão agravada.
+4. Agravo interno parcialmente conhecido e desprovido.
+(AgInt no AREsp n. 1.91 2.591/MT, relator Ministro JOÃO OTÁVIO DE NORONHA, QUARTA TURMA, julgado em 19/8/2024, DJe de 22/8/2024.)
+O entendimento da Corte local, referente ao abuso de cláusula contratual de exigência de notificação prévia da contraparte, com antecedência mínima de 60 (sessenta) dias do pedido de cancelamento do plano de saúde, foi mantido com base nas Súmulas n. 282, 283, 284 e 356 do STF e na inaptidão da divergência interpretativa, por ausência de cotejo analítico e de indicação das normas objeto de interpretação divergente (Súmula n. 284/STF).
+A parte agravante apenas se manifestou sobre as Súmulas n. 282 e 356 do STF. Por isso, é inafastável a Súmula n. 182/STJ.
+Ante o exposto, NÃO CONHEÇO do agravo interno.
+É como voto.
