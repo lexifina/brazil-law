@@ -1,0 +1,14 @@
+DECISÃO
+ADSON VIANA DE SOUZA alega sofrer constrangimento ilegal em decorrência de acórdão proferido pelo Tribunal de Justiça do Estado da Bahia na Apelação Criminal n. 8072471-20.2024.8.05.0001.
+A defesa sustenta que a pena-base foi majorada de forma desproporcional, com elevação de 1 ano a partir de apenas uma circunstância judicial negativa e sem fundamentação idônea. Afirma que o aumento deve observar fração mais moderada, preferencialmente de 1/8 sobre o intervalo da pena abstratamente cominada. Aduz, ainda, que o acórdão manteve a dosimetria em desconformidade com os princípios da proporcionalidade, razoabilidade e individualização da pena.
+Requer redução da pena, com o redimensionamento da pena-base mediante a aplicação da fração de 1/8.
+Decido.
+A instância de origem aumentou a pena-base do réu em 1 ano de reclusão em razão dos maus antecedentes.
+O STJ é firme na compreensão de que:
+A dosimetria da pena está inserida no âmbito de discricionariedade regrada do julgador, estando atrelada às particularidades fáticas do caso concreto e subjetivas dos agentes, elementos que somente podem ser revistos por esta Corte em situações excepcionais, quando malferida alguma regra de direito (AgRg no AREsp 864.464/DF, Rel. Ministro ANTONIO SALDANHA PALHEIRO, SEXTA TURMA, DJe 30/5/2017) (AgRg no AREsp n. 2.055.438/PA, Rel. Ministro Joel Ilan Paciornik, 5ª T., DJe 19/5/2022, destaquei).
+Além disso, a teor dos julgados desta Corte:
+ ..  não há um critério matemático para a escolha das frações de aumento em função da negativação dos vetores contidos no art. 59 do Código Penal, sendo garantida a discricionariedade do julgador para a fixação da pena-base, dentro do seu livre convencimento motivado e de acordo com as peculiaridades do caso concreto. Acerca do tema, a jurisprudência do Superior Tribunal de Justiça tem aplicado critérios que atribuem a fração de 1/6 sobre o mínimo previsto para o delito para cada circunstância desfavorável; a fração de 1/8 para cada circunstância desfavorável sobre o intervalo entre o mínimo e o máximo de pena abstratamente cominada ao delito; ou ainda a fixação da pena-base sem nenhum critério matemático, sendo necessário apenas nesse último caso que estejam evidenciados elementos concretos que justifiquem a escolha da fração utilizada, para fins de verificação de legalidade ou proporcionalidade. Precedente  ..  (HC n. 751.984/RJ, Rel. Ministro Antonio Saldanha Palheiro, 6ª T., DJe de 29/11/2022).
+Assim, uma vez que foram apontados argumentos concretos e idôneos dos autos para a fixação da pena-base acima do mínimo legal, não há como esta Corte Superior simplesmente se imiscuir no juízo de proporcionalidade feito pela instância de origem para, a pretexto de ofensa aos princípios da proporcionalidade e da individualização da pena, reduzir a reprimenda-base estabelecida ao acusado.
+À vista do exposto, denego a ordem.
+Publique-se e intimem-se.
+EMENTA
