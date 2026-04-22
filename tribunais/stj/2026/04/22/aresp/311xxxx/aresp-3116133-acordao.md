@@ -1,0 +1,63 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 14/04/2026 a 22/04/2026, por unanimidade, conhecer parcialmente do recurso, mas lhe negar provimento, nos termos do voto do Sr. Ministro Ricardo Villas Bôas Cueva.
+Os Srs. Ministros Moura Ribeiro, Daniela Teixeira, Nancy Andrighi e Humberto Martins votaram com o Sr. Ministro Relator.
+Presidiu o julgamento a Sra. Ministra Daniela Teixeira.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. DIREITO DO CONSUMIDOR. AÇÃO DE OBRIGAÇÃO DE FAZER. PLANO DE SAÚDE. CUSTEIO DE TRATAMENTO. OMISSÃO. NÃO OCORRÊNCIA. REEXAME DE PROVAS E DE CONTRATO. SÚMULA NºS 5 E 7/STJ. DISSÍDIO. PREJUDICIALIDADE.
+1.  Não  há  falar  em  negativa  de  prestação  jurisdicional  se  o  Tribunal  de  origem  motiva  adequadamente  sua  decisão,  solucionando  a  controvérsia  com  a  aplicação  do  direito  que  entende  cabível  à  hipótese,  apenas  não  no  sentido  pretendido  pela  parte.
+2. Na hipótese, acolher a tese pleiteada pela agravante exigiria exceder os fundamentos do acórdão impugnado e adentrar no exame das provas e do contrato firmado pelas partes, procedimentos vedados em recurso especial, a teor das Súmulas nºs 5 e 7/STJ.
+3. A necessidade do reexame da matéria fática impede a admissão do recurso especial tanto pela alínea "a" quanto pela alínea "c" do permissivo constitucional.
+4. Agravo conhecido para conhecer parcialmente do recurso especial e, nessa extensão, negar-lhe provimento.
+RELATÓRIO
+Trata-se de agravo interposto por GRUPO HOSPITALAR DO RIO DE JANEIRO LTDA. contra a decisão que inadmitiu o recurso especial.
+O apelo extremo, com fundamento no art. 105, III, alíneas "a" e "c", da Constituição Federal, insurge-se contra o acórdão do Tribunal de Justiça do Estado do Rio de Janeiro assim ementado:
+"DIREITO DO CONSUMIDOR. APELAÇÃO CÍVEL. PLANO DE SAÚDE. NEGATIVA DE COBERTURA. TRATAMENTO PRESCRITO PELO MÉDICO ASSISTENTE. ABUSIVIDADE. ROL DA ANS. REFERÊNCIA BÁSICA A SER OBSERVADA PELAS OPERADORAS. DANO MORAL CONFIGURADO. DESPROVIMENTO.
+I. CASO EM EXAME 1. Apelação cível interposta contra sentença que julgou procedentes os pedidos iniciais para tornar definitiva a tutela de urgência, que determinou à ré a autorização das sessões de RPG prescritas à autora, além de condená-la ao pagamento de indenização por danos morais no valor de R$ 5.000,00. 2. A ré sustenta que a terapia de RPG não possui cobertura obrigatória segundo o rol da ANS e que sua recusa se deu no exercício regular de direito, não havendo dano moral indenizável.
+II. QUESTÃO EM DISCUSSÃO 3. Há duas questões em discussão: (i) se a recusa da operadora de plano de saúde ao tratamento indicado pelo médico assistente, com base no rol da ANS, é legítima; e (ii) se a negativa indevida de cobertura configura dano moral.
+III. RAZÕES DE DECIDIR 4. Nos termos da Súmula 340 deste Tribunal, "ainda que admitida a possibilidade de o contrato de plano de saúde conter cláusulas limitativas dos direitos do consumidor, revela-se abusiva a que exclui o custeio dos meios e materiais necessários ao melhor desempenho do tratamento da doença coberta pelo plano". 5. A discussão acerca da taxatividade ou não do rol de procedimentos e eventos em saúde da ANS foi superada pela Lei nº 14.454/2022, que estabelece que o rol elenca os eventos mínimos a serem cobertos pelas operadoras de planos de saúde, não sendo excludente de outros tratamentos comprovadamente necessários. 6. A recusa injustificada à cobertura do tratamento prescrito gera sofrimento e insegurança ao paciente, configurando dano moral in re ipsa, conforme entendimento consolidado na Súmula 339 deste Tribunal e à luz de precedentes do STJ.
+IV. DISPOSITIVO E TESE 7. Recurso conhecido e desprovido. Tese de julgamento: "É abusiva a negativa de cobertura de tratamento médico prescrito pelo profissional assistente, quando a enfermidade está coberta pelo plano de saúde, sendo a operadora obrigada a custear a terapêutica necessária, ainda que não prevista no rol da ANS. A recusa indevida de cobertura caracteriza dano moral.".
+Dispositivos relevantes citados: CF/1988, art. 196; Lei nº 9.656/1998, art. 10, § 12; CPC, art. 85, § 11. Jurisprudência relevante citada: STJ, R Esp 668.216/SP, Rel. Min. Carlos Alberto Menezes Direito, 3ª Turma, DJ 02/04/2007; STJ, R Esp 1.421.512/MG, Rel. Min. Nancy Andrighi, 3ª Turma, D Je 30/05/2014; AR Esp n. 2.813.806, Min. Nancy Andrighi, DJEN de DJEN 06/03/2025;Súmulas 211 e 340/TJRJ." (e-STJ fls. 722/723)
+Os embargos de declaração opostos foram rejeitados (e-STJ fls. 793/797).
+No recurso especial, a parte recorrente alega, além de divergência jurisprudencial, violação dos arts. 4º, III, da Lei 9.961/2000, 10, § 4º, da Lei 9.656/1998 e 489, § 1º, IV, do Código de Processo Civil, pois inexiste obrigação de custear tratamento médico sem previsão legal e contratual, além de não haver limite temporal.
+Sustenta, ainda, que houve omissão quanto à taxatividade do rol da ANS.
+Com as contrarrazões, o recurso especial foi inadmitido, dando ensejo à interposição do presente agravo.
+É o relatório.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. DIREITO DO CONSUMIDOR. AÇÃO DE OBRIGAÇÃO DE FAZER. PLANO DE SAÚDE. CUSTEIO DE TRATAMENTO. OMISSÃO. NÃO OCORRÊNCIA. REEXAME DE PROVAS E DE CONTRATO. SÚMULA NºS 5 E 7/STJ. DISSÍDIO. PREJUDICIALIDADE.
+1.  Não  há  falar  em  negativa  de  prestação  jurisdicional  se  o  Tribunal  de  origem  motiva  adequadamente  sua  decisão,  solucionando  a  controvérsia  com  a  aplicação  do  direito  que  entende  cabível  à  hipótese,  apenas  não  no  sentido  pretendido  pela  parte.
+2. Na hipótese, acolher a tese pleiteada pela agravante exigiria exceder os fundamentos do acórdão impugnado e adentrar no exame das provas e do contrato firmado pelas partes, procedimentos vedados em recurso especial, a teor das Súmulas nºs 5 e 7/STJ.
+3. A necessidade do reexame da matéria fática impede a admissão do recurso especial tanto pela alínea "a" quanto pela alínea "c" do permissivo constitucional.
+4. Agravo conhecido para conhecer parcialmente do recurso especial e, nessa extensão, negar-lhe provimento.
+VOTO
+Ultrapassados os requisitos de admissibilidade do agravo, passa-se ao exame do recurso especial.
+A insurgência não merece prosperar.
+No tocante à negativa de prestação jurisdicional, verifica-se que o Tribunal de origem motivou adequadamente sua decisão, solucionando a controvérsia com a aplicação do direito que entendeu cabível à hipótese.
+No caso, o Tribunal de Justiça manifestou-se expressamente quanto à taxatividade do rol da ANS, conforme se verifica do seguinte trecho do acórdão:
+"(..)
+No caso concreto, não se verifica omissão, contradição ou obscuridade no acórdão embargado. A decisão impugnada analisou de forma fundamentada as razões recursais, inclusive à luz da Lei 14.454/2022, que estabelece a taxatividade mitigada do rol da ANS, com possibilidade de cobertura de tratamentos não listados quando comprovada sua necessidade e eficácia, conforme entendimento pacificado pelo Superior Tribunal de Justiça.
+A alegada omissão quanto ao caráter taxativo do rol da ANS foi superada expressamente no acórdão, que mencionou a superveniência da Lei 14.454/2022, tornando inócuas as alegações baseadas em decisões anteriores ao novo marco legal. Quanto à obscuridade apontada por presumida conduta lícita da operadora em seguir diretrizes da ANS, o colegiado foi claro ao afirmar que a negativa foi indevida à luz da legislação vigente e da necessidade do tratamento comprovada por laudo médico." (e-STJ fl. 796)
+Não há falar, portanto, em existência de omissão apenas pelo fato de o julgado recorrido ter decidido em sentido contrário à pretensão da parte.
+A esse respeito, os seguintes precedentes:
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PLANO DE SAÚDE. NEGATIVA DE CUSTEIO DE MEDICAMENTO (THIOTEPA). 1. NEGATIVA DE PRESTAÇÃO JURISDICIONAL NÃO CONFIGURADA. 2. FUNDAMENTO SUFICIENTE NÃO ATACADO. SÚMULA 283/STF. 3. ACÓRDÃO EM CONSONÂNCIA COM A JURISPRUDÊNCIA DESTA CORTE SUPERIOR. SÚMULA 83/STJ. 4. AUSÊNCIA DE PREQUESTIONAMENTO. INCIDÊNCIA DAS SÚMULAS 282/STF E 211/STJ. 5. AGRAVO INTERNO DESPROVIDO.
+1. Não ficou configurada a violação ao art. 1.022 do CPC/2015, uma vez que o Tribunal de origem se manifestou, de forma fundamentada, sobre todas as questões necessárias para o deslinde da controvérsia. O mero inconformismo da parte com o julgamento contrário à sua pretensão não caracteriza falta de prestação jurisdicional.
+2. O acórdão recorrido encontra-se em perfeita harmonia com a jurisprudência desta Corte no sentido de que, "embora se trate de fármaco importado ainda não registrado pela ANVISA, teve a sua importação excepcionalmente autorizada pela referida Agência Nacional, sendo, pois, de cobertura obrigatória pela operadora de plano de saúde" (REsp 1.923.107/SP, relatora ministra Nancy Andrighi, Terceira Turma, julgado em 10/8/2021, DJe 16/8/2021).
+3. Atentando-se aos argumentos trazidos pela recorrente e aos fundamentos adotados pela Corte estadual de que a ANVISA admite a importação do fármaco, verifica-se que estes não foram objeto de impugnação nas razões do recurso especial, e a subsistência de argumento que, por si só, mantém o acórdão recorrido torna inviável o conhecimento do apelo especial, atraindo a aplicação do enunciado n. 283 da Súmula do Supremo Tribunal Federal.
+4. A ausência de debate acerca do conteúdo normativo dos arts. 66 da Lei n. 6.360/1976 e 10, V, da Lei n. 6.437/1976, apesar da oposição de embargos de declaração, atrai os óbices das Súmulas 282/STF e 211/STJ.
+5. Agravo interno a que se nega provimento."
+(AgInt no AREsp 2.164.998/RJ, Relator Ministro MARCO AURÉLIO BELLIZZE, Terceira Turma, julgado em 13/2/2023, DJe de 16/2/2023 - grifou-se)
+"AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL - AÇÃO DE REGRESSO - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO. INSURGÊNCIA RECURSAL DOS DEMANDADOS.
+1. Não há se falar em negativa de prestação jurisdicional, na medida em que o órgão julgador dirimiu todas as questões que lhe foram postas à apreciação, de forma clara e sem omissões, embora não tenha acolhido a pretensão da parte.
+2. Rever a conclusão do Tribunal de origem com relação à responsabilidade pelo ressarcimento dos valores pagos em reclamação trabalhista demandaria o reexame do conjunto fático-probatório dos autos e a interpretação de cláusulas contratuais, providencias que encontram óbice no disposto nas Súmulas 5 e 7 do STJ. Precedentes.
+3. Agravo interno desprovido."
+(AgInt nos EDcl no AREsp 2.135.800/SP, Relator Ministro MARCO BUZZI, Quarta Turma, julgado em 13/2/2023, DJe de 16/2/2023 - grifou-se)
+Quanto ao custeio do tratamento médico, transcreve-se, por oportuno, a fundamentação do aresto estadual:
+"(..)
+Pelo que se extrai dos autos, a autora, idosa que conta, atualmente, com 71 anos, apresenta, desde 2017, quadro de cervicalgia, dorsalgia, lombalgia, artrose, discopatia, tendinopatia, e, conforme o laudo médico juntado aos autos, necessita de sessões de fisioterapia e de RPG, duas vezes por semana, id. 15233429.
+(..)
+Não se olvida que o Superior Tribunal de Justiça, no julgamento do Resp 1.733.013/SP, por maioria, entendeu pela taxatividade do aludido rol. Entretanto, a discussão acerca da taxatividade ou não do rol de procedimentos e eventos em saúde da ANS foi superada com a promulgação da Lei 14.454/2022 que, ao inserir o § 12 no art. 10 da Lei 9.656/98, fixou que o rol elenca os eventos mínimos a serem observados pelas operadoras de planos de saúde.
+Por conseguinte, a recusa foi indevida e abusiva." (e-STJ fls. 725/727 - grifou-se)
+Nesse contexto, dos excertos acima transcritos, verifica-se que a modificação do acórdão recorrido demanda a reinterpretação de cláusulas contratuais, bem como o reexame do conjunto fático-probatório dos autos, providências vedadas em recurso especial pelas Súmulas nºs 5 e 7/STJ, respectivamente.
+Ademais, conforme iterativa jurisprudência desta Corte, a necessidade do reexame da matéria fática impede a admissão do recurso especial tanto pela alínea "a" quanto pela alínea "c" do permissivo constitucional.
+Ante o exposto, conheço do agravo para conhecer parcialmente do recurso especial e, nessa extensão, negar-lhe provimento.
+Na origem, os honorários sucumbenciais foram fixados em 12% (doze por cento) sobre o valor da condenação, os quais devem ser majorados para o patamar de 14% (catorze por cento) em favor do advogado da parte recorrida, nos termos do art. 85, § 11, do Código de Processo Civil, observado o benefício da gratuidade da justiça, se for o caso..
+É o voto.
