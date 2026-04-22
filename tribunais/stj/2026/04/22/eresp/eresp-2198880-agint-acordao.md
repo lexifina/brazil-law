@@ -1,0 +1,44 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA SEÇÃO do Superior Tribunal de Justiça, em Sessão Virtual de 16/04/2026 a 22/04/2026, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Sérgio Kukina, Regina Helena Costa, Paulo Sérgio Domingues, Teodoro Silva Santos, Afrânio Vilela, Francisco Falcão e Maria Thereza de Assis Moura votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Gurgel de Faria.
+Impedido o Sr. Ministro Marco Aurélio Bellizze.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DIVERGÊNCIA EM RECURSO ESPECIAL. AUSÊNCIA DE JUNTADA DA CÓPIA OU DE REPOSITÓRIO DO INTEIRO TEOR DO ACÓRDÃO APONTADO COMO PARADIGMA. DISSÍDIO NÃO DEMONSTRADO.
+1. Tendo o recurso sido interposto contra decisão publicada na vigência do Código de Processo Civil de 2015, devem ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+2. Caso em que a Presidência desta Corte indeferiu liminarmente os embargos de divergência porquanto a parte, no momento da interposição do recurso, deixou de juntar aos autos o inteiro teor do acórdão paradigma, eis que ausente a certidão de julgamento.
+3. "Os embargos de divergência possuem fundamentação vinculada e exigem a juntada do inteiro teor dos acórdãos paradigmas, nos termos dos arts. 1.043, § 4º, do CPC/2015 e 266, § 4º, do RISTJ, compreendendo relatório, voto, ementa/acórdão e certidão de julgamento; a falta de qualquer elemento configura vício substancial insanável" (AgRg nos EREsp n. 2.014.605/SC, relator Ministro João Otávio de Noronha, Corte Especial, julgado em 3/3/2026, DJEN de 9/3/2026).
+4. "a juntada tão somente da ementa, relatório e voto do acórdão paradigma, sem a respectiva certidão de julgamento, configura vício substancial e afasta a aplicabilidade do parágrafo único do art. 932 do CPC" (AgInt nos EAREsp n. 2.733.533/SP, relator Ministro Marco Aurélio Bellizze, Primeira Seção, julgado em 14/10/2025, DJEN de 20/10/2025).
+5. Agravo interno não provido.
+RELATÓRIO
+O SENHOR MINISTRO BENEDITO GONÇALVES (Relator): Trata-se de agravo interno interposto contra decisão da Presidência desta Corte que indeferiu liminarmente os embargos de divergência.
+A agravante alega que a certidão de julgamento apenas certifica o conteúdo dos documentos juntados, não podendo ser considerado vício substantivo, pois em nada prejudica ou impede o conhecimento da matéria debatida, a qual se encontra perfeitamente explicitada e delimitada no relatório, voto e ementa do acórdão paradigma. Ressalta que, acaso entendido que a certidão de julgamento também era elemento essencial, deveria ter-lhe sido permitida a complementação da documentação, na forma do que determina o art. 932, parágrafo único, do CPC/2015. Reitera as razões meritórias dos embargos de divergência.
+Com impugnação.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DIVERGÊNCIA EM RECURSO ESPECIAL. AUSÊNCIA DE JUNTADA DA CÓPIA OU DE REPOSITÓRIO DO INTEIRO TEOR DO ACÓRDÃO APONTADO COMO PARADIGMA. DISSÍDIO NÃO DEMONSTRADO.
+1. Tendo o recurso sido interposto contra decisão publicada na vigência do Código de Processo Civil de 2015, devem ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+2. Caso em que a Presidência desta Corte indeferiu liminarmente os embargos de divergência porquanto a parte, no momento da interposição do recurso, deixou de juntar aos autos o inteiro teor do acórdão paradigma, eis que ausente a certidão de julgamento.
+3. "Os embargos de divergência possuem fundamentação vinculada e exigem a juntada do inteiro teor dos acórdãos paradigmas, nos termos dos arts. 1.043, § 4º, do CPC/2015 e 266, § 4º, do RISTJ, compreendendo relatório, voto, ementa/acórdão e certidão de julgamento; a falta de qualquer elemento configura vício substancial insanável" (AgRg nos EREsp n. 2.014.605/SC, relator Ministro João Otávio de Noronha, Corte Especial, julgado em 3/3/2026, DJEN de 9/3/2026).
+4. "a juntada tão somente da ementa, relatório e voto do acórdão paradigma, sem a respectiva certidão de julgamento, configura vício substancial e afasta a aplicabilidade do parágrafo único do art. 932 do CPC" (AgInt nos EAREsp n. 2.733.533/SP, relator Ministro Marco Aurélio Bellizze, Primeira Seção, julgado em 14/10/2025, DJEN de 20/10/2025).
+5. Agravo interno não provido.
+VOTO
+O SENHOR MINISTRO BENEDITO GONÇALVES (Relator): Consigne-se inicialmente que o recurso foi interposto contra decisão publicada na vigência do Código de Processo Civil de 2015, devendo ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+Dito isso, verifica-se que o presente recurso não merece prosperar, tendo em vista que dos argumentos apresentados no agravo interno não se vislumbram razões para reformar a decisão agravada.
+De fato, os embargos de divergência têm por objetivo uniformizar a jurisprudência do Tribunal ante a adoção de teses conflitantes pelos seus órgãos fracionários na decisão de casos similares. Para tanto, faz-se necessária a demonstração da divergência atual mediante as circunstâncias que assemelhem ou identifiquem os casos confrontados, com a realização do cotejo analítico entre eles, nos termos do art. 1.043, § 4º, do CPC/2015 e do art. 266, caput, do RISTJ.
+No caso concreto, verifica-se que a parte, no momento da interposição dos embargos de divergência, não juntou aos autos o inteiro teor do acórdão paradigma, eis que ausente a certidão de julgamento. Dessa forma, não cumpriu com regra técnica do mencionado recurso, o que constitui vício substancial insanável.
+De fato, "os embargos de divergência possuem fundamentação vinculada e exigem a juntada do inteiro teor dos acórdãos paradigmas, nos termos dos arts. 1.043, § 4º, do CPC/2015 e 266, § 4º, do RISTJ, compreendendo relatório, voto, ementa/acórdão e certidão de julgamento; a falta de qualquer elemento configura vício substancial insanável" (AgRg nos EREsp n. 2.014.605/SC, relator Ministro João Otávio de Noronha, Corte Especial, julgado em 3/3/2026, DJEN de 9/3/2026).
+Em igual sentido, confiram-se:
+PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DIVERGÊNCIA EM RECURSO ESPECIAL. AUSÊNCIA DE JUNTADA DO INTEIRO TEOR DOS ACÓRDÃOS PARADIGMAS. REQUISITO DE ADMISSIBILIDADE NÃO PREENCHIDO. AGRAVO INTERNO NÃO PROVIDO.
+I. CASO EM EXAME
+1. Agravo interno interposto contra decisão monocrática que indeferiu liminarmente os embargos de divergência por ausência da juntada do inteiro teor dos acórdãos apontados como paradigmas.
+II. QUESTÃO EM DISCUSSÃO
+2. Admissibilidade ou não dos embargos de divergência sem a juntada do inteiro teor dos acórdãos paradigmas ou a citação do repositório oficial ou autorizado de jurisprudência no qual publicado.
+III. RAZÕES DE DECIDIR
+3. A jurisprudência desta Corte está consolidada no sentido de que: "a) a certidão de julgamento compõe o inteiro teor do acórdão, não se admitindo, para comprovação da divergência, julgado dela desacompanhado; (b) a referência ao site do Tribunal (www.stj.jus.br) não é suficiente para substituir a juntada do inteiro teor do acórdão paradigma, sendo necessária a in dicação de link específico que leve diretamente ao inteiro teor do julgado; (c) a menção ao Diário da Justiça em que publicado o aresto divergente não atende às exigências formais para comprovação do dissídio jurisprudencial, ante a ausência de inteiro teor do acórdão naquela fonte; e (d) a inobservância desses requisitos constitui vício substancial, o que afasta a aplicação do parágrafo único do art. 932 do CPC" (AgInt nos EDcl nos EREsp n. 1.957.736/RS, relator Ministro João Otávio de Noronha, Corte Especial, julgado em 12/11/2024, DJe de 19/11/2024).
+4. Ademais, "a juntada posterior do inteiro teor dos acórdãos paradigmas, mesmo que poucos minutos após o protocolo da petição eletrônica dos embargos de divergência, sem a prova da ocorrência de problemas técnicos no sistema do STJ, configura desatendimento dos requisitos expressos de admissibilidade desse recurso" (AgInt nos EREsp n. 1.874.802/CE, relator Ministro João Otávio de Noronha, Corte Especial, julgado em 27/9/2022, DJe de 6/10/2022).
+IV. DISPOSITIVO
+5. Agravo interno não provido (AgInt nos EREsp n. 2.206.600/SC, relator Ministro Luis Felipe Salomão, Corte Especial, julgado em 3/3/2026, DJEN de 9/3/2026).
+Anote-se, por oportuno, que "a juntada tão somente da ementa, relatório e voto do acórdão paradigma, sem a respectiva certidão de julgamento, configura vício substancial e afasta a aplicabilidade do parágrafo único do art. 932 do CPC" (AgInt nos EAREsp n. 2.733.533/SP, relator Ministro Marco Aurélio Bellizze, Primeira Seção, julgado em 14/10/2025, DJEN de 20/10/2025).
+Ante o exposto, nego provimento ao agravo interno.
+É como voto.
