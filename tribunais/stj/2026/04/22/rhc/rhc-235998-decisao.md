@@ -1,0 +1,35 @@
+DECISÃO
+Trata-se de recurso em habeas corpus, com pedido liminar, interposto por WESLY SANTOS CRU Z COSTA contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DA BAHIA que concedeu parcialmente a ordem ao writ originário apenas para determinar a reavaliação da prisão prev entiva do recorrente, mantendo a custódia cautelar, nos termos da seguinte ementa (fls. 412):
+DIREITO PROCESSUAL PENAL. HABEAS CORPUS LIBERATÓRIO. PRISÃO PREVENTIVA. HOMICÍDIO QUALIFICADO TENTADO. AUSÊNCIA DE FUNDAMENTAÇÃO IDÔNEA E DESCUMPRIMENTO DO PRAZO NONAGESIMAL DE REAVALIAÇÃO. ORDEM CONHECIDA EM PARTE E PARCIALMENTE CONCEDIDA.
+Consta dos autos que o recorrente foi preso, em virtude de cumprimento de mandado, pela suposta prática de homicídio qualificado tentado (art. 121, § 2º, incisos I e II, c/c art. 14, inciso II, do Código Penal), tendo sido a prisão convertida em preventiva em audiência de custódia.
+Sustenta a parte recorrente a ocorrência de constrangimento ilegal pela ausência dos requisitos do art. 312 do Código de Processo Penal (CPP), afirmando que a preventiva foi decretada e mantida com base na gravidade em abstrato do delito, sem periculum libertatis concreto.
+Alega que o recorrente é primário, possui residência fixa e ocupação lícita, defende a suficiência de medidas cautelares alternativas, e invoca o princípio da homogeneidade e a presunção de inocência.
+Requer, liminarmente e no mérito, a revogação da prisão preventiva, com ou sem imposição de medidas cautelares diversas.
+É o relatório.
+O recurso é tempestivo e deve ser conhecido. Passa-se, portanto, ao exame do mérito.
+A prisão preventiva justifica-se apenas quando devidamente demonstrada sua imprescindibilidade para a preservação da ordem pública, a garantia da regularidade da instrução criminal ou a asseguração da eficácia da aplicação da lei penal, nos termos do art. 312 do Código de Processo Penal.
+A decisão que reavaliou a necessidade da prisão preventiva foi assim fundamentada (fl. 108):
+Analisando detidamente o feito, verifico que persistem os motivos ensejadores da prisão preventiva para garantia da ordem pública, conveniência da instrução criminal e para assegurar a aplicação da lei penal, sobretudo diante da gravidade em concreto da conduta supostamente praticada e da fase processual.
+Imperioso observar que primariedade, residência fixa, trabalho lícito e bons antecedentes que, por si sós, não impedem a manutenção da medida cautelar pessoal, uma vez que ainda estão presentes os motivos ensejadores da constrição da liberdade.
+Não há nos autos quaisquer novas circunstâncias que modificassem o panorama fático que autorizou a decretação da custódia cautelar. Assim, sendo o instituto da prisão preventiva regido pela cláusula Rebus Sic Stantibus, e, não vislumbrando qualquer alteração no quadro fático processual, deve a mesma ser mantida.
+Por fim, no caso, entendo que as medidas cautelares alternativas diversas da prisão, previstas na Lei 12.403/2011, não se mostram suficientes a acautelar o meio social.
+Ante o exposto, reanalisando as circunstâncias do caso concreto, não vislumbro fatos ou fundamentos novos aptos a mudar a situação dos autos, de modo que entendo que persistem os motivos ensejadores da prisão provisória dos réus.
+Há indícios suficientes de autoria e indícios razoáveis de perigo gerado pelo estado de liberdade dos denunciados, o que torna robusta a necessidade da restrição cautelar da liberdade de ambos, bem como para assegurar a aplicação da lei penal.
+Diante do exposto, MANTENHO A PRISÃO PREVENTIVA DOS RÉUS RAFAEL SANTANA NUNES e WESLY SANTOS CRUZ COSTA.
+Verifica-se que a prisão preventiva foi decretada mediante fundamentação idônea, lastreada na garantia da ordem pública e para assegurar a aplicação da lei penal, tendo sido evidenciado no decreto o modus operandi adotado - tentativa de homicídio com sete golpes de faca na região torácica da vítima, motivado por ciúmes e em concurso com outro agente, conforme a denúncia descrito na denúncia (fl. 270) - situação que revela a indispensabilidade da imposição da medida extrema no caso concreto.
+Com efeito, esta Corte Superior possui orientação no sentido de que a gravidade concreta do delito imputado e a periculosidade do agente, evidenciadas no modus operandi empregado, são circunstâncias aptas a justificar a prisão preventiva para a garantia da ordem pública. Nesse entendimento:
+AGRAVO REGIMENTAL EM HABEAS CORPUS. HOMICÍDIO DUPLAMENTE QUALIFICADO. PRISÃO PREVENTIVA. FUNDAMENTAÇÃO. PERICULOSIDADE DO AGENTE. GRAVIDADE CONCRETA. RÉU QUE SE MANTEVE FORAGIDO DURANTE VÁRIOS ANOS. SEGREGAÇÃO DEVIDAMENTE JUSTIFICADA PARA A GARANTIA DA ORDEM PÚBLICA E APLICAÇÃO DA LEI PENAL. CONDIÇÕES PESSOAIS FAVORÁVEIS. IRRELEVÂNCIA. MEDIDAS CAUTELARES ALTERNATIVAS. INSUFICIÊNCIA. AUSÊNCIA DE CONSTRANGIMENTO ILEGAL. RECURSO NÃO PROVIDO.
+ ..
+4. Esta Corte possui jurisprudência consolidada no sentido de que "a gravidade concreta da conduta, reveladora do potencial elevado grau de periculosidade do Agente e consubstanciada na alta reprovabilidade do modus operandi empregado na empreitada delitiva, é fundamento idôneo a lastrear a prisão preventiva, com o intuito de preservar a ordem pública". (AgRg no HC n. 687.840/MS, Rel. Ministra Laurita Vaz, Sexta Turma, julgado em 13/12/2022, DJe 19/12/2022).
+ ..
+9. Agravo regimental a que se nega provimento.
+(AgRg no HC n. 939.735/PE, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 30/10/2024, DJe de 5/11/2024.)
+Sendo assim, quando presentes os requisitos do art. 312 do CPP, a imposição da prisão preventiva é medida de rigor, independentemente de condições pessoais favoráveis do agente, mostrando-se inadequadas medidas cautelares diversas do art. 319, quando a custódia provisória apresentar fundamentação concreta.
+Nesse sentido, " a  presença de condições pessoais favoráveis não impede a imposição da prisão preventiva, quando presentes os requisitos legais" (AgRg no HC n. 990.311/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 22/4/2025, DJEN de 30/4/2025).
+Inclusive, "tendo sido exposta de forma fundamentada e concreta a necessidade da prisão, revela-se incabível sua substituição por outras medidas cautelares mais brandas" (AgRg no HC n. 965.960/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 5/3/2025, DJEN de 10/3/2025).
+Ressalte-se, ainda, que a prisão preventiva é compatível com a presunção de inocência quando amparada em fundamentos concretos que evidenciem a necessidade da medida para a garantia da ordem pública, nos termos do art. 312 do Código de Processo Penal. Neste sentido: AgRg no RHC n. 201.499/BA, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 2/4/2025, DJEN de 8/4/2025; HC n. 856.198/SP, relatora Ministra Daniela Teixeira, Quinta Turma, julgado em 15/10/2024, DJe de 12/11/2024.
+Não se verificando qualquer ilegalidade no feito, a pretensão recursal não deve ser acolhida.
+Ante o exposto, nego provimento ao recurso em habeas corpus.
+Publique-se.
+Intimem-se.
+ EMENTA
