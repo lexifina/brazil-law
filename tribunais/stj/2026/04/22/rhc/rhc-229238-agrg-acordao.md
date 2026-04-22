@@ -1,0 +1,80 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUINTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 16/04/2026 a 22/04/2026, por unanimidade, negar provimento ao recurso, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Reynaldo Soares da Fonseca, Ribeiro Dantas, Joel Ilan Paciornik e Messod Azulay Neto votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro Reynaldo Soares da Fonseca.
+EMENTA
+DIREITO PROCESSUAL PENAL. AGRAVO REGIMENTAL EM RECURSO EM HABEAS CORPUS. ESTELIONATO. AÇÃO PENAL PÚBLICA CONDICIONADA. INEXIGÊNCIA DE FORMALIDADE ESPECIAL PARA A REPRESENTAÇÃO DA VÍTIMA. PRETENSÃO DE TRANCAMENTO DA AÇÃO PENAL. AGRAVO REGIMENTAL DESPROVIDO.
+I. Caso em exame
+1. Agravo regimental interposto contra decisão que negou provimento a recurso em habeas corpus, no qual se buscava o trancamento de ação penal por estelionato, sob o fundamento de ausência de representação válida em desfavor da agravante e de decadência do direito de representação.
+II. Questão em discussão
+2. A questão em discussão consiste em saber se, nos crimes de estelionato submetidos à ação penal pública condicionada à representação, é necessária representação individualizada contra cada partícipe, sob pena de decadência do direito de representação e de nulidade do recebimento da denúncia ou de seu aditamento.
+3. Há, ainda, em discussão, saber se, à vista da alegada ausência de representação válida e da suposta decadência, é cabível o trancamento da ação penal pela via do habeas corpus, por ausência de justa causa ou de condição para o exercício da ação penal.
+III. Razões de decidir
+4. O Tribunal de origem constatou a existência de representação da vítima constante dos autos, a qual deu substrato ao início da ação penal, considerando suficiente a manifestação de vontade dirigida contra um dos corréus para autorizar a persecução em relação aos demais partícipes, não se exigindo da vítima, pessoa leiga, representação individualizada para cada envolvido.
+5. A jurisprudência do Superior Tribunal de Justiça afirma que, nos crimes de ação penal pública condicionada, a representação prescinde de formalidades específicas, bastando a manifestação inequívoca de vontade da vítima no sentido de ver apurada a infração, a qual pode ser depreendida de boletim de ocorrência, declarações ou requerimento de instauração de inquérito policial, ainda que não haja indicação nominal de todos os suspeitos.
+6. O trancamento da ação penal pela via do habeas corpus somente se justifica em hipóteses excepcionais, quando demonstrada de plano a ausência de justa causa, a atipicidade manifesta da conduta, a inexistência de indícios mínimos de autoria e materialidade ou a incidência de causa de extinção da punibilidade, o que não se verifica, sendo imprescindível o regular desenvolvimento da instrução criminal para a elucidação dos fatos.
+IV. Dispositivo e tese
+7. Resultado do Julgamento: Agravo regimental desprovido.
+Tese de julgamento:
+1. A representação da vítima nos crimes de ação penal pública condicionada prescinde de formalidades, bastando manifestação inequívoca de vontade de ver apurada a infração, ainda que dirigida inicialmente apenas a um dos envolvidos.
+2 . O trancamento da ação penal por meio de habeas corpus somente é cabível quando, de plano e sem necessidade de dilação probatória, se evidenciar a ausência de justa causa, a atipicidade manifesta da conduta, a inexistência de indícios mínimos de autoria e materialidade ou a presença de causa de extinção da punibilidade.
+Dispositivos relevantes citados:
+Código Penal, arts. 103 e 171, caput e § 5º; Código de Processo Penal, arts. 38 e 41.
+Jurisprudência relevante citada:
+STJ, REsp 2.041.752/SP, rel. Min. Daniela Teixeira, Quinta Turma, j. 04.02.2025, DJEN 10.02.2025; STJ, HC 851.782/SP, rel. Min. Otávio de Almeida Toledo (Desembargador Convocado do TJSP), Sexta Turma, j. 13.08.2024, DJe 23.08.2024; STJ, AgRg no RHC 179.501/SE, rel. Min. Joel Ilan Paciornik, Quinta Turma, j. 12.06.2023, DJe 14.06.2023; STJ, AgRg nos EDcl no RHC 91.276/BA, rel. Min. Rogerio Schietti Cruz, Sexta Turma, j. 04.08.2020, DJe 14.08.2020.
+RELATÓRIO
+Cuida-se de agravo regimental interposto por MAGALI ALVES TOLEDO, contra decisão de fls. 1254-1256, que negou provimento ao recurso em habeas corpus.
+Sustenta a parte agravante que houve recebimento do aditamento da denúncia para o art. 171, caput, do Código Penal, em relação à agravante, sem representação válida em seu desfavor, condição de procedibilidade exigida pelo art. 171, § 5º, do Código Penal. Alega que a vítima ofereceu representação apenas contra o corréu, embora a agravante já constasse da investigação. Afirma, assim, a carência de representação em seu desfavor e a decadência do direito de representação, nos termos dos arts. 103 do Código Penal e 38 do Código de Processo Penal, o que impõe a rejeição da denúncia por ausência de pressuposto processual e de condição para o exercício da ação penal.
+Requer o provimento do agravo regimental para reformar a decisão agravada e, em juízo de retratação, conceder a ordem no recurso em habeas corpus, determinando a rejeição da denúncia em relação à agravante por ausência de representação e pela decadência, com o trancamento da ação penal.
+É o relatório.
+EMENTA
+DIREITO PROCESSUAL PENAL. AGRAVO REGIMENTAL EM RECURSO EM HABEAS CORPUS. ESTELIONATO. AÇÃO PENAL PÚBLICA CONDICIONADA. INEXIGÊNCIA DE FORMALIDADE ESPECIAL PARA A REPRESENTAÇÃO DA VÍTIMA. PRETENSÃO DE TRANCAMENTO DA AÇÃO PENAL. AGRAVO REGIMENTAL DESPROVIDO.
+I. Caso em exame
+1. Agravo regimental interposto contra decisão que negou provimento a recurso em habeas corpus, no qual se buscava o trancamento de ação penal por estelionato, sob o fundamento de ausência de representação válida em desfavor da agravante e de decadência do direito de representação.
+II. Questão em discussão
+2. A questão em discussão consiste em saber se, nos crimes de estelionato submetidos à ação penal pública condicionada à representação, é necessária representação individualizada contra cada partícipe, sob pena de decadência do direito de representação e de nulidade do recebimento da denúncia ou de seu aditamento.
+3. Há, ainda, em discussão, saber se, à vista da alegada ausência de representação válida e da suposta decadência, é cabível o trancamento da ação penal pela via do habeas corpus, por ausência de justa causa ou de condição para o exercício da ação penal.
+III. Razões de decidir
+4. O Tribunal de origem constatou a existência de representação da vítima constante dos autos, a qual deu substrato ao início da ação penal, considerando suficiente a manifestação de vontade dirigida contra um dos corréus para autorizar a persecução em relação aos demais partícipes, não se exigindo da vítima, pessoa leiga, representação individualizada para cada envolvido.
+5. A jurisprudência do Superior Tribunal de Justiça afirma que, nos crimes de ação penal pública condicionada, a representação prescinde de formalidades específicas, bastando a manifestação inequívoca de vontade da vítima no sentido de ver apurada a infração, a qual pode ser depreendida de boletim de ocorrência, declarações ou requerimento de instauração de inquérito policial, ainda que não haja indicação nominal de todos os suspeitos.
+6. O trancamento da ação penal pela via do habeas corpus somente se justifica em hipóteses excepcionais, quando demonstrada de plano a ausência de justa causa, a atipicidade manifesta da conduta, a inexistência de indícios mínimos de autoria e materialidade ou a incidência de causa de extinção da punibilidade, o que não se verifica, sendo imprescindível o regular desenvolvimento da instrução criminal para a elucidação dos fatos.
+IV. Dispositivo e tese
+7. Resultado do Julgamento: Agravo regimental desprovido.
+Tese de julgamento:
+1. A representação da vítima nos crimes de ação penal pública condicionada prescinde de formalidades, bastando manifestação inequívoca de vontade de ver apurada a infração, ainda que dirigida inicialmente apenas a um dos envolvidos.
+2 . O trancamento da ação penal por meio de habeas corpus somente é cabível quando, de plano e sem necessidade de dilação probatória, se evidenciar a ausência de justa causa, a atipicidade manifesta da conduta, a inexistência de indícios mínimos de autoria e materialidade ou a presença de causa de extinção da punibilidade.
+Dispositivos relevantes citados:
+Código Penal, arts. 103 e 171, caput e § 5º; Código de Processo Penal, arts. 38 e 41.
+Jurisprudência relevante citada:
+STJ, REsp 2.041.752/SP, rel. Min. Daniela Teixeira, Quinta Turma, j. 04.02.2025, DJEN 10.02.2025; STJ, HC 851.782/SP, rel. Min. Otávio de Almeida Toledo (Desembargador Convocado do TJSP), Sexta Turma, j. 13.08.2024, DJe 23.08.2024; STJ, AgRg no RHC 179.501/SE, rel. Min. Joel Ilan Paciornik, Quinta Turma, j. 12.06.2023, DJe 14.06.2023; STJ, AgRg nos EDcl no RHC 91.276/BA, rel. Min. Rogerio Schietti Cruz, Sexta Turma, j. 04.08.2020, DJe 14.08.2020.
+VOTO
+Conforme relatado, a agravante alega, em síntese, que não houve representação válida em seu desfavor, o que impõe a rejeição da denúncia por ausência de pressuposto processual e de condição para o exercício da ação penal.
+Quanto ao tema, assim constou no acórdão atacado (fls. 1062-1063):
+ ..  Em consulta aos autos originários, verifica-se que o representante do Parquet ofereceu aditamento à denúncia, readequando a capitulação jurídica dos fatos para o caput do artigo 171, do Código Penal (fls. 819/823), o que aguarda apreciação do MM. Juízo de origem.
+Quanto à alegada ausência de representação, segundo consta dos autos, a autoridade impetrada pontuou que: "(..) descabe a afirmação de ausência de representação da vítima, porquanto como alegado pela própria ré, consta a representação na fl. 156 em face do réu Maduabuchi, não sendo exigível que a vítima, leiga, oferece representação individualizada em face dos demais partícipes, especialmente aqueles desconhecidos, cuja identificação somente ocorreu após a instauração do inquérito, com a representação da vítima".
+Extrai-se dos autos, ademais, que o boletim de ocorrência foi registrado por uma das corrés (MONIQUE), noticiando ter sido ameaçada pelo corréu MADUABUCHI apontando apenas o nome dele, portanto. Depois, as investigações evoluíram para apuração de estelionato e o nome da paciente MAGALI surgiu nos autos a partir do depoimento da corré MONIQUE, que relatou que teria emprestado sua conta para ele, tendo recebido 50 mil reais da vítima Lucia, e, posteriormente, repassado esse valor para outras contas, dentre elas, a da paciente MAGALI.
+Inexiste, portanto, ao menos à primeira vista, patente ilegalidade que autorize a concessão da ordem quanto a este ponto, frisando-se que consta, à fls. 156, representação da vítima que deu substrato ao início da ação penal.  ..
+Como se vê, o Tribunal de origem bem registrou que a alegação de falta de representação não procede, pois houve representação contra o corréu Maduabuchi, não se exigindo que a vítima, pessoa leiga, formule representação individual para cada partícipe, sobretudo os desconhecidos, cuja identificação só ocorreu após a abertura do inquérito, já amparado pela representação apresentada.
+Com efeito, segundo a jurisprudência desta Corte Superior, não é exigida formalidade especial para a representação, sendo suficiente a manifestação de vontade inequívoca da vítima de que a infração seja apurada, ainda que surjam novos nomes de envolvidos na empreitada criminosa durante a investigação.
+Nesse sentido:
+DIREITO PENAL. RECURSO ESPECIAL. ESTELIONATO. PACOTE ANTICRIME. DENÚNCIA OFERECIDA ANTES DA VIGÊNCIA DA LEI N. 13.964/2019. REPRESENTAÇÃO DA VÍTIMA. RETROATIVIDADE DA LEI. REPRESENTAÇÃO, NOS CRIMES DE AÇÃO PÚBLICA CONDICIONADA, PRESCINDE DE FORMALIDADES. RECURSO DESPROVIDO.
+ ..
+7. A jurisprudência do Superior Tribunal de Justiça se firmou no sentido de que a representação nos crimes de ação penal pública condicionada prescinde de formalidades, podendo ser depreendida do boletim de ocorrência e de declarações prestadas em juízo.
+8. Recurso desprovido.
+(REsp n. 2.041.752/SP, relatora Ministra Daniela Teixeira, Quinta Turma, julgado em 4/2/2025, DJEN de 10/2/2025.)
+HABEAS CORPUS. PENAL. PROCESSO PENAL. ESTELIONATO TENTADO. AUSÊNCIA DE REPRESENTAÇÃO FORMAL. DECADÊNCIA. DESNECESSIDADE DE MAIORES FORMALIDADES NO ATO DA REPRESENTAÇÃO. REQUISIÇÃO DE INSTAURAÇÃO DE INQUÉRITO POLICIAL PELA VÍTIMA. VONTADE DE VER O INVESTIGADO PROCESSADO SUFICIENTEMENTE DEMONSTRADA. FLAGRANTE PREPARADO E QUEBRA DA CADEIA DE CUSTÓDIA DA PROVA. ILEGALIDADE FLAGRANTE NÃO EVIDENCIADA. IMPOSSIBILIDADE DE ABSOLVIÇÃO. NECESSÁRIA ANÁLISE DE PROVAS IMPOSSÍVEL NA VIA ESTREITA DO WRIT.
+1. Na hipótese, vontade da vítima de ver o paciente processado suficientemente demonstrada ao requerer a instauração de inquérito policial para investigação dos fatos. Desnecessidade de maiores formalidades no ato da representação.
+ ..
+(HC n. 851.782/SP, relator Ministro Otávio de Almeida Toledo (Desembargador Convocado do TJSP), Sexta Turma, julgado em 13/8/2024, DJe de 23/8/2024.)
+Demais disso, é cediço que o trancamento da ação penal por meio do habeas corpus, pela ausência de justa causa ou por inépcia, justifica-se somente quando houver comprovação, de plano, da falta de justa causa, seja em razão da atipicidade da conduta supostamente praticada pelo acusado, seja da ausência de indícios de autoria e materialidade delitiva, ou ainda da incidência de causa de extinção da punibilidade - o que não se verifica na espécie.
+A propósito:
+AGRAVO REGIMENTAL NO RECURSO EM HABEAS CORPUS. POSSEIRREGULAR DE ARMA DE FOGO DE USO PERMITIDO. PEDIDO DE TRANCAMENTO DA AÇÃO PENAL. INÉPCIA DA DENÚNCIA. ATIPICIDADE DACONDUTA. ANÁLISE NO CURSO DA AÇÃO PENAL. IMPOSSIBILIDADE NA VIA ESTREITA DO WRIT. INCIDÊNCIA DO PRINCÍPIO IN DUBIO PRO SOCIETATE. AGRAVO REGIMENTAL DESPROVIDO.
+1. O trancamento prematuro da ação penal somente é possível quando ficar manifesto, de plano e sem necessidade de dilação probatória, a total ausência de indícios de autoria e prova da materialidade delitiva, a atipicidade da conduta ou a existência de alguma causa de extinção da punibilidade, ou ainda quando se mostrar inepta a denúncia por não atender comando do art. 41 do Código de Processo Penal - CPP.
+2. O julgado atacado reconheceu a existência de elementos probatórios para o início da persecução criminal, não se cogitando de afastar a justa causa. Assim, qualquer conclusão no sentido de inexistência de prova apta para embasar o ajuizamento da ação penal demanda o exame aprofundado de provas, providência incabível no âmbito do habeas corpus.
+3. A alegada atipicidade da conduta deverá ser analisada no curso da ação penal, pois, além de não ser comprovada de plano, as instâncias ordinárias asseveraram que a arma está no nome do genitor do acusado, bem como o registro está vencido desde 2013, não sendo possível concluir, pois, em análise superficial dos fatos, ser o caso de mera irregularidade administrativa.
+4. Por outro lado, registra-se que é sob o crivo do devido processo legal onde são assegurados o contraditório e a ampla defesa em que o paciente reunirá condições de desincumbir-se da responsabilidade penal que ora lhe é atribuída.
+5. Agravo ao qual se nega provimento. (AgRg no RHC n. 179.501/SE, relator Ministro Joel Ilan Paciornik, QuintaTurma, julgado em 12/6/2023, D Je de 14/6/2023.)
+Assim, consoante já decidiu esta Corte Superior, " a  avaliação do contexto fático em que a conduta supostamente aconteceu depende do transcorrer do processo-crime, de modo que é indevido o encerramento prematuro da persecução penal em relação ao réu, porquanto a elucidação da autoria delitiva e da pormenorização dos fatos só poderá ocorrer ao final da instrução processual" (AgRg nos E Dcl no RHC n. 91.276/BA, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 4/8/2020, D Je de 14/8/2020).
+Não vislumbro, portanto, qualquer flagrante ilegalidade a ser dirimida por esta Corte.
+Pelo exposto, nego provimento ao agravo regimental.
+É o voto.
