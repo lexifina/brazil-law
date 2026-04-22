@@ -1,0 +1,29 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 14/04/2026 a 22/04/2026, por unanimidade, não conhecer do recurso, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Antonio Carlos Ferreira, Luís Carlos Gambogi (Desembargador Convocado do TJMG), João Otávio de Noronha e Raul Araújo votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro João Otávio de Noronha.
+EMENTA
+AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. AÇÃO DE OBRIGAÇÃO DE FAZER. FUNDAMENTOS DA DECISÃO AGRAVADA. AUSÊNCIA DE IMPUGNAÇÃO.
+1. Nos termo s do art. 1021, § 1º, do Código de Processo Civil, é inviável o agravo interno que deixa de atacar especificamente os fundamentos da decisão agravada.
+2. Agravo interno não conhecido.
+RELATÓRIO
+Trata-se de agravo interno interposto por JOÃO FORTES ENGENHARIA S.A. - EM RECUPERAÇÃO JUDICIAL contra decisão singular da minha lavra em que neguei provimento ao agravo em recurso especial, pelos seguintes fundamentos: a) inexistência de negativa de prestação jurisdicional, pois o acórdão recorrido apreciou os pontos controvertidos e fundamentou a manutenção das astreintes, afastando a alegada violação dos arts. 489, § 1º, IV, e 1.022, parágrafo único, II, do Código de Processo Civil; b) impossibilidade de redução ou afastamento das astreintes em recurso especial, diante da necessidade de interpretação das cláusulas contratuais e do reexame de provas, incidindo as Súmulas 5/STJ e 7/STJ (fls. 811-813).
+Nas razões do presente agravo interno, a parte agravante alega, em síntese, que a decisão agravada incorreu em omissão ao não enfrentar a impossibilidade material de cancelamento da hipoteca em razão de crise econômica e do processamento de recuperação judicial, o que configuraria negativa de prestação jurisdicional, com violação dos arts. 489, § 1º, IV, e 1.022, parágrafo único, II, do Código de Processo Civil (fls. 820-822).
+Defende, ademais, que a discussão acerca das astreintes é exclusivamente de direito, não dependendo de interpretação contratual nem de reexame do contexto fático-probatório, razão pela qual não incidem as Súmulas 5/STJ e 7/STJ. Sustenta a possibilidade de redução/afastamento da multa com base no art. 537, § 1º, I e II, do Código de Processo Civil, invocando precedentes desta Corte sobre revisão de multa cominatória por exorbitância (fls. 822-826).
+Decorreu o prazo sem apresentação de impugnação (fl. 832).
+É o relatório.
+EMENTA
+AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. AÇÃO DE OBRIGAÇÃO DE FAZER. FUNDAMENTOS DA DECISÃO AGRAVADA. AUSÊNCIA DE IMPUGNAÇÃO.
+1. Nos termo s do art. 1021, § 1º, do Código de Processo Civil, é inviável o agravo interno que deixa de atacar especificamente os fundamentos da decisão agravada.
+2. Agravo interno não conhecido.
+VOTO
+De plano, verifico que o agravo interno interposto não merece ser conhecido, uma vez que a parte agravante não atacou devidamente a decisão agravada.
+A decisão ora agravada negou provimento ao agravo em recurso especial, afirmando, em síntese, que o acórdão recorrido examinou as questões essenciais e fundamentou a manutenção das astreintes, afastando a alegada negativa de prestação jurisdicional (arts. 489, § 1º, IV, e 1.022, parágrafo único, II, do Código de Processo Civil), e que o pedido de redução/afastamento da multa cominatória demanda interpretação de cláusulas contratuais e reexame de provas, incidindo, por isso, os óbices das Súmulas 5/STJ e 7/STJ (fls. 811-813).
+No presente agravo interno, contudo, a parte não apresentou argumentos voltados a impugnar objetiva e integralmente os capítulos atacados, se limitando a aduzir, de forma genérica, que houve omissão sem indicar, de modo específico, quais trechos do acórdão recorrido e dos embargos de declaração deixaram de enfrentar argumentos capazes de infirmar a conclusão adotada (fls. 820-822; 684-688; 727-731). Quanto ao capítulo que aplicou as Súmulas 5/STJ e 7/STJ, as razões restringiram-se a afirmar tratar-se de matéria de direito e a citar precedentes sobre revisão de astreintes, sem demonstrar que, no caso concreto, a apreciação prescinde da interpretação das cláusulas contratuais e da revisão das premissas fáticas relacionadas à alegada justa causa vinculada à recuperação judicial e aos custos da baixa do gravame, fundamentos específicos da decisão agravada (fls. 822-826; 811-813).
+Conclui-se, portanto, que as razões do agravo interno não impugnaram de forma objetiva e suficiente os fundamentos da decisão agravada em seus capítulos, limitando-se a reiterar argumentos já expendidos, sem infirmar, concreta e pontualmente, as bases adotadas na decisão singular.
+A absoluta falta da devida impugnação da decisão agravada enseja o não conhecimento do agravo interno, na linha do entendimento jurisprudencial pacífico desta Corte. Nesse sentido é o EREsp n. 1.424.404/SP (relator Ministro Luis Felipe Salomão, Corte Especial, julgado em 20/10/2021, DJe de 17/11/2021).
+Cumpre destacar que o dever de impugnação específica não se trata de formalismo estéril, mas de exigência essencial ao exercício dialético do contraditório.
+A ausência de enfrentamento objetivo e direto de todos os fundamentos autônomos da decisão agravada inviabiliza o conhecimento do agravo interno , ainda que parte das razões apresentadas sejam pertinentes . Isso porque o agravo interno, por sua natureza devolutiva restrita, não inaugura nova instância de apreciação, mas constitui meio de reapreciação dos fundamentos já examinados, exigindo correlação integral entre o decidido e o impugnado.
+Imperioso concluir, portanto, que a exigência constante do art. 1.021, § 1º, do Código de Processo Civil não foi cumprida, o que conduz à inviabilidade do agravo interno.
+Em face do exposto, não conheço do agravo interno.
+É como voto.
