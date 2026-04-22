@@ -1,0 +1,31 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de FILIPE ELIAS BECKER MARTINS, contra acórdão proferido pelo Tribunal de Justiça do Estado do Rio Grande do Sul (HC n. 5363593-58.2025.8.21.7000).
+Consta dos autos que o paciente foi preso em flagrante, teve a custódia convertida em preventiva e foi denunciado pela suposta prática do crime previsto no art. 171, caput, c/c art. 29, caput, ambos do Código penal.
+Posteriormente, o réu foi posto em liberdade mediante o cumprimento de medidas cautelares diversas da prisão, estabelecidas pelo Tribunal de Justiçado Estado do Rio Grande do Sul. No entanto, houve o descumprimento das medidas impostas, além de haver indicativos de que o paciente tenha cometido fraude processual no processo originário, motivo pelo qual decretou-se novamente a sua segregação cautelar.
+Inconformada, a defesa impetrou habeas corpus na Corte estadual alegando, em síntese, ausência dos requisitos e pressupostos da prisão preventiva, falta de fundamentação idônea do decreto constritivo e possibilidade de aplicação de medidas cautelares diversas.
+O Tribunal de origem, contudo, denegou a ordem nos termos do acórdão de (e-STJ fls. 24/33).
+Na presente oportunidade, o impetrante alega que a prisão preventiva é desnecessária e desproporcional, porque ausentes fundamentos concretos e idôneos, havendo possibilidade real de aplicação de medidas cautelares alternativas menos gravosas.
+Aduz que o paciente é primário, responde a ações penais sem condenações, e que a fundamentação do acórdão atacado se cinge a risco genérico de reiteração e à garantia da ordem pública, sem demonstrar periculum libertatis específico.
+Sustenta, ademais, que o descumprimento de medidas cautelares não impõe, automaticamente, a prisão, exigindo análise cuidadosa das razões e da necessidade da cautela extrema; aponta, ainda, que o crime imputado (estelionato) possui pena com mínima de 1 ano e máxima de 5 anos, o que evidenciaria a possibilidade de regime inicial menos gravoso, reforçando a desproporcionalidade da preventiva.
+Diante disso, pede, liminarmente e no mérito, a revogação da prisão preventiva do paciente ou a sua substituição por medidas cautelares diversas.
+A liminar foi indeferida (e-STJ fls. 855/856).
+As informações foram prestadas (e-STJ fls. 859/894) e o Ministério Público Federal se manifestou em parecer opinando pelo não conhecimento do habeas corpus (e-STJ fls. 899/903).
+É o relatório, decido.
+O habeas corpus está prejudicado. Isso porque, em consulta ao autos de origem (Ação Penal n. 5054524-57.2024.8.21.0001), consta que 31/3/2026 o paciente foi condenado pela prática do crime previsto no art. 171, caput, do Código Penal à pena de 1 ano e 6 meses de reclusão, em regime inicial aberto, reprimenda substituída por duas penas restritivas de direitos (prestação pecuniária no valor equivalente a 5 salários mínimos na data do pagamento, e prestação de serviço à comunidade, pelo período da condenação, à razão de uma hora por dia de condenação), e à pena de multa de 15 DIAS-MULTA, à razão de 1/30 do salário mínimo vigente à época do fato. Além disso, consta que foi expedido alvará de soltura no dia 31/3/2026, es tando atualmente o paciente recorrendo em liberdade. Confira-se :
+DISPOSITIVO
+Diante do exposto, JULGO PROCEDENTE o pedido formulado na denúncia para o efeito de CONDENAR o réu FILIPE ELIAS BECKER MARTINS, já qualificado, como incurso nas sanções do artigo 171, caput, do Código Penal.
+Passo a individuar e arbitrar a pena:
+Da análise das circunstâncias judiciais do art. 59 do Código Penal concluo: a) a culpabilidade extrapola a normalidade, na medida em que foram apresentados, para fins de cometer o delito, documentos digitalizados de identificação falsificados; b) o imputado não ostenta antecedentes criminais, uma vez que a sua certidão judicial não registra condenações com trânsito em julgado; c) sua conduta social não foi abonada; d) personalidade, por ser considerada um complexo das características individuais que ditam o comportamento do autor do delito, inviável o seu aferimento com os elementos contidos nos autos; e) os motivos são próprios da espécie; f) as circunstâncias exacerbam o tipo, na medida em que praticado o crime na companhia de uma criança; g) as consequências são comuns à espécie; h) o comportamento da vítima não influenciou para a prática do fato.
+Assim, considerando que recconhecidas duas circunstâncias judiciais negativas, aumento a pena em 3 meses para cada uma delas, resultando a pena-base em 1 ANO E 6 MESES DE RECLUSÃO.
+Na segunda fase, ausentes agravantes, atenuantes, causas de aumento e causas de diminuição da pena, mantenho a pena provisória em 1 ANO E 6 MESES DE RECLUSÃO, a qual torno DEFINITIVA ante a ausência de outras causas de oscilação da pena.
+O regime inicial de cumprimento da pena de reclusão será o ABERTO, nos termos do artigo 33, § 2º, alínea "c", do Código Penal.
+Preenchidos os pressupostos do artigo 44 do Código Penal, substituo a pena privativa de liberdade por duas penas restritivas de direitos, consistentes em:
+- prestação pecuniária no valor equivalente a 5 salários mínimos na data do pagamento, a ser depositado em conta da VEPMA;
+- prestação de serviços à comunidade, pelo período da condenação, à razão de uma hora por dia de condenação, em local a ser indicado pelo juízo da Execução Penal.
+Imponho ao condenado o pagamento de 15 DIAS-MULTA, levando-se em conta as operadoras do art. 59 do Código Penal, arbitrado o dia-multa em 1/30 (um trigésimo) do salário mínimo vigente à época do fato.
+Levando em consideração o quantitativo de pena aplicada, o regime inicial de cumprimento da pena fixado e o período no qual já permaneceu segregado cautelarmente (preso em 16/12/2025), entendo que deve ser concedido ao réu o direito de apelar em liberdade, razão pela qual REVOGO a prisão preventiva de FILIPE ELIAS BECKER MARTINS.
+Expeça-se alvará de soltura, devendo o acusado ser colocado imediatamente em liberdade, se por outro motivo não estiver preso.
+Nesse contexto, fica sem objeto o pedido contido na inicial.
+Ante o exposto, com fundamento no art. 34, XX, do RISTJ, julgo prejudicado o presente habeas corpus.
+Intimem-se.
+EMENTA
