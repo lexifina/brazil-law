@@ -1,0 +1,36 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido de liminar, impetrado em favor de DIEGO LUCIANO PALMA, apontando como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO nos autos do HC n. 2085086-94.2026.8.26.0000.
+Consta dos autos que o paciente foi preso em flagrante em 1/04/2026 pela suposta prática do crime de receptação. Na audiência de custódia, o Juízo homologou o flagrante, reconheceu a ausência de pressupostos para a decretação da prisão preven tiva e concedeu liberdade provisória com medidas cautelares diversas, condicionando a expedição do alvará de soltura ao recolhimento de fiança fixada em 1 (um) salário mínimo.
+Irresignada, a defesa impetrou habeas corpus perante o Tribunal de origem, cujo pleito liminar foi indeferido pelo Desembargador Relator.
+No presente writ, a impetrante sustenta que a manutenção da custódia após a concessão de liberdade provisória, condicionada ao pagamento de fiança, é ilegítima, por ausência de requisitos da prisão preventiva já reconhecida na origem e pela incapacidade econômica do paciente de arcar com o valor arbitrado.
+Sustenta que incide o art. 350 do Código de Processo Penal, segundo o qual "nos casos em que couber a fiança, o juiz, verificando a situação econômica do preso, poderá conceder-lhe liberdade provisória, sujeitando-o às obrigações previstas nos arts. 327 e 328 deste Código, e a outras medidas cautelares, se for o caso, dispensada a fiança", e que a hipossuficiência está evidenciada pela ausência de auxílio familiar e pela representação pela Defensoria Pública.
+Requer, liminarmente e no mérito, a concessão da ordem para expedição imediata de alvará de soltura independentemente do pagamento da fiança, com manutenção das demais medidas cautelares impostas. Subsidiariamente, pugna pela expedição de alvará de soltura com concessão de prazo razoável para que o paciente, em liberdade, efetue o recolhimento da fiança arbitrada.
+É o relatório.
+Decido.
+Constata-se, desde logo, que a pretensão não pode ser acolhida por esta Corte Superior, pois a matéria não foi examinada pelo Tribunal de origem, que ainda não julgou o mérito do writ originário.
+Trata-se da aplicação, por analogia, do verbete sumular 691 do Supremo Tribunal Federal, adotado por esta Corte Superior, que assim dispõe:
+Não compete ao Supremo Tribunal Federal conhecer de habeas corpus contra decisão do relator que, em habeas corpus requerido a Tribunal Superior, indefere a liminar.
+Confiram-se, a propósito, os seguintes julgados:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. PROCESSUAL PENAL. IMPETRAÇÃO CONTRA DECISÃO INDEFERITÓRIA DE LIMINAR EM OUTRO HABEAS CORPUS NA ORIGEM, AINDA NÃO JULGADO. SÚMULA N. 691 DO SUPREMO TRIBUNAL FEDERAL. IMPOSSIBILIDADE DE SUPERAÇÃO. AUSÊNCIA DE TERATOLOGIA. SUPRESSÃO DE INSTÂNCIA. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. Não se admite habeas corpus contra decisão denegatória de liminar proferida em outro writ na instância de origem, sob pena de indevida supressão de instância. Súmula n. 691/STF.
+2. No caso, não se constata, prima facie, flagrante ilegalidade que autorize a mitigação da Súmula n. 691/STF, tendo em vista que o paciente foi denunciado pela suposta prática do delito capitulado no art. 33, caput, da Lei n. 11.343/2006.
+3. Não havendo notícia de que o Tribunal a quo tenha procedido ao exame meritório, reserva-se primeiramente àquele Órgão a apreciação da matéria ventilada no habeas corpus originário, sendo defeso a esta Corte Superior adiantar-se nesse exame, sobrepujando a competência da Corte de origem, mormente se o writ está sendo regularmente processado.
+4. Agravo regimental não provido.
+(AgRg no HC n. 907.691/SP, relator Ministro Otávio de Almeida Toledo (Desembargador Convocado do TJSP), Sexta Turma, julgado em 24/6/2024, DJe de 27/6/2024.)
+AGRAVO REGIMENTAL NO HABEAS CORPUS. PROCESSUAL PENAL. IMPETRAÇÃO CONTRA DECISÃO INDEFERITÓRIA DE LIMINAR EM OUTRO HABEAS CORPUS NA ORIGEM, AINDA NÃO JULGADO. SÚMULA N. 691 DA SUPREMA CORTE.
+IMPOSSIBILIDADE DE SUPERAÇÃO. AUSÊNCIA DE TERATOLOGIA. SUPRESSÃO DE INSTÂNCIA. AGRAVO REGIMENTAL DESPROVIDO.
+1. Não se admite habeas corpus contra decisão denegatória de liminar proferida em outro writ na instância de origem, sob pena de indevida supressão de instância. Súmula n. 691/STF.
+2. No caso, não se constata, prima facie, flagrante ilegalidade que autorize a mitigação da Súmula n. 691, da Suprema Corte, tendo em vista a indicação de necessidade da prisão cautelar para garantia da ordem pública a fim de impedir a continuidade das atividades criminosas.
+3. Não havendo notícia de que o Tribunal a quo tenha procedido ao exame meritório, reserva-se primeiramente àquele Órgão a apreciação da matéria ventilada no habeas corpus originário, sendo defeso a esta Corte Superior adiantar-se nesse exame, sobrepujando a competência da Corte a quo, mormente se o writ está sendo regularmente processado.
+4. Agravo regimental desprovido.
+(AgRg no HC n. 872.481/RO, relator Ministro Teodoro Silva Santos, Sexta Turma, julgado em 26/2/2024, DJe de 5/3/2024.)
+A jurisprudência das Cortes Superiores admite, de fato, a superação do referido óbice em hipóteses absolutamente excepcionais, nas quais a decisão impugnada se revele manifestamente ilegal, teratológica ou configure abuso de poder.
+No caso dos autos, todavia, não identifico, em análise perfunctória, a presença de flagrante ilegalidade apta a justificar a excepcional intervenção desta Corte. A decisão monocrática que indeferiu a liminar, embora sucinta, revela o entendimento do Relator na origem, no sentido de que (fls. 17/18):
+O cerne da pretensão defensiva repousa na invocação do art. 350 do CPP, que faculta ao Juiz, verificada a situação econômica do preso, conceder-lhe liberdade provisória dispensada a fiança. Ocorre que se trata de norma de natureza facultativa o legislador valeu-se do verbo "poderá" , cujo manejo pressupõe a demonstração concreta da hipossuficiência econômica do acusado.
+No caso concreto, a decisão coatora fundamentou a fixação da fiança, de forma expressa, na indicação de atividade laboral remunerada do paciente, consignando que os indícios de capacidade econômica para arcar com a cautelar pecuniária estariam presumidos por esse dado. O MM. Juízo, portanto, não se furtou a examinar a situação econômica do autuado deliberou a respeito e concluiu, motivadamente, pela viabilidade da exigência.
+Diante desse quadro, a mera representação pela Defensoria Pública não se revela, em cognição sumária, elemento suficiente para infirmar essa conclusão.
+A atuação da Defensoria alcança todos aqueles que não constituíram advogado particular, independentemente de sua real capacidade econômica para adimplir uma fiança de valor mínimo como a arbitrada. Ademais, o exercício de atividade laboral remunerada, registrado nos autos de origem, aponta em sentido contrário à impossibilidade absoluta de pagamento afirmada na petição inicial, sendo a questão controvertida o suficiente para não comportar resolução adequada em sede de cognição sumária.
+Desse modo, a análise do pleito por esta Corte implicaria adiantar-se ao exame de mérito que ainda será realizado pelo colegiado do Tribunal de origem, o qual é o juiz natural para apreciar a controvérsia.
+Ante o exposto, indefiro liminarmente o presente habeas corpus.
+Publique-se. Intimem-se.
+ EMENTA
