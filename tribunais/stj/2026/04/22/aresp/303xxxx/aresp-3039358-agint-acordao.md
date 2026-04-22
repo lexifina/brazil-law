@@ -1,0 +1,80 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 14/04/2026 a 22/04/2026, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Ricardo Villas Bôas Cueva, Moura Ribeiro, Daniela Teixeira e Nancy Andrighi votaram com o Sr. Ministro Relator.
+Presidiu o julgamento a Sra. Ministra Daniela Teixeira.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. CIVIL. VIOLAÇÃO DOS ARTS. 489 E 1.022 DO CPC INEXISTENTE. VENDAS POR MEIO DE CARTÃO DE CRÉDITO. ÔNUS DA PROVA. REPASSE A MENOR. REVISÃO. SÚMULAS. 7/STJ. INAPLICABILIDADE DO CDC. SÚMULA N. 284/STF.
+1. Inexiste a alegada violação dos arts. 489 e 1.022 do CPC, visto que o Tribunal de origem efetivamente enfrentou a questão levada ao seu conhecimento, qual seja, a legitimidade dos valores cobrados pela autora em razão de alegado repasse incorreto de vendas efetuadas por meio de máquina de cartão de crédito, no que destacou que, à luz da distribuição do ônus da prova, a agravante não apontou fato impeditivo, modificativo ou extintivo do direito do autor, sendo aplicável o CDC à hipótese, mantendo, consequentemente, a sentença de procedência dos valores cobrados.
+2. O inconformismo da parte com o julgamento contrário à sua pretensão não caracteriza falta de prestação jurisdicional. Precedentes.
+3. As teses recursais a "INEXISTENCIA DE PROVA DOS DANOS MATERIAIS" (sic) e "INAPLICABILIDADE DO CÓDIGO DE DEFESA DO CONSUMIDOR" não comportariam conhecimento. Aquela, porque a revisão da conclusão do acórdão recorrido quanto à higidez dos valores cobrados demandaria reexame fático, atraindo a incidência da Súmula n. 7/STJ ao ponto, agravado pela ausência de indicação de artigo de lei federal violado. Incidência da Súmula n. 284/STF. Óbice que, pelo mesmo motivo de deficiência na indicação do normativo federal , inviabiliza a análise da segunda tese de não incidência do CDC.
+Agravo interno improvido.
+RELATÓRIO
+O EXMO. SR. MINISTRO HUMBERTO MARTINS (relator):
+Cuida-se de agravo interno interposto por REDECARD S.A. contra decisão monocrática de minha relatoria que conheceu do agravo para não conhecer do recurso especial (fls. 620-623).
+Extrai-se dos autos que o recurso especial inadmitido foi interposto, com fundamento no artigo 105, inciso III, alíneas "a" e "c", da Constituição Federal, contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DA PARAÍBA assim ementado (fl. 521):
+APELAÇÃO CÍVEL. AÇÃO DE COBRANÇA C/C INDENIZAÇÃO POR DANOS MATERIAIS. PLEITOS JULGADOS PARCIALMENTE PROCEDENTES. INSURREIÇÃO. PRELIMINARES. REJEIÇÃO. MÉRITO. VENDAS ATRAVÉS DE MAQUINETA DE CARTÃO. REPASSES INDEVIDOS. MANUTENÇÃO DA SENTENÇA. DESPROVIMENTO DO APELO.
+Rejeitados os embargos de declaração opostos (fls. 549-552).
+A agravante reitera, nas razões do recurso interno, alegação de afronta aos arts. 489 e 1.022 do CPC, por entender que houve prestação jurisdicional incompleta.
+No mérito em si, aduz a inaplicabilidade da Súmula n. 7/STJ, visto que "o recurso foi interposto com fundamento na violação ao art. 1.022, II, e art. 489, I, § 1º, IV do CPC e visa, portanto, o saneamento do vício de omissão e fundamentação, de modo que não há falar-se em necessidade de reingresso na matéria fática", e acresce (fl. 632):
+Trata-se, em verdade, de discussão envolvendo puramente matéria de direito. Resta claro, portanto, que, para serem providas, as pretensões do recurso especial não demandarão do STJ o exame de provas e fatos contidos na instrução probatória. Muito ao contrário. As premissas fáticas e jurídicas das razões do agravante são exatamente as mesmas que o próprio Tribunal a quo considerou em seu julgamento.
+A questão aqui, portanto, é de pura e simples revaloração jurídica da fundamentação, com a intenção de se alcançar conclusão jurídica distinta da que fora alcançada pelo Tribunal local.
+Pugna, por fim, caso não seja reconsiderada a decisão agravada, pela submissão do presente agravo à apreciação da Turma.
+A agravada não apresentou contraminuta (fl. 646).
+É, no essencial, o relatório.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. CIVIL. VIOLAÇÃO DOS ARTS. 489 E 1.022 DO CPC INEXISTENTE. VENDAS POR MEIO DE CARTÃO DE CRÉDITO. ÔNUS DA PROVA. REPASSE A MENOR. REVISÃO. SÚMULAS. 7/STJ. INAPLICABILIDADE DO CDC. SÚMULA N. 284/STF.
+1. Inexiste a alegada violação dos arts. 489 e 1.022 do CPC, visto que o Tribunal de origem efetivamente enfrentou a questão levada ao seu conhecimento, qual seja, a legitimidade dos valores cobrados pela autora em razão de alegado repasse incorreto de vendas efetuadas por meio de máquina de cartão de crédito, no que destacou que, à luz da distribuição do ônus da prova, a agravante não apontou fato impeditivo, modificativo ou extintivo do direito do autor, sendo aplicável o CDC à hipótese, mantendo, consequentemente, a sentença de procedência dos valores cobrados.
+2. O inconformismo da parte com o julgamento contrário à sua pretensão não caracteriza falta de prestação jurisdicional. Precedentes.
+3. As teses recursais a "INEXISTENCIA DE PROVA DOS DANOS MATERIAIS" (sic) e "INAPLICABILIDADE DO CÓDIGO DE DEFESA DO CONSUMIDOR" não comportariam conhecimento. Aquela, porque a revisão da conclusão do acórdão recorrido quanto à higidez dos valores cobrados demandaria reexame fático, atraindo a incidência da Súmula n. 7/STJ ao ponto, agravado pela ausência de indicação de artigo de lei federal violado. Incidência da Súmula n. 284/STF. Óbice que, pelo mesmo motivo de deficiência na indicação do normativo federal , inviabiliza a análise da segunda tese de não incidência do CDC.
+Agravo interno improvido.
+VOTO
+O EXMO. SR. MINISTRO HUMBERTO MARTINS (relator):
+O agravo interno não merece prosperar.
+Conforme consignado na decisão agravada, inexiste a alegada violação dos arts. 489 e 1.022 do CPC, visto que o Tribunal de origem efetivamente enfrentou a questão levada ao seu conhecimento, qual seja, a legitimidade dos valores cobrados pela autora em razão de alegado repasse incorreto de vendas efetuadas por meio de máquina de cartão de crédito.
+E, a propósito do contexto recursal, destacou a origem que, à luz da distribuição do ônus da prova, a agravante não apontou fato impeditivo, modificativo ou extintivo do direito do autor, sendo aplicável o CDC à hipótese, mantendo, consequentemente, a sentença de procedência dos valores cobrados. Vejamos:
+A insurgência recursal gravita em torno da má prestação de serviço pela recorrente, eis que após vendas realizadas pela recorrida em maquineta de cartão, os valores não foram corretamente entregues.
+A empresa/apelante quedou-se com o dever de fazer prova negativa do direito da autora, o que faz presumir a veracidade dos fatos alegados. Desse modo, verifica-se que não houve nenhuma prova que desconstituísse o direito da promovente, restando inerte quanto ao seu dever de provar, conforme preceitua art. 373, II, do CPC/2015, in verbis:
+ ..
+Assim, percebe-se que restou provado que houve má prestação do serviço.
+A norma consumerista, aplicável à presente hipótese, é clara, ao estabelecer os direitos básicos do consumidor, in verbis:
+ ..
+Ademais, a responsabilidade civil em relação ao fornecedor de serviços é objetiva, ou seja, torna-se despiciendo a prova de culpa, sendo suficiente a demonstração da má prestação de serviços, a teor do que prescreve o art. 14, do Código Consumerista. Senão vejamos:
+ ..
+Ante o exposto, REJEITO AS PRELIMINARES E NEGO PROVIMENTO AO APELO, mantendo incólume a decisão vergastada e deixando de majorar os honorários advocatícios, nos moldes do art. 85, § 11, do CPC/2015, tendo em vista que já foram fixados no teto máximo.
+Observa-se, assim, que as questões recursais foram efetivamente enfrentadas pelo Tribunal de origem, sendo que não se pode ter como omissa ou carente de fundamentação uma decisão tão somente porque suas alegações não foram acolhidas.
+Cumpre reiterar que entendimento contrário não se confunde com omissão no julgado ou com ausência de prestação jurisdicional. A propósito: "não se pode confundir decisão contrária ao interesse da parte com ausência de fundamentação ou negativa de prestação jurisdicional" (AgInt no AREsp n. 1.907.401/SP, relatora Ministra Assusete Magalhães, Segunda Turma, DJe de 29/8/2022).
+No mesmo sentido, cito:
+2.2. Não há ofensa aos arts. 489 e 1.022 do CPC, quando o Tribunal de origem examina, de forma fundamentada, a questão submetida à apreciação judicial na medida necessária para o deslinde da controvérsia, ainda que em sentido contrário à pretensão da parte.
+(REsp n. 1.947.636/PE, relatora Ministra Nancy Andrighi, Terceira Turma, DJe de 6/9/2024.)
+1. Segundo orientação jurisprudencial vigente no Superior Tribunal de Justiça, não há falar em omissão, contradição, obscuridade ou erro material, nem em deficiência na fundamentação, quando a decisão recorrida está adequadamente motivada com base na aplicação do direito considerado cabível ao caso concreto, pois o mero inconformismo da parte com a solução da controvérsia não configura negativa de prestação jurisdicional.
+(AgInt no AREsp n. 2.595.147/SE, relator Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 28/8/2024.)
+Por seu turno, ao contrário do que aduz a agravante, inafastáveis os preceitos da Súmula n. 7/STJ, visto que, apesar de fazer apenas indicação tão somente de violação dos arts. 489 e 1.022 do CPC, a recorrente ainda indicou como teses recursais a "INEXISTENCIA DE PROVA DOS DANOS MATERIAIS" (fl. 558) e "INAPLICABILIDADE DO CÓDIGO DE DEFESA DO CONSUMIDOR" (fl. 559), temas que não comportariam conhecimento.
+Primeiro porque efetivamente a revisão do julgado para acolhimento de tese de regularidade dos valores repassados demandaria reexame do acervo fático dos autos:
+AGRAVO INTERNO NO RECURSO ESPECIAL. ADMINISTRATIVO. CONTRATO ADMINISTRATIVO. RETENÇÃO DE VERBAS DEVIDAS AO PARTICULAR PELOS SERVIÇOS PRESTADOS. AUSÊNCIA DE COMPROVAÇÃO DE REGULARIDADE TRABALHISTA. PREVISÃO CONTRATUAL. REEXAME. INCIDÊNCIA DAS SÚMULAS N. 5/STJ E 7/STJ. LEGITIMIDADE. ART. 71 DA LEI N. 8.666/1993. PRECEDENTES. AGRAVO INTERNO IMPROVIDO.
+ ..
+II - O Tribunal de origem entendeu pela legalidade da retenção dos repasses à recorrente contratada da administração pública estadual em virtude de expressa cláusula contratual e mediante prévio procedimento administrativo. Nesse panorama, não há que se falar em ausência de procedimento administrativo para a sanção da suspensão do repasse das verbas, bem como reexame da possibilidade de suspensão, mediante cláusula contratual, que esbarraria nos Óbices Sumulares n. 5/STJ e 7/STJ: Súmula n. 5: A simples interpretação de clausula contratual não enseja recurso especial. Súmula n. 7: A pretensão de simples reexame de prova não enseja recurso especial.
+ ..
+IV - Agravo interno improvido.
+(AgInt no REsp n. 1.647.375/CE, relator Ministro Francisco Falcão, Segunda Turma, DJe de 17/3/2022.)
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. CONTRATO ADMINISTRATIVO. EXIGÊNCIA DE APRESENTAÇÃO DE CERTIDÃO NEGATIVA DE DÉBITO TRABALHISTA, PARA O PAGAMENTO DE VALORES CONTRATUAIS. EDITAIS DE PREGÕES E CONTRATOS QUE PREVIAM, EXPRESSAMENTE, TAL EXIGÊNCIA. IMPOSSIBILIDADE DE REVISÃO, EM SEDE DE RECURSO ESPECIAL. SÚMULAS 5 E 7 DO STJ. AGRAVO REGIMENTAL IMPROVIDO.
+I. Infere-se dos autos que parte recorrente ajuizou ação em desfavor do Município de Curitiba, ora agravado, sob o argumento de que está sendo cerceada em seu direito ao recebimento dos valores contratados, decorrentes de Contratos Administrativos oriundos de Pregões Eletrônicos, haja vista a exigência da apresentação de Certidão Negativa de Débitos Trabalhistas - CNDT. O Juízo de 1º Grau julgara improcedentes os pedidos formulados na inicial, por entender não existir ilegalidade na exigência de CNDT, como condição ao pagamento dos valores contratualmente previstos.
+II. O acórdão recorrido, ao manter a sentença de improcedência, concluiu que "não há qualquer óbice à exigência da apresentação da CNDT para a realização dos pagamentos. Isto porque, tanto nos Editais dos Pregões Eletrônicos nºs 597/2011 e 600/2011 como nos contratos deles decorrentes, cujas redações são semelhantes, consta expressamente tal exigência, ainda que com nomenclatura diversa". Portanto, considerando a fundamentação adotada na origem, alterar o entendimento do Tribunal de origem ensejaria, inevitavelmente, o reexame fático-probatório dos autos, bem como das cláusulas dos editais dos pregões eletrônicos e dos contratos deles decorrentes, procedimento vedado, pelas Súmulas 5 e 7 desta Corte. Precedentes do STJ.
+III. Agravo Regimental improvido.
+(AgRg no AREsp n. 775.475/PR, relatora Ministra Assusete Magalhães, Segunda Turma, DJe de 29/2/2016.)
+Inclusive, no ponto, sempre pertinente reiterar que "aferir a suficiência das provas ou a relevância de determinadas provas sobre outras escapa do campo de competência do STJ, porquanto demandaria reexame do acervo fático-probatório dos autos, o que encontra óbice na Súmula 7/STJ" (REsp n. 2.230.865/SP, relator Ministro Humberto Martins, Terceira Turma, DJEN de 23/10/2025), o que, ao fim e ao cabo, é a efetiva pretensão da agravante, pois pretende desta Corte Superior que, até para acolhimento da tese de afronta aos arts. 489 e 1.022 do CPC, proceda, de forma oblíqua, na reanálise dos autos para concluir que determinada prova seja interpretada da maneira que lhe beneficie, o que efetivamente esbarra no óbice do enunciado acima destacado.
+A título de reforço, cito:
+3. O juízo acerca da produção da prova compete soberanamente às instâncias ordinárias, e o seu reexame, na estreita via do recurso especial, encontra, também, o óbice de que trata o verbete nº 7 da Súmula desta Corte.
+(AREsp n. 2.873.284/MG, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, DJEN de 29/8/2025.)
+Segundo porque, ao sustentar a tese de inaplicabilidade do CDC, observa-se que, nas razões do recurso especial, a recorrente deixou de estabelecer qual o dispositivo de lei federal que considera violado para sustentar sua irresignação pelas alíneas "a" e "c" do permissivo constitucional.
+Ressalte-se que a mera menção ao tema em debate, sem que se aponte com precisão a contrariedade ou a negativa de vigência pelo julgado recorrido não preenche o requisito formal de admissibilidade recursal.
+As razões do recurso especial devem exprimir, com transparência e objetividade, os motivos pelos quais o recorrente visa à reforma do julgado, de modo que a "simples menção de normas infraconstitucionais, feita de maneira esparsa no corpo das razões recursais, não supre a exigência de fundamentação adequada do recurso especial, pois dificulta a compreensão da controvérsia. Incidência da Súmula 284/STF" (EDcl no AgRg no AREsp n. 402.314/SP, relator Ministro Sebastião Reis Júnior, Sexta Turma, DJe de 22/9/2015).
+Diante da deficiência na fundamentação, o conhecimento do recurso especial encontra óbice na Súmula 284 do STF: "É inadmissível o recurso extraordinário, quando a deficiência na fundamentação não permitir a exata compreensão da controvérsia".
+Nesse sentido, cito:
+1. A ausência de indicação do dispositivo de lei violado ou de interpretação controvertida caracteriza deficiência da fundamentação recursal. Incidência, por analogia, da Súmula 284 do STF.
+(AgInt no AREsp n. 2.484.657/SP, relator Ministro Marco Buzzi, Quarta Turma, DJe de 26/6/2024.)
+3. O recurso especial é inadmissível por fundamentação deficiente quando deixa de indicar o dispositivo de lei federal violado. Súmula nº 284/STF.
+(AgInt no AREsp n. 2.511.818/SP, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, DJe de 21/6/2024.)
+Assim, da leitura da petição de agravo interno não se extrai argumentação relevante apta a infirmar os fundamentos da decisão ora agravada.
+Dessarte, nada havendo a retificar ou esclarecer na decisão agravada, deve ela ser mantida.
+Ante o exposto, nego provimento ao agravo interno.
+É como penso. É como voto.
