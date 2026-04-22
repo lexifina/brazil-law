@@ -1,0 +1,66 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEXTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 16/04/2026 a 22/04/2026, por unanimidade, denegar o habeas corpus, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Rogerio Schietti Cruz, Carlos Pires Brandão e Og Fernandes votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Carlos Pires Brandão.
+Não participou do julgamento o Sr. Ministro Antonio Saldanha Palheiro.
+EMENTA
+DIREITO PROCESSUAL PENAL. HABEAS CORPUS. EXECUÇÃO PENAL. INDULTO COLETIVO. DECRETO PRESIDENCIAL N. 12.338/2024. PRESUNÇÃO DE INCAPACIDADE ECONÔMICA. INTERPRETAÇÃO RESTRITIVA. ADVOGADO PARTICULAR.
+1. O indulto é prerrogativa do Presidente da República e o Decreto Presidencial concessivo deve ser interpretado restritivamente, sob pena de invasão da competência exclusiva prevista no art. 84, XII, da Constituição Federal.
+2. A presunção de incapacidade econômica prevista no art. 12, § 2º, do Decreto n. 12.338/2024 possui natureza relativa, admitindo afastamento quando os elementos dos autos evidenciem que o apenado possui condições financeiras para reparar o dano.
+3. As instâncias ordinárias consignaram que o paciente constituiu advogado particular em todas as quatro ações penais e na execução penal, bem como que o quantum de dias-multa fixado em cada sentença ultrapassou o mínimo legal previsto no art. 49 do Código Penal, circunstâncias que afastam a presunção de incapacidade econômica.
+4. Não comprovada a reparação do dano nem demonstrada a incapacidade econômica para fazê-lo, o paciente não preenche requisito essencial do art. 9º, XV, do Decreto n. 12.338/2024, razão pela qual se mantém o indeferimento do indulto, em consonância com a jurisprudência do Superior Tribunal de Justiça.
+5. Ordem denegada.
+RELATÓRIO
+Trata-se de habeas corpus, com pedido de liminar, impetrado em favor de TIAGO DANILO ALVES CAMILO, no qual se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE MATO GROSSO DO SUL.
+Consta dos autos que o paciente, durante a execução da pena, teve seu pedido de indulto negado porquanto não preenchidos os requisitos estabelecidos no art. 9º, XV, do Decreto n. 12.338/2024, notadamente ausência de comprovação concreta da incapacidade financeira (fl. 3).
+Em suas razões, a defesa alega que o reeducando faz jus à concessão de indulto, pois cumpre sanção por delitos unicamente de natureza patrimonial, praticados sem violência ou grave ameaça à pessoa, e teve a pena de multa fixada no mínimo legal em todos eles, o que enseja a presunção de hipossuficiência econômica (fls. 3/4).
+Sobre a pena de multa, especifica que, em duas condenações, o valor do dia-multa foi fixado no patamar mínimo, além de ter havido a concessão de gratuidade de justiça, circunstâncias que reforçam o reconhecimento da hipossuficiência financeira. Nas outras duas condenações, destaca que, em uma delas, não teria sido definido o valor do dia-multa e, em outra, nem sequer houve a condenação de qualquer valor pecuniário, situações que não podem ser interpretadas em prejuízo do segregado (fls. 4/7).
+Assim, defende não haver fundamento idôneo para afastar a presunção de hipossuficiência do paciente, argumentando que a representação processual por advogado constituído não é capaz de infirmar a sua vulnerabilidade econômica (fls. 7/8).
+Por fim, destaca que, em relação ao único delito impeditivo, já foi cumprida a fração exigida pelo Decreto, razão pela qual inexiste óbice à concessão do indulto (fl. 8).
+Requer, assim, liminarmente, a colocação do paciente em liberdade. No mérito, pede pela confirmação da medida liminar para declarar extinta a punibilidade do paciente em relação as condenações pelos crimes de furto com fundamento no art. 9º, XV, c/c o art. 12, § 2º, V, do Decreto n. 12.338/2024 (fl. 8).
+Liminar indeferida às fls. 60/61.
+Informações prestadas às fls. 64/67 e fls. 71/81.
+Intimado, o Ministério Público Federal opinou pelo não conhecimento do habeas corpus, nos termos da seguinte ementa (fl. 87):
+HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. PENAL. AUSÊNCIA DE ILEGALIDADE MANIFESTA. PLEITOS QUE DEMANDAM REEXAME DO ARCABOUÇO FÁTICO-PROBATÓRIO. PARECER PELO NÃO CONHECIMENTO DO HABEAS CORPUS.
+É o relatório.
+EMENTA
+DIREITO PROCESSUAL PENAL. HABEAS CORPUS. EXECUÇÃO PENAL. INDULTO COLETIVO. DECRETO PRESIDENCIAL N. 12.338/2024. PRESUNÇÃO DE INCAPACIDADE ECONÔMICA. INTERPRETAÇÃO RESTRITIVA. ADVOGADO PARTICULAR.
+1. O indulto é prerrogativa do Presidente da República e o Decreto Presidencial concessivo deve ser interpretado restritivamente, sob pena de invasão da competência exclusiva prevista no art. 84, XII, da Constituição Federal.
+2. A presunção de incapacidade econômica prevista no art. 12, § 2º, do Decreto n. 12.338/2024 possui natureza relativa, admitindo afastamento quando os elementos dos autos evidenciem que o apenado possui condições financeiras para reparar o dano.
+3. As instâncias ordinárias consignaram que o paciente constituiu advogado particular em todas as quatro ações penais e na execução penal, bem como que o quantum de dias-multa fixado em cada sentença ultrapassou o mínimo legal previsto no art. 49 do Código Penal, circunstâncias que afastam a presunção de incapacidade econômica.
+4. Não comprovada a reparação do dano nem demonstrada a incapacidade econômica para fazê-lo, o paciente não preenche requisito essencial do art. 9º, XV, do Decreto n. 12.338/2024, razão pela qual se mantém o indeferimento do indulto, em consonância com a jurisprudência do Superior Tribunal de Justiça.
+5. Ordem denegada.
+VOTO
+A ordem deve ser denegada.
+Ao julgar o habeas corpus impetrado na origem, o Tribunal de Justiça adotou a seguinte fundamentação (fls. 14/15 - grifo nosso):
+No presente caso, o magistrado de primeiro grau avaliou a tese de hipossuficiência e concluiu pelo indeferimento do pedido de indulto, por ausência de comprovação da incapacidade financeira.
+E, no tocante ao valor do dia-multa, o juízo de primeiro grau apontou que foi fixado acima do mínimo legal. Com efeito, colhe-se das 04 (quatro) sentenças anexadas às fls. 27/65 o seguinte:
+- Nos autos n. 0000245-59.2014.8.12.0018 consta da denúncia que o recorrente subtraiu 19 cabeças de gado e assim foi condenado pelo juízo de Paranaíba/MS, como incurso no art. 155, §4º, IV, do CP, à pena de 03 anos e 08 meses de reclusão, e pagamento de 57 dias-multa (fls. 27 e 37);
+- Nos autos n. 0001394-30.2019.8.12.0046 consta da denúncia que o recorrente subtraiu várias armas de fogo, munições, televisão, binóculos e lunetas e assim foi condenado pelo juízo da Comarca de Chapadão do Sul/MS, como incurso no art. 155, §4º, I e IV, do CP, à pena de 04 anos, 04 meses e 08 dias de reclusão, e pagamento de 14 dias-multa (fls. 42 e 45);
+- Nos autos n. 0001826-74.2016.8.12.0007 consta da denúncia que o recorrente subtraiu 6 cabeças de gado e assim foi condenado pelo juízo da Comarca de Inocência/MS, como incurso no art. 155, §4º, IV, do CP, à pena de 02 anos e 04 meses de reclusão, e pagamento de 11 dias-multa (fls. 49 e 53); e, por fim,
+- Nos autos n. 0003356--73.2016.8.26.0541 consta da denúncia que o recorrente subtraiu um veículo Ford F350 placa BTO-5685, transportando-o para outro Estado da Federação, e assim foi condenado pelo juízo da Comarca de Santa Fé do Sul/SP, como incurso no art. 155, §4º, I e V, do CP, à pena de 08 anos e 08 meses de reclusão, e pagamento de 11 dias-multa (fls. 57 e 64).
+Nota-se que em todas as sentenças o quantum fixado a título de dias- multa ultrapassa o mínimo de 10 dias previsto no artigo 49 do Código Penal.
+Some-se a isso que em todas as 04 (quatro) ações criminais suso mencionadas o ora recorrente contratou advogado particular para representá-lo, e, de igual modo, constituiu patrono nos autos da execução nº 0001450-31.2011.8.12.0018, em trâmite pela 2ª Vara de Execução em Meio Semiaberto do Interior.
+Logo, agiu com acerto o juízo de primeiro grau ao considerar ausente a comprovação concreta da incapacidade financeira do recorrente.
+Pois bem, o Decreto Presidencial n. 12.338/2024 estabelece nos arts. 9º, XV, e 12, § 2º, que será concedido o indulto aos condenados à pena privativa de liberdade que cometeram crime contra o patrimônio, desde que sem violência ou grave ameaça à pessoa, que, até 25 de dezembro de 2024, tenham reparado o dano (nos termos dos arts. 16 ou 65, III, b, do Código Penal), excetuando-se os incapazes economicamente, conforme presunções estabelecidas no mencionado parágrafo.
+Com efeito, é pacífico o entendimento de que o indulto é prerrogativa do Presidente da República, e o decreto presidencial deve ser interpretado restritivamente, conforme a competência exclusiva do Executivo (AgRg no HC n. 912.321/SP, relator Ministro Messod Azulay Neto, Quinta Turma, julgado em 12/3/2025, DJEN de 19/3/2025).
+Acerca da presunção de incapacidade econômica prevista no art. 12, § 2º, do Decreto Presidencial n. 12.338/2024, destaco que possui natureza relativa, de forma que pode ser afastada à luz de elementos probatórios constantes dos autos.
+Voltando ao caso concreto, verifica-se que as instâncias antecedentes consideraram que o paciente constituiu advogado particular nas quatro ações penais a que respondeu, bem como nos autos da execução penal, o que, já de imediato, afasta qualquer tipo de presunção de incapacidade econômica.
+Além disso, foi consignado que os dias-multa ultrapassam o mínimo legal, o que também afasta a segunda hipótese de presunção de incapacidade econômica.
+Assim, não está presente qualquer das hipóteses que autorizam o reconhecimento de presunção de incapacidade econômica; ao contrário disso, a constituição de advogado particular em cinco processos distintos evidencia que é possível a reparação do dano.
+Nesse contexto, o entendimento firmado no acórdão impugnado está em consonância a orientação jurisprudencial desta Corte.
+A propósito:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO PENAL. INDULTO. DECRETO PRESIDENCIAL N. 11.846/2023. APENADO REINCIDENTE EM CRIMES PATRIMONIAIS. APLICAÇÃO DA REGRA DO INCISO XV DO ARTIGO 2º DA NORMA, PELO PRINCÍPIO DA ESPECIALIDADE. AUSÊNCIA DE REPARAÇÃO DO DANO OU COMPROVAÇÃO DA SUA INCAPACIDADE ECONÔMICA. RECURSO DESPROVIDO.
+ ..
+2. Ademais, " consoante  a jurisprudência deste Superior Tribunal de Justiça, a interpretação extensiva das restrições contidas no decreto concessivo de comutação/indulto de penas consiste, nos termos do art. 84, XII, da Constituição Federal, em invasão à competência exclusiva do Presidente da República, motivo pelo qual, preenchidos os requisitos estabelecidos na norma legal, o benefício deve ser concedido por meio de sentença - a qual possui natureza meramente declaratória -, sob pena de ofensa ao princípio da legalidade" (AgRg no REsp n. 1.902.850/GO, relator Ministro Messod Azulay Neto, Quinta Turma, julgado em 17/4/2023, DJe de 20/4/2023).
+3. Hipótese em que o paciente, não obstante requerer a concessão do indulto previsto no art. 2º, I, Decreto Presidencial n. 11.843/2023, deve ter a análise do benefício concentrada no inciso XV deste dispositivo, em homenagem ao princípio da especialidade, por ser reincidente em crime patrimonial sem emprego de violência ou grave ameaça.
+4. Não há ilegalidade no acórdão estadual que negou o benefício com base na ausência de demonstração da reparação do dano pelo condenado ou de comprovação da incapacidade de fazê-lo. Esse entendimento se encontra em conformidade com a jurisprudência desta Corte Superior, ao julgar situações pretéritas assemelhadas.
+5. Agravo regimental desprovido.
+(AgRg no HC n. 935.027/SP, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 30/9/2024, DJe de 4/10/2024, grifos nossos.)
+AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO. INDULTO. DECRETO N. 11.846/2023. EXIGÊNCIA DE REPARAÇÃO DO DANO. AFASTAMENTO. IMPOSSIBILIDADE. HIPOSSUFICIÊNCIA NÃO COMPROVADA. APENADO ASSISTIDO POR ADVOGADO PARTICULAR. AGRAVO REGIMENTAL DESPROVIDO.
+1. O art. 2º, inciso XV, do Decreto n. 11.846/2023 assim dispõe: "Concede-se o indulto coletivo às pessoas, nacionais e migrantes  ..  condenadas por crime contra o patrimônio cometido sem grave ameaça ou violência a pessoa, desde que tenham cumprido um quinto da pena, se não reincidente, ou um quarto da pena, se reincidente, e reparado o dano até 25 de dezembro de 2023, exceto se houver inocorrência de dano ou incapacidade econômica de repará-lo".
+2. In casu, tendo em vista que o apenado foi condenado por diversos furtos, ou seja, crime contra o patrimônio cometido sem grave ameaça ou violência, deve, por exigência legal, comprovar a reparação do dano até 25/12/2023 ou sua incapacidade econômica para tanto. Precedentes.
+3. Agravo regimental desprovido.
+(AgRg no HC n. 953.256/SP, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 27/11/2024, DJEN de 2/12/2024 - grifo nosso).
+Não comprovada a reparação do dano nem demonstrada a incapacidade econômica para fazê-lo, o paciente não preenche requisito essencial do art. 9º, XV, do Decreto n. 12.338/2024, razão pela qual se mantém o indeferimento do indulto, em consonância com a jurisprudência do Superior Tribunal de Justiça.
+Em face do exposto, denego a ordem de habeas corpus.
