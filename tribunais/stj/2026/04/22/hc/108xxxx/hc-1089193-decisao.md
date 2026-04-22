@@ -1,0 +1,39 @@
+DECISÃO
+LEONARDO GONÇALVES DOS SANTOS alega sofrer coação ilegal em decorrência de acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo no HC n. 2403414-33.2025.8.26.0000.
+Consta dos autos que o paciente teve decretada contra si a prisão temporária nos autos n. 1500206-11.2025.8.26.0083 , aos quais a defesa constituída teria requerido acesso, que foi negado em razão da necessidade de preservação das investigações ainda em curso.
+O Tribunal a quo denegou a ordem, mas recomendou à autoridade impetrada a expedição de ofício à autoridade policial sobre a ultimação das diligências e reavaliação da necessidade de preservação do sigilo.
+A defesa técnica sustenta o direito de acesso aos autos como garantia inerente ao devido processo legal e prerrogativa profissional, conforme determina a Súmula Vinculante n. 14 do STF. Reputa insuficiente a recusa "sem indicar, de forma concreta e individualizada, quais diligências estariam em curso ou de que modo a vista dos autos comprometeria sua finalidade" (fl. 5).
+Requer, liminarmente, a suspensão do andamento processual e a revogação da prisão ou sua substituição por medidas cautelares alternativas e, no mérito, que seja assegurada "consulta integral a todas as provas já documentadas, bem como a readequação dos prazos processuais necessários ao efetivo e técnico exercício da advocacia" (fl. 9).
+Decido.
+Não se verifica o alegado constrangimento ilegal sustentado pela defesa.
+A jurisprudência consolidada desta Corte Superior e do Supremo Tribunal Federal orienta que o direito assegurado pelo enunciado da Súmula Vinculante n. 14 do STF refere-se exclusivamente aos elementos de prova que já tenham sido formalmente incorporados ao procedimento investigatório, não abrangendo diligências em curso ou ainda pendentes de documentação, sob pena de comprometer a eficácia e a utilidade da medida.
+Na hipótese, o Juízo de primeiro grau consignou expressamente a existência de providências pendentes de cumprimento que demandam a preservação do sigilo para assegurar a utilidade da jurisdição. Nesse sentido, assinalou à fl. 26 que " t ratando-se de pedido de diligência sigilosa, ainda não encartado o resultado aos autos, por ora INDEFIRO o pedido de habilitação, com fundamento na Súmula Vinculante 14".
+Ato contínuo, manteve a decisão, nos seguintes termos (fls. 24-25):
+Fls. 313/314: mantenho a decisão de fls. 308, por seus próprios fundamentos.
+Acrescente-se ainda que, embora a Súmula Vinculante nº 14 garanta o acesso da Defesa aos elementos de prova já documentados, não abrange diligências em andamento, cujo acesso poderia prejudicar as investigações, como é o caso dos autos.
+No mesmo sentido:
+ ..
+Observe-se ainda que o fato de haver diligências em andamento de forma alguma pode ser entendido como ausência de fundamentação idônea para a decretação da prisão temporária.
+O Tribunal a quo, por sua vez, destacou (fl. 49-51):
+A despeito dos questionamentos ofertados pelo agravante, não se depara com argumentação capaz de alterar o convencimento inicial firmado por este Relator sobre a nítida ausência de constrangimento ilegal decorrente de ato da autoridade impetrada, consoante fundamentação a seguir reproduzida.
+"Mencione-se que a consulta interna ao sistema DIPOL não apontou o cumprimento do mandado de prisão temporária expedido em face do paciente, algo confirmado a partir de acesso (disponibilizado ao público geral) ao Banco Nacional de Medidas Penais e Prisões (BNMP-CNJ), situação que, acaso verificada, poderia de fato ensejar o acesso da Defesa aos fundamentos do decreto prisional, daí não se falar em manutenção indevida da constrição, como despropositadamente sugerido na impetração.
+Ao menos neste exame perfunctório, o fato de LEONARDO haver constituído Defensores para atuar em prol de seus interesses, sem que se tenha notícia do efetivo cumprimento das diligências autorizadas pelo juízo, reforça a conclusão quanto à imprescindibilidade da custódia para o sucesso das investigações, tendo a autoridade impetrada, ademais, bem justificado o cabimento da segregação ao apontar o preenchimento dos requisitos do artigo 1º da Lei nº. 7.960/89 (sem possibilidade de maior digressão sobre os fundamentos ali expressos como forma de se preservar o sigilo das investigações ainda em curso).
+Demais disso, a Súmula Vinculante 14 excepciona as situações envolvendo diligências investigatórias ainda em andamento, como ocorre na hipótese, cabendo destacar que o direito de acesso aos elementos investigativos não é absoluto e resvala no interesse público pela eficaz apuração de condutas em tese típicas.
+ ..
+No mais, mencione-se que o procedimento cautelar se encontra em fase ainda incipiente, de modo que o acesso à Defesa à parca documentação juntada justamente aquela considerada para embasar as diligências investigativas principais, pendentes de cumprimento certamente colocaria em risco o sucesso das apurações.
+De toda forma, emitiu-se recomendação à autoridade impetrada objetivando a expedição de ofício ao Delegado de Polícia para obter informações sobre as diligências já realizadas (algo providenciado pela julgadora singular no momento seguinte à comunicação do resultado do Habeas Corpus) e, desta forma, ensejar breve reavaliação sobre a necessidade de preservação de sigilo, em atenção ao enunciado da Súmula Vinculante 14.
+A tese defensiva de que a negativa de acesso obstaculiza o questionamento da prisão temporária não prospera neste momento processual.
+Havendo mandado de prisão expedido e ainda pendente de execução, a divulgação antecipada dos fundamentos da decisão ou das circunstâncias da diligência poderia frustrar o próprio cumprimento da ordem judicial.
+Assim, a postergação do acesso é medida proporcional e justificada pelo risco concreto à eficácia dos atos judiciais, tal como ponderado pelas instâncias ordinárias.
+Nesse sentido, colaciono precedente deste Superior Tribunal de Justiça:
+DIREITO PROCESSUAL PENAL. AGRAVO REGIMENTAL. ACESSO AOS AUTOS DE INQUÉRITO POLICIAL. DIREITO NÃO ABSOLUTO. DILIGÊNCIAS EM ANDAMENTO. SÚMULA VINCULANTE N. 14/STF. PRISÃO TEMPORÁRIA FUNDAMENTADA. CRIMES GRAVES. NECESSIDADE DE RESGUARDAR AS INVESTIGAÇÕES. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. Conforme a Súmula Vinculante n. 14/STF, é direito do defensor ter acesso amplo aos elementos de prova já documentados em procedimento investigatório, não alcançando, contudo, diligências em andamento e ainda não documentadas nos autos.
+2. No caso, o Tribunal de origem fundamentou adequadamente a impossibilidade de acesso irrestrito aos autos, ressaltando que diligências sigilosas não concluídas não são passíveis de acesso pela Defesa.
+ ..
+(AgRg no RHC n. 199.849/MG, relator Ministro Otávio de Almeida Toledo (Desembargador Convocado do TJSP), Sexta Turma, julgado em 30/4/2025, DJEN de 8/5/2025.)
+Não verifico a comprovação, inequívoca, de que o sigilo incida sobre diligências já exauridas e devidamente documentadas.
+Assim, nos moldes em que foi prolatado, e sem a oposição de embargos de declaração para apontar eventual premissa fática equivocada o acórdão, não se verifica, de plano, ilegalidade ostensiva no pronunciamento do Tribunal de origem, o qual está em conformidade com o precedente vinculante do Supremo Tribunal Federal.
+Deveras, "Há, é verdade, diligências que devem ser sigilosas, sob risco de comprometimento do seu bom sucesso"  HC n. 88.190, voto do rel. min. Cezar Peluso, 2ª T, j. 29-8-2006, DJ de 6-10-2006  e "o verbete sumular n. 14 não se presta, a rigor, a solucionar o  ..  direito à produção de provas não documentadas nos autos, e, sim, a garantir que documentos efetivamente produzidos nos mesmos autos a que responde a parte não tenham o seu acesso por ela indevidamente sonegado"  RCL 75093, rel. min. André Mendonça, 2ª T, j. 7-4-2025, DJE de 15-4-2025 .
+À vista do exposto, denego a ordem de habeas corpus, in limine.
+Publique-se e i ntimem-se.
+EMENTA
