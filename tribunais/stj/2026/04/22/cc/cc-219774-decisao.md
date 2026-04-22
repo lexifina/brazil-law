@@ -1,0 +1,12 @@
+DECISÃO
+Cuida-se de conflito entre o r. juízo federal da 1ª Vara de São José do Rio Preto - SJ/SP e o r. Juízo de Direito da 1ª Vara Cível de São José do Rio Preto/SP acerca da competência para processar e julgar embargos à execução ajuizado por TAMIRES PEREIRA MARTINS em desfavor de BRN RESIDENCIAL MARIA CLARA 2 EMPREENDIMENTOS IMOBILIÁRIOS SPE no qual a autora pretende o reconhecimento da inexequibilidade do título em razão da alegação de atraso imotivado na entrega da obra.
+O MPF entendeu desnecessária a sua intervenção (fls. 7/10).
+É o relatório.
+Decisão.
+A matéria subjacente ao presente incidente encontra-se pacificada no âmbito deste Superior Tribunal de Justiça, de modo a atrair a incidência da Súmula 568 /STJ e a possibilidade do exame unipessoal da questão (ut. CC 179.787/PE, Rel. Min. Paulo de Tarso Sanseverino, Dje de 25/05/2021; CC 169.970/SP, Rel. Min. Antonio Carlos Ferreira, Dje de 30/03/2020).
+1. De início, vale destacar a competência deste Superior Tribunal de Justiça para o exame do presente conflito, uma vez que envolve juízos vinculados a Tribunais diversos, nos termos do que dispõe o artigo 105, inciso I, alínea "d", da Constituição Federal.
+2. Em conflitos similares, esta Corte Superior já apreciou casos análogos consolidando o entendimento no sentido de que, tendo em a competência federal é absoluta, fundada no art. 109, I, da CF, e não se prorroga por conexão ou continência (art. 54 do CPC) quando inexistente ente federal no polo da demanda, conclui-se que a reunião de ações por conexão só é possível quando ambos os juízos sejam relativamente competentes e não se admite modificação de competência absoluta. (ut. AgRg no CC 112.956/MS, Rel. Min. Nancy Andrighi, DJe de 2/5/2012).
+Na hipótese, diante da natureza privada da lide (embargos à execução entre particulares), bem como da ausência de ente federal na relação processual, e da impossibilidade de alteração de competência absoluta por conexão/continência, impõe-se declarar a competência do Juízo de Direito da 1ª Vara Cível de São José do Rio Preto/SP para processar e julgar os embargos à execução, afastando-se a reunião dos feitos com o processo federal.
+3. Do exposto, com fundamento no art. 955, parágrafo único, do CPC c/c Súmula 568/STJ declaro a competência do r. juízo da 1ª Vara Cível de São José do Rio Preto/SP , nos termos da fundamentação supramencionada.
+Publique-se. Intimem-se.
+EMENTA
