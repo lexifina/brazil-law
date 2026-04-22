@@ -1,0 +1,57 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 14/04/2026 a 22/04/2026, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Moura Ribeiro, Daniela Teixeira, Nancy Andrighi e Humberto Martins votaram com o Sr. Ministro Relator.
+Presidiu o julgamento a Sra. Ministra Daniela Teixeira.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. PROCESSO CIVIL. AÇÃO RENOVATÓRIA. LOCAÇÃO COMERCIAL. LAUDO PERICIAL. VALIDADE. SUCUMBÊNCIA. FIXAÇÃO. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. ARTS. 489 E 1.022 DO CÓDIGO DE PROCESSO CIVIL. AUSÊNCIA.
+1. Não viola os arts. 489 e 1.022 do Código de Processo Civil nem importa deficiência na prestação jurisdicional o acórdão que adota, para a resolução da causa, fundamentação suficiente, porém diversa da pretendida pelo recorrente, para decidir de modo integral a controvérsia posta.
+2. Agravo conhecido para negar provimento ao recurso especial.
+RELATÓRIO
+Trata-se de agravo interposto por CONSTRUÇÕES E EMPREENDIMENTOS SANTA FÉ LTDA. contra a decisão que inadmitiu seu recurso especial.
+O apelo extremo, interposto com base no art. 105, III, alínea "a", da Constituição Federal, insurge-se contra decisão do Tribunal de Justiça do Distrito Federal e dos Territórios assim ementado:
+"APELAÇÃO CÍVEL. CIVIL. AÇÃO RENOVATÓRIA. LOCAÇÃO COMERCIAL. PRELIMINAR. CERCEAMENTO DE DEFESA. INOCORRÊNCIA. MATÉRIA DE MÉRITO. LAUDO PERICIAL. VALIDADE. MANUTENÇÃO DO VALOR. SUCUMBÊNCIA MÍNIMA. ÔNUS INTEGRAL DA RÉ. HONORÁRIOS SUCUMBENCIAIS. BASE DE CÁLCULO. PROVEITO ECONÔMICO. DIFERENÇA ENTRE ALUGUEL PAGO E VALOR ARBITRADO. SENTENÇA MODIFICADA.
+1. A impugnação ao laudo pericial por inconsistências quanto ao valor do metro quadrado praticado é matéria afeta ao mérito do recurso, não se tratando de preliminar de cerceamento de defesa, conforme alegado pela Autora.
+2. Comprovado que o laudo pericial observa os requisitos legais e que o valor do aluguel mínimo encontrado está devidamente fundamentado e é condizente com a realidade do mercado, ele deve ser mantido.
+3. Verificado que a sucumbência da Autora foi mínima, deve ser mantido o ônus sucumbencial integralmente a cargo da Ré.
+4. Os honorários advocatícios na ação renovatória de aluguel devem ser fixados com base no proveito econômico obtido, calculado sobre a diferença entre o valor que a Autora estava pagando e o arbitrado em sentença, multiplicado por 12 (doze).
+5. Apelação conhecida e parcialmente provida. Preliminar rejeitada." (e-STJ fls. 874/875)
+Os embargos de declaração opostos foram rejeitados (e-STJ fls. 932/947).
+As razões do recurso especial apontam a violação dos arts. 489, § 1º, IV, e 1.022, II, do Código de Processo Civil.
+A agravante afirma que houve negativa de prestação jurisdicional por ter o Tribunal de origem deixado de decidir questões essenciais ao deslinde do feito, quais sejam: (i) o fato de o laudo de avaliação ter apontado valor do metro quadrado muito aquém do valor real, e (ii) a fixação dos honorários sucumbenciais, que afastou a aplicação do princípio da causalidade.
+Após a apresentação das contrarrazões (e-STJ fls. 974/981), o recurso foi inadmitido, dando ensejo à interposição do presente agravo.
+É o relatório.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. PROCESSO CIVIL. AÇÃO RENOVATÓRIA. LOCAÇÃO COMERCIAL. LAUDO PERICIAL. VALIDADE. SUCUMBÊNCIA. FIXAÇÃO. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. ARTS. 489 E 1.022 DO CÓDIGO DE PROCESSO CIVIL. AUSÊNCIA.
+1. Não viola os arts. 489 e 1.022 do Código de Processo Civil nem importa deficiência na prestação jurisdicional o acórdão que adota, para a resolução da causa, fundamentação suficiente, porém diversa da pretendida pelo recorrente, para decidir de modo integral a controvérsia posta.
+2. Agravo conhecido para negar provimento ao recurso especial.
+VOTO
+Ultrapassados os requisitos de admissibilidade do agravo, passa-se ao exame do recurso especial.
+A irresignação não merece prosperar.
+No tocante à negativa de prestação jurisdicional, verifica-se que o Tribunal de origem motivou adequadamente sua decisão, solucionando a controvérsia com a aplicação do direito que entendeu cabível à hipótese.
+No caso, o Tribunal de Justiça manifestou-se expressamente acerca das omissões apontadas, decidindo expressamente quanto à questão do laudo pericial e à fixação da sucumbência, conforme se verifica dos seguintes trechos do acórdão proferido nos embargos de declaração:
+"(..)
+No v. acórdão, ficou expresso que o art. 473 do CPC/15 dispõe que o laudo pericial deverá conter (I) a exposição do objeto da perícia; (II) a análise técnica ou científica realizada pelo perito; (III) a indicação do método utilizado, esclarecendo-o e demonstrando ser predominantemente aceito pelos especialistas da área do conhecimento da qual se originou; bem como (IV) a resposta conclusiva a todos os quesitos apresentados pelo juiz, pelas partes e pelo órgão do Ministério Público.
+Também consta que o expert, ao produzir o laudo ora impugnado, indicou expressamente que "utilizou-se o Método Comparativo Direto de Dados de Mercado, que permite a determinação do valor levando-se em consideração as diversas características e comportamentos do Mercado Imobiliário regional. Neste método, a determinação do valor do imóvel avaliando resulta da comparação deste com amostra de natureza e características intrínsecas e extrínsecas diversas, a partir de dados pesquisados no próprio mercado. Os atributos dos dados obtidos são trabalhados por meio de técnicas de inferência estatística, valendo-se de modelo matemático de regressão linear" (ID 71326303 - pág. 49).
+E, ainda, que "O período de pesquisa de dados de mercado se deu entre 21/06/2024 e 28/07/2024, junto aos bancos de dados de profissionais atuantes da área de engenharia de avaliações, corretoras e sites de vendas de imóveis, totalizando 45 (quarenta e cinco) elementos informativos de ofertas. Baseou-se em lojas de porte e características similares ofertadas para locação, com espaço similar, frente à via, dentro das áreas de influências das estações, localizada em locais de alto tráfego de pessoas."
+Apontou-se, assim, que o laudo pericial observa os requisitos legais, concluindo-se pela validade dele.
+Em seguida, concluiu-se que a sucumbência da Autora foi mínima, pois equivalente a pouco mais de R$ 400,00 (quatrocentos reais), e, portanto, deveria ser mantido o ônus sucumbencial integralmente a cargo da Ré. É o que autoriza o art. 86, parágrafo único, do CPC/15.
+Acrescentou-se, por fim, em prol da Embargante, com a reforma da sentença nesse ponto, que o proveito econômico obtido deve ser calculado sobre a diferença entre o valor que a Autora estava pagando - R$ 21.013,51 (vinte e um mil treze reais e cinquenta e um centavos) e o arbitrado em sentença - R$ 18.400,00 (dezoito mil e quatrocentos reais), isto é, R$ 2.613,51 (dois mil seiscentos e treze reais e cinquenta e um centavos). Ao ser multiplicado por 12, alcança-se o montante de R$ 31.362,12 (trinta e um mil trezentos e sessenta e dois reais e doze centavos), que será a base de incidência dos 10% (dez por cento) arbitrados, resultando em honorários no valor de R$ 3.136,12 (três mil cento e trinta e seis reais e doze centavos)." (e-STJ fls. 936/937)
+Não há falar, portanto, em existência de omissão apenas pelo fato de o julgado recorrido ter decidido em sentido contrário à pretensão da parte.
+A esse respeito, os seguintes precedentes:
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PLANO DE SAÚDE. NEGATIVA DE CUSTEIO DE MEDICAMENTO (THIOTEPA). 1. NEGATIVA DE PRESTAÇÃO JURISDICIONAL NÃO CONFIGURADA. 2. FUNDAMENTO SUFICIENTE NÃO ATACADO. SÚMULA 283/STF. 3. ACÓRDÃO EM CONSONÂNCIA COM A JURISPRUDÊNCIA DESTA CORTE SUPERIOR. SÚMULA 83/STJ. 4. AUSÊNCIA DE PREQUESTIONAMENTO. INCIDÊNCIA DAS SÚMULAS 282/STF E 211/STJ. 5. AGRAVO INTERNO DESPROVIDO.
+1. Não ficou configurada a violação ao art. 1.022 do CPC/2015, uma vez que o Tribunal de origem se manifestou, de forma fundamentada, sobre todas as questões necessárias para o deslinde da controvérsia. O mero inconformismo da parte com o julgamento contrário à sua pretensão não caracteriza falta de prestação jurisdicional.
+2. O acórdão recorrido encontra-se em perfeita harmonia com a jurisprudência desta Corte no sentido de que, "embora se trate de fármaco importado ainda não registrado pela ANVISA, teve a sua importação excepcionalmente autorizada pela referida Agência Nacional, sendo, pois, de cobertura obrigatória pela operadora de plano de saúde" (REsp 1.923.107/SP, relatora ministra Nancy Andrighi, Terceira Turma, julgado em 10/8/2021, DJe 16/8/2021).
+3. Atentando-se aos argumentos trazidos pela recorrente e aos fundamentos adotados pela Corte estadual de que a ANVISA admite a importação do fármaco, verifica-se que estes não foram objeto de impugnação nas razões do recurso especial, e a subsistência de argumento que, por si só, mantém o acórdão recorrido torna inviável o conhecimento do apelo especial, atraindo a aplicação do enunciado n. 283 da Súmula do Supremo Tribunal Federal.
+4. A ausência de debate acerca do conteúdo normativo dos arts. 66 da Lei n. 6.360/1976 e 10, V, da Lei n. 6.437/1976, apesar da oposição de embargos de declaração, atrai os óbices das Súmulas 282/STF e 211/STJ.
+5. Agravo interno a que se nega provimento."
+(AgInt no AREsp 2.164.998/RJ, Relator Ministro MARCO AURÉLIO BELLIZZE, Terceira Turma, julgado em 13/2/2023, DJe de 16/2/2023 - grifou-se)
+"AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL - AÇÃO DE REGRESSO - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO. INSURGÊNCIA RECURSAL DOS DEMANDADOS.
+1. Não há se falar em negativa de prestação jurisdicional, na medida em que o órgão julgador dirimiu todas as questões que lhe foram postas à apreciação, de forma clara e sem omissões, embora não tenha acolhido a pretensão da parte.
+2. Rever a conclusão do Tribunal de origem com relação à responsabilidade pelo ressarcimento dos valores pagos em reclamação trabalhista demandaria o reexame do conjunto fático-probatório dos autos e a interpretação de cláusulas contratuais, providencias que encontram óbice no disposto nas Súmulas 5 e 7 do STJ. Precedentes.
+3. Agravo interno desprovido."
+(AgInt nos EDcl no AREsp 2.135.800/SP, Relator Ministro MARCO BUZZI, Quarta Turma, julgado em 13/2/2023, DJe de 16/2/2023 - grifou-se)
+Registra-se que, mesmo à luz do art. 489 do CPC, o órgão julgador não estaria obrigado a se pronunciar acerca de nenhum ponto suscitado pelas partes, mas apenas a respeito daqueles capazes de, em tese, de algum modo, infirmar a conclusão adotada pelo órgão julgador (inciso IV).
+A motivação contrária ao interesse da parte, ou mesmo omissa em relação a pontos considerados irrelevantes pelo julgador, não autoriza o acolhimento dos embargos declaratórios.
+Ante o exposto, conheço do agravo para negar provimento ao recurso especial.
+Na origem, os honorários sucumbenciais foram fixados em 10% (dez por cento) sobre o proveito econômico (diferença do duodécuplo entre o valor de locação pretendido pela recorrente - R$ 30.210,57 - e o concedido - R$ 18.400,00 -, ou seja, R$ 141.726,84 - e-STJ fl. 805), os quais devem ser majorados para o patamar de 15% (quinze por cento) em favor do advogado da parte recorrida, nos termos do art. 85, § 11, do Código de Processo Civil, observado o benefício da gratuidade da justiça.
+É o voto.
