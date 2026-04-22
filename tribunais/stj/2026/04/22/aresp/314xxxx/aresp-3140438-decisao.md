@@ -1,0 +1,33 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por JAIR HENRIQUE DA SILVA e LÍDIA DA SILVA NOVAIS contra decisão da Segunda Vice-Presidência do TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO DE JANEIRO que inadmitiu o recurso especial, com fundamento na Súmula 83 do Superior Tribunal de Justiça (fls. 152-158).
+Consta dos autos que os agravantes foram denunciados, inicialmente, pela prática do crime de roubo majorado, sendo, ao final, desclassificada a conduta para furto qualificado, em relação a ambos, e lesão corporal tentada, apenas quanto ao corréu Jair, com condenação às penas mínimas, substituídas por restritivas de direitos.
+Interposta apelação defensiva, o Tribunal de origem negou provimento ao recurso, afastando a aplicação do princípio da insignificância, reconhecendo a consumação do delito e mantendo a condenação, bem como rejeitando o reconhecimento da participação de menor importância da corré Lídia (fls. 31-46).
+Opostos embargos de declaração, foram parcialmente providos para reconhecer a forma privilegiada do furto (art. 155, § 2º, do Código Penal), com redução das penas, mantidos os demais termos do acórdão (fls. 99-104).
+Nas razões do recurso especial, a defesa sustentou violação aos arts. 155 do Código Penal, 28-A, 386, III, e 619 do Código de Processo Penal, pleiteando a absolvição dos recorrentes com base no princípio da insignificância e, subsidiariamente, a aplicação do Acordo de Não Persecução Penal (ANPP) em favor da corré Lídia (fls. 115-127).
+Apresentadas contrarrazões, o recurso especial foi inadmitido, sob o fundamento de que o acórdão recorrido encontra-se em consonância com a jurisprudência desta Corte Superior, atraindo a incidência da Súmula 83/STJ (fls. 152-158).
+Irresignada, a defesa interpôs o presente agravo, no qual sustenta a inaplicabilidade do referido óbice e reitera as teses recursais (fls. 171-182).
+O Ministério Público Federal manifestou-se pelo não conhecimento do agravo, ante a incidência da Súmula 182/STJ, e pela concessão de habeas corpus, de ofício, para determinar o retorno dos autos à origem a fim de que seja analisada a possibilidade de oferecimento de ANPP em favor da corré Lídia (fls. 488-499).
+É o relatório. DECIDO.
+O agravo não comporta conhecimento.
+Com efeito, a decisão agravada inadmitiu o recurso especial com fundamento na incidência da Súmula 83 do Superior Tribunal de Justiça.
+Todavia, a parte agravante não infirmou, de forma específica e suficiente, tal fundamento.
+Isso porque, embora sustente a inaplicabilidade do referido óbice, limita-se a colacionar precedentes que, em sua maioria, não demonstram a existência de divergência atual e específica apta a afastar a conclusão adotada pelo Tribunal de origem, que se encontra alinhada à jurisprudência desta Corte Superior quanto à inaplicabilidade do princípio da insignificância em hipóteses de furto qualificado envolvendo valor da res furtiva superior ao parâmetro usualmente adotado.
+De igual modo, no que se refere à aplicação do art. 28-A do Código de Processo Penal, a defesa não logrou demonstrar, de forma concreta, a superação do entendimento adotado na decisão agravada, que reconheceu a preclusão da matéria.
+Assim, a ausência de impugnação específica e eficaz aos fundamentos da decisão agravada atrai a incidência da Súmula 182/STJ.
+No mesmo sentido, o Ministério Público Federal opinou pelo não conhecimento do agravo.
+Não obstante o não conhecimento do agravo, verifica-se a existência de flagrante ilegalidade a ensejar a concessão de habeas corpus, de ofício, em favor da corré LÍDIA DA SILVA NOVAIS.
+No caso, observa-se que os agravantes foram inicialmente denunciados por crime mais grave (roubo majorado), tendo havido posterior desclassificação para furto qualificado, cuja pena mínima é inferior a 4 anos.
+Consta, ainda, que a defesa requereu expressamente a análise da possibilidade de celebração de Acordo de Não Persecução Penal quando da apresentação das alegações finais, após a modificação da imputação, oportunidade em que passou a ser viável, em tese, a incidência do instituto.
+Nessa linha, a jurisprudência desta Corte Superior firmou-se no sentido de que o reconhecimento de excesso de acusação ou a desclassificação da conduta pode ensejar a abertura de nova oportunidade para análise da viabilidade do ANPP, não podendo eventual omissão ministerial impedir o acesso do acusado ao benefício legal, desde que presentes os requisitos do art. 28-A do Código de Processo Penal.
+Assim, considerando que a imputação foi desclassificada para delito compatível com o acordo, houve requerimento defensivo em momento oportuno e não houve análise efetiva da matéria pelo Ministério Público estadual, mostra-se necessário o retorno dos autos à origem para que seja examinada a possibilidade de oferecimento do ANPP.
+Neste sentido:
+"(..) 5. Contudo, reconheceu-se que a pena fixada após a aplicação da minorante do tráfico privilegiado é inferior a 4 anos, hipótese que viabiliza o oferecimento de ANPP, nos termos do art. 28-A do CPP. A negativa do Ministério Público de iniciar tratativas para o ANPP, baseada na pena abstrata do tipo penal imputado originalmente, não pode prevalecer diante da desclassificação posterior que reduziu a reprimenda a patamar compatível com o acordo.
+6. O STJ tem entendimento consolidado no sentido de que o excesso de acusação não deve impedir o direito do acusado à análise da proposta de ANPP, devendo os autos retornar à origem para essa finalidade. Promovida a desclassificação da imputação de tráfico para tráfico privilegiado, o acusado primário e que não integra organização criminosa tem direito ao acordo de não persecução penal, observados os demais requisitos legais."
+(STJ - AgRg no AREsp 2845618 / MG - 5a turma - rel. Ministro Carlos Cini Marchionatti - j. 12.08.2025 - DJEN 18.08.2025)
+Ressalte-se que tal providência não implica imposição do acordo, mas tão somente a submissão da questão ao órgão ministerial competente, em observância ao princípio do promotor natural.
+Ante o exposto:
+(i) não conheço do agravo em recurso especial, com fundamento na Súmula 182/STJ;
+(ii) concedo habeas corpus, de ofício, em favor apenas de LÍDIA DA SILVA NOVAIS, para determinar o retorno dos autos ao Juízo de primeiro grau, a fim de que o Ministério Público do Estado do Rio de Janeiro seja intimado a se manifestar acerca da possibilidade de oferecimento de Acordo de Não Persecução Penal, nos termos do art. 28-A do Código de Processo Penal.
+O feito deverá ser desmembrado , caso necessário ao prosseguimento de eventual recurso futuramente ajuizado por apenas um dos recorrentes.
+Publique-se. Intimem-se.
+EMENTA
