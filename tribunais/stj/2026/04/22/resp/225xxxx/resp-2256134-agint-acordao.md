@@ -1,0 +1,38 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 14/04/2026 a 22/04/2026, por unanimidade, não conhecer do recurso, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Humberto Martins, Ricardo Villas Bôas Cueva, Moura Ribeiro e Daniela Teixeira votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento a Sra. Ministra Daniela Teixeira.
+EMENTA
+AGRAVO INTERNO NO RECURSO ESPECIAL. INÉPCIA. MANIFESTA INADMISSIBILIDADE. MULTA.
+1. Ação revisional de contrato bancário.
+2. É manifestamente inadmissível o agravo interno que não impugna, especificamente, os fundamentos da decisão agravada.
+3. Agravo interno não conhecido.
+RELATÓRIO
+Relatora: MINISTRA NANCY ANDRIGHI
+Examina-se agravo interno interposto por MARCIA REGINA MATHEUS MANFORTE BARBOSA contra decisão que conheceu parcialmente do recurso especial que interpusera e, nesta extensão, negou-lhe provimento.
+Ação: revisional de contrato bancário, ajuizada pela agravante, em desfavor de BANCO BNP PARIBAS BRASIL S.A.
+Sentença: julgou extinto o processo, sem resolução do mérito, indeferindo a petição inicial.
+Acórdão: deu parcial provimento à apelação interposta pela agravante, apenas para afastar a condenação de seu advogado ao pagamento das custas, despesas e multas processuais, nos termos da seguinte ementa:
+AÇÃO REVISIONAL DE CONTRATO BANCÁRIO. SENTENÇA DE EXTINÇÃO. APELAÇÃO DA AUTORA PARCIALMENTE PROVIDA.
+AÇÃO REVISIONAL. INDEFERIMENTO DA PETIÇÃO INICIAL. AUSÊNCIA DE REQUISITOS. EXTINÇÃO MANTIDA. Ação revisional de contrato bancário. Indeferimento da inicial. Recurso do autor. Primeiro, mantém- se o indeferimento da gratuidade da justiça. Intimada a apresentar documentos a corroborar a alegada situação, a autora não o fez. Ausência desses elementos que dificulta a análise de forma global da hipossuficiência financeira suscitada. Importante observar que a parte pode possuir outras fontes de rendimentos ou reservas financeiras que sirvam de complementação. Apelante que não buscou os serviços da defensoria pública e está representada por advogado particular, em 9 ações distribuídas em curto espaço de tempo. E segundo, mantém-se o indeferimento da petição inicial. A critério do juiz, de ofício, antes de impugnação da parte contrária, pode exigir comprovação da validade da procuração, notadamente em situações com veementes indícios de "litigância predatória" ou "litigância abusiva". É do interesse público, configurando pressuposto processual - requisito de validade do processo. Procuração apresentada que é genérica e não atende ao comando judicial. Adequada determinação para apresentação de nova procuração específica. Caso que se revelou peculiar, enquadrando-se em muitas das características dispostas no Comunicado CG nº 02/2017. Patrono que ajuizou em nome da autora 9 demandas em curto espaço de tempo, inclusive com indevida fragmentação.
+CONDENAÇÃO DO ADVOGADO DO AUTOR EM CUSTAS E DESPESAS PROCESSUAIS. DESCABIMENTO. Ausência de verificação de atuação dolosa do patrono a ensejar responsabilização por despesas. Condenação afastada.
+LITIGÂNCIA DE MÁ-FÉ. RECONHECIMENTO EM FACE DA AUTORA. EXPEDIENTE USADO PELA PARTE AUTORA DE FRAGMENTAÇÃO DO LITÍGIO. OPÇÃO DE MULTIPLICAÇÃO DE DEMANDAS PARA AMPLIAR PRETENSÃO DE REPARAÇÃO DE DANOS MORAIS. PRÁTICA DE LITIGÂNCIA DENOMINADA "PREDATÓRIA" OU "ABUSIVA". Reconhecimento de litigância predatória. Parte que promoveu desnecessariamente 2 (duas) ações diferentes contra o mesmo banco réu, em um total de NOVE ações. Num expediente de fragmentação proposital de demandas, promoveu uma "litigância predatória" (ou abusiva), sempre com o objetivo único de multiplicação de honorários advocatícios. Reconhecimento de litigância de má-fé com imposição de multa, no importe de 5% sobre o valor atualizado da causa. Determinação para expedição de ofício à OAB/SP para averiguação da conduta do advogado da autora. Ação julgada extinta, sem resolução do mérito, com imposição de multa processual à autora.
+SENTENÇA REFORMADA. RECURSO PARCIALMENTE PROVIDO, COM DETERMINAÇÃO (e-STJ fls. 121-122).
+Embargos de declaração: opostos pela agravante, foram rejeitados.
+Recurso especial: aponta violação dos arts. 5º, § 1º e § 2º, e 32 da Lei 8.906/94; 98, 99, § 2º e § 3º, 104, § 2º, 105, § 1º, e 425, IV, 489, § 1º, I, do CPC; e 2º e 4º da Lei 1.060/50, bem como dissídio jurisprudencial. Além de negativa de prestação jurisdicional, alega que o advogado não pode ser responsabilizado pelo pagamento de custas, despesas e sanções processuais. Sustenta que a lei não estabelece a obrigatoriedade de reconhecimento de firma em procurações e, por esta razão, o advogado não está vinculado a esta exigência. Aduz que são declarados autênticos quaisquer documentos apresentados por advogado, uma vez que gozam de fé pública. Assevera a necessidade de concessão dos benefícios da assistência judiciária gratuita na espécie. Por fim, defenda a validade da assinatura digital em processo judicial.
+Decisão unipessoal: conheceu parcialmente do recurso especial interposto pela ora agravante e, nesta extensão, negou-lhe provimento, ante: (i) a fundamentação deficiente no que tange à alegada violação do art. 489, § 1º, I, do CPC; (ii) a ausência de prequestionamento dos arts. 5º, § 1º e § 2º, e 32 da Lei 8.906/94; 99, § 3º, 104, § 2º, 105, § 1º, e 425, IV, do CPC; e 2º e 4º da Lei 1.060/50 (Súmula 211/STJ); (iii) a incidência da Súmula 568/STJ no que tange à determinação de emenda da petição inicial; e (iv) a incidência da Súmula 7/STJ.
+Agravo interno: afirma a agravante que a decisão agravada não se manifestou sobre a alegada violação dos arts. 98 e 99, § 2º e § 3º, do CPC. Aduz que o dissídio jurisprudencial foi devidamente demonstrado e que houve enfrentamento à aplicação da Súmula 7/STJ.
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO RECURSO ESPECIAL. INÉPCIA. MANIFESTA INADMISSIBILIDADE. MULTA.
+1. Ação revisional de contrato bancário.
+2. É manifestamente inadmissível o agravo interno que não impugna, especificamente, os fundamentos da decisão agravada.
+3. Agravo interno não conhecido.
+VOTO
+Relatora: MINISTRA NANCY ANDRIGHI
+1. A decisão agravada conheceu parcialmente do recurso especial interposto pela ora agravante e, nesta extensão, negou-lhe provimento, ante: (i) a fundamentação deficiente no que tange à alegada violação do art. 489, § 1º, I, do CPC; (ii) a ausência de prequestionamento dos arts. 5º, § 1º e § 2º, e 32 da Lei 8.906/94; 99, § 3º, 104, § 2º, 105, § 1º, e 425, IV, do CPC; e 2º e 4º da Lei 1.060/50 (Súmula 211/STJ); (iii) a incidência da Súmula 568/STJ no que tange à determinação de emenda da petição inicial; e (iv) a incidência da Súmula 7/STJ.
+2. Pela análise das razões recursais apresentadas, verifica-se que a agravante não trouxe qualquer argumento apto a ilidir os fundamentos da decisão agravada.
+3. Isso porque não impugna, consistentemente, os fundamentos da decisão ora agravada relativos à: i) fundamentação deficiente no que tange à alegada violação do art. 489, § 1º, I, do CPC; (ii) ausência de prequestionamento dos arts. 5º, § 1º e § 2º, e 32 da Lei 8.906/94; 99, § 3º, 104, § 2º, 105, § 1º, e 425, IV, do CPC; e 2º e 4º da Lei 1.060/50 (Súmula 211/STJ); (iii) incidência da Súmula 568/STJ no que tange à determinação de emenda da petição inicial; e (iv) incidência da Súmula 7/STJ.
+4. Consoante entendimento pacífico desta Corte, não merece conhecimento o agravo interno que não impugna, especificamente, todos os fundamentos da decisão agravada, a teor do disposto na Súmula 182 do STJ.
+DISPOSITIVO
+Forte nessas razões, NÃO CONHEÇO do presente agravo interno.
