@@ -1,0 +1,96 @@
+DECISÃO
+Trata-se de Agravo em Recurso Especial (e-STJ fls. 833-839) interposto contra decisão que inadmitiu recurso especial (e-STJ fls. 821-829).
+O agravo em recurso especial tem por contexto o acórdão exarado pelo Tribunal de Justiça do Estado do Ceará que, rejeitando recurso de apelação interposto pelo ora agravante, manteve a sentença que julgou improcedente o pedido do recorrente de recebimento de seguro de vida ante a ausência de provas de que seria o recorrente beneficiário da apólice (e-STJ fls. 713-719). O entendimento foi confirmado em embargos de declaração (e-STJ fls. 768-774).
+Inconformado, o recorrente interpôs recurso especial com base nas alíneas "a" e "c" do permissivo constitucional, sustentando violação aos artigos 373, inciso I, e 792, do Código Civil, e aos artigos 4º, inciso VIII, e 47, estes do Código de Defesa do Consumidor; além disso, aduz a existência de dissídio jurisprudencial (e-STJ fls. 726-737).
+O juízo de admissibilidade, contudo, negou seguimento ao recurso especial apontando a incidência das súmulas 7 e 211 do STJ (e-STJ fls. 821-829).
+Diante da decisão de inadmissão do recurso especial, a recorrente manejou agravo ao recurso especial (e-STJ fls. 833-839).
+Intimada nos termos do art. 1.042, § 3º, do Código de Processo Civil, a parte agravada apresentou contrarrazões em que pugna pela rejeição do recurso (e-STJ fls. 873-883 e fls. 885-886).
+É o relatório.
+DECIDO
+O agravo é tempestivo, nos termos do artigo 1.003, § 5º, do Código de Processo Civil.
+A análise dos argumentos recursais não indica, contudo, a existência de fundamentos que sustentem a reforma da decisão recorrida, que inadmitiu recurso especial contra acórdão assim ementado (e-STJ fls. 713-719):
+DIREITO CIVIL. APELAÇÃO CÍVEL. AÇÃO DE COBRANÇA DE SEGURO DE VIDA. AUSÊNCIA DE INDICAÇÃO DE BENEFICIÁRIO NA APÓLICE. INTERPRETAÇÃO DO CONTRATO À LUZ DO CDC. APLICAÇÃO DO ART. 792 DO CC. RECURSO DESPROVIDO.
+I. CASO EM EXAME
+1. Apelação Cível interposta por herdeiro do segurado, inconformado com sentença da 21ª Vara Cível da Comarca de Fortaleza que julgou improcedente a Ação de Cobrança ajuizada contra a Caixa Vida e Previdência S/A, visando o recebimento da cobertura securitária contratada pelo falecido. A sentença fundamentou-se na ausência de comprovação da condição de beneficiário exclusivo pelo autor e na inexistência de cláusula contratual que o indicasse como tal.
+II. QUESTÃO EM DISCUSSÃO
+2. Há duas questões em discussão: (i) definir se o autor/apelante comprova sua condição de beneficiário da apólice de seguro de vida contratada pelo seu genitor; (ii) estabelecer se a ausência de designação expressa de beneficiário autoriza o pagamento proporcional da indenização securitária aos herdeiros, conforme a ordem de vocação hereditária prevista no art. 792 do Código Civil.
+III. RAZÕES DE DECIDIR
+3. O contrato de seguro, sendo relação de consumo, deve ser interpretado segundo os princípios do Código de Defesa do Consumidor, especialmente a favor do aderente, conforme os arts. 6º, VIII, e 47 da Lei 8.078/90.
+4. A apólice apresentada não indica expressamente beneficiário, o que atrai a incidência do art. 792 do Código Civil, segundo o qual o capital segurado deve ser distribuído por metade ao cônjuge não separado judicialmente e o restante entre os herdeiros legítimos, conforme a ordem sucessória.
+5. A cláusula contratual em análise reitera o conteúdo do art. 792 do CC, afirmando que, na ausência de beneficiários indicados, o valor será destinado aos sucessores legítimos.
+6. O apelante não comprovou ser o único beneficiário, tampouco apresentou autorização dos demais herdeiros para pleitear isoladamente a indenização securitária, não se desincumbindo do ônus previsto no art. 373, I, do CPC.
+7. A jurisprudência do STJ e deste TJCE é pacífica no sentido de que a ausência de indicação de beneficiário afasta a possibilidade de pagamento exclusivo a um dos herdeiros, exigindo a observância da partilha nos moldes do art. 792 do CC.
+IV. DISPOSITIVO E TESE
+8. Recurso desprovido.
+Tese de julgamento:
+1. A ausência de indicação de beneficiário na apólice de seguro de vida impõe a aplicação do art. 792 do Código Civil, com divisão do capital segurado entre cônjuge e herdeiros conforme a ordem sucessória.
+2. Não comprovada a condição de beneficiário exclusivo, não faz jus o herdeiro à totalidade da indenização securitária.
+3. O ônus da prova quanto à condição de beneficiário incumbe à parte autora, nos termos do art. 373, I, do CPC.
+No presente agravo, o agravante reitera os argumentos lançados no recurso especial e afirma, em suma, que estão presentes os requisitos para o conhecimento e provimento de seu recurso.
+O exame do recurso, contudo, aponta em sentido contrário.
+Isto porque a pretensão recursal exposta pela agravante indisfarçadamente esbarra na 7/STJ, pois a revisão da conclusão alcançada pelo Tribunal de Justiça de origem demandará, necessariamente, o reexame do contexto fático-probatório da lide, procedimento incompatível com o entendimento firmado pela Súmula nº 7 deste Superior Tribunal de Justiça, que estabelece que: "A pretensão de simples reexame de prova não enseja recurso especial."
+De fato, presente a função uniformizadora do Recurso Especial, não se pode cogitar de seu emprego para a realização de rejulgamento do contexto fático-probatório, em atitude típica de revisão promovida por nova instância.
+Diante disso, é reiterada a jurisprudência desta Corte que assenta que "o reexame de fatos e provas (é) vedado em recurso especial pela Súmula nº 7 do STJ."(AgInt no REsp n. 2.151.760/SC, relator Ministro Humberto Martins, Terceira Turma, julgado em 9/12/2024, DJEN de 12/12/2024.)
+No mesmo sentido:
+PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE RESCISÃO CONTRATUAL CUMULADA COM RESTITUIÇÃO DE VALORES E INDENIZAÇÃO POR DANOS MORAIS E MATERIAIS. REEXAME DE FATOS E PROVAS. INADMISSIBILIDADE. SÚMULA 7 DO STJ. RESTITUIÇÃO DE QUANTIA PAGA. CONTRATO DE COMPRA E VENDA DE IMÓVEL. RESOLUÇÃO POR CULPA DA CONSTRUTORA/VENDEDORA. DEVOLUÇÃO DA COMISSÃO DE CORRETAGEM. PRESCRIÇÃO. PRAZO TRIENAL. INAPLICABILIDADE. VIOLAÇÃO DO ART. 489 DO CPC. INOCORRÊNCIA.
+1. Ação de rescisão contratual cumulada com restituição de valores e indenização por danos morais e materiais.
+2. Alterar o decidido no acórdão impugnado no que se refere às teses atinentes à alegada ilegitimidade passiva dos recorrentes no tocante à relação jurídica havida entre as partes e à delimitação de suposta responsabilidade, envolve o reexame de fatos e provas, o que é vedado em recurso especial pela Súmula 7/STJ.
+(..)
+(AgInt nos EDcl no AREsp n. 2.627.058/MG, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 11/11/2024, DJe de 13/11/2024.)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE PRODUÇÃO ANTECIPADA DE PROVAS. AUSÊNCIA DE IMPUGNAÇÃO AOS FUNDAMENTOS DO ACÓRDÃO RECORRIDO. APLICAÇÃO DA SÚMULA N.º 283 DO STF, POR ANALOGIA. CERCEAMENTO DE DEFESA. NÃO CONFIGURAÇÃO. REFORMA DO JULGADO. ANÁLISE DE MATÉRIA FÁTICO-PROBATÓRIA. NÃO CABIMENTO. INCIDÊNCIA DA SÚMULA Nº 7 DO STJ. TEMA NÃO DEBATIDO PELAS INSTÂNCIAS ORDINÁRIAS. APLICAÇÃO DA SÚMULA N.º 282 DO STF. PREQUESTIONAENTO. MATÉRIA DE ORDEM PÚBLICA. NECESSIDADE. AGRAVO INTERNO NÃO PROVIDO.
+1. A falta de impugnação a fundamento suficiente para manter o acórdão recorrido acarreta o não conhecimento do recurso.
+Inteligência da Súmula n.º 283 do STF, aplicável, por analogia, ao recurso especial.
+2. A alteração das conclusões do acórdão recorrido exige reapreciação do acervo fático-probatório da demanda, o que faz incidir o óbice da Súmula n.º 7 do STJ.
+(..)
+(AgInt no AREsp n. 2.662.287/SP, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 28/10/2024, DJe de 30/10/2024.)
+Não se quer dizer, contudo, que o debate do quadro fático não possa ser revisado nesta instância especial. Ao revés, é também pacífico o entendimento de que: "a revaloração jurídica de fatos e provas incontroversos delineados no acórdão impugnado afasta a aplicação da Súmula nº 7 do STJ na espécie." (AgInt no AREsp n. 1.742.678/MT, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 8/6/2021, DJe de 11/6/2021.)
+Cuida-se, contudo, de ônus imputado à parte recorrente, que não pode se limitar a afirmar que sua pretensão demanda apenas o reenquadramento fático à moldura legal pretendida, devendo, isto sim, evidenciar, objetivamente, que a análise fática estabilizada melhor se enquadra em outra forma jurídica.
+Daí porque este colegiado também tem afirmado, reiteradamente, que "No tocante às Súmulas nºs 5 e 7/STJ, não basta a parte sustentar genericamente a não aplicação dos óbices, sem explicitar, à luz do contexto fático delineado no acórdão e da tese recursal trazida no recurso especial, de que maneira a análise não dependeria do reexame fático-probatório ou da análise das cláusulas contratuais." (AgInt no AREsp n. 2.250.305/DF, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 2/10/2023, DJe de 6/10/2023.)
+No mesmo sentido:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. AÇÃO DE RESCISÃO DE CONTRATO DE PROMESSA DE COMPRA E VENDA DE IMÓVEL. INDENIZAÇÃO. DANOS MATERIAIS. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA A TODOS OS FUNDAMENTOS DA DECISÃO DENEGATÓRIA DE ADMISSIBILIDADE DE RECURSO ESPECIAL. DESCUMPRIMENTO DOS REQUISITOS PRECONIZADOS PELO ART. 932, III, DO NCPC (ART. 544, § 4º, I, DO CPC/73). AGRAVO INTERNO NÃO PROVIDO.
+1. Aplica-se o NCPC a este julgamento ante os termos do Enunciado Administrativo n.º 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016)
+serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+2. Não se mostra viável o agravo em recurso especial que, apresentado em desacordo com os requisitos preconizados pelo art. 932, III, do NCPC (544, § 4º, I, do CPC/73), não impugna os fundamentos da respectiva inadmissibilidade (incidência das Súmulas n.ºs 5 e 7 do STJ e 284 do STF).
+3. Não basta para considerar "especificamente impugnados" os fundamentos da decisão recorrida a mera transcrição de súmulas ou reprodução de dispositivos legais violados. Necessário, além das indicações expressas e claras, a sua vinculação aos fatos tal como analisados pelo acórdão ou decisão para então, mediante enfrentamento dialético desse conjunto de permissivos constitucionais em face do exame soberano do material de cognição pela Corte estadual, se chegar ao almejado entendimento de que a classificação jurídica concluída não espelha o melhor direito ao caso.
+4. Agravo interno não provido.
+(AgInt no AREsp n. 1.925.017/SC, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 5/9/2022, DJe de 8/9/2022.)
+No caso específico dos autos, importa registrar que "a inversão do ônus da prova, nos termos do art. 6º, VIII, do Código de Defesa do Consumidor, não é automática, dependendo da constatação, pelas instâncias ordinárias, da presença ou não da verossimilhança das alegações ou da hipossuficiência do consumidor" (AgInt no AREsp 1.006.888/SP, relator Ministro Raul Araújo, Quarta Turma, julgado em 21/09/2020, DJe de 08/10/2020), sendo certo ainda que o reconhecimento da qualidade de consumidor possui por consequência o reconhecimento da vulnerabilidade da parte, conceito este que não se confunde com a hipossuficiência exigida para a inversão do ônus da prova nos termos do artigo 6º, inciso VIII, do Código de Defesa do Consumidor.
+Assim sendo, a averiguação acerca da (in)existência de verossimilhança das alegações ou de hipossuficiência do consumidor invariavelmente demandará revolver o conjunto fático-probatório, o que, também como já mencionado, não é viável em recurso especial.
+Esta Terceira Turma, sob minha relatoria, recentemente debruçou-se sobre caso análogo, restando assim ementado o acórdão:
+DIREITO PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. INVERSÃO DO ÕNUS DA PROVA. MEDIDA DISCRICIONÁRIA DO JULGADOR BASEADA NA VEROSSIMILHANÇA DAS ALEGAÇÕES. A REVISÃO DESSA DECISÃO EM RECURSO ESPECIAL É VEDADA PELA SÚMULA 7 DO STJ. RECURSO NÃO PROVIDO.
+I. Caso em exame
+1. Agravo interno interposto contra decisão que conheceu parcialmente do recurso especial e, nessa extensão, negou-lhe provimento, mantendo a inversão do ônus da prova determinada pelo juízo de primeira instância.
+II. Questão em discussão
+2. A questão em discussão consiste em saber se a inversão do ônus da prova, conforme estabelecido pelo art. 6º, VIII, do Código de Defesa do Consumidor, foi corretamente aplicada pelo juízo de primeira instância e mantida pelo tribunal de origem.
+3. A análise envolve a verificação da verossimilhança das alegações e a hipossuficiência da parte, aspectos que não podem ser revistos em recurso especial devido à Súmula 7 do STJ.
+III. Razões de decidir
+4. A inversão do ônus da prova é uma medida que fica a critério do juiz, que deve avaliar a verossimilhança das alegações e a hipossuficiência da parte, conforme a jurisprudência do STJ.
+5. A decisão de manter a inversão do ônus da prova não pode ser revista em recurso especial, pois demandaria o reexame de fatos e provas, o que é vedado pela Súmula 7 do STJ.
+6. A decisão recorrida está em consonância com a jurisprudência do STJ, o que atrai a incidência da Súmula 83 do STJ.
+IV. Dispositivo
+7. Agravo interno não provido.
+(AgInt nos EDcl no AREsp 2.665.383/PR, relatora Ministra Daniela Teixeira, Terceira Turma, julgado em 26/05/2025, DJe de 29/05/2025 - sem grifos no original.)
+De semelhante modo, no que tange à aventada violação do art. 792 do Código Civil, verifica-se que o acórdão impugnado expressamente fez constar que "o banco requerido procedeu com a juntada da respectiva apólice às fls. 90/91, não havendo a indicação dos beneficiários do seguro no referido documento, o que afasta a pretensão da presente ação, a saber, a condenação da parte promovida ao pagamento da cobertura securitária ao apelante", acrescendo ainda que "a falta de indicação dos beneficiários do seguro contratado afasta a pretensão do apelante, não lhe sendo a cobertura securitária unicamente devida, principalmente porque no próprio instrumento contratual consta disposição expressa no sentido de que "não havendo expressa indicação de beneficiário(s), ou na falta deles, serão considerados como tais os sucessores legítimos, definidos no artigo. 792, do novo Código Civil." (fl. 91)" (e-STJ fls. 713-719).
+Ora, é evidente dos trechos supra colacionados que decorreu diretamente da análise da prova dos autos o entendimento do Tribunal de origem pela aplicabilidade do art. 792 do Código Civil e, nesta senda, pela ausência de comprovação de que o agravante figurava como beneficiário do contrato de seguro.
+A modificação desta conclusão, portanto, exige reexame dos elementos de convicção constantes nos autos, o que, como já mencionado, é inviável em sede de recurso especial, como preconiza a Súmula 7/STJ.
+Por derradeiro, impende salientar que a citada incidência da Súmula 7/STJ torna inviável o exame do aventado dissídio jurisprudencial, pois, na hipótese destes autos, as supostas conclusões díspares ocorreram não em razão de entendimentos diversos sobre uma mesma questão legal, mas, sim, em razão de fundamentações baseadas em fatos, provas e circunstâncias específicas de cada processo, cuja reexame por este Superior Tribunal de Justiça é vedada pela Súmula 7. A propósito, recentes julgados deste colegiado:
+PROCESSUAL CIVIL E CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO ANULATÓRIA DE NEGÓCIO JURÍDICO, REPETIÇÃO DE INDÉBITO E COMPENSAÇÃO. QUE SE ADMITE TÃO SOMENTE NOS CASOS EM QUE O VALOR SE APRESENTAR IRRISÓRIO OU EXOS MORAIS. PEDIDO DE ALTERAÇÃO. REVISÃO QUE SE ADMITE TÃO SOMENTE NOS CASOS EM QUE O VALOR SE APRESENTAR IRRISÓRIO OU EXORBITANTE. SÚMULA 7 DO STJ. DISSÍDIO JURISPRUDENCIAL. PREJUDICADO. AÇÃO DE RESPONSABILIDADE CONTRATUAL. PRESCRIÇÃO. PRAZO DECENAL.
+1. Ação anulatória de negócio jurídico, repetição de indébito e compensação.
+2. A revisão da compensação por danos morais só é viável em recurso especial quando o valor fixado for exorbitante ou ínfimo. Salvo essas hipóteses, incide a Súmula 7/STJ, impedindo o conhecimento do recurso.
+3. A incidência da Súmula 7 do STJ prejudica a análise do dissídio jurisprudencial pretendido. Precedentes desta Corte.
+4. Esta Corte Superior de Justiça firmou entendimento no sentido de que nas pretensões que tenham como fundamento a responsabilidade contratual incide o prazo prescricional decenal, nos termos do art. 205 do CC.
+5. Agravo conhecido. Recurso especial parcialmente conhecido e, nesta extensão, provido.
+(AREsp 2.877.452/AL, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 18/08/2025, DJe de 22/08/2025 - sem grifos no original)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DECLARATÓRIA DE INEXIGIBILIDADE DE DÉBITO C/C COMPENSAÇÃO POR DANOS MORAIS. VARLOR ARBITRADO. REEXAME DE FATOS E PROVAS. INADMISSIBILIDADE. SÚMULA 7 DO STJ. DISSÍDIO PREJUDICADO.
+1. Ação declaratória de inexigibilidade de débito c/c compensação por danos morais.
+2. A revisão da compensação por danos morais só é viável em recurso especial quando o valor fixado for exorbitante ou ínfimo. Salvo essas hipóteses, incide a Súmula 7/STJ, impedindo o conhecimento do recurso.
+3. A incidência da Súmula 7/STJ prejudica a análise do dissídio jurisprudencial pretendido. Precedentes desta Corte.
+4. Agravo interno não provido.
+(AgInt no AREsp 2.866.409/MS, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 18/08/2025, DJe de 22/08/2025 - sem grifos no original)
+Nunca demais ressaltar que o Superior Tribunal de Justiça não possui vocação de Corte revisora; antes, seu funcionamento visa uniformizar, a nível nacional, a interpretação dada à legislação federal. Na hipótese dos autos, ao revés, a pretensão do agravante é de reinterpretação de reexame dos fatos e provas, o que encontra óbice na missão institucional desta Corte, conforme consubstanciado na Súmula 7/STJ.
+Assim sendo, deve ser prestigiado o entendimento exarado pelo Tribunal de origem, o qual examinou os argumentos pertinentes e indispensáveis ao deslinde da controvérsia, confrontando-os com as provas constantes do processo e com os termos contratuais, manifestando-se expressamente acerca das razões de convicção que conduziram à conclusão exposta no acórdão.
+Portanto, o exame das razões recursais expostas no agravo em recurso especial faz concluir que o caso concreto se amolda perfeitamente à incidência dos enunciados sumulares acima indicados, fato que obsta o seguimento do recurso especial interposto.
+Ante o exposto, não conheço do agravo em recurso especial.
+Caso exista nos autos prévia fixação de honorários advocatícios pelas instâncias de origem, determino sua majoração em desfavor da parte agravante, no importe de 2% sobre o valor já arbitrado, nos termos do art. 85, § 11, do Código de Processo Civil, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão da gratuidade da justiça.
+Publique-se. Intimem-se.
+EMENTA
