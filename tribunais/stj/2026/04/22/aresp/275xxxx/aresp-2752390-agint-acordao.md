@@ -1,0 +1,34 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 14/04/2026 a 22/04/2026, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Benedito Gonçalves, Sérgio Kukina, Regina Helena Costa e Gurgel de Faria votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Sérgio Kukina.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. VIOLAÇÃO AOS ARTS. 489 E 1.022 DO CPC. NÃO OCORRÊNCIA. PROVIMENTO NEGADO.
+1. Não há ofensa aos arts. 489 e 1.022 do Código de Processo Civil (CPC) quando o acórdão recorrido se manifesta de maneira clara e fundamentada a respeito das questões relevantes para a solução da controvérsia, exaurindo de forma satisfatória a controvérsia deduzida, ainda que não haja citação literal de todas as teses defensivas ou dos dispositivos de lei constantes das razões recursais.
+2. Agravo interno a que se nega provimento.
+RELATÓRIO
+Trata-se de agravo interno interposto pelo MUNICÍPIO DE MURIAÉ da decisão em que conheci do agravo para negar provimento ao recurso especial ante a ausência de negativa de prestação jurisdicional (fls. 947/950).
+A parte agravante alega violação dos arts. 489 e 1.022 do Código de Processo Civil com os seguintes argumentos (fls. 960/961):
+No caso concreto, as razões recursais apontaram, de maneira direta e fundamentada, a ausência de regulamentação municipal objetiva quanto aos critérios para caracterização da insalubridade, a imprescindibilidade de distinção entre regime estatutário e regime celetista na aplicação da NR-15, e a relevância probatória do reconhecimento do uso de equipamentos de proteção individual, elementos que, se devidamente enfrentados, poderiam conduzir à conclusão diversa daquela adotada pela Turma julgadora.
+Ademais, é incontroversa, pelos documentos constantes do próprio processo, a existência de laudo técnico administrativo que reconheceu o fornecimento e a utilização de EPI pelo órgão municipal. Entretanto, o acórdão recorrido, ao concluir pelo direito ao adicional de insalubridade em grau máximo (40%) e a sua implementação desde a data da perícia judicial, não expendia qualquer fundamentação específica que permitisse distinguir a presença de EPI e sua eficácia na atenuação da exposição a agentes nocivos.
+A ausência de exame específico sobre esse ponto demonstra que o Tribunal de origem repetiu conclusões genéricas sem enfrentar a questão essencial suscitada na Apelação e nos aclaratórios, incorrendo em omissão nos termos do art. 1.022, parágrafo único, II, e do art. 489, §1º, IV, ambos do CPC.
+O Tribunal a quo também deixou de confrontar as jurisprudências expressas trazidas pelo Agravante, as quais, por analogia fática, impõem critério diverso quanto à incidência do adicional para o cargo em análise. O silêncio diante de precedentes invocados, sem qualquer tentativa de distinção ou superação, compromete a fundamentação do decisum e revela afronta ao art. 489, § 1º, VI, do CPC, na medida em que o julgador está obrigado a demonstrar as razões que o levaram a adotar entendimento diverso daquele constante na bibliografia jurisprudencial apresentada pelas partes.
+Requer a reconsideração da decisão agravada ou a apreciação do recurso pelo órgão colegiado competente.
+A parte adversa não apresentou impugnação (fl. 967).
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. VIOLAÇÃO AOS ARTS. 489 E 1.022 DO CPC. NÃO OCORRÊNCIA. PROVIMENTO NEGADO.
+1. Não há ofensa aos arts. 489 e 1.022 do Código de Processo Civil (CPC) quando o acórdão recorrido se manifesta de maneira clara e fundamentada a respeito das questões relevantes para a solução da controvérsia, exaurindo de forma satisfatória a controvérsia deduzida, ainda que não haja citação literal de todas as teses defensivas ou dos dispositivos de lei constantes das razões recursais.
+2. Agravo interno a que se nega provimento.
+VOTO
+Na origem, o TRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAIS proferiu o acórdão assim ementado (fl. 844):
+APELAÇÕES CÍVEIS - AÇÃO DE COBRANÇA C/C OBRIGAÇÃO DE FAZER - SERVIDORA PÚBLICA DO MUNICÍPIO DE MURIAÉ - DICIONAL DE INSALUBRIDADE - PREVISÃO NA LEGISLAÇÃO MUNICIPAL - NORMA REGULAMENTADORA - DESNECESSIDADE - PERÍCIA JUDICIAL - COMPROVAÇÃO DO LABOR EM CONDIÇÕES INSALUBRES - TERMO INICIAL DE PAGAMENTO - DATA DA PERÍCIA - ENTENDIMENTO DO STJ - PRIMEIRO RECURSO PARCIALMENTE PROVIDO - SEGUNDO RECURSO DESPROVIDO.
+- No Município de Muriaé/MG, o direito dos servidores ao adicional de insalubridade foi previsto pela Lei nº 3.824/2009, com redação dada pela Lei nº 4.628/2013, que estabeleceu os critérios necessários à concessão do adicional, fixando as graduações de insalubridade, os percentuais respectivos e a base de cálculo para pagamento, dispensando, pois, a elaboração de norma regulamentadora.
+- Comprovado o exercício de atividade em condições insalubres, é de se reconhecer o direito da servidora ao adicional de insalubridade previsto em lei, cujo pagamento retroativo somente poderá ser feito a partir da data da confecção do laudo pericial, nos termos do entendimento firmado pelo colendo Superior Tribunal de Justiça (PUIL 413/RS).
+Não prospera a alegação de violação aos arts. 489 e 1.022 do Código de Processo Civil porque, da leitura do acórdão, vê-se que a prestação jurisdicional foi dada na medida da pretensão apresentada. O TRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAIS resolveu a controvérsia de forma fundamentada, não havendo que se falar em omissão, contradição, obscuridade ou erro material.
+O Tribunal de origem concluiu que, após a Emenda Constitucional 19/1998, o pagamento do adicional de insalubridade aos servidores depende de previsão legal local e que a Lei municipal 3.824/2009, com a redação da Lei 4.628/2013, estabeleceu critérios suficientes para a sua concessão.
+Destacou ainda que a perícia técnica realizada em 19/8/2022 concluiu que havia uma exposição habitual a riscos biológicos e químicos, sendo devido o adicional em grau máximo (40%), com base nos Anexos 13 e 14 da Norma Regulamentadora 15 (NR-15). O acórdão registrou também que os equipamentos de proteção individual minimizam, mas não eliminam os riscos. Assim, reconheceu o direito da servidora ao adicional de insalubridade em grau máximo (40%).
+Ressalto que o contraponto aos argumentos das partes não demanda a citação literal de suas palavras ou dos mesmos dispositivos legais (ou de todos). É suficiente que haja fundamentação fática e jurídica coerente e adstrita ao debate dos autos, não fazendo sentido, assim, que se exija a pormenorização de cada tese jurídica ou precedente trazido à baila, à guisa de quesitos, como se laudo pericial fosse.
+Está correta a decisão que afastou a alegada violação.
+Ante o exposto, nego provimento ao agravo interno.
+É o voto.
