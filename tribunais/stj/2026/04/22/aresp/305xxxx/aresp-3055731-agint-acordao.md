@@ -1,0 +1,30 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 14/04/2026 a 22/04/2026, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Moura Ribeiro, Daniela Teixeira, Nancy Andrighi e Humberto Martins votaram com o Sr. Ministro Relator.
+Presidiu o julgamento a Sra. Ministra Daniela Teixeira.
+EMENTA
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. DECISÃO DA PRESIDÊNCIA DO STJ. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DA DECISÃO DE INADMISSÃO NA ORIGEM. ART. 932, III, DO CPC. SÚMULA N. 182/STJ. PRINCÍPIO DA DIALETICIDADE.
+1. Incumbe ao agravante infirmar especificamente todos os fundamentos da decisão atacada, demonstrando o seu desacerto, de modo a justificar o cabimento do recurso especial interposto, sob pena de não ser conhecido o agravo (art. 932, III, do Código de Processo Civil, c/c art. 253, parágrafo único, I, do RISTJ).
+2. Agravo interno não provido.
+RELATÓRIO
+Trata-se de agravo interno interposto por CONSTRUTORA TENDA S.A. contra decisão da Presidência do STJ (e-STJ fls. 353/354) que não conheceu do agravo em recurso especial, com fundamento nos arts. 932, III, do Código de Processo Civil e 253, parágrafo único, I, do Regimento Interno do Superior Tribunal de Justiça e na Súmula n. 182/STJ.
+Em suas razões de agravo interno (e-STJ fls. 372/381), a agravante alega, em síntese, que: (a) o recurso especial enfrentou de forma clara a questão jurídica central relativa à inexistência de atraso na entrega do imóvel diante de prévio distrato contratual; (b) está configurado o prequestionamento ficto, nos termos do art. 1.025 do CPC, sendo inaplicável a Súmula n. 211/STJ; (c) todo o acervo recursal impugnou de forma específica os óbices apontados na decisão de inadmissibilidade; (d) o acórdão recorrido violou a Lei n. 4.591/64 e os princípios da boa-fé objetiva e da segurança jurídica; e (e) é vedada a cumulação de cláusula penal compensatória com indenização por danos morais.
+Sem impugnação (e-STJ fl. 386).
+É o relatório.
+EMENTA
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. DECISÃO DA PRESIDÊNCIA DO STJ. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DA DECISÃO DE INADMISSÃO NA ORIGEM. ART. 932, III, DO CPC. SÚMULA N. 182/STJ. PRINCÍPIO DA DIALETICIDADE.
+1. Incumbe ao agravante infirmar especificamente todos os fundamentos da decisão atacada, demonstrando o seu desacerto, de modo a justificar o cabimento do recurso especial interposto, sob pena de não ser conhecido o agravo (art. 932, III, do Código de Processo Civil, c/c art. 253, parágrafo único, I, do RISTJ).
+2. Agravo interno não provido.
+VOTO
+A irresignação não merece provimento.
+É assente o entendimento do Superior Tribunal de Justiça no sentido de que
+"(..) o agravo que objetiva conferir trânsito ao recurso especial obstado na origem reclama, como requisito objetivo de admissibilidade, a impugnação específica aos fundamentos utilizados para sua negativa, consoante expressa previsão contida no art. 932, III, do CPC de 2015 e art. 253, parágrafo único, I, do Regimento Interno do Superior Tribunal de Justiça - RISTJ." (AgInt no AREsp 936.883/RS, Rel. Ministro Luis Felipe Salomão, Quarta Turma, julgado em 27/9/2016, DJe 7/10/2016.)
+A propósito, o julgamento dos EAREsp 746.775/PR, Rel. p/ acórdão Ministro Luis Felipe Salomão, Corte Especial, em 19/9/2018, firmou o entendimento de que a decisão que não admite o recurso especial tem escopo exclusivo de apreciar os pressupostos de admissibilidade recursal, sendo incindível e devendo ser impugnada em sua integralidade.
+No caso dos autos, a decisão de inadmissão do recurso especial na origem (e-STJ fl. 305) obstou o seguimento do apelo nobre com suporte em três fundamentos autônomos: (i) ausência de prequestionamento dos dispositivos legais indicados como violados (Súmula n. 211/STJ); (ii) deficiência na fundamentação recursal, por não ter a parte especificado de maneira objetiva e compreensiva de que forma os dispositivos legais teriam sido vilipendiados (Súmula n. 284/STF); e (iii) ausência de cotejo analítico quanto ao dissídio jurisprudencial, uma vez que a parte não efetuou o confronto analítico segundo as diretrizes dos arts. 1.029, § 1º, do CPC e 255, § 1º, do RISTJ.
+Nas razões do agravo em recurso especial (e-STJ fls. 307/314), a parte agravante não impugna, com a especificidade exigida, os fundamentos da decisão que inadmitiu o recurso especial.
+Quanto ao óbice da Súmula n. 211/STJ, o agravo em recurso especial sequer menciona o referido enunciado sumular e tampouco invoca o art. 1.025 do CPC para fins de prequestionamento ficto. A peça limita-se a discutir o mérito da controvérsia (relativa à validade do distrato, boa-fé objetiva, impossibilidade de cumulação de cláusula penal com danos morais), sem demonstrar, de forma concreta e específica, por que razão os dispositivos legais indicados como violados teriam sido efetivamente prequestionados perante o Tribunal de origem.
+No que diz respeito à Súmula n. 284/STF, há apenas impugnação oblíqua e genérica, na qual a agravante afirma que o recurso especial está fundado no art. 105, III, alíneas "a" e "c", da Constituição Federal, sem demonstrar, contudo, por que razão a fundamentação recursal seria suficiente para afastar o óbice aplicado pela decisão de inadmissão.
+Por fim, quanto à deficiência de cotejo analítico, o agravo em recurso especial não apresenta impugnação específica a esse fundamento. Não há seção dedicada a demonstrar que o cotejo foi realizado, tampouco indicação dos paradigmas colacionados e da demonstração de similitude fática entre os arestos cotejados.
+Deve-se, portanto, manter a decisão da Presidência do STJ, que não conheceu do agravo em recurso especial, com fundamento no art. 932, III, do Código de Processo Civil e na Súmula n. 182/STJ.
+Ante o exposto, nego provimento a o agravo interno.
+É o voto.
