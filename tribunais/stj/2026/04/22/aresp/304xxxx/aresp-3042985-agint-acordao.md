@@ -1,0 +1,56 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 16/04/2026 a 22/04/2026, por unanimidade, não conhecer do recurso, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Marco Aurélio Bellizze, Teodoro Silva Santos, Afrânio Vilela e Francisco Falcão votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro Teodoro Silva Santos.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DECISÃO DA PRESIDÊNCIA DO STJ NÃO REFUTADA. DESCUMPRIMENTO DO PRINCÍPIO DA DIALETICIDADE. ARTS. 932, III, E 1.021, §1º, DO CPC. AGRAVO INTERNO NÃO CONHECIDO.
+1. "Inexistindo impugnação suficiente, como seria de rigor, aos fundamentos da decisão ora agravada, essa circunstância obsta, por si só, a pretensão recursal, pois, à falta de contrariedade, permanecem incólumes os motivos expendidos pela decisão recorrida". (AgInt no AREsp n. 1.439.852/MS, rel. Min. Luis Felipe Salomão, Quarta Turma, DJe de 18/3/2020)
+2. "Verificada a ausência de impugnação específica de todos os fundamentos da decisão agravada, não se conhece do agravo interno, diante da inobservância do princípio da dialeticidade, conforme exigem os arts. 932, III, e 1.021, § 1º, do CPC/2015". (AgInt no AREsp n. 2.590.320/SP, rel. Min. Marco Aurélio Bellizze, Terceira Turma, DJe de 15/8/2024)
+3. Agravo interno não conhecido.
+RELATÓRIO
+Trata-se de agravo interno interposto pelo MUNICÍPIO DE BUÍQUE contra decisão monocrática da Presidência do STJ que conheceu do agravo para não conhecer do recurso especial, nos seguintes termos (fls. 798-801):
+Quanto à controvérsia, o acórdão recorrido assim decidiu:
+O Embargante alega que o Acórdão embargado foi contraditório, tendo em vista que não há nos autos prova do inadimplemento das verbas concedidas, conforme preceitua o art. 373, I, do CPC.
+Pois bem.
+Denota-se dos autos que SOMENTE a parte Autora ingressou com recurso voluntário requerendo o pagamento do Adicional de Insalubridade e a indenização pelo não cadastramento no PIS.
+Portanto, não cabe ao Ente Municipal ingressar com Embargos de Declaração requerendo discutir matéria que não foi analisada na Apelação Cível.
+Dessa forma, não tendo refutado os fundamentos da referida sentença no momento oportuno, não cabe faze-lo no âmbito deste Embargos de Declaração, operando-se a preclusão consumativa (fl. 736)
+Aplicável, portanto, a Súmula n. 284/STF, tendo em vista que as razões delineadas no Recurso Especial estão dissociadas dos fundamentos utilizados no aresto impugnado, pois a parte recorrente não impugnou, de forma específica, os seus fundamentos, o que atrai a aplicação, por conseguinte, do referido enunciado: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia".
+Nesse sentido, esta Corte Superior de Justiça já se manifestou na linha de que, "Aplicável, portanto, o óbice da Súmula n. 284/STF, uma vez que as razões recursais delineadas no especial estão dissociadas dos fundamentos utilizados no aresto impugnado, tendo em vista que a parte recorrente não impugnou, de forma especifica, os seus fundamentos, o que atrai a aplicação, por conseguinte, do referido enunciado: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia" (AgInt no AREsp n. 2.604.183/PR, relator Ministro Francisco Falcão, Segunda Turma, DJEN de 2/12/2024).
+(..)
+Ademais, incide a Súmula n. 211/STJ, porquanto a questão não foi examinada
+pela Corte de origem, a despeito da oposição de Embargos de Declaração. Assim, ausente o requisito do prequestionamento.
+Nesse sentido: "A ausência de enfrentamento da questão objeto da controvérsia pelo Tribunal a quo, não obstante oposição de embargos declaratórios, impede o acesso à instância especial, porquanto não preenchido o requisito constitucional do prequestionamento, nos termos da Súmula n. 211/STJ" (AgInt nos EDcl no REsp n. 1.738.596/RJ, relatora Ministra Regina Helena Costa, Primeira Turma, DJEN de 26/3/2025) .
+(..)
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do Agravo para não conhecer do Recurso Especial.
+Nos termos do art. 85, § 11, do Código de Processo Civil, majoro os honorários de advogado em desfavor da parte recorrente em 15% sobre o valor já arbitrado nas instâncias de origem, observados, se aplicáveis, os limites percentuais previstos nos §§ 2o e 3o do referido dispositivo legal, bem como eventual concessão de justiça gratuita.
+Em seu agravo interno, às fls. 807-816, a parte recorrente afirma, em síntese, que a Súmula nº 211 do STJ deve ter a sua incidência afastada, haja vista que a matéria foi amplamente discutida nos autos, ainda que de forma implícita.
+Aduz que não há falar na aplicação da Súmula 284/STF, pois a matéria discutida no recurso especial não foi diversa da contida na decisão recorrida, tendo sido impugnada especificamente a decisão proferida pela TJPE, com demonstração da violação do art. 373, I, do CPC.
+Em contrarrazões às fls. 819-829, a parte recorrida pede, além do não provimento do recurso, seja aplicada a multa prevista no art. 1.021, § 4º, do CPC.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DECISÃO DA PRESIDÊNCIA DO STJ NÃO REFUTADA. DESCUMPRIMENTO DO PRINCÍPIO DA DIALETICIDADE. ARTS. 932, III, E 1.021, §1º, DO CPC. AGRAVO INTERNO NÃO CONHECIDO.
+1. "Inexistindo impugnação suficiente, como seria de rigor, aos fundamentos da decisão ora agravada, essa circunstância obsta, por si só, a pretensão recursal, pois, à falta de contrariedade, permanecem incólumes os motivos expendidos pela decisão recorrida". (AgInt no AREsp n. 1.439.852/MS, rel. Min. Luis Felipe Salomão, Quarta Turma, DJe de 18/3/2020)
+2. "Verificada a ausência de impugnação específica de todos os fundamentos da decisão agravada, não se conhece do agravo interno, diante da inobservância do princípio da dialeticidade, conforme exigem os arts. 932, III, e 1.021, § 1º, do CPC/2015". (AgInt no AREsp n. 2.590.320/SP, rel. Min. Marco Aurélio Bellizze, Terceira Turma, DJe de 15/8/2024)
+3. Agravo interno não conhecido.
+VOTO
+O agravo interno em apreço não possui aptidão para ser conhecido.
+O artigo 932, inciso III, do Código de Processo Civil assevera que "incumbe ao relator (..) III - não conhecer de recurso inadmissível, prejudicado ou que não tenha impugnado especificamente os fundamentos da decisão recorrida". Idêntica redação consta no artigo 255, §4º, inciso I, do Regimento Interno do STJ. Ambos os dispositivos nasceram por inspiração no enunciado 182 da Súmula do STJ, que reza:
+É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada.
+O regramento supra mencionado é utilizado para o julgamento unipessoal dos processos no STJ, que não tenham obedecido ao princípio da dialeticidade.
+Para o agravo interno, o Código de Processo Civil trouxe a previsão contida no artigo 1.021, §1º, segundo a qual, "na petição de agravo interno, o recorrente impugnará especificadamente os fundamentos da decisão agravada". No mesmo sentido é a dicção do artigo 259, §2º, do Regimento Interno do STJ.
+Na hipótese em análise, a decisão monocrática de fls. 798-801 não conheceu do recurso especial, porquanto o Tribunal de origem entendeu que não cabe ao Ente Municipal ingressar com Embargos de Declaração requerendo discutir matéria que não foi analisada na apelação cível, ao passo que, em recurso especial, tal fundamento não foi abordado, estando, pois, as razões do REsp dissociadas do que constou no aresto objurgado, o que atraiu a Súmula 284/STF. Além disso, ficou consignado que o art. 373, I, do CPC não foi prequestionado, incidindo, outrossim, a Súmula 211/STJ.
+Todavia, em sede de agravo interno (fls. 295-300), a parte recorrente trouxe argumentação totalmente genérica na tentativa de afastar a aplicação da Súmula 211/STJ, sem demonstrar de modo efetivo o desacerto contido na decisão impugnada.
+Não bastasse isso, verifica-se que o óbice da Súmula 284/STF também não foi refutado adequadamente, porquanto a parte agravante trouxe argumentos que passaram ao largo do fundamento presente no decisum da Presidência do STJ, porquanto não atacado o ponto fulcral que ensejou a aplicação da citada Súmula, qual seja, o de que não foi abordada, em REsp, a questão do não cabimento de embargos de declaração para discutir matéria que não foi analisada em apelação.
+Tal modo de proceder não é admitido, uma vez que "a parte, ao recorrer, deve demonstrar o desacerto da decisão contra a qual se insurge, contestando todos os óbices por ela levantados, sob pena de sua manutenção". (AgRg nos EDv nos EAREsp n. 1.226.428/SP, rel. Min. Jorge Mussi, Corte Especial, DJe de 26/5/2020)
+Assim, "inexistindo impugnação suficiente, como seria de rigor, aos fundamentos da decisão ora agravada, essa circunstância obsta, por si só, a pretensão recursal, pois, à falta de contrariedade, permanecem incólumes os motivos expendidos pela decisão recorrida". (AgInt no AREsp n. 1.439.852/MS, rel. Min. Luis Felipe Salomão, Quarta Turma, DJe de 18/3/2020)
+A respeito do tema, saliente-se que, "em atenção ao princípio da dialeticidade recursal, a impugnação deve ser realizada de forma efetiva, concreta e pormenorizada, não sendo suficientes alegações genéricas ou relativas ao mérito da controvérsia, sob pena de incidência, por analogia, da Súmula n. 182 do STJ." (AgInt no AREsp n. 2.067.588/SP, rel. Min. Herman Benjamin, Segunda Turma, DJe de 20/8/2024)
+Desse modo, "verificada a ausência de impugnação específica de todos os fundamentos da decisão agravada, não se conhece do agravo interno, diante da inobservância do princípio da dialeticidade, conforme exigem os arts. 932, III, e 1.021, § 1º, do CPC/2015". (AgInt no AREsp n. 2.590.320/SP, rel. Min. Marco Aurélio Bellizze, Terceira Turma, DJe de 15/8/2024) No mesmo sentido:
+PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO MANDO DE SEGURANÇA. RECURSO ESPECIAL. INTEMPESTIVIDADE. SUSPENSÃO DOS PRAZOS PROCESSUAIS NO TRIBUNAL DE ORIGEM. AUSÊNCIA DE COMPROVAÇÃO DO FERIADO LOCAL QUANDO DA INTERPOSIÇÃO DO RECURSO. COVID-19.
+(..)
+3. Em observância ao disposto no art. 1.021, § 1º, do CPC, que reforça o entendimento já consolidado na Súmula n. 182 do STJ, não se conhece de agravo interno que não impugna os fundamentos de decisão agravada.
+4. Agravo interno não conhecido.
+(AgInt nos EDcl no MS n. 28.813/DF, rel. Min. João Otávio de Noronha, Corte Especial, DJe de 16/8/2024)
+Por oportuno, devo acrescentar que a incidência da multa prevista no artigo 1.021, § 4º, do CPC, pleiteada em contrarrazões, não é automática, não se tratando de mera decorrência lógica do desprovimento do agravo interno em votação unânime. A condenação ao pagamento da aludida sanção - a ser analisada em cada caso concreto, em decisão fundamentada - pressupõe que o agravo interno se mostre manifestamente inadmissível ou que sua improcedência seja de tal forma evidente que a simples interposição do recurso possa ser tida, de plano, como abusiva ou protelatória, o que não se evidenciou na espécie.
+Ante o exposto, não conheço do agravo interno.
+É como voto.
