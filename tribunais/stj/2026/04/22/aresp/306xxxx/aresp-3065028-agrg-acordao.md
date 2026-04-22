@@ -1,0 +1,36 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Sexta Turma, por unanimidade, negar provimento ao agravo regimental, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Rogerio Schietti Cruz, Antonio Saldanha Palheiro, Carlos Pires Brandão e Og Fernandes votaram com o Sr. Ministro Relator.
+EMENTA
+DIREITO PROCESSUAL PENAL. AGRAVO REGIMENTAL EM AGRAVO EM RECURSO ESPECIAL. DECISÃO DE INADMISSÃO COM DISPOSITIVO ÚNICO. IMPUGNAÇÃO DEFICIENTE. AUSÊNCIA DE DIALETICIDADE RECURSAL. SÚMULA 182/STJ. DECISÃO MANTIDA.
+1. A decisão de inadmissão proferida na origem, por possuir dispositivo único, exige impugnação integral, clara e específica de todos os seus fundamentos, sob pena de incidência da Súmula 182 do Superior Tribunal de Justiça, em observância ao princípio da dialeticidade recursal.
+2. No agravo em recurso especial, a parte limitou-se, quanto ao óbice da Súmula 7 do Superior Tribunal de Justiça, a afirmar de forma genérica que não pretendia revolvimento fático-probatório, sem demonstrar, de modo pormenorizado, como cada uma das teses veiculadas resistia ao referido óbice.
+3. Em relação à Súmula 83 do Superior Tribunal de Justiça, não foram apresentados julgados contemporâneos, em moldura fática análoga, aptos a evidenciar divergência entre o acórdão recorrido e a jurisprudência atual, nem se demonstrou a inaplicabilidade dos precedentes utilizados na origem, o que evidencia a inobservância da dialeticidade recursal.
+4. Constatada a impugnação deficiente e a ausência de enfrentamento específico dos fundamentos de inadmissibilidade, impõe-se o não conhecimento do agravo em recurso especial, nos termos do art. 932, III, do Código de Processo Civil, c/c o art. 3º do Código de Processo Penal, com aplicação da Súmula 182 do Superior Tribunal de Justiça.
+5. Agravo regimental improvido.
+RELATÓRIO
+Trata-se de agravo regimental interposto por MARIA RAIMUNDA DOS SANTOS SILVA contra decisão monocrática assim ementada (fl. 778):
+AGRAVO EM RECURSO ESPECIAL. PENAL. PROCESSUAL PENAL. IMPUGNAÇÃO DEFICIENTE. INOBSERVÂNCIA DO COMANDO LEGAL INSERTO NOS ARTS. 932, III, DO CPC/2015, E 253, PARÁGRAFO ÚNICO, I, DO RISTJ. SÚMULA 182/STJ.
+Agravo em recurso especial não conhecido.
+Nas razões, a parte agravante alega que houve impugnação específica dos fundamentos de inadmissibilidade, com enfrentamento direto dos óbices das Súmulas 7 e 83 do Superior Tribunal de Justiça, motivo pelo qual deve ser afastada a incidência da Súmula 182 do Superior Tribunal de Justiça (fls. 787/789).
+Argumenta que a discussão sobre violação de domicílio e insuficiência probatória não demanda revolvimento fático-probatório, pois o recurso buscou a revaloração jurídica de fatos já fixados - a fuga do réu como única justificativa para o ingresso no domicílio -, à luz do art. 5º, XI, da Constituição, do Tema 280 do Supremo Tribunal Federal e do precedente desta Corte em HC n. 598.051/SP, sendo que a mera fuga não configura justa causa para violação de domicílio sem mandado (fl. 790).
+Sustenta que foram apontados precedentes específicos - AgRg no HC n. 918.821/RJ e HC n. 659.689/DF - para demonstrar que a análise pretendida não esbarra na Súmula 7 do Superior Tribunal de Justiça (fl. 790).
+Defende que, quanto à Súmula 83 do Superior Tribunal de Justiça, o acórdão recorrido está em confronto com a jurisprudência consolidada - em especial o HC 598.051/SP -, que exige fundadas razões objetivas anteriores à entrada, razão pela qual não se aplicaria o verbete (fl. 790).
+Afirma que, sobre a causa de aumento do art. 40, VI, da Lei n. 11.343/2006, a questão é jurídica - exigindo prova da efetiva corrupção ou participação relevante do adolescente, e comprovação documental hábil da menoridade, nos termos da Súmula 74 do Superior Tribunal de Justiça -, não se tratando de revolvimento fático, motivo pelo qual não incide a Súmula 7 do Superior Tribunal de Justiça (fls. 790/791).
+Pugna, ao final, pelo exercício do juízo de retratação para conhecer do agravo em recurso especial e, no mérito, reconhecer a ilicitude das provas por invasão de domicílio e absolver a agravante, ou, subsidiariamente, afastar a causa de aumento do art. 40, VI, da Lei n. 11.343/2006 (fls. 791/792).
+É o relatório.
+EMENTA
+DIREITO PROCESSUAL PENAL. AGRAVO REGIMENTAL EM AGRAVO EM RECURSO ESPECIAL. DECISÃO DE INADMISSÃO COM DISPOSITIVO ÚNICO. IMPUGNAÇÃO DEFICIENTE. AUSÊNCIA DE DIALETICIDADE RECURSAL. SÚMULA 182/STJ. DECISÃO MANTIDA.
+1. A decisão de inadmissão proferida na origem, por possuir dispositivo único, exige impugnação integral, clara e específica de todos os seus fundamentos, sob pena de incidência da Súmula 182 do Superior Tribunal de Justiça, em observância ao princípio da dialeticidade recursal.
+2. No agravo em recurso especial, a parte limitou-se, quanto ao óbice da Súmula 7 do Superior Tribunal de Justiça, a afirmar de forma genérica que não pretendia revolvimento fático-probatório, sem demonstrar, de modo pormenorizado, como cada uma das teses veiculadas resistia ao referido óbice.
+3. Em relação à Súmula 83 do Superior Tribunal de Justiça, não foram apresentados julgados contemporâneos, em moldura fática análoga, aptos a evidenciar divergência entre o acórdão recorrido e a jurisprudência atual, nem se demonstrou a inaplicabilidade dos precedentes utilizados na origem, o que evidencia a inobservância da dialeticidade recursal.
+4. Constatada a impugnação deficiente e a ausência de enfrentamento específico dos fundamentos de inadmissibilidade, impõe-se o não conhecimento do agravo em recurso especial, nos termos do art. 932, III, do Código de Processo Civil, c/c o art. 3º do Código de Processo Penal, com aplicação da Súmula 182 do Superior Tribunal de Justiça.
+5. Agravo regimental improvido.
+VOTO
+O agravo regimental não prospera, porquanto a agravante não conseguiu infirmar os fundamentos adotados na decisão de fls. 778/780.
+Conforme consignado na decisão agravada, a decisão de inadmissão na origem possui dispositivo único e, por isso, demanda impugnação integral, clara e específica de todos os seus fundamentos, sob pena de incidência da Súmula 182 do Superior Tribunal de Justiça.
+No caso dos autos, o Tribunal de origem inadmitiu o recurso especial pela incidência das Súmulas 7 e 83 do Superior Tribunal de Justiça, em três pontos: ausência de fundada suspeita e violação de domicílio; insuficiência de provas para a condenação; e afastamento da causa de aumento do art. 40, VI, da Lei n. 11.343/2006
+Ocorre que, nas razões do agravo em recurso especial, a parte se limitou, quanto à Súmula 7/STJ, a afirmar, de modo genérico, que não pretendia revolvimento fático-probatório, sem demonstrar, de forma pormenorizada, como cada uma das teses resistia ao óbice.
+Relativamente à Súmula 83/STJ, não foram trazidos julgados contemporâneos, em moldura fática análoga, aptos a evidenciar a dissonância do acórdão recorrido com a jurisprudência atual, nem se demonstrou a inaplicabilidade dos precedentes invocados na origem.
+Assim, constatada a inobservância da dialeticidade recursal, nos termos do art. 932, III, do Código de Processo Civil, c/c o art. 3º do Código de Processo Penal, impondo-se o não conhecimento do agravo em recurso especial, à luz da Súmula 182 do Superior Tribunal de Justiça.
+Diante do exposto, nego provimento ao agravo regimental.
