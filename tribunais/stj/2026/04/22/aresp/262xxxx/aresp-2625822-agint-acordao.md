@@ -1,0 +1,29 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 14/04/2026 a 22/04/2026, por unanimidade, não conhecer do recurso, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Antonio Carlos Ferreira, Luís Carlos Gambogi (Desembargador Convocado do TJMG), João Otávio de Noronha e Raul Araújo votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro João Otávio de Noronha.
+EMENTA
+AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. CUMPRIMENTO PROVISÓRIO DE SENTENÇA. AGRAVO DE INSTRUMENTO. FUNDAMENTOS DA DECISÃO AGRAVADA. AUSÊNCIA DE IMPUGNAÇÃO.
+1. Nos termos do art. 1021, § 1º, do Código de Processo Civil , é inviável o agravo interno que deixa de atacar especificamente os fundamentos da decisão agravada.
+2. Agravo interno não conhecido.
+RELATÓRIO
+Trata-se de agravo interno interposto por RICARDO ROESSLE GUIMARÃES e ELISABETH PHAELANTE GUERRA GUIMARÃES contra decisão singular da lavra da Ministra Presidente do STJ que não conheceu do agravo em recurso especial por irregularidade na representação processual, com incidência da Súmula 115/STJ, registrando que, embora intimados, os recorrentes não juntaram a cadeia completa de mandato, tendo apresentado apenas substabelecimento sem a procuração originária da substabelecente; bem como determinou a majoração de honorários, se previamente fixados (fls. 278-279).
+Foram opostos embargos de declaração, os quais foram rejeitados, mantendo-se o óbice por ausência de juntada, no prazo assinado, da cadeia completa de procurações/substabelecimentos, com a expressa inaplicabilidade do art. 1.017, § 5º, do Código de Processo Civil ao processamento dos recursos no STJ e ao reconhecimento da preclusão da juntada posterior (fls. 309-312).
+Nas razões do presente agravo interno, a parte agravante alega, em síntese, que a decisão agravada violou o art. 1.017, § 5º, do Código de Processo Civil, pois os autos são eletrônicos e dispensariam a juntada de procuração e substabelecimentos nos incidentes, bastando constarem nos autos originários. Sustenta que a Súmula 115/STJ estaria superada pelo sistema do Código de Processo Civil vigente e que se impõe a primazia do julgamento de mérito e a instrumentalidade das formas (fls. 318-325). Aduz que houve posterior juntada dos instrumentos (procurações e substabelecimentos) e que isso seria suficiente para afastar o vício de representação (fls. 321-323). Defende, por fim, que o agravo deve ser conhecido, para análise de seus fundamentos (fls. 325-328).
+Impugnação ao agravo interno às fls. 335-343, na qual a parte agravada alega que permanece hígida a Súmula 115/STJ; que o art. 1.017, § 5º, do Código de Processo Civil não se aplica ao processamento dos recursos perante o STJ; que os agravantes foram intimados e não regularizaram a representação no prazo, tendo juntado apenas substabelecimento desacompanhado da procuração originária, e que a juntada posterior é preclusa, citando precedentes desta Corte.
+É o relatório.
+EMENTA
+AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. CUMPRIMENTO PROVISÓRIO DE SENTENÇA. AGRAVO DE INSTRUMENTO. FUNDAMENTOS DA DECISÃO AGRAVADA. AUSÊNCIA DE IMPUGNAÇÃO.
+1. Nos termos do art. 1021, § 1º, do Código de Processo Civil , é inviável o agravo interno que deixa de atacar especificamente os fundamentos da decisão agravada.
+2. Agravo interno não conhecido.
+VOTO
+De plano, verifico que o agravo interno interposto não merece ser conhecido, uma vez que a parte agravante não atacou devidamente a decisão agravada.
+A decisão ora agravada não conheceu do agravo em recurso especial por irregularidade na representação processual, ante a ausência de juntada da procuração e/ou da cadeia completa de substabelecimentos do subscritor do AREsp, com incidência da Súmula 115/STJ.
+Registrou que houve intimação específica para sanar o vício e que, não obstante, os recorrentes limitaram-se a juntar apenas um substabelecimento sem a procuração originária da substabelecente. Consignou, ainda, a inaplicabilidade do art. 1.017, § 5º, do Código de Processo Civil ao processamento de recursos no STJ e a preclusão quanto à juntada posterior dos instrumentos (fls. 278-279 e 309-312).
+No presente agravo interno, contudo, a parte não apresentou argumentos voltados a impugnar objetiva e integralmente o capítulo atacado, limitando-se a defender a dispensa de juntada de procuração em autos eletrônicos (art. 1.017, § 5º, do Código de Processo Civil), a superação da Súmula 115/STJ e a primazia do julgamento de mérito.
+A agravante não impugnou adequadamente os fundamentos específicos da decisão agravada quanto: i) à intimação prévia e à ausência de regularização tempestiva da cadeia completa de mandato; ii) à inaplicabilidade do art. 1.017, § 5º, do Código de Processo Civil no âmbito do STJ; e iii) à preclusão da juntada posterior dos instrumentos.
+Conclui-se, portanto, que as razões do agravo interno não impugnam, de forma objetiva e suficiente, os fundamentos autônomos da decisão agravada, em especial a constatação de que, mesmo intimados, os recorrentes não apresentaram, no prazo assinalado, a procuração originária da substabelecente, nem a cadeia completa de poderes, e que a alegada dispensa legal não se aplica ao processamento do AREsp nesta Corte.
+A absoluta falta de impugnação da decisão agravada enseja o não conhecimento do agravo interno, na linha do entendimento jurisprudencial pacífico desta Corte. Nesse sentido é o EREsp n. 1.424.404/SP (relator Ministro Luis Felipe Salomão, Corte Especial, julgado em 20/10/2021, DJe de 17/11/2021).
+Imperioso concluir, portanto, que a exigência constante do art. 1.021, § 1º, do Código de Processo Civil não foi cumprida, o que conduz à inviabilidade do agravo interno.
+Em face do exposto, não conheço do agravo interno.
+É como voto
