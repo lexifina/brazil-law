@@ -1,0 +1,47 @@
+DECISÃO
+Trata-se de recurso especial interposto por EDVAN RODRIGUES, com fundamento na alínea "a" do permissivo constitucional, contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, assim ementado (fl. 242):
+APELAÇÃO. TRÁFICO DE DROGAS. RECURSO DEFENSIVO.
+Preliminar. Nulidade por quebra da cadeia de custódia. Inocorrência. Adequada apreensão, relação e acondicionamento dos entorpecentes. Alegação de que o policial que localizou a droga não foi ouvido judicialmente. Encontro do material ilícito confirmado por outros agentes presentes na diligência de cumprimento de mandado de busca e apreensão. Preliminar rejeitada.
+Mérito. Pleito de absolvição por insuficiência de provas. Impossibilidade. Materialidade e autoria comprovadas pelo farto material probatório amealhado aos autos. Palavras dos agentes públicos corroboradas por demais elementos acostados aos autos. Hipótese de atuação arbitrária dos policiais que não encontra respaldo e é de baixíssima credibilidade. Condenação mantida.
+Dosimetria. Pena base corretamente fixada acima do mínimo considerando a nocividade da droga apreendida. Réu reincidente específico, inviabilizando a aplicação do redutor previsto no art. 33, § 4º, da Lei de Drogas. Regime fechado mantido. Recurso Desprovido.
+O recorrente aduz a violação dos arts. 158-A do CPP, 42 da Lei n. 11.343/2006 e 59 do Código Penal. Sustenta a ocorrência de quebra da cadeia de custódia, uma vez que o policial responsável pela apreensão dos entorpecentes não foi ouvido em juízo. Aduz, ainda, que, diante da reduzida quantidade de droga apreendida (25,43g de cocaína), não se justifica a exasperação da pena-base com fundamento na natureza da substância.
+Com contrarrazões (fls. 280-289), o recurso especial foi parcialmente admitido na origem (fls. 290-291).
+A defesa interpôs agravo em recurso especial (fls. 294-300).
+Remetidos os autos a esta Corte Superior, o MPF manifestou-se pelo conhecimento parcial do recurso especial e, na parte conhecida, pelo seu provimento, em parecer assim ementado (fl. 320):
+RECURSO ESPECIAL. TRÁFICO DE DROGAS. CONDENAÇÃO. NULIDADE. QUEBRA DA CADEIA DE CUSTÓDIA. REEXAME DE PROVAS. INCIDÊNCIA DA SÚMULA 7/STJ. DOSIMETRIA. PENA-BASE. EXASPERAÇÃO. NATUREZA DA DROGA (COCAÍNA). PEQUENA QUANTIDADE (25G). DESPROPORCIONALIDADE. TEMA 1262 DO STJ. RECURSO REPETITIVO. PROVIMENTO PARCIAL.
+Parecer pelo conhecimento parcial do recurso e, na parte conhecida, pelo seu provimento.
+É o relatório.
+Inicialmente, destaco a desnecessidade de interposição de agravo em recurso especial contra admissão parcial do recurso especial, pois o juízo de admissibilidade se submete a duplo controle e não vincula o Superior Tribunal de Justiça, que pode reexaminar integralmente a admissibilidade, inclusive quanto aos pontos inadmitidos.
+A propósito:
+RECURSOS ESPECIAIS E AGRAVOS EM RECURSOS ESPECIAIS. OPERAÇÃO NECATOR. CRIMES DE LAVAGEM DE CAPITAIS COMETIDOS EM CONTINUIDADE DELITIVA E CONCURSO MATERIAL POR PARTICULARES E AGENTES PÚBLICOS DO MUNICÍPIO DE SÃO PAULO (MÁFIA DO ISS). CONTRARIEDADE AOS ARTS. 41, 76, CAPUT, II E III, 78, II, B E C, 283, 381, III, 387, II E III, 396-A, 397, 564, CAPUT, I, E 593 DO CPP, 1º, 18, I, 33, 59, 60 E 69 DO CP, 1º DA LEI N. 9.613/1998, 4º, I, II, III E IV, DA LEI N. 12.850/2013, E À SÚMULA 718/STF. NEGATIVA DE VIGÊNCIA DOS ARTS. 83 E 617 DO CPP E 71 DO CP. DIVERGÊNCIA JURISPRUDENCIAL.
+1. A decisão agravada é incindível e, assim, deve ser impugnada em sua integralidade, nos exatos termos das disposições legais e regimentais (EAREsp n. 746.775/PR, Relator para o acórdão Ministro Luis Felipe Salomão, Corte Especial, DJe 30/11/2018).
+2. É inviável conhecer do agravo em recurso especial que deixa de impugnar, de maneira específica, um dos fundamentos suficientes da decisão agravada (art. 932, III, do CPC/2015).
+3. É desnecessária e inútil a interposição de agravo contra a decisão de admissão parcial do recurso especial. Afinal, o juízo de admissibilidade desse recurso de natureza extraordinária está sujeito a duplo controle, e a aferição da regularidade formal do apelo extremo feita pelo Tribunal a quo não vincula o Superior Tribunal de Justiça. Respeitados os limites legais, haverá nova análise quanto à admissibilidade recursal, mesmo quanto à parte inadmitida na origem.
+ ..
+(REsp n. 1.829.744/SP, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 18/2/2020, DJe de 3/3/2020.)
+Conforme relatado, o recorrente sustenta que (I) houve quebra da cadeia de custódia, uma vez que o policial responsável pela apreensão dos entorpecentes não foi ouvido em juízo; (II) a pouca quantidade de droga (25,43 g) impede a elevação da pena-base pela natureza da substância (cocaína).
+Quanto à primeira questão, o Tribunal de origem consignou que o auto de exibição e apreensão identifica o policial responsável e descreve minuciosamente a droga apreendida, a qual foi devidamente submetida a exame químico-toxicológico. Ressalta que a ausência de oitiva do referido policial em juízo não constitui indício de adulteração da prova (fls. 243-247):
+A idoneidade da prova foi assegurada, sem qualquer interferência ou indício que provocasse a imprestabilidade do laudo pericial.
+Com efeito, consta do auto de exibição e apreensão o nome do policial responsável pela exibição e expressa e minuciosa descrição da droga encontrada: "Objetos apreendidos: Objeto Outros-Utensílio de Cozinha, Modo do Objeto Apreendido, Pessoa Relacionada Indiciado EDVAN RODRIGUES, Marca Sem marca, Unidade Unidade, Quantidade 1,00, Observação Rolo plástico filme. LACRE: 0012264.
+Objeto Balança-Utensílio de Cozinha, Modo do Objeto Apreendido, Pessoa Relacionada Indiciado EDVAN RODRIGUES, Marca B-Max, Unidade Unidade, Quantidade 1,00, Observação Balança pequena com resquícios de drogas. LACRE: 0012278.
+Objeto Real, Modo do Objeto Apreendido, Pessoa Relacionada Indiciado EDVAN RODRIGUES, Marca REAL, Unidade Unidade, Quantidade 35,00, Observação LACRE: 0012277.
+Entorpecentes Apreendidos:
+Pessoa Relacionada EDVAN RODRIGUES, Tipo de Tóxico Cocaína, Quantidade 105,03 Gramas, Tipo de Acondicionamento Outros, Quantidade Acondicionamento 103, Observação Eppendorfs. LACRE: 0032284." (fl. 16)
+O laudo de exame químico toxicológico (fls. 65/67) corresponde às substâncias mencionadas no exame de constatação de (fl. 17), que, por sua vez, descreve os materiais recebidos e examinados, sendo os itens fotografados a fl. 18, guardando correspondência com a quantidade descrita no boletim de ocorrência de fls. 13/15.
+A inviolabilidade e idoneidade dos objetos apreendidos são presumidos, de forma que cabe à Defesa, caso entenda terem sido maculados os elementos de prova, indicar quais foram adulterados de maneira a amparar sua alegação de nulidade e inutilização.
+ ..
+Houve o correto rastreamento do vestígio, com observância das etapas de coleta, acondicionamento, processamento e armazenamento do material, nos termos do artigo 158-B, do Código de Processo Penal.
+Assim, ausente qualquer indício no sentido de desacreditar a preservação da prova produzida e, consequentemente, existência de violação à cadeia de custódia da prova, não há qualquer irregularidade a ser reconhecida.
+Alega a il. Defesa que a quebra teria ocorrido porque o policial militar, ouvido em juízo, afirmou que a droga foi localizada por outro colega de farda, o qual não foi inquirido judicialmente. Contudo, tal circunstância não evidencia indício de adulteração da prova.
+Os arts. 158-A a 158-F do Código de Processo Penal não impõem a oitiva de todos os agentes que tiveram contato com o vestígio  inclusive do policial responsável pela apreensão  , mas sim a observância e documentação das etapas da cadeia de custódia, notadamente quanto à coleta, ao acondicionamento, ao transporte e à análise do material, de modo a assegurar sua rastreabilidade e integridade.
+Nesse contexto, o acolhimento da tese defensiva de quebra de cadeia de custódia esbarra no óbice da Súmula n. 7 do Superior Tribunal de Justiça, por implicar inevitável reexame do conjunto fático-probatório.
+Por outro lado, no que se refere à pena-base, assiste razão ao recorrente, porquanto, embora se trate de droga de natureza mais gravosa (cocaína), a quantidade apreendida (25,43 g) não se revela expressiva a ponto de justificar a exasperação da reprimenda inicial. Nesse sentido:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS. PENA-BASE. MAJORAÇÃO. IMPOSSIBILIDADE. POUCA DROGA PARA JUSTIFICAR O AUMENTO. AGRAVO DESPROVIDO.
+1. A natureza e a quantidade de droga apreendida (19g de cocaína) não evidenciam maior reprovabilidade do delito a justificar qualquer incremento na pena-base.
+2. Agravo regimental desprovido.
+(AgRg no HC n. 907.707/RS, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 5/8/2025, DJEN de 14/8/2025.)
+Assim, fixada a pena-base no mínimo legal e aplicada a agravante da reincidência na fração de 1/6, a reprimenda final do recorrente resta estabelecida em 5 anos e 10 meses de reclusão, em regime inicial fechado, além do pagamento de 583 dias-multa.
+Ante o exposto, com fundamento no art. 255, § 4º, I e III, do Regimento Interno do STJ, conheço parcialmente do recurso especial e, nesta extensão, dou-lhe provimento para afastar o aumento da pena-base, fixando a reprimenda definitiva em 5 anos e 10 meses de reclusão, em regime inicial fechado, além do pagamento de 583 dias-multa.
+Publique-se.
+Intimem-se.
+EMENTA
