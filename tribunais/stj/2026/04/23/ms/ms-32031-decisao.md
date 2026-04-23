@@ -1,0 +1,27 @@
+DECISÃO
+Cuida-se de mandado de segurança, com pedido de tutela provisória de urgência, impetrado pelo Município do Conde/PR, apontando como autoridade coatora o Ministro do Turismo.
+Relata, em síntese, ter cadastrado a Proposta n. 000328/2026, Processo SEI n. 72031.000720/2026-66, no Ministério do Turismo, visando convênio para "Promoção e Marketing do Turismo no Mercado Nacional", com repasse federal de R$ 600.000,00 (seiscentos mil reais) e contrapartida municipal de R$ 6.000,00 (seis mil reais).
+Contudo, na "Diligência 1" (SEI n. 2751645) exigiu: (i) extrato do CAUC sem pendências (itens 3.8 e 3.9), e (ii) certidão de adimplência de precatórios emitida pelo TRF-5 (fls. 3-4), sendo o prazo fatal e improrrogável para sua assinatura o dia 13/2/2026, sob pena de perda dos recursos.
+Afirma ter cumprido com a determinação perante o TJPB e o TRT-13, ficando uma pendência residual no TRF-5 decorrente do art. 100, § 23, da CRFB, no valor de R$ 20.985,26 (vinte mil, novecentos e oitenta e cinco reais e vinte e seis centavos), calculado pelo próprio TRF-5, cujo pagamento foi realizado via GRU em 12/2/2026, mas a emissão de certidão pelo referido tribunal não ocorrerá em tempo hábil por razões administrativas, gerando alegação de excesso de formalismo e risco de perda do convênio.
+Diante disso, postulou a concessão de tutela provisória para determinar que a autoridade impetrada "se abstenha de considerar as restrições constantes no CAUC e a ausência da certidão de adimplência de precatórios do TRF-5 como óbices à análise, aprovação e celebração do convênio referente à Proposta nº 000328/2026 (Processo SEI nº 72031.000720/2026-66), determinando o imediato prosseguimento do feito administrativo e aceitando, para fins de comprovação da regularidade dos precatórios, a Declaração da gestora municipal acompanhada do comprovante de quitação da GRU apurada pelo próprio TRF-5 e das certidões de adimplência emitidas pelo TJPB e TRT-13, desde que atendidos os demais requisitos de ordem técnica não relacionados a estas pendências" (e-STJ, fl. 10).
+No mérito, requer a concessão da ordem para, confirmando a liminar, para declarar o seu direito líquido e certo de celebrar o convênio e receber os recursos federais.
+A tutela provisória foi indeferida (e-STJ, fls. 210-211) e foram prestadas informações (e-STJ, fls. 22-229, 262-239 e 241-274).
+O Ministério Público ofertou parecer opinando pela denegação da ordem (e-STJ, fls. 276-281).
+Brevemente relatado, decido.
+Nos termos do art. 105, inciso I, alínea "b", da Constituição da República, a competência do Superior Tribunal de Justiça para processar e julgar mandado de segurança limita-se às hipóteses em que os atos coatores forem praticados por Ministro de Estado, Comandantes da Marinha, do Exército e da Aeronáutica ou pelo próprio Tribunal.
+No caso, a detida análise dos autos evidencia a incompetência absoluta desta Corte de Justiça para o julgamento do presente mandado de segurança.
+Conforme dispõe a pacífica jurisprudência do STJ, "a autoridade coatora, para fins de impetração de mandado de segurança, é aquela que pratica ou ordena, de forma concreta e específica, o ato ilegal, ou, ainda, aquela que detém competência para corrigir a suposta ilegalidade, conforme o art. 6º, § 3º, da Lei 12.016/2009" (AgInt no RMS 63.582/DF, relator Ministro Benedito Gonçalves, Primeira Turma, DJe 10/6/2021).
+Da leitura das alegações formuladas no writ, verifica-se que não há nenhum ato que possa ser atribuído ao Ministro do Turismo, pois, na verdade, a impetração se volta contra atos praticados pelas unidades técnicas do Ministério do Turismo, as quais exerceram suas competências ordinárias e manifestaram a impossibilidade de formalização do instrumento.
+O próprio documento juntado pelo impetrante e apontado como ato coator não é assinado ou redigido pela autoridade apontada como coatora, mas, sim, pela Coordenadora-Geral de Fomento a Eventos Turísticos, sendo inadmissível que atribua tal ato à autoridade superior, de modo que resta afastada a competência originária desta Corte Superior para processar e julgar o presente feito, nos termos do art. 105, inciso I, alínea "b", da Constituição da República.
+Nesse sentido:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO MANDADO DE SEGURANÇA. CÓDIGO DE PROCESSO CIVIL DE 2015. APLICABILIDADE. INEXISTÊNCIA DE ATO COMISSIVO OU OMISSIVO ATRIBUÍVEL À AUTORIDADE IMPETRADA. ILEGITIMIDADE PASSIVA. TEORIA DA ENCAMPAÇÃO. AUSÊNCIA DOS REQUISITOS AUTORIZADORES. INCOMPETÊNCIA DO SUPERIOR TRIBUNAL DE JUSTIÇA. ARGUMENTOS INSUFICIENTES PARA DESCONSTITUIR A DECISÃO ATACADA. APLICAÇÃO DE MULTA. ART. 1.021, § 4º, DO CÓDIGO DE PROCESSO CIVIL DE 2015. DESCABIMENTO.
+(..)
+II - Não foi atribuído ato comissivo ou omissivo à Autoridade Impetrada, resultando na sua ilegitimidade passiva.
+III - Havendo o ato apontado como coator sido praticado por autoridade diversa do rol do art. 105, I, b, da Constituição da República, bem como manifestação da autoridade impetrada apenas quanto à ilegitimidade passiva, resta afastada a competência originária desta Corte. Súmula n. 628/STJ.
+(..)
+VI - Agravo Interno improvido.
+(AgInt no MS n. 29.662/DF, Rel. Min. Regina Helena Costa, Primeira Seção, DJe de 7/3/2024)
+Ante o exposto, indefiro a petição inicial do mandado de segurança.
+Publique-se.
+EMENTA
+MANDADO DE SEGURANÇA. PROCESSUAL CIVIL. INEXISTÊNCIA DE ATO PRATICADO PELO MINISTRO DE ESTADO ARROLADO NO POLO PASSIVO. ILEGITIMIDADE PASSIVA. INCOMPETÊNCIA DO STJ. WRIT INDEFERIDO.
