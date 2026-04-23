@@ -1,0 +1,24 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de HERIVELTON DA SILVA VIEIRA, contra acórdão prolatado pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO.
+Consta nos autos que o paciente está preso preventivamente desde 02/10/2025 pela suposta prática do crime de tráfico de drogas.
+Irresignada, a defesa impetrou habeas corpus perante o Tribunal de Justiça de origem, que denegou a ordem em acórdão às fls. 105-110.
+Neste writ, o impetrante sustenta, em suma, a ausência de fundamentação da decisão que decretou a prisão preventiva em desfavor do paciente ponderando suas condições pessoais favoráveis.
+Aduz, ainda, que em eventual condenação o paciente cumprirá pena em regime aberto.
+Requer a revogação da prisão preventiva ou, subsidiariamente, sua substituição por medidas cautelares diversas.
+Liminar indeferida às fls. 310-311.
+Informações prestadas às fls. 316-318.
+O Ministério Público Federal em parecer, às fls. 320-325, opinou pela denegação da ordem.
+É  o  relatório. DECIDO.
+In casu, a prisão preventiva do paciente se encontra devidamente fundamentada em dados concretos extraídos dos autos, que evidenciam a necessidade de encarceramento provisório, para a garantia da ordem pública diante da gravidade concreta da conduta e do risco de reiteração criminosa, haja vista que; além de ter sido apreendido em seu poder substancial quantidade de droga, consistente em 441g (quatrocentos e quarenta e um gramas) de maconha, ele teria sido "preso em flagrante delito pelo mesmo crime há cerca de uma semana, já tendo sido beneficiado com a liberdade provisória (p. 52) e, ainda assim, voltou a delinquir" (fl. 29).
+Tais circunstâncias demonstram a periculosidade do agente, justificando a segregação cautelar em seu desfavor.
+Sobre o tema:
+"São fundamentos idôneos para a decretação da segregação cautelar no caso de tráfico ilícito de entorpecentes a quantidade, a variedade ou a natureza das drogas apreendidas, bem como a gravidade concreta do delito, o modus operandi da ação delituosa e a periculosidade do agente" (AgRg no HC n. 751.585/SP, relator Ministro João Otávio de Noronha, Quinta Turma, julgado em 27/9/2022, DJe de 30/9/2022)
+"A prisão preventiva, mantida pela sentença e pelo acórdão recorrido, encontra-se devidamente fundamentada em elementos concretos, como a expressiva quantidade de drogas apreendidas (511g de maconha) e o razoável envolvimento com a criminalidade, evidenciando a periculosidade do agente e o risco de reiteração delitiva" (AgRg no RHC n. 206.998/MA, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 4/2/2025, DJEN de 13/2/2025)
+"A prisão preventiva encontra-se fundamentada em elementos concretos extraídos dos autos, notadamente a expressiva quantidade de droga apreendida (544,30g de maconha), além da apreensão de balança de precisão, embalagens para acondicionamento de entorpecentes e telefone celular" (AgRg no HC n. 992.539/MG, relator Ministro Carlos Cini Marchionatti (Desembargador Convocado TJRS), Quinta Turma, julgado em 21/5/2025, DJEN de 26/5/2025.)
+"Consoante sedimentado em farta jurisprudência desta Corte Superior, maus antecedentes, reincidência, atos infracionais pretéritos ou até mesmo outras ações penais em curso justificam a imposição de segregação cautelar como forma de evitara reiteração delitiva e, assim, garantir a ordem pública" (AgRg no HC n. 884.146/PE, relator Ministro Joel Ilan Paciornik, Quinta Turma, DJe de 26/6/2024.)
+No mais, cumpre consignar que condições pessoais favoráveis, tais como primariedade, ocupação lícita e residência fixa, não têm o condão de, por si sós, garantirem ao paciente a revogação da prisão preventiva se há nos autos elementos hábeis a recomendar a manutenção de sua custódia cautelar. Pela mesma razão, não há que se falar em possibilidade de aplicação de medidas cautelares diversas da prisão, o que ocorre na hipótese.
+Quanto à alegação de que, em caso de condenação terá direito a regime diverso do fechado, deve-se ressaltar que não se presta a via do habeas corpus para análise de desproporcionalidade da prisão em face de eventual condenação do réu, uma vez que tal exame só poderá ser realizado pelo Juízo de primeiro grau, após cognição exauriente de fatos e provas do processo, a fim de definir, se for o caso, a pena e o regime a serem aplicados. A jurisprudência desta Corte se firmou no sentido de que:
+"O argumento de desproporcionalidade da custódia cautelar à provável futura pena do paciente não comporta acolhimento, pois apenas a conclusão do processo será capaz de revelar se o acusado será beneficiado com a fixação de regime prisional diverso do fechado, sendo inviável essa discussão neste momento processual" (AgRg no HC n. 779.709/MG, relator Ministro Ribeiro Dantas, Quinta Turma .)
+Ante o exposto, denego a ordem.
+Publique- se. Intimem-se.
+EMENTA
