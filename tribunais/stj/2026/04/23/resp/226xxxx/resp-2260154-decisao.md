@@ -1,0 +1,57 @@
+DECISÃO
+Trata-se de Recurso Especial interposto por ANÍZIO CORRÊA DOS SANTOS, com fundamento no art. 105, III, a e c, da Constituição Federal, contra acórdão proferido pelo Tribunal de Justiça do Estado do Paraná, nos autos da Ação Declaratória de Isenção de Imposto de Renda e Contribuição Previdenciária cumulada com Repetição de Indébito.
+O acórdão recorrido está assim ementado (fls. 261-263):
+DIREITO TRIBUTÁRIO. APELAÇÃO CÍVEL E REMESSA NECESSÁRIA. ISENÇÃO DE IMPOSTO DE RENDA E CONTRIBUIÇÃO PREVIDENCIÁRIA. DOENÇA GRAVE. NEOPLASIA MALIGNA. SERVIDOR APOSENTADO ANTES DA EC 45/2019. PORTADOR DE MOLÉSTIA GRAVE ANTES DA EC 45/2019. AUSÊNCIA DE LITISCONSÓRCIO PASSIVO NECESSÁRIO COM A PARANAPREVIDÊNCIA. PRESCRIÇÃO QUINQUENAL. CORREÇÃO MONETÁRIA PELO FCA E JUROS PELA SELIC. HONORÁRIOS MAJORADOS. SENTENÇA CONFIRMADA EM PARTE EM REMESSA NECESSÁRIA, PARA DECLARAR EXPRESSAMENTE A PRESCRIÇÃO DAS PARCELAS VENCIDAS HÁ MAIS DE CINCO ANOS DA DATA DE AJUIZAMENTO DA AÇÃO. APELAÇÃO CONHECIDA E NÃO PROVIDA.
+I. CASO EM EXAME
+1.1 Ação ajuizada por servidor público estadual aposentado desde 1983, diagnosticado com neoplasia maligna da próstata desde 2007, postulando isenção de imposto de renda e contribuição previdenciária incidentes sobre proventos de aposentadoria, bem como repetição de indébito tributário relativo aos cinco anos anteriores ao ajuizamento da ação.
+1.2 Sentença de procedência reconhecendo as isenções pleiteadas e condenando o Estado do Paraná à restituição dos valores descontados indevidamente, com correção monetária e juros.
+1.3 Apelação cível interposta pelo Estado do Paraná, sustentando nulidade da sentença por ausência de citação da Paranaprevidência, e, no mérito, postulando a limitação da isenção à data do requerimento administrativo.
+II. QUESTÕES EM DISCUSSÃO
+2.1 Há quatro questões em discussão: (i) examinar se a ausência de citação da Paranaprevidência enseja nulidade da sentença por litisconsórcio passivo necessário; (ii) verificar se é cabível a isenção do imposto de renda desde a data do diagnóstico da doença grave; (iii) analisar se o servidor aposentado anteriormente à EC 45/2019 e diagnosticado com moléstia grave antes de sua entrada em vigor faz jus à isenção da contribuição previdenciária; e (iv) revisar se é devida a restituição dos valores pagos nos cinco anos anteriores ao ajuizamento da ação, bem como os consectários legais aplicáveis.
+III. RAZÕES DE DECIDIR
+3.1 O artigo 26 da Lei Estadual nº 17.435/2012 não impõe litisconsórcio passivo necessário em ações que tratam de isenção de tributos, por não se tratar de revisão ou concessão de benefício previdenciário.
+3.2 O Estado do Paraná é legitimado para responder pela retenção na fonte do imposto de renda, conforme a Súmula 447 do Superior Tribunal de Justiça.
+3.3 A isenção de imposto de renda por moléstia grave é prevista no artigo 6º, XIV, da Lei nº 7.713/1988, sendo suficiente o diagnóstico médico para fixação do termo inicial.
+3.4 A Emenda Constitucional Estadual nº 45/2019 assegura, em seu artigo 129, IV, "b", o direito à isenção da contribuição previdenciária aos servidores aposentados portadores de moléstia grave antes de sua entrada em vigor, o que é o caso dos autos.
+3.5 A repetição de indébito limita-se ao quinquênio anterior ao ajuizamento, com base no artigo 168, I, do CTN.
+3.6 Os consectários legais devem observar o art. 37 da Lei Estadual nº 11.580/1996 e o Tema 905 do STJ, com correção monetária pelo FCA e, a partir do trânsito em julgado, aplicação exclusiva da taxa SELIC.
+3.7 Honorários advocatícios majorados nos termos do artigo 85, § 11, do CPC.
+IV. DISPOSITIVO E TESE
+Apelação conhecida e desprovida. Sentença confirmada em parte na remessa necessária, com a complementação da sentença para declarar expressamente a prescrição das parcelas vencidas antes de 14 de novembro de 2019.
+Tese de julgamento: "O servidor aposentado antes da Emenda Constitucional Estadual nº 45/2019, diagnosticado com moléstia grave anteriormente à sua vigência, faz jus à isenção da contribuição previdenciária, ainda que a legislação posterior a tenha revogado. A isenção do imposto de renda, nos termos do art. 6º, XIV, da Lei nº 7.713 /1988, tem como termo inicial a data do diagnóstico da doença, dispensada a contemporaneidade dos sintomas e o laudo oficial. A ausência de citação da Paranaprevidência não acarreta nulidade em ações tributárias que não envolvem concessão ou revisão de benefícios previdenciários."
+O recorrente, além de dissídio jurisprudencial, alega violação dos arts. 165, I e II, e 168, I, do Código Tributário Nacional, quando o acórdão, ao reconhecer a prescrição quinquenal, fixou marco temporal incompatível com o prazo legal, reduzindo indevidamente o período de repetição do indébito. Argumenta a aplicação da orientação consolidada na Súmula 85/STJ ao caso dos autos.
+Contrarrazões a fls. 305-308, alegando os óbices das Súmulas 211/STJ, 282/STF e 7/STJ.
+Juízo positivo de admissibilidade a fls. 309/310.
+É o relatório. Decido.
+Tendo o recurso sido interposto contra decisão publicada na vigência do Código de Processo Civil de 2015, devem ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+Na origem, o recorrente, servidor público estadual aposentado desde 1983, diagnosticado com neoplasia maligna da próstata desde 2007, ajuizou demanda visando ao reconhecimento da isenção do imposto de renda e da contribuição previdenciária incidentes sobre seus proventos, bem como à restituição dos valores indevidamente descontados nos cinco anos anteriores ao ajuizamento da ação.
+A sentença julgou procedentes os pedidos, reconhecendo as isenções pleiteadas e condenando o Estado do Paraná à repetição do indébito, observada a prescrição quinquenal.
+Interposta apelação pelo ente estadual, o Tribunal de origem manteve, em essência, a sentença, mas, em sede de remessa necessária, declarou expressamente prescritas as parcelas vencidas antes de 14/11/2019, considerando que a ação foi ajuizada em 14/11/2023.
+A controvérsia devolvida a esta Corte restringe-se à correta fixação do marco prescricional aplicável à repetição de indébito tributário, em hipótese de relação jurídica de trato sucessivo, na qual o próprio Tribunal de origem reconheceu a incidência da prescrição quinquenal prevista no art. 168, I, do CTN.
+Inicialmente, afasta-se qualquer óbice de admissibilidade relacionado ao prequestionamento.
+O acórdão recorrido enfrentou expressamente a matéria prescricional, aplicando de forma direta o art. 168, I, do Código Tributário Nacional, ao consignar que a repetição do indébito estaria limitada ao quinquênio anterior ao ajuizamento da ação.
+A controvérsia não decorre de omissão, mas de aplicação equivocada da norma federal, circunstância que, segundo a jurisprudência pacífica desta Corte, dispensa a oposição de embargos de declaração para fins de prequestionamento, quando o dispositivo legal foi efetivamente utilizado como fundamento decisório.
+Assim, encontra-se atendido o requisito do prequestionamento.
+Também não incide, na espécie, o óbice da Súmula 7/STJ.
+A revisão pretendida não demanda reexame do conjunto fático-probatório, uma vez que: (i) a data de ajuizamento da ação (14/11/2023) é incontroversa; (ii) o reconhecimento da prescrição quinquenal foi expressamente afirmado pelo Tribunal de origem; (iii) a controvérsia limita-se à correta aplicação do direito objetivo ao marco temporal já fixado.
+Trata-se, portanto, de controvérsia em torno de alegado erro de subsunção normativa, plenamente sindicável em sede de Recurso Especial.
+Pois bem.
+O art. 168, I, do Código Tributário Nacional dispõe que o direito de pleitear a restituição extingue-se com o decurso do prazo de cinco anos, contados da data da extinção do crédito tributário.
+Nas hipóteses de relações jurídicas de trato sucessivo, em que não houve negativa do próprio direito - caso dos autos -, esta Corte firmou entendimento no sentido de que a prescrição atinge apenas as parcelas vencidas antes dos cinco anos que antecedem o ajuizamento da ação, conforme cristalizado na Súmula 85/STJ.
+Assim consignou (fl. 280):
+Na hipótese sob exame, é importante reiterar que o requerente cumpriu os requisitos da isenção antes da entrada em vigor da Emenda Constitucional Estadual nº 49/2019, de modo que deve ser reconhecido o direito à causa de exclusão de crédito tributário sobre proventos de aposentadoria. Nesse passo, a sentença deve ser referendada também nesse ponto.
+Da Prescrição
+O requerente postulou pela restituição do indébito em observância à prescrição quinquenal (mov. 1.1), o que também constou no dispositivo da sentença (mov. 48.1): "Por conseguinte, condeno o Estado do Paraná à repetição do indébito tributário ao autor, respeitada a prescrição quinquenal, retroativa à data de propositura desta ação". Isso posto, apenas para complementar o julgado, impõe-se fixar o termo inicial e reconhecer expressamente a prescrição do direito à repetição do indébito.
+Como indicado pelo requerente e pelo magistrado a quo, o prazo para exercer o direito de repetição do indébito tributário é de cinco anos, nos termos do artigo 168, inciso I, do Código Tributário Nacional:
+ ..
+A ação foi ajuizada em 14 de novembro de 2023. Dessa forma, deve-se declarar a prescrição do direito à repetição dos tributos retidos indevidamente antes de 14 de novembro de 2019.
+No caso concreto, o Tribunal de origem: (i) reconheceu expressamente a incidência da prescrição quinquenal; (ii) fixou o ajuizamento da ação em 14/11/2023; (iii) declarou prescritas as parcelas vencidas antes de 14/11/2019.
+Ocorre que tal conclusão não se harmoniza com a premissa jurídica adotada, pois a correta aplicação do prazo quinquenal impõe a retroação até 14/11/2018, e não até 14/11/2019.
+Com efeito, ajuizada a ação em 14/11/2023, a repetição do indébito deve alcançar as parcelas indevidamente recolhidas a partir de 14/11/2018, e não de 2019, sob pena de redução indevida do quinquênio legal previsto no art. 168, I, do CTN.
+A fixação realizada pelo acórdão recorrido resulta em redução indevida do prazo legal, criando hipótese de prescrição inferior a cinco anos, inexistente no ordenamento jurídico tributário.
+Reconhecido o equívoco na fixação do marco prescricional, impõe-se a reforma do acórdão recorrido, para declarar que a repetição do indébito deve alcançar as parcelas indevidamente recolhidas a partir de 14/11/2018, observada a prescrição quinquenal.
+Ante o exposto, dou provimento ao Recurso Especial, para reformar o acórdão recorrido e fixar como marco prescricional da repetição do indébito a data de 14 de novembro de 2018, mantidos os demais termos da decisão.
+Majoro em 10 % (dez por cento) o percentual dos honorários sucumbenciais acrescido pela Corte de origem no acórdão recorrido (fl. 286), respeitando-se os limites e parâmetros dos §§ 2º, 3º e 11 do artigo 85 do CPC/2015.
+Publique-se. Intimem-se.
+EMENTA
+RECURSO ESPECIAL. TRIBUTÁRIO. REPETIÇÃO DE INDÉBITO. ISENÇÃO DE IMPOSTO DE RENDA E CONTRIBUIÇÃO PREVIDENCIÁRIA. RELAÇÃO DE TRATO SUCESSIVO. PRESCRIÇÃO QUINQUENAL. ART. 168, I, DO CTN. ACÓRDÃO QUE RECONHECE O PRAZO DE CINCO ANOS, MAS FIXA MARCO TEMPORAL INFERIOR AO QUINQUÊNIO LEGAL. DESCONFO RMIDADE NA SUBSUNÇÃO NORMATIVA. MATÉRIA PREQUESTIONADA. INEXISTÊNCIA DE REEXAME FÁTICO-PROBATÓRIO. RECURSO ESPECIAL PROVIDO PARA FIXAR O TERMO INICIAL DA REPETIÇÃO NO QUINQUÊNIO ANTERIOR AO AJUIZAMENTO DA AÇÃO.
