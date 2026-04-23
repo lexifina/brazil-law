@@ -1,0 +1,42 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em favor de RIAN PABLO DOS SANTOS contra acórdão prolatado pelo Tribunal de Justiça do Estado de São Paulo, assim ementado:
+Habeas Corpus. Art. 157, § 2º, incisos II e V, e § 2º-A, inciso I; art. 288, parágrafo único, ambos do Código Penal; e art. 14 da Lei nº 10.826/2003. Pleito de revogação da prisão preventiva por excesso de prazo e ausência de fundamentação. Impossibilidade. Decisão devidamente fundamentada. Pressupostos da segregação cautelar presentes. Necessidade de manutenção da cautelar para garantia da ordem pública. Fatos marcados pelo emprego de grave ameaça e restrição da liberdade da vítima, além da reincidência do paciente. Insuficiência de medidas cautelares diversas da prisão. Excesso de prazo não configurado. Aferição que deve observar o princípio da razoabilidade. Feito de caráter complexo, com oito réus. Trâmite processual regular, sem desídia do Judiciário, aguardando a apresentação de respostas à acusação por corréus. Ordem denegada.
+Consta dos autos que o paciente foi preso preventivamente pela suposta prática do crime previsto no artigo 157 § 2º, incisos II, V, e §2-A, inciso I e no artigo 288, parágrafo único, ambos do Código Penal, com relação à vítima Nilton Ricardo Rodrigues, e no artigo 157 § 2º, incisos II, V, e §2-A, inciso I e no artigo 288, parágrafo único, ambos do Código Penal com relação à vítima Sabesp, ambas capitulações na forma do artigo 70 do Código Penal, e ainda no artigo 288, parágrafo único e artigo 14 da Lei n. 10.826/2003, todos os delitos na forma do artigo 69 do Código Penal.
+No habeas corpus impetrado na origem, o Tribunal local denegou a ordem.
+No presente writ, o impetrante sustenta o excesso de prazo na formação da culpa, afirmando que o paciente se encontra preso há meses sem início da instrução, sem contribuição da defesa e sem complexidade na causa.
+Destaca a ilegalidade da prisão preventiva por ausência de fundamentação concreta, fundada em motivos genéricos de ordem pública e gravidade abstrata, em afronta à presunção de inocência e ao art. 93, IX, da Constituição.
+Ressalta as condições pessoais favoráveis do paciente e violação aos princípios da dignidade da pessoa humana e da razoável duração do processo, com pedido de relaxamento da prisão por excesso de prazo.
+Requer a expedição de alvará de soltura, com concessão de liberdade provisória, inclusive mediante medidas cautelares do art. 319, incisos I ou III, do CPP.
+É o relatório.
+A Quinta Turma do Superior Tribunal de Justiça firmou entendimento no sentido de ser inadequada a impetração de habeas corpus quando utilizado em substituição a recurso próprio.
+A teor do disposto no art. 105, II, "a", da CF/88, o recurso cabível contra acórdão que denega a ordem na origem é o recurso ordinário, enquanto que, consoante previsto no art. 105, III, da CF, contra acórdão que julga a apelação, o recurso em sentido estrito e o agravo em execução, cabe recurso especial.
+Nada impede, contudo, constatada a existência de ilegalidade flagrante, abuso de poder ou teratologia, a concessão de habeas corpus de ofício, nos termos do art. 654, § 2º, do Código de Processo Penal, o que ora passa-se a examinar.
+Extrai-se da decisão que decretou a custódia cautelar (fl. 30-31):
+Em relação aos demais custodiados, LUCAS, RIAN e MICHAEL, é o caso de conversão do flagrante em preventiva.
+Com efeito, emergem do auto de prisão em flagrante a prova da materialidade do delito e indícios suficientes de autoria, como se vê do boletim de ocorrência (fls. 3/17), auto de apreensão dos fios (fls. 103/106) e testemunhas (fls. 25/27, 29/31, 32/35, 36/37 e 38/40).
+Satisfeito, ainda, o requisito do art. 313, inciso I, uma vez que o crime flagrado é punido com pena privativa de liberdade superior a 4 anos.
+Assim, em relação aos custodiados LUCAS, RIAN e MICHAEL, o resguardo da ordem pública mostra-se premente ante a reincidência, como se vê da FA de fls. 204/206, 207/211 e 212/214, aptos a denotar risco de reiteração criminosa e a periculosidade do agente, conforme entendimento do e. STJ de que "a preservação da ordem pública justifica a imposição da prisão preventiva quando o agente possuir maus antecedentes, reincidência, atos infracionais pretéritos, inquéritos ou mesmo ações penais em curso, porquanto tais circunstâncias denotam sua contumácia delitiva e, por via de consequência, sua periculosidade." (HC 714.681/SP, Rel. Ministro ANTONIO SALDANHA PALHEIRO, SEXTA TURMA, julgado em 26/04/2022, D Je 02/05/2022).
+Acresça-se que as aventadas condições pessoais favoráveis, como primariedade, bons antecedentes, residência fixa, emprego, dentre outras, são insuficientes, por si sós, para ensejar a liberdade, uma vez satisfeitos os requisitos da segregação cautelar, conforme entendimento do e. Tribunal de Justiça de São Paulo (TJSP; Habeas Corpus Criminal 2323110-18.2023.8.26.0000; Relator (a): Edison Brandão; Órgão Julgador: 4ª Câmara de Direito Criminal; Foro de Mogi das Cruzes - 3ª Vara Cível; Data do Julgamento: 09/01/2024; Data de Registro: 09/01/2024).
+No mais, diante dos elementos indicativos do perigo concreto gerado pelo estado de liberdade do custodiado, a imposição de medidas cautelares diversas da prisão apresenta-se insuficiente para garantia da ordem pública.
+A prisão preventiva deve ser decretada apenas em casos excepcionais, quando demonstrada a necessidade de garantir a ordem pública, a instrução criminal ou a aplicação da lei penal, conforme art. 312 do CPP.
+No caso, verifica-se que a prisão preventiva foi mantida nas instâncias ordinárias por evidenciar-se a insuficiência de medidas cautelares diversas da prisão diante do conjunto fático, pois, além da gravida concreta do delito, o paciente é reincidente, o que agrava sua periculosidade e demonstra sua dedicação a atividades criminosas.
+Assim, a decretação da prisão preventiva mostra-se necessária para evitar a reiteração delitiva e resguardar a ordem pública, diante da periculosidade elevada do paciente.
+Nesse sentido, destaco julgado de relatoria do Ministro Ribeiro Dantas:
+DIREITO PROCESSUAL PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO E ASSOCIAÇÃO PARA O TRÁFICO DE DROGAS. PRISÃO PREVENTIVA. GARANTIA DA ORDEM PÚBLICA. RECURSO IMPROVIDO.
+ ..
+8. A jurisprudência desta Corte reconhece que a persistência do agente na prática criminosa justifica a decretação da prisão preventiva, nos termos do art. 312 do CPP, para garantir a ordem pública.
+9. A aplicação de medidas cautelares alternativas à prisão é inviável, pois não seria suficiente para acautelar a ordem pública diante da periculosidade do agravante.
+(AgRg no HC n. 1.027.324/GO, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 15/10/2025, DJEN de 22/10/2025.)
+Ademais, a alegação de excesso de prazo não prospera, pois a aferição exige juízo de razoabilidade, considerando a complexidade do caso, envolvendo diversos réus, com diligência de quebra de sigilo de dados telemáticos e telefônicos pendente, bem como pela ausência de resposta à acusação de seis corréus, o que impede o prosseguimento da instrução penal.
+A propósito:
+DIREITO PROCESSUAL PENAL. PEDIDO DE RECONSIDERAÇÃO RECIBIDO COMO AGRAVO REGIMENTAL NO HABEAS CORPUS. PRISÃO PREVENTIVA. EXCESSO DE PRAZO. REQUISITOS LEGAIS. AGRAVO REGIMENTAL NÃO PROVIDO. I. CASO EM EXAME  ..
+8. A alegação de excesso de prazo não prospera, pois a aferição exige juízo de razoabilidade, considerando a complexidade do caso e a movimentação processual constante, com designação de audiência de instrução e julgamento.
+ ..
+1. A prisão preventiva é justificada pela garantia da ordem pública e pela aplicação da lei penal quando há risco de reiteração delitiva e gravidade concreta da conduta. 2. A alegação de excesso de prazo deve ser analisada à luz do princípio da razoabilidade, considerando a complexidade do caso e a movimentação processual.  ..
+(RCD no HC n. 1.042.328/ES, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 25/3/2026, DJEN de 30/3/2026.)
+Por fim, as circunstâncias que envolvem o fato demonstram que outras medidas previstas no art. 319 do Código de Processo Penal são insuficientes para a consecução do efeito almejado. Além do mais, condições pessoais favoráveis, por si só, não obstam a segregação cautelar quando presentes os requisitos legais.
+Não há, portanto, flagrante ilegalidade que justifique a concessão de habeas corpus de ofício.
+Ante o exposto, não conheço do habeas corpus.
+Publique-se.
+Intimem-se.
+EMENTA
