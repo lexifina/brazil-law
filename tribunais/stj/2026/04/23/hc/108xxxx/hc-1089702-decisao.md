@@ -1,0 +1,16 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em nome de GABRIEL FREIRE DOMINGOS, preso preventivamente e acusado pela prática dos crimes previstos no art. 33 da Lei n. 11.343/2006 e no art. 329 do Código Penal (Processo n. 5004186-25.2025.8.13.0112, da Vara Criminal da comarca de Campo Belo/MG).
+O impetrante aponta como autoridade coatora a Desembargadora do Tribunal de Justiça de Minas Gerais, que, em 10/4/2026, indeferiu o pedido liminar formulado no HC n. 1.0000.26.156123-7/000.
+Alega a existência de prova irrefutável - vídeos aerofotogramétricos (IDs 10639648302 e 10639645456) que demonstrariam a impossibilidade física de visualização dos fatos tal como narrados pelos policiais, tornando materialmente falsos os depoimentos e afastando qualquer suporte probatório lícito.
+Sustenta perigo de irreversibilidade - iminência de sentença condenatória sem apreciação da nulidade suscitada -, com dano grave e de difícil reparação, ensejando a necessidade de suspensão imediata do processo criminal, existindo, portanto, questão prejudicial de nulidade de prova pendente de resolução .
+Em caráter liminar, pede a suspensão do trâmite do processo n. 5004186-25.2025.8.13.0112, com vedação à prolação de sentença até o julgamento definitivo do writ. No mérito, requer o reconhecimento da nulidade dos depoimentos dos policiais militares Renan Resende Gomide e Maicon Janilson Agostinho Gomes, o desentranhamento dos autos e a invalidação das provas delas derivadas, com aplicação da teoria dos frutos da árvore envenenada, e, por consequência, o trancamento da ação penal por ausência de justa causa; subsidiariamente, pleiteia a absolvição com fundamento no art. 386, VII, do Código de Processo Penal.
+É o relatório.
+Na espécie, aplica-se o enunciado da Súmula 691/STF, observado também por esta Corte, segundo o qual "não compete ao Supremo Tribunal Federal conhecer de habeas corpus impetrado contra decisão do relator que, em habeas corpus requerido a tribunal superior, indefere a liminar."
+Com efeito, as questões trazidas na impetração não foram ainda enfrentadas pelo colegiado competente, não se admitindo a pretendida supressão de instância.
+Esse posicionamento pode ser afastado apenas em situações excepcionais, se evidenciada dos autos a configuração de flagrante ilegalidade ou abuso de poder, o que não ocorreu no caso em tela, diante das particularidades mencionadas no decisum impugnado.
+Ressalto que, na via estreita do habeas corpus, o trancamento da ação penal somente se viabiliza quando, pelo simples exame dos fatos constantes na peça acusatória, constata-se a sua atipicidade ou a inexistência de qualquer indício de ser o acusado autor do delito, o que não é o caso dos autos, além de não ser possível, em cognição sumária, o amplo exame de fatos e provas.
+Ante o exposto, com base no art. 210 do RISTJ, indefiro liminarmente o presente habeas corpus.
+Publique-se.
+EMENTA
+DIREITO PENAL E PROCESSUAL PENAL. HABEAS CORPUS. TRÁFICO DE DROGAS. APLICAÇÃO DA SÚMULA 691/STF . SUPRESSÃO DE INSTÂNCIA. AUSÊNCIA DE FLAGRANTE ILEGALIDADE. VIA ESTREITA. IMPOSSIBILIDADE DE TRANCAMENTO. INEVIDÊNCIA DE ATIPICIDADE COGNIÇÃO SUMÁRIA. INADMISSIBILIDADE DE EXAME APROFUNDADO DE FATOS E PROVAS.
+Indeferimento liminar do habeas corpus.
