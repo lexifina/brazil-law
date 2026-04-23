@@ -1,0 +1,39 @@
+DESPACHO
+
+Trata-se de Execução Penal autuada face de GERMANO SIQUEIRA LUBE JUNIOR , decorrente da Ação Penal 2.437/DF , julgada procedente, para CONDENAR O RÉU à pena de 14 (quatorze) anos, sendo 12 (doze) anos e 6 (seis) meses de reclusão e 1 (um) ano e 6 (seis) meses de detenção, além de 100 (cem) dias-multa, cada dia-multa no valor de 1/3 (um terço) do salário mínimo nacional, em regime inicial fechado para o início do cumprimento da pena, pois incuro nos artigos:
+
+- 359-L (abolição violenta do Estado Democrático de Direito) do Código Penal, à pena de 4 (quatro) anos e 6 (seis) meses de reclusão;
+- 359-M (Golpe de Estado) do Código Penal, à pena de 5 (cinco) anos de reclusão;
+- 163, parágrafo único, I, II, III e IV (dano qualificado), do Código Penal, à pena de 1 (um) ano e 6 (seis) meses de detenção e 50 (cinquenta) dias-multa, fixando cada dia-multa em 1/3 (um terço) do salário mínimo;
+- 62, I (deterioração do Patrimônio tombado), da Lei 9.605/1998, à pena de 1 (um) ano e 6 (seis) meses de detenção e 50 (cinquenta) dias-multa, fixando cada dia-multa em 1/3 (um terço) do salário mínimo;
+- 288, parágrafo único (associação criminosa armada), do Código Penal, à pena de 1 (um) ano e 6 (seis) meses de reclusão.
+
+O réu também foi condenado ao pagamento do valor mínimo indenizatório a título de danos morais coletivos de R$ 30.000.000,00 (trinta milhões de reais), a ser adimplido de forma solidária pelos demais condenados, em favor do fundo a que alude o art. 13 da Lei 7.347/1985.
+Foi fixado o regime fechado para o início do cumprimento da pena.
+O acórdão condenatório transitou em julgado em 14/6/2025 (eDoc. 106).
+Determinei, em 7/7/2025, o início da execução da pena de GERMANO SIQUEIRA LUBE JUNIOR, razão pela qual foi autuada a presente Execução Penal (eDoc. 107).
+Em 6/10/2025, o Juízo da 2ª Vara Criminal da Comarca de Viana/ES encaminhou as certidões para análise e deliberação para fins de remição do executado referente ao período compreendido entre maio e julho de 2025. (eDoc. 122).
+Após, manifestação da PGR (eDoc. 125), deferi o pedido para homologar a remição de 23 (vinte e três) dias da pena do reeducando, registrado que o tempo remanescente de 2 dias trabalhados poderá ser calculado para os cálculos de futuras atividades laborais.
+Em 16/12/2025,  homologuei 25 (vinte e cinco) dias de remição de pena, em razão de atividades literárias; e determinei a expedição de novo atestado de pena a cumprir, observada a remição ora homologada, com atualização dos cálculos e ciência ao sentenciado, a ser realizada pelo Juízo da Vara de Execuções Penais e Corregedoria dos Presídios de Maringá/PR, local onde encontra-se o custodiado, com posterior envio a este SUPREMO TRIBUNAL (eDoc. 140).
+Em 14/04/2026, a Procuradoria-Geral da República se manifestou: “a) pelo reconhecimento do direito de Germano Siqueira Lube Junior à remição de 23 dias da sua pena, em razão do trabalho por ele realizado no estabelecimento prisional, no período de novembro de 2025 a janeiro de 2026; b) pela remição de 80 dias em razão da aprovação parcial do apenado no ENEM PPL 2025, sem o acréscimo de 1/3 a que se refere o art. 126, § 5º, da LEP; e c) pela expedição de ofício ao Juízo da 2ª Vara Criminal da Comarca de Viana/ES, para que determine ao estabelecimento penal a comprovação da existência de autorização ou convênio da instituição de ensino realizadora do curso “Assistente de Segurança do Trabalho” com o Poder Público, e de que integra projeto político-pedagógico da unidade prisional” (eDoc. 152) .
+GERMANO SIQUEIRA LUBE JUNIOR tem 42 (quarenta e dois) anos. Cumpriu, até o presente momento, 1 (um) ano, 1 (um) mês e 2 (dois) dias de pena, e foram homologados 48 (quarenta e oito) dias de remição de pena. O apenado cumpre a pena total de 14 (quatorze) anos, em regime inicial fechado.
+
+É o relatório. DECIDO.
+
+O mesmo artigo, em seu § 1º, determina que a contagem será feita à razão de 1 (um) dia de pena a cada 3 (três) dias de trabalho e de um dia de pena para cada 12 (doze) horas de frequência escolar, compreendidas atividades de ensino fundamental, médio, profissionalizante, superior, ou ainda de requalificação profissional.
+Na hipótese, o estabelecimento penal certificou que o sentenciado Germano Siqueira Lube Júnior exerceu atividades de marcenaria no período de novembro de 2025 a janeiro de 2026 (eDocs. 149/150). Conforme os controles de frequência devidamente juntados aos autos (eDocs. 149/150), o total de dias trabalhados foi de 69 (sessenta e nove) dias. Desta forma, o tempo trabalhado corresponde a 23 (vinte e três) dias de remição de pena, na medida em que a cada três dias de trabalho será remido um dia de pena (Lei nº 7.210/84, art. 126, § 1º, II), em conformidade com o parecer da Procuradoria-Geral da República.
+No tocante à remição pela aprovação no Exame Nacional do Ensino Médio (ENEM), a jurisprudência desta Corte consolidou o entendimento de que o estudo por conta própria com aprovação, ainda que parcial, no ENEM permite a remição da pena. De acordo com a documentação encaminhada, o apenado participou do ENEM PPL 2025 e obteve aprovação em 4 (quatro) áreas de conhecimento, superando o mínimo de 450 pontos em três áreas e alcançando mais de 500 pontos na redação. Conforme a Recomendação n. 391/2021 do Conselho Nacional de Justiça, a aprovação em cada área de conhecimento do ENEM confere o direito à remição de pena. Em decorrência da aprovação nas quatro áreas, o apenado faz jus à remição de 80 (oitenta) dias de pena, sendo 20 (vinte) dias por área.
+ Deixo de aplicar o acréscimo de 1/3 previsto no art. 126, § 5º, da LEP, uma vez que, conforme consta do termo de qualificação do apenado (eDoc. 6), ele já possuía ensino médio completo quando ingressou no sistema prisional, o que afasta a incidência do benefício.
+Por fim, quanto ao pedido de remição pela conclusão do curso de capacitação profissional “Assistente de Segurança do Trabalho”, com carga horária de 80 (oitenta) horas, observo, em linha com a manifestação ministerial, que a documentação apresentada é insuficiente para a homologação. Embora o certificado de conclusão tenha sido anexado (eDoc. 150), não há nos autos comprovação de que a realização do curso foi precedida de convênio ou autorização prévia com o Poder Público, nem de que a atividade integra o projeto político-pedagógico da unidade prisional, requisitos essenciais para a validação da remição por estudo, nos termos do art. 126, § 2º, da LEP e da Resolução CNJ n. 391/2021. Assim, faz-se necessária diligência para a obtenção de tais informações.
+Diante de todo o exposto, nos termos dos artigos 21 e 341 do Regimento Interno do STF:
+A) HOMOLOGO, para fins de remição, o total de 103 (cento e três) dias que deverá ser remido da pena de Germano Siqueira Lube Júnior, sendo 23 (vinte e três) dias correspondentes à atividade laborativa (novembro/2025 a janeiro/2026) e 80 (oitenta) dias relativos à aprovação parcial no ENEM PPL 2025;
+B) DETERMINO a expedição de ofício ao estabelecimento prisional para que comprove a existência de autorização ou convênio da instituição de ensino realizadora do curso “Assistente de Segurança do Trabalho” com o Poder Público, bem como a sua integração ao projeto político-pedagógico da unidade prisional, para fins de futura análise do pleito de remição;
+C) DETERMINO a expedição de novo ATESTADO DE PENA A CUMPRIR, observada a remição ora homologada, com a devida atualização dos cálculos e ciência ao sentenciado, a ser realizada pelo Juízo da 2ª Vara Criminal da Comarca de Viana/ES, devendo o referido atestado ser encaminhado a este SUPREMO TRIBUNAL FEDERAL, no prazo de 5 (cinco) dias.
+Intimem-se os advogados regularmente constituídos.
+Ciência à Procuradoria-Geral da República.
+Publique-se.
+Brasília, 23 de abril de 2026.
+
+Ministro ALEXANDRE DE MORAES
+Relator
+Documento assinado digitalmente
