@@ -1,0 +1,41 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Sexta Turma, por unanimidade, não conhecer do agravo regimental, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Antonio Saldanha Palheiro, Carlos Pires Brandão, Og Fernandes e Sebastião Reis Júnior votaram com o Sr. Ministro Relator.
+EMENTA
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. FUNDAMENTOS DA DECISÃO IMPUGNADA NÃO COMBATIDOS. AGRAVO REGIMENTAL NÃO CONHECIDO.
+1. O agravante deixou de combater fundamento empregado na decisão de não conhecimento do agravo em recurso especial - interposição de recurso diverso do previsto em lei quanto à matéria relativa à aplicação da sistemática dos recursos repetitivos -, motivo pelo qual este agravo regimental também não pode ser conhecido, consoante o entendimento enunciado na Súmula n. 182 do STJ.
+2. Contra a decisão do Tribunal de origem, a defesa interpôs agravo em recurso especial, o qual não foi conhecido pela Presidência desta Corte Superior de Justiça, porquanto, em relação às questões apreciadas sob a sistemática dos recursos repetitivos, a parte deveria haver interposto, simultaneamente, o agravo interno e, quanto às demais matérias, o agravante não impugnou os fundamentos da decisão que não admitiu o recurso especial.
+3. Neste regimental, a parte deveria haver exposto argumentos capazes de infirmar os fundamentos que implicaram o não conhecimento do agravo em recurso especial. Todavia, o recorrente limitou-se a afirmar que impugnou todos os fundamentos do acórdão recorrido e que não caberia à Presidência do STJ negar provimento ao recurso, monocraticamente.
+4. Ao proceder dessa forma, é inegável que a defesa não se desincumbiu do ônus de expor integral, específica e detalhadamente as razões de fato e de direito por que entendeu incorreta a decisão agravada, a atrair, à espécie, o verbete sumular n. 182 do STJ, segundo o qual "É inviável o agravo do art. 1.021, § 1º, do novo CPC que deixa de atacar especificamente todos os fundamentos da decisão agravada"
+5. Agravo regimental não conhecido.
+RELATÓRIO
+O SENHOR MINISTRO ROGERIO SCHIETTI CRUZ:
+JOSEVÂNIO DOS SANTOS interpõe agravo regimental contra decisão da Presidência desta Corte Superior de Justiça que não conheceu do seu agravo em recurso especial, em razão da incidência da Súmula n. 182 do STJ e do não conhecimento pela não aplicação do princípio da fungibilidade.
+A defesa alega, em síntese, que impugnou todos os fundamentos do acórdão recorrido.
+Requer, assim, a reconsideração do decisum anteriormente proferido ou a submissão do feito a julgamento pelo órgão colegiado.
+O Ministério Público Federal manifestou-se pelo não conhecimento do agravo regimental (fls. 445-468).
+EMENTA
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. FUNDAMENTOS DA DECISÃO IMPUGNADA NÃO COMBATIDOS. AGRAVO REGIMENTAL NÃO CONHECIDO.
+1. O agravante deixou de combater fundamento empregado na decisão de não conhecimento do agravo em recurso especial - interposição de recurso diverso do previsto em lei quanto à matéria relativa à aplicação da sistemática dos recursos repetitivos -, motivo pelo qual este agravo regimental também não pode ser conhecido, consoante o entendimento enunciado na Súmula n. 182 do STJ.
+2. Contra a decisão do Tribunal de origem, a defesa interpôs agravo em recurso especial, o qual não foi conhecido pela Presidência desta Corte Superior de Justiça, porquanto, em relação às questões apreciadas sob a sistemática dos recursos repetitivos, a parte deveria haver interposto, simultaneamente, o agravo interno e, quanto às demais matérias, o agravante não impugnou os fundamentos da decisão que não admitiu o recurso especial.
+3. Neste regimental, a parte deveria haver exposto argumentos capazes de infirmar os fundamentos que implicaram o não conhecimento do agravo em recurso especial. Todavia, o recorrente limitou-se a afirmar que impugnou todos os fundamentos do acórdão recorrido e que não caberia à Presidência do STJ negar provimento ao recurso, monocraticamente.
+4. Ao proceder dessa forma, é inegável que a defesa não se desincumbiu do ônus de expor integral, específica e detalhadamente as razões de fato e de direito por que entendeu incorreta a decisão agravada, a atrair, à espécie, o verbete sumular n. 182 do STJ, segundo o qual "É inviável o agravo do art. 1.021, § 1º, do novo CPC que deixa de atacar especificamente todos os fundamentos da decisão agravada"
+5. Agravo regimental não conhecido.
+VOTO
+O SENHOR MINISTRO ROGERIO SCHIETTI CRUZ (Relator):
+I. Admissibilidade
+O ora agravante interpôs recurso especial fundado no art. 105, III, "a" e "c", da CF. Em juízo de admissibilidade, o Tribunal estadual negou seguimento à impugnação defensiva, no tocante à matéria tratada no Tema Repetitivo n. 647 do STJ, e inadmitiu o especial quanto aos demais temas, em razão da não comprovação da divergência jurisprudencial e impossibilidade de alegação de divergência com paradigmas oriundos de habeas corpus, mandado de segurança ou recurso ordinário, bem como pela incidência das Súmulas n. 7 do STJ e 283 do STF.
+Contra a decisão do Tribunal de origem, a defesa interpôs agravo em recurso especial, o qual não foi conhecido pela Presidência desta Corte Superior de Justiça, porquanto, em relação às questões apreciadas sob a sistemática dos recursos repetitivos, a parte deveria haver interposto, simultaneamente, o agravo interno e, quanto ao mais, o agravante não impugnou os fundamentos da decisão que não admitiu o recurso especial.
+Ilustrativamente, segue trecho da decisão agravada, na parte que interessa (fls. 418-419):
+Com efeito, "no caso de inadmissibilidade de Recurso Especial com base no art. 543-C, § 7º, I, do CPC em relação a um ponto e de negativa de seguimento quanto aos outros, deve a parte interpor, simultânea e respectivamente, Agravo Regimental e Agravo em Recurso Especial" (AgRg no Rel. Min. João Otávio AR Esp n. 531.003/PR, de Noronha, Terceira Turma, D Je de 12.12.2014).
+Desta feita, no que tange à parte relativa a aplicação da sistemática dos recursos repetitivos, o recurso não comporta conhecimento, pois, de acordo com o disposto no art. 1.030 § 2º, do CPC, é cabível agravo interno contra o capítulo da art. 1.030, decisão que nega seguimento a Recurso Especial com base nos incisos I e III do mencionado do CPC.
+Assim, a interposição de recurso diverso do previsto expressamente em lei torna-o manifestamente incabível, o que afasta, inclusive, o princípio da fungibilidade recursal, uma vez que não há dúvida objetiva acerca do recurso cabível.
+ ..
+Melhor sorte não assiste ao agravante em relação ao capítulo da decisão que inadmitiu o Recurso Especial em razão de não preencher os requisitos de admissibilidade recursais.
+Mediante análise dos autos, verifica-se que a decisão agravada inadmitiu o Recurso Especial, considerando: divergência não comprovada, súmula 283/STF, e impossibilidade de alegação de divergência com paradigmas oriundos de súmula 7/STJ habeas corpus, mandado de segurança ou recurso ordinário.
+Entretanto, a parte agravante deixou de impugnar especificamente: impossibilidade de alegação de divergência com paradigmas oriundos de habeas corpus, mandado de segurança ou recurso ordinário.
+Nos termos do do CPC e do parágrafo único, art. 932, inciso III, art. 253, inciso I, do Regimento Interno desta Corte, não se conhecerá do Agravo em Recurso Especial que "não tenha impugnado especificamente todos os fundamentos da decisão recorrida".
+Como visto, a parte deveria haver exposto argumentos capazes de infirmar os fundamentos que implicaram o não conhecimento do agravo em recurso especial. Neste regimental, entretanto, a defesa discorre acerca da impugnação realizada sobre a divergência jurisprudencial, que tratou de todos os temas apontados na decisão de inadmissibilidade do recurso especial.
+Ao proceder dessa forma, é inegável que a defesa não se desincumbiu do ônus de expor integral, específica e detalhadamente as razões de fato e de direito por que entendeu incorreta a decisão agravada, a atrair, à espécie, o verbete sumular n. 182 do STJ, segundo o qual "É inviável o agravo do art. 1.021, § 1º, do novo CPC que deixa de atacar especificamente todos os fundamentos da decisão agravada".
+II. Dispositivo
+À vista do exposto, não conheço do agravo regimental.
