@@ -1,0 +1,97 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Turma, por unanimidade, negar provimento ao agravo regimental.
+Os Srs. Ministros Joel Ilan Paciornik, Messod Azulay Neto, Maria Marluce Caldas e Reynaldo Soares da Fonseca votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Reynaldo Soares da Fonseca.
+EMENTA
+Direito penal. Agravo regimental no agravo em recurso especial. FURTO QUALIFICADO. pedido de absolvição. reexame fático-probatório. inviabilidade. súmula 7/stj. defendida a possibilidade de simples revaloração da prova. alegação genérica. Agravo IMprovido.
+I. Caso em exame
+1. Agravo regimental interposto contra decisão monocrática que não conheceu recurso especial.
+2. A parte agravante pleiteia o conhecimento do recurso, com a consequente absolvição do réu; e alega que tal pleito demandaria apenas revaloração da prova, não incidindo a Súmula 7 do STJ.
+II. Questão em discussão
+3. A questão em discussão consiste em saber se a absolvição do réu pode ser realizada sem reexame de provas, apenas com a revaloração jurídica dos fatos.
+III. Razões de decidir
+4. As instâncias ordinárias destacaram que ficou comprovada a prática delitiva pelo réu dado o farto conjunto probatório produzido nos autos, consubstanciado no depoimento judicial dos policiais que realizaram o flagrante e dos representantes das empresas-vítima, além da confissão extrajudicial detalhada dos réus.
+5. A revisão do entendimento implicaria em revolvimento fático-probatório, o que é vedado pela Súmula 7 do STJ.
+6. A simples alegação de revaloração da prova no lugar do reexame fático probatório não é suficiente para afastar a incidência da Súmula 7/STJ.
+IV. Dispositivo e tese
+7. Agravo im provido.
+Tese de julgamento: "1. Estando a conclusão das instâncias ordinárias embasada em provas idôneas, é inviável superá-la em sede de recurso especial. 2. A absolvição do réu demanda reexame de provas, vedado pela Súmula 7 do STJ. 3. A simples alegação de revaloração da prova no lugar do reexame fático probatório não é suficiente para afastar a incidência da Súmula 7/STJ".
+Dispositivos relevantes citados: Lei 11.343/2006, Súmula 7/STJ.
+Jurisprudência relevante citada: STJ, REsp 1.361.484/MG, Rel. Min. Rogerio Schietti Cruz, Sexta Turma, julgado em 10/6/2014; STJ, AgRg no AREsp 2.441.372/TO, Rel. Min. Joel Ilan Paciornik, Quinta Turma, julgado em 14/5/2024; STJ, AgRg no AREsp 2.491.346/SC, Rel. Min. Reynaldo Soares da Fonseca, Quinta Turma, julgado em 14/5/2024.
+RELATÓRIO
+Trata-se de agravo regimental interposto por RICARDO FREIRE SOBRINHO contra decisão monocrática, de minha relatoria, que conheceu do agravo para não conhecer do recurso especial (e-STJ, fls. 621-628).
+A parte agravante aduz, em síntese, que o acolhimento de seu pedido de absolvição demandaria apenas revaloração da prova e não o seu reexame propriamente dito, razão pela qual deveria ser afastada a incidência da Súmula 7 do STJ.
+Pede, ao final, o provimento deste agravo regimental, para que seja conhecido o recurso especial, com o consequente acolhimento do pleito absolutório.
+É o relatório.
+EMENTA
+Direito penal. Agravo regimental no agravo em recurso especial. FURTO QUALIFICADO. pedido de absolvição. reexame fático-probatório. inviabilidade. súmula 7/stj. defendida a possibilidade de simples revaloração da prova. alegação genérica. Agravo IMprovido.
+I. Caso em exame
+1. Agravo regimental interposto contra decisão monocrática que não conheceu recurso especial.
+2. A parte agravante pleiteia o conhecimento do recurso, com a consequente absolvição do réu; e alega que tal pleito demandaria apenas revaloração da prova, não incidindo a Súmula 7 do STJ.
+II. Questão em discussão
+3. A questão em discussão consiste em saber se a absolvição do réu pode ser realizada sem reexame de provas, apenas com a revaloração jurídica dos fatos.
+III. Razões de decidir
+4. As instâncias ordinárias destacaram que ficou comprovada a prática delitiva pelo réu dado o farto conjunto probatório produzido nos autos, consubstanciado no depoimento judicial dos policiais que realizaram o flagrante e dos representantes das empresas-vítima, além da confissão extrajudicial detalhada dos réus.
+5. A revisão do entendimento implicaria em revolvimento fático-probatório, o que é vedado pela Súmula 7 do STJ.
+6. A simples alegação de revaloração da prova no lugar do reexame fático probatório não é suficiente para afastar a incidência da Súmula 7/STJ.
+IV. Dispositivo e tese
+7. Agravo im provido.
+Tese de julgamento: "1. Estando a conclusão das instâncias ordinárias embasada em provas idôneas, é inviável superá-la em sede de recurso especial. 2. A absolvição do réu demanda reexame de provas, vedado pela Súmula 7 do STJ. 3. A simples alegação de revaloração da prova no lugar do reexame fático probatório não é suficiente para afastar a incidência da Súmula 7/STJ".
+Dispositivos relevantes citados: Lei 11.343/2006, Súmula 7/STJ.
+Jurisprudência relevante citada: STJ, REsp 1.361.484/MG, Rel. Min. Rogerio Schietti Cruz, Sexta Turma, julgado em 10/6/2014; STJ, AgRg no AREsp 2.441.372/TO, Rel. Min. Joel Ilan Paciornik, Quinta Turma, julgado em 14/5/2024; STJ, AgRg no AREsp 2.491.346/SC, Rel. Min. Reynaldo Soares da Fonseca, Quinta Turma, julgado em 14/5/2024.
+VOTO
+As alegações da parte agravante não são suficientes para alterar a decisão agravada, que deve ser mantida.
+Como se constatou quando do julgamento monocrático, para desconstituir o entendimento firmado pelo Tribunal de origem e concluir pela absolvição do réu, seria necessário o revolvimento do conjunto fático-probatório, o que é vedado pela Súmula 7 do STJ.
+No ponto:
+"DIREITO PENAL. AGRAVO REGIMENTAL. ROUBO MAJORADO. NULIDADE. NÃO OCORRÊNCIA. PLEITO ABSOLUTÓRIO. SÚMULA N. 7 DO SUPERIOR TRIBUNAL DE JUSTIÇA - STJ. DOSIMETRIA. SÚMULA N. 284 DO SUPREMO TRIBUNAL FEDERAL - STF. RECURSO DESPROVIDO. CONCESSÃO DE ORDEM DE HABEAS CORPUS DE OFÍCIO.
+I. Caso em exame1. Agravo regimental interposto contra decisão que negou provimento a recurso especial, mantendo a condenação por roubo majorado. O agravante alega nulidade no procedimento de reconhecimento de pessoas, a insuficiência de provas para a condenação e a ilegalidade da dosimetria.
+II. Questão em discussão2. A questão em discussão consiste na validade do reconhecimento de pessoas sem observância do art. 226 do CPP, na suficiência do conjunto probatório para a condenação e na legalidade da dosimetria.
+III. Razões de decidir3. O reconhecimento de pessoas não é necessário quando a vítima é capaz de individualizar o agente, conforme jurisprudência do STJ.
+4. A condenação foi embasada em provas testemunhais e circunstanciais robustas, não se limitando ao reconhecimento de pessoas, sendo vedada a revisão da conclusão, em razão da Súmula n. 7 do STJ.
+5. O pleito referente à ilegalidade da dosimetria não foi conhecido em razão da deficiência da fundamentação por não indicação do dispositivo legal violado.
+6. A manifestação do Ministério Público constitui peça opinativa, sem qualquer carga vinculativa.
+7. A flagrante ilegalidade constatada possibilita a concessão de habeas corpus de ofício, nos termos do art. 654, § 2º, do Código de Processo Penal.
+IV. Dispositivo e tese8. Agravo regimental desprovido, com a concessão de habeas corpus de ofício para afastar a valoração negativa das consequências do crime e alterar as penas impostas.
+Tese de julgamento: 1. O reconhecimento de pessoas é dispensável quando a vítima individualiza o agente. 2. A condenação pode ser mantida com base em provas testemunhais e circunstanciais robustas.
+Dispositivos relevantes citados: CPP, art. 226 Jurisprudência relevante citada: AgRg no AREsp 1498574/SP, Min. Rogerio Schietti Cruz, Sexta Turma, DJe 18/5/2020; AgRg no AREsp n. 2.135.356/MG, Min. Joel Ilan Paciornik, Quinta Turma, DJe 5/6/2023;
+AgRg no HC n. 554.740/SP, relator Ministro Jorge Mussi, Quinta Turma, DJe de 23/3/2020."
+(AgRg nos EDcl no AREsp n. 2.611.180/MG, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 8/10/2024, DJe de 10/10/2024.)
+"AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. ROUBO MAJORADO. PRECLUSÃO DOS CAPÍTULOS DA DECISÃO MONOCRÁTICA NÃO IMPUGNADOS. AUTORIA BASEADA EM OUTROS ELEMENTOS PROBATÓRIOS INDEPENDENTES DO RECONHECIMENTO PREVISTO NO ART. 226 DO CPP. COAUTORIA. ELEMENTAR DO CRIME DE ROUBO. PRÉVIO AJUSTE ENTRE OS AGENTES EVIDENCIADO. PRETENSÃO DE ABSOLVIÇÃO POR INSUFICIÊNCIA DE PROVAS. SÚMULA N. 7 DO STJ. OBSCURIDADE NA DECISÃO AGRAVADA. NÃO OCORRÊNCIA. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. A impugnação, no regimental, de apenas alguns capítulos da decisão agravada induz à preclusão das demais matérias decididas pelo relator, não refutadas pela parte.
+2. Por ocasião do julgamento do HC n. 598.886/SC (Rel. Ministro Rogério Schietti, DJe 18/12/2020), a Sexta Turma deste Tribunal Superior concluiu que a inobservância do procedimento previsto no art.
+226 do Código de Processo Penal torna inválido o reconhecimento do suspeito e não poderá servir de lastro a eventual condenação, mesmo se confirmado o ato em juízo.
+3. Ainda que o ato de reconhecimento haja sido feito em desacordo com o modelo legal previsto no art. 226 do CPP e não possa ser sopesado, nem mesmo de forma suplementar, para fundamentar uma condenação, se houver outras provas, independentes dele e suficientes para sustentar o decreto condenatório, afasta-se a tese de absolvição.
+4. No caso, a condenação do réu não foi baseada apenas no reconhecimento fotográfico, mas, também, nas demais provas dos autos, notadamente sua confissão judicial, em que ele admitiu, na presença de seu advogado, que conduziu o veículo usado no roubo.
+5. "Em atendimento à teoria monista ou unitária adotada pelo Estatuto Repressor Penal, malgrado o paciente não tenha praticado a violência elementar do crime de roubo, conforme o entendimento consagrado por este Superior Tribunal de Justiça, havendo prévia convergência de vontades para a prática de tal delito, a utilização de violência ou grave ameaça, necessárias à sua consumação, comunica-se ao coautor, mesmo não sendo ele o executor direto do gravame" (HC n. 371.559/SC, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 20/3/2018, DJe de 26/3/2018).
+6. Não procede o pedido de reconhecimento da participação de menor importância, pois a conduta do réu de, mediante ajuste prévio de vontades, dar cobertura a seus comparsas e conduzir o veículo empregado na fuga dos executores diretos do roubo, cabendo-lhe vigiar os arredores, indica sua participação no crime na condição de coautor, observada a nítida divisão de tarefas entre os agentes.
+7. Alterar a conclusão do Tribunal de origem, que condenou o recorrente, com o intuito de absolvê-lo por insuficiência probatória  art. 386, VII, do CPP  , demandaria reexame de fatos e provas, providência não admitida em recurso especial, observada a Súmula n. 7 do STJ.
+8. Consoante já decidiu este Superior Tribunal, "não se admite a nulidade do édito condenatório sob alegação de estar fundado exclusivamente em prova inquisitorial, quando baseado também em outros elementos de provas levados ao crivo do contraditório e da ampla defesa" (HC n. 155.226/SP, relator Ministro Og Fernandes, Sexta Turma, julgado em 26/6/2012, DJe de 1/8/2012).
+9. Na hipótese em exame, o Tribunal estadual sopesou as provas e os elementos informativos colhidos extrajudicialmente com as demais provas e depoimentos obtidos em juízo  notadamente a confissão do denunciado na presença de seu advogado  , submetidos, portanto, ao crivo do contraditório, razão pela qual não procedem os argumentos da defesa.
+10. O vício de obscuridade, previsto no art. 619 do CPP, não pode ser confundido com o mero inconformismo da parte com a conclusão alcançada pelo julgador que, a despeito das teses aventadas, lança mão de motivação idônea e suficiente para a formação do seu convencimento.
+11. Agravo regimental não provido."
+(AgRg no AREsp n. 2.633.460/AM, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 13/8/2024, DJe de 28/8/2024.)
+Ao preservar a condenação do réu, a Corte de origem assim se manifestou:
+"A argumentação da Defesa no sentido de que o conjunto probatório é frágil não se sustenta.
+Consigna-se que os representantes da empresa-vítima e as testemunhas apresentaram depoimentos seguros, coerentes e harmônicos com os demais elementos coligidos nos autos.
+Destarte, não se pode suspeitar de seus depoimentos, uma vez que não há qualquer mínimo indício de que estejam deliberadamente tentando prejudicar os réus.
+Aliás, nada existe para subtrair a credibilidade da prova oral colhida, considerando que ninguém tem interesse em acusar injustamente pessoa inocente.
+Ressalte-se que a ré Kátia, apesar de ter negado a participação do réu Ricardo na empreitada criminosa, na delegacia, diante da autoridade policial, confessou a participação de Ricardo.
+O argumento de Kátia relativo à possível coação na delegacia para que Ricardo confessasse os fatos não se sustenta, primeiro porque o próprio réu Ricardo afirmou em seu interrogatório no distrito policial que não sofreu qualquer tipo de constrangimento pelas autoridades policiais.
+ ..
+No mesmo sentido, corroborando a palavra do representante das vítimas, o depoimento substancial do policial civil Claudinei, declarando em juízo, em síntese, que abordou um veículo com as mesmas características fornecidas pelo funcionário Jailton, usado para o transporte dos furtadores e da res furtivae.
+O veículo é de propriedade de Ricardo, que não negou sua posse ou que tivesse conduzido Kátia até os estabelecimentos, além do mais, em seu interior foram encontrados todos os bens subtraídos das várias lojas lesadas.
+Claudinei afirmou que Ricardo confessou a prática dos delitos e o modus operandi, inclusive, Ricardo afirmou que Kátia voltava de cada loja na posse de algumas sacolas e as deixava no veículo, inclusive, afirmou que já tinha praticado outros furtos anteriormente na companhia de Kátia.
+A propósito, não há como desmerecer os testemunhos dos agentes públicos, vez que nada foi trazido aos autos que infirmasse a alegação ou desqualificasse o desfecho adverso, inexistindo indicações de que o policial tivesse algum interesse em incriminá-los falsamente, apresentando as provas na Delegacia e fantasiando os fatos descritos na denúncia, somente para atribuir a eles graciosamente a autoria do crime patrimonial, pelo que a credibilidade dos depoimentos incriminatórios é inconteste, conforme, aliás, entendimento jurisprudencial dominante para situações semelhantes: STJ AgRg no HC: 542882-SP, Relator Ministro Leopoldo de Arruda Raposo (Desembargador convocado do TJ/PE), 5ª T., j. 11/02/2020, D Je 19/02/2020.
+Não se pode admitir, aliás, que a condição de agente público de segurança seja um entrave à prestação de testemunhos, ainda mais porque estes se submetem ao compromisso legal e se sujeitam, caso faltem com a verdade, às penas da Lei. Seria um enorme contrassenso o Estado selecionar pessoas para atuar na segurança pública e, em um momento posterior, desconsiderar seus testemunhos em juízo.
+Nesse contexto, há provas suficientes para respaldar a condenação, restando incontroversos a autoria atribuída aos acusados e o elemento subjetivo do tipo, o dolo, tanto que, Kátia ingressou em estabelecimentos alheios e, por conta própria, subtraiu diversos bens avaliados em R$ 1.444,77 que, frisa-se, foram encontrados na posse de Ricardo, que deu à Kátia total apoio e cobertura.
+ ..
+Bem se vê que não há dúvidas acerca do envolvimento dos réus nos crimes ora em debate, na medida em que foram surpreendidos logo após a consumação dos delitos, quando foram abordados pelos policiais civis.
+Há, portanto, provas mais que suficientes para demonstrar a responsabilidade criminal dos apelantes, daí porque não se aplica o princípio in dubio pro reo ao caso.
+De rigor, portanto, a manutenção da sentença penal condenatória, que bem fundamentou a existência de provas aptas à condenação dos réus pelas práticas de 04 furtos consumados e um furto tentado." (e-STJ, fls. 494-497, grifou-se)
+Quanto à pretensão de absolvição do acusado, verifica-se que a prova testemunhal, somada ao conjunto probatório trazido como fundamento no ac órdão impugnado, demonstra que o recorrente efetivamente praticou os roubos a ele imputado.
+Vale anotar, ainda, que os depoimentos dos policiais responsáveis pela prisão em flagrante são meio idôneo e suficiente para a formação do édito condenatório, quando em harmonia com as demais provas dos autos, e colhidos sob o crivo do contraditório e da ampla defesa, como ocorreu na hipótese.
+Nos autos em exame, as instâncias ordinárias destacaram o farto conjunto probatório, consubstanciado no depoimento judicial dos policiais que realizaram o flagrante e dos representantes das empresas-vítima, além da confissão extrajudicial detalhada dos réus.
+Com efeito, foram praticados 4 furtos em sequência com a mesma dinâmica delitiva: cabia à corré Kátia a subtração dos bens nos estabelecimentos comerciais; e ao ora agravante, a condução do veículo utilizado na fuga dos réus e no transporte dos bens subtraídos. Vale mencionar que os bens furtados foram encontrados em posse do ora agravante. Ademais, o ora agravante se evadiu do local em que cometido o último dos furtos após visualizar a corré Kátia ser abordada pelo funcionário da empresa furtada.
+Ainda, convém frisar que, conforme pacífica jurisprudência desta Corte Superior, "é possível a utilização das provas colhidas durante a fase inquisitiva para lastrear o édito condenatório, desde que corroboradas por outras provas produzidas em juízo, sob crivo do contraditório e da ampla defesa." (AgRg no AREsp n. 2.279.196/MG, relator Ministro Messod Azulay Neto, Quinta Turma, julgado em 16/4/2024, DJe de 23/4/2024. )
+Ante o exposto, nego provim ento ao agravo regimental.
+É o voto.
