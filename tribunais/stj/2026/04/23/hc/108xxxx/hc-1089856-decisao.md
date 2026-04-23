@@ -1,0 +1,35 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido de liminar, impetrado em favor de LUCAS DA SILVA PELEGRINI, apontando como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DO PARANÁ, em decorrência do julgamento da revisão criminal n. 0117685-36.2025.8.16.0000.
+Consta nos autos que o paciente foi inicialmente condenado pelo Juízo da Vara Criminal da Comarca de Loanda/PR à pena de 6 (seis) anos, 1 (um) mês e 10 (dez) dias de reclusão, em regime semiaberto, além de 131 (cento e trinta e um) dias-multa, pela prática de roubo majorado, com emprego de arma de fogo e concurso de pessoas, tendo como vítima pessoa idosa.
+A defesa propôs revisão criminal perante o Tribunal de Justiça do Estado do Paraná, que conheceu do pedido e o julgou improcedente, mantendo a condenação ao fundamento de que o reconhecimento fotográfico observou as formalidades legais então vigentes e que a alteração superveniente de entendimento jurisprudencial não autoriza a desconstituição da coisa julgada.
+Na presente impetração, busca-se a concessão da ordem para: (i) declarar a nulidade do reconhecimento fotográfico realizado em desacordo com o artigo 226 do Código de Processo Penal e afastar a utilização exclusiva de elementos do inquérito, em violação ao artigo 155 do Código de Processo Penal; (ii) absolver o paciente por ausência de provas válidas e suficientes de autoria, nos termos do artigo 386, inciso VII, do Código de Processo Penal; e, subsidiariamente, (iii) anular a condenação, determinando novo julgamento sem a utilização da prova reputada inválida.
+É o relatório. DECIDO.
+A controvérsia consiste em se buscar o reconhecimento da nulidade da condenação do paciente.
+No entanto, o presente habeas corpus foi impetrado contra uma revisão criminal de condenação com trânsito em julgado.
+Das razões expostas, contudo, o que se verifica é que sequer se enquadrariam nos parâmetros da revisão criminal, por ausência de seus pressupostos, quais sejam, os requisitos do art. 621, incisos, do Código de Processo Penal:
+Art. 621. A revisão dos processos findos será admitida:
+I - quando a sentença condenatória for contrária ao texto expresso da lei penal ou à evidência dos autos;
+II - quando a sentença condenatória se fundar em depoimentos, exames ou documentos comprovadamente falsos;
+III - quando, após a sentença, se descobrirem novas provas de inocência do condenado ou de circunstância que determine ou autorize diminuição especial da pena. (grifei)
+Aliás, segundo a origem, não seria a hipótese seria de flagrante ilegalidade no caso concreto (fls. 12-13):
+DIREITO PENAL E PROCESSUAL PENAL. REVISÃO CRIMINAL. REVISÃO CRIMINAL POR NULIDADE DE RECONHECIMENTO FOTOGRÁFICO EM CONDENAÇÃO POR ROUBO MAJORADO. REVISÃO CRIMINAL CONHECIDA E JULGADA IMPROCEDENTE.
+I. Caso em exame Revisão criminal proposta visando a desconstituição da condenação imposta em ação penal anterior, na qual o requerente foi condenado a 6 anos, 1 mês e 10 dias de reclusão por roubo majorado, com emprego de arma de fogo e concurso de pessoas, tendo como vítima uma pessoa idosa. O requerente alega nulidade do reconhecimento fotográfico realizado na fase policial, argumentando que não foram observadas as formalidades legais e que a condenação se baseou exclusivamente nesse reconhecimento, sem outras provas que corroborassem a autoria.
+II. Questão em discussão A questão em discussão consiste em saber se o reconhecimento fotográfico realizado na fase inquisitorial foi válido e se a condenação por roubo majorado deve ser mantida, considerando a alegação de nulidade do reconhecimento e a ausência de outras provas que sustentem a condenação.
+III. Razões de decidir 1. A revisão criminal foi julgada improcedente, pois a alegação de nulidade do reconhecimento fotográfico não se sustenta, uma vez que as formalidades do art. 226 do CPP foram observadas. 2. A jurisprudência vigente à época da condenação considerava os requisitos do art. 226 do CPP como orientações, não como requisitos de validade, e o reconhecimento foi realizado com base em descrição da vítima, além do réu ter sido apontado como autor pela vítima com 100% de certeza. 3. A mera alteração de entendimento jurisprudencial posterior ao trânsito em julgado não é suficiente para desconstituir a coisa julgada, em respeito ao princípio da segurança jurídica.
+IV. Dispositivo e tese Revisão criminal conhecida e julgada improcedente.
+Tese de julgamento: a revisão criminal não se presta à reanálise de provas já examinadas em instâncias anteriores, sendo cabível apenas nas hipóteses taxativas do art. 621 do Código de Processo Penal, como contrariedade à lei ou à evidência dos autos.
+Sobre o assunto:
+AGRAVO REGIMENTAL NOS EMBARGOS DE DECLARAÇÃO NO HABEAS CORPUS. DIREITO PROCESSUAL PENAL. ROUBO MAJORADO. RECONHECIMENTO FOTOGRÁFICO EM SEDE POLICIAL.  ..  AUSÊNCIA DE ILEGALIDADE FLAGRANTE. UTILIZAÇÃO DO HABEAS CORPUS COMO SUCEDÂNEO DE REVISÃO CRIMINAL. INVIABILIDADE. AGRAVO REGIMENTAL DESPROVIDO.
+1. A jurisprudência consolidada do Superior Tribunal de Justiça é firme no sentido de que o habeas corpus não pode ser utilizado como sucedâneo de recurso próprio, salvo em hipóteses de flagrante ilegalidade, o que não se verifica no caso concreto.
+2. Eventual irregularidade no reconhecimento fotográfico realizado na fase investigativa foi devidamente enfrentada pelas instâncias ordinárias e afastada, à vista da confirmação judicial do referido ato, sob o crivo do contraditório e da ampla defesa, ainda que com ponderações sobre sua precisão.
+3. A concessão parcial da ordem, para fins de redimensionamento da reprimenda, não autoriza a revaloração do conjunto probatório com o objetivo de obtenção de absolvição, providência incompatível com os estreitos limites do habeas corpus, especialmente na ausência de prova pré-constituída de ilegalidade manifesta.
+4. A pretensão de rediscussão da autoria demanda incursão no acervo probatório dos autos, o que inviabiliza a concessão da ordem nesta sede.
+5. Agravo regimental desprovido (AgRg nos EDcl no HC n. 878.428/RS, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 27/8/2025, DJEN de 2/9/2025.)
+Diante disso, o writ não deve ser conhecido, pois foi, ao fim, utilizado como substituto de um recurso especial em revisão criminal ou mesmo uma tentativa de nova revisão criminal em um Tribunal Superior.
+Conforme o artigo 105, inciso I, alínea "e", da Constituição Federal, compete a este STJ, originariamente e somente, "as revisões criminais e as ações rescisórias de seus julgados".
+Nessa linha:
+ ..  Na hipótese, a condenação transitou em julgado em 31/5/2023. Dessa forma, o presente writ seria sucedâneo de revisão criminal, sendo esta Corte incompetente para o processamento do pleito revisional.  ..  Agravo regimental desprovido (AgRg no HC n. 861.867/SC, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 2/9/2024, DJe de 6/9/2024.)
+De todo modo, não verifico a presença de teratologia ou coação ilegal que desafie a concessão da ordem, nos termos do § 2º do artigo 654 do Código de Processo Penal.
+Ante o exposto, não conheço do presente habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
