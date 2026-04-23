@@ -1,0 +1,23 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em nome de C N S - preso preventivamente e acusado da prática do crime de homicídio qualificado tentado -, em que o impetrante aponta como órgão coator o Tribunal de Justiça do Estado de São Paulo, que, em 9/4/2026, denegou a ordem do HC n. 2036365-14.2026.8.26.0000 (fls. 6/12).
+O impetrante alega a ausência de fundamentação concreta da prisão preventiva, apontando que o acórdão se limitou à invocação genérica da garantia da ordem pública, sem demonstrar risco atual decorrente da liberdade do paciente.
+Sustenta que a gravidade em abstrato do delito não é motivo idôneo para a custódia cautelar.
+Afirma que a mencionada extrema brutalidade não encontra respaldo nos autos, pois o laudo pericial teria indicado apenas escoriações superficiais na vítima e alta hospitalar no mesmo dia dos fatos.
+Aduz a existência de condições pessoais favoráveis - primariedade, residência fixa e inexistência de risco de reiteração, interferência na instrução ou fuga.
+Requer, no âmbito liminar e no mérito, a revogação da custódia, ainda que mediante a aplicação de medidas cautelares alternativas (Processo n. 1500095-94.2026.8.26.0114 - Vara do Tribunal do Júri da comarca de Campinas/SP).
+É o relatório.
+O Juízo de primeiro grau decretou idoneamente a custódia, com base nos seguintes fundamentos (fls. 20/21 - grifo nosso):
+Há, de igual modo, a presença do periculum libertatis.
+Trata-se de imputação de crime contra a vida com gravidade concreta acentuada, extraída das circunstâncias em que supostamente teria sido cometido, e que também espelha possível periculosidade por parte do denunciado. C, em tese, após ingerir bebida alcoólica e usar substâncias psicoativas ilícitas, em conjunto com a vítima e no interior da residência dela, teria se armado com uma faca, ingressado no quarto onde Luana da Silva Rodrigues estava e, de inopino, efetuado cerca de 10 (dez) golpes contra o corpo dela, a saber, na face, pescoço, tórax, ombro esquerdo e mão direita. A vítima teria, então, passado a gritar, o que, de acordo com a denúncia, teria afugentado o agressor e permitido que vizinhos a socorressem, levando-a para a UPA São José. Consta da exordial, ademais, que vítima e denunciado mantinham relacionamento amoroso há aproximadamente um mês. Resta evidenciada, assim, a necessidade da prisão cautelar como garantia da ordem pública, notadamente para preservar a vida e a integridade da vítima.
+O Tribunal de origem manteve a segregação, nestes termos (fls. 9/10):
+Segundo a denúncia, o paciente mantinha relacionamento amoroso com a vítima há menos de um mês e, na data dos fatos, após eles ingerirem bebida alcóolica e consumirem entorpecentes na residência dela, por motivos desconhecidos, ele desferiu diversos golpes de faca contra a vítima, ocasião em que ela gritou por socorro e o paciente fugiu, de sorte que os vizinhos a socorreram ao hospital.
+ ..
+Ademais, as características do caso concreto impuseram a necessidade da segregação cautelar, pois, preservado o princípio constitucional da não culpabilidade, a conduta em tese praticada é permeada por singular gravidade, haja vista a extrema brutalidade que foi empregada contra a vítima, que foi esfaqueada na própria residência, sem qualquer possibilidade de oferecer resistência, a indicar particular ousadia e periculosidade.
+Ora, a gravidade concreta da conduta, reveladora do potencial elevado grau de periculosidade do agente e consubstanciada na alta reprovabilidade do modus operandi empregado na empreitada delitiva, é fundamento idôneo a lastrear a prisão preventiva, com o intuito de preservar a ordem pública (AgRg no HC n. 687.840/MS, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 13/12/2022, DJe de 19/12/2022) - (AgRg no HC n. 968.850/PR, Ministro Antonio Saldanha Palheiro, Sexta Turma, DJEN 11/3/2025).
+Assim, nos termos da jurisprudência desta Corte, eventuais condições pessoais favoráveis não possuem o condão de, isoladamente, conduzir à revogação da prisão preventiva, sendo certo que, concretamente demonstrada pelas instâncias ordinárias sua necessidade, não se afigura suficiente a fixação de medidas cautelares alternativas.
+Por fim, para que fosse possível a análise da efetiva gravidade da conduta delituosa, seria imprescindível o exame dos elementos fáticos da lide, o que é inviável na estreita via do habeas corpus, que possui rito célere e cognição sumária.
+Ante o exposto, indefiro liminarmente o writ (art. 210 do RISTJ).
+Publique -se.
+EMENTA
+HABEAS CORPUS. TENTATIVA DE HOMICÍDIO QUALIFICADO. PRISÃO PREVENTIVA. NECESSIDADE DE GARANTIA DA ORDEM PÚBLICA. GRAVIDADE CONCRETA DA CONDUTA DELITUOSA. FUNDAMENTAÇÃO IDÔNEA. INEXISTÊNCIA DE FLAGRANTE CONSTRANGIMENTO ILEGAL.
+Writ indeferido liminarmente.
