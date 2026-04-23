@@ -1,0 +1,68 @@
+DECISÃO
+
+Habeas corpus. Crimes contra a ordem tributária e sonegação de contribuição previdenciária. Dosimetria. Pena-base. Maus antecedentes.  Julgamento de mérito do RE 593.818-RG/SC. Tema 150 da repercussão geral. Fundamentação idônea.  Manifesta ilegalidade ou teratologia não identificadas. Negativa de seguimento.
+
+Trata-se de habeas corpus impetrado em favor de Marcelo Silvestre Fiorese contra acórdão do Superior Tribunal de Justiça, que negou provimento ao agravo regimental no REsp 2.213.654/RS (evento 4, fls. 298-306).
+
+O paciente  foi condenado à pena de 04 anos, 7 meses e 10 dias de reclusão, em regime inicial semiaberto, pela prática dos crimes contra a ordem tributária e sonegação de contribuição previdenciária, em concurso formal,  tipificados no art. 1º, I, da Lei 8.137/90 e art. 337-A, I, na forma do art. 70, do Código Penal (evento 4, fls. 64-6 e 76-96).
+
+No presente writ, a Defesa sustenta  que o registro de antecedente do paciente não deve ser considerado para exasperar a pena-base, porquanto demasiadamente distante no tempo, forte no entendimento firmado no Tema 150/STF. Alega que o novo delito foi consumado dez anos após a extinção da pena anterior. Argumenta ser inidôneo o fundamento do acórdão impugnado para afastar o reconhecimento do distanciamento temporal e manter a exasperação da pena-base, porquanto lastreado na similitude entre os delitos praticados.  Requer, em medida liminar, a suspensão da execução da pena até o julgamento final do presente habeas corpus. No mérito, pugna pelo redimensionamento da pena.
+
+É o relatório. Decido.
+
+O ato apontado como coator restou assim ementado (evento 4, fls. 295-7):
+
+“AGRAVO REGIMENTAL NO RECURSO ESPECIAL. CRIMES CONTRA A ORDEM TRIBUTÁRIA E SONEGAÇÃO DE CONTRIBUIÇÕES PREVIDENCIÁRIAS. DOSIMETRIA. VALORAÇÃO NEGATIVA DOS MAUS ANTECEDENTES. FRAÇÃO DE AUMENTO DA PENA-BASE. LICITUDE DA VALORAÇÃO. ADEQUAÇÃO DA FRAÇÃO. LAPSO TEMPORAL DE DEZ ANOS ENTRE EXTINÇÃO DA PENA E NOVO DELITO. TEMA 150/STF. TEMA 1.077/STJ. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. Na primeira fase da dosimetria da pena, a valoração de condenação anterior como maus antecedentes não é vedada pelo transcurso do período depurador, à luz do Tema n. 150 do STF: “Não se aplica ao reconhecimento dos maus antecedentes o prazo quinquenal de prescrição da reincidência, previsto no art. 64, I, do Código Penal, podendo o julgador, fundamentada e eventualmente, não promover qualquer incremento da pena-base em razão de condenações pretéritas, quando as considerar desimportantes, ou demasiadamente distanciadas no tempo, e, portanto, não necessárias à prevenção e repressão do crime, nos termos do comando do artigo 59, do Código Penal.” ( RE 593818/SC, julgamento finalizado em 17/8/2020).
+2. A inteligência do Tema Repetitivo n. 1.077 do STJ confirma que condenações transitadas em julgado e não utilizáveis para reincidência somente podem ser valoradas, na primeira fase, a título de antecedentes criminais, vedada sua utilização para desabonar personalidade ou conduta social: “Recurso especial provido, para redimensionar a pena do Recorrente, nos termos do voto da Relatora, com a fixação da seguinte tese: Condenações criminais transitadas em julgado, não consideradas para caracterizar a reincidência, somente podem ser valoradas, na primeira fase da dosimetria, a título de antecedentes criminais, não se admitindo sua utilização para desabonar a personalidade ou a conduta social do agente.” (REsp n. 1.794.854/DF, relatora Ministra Laurita Vaz, Terceira Seção, julgado em 23/6/2021, DJe de 1/7/2021).
+3. Ressalva-se a não remoticidade do antecedente e sua gravidade específica: “não é remota a extinção da pena do crime anterior relativamente à data de cometimento do delito tratado neste processo (2011 extinção da pena e 2021 o cometimento do presente crime) e nem é de desprezível gravidade o crime antecedente (também crime tributário, tal como o crime aqui tratado)”; e, em reforço, “Embora esta Corte haja mitigado a aplicação do disposto no art. 64, I, do Código Penal, em situações em que já transcorrido grande lapso temporal entre o cumprimento da pena, ou sua extinção, e a prática do novo delito, essa não é a situação que ora se impõe.” (AgRg no HC n. 886.149/DF, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 17/6/2024, DJe de 19/6/2024).
+4. A discricionariedade judicial motivada na dosimetria legitima a fração de aumento de 1/8 do intervalo entre os limites mínimo e máximo da pena cominada, afastando a necessidade de critério rígido: “A discricionariedade judicial motivada na dosimetria da pena é reconhecida por esta Corte. Não existe direito subjetivo a critério rígido ou puramente matemático para a exasperação da pena-base. Em regra, afasta-se a tese de desproporcionalidade em casos de aplicação de frações de 1/6 sobre a pena mínima ou de 1/8 sobre o intervalo entre os limites mínimo e máximo do tipo, admitido outro critério mais severo, desde que devidamente justificado.” (AgRg no REsp 2196520, Sexta Turma, Ministro Rogerio Schietti Cruz, DJEN 15/4/2025).
+5. No caso concreto, o recorrente foi condenado por crimes do art. 337- A, I, do CP, e do art. 1º, I, da Lei n. 8.137/1990, tendo o Tribunal de origem mantido a valoração negativa dos antecedentes com base em condenação pelo art. 168-A, § 1º, I, do CP, com trânsito em julgado em 2008 e extinção da pena em 2011, reputando não remoto o lapso em relação ao delito consumado em 2021, e fixando o acréscimo de 4 meses e 15 dias na pena-base como única vetorial desfavorável.
+6. É admitida a valoração negativa como circunstância judicial antecedentes da condenação criminal transitada em julgado já alcançada pelo período depurador, não merecendo censura a manutenção do incremento à pena-base, pois a condenação antecedente não é desimportante nem demasiadamente distanciada no tempo, e a fração de 1/8 encontra respaldo na jurisprudência desta Corte.
+7. Agravo regimental não provido.”
+
+A jurisprudência desta Corte é no sentido da inviabilidade, como regra, de utilização do writ como sucedâneo recursal ou revisão criminal (HC 233.726-AgR, Rel. Min. Cristiano Zanin, Primeira Turma, DJe 26.02.2024; HC 235.844-AgR, Rel. Min. Luiz Fux, Primeira Turma, DJe 22.02.2024).
+
+Por outro lado, esta Suprema Corte tem entendimento consolidado no sentido de que a dosimetria da pena é matéria sujeita a certa discricionariedade judicial, à míngua de previsão, no Código Penal, de rígidos esquemas matemáticos ou regras absolutamente objetivas para a fixação da pena (RHC 207.480-AgR, Rel. Min. Dias Toffoli, Primeira Turma, DJe de 25.4.2022). No mesmo sentido, cito: HC 210.724-AgR, Rel. Min. Rosa Weber, Primeira Turma, DJe de 06.4.2022; e HC 223.032-AgR, Rel. Min. Edson Fachin, Segunda Turma, DJe de 18.10.2023.
+
+Ademais, a revisão da pena fixada nas instâncias antecedentes é matéria de estrito conhecimento nesta via, por demandar minucioso exame fático e probatório inerente a meio processual diverso (RHC 152.036-AgR, Rel. Min. Luiz Fux, Primeira Turma, DJe de 12.4.2018). Precedentes: HC 172.106-AgR, Rel. Min. Rosa Weber, Primeira Turma, DJe de 09.12.2020; HC 210.265-AgR, Rel. Min. Nunes Marques, Segunda Turma, Dje de 19.4.2022; e RHC 229.530-AgR, Rel. Min. Roberto Barroso, Primeira Turma, DJe de 27.9.2023.
+
+O Superior Tribunal de Justiça, ao rejeitar a pretensão de afastamento dos maus antecedentes na exasperação da pena-base e ratificar a dosimetria estabelecida nas instâncias anteriores, reputou que: (evento 4, fls. 301-6):
+
+“A despeito do esforço do agravante, os argumentos apresentados são insuficientes para infirmar a decisão agravada, cuja conclusão mantenho.
+O Tribunal de origem assim fundamentou a valoração negativa dos antecedentes do recorrente (fls. 390-391, grifei):
+[...]
+Na primeira fase da dosimetria da pena, requer a defesa a neutralização da vetorial antecedentes criminais, haja vista que a condenação anterior seria muito antiga. Subsidiariamente, postula o reajuste do patamar de exasperação. Razão não lhe assiste.
+O réu restou condenado nos autos da Ação Penal nº 2005.71.07.001488-9, ajuizada na 2ª Vara Federal de Caxias do Sul/RS, pela prática do delito do artigo 168-A, § 1º, inciso I, do Código Penal (apropriação indébita previdenciária), com trânsito em julgado em 06/05/2008 e extinção da pena em 07/02/2011 (feito originário, evento 75, CERTANTCRIM1). O delito referente a esta Ação Penal foi consumado em 2021, data da constituição definitiva do crédito tributário (IPL nº 5003346-69.2022.4.04.7107, evento 1, NOT_CRIME22, p. 25).
+O transcurso do período depurador de cinco anos descaracteriza tecnicamente apenas a reincidência, não impedindo a valoração da condenação anterior como antecedentes. A matéria é objeto do Tema nº 150 de Repercussão Geral, cuja tese foi firmada no seguinte sentido (Processo paradigma - RE 593818/SC, julgamento finalizado em 17/08/2020):
+Não se aplica ao reconhecimento dos maus antecedentes o prazo quinquenal de prescrição da reincidência, previsto no art. 64, I, do Código Penal, podendo o julgador, fundamentada e eventualmente, não promover qualquer incremento da pena-base em razão de condenações pretéritas, quando as considerar desimportantes, ou demasiadamente distanciadas no tempo, e, portanto, não necessárias à prevenção e repressão do crime, nos termos do comando do artigo 59, do Código Penal.
+Ressalvo que, ao contrário da alegação defensiva, não se trata de hipótese de afastamento do incremento, na medida em que a condenação anterior não é desimportante (apropriação indébita previdenciária) nem demasiadamente distanciada no tempo (pena extinta aproximadamente dez anos antes da prática do novo delito).
+No tocante ao patamar de exasperação, constata-se que o parâmetro adotado na sentença não se ateve objetivamente ao critério matemático de que o peso de cada circunstância judicial seja calculado a partir do termo médio entre o mínimo e o máximo da pena cominada, dividindo-se este resultado pelo número de vetoriais.
+Com efeito, este Tribunal adota o entendimento de que não é obrigatória a utilização do critério do termo médio (E Is nºs 5001071-30.2011.404.7206 e 5018411-48.2010.404.7100).
+In casu, entendo adequada a exasperação de 04 (quatro) meses e 15 (quinze) dias de reclusão em razão dos antecedentes criminais, única circunstância judicial considerada desfavorável.
+Nessa senda, nego provimento ao apelo defensivo no ponto, mantendo a pena basilar em 02 (dois) anos, 04 (quatro) meses e 15 (quinze) dias de reclusão.
+É admitida a valoração negativa como circunstância judicial antecedentes da condenação criminal transitada em julgado já alcançada pelo período depurador. Tal inteligência tem amparo na jurisprudência desta Corte Superior, conforme a seguir se demonstra (Tema Repetitivo n. 1.077 - grifei):
+(...).
+Não merece censura a valoração negativa dos antecedentes do recorrente: não é remota a extinção da pena do crime anterior relativamente à data de cometimento do delito tratado neste processo (2011 extinção da pena e 2021 o cometimento do presente crime) e nem é de desprezível gravidade o crime antecedente (também crime tributário, tal como o crime aqui tratado).
+No caso que segue, esta 6ª Turma afirmou não ser remoto antecedente com pena extinta aproximadamente 10 anos antes do novo crime:
+(...).
+Quanto à majoração da pena, cominada que é de 2 a 5 anos de reclusão, o Tribunal de origem concedeu o acréscimo de 4 meses e 15 dias.
+Tendo sido adotada fração de aumento da ordem de 1/8 do intervalo entre os limites mínimo e máximo da pena cominada ao delito, constata-se que os fundamentos adotados guardam inteira consonância com a jurisprudência do Superior Tribunal de Justiça, segundo a qual:
+(...).
+Portanto, ausentes fatos novos ou teses jurídicas diversas que permitam a análise do caso sob outro enfoque, deve ser mantida a decisão agravada. A propósito: "É assente nesta Corte Superior de Justiça que o agravo regimental deve trazer novos argumentos capazes de alterar o entendimento anteriormente firmado, sob pena de ser mantida a r. decisão vergastada pelos próprios fundamentos" (AgRg no HC n. 749.888/RS, Rel. Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), 5ª T., DJe 26/8/2022).”
+
+Nesse contexto, observo que os antecedentes do agente foram negativamente sopesados, porquanto o paciente ostenta uma condenação definitiva com trânsito em julgado anterior à data do ilícito penal, o que caracteriza maus antecedentes.
+
+No ponto, o acórdão recorrido está em harmonia com a jurisprudência deste Supremo Tribunal Federal. Nesse contexto, destaco o julgamento desta Suprema Corte que, apreciando o Tema 150 da repercussão geral, deu parcial provimento ao recurso extraordinário e, em sede de decisão em embargos de declaração, fixou a seguinte tese: “Não se aplica ao reconhecimento dos maus antecedentes o prazo quinquenal de prescrição da reincidência, previsto no art. 64, I, do Código Penal, podendo o julgador, fundamentada e eventualmente, não promover qualquer incremento da pena-base em razão de condenações pretéritas, quando as considerar desimportantes ou demasiadamente distanciadas no tempo e, portanto, não necessárias à prevenção e repressão do crime, nos termos do comando do artigo 59 do Código Penal” (RE 593.818-ED, Rel. Min. Roberto Barroso, Tribunal Pleno,DJe 05.05.2023).
+
+Inexistente, pois, manifesta ilegalidade ou arbitrariedade no ato hostilizado passível de correção na presente via.
+
+Ante o exposto, nego seguimento ao presente habeas corpus (art. 21, § 1º, RISTF).
+
+Publique-se.
+
+Brasília, 23 de abril de 2026.
+
+Ministro FLÁVIO DINO
+Relator
+Documento assinado digitalmente
