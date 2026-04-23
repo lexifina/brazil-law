@@ -1,0 +1,19 @@
+DECISÃO
+Trata-se de habeas corpus impetrado de próprio punho por MESCIAS SOARES SANTOS apontando como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO.
+Colhe-se da confusa petição inicial que o paciente foi condenado pela prática do delito previsto no art. 121, § 2º, II e VI, c/c o art. 14, II, do Código Penal. Requer, por meio deste writ, a redução da reprimenda fixada, que entende ter sido aplicada desproporcionalmente, ou ainda "uma possível aplicação do art. 386 ou a pena restritiva de direito" (e-STJ fl. 4), pugnando, do que se pode depreender da petição, pela desclassificação do delito para o crime de lesão corporal.
+O habeas corpus foi inicialmente dirigido ao Supremo Tribunal Federal, que declinou da competência para esta Corte (e-STJ fl. 13).
+É, em síntese, o relatório. Decido.
+Como se sabe, a jurisprudência do Superior Tribunal de Justiça é uníssona no sentido de que não cabe a utilização de habeas corpus como sucedâneo de recurso próprio ou de revisão criminal, sob pena de desvirtuamento do objeto ínsito ao remédio heroico, qual seja, o de prevenir ou remediar lesão ou ameaça de lesão ao direito de locomoção.
+Não se desconhece a orientação presente no art. 647-A, caput e parágrafo único, do Código de Processo Penal, segundo a qual se permite a qualquer autoridade judicial, no âmbito de sua competência jurisdicional e quando verificada a presença de flagrante ilegalidade, a expedição de habeas corpus de ofício em vista de lesão ou ameaça de lesão à liberdade de locomoção.
+Entretanto, tal não é o caso do presente writ.
+Com efeito, analisando o acórdão proferido pelo Tribunal de origem nos autos da Revisão Criminal n. 036016-16.2024.8.26.0000, acórdão este posteriormente submetido à apreciação desta Corte por meio do AREsp n. 3.072.173/SP, verifica-se que a pena-base do paciente foi exasperada em 1/6 em virtude da existência de maus antecedentes do ora paciente, senão vejamos:
+No caso em apreço, a pena de partida de 14 anos de reclusão 1/6 acima da base mínima foi estipulada dentro do balizamento legal de 12 a 30 anos de reclusão, sendo certo que houve fundamentação.
+Confira-se:
+"(..) o réu ostenta circunstâncias judiciais desfavoráveis, consistente em condenação transitada em julgado que não configura reincidência (fls. 120 autos n. 0040379-91.2004.8.26.0050), motivo pelo qual majoro a pena em 1/6 (um sexto) e fixo-a em 14 (catorze) anos de reclusão. Acerca do tema, o Supremo Tribunal Federal (STF) decidiu que condenações criminais extintas há mais de cinco anos podem ser consideradas como maus antecedentes para a fixação da pena-base em novo processo criminal. De acordo com o entendimento, o instituto dos maus antecedentes não é utilizado para a formação da culpa, mas para subsidiar a discricionariedade do julgador na fase de dosimetria da pena, quando já houve a condenação. A decisão se deu por maioria de votos no julgamento do Recurso Extraordinário (RE) 593818, com repercussão geral reconhecida (Tema 150).".
+A jurisprudência do E. Superior Tribunal de Justiça é no sentido de que o decurso do lapso depurador do artigo 64, inciso I, do Código Penal tem o efeito circunscrito pelo próprio dispositivo, qual seja, o de afastar a reincidência.
+Além disso, depreende-se do AREsp n. 3.072.173/SP que a defesa não recorreu da sentença condenatória, sendo que a revisão criminal posteriormente ajuizada pretendeu apenas a redução da pena-base fixada em desfavor do ora paciente, não havendo portanto qualquer pronunciamento da Corte de origem acerca do pleito desclassificatório, circunstância que por si só já impediria a análise do pleito por esta Corte sob pena de indevida supressão de instância.
+Não há, portanto, nenhum constrangimento ilegal apto a ser sanado pela concessão da ordem, ainda que de ofício.
+Ante o exposto, indefiro liminarmente o habeas corpus.
+Comunique-se o impetrante / paciente.
+Publique-se. Intimem-se.
+EMENTA
