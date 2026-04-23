@@ -1,0 +1,37 @@
+DECISÃO
+Cuida-se de agravo interposto por DENILSON DE FARIA WAROL contra decisão que obstou a subida de recurso especial.
+Extrai-se dos autos que o agravante interpôs recurso especial, com fundamento no art. 105, III, "a", da Constituição Federal, contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAIS cuja ementa guarda os seguintes termos (fls. 371 - 377):
+APELAÇÃO CÍVEL - AÇÃO INDENIZATÓRIA - CONCESSIONÁRIA RODOVIA - BURACO NA PISTA - PNEU FURADO - DANOS MORAIS - NÃO COMPROVAÇÃO - SENTENÇA MANTIDA. 1. Versando os autos sobre hipótese que não caracteriza o denominado "dano moral puro", necessária a produção de prova quanto à efetiva configuração do dano moral. 2. Meros aborrecimentos não configuram danos morais indenizáveis.
+Rejeitados os embargos de declaração opostos (fls. 400 - 405).
+No recurso especial, alega, preliminarmente, ofensa ao art. 1.022, do CPC, porquanto, apesar da oposição dos embargos de declaração, o Tribunal de origem não se pronunciou sobre pontos necessários ao deslinde da controvérsia.
+Aduz, no mérito, que o acórdão contrariou as disposições contidas nos artigos 186, 187 e 927 do CC.
+Sustenta, em síntese, responsabilidade civil objetiva da concessionária por buraco na pista e pneu furado, e dever de indenizar por dano moral.
+Foram oferecidas contrarrazões ao recurso especial (fls. 418 - 423).
+Sobreveio o juízo de admissibilidade negativo na instância de origem (fls. 426 - 428), o que ensejou a interposição do presente agravo.
+Apresentada contraminuta do agravo (fls. 492 - 497).
+É, no essencial, o relatório.
+Atendidos os pressupostos de admissibilidade do agravo, passo ao exame do recurso especial.
+Cuida-se de insurgência do recorrente sobre responsabilidade civil da concessionária e dever de indenizar.
+Inicialmente, afasto a alegação de negativa de prestação jurisdicional e ausência de fundamentação.
+Aduz o recorrente omissão quanto à análise da repercussão da conduta da concessionária à luz dos direitos fundamentais do consumidor e da dignidade da pessoa humana, diante da responsabilidade objetiva da Recorrida.
+No caso específico dos autos, a responsabilidade possui contornos próprios, pois envolve empresa que presta serviço público mediante concessão do Estado. Assim, considerando o regramento especial conferido pela Constituição da República Federativa do Brasil de 1988, especificamente pelo seu artigo 37, § 6º, há incidência da responsabilidade objetiva. (fl. 374)
+No caso concreto, a narrativa do apelante limita-se à alegação de que, em razão de buraco na pista, teve um dos pneus do veículo danificado, sendo compelido a efetuar a troca sob chuva e em horário noturno, o que, embora desconfortável, não se reveste da gravidade necessária para ensejar a reparação por dano moral. (fl. 375)
+Nessa linha de raciocínio, apesar de a apelante narrar que, em razão do acidente, teve que trocar o pneu na chuva, não se verifica qualquer lesão à sua personalidade. A configuração do dano moral exige demonstração de efetiva violação a direitos da personalidade, o que não se verifica na hipótese dos autos. A alegação de que o incidente causou "enormes traumas psicológicos" carece de respaldo probatório mínimo, não sendo suficiente, por si só, a ocorrência do acidente ou o desconforto advindo da troca do pneu, para ensejar a responsabilidade civil da concessionária. Portanto, não se pode afirmar que o buraco na pista tenha atingido o patrimônio imaterial da autora. Até porque, o próprio autor admite que funcionários da concessionária ré chegaram ao local e ofereceram auxílio na troca do pneu. (fl. 376)
+Observa-se, portanto, que a lide foi solucionada em conformidade com o que foi apresentado em juízo. Assim, verifica-se que o acórdão recorrido está com fundamentação suficiente, inexistindo omissão.
+Aduz a recorrente dever de indenizar por dano moral.
+Todavia, o acórdão recorrido concluiu que, no caso concreto, não há dano moral indenizável, conclusão a que chegou com base nos fatos e provas dos autos, vedada, portanto, sua modificação nesta instância:
+3. Revisão da existência de dano moral e da interpretação contratual. Incidência das Súmulas 5/STJ e 7/STJ.
+4. Quantum indenizatório. Ausência de exorbitância ou irrisoriedade.
+Impossibilidade de revisão.
+5. Agravo interno parcialmente conhecido e não provido (AgInt no AREsp n. 2.901.777/RJ, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 13/4/2026, DJEN de 16/4/2026.)
+8. A revisão da condenação por danos morais  ..  demandaria reexame do conjunto fático-probatório, providência vedada pela Súmula n. 7 do STJ. (AREsp n. 2.752.262/MT, relator Ministro João Otávio de Noronha, Quarta Turma, julgado em 30/3/2026, DJEN de 8/4/2026.)
+2. Incide a Súmula n. 7 do STJ para obstar o revolvimento do conjunto fático-probatório e a revisão do quantum indenizatório. (REsp n. 2.173.093/SP, relator Ministro João Otávio de Noronha, Quarta Turma, julgado em 30/3/2026, DJEN de 7/4/2026.)
+5. A revisão da conclusão do Tribunal de origem sobre a inexistência de dano moral demanda reexame do conjunto fático-probatório, óbice da Súmula n. 7 do STJ. (AREsp n. 2.708.355/SP, relator Ministro João Otávio de Noronha, Quarta Turma, julgado em 9/2/2026, DJEN de 12/2/2026.)
+Portanto, alterar o decidido no acórdão impugnado, no que se refere à existência de dano moral, exige o reexame de fatos e provas, o que é vedado em recurso especial pela Súmula n. 7/STJ.
+Além disso, a responsabilidade objetiva da concessionária não exime o recorrente de comprovar minimamente o dano moral alegado, encontrando-se o acórdão recorrido em conformidade com o entendimento do STJ:
+3. Em consonância com a jurisprudência desta Corte, ainda que a responsabilidade civil  ..  seja objetiva,  ..  subsiste para a parte autora o ônus de produzir prova mínima dos fatos constitutivos de seu direito, notadamente do dano sofrido e do nexo de causalidade, não bastando a mera invocação de dano moral ambiental presumido para afastar a regra do art. 373, I, do CPC/2015. 4. O acórdão estadual concluiu, com base no conjunto probatório, que a autora não demonstrou o nexo de causalidade entre o desastre geológico e alegado dano moral individual, tampouco comprovou concretamente os efeitos práticos da mudança de local de trabalho, deixando de indicar a nova localidade e de evidenciar os transtornos vivenciados, razão pela qual manteve a improcedência do pedido indenizatório. 5. A pretensão de infirmar a conclusão das instâncias ordinárias quanto à inexistência de prova do dano moral individual e do nexo causal demanda o reexame do acervo fático-probatório, providência vedada em recurso especial pela Súmula 7/STJ. 6. Agravo conhecido para conhecer parcialmente do recurso especial e, nessa extensão, negar-lhe provimento. (AREsp n. 3.107.932/AL, relator Ministro Raul Araújo, Quarta Turma, julgado em 30/3/2026, DJEN de 8/4/2026.)
+2. A responsabilidade objetiva no CDC dispensa prova de culpa do fornecedor, não a prova do dano. Sem demonstração de lesão efetiva à personalidade,  ..  não se reconhece dano moral; revisar essa conclusão encontra o óbice da Súmula 7/STJ. (AREsp n. 2.909.426/SP, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 23/3/2026, DJEN de 26/3/2026.)
+Ante o exposto, conheço do agravo para conhecer em parte do recurso especial e, nessa parte, negar provimento.
+Deixo de majorar os honorários visto que já foram fixados na origem no patamar máximo de 20% (fl. 376).
+Publique-se. Intime-se.
+EMENTA
