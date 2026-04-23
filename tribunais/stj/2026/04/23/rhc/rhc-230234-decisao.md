@@ -1,0 +1,30 @@
+DECISÃO
+Trata-se de Recurso em Habeas Corpus com pedido de liminar interposto por RENATO TELES TENORIO contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE PERNAMBUCO.
+Consta dos autos que o recorrente encontra-se preso preventivamente, sendo réu de ação penal pela suposta prática dos crimes previstos nos arts. 157, § 2º, II e V, e § 2º-A, I, e 288, parágrafo único, do Código Penal.
+Irresignad a, a defesa impetrou habeas corpus perante o Tribunal de origem que denegou a ordem, em acórdão de fls. 221-229.
+Em suas razões, sustenta estar submetido a constrangimento ilegal, na medida em que o decreto de sua prisão preventiva careceria de idônea fundamentação, estando lastreado na gravidade abstrata dos delitos a ele imputados.
+Afirma inexistirem indícios suficientes que lhe atribuam a autoria dos fatos delituosos, destacando não ter sido sequer reconhecido pela vítima.
+Alega a ocorrência de excesso de prazo para a formação da culpa, haja vista que estaria há mais de 4 (quatro) meses aguardando a designação da audiência de instrução e julgamento.
+Aduz não haver contemporaneidade que justifique a manutenção da segregação cautelar e pondera que seus predicados pessoais seriam favoráveis à concessão da liberdade provisória.
+Requer que seja revogada a prisão preventiva, ainda que mediante a aplicação das alternativas previstas no art. 319 do Código de Processo Penal, com a consequente expedição do alvará de soltura em seu favor.
+Pedido de liminar indeferido às fs. 281-282.
+Informações prestadas às fls. 287-290.
+O Ministério Público Federal em parecer, às fls. 294-301, manifestou pelo "Desprovimento do recurso".
+É o relatório. DECIDO.
+Primeiramente, quanto a alegação de ausência de autoria delitiva, o Tribunal de origem salientou que:
+"Quanto aos indícios suficientes de autoria, a decisão vergastada fundamentou-se na confissão parcial do corréu Breno Ferreira da Silva, confirmando a participação de Renato Teles Tenório e Edson Bezerra de Melo no delito, na confissão do próprio paciente quanto à associação criminosa para a prática de roubos de carga, bem como na prisão em flagrante ocorrida em 19 de novembro de 2024, quando o paciente foi surpreendido na companhia dos demais corréus portando armas de fogo"- fl. 224.
+Ir contrário ao decidido pelas instâncias ordinárias, demandaria revolvimento fático-probatório, inviável na via estreita do habeas corpus.
+Nesse sentido:
+"a tese de ausência de prova de materialidade e de autoria delitiva depende de revolvimento fático/probatório dos autos, não condizente com a via eleita. Em verdade o pedido defensivo tenta transmudar o habeas corpus em verdadeira revisão criminal e esta Corte Superior em terceira instância revisora, o que vedado" (AgRg no HC n. 916.957/MG, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 19/8/2024, DJe de 22/8/2024.)
+In casu, observa-se que a decisão que decretou a segregação cautelar está devidamente fundamentada em dados concretos extraídos dos autos, que evidenciam de maneira inconteste a necessidade da prisão para a garantia da ordem pública, notadamente pelo pelo modus operandi da conduta em tese perpetrada: o recorrente juntamente com outros corréus teriam subtraído uma carga mediante grave ameaça exercida com emprego de arma de fogo contra a vítima e mantiveram a vítima como refém, em cativeiro, com sua liberdade restringida, até aproximadamente às 06h00min da manhã do dia seguinte, quando foi liberada na zona rural do município de Brejão/PE. Imputa-se, ainda, ao paciente a integração de associação criminosa armada voltada à prática de roubos de carga, circunstâncias ensejadoras da necessidade da manutenção da segregação cautelar.
+Destaca-se a jurisprudência deste Superior Tribunal de Justiça a respeito:
+"AGRAVO REGIMENTAL EM HABEAS CORPUS. ROUBO MAJORADO E CORRUPÇÃO DE MENORES. PRISÃO PREVENTIVA. FUNDAMENTAÇÃO IDÔNEA. GRAVIDADE CONCRETA. CONDIÇÕES PESSOAIS FAVORÁVEIS. IRRELEVÂNCIA. MEDIDAS CAUTELARES ALTERNATIVAS. INSUFICIÊNCIA. AUSÊNCIA DE CONSTRANGIMENTO ILEGAL. AGRAVO REGIMENTAL DESPROVIDO.
+ ..
+4. A propósito, "A gravidade em concreto do crime e a periculosidade do agente, evidenciada pelo modus operandi, constituem fundamentação idônea para a decretação da custódia preventiva" (HC n. 212647 AgR, Relator Ministro ANDRÉ MENDONÇA, Segunda Turma, julgado em 5/12/2022, DJe 10/1/2023)." (AgRg no HC n. 987.407/SC, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 9/4/2025, DJEN de 14/4/2025.)
+No pertinente à alegação de ausência de contemporaneidade como justificativa hábil a infirmar a necessidade de manutenção da prisão preventiva, vale lembrar que:
+" a  contemporaneidade diz com os motivos ensejadores da prisão preventiva e não o momento da prática supostamente criminosa em si, ou seja, é desimportante que o fato ilícito tenha sido praticado há lapso temporal longínquo, sendo necessária, no entanto, a efetiva demonstração de que, mesmo com o transcurso de tal período, continuam presentes os requisitos (i) do risco à ordem pública ou (ii) à ordem econômica, (iii) da conveniência da instrução ou, ainda, (iv) da necessidade de assegurar a aplicação da lei penal" (STF, HC 185.893 AgR, Rel. Ministra ROSA WEBER, PRIMEIRA TURMA, julgado em 19/04/2021, DJe 26/04/2021; sem grifos no original)" (EDcl no HC n. 940.596/GO, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 8/10/2024, DJe de 14/10/2024.)
+Por fim, condições pessoais favoráveis, tais como primariedade, ocupação lícita e residência fixa, não têm o condão de garantir ao recorrente a revogação da prisão preventiva se há nos autos elementos hábeis a recomendar a manutenção de sua custódia cautelar. Pela mesma razão, não há que se falar em possibilidade de aplicação de medidas cautelares diversas da prisão, o que ocorre na hipótese.
+Diante de tais considerações, portanto, não se vislumbra a existência de qualquer flagrante ilegalidade passível de ser sanada.
+Ante o exposto, nos termos do art. 34, XVIII, b, do RISTJ, nego provimento ao recurso ordinário em habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
