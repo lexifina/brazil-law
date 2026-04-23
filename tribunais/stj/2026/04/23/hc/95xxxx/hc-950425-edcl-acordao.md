@@ -1,0 +1,37 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Sexta Turma, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Antonio Saldanha Palheiro, Carlos Pires Brandão, Og Fernandes e Sebastião Reis Júnior votaram com o Sr. Ministro Relator.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO HABEAS CORPUS. OMISSÃO. NÃO OCORRÊNCIA. NÃO PREENCHIMENTO DOS REQUISITOS DO ART. 619 DO CPP. MERA IRRESIGNAÇÃO COM O RESULTADO DO JULGAMENTO. EMBARGOS REJEITADOS.
+1. O recurso integrativo é cabível tão somente nas hipóteses de ambiguidade, obscuridade, contradição ou omissão ocorridas no acórdão embargado e é inadmissível quando, a pretexto da necessidade de esclarecimento, aprimoramento ou complemento da decisão impugnada, objetiva nova apreciação do caso.
+2. No caso, o acórdão embargado consignou expressamente que não houve fundadas razões para a busca domiciliar, uma vez que ela foi justificada com base apenas no relato dos policiais. Segundo eles, receberam denúncia anônima da prática de tráfico de drogas no local e avistaram um indivíduo correr para dentro de uma casa, com uma sacola na mão. Na referida residência, foram recebidos por familiares do acusado, que autorizaram a busca em seu domicílio, localizado nos fundos do terreno e onde não havia ninguém, o que resultou na apreensão da droga.
+3. Concluiu que a descoberta a posteriori de uma situação de flagrante decorreu de ingresso ilícito na moradia do acusado, em violação a norma constitucional que consagra direito fundamental à inviolabilidade do domicílio, o que torna imprestável, no caso concreto, a prova ilicitamente obtida e, por conseguinte, todos os atos dela decorrentes .
+4. Esta Turma examinou os argumentos do Parquet e expôs, com transparência, as razões que fundamentaram o não provimento do regimental, a fim de viabilizar a fácil compreensão dos motivos que lastrearam as conclusões do Colegiado.
+5. É inviável que esta Corte examine supostas violações de dispositivos constitucionais, mesmo que para fins de prequestionamento, por ser matéria reservada ao Supremo Tribunal Federal, nos termos do art. 102, III, da Constituição Federal.
+6 . Embargos de de claração rejeitados.
+RELATÓRIO
+O MINISTÉRIO PÚBLICO FEDERAL opõe embargos de declaração contra o acórdão de fls. 527-560, em que esta Sexta Turma negou provimento ao agravo regimental.
+O embargante sustenta que houve omissão no decisum, pois este não se manifestou a respeito dos limites e condicionantes para realização de busca domiciliar, conforme o entendimento do STF a respeito do art. 5º, X e XI, da Constituição Federal.
+Alega, ainda, que o acórdão deixou de se pronunciar a respeito do dever primordial do Estado de comprometimento com a segurança pública.
+Requer o acolhimento dos embargos de declaração, a fim de que sejam sanados os vícios apontados.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO HABEAS CORPUS. OMISSÃO. NÃO OCORRÊNCIA. NÃO PREENCHIMENTO DOS REQUISITOS DO ART. 619 DO CPP. MERA IRRESIGNAÇÃO COM O RESULTADO DO JULGAMENTO. EMBARGOS REJEITADOS.
+1. O recurso integrativo é cabível tão somente nas hipóteses de ambiguidade, obscuridade, contradição ou omissão ocorridas no acórdão embargado e é inadmissível quando, a pretexto da necessidade de esclarecimento, aprimoramento ou complemento da decisão impugnada, objetiva nova apreciação do caso.
+2. No caso, o acórdão embargado consignou expressamente que não houve fundadas razões para a busca domiciliar, uma vez que ela foi justificada com base apenas no relato dos policiais. Segundo eles, receberam denúncia anônima da prática de tráfico de drogas no local e avistaram um indivíduo correr para dentro de uma casa, com uma sacola na mão. Na referida residência, foram recebidos por familiares do acusado, que autorizaram a busca em seu domicílio, localizado nos fundos do terreno e onde não havia ninguém, o que resultou na apreensão da droga.
+3. Concluiu que a descoberta a posteriori de uma situação de flagrante decorreu de ingresso ilícito na moradia do acusado, em violação a norma constitucional que consagra direito fundamental à inviolabilidade do domicílio, o que torna imprestável, no caso concreto, a prova ilicitamente obtida e, por conseguinte, todos os atos dela decorrentes .
+4. Esta Turma examinou os argumentos do Parquet e expôs, com transparência, as razões que fundamentaram o não provimento do regimental, a fim de viabilizar a fácil compreensão dos motivos que lastrearam as conclusões do Colegiado.
+5. É inviável que esta Corte examine supostas violações de dispositivos constitucionais, mesmo que para fins de prequestionamento, por ser matéria reservada ao Supremo Tribunal Federal, nos termos do art. 102, III, da Constituição Federal.
+6 . Embargos de de claração rejeitados.
+VOTO
+Conforme o disposto no art. 619 do Código de Processo Penal, a oposição de embargos de declaração almeja, em síntese, o aprimoramento da prestação jurisdicional, por meio da retificação do julgado que se apresenta omisso, ambíguo, contraditório ou com erro material.
+É inadmissível, portanto, quando, a pretexto da necessidade de esclarecimento, aprimoramento ou complemento da decisão embargada, objetiva, em essência, a reapreciação do caso.
+Sob essas premissas, constato que, no caso em análise, o julgado não incorreu em nenhuma omissão, obscuridade, contradição ou ambiguidade que justifique estes embargos de declaração.
+O acórdão embargado consignou expressamente que não houve fundadas razões para a busca domiciliar.
+Asseriu que ", a diligência no interior da moradia foi justificada por meio da alegação dos policiais de que foram à residência do acusado para averiguar informes de que estaria ocorrendo a prática de tráfico de drogas no local" (fl. 535).
+Registrou que "Não se fez, entretanto, menção a nenhuma atitude suspeita, externalizada em atos concretos, tampouco a movimentação de pessoas típica de comercialização de drogas" (fl. 535).
+Assentou que "não havia nenhum morador na casa no momento da diligência, pois os parentes do acusado, que supostamente haveriam autorizado a entrada, moram na casa da frente e não são aptos a autorizar a diligência policial na residência alheia" (fl. 540).
+Concluiu que, "a descoberta a posteriori de uma situação de flagrante decorreu de ingresso ilícito na moradia do acusado, em violação a norma constitucional que consagra direito fundamental à inviolabilidade do domicílio, o que torna imprestável, no caso concreto, a prova ilicitamente obtida e, por conseguinte, todos os atos dela decorrentes" (fl. 542).
+Ao que se vê, esta Turma examinou os argumentos do Parquet e expôs, com transparência, as razões que fundamentaram o não provimento do regimental, a fim de viabilizar a fácil compreensão dos motivos que lastrearam as conclusões do Colegiado.
+Em verdade, a irresignação do Ministério Público se resume ao mero inconformismo com o resultado do julgamento. No entanto, aos ditames da orientação deste Tribunal Superior, os embargos de declaração são incabíveis para tal propósito.
+Por fim, não compete a esta Corte Superior o exame de supostas violações de dispositivos constitucionais, nem sequer para fins de prequestionamento, por ser matéria reservada ao Supremo Tribunal Federal, nos termos do art. 102, III, da Cons tituição Federal.
+À vista do exposto, rejeito os embargos de declaração.
