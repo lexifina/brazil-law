@@ -1,0 +1,17 @@
+DECISÃO
+Trata-se de embargos de declaração opostos por LUCINEDE GERALDA SANTOS contra decisão singular de minha lavra na qual se conheceu em parte do recurso especial e se negou provimento, afastando a apontada negativa de prestação jurisdicional, aplicando os óbices da Súmula 7 do STJ e da Súmula 283 do STF, por analogia, bem como majorando os honorários nos termos do art. 85, § 11, do Código de Processo Civil (fls. 626-630).
+Nas razões do seu recurso, a parte embargante alega erro de premissa quanto à aplicação da Súmula 283 do STF, sustentando que impugnou oportunamente a decisão de afastamento da multa do art. 475-J do CPC/1973, o que afastaria a conclusão de fundamento autônomo não atacado.
+Sustenta negativa de prestação jurisdicional por omissão sobre a compatibilidade lógica entre a conclusão do laudo pericial, que indicou crédito integral com acréscimo de R$ 1.748,62, e a homologação de apenas 54,77% do depósito, além do silêncio sobre multa e juros, afirmando ofensa ao art. 489, § 1º, IV, do CPC.
+Assinala indevida aplicação da Súmula 7 do STJ por entender tratar-se de qualificação jurídica dos fatos apurados e interpretação dos seus efeitos, sem reexame de prova, envolvendo coerência entre o laudo e a decisão e as consequências do depósito judicial.
+Impugnação aos embargos de declaração às fls. 641-644 na qual a parte embargada alega que não há omissão, obscuridade, contradição ou erro material, defendendo a suficiência da fundamentação, o caráter protelatório dos embargos e a inadequação da via para rediscussão do mérito.
+Assim delimitada a questão, passo a decidir.
+Os presentes embargos não merecem prosperar.
+Conforme consignado na decisão embargada, o acórdão estadual enfrentou de forma suficiente os pontos essenciais, inclusive ao registrar a não incidência da multa do art. 475-J do CPC/1973 por pendência de liquidação e por decisão anterior do juízo não impugnada à época, bem como a ausência de indicação concreta de erro nos cálculos e a aplicação de juros pelo perito até outubro de 2024.
+A conclusão sobre fundamento autônomo não impugnado atraiu a analogia da Súmula 283 do Supremo Tribunal Federal, o que impede a revisão do ponto nos presentes embargos.
+No tocante à alegação de contradição entre o laudo e a homologação, a decisão embargada reconheceu que eventual alteração demandaria reexaminar fatos e provas, vedação da Súmula 7 do Superior Tribunal de Justiça. A vedação alcança a discussão sobre juros e sobre a idoneidade da metodologia pericial, que foi apreciada com base no conteúdo probatório e em parâmetros fixados.
+Cumpre reforçar que "o julgador não está obrigado a responder a todas as questões suscitadas pelas partes, quando já tenha encontrado motivo suficiente para proferir a decisão" (EDcl no AgRg nos EREsp 1.483.155/BA, Rel. Ministro OG FERNANDES, CORTE ESPECIAL, julgado em 15/6/2016, DJe 3/8/2016).
+Nesse aspecto, não se configura a omissão apontada. Por conseguinte, inexiste o vício alegado.
+Ademais, os embargos de declaração não se prestam para rediscutir questões já devidamente tratadas, não havendo "( ) que se confundir decisão contrária aos interesses da parte e negativa de prestação jurisdicional, nem fundamentação sucinta com ausência de fundamentação" (EDcl no AgRg nos EREsp 1.213.226/SC, Rel. Ministro RAUL ARAÚJO, CORTE ESPECIAL, julgado em 24/10/2016, DJe 22/11/2016).
+Em face do exposto, rejeito os embargos de declaração.
+Intimem-se.
+EMENTA
