@@ -1,0 +1,18 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido de liminar, impetrado em favor de RAPHAEL QUILLES GALVÃO, apontando como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, em decorrência do julgamento da apelação criminal n. 1500089-24.2023.8.26.0557.
+Consta dos autos que o paciente foi inicialmente condenado pelo Juízo da Vara Criminal da Comarca de Olímpia à pena de 3 (três) anos, 1 (um) mês e 10 (dez) dias de reclusão, em regime aberto, além de 15 (quinze) dias-multa, por infração ao artigo 155, § 4º, incisos II e IV, do Código Penal (fls. 34).
+A defesa interpôs apelação, à qual o Tribunal de Justiça do Estado de São Paulo negou provimento (fls. 10-26). Interposto recurso especial, este foi inadmitido na origem. Na sequência, houve a interposição de agravo em recurso especial, tombado no Superior Tribunal de Justiça como ARESP 3095651-SP, o qual não foi conhecido, sendo igualmente negado provimento ao agravo regimental (fls. 740-743, ARESP 3095651-SP), encontrando-se os autos aguardando o transcurso do prazo.
+Na presente impetração, busca-se a concessão da ordem para afastar a qualificadora da escalada, sob o argumento de ausência de laudo pericial, bem como para o redimensionamento da pena aplicada (fls. 5-9).
+É o relatório. DECIDO.
+Ao compulsar os autos, verifico que a presente impetração configura mera reiteração de pedido anteriormente formulado e já apreciado no ARESP 3095651-SP. A jurisprudência consolidada do Superior Tribunal de Justiça é no sentido de que não se conhece habeas corpus quando a matéria nele suscitada já foi objeto de análise em oportunidade anterior, caracterizando repetição de pedido, circunstância que se verifica no caso, uma vez que a defesa pretende rediscutir o afastamento da qualificadora da escalada e o redimensionamento da pena, temas já examinados no âmbito do referido agravo.
+Corroborando tal posicionamento:
+AGRAVO REGIMENTAL CONTRA DECISÃO QUE INDEFERIU LIMINARMENTE O WRIT. TRÁFICO DE DROGAS. AUSÊNCIA DE MATERIALIDADE DO FATO. MATÉRIA APRESENTADA NO ARESP-2.492.804/CE. IMPOSSIBILIDADE DE REITERAÇÃO DE PEDIDO. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO.
+1. "É de se considerar que é pacífico o entendimento firmado nesta Corte de que não se conhece de habeas corpus cuja questão já tenha sido objeto de análise em oportunidade diversa, tratando-se de mera reiteração de pedido (AgRg no HC n. 796.091/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe de 26/6/2023) ." (AgRg no HC n. 765.363/SP, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 28/8/2023, DJe de 30/8/2023.)
+2. Na espécie, a tese apresentada no presente habeas corpus - ausência de materialidade do crime de tráfico de drogas - já foi objeto de recurso neste Superior Tribunal de Justiça (AResp-2.492.804/CE).
+3. Assim, o óbice processual invocado para impedir o conhecimento do recurso especial (Súmula 7/STJ), também se aplica ao habeas corpus, ação constitucional de rito célere e cognição sumária que não permite o revolvimento do material fático/probatório dos autos para a solução da controvérsia.
+4. Agravo regimental a que se nega provimento.
+(AgRg no HC 899189-CE (2024/0092193-6), relator Ministro REYNALDO SOARES DA FONSECA, Data de Julgamento: 09/04/2024, QUINTA TURMA, DJ-e de 16/04/2024)
+De toda sorte, não verifico a presença de constrangimento ilegal ou de situação teratológica que justifique a excepcional concessão da ordem, nos termos do § 2º do art. 654 do Código de Processo Penal.
+Ante o exposto, indefiro liminarmente o habeas corpus, nos termos do artigo 210 do Regimento Interno do Superior Tribunal de Justiça.
+Publique-se. Intimem-se.
+EMENTA
