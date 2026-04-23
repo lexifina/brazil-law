@@ -1,0 +1,80 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Sexta Turma, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Carlos Pires Brandão, Og Fernandes, Sebastião Reis Júnior e Rogerio Schietti Cruz votaram com o Sr. Ministro Relator.
+EMENTA
+PROCESSUAL PENAL. EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO PENAL. LIVRAMENTO CONDICIONAL. REQUISITO SUBJETIVO NÃO PREENCHDIO. HISTÓRICO PRISIONAL CONTURBADO. ALEGAÇÃO DE OMISSÃO NO ACÓRDÃO EMBARGADO. NÃO OCORRÊNCIA. REDISCUSSÃO DO MÉRITO. IMPOSSIBILIDADE.
+1. Nos termos do art. 619 do Código de Processo Penal, o recurso de embargos de declaração destina-se a suprir omissão, afastar ambiguidade, esclarecer obscuridade ou eliminar contradição existente no julgado, não sendo cabível para rediscutir matéria já suficientemente decidida.
+2. Percebe-se uma insatisfação da parte quanto ao resultado do julgamento e a pretensão de modificá-lo por meio de instrumento processual nitidamente inábil à finalidade almejada, o que não pode ser admitido.
+3. Embargos de declaração rejeitados.
+RELATÓRIO
+O EXMO. SR. MINISTRO ANTONIO SALDANHA PALHEIRO (Relator):
+Trata-se de embargos declaratórios opostos por JACKSON RODRIGUES DE MORAIS contra acórdão no qual foi desprovido o agravo regimental por ele interposto , assim ementado:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO PENAL. LIVRAMENTO CONDICIONAL. REQUISITO SUBJETIVO AUSENTE. HISTÓRICO PRISIONAL NEGATIVO. FUNDAMENTAÇÃO IDÔNEA. INEXISTÊNCIA DE FLAGRANTE ILEGALIDADE. RECURSO DESPROVIDO.
+1. O Superior Tribunal de Justiça pacificou o entendimento de que, ainda que haja atestado de boa conduta carcerária, a análise desfavorável do mérito do condenado feita pelo Juízo das execuções ou mesmo pelo Tribunal de origem, com base nas peculiaridades do caso concreto e levando em consideração fatos ocorridos durante a execução penal, justifica o indeferimento do pleito d e concessão de livramento condicional pelo inadimplemento do requisito subjetivo.
+2. No caso dos autos, a Corte de origem cassou o livramento condicional com a indicação de argumento idôneo, porquanto apontou o histórico prisional com faltas graves, sendo a última habilitada em data recente, o que afasta o alegado constrangimento ilegal, conforme o entendimento deste Tribunal Superior. Precedentes.
+3. Agravo regimental desprovido.
+Nos presentes embargos, alega o embargante, em síntese, que (e-STJ fl. 104):
+O v. acórdão embargado, ao manter a decisão que negou a ordem de Habeas Corpus, incorreu em manifesta omissão, pois deixou de analisar a questão central e única da impetração: a flagrante ilegalidade do acórdão do Tribunal de Justiça de São Paulo (TJSP), que inovou em prejuízo do réu.
+ ..
+Ocorre que o v. acórdão desta Colenda Turma, ao julgar o Agravo Regimental, limitou-se a afirmar a validade da análise do histórico prisional para a aferição do mérito, concluindo que a decisão do Tribunal local estava justificada. Com o máximo respeito, o acórdão embargado não enfrentou o ponto crucial arguido pela defesa: o STJ não se manifestou sobre se o TJSP poderia ter inovado na fundamentação. A discussão central do Habeas Corpus não era se faltas graves podem ou não obstar benefícios, mas sim se o Tribunal de segunda instância, em um recurso exclusivo da defesa, pode "descobrir" um novo motivo para negar um direito, motivo este que sequer foi considerado pelo juiz natural da causa.
+Essa prática constitui grave violação processual, configurando, ao mesmo tempo, supressão de instância  pois impede a análise da matéria pelo juízo de primeiro grau  e reformatio in pejus  pois, em um recurso da defesa, a situação do réu é agravada com a adição de um novo fundamento desfavorável.
+Assim, requer o conhecimento e provimento do recurso para (e-STJ fl. 106):
+a) Sanar a omissão apontada, determinando que esta Colenda Turma se manifeste expressamente sobre a ilegalidade do acórdão do TJSP por ter inovado na fundamentação em recurso exclusivo da defesa, configurando supressão de instância e reformatio in pejus;
+b) Por consequência, que sejam atribuídos efeitos infringentes ao recurso, para, reconhecida a violação processual, dar provimento ao Agravo Regimental e conceder a ordem de Habeas Corpus, cassando-se o acórdão do TJSP na parte em que adicionou fundamento novo para negar o livramento condicional ao embargante.
+É o relatório.
+EMENTA
+PROCESSUAL PENAL. EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO PENAL. LIVRAMENTO CONDICIONAL. REQUISITO SUBJETIVO NÃO PREENCHDIO. HISTÓRICO PRISIONAL CONTURBADO. ALEGAÇÃO DE OMISSÃO NO ACÓRDÃO EMBARGADO. NÃO OCORRÊNCIA. REDISCUSSÃO DO MÉRITO. IMPOSSIBILIDADE.
+1. Nos termos do art. 619 do Código de Processo Penal, o recurso de embargos de declaração destina-se a suprir omissão, afastar ambiguidade, esclarecer obscuridade ou eliminar contradição existente no julgado, não sendo cabível para rediscutir matéria já suficientemente decidida.
+2. Percebe-se uma insatisfação da parte quanto ao resultado do julgamento e a pretensão de modificá-lo por meio de instrumento processual nitidamente inábil à finalidade almejada, o que não pode ser admitido.
+3. Embargos de declaração rejeitados.
+VOTO
+O EXMO. SR. MINISTRO ANTONIO SALDANHA PALHEIRO (Relator)
+Os embargos de declaração, nos termos do art. 619 do Código de Processo Penal, supõem defeitos na mensagem do julgado, em termos de ambiguidade, omissão, contradição ou obscuridade, isolada ou cumulativamente.
+Essa é a vocação legal do recurso, sempre enfatizada nos precedentes do Superior Tribunal de Justiça, como se depreende do aresto a seguir:
+PROCESSUAL PENAL. EMBARGOS DE DECLARAÇÃO.  ..  ART. 619 DO CPP. AMBIGUIDADE, OMISSÃO, CONTRADIÇÃO OU OBSCURIDADE. AUSÊNCIA.
+1. Os embargos de declaração são cabíveis nas hipóteses de haver ambiguidade, obscuridade, contradição e/ou omissão no acórdão prolatado (artigo 619 do Código de Processo Penal).
+2. No caso, percebe-se claramente a oposição do recurso tão somente para rediscutir o mérito do que fora decidido. Sob o pretexto da alegação de omissão ou inexatidão, pretende o embargante apenas renovar a discussão com os mesmos argumentos com os quais a Corte Especial do Superior Tribunal de Justiça não concordou.
+ ..
+7. Embargos de declaração rejeitados. (EDcl na APn n. 613/SP, relator Ministro OG FERNANDES, CORTE ESPECIAL, DJe 3/2/2016.)
+No caso em tela, não se fazem presentes nenhum dos citados defeitos.
+Com efeito, o acórdão embargado expõe, de forma clara e suficiente, os motivos pelos quais negou provimento ao regimental defensivo, in verbis (e-STJ fls. 93/96):
+Não obstante as razões recursais, entendo que o agravo regimental não merece prosperar, de modo que a decisão agravada deve ser mantida por seus próprios fundamentos, in verbis (e-STJ fls. 64/67):
+O entendimento do Tribunal de origem não merece reparos.
+O Superior Tribunal de Justiça pacificou a orientação segundo a qual, ainda que haja atestado de boa conduta carcerária, a análise desfavorável do mérito do condenado feita pelo Juízo das execuções ou pelo Tribunal local, com base nas peculiaridades do caso concreto e levando em consideração fatos ocorridos durante a execução penal - o cometimento de faltas graves, por exemplo -, justifica o indeferimento dos pleitos de livramento condicional e progressão de regime pelo inadimplemento do requisito subjetivo.
+No caso sob apreciação, o Tribunal de origem manteve a decisão do Juízo da execução que indeferiu o pedido de livramento condicional, sob os seguintes fundamentos (e-STJ fls. 13/15):
+Agiu com acerto o ilustre Magistrado.
+Com efeito, muito embora não constituam óbice à obtenção de benefícios, a gravidade dos delitos e a longevidade da pena são fatores que implicam redobrada cautela na concessão de benesses, especialmente quando se trata de benefício de tanta amplitude como ocorre no livramento condicional.
+Além disso, conforme se extrai de seu Boletim Informativo, o agravante que possui histórico prisional maculado pela prática de duas faltas graves, com reabilitação bem recente, em 15/03/2025 (fls. 20).
+Inobstante a previsão contida no art. 83, III, "b", do Código Penal, a ausência de falta grave nos últimos 12 (doze) meses não significa preenchimento automático do requisito subjetivo, devendo ser sopesado o histórico carcerário no curso da execução.
+É nesse sentido o entendimento do Superior Tribunal de Justiça, firmado na tese do Tema Repetitivo nº 1161, in verbis: "A valoração do requisito subjetivo para concessão do livramento condicional - bom comportamento durante da execução da pena (art. 83, inciso III, alínea "a", do Código Penal) - deve considerar todo o histórico prisional, não se limitando ao período de 12 meses referido na alínea "b" do mesmo inciso III do art. 83 do Código Penal" (R Esp n. 1.970.217/MG, Relator Ministro RIBEIRO DANTAS, D Je de 1/6/2023).
+Ademais, em que pesem os argumentos sustentados pela Defesa, o agravante deve sim passar primeiramente pelo regime intermediário sob pena de se configurar verdadeira progressão por saltos, vedada em nosso ordenamento jurídico.
+Não se ignora que o livramento condicional possui regramento próprio, contudo, as condições subjetivas do sentenciando devem ser cautelosamente avaliadas, sendo inadmissível recolocar no seio da sociedade indivíduo que pode não ter ainda assimilado adequadamente a terapia prisional.
+Nesse sentido: "A análise do requisito subjetivo pressupõe a verificação do mérito do condenado, considerado todo o convívio do penitente no cárcere ao longo do desconto da reprimenda, de sorte que não está adstrito ao "bom comportamento carcerário" (restrito ao tempo de eventual reabilitação), como faz parecer a literalidade da lei. (..) Clara necessidade de efetiva experiência no semiaberto para verificar a evolução do processo de ressocialização, com assimilação dos ditames da terapêutica penal. Não é adequada a passagem direta do regime fechado para o livramento condicional sem o estágio no regime semiaberto, o qual consiste em cautela importante" (Agravo de Execução Penal 0005985-53.2020.8.26.0032, Relator Desembargador ALCIDES MALOSSI JUNIOR, Julgado em 19/08/2021).
+Vale ressaltar, ainda, que o sistema progressivo da execução penal se baseia na reinserção gradual do sentenciado à sociedade, permitindo que passe de um regime mais severo para um regime mais brando até que alcance a liberdade, lembrando que o livramento condicional é compreendido como última etapa da reintegração social.
+Impossível, assim, admitir a passagem direta do regime fechado para o livramento condicional.
+Escorreita, portanto, a r. decisão atacada, que fica integralmente mantida por seus próprios e bem lançados fundamentos.
+Da análise dos excertos acima transcritos, verifica-se que as instâncias ordinárias lograram fundamentar a negativa do benefício em elementos concretos e idôneos, levando em consideração a gravidade concreta dos delitos cometidos como também o histórico carcerário do apenado.
+Tal entendimento está em consonância com a orientação desta Corte Superior acerca do tema, conforme indicam os seguintes julgados, mantidas as respectivas particularidades:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO PENAL. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA. OFENSA À DIALETICIDADE. SÚMULA N. 182/STJ. PROGRESSÃO DE REGIME. AUSÊNCIA DO REQUISITO SUBJETIVO. EXAME CRIMINOLÓGICO DESFAVORÁVEL. FUNDAMENTAÇÃO IDÔNEA. ATESTADO DE ÓTIMO COMPORTAMENTO CARCERÁRIO. INSUFICIENTE. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. Não foram trazidos argumentos novos para a desconstituição da decisão agravada, limitando-se a reiterar as razões do habeas corpus, já examinadas e rechaçadas pela decisão monocrática, atraindo a Súmula n. 182/STJ, por violação ao princípio da dialeticidade.
+2. O Superior Tribunal de Justiça já teve oportunidade de se debruçar sobre o tema em diversos julgados, manifestando-se no sentido de que, no tocante ao benefício da progressão de regime, a desconstituição das conclusões alcançadas nas instâncias anteriores quanto aos requisitos subjetivos dos incisos I e III do art. 123 da Lei de Execução Penal, exige o reexame do arcabouço fático-probatório da execução penal, o que se mostra incabível na estreita via do habeas corpus.
+3. No caso dos autos, o Tribunal de origem negou o pedido de progressão de regime prisional, diante da ausência de cumprimento do requisito subjetivo do reeducando, consubstanciado não apenas na gravidade dos crimes cometidos e na ausência de falta grave nos últimos 12 (doze) meses, mas na existência de aspectos desfavoráveis destacados no exame criminológico do agravante.
+4. Esta Corte de Justiça têm entendimento firmado no sentido de que se o exame criminológico desfavorece o sentenciado, ainda que somente alguns de seus aspectos sejam negativos, há fundamentação idônea para o indeferimento da progressão de regime.
+5. Ainda que haja atestado de boa conduta carcerária, diante da análise desfavorável do mérito do condenado, com base nas peculiaridades do caso concreto, justifica o indeferimento do pleito de progressão de regime prisional pelo inadimplemento do requisito subjetivo. Precedentes.
+6. Agravo regimental não provido.
+(AgRg no HC n. 901.759/SP, relator Ministro Otávio de Almeida Toledo, Desembargador Convocado do TJSP, Sexta Turma, julgado em 3/9/2024, DJe de 6/9/2024, grifei.)
+EXECUÇÃO PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. INCONFORMISMO DA PARTE, ALEGANDO DETERMINAÇÃO DE EXAME CRIMINOLÓGICO SEM FUNDAMENTOS CONCRETOS. IMPUGNAÇÃO INCABÍVEL. EXAME JÁ EFETUADO. PRECLUSÃO. LAUDO PSICOLÓGICO CONCLUSIVO, BASEADO EM ASPECTOS ABSTRATOS DA GRAVIDADE DO CRIME. INOCORRÊNCIA. PSICÓLOGOS SE ATIVERAM À PERICULOSIDADE DO EXECUTADO. AGRAVO REGIMENTAL IMPROVIDO.
+1. Incabível a impugnação de determinação de exame criminológico com base em decisão sem fundamentos concretos, uma vez que a defesa deveria ter se insurgido contra a realização da avaliação em momento oportuno, ou seja, após a determinação do exame e antes de sua confecção. Nesse sentido: Contra a determinação da realização do exame, contudo, a d. Defesa sequer se in surgiu e, agora, além de matéria abarcada pela preclusão, o que se tem é que há prova recente nos autos, produzida durante a execução penal, que não recomenda o benefício almejado ( STJ - HC 609042, Rel. Ministro FELIX FISCHER, data da publicação: 39/9/2020).
+2. Segundo jurisprudência firmada por esta Corte, o parecer psicossocial desfavorável é suficiente para impedir a progressão de regime: Não se vislumbra qualquer ilegalidade ou arbitrariedade na decisão impugnada, tendo em vista as peculiaridades do caso concreto - avaliação técnica desfavorável - que justificam o indeferimento da progressão do regime prisional em razão da ausência do cumprimento do requisito subjetivo pelo apenado (precedentes). Habeas Corpus não conhecido. (HC 322.501/MS, Rel. Ministro FELIX FISCHER, Quinta Turma, julgado em 1º/9/2015, DJe 9/9/2015.
+3. No caso, ficou claro que os peritos da área psicológica avaliaram a situação de periculosidade do apenado, quando descreveram que ele não tem condições de retornar a viver em sociedade, bem como não se ressentiu dos crimes que praticou.
+4. Agravo regimental improvido.
+(AgRg no HC n. 650.845/AL, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 13/4/2021, DJe de 19/4/2021, grifei.)
+Não vislumbro, pois, o constrangimento ilegal sustentado.
+Ante o exposto, indefiro liminarmente o habeas corpus.
+Ante o exposto, nego provimento ao agravo regimental.
+Ora, considerando os fundamentos expostos, notadamente, no caso, não se verifica nenhuma ilegalidade flagrante a atrair a concessão da ordem .
+Portanto, constata-se uma insatisfação da parte quanto ao resultado do julgamento e a pretensão de modificá-lo por meio de instrumento processual nitidamente inábil à finalidade almejada, o que não pode ser admitido.
+Ante o exposto, rejeito os embargos declaratórios.
+Publique-se. Intimem-se.
+Ministro ANTONIO SALDANHA PALHEIRO
+Relator
