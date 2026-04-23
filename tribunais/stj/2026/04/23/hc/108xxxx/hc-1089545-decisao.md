@@ -1,0 +1,34 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido de liminar, impetrado em benefício de JOAB DE SOUZA, contra decisão de desembargadora do TRIBUNAL DE JUSTIÇA DO ESTADO DE GOIÁS proferida no julgamento do Habeas Corpus Criminal n. 5327656-87.2026.8.09.0144.
+Extrai-se dos autos que o paciente foi preso em flagrante em 11/10/2020, posteriormente convertido em prisão preventiva, e restou denunciado pela suposta prática do crime tipificado no art. 121, § 2º, II, c/c o art. 14, II, ambos do Código Penal - CP. Posteriormente, a prisão preventiva foi revogada, sendo-lhe impostas medidas cautelares. Todavia, sobreveio novo decreto de prisão preventiva, em razão de alegado descumprimento das cautelares (fls. 19/26).
+Irresignada, a defesa impetrou habeas corpus perante o Tribunal a quo, cuja liminar foi indeferida pela Desembargadora plantonista, conforme decisão monocrática de fls. 14/18.
+No presente writ, a defesa sustenta a ausência de contemporaneidade e de necessidade atual da medida extrema, afirmando que não estão presentes os requisitos estabelecidos no art. 312 do Código de Processo Penal - CPP para a decretação da prisão preventiva, diante de fundamentos genéricos e pretéritos.
+Sustenta inexistir prova inequívoca de ciência das medidas cautelares impostas, o que inviabiliza a conclusão de descumprimento e afasta a legitimidade da restauração da custódia com base no art. 282, § 4º, do CPP.
+Assevera condições pessoais favoráveis, com destaque à residência fixa, vínculos familiares e patrimoniais, percepção de benefício por incapacidade e tratamento psiquiátrico contínuo, o que afasta qualquer óbice à aplicação da lei penal.
+Requer, em liminar e no mérito, a concessão da ordem para que seja revogada a prisão preventiva, com aplicação de medidas cautelares diversas da prisão, e expedido alvará de soltura.
+É o relatório.
+Decido.
+A jurisprudência desta Corte Superior, aplicando por analogia o enunciado n. 691 da Súmula do Supremo Tribunal Federal, firmou-se no sentido de não conhecer de mandamus impetrado contra decisão que indefere liminar na origem, excetuados os casos nos quais, de plano, é possível identificar flagrante ilegalidade ou teratologia do referido decisum.
+Nesse sentido, destaco os seguintes precedentes:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. INDEFERIMENTO LIMINAR. TRÁFICO DE DROGAS. PRISÃO DOMICILIAR. CONDIÇÃO MATERNA. SUPERAÇÃO DA SÚMULA N. 691/STF. IMPOSSIBILIDADE. AUSÊNCIA DE TERATOLOGIA OU DEFICIÊNCIA DE FUNDAMENTAÇÃO. SITUAÇÃO EXCEPCIONAL. TRÁFICO PRATICADO NA PRESENÇA DAS FILHAS MENORES. AGRAVO REGIMENTAL DESPROVIDO. I. CASO EM EXAME
+1. Agravo regimental interposto contra decisão monocrática que indeferiu liminarmente habeas corpus, com fundamento na Súmula n. 691/STF, sob o argumento de inexistência de flagrante ilegalidade. A agravante pleiteia a concessão de prisão domiciliar, alegando a necessidade de cuidados maternos para crianças menores de 12 anos, ou, subsidiariamente, a inclusão imediata do habeas corpus em pauta pelo Tribunal de origem, sem a necessidade de relatório do Conselho Tutelar. II. QUESTÕES EM DISCUSSÃO
+2. Há duas questões em discussão: (i) determinar se a vedação da Súmula n. 691/STF pode ser mitigada no caso concreto, ante a suposta ausência de fundamentação idônea na decisão que indeferiu liminarmente o habeas corpus; e (ii) verificar se estão presentes os requisitos para a concessão da prisão domiciliar à agravante, mãe de menores de 12 anos. III. RAZÕES DE DECIDIR
+1. A teor do disposto na Súmula n. 691 do Supremo Tribunal Federal, inadmissível a utilização de habeas corpus contra decisão que indeferiu o pedido liminar em writ impetrado no Tribunal de origem, sob pena de indevida supressão de instância.
+2. O pleito liminar, em habeas corpus, deve ser concedido apenas em hipóteses excepcionalíssimas, de flagrante afronta ou ameaça ao direito de locomoção do indivíduo, e que não dependam de análise profunda das razões que embasaram a pretensão, situações que não foram constatadas, de plano, consoante o indeferimento do pedido liminar na origem.
+3. Havendo indícios de que a traficância ocorria na residência da agravante, na presença de suas filhas menores, gerando possível risco à sua incolumidade, a situação dos autos configura hipótese excepcional que afasta a concessão da prisão domiciliar, em virtude da necessidade de proteção integral à infância e adolescência (art.
+227 da Constituição da República).
+4. Ausente teratologia ou evidente falta de fundamentação, descaracterizada mitigação ou superação da Súmula n. 691/STF, sendo necessário o aguardo das informações requisitadas pelo Tribunal de origem para análise aprofundada da questão.
+3. AGRAVO REGIMENTAL DESPROVIDO.
+(AgRg no HC n. 979.414/MG, relator Ministro Carlos Cini Marchionatti (Desembargador Convocado TJRS), Quinta Turma, julgado em 20/5/2025, DJEN de 26/5/2025.)
+AGRAVO REGIMENTAL NO HABEAS CORPUS. PROCESSUAL PENAL. IMPETRAÇÃO CONTRA DECISÃO INDEFERITÓRIA DE LIMINAR EM OUTRO HABEAS CORPUS NA ORIGEM, AINDA NÃO JULGADO. SÚMULA N. 691 DA SUPREMA CORTE. IMPOSSIBILIDADE DE SUPERAÇÃO. AUSÊNCIA DE TERATOLOGIA. SUPRESSÃO DE INSTÂNCIA. AGRAVO REGIMENTAL DESPROVIDO.
+1. Não se admite habeas corpus contra decisão denegatória de liminar proferida em outro writ na instância de origem, sob pena de indevida supressão de instância. Súmula n. 691/STF.
+2. No caso, não se constata, prima facie, flagrante ilegalidade que autorize a mitigação da Súmula n. 691, da Suprema Corte, tendo em vista a indicação de necessidade da prisão cautelar para garantia da ordem pública a fim de impedir a continuidade das atividades criminosas.
+3. Não havendo notícia de que o Tribunal a quo tenha procedido ao exame meritório, reserva-se primeiramente àquele Órgão a apreciação da matéria ventilada no habeas corpus originário, sendo defeso a esta Corte Superior adiantar-se nesse exame, sobrepujando a competência da Corte a quo, mormente se o writ está sendo regularmente processado.
+4. Agravo regimental desprovido.
+(AgRg no HC n. 872.481/RO, relator Ministro Teodoro Silva Santos, Sexta Turma, julgado em 26/2/2024, DJe de 5/3/2024.)
+Na hipótese, ao menos em juízo perfunctório, não vislumbro a possibilidade de superação do mencionado enunciado sumular. Note-se que o indeferimento da tutela de urgência pautou-se em fundamentação idônea ao afirmar que o constrangimento ilegal aventado pelo impetrante não estava manifesto e detectável de plano, de modo que a análise das alegações foi reservada ao colegiado.
+Assim, de acordo com a pacífica jurisprudência do Superior Tribunal de Justiça, a fim de evitar indevida supressão de instância, deve-se aguardar o julgamento de mérito da impetração pela Corte de origem.
+Ante o exposto, com fundamento no art. 210 do Regimento Interno do Superior Tribunal de Justiça, indefiro liminarmente o presente habeas corpus.
+Publique-se.
+Intimem-se.
+ EMENTA
