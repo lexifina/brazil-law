@@ -1,0 +1,41 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, interposto por VALDIR FELICIO DE SOUZA LACERDA JUNIOR contra acórdão do TRIBUNAL DE JUSTIÇA DE MINAS GERAIS, que denegou a ordem no writ de origem.
+Consta dos autos que o paciente se encontra preso preventivamente, sendo denunciado pela prática do crime de latrocínio.
+Sustenta a defesa que a prisão preventiva viola o princípio da presunção de inocência e o fato de o paciente não possuir antecedentes criminais deveria afastar a alegação de reiteração delitiva e a periculosidade, devendo-se, portanto, aplicar medidas restritivas diversas da prisão, previstas no art. 319 do CPP, igualmente cabíveis e suficientes ao caso concreto.
+Requer, liminarmente e no mérito, a revogação da prisão preventiva ou a aplicação das medidas cautelares diversas da prisão, como a monitoração eletrônica.
+É o relatório.
+A Constituição da República assegura no art. 5º, caput, LXVII, que "conceder-se-á habeas corpus sempre que alguém sofrer ou se achar ameaçado de sofrer violência ou coação em sua liberdade de locomoção, por ilegalidade ou abuso de poder".
+Todavia, a concessão de liminar em habeas corpus, e no seu correspondente recursal, somente é cabível quando se observa, de plano, evidente constrangimento ilegal.
+A prisão preventiva justifica-se apenas quando devidamente demonstrada sua imprescindibilidade para a preservação da ordem pública, a garantia da regularidade da instrução criminal ou a asseguração da eficácia da aplicação da lei penal, nos termos do art. 312 do Código de Processo Penal.
+O decreto prisional, transcrito no acórdão impugnado, foi assim fundamentado (fls. 16-17):
+ ..  No que se refere ao requisito necessidade da custódia cautelar, verifica-se que não se trata de um delito qualquer, verificando-se da leitura do flagrante a gravidade concreta deste, revelada pela frieza com que o crime foi praticado, a banalidade da conduta diante do caso concreto e a indiferença absurda adotada pelos autores do delito após a consumação deste.
+Além disso, vislumbra-se que houve premeditação, já que a trama deu-se início no dia 2 de dezembro de 2025, quando Valdir, ciente da dificuldade financeira de Leonardo, propôs ajudá-lo. Para isso, Leonardo teria que buscar armas de fogo na cidade de Itaúna/MG, que seriam utilizadas para abrir um clube de tiro, de propriedade de Valdir, e após, levá-las para a cidade de Ibirité/MG, onde Leonardo seria responsável por armazenar e guardar as armas de fogo.
+Registre-se, por relevante, que o crime, na forma chocante como foi realizado, causou impacto extremamente negativo na sociedade de Itaúna/MG onde a vítima e seus familiares eram muito conhecidos, de modo que a soltura destes certamente causará a sensação de impunidade abalando ainda mais a credibilidade da Justiça.
+Registre-se por relevante que não se está aqui a agradar a imprensa, mas a demonstrar à sociedade que fatos desta natureza não poderão ficar impunes, já que a impunidade é elemento que estimula a reiteração de atos desta natureza, banalizando a vida, compactuando com latrocínios e passando a mensagem de que as pessoas de bem não merecem ter sua segurança assegurada. ..
+Verifica-se que a prisão preventiva foi decretada mediante fundamentação idônea, lastreada na gravidade concreta do delito, situação que revela a sua indispensabilidade, extraindo-se da denúncia (fls. 20-21):
+ ..  Entre os dias 2 e 3 de dezembro de 2025, no período compreendido entre 22h00min do dia 2 e 02h00 do dia 3, em local incerto, em Itaúna/MG, os denunciados Valdir Felício de Souza Lacerda Júnior, Leonardo Otoni de Aquino e Eudes de Souza, em comunhão de esforços e desígnios entre si, de forma livre e consciente, subtraíram, para proveito comum, mediante violência, 42 armas de fogo, pertencentes à empresa Silent Shot, sendo que, da violência, resultou a morte da vítima Migiber Filipe Fernandes, que sofreu as lesões descritas no laudo de necrópsia, que foram causa única e suficiente da sua morte.
+Conforme consta do caderno investigativo, no dia 3 de dezembro de 2025, no período da manhã, foi encontrado o corpo já sem vida do ofendido Migiber em uma estrada rural às margens da Rodovia MG-050, sendo a Polícia Militar acionada. Os militares compareceram ao local e acionaram a perícia da Polícia Civil, sendo que, no desenrolar do trabalho pericial, a equipe foi informada que a loja de armas de fogo e acessórios de propriedade da vítima havia sido invadida durante a madrugada e vários artefatos bélicos haviam sido subtraídos. ..
+A propósito:
+DIREITO PROCESSUAL PENAL. HABEAS CORPUS. PRISÃO PREVENTIVA. LATROCÍNIO E ASSOCIAÇÃO CRIMINOSA. GRAVIDADE CONCRETA DA CONDUTA DELITIVA. PERICULOSIDADE DO AGENTE. RISCO DE REITERAÇÃO DELITIVA. PRESERVAÇÃO DA VÍTIMA SOBREVIVENTE. NECESSIDADE DE GARANTIA DA INSTRUÇÃO CRIMINAL E DA ORDEM PÚBLICA. INVIABILIDADE DE MEDIDAS CAUTELARES DIVERSAS. ORDEM DENEGADA.
+I. CASO EM EXAME
+1. Habeas corpus impetrado em favor de réu preso preventivamente sob a acusação de latrocínio e associação criminosa, visando a revogação da prisão cautelar, sob alegação de constrangimento ilegal pela ausência dos requisitos que justificariam a manutenção da segregação.
+II. QUESTÃO EM DISCUSSÃO
+2. Há duas questões em discussão: (i) verificar se a manutenção da prisão preventiva encontra justificativa na gravidade concreta do delito de latrocínio e na periculosidade do agente; (ii) determinar se a prisão preventiva é indispensável para garantir a ordem pública e a aplicação da lei penal, diante da impossibilidade de substituição por medidas cautelares menos gravosas.
+III. RAZÕES DE DECIDIR
+3. A prisão preventiva é compatível com a presunção de inocência, desde que não configure antecipação de pena e seja fundamentada em elementos concretos que demonstrem o "fumus comissi delicti" e o "periculum libertatis", conforme o art. 312 do CPP.
+4. A gravidade concreta do delito, caracterizada pela violência intrínseca ao crime de latrocínio e pela forma de execução, justifica a manutenção da prisão preventiva para garantia da ordem pública e da aplicação da lei penal.
+5. A periculosidade do réu, evidenciada pela confissão informal e pelo reconhecimento da vítima sobrevivente, aliada ao fato de que o acusado ainda não foi ouvido em juízo, reforça a necessidade da custódia cautelar para assegurar a conveniência da instrução criminal.
+6. A natureza hedionda do crime de latrocínio e a associação criminosa, somadas ao risco de reiteração delitiva, indicam a insuficiência de medidas cautelares alternativas à prisão, que não seriam capazes de resguardar a ordem pública.
+7. A sentença condenatória prolatada, que indeferiu o direito de recorrer em liberdade, reafirma a permanência dos motivos que justificaram a decretação da prisão preventiva, dada a evidente periculosidade dos acusados e o risco concreto à segurança pública.
+IV. DISPOSITIVO E TESE
+8. Ordem de habeas corpus denegada.
+Tese de julgamento:
+1. A manutenção da prisão preventiva é justificada pela gravidade concreta do delito de latrocínio, pela periculosidade do agente e pela necessidade de garantir a ordem pública e a aplicação da lei penal.
+2. A prisão preventiva é indispensável quando o risco de reiteração delitiva é evidenciado, não sendo suficientes medidas cautelares alternativas para acautelar a ordem pública.
+(HC n. 885.160/SP, relatora Ministra Daniela Teixeira, Quinta Turma, julgado em 8/10/2024, DJe de 11/11/2024.)
+Por fim, em razão da motivação acima, " a s circunstâncias que envolvem o fato demonstram que outras medidas previstas no art. 319 do CPP não surtiriam o efeito almejado para a proteção da ordem pública, sendo certo, ainda, que condições subjetivas favoráveis do acusado, por si sós, não impedem a prisão cautelar, caso se verifiquem presentes os requisitos legais para a decretação da segregação provisória" (RCD no HC n. 1.061.322/SP, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 4/3/2026, DJEN de 9/3/2026).
+Assim, inexistindo divergência da matéria no órgão colegiado deste Tribunal, admissível o exame deste habeas corpus in limine pelo relator, nos termos do art. 34, XVIII e XX, do RISTJ.
+Ante o exposto, não conheço o habeas corpus.
+Publique-se.
+Intimem-se.
+ EMENTA
