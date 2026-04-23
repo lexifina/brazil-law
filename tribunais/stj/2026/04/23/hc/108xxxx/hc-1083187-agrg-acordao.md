@@ -1,0 +1,43 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Sexta Turma, por unanimidade, negar provimento ao agravo regimental, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Carlos Pires Brandão, Og Fernandes, Sebastião Reis Júnior e Rogerio Schietti Cruz votaram com o Sr. Ministro Relator.
+EMENTA
+AGRAVO REGIMENTAL NO HABEAS CORPUS. IMPOSSIBILIDADE DE CONHECIMENTO DA IMPETRAÇÃO. HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. AGRAVO REGIMENTAL DESPROVIDO.
+1. O Superior Tribunal de Justiça vem buscando fixar balizas para a racionalização do uso do habeas corpus, visando a garantia não apenas do curso natural das ações ou revisões criminais mas também da efetiva priorização do objeto ínsito ao remédio heroico, qual seja, o de prevenir ou remediar lesão ou ameaça de lesão ao direito de locomoção.
+2. A jurisprudência desta Corte é uníssona no sentido de que não cabe a utilização de habeas corpus como sucedâneo de recurso próprio, mormente quando não se verifica flagrante ilegalidade apta a atrair a concessão da ordem de ofício, como na espécie.
+3. Agravo regimental desprovido.
+RELATÓRIO
+O EXMO. SR. MINISTRO ANTONIO SALDANHA PALHEIRO (Relator):
+Trata-se de agravo regimental interposto por GABRIEL NUNES COSTA contra decisão em que não conheci o habeas corpus (e-STJ fls. 231/242).
+Depreende-se dos autos que o ora agravante foi pronunciado como incurso nas sanções do art. 121, § 2º, incisos I (motivo torpe), e IV (uso de recurso que dificultou a defesa da vítima), na forma do art. 29, caput, ambos do Código Penal.
+Irresignada, a defesa interpôs recurso em sentido estrito, ao qual foi dado parcial provimento, em acórdão assim ementado (e-STJ fl. 17):
+RECURSO EM SENTIDO ESTRITO. HOMICÍDIO QUALIFICADO. INSURGÊNCIA DEFENSIVA. EXISTÊNCIA DE PROVA DA MATERIALIDADE DO CRIME E DE SUFICIENTES INDICIOS DE AUTORIA RECAINDO SOBRE O IMPUTADO. TESTEMUNHAS O RECONHECERAM COMO AUTOR DO CRIME, SENDO QUE UMA DELAS JÁ O CONHECIA PREVIAMEN E, O QUE AFASTA A HIPÓTESE DE FALHA NO RECONHECIMENTO. PEQUENAS DIVERGÊNCIAS ENTRE OS DEPOIMENTOS DAS TESTEMUNHAS NÃO AFASTAM A POSSIBILIDADE DE SUBMISSÃO DO RÉU AO TRIBUNAL DO JÚRI. ÁLIBI NÃO SUFICIENTEMENTE COMPROVADO. PREVALÊNCIA DAS PROVAS QUE INDICAM O ENVOLVIMENTO DO ACUSADO NO CRIME DOLOSO CONTRA A VIDA DESCRITO NA DENUNCIA, COM BASE EM JUIZO DE PROBABILIDADE E ELEVADO GRAU DE CONVENCIMENTO, NOS LIMITES DA ANÁLISE SUMÁRIA PRÓPRIA DESTA FASE PROCESSUAL. PRESENÇA DAS QUALIFICADORAS DO MOTIVO TORPE - RELACIONADO A SUPOSTAS DESAVENÇAS ENTRE GRUPOS CRIMINOSOS ENVOLVIDOS COM O TRÁFICO DE DROGAS - E DO RECURSO QUE DIFICULTOU A DEFESA DA VÍTIMA - SURPRESA EM SUA RESIDÊNCIA, QUANDO APRESENTAVA FRAT URA EM UMA DAS PERNAS, O QUE TERIA COMPROMETIDO SUA CAPACIDADE DE REAÇÃO OU FUGA. QUALIFICADORA DO PERIGO COMUM AFASTADA, POIS A CONDUTA. EMBORA GRAVE. OCORREU NO INTERIOR DA RESIDENCIA DA VÍTIMA, ONDE HAVIA NÚMERO LIMITADO DE FAMILIARES E COM DISPAROS DIRECIONADOS, NÃO SE CONFIGURANDO RISCO CONCRETO A NÚMERO INDETERMINADO DE PESSOAS.
+RECURSO EM SENTIDO ESTRITO PARCIALMENTE PROVIDO.
+No Superior Tribunal de Justiça, sustentou a defesa nulidade do reconhecimento pessoal por "violação expressa aos critérios definidos no art. 226 do CPP (que norteia o procedimento de reconhecimento de pessoas), na forma definida pelo TEMA n. 1.258 do STJ" (e-STJ fl. 5).
+Pleiteou o reconhecimento da nulidade apontada e, por consequência, a cassação da decisão de pronúncia.
+No presente agravo, reitera a defesa as razões da inicial.
+Requer, por fim, a reconsideração da decisão agravada ou julgamento pelo órgão colegiado.
+É, em síntese, o relatório.
+EMENTA
+AGRAVO REGIMENTAL NO HABEAS CORPUS. IMPOSSIBILIDADE DE CONHECIMENTO DA IMPETRAÇÃO. HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. AGRAVO REGIMENTAL DESPROVIDO.
+1. O Superior Tribunal de Justiça vem buscando fixar balizas para a racionalização do uso do habeas corpus, visando a garantia não apenas do curso natural das ações ou revisões criminais mas também da efetiva priorização do objeto ínsito ao remédio heroico, qual seja, o de prevenir ou remediar lesão ou ameaça de lesão ao direito de locomoção.
+2. A jurisprudência desta Corte é uníssona no sentido de que não cabe a utilização de habeas corpus como sucedâneo de recurso próprio, mormente quando não se verifica flagrante ilegalidade apta a atrair a concessão da ordem de ofício, como na espécie.
+3. Agravo regimental desprovido.
+VOTO
+O EXMO. SR. MINISTRO ANTONIO SALDANHA PALHEIRO (Relator):
+A despeito dos argumentos apresentados pela agravante, não vislumbro motivos para alterar a decisão ora impugnada, a qual deve ser integralmente mantida.
+O Superior Tribunal de Justiça, de longa data, vem buscando fixar balizas para a racionalização do uso do habeas corpus, visando a garantia não apenas do curso natural das ações ou revisões criminais mas também da efetiva priorização do objeto ínsito ao remédio heroico, qual seja, o de prevenir ou remediar lesão ou ameaça de lesão ao direito de locomoção.
+Nessa linha, "é incognoscível, ordinariamente, o habeas corpus impetrado em substituição à via recursal de impugnação própria" (AgRg no HC n. 716.759/RS, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 26/9/2023, DJe de 2/10/2023).
+A propósito:
+AGRAVO REGIMENTAL NO HABEAS CORPUS SUBSTITUTIVO DE RECURSO ESPECIAL. EXECUÇÃO PENAL. UNIFICAÇÃO DE PENAS. ART. 71 DO CÓDIGO PENAL. CONTINUIDADE DELITIVA. UNIDADE DE DESÍGNIOS. HABITUALIDADE DELITIVA. NECESSIDADE REVOLVIMENTO DO ACERVO FATICO-PROBATÓRIO. IMPOSSIBILIDADE NA VIA ESTREITA DO WRIT. AGRAVO NÃO PROVIDO.
+1. Esta Corte e o Supremo Tribunal Federal pacificaram orientação no sentido de que não cabe habeas corpus substitutivo do recurso legalmente previsto para a hipótese, impondo-se o não conhecimento da impetração, salvo quando constatada a existência de flagrante ilegalidade no ato judicial impugnado.
+2. O Superior Tribunal de Justiça possui entendimento de que para o reconhecimento da continuidade delitiva, exige-se, além da comprovação dos requisitos objetivos, a unidade de desígnios, ou seja, o liame volitivo entre os delitos, a demonstrar que os atos criminosos se apresentam entrelaçados. Dessa forma, a conduta posterior deve constituir um desdobramento da anterior (Precedentes).
+3. Na espécie, a Corte local concluiu que os crimes perpetrados não possuíam um liame a indicar a unidade de desígnios, verificando-se, assim, a habitualidade e não a continuidade delitiva. Desconstituir tais premissas demandaria o revolvimento do acervo fático-probatório dos autos, inviável na via estreita do habeas corpus.
+4. Agravo regimental não provido. (AgRg no HC n. 853.767/SP, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 30/10/2023, DJe de 3/11/2023.)
+AGRAVO REGIMENTAL EM HABEAS CORPUS INDEFERIDO LIMINARMENTE. MANDAMUS SUBSTITUTIVO DE RECURSO ESPECIAL. DESCABIMENTO. EXECUÇÃO PENAL. PRESCRIÇÃO DA PRETENSÃO EXECUTÓRIA. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DA DECISÃO AGRAVADA. INCIDÊNCIA DO ENTENDIMENTO DA SÚMULA 182/STJ.
+Agravo regimental não conhecido. (AgRg no HC n. 819.537/MG, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 28/8/2023, DJe de 31/8/2023.)
+Ademais, não verifico a presença de flagrante ilegalidade apta a atrair a concessão da ordem de ofício, uma vez ter sido consignado no acórdão recorrido que "a testemunha ISMAEL reconheceu o local do fato diante das imagens mostradas pelo Ministério Público e fez a identificação do acusado, que compareceu ao ato de forma virtual. ISMAEL já conhecia o réu previamente ao fato, o que afasta a possibilidade de um reconhecimento falho. Na verdade, houve uma identificação e não um reconhecimento propriamente dito" (e-STJ fl. 26, grifei). Tal circunstância se emoldura ao item 3.6 da tese fixada no Tema n. 1.258/STJ, que diz ser " d esnecessário realizar o procedimento formal de reconhecimento de pessoas, previsto no art. 226 do CPP, quando não se tratar de apontamento de indivíduo desconhecido com base na memória visual de suas características físicas percebidas no momento do crime, mas, sim, de mera identificação de pessoa que o depoente já conhecia anteriormente".
+Ante o exposto, nego provimento ao agravo regimental.
+É o voto.
+Ministro ANTONIO SALDANHA PALHEIRO
+Relator
