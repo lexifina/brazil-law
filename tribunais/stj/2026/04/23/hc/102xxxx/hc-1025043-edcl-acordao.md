@@ -1,0 +1,38 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Sexta Turma, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Antonio Saldanha Palheiro, Carlos Pires Brandão, Og Fernandes e Sebastião Reis Júnior votaram com o Sr. Ministro Relator.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NOS EMBARGOS DE DECLARAÇÃO NO HABEAS CORPUS. OMISSÃO. VÍCIO NÃO CONSTATADO. DOSIMETRIA DA PENA. BIS IN IDEM. RECONHECIMENTO. AFASTAMENTO DA EXASPERAÇÃO DA PENA-BASE. MANUTENÇÃO DA AGRAVANTE DO ART. 62, I, DO CÓDIGO PENAL. ALEGADA EXTENSÃO DE EFEITOS COM BASE EM JULGAMENTO DE CORRÉU. ART. 580 DO CPP. INEXISTÊNCIA DE IDENTIDADE FÁTICO-JURÍDICA. SITUAÇÕES PROCESSUAIS DISTINTAS. EMBARGOS DE DECLARAÇÃO REJEITADOS.
+1. Os embargos de declaração são destinados a sanar omissão, ambiguidade, contradição ou obscuridade no julgado. A assertiva, no entanto, não pode ser confundida com o mero inconformismo da parte com a conclusão alcançada pelo julgador, que, a despeito das teses aventadas, lança mão de fundamentação idônea e suficiente para a formação do seu convencimento.
+2. No caso, foi reconhecido o bis in idem no uso da função de liderança/gerência para exasperar a pena-base e para justificar a agravante do art. 62, I, do Código Penal, afastou-se a valoração negativa na primeira fase da dosimetria, fixou-se a pena-base no mínimo legal e preservou-se apenas a agravante legalmente prevista.
+3. Inviável a extensão pretendida quando ausente identidade fático-jurídica entre os casos, notadamente porque, no julgamento do corréu, não houve incidência da agravante do art. 62, I, do Código Penal.
+4. Embargos de declaração rejeitados.
+RELATÓRIO
+O SENHOR MINISTRO ROGERIO SCHIETTI CRUZ:
+RICARDO DE SOUZA MELLO opõe embargos de declaração contra o acórdão de fls. 1.995-1.999, em que o agravo regimental não foi provido e foi concedido habeas corpus, de ofício, para reduzir as penas-base ao mínimo legal e tornar a reprimenda definitiva em 11 anos de reclusão e 1.500 dias-multa.
+O embargante sustenta, em síntese, a existência de omissão no acórdão quanto ao enfrentamento de argumentos trazidos na impetração relativos ao precedente proferido no HC n. 857.189/RJ, no qual a Sexta Turma teria redimensionado a pena de corréus com fundamento na indevida valoração negativa das consequências do crime e na posição de "gerente" na organização, com extensão dos efeitos aos corréus em idêntica situação fático-processual (fls. 2.008-2.009). Alega que tal circunstância também se amolda ao seu caso, por haver sido apontado como suposto gerente.
+Pleiteia, portanto, a integração do julgado, para que se aprecie a tese omitida e se avalie o redimensionamento das penas à luz do precedente mencionado.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NOS EMBARGOS DE DECLARAÇÃO NO HABEAS CORPUS. OMISSÃO. VÍCIO NÃO CONSTATADO. DOSIMETRIA DA PENA. BIS IN IDEM. RECONHECIMENTO. AFASTAMENTO DA EXASPERAÇÃO DA PENA-BASE. MANUTENÇÃO DA AGRAVANTE DO ART. 62, I, DO CÓDIGO PENAL. ALEGADA EXTENSÃO DE EFEITOS COM BASE EM JULGAMENTO DE CORRÉU. ART. 580 DO CPP. INEXISTÊNCIA DE IDENTIDADE FÁTICO-JURÍDICA. SITUAÇÕES PROCESSUAIS DISTINTAS. EMBARGOS DE DECLARAÇÃO REJEITADOS.
+1. Os embargos de declaração são destinados a sanar omissão, ambiguidade, contradição ou obscuridade no julgado. A assertiva, no entanto, não pode ser confundida com o mero inconformismo da parte com a conclusão alcançada pelo julgador, que, a despeito das teses aventadas, lança mão de fundamentação idônea e suficiente para a formação do seu convencimento.
+2. No caso, foi reconhecido o bis in idem no uso da função de liderança/gerência para exasperar a pena-base e para justificar a agravante do art. 62, I, do Código Penal, afastou-se a valoração negativa na primeira fase da dosimetria, fixou-se a pena-base no mínimo legal e preservou-se apenas a agravante legalmente prevista.
+3. Inviável a extensão pretendida quando ausente identidade fático-jurídica entre os casos, notadamente porque, no julgamento do corréu, não houve incidência da agravante do art. 62, I, do Código Penal.
+4. Embargos de declaração rejeitados.
+VOTO
+O SENHOR MINISTRO ROGERIO SCHIETTI CRUZ (Relator):
+Em que pesem os argumentos trazidos pelo embargante, entendo que não lhe assiste razão.
+Consoante o disposto no art. 619 do Código de Processo Penal, a oposição de embargos de declaração enseja, em síntese, o aprimoramento da prestação jurisdicional, por meio da retificação do julgado que se apresenta omisso, ambíguo, contraditório ou com erro material. São inadmissíveis, portanto, quando, a pretexto da necessidade de esclarecimento, aprimoramento ou complemento da decisão embargada, objetivam, em essência, o rejulgamento do caso.
+Na hipótese, noto que a irresignação da defesa se resume ao seu mero inconformismo com o resultado do julgado, que lhe foi desfavorável. Não há nenhum fundamento que justifique a oposição dos aclaratórios.
+O acórdão embargado enfrentou de forma clara e suficiente a controvérsia posta, reconhecendo que o mesmo fundamento - o exercício de função de liderança/gerência na organização criminosa - foi utilizado simultaneamente para exasperar a pena-base (art. 59 do CP) e para justificar a agravante do art. 62, I, do Código Penal, a configurar indevido bis in idem.
+Em razão disso, afastou-se a valoração negativa na primeira fase da dosimetria, com a fixação da pena-base no mínimo legal.
+Portanto, a circunstância relativa ao exercício de função de liderança/gerência não foi considerada como vetorial negativa do art. 59 do Código Penal, tendo sido usada exclusivamente para fundamentar a incidência da agravante prevista no art. 62, I, do Código Penal.
+A situação examinada no habeas corpus do corréu, todavia, não se confunde com a presente.
+Naquele feito, não houve incidência da agravante prevista no art. 62, I, do Código Penal, razão pela qual a função exercida pelo acusado foi valorada exclusivamente na primeira fase da dosimetria, como circunstância do crime, reputada idônea para evidenciar maior reprovabilidade da conduta.
+Ademais, a vetorial afastada naquele julgamento foi a das consequências do delito, em virtude da ausência de fundamentação concreta, circunstância diversa da ora examinada.
+Portanto, não há identidade fático-jurídica apta a autorizar a extensão pretendida, nos termos do art. 580 do Código de Processo Penal, que exige similitude objetiva entre as situações processuais dos corréus.
+Cumpre esclarecer, ademais, que a jurisprudência do Superior Tribunal de Justiça admite que o exercício de função de liderança ou gerência em organização criminosa constitua fundamento idôneo tanto para a valoração negativa das circunstâncias do crime (art. 59 do Código Penal) quanto para a incidência da agravante do art. 62, I, do Código Penal, desde que não haja dupla valoração do mesmo fato.
+No caso concreto, a conclusão acerca da posição de destaque exercida pelo paciente foi expressamente afirmada pelas instâncias ordinárias com base no conjunto probatório dos autos, que reputaram estar demonstrado que o acusado coordenava a aquisição e a redistribuição de entorpecentes, com ascendência sobre os demais integrantes.
+Não se trata, portanto, de mera ilação, mas de circunstância fática reconhecida no acórdão condenatório.
+A verificação da correção dessa premissa demandaria incursão no acervo fático-probatório, providência inviável na via estreita do habeas corpus.
+Assim, observo que os embargos declaratórios devem ser rejeitados, por não haver vício a ser sanado.
+À vista do exposto, rejeito os embargos de declaração.
