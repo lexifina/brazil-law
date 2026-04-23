@@ -1,0 +1,28 @@
+DECISÃO
+Cuida-se de Agravo apresentado por MARCO ANTONIO ALVES MOREIRA à decisão que não admitiu seu Recurso Especial.
+O apelo, fundamentado no artigo 105, III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE GOIÁS, assim resumido:
+DIREITO PREVIDENCIÁRIO. APELAÇÃO CÍVEL. AUXÍLIO-ACIDENTE. CERCEAMENTO DE DEFESA. NÃO CONFIGURADO. CONTRIBUINTE INDIVIDUAL. IMPOSSIBILIDADE DE CONCESSÃO DO BENEFÍCIO. RECURSO CONHECIDO E PROVIDO.
+Quanto à controvérsia, pela alínea "a" do permissivo constitucional, a parte recorrente alega violação dos arts. 19 e 59, ambos da Lei n. 8.213/1991, no que concerne à concessão do benefício previdenciário de auxílio-doença acidentário, em razão de que é segurado empregado e sofreu acidente de trabalho, trazendo a seguinte argumentação:
+Excelência, cumpre salientar que o Recorrente é segurado da previdência social, exercendo suas atividades laborativas na empresa denominada Cerâmica Moreira Indústria e Comércio, CNPJ nº 21.597.568/0001-01.
+Contudo, no exercício de suas funções, o Recorrente sofreu o seguinte acidente de trabalho: esmagamento, em trituradeira, de todos os dedos da mão direita. Em razão disso, o Recorrente precisou passar por cirurgia para amputar o dedo indicador e terceiro dedo ao nível da falange proximal.
+Verifica-se, Excelências, que o Recorrente possui a qualidade de segurado, independentemente de a empresa estar efetuando ou não o recolhimento das contribuições previdenciárias.
+Frisa-se, mais uma vez, que não se trata de contribuinte individual como faz crer o Recorrido, mas, sim, de segurado empregado, portanto, é patente o direito pleiteado, devendo ser concedido ao Recorrente o benefício de auxílio doença acidentário, nos termos da exordial.
+Excelências, não há que se falar que o Recorrente era contribuinte individual ou facultativo. Dessa forma, se o Recorrente é segurado da previdência e passou por um acidente de trabalho (fato incontroverso nos autos), lhe é devido, portanto, o benefício que lhe foi deferido em primeiro grau, devendo a r. decisão de evento nº 116 ser reformada para manter a r. decisão de evento nº 96.
+Ora, o v. acórdão recorrido violou dispositivos de lei federal, especificamente, a matéria trazida nos artigos 19 e 59, da Lei 8.213/91, que dizem respeito ao acidente de trabalho.
+Portanto, preenchidos os requisitos para a concessão do benefício pleiteado, este deve ser concedido ao Recorrente (fls. 289-290).
+É o relatório.
+Decido.
+Quanto à controvérsia, o Tribunal a quo se manifestou nos seguintes termos:
+Em breve síntese dos fatos, verifica-se que o autor, ora apelado, ingressou com esta ação previdenciária alegando que, em virtude de acidente de trabalho sofrido em 05/06/2021, durante o desempenho de suas atividades habituais na empresa denominada Cerâmica Moreira Indústria e Comércio, CNPJ nº 21.597.568/0001-01, sofreu esmagamento, em trituradeira, de todos os dedos da mão direita, sendo submetido a cirurgia para amputar o dedo indicador e o terceiro dedo ao nível da falange proximal, o que teria lhe causado redução da capacidade laborativa. Assim, advoga que faz jus à concessão do benefício de auxílio-acidente.
+O INSS, ora apelante, por sua vez, alega que não estão satisfeitos os requisitos legais para o gozo do auxílio-acidente, sobretudo porque ao tempo do fato o apelado possuía a qualidade de contribuinte individual, categoria para a qual esse benefício não é previsto.
+Com razão.
+Nos termos do art. 18, § 1º, da Lei n. 8.213.91, "Somente poderão beneficiar-se do auxílio-acidente os segurados incluídos nos incisos I, II, VI e VII do art. 11 desta Lei". Em cotejo ao artigo 11 da Lei nº 8.213/91, verifica-se que o contribuinte individual está descrito no inciso V, ou seja, não consta do rol do § 1º do artigo 18.
+Sobre o tema, vejamos a orientação jurisprudencial do STJ e desta Corte:
+ ..
+Assim, conforme orientação legal e jurisprudencial, o contribuinte individual não faz jus a recebimento de auxílio-acidente (fls. 254-257).
+Assim, incide a Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), porquanto o acolhimento da pretensão recursal demandaria o reexame do acervo fático-probatório juntado aos autos.
+Nesse sentido: AgInt no REsp n. 2.113.579/MG, relatora Ministra Maria Isabel Gallotti, Quarta Turma, DJEN de 27/3/2025; AgInt no AREsp n. 2.691.829/SP, relator Ministro Sérgio Kukina, Primeira Turma, DJEN de 28/3/2025; AREsp n. 2.839.474/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJEN de 26/3/2025; AgInt no REsp n. 2.167.518/RS, relatora Ministra Nancy Andrighi, Terceira Turma, DJEN de 27/3/2025; AgRg no AREsp n. 2.786.049/SP, relator Ministro Messod Azulay Neto, Quinta Turma, DJEN de 26/3/2025; AgRg no AREsp n. 2.753.116/RN, relator Ministro Sebastião Reis Júnior, Sexta Turma, DJEN de 25/3/2025; AgInt no REsp n. 2.185.361/CE, relatora Ministra Regina Helena Costa, Primeira Turma, DJEN de 28/3/2025; AgRg no REsp n. 2.088.266/MG, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, DJEN de 25/3/2025; AREsp n. 1.758.201/AM, relatora Ministra Maria Thereza de Assis Moura, Segunda Turma, DJEN de 27/3/2025; AgInt no AREsp n. 2.643.894/DF, relator Ministro Raul Araújo, Quarta Turma, DJEN de 31/3/2025; AgInt no AREsp n. 2.636.023/RS, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, DJEN de 28/3/2025; AgInt no REsp n. 1.875.129/PE, relator Ministro Paulo Sérgio Domingues, Primeira Turma, DJEN de 21/3/2025.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do Agravo para não conhecer do Recurso Especial.
+Publique-se.
+Intimem-se.
+ EMENTA
