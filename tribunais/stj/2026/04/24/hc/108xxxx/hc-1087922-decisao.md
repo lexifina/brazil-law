@@ -1,0 +1,33 @@
+DECISÃO
+Trata-se de habeas corpus, impetrado em favor de MANUEL ROMEU DOS SANTOS BISNETO, contra decisão decisão liminar proferida por Desembargador do Tribunal de Justiça do Estado do Pará (HC n. 0807936-71.2026.8.14.0000/PA).
+Consta que o paciente foi preso em flagrante em 03/03/2026, pela suposta prática dos delitos de falsificação de documento público (art. 297 do Código Penal) e uso de documento falso (art. 304 do Código Penal). A custódia foi convertida em prisão preventiva pelo Juízo da Vara de Plantão Criminal de Belém em 04/03/2026 (e-STJ fls. 372/374).
+A defesa impetrou habeas corpus no Tribunal a quo, alegando constrangimento ilegal decorrente da manutenção da prisão preventiva sem fundamentação concreta, individualizada e contemporânea, identidade fático processual com corrés já beneficiadas com liberdade (inclusive por decisão do Superior Tribunal de Justiça) e presença de condições pessoais favoráveis e suficiência de medidas cautelares diversas da prisão (e-STJ fls. 23/24).
+O Tribunal de origem indeferiu a liminar, por não verificar, em cognição sumária, afastamento dos requisitos da custódia cautelar, determinando a solicitação de informações à autoridade apontada como coatora e encaminhamento dos autos ao Ministério Público (e-STJ fls. 23/24).
+No presente writ, a defesa sustenta a falta dos requisitos do art. 312 do CPP, incluindo a menção indevida a supostos antecedentes criminais não comprovados.
+Alega identidade fático processual entre o paciente e corrés submetidos ao mesmo decreto prisional, destacando que uma corré obteve liberdade provisória no juízo plantonista e outra teve a prisão preventiva revogada por decisão do Superior Tribunal de Justiça, sustentando a inidoneidade estrutural da fundamentação utilizada para a conversão do flagrante em preventiva.
+Defende a presença de condições pessoais favoráveis - exercício de atividade lícita, pai de 4 filhos, tecnicamente primário, inexistência de violência ou grave ameaça, a ausência de demonstração de prejuízo financeiro.
+Aduz que a decisão atacada no Tribunal a quo indeferiu a liminar sem enfrentar a ilegalidade originária e sem reavaliar concretamente a necessidade da custódia. Conclui, com isso, a excepcionalidade apta a afastar o óbice da Súmula 691 do STF.
+Requer a concessão da liminar para imediata expedição de alvará de soltura; no mérito, a revogação da prisão preventiva; subsidiariamente, a substituição por medidas cautelares diversas da prisão (e-STJ fls. 19/21).
+É o relatório. Decido.
+O Superior Tribunal de Justiça tem jurisprudência firmada no sentido de não caber habeas corpus contra decisão que indefere liminar, a menos que fique demonstrada flagrante ilegalidade, nos termos do enunciado n. 691 da Súmula do STF, segundo o qual "não compete ao Supremo Tribunal Federal conhecer de habeas corpus impetrado contra decisão do Relator que, em habeas corpus requerido a tribunal superior, indefere a liminar".
+Assim, salvo excepcionalíssima hipótese de ilegalidade manifesta, não é de se admitir casos como o dos autos. Não sendo possível a verificação, de plano, de qualquer ilegalidade na decisão recorrida, deve-se aguardar a manifestação de mérito do Tribunal de origem, sob pena de se incorrer em supressão de instância e em patente desprestígio às instâncias ordinárias.
+No caso, colhe-se da decisão de primeiro grau (e-STJ fls. 373/374):
+No que diz respeito à periculosidade do agente, geradora de riscos à ordem pública, estabelece  ..
+Neste caso, sem sombra de dúvidas, resta igualmente configurado tal requisito.
+Isso porque, o crime de uso de documento flaso e falsificação de documentos, praticados pelos flagranteados, indica a prática recorrente de estelionatos e outros crimes relacionados, o que configura o requisito subjetivo da necessidade da prisão, eis que indicativa da prática reiterada de infrações penais, recomendando-se a conversão da prisão em preventiva, nos estritos termos do art. 310, §5º, I, do CPP.
+De outra sorte, é conveniente, igualmente, para a instrução processual a manutenção da prisão cautelar dos flagranteados, neste momento, para assegurar a aplicação da lei penal e por conveniência da instrução, para que, em liberdade, não prejudique a instrução do feito, junto às testemunhas, em especial eventuais vítimas, o que recomenda a prisão preventiva, com fundamento no art. 310, §5º, VI, do CPP.
+Ademais, o flagranteado Manuel Romeu possui outras passagens pelo sistema carcerário/judicial, conforme confessado e pesquisado junto ao BNMP, inclusive por delitos da mesma natureza, o que também autoriza a prisão preventiva, com fulcro no art. 310, §5º, I c/c art. 312, §3º, IV, ambos do CPP.
+Ante o exposto, Converto a Prisão em Flagrante em Preventiva, dos flagranteados MANUEL ROMEU DOS SANTOS BISNETO  ..
+Assim se manifestou o Relator ao indeferir a liminar (e-STJ fl. 24):
+Analisando os autos, entendo que, pelo menos neste momento, fica inviável a concessão da medida liminar requerida, pois não vislumbro preenchidos os requisitos de cautelaridade, visto que a impetração não afastou, prima facie, os requisitos da custódia cautelar, nada impedindo que esse entendimento seja revisto por ocasião do julgamento definitivo da Ordem.
+Assim sendo, ausentes os requisitos para a concessão da liminar, sobretudo por considerar que o deslinde da questão exige um exame mais acurado dos elementos de convicção, indefiro o pedido de liminar pleiteado.
+Solicitem-se informações pormenorizadas à autoridade inquinada coatora.
+Em seguida, encaminhem-se os autos ao Parquet.
+Como visto, a prisão foi mantida pelo Tribunal estadual em caráter liminar em razão do risco de reiteração delitiva, porquanto o paciente ostenta outras passagens pelo sistema carcerário, inclusive por crimes da mesma natureza, o que, a princípio, evidencia o risco de reiteração delitiva.
+A propósito, "o histórico criminal do agente, a revelar fundado receio de reiteração na prática criminosa, autoriza, por si só, o decreto de prisão preventiva como forma de garantir a ordem pública, nos termos do art. 312 do Código de Processo Penal" (HC 304.240/BA, Rel. Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, julgado em 05/05/2015, DJe 14/5/2015.
+Verifica-se que o decisum apresenta fundamentação suficiente e idônea a afastar a alegação, neste momento, de manifesta ilegalidade que justificasse a superação do enunciado sumular.
+Com efeito, a questão posta em exame demanda averiguação mais profunda pelo Tribunal estadual, no momento adequado.
+Entendo, portanto, não ser o caso de superação do enunciado nº 691 da Súmula do Supremo Tribunal Federal.
+Ante o exposto, com fundamento no artigo 210 do Regimento Interno do Superior Tribunal de Justiça, indefiro liminarmente o pedido.
+Intimem-se.
+EMENTA
