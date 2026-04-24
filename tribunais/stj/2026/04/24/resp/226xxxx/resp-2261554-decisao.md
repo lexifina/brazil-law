@@ -1,0 +1,15 @@
+DECISÃO
+Trata-se de recurso especial manejado por União (Fazenda Nacional) com fundamento no art. 105, III, a, da CF, contra acórdão proferido pelo Tribunal Regional Federal da 4ª Região, assim ementado (fl. 169):
+TRIBUTÁRIO. EMBARGOS DE TERCEIRO. FRAUDE À EXECUÇÃO NÃO CONFIGURADA. IMÓVEL. ATIVO CIRCULANTE DE CONSTRUTORA.
+Não se reconhece em fraude à execução a alienação feita após a inscrição em dívida ativa na hipótese de os bens alienados integrarem o ativo circulante da pessoa jurídica executada. Distinção realizada em relação ao tema 290 de recursos repetitivos do Superior Tribunal de Justiça. Precedentes de ambas as Turmas da Primeira Seção.
+Opostos embargos declaratórios, foram rejeitados (fls. 187/189).
+A parte recorrente aponta violação ao art. 185 do CTN, ao argumento de que, com a redação dada pela Lei Complementar n. 118/2005, há presunção absoluta de fraude à execução nas alienações posteriores à inscrição do crédito tributário em dívida ativa, sendo inaplicável a Súmula 375 do STJ e vedado afastar a presunção com base na natureza do bem como ativo circulante ou na dispensa de certidão negativa. Acrescenta que o acórdão de origem contrariou a orientação firmada no REsp 1.141.990/PR (Tema 290), que reconhece a presunção jure et de jure.
+Foram ofertadas contrarrazões às fls. 203/215.
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+Na origem, cuida-se de embargos de terceiros opostos por Márcia de Cassia Mendes Schenatto, em que se postula o cancelamento em definitivo da indisponibilidade de bens e a consequente baixa da averbação realizada à margem da matricula de imóvel adquirido diretamente de construtora, sob o argumento de que realizou a aquisição de boa-fé e, além disso, o bem integra o ativo circulante da empresa alienante, o que afasta a presunção de fraude à execução (fls. 51/63).
+O Tribunal de origem negou provimento à apelação fazendária (fls. 166/169), mantendo a sentença de procedência do pedido, que acolhera os embargos de terceiro para afastar a presunção de fraude à execução fiscal com base na natureza do bem alienado e na relação de consumo existente entre o embargante e a construtora (fls. 147/149).
+Na petição do apelo raro, todavia, a parte recorrente não se insurge contra aquele fundamento, que embasou o distinguishing realizado perante a regra geral do Tema 290/STJ , limitando-se a afirmar, em síntese, que há presunção absoluta de fraude à execução em alienações realizadas após a inscrição do débito em dívida ativa e que esta Corte Superior firmou orientação pela inaplicabilidade da Súmula 375 do STJ às execuções fiscais.
+Incide no presente caso, por analogia, a Súmula 283 do Supremo Tribunal Federal, que assim dispõe: "É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles". A respeito do tema: AgInt no REsp 1.711.262/SE, Rel. Ministro Gurgel de Faria, Primeira Turma, DJe 17/2/2021; AgInt no AREsp 1.679.006/SP, Rel. Ministro Raul Araújo, Quarta Turma, DJe 23/2/2021.
+ANTE O EXPOSTO, não conheço do recurso especial.
+Publique-se.
+EMENTA
