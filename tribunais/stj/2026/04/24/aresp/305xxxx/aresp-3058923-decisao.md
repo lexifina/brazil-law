@@ -1,0 +1,7 @@
+DECISÃO
+Encontra-se afetada à SEGUNDA SEÇÃO do Superior Tribunal de Justiça, aguardando o julgamento, sob o rito dos recursos repetitivos (Tema 1375), a questão debatida nos autos, qual seja: "a obrigação de a operadora de plano de saúde custear ou reembolsar despesas médico-hospitalares efetuadas pelo beneficiário fora da rede credenciada e sua respectiva extensão, nas hipóteses de insuficiência da rede credenciada ou de urgência ou emergência; e a (in)admissibilidade dos recursos especiais interpostos para a rediscussão das conclusões dos acórdãos recorridos quanto aos pressupostos fáticos que permitem o custeio ou reembolso parcial ou integral, pelo plano de saúde, das despesas médico-hospitalares efetuadas pelo beneficiário fora da rede credenciada."
+Tal controvérsia será apreciada nos REsp 2.167.029/RJ e 2.196.667/SP, de relatoria do Ministro Antonio Carlos Ferreira.
+Nos termos dos arts. 34, XXIV, e 256-L, I, do Regimento Interno do Superior Tribunal de Justiça, a afetação de recurso especial para julgamento sob o rito do repetitivo impõe a devolução ao Tribunal de origem dos processos em que foram interpostos recursos cuja matéria se identifique com o tema afetado, para nele per manecerem suspensos até o fim do julgamento qualificado.
+Em face do exposto, determino a devolução dos autos, com a devida baixa nesta Corte Superior, a fim de que, após a publicação do acórdão dos recursos representativos da controvérsia, o Tribunal de origem proceda de acordo com o disposto nos arts. 1.040 e 1.041 do Código de Processo Civil.
+Intimem-se.
+EMENTA
