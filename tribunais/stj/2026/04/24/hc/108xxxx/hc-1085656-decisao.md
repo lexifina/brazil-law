@@ -1,0 +1,26 @@
+DECISÃO
+LUIS OTAVIO DOS SANTOS RODRIGUES alega sofrer coação ilegal diante de acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo na Apelação Criminal n. 1500564-92.2025.8.26.0594.
+Neste writ, a defesa pretende o reconhecimento da confissão espontânea, com a consequente compensação integral com a reincidência do réu.
+O Ministério Público Federal opinou pela concessão da ordem (fls. 136-142).
+Decido.
+Extrai-se dos autos que o paciente foi condenado, em primeiro grau, à pena de 1 ano, 9 meses e 23 dias de reclusão mais 16 dias-multa, em regime fechado, pela prática do delito previsto no art. 155, § 1º, do Código Penal.
+No caso, constou da sentença que "interrogado em juízo, o acusado declarou que é coletor de reciclagem. Quando passou pela empresa, viu que havia uma fiação cortada e pendurada. Começou a puxá-la. Enrolou-a e a colocou dentro dos recicláveis e estava indo embora" (fl. 64). O Juiz de Direito Dr. Cláudio Augusto Saad Abujamra, adequadamente, reconheceu a confissão do réu e a compensou parcialmente com a dupla reincidência do agente.
+Irresignado, o Ministério Público estadual apelou. A Corte de origem deu provimento ao recurso a fim de afastar a confissão espontânea, pois não houve reconhecimento integram da prática delitiva. Confira-se (fl. 101, grifei):
+A suposta confissão do apelado não deve ser considerada, porquanto em Juízo, o sentenciado não confessou a prática do delito de furto, sustentando, em síntese, que apenas recolheu fios que já se encontravam cortados e pendurados no local. Alegou que exerce atividade ligada à reciclagem, razão pela qual teria se apropriado do material acreditando tratar-se de objeto descartado. Acrescentou que iniciou a retirada dos fios supondo que o imóvel estivesse abandonado, inexistindo, segundo sua versão, a intenção de subtrair bem alheio.
+Dessa forma, tem-se que o apelante apenas justificou sua conduta, sem admissão de culpa, razão pela qual não se aplica a atenuante da confissão espontânea, por não haver reconhecimento integral da prática delitiva, abrangendo todas as suas elementares.
+No caso, a Desembargadora Relatora Dra. Ana Lucia Fernandes Queiroga, amparou-se no HC n. 211.174/SP (STF. Min. Gilmar Mendes, publicado em 20/6/2022) para afastar a aplicação da atenuante.
+Sobre a confissão, esta Corte Superior possuía o entendimento de que, se foi utilizada para corroborar o acervo probatório e fundamentar a condenação, deve incidir a atenuante, sendo irrelevante o fato de a confissão ter sido espontânea ou não, total ou parcial, ou mesmo que tenha havido posterior retratação. Nesse sentido foi editada a Súmula n. 545 do STJ, verbis: "Quando a confissão for utilizada para a formação do convencimento do julgador, o réu fará jus à atenuante prevista no art. 65, III, d, do Código Penal".
+Posteriormente, em 10/9/2025, no julgamento do Tema Repetitivo n. 1.194 (REsp n. 2.001.973/RS), a Terceira Seção ampliou o alcance da atenuante prevista no art. 65, III, "d", do CP para os casos em que não foi utilizada na formação do convencimento do julgador ou que existam elementos suficientes, por si sós, aptos a ensejar a condenação. Confira-se:
+DIREITO PENAL. RECURSO ESPECIAL REPETITIVO. TEMA N. 1.194 DO STJ. CONFISSÃO ESPONTÂNEA. INFLUÊNCIA NA FORMAÇÃO DO CONVENCIMENTO DO JULGADOR. DESNECESSIDADE. RETRATAÇÃO. EFEITOS. CONFISSÃO PARCIAL E QUALIFICADA. PROPORCIONALIDADE. RECURSO PARCIALMENTE PROVIDO. TESES FIXADAS COM MODULAÇÃO DE EFEITOS.
+ ..
+Teses do Tema n. 1.194 do STJ:
+1. A atenuante genérica da confissão espontânea, prevista no art. 65, III, d, do Código Penal, é apta a abrandar a pena independentemente de ter sido utilizada na formação do convencimento do julgador e mesmo que existam outros elementos suficientes de prova, desde que não tenha havido retratação, exceto, neste último caso, que a confissão tenha servido à apuração dos fatos.
+2. A atenuação deve ser aplicada em menor proporção e não poderá ser considerada preponderante no concurso com agravantes quando o fato confessado for tipificado com menor pena ou caracterizar circunstância excludente da tipicidade, da ilicitude ou da culpabilidade.
+ ..
+(REsp n. 2.001.973/RS, relator Ministro Og Fernandes, Terceira Seção, julgado em 10/9/2025, DJEN de 16/9/2025.)
+Dessa forma, verifico o constrangimento ilegal de que estaria sendo vítima o paciente, porquanto confessou parcialmente a conduta delitiva.
+Identificada a ilegalidade suscitada, passo à readequação da pena.
+Observados os critérios adotados pelas instâncias ordinárias, verifico que a pena-base do réu foi fixada em 1 ano e 2 meses de reclusão mais 11 dias-multa, pelos maus antecedentes. Na segunda etapa, reconheço a confissão espontânea e realizo a compensação parcial com agravante da reincidência, em razão da existência de duas condenações. Assim, eleva-se a pena na proporção de 1/6, o que resulta em 1 ano, 4 meses e 10 dias de reclusão mais 12 dias-multa. Por fim, presente a causa de aumento prevista no § 1º do art. 155 do CP a reprimenda foi elevada em 1/3, o que a torna definitivamente estabelecida em 1 ano, 9 meses e 23 dias de reclusão mais 16 dias-multa.
+À vista do exposto, concedo a ordem, para reconhecer a violação do art. 65, III, "d, do CP e redimensionar a pena para 1 ano, 9 meses e 23 dias de reclusão mais 16 dias-multa.
+Publique-se e intimem-se.
+EMENTA
