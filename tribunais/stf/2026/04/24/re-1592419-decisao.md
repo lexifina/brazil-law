@@ -1,0 +1,26 @@
+Decisão
+
+Trata-se de Recurso Extraordinário interposto em face de acórdão proferido pelo Tribunal Regional Federal da 1ª Região, assim ementado (Doc. 39, fl. 34):
+
+“ADMINISTRATIVO E PROCESSUAL CIVIL. EMBARGOS À EXECUÇÃO. AÇÃO COLETIVA AJUIZADA POR ENTIDADE ASSOCIATIVA. RITO ORDINÁRIO. DECISÃO TRANSITADA EM JULGADO QUE ABRANGE TODOS OS ASSOCIADOS QUE, COMPROVADAMENTE, ESTAVAM VINCULADOS À ASSOCIAÇÃO NO MOMENTO DA PROPOSITURA DA AÇÃO ORIGINÁRIA. CORREÇÃO MONETÁRIA. JUROS DE MORA. ART. 1º-F DA LEI N° 9.494/97. TAXA REFERENCIAL (TR) X IPCA-E. MANUAL DE CÁLCULOS DA JUSTIÇA FEDERAL. HONORÁRIOS. (...) 4. "2. Os efeitos da sentença são extensíveis a todos os filiados da associação no momento da propositura da ação, independentemente de haverem, ou não, constado da relação nominal apresentada pela entidade que os representa processualmente". (AC 0046702-38.2011.4.01.3400/DF, Rel. DESEMBARGADOR FEDERAL CARLOS AUGUSTO PIRES BRANDÃO, PRIMEIRA TURMA, e-DJF1 de 18/10/2017). 5. Tal reconhecimento integra-se ao princípio da razoabilidade por viabilizar direitos dos associados, não deixando a formalidade prevalecer sobre a razão da exigência de lista nominal. (...) 7. Apelação provida para fixar em 5% (cinco por cento) os honorários de sucumbência e estender os efeitos do título judicial a todos os filiados da associação no momento da propositura da ação de conhecimento, independentemente de haverem, ou não, constado na relação nominal apresentada pela entidade que os representam processualmente. 8. No que se refere à atualização monetária (mérito), julgam-se improcedentes os embargos à execução.”
+
+Opostos Embargos de Declaração (Doc. 42), foram rejeitados (Doc. 48).
+No RE (Doc. 54), interposto com amparo no art. 102, III, “a”, da Constituição Federal, a UNIÃO aponta violação ao  art. 5°, XXI e XXXVI, da CF/1988, bem como ao decidido por esta CORTE no Tema 82 (RE 573.232-RG) e no Tema 499 (RE 612.043-RG), pois “a norma constitucional não admite que o título executivo beneficie associado que não tenha dado autorização expressa para a associação ingressar em juízo” (Doc. 54, fl. 9).
+Sustenta que “o título executivo foi obtido mediante sentença que divergiu frontalmente do entendimento adotado pelo STF acerca da necessidade de autorização dos filiados à APSEF para o ajuizamento da ação coletiva de conhecimento, se pretendessem dela ser beneficiários no futuro” (Doc. 54, fl. 9).
+Afirma que “não se pode, em fase de liquidação ou de execução, tentar modificar a sentença que julgou a lide de conhecimento para conferir a condição de credor a quem o título executivo não contemplou, ampliando-se indevidamente os seus efeitos subjetivos” (Doc. 54, fl. 14).
+Com base nesse fundamentos, conclui que “a execução individual deve ser extinta por não haver título executivo em favor dos exequentes, devido ao fato de não constarem da lista de beneficiários apresentada pela associação-autora na inicial da ação de conhecimento” (Doc. 54, fl. 15).
+Em seguida, o RE foi admitido (Doc. 67).
+É o relatório. Decido.
+
+No julgamento do Recurso Especial 2234547/DF, interposto concomitantemente ao presente recurso, o ilustre Min. SÉRGIO KUKINA do SUPERIOR TRIBUNAL DE JUSTIÇA deu provimento ao apelo da UNIÃO aos seguintes fundamentos (Doc. 74, 6):
+
+“(...) no que se refere à legitimidade dos filiados da associação, melhor sorte assiste ao recorrente. Isso, porque, ao entender que "No que diz respeito à suscitada ilegitimidade ativa dos exequentes, verifica-se que a questão já foi amplamente debatida no julgamento ocorrido em sessão ampliada, conforme se extrai do acórdão de fls. 361/367, em que restou reconhecido que os efeitos da sentença são extensíveis a todos os filiados da associação no momento da propositura da ação, independentemente de haverem, ou não, constado da relação nominal apresentada pela entidade que os representa processualmente, integrando-se, tal reconhecimento, ao princípio da razoabilidade por viabilizar direitos dos associados, não deixando a formalidade prevalecer sobre a razão da exigência de lista nominal." (fl. 629), o Tribunal de origem divergiu do entendimento desta Corte, firme no sentido de que, "seguindo a linha do que foi decidido pelo STF, sob a sistemática da repercussão geral - RE 573.232 e RE 612.043, adota a compreensão de que "as balizas subjetivas do título judicial, formalizado em ação proposta por associação, é definida pela representação no processo de conhecimento, presente a autorização expressa dos associados e a lista destes juntada à inicial", bem como que os "beneficiários do título executivo, no caso de ação proposta por associação, são aqueles que, residentes na área compreendida na jurisdição do órgão julgador, detinham, antes do ajuizamento, a condição de filiados e constaram da lista apresentada com a peça inicial"." (AgInt no AgInt no AREsp n. 2.429.817/MA, relator Ministro Benedito Gonçalves, Primeira Turma, julgado em 18/11/2024, DJe de 26/11/2024.).”
+
+Nesse contexto, o presente recurso perdeu seu objeto.
+Diante do exposto, nos termos do art. 21, IX, do Regimento Interno do SUPREMO TRIBUNAL FEDERAL, JULGO PREJUDICADO O AGRAVO EM RECURSO EXTRAORDINÁRIO.
+Publique-se.
+Brasília, 24 de abril de 2026.
+
+Ministro ALEXANDRE DE MORAES
+Relator
+Documento assinado digitalmente
