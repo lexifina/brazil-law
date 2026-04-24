@@ -1,0 +1,27 @@
+DECISÃO
+Trata-se de agravo interposto por VANDERLEI APARECIDO FERREIRA contra decisão proferida pelo Tribunal de Justiça do Estado de Minas Gerais, que não admitiu o recurso especial manejado com apoio no artigo 105, III, "a", da Constituição da República.
+Nas razões recursais, aduz a defesa violação dos artigos 619 do Código de Processo Penal e 1.022, caput, I e II, do Código de Processo Civil.
+Alega que o acórdão afastou a insignificância sem enfrentar argumentos específicos da defesa: i) o laudo pericial valorou os bens como novos (R$ 130,00), embora a vítima tenha informado que eram usados (R$ 40,00 a R$ 60,00); ii) os embargos de declaração não sanaram a omissão, limitando-se a afirmar tentativa de rediscussão do julgado .
+Requer o provimento do recurso para que seja reformado o acórdão recorrido, com o reconhecimento da violação aos dispositivos federais e retorno dos autos ao Tribunal de origem para novo julgamento dos embargos de declaração.
+Contrarrazões às fls. 408-413 (e-STJ).
+O recurso foi inadmitido (e-STJ, fls. 46-418). Daí este agravo (e-STJ, fls. 427-441).
+O Ministério Público Federal opina pelo desprovimento do recurso (e-STJ, fls. 472-474).
+É o relatório.
+Decido.
+Inicialmente, não procede a afirmação de ofensa ao disposto no art. 619 do Código de Processo Penal, pois depreende-se do acórdão proferido pela Corte a quo que todas as teses defensivas foram afastadas, direta ou indiretamente.
+Como é cediço, para admissão do recurso especial com base no art. 619 do Código de Processo Penal (correspondente ao art. 1.022 do CPC), a omissão, ambiguidade, obscuridade ou contradição devem ser notórias, ou seja, imprescindíveis para o enfrentamento da questão nas Cortes superiores.
+No presente caso, não é o que se verifica, tratando-se de mero inconformismo da parte.
+Outrossim, ressalte-se que cabe ao julgador fundamentar todas as suas decisões, de modo a robustecê-las, bem como afastar qualquer dúvida quanto à motivação utilizada, nos termos do art. 93, IX da Constituição da República, devendo ser considerada a conclusão lógico-sistemática adotada pelo decisum, como ocorre in casu.
+Sobre o tema:
+"AGRAVO REGIMENTAL EM AGRAVO DE INSTRUMENTO. PRESCRIÇÃO. NÃO OCORRÊNCIA. VIOLAÇÃO AO ART. 59 DO CP. NÃO OCORRÊNCIA. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. O recurso especial sustentou, a incompetência de juízo - item em que não indicou o dispositivo de lei federal violado -, bem como a ilegalidade da condenação, momento em que o recorrente, não obstante haver citado o dispositivo da legislação infraconstitucional supostamente violado pelo Tribunal a quo (art. 59 do CP), não desenvolveu, de forma lógica e com um mínimo de profundidade, as razões jurídicas acerca dessa violação, o que descumpre requisito imprescindível para o conhecimento do recurso, nos termos da Súmula n. 284 do Supremo Tribunal Federal.
+2. O reconhecimento de violação do art. 619 do CPP pressupõe a ocorrência de omissão, ambiguidade, contradição ou obscuridade tais que tragam prejuízo à defesa. A assertiva, no entanto, não pode ser confundida com o mero inconformismo da parte com a conclusão alcançada pelo julgador, que, a despeito das teses aventadas, lança mão de fundamentação idônea e suficiente para a formação do seu livre convencimento.
+3. No caso, não há nenhuma omissão no julgado proferido pela Corte de origem, de maneira a gerar o pretendido reconhecimento de infringência do art. 619 do Código de Processo Penal, visto que o acórdão proferido na apelação, expressamente, manifestou-se sobre todas as questões apresentadas pela defesa.
+4.  .. . 5. Agravo regimental não provido." (AgRg no Ag 1203770/SP, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 14/02/2017, DJe 02/03/2017).
+"PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. PECULATO. ALEGADA VIOLAÇÃO AO ART. 619 DO CÓDIGO DE PROCESSO PENAL. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA. ARREPENDIMENTO POSTERIOR. REQUISITO ESSENCIAL. AUSÊNCIA. ATENUANTE DO ART. 65, INCISO III, ALÍNEA D. REEXAME DE PROVAS. DOSIMETRIA. ELEVAÇÃO DA PENA-BASE. PERCENTUAL. PROPORCIONALIDADE. REVOLVIMENTO DO CONJUNTO FÁTICO- PROBATÓRIO. VEDAÇÃO. SÚMULA N. 7/STJ.
+I - Não padece de vícios a decisão do Tribunal de origem que, fundamentadamente, abraça tese contrária à do recorrente, suficiente ao deslinde da questão, sendo desnecessário, por redundância, o enfrentamento de todos os pontos expostos nos aclaratórios relativos à matéria objeto de irresignação (precedentes).  ..  Agravo regimental desprovido." (AgRg no AREsp 620.631/GO, Rel. Ministro FELIX FISCHER, QUINTA TURMA, julgado em 10/05/2016, DJe 18/05/2016).
+Ademais, no laudo de avaliação indireta consta que a tentativa de furto foi de "02 (dois) canos de PVC de 100 mm, cor branca, marca AMANCO, cada um medindo 6 metros de comprimento. O valor total da presente avaliação é de R$ 130,00 (cento e trinta reais), considerando produtos novos" (e-STJ, fl. 80).
+Portanto, para  desconstituir  o  entendimento  firmado  pelo  Tribunal  de  origem  no tocante ao valor dos bens subtraídos, a  fim  de  subsidiar pedido de absolvição do recorrente pela aplicação do princípio da insignificância,  seria  necessário  o  revolvimento  do  conjunto  de  fatos  e  provas,  procedimento  vedado  na  via  especial,  conforme  o  teor  da  Súmula  7/STJ.
+Ante o exposto, com fulcro no artigo 253, parágrafo único, II, "a", do RISTJ, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
+ EMENTA
