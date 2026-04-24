@@ -1,0 +1,22 @@
+DECISÃO
+GUSTAVO EDUARDO ANTUNES alega sofrer coação ilegal diante de acórdão proferido pelo Tribunal de origem, denegatório do HC n. 0034317-95.2026.8.16.0000.
+O paciente foi condenado definitivamente por tráfico de drogas, a cumprir pena privativa de liberdade no regime fechado. A defesa busca a expedição de guia para início da execução independentemente do recolhimento do sentenciado à prisão, a fim de que possa formular ao Juiz competente pedidos de detração e de benefícios.
+Decido.
+Após condenação definitiva a pena privativa de liberdade em regime fechado e, em conformidade com o art. 105 da LEP, o Juiz de conhecimento ordenará a expedição da guia para o início da execução somente se o réu estiver ou vier a ser preso.
+Excepcionalmente, e somente quando, à primeira vista, o sentenciado tem direito a benefícios que assegurem, desde já, a sua imediata liberdade, esta Corte flexibiliza a regra por considerar manifestamente irrazoável exigir o recolhimento à prisão como mera condição para o acesso à jurisdição da Vara de Execuções Penais.
+No caso, o réu foi condenado definitivamente a 11 anos e 27 dias de reclusão, por tráfico de drogas e associação para tal fim. A defesa não comprova que o paciente já cumpriu período de pena suficiente para sua progressão ao regime semiaberto.
+Os documentos que instruem o writ sinalizam o contrário.
+O flagrante ocorreu em 16/9/2022. O advogado não especifica a data da prolação da sentença, que condenou o réu por tráfico de drogas. O Juiz concedeu ao paciente o direito de apelar em liberdade, condicionado a algumas condições, uma delas o recolhimento domiciliar noturno e nos dias de folga. No cabeçalho da petição eletrônica, consta que o documento foi assinado digitalmente em 8/2/2023.
+Em 27/10/2023, a apelação do Ministério Público foi provida para condenar o denunciado, também, pelo crime de associação criminosa. As penas, somadas, alcançam 11 anos e 27 dias de reclusão.
+Não há nenhum cálculo da defesa, ou juntada de prova pré-constituída, para demonstrar a esta Corte que o paciente já teria cumprido o requisito objetivo para a progressão ao regime semiaberto. O advogado não especifica o período de prisão preventiva, o total de horas de recolhimento domiciliar e o tempo necessário para o deferimento do benefício, conforme as frações exigidas no art. 112 da LEP.
+Ora, é "ônus do impetrante  de  instruir o habeas corpus requerido a esta Corte com cópia do ato coator, além da prova pré-constituída da aventada ilegalidade ou do abuso de poder. A deficiente instrução do writ impede o seu conhecimento" (EDcl no HC n. 783.484/MS, r elator Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), 6ª T., DJe de 17/2/2023, destaquei).
+O acórdão recorrido não é manifestamente ilegal, pois "a expedição de guia de recolhimento definitiva é condicionada ao cumprimento do mandado de prisão em se tratando de pessoa condenada a pena privativa de liberdade em regime inicial fechado, nos termos do art. 105 da Lei n. 7.210/1984" (RHC n. 220.940/BA, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 25/2/2026, DJEN de 4/3/2026.)
+Em um cálculo superficial, que pressupõe que o réu é primário, e à vista das datas prováveis da sentença e do acórdão, ainda existe saldo de pena a cumprir de mais de um ano antes da transferência ao regime mais brando. De toda forma, o regime da execução seria o semiaberto e o paciente não seria colocado imediatamente em liberdade. Assim, e uma vez não verificado, de plano, o grave prejuízo ao apenado, é incabível a determinação de expedição de guia de execução penal definitiva sem o seu prévio recolhimento à prisão.
+Aplica-se ao caso a compreensão de que:
+ ..  A expedição da guia de execução penal definitiva, conforme os artigos 674 do Código de Processo Penal e 105 da Lei de Execução Penal, como regra, ocorre após o trânsito em julgado da sentença condenatória e quando o réu estiver ou vier a ser preso.
+7. Embora excepcionalmente admitida a expedição da guia de execução penal antes do cumprimento do mandado de prisão, tal medida depende de demonstração de circunstâncias concretas que indiquem cabalmente um prejuízo ao apenado - tudo o que não foi comprovado no caso concreto.
+ ..
+(AgRg no HC n. 1.026.497/TO, relator Ministro Messod Azulay Neto, Quinta Turma, julgado em 9/9/2025, DJEN de 15/9/2025).
+À vista do exposto, denego o habeas corpus, in limine.
+Publique-se e intimem-se.
+EMENTA
