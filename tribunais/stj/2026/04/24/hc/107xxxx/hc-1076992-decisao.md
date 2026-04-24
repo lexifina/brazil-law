@@ -1,0 +1,24 @@
+DECISÃO
+WANDER LUIZ DAMES alega ser vítima de coação ilegal em decorrência de acórdão proferido pelo Tribunal de Justiça do Estado do Rio de Janeiro (Revisão Criminal n. 0060758-66.2025.8.19.0000 ).
+Consta dos autos que o paciente foi condenado a 4 anos e 2 meses de reclusão mais multa, no regime fechado, pela prática do crime de tráfico de drogas.
+A defesa pleiteia, por meio deste writ, a desclassificação da conduta para o tipo previsto no art. 28 da Lei n. 11.343/2006 ante a apreensão de quantidade não expressiva de entorpecentes. Subsidiariamente, postula a alteração do redutor em 2/3 pela minorante do tráfico privilegiado.
+O Ministério Público Federal opinou pela denegação da ordem.
+Decido.
+O Tribunal de origem manteve a condenação do réu pelos seguintes fundamentos (fls. 21-22, grifei):
+In casu, constata-se a plena conformidade da condenação com as provas técnicas e orais produzidas em juízo. A materialidade restou inequivocamente demonstrada pelo laudo de exame em entorpecentes, enquanto a autoria foi firmemente comprovada pelos depoimentos dos policiais, os quais relataram de forma consistente tanto o porte da droga quanto a venda realizada a Cláudio Ferreira Dias (doc. 02 - Anexo 01), sendo descabido o pedido desclassificatório, eis que contrário ao caderno probatório.
+Outrossim, o argumento Defensivo de que a quantidade de 28 gramas de cocaína se enquadraria no Tema 506 do STF é equivocado, pois o critério de até 40 gramas fixado no Recurso Extraordinário 635.659 refere-se exclusivamente à maconha, não sendo aplicável a outras substâncias.
+Ademais, a própria tese do STF estabelece que a presunção de usuário é relativa, podendo ser afastada por outros elementos que indiquem a traficância. A análise do caso não se limita à quantidade de droga, mas abrange todo o contexto probatório, conforme o art. 28, § 2º, da Lei nº 11.343/06.
+Por fim, ressalta-se que o requerente encontra-se preso em cumprimento de pena privativa de liberdade decorrente de outra condenação, fixada em 11 (onze) anos, 4 (quatro) meses e 24 (vinte e quatro) dias de reclusão, a ser cumprida em regime inicial fechado, além de 1.700 (mil e setecentos) dias-multa.
+A revisão criminal não deve ser utilizada como um segundo recurso de apelação, pois o acolhimento da pretensão revisional reveste-se de excepcionalidade e cinge-se às hipóteses do art. 621 do CPP.
+Nessa perspectiva, o "Superior Tribunal de Justiça já pacificou o entendimento no sentido do não cabimento da revisão criminal quando utilizada como nova apelação, com vistas ao mero reexame de fatos e provas, não se verificando situação de contrariedade ao texto expresso da lei penal ou à evidência dos autos, consoante previsão do art. 621, I, do CPP" (HC n. 206.847/SP, Rel. Ministro Nefi Cordeiro, 6ª T., DJe 25/2/2016).
+Com efeito, a defesa não indicou haver provas novas que autorizassem a desconstituição do trânsito em julgado com vistas à absolvição do paciente.
+Pretende-se, em verdade, que seja realizado novo juízo de discricionariedade juridicamente vinculada previsto nos arts. 155 e 386 do CPP, o que já foi feito na sentença e confirmado em apelação.
+Ademais, pelo trecho anteriormente transcrito, verifico que a instância ordinária, depois de minuciosa análise do conjunto fático-probatório amealhado aos autos, concluiu pela existência de elementos a ensejar a condenação do acusado pelo crime de tráfico ilícito de entorpecentes (art. 33, caput, da Lei n. 11.343/2006).
+Constou do julgado que "a autoria foi firmemente comprovada pelos depoimentos dos policiais, os quais relataram de forma consistente tanto o porte da droga quanto a venda realizada a Cláudio Ferreira Dias" (fl. 21).
+Por essas razões, é inadmissível a desclassificação da conduta, sobretudo ao se considerar que, no processo penal, vigora o princípio do livre convencimento motivado, em que é dado ao julgador decidir pela condenação do agente, desde que o faça fundamentadamente, exatamente como verificado nos autos.
+Portanto, torna-se inviável a modificação do julgado, pois, para concluir em sentido diverso, seria necessário o revolvimento de todo o conjunto fático-probatório produzido nos autos, providência inadmissível em habeas corpus, de cognição sumária.
+Em relação à fração da minorante do tráfico privilegiado, verifico que o acórdão apontado como ato coator não analisou a aludida tese defensiva, o que impede a sua apreciação diretamente por esta Corte Superior, sob pena de, se assim o fizer, incidir em indevida supressão de instância.
+Ilustrativamente: "Evidenciado que os temas levantados não foram objeto de debate e decisão por parte de órgão colegiado do Tribunal de origem, sobressai a incompetência desta Corte para o exame das matérias, sob pena de indevida supressão de instância" (HC n. 164.785/MS, Rel. Ministro Gilson Dipp, 5ª T., DJe 8/6/2011).
+À vista do exposto, denego o habeas corpus.
+Publique-se e intimem-se.
+EMENTA
