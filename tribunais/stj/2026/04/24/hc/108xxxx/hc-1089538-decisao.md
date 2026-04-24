@@ -1,0 +1,50 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido de liminar, impetrado em favor de CAMILA KALTENBACHER, no qual se aponta como autoridade coatora o Tribunal de Justiça do Estado de São Paulo.
+Consta dos autos que a paciente teve a custódia preventiva decretada pela suposta prática do delito de tráfico de drogas.
+Impetrado habeas corpus na origem, a ordem foi denegada pelo Tribunal a quo, nos moldes da seguinte ementa:
+"Habeas Corpus. Tráfico de drogas. Pleito de revogação da prisão cautelar. "Fumus comissi delicti" e "periculum libertatis" demonstrados. Garantia da ordem pública. Risco de reiteração delitiva. Prisão domiciliar. Impossibilidade. Ordem denegada." (e-STJ, fl. 107)
+Neste writ, a defesa sustenta a existência de constrangimento ilegal decorrente da ausência do periculum libertatis, destacando que o crime foi cometido sem violência ou grave ameaça, bem como que a paciente é primária, tem endereço fixo e possui um filho menor de 12 anos sob sua responsabilidade.
+Alega a desproporcionalidade da prisão, afirmando que em caso de condenação a paciente provavelmente receberá pena e regime mais brandos que a prisão cautelar.
+Requer a concessão de liberdade provisória, com ou sem a imposição de medidas cautelares do art. 319 do CPP. Subsidiariamente, pede a concessão de prisão domiciliar.
+É o relatório.
+Decido.
+Esta Corte - HC 535.063/SP, Terceira Seção, Rel. Ministro Sebastião Reis Junior, julgado em 10/6/2020 - e o Supremo Tribunal Federal - AgRg no HC 180.365, Primeira Turma, Rel. Min. Rosa Weber, julgado em 27/3/2020; AgR no HC 147.210, Segunda Turma, Rel. Min. Edson Fachin, julgado em 30/10/2018 -, pacificaram orientação no sentido de que não cabe habeas corpus substitutivo do recurso legalmente previsto para a hipótese, impondo-se o não conhecimento da impetração, salvo quando constatada a existência de flagrante ilegalidade no ato judicial impugnado.
+Passo, assim, à análise das razões da impetração, de forma a verificar a ocorrência de flagrante ilegalidade a justificar a concessão do habeas corpus, de ofício.
+A prisão preventiva foi decretada nos seguintes termos:
+"Assim, revela-se imperativa a decretação da prisão preventiva do autuado, para a garantia da ordem pública, inclusive porque ele, Geovanni, possui inúmeros antecedentes criminais, e inclusive é reincidente específico em narcotráfico (v. fls. 46 e ss.), e ela, Camila, está em liberdade provisória por outro processo (fls. 41); açodada qualquer discussão, neste momento processual, acera da eventual qualidade de usuários, ou de que possam fazer jus a redutora de pena, em meio aberto, no momento da condenação, esta última diante da possibilidade de incidência, também, do crime do art. 35 da Lei Antidrogas.
+Ora, o tráfico ilícito de entorpecentes mencionado nos autos, supostamente praticado pelos averiguados é crime gravíssimo, equiparado a hediondo e inafiançável e atenta contra a ordem pública, e praticado aparentemente de forma profissional, e não descartada a associação.
+Estou convicto de que, caso os averiguados sejam colocados em liberdade, poderão voltar a praticar crimes, inclusive da mesma natureza, ser tentado a perturbar a prova (prejudicando a instrução criminal) e, se condenado, existe o risco de embaraço ao cumprimento da pena, afastando-se do distrito da culpa, frustrando a aplicação da lei penal.
+No particular, as condições em que apurado o flagrante revelam aparente envolvimento com traficância profissional.
+No mais, não há, neste momento processual, indícios suficientes de que, ao final do processo, haverá desclassificação para o crime do art. 28 da Lei antidrogas, tampouco de incidência da redutora legal para o tráfico. Tudo a apontar que os averiguados não possuem mínima capacidade de autocondução em meio aberto durante o trâmite processual.
+Em relação à oportuna intervenção da douta Defensoria Pública em favor da autuada, no sentido da conversão da prisão preventiva em domiciliar, não há neste momento processual, diante do quadro apontado, sobretudo de violação de benefício em outro processo criminal já em andamento, bem como da traficância aparentemente profissional, inclusive em âmbito de aparente sustento do próprio vício, indício de que a autuada possa fazer jus ao benefício sem prejuízo de reexame dos fatos, à luz de novos elementos que o inquérito policial possa trazer ao DD. Juízo competente." (e-STJ, fls. 71-72)
+De acordo com o art. 312 do Código de Processo Penal, a custódia preventiva poderá ser decretada para garantia da ordem pública, da ordem econômica, por conveniência da instrução criminal ou para assegurar a aplicação da lei penal, desde que presentes prova da existência do crime e indícios suficientes de autoria.
+No caso, segundo se infere, o decreto constritivo destacou que a paciente já fora beneficiada com a liberdade provisória em processo anterior e que "as condições em que apurado o flagrante revelam aparente envolvimento com traficância profissional." (e-STJ, fl. 72).
+Todavia, embora a existência de outro processo em curso seja, a princípio, motivação válida para justificar a prisão cautelar, observa-se que a conduta atribuída à paciente não indica maior nocividade social, uma vez que foram apreendidos "4 trouxinhas de cocaína, pesando 0,06g; 28 eppendorfs de cocaína, pesando 0,22g; 38 tubetes pequenos de crack, pesando 0,4g; 8 pedras de maconha, pesando 0,34g". Além disso, trata-se de acusada primária e o processo por ela registrado em curso é referente ao delito de furto, crime de menor potencialidade ofensiva. Nesse contexto, entendo cabível a substituição da custódia preventiva por outras medidas cautelares do art. 319 do CPP, atento a previsão constitucional da prisão cautelar como ultima ratio.
+A propósito:
+AGRAVO REGIMENTAL NO RECURSO EM HABEAS CORPUS. TRÁFICO DE DROGAS. RECURSO MINISTERIAL. PRISÃO PREVENTIVA. PRIMARIEDADE E PEQUENA QUANTIDADE DE DROGA APREENDIDA. AUSÊNCIA DE CIRCUNSTÂNCIAS CONCRETAS QUE INDIQUEM O PERICULUM LIBERTATIS. IMPOSSIBILIDADE DE ACRÉSCIMO DE FUNDAMENTOS AO DECRETO. MANTIDA A REVOGAÇÃO. AGRAVO IMPROVIDO.
+1. Não obstante a excepcionalidade que é a privação cautelar da liberdade antes do trânsito em julgado da sentença condenatória, reveste-se de legalidade a medida extrema quando baseada em elementos concretos, nos termos do art. 312 do CPP.
+2. Em julgados recentes desta Corte Superior, consolidou-se o entendimento de que determinadas quantidades de entorpecentes, embora não possam ser consideradas inexpressivas, não autorizam, isoladamente, a conclusão de que a prisão preventiva é a única medida cautelar adequada.
+3. In casu, foram apreendidos somente 54g de maconha, 21g de crack e 31,60g de cocaína, quantidade irrisória e inapta a justificar a prisão cautelar.
+4. É pacífico o entendimento desta Corte quanto à impossibilidade de se agregar motivação ao decreto prisional falho, como ocorreria caso os argumentos aqui trazidos fossem acolhidos.
+5. Agravo regimental desprovido.
+(AgRg no RHC n. 197.179/BA, relator Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), Sexta Turma, julgado em 6/8/2024, DJe de 8/8/2024.)
+DIREITO PENAL E PROCESSUAL PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS. ORDEM CONCEDIDA PARA REVOGAR A PRISÃO PREVENTIVA. CUSTÓDIA DESNECESSÁRIA. REINCIDÊNCIA ESPECÍFICA. PEQUENA QUANTIDADE DE DROGA. AGRAVO IMPROVIDO.
+I. CASO EM EXAME
+1. Habeas corpus impetrado contra acórdão que manteve a prisão preventiva de paciente acusado de tráfico de drogas, alegando nulidade da apreensão e prisão por violação de domicílio, ausência de indícios suficientes de autoria e suficiência de medidas cautelares diversas da prisão.
+II. QUESTÃO EM DISCUSSÃO
+2. A questão em discussão consiste na legalidade da prisão preventiva do paciente, considerando a pequena quantidade de drogas apreendidas e a possibilidade de aplicação de medidas cautelares alternativas.
+III. RAZÕES DE DECIDIR
+3. A prisão preventiva foi mantida com base na presença dos requisitos do art. 312 do CPP, mas a quantidade de drogas apreendidas não justificou a manutenção da prisão.
+4. A jurisprudência do STJ e STF não admite habeas corpus como substitutivo de recurso próprio, salvo em casos de flagrante ilegalidade.
+5. A decisão monocrática está de acordo com a jurisprudência da 5ª Turma do STJ, que considera a prisão preventiva desproporcional em casos de pequena quantidade de drogas, ainda que o réu seja reincidente específico.
+IV. AGRAVO REGIMENTAL IMPROVIDO.
+(AgRg no HC n. 912.150/RS, relatora Ministra Daniela Teixeira, Quinta Turma, julgado em 23/10/2024, DJe de 30/10/2024.)
+AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS. RECURSO MINISTERIAL. PRISÃO PREVENTIVA SUBSTITUÍDA POR MEDIDAS CAUTELARES ALTERNATIVAS. PRIMARIEDADE E PEQUENA QUANTIDADE DE DROGA APREENDIDA. AUSÊNCIA DE CIRCUNSTÂNCIAS CONCRETAS QUE INDIQUEM O PERICULUM LIBERTATIS. AGRAVO DESPROVIDO.
+1. Não obstante a excepcionalidade que é a privação cautelar da liberdade antes do trânsito em julgado da sentença condenatória, reveste-se de legalidade a medida extrema quando baseada em elementos concretos, nos termos do art. 312 do CPP.
+2. Em julgados recentes desta Corte Superior, consolidou-se o entendimento de que determinadas quantidades de entorpecentes, embora não possam ser consideradas inexpressivas, não autorizam, isoladamente, a conclusão de que a prisão preventiva é a única medida cautelar adequada.
+3. In casu, foram apreendidos somente 11 microtubos de cocaína, com o peso de aproximadamente 9,4 gramas (fl. 15), quantidade irrisória e inapta a justificar a prisão cautelar.
+4 . Agravo regimental desprovido.
+(AgRg no HC n. 857.171/SP, relator Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), Sexta Turma, julgado em 18/3/2024, DJe de 21/3/2024.)
+Ante o exposto, não conheço do habeas corpus, mas concedo a ordem, de ofício, para revogar a prisão preventiva imposta à paciente, mediante a aplicação de medidas cautelares previstas no art. 319 do CPP, a critério do Juízo de primeiro grau. Devendo ele ser advertido que, na hipótese de descumprimento das cautelares, a custódia preventiva poderá ser restabelecida.
+Publique-se. Intimem-se.
+EMENTA
