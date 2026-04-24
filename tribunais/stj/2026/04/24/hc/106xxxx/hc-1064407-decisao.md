@@ -1,0 +1,18 @@
+DECISÃO
+Trata-se de habeas corpus impetrado por FERNANDO ROGÉRIO LIMA FARAH em favor de IRAN NASCIMENTO DO VALE contra decisão do Desembargador plantonista do Tribunal de Justiça do Estado do Pará que não conheceu do Habeas corpus n. 0828230-81.2025.8.14.0000.
+Consta que o paciente foi condenado pela prática do crime de homicídio previsto no art. 121, § 2º, do Código Penal, à pena de 18 anos e 8 meses de reclusão, em regime inicial fechado. Na execução penal, foi indeferido o pedido de prisão domiciliar humanitária pelo Juízo competente (e-STJ fls. 154/155).
+A defesa impetrou habeas corpus no Tribunal de Justiça do Estado do Pará, em regime de plantão (Processo n. 0828230-81.2025.8.14.0000), alegando extrema urgência e doença grave (neoplasia maligna de reto, CID C20), com necessidade de cuidados oncológicos incompatíveis com o cárcere (e-STJ fls. 14/16).
+O Desembargador Plantonista não conheceu do writ na sede excepcional, por ausência dos requisitos de urgência do plantão e pela existência de agravo em execução já em tramitação, determinando a distribuição ao relator prevento no expediente regular e oficiando à SEAP para adoção de medidas de preservação da saúde do paciente (e-STJ fls. 15/16).
+No presente habeas corpus, a defesa sustenta flagrante constrangimento ilegal, afirmando que o paciente é portador de neoplasia maligna de reto, com colostomia definitiva, sequelas debilitantes e necessidade de acompanhamento oncológico e exames de alta complexidade, inexistentes ou inadequados no ambiente prisional.
+Aduz inércia administrativa na realização de exame PET-CT e na disponibilização de medicações básicas, bem como a inadequação do estabelecimento prisional para os cuidados exigidos, invocando fundamentos constitucionais (dignidade da pessoa humana; integridade física e moral dos presos) e a flexibilização jurisprudencial do art. 117 da LEP para hipóteses excepcionais em regimes diversos do aberto (e-STJ fls. 3/12).
+Requer a imediata conversão do cumprimento da pena em prisão domiciliar humanitária, com monitoramento eletrônico integral, e a confirmação definitiva da medida até que o quadro clínico permita o retorno ao regime compatível, com apresentação de laudos periódicos (e-STJ fls. 3/12).
+Em despacho inicial, foram solicitadas informações atualizadas ao Juízo da execução e ao Tribunal de origem, com subsequente remessa ao Ministério Público Federal para parecer (e-STJ fls. 154/155).
+Sobreveio, então, decisão do Juízo da execução penal deferindo prisão domiciliar pelo prazo de 180 dias, com monitoramento eletrônico e reavaliações médicas periódicas a cada 90 dias, bem como condições correlatas, em razão do quadro oncológico e da necessidade de cuidados especializados (e-STJ fls. 209/210; 195/198; 173/176).
+As informações remetidas ao STJ consignaram que o apenado se encontra cumprindo pena em prisão domiciliar por motivo de saúde, com anexação do atestado de pena e da decisão concessiva (e-STJ fls. 203/204; 191/193; 188/189; 211).
+À vista desse cenário, o Ministério Público Federal opinou pela prejudicialidade do habeas corpus, por perda de objeto, uma vez que o benefício da prisão domiciliar humanitária já foi concedido ao paciente pelo prazo de 180 dias, com monitoramento e reavaliação periódica (e-STJ fls. 213/214).
+É o relatório. Decido.
+O pedido está prejudicado.
+Conforme demonstram as informações prestadas, já foi deferida a prisão domiciliar ao paciente (e-STJ fls. 195/198), restando caracterizada a perda superveniente do objeto da presente impetração.
+Ante o exposto, com base no art. 34, XI, do RISTJ, julgo prejudicado o habeas corpus .
+Intimem-se.
+EMENTA
