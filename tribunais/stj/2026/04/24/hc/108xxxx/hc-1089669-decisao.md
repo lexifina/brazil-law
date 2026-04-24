@@ -1,0 +1,12 @@
+DECISÃO
+JOSE EDERALDO PEDRO DA SILVA alega sofrer coação ilegal em decorrência "de manifesta ilegalidade decorrente da duração absolutamente desarrazoada da restrição à liberdade do paciente no processo nº 0002234-78.2015.8.17.0260, cuja tramitação recursal se encontra, há longo tempo, paralisada por entraves burocráticos imputáveis exclusivamente ao aparato estatal".
+A defesa sustenta que há excesso de prazo na manutenção da prisão preventiva do paciente - citado por edital (fl. 53) - devido à paralisação da marcha recursal por entraves burocráticos imputáveis ao Estado. Afirma que a apelação foi autuada em 2022 e, até o momento, não houve julgamento por falhas administrativas na disponibilização de mídias e na intimação para apresentação de contrarrazões. Aduz, ainda, que a prisão perdeu a contemporaneidade e se transformou em antecipação indevida de pena, não havendo contribuição da defesa para a demora.
+Requer a expedição de alvará de soltura em favor do paciente, ou, subsidiariamente, a substituição da prisão por medidas cautelares diversas.
+Decido.
+Ao analisar os autos, verifico que a Corte local não analisou a tese defensiva, evidenciando-se, assim, a impossibilidade de conhecer-se da impetração, sob pena de vedada supressão de instância.
+Ademais, observo que este mandamus foi deficientemente instruído, pois o impetrante não juntou aos autos documentos que ofereçam o contexto necessário para analisar-se o alegado constrangimento ilegal.
+Com efeito, pela própria impetração, sabe-se que o paciente teve mais de um decreto preventivo exarado em seu desfavor, mas não há como saber, com segurança, quanto tempo ele ficou preso por conta de cada um desses decretos. Também não foram colacionados as decisões que decretaram e mantiveram a prisão preventiva.
+Ação constitucional de natureza mandamental, o habeas corpus tem como escopo precípuo afastar eventual ameaça ao direito de ir e vir, cuja natureza urgente exige prova pré-constituída das alegações, não comportando dilação probatória. É cogente ao impetrante, sobretudo quando se tratar de advogado constituído, apresentar elementos documentais suficientes para se permitir a aferição da alegada existência de constrangimento ilegal no ato atacado na impetração, iniciativa que não se desincumbiu o impetrante. Nessa diretriz, destaco os seguintes julgados desta Corte: HC n. 555.157/RS, Rel. Ministro Leopoldo de Arruda Raposo (desembargador convocado do TJ/PE), 5ª T., DJe 28/2/2020.
+À vista do exposto, indefiro liminarmente o habeas corpus.
+Publique-se e intimem-se.
+EMENTA
