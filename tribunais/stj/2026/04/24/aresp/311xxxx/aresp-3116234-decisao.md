@@ -1,0 +1,15 @@
+DECISÃO
+Trata-se de agravo interposto por GAINETE EDÉSIO VIEIRA contra decisão que inadmitiu recurso especial interposto em face do acórdão do Tribunal de Justiça do Estado de Santa Catarina, assim ementado (e-STJ fls. 5081/5082):
+APELAÇÃO CRIMINAL. TRIBUNAL DO JÚRI. DELITOS DE HOMICÍDIO DUPLAMENTE QUALIFICADO, NA MODALIDADE TENTADA (ART. 121, § 2º, INCISOS I E IV, C/C ART. 14, INCISO II, AMBOS DO CÓDIGO PENAL, POR DUAS VEZES). SENTENÇA CONDENATÓRIA. RECURSO DEFENSIVO.
+ADMISSIBILIDADE. NÃO CONHECIMENTO DA INSURGÊNCIA. APELO INTERPOSTO COM FUNDAMENTO NO ART. 593, INCISO III, ALÍNEA "D", DO CÓDIGO DE PROCESSO PENAL. ANULAÇÃO ANTERIOR DECORRENTE DE INSURGÊNCIA INTERPOSTA PELO MINISTÉRIO PÚBLICO COM FULCRO NO MESMO DISPOSITIVO. IMPOSSIBILIDADE DE NOVA INTERPOSIÇÃO. INTELIGÊNCIA DO ART. 593, § 3º, DA LEI PROCESSUAL PENAL. PRECEDENTES.
+RECURSO NÃO CONHECIDO.
+Nas razões do recurso especial (e-STJ fls. 5107/5115), fundado na alínea "a" do inciso III do art. 105 da Constituição Federal, a defesa aponta violação dos arts. 155 e 213 do CPP, sustentando nulidade da decisão de pronúncia por estar baseada em testemunhos i ndiretos de "ouvir dizer" e requerendo, no mérito, a impronúncia, à luz do art. 414 do CPP.
+O recurso especial foi inadmitido na origem (e-STJ fls. 5133/5134). Agravo em recurso especial interposto (e-STJ fls. 5136/5144).
+É o relatório. Decido.
+O acórdão recorrido não conheceu da apelação interposta pela defesa por fundamento autônomo e suficiente, consubstanciado na vedação do art. 593, § 3º, do CPP quanto à interposição de novo apelo com base no inciso III, alínea "d", quando já houve anulação anterior pelo mesmo motivo (e-STJ fls. 5078/5080).
+Nas razões do especial, entretanto, a parte recorrente não impugnou tal fundamento, limitando-se a discutir nulidade da pronúncia e impronúncia por suposta ofensa aos arts. 155 e 213 do CPP. Diante da subsistência de fundamento não atacado, incide, por analogia, o óbice da Súmula 283/STF. A propósito, confira-se o precedente: AgRg no REsp n. 2.032.505/CE, Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 27/11/2023, DJe de 29/11/2023.
+De outro lado, as teses sobre violação dos arts. 155 e 213 do CPP, nulidade da pronúncia e impronúncia não foram objeto de enfrentamento no acórdão recorrido, que se limitou ao não conhecimento do apelo pela barreira do art. 593, § 3º, do CPP (e-STJ fls. 5078/5080; 5081/5082). Ausente, pois, o indispensável prequestionamento, incidem os verbetes 282/STF e e 211/STJ. Nesse sentido: AgRg no AREsp n. 1.699.508/SP, Ministra Laurita Vaz, Sexta Turma, julgado em 11/5/2021, DJe de 25/5/2021.
+Registre-se, ademais, que, mesmo quando a suposta violação surge no julgamento do acórdão recorrido, é indispensável a oposição de embargos de declaração para provocar o pronunciamento do Tribunal de origem sobre a tese federal, sob pena de incidir os óbices sumulares das Súmulas 282/STF e 356/STF, o que não se verificou no caso, pois não houve oposição de embargos para suscitar o pronunciamento a respeito dos arts. 155, 213 e 414 do CPP.
+Diante do exposto, conheço do agravo para não conhecer do recurso especial.
+Intimem-se.
+EMENTA
