@@ -1,0 +1,15 @@
+DECISÃO
+Trata-se de recurso em habeas corpus, com pedido liminar, interposto por PABLO HENRIQUE COELHO SANTANA contra o acórdão proferido pelo Tribunal de Justiça do Estado de Minas Gerais que denegou a ordem no julgamento do Habeas Corpus n. 1.0000.26.066796-9/000, mantendo a prisão preventiva, em razão da suposta prática dos crimes de organização criminosa (art. 2º, § 2º, da Lei n. 12.850/2013) e lavagem de capitais (art. 1º, § 4º, da Lei n. 9.613/1998).
+No recurso, a defesa sustenta que a prisão preventiva não possui elementos concretos e individualizados quanto à periculosidade do recorrente, aponta a ausência de contemporaneidade do perigo e defende a suficiência de medidas cautelares alternativas (fls. 416/424).
+Pede, inclusive liminarmente, o provimento do recurso para revogar a custódia cautelar e, alternativamente, substituí-la por medidas cautelares diversas da prisão (fls. 424/425).
+É o relatório.
+Do atento exame dos autos, observo que a segregação cautelar do acusado se encontra fundamentada em elementos concretos relacionados à atuação em organização criminosa estruturada e à gravidade em concreto dos delitos, tal como delineado pelo Juízo das garantias e referendado pelo colegiado de origem .
+É o que consta, por exemplo, das fls. 122 e 398/401, nas quais se individualiza a atuação atribuída ao recorrente no suporte logístico e operacional da organização, incluindo movimentação e ocultação de veículos do grupo, auxílio no planejamento de crimes violentos contra grupos rivais, monitoramento de ações policiais e "corres" ligados ao tráfico, evidenciando risco concreto de continuidade delitiva e necessidade da custódia para garantia da ordem pública.
+Ora, tratando-se de associação criminosa que possui constante atuação, para que se interrompa ou diminua seu desempenho, faz-se necessária a ordem de prisão. Nesse sentido: HC n. 974.892/SP, de minha relatoria, Sexta Turma, DJEN de 27/3/2025; AgRg no HC n. 947.800/SC, Ministro Antonio Saldanha Palheiro, Sexta Turma, DJEN de 11/3/2025; e AgRg no RHC n. 207.913/CE, Ministro Og Fernandes, Sexta Turma, DJEN de 12/3/2025.
+Ademais, a contemporaneidade da medida não se limita à proximidade temporal com o fato típico, relacionando-se ao risco atual que a liberdade representa à ordem pública, evidenciado pelas circunstâncias concretas (RHC n. 228.436/MG, de minha relatoria, Sexta Turma, julgado em 25/3/2026, DJEN de 30/3/2026).
+Nesse contexto, observa-se que a manutenção da constrição cautelar está baseada em elementos vinculados à realidade, pois as instâncias ordinárias fizeram referências às circunstâncias fáticas justificadoras, destacando tanto a gravidade em concreto do delito quanto a inserção do recorrente em engrenagem criminosa estruturada (fls. 398/405).
+Ante o exposto, nego provimento ao recurso em habeas corpus.
+Publique-se.
+EMENTA
+RECURSO EM HABEAS CORPUS. ORGANIZAÇÃO CRIMINOSA E LAVAGEM DE CAPITAIS. PRISÃO PREVENTIVA. ORDEM PÚBLICA. FUNDAMENTAÇÃO CONCRETA. OFENSA À CONTEMPORANEIDADE. NÃO OCORRÊNCIA. INSUFICIÊNCIA DAS MEDIDAS ALTERNATIVAS, NA ESPÉCIE.
+Recurso improvido.
