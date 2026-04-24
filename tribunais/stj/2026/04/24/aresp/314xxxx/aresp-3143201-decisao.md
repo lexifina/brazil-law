@@ -1,0 +1,44 @@
+DECISÃO
+Trata-se de agravo interposto por Espólio de Nelson Valentino Bonizio contra decisão que não admitiu recurso especial manejado contra acórdão assim ementado (fls. 260-270):
+AGRAVO DE INSTRUMENTO. CUMPRIMENTO DE SENTENÇA. PLANO DE SAÚDE. Decisão recorrida que rejeitou a impugnação ao cumprimento de sentença. Insurgência do executado. Descabimento. Preliminar de nulidade por ausência de fundamentação. Afastamento. Decisum que expôs de forma clara e suficiente os fatos e fundamentos jurídicos referentes à matéria sub judice. Dever de ressarcimento pelos prejuízos oriundos da efetivação da tutela, posteriormente revogada em sede de apelação. Inteligência do artigo 302 do Código de Processo Civil. Fato novo que deve ser veiculado por meio de ação própria. Precedentes desta E. Corte de Justiça. Decisão mantida. Recurso desprovido.
+Embargos de declaração não conhecidos por homologação de desistência (fls. 477-478).
+Nas razões do recurso especial, a parte recorrente alega, em síntese, que o acórdão recorrido violou os arts. 489, § 1º, incisos II, III e VI, e 926 do Código de Processo Civil e o art. 93, inciso IX, da Constituição Federal.
+Argumenta violação do art. 489, § 1º, incisos III e VI, do Código de Processo Civil, em razão de ter o Juízo de origem adotado conceitos jurídicos indeterminados, sem esclarecer motivo da incidência naquele cumprimento de sentença, bem assim como não ter apresentado fundamentos jurídicos para não aplicação - distinguishing - ou superação de jurisprudência da Suprema Corte - overruling.
+Sustenta falta de distinguishing ou superação quanto à jurisprudência do Supremo Tribunal Federal sobre a irrepetibilidade dos valores despendidos com medicamentos, recebidos de boa-fé, durante a vigência de tutela de urgência (fls. 276-285).
+Defende a aplicação, ao caso, da razão de decidir do Recurso Especial 2.162.984/SP, da Ministra Nancy Andrighi, para afastar a restituição em cumprimento de sentença. Afirma similitude fática com aquele julgado, inclusive com mesma operadora de plano de saúde e doença "hepatite C", variando apenas a medicação (fls. 278-283).
+Alega alteração do estado de fato com o registro dos fármacos na Agência Nacional de Vigilância Sanitária, o que influenciaria o alcance da coisa julgada.
+Invoca proteção da confiança e dignidade da pessoa humana, além de fundamentos do Supremo Tribunal Federal nos RE 1.319.935/SP e ARE-ED-AgR 1.307.9190 (fls. 279-283).
+Sustenta que o cumprimento de sentença não pode exigir a devolução dos valores, por se tratar de verbas equiparáveis a alimentos, reforçando a tese da irrepetibilidade.
+Requer a extinção do cumprimento de sentença e o reconhecimento da inexigibilidade do débito (fls. 283-285).
+Nas suas contrarrazões, a parte recorrida alega ausência de prequestionamento da matéria federal indicada, com menção à Súmula 211 do STJ, insuficiência de cotejo analítico quanto à divergência e incidência da Súmula 7 do STJ.
+Defende a responsabilidade processual objetiva prevista no art. 302 do Código de Processo Civil e a vedação ao enriquecimento sem causa do art. 884 do Código Civil (fls. 483-493).
+A não admissão do recurso na origem ensejou a interposição do presente agravo.
+Na sua impugnação ao agravo, a parte agravada alega ausência de prequestionamento, com aplicação da Súmula 211 do STJ, e defende a incidência da Súmula 7 do STJ por exigir reexame fático-probatório.
+Sustenta a legalidade do ressarcimento com base no art. 302 do Código de Processo Civil e reitera precedentes do Superior Tribunal de Justiça sobre responsabilidade processual objetiva e afastamento de devolução quando houver recebimento de boa-fé, além do art. 884 do Código Civil (fls. 510-520).
+Assim delimitada a questão, satisfeitos os requisitos de admissibilidade do agravo, dele conheço, passando à análise do recurso especial.
+Originariamente, o autor obteve tutela de urgência para fornecimento dos medicamentos Velpatasvir 100 mg e Voxilaprevir 100 mg em ação de obrigação de fazer, tendo a sentença confirmado a liminar e julgado procedente o pedido, com imposição de custeio pelo plano de saúde (fls. 262-263).
+Em sede de apelação, o Tribunal de Justiça do Estado de São Paulo reformou a sentença para reconhecer a inexistência de dever de custeio e inverter o ônus da sucumbência, com trânsito em julgado em 14/6/2019. Posteriormente, houve início do cumprimento de sentença para reaver os valores pagos durante a liminar, com discussão sobre excesso de execução e impugnações do executado, que foram rejeitadas (fls. 264-270).
+O Tribunal de origem afastou a preliminar de nulidade por ausência de fundamentação e concluiu pela exigibilidade do ressarcimento com base no art. 302 do Código de Processo Civil.
+Registrou que a rediscussão do alegado fato novo deveria ser feita por ação própria e que os precedentes do Supremo Tribunal Federal não impediam o cumprimento de sentença no caso concreto (fls. 266-267).
+Da leitura do acórdão recorrido, verifica-se que o Tribunal de origem se manifestou, expressamente e de forma clara, sobre as teses arguidas pelas partes. Sendo assim, não há que se falar em negativa de prestação jurisdicional, nem, portanto, em violação do art. 489 do CPC.
+Quando do julgamento do recurso, o TJSP entendeu às fls. 266 - 267 - grifei:
+Nesse cenário, não se pode olvidar que considerado o alegado fato novo, consistente no registro do fármaco objeto da lide na ANVISA, o cumprimento de sentença não é a via adequada para rediscussão do mérito processual, tampouco o é o recurso de agravo de instrumento.
+Assim, a almejada nulidade do acórdão de apelação que originou o cumprimento de sentença em razão do referido registro, deve ser veiculada por meio de ação própria, conforme inteligência dos artigos 966 e seguintes, do Código de Processo Civil.
+Ademais, embora o recorrente tente fundamentar a inexigibilidade do débito em recentes decisões do E. Supremo Tribunal Federal, que apontam eventual irrepetibilidade dos valores despendidos por plano de saúde para fornecimento de medicamento, durante a vigência da tutela de urgência, tais julgados não têm o condão de impedir o prosseguimento do cumprimento de sentença.
+A uma, porque referidos precedentes não possuem caráter vinculante.
+A duas, porque o acórdão que reformou a r. sentença que havia confirmado a liminar inicialmente deferida, transitou em julgado em 14 de junho de 2019 (fls. 338 autos nº 1001808-87.2018.8.26.0100), não sendo cabível a reanálise de seu mérito em sede de cumprimento de sentença, sob pena de se violar a coisa julgada material.
+No mais, o recorrente confirmou, em diversas oportunidades, o fornecimento dos medicamentos pela requerida, confirmando que a concessão da tutela de urgência, posteriormente revogada, causou prejuízos à operadora.
+E, nessa seara, destaca-se que a jurisprudência deste E. Tribunal de Justiça e do E. Superior Tribunal de Justiça já se consolidou no sentido de que a parte responde pelo prejuízo que a efetivação da tutela de urgência causar à parte adversa, conforme inteligência do artigo 302 do Código de Processo Civil.
+Da leitura do acima exposto, nota-se que a decisão impugnada entendeu que o acórdão que reformou a sentença que havia confirmado a liminar inicialmente deferida transitou em julgado em 14 de junho de 2019 (fls. 338 autos nº 1001808-87.2018.8.26.0100), não sendo cabível a reanálise de seu mérito em sede de cumprimento de sentença, sob pena de se violar a coisa julgada material, como também o recorrente confirmou, em diversas oportunidades, o fornecimento dos medicamentos pela requerida, confirmando que a concessão da tutela de urgência, posteriormente revogada, causou prejuízos à operadora.
+Ocorre, entretanto, que a parte recorrente não impugnou tais fundamentos, o que atrai o óbice previsto na Súmula 283 do STF.
+A propósito:
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO POR DANOS MATERIAIS E MORAIS. EMBARGOS DE DECLARAÇÃO. PRESTAÇÃO JURISDICIONAL COMPLETA. PREQUESTIONAMENTO. AUSÊNCIA PARCIAL. DEFICIÊNCIA NA FUNDAMENTAÇÃO. INCIDÊNCIA, POR ANALOGIA, DA SÚMULA 284/STF. NECESSIDADE DE REEXAME DE MATÉRIA FÁTICA. SÚMULAS 282, 283, 284 E 356/STF E 7/STJ.
+ .. .
+4. Ausência de impugnação específica a fundamento do acórdão recorrido atrai a incidência, por analogia, da Súmula 283 do Supremo Tribunal Federal.
+ .. .
+6. Agravo interno a que se nega provimento.
+(AgInt nos EDcl no REsp 1711630/SC, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 16/08/2021, DJe 18/08/2021).
+Em face do exposto, conheço do agravo para negar provimento ao recurso especial.
+Nos termos do art. 85, § 11, do Código de Processo Civil, majoro em 10% (dez por cento) a quantia já arbitrada a título de honorários em favor da parte recorrida, observados os limites estabelecidos nos §§ 2º e 3º do mesmo artigo, ônus suspensos no caso de beneficiário da justiça gratuita.
+Intimem-se.
+EMENTA
