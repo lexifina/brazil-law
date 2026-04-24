@@ -1,0 +1,51 @@
+DECISÃO
+Cuida-se de Agravo apresentado por ANDRE LUIS RIOS DE ARAUJO e OUTRO à decisão que não admitiu seu Recurso Especial.
+O apelo, fundamentado no artigo 105, III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE MATO GROSSO, assim resumido:
+DIREITO CIVIL E PROCESSUAL CIVIL. APELAÇÃO CÍVEL. NULIDADE DE PROCURAÇÃO PÚBLICA E REGISTROS IMOBILIÁRIOS DERIVADOS. USUCAPIÃO. SUCUMBÊNCIA. RECURSO PRINCIPAL DESPROVIDO. RECURSO ADESIVO PARCIALMENTE PROVIDO. I. CASO EM EXAME 1. AÇÃO DE NULIDADE DE PROCURAÇÃO E REGISTROS IMOBILIÁRIOS EM FACE DE TERCEIROS ADQUIRENTES APÓS CONSTATAR, EM 2008, A TRANSFERÊNCIA DE QUATRO LOTES URBANOS FIRMADA COM BASE EM PROCURAÇÃO LAVRADA EM 1989, DECLARADA FALSA EM LAUDO PERICIAL GRAFOTÉCNICO. 2. SENTENÇA DECLAROU A NULIDADE DA PROCURAÇÃO, DOS NEGÓCIOS JURÍDICOS SUBSEQUENTES E A RESTITUIÇÃO DA TITULARIDADE DOMINIAL, MAS PRONUNCIOU A PRESCRIÇÃO DO PEDIDO DE INDENIZAÇÃO POR DANOS MORAIS.
+Quanto à controvérsia, pela alínea "a" do permissivo constitucional, a parte recorrente aduz contrariedade ao art. 1.238 do Código Civil, no que concerne à necessidade de reconhecimento da usucapião extraordinária, em razão de alegada posse contínua, pacífica e com intenção de dono por mais de 15 anos. Argumenta que:
+Os Recorridos ajuizaram ação declaratória de nulidade de procuração e registro imobiliário em face dos Recorrentes, haja vista a existência de procuração outorgada pelos Recorridos a terceiros afim de autorizar a venda dos terrenos registrados sob as matrículas nº 3.792, 3.792, 3.794 e 3.795, os quais foram comprados pelos Recorrentes. (fl. 775)
+Dessa forma, o Juízo dos autos principais determinou a realização de perícia grafotécnica, sendo apontada a falsidade das assinaturas dos outorgantes, ora Recorridos.
+Diante disso, o Juiz de primeira instância proferiu sentença declarando a nulidade de todos os atos jurídicos decorrentes de procuração pública falsa, bem como dos respectivos registros imobiliários.
+Irresignados com a decisão de primeira instância, os Recorrentes interpuseram recurso de apelação, o qual fora negado provimento:
+ ..
+Insta demonstrar que em seu decisium o Ilustríssimo Magistrado, quanto à usucapião extraordinária em favor dos Recorrentes, entendeu da seguinte forma:
+ ..
+Entretanto, nota-se que, o i. Relator, o qual devotamos o mais profundo respeito e admiração, equivocou-se ao negar provimento ao Recurso de Apelação, eis que deixou de considerar o disposto no art. 1.238, do Código Civil, que assim estabelece:
+ ..
+Portanto, verifica-se que o i. relator violou a citada norma. Eis que a usucapião extraordinária é um modo de adquirir a propriedade de um imóvel pela posse prolongada, por quinze anos ininterruptos e sem oposição, o que se verifica no presente caso.
+Eis que restou devidamente demonstrado nos autos, que os Recorrentes estão na posse do imóvel há mais de 15 anos ininterruptos, bem como extrai-se da exordial que os Recorridos adquiriram o imóvel em 01/07/1986, entretanto, o abandonaram, visto que não tomaram posse, somente vindo a questionar a suposta propriedade do imóvel no ano de 2008, quando citados na Ação de Interditos Proibitórios.
+Insta salientar, que consta nos autos a prova da inexistência de posse em favor dos Recorridos, eis que fora juntado cópias do pagamento de IPTU dos imóveis em nome do Empreendimento Nossa Senhora da Guia LTDA, o que demonstra que os Recorridos sequer efetuaram os pagamentos relativos a taxas e impostos dos imóveis, ou seja, abandonaram os imóveis:
+ ..
+Dessa forma, apesar do laudo pericial ter apontado a falsificação das procurações, deve-se levar em consideração a comprovação do abandono dos imóveis pelos Recorridos, os quais, frisa- se, jamais exerceram a posse.
+ ..
+Diante do exposto, constata-se que no presente caso, a ocorrência de falsificação das procurações é irrelevante para o reconhecimento da usucapião em favor dos Recorrentes, tendo em vista que, a boa-fé não é um requisito essencial para a aquisição da propriedade pela usucapião.
+Portanto, resta clarividente que o Juízo a quo desacertou ao deixar de reconhecer a usucapião em favor dos Recorrentes, os quais usufruíram o domínio e a posse do imóvel, bem como todas as transferências de posse foram mansas, pacíficas e de boa-fé.
+Frisa-se que os Recorrentes são possuidores de boa-fé, assim, as consequências do ato ilícito perpetrado contra os Recorridos, não devem recair sobre os Recorrentes, visto que não deram causa.
+Ademais, deve-se levar em consideração que, sendo o poder de fato sobre o bem imóvel a posse está aliada ao decurso de tempo (e demais requisitos legais) "confere juridicidade a uma situação de fato, convertendo-a em propriedade". Assim, o proprietário da coisa será privado de seu patrimônio, em favor daquele que detém a posse do imóvel, uma vez que o fundamento da usucapião é a consolidação da propriedade.
+ ..
+Pois bem, a vertente ação anulatória foi distribuída apenas em 14.08.2012, ou seja, 07 anos após os Recorrentes terem adquirido a posse e domínio da área; e, 23 anos após terceiros terem adquirido a posse e domínio da área.
+Entretanto, não se fala mais em domínio, eis que, mesmo diante do reconhecimento da nulidade do título, o mesmo fora extinto na origem, ou seja, em 1989.
+Todavia, tal fato não pode repercutir na posse mansa e pacífica, questionada apenas em 2012, eis que o que se anula é somente o título relacionado ao domínio.
+No caso em tela estamos diante da usucapião extraordinário, aonde, em bora o juízo a quo tenha cerceado o direito dos Recorrentes em produzir provas de sua posse mansa e pacifica, desponta dos autos que há provas de que os Recorrentes preenchem todos os requisitos necessários para reconhecimento da usucapião extraordinário.
+Importante destacar que, uma vez caraterizada a posse mansa e pacífica por mais de 15 anos não há falar-se em justo título, e, sendo assim, o reconhecimento da nulidade do título dos Recorrentes em nada pode interferir na concessão da usucapião.
+Portanto é medida que se impõe o conhecimento e o provimento do vertente recurso, para que seja reformado o acordão combatido, para o reconhecimento da usucapião extraordinária em favor dos Recorrentes, haja vista o preenchimento de todos os requisitos elencados no art. 1.238, do Código Civil. (fl. 780)
+É o relatório.
+Decido.
+Quanto à controvérsia, o Tribunal a quo se manifestou nos seguintes termos:
+A usucapião extraordinária prevista no art. 1.238 do Código Civil exige, para sua configuração, a posse contínua, mansa, pacífica e com ânimo de dono por pelo menos 15 (quinze) anos, independentemente de justo título ou boa-fé. Vale dizer, tal modalidade constitui forma originária de aquisição da propriedade, desprovida de vínculo com qualquer título anterior. (fl. 765)
+Inobstante isso, no caso concreto, a posse exercida pelos apelantes e seus antecessores têm origem em ato jurídico eivado de vício insanável, decorrente de procuração pública falsa, ponto esclarecido por laudo pericial concludente.
+Consoante o art. 1.208 do CC, a posse adquirida de forma clandestina ou violenta não induz usucapião, senão depois de cessados os vícios. Ou, em termos mais claros, a posse exercida com base em negócio jurídico nulo, ainda que os adquirentes aleguem boa-fé, não pode ser considerada posse ad usucapionem.
+No caso concreto, a fraude documental impede, desde o início, o transcurso de tempo útil para aquisição originária da propriedade.
+ ..
+Assim, além de faltar ânimo de dono válido, também não há comprovação material da posse contínua e ininterrupta no lapso temporal exigido pela norma.
+E, ainda que se reconheça que os apelantes não tenham agido de má-fé, como ponderado pelo Juiz sentenciante, a nulidade absoluta do ato inicial contamina toda a cadeia dominial subsequente, tornando irrelevante a boa-fé.
+ ..
+Assim, correta a sentença ao afastar a possibilidade de convalidação da cadeia dominial, restando aos apelantes apenas o direito de regresso contra os alienantes.
+Feitos esses esclarecimentos, é juridicamente inviável reconhecer usucapião extraordinária fundada em posse derivada de cadeia dominial contaminada por fraude documental, sob pena de chancelar e perpetuar ilicitudes no sistema registral e negocial imobiliário. (fl. 767)
+Assim, incide a Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), porquanto o acolhimento da pretensão recursal demandaria o reexame do acervo fático-probatório juntado aos autos.
+Nesse sentido: AgInt no REsp n. 2.113.579/MG, relatora Ministra Maria Isabel Gallotti, Quarta Turma, DJEN de 27/3/2025; AgInt no AREsp n. 2.691.829/SP, relator Ministro Sérgio Kukina, Primeira Turma, DJEN de 28/3/2025; AREsp n. 2.839.474/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJEN de 26/3/2025; AgInt no REsp n. 2.167.518/RS, relatora Ministra Nancy Andrighi, Terceira Turma, DJEN de 27/3/2025; AgRg no AREsp n. 2.786.049/SP, relator Ministro Messod Azulay Neto, Quinta Turma, DJEN de 26/3/2025; AgRg no AREsp n. 2.753.116/RN, relator Ministro Sebastião Reis Júnior, Sexta Turma, DJEN de 25/3/2025; AgInt no REsp n. 2.185.361/CE, relatora Ministra Regina Helena Costa, Primeira Turma, DJEN de 28/3/2025; AgRg no REsp n. 2.088.266/MG, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, DJEN de 25/3/2025; AREsp n. 1.758.201/AM, relatora Ministra Maria Thereza de Assis Moura, Segunda Turma, DJEN de 27/3/2025; AgInt no AREsp n. 2.643.894/DF, relator Ministro Raul Araújo, Quarta Turma, DJEN de 31/3/2025; AgInt no AREsp n. 2.636.023/RS, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, DJEN de 28/3/2025; AgInt no REsp n. 1.875.129/PE, relator Ministro Paulo Sérgio Domingues, Primeira Turma, DJEN de 21/3/2025.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do Agravo para não conhecer do Recurso Especial.
+Nos termos do art. 85, § 11, do Código de Processo Civil, majoro os honorários de advogado em desfavor da parte recorrente em 15% sobre o valor já arbitrado nas instâncias de origem, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão de justiça gratuita.
+Publique-se.
+Intimem-se.
+ EMENTA
