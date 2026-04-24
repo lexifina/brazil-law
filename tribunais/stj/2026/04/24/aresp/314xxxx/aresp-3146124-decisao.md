@@ -1,0 +1,45 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por MÁRCIO ALEXANDRE FRACALOSSI contra decisão do TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO que inadmitiu recurso especial manejado em face de acórdão que negou provimento à Apelação Criminal n. 1517365-13.2019.8.26.0071, assim ementado (fls. 285-286):
+DIREITO PENAL. APELAÇÃO CRIMINAL DEFENSIVA. RECEPTAÇÃO DE ANIMAL. DESPROVIMENTO.
+I. Caso em Exame
+1. O apelante foi condenado por transportar uma égua mestiça manga larga, sabendo ser produto de crime, em proveito próprio ou alheio. A condenação foi baseada em provas materiais e testemunhais, incluindo depoimentos da vítima e de policiais.
+Il. Questão em Discussão
+2. A questão em discussão consiste em determinar se houve dolo na conduta do apelante e se a pena aplicada foi adequada. O apelante busca absolvição por ausência de dolo ou desclassificação para apropriação de coisa achada, além de redução da pena e fixação de regime mais brando.
+III. Razões de Decidir
+1.  A prova do dolo foi evidenciada pela posse do animal um dia após o furto e pela tentativa de fuga. A conduta do apelante e os fatos circunstanciais indicam conhecimento da origem ilícita do animal.
+2.  A pena foi corretamente fixada acima do mínimo devido aos maus antecedentes e agravada pela reincidência. O regime semiaberto foi mantido devido à reiteração delitiva.
+IV. Dispositivo
+5. Recurso defensivo de sprovido, mantendo a sentença condenatória por seus próprios fundamentos.
+Consta dos autos que o recorrente foi condenado pela prática do crime previsto no art. 180-A do Código Penal, à pena de 3 (três) anos e 4 (quatro) meses de reclusão, em regime inicial semiaberto (fls. 219-225), mantendo-se a condenação em segundo grau, inclusive quanto ao regime e à dosimetria, com majoração da pena-base em razão dos maus antecedentes e aumento pela reincidência (fls. 285-293).
+No recurso especial, interposto com fulcro no art. 105, III, alínea a, da Constituição Federal, a defesa alegou vio lação dos arts. 180-A, caput, e 59, caput, ambos do Código Penal (fls. 302-312).
+Sustentou, em síntese, que a condenação pelo art. 180-A do Código Penal é atípica por ausência do elemento subjetivo especial do tipo, consistente na finalidade de produção ou de comercialização do semovente.
+Argumentou que a denúncia não descreveu tal especial fim de agir e que a sentença e o acórdão limitaram-se ao dolo genérico, sem demonstrar a finalidade exigida pelo tipo penal do art. 180-A, caput, o que impõe a absolvição por atipicidade, nos termos do art. 386, III, do Código de Processo Penal.
+Em seguida, apontou violação ao art. 59, caput, do Código Penal, afirmando que a exasperação da pena-base em 1/3 (um terço) por uma única circunstância judicial desfavorável - maus antecedentes - é desproporcional e destituída de razoabilidade, pleiteando o redimensionamento da fração para 1/6 (um sexto).
+Requereu, ao final, o conhecimento e provimento do recurso para absolvição por atipicidade e, subsidiariamente, a reforma do acórdão a fim de reduzir a pena-base.
+O Tribunal a quo inadmitiu o recurso especial pela incidência das Súmulas n. 7 do Superior Tribunal de Justiça e 282 e 356 do Supremo Tribunal Federal (fls. 322-324), razão pela qual foi interposto o presente agravo. Neste recurso, a defesa sustenta genericamente não incidir os óbices apontado(s) na origem, afirmando que as teses estão delimitadas, com indicação dos dispositivos violados e que a discussão é estritamente de direito, sem pretensão de reexame de provas (fls. 364-368).
+Contraminuta apresentada às fls. 340-342. Contrarrazões apresentadas às fls. 317-320.
+O Ministério Público Federal manifestou-se pelo não conhecimento do agravo e, se conhecido, pelo seu desprovimento (fls. 363-372).
+É o relatório.
+Decido.
+O recorrente foi condenado como incurso no art. 180-A do Código Penal, à pena de 3 anos e 4 meses de reclusão, em regime inicial semiaberto, pela prática, segundo a denúncia, de transportar semovente que deveria saber ser produto de crime.
+As instâncias ordinárias reconheceram a materialidade e a autoria a partir de boletins, autos de apreensão e avaliação, e depoimentos da vítima e de policial, destacando posse do animal logo após o furto e tentativa de fuga durante a abordagem.
+O conhecimento do agravo pressupõe o integral cumprimento do ônus da impugnação específica dos fundamentos da decisão que inadmitiu o recurso especial na origem. Conforme o princípio da dialeticidade, se o agravante não refuta, de maneira pontual e suficiente, cada um dos óbices aplicados, o agravo não supera seu próprio juízo de admissibilidade, o que impede a análise do recurso especial.
+No caso concreto, o agravante não observou tal requisito processual.
+A decisão de inadmissibilidade fundamentou-se na vedação ao reexame de provas, conforme a Súmula n. 7/STJ, bem como pela ausência de prequestionamento da tese jurídica relativa à dosimetria (fls. 322-324). A argumentação do agravo, contudo, falhou em infirmar adequadamente a aplicação do óbice sumular.
+Com efeito, para afastar o impedimento da Súmula n. 7/STJ, seria imperativo que o recorrente, por meio de um cotejo analítico, demonstrasse que a sua pretensão recursal não demanda a reavaliação do substrato fático-probatório, mas apenas a revaloração jurídica dos fatos já soberanamente delineados no acórdão recorrido. A ausência dessa demonstração técnica, limitando-se a alegações genéricas, torna a impugnação ineficaz e mantém hígido o fundamento da decisão agravada.
+A jurisprudência deste Tribunal é pacífica ao exigir, para o afastamento da Súmula n. 7, que a parte demonstre, com base nas premissas fáticas do próprio acórdão, que a questão é puramente de direito, não bastando a mera assertiva de que não se pretende o reexame de provas (AgRg no AREsp 2183499/MG, Rel. Ministro Carlos Cini Marchionatti, Desembargador Convocado do TJRS, Quinta Turma, julgado em 20/03/2025, DJEN de 26/03/2025).
+Sob a mesma perspectiva:
+PENAL E PROCESSO PENAL. AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO DOS FUNDAMENTOS DA DECISÃO AGRAVADA. SÚMULA N. 182/STJ. CONCESSÃO DA ORDEM DE HABEAS CORPUS. CRIME CONTRA A ORDEM TRIBUTÁRIA. ART. 2º, INCISO II, DA LEI N. 8.137/1990. FALTA DE RECOLHIMENTO DO ICMS. DOLO DE APROPRIAÇÃO NÃO COMPROVADO. ABSOLVIÇÃO. AGRAVO EM RECURSO ESPECIAL NÃO CONHECIDO. ORDEM CONCEDIDA DE OFÍCIO.
+1. Da análise das razões do agravo interposto (e-STJ fls. 1168/1183), se extrai que a parte agravante deixou de infirmar, de forma específica e pormenorizada, a incidência de óbice ventilado pela Corte de origem para inadmitir o recurso especial, no caso, a Súmula n. 7/STJ (e-STJ fls. 1140/1157).
+2. Nos termos da orientação jurisprudencial deste Superior Tribunal, "para que se considere adequadamente impugnada a Súmula 7/STJ, o agravo precisa empreender um cotejo entre os fatos estabelecidos no acórdão e as teses recursais, mostrando em que medida estas não exigem a alteração do quadro fático delineado pelo Tribunal local, o que não se observa na alegação genérica de ser prescindível reexame de fatos e provas" (AgRg no AREsp n. 2.060.997/SC, Rel. Ministro Ribeiro Dantas, Quinta Turma, julgado em 2/8/2022, DJe 10/8/2022).
+3. A falta de impugnação específica de todos os fundamentos utilizados na decisão agravada (despacho de inadmissibilidade do recurso especial) atrai a incidência da Súmula n. 182 desta Corte Superior. (AREsp 2548204/RN, Rel. Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 05/08/2025, DJEN de 22/08/2025)
+Dessa forma, conclui-se que o agravo não preenche os requisitos de admissibilidade. A parte recorrente não impugnou, de forma específica e dialética, todos os fundamentos da decisão que, na origem, inadmitiu o recurso especial.
+Incide, portanto, a Súmula n. 182 do STJ, bem como a regra do art. 932, inciso III, do Código de Processo Civil, aplicável ao processo penal por força do art. 3º do Código de Processo Penal.
+Sobre a matéria:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. RECURSO NÃO CONHECIDO POR INCIDÊNCIA DA SÚMULA N. 182 DO STJ. ÓBICE DA SÚMULA N. 7 DO STJ NÃO INFIRMADO PELO AGRAVANTE. DECISÃO MANTIDA.
+1. A ausência de impugnação de todos os fundamentos da decisão que inadmitiu o recurso especial, ônus da parte recorrente, obsta o conhecimento do agravo, nos termos do art. 932, III, do CPC/2015; art. 253, parágrafo único, I, do RISTJ; e da Súmula n. 182 do STJ, aplicável por analogia.
+2. "O momento processual adequado para a impugnação completa dos termos da decisão de inadmissibilidade é o agravo em recurso especial, e não o agravo regimental oposto contra a decisão que aplicou o mencionado óbice sumular" (AgRg no REsp n. 1.991.029/PR, relator Ministro Antônio Saldanha Palheiro, Sexta Turma, julgado em 18/9/2023, DJe de 20/9/2023).
+3 . Agravo regimental improvido. (AgRg no AREsp 2400759/SP, Rel. Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT, Sexta Turma, julgado em 05/03/2024, DJe de 11/03/2024)
+Ante o exposto, com fundamento no art. 34, inciso XVIII, alínea "a", do RISTJ, não conheço do agravo em recurso especial.
+Publique-se. Intimem-se.
+EMENTA
