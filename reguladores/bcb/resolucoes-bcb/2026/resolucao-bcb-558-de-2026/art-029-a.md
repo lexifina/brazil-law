@@ -1,0 +1,13 @@
+Art. 29-A. À Daint compete conduzir as atividades relacionadas a:
+I - coordenação da atuação do Coaf em organismos, redes e foros internacionais, bem como gestão da cooperação internacional bilateral e multilateral, inclusive a negociação e a implementação de acordos e iniciativas de cooperação técnica;
+II - acompanhamento e monitoramento dos compromissos internacionais assumidos pelo país em matéria de PLD/FTP, incluindo processos de avaliação internacional e respectivas ações de seguimento;
+III - condução da Avaliação Nacional de Riscos de Lavagem de Dinheiro, Financiamento do Terrorismo e Financiamento da Proliferação de Armas de Destruição em Massa – ANR e coordenação da participação do Coaf no Grupo de Trabalho de Avaliação Nacional de Riscos – GTANR;
+IV - articulação de posições institucionais do Coaf em temas internacionais e promoção da integração entre as agendas nacional e internacional em matéria de PLD/FTP;
+V - promoção da articulação interinstitucional com órgãos e entidades nacionais e internacionais, inclusive no âmbito do Conselho, para acompanhamento da efetividade do sistema de PLD/FTP e preparação para avaliações internacionais;
+VI - apoio à governança e à implementação de políticas nacionais de PLD/FTP;
+VII - assessoramento da Presidência e das demais unidades do Coaf na definição de posicionamentos estratégicos e na análise de temas internacionais relevantes; e
+VIII - produção e sistematização de informações e análises sobre tendências, riscos e padrões internacionais em matéria de PLD/FTP, com vistas a subsidiar a tomada de decisão." (NR)
+"Art. 30. As competências e atribuições de instâncias internas, bem como de seus integrantes, não disciplinadas especificamente neste Regimento Interno, inclusive órgãos colegiados, unidades descentralizadas e outras instâncias congêneres criadas no âmbito do Coaf, poderão ser definidas por ato do Presidente.
+§ 1º Será instituída Comissão de Ética do Coaf, disciplinada em regulamento próprio, aprovado por ato do Presidente, observado o disposto no Código de Ética Profissional do Servidor Público Civil do Poder Executivo Federal e nas normas da Comissão de Ética Pública, cabendo-lhe atuar na promoção da ética e na apuração de condutas na esfera ética.
+§ 2º Será instituída a Ouvidoria do Coaf, em conformidade com o Decreto nº 9.492, de 5 de setembro de 2018, diretamente subordinada à Presidência do Coaf.
+§ 3º Poderá ser criada a unidade de controle interno, no âmbito do Coaf, vinculada diretamente à Presidência do Coaf, devendo ser observado, no que couber, o Decreto nº 3.591, de 6 de setembro de 2000." (NR)
