@@ -1,0 +1,21 @@
+DECISÃO
+A Requerente, por meio da petição n. 351.232/2026 (fls. 441-466), esclarece que o agravo de instrumento n. 1019017-10.2018.4.01.0000, o qual originou o presente agravo em recurso especial, foi interposto contra decisão que não admitiu a exceção de pré-executividade proposta no bojo da execução fiscal 0015532-54.2016.4.01.3600.
+Informa que, em 10/11/2025, foi prolatada sentença com cognição exauriente na ação anulatória n. 0000324-18.2016.4.01.3604, ajuizada antes da propositura da execução fiscal antes mencionada, reconhecendo expressamente a prescrição intercorrente no processo administrativo n. 02013.002947/2006-35, que originou o auto de infração n. 547481-D, afastando a exigibilidade do título executivo.
+Diante desse panorama, pugna pelo reconhecimento da perda superveniente de objeto do presente agravo em recurso especial, "diante da sentença proferida nos autos da Ação Anulatória nº 0000324-18.2016.4.01.3604, que reconheceu a existência de nulidade no processo administrativo nº 02013.002947/2006-35, que deu origem ao título executivo perseguido na execução fiscal nº 0015532-54.2016.4.01.3600" (fl. 411).
+Subsidiariamente, pleiteia a retirada do feito da pauta de julgamentos ou adiamento da apreciação, com o fito de viabilizar a apreciação do informado fato superveniente para evitar a prolação de decisões conflitantes.
+É o relatório.
+Decido.
+No caso dos autos, considerando que a própria Agravante postulou o reconhecimento da superveniente perda do objeto da presente demanda, entende-se que houve a prática de ato incompatível com a vontade de recorrer, implicando a superveniente perda do objeto do recurso por falta de interesse recursal.
+A propósito:
+PROCESSUAL CIVIL. ADMINISTRATIVO. PENSÃO POR MORTE FICTA DE POLICIAL. NESTA CORTE, AGRAVO INTERNO NO RECURSO ESPECIAL PREJUDICADO. PETIÇÃO PARA RECONHECER A PERDA SUPERVENIENTE DO OBJETO DA DEMANDA. ATO INCOMPATÍVEL COM A VONTADE DE RECORRER. DESPROVIMENTO DO AGRAVO INTERNO. MANUTENÇÃO DA DECISÃO RECORRIDA.
+I - Na origem, trata-se de ação de conhecimento (pensão por morte ficta). Na sentença, julgou-se procedente o pedido. No Tribunal a quo, a sentença foi reformada.
+II - Nos termos do parágrafo único do art. 1.000 do CPC, "considera-se aceitação tácita a prática, sem nenhuma reserva, de ato incompatível com a vontade de recorrer".
+III - A agravante interpôs agravo interno às fls. 1.427-1.460 em desfavor da decisão monocrática que não conheceu de seu recurso especial. Todavia, antes mesmo de ser julgado, a parte apresentou petição às fls. 1.465-1.471, em que requer "declarar a perda superveniente da ação, determinando a PMDF que observe e cumpra os exatos termos da aludida Decisão 1006 do TCDF, em favor das Recorrentes, a fim de evitar dano irreparável" (fl. 1.466).
+IV - Na presente petição, as requerentes, também recorrentes/agravantes, pleiteiam o reconhecimento da perda superveniente do objeto da demanda, ante a prolação pelo Tribunal de Contas do Distrito Federal de decisão que supostamente reconheceria o direito buscado no recurso especial, o que acarreta em extinção da demanda sem exame de mérito, nos termos do art. 485, VI, do Código de Processo Civil.
+V - Considerando que foram as próprias recorrentes que postularam o reconhecimento da superveniente perda do objeto do recurso especial, entende-se que houve a prática de ato incompatível com a vontade de recorrer, implicando a superveniente perda do objeto do recurso por falta de interesse recursal. No mesmo sentido: RtPaut na Pet n. 15.629/SP, relator Ministro João Otávio de Noronha, DJe de 24/4/2024; PET no REsp n. 1.997.810/AL, relator Ministro Herman Benjamin, DJe de 23/9/2022; AREsp n. 2.080.870/SP, relator Ministro Herman Benjamin, DJe de 27/6/2022.
+VI - Agravo interno improvido.
+(AgInt na PET no AREsp n. 2.575.508/DF, relator Ministro Francisco Falcão, Segunda Turma, julgado em 5/12/2024, DJe de 9/12/2024.)
+Ante o exposto, julgo PREJUDICADO o recurso, tendo em vista a superveniente falta de interesse recursal.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO EM RECURSO ESPECIAL. EXECUÇÃO FISCAL E EXCEÇÃO DE PRÉ-EXECUTIVIDADE. PRESCRIÇÃO INTERCORRENTE. PETIÇÃO PARA RECONHECER A PERDA SUPERVENIENTE DO OBJETO DA DEMANDA. ATO INCOMPATÍVEL COM A VONTADE DE RECORRER. RECURSO PREJUDICADO.
