@@ -1,0 +1,24 @@
+DECISÃO
+Trata-se de habeas corpus, sem pedido liminar, impetrado em benefício próprio por WASHINGTON ELIAS MADALENA SOARES contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO no julgamento da Apelação Criminal n. 0100418-34.2016.8.26.0050.
+Extrai-se dos autos que o paciente foi condenado à pena de 6 anos, 2 meses e 20 dias de reclusão, no regime inicial fechado, e ao pagamento de 14 dias-multa, no menor patamar, por incurso no artigo 157, § 2º, incisos I e II, na forma do artigo 70, ambos do Código Penal.
+O Tribunal de origem negou provimento à apelação interposta pelo paciente, em acordão com a ementa a seguir:
+"ROUBO DUPLAMENTE AGRAVADO AUTORIA E MATERIALIDADE COMPROVADAS CONDENAÇÃO DEVIDA. Suficientes os elementos probatórios a demonstrar a autoria de agente que subtraiu, mediante grave ameaça exercida pelo emprego de arma de fogo e concurso de agentes, coisa alheia móvel, de rigor o decreto condenatório. RECURSO NÃO PROVIDO."
+No presente writ, o impetrante requer o redimensionamento da pena a fim de ser aplicada no mínimo legal.
+Manifestação da DPU às fls. 20/21,
+Parecer do MPF opinando pelo não conhecimento do habeas corpus às fls. 42/45.
+É o relatório.
+Decido.
+Diante da hipótese de habeas corpus substitutivo de recurso próprio, a impetração não deve ser conhecida, segundo orientação jurisprudencial do Supremo Tribunal Federal - STF e do próprio Superior Tribunal de Justiça - STJ.
+Contudo, considerando as alegações expostas na inicial, razoável verificar a existência de eventual constrangimento ilegal.
+No tocante ao pleito de redimensionamento da pena, a própria DPU, por força do Acordo de Cooperação Técnica STJ/DPU nº 3/2025, destacou inexistir qualquer ilegalidade na dosimetria, como se observa abaixo:
+"Como se vê, não há excesso na dosimetria da pena-base aplicada ao paciente, porque foi fixada no mínimo legal. Por outro lado, não houve acréscimo na pena intermediária, que não pôde ser reduzida aquém do mínimo legal, em face da atenuante da menoridade relativa, devido ao entendimento do STJ sumulado no Enunciado 231, entendimento esse consolidado pelo STF no julgamento do Tema 158 (RE 597.270), isto é, também no sentido de que a incidente de atenuantes genéricas não autorizam a redução da pena intermediária abaixo do mínimo.
+Na terceira fase da dosimetria, verifica-se que a pena foi majorada na fração de 1/3 em face do concurso de agentes e emprego de arma de fogo. Ou seja, apesar de serem duas as causas de aumento, aplicou-se a majoração mínima de 1/3. Note-se, nesse ponto que, como o crime foi praticado anteriormente à Lei 13.644, de 2018, o aumento foi de 1/3 pelo emprego de arma de fogo. Atualmente tal aumento é de 2/3, conforme o inciso I do § 2º-A do art. 157 do Código Penal, o que demonstra que, no atual cenário, o crime praticado pelo impetrante/paciente o sujeitaria a pena mais grave.
+O aumento em face do concurso formal também se deu no patamar mínimo previsto no art. 70 do Código Penal.
+Ante o exposto, a Defensoria Pública da União entende que não há constrangimento ilegal visível na dosimetria da pena aplicada ao impetrante paciente por crime de roubo duplamente majorado, porque tem todas as fases foi dosada no mínimo legal." (fl. 21)
+Nesse contexto, como destacado pelo MPF, "no caso concreto, não se verifica manifesta ilegalidade na fixação da dosimetria da pena, sendo possível se afastar de plano a tese de constrangimento ilegal trazida pelo impetrante e, frise-se, não endossada pela Defensoria Pública da União. Com efeito, a pena-base foi fixada no mínimo legal estabelecida para o crime de roubo, ou seja, 4 anos. Na segunda fase, a incidência da atenuante relativa à menoridade relativa do réu não pôde ser aplicada, em razão da fixação da pena-base no mínimo legal e em obediência à Súmula 231/STJ, segundo a qual "A incidência da circunstância atenuante não pode conduzir à redução da pena abaixo do mínimo legal". As majorantes relativas ao emprego de arma de fogo e do concurso de agentes, cujo intervalo de aumento é de um terço até metade, foram impostas na fração mínima. Por fim, devido ao concurso formal entre os crimes, por terem sido atingidos dois patrimônios distintos, a exasperação da pena ocorreu também no patamar mínimo de 1/6 estabelecido no art. 70 do Código Penal." (fl. 44)
+Como se observa, inexiste cabal demonstração de ilegalidade ou irrazoabilidade, tendo a pena sido legitimamente fixada em suas fases, sem excesso, razão pela qual deve ser prestigiada a interpretação do Tribunal de origem, não sendo demais salientar que no habeas corpus a defesa apenas reitera argumentos já rejeitados nas instâncias ordinárias.
+Ausente, portanto, qualquer constrangimento ilegal que justifique a concessão da ordem, de ofício.
+Ante o exposto, nos termos do art. 34, XX, do Regimento Interno do Superior Tribunal de Justiça, não conheço do presente habeas corpus.
+Publique-se.
+Intimem-se.
+EMENTA
