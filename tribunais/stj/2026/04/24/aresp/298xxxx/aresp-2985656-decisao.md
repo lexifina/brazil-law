@@ -1,0 +1,50 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por JAILSON DOS SANTOS PEREIRA contra decisão do Tribunal de origem que inadmitiu o recurso especial por entender que a pretensão demandaria reexame de provas, providência vedada pela Súmula n. 7 do STJ.
+Nas razões do agravo, a defesa argumenta que o recurso especial deveria ter sido admitido, uma vez que busca discutir apenas a valoração da prova, não rediscutir os fatos e provas dos autos (fls. 231-240).
+A parte recorrente aborda, ainda, aspectos relacionados ao mérito da causa e reitera questões deduzidas no recurso especial, pois, a partir das provas dos autos, não há justa causa para o recebimento da denúncia pela prática descrita no art. 12 da Lei 10.826/2003, de modo que contrariado o art. 395, III, do CPP. Preenche os requisitos necessários ao oferecimento de ANPP pelo Ministério Público.
+Requer o provimento do recurso, com a consequente repercussão jurídica.
+Impugnação apresentada.
+Parecer do Ministério Público Federal opinando pelo não conhecimento do agravo em recurso especial, nos termos da seguinte ementa (fl. 272):
+AGRAVO EM RECURSO ESPECIAL. POSSE DE ARMA DE FOGO DE USO PERMITIDO (ART. 12 DA LEI 10.826/03). DENÚNCIA RECEBIDA PELO TRIBUNAL DE ORIGEM. ALEGAÇÃO DE AUSÊNCIA DE JUSTA CAUSA. NECESSIDADE DE REVOLVIMENTO DE MATÉRIA FÁTICO-PROBATÓRIA. INCIDÊNCIA DA SÚMULA N. 7 DO SUPERIOR TRIBUNAL DE JUSTIÇA. PARECER PELO CONHECIMENTO DO AGRAVO PARA NÃO CONHECER DO RECURSO ESPECIAL.
+- Rever o entendimento do Tribunal de origem que reformou a decisão de rejeição da denúncia, por entender presente a justa causa para a ação penal, demandaria o revolvimento do acervo fático- probatório carreado aos autos, o que é vedado pela Súmula n. 7 desse Colendo Superior Tribunal de Justiça.
+- Parecer pelo conhecimento do agravo para não conhecer do recurso especial.
+É o relatório.
+A conclusão da instância de origem no sentido da inadmissibilidade do recurso deve ser mantida.
+O recurso especial tem como objetivo obter a modificação da decisão que recebeu a denúncia pela suposta prática do delito previsto no art. 12 da Lei 10.826/2003, uma vez que ausente justa causa para tanto e porque faria jus ao oferecimento de acordo de não persecução penal, na forma do art. 28-A e seg. do CPP.
+A pretensão, contudo, não se resume à mera aplicação do direito aos aspectos fáticos delineados no acórdão recorrido, pois o acolhimento do recurso especial dependeria de aprofundado reexame de fatos e provas, providência vedada em sede de recurso especial.
+Com efeito, a Corte de origem fundamentou e concluiu que o não oferecimento de ANPP com base na alegada habitualidade delitiva não impede o recebimento da denúncia em desfavor do recorrente, e, preenchidos os requisitos legais, o recebimento se impôs (fl. 170):
+No particular, portanto, o Órgão Ministerial deixou de oferecer o Acordo de Não Persecução Penal em virtude de o investigado incorrer em uma das vedações no Código de Processo Penal, vislumbrando, ao caso, elementos probatórios que indicam conduta criminal habitual, eis que responde a outras três ações penais na Comarca de origem - processos nº 0500033- 47.2016.805.0004 (roubo majorado), nº 0504285-93.2016.805.0004 (porte ilegal de arma de fogo com numeração suprimida) e nº 0302185- 57.2013.805.0004 (roubo majorado). Evidente que, a despeito de ações penais em curso não possam configurar reincidência ou maus antecedentes a obstar o oferecimento do referido acordo, prevalece no Superior Tribunal de Justiça que podem ser utilizadas para avaliar a habitualidade delitiva e, se assim o for, obstarem o oferecimento do instituto despenalizador (§2º, II, do art. 28-A, do CPP).
+Alterar essa conclusão, no sentido de que preenchidos os requisitos para o ANPP, ao contrário do quanto consignado pela instância ordinária, soberana na análise fático-probatória, dependeria de reexame de fatos e provas, o que, como dito, é inviável em sede de recurso especial.
+Vejam-se, a propósito, os seguintes excertos da manifestação do Ministério Público Federal sobre o ponto, aqui acolhidos como razão de decidir (fl. 277):
+Dessarte, para desconstituir o entendimento firmado pelo Tribunal a quo, com vistas a reconhecer a inexistência de justa causa para a persecução penal, faz-se imprescindível o revolvimento do acervo fático- probatório carreado aos autos, medida que esbarra no Enunciado n. 7 da Súmula do Superior Tribunal de Justiça.
+No caso, portanto, incide a Súmula n. 7 do STJ, uma vez que "a pretensão de simples reexame de prova não enseja recurso especial".
+O papel definido pela Constituição Federal para o Superior Tribunal de Justiça na apreciação do recurso especial não é o de promover um terceiro exame da questão posta no processo, limitando-se à apreciação de questões de direito, viável apenas quando não houver questionamentos que envolvam os fatos e as provas do processo.
+Por isso, quando não puder ser utilizado com a finalidade exclusiva de garantir a uniformidade da interpretação da lei federal, analisada abstratamente, não se pode conhecer do recurso especial, que não se presta à correção de alegados erros sobre a interpretação fático-processual alcançada pelas instâncias ordinárias.
+Esse é o pacífico sentido da jurisprudência deste Superior Tribunal, como exemplificam os seguintes precedentes: AgRg no REsp n. 2.150.805/SP, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 1/7/2025, DJEN de 4/7/2025; AgRg no AREsp n. 2.828.086/MS, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 18/6/2025, DJEN de 25/6/2025; AgRg no AREsp n. 2.835.035/MG, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 17/6/2025, DJEN de 26/6/2025; AgRg no AREsp n. 2.719.789/GO, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 13/5/2025, DJEN de 20/5/2025; AgRg no AREsp n. 2.530.799/SP, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 21/5/2024, DJe de 23/5/2024; AgRg no AREsp n. 2.406.002/MS, relator Ministro Messod Azulay Neto, Quinta Turma, julgado em 3/10/2023, DJe de 11/10/2023.
+Na mesma direção, em situação semelhante ao do presente feito:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. CRIME CONTRA A ORDEM TRIBUTÁRIA. ACORDO DE NÃO PERSECUÇÃO PENAL. RECUSA DO MP. MOTIVAÇÃO IDÔNEA. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. A compreensão desta Corte Superior é de que o ANPP é um poder-dever do Ministério Público, não um direito subjetivo do réu, que deve apresentar fundamentação idônea para deixar de ofertá-lo.
+Precedentes.
+2. Na hipótese, foi constatado que o paciente não preencheu os requisitos necessários à concessão do benefício, pois existem elementos nos autos que permitem identificar a habitualidade e a reiteração delitiva. O acórdão impugnado destacou o fato de o investigado responder a outros processos criminais, por ilícitos de mesma natureza, inclusive com trânsito em julgado posterior, além daqueles analisados nestes autos (24 vezes).
+3. Dessa forma, ficou evidenciado que o acusado não faz jus ao benefício, conforme a previsão do art. 28-A, § 2º, II, do Código de Processo Penal, e a negativa de encaminhamento dos autos ao Procurador-Geral de Justiça foi devidamente justificada.
+4. Agravo regimental não provido.
+(AgRg no HC n. 878.674/SC, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 27/5/2024, DJe de 3/6/2024, grifei.)
+DIREITO PROCESSUAL PENAL. AGRAVO REGIMENTAL NO RECURSO ORDINÁRIO EM HABEAS CORPUS. ACORDO DE NÃO PERSECUÇÃO PENAL. REQUISITOS NÃO PREENCHIDOS. AGRAVO DESPROVIDO.
+I. Caso em exame
+1. Agravo regimental interposto contra decisão monocrática que negou provimento ao recurso ordinário em habeas corpus, no qual se buscava a celebração de acordo de não persecução penal (ANPP).
+2. O paciente responde a diversas ações penais e inquéritos policiais, o que foi considerado pelo Ministério Público como indicativo de habitualidade delitiva, justificando a não celebração do ANPP.
+3. A decisão agravada manteve a negativa de celebração do ANPP com base na análise do Ministério Público sobre a conduta do paciente e a ausência de preenchimento dos requisitos do art. 28-A do Código de Processo Penal.
+II. Questão em discussão
+4. A questão em discussão consiste em saber se a habitualidade delitiva do paciente, evidenciada por sua resposta a múltiplos processos e inquéritos, impede a celebração do acordo de não persecução penal, conforme os requisitos do art. 28-A do Código de Processo Penal.
+III. Razões de decidir
+5. O Ministério Público possui o poder-dever de avaliar a adequação do caso concreto para a celebração do ANPP, considerando a personalidade do agente e a habitualidade delitiva.
+6. A habitualidade delitiva do paciente, demonstrada por sua implicação em diversos processos e inquéritos, justifica a negativa do ANPP, conforme o art. 28-A, § 2º, inciso II, do Código de Processo Penal.
+7. A decisão agravada está em consonância com o entendimento jurisprudencial de que o ANPP é um instrumento de política criminal e despenalização, cabendo ao Ministério Público fundamentar a sua não proposição.
+IV. Dispositivo e tese8. Agravo desprovido.
+Tese de julgamento: "1. O Ministério Público deve avaliar a adequação do caso concreto para a celebração do ANPP, considerando a habitualidade delitiva do agente. 2. A habitualidade delitiva justifica a negativa do ANPP, conforme o art. 28-A, § 2º, inciso II, do CPP".
+Dispositivos relevantes citados: CPP, art. 28-A. Jurisprudência relevante citada: STJ, REsp 2.068.891/BA, Rel. Min. Jesuíno Rissato, Sexta Turma, julgado em 05.12.2023.
+(AgRg no RHC n. 208.626/PB, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 26/2/2025, DJEN de 7/3/2025, grifei.)
+Por fim, registro que, n  os termos do art. 932, III, do Código de Processo Civil, incumbe monocraticame nte ao relator "não conhecer de recurso inadmissível", hipótese amparada também pelo art. 253, parágrafo único, II, a, do Regimento Interno do Superior Tribunal de Justiça.
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
+ EMENTA
