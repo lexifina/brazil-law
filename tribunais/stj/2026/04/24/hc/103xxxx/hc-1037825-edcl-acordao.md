@@ -1,0 +1,27 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Sexta Turma, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Rogerio Schietti Cruz, Antonio Saldanha Palheiro, Carlos Pires Brandão e Og Fernandes votaram com o Sr. Ministro Relator.
+EMENTA
+EMBARGOS DE DECLARAÇÃO EM AGRAVO REGIMENTAL EM HABEAS CORPUS. ART. 619 DO CÓDIGO DE PROCESSO PENAL. REDISCUSSÃO DO MÉRITO. IMPOSSIBILIDADE.
+1. Os embargos de declaração, na forma do art. 619 do Código de Processo Penal, e, subsidiariamente, do art. 1.022 do Código de Processo Civil (art. 3º do CPP), destinam-se à correção de ambiguidade, obscuridade, contradição, omissão ou erro material, não se prestando à rediscussão do mérito nem ao reexame de provas.
+2. A mera oposição de embargos, se rejeitados, não autoriza modificação do resultado e não impõe pronunciamento específico além dos limites do art. 619 do Código de Processo Penal.
+3. Embargos de declaração rejeitados.
+RELATÓRIO
+Trata-se de embargos de declaração opostos por CARLOS AUGUSTO DE ARAUJO SCHILLER ao acórdão de fls. 159/164 que negou provimento ao agravo regimental, em sessão virtual, mantendo a impossibilidade de desclassificação do tráfico, o afastamento do tráfico privilegiado por dedicação a atividades criminosas e a exasperação da pena-base do art. 16 da Lei n. 10.826/2003 (fls. 157/158).
+O embargante alega omissão quanto ao pedido tempestivo de destaque e retirada de pauta, com cerceamento de defesa, por violação do art. 184-D, parágrafo único, do RISTJ e do art. 5º, LV, da Constituição Federal (fls. 171/172). Sustenta omissão por negativa de vigência do art. 315, § 2º, VI, do Código de Processo Penal, por ausência de enfrentamento do distinguishing em cotejo com os julgados HC n. 820.794/PE e HC n. 726.399/SP (fls. 172/173).
+Aponta omissão e obscuridade quanto à contemporaneidade exigida pelo Tema 1.139/STJ e alegado bis in idem na negativa do § 4º do art. 33 da Lei n. 11.343/2006, por utilizar diálogo pretérito de WhatsApp e uso de caixa magnética (fls. 173/174). Requer prequestionamento ficto e expresso das matérias indicadas (fls. 174/175).
+Ao final, requer o acolhimento dos embargos com efeitos infringentes para anular o julgamento virtual e determinar inclusão em pauta presencial/telepresencial com sustentação oral; subsidiariamente, suprir as omissões e registrar o prequestionamento (fls. 175/176).
+É o relatório.
+EMENTA
+EMBARGOS DE DECLARAÇÃO EM AGRAVO REGIMENTAL EM HABEAS CORPUS. ART. 619 DO CÓDIGO DE PROCESSO PENAL. REDISCUSSÃO DO MÉRITO. IMPOSSIBILIDADE.
+1. Os embargos de declaração, na forma do art. 619 do Código de Processo Penal, e, subsidiariamente, do art. 1.022 do Código de Processo Civil (art. 3º do CPP), destinam-se à correção de ambiguidade, obscuridade, contradição, omissão ou erro material, não se prestando à rediscussão do mérito nem ao reexame de provas.
+2. A mera oposição de embargos, se rejeitados, não autoriza modificação do resultado e não impõe pronunciamento específico além dos limites do art. 619 do Código de Processo Penal.
+3. Embargos de declaração rejeitados.
+VOTO
+Os embargos de declaração, na forma do art. 619 do Código de Processo Penal, e, subsidiariamente, do art. 1.022 do Código de Processo Civil (art. 3º do CPP), destinam-se à correção de ambiguidade, obscuridade, contradição, omissão ou erro material, não se prestando à rediscussão do mérito nem ao reexame de provas.
+A alegação de omissão procedimental por ausência de enfrentamento do pedido de destaque e retirada de pauta não revela vício interno do acórdão embargado. O ato colegiado limitou-se a apreciar o agravo regimental e a decidir o mérito em sessão virtual. A pretensão de anulação do julgamento por suposto cerceamento de defesa demanda via adequada e não se confunde com omissão, contradição, obscuridade ou ambiguidade do conteúdo decisório.
+Quanto à apontada negativa de vigência do art. 315, § 2º, VI, do Código de Processo Penal, o acórdão enfrentou de forma suficiente a tese central do agravo regimental. Reconheceu a existência de conjunto probatório indicativo da destinação mercantil dos entorpecentes, a manutenção do afastamento do tráfico privilegiado por dedicação a atividade criminosa e a idoneidade da exasperação da pena-base com fundamento nas circunstâncias do crime (fl. 157).
+A invocação de distinguishing com precedentes específicos não caracteriza omissão quando o colegiado firma premissas próprias - prova suficiente, inviabilidade de revolvimento fático-probatório e fundamentos idôneos da dosimetria - incompatíveis com a alteração pretendida. A insurgência visa revisitar o mérito.
+No tocante à contemporaneidade e ao alegado bis in idem na negativa do § 4º do art. 33 da Lei n. 11.343/2006, o acórdão assentou expressamente a dedicação criminosa, corroborada por diálogo anterior à prisão e pelo meio de transporte velado (fl. 157). Não há contradição interna. A discussão sobre a suficiência, atualidade ou valoração dos elementos probatórios transborda os limites dos embargos e configura rediscussão de mérito e reexame de provas.
+Quanto ao prequestionamento, descabe o registro expresso quando ausente vício sanável. A mera oposição de embargos, se rejeitados, não autoriza modificação do resultado e não impõe pronunciamento específico além dos limites do art. 619 do Código de Processo Penal.
+Ante o exposto, rejeito os embargos de declaração.
