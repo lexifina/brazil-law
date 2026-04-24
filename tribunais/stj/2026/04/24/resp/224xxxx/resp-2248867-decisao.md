@@ -1,0 +1,14 @@
+DECISÃO
+Trata-se de recurso especial manejado pela União (Fazenda Nacional), com fundamento no art. 105, III, a, da Constituição Federal, contra acórdão proferido pelo Tribunal Regional Federal da 1ª Região, assim ementado (fl. 583):
+PROCESSUAL CIVIL. AÇÃO COLETIVA. AGRAVO REGIMENTAL. INDEFERIMENTO DA ARGUIÇÃO DE LITISPENDÊNCIA POR DECISÃO DO RELATOR. POSTERGAÇÃO PARA A FASE DE CUMPRIMENTO DE SENTENÇA. APELAÇÃO E EMBARGOS DE DECLARAÇÃO JÁ JULGADOS. TUMULTO PROCESSUAL. DECISÃO MANTIDA. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. Considerando que o caso é de demanda coletiva ajuizada por entidade sindical, na qual já fora proferida sentença e, nesta Corte, prolatados os acórdãos referentes ao julgamento da apelação e também de embargos de declaração opostos pelas partes, merece ser mantida a decisão que indeferiu a arguição litispendência de servidores deduzida pela União (FN), sob pena de a sua apreciação neste momento processual, causar tumulto processual e notadamente porque competirá ao Juízo de primeiro grau da fase de cumprimento de sentença a análise desse pedido, no caso de servidor já beneficiado em outro feito formular pedido de satisfação do julgado também nesta demanda.
+2. Agravo regimental a que se nega provimento.
+A parte recorrente aponta violação aos arts. 337, § 5º, 485, § 3º, 489, § 1º, IV e VI, e 1022 do CPC. Sustenta que houve negativa de prestação jurisdicional e defende a impossibilidade de postergação da análise da litispendência para a fase de cumprimento de sentença, por se tratar de matéria de ordem pública cognoscível de ofício a qualquer tempo antes do trânsito em julgado.
+Contrarrazões às fls. 609/612.
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+De início, verifica-se não ter ocorrido ofensa aos arts. 489 e 1.022 do CPC, na medida em que o Tribunal de origem dirimiu, fundamentadamente, as questões que lhe foram submetidas e apreciou integralmente a controvérsia posta nos autos, não se podendo, de acordo com a jurisprudência deste Superior Tribunal, confundir julgamento desfavorável ao interesse da parte com negativa ou ausência de prestação jurisdicional (AgInt no AREsp 1678312/PR, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 22/3/2021, DJe 13/4/2021).
+Superada a preliminar, observa-se que a Corte regional afastou a declaração imediata de litispendência por entender que a verificação individualizada dos substituídos beneficiados por outra ação coletiva causaria manifesto tumulto processual, devendo tal cotejo ser realizado pontualmente pelo juízo da execução (fls. 580/581).
+Nesse contexto, a alteração das premissas adotadas pela instância ordinária, tal como pretendida no recurso especial, demandaria o reexame de matéria fático-probatória, procedimento que, em sede especial, encontra óbice na Súmula n. 7/STJ.
+ANTE O EXPOSTO, conheço em parte do recurso especial e, na parte conhecida, nego-lhe provimento.
+Publique-se.
+EMENTA
