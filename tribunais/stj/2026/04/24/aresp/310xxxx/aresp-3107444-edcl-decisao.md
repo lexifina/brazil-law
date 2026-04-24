@@ -1,0 +1,16 @@
+DECISÃO
+DIEGO SALES BARBOSA opõe embargos de declaração à decisão de minha relatoria, em que conheci do agravo, neguei provimento ao recurso especial e, por conseguinte, mantive inalterada a condenação a ele imposta pela prática dos crimes previstos nos arts. 33 da Lei n. 11.343/2006 e 12 da Lei n. 10.826/2003.
+A defesa alega que a decisão embargada foi omissa, porque deixou de analisar a tese recursal de que "a suposta justa causa para o ingresso foi racionalizada depois da invasão domiciliar, a partir do resultado da própria diligência" (fls. 407-408).
+Afirma, ainda, que o decisum embargado "não esclarece se considerou suficiente a narrativa policial isolada, nem explica por que razão essa narrativa, desacompanhada de diligência prévia ou de circunstância objetiva independente, preencheria o padrão constitucional de "fundadas razões"" (fl. 408).
+Aduz, na sequência, que a decisão recorrida também não examinou a contaminação das provas derivadas.
+Considera, de igual forma, que há contradição interna na decisão, porque "afirma a presença de fundadas razões, mas não explicita quais seriam esses dados objetivos prévios, nem demonstra sua interioridade ao ingresso" (fl. 409).
+Requer, assim, o acolhimento dos embargos, com a atribuição de efeitos infringentes ao julgado, para que, em síntese, o réu seja absolvido.
+Decido.
+Consoante o disposto no art. 619 do Código de Processo Penal, a oposição de embargos de declaração enseja, em síntese, o aprimoramento da prestação jurisdicional, por meio da retificação do julgado que se apresenta omisso,
+ambíguo, contraditório ou com erro material. São inadmissíveis, portanto, quando, a pretexto da necessidade de esclarecimento, aprimoramento ou complemento da decisão embargada, objetivam, em essência, o rejulgamento do caso.
+Na espécie dos autos, verifico que o decisum embargado não foi omisso, tampouco contraditório, na medida em que foram concretamente demonstradas as razões pelas quais foi legítimo o ingresso dos agentes estatais no domicílio do réu, com a explicitação de que os policiais tinham fundadas razões para acreditar, com lastro em circunstâncias objetivas, no atual cometimento de crime no local, a afastar, por conseguinte, a alegação de que não fora observada a proteção constitucional assegurada ao domicílio do embargante.
+Consignou, para tanto, que o ingresso no domicílio do ora embargante não decorreu de mero subjetivismo dos policiais acerca da possível prática de tráfico de drogas no local; ao contrário, foi justificado no fato de que, ao perceber a aproximação dos agentes estatais, o réu empreendeu fuga para o interior da residência, dispensando no chão objetos identificados como entorpecentes. Segundo relatado por ambos os agentes públicos ouvidos em juízo (sob o crivo, portanto, do contraditório e da ampla defesa), "os militares, ao se aproximarem do imóvel, conseguiram visualizar, do lado de fora e através do portão entreaberto, porções de substâncias entorpecentes sobre um móvel" (fl. 316).
+Assim, o que se percebe, na verdade, é que a irresignação da embargante se resume ao seu mero inconformismo com o resultado do julgado, que lhe foi desfavorável, não havendo nenhum fundamento que justifique a oposição de embargos de declaração.
+À vista do exposto, rejeito os embargos de declaração.
+Publique-se e intimem-se.
+EMENTA
