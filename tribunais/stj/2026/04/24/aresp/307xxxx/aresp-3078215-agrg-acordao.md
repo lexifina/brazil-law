@@ -1,0 +1,30 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Sexta Turma, por unanimidade, negar provimento ao agravo regimental, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Rogerio Schietti Cruz, Antonio Saldanha Palheiro, Carlos Pires Brandão e Og Fernandes votaram com o Sr. Ministro Relator.
+EMENTA
+DIREITO PENAL E PROCESSUAL PENAL. AGRAVO REGIMENTAL EM AGRAVO EM RECURSO ESPECIAL. ASSOCIAÇÃO CRIMINOSA. RECLASSIFICAÇÃO TÍPICA. NULIDADE POR INTIMAÇÃO PESSOAL. DOSIMETRIA DA PENA. CONFISSÃO ESPONTÂNEA. DIALETICIDADE RECURSAL. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA. SÚMULA 182/STJ. DEFICIÊNCIA DE FUNDAMENTAÇÃO. SÚMULA 284/STF. IMPOSSIBILIDADE DE REEXAME PROBATÓRIO. SÚMULA 7/STJ. MANUTENÇÃO DA DECISÃO MONOCRÁTICA.
+Agravo regimental improvido.
+RELATÓRIO
+Trata-se de agravo regimental interposto por RUDNEY SILVA PEREIRA contra decisão monocrática assim ementada (fl. 3.245):
+AGRAVO EM RECURSO ESPECIAL. PENAL. PROCESSUAL PENAL. IMPUGNAÇÃO DEFICIENTE. INOBSERVÂNCIA DO COMANDO LEGAL INSERTO NOS ARTS. 932, III, DO CPC/2015, E 253, PARÁGRAFO ÚNICO, I, DO RISTJ. SÚMULA 182/STJ.
+Agravo em recurso especial não conhecido.
+Nas razões, a parte agravante alega que houve equívoco na aplicação da Súmula 182/STJ, pois o agravo em recurso especial teria impugnado de forma específica todos os fundamentos da decisão de inadmissão, com enfrentamento direto dos óbices das Súmulas 7/STJ e 284/STF.
+Argumenta que as teses veiculadas tratam de revaloração jurídica e não de reexame probatório, destacando a dosimetria da pena (arts. 59 e 65, III, d, do Código Penal), a nulidade por ausência de intimação pessoal do réu preso (art. 392, I, do Código de Processo Penal) e a tipificação do art. 288 do Código Penal.
+Sustenta que o recurso especial apresentou fundamentação vinculada, com indicação precisa dos dispositivos federais violados e exposição clara da relação entre a norma e os vícios decisórios, afastando a incidência da Súmula 284/STF; afirma, ainda, que a dialeticidade se satisfaz com o combate efetivo ao núcleo decisório, não sendo exigível compartimentação por tópicos idênticos aos da decisão agravada.
+Defende a necessidade de apreciação colegiada, por se tratar de controvérsia relevante, e afirma haver excesso de formalismo na aplicação do princípio da dialeticidade, requerendo a reconsideração da decisão monocrática ou, ao menos, o afastamento do óbice sumular com submissão do tema ao órgão colegiado.
+Postula, ao final, o conhecimento e o provimento do agravo regimental, a reconsideração da decisão monocrática e, subsidiariamente, o afastamento da Súmula 182/STJ, com o regular processamento do agravo em recurso especial e posterior análise do recurso especial.
+Pugna, assim, pela reforma da decisão agravada.
+Foi dispensada a oitiva da parte agravada.
+É o relatório.
+EMENTA
+DIREITO PENAL E PROCESSUAL PENAL. AGRAVO REGIMENTAL EM AGRAVO EM RECURSO ESPECIAL. ASSOCIAÇÃO CRIMINOSA. RECLASSIFICAÇÃO TÍPICA. NULIDADE POR INTIMAÇÃO PESSOAL. DOSIMETRIA DA PENA. CONFISSÃO ESPONTÂNEA. DIALETICIDADE RECURSAL. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA. SÚMULA 182/STJ. DEFICIÊNCIA DE FUNDAMENTAÇÃO. SÚMULA 284/STF. IMPOSSIBILIDADE DE REEXAME PROBATÓRIO. SÚMULA 7/STJ. MANUTENÇÃO DA DECISÃO MONOCRÁTICA.
+Agravo regimental improvido.
+VOTO
+A decisão agravada deve ser mantida por seus próprios fundamentos. A bem da verdade, as razões do agravo regimental não detêm o condão de infirmar os fundamentos da decisão recorrida.
+Esta Corte Superior tem reiteradamente afirmado que o agravo regimental deve trazer novos argumentos capazes de alterar o entendimento anteriormente firmado, sob pena de ser mantida a decisão vergastada por seus próprios fundamentos (AgRg no RHC n. 110.812/PR, Min. Leopoldo de Arruda Raposo, Desembargador convocado do TJ/PE, Quinta Turma, DJe 10/12/2019).
+Conforme consignado na decisão agravada, a decisão que inadmite o recurso especial na origem não é formada por capítulos autônomos, mas por um único dispositivo, razão pela qual deve ser impugnada na sua integralidade, ou seja, em todos os seus fundamentos, inclusive de forma específica, suficiente e pormenorizada, não sendo suficientes meras alegações genéricas ou relativas ao mérito da controvérsia, sob pena de incidência do óbice da Súmula 182/STJ (AgRg nos EDcl o AREsp n. 2.985.942/MA, Rel. Min. Antônio Saldanha Palheiro, DJEN 25/9/2025).
+O Tribunal de origem inadmitiu o recurso especial pelos seguintes fundamentos: 1) incidência, por analogia, da Súmula 284/STF, por deficiência de fundamentação quanto à alegada violação dos arts. 383 e 387, § 2º, do Código de Processo Penal; 2) ausência de matéria exclusivamente de direito quanto à nulidade por falta de intimação pessoal do réu preso (art. 392, I, do CPP), por demandar reexame do conjunto fático-probatório - incidência da ( Súmula 7/STJ (a pretensão de simples reexame de prova não enseja recurso especial), com apoio, entre outros, no AgInt nos EDcl no AREsp n. 2.432.788/MT; e 3) aplicação da Súmula 7/STJ quanto aos pedidos de ; absolvição do crime de associação criminosa (art. 288 do CP), à reclassificação /adequação típica (arts. 155, § 4º-B e § 4º-C, II, do CP), e à revisão da dosimetria (art. 59 do CP e reconhecimento da confissão espontânea), por demandarem revolvimento probatório, com suporte em precedentes como o REsp n. 2.113.713/PR; e o AgRg no AREsp n. 2.606.154/RN.
+Todavia, ao contrário do afirmado, a parte agravante, nas razões do agravo em recurso especial, não impugnou, de maneira específica, a íntegra da decisão de inadmissão.
+Permaneceram sem impugnação específica o fundamento de incidência da Súmula 7/STJ quanto à revisão da dosimetria da pena (art. 59 do CP) e ao reconhecimento/quantificação da atenuante da confissão espontânea (art. 65, III, d, do CP), explicitados na decisão de inadmissibilidade como matéria que exige reexame do acervo fático-probatório, sem enfrentamento específico no agravo.
+Dessa forma, não se vislumbra no agravo regimental argumentos novos, que possam infirmar os fundamentos da decisão impugnada, devendo esta ser mantida.
+Pelo exposto, nego provimento ao agravo regimental.
