@@ -1,0 +1,25 @@
+DECISÃO
+Trata-se de conflito negativo de competência, por iniciativa do Juízo da 22ª Vara Cível da Circunscrição Judiciária de Brasília/DF em face do Juízo da 10ª Vara Cível da Comarca de Aracajú/SE.
+A ação tem por objeto a liquidação de sentença coletiva proferida contra o Banco do Brasil S/A nos autos da Ação Civil Pública n. 1998.01.1.016798-9 (0027179-08.1998.8.07.0001), que trata de expurgos inflacionários, e é movida pelo Instituto Nacional dos Investidores em Caderneta de Poupança e Previdência - INCPP em favor de 19 poupadores (fls. 43-55).
+O Juízo da 10ª Vara Cível da Comarca de Aracajú/SE declinou da competência após a autora, instada pelo Juízo, ter concordado com a remessa dos autos ao foro em que proferida a ação coletiva, desmembrando-se o feito quanto aos autores não domiciliados em Aracajú/SE (fl. 15).
+Por sua vez, o Juízo da 22ª Vara Cível da Circunscrição Judiciária de Brasília/DF suscitou este conflito sob o fundamento de que o foro do domicílio do autor é competente para o processamento da liquidação de sentença coletiva, de modo que foi indevida a remessa dos autos.
+O Ministério Público Federal ofereceu parecer (fls. 63-66), opinando pelo reconhecimento da competência do Juízo da 10ª Vara Cível da Comarca de Aracajú/SE.
+Assim delimitada a questão, passo a decidir.
+Inicialmente, destaco que, no julgamento do Tema Repetitivo n. 723, a Segunda Seção do STJ fixou a seguinte tese vinculante acerca do foro competente para a liquidação da sentença referida:
+A sentença proferida pelo Juízo da 12ª Vara Cível da Circunscrição Especial Judiciária de Brasília/DF, na ação civil coletiva nº 1998.01.1.016798-9, que condenou o Banco do Brasil ao pagamento de diferenças decorrentes de expurgos inflacionários sobre cadernetas de poupança ocorridos em janeiro de 1989 (Plano Verão), é aplicável, por força da coisa julgada, indistintamente a todos os detentores de caderneta de poupança do Banco do Brasil, independentemente de sua residência ou domicílio no Distrito Federal, reconhecendo-se ao beneficiário o direito de ajuizar o cumprimento individual da sentença coletiva no Juízo de seu domicílio ou no Distrito Federal.
+Assim, tanto o Juízo do domicílio do beneficiário quanto o do local em que proferida a sentença coletiva são competentes.
+Ressalta-se, contudo, que o domicílio do beneficiário, para tal fim, não é o foro do domicílio do substituto processual (Aracajú/SE), mas sim o dos credores substituídos. Confira-se:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. AGRAVO DE INSTRUMENTO. EXPURGOS INFLACIONÁRIOS. CUMPRIMENTO DE SENTENÇA COLETIVA. COMPETÊNCIA. FORO DE DOMICÍLIO DO CONSUMIDOR OU DO LOCAL EM QUE PROFERIDA A DECISÃO NA AÇÃO COLETIVA. AGRAVO INTERNO DESPROVIDO.
+1. O entendimento prevalente nesta Corte Superior é de que a competência para a liquidação e o cumprimento de sentença coletiva poderá ser do foro em que prolatada a decisão da ação civil pública ou do domicílio dos beneficiários ou seus sucessores.
+2. Esse entendimento não legitima a promoção da liquidação do título executivo judicial coletivo em foro aleatório, sem nenhuma relação com as comarcas de domicílio dos beneficiários, ainda que se trate do foro de domicílio do substituto processual extraordinário, sob pena de afronta ao princípio do juiz natural (AgInt no REsp 1.866.563/AL, Relator Ministro MARCO AURÉLIO BELLIZZE, Terceira Turma, julgado em 5/6/2023, DJe de 9/6/2023).
+3. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 2.298.479/SE, relator Ministro Raul Araújo, Quarta Turma, julgado em 28/8/2023, DJe de 1/9/2023, grifou-se.)
+No caso dos autos, o Juízo suscitado, em cumprimento a determinação do Tribunal ao qual vinculado, intimou a entidade autora para optar pela remessa do feito ao foro do domicílio dos beneficiários ou daquele em que proferida a sentença coletiva. Por sua vez, a autora optou pela remessa ao foro em que proferida a sentença.
+Diante disso, determinou-se o desmembramento do feito com a remessa da ação à Circunscrição Judiciária de Brasília/DF, mas apenas em relação aos beneficiários que não possuem domicílio em Aracajú/SE, visto que, em relação a estes, o foro de Aracajú/SE é aleatório.
+Veja-se o teor da decisão do Juízo suscitado:
+Extrai-se da decisão proferida pelo Juízo ad quem a concessão do prazo de 5 dias para que os demandantes se manifestassem quanto ao interesse da remessa dos autos aos Juízos de seu respectivo domicílio ou ao Juízo prolator da sentença exequenda.
+A faculdade foi exercida tempestivamente, optando os liquidantes pela remessa dos autos ao Juízo da 12ª Vara Cível de Brasília/DF para o prosseguimento do feito quanto aos poupadores não domiciliados nesta Capital. (fl. 15, grifou-se)
+Assim, verifica-se que a decisão do Juízo suscitado está em conformidade com a jurisprudência do STJ, pois declinou da competência apenas em relação aos beneficiários que não possuem domicílio naquela comarca, eis que, quanto a eles, o foro é aleatório.
+Em face do exposto, conheço do conflito para declarar competente o Juízo da 22ª Vara Cível da Circunscrição Judiciária de Brasília/DF.
+Comunique-se. Intimem-se.
+EMENTA
