@@ -1,0 +1,9 @@
+DECISÃO
+DANIEL MEI ALVES DE OLIVEIRA THOMPSON opõe embargos de divergência contra acórdão proferido pela Quinta Turma desta Corte, ao argumento de que há possibilidade de concessão de habeas corpus de ofício e que há dissenso interpretativo quanto à impossibilidade de se considerar condenações anteriores abraçadas pelo período depurador de 5 anos na valoração da dosimetria.
+De início, em relação à atenuante da confissão, registro que " a  concessão de habeas corpus de ofício, no bojo de embargos de divergência, encontra óbice tanto no fato de o relator não deter autoridade para conceder ordem que, na prática, desconstituiria o resultado de acórdão proferido por outra Turma julgadora, como da Seção não possuir competência constitucional para conceder habeas corpus contra acórdão de Turma do próprio tribunal". (AgRg nos EAREsp n. 2.902.324/SP, relator Ministro Joel Ilan Paciornik, DJEN de 17/11/2025.)
+Em relação à ulização de antecedentes após o período depurador, ficou consgnado no acórdão embargado que a reincidência estaria dentro desse período, premissa que não pode ser reavaliada nesta oportunidade. No particular, destacou o decisum impugnado (fl. 479, destaquei):
+No caso concreto, além da reincidência reconhecida nos termos do art. 64, inciso I, do Código Penal (extinção da pena anterior em 14/08/2018 e a prática de novo delito em 11/03/2023, dentro do período depurador de 5 anos), o Tribunal estadual considerou a gravidade concreta das agressões praticadas contra criança  ..
+Observa-se, portanto, que o acórdão embargado está alinhado com a atual jurisprudência dominante em ambas as Turmas que compõem a Terceira Seção, a atrair a incidência da Súmula n. 168 do STJ: "Não cabem embargos de divergência quando a jurisprudência do Tribunal se firmou no mesmo sentodo do acórdão embargado".
+Ante o exposto, com fundamento no art. 266-C do RISTJ, indefiro liminarmente os embargos de divergência.
+Publique-se e intimem-se.
+EMENTA
