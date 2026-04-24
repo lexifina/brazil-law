@@ -1,0 +1,70 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido de liminar, impetrado em favor de JESSE BATISTA JAMINAWA, apontando como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DO ACRE (HC n. 002829-59.2025.8.01.0000).
+Consta que o paciente foi preso em flagrante, em 18/12/2025, com posterior conversão da custódia em preventiva (fls. 76-78), em razão da suposta prática do ilícito tipificado no art. 33, caput, da Lei n. 11.343/2006.
+A Defesa, pugnando pela revogação da prisão cautelar, impetrou habeas corpus na Corte de origem, que denegou a ordem às fls. 12-27.
+Neste writ, a parte impetrante sustenta, em suma, que a prisão preventiva não está legitimamente motivada; que não estão presentes na hipótese os requisitos legais autorizadores do cárcere cautelar; e que o paciente reúne as condições pessoais favoráveis.
+Alega que a imposição da medida extrema é desproporcional, sendo suficiente à preservação da ordem pública a fixação de cautelares alternativas.
+Alude que as decisões das instâncias anteriores ignoraram a condição peculiar do paciente, que é indígena da etnia Jaminawa.
+Requer, liminarmente e no mérito, a revogação da prisão preventiva e, subsidiariamente, a sua substituição por cautelares alternativas.
+É o relatório.
+Decido.
+Preliminarmente, ressalto que, conforme o entendimento consolidado desta Corte, as disposições contidas nos arts. 64, inciso III, e 202, do Regimento Interno do Superior Tribunal de Justiça não afastam a prerrogativa do relator de apreciar liminarmente, em habeas corpus ou recurso em habeas corpus, a pretensão que esteja em conformidade com súmula ou com a jurisprudência consolidada dos Tribunais Superiores, ou, ainda, que as contrarie, v.g. AgRg no HC n. 856.046/SP, de relatoria do Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 24/10/2023, DJe de 30/10/2023.
+Assim, passo a analisar diretamente o pedido formulado na insurgência.
+A prisão preventiva, no ordenamento jurídico brasileiro, constitui medida cautelar de natureza excepcional, cuja manutenção está condicionada à permanência dos fatos que a justificaram, e somente se legitima em situações em que a liberdade do indivíduo represente um risco concreto e atual aos bens jurídicos tutelados pelo art. 312 do Código de Processo Penal.
+Sua decretação não representa antecipação de pena nem viola o princípio da presunção de não culpabilidade, desde que a decisão judicial esteja fundamentada em elementos concretos, e não na gravidade abstrata do delito, demonstrando a efetiva necessidade da medida para o caso específico.
+Para tanto, exige-se a comprovação da existência de prova da materialidade do crime e de indícios suficientes de autoria, bem como do perigo gerado pelo estado de liberdade do imputado, que se manifesta na necessidade de garantir a ordem pública, a ordem econômica, a conveniência da instrução criminal ou a aplicação da lei penal. Trata-se, portanto, da última e mais gravosa das medidas cautelares, cuja aplicação demanda a demonstração inequívoca de que as alternativas previstas no art. 319 do CPP são insuficientes para acautelar o processo e o meio social.
+No presente caso, verifico que o Juízo de primeiro grau decretou a prisão preventiva do paciente com base nas seguintes razões de decidir (fls. 18-23; grifamos):
+ ..  No caso em exame, estão presentes os requisitos autorizadores da prisão preventiva, previstos no art. 312 do Código de Processo Penal. A materialidade delitiva e os indícios suficientes de autoria, que recai sobre os custodiado, encontram-se evidenciados no auto de prisão em flagrante, especialmente pelos depoimentos dos policiais responsáveis pela ocorrência.
+A prisão é cabível dada a necessidade de garantia da ordem pública, notadamente pela patente possibilidade de reiteração delitiva.
+Conforme Termo de Exibição e Apreensão de fls. 13, foram apreendidas substâncias entorpecentes do tipo maconha, consistentes em 86 (oitenta e seis) unidades, acondicionadas em barras e trouxinhas, com peso aproximado de 88 gramas. A forma de acondicionamento da substância, aliada às informações constantes no boletim de ocorrência e às declarações dos policiais militares, indicam, ao menos em sede de cognição sumária, que o custodiado estaria praticando a venda de entorpecentes.
+Ressalte-se, ainda, que o custodiado encontrava-se em monitoração eletrônica quando da prática do fato. Consta que, nos autos nº 0705530-46.2025.8.01.0912, foi preso anteriormente pela suposta prática do crime de tráfico de drogas, ocasião em que este Juízo decretou sua prisão preventiva, posteriormente revogada por meio de habeas corpus, com imposição de medida cautelar de monitoração eletrônica.
+Contudo, passados pouco mais de três meses, voltou a se envolver em delito da mesma natureza, o que demonstra, de forma inequívoca, a insuficiência das medidas cautelares diversas da prisão.
+Tal cenário evidencia a propensão do autuado à prática delitiva e reforça o risco concreto de reiteração criminosa, de modo que sua manutenção em liberdade, neste momento, representa ameaça à ordem pública.
+Ressalte-se que o delito imputado possui pena máxima superior a 4 (quatro) anos de reclusão, preenchendo o requisito objetivo do art. 313, inciso I, do CPP.
+A imposição de medidas cautelares diversas da prisão, previstas no art. 319 do CPP, revela-se insuficiente e inadequada ao caso concreto, diante da necessidade de eficácia da tutela penal e do resguardo da ordem pública.
+Diante do exposto, com fundamento nos arts. 310, II, 312 e 313, I e II, do CPP, CONVERTO a prisão em flagrante de JESSE BATISTA JAMINAWA em PRISÃO PREVENTIVA.
+O Tribunal a quo, na mesma linha de entendimento, corroborou a necessidade da segregação processual, reiterando a legitimidade das razões de decidir exaradas no decreto prisional.
+Do exame acurado dos autos, tenho que as instâncias antecedentes se valeram de motivação idônea para justificar a decretação e a manutenção da custódia cautelar do paciente, destacando a sua importância para a preservação da ordem pública ante a gravidade concreta da conduta supostamente praticada e o fundado risco de reiteração delitiva - o paciente, em tese, foi surpreendido na posse de 88 gramas de maconha acondicionadas em barras e em trouxinhas. Foi ressaltado o real perigo de recidiva criminosa pois há poucos meses já havia sido preso em flagrante (convertida em preventiva) também praticando crime da mesma espécie, tendo sido substituída o cárcere processual pelo monitoramento eletrônico.
+A análise das instâncias de origem, portanto, alinha-se ao entendimento desta Corte, que considera legítima a motivação da prisão cautelar em exame diante da alta reprovabilidade das condutas supostamente praticadas, conforme ilustram os seguintes julgados:
+ ..  como sedimentado em farta jurisprudência desta Corte Superior, maus antecedentes, reincidência, atos infracionais pretéritos ou até mesmo outras ações penais em curso justificam a imposição de segregação cautelar como forma de evitar a reiteração delitiva e, assim, garantir a ordem pública. Precedentes. (AgRg no HC n. 987.288/SP, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 6/5/2025, DJEN de 12/5/2025.)
+A jurisprudência desta Corte Superior sustenta que maus antecedentes, reincidência e outras ações penais em curso justificam a imposição de segregação cautelar para evitar a reiteração delitiva e garantir a ordem pública. (AgRg no HC n. 992.789/SP, relator Ministro Messod Azulay Neto, Quinta Turma, julgado em 22/4/2025, DJEN de 30/4/2025; grifamos).
+DIREITO PROCESSUAL PENAL. AGRAVO REGIMENTAL EM HABEAS CORPUS. TRÁFICO DE DROGAS. PRISÃO PREVENTIVA. FUNDAMENTOS. REITERAÇÃO DELITIVA. DESCUMPRIMENTO DE MEDIDAS CAUTELARES. AGRAVO NÃO PROVIDO.
+I. Caso em exame
+1. Agravo regimental interposto contra decisão que denegou habeas corpus, mantendo a prisão preventiva do agravante, acusado de tráfico de drogas.
+2. O agravante foi preso em flagrante em 22 de outubro de 2024, sob acusação de tráfico de drogas, e a prisão preventiva foi decretada devido à reiteração delitiva, descumprimento de medidas cautelares anteriores e atuação em concurso de pessoas, além da quantidade e variedade de substâncias entorpecentes.
+3. A defesa alega ilegalidade da prisão preventiva por falta de demonstração de risco concreto à ordem pública, excesso de prazo na formação da culpa e possibilidade de aplicação de medidas cautelares alternativas.
+II. Questão em discussão
+4. A questão em discussão consiste em saber se a prisão preventiva do agravante é justificada pela reiteração delitiva e descumprimento de medidas cautelares, bem como se há excesso de prazo na formação da culpa.
+5. Outra questão em discussão é se a variedade e quantidade de droga apreendida, bem como a atuação em concurso de pessoas são suficientes para caracterizar a periculosidade do agravante e justificar a manutenção da prisão preventiva.
+III. Razões de decidir
+6. A prisão preventiva foi mantida devido à reiteração delitiva do agravante, que descumpriu as diretrizes da liberdade provisória anteriormente concedida, justificando a necessidade de segregação cautelar.
+ ..
+8. A quantidade de droga apreendida, a forma de armazenamento e a atuação em concurso de pessoas indicam indícios suficientes da prática do crime de tráfico e da periculosidade do agente, justificando a manutenção da prisão preventiva.
+IV. AGRAVO NÃO PROVIDO. (AgRg no HC n. 1.010.346/RS, relator Ministro Carlos Cini Marchionatti (Desembargador Convocado TJRS), Quinta Turma, julgado em 3/9/2025, DJEN de 9/9/2025; grifamos).
+DIREITO PROCESSUAL PENAL. AGRAVO REGIMENTAL. PRISÃO PREVENTIVA. REITERAÇÃO DELITIVA. RECURSO DESPROVIDO.
+I. Caso em exame
+1. Agravo regimental interposto contra decisão monocrática que não conheceu do habeas corpus impetrado contra acórdão do Tribunal de Justiça do Estado de São Paulo, que manteve a prisão preventiva de acusado preso em flagrante por tráfico de drogas.
+2. A prisão preventiva foi decretada em razão da reiteração delitiva, pois o acusado foi preso em flagrante por tráfico de drogas no mesmo local, dez dias após ter sido beneficiado com liberdade provisória.
+II. Questão em discussão
+3. A questão em discussão consiste em saber se a prisão preventiva do acusado é justificada pela reiteração delitiva e pelo descumprimento de medidas cautelares anteriores, mesmo diante da alegação de quantidade ínfima de drogas apreendidas e ausência de violência ou grave ameaça.
+III. Razões de decidir
+4. A decisão de manter a prisão preventiva está fundamentada na necessidade de garantir a ordem pública, em razão do risco concreto de reiteração delitiva, evidenciado pela reincidência do acusado em curto espaço de tempo.
+5. A jurisprudência do STJ considera que a presença de condições pessoais favoráveis, como primariedade e residência fixa, não impede a decretação da prisão preventiva quando há risco de reiteração delitiva.
+6. A quantidade de droga apreendida, embora pequena, não é suficiente para afastar a necessidade da prisão preventiva, considerando o histórico de reincidência do acusado.
+IV. Dispositivo e tese
+7. Recurso desprovido.
+Tese de julgamento: "1. A prisão preventiva é justificada pela reiteração delitiva e descumprimento de medidas cautelares anteriores. 2. A quantidade de droga apreendida não afasta a necessidade de prisão preventiva quando há risco concreto de reiteração delitiva. 3. Condições pessoais favoráveis não impedem a prisão preventiva se presentes os requisitos legais."
+ ..  (AgRg no HC n. 990.359/SP, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 20/8/2025, DJEN de 25/8/2025; grifamos).
+Considerando que a necessidade da prisão preventiva foi concretamente demonstrada nos termos dos arts. 312 e 313, ambos do Código de Processo Penal, não se mostra suficiente a aplicação de medidas cautelares mais brandas.
+Ademais, na linha do entendimento consolidado da Sexta Turma deste Superior Tribunal, a existência de condições pessoais favoráveis não tem o condão de, isoladamente, afastar a custódia cautelar, se presentes os pressupostos que a autorizam, como ocorre no presente caso, em que a necessidade da medida foi concretamente demonstrada (AgRg no HC n. 1.005.547/MG, relator Ministro Og Fernandes, Sexta Turma, julgado em 27/8/2025, DJEN de 1/9/2025; RHC n. 210.607/SP, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 11/6/2025, DJEN de 23/6/2025).
+Não é possível afirmar que a medida excepcional seja desproporcional em relação à eventual condenação que o custodiado possa vir a sofrer ao final do processo, uma vez que, na via do habeas corpus e no respectivo recurso ordinário, mostra-se incabível determinar a quantidade de pena que poderá ser aplicada na ação penal, tampouco se o cumprimento da reprimenda dar-se-á em regime diverso do fechado, v.g. AgRg no HC n. 1.006.629/SP, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 13/8/2025, DJEN de 18/8/2025.
+Por fim, sob pena de incorrer em indevida supressão de instância, esta Corte não pode conhecer da tese que defende uma condição peculiar do paciente por ser indígena da etnia Jaminawa pois esse tema não foi debatido no Tribunal estadual.
+A propósito:
+PENAL E PROCESSUAL PENAL. AGRAVO REGIMENTAL NO RECURSO EM HABEAS CORPUS. HOMICÍDIO DUPLAMENTE QUALIFICADO. POSSE DE ARMA COM NUMERAÇÃO SUPRIMIDA. PRISÃO PREVENTIVA. SENTENÇA DE PRONÚNCIA. DESNECESSÁRIA FUNDAMENTAÇÃO EXAUSTIVA. MODUS OPERANDI. REITERAÇÃO DELITIVA. FUGA. CONTEMPORANEIDADE. SUPRESSÃO DE INSTÂNCIA. AGRAVO
+REGIMENTAL IMPROVIDO.
+ ..
+3. Quanto à alegação de ausência de fatos novos e de contemporaneidade, a questão não foi apreciada pela Corte de origem, o que inviabiliza o exame da matéria pelo Superior Tribunal de Justiça, sob pena de indevida supressão de instância.
+4. Agravo regimental improvido. (AgRg no RHC n. 217.368/MG, relator Ministro Og Fernandes, Sexta Turma, julgado em 27/8/2025, DJEN de 1/9/2025; grifamos).
+Ante o exposto, conheço parcialmente da impetração e, nessa extensão, denego a ordem de habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
