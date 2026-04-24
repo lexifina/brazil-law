@@ -1,0 +1,42 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido de liminar, impetrado em favor de MATHEUS PEREIRA RAMOS, apontando como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, em decorrência do julgamento da apelação criminal n. 1520487-72.2024.8.26.0228.
+Consta nos autos que o paciente foi inicialmente condenado pelo Juízo da 14ª Vara Criminal do Foro Central da Barra Funda, Comarca de São Paulo, à pena de 10 (dez) anos, 9 (nove) meses e 10 (dez) dias de reclusão, em regime inicial fechado, além de 28 (vinte e oito) dias-multa, por infrações aos artigos 157, § 2º, inciso II, e § 2º-A, inciso I, por duas vezes, na forma do artigo 70, todos do Código Penal, e 16, § 1º, inciso IV, da Lei n. 10.826/2003, em concurso material (fls. 189-193).
+A defesa apelou ao Tribunal de Justiça do Estado de São Paulo, que negou provimento ao recurso.
+Houve o trânsito em julgado (fl. 4).
+Na presente impetração, busca-se a concessão da ordem para: (i) anular o reconhecimento e absolver o paciente por ausência de prova independente de autoria; (ii) reconhecer crime único quanto ao roubo; (iii) aplicar o princípio da consunção entre o roubo e o porte ilegal de arma de fogo; (iv) redimensionar a pena, com aplicação das atenuantes da menoridade relativa e da confissão, e fixar o regime semiaberto.
+É o relatório. DECIDO.
+Cinge-se a controvérsia a possível nulidade do processo por violação ao procedimento de reconhecimento previsto no art. 226 do CPP e pela alegação de existência de apenas crime único. Subsidiariamente, a defesa busca a revisão da dosimetria das penas, com as atenuantes da menoridade relativa, da confissão e da primariedade, compensando-se com as qualificadoras, além da fixação de novo regime.
+No entanto, o presente habeas corpus foi impetrado contra acórdão com trânsito em julgado. Diante disso, não devia ser conhecido, pois foi utilizado como substituto de uma revisão criminal, em uma situação na qual não se configurou a competência originária desta Corte.
+Conforme o artigo 105, inciso I, alínea "e", da Constituição Federal, compete ao Superior Tribunal de Justiça, originariamente, "as revisões criminais e as ações rescisórias de seus julgados".
+Nessa linha:
+ ..  1. Na hipótese, a condenação transitou em julgado em 31/5/2023. Dessa forma, o presente writ seria sucedâneo de revisão criminal, sendo esta Corte incompetente para o processamento do pleito revisional.
+ ..  3. Agravo regimental desprovido. (AgRg no HC n. 861.867/SC, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 2/9/2024, DJe de 6/9/2024.)
+De todo modo, não verifiquei a presença de teratologia ou coação ilegal que desafie a concessão da ordem, nos termos do § 2º do artigo 654 do Código de Processo Penal.
+Vejamos as considerações da origem (fls. 19-20):
+DIREITO PENAL. APELAÇÃO CRIMINAL. ROUBO MAJORADO E PORTE ILEGAL DE ARMA DE FOGO. NEGADO PROVIMENTO AO RECURSO.
+I. Caso em Exame
+O apelante foi condenado por roubo majorado e porte ilegal de arma de fogo, com penas totalizando 10 anos, 9 meses e 10 dias de reclusão, em regime inicial fechado, e 28 dias- multa. A defesa recorreu, alegando crime único de roubo e absorção do porte ilegal de arma pelo roubo.
+II. Questão em Discussão
+2. A questão em discussão consiste em: (i) determinar se é aplicável o princípio da consunção entre os crimes de roubo majorado e porte ilegal de arma de fogo, para reconhecer a absorção de um crime pelo outro; (ii) verificar a possibilidade de reconhecimento de crime único de roubo. III. Razões de Decidir
+3. O princípio da consunção não se aplica, pois as condutas são autônomas, com o porte ilegal de arma praticado em momento distinto do roubo.
+4. A jurisprudência do STJ é pacífica no sentido de que o porte ilegal de arma de fogo é punido independentemente de sua utilização para a prática de outro crime.
+5. A palavra das vítimas e a confissão do réu em audiência corroboram a autoria e materialidade dos crimes, justificando a condenação por dois crimes de roubo em concurso formal e o reconhecimento do concurso material entre os roubos e o porte ilegal de arma.
+IV. Dispositivo e Tese
+5. Negado provimento ao recurso. Tese de julgamento: 1. O princípio da consunção não se aplica quando as condutas são autônomas. 2. A palavra das vítimas tem especial relevância em crimes de roubo. 3. O concurso formal de crimes se aplica quando o roubo é praticado contra vítimas distintas em um mesmo contexto fático.  ..
+Na dosimetria, assinalou apenas que (fl. 36):
+Na segunda fase do cálculo, ausentes causas agravantes, as atenuantes da confissão e da menoridade permitiram estabelecer as penas intermediárias no patamar mínimo, com redução das penas dos delitos de roubo de 1/6 (um sexto), observada a súmula nº 231 do Superior Tribunal de Justiça.
+Com efeito, a origem consignou que a arma teria sido utilizada de forma autônoma e que teria havido um concurso formal de crimes, situação fática que não pode ser revertida neste STJ, pois é iterativa a jurisprudência do Superior Tribunal de Justiça no sentido de ser imprópria a via do habeas corpus e do seu recurso para a análise de teses de insuficiência probatória, de negativa de autoria ou que demandem a incursão ampla no caderno processual, em razão da necessidade de revolvimento fático-probatório (AgRg no HC n. 788.620/GO, Quinta Turma, de minha relatoria, DJe de 2/8/2024).
+Também é pacífico o entendimento desta Corte no sentido de que a dosimetria da pena, quando imposta com base em elementos concretos e observados os limites da discricionariedade atribuída ao magistrado sentenciante, impede a revisão da reprimenda pelo Superior Tribunal de Justiça.
+O Supremo Tribunal Federal tem entendido que "a dosimetria da pena é questão de mérito da ação penal, estando necessariamente vinculada ao conjunto fático probatório, não sendo possível às instâncias extraordinárias a análise de dados fáticos da causa para redimensionar a pena finalmente aplicada" (HC n. 137.769/SP, Primeira Turma, Rel. Min. Roberto Barroso, julgado em 24/10/2016).
+O Pretório Excelso também entende não ser possível para as instâncias superiores reexaminar o acervo probatório para a revisão da dosimetria, exceto em circunstâncias excepcionais, já que, ordinariamente, a atividade dos Tribunais Superiores, em geral, e do Supremo, em particular, deve circunscrever-se "ao controle da legalidade dos critérios utilizados, com a correção de eventuais arbitrariedades" (HC n. 128.446/PE, Segunda Turma, Rel. Min. Teori Zavascki, julgado em 15/9/2015).
+No mais, bem verdade, no acórdão de apelação, não verifico a análise dos temas invocados pela defesa.
+A questão do reconhecimento, aliás, apenas foi mencionada em relação à força da palavra da vítima, nada tendo sido analisado em termos de nulidade procedimental e de quantidade de demais provas autônomas.
+Assim, ausente manifestação do Tribunal sobre a questão de fundo também ora vindicada, incabível a análise do presente habeas corpus, porquanto está configurada a absoluta supressão de instância quanto ao ponto debatido, ficando impedida esta Corte de proceder à sua análise.
+O Superior Tribunal de Justiça entende que:
+ ..  como é de conhecimento, matéria não apreciada pelo Tribunal de origem inviabiliza a análise por esta Corte Superior, sob pena de incorrer em indevida supressão de instância e violação dos princípios do duplo grau de jurisdição e devido processo legal, mesmo em caso de suposta nulidade absoluta (AgRg no HC n. 813.772/GO, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 27/4/2023, DJe de 3/5/2023).
+Ainda nesse sentido: AgRg no HC n. 804.815/SP, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 17/4/2023, DJe de 19/4/2023; AgRg no HC n. 813.293/PB, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 25/4/2023, DJe de 28/4/2023; e AgRg nos EDcl na PET no REsp n. 1.908.093/PR, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 11/4/2023, DJe de 18/4/2023.
+Vale ressaltar, ademais, que esta Corte Superior de Justiça pacificou o entendimento de que:
+ ..  o prequestionamento das teses jurídicas constitui requisito de admissibilidade da via, inclusive em se tratando de matérias de ordem pública, sob pena de incidir em indevida supressão de instância e violação da competência constitucionalmente definida para esta Corte (AgRg nos EDcl no REsp n. 1.955.005/SC, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 17/4/2023, DJe de 24/4/2023).
+Ante o exposto, indefiro liminarmente o habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
