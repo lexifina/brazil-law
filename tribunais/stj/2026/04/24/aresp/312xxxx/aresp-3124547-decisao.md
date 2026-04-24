@@ -1,0 +1,15 @@
+DECISÃO
+Trata-se de agravo interposto por PAULO ISAMU UEHARA contra decisão da Corte de origem que não admitiu o recurso especial.
+É o relatório. Decido.
+Nos termos do que dispõem os artigos 932, III, do CPC/2015 e 253, parágrafo único, I, do RI/STJ (redação dada pela Emenda Regimental n. 22, de 2016), compete ao agravante impugnar especificamente os fundamentos da decisão que obstou o recurso especial na origem.
+Assim, além da manifestação do inconformismo, inerente ao ato de irresignação, impõe-se ao recorrente o ônus de contrapor-se, de forma clara e específica, aos fundamentos da decisão agravada, conforme determina a lei processual civil e o princípio da dialeticidade.
+No caso, a decisão de admissibilidade do Recurso Especial registrou dois fundamentos: i) inexistência de negativa de prestação jurisdicional/omissão, com apoio na orientação do STJ sobre os arts. 489 e 1.022 do CPC/2015 (fls. 672-673); ii) incidência da Súmula 7/STJ por demandar reexame do conjunto fático-probatório ("Ultrapassar tal conclusão exige o reexame dos fatos ", fl. 673).
+O agravo apenas trás o segundo fundamento (Súmula 7/STJ), sustentando tratar-se de matéria de direito e requalificação jurídica (fls. 6 77-680). Não há, nas razões do agravo, impugnação dirigida ao primeiro fundamento (ausência de omissão/arts. 489 e 1.022 do CPC/2015). Portanto, não impugna todos os fundamentos da decisão agravada, aplicando-se aqui o óbice da Súmula 182/STJ.
+Com efeito, o agravo não enfrenta a razão nuclear da decisão agravada de que, no caso concreto, a solução do mérito "decorre do fato de que a parte contribuinte não se desincumbiu do ônus de apresentar as deduções pretendidas, vez que já iniciado o procedimento fiscal e não observado o prazo contido na legislação" (fl. 673), o que vincula a conclusão ao exame das circunstâncias fáticas e das provas produzidas nos autos.
+Assim, embora articulado, o agravo não se mostra suficiente para afastar a incidência da Súmula 7/STJ no caso concreto nem para desconstituir todos os pilares da inadmissão.
+Esta Corte Superior possui entendimento pacífico segundo o qual incumbe ao agravante infirmar, especificamente, os fundamentos da decisão que não admitiu o processamento do recurso especial, o que, como visto, não ocorreu no caso, acarretando o não conhecimento do agravo. Nesse sentido: AgInt no AREsp 1.276.237/RS, Rel. Ministro Gurgel de Faria, Primeira Turma, DJe 19/12/2018; AgInt no AREsp 718.118/MT, Rel. Ministro Benedito Gonçalves, Primeira Turma, DJe 18/12/2018; AgInt no AREsp 1.345.064/SP, Rel. Ministra Regina Helena Costa, Prim eira Turma, DJe 13/12/2018.
+Ante o exposto, não conheço do agravo em recurso especial.
+Caso tenham sido fixados honorários sucumbenciais anteriormente pelas instâncias ordinárias, majoro-os em 10% (dez por cento), observados os limites e parâmetros dos §§ 2º, 3º e 11 do artigo 85 do CPC/2015.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO A TODOS OS FUNDAMENTOS DA DECISÃO AGRAVADA. ÓBICE DA SÚMULA 182/STJ. AGRAVO NÃO CONHECIDO.
