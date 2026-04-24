@@ -1,0 +1,21 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por SANDY NAGELA ANDRADE CEDRO contra decisão da Vice-Presidência do TRIBUNAL DE JUSTIÇA DO ESTADO DE MATO GROSSO que inadmitiu o recurso especial com fundamento, entre outros, na deficiência de fundamentação e na incidência da Súmula n. 7, STJ (fls. 12481-12488).
+Consta dos autos que a agravante foi condenada pela prática do crime de organização criminosa (art. 2º da Lei n. 12.850/2013), à pena de 4 (quatro) anos e 1 (um) mês de reclusão, em regime semiaberto (fls. 12565-12568) .
+Irresignada, interpôs recurso especial, com fundamento no art. 105, III, alíneas "a" e "c", da Constituição Federal, no qual alegou, em síntese: (i) nulidade das provas decorrentes de relatórios de inteligência financeira (COAF), sob o argumento de ausência de autorização judicial; (ii) violação ao art. 59 do Código Penal, em razão de suposta fundamentação genérica na valoração da culpabilidade; e (iii) ofensa ao art. 619 do Código de Processo Penal, diante de alegada omissão do acórdão recorrido (fls. 12378-12422).
+O recurso especial não foi admitido na origem, ao fundamento de que: (i) não cabe, em sede de recurso especial, a análise de matéria constitucional; (ii) houve deficiência na demonstração da divergência jurisprudencial; (iii) a alegação de violação a dispositivos legais foi genérica; e (iv) o exame das teses demandaria o reexame do conjunto fático-probatório, atraindo a incidência da Súmula n. 7, STJ (fls. 12481-12488) .
+No presente agravo, a defesa sustenta que o recurso especial preenche os requisitos de admissibilidade, reiterando a existência de divergência jurisprudencial quanto à utilização de dados do COAF sem autorização judicial, bem como a ocorrência de violação aos arts. 59 do Código Penal e 619 do Código de Processo Penal (fls. 12490-12516) .
+O Ministério Público Federal opinou pelo conhecimento do agravo para negar provimento ao recurso especial (fls. 12565-12568) .
+É o relatório. DECIDO.
+O agravo merece conhecimento, porquanto impugna os fundamentos da decisão agravada.
+Todavia, no mérito, o recurso especial não comporta provimento.
+A defesa sustenta a ilicitude dos relatórios de inteligência financeira, contudo, o Tribunal de origem concluiu pela licitude da prova, com revolvimento de fatos e provas, com fundamento na orientação firmada pelo Supremo Tribunal Federal no julgamento do RE n. 1.055.941/SP (Tema 990 da repercussão geral), segundo a qual é constitucional o compartilhamento de dados financeiros com órgãos de persecução penal, independentemente de prévia autorização judicial.
+Nesse contexto, a alteração da conclusão adotada pela Corte de origem demandaria o reexame das circunstâncias concretas em que se deu o compartilhamento dos dados, providência inviável na via do recurso especial, nos termos da Súmula n. 7, STJ.
+No tocante à alegada violação ao art. 59 do Código Penal, verifica-se que o Tribunal de origem manteve a valoração negativa da culpabilidade com base em elementos concretos, notadamente a inserção da agravante em organização criminosa de elevada estrutura e periculosidade.
+Conforme consignado no acórdão recorrido e ressaltado no parecer ministerial, a integração em facção criminosa de grande porte, com expressivo poder de atuação, constitui fundamento idôneo para a exasperação da pena-base, por revelar maior grau de reprovabilidade da conduta.
+A revisão de tal entendimento, para afastar a negativação da culpabilidade ou reduzir o quantum de aumento aplicado, demandaria o reexame do conjunto fático-probatório, o que encontra óbice na Súmula n. 7, STJ.
+A defesa sustenta a ocorrência de omissão no acórdão recorrido.
+Todavia, verifica-se que o Tribunal de origem enfrentou expressamente as questões suscitadas, assim, a pretensão recursal revela mero inconformismo com a solução adotada, não se configurando violação ao art. 619 do Código de Processo Penal.
+Ademais, verifica-se que parte das alegações recursais foi apresentada de forma genérica, sem a devida demonstração de como o acórdão recorrido teria violado os dispositivos legais indicados, circunstância que atrai, por analogia, a incidência da Súmula n. 284, STF.
+Ante o exposto, conheço do agravo em recurso especial para negar provimento ao recurso especial.
+Publique-se. Intimem-se.
+EMENTA
