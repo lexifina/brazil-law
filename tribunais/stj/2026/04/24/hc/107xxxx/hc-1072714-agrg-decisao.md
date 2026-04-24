@@ -1,0 +1,22 @@
+DECISÃO
+Trata-se de agravo regimental interposto por GEFFERSON MATHEUS ALVES DE SOUZA, em face da decisão que indeferiu liminarmente o habeas corpus, ao fundamento de incidência da Súmula 691 do Supremo Tribunal Federal, por não ter sido apreciado o mérito da impetração na instância de origem.
+Em suas razões recursais, alega que a hipótese dos autos não se amolda à vedação sumular, porquanto evidenciada flagrante ilegalidade apta a autorizar o afastamento do óbice. Sustenta que a prisão preventiva foi decretada de ofício na audiência de custódia, em desconformidade com o art. 311 do Código de Processo Penal, com redação dada pela Lei n. 13.964/2019, bem como em descompasso com a manifestação do Ministério Público, que opinou pela concessão da liberdade provisória mediante aplicação de medidas cautelares diversas.
+Aduz, ainda, que a decisão que converteu o flagrante em preventiva carece de fundamentação concreta, porquanto se limitou a invocar genericamente a garantia da ordem pública, sem a demonstração de elementos idôneos a evidenciar o periculum libertatis. Afirma que a medida extrema viola o sistema acusatório, compromete a imparcialidade do julgador e afronta a Súmula 676 desta Corte.
+Defende que a jurisprudência admite a superação da Súmula 691 do Supremo Tribunal Federal em hipóteses excepcionais de flagrante ilegalidade, teratologia ou abuso de poder, circunstâncias que, segundo sustenta, estariam presentes no caso concreto. Requer, assim, a reconsideração da decisão agravada ou o provimento do recurso para que seja afastado o óbice sumular, com o consequente conhecimento do habeas corpus e concessão da ordem, a fim de revogar a prisão preventiva, ainda que mediante a aplicação de medidas cautelares diversas.
+É o relatório, decido.
+Consoante informações colhidas do site do Tribunal de Justiça do Estado de Goiás, o mérito do HC n. 5106818-06 (5106818-06.2026.8.09.0113 ) foi julgado em 19/2/2026, inclusive já foi certificado o trânsito em julgado do acórdão em 10/3/2026, contexto informativo que esvazia o interesse de julgamento do mérito do presente recurso.
+Nesse sentido:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO PENAL. IMPUGNAÇÃO DEFENSIVA. PEDIDO INICIAL CONTRA DECISÃO LIMINAR DE ORIGEM. HABEAS CORPUS INDEFERIDO LIMINARMENTE. SÚMULA 691 DO STF. SUPERVENIÊNCIA DE JULGAMENTO DO MÉRITO PELA CORTE DE ORIGEM. PERDA DE OBJETO RECURSO PREJUDICADO.
+1- 1. Sendo a impetração dirigida contra decisão da Desembargadora que indefere liminar em habeas corpus sob sua relatoria, com a superveniente denegação do writ pelo Tribunal a quo, esvazia-se o objeto do pedido formulado nesta instância superior. Precedentes do STJ. 2. Por outro lado, o acórdão superveniente prolatado pelo Tribunal a quo foi objeto de impugnação em outro writ, mais amplo.
+3. Habeas corpus julgado prejudicado. (HC n. 34.415/RJ, relatora Ministra Laurita Vaz, Quinta Turma, julgado em 25/5/2004, DJ de 2/8/2004, p. 461.)
+2- Com efeito, a defesa formulou pedido inicial contra decisão liminar da Corte de origem. Agora, com o julgamento superveniente de mérito pelo Tribunal, pretende a análise da questão, sendo, no entanto, inviável, por se tratar de novo objeto, com novo ato coator.
+(AgRg no HC n. 923.382/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 9/9/2024, DJe de 12/9/2024.)
+PROCESSUAL PENAL. EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO HABEAS CORPUS. SÚMULA 691 DO STF. SUPERVENIÊNCIA DO JULGAMENTO DO MÉRITO DO WRIT ORIGINÁRIO. PERDA DO OBJETO DO MANDAMUS. ERRO MATERIAL CONSTATADO. EMBARGOS ACOLHIDOS EM PARTE.
+1. Os embargos de declaração, como recurso de correção, destinam-se a suprir omissão, contradição e ambiguidade ou obscuridade existente no julgado. Não se prestam, portanto, para revisão do julgado, no caso de mero inconformismo da parte.
+2. In casu, o agravo regimental encontrava-se prejudicado diante do julgamento do mérito habeas corpus originário perante a Corte de origem.
+3. "Com a superveniência do julgamento colegiado do mérito do writ na origem, fica prejudicada a impetração contra a anterior decisão do Desembargador Relator que indeferiu pedido liminar." (AgRg no HC 472.047/SP, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 5/2/2019, DJe 26/2/2019).
+4. Embargos de declaração acolhidos em parte, tão somente para corrigir o erro material no julgado.
+(EDcl no AgRg no HC n. 826.029/SP, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 5/9/2023, DJe de 12/9/2023.)
+Ante o exposto, julgo prejudicado o agravo regimental.
+Intimem-se.
+EMENTA
