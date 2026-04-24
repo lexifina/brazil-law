@@ -1,0 +1,15 @@
+DECISÃO
+IGOR FERREIRA alega ser vítima de coação ilegal em decorrência de acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo na Apelação Criminal n. 1519212-79.2020.8.26.0050.
+Consta dos autos que o paciente foi condenado à pena de 11 anos, 1 mês e 10 dias de reclusão, em regime inicial fechado, mais multa, pela prática do crime previsto no art. 157, §§ 2º, II e 2º-A, I, do Código Penal.
+A defesa aduz, em síntese, que a condenação se haveria baseado em procedimento de reconhecimento de pessoa realizado à revelia das formalidades estabelecidas no art. 226 do CPP e que não há provas independentes e robustas, aptas a subsidiar o decreto condenatório.
+Assim, requer a absolvição do acusado ou, subsidiariamente, a anulação do reconhecimento de pessoa - e das provas derivadas do ato nulo - e, por conseguinte, a realização de novo julgamento.
+Indeferida a liminar (fls. 69-70), o Ministério Público Federal apresentou parecer pelo não conhecimento do writ ou, se conhecido, pela denegação da ordem (fls. 78-83).
+Decido.
+Este habeas corpus se insurge contra acórdão de apelação publicado em 14/11/2025 e transitado em julgado no dia 2/12/2025, conforme informações disponíveis no site eletrônico do Tribunal de origem. Em 22/1/2026, a defesa impetrou este habeas corpus, de modo que o presente writ é substitutivo de revisão criminal.
+Por força do art. 105, I, "e", da Constituição Federal, a competência desta Corte para processar e julgar revisão criminal limita-se às hipóteses de seus próprios julgados. Como não existe no STJ julgamento de mérito passível de revisão em relação à condenação sofrida pelo paciente, forçoso reconhecer a incompetência deste Tribunal para o processamento do presente pedido.
+Importante destacar que esta Corte, em diversas ocasiões, reconheceu a impossibilidade de uso do habeas corpus em substituição à revisão criminal, assim se posicionando: "o trânsito em julgado do acórdão que julga a apelação criminal, sem que haja a inauguração da competência deste Sodalício, torna incognoscível o pedido de habeas corpus" (AgRg no HC n. 805.183/SP, relator Ministro Teodoro Silva Santos, Sexta Turma, julgado em 12/3/2024, DJe de 15/3/2024).
+Na mesma direção, cito, ainda, as seguintes decisões monocráticas: HC n. 905.628/SP, Rel. Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), DJe 17/4/2024; HC n. 905.340/SP, Rel. Ministra Daniela Teixeira, DJe 17/4/2024; HC n. 905.232/SP, Rel. Ministro Messod Azulay Neto, DJe 17/4/2024; HC n. 904.932/PR, Rel. Ministro Antonio Saldanha Palheiro, DJe 16/4/2024.
+Muito embora não se ignore a ampliação do uso do habeas corpus nem a importância dessa ação constitucional para a defesa da liberdade de locomoção, a crescente quantidade de impetrações, que, antes, deveriam ser examinadas em instâncias diversas, prejudica as funções constitucionais desta Corte, em detrimento da eficácia do recurso especial, o que enfraquece a delimitação de teses para trazer uniformidade e previsibilidade ao sistema jurídico.
+À vista do exposto, não conheço do habeas corpus.
+Publique-se e intimem-se.
+EMENTA
