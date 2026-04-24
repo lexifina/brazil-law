@@ -1,0 +1,51 @@
+DECISÃO
+Trata-se de embargos de declaração opostos pela UNIÃO contra decisão que deu provimento ao recurso especial interposto por CRISTIANO DA CONCEIÇÃO MEDEIROS, para fixar o termo inicial dos juros moratórios desde o evento danoso, nos termo da seguinte ementa (fl. 1910):
+PROCESSUAL CIVIL E CIVIL. DANOS MORAIS. JUROS. TERMO INICIAL DA INCIDÊNCIA. EVENTO DANOSO. ENTENDIMENTO DO TRIBUNAL DE ORIGEM CONTRÁRIO À ORIENTAÇÃO JURISPRUDENCIAL DO STJ. RECURSO ESPECIAL PROVIDO.
+Sustenta a embargante a existência de contradição no julgado, ao fundamento de que, embora tenha sido reconhecida a ausência de prequestionamento do art. 398 do Código Civil, o recurso especial foi conhecido e provido.
+Requer, assim, o acolhimento dos embargos para que seja reconhecida a incidência da Súmula n. 211/STJ e, consequentemente, o não conhecimento do recurso especial.
+Contrarrazões apresentadas às fls. pertinentes, nas quais se defende a inexistência de contradição, ao argumento de que a matéria foi efetivamente apreciada pelo Tribunal de origem, caracterizando-se o prequestionamento implícito.
+É o relatório.
+Decido.
+A controvérsia cinge-se à verificação de eventual contradição interna na decisão embargada, especialmente quanto à coexistência das seguintes premissas: (i) ausência de prequestionamento específico do art. 398 do Código Civil; (ii) conhecimento e provimento do recurso especial.
+De fato, conforme se extrai da decisão embargada, houve afirmação expressa no sentido de incidência da Súmula n. 211/STJ, ao mesmo tempo em que se deu provimento ao recurso especial.
+Tal circunstância revela contradição interna, passível de correção na via dos embargos de declaração.
+Não obstante a contradição identificada, a solução adequada não é o não conhecimento do recurso especial, mas sim o reconhecimento de que a matéria federal foi efetivamente apreciada pelo Tribunal de origem, ainda que sem menção expressa ao dispositivo legal.
+No caso concreto, o Tribunal de origem deliberou expressamente sobre o termo inicial dos juros moratórios em responsabilidade civil extracontratual, fixando-os a partir da sentença, em desacordo com a orientação desta Corte: (fls. 1866-1868; 1883):
+ ..
+Em sede de apelação, a parte autora sustenta a fixação dos juros dos danos morais desde o evento danoso, ou alternativamente, desde a citação. Com relação a essa alegação, verifica-se que a sentença merece ser mantida, uma vez que os danos morais devem ser corrigidos a partir da data em que arbitrados, ou seja, a partir da data da sentença, e acrescidos de juros de mora contados desde o evento danoso. Contudo, apesar de a sentença indicar incidência de juros de mora a partir da data da sentença, não há injustiça nesse caso, uma vez que os juros que, em tese, poderiam incidir até a sentença já estão considerados no valor fixado a título de danos morais. No mesmo sentido, a jurisprudência deste TRF-2:
+ ..
+Na presente hipótese, para verificação acerca da existência do dano e de seu respectivo nexo de causalidade com as atribuições exercidas pelo demandante, foram realizadas prova pericial e prova testemunhal. Estas deixaram claro que, conforme a sentença, o autor, diante dos sintomas apresentados, deveria ter sido imediatamente submetido ao exame eletrocardiograma, o que, como demonstrado através da prova produzida nos autos, não ocorreu. Assim, como concluiu a perícia, há nexo de causalidade entre o tratamento inidôneo prestado ao autor, e as sequelas verificadas, que culminaram na sua reforma por invalidez. Portanto, presentes todos os elementos, resta patente a responsabilidade civil da ré, já que os acontecimentos vivenciados pelo demandante configuram lesão à sua dignidade pessoal e ensejam a devida reparação moral.
+ ..
+Dessa forma, a menção a tal precedente deve ser suprimida, mantendo-se o entendimento de que os juros dos danos morais podem correr a partir da sentença, dado que os juros que, em tese, poderiam incidir até a sentença já estão considerados no valor fixado a título de danos morais.
+Nota-se, portanto, que a controvérsia jurídica envolve diretamente a interpretação do art. 398 do Código Civil, sendo desnecessária a menção expressa ao dispositivo legal.
+Art. 398. Nas obrigações provenientes de ato ilícito, considera-se o devedor em mora, desde que o praticou.
+A jurisprudência do Superior Tribunal de Justiça, por sua vez, admite o prequestionamento implícito quando a matéria jurídica é efetivamente enfrentada.
+A propósito:
+PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE REINTEGRAÇÃO DE POSSE. RESP DEVIDAMENTE CONHECIDO. NÃO INCIDÊNCIA DAS SÚMULAS 7, 211 E 518 DO STJ E 282, 283 E 284 DO STF
+(..)
+2. Configura-se o prequestionamento implícito quando o acórdão recorrido se pronuncia sobre a matéria tratada nos dispositivos legais apontados como violados (..) ainda que não haja menção explícita a eles. Não é exigido o prequestionamento numérico para que o recurso especial seja conhecido.
+(..)
+9. Agravo interno desprovido.
+(AgInt nos EDcl no AREsp 2.610.051/SP, Segunda Turma, Rel. Ministra Maria Thereza de Assis Moura, julgado em 25/2/2026, DJEN de 2/3/2026)
+Neste contexto, percebe-se que houve o presquestionamento implícito e que o entendimento do Tribunal de origem não está em conformidade com a orientação do STJ de que os juros moratórios fluem a partir do evento danoso em caso de responsabilidade extracontratual (Súmula n. 54 do STJ), e a correção monetária do valor da indenização do dano moral incide desde a data do arbitramento (Súmula n. 362 do STJ).
+Nesse sentido:
+DIREITO CIVIL. RECURSO ESPECIAL. INDENIZAÇÃO POR DANOS MORAIS, MATERIAIS E ESTÉTICOS. RESPONSABILIDADE CIVIL OBJETIVA. CERCEAMENTO DE DEFESA. CULPA CONCORRENTE. DEDUÇÃO DO SEGURO DPVAT. JUROS DE MORA E CORREÇÃO MONETÁRIA. HONORÁRIOS SUCUMBENCIAIS. RECURSO DESPROVIDO.
+1. O Tribunal de origem decidiu fundamentadamente sobre os pontos supostamente omissos, não havendo negativa de prestação jurisdicional. A recorrente não indicou efetivamente os pontos omissos, buscando o rejulgamento da matéria, o que não se admite em sede de embargos de declaração.
+2. O juiz, como destinatário da prova, pode indeferir diligências que considerar inúteis ou protelatórias. A Corte Estadual concluiu pela desnecessidade da prova oral requerida, fundamentando que o lastro probatório era suficiente para o julgamento. A alteração do entendimento do Tribunal de origem é obstaculizada pela Súmula n. 7 do STJ.
+3. A Corte Estadual afastou a existência de culpa exclusiva ou concorrente da parte autora, bem como reconheceu a ocorrência de danos morais, materiais e estéticos, com base na análise do conjunto fático-probatório. A pretensão de reexame de prova encontra óbice na Súmula n. 7 do STJ.
+4. A dedução do seguro DPVAT foi corretamente limitada aos danos materiais, conforme entendimento consolidado do STJ, que não admite dedução do seguro DPVAT da indenização por danos morais quando tal espécie de dano não está coberta pelo seguro obrigatório.
+5. Quanto ao termo inicial dos juros de mora e da correção monetária, o entendimento do STJ é de que os juros moratórios fluem a partir do evento danoso em caso de responsabilidade extracontratual (Súmula n. 54 do STJ), e a correção monetária do valor da indenização do dano moral incide desde a data do arbitramento (Súmula n. 362 do STJ).
+6. A condenação em montante inferior ao postulado na inicial não implica sucumbência recíproca, nos termos da Súmula n. 326 do STJ.
+7. Agravo conhecido e recurso especial desprovido. (AREsp nº 2.751.826/RJ, relator Ministro Raul Araújo, Quarta Turma, julgado em 03/02/2026, DJEN de 03/11/2026.
+RECURSO ESPECIAL. ADMINISTRATIVO. RESPONSABILIDADE CIVIL. ACIDENTE AÉREO. SERVIDOR PÚBLICO MORTO EM SERVIÇO. CUMULAÇÃO DE PENSÃO PREVIDENCIÁRIA COM INDENIZAÇÃO CIVIL. POSSIBILIDADE. NATUREZAS DISTINTAS. PRESCRIÇÃO. INTERRUPÇÃO POR PROTESTO JUDICIAL. PENSÃO MENSAL INDENIZATÓRIA. FIXAÇÃO EM (DOIS TERÇOS) DOS GANHOS REAIS DA VÍTIMA. DANOS 2/3 MORAIS. REVISÃO. JUROS DE MORA. SÚMULA N. 7/STJ. DISSÍDIO JURISPRUDENCIAL NÃO DEMONSTRADO. SÚMULA N. 54/STJ.
+1. O Superior Tribunal de Justiça possui entendimento pacífico no sentido de que o benefício previdenciário é diverso e independente da indenização por danos materiais ou morais que possuem origens distintas. O primeiro é assegurado pela Previdência; e a segunda, pelo direito comum. A indenização por ato ilícito é autônoma em relação a qualquer benefício previdenciário que a vítima perceba, sendo possível a cumulação de ambas as verbas.
+2. A pensão mensal indenizatória deve ser fixada em (dois terços) dos 2/3 ganhos reais da vítima, montante a ser calculado em liquidação de sentença.
+3. A interrupção da prescrição por meio do protesto judicial em relação ao evento danoso está em consonância com a jurisprudência desta Corte, aplicando-se por analogia o disposto no do Código Civil. art. 202, inciso I.
+4. A revisão do valor arbitrado a título de danos morais demanda reexame do conjunto fático-probatório dos autos, o que é vedado em sede de Recurso Especial. Aplicação da Súmula n. 7/STJ.
+5. Os juros moratórios incidem desde o evento danoso, conforme orientação consolidada na tratando-se de matéria de ordem Súmula n. 54/STJ, pública.
+6. O dissídio jurisprudencial deve ser adequadamente demonstrado, com indicação precisa dos dispositivos legais e da divergência interpretativa, sob pena de não conhecimento do recurso.
+7. Recurso Especial de Marly Célia Souza de Carvalho e outros parcialmente conhecido e, nessa parte, provido. Recurso Especial do Estado de Santa Catarina não conhecido. (REsp nº 1.511.942/SC, relator Ministro Teodoro Silva Santos, Segunda Turma, julgado em 13/8/2025, DJEN de 19/8/2025).
+Ante o exposto, ACOLHO PARCIALMENTE os embargos de declaração, sem efeitos infringentes, para sanar a contradição, reconhecendo o prequestionamento implícito do art. 398 do Código Civil e afastando a incidência da Súmula n. 211/STJ, mantido o provimento do recurso especial.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. CONTRADIÇÃO INTERNA. RECONHECIMENTO. PREQUESTIONAMENTO IMPLÍCITO. MATÉRIA EFETIVAMENTE APRECIADA PELO TRIBUNAL DE ORIGEM. INEXISTÊNCIA DE ÓBICE DA SÚMULA N. 211/STJ. EMBARGOS ACOLHIDOS, SEM EFEITOS INFRINGENTES.
