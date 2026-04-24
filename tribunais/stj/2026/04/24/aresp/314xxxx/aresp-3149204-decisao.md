@@ -1,0 +1,28 @@
+DECISÃO
+Alan Ernesto da Silva agrava de decisão que não admitiu recurso especial (e-STJ fls. 2740/2747) interposto com fundamento no art. 105, inciso III, alíneas "a" e "c" da Constituição Federal contra acórdão do Tribunal de Justiça do Estado do Paraná.
+O 1º Vice-Presidente do Tribunal de origem inadmitiu o recurso especial pelos seguintes fundamentos: i) Súmula ns. 83 e 7 do STJ (crime único); ii) Súmulas n. 7 e 83 do STJ (redutor do § 4º do art. 33 da Lei n. 11.343/2006); iii) Súmulas ns. 7 e 83 do STJ (exasperação da pena basilar); iv) Súmula n. 83 do STJ (regime prisional) e; v) prejudicialidade do exame do dissídio jurisprudencial.
+Contraminuta às e-STJ fls. 2785/2786.
+Manifestação do Ministério Público Federal às e-STJ fls. 3627/3645.
+É o relatório. Decido.
+Não merece conhecimento o agravo.
+A decisão que inadmitiu o recurso especial o fez considerando: i) Súmula n. 284 do STF; ii) Súmula n. 7 do STJ; iii) Súmula n. 83 do STJ e; iv) Súmula n. 284 do STF - não demonstração do dissídio.
+Contudo, o agravante, nas razões do presente inconformismo, não impugnou a Súmula n. 83 do STJ (crime único e regime prisional)
+Para afastar a incidência da Súmula n. 83 do STJ, é necessária a efetiva demonstração de que o julgado apontado na decisão de inadmissão do recurso especial é inaplicável ao caso ou foi superado pela jurisprudência do Superior Tribunal de Justiça, colacionando-se precedentes contemporâneos ou supervenientes, ou de que exista distinção entre a matéria versada nos autos e aquela utilizada para justificar a aplicação da referida súmula, o que não ocorreu.
+Nesse contexto, aplica-se, por analogia, o disposto no enunciado n. 182 da Súmula do STJ. Nessa linha:
+PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. NÃO IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DA DECISÃO DE ADMISSIBILIDADE. SÚMULA 182/STJ. INCIDÊNCIA. AGRAVO NÃO PROVIDO. PRESCRIÇÃO DA PRETENSÃO EXECUTÓRIA. HABEAS CORPUS CONCEDIDO DE OFÍCIO.
+1. A ausência de impugnação específica aos fundamentos da decisão de admissibilidade impede o conhecimento do respectivo agravo, nos termos do que dispõe a Súmula 182/STJ.
+ ..
+3. Agravo regimental a que se nega provimento. Concedido habeas corpus, de ofício, para declarar a prescrição da pretensão executória do agravante quanto ao crime do art. 90 da Lei n. 8.666/1993 (AgRg no Ag 1.378.279/MG, Rel. Ministro Ribeiro Dantas, Quinta Turma, DJe 27/3/2017).
+A jurisprudência do STJ é pacífica no sentido de que a decisão de inadmissibilidade do recurso especial não se subdivide em capítulos autônomos, exigindo-se impugnação integral dos fundamentos utilizados pelo Tribunal de Origem para a negativa de seguimento ao recurso especial (ut, AgInt no AREsp n. 2.695.794/SP, relatora Ministra Daniela Teixeira, Terceira Turma, DJEN de 23/4/2025).
+Constata-se, todavia, ilegalidade apta a ensejar a concessão de habeas corpus de ofício.
+No caso, o TJPR manteve o cálculo dosimétrico realizado na sentença que considerou separadamente a quantidade e natureza da droga apreendida para exasperar a pena base.
+Esta Corte, contudo, já decidiu que a natureza e a quantidade da droga apreendida devem ser valoradas conjuntamente, como vetor judicial único previsto no art. 42 da Lei nº 11.343/2006, sendo vedada a sua análise fracionada, sob pena de bis in idem (ut, AgRg no AREsp n. 2.346.858/PR, relator Ministro Carlos Pires Brandão, Sexta Turma, julgado em 11/11/2025, DJEN de 18/11/2025.)
+Ainda nessa linha:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS. NATUREZA E QUANTIDADE DE DROGAS. AUMENTO DA PENA-BASE. DESPROPORCIONALIDADE. CIRCUNSTÂNCIA JUDICIAL ÚNICA. NECESSIDADE DE ANÁLISE CONJUGADA. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. De acordo com a jurisprudência deste Superior Tribunal, "A natureza e a quantidade das drogas, previstas no art. 42 da Lei n. 11.343/06, integram vetor judicial único e devem ser avaliadas proporcional e conjuntamente, não sendo possível cindir o exame dessa circunstância especial" (REsp n. 1.976.266/SP, Rel. Ministra Laurita Vaz, 6ª T., DJe 03/11/2022). Precedentes.
+2. Não se trata de ignorar que haja diferentes graus de lesividade entre as diversas substâncias definidas como droga pela Portaria SVS/MS n. 344/1998, tampouco de negar que quantidades mais expressivas de entorpecentes tenham maior potencial de dano à saúde pública; cuida-se, apenas, de considerar que a natureza e a quantidade de drogas são características indissociáveis do mesmo objeto e, por isso, devem ser avaliadas sempre de maneira conjugada, como forma de mensurar o grau de lesividade potencial à saúde pública que a apreensão do caso concreto representa, o que melhor se coaduna, em uma interpretação sistemática, com as finalidades da Lei n. 11.343/2006.
+3. Embora a natureza da droga apreendida constitua, de fato, circunstância preponderante a ser sopesada na dosimetria da pena, a quantidade de substâncias apreendidas em poder do paciente (ora agravado) não foi excessivamente elevada, de maneira que se mostra manifestamente desproporcional sopesar, no caso ora analisado, apenas tal circunstância para justificar a exasperação da pena-base.
+4 . Agravo regimental não provido. (AgRg no HC n. 985.335/RS, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 18/6/2025, DJEN de 25/6/2025.)
+Ante o exposto, com fundamento no art. 932, inciso III, do CPC, c/c o art. 253, parágrafo único, inciso I, do RISTJ, não conheço do agravo em recurso especial. Concedo ordem de habeas corpus de ofício para determinar o retorno dos autos à origem para que refaça a dosimetria da pena com observância do entendimento acima.
+Intimem-se.
+EMENTA
