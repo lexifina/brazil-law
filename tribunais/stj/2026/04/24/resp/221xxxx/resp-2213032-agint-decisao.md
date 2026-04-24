@@ -1,0 +1,18 @@
+DECISÃO
+Trata-se de agravo interno interposto por LEONILDA DOS SANTOS SILVA contra decisão de minha lavra (fls. 252-256), que não conheceu do recurso especial com base nas Súmulas n. 211 do STJ, 282 e 284 do STF.
+Cuida-se na origem de decisão que, nos autos de cumprimento de sentença contra a Fazenda Pública, indeferiu pedido de execução de saldo complementar relativo a correção monetária decorrente do julgamento do Tema n. 810 do STF.
+Interposto agravo de instru mento, o Tribunal a quo negou-lhe provimento, à consideração de que operou-se a preclusão, pois, "quando apresentados os cálculos da execução  .. , a parte autora manifestou concordância e a execução foi extinta por sentença, portanto, não há direito à complementação" (fl. 55).
+Neste agravo interno, a parte agravante requer que sejam afastados os óbices impostos pela decisão agravada, bem como pleiteia que seja determinada "a aplicação dos Temas 810, 1170 e 1361 do STF" (fl. 278) e o prosseguimento da execução complementar.
+É o relatório. Decido.
+Nos termos dos arts. 1.021, § 2º, 2.ª parte, do CPC e 259 do RISTJ, RECONSIDERO a decisão agravada (fls. 252-256), tornando-a sem efeito.
+Sobre a questão controvertida nestes autos, a Primeira Seção desta Corte, na sessão de julgamento realizada em 14/4/2026, decidiu afetar o RESP n. 2.253.608/RS e o RESP n. 2.258.164/RS (relator Ministro Gurgel de Faria) à sistemática dos recursos repetitivos, submetendo a seguinte questão a julgamento (Tema n. 1.426):
+Definir se há possibilidade de complementação de valores no cumprimento de sentença contra a Fazenda Pública, relativos à correção monetária, a partir do entendimento firmado pelo Supremo Tribunal Federal nos Temas 810, 1.170 e 1.361.
+Na oportunidade, foi determinada a " s uspensão dos recursos especiais ou agravos em recursos especiais em segunda instância e/ou no STJ fundados em idêntica questão de direito (art. 256-L do RISTJ)".
+Convém registrar que, conforme a pacífica orientação desta Corte Superior:
+ ..  "o ato de sobrestamento e remessa dos autos à origem, para a devida observação do rito de demandas repetitivas ou entendimento a ser definido pelo STF com repercussão geral reconhecida, não possui conteúdo decisório, razão por que é irrecorrível" (AgInt nos EDcl no AgInt no REsp n. 1.849.739/SP, relator Ministro Mauro Campbell Marques, Segunda Turma, DJe de 6/12/2023).
+3. Pedido de distinção não conhecido.
+(PDist nos EDcl no AgInt no AREsp n. 2.609.044/DF, relator Ministro Teodoro Silva Santos, Segunda Turma, julgado em 21/5/2025, DJEN de 29/5/2025; sem grifos no original.)
+Ante o exposto, RECONSIDERO a decisão de fls. 252-256, JULGO PREJUDICADA a análise do recurso especial e, com fundamento no art. 34, inciso XXIV, do Regimento Interno do Superior Tribunal de Justiça, DETERMINO a imediata devolução dos autos ao Tribunal de origem, com a respectiva baixa, independentemente da publicação desta decisão ou da juntada de petição pelas partes, a fim de que, após a publicação dos acórdãos dos recursos representativos da controvérsia (Tema n. 1. 426 do STJ), sejam observadas as normas dos arts. 1.040 e 1.041 do Código de Processo Civil.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL E PREVIDENCIÁRIO. AGRAVO INTERNO NO RECURSO ESPECIAL. CUMPRIMENTO DE SENTENÇA CONTRA A FAZENDA PÚBLICA. PRETENSÃO DE COMPLEMENTAÇÃO DE VALORES COM FUNDAMENTO NOS TEMAS N. 810, 1.170 E 1.361 DO STF. AFETAÇÃO DA CONTROVÉRSIA À SISTEMÁTICA DOS RECURSOS REPETITIVOS. (TEMA N. 1.426/STJ). DETERMINAÇÃO DE SOBRESTAMENTO. RECONSIDERAÇÃO DA DECISÃO AGRAVADA. RECURSO ESPECIAL PREJUDICADO. DEVOLUÇÃO DOS AUTOS AO TRIBUNAL DE ORIGEM.
