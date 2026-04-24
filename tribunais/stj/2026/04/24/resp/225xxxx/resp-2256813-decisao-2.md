@@ -1,0 +1,38 @@
+DECISÃO
+GREGORI KAUAN DE OLIVEIRA agrava da decisão que inadmitiu seu recurso especial, interposto com fundamento no art. 105, III, "a", da Constituição Federal, contra acórdão do Tribunal de Justiça do Estado de Santa Catarina, na Apelação Criminal n. 5001495-85.2025.8.24.0062.
+Consta dos autos que o agravante foi condenado à pena de 5 anos e 10 meses de reclusão, em regime inicial fechado, mais multa, pela prática do crime de tráfico de drogas.
+A defesa aponta violação dos arts. 28 e 33, § 4º, ambos da Lei n. 11.343/2006, e do art. 33, § 2º, "c", do CP. Aduz que é necessária a desclassificação do tráfico para posse para uso pessoal, diante da ausência de elementos de mercancia, bem como que há insuficiência probatória, porquanto a condenação se apoia em depoimentos policiais não corroborados por outros elementos objetivos. Sustenta, ainda, a aplicação da causa de diminuição do tráfico privilegiado no grau máximo e a fixação do regime inicial aberto, nos termos do art. 33, § 2º, "c", do CP e da Súmula 440 do STJ.
+Requer a desclassificação para o delito do art. 28 da Lei n. 11.343/2006. De modo subsidiário, pugna pela redução da reprimenda e pela fixação de regime de cumprimento da pena diverso do fechado.
+O recurso foi inadmitido em juízo prévio de admissibilidade realizado pelo Tribunal de origem, o que motivou a interposição deste agravo (fls. 465-470).
+Às fls. 483-486, a defesa peticiona a fim de requerer, como tutela provisória, a revogação da custódia preventiva do réu.
+O Ministério Público Federal apresentou parecer pelo não provimento do recurso.
+I. Considerações iniciais
+O cerne da controvérsia cinge-se a saber se a conduta perpetrada pelo réu se amolda àquela descrita no art. 28, caput, da Lei n. 11.343/2006 - como postula a defesa - ou ao delito de tráfico de drogas (art. 33, caput, da mesma lei), conforme concluíram as instâncias ordinárias.
+Em regra, é tarefa deveras complexa avaliar o elemento subjetivo a animar a conduta de quem porta certa quantidade de drogas; daí a dificuldade de se atender a pleitos de desclassificação do tipo do art. 33 para a conduta descrita no art. 28 da Lei n. 11.343/2006.
+Ademais, não se desconhece o entendimento pacífico da jurisprudência - tanto deste Superior Tribunal quanto do Supremo Tribunal Federal - de que a pretensão de desclassificação de um delito em habeas corpus exige, em regra, o revolvimento do conjunto fático-probatório produzido nos autos, providência incabível, em princípio, na via mandamental, de cognição sumária.
+Entretanto, no caso, as evidências indicam ser consistente o direito que dá substrato ao pedido formulado pela defesa em favor do paciente, o qual foi condenado, pela prática do crime de tráfico de drogas, à reprimenda de 5 anos e 10 meses de reclusão, por haver sido flagrado trazendo consigo 58 g de cocaína e 2 g de maconha.
+Decerto que, no processo penal brasileiro, o juiz forma sua convicção "pela livre apreciação da prova" (art. 155 do CPP) - de modo a autorizá-lo a, observadas as limitações processuais e éticas que informam o sistema de justiça criminal, e ante a inexistência de hierarquia de provas, decidir a causa e todas as questões a ela relativas mediante a devida e suficiente motivação. É dizer, o processo decisório implica uma atividade objetiva, racional, epistêmica e vinculada a uma justificação judicial sobre as escolhas realizadas na tomada de decisão.
+A conduta de porte de drogas para consumo próprio está prevista no art. 28 da Lei n. 11.343/2006, in verbis:
+Art. 28. Quem adquirir, guardar, tiver em depósito, transportar ou trouxer consigo, para consumo pessoal, drogas sem autorização ou em desacordo com determinação legal ou regulamentar será submetido às seguintes penas:
+I - advertência sobre os efeitos das drogas;
+II - prestação de serviços à comunidade;
+III - medida educativa de comparecimento a programa ou curso educativo.
+O § 2º do art. 28, por sua vez, esclarece que: "Para determinar se a droga destinava-se a consumo pessoal, o juiz atenderá à natureza e à quantidade da substância apreendida, ao local e às condições em que se desenvolveu a ação, às circunstâncias sociais e pessoais, bem como à conduta e aos antecedentes do agente."
+Note-se que a Lei n. 11.343/2006 não determina parâmetros seguros de diferenciação entre as figuras do usuário e a do pequeno, médio ou grande traficante, questão essa, aliás, que já era problemática na lei anterior (n. 6.368/1976). Não por outro motivo, a prática tem evidenciado que a concepção expansiva da figura do traficante acaba levando à inclusão, nesse conceito, de cessões altruístas, de consumo compartilhado (art. 33, § 3º, da Lei n. 11.343/2006), de aquisição de drogas em conjunto para consumo próprio e, por vezes, até de administração de substâncias entorpecentes para fins medicinais.
+II. O caso dos autos
+No caso, o Juiz sentenciante, ao concluir pela caracterização da prática do delito de tráfico de drogas, assim fundamentou, no que interessa (fls. 383):
+O réu alegou que a cocaína apreendida destinava-se a seu consumo pessoal.
+A versão, no entanto, é muito pouco crível.
+Como informado pelo policial Bruno, a quantidade de cocaína apreendida é suficiente para ser fracionada em aproximadamente 116 unidade de 0,5g cada, vendidas a R$50,00 (cinquenta reais) cada uma. Ou seja, em valor de mercado, o réu possuia em depósito quase R$6.000,00 em entorpecente, quantia absolutamente desproporcional para quem diz ter renda mensal na média de R$2.000,00.
+Além disso, não é comum que usuários mantenham em depósito quantidade elevada de entorpecente.
+Contudo, sem necessidade de maior incursão probatória, não constam dos autos os mínimos elementos capazes de embasar a condenação por tráfico de drogas, haja vista que, além de a quantidade de substância entorpecente apreendida com o acusado não ter sido relevante, não há provas concretas sobre a traficância, na medida em que os policiais não presenciaram nenhum ato concreto de mercancia. Ademais, não foi encontrado nenhum apetrecho ligado à narcotraficância ou ao tráfico habitual (balança de precisão, registros de operações comerciais, aparelho celular contendo contatos de usuários ou de traficantes, ou mesmo material para embalar drogas).
+Ainda, não há nenhuma notícia sobre investigação prévia a respeito de eventual tráfico realizado pelo acusado, apenas uma denúncia anônima, assim como não foi arrolado nenhum usuário como testemunha, a fim de porventura corroborar a imputação de que o agravante estava comercializando entorpecentes.
+Não se pode, insisto, presumir a mercancia ilícita pelo simples fato de alguém portar certa quantidade de drogas; a inversão do ônus da prova no caso em exame é notória e dispensa qualquer incursão vertical nos autos, dada a evidência da equivocada ilação a que chegaram tanto o Tribunal de origem quanto o juízo de primeiro grau.
+Diante de tais considerações, assiste razão à defesa, ao afirmar que a conduta praticada pelo agravante deve ser desclassificada para aquela prevista no art. 28 da Lei n. 11.343/2006.
+III. Dispositivo
+À vista do exposto, conheço do agravo para dar provimento ao recurso especial a fim de desclassificar a conduta imputada ao recorrente para a infração descrita no art. 28, caput, da Lei n. 11.343/2006.
+Deve o Juízo da execução penal competente promover a adequação na respectiva dosimetria.
+Determino, por conseguinte, a imediata expedição de alvará de soltura em favor do acusado, se por outro motivo não estiver preso.
+Comunique-se, com urgência, o inteiro teor desta decisão às instâncias ordinárias, para as providências cabíveis.
+Publique-se e intimem-se.
+ EMENTA
