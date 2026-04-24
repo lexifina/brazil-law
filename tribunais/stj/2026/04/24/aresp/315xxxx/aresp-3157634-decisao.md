@@ -1,0 +1,22 @@
+DECISÃO
+Cuida-se de agravo em recurso especial interposto por ELPA ARMAZÉNS GERAIS LTDA. contra decisão que obstou a subida de recurso especial (fls. 1.022-1.024).
+Extrai-se dos autos que a agravante interpôs recurso especial, com fundamento no art. 105, III, a, da Constituição Federal, contra acórdão do Tribunal Regional Federal da 1ª Região cuja ementa registra (fl. 892):
+PROCESSUAL CIVIL. AGRAVO INTERNO. AGRAVO DE INSTRUMENTO. CUMPRIMENTO DE SENTENÇA. HOMOLOGAÇÃO DE VALORES EM CUMPRIMENTO DE SENTENÇA. CONCORDÂNCIA EXPRESSA DAS PARTES. ALEGAÇÃO POSTERIOR DE ERRO NOS CÁLCULOS. IMPOSSIBILIDADE. JUROS MORATÓRIOS. ANATOCISMO. SÚMULA 121 DO STF. AGRAVO INTERNO NÃO PROVIDO. 1. Agravo interno interposto contra decisão que que negou seguimento ao agravo de instrumento, com fundamento no artigo 557 do CPC/1973, por reputá-lo manifestamente improcedente. 2. Hipótese em que o agravo de instrumento cujo seguimento fora negado foi interposto contra decisão, proferida nos autos de Cumprimento de Sentença, que considerou preclusa a oportunidade da parte agravante de se insurgir contra cálculos homologados em decisão anterior, com os quais havia expressamente concordado. 3. Análise dos autos que demonstra ter a parte agravante expressamente concordado com o valor homologado pelo Juízo da execução. Evidente ocorrência da preclusão lógica do direito da parte agravante de se insurgir contra os cálculos homologados. 4. Caso concreto em que, além da inequívoca preclusão, o agravo mostra-se também improcedente pela pretensão recursal de incidência, nos cálculos exequendos, de juros de mora sobre o montante global cujo pagamento se determinou na fase de conhecimento (principal e juros), em flagrante anatocismo, por permitir o cômputo de juros sobre juros. 5. Agravo interno a que se nega provimento.
+Houve embargos de declaração, rejeitados pela Sexta Turma do TRF1 (fls. 975-981).
+No recurso especial, a agravante alega violação dos arts. 494, I, 489, § 1º, IV e VI, 502, 503, 507 e 1.022, parágrafo único, II, do CPC, do CPC, e do art. 20 da LINDB.
+Sustenta que a Corte a quo quedou-se da análise de questões necessárias ao deslinde da controvérsia, quais sejam: "a) erro de cálculo não opera a preclusão (não fundamentando as razões que afasta a ocorrência de erro de cálculo) e b) violação da coisa julgada (não afastando a importância a coisa julgada sob a matéria de suposto anatocismo)" (fl. 999).
+Aduz ainda que houve erro de cálculo da contadoria, não alcançado pela preclusão e que o acórdão recorrido modificou a coisa julgada ao redefinir a composição do valor do título.
+Foram apresentadas contrarrazões ao recurso especial (fls. 1.012-1.020).
+Sobreveio juízo de admissibilidade negativo na instância de origem (fls. 1.022-1.024), o que ensejou a interposição do presente agravo em recurso especial (fls. 1.027-1.035).
+Foi apresentada contraminuta ao agravo (fls. 1.041-1.048).
+É, no essencial, o relatório.
+A decisão agravada não merece reforma.
+Com efeito, o Tribunal de origem analisou detidamente o recurso especial interposto, devendo a decisão de admissibilidade ser mantida por seus próprios fundamentos.
+Não há falar em ofensa aos arts. 489 e 1.022 do CPC, uma vez que a lide foi solucionada em conformidade com o que foi apresentado em juízo. Assim, verifica-se que o acórdão recorrido está com fundamentação suficiente, inexistindo omissão ou contradição.
+Verifica-se que, em relação à apontada ofensa aos arts. 494, I, 502, 503 e 507 do CPC, e à divergência jurisprudencial suscitada, o recurso especial não merece prosperar porquanto encontra óbice na Súmula 7 do Superior Tribunal de Justiça.
+O Tribunal de origem, soberano na análise das provas carreadas aos autos, concluiu que não houve erro de cálculo que "a Contadoria desta Corte Regional, em duas oportunidades, ratificou in tontum os cálculos elaborados pela contadoria da primeira instâ ncia e detalhou de forma percuciente o motivo pelo qual os argumentos deduzidos pela parte agravante estão equivocados" (fl. 888).
+Ademais, alterar o decidido no acórdão impugnado, no que se refere à existência de erro de cálculo ou a violação à coisa julgada, exige o reexame de fatos e provas, o que é vedado, em recurso especial, pela Súmula n. 7 do STJ.
+Ante o exposto, nego provimento ao agravo em recurso especial.
+Deixo de majorar os honorários nos termos do art. 85, § 11, do CPC, tendo em vista que o recurso especial foi interposto nos autos de agravo de instrumento.
+Publique-se. Intimem-se.
+EMENTA
