@@ -1,0 +1,30 @@
+DECISÃO:
+Trata-se de dois recursos extraordinários com agravo interpostos por Unika Distribuidora de Medicamentos LTDA e por Patrícia Cleide Araújo de Oliveira Bezerra contra decisão de inadmissão dos recursos interpostos contra o acórdão proferido pelo Tribunal de Justiça do Estado do Ceará.
+Os recursos de foram interpostos com fundamento na alínea "a" do permissivo constitucional.
+O acórdão recorrido  ficou assim ementado:
+
+EMENTA: APELAÇÃO CÍVEL. AÇÃO DE PRODUÇÃOANTECIPADA DE PROVA. MARCO CIVIL DA INTERNET. ACESSO A COMUNICAÇÕES PESSOAIS. POSSIBILIDADE. PRODUÇÃO ANTECIPADA DE PROVAS. COMPROVAÇÃODE PLAUSIBILIDADE DO DIREITO ALEGADO. IMPOSSIBILIDADE DE JULGAMENTO DO MÉRITO DAAÇÃO. POSSIBILIDADE DO DEFERIMENTO DAPRODUÇÃO DE PROVAS. APELAÇÃO CONHECIDA EPROVIDA.
+1. O CPC/2015 sistematizou o direito autônomo à prova ou direito probatório autônomo, que deriva, em último grau, da garantia fundamental de acesso à jurisdição, assegurada pelo art. 5º, XXXV, da Constituição de 1988. A produção antecipada de provas possui rito simplificado, com prazos exíguos e limitações às manifestações das partes, que será admitida nas hipóteses previstas no artigo 381 do Código de Processo Civil
+2. A prova produzida de forma antecipada é cabível emqualquer eventual demanda, contenciosa ou de jurisdição voluntária, e em qualquer meio de prova, podendo ser documental, testemunhal, ou pericial. A prova viabiliza que o autor entenda suas chances de sucesso no meio judicial e perceba se há legitimidade para o ajuizamento da ação, assimprevenindo ações que não terão êxito.
+3. No caso concreto, verifico que as Apelantes delinearam emsua inicial elementos suficientes para justificar a necessidade de antecipação das provas requeridas, inclusive indicando especificamente sobre quais provas deve recair seu pedido.
+4. Ainda, destaco que o objetivo deste feito não é a análise do mérito do fato alegado, mas tão-somente a viabilização instrumental das medidas necessárias para que as Partes defendam seus direitos. Uma denegação genérica do pedido de produção de prova privilegiaria aquele que, cometendo ato ilícito, pratica atos pertinentes para ocultar seus mal-feitos, o que não se pode admitir.
+5. Ainda, verifico o Marco Civil de Internet, de fato, apesar de resguardar a informações pessoais e confidenciais dos indivíduos, viabiliza a quebra do sigilo de conteúdo de comunicação privada armazenada em conta de e-mail, mediante decisão judicial fundamentada.
+6. Diante do exposto, CONHEÇO do presente recurso para DAR-LHE PROVIMENTO, determinando que sejam adotadas as medidas conforme requeridas na apelação.
+7. Ressalvo que as informações disponibilizadas às Apelantes devem se restringir àquelas identificadas em conformidade com o procedimento abaixo especificado e que eventual utilização de tais informações pelas Apelantes para qualquer finalidade além do ajuizamento da respectiva ação referente à concorrência desleal pelas Apeladas ensejarão sua responsabilização.
+Opostos os embargos de declaração por ambos os recorrentes, foram acolhidos em parte, apenas para sanar erro material.
+Nos recursos extraordinários, sustenta-se violação dos arts. 5º, X, XII e 93, IX, da Constituição Federal.
+Decido.
+Verifica-se que o Plenário da Corte, em sede de repercussão geral, reafirmou a orientação de que o artigo 93, inciso IX, da Constituição não exige que o órgão judicante se manifeste sobre todos os argumentos apresentados pela defesa, mas sim que ele fundamente, ainda que sucintamente, as razões que entendeu suficientes à formação de seu convencimento (AI nº 791.292/PE-RG-QO, Tribunal Pleno, Rel. Min. Gilmar Mendes, DJe de 13.08.2010).
+Além disso, observa-se que os dispositivos apontados como violados carecem do necessário prequestionamento, sendo certo que os acórdãos proferidos pelo Tribunal de origem não cuidaram das referidas normas. Ademais, a matéria apresentada nos embargos de declaração não supre o requisito do prequestionamento quando ficar caracterizada a inovação recursal. Incidem na espécie as Súmulas 282 e 356/STF. Nesse sentido, destaca-se:
+
+“Agravo regimental no recurso extraordinário com agravo. Prequestionamento. Ausência. Incidência das Súmulas nºs 282 e 356/STF. Precedentes. 1. É inadmissível o recurso extraordinário se a matéria constitucional que nele se alega violada não está devidamente prequestionada. Incidência das Súmulas nºs 282 e 356/STF. 2. Agravo regimental não provido, com imposição de multa de 1% (um por cento) do valor atualizado da causa (art. 1.021, § 4º, do CPC). 3. Havendo prévia fixação de honorários advocatícios pelas instâncias de origem, seu valor monetário será majorado em 10% (dez por cento) em desfavor da parte recorrente, nos termos do art. 85, § 11, do Código de Processo Civil, observados os limites dos §§ 2º e 3º do referido artigo e a eventual concessão de justiça gratuita” (ARE nº 1.230.706/DF - AgR, Tribunal Pleno, Rel.  Min. Dias Toffoli, DJe de 18/12/2019).
+
+“AGRAVO INTERNO NO RECURSO EXTRAORDINÁRIO COM AGRAVO. TRABALHISTA. PRETENSÃO DE FILIAÇÃO À ENTIDADE SINDICAL PATRONAL. EXISTÊNCIA DE ESTABELECIMENTO EMPRESARIAL NA BASE TERRITORIAL DO SINDICATO. AUSÊNCIA DE PREQUESTIONAMENTO. INCIDÊNCIA DAS SÚMULAS 282 E 356 DO STF. REITERADA REJEIÇÃO DOS ARGUMENTOS EXPENDIDOS PELA PARTE NAS SEDES RECURSAIS ANTERIORES. MANIFESTO INTUITO PROTELATÓRIO. MULTA DO ARTIGO 1.021, § 4º, DO CPC/2015. AGRAVO INTERNO DESPROVIDO” (ARE nº 1.210.606/SP - AgR, Primeira Turma, Rel.  Min. Luiz Fux, DJe de 13/09/2019).
+Ante o exposto, nego seguimento aos recursos (alínea c do inciso V do art. 13 do Regimento Interno do Supremo Tribunal Federal).
+Havendo prévia fixação de honorários advocatícios pelas instâncias de origem, seu valor monetário será majorado em 10% (dez por cento) em desfavor da parte recorrente, nos termos do art. 85, § 11, do Código de Processo Civil, observado os limites dos §§ 2º e 3º do referido artigo e a eventual concessão de justiça gratuita.
+Publique-se.
+Brasília, 27 de abril de 2026.
+
+Ministro EDSON FACHIN
+Presidente
+Documento assinado digitalmente
