@@ -1,0 +1,33 @@
+DECISÃO
+Cuida-se de Agravo apresentado por SAFRAPAY INSTITUICAO DE PAGAMENTO LTDA. à decisão que não admitiu seu Recurso Especial.
+O apelo, fundamentado no artigo 105, III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAIS, assim resumido:
+APELAÇÃO CÍVEL - PROCEDIMENTO DE "CHARGEBACK" - CONTESTAÇÃO DE COMPRA - APROVAÇÃO E POSTERIOR CANCELAMENTO - ESTORNO - ENTREGA DE MERCADORIA - RESPONSABILIDADE DA SAFRAPAY - DANOS MATERIAIS CONFIGURADOS - RISCO DA ATIVIDADE CREDENCIADORA. 1. Ao realizar a autorização e aprovação das vendas através de cartão de crédito, a ré assume o risco inerente à sua atividade empresarial, incumbindo-lhe a obrigação de evitar a ocorrência de fraudes nas vendas realizadas em negócios de tal espécie. 2. A cláusula contratual que transfere integralmente o risco da atividade ao estabelecimento comercial se mostra abusiva, pois à ré compete processar o pagamento, percebendo para tanto contraprestação pelos serviços prestados, sendo descabida a atribuição deste ônus ao estabelecimento comercial contratante. 3. Os danos materiais não podem ser presumidos, devendo haver robusta comprovação, analisando-se a efetiva relação com o dano provocado pela conduta da ré.
+Quanto à controvérsia, pela alínea "a" do permissivo constitucional, a parte recorrente alega violação aos arts. 373, I, do Código de Processo Civil e 402 do Código Civil, no que concerne ao afastamento da condenação por danos materiais, em razão da ausência de demonstração do efetivo prejuízo patrimonial e do nexo causal com os fatos narrados, trazendo a seguinte argumentação:
+Nos termos do art. 373, I, do CPC, incumbe à parte autora o ônus de provar o fato constitutivo de seu direito, o que, no presente caso, inclui a demonstração cabal do efetivo prejuízo patrimonial supostamente sofrido.
+Já o art. 402 do Código Civil estabelece que as perdas e danos abrangem o que efetivamente se perdeu e o que razoavelmente se deixou de lucrar, o que implica, necessariamente, a existência de provas robustas e concretas do alegado prejuízo.
+Contudo, no presente feito, não houve qualquer documento hábil a demonstrar o suposto dano material, tampouco seu nexo de causalidade com os fatos narrados, limitando-se a parte autora a alegações genéricas e desprovidas de comprovação. (fls. 804-806).
+É o relatório.
+Decido.
+Quanto à controvérsia, o Tribunal a quo se manifestou nos seguintes termos:
+Com a inicial, TC Pneus Auto Center Ltda. anexou o doc. 07, que se refere aos comprovantes de vendas nos valores de R$3.500,00, R$3.192,00, R$3.772,00, R$ 4.000,00, R$4.000,00, R$800,00, R$2.632,00, R$800,00,
+Consta do doc. 08 que a Safrapay Instituição de Pagamento Ltda. notificou a autora no sentido de que "o portador do cartão alega não reconhecer, participar ou autorizar a transação de E- commerce/Digitada (venda sem cartão presente)", nos valores de R$2.632,00, R$3.500,00, R$4.000,00, R$4.000,00, R$3.772,00.
+Foram juntadas as notas fiscais de compras realizadas por Tiago Brener Fernandes Guimarães junto à autora.
+Posteriormente à transação, verifica-se que o portador, cliente do autor e titular do cartão, realizou a contestação das transações por desacordo comercial.
+Nesse aspecto, consta do "contrato de credenciamento e adesão de estabelecimentos ao sistema Safra Pay" firmado entre TC Pneus Auto Center Ltda. contra Safrapay Instituição de Pagamento Ltda. (f. 5 doc. 39), o seguinte:
+ ..
+De acordo com o mencionado contrato, o estabelecimento autor assume total responsabilidade pela transação quando não reconhecida:
+ ..
+Infere-se que as compras em análise, foram autorizadas pela administradora do cartão de crédito, mas, posteriormente foram objeto de cancelamento, em razão da existência de possível fraude, diante do não reconhecimento pelo titular do cartão, caracterizado o denominado "chargeback".
+Com efeito, a Safrapay Instituição de Pagamento Ltda. ao realizar a autorização e aprovação das vendas através de cartão de crédito, assume o risco inerente à sua atividade empresarial, incumbindo-lhe a obrigação de evitar a ocorrência de fraudes nas vendas realizadas em negócios de tal espécie.
+ ..
+Impende salientar que a cláusula contratual que transfere, integralmente, o risco da atividade ao estabelecimento comercial se mostra abusiva, pois à ré compete processar o pagamento, percebendo para tanto contraprestação pelos serviços prestados, sendo descabida a atribuição deste ônus ao estabelecimento comercial contratante.
+Foi contratado o sistema de pagamentos prestado pela parte ré, levando a autora a acreditar que lhe seria proporcionado um serviço seguro e eficiente. No entanto, conforme se observa dos autos, a autora suportou prejuízo decorrente da falha na segurança.
+Por isso, resta demonstrada a responsabilidade da ré em reembolsar os valores inerentes às transações efetivadas pela autora e posteriormente por ela canceladas. (fls. 766-771)
+Assim, incidem as Súmulas n. 5 e 7 do STJ, porquanto a pretensão recursal demanda reexame de cláusulas contratuais e reexame do acervo fático-probatório juntado aos autos.
+Nesse sentido: "Não cabe, em recurso especial, reexaminar matéria fático-probatória e a interpretação de cláusulas contratuais (Súmulas n. 5 e 7 do Superior Tribunal de Justiça)" (AgInt no AREsp n. 2.243.705/SP, relatora Ministra Maria Isabel Gallotti, Quarta Turma, DJe de 20/10/2023).
+Confiram-se ainda os seguintes julgados: AgInt no AREsp n. 2.446.415/SP, relator Ministro Humberto Martins, Terceira Turma, DJEN de 20/3/2025; REsp n. 2.106.567/SP, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, DJEN de 5/3/2025; AgInt no AREsp n. 2.572.293/RS, relator Ministro Benedito Gonçalves, Primeira Turma, DJEN de 13/12/2024; AgInt no AgInt no AREsp n. 2.560.748/DF, relator Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 22/11/2024; REsp n. 1.851.431/SC, relator Ministro Paulo Sérgio Domingues, Primeira Turma, DJe de 7/10/2024; REsp n. 1.954.604/MG, relator Ministro Francisco Falcão, Segunda Turma, DJe de 21/3/2024; AgInt no REsp n. 1.995.864/PB, relator Ministro Raul Araújo, Quarta Turma, DJe de 20/10/2023.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do Agravo para não conhecer do Recurso Especial.
+Nos termos do art. 85, § 11, do Código de Processo Civil, majoro os honorários de advogado em desfavor da parte recorrente em 15% sobre o valor já arbitrado nas instâncias de origem, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão de justiça gratuita.
+Publique-se.
+Intimem-se.
+ EMENTA
