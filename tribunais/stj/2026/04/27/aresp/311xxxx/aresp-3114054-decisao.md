@@ -1,0 +1,38 @@
+DECISÃO
+Trata-se de agravo interposto por DAVID DE OLIVEIRA SILVA contra decisão do TRIBUNAL DE JUSTIÇA DO ESTADO DE SANTA CATARINA, que inadmitiu o recurso especial, com fundamento na Súmula 284/STF, por entender que a parte recorrente não teria indicado com clareza os dispositivos de lei federal violados, nem demonstrado, de forma direta e particularizada, em que medida o acórdão os teria afrontado.
+O acórdão recorrido, proferido pelo TJSC, reformou parcialmente a decisão da Vara de Execuções Penais da Comarca de Joinville/SC, para reconhecer, com supedâneo no art. 6º da Resolução CNJ nº 412/2021, a interrupção do cômputo do tempo de pena cumprida na proporção de um dia para cada violação registrada no monitoramento eletrônico, em razão de descumprimento das condições impostas ao apenado em regime de prisão domiciliar.
+O juízo da execução, por sua vez, havia reconhecido a prática de falta grave, impondo as sanções previstas na Lei de Execução Penal  regressão de regime, perda de dias remidos e alteração da data-base  , mas indeferiu o pedido de interrupção do cômputo da pena, por ausência de previsão legal.
+Foram opostos embargos infringentes, os quais foram rejeitados.
+No Recurso Especial inadmitido, a defesa sustenta que a interrupção da contagem de sua pena em um dia para cada violação do monitoramento eletrônico, carece de previsão legal na Lei de Execução Penal, configurando excesso de execução e bis in idem, uma vez que o apenado já sofreu as sanções de regressão de regime, perda de dias remidos e alteração da data-base pelo mesmo fato. Amparado em votos vencidos e na jurisprudência do Superior Tribunal de Justiça, o recorrente requer o restabelecimento da decisão de primeiro grau que indeferiu a referida interrupção (fls. 67-71).
+No agravo em recurso especial, a defesa sustenta que o recurso especial não padece de deficiência de fundamentação, pois foram indicados expressamente os dispositivos violados  arts. 118, 127 e 112, § 6º, da LEP; art. 50, incisos V e VI, da LEP; e art. 1º do Código Penal  , e que a controvérsia é de natureza infraconstitucional, de competência do STJ (fls. 79-85).
+O Ministério Público Federal opinou pelo provimento do recurso (fls. 105-109).
+É o relatório. DECIDO.
+Tendo em vista os argumentos apresentados pela parte agravante para refutar os fundamentos da decisão de admissibilidade da origem, conheço do agravo e passo a examinar o recurso especial.
+A questão central reside em saber se é legítima a imposição da sanção de interrupção do cômputo do tempo de pena cumprida, na proporção de um dia para cada violação registrada de monitoramento eletrônico.
+Sobre o tema, ambas as turmas deste Tribunal Superior, especializadas em direito penal, vêm reconhecendo que não existe previsão legal nem jurisprudencial de interrupção da pena na razão de 1 (um) dia para cada registro de violação ao monitoramento eletrônico.
+Do mesmo modo, não há, na citada Resolução n. 412/2021 do Conselho Nacional de Justiça - CNJ, expressa determinação nesse sentido.
+Com efeito, ao descrever, em seu artigo 6º, que o período de submissão ao monitoramento eletrônico, com regular cumprimento das condições impostas, será considerado como tempo de cumprimento da pena, não significa que, a cada violação, o apenado deva perder 1 (um) dia de sua pena cumprida.
+A propósito:
+DIREITO PROCESSUAL PENAL HABEAS CORPUS. DESCUMPRIMENTO DAS CONDIÇÕES DO MONITORAMENTO ELETRÔNICO FALTA GRAVE. IMPOSIÇÕES DE CONSECTÁRIAS LEGAIS DECORRENTES. INTERRUPÇÃO DA PENA. NÃO CABIMENTO. HABEAS CORUS SUBSTITUTIVO DE RECURSO CABÍVEL OU REVISÃO CRIMINAL. NÃO CONHECIMENTO. ORDEM CONCEDIDA.
+ ..
+2. O Juízo das Execuções reconheceu a prática de falta grave pelo descumprimento das condições da prisão domiciliar, determinando a regressão do regime prisional e a perda de 1/4 dos dias remidos, além da interrupção do cumprimento da pena na razão de 1 dia para cada violação do monitoramento eletrônico.
+ ..
+4. A questão em discussão consiste em saber se é legal a interrupção do cumprimento da pena na razão de 1 dia para cada descumprimento das condições de monitoramento eletrônico, em face da ausência de previsão legal para tal sanção. I
+II. RAZÕES DE DECIDIR
+5. A jurisprudência do Superior Tribunal de Justiça não admite a interrupção do cumprimento da pena na razão de 1 dia para cada violação do monitoramento eletrônico, por ausência de previsão legal.
+6. O descumprimento das condições de monitoramento eletrônico configura falta grave, sujeitando o apenado às sanções previstas na Lei de Execução Penal, como regressão de regime e perda de dias remidos, mas não à interrupção da pena por cada violação.
+7. A imposição de sanção não prevista em lei é considerada ilegal, devendo ser afastada.
+IV. HABEAS CORPUS NÃO CONHECIDO. ORDEM CONCEDIDA DE OFÍCIO PARA AFASTAR A INTERRUPÇÃO DO CUMPRIMENTO DA PENA EM RELAÇÃO A CADA DIA DE VIOLAÇÃO DO MONITORAMENTO ELETRÔNICO
+(HC n. 949.766 /SC, relatora Ministra Daniela Teixeira, Quinta Turma, julgado em 3/12/2024, DJEN de 9/12/2024.)
+AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO PENAL. VIOLAÇÃO DE MONITORAMENTO ELETRÔNICO. FALTA GRAVE CONFIGURADA. INTERRUPÇÃO DE CUMPRIMENTO DE PENA. AUSÊNCIA DE PREVISÃO LEGAL. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. A violação do monitoramento eletrônico, por configurar infração disciplinar de natureza grave, ensejará a imposição dos efeitos legais do reconhecimento desta, entre os quais não há a previsão de interrupção à razão de 1 dia para cada descumprimento registrado pela Central de Monitoramento
+ ..
+(AgRg no HC n. 862.989/SC, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 4/11/2024, DJe de 7/11/2024.)
+AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO PENAL. IMPUGNAÇÃO MINISTERIAL. MONITORAMENTO ELETRÔNICO EM PRISÃO DOMICILIAR. 90 VIOLAÇÕES DA ÁREA DE INCLUSÃO. INTERRUPÇÃO DE 1 DIA DE PENA A CADA VIOLAÇÃO. IRRAZOABILIDADE. APENADO JÁ PUNIDO COM A REGRESSÃO AO REGIME FECHADO, PERDA DE 1/5 DOS DIAS REMIDOS E INTERRUPÇÃO DA DATA BASE. RECURSO IMPROVIDO.
+1- Nos termos do art. 50, V e VI, da LEP: comete falta grave: inobservar os deveres previstos nos incisos II e V, do artigo 39, desta Lei. e descumprir, no regime aberto, as condições impostas. Desse modo, significa falta grave descumprir as condições de monitoramento eletrônico na prisão domiciliar. E de acordo com o art. 146, C, parágrafo único: A violação comprovada dos deveres previstos neste artigo poderá acarretar, a critério do juiz da execução, ouvidos o Ministério Público e a defesa: I - a regressão do regime; II - a revogação da autorização de saída temporária; VI - a revogação da prisão domiciliar; VIII - advertência, por escrito, para todos os casos em que o juiz da execução decida não aplicar alguma das medidas previstas nos incisos de I a VI deste parágrafo. Assim, inexiste previsão legal de interrupção da pena na razão de 1 (um) dia para cada registro de violação ao monitoramento eletrônico
+ ..
+(AgRg no HC n. 824.067/SC, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 13/6/2023, DJe de 16/6/2023.)
+Assim, diante da ausência de previsão legal para tal sanção, deve ser afastada a interrupção do cumprimento da pena na razão de 1 dia para cada descumprimento das condições de monitoramento eletrônico.
+Ante o exposto, com fulcro no art. 253, parágrafo único, inciso II, c, do Regimento Interno do STJ, conheço do agravo para dar provimento ao recurso especial, a fim de restabelecer a decisão do Juízo da Execução Penal, que reconheceu a prática de falta grave em decorrência do descumprimento das condições do monitoramento eletrônico, mas indeferiu a interrupção do cômputo do tempo de pena cumprida, por ausência de previsão legal para tal sanção.
+Publique-se. Intimem-se.
+ EMENTA
