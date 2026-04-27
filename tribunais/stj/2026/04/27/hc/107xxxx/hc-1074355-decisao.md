@@ -1,0 +1,17 @@
+DECISÃO
+Trata-se de habeas corpus, impetrado em favor de MARCOS ANTONIO DA SILVA, apontando como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, no HC n. 3016372-02.2025.8.26.0000.
+Consta dos autos que o paciente cumpre pena em execução penal e requereu progressão de regime, tendo sido condicionada a análise do pedido à realização de exame criminológico pelo Juízo da execução. O acórdão impugnado manteve a decisão monocrática que não conheceu do habeas corpus por entender existir via recursal própria.
+A defesa alega que há constrangimento ilegal decorrente da determinação de exame criminológico sem fundamentação idônea, baseada em elementos abstratos e alheios ao histórico da execução, apesar de o paciente ter cumprido o requisito objetivo do art. 112 da Lei n. 7.210/1984 e ostentar ótimo comportamento carcerário, sem registro de faltas disciplinares.
+Argumenta, ainda, que a Lei n. 14.843/2024, ao alterar o § 1º do art. 112 da Lei de Execução Penal para tornar obrigatório o exame criminológico na progressão, configura novatio legis in pejus e, por isso, não pode retroagir a fatos anteriores, devendo ser afastada nos casos de condenações pretéritas.
+Aponta que, mesmo sob a ótica anterior à alteração legislativa, a realização do exame criminológico exige motivação concreta, conforme entendimento consolidado, sendo inidônea a mera referência à gravidade abstrata do crime ou à longa pena a cumprir. Ressalta, por fim, que a demora operacional na realização dos exames, por carência de profissionais, acarreta dilação indevida e agrava o constrangimento ilegal, postergando a análise da progressão quando presentes os requisitos legais.
+Requer a concessão da ordem para determinar ao Juízo da execução que aprecie imediatamente o pedido de progressão de regime com base nos elementos já constantes dos autos, sem a exigência de exame criminológico.
+É o relatório.
+Decido.
+O Tribunal de origem deixou de conhecer da impetração, em razão da adoção de via inadequada para impugnar a decisão judicial. Com efeito, a defesa deveria ter interposto o recurso próprio, o agravo em execução penal. Portanto, a controvérsia dos autos não foi debatida na Corte local.
+Dessa forma, a apreciação originária do tema por esta Corte Superior configuraria indevida supressão de instância, o que obsta o conhecimento do writ.
+A propósito:
+AGRAVO REGIMENTAL NO RECURSO EM HABEAS CORPUS. NÃO CONHECIMENTO. WRIT SUCEDÂNEO DE REVISÃO CRIMINAL. SUPRESSÃO DE INSTÂNCIA. ILEGALIDADE FLAGRANTE QUE AUTORIZA A CONCESSÃO DE ORDEM DE OFÍCIO. NULIDADE NA PRODUÇÃO DA PROVA. NÃO VERIFICADA. AGRAVO REGIMENTAL DESPROVIDO.  ..  2. O exame pelo Superior Tribunal de Justiça de matéria que não foi apreciada pelas instâncias ordinárias enseja indevida supressão de instância, com explícita violação da competência originária para o julgamento de habeas corpus (art. 105, I, c, da Constituição Federal).  ..  (AgRg no RHC n. 182.899/PB, relator Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), Sexta Turma, julgado em 8/4/2024, DJe de 11/4/2024).
+Sob idêntico prisma: AgRg no HC 930937/SP, Rel. Ministro OG Fernandes, Sexta Turma, julgado em 11/06/2025, DJEN de 16/06/2025; AgRg no HC 987996/SP, Rel. Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 05/08/2025, DJEN de 14/08/2025; AgRg no HC 977189/SP, Rel. Ministro Carlos Cini Marchionatti, Quinta Turma, julgado em 28/05/2025, DJEN de 02/06/2025.
+Ante o exposto, não conheço do habeas corpus.
+Publique-se. Intime-se.
+EMENTA
