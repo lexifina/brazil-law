@@ -1,0 +1,17 @@
+DECISÃO
+Cuida-se de embargos de declaração opostos por OMNI S.A. CRÉDITO FINANCIAMENTO E INVESTIMENTO contra decisão de minha relatoria que não conheceu do agravo em recurso especial (fls. 310-315).
+Extrai-se da decisão embargada que o recurso especial não foi admitido na origem, sendo interposto agravo, o qual igualmente não foi conhecido por esta Corte, ao fundamento de inexistência de violação ao art. 1.022 do CPC, deficiência de fundamentação (Súmula 284/STF) e necessidade de reexame do conjunto fático-probatório (Súmula 7/STJ), mantendo-se, assim, o acórdão do Tribunal de Justiça do Estado do Rio Grande do Sul.
+Nas razões dos presentes aclaratórios, a embargante apontou (1) omissão no julgado quanto à incidência de ordem de suspensão nacional decorrente da afetação do Tema 1.378/STJ, sustentando que o feito deveria ter sido sobrestado antes da análise de admissibilidade; (2) necessidade de reconhecimento da prejudicialidade da matéria repetitiva, com consequente atribuição de efeitos infringentes para tornar sem efeito a decisão que não conheceu do agravo em recurso especial; (3) violação do art. 1.022 do CPC, diante da ausência de manifestação expressa sobre a obrigatoriedade de suspensão dos processos que tratam da abusividade de juros remuneratórios em contratos bancários (fls. 318-338).
+Não houve impugnação da parte embargada.
+É, no essencial, o relatório.
+Os embargos de declaração merecem acolhimento.
+Nos termos do art. 1.022 do CPC, os aclaratórios são cabíveis para sanar omissão, inclusive quando o julgador deixa de se manifestar sobre questão relevante ao deslinde da controvérsia.
+No caso, a embargante sustenta omissão quanto à incidência do Tema 1.378/STJ, afetado ao rito dos recursos repetitivos, no qual se determinou a suspensão nacional dos processos que versem sobre a abusividade de juros remuneratórios em contratos bancários.
+Assiste-lhe razão.
+Embora a decisão embargada tenha concluído pelo não conhecimento do agravo em recurso especial em razão de óbices processuais, verifica-se que a controvérsia deduzida nos autos está diretamente inserida no âmbito do Tema 1.378/STJ, cuja afetação implicou a determinação de sobrestamento dos processos em curso que tratem da matéria, nos termos do art. 1.037, II, do CPC.
+Nessa perspectiva, a ausência de pronunciamento quanto à ordem de suspensão configura omissão relevante, porquanto o sobrestamento possui natureza prejudicial e deve ser apreciado previamente, inclusive antes do exame de admissibilidade do recurso, a fim de preservar a uniformidade da jurisprudência e evitar decisões conflitantes.
+Assim, impõe-se o reconhecimento da omissão, com a integração do julgado para adequá-lo à sistemática dos recursos repetitivos.
+Diante disso, é de rigor a atribuição de efeitos infringentes aos embargos de declaração, para tornar sem efeito a decisão que não conheceu do agravo em recurso especial.
+Ante o exposto, torno sem efeito a decisão de fls. 310-315, e determino a devolução dos autos ao Tribunal de origem, com a respectiva baixa, para que lá fiquem sobrestados aguardando o julgamento do referido T ema 1.378 pelo Superior Tribunal de Justiça e, após sua publicação, em observância ao art. 1.040 do CPC/2015: a) seja negado seguimento ao recurso se a decisão recorrida coincidir com a orientação desta Corte; ou b) proceda-se ao juízo de retratação na hipótese de o acórdão vergastado divergir do precedente qualificado.
+Publique-se. Intimem-se.
+EMENTA
