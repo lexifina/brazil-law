@@ -1,0 +1,37 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Turma, por unanimidade, rejeitar os embargos.
+Os Srs. Ministros Ribeiro Dantas, Joel Ilan Paciornik, Messod Azulay Neto e Maria Marluce Caldas votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Reynaldo Soares da Fonseca.
+EMENTA
+PROCESSO PENAL. EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO HABEAS CORPUS. INEXISTÊNCIA DE VÍCIO. REDISCUSSÃO DO MÉRITO. IMPOSSIBILIDADE. EMBARGOS DE DECLARAÇÃO REJEITADOS.
+1. Os embargos de declaração exigem a demonstração de ambiguidade, obscuridade, contradição, omissão ou erro material na decisão embargada, sendo insuficiente a mera irresignação com o entendimento adotado.
+2. O acórdão enfrentou adequadamente as teses do agravo regimental, assentando a inadequação do habeas corpus como sucedâneo de recurso próprio, a inexistência de ilegalidade flagrante e a inviabilidade de revolvimento fático-probatório, além de consignar, de forma clara, que a situação excepcional de tráfico de drogas no interior da residência onde vivem os filhos menores contraindica a prisão domiciliar.
+3. Embargos de declaração rejeitados.
+RELATÓRIO
+Trata-se de embargos de declaração opostos por LUANA CAROLINE MACHADO GOMES contra acórdão que negou provimento ao agravo regimental, em acórdão assim ementado (e-STJ fls. 238/239):
+PROCESSO PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. SUBSTITUTIVO DE RECURSO PRÓPRIO. INADEQUAÇÃO DA VIA ELEITA. MÉRITO. EXAME DE OFÍCIO. PRISÃO DOMICILIAR. MÃE DE CRIANÇAS MENORES DE 12 ANOS. INDEFERIMENTO. SITUAÇÃO EXCEPCIONAL. TRÁFICO DE DROGAS NO INTERIOR DA RESIDÊNCIA ONDE VIVEM OS FILHOS. AUSÊNCIA DE ILEGALIDADE FLAGRANTE. IMPOSSIBILIDADE. REVOLVIMENTO FÁTICO-PROBATÓRIO. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. A Terceira Seção firmou que não cabe habeas corpus substitutivo de recurso próprio, admitindo-se a concessão de ofício apenas diante de teratologia ou flagrante ilegalidade (HC n. 535.063/SP, relator Ministro Sebastião Reis Júnior, Terceira Seção, DJe de 25/8/2020) .
+2. A extensão excepcional da prisão domiciliar às apenadas dos regimes fechado ou semiaberto pressupõe, além da ausência de violência ou grave ameaça e de crime contra descendentes, inexistência de circunstância excepcional a desaconselhar a medida.
+3. Configura situação excepcional apta a contraindicar o benefício a prática de tráfico de drogas no interior da residência em que vivem os filhos menores, pela exposição a risco, não sendo possível, em habeas corpus, o revolvimento das premissas fáticas fixadas nas instâncias ordinárias.
+4. A concessão de habeas corpus de ofício não pode ser utilizada para contornar requisitos do recurso próprio, cabendo apenas por iniciativa do órgão julgador quando detectada ilegalidade flagrante.
+5. Agravo regimental não provido.
+Nos presentes embargos de declaração(e-STJ fls. 249/292), a defesa alega contradição e obscuridade no acórdão embargado, afirmando que o entendimento adotado diverge de julgados desta Corte que admitem a prisão domiciliar para mães em regime fechado, mesmo quando o tráfico ocorreu na residência, além de sustentar que houve afronta aos princípios da estabilidade, integridade e coerência da jurisprudência, e que os filhos da embargante apresentam condições de saúde que demandam cuidados especiais.
+Requer o saneamento dos vícios alegados, com a atribuição de efeitos infringentes aos embargos, para, ao final, conceder a ordem de habeas corpus.
+É o relatório.
+EMENTA
+PROCESSO PENAL. EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO HABEAS CORPUS. INEXISTÊNCIA DE VÍCIO. REDISCUSSÃO DO MÉRITO. IMPOSSIBILIDADE. EMBARGOS DE DECLARAÇÃO REJEITADOS.
+1. Os embargos de declaração exigem a demonstração de ambiguidade, obscuridade, contradição, omissão ou erro material na decisão embargada, sendo insuficiente a mera irresignação com o entendimento adotado.
+2. O acórdão enfrentou adequadamente as teses do agravo regimental, assentando a inadequação do habeas corpus como sucedâneo de recurso próprio, a inexistência de ilegalidade flagrante e a inviabilidade de revolvimento fático-probatório, além de consignar, de forma clara, que a situação excepcional de tráfico de drogas no interior da residência onde vivem os filhos menores contraindica a prisão domiciliar.
+3. Embargos de declaração rejeitados.
+VOTO
+Os embargos de declaração são recurso com fundamentação vinculada, sendo imprescindível a demonstração de que a decisão embargada se mostrou ambígua, obscura, contraditória ou omissa, conforme disciplina o art. 619 do Código de Processo Penal. Podem ser admitidos, ainda, para correção de eventual erro material e, excepcionalmente, para alteração ou modificação do decisum embargado.
+É insuficiente, todavia, a mera irresignação com o entendimento apresentado na decisão, assim como inviável seu uso como mero meio de reanálise das alegações.
+No caso, não se constatam os vícios alegados.
+A decisão colegiada impugnada enfrentou suficientemente as teses ventiladas no agravo regimental, assentando a inadequação do habeas corpus como sucedâneo de recurso próprio, a inexistência de ilegalidade flagrante e a inviabilidade de revolvimento fático-probatório, além de consignar, de forma clara, que a extensão excepcional da prisão domiciliar às apenadas dos regimes fechado ou semiaberto pressupõe a ausência de circunstância excepcional a desaconselhar a medida, o que, no caso, se verifica diante da prática de tráfico de drogas no interior da residência em que vivem os filhos menores (e-STJ fl. 238, itens 1 a 4). Não há, pois, omissão ou obscuridade a exigir aclaramento.
+A alegada contradição não se evidencia. O acórdão embargado adotou fundamentação coerente e explícita, em linha com os julgados desta Corte citados no próprio decisum, para concluir que a situação fática reconhecida pelas instâncias ordinárias  traficância desenvolvida no lar, com exposição das crianças a ambiente de risco  configura contraindicação concreta ao benefício, preservando-se, ademais, a vedação ao revolvimento das premissas fáticas em sede mandamental (e-STJ fl. 238/239). A invocação, pela embargante, de julgados que, em outros contextos, admitiram a prisão domiciliar não revela contradição interna do acórdão, mas mero inconformismo com a solução jurídica aplicada ao caso concreto.
+Também não há erro material ou ambiguidade. O acórdão indica os fundamentos de fato e de direito que conduziram à negativa de provimento, foi regularmente publicado (e-STJ fl. 248) e não deixou de apreciar questão essencial suscitada no agravo regimental.
+No caso, o embargante pretende, na realidade, rediscutir matéria já decidida e que foi contrária à sua pretensão, sem demonstrar, todavia, ambiguidade, obscuridade, contradição ou omissão, nos termos do art. 619 do CPP.
+De fato, o entendimento desta Corte é pacífico no sentido de que "os embargos declaratórios não constituem recurso de revisão, sendo inadmissíveis se a decisão embargada não padecer dos vícios que autorizariam a sua oposição (obscuridade, contradição e omissão)". (EDcl no AgRg no REsp n. 1.339.703/RS, relator Ministro Felix Fischer, Quinta Turma, julgado em 4/11/2014, DJe de 17/11/2014).
+Manifesta, portanto, a impossibilidade de acolhimento dos presentes aclaratórios, porquanto não demonstrada ambiguidade, omissão, contradição ou obscuridade, mas mera irresignação do embargante com a solução apresentada por esta Corte Superior.
+Diante do exposto, rejeito os presentes embargos.
+É como voto.
