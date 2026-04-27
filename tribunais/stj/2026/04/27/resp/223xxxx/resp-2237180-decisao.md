@@ -1,0 +1,16 @@
+DECISÃO
+Trata-se de recurso especial manejado por União (Fazenda Nacional) com fundamento no art. 105, III, a, da CF, contra acórdão proferido pelo Tribunal Regional Federal da 6ª Região, assim ementado (fls. 355/356):
+PROCESSUAL CIVIL. TRIBUTÁRIO. CUMPRIMENTO DE SENTENÇA PARA COBRANÇA DE HONORÁRIOS SUCUMBENCIAIS FIXADOS SOBRE VALOR ILÍQUIDO DE CONDENAÇÃO. INÍCIO DO PRAZO PRESCRICIONAL.
+1. O prazo prescricional para execução de honorários advocatícios fixados sobre valor de condenação ilíquida começa a fluir apenas após a liquidação do julgado, momento a partir do qual o título, já certo, se torna líquido e apto a embasar a pretensão executória.
+2. Apelação provida.
+Opostos embargos declaratórios, foram rejeitados (fls. 397/400).
+A parte recorrente aponta violação ao art. 475-B do CPC/73 e ao art. 25 da Lei 8.906/94, ao argumento de que, sob a égide da Lei n. 5.869/1973 (na redação da Lei n. 11.232/2005), inexistia o incidente de liquidação por cálculos, de modo que a mera definição aritmética do valor não configuraria etapa liquidatória apta a postergar o termo inicial do pra zo prescricional quinquenal para a cobrança autônoma dos honorários sucumbenciais. Acrescenta que o cumprimento de sentença, quanto aos honorários, foi protocolizado em 16/03/2015, razão pela qual o prazo deveria contar do trânsito em julgado da ação originária.
+Foram ofertadas contrarrazões às fls. 433/444.
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+O fundamento central do acórdão foi que os honorários foram fixados em percentual sobre valor de condenação ilíquido. Segundo o tribunal, embora a sentença tenha transitado em julgado em 06/03/2003, o valor da condenação ainda não estava definido, pois dependia da correta apuração dos valores a serem restituídos aos autores, o que somente ocorreu em 29/06/2010. A partir dessa premissa, o Tribunal concluiu que o prazo prescricional de 5 anos começou em 29/06/2010 e o cumprimento de sentença para cobrança dos honorários foi ajuizado em 16/03/2015.
+Contudo, no acórdão, firmou-se como premissa fática que os honorários sucumbenciais foram fixados sobre valor de condenação ilíquido, cuja apuração demandou a retificação das declarações de renda dos autores e a realização de novos cálculos para definição do montante devido, circunstâncias que levaram à fixação do quantum debeatur apenas em 29/06/2010. A partir dessas premissas, o tribunal concluiu que o valor da condenação não era imediatamente determinável, razão pela qual entendeu necessária a prévia liquidação do título judicial para tornar exigível a verba honorária.
+Desse modo, acolher a tese recursal de que inexistiria liquidação e de que o prazo prescricional deveria correr desde o trânsito em julgado demandaria, necessariamente, a revisão das premissas fáticas estabelecidas pelo Tribunal de origem acerca da natureza ilíquida do título e o teor do processamento da etapa de cumprimento e a forma de apuração do valor, providência inviável em recurso especial.
+Nesse contexto, a desconstituição das premissas lançadas pela instância ordinária, na forma pretendida, demandaria o reexame de matéria de fato, procedimento que, em sede especial, encontra óbice na Súmula 7/STJ .
+ANTE O EXPOSTO, não conheço do recurso especial.
+Publique-se.
+EMENTA
