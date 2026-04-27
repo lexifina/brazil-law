@@ -1,0 +1,80 @@
+DECISÃO
+Trata-se de recurso especial interposto por LUCAS BARBOSA DE FREITAS em face do acórdão do Tribunal de Justiça do Estado do Pará, assim ementado:
+DIREITO PENAL. APELAÇÃO CRIMINAL. ROUBO MAJORADO. AUTORIA COMPROVADA. PALAVRA DAS VÍTIMAS. DOSIMETRIA DA PENA. REDUÇÃO EX OFFICIO. CONTINUIDADE DELITIVA. RECURSO CONHECIDO. IMPROVIDO. DECISÃO UNÂNIME.
+I. CASO EM EXAME
+1. Apelação interposta contra a r. sentença proferida pelo d. Juízo da Vara Única de Igarapé-Açu, que condenou o recorrente pela prática de roubo majorado pelo concurso de pessoas, aplicando-lhe a pena de 10 (dez) anos e 6 (seis) meses de reclusão e 70 (setenta) dias multa, a ser cumprida em regime inicialmente fechado. Inconformada, a defesa pleiteia a absolvição por insuficiência de provas. A d. Procuradoria de Justiça se manifesta pelo improvimento do recurso.
+II. QUESTÕES EM DISCUSSÃO
+2. A questão em discussão consiste em saber se o conjunto probatório é suficiente para embasar a condenação do recorrente e, subsidiariamente, se a dosimetria da pena imposta comporta revisão.
+III. RAZÕES DE DECIDIR
+3. A autoria e a materialidade restaram comprovadas por meio dos depoimentos firmes e coerentes das vítimas, corroborados por reconhecimento pessoal e elementos adicionais constantes nos autos. Conforme jurisprudência consolidada, nos crimes patrimoniais a palavra da vítima, quando corroborada por outros elementos, possui especial relevo para o juízo condenatório.
+4. O reconhecimento do réu pelas vítimas foi seguro e sem dúvidas. Uma das vítimas relatou que, ao tentar contato com o celular subtraído, foi atendida pela então companheira do recorrente, o que reforça os indícios de autoria.
+5. A tese absolutória não se sustenta, pois as alegações defensivas foram isoladas e refutadas pelas provas constantes dos autos.
+6. Na revisão da dosimetria da pena, identificou-se excesso na valoração negativa de circunstâncias judiciais sem respaldo nos autos. Reduziu-se, de ofício, a pena-base para 5 (cinco) anos de reclusão e 13 (treze) dias-multa, mantendo-se as majorações pelas causas legais: concurso de pessoas (1/3) e continuidade delitiva (1/6), resultando em pena definitiva de 7 (sete) anos, 9 (nove) meses e 10 (dez) dias de reclusão e 20 (vinte) dias-multa, em regime inicial semiaberto.
+IV. DISPOSITIVO
+7. Recurso conhecido e improvido. Pena redimensionada ex officio.
+Consta dos autos que o réu foi condenado por roubo majorado em continuidade delitiva à pena de 10 anos e 6 meses de reclusão, e 70 dias-multa, em regime inicial fechado. O Tribunal de origem manteve a condenação, mas reduziu a pena-base para 5 anos e fixou a reprimenda definitiva em 7 anos, 9 meses e 10 dias de reclusão, com 20 dias-multa, em regime semiaberto (fls. 356-358 e 382-383).
+Em apelação, o Tribunal de origem decidiu conhecer e negar provimento ao recurso defensivo, redimensionando a pena ex officio, ao neutralizar culpabilidade, conduta social e personalidade, e manter negativas as circunstâncias e as consequências do crime (fls. 356-358 e 382-383).
+No presente recurso especial, o recorrente sustenta que houve violação ao art. 59 do CP, por fundamentação genérica na negativação das circunstâncias do crime, sem elementos concretos que extrapolem o tipo penal (fls. 363-366).
+Alega que a negativação das consequências do crime se apoiou em prejuízo financeiro e trauma das vítimas, aspectos ínsitos ao delito patrimonial e, portanto, inidôneos para exasperar a pena-base (fls. 365-366).
+Requer o provimento do recurso para neutralizar as vetoriais "circunstâncias" e "consequências" e aplicar a pena-base no mínimo legal (fls. 366-367).
+As contrarrazões foram apresentadas pelo Ministério Público do Estado do Pará (fls. 370-380).
+O recurso especial foi admitido pelo Tribunal de origem (fls. 382-386).
+O Ministério Público Federal manifestou-se pelo provimento do recurso especial, nos termos da seguinte ementa (fls. 406-407):
+RECURSO ESPECIAL DEFENSIVO FUNDADO NO ART. 105, III, "A", DA CF. ROUBO QUALIFICADO (ART. 157, § 2º, II, DO CP). PENA-BASE. CIRCUNSTÂNCIAS E CONSEQUÊNCIAS DO DELITO. AUSÊNCIA DE REFERÊNCIA A ELEMENTOS QUE JUSTIFIQUEM A EXASPERAÇÃO.
+1. Quanto às circunstâncias do crime, a prática do delito durante a noite, próximo a um restaurante movimentado, não caracteriza circunstância que justifique a exasperação da pena-base, porquanto não constituiu, no caso, elemento que extrapole o tipo penal, não havendo a indicação de qualquer ação do réu que tenha colocado em risco a integridade dos transeuntes, razão pela qual opina-se pela exclusão da valoração negativa da referida circunstância judicial.
+2. No que diz respeito às consequências do delito, a ausência de recuperação dos bens não justifica a valoração negativa da circunstância judicial, mormente em razão da ausência de referência ao efetivo prejuízo sofrido pelas vítimas. Ademais, na esteira da orientação jurisprudencial dessa E. Corte Superior, a referência inespecífica à ocorrência de trauma psicológico da vítima não é fundamento idôneo para sua valoração negativa no crime de roubo, uma vez que algum abalo psicológico é elemento ínsito ao tipo penal em comento, devendo haver fundamentação concreta para valoração negativa do aludido vetor, o que não ocorreu no caso concreto.
+3. Parecer pelo provimento do recurso especial para fixar a pena-base no mínimo legal.
+É o relatório.
+Presentes os requisitos de admissibilidade, passo a análise do recurso especial.
+A controvérsia deduzida no recurso especial consiste na alegada violação ao art. 59 do Código Penal, uma vez que, segundo a defesa, as circunstâncias e a consequência do crime foram negativadas com base em fundamentos genéricos.
+Delimitada a tese do apelo especial, destaco o decidido pelo Tribunal de origem (fls. 357-358):
+O MM. Juízo a quo valorou as circunstâncias judiciais negativamente com a seguinte fundamentação: "A culpabilidade do agente é grave, pois de forma dolosa, aderiu aos eventos criminosos. Sua conduta social consta como não recomendado, já que praticou o crime contra várias vítimas. Quanto à personalidade, vemos que o acusado, não é iniciante no crime, já possuindo condenação. As circunstâncias em que o delito foi praticado são em tudo desfavoráveis, visto que perpetrou os crimes durante a noite, próximo a um movimentado restaurante, horário insuspeitável com condições mínimas de reação da vítima. As consequências do crime foram em grau alto, visto o trauma causado às vítimas e valores que não foram devolvidos."
+Contudo, não vislumbro nos autos elementos capazes de valorar negativamente as circunstâncias judiciais referentes à culpabilidade, à conduta social, à personalidade do réu. Ademais, a fundamentação utilizada pelo MM. Juízo não se mostra adequada, razão pelaa quo qual passo a considerar tais circunstâncias como favoráveis ou neutras.
+Porém, com relação às circunstâncias e consequências do crime, as mantenho, eis que bem fundamentadas. Sendo assim, diante da existência de duas circunstâncias valoradas negativamente, fixo a pena base em 5 anos de reclusão e 13 dias multa.
+Verifica-se que o Tribunal de origem consignou que as circunstâncias e consequências do crime foram devidamente fundamentadas pelo magistrado de primeiro grau, o qual as valorou negativamente, sob o argumento de que, no tocante às circunstâncias do delito, este teria sido praticado durante a noite, nas proximidades de um restaurante movimentado, em horário insuspeito, com reduzidas possibilidades de reação da vítima. No que se refere às consequências do crime, destacou-se o trauma causado às vítimas, bem como a não restituição dos valores subtraídos
+Pois bem. Passo a análise de cada circunstância judicial separadamente.
+1. CIRCUNSTÂNCIAS DO CRIME
+Conforme preceitua a doutrina, as circunstâncias do crime constituem-se na forma como se desenvolveu a atividade criminosa, o modos operandi, o meio, o lugar e o tempo em que ocorreu o iter criminis.
+A jurisprudência desta Corte Superior entende as circunstâncias do crime devem ser entendidas como os aspectos objetivos e subjetivos de natureza acidental que envolvem o fato delitoso, não podendo ser elementares do tipo penal.
+Nesse sentido:
+PENAL. HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. INADEQUAÇÃO. ROUBO MAJORADO E CORRUPÇÃO DE MENOR. DOSIMETRIA. CONSEQUÊNCIAS E CIRCUNSTÂNCIAS DO DELITO. MOTIVAÇÃO CONCRETA DECLINADA. REGIME PRISIONAL FECHADO MANTIDO. WRIT NÃO CONHECIDO.
+4. Para fins do art. 59 do Código Penal, as circunstâncias do crime devem ser entendidas como os aspectos objetivos e subjetivos de natureza acidental que envolvem o fato delituoso. In casu, não se infere ilegalidade na primeira fase da dosimetria, pois o decreto condenatório demonstrou que o modus operandi do delito revela gravidade concreta superior à ínsita aos crimes de roubo, pois o paciente deu um chute das costelas da vítima após ter subtraído o seu celular.
+5. Caso tenha sido estabelecida a pena-base acima do mínimo legal, por ter sido desfavoravelmente valorada circunstância do art. 59 do CP, admite-se a fixação de regime prisional mais gravoso do que o indicado pelo quantum de reprimenda imposta ao réu.
+6. Writ não conhecido.
+(HC n. 641.582/PE, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 9/3/2021, DJe de 15/3/2021.)
+DIREITO PENAL. AGRAVO REGIMENTAL EM AGRAVO RECURSO ESPECIAL. ROUBO MAJORADO. RECONHECIMENTO FOTOGRÁFICO. REDIMENSIONAMENTO DA PENA. AGRAVO REGIMENTAL PROVIDO PARA CONHECER DO AGRAVO E DAR PARCIAL PROVIMENTO AO RECURSO ESPECIAL.  ..
+5. A valoração negativa dos motivos e das circunstâncias do crime na dosimetria da pena-base foi considerada ilegal, pois os fundamentos utilizados não desbordam das elementares do tipo penal de roubo.
+6. A exclusão das circunstâncias e motivos do crime da dosimetria da pena é necessária, pois não há justificativa para considerá-los desfavoráveis.
+(AgRg no AREsp n. 2.077.883/PA, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 9/12/2025, DJEN de 18/12/2025.)
+Com efeito, a sentença e o acórdão não descrevem nenhum dado concreto dos autos que indiquem maior reprovabilidade da conduta do acusado, limitando-se a dizer que o delito foi praticado durante a noite, nas proximidades de um restaurante movimentado, em horário insuspeito, com reduzidas possibilidades de reação da vítima, circunstâncias que não revelam nenhum elemento que extrapole o tipo penal.
+Assim, acolho a tese defensiva e promovo o afastamento da referida circunstância judicial.
+2. CONSEQUÊNCIAS DO CRIME
+A circunstância judicial consequências do crime, consoante esclarece a doutrina, constitui-se nos consectários deletérios anormais do delito para a vítima ou para terceiro. Ou seja, a valoração de tal circunstância se justifica quando o prejuízo causado pela infração penal extrapola o resultado típico descrito na normal penal incriminadora.
+Esta Corte Superior entende que as consequências patrimoniais do roubo são relevantes para aumentar a pena-base apenas se o prejuízo for significativo, pois a perda da coisa subtraída é inerente ao resultado típico.
+A propósito:
+DIREITO PENAL. RECURSO ESPECIAL. INDIVIDUALIZAÇÃO DA PENA. ROUBO. CONSEQUÊNCIAS DO CRIME. CONTINUIDADE DELITIVA. RECURSO PROVIDO.  ..
+4. A jurisprudência do Superior Tribunal de Justiça estabelece que as consequências patrimoniais do roubo são relevantes para aumentar a pena-base apenas se o prejuízo for significativo, pois a perda da coisa subtraída é desvalor ínsito ao resultado típico.
+7. Recurso especial provido.
+(REsp n. 2.182.311/MG, relator Ministro Og Fernandes, Sexta Turma, julgado em 27/8/2025, DJEN de 1/9/2025.)
+Ademais, não é possível a valoração negativa das consequências do delito pelo fato do bem não ter sido recuperado, pois tal consequência é insíta ao tipo penal de roubo.
+Anoto:
+PROCESSO PENAL E PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. ROUBO. ABSOLVIÇÃO. OFENSA AO ART. 226 DO CPP. RECONHECIMENTO FOTOGRÁFICO. PRESENÇA DE OUTROS ELEMENTOS DE PROVA HÍGIDOS PARA A MANTENÇA DA CONDENAÇÃO. DOSIMETRIA. CONSEQUÊNCIAS DO CRIME. VALORAÇÃO NEGATIVA. MOTIVAÇÃO CONCRETA DECLINADA. AGRAVO DESPROVIDO.
+5. Em relação às consequências do crime, que devem ser entendidas como o resultado da ação do agente, a avaliação negativa de tal circunstância judicial mostra-se escorreita se o dano material ou moral causado ao bem jurídico tutelado se revelar superior ao inerente ao tipo penal.
+6. No caso, conquanto o fato do bem não ter sido recuperado, de per si, não justifique o incremento da pena-base, o prejuízo suportado pela vítima deve ser reconhecido como superior ao ínsito aos delitos contra o patrimônio, considerando se tratar de roubo de motocicleta emprestada, o que autoriza a exasperação da reprimenda a título de consequências do crime.
+7. Agravo desprovido.
+(AgRg no HC n. 839.846/PE, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 27/11/2023, DJe de 1/12/2023.)
+Do mesmo modo, para valorar negativamente tal circunstância, são necessários elementos concretos que evidenciem o impacto psicológico prolongado na vítima, não sendo suficiente a alegação genérica de trauma causado às vítimas.
+Confira-se:
+HABEAS CORPUS. ROUBO MAJORADO. DOSIMETRIA DA PENA. ART. 59 DO CÓDIGO PENAL. FIXAÇÃO DA PENA-BASE ACIMA DO MÍNIMO LEGAL. VALORAÇÃO NEGATIVA DO VETOR CONSEQUÊNCIAS DO DELITOS. CIRCUNSTÂNCIAS NÃO INERENTES AO TIPO. ELEMENTOS ACIDENTAIS DEVIDAMENTE DECLINADOS, A DEMONSTRAR A NECESSIDADE DE APENAMENTO MAIS GRAVOSO. AUMENTO EM RAZÃO SUPERIOR A 1/6 (UM SEXTO) ACIMA DA PENA MÍNIMA QUANTO ÀS CIRCUNSTÂNCIAS DO DELITO. RAZOABILIDADE. MAIOR DESVALOR DA CONDUTA DEMONSTRADO PELA CONJUNTURA DECLINADA. SEGUNDA ETAPA DO CÁLCULO DA PENA. PREPONDERÂNCIA DA ATENUANTE DA CONFISSÃO ESPONTÂNEA SOBRE A AGRAVANTE DA SENILIDADE. REDUÇÃO DE 1/12 (UM DOZE AVOS). MENORIDADE RELATIVA: REDUÇÃO EM 1/6 (UM SEXTO), POR NÃO SE TRATAR DE CONCURSO ENTRE CIRCUNSTÂNCIAS ATENUANTES E AGRAVANTES. TERCEIRA FASE DA DOSIMETRIA: CONCURSO DE AGENTES E EMPREGO DE ARMA DE FOGO. INCIDÊNCIA CUMULATIVA DAS DUAS CAUSAS DE AUMENTO PREVISTAS NA PARTE ESPECIAL DO CÓDIGO PENAL. POSSIBILIDADE, DESDE QUE DEVIDAMENTE FUNDAMENTADA. ART. 68, PARÁGRAFO ÚNICO, DO CÓDIGO PENAL. AUSÊNCIA, NO CASO, DE MOTIVAÇÃO IDÔNEA. PENA REDIMENSIONADA. ORDEM DE HABEAS CORPUS PARCIALMENTE CONCEDIDA.  ..
+2. Na hipótese, o Tribunal local não se limitou a declinar referências genéricas a danos emocionais, ao consignar que, após a conduta, uma das Vítimas passou a precisar tomar medicação para conseguir dormir. Assim, é válido o demérito conferido à circunstância judicial das consequências do crime, pois o contexto declinado constitui elemento acidental (ou seja, não inerente ao tipo), a demonstrar a necessidade de apenamento mais gravoso, no ponto. ..
+(HC n. 596.233/SC, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 23/8/2022, DJe de 31/8/2022.)
+Diante da fundamentação acima exposta, promovo o afastamento da referida circunstância judicial.
+3. DA DOSIMETRIA
+Na primeira fase, considerando o afastamento das circunstâncias judiciais circunstâncias e consequências do crime, fixo a pena-base em 4 anos de reclusão e 10 dias-multa.
+Na segunda fase, mantenho a agravante do concurso de pessoas, bem como a elevação em 1/3, fixando a pena intermediária em 5 anos e 4 meses de reclusão, além de o pagamento de 13 dias-multa
+Na terceira fase, ausentes causas de diminuição e aumento de pena, torno definitiva a pena em 5 anos e 4 meses de reclusão e 13 dias-multa.
+Considerando o aumento de 1/6 em razão da continuidade delitiva, a pena final totaliza 6 anos, 2 meses e 20 dias de reclusão, além de 15 dias-multa, a ser cumprida em regime inicialmente semiaberto, nos termos do disposto no art. 33, § 2º, "b", do Código Penal.
+Diante do exposto, com fundamento no art. 255, § 4º, III, do RISTJ, dou provimento ao recurso espe cial para fixar a pena de LUCAS BARBOSA DE FREITAS em 6 anos, 2 meses e 20 dias de reclusão, além de 15 dias-multa, a ser cumprida em regime inicialmente semiaberto, por haver infringido as normas do art. 157, § 2º, II, por duas vezes, na forma do art. 71, todos do Código Penal.
+Publique-se.
+Intimem-se.
+EMENTA
