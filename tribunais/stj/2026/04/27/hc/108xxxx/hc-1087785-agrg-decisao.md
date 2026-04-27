@@ -1,0 +1,26 @@
+DECISÃO
+Trata-se de agravo regimental interposto por KELSON ALVES DA SILVA contra decisão monocrática da Presidência do Superior Tribunal de Justiça, que indeferiu liminarmente a inicial (fls. 62/64).
+Nas razões, a parte agravante alega urgência concreta e fato novo - exame criminológico já agendado para 29/04/2026 - com risco iminente de consumação da ilegalidade e inutilidade do habeas corpus, o que justificaria a atuação imediata desta Corte.
+Argumenta o cabimento do writ e a superação da Súmula 691/STF e do art. 210 do RISTJ, por estarem presentes flagrante constrangimento ilegal, decisão teratológica, ausência de fundamentação idônea e risco de dano irreparável.
+Sustenta ilegalidade manifesta na exigência de exame criminológico para a progressão de regime, por ausência de fundamentação concreta, assentada em gravidade abstrata e presunções genéricas, sem apontar faltas graves, regressões ou intercorrências negativas - violação direta do art. 93, IX, da Constituição.
+Defende ter havido aplicação retroativa da Lei n. 14.843/2024, norma mais gravosa, à condenação anterior do paciente, violando a irretroatividade da lei penal mais severa.
+Afirma inversão do sistema progressivo, pois, embora cumprido o requisito objetivo e demonstrado bom comportamento carcerário, foi negada a progressão com base em presunção de periculosidade - constrangimento ilegal e violação da individualização da pena.
+Postula tutela de urgência incidental para afastar de imediato a exigência do exame e conceder a progressão, ou, subsidiariamente, determinar nova decisão com fundamentação concreta - periculum in mora e fumus boni iuris, com referência à Súmula 439 do Superior Tribunal de Justiça (fls. 72/73).
+Pugna, assim, pela reforma da decisão agravada (fls. 69/73).
+É o relatório.
+O presente agravo regimental deve ser conhecido, já que reúne os requisitos de admissibilidade.
+No mérito, deve a decisão ser reconsiderada.
+De fato, aplica-se o enunciado da Súmula 691/STF, pois não cabe habeas corpus contra indeferimento de pedido liminar em outro writ.
+Esse posicionamento pode ser afastado apenas em situações excepcionais, se evidenciada dos autos a configuração de flagrante ilegalidade ou abuso de poder. E, nesta análise, entendo estar caracterizada razão para superar o óbice.
+De fato, esta Corte possui entendimento sumulado de que se admite o exame criminológico pelas peculiaridades do caso, desde que em decisão motivada (Súmula 439/STJ).
+É assente na jurisprudência do Superior Tribunal de Justiça que não há constrangimento ilegal na exigência de exame criminológico, mesmo após a edição da Lei n. 10.792/2003, desde que fundamentada a decisão na gravidade concreta do delito ou em dados concretos da própria execução (AgRg no HC n. 302.033/SP, Ministra Maria Thereza de Assis Moura, Sexta Turma, DJe 16/9/2014). Na mesma linha, HC n. 523.840/MG, Ministro Antonio Saldanha Palheiro, Sexta Turma, DJe 29/10/2019; e AgRg no HC n. 562.274/SP, Ministro Felix Fischer, Quinta Turma, DJe 28/5/2020.
+No entanto, nem a gravidade abstrata dos crimes cometidos, nem a longa pena a cumprir ou ainda a reincidência são fatores que indicam a necessidade da perícia. É o que se depreende da leitura destes precedentes, por exemplo: HC n. 620.368/SP, Ministra Laurita Vaz, Sexta Turma, DJe 2/12/2020; AgRg no HC n. 702.817/SP, Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe 19/11/2021; e HC n. 436.653/SP, Ministro Ribeiro Dantas, Quinta Turma, DJe 26/3/2018.
+Especificamente, em relação ao § 1º do art. 112 da Lei de Execução Penal, com redação dada pela Lei n. 14.843/2024, a Sexta Turma desta Corte, no RHC n. 200.670/GO, de minha relatoria, DJe de 23/8/2024, decidiu que a exigência de realização de exame criminológico para toda e qualquer progressão de regime, constitui novatio legis in pejus, pois incrementa requisito, tornando mais difícil alcançar regimes prisionais menos gravosos à liberdade. A retroatividade dessa norma se mostra inconstitucional, diante do art. 5º, XL, da Constituição Federal, e ilegal, nos termos do art. 2º do Código Penal.
+No caso, é nítida a existência de ilegalidade na espécie, a ponto de justificar a concessão da ordem, pois não foram indicados elementos concretos da execução para exigir a realização de exame criminológico, tendo a decisão de primeiro grau mencionado a gravidade do delito e a possibilidade de reiteração criminosa (fl. 18), fundamentos esses inidôneos, aplicáveis a qualquer caso.
+Assim, necessário superar a Súmula 691/STF e afastar a flagrante ilegalidade.
+Ante o exposto, dou provimento ao agravo regimental para reconsiderar a decisão monocrática e conceder a ordem para afastar a exigência de exame criminológico, determinando ao Juízo da Execução a imediata análise dos demais requisitos para a progressão de regime.
+Comunique-se.
+Publique-se.
+EMENTA
+AGRAVO REGIMENTAL EM HABEAS CORPUS. EXECUÇÃO PENAL. PROGRESSÃO DE REGIME. INDEFERIMENTO . GRAVIDADE ABSTRATA DOS DELITOS, REINCIDÊNCIA OU LONGA PENA A CUMPRIR. FUNDAMENTAÇÃO INIDÔNEA. PRECEDENTES. LEI N. 14.843/2024. NOVATIO LEGIS IN PEJUS. IMPOSSIBILIDADE DE APLICAÇÃO RETROATIVA. GRAVIDADE ABSTRATA DO DELITO. FUNDAMENTAÇÃO INIDÔNEA. CONSTRANGIMENTO ILEGAL EVIDENCIADO.
+Agravo regimental provido para, reconsiderando a decisão agravada, conceder a ordem.
