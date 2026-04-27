@@ -1,0 +1,35 @@
+DECISÃO
+Trata-se de habeas corpus substitutivo de recurso próprio, com pedido liminar, impetrado em benefício de VERUSKA RAQUELA FRANCO PROVAZI, contra decisão de Desembargadora do TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, proferida no julgamento do HC n. 2095059-73.2026.8.26.0000, na qual indeferiu a liminar pleiteada pela defesa.
+Consta dos autos que a paciente foi condenada definitivamente pela prática de corrupção passiva à pena de 9 anos, 7 meses e 5 dias de reclusão, no regime fechado.
+Contra a decisão indeferitória do pleito de prisão domiciliar ajuizou mandamus na origem, tendo a liminar sido indeferida, por decisão de fls. 13/14.
+A defesa busca o deferimento da prisão domiciliar.
+É o relatório.
+Decido.
+A irresignação não alcança melhor sorte.
+Com efeito, a jurisprudência desta Corte Superior, aplicando por analogia o enunciado n. 691 da Súmula do Supremo Tribunal Federal, firmou-se no sentido de não conhecer de mandamus impetrado contra decisão indeferitória de liminar na origem, excetuados os casos nos quais, de plano, é possível identificar flagrante ilegalidade ou teratologia do referido decisum, o que não ocorre no presente caso.
+Nesse sentido, destaco os seguintes precedentes:
+PENAL E PROCESSUAL PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS, LESÃO CORPORAL CONTRA AGENTE POLICIAL E RESISTÊNCIA. PRISÃO PREVENTIVA. INDEFERIMENTO DA LIMINAR NO WRIT ORIGINÁRIO. SÚMULA N. 691 DO SUPREMO TRIBUNAL FEDERAL - STF. AUSÊNCIA DE ILEGALIDADE PATENTE. AGRAVO REGIMENTAL DESPROVIDO.
+1. Não se constata, no caso dos autos, constrangimento ilegal patente, apto a justificar a superação do enunciado n. 691 da Súmula do Supremo Tribunal Federal - STF.
+2. Não se vislumbra manifesta ilegalidade a autorizar que se excepcione a aplicação do referido verbete sumular, porquanto, ao menos em uma análise perfunctória, as decisões de origem não se revelam teratológicas. Isso porque, verifica-se que a prisão tem por base elementos concretos que indicam a gravidade concreta do delito, tendo em vista ter sido apreendida em posse do agravante 72g de cocaína, além do risco de reiteração delitiva em razão de ser considerado o "gerente do tráfico" na localidade onde ocorreu a prisão em flagrante. Destacou-se, ainda, que o agravante integraria, em tese, organização criminosa.
+3. Agravo regimental desprovido.
+(AgRg no HC n. 982.704/RJ, de minha relatoria, Quinta Turma, julgado em 14/4/2025, DJEN de 25/4/2025.)
+AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS. PRISÃO PREVENTIVA. IMPETRAÇÃO CONTRA DECISÃO DE INDEFERIMENTO DE LIMINAR NA ORIGEM. ENUNCIADO Nº 691 DA SÚMULA DO STF. NÃO CABIMENTO. FUNDAMENTAÇÃO IDÔNEA DAS DECISÕES DE ORIGEM. AUSÊNCIA DE ILEGALIDADE PATENTE. AGRAVO DESPROVIDO.
+1. O Superior Tribunal de Justiça tem jurisprudência firmada no sentido de não caber habeas corpus contra decisão que indefere liminar, a menos que fique demonstrada flagrante ilegalidade, nos termos do enunciado n. 691 da Súmula do STF, segundo o qual "não compete ao Supremo Tribunal Federal conhecer de habeas corpus impetrado contra decisão do Relator que, em habeas corpus requerido a tribunal superior, indefere a liminar".
+2. Hipótese na qual o Desembargador Relator considerou não estar presente constrangimento ilegal patente na custódia, a justificar o deferimento da liminar, devendo a questão ser melhor analisada por ocasião do exame do mérito.
+3. A decisão que decretou a prisão preventiva do agravante fundamentou-se na expressiva quantidade de entorpecentes apreendida (8.108,2g de maconha, 809g de haxixe e 26,1g de crack), indicativa de possível vínculo com organização criminosa, bem como na necessidade de garantir a aplicação da lei penal, sendo a segregação mantida por ocasião da sentença.
+4. Ausente flagrante ilegalidade, não há motivos para excepcionar a aplicação da Súmula 691 do STF, devendo a análise da matéria ser feita no julgamento do habeas corpus pelo Tribunal de Justiça do Estado de São Paulo.
+5. Agravo desprovido.
+(AgRg no HC n. 983.297/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 2/4/2025, DJEN de 7/4/2025.)
+Na hipótese, não vislumbro a possibilidade de superação do mencionado enunciado sumular. Note-se que o indeferimento da tutela de urgência pautou-se em fundamentação idônea, tendo a relatora asseverado:
+"Os impetrantes alegam que a paciente foi condenada à pena de nove anos, sete meses e cinco dias de reclusão, em regime inicial fechado, por crime de corrupção passiva por três vezes, o Juízo da execução denegou o pedido de prisão domiciliar, mas a paciente é mãe de quatro menores, dois deles menores de doze anos, não há necessidade de comprovar vulnerabilidade das crianças, pois a imprescindibilidade materna é presumida, conforme jurisprudência do STJ, sendo notória a possibilidade de flexibilização do artigo 117, da Lei de Execução Penal, prevista no Habeas Corpus coletivo número 143.641/SP.
+Aduzem ainda que a paciente vivia há mais de um ano com seu namorado, que não é pai de nenhum de seus filhos, o qual, em razão da sua prisão, foi incumbido de cuidar das crianças, por ausência paterna e base familiar extensiva, com formalização de termo junto ao Conselho Tutelar, embora tenha os seus próprios compromissos pessoais e profissionais e, justamente por isso, durante boa parte do dia, no período em que trabalha, a filha mais velha, de apenas dezessete anos fica responsável pelos irmãos, impossibilitando que concentre seu tempo nos estudos.
+Requerem a concessão de liminar para deferir a prisão domiciliar (fls. 1/8).
+A concessão de liminar em sede de habeas corpus constitui medida excepcional, admissível apenas quando evidente e inequívoco o alegado constrangimento ilegal, passível de constatação imediata, a partir da análise sumária da petição inicial e dos documentos que a instruem.
+Essa não é a hipótese dos autos, uma vez que a condenação é definitiva, os precedentes invocados referem-se a medidas provisórias no curso da ação penal e o benefício da prisão domiciliar está previsto a pessoas que cumprem pena em regime aberto, nos termos do art. 117 da Lei de Execução Penal, salvo situação excepcional.
+Ademais, a r. decisão de fls. 37/38 está devidamente fundamentada e os documentos colacionados aos autos, relativos à declaração escolar (fls. 115), certidões de nascimento (fls. 102/104), contrato de locação residencial (fls. 106/112), laudo médico da paciente (fls. 114) e termo de entrega e advertência (fls. 117), não são suficientes para demonstrar situação excepcional, pois não há comprovação de situação de desamparo das crianças, sendo certo que, conforme informado pela Conselheira Tutelar, o termo de responsabilidade foi firmado com Sr. Wagner, por expressa concordância deste e de seus enteados.
+Ante o exposto, rejeito o pedido liminar." (fls. 13/14)
+Dessa forma, inexiste flagrante constrangimento ilegal a autorizar a superação do enunciado sumular.
+Por tais razões, nos termos do art. 210 do Regimento Interno do Superior Tribunal de Justiça, indefiro liminarmente o presente habeas corpus.
+Publique-se.
+Intimem-se.
+EMENTA
