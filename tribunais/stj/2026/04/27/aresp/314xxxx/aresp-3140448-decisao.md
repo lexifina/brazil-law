@@ -1,0 +1,55 @@
+DECISÃO
+Agrava-se de decisão que negou seguimento ao recurso especial, fundamentado no art. 105, III, alínea "a", da Constituição Federal, contra acórdão do Tribunal de Justiça de Justiça do Estado do Rio de Janeiro que deu parcial provimento ao apelo defensivo para absolver o recorrido dos crimes de tráfico e associação, com fundamento no artigo 386, VII, do Código de Processo Penal e manter a condenação pelo crime de desobediência, ajustando-se a dosimetria para 17 dias de detenção em regime aberto.
+O recorrente aponta a violação dos arts. 157, caput e § 1º, 240, §§ 1º e 2º, 283, caput, 283, § 2º, 301, 302 e 303, todos do Código de Processo Penal. Sustenta que o cenário anterior - flagrante delito por porte de arma de fogo de uso restrito já legitimaria o ingresso domiciliar sem o consentimento do morador e sem o mandado judicial.
+Contrarrazões às e-STJ fls. 162/166.
+Manifestação do Ministério Público Federal pelo provimento do recurso às e-STJ fls. 1075/1083.
+É o relatório. Decido.
+Os elementos existentes nos autos informam que o TJRJ deu parcial provimento ao apelo defensivo para absolver o recorrido dos crimes de tráfico e associação, com fundamento no artigo 386, VII, do Código de Processo Penal e manter a condenação pelo crime de desobediência, ajustando-se a dosimetria para 17 dias de detenção em regime aberto.
+O recorrente se insurge contra essa decisão, alegando que o cenário anterior - flagrante delito por porte de arma de fogo de uso restrito já legitimaria o ingresso domiciliar sem o consentimento do morador e sem o mandado judicial. Sobre o tema, transcreve-se o seguinte trecho do acórdão estadual:
+Das provas coligidas verifica-se que, segundo os relatos prestados pelos policiais militares, eles que estavam em patrulhamento quando avistaram dois indivíduos em uma motocicleta, um deles com uma mochila nas costas, saindo de uma localidade Beco do Adão, conhecida por ser ponto de venda de entorpecentes, o carona portando uma arma em mãos, e deram ordem de parada que foi desrespeitada.
+Afirmaram que perderam a motocicleta de vista, mas uma segunda viatura conseguiu localizar a motocicleta parada em frente a uma vila de casas, bateram à porta, insistiram e um dos indivíduos abriu a janela e se rendeu, que determinaram que eles abrissem a porta e, então, se entregaram, confirmando a existência de material ilícito na casa, a mochila contendo material entorpecente e uma pistola 9mm.
+Primeiramente, a ordem de parada foi embasada não somente por estar o apelante em uma motocicleta com uma mochila saindo de ponto de venda de drogas, mas também por ter sido visualizado, pelo policial Evalcir, o carona com uma arma na mão. Confira-se o trecho: "A princípio chamou um pouco atenção da gente por ser dois ocupantes numa moto que estava portando uma mochila e num dado momento foi visto o carona portando uma arma em mãos, foi o momento que a gente ligou a sirene e deu voz de parada pra ele".
+Assim, verifica-se a existência de circunstâncias objetivas que levaram a fundada suspeita na hipótese.
+Debruçando-se sobre o tema em julgado paradigmático, a Sexta Turma do Eg. Superior Tribunal de Justiça definiu critérios para realização da busca pessoal, a partir da adequada interpretação do artigo 244, do Código de Processo Penal, a saber:
+ ..
+Trazendo as conclusões do julgado para o contexto dos autos, verifica-se que a abordagem do acusado, por estar na garupa de uma moto, portando uma mochila, saindo de um ponto de venda de drogas com uma arma na mão, satisfaz a exigência legal da "fundada suspeita".
+Por outro lado, das gravações realizadas pelas câmeras acopladas ao uniforme de um dos policiais militares (id 145700779), extrai-se que a porta da residência foi aberta mediante grave ameaça, tendo sido proferidas frases como "ah, não vai sair  Então pega a granada!". Percebendo-se que não foi franqueada a entrada, como narraram os policiais.
+Embora o policial Bruno mencione que a vila tinha casas vazias, essa informação não é corroborada por qualquer meio. Assim, a princípio, se está diante de um domicílio, cujas regras de inviolabilidade devem ser observadas.
+Se faz necessária a presença de fundadas razões prévias para a entrada forçada na residência sem o devido mandado judicial, sendo certo que a constatação da presença de objetos ilícitos do flagrante, posterior ao ingresso, não pode, por si só, justificar a medida.
+De acordo com o artigo 5º, XI, da Constituição Federal, a casa é asilo inviolável do indivíduo, ninguém nela podendo penetrar sem consentimento do morador, salvo em caso de flagrante delito ou desastre, ou para prestar socorro, ou, durante o dia, por determinação judicial.
+A regra da inviolabilidade do domicílio não possui um caráter absoluto, podendo ser mitigada quando presentes o consentimento do morador ou as fundadas razões da prática de flagrante delito, a possibilitar o ingresso no imóvel sem o mandado judicial respectivo.
+ ..
+No entanto, a versão apresentada pelos policiais não foi acompanhada de comprovação nos autos, como vem exigindo a jurisprudência da Corte Superior:
+ ..
+Além disso, por maior credibilidade que se possa conferir à palavra dos policiais militares, a versão apresentada em juízo não é dotada de verossimilhança. Isso porque, não se mostra razoável crer que o acusado, sabendo que guardava objetos ilícitos no interior da residência, consentiria com o ingresso dos policiais de forma espontânea.
+ ..
+Nesse contexto, tendo em vista que a acusação não se desincumbiu de seu ônus de comprovar o consentimento voluntário para ingresso, tampouco demonstrou a presença das fundadas razões exigidas pelo ordenamento pátrio para ingresso em domicílio, conclui -se pela ilegalidade da diligência policial na hipótese dos autos.
+Por conseguinte, conclui-se que todo o conjunto probatório que respaldou a acusação pelos crimes de tráfico e associação ao tráfico foi obtido por ingresso a domicílio, realizado mediante violação à garantia constitucional consagrada no artigo 5º, XI, da CF.
+O fato de o condutor desobedecer a ordem de parada não justifica que após perseguição, os policiais ingressem em domicílio sem mandado. (e-STJ fls. 52/59)
+Pois bem, o ingresso em domicílio sem mandado judicial é legítimo quando há fundadas razões que indiquem flagrante delito, conforme entendimento do STF no RE n. 603.616.
+Exatamente como no caso, em que o recorrido foi visto em situação de flagrante delito, legitimando assim a busca domiciliar.
+Esta Corte em julgado semelhante assim decidiu:
+DIREITO PENAL E PROCESSUAL PENAL. AGRAVO REGIMENTAL EM HABEAS CORPUS. ENTRADA EM DOMICÍLIO SEM MANDADO. FUNDADAS RAZÕES. FLAGRANTE DELITO. TRÁFICO DE DROGAS. INEXISTÊNCIA DE TRÁFICO PRIVILEGIADO. REGIME INICIAL FECHADO MANTIDO. DECISÃO MONOCRÁTICA CONFIRMADA. AGRAVO DESPROVIDO.
+I. CASO EM EXAME
+1. Agravo regimental interposto contra decisão monocrática que denegou habeas corpus impetrado em favor de réu condenado por tráfico de drogas, objetivando o reconhecimento da nulidade das provas obtidas mediante busca domiciliar sem mandado judicial e, de forma subsidiária, o reconhecimento do tráfico privilegiado e a fixação de regime prisional mais brando.
+II. QUESTÃO EM DISCUSSÃO
+2. Há três questões em discussão: (i) definir se a entrada dos policiais na residência do réu, sem mandado judicial, foi lícita à luz do art. 5º, XI, da CF/1988; (ii) estabelecer se estão presentes os requisitos legais para a aplicação da causa de diminuição de pena prevista no art. 33, § 4º, da Lei de Drogas (tráfico privilegiado);
+e (iii) determinar se é cabível a fixação de regime prisional mais benéfico.
+III. RAZÕES DE DECIDIR
+3. A decisão monocrática reconhece a legitimidade da entrada no domicílio, com base em fundadas razões, evidenciadas pela fuga do réu após desobedecer ordem de parada policial, ingressando em residência de titularidade desconhecida.
+4. A negativa do tráfico privilegiado foi devidamente fundamentada pela instância ordinária, com base na quantidade e variedade das drogas apreendidas, bem como na presença de apetrechos típicos do tráfico, como balanças de precisão, embalagens plásticas, anotações e microtubos, elementos que indicam dedicação a atividade criminosa e afastam a minorante, conforme a jurisprudência desta Corte.
+5. A fixação do regime inicial fechado teve por fundamento a natureza e quantidade dos entorpecentes, em consonância com os critérios estabelecidos no art. 42 da Lei nº 11.343/2006 e art. 33, §§ 2º e 3º, do Código Penal, sendo legítima a opção judicial mesmo diante de manifestação favorável do Ministério Público ao regime mais brando, por força do princípio do livre convencimento motivado.
+IV. DISPOSITIVO E TESE
+6. Agravo regimental desprovido.
+Tese de julgamento: "1. A entrada em domicílio durante perseguição policial é legítima quando há fundada suspeita de crime em andamento. 2. A quantidade e variedade de drogas, juntamente com apetrechos típicos de tráfico, afastam a aplicação do tráfico privilegiado. 3. O regime prisional fechado pode ser fixado com base na quantidade e natureza das drogas apreendidas, conforme jurisprudência." (AgRg no HC n. 990.601/SP, relator Ministro Carlos Cini Marchionatti - Desembargador Convocado TJRS -, Quinta Turma, julgado em 19/8/2025, DJEN de 25/8/2025.)
+AGRAVO REGIMENTAL EM EMBARGOS DE DECLARAÇÃO EM RECURSO ESPECIAL. PENAL E PROCESSUAL PENAL. LEGISLAÇÃO EXTRAVAGANTE. TRÁFICO DE DROGAS (303,33 G DE MACONHA). PEDIDO DE APLICAÇÃO DO PRIVILÉGIO. MATÉRIA APRECIADA NO HC 630.173/SP (TRANSITADO EM JULGADO EM 18/2/2021). PREJUDICIALIDADE CONSTATADA. DEDICAÇÃO A ATIVIDADES CRIMINOSAS RECONHECIDA PELA INSTÂNCIA ORDINÁRIA. INVIABILIDADE DE ALTERAÇÃO. SÚMULA 7/STJ. TESES DE NULIDADES. NÃO OCORRÊNCIA. INGRESSO NO DOMÍCILIO DECORRENTE DE ANTERIOR FLAGRANTE. JURISPRUDÊNCIA DO STJ. COLHEITA DE DADOS DOS TELEFONES CELULARES DEVIDAMENTE AUTORIZADA PELO JUÍZO COMPETENTE.
+1. O Tribunal de origem entendeu pelo não preenchimento dos requisitos do art. 33, § 4º, da Lei n. 11.343/2006, ao considerar as circunstâncias que envolveram as prisões dos réus, especialmente as mensagens que havia nos seus telefones.
+2. Para alterar a compreensão alcançada na origem seria necessária a incursão no caderno fático-probatório, medida vedada pela Súmula 7/STJ.
+Precedentes.
+3. A entrada no domicílio foi decorrência de anterior flagrante, o que é validado pela jurisprudência do Superior Tribunal de Justiça.
+Precedente.
+4. Em divergência ao quanto delineado pela defesa, a perícia nos aparelhos celulares foi devidamente autorizada pelo Juízo singular, à fl. 428, o que legitima a colheita de dados realizada. Precedente.
+5. Agravo regimental desprovido. (AgRg nos EDcl no REsp n. 1.991.581/SP, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 13/11/2024, DJEN de 29/11/2024.)
+Ante o exposto, com fundamento no art. 932, inciso III, do CPC, c/c o art. 253, parágrafo único, inciso II, alínea "c", do RISTJ, conheço do agravo para dar provimento ao recurso especial para afastar a nulidade das provas decorrentes da busca domiciliar, devendo o Tribunal prosseguir no julgamento das demais teses defensivas.
+Intimem-se.
+EMENTA
