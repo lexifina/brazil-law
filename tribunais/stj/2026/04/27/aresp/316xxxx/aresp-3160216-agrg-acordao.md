@@ -1,0 +1,56 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Turma, por unanimidade, negar provimento ao agravo regimental.
+Os Srs. Ministros Ribeiro Dantas, Joel Ilan Paciornik, Messod Azulay Neto e Maria Marluce Caldas votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Reynaldo Soares da Fonseca.
+EMENTA
+PROCESSO PENAL. AGRAVO REGIMENTAL ne NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO DOS FUNDAMENTOS DA DECISÃO AGRAVADA. INCIDÊNCIA DA SÚMULA N. 182/STJ. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. A falta de impugnação específica e pormenorizada dos fundamentos da decisão agravada inviabiliza o conhecimento do agravo regimental, por violação do princípio da dialeticidade, uma vez que os fundamentos não impugnados se mantêm. Incidência do enunciado sumular n. 182 desta Corte Superior.
+2. Agravo regimental a que se nega provimento.
+RELATÓRIO
+Trata-se de agravo regimental interposto por ANDREO CARDOSO RIBEIRO contra decisão que não conheceu do agravo em recurso especial interposto contra acórdão do Tribunal de Justiça do Estado do Pará (Conflito de Jurisdição n. 0805052-06.2025.8.14.0000).
+Extrai-se dos autos que, no âmbito da 3ª Vara Criminal de Ananindeua/PA, houve declínio parcial de competência à Justiça Militar em relação aos policiais que, segundo a autoridade policial, estavam em serviço, mantendo-se a competência em relação ao agravante por não haver informação de que estivesse em serviço no momento dos fatos, além de manter-se a prisão temporária do agravante e, posteriormente, converter-se a prisão temporária em preventiva (e-STJ fls. 287/290; e-STJ fl. 217). Conforme narrado na decisão que lastreou as cautelares, a investigação indicou, em síntese, a prática de roubo, com emprego de arma de fogo, além de crimes conexos como concussão e falsa identidade (e-STJ fls. 200/201).
+A defesa suscitou, no Tribunal de Justiça do Estado do Pará, Conflito Positivo de Competência, com pedido de suspensão dos processos/inquéritos, fixação da competência provisória do Juízo Militar e declaração, no mérito, da competência da Justiça Castrense. O Tribunal a quo denegou a pretensão em acórdão assim ementado (e-STJ fls. 165/166):
+AGRAVO REGIMENTAL EM CONFLITO DE JURISIDIÇÃO. PLEITO PARA AFASTAR A DECISÃO QUE NÃO CONHECEU O CONFLITO DE JURISIDIÇÃO. AGRAVO CONHECIDO E DESPROVIDO. DECISÃO UNÂNIME.
+I. Caso em exame
+1. Trata-se de Agravo Regimental interposto contra a decisão monocrática que não conheceu do Conflito Positivo de Competência suscitado por Andreo Cardoso Ribeiro.
+II. Questão em discussão:
+2. O agravante alega que a decisão que não conheceu do Conflito Positivo de Competência merece reforma, pois incidiu em equívoco ao entender pela inexistência de controvérsia entre as autoridades judiciárias.
+III. razões de decidir
+3. A decisão agravada fundamentou-se na ausência do pressuposto fundamental para a configuração do conflito de competência, qual seja, a controvérsia entre duas ou mais autoridades judiciárias que se considerem competentes ou incompetentes para conhecer do mesmo fato criminoso em relação ao mesmo acusado.
+4. O Juízo da 3ª Vara Criminal de Ananindeua delimitou sua competência em relação ao agravante, mantendo-a sob o fundamento de que ele não estava em serviço durante a prática delitiva. O Juízo da Vara Única da Justiça Militar reconheceu sua competência apenas em relação aos demais policiais militares que estavam em serviço.
+5. Não se verifica a coexistência de decisões conflitantes de dois juízos reivindicando para si a competência para julgar o mesmo delito imputado a Andreo Cardoso Ribeiro. A discordância do agravante com a decisão da Justiça Comum não configura um conflito de competência, mas sim inconformismo com a decisão proferida.
+IV. Dispositivo e tese
+6. Agravo conhecido e desprovido. Decisão unânime.
+Na sequência, foi interposto recurso especial perante esta Corte, alegando violação a dispositivos dos arts. 69, III; 74; 76, I e II; 77, I e II; 78, IV; 79, I; e 82 do Código de Processo Penal, em face da bipartição de um fato único em ações penais distintas, com competências da Justiça Comum e da Justiça Militar (e-STJ fls. 179/227). O Vice-Presidente do Tribunal de origem inadmitiu o recurso especial, por incidência da Súmula 83/STJ, destacando a ausência das hipóteses de cabimento do conflito de competência (e-STJ fls. 255/257).
+Contra essa decisão, foi interposto agravo em recurso especial, reiterando a tese de conexão/continência e de competência da Justiça Militar, com transcrições das decisões de primeiro grau e apontamentos sobre atos processuais em curso, inclusive medidas cautelares (e-STJ fls. 286/306).
+O agravo em recurso especial não foi conhecido pela decisão ora agravada, que registrou a incidência da Súmula 182/STJ, por ausência de impugnação específica ao fundamento de inadmissibilidade do recurso especial baseado na Súmula 83/STJ, à luz do art. 932, III, do CPC e do art. 253, parágrafo único, I, do RISTJ, e da orientação da Corte Especial quanto à necessidade de atacar todos os fundamentos da decisão de inadmissibilidade (e-STJ fls. 361/362).
+Interposto o presente agravo regimental, a defesa alega que a decisão agravada padece de falta de fundamentação e compromete a segurança jurídica. Aduz que não houve fragmentação ao manejar o agravo em recurso especial e que houve enfrentamento integral do fundamento da Súmula 83/STJ, demonstrando sua inaplicabilidade ao caso. Sustenta que o rito do conflito de competência não foi observado, que houve menosprezo à conexão probatória e que a competência da Justiça Militar deve prevalecer, por estar caracterizada a prática em razão da função pública, ainda que o agravante não estivesse em serviço (e-STJ fls. 370/371).
+Requer o conhecimento e o provimento do agravo regimental, para que seja conhecido o agravo em recurso especial e dado seguimento ao exame das alegações (e-STJ fl. 371).
+O Ministério Público Federal opinou pelo não provimento do agravo regimental, por entender não haver impugnação específica ao fundamento de inadmissibilidade, incidindo os arts. 932, III, do CPC e 253, parágrafo único, I, do RISTJ, bem como a Súmula 182/STJ (e-STJ fls. 388/390).
+É o relatório.
+EMENTA
+PROCESSO PENAL. AGRAVO REGIMENTAL ne NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO DOS FUNDAMENTOS DA DECISÃO AGRAVADA. INCIDÊNCIA DA SÚMULA N. 182/STJ. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. A falta de impugnação específica e pormenorizada dos fundamentos da decisão agravada inviabiliza o conhecimento do agravo regimental, por violação do princípio da dialeticidade, uma vez que os fundamentos não impugnados se mantêm. Incidência do enunciado sumular n. 182 desta Corte Superior.
+2. Agravo regimental a que se nega provimento.
+VOTO
+O agravo regimental não prospera.
+Conforme consignado na decisão agravada, ao concluir pela incidência da vedação prescrita na Súmula 182/STJ, a parte agravante, de fato, deixou de impugnar especificamente os fundamentos da decisão de inadmissibilidade do apelo nobre, em especial a aplicação do óbice da Súmula 83/STJ.
+Com efeito, como tem reiteradamente decidido esta Corte, os recursos devem impugnar, de maneira específica e pormenorizada, os fundamentos da decisão contra a qual se insurgem, sob pena de vê-los mantidos.
+Não são suficientes meras alegações genéricas sobre as razões que levaram à inadmissão do agravo ou do recurso especial ou a insistência no mérito da controvérsia.
+Nesse sentido:
+PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DE FUNDAMENTO DA DECISÃO QUE CONHECEU DO AGRAVO PARA NÃO CONHECER DO RECURSO ESPECIAL. INCIDÊNCIA DA SÚMULA N. 182/STJ. ACÓRDÃO RECORRIDO EM CONSONÂNCIA COM ENTENDIMENTO DO STJ. SÚMULA N. 83 DO STJ.
+1. Não havendo impugnação específica de fundamento da decisão que não conheceu do recurso especial, deve ser aplicado, por analogia, o teor da Súmula n. 182 deste Tribunal Superior.
+2. Diante do não conhecimento do apelo extremo com base no verbete sumular 83/STJ, incumbiria à parte interessada apontar precedentes contemporâneos ou supervenientes aos citados na decisão impugnada, procedendo ao cotejo analítico entre eles, de forma a demonstrar que outra é a orientação jurisprudencial nesta Corte Superior, o que não ocorreu na espécie.
+3. Ademais, conforme destacado na decisão que não conheceu do recurso especial, o Superior Tribunal de Justiça possui o entendimento de que "a imposição das restrições de liberdade  .. , por medida de caráter cautelar, de modo indefinido e desatrelado de inquérito policial ou processo penal em andamento, significa, na prática, infligir-lhe verdadeira pena sem o devido processo legal, resultando em constrangimento ilegal" (RHC n. 94.320/BA, relator Ministro Felix Fischer, Quinta Turma, julgado em 9/10/2018, DJe 24/10/2018).
+4. Agravo regimental não conhecido.
+(AgRg no AREsp n. 1.664.424/MG, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 17/9/2024, DJe de 9/10/2024).
+PENAL E PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. PRESCRIÇÃO. INOVAÇÃO RECURSAL. FALTA DE IMPUGNAÇÃO ESPECÍFICA À DECISÃO QUE INADMITIU O RECURSO ESPECIAL NA ORIGEM. SÚMULA 83/STJ. APRESENTAÇÃO DE JULGADOS CONTEMPORÂNEOS. INEXISTÊNCIA. INCIDÊNCIA DA SÚMULA 182/STJ. AGRAVO REGIMENTAL DESPROVIDO.
+1. No âmbito do agravo regimental a parte deve refutar os fundamentos da decisão monocrática impugnada, não lhe sendo permitido inovar na arguição. Ademais, é necessário a apreciação da matéria pela instância ordinária diante da necessidade de aferição apropriada dos marcos interruptivos.
+2. Incide o óbice da Súmula 182/STJ, uma vez que deixou de impugnar, no seu agravo em recurso especial, de forma suficiente, todos os óbices do não conhecimento.
+3. Esta Corte firmou o entendimento de que, "quando o inconformismo excepcional não é admitido pela instância ordinária, com fundamento no enunciado n. 83 da Súmula do Superior Tribunal de Justiça, a impugnação deve indicar precedentes contemporâneos ou supervenientes aos mencionados na decisão combatida" (AgRg no AREsp 709.926/RS, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 18/10/2016, DJe 28/10/2016), o que não ocorreu no caso destes autos.
+4. Agravo regimental desprovido.
+(AgRg no AREsp n. 2.428.728/CE, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 24/10/2023, DJe de 31/10/2023).
+A propósito, vale destacar que, nos casos em que o recurso especial não é admitido com fundamento no enunciado n. 83 da Súmula do Superior Tribunal de Justiça, a impugnação deve indicar precedentes contemporâneos ou supervenientes aos mencionados na decisão combatida (AgRg nos Edcl no Aresp n. 1.096.124/SP) demonstrando-se que outro é o entendimento jurisprudencial desta Corte (ut, AgInt no AREsp n. 1.566.560/RJ, Rel. Ministro MARCO AURÉLIO BELLIZZE, DJe 19/2/2020).
+Além disso, o Superior Tribunal de Justiça consolidou o entendimento de que a complementação da fundamentação deficiente em sede de agravo regimental não tem o condão de sanar o vício contido nas razões do agravo em recurso especial, porquanto configura inovação recursal, vedada em razão da preclusão consumativa.
+Ante o exposto, nego provimento ao agravo regimental.
+É como voto.
