@@ -1,0 +1,40 @@
+DECISÃO
+Cuida-se de agravo interposto por VALE S.A. contra decisão que obstou a subida de recurso especial.
+Extrai-se dos autos que o agravante interpôs recurso especial, com fundamento no art. 105, III, "a", da Constituição Federal, contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAIS cuja ementa guarda os seguintes termos (fls. 684-693):
+APELAÇÃO CÍVEL - AÇÃO INDENIZATÓRIA - FALECIMENTO DO AUTOR NO CURSO DA DEMANDA - SUBSTITUIÇÃO PROCESSUAL PELO ESPÓLIO - POSSIBILIDADE - ENTENDIMENTO DO STJ - BARRAGEM - BRUMADINHO - CERCEAMENTO DE DEFESA - INOCORRÊNCIA - RESPONSABILIDADE OBJETIVA - TEORIA DO RISCO INTEGRAL - DANOS MORAIS - CONFIGURAÇÃO - VALOR - RAZOABILIDADE - RECURSOS DESPROVIDOS. - Na linha do entendimento consolidado do c. Superior Tribunal de Justiça "embora a violação moral atinja apenas o plexo de direitos subjetivos da vítima, o direito à respectiva indenização transmite-se com o falecimento do titular do direito, possuindo o espólio ou os herdeiros legitimidade ativa para ajuizar ação indenizatória." (AgRg no AR Esp 195026 / SP). - Em razão da residência da parte autora se encontrar dentro da área que mais sentiu os efeitos do rompimento da barragem da mina do Córrego do Feijão, os danos morais configuram-se in re ipsa e independem da existência de prova do prejuízo sofrido. - . Ainda que tenha sido previsto o pagamento do valor de R$ 100.000,00 a cada um daqueles que se encontravam na situação prevista no Termo de Compromisso firmado com a Defensoria Pública, ele não deve servir de parâmetro para as indenizações fixadas judicialmente, a menos que esse valor se aproxime dos valores usualmente fixados para os casos similares.
+Opostos embargos de declaração, o Tribunal de origem os rejeitou (fls. 715-720).
+No recurso especial, a recorrente alega, preliminarmente, ofensa aos arts. 489 e 1.022 do CPC, pois, apesar da oposição de embargos de declaração, o Tribunal de origem não se manifestou sobre pontos essenciais ao deslinde da controvérsia.
+Aduz, no mérito, que o acórdão contrariou as disposições contidas nos arts. 2º, IX da Lei Federal n. 12.334/10 e 12, §§ 2º e 3º, da Lei n. 23.291/2019, sustentando que o Tribunal de origem deu definição diversa à ZAS - Zona de Autossalvamento, para reconhecer a existência de danos morais presumidos.
+Alega violação dos arts. 369 e 373, II, do CPC, por ocorrência de cerceamento de defesa porque o indeferimento da perícia médica e do depoimento pessoal impediu a comprovação técnica da existência, extensão e nexo causal dos alegados abalos psicológicos, não sendo suficientes relatórios unilaterais.
+Não foram oferecidas contrarrazões ao recurso especial.
+Sobreveio o juízo de admissibilidade negativo na instância de origem (fls. 868-871 ), o que ensejou a interposição de agravo em recurso especial.
+Não foi apresentada contraminuta do agravo.
+É, no essencial, o relatório.
+Atendidos os pressupostos de admissibilidade do agravo, passo ao exame do recurso especial.
+De início, inexiste a alegada violação dos arts. 489 e 1.022 do CPC, visto que o Tribunal de origem efetivamente enfrentou a questão levada ao seu conhecimento, qual seja, a ocorrência de danos morais pres umidos em razão do evento danoso.
+E, a propósito do contexto recursal, destacou a origem (fls. 690-691):
+ ..
+Inicialmente, cumpre ressaltar que foi devidamente comprovado nos autos que o autor residia na Rua Vinte e Oito de Outubro, n. 570, Casa, Parque do Lago, Brumadinho/MG.
+Em suas razões recursais, a ré, ora primeira apelante, insiste que a parte autora não faz jus ao recebimento de indenização por danos morais, tendo em vista que o seu endereço se situa fora da Zona de Autossalvamento e fora da Zona de Segurança Secundária e que não houve comprovação dos alegados danos psicológicos.
+Todavia, razão não lhe assiste.
+As localidades do Parque da Cachoeira e Parque do Lago, que até se confundem, encontram-se bem próximas do "caminho da lama", como se pode ver pelos mapas usualmente juntados aos autos pela própria ré, independentemente de qualquer análise sobre estar ou não incluída na zona de autossalvamento. O caminho percorrido pela lama de rejeitos passou exatamente ao lado dessas localidades, seguindo o Córrego Ferro Carvão, até atingir as águas do rio Paraopeba.
+Não se pode desconsiderar, pois, que era uma das regiões mais próximas dos fatos e cuja população certamente sentiu todos os seus efeitos, desde os primeiros momentos, da mesma forma que a localidade do Córrego do Feijão, ainda que em direção inversa.
+O dano causado àqueles que se encontravam em tais regiões independe de prova, porque, como ressaltado pelo Em. Des. João Câncio:
+ ..
+Não há dúvidas, pois, que os danos causados ao autor independem de qualquer comprovação, por se encontrar a sua residência dentro da área que mais sentiu os efeitos do rompimento da barragem da mina do Córrego do Feijão, no dia dos fatos, nos dias que a ele se seguiram e, certamente, até o momento em que veio a falecer.
+ ..
+Observa-se, assim, que as questões recursais foram efetivamente enfrentadas pelo Tribunal de origem, sendo que não se pode ter como omissa ou carente de fundamentação uma decisão tão somente porque suas alegações não foram acolhidas.
+Cumpre reiterar que entendimento contrário não se confunde com omissão no julgado ou com ausência de prestação jurisdicional. A propósito: "não se pode confundir decisão contrária ao interesse da parte com ausência de fundamentação ou negativa de prestação jurisdicional" (AgInt no AREsp n. 1.907.401/SP, relatora Ministra Assusete Magalhães, Segunda Turma, DJe de 29/8/2022).
+No mesmo sentido:
+2.2. Não há ofensa aos arts. 489 e 1.022 do CPC, quando o Tribunal de origem examina, de forma fundamentada, a questão submetida à apreciação judicial na medida necessária para o deslinde da controvérsia, ainda que em sentido contrário à pretensão da parte.
+(REsp n. 1.947.636/PE, relatora Ministra Nancy Andrighi, Terceira Turma, DJe de 6/9/2024.)
+1. Segundo orientação jurisprudencial vigente no Superior Tribunal de Justiça, não há falar em omissão, contradição, obscuridade ou erro material, nem em deficiência na fundamentação, quando a decisão recorrida está adequadamente motivada com base na aplicação do direito considerado cabível ao caso concreto, pois o mero inconformismo da parte com a solução da controvérsia não configura negativa de prestação jurisdicional.
+(AgInt no AREsp n. 2.595.147/SE, relator Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 28/8/2024.)
+Ademais, segundo bem se observa, o conteúdo normativo contido nos arts. 2º, IX da Lei Federal n. 12.334/10, 12, §§ 2º e 3º, da Lei n. 23.291/2019, e 369 e 373, II, do CPC, da forma como trazidos ao debate, não foi objeto de exame pela Câmara Julgadora, embora opostos embargos de declaração pela parte recorrente, deixando, portanto, de servir de fundamento à conclusão adotada no acórdão hostilizado.
+Desatendido, portanto, o requisito específico de admissibilidade do recurso especial referente ao prequestionamento, o que atrai o óbice constante na Súmula 211 do Superior Tribunal de Justiça.
+Cabe salientar, por oportuno, que o Superior Tribunal de Justiça já se manifestou no sentido de que "não há contradição em afastar a violação do art. 1.022 do CPC/2015 e, ao mesmo tempo, não conhecer do mérito da demanda por ausência de prequestionamento, desde que o acórdão recorrido esteja suficientemente fundamentado." (AgInt no AREsp 1251735/MS, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, DJe 14/06/2018)
+Seguindo o mesmo raciocínio: "não há contradição em afastar a alegada negativa de prestação jurisdicional e, ao mesmo tempo, não conhecer do recurso por ausência de prequestionamento, desde que o acórdão recorrido esteja adequadamente fundamentado." (AgInt no REsp 1312129/PR, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, DJe 23/02/2018)
+Ante o exposto, conheço do agravo para conhecer em parte do recurso especial e negar-lhe provimento.
+Nos termos do art. 85, § 11, do CPC, majoro os honorários fixados em desfavor da parte recorrente para 15% sobre o valor atualizado da condenação.
+Publique-se. Intime-se.
+EMENTA
