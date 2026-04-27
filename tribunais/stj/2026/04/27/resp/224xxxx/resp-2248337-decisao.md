@@ -1,0 +1,7 @@
+DECISÃO
+Encontra-se afetada à Primeira Seção do Superior Tribunal de Justiça, aguardando o julgamento, sob o rito dos recursos repetitivos (Tema 1428), os Recursos Especiais 2227090/CE, 2217950/PE, 2227299/SE e 2204190/AL, de relatoria do Min. Teodoro Silva Santos, a questão debatida nos autos, qual seja, "definir se o prazo prescricional de cinco anos para o exercício do direito de compensação de créditos tributários reconhecidos judicialmente, previsto no art. 168 do Código Tributário Nacional (CTN), aplica-se ao início do procedimento compensatório ou à sua integral conclusão, bem como aferir os efeitos do pedido administrativo de habilitação de crédito na contagem desse prazo".
+Nos termos do art. 34, XXIV, c/c o art. 256-L, I, ambos do Regimento Interno do Superior Tribunal de Justiça, a admissão de recurso especial como representativo da controvérsia impõe a devolução ao Tribunal de origem dos processos em que foram interpostos recursos cuja matéria identifique-se com o tema afetado, para nele permanecerem suspensos até o fim do julgamento qualificado.
+Pelo exposto, determino a devolução dos autos, com a devida baixa nesta Corte Superior, a fim de que, em observância aos arts. 1.039 a 1.041 do Código de Processo Civil (CPC), após a publicação do acórdão dos recursos representativos da controvérsia, o Tribunal de origem proceda nos termos do art. 1.040 e seguinte do mesmo CPC.
+Publique-se.
+Intimem-se.
+EMENTA
