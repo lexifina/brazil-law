@@ -1,0 +1,15 @@
+DECISÃO
+Trata-se de embargos de declaração opostos pelo autor (pessoa natural) em face da decisão, por mim assinada, a qual deixou de conhecer de seu recurso especial.
+O embargante alega que a decisão embargada omitiu-se de analisar os seguintes aspectos da controvérsia trazida no seu recurso especial:
+A) o prejuízo suportado pelo autor foi causado por falha das rés, não por culpa exclusiva do autor, de modo que elas devem responder objetivamente;
+B) a falha das rés consistiu em: inobservância de regras de segurança e de prevenção de fraudes, aplicáveis à abertura de conta bancária e à utilização de meio de pagamento instantâneo (PIX); e permissão de realização de operação suspeita e atípica.
+Verificando-se a presença dos requisitos de admissibilidade dos embargos (legitimidade, cabimento, adequação, interesse, tempestividade, regularidade formal/procedimental, representação processual e ausência de fato impeditivo ou extintivo do direito de recorrer), passo ao enfrentamento de seu mérito.
+Respeitada a convicção do embargante, a decisão embargada não padece do vício (omissão) por ele apontado.
+A pretensão de reconhecimento da responsabilidade civil-objetiva das rés foi enfrentada na decisão embargada. No aspecto, depois de passar em revista a diretriz jurisprudencial da Casa sobre a matéria, não identifiquei motivo para reformar o acórdão estadual, o qual afastou aquela pretensão por entender que o dano alegado decorreu de culpa exclusiva do autor. Complementando esse raciocínio, assinalei que a conclusão do acórdão recorrido só poderia ser modificada mediante reexame de provas, inadmissível em julgamento de recurso especial. Ainda no âmbito dessa matéria, destaquei não ter sido atendido o requisito do prequestionamento com relação à alegação de atipicidade das movimentações bancárias realizadas com envolvimento da conta do autor. Houve, portanto, pronunciamento específico acerca da matéria e foram expostas com clareza as razões de decidir, verificando-se, porém, que a solução adotada não agradou ao embargante.
+Esse quadro, a meu ver, é suficiente para afastar a alegação de omissão.
+Depois de ler as razões do embargante e de examinar a posição assumida na decisão embargada, tenho fortalecida a convicção de que o embargante, ao afirmar que a decisão embargada é omissa, reconhece, tacitamente, que discorda da conclusão sobre a tese articulada no recurso especial, em que se busca o afastamento da ocorrência de culpa exclusiva da vítima (reconhecida pela justiça estadual), não havendo propriamente indicação de vício de fundamentação.
+Em outras palavras, a afirmação de existência de omissão traduz oposição à análise da idoneidad e do recurso especial e denota propósito de reformar a decisão embargada, o que, enfatiza-se, não consubstancia vício decisório.
+O mérito da decisão embargada, pertinente realçar, deve ser combatido por meio de recurso próprio, não com embargos de declaração, recurso de fundamentação vinculada.
+Em face do exposto, rejeito os embargos.
+Intimem-se.
+EMENTA
