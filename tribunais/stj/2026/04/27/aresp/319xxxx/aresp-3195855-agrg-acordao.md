@@ -1,0 +1,36 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Turma, por unanimidade, negar provimento ao agravo regimental.
+Os Srs. Ministros Ribeiro Dantas, Joel Ilan Paciornik, Messod Azulay Neto e Maria Marluce Caldas votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Reynaldo Soares da Fonseca.
+EMENTA
+PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. TRÁFICO. BENEFÍCIO DO ARTIGO 33, §4º, DA LEI Nº 11.343/06 APLICADO NO PATAMAR DE 1/6, ELEVADA QUANTIDADE DE DROGA. FUNDAMENTAÇÃO IDÔNEA. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. Para aplicação da causa de diminuição de pena do art. 33, § 4º, da Lei n. 11.343/2006, o condenado deve preencher, cumulativamente, todos os requisitos legais, quais sejam, ser primário, de bons antecedentes, não se dedicar a atividades criminosas, nem integrar organização criminosa, podendo a reprimenda ser reduzida de 1/6 (um sexto) a 2/3 (dois terços), a depender das circunstâncias do caso concreto.
+2. Na falta de parâmetros legais para se fixar o quantum da redução do benefício do art. 33, § 4º, da Lei n. 11.343/2006, os Tribunais Superiores decidiram que a quantidade e a natureza da droga apreendida, além das demais circunstâncias do delito, podem servir para a modulação de tal índice ou até mesmo para impedir a sua aplicação, quando evidenciarem o envolvimento habitual do agente com o narcotráfico (HC n. 529.329/SP, Relator Ministro RIBEIRO DANTAS, Quinta Turma, julgado em 19/9/2019, DJe 24/9/2019).
+3. Assim, a quantidade e a natureza da droga apreendida podem ser consideradas para a modulação da causa de diminuição prevista no art. 33, § 4º, da Lei n. 11.343/2006. Precedentes.
+4. O Tribunal a quo, ao apreciar o caso, aplicou a referida causa de diminuição em 1/6, em razão da elevada quantidade do entorpecente apreendido (100kg de maconha), o que se mostra razoável e proporcional, não merecendo reforma.
+5. Agravo regimental não provido.
+RELATÓRIO
+Trata-se de agravo regimental interposto por KELITON SOUZA LIMA (e-STJ fls. 557/562), contra decisão monocrática de e-STJ fls. 542/545, que conheceu do agravo para negar provimento ao recurso especial.
+A parte agravante alega que a quantidade de droga apreendida, como único argumento apresentado, não é suficiente para afastar a fração máxima da causa de diminuição de pena prevista no artigo 33, § 4º, da Lei nº 11.343/06, tendo em vista que o réu preenche todos os requisitos elencados pelo artigo (e-STJ fls. 560)
+Requer, assim, a reconsideração da decisão agravada.
+É o relatório.
+EMENTA
+PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. TRÁFICO. BENEFÍCIO DO ARTIGO 33, §4º, DA LEI Nº 11.343/06 APLICADO NO PATAMAR DE 1/6, ELEVADA QUANTIDADE DE DROGA. FUNDAMENTAÇÃO IDÔNEA. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. Para aplicação da causa de diminuição de pena do art. 33, § 4º, da Lei n. 11.343/2006, o condenado deve preencher, cumulativamente, todos os requisitos legais, quais sejam, ser primário, de bons antecedentes, não se dedicar a atividades criminosas, nem integrar organização criminosa, podendo a reprimenda ser reduzida de 1/6 (um sexto) a 2/3 (dois terços), a depender das circunstâncias do caso concreto.
+2. Na falta de parâmetros legais para se fixar o quantum da redução do benefício do art. 33, § 4º, da Lei n. 11.343/2006, os Tribunais Superiores decidiram que a quantidade e a natureza da droga apreendida, além das demais circunstâncias do delito, podem servir para a modulação de tal índice ou até mesmo para impedir a sua aplicação, quando evidenciarem o envolvimento habitual do agente com o narcotráfico (HC n. 529.329/SP, Relator Ministro RIBEIRO DANTAS, Quinta Turma, julgado em 19/9/2019, DJe 24/9/2019).
+3. Assim, a quantidade e a natureza da droga apreendida podem ser consideradas para a modulação da causa de diminuição prevista no art. 33, § 4º, da Lei n. 11.343/2006. Precedentes.
+4. O Tribunal a quo, ao apreciar o caso, aplicou a referida causa de diminuição em 1/6, em razão da elevada quantidade do entorpecente apreendido (100kg de maconha), o que se mostra razoável e proporcional, não merecendo reforma.
+5. Agravo regimental não provido.
+VOTO
+O agravo regimental não merece acolhida.
+Com efeito, dessume-se das razões recursais que a parte agravante não trouxe elementos suficientes para infirmar a decisão agravada, que, de fato, apresentou a solução que melhor espelha a orientação jurisprudencial do Superior Tribunal de Justiça sobre a matéria.
+Portanto, nenhuma censura merece o decisório ora recorrido, que deve ser mantido pelos seus próprios e jurídicos fundamentos.
+Busca-se a aplicação da minorante prevista no §4º do art. 33 da Lei n. 11.343/2006 no patamar máximo de 2/3.
+Sabe-se que o legislador, ao editar a Lei n. 11.343/2006, objetivou dar tratamento diferenciado ao traficante ocasional, ou seja, aquele que não faz do tráfico o seu meio de vida, por merecer menor reprovabilidade e, consequentemente, tratamento mais benéfico do que o traficante habitual.
+Para aplicação da causa de diminuição de pena do art. 33, § 4º, da Lei n. 11.343/2006, o condenado deve preencher, cumulativamente, todos os requisitos legais, quais sejam, ser primário, de bons antecedentes, não se dedicar a atividades criminosas, nem integrar organização criminosa, podendo a reprimenda ser reduzida de 1/6 (um sexto) a 2/3 (dois terços), a depender das circunstâncias do caso concreto.
+Na falta de parâmetros legais para se fixar o quantum da redução do benefício do art. 33, § 4º, da Lei n. 11.343/2006, os Tribunais Superiores decidiram que a quantidade e a natureza da droga apreendida, além das demais circunstâncias do delito, podem servir para a modulação de tal índice ou até mesmo para impedir a sua aplicação, quando evidenciarem o envolvimento habitual do agente com o narcotráfico (HC n. 529.329/SP, Relator Ministro RIBEIRO DANTAS, Quinta Turma, julgado em 19/9/2019, DJe 24/9/2019).
+Assim, a quantidade e a natureza da droga apreendida podem ser consideradas para a modulação da causa de diminuição prevista no art. 33, § 4º, da Lei n. 11.343/2006. Precedentes: AgRg nos EDcl no REsp n. 2.051.500/PR, relator Ministro Messod Azulay Neto, Quinta Turma, julgado em 16/9/2025, DJEN de 23/9/2025; AgRg no HC n. 991.872/SP, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 17/9/2025, DJEN de 22/9/2025; AgRg no REsp n. 2.134.366/MG, relator Ministro Carlos Cini Marchionatti (Desembargador Convocado TJRS), Quinta Turma, julgado em 2/9/2025, DJEN de 8/9/2025; AgRg no REsp n. 2.195.503/MG, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 3/9/2025, DJEN de 8/9/2025; AgRg no AREsp n. 2.312.238/BA, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 27/8/2025, DJEN de 2/9/2025; AREsp n. 2.954.276/TO, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 5/8/2025, DJEN de 25/8/2025.
+O Tribunal a quo, ao apreciar o caso, aplicou a referida causa de diminuição em 1/6, em razão da elevada quantidade do entorpecente apreendido (100kg de maconha), o que se mostra razoável e proporcional, não merecendo reforma.
+Sendo assim, o inconformismo não merece prosperar.
+Ante o exposto, nego provimento ao agravo regimental.
+É como voto.
