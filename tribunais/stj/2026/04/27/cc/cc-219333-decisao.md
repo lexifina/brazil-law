@@ -1,0 +1,21 @@
+DECISÃO
+Examina-se conflito negativo de competência instaurado entre o JUÍZO DE DIREITO DA 6ª VARA CÍVEL DE BRASÍLIA - DF, suscitante, e o JUÍZO FEDERAL DA 22ª VARA DE BRASÍLIA - SJ/DF, suscitado.
+Ação: LEILA CRISTINA VENTURINI, RONALDO DE CERQUEIRA, DECIO APARECIDO TAROCO, DELAINI TREMORI SIMÕES DE ALMEIDA, LILIANA FELICIA PAIVA PEREIRA CASTELO BRANCO IAPICHINI, LUCIANA DA SILVA DAUKSYS, MARCIO BAESSO, MARIA DE FATIMA MONTEIRO DE SOUZA SILVA, MARIA PONCIANO DE CARVALHO GARCIA, VANI ALVES VALENTA BARZOTTI e RONEI PAULO TRAVI JUNIOR em desfavor da CAIXA ECONÔMICA FEDERAL e da FUNDAÇÃO DOS ECONOMIÁRIOS FEDERAIS - FUNCEF, objetivando o recálculo da reserva matemática de saldamento do plano REG/REPLAN, com a substituição da tábua biométrica AT-83 (agravada em 2 anos) pela AT-2000, a revisão dos benefícios e a condenação da Caixa Econômica Federal ao aporte financeiro correspondente, além do pagamento de danos morais. (e-STJ fls. 1.752-1.777)
+Manifestação da Justiça Federal: reconheceu a ilegitimidade passiva da Caixa Econômica Federal e declarou sua incompetência absoluta para o julgamento da causa, por entender que a controvérsia envolve relação entre participante e entidade de previdência complementar, determinando a remessa dos autos à Justiça Estadual.
+Manifestação do Juízo Estadual: aduziu que a causa de pedir não se limita à interpretação do regulamento do plano de benefícios, abrangendo também a imputação de responsabilidade à CEF por suposto prejuízo financeiro decorrente de ato ilícito na estruturação do saldamento, havendo pedido expresso de condenação da empresa pública ao aporte de recursos. Sustentou, assim, que a presença da Caixa Econômica Federal - cuja legitimidade é defendida pelos autores - atrai a competência da Justiça Federal, suscitando o presente conflito de competência.
+Parecer do MPF: opinou pela competência do juízo estadual.
+RELATADO O PROCESSO, DECIDE-SE.
+A jurisprudência deste Tribunal, por meio da Súmula 150/STJ, consolidou-se no sentido de que a Justiça Federal é quem deve decidir se há interesse jurídico que justifique a presença da União, suas autarquias ou empresas públicas no processo.
+Ao mesmo tempo, a Súmula 224/STJ nos orienta no sentido de que, uma vez excluído o interesse de ente federal que levou a Justiça Comum Estadual a declinar da competência, o Juízo Federal não deve suscitar conflito, mas sim restituir os autos ao Juízo Estadual.
+Ademais, a Súmula 254/STJ preceitua que não cabe ao Juízo Estadual o reexame da decisão do Juízo Federal que exclui da lide o ente federal.
+Na hipótese, o Juízo Federal reconheceu, expressamente, a ilegitimidade passiva da Caixa Econômica Federal, afastando, assim, a presença de ente federal apto a atrair a competência da Justiça Federal.
+Assim, deve o Juízo Estadual prosseguir no julgamento da demanda, nos termos da Súmula 254/STJ.
+Cabe registrar, por fim e oportunamente, que esta Corte já decidiu que "o exame do eventual (des) acerto da decisão do juízo federal, no que tange ao desinteresse da CEF na lide, extravasa a esfera de atribuição desta Corte no âmbito do conflito de competência, já que não lhe cabe a jurisdição revisional ordinária (duplo grau) daquele juízo" (AgRg no CC 134.248/MG, Primeira Seção, DJe 30/9/2015).
+Forte nessas razões, CONHEÇO do conflito e estabeleço a competência do JUÍZO DE DIREITO DA 6ª VARA CÍVEL DE BRASÍLIA - DF.
+Publique-se. Intime-se. Oficiem-se.
+EMENTA
+CONFLITO NEGATIVO DE COMPETÊNCIA. JUSTIÇA COMUM ESTADUAL E JUSTIÇA FEDERAL. PREVIDÊNCIA COMPLEMENTAR. RECÁLSULO DE RESERVA MATEMÁTICA DE SALDAMENTO. REVISÃO DE BENEFÍCIOS E APORTE FINANCEIRO. EXCLUSÃO DA CEF DO POLO PASSIVO PELO JUÍZO FEDERAL. RECONHECIMENTO DE ILEGITIMIDADE PASSIVA. SÚMULAS 150, 224/STJ e 254/STJ. COMPETÊNCIA DA JUSTIÇA ESTADUAL.
+1. Cabe à Justiça Federal decidir sobre a existência, ou não, de interesse de ente federal na lide.
+2. Reconhecida a ausência de interesse de empresa pública pelo Juízo Federal, remanesce a competência da Justiça Estadual.
+3. Não cabe ao Juízo estadual o reexame da decisão do Juízo Federal que exclui ente federal da relação processual.
+4. Conflito de competência conhecido. Estabelecida a competência do JUÍZO DE DIREITO DA 6ª VARA CÍVEL DE BRASÍLIA - DF.
