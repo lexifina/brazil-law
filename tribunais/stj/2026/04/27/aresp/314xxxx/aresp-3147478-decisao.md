@@ -1,0 +1,40 @@
+DECISÃO
+Trata-se agravo manejado por Marli Maria de Souza contra decisão que não admitiu recurso especial, este interposto com fundamento no art. 105, III, a, da CF, desafiando acórdão proferido pelo Tribunal Regional Federal da 6ª Região, assim ementado (fl. 251):
+DIREITO PREVIDENCIÁRIO. APELAÇÃO CÍVEL. BENEFÍCIO POR INCAPACIDADE. APOSENTADORIA POR INVALIDEZ CESSADA. INCAPACIDADE LABORAL POSTERIOR. PERDA DA QUALIDADE DE SEGURADO. IMPOSSIBILIDADE DE CONCESSÃO DO BENEFÍCIO. RECURSO PROVIDO.
+I. CASO EM EXAME
+1. Ação ordinária proposta em face do INSS visando ao restabelecimento de aposentadoria por invalidez, cessada em 2018 após avaliação pericial administrativa. A sentença de primeiro grau julgou procedente em parte o pedido para conceder o benefício de auxílio- doença no período de 19.04.2021 a 19.10.2021.
+2. O INSS interpôs apelação alegando que a parte autora não preencheu os requisitos para concessão do benefício, uma vez que perdeu a qualidade de segurado antes da data da incapacidade. Argumentou, ainda, a impossibilidade de imposição de multa prévia para cumprimento da decisão judicial.
+II. QUESTÃO EM DISCUSSÃO
+3. Há duas questões em discussão: (i) verificar se a parte autora detinha a qualidade de segurado na data da incapacidade para fins de concessão de benefício por incapacidade; e (ii) estabelecer as consequências da revogação da tutela antecipada concedida na sentença.
+III. RAZÕES DE DECIDIR
+4. Os benefícios por incapacidade exigem a presença de três requisitos: qualidade de segurado, cumprimento da carência e comprovação da incapacidade total ou parcial, temporária ou permanente, nos termos da Lei nº 8.213/1991.
+5. A qualidade de segurado é essencial para a concessão dos benefícios previdenciários por incapacidade. Nos casos em que o requerente perde essa qualidade antes do surgimento da incapacidade, não há direito à concessão do benefício.
+6. No caso concreto, a perícia médica concluiu que a incapacidade teve início em 19.04.2021, data posterior à cessação da aposentadoria por invalidez (04.10.2019) e à perda da qualidade de segurado, considerando a ausência de contribuições previdenciárias subsequentes.
+7. Diante da inexistência da qualidade de segurado na data da incapacidade, impõe-se a reforma da sentença para julgar improcedente o pedido inicial.
+8. A revogação da tutela antecipada concedida impõe a restituição dos valores recebidos de forma precária, conforme entendimento fixado pelo Superior Tribunal de Justiça no Tema Repetitivo 692.
+9. Dado o provimento ao recurso, invertem-se os ônus sucumbenciais, fixando-se honorários advocatícios em 10% sobre o valor da causa, com suspensão da exigibilidade caso a parte autora esteja litigando sob gratuidade de justiça.
+IV. DISPOSITIVO
+10. Remessa necessária não conhecida. Apelação provida para julgar improcedente o pedido inicial.
+Não foram opostos embargos declaratórios.
+Nas razões do recurso especial, a parte recorrente aponta violação aos arts. 11, 141, 489 e 492, do CPC, sustentando que "o acórdão recorrido deve ser declarado nulo, tendo em vista que este ocorreu de forma extra petita, pois condenou a parte autora (recorrente) na devolução dos valores recebidos de forma precária, sendo que o Réu (recorrido) não requereu tal devolução em seus pedidos no recurso de apelação" (fl. 264), como razões para a interposição do apelo nobre.
+Todavia, em juízo negativo de admissibilidade, decidiu o Presidente do TRF-6 inadmitir o recurso especial da parte ora agravante tendo em vista a incidência da Súmula 283/STF pois " n o caso concreto, o acórdão recorrido se funda em dois fundamentos autônomos" e "  o  recurso especial limita-se a impugnar o segundo fundamento (..) não impugnando de forma específica e direta o primeiro fundamento  a ausência da qualidade de segurado  , que por si só é suficiente para a manutenção do acórdão recorrido" (fl. 276).
+Irresignada com a decisão da Corte Federal, a Autora ofereceu agravo às fls. 284/292, onde impugnou de forma devida e apropriada os fundamentos da inadmissibilidade.
+Regularmente intimada, a Autarquia agravada não apresentou contrarrazões.
+Recurso tempestivo.
+Representação regular (fl. 13).
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+Como é cediço, para a abertura da via especial, requer-se o prequestionamento, ainda que implícito, da matéria infraconstitucional. A exigência tem como desiderato principal impedir a condução a este Superior Tribunal de questões federais não debatidas no Tribunal de origem, a teor das Súmulas 282/STF e 211/STJ.
+Calha ressaltar que, na forma da jurisprudência do STJ, "para que se configure o prequestionamento, não basta que o recorrente devolva a questão controvertida para o Tribunal, em suas razões recursais. É necessário que a causa tenha sido decidida à luz da legislação federal indicada, bem como seja exercido juízo de valor sobre os dispositivos legais indicados e a tese recursal a eles vinculada, interpretando-se a sua aplicação ou não, ao caso concreto" (AgInt no REsp 1.890.753/MA, Rel. Ministra ASSUSETE MAGALHÃES, SEGUNDA TURMA, DJe 6/5/2021).
+Nesse mesmo sentido:
+PROCESSUAL CIVIL E PREVIDENCIÁRIO. AGRAVO INTERNO NO RECURSO ESPECIAL. SENTENÇA ILIQUIDA. VIOLAÇÃO DO ART. 85 DO CPC/2015. NÃO OCORRÊNCIA. POSSIBILIDADE DE MAJORAÇÃO DE HONORÁRIOS HONORÁRIOS ADVOCATÍCIOS. MATÉRIA DE ORDEM PÚBLICA. VIOLAÇÃO DO ART. 927, III, DO CPC/2015. AUSÊNCIA DE PREQUESTIONAMENTO. INCIDÊNCIA DA SÚMULA Nº 211 DO STJ. AGRAVO IMPROVIDO.
+1. O recurso foi interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015, devendo ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+2. Caso em que o Estado do Paraná desde a origem impugna parte do acórdão recorrido que decidiu pela modificação dos consectários legais da condenação. Insurge-se também quanto à majoração dos horários recursais.
+3. No que diz respeito à alegada violação do artigo 927, III, do CPC/2015, reitera-se conclusões já firmadas no sentido de que não houve juízo de valor por parte da Corte de origem, o que acarreta o não conhecimento do recurso especial pela falta de cumprimento ao requisito do prequestionamento. Incide ao caso a Súmula 211/STJ.
+4. No mais, consoante jurisprudência desta Corte, a majoração dos honorários advocatícios sucumbenciais, nos termos do § 11 do art. 85 do CPC, por se tratar de matéria de ordem pública, pode ser realizada de ofício pelo juiz, independentemente de requerimento das partes, não se verificando reformatio in pejus (v.g.: REsp n. 1.811.792/SP, relatora Nancy Andrighi, Terceira Turma, DJe de 5/5/2022).
+5. Agravo interno não provido.
+(AgInt no REsp n. 1.987.536/PR, relator Ministro BENEDITO GONÇALVES, PRIMEIRA TURMA, DJe de 26/10/2022.)
+Noutro giro, verifico também que a matéria suscitada no apelo nobre não foi apreciada pela instância judicante de origem, tampouco foram opostos embargos declaratórios para suprir eventual omissão. Portanto, ante a falta do necessário prequestionamento, incide mais uma vez no óbice da Súmula 282/STF.
+Ademais, o recurso especial não impugnou um dos fundamentos basilares que amparam o acórdão recorrido, qual seja, a de que " n o presente caso, a controvérsia recursal cinge-se em saber se a parte autora, na data de início da incapacidade, mantinha a qualidade de segurado da Previdência Social" tendo sido reconhecido pelo Troibunal de origem que "na data de início da incapacidade (19.04.2021), a parte autora não mais detinha a qualidade de segurada, devendo ser reformada a sentença" (fl. 249), esbarrando, pois, no obstáculo da Súmula 283/STF, que assim dispõe: "É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles". A respeito do tema: AgInt no REsp 1.711.262/SE, Rel. Ministro Gurgel de Faria, Primeira Turma, DJe 17/2/2021; AgInt no AREsp 1.679.006/SP, Rel. Ministro Raul Araújo, Quarta Turma, DJe 23/2/2021.
+ANTE O EXPOSTO, conheço do agravo para não conhecer do recurso especial.
+Publique-se.
+EMENTA
