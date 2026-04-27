@@ -1,0 +1,13 @@
+DECISÃO
+Trata-se de agravo manejado por BANCO BRADESCARD S.A., desafiando decisão do TRIBUNAL DE JUSTIÇA DO ESTADO DE GOIÁS, que não admitiu recurso especial com base nos seguintes fundamentos: (i) via processual inadequada para veicular reclamo em face de dispositivo constitucional; (ii) óbice da Súmula 7/STJ quanto à legalidade e proporcionalidade da multa imposta; (iii) ausência do necessário cotejo que demonstre a similitude do caso com julgado paradigma a demonstrar a divergência.
+Nas razões do agravo, a parte agravante alega, em síntese, que: "os fatos essenciais estão delimitados  a multa foi imposta sem individualização das condutas e sem demonstração concreta da vantagem auferida, limitando-se o Procon a aplicar percentual genérico e desproporcional. O que se discute, portanto, não é o quantum da prova, mas a correta aplicação dos critérios legais do art. 57 do Código de Defesa do Consumidor, cuja violação configura matéria eminentemente de direito" (fl. 304).
+Sustenta, ainda, que "O cotejo foi devidamente realizado, demonstrando que o acórdão recorrido divergiu: Do STJ, que entende ser necessária a individualização da conduta e a fundamentação concreta dos critérios de gravidade e vantagem auferida (R Esp 1.738.278/SP, Rel. Min. Herman Benjamin, D Je 09/11/2018); De outros Tribunais, que reconhecem a nulidade da CDA quando ausentes elementos mínimos que indiquem o cálculo da multa administrativa" (fl. 305).
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+Verifica-se que o inconformismo não ultrapassa a barreira do conhecimento, pois a parte agravante deixou de impugnar a totalidade dos motivos adotados pelo Tribunal de origem para negar trânsito ao apelo especial.
+No caso, em suas razões de agravo, a parte agravante deixou de rebater, de modo específico, o fundamento de que "o recurso especial não é sede própria para apreciação de eventual ofensa a preceito constitucional" (fl. 295) e o óbice da Súmula 7/STJ .
+Incide, desse modo, por analogia, a Súmula 182/STJ ("É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão recorrida").
+Essa foi a linha de entendimento confirmada pela Corte Especial do STJ ao julgar os EAREsp 701.404/SC e os EAREsp 831.326/SP, Rel. Min. João Otávio de Noronha, Rel. p/ acórdão Ministro Luis Felipe Salomão, DJe de 30/11/2018.
+ANTE O EXPOSTO, nos termos do art. 932, III, do CPC, não conheço do agravo em recurso especial.
+Levando-se em conta o trabalho adicional realizado em grau recursal, impõe-se à parte recorrente o pagamento de honorários advocatícios equivalentes a 20% (vinte por cento) do valor a esse título já fixado no processo (art. 85, § 11, do CPC).
+Publique-se.
+EMENTA
