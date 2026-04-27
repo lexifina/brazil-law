@@ -1,0 +1,18 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por ELIAS JUNIO ROSARIO DOS SANTOS contra decisão que inadmitiu o recurso especial.
+Consta dos autos que o réu foi condenado por roubo circunstanciado. Em segundo grau, a 6ª Câmara de Direito Criminal do Tribunal de Justiça de São Paulo negou provimento ao recurso da defesa e deu provimento ao apelo do Ministério Público para reconhecer a causa de aumento atinente ao emprego de arma de fogo, fixando a pena em 7 anos, 9 meses e 10 dias de reclusão em regime inicial fechado, e 18 dias-multa.
+No recurso especial, o recorrente aponta ofensa aos arts. 157 e 226 do Código de Processo Penal, entendendo que o reconhecimento pessoal foi nulo e que a vítima não conseguiu reconhecê-lo em juízo; e ao art. 157, § 2º-A, I, do Código Penal, visto que seriam frágeis as provas que confirmam o uso de arma de fogo.
+O recurso especial não foi admitido pelo Presidente da Seção de Direito Criminal do Tribunal de origem por incidência das Súmulas n. 7 e 83/STJ.
+No agravo em recurso especial, o agravante alega que os fatos são incontroversos e que há dúvida razoável acerca do emprego de arma de fogo no roubo.
+Contrarrazões apresentadas ao recurso especial e ao agravo.
+O Ministério Público Federal manifestou-se pelo desprovimento do recurso.
+É o relatório.
+O agravo é cabível e dele se deve conhecer. Passa-se ao exame do especial.
+O recorrente foi preso cerca de uma hora depois do cometimento do crime, sendo que a vítima identificou-o prontamente como o autor do crime, notadamente por suas características físicas e feições e ressaltando que ele ainda usava as mesmas roupas do momento do crime. Em juízo, porém, o ofendido não ratificou o reconhecimento feito em delegacia, afirmando que o réu estava "diferente". Entretanto, o próprio magistrado sentenciante asseverou que "à época do roubo, apresentava compleição física mais "robusta" e usava cabelos mais longos e encaracolados  ..  Já da mídia da audiência se verifica, claramente, que a fisionomia do réu mudou substancialmente, apresentando-se mais magro e com os cabelos "raspados"" (fl. 173). Tais variações na aparência não invalidam o ato realizado de forma categórica no inquérito policial, amparado que está pela prova oral colhida, sobretudo o depoimento dos policiais militares que efetuaram o flagrante após solicitação via Copom.
+E da conclusão extraída do julgamento do Tema n. 1.258, ainda que não observado o procedimento inserto no art. 226 do Código de Processo Penal, poderá o magistrado se convencer da autoria delitiva a partir do exame de provas ou evidências independentes que não guardem relação de causa e efeito com o ato viciado de reconhecimento, como ocorreu no caso.
+Em relação à majorante do emprego de arma de fogo, entendo ser caso de restabelecimento da sentença ante a fragilidade do testemunho da vítima, que, em juízo, disse que teria havido "apenas simulação", tal como escreveu o juiz (fl. 94), sendo que a arma não foi apreendida. Por sua vez, o Tribunal de origem apenas fez consideração ao que foi ressaltado pela Promotora de Justiça: "quem já vivenciou a experiência de ter uma arma de fogo apontada contra si não se esquece desse relevante "detalhe", gerador de imenso e duradouro trauma" (fl. 175).
+Diante da ausência de fundamentação válida, o recurso merece prosperar em parte, para afastar a majorante do roubo e fixar a pena do recorrente em 4 anos e 8 meses de reclusão, a partir do regime semiaberto, e 11 dias-multa.
+Ante o exposto, conheço do agravo para dar parcial provimento ao recurso especial a fim de restabelecer a pena fixada na sentença.
+Publique-se.
+Intimem-se.
+EMENTA
