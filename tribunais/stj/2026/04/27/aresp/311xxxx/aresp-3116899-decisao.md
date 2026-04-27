@@ -1,0 +1,39 @@
+DECISÃO
+Trata-se de agravo interposto por EDUARDO AFFONSO DA SILVA E OUTROS contra inadmissão, na origem, de recurso especial fundamentado nas alíneas "a" e "c" do inciso III do artigo 105 da Constituição Federal, manejado contra acórdão do Tribunal Regional Federal da 1ª Região, assim ementado (fls. 172/173):
+ADMINISTRATIVO. PREVIDENCIÁRIO. EX-SERVIDOR DO EXTINTO DEPARTAMENTO DE CORREIOS E TELÉGRAFOS (DCT). LEGITIMIDADE DA UNIÃO. AUSÊNCIA DE PRESCRIÇÃO DO FUNDO DE DIREITO. COMPLEMENTAÇÃO DE APOSENTADORIA. LEI 8.529/92. REGIME CELETISTA. AUSÊNCIA DE DIREITO AO BENEFÍCIO. APELAÇÃO NÃO PROVIDA.
+1. Trata-se de apelação em que a parte autora discute a possibilidade de complementação de aposentadoria regida pela Lei 8.529/92 a ex-empregados do extinto Departamento de Correios e Telégrafos (DCT), independentemente de se tratar de regime celetista ou estatutário.
+2. A preliminar de ilegitimidade passiva arguida pela UNIÃO não merece acolhimento, em razão do disposto nos arts. 1º, 2º, 5º e 6º da Lei nº 8.529/92. Assim, a lide deve ser decidida de modo uniforme em relação ao INSS e a UNIÃO, uma vez que responsáveis pela liberação dos recursos e pela efetivação do pagamento.
+3. A pretensão posta a exame não se refere à alteração do ato de aposentadoria, mas sim ao recebimento de parcelas que complementam a aposentadoria, razão pela qual não se pode falar em prescrição do fundo do direito, mas apenas de prescrição de eventuais parcelas atingidas pelo quinquídio legal.
+4. A parte recorrente não deve receber retribuição baseada no regime de previdência dos servidores públicos estatutários, já que não contribuiu para o referido sistema de previdência, não fazendo jus à complementação de aposentadoria em tela por não preencher os requisitos legais atinentes. Precedentes do STJ.
+5. Apelação não provida.
+Em seu recurso especial de fls. 182/197, a parte recorrente sustenta, além de divergência jurisprudencial, violação aos artigos 1º e 4º da Lei 8.529/1992, assim como afronta ao artigo 5º, inciso XXXVI, da Constituição Federal, ao princípio da isonomia e ao direito adquirido.
+Aduz que "o Acórdão recorrido negou vigência ao art. 1º da Lei nº 8.529/92, uma vez que este dispositivo assegura o direito à complementação de aposentadoria "AO PESSOAL DO EXTINTO DCT"" (fl. 196).
+Acrescenta que "o Acórdão recorrido também violou o disposto no art. 1º do Decreto nº 882/93, que regulamentou a Lei nº 8.529/92 e que, da mesma forma, garantiu o direito pleiteado sem restrição aos empregados admitidos pelo DCT como celetistas; o Acórdão recorrido contrariou, ainda, o artigo 4º da Lei nº 8.529/92, que em momento algum restringiu os empregados na mesma situação de fato e direito dos Recorrentes; além das violações mencionadas, o Acórdão recorrido é flagrantemente contrário ao entendimento consolidado nesta Egrégia Corte Superior de Justiça e demais Tribunais Regionais Federais que, para os casos idênticos aos dos Recorrentes, reconheceram o direito ao recebimento da complementação de aposentadoria devida pela União e paga pelo INSS". (fl. 197)
+O Tribunal de origem, às fls. 235/237, não admitiu o recurso especial sob os seguintes fundamentos:
+Trata-se de Recurso Especial interposto contra acórdão proferido por órgão fracionário deste TRF/1ª Região.
+O exame de admissibilidade do recurso exige a verificação dos pressupostos recursais gerais e específicos, bem como a observância das formalidades legais previstas no CPC/2015 e na jurisprudência consolidada.
+No caso, não se configura hipótese de negativa de seguimento, sobrestamento ou juízo de retratação, impondo-se a análise da admissibilidade.
+Quanto à questão decidida pelo Colegiado, o Superior Tribunal de Justiça adota a seguinte orientação:
+(..)
+Aplica-se ao caso a Súmula 83/STJ, segundo a qual "não se conhece do Recurso Especial pela divergência quando a orientação do tribunal se firmou no mesmo sentido do acórdão recorrido". Esse óbice incide tanto nos recursos fundados na alínea "a" quanto na alínea "c" do inciso III do art. 105 da Constituição Federal.
+Ante o exposto, NÃO ADMITO o Recurso Especial, com fundamento no art. 1.030, V, do CPC/2015, e no art. 22, III, do Regimento Interno deste TRF/1ª Região.
+Se a parte ora recorrente já fora condenada em verba honorária no acórdão e a sentença deu-se sob o CPC/2015, ora majora-se a rubrica em mais R$ 1.000,00 (§11 do art. 85), sujeita aos efeitos da eventual gratuidade de justiça porventura já deferida.
+Em seu agravo, às fls. 241/254, a parte agravante defende a possibilidade de análise de dispositivos constitucionais em sede de recurso especial, quando aliados a artigos infraconstitucionais, como ocorre no caso dos autos, além de reiterar a ocorrência de violação à Lei nº 8.529/1932 e ao artigo 1º do Decreto nº 882/1993, bem como a não incidência da Súmula 7 do STJ e da Súmula 279 do STF.
+No mais, repete os mesmos argumentos já apresentados na petição do recurso especial e alega que houve a devida demonstração do dissídio jurisprudencial.
+É o relatório.
+A insurgência não pode ser conhecida.
+De início, verifica-se que não foi impugnada a integralidade da fundamentação da decisão agravada, porquanto a parte agravante não contestou especificamente o fundamento utilizado para a inadmissão do seu recurso especial.
+Em verdade, a decisão monocrática que negou a subida do apelo raro, ora agravada, assentou-se na incidência do enunciado nº 83 da Súmula do STJ, em função da harmonia entre o acórdão recorrido e a jurisprudência deste Tribunal Superior, cujo óbice incide tanto nos recursos fundados na alínea "a" quanto na alínea "c" do permissivo constitucional.
+Todavia, no seu agravo, a parte não refutou suficientemente referido fundamento, o qual, à míngua de impugnação específica e pormenorizada, permanece hígido, produzindo todos os efeitos no mundo jurídico.
+Assim, ao deixar de infirmar a fundamentação do juízo de admissibilidade realizado pelo Tribunal de origem, a parte agravante fere o princípio da dialeticidade e atrai a incidência da previsão contida nos artigos 932, inciso III, do Código de Processo Civil, e 253, parágrafo único, inciso I, do Regimento Interno do STJ, no sentido de que não se conhece de agravo em recurso especial que "não tenha impugnado especificamente todos os fundamentos da decisão recorrida". Nesse sentido:
+TRIBUTÁRIO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO DE TODOS OS FUNDAMENTOS DA DECISÃO DE INADMISSIBILIDADE. AGRAVO INTERNO NÃO PROVIDO.
+(..)
+4. A falta de efetivo combate de quaisquer dos fundamentos da decisão que inadmitiu o recurso especial impede o conhecimento do respectivo agravo, consoante preceituam os arts. 253, I, do Regimento Interno do Superior Tribunal de Justiça e 932, III, do Código de Processo Civil e a Súmula 182 do STJ.
+5. Agravo interno n ão provido.
+(AgInt no AREsp n. 2.419.582/SP, rel. Min. Mauro Campbell Marques, Segunda Turma, DJe de 14/3/2024)
+Ante o exposto, com fundamento no artigo 253, parágrafo único, inciso I, do Regimento Interno do Superior Tribunal de Justiça, não conheço do agravo em recurso especial.
+Caso exista nos autos prévia fixação de honorários advocatícios pelas instâncias de origem, determino sua majoração em desfavor da parte agravante, no importe de 10% sobre o valor já arbitrado, nos termos do artigo 85, §11, do Código de Processo Civil. Deverão ser observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do dispositivo legal acima referido, bem como eventuais legislações extravagantes que tratem do arbitramento de honorários e as hipóteses de concessão de gratuidade de justiça.
+Publique-se.
+Intime-se.
+EMENTA
+ADMINISTRATIVO E PREVIDENCIÁRIO. AGRAVO EM RECURSO ESPECIAL QUE NÃO COMBATEU O FUNDAMENTO DA DECISÃO AGRAVADA. DESCUMPRIMENTO DO PRINCÍPIO DA DIALETICIDADE. INCIDÊNCIA DOS ARTS. 932, III, DO CPC, E 253, P. Ú, I, DO RISTJ. AGRAVO NÃO CONHECIDO.
