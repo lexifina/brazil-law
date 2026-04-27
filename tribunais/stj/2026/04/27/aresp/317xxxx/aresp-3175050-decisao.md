@@ -1,0 +1,42 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por JONES ADALBERTO MACHADO DOS SANTOS contra a decisão do TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO GRANDE DO SUL que inadmitiu o recurso especial, ante o óbice da falta de prequestionamento, com incidência das Súmulas n. 282 e 356 do STF (fls. 232-233).
+O acórdão proferido pela instância de origem recebeu a seguinte ementa (fls. 216-217):
+DIREITO PENAL. APELAÇÕES CRIMINAIS. ROUBO MAJORADO. CONTINUIDADE DELITIVA AFASTADA. CONCURSO MATERIAL RECONHECIDO. AUMENTO DO QUANTUM DE REDUÇÃO RELATIVO À CONFISSÃO. REGIME FECHADO. PARCIAL PROVIMENTO AOS APELOS.
+I. Caso em exame
+Trata-se de apelações interpostas pelo Ministério Público e pela Defesa contra sentença penal condenatória que impôs ao réu pena de 08 anos, 01 mês e 06 dias de reclusão, em regime semiaberto, e 20 dias-multa, pela prática de dois crimes de roubo majorado (art. 157, §2º-A, inciso I, do Código Penal), com aplicação do artigo 71 do mesmo diploma (continuidade delitiva).
+II. Questão em discussão
+2. Verifica-se controvérsia acerca (i) da possibilidade de aplicação da continuidade delitiva em crimes praticados com intervalo superior a 30 dias; (ii) da aplicação do concurso material; (iii) da incidência e do alcance da confissão espontânea; (iv) do redimensionamento das penas e definição do regime inicial; (v) da possibilidade de apreciação recursal do pedido de restituição da motocicleta não decidido em 1º grau.
+III. Razões de decidir
+3. O recurso ministerial merece provimento quanto à exclusão da continuidade delitiva. Conforme entendimento do STJ, essa figura exige lapso temporal reduzido entre os crimes, o que não se observa no caso, já que os delitos ocorreram com intervalo de 35 dias.
+4. Preenchidos os requisitos do concurso material, impõe-se a soma das penas (art. 69 do CP), diante da autonomia de desígnios e ausência de liame subjetivo entre os crimes.
+5. No tocante à confissão espontânea, embora tenha sido reconhecida na sentença, a pena foi ajustada para observar o patamar de 1/6, conforme precedentes do STJ. Não houve omissão na análise do ponto.
+6. As penas-base foram corretamente fixadas em 04 anos e 08 meses de reclusão para cada crime, em razão das consequências gravosas das condutas, notadamente os efeitos psicológicos nas vítimas.
+7. Com a aplicação da atenuante e da causa de aumento prevista no §2º-A, I, do art. 157, resultou pena de 06 anos e 08 meses para cada roubo.
+8. Com o reconhecimento do concurso material, as penas somadas totalizam 13 anos e 04 meses de reclusão.
+9. Considerando o quantum final da reprimenda, impõe-se o regime fechado para início do cumprimento da pena, nos termos do art. 33, §2º, "a", do CP.
+10. Quanto à pena de multa, ausente insurgência ministerial, mantém-se a fixação em 20 dias-multa à razão mínima.
+11. O pedido defensivo de restituição da motocicleta não foi apreciado pelo juízo de origem, não sendo conhecido nesta instância para evitar supressão de instância.
+IV. Dispositivo e tese
+Recurso da Defesa parcialmente conhecido e, nessa extensão, parcial provido para ajustar a pena provisória, sem alteração do quantum final. Recurso do Ministério Público provido para afastar a continuidade delitiva, reconhecer o concurso material e majorar a pena para 13 anos e 04 meses de reclusão, bem como fixar o regime fechado. Mantêm-se os demais termos da sentença.
+Legislação e jurisprudência relevantes citadas
+Dispositivos relevantes citados: Código Penal, arts. 69, 71, 157, §2º-A, I; art. 33, §2º, "a"; art. 65, III, "d"
+Jurisprudência relevante citada: STJ, AgRg no HC n. 784.960/SP, rel. Min. Rogerio Schietti Cruz, 6ª Turma, julgado em 27/03/2023, DJe 03/04/2023; STJ, AREsp n. 2.808.502/SP, rel. Min. Reynaldo Soares da Fonseca, 5ª Turma, julgado em 20/05/2025, DJEN 28/05/2025; STJ, AgRg no HC n. 979.549/RJ, rel. Min. Og Fernandes, 6ª Turma, julgado em 14/05/2025, DJEN 19/05/2025; TJRS, Apelação Criminal, Nº 50031784620248210008, 8ª Câmara Criminal, rel. Des. Vanessa Gastal de Magalhães, julgado em 29/01/2025.
+A parte agravante sustenta, no recurso especial, violação ao art. 41 do Código de Processo Penal - CPP, por inépcia da denúncia, com imputação genérica e ausência de individualização mínima da conduta.
+Alega, ainda no especial, nulidade do processo desde o início, com absolvição, ou, subsidiariamente, anulação para oferecimento de nova denúncia, com base no art. 386, VII, do CPP.
+O recurso especial foi inadmitido por ausência de prequestionamento (fls. 232-233).
+Nas razões do agravo, afirma que a Súmula n. 7 do STJ foi aplicada indevidamente, porque as teses são de direito e dispensam revolvimento de provas.
+Aduz que houve violação ao art. 226 do CPP, por reconhecimento pessoal realizado sem as formalidades legais, impondo a nulidade da prova e a absolvição.
+Defende, de forma subsidiária, ofensa ao art. 59 do Código Penal - CP, por desconsideração de seu estado de saúde na dosimetria e na fixação do regime.
+Por isso, requer o provimento do recurso para cassar a decisão que inadmitiu o recurso especial.
+Em contraminuta, o Ministério Público do Estado do Rio Grande do Sul sustenta a unirrecorribilidade, apontando a interposição simultânea de recurso especial e agravo em recurso especial, o que acarretaria preclusão consumativa e erro grosseiro, requerendo o não conhecimento; subsidiariamente, pugna pelo improvimento, reiterando as contrarrazões já apresentadas e os fundamentos da decisão agravada (fls. 250-251).
+O Ministério Público Federal manifestou-se pelo não conhecimento, por falta de impugnação específica ao fundamento de inadmissão, nos termos da Súmula n. 182 do STJ; superado esse óbice, opina pelo desprovimento, ante a ausência de prequestionamento, conforme a Súmula n. 211 do STJ (fls. 282-284).
+É o relatório.
+Como relatado, o recurso especial foi inadmitido por ausência de prequestionamento (Súmulas n. 282 e 356 do STF ).
+Porém, as razões do agravo em recurso especial não enfrentam, de modo suficiente, todos os fundamentos referidos, não bastando para tanto que a parte recorrente mencione cada um deles, pois, para o atendimento do princípio da dialeticidade, devem ser demonstradas, de modo específico e concreto, quais seriam as razões pelas quais a decisão recorrida deveria ser reformada.
+Vale esclarecer, que o prequestionamento é um requisito de admissibilidade do recurso especial, traduzindo-se na necessidade de que tenha havido expresso debate, pelo tribunal de origem, da matéria que se pretende submeter ao tribunal superior, conforme elucidam as Súmulas n. 282 e 356 do STF e 211 do STJ. Por isso, não tendo sido tratada a questão relacionada ao art. 41 do Código de Processo Penal no acórdão recorrido e não tendo sido provocado o pronunciamento daquela Corte em embargos de declaração, do recurso especial não se pôde, de fato, conhecer, mesmo que a matéria seja considerada de ordem pública (AgRg no AREsp n. 2.487.930/SP, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 8/10/2024, DJe de 16/10/2024).
+Como se constata, a efetiva impugnação dos fundamentos que levaram o Tribunal de origem a inadmitir o recurso especial exigiri a o expresso e efetivo enfrentamento de cada um dos respectivos fundamentos, sem o que não se pode cogitar do desacerto da decisão agravada, conforme relatado.
+Aplica-se, em consequência, a conclusão prevista na Súmula n. 182 do STJ, que estabelece ser "inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada". A propósito: AgRg no AREsp n. 2.706.517/RS, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 15/10/2024, DJe de 23/10/2024; AgRg no AREsp n. 2.564.761/RS, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 16/10/2024, DJe de 22/10/2024; AgRg no AREsp n. 2.126.667/SC, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 15/10/2024, DJe de 18/10/2024; AgRg no AREsp n. 2.262.869/RS, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 18/6/2024, DJe de 25/6/2024.
+Por fim, registro que, n  os termos do art. 932, III, do CPC, incumbe monocraticamente ao relator "não conhecer de recurso  ..  que não tenha impugnado especificamente os fundamentos da decisão recorrida", hipótese amparada também pelo art. 253, parágrafo único, I, do Regimento Interno do Superior Tribunal de Justiça.
+Ante o exposto, não conheço do agravo em recurso especial.
+Publique-se. Intimem-se.
+EMENTA
