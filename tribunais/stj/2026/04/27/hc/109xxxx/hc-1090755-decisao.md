@@ -1,0 +1,28 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de ANCHIETA DINIZ MARQUES, apontando como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DO MARANHÃO nos autos da Revisão Criminal n. 0824844-88.2024.8.10.0000.
+Consta dos autos que o paciente foi condenado definitivamente pela prática do crime previsto no art. 157, § 2º, do Código Penal, à pena de 8 anos, 6 meses e 20 dias de reclusão, em regime inicial fechado, e dias-multa, após parcial provimento da apelação criminal para redimensionamento da reprimenda.
+O pedido de revisão criminal foi conhecido em parte e, nessa extensão, julgado improcedente pelo Tribunal de origem.
+A defesa alega que houve constrangimento ilegal na dosimetria, porque a atenuante genérica da confissão espontânea, prevista no art. 65, III, alínea d, do Código Penal, foi indevidamente afastada sob o argumento de negativa de autoria em juízo, apesar de o próprio acórdão condenatório ter utilizado a admissão extrajudicial do paciente para corroborar sua participação no roubo, individualizar sua contribuição e evidenciar colaboração na identificação de corréu e recuperação parcial do numerário subtraído.
+Sustenta que a matéria é de direito, prescindindo de revolvimento fático-probatório, pois os fatos relevantes foram fixados pelas instâncias ordinárias e o que se busca é apenas a correta aplicação da consequência jurídica de atenuação.
+Argumenta, ainda, que a atenuante deve incidir mesmo quando a confissão seja extrajudicial, parcial ou retratada, mormente quando aproveitada para a formação do convencimento judicial, e que o entendimento consolidado no Superior Tribunal de Justiça admite o reconhecimento direto da benesse, inclusive com redimensionamento da pena, na via estreita do habeas corpus, quando evidenciada incompatibilidade entre as premissas fáticas do título condenatório e a conclusão jurídica adotada.
+Aponta, por conseguinte, que o afastamento da atenuante, no caso concreto, contraria a orientação consolidada e impõe correção imediata dos marcos executórios do paciente.
+Requer, liminarmente e no mérito, a concessão da ordem para reconhecer a incidência da atenuante prevista no art. 65, III, "d", do Código Penal em favor do paciente, com o consequente redimensionamento da pena aplicada na Ação Penal n. 0000226-97.2007.8.10.0036.
+É o relatório.
+Decido.
+É consolidada a jurisprudência deste Superior Tribunal de Justiça no sentido de que a prerrogativa do relator para julgar monocraticamente o habeas corpus e o respectivo recurso não é afastada pelas normas regimentais que preveem a oitiva prévia do Ministério Público Federal (arts. 64, III, e 202 do RISTJ), notadamente quando a matéria se conforma com o entendimento dominante desta Corte (AgRg no HC n. 856.046/SP, de relatoria do Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 24/10/2023, DJe de 30/10/2023).
+Esta Corte e o Supremo Tribunal Federal pacificaram o entendimento de que não cabe habeas corpus como substitutivo do recurso legalmente previsto para a hipótese, impondo-se o não conhecimento da impetração, salvo quando constatada a existência de flagrante ilegalidade no ato judicial impugnado (STJ, HC n. 535.063/SP, Terceira Seção, Relator Ministro Sebastião Reis Junior, julgado em 10/6/2020, DJe de 25/8/2020; STF, AgRg no HC n. 180.365/PB, Primeira Turma, Relatora Ministra Rosa Weber, julgado em 27/3/2020, DJe de 2/4/2020; e AgRg no HC n. 147.210/SP, Segunda Turma, Relator Ministro Edson Fachin, julgado em 30/10/2018, DJe de 20/2/2020).
+Além disso, inexiste ilegalidade flagrante que justifique a concessão de habeas corpus de ofício.
+No caso dos autos, à época da sentença e do julgamento da apelação (18/12/2018), havia consenso na Terceira Seção desta Corte quanto à não incidência da atenuante da confissão quando esta não fosse utilizada para formar a convicção do julgador.
+Esse entendimento, inclusive, foi objeto do enunciado da Súmula n. 545/STJ: "Quando a confissão for utilizada para a formação do convencimento do julgador, o réu fará jus à atenuante prevista no art. 65, III, d, do Código Penal".
+Logo, a Defesa pretende desconstituir os efeitos da coisa julgada com fundamento em posterior alteração de entendimento jurisprudencial mais favorável ao sentenciado. Ocorre que a pacífica jurisprudência desta Corte afasta tal pleito, por não admitir a revisão de decisão transitada em julgado baseada em mera mudança de orientação jurisprudencial.
+Nesse sentido:
+DIREITO PENAL. DIREITO PROCESSUAL PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. ROUBO MAJORADO. RECONHECIMENTO PESSOAL. ALTERAÇÃO JURISPRUDENCIAL. IRRETROATIVIDADE. IMPOSSIBILIDADE. AGRAVO REGIMENTAL IMPROVIDO.
+ ..
+2. As jurisprudências do Superior Tribunal de Justiça e do Supremo Tribunal Federal se consolidaram no sentido de que não é admissível a utilização da revisão criminal e, por consequência, de habeas corpus substitutivo desta, para aplicar retroativamente jurisprudência que se alterou após o trânsito em julgado do feito, no qual se pretende a incidência do novo entendimento.
+ ..
+4. Agravo regimental improvido.
+(AgRg no HC n. 830.391/SP, relator Ministro Og Fernandes, Sexta Turma, julgado em 20/8/2025, DJEN de 27/8/2025.)
+Outrossim, o afastamento da confissão foi ancorado em circunstância processual clara  negativa de autoria em juízo  e em valoração já consolidada no título condenatório, reiterada em revisão criminal sob premissa de que não há elementos novos aptos a infirmar o juízo anterior. Assim, no âmbito estreito do habeas corpus, não autoriza o reconhecimento direto de atenuante sem incursionar em aspectos fático-probatórios já estabilizados.
+Ante o exposto, indefiro liminarmente o presente habeas corpus.
+Publique-se e intimem-se.
+EMENTA
