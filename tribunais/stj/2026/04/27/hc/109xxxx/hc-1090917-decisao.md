@@ -1,0 +1,16 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em nome de HENRRY RODRIGUES DOS SANTOS, preso preventivamente e acusado da prática do delito do art. 33 da Lei n. 11.343/2006 (Processo n. 50005780320268130009, da V ara Única da comarca de Águas Formosas/MG).
+O impetrante aponta como autoridade coatora o Tribunal de Justiça de Minas Gerais, que denegou O HC n. 1.0000.26.113804-4/000 e manteve a prisão preventiva do paciente.
+Alega ausência de fundamentação idônea do decreto prisional, por suposta utilização de motivos genéricos e não individualizados, sem demonstração dos requisitos do art. 312 do Código de Processo Penal.
+Sustenta inexistência dos pressupostos da prisão preventiva, enfatizando a primariedade, condições pessoais favoráveis e suficiência de cautelares diversas.
+Em caráter liminar, pede soltura, alternativamente a substituição por medidas do art. 319 do Código de Processo Penal; e, no mérito, requer a confirmação da liminar.
+É o relatório.
+Do atento exame dos autos, observo que a segregação cautelar do acusado se encontra fundamentada na gravidade concreta da conduta e na garantia da ordem pública, com base em elementos objetivos, destacada a apreensão de drogas em quantidade e variedade, parte fracionada para comércio; valores em dinheiro, utilização de adolescente na comercialização, circunstâncias reveladoras de maior reprovabilidade (fls. 12/16 e 211/214).
+Ressalto que, no caso, foram apreendidos 216,2 g de maconha e 20,3 g de cocaína, além de 6 pedras de crack e numerário em espécie, com parte da droga já acondicionada em porções típicas de venda, verifica, ainda, a utilização de adolescente na dinâmica do comércio ilícito (fls. 12/15 e 211/214).
+O entendimento das instâncias ordinárias de que é legítima a prisão cautelar em questão está em consonância com a firme jurisprudência do Superior Tribunal de Justiça. A propósito, esta Corte Superior entende que, em casos como este, "em que a quantidade e/ou a natureza das drogas apreendidas e outras circunstâncias do caso revelem a maior reprovabilidade da conduta investigada, tais dados são bastantes para demonstrar a gravidade concreta do delito e, por conseguinte, justificar a custódia cautelar para a garantia da ordem pública" (AgRg no HC n. 899.502/SP, Ministro Schietti Cruz, Sexta Turma, DJe de 12/6/2024). E, ainda: AgRg no HC n. 981.884/SP, Ministro Otávio de Almeida Toledo (Desembargador Convocado do TJSP), Sexta Turma, DJEN de 20/5/2025; e AgRg no HC n. 990.118/SP, Ministro Antonio Saldanha Palheiro, Sexta Turma, DJEN de 20/5/2025.
+Nesse contexto, observa-se que a manutenção da constrição cautelar está baseada em elementos vinculados à realidade, pois as instâncias ordinárias fizeram referências às circunstâncias fáticas justificadoras, destacando a gravidade em concreto do delito.
+Indefiro liminarmente a petição inicial (art. 210 do RISTJ).
+Publique-se.
+EMENTA
+DIREITO PENAL E PROCESSUAL PENAL. HABEAS CORPUS. TRÁFICO DE DROGAS. PRISÃO PREVENTIVA. GARANTIA DA ORDEM PÚBLICA. GRAVIDADE CONCRETA. QUANTIDADE E VARIEDADE DE ENTORPECENTES. PORÇÕES FRACIONADAS PARA COMÉRCIO. NUMERÁRIO APREENDIDO. UTILIZAÇÃO DE ADOLESCENTE NA DINÂMICA DELITIVA. FUNDAMENTAÇÃO CONCRETA. PRECEDENTES.
+Indeferimento liminar da petição inicial.
