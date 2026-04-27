@@ -1,0 +1,7 @@
+DECISÃO
+Paciente que alega sofrer constrangimento ilegal em decorrência de acórdão proferido pela Corte local, que manteve a sua prisão temporária.
+Observo que este mandamus foi deficientemente instruído, pois o impetrante cingiu-se a juntar o decreto de prisão temporária, de quase 1 ano atrás; o acórdão impugnado, exarado em 2025; e o pedido da autoridade policial, evidenciando-se, assim, a impossibilidade de analisar-se o alegado constrangimento ilegal, por falta de contexto, visto que não há informação sobre o cumprimento do mandado de prisão (em momento posterior aos atos judiciais documentados), a superveniência de novo título judicial, etc.
+Ação constitucional de natureza mandamental, o habeas corpus tem como escopo precípuo afastar eventual ameaça ao direito de ir e vir, cuja natureza urgente exige prova pré-constituída das alegações, não comportando dilação probatória. É cogente ao impetrante, sobretudo quando se tratar de advogado constituído, apresentar elementos documentais suficientes para se permitir a aferição da alegada existência de constrangimento ilegal no ato atacado na impetração, iniciativa que não se desincumbiu o impetrante. Nessa diretriz, destaco os seguintes julgados desta Corte: HC n. 555.157/RS, Rel. Ministro Leopoldo de Arruda Raposo (desembargador convocado do TJ/PE), 5ª T., DJe 28/2/2020.
+À vista do exposto, indefiro liminarmente o habeas corpus.
+Publique-se e intimem-se.
+EMENTA
