@@ -1,0 +1,13 @@
+DECISÃO
+Trata-se de agravo interno interposto contra decisão assim ementada (fl. 296):
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. DECISÃO AGRAVADA. FUNDAMENTO. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA. AGRAVO NÃO CONHECIDO.
+O agravante sustenta que impugnou devidamente a aplicação da Súmula 7/STJ pela decisão de não admissão do recurso especial, ao que transcreve trecho do seu agravo a fim de demonstrar a alegação. Afirma que a questão dos autos é jurídica e envolve apenas revaloração das circunstâncias fático-probatórias. Conclui no sentido da devolução dos autos à origem em razão do Tema 1.387/STJ.
+Com impugnação.
+É o relatório. Decido.
+Consigna-se inicialmente que o recurso foi interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015, devendo ser exigidos os requisitos de admissibilidade na forma nele prevista, conforme Enunciado Administrativo n. 3/2016/STJ.
+Discute-se nos autos sobre o dies a quo da contagem da prescrição para ajuizamento de ação indenizatória objetivando o ressarcimento de valores supostamente suprimidos de conta vinculada ao PASEP.
+Ocorre que a questão da contagem prescritiva em casos como o dos autos foi objeto de afetação e julgamento pelo Superior Tribunal de Justiça nos autos dos REsp 2214864/PE e REsp 2214879/PE (Tema 1.387) - Rel. Ministra Maria Thereza de Assis Moura, Primeira Seção, DJe de 17/12/2025 -, tendo-se firmado a seguinte tese: "O saque integral do principal dá início ao prazo prescricional da pretensão de reparação por falha na prestação do serviço, por saques indevidos, por desfalques, ou por ausência de aplicação dos rendimentos estabelecidos em conta individualizada do PASEP".
+Ante o exposto, julgo prejudicado o agravo interno e exerço o juízo de retratação, tornando sem efeito a decisão de fls. 296-298 (art. 259, §6º, do RISTJ, combinado com o §2º do art. 1. 021 do CPC/2015), para determinar a devolução dos autos ao Tribunal de origem pelo Tema 1.387/STJ, nos termos do art. 256-L, inc. II, do RISTJ, a fim de que, em observância aos arts. 1.030 e 1.040 do CPC/2015: a) negue seguimento ao recurso especial se o acórdão recorrido estiver em conformidade com o entendimento do STJ; b) encaminhe os autos ao órgão julgador para realização do juízo de retratação se o acórdão recorrido divergir do entendimento do STJ.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECONSIDERAÇÃO. AÇÃO INDENIZATÓRIA. RESSARCIMENTO DE VALORES. CONTA VINCULADA AO PASEP. TERMO INICIAL DA CONTAGEM PRESCRITIVA. MATÉRIA DECIDIDA PELO STJ EM SEDE DE RECURSO REPETITIVO. TEMA 1.387/STJ. DEVOLUÇÃO À ORIGEM.
