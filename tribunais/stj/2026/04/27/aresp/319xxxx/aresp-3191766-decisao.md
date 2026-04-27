@@ -1,0 +1,31 @@
+DECISÃO
+Trata-se de agravo interposto por SAVIO SANTANA DA SILVA contra decisão que inadmitiu o recurso especial com fundamento nas Súmulas n. 283 e 284 do Supremo Tribunal Federal.
+O recorrente foi condenado a 5 meses e 18 dias de reclusão, além de 4 dias-multa, por tentativa de furto de um celular, modelo Iphone.
+Interposta apelação pela acusação, o Tribunal de origem deu provimento ao recurso para fixar o regime fechado. Os embargos de declaração opostos na sequência foram rejeitados.
+No recurso especial, a parte sustenta, primeiramente, ofensa aos arts. 315, § 2º, II, III, IV e V, 381, III, e 619 do Código de Processo Penal, ao argumento de nulidade do acórdão recorrido por falta de fundamentação. No mérito propriamente, aduz violação dos arts. 33 e 59, III, do Código Penal, por entender que a reincidência e os maus antecedentes não bastam para obstar a imposição do regime inicial aberto.
+No agravo em recurso especial, defende o cabimento do recurso especial, o que preencheria os requisitos de admissibilidade.
+Contraminuta apresentada (fls. 250-255).
+O Ministério Público Federal manifestou-se pelo desprovimento do recurso, nos termos da seguinte ementa (fl. 276):
+Processo Penal. Agravo. Decisão que não admitiu recurso especial. Furto simples tentado. Pleito que busca fixar regime prisional mais brando. 1. O Tribunal de Justiça não fundamentou de forma suficiente a decisão que inadmitiu o REsp, não demonstrado qual fundamento apresentado no acórdão não teria sido impugnado no REsp; não incidência da súmula 283/STF. 2. Houve indicação suficiente da alegada omissão no julgamento do recurso de apelação, não constatada insuficiência na argumentação apresentada no REsp; não aplicação da súmula 284/STF. 3. Apesar de imposta pena inferior a 4 anos houve o reconhecimento de inúmeras anotações pretéritas caracterizadoras de reincidência e maus antecedentes, caso em que se justifica o regime inicial fechado por expressa disposição do Código Penal. 4. Pelo provimento do agravo regimental. 5. Caso conhecido, pelo desprovimento do recurso especial.
+É o relatório.
+Os requisitos de admissibilidade foram atendidos, inclusive tendo a defesa impugnado cada ponto da decisão agravada. Passa-se a análise do recurso especial.
+Em primeiro lugar, ao contrário do alegado, não há falar em deficiência da prestação jurisdicional na origem, uma vez que o acórdão recorrido decidiu a controvérsia, expressa e fundamentadamente (fl. 196):
+Com efeito, consignou-se no arresto que, embora o quantum da pena aplicada (05 meses e 18 dias de reclusão) permita, a priori, a adoção do regime inicial aberto, infere-se dos autos que o acusado ostenta maus antecedentes e é multirreincidente em crime patrimonial (fls. 124/125), circunstâncias reveladoras de que sua liberdade atenta contra a ordem pública e a paz social.
+Demais disso, é de se registrar que, para a fixação do regime prisional, sobreleva avaliar não somente o montante da pena imposta, mas também se os envolvimentos criminais anteriores do agente apontam personalidade distorcida, voltada à criminalidade, como no caso concreto.
+Isso estabelecido, conforme preceitua o 33, § 2º, "c", do Código Penal, será fixado regime aberto para cumprimento de pena ao condenado não reincidente, cuja pena seja igual ou inferior a 4 anos.
+A jurisprudência desta Corte Superior, por meio da Súmula n. 269, estabelece que é admissível a fixação do regime semiaberto ao réu reincidente condenado a pena igual ou inferior a quatro anos, desde que lhe sejam favoráveis as circunstâncias judiciais.
+No caso, as circunstâncias judiciais foram desfavoráveis, devido aos maus antecedentes. Além disso, o acusado é reincidente específico, possuindo outras duas condenações (fl. 139).
+Assim, em estreita observância aos princípios da individualização da pena e da proporcionalidade, bem como à jurisprudência desta Corte Superior, mostra-se correta a fixação do regime mais gravoso, uma vez que o acusado ostenta circunstância judicial desfavorável e é multirreincidente no crime patrimonial, o que demonstra a sua habitualidade delitiva e a necessidade de maior rigor prisional.
+Nesse sentido:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. PENAL. FURTO TENTADO. PRINCÍPIO DA INSIGNIFICÂNCIA. CIRCUNSTÂNCIAS DO CASO CONCRETO. ATIPICIDADE MATERIAL. RECONHECIMENTO. INVIABILIDADE. REINCIDÊNCIA. MAUS ANTECEDENTES. REPROVABILIDADE DA CONDUTA. REGIME INICIAL FECHADO. ILEGALIDADE. AUSÊNCIA. PRECEDENTES. AGRAVO REGIMENTAL DESPROVIDO.
+1. A aplicabilidade do princípio da insignificância no delito de furto é cabível quando se evidencia que o bem jurídico tutelado (no caso, o patrimônio) sofreu mínima lesão e a conduta do agente expressa pequena reprovabilidade e irrelevante periculosidade social.
+2. Na espécie, não se verifica o reduzidíssimo grau de reprovabilidade do comportamento, tampouco a mínima ofensividade da conduta, pois o Apenado, além de ser reincidente e possuir maus antecedentes, era foragido do sistema carcerário e procurado pela polícia, pois abandonou o cárcere na "saída temporária do Dia das Mães" e 3 meses depois estava novamente preso por este processo.
+3. O Agravante possui maus antecedentes e é reincidente. Assim, constatada a habitualidade delitiva em crimes patrimoniais, revela-se impossível a aplicação do princípio da insignificância no caso concreto, ante a evidente reprovabilidade da conduta.
+4. O regime fechado foi fixado em razão da existência de circunstância judicial negativa (antecedentes), além da reincidência. Dessa forma, as instâncias ordinárias decidiram em consonância com a jurisprudência deste Superior Tribunal, sedimentada no sentido de que a existência de vetorial negativa e de reincidência justifica idoneamente o regime mais severo para o início do cumprimento da sanção.
+5. Agravo regimental desprovido.
+(AgRg no AREsp n. 1.950.073/SP, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 23/8/2022, DJe de 31/8/2022.)
+Desse modo, incide, na espécie, a Súmula n. 568/STJ, porquanto a decisão de origem encontra-se em consonância com a jurisprudência desta Corte Superior, razão pela qual deve ser mantida por seus próprios fundamentos.
+Ante o exposto, com fundamento no art. 253, parágrafo único, II, "b", do RISTJ, conheço do agravo para negar provimento ao recurso especial.
+Publique-se.
+Intimem-se.
+EMENTA
