@@ -1,0 +1,18 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto pelo MINISTÉRIO PÚBLICO DO ESTADO DE MINAS GERAIS, para impugnar a decisão proferida pelo Terceiro Vice-Presidente do Tribunal de Justiça do Estado de Minas Gerais que não admitiu o recurso especial, conforme f. 117.
+A defesa interpôs recurso especial com fundamento no art. 105, inciso III, alínea "a", da Constituição Federal, por alegada violação ao artigo 6º, caput, do Decreto n.º 11.846/2023.
+Não admitido o recurso especial, a defesa interpôs o presente agravo em recurso especial.
+O Ministério Público Federal opinou pelo conhecimento e provimento do presente agravo em recurso especial.
+É o relatório. DECIDO.
+Presentes os requisitos de admissibilidade, conheço do agravo em recurso especial.
+No que concerne ao recurso especial interposto, "O STJ reconhece que a revaloração dos critérios jurídicos utilizados na apreciação de fatos tidos por incontroversos pelas instâncias ordinárias não constituiu reexame de provas, sendo perfeitamente admitida na via do Recurso Especial, afastando-se a aplicação da Súmula 7 do STJ." (STJ - AgInt no REsp: 1789251 RS 2018/0342799-2, Data de Julgamento: 15/12/2022, T2 - SEGUNDA TURMA, Data de Publicação: DJe 19/12/2022)
+O reconhecimento da legitimidade do indeferimento do indulto ou da comutação com base em falta grave, na forma do artigo 6º, caput, do Decreto n.º 11.846/2023 Presidencial, não representa reexame de provas, mas revaloração dos critérios jurídicos empregado.
+A aplicação da Súmula 7 em situações assim só cabe quando os fatos são realmente controvertidos e seria preciso fazer revisão de provas (AgRg no AREsp 397.594/DF, Rel. Ministro JORGE MUSSI , QUINTA TURMA, julgado em 10/03/2015, DJe 17/03/2015; AgRg no REsp 1511314/PB , Rel. Ministro SEBASTIÃO REIS JÚNIOR , SEXTA TURMA, julgado em 04/08/2015, DJe 20/08/2015; AgRg no AREsp 734.116/RO , Rel. Ministro REYNALDO SOARES DA FONSECA , QUINTA TURMA, julgado em 17/12/2015, DJe 02/02/2016; AgRg no AREsp 284.830/MG , Rel. Ministro NEFI CORDEIRO , SEXTA TURMA, julgado em 03/12/2015, DJe 15/12/2015)
+Dessa maneira, é perfeitamente cabível afastar o impedimento da Súmula 7 sempre que a parte demonstrar que o debate é estritamente jurídico, baseando-se apenas nos fatos já fixados e delimitados no próprio acórdão recorrido.
+No caso concreto, é possível vislumbrar a moldura fática sem a necessidade de revolvimento probatório.
+Como cediço, a prática de falta grave nos doze meses anteriores à publicação do decreto impede a concessão do indulto, conforme o art. 6º do Decreto n. 11.846/2023. A homologação da falta grave pode ocorrer após a publicação do decreto, desde que a falta tenha sido cometida dentro do prazo estipulado.
+Assim, a falta grave cometida no período previsto pelo Decreto, desde que devidamente apurada e homologada em qualquer momento, contanto que não esteja prescrita, impede a concessão do benefício, conforme o art. 6º, caput, do Decreto nº 11.846/23 (STJ - REsp: 00000000000002251552, de minha relatoria, Data de Julgamento: 03/03/2026, Data de Publicação: DJEN 03/03/2026)
+Compulsando os autos, verifica-se que no presente caso há necessidade de apurar se a falta grave havia sido homologada à época, haja vista que, a simples instauração de procedimento para apuração de falta grave não serve para afastar o preenchimento do requisito subjetivo para a concessão do benefício de comutação de pena.
+Assim sendo, conheço do agravo para dar provimento ao recurso especial para afastar a comutação de pena concedida, até que seja apurada e, caso evidenciada, homologada a falta grave que lhe foi atribuída.
+Publique-se. Intimem-se.
+EMENTA
