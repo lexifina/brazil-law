@@ -1,0 +1,12 @@
+DECISÃO
+Trata-se de agravo de decisão que não admitiu recurso especial, fundado no art. 105, inciso III, alínea "a", da Constituição Federal, interposto por JOSÉ DE ESCOBAR BERTASO em face de acórdão proferido pelo Tribunal de Justiça do Estado do Rio Grande do Sul, assim ementado:
+AGRAVO INTERNO EM AGRAVO DE INSTRUMENTO. RESPONSABILIDADE CIVIL. EXTINÇÃO DO FEITO. TRÂNSITO EM JULGADO. AJUIZAMENTO DE RECLAMAÇÃO PELA PARTE AUTORA. DECLINAÇÃO PARA O STJ. IMPULSIONAMENTO DA DEMANDA. ÔNUS DO AUTOR. DECISÃO QUE NEGA O IMPULSO OFICIAL. AUSÊNCIA DE HIPÓTESE LEGAL DE CABIMENTO. ROL TAXATIVO DO ART. 1015 DO CPC. DECISÃO MANTIDA. 1) Trata-se de agravo interno interposto em face da decisão monocrática que não conheceu do agravo de instrumento, por ausência de previsão do rol taxativo do art. 1.015 do CPC. 2 ) As razões recursais trazidas no presente agravo interno não trazem argumento novo capaz de modificar o entendimento adotado na decisão agravada, apenas reedita a tese anterior, motivo pelo qual a decisão não merece reparo. 3) O agravo de instrumento, em que pese tenha se insurgido sobre o juízo competente para julgar a demanda, o fez pela via recursal inadequada, uma vez que a matéria discutida não se enquadra no rol taxativo do artigo 1.015 do CPC. Ademais, não há urgência apta a justificar a mitigação da taxatividade do referido dispositivo, nos termos do Tema 988 do STJ. 4) Dessa forma, o desprovimento do recurso é medida que se impõe. AGRAVO INTERNO DESPROVIDO
+No recurso especial, o agravante alega que o acórdão violou o art. 2º do Código de Processo Civil.
+Às fls. 86-90, o Tribunal de origem negou seguimento ao recurso especial, por entender que o acórdão está em consonância com o Tema 988/STJ. Em face da decisão, o agravante interpôs o presente agravo em recurso especial.
+Assim, delimitada a controvérsia, passo a decidir.
+Observo que o Tribunal de origem negou seguimento ao recurso especial interposto pelo agravante, na forma do art. 1.030, inciso I, do Código de Processo Civil, por entender que o acórdão está em consonância com o Tema 988/STJ.
+Dessa forma, o recurso cabível seria o agravo interno, conforme prescreve o art. 1.030, § 2º, do CPC, e não o agravo em recurso es pecial.
+Em face do exposto, não conheço do agravo em recurso especial.
+Deixo de majorar os honorários nos termos do art. 85, § 11, do Código de Processo Civil, visto que o recurso especial foi interposto nos autos de agravo de instrumento que ataca decisão interlocutória.
+Intimem-se.
+EMENTA
