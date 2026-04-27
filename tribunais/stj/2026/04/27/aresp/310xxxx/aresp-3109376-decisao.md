@@ -1,0 +1,8 @@
+DECISÃO
+Encontra-se afetado no Supremo Tribunal Federal (STF), aguardando julgamento com repercussão geral reconhecida (Tema 1.255), o Recurso Extraordinário n. 1.412.069, cuja questão constitucional submetida a julgamento se refere à "possibilidade da fixação dos honorários por apreciação equitativa (artigo 85, § 8º, do Código de Processo Civil) quando os valores da condenação, da causa ou o proveito econômico da demanda forem exorbitantes", situação que abarca o objeto recursal deste feito.
+Assim, por ora, o processo não pode ser julgado pelo Superior Tribunal de Justiça (STJ), impondo-se a devolução dos autos à instância de origem, para o sobrestamento do recurso especial, até que ocorra a apreciação da matéria pelo Pretório Excelso. É apropriado, pois, aguardar a decisão definitiva sobre o referido tema, com o regular e futuro juízo de conformação pela Corte a quo ou o desfazimento da decisão com a realização de novo juízo de admissibilidade, à luz do que dispõem os arts. 1.040 e 1.041, ambos do CPC.
+Afinal, o julgamento da questão pelo STJ, neste momento, poderia resultar na prolação de um provimento jurisdicional em desconformidade com o entendimento a ser firmado pelo STF, colocando em risco a segurança jurídica e a harmonia entre as decisões judiciais, revelando-se, então, prematuro.
+Pelo exposto, determino a devolução dos autos, com a devida baixa nesta Corte Superior, a fim de que, em observância aos arts. 1.039 a 1.041 do Código de Processo Civil (CPC), após a publicação do acórdão do recurso representativo da controvérsia, o Tribunal de origem proceda nos termos do art. 1.040 e seguinte do mesmo CPC.
+Publique-se.
+Intimem-se.
+EMENTA
