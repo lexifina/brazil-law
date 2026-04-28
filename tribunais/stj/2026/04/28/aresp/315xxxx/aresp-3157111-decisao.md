@@ -1,0 +1,21 @@
+DECISÃO
+Cuida-se de agravo interposto por ANTONIO BASSO & FILHOS LTDA. contra decisão que obstou a subida de recurso especial.
+Extrai-se dos autos que o agravante interpôs recurso especial, com fundamento no art. 105, III, "a", da Constituição Federal, contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DO PARANÁ cuja ementa guarda os seguintes termos (fls. 620-629):
+DIREITO CIVIL E DIREITO PROCESSUAL CIVIL. APELAÇÃO CÍVEL. INEXISTÊNCIA DE DÉBITO E INDENIZAÇÃO POR DANOS MORAIS. RECURSO DE APELAÇÃO CONHECIDO E NÃO PROVIDO, MANTENDO-SE A SENTENÇA QUE RECONHECEU A INEXISTÊNCIA DO DÉBITO QUE ORIGINOU O PROTESTO E DETERMINOU O PAGAMENTO DE INDENIZAÇÃO POR DANOS MORAIS NO IMPORTE DE R$10.000,00 (DEZ MIL REAIS). I. CASO EM EXAME 1. Apelação cível visando a reforma de sentença que julgou procedente a ação de tutela antecipada, declarando a inexistência de débito que originou protesto e condenando a empresa requerida ao pagamento de indenização por danos morais no valor de R$ 10.000,00, sob a alegação de que a responsabilidade pelo transporte da mercadoria era da apelada, em razão da contratação na modalidade "free on board" (FOB). II. QUESTÃO EM DISCUSSÃO 2. A questão em discussão consiste em saber se a empresa requerida deve ser responsabilizada pelo pagamento de indenização por danos morais em razão de protesto indevido, considerando a alegação de que o frete foi contratado na modalidade "free on board" (FOB) e a inexistência de comprovação dessa cláusula. III. RAZÕES DE DECIDIR 3. A empresa apelante não comprovou a existência da cláusula "free on board" (FOB), o que a torna responsável pelo extravio da mercadoria. 4. O protesto indevido gerou o dever de indenização por danos morais, que é configurado independentemente da análise de ofensa à honra objetiva da empresa. 5. O valor da indenização por danos morais foi considerado adequado e proporcional às circunstâncias do caso. IV. DISPOSITIVO E TESE 6. Apelação cível conhecida e não provida. Tese de julgamento: A ausência de comprovação da cláusula "free on board" (FOB) em contrato de transporte implica na responsabilidade do vendedor pelos riscos até a entrega da mercadoria, sendo cabível a indenização por danos morais em caso de protesto indevido, independentemente de outras restrições de crédito da parte prejudicada.
+Sem embargos de declaração.
+No recurso especial, aduz, no mérito, que o acórdão contrariou as disposições contidas no artigo 373 do CPC.
+Sustenta, em síntese, que o acórdão recorrido exigiu da recorrente a comprovação negativa da inexistência de responsabilidade pelo extravio da carga e que a adoção da cláusula FOB (Free On Board) transfere ao comprador os riscos e custos do transporte a partir da entrega da mercadoria à transportadora.
+Foram oferecidas contrarrazões ao recurso especial (fls. 658-666).
+Sobreveio o juízo de admissibilidade negativo na instância de origem (fls. 669-671), o que ensejou a interposição do presente agravo.
+Apresentada contraminuta do agravo (fls. 698-706).
+É, no essencial, o relatório.
+Atendidos os pressupostos de admissibilidade do agravo, passo ao exame do recurso especial.
+Cuida-se de insurgência da recorrente sobre distribuição do ônus probatório.
+Aduz a recorrente que teria havido a distribuição invertida do ônus probatório sem decisão fundamentada ou aplicação do artigo 373, § 1º, do CPC.
+O acórdão recorrido não se manifestou acerca do art. 373 do CPC, indicado como violado, não tendo a agravante oposto embargos de declaração com vistas a suprir eventual omissão perpetrada pelo Tribunal de origem. Por isso, o julgamento do recurso especial é inadmissível. Aplica-se, na hipótese, a Súmula 356/STF.
+Nos termos da jurisprudência pacífica do STJ, é inviável o conhecimento do recurso especial quando os artigos tidos por violados não foram apreciados pelo Tribunal de origem.
+Ressalta-se que, na instância especial, a apreciação de ofício de matéria, mesmo de ordem pública, não dispensa o requisito do prequestionamento (AgInt nos EAREsp n. 1.327.393/MA, relator Ministro Felix Fischer, Corte Especial, DJe de 18/12/2020).
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Nos termos do art. 85, § 11, do CPC, majoro os honorários fixados em desfavor da parte recorrente para 15% sobre o valor atualizado do proveito econômico.
+Publique-se. Intime-se.
+ EMENTA
