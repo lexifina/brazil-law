@@ -1,0 +1,32 @@
+DECISÃO
+Trata-se de agravo interposto contra decisão da Corte de origem que não admitiu o recurso especial em razão da inexistência de ofensa ao artigos 489 e 1.022 do CPC/15 e incidência da Súmula 284 do STF.
+O apelo nobre obstado enfrenta acórdão, assim ementado (fls. 372/373):
+Tributário e processual civil. Embargos à execução fiscal. Prescrição intercorrente. Não configurada. Ausência de desídia da fazenda pública. Ação declaratória em Vara da Fazenda Pública. Suspensão da execução fiscal. Impertinência. Competência absoluta da Vara especializada em execuções fiscais. Temas não abordados na origem. Impossibilidade de apreciação. Princípio do duplo grau obrigatório de jurisdição. Apelo desprovido.
+I. Caso em exame
+1. Apelação interposta contra sentença que rejeitou os embargos à execução fiscal, determinando o prosseguimento da execução fiscal n.º referente a créditos tributários de Imposto Sobre Serviços de Qualquer Natureza - ISSQN.
+II. Questão em discussão
+2. Discute-se, preliminarmente, a ocorrência de prescrição intercorrente na execução fiscal, bem como a possibilidade de suspensão da execução fiscal em decorrência de ação declaratória em curso em Vara da Fazenda Pública.
+III. Razões de decidir
+3. Prescrição intercorrente não configurada, nos termos do art. 40 da Lei de Execução Fiscal, considerando a ausência de inércia do ente público, que se manifestou tempestivamente quando instado, realizando todos os atos necessários à satisfação do crédito. Aplicação da Súmula 106 do STJ, que afasta a prescrição quando decorrente de motivos inerentes ao mecanismo da Justiça.
+4. Competência do Município do Recife para a cobrança do ISSQN sobre os serviços prestados pelo apelante foi reconhecida em ação declaratória, conforme acórdão do Tribunal de Justiça do Estado de São Paulo, mantido pela Segunda Turma do Superior Tribunal de Justiça no AInt no REsp n.º 1977693/SP. Impossibilidade de suspensão da execução fiscal com fundamento em ação declaratória que tramita em Vara da Fazenda Pública, visto que esta não detém a competência absoluta para processamento das execuções fiscais, atribuída à Vara Especializada em Execuções Fiscais pelo art. 80 do Código de Organização Judiciária do Estado de Pernambuco (LCE n.º 100/2007). Jurisprudência pacífica do STJ.
+5. Inviabilidade de apreciação de questões referentes à multa, correção monetária e juros moratórios postos na CDA, tendo em vista a ausência de discussão desses pontos na instância originária, em respeito ao princípio do duplo grau de jurisdição e sob pena de supressão de instância.
+IV. Dispositivo e tese
+6. Apelação desprovida.
+Tese de julgamento:
+"(I) A prescrição intercorrente em execução fiscal somente se caracteriza mediante demonstração da inércia do exequente na prática de atos necessários ao prosseguimento do feito, sendo inaplicável quando a paralisação decorre de motivos inerentes ao mecanismo da Justiça (Súmula 106/STJ). (II) A competência da Vara de Execuções Fiscais é absoluta, não sendo cabível suspensão do feito executivo em razão de ação declaratória em trâmite na Vara da Fazenda Pública.".
+Embargos de declaração rejeitados.
+No recurso especial, a recorrente alega violação dos artigos 489 e 1.022 do CPC/15, ao argumento de que o Tribunal de origem deixou de sanar contradição relevante, consistente no fato de ter analisado a prescrição intercorrente, matéria de ordem pública, e, ao mesmo tempo, afastado a apreciação da correção monetária e dos juros moratórios, igualmente qualificados como matérias de ordem pública.
+Quanto às questões de fundo, aponta violação ao artigo 13 da Lei n. 9.065/1995, defendendo que os juros moratórios devem observar a taxa SELIC, bem como que a correção monetária e os juros integram pedidos implícitos, passíveis de apreciação de ofício, não havendo falar em supressão de instância.
+Com contrarrazões.
+Neste agravo afirma que seu recurso especial satisfaz os requisitos de admissibilidade e que não se encontram presentes os óbices apontados na decisão agravada.
+É o relatório. Decido.
+Consigne-se inicialmente que o recurso foi interposto contra decisão publicada na vigência do Código de Processo Civil de 2015, devendo ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+Tendo a parte insurgente impugnado os fundamentos da decisão agravada, passo ao exame do recurso especial.
+Com efeito, o recorrente pretende a anulação do acórdão proferido pela Corte de origem em sede de embargos de declaração sob o argumento que remanesce contraditório o julgamento da controvérsia.
+Extrai-se dos autos que a recorrente suscitou, em sede de embargos de declaração, contradição no acórdão recorrido, consistente no fato de o Tribunal de origem ter analisado a prescrição intercorrente, reconhecidamente matéria de ordem pública, e, simultaneamente, ter se recusado a examinar os temas relativos à correção monetária e aos juros moratórios, sob o fundamento de supressão de instância, embora igualmente se tratem de matérias de ordem pública.
+Com efeito, evidencia-se que a questão suscitada guarda correlação lógico-jurídica com a pretensão deduzida nos autos e se apresenta imprescindível à satisfação da tutela jurisdicional.
+A falta de manifestação a respeito de questão necessária à resolução integral da demanda autoriza o acolhimento de ofensa ao artigo 1.022 do CPC/15, enseja a anulação do acórdão proferido em sede de embargos de declaração e torna indispensável o rejulgamento dos aclaratórios. A propósito: AgInt no REsp 1.921.251/PR, relator Ministro Sérgio Kukina, Primeira Turma, DJe 15/12/2023; AgInt no REsp 2.012.744/MS, relator Ministro Benedito Gonçalves, Primeira Turma, DJe 18/10/2023; AgInt nos EDcl no REsp 2.024.125/SP, relator Ministro Paulo Sérgio Domingues, Primeira Turma, DJe 30/8/2023; AgInt no REsp 2.020.066/RN, relator Ministro Gurgel de Faria, Primeira Turma, DJe 19/5/2023.
+Ante o exposto, conheço do agravo para dar provimento ao recurso especial, tornando nulo o acórdão proferido no julgamento dos embargos de declaração, a fim de que a Corte de origem aprecie a matéria articulada nos aclaratórios.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. ARTIGO 1.022 DO CPC/15. OFENSA CARACTERIZADA. QUESTÃO NÃO EXAMINADA E IMPRESCINDÍVEL À SOLUÇÃO DA CONTROVÉRSIA. AGRAVO CONHECIDO PARA DAR PROVIMENTO AO RECURSO ESPECIAL.
