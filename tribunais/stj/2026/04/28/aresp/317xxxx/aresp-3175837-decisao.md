@@ -1,0 +1,66 @@
+DECISÃO
+Cuida-se de agravo (art. 1.042 do CPC), interposto por VALDEMIR CANDIDO DE MOURA, contra decisão que não admitiu recurso especial.
+O apelo extremo, fundamentado nas alíneas a e c do permissivo constitucional, desafiou acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, assim ementado (fl. 396, e-STJ):
+DIREITO CIVIL. APELAÇÃO. PLANO DE SAÚDE. FORNECIMENTO DE MEDICAMENTO DOMICILIAR PARA TRATAMENTO DE PATOLOGIA NÃO ONCOLÓGICA. DANOS MORAIS. SENTENÇA DE PROCEDÊNCIA. RECURSO DA OPERADORA PROVIDO.
+I. Caso em Exame: Ação de obrigação de fazer cumulada com indenização por danos morais proposta pelo segurado em face de operadora de plano de saúde, visando ao fornecimento do medicamento Rituximabe para tratamento de pênfigo vulgar e indenização por danos morais devido à negativa de cobertura.
+II. Questão em Discussão: A questão em discussão consiste em verificar a obrigatoriedade da operadora de plano de saúde em fornecer medicamento de uso domiciliar para patologia autoimune, não oncológica. Ainda, verifica-se, subsidiariamente, a existência de danos morais pela negativa de cobertura.
+III. Razões de Decidir: Em que pese a não taxatividade do Rol da ANS, a operadora de plano de saúde não é obrigada a fornecer medicamento não constante do rol para patologia não oncológica, conforme entendimento do C. STJ. A negativa de cobertura foi fundamentada no contrato e nas normas da ANS, não configurando danos morais.
+IV. Dispositivo: Recurso provido. Redistribuição das verbas de sucumbência, ressalvada a gratuidade processual concedida à parte autora. Honorários recursais não majorados, em atenção ao tema 1059 do C. STJ.
+Opostos embargos de declaração, foram rejeitados nos termos do acórdão de fls. 420-426, e-STJ.
+Nas razões de recurso especial (fls. 529-543, e-STJ), aponta a parte recorrente ofensa aos seguintes dispositivos: arts. 1.022, II, e 489, § 1º e incisos, do CPC; arts. 373, II, e 1.013 e incisos, do CPC; arts. 6º, VIII, e 117 do CDC; art. 247 do CC.
+Sustenta, em síntese: negativa de prestação jurisdicional por omissão no enfrentamento dos pontos suscitados nos embargos de declaração (arts. 1.022, II, e 489, § 1º, do CPC); julgamento extra petita ao afastar a obrigação de fornecimento do medicamento com fundamento em "uso domiciliar", não deduzido no recurso de apelação; violação ao CDC (arts. 6º, VIII, e 117), à luz da hipossuficiência técnica do consumidor e da taxatividade mitigada do rol da ANS (Lei 14.454/2022); malferimento dos arts. 373, II, e 1.013 do CPC; dissídio jurisprudencial quanto à obrigatoriedade de cobertura do Rituximabe de uso intravenoso e não domiciliar, com precedentes que reconhecem a cobertura obrigatória do MabThera 500 mg.
+Contrarrazões apresentadas às fls. 520-523, e-STJ.
+Em juízo de admissibilidade (fls. 524-526, e-STJ), negou-se o processamento do recurso especial, dando ensejo ao presente agravo (fls. 529-543, e-STJ).
+Contraminuta apresentada às fls. 546-548, e-STJ.
+É o relatório.
+Decido.
+A irresignação merece prosperar.
+1. A controvérsia diz respeito à ação de obrigação de fazer c/c reparação por danos morais em que a parte autora pleiteia o fornecimento pela operadora do plano de saúde do medicamento Rituximabe
+A Segunda Seção do STJ, ao apreciar os EREsps n. 1.886.929/SP e 1.889.704/SP, firmou a compreensão de que o rol de procedimentos e eventos em saúde suplementar da ANS ostenta caráter de taxatividade mitigada, admitindo-se a sua relativização em hipóteses excepcionais, desde que devidamente comprovadas.
+Nessa linha, a cobertura de procedimentos ou medicamentos não incluídos no referido rol deve ser examinada à luz das circunstâncias específicas de cada caso, sendo possível sua admissão em caráter excepcional quando amparada por critérios técnicos idôneos que evidenciem a eficácia do tratamento com base em evidências científicas.
+Posteriormente, os parâmetros para afastamento da taxatividade do rol da ANS, já delineados nos mencionados julgados, foram incorporados ao ordenamento jurídico pela Lei n. 14.454/2022, a qual promoveu a inclusão dos §§ 12 e 13 no art. 10 da Lei n. 9.656/1998, estabelecendo balizas para a cobertura, pelos planos de saúde, de exames e tratamentos não constantes do rol de procedimentos e eventos em saúde suplementar.
+Assim, ao disciplinar tais critérios, a Lei n. 14.454/2022 passou a admitir a cobertura de procedimentos e tratamentos não previstos no rol da ANS, desde que demonstrada, no caso concreto, a excepcionalidade da situação.
+Na presente hipótese, observa-se que a sentença, com base em critérios técnicos, demonstrou a existência de excepcional necessidade de cobertura.
+Isso porque, constatou-se, dentre outros elementos, o esgotamento dos medicamentos previstos no rol da ANS, a eficácia do tratamento à luz da medicina baseada em evidências e sua recomendação no caso concreto:
+O autor foi diagnosticado com doença autoimune rara, chamada pênfigo vulgar, e, segundo atesta o médico que lhe assiste, "apresenta lesões bolhosas e exulcerações na cavidade na cavidade oral, face e tronco, com início em junho/2019, com diagnóstico clínico de pênfigo vulgar comprovado por biopsia de pele em 03.09.2019. As lesões são dolorosas, dificultando necessidades básicas como alimentação com alimentos sólidos, higiene da cavidade oral, movimentos para falar, diminuindo muito a qualidade de vida." O parecer do médico também informa quanto a insucesso dos métodos convencionais já empregados e justifica a indicação do Rituximabe: "Atualmente, VALDEMIR CANDIDO DE MOURA está em uso de prednisona na dose de 40 mg/dia associado a micofenalto de mofetila 1g/dia (há 6 meses) com resposta clínica parcial e insatisfatória. Apresenta muitas lesões ativas na face e cavidade oral. Devido ao impacto acentuado na qualidade de vida e do caráter crônico da doença(pênfigo vulgar), com possível evolução para cicatrizes, muitas vezes dolorosas, com risco de desnutrição e diminuição da qualidade de vida, indico o uso de rituximabe." Por sua vez, as conclusões da perícia técnica realizada não contradizem essa indicação, confira: "Considerando que, de acordo com a médica assistente, o paciente faz uso de micofenolato de mofetila e altas doses corticoide oral, sem resposta satisfatória; e tem relato de uso prévio de dapsona, sem sucesso no tratamento das lesões cutâneas e sem remissão do quadro; Considerando os dados obtidos em ensaios clínicos, que mostram uma eficácia equivalente com uso do rituximabe ou com a terapia convencional; Considerando que ainda não foram esgotadas as opções de tratamento, dentre as disponíveis no SUS; Este NATJUS conclui que a demanda pela medicação Rituximabe para o tratamento de Pênfigo Vulgar refratário às terapias convencionais como JUSTIFICADA COM RESSALVAS. " (fl. 328 - item 3. Conclusão justificada) De outro norte, o fato de não constar no rol da ANS, ou mesmo do contrato ou das Resoluções Normativas da ANS, não significa que o segurado não tem direito à referida cobertura.
+Na mesma linha são os precedentes desta Corte envolvendo a mesma doença e o mesmo medicamento ora pleiteado:
+DIREITO DO CONSUMIDOR. AGRAVO EM RECURSO ESPECIAL. PLANO DE SAÚDE. FORNECIMENTO DE MEDICAMENTO DE USO DOMICILIAR E CERCEAMENTO DE DEFESA. AGRAVO EM RECURSO ESPECIAL DESPROVIDO. I. CASO EM EXAME
+1.
+Agravo em recurso especial interposto contra decisão que inadmitiu o recurso especial diante da ausência de demonstração de violação do art. 10, VI, da Lei n. 9.656/1998 e da não comprovação da similitude fática entre o acórdão recorrido e o acórdão paradigma . 2. A controvérsia versa sobre ação com pedido de fornecimento de medicamento c/c tutela de urgência, envolvendo medicamento prescrito para uso domiciliar e cláusula contratual de exclusão de cobertura.
+3. Na sentença, o Juízo de primeiro grau julgou procedente o pedido, confirmou a tutela de urgência, condenou a operadora de saúde ao fornecimento do medicamento e fixou multa diária, além de honorários advocatícios.
+4. A Corte a quo manteve a condenação, modificou o fundamento para aplicar proporcionalidade e direito à saúde e majorou os honorários. II. QUESTÃO EM DISCUSSÃO
+5.
+Há três questões em discussão: (i) saber se houve cerceamento de defesa pelo indeferimento da produção de provas, à luz do art. 7º do CPC; (ii) saber se o acórdão contrariou o art. 10, VI, da Lei n. 9.656/1998 ao impor cobertura para medicamento de uso domiciliar; e (iii) saber se há divergência jurisprudencial, notadamente com o decidido no REsp n. 1.692.938/SP.
+III. RAZÕES DE DECIDIR
+6. Quanto ao cerceamento de defesa, a instância ordinária apreciou a questão e concluiu pela suficiência da prova documental. A revisão demandaria reexame do conjunto fático-probatório, hipótese vedada em recurso especial. Aplica-se ao caso a Súmula n. 7 do STJ.
+7. Sobre o art. 10, VI, da Lei n. 9.656/1998, a tese não foi debatida no acórdão recorrido e não houve embargos de declaração para provocar o prequestionamento. Incide a Súmula n. 282 do STF. Ademais, o acórdão firmou-se apenas em fundamento constitucional autônomo e suficiente (art. 196 da Constituição), mas a parte não interpôs recurso extraordinário, atraindo a incidência da Súmula n. 126 do STJ. 8.
+Não se conhece do dissídio jurisprudencial quando o recurso pela alínea a está obstado por óbices processuais na mesma questão jurídica.
+IV. DISPOSITIVO E TESE
+9. Agravo em recurso especial desprovido.
+Tese de julgamento: "1. A Súmula n. 7 do STJ obsta o reexame do conjunto fático-probatório no tocante à alegação de cerceamento de defesa. 2. Incide a Súmula n. 282 do STF quando o tribunal de origem não analisa a tese acerca do art. 10, VI, da Lei n. 9.656/1998. 3. Aplica-se a Súmula n. 126 do STJ quando o acórdão recorrido funda-se em fundamento constitucional suficiente não impugnado por recurso extraordinário. 4. Não se conhece do dissídio jurisprudencial quando o conhecimento do recurso pela alínea a está obstado por óbices processuais na mesma questão".
+Dispositivos relevantes citados: CF, art. 196; CPC, arts. 7º e 85, § 11; Lei n. 9.656/1998, art. 10, VI; Lei n. 9.961/2000, arts. 3º e 4º.
+Jurisprudência relevante citada: STJ, Súmulas n. 7 e 126; STF, Súmula n. 282; STJ, AgInt no AREsp n. 2.272.275/RJ, relator Ministro Humberto Martins, Terceira Turma, julgado em 7/10/2024; STJ, AgInt no REsp n. 2.042.970/PR, relator Ministro Benedito Gonçalves, Primeira Turma, julgado em 16/10/2023; STJ, AgInt no REsp n. 1.900.682/SP, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 29/3/2021.
+(AREsp n. 2.368.086/SP, relator Ministro João Otávio de Noronha, Quarta Turma, julgado em 9/2/2026, DJEN de 13/2/2026.)
+DIREITO DO CONSUMIDOR E CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. PLANO DE SAÚDE. FORNECIMENTO DE MEDICAMENTO. ROL DA ANS. DANO MORAL. RECURSO IMPROVIDO.
+I. CASO EM EXAME
+1. Agravo interno interposto contra decisão monocrática que negou provimento a recurso especial manejado por operadora de plano de saúde contra acórdão do Tribunal de Justiça do Estado de São Paulo, que reconheceu a obrigatoriedade de custeio de medicamento prescrito (Rituximabe) para tratamento de pênfigo vulgar, mesmo não previsto no rol da ANS, e manteve condenação ao pagamento de indenização por danos morais fixada em R$ 7.000,00.
+II. QUESTÃO EM DISCUSSÃO
+2. Há duas questões em discussão:
+(i) saber se é obrigatória a cobertura de medicamento não previsto no rol da ANS, mas registrado na ANVISA e prescrito por médico assistente;
+(ii) saber se a recusa injustificada de cobertura configura dano moral indenizável, com valor fixado pelas instâncias ordinárias.
+III. RAZÕES DE DECIDIR
+3. A jurisprudência do STJ é pacífica no sentido de que o rol da ANS é exemplificativo, podendo ser mitigado quando preenchidos os requisitos legais do art. 10, §13, da Lei nº 9.656/1998, com redação da Lei nº 14.454/2022.
+4. A operadora não demonstrou a existência de tratamento alternativo eficaz e coberto, ônus que lhe incumbia.
+5. A negativa de custeio de medicamento necessário e registrado na ANVISA caracteriza abusividade contratual, nos termos do CDC, art. 51, IV.
+6. A recusa injustificada de cobertura agrava o sofrimento do segurado, justificando a indenização por danos morais arbitrada pelas instâncias ordinárias.
+7. A alteração das conclusões quanto à configuração do dano moral e ao valor da indenização demandaria reexame do acervo fático-probatório, vedado pela Súmula nº 7 do STJ.
+8. A decisão agravada está em conformidade com jurisprudência consolidada, atraindo a aplicação da Súmula nº 83 do STJ.
+IV. DISPOSITIVO
+9. Agravo interno desprovido.
+(AgInt no REsp n. 2.241.316/SP, relatora Ministra Daniela Teixeira, Terceira Turma, julgado em 23/3/2026, DJEN de 26/3/2026.)
+Portanto, merece reforma o acórdão recorrido a fim de condenar a requerida à dispensação do medicamento MABTHERA (RITUXIMABE) - 4 frascos de 500mg/50ml, a ser aplicado 2 ampolas IV em infusão lenta, obrigação que foi cumprida no curso do processo.
+No que tange os danos morais, decidiu a sentença que na hipótese ultrapassou o mero dissabor sendo devida a condenação, o que se amolda ao Tema 1.365 do STJ.
+2. Do exposto, conheço do agravo para dar provimento ao recurso especial a fim restabelecer a sentença.
+Publique-se.
+Intimem-se.
+EMENTA
