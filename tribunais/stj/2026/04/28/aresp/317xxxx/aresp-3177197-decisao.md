@@ -1,0 +1,16 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por GILLIARD DA SILVA contra a decisão do Tribunal de Justiça do Estado de São Paulo que inadmitiu recurso especial apresentado contra o acórdão exarado no julgamento da Apelação Criminal n. 1500544-08.2023.8.26.0583.
+O Ministério Público Federal apresentou parecer opinando pelo desprovimento do agravo (fls. 899/901).
+É o relatório.
+O agravo é inadmissível.
+Inicialmente, esclareço que a decisão que inadmite o recurso especial na origem não é formada por capítulos autônomos, mas por um único dispositivo, razão pela qual deve ser impugnada na sua integralidade, ou seja, em todos os seus fundamentos, inclusive de forma específica, suficiente e pormenorizada, não sendo suficientes meras alegações genéricas ou relativas ao mérito da controvérsia, sob pena de incidência do óbice da Súmula 182/STJ (AgRg nos EDcl no AREsp n. 2.985.942/MA, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 16/9/2025, DJEN de 25/9/2025).
+Ao que se observa, o Tribunal de origem inadmitiu o apelo nobre pelos seguintes fundamentos: 1) incidência da Súmula 283/STF, por entender que o recurso especial não impugnou todos os fundamentos suficientes do acórdão recorrido; e 2) incidência da Súmula 7/STJ, por demandar reexame do conjunto fático-probatório (fls. 830/831).
+Todavia, a parte agravante, nas razões do agravo em recurso especial, não impugnou, de maneira específica, a íntegra da decisão de inadmissão.
+Nas razões do agravo em recurso especial, persistiram sem enfrentamento concreto e específico, no que toca ao capítulo do tráfico de drogas: 1) a inferência negativa extraída da prática de apagar mensagens, tomada como indicativa de atividade ilícita; 2) a valoração das imagens de armas de fogo e de substância com aparência de entorpecente localizadas nos celulares; 3) a credibilidade e suficiência dos depoimentos policiais, reputados idôneos e convergentes, com presunção de legitimidade; e 4) o peso atribuído à denúncia anônima no contexto probatório.
+Além disso, o agravo limitou-se a afirmar, em termos genéricos, a possibilidade de mera revaloração jurídica e a existência de impugnação total, sem demonstrar, de modo claro e pormenorizado, a inaplicabilidade concreta dos óbices apontados, especialmente quanto à Súmula 7/STJ, que incide quando a reversão da conclusão das instâncias ordinárias exige revolvimento probatório.
+Por conseguinte, aplica-se, à hipótese dos autos, o art. 932, inciso III, do Código de Processo Civil, c/c o art. 3º do Código de Processo Penal, e a Súmula 182/STJ por analogia.
+Ante o exposto, em consonância com o parecer ministerial, não conheço do agravo em recurso especial.
+Publique-se.
+EMENTA
+DIREITO PENAL E PROCESSUAL PENAL. AGRAVO EM RECURSO ESPECIAL. TRÁFICO DE DROGAS. INADMISSIBILIDADE POR AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DA DECISÃO DE INADMISSÃO. DECISÃO UNA SEM CAPÍTULOS AUTÔNOMOS. NECESSIDADE DE IMPUGNAÇÃO INTEGRAL. ÓBICES DAS SÚMULAS 182/STJ (ANALOGIA), 283/STF E 7/STJ. IMPUGNAÇÃO GENÉRICA. PRETENSÃO DE MERA REVALORAÇÃO NÃO DEMONSTRADA. ELEMENTOS NÃO ENFRENTADOS: APAGAMENTO DE MENSAGENS. IMAGENS DE ARMAS E ENTORPECENTES. DEPOIMENTOS POLICIAIS. DENÚNCIA ANÔNIMA. REVOLVIMENTO PROBATÓRIO. PARECER MINISTERIAL PELO NÃO CONHECIMENTO.
+Agravo em recurso especial não conhecido.
