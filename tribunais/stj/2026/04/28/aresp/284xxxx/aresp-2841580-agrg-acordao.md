@@ -1,0 +1,108 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da CORTE ESPECIAL do Superior Tribunal de Justiça, em Sessão Virtual de 22/04/2026 a 28/04/2026, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Mauro Campbell Marques, Benedito Gonçalves, Raul Araújo, Maria Isabel Gallotti, Antonio Carlos Ferreira, Ricardo Villas Bôas Cueva, Sebastião Reis Júnior, Francisco Falcão, Nancy Andrighi, João Otávio de Noronha, Humberto Martins, Maria Thereza de Assis Moura e Og Fernandes votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Presidente do STJ.
+EMENTA
+AGRAVO REGIMENTAL. RECURSO EXTRAORDINÁRIO. FUNDAMENTAÇÃO DO JULGADO RECORRIDO. SUFICIÊNCIA. TEMA N. 339 DO STF. CONFORMIDADE COM A TESE FIXADA EM REPERCUSSÃO GERAL. OFENSA AOS PRINCÍPIOS DO CONTRADITÓRIO E DA AMPLA DEFESA. AUSÊNCIA DE REPERCUSSÃO GERAL. TEMA N. 660 DO STF. ART. 1.030, I, A, DO CPC.
+I. CASO EM EXAME
+1.1. Agravo regimental interposto contra decisão que negou seguimento a recurso extraordinário, sob o fundamento de que o acórdão recorrido estaria em conformidade com a tese fixada pelo STF no Tema n. 339 da repercussão geral, bem como na ausência de repercussão geral em matéria que envolve a suposta ofensa aos princípios do contraditório, da ampla defesa, do devido processo legal e da segurança jurídica, bem como ao ato jurídico perfeito, ao direito adquirido e aos limites da coisa julgada, conforme definido no Tema n. 660 do STF.
+1.2. A parte agravante alegou a inaplicabilidade do Tema n. 339 ao caso, argumentando que não houve fundamentação adequada no acórdão recorrido quanto às matérias suscitadas, o que configuraria ofensa ao texto constitucional.
+1.3. Sustenta que o Tema n. 660 do STF não se aplica ao caso dos autos, afirmando que houve violação direta dos princípios constitucionais apontados.
+II. QUESTÕES EM DISCUSSÃO
+2.1. A existência de afronta ao art. 93, IX, da Constituição Federal quando se discute a suficiência da fundamentação das decisões judiciais, com aplicabilidade do Tema n. 339 do STF.
+2.2. A aplicabilidade do Tema n. 660 do STF ao caso em que se discute a suposta ofensa aos princípios constitucionais, quando a análise depende de normas infraconstitucionais.
+III. RAZÕES DE DECIDIR
+3.1. O STF, ao tratar do Tema n. 339 da repercussão geral, firmou a tese de que a Constituição Federal exige que acórdãos e decisões sejam fundamentados, ainda que sucintamente, sem vinculação à correção ou abrangência detalhada de todas as alegações das partes, mas à existência de motivação que permita a compreensão da solução dada à controvérsia.
+3.2. No caso concreto, o acórdão recorrido apresentou motivação adequada para a solução da controvérsia, em conformidade com o Tema n. 339, razão pela qual é justificada a negativa de seguimento ao recurso extraordinário nos termos do art. 1.030, I, a, do CPC.
+3.3 O STF, no Tema n. 660 da repercussão geral, firmou a tese de que a alegação de afronta aos princípios do contraditório, da ampla defesa, do devido processo legal e da segurança jurídica, bem como ao ato jurídico perfeito, ao direito adquirido e aos limites da coisa julgada, quando depende de análise de normas infraconstitucionais, configura ofensa reflexa ao texto constitucional, não possuindo repercussão geral.
+3.4 No caso concreto, a discussão suscitada no recurso extraordinário exige a prévia análise de normas infraconstitucionais, motivo pelo qual se aplica o entendimento consolidado no Tema n. 660 do STF.
+IV. DISPOSITIVO
+4.1. Agravo regimental a que se nega provimento.
+RELATÓRIO
+1. Trata-se de agravo regimental interposto contra a decisão que negou seguimento ao recurso extraordinário, assim ementada (fl. 1.035):
+RECURSO EXTRAORDINÁRIO. FUNDAMENTAÇÃO DO JULGADO RECORRIDO. SUFICIÊNCIA. TEMA N. 339 DO STF. CONFORMIDADE COM A TESE FIXADA EM REPERCUSSÃO GERAL. OFENSA AOS PRINCÍPIOS DO CONTRADITÓRIO, DA AMPLA DEFESA E DO DEVIDO PROCESSO LEGAL, BEM COMO AO ATO JURÍDICO PERFEITO, AO DIREITO ADQUIRIDO E AOS LIMITES DA COISA JULGADA. EXAME DE NORMAS INFRACONSTITUCIONAIS. AUSÊNCIA DE REPERCUSSÃO GERAL. TEMA N. 660 DO STF. NEGATIVA DE SEGUIMENTO. ART. 1.030, I, A, DO CPC.
+A parte agravante alega que a decisão monocrática que negou seguimento ao recurso extraordinário limitou-se a reproduzir fundamentos anteriormente utilizados, e reitera ter havido direta ofensa ao art. 93, IX, da Constituição Federal.
+Sustenta que o precedente citado, apontando suficiência da intimação em audiência para início do prazo recursal, não se amolda às particularidades do caso, pois a ata de julgamento conteria informação equivocada sobre intimação que não ocorreu.
+Argumenta que, ainda que se admitisse intimação em audiência, ela teria se relacionado apenas à leitura parcial da sentença, não alcançando o inteiro teor decisório que seria disponibilizado posteriormente.
+Aponta que a sentença condenatória teria sido previamente produzida antes do encerramento da instrução, reforçando a inadequação do precedente aplicado.
+Defende que as decisões recorrida e agravada não enfrentaram a questão central sobre a necessidade ou prescindibilidade de intimação do inteiro teor da sentença quando há leitura parcial em audiência, configurando omissão jurisdicional.
+Afirma que a matéria possui repercussão geral e sustenta ser o caso de ser afastada a aplicação dos Temas 339 e 660 do Supremo Tribunal Federal.
+Requer o provimento do agravo para que o recurso extraordinário seja admitido, com a remessa dos autos ao Supremo Tribunal Federal.
+É o relatório.
+EMENTA
+AGRAVO REGIMENTAL. RECURSO EXTRAORDINÁRIO. FUNDAMENTAÇÃO DO JULGADO RECORRIDO. SUFICIÊNCIA. TEMA N. 339 DO STF. CONFORMIDADE COM A TESE FIXADA EM REPERCUSSÃO GERAL. OFENSA AOS PRINCÍPIOS DO CONTRADITÓRIO E DA AMPLA DEFESA. AUSÊNCIA DE REPERCUSSÃO GERAL. TEMA N. 660 DO STF. ART. 1.030, I, A, DO CPC.
+I. CASO EM EXAME
+1.1. Agravo regimental interposto contra decisão que negou seguimento a recurso extraordinário, sob o fundamento de que o acórdão recorrido estaria em conformidade com a tese fixada pelo STF no Tema n. 339 da repercussão geral, bem como na ausência de repercussão geral em matéria que envolve a suposta ofensa aos princípios do contraditório, da ampla defesa, do devido processo legal e da segurança jurídica, bem como ao ato jurídico perfeito, ao direito adquirido e aos limites da coisa julgada, conforme definido no Tema n. 660 do STF.
+1.2. A parte agravante alegou a inaplicabilidade do Tema n. 339 ao caso, argumentando que não houve fundamentação adequada no acórdão recorrido quanto às matérias suscitadas, o que configuraria ofensa ao texto constitucional.
+1.3. Sustenta que o Tema n. 660 do STF não se aplica ao caso dos autos, afirmando que houve violação direta dos princípios constitucionais apontados.
+II. QUESTÕES EM DISCUSSÃO
+2.1. A existência de afronta ao art. 93, IX, da Constituição Federal quando se discute a suficiência da fundamentação das decisões judiciais, com aplicabilidade do Tema n. 339 do STF.
+2.2. A aplicabilidade do Tema n. 660 do STF ao caso em que se discute a suposta ofensa aos princípios constitucionais, quando a análise depende de normas infraconstitucionais.
+III. RAZÕES DE DECIDIR
+3.1. O STF, ao tratar do Tema n. 339 da repercussão geral, firmou a tese de que a Constituição Federal exige que acórdãos e decisões sejam fundamentados, ainda que sucintamente, sem vinculação à correção ou abrangência detalhada de todas as alegações das partes, mas à existência de motivação que permita a compreensão da solução dada à controvérsia.
+3.2. No caso concreto, o acórdão recorrido apresentou motivação adequada para a solução da controvérsia, em conformidade com o Tema n. 339, razão pela qual é justificada a negativa de seguimento ao recurso extraordinário nos termos do art. 1.030, I, a, do CPC.
+3.3 O STF, no Tema n. 660 da repercussão geral, firmou a tese de que a alegação de afronta aos princípios do contraditório, da ampla defesa, do devido processo legal e da segurança jurídica, bem como ao ato jurídico perfeito, ao direito adquirido e aos limites da coisa julgada, quando depende de análise de normas infraconstitucionais, configura ofensa reflexa ao texto constitucional, não possuindo repercussão geral.
+3.4 No caso concreto, a discussão suscitada no recurso extraordinário exige a prévia análise de normas infraconstitucionais, motivo pelo qual se aplica o entendimento consolidado no Tema n. 660 do STF.
+IV. DISPOSITIVO
+4.1. Agravo regimental a que se nega provimento.
+VOTO
+2. No julgamento do paradigma vinculado ao Tema n. 339, o Supremo Tribunal Federal apreciou a seguinte questão:
+ ..  se decisão que transcreve os fundamentos da decisão recorrida, sem enfrentar pormenorizadamente as questões suscitadas nos embargos declaratórios, afronta o princípio da obrigatoriedade de fundamentação das decisões judiciais, nos termos do art. 93, IX, da Constituição Federal.
+Na ocasião, firmou-se a seguinte tese vinculante: "O art. 93, IX, da Constituição Federal exige que o acórdão ou decisão sejam fundamentados, ainda que sucintamente, sem determinar, contudo, o exame pormenorizado de cada uma das alegações ou provas."
+O respectivo acórdão recebeu a seguinte ementa:
+Questão de ordem. Agravo de Instrumento. Conversão em recurso extraordinário (CPC, art. 544, §§ 3º e 4º).
+2. Alegação de ofensa aos incisos XXXV e LX do art. 5º e ao inciso IX do art. 93 da Constituição Federal. Inocorrência.
+3. O art. 93, IX, da Constituição Federal exige que o acórdão ou decisão sejam fundamentados, ainda que sucintamente, sem determinar, contudo, o exame pormenorizado de cada uma das alegações ou provas, nem que sejam corretos os fundamentos da decisão.
+4. Questão de ordem acolhida para reconhecer a repercussão geral, reafirmar a jurisprudência do Tribunal, negar provimento ao recurso e autorizar a adoção dos procedimentos relacionados à repercussão geral.
+(AI n. 791.292-QO-RG, relator Ministro Gilmar Mendes, Tribunal Pleno, julgado em 23/6/2010, DJe de 13/8/2010.)
+Por isso, para que um acórdão ou decisão seja considerado fundamentado, conforme definido pelo STF, não é necessária a apreciação de todas as alegações feitas pelas partes, desde que haja motivação considerada suficiente para a solução da controvérsia.
+Nesse contexto, a caracterização de ofensa ao art. 93, IX, da Constituição Federal não está relacionada ao acerto atribuído ao julgado, ainda que a parte recorrente considere sucinta ou incompleta a análise das alegações recursais.
+No caso, conforme consignado na decisão agravada, foram declinados, de forma satisfatória, os motivos da compreensão adotada no acórdão objeto do recurso extraordinário, como se observa do seguinte trecho do referido julgado (fls. 945-950):
+O agravo regimental é tempestivo.
+Contudo, não verifico elementos suficientes para reconsiderar a decisão proferida, cuja conclusão mantenho pelos seus próprios fundamentos (e-STJ fls. 897-900):
+"O agravo em recurso especial é tempestivo e infirmou os argumentos da decisão do Tribunal a quo, razão pela qual, nos termos do art. 253, parágrafo único, inc. II, do RISTJ, conheço do agravo e passo ao exame do recurso especial.
+O recurso especial é tempestivo e está com a representação processual correta. O recorrente indicou os permissivos constitucionais que embasam o recurso e o dispositivo de lei federal supostamente violado, demonstrando pertinência na fundamentação (não incidência da súmula nº 284 do STF).
+Observa-se, ainda, que o acórdão recorrido examinou expressamente a matéria arguida no recurso, cumprindo com a exigência do prequestionamento (não incidência da súmula 282 do STF) e apresentou fundamentos de cunho infraconstitucional (não incidência da súmula 126 do STJ), todos rebatidos nas razões recursais (não incidência da súmula 283 do STF).
+Com relação à alegação de violação dos arts. 593, I e 798, § 5º, "a", ambos do CPP, referente à regularidade do recurso de apelação, por se tratar de matéria de direito, conheço do recurso e passo à análise.
+O Tribunal de origem negou provimento ao recurso defensivo, pelos seguintes fundamentos (e-STJ fls. 759-769):
+"In casu, conforme relatado, o recorrente teve sua defesa patrocinada por advogado particular, inclusive, verifica-se que o réu e seu advogado foram intimados pessoalmente da sentença em 03/05/2023, por ocasião da audiência realizada.
+O magistrado na decisão que considerou como extemporânea a apelação criminal, assim consignou: "a quo, verifica-se que o condenado foi intimado pessoalmente da sentença em 03 de maio de 2023, bem como seu Advogado habilitado, por ocasião da audiência realizada, não prosperando a alegação de que não obtiveram conhecimento do inteiro teor da sentença ora proferida, posto que, esta foi imediatamente lançada em sua integralidade no PJe, logo após o término do ato conforme verberado naquela ocasião, razão por que a apelação apresentada apenas em 16 de maio de 2023 é intempestiva, posto que ofertada depois do decurso do quinquídio legal."
+Ressalte-se que, além de ter sido regularmente intimado em audiência, em data de 03/05/2023, o causídico exarou seu ciente em 04/05/2023, consoante ID. 22029635 - Pág. 1, mas só apresentou o Recurso de Apelação em 16/05/2023.
+Dessa forma, o recorrente era patrocinado por advogado particular, e por isso, o prazo de cinco dias inicia-se no dia seguinte ao da intimação. Conforme se verifica dos autos, o réu e seu advogado foram intimados pessoalmente da sentença aos (ID.03 de maio de 2023 72656203 - Pág. 32) e, diante disso, iniciou-se a contagem do prazo no dia posterior, qual seja 04/05/2023 (quinta-feira), com término em 08 de maio de 2023 (segunda-feira).
+No caso em tela, a (ID. 22029637 - Pág. 1/2), apelação foi interposta somente no dia 16/05/2023 configurando, manifestamente, sua intempestividade, impossibilitando, deste modo, sua admissão"
+Extrai-se do excerto acima transcrito que as instâncias ordinárias concluíram pela intempestividade da apelação em razão da intimação do réu e de seu advogado constituído na audiência em que proferida a sentença.
+Com efeito, "A jurisprudência do Superior Tribunal de Justiça entende que a intimação do réu e de seu procurador em audiência é suficiente para iniciar o prazo recursal, não havendo violação ao dever de intimação pessoal da sentença condenatória" (AgRg no HC 932281 / SC, relator Ministro RIBEIRO DANTAS, QUINTA TURMA, julgado em 11/12/2024, DJEN 16/12/2024).
+Ainda que a sentença não tenha sido lida, na íntegra, pelo juiz que presidiu a audiência, no caso, referido ato decisório constou integralmente na ata de julgamento de fls. 655-686 (e-STJ), constando, expressamente, que foi "Publicada a presente sentença e intimados os presentes em audiência".
+Como cediço, a ata de julgamento, nos termos do artigo 494 do Código de Processo Penal, é documento que goza de fé pública e não pode ser desconstituído sem suporte probatório mínimo. Nesse sentido: AgRg no RHC 184350 / SP, relator Ministro Messod Azulay Neto, Quinta Turma, julgado em 4/03/2024, DJe 11/03/2024.
+Da leitura da referida ata da audiência de instrução e julgamento, inexiste irresignação do agravante oriunda da falta de acesso, naquela ocasião, ao decreto condenatório, sendo certo que, ao contrário, constou que "este Juízo encerrou o presente termo que, disponibilizado às partes, expressamente concordaram com o seu conteúdo e achado conforme". A via, posteriormente, lançada no PJE o foi para fins de regularização da marcha processual, tal qual a folha contendo a ata da audiência presencial precisa ser inserida nos autos físicos.
+Ante o exposto, com fundamento no art. 253, parágrafo único, inc. II, "b", do RISTJ, conheço do agravo para conhecer e negar provimento ao recurso especial.
+Publique-se. Intime-se." (destaques no original)
+Com efeito, no caso, o agravante, nas razões do agravo regimental, apenas reiterou os argumentos já expostos na petição do recurso especial, deixando, assim, de impugnar especificamente os fundamentos da decisão agravada.
+Como cediço, "O agravo regimental deve apresentar argumentos novos e suficientes para se mostrar apto a reformar a decisão agravada, sob pena de manutenção do julgado por seus próprios fundamentos" (gRg no AgRg no RHC 166448 / SC, Relator Ministro Messod Azulay Neto, Quinta Turma, julgado em 06/02/2024, DJe 26/02/2024).
+Logo, a ausência de impugnação específica aos fundamentos da decisão agravada e a mera reiteração dos argumentos contidos na petição do recurso especial nas razões do agravo regimental violam o princípio da dialeticidade, impedindo que este recurso seja conhecido, por incidência, por analogia, da Súmula n. 182/STJ.
+ ..
+Por fim, reforço que "A jurisprudência do Superior Tribunal de Justiça entende que a intimação do réu e de seu procurador em audiência é suficiente para iniciar o prazo recursal, não havendo violação ao dever de intimação pessoal da sentença condenatória" (AgRg no HC 932281 / SC, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 11/12/2024, DJEN 16/12/2024).
+Reforço, outrossim, que a sentença constou integralmente na ata de julgamento de fls. 655-686 (e-STJ), constando, também, que fora "Publicada a presente sentença e intimados os presentes em audiência", sem qualquer irresignação do agravante acerca da falta de acesso, naquela ocasião, ao decreto condenatório, sendo certo que, ao contrário, constou, ainda, na ata que "este Juízo encerrou o presente termo que, disponibilizado às partes, expressamente concordaram com o seu conteúdo e achado conforme", a qual, nos termos do artigo 494 do CPP, é documento que goza de fé pública e não pode ser desconstituído sem suporte probatório mínimo.
+Verifica-se, portanto, que a matéria invocada pela parte ora agravante foi expressamente examinada no acórdão impugnado.
+Com efeito, demonstrada a realização da prestação jurisdicional constitucionalmente adequada, ainda quando não se concorde com a solução dada à causa, afigura-se inviável o prosseguimento do recurso extraordinário, pois o provimento recorrido encontra-se em sintonia com a tese fixada no Tema n. 339 do STF.
+3. Ademais, conforme consignado na decisão agravada, o STF já definiu que a suscitada afronta aos princípios do contraditório e da ampla defesa, quando depende da prévia análise de normas infraconstitucionais, configura ofensa reflexa ao texto constitucional.
+O referido entendimento foi fixado no Tema n. 660 do STF, nos seguintes termos:
+A questão da ofensa aos princípios do contraditório, da ampla defesa, do devido processo legal e dos limites à coisa julgada, tem natureza infraconstitucional, e a ela se atribuem os efeitos da ausência de repercussão geral, nos termos do precedente fixado no RE n. 584.608, rel. a Ministra Ellen Gracie, DJe 13/03/2009. (ARE n. 748.371-RG, relator Ministro Gilmar Mendes, julgado em 6/6/2013, DJe de 1º/8/2013.)
+Confiram-se ainda:
+AGRAVO REGIMENTAL EM RECLAMAÇÃO. USURPAÇÃO DE COMPETÊNCIA NÃO CONFIGURADA. SISTEMÁTICA DA REPERCUSSÃO GERAL. COMPETÊNCIA DAS CORTES DE ORIGEM. DESCABIMENTO DA AÇÃO. TEMA 660 DA REPERCUSSÃO GERAL. INCIDÊNCIA. AGRAVO A QUE SE NEGA PROVIMENTO.
+1. A aplicação da sistemática da repercussão geral é atribuição das Cortes de origem, nos termos do art. 1.030 do CPC.
+2. O questionamento de regras infraconstitucionais de direito intertemporal e de sucumbência, à luz do princípio da segurança jurídica, está compreendido nas razões de decidir do Tema 660 da sistemática da repercussão geral e pressupõe análise da legislação infraconstitucional aplicável.
+3. Não se admite o uso da via reclamatória como sucedâneo recursal ou das ações autônomas de impugnação cabíveis.
+4. Agravo regimental a que se nega provimento.
+(Rcl n. 47.840-AgR, relator Ministro Edson Fachin, Segunda Turma, julgado em 4/10/2021, DJe de 11/10/2021.)
+AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. POSTO DE COMBUSTÍVEL. ALVARÁ. NEGATIVA DE RENOVAÇÃO. ART. 1º DA LEI COMPLEMENTAR DISTRITAL 300/2000. DISPOSITIVO DE LEI DECLARADO INCONSTITUCIONAL PELO TJDFT. ÁREA DESTINADA À RESIDÊNCIA. MODULAÇÃO DOS EFEITOS. MATÉRIA INFRACONSTITUCIONAL. ALEGADA OFENSA AO PRINCÍPIO DA SEGURANÇA JURÍDICA. REEXAME DE FATOS E PROVAS E DE LEGISLAÇÃO LOCAL. SÚMULAS 279 E 280 DO STF. TEMA 660. INEXISTÊNCIA DE REPERCUSSÃO GERAL.
+ ..
+2. Esta Corte já assentou a inexistência da repercussão geral quando a alegada ofensa aos princípios do devido processo legal, da ampla defesa, do contraditório, da legalidade e dos limites da coisa julgada é debatida sob a ótica infraconstitucional (ARE-RG 748.371,da relatoria do Min. Gilmar Mendes, DJe 1º.08.2013, tema 660 da sistemática da RG).
+ ..
+4. Agravo regimental a que se nega provimento. Inaplicável o art. 85, § 11, do CPC, tendo em vista que não houve prévia fixação de honorários na origem.
+(ARE n. 1.252.422-AgR, relator Ministro Edson Fachin, Segunda Turma, julgado em 8/6/2021, DJe de 14/6/2021.)
+Essa conclusão foi adotada sob o regime da repercussão geral e é de aplicação obrigatória, devendo os tribunais, ao analisar a viabilidade prévia dos recursos extraordinários, negar seguimento àqueles que discutam questão à qual o STF não tenha reconhecido a existência de repercussão geral, nos termos do art. 1.030, I, a, do CPC.
+No caso dos autos, o exame da alegada ofensa ao art. 5º, LV, da Constituição Federal dependeria da análise de dispositivos da legislação infraconstitucional considerados na solução do acórdão recorrido, motivo pelo qual se aplica a conclusão do STF no mencionado Tema n. 660.
+É o que se observa do trecho do acórdão objeto do recurso extraordinário acima transcrito.
+4. Ante o exposto, nego provimento ao agravo regimental.
+É como voto.
