@@ -1,0 +1,48 @@
+DECISÃO
+Trata-se de agravo contra a decisão que inadmitiu o recurso especial interposto por FERNANDO SCHULER com fundamento na alínea "a" do permissivo constitucional, em oposição a acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO GRANDE DO SUL, assim ementado (fls. 1.376 - 1.420):
+"APELAÇÃO. CRIMES DA LEI 9.613/1998. ART. 1º, § 1º, INC. II E § 4º. LAVAGEM OU OCULTAÇÃO DE BENS, DIREITOS OU VALORES.
+EXISTÊNCIA DO FATO E AUTORIA.
+Depreende-se do contexto probatório que os réus, para ocultar e dissimular a origem e utilização, receberam, negociaram e transferiram um imóvel, cidade de Canoas, que fora adquirido com recursos provenientes de organização criminosa e serviu de dormitório para os escavadores do túnel que pretendia dar fuga a membros da facção "Os Manos", da Cadeia Pública de Porto Alegre. Os réus, para "limpar" o imóvel, objeto de pedido de sequestro na época, utilizaram a figura do laranja, sendo ele transferido várias vezes em curto espaço de tempo, com pagamento em conta distinta do vendedor e redistribuição imediata do dinheiro. Ainda, restou comprovado vínculo prévio entre todos os réus. Circunstâncias que indicam, de forma contundente, a prática do delito de lavagem. T. serviu de laranja, conferindo poderes para que E. negociasse o imóvel, servindo como uma espécie de intermediador. U. firmou o contrato de compra e venda, se identificando como representante da empresa que, na verdade, era administrada por F., pessoa que recebeu efetivamente o dinheiro e posteriormente repartiu. Autoria e dolo demonstrados. Condenação mantida.
+ATIPICIDADE.
+A absolvição em relação ao primeiro fato não torna o segundo fato também atípico, eis que a vinculação é limitada. Restou comprovado o dolo de evitar o perdimento do imóvel, objeto criminoso, afinal de contas, era sabido que estava em processo de sequestro - ainda que inicialmente tenha sido indeferido. E para evitar o perdimento, foram efetuadas várias manobras, incluindo laranjas, com depósito em conta diversa do vendedor e imediata repartição do dinheiro, típicas da lavagem e ocultação de bens. E conforme posição do STJ, o dolo nos crimes de lavagem, enquanto elemento subjetivo do tipo penal, é aferido com base no conjunto de elementos e na conduta dos agentes.
+PENAS PRIVATIVAS DE LIBERDADE.
+Réus T., U,. e F.: Pena fixada no mínimo legal, sem modificações possíveis.
+Réu E.: Pena-base afastada do mínimo, em razão dos antecedentes. Presente a reincidência, adequada elevação em 1/6. Pena mantida.
+PENAS DE MULTA.
+Cumulada ao tipo penal e não pode ser dispensada. Para T., U,. e F. fixada no mínimo legal, valor unitário mínimo. Para E. fixada pouco acima do mínimo, valor unitário também mínimo. Sem modificações.
+REGIME DE CUMPRIMENTO DAS PENAS.
+Aberto para T., U,. e F., pois primários. Para E., semiaberto, ante a reincidência. PENAS SUBSTITUTIVAS. SURSIS.
+Para todos os réus, a pena privativa de liberdade foi substituída por duas restritivas de direitos, modalidade prestação de serviços à comunidade, pelo mesmo período da pena corporal, e prestação pecuniária. Definida em um salário mínimo para T., U,. e F e dois para E.
+APELOS DEFENSIVOS IMPROVIDOS. UNÂNIME."
+Os embargos de declaração foram rejeitados (e-STJ, fls. 1.446 - 1.476).
+Em suas razões, a parte recorrente aponta violação do artigo 1º da Lei 9.613/1998, do artigo 18, I, do CP, dos artigos 155, 386, III, VII, 619, todos do CPP e do artigo 93, IX, da CR, argumentando, em síntese, que (i) a operação imobiliária foi transparente, formalizada por escritura pública e registro, não havendo ocultação ou dissimulação; (ii) o crime de lavagem de dinheiro exige dolo específico de ocultar ou dissimular a origem ilícita dos valores, o que não foi demonstrado; (iii) a condenação utilizou predominantemente elementos do inquérito policial não confirmados em juízo, em afronta ao sistema acusatório e (iv) o acórdão que rejeitou embargos de declaração deixou de enfrentar teses essenciais da defesa.
+Com contrarrazões (fls. 1.539 - 1.556), o recurso especial foi inadmitido (fls. 1.597 - 1.604), ao que se seguiu a interposição de agravo.
+Remetidos os autos a esta Corte Superior, o MPF manifestou-se pelo não conhecimento do agravo e, caso conhecido, pelo não conhecimento do recurso especial (fls. 1.698 - 1.708).
+É o relatório.
+Decido.
+O recurso não deve ser conhecido.
+A decisão de inadmissibilidade baseou-se na impossibilidade de análise de ofensa a dispositivos constitucionais, na incidência da Súmula 83/STJ e na aplicação da Súmula 7/STJ; no agravo do art. 1.042 do CPC, todavia, a parte agravante não combateu adequadamente o último fundamento da decisão agravada.
+Afinal, sobre a aplicação da Súmula 7/STJ, a parte agravante trouxe apenas razões genéricas de inconformismo (aduzindo que não seria necessário reexaminar as provas dos autos), o que não satisfaz a exigência de impugnação específica para viabilizar o conhecimento do agravo. Isso porque, para que se considere adequadamente impugnada a Súmula 7/STJ, o agravo precisa empreender um cotejo entre os fatos estabelecidos no acórdão e as teses recursais, mostrando em que medida estas não exigem a alteração do quadro fático delineado pelo Tribunal local. Nesse sentido:
+" ..
+1. Nas razões do agravo em recurso especial, não foram rebatidos, de modo específico e concreto, os fundamentos da decisão agravada relativos à aplicação das Súmulas n. 7 e 83, ambas do Superior Tribunal de Justiça, atraindo, à espécie, a incidência da Súmula n. 182 do Superior Tribunal de Justiça.
+2. No tocante à incidência da Súmula n. 7/STJ, a Agravante limitou-se a sustentar, genericamente, que as pretensões elencadas no apelo nobre envolvem mero debate jurídico, não demandando, assim, reexame de provas, sem explicitar, contudo, à luz da tese recursal trazida no recurso especial, de que maneira a análise não dependeria do reexame de provas. Assim, não houve a observância da dialeticidade recursal, motivo pelo qual careceu de pressuposto de admissibilidade, qual seja, a impugnação efetiva e concreta aos fundamentos utilizados para inadmitir o recurso especial, no caso, a incidência da Súmula n. 7 do Superior Tribunal de Justiça.
+ ..
+6. Agravo regimental desprovido".
+(AgRg no AREsp n. 1.789.363/SP, relator Ministra Laurita Vaz, Sexta Turma, julgado em 2/2/2021, DJe de 17/2/2021.)
+" ..
+1. A falta de impugnação específica dos fundamentos utilizados na decisão ora agravada atrai a incidência do enunciado sumular n. 182 desta Corte Superior. Como tem reiteradamente decidido esta Corte, os recursos devem impugnar, de maneira específica e pormenorizada, os fundamentos da decisão contra a qual se insurgem, sob pena de vê-los mantidos. Não são suficientes meras alegações genéricas ou à insistência no mérito da controvérsia.
+ ..
+11. Agravo regimental não conhecido".
+(AgRg no RHC n. 128.660/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 18/8/2020, DJe de 24/8/2020.)
+Ademais, a Corte Especial do STJ manteve o entendimento da necessidade de impugnação específica de todos os fundamentos da decisão agravada, sob pena de incidência da Súmula 182/STJ. Eis a ementa do aresto paradigma:
+"PROCESSO CIVIL. EMBARGOS DE DIVERGÊNCIA. IMPUGNAÇÃO ESPECÍFICA DE TODOS OS FUNDAMENTOS DA DECISÃO RECORRIDA. ART. 544, § 4º, I, DO CPC/1973. ENTENDIMENTO RENOVADO PELO NOVO CPC, ART. 932.
+1. No tocante à admissibilidade recursal, é possível ao recorrente a eleição dos fundamentos objeto de sua insurgência, nos termos do art. 514, II, c/c o art. 505 do CPC/1973. Tal premissa, contudo, deve ser afastada quando houver expressa e específica disposição legal em sentido contrário, tal como ocorria quanto ao agravo contra decisão denegatória de admissibilidade do recurso especial, tendo em vista o mandamento insculpido no art. 544, § 4º, I, do CPC, no sentido de que pode o relator "não conhecer do agravo manifestamente inadmissível ou que não tenha atacado especificamente os fundamentos da decisão agravada" - o que foi reiterado pelo novel CPC, em seu art. 932.
+2. A decisão que não admite o recurso especial tem como escopo exclusivo a apreciação dos pressupostos de admissibilidade recursal. Seu dispositivo é único, ainda quando a fundamentação permita concluir pela presença de uma ou de várias causas impeditivas do julgamento do mérito recursal, uma vez que registra, de forma unívoca, apenas a inadmissão do recurso. Não há, pois, capítulos autônomos nesta decisão.
+3. A decomposição do provimento judicial em unidades autônomas tem como parâmetro inafastável a sua parte dispositiva, e não a fundamentação como um elemento autônomo em si mesmo, ressoando inequívoco, portanto, que a decisão agravada é incindível e, assim, deve ser impugnada em sua integralidade, nos exatos termos das disposições legais e regimentais.
+4. Outrossim, conquanto não seja questão debatida nos autos, cumpre registrar que o posicionamento ora perfilhado encontra exceção na hipótese prevista no art. 1.042, caput, do CPC/2015, que veda o cabimento do agravo contra decisão do Tribunal a quo que inadmitir o recurso especial, com base na aplicação do entendimento consagrado no julgamento de recurso repetitivo, quando então será cabível apenas o agravo interno na Corte de origem, nos termos do art. 1.030, § 2º, do CPC.
+5. Embargos de divergência não providos".
+(EAREsp n. 746.775/PR, relator Ministro João Otávio de Noronha, relator p/ Acórdão Ministro Luís Felipe Salomão, Corte Especial, julgado em 19/9/2018, DJe de 30/11/2018.)
+Por conseguinte, a Súmula 182/STJ impede que se passe ao mérito do agravo do art. 1.042 do CPC, o qual não supera o juízo de admissibilidade.
+Ante o exposto, não conheço do agravo em recurso especial.
+Publique-se. Intimem-se.
+EMENTA
