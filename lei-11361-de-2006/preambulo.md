@@ -1,0 +1,2 @@
+Fixa o subsídio dos cargos das Carreiras de Delegado de Polícia do Distrito Federal e de Polícia Civil do Distrito Federal.
+Faço saber que o Presidente da República adotou a Medida Provisória nº 308, de 2006, que o Congresso Nacional aprovou, e eu, Renan Calheiros, Presidente da Mesa do Congresso Nacional, para os efeitos do disposto no art. 62 da Constituição Federal, com a redação dada pela Emenda Constitucional nº 32, combinado com o art. 12 da Resolução nº 1, de 2002-CN, promulgo a seguinte Lei:
