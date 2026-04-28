@@ -1,0 +1,72 @@
+DECISÃO: Trata-se de reclamação constitucional, com pedido de medida liminar, ajuizada pelo Estado de São Paulo, em face do acórdão proferido pelo Tribunal Superior do Trabalho, nos autos do Processo nº.  1000303-50.2020.5.02.0281.
+
+Na petição inicial, a reclamante alega, em síntese, que a decisão reclamada, ao determinar que a responsabilidade subsidiária da Administração Pública estaria justificada frente ao descumprimento das obrigações trabalhistas da empresa contratada e de uma suposta falta de fiscalização do Estado, teria ofendido a autoridade de decisão proferida por esta Corte nos julgamento da ADC 16, além dos entendimentos firmados nos julgamentos dos Recursos Extraordinários 760.931 - Tema 246/STF e 1.298.647 – Tema 1.118/STF.
+
+Nesses termos, argumenta que “o exame da decisão condenatória revela a ausência de indicação de elementos concretos a caracterizar conduta culposa atribuível ao Poder Público, tendo a responsabilização subsidiária decorrido a partir do inadimplemento de obrigações trabalhistas da empresa prestadora com seu empregado e da ausência de prova de efetiva fiscalização pelo Poder Público, procedimento descumpridor do que assentado por este Supremo Tribunal no julgamento da Ação Declaratória de Constitucionalidade n. 16 e reafirmado no julgamento da repercussão geral no Recurso Extraordinário n. 760.931, Tema 246.”. (eDOC 1, p. 6/7)
+
+Aduz, também, que “em decisão proferida em 13/03/2025 na Rcl. 77.037/SP, o Min. Gilmar Mendes ao analisar o caso concreto, verificou o que já é pacifico na Corte Suprema, sem que haja comprovação real de um comportamento sistematicamente negligente e reiterado em relação à terceirizada e não havendo prova do nexo de causalidade entre a conduta (comissiva ou omissiva) do poder público e o dano sofrido pelo trabalhador, a responsabilidade é entendida como presumida e, nessa condição, é inviável, condenar a Administração Pública na responsabilidade subsidiária pelo encargos trabalhistas inadimplidos pela empresa” (eDOC 1, p. 19)
+
+Pontua, ainda, que “No caso dos autos, a responsabilização subsidiária da Administração Pública foi mantida sem que se tenha identificado qualquer conduta comissiva ou omissiva concreta do ente público que justifique tal responsabilização. A Turma deste Tribunal Superior apenas reproduziu, de forma vaga e imprecisa, que “do quadro fático exposto no acórdão regional (Súmula 126/TST), depreende-se que restou demonstrada a conduta culposa da Administração Pública”, sem qualquer referência a elementos objetivos, tampouco à efetiva produção de provas nesse sentido.” (eDOC 1, p. 21)
+
+Desse modo, requer, liminarmente, a cassação da decisão reclamada, permitindo o trânsito ao recurso extraordinário interposto.
+
+É o relatório.
+Decido.
+Inicialmente, dispenso a remessa dos autos à Procuradoria-Geral da República, por entender que o processo já está em condições de julgamento (RISTF, art. 52, parágrafo único).
+
+Superada a questão, rememoro que a reclamação, tal como prevista no artigo 102, I, “l”, da Constituição e regulada nos artigos 988 a 993 do Código de Processo Civil e 156 a 162 do Regimento Interno do Supremo Tribunal Federal, tem cabimento para preservar a competência do tribunal ou garantir a autoridade das suas decisões, bem como contra ato administrativo ou decisão judicial que contrarie súmula vinculante (CF/88, art. 103-A, § 3º).
+
+No tocante ao mérito, convém registrar que o Plenário do Supremo Tribunal Federal, no julgamento da ADC 16, Rel. Min. Cezar Peluso, Tribunal Pleno, DJe 9.9.2011, declarou a constitucionalidade do art. 71, § 1º, da Lei 8.666/1993, que dispõe sobre a impossibilidade jurídica de transferência de responsabilidade à Administração Pública de encargos decorrentes do não cumprimento, pelo contratado, de obrigações trabalhistas, fiscais ou comerciais.
+
+Em data posterior a esse julgamento, o Tribunal Superior do Trabalho deu nova redação à Súmula 331 daquela Corte, para fazer constar que o inadimplemento das obrigações trabalhistas, por parte do empregador, implica a responsabilidade subsidiária dos entes integrantes da Administração Pública direta e indireta em determinados casos.
+
+Diante da resistência da Justiça do Trabalho em aplicar o referido entendimento, o Supremo Tribunal Federal reconheceu a existência de repercussão geral da matéria, nos autos do RE-RG 760.931 (tema 246), que substituiu o RE-RG 603.397, Rel. Min. Rosa Weber.
+
+Por ocasião do julgamento de mérito do citado paradigma, o Pleno desta Corte deu parcial provimento ao recurso da União e confirmou o entendimento adotado na ADC 16, no sentido de proibir a responsabilização automática da Administração Pública, só cabendo condenação se houver prova inequívoca de sua conduta omissiva ou comissiva na fiscalização dos contratos.
+
+À vista disso, para que haja a responsabilização do ente público é necessário que se comprove cabalmente nos autos o comportamento reiteradamente negligente da Administração, bem como o nexo causal entre a conduta comissiva ou omissiva do Poder Público e o dano sofrido pelo trabalhador.
+
+Cumpre assinalar ainda que o Plenário desta Corte, nos autos do RE 1.298.647 (Rel. Min. Nunes Marques), reputou constitucional e reconheceu a repercussão geral (Tema 1.118) da discussão quanto ao “Ônus da prova acerca de eventual conduta culposa na fiscalização das obrigações trabalhistas de prestadora de serviços, para fins de responsabilização subsidiária da Administração Pública, em virtude da tese firmada no RE 760.931 (Tema 246)”.
+
+Em outros termos, colocou-se em pauta a questão acerca da legitimidade da transferência ao ente público tomador de serviço do ônus de comprovar a ausência de culpa na fiscalização do cumprimento das obrigações trabalhistas devidas aos trabalhadores terceirizados pela empresa contratada, para fins de definição da responsabilidade subsidiária do Poder Público.
+
+Recentemente, em Sessão Plenária realizada em 13.2.2025, essa Corte Suprema finalizou o julgamento do mérito do referido paradigma, fixando a seguinte tese de repercussão geral:
+
+“1. Não há responsabilidade subsidiária da Administração Pública por encargos trabalhistas gerados pelo inadimplemento de empresa prestadora de serviços contratada, se amparada exclusivamente na premissa da inversão do ônus da prova, remanescendo imprescindível a comprovação, pela parte autora, da efetiva existência de comportamento negligente ou nexo de causalidade entre o dano por ela invocado e a conduta comissiva ou omissiva do poder público.
+2. Haverá comportamento negligente quando a Administração Pública permanecer inerte após o recebimento de notificação formal de que a empresa contratada está descumprindo suas obrigações trabalhistas, enviada pelo trabalhador, sindicato, Ministério do Trabalho, Ministério Público, Defensoria Pública ou outro meio idôneo.
+3. Constitui responsabilidade da Administração Pública garantir as condições de segurança, higiene e salubridade dos trabalhadores, quando o trabalho for realizado em suas dependências ou local previamente convencionado em contrato, nos termos do art. 5º-A, § 3º, da Lei nº 6.019/1974.
+4. Nos contratos de terceirização, a Administração Pública deverá: (i) exigir da contratada a comprovação de capital social integralizado compatível com o número de empregados, na forma do art. 4º-B da Lei nº 6.019/1974; e (ii) adotar medidas para assegurar o cumprimento das obrigações trabalhistas pela contratada, na forma do art. 121, § 3º, da Lei nº 14.133/2021, tais como condicionar o pagamento à comprovação de quitação das obrigações trabalhistas do mês anterior”. (Grifos nossos)
+
+Com efeito, assentou-se entendimento no sentido que é imprescindível que se comprove o conhecimento, pela Administração Pública, da situação de ilegalidade e sua inércia em adotar providências para saná-la, vedada a condenação fundamentada unicamente no pressuposto da inversão do ônus da prova.
+
+Por outro lado, permanecendo o ente público inerte após notificação formal do descumprimento das obrigações trabalhistas pela empresa prestadora de serviços contratada, restará configurado o comportamento negligente da Administração, a ensejar sua responsabilização.
+
+Pois bem.
+Na hipótese em exame, verifico que o Tribunal reclamado negou seguimento ao Recurso Extraordinário interposto pelo ora reclamante, ao argumento de que o acórdão recorrido estaria alinhado ao entendimento desta Corte, consolidado no julgamento dos Temas 246 e 1.118 da repercussão geral, mantendo-se o reconhecimento da responsabilidade subsidiária do ente público em virtude da alegada falha na fiscalização do contrato.
+
+Foi interposto agravo interno contra a referida decisão, cujo provimento foi negado nos termos da seguinte ementa:
+
+“A G R A V O . RECURSO EXTRAORDINÁRIO DENEGADO. RESPONSABILIDADE SUBSIDIÁRIA DA ADMINISTRAÇÃO PÚBLICA COMO TOMADORA DE SERVIÇOS TERCEIRIZADOS. AUSÊNCIA DE CONDENAÇÃO POR MERO INADIMPLEMENTO. CULPA COMPROVADA. APLICAÇÃO DO TEMA 246 DO EMENTÁRIO DE REPERCUSSÃO GERAL DO STF. TEMA 1.118 DO EMENTÁRIO DE REPERCUSSÃO GERAL DO STF. INAPLICABILIDADE. DESPROVIMENTO. A questão referente à responsabilidade subsidiária da Administração Pública como tomadora de serviços terceirizados foi objeto do RE 760.931/DF, do qual resultou o Tema 246 da Tabela de Repercussão Geral (DJe 12/09/2017; trânsito em julgado em 01/10/2019). O STF fixou a seguinte tese, sintetizada no Tema 246: “o inadimplemento dos encargos trabalhistas dos empregados do contratado não transfere automaticamente ao Poder Público contratante a responsabilidade pelo seu pagamento, seja em caráter solidário ou subsidiário, nos termos do art. 71, § 1º, da Lei nº 8.666/93” . No presente caso, verifica-se que a responsabilização subsidiária da Administração Pública decorreu da comprovação de culpa na fiscalização da empresa terceirizada quanto ao cumprimento de suas obrigações trabalhistas. Desse modo, a decisão recorrida, ao responsabilizar subsidiariamente a Administração Pública por conduta culposa na fiscalização, alinha-se ao Tema 246, não se limitando à mera constatação do inadimplemento da contratada. Ressalte-se que, embora os autos contenham discussão sobre as regras de distribuição do ônus da prova (Tema 1.118), a controvérsia não foi resolvida com base nessa sistemática, mas sim pela análise do conjunto probatório que comprovou a conduta culposa da Administração Pública. A decisão agravada, portanto, foi proferida em estrita observância às normas processuais (arts. 1.030, I, “a”, e 1.035, § 8º, do CPC/2015), razão pela qual é insuscetível de reforma ou reconsideração. Agravo desprovido.”. (eDOC 3, p. 1)
+
+Note-se que ao apreciar a questão da responsabilidade subsidiária e do ônus da prova no caso concreto, o acórdão recorrido assim se manifestou sobre os fatos analisados na origem:
+
+“No caso concreto, não é decisivo para o desfecho da lide o debate sobre ônus da prova, na medida em que o TRT, valorando fatos e provas, concluiu que a culpa do ente público reclamado teve origem em conduta omissiva constatada.
+Nesse sentido, extraiu-se do acórdão recorrido (trecho transcrito) o registro de que: “(...), no caso, a aludida responsabilidade não decorre de mero inadimplemento das obrigações trabalhistas assumidas pela empresa regularmente contratada, mas de constatação de que o recorrente não demonstrou o devido zelo na fiscalização do cumprimento, pela contratada, das respectivas obrigações trabalhistas. No caso, o ente público sequer demonstra ter exercido qualquer fiscalização da contratada, que sonegou direitos trabalhistas aos empregados, inclusive relativos a obrigação legal imposta, no que concerne aos recolhimentos para o FGTS e ao fornecimento do vale-transporte. Não há efetiva demonstração de nenhum ato de fiscalização dos deveres contratuais assumidos pela contratada ou quaisquer sanções aplicadas pelo descumprimento. Ademais, a condenação em pecúnia, no caso, abrange o vale-transporte e os recolhimentos para o FGTS da contratualidade, parcelas cujo inadimplemento é de fácil detecção, o que evidencia a absoluta falta de acompanhamento, pelo contratante, do cumprimento das obrigações trabalhistas da contratada” (destaques acrescidos).
+Nesse cenário, observa-se que o TRT entendeu que o fato de a condenação em pecúnia (vale-transporte e recolhimentos para o FGTS da contratualidade) se referir a parcelas cujo inadimplemento é de fácil detecção evidenciou a ausência de fiscalização do cumprimento das obrigações trabalhistas pela contratada, razão por que concluiu configurada a culpa in vigilando do reclamado.
+Tal posicionamento coaduna-se com a jurisprudência da SBDI- 1 e da Sexta Turma do TST, segundo a qual há responsabilidade subsidiária quando provado o descumprimento habitual, reiterado e ostensivo de direitos trabalhistas básicos – no caso, houve não recolhimento do FGTS da contratualidade nem pagamento de vale-transporte –, por ser incompatível com a efetiva fiscalização do cumprimento das obrigações trabalhistas.
+Logo, o acórdão do Regional, ao reconhecer a responsabilidade subsidiária com fundamento na culpa do ente público reclamado, vai ao encontro da Súmula nº 331, V, do TST, não havendo reparos a fazer na decisão monocrática impugnada.” (eDOC, p. 1306/1307)
+
+Ora, ao assim decidir, a Justiça do Trabalho acabou por reconhecer a figura da responsabilização automática, expressamente afastada por esta Suprema Corte nos paradigmas mencionados. Isso porque a mera alegação de falha na fiscalização não é suficiente para comprovar a inércia do ente público, tampouco para amparar a sua condenação subsidiária.
+
+Conforme já demonstrado, é imprescindível a apresentação de prova inequívoca de conduta sistematicamente negligente, consubstanciada na inércia da Administração Pública após notificação formal acerca do descumprimento das obrigações trabalhistas pela contratada — circunstância que não se verifica no caso dos autos.
+
+Assim, entendo que o Tribunal reclamado aplicou de forma equivocada o entendimento firmado nos julgamentos da ADC 16 e dos Temas 246 e 1118 da repercussão geral.
+
+Ante o exposto, julgo procedente a reclamação para cassar o ato reclamado e determinar que outro seja proferido, com a devida observância do entendimento firmado pelo Supremo Tribunal Federal no julgamento da ADC 16 e dos Temas 246 e 1118 da repercussão geral. (art. 21, § 1º, do RISTF)
+
+Publique-se.
+Brasília, 28 de abril de 2026.
+
+Ministro GILMAR MENDES
+Relator
+Documento assinado digitalmente
