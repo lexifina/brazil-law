@@ -1,0 +1,46 @@
+DECISÃO
+Trata-se de agravo apresentado por EDER ELY para impugnar decisão que não admitiu seu recurso especial, interposto com fundamento no art. 105, inciso III, alínea a, da Constituição Federal, contra o acórdão do Tribunal de Justiça do Estado do Rio Grande do Sul assim ementado (e-STJ, fl. 81):
+AGRAVO DE INSTRUMENTO. DIREITO PÚBLICO NÃO ESPECIFICADO. SERVIDÃO ADMINISTRATIVA. AÇÃO ANTERIOR IDÊNTICA. COISA JULGADA 1. HÁ COISA JULGADA QUANDO FOR NOVAMENTE AJUIZADA AÇÃO QUE JÁ TEVE SEU MÉRITO JULGADO POR DECISÃO TRANSITADA EM JULGADO. 2. AÇÃO AJUIZADA ANTERIORMENTE COM AS MESMAS PARTES, CAUSA DE PEDIR E PEDIDO. PRESCRIÇÃO RECONHECIDA COM TRÂNSITO EM JULGADO. AGRAVO DE INSTRUMENTO DESPROVIDO.
+Os embargos de declaração opostos foram rejeitados (e-STJ, fls. 86-88).
+No recurso especial (e-STJ, fls. 90-102), a parte recorrente alegou violação dos arts. 337, §§ 2º e 4º, e 485, V, do Código de Processo Civil (CPC), sustentando que não há tríplice identidade entre as demandas indicadas, pois os pedidos e a causa de pedir da presente ação não teriam sido examinados na ação anterior (processo n. 5001513-48.2020.8.21.0068/RS), razão pela qual não se configuraria a coisa julgada.
+Sustentou ofensa à Súmula 119 do Superior Tribunal de Justiça, afirmando que se trata de desapropriação indireta sujeita à prescrição vintenária, bem como que há dano continuado pela cobrança mensal indevida de tarifa de água, o que afastaria a prescrição quinquenal reconhecida pelo Tribunal de origem (e-STJ, fls. 100-101).
+Sem contrarrazões.
+O recurso não foi admitido, razão pela qual foi interposto o agravo ora examinado (e-STJ, fls. 108-112).
+Em seguida, os autos ascenderam ao Superior Tribunal de Justiça (STJ).
+Brevemente relatado, decido.
+A controvérsia instaurada no apelo especial desafia, de início, compreender se a decisão que - na origem - reconheceu a existência de coisa julgada viola (ou não) os arts. 337, §§ 2º e 4º, e 485, V, do CPC.
+Nas razões do apelo, a recorrente afirma que as ações indicadas não possuem o mesmo pedido e causa de pedir, defendendo que "o julgador de origem entendeu que existente a coisa julgada face à ação tombada sob nº 5001513-48.2020.8.21.0068/RS. No entanto, tem-se que os pedidos presentes na ação objeto do presente agravo de instrumento não foram analisados na ação anterior." (e-STJ, fl.99).
+O colegiado a quo enfrentou a matéria, consignando no acórdão recorrido os seguintes fundamentos (e-STJ, fls. 78-80):
+Trata-se de agravo de instrumento interposto contra a r. decisão que julgou parcialmente extinto o processo pelo reconhecimento da coisa julgada. Inicialmente, observo que o Código de Processo Civil, em seu artigo 337, § 4º, prevê que há coisa julgada quando repetida ação já decidida por decisão com trânsito em julgado. Nesse sentido, seu § 3º estabelece que há ações idênticas quando possuem as mesmas partes, a mesma causa de pedir e o mesmo pedido:
+Art. 337. Incumbe ao réu, antes de discutir o mérito, alegar:  ..  § 2º Uma ação é idêntica a outra quando possui as mesmas partes, a mesma causa de pedir e o mesmo pedido. § 4º Há coisa julgada quando se repete ação que já foi decidida por decisão transitada em julgado.
+Nesse sentido, é possível concluir pela ocorrência da coisa julgada quando for novamente ajuizada ação que já teve seu mérito julgado por decisão transitada em julgado. No presente caso, o agravante, em 28 de abril de 2023, propôs a presente ação indenizatória por servidão administrativa em razão da perfuração de um poço artesiano em sua propriedade pelo Município agravado. Da análise do processo nº 5001513-48.2020.8.21.0068, verifico que o agravante, em 08 de outubro de 2020, ajuizou ação indenizatória por servidão administrativa em virtude da perfuração do mesmo poço artesiano em sua propriedade pelo recorrido. Naquela ação, proferida sentença que julgou extinto o processo pelo reconhecimento da prescrição, foi mantida em sede de apelação, com trânsito em julgado em 17 de fevereiro de 2023 (evento 67, DECSTJSTF2 ), cuja ementa colaciono a seguir:
+ ..
+Dessa forma, constato a existência de identidade de ações, na medida em que ajuizadas demandas com as mesmas partes, a mesma causa de pedir e o mesmo pedido. No mesmo sentido, é a jurisprudência deste Egrégio Tribunal de Justiça:
+ ..
+Ademais, agrego aos fundamentos os seguintes trechos da r. decisão recorrida, proferida pela eminente Juíza de Direito, Doutora Priscila Anadon Carvalho, que bem analisou a matéria:
+Ademais, convém pontuar que embora o autor altere a nomenclatura dos pedidos e da ação, cuida-se de pretensão igual àquela deduzida na ação 5001513-48.2020.8.21.0068, que foi extinta sem julgamento de mérito pela prescrição, sob o argumento de que é quinquenal o lapso temporal máximo de pretensões acerca da indenização por limitações administrativas, nos termos do art. 10 do DL 3.365/1941, bem como do art. 1º. do Decreto 20.910/1932 (processo 5001513-48.2020.8.21.0068/RS, evento 25, DESPADEC1). Nesses termos, é forçoso o reconhecimento de que a quaestio está acobertada pela coisa julgada, por força da decisão supracitada que reconheceu a aplicabilidade do prazo prescricional quinquenal à pretensão indenizatória advinda de alegada servidão administrativa.
+ ..
+Desse modo, não assiste razão ao agravante, mantendo-se a decisão que julgou paricialmente extinto o feito com o reconhecimento da existência de coisa julgada, nos termos do artigo 485, inciso V, do Código de Processo Civil.
+No ponto, o eventual acolhimento da tese recursal exigiria o reexame das provas e fatos balizados na origem, hipótese vedada pela Súmula 7/STJ.
+A título de exemplo, veja-se:
+PROCESSUAL CIVIL. RECURSO ESPECIAL. FUNDAMENTAÇÃO. DEFICIÊNCIA. COISA JULGADA. REEXAME FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE.
+1. Segundo pacífica orientação da jurisprudência do STJ, "nos recursos de fundamentação vinculada, como é o caso de recurso especial, a simples demonstração de insatisfação não possibilita o reexame da questão" (AgRg no REsp 1478870/PR, Rel. Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 5/2/2015, DJe 12/2/2015).
+2. Hipótese em que a parte recorrente fez menção genérica a lei federal, sem demonstrar em que medida teria havido ofensa a dispositivo, apenas mencionado nas razões recursais, incidindo, por analogia, o óbice da Súmula 284 do STF.
+3. Decidir a respeito do alcance da coisa julgada, em contraposição ao que restou decidido no acórdão recorrido, demandaria o reexame do conjunto probatório e de peças processuais, providência que encontra óbice na pacífica jurisprudência desta Corte Superior, consolidada na Súmula 7 do STJ.
+4. Agravo interno desprovido.
+(AgInt no REsp n. 2.236.026/SP, relator Ministro Gurgel de Faria, Primeira Turma, julgado em 13/4/2026, DJEN de 22/4/2026.)
+Quanto à alegada vulneração da Súmula 119/STJ, incide o enunciado da Súmula n. 518/STJ.
+Isso porque, nos termos desta Corte Superior, o recurso especial não é meio recursal adequado para examinar eventual violação a enunciado de súmula, porquanto não se insere no conceito de lei federal infraconstitucional.
+A título exemplificativo (sem grifo no original):
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. PEDIDO DE PRISÃO DOMICILIAR COLETIVA PARA APENADAS EM REGIME SEMIABERTO. INADEQUAÇÃO DO ESTABELECIMENTO PRISIONAL. VIOLAÇÃO DE NORMA CONSTITUCIONAL E SÚMULA. NÃO CABIMENTO DE RECURSO ESPECIAL. NECESSIDADE DE REVOLVIMENTO DE FATOS E PROVAS. SÚMULA 7 DO STJ. RECURSO IMPROVIDO.
+1. Agravo regimental interposto pela Defensoria Pública do Estado do Tocantins contra decisão monocrática que conheceu do agravo para não conhecer o recurso especial, o qual visava à concessão de prisão domiciliar coletiva para todas as condenadas em regime semiaberto na Unidade de Regime Semiaberto Feminina (URSAF) da Comarca de Palmas/TO, alegando inadequação estrutural do estabelecimento prisional.
+2. O Tribunal de Justiça do Tocantins negou provimento ao agravo em execução penal, mantendo a decisão de primeiro grau que considerou a estrutura da URSAF suficiente para o cumprimento da pena em regime semiaberto.
+3. O recurso especial não pode ser conhecido com base em fundamentos constitucionais, pois a análise de violação de norma constitucional é matéria própria de recurso extraordinário ao Supremo Tribunal Federal.
+4. A alegação de ofensa à Súmula Vinculante n. 56 do STF não permite o conhecimento do recurso especial, conforme a Súmula n. 518 do STJ, que exclui súmulas do conceito de lei federal.
+5. A análise da compatibilidade das dependências da unidade prisional com o regime semiaberto foi realizada pelo Tribunal de origem, que concluiu pela suficiência da estrutura, não cabendo reexame de prova em recurso especial, conforme a Súmula n. 7 do STJ.
+6. Agravo regimental desprovido.
+(AgRg no AREsp n. 1.989.885/TO, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 11/2/2025, DJEN de 17/2/2025.)
+Diante do exposto, conheço do agravo para não conhecer do recurso especial.
+Publique-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. DIREITO ADMINISTRATIVO. VERIFICAÇÃO DA EXTENSÃO DA COISA JULGADA. SÚMULA 7/STJ. NÃO CABIMENTO DE RECURSO ESPECIAL PARA IMPUGNAR VIOLAÇÃO À SÚMULA. ÓBICE DA SÚMULA 518/STJ. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
