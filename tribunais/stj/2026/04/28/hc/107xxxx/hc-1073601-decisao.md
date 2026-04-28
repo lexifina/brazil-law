@@ -1,0 +1,20 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de JOSE ROBERTO BRASILIO PEREIRA JUNIOR contra ato proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO.
+Consta nos autos que o paciente está preso preventivamente pela suposta prática do crime de tráfico de drogas.
+Irresignada, a defesa impetrou habeas corpus perante o Tribunal de Justiça de origem, que denegou a ordem em acórdão às fls. 26-37.
+Neste writ, a defesa sustenta, em suma, a ausência de fundamentação da decisão que decretou a prisão preventiva, bem como ausência dos requisitos ensejadores da prisão preventiva, defendendo suas condições pessoais favoráveis e ponderando a possibilidade da aplicação de medidas cautelares diversas da prisão..
+Requer a revogação da prisão preventiva ou, subsidiariamente, sua substituição por medidas cautelares diversas.
+A liminar foi indeferida às fls.44-45.
+As informações foram prestadas às fls. 50-52.
+O  Ministério  Público  Federal,  às  fls.  54-58,  manifestou pela denegação da ordem .
+É  o  relatório. DECIDO.
+A análise da decisão que decretou a prisão preventiva permite a conclusão de que a prisão cautelar imposta ao Paciente encontra-se em consonância com a jurisprudência desta Corte sobre o tema, uma vez que fundamentadas em dados concretos extraídos dos autos, que evidenciam a necessidade de garantia da ordem pública, notadamente em razão da quantidade e variedade de droga apreendida - "44 porções de tetrahidrocannabinol, com peso líquido de 208,4 g; 40 porções de tetrahidrocannabinol, com peso líquido de 2069 g; 4 porções de tetrahidrocannabinol, com peso líquido de 167 g; 1 porção de LSD (Lisérgida), com peso líquido de 5,3 g; 1 porção de tetrahidrocannabinol, com peso líquido de 3,7 g; 1 porção de tetrahidrocannabinol, com peso líquido de 148,5 g; 34 comprimidos de MDMA (metilenodioximetanfetamina), com pesolíquido de 15,9 g; 4 porções contendo MDMA (metilenodioximetanfetamina) e tetrahidrocannabinol, com peso líquido de 93 g; 18 frascos contendo tetrahidrocannabinol, com peso líquido de 9 g; 51 porções de tetrahidrocannabinol, com peso líquido de 287,2 g; 3 frascos contendo tetrahidrocannabinol, com peso líquido de 3,5 g; 2 frascos contendo tetrahidrocannabinol, com peso líquido de 1ml; 4 frascos contendo tetrahidrocannabinol ecanabidiol, com peso líquido de 120 mm; 2 porções de tetrahidrocannabinol, com peso líqu ido de 2,1 g; e 1 porção de tetrahidrocannabinol, com peso líquido de 17,6 g"- fls. 33-34, circunstâncias ensejadoras da manutenção da segregação cautelar.
+A propósito:
+"A gravidade concreta dos delitos e a periculosidade do agente, evidenciadas pela quantidade e variedade de entorpecentes apreendidos, justificam a manutenção da prisão preventiva para garantir a ordem pública." (AgRg no HC n. 870.947/ES,Minha relatoria, Quinta Turma, julgado em 27/11/2024, DJe de 6/12/2024.)
+A prisão preventiva está fundamentada na gravidade concreta da conduta, evidenciada pela apreensão de variedade e quantidade de entorpecentes, a bem da ordem pública."(AgRg no RHC n. 204.354/SC, relatora Ministra Daniela Teixeira, Quinta Turma, julgado em 27/11/2024, DJe de 2/12/2024.)
+Nesse mesmo sentido, confiram-se alguns precedentes: (AgRg no HC n. 946.193/SP, relatora Ministra Daniela Teixeira, Quinta Turma, julgado em 27/11/2024, DJe de 2/12/2024.)AgRg no RHC n. 196.021/DF, Sexta Turma, Rel. Min. Rogerio Schietti Cruz, DJe de 3/6/2024; AgRg no RHC n. 193.763/RS, Quinta Turma, Rel. Min. Ribeiro Dantas, DJe de 12/4/2024.
+Por fim, condições pessoais favoráveis, tais como primariedade, ocupação lícita e residência fixa, não têm o condão de garantirem ao paciente a revogação da prisão preventiva se há nos autos elementos hábeis a recomendar a manutenção de sua custódia cautelar. Pela mesma razão, não há que se falar em possibilidade de aplicação de medidas cautelares diversas da prisão, o que ocorre na hipótese.
+Diante de tais considerações, portanto, não se vislumbra a existência de qualquer flagrante ilegalidade passível de ser sanada.
+Ante o exposto, denego a ordem.
+Publique-se. Intimem-se.
+EMENTA
