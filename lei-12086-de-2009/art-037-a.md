@@ -1,0 +1,1 @@
+Art. 37-A. Concluído com aproveitamento o Curso de Habilitação de Oficiais de Saúde e Capelães, o Aspirante-a-Oficial será promovido ao posto de Segundo-Tenente após o cumprimento dos requisitos da graduação, na primeira data de promoção, observando-se o interstício mínimo de seis meses, independentemente da existência de vagas.
