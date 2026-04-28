@@ -1,0 +1,11 @@
+DECISÃO
+Trata-se de habeas corpus, impetrado em nome de EUDES DE OLIVEIRA MONTEIRO, condenado por extorsão tentada a 4 anos, 2 meses e 20 dias de reclusão, e 9 dias-multa (fls. 59/77 - Ação Penal n. 0001434-04.2020.8.13.0384, da Vara Criminal e da Infância e da Juventude da comarca de Leopoldina/MG), em que se aponta como ato coator o acórdão de apelação criminal proferido pelo Tribunal de Justiça de Minas Gerais, que alterou a pena imposta na sentença (fls. 12/30).
+A impetração busca a revisão da dosimetria, com pedido liminar de suspensão do início do cumprimento da pena e de sustação de eventual decreto prisional. Sustenta, para tanto, a indevida aplicação da fração de 1/3 pela tentativa, sem fundamentação concreta, em descompasso com o iter criminis e com a jurisprudência desta Corte, ao argumento de que a vítima não entregou a quantia exigida e de que o delito permaneceu distante da consumação, circunstância que, segundo a defesa, autorizaria a redução no patamar de 2/3 (fls. 6/9).
+É o relatório.
+O writ é inadmissível, pois foi manejado com o propósito de rediscutir condenação imposta e mantida pelas instâncias ordinárias (HC n. 1.021.432/MG, de minha relatoria, Sexta Turma, DJEN de 16/12/2025), sem que se evidencie flagrante constrangimento ilegal apto a afastar esse óbice.
+Com efeito, ao julgar a apelação, o Tribunal de origem manteve a fundamentação da sentença condenatória quanto à aplicação da fração de 1/3 pela tentativa, assentando que o iter criminis da exigência indevida foi completo, inclusive na presença da filha da ofendida, circunstância que implantou o temor pretendido sobre a vítima e sua família (fls. 26/27 e 73). Nesse contexto, a adoção de conclusão diversa demandaria reexame do conjunto fático-probatório, providência incompatível com a via estreita do habeas corpus.
+Em razão disso, indefiro liminarmente a inicial (art. 210 do RISTJ).
+Publique-se.
+EMENTA
+PENAL. HABEAS CORPUS. EXTORSÃO TENTADA. DOSIMETRIA. PRETENSÃO DE MAJORAÇÃO DA FRAÇÃO DE DIMINUIÇÃO PELA TENTATIVA. REVISÃO DA CONDENAÇÃO IMPOSTA E MANTIDA PELAS INSTÂNCIAS ORDINÁRIAS. NECESSIDADE DE REEXAME PROBATÓRIO. CONSTRANGIMENTO ILEGAL MANIFESTO. AUSÊNCIA.
+Inicial indeferida liminarmente.
