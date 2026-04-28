@@ -1,0 +1,21 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em favor de ANTÔNIO NAKAMURA BONFIM contra acórdão da Quarta Câmara Criminal do Tribunal de Justiça do Estado do Rio Grande do Sul, no Habeas Corpus n. 5000292-79.2026.8.21.7000.
+Consta nos autos que o paciente foi preso em flagrante pela prática do delito previsto no art. 16 da Lei n. 10.826/2003.
+A defesa impetrou habeas corpus perante o Tribunal de origem, que não conheceu da impetração (e-STJ, fls. 10-12).
+Na presente impetração, a defesa alega constrangimento ilegal, em razão de a custódia atual derivar de prova ilícita obtida em busca pessoal sem fundada suspeita, realizada apenas em decorrência de mandado de prisão previamente declarado nulo, o que contaminaria toda a cadeia probatória e o título prision al, à luz do art. 244 do Código de Processo Penal e da teoria dos frutos da árvore envenenada.
+Afirma que a superveniência de sentença condenatória não prejudica o habeas corpus, pois a ilegalidade da prova persiste e o constrangimento é atual, sendo cabível o exame das nulidades mesmo após a condenação.
+Defende a superação dos óbices processuais verificados na origem, com o conhecimento do writ por este Superior Tribunal de Justiça diante de flagrante ilegalidade e do exaurimento da instância ordinária, já que o Tribunal local deixou de analisar o mérito das ilegalidades suscitadas.
+Requer, liminarmente e no mérito, a concessão da ordem para relaxar a custódia do paciente, com expedição de alvará de soltura.
+É o relatório.
+Decido.
+Esta Corte - HC 535.063, Terceira Seção, Rel. Ministro Sebastião Reis Junior, julgado em 10/6/2020 - e o Supremo Tribunal Federal - AgRg no HC 180.365, Primeira Turma, Rel. Min. Rosa Weber, julgado em 27/3/2020; AgRg no HC 147.210, Segunda Turma, Rel. Min. Edson Fachin, julgado em 30/10/2018 -, pacificaram orientação no sentido de que não cabe habeas corpus substitutivo do recurso legalmente previsto para a hipótese, impondo-se o não conhecimento da impetração, salvo quando constatada a existência de flagrante ilegalidade no ato judicial impugnado.
+Analisando os autos, verifica-se que não deve ser conhecido o writ, e isto por mais de uma razão.
+Registre-se que o emprego inadequado do habeas corpus compromete a integridade do sistema processual penal brasileiro, cuja estrutura encontra respaldo direto na Constituição da República. Ao se converter o remédio constitucional em instrumento para contornar exigências processuais legítimas, promove-se verdadeiro desvirtuamento de sua finalidade original - qual seja, a tutela imediata da liberdade de locomoção diante de ilegalidade manifesta. Essa distorção fragiliza o ordenamento jurídico e impõe sobrecarga indevida aos tribunais, ao desviar o habeas corpus de sua natureza garantista - voltada à tutela imediata da liberdade - para uma função recursal imprópria, em evidente desvio de finalidade.
+No caso, o Tribunal de Justiça do Rio Grande do Sul não conheceu do habeas corpus por entender haver litispendência com outro writ - n. 5282177-68.2025.8.21.7000 - já impetrado e julgado pela própria Corte.
+Portanto, o aresto impugnado não tratou das matérias ventiladas na exordial.
+Assinale-se que a jurisprudência consolidada do Superior Tribunal de Justiça tem reiteradamente afirmado que não lhe compete manifestar-se sobre matérias que não foram previamente apreciadas pelas instâncias ordinárias, sob pena de incorrer em indevida supressão de instância.
+Autorizar que o STJ se manifeste sobre temas não enfrentados pelas instâncias inferiores implicaria uma ampliação indevida de sua competência constitucional, transformando o Tribunal da Cidadania em instância originária para matérias que, por força de norma e jurisprudência, devem ser inicialmente submetidas ao crivo dos juízos de primeiro e segundo grau. Tal prática comprometeria não apenas a lógica processual, mas também os princípios da ampla defesa, do contraditório e da segurança jurídica.
+Nesse contexto, a tentativa de provocar o STJ a decidir sobre questões não previamente analisadas - ainda que revestidas de aparente urgência ou relevância - deve ser repelida, sob pena de violação à legalidade processual e ao modelo constitucional de distribuição de competências.
+Diante do exposto, indefiro liminarmente o habeas corpus .
+Publique-se. Intimem-se.
+EMENTA
