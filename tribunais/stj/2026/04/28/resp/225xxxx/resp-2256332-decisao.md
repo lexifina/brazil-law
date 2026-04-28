@@ -1,0 +1,57 @@
+DECISÃO
+Trata-se de recurso especial interposto pela Defensoria Pública do Estado de São Paulo, em favor de ANDERSON FERNANDO BATISTA, contra acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo, assim ementado (fl. 70):
+Agravo em execução penal Recurso reclamando a extinção da pena de multa pela hipossuficiência do executado Descabimento Sanção pecuniária que manteve sua natureza criminal Art. 51 do CP Tema 931 do C. STJ atualizado Possibilidade de extinção da punibilidade pela hipossuficiência econômica que só tem aplicabilidade aos casos em que o sentenciado, condenado a penas privativa de liberdade e de multa cumulativamente, já cumpriu a carcerária Inocorrência Reprimenda carcerária ainda não integralmente cumprida Precedentes Recurso não provido.
+Consta dos autos que o recorrente foi condenado criminalmente, tendo o Ministério Público promovido a execução da pena de multa imposta na sentença condenatória. A defesa sustentou que o sentenciado é hipossuficiente econômico e requereu o reconhecimento da extinção da punibilidade em relação à pena de multa, independentemente do pagamento da sanção pecuniária, pedido que foi indeferido em primeiro grau e mantido pelo Tribunal de origem.
+No presente recurso especial, a Defensoria Pública sustenta violação ao art. 927, III, do Código de Processo Civil, ao argumento de que o Tribunal de origem deixou de aplicar o entendimento firmado pelo Superior Tribunal de Justiça no julgamento dos Recursos Especiais n. 2.090.454 e 2.024.901 (Tema 931).
+Afirma que, conforme a orientação fixada pelo STJ, é possível reconhecer a extinção da punibilidade quando evidenciada a hipossuficiência do condenado para o pagamento da pena de multa, especialmente quando inexistem elementos concretos que demonstrem capacidade econômica para adimplir a sanção.
+Alega, ainda, que a manutenção da execução da multa, diante da condição econômica do sentenciado, compromete sua ressocialização e impede a extinção da punibilidade, prolongando indevidamente os efeitos da condenação. Sustenta que, no caso concreto, a hipossuficiência estaria evidenciada, inclusive porque o valor dos dias-multa foi fixado no mínimo legal, não havendo indicação de bens ou recursos capazes de demonstrar capacidade financeira para o pagamento.
+Requer, ao final, o conhecimento e provimento do recurso especial para que seja reconhecida a extinção da pena de multa.
+As contrarrazões foram apresentadas (fls. 102-106).
+O recurso foi admitido pela Corte de origem (fls. 107-108).
+O Ministério Público Federal manifestou-se pelo desprovimento do recurso especial, nos termos da seguinte ementa (fl. 116):
+RESP. EXECUÇÃO PENAL. PENA DE MULTA. HIPOSSUFICIÊNCIA DO APENADO. APENADO QUE NÃO CUMPRIU A PENA PRIVATIVA DE LIBERDADE INTEGRALMENTE. PENA DE MULTA QUE CONFIGURA SANÇÃO CRIMINAL. ART. 51 DO CP. TEMA 931/STJ.
+- A impugnação da defesa não merece acolhida, em face do acórdão recorrido. Apenado que não cumpriu a pena privativa de liberdade integralmente. Tema 931/STJ.
+- Parecer pelo desprovimento do recurso especial.
+É o relatório.
+DECIDO.
+O recurso especial foi interposto tempestivamente, encontra amparo no art. 105, III, a, da Constituição da República, e a parte recorrente apontou ofensa ao art. 927, III, do Código de Processo Civil, porquanto o Tribunal de origem deixou de aplicar o entendimento firmado pelo Superior Tribunal de Justiça no julgamento dos Recursos Especiais n. 2.090.454 e 2.024.901 (Tema 931), ao manter a exigência de pagamento da pena de multa, mesmo diante da alegação de hipossuficiência econômica do sentenciado e da ausência de elementos concretos que demonstrassem sua capacidade financeira para adimplir a sanção.
+Então, a matéria objeto do recurso foi devidamente apreciada pelo Tribunal de origem, e não exige reexame dos fatos e das provas, além de apresentar relevância das questões de direito federal infraconstitucional discutidas no caso (art. 105, § 3º, I, CF); e, por isso, estão presentes os requisitos recursais extrínsecos e intrínsecos legais e constitucionais. Portanto, conheço do recurso especial.
+A questão submetida ao exame desta Corte consiste em definir se, à luz do entendimento firmado no Tema 931 dos recursos repetitivos, é juridicamente possível reconhecer a extinção da pena de multa quando demonstrada a hipossuficiência econômica do condenado, bem como se o acórdão recorrido contrariou a interpretação consolidada deste Tribunal ao manter a exigibilidade da sanção pecuniária sem a indicação de elementos concretos aptos a evidenciar a capacidade financeira do sentenciado para quitá-la.
+Acerca da controvérsia, o acórdão recorrido encontra-se assim fundamentado (fls. 71-74):
+ ..
+O Ministério Público ingressou com execução de pena de multa em face do sentenciado, para cobrança da pena de multa em razão da prática do crime de receptação (fls. 04/05 dos autos de origem), cujo juízo a quo, acertadamente, rejeitou a impugnação defensiva de extinção da punibilidade da pena de multa, senão vejamos.
+Previamente, cumpre observar que o art. 51 do Código Penal sofreu recente alteração pelo Pacote Anticrime, com a seguinte redação:
+ ..
+Com a modificação legislativa, o Supremo Tribunal Federal se pronunciou, por meio de Ação Direta de Inconstitucionalidade, no sentido da não retirada do caráter sancionatório da pena de multa, conforme dispõe o art. 5º, inciso XLVI, alínea "c", da Constituição Federal, apesar da supramencionada alteração ter-lhe considerado como dívida de valor.
+Nesse sentido, verifica-se que a manutenção da natureza de sanção criminal da pena de multa advém, igualmente, da previsão infraconstitucional no art. 31, inciso III, do Código Penal, não havendo se falar em alteração da natureza da pena de multa após o julgamento da ADI nº 3150 pelo Supremo Tribunal Federal.
+Outrossim, inexiste discricionariedade para o Ministério Público quanto à execução da pena de multa, uma vez que sua atuação está pautada pelos princípios da obrigatoriedade e indisponibilidade da ação penal, além de o art. 1º, caput, da Lei Estadual nº 14.272, que autoriza a não propositura de ações de execução fiscal por dívidas inferiores a 1.200 UFESPs, assim como a Resolução PGE 21/2017, destinar-se exclusivamente aos órgãos executivos estaduais, não se aplicando ao Parquet.
+No mais, cumpre ressaltar que o Superior Tribunal de Justiça revisou a tese, no Tema Repetitivo 931, atualizado pelos Resp. nº 2.024.901/SP e 2.090.454/SP, de que "O inadimplemento da pena de multa, após cumprida a pena privativa de liberdade ou restritiva de direitos, não obsta a extinção da punibilidade, ante a alegada hipossuficiência do condenado, salvo se diversamente entender o juiz competente, em decisão suficientemente motivada, que indique concretamente a possibilidade de pagamento da sanção pecuniária.".
+Em que pese o novo entendimento pela presunção de veracidade da autodeclaração de pobreza, o posicionamento do C. STJ é no sentido de que somente será possível a extinção da punibilidade, com base na hipossuficiência financeira do executado, quando cumprida a pena privativa de liberdade ou restritiva de direitos.
+Ocorre que, no caso dos autos, o Agravante está em cumprimento da pena privativa de liberdade de 1 ano, 4 meses e 10 dias de reclusão, atualmente no regime fechado, imposta pelo processo nº 1508833-54.2025.8.26.0228 (PEC nº 0019720-53.2025.8.26.0041), com término de pena previsto para 09/08/2026 (fls. 28/29 do PEC nº 0019720-53.2025.8.26.0041).
+Dessa forma, não há se falar em aplicação do Tema 931 do C. STJ na medida em que referido precedente somente tem aplicabilidade nos casos em que o sentenciado, condenado a penas privativa de liberdade e de multa cumulativamente, já cumpriu a carcerária, restando adimplir apenas a pena de multa, o que não se verifica na presente hipótese.
+ ..
+Destarte, não há como extinguir a punibilidade em relação à pena de multa no caso em tela, eis que sequer foi cumprida a pena privativa de liberdade, sendo de rigor a manutenção da execução da pena de multa, com o normal prosseguimento do feito.
+Ante o exposto, NEGA-SE PROVIMENTO ao recurso.
+Como se vê, o Tribunal de origem negou provimento ao agravo em execução e manteve o prosseguimento da execução da pena de multa, ao fundamento de que o entendimento firmado por esta Corte no Tema 931 dos recursos repetitivos somente admite a extinção da punibilidade em razão do inadimplemento da pena de multa quando já houver sido integralmente cumprida a pena privativa de liberdade ou restritiva de direitos, hipótese que não se verifica no caso concreto. Assentou, ainda, que o sentenciado ainda se encontra em cumprimento da pena privativa de liberdade, razão pela qual não seria possível reconhecer, neste momento, a extinção da punibilidade em relação à sanção pecuniária.
+Tal entendimento encontra-se em consonância com a jurisprudência consolidada do Superior Tribunal de Justiça. Com efeito, esta Corte firmou orientação, no julgamento do Tema 931, no sentido de que o inadimplemento da pena de multa não obsta a extinção da punibilidade apenas após o cumprimento da pena privativa de liberdade ou restritiva de direitos, desde que demonstrada a hipossuficiência econômica do condenado, não sendo juridicamente possível a aplicação desse entendimento quando a reprimenda corporal ainda está em execução, como ocorre na hipótese dos autos.
+Nesse sentido:
+DIREITO PENAL. AGRAVO REGIMENTAL. EXTINÇÃO DE PUNIBILIDADE. PENA DE MULTA. HIPOSSUFICIÊNCIA. AGRAVO NÃO PROVIDO.
+I. Caso em exame
+1. Agravo regimental interposto contra decisão monocrática que negou provimento a recurso especial, mantendo a decisão que indeferiu o pedido de extinção da punibilidade da pena de multa por hipossuficiência do sentenciado.
+2. O agravante cumpre pena privativa de liberdade e teve negado o pedido de extinção da punibilidade da pena de multa, com base na ausência de cumprimento integral da pena privativa de liberdade.
+II. Questão em discussão
+3. A questão em discussão consiste em saber se a hipossuficiência do condenado pode justificar a extinção da punibilidade da pena de multa, mesmo sem o cumprimento integral da pena privativa de liberdade.
+III. Razões de decidir
+4. A decisão agravada está em consonância com o entendimento da Terceira Seção do STJ, que exige o cumprimento integral da pena privativa de liberdade para a extinção da punibilidade da pena de multa por hipossuficiência.
+5. A extinção da punibilidade da pena de multa por hipossuficiência após o cumprimento da pena privativa de liberdade, não se aplica ao caso, pois o agravante ainda não cumpriu a totalidade da pena.
+IV. Dispositivo e tese
+6. Agravo não provido.
+Tese de julgamento: "A extinção da punibilidade da pena de multa por hipossuficiência requer o cumprimento integral da pena privativa de liberdade".
+Dispositivos relevantes citados: Código Penal, arts. 50 e 51.
+Jurisprudência relevante citada: STJ, Tema 931.
+(AgRg no REsp n. 2.194.005/SP, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 5/8/2025, DJEN de 14/8/2025.)
+Portanto, ao afastar a aplicação do Tema 931 do STJ diante da inexistência do requisito relativo ao prévio cumprimento da pena privativa de liberdade, o Tribunal de origem decidiu em conformidade com a jurisprudência desta Corte, inexistindo a alegada violação ao art. 927, III, do Código de Processo Civil.
+Ante o exposto, com fulcro no art. 255, § 4º, II, do Regimento Interno do STJ, nego provimento ao recurso especial.
+Publique-se.
+Intimem-se.
+EMENTA
