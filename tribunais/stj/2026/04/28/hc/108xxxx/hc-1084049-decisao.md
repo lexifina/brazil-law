@@ -1,0 +1,33 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em favor de AILTON JUNIOR LEITE SANTOS, no qual aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO (Agravo de Execução Penal nº 0008163-84.2025.8.26.0521).
+Na presente impetração, a defesa do paciente alega que o constrangimento ilegal advém diante da negativa da remição em razão da aprovação do paciente em 4 áreas de conhecimento do ENEM.
+Explica que ele obteve êxito de aprovação (pontuação mínima), ou seja, 80 (oitenta) dias de remição, pois obteve a pontuação mínima de 400 em 04 (quatro) das 05 (cinco) matérias.
+Requer a devida remição.
+Informações foram prestadas às fls. 91-141 e 142-149.
+O Ministério Público Federal apresentou parecer no sentido da denegação da ordem em habeas corpus (fls. 155-157).
+É o relatório. DECIDO.
+A presente impetração investe contra acórdão, funcionando como substituto do recurso próprio, motivo pelo qual não deve ser conhecida.
+A 3ª Seção, no âmbito do HC 535.063-SP, de relatoria do Ministro Sebastião Reis Júnior, julgado em 10/06/2020, e o Supremo Tribunal Federal, no julgamento do AgRg no HC 180.365, de relatoria da Ministra Rosa Weber, julgado em 27/03/2020, consolidaram a orientação de que não cabe habeas corpus substitutivo ao recurso legalmente previsto para a hipótese, impondo-se o não conhecimento da impetração, salvo quando constatada a existência de flagrante ilegalidade no ato judicial impugnado.
+Passo a analisar a presença de coação ilegal que desafie a concessão da ordem ofício, em observância ao § 2º do artigo 654 do Código de Processo Penal.
+Consoante relatado, a defesa pretende, em síntese, a remição da pena por aprovação do paciente em 4 áreas de conhecimento do ENEM.
+Da análise dos elementos informativos constantes dos autos, verifica-se que não há flagrante ilegalidade a legitimar a atuação desta Corte.
+O Tribunal de origem manteve o indeferimento da remição da pena pelos estudos, nos moldes solicitados pela defesa, com os seguintes fundamentos (fl. 9):
+ ..  De acordo com o documento juntado à fl. 07, o agravante obteve aprovação em apenas uma das cinco áreas de conhecimento, "Linguagens, Códigos e suas Tecnologias", na qual obteve 517.1 pontos.
+Diversamente do quanto constou nas razões recursais, a aprovação no ENEM não se dá apenas com 400 pontos em cada área de conhecimento, mas sim 450 pontos e, especificamente em relação à redação, 500.
+Fora a área mencionada, todas as demais contaram com menos de 450 pontos e, portanto, considera-se que o agravante reprovou.  ..  (grifei)
+O entendimento do acórdão não destoa da orientação desta Corte de Justiça.
+A Resolução n. 391/2021, do Conselho Nacional de Justiça (CNJ), que revogou a Recomendação n. 44/2013 do mesmo órgão, determina que a aprovação nos exames que certificam a conclusão do ensino fundamental ou médio (ENCCEJA ou outros) e aprovação no ENEM, será considerada como base de cálculo para fins de cômputo das horas visando à remição da pena.
+Assim, a alteração de redação da norma do CNJ silenciou sobre a possibilidade de remição em caso de aprovação parcial no ENEM, bem como sobre sua aplicação aos casos em que o reeducando possuía a formação antes do ingresso no sistema prisional.
+Não por outro motivo, no julgamento do EREsp n. 1.979.591/SP, de minha relatoria, a Terceira Seção deste Superior Tribunal de Justiça fixou o entendimento de que é possível a remição, mesmo nos casos de aprovação parcial no ENEM ou de prévia conclusão do grau de ensino.
+Eis a ementa do julgado:
+EXECUÇÃO PENAL. EMBARGOS DE DIVERGÊNCIA. PROCESSO PENAL. REMIÇÃO DE PENA. APROVAÇÃO NO EXAME NACIONAL DO ENSINO MÉDIO. APÓS CONCLUSÃO DO ENSINO MÉDIO. POSSIBILIDADE DE CONCESSÃO DA BENESSE. EMBARGOS DE DIVERGÊNCIA PROVIDOS.
+1. O Exame Nacional de Certificação de Competências de Jovens e Adultos - ENCCEJA é a avaliação de âmbito nacional própria para a certificação do aproveitamento do conteúdo programático do ensino médio e do ensino fundamental àqueles que atingiram a idade de quinze anos (para o nível fundamental) ou dezoito anos (para o nível médio). Diferentemente do ENEM, o ENCCEJA não se presta, por si só, ao ingresso no ensino superior.
+2. No caso dos autos, minha posição externada no julgamento do HC n. º 786.844, foi no sentido de que o paciente não faria jus à remição pelo estudo individual, uma vez que, conforme ressaltado pelo agravante, ao iniciar o cumprimento da pena, o agravado já havia concluído o ensino médio. Naquela oportunidade, o fundamento adotado era o de que a finalidade da remição pelo estudo não é simplesmente diminuir o tempo de encarceramento da pessoa presa, mas, facilitar a sua reintegração social por meio do aprendizado de novos conhecimentos.
+3. Contudo, no julgamento do precitado HC n.º 786.844, realizado em agosto desta ano de 2023, restou consignado pela Quinta Turma deste STJ, por maioria de votos, a possibilidade de remição da pena na hipótese em exame, ou seja, mesmo após a conclusão do ensino médio e ainda que o sentenciado tenha obtido o diploma de curso superior antes do início do cumprimento da pena, como é o caso dos autos.
+4. Em sendo assim, submeto os presentes embargos de divergência a esta Terceira Seção, para que se defina a posição deste colegiado em relação ao tema e se estabilize a jurisprudência desta Corte, de forma a se atender ao dever cooperativo de coerência enunciado pelo art. 926 do CPC. Embargos de divergência providos (EREsp n. 1.979.591/SP, Terceira Seção, de minha relatoria, DJe de 13/11/2023).
+No que se refere à base de cálculo a ser utilizada, a Resolução n. 391/2021, CNJ determina que, para a remição decorrente do estudo individual com a aprovação total no ENEM ou no ENCCEJA, será considerada como base de cálculo, para fins de cômputo das horas visando à remição da pena, 50% (cinquenta por cento) da carga horária definida legalmente para cada nível de ensino, fundamental ou médio, o que corresponde o montante de 1.600 (mil e seiscentas) horas para os anos finais do ensino fundamental e 1.200 (mil e duzentas) horas para o ensino médio ou educação profissional técnica de nível médio.
+Partindo dessa diretriz, este Superior Tribunal de Justiça firmou o entendimento de que o total de 1.200 horas, pela aprovação em exame que certifica a conclusão do ensino médio deve incidir na proporção de 1 dia de pena para cada 12 horas de estudo, resultando em 100 dias de remição, o que equivale a 20 dias de remição para cada uma das cinco áreas de conhecimento avaliadas no exame.
+No caso dos autos, o paciente realizou o ENEM e obteve a aprovação parcial em apenas 1 (uma) área de conhecimento (fls. 9 e 18 ) - o que corresponde a 20 (vinte) dias de remição.
+Ante o exposto, não conheço do habeas corpus.
+Publique-se. Intimem-se.
+ EMENTA
