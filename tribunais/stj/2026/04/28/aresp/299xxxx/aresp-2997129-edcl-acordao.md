@@ -1,0 +1,75 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da CORTE ESPECIAL do Superior Tribunal de Justiça, em Sessão Virtual de 22/04/2026 a 28/04/2026, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Mauro Campbell Marques, Benedito Gonçalves, Raul Araújo, Maria Isabel Gallotti, Antonio Carlos Ferreira, Ricardo Villas Bôas Cueva, Sebastião Reis Júnior, Francisco Falcão, Nancy Andrighi, João Otávio de Noronha, Humberto Martins, Maria Thereza de Assis Moura e Og Fernandes votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Presidente do STJ.
+EMENTA
+EMBARGOS DE DECLARAÇÃO. AGRAVO REGIMENTAL. RECURSO EXTRAORDINÁRIO. APLICAÇÃO DO RITO DA REPERCUSSÃO GERAL. AUSÊNCIA DE VÍCIOS. REDISCUSSÃO DA MATÉRIA.
+I. CASO EM EXAME
+1.1. Embargos de declaração opostos contra acórdão que manteve decisão que apreciou recurso extraordinário.
+1.2. O acórdão embargado aplicou o entendimento firmado pelo STF sob o rito da repercussão geral.
+II. QUESTÕES EM DISCUSSÃO
+2.1. A parte embargante alega vícios no acórdão que ensejariam a alteração das conclusões nele alcançadas.
+III. RAZÕES DE DECIDIR
+3.1. Nos termos do art. 619 do Código de Processo Penal, os embargos de declaração são cabíveis para sanar ambiguidade, obscuridade, contradição, omissão ou erro material em acórdão.
+3.2. O acórdão embargado apresentou, de forma satisfatória, os motivos da compreensão nele adotada, constatando-se a mera discordância da parte com a solução apresentada e o propósito de modificação do julgamento.
+IV. DISPOSITIVO
+4.1. Embargos de declaração rejeitados.
+RELATÓRIO
+1. Trata-se de embargos de declaração opostos contra acórdão que negou provimento ao agravo regimental, nos termos da seguinte ementa (fls. 3.514-3.515):
+AGRAVO REGIMENTAL. NEGATIVA DE SEGUIMENTO A RECURSO EXTRAORDINÁRIO. USURPAÇÃO DE COMPETÊNCIA DO STF. NÃO OCORRÊNCIA. PRESSUPOSTOS DE ADMISSIBILIDADE DE RECURSO DE COMPETÊNCIA DO STJ. AUSÊNCIA DE REPERCUSSÃO GERAL. ART. 1.030, I, A, DO CPC. TEMA N. 181 DO STF.
+I. CASO EM EXAME
+1.1. Agravo regimental interposto contra a decisão que negou seguimento ao recurso extraordinário, sob a justificativa de que a matéria discutida envolvia pressupostos de admissibilidade de recurso de competência do STJ.
+1.2. A parte agravante argumentou que o recurso extraordinário apontava violação de dispositivos da Constituição Federal, afirmando a inaplicabilidade do Tema n. 181 do STF ao caso concreto.
+II. QUESTÕES EM DISCUSSÃO
+2.1. A ocorrência de usurpação da competência do Supremo Tribunal Federal ao se negar seguimento a recurso extraordinário.
+2.2. A aplicabilidade do Tema n. 181 do STF quando há necessidade de discussão ou superação de óbices de admissibilidade que resultaram no não conhecimento de recurso de competência do STJ.
+III. RAZÕES DE DECIDIR
+3.1. À luz do art. 1.030, I, do Código de Processo Civil, o tribunal de origem, em juízo de admissibilidade recursal, exerce competência própria ao negar seguimento ao recurso extraordinário pela sistemática da repercussão geral, não havendo usurpação de competência do STF.
+3.2. A decisão agravada fundamentou-se na aplicação do Tema n. 181 do STF, que estabelece ausência de repercussão geral da questão relativa ao preenchimento dos pressupostos de admissibilidade de recursos de competência de outros Tribunais.
+3.3. As razões do recurso extraordinário, voltadas ao óbice aplicado ou à matéria de fundo, demandam a reanálise ou superação do entendimento acerca do não conhecimento de recurso anterior.
+3.4. Nos termos do art. 1.030, I, a, do CPC, é justificada a negativa de seguimento ao recurso extraordinário quando a questão controvertida não possui repercussão geral.
+IV. DISPOSITIVO
+4.1. Agravo regimental a que se nega provimento.
+A parte embargante sustenta que o embargante demonstrou que o pedido de remessa dos autos ao STF não se confundia com a rediscussão dos pressupostos de admissibilidade do recurso especial, mas visava permitir ao STF examinar o pleito de con cessão de habeas corpus de ofício, formulado em razão de nulidade processual absoluta e violação a direitos fundamentais.
+E continua (fl. 3.534):
+Entretanto, o acórdão embargado, proferido pela Colenda Corte Especial, negou provimento ao Agravo Regimental, limitando-se a reiterar a aplicação do Tema 181 do STF e a reafirmar a ausência de repercussão geral em relação aos pressupostos de admissibilidade de recursos de competência de outros tribunais.
+Não por outra razão, o embargante demonstra, respeitosamente, à vista do que far-se-á nas linhas seguintes, a omissão substancial deste colegiado porquanto não apreciou questão expressamente suscitada no Agravo Regimental, referente à necessidade de remessa dos autos ao Supremo Tribunal Federal para análise do pleito de habeas corpus de ofício, distinto do exame de admissibilidade recursal.
+Requer o acolhimento dos aclaratórios para que os defeitos apontados sejam sanados, com a correspondente repercussão jurídica.
+É o relatório.
+EMENTA
+EMBARGOS DE DECLARAÇÃO. AGRAVO REGIMENTAL. RECURSO EXTRAORDINÁRIO. APLICAÇÃO DO RITO DA REPERCUSSÃO GERAL. AUSÊNCIA DE VÍCIOS. REDISCUSSÃO DA MATÉRIA.
+I. CASO EM EXAME
+1.1. Embargos de declaração opostos contra acórdão que manteve decisão que apreciou recurso extraordinário.
+1.2. O acórdão embargado aplicou o entendimento firmado pelo STF sob o rito da repercussão geral.
+II. QUESTÕES EM DISCUSSÃO
+2.1. A parte embargante alega vícios no acórdão que ensejariam a alteração das conclusões nele alcançadas.
+III. RAZÕES DE DECIDIR
+3.1. Nos termos do art. 619 do Código de Processo Penal, os embargos de declaração são cabíveis para sanar ambiguidade, obscuridade, contradição, omissão ou erro material em acórdão.
+3.2. O acórdão embargado apresentou, de forma satisfatória, os motivos da compreensão nele adotada, constatando-se a mera discordância da parte com a solução apresentada e o propósito de modificação do julgamento.
+IV. DISPOSITIVO
+4.1. Embargos de declaração rejeitados.
+VOTO
+2. O art. 619 do Código de Processo Penal disciplina que "aos acórdãos proferidos pelos Tribunais de Apelação, câmaras ou turmas, poderão ser opostos embargos de declaração, no prazo de dois dias contados da sua publicação, quando houver na sentença ambiguidade, obscuridade, contradição ou omissão".
+Os declaratórios são admitidos, também, para sanar eventual erro material na decisão embargada.
+No caso, é inviável o acolhimento da pretensão recursal, pois, conforme registrado no acórdão embargado, não se conheceu de recurso anterior, de competência do Superior Tribunal de Justiça, porque não preenchidos todos os pressupostos de admissibilidade, razão pela qual qualquer alegação do recurso extraordinário demandaria, inicialmente, a reapreciação dos fundamentos do não conhecimento de recurso que não é da competência do Supremo Tribunal Federal.
+Esclareceu-se que a Corte Suprema definiu que a discussão veiculada em recurso extraordinário que envolva o conhecimento de recurso anterior não possui repercussão geral (Tema n. 181/STF).
+Aduziu-se que, se as razões do recurso extraordinário se direcionam contra o não conhecimento do recurso anterior, é inviável a remessa do extraordinário ao Supremo Tribunal Federal, desfecho que não se modifica quando se relacionam à matéria de fundo do recurso do qual não se conheceu, e que também se aplica nos casos em que se aponta ofensa ao art. 105, III, da Constituição da República.
+3. Por fim, expressamente foi consignado, no que se refere à alegação de usurpação de competência do Supremo Tribunal Federal, nos termos do art. 1.030, I, a, do Código de Processo Civil, o Tribunal de origem, em juízo de admissibilidade recursal, exerce competência própria ao negar seguimento aos recursos extraordinários pela sistemática da repercussão geral (arts. 1.030 e seguintes do CPC).
+Nesse sentido:
+DIREITO PROCESSUAL CIVIL. AGRAVO INTERNO EM RECLAMAÇÃO. SISTEMÁTICA DA REPERCUSSÃO GERAL. APLICAÇÃO PELO TRIBUNAL DE ORIGEM. AUSÊNCIA DE TERATOLOGIA. SÚMULA VINCULANTE Nº 10. INTERPRETAÇÃO DE NORMAS. DESRESPEITO NÃO CONFIGURADO. RECURSO DESPROVIDO.
+I. CASO EM EXAME
+1. Agravo interno interposto contra pronunciamento que negou sequência à reclamação por não ter verificado equívoco na observância, pela Corte de origem, da sistemática da repercussão geral.
+2. A parte agravante insiste configurado equívoco na aplicação, na origem, dos Temas nº 181, 339, 417 e 655/RG, concluindo evidenciada usurpação da competência do Supremo para apreciar o extraordinário. Sustenta afastada a aplicação dos arts. 944 e 950 do CC sem observância da cláusula de reserva de plenário, em ofensa à Súmula vinculante nº 10.
+II. QUESTÃO EM DISCUSSÃO
+3. A questão em discussão consiste em saber: (i) se, ao aplicar a sistemática da repercussão geral para obstar o prosseguimento do recurso extraordinário, o órgão reclamado incidiu em erro a configurar usurpação de competência do Supremo; e (ii) se houve o afastamento da incidência de preceito legal por órgão fracionário de tribunal, em violação à Súmula vinculante nº 10.
+III. RAZÕES DE DECIDIR
+4. O STF consolidou o entendimento de que a aplicação da sistemática da repercussão geral é da competência do órgão judiciário de origem, nos termos do art. 1.030 do CPC, sem necessidade de remessa do recurso extraordinário ao STF (Rcl 42.193 AgR, Rel. Min. Alexandre de Moraes, DJe 9.9.2020).
+5. Não se admite, em reclamação, o reexame do enquadramento de teses de repercussão geral realizado pelo tribunal de origem, salvo em situações de manifesta teratologia, o que não se verifica no caso.
+6. Dissentir das razões adotadas pelas instâncias ordinárias demandaria reexaminar o conjunto fático-probatório, providência inviável em sede reclamatória.
+7. Dirimida a controvérsia a partir de interpretação de normas, inexiste violação à Súmula vinculante nº 10.
+IV. DISPOSITIVO
+8. Agravo interno desprovido.
+(Rcl n. 67231 AgR, relator Ministro Nunes Marques, Segunda Turma, julgado em 17/2/2025, DJe de 26/2/2025.)
+Inexistindo, portanto, vício a ser dissipado, constata-se a pretensão exclusiva de rediscutir a causa, a fim de modificar a decisão embargada, o que não se coaduna com a via aclaratória.
+4. Ante o exposto, rejeito os embargos de declaração.
+É como voto.
