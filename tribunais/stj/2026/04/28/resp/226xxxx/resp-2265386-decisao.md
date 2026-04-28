@@ -1,0 +1,34 @@
+DECISÃO
+Trata-se de recurso especial interposto pelo Distrito Federal, com fundamento no art. 105, inciso III, alínea a, da Constituição Federal, contra acórdão do Tribunal de Justiça do Distrito Federal e dos Territórios assim ementado (e-STJ, fls. 524-525):
+DIREITO PROCESSUAL CIVIL. APELAÇÃO CÍVEL. AÇÃO CIVIL PÚBLICA. RESSARCIMENTO AO ERÁRIO. ÚNICA NATUREZA RESSARCITÓRIA. LEGITIMIDADE ATIVA. INADEQUAÇÃO DA VIA ELEITA. RECURSO CONHECIDO E DESPROVIDO.
+I. CASO EM EXAME
+1. Apelação interposta pelo Distrito Federal contra sentença que julgou extinto o processo sem resolução de mérito, com fundamento no artigo 485, VI, do Código de Processo Civil por entender que a ação civil pública não é o meio adequado para ressarcimento ao erário pleiteado pelo próprio ente.
+II. QUESTÃO EM DISCUSSÃO
+2. A questão em discussão consiste em verificar se é possível propor ação civil pública de natureza unicamente ressarcitória.
+III. RAZÕES DE DECIDIR
+3. A ação civil pública é um instrumento processual destinado à defesa de direitos difusos e coletivos, conforme disposto na Lei nº 7.347/85.
+4. Em que pese o Distrito Federal possuir legitimidade para propor ação civil pública, a utilização dessa via unicamente para ressarcimento ao erário não é adequada quando se busca a defesa de patrimônio próprio do ente público.
+Os embargos de declaração opostos foram rejeitados (e-STJ, fls. 610-615).
+Nas razões do apelo (e-STJ, fls. 638-647), a parte recorrente aponta, de início, violação dos arts. 489 e 1.022 do Código de Processo Civil (CPC), por ausência de fundamentação e negativa de prestação jurisdicional, ante a não apreciação das teses opostas no recurso de apelação, no sentido de que a pretensão de ressarcimento configura defesa do patrimônio público e interesse da coletividade.
+No mérito recursal, defende que o Tribunal a quo infringiu os arts. 1º, VIII, e 5º, III, da Lei 7.347/1985, e o art. 84, § 1º, do Código de Defesa do Consumidor (CDC, Lei n. 8.078/1990), defendendo que a ação civil pública é instrumento processual adequado para a pretensão ressarcitória, em defesa do patrimônio público, conforme o microssistema de tutelas coletivas, ratificando a legitimidade ativa do ente federativo e à abrangência da defesa do patrimônio público e social.
+Contrarrazões apresentadas às fls. 663-668.
+O recurso foi admitido na origem (e-STJ, fls. 678-679).
+Parecer do Ministério Público Federal às fls. 699-707 (e-STJ).
+Brevemente relatado, decido.
+O recurso especial tem origem em ação civil pública proposta pelo Distrito Federal para ressarcimento ao erário decorrente de prejuízos relacionados à execução dos Contratos de Gestão n. 02/2005 e 03/2005. Nas instâncias ordinárias, a sentença extinguiu o feito sem resolução de mérito (art. 485, VI, do CPC), e o Tribunal a quo negou provimento à apelação, sob o fundamento de inadequação da via eleita para pretensão exclusivamente ressarcitória.
+Desse modo, a pretensão recursal apresentada no apelo cinge-se em verificar se a ação civil pública é instrumento hábil para veicular o pedido formulado pelo ente público.
+A respeito da alegada violação dos arts. 489 e 1.022 do CPC, por negativa de prestação jurisdicional, sustenta o recorrente que o Tribunal a quo não enfrentou a tese segundo a qual o pedido de ressarcimento ao erário pela via da ação civil pública não se confunde com a mera pretensão de cobrança e ressarcimento de valores, constituindo dever de proteção ao patrimônio social da coletividade, em conformidade com as alterações trazidas pela Lei n. 13.004/2014.
+Nesse sentido, afirmou, no ponto, que "a apreciação da tese segundo a qual o ressarcimento ao erário também representa lesão à coletividade/patrimônio público, levará à inevitável conclusão no sentido de que a ação civil pública ajuizada com fulcro no inciso VIII do art. 1º da Lei nº 7.347/85 deve prosseguir. " (e-STJ, fl. 644).
+Porém, não obstante a oposição dos embargos declaratórios com a devida delimitação da tese apontada acima, nota-se que o colegiado de origem deixou de enfrentar as questões suscitadas, ao argumento de que se trata de mero "inconformismo com a solução jurídica dada ao caso" (e-STJ, fl. 614).
+Tal circunstância impõe o retorno dos autos para que o órgão competente realize novo julgamento dos embargos de declaração, com a devida apreciação sobre a peculiaridade do caso. Veja-se:
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE COBRANÇA E RECONVENÇÃO. HONORÁRIOS SUCUMBENCIAIS. DISTRIBUIÇÃO. ALEGADA VIOLAÇÃO AOS ARTS. 489, § 1º, IV, E 1.022, I E II, DO CPC/2015. QUESTÕES RELEVANTES, EM TESE, À SOLUÇÃO DA CONTROVÉRSIA, OPORTUNAMENTE SUSCITADA NOS EMBARGOS DE DECLARAÇÃO, OPOSTOS NA ORIGEM. NEGATIVA DE PRESTAÇÃO JURISDICIONAL CONFIGURADA. AGRAVO EM RECURSO ESPECIAL CONHECIDO E RECURSO ESPECIAL PROVIDO. AGRAVO INTERNO IMPROVIDO.
+I. Agravo interno aviado contra decisão que julgara recurso interposto contra decisum publicado na vigência do CPC/2015.
+II. Na forma da jurisprudência desta Corte, ocorre violação aos arts. 489, § 1º, IV, e 1.022, I e II, do CPC/2015 quando o Tribunal de origem deixa de enfrentar questões relevantes ao julgamento da causa, suscitadas pela parte recorrente. Adotando tal orientação: STJ, AgInt no AREsp 1.377.683/SP, Rel. Ministro GURGEL DE FARIA, PRIMEIRA TURMA, DJe de 01/10/2020; REsp 1.915.277/RJ, Rel. Ministra ASSUSETE MAGALHÃES, SEGUNDA TURMA, DJe de 27/04/2021.
+III. No caso, embora o Tribunal a quo tenha sido instado no Apelo, inclusive mediante Embargos de Declaração, a se pronunciar sobre questões relevantes ao deslinde da controvérsia, quedou-se silente aquele Sodalício sobre tais matérias, que se revelam relevantes e podem conduzir à modificação do entendimento perfilhado pela Corte de origem.
+IV. Nesse contexto, impõe-se a confirmação da decisão que, em face da reconhecida violação aos arts. 489, § 1º, IV, e 1.022, I e II, do CPC/2015, conheceu do Agravo em Recurso Especial e deu provimento ao Recurso Especial, a fim de anular o acórdão que julgou os Embargos Declaratórios, determinando o retorno dos autos à origem, para novo julgamento, sanandose as omissões indicadas.
+V. Agravo interno improvido.
+(AgInt no AgInt no AREsp n. 1.810.873/GO, relatora Ministra Assusete Magalhães, Segunda Turma, julgado em 18/12/2023, DJe de 20/12/2023.)
+Diante do exposto, dou provimento ao recurso especial para, reconhecida a violação do art. 1.022 do CPC/2015, determinar ao Tribunal de origem que realize novo julgamento dos embargos de declaração, devendo se pronunciar, como entender de direito, sobre a relevante questão que lhe foi submetida pela parte embargante.
+Publique-se.
+EMENTA
+RECURSO ESPECIAL. AÇÃO CIVIL PÚBLICA. DIREITO ADMINISTRATIVO E PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. RESSARCIMENTO AO ERÁRIO. DEFESA DO PATRIMÔNIO PÚBLICO. VIOLAÇÃO AO ART. 1.022, II, DO CPC. OMISSÃO. RETORNO DOS AUTOS À ORIGEM. RECURSO ESPECIAL PROVIDO.
