@@ -1,0 +1,5 @@
+Art. 3º-A. Os servidores ocupantes dos cargos de Agente Policial de Custódia passam a ter lotação e exercício nas unidades que compõem a estrutura orgânica da Polícia Civil do Distrito Federal, mediante designação de seu Diretor-Geral.
+§ 1º Para os fins do disposto no caput, a apresentação dos servidores ao Diretor-Geral da Polícia Civil do Distrito Federal deverá ocorrer no prazo de 180 (cento e oitenta) dias, contado da data de publicação desta Lei.
+§ 2º As atividades dos servidores ocupantes dos cargos de Agente Policial de Custódia, no âmbito da Polícia Civil do Distrito Federal, deverão estar relacionadas às atribuições daquele cargo público.
+§ 3º No caso de servidores afastados ou licenciados, no momento da publicação desta Lei, por período superior ao estabelecido no § 1º, as lotações serão alteradas automaticamente pela unidade administrativa competente.
+§ 4º O servidor de que trata o § 3º deverá, no momento de seu retorno à atividade, apresentar-se ao Diretor-Geral da Polícia Civil do Distrito Federal.
