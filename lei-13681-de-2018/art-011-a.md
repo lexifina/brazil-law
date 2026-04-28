@@ -1,0 +1,7 @@
+Art. 11-A. Para fins de incorporação da GDExt aos proventos de aposentadoria, serão adotados os seguintes critérios:
+I - quando o benefício de aposentadoria tiver como critérios a integralidade e a paridade de que tratam a Emenda Constitucional nº 41, de 19 de dezembro de 2003, e a Emenda Constitucional nº 47, de 5 de julho de 2005, a gratificação corresponderá:
+a) a cinquenta pontos, considerados o nível, a classe e o padrão do servidor, para aqueles que perceberam a gratificação por período inferior a sessenta meses; ou
+b) à média dos pontos da gratificação de desempenho recebidos nos últimos sessenta meses de atividade, para aqueles que perceberam a gratificação por período igual ou superior a sessenta meses; ou
+II - quando o benefício de aposentadoria tiver como critérios a integralidade e a paridade de que trata a Emenda Constitucional nº 103, de 12 de novembro de 2019, deverá ser observado o disposto no art. 4º, § 8º, inciso II, da referida Emenda Constitucional.
+§ 1º Para os benefícios de aposentadoria e de pensão instituídos até 19 de fevereiro de 2004, aplica-se o disposto no inciso I do caput, conforme o interstício cumprido pelo instituidor.
+§ 2º Aos benefícios não alcançados pelos incisos I e II do caput e pelo § 1º, será aplicado o disposto na Lei nº 10.887, de 18 de junho de 2004, ou no art. 26 da Emenda Constitucional nº 103, de 12 de novembro de 2019, conforme a data de cumprimento dos respectivos requisitos, observado o disposto na Lei nº 12.618, de 30 de abril de 2012.

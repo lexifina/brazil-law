@@ -1,0 +1,1 @@
+Art. 13-A. A partir de 1º de janeiro de 2025, aplica-se aos empregados de que trata o art. 13 a estrutura constante do Anexo VI-A a esta Lei, observada a correlação estabelecida na forma do Anexo VI-B a esta Lei.
