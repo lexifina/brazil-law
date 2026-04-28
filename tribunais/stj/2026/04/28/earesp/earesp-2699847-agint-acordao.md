@@ -1,0 +1,97 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da CORTE ESPECIAL do Superior Tribunal de Justiça, em Sessão Virtual de 22/04/2026 a 28/04/2026, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Mauro Campbell Marques, Benedito Gonçalves, Raul Araújo, Maria Isabel Gallotti, Antonio Carlos Ferreira, Ricardo Villas Bôas Cueva, Sebastião Reis Júnior, Francisco Falcão, Nancy Andrighi, João Otávio de Noronha, Humberto Martins, Maria Thereza de Assis Moura e Og Fernandes votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Presidente do STJ.
+EMENTA
+AGRAVO INTERNO. RECURSO EXTRAORDINÁRIO. FUNDAMENTAÇÃO DO JULGADO RECORRIDO. SUFICIÊNCIA. TEMA N. 339 DO STF. CONFORMIDADE COM A TESE FIXADA EM REPERCUSSÃO GERAL. OFENSA AOS PRINCÍPIOS DO CONTRADITÓRIO E DA AMPLA DEFESA. AUSÊNCIA DE REPERCUSSÃO GERAL. TEMA N. 660 DO STF. ART. 1.030, I, A, DO CPC.
+I. CASO EM EXAME
+1.1. Agravo interno interposto contra decisão que negou seguimento a recurso extraordinário, sob a fundamentação de que a decisão recorrida está em conformidade com o Tema n. 339 do STF e diante da ausência de repercussão geral do Tema n. 660 do STF.
+1.2. A parte agravante argumentou a ausência de fundamentação jurisdicional adequada, em contrariedade ao Tema n. 339 do STF, alegando ainda que o Tema n. 660 do STF não deveria ser aplicado ao caso, em razão de existir ofensa direta à Constituição Federal.
+II. QUESTÕES EM DISCUSSÃO
+2.1. A conformidade do acórdão recorrido com o Tema n. 339 do STF, que trata da suficiência da fundamentação das decisões judiciais.
+2.2. A aplicabilidade do Tema n. 660 do STF a caso em que se discute a suposta contrariedade aos princípios constitucionais, quando o exame depende de normas infraconstitucionais.
+III. RAZÕES DE DECIDIR
+3.1. O STF, ao tratar do Tema n. 339 da repercussão geral, firmou a tese de que a Constituição Federal exige que acórdãos e decisões sejam fundamentados, ainda que sucintamente, sem vinculação à correção ou abrangência detalhada de todas as alegações das partes, mas sim à existência de motivação que permita a compreensão da solução dada à controvérsia.
+3.2. No caso concreto, o acórdão recorrido apresentou motivação adequada para a solução da controvérsia, em conformidade com o Tema n. 339, razão pela qual é justificada a negativa de seguimento ao recurso
+3.3. O STF, no Tema n. 660 da repercussão geral, firmou a tese de que a alegação de afronta aos princípios do contraditório, da ampla defesa, do devido processo legal e da segurança jurídica, bem como ao ato jurídico perfeito, ao direito adquirido e aos limites da coisa julgada, quando depende de análise de normas infraconstitucionais, configura ofensa reflexa ao texto constitucional, não possuindo repercussão geral.
+3.4. Na espécie, a discussão suscitada no recurso extraordinário exige a prévia apreciação de normas infraconstitucionais, motivo pelo qual se aplica o entendimento consolidado no Tema n. 660 do STF.
+3.5. Nos termos do art. 1.030, I, a, do CPC, é justificada a negativa de seguimento ao recurso extraordinário quando a questão controvertida não possui repercussão geral.
+IV. DISPOSITIVO
+4.1. Agravo interno a que se nega provimento.
+RELATÓRIO
+1. Trata-se de agravo interno interposto contra a decisão que negou seguimento ao recurso extraordinário, assim ementada (fl. 953):
+RECURSO EXTRAORDINÁRIO. FUNDAMENTAÇÃO DO JULGADO RECORRIDO. SUFICIÊNCIA. TEMA N. 339 DO STF. CONFORMIDADE COM A TESE FIXADA EM REPERCUSSÃO GERAL. OFENSA AOS PRINCÍPIOS DO CONTRADITÓRIO, DA AMPLA DEFESA E DO DEVIDO PROCESSO LEGAL, BEM COMO AO ATO JURÍDICO PERFEITO, AO DIREITO ADQUIRIDO E AOS LIMITES DA COISA JULGADA. EXAME DE NORMAS INFRACONSTITUCIONAIS. AUSÊNCIA DE REPERCUSSÃO GERAL. TEMA N. 660 DO STF. ART. 1.030, I, A, DO CPC. NEGATIVA DE SEGUIMENTO.
+A parte agravante alega que o Tema n. 339 do STF não teria sido aplicado de forma correta, pois o acórdão objeto do recurso extraordinário não teria se manifestado, ainda que sucintamente, sobre os dispositivos legais indicados nos embargos de declaração para fins de prequestionamento, em ofensa ao art. 93, IX, da Constituição Federal.
+Sustenta a inaplicabilidade do Tema n. 660 do STF ao caso, porque a violação do art. 5º, LV, da CF seria direta e não dependeria da prévia análise de normas infraconstitucionais. Ademais, a situação fática seria diversa da tratada no julgado que deu origem ao referido tema.
+Reafirma a existência de repercussão geral da matéria discutida e o preenchimento dos requisitos para a análise do mérito recursal.
+Requer o provimento do agravo para que o recurso extraordinário seja admitido, com a remessa dos autos ao Supremo Tribunal Federal.
+As contrarrazões foram apresentadas às fls. 991-993.
+É o relatório.
+EMENTA
+AGRAVO INTERNO. RECURSO EXTRAORDINÁRIO. FUNDAMENTAÇÃO DO JULGADO RECORRIDO. SUFICIÊNCIA. TEMA N. 339 DO STF. CONFORMIDADE COM A TESE FIXADA EM REPERCUSSÃO GERAL. OFENSA AOS PRINCÍPIOS DO CONTRADITÓRIO E DA AMPLA DEFESA. AUSÊNCIA DE REPERCUSSÃO GERAL. TEMA N. 660 DO STF. ART. 1.030, I, A, DO CPC.
+I. CASO EM EXAME
+1.1. Agravo interno interposto contra decisão que negou seguimento a recurso extraordinário, sob a fundamentação de que a decisão recorrida está em conformidade com o Tema n. 339 do STF e diante da ausência de repercussão geral do Tema n. 660 do STF.
+1.2. A parte agravante argumentou a ausência de fundamentação jurisdicional adequada, em contrariedade ao Tema n. 339 do STF, alegando ainda que o Tema n. 660 do STF não deveria ser aplicado ao caso, em razão de existir ofensa direta à Constituição Federal.
+II. QUESTÕES EM DISCUSSÃO
+2.1. A conformidade do acórdão recorrido com o Tema n. 339 do STF, que trata da suficiência da fundamentação das decisões judiciais.
+2.2. A aplicabilidade do Tema n. 660 do STF a caso em que se discute a suposta contrariedade aos princípios constitucionais, quando o exame depende de normas infraconstitucionais.
+III. RAZÕES DE DECIDIR
+3.1. O STF, ao tratar do Tema n. 339 da repercussão geral, firmou a tese de que a Constituição Federal exige que acórdãos e decisões sejam fundamentados, ainda que sucintamente, sem vinculação à correção ou abrangência detalhada de todas as alegações das partes, mas sim à existência de motivação que permita a compreensão da solução dada à controvérsia.
+3.2. No caso concreto, o acórdão recorrido apresentou motivação adequada para a solução da controvérsia, em conformidade com o Tema n. 339, razão pela qual é justificada a negativa de seguimento ao recurso
+3.3. O STF, no Tema n. 660 da repercussão geral, firmou a tese de que a alegação de afronta aos princípios do contraditório, da ampla defesa, do devido processo legal e da segurança jurídica, bem como ao ato jurídico perfeito, ao direito adquirido e aos limites da coisa julgada, quando depende de análise de normas infraconstitucionais, configura ofensa reflexa ao texto constitucional, não possuindo repercussão geral.
+3.4. Na espécie, a discussão suscitada no recurso extraordinário exige a prévia apreciação de normas infraconstitucionais, motivo pelo qual se aplica o entendimento consolidado no Tema n. 660 do STF.
+3.5. Nos termos do art. 1.030, I, a, do CPC, é justificada a negativa de seguimento ao recurso extraordinário quando a questão controvertida não possui repercussão geral.
+IV. DISPOSITIVO
+4.1. Agravo interno a que se nega provimento.
+VOTO
+2. No julgamento do paradigma vinculado ao Tema n. 339, o Supremo Tribunal Federal apreciou a seguinte questão:
+ ..  se decisão que transcreve os fundamentos da decisão recorrida, sem enfrentar pormenorizadamente as questões suscitadas nos embargos declaratórios, afronta o princípio da obrigatoriedade de fundamentação das decisões judiciais, nos termos do art. 93, IX, da Constituição Federal.
+Na ocasião, firmou-se a seguinte tese vinculante: "O art. 93, IX, da Constituição Federal exige que o acórdão ou decisão sejam fundamentados, ainda que sucintamente, sem determinar, contudo, o exame pormenorizado de cada uma das alegações ou provas."
+O respectivo acórdão recebeu a seguinte ementa:
+Questão de ordem. Agravo de Instrumento. Conversão em recurso extraordinário (CPC, art. 544, §§ 3º e 4º).
+2. Alegação de ofensa aos incisos XXXV e LX do art. 5º e ao inciso IX do art. 93 da Constituição Federal. Inocorrência.
+3. O art. 93, IX, da Constituição Federal exige que o acórdão ou decisão sejam fundamentados, ainda que sucintamente, sem determinar, contudo, o exame pormenorizado de cada uma das alegações ou provas, nem que sejam corretos os fundamentos da decisão.
+4. Questão de ordem acolhida para reconhecer a repercussão geral, reafirmar a jurisprudência do Tribunal, negar provimento ao recurso e autorizar a adoção dos procedimentos relacionados à repercussão geral.
+(AI n. 791.292-QO-RG, relator Ministro Gilmar Mendes, Tribunal Pleno, julgado em 23/6/2010, DJe de 13/8/2010.)
+Por isso, para que um acórdão ou decisão seja considerado fundamentado, conforme definido pelo STF, não é necessária a apreciação de todas as alegações feitas pelas partes, desde que haja motivação considerada suficiente para a solução da controvérsia.
+Nesse contexto, a caracterização de ofensa ao art. 93, IX, da Constituição Federal não está relacionada ao acerto atribuído ao julgado, ainda que a parte recorrente considere sucinta ou incompleta a análise das alegações recursais.
+No caso, conforme consignado na decisão agravada, foram declinados, de forma satisfatória, os motivos da compreensão adotada no acórdão objeto do recurso extraordinário, como se observa do seguinte trecho do referido julgado (fl. 859):
+A decisão impugnada deve ser mantida pelo que nela se contém, tendo em conta que a parte agravante não logrou desconstituir seu fundamento, motivo pelo qual a trago ao Colegiado para ser confirmada.
+Destaco que a decisão agravada indeferiu liminarmente os embargos de divergência haja vista que o acórdão embargado concluiu pela impossibilidade de se analisar o mérito do Recurso Especial em razão da falta de impugnação específica dos fundamentos da decisão recorrida. Tal situação impede, por si só, o conhecimento desta via de impugnação, pois não se admite a interposição de Embargos de Divergência na hipótese de não ter sido analisado o mérito do Recurso Especial, a teor da Súmula n. 315/STJ: "Não cabem embargos de divergência no âmbito do agravo de instrumento que não admite recurso especial" (fl. 877).
+Consoante se observa do acórdão embargado, mostra-se inequívoca a incidência do óbice da Súmula 315/STJ, na medida em que não examinou o mérito do recurso especial, a obstar a admissibilidade dos embargos de divergência, porquanto não evidenciada divergência de teses jurídicas, nos termos do art. 266, § 1º, do RISTJ e do art. 1.043 do Código de Processo Civil. Nesse diapasão: AgInt nos EAREsp n. 1.441.916/SC, Ministro Og Fernandes, Corte Especial, DJe 26/8/2020; AgRg nos EREsp n. 1.803.437/SC, Ministro Herman Benjamin, Corte Especial, DJe 17/6/2020; e AgInt nos EAREsp n. 1.022.112/SP, Ministro Humberto Martins, Corte Especial, DJe 4/4/2018.
+Ademais, é firme o entendimento no âmbito da Corte Especial do STJ, no sentido de que não cabe a oposição de embargos de divergência com o objetivo de discutir o acerto ou desacerto na aplicação de regra técnica de admissibilidade do recurso especial. Ilustrativamente: AgInt nos EAREsp n. 1.883.018/RJ, Ministro Mauro Campbell Marques, Corte Especial, DJe 17/11/2023; AgRg nos EREsp n. 1.388.345/AL, Ministro Francisco Falcão, Corte Especial, DJe 15/9/2023; AgInt nos EREsp n. 1.530.013/PR, Ministro Luis Felipe Salomão, Corte Especial, DJe 2/5/2018; e AgRg nos EAREsp n. 585.779/MS, Ministro Og Fernandes, Corte Especial DJe 21/3/2016.
+Em verdade, verifica-se que a parte recorrente não pretende discutir tese jurídica, mas, sim, rever a aplicação da Súmula no caso concreto, o que é descabido na via eleita. O Superior Tribunal de Justiça já firmou entendimento no sentido de que são incabíveis embargos de divergência com o intuito de reapreciar a efetiva ocorrência dos óbices de admissibilidade do recurso especial (AgInt nos EREsp n. 2.011.454/SP, Ministro Ricardo Villas Bôas Cueva, Corte Especial, DJe 27/5/2024).
+Do mesmo modo, foi devidamente motivada a rejeição dos embargos de declaração opostos na sequência, nos seguintes termos (fls. 914-915):
+O acórdão não padece dos vícios preconizados no art. 1.022 do Código de Processo Civil.
+No caso, não há omissão, contradição ou obscuridade no aresto embargado; ao contrário, todos os elementos necessários para a solução foram apresentados. O acórdão embargado ostenta fundamentação clara e suficiente para firmar a conclusão nele estabelecida, bem como se baseou nos fatos havidos no feito.
+Cumpre destacar a orientação do Supremo Tribunal Federal, firmada em julgado com repercussão geral, no sentido de que as decisões judiciais não precisam ser necessariamente analíticas, bastando que contenham fundamentos suficientes para justificar suas conclusões (QO no AI n. 791.292, julgado sob a relatoria do Ministro Gilmar Mendes), circunstância verificada no caso.
+As questões invocadas pela parte embargante foram levadas em consideração pela Corte Especial, tendo chegado à conclusão de que não houve exame de mérito no acórdão do órgão fracionário, assim como que não há discussão sobre tese jurídica (mesmo que processual).
+Desse modo, o que se verifica das razões dos embargos é a tentativa do embargante de, por via oblíqua, rediscutir as conclusões da decisão embargada, providência descabida na via eleita. A propósito: EDcl no AgRg no MS n. 28.736/DF, Ministro Antonio Carlos Ferreira, Corte Especial, DJe 17/3/2023; EDcl no MS n. 28.073/DF, Ministro Raul Araújo, Corte Especial, DJe 15/8/2022; e AgInt no MS n. 28.267/DF, Ministra Nancy Andrighi, Corte Especial, DJe 27/5/2022.
+No mais, registro que a pretensão da parte embargante é, como expressamente declinado na peça recursal, prequestionar matérias constitucionais.
+Ocorre que não é possível acolher os embargos de declaração opostos com o objetivo de prequestionar matéria constitucional, já que o exame de constitucionalidade, em sede de apelo excepcional, está adstrito à competência judicante do excelso Pretório, nos termos do art. 102, III, "a", da Constituição Federal. (EDcl no AgRg nos EAg n. 1.333.195/PR, Ministro Humberto Martins, Corte Especial, DJe 25/4/2024).
+Nesse mesmo sentido:  ..
+Assim, diante da manifesta improcedência dos aclaratórios, cumpre advertir o embargante de que a oposição de novos embargos de declaração (manifestamente improcedentes) ensejará a aplicação dos consectários delineados na jurisprudência desta Corte, a saber: baixa imediata dos autos com certificação do trânsito em julgado ou a remessa dos autos para o Supremo Tribunal Federal (na hipótese de remanescer recurso pendente de competência daquela Corte), sem prejuízo de aplicação de multa.
+Verifica-se, portanto, que foram suficientemente apresentadas as razões pelas quais não estão preenchidos os requisitos de admissibilidade do recurso dirigido ao STJ, não tendo sido examinada a matéria de fundo, motivo pelo qual é inviável o exame das questões relacionadas ao mérito recursal e ao acerto da aplicação de óbices processuais por esta Corte.
+Com efeito, demonstrada a realização da prestação jurisdicional constitucionalmente adequada, ainda quando não se concorde com a solução dada à causa, afigura-se inviável o prosseguimento do recurso extraordinário, pois o provimento recorrido encontra-se em sintonia com a tese fixada no Tema n. 339 do STF.
+3. Ademais, conforme consignado na decisão agravada, o STF já definiu que a suscitada afronta aos princípios do contraditório, da ampla defesa, do devido processo legal e da segurança jurídica, bem como ao ato jurídico perfeito, ao direito adquirido e aos limites da coisa julgada, quando depende da prévia análise de normas infraconstitucionais, configura ofensa reflexa ao texto constitucional.
+O referido entendimento foi fixado no Tema n. 660 do STF, nos seguintes termos:
+A questão da ofensa aos princípios do contraditório, da ampla defesa, do devido processo legal e dos limites à coisa julgada, tem natureza infraconstitucional, e a ela se atribuem os efeitos da ausência de repercussão geral, nos termos do precedente fixado no RE n. 584.608, rel. a Ministra Ellen Gracie, DJe 13/03/2009.
+(ARE n. 748.371-RG, relator Ministro Gilmar Mendes, julgado em 6/6/2013, DJe de 1º/8/2013.)
+Confiram-se ainda:
+AGRAVO REGIMENTAL EM RECLAMAÇÃO. USURPAÇÃO DE COMPETÊNCIA NÃO CONFIGURADA. SISTEMÁTICA DA REPERCUSSÃO GERAL. COMPETÊNCIA DAS CORTES DE ORIGEM. DESCABIMENTO DA AÇÃO. TEMA 660 DA REPERCUSSÃO GERAL. INCIDÊNCIA. AGRAVO A QUE SE NEGA PROVIMENTO.
+1. A aplicação da sistemática da repercussão geral é atribuição das Cortes de origem, nos termos do art. 1.030 do CPC.
+2. O questionamento de regras infraconstitucionais de direito intertemporal e de sucumbência, à luz do princípio da segurança jurídica, está compreendido nas razões de decidir do Tema 660 da sistemática da repercussão geral e pressupõe análise da legislação infraconstitucional aplicável.
+3. Não se admite o uso da via reclamatória como sucedâneo recursal ou das ações autônomas de impugnação cabíveis.
+4. Agravo regimental a que se nega provimento.
+(Rcl n. 47.840-AgR, relator Ministro Edson Fachin, Segunda Turma, julgado em 4/10/2021, DJe de 11/10/2021.)
+AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. POSTO DE COMBUSTÍVEL. ALVARÁ. NEGATIVA DE RENOVAÇÃO. ART. 1º DA LEI COMPLEMENTAR DISTRITAL 300/2000. DISPOSITIVO DE LEI DECLARADO INCONSTITUCIONAL PELO TJDFT. ÁREA DESTINADA À RESIDÊNCIA. MODULAÇÃO DOS EFEITOS. MATÉRIA INFRACONSTITUCIONAL. ALEGADA OFENSA AO PRINCÍPIO DA SEGURANÇA JURÍDICA. REEXAME DE FATOS E PROVAS E DE LEGISLAÇÃO LOCAL. SÚMULAS 279 E 280 DO STF. TEMA 660. INEXISTÊNCIA DE REPERCUSSÃO GERAL.
+ ..
+2. Esta Corte já assentou a inexistência da repercussão geral quando a alegada ofensa aos princípios do devido processo legal, da ampla defesa, do contraditório, da legalidade e dos limites da coisa julgada é debatida sob a ótica infraconstitucional (ARE-RG 748.371,da relatoria do Min. Gilmar Mendes, DJe 1º.08.2013, tema 660 da sistemática da RG).
+ ..
+4. Agravo regimental a que se nega provimento. Inaplicável o art. 85, § 11, do CPC, tendo em vista que não houve prévia fixação de honorários na origem.
+(ARE n. 1.252.422-AgR, relator Ministro Edson Fachin, Segunda Turma, julgado em 8/6/2021, DJe de 14/6/2021.)
+Essa conclusão foi adotada sob o regime da repercussão geral e é de aplicação obrigatória, devendo os tribunais, ao analisar a viabilidade prévia dos recursos extraordinários, negar seguimento àqueles que discutam questão à qual o STF não tenha reconhecido a existência de repercussão geral, nos termos do art. 1.030, I, a, do Código de Processo Civil.
+No caso dos autos, do teor dos julgados impugnados, já transcritos, verifica-se que o exame da alegada ofensa ao art. 5º, LV, da Constituição Federal dependeria da análise de dispositivos da legislação infraconstitucional considerados na solução do acórdão recorrido, motivo pelo qual se aplica a conclusão do STF no mencionado Tema n. 660.
+4. Ante o exposto, nego provimento ao agravo interno.
+Advirto que a oposição de embargos de declaração com intuito manifestamente protelatório poderá ser sancionada com a multa prevista no art. 1.026, § 2º, do Código de Processo Civil.
+É como voto.
