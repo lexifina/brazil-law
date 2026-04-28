@@ -1,0 +1,49 @@
+DECISÃO: Trata-se de agravo interposto contra decisão de inadmissibilidade de recurso extraordinário em face de acórdão do Tribunal de Justiça de Sergipe, ementado nos seguintes termos:
+
+“MANDADO DE INJUNÇÃO – SERVIDOR PÚBLICO – MUNICÍPIO DE ARACAJU – Guarda Municipal – Plano de carreira, cargos e salários Preliminar de falta de interesse de agir rejeitada – Legislação existente – Leis Municipais nºs 4.108/2011 e 4.132/2011 – Questionamentos constitucionais que transbordam os limites do mandado de injunção – Inexistência de mora legislativa – Ordem denegada – Decisão unânime.
+- O Sindicato dos Agentes de Trânsito de Aracaju impetrou mandado de injunção pretendendo a organização da carreira com a propositura e aprovação do ‘Plano de Carreira’ da categoria.
+- É fácil verificar que os cargos de Agente da Mobilidade Urbana, criados pela Lei municipal nº 4.108/2011, tiveram a nomenclatura alterada para Agente de Trânsito Municipal por via da Lei Municipal de Aracaju n° 4.702/2015. Também se verifica que a Lei Municipal nº 4.108/2011 criou cargos e definiu a remuneração dos Agentes de Trânsito de Aracaju, dispondo sobre os direitos e deveres da carreira, constando no Anexo I da aludida legislação o tópico da REMUNERAÇÃO que estabelece o ingresso na carreira como nível III, letra A, da Tabela de vencimentos do Quadro de Pessoal da SMTT.
+- Inibindo a alegação de mora legislativa, existe a Lei Municipal nº 4.132/2011 que disciplinou a progressão na carreira dos agentes de trânsito e disse que as regras de progressão nas letras daqueles cargos seriam aquelas previstas para os servidores que fazem parte do Quadro de Pessoal da SMTT.
+- Portanto, verificando-se que existe lei disciplinando a carreira dos Agentes de Trânsito de Aracaju, deve ser indeferido o mandado de injunção porque tal ação não comporta a discussão a respeito da legalidade, razoabilidade ou constitucionalidade de leis”. (eDOC 20 – ID: 23733cac)
+
+No recurso extraordinário, interposto com fundamento no art. 102, III, “a”, da Constituição Federal, aponta-se violação aos arts. 5º, LXXI, e 144, do texto constitucional. (eDOC 22 – ID: 292d8609)
+Nas razões recusais, o Sindicato dos Agentes de Trânsito de Aracaju se insurge contra acórdão que denegou mandado de injunção coletivo em que se pleiteia o reconhecimento de omissão legislativa quanto à instituição de plano de cargos, carreira e remuneração dos agentes de trânsito municipais.
+Afirma que “não se pode alegar que tais leis (4.108 e 4.132) e suas referências (Lei nº 1.30 de 1984), a qual criou a antiga Superintendência Municipal de Transporte Urbano – SMTU juntamente com seu Anexo I, servem como plano de carreira dos servidores em questão, em razão de que a mera criação de um Cargo Público e a definição de vencimentos são atos insuficientes para validação de uma Carreira Estruturada”.(eDOC 22 – ID: 292d8609, p. 10)
+Aduz que a partir da EC 82/2014, “o cargo Agente de Trânsito passou a ser categoria diferenciada a ser organizada em Plano de Carreira específico, obrigando, assim, que estejam estruturados em carreira. Com isso, os Agentes de Trânsito passaram a ser integrantes dos órgãos de segurança pública, e, poderão, por exemplo, ter vantagens remuneratórias com base no princípio da paridade “estruturado em Carreira”. (eDOC 22 – ID: 292d8609, p. 12)
+É o relatório.
+Decido.
+O recurso não merece prosperar.
+O mandado de injunção deve ter por objeto o não cumprimento de dever constitucional de legislar que, de alguma forma, afeta direitos constitucionalmente assegurados, ou seja, a falta de norma regulamentadora que torne inviável o exercício de direitos e liberdades constitucionais e das prerrogativas inerentes à soberania e à cidadania.
+Para que o mandado de injunção seja cabível, é imprescindível que se demonstre o preenchimento dos seguintes requisitos: (i) a titularidade de direito constitucionalmente assegurado e (ii) a comprovação da inviabilidade de exercê-lo em virtude da omissão do órgão legiferante.
+Pois bem.
+No caso dos autos, trata-se de mandado de injunção impetrado na origem com a finalidade de suprir omissão legislativa quanto à edição da lei a que alude o art. 144, § 10, II, da Constituição Federal.
+O Tribunal de origem, com fundamento na Lei Municipal nº 4.132/2011, destacou a inexistência de mora legislativa do Município de Aracajú em regulamentar o plano de carreira do cargo de Agente de Trânsito Municipal, concluindo que não há impedimento do exercício de direitos constitucionalmente assegurados, denegando, assim, o mandado de injunção impetrado. Nesses termos, colho trecho do acórdão recorrido:
+
+“No mérito, é fácil verificar que os cargos de Agente da Mobilidade Urbana, criados pela Lei municipal nº 4.108/2011, tiveram a nomenclatura alterada para Agente de Trânsito Municipal por via da Lei Municipal de Aracaju n° 4.702/2015.
+Também se verifica que a Lei Municipal de Aracaju nº 4.108/2011 criou cargos e definiu a remuneração dos Agentes de Trânsito de Aracaju e dispôs sobre os direitos e deveres da carreira:
+“Art. 6º. Os direitos e deveres dos ocupantes dos cargos criados nesta Lei serão aqueles previstos para os servidores da Administração Municipal Geral, além daqueles previsto nesta Lei.”
+No Anexo I da aludida legislação consta um tópico a respeito da REMUNERAÇÃO (para carga horária de 30 horas semanais) dos agentes de trânsito.
+“REMUNERAÇÃO (para carga horária de 30 horas semanais):
+- O Agente de Mobilidade Urbana ingressa na carreira como nível III, letra A, da Tabela de vencimentos do Quadro de Pessoal da SMTT, de acordo com a Resolução nº 03, de 30 março de 2011.”
+Veio a Lei Municipal nº 4.132/2011 e disciplinou a progressão na carreira, inserindo um parágrafo único no artigo 6º citado:
+“Art. 6º. Os direitos e deveres dos ocupantes dos cargos criados nesta Lei serão aqueles previstos para os servidores da Administração Municipal Geral, além daqueles previsto nesta Lei.
+Parágrafo único. As regras de progressão nas letras dos cargos criados nesta Lei serão aquelas previstas para os servidores que fazem parte do Quadro de Pessoal da SMTT.”
+Portanto, o que se verifica é que existe lei disciplinando a carreira dos Agentes de Trânsito de Aracaju.
+Discutir a razoabilidade ou a constitucionalidade de tais leis não é caso de mandado de injunção, sendo certo que a matéria transborda os limites injuncionais.
+Por consequência do que aqui ficou esclarecido, não deve ser declarada a mora legislativa para a criação do plano de carreira dos cargos de Agentes de Trânsito do Município de Aracaju, devendo ser indeferido este ‘writ’
+(...)”. (eDOC 20 – ID: 23733cac, p. 5)
+
+Assim, verifica-se que a matéria debatida no acórdão recorrido restringe-se ao âmbito infraconstitucional, de modo que a ofensa à Constituição, se existente, seria reflexa ou indireta, o que inviabiliza o processamento do presente recurso.
+Além disso, divergir desse entendimento demandaria o revolvimento do acervo fático-probatório, providência inviável no âmbito do recurso extraordinário. Nesses termos, incide no caso a Súmula 279 do Supremo Tribunal Federal.
+Confira-se, a propósito, o seguinte precedente:
+
+“EMENTA: AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO COM AGRAVO. REVISÃO GERAL E ANUAL. SERVIDORES PÚBLICOS. ART. 37, X, DA CF. EXERCÍCIO DE 2016. AUSÊNCIA DE OMISSÃO LEGISLATIVA. EXISTÊNCIA DE PREVISÃO LEGAL. NÃO CABIMENTO DE MANDADO DE INJUNÇÃO. INADEQUAÇÃO DA VIA ELEITA. INDEFERIMENTO DA INICIAL. ART. 6º, DA LEI 13.300/2016. OFENSA REFLEXA. REEXAME DE FATOS E PROVAS. SÚMULA 279 DO STF. ACÓRDÃO RECORRIDO QUE CONSIDEROU A PERDA DO OBJETO DO MI. 1. No presente caso, verifica-se que o Tribunal a quo, ao confirmar a decisão monocrática que indeferiu a petição inicial por manifestamente incabível e julgou extinto o feito sem exame de mérito, decidiu a questão com fundamento na legislação infraconstitucional aplicável à espécie, referente à análise de pressuposto de cabimento de mandado de injunção (art. 6º, da Lei 13.300/2016 e 485, VI, do CPC). Além disso, julgou a causa com base no conjunto fático-probatório dos autos (Súmula 279), o que impede o trânsito do apelo extremo. 2. A Corte de origem, no acórdão proferido nos embargos de declaração, esclareceu que não houve omissão legislação e sim administrativa, considerando que, embora existente a previsão legal, a Presidência do TJ/CE não enviou a mensagem do reajuste anual dos servidores do Poder Judiciário à Assembleia Legislativa referente ao exercício de 2016, fato que ocorreu somente em 2017 por meio da Lei nº 16.262/2017, confirmando o fundamento do acórdão proferido no mandado de injunção que concluiu pela perda superveniente de objeto. 3. Ademais, a jurisprudência do Supremo Tribunal Federal se firmou no sentido de não caber ao Poder Judiciário determinar ao Poder Executivo a apresentação de projeto de lei que vise a promover a revisão geral anual da remuneração dos servidores públicos, tampouco para fixar o respectivo índice de correção (RE 843.112, Rel. Min. Luiz Fux – Tema 624 da repercussão geral. 4. Analisando questão semelhante, o Plenário desta Corte concluiu que “o art. 37, X, da CF/1988 não estabelece um dever específico de que a remuneração dos servidores seja objeto de aumentos anuais” (RE 565.089, Red. p/o acórdão o Min. Luís Roberto Barroso) 5. Agravo regimental a que se nega provimento. Incabível a majoração dos honorários, tendo em vista que não foram fixados nas instâncias de origem”. (ARE 1360029 AgR-segundo, Rel. Min. Edson Fachin, Segunda Turma, DJe 19.09.2022)
+
+Ante o exposto, nego seguimento ao recurso (artigo 932, VIII, do CPC, c/c art. 21, §1º, do RISTF) e, tendo em vista a ausência de fixação de honorários pela origem, deixo de aplicar o disposto no §11 do art. 85 do CPC.
+
+Publique-se.
+Brasília, 28 de abril de 2026.
+
+Ministro GILMAR MENDES
+Relator
+Documento assinado digitalmente
