@@ -1,0 +1,27 @@
+DECISÃO
+Cuida-se de Habeas Corpus impetrado em favor de ANDERSON RICARDO BARBOSA em que se aponta como ato coator o acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO assim ementado:
+APELAÇÃO - LESÃO CORPORAL NO ÂMBITO DOMÉSTICO - Materialidade e autoria delitivas nitidamente demonstradas nos autos, pelas palavras da vítima, que estão amparadas pelo laudo pericial e pela prova testemunhal - Absolvição inviável - Pena e regime bem arbitrados - Réu portador de maus antecedentes e reincidente - Recurso defensivo desprovido.
+Consta dos autos que o paciente foi condenado à pena de 1 (um) ano, 4 (quatro) meses e 10 (dez) dias de reclusão, em regime inicial semiaberto, pela prática do delito capitulado no art. 129, § 13, do Código Penal.
+Em suas razões, sustenta a impetrante a ocorrência de constrangimento ilegal, porquanto a fixação do regime inicial de cumprimento da pena carece de fundamentação individualizada, sem análise das circunstâncias judiciais do art. 59 do Código Penal e das condições pessoais do paciente.
+Alega que tanto a sentença quanto o acórdão limitaram-se a invocar a reincidência e a pena inferior a 4 (quatro) anos, deixando de apreciar antecedentes, conduta social e demais elementos do caso concreto, em violação ao princípio da individualização da pena.
+Argumenta que o acórdão contém erro material ao afirmar, de forma contraditória, que o regime inicial seria o aberto e, na sequência, manter o regime semiaberto, sem apresentar fundamentação própria para a escolha do regime, o que agrava o constrangimento ilegal.
+Requer, liminarmente e no mérito, a fixação do regime inicial de cumprimento da pena de forma motivada e proporcional, nos termos do art. 33 do Código Penal.
+É o relatório.
+Decido.
+A Terceira Seção do STJ, no julgamento do HC n. 535.063/SP, firmou o entendimento de que não cabe Habeas Corpus substitutivo de recurso próprio, impondo-se o não conhecimento da impetração, salvo quando constatada alguma teratologia no ato judicial impugnado (Rel. Ministro Sebastião Reis Júnior, DJe de 25.8.2020).
+Assim, passo à análise das razões da impetração a fim de verificar se há flagrante ilegalidade que justifique a concessão do writ de ofício.
+Na espécie, consta da Sentença condenatória e do Voto condutor do acórdão impugnado, respectivamente, as seguintes fundamentações quanto ao regime inicial de cumprimento da pena:
+Considerando a reincidência e a pena fixada inferior a 4 (quatro) anos, fixo o regime inicial semiaberto, nos moldes do artigo 33, § 2º, alínea "c", do Código Penal (fl. 18).
+Portador de maus antecedentes e reincidente teve a pena aumentada em ambas as fases, o que se mostrou justo e eficiente.
+ ..
+Por fim, mantenho o regime semiaberto, diante do passado criminoso do apelante, nos termos do artigo 33, § 2º, alínea "c", do Código Penal (fls. 12-13).
+Nos termos dos §§ 2º e 3º do art. 33 do Código Penal, para a fixação do regime inicial de cumprimento de pena o julgador deverá observar a quantidade de pena aplicada, a primariedade do réu e a eventual existência de circunstâncias judiciais desfavoráveis. Além disso, devem ser observados os enunciados das Súmulas n. 440 do Superior Tribunal de Justiça, e das Súmulas nºs 718 e 719 do Supremo Tribunal Federal, segundos os quais é vedada a fixação de regime prisional mais gravoso do que o cabível em razão da sanção imposta somente com base na gravidade abstrata do delito.
+Ademais, segundo a jurisprudência do STJ e a legislação pátria, acima citada, é considerada motivação idônea para o fim de imposição de regime mais severo do que a pena aplicada: a) a reincidência, ainda que não seja específica (§ 2º do art. 33 do CP); b) a existência de circunstância judicial desfavorável, nos termos do art. 59 do CP (§ 3º do art. 33 do CP) e; c) a gravidade concreta do delito. Nesse sentido, vale citar os seguintes julgados: EREsp n. 1.970.578/SC, Rel. Ministro Joel Ilan Paciornik, Terceira Seção, DJe de 6.3.2023; AgRg no AgRg no AREsp n. 2.435.525/SP, Rel. Ministro Joel Ilan Paciornik, Quinta Turma, DJe de 6.6.2024; AgRg no HC n. 836.416/SP, Rel. Ministro Antonio Saldanha Palheiro, Sexta Turma, DJe de 3.5.2024; AgRg no HC n. 859.680/SP, Rel. Ministro Messod Azulay Neto, Quinta Turma, DJe de 14.2.2024; AgRg no HC n. 842.514/SP, Rel. Ministro Sebastião Reis Júnior, Sexta Turma, DJe de 3.7.2024; AgRg no HC n. 901.630/SP, Rel. Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe de 3.7.2024; AgRg no HC n. 905.390/SP, Rel. Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe de 12.6.2024; AgRg no AREsp n. 2.465.687/SP, Rel. Ministro Ribeiro Dantas, Quinta Turma, DJe de 11.6.2024.
+Acresça-se que, de acordo com a Súmula n. 269 do STJ, é admissível a adoção do regime prisional semiaberto para reincidentes condenados a pena igual ou inferior a quatro anos, se favoráveis as circunstâncias judiciais.
+Nessa linha, o julgado impugnado não diverge da jurisprudência desta Corte, pois, conforme se extrai do trecho do acórdão supratranscrito, há elementos idôneos para a fixação do regime semiaberto, em especial a presença da agravante da reincidência e a valoração negativa de circunstância judicial.
+Conclui-se, assim, que no caso em análise não há manifesta ilegalidade a ensejar a concessão da ordem de ofício.
+Ante o exposto, com fundamento no art. 21-E, IV, c/c o art. 210, ambos do RISTJ, indefiro liminarmente o presente Habeas Corpus.
+Cientifique-se o Ministério Público Federal.
+Publique-se.
+Intimem-se.
+ EMENTA
