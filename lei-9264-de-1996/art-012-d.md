@@ -1,0 +1,1 @@
+Art. 12-D. É assegurada licença remunerada para o desempenho de mandato classista ao servidor estável eleito para a presidência de sindicato registrado no órgão competente representativo das categorias funcionais de que trata esta Lei, nos termos do regulamento do Distrito Federal.
