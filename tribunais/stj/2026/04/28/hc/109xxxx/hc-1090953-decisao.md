@@ -1,0 +1,29 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido de liminar, impetrado em favor de GUSTAVO RODRIGUES DA SILVA, apontando como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE SANTA CATARINA, em decorrência do julgamento do agravo de execução penal n. 8002435-86.2025.8.24.0033/SC (fls. 14).
+Consta nos autos que o paciente foi condenado à pena de 5 (cinco) anos e 4 (quatro) meses de reclusão, pela prática do crime previsto no artigo 157, § 2º, inciso II, do Código Penal (fls. 14).
+O Ministério Público interpôs agravo em execução ao Tribunal de Justiça do Estado de Santa Catarina, que deu parcial provimento ao recurso para afastar a declaração de inconstitucionalidade e determinar a realização do exame criminológico, mantendo a progressão de regime sob condição (fls. 17).
+Na presente impetração, busca-se a concessão da ordem para: (i) cassar o acórdão que determinou a realização de exame criminológico; e (ii) restabelecer a decisão de primeiro grau que concedeu a progressão de regime sem a exigência do exame (fls. 12-13).
+É o relatório. DECIDO.
+A Terceira Seção, no âmbito do HC n. 535.063/SP, de relatoria do Ministro Sebastião Reis Júnior, julgado em 10/6/2020, e o Supremo Tribunal Federal, no julgamento do AgRg no HC n. 180.365/PB, de relatoria da Ministra Rosa Weber, julgado em 27/3/2020, consolidaram a orientação de que não cabe habeas corpus substitutivo ao recurso legalmente previsto para a hipótese, impondo-se o não conhecimento da impetração, salvo quando constatada a existência de flagrante ilegalidade no ato judicial impugnado.
+Nesse sentido:
+ ..  A Terceira Seção desta Corte, seguindo entendimento firmado pela Primeira Turma do Supremo Tribunal Federal, sedimentou orientação no sentido de não admitir habeas corpus em substituição a recurso próprio ou a revisão criminal, situação que impede o conhecimento da impetração, ressalvados casos excepcionais em que se verifica flagrante ilegalidade apta a gerar constrangimento ilegal.  ..  (AgRg no HC n. 908.122/MT, relatora Ministra Daniela Teixeira, Quinta Turma, julgado em 27/8/2024, DJe de 2/9/2024.)
+ ..  O habeas corpus não é conhecido quando impetrado em substituição a recurso próprio, salvo em caso de flagrante ilegalidade, conforme jurisprudência pacífica do STJ e do STF.  ..  (AgRg no HC n. 935.569/SP, de minha relatoria, Quinta Turma, julgado em 3/9/2024, DJe de 10/9/2024.)
+Em homenagem ao princípio da ampla defesa, contudo, necessário o exame da insurgência, a fim de se verificar eventual constrangimento ilegal passível de ser sanado pela concessão da ordem, de ofício.
+Cinge-se a controvérsia a saber se a exigência de exame criminológico para a progressão de regime se deu de forma adequada no caso.
+Ora, a partir das inovações trazidas pela Lei n. 10.792/03, que alterou a redação do art. 112 da Lei n. 7.210/84, afastou-se a exigência do exame criminológico para fins de progressão de regime como regra geral.
+Por outro lado, este Superior Tribunal de Justiça firmou entendimento de que o Magistrado de 1º Grau, ou mesmo o Tribunal a quo, diante das circunstâncias do caso concreto, podem determinar a realização da referida prova técnica para a formação de seu convencimento acerca do merecimento do apenado, desde que essa decisão seja fundamentada.
+Consolidando esse entendimento, a Súmula n. 439, STJ: "Admite-se o exame criminológico pelas peculiaridades do caso, desde que em decisão motivada".
+O Supremo Tribunal Federal, ao analisar o tema, editou a Súmula Vinculante de n. 26, in verbis:
+ ..  Para efeito de progressão de regime no cumprimento de pena por crime hediondo, ou equiparado, o juízo da execução observará a inconstitucionalidade do art. 2º da Lei n. 8.072, de 25 de julho de 1990, sem prejuízo de avaliar se o condenado preenche, ou não, os requisitos objetivos e subjetivos do benefício, podendo determinar, para tal fim, de modo fundamentado, a realização de exame criminológico.
+Tudo, ainda que após a nova Lei n. 14.843/2024, que não possui capacidade retroativa, pois "A exigência de exame criminológico para progressão de regime, introduzida pela Lei n. 14.843/2024, não pode ser aplicada retroativamente a condenações anteriores à sua vigência" (AgRg no HC n. 978.222/SP, relator Ministro Messod Azulay Neto, Quinta Turma, julgado em 9/4/2025, DJEN de 28/4/2025.)
+Assim, forçoso reconhecer a possibilidade de se determinar a realização do exame criminológico hoje, desde que por decisão fundamentada ou a depender da data do cometimento do delito.
+Conforme pontuado pelo acórdão, o crime em questão foi praticado em 28/10/2024 (fl. 16).
+Na hipótese, tendo em conta que a entrada em vigor da Lei nº 14.843 ocorreu em 11/4/2024, não há que se falar em ilegalidade na realização do exame criminológico.
+Veja-se:
+ ..  A Lei n. 14.843/2024 reintroduziu o exame criminológico como requisito obrigatório para progressão de regime, aplicável aos crimes cometidos após sua vigência  ..  No caso concreto, o crime foi cometido após a entrada em vigor da nova legislação, não havendo impedimento para a aplicação do comando legal  ..  (HC n. 1.035.401/SP, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 11/11/2025, DJEN de 18/11/2025.)
+ ..  A exigência de exame criminológico para progressão de regime, introduzida pela Lei n. 14.843/2024, aplica-se apenas a crimes cometidos após sua vigência  ..  (AREsp n. 2.980.384/TO, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 4/11/2025, DJEN de 12/11/2025.)
+Sobre a questão da fundamentação em si em relação ao mérito do apenado na execução penal, a instrução precária do writ não permite tecer quaisquer comentários adicionais.
+Assim, compreender de forma diversa, ensejaria providência incompatível com a via eleita.
+Ante o exposto, não conheço do habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
