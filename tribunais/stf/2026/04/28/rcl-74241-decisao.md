@@ -1,0 +1,24 @@
+DECISÃO: Trata-se da Petição nº 33.996/2026 (eDOC 27 – ID 788a7dbd), na qual a parte reclamante alega o descumprimento, pelo Tribunal de origem, da decisão proferida na presente reclamação, que reconheceu a incompetência da Justiça do Trabalho e determinou a remessa dos autos à Justiça comum.
+Sustenta que o Juízo da 1ª Vara da Fazenda Pública de Manaus, ao receber o processo, promoveu a exclusão dos entes públicos da lide e determinou o retorno dos autos à Justiça trabalhista, o que, segundo alega, teria ofendido a decisão proferida por esta Corte.
+Afirma, ainda, que a 8ª Vara do Trabalho de Manaus, ao receber novamente os autos remetidos pela Justiça comum, “permanece ignorando a decisão vinculante desta Corte, retomando o andamento do feito e procedendo com a designação de audiência”. (eDOC 1, p. 2)
+Por fim, requer “a expedição de ofício diretamente ao Juízo da 8ª Vara do Trabalho de Manaus/AM e também ao Juízo da 1ª Vara da Fazenda Pública de Manaus/AM, e ao Tribunal Regional do Trabalho de Manaus (11ª Região) reiterando a ordem de remessa dos autos à Justiça Comum competente e determinando que o Juízo Trabalhista se abstenha de praticar qualquer ato processual”. (eDOC 1, p. 3)
+É o relatório. Decido.
+Em consulta ao sítio eletrônico do Tribunal Regional do Trabalho da 11ª Região, verifica-se que a 8ª Vara do Trabalho de Manaus, em 30.3.2026, considerando o efeito vinculante da decisão proferida nos presentes autos, determinou novamente a remessa do processo à Justiça comum. Confira-se o teor da decisão:
+
+“Depreende-se da análise dos autos originários que a remessa deste  a  esta  Justiça  Especializada  deu-se  de  forma  equivocada,  visto  que  decisão proferida  em  sede  de  Reclamação  Constitucional  (74241/AM),  o  Supremo  Tribunal Federal  determinou que o foro competente para análise da validade, ou não, do contrato de prestação de serviço objeto da presente lide entre OSCAR ALVES BRASIL e MADIM MANAUS DIAGNOSTICOS MEDICOS DE APOIO A GESTAO DE SAUDE LTDA., é da Justiça Comum Estadual.
+Em que pese a exclusão dos Entes Públicos naquela seara, tão somente exauriu-se  a competência da Vara Estadual Especializada para apreciação do feito, no caso a de Fazenda Pública, mas não a da Justiça Comum Estadual, razão pela qual equivocada a remessa a esta Justiça Especializada.
+Ademais, se trata de efeito vinculante da decisão proferida na Reclamação Constitucional em relação ao caso específico analisado, não comportando,pois, conflito de competência.
+Diante do exposto, determino a remessa dos presentes autos à Justiça  Comum  Estadual  para  prosseguimento  do  feito  (autos  0200761-85.2025.8.04.0001), a ser distribuído a uma de suas Varas Cíveis, diante da exclusão dos Entes Públicos”.
+
+Registre-se que o feito ainda se encontra em trâmite na Justiça do Trabalho, aguardando o decurso de prazo para manifestação das partes.
+Feitas essas considerações, cumpre destacar que, após a prolação da decisão nos presentes autos, o Supremo Tribunal Federal, no julgamento do ARE-RG 1.532.603, de minha relatoria (Tema 1.389), reconheceu a repercussão geral das seguintes questões, a serem oportunamente apreciadas pelo Plenário: 1) competência da Justiça do Trabalho para julgar as causas em que se discute a fraude no contrato civil de prestação de serviços; 2) licitude da contratação de trabalhador autônomo ou pessoa jurídica para a prestação de serviços, à luz do entendimento firmado pelo STF no julgamento da ADPF 324, que reconheceu a validade constitucional de diferentes formas de divisão do trabalho e a liberdade de organização produtiva dos cidadãos; e 3) ônus da prova relacionado à alegação de fraude na contratação civil, averiguando se essa responsabilidade recai sobre o autor da reclamação trabalhista ou sobre a empresa contratante.
+Na sequência, determinei a suspensão nacional da tramitação de todos os processos que tratem das questões mencionadas no Tema 1.389 da repercussão geral, até julgamento definitivo do recurso extraordinário, com fundamento no art. 1.035, § 5º, do CPC, com o objetivo de evitar a multiplicação de decisões divergentes sobre a matéria, privilegiando o princípio da segurança jurídica.
+Assim, por razões de segurança jurídica e de economia processual, entendo que o processo de origem deve permanecer suspenso, no estado em que se encontra, até o julgamento do mérito do Tema 1.389 ou ulterior deliberação do Supremo Tribunal Federal sobre a matéria.
+Ante o exposto, julgo parcialmente procedente o pedido para determinar a suspensão do Processo nº 0000236-98.2026.5.11.0004, até julgamento do mérito do Tema 1.389 da repercussão geral.
+Comunique-se, com urgência, ao Juízo da 8ª Vara do Trabalho de Manaus.
+Publique-se.
+Brasília, 28 de abril de 2026.
+
+Ministro GILMAR MENDES
+Relator
+Documento assinado digitalmente
