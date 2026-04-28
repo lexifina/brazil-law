@@ -1,0 +1,43 @@
+DECISÃO
+Trata-se de conflito negativo de competência instaurado entre o JUÍZO DE DIREITO DE RURÓPOLIS - PA, suscitante, e o JUIZO DE DIREITO DA 5A VARA CRIMINAL DE ANÁPOLIS - GO, suscitado.
+Sustenta o Juízo suscitado que "o entendimento mais recente da jurisprudência é no sentido de que a competência nos casos de tráfico de drogas praticados, via postal, quando conhecido o endereço de destino é do Juízo do local do destino da droga" (fl. 59).
+O Juízo suscitante, por sua vez, entende que "todos os atos executórios do crime ocorreram em Anápolis/GO, desde a aquisição e posse da droga até sua postagem na agência dos Correios. Além do mais, as diligências investigativas, incluindo a identificação do remetente e a expedição do mandado de busca e apreensão, foram conduzidas pelas autoridades daquela localidade. Ademais, a pessoa que entregou às drogas aos Correios foi identificada como moradora de Anápolis/GO" (fl. 72).
+A manifestação do Ministério Público Federal foi pela competência do Juízo suscitado, na forma da seguinte ementa (fl. 10):
+CONFLITO NEGATIVO DE COMPETÊNCIA ENTRE JUÍZOS VINCULADOS A TRIBUNAIS DIVERSOS - CONHECIMENTO DO CONFLITO DE COMPETÊNCIA - TRÁFICO DE DROGAS INTERESTADUAL - JUÍZO COMPETENTE - JUÍZO DO LOCAL ONDE A DROGA FOI POSTADA. ATOS EXECUTÓRIOS QUE OCORRERAM NA CIDADE DE ANÁPOLIS/GO, INCLUSIVE IDENTIFICAÇÃO DA PESSOA QUE ENVIOU A DROGA.
+-Parecer pelo CONHECIMENTO do conflito; pela declaração de competência do Juízo de Direito da 5ª Vara Criminal da Comarca de Anápolis/GO.
+É o relatório. Decido.
+Conheço do conflito de competência, porque se trata de incidente processual instaurado entre juízos vinculados a tribunais distintos, e, por isso, o STJ deve julgá-lo, nos termos do art. 105, I, d, da Constituição da República.
+Extrai-se da decisão do Juízo suscitado que (fls. 59-60-grifei):
+ ..
+Tem-se que o entendimento mais recente da jurisprudência é no sentido de que a competência nos casos de tráfico de drogas praticados, via postal, quando conhecido o endereço de destino é do Juízo do local do destino da droga (STJ, CONFLITO DE COMPETÊNCIA Nº 177882 - PR - 2021/0056480-7). para aquelas localidades.
+Ante o exposto, acolhendo o parecer ministerial de evento retro, declaro-me incompetente para apreciar o feito e, por conseguinte, determino a remessa dos autos a uma das varas criminais das cidades de RURÓPOLIS e ALTAMIRA, ambas no Estado do Pará.
+Por sua vez, o Juízo suscitante sustentou que (fls. 72-74-grifei):
+ ..
+Nos termos do art. 70, caput, do Código de Processo Penal, "a competência será, de regra, determinada pelo lugar em que se consumar a infração", sendo está, portanto, territorial e de natureza absoluta nos termos da doutrina majoritária e jurisprudência consolidada dos tribunais superiores.
+Compulsando os autos, observa-se, todos os atos executórios do crime ocorreram em Anápolis/GO, desde a aquisição e posse da droga até sua postagem na agência dos Correios. Além do mais, as diligências investigativas, incluindo a identificação do remetente e a expedição do mandado de busca e apreensão, foram conduzidas pelas autoridades daquela localidade. Ademais, a pessoa que entregou às drogas aos Correios foi identificada como moradora de Anápolis/GO.
+Assim sendo, verifica-se que este Juízo não detém competência territorial para o processamento e julgamento da presente ação penal, pois os fatos imputados ao acusado consumaram-se integralmente no município de Anápolis/GO, atraindo a competência da daquela comarca.
+Nesse sentido, ante a decisão de remessa dos autos a esta unidade judiciária, fundada em equívoco quanto à localização do fato delituoso, e diante do entendimento divergente dos Juízos envolvidos acerca da competência, impõe-se a suscitação de conflito negativo de competência, nos moldes do art. 114 do Código de Processo Penal, que dispõe:
+ ..
+Com efeito, é pacífico o entendimento jurisprudencial no sentido de que a definição da competência criminal deve se dar com base no local da consumação do delito, como segue:
+ ..
+Dessa forma, considerando que os elementos constantes dos autos evidenciam que o crime foi cometido na circunscrição da Comarca de Anápolis/GO, restando este Juízo territorialmente incompetente. No caso vertente, se faz necessário que seja suscitado o conflito negativo de competência, para que o E. o Superior Tribunal de Justiça decida qual a jurisdição competente para processar e julgar o feito. ISTO POSTO, com fulcro no art. 114 do Código de Processo Penal, DECLARO- ME INCOMPETENTE para conhecer e julgar a lide, SUSCITANDO O CONFLITO NEGATIVO DE COMPETÊNCIA, determinando que após o trânsito em julgado, sejam os autos remetidos ao E. o Superior Tribunal de Justiça, para que decida sobre qual o Juízo é competente para conhecer e julgar o feito, se este Juízo da Comarca de Rurópolis/PA ou o Juízo da Comarca de Anápolis/GO.
+Consoante jurisprudência firmada na Terceira Seção, a competência para processar e julgar a ação penal no presente caso é do juízo suscitado, porque foi o local onde se consumou o delito de tráfico interestadual de drogas, mormente considerando que o investigado possui domicílio em Anápolis/GO, o que irá facilitar a tramitação da persecução penal, evitando-se retardamento e morosidade por conta de expedição de cartas precatórias e outros atos processuais.
+Com efeito, como bem observado pelo Ministério Público Federal em sua manifestação, " a  fixação da competência do Juízo do local onde a droga foi postada proporcionará maior eficiência da colheita de provas relativamente à autoria e, consequentemente, também viabilizará o exercício da defesa de forma mais ampla" (fl. 11).
+Nesse sentido, são as seguintes ementas:
+DIREITO PROCESSUAL PENAL. CONFLITO DE COMPETÊNCIA. TRÁFICO DE DROGAS INTERESTADUAL. REMESSA POSTAL. CRIME PERMANENTE. LOCAL MAIS PROVEITOSO PARA A INVESTIGAÇÃO. PREVENÇÃO. ART. 71, CPP. COMPETÊNCIA DO JUÍZO SUSCITADO.
+I - Há precedentes da Terceira Seção no sentido de que, na hipótese de tráfico interestadual de entorpecentes, o processo deve tramitar na comarca onde a droga foi remetida, nos termos do art. 70 do Código de Processo Penal.
+II - Mais recentemente, no entanto, a Terceira Seção concluiu que, em situações envolvendo a remessa postal de drogas, deve prevalecer a competência do local que for mais conveniente para a instrução do processo.
+III - No caso dos autos, em que se discute o tráfico interestadual por via postal, não é possível determinar, a priori, qual local é o mais proveitoso para a fase investigativa. Isso porque a apuração pode seguir duas linhas: rastrear o remetente da droga ou tentar localizar o destinatário.
+IV - Considerando a natureza permanente do crime em questão, a competência deve ser fixada pela prevenção, nos termos do art. 71 do Código de Processo Penal.
+Conflito conhecido para declarar a competência do Juízo de Direito da 2ª Vara Criminal de Porto Alegre - RS.
+(CC n. 203.087/RJ, relator Ministro Messod Azulay Neto, Terceira Seção, julgado em 14/8/2024, DJe de 19/8/2024.)
+PROCESSUAL PENAL. CONFLITO DE COMPETÊNCIA. CRIME DE TRÁFICO INTERESTADUAL DE ENTORPECENTES. REMESSA POSTAL. CONSUMAÇÃO. LOCAL DA REMESSA DA DROGA. ART. 70 DO CPP. CONFLITO DE COMPETÊNCIA CONHECIDO. COMPETÊNCIA DO JUÍZO SUSCITANTE.
+1. O tráfico ilícito de entorpecentes, crime plurinuclear ou de condutas múltiplas, formal, consuma-se com a prática de qualquer um de seus verbos. No caso em comento, remetida a droga de um Estado para outro, dentro do próprio território nacional, restou consumado o delito, embora interceptada a droga antes de alcançar o seu destino final.
+2. In casu, no tráfico interestadual de drogas, tal qual a exportação, no tráfico internacional de entorpecentes, cujos últimos atos de execução são praticados dentro do país, é de se considerar como local da remessa do entorpecente o lugar da consumação do delito, nos termos do art. 70 do Código de Processo Penal, relevando-se a competência, inclusive, em favor da produção de provas e do desenvolvimento dos atos processuais.
+3. Conflito conhecido para declarar a competência do Juízo de Direito da 2ª Vara Criminal de Campo Grande - MS, o suscitante.
+(CC n. 147.802/MS, relator Ministro Ribeiro Dantas, Terceira Seção, julgado em 28/9/2016, DJe de 13/10/2016.)
+Assim, caberá ao Juízo da 5ª Vara Criminal da Comarca de Anápolis/GO o julgamento da ação penal, pois foi onde se consumou o delito, além de ser o domicílio do acusado.
+Ante o exposto, com fulcro no art. 34, inc. XXII, do RISTJ, conheço do conflito para declarar compet ente o Juízo da 5ª Vara Criminal da Comarca de Anápolis/GO, suscitado.
+Publique-se.
+Intimem-se.
+EMENTA
