@@ -1,0 +1,65 @@
+DECISÃO
+Trata-se de agravo interposto por WENDEL CRISTIAN DE OLIVEIRA JARDIM contra decisão do TRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAIS que inadmitiu o recurso especial.
+O agravante foi pronunciado como incurso no art. 121, § 2º, incisos I e IV, do Código Penal.
+Irresignada, a defesa interpôs Recurso em Sentido Estrito perante o TJMG, que negou provimento ao recurso, mantendo integralmente a pronúncia.
+Sobreveio Recurso Especial fundado na alínea a do permissivo constitucional, no qual o recorrente apontou violação aos arts. 121, § 2º, inciso I, do Código Penal, e 414 do Código de Processo Penal, sustentando: (i) como tese principal, a insuficiência probatória quanto à autoria, alegando que sua presença no veículo com os corréus não seria suficiente para configurar a coautoria delitiva; e (ii) subsidiariamente, a manifesta improcedência da qualificadora do motivo torpe, porquanto a suposta retaliação decorrente de furto praticado pela vítima não configuraria a torpeza exigida pelo tipo penal.
+O recurso foi inadmitido na origem por incidência da Súmula n. 7, STJ (fls. 1093-1094).
+No presente agravo, a defesa argumenta que a pretensão de impronúncia e o decote da qualificadora do motivo torpe não exigem o reexame de provas, mas sim a revaloração jurídica de fatos já delineados no acórdão recorrido. Sustenta que a decisão de pronúncia baseou-se em fundamentos inidôneos e que há elementos indicativos de legítima defesa, o que autorizaria a intervenção do Superior Tribunal de Justiça para corrigir a subsunção dos fatos à norma (fls. 1142-1150).
+O Ministério Público Federal apresentou parecer pelo conhecimento do agravo para não conhecer o recurso especial. Caso conhecido, pelo seu desprovimento (fls. 1193-1196).
+É o relatório. DECIDO.
+Tendo em vista os argumentos apresentados pela parte agravante para refutar os fundamentos da decisão de admissibilidade da origem, conheço do agravo e passo a examinar o recurso especial.
+Quanto à alegada inexistência de indícios suficientes de autoria, cumpre registrar que a jurisprudência desta Corte é firme no sentido de que, havendo nos autos duas versões plausíveis sobre os fatos  uma da Acusação e outra da Defesa  , compete ao Conselho de Sentença, Juízo Natural constitucionalmente previsto para o julgamento dos crimes dolosos contra a vida, dirimir a controvérsia. Presente qualquer indício mínimo de autoria, não cabe ao STJ, em sede de Recurso Especial, subtrair do Tribunal do Júri essa competência soberana.
+Nesse sentido:
+DIREITO PENAL E PROCESSUAL PENAL. AGRAVO REGIMENTAL EM HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. INDEFERIMENTO LIMINAR. HOMICÍDIO QUALIFICADO. PRONÚNCIA. ALEGAÇÃO DE FUNDAMENTAÇÃO EXCLUSIVA EM ELEMENTOS INFORMATIVOS. NÃO OCORRÊNCIA. DESCLASSIFICAÇÃO. IMPOSSIBILIDADE. REVOLVIMENTO FÁTICO-PROBATÓRIO. AGRAVO REGIMENTAL DESPROVIDO.
+1. A jurisprudência desta Corte Superior é firme no sentido de que não cabe a utilização do habeas corpus como sucedâneo de recurso próprio, seja por ter sido impetrado concomitantemente, seja por ainda estar em curso o prazo para a interposição do recurso previsto em regramentos legais e regimentais.
+2. Embora o art. 647-A, caput e parágrafo único, do Código de Processo Penal, permita a expedição de habeas corpus de ofício em casos de flagrante ilegalidade, tal hipótese não se verifica nos presentes autos.
+3. A pronúncia do agravante foi fundamentada em provas produzidas sob o crivo do contraditório e da ampla defesa, motivo pelo qual não há ofensa ao art. 155 do CPP, sendo certo que eventual dúvida deve ser dirimida pelo Conselho de Sentença.
+4. Em respeito à soberania do Tribunal do Júri, a desclassificação da conduta delitiva imputada para outro tipo penal somente é possível quando dos autos emergirem provas incontroversas de tal alegação, sob pena de usurpação da competência do juiz natural da causa.
+5. No caso, à luz dos atos impugnados, não se pode concluir pela total inexistência do elemento subjetivo na conduta, o que inviabiliza a desclassificação da conduta, motivo pelo qual cabe ao Conselho de Se ntença decidir definitivamente sobre a controvérsia.
+6. Agravo regimental desprovido.
+(AgRg no HC n. 1.057.158/SC, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 4/3/2026, DJEN de 9/3/2026.)
+No caso, o acórdão recorrido consignou de forma expressa que os elementos dos autos apontam para a participação dos réus na empreitada delitiva, havendo narrativa robusta no sentido de que todos os ocupantes do veículo partiram em conjunto em busca da vítima e que os demais corréus prestaram apoio ao ato homicida. Esse quadro é suficiente, no juízo de pronúncia, para submeter o acusado a julgamento pelo Tribunal Popular, não se revelando manifestamente improcedente a imputação que lhe foi dirigida.
+Por oportuno, transcrevo os fundamentos expostos no acordão recorrido (fls. 1046-1048):
+Os indícios de autoria, conforme se depreende da prova oral, são bastante evidentes, não havendo que se falar em impronúncia.
+Apesar de existirem versões conflitantes nos autos, havendo inclusive forte versão que indica a possibilidade da ocorrência de legítima defesa, também é possível extrair dos autos a narrativa que aponta que os réus foram até o local dos fatos para, em conjunto, tirar satisfações acerca de um furto praticado pelo de cujus, o que acabou por escalar e ocasionar o disparo que acabou por ceifar, dias depois, a vida da vítima.
+As provas testemunhais indicam que Lukas possui uma oficina automotiva e que a vítima era um de seus clientes. No dia dos fatos, durante a manhã, Alexandre foi até a oficina para arrumar um defeito na lanterna de seu veículo, pagando pelo serviço.
+Após o horário comercial, Lukas retornou até o seu estabelecimento comercial, pois seu cachorro estava latindo muito e, lá chegando, deparou-se com Alexandre no interior de sua oficina furtando diversos objetos. Sendo flagrado, a vítima pulou o muro e fugiu.
+Diante do ocorrido, Lukas chamou Thiago, seu irmão e funcionário, Wendel, seu funcionário, e Jeferson, seu cliente, que também teve bens furtados em seu automóvel que estava na oficina e foram procurar pelo réu. Assim, todos entraram no carro de Lukas e partiram em busca de Alexandre.
+Por conseguinte, em patrulhamento, depararam-se com o veículo da vítima parado na via. Assim, Lukas parou o carro e chamou Alexandre.
+Até esse ponto, a narrativa dos autos é, até o momento, incontroversa.
+Lukas afirma que chamou Alexandre e tentou conversar com ele para reaver os bens, contudo, a vítima teria sacado uma arma de fogo da cintura e, diante disso, Lukas tentou tomar controle da arma, entrando em luta corporal com o réu. Os demais ocupantes do veículo partiram para ajudar Lukas, quando um disparo de arma de fogo foi ouvido e Alexandre caiu inerte ao solo. Assim, entraram novamente no veículo e fugiram.
+A informante Flávia, contudo, conta versão diversa, afirmando que seu companheiro chegou em sua casa e, assim, adentrou seu carro com seu filho em comum com Alexandre, de apenas alguns meses de idade à época dos fatos.
+Durante a conversa, um veículo abruptamente parou do lado oposto da via e chamou Alexandre, que saiu do carro para atender o chamado. No caminho, o disparo teria ocorrido, deixando a vítima imóvel no solo, evadindo-se os réus logo após.
+Percebe-se, assim, que no conflito de versões, uma delas desponta afirmando que foi Lukas o responsável pelo disparo e que os demais autores estavam junto com ele, dando apoio moral e em alinhamento com seu intuito homicida.
+Dessa forma, entendo que estão presentes, "in casu", os indícios de autoria.
+Quanto à tese de legítima defesa, entendo que, no momento, não há prova suficiente para dar certeza absoluta de ser esse o caso dos autos.
+Como fundamentado acima, há o conflito de versões entre o que o réu Lukas fala e aquilo que foi narrado pela companheira da vítima. Além disso, os corréus, apesar de apresentarem versão semelhante à de Lukas, quanto à dinâmica do disparo em si não conseguem apontar detalhes, gerando dúvida razoável quanto à versão de que o agente atuou em legítima defesa.
+Tratando-se este momento processual de mero juízo de admissibilidade, não se necessita de prova incontestável da autoria para a pronúncia. De modo contrário, contudo, para o reconhecimento na decisão de pronúncia acerca de causa excludente de ilicitude, "in casu", legítima defesa (art. 23 do CP), é imperioso que a prova presente nos autos exima o julgador de qualquer dúvida acerca de sua existência.
+Conforme narrado, não é o caso retratado nos autos.
+Com efeito, o art. 414 do CPP exige, para a pronúncia, a presença de indícios suficientes de autoria ou participação  standard probatório que, por sua própria natureza, não se confunde com prova plena e irrefutável da autoria, esta reservada para a fase de julgamento pelo Tribunal do Júri.
+No que tange ao pedido subsidiário de decote da qualificadora do motivo torpe, a orientação desta Corte é assente no sentido de que, na fase de pronúncia, as qualificadoras somente podem ser afastadas quando se revelarem manifestamente improcedentes, sem qualquer amparo nos elementos dos autos.
+A propósito:
+DIREITO PENAL E PROCESSUAL PENAL. AGRAVO EM RECURSO ESPECIAL. HOMICÍDIO QUALIFICADO. DECISÃO DE PRONÚNCIA. MOTIVO FÚTIL. PRETENSÃO DE DECOTE DA QUALIFICADORA. REEXAME DE MATÉRIA FÁTICO-PROBATÓRIA. SÚMULA 7/STJ. MANUTENÇÃO DA QUALIFICADORA NÃO MANIFESTAMENTE IMPROCEDENTE. AGRAVO NÃO PROVIDO.
+I. CASO EM EXAME
+1. Agravo em recurso especial interposto contra decisão da Presidência do Tribunal de Justiça do Estado de Alagoas que inadmitiu recurso especial manejado em face de acórdão proferido em Recurso em Sentido Estrito, o qual manteve decisão de pronúncia do réu pela suposta prática de homicídio qualificado por motivo fútil, em contexto de desentendimento envolvendo disputa por bebida alcoólica.
+II. QUESTÃO EM DISCUSSÃO
+2. A questão em discussão consiste em definir se é possível o afastamento da qualificadora do motivo fútil na fase de pronúncia, sem reexame do conjunto fático-probatório, sob o argumento de que a dinâmica dos fatos descrita no acórdão recorrido afastaria, por si só, a caracterização da futilidade.
+III. RAZÕES DE DECIDIR
+3. A exclusão de qualificadora na decisão de pronúncia somente é admitida quando manifestamente improcedente, sob pena de usurpação da competência constitucional do Tribunal do Júri.
+4. O Tribunal de origem conclui, com base nos elementos colhidos na instrução, que há indícios suficientes para a incidência da qualificadora do motivo fútil, diante da possível desproporção entre o motivo inicial do conflito e o resultado morte.
+5. A aferição da existência ou não de motivo fútil, bem como da dinâmica das agressões e eventual provocação, demanda análise aprofundada do acervo probatório, providência vedada em sede de recurso especial.
+6. A pretensão defensiva, embora apresentada como revaloração jurídica dos fatos, implica, na prática, reexame de provas, atraindo a incidência do óbice da Súmula 7/STJ.
+7. O acórdão recorrido está em consonância com a jurisprudência consolidada do Superior Tribunal de Justiça, segundo a qual qualificadoras plausíveis devem ser submetidas ao crivo do Conselho de Sentença.
+IV. DISPOSITIVO E TESE
+8. Recurso não provido.
+Tese de julgamento:
+9. A qualificadora do motivo fútil somente pode ser afastada na decisão de pronúncia quando manifestamente improcedente, sob pena de violação à competência do Tribunal do Júri.
+10. O exame da plausibilidade da qualificadora, quando dependente da análise da dinâmica fática e das provas produzidas, encontra óbice na Súmula 7/STJ em sede de recurso especial.
+Dispositivos relevantes citados: Código Penal, art. 121, § 2º, II; Código de Processo Penal, art. 413, § 1º.
+Jurisprudência relevante citada: Súmula 7/STJ; Súmula 83/STJ.
+(AgRg no AREsp n. 3.051.940/AL, relator Ministro Carlos Pires Brandão, Sexta Turma, julgado em 4/3/2026, DJEN de 10/3/2026.)
+O acórdão recorrido, ao manter a qualificadora, apontou expressamente que há plausibilidade para sua incidência, consignando que a vingança pelo furto praticado pela vítima desponta como um dos motivos possíveis para o crime. A retaliação por ofensa anterior, quando revestida de caráter abjeto e moralmente reprovável, pode, a depender das circunstâncias do caso concreto  a serem apreciadas pelo Conselho de Sentença  , configurar o motivo torpe. Não se trata, portanto, de qualificadora manifestamente descabida ou sem qualquer sustentação nos autos.
+Ademias, para afastá-la neste momento processual, seria necessário concluir que nenhum elemento dos autos autorizaria sequer a cogitação sobre sua incidência. Tal conclusão, entretanto, implicaria necessariamente nova apreciação do conjunto probatório, em contrariedade ao enunciado da Súmula n. 7, STJ.
+Ante o exposto, com fulcro no art. 253, parágrafo único, inciso II, alínea b, do Regimento Interno do STJ, conheço do agravo para negar provimento ao recurso especial, nos termos da fundamentação retro.
+Publique-se. Intimem-se.
+ EMENTA
