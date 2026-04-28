@@ -1,0 +1,21 @@
+DECISÃO
+Trata-se de conflito negativo de competência suscitado pelo JUÍZO DE DIREITO DA VARA DE EXECUÇÕES PENAIS DO DISTRITO FEDERAL em face do JUÍZO DE DIREITO DA 1ª VARA DE EXECUÇÕES PENAIS DE SÃO LUÍS/MA, nos autos de execução penal relativa ao apenado Júnio Canuto de Lacerda.
+Consta dos autos que o Juízo de Direito da 1ª Vara de Execuções Penais de São Luís/MA declinou da competência em favor do Juízo de Direito do Distrito Federal, ao fundamento de que o apenado, após evadir-se do cumprimento da pena naquele Estado, foi recapturado no Distrito Federal, onde passou a responder também por nova execução penal.
+Por sua vez, o Juízo de Direito da Vara de Execuções Penais do Distrito Federal suscitou o presente conflito, ao entendimento de que a superveniência de nova condenação em unidade federativa diversa não atrai automaticamente a competência para a execução de penas anteriormente impostas, devendo ser observada a centralidade da execução no juízo originário.
+O Ministério Público Federal manifestou-se pelo reconhecimento da competência do Juízo de Direito da Vara de Execuções Penais do Distrito Federal, ora suscitante (fls. 423-426).
+É o relatório.
+DECIDO.
+Conheço do conflito de competência, por se tratar de incidente instaurado entre juízos vinculados a tribunais distintos, nos termos do art. 105, I, d, da Constituição da República.
+A controvérsia cinge-se à definição do juízo competente para a unificação e o processamento das execuções penais, diante da existência de múltiplas condenações impostas em unidades federativas diversas, bem como da recaptura do apenado em local distinto daquele em que inicialmente cumpria pena.
+A jurisprudência do Superior Tribunal de Justiça firmou entendimento no sentido de que, embora, em regra, a execução penal deva ser processada perante o juízo da condenação, tal orientação comporta exceção nas hipóteses em que o apenado possui condenações oriundas de diferentes jurisdições e passa a cumprir pena em local diverso, ocasião em que as execuções devem ser unificadas, fixando-se a competência no juízo do local onde o apenado se encontra custodiado. Nesse sentido:
+CONFLITO NEGATIVO DE COMPETÊNCIA. EXECUÇÃO PENAL. UNIFICAÇÃO DE PENAS. EXECUTADO COM CONDENAÇÕES ORIUNDAS DE UNIDADES FEDERATIVAS DIVERSAS. COMPETÊNCIA DO JUÍZO DO LOCAL ONDER O EXECUTADO ENCONTRAR-SE PRESO. PRECEDENTES.
+1. A jurisprudência do Superior Tribunal de Justiça consolidou o entendimento de que no caso de reeducando condenado em diversas unidades judiciárias, o juízo competente para o conhecimento, fiscalização e acompanhamento da execução é o do local onde o apenado cumpre pena. "Competente é o Juízo da execução em que o reeducando cumpre a reprimenda, para conhecer das demais execuções e apreciar eventuais incidentes referentes ao procedimento de execução penal" (CC 151.849/GO, Rel. Ministro Felix Fischer, Terceira Seção, DJe de 22/6/2017). Precedentes.
+2. Caso em que o executado, possui condenações a penas privativas de liberdade oriundas de Juízos de localidades diversas, porém, encontra-se preso na unidade prisional de Aragarças/GO.
+3. Conflito conhecido para declarar competente o Juízo de Direito da Vara de Execução Penal, Meio Fechado e Semiaberto de Aragarças/GO (suscitado).
+(CC n. 212.446/MT, relator Ministro Og Fernandes, Terceira Seção, julgado em 20/5/2025, DJEN de 23/5/2025.)
+No caso concreto, verifica-se que o apenado, após evadir-se do cumprimento da pena no Estado do Maranhão, foi recapturado no Distrito Federal, onde passou a responder por nova execução penal decorrente de condenação superveniente, circunstância que evidencia a existência de execuções simultâneas em distintas unidades da federação.
+Diante desse cenário, mostra-se adequada a unificação das execuções penais, com a fixação da competência no Juízo do local onde o apenado se encontra efetivamente custodiado, qual seja, o Juízo de Direito da Vara de Execuções Penais do Distrito Federal, que reúne melhores condições para o acompanhamento integral da execução e apreciação de eventuais incidentes.
+Ante o exposto, com fulcro no art. 34, XXII, do RISTJ, conheço do conflito negativo de competência para declarar competente o Juízo de Direito da Vara de Execuções Penais do Distrito Federal, ora suscitante, para o processamento e acompanhamento das execuções penais unificadas.
+Publique-se.
+Intimem-se.
+EMENTA
