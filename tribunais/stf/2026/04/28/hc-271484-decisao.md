@@ -1,0 +1,41 @@
+DECISÃO: Trata-se de habeas corpus impetrado em favor de Felipe Pinto Bezerra, contra acórdão do Superior Tribunal Militar, nos autos da Apelação 7000018-63.2025.7.12.0012/AM.
+Colho da decisão impugnada:
+
+Trata-se de Apelação interposta pela Defensoria Pública da União contra Sentença que condenou o ex-Sd Ex FELIPE PINTO BEZERRA à pena de 6 (seis) meses de detenção, como incurso no delito de deserção, previsto no art. 187 do CPM (evento 66). Em suas razões recursais, a i. DPU basicamente repisa a argumentação já arguida e rechaçada pelo escabinato de origem, conforme pedido final formulado em sua petição, que bem resume a quaestio, vejamos:
+a) Acolher a primeira preliminar, para decretar a extinção do processo, sem resolução de mérito, em razão da ausência de condição de prosseguibilidade, por ter o Apelante sido licenciado do serviço ativo;
+b) Subsidiariamente, acolher a segunda preliminar, para anular o processo desde a recusa do MPM, determinando a remessa dos autos para a oferta do Acordo de Não Persecução Penal (ANPP);
+c) Caso superadas as preliminares, no mérito, ABSOLVER o apelante, com fundamento no art. 439, alínea "d", do CPPM, pela excludente de culpabilidade (inexigibilidade de conduta diversa);
+d) Alternativamente, ABSOLVER o apelante, com fulcro no art. 439, alínea "b", do CPPM, por atipicidade da conduta, ante a ausência de animus deserendi.” (evento 80)
+Contrarrazões do MPM pelo desprovimento do recurso, para que seja mantida inalterada a sentença atacada (evento 83). É o breve relatório. (eDOC 3, p. 49)
+
+A apelação não foi provida.
+Neste writ, a impetrante insiste nos pedidos formulados no STM.
+Decido.
+Quanto à alegação de ausência de prosseguibilidade/procedibilidade da ação penal militar, pelo fato do paciente não mais ostentar a condição de militar, tal fato não tem o condão de repercutir na legitimidade da Justiça especializada para processá-lo e julgá-lo, já que, ao tempo do crime, ele era soldado da ativa.
+Nesse sentido, decisão do Tribunal Pleno do STF nos autos do HC 127900/AM, Rel. Min. Dias Toffoli, DJe 3.8.2016, ementado nos seguintes termos:
+
+“Habeas corpus. Penal e processual penal militar. Posse de substância entorpecente em local sujeito à administração militar (CPM, art. 290). Crime praticado por militares em situação de atividade em lugar sujeito à administração militar. Competência da Justiça Castrense configurada (CF, art. 124 c/c CPM, art. 9º, I, b). Pacientes que não integram mais as fileiras das Forças Armadas. Irrelevância para fins de fixação da competência. Interrogatório. Realização ao final da instrução (art. 400, CPP). Obrigatoriedade. Aplicação às ações penais em trâmite na Justiça Militar dessa alteração introduzida pela Lei nº 11.719/08, em detrimento do art. 302 do Decreto-Lei nº 1.002/69. Precedentes. Adequação do sistema acusatório democrático aos preceitos constitucionais da Carta de República de 1988. Máxima efetividade dos princípios do contraditório e da ampla defesa (art. 5º, inciso LV). Incidência da norma inscrita no art. 400 do Código de Processo Penal comum aos processos penais militares cuja instrução não se tenha encerrado, o que não é o caso. Ordem denegada. Fixada orientação quanto a incidência da norma inscrita no art. 400 do Código de Processo Penal comum a partir da publicação da ata do presente julgamento, aos processos penais militares, aos processos penais eleitorais e a todos os procedimentos penais regidos por legislação especial, incidindo somente naquelas ações penais cuja instrução não se tenha encerrado.
+1. Os pacientes, quando soldados da ativa, foram surpreendidos na posse de substância entorpecente (CPM, art. 290) no interior do 1º Batalhão de Infantaria da Selva em Manaus/AM. Cuida-se, portanto, de crime praticado por militares em situação de atividade em lugar sujeito à administração militar, o que atrai a competência da Justiça Castrense para processá-los e julgá-los (CF, art. 124 c/c CPM, art. 9º, I, b).
+2. O fato de os pacientes não mais integrarem as fileiras das Forças Armadas em nada repercute na esfera de competência da Justiça especializada, já que, no tempo do crime, eles eram soldados da ativa.
+3. Nulidade do interrogatório dos pacientes como primeiro ato da instrução processual (CPPM, art. 302).
+4. A Lei nº 11.719/08 adequou o sistema acusatório democrático, integrando-o de forma mais harmoniosa aos preceitos constitucionais da Carta de República de 1988, assegurando-se maior efetividade a seus princípios, notadamente, os do contraditório e da ampla defesa (art. 5º, inciso LV).
+5. Por ser mais benéfica (lex mitior) e harmoniosa com a Constituição Federal, há de preponderar, no processo penal militar (Decreto-Lei nº 1.002/69), a regra do art. 400 do Código de Processo Penal.
+6. De modo a não comprometer o princípio da segurança jurídica (CF, art. 5º, XXXVI) nos feitos já sentenciados, essa orientação deve ser aplicada somente aos processos penais militares cuja instrução não se tenha encerrado, o que não é o caso dos autos, já que há sentença condenatória proferida em desfavor dos pacientes desde 29/7/14.
+7. Ordem denegada, com a fixação da seguinte orientação: a norma inscrita no art. 400 do Código de Processo Penal comum aplica-se, a partir da publicação da ata do presente julgamento, aos processos penais militares, aos processos penais eleitorais e a todos os procedimentos penais regidos por legislação especial incidindo somente naquelas ações penais cuja instrução não se tenha encerrado”. (grifei)
+
+Somam-se, a esse julgado, os seguintes:
+
+“HABEAS CORPUS. RECURSO EXTRAORDINÁRIO. A possibilidade de o ato atacado, em tese, desafiar recurso extraordinário não afasta a adequação do habeas corpus. LEI CONHECIMENTO. A ninguém é dado inobservar norma legal e imperativa alegando desconhecimento. ENTORPECENTE POSSE ARTIGO 290 DO CÓDIGO PENAL MILITAR. Consubstancia crime militar a posse de entorpecente em local sujeito à administração da Força”. (HC 127591/MG, Rel. Min. Marco Aurélio, Primeira Turma, DJe 18.12.2017)
+
+“PENAL E PROCESSUAL PENAL. HABEAS CORPUS. IMPETRAÇÃO EM SUBSTITUIÇÃO AO RECURSO EXTRAORDINÁRIO. POSSIBILIDADE. MILITAR. CRIME PRATICADO EM LUGA SUJEITO À ADMINISTRATAÇÃO MILITAR. AUSÊNCIA CONDIÇÃO DE PROCEDIBILIDADE EM RAZÃO DE O PACIENTE TER SIDO DISPENSADO DAS FORÇAS ARMADAS. PACIENTE ERA MILITAR POR OCASIÃO DO COMETIMENTO DO DELITO. IMPROCEDÊNCIA DA ALEGAÇÃO. NULIDADE DO RECEBIMENTO DA DENÚNCIA. EXCESSO DE PRAZO. NÃO OCORRÊNCIA. LAUDO TOXICOLÓGICO DEFINITIVO. ERRO MATERIAL. IRRELEVÂNCIA. ORDEM DENEGADA. I Conforme entendimento da Segunda Turma do Supremo Tribunal Federal, não configura óbice ao conhecimento do writ o fato de a sua impetração ser manejada em substituição a recurso extraordinário. II Não prospera a alegação do impetrante de incompetência da Justiça Militar para processar e julgar o paciente pelo delito previsto no art. 290 do Código Penal Militar (posse de entorpecente em lugar sujeito à administração militar). Isso porque no momento do delito ele ostentava a condição de militar, sendo irrelevante que, posteriormente, tenha se licenciado. Precedentes. III O lapso temporal previsto no art. 79 do Código de Processo Penal Militar para o oferecimento da denúncia (cinco dias se o acusado estiver preso), caso ultrapassado poderia ocasionar tão somente o excesso de prazo da prisão, mas não a nulidade da denúncia. IV O mero erro material verificado na elaboração do laudo toxicológico não afasta suas conclusões. V - Ordem denegada”. (HC 137025/PA, Rel. Min. Ricardo Lewandowski, Segunda Turma, DJe 25.10.2016 – grifei)
+
+Ademais, quando o membro do MP se recusa a ofertar o ANPP, deve o acusado, se inconformado, requerer a remessa ao órgão superior do Parquet, o que não aconteceu, de modo a se implementar a preclusão. (eDOC 3, p. 66)
+Quanto ao mérito, colhe-se dos autos que “o réu, de forma livre e consciente, faltou ao quartel (Centro de Instrução de Guerra na Selva), desde 30 de setembro 2024, consumando o crime de deserção no dia 9 de outubro de 2024, permanecendo nessa condição até a sua apresentação voluntária em 6 de janeiro de 2025.” (eDOC 3, p. 50)
+Não há se falar, portanto, em absolvição.
+Ante o exposto, denego a ordem. (artigo 192, caput, RISTF)
+Publique-se.
+Brasília, 28 de abril de 2026.
+
+Ministro GILMAR MENDES
+Relator
+Documento assinado digitalmente
