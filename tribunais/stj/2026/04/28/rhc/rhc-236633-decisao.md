@@ -1,0 +1,21 @@
+DECISÃO
+Trata-se de recurso ordinário em habeas corpus interposto por ALEXANDRE JOSE NUNES contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO no julgamento do Habeas Corpus Criminal nº 2322930-31.2025.8.26.0000.
+Consta nos autos que o recorrente foi denunciado por infração ao artigo 304 do Código Penal. Por ocasião do oferecimento da denúncia, o Ministério Público manifestou-se pela impossibilidade de oferecimento da proposta de acordo de não persecução penal. O Juízo recebeu a denúncia e, na sequência, a defesa postulou a remessa dos autos à Procuradoria Geral de Justiça nos termos do artigo 28-A, § 14º, do CPP. O juízo indeferiu o pleito defensivo.
+No prévio writ, o Tribunal de Justiça denegou a ordem (fls. 199-204).
+Em suas razões recursais, a defesa alega que o magistrado se imiscuiu indevidamente em critérios subjetivos do ANPP e obstou o controle interno ministerial (fls. 233-235), e que o Tribunal de origem indevidamente justificou a negativa pela deflagração da ação penal e por reincidência inexistente (fls. 235-236).
+Pontua que a confissão pode ser formalizada no momento da celebração do acordo, e o ANPP é cabível em processos em andamento antes do trânsito em julgado, além de não haver reincidência porque o fato imputado é anterior ao trânsito da condenação anterior (fls. 237, 251-253).
+Requer o provimento do recurso para assegurar a remessa do feito à Procuradoria-Geral de Justiça e, em caráter liminar, o sobrestamento do processo de origem, diante de audiência designada para 13 de abril de 2026, a fim de evitar prejuízo irreversível enquanto se julga o presente recurso (fls. 254-255).
+É o relatório. DECIDO.
+A matéria acerca da viabilidade do ANPP foi examinada pela Corte a quo nos seguintes termos (fl. 203):
+Como visto acima, ao contrário do alegado, Alexandre não preenche os requisitos do art. 28-A do CPP, haja vista que é reincidente; e, como se não bastasse, o Ministério Público, ao oferecer a denúncia, apurou que a medida em questão não era necessária ou suficiente para a reprovação e prevenção do crime.
+Acerca do tema Acordo de Não Persecução Penal, é pacífico nesta Corte Superior o entendimento segundo o qual:
+"não há direito subjetivo do réu à celebração do ANPP, cabendo ao órgão de acusação, exercendo sua discricionariedade de maneira motivada, optar pela oferta ou não da proposta do acordo, com possibilidade de controle pelo órgão superior do Ministério Público na forma do art. 28-A, § 14, do CPP" (AgRg no AREsp n. 2.545.491/TO, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 13/8/2024, DJe de 20/8/2024).
+No caso em questão, verifica-se que o Ministério Público Estadual, ao apresentar a denúncia, consignou que não seria cabível o oferecimento do ANPP, destacando a ausência de confissão, a existência de maus antecedentes e reincidência.
+Ocorre que o fundamento indicado  ausência de confissão formal e circunstanciada  encontra-se em manifesto descompasso com a jurisprudência consolidada desta Corte no Tema 1.303/STJ, que afastou a exigência de confissão prévia no inquérito como requisito para o oferecimento do acordo.
+Além disso, a defesa rechaçou a existência de reincidência, pois o trânsito em julgado da condenação anterior se deu posteriormente aos fatos imputados no processo de origem.
+E a defesa expressou, tempestivamente, a sua insatisfação quanto ao não oferecimento do ANPP e o desejo de que a questão seja examinada também pelo órgão superior do Ministério Público, nos moldes do que preconiza o § 14 do artigo 28-A do Código de Processo Penal. Dessarte, é cabível a concessão da ordem, de ofício, nesse ponto.
+Portanto, o feito originário deve ser remetido ao órgão superior ministerial para se manifestar sobre o cabimento ou não do ANPP no caso concreto.
+Ante todo o exposto, dou provimento ao presente recurso ordinário, a fim de determinar que os autos da ação penal originária sejam encaminhados ao órgão superior do Ministério Público do Estado de São Paulo para o reexame da possibilidade do oferecimento do Acordo de Não Persecução Penal - ANPP, conforme disposto no §14 do artigo 28-A do Código de Processo Penal.
+Comunique-se a presente decisão, com urgência, à autoridade coatora e ao juízo de origem para que tomem as providências necessárias ao cumprimento desta decisão.
+Publique-se. Intimem-se.
+EMENTA
