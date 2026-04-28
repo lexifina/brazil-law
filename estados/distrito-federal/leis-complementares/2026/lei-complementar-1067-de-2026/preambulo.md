@@ -1,0 +1,4 @@
+# LEI COMPLEMENTAR Nº 1.067, DE 28 DE ABRIL DE 2026
+(Autoria: Poder Executivo)
+Dispõe sobre o regulamento previdenciário da Polícia Civil do Distrito Federal.
+A GOVERNADORA DO DISTRITO FEDERAL, FAÇO SABER QUE A CÂMARA LEGISLATIVA DO DISTRITO FEDERAL DECRETA E EU SANCIONO A SEGUINTE LEI:
