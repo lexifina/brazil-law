@@ -1,0 +1,1 @@
+Art. 31-A. A partir de 1º de janeiro de 2025, a estrutura dos cargos da Carreira de Perito Médico Federal e da Carreira de Supervisor Médico-Pericial passa a ser a constante do Anexo XII-A, observada a correlação estabelecida na forma do Anexo XIII-A.

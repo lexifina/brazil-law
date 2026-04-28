@@ -1,0 +1,28601 @@
+ANEXO I
+(Revogado)
+ANEXO II
+ESTRUTURA DE CLASSES E PADRÕES DOS CARGOS DAS CARREIRAS DE OFICIAL DE CHANCELARIA E DE ASSISTENTE DE CHANCELARIA
+CARGO
+CLASSE
+PADRÃO
+Oficial de Chancelaria
+Assistente de Chancelaria
+ESPECIAL
+V
+IV
+III
+II
+I
+C
+V
+IV
+III
+II
+I
+B
+V
+IV
+III
+II
+I
+A
+V
+IV
+III
+II
+I
+ANEXO III
+TABELA DE CORRELAÇÃO DOS CARGOS
+DAS CARREIRAS DE OFICIAL DE CHANCELARIA E DE ASSISTENTE DE CHANCELARIA
+SITUAÇÃO ATUAL
+SITUAÇÃO NOVA
+CARGO
+CLASSE
+PADRÃO
+PADRÃO
+CLASSE
+CARGO
+Oficial de Chancelaria
+Assistente de
+Chancelaria
+ESPECIAL
+V
+ESPECIAL
+V
+Oficial de
+Chancelaria
+Assistente de
+Chancelaria
+IV
+IV
+III
+III
+II
+II
+I
+I
+A
+VII
+C
+V
+VI
+IV
+V
+III
+IV
+II
+III
+I
+II
+B
+V
+I
+IV
+INICIAL
+VIII
+III
+VII
+II
+VI
+I
+V
+A
+V
+IV
+IV
+III
+III
+II
+II
+I
+I
+ANEXO IV
+(Revogado)
+ANEXO V
+(Anexo da Lei no 9.657, de 3 de junho de 1998)
+a) PLANO DE CARREIRA DOS CARGOS DE TECNOLOGIA MILITAR VALORES DO PONTO DA GRATIFICAÇÃO DE DESEMPENHO
+DE ATIVIDADE TÉCNICO-OPERACIONAL EM TECNOLOGIA MILITAR – GDATEM EFEITOS FINANCEIROS A PARTIR DE 1o DE JULHO DE 2008
+Valor do ponto da GDATEM para cargos de nível superior
+Em R$
+CLASSE
+PADRÃO
+VALOR DO PONTO DA GDATEM
+EFEITOS FINANCEIROS A PARTIR DE
+1o JUL 2008
+1o JUL 2009
+ESPECIAL
+III
+39,83
+46,19
+II
+39,05
+45,29
+I
+38,28
+44,41
+C
+VI
+36,46
+42,34
+V
+35,75
+41,51
+IV
+35,05
+40,70
+III
+34,36
+39,91
+II
+33,69
+39,13
+I
+33,03
+38,37
+B
+VI
+31,46
+36,54
+V
+30,84
+35,83
+IV
+30,24
+35,13
+III
+29,65
+34,44
+II
+29,07
+33,77
+I
+28,50
+33,11
+A
+V
+27,14
+31,53
+IV
+26,61
+30,91
+III
+26,09
+30,31
+II
+25,58
+29,72
+I
+25,08
+29,14
+Valor do ponto da GDATEM para cargos de nível intermediário
+Em R$
+CLASSE
+PADRÃO
+VALOR DO PONTO DA GDATEM
+EFEITOS FINANCEIROS A PARTIR DE
+1o JUL 2008
+1o JUL 2009
+ESPECIAL
+III
+18,68
+22,14
+II
+18,31
+21,71
+I
+17,95
+21,29
+C
+VI
+17,51
+20,87
+V
+17,17
+20,47
+IV
+16,83
+20,07
+III
+16,50
+19,68
+II
+16,18
+19,30
+I
+15,86
+18,93
+B
+VI
+15,47
+18,56
+V
+15,17
+18,20
+IV
+14,87
+17,85
+III
+14,58
+17,51
+II
+14,29
+17,17
+I
+14,01
+16,84
+A
+V
+13,67
+16,51
+IV
+13,40
+16,19
+III
+13,14
+15,88
+II
+12,88
+15,57
+I
+12,63
+15,27
+Valor do ponto da GDATEM para cargos de nível auxiliar
+Em R$
+CLASSE
+PADRÃO
+VALOR DO PONTO DA GDATEM
+EFEITOS FINANCEIROS A PARTIR DE
+1o JUL 2008
+1o JUL 2009
+ESPECIAL
+III
+12,15
+14,71
+II
+12,03
+14,56
+I
+11,91
+14,42
+b) PLANO DE CARREIRA DOS CARGOS DE TECNOLOGIA MILITAR VALORES DA RETRIBUIÇÃO POR TITULAÇÃO - RT
+Tabela I - Valor da RT: Efeitos financeiros a partir de 1o de julho de 2008
+Em R$
+CLASSE
+PADRÃO
+VALORES DA RT
+TITULAÇÃO
+Aperf/Espec
+Mestre
+Doutor
+ESPECIAL
+III
+1.305,00
+2.538,00
+5.076,00
+II
+1.264,00
+2.459,00
+4.919,00
+I
+1.225,00
+2.383,00
+4.766,00
+C
+VI
+1.176,00
+2.289,00
+4.578,00
+V
+1.139,00
+2.218,00
+4.436,00
+IV
+1.104,00
+2.149,00
+4.298,00
+III
+1.070,00
+2.082,00
+4.165,00
+II
+1.037,00
+2.017,00
+4.036,00
+I
+1.005,00
+1.954,00
+3.911,00
+B
+VI
+965,00
+1.877,00
+3.756,00
+V
+935,00
+1.819,00
+3.640,00
+IV
+906,00
+1.763,00
+3.527,00
+III
+878,00
+1.708,00
+3.418,00
+II
+851,00
+1.655,00
+3.312,00
+I
+825,00
+1.604,00
+3.209,00
+A
+V
+792,00
+1.540,00
+3.082,00
+IV
+767,00
+1.492,00
+2.986,00
+III
+743,00
+1.446,00
+2.893,00
+II
+720,00
+1.401,00
+2.803,00
+I
+698,00
+1.358,00
+2.716,00
+Tabela II - Valor da RT - Efeitos financeiros a partir de 1o de julho de 2009
+Em R$
+CLASSE
+PADRÃO
+VALORES DA RT
+TITULAÇÃO
+Aperf/Espec
+Mestre
+Doutor
+ESPECIAL
+III
+1.501,00
+2.918,00
+5.838,00
+II
+1.456,00
+2.830,00
+5.662,00
+I
+1.412,00
+2.744,00
+5.492,00
+C
+VI
+1.359,00
+2.647,00
+5.289,00
+V
+1.318,00
+2.567,00
+5.130,00
+IV
+1.278,00
+2.489,00
+4.976,00
+III
+1.240,00
+2.414,00
+4.826,00
+II
+1.203,00
+2.341,00
+4.681,00
+I
+1.167,00
+2.270,00
+4.540,00
+B
+VI
+1.124,00
+2.189,00
+4.372,00
+V
+1.090,00
+2.123,00
+4.241,00
+IV
+1.057,00
+2.059,00
+4.113,00
+III
+1.025,00
+1.997,00
+3.989,00
+II
+994,00
+1.937,00
+3.869,00
+I
+964,00
+1.878,00
+3.753,00
+A
+V
+928,00
+1.811,00
+3.614,00
+IV
+900,00
+1.756,00
+3.505,00
+III
+873,00
+1.703,00
+3.400,00
+II
+847,00
+1.651,00
+3.298,00
+I
+822,00
+1.601,00
+3.199,00
+c) PLANO DE CARREIRA DOS CARGOS DE TECNOLOGIA MILITAR GRATIFICAÇÃO POR QUALIFICAÇÃO - GQ
+Tabela I - Valor da GQ: Efeitos financeiros a partir de 1o de julho de 2008
+Em R$
+CLASSE
+PADRÃO
+VALORES DA GQ
+QUALIFICAÇÃO
+I
+II
+III
+ESPECIAL
+III
+654,00
+1.271,00
+2.544,00
+II
+637,00
+1.238,00
+2.477,00
+I
+620,00
+1.206,00
+2.412,00
+C
+VI
+598,00
+1.164,00
+2.330,00
+V
+582,00
+1.134,00
+2.269,00
+IV
+567,00
+1.104,00
+2.209,00
+III
+552,00
+1.075,00
+2.151,00
+II
+538,00
+1.047,00
+2.094,00
+I
+524,00
+1.020,00
+2.039,00
+B
+VI
+506,00
+984,00
+1.970,00
+V
+493,00
+958,00
+1.918,00
+IV
+480,00
+933,00
+1.867,00
+III
+467,00
+909,00
+1.818,00
+II
+455,00
+885,00
+1.770,00
+I
+443,00
+862,00
+1.723,00
+A
+V
+427,00
+832,00
+1.665,00
+IV
+416,00
+810,00
+1.621,00
+III
+405,00
+789,00
+1.578,00
+II
+394,00
+768,00
+1.536,00
+I
+384,00
+748,00
+1.495,00
+Tabela II - Valor da GQ - Efeitos financeiros a partir de 1o de julho de 2009
+Em R$
+CLASSE
+PADRÃO
+VALORES DA GQ
+QUALIFICAÇÃO
+I
+II
+III
+ESPECIAL
+III
+752,00
+1.462,00
+2.925,00
+II
+733,00
+1.426,00
+2.851,00
+I
+715,00
+1.390,00
+2.779,00
+C
+VI
+691,00
+1.344,00
+2.690,00
+V
+674,00
+1.310,00
+2.622,00
+IV
+657,00
+1.277,00
+2.556,00
+III
+641,00
+1.245,00
+2.491,00
+II
+625,00
+1.214,00
+2.428,00
+I
+609,00
+1.184,00
+2.367,00
+B
+VI
+588,00
+1.145,00
+2.291,00
+V
+573,00
+1.116,00
+2.233,00
+IV
+559,00
+1.088,00
+2.177,00
+III
+545,00
+1.061,00
+2.122,00
+II
+531,00
+1.035,00
+2.068,00
+I
+518,00
+1.009,00
+2.016,00
+A
+V
+500,00
+975,00
+1.952,00
+IV
+488,00
+951,00
+1.903,00
+III
+476,00
+927,00
+1.855,00
+II
+464,00
+904,00
+1.808,00
+I
+452,00
+881,00
+1.762,00
+ANEXO VI
+(Anexo XXI da Lei no 11.355, de 19 de outubro de 2006)
+PLANO DE CARREIRAS DOS CARGOS DE TECNOLOGIA MILITAR TABELA DE VENCIMENTO BÁSICO
+EFEITOS FINANCEIROS A PARTIR DE 1o DE JULHO DE 2008
+a) Vencimento Básico dos cargos de nível superior e intermediário
+Em R$
+CLASSE
+PADRÃO
+VENCIMENTO BÁSICO
+Nível superior
+Nível intermediário
+ESPECIAL
+III
+2.376,32
+1.595,10
+II
+2.329,72
+1.582,44
+I
+2.284,04
+1.569,88
+C
+VI
+2.196,20
+1.545,16
+V
+2.153,13
+1.532,90
+IV
+2.110,91
+1.520,73
+III
+2.069,52
+1.508,66
+II
+2.028,95
+1.496,69
+I
+1.989,16
+1.484,81
+B
+VI
+1.912,66
+1.461,43
+V
+1.875,15
+1.449,83
+IV
+1.838,39
+1.438,32
+III
+1.802,34
+1.426,91
+II
+1.767,00
+1.415,58
+I
+1.732,35
+1.404,35
+A
+V
+1.665,72
+1.382,23
+IV
+1.633,06
+1.371,26
+III
+1.601,04
+1.360,38
+II
+1.569,65
+1.349,58
+I
+1.538,87
+1.338,87
+b) Vencimento básico dos cargos de nível auxiliar
+Em R$
+CLASSE
+PADRÃO
+VENCIMENTO BÁSICO
+ESPECIAL
+III
+1.345,38
+II
+1.332,06
+I
+1.318,87
+ANEXO VII
+(Anexo XXV da Lei no 11.355, de 19 de outubro de 2006)
+PLANO DE CARREIRAS DOS CARGOS DE TECNOLOGIA MILITAR ESTRUTURA DE CLASSES E PADRÕES
+a) Cargos de nível superior e intermediário
+CARGO
+CLASSE
+PADRÃO
+Cargos de nível superior e intermediário do Plano de Carreiras dos Cargos de Tecnologia Militar
+ESPECIAL
+III
+II
+I
+C
+VI
+V
+IV
+III
+II
+I
+B
+VI
+V
+IV
+III
+II
+I
+A
+V
+IV
+III
+II
+I
+b) Cargos de nível auxiliar
+CARGO
+CLASSE
+PADRÃO
+Cargos de nível auxiliar do
+Plano de Carreiras dos
+Cargos de Tecnologia Militar
+ESPECIAL
+III
+II
+I
+ANEXO VIII
+(Anexo XXV-A da Lei no 11.355, de 19 de outubro de 2006)
+TABELA DE CORRELAÇÃO PARA OS CARGOS DO PLANO DE CARREIRAS DOS CARGOS DE TECNOLOGIA MILITAR
+A PARTIR DE 1o DE JULHO DE 2008 a) Cargos de nível superior e intermediário
+SITUAÇÃO ANTERIOR
+SITUAÇÃO NOVA
+CARGO
+CLASSE
+PADRÃO
+PADRÃO
+CLASSE
+CARGO
+Carreira de Tecnologia
+Militar
+Cargos de nível superior e intermediário do Plano de Carreira dos Cargos de Tecnologia Militar
+ESPECIAL
+III
+III
+ESPECIAL
+Carreira de
+Tecnologia Militar
+Cargos de nível superior e intermediário do Plano de Carreira dos Cargos de Tecnologia Militar
+II
+II
+I
+I
+C
+VI
+VI
+C
+V
+V
+IV
+IV
+III
+III
+II
+II
+I
+I
+B
+VI
+VI
+B
+V
+V
+IV
+IV
+III
+III
+II
+II
+I
+I
+A
+V
+V
+A
+IV
+IV
+III
+III
+II
+II
+I
+I
+b) Cargos de nível auxiliar
+CARGOS
+SITUAÇÃO ATUAL
+SITUAÇÃO NOVA
+Cargos de provimento efetivo
+de nível auxiliar do
+Plano de Carreiras dos Cargos de Tecnologia Militar
+CLASSE
+PADRÃO
+PADRÃO
+CLASSE
+CARGOS
+ESPECIAL
+III
+III
+ESPECIAL
+Cargos de provimento efetivo
+de nível auxiliar do Plano de Carreiras
+dos Cargos de Tecnologia Militar
+II
+II
+I
+I
+C
+VI
+V
+IV
+III
+II
+I
+B
+VI
+V
+IV
+III
+II
+I
+A
+V
+IV
+III
+II
+I
+ANEXO IX
+(Anexo com redação dada pelo Anexo LXV à Medida Provisória nº 1.170, de 28/4/2023, convertida na Lei nº 14.673, de 14/9/2023, e alterações pelo Anexo CXV à Lei nº 15.141, de 2/6/2025)
+TABELA DE VENCIMENTO BÁSICO DOS CARGOS DO GRUPO DEFESA AÉREA E CONTROLE DE TRÁFEGO AÉREO - DACTA
+a) Vencimento básico dos cargos efetivos de nível superior do Grupo Defesa Aérea e Controle de Tráfego Aéreo - Dacta:
+Em R$
+CLASSE
+PADRÃO
+VENCIMENTO BÁSICO
+EFEITOS FINANCEIROS A PARTIR DE 1º DE MAIO DE 2023
+ESPECIAL
+III
+4.728,67
+II
+4.599,87
+I
+4.474,58
+C
+VI
+4.344,26
+V
+4.225,92
+IV
+4.110,83
+III
+3.998,86
+II
+3.889,94
+I
+3.784,00
+B
+VI
+3.673,78
+V
+3.573,71
+IV
+3.476,37
+III
+3.381,68
+II
+3.289,57
+I
+3.199,98
+A
+V
+3.106,77
+IV
+3.022,14
+III
+2.939,83
+II
+2.859,77
+I
+2.781,88
+b) Vencimento básico dos cargos efetivos de nível intermediário do Dacta:
+Em R$
+CLASSE
+PADRÃO
+VENCIMENTO BÁSICO
+EFEITOS FINANCEIROS A PARTIR DE 1º DE MAIO DE 2023
+ESPECIAL
+III
+2.688,06
+II
+2.661,44
+I
+2.635,10
+C
+VI
+2.596,14
+V
+2.570,45
+IV
+2.545,00
+III
+2.519,81
+II
+2.494,86
+I
+2.470,14
+B
+VI
+2.433,64
+V
+2.409,54
+IV
+2.385,68
+III
+2.362,07
+II
+2.338,68
+I
+2.315,53
+A
+V
+2.281,30
+IV
+2.258,71
+III
+2.236,36
+II
+2.214,20
+I
+2.192,30
+c) Vencimento básico dos cargos efetivos de nível superior do Grupo Defesa Aérea e Controle de Tráfego Aéreo – Dacta a partir de 1º de janeiro de 2025:
+(Tabela acrescida pelo Anexo CXV à Lei nº 15.141, de 2/6/2025)
+Em R$
+CLASSE
+PADRÃO
+VENCIMENTO BÁSICO
+EFEITOS FINANCEIROS A PARTIR DE
+1º DE JANEIRO DE 2025
+1º DE ABRIL DE 2026
+ESPECIAL
+V
+5.259,56
+5.522,49
+IV
+5.109,84
+5.365,29
+III
+4.964,38
+5.212,56
+II
+4.823,06
+5.064,18
+I
+4.685,77
+4.920,02
+C
+V
+4.549,29
+4.776,72
+IV
+4.419,79
+4.640,75
+III
+4.293,98
+4.508,65
+II
+4.171,75
+4.380,31
+I
+4.053,00
+4.255,62
+B
+V
+3.934,95
+4.131,67
+IV
+3.822,94
+4.014,06
+III
+3.714,12
+3.899,80
+II
+3.608,39
+3.788,79
+I
+3.505,67
+3.680,94
+A
+V
+3.403,56
+3.573,73
+IV
+3.306,67
+3.472,00
+III
+3.212,54
+3.373,17
+II
+3.121,09
+3.277,15
+I
+3.032,25
+3.183,86
+d) Vencimento básico dos cargos efetivos de nível intermediário do Dacta a partir de 1º de janeiro de 2025:
+(Tabela acrescida pelo Anexo CXV à Lei nº 15.141, de 2/6/2025)
+Em R$
+CLASSE
+PADRÃO
+VENCIMENTO BÁSICO
+EFEITOS FINANCEIROS A PARTIR DE
+1º DE JANEIRO DE 2025
+1º DE ABRIL DE 2026
+ESPECIAL
+V
+2.976,76
+3.125,58
+IV
+2.944,37
+3.091,57
+III
+2.912,33
+3.057,93
+II
+2.880,64
+3.024,66
+I
+2.849,30
+2.991,75
+C
+V
+2.807,19
+2.947,54
+IV
+2.776,65
+2.915,47
+III
+2.746,44
+2.883,75
+II
+2.716,56
+2.852,37
+I
+2.687,00
+2.821,34
+B
+V
+2.647,29
+2.779,65
+IV
+2.618,49
+2.749,41
+III
+2.590,00
+2.719,50
+II
+2.561,82
+2.689,91
+I
+2.533,95
+2.660,64
+A
+V
+2.496,50
+2.621,32
+IV
+2.469,34
+2.592,80
+III
+2.442,47
+2.564,59
+II
+2.415,90
+2.536,69
+I
+2.389,61
+2.509,09
+ANEXO X
+(Anexo II da Lei no 10.551, de 13 de novembro de 2002)
+VALOR DO PONTO DA GRATIFICAÇÃO DE DESEMPENHO DE ATIVIDADE DE CONTROLE E SEGURANÇA DO TRÁFEGO AÉREO - GDASA
+EFEITOS FINANCEIROS A PARTIR DE 1o DE JULHO DE 2008
+a) Cargos efetivos de nível superior do Grupo Defesa Aérea e Controle de Tráfego Aéreo
+Em R$
+CLASSE
+PADRÃO
+VALOR DO PONTO DA GDASA
+EFEITOS FINANCEIROS A PARTIR DE
+1o JUL 2008
+1o JUL 2009
+ESPECIAL
+III
+54,25
+63,07
+II
+53,77
+62,46
+I
+53,29
+61,85
+C
+VI
+52,71
+61,10
+V
+52,24
+60,51
+IV
+51,77
+59,92
+III
+51,31
+59,34
+II
+50,85
+58,76
+I
+50,40
+58,19
+B
+VI
+49,85
+57,49
+V
+49,41
+56,93
+IV
+48,97
+56,38
+III
+48,53
+55,83
+II
+48,10
+55,29
+I
+47,67
+54,75
+A
+V
+47,15
+54,09
+IV
+46,73
+53,57
+III
+46,31
+53,05
+II
+45,90
+52,54
+I
+45,49
+52,03
+b) Cargos efetivos de nível intermediário do Grupo Defesa Aérea e Controle de Tráfego Aéreo
+Em R$
+CLASSE
+PADRÃO
+VALOR DO PONTO DA GDASA
+EFEITOS FINANCEIROS A PARTIR DE
+1o JUL 2008
+1o JUL 2009
+ESPECIAL
+III
+28,59
+33,41
+II
+28,48
+33,26
+I
+28,37
+33,11
+C
+VI
+28,23
+32,95
+V
+28,12
+32,80
+IV
+28,01
+32,65
+III
+27,90
+32,50
+II
+27,79
+32,35
+I
+27,68
+32,21
+B
+VI
+27,54
+32,05
+V
+27,43
+31,91
+IV
+27,32
+31,77
+III
+27,21
+31,63
+II
+27,10
+31,49
+I
+26,99
+31,35
+A
+V
+26,86
+31,19
+IV
+26,75
+31,05
+III
+26,64
+30,91
+II
+26,53
+30,77
+I
+26,42
+30,63
+ANEXO XI
+(Anexo da Lei no 10.225, de 15 de maio de 2001)
+CATEGORIAS PROFISSIONAIS, ESTRUTURA E VALORES DOS SALÁRIOS DOS EMPREGOS PÚBLICOS DO QUADRO DE PESSOAL DO HOSPITAL DAS FORÇAS ARMADAS - HFA
+(Efeitos financeiros a partir de 1o de julho de 2008)
+a) Salário dos Especialistas em Saúde - Área Médico-odontológica:
+Em R$
+CATEGORIAS
+PROFISSIONAIS
+CLASSE
+NÍVEL
+SALÁRIOS
+EFEITOS FINANCEIROS A PARTIR DE
+1o JUL 2008
+1o JUL 2009
+Médico
+Odontólogo
+D
+20
+7.169,44
+7.886,38
+19
+6.864,37
+7.550,81
+18
+6.637,87
+7.301,66
+17
+6.418,81
+7.060,69
+16
+6.206,99
+6.827,69
+C
+15
+5.890,42
+6.479,46
+14
+5.696,06
+6.265,67
+13
+5.508,07
+6.058,88
+12
+5.326,32
+5.858,95
+11
+5.150,54
+5.665,59
+B
+10
+4.887,85
+5.376,64
+9
+4.726,57
+5.199,23
+8
+4.570,60
+5.027,66
+7
+4.419,75
+4.861,73
+6
+4.273,90
+4.701,29
+A
+5
+4.055,93
+4.461,52
+4
+3.922,08
+4.314,29
+3
+3.792,66
+4.171,93
+2
+3.667,52
+4.034,27
+1
+3.546,48
+3.901,13
+b) Salário dos Especialistas em Saúde - Área Complementar:
+Em R$
+CATEGORIAS
+PROFISSIONAIS
+CLASSE
+NÍVEL
+SALÁRIOS
+EFEITOS FINANCEIROS A PARTIR DE
+1o JUL 2008
+1o JUL 2009
+Enfermeiro Farmacêutico Psicólogo Assistente Social Nutricionista Fonoaudiólogo Fisioterapeuta
+D
+20
+6.555,09
+7.210,60
+19
+6.342,78
+6.977,06
+18
+6.137,33
+6.751,06
+17
+5.938,54
+6.532,39
+16
+5.746,21
+6.320,83
+C
+15
+5.453,15
+5.998,47
+14
+5.276,49
+5.804,14
+13
+5.105,61
+5.616,17
+12
+4.940,24
+5.434,26
+11
+4.780,21
+5.258,23
+B
+10
+4.536,45
+4.990,10
+9
+4.389,51
+4.828,46
+8
+4.247,33
+4.672,06
+7
+4.109,76
+4.520,74
+6
+3.976,65
+4.374,32
+A
+5
+3.773,83
+4.151,21
+4
+3.651,61
+4.016,77
+3
+3.533,31
+3.886,64
+2
+3.418,87
+3.760,76
+1
+3.306,12
+3.636,73
+c) Salário dos Técnicos em Saúde:
+Em R$
+CATEGORIAS
+PROFISSIONAIS
+CLASSE
+NÍVEL
+SALÁRIOS
+EFEITOS FINANCEIROS A PARTIR DE
+1o JUL 2008
+1o JUL 2009
+Técnico de Enfermagem Técnico de Laboratório Técnico de Radiologia Técnico de Gesso Técnico de Necropsia Técnico de Hemoterapia
+Técnico de Medicina Nuclear Técnico de Função Pulmonar Técnico de Cito e Histologia Técnico em Eletroencefalografia
+Técnico em Atividades Hospitalares
+Técnico em Higiene Dental
+D
+20
+3.061,67
+3.367,84
+19
+2.960,64
+3.256,70
+18
+2.862,93
+3.149,22
+17
+2.768,43
+3.045,27
+16
+2.677,09
+2.944,80
+C
+15
+2.540,55
+2.794,61
+14
+2.456,73
+2.702,40
+13
+2.375,64
+2.613,20
+12
+2.297,27
+2.527,00
+11
+2.221,44
+2.443,58
+B
+10
+2.108,14
+2.318,95
+9
+2.038,57
+2.242,43
+8
+1.971,31
+2.168,44
+7
+1.906,26
+2.096,89
+6
+1.843,33
+2.027,66
+A
+5
+1.749,33
+1.924,26
+4
+1.691,59
+1.860,75
+3
+1.635,78
+1.799,36
+2
+1.581,79
+1.739,97
+1
+1.530,83
+1.683,91
+ANEXO XII
+ESTRUTURA DE CLASSES E PADRÕES DA CARREIRA DE PERITO MÉDICO PREVIDENCIÁRIO E DA CARREIRA DE SUPERVISOR MÉDICO-PERICIAL
+(Anexo com redação dada pela Lei nº 12.269, de 21/6/2010)
+CARGO
+CLASSE
+PADRÃO
+Perito Médico Previdenciário
+Supervisor Médico-Pericial
+ESPECIAL
+III
+II
+I
+D
+III
+II
+I
+C
+III
+II
+I
+B
+III
+II
+I
+A
+III
+II
+I
+ANEXO XII-A
+(Anexo acrescido pelo Anexo CXLVI à Lei nº 15.141, de 2/6/2025)
+ESTRUTURA DE CLASSES E PADRÕES DA CARREIRA DE PERITO MÉDICO FEDERAL E DA CARREIRA DE SUPERVISOR MÉDICO-PERICIAL
+A partir de 1º de janeiro de 2025
+CARGOS
+CLASSE
+PADRÃO
+Perito Médico Federal
+Supervisor Médico-Pericial
+ESPECIAL
+V
+IV
+III
+II
+I
+C
+V
+IV
+III
+II
+I
+B
+V
+IV
+III
+II
+I
+A
+V
+IV
+III
+II
+I
+ANEXO XIII
+a) Perito Médico Previdenciário
+SITUAÇÃO ATUAL
+SITUAÇÃO NOVA
+CARGO
+CLASSE
+PADRÃO
+PADRÃO
+CLASSE
+CARGO
+Perito Médico da
+Previdência Social, da Carreira de Perícia Médica da Previdência Social
+III
+ESPECIAL
+Perito Médico Previdenciário, da Carreira de Perito Médico Previdenciário
+II
+I
+ESPECIAL
+V
+III
+D
+IV
+II
+III
+I
+II
+III
+C
+I
+C
+V
+II
+IV
+III
+I
+II
+I
+III
+B
+B
+V
+IV
+II
+III
+II
+I
+I
+A
+V
+III
+A
+IV
+III
+II
+II
+I
+I
+b) Supervisor Médico-Pericial
+SITUAÇÃO ATUAL
+SITUAÇÃO NOVA
+CARGO
+CLASSE
+PADRÃO
+PADRÃO
+CLASSE
+CARGO
+Supervisor Médico- Pericial,
+da Carreira
+de Supervisor Médico- Pericial
+III
+ESPECIAL
+Supervisor Médico- Pericial, da Carreira de Supervisor Médico-Pericial
+II
+I
+ESPECIAL
+V
+III
+D
+IV
+II
+III
+I
+II
+III
+C
+I
+C
+V
+II
+IV
+III
+I
+II
+I
+III
+B
+B
+V
+IV
+II
+III
+II
+I
+I
+A
+V
+III
+A
+IV
+III
+II
+II
+I
+I
+ANEXO XIII-A
+(Anexo acrescido pelo Anexo CXLVII à Lei nº 15.141, de 2/6/2025)
+TABELA DE CORRELAÇÃO DA CARREIRA DE PERITO MÉDICO FEDERAL E DA CARREIRA DE SUPERVISOR MÉDICO-PERICIAL
+a) Cargos de Perito Médico Federal e de Supervisor Médico-Pericial a partir de 1º de janeiro de 2025:
+SITUAÇÃO ATUAL
+SITUAÇÃO A PARTIR DE 1º DE JANEIRO DE 2025
+CARGOS
+CLASSE
+PADRÃO
+PADRÃO
+CLASSE
+CARGOS
+Perito Médico Federal
+Supervisor Médico-Pericial
+ESPECIAL
+III
+V
+ESPECIAL
+Perito Médico Federal
+Supervisor Médico-Pericial
+II
+IV
+I
+III
+D
+III
+II
+II
+I
+I
+V
+C
+C
+III
+IV
+II
+III
+I
+II
+B
+III
+I
+II
+V
+B
+I
+IV
+A
+III
+III
+II
+II
+I
+I
+V
+A
+IV
+III
+II
+I
+ANEXO XIV TERMO DE OPÇÃO
+1.1.1 CARREIRA DE PERITO MÉDICO PREVIDENCIÁRIO
+Nome:
+Cargo:
+Matrícula SIAPE:
+Unidade de Lotação:
+Unidade Pagadora:
+Cidade:
+Estado:
+Servidor ativo ( ) Aposentado ( ) Pensionista ( )
+Venho, nos termos do § 2o do art. 34 da Lei no 11.907, de 2 de fevereiro de 2009, optar pelo não enquadramento na Carreira de Perito Médico Previdenciário.
+Local e data , / / .
+Assinatura
+Recebido em: / / .
+Assinatura/Matrícula ou Carimbo do Servidor do órgão do Sistema de Pessoal Civil da Administração
+Federal - SIPEC
+ANEXO XV
+(Anexo com redação dada pelo Anexo CLXXX à Medida Provisória nº 1.170, de 28/4/2023, convertida na Lei nº 14.673, de 14/9/2023, e alterações do Anexo CXLVIII à Lei nº 15.141, de 2/6/2025)
+TABELA DE VENCIMENTO BÁSICO
+a) Vencimento básico dos cargos de Perito Médico Federal da carreira de Perito Médico Federal e de Supervisor Médico-Pericial da carreira de Supervisor Médico-Pericial - 40 horas semanais:
+Em R$
+CLASSE
+PADRÃO
+VENCIMENTO BÁSICO
+EFEITOS FINANCEIROS A PARTIR DE 1º DE MAIO DE 2023
+ESPECIAL
+III
+14.080,14
+II
+13.139,95
+I
+12.514,24
+D
+III
+11.376,58
+II
+11.045,22
+I
+10.723,53
+C
+III
+10.021,98
+II
+9.730,08
+I
+9.446,68
+B
+III
+8.828,67
+II
+8.571,53
+I
+8.321,87
+A
+III
+7.777,44
+II
+7.550,91
+I
+7.330,99
+b) Vencimento básico dos cargos de Perito Médico Federal da carreira de Perito Médico Federal e de Supervisor Médico-Pericial da carreira de Supervisor Médico-Pericial - 30 horas semanais:
+Em R$
+CLASSE
+PADRÃO
+VENCIMENTO BÁSICO
+EFEITOS FINANCEIROS A PARTIR DE 1º DE MAIO DE 2023
+ESPECIAL
+III
+10.560,11
+II
+9.854,96
+I
+9.385,67
+D
+III
+8.532,43
+II
+8.283,91
+I
+8.042,64
+C
+III
+7.516,49
+II
+7.297,56
+I
+7.085,01
+B
+III
+6.621,50
+II
+6.428,65
+I
+6.241,41
+A
+III
+5.833,08
+II
+5.663,18
+I
+5.498,24
+c) Vencimento básico dos cargos de Perito Médico Federal da carreira de Perito Médico Federal e de Supervisor Médico-Pericial da carreira de Supervisor Médico-Pericial - 20 horas semanais:
+Em R$
+CLASSE
+PADRÃO
+VENCIMENTO BÁSICO
+EFEITOS FINANCEIROS A PARTIR DE 1º DE MAIO DE 2023
+ESPECIAL
+III
+7.040,07
+II
+6.569,98
+I
+6.257,11
+D
+III
+5.688,30
+II
+5.522,60
+I
+5.361,76
+C
+III
+5.010,99
+II
+4.865,04
+I
+4.723,34
+B
+III
+4.414,34
+II
+4.285,76
+I
+4.160,93
+A
+III
+3.888,73
+II
+3.775,45
+I
+3.665,50
+d) Vencimento básico dos cargos de Perito Médico Federal da carreira de Perito Médico Federal e de Supervisor Médico-Pericial da carreira de Supervisor Médico-Pericial - 40 horas semanais, a partir de 1º de janeiro de 2025:
+(Tabela acrescida pelo Anexo CXLVIII à Lei nº 15.141, de 2/6/2025)
+Em R$
+CLASSE
+PADRÃO
+VENCIMENTO BÁSICO
+EFEITOS FINANCEIROS A PARTIR DE
+1º DE JANEIRO DE 2025
+1º DE ABRIL DE 2026
+ESPECIAL
+V
+15.717,66
+16.613,57
+IV
+14.668,13
+15.504,21
+III
+13.969,65
+14.765,92
+II
+12.699,68
+13.423,56
+I
+12.329,78
+13.032,58
+C
+V
+11.970,68
+12.653,01
+IV
+11.187,54
+11.825,23
+III
+10.861,69
+11.480,81
+II
+10.545,33
+11.146,41
+I
+9.855,44
+10.417,20
+B
+V
+9.568,40
+10.113,80
+IV
+9.289,70
+9.819,21
+III
+8.681,96
+9.176,83
+II
+8.429,08
+8.909,54
+I
+8.183,58
+8.650,04
+A
+V
+7.648,21
+8.084,16
+IV
+7.425,45
+7.848,70
+III
+7.209,17
+7.620,09
+II
+6.999,19
+7.398,14
+I
+6.795,33
+7.182,66
+e) Vencimento básico dos cargos de Perito Médico Federal da carreira de Perito Médico Federal e de Supervisor Médico-Pericial da carreira de Supervisor Médico-Pericial - 30 horas semanais, a partir de 1º de janeiro de 2025:
+(Tabela acrescida pelo Anexo CXLVIII à Lei nº 15.141, de 2/6/2025)
+Em R$
+CLASSE
+PADRÃO
+VENCIMENTO BÁSICO
+EFEITOS FINANCEIROS A PARTIR DE
+1º DE JANEIRO DE 2025
+1º DE ABRIL DE 2026
+ESPECIAL
+V
+11.788,25
+12.460,18
+IV
+11.001,10
+11.628,16
+III
+10.477,24
+11.074,44
+II
+9.524,76
+10.067,67
+I
+9.247,34
+9.774,44
+C
+V
+8.978,01
+9.489,76
+IV
+8.390,66
+8.868,92
+III
+8.146,27
+8.610,61
+II
+7.909,00
+8.359,81
+I
+7.391,58
+7.812,90
+B
+V
+7.176,30
+7.585,35
+IV
+6.967,28
+7.364,41
+III
+6.511,47
+6.882,62
+II
+6.321,81
+6.682,16
+I
+6.137,69
+6.487,53
+A
+V
+5.736,16
+6.063,12
+IV
+5.569,09
+5.886,53
+III
+5.406,88
+5.715,07
+II
+5.249,39
+5.548,61
+I
+5.096,50
+5.387,00
+f) Vencimento básico dos cargos de Perito Médico Federal da carreira de Perito Médico Federal e de Supervisor Médico-Pericial da carreira de Supervisor Médico-Pericial - 20 horas semanais, a partir de 1º de janeiro de 2025:
+(Tabela acrescida pelo Anexo CXLVIII à Lei nº 15.141, de 2/6/2025)
+Em R$
+CLASSE
+PADRÃO
+VENCIMENTO BÁSICO
+EFEITOS FINANCEIROS A PARTIR DE
+1º DE JANEIRO DE 2025
+1º DE ABRIL DE 2026
+ESPECIAL
+V
+7.858,83
+8.306,79
+IV
+7.334,07
+7.752,11
+III
+6.984,83
+7.382,96
+II
+6.349,84
+6.711,78
+I
+6.164,89
+6.516,29
+C
+V
+5.985,34
+6.326,51
+IV
+5.593,77
+5.912,62
+III
+5.430,85
+5.740,41
+II
+5.272,67
+5.573,21
+I
+4.927,72
+5.208,60
+B
+V
+4.784,20
+5.056,90
+IV
+4.644,85
+4.909,61
+III
+4.340,98
+4.588,42
+II
+4.214,54
+4.454,77
+I
+4.091,79
+4.325,02
+A
+V
+3.824,11
+4.042,08
+IV
+3.712,73
+3.924,35
+III
+3.604,59
+3.810,05
+II
+3.499,60
+3.699,07
+I
+3.397,67
+3.591,33
+ANEXO XVI
+(Anexo com redação dada pelo Anexo CXLIX à Lei nº 15.141, de 2/6/2025)
+TABELA DE VALOR DO PONTO DA GRATIFICAÇÃO DE DESEMPENHO DE ATIVIDADE DE PERÍCIA MÉDICA PREVIDENCIÁRIA – GDAPMP
+Em R$
+JORNADA DE TRABALHO
+VALOR DO PONTO DA GDAPMP
+EFEITOS FINANCEIROS A PARTIR DE
+1º DE MAIO DE 2023
+1º DE JANEIRO DE 2025
+1º DE ABRIL DE 2026
+40 HORAS
+85,45
+95,39
+100,83
+30 HORAS
+64,08
+71,54
+75,62
+20 HORAS
+42,73
+47,70
+50,42
+ANEXO XVII
+(Anexo VIII-A da Lei no 11.344, de 8 de setembro de 2006)
+VENCIMENTO BÁSICO
+a) Vencimento Básico do cargo de Pesquisador da Carreira de Pesquisa em Ciência e Tecnologia
+Em R$
+CARGO
+CLASSE
+PADRÃO
+VENCIMENTO BÁSICO
+EFEITOS FINANCEIROS A PARTIR DE
+1o JUL 2008
+1o JUL 2009
+Pesquisador
+TITULAR
+III
+3.836,51
+4.411,76
+II
+3.688,95
+4.247,94
+I
+3.547,07
+4.090,76
+ASSOCIADO
+III
+3.346,29
+3.868,24
+II
+3.217,59
+3.724,92
+I
+3.093,83
+3.586,32
+ADJUNTO
+III
+2.918,71
+3.391,47
+II
+2.806,45
+3.266,17
+I
+2.698,52
+3.144,98
+ASSISTENTE
+DE PESQUISA
+III
+2.545,77
+2.974,13
+II
+2.447,86
+2.864,86
+I
+2.353,71
+2.758,63
+b) Vencimento Básico dos cargos de nível superior de Tecnologista da Carreira de Desenvolvimento Tecnológico e Cargos de Analista em Ciência e Tecnologia da Carreira de Gestão, Planejamento e Infra-Estrutura em Ciência e Tecnologia.
+Em R$
+CARGOS
+CLASSE
+PADRÃO
+VENCIMENTO BÁSICO
+EFEITOS FINANCEIROS A PARTIR DE
+1o JUL 2008
+1o JUL 2009
+Tecnologista
+Analista em Ciência e
+Tecnologia
+SÊNIOR
+III
+3.836,51
+4.411,76
+II
+3.688,95
+4.247,94
+I
+3.547,07
+4.090,76
+PLENO III
+III
+3.346,29
+3.868,24
+II
+3.217,59
+3.724,92
+I
+3.093,83
+3.586,32
+PLENO II
+III
+2.918,71
+3.391,47
+II
+2.806,45
+3.266,17
+I
+2.698,52
+3.144,98
+PLENO I
+III
+2.545,77
+2.974,13
+II
+2.447,86
+2.864,86
+I
+2.353,71
+2.758,63
+JÚNIOR
+III
+2.220,48
+2.608,44
+II
+2.135,07
+2.512,25
+I
+2.052,95
+2.419,07
+c) Vencimento Básico dos cargos de nível intermediário de Técnico da Carreira de Desenvolvimento Tecnológico e Cargos de Assistente em Ciência e Tecnologia da Carreira de Gestão, Planejamento e Infra-Estrutura em Ciência e Tecnologia.
+Em R$
+CARGO
+CLASSE
+PADRÃO
+VENCIMENTO BÁSICO
+EFEITOS FINANCEIROS A PARTIR DE
+1o JUL 2008
+1o JUL 2009
+Técnico
+Assistente em Ciência e Tecnologia
+TÉCNICO III
+ASSISTENTE III
+III
+1.922,33
+2.210,57
+II
+1.852,77
+2.133,52
+I
+1.785,60
+2.059,29
+TÉCNICO II ASSISTENTE II
+VI
+1.720,61
+1.988,99
+V
+1.657,84
+1.919,25
+IV
+1.597,11
+1.851,34
+III
+1.538,37
+1.787,54
+II
+1.481,45
+1.724,12
+I
+1.426,37
+1.662,36
+TÉCNICO I ASSISTENTE I
+VI
+1.373,12
+1.604,17
+V
+1.321,46
+1.546,58
+IV
+1.271,50
+1.490,25
+III
+1.222,98
+1.436,66
+II
+1.176,03
+1.383,79
+I
+1.130,38
+1.331,97
+d) Vencimento Básico dos cargos de nível auxiliar de Auxiliar Técnico da Carreira de Desenvolvimento Tecnológico e Cargos de Auxiliar em Ciência e Tecnologia da Carreira de Gestão, Planejamento e Infra-Estrutura em Ciência e Tecnologia.
+Em R$
+CARGO
+CLASSE
+PADRÃO
+VENCIMENTO BÁSICO
+EFEITOS FINANCEIROS A PARTIR DE
+1o JUL 2008
+1o JUL 2009
+Auxiliar Técnico
+Auxiliar em Ciência e Tecnologia
+AUXILIAR TÉCNICO II
+AUXILIAR II
+VI
+837,35
+942,00
+V
+816,13
+918,13
+IV
+795,45
+894,86
+III
+775,29
+872,18
+II
+755,64
+850,08
+I
+736,49
+828,54
+AUXILIAR TÉCNICO I
+AUXILIAR I
+VI
+704,78
+792,86
+V
+686,92
+772,77
+IV
+669,51
+753,19
+III
+652,54
+734,10
+II
+636,00
+715,50
+I
+619,88
+697,37
+ANEXO XVIII
+(Anexo VIII-B da Lei no 11.344, de 8 de setembro de 2006) VALOR DO PONTO DA GRATIFICAÇÃO DE DESEMPENHO DE
+ATIVIDADE DE CIÊNCIA E TECNOLOGIA - GDACT
+a) Tabela I: Valor do ponto da GDACT dos cargos de nível superior - Carreira de Pesquisa em
+Ciência e Tecnologia:
+Em R$
+CARGO
+CLASSE
+PADRÃO
+VALOR DO PONTO DA GDACT
+EFEITOS FINANCEIROS A PARTIR DE
+1o JUL 2008
+1o JUL 2009
+Pesquisador
+TITULAR
+III
+24,17
+27,79
+II
+23,55
+27,12
+I
+22,94
+26,46
+ASSOCIADO
+III
+22,06
+25,49
+II
+21,49
+24,87
+I
+20,94
+24,27
+ADJUNTO
+III
+20,13
+23,39
+II
+19,61
+22,82
+I
+19,10
+22,27
+ASSISTENTE
+DE PESQUISA
+III
+18,37
+21,46
+II
+17,90
+20,94
+I
+17,44
+20,44
+b) Tabela II: Valor do ponto da GDACT dos cargos de nível superior - Carreira de Gestão, Planejamento e Infra-Estrutura em Ciência e Tecnologia e Carreira de Desenvolvimento Tecnológico
+Em R$
+CARGO
+CLASSE
+PADRÃO
+VALOR DO PONTO DA GDACT
+EFEITOS FINANCEIROS A PARTIR DE
+1o JUL 2008
+1o JUL 2009
+Tecnologista
+Analista em Ciência e
+Tecnologia
+SÊNIOR
+III
+24,17
+27,79
+II
+23,55
+27,12
+I
+22,94
+26,46
+PLENO III
+III
+22,06
+25,49
+II
+21,49
+24,87
+I
+20,94
+24,27
+PLENO II
+III
+20,13
+23,39
+II
+19,61
+22,82
+I
+19,10
+22,27
+PLENO I
+III
+18,37
+21,46
+II
+17,90
+20,94
+I
+17,44
+20,44
+JÚNIOR
+III
+16,77
+19,71
+II
+16,34
+19,23
+I
+15,92
+18,77
+c) Tabela III: Valor do ponto da GDACT dos cargos de nível intermediário - Carreira de Desenvolvimento Tecnológico e Carreira de Gestão, Planejamento e Infra-Estrutura em Ciência e Tecnologia.
+Em R$
+CARGO
+CLASSE
+PADRÃO
+VALOR DO PONTO DA GDACT
+EFEITOS FINANCEIROS A PARTIR DE
+1o JUL 2008
+1o JUL 2009
+Técnico
+Assistente em Ciência e Tecnologia
+TÉCNICO III
+ASSISTENTE III
+III
+12,11
+13,93
+II
+11,83
+13,62
+I
+11,55
+13,32
+TÉCNICO II
+ASSISTENTE II
+VI
+11,34
+13,11
+V
+11,07
+12,82
+IV
+10,81
+12,53
+III
+10,61
+12,33
+II
+10,35
+12,05
+I
+10,10
+11,77
+TÉCNICO I
+ASSISTENTE I
+VI
+9,91
+11,58
+V
+9,66
+11,31
+IV
+9,42
+11,04
+III
+9,24
+10,85
+II
+9,00
+10,59
+I
+8,77
+10,33
+d) Tabela IV: Valor do ponto da GDACT dos cargos de nível auxiliar - Carreira de Desenvolvimento Tecnológico e Carreira de Gestão, Planejamento e Infra-Estrutura em Ciência e Tecnologia.
+Em R$
+CARGO
+CLASSE
+PADRÃO
+VALOR DO PONTO DA GDACT
+EFEITOS FINANCEIROS A PARTIR DE
+1o JUL 2008
+1o JUL 2009
+Auxiliar Técnico
+Auxiliar em Ciência e
+Tecnologia
+AUXILIAR TÉCNICO II
+AUXILIAR II
+VI
+10,96
+12,56
+V
+10,76
+12,33
+IV
+10,56
+12,10
+III
+10,36
+11,87
+II
+10,17
+11,65
+I
+9,98
+11,43
+AUXILIAR TÉCNICO I
+AUXILIAR I
+VI
+9,63
+11,03
+V
+9,45
+10,82
+IV
+9,27
+10,62
+III
+9,10
+10,42
+II
+8,93
+10,23
+I
+8,76
+10,04
+ANEXO XIX
+(Anexo com redação dada pelo Anexo LXVIII à Medida Provisória nº 1.170, de 28/4/2023, convertida na Lei nº 14.673, de 14/9/2023, e alterações do Anexo CCXXXVII à Lei nº 15.141, de 2/6/2025)
+CARREIRAS DE PESQUISA EM CIÊNCIA E TECNOLOGIA, DESENVOLVIMENTO TECNOLÓGICO E DE GESTÃO, PLANEJAMENTO E INFRAESTRUTURA EM CIÊNCIA E TECNOLOGIA
+VALOR DA RETRIBUIÇÃO POR TITULAÇÃO – RT
+a) Valor da RT para o cargo de Pesquisador da Carreira de Pesquisa em Ciência e Tecnologia:
+Em R$
+CLASSE
+PADRÃO
+VALOR DA RT
+EFEITOS FINANCEIROS A PARTIR DE 1º DE MAIO DE 2023
+Aperfeiçoamento /
+Especialização
+Mestrado
+Doutorado
+TITULAR
+III
+1.812,38
+3.523,33
+7.593,98
+II
+1.743,55
+3.394,14
+7.310,40
+I
+1.679,56
+3.266,14
+7.042,44
+ASSOCIADO
+III
+1.590,21
+3.089,86
+6.658,71
+II
+1.527,42
+2.975,16
+6.408,96
+I
+1.471,88
+2.864,06
+6.172,22
+ADJUNTO
+III
+1.392,19
+2.708,30
+5.835,32
+II
+1.341,47
+2.609,30
+5.620,68
+I
+1.290,76
+2.512,70
+5.412,57
+ASSISTENTE
+DE PESQUISA
+III
+1.221,93
+2.375,04
+5.115,98
+II
+1.178,46
+2.288,12
+4.929,97
+I
+1.131,38
+2.203,59
+4.746,56
+b) Valor da RT para os cargos de Tecnologista da Carreira de Desenvolvimento Tecnológico e de Analista em Ciência e Tecnologia da Carreira de Gestão, Planejamento e Infraestrutura em Ciência e Tecnologia:
+Em R$
+CLASSE
+PADRÃO
+VALOR DA RT
+EFEITOS FINANCEIROS A PARTIR DE 1º DE MAIO DE 2023
+Aperfeiçoamento /
+Especialização
+Mestrado
+Doutorado
+SÊNIOR
+III
+1.812,38
+3.523,33
+7.593,98
+II
+1.743,55
+3.394,14
+7.310,40
+I
+1.679,56
+3.266,14
+7.042,44
+PLENO III
+III
+1.590,21
+3.089,86
+6.658,71
+II
+1.527,42
+2.975,16
+6.408,96
+I
+1.471,88
+2.864,06
+6.172,22
+PLENO II
+III
+1.392,19
+2.708,30
+5.835,32
+II
+1.341,47
+2.609,30
+5.620,68
+I
+1.290,76
+2.512,70
+5.412,57
+PLENO I
+III
+1.221,93
+2.375,04
+5.115,98
+II
+1.178,46
+2.288,12
+4.929,97
+I
+1.131,38
+2.203,59
+4.746,56
+JÚNIOR
+III
+1.071,00
+2.082,85
+4.489,00
+II
+1.031,16
+2.006,78
+4.323,81
+I
+992,52
+1.933,13
+4.161,21
+c) Valor da RT para o cargo de Pesquisador da Carreira de Pesquisa em Ciência e Tecnologia e para os cargos de Tecnologista da Carreira de Desenvolvimento Tecnológico e de Analista em Ciência e Tecnologia da Carreira de Gestão, Planejamento e Infraestrutura em Ciência e Tecnologia:
+(Tabela acrescida pelo Anexo CCXXXVII à Lei nº 15.141, de 2/6/2025)
+Em R$
+CLASSE
+PADRÃO
+VALOR DA RT
+EFEITOS FINANCEIROS A PARTIR DE 1º DE JANEIRO DE 2025
+Aperfeiçoamento /
+Mestrado
+Doutorado
+Especialização
+ESPECIAL
+III
+4.103,11
+5.230,36
+9.312,62
+II
+3.939,95
+5.022,36
+8.942,29
+I
+3.783,27
+4.822,64
+8.586,69
+C
+VI
+3.632,82
+4.630,86
+8.245,23
+V
+3.488,36
+4.446,71
+7.917,34
+IV
+3.322,56
+4.235,37
+7.541,05
+III
+3.242,64
+4.133,49
+7.359,66
+II
+3.164,65
+4.034,07
+7.182,64
+I
+3.088,53
+3.937,04
+7.009,88
+B
+VI
+3.014,24
+3.842,34
+6.841,27
+V
+2.870,98
+3.659,72
+6.516,12
+IV
+2.801,93
+3.571,70
+6.359,39
+III
+2.734,53
+3.485,78
+6.206,42
+II
+2.668,76
+3.401,94
+6.057,13
+I
+2.604,56
+3.320,11
+5.911,44
+A
+V
+2.529,57
+3.224,52
+5.741,23
+IV
+2.492,88
+3.177,75
+5.657,97
+III
+2.456,73
+3.131,67
+5.575,92
+II
+2.421,10
+3.086,25
+5.495,05
+I
+2.385,99
+3.041,50
+5.415,37
+d) Valor da RT para o cargo de Pesquisador da Carreira de Pesquisa em Ciência e Tecnologia e para os cargos de Tecnologista da Carreira de Desenvolvimento Tecnológico e de Analista em Ciência e Tecnologia da Carreira de Gestão, Planejamento e Infraestrutura em Ciência e Tecnologia:
+(Tabela acrescida pelo Anexo CCXXXVII à Lei nº 15.141, de 2/6/2025)
+Em R$
+CLASSE
+PADRÃO
+VALOR DA RT
+EFEITOS FINANCEIROS A PARTIR DE 1º DE ABRIL DE 2026
+Aperfeiçoamento / Especialização
+Mestrado
+Doutorado
+ESPECIAL
+III
+4.288,89
+5.467,17
+9.734,27
+II
+4.104,71
+5.232,39
+9.316,24
+I
+3.928,44
+5.007,69
+8.916,17
+VI
+3.759,74
+4.792,64
+8.533,28
+C
+V
+3.598,28
+4.586,83
+8.166,82
+IV
+3.413,65
+4.351,48
+7.747,79
+III
+3.324,93
+4.238,38
+7.546,41
+II
+3.238,50
+4.128,22
+7.350,26
+I
+3.154,33
+4.020,92
+7.159,22
+VI
+3.072,34
+3.916,40
+6.973,13
+B
+V
+2.914,70
+3.715,46
+6.615,35
+IV
+2.838,95
+3.618,89
+6.443,41
+III
+2.765,15
+3.524,82
+6.275,92
+II
+2.693,28
+3.433,20
+6.112,80
+I
+2.623,28
+3.343,97
+5.953,91
+V
+2.541,67
+3.239,94
+5.768,70
+A
+IV
+2.501,82
+3.189,15
+5.678,26
+III
+2.462,60
+3.139,15
+5.589,24
+II
+2.423,99
+3.089,94
+5.501,61
+I
+2.385,99
+3.041,50
+5.415,37
+ANEXO XX
+(Anexo com redação dada pelo Anexo LXIX à Medida Provisória nº 1.170, de 28/4/2023, convertida na Lei nº 14.673, de 14/9/2023, e alterações pelo Anexo CCXXXVIII à Lei nº 15.141, de 2/6/2025)
+VALOR DA GRATIFICAÇÃO DE QUALIFICAÇÃO - GQ
+a) Valor da GQ para os cargos de Técnico e Assistente em Ciência e Tecnologia:
+Em R$
+CLASSE
+PADRÃO
+VALOR DA GQ
+EFEITOS FINANCEIROS A PARTIR DE 1º DE MAIO DE 2023
+I
+II
+III
+TÉCNICO III
+ASSISTENTE III
+III
+908,00
+1.765,29
+3.531,79
+II
+875,40
+1.704,91
+3.407,42
+I
+845,22
+1.644,55
+3.290,30
+TÉCNICO II
+ASSISTENTE II
+VI
+817,45
+1.589,00
+3.178,00
+V
+787,25
+1.533,46
+3.065,71
+IV
+759,48
+1.479,12
+2.957,04
+III
+734,13
+1.427,20
+2.855,61
+II
+708,77
+1.377,69
+2.754,19
+I
+682,21
+1.328,20
+2.655,17
+TÉCNICO I
+ASSISTENTE I
+VI
+659,26
+1.281,10
+2.562,21
+V
+636,32
+1.235,22
+2.470,44
+IV
+610,97
+1.190,54
+2.379,88
+III
+590,44
+1.147,07
+2.295,35
+II
+568,71
+1.106,02
+2.210,84
+I
+545,76
+1.063,76
+2.127,53
+b) Valor da GQ para os cargos de Auxiliar em Ciência e Tecnologia:
+(Tabela com redação dada pelo Anexo CCXXXVIII à Lei nº 15.141, de 2/6/2025)
+Em R$
+CLASSE
+PADRÃO
+VALOR DA GQ
+EFEITOS FINANCEIROS A PARTIR DE
+1º DE MAIO DE 2023
+1º DE JANEIRO DE 2025
+1º DE ABRIL DE 2026
+AUXILIAR TÉCNICO II AUXILIAR II
+VI
+307,90
+335,61
+352,39
+V
+299,44
+326,39
+342,71
+IV
+292,21
+318,51
+334,43
+III
+284,96
+310,61
+326,14
+II
+277,71
+302,70
+317,84
+I
+270,47
+294,81
+309,55
+AUXILIAR TÉCNICO I AUXILIAR I
+VI
+259,61
+282,97
+297,12
+V
+252,36
+275,07
+288,83
+IV
+246,32
+268,49
+281,91
+III
+240,28
+261,91
+275,00
+II
+234,24
+255,32
+268,09
+I
+228,20
+248,74
+261,17
+c) Valor da GQ para os cargos de Técnico e Assistente em Ciência e Tecnologia, a partir de 1º de janeiro de 2025:
+(Tabela acrescida pelo Anexo CCXXXVIII à Lei nº 15.141, de 2/6/2025)
+Em R$
+CLASSE
+PADRÃO
+VALOR DA GQ
+EFEITOS FINANCEIROS A PARTIR DE 1º DE JANEIRO DE 2025
+I
+II
+III
+ESPECIAL
+III
+1.403,19
+2.202,01
+4.389,03
+II
+1.354,53
+2.126,02
+3.998,76
+I
+1.307,75
+2.052,40
+3.643,51
+C
+VI
+1.252,21
+1.965,06
+3.260,99
+V
+1.222,78
+1.919,26
+3.163,76
+IV
+1.194,24
+1.874,43
+3.069,39
+III
+1.166,59
+1.830,71
+2.978,19
+II
+1.139,45
+1.788,09
+2.889,34
+I
+1.112,60
+1.746,24
+2.803,02
+B
+VI
+1.065,27
+1.671,64
+2.647,96
+V
+1.040,46
+1.632,53
+2.568,88
+IV
+1.015,69
+1.594,28
+2.491,94
+III
+992,16
+1.556,87
+2.417,60
+II
+968,85
+1.520,45
+2.345,15
+I
+945,74
+1.484,51
+2.274,67
+A
+V
+917,20
+1.439,58
+2.225,52
+IV
+903,11
+1.417,54
+2.201,34
+III
+889,40
+1.395,95
+2.177,34
+II
+875,86
+1.374,64
+2.153,65
+I
+862,51
+1.353,60
+2.130,27
+d) Valor da GQ para os cargos de Técnico e Assistente em Ciência e Tecnologia, a partir de 1º de abril de 2026:
+(Tabela acrescida pelo Anexo CCXXXVIII à Lei nº 15.141, de 2/6/2025)
+Em R$
+CLASSE
+PADRÃO
+VALOR DA GQ
+EFEITOS FINANCEIROS A PARTIR DE 1º DE ABRIL DE 2026
+I
+II
+III
+ESPECIAL
+III
+1.470,00
+2.252,60
+4.488,00
+II
+1.419,22
+2.174,79
+4.062,99
+I
+1.370,20
+2.099,67
+3.678,23
+C
+VI
+1.310,56
+2.008,28
+3.264,31
+V
+1.281,72
+1.964,08
+3.168,99
+IV
+1.253,52
+1.920,87
+3.076,45
+III
+1.225,93
+1.878,60
+2.986,62
+II
+1.198,96
+1.837,26
+2.899,41
+I
+1.172,57
+1.796,83
+2.814,74
+B
+VI
+1.121,54
+1.718,62
+2.652,76
+V
+1.096,86
+1.680,80
+2.575,29
+IV
+1.072,72
+1.643,82
+2.500,09
+III
+1.049,12
+1.607,65
+2.427,09
+II
+1.026,03
+1.572,27
+2.356,22
+I
+1.003,45
+1.537,67
+2.287,41
+A
+V
+974,01
+1.492,56
+2.242,34
+IV
+959,62
+1.470,50
+2.220,14
+III
+945,44
+1.448,77
+2.198,16
+II
+931,47
+1.427,36
+2.176,40
+I
+917,70
+1.406,27
+2.154,85
+ANEXO XXI
+VALOR DA GRATIFICAÇÃO TEMPORÁRIA DE ATIVIDADE DE CIÊNCIA E TECNOLOGIA – GTEMPCT
+a) Valor da GTEMPCT para os cargos de nível superior - Carreira de Pesquisa em Ciência e
+Tecnologia:
+Em R$
+CARGO
+CLASSE
+PADRÃO
+VALOR DA GTEMPCT
+EFEITOS FINANCEIROS A PARTIR DE
+1o JUL 2008
+1o JUL 2009
+Pesquisador
+TITULAR
+III
+997,49
+1.147,06
+II
+959,13
+1.104,46
+I
+922,24
+1.063,60
+ASSOCIADO
+III
+870,04
+1.005,74
+II
+836,57
+968,48
+I
+804,40
+932,44
+ADJUNTO
+III
+758,87
+881,78
+II
+729,68
+849,20
+I
+701,61
+817,70
+ASSISTENTE
+DE PESQUISA
+III
+661,90
+773,28
+II
+636,44
+744,86
+I
+611,96
+717,24
+b) Valor da GTEMPCT para os cargos de nível superior - Carreira de Gestão, Planejamento e
+Infra-Estrutura em Ciência e Tecnologia e Carreira de Desenvolvimento Tecnológico
+Em R$
+CARGO
+CLASSE
+PADRÃO
+VALOR DA GTEMPCT
+EFEITOS FINANCEIROS A PARTIR DE
+1o JUL 2008
+1o JUL 2009
+Tecnologista
+Analista em Ciência e
+Tecnologia
+SÊNIOR
+III
+997,49
+1.147,06
+II
+959,13
+1.104,46
+I
+922,24
+1.063,60
+PLENO III
+III
+870,04
+1.005,74
+II
+836,57
+968,48
+I
+804,40
+932,44
+PLENO II
+III
+758,87
+881,78
+II
+729,68
+849,20
+I
+701,61
+817,70
+PLENO I
+III
+661,90
+773,28
+II
+636,44
+744,86
+I
+611,96
+717,24
+JÚNIOR
+III
+577,32
+678,19
+II
+555,12
+653,18
+I
+533,77
+628,96
+c) Valor da GTEMPCT para os cargos de nível intermediário - Carreira de Desenvolvimento
+Tecnológico e Carreira de Gestão, Planejamento e Infra-Estrutura em Ciência e Tecnologia.
+Em R$
+CARGO
+CLASSE
+PADRÃO
+VALOR DA GTEMPCT
+EFEITOS FINANCEIROS A PARTIR DE
+1o JUL 2008
+1o JUL 2009
+Técnico
+Assistente em Ciência e
+Tecnologia
+TÉCNICO III
+ASSISTENTE III
+III
+499,81
+574,75
+II
+481,72
+554,72
+I
+464,25
+535,42
+TÉCNICO II
+ASSISTENTE II
+VI
+447,36
+517,14
+V
+431,04
+499,00
+IV
+415,25
+481,35
+III
+399,97
+464,76
+II
+385,18
+448,27
+I
+370,85
+432,21
+TÉCNICO I
+ASSISTENTE I
+VI
+357,01
+417,08
+V
+343,58
+402,11
+IV
+330,59
+387,46
+III
+317,98
+373,53
+II
+305,77
+359,78
+I
+293,90
+346,31
+ANEXO XXII
+(Anexo IX-A da Lei no 11.355, de 19 de outubro de 2006) PLANO DE CARREIRAS E CARGOS DE CIÊNCIA, TECNOLOGIA,
+PRODUÇÃO E INOVAÇÃO EM SAÚDE PÚBLICA DA FIOCRUZ TABELAS DE VENCIMENTO BÁSICO
+a) Tabela I: Vencimento Básico do cargo de Pesquisador em Saúde Pública da Carreira de
+Pesquisa em Ciência, Tecnologia, Produção e Inovação em Saúde Pública
+Em R$
+CLASSE
+PADRÃO
+VENCIMENTO BÁSICO
+EFEITOS FINANCEIROS A PARTIR DE
+1o JUL 2008
+1o JUL 2009
+TITULAR
+III
+4.834,00
+5.558,82
+II
+4.648,08
+5.352,40
+I
+4.469,31
+5.154,36
+ASSOCIADO
+III
+4.216,33
+4.873,98
+II
+4.054,16
+4.693,40
+I
+3.898,23
+4.518,76
+ADJUNTO
+III
+3.677,58
+4.273,25
+II
+3.536,13
+4.115,37
+I
+3.400,13
+3.962,68
+ASSISTENTE DE PESQUISA
+III
+3.207,67
+3.747,41
+II
+3.084,30
+3.609,72
+I
+2.965,67
+3.475,87
+b) Tabela II: Vencimento básico dos cargos de Tecnologista em Saúde Pública da Carreira de Desenvolvimento Tecnológico em Ciência, Tecnologia, Produção e Inovação em Saúde Pública e Cargos de Analista de Gestão em Saúde da Carreira de Gestão em Ciência, Tecnologia, Produção e Inovação em Saúde Pública
+Em R$
+CLASSE
+PADRÃO
+VENCIMENTO BÁSICO
+EFEITOS FINANCEIROS A PARTIR DE
+1o JUL 2008
+1o JUL 2009
+SÊNIOR
+III
+4.834,00
+5.558,82
+II
+4.648,08
+5.352,40
+I
+4.469,31
+5.154,36
+PLENO III
+III
+4.216,33
+4.873,98
+II
+4.054,16
+4.693,40
+I
+3.898,23
+4.518,76
+PLENO II
+III
+3.677,58
+4.273,25
+II
+3.536,13
+4.115,37
+I
+3.400,13
+3.962,68
+PLENO I
+III
+3.207,67
+3.747,41
+II
+3.084,30
+3.609,72
+I
+2.965,67
+3.475,87
+JÚNIOR
+III
+2.797,80
+3.286,63
+II
+2.690,19
+3.165,43
+I
+2.586,72
+3.048,03
+c) Tabela III: Vencimento básico dos cargos de Técnico em Saúde Pública da Carreira de Suporte Técnico em Ciência, Tecnologia, Produção e Inovação em Saúde Pública e Cargos de Assistente Técnico de Gestão em Saúde da Carreira de Suporte à Gestão em Ciência, Tecnologia, Produção e Inovação em Saúde Pública
+Em R$
+CLASSE
+PADRÃO
+VENCIMENTO BÁSICO
+EFEITOS FINANCEIROS A PARTIR DE
+1o JUL 2008
+1o JUL 2009
+TÉCNICO III
+ASSISTENTE III
+III
+2.422,14
+2.785,32
+II
+2.334,49
+2.688,24
+I
+2.249,85
+2.594,71
+TÉCNICO II
+ASSISTENTE II
+VI
+2.167,97
+2.506,13
+V
+2.088,88
+2.418,25
+IV
+2.012,36
+2.332,69
+III
+1.938,34
+2.252,30
+II
+1.866,63
+2.172,39
+I
+1.797,22
+2.094,57
+TÉCNICO I
+ASSISTENTE I
+VI
+1.730,13
+2.021,25
+V
+1.665,04
+1.948,69
+IV
+1.602,09
+1.877,71
+III
+1.540,96
+1.810,19
+II
+1.481,80
+1.743,57
+I
+1.424,28
+1.678,28
+d) Tabela IV: Vencimento básico dos cargos de nível superior de que trata o art. 28 da Lei no
+11.355, de 19 de outubro de 2006
+Em R$
+CLASSE
+PADRÃO
+VENCIMENTO BÁSICO
+EFEITOS FINANCEIROS A PARTIR DE
+1o JUL 2008
+1o JUL 2009
+ESPECIAL
+III
+4.834,00
+5.558,82
+II
+4.648,08
+5.352,40
+I
+4.469,31
+5.154,36
+C
+VI
+4.216,33
+4.873,98
+V
+4.054,16
+4.693,40
+IV
+3.898,23
+4.518,76
+III
+3.677,58
+4.273,25
+II
+3.536,13
+4.115,37
+I
+3.400,13
+3.962,68
+B
+VI
+3.207,67
+3.747,41
+V
+3.084,30
+3.609,72
+IV
+2.965,67
+3.475,87
+III
+2.797,80
+3.286,63
+II
+2.690,19
+3.165,43
+I
+2.586,72
+3.048,03
+A
+V
+2.511,38
+2.959,85
+IV
+2.438,23
+2.873,99
+III
+2.367,21
+2.791,73
+II
+2.298,26
+2.709,61
+I
+2.231,32
+2.630,97
+e) Tabela V: Vencimento básico dos cargos de nível intermediário de que trata o art. 28 da Lei no 11.355, de 19 de outubro de 2006
+Em R$
+CLASSE
+PADRÃO
+VENCIMENTO BÁSICO
+EFEITOS FINANCEIROS A PARTIR DE
+1o JUL 2008
+1o JUL 2009
+ESPECIAL
+III
+2.422,14
+2.785,32
+II
+2.334,49
+2.688,24
+I
+2.249,85
+2.594,71
+C
+VI
+2.167,97
+2.506,13
+V
+2.088,88
+2.418,25
+IV
+2.012,36
+2.332,69
+III
+1.938,34
+2.252,30
+II
+1.866,63
+2.172,39
+I
+1.797,22
+2.094,57
+B
+VI
+1.730,13
+2.021,25
+V
+1.665,04
+1.948,69
+IV
+1.602,09
+1.877,71
+III
+1.540,96
+1.810,19
+II
+1.481,80
+1.743,57
+I
+1.424,28
+1.678,28
+A
+V
+1.382,79
+1.629,72
+IV
+1.342,51
+1.582,44
+III
+1.303,41
+1.537,15
+II
+1.265,44
+1.491,94
+I
+1.228,59
+1.442,18
+f) Tabela VI: Vencimento básico do cargo de Especialista em Ciência, Tecnologia, Produção e
+Inovação em Saúde Pública
+Em R$
+CLASSE
+PADRÃO
+VENCIMENTO BÁSICO
+EFEITOS FINANCEIROS A PARTIR DE
+1o JUL 2008
+1o JUL 2009
+SENIOR
+ÚNICO
+4.834,00
+5.558,82
+ANEXO XXIII
+(Anexo IX-B da Lei no 11.355, de 19 de outubro de 2006)
+PLANO DE CARREIRAS E CARGOS DE CIÊNCIA, TECNOLOGIA, PRODUÇÃO E INOVAÇÃO
+EM SAÚDE PÚBLICA DA FIOCRUZ
+VALORES DO PONTO DA GRATIFICAÇÃO DE DESEMPENHO DE ATIVIDADE DE CIÊNCIA, TECNOLOGIA, PRODUÇÃO E INOVAÇÃO EM
+SAÚDE PÚBLICA - GDACTSP
+a) Tabela I: Valor do ponto da GDACTSP para os cargos de Pesquisador em Saúde Pública da
+Carreira de Pesquisa em Ciência, Tecnologia, Produção e Inovação em Saúde Pública
+Em R$
+CLASSE
+PADRÃO
+VALOR DO PONTO DA GDACTSP
+EFEITOS FINANCEIROS A PARTIR DE
+1o JUL 2008
+1o JUL 2009
+TITULAR
+III
+33,97
+42,08
+II
+33,10
+41,07
+I
+32,24
+40,07
+ASSOCIADO
+III
+31,00
+38,60
+II
+30,20
+37,66
+I
+29,43
+36,75
+ADJUNTO
+III
+28,29
+35,42
+II
+27,56
+34,56
+I
+26,84
+33,73
+ASSISTENTE DE PESQUISA
+III
+25,81
+32,50
+II
+25,15
+31,71
+I
+24,50
+30,95
+b) Tabela II: Valor do ponto da GDACTSP para os cargos de Tecnologista em Saúde Pública da Carreira de Desenvolvimento Tecnológico em Ciência, Tecnologia, Produção e Inovação em Saúde Pública e Cargos de Analista de Gestão em Saúde da Carreira de Gestão em Ciência, Tecnologia, Produção e Inovação em Saúde Pública
+Em R$
+CLASSE
+PADRÃO
+VALOR DO PONTO DA GDACTSP
+EFEITOS FINANCEIROS A PARTIR DE
+1o JUL 2008
+1o JUL 2009
+SÊNIOR
+III
+33,97
+42,08
+II
+33,10
+41,07
+I
+32,24
+40,07
+PLENO 3
+III
+31,00
+38,60
+II
+30,20
+37,66
+I
+29,43
+36,75
+PLENO 2
+III
+28,29
+35,42
+II
+27,56
+34,56
+I
+26,84
+33,73
+PLENO 1
+III
+25,81
+32,50
+II
+25,15
+31,71
+I
+24,50
+30,95
+JÚNIOR
+III
+23,56
+29,84
+II
+22,96
+29,11
+I
+22,37
+28,41
+c) Tabela III: (VETADO)
+d) Tabela IV: Valor do ponto da GDACTSP para os cargos de nível superior de que trata o art.
+28 da Lei no 11.355, de 19 de outubro de 2006
+Em R$
+CLASSE
+PADRÃO
+VALOR DO PONTO DA GDACTSP
+EFEITOS FINANCEIROS A PARTIR DE
+1o JUL 2008
+1o JUL 2009
+ESPECIAL
+III
+33,97
+42,08
+II
+33,10
+41,07
+I
+32,24
+40,07
+C
+VI
+31,00
+38,60
+V
+30,20
+37,66
+IV
+29,43
+36,75
+III
+28,29
+35,42
+II
+27,56
+34,56
+I
+26,84
+33,73
+B
+VI
+25,81
+32,50
+V
+25,15
+31,71
+IV
+24,50
+30,95
+III
+23,56
+29,84
+II
+22,96
+29,11
+I
+22,37
+28,41
+A
+V
+21,74
+27,61
+IV
+21,12
+26,84
+III
+20,53
+26,07
+II
+19,95
+25,34
+I
+19,39
+24,64
+e) Tabela V: (VETADO)
+f) Tabela VI: Valor do ponto da GDACTSP para os cargos de Especialista em Ciência, Tecnologia, Produção e Inovação em Saúde Pública
+Em R$
+CLASSE
+PADRÃO
+VALOR DO PONTO DA GDACTSP
+EFEITOS FINANCEIROS A PARTIR DE
+1o JUL 2008
+1o JUL 2009
+SENIOR
+ÚNICO
+33,97
+42,08
+ANEXO XXIV
+(Anexo II da Lei no 11.171, de 2 de setembro de 2005)
+TABELA DE VENCIMENTO BÁSICO DOS CARGOS DAS CARREIRAS DO DNIT
+a) Vencimento Básico dos Cargos da Carreira de Infra-Estrutura de Transportes
+Em R$
+CARGO
+CLASSE
+PADRÃO
+VENCIMENTO BÁSICO
+EFEITOS FINANCEIROS A PARTIR DE
+1o JUL 2008
+1o JUL 2009
+1o JUL 2010
+Analista em Infra- Estrutura de Transportes
+ESPECIAL
+III
+5.367,20
+5.471,41
+5.627,74
+II
+5.164,74
+5.265,02
+5.463,83
+I
+4.969,92
+5.066,42
+5.304,69
+B
+V
+4.559,56
+4.648,09
+4.911,75
+IV
+4.387,57
+4.472,76
+4.768,69
+III
+4.222,07
+4.304,04
+4.629,80
+II
+4.062,81
+4.141,69
+4.494,95
+I
+3.909,56
+3.985,46
+4.364,03
+A
+V
+3.586,75
+3.656,39
+4.040,77
+IV
+3.451,45
+3.518,47
+3.923,08
+III
+3.321,26
+3.385,75
+3.808,82
+II
+3.195,98
+3.258,04
+3.697,88
+I
+3.075,42
+3.135,14
+3.590,17
+b) Vencimento Básico dos Cargos da Carreira de Suporte à Infra-Estrutura de Transportes
+Em R$
+CARGO
+CLASSE
+PADRÃO
+VENCIMENTO BÁSICO
+EFEITOS FINANCEIROS A PARTIR
+DE 1o JUL 2008
+Técnico de Suporte em
+Infra-Estrutura de Transportes
+ESPECIAL
+III
+2.045,50
+II
+2.005,39
+I
+1.966,07
+B
+V
+1.908,81
+IV
+1.871,38
+III
+1.834,69
+II
+1.798,72
+I
+1.763,45
+A
+V
+1.728,87
+IV
+1.678,51
+III
+1.645,60
+II
+1.613,33
+I
+1.581,70
+c) Vencimento Básico dos Cargos da Carreira de Analista Administrativo
+Em R$
+CARGO
+CLASSE
+PADRÃO
+VENCIMENTO BÁSICO
+EFEITOS FINANCEIROS A PARTIR
+DE 1o JUL 2008
+Analista Administrativo
+ESPECIAL
+III
+3.534,75
+II
+3.465,44
+I
+3.397,49
+B
+V
+3.298,54
+IV
+3.233,86
+III
+3.170,45
+II
+3.108,28
+I
+3.047,34
+A
+V
+2.987,59
+IV
+2.900,57
+III
+2.843,69
+II
+2.787,94
+I
+2.733,27
+d) Vencimento Básico dos Cargos da Carreira de Técnico Administrativo
+Em R$
+CARGO
+CLASSE
+PADRÃO
+VENCIMENTO BÁSICO
+EFEITOS FINANCEIROS A PARTIR
+DE 1o JUL 2008
+Técnico Administrativo
+ESPECIAL
+III
+2.045,50
+II
+2.005,39
+I
+1.966,07
+B
+V
+1.908,81
+IV
+1.871,38
+III
+1.834,69
+II
+1.798,72
+I
+1.763,45
+A
+V
+1.728,87
+IV
+1.678,51
+III
+1.645,60
+II
+1.613,33
+I
+1.581,70
+ANEXO XXV
+(Anexo V da Lei no 11.171, de 2 de setembro de 2005) TABELA DE VENCIMENTO BÁSICO DOS CARGOS DO
+PLANO ESPECIAL DE CARGOS DO DNIT
+a) Vencimento básico dos Cargos de nível superior de Arquiteto, Economista, Engenheiro, Engenheiro Agrônomo, Engenheiro de Operações, Estatístico e Geólogo:
+Em R$
+CARGOS
+CLASSE
+PADRÃO
+VENCIMENTO BÁSICO
+EFEITOS FINANCEIROS A PARTIR DE
+1o JUL 2008
+1o JUL 2009
+1o JUL 2010
+Arquiteto Economista Engenheiro Engenheiro
+Agrônomo
+Engenheiro de
+Operações Estatístico Geólogo
+ESPECIAL
+III
+5.367,20
+5.471,41
+5.627,74
+II
+5.215,94
+5.317,21
+5.502,29
+I
+5.068,94
+5.167,36
+5.379,63
+C
+VI
+4.897,53
+4.992,62
+5.222,94
+V
+4.759,50
+4.851,91
+5.106,51
+IV
+4.625,36
+4.715,17
+4.992,68
+III
+4.495,00
+4.582,28
+4.881,38
+II
+4.368,32
+4.453,14
+4.772,57
+I
+4.245,21
+4.327,64
+4.666,18
+B
+VI
+4.101,65
+4.181,29
+4.530,27
+V
+3.986,05
+4.063,45
+4.429,28
+IV
+3.873,71
+3.948,93
+4.330,54
+III
+3.764,54
+3.837,64
+4.234,00
+II
+3.658,45
+3.729,48
+4.139,62
+I
+3.555,34
+3.624,37
+4.047,34
+A
+V
+3.435,11
+3.501,81
+3.929,46
+IV
+3.338,30
+3.403,12
+3.841,87
+III
+3.244,22
+3.307,21
+3.756,23
+II
+3.152,79
+3.214,00
+3.672,50
+I
+3.075,42
+3.135,14
+3.590,17
+b) Vencimento básico dos Cargos de nível intermediário de Agente de Serviços de
+Engenharia, Técnico de Estradas e Tecnologista:
+Em R$
+CARGOS
+CLASSE
+PADRÃO
+VENCIMENTO BÁSICO
+EFEITOS FINANCEIROS A
+PARTIR DE 1o JUL 2008
+Agente de Serviços de
+Engenharia Técnico de Estradas Tecnologista
+ESPECIAL
+III
+2.045,50
+II
+2.005,39
+I
+1.966,07
+C
+VI
+1.908,81
+V
+1.871,38
+IV
+1.834,69
+III
+1.798,72
+II
+1.763,45
+I
+1.728,87
+B
+VI
+1.678,51
+V
+1.645,60
+IV
+1.613,33
+III
+1.581,70
+II
+1.550,69
+I
+1.520,28
+A
+V
+1.476,00
+IV
+1.447,06
+III
+1.418,69
+II
+1.390,87
+I
+1.363,70
+c) Vencimento básico dos demais cargos de nível superior e intermediário do Plano Especial de Cargos do DNIT:
+Em R$
+CLASSE
+PADRÃO
+VENCIMENTO BÁSICO
+EFEITOS FINANCEIROS A PARTIR DE 1o JUL 2008
+NÍVEL DO CARGO
+SUPERIOR
+INTERMEDIÁRIO
+ESPECIAL
+III
+3.534,75
+2.045,50
+II
+3.465,44
+2.005,39
+I
+3.397,49
+1.966,07
+C
+VI
+3.298,54
+1.908,81
+V
+3.233,86
+1.871,38
+IV
+3.170,45
+1.834,69
+III
+3.108,28
+1.798,72
+II
+3.047,34
+1.763,45
+I
+2.987,59
+1.728,87
+B
+VI
+2.900,57
+1.678,51
+V
+2.843,69
+1.645,60
+IV
+2.787,94
+1.613,33
+III
+2.733,27
+1.581,70
+II
+2.679,68
+1.550,69
+I
+2.627,13
+1.520,28
+A
+V
+2.550,62
+1.476,00
+IV
+2.500,60
+1.447,06
+III
+2.451,57
+1.418,69
+II
+2.403,50
+1.390,87
+I
+2.356,37
+1.363,70
+d) Vencimento básico dos cargos de nível auxiliar do Plano Especial de Cargos do DNIT:
+Em R$
+CLASSE
+PADRÃO
+VENCIMENTO BÁSICO
+EFEITOS FINANCEIROS A PARTIR DE 1o JUL 2008
+ESPECIAL
+III
+1.170,00
+II
+1.147,06
+I
+1.124,57
+ANEXO XXVI
+(Anexo III-A da Lei no 11.171, de 2 de setembro de 2005)
+ESTRUTURA DE CLASSES E PADRÕES DOS CARGOS DE NÍVEL AUXILIAR DO PLANO ESPECIAL DE CARGOS DO DNIT
+A PARTIR DE 1o DE JULHO DE 2008
+CARGOS
+CLASSE
+PADRÃO
+Cargos de provimento efetivo de nível
+auxiliar do Plano Especial de
+Cargos do DNIT
+ESPECIAL
+III
+II
+I
+ANEXO XXVII
+(Anexo IV-A da Lei no 11.171, de 2 de setembro de 2005)
+TABELA DE CORRELAÇÃO DOS CARGOS DE NÍVEL AUXILIAR DO PLANO ESPECIAL DE CARGOS DO DNIT
+A PARTIR DE 1o DE JULHO DE 2008
+SITUAÇÃO ATUAL
+SITUAÇÃO NOVA
+CARGOS
+CLASSE
+PADRÃO
+PADRÃO
+CLASSE
+CARGOS
+Cargos de provimento efetivo de nível auxiliar do Plano
+Especial de Cargos do
+DNIT
+ESPECIAL
+III
+III
+ESPECIAL
+Cargos de provimento efetivo de nível auxiliar do Plano Especial de Cargos
+do DNIT
+II
+II
+I
+I
+C
+VI
+V
+IV
+III
+II
+I
+B
+VI
+V
+IV
+III
+II
+I
+A
+V
+IV
+III
+II
+I
+ANEXO XXVIII
+(Anexo VII da Lei no 11.171, de 2 de setembro de 2005)
+TABELA DE VALOR DO PONTO DAS GRATIFICAÇÕES DE DESEMPENHO A QUE SE REFEREM OS ARTS. 15, 15-A E 15-B
+a) Valor do ponto da Gratificação de Desempenho de Atividade de Infra-Estrutura de
+Transportes – GDAIT
+Tabela I: Valor do ponto da GDAIT para os cargos de Analista em Infra-Estrutura de Transportes da
+Carreira de Infra-Estrutura de Transportes
+Em R$
+CLASSE
+PADRÃO
+VALOR DO PONTO DA GDAIT
+EFEITOS FINANCEIROS A PARTIR DE
+1o JUL 2008
+1o JUL 2009
+1o JUL 2010
+ESPECIAL
+III
+20,45
+23,01
+24,97
+II
+19,95
+22,45
+24,35
+I
+19,46
+21,90
+23,74
+B
+V
+18,80
+21,16
+22,83
+IV
+18,34
+20,64
+22,26
+III
+17,89
+20,14
+21,71
+II
+17,45
+19,65
+21,17
+I
+17,02
+19,17
+20,64
+A
+V
+16,44
+18,52
+19,85
+IV
+16,04
+18,07
+19,36
+III
+15,65
+17,63
+18,88
+II
+15,27
+17,20
+18,41
+I
+14,90
+16,78
+17,90
+Tabela II: Valor do ponto da GDAIT para os cargos de Cargos de Técnico de Suporte em Infra-Estrutura de Transportes Carreira de Suporte à Infra-Estrutura de Transportes
+Em R$
+CLASSE
+PADRÃO
+VALOR DO PONTO DA GDAIT
+EFEITOS FINANCEIROS A PARTIR DE
+1o JUL 2008
+1o JUL 2009
+1o JUL 2010
+ESPECIAL
+III
+11,32
+12,83
+14,97
+II
+10,88
+12,34
+14,47
+I
+10,46
+11,87
+13,99
+B
+V
+9,82
+11,15
+13,15
+IV
+9,44
+10,72
+12,71
+III
+9,08
+10,31
+12,29
+II
+8,73
+9,91
+11,88
+I
+8,39
+9,53
+11,48
+A
+V
+8,07
+9,16
+11,10
+IV
+7,58
+8,60
+10,43
+III
+7,29
+8,27
+10,08
+II
+7,01
+7,95
+9,74
+I
+6,74
+7,64
+9,42
+b) Valor do ponto da Gratificação de Desempenho de Atividade de Transportes – GDIT
+Tabela I: Valor do ponto da GDIT para os cargos de nível superior do Plano Especial de Cargos do
+DNIT
+referidos no art. 15 da Lei no 11.171, de 2 de setembro de 2005.
+Em R$
+CARGOS
+CLASSE
+PADRÃO
+VALOR DO PONTO DA GDIT
+EFEITOS FINANCEIROS A PARTIR DE
+1o JUL 2008
+1o JUL 2009
+1o JUL 2010
+Arquiteto Economista Engenheiro Engenheiro
+Agrônomo
+Engenheiro de Operações Estatístico Geólogo
+ESPECIAL
+III
+20,45
+23,01
+24,97
+II
+20,25
+22,78
+24,60
+I
+20,05
+22,55
+24,24
+C
+VI
+19,57
+22,01
+23,51
+V
+19,38
+21,79
+23,16
+IV
+19,19
+21,57
+22,82
+III
+19,00
+21,36
+22,48
+II
+18,81
+21,15
+22,15
+I
+18,62
+20,94
+21,82
+B
+VI
+18,17
+20,44
+21,16
+V
+17,99
+20,24
+20,85
+IV
+17,81
+20,04
+20,54
+III
+17,63
+19,84
+20,24
+II
+17,46
+19,64
+19,94
+I
+17,29
+19,45
+19,65
+A
+V
+16,88
+18,98
+19,06
+IV
+16,71
+18,79
+18,78
+III
+16,54
+18,60
+18,50
+II
+16,38
+18,42
+18,23
+I
+14,90
+16,78
+17,90
+Tabela II: Valor do ponto da GDIT para os cargos de nível intermediário do
+Plano Especial de Cargos do DNIT referidos no art. 15 da Lei no 11.171, de 2 de setembro de 2005.
+Em R$
+CARGOS
+CLASSE
+PADRÃO
+VALOR DO PONTO DA GDIT
+EFEITOS FINANCEIROS A PARTIR DE
+1o JUL 2008
+1o JUL 2009
+1o JUL 2010
+Agente de Serviços de
+Engenharia Técnico de Estradas Tecnologista
+ESPECIAL
+III
+11,32
+12,83
+14,97
+II
+10,88
+12,34
+14,80
+I
+10,46
+11,87
+14,63
+C
+VI
+9,82
+11,15
+14,28
+V
+9,44
+10,72
+14,12
+IV
+9,08
+10,31
+13,96
+III
+8,73
+9,91
+13,80
+II
+8,39
+9,53
+13,64
+I
+8,07
+9,16
+13,48
+B
+VI
+7,58
+8,60
+13,16
+V
+7,29
+8,27
+13,01
+IV
+7,01
+7,95
+12,86
+III
+6,74
+7,64
+12,71
+II
+6,48
+7,35
+12,57
+I
+6,23
+7,07
+12,43
+A
+V
+5,85
+6,64
+12,14
+IV
+5,63
+6,38
+12,00
+III
+5,41
+6,13
+11,86
+II
+5,20
+5,89
+11,73
+I
+5,00
+5,66
+11,60
+c) Valor do ponto da Gratificação de Desempenho de Atividades Administrativas do
+DNIT - GDADNIT
+Tabela I: Valor do ponto da GDADNIT para os cargos de
+Analista Administrativo da Carreira de Analista Administrativo
+Em R$
+CLASSE
+PADRÃO
+VALOR DO PONTO DA GDADNIT
+EFEITOS FINANCEIROS A PARTIR DE
+1o JUL 2008
+1o JUL 2009
+1o JUL 2010
+ESPECIAL
+III
+22,65
+25,63
+29,30
+II
+21,74
+24,64
+28,17
+I
+20,86
+23,69
+27,09
+B
+V
+19,87
+22,56
+25,80
+IV
+19,07
+21,69
+24,81
+III
+18,30
+20,86
+23,86
+II
+17,56
+20,06
+22,94
+I
+16,85
+19,29
+22,06
+A
+V
+16,17
+18,55
+21,21
+IV
+15,40
+17,67
+20,20
+III
+14,78
+16,99
+19,42
+II
+14,18
+16,34
+18,67
+I
+13,61
+15,71
+17,95
+Tabela II: Valor do ponto da GDADNIT para os cargos de Técnico-Administrativo da Carreira de Técnico Administrativo
+Em R$
+CLASSE
+PADRÃO
+VALOR DO PONTO DA GDADNIT
+EFEITOS FINANCEIROS A PARTIR DE
+1o JUL 2008
+1o JUL 2009
+1o JUL 2010
+ESPECIAL
+III
+11,32
+12,83
+14,97
+II
+10,88
+12,34
+14,47
+I
+10,46
+11,87
+13,99
+B
+V
+9,82
+11,15
+13,15
+IV
+9,44
+10,72
+12,71
+III
+9,08
+10,31
+12,29
+II
+8,73
+9,91
+11,88
+I
+8,39
+9,53
+11,48
+A
+V
+8,07
+9,16
+11,10
+IV
+7,58
+8,60
+10,43
+III
+7,29
+8,27
+10,08
+II
+7,01
+7,95
+9,74
+I
+6,74
+7,64
+9,42
+d) Valor do ponto da Gratificação de Desempenho de Atividades Administrativas do Plano
+Especial de Cargos do DNIT - GDAPEC
+Tabela I: Valor do ponto da GDAPEC para os demais cargos de nível superior do
+Plano Especial de Cargos do DNIT
+Em R$
+CLASSE
+PADRÃO
+VALOR DO PONTO DA GDAPEC
+EFEITOS FINANCEIROS A PARTIR DE
+1o JUL 2008
+1o JUL 2009
+1o JUL 2010
+ESPECIAL
+III
+22,65
+25,63
+29,30
+II
+21,74
+24,64
+28,17
+I
+20,86
+23,69
+27,09
+C
+VI
+19,87
+22,56
+25,80
+V
+19,07
+21,69
+24,81
+IV
+18,30
+20,86
+23,86
+III
+17,56
+20,06
+22,94
+II
+16,85
+19,29
+22,06
+I
+16,17
+18,55
+21,21
+B
+VI
+15,40
+17,67
+20,20
+V
+14,78
+16,99
+19,42
+IV
+14,18
+16,34
+18,67
+III
+13,61
+15,71
+17,95
+II
+13,06
+15,11
+17,26
+I
+12,53
+14,53
+16,60
+A
+V
+11,93
+13,84
+15,81
+IV
+11,45
+13,31
+15,20
+III
+10,99
+12,80
+14,62
+II
+10,55
+12,31
+14,06
+I
+10,12
+11,84
+13,52
+Tabela II: Valor do ponto da GDAPEC para os demais cargos de nível intermediário do Plano Especial de Cargos do DNIT
+Em R$
+CLASSE
+PADRÃO
+VALOR DO PONTO DA GDAPEC
+EFEITOS FINANCEIROS A PARTIR DE
+1o JUL 2008
+1o JUL 2009
+1o JUL 2010
+ESPECIAL
+III
+11,32
+12,83
+14,97
+II
+10,88
+12,34
+14,80
+I
+10,46
+11,87
+14,63
+C
+VI
+9,82
+11,15
+14,28
+V
+9,44
+10,72
+14,12
+IV
+9,08
+10,31
+13,96
+III
+8,73
+9,91
+13,80
+II
+8,39
+9,53
+13,64
+I
+8,07
+9,16
+13,48
+B
+VI
+7,58
+8,60
+13,16
+V
+7,29
+8,27
+13,01
+IV
+7,01
+7,95
+12,86
+III
+6,74
+7,64
+12,71
+II
+6,48
+7,35
+12,57
+I
+6,23
+7,07
+12,43
+A
+V
+5,85
+6,64
+12,14
+IV
+5,63
+6,38
+12,00
+III
+5,41
+6,13
+11,86
+II
+5,20
+5,89
+11,73
+I
+5,00
+5,66
+11,60
+Tabela III: Valor do ponto da GDAPEC para os Cargos de nível auxiliar do
+Plano Especial de Cargos do DNIT
+Em R$
+CLASSE
+PADRÃO
+VALOR DO PONTO DA GDAPEC
+EFEITOS FINANCEIROS A PARTIR DE
+1o JUL 2008
+1o JUL 2009
+1o JUL 2010
+ESPECIAL
+III
+5,95
+7,17
+8,66
+II
+5,78
+6,96
+8,41
+I
+5,61
+6,76
+8,17
+ANEXO XXIX
+(Anexo III-A da Lei no 10.483, de 3 de julho de 2002) TABELA DE VENCIMENTO BÁSICO DA CARREIRA DA
+SEGURIDADE SOCIAL E DO TRABALHO
+a) Vencimento básico dos cargos de nível superior integrantes dos Quadros de Pessoal do Ministério da Saúde, do Ministério da Previdência e Assistência Social, do Ministério do Trabalho e Emprego e da FUNASA, referenciados no art. 1o da Lei no 10.483, de 3 de julho de 2002.
+Em R$
+CLASSE
+PADRÃO
+VENCIMENTO BÁSICO
+EFEITOS FINANCEIROS A PARTIR DE
+1o JUL 2008
+1o JUL 2009
+1o JUL 2010
+ESPECIAL
+III
+588,07
+647,94
+1.890,64
+II
+550,24
+639,62
+1.869,01
+I
+514,19
+631,41
+1.847,67
+C
+VI
+506,56
+618,42
+1.813,89
+V
+491,91
+610,48
+1.793,25
+IV
+477,76
+602,65
+1.772,89
+III
+464,01
+594,92
+1.752,79
+II
+450,67
+587,29
+1.732,95
+I
+437,71
+579,75
+1.713,35
+B
+VI
+425,13
+567,83
+1.682,36
+V
+417,90
+560,54
+1.663,40
+IV
+417,80
+553,35
+1.644,71
+III
+417,70
+546,25
+1.626,25
+II
+417,60
+539,24
+1.608,02
+I
+417,50
+532,32
+1.590,03
+A
+V
+417,40
+521,37
+1.561,56
+IV
+417,30
+514,68
+1.544,17
+III
+417,20
+508,08
+1.527,01
+II
+417,10
+501,56
+1.510,06
+I
+417,00
+495,12
+1.493,31
+b) Vencimento básico dos cargos de nível intermediário integrantes dos Quadros de Pessoal do Ministério da Saúde, do Ministério da Previdência e Assistência Social, do Ministério do Trabalho e Emprego e da FUNASA, referenciados no art. 1o da Lei no 10.483, de 3 de julho de 2002.
+Em R$
+CLASSE
+PADRÃO
+VENCIMENTO BÁSICO
+EFEITOS FINANCEIROS A PARTIR DE
+1o JUL 2008
+1o JUL 2009
+1o JUL 2010
+ESPECIAL
+III
+417,90
+485,10
+1.467,26
+II
+417,80
+484,62
+1.466,01
+I
+417,70
+484,14
+1.464,76
+C
+VI
+417,60
+483,66
+1.463,52
+V
+417,50
+483,18
+1.462,27
+IV
+417,40
+482,70
+1.461,02
+III
+417,30
+482,22
+1.459,77
+II
+417,20
+481,74
+1.458,52
+I
+417,10
+481,26
+1.457,28
+B
+VI
+417,00
+480,78
+1.456,03
+V
+416,90
+480,30
+1.454,78
+IV
+416,80
+479,82
+1.453,53
+III
+416,70
+479,34
+1.452,28
+II
+416,60
+478,86
+1.451,04
+I
+416,50
+478,38
+1.449,79
+A
+V
+416,40
+477,90
+1.448,54
+IV
+416,30
+477,42
+1.447,29
+III
+416,20
+476,94
+1.446,04
+II
+416,10
+476,46
+1.444,80
+I
+416,00
+475,98
+1.443,55
+c) Vencimento básico dos cargos de nível auxiliar integrantes dos Quadros de Pessoal do Ministério da Saúde, do Ministério da Previdência e Assistência Social, do Ministério do Trabalho e Emprego e da FUNASA, referenciados no art. 1o da Lei no 10.483, de 3 de julho de 2002.
+Em R$
+CLASSE
+PADRÃO
+VENCIMENTO BÁSICO
+EFEITOS FINANCEIROS A PARTIR DE
+1o JUL 2008
+1o JUL 2009
+1o JUL 2010
+ESPECIAL
+III
+416,90
+484,10
+1.464,66
+II
+416,80
+483,62
+1.463,41
+I
+416,70
+483,14
+1.462,16
+C
+VI
+416,60
+482,66
+1.460,92
+V
+416,50
+482,18
+1.459,67
+IV
+416,40
+481,70
+1.458,42
+III
+416,30
+481,22
+1.457,17
+II
+416,20
+480,74
+1.455,92
+I
+416,10
+480,26
+1.454,68
+B
+VI
+416,00
+479,78
+1.453,43
+V
+415,90
+479,30
+1.452,18
+IV
+415,80
+478,82
+1.450,93
+III
+415,70
+478,34
+1.449,68
+II
+415,60
+477,86
+1.448,44
+I
+415,50
+477,38
+1.447,19
+A
+V
+415,40
+476,90
+1.445,94
+IV
+415,30
+476,42
+1.444,69
+III
+415,20
+475,94
+1.443,44
+II
+415,10
+475,46
+1.442,20
+I
+415,00
+474,99
+1.440,97
+ANEXO XXX
+(Anexo II-A da Lei no 10.355, de 26 de dezembro de 2001)
+TABELA DE VENCIMENTO BÁSICO DA CARREIRA PREVIDENCIÁRIA (Efeitos financeiros a partir de 1o de julho de 2008)
+a) Vencimento básico dos cargos de nível superior integrantes do Quadro de Pessoal do INSS, referenciados no art. 1o da Lei no 10.355, de 26 de dezembro de 2001.
+Em R$
+CLASSE
+PADRÃO
+VENCIMENTO BÁSICO
+EFEITOS FINANCEIROS A PARTIR DE
+1o JUL 2008
+1o JUL 2009
+1o JUL 2010
+ESPECIAL
+III
+588,07
+647,94
+1.922,64
+II
+550,24
+639,62
+1.901,01
+I
+514,19
+631,41
+1.879,67
+C
+VI
+506,56
+618,42
+1.845,89
+V
+491,91
+610,48
+1.825,25
+IV
+477,76
+602,65
+1.804,89
+III
+464,01
+594,92
+1.784,79
+II
+450,67
+587,29
+1.764,95
+I
+437,71
+579,75
+1.745,35
+B
+VI
+425,13
+567,83
+1.714,36
+V
+417,90
+560,54
+1.695,40
+IV
+417,80
+553,35
+1.676,71
+III
+417,70
+546,25
+1.658,25
+II
+417,60
+539,24
+1.640,02
+I
+417,50
+532,32
+1.622,03
+A
+V
+417,40
+521,37
+1.593,56
+IV
+417,30
+514,68
+1.576,17
+III
+417,20
+508,08
+1.559,01
+II
+417,10
+501,56
+1.542,06
+I
+417,00
+495,12
+1.525,31
+b) Vencimento básico dos cargos de nível intermediário integrantes do Quadro de Pessoal do
+INSS, referenciados no art. 1o da Lei no 10.355, de 26 de dezembro de 2001.
+Em R$
+CLASSE
+PADRÃO
+VENCIMENTO BÁSICO
+EFEITOS FINANCEIROS A PARTIR DE
+1o JUL 2008
+1o JUL 2009
+1o JUL 2010
+ESPECIAL
+III
+417,90
+485,10
+1.499,26
+II
+417,80
+484,62
+1.498,01
+I
+417,70
+484,14
+1.496,76
+C
+VI
+417,60
+483,66
+1.495,52
+V
+417,50
+483,18
+1.494,27
+IV
+417,40
+482,70
+1.493,02
+III
+417,30
+482,22
+1.491,77
+II
+417,20
+481,74
+1.490,52
+I
+417,10
+481,26
+1.489,28
+B
+VI
+417,00
+480,78
+1.488,03
+V
+416,90
+480,30
+1.486,78
+IV
+416,80
+479,82
+1.485,53
+III
+416,70
+479,34
+1.484,28
+II
+416,60
+478,86
+1.483,04
+I
+416,50
+478,38
+1.481,79
+A
+V
+416,40
+477,90
+1.480,54
+IV
+416,30
+477,42
+1.479,29
+III
+416,20
+476,94
+1.478,04
+II
+416,10
+476,46
+1.476,80
+I
+416,00
+475,98
+1.475,55
+c) Vencimento básico dos cargos de nível auxiliar integrantes do Quadro de Pessoal do INSS, referenciados no art. 1o da Lei no 10.355, de 26 de dezembro de 2001.
+Em R$
+CLASSE
+PADRÃO
+VENCIMENTO BÁSICO
+EFEITOS FINANCEIROS A PARTIR DE
+1o JUL 2008
+1o JUL 2009
+1o JUL 2010
+ESPECIAL
+III
+416,90
+484,10
+1.496,66
+II
+416,80
+483,62
+1.495,41
+I
+416,70
+483,14
+1.494,16
+C
+VI
+416,60
+482,66
+1.492,92
+V
+416,50
+482,18
+1.491,67
+IV
+416,40
+481,70
+1.490,42
+III
+416,30
+481,22
+1.489,17
+II
+416,20
+480,74
+1.487,92
+I
+416,10
+480,26
+1.486,68
+B
+VI
+416,00
+479,78
+1.485,43
+V
+415,90
+479,30
+1.484,18
+IV
+415,80
+478,82
+1.482,93
+III
+415,70
+478,34
+1.481,68
+II
+415,60
+477,86
+1.480,44
+I
+415,50
+477,38
+1.479,19
+A
+V
+415,40
+476,90
+1.477,94
+IV
+415,30
+476,42
+1.476,69
+III
+415,20
+475,94
+1.475,44
+II
+415,10
+475,46
+1.474,20
+I
+415,00
+474,99
+1.472,97
+ANEXO XXXI
+(Anexo com redação dada pelo Anexo VII à Medida Provisória nº 1.326, de 1º/12/2025, convertida na Lei nº 15.395, de 27/4/2026)
+VALOR DA GRATIFICAÇÃO DE INCENTIVO À FUNÇÃO MILITAR DOS ANTIGOS TERRITÓRIOS FEDERAIS DE RONDÔNIA, RORAIMA E AMAPÁ E DO ANTIGO DISTRITO FEDERAL – GFM
+Em R$
+POSTO OU GRADUAÇÃO
+EFEITOS FINANCEIROS
+ATÉ 30 DE NOVEMBRO DE 2025
+A PARTIR DE
+1º DE DEZEMBRO DE 2025
+A PARTIR DE
+1º DE JANEIRO DE 2026
+OFICIAIS SUPERIORES
+Coronel
+842,23
+939,09
+1.047,08
+Tenente-Coronel
+842,23
+939,09
+1.047,08
+Major
+842,23
+939,09
+1.047,08
+OFICIAIS INTERMEDIÁRIOS
+Capitão
+842,23
+939,09
+1.047,08
+OFICIAIS SUBALTERNOS
+Primeiro-Tenente
+842,23
+939,09
+1.047,08
+Segundo-Tenente
+842,23
+939,09
+1.047,08
+PRAÇAS ESPECIAIS
+Aspirante a Oficial
+561,49
+626,06
+698,06
+Cadete (último ano) da Academia de Polícia Militar ou Bombeiro Militar
+561,49
+626,06
+698,06
+Cadete (demais anos) da Academia de Polícia Militar ou Bombeiro Militar
+561,49
+626,06
+698,06
+PRAÇAS GRADUADOS
+Subtenente
+561,49
+626,06
+698,06
+Primeiro-Sargento
+561,49
+626,06
+698,06
+Segundo-Sargento
+561,49
+626,06
+698,06
+Terceiro-Sargento
+561,49
+626,06
+698,06
+Cabo
+561,49
+626,06
+698,06
+DEMAIS PRAÇAS
+Soldado - Primeira Classe
+561,49
+626,06
+698,06
+Soldado - Segunda Classe
+561,49
+626,06
+698,06
+ANEXO XXXII
+(Anexo I-A da Lei no 11.356, de 19 de outubro de 2006)
+ESTRUTURA DE CLASSES E PADRÕES DOS CARGOS DE NÍVEL AUXILIAR DO PLANO ESPECIAL DE CARGOS DA SUFRAMA
+CARGO
+CLASSE
+PADRÃO
+Cargos efetivos de nível auxilar do
+Plano Especial de Cargos da SUFRAMA
+ESPECIAL
+III
+II
+I
+ANEXO XXXIII
+(Anexo II-A da Lei no 11.356, de 19 de outubro de 2006)
+TABELA DE CORRELAÇÃO DOS CARGOS DE NÍVEL AUXILIAR DO PLANO ESPECIAL DE CARGOS DA SUFRAMA
+SITUAÇÃO ATUAL
+SITUAÇÃO NOVA
+CARGOS
+CLASSE
+PADRÃO
+PADRÃO
+CLASSE
+CARGOS
+Cargos de provimento efetivo de
+nível auxiliar do Plano Especial de Cargos da Suframa
+ESPECIAL
+III
+III
+ESPECIAL
+Cargos de provimento efetivo de nível auxiliar
+do Plano Especial de Cargos da Suframa
+II
+II
+I
+I
+C
+VI
+V
+IV
+III
+II
+I
+B
+VI
+V
+IV
+III
+II
+I
+A
+V
+IV
+III
+II
+I
+ANEXO XXXIV
+(Anexo III da Lei no 11.356, de 19 de outubro de 2006)
+TABELA DE VENCIMENTO BÁSICO DOS CARGOS DO PLANO ESPECIAL DE CARGOS DA SUFRAMA
+A PARTIR DE 1o DE JULHO DE 2008 a) Vencimento básico para os cargos de nível superior
+Em R$
+CLASSE
+PADRÃO
+VENCIMENTO BÁSICO
+EFEITOS FINANCEIROS A PARTIR DE
+1o JUL 2008
+1o JUL 2009
+1o JUL 2010
+ESPECIAL
+III
+4.189,03
+4.762,92
+5.315,28
+II
+4.082,88
+4.642,22
+5.156,46
+I
+3.979,42
+4.524,58
+5.002,39
+C
+VI
+3.878,58
+4.409,92
+4.852,92
+V
+3.780,29
+4.298,17
+4.707,92
+IV
+3.684,49
+4.189,25
+4.567,25
+III
+3.591,12
+4.083,09
+4.430,78
+II
+3.500,12
+3.979,62
+4.298,39
+I
+3.411,42
+3.878,77
+4.169,96
+B
+VI
+3.324,97
+3.780,48
+4.045,36
+V
+3.240,71
+3.684,68
+3.924,49
+IV
+3.158,59
+3.591,31
+3.807,23
+III
+3.078,55
+3.500,30
+3.693,47
+II
+3.000,54
+3.411,60
+3.583,11
+I
+2.924,50
+3.325,15
+3.476,05
+A
+V
+2.850,39
+3.240,89
+3.372,19
+IV
+2.778,16
+3.158,76
+3.271,43
+III
+2.707,76
+3.078,71
+3.173,68
+II
+2.639,14
+3.000,69
+3.078,85
+I
+2.572,26
+2.924,65
+2.986,85
+b) Vencimento básico para os cargos de nível intermediário
+Em R$
+CLASSE
+PADRÃO
+VENCIMENTO BÁSICO
+EFEITOS FINANCEIROS A PARTIR DE
+1o JUL 2008
+1o JUL 2009
+1o JUL 2010
+ESPECIAL
+III
+2.187,59
+2.292,59
+2.349,93
+II
+2.134,65
+2.237,11
+2.280,38
+I
+2.082,99
+2.182,97
+2.212,89
+C
+VI
+2.032,58
+2.130,14
+2.147,39
+V
+1.983,39
+2.078,59
+2.083,83
+IV
+1.935,39
+2.028,29
+2.022,15
+III
+1.888,55
+1.979,21
+1.962,30
+II
+1.842,85
+1.931,31
+1.904,22
+I
+1.798,25
+1.884,57
+1.847,86
+B
+VI
+1.754,73
+1.838,96
+1.793,17
+V
+1.712,27
+1.794,46
+1.740,10
+IV
+1.670,83
+1.751,03
+1.688,60
+III
+1.630,40
+1.708,66
+1.638,62
+II
+1.590,94
+1.667,31
+1.590,12
+I
+1.552,44
+1.626,96
+1.543,06
+A
+V
+1.514,87
+1.587,59
+1.497,39
+IV
+1.478,21
+1.549,17
+1.453,07
+III
+1.442,44
+1.511,68
+1.410,06
+II
+1.407,53
+1.475,10
+1.368,33
+I
+1.373,47
+1.439,40
+1.327,83
+c) Vencimento básico para os cargos de nível auxiliar
+Em R$
+CLASSE
+PADRÃO
+VENCIMENTO BÁSICO
+EFEITOS FINANCEIROS A PARTIR DE
+1o JUL 2008
+1o JUL 2009
+1o JUL 2010
+ESPECIAL
+III
+1.263,53
+1.276,04
+1.288,80
+II
+1.227,32
+1.239,48
+1.251,87
+I
+1.192,15
+1.203,96
+1.216,00
+ANEXO XXXV
+(Anexo III-A da Lei no 11.356, de 19 de outubro de 2006)
+VALORES DO PONTO DA GRATIFICAÇÃO DE DESEMPENHO DA SUFRAMA - GDSUFRAMA PARA OS OCUPANTES DOS CARGOS DO PLANO ESPECIAL DE CARGOS DA SUFRAMA
+a) Valor do ponto da GDSUFRAMA para cargos de nível superior
+Em R$
+CLASSE
+PADRÃO
+VALOR DO PONTO DA GDSUFRAMA
+EFEITOS FINANCEIROS A PARTIR DE
+1o JUL 2008
+1o JUL 2009
+1o JUL 2010
+ESPECIAL
+III
+II I
+12,59
+18,39
+20,77
+12,34
+17,84
+20,17
+12,10
+17,30
+19,59
+C
+VI
+11,86
+16,78
+19,03
+V
+11,63
+16,28
+18,48
+IV
+11,40
+15,79
+17,95
+III
+11,18
+15,32
+17,44
+II
+10,96
+14,86
+16,94
+I
+10,75
+14,41
+16,45
+B
+VI
+10,54
+13,98
+15,98
+V
+10,33
+13,56
+15,52
+IV
+10,13
+13,15
+15,08
+III
+9,93
+12,75
+14,65
+II
+9,74
+12,37
+14,23
+I
+9,55
+12,00
+13,82
+A
+V
+9,36
+11,64
+13,42
+IV
+9,18
+11,29
+13,04
+III
+9,00
+10,95
+12,67
+II
+8,82
+10,62
+12,31
+I
+8,65
+10,30
+11,96
+b) Valor do ponto da GDSUFRAMA para cargos de nível intermediário
+Em R$
+CLASSE
+PADRÃO
+VALOR DO PONTO DA GDSUFRAMA
+EFEITOS FINANCEIROS A PARTIR DE
+1o JUL 2008
+1o JUL 2009
+1o JUL 2010
+ESPECIAL
+III
+8,95
+10,65
+13,56
+II
+8,71
+10,34
+13,17
+I
+8,48
+10,04
+12,79
+C
+VI
+8,26
+9,75
+12,42
+V
+8,04
+9,47
+12,06
+IV
+7,83
+9,20
+11,71
+III
+7,62
+8,94
+11,37
+II
+7,42
+8,68
+11,04
+I
+7,22
+8,43
+10,72
+B
+VI
+7,03
+8,19
+10,41
+V
+6,85
+7,96
+10,11
+IV
+6,67
+7,73
+9,82
+III
+6,49
+7,51
+9,54
+II
+6,32
+7,29
+9,27
+I
+6,15
+7,08
+9,00
+A
+V
+5,99
+6,88
+8,74
+IV
+5,83
+6,68
+8,49
+III
+5,68
+6,49
+8,25
+II
+5,53
+6,30
+8,01
+I
+5,38
+6,12
+7,78
+c) Valor do ponto da GDSUFRAMA para cargos de nível auxiliar
+Em R$
+CLASSE
+PADRÃO
+VALOR DO PONTO DA GDSUFRAMA
+EFEITOS FINANCEIROS A PARTIR DE
+1o JUL 2008
+1o JUL 2009
+1o JUL 2010
+ESPECIAL
+III
+3,87
+4,85
+5,87
+II
+3,76
+4,71
+5,70
+I
+3,65
+4,58
+5,54
+ANEXO XXXVI
+(Anexo IV-A da Lei no 11.356, de 19 de outubro de 2006)
+ESTRUTURA DE CLASSES E PADRÕES DOS CARGOS DE NÍVEL AUXILIAR DO PLANO ESPECIAL DE CARGOS DA EMBRATUR, A PARTIR DE 1o DE JULHO DE 2008
+CARGO
+CLASSE
+PADRÃO
+Cargos efetivos de nível auxiliar do Plano
+Especial de Cargos da Embratur
+ESPECIAL
+III
+II
+I
+ANEXO XXXVII
+(Anexo V-A da Lei no 11.356, de 19 de outubro de 2006)
+TABELA DE CORRELAÇÃO DOS CARGOS DE NÍVEL AUXILIAR DO PLANO ESPECIAL DE CARGOS DA EMBRATUR
+SITUAÇÃO ATUAL
+SITUAÇÃO NOVA
+CARGOS
+CLASSE
+PADRÃO
+PADRÃO
+CLASSE
+CARGOS
+Cargos de provimento efetivo de
+nível auxiliar do Plano Especial de Cargos da Embratur
+ESPECIAL
+III
+III
+ESPECIAL
+Cargos de provimento efetivo de nível auxiliar
+do Plano Especial de Cargos da Embratur
+II
+II
+I
+I
+C
+VI
+V
+IV
+III
+II
+I
+B
+VI
+V
+IV
+III
+II
+I
+A
+V
+IV
+III
+II
+I
+ANEXO XXXVIII
+(Anexo VI da Lei no 11.356, de 19 de outubro de 2006)
+TABELA DE VENCIMENTO BÁSICO DOS CARGOS DO PLANO ESPECIAL DE CARGOS DA EMBRATUR
+A PARTIR DE 1o DE JULHO DE 2008 a) Vencimento básico dos cargos de nível superior
+Em R$
+CLASSE
+PADRÃO
+VENCIMENTO BÁSICO
+EFEITOS FINANCEIROS A PARTIR DE
+1o JUL 2008
+1o JUL 2009
+1o JUL 2010
+ESPECIAL
+III
+4.189,03
+4.762,92
+5.315,28
+II
+4.082,88
+4.642,22
+5.156,46
+I
+3.979,42
+4.524,58
+5.002,39
+C
+VI
+3.878,58
+4.409,92
+4.852,92
+V
+3.780,29
+4.298,17
+4.707,92
+IV
+3.684,49
+4.189,25
+4.567,25
+III
+3.591,12
+4.083,09
+4.430,78
+II
+3.500,12
+3.979,62
+4.298,39
+I
+3.411,42
+3.878,77
+4.169,96
+B
+VI
+3.324,97
+3.780,48
+4.045,36
+V
+3.240,71
+3.684,68
+3.924,49
+IV
+3.158,59
+3.591,31
+3.807,23
+III
+3.078,55
+3.500,30
+3.693,47
+II
+3.000,54
+3.411,60
+3.583,11
+I
+2.924,50
+3.325,15
+3.476,05
+A
+V
+2.850,39
+3.240,89
+3.372,19
+IV
+2.778,16
+3.158,76
+3.271,43
+III
+2.707,76
+3.078,71
+3.173,68
+II
+2.639,14
+3.000,69
+3.078,85
+I
+2.572,26
+2.924,65
+2.986,85
+b) Vencimento básico dos cargos de nível intermediário
+Em R$
+CLASSE
+PADRÃO
+VENCIMENTO BÁSICO
+EFEITOS FINANCEIROS A PARTIR DE
+1o JUL 2008
+1o JUL 2009
+1o JUL 2010
+ESPECIAL
+III
+2.187,59
+2.292,59
+2.349,93
+II
+2.134,65
+2.237,11
+2.280,38
+I
+2.082,99
+2.182,97
+2.212,89
+C
+VI
+2.032,58
+2.130,14
+2.147,39
+V
+1.983,39
+2.078,59
+2.083,83
+IV
+1.935,39
+2.028,29
+2.022,15
+III
+1.888,55
+1.979,21
+1.962,30
+II
+1.842,85
+1.931,31
+1.904,22
+I
+1.798,25
+1.884,57
+1.847,86
+B
+VI
+1.754,73
+1.838,96
+1.793,17
+V
+1.712,27
+1.794,46
+1.740,10
+IV
+1.670,83
+1.751,03
+1.688,60
+III
+1.630,40
+1.708,66
+1.638,62
+II
+1.590,94
+1.667,31
+1.590,12
+I
+1.552,44
+1.626,96
+1.543,06
+A
+V
+1.514,87
+1.587,59
+1.497,39
+IV
+1.478,21
+1.549,17
+1.453,07
+III
+1.442,44
+1.511,68
+1.410,06
+II
+1.407,53
+1.475,10
+1.368,33
+I
+1.373,47
+1.439,40
+1.327,83
+c) Vencimento básico dos cargos de nível auxiliar
+Em R$
+CLASSE
+PADRÃO
+VENCIMENTO BÁSICO
+EFEITOS FINANCEIROS A PARTIR DE
+1o JUL 2008
+1o JUL 2009
+1o JUL 2010
+ESPECIAL
+III
+1.263,53
+1.276,04
+1.288,80
+II
+1.227,32
+1.239,48
+1.251,87
+I
+1.192,15
+1.203,96
+1.216,00
+ANEXO XXXIX
+(Anexo VI-A da Lei no 11.356, de 19 de outubro de 2006)
+VALORES DO PONTO DA GRATIFICAÇÃO DE DESEMPENHO DA EMBRATUR - GDATUR PARA OS OCUPANTES DOS CARGOS DO PLANO ESPECIAL DE CARGOS DA EMBRATUR
+a) Valor do ponto da GDATUR para os cargos de nível superior
+Em R$
+CLASSE
+PADRÃO
+VALOR DO PONTO DA GDATUR
+EFEITOS FINANCEIROS A PARTIR DE
+1o JUL 2008
+1o JUL 2009
+1o JUL 2010
+ESPECIAL
+III
+12,59
+18,39
+20,77
+II
+12,34
+17,84
+20,17
+I
+12,10
+17,30
+19,59
+C
+VI
+11,86
+16,78
+19,03
+V
+11,63
+16,28
+18,48
+IV
+11,40
+15,79
+17,95
+III
+11,18
+15,32
+17,44
+II
+10,96
+14,86
+16,94
+I
+10,75
+14,41
+16,45
+B
+VI
+10,54
+13,98
+15,98
+V
+10,33
+13,56
+15,52
+IV
+10,13
+13,15
+15,08
+III
+9,93
+12,75
+14,65
+II
+9,74
+12,37
+14,23
+I
+9,55
+12,00
+13,82
+A
+V
+9,36
+11,64
+13,42
+IV
+9,18
+11,29
+13,04
+III
+9,00
+10,95
+12,67
+II
+8,82
+10,62
+12,31
+I
+8,65
+10,30
+11,96
+b) Valor do ponto da GDATUR para os cargos de nível intermediário
+Em R$
+CLASSE
+PADRÃO
+VALOR DO PONTO DA GDATUR
+EFEITOS FINANCEIROS A PARTIR DE
+1o JUL 2008
+1o JUL 2009
+1o JUL 2010
+ESPECIAL
+III
+8,95
+10,65
+13,56
+II
+8,71
+10,34
+13,17
+I
+8,48
+10,04
+12,79
+C
+VI
+8,26
+9,75
+12,42
+V
+8,04
+9,47
+12,06
+IV
+7,83
+9,20
+11,71
+III
+7,62
+8,94
+11,37
+II
+7,42
+8,68
+11,04
+I
+7,22
+8,43
+10,72
+B
+VI
+7,03
+8,19
+10,41
+V
+6,85
+7,96
+10,11
+IV
+6,67
+7,73
+9,82
+III
+6,49
+7,51
+9,54
+II
+6,32
+7,29
+9,27
+I
+6,15
+7,08
+9,00
+A
+V
+5,99
+6,88
+8,74
+IV
+5,83
+6,68
+8,49
+III
+5,68
+6,49
+8,25
+II
+5,53
+6,30
+8,01
+I
+5,38
+6,12
+7,78
+c) Valor do ponto da GDATUR para os cargos de nível auxiliar
+Em R$
+CLASSE
+PADRÃO
+VALOR DO PONTO DA GDATUR
+EFEITOS FINANCEIROS A PARTIR DE
+1o JUL 2008
+1o JUL 2009
+1o JUL 2010
+ESPECIAL
+III
+3,87
+4,85
+5,87
+II
+3,76
+4,71
+5,70
+I
+3,65
+4,58
+5,54
+ANEXO XL
+(Anexo com redação dada pelo Anexo XLIII à Lei nº 15.141, de 2/6/2025)
+TABELA DE VENCIMENTO BÁSICO DOS CARGOS INTEGRANTES DO PLANO DE CLASSIFICAÇÃO DE CARGOS – PCC
+a) Vencimento básico dos cargos de nível superior
+Em R$
+CLASSE
+PADRÃO
+VENCIMENTO BÁSICO
+EFEITOS FINANCEIROS A PARTIR DE
+1º DE MAIO DE 2023
+1º DE JANEIRO DE 2025
+1º DE ABRIL DE 2026
+A
+III
+1.976,83
+2.154,74
+2.262,48
+II
+1.951,49
+2.127,12
+2.233,48
+I
+1.926,46
+2.099,84
+2.204,83
+B
+VI
+1.886,83
+2.056,64
+2.159,47
+V
+1.862,61
+2.030,24
+2.131,75
+IV
+1.838,72
+2.004,20
+2.104,41
+III
+1.815,13
+1.978,49
+2.077,41
+II
+1.791,84
+1.953,11
+2.050,77
+I
+1.768,86
+1.928,06
+2.024,46
+C
+VI
+1.732,47
+1.888,39
+1.982,81
+V
+1.710,24
+1.864,16
+1.957,37
+IV
+1.688,31
+1.840,26
+1.932,27
+III
+1.666,65
+1.816,65
+1.907,48
+II
+1.645,26
+1.793,33
+1.883,00
+I
+1.624,13
+1.770,30
+1.858,82
+D
+V
+1.590,72
+1.733,88
+1.820,57
+IV
+1.570,29
+1.711,62
+1.797,20
+III
+1.550,15
+1.689,66
+1.774,14
+II
+1.530,27
+1.667,99
+1.751,39
+I
+1.510,64
+1.646,60
+1.728,93
+b) Vencimento básico dos cargos de nível intermediário
+Em R$
+CLASSE
+PADRÃO
+VENCIMENTO BÁSICO
+EFEITOS FINANCEIROS A PARTIR DE
+1º DE MAIO DE 2023
+1º DE JANEIRO DE 2025
+1º DE ABRIL DE 2026
+A
+III
+1.533,56
+1.671,58
+1.755,16
+II
+1.532,04
+1.669,92
+1.753,42
+I
+1.530,52
+1.668,27
+1.751,68
+B
+VI
+1.529,01
+1.666,62
+1.749,95
+V
+1.527,49
+1.664,96
+1.748,21
+IV
+1.525,97
+1.663,31
+1.746,48
+III
+1.524,45
+1.661,65
+1.744,73
+II
+1.522,94
+1.660,00
+1.743,00
+I
+1.521,42
+1.658,35
+1.741,27
+C
+VI
+1.519,91
+1.656,70
+1.739,54
+V
+1.518,38
+1.655,03
+1.737,78
+IV
+1.516,87
+1.653,39
+1.736,06
+III
+1.515,35
+1.651,73
+1.734,32
+II
+1.513,84
+1.650,09
+1.732,59
+I
+1.512,32
+1.648,43
+1.730,85
+D
+V
+1.510,79
+1.646,76
+1.729,10
+IV
+1.509,28
+1.645,12
+1.727,38
+III
+1.507,75
+1.643,45
+1.725,62
+II
+1.506,25
+1.641,81
+1.723,90
+I
+1.504,73
+1.640,16
+1.722,17
+c) Vencimento básico dos cargos de nível auxiliar
+Em R$
+CLASSE
+PADRÃO
+VENCIMENTO BÁSICO
+EFEITOS FINANCEIROS A PARTIR DE
+1º DE MAIO DE 2023
+1º DE JANEIRO DE 2025
+1º DE ABRIL DE 2026
+A
+III
+1.530,40
+1.668,14
+1.751,55
+II
+1.528,88
+1.666,48
+1.749,80
+I
+1.527,36
+1.664,82
+1.748,06
+B
+VI
+1.525,85
+1.663,18
+1.746,34
+V
+1.524,33
+1.661,52
+1.744,60
+IV
+1.522,81
+1.659,86
+1.742,85
+III
+1.521,29
+1.658,21
+1.741,12
+II
+1.519,78
+1.656,56
+1.739,39
+I
+1.518,26
+1.654,90
+1.737,65
+C
+VI
+1.516,75
+1.653,26
+1.735,92
+V
+1.515,22
+1.651,59
+1.734,17
+IV
+1.513,70
+1.649,93
+1.732,43
+III
+1.512,18
+1.648,28
+1.730,69
+II
+1.510,67
+1.646,63
+1.728,96
+I
+1.509,16
+1.644,98
+1.727,23
+D
+V
+1.507,63
+1.643,32
+1.725,49
+IV
+1.506,12
+1.641,67
+1.723,75
+III
+1.504,59
+1.640,00
+1.722,00
+II
+1.503,09
+1.638,37
+1.720,29
+I
+1.501,59
+1.636,73
+1.718,57
+ANEXO XLI
+VALORES DA GRATIFICAÇÃO ESPECÍFICA DE ATIVIDADES AUXILIARES DA IMPRENSA NACIONAL - GEAIN
+Em R$
+CLASSE
+PADRÃO
+VALOR DA GEAIN
+EFEITOS FINANCEIROS A PARTIR DE
+1o MAI 2008 A 30 JUN 2009
+1o JUL 2009 A 30 JUN 2010
+ESPECIAL
+III
+300,00
+145,00
+II
+293,00
+125,00
+I
+285,00
+108,00
+ANEXO XLII
+(Anexo com redação dada pelo Anexo XXXVII à Medida Provisória nº 1.170, de 28/4/2023, convertida na Lei nº 14.673, de 14/9/2023, e alterações do Anexo XXVIII à Lei nº 15.141, de 2/6/2025)
+TABELA DE VENCIMENTO BÁSICO
+a) Vencimento básico dos cargos de nível superior do Quadro de Pessoal da Imprensa Nacional:
+Em R$
+CLASSE
+PADRÃO
+VENCIMENTO BÁSICO
+EFEITOS FINANCEIROS A PARTIR DE 1º DE MAIO DE 2023
+ESPECIAL
+III
+3.175,92
+II
+3.083,41
+I
+2.993,61
+C
+VI
+2.851,06
+V
+2.768,01
+IV
+2.687,38
+III
+2.609,10
+II
+2.533,11
+I
+2.459,33
+B
+VI
+2.387,70
+V
+2.368,74
+IV
+2.349,95
+III
+2.331,29
+II
+2.312,79
+I
+2.294,43
+A
+V
+2.271,71
+IV
+2.253,68
+III
+2.077,13
+II
+1.914,40
+I
+1.764,43
+b) Vencimento básico dos cargos de nível intermediário do Quadro de Pessoal da Imprensa Nacional:
+Em R$
+CLASSE
+PADRÃO
+VENCIMENTO BÁSICO
+EFEITOS FINANCEIROS A PARTIR DE 1º DE MAIO DE 2023
+ESPECIAL
+III
+2.428,84
+II
+2.416,75
+I
+2.404,73
+C
+VI
+2.369,18
+V
+2.357,40
+IV
+2.345,67
+III
+2.334,00
+II
+2.322,39
+I
+2.310,83
+B
+VI
+2.276,68
+V
+2.265,35
+IV
+2.254,08
+III
+2.242,86
+II
+2.231,70
+I
+2.220,60
+A
+V
+2.187,78
+IV
+2.155,45
+III
+1.941,85
+II
+1.749,41
+I
+1.576,04
+c) Vencimento básico dos cargos de nível auxiliar do Quadro de Pessoal da Imprensa Nacional:
+(Tabela com redação dada pelo Anexo XXVIII à Lei nº 15.141, de 2/6/2025)
+Em R$
+CLASSE
+PADRÃO
+VENCIMENTO BÁSICO
+EFEITOS FINANCEIROS A PARTIR DE
+1º DE MAIO DE 2023
+1º DE JANEIRO DE 2025
+1º DE ABRIL DE 2026
+ESPECIAL
+III
+1.791,01
+1.952,20
+2.049,81
+II
+1.783,72
+1.944,25
+2.041,46
+I
+1.755,75
+1.913,77
+2.009,46
+d) Vencimento básico dos cargos de nível superior do Quadro de Pessoal da Imprensa Nacional a partir de 1º de janeiro de 2025:
+(Tabela acrescida pelo Anexo XXVIII à Lei nº 15.141, de 2/6/2025)
+Em R$
+CLASSE
+PADRÃO
+VENCIMENTO BÁSICO
+EFEITOS FINANCEIROS A PARTIR DE
+1º DE JANEIRO DE 2025
+1º DE ABRIL DE 2026
+ESPECIAL
+V
+3.598,66
+3.926,36
+IV
+3.489,74
+3.803,12
+III
+3.384,12
+3.683,74
+II
+3.228,72
+3.511,84
+I
+3.130,90
+3.401,42
+C
+V
+3.012,96
+3.253,22
+IV
+2.921,61
+3.150,77
+III
+2.833,02
+3.051,54
+II
+2.747,12
+2.955,40
+I
+2.670,62
+2.869,49
+B
+V
+2.625,10
+2.802,20
+IV
+2.600,45
+2.771,86
+III
+2.576,10
+2.741,99
+II
+2.552,09
+2.712,67
+I
+2.528,35
+2.683,77
+A
+V
+2.488,06
+2.625,03
+IV
+2.465,24
+2.597,73
+III
+2.269,65
+2.389,00
+II
+2.089,36
+2.196,63
+I
+1.923,23
+2.019,38
+e) Vencimento básico dos cargos de nível intermediário do Quadro de Pessoal da Imprensa Nacional a partir de 1º de janeiro de 2025:
+(Tabela acrescida pelo Anexo XXVIII à Lei nº 15.141, de 2/6/2025)
+Em R$
+CLASSE
+PADRÃO
+VENCIMENTO BÁSICO
+EFEITOS FINANCEIROS A PARTIR DE
+1º DE JANEIRO DE 2025
+1º DE ABRIL DE 2026
+ESPECIAL
+V
+2.762,84
+2.993,70
+IV
+2.743,48
+2.968,75
+III
+2.724,32
+2.944,13
+II
+2.697,06
+2.910,90
+I
+2.678,19
+2.886,69
+C
+V
+2.637,98
+2.834,05
+IV
+2.619,49
+2.810,42
+III
+2.601,16
+2.787,01
+II
+2.582,91
+2.763,74
+I
+2.557,03
+2.732,45
+B
+V
+2.518,55
+2.682,41
+IV
+2.500,90
+2.659,99
+III
+2.483,33
+2.637,73
+II
+2.465,95
+2.615,74
+I
+2.448,73
+2.593,98
+A
+V
+2.404,46
+2.538,57
+IV
+2.364,15
+2.492,67
+III
+2.125,87
+2.238,65
+II
+1.911,28
+2.009,95
+I
+1.717,88
+1.803,77
+ANEXO XLIII
+(Anexo com redação dada pelo Anexo XXIX à Lei nº 15.141, de 2/6/2025)
+ESTRUTURA DOS CARGOS DO QUADRO DE PESSOAL DA IMPRENSA NACIONAL
+a) Cargos de nível superior e intermediário do Quadro de Pessoal da Imprensa Nacional
+CARGOS
+CLASSE
+PADRÃO
+ESPECIAL
+III
+II
+I
+C
+VI
+V
+IV
+III
+Cargos de nível superior e
+II
+intermediário do Quadro de
+I
+Pessoal
+VI
+da Imprensa Nacional
+V
+B
+IV
+III
+II
+I
+V
+IV
+A
+III
+II
+I
+b) Cargos de nível auxiliar do Quadro de Pessoal da Imprensa Nacional
+CARGO
+CLASSE
+PADRÃO
+Cargos de nível auxiliar do
+Quadro de Pessoal da Imprensa
+Nacional
+ESPECIAL
+III
+II
+I
+c) Cargos de nível superior e intermediário do Quadro de Pessoal da Imprensa Nacional a partir de 1º de janeiro de 2025:
+(Tabela acrescida pelo Anexo XXIX à Lei nº 15.141, de 2/6/2025)
+CARGOS
+CLASSE
+PADRÃO
+Cargos de nível superior e intermediário do Quadro de Pessoal da Imprensa Nacional
+ESPECIAL
+V
+IV
+III
+II
+I
+C
+V
+IV
+III
+II
+I
+B
+V
+IV
+III
+II
+I
+A
+V
+IV
+III
+II
+I
+Anexo XLIV
+(Anexo com alterações do Anexo XXX à Lei nº 15.141, de 2/6/2025)
+TABELA DE CORRELAÇÃO DOS CARGOS DO QUADRO DE PESSOAL DA IMPRENSA NACIONAL
+A PARTIR DE 1º DE MAIO DE 2008
+a) Cargos de nível superior e intermediário do Quadro de Pessoal da Imprensa Nacional
+SITUAÇÃO ATUAL
+SITUAÇÃO NOVA
+CARGOS
+CLASSE
+PADRÃO
+PADRÃO
+CLASSE
+CARGOS
+Cargos de nível superior e intermediário do Quadro de Pessoal
+da Imprensa Nacional
+A
+III
+III
+ESPECIAL
+Cargos de nível superior e intermediário do Quadro de Pessoal
+da Imprensa
+Nacional
+II
+II
+I
+I
+B
+VI
+VI
+C
+V
+V
+IV
+IV
+III
+III
+II
+II
+I
+I
+C
+VI
+VI
+B
+V
+V
+IV
+IV
+III
+III
+II
+II
+I
+I
+D
+V
+V
+A
+IV
+IV
+III
+III
+II
+II
+I
+I
+b) Cargos de nível auxiliar do Quadro de Pessoal da Imprensa Nacional
+SITUAÇÃO ATUAL
+SITUAÇÃO NOVA
+CARGOS
+CLASSE
+PADRÃO
+PADRÃO
+CLASSE
+CARGOS
+Cargos de provimento efetivo
+de nível auxiliar do
+Quadro de pessoal da Imprensa Nacional
+A
+III
+III
+ESPECIAL
+Cargos de provimento efetivo de nível auxiliar
+do Quadro de pessoal
+da Imprensa
+Nacional
+II
+II
+I
+I
+B
+VI
+V
+IV
+III
+II
+I
+C
+VI
+V
+IV
+III
+II
+I
+D
+V
+IV
+III
+II
+I
+c) Cargos de nível superior e intermediário do Quadro de Pessoal da Imprensa Nacional a partir de 1º de janeiro de 2025:
+(Tabela acrescida pelo Anexo XXX à Lei nº 15.141, de 2/6/2025)
+SITUAÇÃO ATUAL
+SITUAÇÃO A PARTIR DE 1º DE JANEIRO DE 2025
+CARGOS
+CLASSE
+PADRÃO
+PADRÃO
+CLASSE
+CARGOS
+Cargos de nível superior e intermediário do Quadro de Pessoal da Imprensa Nacional
+ESPECIAL
+III
+V
+ESPECIAL
+Cargos de nível superior e intermediário do Quadro de Pessoal da Imprensa Nacional
+II
+IV
+I
+III
+C
+VI
+II
+V
+I
+IV
+V
+C
+III
+IV
+II
+III
+I
+II
+B
+VI
+I
+V
+V
+B
+IV
+IV
+III
+III
+II
+II
+I
+I
+A
+V
+V
+A
+IV
+IV
+III
+III
+II
+II
+I
+I
+ANEXO XLV
+(Anexo XII da Lei no 11.090, de 7 de janeiro de 2005)
+VALOR DA GRATIFICAÇÃO ESPECÍFICA DE PUBLICAÇÃO E DIVULGAÇÃO DA IMPRENSA NACIONAL - GEPDIN
+A PARTIR DE 1o DE MAIO DE 2008
+a) Valor da GEPDIN para os cargos de nível superior e intermediário do Quadro de Pessoal da
+Imprensa Nacional
+Em R$
+CLASSE
+PADRÃO
+VALOR DA GEPDIN
+NÍVEL DO CARGO
+SUPERIOR
+INTERMEDIÁRIO
+ESPECIAL
+III
+3.038,00
+2.658,00
+II
+3.008,00
+2.647,00
+I
+2.978,00
+2.636,00
+C
+VI
+2.920,00
+2.615,00
+V
+2.891,00
+2.605,00
+IV
+2.862,00
+2.595,00
+III
+2.834,00
+2.585,00
+II
+2.806,00
+2.575,00
+I
+2.778,00
+2.565,00
+B
+VI
+2.724,00
+2.545,00
+V
+2.684,00
+2.535,00
+IV
+2.644,00
+2.525,00
+III
+2.605,00
+2.515,00
+II
+2.567,00
+2.512,00
+I
+2.529,00
+2.510,00
+A
+V
+2.455,00
+2.508,00
+IV
+2.440,00
+2.505,00
+III
+2.383,00
+2.399,00
+II
+2.348,00
+2.352,00
+I
+2.313,00
+2.306,00
+Nacional
+b) Valor da GEPDIN para os cargos de nível auxiliar do Quadro de Pessoal da Imprensa
+Em R$
+CLASSE
+PADRÃO
+VALOR DA GEPDIN
+ESPECIAL
+III
+2.380,00
+II
+2.375,00
+I
+2.370,00
+ANEXO XLVI
+(Anexo VI da Lei no 11.095, de 13 de janeiro de 2005)
+VALORES MÁXIMOS DA GRATIFICAÇÃO DE INCREMENTO À ATIVIDADE DE ADMINISTRAÇÃO DO PATRIMÔNIO DA UNIÃO – GIAPU
+Em R$
+NÍVEL DO CARGO
+VALORES MÁXIMOS DA GIAPU A PARTIR DE
+1o JUL 2008
+1o JUL 2009
+Superior
+2.609,00
+3.053,00
+Intermediário
+1.242,00
+1.438,00
+Auxiliar
+654,00
+758,00
+ANEXO XLVII
+(Anexo I da Lei no 10.410, de 11 de janeiro de 2002)
+VENCIMENTOS BÁSICOS DOS CARGOS DE GESTOR AMBIENTAL, GESTOR ADMINISTRATIVO, ANALISTA AMBIENTAL E ANALISTA ADMINISTRATIVO
+Em R$
+CLASSE
+PADRÃO
+VENCIMENTO BÁSICO
+EFEITOS FINANCEIROS A PARTIR DE
+1o JUL 2008
+1o JUL 2009
+1o JUL 2010
+ESPECIAL
+III
+5.320,30
+5.828,99
+6.075,21
+II
+5.113,21
+5.602,10
+5.838,74
+I
+4.914,19
+5.384,05
+5.611,48
+B
+V
+4.467,45
+4.894,59
+5.101,35
+IV
+4.293,56
+4.704,07
+4.902,79
+III
+4.126,44
+4.520,97
+4.711,96
+II
+3.965,82
+4.345,00
+4.528,55
+I
+3.811,46
+4.175,88
+4.352,28
+A
+V
+3.464,96
+3.796,25
+3.956,62
+IV
+3.330,09
+3.648,49
+3.802,61
+III
+3.200,47
+3.506,48
+3.654,60
+II
+3.075,90
+3.370,00
+3.512,35
+I
+2.956,17
+3.238,83
+3.375,64
+ANEXO XLVIII
+(Anexo II da Lei no 10.410, de 11 de janeiro de 2002)
+VENCIMENTOS BÁSICOS DOS CARGOS DE TÉCNICO AMBIENTAL E DE TÉCNICO ADMINISTRATIVO
+Em R$
+CLASSE
+PADRÃO
+VENCIMENTO BÁSICO
+EFEITOS FINANCEIROS A PARTIR DE
+1o JUL 2008
+1o JUL 2009
+1o JUL 2010
+ESPECIAL
+III
+2.329,79
+2.548,51
+2.654,50
+II
+2.240,18
+2.450,49
+2.552,40
+I
+2.154,02
+2.356,24
+2.454,23
+C
+IV
+2.051,45
+2.244,04
+2.337,36
+III
+1.972,55
+2.157,73
+2.247,46
+II
+1.896,68
+2.074,74
+2.161,02
+I
+1.823,73
+1.994,94
+2.077,90
+B
+IV
+1.736,89
+1.899,94
+1.978,95
+III
+1.670,09
+1.826,87
+1.902,84
+II
+1.605,86
+1.756,61
+1.829,65
+I
+1.544,10
+1.689,05
+1.759,28
+A
+IV
+1.470,57
+1.608,62
+1.675,50
+III
+1.414,01
+1.546,75
+1.611,06
+II
+1.359,63
+1.487,26
+1.549,10
+I
+1.307,34
+1.430,06
+1.489,52
+ANEXO XLIX
+(Anexo III da Lei no 10.410, de 11 de janeiro de 2002) VENCIMENTOS BÁSICOS DO CARGO DE AUXILIAR ADMINISTRATIVO
+Em R$
+CLASSE
+PADRÃO
+VENCIMENTO BÁSICO
+EFEITOS FINANCEIROS A PARTIR DE
+1o JUL 2008
+1o JUL 2009
+1o JUL 2010
+C
+IV
+1.332,00
+1.453,97
+1.513,40
+III
+1.280,77
+1.398,05
+1.455,19
+II
+1.231,51
+1.344,28
+1.399,22
+I
+1.184,14
+1.292,58
+1.345,40
+B
+IV
+1.127,75
+1.231,03
+1.281,33
+III
+1.084,38
+1.183,68
+1.232,05
+II
+1.042,67
+1.138,15
+1.184,66
+I
+1.002,57
+1.094,38
+1.139,10
+A
+IV
+954,83
+1.042,27
+1.084,86
+III
+918,11
+1.002,18
+1.043,13
+II
+882,80
+963,63
+1.003,01
+I
+848,85
+926,57
+964,43
+ANEXO L
+(Anexo I da Lei no 11.156, de 29 de julho de 2005)
+VALORES DOS PONTOS DA GRATIFICAÇÃO DE DESEMPENHO DE ATIVIDADE TÉCNICO-ADMINISTRATIVA DO MEIO AMBIENTE - GDAMB
+Em R$
+NÍVEL DO CARGO
+VALOR DO PONTO DA GDAMB
+VIGÊNCIA
+1o NOV 2004
+1o JAN 2006
+SUPERIOR
+8,24
+18,02
+INTERMEDIÁRIO
+3,55
+7,77
+AUXILIAR
+1,99
+4,35
+ANEXO LI
+(Anexo II da Lei no 11.156, de 29 de julho de 2005)
+TABELAS DE VALOR DO PONTO DA GRATIFICAÇÃO DE DESEMPENHO DE ATIVIDADE DE ESPECIALISTA AMBIENTAL – GDAEM
+a) Tabela I - Valor do ponto da GDAEM para os cargos de Analista Ambiental, Analista Administrativo, Gestor Ambiental e Gestor Administrativo, da Carreira de Especialista em Meio Ambiente.
+Em R$
+CLASSE
+PADRÃO
+VALOR DO PONTO DA GDAEM
+EFEITOS FINANCEIROS A PARTIR DE
+1o JUL 2008
+1o JUL 2009
+1o JUL 2010
+ESPECIAL
+III
+23,95
+29,38
+40,95
+II
+23,25
+28,52
+39,76
+I
+22,57
+27,69
+38,60
+B
+V
+21,29
+26,12
+36,42
+IV
+20,67
+25,36
+35,36
+III
+20,07
+24,62
+34,33
+II
+19,49
+23,90
+33,33
+I
+18,92
+23,20
+32,36
+A
+V
+17,85
+21,89
+30,53
+IV
+17,33
+21,25
+29,64
+III
+16,05
+19,68
+27,44
+II
+14,86
+18,22
+25,41
+I
+12,88
+15,80
+22,02
+b) Tabela II - Valor do ponto da GDAEM para os cargos de Técnico Administrativo e Técnico
+Ambiental, da Carreira de Especialista em Meio Ambiente.
+Em R$
+CLASSE
+PADRÃO
+VALOR DO PONTO DA GDAEM
+EFEITOS FINANCEIROS A PARTIR DE
+1o JUL 2008
+1o JUL 2009
+1o JUL 2010
+ESPECIAL
+III
+10,36
+12,76
+17,82
+II
+10,06
+12,39
+17,30
+I
+9,77
+12,03
+16,80
+C
+IV
+9,35
+11,51
+16,08
+III
+9,08
+11,17
+15,61
+II
+8,82
+10,84
+15,16
+I
+8,56
+10,52
+14,72
+B
+IV
+8,19
+10,07
+14,09
+III
+7,95
+9,78
+13,68
+II
+7,72
+9,50
+13,28
+I
+7,50
+9,22
+12,89
+A
+IV
+7,18
+8,82
+12,33
+III
+6,87
+8,44
+11,80
+II
+6,57
+8,08
+11,29
+I
+5,72
+7,04
+9,84
+c) Tabela III - Valor do ponto da GDAEM para o cargo de Auxiliar Administrativo, da
+Carreira de Especialista em Meio Ambiente.
+Em R$
+CLASSE
+PADRÃO
+VALOR DO PONTO DA GDAEM
+EFEITOS FINANCEIROS A PARTIR DE
+1o JUL 2008
+1o JUL 2009
+1o JUL 2010
+C
+IV
+5,82
+7,22
+10,10
+III
+5,65
+7,01
+9,81
+II
+5,49
+6,81
+9,52
+I
+5,33
+6,61
+9,24
+B
+IV
+5,10
+6,33
+8,84
+III
+4,95
+6,15
+8,58
+II
+4,81
+5,97
+8,33
+I
+4,67
+5,80
+8,09
+A
+IV
+4,47
+5,55
+7,74
+III
+4,34
+5,39
+7,51
+II
+4,21
+5,23
+7,29
+I
+3,68
+4,56
+6,36
+ANEXO LII
+(Anexo VIII da Lei no 11.357, de 19 de outubro de 2006)
+TABELAS DE VENCIMENTO BÁSICO DOS CARGOS DO PLANO ESPECIAL DE CARGOS DO MINISTÉRIO DO MEIO AMBIENTE E DO INSTITUTO BRASILEIRO DO MEIO AMBIENTE E DOS RECURSOS NATURAIS RENOVÁVEIS – PECMA
+a) Tabela I - Vencimento Básico dos cargos de Nível Superior do PECMA, com efeitos financeiros a partir das datas especificadas na tabela.
+Em R$
+CLASSE
+PADRÃO
+VENCIMENTO BÁSICO
+EFEITOS FINANCEIROS A PARTIR DE
+1o JUL 2008
+1o JUL 2009
+1o JUL 2010
+ESPECIAL
+III
+5.320,30
+5.828,99
+6.075,21
+II
+5.113,21
+5.602,10
+5.838,74
+I
+4.914,19
+5.384,05
+5.611,48
+C
+IV
+4.467,45
+4.894,59
+5.101,35
+III
+4.293,56
+4.704,07
+4.902,79
+II
+4.126,44
+4.520,97
+4.711,96
+I
+3.965,82
+4.345,00
+4.528,55
+B
+IV
+3.811,46
+4.175,88
+4.352,28
+III
+3.464,96
+3.796,25
+3.956,62
+II
+3.330,09
+3.648,49
+3.802,61
+I
+3.200,47
+3.506,48
+3.654,60
+A
+IV
+3.075,90
+3.370,00
+3.512,35
+III
+2.956,17
+3.238,83
+3.375,64
+II
+2.687,43
+2.944,39
+3.068,76
+I
+2.582,83
+2.829,78
+2.949,31
+b) Tabela II - Vencimento Básico dos cargos de Nível Intermediário do PECMA, com efeitos financeiros a partir das datas especificadas na tabela.
+Em R$
+CLASSE
+PADRÃO
+VENCIMENTO BÁSICO
+EFEITOS FINANCEIROS A PARTIR DE
+1o JUL 2008
+1o JUL 2009
+1o JUL 2010
+ESPECIAL
+III
+2.329,79
+2.548,51
+2.654,50
+II
+2.240,18
+2.450,49
+2.552,40
+I
+2.154,02
+2.356,24
+2.454,23
+C
+IV
+2.051,45
+2.244,04
+2.337,36
+III
+1.972,55
+2.157,73
+2.247,46
+II
+1.896,68
+2.074,74
+2.161,02
+I
+1.823,73
+1.994,94
+2.077,90
+B
+IV
+1.736,89
+1.899,94
+1.978,95
+III
+1.670,09
+1.826,87
+1.902,84
+II
+1.605,86
+1.756,61
+1.829,65
+I
+1.544,10
+1.689,05
+1.759,28
+A
+IV
+1.470,57
+1.608,62
+1.675,50
+III
+1.414,01
+1.546,75
+1.611,06
+II
+1.359,63
+1.487,26
+1.549,10
+I
+1.307,34
+1.430,06
+1.489,52
+c) Tabela III - Vencimento Básico dos cargos de Nível Auxiliar do PECMA, com efeitos financeiros a partir das datas especificadas na tabela.
+Em R$
+CLASSE
+PADRÃO
+VENCIMENTO BÁSICO
+EFEITOS FINANCEIROS A PARTIR DE
+1o JUL 2008
+1o JUL 2009
+1o JUL 2010
+ESPECIAL
+III
+1.332,00
+1.453,97
+1.513,40
+II
+1.280,77
+1.398,05
+1.455,19
+I
+1.231,51
+1.344,28
+1.399,22
+C
+IV
+1.184,14
+1.292,58
+1.345,40
+III
+1.127,75
+1.231,03
+1.281,33
+II
+1.084,38
+1.183,68
+1.232,05
+I
+1.042,67
+1.138,15
+1.184,66
+B
+IV
+1.002,57
+1.094,38
+1.139,10
+III
+954,83
+1.042,27
+1.084,86
+II
+918,11
+1.002,18
+1.043,13
+I
+882,80
+963,63
+1.003,01
+A
+IV
+848,85
+926,57
+964,43
+III
+836,31
+912,88
+950,18
+II
+823,95
+899,39
+936,14
+I
+811,77
+886,10
+922,31
+ANEXO LIII
+(Anexo X da Lei no 11.357, de 19 de outubro de 2006)
+TABELAS DOS VALORES DOS PONTOS DA GRATIFICAÇÃO DE DESEMPENHO DE ATIVIDADE TÉCNICO-EXECUTIVA E DE SUPORTE DO MEIO AMBIENTE - GTEMA
+a) Tabela I - Valores dos pontos da GTEMA para os cargos de nível superior, nível intermediário e nível auxiliar, com vigência até 30 de junho de 2008.
+Em R$
+CLASSE
+PADRÃO
+VALOR DO PONTO DA GTEMA
+NÍVEL DO CARGO
+SUPERIOR
+INTERMEDIÁRIO
+AUXILIAR
+ESPECIAL
+III
+18,03
+7,78
+4,36
+II
+17,67
+7,62
+4,28
+I
+17,31
+7,46
+4,21
+C
+IV
+16,53
+7,30
+4,02
+III
+16,17
+7,14
+3,96
+II
+15,81
+6,98
+3,90
+I
+15,45
+6,82
+3,84
+B
+IV
+15,09
+6,67
+3,67
+III
+14,32
+6,51
+3,62
+II
+13,96
+6,35
+3,57
+I
+13,60
+6,19
+3,52
+A
+IV
+13,24
+6,03
+3,47
+III
+12,87
+5,87
+3,43
+II
+12,72
+5,71
+3,38
+I
+12,58
+5,56
+3,34
+b) Tabela II - Valores dos pontos da GTEMA para os Cargos de Nível Superior do PECMA, com vigência nas datas estabelecidas na tabela.
+Em R$
+CLASSE
+PADRÃO
+VALOR DO PONTO DA GTEMA
+EFEITOS FINANCEIROS A PARTIR DE
+1o JUL 2008
+1o JUL 2009
+1o JUL 2010
+ESPECIAL
+III
+23,95
+29,38
+40,95
+II
+23,25
+28,52
+39,76
+I
+22,57
+27,69
+38,60
+C
+IV
+21,29
+26,12
+36,42
+III
+20,67
+25,36
+35,36
+II
+20,07
+24,62
+34,33
+I
+19,49
+23,90
+33,33
+B
+IV
+18,92
+23,20
+32,36
+III
+17,85
+21,89
+30,53
+II
+17,33
+21,25
+29,64
+I
+16,05
+19,68
+27,44
+A
+IV
+14,86
+18,22
+25,41
+III
+12,88
+15,80
+22,02
+II
+12,75
+15,64
+21,80
+I
+12,62
+15,49
+21,58
+c) Tabela III - Valores dos pontos da GTEMA para os Cargos de Nível Intermediário do
+PECMA, com vigência nas datas estabelecidas na tabela.
+Em R$
+CLASSE
+PADRÃO
+VALOR DO PONTO DA GTEMA
+EFEITOS FINANCEIROS A PARTIR DE
+1o JUL 2008
+1o JUL 2009
+1o JUL 2010
+ESPECIAL
+III
+10,36
+12,76
+17,82
+II
+10,06
+12,39
+17,30
+I
+9,77
+12,03
+16,80
+C
+IV
+9,35
+11,51
+16,08
+III
+9,08
+11,17
+15,61
+II
+8,82
+10,84
+15,16
+I
+8,56
+10,52
+14,72
+B
+IV
+8,19
+10,07
+14,09
+III
+7,95
+9,78
+13,68
+II
+7,72
+9,50
+13,28
+I
+7,50
+9,22
+12,89
+A
+IV
+7,18
+8,82
+12,33
+III
+6,87
+8,44
+11,80
+II
+6,57
+8,08
+11,29
+I
+5,72
+7,04
+9,84
+d) Tabela IV - Valores dos pontos da GTEMA para os Cargos de Nível Auxiliar do PECMA, com vigência nas datas estabelecidas na tabela.
+Em R$
+CLASSE
+PADRÃO
+VALOR DO PONTO DA GTEMA
+EFEITOS FINANCEIROS A PARTIR DE
+1o JUL 2008
+1o JUL 2009
+1o JUL 2010
+ESPECIAL
+III
+5,82
+7,22
+10,10
+II
+5,65
+7,01
+9,81
+I
+5,49
+6,81
+9,52
+C
+IV
+5,33
+6,61
+9,24
+III
+5,10
+6,33
+8,84
+II
+4,95
+6,15
+8,58
+I
+4,81
+5,97
+8,33
+B
+IV
+4,67
+5,80
+8,09
+III
+4,47
+5,55
+7,74
+II
+4,34
+5,39
+7,51
+I
+4,21
+5,23
+7,29
+A
+IV
+3,68
+4,56
+6,36
+III
+3,63
+4,49
+6,27
+II
+3,58
+4,42
+6,18
+I
+3,53
+4,35
+6,09
+ANEXO LIV
+(Anexo XVI-A da Lei no 11.357, de 19 de outubro de 2006)
+ESTRUTURA E PADRÕES DE VENCIMENTO BÁSICO DOS CARGOS INTEGRANTES DA CARREIRA DE FINANCIAMENTO E EXECUÇÃO DE PROGRAMAS E PROJETOS EDUCACIONAIS DO FUNDO NACIONAL DE DESENVOLVIMENTO DA
+EDUCAÇÃO - FNDE.
+A PARTIR DE 1o DE JULHO DE 2008.
+Em R$
+PADRÃO DE VENCIMENTO
+BÁSICO
+CLASSE DE CAPACITAÇÃO
+I
+II
+III
+IV
+V
+P24
+7.201,00
+5
+P23
+6.994,66
+4
+5
+P22
+6.794,23
+3
+4
+5
+P21
+6.599,54
+2
+3
+4
+5
+P20
+6.410,43
+1
+2
+3
+4
+5
+P19
+6.226,74
+1
+2
+3
+4
+5
+P18
+6.048,31
+1
+2
+3
+4
+5
+P17
+5.875,00
+1
+2
+3
+4
+5
+P16
+5.706,65
+1
+2
+3
+4
+P15
+5.543,13
+1
+2
+3
+4
+P14
+5.384,29
+1
+2
+3
+4
+P13
+5.230,00
+1
+2
+3
+4
+P12
+5.080,14
+1
+2
+3
+P11
+4.934,57
+1
+2
+3
+P10
+4.793,17
+1
+2
+3
+P09
+4.655,82
+1
+2
+3
+P08
+4.522,41
+1
+2
+P07
+4.392,82
+1
+2
+P06
+4.266,95
+1
+2
+P05
+4.144,68
+1
+2
+P04
+4.025,92
+1
+P03
+3.910,56
+1
+P02
+3.798,50
+1
+P01
+3.689,66
+1
+ANEXO LV
+(Anexo XVI-B da Lei no 11.357, de 19 de outubro de 2006)
+ESTRUTURA E PADRÕES DE VENCIMENTO BÁSICO DOS CARGOS INTEGRANTES DA CARREIRA DE SUPORTE TÉCNICO AO FINANCIAMENTO E EXECUÇÃO DE PROGRAMAS E PROJETOS EDUCACIONAIS DO FUNDO NACIONAL DE DESENVOLVIMENTO DA EDUCAÇÃO - FNDE
+A PARTIR DE 1o DE JULHO DE 2008
+Em R$
+PADRÃO DE VENCIMENTO
+BÁSICO
+CLASSE DE CAPACITAÇÃO
+I
+II
+III
+IV
+V
+P24
+3.005,19
+5
+P23
+2.975,44
+4
+5
+P22
+2.945,98
+3
+4
+5
+P21
+2.916,81
+2
+3
+4
+5
+P20
+2.887,93
+1
+2
+3
+4
+5
+P19
+2.859,34
+1
+2
+3
+4
+5
+P18
+2.831,03
+1
+2
+3
+4
+5
+P17
+2.803,00
+1
+2
+3
+4
+5
+P16
+2.775,25
+1
+2
+3
+4
+P15
+2.747,77
+1
+2
+3
+4
+P14
+2.720,56
+1
+2
+3
+4
+P13
+2.693,62
+1
+2
+3
+4
+P12
+2.590,02
+1
+2
+3
+P11
+2.490,40
+1
+2
+3
+P10
+2.394,62
+1
+2
+3
+P09
+2.302,52
+1
+2
+3
+P08
+2.213,96
+1
+2
+P07
+2.128,81
+1
+2
+P06
+2.046,93
+1
+2
+P05
+1.968,20
+1
+2
+P04
+1.892,50
+1
+P03
+1.819,71
+1
+P02
+1.749,72
+1
+P01
+1.682,42
+1
+ANEXO LVI
+(Anexo XVI-C da Lei no 11.357, de 19 de outubro de 2006)
+TABELAS DE CORRELAÇÃO PARA OS CARGOS INTEGRANTES DAS CARREIRAS DO FNDE
+SITUAÇÃO ATUAL
+SITUAÇÃO NOVA
+CLASSE
+PADRÃO
+PADRÃO DE VENCIMENTO
+BÁSICO
+CLASSE DE CAPACITAÇÃO
+I
+II
+III
+IV
+V
+P24
+5
+P23
+4
+5
+P22
+3
+4
+5
+P21
+2
+3
+4
+5
+P20
+1
+2
+3
+4
+5
+P19
+1
+2
+3
+4
+5
+P18
+1
+2
+3
+4
+5
+P17
+1
+2
+3
+4
+5
+P16
+1
+2
+3
+4
+P15
+1
+2
+3
+4
+P14
+1
+2
+3
+4
+ESPECIAL
+III
+P13
+1
+2
+3
+4
+II
+P12
+1
+2
+3
+I
+P11
+1
+2
+3
+B
+V
+P10
+1
+2
+3
+IV
+P09
+1
+2
+3
+III
+P08
+1
+2
+II
+P07
+1
+2
+I
+P06
+1
+2
+A
+V
+P05
+1
+2
+IV
+P04
+1
+III
+P03
+1
+II
+P02
+1
+I
+P01
+1
+ANEXO LVII
+(Anexo XVI-D da Lei no 11.357, de 19 de outubro de 2006)
+TABELA PARA PROMOÇÃO POR CAPACITAÇÃO PROFISSIONAL PARA OS CARGOS INTEGRANTES DAS CARREIRAS DO FNDE E PARA OS CARGOS DE NÍVEL SUPERIOR E DE NÍVEL INTERMEDIÁRIO DO PLANO
+ESPECIAL DE CARGOS DO FNDE
+CLASSE DE CAPACITAÇÃO
+CARGA HORÁRIA MÍNIMA PARA PROMOÇÃO POR CAPACITAÇÃO
+I
+Exigência mínima do Cargo
+II
+120 horas
+III
+150 horas
+IV
+Aperfeiçoamento ou curso de capacitação superior a 180 horas
+V
+Aperfeiçoamento ou curso de capacitação superior a 210 horas
+ANEXO LVIII
+(Anexo XVIII-A da Lei no 11.357, de 19 de outubro de 2006) ESTRUTURA E PADRÕES DE VENCIMENTO BÁSICO DOS CARGOS DE NÍVEL
+SUPERIOR E INTERMEDIÁRIO, INTEGRANTES DO PLANO ESPECIAL DE CARGOS DO FNDE
+a) Vencimento básico dos cargos de Nível Superior
+PADRÃO DE VENCIMENTO
+BÁSICO
+VENCIMENTO BÁSICO A PARTIR DE (Em R$)
+CLASSE DE CAPACITAÇÃO
+1o JUL
+2008
+1o JUL
+2009
+1o JUL
+2010
+I
+II
+III
+IV
+V
+P24
+4.641,97
+5.277,92
+6.001,00
+5
+P23
+4.524,34
+5.144,18
+5.821,69
+4
+5
+P22
+4.409,69
+5.013,82
+5.647,74
+3
+4
+5
+P21
+4.297,94
+4.886,76
+5.478,99
+2
+3
+4
+5
+P20
+4.189,03
+4.762,92
+5.315,28
+1
+2
+3
+4
+5
+P19
+4.082,88
+4.642,22
+5.156,46
+1
+2
+3
+4
+5
+P18
+3.979,42
+4.524,58
+5.002,39
+1
+2
+3
+4
+5
+P17
+3.878,58
+4.409,92
+4.852,92
+1
+2
+3
+4
+5
+P16
+3.780,29
+4.298,17
+4.707,92
+1
+2
+3
+4
+P15
+3.684,49
+4.189,25
+4.567,25
+1
+2
+3
+4
+P14
+3.591,12
+4.083,09
+4.430,78
+1
+2
+3
+4
+P13
+3.500,12
+3.979,62
+4.298,39
+1
+2
+3
+4
+P12
+3.411,42
+3.878,77
+4.169,96
+1
+2
+3
+P11
+3.324,97
+3.780,48
+4.045,36
+1
+2
+3
+P10
+3.240,71
+3.684,68
+3.924,49
+1
+2
+3
+P09
+3.158,59
+3.591,31
+3.807,23
+1
+2
+3
+P08
+3.078,55
+3.500,30
+3.693,47
+1
+2
+P07
+3.000,54
+3.411,60
+3.583,11
+1
+2
+P06
+2.924,50
+3.325,15
+3.476,05
+1
+2
+P05
+2.850,39
+3.240,89
+3.372,19
+1
+2
+P04
+2.778,16
+3.158,76
+3.271,43
+1
+P03
+2.707,76
+3.078,71
+3.173,68
+1
+P02
+2.639,14
+3.000,69
+3.078,85
+1
+P01
+2.572,26
+2.924,65
+2.986,85
+1
+b) Vencimento básico dos cargos de Nível Intermediário
+PADRÃO DE VENCIMENTO
+BÁSICO
+VENCIMENTO BÁSICO A PARTIR DE (Em R$)
+CLASSE DE CAPACITAÇÃO
+1o JUL
+2008
+1o JUL
+2009
+1o JUL
+2010
+I
+II
+III
+IV
+V
+P24
+2.412,81
+2.528,63
+2.650,00
+5
+P23
+2.354,42
+2.467,43
+2.585,87
+4
+5
+P22
+2.297,44
+2.407,72
+2.523,29
+3
+4
+5
+P21
+2.241,84
+2.349,45
+2.462,23
+2
+3
+4
+5
+P20
+2.187,59
+2.292,59
+2.402,64
+1
+2
+3
+4
+5
+P19
+2.134,65
+2.237,11
+2.344,50
+1
+2
+3
+4
+5
+P18
+2.082,99
+2.182,97
+2.287,76
+1
+2
+3
+4
+5
+P17
+2.032,58
+2.130,14
+2.232,40
+1
+2
+3
+4
+5
+P16
+1.983,39
+2.078,59
+2.178,38
+1
+2
+3
+4
+P15
+1.935,39
+2.028,29
+2.125,66
+1
+2
+3
+4
+P14
+1.888,55
+1.979,21
+2.074,22
+1
+2
+3
+4
+P13
+1.842,85
+1.931,31
+2.024,02
+1
+2
+3
+4
+P12
+1.798,25
+1.884,57
+1.975,04
+1
+2
+3
+P11
+1.754,73
+1.838,96
+1.927,24
+1
+2
+3
+P10
+1.712,27
+1.794,46
+1.880,60
+1
+2
+3
+P09
+1.670,83
+1.751,03
+1.835,09
+1
+2
+3
+P08
+1.630,40
+1.708,66
+1.790,68
+1
+2
+P07
+1.590,94
+1.667,31
+1.747,35
+1
+2
+P06
+1.552,44
+1.626,96
+1.705,06
+1
+2
+P05
+1.514,87
+1.587,59
+1.663,80
+1
+2
+P04
+1.478,21
+1.549,17
+1.623,54
+1
+P03
+1.442,44
+1.511,68
+1.584,25
+1
+P02
+1.407,53
+1.475,10
+1.545,91
+1
+P01
+1.373,47
+1.439,40
+1.508,50
+1
+ANEXO LIX
+(Anexo XVIII-B da Lei no 11.357, de 19 de outubro de 2006)
+ESTRUTURA DE CLASSES E PADRÕES DOS CARGOS DE NÍVEL AUXILIAR DO PLANO ESPECIAL DE CARGOS DO FUNDO NACIONAL DE DESENVOLVIMENTO DA EDUCAÇÃO – FNDE
+CARGOS
+CLASSE
+PADRÃO
+Cargos efetivos de nível
+auxiliar do Plano
+Especial de Cargos do FNDE
+ESPECIAL
+III
+II
+I
+ANEXO LX
+(Anexo XVIII-C da Lei no 11.357, de 19 de outubro de 2006)
+VENCIMENTO BÁSICO DOS CARGOS DE NÍVEL AUXILIAR, INTEGRANTES DO PLANO ESPECIAL DE CARGOS DO FNDE
+Em R$
+CLASSE
+PADRÃO
+VENCIMENTO BÁSICO
+EFEITOS FINANCEIROS A PARTIR DE
+1o JUL 2008
+1o JUL 2009
+1o JUL 2010
+ESPECIAL
+III
+1.263,53
+1.276,04
+1.288,80
+II
+1.227,32
+1.239,48
+1.251,87
+I
+1.192,15
+1.203,96
+1.216,00
+ANEXO LXI
+(Anexo XIX-A da Lei no 11.357, de 19 de outubro de 2006)
+TABELA DE CORRELAÇÃO PARA OS CARGOS DE NÍVEL SUPERIOR E DE NÍVEL INTERMEDIÁRIO DO PLANO ESPECIAL DE CARGOS - FNDE
+SITUAÇÃO ATUAL
+SITUAÇÃO NOVA
+CLASSE
+PADRÃO
+PADRÃO DE VENCIMENTO
+BÁSICO
+CLASSE DE CAPACITAÇÃO
+I
+II
+III
+IV
+V
+P24
+5
+P23
+4
+5
+P22
+3
+4
+5
+P21
+2
+3
+4
+5
+S
+III
+P20
+1
+2
+3
+4
+5
+II
+P19
+1
+2
+3
+4
+5
+I
+P18
+1
+2
+3
+4
+5
+C
+VI
+P17
+1
+2
+3
+4
+5
+V
+P16
+1
+2
+3
+4
+IV
+P15
+1
+2
+3
+4
+III
+P14
+1
+2
+3
+4
+II
+P13
+1
+2
+3
+4
+I
+P12
+1
+2
+3
+B
+VI
+P11
+1
+2
+3
+V
+P10
+1
+2
+3
+IV
+P09
+1
+2
+3
+III
+P08
+1
+2
+II
+P07
+1
+2
+I
+P06
+1
+2
+A
+V
+P05
+1
+2
+IV
+P04
+1
+III
+P03
+1
+II
+P02
+1
+I
+P01
+1
+ANEXO LXII
+(Anexo XIX-B da Lei no 11.357, de 19 de outubro de 2006)
+TABELA DE CORRELAÇÃO PARA OS CARGOS DE NÍVEL AUXILIAR DO PLANO ESPECIAL DE CARGOS DO FUNDO NACIONAL DE DESENVOLVIMENTO DA EDUCAÇÃO - FNDE
+SITUAÇÃO ATUAL
+SITUAÇÃO NOVA
+CARGOS
+CLASSE
+PADRÃO
+PADRÃO
+CLASSE
+CARGOS
+Cargos de provimento efetivo de nível auxiliar do Plano
+Especial de Cargos do
+FNDE
+ESPECIAL
+III
+III
+ESPECIAL
+Cargos de provimento efetivo de nível auxiliar
+do Plano Especial de
+Cargos do FNDE
+II
+II
+I
+I
+C
+VI
+V
+IV
+III
+II
+I
+B
+VI
+V
+IV
+III
+II
+I
+A
+V
+IV
+III
+II
+I
+ANEXO LXIII
+(Anexo XX-A da Lei no 11.357, de 19 de outubro de 2006)
+VALOR DO PONTO DA GRATIFICAÇÃO DE DESEMPENHO DE ATIVIDADE DO PLANO ESPECIAL DE CARGOS DO FNDE - GDPFNDE
+a) Valor do ponto da GDPFNDE para os cargos de Nível Superior
+Em R$
+PADRÃO DE
+VENCIMENTO BÁSICO
+CLASSE
+DE CAPACITAÇÃO
+VALOR DO PONTO DA
+GDPFNDE A PARTIR DE
+1o JUL
+2008
+1o JUL
+2009
+1o JUL
+2010
+I
+II
+III
+IV
+V
+P24
+5
+13,63
+20,79
+23,33
+P23
+4
+5
+13,36
+20,16
+22,66
+P22
+3
+4
+5
+13,10
+19,55
+22,01
+P21
+2
+3
+4
+5
+12,84
+18,96
+21,38
+P20
+1
+2
+3
+4
+5
+12,59
+18,39
+20,77
+P19
+1
+2
+3
+4
+5
+12,34
+17,84
+20,17
+P18
+1
+2
+3
+4
+5
+12,10
+17,30
+19,59
+P17
+1
+2
+3
+4
+5
+11,86
+16,78
+19,03
+P16
+1
+2
+3
+4
+11,63
+16,28
+18,48
+P15
+1
+2
+3
+4
+11,40
+15,79
+17,95
+P14
+1
+2
+3
+4
+11,18
+15,32
+17,44
+P13
+1
+2
+3
+4
+10,96
+14,86
+16,94
+P12
+1
+2
+3
+10,75
+14,41
+16,45
+P11
+1
+2
+3
+10,54
+13,98
+15,98
+P10
+1
+2
+3
+10,33
+13,56
+15,52
+P09
+1
+2
+3
+10,13
+13,15
+15,08
+P08
+1
+2
+9,93
+12,75
+14,65
+P07
+1
+2
+9,74
+12,37
+14,23
+P06
+1
+2
+9,55
+12,00
+13,82
+P05
+1
+2
+9,36
+11,64
+13,42
+P04
+1
+9,18
+11,29
+13,04
+P03
+1
+9,00
+10,95
+12,67
+P02
+1
+8,82
+10,62
+12,31
+P01
+1
+8,65
+10,30
+11,96
+b) Valor do ponto da GDPFNDE para os cargos de Nível Intermediário
+PADRÃO DE
+VENCIMENTO BÁSICO
+CLASSE DE
+CAPACITAÇÃO
+VALOR DO PONTO DA GDPFNDE A PARTIR DE
+1o JUL
+2008
+1o JUL
+2009
+1o JUL
+2010
+I
+II
+III
+IV
+V
+P24
+5
+9,95
+11,95
+15,23
+P23
+4
+5
+9,69
+11,61
+14,79
+P22
+3
+4
+5
+9,44
+11,28
+14,37
+P21
+2
+3
+4
+5
+9,19
+10,96
+13,96
+P20
+1
+2
+3
+4
+5
+8,95
+10,65
+13,56
+P19
+1
+2
+3
+4
+5
+8,71
+10,34
+13,17
+P18
+1
+2
+3
+4
+5
+8,48
+10,04
+12,79
+P17
+1
+2
+3
+4
+5
+8,26
+9,75
+12,42
+P16
+1
+2
+3
+4
+8,04
+9,47
+12,06
+P15
+1
+2
+3
+4
+7,83
+9,20
+11,71
+P14
+1
+2
+3
+4
+7,62
+8,94
+11,37
+P13
+1
+2
+3
+4
+7,42
+8,68
+11,04
+P12
+1
+2
+3
+7,22
+8,43
+10,72
+P11
+1
+2
+3
+7,03
+8,19
+10,41
+P10
+1
+2
+3
+6,85
+7,96
+10,11
+P09
+1
+2
+3
+6,67
+7,73
+9,82
+P08
+1
+2
+6,49
+7,51
+9,54
+P07
+1
+2
+6,32
+7,29
+9,27
+P06
+1
+2
+6,15
+7,08
+9,00
+P05
+1
+2
+5,99
+6,88
+8,74
+P04
+1
+5,83
+6,68
+8,49
+P03
+1
+5,68
+6,49
+8,25
+P02
+1
+5,53
+6,30
+8,01
+P01
+1
+5,38
+6,12
+7,78
+c) Valor do ponto da GDPFNDE para os cargos de Nível Auxiliar
+CLASSE
+PADRÃO
+VALOR DO PONTO DA GDPFNDE A PARTIR DE
+1o JUL 2008
+1o JUL 2009
+1o JUL 2010
+ESPECIAL
+III
+3,87
+4,85
+5,87
+II
+3,76
+4,71
+5,70
+I
+3,65
+4,58
+5,54
+ANEXO LXIV
+(Anexo XX-B da Lei no 11.357, de 19 de outubro de 2006)
+VALOR DO PONTO DA GRATIFICAÇÃO DE DESEMPENHO DE ATIVIDADES DE FINANCIAMENTO E EXECUÇÃO DE PROGRAMAS E PROJETOS EDUCACIONAIS – GDAFE
+a) Valor do ponto da GDAFE para os cargos integrantes da Carreira de Financiamento e
+Execução de Programas e Projetos Educacionais
+Em R$
+PADRÃO
+DE VENCIMENTO BÁSICO
+CLASSE
+DE CAPACITAÇÃO
+VALOR DO PONTO DA
+GDAFE A PARTIR DE
+1o JUL
+2008
+1o JUL
+2009
+1o JUL
+2010
+I
+II
+III
+IV
+V
+P24
+5
+25,20
+26,64
+29,42
+P23
+4
+5
+24,48
+25,88
+28,58
+P22
+3
+4
+5
+23,78
+25,14
+27,76
+P21
+2
+3
+4
+5
+23,10
+24,42
+26,96
+P20
+1
+2
+3
+4
+5
+22,44
+23,72
+26,19
+P19
+1
+2
+3
+4
+5
+21,80
+23,04
+25,44
+P18
+1
+2
+3
+4
+5
+21,18
+22,38
+24,71
+P17
+1
+2
+3
+4
+5
+20,57
+21,74
+24,00
+P16
+1
+2
+3
+4
+19,98
+21,12
+23,31
+P15
+1
+2
+3
+4
+19,41
+20,51
+22,64
+P14
+1
+2
+3
+4
+18,85
+19,92
+21,99
+P13
+1
+2
+3
+4
+18,31
+19,35
+21,36
+P12
+1
+2
+3
+17,79
+18,80
+20,75
+P11
+1
+2
+3
+17,28
+18,26
+20,16
+P10
+1
+2
+3
+16,78
+17,74
+19,58
+P09
+1
+2
+3
+16,30
+17,23
+19,02
+P08
+1
+2
+15,83
+16,74
+18,47
+P07
+1
+2
+15,38
+16,26
+17,94
+P06
+1
+2
+14,94
+15,79
+17,43
+P05
+1
+2
+14,51
+15,34
+16,93
+P04
+1
+14,09
+14,90
+16,44
+P03
+1
+13,69
+14,47
+15,97
+P02
+1
+13,30
+14,06
+15,51
+P01
+1
+12,92
+13,66
+15,07
+b) Valor do ponto da GDAFE para os cargos integrantes da Carreira de Suporte Técnico ao
+Financiamento e Execução de Programas e Projetos Educacionais
+Em R$
+PADRÃO DE
+VENCIMENTO BÁSICO
+CLASSE
+DE CAPACITAÇÃO
+VALOR DO PONTO DA
+GDAFE A PARTIR DE
+1o JUL
+2008
+1o JUL
+2009
+1o JUL
+2010
+I
+II
+III
+IV
+V
+P24
+5
+10,52
+11,12
+12,28
+P23
+4
+5
+10,36
+10,95
+12,10
+P22
+3
+4
+5
+10,21
+10,79
+11,92
+P21
+2
+3
+4
+5
+10,06
+10,63
+11,74
+P20
+1
+2
+3
+4
+5
+9,91
+10,47
+11,57
+P19
+1
+2
+3
+4
+5
+9,76
+10,32
+11,40
+P18
+1
+2
+3
+4
+5
+9,62
+10,17
+11,23
+P17
+1
+2
+3
+4
+5
+9,48
+10,02
+11,06
+P16
+1
+2
+3
+4
+9,34
+9,87
+10,90
+P15
+1
+2
+3
+4
+9,20
+9,72
+10,74
+P14
+1
+2
+3
+4
+9,06
+9,58
+10,58
+P13
+1
+2
+3
+4
+8,93
+9,44
+10,42
+P12
+1
+2
+3
+8,80
+9,30
+10,27
+P11
+1
+2
+3
+8,67
+9,16
+10,12
+P10
+1
+2
+3
+8,54
+9,02
+9,97
+P09
+1
+2
+3
+8,41
+8,89
+9,82
+P08
+1
+2
+8,29
+8,76
+9,67
+P07
+1
+2
+8,17
+8,63
+9,53
+P06
+1
+2
+8,05
+8,50
+9,39
+P05
+1
+2
+7,93
+8,37
+9,25
+P04
+1
+7,81
+8,25
+9,11
+P03
+1
+7,69
+8,13
+8,98
+P02
+1
+7,58
+8,01
+8,85
+P01
+1
+7,47
+7,89
+8,72
+ANEXO LXV
+(Anexo XX-C da Lei no 11.357, de 19 de outubro de 2006)
+VALORES DA GRATIFICAÇÃO POR QUALIFICAÇÃO - GQ DOS CARGOS DE NÍVEL INTERMEDIÁRIO DA CARREIRA DE SUPORTE TÉCNICO AO FINANCIAMENTO E EXECUÇÃO DE PROGRAMAS E PROJETOS EDUCACIONAIS E DOS CARGOS DE NÍVEL INTERMEDIÁRIO DO PLANO ESPECIAL DE
+CARGOS DO FNDE
+Em R$
+PADRÃO DE VENCIMENTO
+BÁSICO
+CLASSE DE CAPACITAÇÃO
+VALOR DO PONTO DA GQ
+A PARTIR DE
+1o JUL
+2008
+1o JUL
+2009
+1o JUL
+2010
+I
+II
+III
+IV
+V
+P24
+5
+620,00
+633,00
+646,00
+P23
+4
+5
+607,00
+619,00
+632,00
+P22
+3
+4
+5
+594,00
+606,00
+618,00
+P21
+2
+3
+4
+5
+581,00
+593,00
+605,00
+P20
+1
+2
+3
+4
+5
+568,00
+580,00
+592,00
+P19
+1
+2
+3
+4
+5
+556,00
+568,00
+579,00
+P18
+1
+2
+3
+4
+5
+544,00
+556,00
+567,00
+P17
+1
+2
+3
+4
+5
+532,00
+544,00
+555,00
+P16
+1
+2
+3
+4
+521,00
+532,00
+543,00
+P15
+1
+2
+3
+4
+510,00
+521,00
+531,00
+P14
+1
+2
+3
+4
+499,00
+510,00
+520,00
+P13
+1
+2
+3
+4
+488,00
+499,00
+509,00
+P12
+1
+2
+3
+477,00
+488,00
+498,00
+P11
+1
+2
+3
+467,00
+477,00
+487,00
+P10
+1
+2
+3
+457,00
+467,00
+477,00
+P09
+1
+2
+3
+447,00
+457,00
+467,00
+P08
+1
+2
+437,00
+447,00
+457,00
+P07
+1
+2
+428,00
+437,00
+447,00
+P06
+1
+2
+419,00
+428,00
+437,00
+P05
+1
+2
+410,00
+419,00
+428,00
+P04
+1
+401,00
+410,00
+419,00
+P03
+1
+392,00
+401,00
+410,00
+P02
+1
+384,00
+392,00
+401,00
+P01
+1
+376,00
+384,00
+392,00
+ANEXO LXVI
+(Anexo XX-D da Lei no 11.357, de 19 de outubro de 2006) VALORES DA RETRIBUIÇÃO POR TITULAÇÃO - RT DOS CARGOS DE
+NÍVEL SUPERIOR DA CARREIRA DE FINANCIAMENTO E EXECUÇÃO DE PROGRAMAS E PROJETOS EDUCACIONAIS E DOS CARGOS DE NÍVEL SUPERIOR DO PLANO ESPECIAL DE CARGOS DO FNDE
+a) Valor da RT - Efeitos financeiros a partir de 1o de julho de 2008
+Em R$
+PADRÃO DE
+VENCIMENTO BÁSICO
+CLASSE DE
+CAPACITAÇÃO
+VALOR
+DA RT
+I
+II
+III
+IV
+V
+Especialização
+Mestrado
+Doutorado
+P24
+5
+720,00
+1.800,00
+3.096,00
+P23
+4
+5
+699,00
+1.749,00
+3.008,00
+P22
+3
+4
+5
+679,00
+1.699,00
+2.922,00
+P21
+2
+3
+4
+5
+660,00
+1.650,00
+2.838,00
+P20
+1
+2
+3
+4
+5
+641,00
+1.603,00
+2.756,00
+P19
+1
+2
+3
+4
+5
+623,00
+1.557,00
+2.677,00
+P18
+1
+2
+3
+4
+5
+605,00
+1.512,00
+2.601,00
+P17
+1
+2
+3
+4
+5
+588,00
+1.469,00
+2.526,00
+P16
+1
+2
+3
+4
+571,00
+1.427,00
+2.454,00
+P15
+1
+2
+3
+4
+554,00
+1.386,00
+2.384,00
+P14
+1
+2
+3
+4
+538,00
+1.346,00
+2.315,00
+P13
+1
+2
+3
+4
+523,00
+1.308,00
+2.249,00
+P12
+1
+2
+3
+508,00
+1.270,00
+2.184,00
+P11
+1
+2
+3
+493,00
+1.234,00
+2.122,00
+P10
+1
+2
+3
+479,00
+1.198,00
+2.061,00
+P09
+1
+2
+3
+466,00
+1.164,00
+2.002,00
+P08
+1
+2
+452,00
+1.131,00
+1.945,00
+P07
+1
+2
+439,00
+1.098,00
+1.889,00
+P06
+1
+2
+427,00
+1.067,00
+1.835,00
+P05
+1
+2
+414,00
+1.036,00
+1.782,00
+P04
+1
+403,00
+1.006,00
+1.731,00
+P03
+1
+391,00
+978,00
+1.682,00
+P02
+1
+380,00
+950,00
+1.633,00
+P01
+1
+369,00
+922,00
+1.587,00
+b) Valor da RT - Efeitos financeiros a partir de 1o de julho de 2009
+Em R$
+PADRÃO DE
+VENCIMENTO BÁSICO
+CLASSE DE
+CAPACITAÇÃO
+VALOR
+DA RT
+I
+II
+III
+IV
+V
+Especialização
+Mestrado
+Doutorado
+P24
+5
+792,00
+2.088,00
+3.384,00
+P23
+4
+5
+769,00
+2.028,00
+3.287,00
+P22
+3
+4
+5
+747,00
+1.970,00
+3.193,00
+P21
+2
+3
+4
+5
+726,00
+1.914,00
+3.102,00
+P20
+1
+2
+3
+4
+5
+705,00
+1.859,00
+3.013,00
+P19
+1
+2
+3
+4
+5
+685,00
+1.806,00
+2.927,00
+P18
+1
+2
+3
+4
+5
+665,00
+1.754,00
+2.843,00
+P17
+1
+2
+3
+4
+5
+646,00
+1.704,00
+2.761,00
+P16
+1
+2
+3
+4
+628,00
+1.655,00
+2.682,00
+P15
+1
+2
+3
+4
+610,00
+1.608,00
+2.605,00
+P14
+1
+2
+3
+4
+592,00
+1.561,00
+2.531,00
+P13
+1
+2
+3
+4
+575,00
+1.517,00
+2.458,00
+P12
+1
+2
+3
+559,00
+1.473,00
+2.388,00
+P11
+1
+2
+3
+543,00
+1.431,00
+2.319,00
+P10
+1
+2
+3
+527,00
+1.390,00
+2.253,00
+P09
+1
+2
+3
+512,00
+1.350,00
+2.188,00
+P08
+1
+2
+497,00
+1.311,00
+2.126,00
+P07
+1
+2
+483,00
+1.274,00
+2.065,00
+P06
+1
+2
+469,00
+1.237,00
+2.005,00
+P05
+1
+2
+456,00
+1.202,00
+1.948,00
+P04
+1
+443,00
+1.168,00
+1.892,00
+P03
+1
+430,00
+1.134,00
+1.838,00
+P02
+1
+418,00
+1.102,00
+1.785,00
+P01
+1
+406,00
+1.070,00
+1.734,00
+c) Valor da RT - Efeitos financeiros a partir de 1o de julho de 2010
+Em R$
+PADRÃO DE
+VENCIMENTO BÁSICO
+CLASSE DE
+CAPACITAÇÃO
+VALOR
+DA RT
+I
+II
+III
+IV
+V
+Especialização
+Mestrado
+Doutorado
+P24
+5
+1.548,00
+2.927,00
+3.961,00
+P23
+4
+5
+1.504,00
+2.843,00
+3.847,00
+P22
+3
+4
+5
+1.461,00
+2.762,00
+3.737,00
+P21
+2
+3
+4
+5
+1.419,00
+2.683,00
+3.630,00
+P20
+1
+2
+3
+4
+5
+1.378,00
+2.606,00
+3.526,00
+P19
+1
+2
+3
+4
+5
+1.339,00
+2.531,00
+3.425,00
+P18
+1
+2
+3
+4
+5
+1.300,00
+2.459,00
+3.327,00
+P17
+1
+2
+3
+4
+5
+1.263,00
+2.388,00
+3.231,00
+P16
+1
+2
+3
+4
+1.227,00
+2.320,00
+3.139,00
+P15
+1
+2
+3
+4
+1.192,00
+2.253,00
+3.049,00
+P14
+1
+2
+3
+4
+1.158,00
+2.189,00
+2.961,00
+P13
+1
+2
+3
+4
+1.124,00
+2.126,00
+2.877,00
+P12
+1
+2
+3
+1.092,00
+2.065,00
+2.794,00
+P11
+1
+2
+3
+1.061,00
+2.006,00
+2.714,00
+P10
+1
+2
+3
+1.031,00
+1.948,00
+2.636,00
+P09
+1
+2
+3
+1.001,00
+1.893,00
+2.561,00
+P08
+1
+2
+972,00
+1.838,00
+2.487,00
+P07
+1
+2
+944,00
+1.786,00
+2.416,00
+P06
+1
+2
+917,00
+1.735,00
+2.347,00
+P05
+1
+2
+891,00
+1.685,00
+2.280,00
+P04
+1
+866,00
+1.637,00
+2.214,00
+P03
+1
+841,00
+1.590,00
+2.151,00
+P02
+1
+817,00
+1.544,00
+2.089,00
+P01
+1
+793,00
+1.500,00
+2.029,00
+ANEXO LXVII
+(Anexo XXI-A da Lei no 11.357, de 19 de outubro de 2006)
+ESTRUTURA E PADRÕES DE VENCIMENTO BÁSICO DOS CARGOS INTEGRANTES DA CARREIRA DE PESQUISA E DESENVOLVIMENTO DE INFORMAÇÕES E AVALIAÇÕES EDUCACIONAIS DO INEP.
+A PARTIR DE 1o DE JULHO DE 2008.
+Em R$
+PADRÃO DE
+VENCIMENTO BÁSICO
+CLASSE DE CAPACITAÇÃO
+I
+II
+III
+IV
+V
+P24
+7.201,00
+5
+P23
+6.994,66
+4
+5
+P22
+6.794,23
+3
+4
+5
+P21
+6.599,54
+2
+3
+4
+5
+P20
+6.410,43
+1
+2
+3
+4
+5
+P19
+6.226,74
+1
+2
+3
+4
+5
+P18
+6.048,31
+1
+2
+3
+4
+5
+P17
+5.875,00
+1
+2
+3
+4
+5
+P16
+5.706,65
+1
+2
+3
+4
+P15
+5.543,13
+1
+2
+3
+4
+P14
+5.384,29
+1
+2
+3
+4
+P13
+5.230,00
+1
+2
+3
+4
+P12
+5.080,14
+1
+2
+3
+P11
+4.934,57
+1
+2
+3
+P10
+4.793,17
+1
+2
+3
+P09
+4.655,82
+1
+2
+3
+P08
+4.522,41
+1
+2
+P07
+4.392,82
+1
+2
+P06
+4.266,95
+1
+2
+P05
+4.144,68
+1
+2
+P04
+4.025,92
+1
+P03
+3.910,56
+1
+P02
+3.798,50
+1
+P01
+3.689,66
+1
+ANEXO LXVIII
+(Anexo XXI-B da Lei no 11.357, de 19 de outubro de 2006)
+ESTRUTURA E PADRÕES DE VENCIMENTO BÁSICO DOS CARGOS INTEGRANTES DA CARREIRA DE SUPORTE TÉCNICO EM INFORMAÇÕES EDUCACIONAIS DO INEP.
+A PARTIR DE 1o DE JULHO DE 2008.
+Em R$
+PADRÃO DE
+VENCIMENTO BÁSICO
+CLASSE DE CAPACITAÇÃO
+I
+II
+III
+IV
+V
+P24
+3.005,19
+5
+P23
+2.975,44
+4
+5
+P22
+2.945,98
+3
+4
+5
+P21
+2.916,81
+2
+3
+4
+5
+P20
+2.887,93
+1
+2
+3
+4
+5
+P19
+2.859,34
+1
+2
+3
+4
+5
+P18
+2.831,03
+1
+2
+3
+4
+5
+P17
+2.803,00
+1
+2
+3
+4
+5
+P16
+2.775,25
+1
+2
+3
+4
+P15
+2.747,77
+1
+2
+3
+4
+P14
+2.720,56
+1
+2
+3
+4
+P13
+2.693,62
+1
+2
+3
+4
+P12
+2.590,02
+1
+2
+3
+P11
+2.490,40
+1
+2
+3
+P10
+2.394,62
+1
+2
+3
+P09
+2.302,52
+1
+2
+3
+P08
+2.213,96
+1
+2
+P07
+2.128,81
+1
+2
+P06
+2.046,93
+1
+2
+P05
+1.968,20
+1
+2
+P04
+1.892,50
+1
+P03
+1.819,71
+1
+P02
+1.749,72
+1
+P01
+1.682,42
+1
+ANEXO LXIX
+(Anexo XXI-C da Lei no 11.357, de 19 de outubro de 2006)
+TABELAS DE CORRELAÇÃO PARA OS CARGOS INTEGRANTES DAS CARREIRAS DO INEP
+SITUAÇÃO ATUAL
+SITUAÇÃO NOVA
+CLASSE
+PADRÃO
+PADRÃO DE VENCIMENTO
+BÁSICO
+CLASSE DE CAPACITAÇÃO
+I
+II
+III
+IV
+V
+P24
+5
+P23
+4
+5
+P22
+3
+4
+5
+P21
+2
+3
+4
+5
+P20
+1
+2
+3
+4
+5
+P19
+1
+2
+3
+4
+5
+P18
+1
+2
+3
+4
+5
+P17
+1
+2
+3
+4
+5
+P16
+1
+2
+3
+4
+ESPECIAL
+IV
+P15
+1
+2
+3
+4
+III
+P14
+1
+2
+3
+4
+II
+P13
+1
+2
+3
+4
+I
+P12
+1
+2
+3
+B
+V
+P11
+1
+2
+3
+IV
+P10
+1
+2
+3
+III
+P09
+1
+2
+3
+II
+P08
+1
+2
+I
+P07
+1
+2
+A
+VI
+P06
+1
+2
+V
+P05
+1
+2
+IV
+P04
+1
+III
+P03
+1
+II
+P02
+1
+I
+P01
+1
+ANEXO LXX
+(Anexo XXIII-A da Lei no 11.357, de 19 de outubro de 2006)
+ESTRUTURA E PADRÕES DE VENCIMENTO BÁSICO DOS CARGOS DE NÍVEL SUPERIOR E INTERMEDIÁRIO, INTEGRANTES DO PLANO ESPECIAL
+DE CARGOS DO INEP
+a) Vencimento básico dos cargos de Nível Superior
+PADRÃO DE VENCIMENTO
+BÁSICO
+VENCIMENTO BÁSICO A PARTIR DE (Em R$)
+CLASSE DE CAPACITAÇÃO
+1o JUL
+2008
+1o JUL
+2009
+1o JUL
+2010
+I
+II
+III
+IV
+V
+P24
+4.641,97
+5.277,92
+6.001,00
+5
+P23
+4.524,34
+5.144,18
+5.821,69
+4
+5
+P22
+4.409,69
+5.013,82
+5.647,74
+3
+4
+5
+P21
+4.297,94
+4.886,76
+5.478,99
+2
+3
+4
+5
+P20
+4.189,03
+4.762,92
+5.315,28
+1
+2
+3
+4
+5
+P19
+4.082,88
+4.642,22
+5.156,46
+1
+2
+3
+4
+5
+P18
+3.979,42
+4.524,58
+5.002,39
+1
+2
+3
+4
+5
+P17
+3.878,58
+4.409,92
+4.852,92
+1
+2
+3
+4
+5
+P16
+3.780,29
+4.298,17
+4.707,92
+1
+2
+3
+4
+P15
+3.684,49
+4.189,25
+4.567,25
+1
+2
+3
+4
+P14
+3.591,12
+4.083,09
+4.430,78
+1
+2
+3
+4
+P13
+3.500,12
+3.979,62
+4.298,39
+1
+2
+3
+4
+P12
+3.411,42
+3.878,77
+4.169,96
+1
+2
+3
+P11
+3.324,97
+3.780,48
+4.045,36
+1
+2
+3
+P10
+3.240,71
+3.684,68
+3.924,49
+1
+2
+3
+P09
+3.158,59
+3.591,31
+3.807,23
+1
+2
+3
+P08
+3.078,55
+3.500,30
+3.693,47
+1
+2
+P07
+3.000,54
+3.411,60
+3.583,11
+1
+2
+P06
+2.924,50
+3.325,15
+3.476,05
+1
+2
+P05
+2.850,39
+3.240,89
+3.372,19
+1
+2
+P04
+2.778,16
+3.158,76
+3.271,43
+1
+P03
+2.707,76
+3.078,71
+3.173,68
+1
+P02
+2.639,14
+3.000,69
+3.078,85
+1
+P01
+2.572,26
+2.924,65
+2.986,85
+1
+b) Vencimento básico dos cargos de Nível Intermediário
+PADRÃO DE VENCIMENTO
+BÁSICO
+VENCIMENTO BÁSICO A PARTIR DE (Em R$)
+CLASSE DE CAPACITAÇÃO
+1o JUL
+2008
+1o JUL
+2009
+1o JUL
+2010
+I
+II
+III
+IV
+V
+P24
+2.412,81
+2.528,63
+2.650,00
+5
+P23
+2.354,42
+2.467,43
+2.585,87
+4
+5
+P22
+2.297,44
+2.407,72
+2.523,29
+3
+4
+5
+P21
+2.241,84
+2.349,45
+2.462,23
+2
+3
+4
+5
+P20
+2.187,59
+2.292,59
+2.402,64
+1
+2
+3
+4
+5
+P19
+2.134,65
+2.237,11
+2.344,50
+1
+2
+3
+4
+5
+P18
+2.082,99
+2.182,97
+2.287,76
+1
+2
+3
+4
+5
+P17
+2.032,58
+2.130,14
+2.232,40
+1
+2
+3
+4
+5
+P16
+1.983,39
+2.078,59
+2.178,38
+1
+2
+3
+4
+P15
+1.935,39
+2.028,29
+2.125,66
+1
+2
+3
+4
+P14
+1.888,55
+1.979,21
+2.074,22
+1
+2
+3
+4
+P13
+1.842,85
+1.931,31
+2.024,02
+1
+2
+3
+4
+P12
+1.798,25
+1.884,57
+1.975,04
+1
+2
+3
+P11
+1.754,73
+1.838,96
+1.927,24
+1
+2
+3
+P10
+1.712,27
+1.794,46
+1.880,60
+1
+2
+3
+P09
+1.670,83
+1.751,03
+1.835,09
+1
+2
+3
+P08
+1.630,40
+1.708,66
+1.790,68
+1
+2
+P07
+1.590,94
+1.667,31
+1.747,35
+1
+2
+P06
+1.552,44
+1.626,96
+1.705,06
+1
+2
+P05
+1.514,87
+1.587,59
+1.663,80
+1
+2
+P04
+1.478,21
+1.549,17
+1.623,54
+1
+P03
+1.442,44
+1.511,68
+1.584,25
+1
+P02
+1.407,53
+1.475,10
+1.545,91
+1
+P01
+1.373,47
+1.439,40
+1.508,50
+1
+ANEXO LXXI
+(Anexo XXIII-B da Lei no 11.357, de 19 de outubro de 2006)
+ESTRUTURA DE CLASSES E PADRÕES DOS CARGOS DE NÍVEL AUXILIAR DO PLANO ESPECIAL DE CARGOS DO INEP
+CARGO
+CLASSE
+PADRÃO
+Cargos efetivos de nível
+auxiliar do Plano
+Especial de Cargos do Inep
+ESPECIAL
+III
+II
+I
+ANEXO LXXII
+(Anexo XXIV-A da Lei no 11.357, de 19 de outubro de 2006)
+TABELA DE CORRELAÇÃO PARA OS CARGOS DE NÍVEL SUPERIOR E DE NÍVEL INTERMEDIÁRIO DO PLANO ESPECIAL DE CARGOS - INEP
+SITUAÇÃO ATUAL
+SITUAÇÃO NOVA
+CLASSE
+PADRÃO
+PADRÃO DE VENCIMENTO
+BÁSICO
+CLASSE DE CAPACITAÇÃO
+I
+II
+III
+IV
+V
+P24
+5
+P23
+4
+5
+P22
+3
+4
+5
+P21
+2
+3
+4
+5
+ESPECIAL
+III
+P20
+1
+2
+3
+4
+5
+II
+P19
+1
+2
+3
+4
+5
+I
+P18
+1
+2
+3
+4
+5
+C
+VI
+P17
+1
+2
+3
+4
+5
+V
+P16
+1
+2
+3
+4
+IV
+P15
+1
+2
+3
+4
+III
+P14
+1
+2
+3
+4
+II
+P13
+1
+2
+3
+4
+I
+P12
+1
+2
+3
+B
+VI
+P11
+1
+2
+3
+V
+P10
+1
+2
+3
+IV
+P09
+1
+2
+3
+III
+P08
+1
+2
+II
+P07
+1
+2
+I
+P06
+1
+2
+A
+V
+P05
+1
+2
+IV
+P04
+1
+III
+P03
+1
+II
+P02
+1
+I
+P01
+1
+ANEXO LXXIII
+(Anexo XXIV-B da Lei no 11.357, de 19 de outubro de 2006)
+TABELA DE CORRELAÇÃO PARA OS CARGOS DE NÍVEL AUXILIAR DO PLANO ESPECIAL DE CARGOS DO INEP
+SITUAÇÃO ATUAL
+SITUAÇÃO NOVA
+CARGOS
+CLASSE
+PADRÃO
+PADRÃO
+CLASSE
+CARGOS
+Cargos de provimento efetivo de nível auxiliar do Plano Especial de Cargos do
+Inep
+ESPECIAL
+III
+III
+ESPECIAL
+Cargos de provimento efetivo de nível
+auxiliar
+do Plano Especial de
+Cargos do Inep
+II
+II
+I
+I
+C
+VI
+V
+IV
+III
+II
+I
+B
+VI
+V
+IV
+III
+II
+I
+A
+V
+IV
+III
+II
+I
+ANEXO LXXIV
+(Anexo XXIV-C da Lei no 11.357, de 19 de outubro de 2006)
+VENCIMENTO BÁSICO DOS CARGOS DE NÍVEL AUXILIAR, INTEGRANTES DO PLANO ESPECIAL DE CARGOS DO INEP
+Em R$
+CLASSE
+PADRÃO
+VENCIMENTO BÁSICO
+EFEITOS FINANCEIROS A PARTIR DE
+1o JUL 2008
+1o JUL 2009
+1o JUL 2010
+ESPECIAL
+III
+1.263,53
+1.276,04
+1.288,80
+II
+1.227,32
+1.239,48
+1.251,87
+I
+1.192,15
+1.203,96
+1.216,00
+ANEXO LXXV
+(Anexo XXV-A da Lei no 11.357, de 19 de outubro de 2006)
+TABELA PARA PROMOÇÃO POR CAPACITAÇÃO PROFISSIONAL PARA OS CARGOS INTEGRANTES DAS CARREIRAS DO INEP E PARA OS CARGOS DE NÍVEL SUPERIOR E DE NÍVEL INTERMEDIÁRIO DO PLANO ESPECIAL
+DE CARGOS DO INEP
+CLASSE DE CAPACITAÇÃO
+CARGA HORÁRIA MÍNIMA PARA PROMOÇÃO POR CAPACITAÇÃO
+I
+Exigência mínima do Cargo
+II
+120 horas
+III
+150 horas
+IV
+Aperfeiçoamento ou curso de capacitação superior a 180 horas
+V
+Aperfeiçoamento ou curso de capacitação superior a 210 horas
+ANEXO LXXVI
+(Anexo XXV-B da Lei no 11.357, de 19 de outubro de 2006)
+VALOR DO PONTO DA GRATIFICAÇÃO DE DESEMPENHO DE ATIVIDADES ESPECIALIZADAS E TÉCNICAS DE INFORMAÇÕES E AVALIAÇÕES EDUCACIONAIS - GDIAE
+a) Valor do ponto da GDIAE para os cargos integrantes da Carreira de Pesquisa e
+Desenvolvimento de Informações e Avaliações Educacionais
+Em R$
+PADRÃO DE VENCIMENTO
+BÁSICO
+CLASSE DE CAPACITAÇÃO
+VALOR DO PONTO DA GDIAE A
+PARTIR DE
+1o JUL
+2008
+1o JUL
+2009
+1o JUL
+2010
+I
+II
+III
+IV
+V
+P24
+5
+25,20
+26,64
+29,42
+P23
+4
+5
+24,48
+25,88
+28,58
+P22
+3
+4
+5
+23,78
+25,14
+27,76
+P21
+2
+3
+4
+5
+23,10
+24,42
+26,96
+P20
+1
+2
+3
+4
+5
+22,44
+23,72
+26,19
+P19
+1
+2
+3
+4
+5
+21,80
+23,04
+25,44
+P18
+1
+2
+3
+4
+5
+21,18
+22,38
+24,71
+P17
+1
+2
+3
+4
+5
+20,57
+21,74
+24,00
+P16
+1
+2
+3
+4
+19,98
+21,12
+23,31
+P15
+1
+2
+3
+4
+19,41
+20,51
+22,64
+P14
+1
+2
+3
+4
+18,85
+19,92
+21,99
+P13
+1
+2
+3
+4
+18,31
+19,35
+21,36
+P12
+1
+2
+3
+17,79
+18,80
+20,75
+P11
+1
+2
+3
+17,28
+18,26
+20,16
+P10
+1
+2
+3
+16,78
+17,74
+19,58
+P09
+1
+2
+3
+16,30
+17,23
+19,02
+P08
+1
+2
+15,83
+16,74
+18,47
+P07
+1
+2
+15,38
+16,26
+17,94
+P06
+1
+2
+14,94
+15,79
+17,43
+P05
+1
+2
+14,51
+15,34
+16,93
+P04
+1
+14,09
+14,90
+16,44
+P03
+1
+13,69
+14,47
+15,97
+P02
+1
+13,30
+14,06
+15,51
+P01
+1
+12,92
+13,66
+15,07
+b) Valor do ponto da GDIAE para os cargos integrantes da Carreira de Suporte Técnico em
+Informações Educacionais
+Em R$
+PADRÃO DE VENCIMENTO
+BÁSICO
+CLASSE DE CAPACITAÇÃO
+VALOR DO PONTO DA
+GDIAE A PARTIR DE
+1o JUL
+2008
+1o JUL
+2009
+1o JUL
+2010
+I
+II
+III
+IV
+V
+P24
+5
+10,52
+11,12
+12,28
+P23
+4
+5
+10,36
+10,95
+12,10
+P22
+3
+4
+5
+10,21
+10,79
+11,92
+P21
+2
+3
+4
+5
+10,06
+10,63
+11,74
+P20
+1
+2
+3
+4
+5
+9,91
+10,47
+11,57
+P19
+1
+2
+3
+4
+5
+9,76
+10,32
+11,40
+P18
+1
+2
+3
+4
+5
+9,62
+10,17
+11,23
+P17
+1
+2
+3
+4
+5
+9,48
+10,02
+11,06
+P16
+1
+2
+3
+4
+9,34
+9,87
+10,90
+P15
+1
+2
+3
+4
+9,20
+9,72
+10,74
+P14
+1
+2
+3
+4
+9,06
+9,58
+10,58
+P13
+1
+2
+3
+4
+8,93
+9,44
+10,42
+P12
+1
+2
+3
+8,80
+9,30
+10,27
+P11
+1
+2
+3
+8,67
+9,16
+10,12
+P10
+1
+2
+3
+8,54
+9,02
+9,97
+P09
+1
+2
+3
+8,41
+8,89
+9,82
+P08
+1
+2
+8,29
+8,76
+9,67
+P07
+1
+2
+8,17
+8,63
+9,53
+P06
+1
+2
+8,05
+8,50
+9,39
+P05
+1
+2
+7,93
+8,37
+9,25
+P04
+1
+7,81
+8,25
+9,11
+P03
+1
+7,69
+8,13
+8,98
+P02
+1
+7,58
+8,01
+8,85
+P01
+1
+7,47
+7,89
+8,72
+ANEXO LXXVII
+(Anexo XXV-C da Lei no 11.357, de 19 de outubro de 2006)
+VALOR DO PONTO DA GRATIFICAÇÃO DE DESEMPENHO DE ATIVIDADES DE ESTUDOS, PESQUISAS E AVALIAÇÕES EDUCACIONAIS - GDINEP
+a) Valor do ponto da GDINEP para os cargos de Nível Superior
+Em R$
+PADRÃO DE VENCIMENTO
+BÁSICO
+CLASSE DE CAPACITAÇÃO
+VALOR DO PONTO DA GDINEP A
+PARTIR DE
+1o JUL
+2008
+1o JUL
+2009
+1o JUL
+2010
+I
+II
+III
+IV
+V
+P24
+5
+13,63
+20,79
+23,33
+P23
+4
+5
+13,36
+20,16
+22,66
+P22
+3
+4
+5
+13,10
+19,55
+22,01
+P21
+2
+3
+4
+5
+12,84
+18,96
+21,38
+P20
+1
+2
+3
+4
+5
+12,59
+18,39
+20,77
+P19
+1
+2
+3
+4
+5
+12,34
+17,84
+20,17
+P18
+1
+2
+3
+4
+5
+12,10
+17,30
+19,59
+P17
+1
+2
+3
+4
+5
+11,86
+16,78
+19,03
+P16
+1
+2
+3
+4
+11,63
+16,28
+18,48
+P15
+1
+2
+3
+4
+11,40
+15,79
+17,95
+P14
+1
+2
+3
+4
+11,18
+15,32
+17,44
+P13
+1
+2
+3
+4
+10,96
+14,86
+16,94
+P12
+1
+2
+3
+10,75
+14,41
+16,45
+P11
+1
+2
+3
+10,54
+13,98
+15,98
+P10
+1
+2
+3
+10,33
+13,56
+15,52
+P09
+1
+2
+3
+10,13
+13,15
+15,08
+P08
+1
+2
+9,93
+12,75
+14,65
+P07
+1
+2
+9,74
+12,37
+14,23
+P06
+1
+2
+9,55
+12,00
+13,82
+P05
+1
+2
+9,36
+11,64
+13,42
+P04
+1
+9,18
+11,29
+13,04
+P03
+1
+9,00
+10,95
+12,67
+P02
+1
+8,82
+10,62
+12,31
+P01
+1
+8,65
+10,30
+11,96
+b) Valor do ponto da GDINEP para os cargos de Nível Intermediário
+Em R$
+PADRÃO DE VENCIMENTO
+BÁSICO
+CLASSE DE CAPACITAÇÃO
+VALOR DO PONTO DA GDINEP A
+PARTIR DE
+1o JUL
+2008
+1o JUL
+2009
+1o JUL
+2010
+I
+II
+III
+IV
+V
+P24
+5
+9,95
+11,95
+15,23
+P23
+4
+5
+9,69
+11,61
+14,79
+P22
+3
+4
+5
+9,44
+11,28
+14,37
+P21
+2
+3
+4
+5
+9,19
+10,96
+13,96
+P20
+1
+2
+3
+4
+5
+8,95
+10,65
+13,56
+P19
+1
+2
+3
+4
+5
+8,71
+10,34
+13,17
+P18
+1
+2
+3
+4
+5
+8,48
+10,04
+12,79
+P17
+1
+2
+3
+4
+5
+8,26
+9,75
+12,42
+P16
+1
+2
+3
+4
+8,04
+9,47
+12,06
+P15
+1
+2
+3
+4
+7,83
+9,20
+11,71
+P14
+1
+2
+3
+4
+7,62
+8,94
+11,37
+P13
+1
+2
+3
+4
+7,42
+8,68
+11,04
+P12
+1
+2
+3
+7,22
+8,43
+10,72
+P11
+1
+2
+3
+7,03
+8,19
+10,41
+P10
+1
+2
+3
+6,85
+7,96
+10,11
+P09
+1
+2
+3
+6,67
+7,73
+9,82
+P08
+1
+2
+6,49
+7,51
+9,54
+P07
+1
+2
+6,32
+7,29
+9,27
+P06
+1
+2
+6,15
+7,08
+9,00
+P05
+1
+2
+5,99
+6,88
+8,74
+P04
+1
+5,83
+6,68
+8,49
+P03
+1
+5,68
+6,49
+8,25
+P02
+1
+5,53
+6,30
+8,01
+P01
+1
+5,38
+6,12
+7,78
+c) Valor do ponto da GDINEP para os cargos de Nível Auxiliar
+CLASSE
+PADRÃO
+VALOR DO PONTO DA GDINEP A PARTIR DE
+1o JUL 2008
+1o JUL 2009
+1o JUL 2010
+ESPECIAL
+III
+3,87
+4,85
+5,87
+II
+3,76
+4,71
+5,70
+I
+3,65
+4,58
+5,54
+ANEXO LXXVIII
+(Anexo XXV-D da Lei no 11.357, de 19 de outubro de 2006)
+VALORES DA RETRIBUIÇÃO POR TITULAÇÃO - RT DOS CARGOS DE NÍVEL SUPERIOR DA CARREIRA DE PESQUISA E DESENVOLVIMENTO DE INFORMAÇÕES E AVALIAÇÕES EDUCACIONAIS E DO PLANO ESPECIAL DE CARGOS DO INEP
+a) Tabela I: Valores da RT - Efeitos financeiros a partir de 1o de julho de 2008
+Em R$
+PADRÃO DE
+VENCIMENTO BÁSICO
+CLASSE DE CAPACITAÇÃO
+VALOR DA RT
+I
+II
+III
+IV
+V
+Especialização
+Mestrado
+Doutorado
+P24
+5
+720,00
+1.800,00
+3.096,00
+P23
+4
+5
+699,00
+1.749,00
+3.008,00
+P22
+3
+4
+5
+679,00
+1.699,00
+2.922,00
+P21
+2
+3
+4
+5
+660,00
+1.650,00
+2.838,00
+P20
+1
+2
+3
+4
+5
+641,00
+1.603,00
+2.756,00
+P19
+1
+2
+3
+4
+5
+623,00
+1.557,00
+2.677,00
+P18
+1
+2
+3
+4
+5
+605,00
+1.512,00
+2.601,00
+P17
+1
+2
+3
+4
+5
+588,00
+1.469,00
+2.526,00
+P16
+1
+2
+3
+4
+571,00
+1.427,00
+2.454,00
+P15
+1
+2
+3
+4
+554,00
+1.386,00
+2.384,00
+P14
+1
+2
+3
+4
+538,00
+1.346,00
+2.315,00
+P13
+1
+2
+3
+4
+523,00
+1.308,00
+2.249,00
+P12
+1
+2
+3
+508,00
+1.270,00
+2.184,00
+P11
+1
+2
+3
+493,00
+1.234,00
+2.122,00
+P10
+1
+2
+3
+479,00
+1.198,00
+2.061,00
+P09
+1
+2
+3
+466,00
+1.164,00
+2.002,00
+P08
+1
+2
+452,00
+1.131,00
+1.945,00
+P07
+1
+2
+439,00
+1.098,00
+1.889,00
+P06
+1
+2
+427,00
+1.067,00
+1.835,00
+P05
+1
+2
+414,00
+1.036,00
+1.782,00
+P04
+1
+403,00
+1.006,00
+1.731,00
+P03
+1
+391,00
+978,00
+1.682,00
+P02
+1
+380,00
+950,00
+1.633,00
+P01
+1
+369,00
+922,00
+1.587,00
+b) Tabela II: Valores da RT - Efeitos financeiros a partir de 1o de julho de 2009
+Em R$
+PADRÃO DE
+VENCIMENTO BÁSICO
+CLASSE DE CAPACITAÇÃO
+VALOR DA RT
+I
+II
+III
+IV
+V
+Especialização
+Mestrado
+Doutorado
+P24
+5
+792,00
+2.088,00
+3.384,00
+P23
+4
+5
+769,00
+2.028,00
+3.287,00
+P22
+3
+4
+5
+747,00
+1.970,00
+3.193,00
+P21
+2
+3
+4
+5
+726,00
+1.914,00
+3.102,00
+P20
+1
+2
+3
+4
+5
+705,00
+1.859,00
+3.013,00
+P19
+1
+2
+3
+4
+5
+685,00
+1.806,00
+2.927,00
+P18
+1
+2
+3
+4
+5
+665,00
+1.754,00
+2.843,00
+P17
+1
+2
+3
+4
+5
+646,00
+1.704,00
+2.761,00
+P16
+1
+2
+3
+4
+628,00
+1.655,00
+2.682,00
+P15
+1
+2
+3
+4
+610,00
+1.608,00
+2.605,00
+P14
+1
+2
+3
+4
+592,00
+1.561,00
+2.531,00
+P13
+1
+2
+3
+4
+575,00
+1.517,00
+2.458,00
+P12
+1
+2
+3
+559,00
+1.473,00
+2.388,00
+P11
+1
+2
+3
+543,00
+1.431,00
+2.319,00
+P10
+1
+2
+3
+527,00
+1.390,00
+2.253,00
+P09
+1
+2
+3
+512,00
+1.350,00
+2.188,00
+P08
+1
+2
+497,00
+1.311,00
+2.126,00
+P07
+1
+2
+483,00
+1.274,00
+2.065,00
+P06
+1
+2
+469,00
+1.237,00
+2.005,00
+P05
+1
+2
+456,00
+1.202,00
+1.948,00
+P04
+1
+443,00
+1.168,00
+1.892,00
+P03
+1
+430,00
+1.134,00
+1.838,00
+P02
+1
+418,00
+1.102,00
+1.785,00
+P01
+1
+406,00
+1.070,00
+1.734,00
+c) Tabela III: Valores da RT - Efeitos financeiros a partir de 1o de julho de 2010
+Em R$
+PADRÃO DE
+VENCIMENTO BÁSICO
+CLASSE DE CAPACITAÇÃO
+VALOR DA RT
+I
+II
+III
+IV
+V
+Especialização
+Mestrado
+Doutorado
+P24
+5
+1.548,00
+2.927,00
+3.961,00
+P23
+4
+5
+1.504,00
+2.843,00
+3.847,00
+P22
+3
+4
+5
+1.461,00
+2.762,00
+3.737,00
+P21
+2
+3
+4
+5
+1.419,00
+2.683,00
+3.630,00
+P20
+1
+2
+3
+4
+5
+1.378,00
+2.606,00
+3.526,00
+P19
+1
+2
+3
+4
+5
+1.339,00
+2.531,00
+3.425,00
+P18
+1
+2
+3
+4
+5
+1.300,00
+2.459,00
+3.327,00
+P17
+1
+2
+3
+4
+5
+1.263,00
+2.388,00
+3.231,00
+P16
+1
+2
+3
+4
+1.227,00
+2.320,00
+3.139,00
+P15
+1
+2
+3
+4
+1.192,00
+2.253,00
+3.049,00
+P14
+1
+2
+3
+4
+1.158,00
+2.189,00
+2.961,00
+P13
+1
+2
+3
+4
+1.124,00
+2.126,00
+2.877,00
+P12
+1
+2
+3
+1.092,00
+2.065,00
+2.794,00
+P11
+1
+2
+3
+1.061,00
+2.006,00
+2.714,00
+P10
+1
+2
+3
+1.031,00
+1.948,00
+2.636,00
+P09
+1
+2
+3
+1.001,00
+1.893,00
+2.561,00
+P08
+1
+2
+972,00
+1.838,00
+2.487,00
+P07
+1
+2
+944,00
+1.786,00
+2.416,00
+P06
+1
+2
+917,00
+1.735,00
+2.347,00
+P05
+1
+2
+891,00
+1.685,00
+2.280,00
+P04
+1
+866,00
+1.637,00
+2.214,00
+P03
+1
+841,00
+1.590,00
+2.151,00
+P02
+1
+817,00
+1.544,00
+2.089,00
+P01
+1
+793,00
+1.500,00
+2.029,00
+ANEXO LXXIX
+(Anexo XXV-E da Lei no 11.357, de 19 de outubro de 2006)
+VALORES DA GRATIFICAÇÃO POR QUALIFICAÇÃO - GQ DOS CARGOS DE NÍVEL INTERMEDIÁRIO DA CARREIRA DE SUPORTE TÉCNICO EM INFORMAÇÕES EDUCACIONAIS DO INEP E DO PLANO ESPECIAL DE CARGOS DO INEP
+PADRÃO DE
+VENCIMENTO BÁSICO
+CLASSE DE CAPACITAÇÃO
+VALOR DA GQ A PARTIR DE
+1o JUL
+2008
+1o JUL
+2009
+1o JUL
+2010
+I
+II
+III
+IV
+V
+P24
+5
+620,00
+633,00
+646,00
+P23
+4
+5
+607,00
+619,00
+632,00
+P22
+3
+4
+5
+594,00
+606,00
+618,00
+P21
+2
+3
+4
+5
+581,00
+593,00
+605,00
+P20
+1
+2
+3
+4
+5
+568,00
+580,00
+592,00
+P19
+1
+2
+3
+4
+5
+556,00
+568,00
+579,00
+P18
+1
+2
+3
+4
+5
+544,00
+556,00
+567,00
+P17
+1
+2
+3
+4
+5
+532,00
+544,00
+555,00
+P16
+1
+2
+3
+4
+521,00
+532,00
+543,00
+P15
+1
+2
+3
+4
+510,00
+521,00
+531,00
+P14
+1
+2
+3
+4
+499,00
+510,00
+520,00
+P13
+1
+2
+3
+4
+488,00
+499,00
+509,00
+P12
+1
+2
+3
+477,00
+488,00
+498,00
+P11
+1
+2
+3
+467,00
+477,00
+487,00
+P10
+1
+2
+3
+457,00
+467,00
+477,00
+P09
+1
+2
+3
+447,00
+457,00
+467,00
+P08
+1
+2
+437,00
+447,00
+457,00
+P07
+1
+2
+428,00
+437,00
+447,00
+P06
+1
+2
+419,00
+428,00
+437,00
+P05
+1
+2
+410,00
+419,00
+428,00
+P04
+1
+401,00
+410,00
+419,00
+P03
+1
+392,00
+401,00
+410,00
+P02
+1
+384,00
+392,00
+401,00
+P01
+1
+376,00
+384,00
+392,00
+ANEXO LXXX
+(Anexo II da Lei no 11.319, de 6 de julho de 2006)
+VENCIMENTO BÁSICO DOS CARGOS DE JUIZ-PRESIDENTE E JUIZ DO TRIBUNAL MARÍTIMO
+CARGOS
+VENCIMENTO BÁSICO
+EFEITOS FINANCEIROS A PARTIR DE
+1o JUL 2008
+1o JUL 2009
+1o JUL 2010
+Juiz-Presidente
+Juiz do Tribunal Marítimo
+10.360,25
+11.341,61
+12.081,36
+ANEXO LXXXI
+(Anexo III da Lei no 11.319, de 6 de julho de 2006)
+VALOR DO PONTO DA GRATIFICAÇÃO DE DESEMPENHO DE ATIVIDADE DO TRIBUNAL MARÍTIMO - GDATM
+CARGOS
+VALOR DO PONTO DA GDATM
+EFEITOS FINANCEIROS A PARTIR DE
+1o JUL 2008
+1o JUL 2009
+1o JUL 2010
+Juiz-Presidente
+Juiz do Tribunal Marítimo
+41,44
+45,37
+48,33
+ANEXO LXXXII
+(Anexo com redação dada pelo Anexo CCLXX à Lei nº 15.141, de 2/6/2025)
+TABELA DE VALORES DA GRATIFICAÇÃO DE APOIO À EXECUÇÃO DA POLÍTICA INDIGENISTA - GAPIN
+a) Valor da GAPIN para os cargos de nível superior:
+Em R$
+CLASSE
+PADRÃO
+VALOR DA GAPIN
+EFEITOS FINANCEIROS A PARTIR DE 1º DE JANEIRO DE 2024
+BANDA I
+BANDA II
+BANDA III
+ESPECIAL
+III
+2.927,48
+3.331,97
+3.798,69
+II
+2.899,34
+3.300,20
+3.762,72
+I
+2.863,11
+3.261,25
+3.720,64
+C
+VI
+2.860,82
+3.256,18
+3.712,35
+V
+2.825,58
+3.218,26
+3.671,35
+IV
+2.787,07
+3.174,24
+3.620,98
+III
+2.749,87
+3.131,64
+3.572,15
+II
+2.711,98
+3.088,36
+3.522,65
+I
+2.674,85
+3.045,85
+3.473,92
+B
+VI
+2.665,72
+3.037,17
+3.465,77
+V
+2.570,43
+2.925,99
+3.336,26
+IV
+2.477,78
+2.817,93
+3.210,42
+III
+2.387,97
+2.713,23
+3.088,53
+II
+2.302,52
+2.613,53
+2.972,39
+I
+2.218,44
+2.515,59
+2.858,45
+A
+V
+2.160,73
+2.449,44
+2.782,56
+IV
+2.081,60
+2.357,20
+2.675,21
+III
+2.004,91
+2.267,86
+2.571,25
+II
+1.930,88
+2.181,64
+2.470,98
+I
+1.859,16
+2.098,16
+2.373,92
+b) Valor da GAPIN para os cargos de nível intermediário:
+Em R$
+CLASSE
+PADRÃO
+VALOR DA GAPIN
+EFEITOS FINANCEIROS A PARTIR DE 1º DE JANEIRO DE 2024
+BANDA I
+BANDA II
+BANDA III
+ESPECIAL
+III
+1.585,53
+1.673,62
+1.761,70
+II
+1.551,85
+1.638,07
+1.724,28
+I
+1.517,74
+1.602,06
+1.686,38
+C
+VI
+1.437,16
+1.517,00
+1.596,84
+V
+1.402,73
+1.480,66
+1.558,59
+IV
+1.371,45
+1.447,64
+1.523,83
+III
+1.339,72
+1.414,15
+1.488,58
+II
+1.307,55
+1.380,19
+1.452,83
+I
+1.276,69
+1.347,61
+1.418,54
+B
+VI
+1.203,15
+1.269,99
+1.336,83
+V
+1.172,78
+1.237,94
+1.303,09
+IV
+1.141,94
+1.205,38
+1.268,82
+III
+1.113,29
+1.175,14
+1.236,99
+II
+1.085,06
+1.145,34
+1.205,62
+I
+1.054,56
+1.113,14
+1.171,73
+A
+V
+985,79
+1.040,55
+1.095,32
+IV
+959,26
+1.012,55
+1.065,84
+III
+930,41
+982,10
+1.033,79
+II
+902,85
+953,01
+1.003,17
+I
+874,77
+923,37
+971,97
+c) Valor da GAPIN para os cargos de nível auxiliar:
+Em R$
+CLASSE
+PADRÃO
+VALOR DA GAPIN
+EFEITOS FINANCEIROS A PARTIR DE 1º DE JANEIRO DE 2024
+BANDA I
+BANDA II
+BANDA III
+ESPECIAL
+III
+1.013,72
+1.062,19
+1.159,12
+II
+1.010,89
+1.058,55
+1.153,87
+I
+1.008,13
+1.055,01
+1.148,77
+d) Valor da GAPIN para os cargos de nível superior, a partir de 1º de janeiro de 2025:
+Em R$
+CLASSE
+PADRÃO
+VALOR DA GAPIN
+EFEITOS FINANCEIROS A PARTIR DE
+1º DE JANEIRO DE 2025
+1º DE DEZEMBRO DE 2025
+BANDA I
+BANDA II
+BANDA III
+BANDA I
+BANDA II
+BANDA III
+ESPECIAL
+V
+4.264,06
+4.971,92
+5.788,68
+4.291,05
+5.000,32
+5.818,72
+IV
+4.224,84
+4.926,35
+5.735,76
+4.251,36
+4.954,27
+5.765,30
+III
+4.167,47
+4.859,35
+5.657,65
+4.193,57
+4.886,84
+5.686,74
+II
+4.187,89
+4.884,63
+5.688,57
+4.213,42
+4.911,55
+5.717,10
+I
+4.131,33
+4.818,52
+5.611,43
+4.156,45
+4.845,02
+5.639,51
+C
+V
+4.073,96
+4.751,51
+5.533,31
+4.098,69
+4.777,59
+5.560,96
+IV
+4.017,99
+4.686,09
+5.456,98
+4.042,33
+4.711,76
+5.484,19
+III
+3.961,71
+4.620,38
+5.380,39
+3.985,66
+4.645,65
+5.407,18
+II
+3.905,86
+4.555,11
+5.304,23
+3.929,43
+4.579,98
+5.330,60
+I
+3.904,46
+4.554,50
+5.304,55
+3.927,55
+4.578,89
+5.330,44
+B
+V
+3.746,83
+4.369,06
+5.087,03
+3.769,35
+4.392,83
+5.112,23
+IV
+3.593,81
+4.189,07
+4.875,93
+3.615,79
+4.212,24
+4.900,47
+III
+3.445,76
+4.014,97
+4.671,74
+3.467,20
+4.037,55
+4.695,63
+II
+3.304,44
+3.848,71
+4.476,71
+3.325,36
+3.870,72
+4.499,97
+I
+3.166,41
+3.686,42
+4.286,43
+3.186,82
+3.707,87
+4.309,08
+A
+V
+3.079,11
+3.584,35
+4.167,31
+3.098,93
+3.605,18
+4.189,30
+IV
+2.948,83
+3.431,13
+3.987,64
+2.968,17
+3.451,43
+4.009,06
+III
+2.822,82
+3.282,98
+3.813,92
+2.841,70
+3.302,78
+3.834,78
+II
+2.701,48
+3.140,31
+3.646,66
+2.719,90
+3.159,61
+3.666,97
+I
+2.584,18
+3.002,43
+3.485,01
+2.602,16
+3.021,24
+3.504,79
+e) Valor da GAPIN para os cargos de nível superior, a partir de 1º de janeiro de 2026:
+Em R$
+CLASSE
+PADRÃO
+VALOR DA GAPIN
+EFEITOS FINANCEIROS A PARTIR DE
+1º DE JANEIRO DE 2026
+1º DE ABRIL DE 2026
+BANDA I
+BANDA II
+BANDA III
+BANDA I
+BANDA II
+BANDA III
+ESPECIAL
+V
+5.600,64
+6.611,87
+7.778,67
+6.096,30
+7.197,02
+8.467,08
+IV
+5.550,34
+6.552,49
+7.708,81
+6.041,55
+7.132,40
+8.391,03
+III
+5.512,67
+6.508,02
+7.656,49
+5.958,58
+7.034,45
+8.275,81
+II
+5.474,12
+6.462,51
+7.602,95
+6.000,54
+7.083,97
+8.334,10
+I
+5.437,09
+6.418,78
+7.551,51
+5.918,26
+6.986,84
+8.219,82
+C
+V
+5.360,85
+6.328,79
+7.445,63
+5.835,29
+6.888,88
+8.104,58
+IV
+5.286,11
+6.240,55
+7.341,82
+5.753,93
+6.792,83
+7.991,56
+III
+5.211,45
+6.152,40
+7.238,12
+5.672,65
+6.696,89
+7.878,70
+II
+5.143,20
+6.071,83
+7.143,33
+5.591,48
+6.601,07
+7.765,95
+I
+5.136,87
+6.064,36
+7.134,54
+5.598,37
+6.609,19
+7.775,51
+B
+V
+4.923,22
+5.812,13
+6.837,80
+5.358,94
+6.326,50
+7.442,95
+IV
+4.709,84
+5.560,22
+6.541,44
+5.126,66
+6.052,29
+7.120,36
+III
+4.503,56
+5.316,71
+6.254,95
+4.902,11
+5.787,24
+6.808,51
+II
+4.306,35
+5.083,88
+5.981,04
+4.687,47
+5.533,81
+6.510,35
+I
+4.114,38
+4.857,25
+5.714,41
+4.478,50
+5.287,12
+6.220,14
+A
+V
+3.997,48
+4.719,25
+5.552,06
+4.351,27
+5.136,91
+6.043,42
+IV
+3.816,05
+4.505,06
+5.300,07
+4.153,78
+4.903,76
+5.769,13
+III
+3.640,74
+4.298,10
+5.056,59
+3.962,93
+4.678,48
+5.504,10
+II
+3.472,08
+4.098,99
+4.822,34
+3.779,36
+4.461,74
+5.249,12
+I
+3.309,19
+3.906,69
+4.596,10
+3.602,06
+4.252,44
+5.002,85
+f) Valor da GAPIN para os cargos de nível intermediário, a partir de 1º de janeiro de 2025:
+Em R$
+CLASSE
+PADRÃO
+VALOR DA GAPIN
+EFEITOS FINANCEIROS A PARTIR DE
+1º DE JANEIRO DE 2025
+1º DE ABRIL DE 2026
+BANDA I
+BANDA II
+BANDA III
+BANDA I
+BANDA II
+BANDA III
+ESPECIAL
+V
+1.654,20
+1.746,11
+1.838,00
+1.725,85
+1.821,74
+1.917,61
+IV
+1.619,06
+1.709,02
+1.798,96
+1.689,18
+1.783,04
+1.876,88
+III
+1.583,48
+1.671,45
+1.759,42
+1.652,06
+1.743,84
+1.835,62
+II
+1.499,41
+1.582,70
+1.666,00
+1.564,35
+1.651,25
+1.738,16
+I
+1.463,49
+1.544,79
+1.626,10
+1.526,88
+1.611,70
+1.696,53
+C
+V
+1.430,85
+1.510,34
+1.589,83
+1.492,82
+1.575,76
+1.658,69
+IV
+1.397,75
+1.475,40
+1.553,05
+1.458,29
+1.539,30
+1.620,32
+III
+1.364,18
+1.439,97
+1.515,76
+1.423,27
+1.502,34
+1.581,41
+II
+1.331,99
+1.405,98
+1.479,98
+1.389,68
+1.466,88
+1.544,08
+I
+1.255,26
+1.325,00
+1.394,73
+1.309,63
+1.382,39
+1.455,14
+B
+V
+1.223,58
+1.291,56
+1.359,53
+1.276,58
+1.347,50
+1.418,41
+IV
+1.191,40
+1.257,59
+1.323,78
+1.243,00
+1.312,06
+1.381,12
+III
+1.161,51
+1.226,04
+1.290,57
+1.211,82
+1.279,14
+1.346,47
+II
+1.132,06
+1.194,95
+1.257,84
+1.181,09
+1.246,71
+1.312,32
+I
+1.100,24
+1.161,35
+1.222,48
+1.147,89
+1.211,65
+1.275,43
+A
+V
+1.028,49
+1.085,62
+1.142,76
+1.073,04
+1.132,64
+1.192,26
+IV
+1.000,81
+1.056,41
+1.112,00
+1.044,16
+1.102,17
+1.160,16
+III
+970,71
+1.024,64
+1.078,57
+1.012,75
+1.069,02
+1.125,29
+II
+941,95
+994,29
+1.046,62
+982,75
+1.037,35
+1.091,95
+I
+912,66
+963,36
+1.014,07
+952,19
+1.005,09
+1.057,99
+g) valor da GAPIN de nível auxiliar, a partir de 1º de janeiro de 2025:
+Em R$
+CLASSE
+PADRÃO
+VALOR DA GAPIN
+EFEITOS FINANCEIROS A PARTIR DE
+1º DE JANEIRO DE 2025
+1º DE ABRIL DE 2026
+BANDA I
+BANDA II
+BANDA III
+BANDA I
+BANDA II
+BANDA III
+ESPECIAL
+III
+1.057,63
+1.108,20
+1.209,32
+1.103,44
+1.156,20
+1.261,70
+II
+1.054,67
+1.104,40
+1.203,85
+1.100,35
+1.152,23
+1.255,99
+I
+1.051,79
+1.100,70
+1.198,53
+1.097,35
+1.148,37
+1.250,44
+ANEXO LXXXIII
+(Anexo com redação dada pelo Anexo XLV à Medida Provisória nº 1.170, de 28/4/2023, convertida na Lei nº 14.673, de 14/9/2023, com alterações do Anexo VIII à Lei nº 14.875, de 31/5/2024, e alterações do Anexo CCLXXI à Lei nº 15.141, de 2/6/2025)
+VALOR DO PONTO DA GRATIFICAÇÃO DE DESEMPENHO DE ATIVIDADE INDIGENISTA - GDAIN DO PLANO ESPECIAL DE CARGOS DA FUNAI - PECFUNAI E DOS CARGOS INTEGRANTES DO QUADRO SUPLEMENTAR DA FUNDAÇÃO NACIONAL DOS POVOS INDÍGENAS - FUNAI
+a) Valor do ponto da GDAIN para os cargos de Nível Superior:
+Em R$
+CLASSE
+PADRÃO
+VALOR DO PONTO DA GDAIN
+EFEITOS FINANCEIROS A PARTIR DE 1º DE MAIO DE 2023
+ESPECIAL
+III
+51,16
+II
+50,35
+I
+49,91
+C
+VI
+47,96
+V
+47,53
+IV
+47,12
+III
+46,70
+II
+46,29
+I
+45,89
+B
+VI
+44,44
+V
+44,06
+IV
+43,69
+III
+43,32
+II
+42,92
+I
+42,54
+A
+V
+41,26
+IV
+40,91
+III
+40,56
+II
+40,20
+I
+39,84
+b) Valor do ponto da GDAIN para os cargos de Nível Intermediário:
+Em R$
+CLASSE
+PADRÃO
+VALOR DO PONTO DA GDAIN
+EFEITOS FINANCEIROS A PARTIR DE 1º DE MAIO DE 2023
+ESPECIAL
+III
+35,00
+II
+34,85
+I
+34,71
+C
+VI
+34,47
+V
+34,35
+IV
+34,20
+III
+34,06
+II
+33,93
+I
+33,79
+B
+VI
+33,55
+V
+33,42
+IV
+33,30
+III
+33,16
+II
+33,02
+I
+32,91
+A
+V
+32,69
+IV
+32,55
+III
+32,44
+II
+32,32
+I
+32,21
+c) Valor do ponto da GDAIN para os cargos de nível auxiliar:
+(Tabela com redação dada pelo Anexo CCLXXI à Lei nº 15.141, de 2/6/2025)
+Em R$
+CLASSE
+PADRÃO
+VALOR DO PONTO DA GDAIN
+EFEITOS FINANCEIROS A PARTIR DE
+1º DE JANEIRO DE 2024
+1º DE JANEIRO DE 2025
+1º DE ABRIL DE 2026
+ESPECIAL
+III
+26,36
+27,50
+28,69
+II
+25,58
+26,69
+27,85
+I
+24,83
+25,91
+27,03
+d) Valor do ponto da GDAIN para os cargos de nível superior, a partir de 1º de janeiro de 2025:
+(Tabela acrescida pelo Anexo CCLXXI à Lei nº 15.141, de 2/6/2025)
+Em R$
+CLASSE
+PADRÃO
+VALOR DO PONTO DA GDAIN
+EFEITOS FINANCEIROS A PARTIR DE
+1º DE JANEIRO DE 2025
+1º DE ABRIL DE 2026
+ESPECIAL
+V
+51,16
+55,69
+IV
+50,35
+54,81
+III
+49,91
+54,33
+II
+47,96
+52,20
+I
+47,53
+51,74
+C
+V
+47,12
+51,29
+IV
+46,70
+50,83
+III
+46,29
+50,39
+II
+45,89
+49,95
+I
+44,44
+48,37
+B
+V
+44,06
+47,96
+IV
+43,69
+47,56
+III
+43,32
+47,15
+II
+42,92
+46,72
+I
+42,54
+46,30
+A
+V
+41,26
+44,91
+IV
+40,91
+44,53
+III
+40,56
+44,15
+II
+40,20
+43,76
+I
+39,84
+43,37
+e) Valor do ponto da GDAIN para os cargos de nível intermediário, a partir de 1º de janeiro de 2025:
+(Tabela acrescida pelo Anexo CCLXXI à Lei nº 15.141, de 2/6/2025)
+Em R$
+CLASSE
+PADRÃO
+VALOR DO PONTO DA GDAIN
+EFEITOS FINANCEIROS A PARTIR DE
+1º DE JANEIRO DE 2025
+1º DE ABRIL DE 2026
+ESPECIAL
+V
+36,52
+38,10
+IV
+36,36
+37,93
+III
+36,21
+37,78
+II
+35,96
+37,52
+I
+35,84
+37,39
+C
+V
+35,68
+37,23
+IV
+35,54
+37,08
+III
+35,40
+36,93
+II
+35,25
+36,78
+I
+35,00
+36,52
+B
+V
+34,87
+36,38
+IV
+34,74
+36,24
+III
+34,60
+36,10
+II
+34,45
+35,94
+I
+34,34
+35,83
+A
+V
+34,11
+35,59
+IV
+33,96
+35,43
+III
+33,85
+35,32
+II
+33,72
+35,18
+I
+33,61
+35,07
+ANEXO LXXXIV
+ESTRUTURA DOS CARGOS DAS CARREIRAS DE ESPECIALISTA EM ASSISTÊNCIA PENITENCIÁRIA E TÉCNICO DE APOIO À ASSISTÊNCIA PENITENCIÁRIA
+CARGOS
+CLASSE
+PADRÃO
+Especialista em Assistência Penitenciária
+Técnico de Apoio à Assistência Penitenciária
+ESPECIAL
+IV
+III
+II
+I
+C
+V
+IV
+III
+II
+I
+B
+V
+IV
+III
+II
+I
+A
+VI
+V
+IV
+III
+II
+I
+ANEXO LXXXV
+(Anexo com redação dada pelo Anexo XXVIII à Lei nº 14.875, de 31/5/2024)
+VENCIMENTO BÁSICO DAS CARREIRAS DE ESPECIALISTA FEDERAL EM ASSISTÊNCIA À EXECUÇÃO PENAL E DE TÉCNICO FEDERAL DE APOIO À EXECUÇÃO PENAL
+a) Vencimento básico da Carreira de Especialista Federal em Assistência à Execução Penal:
+Em R$
+CLASSE
+PADRÃO
+VENCIMENTO BÁSICO
+EFEITOS FINANCEIROS A PARTIR DE
+1º DE AGOSTO
+DE 2024
+1º DE MAIO DE
+2025
+1º DE MAIO DE 2026
+ESPECIAL
+IV
+7.769,87
+9.767,88
+11.304,13
+III
+7.631,25
+9.551,44
+11.027,84
+II
+7.495,31
+9.340,11
+10.758,54
+I
+7.361,78
+9.133,10
+10.495,03
+C
+V
+7.056,23
+8.713,93
+9.988,50
+IV
+6.931,09
+8.521,90
+9.745,06
+III
+6.808,07
+8.333,61
+9.506,57
+II
+6.687,59
+8.150,23
+9.274,84
+I
+6.569,13
+7.970,32
+9.047,68
+B
+V
+6.297,24
+7.605,46
+8.611,32
+IV
+6.186,03
+7.438,09
+8.400,78
+III
+6.076,85
+7.274,35
+8.195,08
+II
+5.969,86
+7.114,77
+7.995,08
+I
+5.864,80
+6.958,60
+7.799,60
+A
+VI
+5.663,16
+6.763,47
+7.609,48
+V
+5.523,86
+6.495,02
+7.241,73
+IV
+5.427,00
+6.352,89
+7.064,79
+III
+5.332,04
+6.214,27
+6.892,61
+II
+5.238,71
+6.078,42
+6.724,06
+I
+5.146,99
+5.945,24
+6.559,00
+b) Vencimento básico da Carreira de Técnico Federal de Apoio à Execução Penal:
+Em R$
+CLASSE
+PADRÃO
+VENCIMENTO BÁSICO
+EFEITOS FINANCEIROS A PARTIR DE
+1º DE AGOSTO
+DE 2024
+1º DE MAIO DE
+2025
+1º DE MAIO DE 2026
+ESPECIAL
+IV
+4.630,42
+4.968,20
+5.991,78
+III
+4.554,70
+4.872,68
+5.836,27
+II
+4.480,42
+4.779,58
+5.686,10
+I
+4.407,36
+4.688,17
+5.539,12
+C
+V
+4.265,75
+4.511,51
+5.256,24
+IV
+4.196,35
+4.425,54
+5.120,08
+III
+4.128,14
+4.341,39
+4.987,60
+II
+4.061,12
+4.259,01
+4.858,68
+I
+3.995,27
+4.178,37
+4.733,20
+B
+V
+3.867,66
+4.022,60
+4.492,13
+IV
+3.805,01
+3.946,51
+4.375,31
+III
+3.743,54
+3.872,30
+4.262,49
+II
+3.683,10
+3.799,59
+4.152,57
+I
+3.623,68
+3.728,33
+4.045,45
+A
+VI
+3.519,50
+3.623,84
+3.940,02
+V
+3.452,02
+3.523,45
+3.739,90
+IV
+3.396,50
+3.457,66
+3.643,01
+III
+3.341,86
+3.393,12
+3.548,46
+II
+3.288,23
+3.330,14
+3.457,15
+I
+3.235,48
+3.268,36
+3.368,00
+ANEXO LXXXVI
+(Anexo com redação dada pelo Anexo XXIX à Lei nº 14.875, de 31/5/2024)
+ESTRUTURA DE CLASSES E PADRÕES DA CARREIRA DE POLICIAL PENAL FEDERAL
+CARGO
+CLASSE
+PADRÃO
+POLICIAL PENAL FEDERAL
+ESPECIAL SÊNIOR
+V
+IV
+III
+II
+I
+ESPECIAL
+IV
+III
+II
+I
+PRIMEIRA
+IV
+III
+II
+I
+SEGUNDA
+IV
+III
+II
+I
+TERCEIRA
+III
+II
+I
+ANEXO LXXXVII
+(Revogado)
+ANEXO LXXXVIII
+(Anexo com redação dada pelo Anexo XXX à Lei nº 14.875, de 31/5/2024)
+TABELA DE CORRELAÇÃO DO CARGO DE AGENTE FEDERAL DE EXECUÇÃO PENAL COM O CARGO DE POLICIAL PENAL FEDERAL
+CARGO
+CLASSE
+PADRÃO
+PADRÃO
+CLASSE
+CARGO
+AGENTE
+FEDERAL DE
+EXECUÇÃO
+PENAL
+ESPECIAL SÊNIOR
+V
+V
+ESPECIAL SÊNIOR
+POLICIAL
+PENAL
+FEDERAL
+IV
+IV
+III
+III
+II
+II
+I
+I
+ESPECIAL
+IV
+IV
+ESPECIAL
+III
+III
+II
+II
+I
+I
+PRIMEIRA
+IV
+IV
+PRIMEIRA
+III
+III
+II
+II
+I
+I
+SEGUNDA
+IV
+IV
+SEGUNDA
+III
+III
+II
+II
+I
+I
+TERCEIRA
+III
+III
+TERCEIRA
+II
+II
+I
+I
+ANEXO LXXXIX
+(Anexo com redação dada pelo Anexo XXXI à Lei nº 14.875, de 31/5/2024)
+TABELA DE VALOR DO PONTO DA GRATIFICAÇÃO DE DESEMPENHO DE ATIVIDADE DE ASSISTÊNCIA ESPECIALIZADA DO DEPEN/MJSP - GDAPEN
+a) Valor do ponto da GDAPEN da Carreira de Especialista Federal em Assistência à Execução Penal:
+Em R$
+CLASSE
+PADRÃO
+VALOR DO PONTO DA GDAPEN
+EFEITOS FINANCEIROS A PARTIR DE
+1º DE AGOSTO
+DE 2024
+1º DE MAIO DE
+2025
+1º DE MAIO DE 2026
+ESPECIAL
+IV
+21,68
+30,72
+37,68
+III
+21,36
+30,07
+36,76
+II
+21,01
+29,41
+35,86
+I
+20,70
+28,78
+34,99
+C
+V
+20,21
+27,61
+33,30
+IV
+19,89
+27,01
+32,48
+III
+19,60
+26,43
+31,69
+II
+19,30
+25,86
+30,91
+I
+19,02
+25,32
+30,16
+B
+V
+18,57
+24,30
+28,70
+IV
+18,30
+23,78
+28,00
+III
+18,02
+23,28
+27,32
+II
+17,77
+22,79
+26,65
+I
+17,51
+22,31
+26,00
+A
+VI
+17,24
+21,83
+25,36
+V
+16,87
+20,98
+24,14
+IV
+16,61
+20,53
+23,55
+III
+16,38
+20,11
+22,97
+II
+16,16
+19,69
+22,41
+I
+15,92
+19,28
+21,87
+b) Valor do ponto da GDAPEN da Carreira de Técnico Federal de Apoio à Execução Penal:
+Em R$
+CLASSE
+PADRÃO
+VALOR DO PONTO DA GDAPEN
+EFEITOS FINANCEIROS A PARTIR DE
+1º DE AGOSTO
+DE 2024
+1º DE MAIO DE
+2025
+1º DE MAIO DE 2026
+ESPECIAL
+IV
+15,39
+17,21
+19,97
+III
+15,09
+16,83
+19,46
+II
+14,81
+16,46
+18,95
+I
+14,52
+16,09
+18,46
+C
+V
+14,03
+15,42
+17,52
+IV
+13,76
+15,08
+17,07
+III
+13,51
+14,75
+16,63
+II
+13,26
+14,43
+16,20
+I
+13,03
+14,12
+15,78
+B
+V
+12,58
+13,53
+14,97
+IV
+12,33
+13,23
+14,59
+III
+12,13
+12,96
+14,21
+II
+11,89
+12,67
+13,84
+I
+11,69
+12,40
+13,48
+A
+VI
+11,45
+12,12
+13,14
+V
+11,10
+11,64
+12,46
+IV
+10,90
+11,39
+12,14
+III
+10,72
+11,16
+11,83
+II
+10,53
+10,92
+11,52
+I
+10,34
+10,69
+11,22
+ANEXO XC
+(Revogado)
+ANEXO XC-A
+(Anexo acrescido nos termos do Anexo XXXII à Lei nº 14.875, de 31/5/2024)
+TABELA DE SUBSÍDIO PARA A CARREIRA DE POLICIAL PENAL FEDERAL
+Em R$
+CLASSE
+PADRÃO
+SUBSÍDIO
+EFEITOS FINANCEIROS A PARTIR DE
+1º DEAGOSTO
+DE 2024
+1º DE MAIO DE 2025
+1º DE MAIO DE 2026
+ESPECIAL
+SÊNIOR
+V
+15.965,69 17.632,85 20.000,00
+17.632,85 17.632,85 20.000,00
+20.000,00 17.632,85 20.000,00
+IV
+15.439,64
+17.051,87
+19.073,95
+III
+14.930,92
+16.490,03
+18.445,49
+II
+14.438,97
+15.946,71
+17.837,73
+I
+13.963,22
+15.421,28
+17.250,00
+ESPECIAL
+IV
+13.435,46
+14.838,41
+16.243,26
+III
+12.992,78
+14.349,50
+15.708,07
+II
+12.564,68
+13.876,71
+15.190,51
+I
+12.150,69
+13.419,49
+14.690,00
+PRIMEIRA
+IV
+11.750,34
+12.977,33
+14.208,69
+III
+11.363,18
+12.549,74
+13.740,53
+II
+10.988,78
+12.136,25
+13.287,80
+I
+10.591,17
+11.697,12
+12.807,00
+SEGUNDA
+IV
+10.242,20
+11.311,71
+12.318,19
+III
+9.943,67
+10.982,00
+11.959,14
+II
+9.654,72
+10.662,88
+11.611,63
+I
+9.021,45
+9.963,48
+10.850,00
+TERCEIRA
+III
+8.725,54
+9.636,68
+9.927,39
+II
+8.437,79
+9.318,87
+9.600,00
+I
+8.160,18
+9.012,28
+9.100,00
+ANEXO XCI
+(Anexo XI da Lei no 11.355, de 19 de outubro de 2006) VENCIMENTO BÁSICO
+a) Vencimento básico do cargo de Especialista em Metrologia e Qualidade Sênior, efeitos financeiros a partir de 1o de julho/2008
+Em R$
+CARGO
+CLASSE
+PADRÃO
+VENCIMENTO BÁSICO
+Especialista em Metrologia e
+Qualidade Sênior
+Especialista
+Sênior
+I
+5.441,35
+b) Vencimento básico dos cargos de Pesquisador-Tecnologista em Metrologia e Qualidade da Carreira de Pesquisa e Desenvolvimento em Metrologia e Qualidade e Cargos de Analista Executivo em Metrologia e Qualidade da Carreira de Gestão em Metrologia e Qualidade, vigência a partir de julho/2008.
+Em R$
+CARGOS
+CLASSE
+PADRÃO
+VENCIMENTO BÁSICO
+EFEITOS FINANCEIROS
+A PARTIR DE 1o JUL 2008
+Pesquisador-Tecnologista em
+Metrologia e Qualidade
+Analista Executivo em
+Metrologia e Qualidade
+A
+III
+5.445,78
+II
+5.202,47
+I
+5.027,19
+B
+VI
+4.693,80
+V
+4.496,89
+IV
+4.306,76
+III
+4.064,09
+II
+3.890,98
+I
+3.723,90
+C
+VI
+3.461,06
+V
+3.310,01
+IV
+3.163,99
+III
+2.979,83
+II
+2.847,09
+I
+2.725,14
+c) Vencimento básico dos cargos de Técnico em Metrologia e Qualidade da Carreira de Suporte Técnico à Metrologia e Qualidade e Assistente Executivo em Metrologia e Qualidade da Carreira de Suporte à Gestão em Metrologia e Qualidade:
+CARGO
+CLASSE
+PADRÃO
+VENCIMENTO BÁSICO
+EFEITOS FINANCEIROS A PARTIR DE 1o JUL 2008
+Técnico em Metrologia e Qualidade
+Assistente Executivo em Metrologia e Qualidade
+A
+III
+2.785,32
+II
+2.688,24
+I
+2.594,71
+B
+VI
+2.506,13
+V
+2.418,25
+IV
+2.332,69
+III
+2.252,30
+II
+2.172,39
+I
+2.094,57
+C
+VI
+2.021,25
+V
+1.948,69
+IV
+1.877,71
+III
+1.810,19
+II
+1.743,57
+I
+1.678,28
+d) Vencimento básico do cargo de Auxiliar Executivo em Metrologia e Qualidade da Carreira de Apoio Operacional à Gestão em Metrologia e Qualidade, efeitos financeiros a partir de 1o julho/2008:
+Em R$
+CARGO
+CLASSE
+PADRÃO
+VENCIMENTO BÁSICO
+Auxiliar Executivo em Metrologia e Qualidade
+A
+VI
+1.145,22
+V
+1.094,12
+IV
+1.044,93
+III
+997,59
+II
+952,06
+I
+908,87
+B
+VI
+829,19
+V
+790,94
+IV
+754,27
+III
+718,63
+II
+684,52
+I
+651,89
+ANEXO XCII
+(Anexo XI-A da Lei no 11.355, de 19 de outubro de 2006) VALOR DO PONTO DA GRATIFICAÇÃO
+PELA QUALIDADE DO DESEMPENHO NO INMETRO - GQDI
+a) Valor do ponto da GQDI para o cargo de Especialista em Metrologia e Qualidade Sênior
+Em R$
+CARGO
+CLASSE
+PADRÃO
+VALOR DO PONTO DA GQDI
+EFEITOS FINANCEIROS A PARTIR DE
+1o JUL 2008
+1o JUL 2009
+Especialista em Metrologia e
+Qualidade Sênior
+Especialista
+Sênior
+I
+59,79
+82,40
+b) Valor do ponto da GQDI para os cargos de Pesquisador-Tecnologista em Metrologia e Qualidade da Carreira de Pesquisa e Desenvolvimento em Metrologia e Qualidade e Cargos de Analista Executivo em Metrologia e Qualidade da Carreira de Gestão em Metrologia e Qualidade
+Tabela I: efeitos financeiros a partir de 1o de julho de 2008
+Em R$
+CARGOS
+CLASSE
+PADRÃO
+VALOR DO PONTO DA GQDI
+Sem
+titulação
+Aperfeiçoamento/
+Especialização
+Mestrado
+Doutorado
+Pesquisador- Tecnologista em Metrologia e Qualidade
+Analista Executivo em Metrologia e Qualidade
+A
+III
+44,46
+44,94
+45,15
+49,41
+II
+43,71
+44,04
+44,29
+48,10
+I
+42,92
+43,10
+43,39
+46,77
+B
+VI
+40,32
+41,26
+41,32
+44,42
+V
+39,63
+40,42
+40,52
+43,23
+IV
+38,94
+39,59
+39,73
+42,07
+III
+38,33
+38,84
+39,02
+41,00
+II
+37,66
+38,03
+38,25
+39,89
+I
+37,00
+37,25
+37,50
+38,82
+C
+VI
+34,77
+35,67
+35,88
+36,88
+V
+34,17
+34,94
+34,98
+35,89
+IV
+33,57
+34,22
+34,29
+34,92
+III
+33,03
+33,56
+33,66
+34,02
+II
+32,45
+32,86
+32,89
+33,10
+I
+31,87
+32,17
+32,19
+32,20
+Tabela II: efeitos financeiros a partir de 1o de julho de 2009
+Em R$
+CARGOS
+CLASSE
+PADRÃO
+VALOR DO PONTO DA GQDI
+Sem
+titulação
+Aperfeiçoamento/
+Especialização
+Mestrado
+Doutorado
+Pesquisador- Tecnologista em Metrologia e Qualidade
+Analista Executivo em Metrologia e Qualidade
+A
+III
+57,72
+58,77
+58,82
+70,35
+II
+56,63
+57,49
+57,59
+68,46
+I
+55,54
+56,22
+56,37
+66,61
+B
+VI
+52,16
+53,74
+53,95
+63,17
+V
+51,17
+52,56
+52,77
+61,47
+IV
+50,21
+51,41
+51,65
+59,82
+III
+49,28
+50,30
+50,39
+58,23
+II
+48,35
+49,20
+49,33
+56,67
+I
+47,44
+48,12
+48,30
+55,15
+C
+VI
+44,55
+45,99
+46,20
+52,30
+V
+43,71
+44,99
+45,22
+50,90
+IV
+42,88
+44,00
+44,08
+49,53
+III
+42,08
+43,05
+43,17
+48,21
+II
+41,28
+42,11
+42,27
+46,92
+I
+40,49
+41,18
+41,38
+45,65
+c) Valor do ponto da GQDI para os cargos de Técnico em Metrologia e Qualidade da Carreira de Suporte Técnico à Metrologia e Qualidade e Assistente Executivo em Metrologia e Qualidade da Carreira de Suporte à Gestão em Metrologia e Qualidade
+Tabela I: efeitos financeiros a partir de 1o de julho de 2008
+CARGO
+CLASSE
+PADRÃO
+VALOR DO PONTO DA GQDI
+SEM GQ
+COM GQ
+Técnico em Metrologia e Qualidade
+Assistente Executivo em Metrologia e
+A
+III
+13,93
+18,66
+II
+13,62
+18,26
+I
+13,32
+17,87
+B
+VI
+13,11
+17,12
+V
+12,82
+16,75
+IV
+12,53
+16,39
+III
+12,33
+16,04
+II
+12,05
+15,69
+Qualidade
+I
+11,77
+15,35
+C
+VI
+11,58
+14,70
+V
+11,31
+14,38
+IV
+11,04
+14,07
+III
+10,85
+13,77
+II
+10,59
+13,47
+I
+10,33
+13,18
+d) Valor do ponto da GQDI para o cargo de Auxiliar Executivo em Metrologia e Qualidade da
+Carreira de Apoio Operacional à Gestão em Metrologia e Qualidade:
+Em R$
+CARGO
+CLASSE
+PADRÃO
+VALOR DO PONTO DA GQDI
+EFEITOS FINANCEIROS A
+PARTIR DE 1o JUL 2008
+Auxiliar Executivo em Metrologia e
+Qualidade
+A
+VI
+8,02
+V
+7,78
+IV
+7,55
+III
+7,33
+II
+7,12
+I
+6,91
+B
+VI
+6,59
+V
+6,40
+IV
+6,23
+III
+6,05
+II
+5,88
+I
+5,71
+ANEXO XCIII
+(Anexo XI-B da Lei no 11.355, de 19 de outubro de 2006) RETRIBUIÇÃO POR TITULAÇÃO - RT
+(Efeitos financeiros a partir de 1o de julho de 2008)
+a) Valor da RT para o cargo de Especialista em Metrologia e Qualidade Sênior
+Em R$
+CARGO
+CLASSE
+PADRÃO
+VALOR DA RT
+Especialista em Metrologia e
+Qualidade Sênior
+Especialista
+Sênior
+I
+1.904,00
+b) Valor da RT para os cargos de Pesquisador-Tecnologista em Metrologia e Qualidade da Carreira de Pesquisa e Desenvolvimento em Metrologia e Qualidade e Cargos de Analista Executivo em Metrologia e Qualidade da Carreira de Gestão em Metrologia e Qualidade
+Tabela I: efeitos financeiros a partir de 1o de julho de 2008
+Em R$
+CARGOS
+CLASSE
+PADRÃO
+VALOR DA RT
+Aperfeiçoamento/
+Especialização
+Mestrado
+Doutorado
+Pesquisador-Tecnologista em
+Metrologia e Qualidade
+Analista Executivo em
+Metrologia e Qualidade
+A
+III
+346,55
+891,13
+1.732,75
+II
+331,07
+851,31
+1.655,33
+I
+319,91
+822,63
+1.599,56
+B
+VI
+298,70
+768,08
+1.493,48
+V
+286,17
+735,86
+1.430,83
+IV
+274,07
+704,74
+1.370,33
+III
+258,62
+665,03
+1.293,12
+II
+247,61
+636,71
+1.238,04
+I
+236,98
+609,37
+1.184,88
+C
+VI
+220,25
+566,36
+1.101,25
+V
+210,64
+541,64
+1.053,18
+IV
+201,34
+517,74
+1.006,72
+III
+189,63
+487,61
+948,13
+II
+181,18
+465,89
+905,89
+I
+173,42
+445,93
+867,09
+Tabela II: Efeitos financeiros a partir de 1o de julho de 2009
+Em R$
+CARGOS
+CLASSE
+PADRÃO
+VALOR DA RT
+Aperfeiçoamento/
+Especialização
+Mestrado
+Doutorado
+Pesquisador-Tecnologista em
+Metrologia e Qualidade
+Analista Executivo em
+Metrologia e Qualidade
+A
+III
+367,82
+945,81
+2.369,78
+II
+351,38
+903,55
+2.263,90
+I
+339,54
+873,11
+2.187,63
+B
+VI
+317,03
+815,21
+2.042,55
+V
+303,73
+781,01
+1.956,87
+IV
+290,89
+747,99
+1.874,13
+III
+274,49
+705,84
+1.768,53
+II
+262,80
+675,78
+1.693,20
+I
+251,52
+646,76
+1.620,49
+C
+VI
+233,77
+601,11
+1.506,11
+V
+223,56
+574,88
+1.440,38
+IV
+213,70
+549,51
+1.376,84
+III
+201,26
+517,53
+1.296,70
+II
+192,30
+494,48
+1.238,94
+I
+184,06
+473,30
+1.185,87
+ANEXO XCIV
+(Anexo XI-C da Lei no 11.355, de 19 de outubro de 2006) GRATIFICAÇÃO POR QUALIFICAÇÃO – GQ (Efeitos financeiros a partir de 1o de julho de 2008)
+a) Valor da GQ para os cargos de Técnico em Metrologia e Qualidade da Carreira de Suporte Técnico à Metrologia e Qualidade e Assistente Executivo em Metrologia e Qualidade da Carreira de Suporte à Gestão em Metrologia e Qualidade:
+Em R$
+CARGO
+CLASSE
+PADRÃO
+VALOR DA GQ
+EFEITOS FINANCEIROS
+A PARTIR DE 1o JUL 2008
+Técnico em Metrologia e
+Qualidade e Assistente Executivo em Metrologia e Qualidade
+A
+III
+278,53
+II
+268,82
+I
+259,47
+B
+VI
+250,61
+V
+241,83
+IV
+233,27
+III
+225,23
+II
+217,24
+I
+209,46
+C
+VI
+202,13
+V
+194,87
+IV
+187,77
+III
+181,02
+II
+174,36
+I
+167,83
+b) Valor da GQ para os cargos de Auxiliar Executivo em Metrologia e Qualidade da Carreira de Apoio Operacional à Gestão em Metrologia e Qualidade:
+Em R$
+CARGO
+CLASSE
+PADRÃO
+VALOR DA GQ
+Auxiliar Executivo em Metrologia e
+Qualidade
+A
+VI
+114,52
+V
+109,41
+IV
+104,49
+III
+99,76
+II
+95,21
+I
+90,89
+B
+VI
+82,92
+V
+79,09
+IV
+75,43
+III
+71,86
+II
+68,45
+I
+65,19
+ANEXO XCV
+(Anexo XV da Lei no 11.355, de 19 de outubro de 2006)
+TABELAS DE VENCIMENTO BÁSICO
+a) Vencimento básico do cargo de Pesquisador em Informações Geográficas e Estatísticas:
+Em R$
+CLASSE
+PADRÃO
+VENCIMENTO BÁSICO
+EFEITOS FINANCEIROS
+A PARTIR DE 1o JUL 2008
+ESPECIAL
+III
+5.558,82
+II
+5.352,40
+I
+5.154,36
+C
+III
+4.873,98
+II
+4.693,40
+I
+4.518,76
+B
+III
+4.273,25
+II
+4.115,37
+I
+3.962,68
+A
+III
+3.747,41
+II
+3.609,72
+I
+3.475,87
+b) Vencimento básico dos cargos de Tecnologista em Informações Geográficas e Estatísticas e de Analista de Planejamento, Gestão e Infra-Estrutura em Informações Geográficas e Estatísticas
+Em R$
+CLASSE
+PADRÃO
+VENCIMENTO BÁSICO
+EFEITOS FINANCEIROS A PARTIR
+DE 1o JUL 2008
+ESPECIAL
+III
+5.558,82
+II
+5.352,40
+I
+5.154,36
+D
+III
+4.873,98
+II
+4.693,40
+I
+4.518,76
+C
+III
+4.273,25
+II
+4.115,37
+I
+3.962,68
+B
+III
+3.747,41
+II
+3.609,72
+I
+3.475,87
+A
+III
+3.286,63
+II
+3.165,43
+I
+3.048,03
+c) Vencimento básico dos cargos de Nível Intermediário de Técnico em Informações Geográficas e Estatísticas e de Técnico em Planejamento, Gestão e Infra-Estrutura em Informações Geográficas e Estatísticas:
+Em R$
+CLASSE
+PADRÃO
+VENCIMENTO BÁSICO
+EFEITOS FINANCEIROS A PARTIR DE
+1o JUL 2008
+1o JUL 2009
+ESPECIAL
+III
+2.457,84
+2.785,32
+II
+2.365,58
+2.688,24
+I
+2.276,79
+2.594,71
+B
+VI
+2.147,92
+2.506,13
+V
+2.067,30
+2.418,25
+IV
+1.989,70
+2.332,69
+III
+1.915,01
+2.252,30
+II
+1.843,13
+2.172,39
+I
+1.773,95
+2.094,57
+A
+VI
+1.673,54
+2.021,25
+V
+1.610,72
+1.948,69
+IV
+1.550,26
+1.877,71
+III
+1.492,07
+1.810,19
+II
+1.436,06
+1.743,57
+I
+1.382,16
+1.678,28
+d) Vencimento básico dos cargos do Nível Superior do Plano de Carreiras dos servidores da
+Fundação Instituto Brasileiro de Geografia e Estatística - IBGE de que trata o art. 84 desta Lei:
+Em R$
+CLASSE
+PADRÃO
+VENCIMENTO BÁSICO
+EFEITOS FINANCEIROS A PARTIR
+DE 1o JUL 2008
+ESPECIAL
+III
+5.558,82
+II
+5.352,40
+I
+5.154,36
+C
+VI
+4.873,98
+V
+4.693,40
+IV
+4.518,76
+III
+4.273,25
+II
+4.115,37
+I
+3.962,68
+B
+VI
+3.747,41
+V
+3.609,72
+IV
+3.475,87
+III
+3.286,63
+II
+3.165,43
+I
+3.048,03
+A
+V
+2.959,85
+IV
+2.873,99
+III
+2.791,73
+II
+2.709,61
+I
+2.630,97
+e) Vencimento básico dos cargos do Nível Intermediário do Plano de Carreiras dos servidores da Fundação Instituto Brasileiro de Geografia e Estatística – IBGE de que trata o art. 84 desta Lei:
+CLASSE
+PADRÃO
+VENCIMENTO BÁSICO
+EFEITOS FINANCEIROS A PARTIR DE
+1o JUL 2008
+1o JUL 2009
+ESPECIAL
+III
+2.457,84
+2.785,32
+II
+2.365,58
+2.688,24
+I
+2.276,79
+2.594,71
+C
+VI
+2.147,92
+2.506,13
+V
+2.067,30
+2.418,25
+IV
+1.989,70
+2.332,69
+III
+1.915,01
+2.252,30
+II
+1.843,13
+2.172,39
+I
+1.773,95
+2.094,57
+B
+VI
+1.673,54
+2.021,25
+V
+1.610,72
+1.948,69
+IV
+1.550,26
+1.877,71
+III
+1.492,07
+1.810,19
+II
+1.436,06
+1.743,57
+I
+1.382,16
+1.678,28
+A
+V
+1.365,77
+1.629,72
+IV
+1.349,58
+1.582,44
+III
+1.333,58
+1.537,15
+II
+1.317,77
+1.491,94
+I
+1.302,14
+1.442,18
+ANEXO XCVI
+(Anexo XV-A da Lei no 11.355, de 19 de outubro de 2006)
+TABELAS DE VALOR DO PONTO DA GRATIFICAÇÃO DE DESEMPENHO DE ATIVIDADE EM PESQUISA, PRODUÇÃO E ANÁLISE, GESTÃO E INFRA-ESTRUTURA DE INFORMAÇÕES GEOGRÁFICAS E ESTATÍSTICAS - GDIBGE
+a) Valor do ponto da GDIBGE para o cargo de Pesquisador em Informações Geográficas e
+Estatísticas:
+Em R$
+CLASSE
+PADRÃO
+VALOR DO PONTO DA GDIBGE
+EFEITOS FINANCEIROS A PARTIR DE
+1o JUL 2008
+1o JUL 2009
+ESPECIAL
+III
+44,79
+53,55
+II
+43,70
+52,24
+I
+42,63
+50,97
+C
+III
+40,41
+48,31
+II
+39,42
+47,13
+I
+38,46
+45,98
+B
+III
+37,52
+44,86
+II
+36,60
+43,77
+I
+35,71
+42,70
+A
+III
+33,85
+40,47
+II
+33,02
+39,48
+I
+32,21
+38,52
+b) Valor do ponto da GDIBGE para os cargos de Tecnologista em Informações Geográficas e Estatísticas e de Analista de Planejamento, Gestão e Infra-Estrutura em Informações Geográficas e Estatísticas:
+Em R$
+CLASSE
+PADRÃO
+VALOR DO PONTO DA GDIBGE
+EFEITOS FINANCEIROS A PARTIR DE
+1o JUL 2008
+1o JUL 2009
+ESPECIAL
+III
+44,79
+53,55
+II
+43,70
+52,24
+I
+42,63
+50,97
+D
+III
+40,41
+48,31
+II
+39,42
+47,13
+I
+38,46
+45,98
+C
+III
+37,52
+44,86
+II
+36,60
+43,77
+I
+35,71
+42,70
+B
+III
+33,85
+40,47
+II
+33,02
+39,48
+I
+32,21
+38,52
+A
+III
+31,42
+37,58
+II
+30,65
+36,66
+I
+29,90
+35,77
+c) Valor do ponto da GDIBGE para os cargos de Técnico em Informações Geográficas e Estatísticas e de Técnico em Planejamento, Gestão e Infra-Estrutura em Informações Geográficas e Estatísticas:
+Tabela I: Efeitos financeiros a partir de 1o de julho de 2008
+Em R$
+CLASSE
+PADRÃO
+VALOR DO PONTO DA GDIBGE
+SEM GQ
+COM GQ
+ESPECIAL
+III
+13,81
+14,14
+II
+13,47
+13,80
+I
+13,14
+13,46
+B
+VI
+12,63
+12,94
+V
+12,32
+12,62
+IV
+12,02
+12,31
+III
+11,73
+12,01
+II
+11,44
+11,72
+I
+11,16
+11,43
+A
+VI
+10,73
+10,99
+V
+10,47
+10,72
+IV
+10,21
+10,46
+III
+9,96
+10,20
+II
+9,72
+9,95
+I
+9,48
+9,71
+Tabela II: Efeitos financeiros a partir de 1o de julho de 2009
+Em R$
+CLASSE
+PADRÃO
+VALOR DO PONTO DA GDIBGE
+SEM GQ
+COM GQ
+ESPECIAL
+III
+13,90
+18,66
+II
+13,63
+18,29
+I
+13,36
+17,93
+B
+VI
+12,87
+17,27
+V
+12,62
+16,93
+IV
+12,37
+16,60
+III
+12,13
+16,27
+II
+11,89
+15,95
+I
+11,66
+15,64
+A
+VI
+11,23
+15,07
+V
+11,01
+14,77
+IV
+10,79
+14,48
+III
+10,58
+14,20
+II
+10,37
+13,92
+I
+10,17
+13,65
+d) Valor do ponto da GDIBGE para os cargos do Nível Superior do Plano de Carreiras dos servidores da Fundação Instituto Brasileiro de Geografia e Estatística - IBGE de que trata o art. 84 desta Lei:
+Em R$
+CLASSE
+PADRÃO
+VALOR DO PONTO DA GDIBGE
+EFEITOS FINANCEIROS A PARTIR DE
+1o JUL 2008
+1o JUL 2009
+ESPECIAL
+III
+44,79
+53,55
+II
+43,70
+52,24
+I
+42,63
+50,97
+C
+VI
+40,41
+48,31
+V
+39,42
+47,13
+IV
+38,46
+45,98
+III
+37,52
+44,86
+II
+36,60
+43,77
+I
+35,71
+42,70
+B
+VI
+33,85
+40,47
+V
+33,02
+39,48
+IV
+32,21
+38,52
+III
+31,42
+37,58
+II
+30,65
+36,66
+I
+29,90
+35,77
+A
+V
+28,34
+33,91
+IV
+27,65
+33,08
+III
+26,98
+32,27
+II
+26,32
+31,48
+I
+25,68
+30,71
+e) Valor do ponto da GDIBGE para os cargos do Nível Intermediário do Plano de Carreiras dos servidores da Fundação Instituto Brasileiro de Geografia e Estatística – IBGE de que trata o art. 84 desta Lei:
+Tabela I: Efeitos financeiros a partir de 1o de julho de 2008
+Em R$
+CLASSE
+PADRÃO
+VALOR DO PONTO DA GDIBGE
+SEM GQ
+COM GQ
+ESPECIAL
+III
+13,81
+14,14
+II
+13,47
+13,80
+I
+13,14
+13,46
+C
+VI
+12,63
+12,94
+V
+12,32
+12,62
+IV
+12,02
+12,31
+III
+11,73
+12,01
+II
+11,44
+11,72
+I
+11,16
+11,43
+B
+VI
+10,73
+10,99
+V
+10,47
+10,72
+IV
+10,21
+10,46
+III
+9,96
+10,20
+II
+9,72
+9,95
+I
+9,48
+9,71
+A
+V
+9,12
+9,34
+IV
+8,90
+9,11
+III
+8,68
+8,89
+II
+8,47
+8,67
+I
+8,26
+8,46
+Tabela II: Efeitos financeiros a partir de 1o de julho de 2009
+Em R$
+CLASSE
+PADRÃO
+VALOR DO PONTO DA GDIBGE
+SEM GQ
+COM GQ
+ESPECIAL
+III
+13,90
+18,66
+II
+13,63
+18,29
+I
+13,36
+17,93
+C
+VI
+12,87
+17,27
+V
+12,62
+16,93
+IV
+12,37
+16,60
+III
+12,13
+16,27
+II
+11,89
+15,95
+I
+11,66
+15,64
+B
+VI
+11,23
+15,07
+V
+11,01
+14,77
+IV
+10,79
+14,48
+III
+10,58
+14,20
+II
+10,37
+13,92
+I
+10,17
+13,65
+A
+V
+9,80
+13,15
+IV
+9,61
+12,89
+III
+9,42
+12,64
+II
+9,24
+12,39
+I
+9,06
+12,15
+ANEXO XCVII
+(Anexo XV-B da Lei no 11.355, de 19 de outubro de 2006) VALOR DA RETRIBUIÇÃO POR TITULAÇÃO - RT
+a) Valor da RT para o cargo de Pesquisador em Informações Geográficas e Estatísticas:
+Tabela I: Efeitos financeiros a partir de 1o de julho de 2008
+Em R$
+CLASSE
+PADRÃO
+VALOR DA RT
+Aperf/Espec
+Mestre
+Doutor
+ESPECIAL
+III
+556,00
+1.112,00
+1.946,00
+II
+535,00
+1.070,00
+1.873,00
+I
+515,00
+1.031,00
+1.804,00
+C
+III
+487,00
+975,00
+1.706,00
+II
+469,00
+939,00
+1.643,00
+I
+452,00
+904,00
+1.582,00
+B
+III
+427,00
+855,00
+1.496,00
+II
+412,00
+823,00
+1.440,00
+I
+396,00
+793,00
+1.387,00
+A
+III
+375,00
+749,00
+1.312,00
+II
+361,00
+722,00
+1.263,00
+I
+348,00
+695,00
+1.217,00
+Tabela II: Efeitos financeiros a partir de 1o de julho de 2009
+Em R$
+CLASSE
+PADRÃO
+VALOR DA RT
+Aperf/Espec
+Mestre
+Doutor
+ESPECIAL
+III
+556,00
+1.112,00
+3.263,00
+II
+535,00
+1.070,00
+3.086,75
+I
+515,00
+1.031,00
+2.920,01
+C
+III
+487,00
+975,00
+2.762,29
+II
+469,00
+939,00
+2.613,08
+I
+452,00
+904,00
+2.471,93
+B
+III
+427,00
+855,00
+2.338,41
+II
+412,00
+823,00
+2.212,10
+I
+396,00
+793,00
+2.092,61
+A
+III
+375,00
+749,00
+1.979,58
+II
+361,00
+722,00
+1.872,65
+I
+348,00
+695,00
+1.771,50
+b) Valor da RT para os cargos de Tecnologista em Informações Geográficas e Estatísticas e de
+Analista de Planejamento, Gestão e Infra-Estrutura em Informações Geográficas e Estatísticas: Tabela I: Efeitos financeiros a partir de 1o de julho de 2008
+Em R$
+CLASSE
+PADRÃO
+VALOR DA RT
+Aperf/Espec
+Mestre
+Doutor
+ESPECIAL
+III
+556,00
+1.112,00
+1.946,00
+II
+535,00
+1.070,00
+1.873,00
+I
+515,00
+1.031,00
+1.804,00
+D
+III
+487,00
+975,00
+1.706,00
+II
+469,00
+939,00
+1.643,00
+I
+452,00
+904,00
+1.582,00
+C
+III
+427,00
+855,00
+1.496,00
+II
+412,00
+823,00
+1.440,00
+I
+396,00
+793,00
+1.387,00
+B
+III
+375,00
+749,00
+1.312,00
+II
+361,00
+722,00
+1.263,00
+I
+348,00
+695,00
+1.217,00
+A
+III
+329,00
+657,00
+1.150,00
+II
+317,00
+633,00
+1.108,00
+I
+305,00
+610,00
+1.067,00
+Tabela II: Efeitos financeiros a partir de 1o de julho de 2009
+Em R$
+CLASSE
+PADRÃO
+VALOR DA RT
+Aperf/Espec
+Mestre
+Doutor
+ESPECIAL
+III
+556,00
+1.112,00
+3.263,00
+II
+535,00
+1.070,00
+3.086,75
+I
+515,00
+1.031,00
+2.920,01
+D
+III
+487,00
+975,00
+2.762,29
+II
+469,00
+939,00
+2.613,08
+I
+452,00
+904,00
+2.471,93
+C
+III
+427,00
+855,00
+2.338,41
+II
+412,00
+823,00
+2.212,10
+I
+396,00
+793,00
+2.092,61
+B
+III
+375,00
+749,00
+1.979,58
+II
+361,00
+722,00
+1.872,65
+I
+348,00
+695,00
+1.771,50
+A
+III
+329,00
+657,00
+1.675,81
+II
+317,00
+633,00
+1.585,29
+I
+305,00
+610,00
+1.499,66
+c) Valor da RT para os cargos do Nível Superior do Plano de Carreiras dos servidores da
+Fundação Instituto Brasileiro de Geografia e Estatística - IBGE de que trata o art. 84 desta Lei: Tabela I: Efeitos financeiros a partir de 1o de julho de 2008
+Em R$
+CLASSE
+PADRÃO
+VALOR DA RT
+Aperf/Espec
+Mestre
+Doutor
+ESPECIAL
+III
+556,00
+1.112,00
+1.946,00
+II
+535,00
+1.070,00
+1.873,00
+I
+515,00
+1.031,00
+1.804,00
+C
+VI
+487,00
+975,00
+1.706,00
+V
+469,00
+939,00
+1.643,00
+IV
+452,00
+904,00
+1.582,00
+III
+427,00
+855,00
+1.496,00
+II
+412,00
+823,00
+1.440,00
+I
+396,00
+793,00
+1.387,00
+B
+VI
+375,00
+749,00
+1.312,00
+V
+361,00
+722,00
+1.263,00
+IV
+348,00
+695,00
+1.217,00
+III
+329,00
+657,00
+1.150,00
+II
+317,00
+633,00
+1.108,00
+I
+305,00
+610,00
+1.067,00
+A
+V
+296,00
+592,00
+1.036,00
+IV
+287,00
+575,00
+1.006,00
+III
+279,00
+558,00
+977,00
+II
+271,00
+542,00
+948,00
+I
+263,00
+526,00
+921,00
+Tabela II: Efeitos financeiros a partir de 1o de julho de 2009
+Em R$
+CLASSE
+PADRÃO
+VALOR DA RT
+Aperf/Espec
+Mestre
+Doutor
+ESPECIAL
+III
+556,00
+1.112,00
+3.263,00
+II
+535,00
+1.070,00
+3.086,75
+I
+515,00
+1.031,00
+2.920,01
+C
+VI
+487,00
+975,00
+2.762,29
+V
+469,00
+939,00
+2.613,08
+IV
+452,00
+904,00
+2.471,93
+III
+427,00
+855,00
+2.338,41
+II
+412,00
+823,00
+2.212,10
+I
+396,00
+793,00
+2.092,61
+B
+VI
+375,00
+749,00
+1.979,58
+V
+361,00
+722,00
+1.872,65
+IV
+348,00
+695,00
+1.771,50
+III
+329,00
+657,00
+1.675,81
+II
+317,00
+633,00
+1.585,29
+I
+305,00
+610,00
+1.499,66
+A
+V
+296,00
+592,00
+1.418,65
+IV
+287,00
+575,00
+1.342,02
+III
+279,00
+558,00
+1.269,53
+II
+271,00
+542,00
+1.200,96
+I
+263,00
+526,00
+1.136,09
+ANEXO XCVIII
+(Anexo XV-C da Lei no 11.355, de 19 de outubro de 2006) VALOR DA GRATIFICAÇÃO POR QUALIFICAÇÃO - GQ
+a) Valor da GQ para os cargos de Técnico em Informações Geográficas e Estatísticas e de
+Técnico em Planejamento, Gestão e Infra-Estrutura em Informações Geográficas e Estatísticas:
+Em R$
+CLASSE
+PADRÃO
+VALOR DA GQ A PARTIR DE
+1o JUL 2008
+1o JUL 2009
+ESPECIAL
+III
+246,00
+279,00
+II
+237,00
+269,00
+I
+228,00
+259,00
+B
+VI
+215,00
+251,00
+V
+207,00
+242,00
+IV
+199,00
+233,00
+III
+192,00
+225,00
+II
+184,00
+217,00
+I
+177,00
+209,00
+A
+VI
+167,00
+202,00
+V
+161,00
+195,00
+IV
+155,00
+188,00
+III
+149,00
+181,00
+II
+144,00
+174,00
+I
+138,00
+168,00
+b) Valor da GQ para os cargos do Nível Intermediário do Plano de Carreiras dos servidores da
+Fundação Instituto Brasileiro de Geografia e Estatística - IBGE de que trata o art. 84 desta Lei:
+Em R$
+CLASSE
+PADRÃO
+VALOR DA GQ A PARTIR DE
+1o JUL 2008
+1o JUL 2009
+ESPECIAL
+III
+246,00
+279,00
+II
+237,00
+269,00
+I
+228,00
+259,00
+C
+VI
+215,00
+251,00
+V
+207,00
+242,00
+IV
+199,00
+233,00
+III
+192,00
+225,00
+II
+184,00
+217,00
+I
+177,00
+209,00
+B
+VI
+167,00
+202,00
+V
+161,00
+195,00
+IV
+155,00
+188,00
+III
+149,00
+181,00
+II
+144,00
+174,00
+I
+138,00
+168,00
+A
+V
+137,00
+163,00
+IV
+135,00
+158,00
+III
+133,00
+154,00
+II
+132,00
+149,00
+I
+130,00
+144,00
+ANEXO XCIX
+(Anexo XVIII da Lei no 11.355, de 19 de outubro de 2006)
+TABELAS DE VENCIMENTO BÁSICO DO PLANO DE CARREIRAS E CARGOS DO INPI
+a) Vencimento básico do cargo de Especialista Sênior em Propriedade Intelectual:
+Em R$
+CARGO
+CLASSE
+PADRÃO
+VENCIMENTO BÁSICO
+EFEITOS FINANCEIROS A
+PARTIR DE 1o JUL 2008
+Especialista Sênior em Propriedade
+Intelectual
+Especialista Sênior
+I
+5.441,35
+b) Vencimento básico do cargo de Pesquisador em Propriedade Industrial da Carreira de
+Pesquisa em Propriedade Industrial:
+Em R$
+CLASSE
+PADRÃO
+VENCIMENTO BÁSICO
+EFEITOS FINANCEIROS
+A PARTIR DE 1o JUL 2008
+ESPECIAL
+III
+5.558,82
+II
+5.352,40
+I
+5.154,36
+C
+III
+4.873,98
+II
+4.693,40
+I
+4.518,76
+B
+III
+4.273,25
+II
+4.115,37
+I
+3.962,68
+A
+III
+3.747,41
+II
+3.609,72
+I
+3.475,87
+c) Vencimento básico dos cargos de Tecnologista em Propriedade Industrial da Carreira de Produção e Análise em Propriedade Industrial e de Analista de Planejamento, Gestão e Infra-Estrutura em Propriedade Industrial da Carreira de Planejamento, Gestão e Infra-Estrutura em Propriedade Industrial:
+Em R$
+CLASSE
+PADRÃO
+VENCIMENTO BÁSICO
+EFEITOS FINANCEIROS
+A PARTIR DE 1o JUL 2008
+ESPECIAL
+III
+5.558,82
+II
+5.352,40
+I
+5.154,36
+D
+III
+4.873,98
+II
+4.693,40
+I
+4.518,76
+C
+III
+4.273,25
+II
+4.115,37
+I
+3.962,68
+B
+III
+3.747,41
+II
+3.609,72
+I
+3.475,87
+A
+III
+3.286,63
+II
+3.165,43
+I
+3.048,03
+d) Vencimento básico dos cargos de Técnico em Propriedade Industrial da Carreira de Suporte Técnico em Propriedade Industrial e de Técnico em Planejamento, Gestão e Infra-Estrutura em Propriedade Industrial da Carreira de Suporte em Planejamento, Gestão e Infra-Estrutura em Propriedade Industrial:
+Em R$
+CLASSE
+PADRÃO
+VENCIMENTO BÁSICO
+EFEITOS FINANCEIROS
+A PARTIR DE 1o JUL 2008
+ESPECIAL
+III
+2.785,32
+II
+2.688,24
+I
+2.594,71
+B
+VI
+2.506,13
+V
+2.418,25
+IV
+2.332,69
+III
+2.252,30
+II
+2.172,39
+I
+2.094,57
+A
+VI
+2.021,25
+V
+1.948,69
+IV
+1.877,71
+III
+1.810,19
+II
+1.743,57
+I
+1.678,28
+ANEXO C
+(Anexo XVIII-A da Lei no 11.355, de 19 de outubro de 2006)
+VALOR DO PONTO DA GRATIFICAÇÃO DE DESEMPENHO DE ATIVIDADE DA ÁREA DE PROPRIEDADE INDUSTRIAL - GDAPI
+a) Valor do ponto da GDAPI para o cargo de Especialista Sênior em Propriedade Intelectual: Em R$
+CARGO
+CLASSE
+PADRÃO
+VALOR DO PONTO DA GDAPI
+EFEITOS FINANCEIROS A PARTIR DE
+1o JUL 2008
+1o JUL 2009
+Especialista Sênior em
+Propriedade Intelectual
+Especialista
+Sênior
+I
+59,79
+82,40
+b) Valor do ponto da GDAPI para o cargo de Pesquisador em Propriedade Industrial da
+Carreira de Pesquisa em Propriedade Industrial:
+Em R$
+CLASSE
+PADRÃO
+VALOR DO PONTO DA GDAPI
+EFEITOS FINANCEIROS A PARTIR DE
+1o JUL 2008
+1o JUL 2009
+ESPECIAL
+III
+44,79
+53,55
+II
+43,70
+52,24
+I
+42,63
+50,97
+C
+III
+40,41
+48,31
+II
+39,42
+47,13
+I
+38,46
+45,98
+B
+III
+37,52
+44,86
+II
+36,60
+43,77
+I
+35,71
+42,70
+A
+III
+33,85
+40,47
+II
+33,02
+39,48
+I
+32,21
+38,52
+c) Valor do ponto da GDAPI para os cargos de Tecnologista em Propriedade Industrial da Carreira de Produção e Análise em Propriedade Industrial e de Analista de Planejamento, Gestão e Infra- Estrutura em Propriedade Industrial da Carreira de Planejamento, Gestão e Infra-Estrutura em Propriedade Industrial:
+Em R$
+CLASSE
+PADRÃO
+VALOR DO PONTO DA GDAPI
+EFEITOS FINANCEIROS A PARTIR DE
+1o JUL 2008
+1o JUL 2009
+ESPECIAL
+III
+44,79
+53,55
+II
+43,70
+52,24
+I
+42,63
+50,97
+D
+III
+40,41
+48,31
+II
+39,42
+47,13
+I
+38,46
+45,98
+C
+III
+37,52
+44,86
+II
+36,60
+43,77
+I
+35,71
+42,70
+B
+III
+33,85
+40,47
+II
+33,02
+39,48
+I
+32,21
+38,52
+A
+III
+31,42
+37,58
+II
+30,65
+36,66
+I
+29,90
+35,77
+d) Valor do ponto da GDAPI para os cargos de Técnico em Propriedade Industrial da Carreira de Suporte Técnico em Propriedade Industrial e de Técnico em Planejamento, Gestão e Infra-Estrutura em Propriedade Industrial da Carreira de Suporte em Planejamento, Gestão e Infra-Estrutura em Propriedade Industrial:
+Em R$
+CLASSE
+PADRÃO
+VALOR DO PONTO DA GDAPI
+EFEITOS FINANCEIROS
+A PARTIR DE 1o JUL 2008
+ESPECIAL
+III
+13,93
+II
+13,62
+I
+13,32
+B
+VI
+13,11
+V
+12,82
+IV
+12,53
+III
+12,33
+II
+12,05
+I
+11,77
+A
+VI
+11,58
+V
+11,31
+IV
+11,04
+III
+10,85
+II
+10,59
+I
+10,33
+ANEXO CI
+(Anexo XVIII-B da Lei no 11.355, de 19 de outubro de 2006) RETRIBUIÇÃO POR TITULAÇÃO
+a) Valor da RT para o cargo de Especialista Sênior em Propriedade Intelectual:
+Em R$
+CARGO
+CLASSE
+PADRÃO
+VALOR DA RT
+EFEITOS FINANCEIROS A
+PARTIR DE 1o JUL 2008
+Especialista Sênior em
+Propriedade Intelectual
+Especialista Sênior
+I
+1.904,00
+b) Valor da RT para o cargo de Pesquisador em Propriedade Industrial da Carreira de Pesquisa em Propriedade Industrial – Efeitos financeiros a partir de 1o de julho de 2008:
+Em R$
+CLASSE
+PADRÃO
+VALOR DA RT
+EFEITOS FINANCEIROS A PARTIR DE 1o JUL 2008
+Aperfeiçoamento/
+Especialização
+Mestrado
+Doutorado
+ESPECIAL
+III
+556,00
+1.112,00
+1.946,00
+II
+535,00
+1.070,00
+1.873,00
+I
+515,00
+1.031,00
+1.804,00
+C
+III
+487,00
+975,00
+1.706,00
+II
+469,00
+939,00
+1.643,00
+I
+452,00
+904,00
+1.582,00
+B
+III
+427,00
+855,00
+1.496,00
+II
+412,00
+823,00
+1.440,00
+I
+396,00
+793,00
+1.387,00
+A
+III
+375,00
+749,00
+1.312,00
+II
+361,00
+722,00
+1.263,00
+I
+348,00
+695,00
+1.217,00
+c) Valor da RT para os cargos de Tecnologista em Propriedade Industrial da Carreira de Produção e Análise em Propriedade Industrial e de Analista de Planejamento, Gestão e Infra-Estrutura em Propriedade Industrial da Carreira de Planejamento, Gestão e Infra-Estrutura em Propriedade Industrial – Efeitos financeiros a partir de 1o de julho de 2008:
+Em R$
+CLASSE
+PADRÃO
+VALOR DA RT
+EFEITOS FINANCEIROS A PARTIR DE 1o JUL 2008
+Aperfeiçoamento/
+Especialização
+Mestrado
+Doutorado
+ESPECIAL
+III
+556,00
+1.112,00
+1.946,00
+II
+535,00
+1.070,00
+1.873,00
+I
+515,00
+1.031,00
+1.804,00
+D
+III
+487,00
+975,00
+1.706,00
+II
+469,00
+939,00
+1.643,00
+I
+452,00
+904,00
+1.582,00
+C
+III
+427,00
+855,00
+1.496,00
+II
+412,00
+823,00
+1.440,00
+I
+396,00
+793,00
+1.387,00
+B
+III
+375,00
+749,00
+1.312,00
+II
+361,00
+722,00
+1.263,00
+I
+348,00
+695,00
+1.217,00
+A
+III
+329,00
+657,00
+1.150,00
+II
+317,00
+633,00
+1.108,00
+I
+305,00
+610,00
+1.067,00
+d) Valor da RT para o cargo de Pesquisador em Propriedade Industrial da Carreira de Pesquisa em Propriedade Industrial – Efeitos financeiros a partir de 1o de julho de 2009:
+Em R$
+CLASSE
+PADRÃO
+VALOR DA RT
+EFEITOS FINANCEIROS A PARTIR DE 1o JUL 2009
+Aperfeiçoamento/
+Especialização
+Mestrado
+Doutorado
+ESPECIAL
+III
+556,00
+1.232,00
+3.263,00
+II
+535,00
+1.190,00
+3.142,00
+I
+515,00
+1.151,00
+3.026,00
+C
+III
+487,00
+1.095,00
+2.861,00
+II
+469,00
+1.059,00
+2.755,00
+I
+452,00
+1.024,00
+2.653,00
+B
+III
+427,00
+975,00
+2.508,00
+II
+412,00
+943,00
+2.416,00
+I
+396,00
+913,00
+2.326,00
+A
+III
+375,00
+869,00
+2.200,00
+II
+361,00
+842,00
+2.119,00
+I
+348,00
+815,00
+2.040,00
+e) Valor da RT para os cargos de Tecnologista em Propriedade Industrial da Carreira de Produção e Análise em Propriedade Industrial e de Analista de Planejamento, Gestão e Infra-Estrutura em Propriedade Industrial da Carreira de Planejamento, Gestão e Infra-Estrutura em Propriedade Industrial – Efeitos financeiros a partir de 1o de julho de 2009:
+Em R$
+CLASSE
+PADRÃO
+VALOR DA RT
+EFEITOS FINANCEIROS A PARTIR DE 1o JUL 2009
+Aperfeiçoamento/
+Especialização
+Mestrado
+Doutorado
+ESPECIAL
+III
+556,00
+1.232,00
+3.263,00
+II
+535,00
+1.190,00
+3.142,00
+I
+515,00
+1.151,00
+3.026,00
+D
+III
+487,00
+1.095,00
+2.861,00
+II
+469,00
+1.059,00
+2.755,00
+I
+452,00
+1.024,00
+2.653,00
+C
+III
+427,00
+975,00
+2.508,00
+II
+412,00
+943,00
+2.416,00
+I
+396,00
+913,00
+2.326,00
+B
+III
+375,00
+869,00
+2.200,00
+II
+361,00
+842,00
+2.119,00
+I
+348,00
+815,00
+2.040,00
+A
+III
+329,00
+777,00
+1.929,00
+II
+317,00
+753,00
+1.858,00
+I
+305,00
+730,00
+1.789,00
+ANEXO CII
+(Anexo XVIII-C da Lei no 11.355, de 19 de outubro de 2006) GRATIFICAÇÃO POR QUALIFICAÇÃO – GQ
+Cargos de Técnico em Propriedade Industrial da Carreira de Suporte Técnico em Propriedade Industrial e de Técnico em Planejamento, Gestão e Infra-Estrutura em Propriedade Industrial da Carreira de Suporte em Planejamento, Gestão e Infra-Estrutura em Propriedade Industrial:
+Em R$
+CLASSE
+PADRÃO
+VALOR DA GQ
+EFEITOS FINANCEIROS
+A PARTIR DE 1o JUL 2008
+ESPECIAL
+III
+752,00
+II
+725,00
+I
+700,00
+B
+VI
+677,00
+V
+652,00
+IV
+629,00
+III
+608,00
+II
+587,00
+I
+565,00
+A
+VI
+546,00
+V
+527,00
+IV
+506,00
+III
+489,00
+II
+471,00
+I
+452,00
+ANEXO CIII
+(Anexo I-A da Lei no 10.855, de 1o de abril de 2004)
+ESTRUTURA DE CLASSES E PADRÕES DOS CARGOS DA CARREIRA DO SEGURO SOCIAL A PARTIR DE 1o DE JULHO DE 2008
+a) Cargos de nível superior e intermediário
+CARGOS
+CLASSE
+PADRÃO
+Cargos de provimento efetivo de nível superior e intermediário da Carreira do Seguro Social
+ESPECIAL
+IV
+III
+II
+I
+C
+IV
+III
+II
+I
+B
+IV
+III
+II
+I
+A
+V
+IV
+III
+II
+I
+b) Cargos de nível auxiliar
+CARGO
+CLASSE
+PADRÃO
+Cargos de provimento efetivo
+de nível auxiliar da Carreira do Seguro Social
+ESPECIAL
+III
+II
+I
+ANEXO CIV
+(Anexo II-A da Lei no 10.855, de 1o de abril de 2004)
+TABELA DE CORRELAÇÃO DOS CARGOS DA CARREIRA DO SEGURO SOCIAL (A partir de 1o de julho de 2008)
+a) Cargos de nível superior e intermediário
+SITUAÇÃO ATUAL
+SITUAÇÃO NOVA
+CARGOS
+CLASSE
+PADRÃO
+PADRÃO
+CLASSE
+CARGOS
+Cargos de provimento efetivo de nível superior e intermediário da Carreira do Seguro Social
+ESPECIAL
+V
+IV
+ESPECIAL
+Cargos de provimento efetivo de nível superior e intermediário da Carreira do Seguro Social
+IV
+III
+II
+I
+III
+C
+V
+II
+IV
+I
+III
+IV
+C
+II
+III
+I
+II
+B
+V
+I
+IV
+IV
+B
+III
+III
+II
+II
+I
+I
+A
+V
+V
+A
+IV
+IV
+III
+III
+II
+II
+I
+I
+b) Cargos de nível auxiliar
+SITUAÇÃO ATUAL
+SITUAÇÃO NOVA
+CARGOS
+CLASSE
+PADRÃO
+PADRÃO
+CLASSE
+CARGOS
+Cargos de provimento efetivo de nível auxiliar da Carreira do Seguro Social
+ESPECIAL
+V
+III
+ESPECIAL
+Cargos de provimento efetivo de nível auxiliar
+da Carreira do
+Seguro Social
+IV
+II
+III
+I
+II
+I
+C
+V
+IV
+III
+II
+I
+B
+V
+IV
+III
+II
+I
+A
+V
+IV
+III
+II
+I
+ANEXO CV
+(Anexo III-A da Lei no 10.855, de 1o de abril de 2004) TERMO DE OPÇÃO
+1.1.1 CARREIRA DO SEGURO SOCIAL
+Nome:
+Cargo:
+Matrícula SIAPE:
+Unidade de Lotação:
+Unidade Pagadora:
+Cidade:
+Estado:
+Venho, nos termos do § 1o do art.4o-A da Lei no 10.855, de 1o de abril de 2004, optar pela redução da jornada de trabalho para 30 (trinta) horas semanais, com redução proporcional da remuneração.
+Local e data , / / .
+Assinatura
+Recebido em: / / .
+Assinatura/Matrícula ou Carimbo do Servidor do órgão do Sistema de Pessoal Civil da Administração
+Federal - SIPEC
+ANEXO CVI
+(Anexo IV-A da Lei no 10.855, de 1o de abril de 2004) CARREIRAS DO SEGURO SOCIAL TABELA DE VENCIMENTO BÁSICO
+a) Tabela I: Vencimento básico dos cargos de nível superior e intermediário - Efeitos financeiros a partir de 1o de julho de 2008 até 31 de maio de 2009
+Em R$
+CLASSE
+PADRÃO
+VENCIMENTO BÁSICO
+NÍVEL DO CARGO
+SUPERIOR
+INTERMEDIARIO
+ESPECIAL
+IV
+1.037,11
+763,85
+III
+981,46
+719,41
+II
+928,42
+696,58
+I
+917,20
+674,73
+C
+IV
+895,65
+671,14
+III
+874,83
+650,40
+II
+854,61
+630,52
+I
+834,98
+611,44
+B
+IV
+815,92
+593,24
+III
+797,41
+575,75
+II
+779,46
+559,10
+I
+762,01
+543,10
+A
+V
+745,08
+527,78
+IV
+728,63
+513,13
+III
+712,69
+499,09
+II
+697,21
+485,68
+I
+682,15
+472,78
+b) Tabela II - Vencimento básico dos cargos de nível auxiliar - Efeitos financeiros a partir de
+1o de julho de 2008 até 31 de maio de 2009
+Em R$
+CLASSE
+PADRÃO
+VENCIMENTO BÁSICO
+ESPECIAL
+III
+464,46
+II
+448,32
+I
+432,90
+c) Tabela III - Vencimento básico dos cargos de nível superior – Efeitos financeiros a partir de
+1o de junho de 2009
+Em R$
+CLASSE
+PADRÃO
+VENCIMENTO BÁSICO
+JORNADA DE TRABALHO SEMANAL
+30 horas
+40 horas
+ESPECIAL
+IV
+822,76
+1.096,98
+III
+781,02
+1.041,33
+II
+741,24
+988,29
+I
+732,82
+977,07
+C
+IV
+716,66
+955,52
+III
+701,04
+934,70
+II
+685,88
+914,48
+I
+671,15
+894,85
+B
+IV
+656,86
+875,79
+III
+642,98
+857,28
+II
+629,51
+839,33
+I
+616,43
+821,88
+A
+V
+603,73
+804,95
+IV
+591,39
+788,50
+III
+579,43
+772,56
+II
+567,82
+757,08
+I
+556,53
+742,02
+d) Tabela IV - Vencimento básico dos cargos de nível intermediário – Efeitos financeiros a partir de 1o de junho de 2009
+Em R$
+CLASSE
+PADRÃO
+VENCIMENTO BÁSICO
+JORNADA DE TRABALHO SEMANAL
+30 horas
+40 horas
+ESPECIAL
+IV
+617,81
+823,72
+III
+584,47
+779,28
+II
+567,35
+756,45
+I
+550,96
+734,60
+C
+IV
+548,27
+731,01
+III
+532,72
+710,27
+II
+517,81
+690,39
+I
+503,50
+671,31
+B
+IV
+489,84
+653,11
+III
+476,73
+635,62
+II
+464,24
+618,97
+I
+452,24
+602,97
+A
+V
+440,75
+587,65
+IV
+429,76
+573,00
+III
+419,23
+558,96
+II
+409,17
+545,55
+I
+399,50
+532,65
+e) Tabela V - Vencimento básico dos cargos de nível auxiliar – Efeitos financeiros a partir de
+1o de junho de 2009
+Em R$
+CLASSE
+PADRÃO
+VENCIMENTO BÁSICO
+JORNADA DE TRABALHO SEMANAL
+30 horas
+40 horas
+ESPECIAL
+III
+393,26
+524,33
+II
+381,15
+508,19
+I
+369,59
+492,77
+ANEXO CVII
+(Anexo VI-A da Lei no 10.855, de 1o de abril de 2004) VALOR DO PONTO DA GRATIFICAÇÃO DE DESEMPENHO
+DE ATIVIDADE DO SEGURO SOCIAL – GDASS
+a) Tabela I: Valor do ponto da GDASS para os cargos de nível superior e intermediário – Efeitos financeiros a partir de 1o de julho de 2008 até 31 de maio de 2009
+Em R$
+CLASSE
+PADRÃO
+VALOR DO PONTO DA GDASS
+NÍVEL DO CARGO
+SUPERIOR
+INTERMEDIARIO
+ESPECIAL
+IV
+33,12
+23,27
+III
+32,38
+22,75
+II
+31,65
+22,24
+I
+30,94
+21,74
+C
+IV
+29,75
+20,76
+III
+29,08
+20,29
+II
+28,43
+19,83
+I
+27,79
+19,38
+B
+IV
+26,72
+18,51
+III
+26,12
+18,09
+II
+25,53
+17,68
+I
+24,96
+17,28
+A
+V
+24,00
+16,50
+IV
+23,46
+16,13
+III
+22,93
+15,77
+II
+22,41
+15,42
+I
+21,91
+15,07
+b) Tabela II - Valor do ponto da GDASS para os cargos de nível auxiliar – Efeitos financeiros a partir de 1o de julho de 2008 até 31 de maio de 2009
+Em R$
+CLASSE
+PADRÃO
+VALOR DO PONTO DA GDASS
+ESPECIAL
+III
+5,63
+II
+5,62
+I
+5,61
+c) Tabela III – Valor do ponto da GDASS para os cargos de nível superior – 40 horas semanais - Efeitos financeiros a partir de 1o de junho de 2009:
+Em R$
+CLASSE
+PADRÃO
+VALOR DO PONTO DA GDASS
+EFEITOS FINANCEIROS A PARTIR DE
+1o JUN 2009
+1o NOV 2009
+1o JUN 2010
+1o NOV 2010
+1o JUL 2011
+ESPECIAL
+IV
+39,04
+46,73
+55,54
+65,41
+71,99
+III
+38,13
+45,63
+54,34
+64,00
+70,23
+II
+37,24
+44,56
+53,17
+62,62
+68,52
+I
+36,37
+43,52
+52,03
+61,27
+66,85
+C
+IV
+34,94
+41,81
+49,69
+58,52
+63,67
+III
+34,12
+40,83
+48,62
+57,26
+62,12
+II
+33,32
+39,87
+47,57
+56,03
+60,60
+I
+32,54
+38,94
+46,55
+54,82
+59,12
+B
+IV
+31,26
+37,41
+44,46
+52,36
+56,30
+III
+30,53
+36,53
+43,50
+51,23
+54,93
+II
+29,81
+35,67
+42,56
+50,13
+53,59
+I
+29,11
+34,83
+41,64
+49,05
+52,28
+A
+V
+27,96
+33,46
+39,77
+46,85
+49,79
+IV
+27,30
+32,68
+38,91
+45,84
+48,58
+III
+26,66
+31,91
+38,07
+44,85
+47,40
+II
+26,04
+31,16
+37,25
+43,88
+46,24
+I
+25,43
+30,43
+36,45
+42,94
+45,11
+d) Tabela IV – Valor do ponto da GDASS para os cargos de nível superior – 30 horas semanais - Efeitos financeiros a partir de 1o de junho de 2009
+Em R$
+CLASSE
+PADRÃO
+VALOR DO PONTO DA GDASS
+EFEITOS FINANCEIROS A PARTIR DE
+1o JUN 2009
+1o NOV 2009
+1o JUN 2010
+1o NOV 2010
+1o JUL 2011
+ESPECIAL
+IV
+29,28
+35,05
+41,66
+49,06
+53,99
+III
+28,60
+34,22
+40,76
+48,00
+52,67
+II
+27,93
+33,42
+39,88
+46,97
+51,39
+I
+27,28
+32,64
+39,02
+45,95
+50,14
+C
+IV
+26,21
+31,36
+37,27
+43,89
+47,75
+III
+25,59
+30,62
+36,47
+42,95
+46,59
+II
+24,99
+29,90
+35,68
+42,02
+45,45
+I
+24,41
+29,21
+34,91
+41,12
+44,34
+B
+IV
+23,45
+28,06
+33,35
+39,27
+42,23
+III
+22,90
+27,40
+32,63
+38,42
+41,20
+II
+22,36
+26,75
+31,92
+37,60
+40,19
+I
+21,83
+26,12
+31,23
+36,79
+39,21
+A
+V
+20,97
+25,10
+29,83
+35,14
+37,34
+IV
+20,48
+24,51
+29,18
+34,38
+36,44
+III
+20,00
+23,93
+28,55
+33,64
+35,55
+II
+19,53
+23,37
+27,94
+32,91
+34,68
+I
+19,07
+22,82
+27,34
+32,21
+33,83
+e) Tabela V – Valor do ponto da GDASS para os cargos de nível intermediário – 40 horas semanais - Efeitos financeiros a partir de 1o de junho de 2009:
+Em R$
+CLASSE
+PADRÃO
+VALOR DO PONTO DA GDASS
+EFEITOS FINANCEIROS A PARTIR DE
+1o JUN 2009
+1o NOV 2009
+1o JUN 2010
+1o NOV 2010
+1o JUL 2011
+ESPECIAL
+IV
+28,07
+34,59
+36,63
+42,13
+48,69
+III
+27,44
+33,81
+35,84
+41,14
+47,27
+II
+26,82
+33,05
+35,07
+40,18
+45,89
+I
+26,22
+32,31
+34,32
+39,24
+44,55
+C
+IV
+24,97
+30,77
+32,84
+37,37
+42,15
+III
+24,41
+30,08
+32,13
+36,49
+40,92
+II
+23,86
+29,40
+31,44
+35,63
+39,73
+I
+23,32
+28,74
+30,76
+34,79
+38,57
+B
+IV
+22,21
+27,37
+29,44
+33,13
+36,49
+III
+21,71
+26,75
+28,81
+32,35
+35,43
+II
+21,22
+26,15
+28,19
+31,59
+34,40
+I
+20,74
+25,56
+27,58
+30,85
+33,40
+A
+V
+19,75
+24,34
+26,39
+29,38
+31,60
+IV
+19,31
+23,79
+25,82
+28,69
+30,68
+III
+18,88
+23,26
+25,26
+28,02
+29,79
+II
+18,46
+22,74
+24,72
+27,36
+28,92
+I
+18,04
+22,23
+24,19
+26,72
+28,08
+f) Tabela VI – Valor do ponto da GDASS para os cargos de nível intermediário – 30 horas semanais - Efeitos financeiros a partir de 1o de junho de 2009:
+Em R$
+CLASSE
+PADRÃO
+VALOR DO PONTO DA GDASS
+EFEITOS FINANCEIROS A PARTIR DE
+1o JUN 2009
+1o NOV 2009
+1o JUN 2010
+1o NOV 2010
+1o JUL 2011
+ESPECIAL
+IV
+21,05
+25,94
+27,47
+31,60
+36,52
+III
+20,58
+25,36
+26,88
+30,86
+35,45
+II
+20,12
+24,79
+26,30
+30,14
+34,42
+I
+19,67
+24,23
+25,74
+29,43
+33,41
+C
+IV
+18,73
+23,08
+24,63
+28,03
+31,61
+III
+18,31
+22,56
+24,10
+27,37
+30,69
+II
+17,90
+22,05
+23,58
+26,72
+29,80
+I
+17,49
+21,56
+23,07
+26,09
+28,93
+B
+IV
+16,66
+20,53
+22,08
+24,85
+27,37
+III
+16,28
+20,06
+21,61
+24,26
+26,57
+II
+15,92
+19,61
+21,14
+23,69
+25,80
+I
+15,56
+19,17
+20,69
+23,14
+25,05
+A
+V
+14,81
+18,26
+19,79
+22,04
+23,70
+IV
+14,48
+17,84
+19,37
+21,52
+23,01
+III
+14,16
+17,45
+18,95
+21,02
+22,34
+II
+13,85
+17,06
+18,54
+20,52
+21,69
+I
+13,53
+16,67
+18,14
+20,04
+21,06
+g) Tabela VII – Valor do ponto da GDASS para os cargos de nível auxiliar – 40 horas semanais - Efeitos financeiros a partir de 1o de junho de 2009
+CLASSE
+PADRÃO
+VALOR DO PONTO DA GDASS
+EFEITOS FINANCEIROS A PARTIR DE
+1o JUN 2009
+1o JUN 2010
+ESPECIAL
+III
+5,82
+7,72
+II
+5,54
+7,71
+I
+5,28
+7,70
+h) Tabela VIII – Valor do ponto da GDASS para os cargos de nível auxiliar – 30 horas semanais - Efeitos financeiros a partir de 1o de junho de 2009
+CLASSE
+PADRÃO
+VALOR DO PONTO DA GDASS
+EFEITOS FINANCEIROS A PARTIR DE
+1o JUN 2009
+1o JUN 2010
+ESPECIAL
+III
+4,37
+5,79
+II
+4,16
+5,78
+I
+3,96
+5,78
+ANEXO CVIII
+(Tabela I, do item “b”, Cargos de Nível Intermediário, do Anexo V da Lei no 10.855, de 1o de abril de
+2004)
+b) Cargos de Nível Intermediário
+Tabela I
+CÓDIGO NA CARREIRA DO SEGURO SOCIAL
+DENOMINAÇÃO ATUAL
+DENOMINAÇÃO PROPOSTA
+ATRIBUIÇÕES GERAIS
+434151
+AGENTE DE PORTARIA
+AGENTE DE SERVIÇOS DIVERSOS
+Realizar atividades de nível intermediário com a finalidade de garantir o apoio
+operacional e administrativo necessários à execução dos trabalhos de todas as unidades do INSS, inclusive a realização de serviços externos, atendimento geral
+aos usuários e a execução de outras atividades
+inerentes às competências do INSS.
+434145
+AUXILIAR DE
+SERVIÇOS GERAIS
+434094
+AUXILIAR OPERACIONAL DE SERVIÇOS DIVERSOS
+434104
+AUXILIAR DE SERVIÇOS DIVERSOS
+ANEXO CIX
+(Anexo II da Lei no 11.046, de 27 de dezembro de 2004) TABELA DE VENCIMENTO BÁSICO DOS CARGOS DAS
+CARREIRAS DO DNPM, CRIADAS NO ART. 1o DESTA LEI
+a) Vencimento básico da Carreira de Especialista em Recursos Minerais
+Em R$
+CLASSE
+PADRÃO
+VENCIMENTO BÁSICO
+EFEITOS FINANCEIROS A PARTIR DE
+1o JUL 2008
+1o JUL 2009
+1o JUL 2010
+ESPECIAL
+III
+5.222,18
+5.378,85
+5.540,22
+II
+5.021,33
+5.171,97
+5.327,13
+I
+4.828,20
+4.973,05
+5.122,24
+B
+V
+4.429,54
+4.562,43
+4.699,30
+IV
+4.259,17
+4.386,95
+4.518,56
+III
+4.095,36
+4.218,22
+4.344,77
+II
+3.937,85
+4.055,98
+4.177,66
+I
+3.786,39
+3.899,98
+4.016,98
+A
+V
+3.473,75
+3.577,96
+3.685,30
+IV
+3.340,14
+3.440,35
+3.543,56
+III
+3.211,67
+3.308,03
+3.407,27
+II
+3.088,14
+3.180,80
+3.276,22
+I
+2.969,37
+3.058,46
+3.150,21
+b) Vencimento básico da Carreira de Técnico em Atividades de Mineração
+Em R$
+CLASSE
+PADRÃO
+VENCIMENTO BÁSICO
+EFEITOS FINANCEIROS A PARTIR DE
+1o JUL 2008
+1o JUL 2009
+1o JUL 2010
+ESPECIAL
+III
+2.627,48
+2.706,30
+2.787,49
+II
+2.550,95
+2.627,48
+2.706,30
+I
+2.476,65
+2.550,95
+2.627,48
+B
+V
+2.329,87
+2.395,26
+2.467,12
+IV
+2.262,01
+2.325,50
+2.395,26
+III
+2.196,13
+2.257,77
+2.325,50
+II
+2.132,17
+2.192,01
+2.257,77
+I
+2.070,07
+2.128,17
+2.192,01
+A
+V
+1.931,04
+1.988,94
+2.048,61
+IV
+1.801,34
+1.858,82
+1.914,59
+III
+1.680,35
+1.737,21
+1.789,34
+II
+1.567,49
+1.623,56
+1.672,28
+I
+1.462,21
+1.517,35
+1.562,88
+c) Vencimento básico da Carreira de Analista Administrativo
+Em R$
+CLASSE
+PADRÃO
+VENCIMENTO BÁSICO
+EFEITOS FINANCEIROS A PARTIR DE
+1o JUL 2008
+1o JUL 2009
+1o JUL 2010
+ESPECIAL
+III
+5.222,18
+5.378,85
+5.540,22
+II
+5.021,33
+5.171,97
+5.327,13
+I
+4.828,20
+4.973,05
+5.122,24
+B
+V
+4.429,54
+4.562,43
+4.699,30
+IV
+4.259,17
+4.386,95
+4.518,56
+III
+4.095,36
+4.218,22
+4.344,77
+II
+3.937,85
+4.055,98
+4.177,66
+I
+3.786,39
+3.899,98
+4.016,98
+A
+V
+3.473,75
+3.577,96
+3.685,30
+IV
+3.340,14
+3.440,35
+3.543,56
+III
+3.211,67
+3.308,03
+3.407,27
+II
+3.088,14
+3.180,80
+3.276,22
+I
+2.969,37
+3.058,46
+3.150,21
+d) Vencimento básico da Carreira de Técnico Administrativo
+Em R$
+CLASSE
+PADRÃO
+VENCIMENTO BÁSICO
+EFEITOS FINANCEIROS A PARTIR DE
+1o JUL 2008
+1o JUL 2009
+1o JUL 2010
+ESPECIAL
+III
+2.627,48
+2.706,30
+2.787,49
+II
+2.550,95
+2.627,48
+2.706,30
+I
+2.476,65
+2.550,95
+2.627,48
+B
+V
+2.329,87
+2.395,26
+2.467,12
+IV
+2.262,01
+2.325,50
+2.395,26
+III
+2.196,13
+2.257,77
+2.325,50
+II
+2.132,17
+2.192,01
+2.257,77
+I
+2.070,07
+2.128,17
+2.192,01
+A
+V
+1.931,04
+1.988,94
+2.048,61
+IV
+1.801,34
+1.858,82
+1.914,59
+III
+1.680,35
+1.737,21
+1.789,34
+II
+1.567,49
+1.623,56
+1.672,28
+I
+1.462,21
+1.517,35
+1.562,88
+ANEXO CX
+(Anexo V da Lei no 11.046, de 27 de dezembro de 2004) TABELA DE VENCIMENTO BÁSICO DOS CARGOS DO
+PLANO ESPECIAL DE CARGOS DO DNPM
+a) Vencimento básico dos cargos de nível superior
+Em R$
+CLASSE
+PADRÃO
+VENCIMENTO BÁSICO
+EFEITOS FINANCEIROS A PARTIR DE
+1o JUL 2008
+1o JUL 2009
+1o JUL 2010
+ESPECIAL
+III
+3.638,18
+3.783,71
+3.897,22
+II
+3.549,44
+3.691,42
+3.802,17
+I
+3.462,87
+3.601,39
+3.709,43
+C
+VI
+3.336,10
+3.469,55
+3.573,63
+V
+3.254,73
+3.384,93
+3.486,47
+IV
+3.175,35
+3.302,37
+3.401,43
+III
+3.097,90
+3.221,82
+3.318,47
+II
+3.022,34
+3.143,24
+3.237,53
+I
+2.948,62
+3.066,58
+3.158,57
+B
+VI
+2.840,67
+2.954,32
+3.042,94
+V
+2.771,39
+2.882,26
+2.968,72
+IV
+2.703,80
+2.811,96
+2.896,31
+III
+2.637,85
+2.743,38
+2.825,67
+II
+2.573,51
+2.676,47
+2.756,75
+I
+2.510,74
+2.611,19
+2.689,51
+A
+V
+2.418,82
+2.515,60
+2.591,05
+IV
+2.359,82
+2.454,24
+2.527,85
+III
+2.302,26
+2.394,38
+2.466,20
+II
+2.246,11
+2.335,98
+2.406,05
+I
+2.191,33
+2.279,00
+2.347,37
+b) Vencimento básico dos cargos de nível intermediário:
+Em R$
+CLASSE
+PADRÃO
+VENCIMENTO BÁSICO
+EFEITOS FINANCEIROS A PARTIR DE
+1o JUL 2008
+1o JUL 2009
+1o JUL 2010
+ESPECIAL
+III
+2.217,48
+2.306,18
+2.439,23
+II
+2.163,40
+2.249,93
+2.379,74
+I
+2.110,63
+2.195,05
+2.321,70
+C
+VI
+2.029,45
+2.110,63
+2.232,40
+V
+1.979,95
+2.059,15
+2.177,95
+IV
+1.931,66
+2.008,93
+2.124,83
+III
+1.884,55
+1.959,93
+2.073,00
+II
+1.838,59
+1.912,13
+2.022,44
+I
+1.793,75
+1.865,49
+1.973,11
+B
+VI
+1.724,76
+1.793,74
+1.897,22
+V
+1.682,69
+1.749,99
+1.850,95
+IV
+1.641,65
+1.707,31
+1.805,80
+III
+1.601,61
+1.665,67
+1.761,76
+II
+1.562,55
+1.625,04
+1.718,79
+I
+1.524,44
+1.585,40
+1.676,87
+A
+V
+1.465,81
+1.524,42
+1.612,38
+IV
+1.430,06
+1.487,24
+1.573,05
+III
+1.395,18
+1.450,97
+1.534,68
+II
+1.361,15
+1.415,58
+1.497,25
+I
+1.327,95
+1.381,05
+1.460,73
+c) Cargos de nível auxiliar
+Em R$
+CLASSE
+PADRÃO
+VENCIMENTO BÁSICO
+EFEITOS FINANCEIROS A PARTIR DE
+1o JUL 2008
+1o JUL 2009
+1o JUL 2010
+ESPECIAL
+III
+1.288,95
+1.314,73
+1.341,02
+II
+1.276,19
+1.301,71
+1.327,74
+I
+1.263,55
+1.288,82
+1.314,59
+ANEXO CXI
+(Anexo III-A da Lei no 11.046, de 27 de dezembro de 2004)
+ESTRUTURA DE CLASSES E PADRÕES DOS CARGOS DE NÍVEL AUXILIAR DO PLANO ESPECIAL DE CARGOS DO DNPM
+A PARTIR DE 1o DE JULHO DE 2008
+CARGO
+CLASSE
+PADRÃO
+Cargos de provimento efetivo
+de nível auxiliar do Plano Especial de Cargos do DNPM
+ESPECIAL
+III
+II
+I
+ANEXO CXII
+(Anexo IV-A da Lei no 11.046, de 27 de dezembro de 2004) TABELA DE CORRELAÇÃO DOS CARGOS DE NÍVEL AUXILIAR DO
+PLANO ESPECIAL DE CARGOS DO DNPM A PARTIR DE 1o DE JULHO DE 2008
+SITUAÇÃO ATUAL
+SITUAÇÃO NOVA
+CARGOS
+CLASSE
+PADRÃO
+PADRÃO
+CLASSE
+CARGOS
+Cargos de provimento efetivo de
+nível auxiliar do Plano
+Especial de
+Cargos do DNPM
+ESPECIAL
+III
+III
+ESPECIAL
+Cargos de provimento Efetivo
+de nível auxiliar do Plano Especial de Cargos do DNPM
+II
+II
+I
+I
+C
+VI
+V
+IV
+III
+II
+I
+B
+VI
+V
+IV
+III
+II
+I
+A
+V
+IV
+III
+II
+I
+ANEXO CXIII
+(Anexo VI-A da Lei no 11.046, de 27 de dezembro de 2004)
+TABELA DE VALOR DO PONTO DA GRATIFICAÇÃO DE DESEMPENHO DE ATIVIDADES DE RECURSOS MINERAIS – GDARM
+a) Valor do ponto da GDARM para a Carreira de Especialista em Recursos Minerais
+Em R$
+CLASSE
+PADRÃO
+VALOR DO PONTO DA GDARM
+EFEITOS FINANCEIROS A PARTIR DE
+1o JUL 2008
+1o JUL 2009
+1o JUL 2010
+ESPECIAL
+III
+31,98
+61,37
+67,41
+II
+31,59
+60,61
+66,58
+I
+31,20
+59,86
+65,76
+B
+V
+30,59
+58,69
+64,47
+IV
+30,21
+57,97
+63,67
+III
+29,84
+57,25
+62,88
+II
+29,47
+56,54
+62,10
+I
+29,11
+55,84
+61,33
+A
+V
+28,54
+54,75
+60,13
+IV
+28,19
+54,07
+59,39
+III
+27,84
+53,40
+58,66
+II
+27,50
+52,74
+57,94
+I
+27,16
+52,09
+57,22
+b) Valor do ponto da GDARM para a Carreira de Técnico em Atividades de Mineração
+Em R$
+CLASSE
+PADRÃO
+VALOR DO PONTO DA GDARM
+EFEITOS FINANCEIROS A PARTIR DE
+1o JUL 2008
+1o JUL 2009
+1o JUL 2010
+ESPECIAL
+III
+15,73
+30,52
+33,57
+II
+15,38
+29,83
+32,81
+I
+15,04
+29,16
+32,08
+B
+V
+14,46
+28,04
+30,85
+IV
+14,14
+27,41
+30,16
+III
+13,82
+26,80
+29,48
+II
+13,51
+26,20
+28,82
+I
+13,21
+25,61
+28,17
+A
+V
+12,70
+24,63
+27,09
+IV
+12,42
+24,08
+26,48
+III
+12,14
+23,54
+25,89
+II
+11,87
+23,01
+25,31
+I
+11,60
+22,49
+24,74
+ANEXO CXIV
+(Anexo VI-B da Lei no 11.046, de 27 de dezembro de 2004)
+TABELA DE VALOR DO PONTO DA GRATIFICAÇÃO DE DESEMPENHO DE ATIVIDADES DE PRODUÇÃO MINERAL - GDAPM
+a) Valor do ponto da GDAPM para os cargos de nível superior do Plano Especial de Cargos do DNPM referidos no art. 15 da Lei no 11.046, de 27 de dezembro de 2004.
+Em R$
+CLASSE
+PADRÃO
+VALOR DO PONTO DA GDAPM
+EFEITOS FINANCEIROS A PARTIR DE
+1o JUL 2008
+1o JUL 2009
+1o JUL 2010
+ESPECIAL
+III
+27,67
+49,75
+54,47
+II
+27,00
+48,55
+53,17
+I
+26,34
+47,38
+51,90
+C
+VI
+25,25
+45,43
+49,76
+V
+24,64
+44,33
+48,57
+IV
+24,04
+43,26
+47,41
+III
+23,46
+42,21
+46,28
+II
+22,89
+41,19
+45,17
+I
+22,33
+40,19
+44,09
+B
+VI
+21,41
+38,53
+42,27
+V
+20,89
+37,60
+41,26
+IV
+20,38
+36,69
+40,27
+III
+19,88
+35,80
+39,31
+II
+19,40
+34,93
+38,37
+I
+18,93
+34,08
+37,45
+A
+V
+18,15
+32,67
+35,91
+IV
+17,71
+31,88
+35,05
+III
+17,28
+31,11
+34,21
+II
+16,86
+30,36
+33,39
+I
+16,45
+29,63
+32,59
+b) Valor do ponto da GDAPM para os cargos de nível intermediário do Plano Especial de
+Cargos do DNPM referidos no art. 15 da Lei no 11.046, de 27 de dezembro de 2004.
+Em R$
+CLASSE
+PADRÃO
+VALOR DO PONTO DA GDAPM
+EFEITOS FINANCEIROS A PARTIR DE
+1o JUL 2008
+1o JUL 2009
+1o JUL 2010
+ESPECIAL
+III
+12,95
+25,09
+26,98
+II
+12,61
+24,45
+26,30
+I
+12,28
+23,82
+25,63
+C
+VI
+11,75
+22,79
+24,53
+V
+11,44
+22,21
+23,91
+IV
+11,14
+21,64
+23,30
+III
+10,85
+21,09
+22,71
+II
+10,57
+20,55
+22,13
+I
+10,30
+20,02
+21,57
+B
+VI
+9,86
+19,16
+20,64
+V
+9,60
+18,67
+20,12
+IV
+9,35
+18,19
+19,61
+III
+9,11
+17,72
+19,11
+II
+8,87
+17,27
+18,63
+I
+8,64
+16,83
+18,16
+A
+V
+8,27
+16,11
+17,38
+IV
+8,05
+15,70
+16,94
+III
+7,84
+15,30
+16,51
+II
+7,64
+14,91
+16,09
+I
+7,44
+14,53
+15,68
+ANEXO CXV
+(Anexo VI-C da Lei no 11.046, de 27 de dezembro de 2004)
+VALOR DO PONTO DA GRATIFICAÇÃO DE DESEMPENHO DE ATIVIDADES ADMINISTRATIVAS DO DNPM – GDADNPM
+a) Valor do ponto da GDADNPM para o cargo de Analista Administrativo da Carreira de
+Analista Administrativo:
+Em R$
+CLASSE
+PADRÃO
+VALOR DO PONTO DA GDADNPM
+EFEITOS FINANCEIROS A PARTIR DE
+1o JUL 2008
+1o JUL 2009
+1o JUL 2010
+ESPECIAL
+III
+10,33
+21,30
+34,75
+II
+10,26
+21,03
+34,24
+I
+10,19
+20,76
+33,73
+B
+V
+10,04
+20,27
+32,91
+IV
+9,97
+20,01
+32,42
+III
+9,90
+19,75
+31,94
+II
+9,83
+19,50
+31,47
+I
+9,76
+19,25
+31,00
+A
+V
+9,62
+18,80
+30,24
+IV
+9,55
+18,56
+29,79
+III
+9,48
+18,32
+29,35
+II
+9,41
+18,08
+28,92
+I
+9,34
+17,85
+28,49
+b) Valor do ponto da GDADNPM para o cargo de Técnico Administrativo da Carreira de
+Técnico Administrativo
+Em R$
+CLASSE
+PADRÃO
+VALOR DO PONTO DA GDADNPM
+EFEITOS FINANCEIROS A PARTIR DE
+1o JUL 2008
+1o JUL 2009
+1o JUL 2010
+ESPECIAL
+III
+5,02
+10,39
+16,95
+II
+4,87
+10,09
+16,46
+I
+4,73
+9,80
+15,98
+B
+V
+4,50
+9,33
+15,22
+IV
+4,37
+9,06
+14,78
+III
+4,24
+8,80
+14,35
+II
+4,12
+8,54
+13,93
+I
+4,00
+8,29
+13,52
+A
+V
+3,81
+7,90
+12,88
+IV
+3,70
+7,67
+12,50
+III
+3,59
+7,45
+12,14
+II
+3,49
+7,23
+11,79
+I
+3,39
+7,02
+11,45
+ANEXO CXVI
+(Anexo VI-D da Lei no 11.046, de 27 de dezembro de 2004)
+VALOR DO PONTO DA GRATIFICAÇÃO DE DESEMPENHO DE ATIVIDADES ADMINISTRATIVAS DO PLANO ESPECIAL DE CARGOS DO DNPM – GDAPDNPM
+a) Valor do ponto da GDAPDNPM para os cargos de nível superior do Plano Especial de
+Cargos do DNPM não compreendidos no art. 15 da Lei no 11.046, de 27 de dezembro de 2004.
+Em R$
+CLASSE
+PADRÃO
+VALOR DO PONTO DA GDAPDNPM
+EFEITOS FINANCEIROS A PARTIR DE
+1o JUL 2008
+1o JUL 2009
+1o JUL 2010
+ESPECIAL
+III
+27,67
+39,05
+53,33
+II
+27,00
+38,10
+52,05
+I
+26,34
+37,18
+50,81
+C
+VI
+25,25
+35,65
+48,72
+V
+24,64
+34,79
+47,55
+IV
+24,04
+33,95
+46,41
+III
+23,46
+33,13
+45,30
+II
+22,89
+32,33
+44,22
+I
+22,33
+31,55
+43,16
+B
+VI
+21,41
+30,25
+41,38
+V
+20,89
+29,52
+40,39
+IV
+20,38
+28,81
+39,42
+III
+19,88
+28,11
+38,48
+II
+19,40
+27,43
+37,56
+I
+18,93
+26,77
+36,66
+A
+V
+18,15
+25,67
+35,15
+IV
+17,71
+25,05
+34,31
+III
+17,28
+24,44
+33,49
+II
+16,86
+23,85
+32,69
+I
+16,45
+23,27
+31,91
+b) Valor do ponto da GDAPDNPM para os cargos de nível intermediário do Plano Especial de
+Cargos do DNPM não compreendidos no art. 15 da Lei no 11.046, de 27 de dezembro de 2004.
+Em R$
+CLASSE
+PADRÃO
+VALOR DO PONTO DA GDAPDNPM
+EFEITOS FINANCEIROS A PARTIR DE
+1o JUL 2008
+1o JUL 2009
+1o JUL 2010
+ESPECIAL
+III
+12,95
+18,97
+25,91
+II
+12,61
+18,48
+25,25
+I
+12,28
+18,01
+24,61
+C
+VI
+11,75
+17,23
+23,55
+V
+11,44
+16,79
+22,95
+IV
+11,14
+16,36
+22,37
+III
+10,85
+15,94
+21,80
+II
+10,57
+15,53
+21,25
+I
+10,30
+15,13
+20,71
+B
+VI
+9,86
+14,48
+19,82
+V
+9,60
+14,11
+19,32
+IV
+9,35
+13,75
+18,83
+III
+9,11
+13,40
+18,35
+II
+8,87
+13,06
+17,88
+I
+8,64
+12,73
+17,43
+A
+V
+8,27
+12,18
+16,68
+IV
+8,05
+11,87
+16,26
+III
+7,84
+11,57
+15,85
+II
+7,64
+11,27
+15,45
+I
+7,44
+10,98
+15,06
+c) Valor do ponto da GDAPDNPM para os cargos de nível auxiliar do Plano Especial de Cargos do
+DNPM:
+Em R$
+CLASSE
+PADRÃO
+VALOR DO PONTO DA GDAPDNPM
+EFEITOS FINANCEIROS A PARTIR DE
+1o JUL 2008
+1o JUL 2009
+1o JUL 2010
+ESPECIAL
+III
+4,19
+5,49
+7,09
+II
+3,92
+5,13
+6,63
+I
+3,81
+4,98
+6,44
+ANEXO CXVII
+(Anexo com alterações do Anexo CCXXXIX à Lei nº 15.141, de 2/6/2025)
+CARGOS DO PLANO DE CARREIRAS E CARGOS DE PESQUISA E INVESTIGAÇÃO BIOMÉDICA EM SAÚDE PÚBLICA
+a) Cargos de Pesquisador em Saúde Pública da Carreira de Pesquisa e Investigação Biomédica em Saúde
+Pública
+CARGO
+CLASSE
+PADRÃO
+Pesquisador em Saúde Pública da Carreira de Pesquisa e Investigação Biomédica em Saúde Pública
+TITULAR
+III
+II
+I
+ASSOCIADO
+III
+II
+I
+ADJUNTO
+III
+II
+I
+ASSISTENTE
+DE PESQUISA
+III
+II
+I
+b) Cargos de Tecnologista em Pesquisa e Investigação Biomédica da Carreira de Desenvolvimento Tecnológico em Pesquisa e Investigação Biomédica em Saúde Pública e Cargos de Analista de Gestão em Pesquisa e Investigação Biomédica da Carreira de Gestão em Pesquisa e Investigação Biomédica em Saúde Pública:
+CARGO
+CLASSE
+PADRÃO
+Tecnologista em Pesquisa e Investigação Biomédica da Carreira de Desenvolvimento Tecnológico em Pesquisa e Investigação Biomédica em Saúde Pública
+Analista de Gestão em Pesquisa e Investigação Biomédica da Carreira de
+Gestão em Pesquisa e Investigação
+Biomédica em Saúde Pública
+SÊNIOR
+III
+II
+I
+PLENO 3
+III
+II
+I
+PLENO 2
+III
+II
+I
+PLENO 1
+III
+II
+I
+JÚNIOR
+III
+II
+I
+c) Cargos de Especialista em Pesquisa e Investigação Biomédica em Saúde Pública
+CARGO
+CLASSE
+PADRÃO
+Especialista em Pesquisa e Investigação Biomédica em Saúde Pública
+ÚNICA
+ÚNICO
+d) Cargos de Técnico em Pesquisa e Investigação Biomédica da Carreira de Suporte Técnico em Pesquisa e Investigação Biomédica em Saúde Pública e Cargos de Assistente Técnico de Gestão em Pesquisa e Investigação Biomédica da Carreira de Suporte à Gestão em Pesquisa e Investigação Biomédica em Saúde Pública.
+CARGO
+CLASSE
+PADRÃO
+Técnico em Pesquisa e Investigação Biomédica da Carreira de Suporte Técnico em Pesquisa e Investigação Biomédica em Saúde Pública
+Assistente Técnico de Gestão em Pesquisa e Investigação Biomédica da Carreira de Suporte à Gestão em Pesquisa e Investigação Biomédica em Saúde Pública
+TÉCNICO 3
+ASSISTENTE 3
+III
+II
+I
+TÉCNICO 2
+ASSISTENTE 2
+VI
+V
+IV
+III
+II
+I
+TÉCNICO 1
+ASSISTENTE 1
+VI
+V
+IV
+III
+II
+I
+e) Cargos de Auxiliar em Pesquisa e Investigação Biomédica em Saúde Pública da Carreira de
+Gestão, Planejamento e Infra-Estrutura em Pesquisa e Investigação Biomédica em Saúde Pública
+CARGO
+CLASSE
+PADRÃO
+AUXILIAR
+AUXILIAR 2
+VI
+V
+IV
+III
+II
+I
+AUXILIAR 1
+VI
+V
+IV
+III
+II
+I
+f) Cargos de nível superior e intermediário do Plano
+CARGOS
+CLASSE
+PADRÃO
+Cargos efetivos de níveis superior e intermediário do Plano de Carreiras e Cargos de Pesquisa e Investigação Biomédica em Saúde Pública
+ESPECIAL
+III
+II
+I
+C
+VI
+V
+IV
+III
+II
+I
+B
+VI
+V
+IV
+III
+II
+I
+A
+V
+IV
+III
+II
+I
+g) Cargos de nível auxiliar do Plano
+CARGOS
+CLASSE
+PADRÃO
+Cargos efetivos de nível auxiliar do Plano de
+Carreiras e Cargos de Pesquisa e Investigação
+Biomédica em Saúde Pública
+ESPECIAL
+III
+II
+I
+h) Cargos de Pesquisador em Saúde Pública, de Tecnologista em Pesquisa e Investigação Biomédica, de Analista de Gestão em Pesquisa e Investigação Biomédica, de Técnico em Pesquisa e Investigação Biomédica, de Assistente Técnico de Gestão em Pesquisa e Investigação Biomédica e cargos de nível superior e intermediário do Plano de Carreiras e Cargos de Pesquisa e Investigação Biomédica em Saúde Pública, a partir de 1º de janeiro de 2025:
+(Tabela acrescida pelo Anexo CCXXXIX à Lei nº 15.141, de 2/6/2025)
+CARGOS
+CLASSE
+PADRÃO
+Pesquisador em Saúde Pública
+Tecnologista em Pesquisa e Investigação Biomédica
+Analista de Gestão em Pesquisa e Investigação Biomédica
+Técnico em Pesquisa e Investigação Biomédica
+Assistente Técnico de Gestão em Pesquisa e Investigação Biomédica
+Cargos de nível superior e intermediário do Plano de Carreiras e Cargos de Pesquisa e Investigação Biomédica em Saúde Pública
+ESPECIAL
+III
+II
+I
+C
+VI
+V
+IV
+III
+II
+I
+B
+VI
+V
+IV
+III
+II
+I
+A
+V
+IV
+III
+II
+I
+ANEXO CXVIII
+(Anexo com redação dada pelo Anexo CCXL à Lei nº 15.141, de 2/6/2025)
+TABELAS DE CORRELAÇÃO DO PLANO DE CARREIRAS E CARGOS DE PESQUISA E INVESTIGAÇÃO BIOMÉDICA EM SAÚDE PÚBLICA
+a) Cargos de Pesquisador em Saúde Pública da Carreira de Pesquisa e Investigação Biomédica em Saúde
+Pública:
+SITUAÇÃO ATUAL
+SITUAÇÃO NOVA
+CARGO
+CLASSE
+PADRÃO
+PADRÃO
+CLASSE
+CARGO
+Pesquisador da
+Carreira de Pesquisa em Ciência e Tecnologia
+TITULAR
+III
+III
+TITULAR
+Pesquisador em
+Saúde Pública da Carreira de Pesquisa
+e Investigação Biomédica em Saúde Pública
+II
+II
+I
+I
+ASSOCIADO
+III
+III
+ASSOCIADO
+II
+II
+I
+I
+ADJUNTO
+III
+III
+ADJUNTO
+II
+II
+I
+I
+ASSISTENTE
+DE PESQUISA
+III
+III
+ASSISTENTE
+DE PESQUISA
+II
+II
+I
+I
+b) Cargos de Tecnologista em Pesquisa e Investigação Biomédica da Carreira de Desenvolvimento Tecnológico em Pesquisa e Investigação Biomédica em Saúde Pública e Cargos de Analista de Gestão em Pesquisa e Investigação Biomédica da Carreira de Gestão em Pesquisa e Investigação Biomédica em Saúde Pública
+SITUAÇÃO ATUAL
+SITUAÇÃO NOVA
+CARGOS
+CLASSE
+PADRÃO
+PADRÃO
+CLASSE
+CARGO
+Tecnologista da
+Carreira
+de Desenvolvimento
+Tecnológico
+Analista em Ciência e Tecnologia
+Carreira de Gestão, Planejamento e Infra-Estrutura em Ciência e Tecnologia
+SÊNIOR
+III
+III
+SÊNIOR
+Tecnologista em Pesquisa e Investigação Biomédica
+da Carreira de Desenvolvimento
+Tecnológico em Pesquisa e Investigação Biomédica em Saúde Pública
+Analista de Gestão em Pesquisa e Investigação Biomédica da Carreira de Gestão em Pesquisa
+e Investigação Biomédica em Saúde Pública
+II
+II
+I
+I
+PLENO 3
+III
+III
+PLENO 3
+II
+II
+I
+I
+PLENO 2
+III
+III
+PLENO 2
+II
+II
+I
+I
+PLENO 1
+III
+III
+PLENO 1
+II
+II
+I
+I
+JÚNIOR
+III
+III
+JÚNIOR
+II
+II
+I
+I
+c) Cargos de Técnico em Pesquisa e Investigação Biomédica da Carreira de Suporte Técnico em Pesquisa e Investigação Biomédica em Saúde Pública e Cargos de Assistente Técnico de Gestão em Pesquisa e Investigação Biomédica da Carreira de Suporte à Gestão em Pesquisa e Investigação Biomédica em Saúde Pública.
+SITUAÇÃO ATUAL
+SITUAÇÃO NOVA
+CARGOS
+CLASSE
+PADRÃO
+PADRÃO
+CLASSE
+CARGOS
+Técnico da Carreira de Desenvolvimento Tecnológico
+Assistente em Ciência e Tecnologia da Carreira de Gestão, Planejamento e Infra- Estrutura em Ciência e Tecnologia
+TÉCNICO 3
+ASSISTENTE 3
+III
+III
+TÉCNICO 3
+ASSISTENTE 3
+Técnico em Pesquisa e Investigação Biomédica da Carreira de Suporte Técnico em Pesquisa e Investigação Biomédica em Saúde Pública
+Assistente
+Técnico
+de Gestão em Pesquisa e Investigação Biomédica da Carreira de Suporte
+à Gestão em
+Pesquisa e Investigação Biomédica em Saúde Pública
+II
+II
+I
+I
+TÉCNICO 2
+ASSISTENTE 2
+VI
+VI
+TÉCNICO 2
+ASSISTENTE 2
+V
+V
+IV
+IV
+III
+III
+II
+II
+I
+I
+TÉCNICO 1
+ASSISTENTE 1
+VI
+VI
+TÉCNICO 1
+ASSISTENTE 1
+V
+V
+IV
+IV
+III
+III
+II
+II
+I
+I
+d) Cargos de Auxiliar em Pesquisa e Investigação Biomédica em Saúde Pública da Carreira de
+Gestão, Planejamento e Infra-Estrutura em Pesquisa e Investigação Biomédica em Saúde Pública
+SITUAÇÃO ATUAL
+SITUAÇÃO NOVA
+CARGO
+CLASSE
+PADRÃO
+PADRÃO
+CLASSE
+CARGO
+Auxiliar em Ciência e Tecnologia da Carreira de Gestão, Planejamento e
+Infra-Estrutura em Ciência e Tecnologia
+AUXILIAR 2
+VI
+VI
+AUXILIAR 2
+Auxiliar em Pesquisa e Investigação Biomédica em Saúde Pública da Carreira de Gestão, Planejamento
+e Infra-Estrutura em Pesquisa e Investigação Biomédica em Saúde Pública
+V
+V
+IV
+IV
+III
+III
+II
+II
+I
+I
+AUXILIAR 1
+VI
+VI
+AUXILIAR 1
+V
+V
+IV
+IV
+III
+III
+II
+II
+I
+I
+e) Carreira de Pesquisa e Investigação Biomédica em Saúde Pública, a partir de 1º de janeiro de 2025:
+(Tabela acrescida pelo Anexo CCXL à Lei nº 15.141, de 2/6/2025)
+SITUAÇÃO ATUAL
+SITUAÇÃO A PARTIR DE 1º DE JANEIRO DE 2025
+CARGOS
+CLASSE
+PADRÃO
+PADRÃO
+CLASSE
+CARGOS
+Pesquisador em Saúde Pública
+Titular
+III
+III
+ESPECIAL
+Pesquisador em Saúde Pública
+II
+II
+I
+I
+Associado
+III
+VI
+C
+II
+V
+I
+IV
+Adjunto
+III
+III
+II
+II
+I
+I
+Assistente
+de Pesquisa
+III
+VI
+B
+II
+V
+I
+IV
+III
+II
+I
+V
+A
+IV
+III
+II
+I
+f) Cargos de Tecnologista em Pesquisa e Investigação Biomédica da Carreira de Desenvolvimento Tecnológico em Pesquisa e Investigação Biomédica em Saúde Pública e Cargos de Analista de Gestão em Pesquisa e Investigação Biomédica da Carreira de Gestão em Pesquisa e Investigação Biomédica em Saúde Pública, a partir de 1º de janeiro de 2025:
+(Tabela acrescida pelo Anexo CCXL à Lei nº 15.141, de 2/6/2025)
+SITUAÇÃO ATUAL
+SITUAÇÃO A PARTIR DE 1º DE JANEIRO DE 2025
+CARGOS
+CLASSE
+PADRÃO
+PADRÃO
+CLASSE
+CARGOS
+Tecnologista em Pesquisa e Investigação Biomédica
+Analista de Gestão em Pesquisa e Investigação Biomédica
+Sênior
+III
+III
+ESPECIAL
+Tecnologista em Pesquisa e Investigação Biomédica
+Analista de Gestão em Pesquisa e Investigação Biomédica
+II
+II
+I
+I
+Pleno III
+III
+VI
+C
+II
+V
+I
+IV
+Pleno II
+III
+III
+II
+II
+I
+I
+Pleno I
+III
+VI
+B
+II
+V
+I
+IV
+Júnior
+III
+III
+II
+II
+I
+I
+V
+A
+IV
+III
+II
+I
+g) Cargos de Técnico em Pesquisa e Investigação Biomédica da Carreira de Suporte Técnico em Pesquisa e Investigação Biomédica em Saúde Pública e Cargos de Assistente Técnico de Gestão em Pesquisa e Investigação Biomédica da Carreira de Suporte à Gestão em Pesquisa e Investigação Biomédica em Saúde Pública, a partir de 1º de janeiro de 2025:
+(Tabela acrescida pelo Anexo CCXL à Lei nº 15.141, de 2/6/2025)
+SITUAÇÃO ATUAL
+SITUAÇÃO A PARTIR DE 1º DE JANEIRO DE 2025
+CARGOS
+CLASSE
+PADRÃO
+PADRÃO
+CLASSE
+CARGOS
+Técnico em Pesquisa e Investigação Biomédica
+Assistente Técnico de Gestão em Pesquisa e Investigação Biomédica
+TÉCNICO III
+ASSISTENTE III
+III
+III
+ESPECIAL
+Técnico em Pesquisa e Investigação Biomédica
+Assistente Técnico de Gestão em Pesquisa e Investigação Biomédica
+II
+II
+I
+I
+TÉCNICO II
+ASSISTENTE II
+VI
+VI
+C
+V
+V
+IV
+IV
+III
+III
+II
+II
+I
+I
+TÉCNICO I
+ASSISTENTE I
+VI
+VI
+B
+V
+V
+IV
+IV
+III
+III
+II
+II
+I
+I
+V
+A
+IV
+III
+II
+I
+ANEXO CXIX
+(Anexo com redação dada pela Lei nº 12.269, de 21/6/2010)
+TERMO DE OPÇÃO
+PLANO DE CARREIRAS E CARGOS DE PESQUISA E INVESTIGAÇÃO BIOMÉDICA EM SAÚDE PÚBLICA
+Nome:
+Cargo:
+Matrícula SIAPE:
+Unidade de Lotação:
+Unidade Pagadora:
+Cidade:
+Estado:
+Servidor ativo ( ) Aposentado ( ) Pensionista ( )
+Venho, nos termos do § 2º do art. 183 da Lei nº 11.907, de 2 de fevereiro de 2009, optar pelo enquadramento no Plano de Carreiras e Cargos de Pesquisa e Investigação Biomédica em Saúde Pública, renunciando a quaisquer parcelas de valores incorporados à remuneração por decisão administrativa ou judicial que vencerem após o início dos efeitos financeiros referidos no § 2º do art. 183, observado ainda o disposto nos §§ 4º, 5º e 6º do art. 183.
+Declaro estar ciente de que a Administração Pública Federal levará a presente renúncia ao Poder Judiciário, e concordar com os efeitos dela decorrentes.
+Local e data ____________________,_______/_______/________.
+___________________________________________
+Assinatura
+Recebido em:___________/_________/_________.
+______________________________________
+Assinatura/Matrícula ou Carimbo do Servidor do órgão do Sistema de Pessoal Civil da Administração Federal - SIPEC
+ANEXO CXX
+(Anexo com redação dada pelo Anexo LXX à Medida Provisória nº 1.170, de 28/4/2023, convertida na Lei nº 14.673, de 14/9/2023, e alterações do Anexo CCXLI à Lei nº 15.141, de 2/6/2025)
+PLANO DE CARREIRAS E CARGOS DE PESQUISA E INVESTIGAÇÃO BIOMÉDICA EM SAÚDE PÚBLICA
+TABELAS DE VENCIMENTO BÁSICO
+a) Vencimento básico do cargo de Pesquisador em Saúde Pública da Carreira de Pesquisa e Investigação Biomédica em Saúde Pública:
+Em R$
+CLASSE
+PADRÃO
+VENCIMENTO BÁSICO
+EFEITOS FINANCEIROS A PARTIR DE 1º DE MAIO DE 2023
+TITULAR
+III
+9.283,60
+II
+8.948,94
+I
+8.628,55
+ASSOCIADO
+III
+8.174,03
+II
+7.880,13
+I
+7.596,78
+ADJUNTO
+III
+7.198,22
+II
+6.940,31
+I
+6.691,79
+ASSISTENTE DE PESQUISA
+III
+6.340,68
+II
+6.116,46
+I
+5.898,06
+b) Vencimento básico do cargo de Tecnologista em Pesquisa e Investigação Biomédica da Carreira de Desenvolvimento Tecnológico em Pesquisa e Investigação Biomédica em Saúde Pública e do cargo de Analista de Gestão em Pesquisa e Investigação Biomédica da Carreira de Gestão em Pesquisa e Investigação Biomédica em Saúde Pública:
+Em R$
+CLASSE
+PADRÃO
+VENCIMENTO BÁSICO
+EFEITOS FINANCEIROS A PARTIR DE 1º DE MAIO DE 2023
+SÊNIOR
+III
+9.283,60
+II
+8.948,94
+I
+8.628,55
+PLENO 3
+III
+8.174,03
+II
+7.880,13
+I
+7.596,78
+PLENO 2
+III
+7.198,22
+II
+6.940,31
+I
+6.691,79
+PLENO 1
+III
+6.340,68
+II
+6.116,46
+I
+5.898,06
+JÚNIOR
+III
+5.587,98
+II
+5.390,31
+I
+5.196,89
+c) Vencimento básico dos cargos de Especialista em Pesquisa e Investigação Biomédica em Saúde Pública:
+(Tabela com redação dada pelo Anexo CCXLI à Lei nº 15.141, de 2/6/2025)
+Em R$
+CLASSE
+PADRÃO
+VENCIMENTO BÁSICO
+EFEITOS FINANCEIROS A PARTIR DE
+1º DE MAIO DE 2023
+1º DE JANEIRO DE 2025
+1º DE ABRIL DE 2026
+ÚNICA
+ÚNICO
+9.283,60
+10.737,00
+11.186,76
+d) Vencimento básico do cargo de Técnico em Pesquisa e Investigação Biomédica da Carreira de Suporte Técnico em Pesquisa e Investigação Biomédica em Saúde Pública e do cargo de Assistente Técnico de Gestão em Pesquisa e Investigação Biomédica da Carreira de Suporte à Gestão em Pesquisa e Investigação Biomédica em Saúde Pública:
+Em R$
+CLASSE
+PADRÃO
+VENCIMENTO BÁSICO
+EFEITOS FINANCEIROS A PARTIR DE 1º DE MAIO DE 2023
+TÉCNICO 3
+ASSISTENTE 3
+III
+4.652,29
+II
+4.494,28
+I
+4.343,16
+TÉCNICO 2
+ASSISTENTE 2
+VI
+4.202,60
+V
+4.060,08
+IV
+3.922,58
+III
+3.794,46
+II
+3.664,04
+I
+3.536,78
+TÉCNICO 1
+ASSISTENTE 1
+VI
+3.420,92
+V
+3.301,64
+IV
+3.186,29
+III
+3.077,71
+II
+2.968,96
+I
+2.862,25
+e) Vencimento básico dos cargos de Auxiliar em Pesquisa e Investigação Biomédica em Saúde Pública da Carreira de Gestão, Planejamento e Infraestrutura em Pesquisa e Investigação Biomédica em Saúde Pública:
+(Tabela com redação dada pelo Anexo CCXLI à Lei nº 15.141, de 2/6/2025)
+Em R$
+CLASSE
+PADRÃO
+VENCIMENTO BÁSICO
+EFEITOS FINANCEIROS A PARTIR DE
+1º DE MAIO DE 2023
+1º DE JANEIRO DE 2025
+1º DE ABRIL DE 2026
+AUXILIAR II
+VI
+1.811,23
+1.974,24
+2.072,95
+V
+1.768,91
+1.928,11
+2.024,52
+IV
+1.725,99
+1.881,33
+1.975,40
+III
+1.683,96
+1.835,52
+1.927,30
+II
+1.644,35
+1.792,34
+1.881,96
+I
+1.605,57
+1.750,07
+1.837,57
+AUXILIAR I
+VI
+1.539,25
+1.677,78
+1.761,67
+V
+1.501,16
+1.636,26
+1.718,07
+IV
+1.465,36
+1.597,24
+1.677,10
+III
+1.430,31
+1.559,04
+1.636,99
+II
+1.397,51
+1.523,29
+1.599,45
+I
+1.363,92
+1.486,67
+1.561,00
+f) Vencimento básico do cargo de Pesquisador em Saúde Pública da Carreira de Pesquisa e Investigação Biomédica em Saúde Pública, do cargo de Tecnologista em Pesquisa e Investigação Biomédica da Carreira de Desenvolvimento Tecnológico em Pesquisa e Investigação Biomédica em Saúde Pública e do cargo de Analista de Gestão em Pesquisa e Investigação Biomédica da Carreira de Gestão em Pesquisa e Investigação Biomédica em Saúde Pública, a partir de 1º de janeiro de 2025:
+(Tabela acrescida pelo Anexo CCXLI à Lei nº 15.141, de 2/6/2025)
+Em R$
+CLASSE
+PADRÃO
+VENCIMENTO BÁSICO
+EFEITOS FINANCEIROS A PARTIR DE
+1º DE JANEIRO DE 2025
+1º DE ABRIL DE 2026
+ESPECIAL
+III
+10.703,00
+11.186,76
+II
+10.277,00
+10.706,84
+I
+9.868,00
+10.246,71
+C
+VI
+9.476,00
+9.807,23
+V
+9.099,00
+9.385,28
+IV
+8.667,00
+8.903,87
+III
+8.459,00
+8.672,30
+II
+8.256,00
+8.447,54
+I
+8.057,00
+8.227,40
+B
+VI
+7.863,00
+8.013,66
+V
+7.489,00
+7.602,66
+IV
+7.309,00
+7.405,02
+III
+7.133,00
+7.213,05
+II
+6.961,00
+7.025,58
+I
+6.794,00
+6.842,44
+A
+V
+6.598,00
+6.630,00
+IV
+6.502,00
+6.526,01
+III
+6.408,00
+6.423,15
+II
+6.315,00
+6.322,36
+I
+6.223,63
+6.223,63
+g) Vencimento básico do cargo de Técnico em Pesquisa e Investigação Biomédica da Carreira de Suporte Técnico em Pesquisa e Investigação Biomédica em Saúde Pública e do cargo de Assistente Técnico de Gestão em Pesquisa e Investigação Biomédica da Carreira de Suporte à Gestão em Pesquisa e Investigação Biomédica em Saúde Pública, a partir de 1º de janeiro de 2025:
+(Tabela acrescida pelo Anexo CCXLI à Lei nº 15.141, de 2/6/2025)
+Em R$
+CLASSE
+PADRÃO
+VENCIMENTO BÁSICO
+EFEITOS FINANCEIROS A PARTIR DE
+1º DE JANEIRO DE 2025
+1º DE ABRIL DE 2026
+ESPECIAL
+III
+5.087,67
+5.600,00
+II
+4.921,53
+5.406,20
+I
+4.861,71
+5.219,75
+C
+VI
+4.811,26
+4.992,76
+V
+4.670,54
+4.882,43
+IV
+4.552,30
+4.775,13
+III
+4.443,23
+4.669,78
+II
+4.230,60
+4.567,32
+I
+4.120,73
+4.466,68
+B
+VI
+3.976,34
+4.272,65
+V
+3.873,10
+4.178,13
+IV
+3.771,10
+4.086,20
+III
+3.577,51
+3.996,79
+II
+3.481,35
+3.908,86
+I
+3.385,60
+3.822,35
+A
+V
+3.271,04
+3.710,16
+IV
+3.215,07
+3.655,61
+III
+3.159,57
+3.602,08
+II
+3.135,64
+3.548,55
+I
+3.104,27
+3.496,00
+ANEXO CXXI
+TABELA DE CORRELAÇÃO DOS DEMAIS CARGOS DO PLANO DE CARREIRAS E CARGOS DE PESQUISA E INVESTIGAÇÃO BIOMÉDICA EM SAÚDE PÚBLICA
+a) Cargos de nível superior e intermediário do Plano Geral de Cargos do Poder Executivo, de que trata a Lei no 11.357, de 19 de outubro de 2006, da Carreira da Previdência, da Saúde e do Trabalho, de que trata a Lei no 11.355, de 19 de dezembro de 2006, e da Carreira da Seguridade Social e do Trabalho, de que trata a Lei no 10.483, de 3 de julho de 2002
+SITUAÇÃO ATUAL
+SITUAÇÃO NOVA
+CARGOS
+CLASSE
+PADRÃO
+PADRÃO
+CLASSE
+CARGOS
+Cargos efetivos de
+níveis superior e intermediário do Plano Geral de Cargos do Poder Executivo, de que trata a Lei no 11.357, de
+2006, os integrantes da Carreira da Previdência, da Saúde e do Trabalho, de que trata a
+Lei no 11.355, de 2006, e da Carreira da Seguridade Social e do Trabalho, de que trata
+a Lei no 10.483,
+de 2002, pertencentes ao Quadro de Pessoal do IEC e do CENP em
+31 de maio de 2008
+ESPECIAL
+III
+III
+ESPECIAL
+Cargos efetivos de níveis superior e intermediário do Plano
+de Carreiras e Cargos
+de Pesquisa e Investigação Biomédica em Saúde Pública
+II
+II
+I
+I
+C
+VI
+VI
+C
+V
+V
+IV
+IV
+III
+III
+II
+II
+I
+I
+B
+VI
+VI
+B
+V
+V
+IV
+IV
+III
+III
+II
+II
+I
+I
+A
+V
+V
+A
+IV
+IV
+III
+III
+II
+II
+I
+I
+b) Cargos de nível auxiliar do Plano Geral de Cargos do Poder Executivo, de que trata a Lei no
+11.357, de 19 de outubro de 2006 e da Carreira da Previdência, da Saúde e do Trabalho, de que trata a Lei no 11.355, de 19 de outubro de 2006.
+SITUAÇÃO ATUAL
+SITUAÇÃO NOVA
+CARGOS
+CLASSE
+PADRÃO
+PADRÃO
+CLASSE
+CARGOS
+Cargos efetivos de nível auxiliar do Plano Geral de Cargos do Poder Executivo, de que trata
+a Lei no 11.357,
+de 2006, os integrantes da Carreira da Previdência, da Saúde e do Trabalho, de que trata a Lei no 11.355,
+de 2006, pertencentes ao Quadro de Pessoal do IEC e do CENP em 31 de maio de
+2008
+ESPECIAL
+III
+III
+ESPECIAL
+Cargos efetivos de nível auxiliar do Plano de Carreiras e Cargos de Pesquisa e
+Investigação Biomédica em Saúde Pública
+II
+II
+I
+I
+c) Cargos de nível auxiliar da Carreira da Seguridade Social e do Trabalho, de que trata a Lei no 10.483, de 3 de julho de 2002
+SITUAÇÃO ATUAL
+SITUAÇÃO NOVA
+CARGOS
+CLASSE
+PADRÃO
+PADRÃO
+CLASSE
+CARGOS
+Cargos efetivos de nível
+Auxiliar da Carreira da Seguridade Social e do Trabalho,
+de que trata a Lei no
+10.483, de 2002, pertencentes ao Quadro de Pessoal do IEC e do CENP em 31 de maio de
+2008
+ESPECIAL
+III
+III
+ESPECIAL
+Cargos efetivos de nível auxiliar do Plano de Carreiras e Cargos de Pesquisa e
+Investigação Biomédica em Saúde Pública
+II
+II
+I
+I
+C
+VI
+V
+IV
+III
+II
+I
+B
+VI
+V
+IV
+III
+II
+I
+A
+V
+IV
+III
+II
+I
+ANEXO CXXII
+(Anexo com redação dada pela Lei nº 12.269, de 21/6/2010)
+TERMO DE OPÇÃO
+PLANO DE CARREIRAS E CARGOS DE PESQUISA E INVESTIGAÇÃO BIOMÉDICA EM SAÚDE PÚBLICA
+Nome:
+Cargo:
+Matrícula SIAPE:
+Unidade de Lotação:
+Unidade Pagadora:
+Cidade:
+Estado:
+Servidor ativo ( ) Aposentado ( ) Pensionista ( )
+Venho, nos termos do § 2º do art. 184 da Lei nº 11.907, de 2 de fevereiro de 2009, optar pelo enquadramento no Plano de Carreiras e Cargos de Pesquisa e Investigação Biomédica em Saúde
+Pública, renunciando a quaisquer parcelas de valores incorporados à remuneração por decisão administrativa ou judicial que vencerem após o início dos efeitos financeiros referidos no § 2º do art. 184, observado ainda o disposto nos §§ 4º, 5º e 6º do art. 183.
+Declaro estar ciente de que a Administração Pública Federal levará a presente renúncia ao Poder Judiciário, e concordar com os efeitos dela decorrentes.
+Local e data ____________________,_______/_______/________.
+___________________________________________
+Assinatura
+Recebido em:___________/_________/_________.
+______________________________________
+Assinatura/Matrícula ou Carimbo do Servidor do órgão do Sistema de Pessoal Civil da Administração Federal - SIPEC
+ANEXO CXXIII
+(Anexo com redação dada pelo Anexo CCXLII à Lei nº 15.141, de 2/6/2025)
+DEMAIS CARGOS DO PLANO DE CARREIRAS E CARGOS DE PESQUISA E INVESTIGAÇÃO BIOMÉDICA EM SAÚDE PÚBLICA
+TABELAS DE VENCIMENTO BÁSICO
+a) Tabela I - vencimento básico dos cargos de nível superior:
+Em R$
+CLASSE
+PADRÃO
+VENCIMENTO BÁSICO
+EFEITOS FINANCEIROS A PARTIR DE
+1º DE MAIO DE 2023
+1º DE JANEIRO DE 2025
+1º DE ABRIL DE 2026
+ESPECIAL
+III
+9.283,60
+10.703,00
+11.186,76
+II
+8.948,94
+10.277,00
+10.706,84
+I
+8.628,55
+9.868,00
+10.246,71
+C
+VI
+8.174,03
+9.476,00
+9.807,23
+V
+7.880,13
+9.099,00
+9.385,28
+IV
+7.596,78
+8.667,00
+8.903,87
+III
+7.198,22
+8.459,00
+8.672,30
+II
+6.940,31
+8.256,00
+8.447,54
+I
+6.691,79
+8.057,00
+8.227,40
+B
+VI
+6.340,68
+7.863,00
+8.013,66
+V
+6.116,46
+7.489,00
+7.602,66
+IV
+5.898,06
+7.309,00
+7.405,02
+III
+5.587,98
+7.133,00
+7.213,05
+II
+5.390,31
+6.961,00
+7.025,58
+I
+5.196,89
+6.794,00
+6.842,44
+A
+V
+5.047,83
+6.598,00
+6.630,00
+IV
+4.902,30
+6.502,00
+6.526,01
+III
+4.760,69
+6.408,00
+6.423,15
+II
+4.622,36
+6.315,00
+6.322,36
+I
+4.489,32
+6.223,63
+6.223,63
+b) Tabela II - vencimento básico dos cargos de nível intermediário:
+Em R$
+CLASSE
+PADRÃO
+VENCIMENTO BÁSICO
+EFEITOS FINANCEIROS A PARTIR DE
+1º DE MAIO DE 2023
+1º DE JANEIRO DE 2025
+1º DE ABRIL DE 2026
+ESPECIAL
+III
+4.652,29
+5.087,67
+5.600,00
+II
+4.494,28
+4.921,53
+5.406,20
+I
+4.343,16
+4.861,71
+5.219,75
+C
+VI
+4.202,60
+4.811,26
+4.992,76
+V
+4.060,08
+4.670,54
+4.882,43
+IV
+3.922,58
+4.552,30
+4.775,13
+III
+3.794,46
+4.443,23
+4.669,78
+II
+3.664,04
+4.230,60
+4.567,32
+I
+3.536,78
+4.120,73
+4.466,68
+B
+VI
+3.420,92
+3.976,34
+4.272,65
+V
+3.301,64
+3.873,10
+4.178,13
+IV
+3.186,29
+3.771,10
+4.086,20
+III
+3.077,71
+3.577,51
+3.996,79
+II
+2.968,96
+3.481,35
+3.908,86
+I
+2.862,25
+3.385,60
+3.822,35
+A
+V
+2.779,42
+3.271,04
+3.710,16
+IV
+2.698,53
+3.215,07
+3.655,61
+III
+2.622,18
+3.159,57
+3.602,08
+II
+2.544,43
+3.135,64
+3.548,55
+I
+2.459,78
+3.104,27
+3.496,00
+c) Tabela III - vencimento básico dos cargos de nível auxiliar:
+Em R$
+CLASSE
+PADRÃO
+VENCIMENTO BÁSICO
+EFEITOS FINANCEIROS A PARTIR DE
+1º DE MAIO DE 2023
+1º DE JANEIRO DE 2025
+1º DE ABRIL DE 2026
+ESPECIAL
+III
+1.811,23
+1.974,24
+2.072,95
+II
+1.768,91
+1.928,11
+2.024,52
+I
+1.725,99
+1.881,33
+1.975,40
+ANEXO CXXIV
+(Anexo com redação dada pelo Anexo LXXII à Medida Provisória nº 1.170, de 28/4/2023, convertida na Lei nº 14.673, de 14/9/2023, e alterações do Anexo CCXLIII à Lei nº 15.141, de 2/6/2025)
+VALORES DO PONTO DA GRATIFICAÇÃO DE DESEMPENHO DE PESQUISA E INVESTIGAÇÃO BIOMÉDICA EM SAÚDE PÚBLICA – GDAPIB
+a) Tabela I - valor do ponto da GDAPIB para o cargo de Pesquisador em Saúde Pública da Carreira de Pesquisa e Investigação Biomédica em Saúde Pública
+Em R$
+CLASSE
+PADRÃO
+VALOR DO PONTO DA GDAPIB
+EFEITOS FINANCEIROS A PARTIR DE 1º DE MAIO DE 2023
+TITULAR
+III
+26,84
+II
+26,19
+I
+25,56
+ASSOCIADO
+III
+24,62
+II
+24,02
+I
+23,45
+ADJUNTO
+III
+22,60
+II
+22,04
+I
+21,52
+ASSISTENTE DE PESQUISA
+III
+20,73
+II
+20,22
+I
+19,74
+b) Tabela II - valor do ponto da GDAPIB para o cargo de Tecnologista em Pesquisa e Investigação Biomédica da Carreira de Desenvolvimento Tecnológico em Pesquisa e Investigação Biomédica em Saúde Pública e para o cargo de Analista de Gestão em Pesquisa e Investigação Biomédica da Carreira de Gestão em Pesquisa e Investigação Biomédica em Saúde Pública
+Em R$
+CLASSE
+PADRÃO
+VALOR DO PONTO DA GDAPIB
+EFEITOS FINANCEIROS A PARTIR DE 1º DE MAIO DE 2023
+SÊNIOR
+III
+26,84
+II
+26,19
+I
+25,56
+PLENO 3
+III
+24,62
+II
+24,02
+I
+23,45
+PLENO 2
+III
+22,60
+II
+22,04
+I
+21,52
+PLENO 1
+III
+20,73
+II
+20,22
+I
+19,74
+JÚNIOR
+III
+19,04
+II
+18,57
+I
+18,14
+c) Tabela III - valor do ponto da GDAPIB para os cargos de Especialista em Pesquisa e Investigação Biomédica em Saúde Pública:
+(Tabela com redação dada pelo Anexo CCXLIII à Lei nº 15.141, de 2/6/2025)
+Em R$
+CLASSE
+PADRÃO
+VALOR DO PONTO DA GDAPIB
+EFEITOS FINANCEIROS A PARTIR DE
+1º DE MAIO DE 2023
+1º DE JANEIRO DE 2025
+1º DE ABRIL DE 2026
+ÚNICA
+ÚNICO
+26,84
+32,06
+33,42
+d) Tabela IV - valor do ponto da GDAPIB para os cargos de nível superior do Plano de Carreiras e Cargos de Pesquisa e Investigação Biomédica em Saúde Pública
+Em R$
+CLASSE
+PADRÃO
+VALOR DO PONTO DA GDAPIB
+EFEITOS FINANCEIROS A PARTIR DE 1º DE MAIO DE 2023
+ESPECIAL
+III
+26,84
+II
+26,19
+I
+25,56
+C
+VI
+24,62
+V
+24,02
+IV
+23,45
+III
+22,60
+II
+22,04
+I
+21,52
+B
+VI
+20,73
+V
+20,22
+IV
+19,74
+III
+19,04
+II
+18,57
+I
+18,14
+A
+V
+17,61
+IV
+17,12
+III
+16,64
+II
+16,18
+I
+15,73
+e) Tabela V - valor do ponto da GDAPIB para o cargo de Técnico em Pesquisa e Investigação Biomédica da Carreira de Suporte Técnico em Pesquisa e Investigação Biomédica em Saúde Pública e para o cargo de Assistente Técnico de Gestão em Pesquisa e Investigação Biomédica da Carreira de Suporte à Gestão em Pesquisa e Investigação Biomédica em Saúde Pública
+Em R$
+CLASSE
+PADRÃO
+VALOR DO PONTO DA GDAPIB
+EFEITOS FINANCEIROS A PARTIR DE 1º DE MAIO DE 2023
+TÉCNICO 3
+ASSISTENTE 3
+III
+13,45
+II
+13,17
+I
+12,87
+TÉCNICO 2
+ASSISTENTE 2
+VI
+12,67
+V
+12,38
+IV
+12,10
+III
+11,90
+II
+11,64
+I
+11,38
+TÉCNICO 1
+ASSISTENTE 1
+VI
+11,18
+V
+10,93
+IV
+10,67
+III
+10,49
+II
+10,24
+I
+9,97
+f) Tabela VI - valor do ponto da GDAPIB para os cargos de nível intermediário do Plano de Carreiras e Cargos de Pesquisa e Investigação Biomédica em Saúde Pública
+Em R$
+CLASSE
+PADRÃO
+VALOR DO PONTO DA GDAPIB
+EFEITOS FINANCEIROS A PARTIR DE 1º DE MAIO DE 2023
+ESPECIAL
+III
+13,45
+II
+13,17
+I
+12,87
+C
+VI
+12,67
+V
+12,38
+IV
+12,10
+III
+11,90
+II
+11,64
+I
+11,38
+B
+VI
+11,18
+V
+10,93
+IV
+10,67
+III
+10,49
+II
+10,24
+I
+9,97
+A
+V
+9,69
+IV
+9,43
+III
+9,16
+II
+8,92
+I
+8,62
+g) Tabela VII - valor do ponto da GDAPIB para os cargos de Auxiliar em Pesquisa e Investigação Biomédica em Saúde Pública da Carreira de Gestão, Planejamento e Infraestrutura em Pesquisa e Investigação Biomédica em Saúde Pública:
+(Tabela com redação dada pelo Anexo CCXLIII à Lei nº 15.141, de 2/6/2025)
+Em R$
+CLASSE
+PADRÃO
+VALOR DO PONTO DA GDAPIB
+EFEITOS FINANCEIROS A PARTIR DE
+1º DE MAIO DE 2023
+1º DE JANEIRO DE 2025
+1º DE ABRIL DE 2026
+AUXILIAR II
+VI
+12,13
+13,22
+13,88
+V
+11,90
+12,97
+13,62
+IV
+11,68
+12,73
+13,37
+III
+11,47
+12,50
+13,13
+II
+11,25
+12,26
+12,88
+I
+11,03
+12,02
+12,62
+AUXILIAR I
+VI
+10,66
+11,62
+12,20
+V
+10,46
+11,40
+11,97
+IV
+10,27
+11,19
+11,75
+III
+10,07
+10,98
+11,53
+II
+9,88
+10,77
+11,31
+I
+9,69
+10,56
+11,09
+h) Tabela VIII - valor do ponto da GDAPIB para os cargos de nível auxiliar do Plano de Carreiras e Cargos de Pesquisa e Investigação Biomédica em Saúde Pública:
+(Tabela com redação dada pelo Anexo CCXLIII à Lei nº 15.141, de 2/6/2025)
+Em R$
+CLASSE
+PADRÃO
+VALOR DO PONTO DA GDAPIB
+EFEITOS FINANCEIROS A PARTIR DE
+1º DE MAIO DE 2023
+1º DE JANEIRO DE 2025
+1º DE ABRIL DE 2026
+ESPECIAL
+III
+12,13
+13,22
+13,88
+II
+11,90
+12,97
+13,62
+I
+11,68
+12,73
+13,37
+i) Valor do ponto da GDAPIB para o cargo de Pesquisador em Saúde Pública da Carreira de Pesquisa e Investigação Biomédica em Saúde Pública, para o cargo de Tecnologista em Pesquisa e Investigação Biomédica da Carreira de Desenvolvimento Tecnológico em Pesquisa e Investigação Biomédica em Saúde Pública, para o cargo de Analista de Gestão em Pesquisa e Investigação Biomédica da Carreira de Gestão em Pesquisa e Investigação Biomédica em Saúde Pública e para os cargos de nível superior do Plano de Carreiras e Cargos de Pesquisa e Investigação Biomédica em Saúde Pública, a partir de 1º de janeiro de 2025:
+(Tabela acrescida pelo Anexo CCXLIII à Lei nº 15.141, de 2/6/2025)
+Em R$
+CLASSE
+PADRÃO
+VALOR DO PONTO DA GDAPIB
+EFEITOS FINANCEIROS A PARTIR DE
+1º DE JANEIRO DE 2025
+1º DE ABRIL DE 2026
+ESPECIAL
+III
+31,96
+33,42
+II
+30,69
+31,98
+I
+29,47
+30,61
+C
+VI
+28,30
+29,29
+V
+27,17
+28,04
+IV
+25,88
+26,60
+III
+25,26
+25,91
+II
+24,65
+25,23
+I
+24,06
+24,58
+B
+VI
+23,48
+23,94
+V
+22,36
+22,71
+IV
+21,82
+22,12
+III
+21,30
+21,54
+II
+20,79
+20,98
+I
+20,29
+20,44
+A
+V
+19,71
+19,80
+IV
+19,42
+19,49
+III
+19,14
+19,19
+II
+18,86
+18,89
+I
+18,59
+18,59
+j) Valor do ponto da GDAPIB para o cargo de Técnico em Pesquisa e Investigação Biomédica da Carreira de Suporte Técnico em Pesquisa e Investigação Biomédica em Saúde Pública, para o cargo de Assistente Técnico de Gestão em Pesquisa e Investigação Biomédica da Carreira de Suporte à Gestão em Pesquisa e Investigação Biomédica em Saúde Pública e para os cargos de nível intermediário do Plano de Carreiras e Cargos de Pesquisa e Investigação Biomédica em Saúde Pública, a partir de 1º de janeiro de 2025:
+(Tabela acrescida pelo Anexo CCXLIII à Lei nº 15.141, de 2/6/2025)
+Em R$
+CLASSE
+PADRÃO
+VALOR DO PONTO DA GDAPIB
+EFEITOS FINANCEIROS A PARTIR DE
+1º DE JANEIRO DE 2025
+1º DE ABRIL DE 2026
+ESPECIAL
+III
+12,72
+14,00
+II
+12,31
+13,52
+I
+12,01
+13,05
+C
+VI
+11,73
+12,48
+V
+11,28
+12,21
+IV
+10,98
+11,94
+III
+10,61
+11,68
+II
+10,33
+11,42
+I
+10,05
+11,17
+B
+VI
+9,69
+10,68
+V
+9,43
+10,45
+IV
+9,18
+10,22
+III
+8,94
+9,99
+II
+8,70
+9,77
+I
+8,47
+9,56
+A
+V
+8,18
+9,28
+IV
+8,04
+9,14
+III
+7,90
+9,00
+II
+7,76
+8,87
+I
+7,63
+8,74
+ANEXO CXXV
+(Anexo com redação dada pelo Anexo LXXIII à Medida Provisória nº 1.170, de 28/4/2023, convertida na Lei nº 14.673, de 14/9/2023, e alterações pelo Anexo CCXLIV à Lei nº 15.141, de 2/6/2025)
+VALOR DA RETRIBUIÇÃO POR TITULAÇÃO – RT DO PLANO DE CARREIRAS E CARGOS DE PESQUISA E INVESTIGAÇÃO BIOMÉDICA EM SAÚDE PÚBLICA
+a) Valor da RT para o cargo de Pesquisador em Saúde Pública da Carreira de Pesquisa e Investigação Biomédica em Saúde Pública:
+Em R$
+CLASSE
+PADRÃO
+VALOR DA RT
+EFEITOS FINANCEIROS A PARTIR DE 1º DE MAIO DE 2023
+Aperfeiçoamento/
+Especialização
+Mestrado
+Doutorado
+TITULAR
+III
+1.812,38
+3.523,33
+7.613,01
+II
+1.743,55
+3.394,14
+7.328,72
+I
+1.679,56
+3.266,14
+7.060,09
+ASSOCIADO
+III
+1.590,21
+3.089,86
+6.675,40
+II
+1.527,42
+2.975,16
+6.425,02
+I
+1.471,88
+2.864,06
+6.187,69
+ADJUNTO
+III
+1.392,19
+2.708,30
+5.849,94
+II
+1.341,47
+2.609,30
+5.634,77
+I
+1.290,76
+2.512,70
+5.426,13
+ASSISTENTE
+DE
+PESQUISA
+III
+1.221,93
+2.375,04
+5.128,80
+II
+1.178,46
+2.288,12
+4.942,32
+I
+1.131,38
+2.203,59
+4.758,45
+b) Valor da RT para o cargo de Tecnologista em Pesquisa e Investigação Biomédica da Carreira de Desenvolvimento Tecnológico em Pesquisa e Investigação Biomédica em Saúde Pública e para o cargo de Analista de Gestão em Pesquisa e Investigação Biomédica da Carreira de Gestão em Pesquisa e Investigação Biomédica em Saúde Pública:
+Em R$
+CLASSE
+PADRÃO
+VALOR DA RT
+EFEITOS FINANCEIROS A PARTIR DE 1º DE MAIO DE 2023
+Aperfeiçoamento/
+Especialização
+Mestrado
+Doutorado
+SÊNIOR
+III
+1.812,38
+3.523,33
+7.613,01
+II
+1.743,55
+3.394,14
+7.328,72
+I
+1.679,56
+3.266,14
+7.060,09
+PLENO 3
+III
+1.590,21
+3.089,86
+6.675,40
+II
+1.527,42
+2.975,16
+6.425,02
+I
+1.471,88
+2.864,06
+6.187,69
+PLENO 2
+III
+1.392,19
+2.708,30
+5.849,94
+II
+1.341,47
+2.609,30
+5.634,77
+I
+1.290,76
+2.512,70
+5.426,13
+PLENO 1
+III
+1.221,93
+2.375,04
+5.128,80
+II
+1.178,46
+2.288,12
+4.942,32
+I
+1.131,38
+2.203,59
+4.758,45
+JÚNIOR
+III
+1.071,00
+2.082,85
+4.500,25
+II
+1.031,16
+2.006,78
+4.334,64
+I
+992,52
+1.933,13
+4.171,64
+c) Valor da RT para os cargos de Especialista em Pesquisa e Investigação Biomédica em Saúde Pública:
+(Tabela com redação dada pelo Anexo CCXLIV à Lei nº 15.141, de 2/6/2025)
+Em R$
+CLASSE
+PADRÃO
+VALOR DA RT
+EFEITOS FINANCEIROS A PARTIR DE
+1º DE MAIO DE 2023
+1º DE JANEIRO DE 2025
+1º DE ABRIL DE 2026
+ÚNICA
+ÚNICO
+7.613,01
+9.521,90
+9.734,27
+d) Valor da RT para os cargos de nível superior do Plano:
+Em R$
+CLASSE
+PADRÃO
+VALOR DA RT
+EFEITOS FINANCEIROS A PARTIR DE 1º DE MAIO DE 2023
+Aperfeiçoamento/
+Especialização
+Mestrado
+Doutorado
+ESPECIAL
+III
+1.812,38
+3.523,33
+7.613,01
+II
+1.743,55
+3.394,14
+7.328,72
+I
+1.679,56
+3.266,14
+7.060,09
+C
+VI
+1.590,21
+3.089,86
+6.675,40
+V
+1.527,42
+2.975,16
+6.425,02
+IV
+1.471,88
+2.864,06
+6.187,69
+III
+1.392,19
+2.708,30
+5.849,94
+II
+1.341,47
+2.609,30
+5.634,77
+I
+1.290,76
+2.512,70
+5.426,13
+B
+VI
+1.221,93
+2.375,04
+5.128,80
+V
+1.178,46
+2.288,12
+4.942,32
+IV
+1.131,38
+2.203,59
+4.758,45
+III
+1.071,00
+2.082,85
+4.500,25
+II
+1.031,16
+2.006,78
+4.334,64
+I
+992,52
+1.933,13
+4.171,64
+A
+V
+967,17
+1.877,58
+4.052,97
+IV
+938,18
+1.822,03
+3.932,99
+III
+910,41
+1.768,91
+3.823,46
+II
+883,85
+1.716,99
+3.711,31
+I
+858,49
+1.667,48
+3.601,76
+e) Valor da RT para o cargo de Pesquisador em Saúde Pública da Carreira de Pesquisa e Investigação Biomédica em Saúde Pública, para o cargo de Tecnologista em Pesquisa e Investigação Biomédica da Carreira de Desenvolvimento Tecnológico em Pesquisa e Investigação Biomédica em Saúde Pública, para o cargo de Analista de Gestão em Pesquisa e Investigação Biomédica da Carreira de Gestão em Pesquisa e Investigação Biomédica em Saúde Pública e para os cargos de nível superior do Plano, a partir de 1º de janeiro de 2025:
+(Tabela acrescida pelo Anexo CCXLIV à Lei nº 15.141, de 2/6/2025)
+Em R$
+CLASSE
+PADRÃO
+VALOR DA RT
+EFEITOS FINANCEIROS A PARTIR DE 1º DE JANEIRO DE 2025
+Aperfeiçoamento / Especialização
+Mestrado
+Doutorado
+ESPECIAL
+III
+4.103,11
+5.230,36
+9.312,62
+II
+3.939,95
+5.022,36
+8.942,29
+I
+3.783,27
+4.822,64
+8.586,69
+C
+VI
+3.632,82
+4.630,86
+8.245,23
+V
+3.488,36
+4.446,71
+7.917,34
+IV
+3.322,56
+4.235,37
+7.541,05
+III
+3.242,64
+4.133,49
+7.359,66
+II
+3.164,65
+4.034,07
+7.182,64
+I
+3.088,53
+3.937,04
+7.009,88
+B
+VI
+3.014,24
+3.842,34
+6.841,27
+V
+2.870,98
+3.659,72
+6.516,12
+IV
+2.801,93
+3.571,70
+6.359,39
+III
+2.734,53
+3.485,78
+6.206,42
+II
+2.668,76
+3.401,94
+6.057,13
+I
+2.604,56
+3.320,11
+5.911,44
+A
+V
+2.529,57
+3.224,52
+5.741,23
+IV
+2.492,88
+3.177,75
+5.657,97
+III
+2.456,73
+3.131,67
+5.575,92
+II
+2.421,10
+3.086,25
+5.495,05
+I
+2.385,99
+3.041,50
+5.415,37
+f) Valor da RT para o cargo de Pesquisador em Saúde Pública da Carreira de Pesquisa e Investigação Biomédica em Saúde Pública, para o cargo de Tecnologista em Pesquisa e Investigação Biomédica da Carreira de Desenvolvimento Tecnológico em Pesquisa e Investigação Biomédica em Saúde Pública, para o cargo de Analista de Gestão em Pesquisa e Investigação Biomédica da Carreira de Gestão em Pesquisa e Investigação Biomédica em Saúde Pública e para os cargos de nível superior do Plano, a partir de 1º de abril de 2026:
+(Tabela acrescida pelo Anexo CCXLIV à Lei nº 15.141, de 2/6/2025)
+Em R$
+CLASSE
+PADRÃO
+VALOR DA RT
+EFEITOS FINANCEIROS A PARTIR DE 1º DE ABRIL DE 2026
+Aperfeiçoamento / Especialização
+Mestrado
+Doutorado
+ESPECIAL
+III
+4.288,89
+5.467,17
+9.734,27
+II
+4.104,71
+5.232,39
+9.316,24
+I
+3.928,44
+5.007,69
+8.916,17
+C
+VI
+3.759,74
+4.792,64
+8.533,28
+V
+3.598,28
+4.586,83
+8.166,82
+IV
+3.413,65
+4.351,48
+7.747,79
+III
+3.324,93
+4.238,38
+7.546,41
+II
+3.238,50
+4.128,22
+7.350,26
+I
+3.154,33
+4.020,92
+7.159,22
+B
+VI
+3.072,34
+3.916,40
+6.973,13
+V
+2.914,70
+3.715,46
+6.615,35
+IV
+2.838,95
+3.618,89
+6.443,41
+III
+2.765,15
+3.524,82
+6.275,92
+II
+2.693,28
+3.433,20
+6.112,80
+I
+2.623,28
+3.343,97
+5.953,91
+A
+V
+2.541,67
+3.239,94
+5.768,70
+IV
+2.501,82
+3.189,15
+5.678,26
+III
+2.462,60
+3.139,15
+5.589,24
+II
+2.423,99
+3.089,94
+5.501,61
+I
+2.385,99
+3.041,50
+5.415,37
+ANEXO CXXVI
+(Anexo com redação dada pelo Anexo LXXIV à Medida Provisória nº 1.170, de 28/4/2023, convertida na Lei nº 14.673, de 14/9/2023, e alterações pelo Anexo CCXLV à Lei nº 15.141, de 2/6/2025)
+GRATIFICAÇÃO POR QUALIFICAÇÃO - GQ DO PLANO DE CARREIRAS E CARGOS DE PESQUISA E INVESTIGAÇÃO BIOMÉDICA EM SAÚDE PÚBLICA
+a) Valor da GQ para os cargos de Técnico em Pesquisa e Investigação Biomédica da Carreira de Suporte Técnico em Pesquisa e Investigação Biomédica em Saúde Pública e de Assistente Técnico de Gestão em Pesquisa e Investigação Biomédica da Carreira de Suporte à Gestão em Pesquisa e Investigação Biomédica em Saúde Pública:
+Em R$
+CLASSE
+PADRÃO
+VALOR DA GQ
+EFEITOS FINANCEIROS A PARTIR DE 1º DE MAIO DE 2023
+Aperfeiçoamento/
+Especialização
+Mestrado
+Doutorado
+TÉCNICO 3
+ASSISTENTE 3
+III
+908,00
+1.765,29
+3.531,79
+II
+875,40
+1.704,91
+3.407,42
+I
+845,22
+1.644,55
+3.290,30
+TÉCNICO 2
+ASSISTENTE 2
+VI
+817,45
+1.589,00
+3.178,00
+V
+787,25
+1.533,46
+3.065,71
+IV
+759,48
+1.479,12
+2.957,04
+III
+734,13
+1.427,20
+2.855,61
+II
+708,77
+1.377,69
+2.754,19
+I
+682,21
+1.328,20
+2.655,17
+TÉCNICO 1
+ASSISTENTE 1
+VI
+659,26
+1.281,10
+2.562,21
+V
+636,32
+1.235,22
+2.470,44
+IV
+610,97
+1.190,54
+2.379,88
+III
+590,44
+1.147,07
+2.295,35
+II
+568,71
+1.106,02
+2.210,84
+I
+545,76
+1.063,76
+2.127,53
+b) Valor da GQ para os cargos de nível intermediário do Plano:
+Em R$
+CLASSE
+PADRÃO
+VALOR DA GQ
+EFEITOS FINANCEIROS A PARTIR DE 1º DE MAIO DE 2023
+Aperfeiçoamento/
+Especialização
+Mestrado
+Doutorado
+ESPECIAL
+III
+908,00
+1.765,29
+3.531,79
+II
+875,40
+1.704,91
+3.407,42
+I
+845,22
+1.644,55
+3.290,30
+C
+VI
+817,45
+1.589,00
+3.178,00
+V
+787,25
+1.533,46
+3.065,71
+IV
+759,48
+1.479,12
+2.957,04
+III
+734,13
+1.427,20
+2.855,61
+II
+708,77
+1.377,69
+2.754,19
+I
+682,21
+1.328,20
+2.655,17
+B
+VI
+659,26
+1.281,10
+2.562,21
+V
+636,32
+1.235,22
+2.470,44
+IV
+610,97
+1.190,54
+2.379,88
+III
+590,44
+1.147,07
+2.295,35
+II
+568,71
+1.106,02
+2.210,84
+I
+545,76
+1.063,76
+2.127,53
+A
+V
+532,49
+1.033,57
+2.065,94
+IV
+516,79
+1.003,39
+2.005,57
+III
+501,09
+974,41
+1.950,03
+II
+486,60
+945,43
+1.892,07
+I
+470,90
+914,04
+1.828,07
+c) Valor da GQ para os cargos de nível Auxiliar em Pesquisa e Investigação Biomédica em Saúde Pública da Carreira de Gestão, Planejamento e Infraestrutura em Pesquisa e Investigação Biomédica em Saúde Pública:
+(Tabela com redação dada pelo Anexo CCXLV à Lei nº 15.141, de 2/6/2025)
+Em R$
+CLASSE
+PADRÃO
+VALOR DA GQ
+EFEITOS FINANCEIROS A PARTIR DE
+1º DE MAIO DE 2023
+1º DE JANEIRO DE 2025
+1º DE ABRIL DE 2026
+AUXILIAR II
+VI
+307,90
+335,61
+352,39
+V
+299,44
+326,39
+342,71
+IV
+292,21
+318,51
+334,44
+III
+284,96
+310,61
+326,14
+II
+277,71
+302,70
+317,84
+I
+270,47
+294,81
+309,55
+AUXILIAR I
+VI
+259,61
+282,97
+297,12
+V
+252,36
+275,07
+288,82
+IV
+246,32
+268,49
+281,91
+III
+240,28
+261,91
+275,01
+II
+234,24
+255,32
+268,09
+I
+228,20
+248,74
+261,18
+d) Valor da GQ para os cargos de nível auxiliar do Plano:
+(Tabela com redação dada pelo Anexo CCXLV à Lei nº 15.141, de 2/6/2025)
+Em R$
+CLASSE
+PADRÃO
+VALOR DA GQ
+EFEITOS FINANCEIROS A PARTIR DE
+1º DE MAIO DE 2023
+1º DE JANEIRO DE 2025
+1º DE ABRIL DE 2026
+ESPECIAL
+III
+307,90
+335,61
+352,39
+II
+299,44
+326,39
+342,71
+I
+292,21
+318,51
+334,44
+e) Valor da GQ para os cargos de Técnico em Pesquisa e Investigação Biomédica da Carreira de Suporte Técnico em Pesquisa e Investigação Biomédica em Saúde Pública, de Assistente Técnico de Gestão em Pesquisa e Investigação Biomédica da Carreira de Suporte à Gestão em Pesquisa e Investigação Biomédica em Saúde Pública e para os cargos de nível intermediário do Plano, a partir de 1º de janeiro de 2025:
+(Tabela acrescida pelo Anexo CCXLV à Lei nº 15.141, de 2/6/2025)
+Em R$
+CLASSE
+PADRÃO
+VALOR DA GQ
+EFEITOS FINANCEIROS A PARTIR DE 1º DE JANEIRO DE 2025
+I
+II
+III
+ESPECIAL
+III
+1.403,19
+2.202,01
+4.389,03
+II
+1.354,53
+2.126,02
+3.998,76
+I
+1.307,75
+2.052,40
+3.643,51
+C
+VI
+1.252,21
+1.965,06
+3.260,99
+V
+1.222,78
+1.919,26
+3.163,76
+IV
+1.194,24
+1.874,43
+3.069,39
+III
+1.166,59
+1.830,71
+2.978,19
+II
+1.139,45
+1.788,09
+2.889,34
+I
+1.112,60
+1.746,24
+2.803,02
+B
+VI
+1.065,27
+1.671,64
+2.647,96
+V
+1.040,46
+1.632,53
+2.568,88
+IV
+1.015,69
+1.594,28
+2.491,94
+III
+992,16
+1.556,87
+2.417,60
+II
+968,85
+1.520,45
+2.345,15
+I
+945,74
+1.484,51
+2.274,67
+A
+V
+917,20
+1.439,58
+2.225,52
+IV
+903,11
+1.417,54
+2.201,34
+III
+889,40
+1.395,95
+2.177,34
+II
+875,86
+1.374,64
+2.153,65
+I
+862,51
+1.353,60
+2.130,27
+f) Valor da GQ para os cargos de Técnico em Pesquisa e Investigação Biomédica da Carreira de Suporte Técnico em Pesquisa e Investigação Biomédica em Saúde Pública, de Assistente Técnico de Gestão em Pesquisa e Investigação Biomédica da Carreira de Suporte à Gestão em Pesquisa e Investigação Biomédica em Saúde Pública e para os cargos de nível intermediário do Plano, a partir de 1º de abril de 2026:
+(Tabela acrescida pelo Anexo CCXLV à Lei nº 15.141, de 2/6/2025)
+Em R$
+CLASSE
+PADRÃO
+VALOR DA GQ
+EFEITOS FINANCEIROS A PARTIR DE 1º DE ABRIL DE 2026
+I
+II
+III
+ESPECIAL
+III
+1.470,00
+2.252,60
+4.488,00
+II
+1.419,22
+2.174,79
+4.062,99
+I
+1.370,20
+2.099,67
+3.678,23
+C
+VI
+1.310,56
+2.008,28
+3.264,31
+V
+1.281,72
+1.964,08
+3.168,99
+IV
+1.253,52
+1.920,87
+3.076,45
+III
+1.225,93
+1.878,60
+2.986,62
+II
+1.198,96
+1.837,26
+2.899,41
+I
+1.172,57
+1.796,83
+2.814,74
+B
+VI
+1.121,54
+1.718,62
+2.652,76
+V
+1.096,86
+1.680,80
+2.575,29
+IV
+1.072,72
+1.643,82
+2.500,09
+III
+1.049,12
+1.607,65
+2.427,09
+II
+1.026,03
+1.572,27
+2.356,22
+I
+1.003,45
+1.537,67
+2.287,41
+A
+V
+974,01
+1.492,56
+2.242,34
+IV
+959,62
+1.470,50
+2.220,14
+III
+945,44
+1.448,77
+2.198,16
+II
+931,47
+1.427,36
+2.176,40
+I
+917,70
+1.406,27
+2.154,85
+ANEXO CXXVII
+(Anexo I da Lei no 10.480, de 2 de julho de 2002)
+TABELAS DE VALOR DO PONTO DA GRATIFICAÇÃO DE DESEMPENHO DE ATIVIDADE DE APOIO TÉCNICO-ADMINISTRATIVO NA AGU - GDAA
+a) Valor do ponto da GDAA para os cargos de Nível Superior:
+Em R$
+CLASSE
+PADRÃO
+VALOR DO PONTO DA GDAA
+EFEITOS FINANCEIROS A PARTIR DE
+1o JUL 2008
+1o JUL 2009
+1o JUL 2010
+ESPECIAL
+III
+22,64
+24,24
+28,34
+II
+22,20
+23,76
+27,65
+I
+21,76
+23,29
+26,98
+C
+VI
+21,13
+22,61
+26,07
+V
+20,72
+22,17
+25,43
+IV
+20,31
+21,74
+24,81
+III
+19,91
+21,31
+24,20
+II
+19,52
+20,89
+23,61
+I
+19,14
+20,48
+23,03
+B
+VI
+18,58
+19,88
+22,25
+V
+18,22
+19,49
+21,71
+IV
+17,86
+19,11
+21,18
+III
+17,51
+18,74
+20,66
+II
+17,17
+18,37
+20,16
+I
+16,83
+18,01
+19,67
+A
+V
+16,34
+17,49
+19,00
+IV
+16,02
+17,15
+18,54
+III
+15,71
+16,81
+18,09
+II
+15,40
+16,48
+17,65
+I
+15,10
+16,16
+17,22
+b) Valor do ponto da GDAA para os cargos de Nível Intermediário:
+Em R$
+CLASSE
+PADRÃO
+VALOR DO PONTO DA GDAA
+EFEITOS FINANCEIROS A PARTIR DE
+1o JUL 2008
+1o JUL 2009
+1o JUL 2010
+ESPECIAL
+III
+9,26
+12,57
+14,69
+II
+9,24
+12,42
+14,47
+I
+9,22
+12,27
+14,26
+C
+VI
+9,16
+12,09
+13,89
+V
+9,14
+11,95
+13,69
+IV
+9,12
+11,81
+13,49
+III
+9,10
+11,67
+13,29
+II
+9,08
+11,53
+13,09
+I
+9,06
+11,39
+12,90
+B
+VI
+9,00
+11,22
+12,57
+V
+8,98
+11,09
+12,38
+IV
+8,96
+10,96
+12,20
+III
+8,94
+10,83
+12,02
+II
+8,92
+10,70
+11,84
+I
+8,90
+10,57
+11,67
+A
+V
+8,84
+10,41
+11,37
+IV
+8,82
+10,29
+11,20
+III
+8,80
+10,17
+11,03
+II
+8,78
+10,05
+10,87
+I
+8,76
+9,94
+10,71
+c) Valor do ponto da GDAA para os cargos de Nível Auxiliar:
+Em R$
+CLASSE
+PADRÃO
+VALOR DO PONTO DA GDAA
+EFEITOS FINANCEIROS A PARTIR DE
+1o JUL 2008
+1o JUL 2009
+1o JUL 2010
+ESPECIAL
+III
+5,28
+5,38
+5,48
+II
+5,23
+5,33
+5,43
+I
+5,18
+5,29
+5,39
+ANEXO CXXVIII
+(Anexo II da Lei no 10.480, de 2 de julho de 2002)
+TABELA DE CORRELAÇÃO DOS CARGOS DE PROVIMENTO EFETIVO DO PLANO DE CLASSIFICAÇÃO DE CARGOS - PCC, DE QUE TRATA O ART. 1o DESTA LEI, INTEGRANTES DO QUADRO DE PESSOAL DA ADVOCACIA-GERAL DA UNIÃO - AGU, ENQUADRADOS NO PLANO GERAL DE CARGOS DO PODER EXECUTIVO – PGPE
+a) Cargos de Nível Superior e Intermediário:
+SITUAÇÃO ATUAL
+SITUAÇÃO NOVA
+CARGOS
+CLASSE
+PADRÃO
+PADRÃO
+CLASSE
+CARGOS
+Cargos de nível superior e intermediário
+do PCC, de que trata o art. 1o desta Lei, integrantes
+do Quadro de Pessoal da
+AGU
+A
+III
+III
+ESPECIAL
+Cargos de nível superior e
+intermediário do Quadro de Pessoal
+da AGU enquadrados no PGPE
+II
+II
+I
+I
+B
+VI
+VI
+C
+V
+V
+IV
+IV
+III
+III
+II
+II
+I
+I
+C
+VI
+VI
+B
+V
+V
+IV
+IV
+III
+III
+II
+II
+I
+I
+D
+V
+V
+A
+IV
+IV
+III
+III
+II
+II
+I
+I
+b) Cargos de nível auxiliar
+SITUAÇÃO ATUAL
+SITUAÇÃO NOVA
+CARGOS
+CLASSE
+PADRÃO
+PADRÃO
+CLASSE
+CARGOS
+Cargos de nível auxiliar do PCC, de que trata
+o art. 1o desta Lei, integrantes
+do Quadro de Pessoal da AGU
+A
+III
+III
+ESPECIAL
+Cargos de nível auxiliar do Quadro de Pessoal
+da AGU enquadrados no PGPE
+II
+II
+I
+I
+B
+VI
+V
+IV
+III
+II
+I
+C
+VI
+V
+IV
+III
+II
+I
+D
+V
+IV
+III
+II
+I
+ANEXO CXXIX
+(Anexo III da Lei no 10.480, de 2 de julho de 2002) TERMO DE OPÇÃO
+1.1.1 PLANO GERAL DE CARGOS DO PODER EXECUTIVO
+Nome:
+Cargo:
+Matrícula SIAPE:
+Unidade de Lotação:
+Unidade Pagadora:
+Cidade:
+Estado:
+Servidor ativo ( ) Aposentado ( ) Pensionista ( )
+Venho, nos termos da Lei no 11.907, de 2 de janeiro de 2009, e observado o disposto no § 2o do art. 1o- A, optar pelo não enquadramento no Plano Geral de Cargos do Poder Executivo - PGPE e pelo não recebimento dos vencimentos e vantagens estabelecidos pela Lei no 11.357, de 19 de outubro de 2006, e pela manutenção da situação funcional do cargo efetivo que ocupo ou em que passei à inatividade ou do qual sou beneficiário de pensão.
+Local e data , / / .
+Assinatura
+Recebido em: / / .
+Assinatura/Matrícula ou Carimbo do Servidor do órgão do Sistema de Pessoal Civil da Administração
+Federal - SIPEC
+ANEXO CXXX
+(Anexo IV da Lei no 10.480, de 2 de julho de 2002)
+TABELA DE CORRELAÇÃO DOS CARGOS DE PROVIMENTO EFETIVO DA CARREIRA
+DA SEGURIDADE SOCIAL E DO TRABALHO, DE QUE TRATA A LEI No 10.483, INTEGRANTES DO QUADRO DE PESSOAL DA ADVOCACIA-GERAL DA UNIÃO - AGU, ENQUADRADOS NA CARREIRA DA PREVIDÊNCIA, DA SAÚDE E DO TRABALHO
+a) Cargos de Nível Superior e Intermediário:
+SITUAÇÃO ATUAL
+SITUAÇÃO NOVA
+CARGOS
+CLASSE
+PADRÃO
+PADRÃO
+CLASSE
+CARGOS
+Cargos de nível superior e intermediário da Carreira da Seguridade
+Social e do Trabalho, de que
+trata a Lei no 10.483, integrantes do
+Quadro de Pessoal da
+AGU
+ESPECIAL
+III
+III
+ESPECIAL
+Cargos de nível superior e
+intermediário do Quadro de Pessoal
+da AGU enquadrados na Carreira da Previdência, da Saúde
+e do Trabalho
+II
+II
+I
+I
+C
+VI
+VI
+C
+V
+V
+IV
+IV
+III
+III
+II
+II
+I
+I
+B
+VI
+VI
+B
+V
+V
+IV
+IV
+III
+III
+II
+II
+I
+I
+A
+V
+V
+A
+IV
+IV
+III
+III
+II
+II
+I
+I
+b) Cargos de nível auxiliar
+SITUAÇÃO ATUAL
+SITUAÇÃO NOVA
+CARGOS
+CLASSE
+PADRÃO
+PADRÃO
+CLASSE
+CARGOS
+Cargos de nível auxiliar da Carreira da Seguridade Social e do Trabalho, de que trata a Lei no 10.483, integrantes do Quadro de Pessoal da AGU
+ESPECIAL
+III
+III
+ESPECIAL
+Cargos de nível auxiliar do Quadro de Pessoal da AGU enquadrados na Carreira da
+Previdência, da Saúde e do Trabalho
+II
+II
+I
+I
+C
+VI
+V
+IV
+III
+II
+I
+B
+VI
+V
+IV
+III
+II
+I
+A
+V
+IV
+III
+II
+I
+ANEXO CXXXI
+1.1.2CARREIRA DA PREVIDÊNCIA, DA SAÚDE E DO TRABALHONome:Cargo:Matrícula SIAPE:Unidade de Lotação:Unidade Pagadora:Cidade:Estado:Servidor ativo ( )Aposentado ( )Pensionista ( )Venho, nos termos da Lei no 11.907, de 2 de janeiro de 2009, e observado o disposto no § 2o do art. 1o- B optar pelo não enquadramento na Carreira da Previdência, da Saúde e do Trabalho e pelo não recebimento dos vencimentos e vantagens estabelecidos pela Lei no 11.355, de 19 de outubro de 2006, e pela manutenção da situação funcional do cargo efetivo que ocupo ou em que passei à inatividade ou do qual sou beneficiário de pensão.Local e data , / / .AssinaturaRecebido em: / / .Assinatura/Matrícula ou Carimbo do Servidor do órgão do Sistema de Pessoal Civil da AdministraçãoFederal - SIPEC(Anexo V da Lei no 10.480, de 2 de julho de 2002) TERMO DE OPÇÃO
+ANEXO CXXXII
+(Anexo VI da Lei no 10.480, de 2 de julho de 2002) TABELAS DE VALOR DA GRATIFICAÇÃO TEMPORÁRIA DA
+ADVOCACIA-GERAL DA UNIÃO - GTAGU
+a) Valor da GTAGU para os cargos de Nível Superior:
+Em R$
+CLASSE
+PADRÃO
+VALOR DA GTAGU
+EFEITOS FINANCEIROS A PARTIR DE
+1o JUL 2008
+1o JUL 2009 ATÉ 30 JUN 2010
+ESPECIAL
+III
+364,76
+197,63
+II
+353,11
+191,32
+I
+341,83
+185,21
+C
+VI
+310,75
+168,37
+V
+300,82
+162,99
+IV
+291,21
+157,78
+III
+281,91
+152,74
+II
+272,90
+147,86
+I
+264,18
+143,14
+B
+VI
+255,74
+138,57
+V
+232,49
+125,97
+IV
+225,06
+121,95
+III
+217,87
+118,05
+II
+210,91
+114,28
+I
+204,17
+110,63
+A
+V
+185,61
+100,57
+IV
+179,68
+97,36
+III
+173,94
+94,25
+II
+168,38
+91,24
+I
+163,00
+88,33
+b) Valor da GTAGU para os cargos de Nível Intermediário:
+Em R$
+CLASSE
+PADRÃO
+VALOR DA GTAGU
+EFEITOS FINANCEIROS A PARTIR DE
+1o JUL 2008
+1o JUL 2009
+1o JUL 2010 ATÉ 30 JUN 2011
+ESPECIAL
+III
+280,91
+294,55
+111,89
+II
+278,13
+294,26
+111,78
+I
+275,38
+293,97
+111,67
+C
+VI
+272,65
+293,68
+111,56
+V
+269,95
+293,39
+111,45
+IV
+267,28
+293,10
+111,34
+III
+264,63
+292,81
+111,23
+II
+262,01
+292,52
+111,12
+I
+259,42
+292,23
+111,01
+B
+VI
+256,85
+291,94
+110,90
+V
+254,31
+291,65
+110,79
+IV
+251,79
+291,36
+110,68
+III
+249,30
+291,07
+110,57
+II
+246,83
+290,78
+110,46
+I
+244,39
+290,49
+110,35
+A
+V
+241,97
+290,20
+110,24
+IV
+239,57
+289,91
+110,13
+III
+237,20
+289,62
+110,02
+II
+234,85
+289,33
+109,91
+I
+232,52
+289,04
+109,80
+c) Valor da GTAGU para os cargos de Nível Auxiliar:
+Em R$
+CLASSE
+PADRÃO
+VALOR DA GTAGU
+EFEITOS FINANCEIROS A PARTIR DE 1o
+JUL 2008 ATÉ 31 DEZ 2008
+ESPECIAL
+III
+279,67
+II
+276,90
+I
+274,16
+ANEXO CXXXIII
+(Revogado)
+ANEXO CXXXIV
+(Revogado)
+ANEXO CXXXV (VETADO)
+ANEXO CXXXVI
+(Anexo com redação dada pelo Anexo XXII à Lei nº 15.141, de 2/6/2025)
+ESTRUTURA DOS CARGOS DO PLANO ESPECIAL DE CARGOS DO MINISTÉRIO DA FAZENDA
+a) Cargos de níveis superior e intermediário:
+CARGOO
+CLASSE
+PADRÃO
+Cargos de níveis superior e intermediário do PECFAZ
+Especial
+III
+II
+I
+C
+VI
+V
+IV
+III
+II
+I
+B
+VI
+V
+IV
+III
+II
+I
+A
+V
+IV
+III
+II
+I
+b) Cargos de nível auxiliar:
+CARGO
+CLASSE
+PADRÃO
+Cargos de nível auxiliar do
+PECFAZ
+Especial
+III
+II
+I
+c) Cargos de níveis superior e intermediário a partir de 1º de janeiro de 2025:
+(Tabela acrescida pelo Anexo XXII à Lei nº 15.141, de 2/6/2025)
+CARGOS
+CLASSE
+PADRÃO
+Cargos de nível superior e intermediário do PECFAZ
+ESPECIAL
+V
+IV
+III
+II
+I
+C
+V
+IV
+III
+II
+I
+B
+V
+IV
+III
+II
+I
+A
+V
+IV
+III
+II
+I
+ANEXO CXXXVII
+(Anexo com redação dada pelo Anexo XXIX à Medida Provisória nº 1.170, de 28/4/2023, convertida na Lei nº 14.673, de 14/9/2023, e alterações do Anexo XXIII à Lei nº 15.141, de 2/6/2025)
+TABELAS DE VALOR DO PONTO DA GRATIFICAÇÃO DE DESEMPENHO DE ATIVIDADE FAZENDÁRIA – GDAFAZ
+a) Valor do ponto da GDAFAZ para os cargos de nível superior:
+Em R$
+CARGOS
+CLASSE
+PADRÃO
+VALOR DO PONTO DA GDAFAZ
+EFEITOS FINANCEIROS A PARTIR DE 1º DE MAIO DE 2023
+Cargos de nível superior do PECFAZ
+ESPECIAL
+III
+56,15
+II
+55,11
+I
+54,10
+C
+VI
+52,17
+V
+51,24
+IV
+50,33
+III
+49,43
+II
+48,55
+I
+47,70
+B
+VI
+46,06
+V
+45,28
+IV
+44,50
+III
+43,75
+II
+43,00
+I
+42,29
+A
+V
+40,92
+IV
+40,25
+III
+39,59
+II
+38,95
+I
+38,31
+b) Valor do ponto da GDAFAZ para os cargos de nível intermediário:
+Em R$
+CARGOS
+CLASSE
+PADRÃO
+VALOR DO PONTO DA GDAFAZ
+EFEITOS FINANCEIROS A PARTIR DE 1º DE MAIO DE 2023
+Cargos de nível intermediário do PECFAZ
+ESPECIAL
+III
+28,75
+II
+28,58
+I
+28,43
+C
+VI
+28,22
+V
+28,06
+IV
+27,89
+III
+27,73
+II
+27,59
+I
+27,45
+B
+VI
+27,26
+V
+27,11
+IV
+26,99
+III
+26,84
+II
+26,69
+I
+26,55
+A
+V
+26,45
+IV
+26,41
+III
+26,38
+II
+26,33
+I
+26,30
+c) Valor do ponto da GDAFAZ para os cargos de nível auxiliar:
+(Tabela com redação dada pelo Anexo XXIII à Lei nº 15.141, de 2/6/2025)
+Em R$
+CLASSE
+PADRÃO
+VALOR DO PONTO DA GDAFAZ
+EFEITOS FINANCEIROS A PARTIR DE
+1º DE MAIO DE 2023
+1º DE JANEIRO DE 2025
+1º DE ABRIL DE 2026
+ESPECIAL
+III
+23,91
+26,06
+27,36
+II
+23,84
+25,99
+27,28
+I
+23,77
+25,91
+27,20
+d) Valor do ponto da GDAFAZ para os cargos de nível superior a partir de 1º de janeiro de 2025:
+(Tabela acrescida pelo Anexo XXIII à Lei nº 15.141, de 2/6/2025)
+Em R$
+CLASSE
+PADRÃO
+VALOR DO PONTO DA GDAFAZ
+EFEITOS FINANCEIROS A PARTIR DE
+1º DE JANEIRO DE 2025
+1º DE ABRIL DE 2026
+ESPECIAL
+V
+61,20
+64,26
+IV
+60,09
+63,10
+III
+59,01
+61,96
+II
+56,84
+59,69
+I
+55,84
+58,63
+C
+V
+54,86
+57,60
+IV
+53,90
+56,60
+III
+52,97
+55,62
+II
+52,06
+54,66
+I
+50,21
+52,72
+B
+V
+49,37
+51,83
+IV
+48,54
+50,96
+III
+47,73
+50,12
+II
+46,94
+49,28
+I
+46,16
+48,47
+A
+V
+44,60
+46,83
+IV
+43,88
+46,08
+III
+43,19
+45,35
+II
+42,49
+44,61
+I
+41,81
+43,90
+e) Valor do ponto da GDAFAZ para os cargos de nível intermediário a partir de 1º de janeiro de 2025:
+(Tabela acrescida pelo Anexo XXIII à Lei nº 15.141, de 2/6/2025)
+Em R$
+CLASSE
+PADRÃO
+VALOR DO PONTO DA GDAFAZ
+EFEITOS FINANCEIROS A PARTIR DE
+1º DE JANEIRO DE 2025
+1º DE ABRIL DE 2026
+ESPECIAL
+V
+31,34
+32,90
+IV
+31,15
+32,71
+III
+30,99
+32,54
+II
+30,76
+32,30
+I
+30,59
+32,11
+C
+V
+30,40
+31,92
+IV
+30,23
+31,74
+III
+30,07
+31,58
+II
+29,92
+31,42
+I
+29,71
+31,20
+B
+V
+29,55
+31,03
+IV
+29,42
+30,89
+III
+29,26
+30,72
+II
+29,09
+30,55
+I
+28,94
+30,39
+A
+V
+28,83
+30,27
+IV
+28,79
+30,23
+III
+28,75
+30,19
+II
+28,70
+30,13
+I
+28,67
+30,10
+ANEXO CXXXVIII
+(Anexo com redação dada pelo Anexo XXIV à Lei nº 15.141, de 2/6/2025)
+GRATIFICAÇÃO ESPECÍFICA DE ATIVIDADES AUXILIARES DO PECFAZ – GEAF
+Cargos de nível auxiliar do PECFAZ:
+Em R$
+CLASSE
+PADRÃO
+VALOR DA GEAF
+EFEITOS FINANCEIROS A PARTIR DE
+1º DE MAIO DE 2023
+1º DE JANEIRO DE 2025
+1º DE ABRIL DE 2026
+ESPECIAL
+III
+355,05
+387,00
+406,35
+II
+353,82
+385,66
+404,95
+I
+352,60
+384,33
+403,55
+ANEXO CXXXIX
+GRATIFICAÇÃO TEMPORÁRIA DE ATIVIDADES DE NÍVEL INTERMEDIÁRIO DO PECFAZ – GTANI
+DE 1o DE JULHO DE 2008 ATÉ 28 DE FEVEREIRO DE 2009
+Em R$
+CARGOS
+CLASSE
+PADRÃO
+VALOR DA GTANI
+Cargos de nível intermediário do PECFAZ
+Especial
+III
+132,25
+II
+126,50
+I
+120,50
+C
+VI
+112,50
+V
+106,50
+IV
+100,50
+III
+94,50
+II
+89,00
+I
+83,50
+B
+VI
+76,00
+V
+70,50
+IV
+65,00
+III
+59,50
+II
+54,00
+I
+48,50
+A
+V
+41,50
+IV
+38,00
+III
+34,50
+II
+31,00
+I
+27,50
+ANEXO CXL
+(Anexo com redação dada pelo Anexo XXXI à Medida Provisória nº 1.170, de 28/4/2023, convertida na Lei nº 14.673, de 14/9/2023, e alterações pelo Anexo XXV à Lei nº 15.141, de 2/6/2025)
+TABELAS DE VENCIMENTO BÁSICO DOS CARGOS DO PLANO ESPECIAL DE CARGOS DO MINISTÉRIO DA FAZENDA – PECFAZ
+a) Vencimento básico dos cargos de nível superior:
+Em R$
+CARGOS
+CLASSE
+PADRÃO
+VENCIMENTO BÁSICO
+EFEITOS FINANCEIROS A PARTIR DE 1º DE MAIO DE 2023
+Cargos de nível superior do PECFAZ
+ESPECIAL
+III
+4.113,38
+II
+4.001,34
+I
+3.892,36
+C
+VI
+3.778,99
+V
+3.676,07
+IV
+3.575,93
+III
+3.478,54
+II
+3.383,80
+I
+3.291,64
+B
+VI
+3.195,76
+V
+3.108,71
+IV
+3.024,04
+III
+2.941,67
+II
+2.861,54
+I
+2.783,61
+A
+V
+2.702,54
+IV
+2.628,93
+III
+2.557,31
+II
+2.487,66
+I
+2.419,90
+b) Vencimento básico dos cargos de nível intermediário:
+Em R$
+CARGOS
+CLASSE
+PADRÃO
+VENCIMENTO BÁSICO
+EFEITOS FINANCEIROS A PARTIR DE 1º DE MAIO DE 2023
+Cargos de nível intermediário do PECFAZ
+ESPECIAL
+III
+2.338,30
+II
+2.315,15
+I
+2.292,23
+C
+VI
+2.258,35
+V
+2.235,99
+IV
+2.213,86
+III
+2.191,94
+II
+2.170,22
+I
+2.148,74
+B
+VI
+2.116,99
+V
+2.096,02
+IV
+2.075,26
+III
+2.054,72
+II
+2.034,38
+I
+2.014,22
+A
+V
+1.984,46
+IV
+1.964,81
+III
+1.945,36
+II
+1.926,10
+I
+1.907,03
+c) Vencimento básico dos cargos de nível auxiliar:
+(Tabela com redação dada pelo Anexo XXV à Lei nº 15.141, de 2/6/2025)
+Em R$
+CLASSE
+PADRÃO
+VENCIMENTO BÁSICO
+EFEITOS FINANCEIROS A PARTIR DE
+1º DE MAIO DE 2023
+1º DE JANEIRO DE 2025
+1º DE ABRIL DE 2026
+ESPECIAL
+III
+1.409,90
+1.536,79
+1.613,63
+II
+1.408,56
+1.535,33
+1.612,10
+I
+1.407,23
+1.533,88
+1.610,57
+d) Vencimento básico dos cargos de nível superior a partir de 1º de janeiro de 2025:
+(Tabela acrescida pelo Anexo XXV à Lei nº 15.141, de 2/6/2025)
+Em R$
+CLASSE
+PADRÃO
+VENCIMENTO BÁSICO
+EFEITOS FINANCEIROS A PARTIR DE
+1º DE JANEIRO DE 2025
+1º DE ABRIL DE 2026
+ESPECIAL
+V
+4.620,50
+4.999,29
+IV
+4.490,28
+4.853,68
+III
+4.363,73
+4.712,31
+II
+4.240,75
+4.575,06
+I
+4.121,23
+4.441,81
+C
+V
+3.981,86
+4.270,97
+IV
+3.869,64
+4.146,57
+III
+3.760,58
+4.025,80
+II
+3.654,60
+3.908,54
+I
+3.551,60
+3.794,70
+B
+V
+3.431,50
+3.648,75
+IV
+3.334,79
+3.542,48
+III
+3.240,81
+3.439,30
+II
+3.149,48
+3.339,13
+I
+3.060,72
+3.241,87
+A
+V
+2.957,22
+3.117,18
+IV
+2.873,88
+3.026,39
+III
+2.792,89
+2.938,24
+II
+2.714,18
+2.852,66
+I
+2.637,69
+2.769,57
+e) Vencimento básico dos cargos de nível intermediário a partir de 1º de janeiro de 2025:
+(Tabela acrescida pelo Anexo XXV à Lei nº 15.141, de 2/6/2025)
+Em R$
+CLASSE
+PADRÃO
+VENCIMENTO BÁSICO
+EFEITOS FINANCEIROS A PARTIR DE
+1º DE JANEIRO DE 2025
+1º DE ABRIL DE 2026
+ESPECIAL
+V
+2.629,31
+2.825,50
+IV
+2.599,42
+2.790,62
+III
+2.569,87
+2.756,17
+II
+2.540,65
+2.722,14
+I
+2.511,76
+2.688,53
+C
+V
+2.468,56
+2.635,81
+IV
+2.440,49
+2.603,27
+III
+2.412,74
+2.571,13
+II
+2.385,31
+2.539,39
+I
+2.358,19
+2.508,04
+B
+V
+2.317,63
+2.458,86
+IV
+2.291,28
+2.428,50
+III
+2.265,23
+2.398,52
+II
+2.239,48
+2.368,91
+I
+2.214,02
+2.339,66
+A
+V
+2.175,94
+2.293,78
+IV
+2.151,20
+2.265,46
+III
+2.126,74
+2.237,49
+II
+2.102,56
+2.209,87
+I
+2.078,66
+2.182,59
+ANEXO CXLI
+(Anexo com redação dada pelo Anexo XXVI à Lei nº 15.141, de 2/6/2025)
+TABELAS DE CORRELAÇÃO DOS CARGOS DO PLANO ESPECIAL DE CARGOS DO MINISTÉRIO DA FAZENDA
+a) Correlação dos cargos de nível superior e intermediário:
+Tabela I - Cargos originários do PCC e de Planos correlatos das Autarquias e Fundações públicas não organizados em Carreiras, do Quadro de Pessoal do Ministério da Fazenda em 31 de dezembro de
+2007
+SITUAÇÃO ATUAL
+SITUAÇÃO NOVA
+CARGOS
+CLASSE
+PADRÃO
+PADRÃO
+CLASSE
+CARGOS
+Cargos de nível superior e intermediário originários do
+PCC e de Planos correlatos
+das Autarquias e
+Fundações públicas não organizados em Carreiras,
+do Quadro de Pessoal do Ministério da Fazenda em 31 de dezembro de
+2007
+A
+III
+III
+ESPECIAL
+Cargos de nível superior e
+intermediário do PECFAZ
+II
+II
+I
+I
+B
+VI
+VI
+C
+V
+V
+IV
+IV
+III
+III
+II
+II
+I
+I
+C
+VI
+VI
+B
+V
+V
+IV
+IV
+III
+III
+II
+II
+I
+I
+D
+V
+V
+A
+IV
+IV
+III
+III
+II
+II
+I
+I
+Tabela II - Cargos originários do PGPE e das Carreiras Previdenciária, da Seguridade Social e do Trabalho; e da Previdência, Saúde e Trabalho, do Quadro de Pessoal do Ministério da Fazenda em 31 de dezembro de 2007
+SITUAÇÃO ATUAL
+SITUAÇÃO NOVA
+CARGOS
+CLASSE
+PADRÃO
+PADRÃO
+CLASSE
+CARGOS
+Cargos de nível superior e intermediário originários do PGPE e das Carreiras
+Previdenciária; da Seguridade Social e do Trabalho; e da Previdência, Saúde e Trabalho, do Quadro de Pessoal do Ministério da Fazenda em
+31 de dezembro de 2007
+ESPECIAL
+III
+III
+ESPECIAL
+Cargos de nível superior e intermediário do PECFAZ
+II
+II
+I
+I
+C
+VI
+VI
+C
+V
+V
+IV
+IV
+III
+III
+II
+II
+I
+I
+B
+VI
+VI
+B
+V
+V
+IV
+IV
+III
+III
+II
+II
+I
+I
+A
+V
+V
+A
+IV
+IV
+III
+III
+II
+II
+I
+I
+Tabela III - Cargos originários da Carreira do Seguro Social, do Quadro de Pessoal do
+Ministério da Fazenda em 31 de dezembro de 2007
+SITUAÇÃO ATUAL
+SITUAÇÃO NOVA
+CARGOS
+CLASSE
+PADRÃO
+PADRÃO
+CLASSE
+CARGOS
+Cargos de nível superior e intermediário originários
+da Carreira do Seguro Social, do Quadro de Pessoal do Ministério da Fazenda
+em 31 de dezembro de 2007
+ESPECIAL
+V
+III
+ESPECIAL
+Cargos de nível superior e intermediário do PECFAZ
+IV
+II
+III
+I
+II
+VI
+C
+I
+V
+C
+V
+IV
+IV
+III
+III
+II
+II
+I
+I
+VI
+B
+B
+V
+V
+IV
+IV
+III
+III
+II
+II
+I
+I
+A
+V
+V
+A
+IV
+IV
+III
+III
+II
+II
+I
+I
+TABELA IV - Cargos de nível superior e intermediário do Plano Especial de Cargos do Ministério da Fazenda a partir de 1º de janeiro de 2025
+(Tabela acrescida pelo Anexo XXVI à Lei nº 15.141, de 2/6/2025)
+SITUAÇÃO ATUAL
+SITUAÇÃO A PARTIR DE 1º DE JANEIRO DE 2025
+CARGOS
+CLASSE
+PADRÃO
+PADRÃO
+CLASSE
+CARGOS
+Cargos de nível superior e intermediário do PECFAZ
+ESPECIAL
+III
+V
+ESPECIAL
+Cargos de nível superior e intermediário do PECFAZ
+II
+IV
+I
+III
+C
+VI
+II
+V
+I
+IV
+V
+C
+III
+IV
+II
+III
+I
+II
+B
+VI
+I
+V
+V
+B
+IV
+IV
+III
+III
+II
+II
+I
+I
+A
+V
+V
+A
+IV
+IV
+III
+III
+II
+II
+I
+I
+b) Correlação dos cargos de nível auxiliar
+Tabela I - Cargos originários do PCC e de Planos correlatos das Autarquias e Fundações públicas não organizados em Carreira, do Quadro de Pessoal do Ministério da Fazenda em 31 de dezembro de 2007
+SITUAÇÃO ATUAL
+SITUAÇÃO NOVA
+CARGOS
+CLASSE
+PADRÃO
+PADRÃO
+CLASSE
+CARGOS
+Cargos de nível auxiliar originários do PCC e de Planos correlatos das Autarquias e Fundações públicas não organizados em Carreira, do Quadro de Pessoal do Ministério da Fazenda
+em 31 de dezembro de 2007
+A
+III
+III
+ESPECIAL
+Cargos de nível auxiliar do PECFAZ
+II
+II
+I
+I
+B
+VI
+V
+IV
+III
+II
+I
+C
+VI
+V
+IV
+III
+II
+I
+D
+V
+IV
+III
+II
+I
+Tabela II - Cargos originários do PGPE, do Quadro de Pessoal do Ministério da
+Fazenda em 31 de dezembro de 2007
+SITUAÇÃO ATUAL
+SITUAÇÃO NOVA
+CARGOS
+CLASSE
+PADRÃO
+PADRÃO
+CLASSE
+CARGOS
+Cargos de nível auxiliar originários do PGPE, do Quadro de Pessoal do Ministério da Fazenda em
+31 de dezembro de 2007
+ESPECIAL
+III
+III
+ESPECIAL
+Cargos de nível auxiliar do PECFAZ
+II
+II
+I
+I
+C
+VI
+V
+IV
+III
+II
+I
+B
+VI
+V
+IV
+III
+II
+I
+A
+V
+IV
+III
+II
+I
+Tabela III - Cargos originários das Carreiras Previdenciária; da Seguridade Social e do Trabalho e da
+Previdência, Saúde e Trabalho, do Quadro de Pessoal do Ministério da Fazenda em 31 de dezembro de
+2007
+SITUAÇÃO ATUAL
+SITUAÇÃO NOVA
+CARGOS
+CLASSE
+PADRÃO
+PADRÃO
+CLASSE
+CARGOS
+Cargos de nível auxiliar originários das Carreiras Previdenciária; da Seguridade Social e do Trabalho; e da Previdência, Saúde e Trabalho, do Quadro de
+Pessoal do Ministério da Fazenda em
+31 de dezembro de 2007
+ESPECIAL
+III
+III
+ESPECIAL
+Cargos de nível auxiliar do PECFAZ
+II
+II
+I
+I
+C
+VI
+V
+IV
+III
+II
+I
+B
+VI
+V
+IV
+III
+II
+I
+A
+V
+IV
+III
+II
+I
+Tabela IV - Cargos originários da Carreira do Seguro Social, do Quadro de Pessoal do Ministério da Fazenda em 31 de dezembro de 2007
+SITUAÇÃO ATUAL
+SITUAÇÃO NOVA
+CARGOS
+CLASSE
+PADRÃO
+PADRÃO
+CLASSE
+CARGOS
+Cargos de nível auxiliar originários da Carreira do Seguro Social, do Quadro de Pessoal do Ministério da Fazenda em 31 de dezembro de 2007
+ESPECIAL
+V
+III
+ESPECIAL
+Cargos de nível auxiliar do PECFAZ
+IV
+II
+III
+I
+II
+I
+C
+V
+IV
+III
+II
+I
+B
+V
+IV
+III
+II
+I
+A
+V
+IV
+III
+II
+I
+ANEXO CXLII
+(Anexo com redação dada pela Lei nº 12.269, de 21/6/2010)
+TERMO DE OPÇÃO
+PLANO ESPECIAL DE CARGOS DO MINISTÉRIO DA FAZENDA
+Nome:
+Cargo:
+Matrícula SIAPE:
+Unidade de Lotação:
+Unidade Pagadora:
+Cidade:
+Estado
+( ) Servidor ativo ( ) Aposentado ( ) Pensionista
+Venho, nos termos do disposto nos §§ 2º e 4º do art. 256 da Lei nº 11.907, de 2 de fevereiro de 2009, optar por não integrar o PLANO ESPECIAL DE CARGOS DO MINISTÉRIO DA FAZENDA - PECFAZ.
+Local e Data: , de de .
+Assinatura:
+Recebido em / / .
+Assinatura/Matrícula ou Carimbo do Servidor do Ministério da Fazenda
+ANEXO CXLIII
+(Anexo com redação dada pela Lei nº 12.269, de 21/6/2010)
+TERMO DE OPÇÃO
+PLANO ESPECIAL DE CARGOS DO MINISTÉRIO DA FAZENDA
+Nome:
+Cargo:
+Matrícula SIAPE:
+Unidade de Lotação:
+Unidade Pagadora:
+Cidade:
+Estado
+( ) Servidor ativo ( ) Aposentado ( ) Pensionista
+Venho, nos termos do disposto no § 2º do art. 258 da Lei nº 11.907, de 2 de fevereiro de 2009, optar por não integrar o PLANO ESPECIAL DE CARGOS DO MINISTÉRIO DA FAZENDA - PECFAZ e conseqüentemente retornar ao meu órgão ou entidade de origem.
+Local e Data: , de de .
+Assinatura:
+Recebido em / / .
+Assinatura/Matrícula ou Carimbo do Servidor do Ministério da Fazenda
+ANEXO CXLIV
+(Anexo IV da Lei no 10.871, de 20 de maio de 2004) TABELA DE VENCIMENTO BÁSICO
+CARGO
+CLASSE
+PADRÃO
+VENCIMENTO BÁSICO
+EFEITOS FINANCEIROS A PARTIR DE
+1o JUL 2008
+1o JUL 2009
+1o JUL 2010
+Especialista em Regulação de Serviços Públicos de Telecomunicações
+Especialista em Regulação de
+Serviços Públicos de Energia
+Especialista em Regulação e
+Vigilância Sanitária
+Especialista em Regulação de
+Saúde Suplementar
+Especialista em Regulação de
+Petróleo e Derivados e Gás Natural
+Especialista em Geologia e
+Geofísica do Petróleo e Gás Natural
+Especialista em Regulação de
+Serviços de Transportes Terrestres
+Especialista em Regulação de Serviços de Transportes Aquaviários
+Especialista em Regulação da Atividade Cinematográfica e Audiovisual
+Especialista em Regulação de
+Aviação Civil
+Analista Administrativo
+ESPECIAL
+III
+6.700,00
+7.450,00
+7.945,00
+II
+6.453,33
+7.187,50
+7.666,25
+I
+6.206,67
+6.925,00
+7.387,50
+B
+V
+5.960,00
+6.662,50
+7.108,75
+IV
+5.713,33
+6.400,00
+6.830,00
+III
+5.466,67
+6.137,50
+6.551,25
+II
+5.220,00
+5.875,00
+6.272,50
+I
+4.973,33
+5.612,50
+5.993,75
+A
+V
+4.726,67
+5.350,00
+5.715,00
+IV
+4.480,00
+5.087,50
+5.436,25
+III
+4.233,33
+4.825,00
+5.157,50
+II
+3.986,67
+4.562,50
+4.878,75
+I
+3.740,00
+4.300,00
+4.600,00
+ANEXO CXLV
+(Anexo V da Lei no 10.871, de 20 de maio de 2004)
+TABELA DE VENCIMENTO BÁSICO
+Em R$
+CARGO
+CLASSE
+PADRÃO
+VENCIMENTO BÁSICO
+EFEITOS FINANCEIROS A PARTIR DE
+1o JUL 2008
+1o JUL 2009
+1o JUL 2010
+Técnico em Regulação de Serviços Públicos de Telecomunicações
+Técnico em Regulação de Petróleo e Derivados e Gás Natural
+Técnico em Regulação e
+Vigilância Sanitária
+Técnico em Regulação de Saúde
+Suplementar
+Técnico em Regulação de
+Serviços de Transportes Terrestres
+Técnico em Regulação de Serviços de Transportes Aquaviários
+Técnico em Regulação da Atividade Cinematográfica e Audiovisual
+Técnico em Regulação de
+Aviação Civil
+Técnico Administrativo
+ESPECIAL
+III
+3.346,01
+3.720,56
+3.967,76
+II
+3.248,55
+3.612,19
+3.852,20
+I
+3.153,93
+3.506,98
+3.740,00
+B
+V
+2.960,05
+3.291,39
+3.510,09
+IV
+2.873,83
+3.195,52
+3.407,85
+III
+2.790,13
+3.102,45
+3.308,59
+II
+2.708,86
+3.012,09
+3.212,22
+I
+2.629,96
+2.924,36
+3.118,66
+A
+V
+2.469,45
+2.745,88
+2.928,32
+IV
+2.397,52
+2.665,90
+2.843,03
+III
+2.327,69
+2.588,25
+2.760,22
+II
+2.259,89
+2.512,86
+2.679,83
+I
+2.194,07
+2.439,67
+2.601,78
+ANEXO CXLVI
+(Anexo VI da Lei no 10.871, de 20 de maio de 2004)
+VALORES DO PONTO DA GRATIFICAÇÃO DE DESEMPENHO DE ATIVIDADE DE REGULAÇÃO - GDAR
+a) Valor do ponto da GDAR para os cargos de Nível Superior:
+Em R$
+CARGO
+CLASSE
+PADRÃO
+VALOR DO PONTO DA GDAR
+EFEITOS FINANCEIROS A PARTIR DE
+1o JUL 2008
+1o JUL 2009
+1o JUL 2010
+Especialista em Regulação de Serviços Públicos de Telecomunicações
+Especialista em Regulação de
+Serviços Públicos de Energia
+Especialista em Regulação e
+Vigilância Sanitária
+Especialista em Regulação de
+Saúde Suplementar
+Especialista em Regulação de Petróleo e Derivados e Gás Natural
+Especialista em Geologia e Geofísica do Petróleo e Gás Natural
+Especialista em Regulação de
+Serviços de Transportes Terrestres
+Especialista em Regulação de Serviços de Transportes Aquaviários
+Especialista em Regulação da Atividade Cinematográfica e Audiovisual
+Especialista em Regulação de
+Aviação Civil
+ESPECIAL
+III
+67,00
+74,50
+79,45
+II
+66,26
+73,58
+78,47
+I
+65,52
+72,66
+77,50
+B
+V
+64,78
+71,74
+76,52
+IV
+64,04
+70,83
+75,55
+III
+63,30
+69,91
+74,57
+II
+62,56
+68,99
+73,60
+I
+61,82
+68,07
+72,62
+A
+V
+61,08
+67,15
+71,65
+IV
+60,34
+66,23
+70,67
+III
+59,60
+65,31
+69,69
+II
+58,86
+64,39
+68,72
+I
+58,12
+63,48
+67,74
+b) Valor do ponto da GDAR para os cargos de Nível Intermediário:
+Em R$
+CARGO
+CLASSE
+PADRÃO
+VALOR DO PONTO DA GDAR
+EFEITOS FINANCEIROS A PARTIR DE
+1o JUL 2008
+1o JUL 2009
+1o JUL 2010
+Técnico em Regulação de Serviços Públicos de Telecomunicações
+Técnico em Regulação de Petróleo e Derivados e Gás Natural
+Técnico em Regulação e
+Vigilância Sanitária
+Técnico em Regulação de Saúde
+Suplementar
+Técnico em Regulação de
+Serviços de Transportes Terrestres
+Técnico em Regulação de Serviços de Transportes Aquaviários
+Técnico em Regulação da Atividade Cinematográfica e Audiovisual
+Técnico em Regulação de
+Aviação Civil
+ESPECIAL
+III
+33,26
+37,21
+39,68
+II
+32,77
+36,44
+38,86
+I
+32,10
+35,69
+38,06
+B
+V
+30,87
+34,32
+36,60
+IV
+30,24
+33,61
+35,85
+III
+29,62
+32,92
+35,11
+II
+29,01
+32,24
+34,39
+I
+28,41
+31,58
+33,68
+A
+V
+27,32
+30,37
+32,68
+IV
+26,76
+29,75
+31,71
+III
+26,21
+29,14
+31,06
+II
+25,67
+28,54
+30,42
+I
+25,14
+27,95
+29,79
+ANEXO CXLVII
+(Anexo VII da Lei no 10.871, de 20 de maio de 2004)
+VALORES DO PONTO DA GRATIFICAÇÃO DE DESEMPENHO DE ATIVIDADE DE REGULAÇÃO - GDATR
+a) Valor do ponto da GDATR para os cargos de Nível Superior:
+Em R$
+CARGO
+CLASSE
+PADRÃO
+VALOR DO PONTO DA GDATR
+EFEITOS FINANCEIROS A PARTIR DE
+1o JUL 2008
+1o JUL 2009
+1o JUL 2010
+Analista Administrativo
+ESPECIAL
+III
+67,00
+67,80
+68,33
+II
+66,26
+66,99
+67,49
+I
+65,52
+66,19
+66,65
+B
+V
+64,78
+65,39
+65,82
+IV
+64,04
+64,59
+64,98
+III
+63,30
+63,79
+64,15
+II
+62,56
+62,99
+63,31
+I
+61,82
+62,19
+62,47
+A
+V
+61,08
+61,39
+61,64
+IV
+60,34
+60,59
+60,80
+III
+59,60
+59,79
+59,97
+II
+58,86
+58,99
+59,13
+I
+58,12
+58,19
+58,29
+b) Valor do ponto da GDATR para os cargos de Nível Intermediário:
+Em R$
+CARGO
+CLASSE
+PADRÃO
+VALOR DA GDATR
+EFEITOS FINANCEIROS A PARTIR DE
+1o JUL 2008
+1o JUL 2009
+1o JUL 2010
+Técnico Administrativo
+ESPECIAL
+III
+33,53
+35,60
+36,97
+II
+32,87
+34,82
+36,14
+I
+32,23
+34,05
+35,33
+B
+V
+30,70
+32,74
+33,81
+IV
+30,10
+32,02
+33,05
+III
+29,51
+31,32
+32,31
+II
+28,93
+30,63
+31,58
+I
+28,36
+29,96
+30,87
+A
+V
+27,01
+28,81
+29,54
+IV
+26,48
+28,18
+28,88
+III
+25,96
+27,56
+28,23
+II
+25,45
+26,95
+27,60
+I
+24,95
+26,36
+26,98
+ANEXO CXLVIII
+(Anexo I da Lei no 10.768, de 19 de novembro de 2003) TABELA DE VENCIMENTO BÁSICO
+Em R$
+CARGO
+CLASSE
+PADRÃO
+VENCIMENTO BÁSICO
+EFEITOS FINANCEIROS A PARTIR DE
+1o JUL 2008
+1o JUL 2009
+1o JUL 2010
+Especialista em
+Geoprocessamento
+Especialista em Recursos
+Hídricos
+Analista Administrativo – Agência Nacional de Águas
+Especial
+III
+6.700,00
+7.450,00
+7.945,00
+II
+6.453,33
+7.187,50
+7.666,25
+I
+6.206,67
+6.925,00
+7.387,50
+B
+V
+5.960,00
+6.662,50
+7.108,75
+IV
+5.713,33
+6.400,00
+6.830,00
+III
+5.466,67
+6.137,50
+6.551,25
+II
+5.220,00
+5.875,00
+6.272,50
+I
+4.973,33
+5.612,50
+5.993,75
+A
+V
+4.726,67
+5.350,00
+5.715,00
+IV
+4.480,00
+5.087,50
+5.436,25
+III
+4.233,33
+4.825,00
+5.157,50
+II
+3.986,67
+4.562,50
+4.878,75
+I
+3.740,00
+4.300,00
+4.600,00
+ANEXO CXLIX
+(Anexo I-A da Lei no 10.768, de 19 de novembro de 2003) VALOR DO PONTO DA GRATIFICAÇÃO DE DESEMPENHO DE
+ATIVIDADE DE RECURSOS HÍDRICOS - GDRH
+Em R$
+CARGO
+CLASSE
+PADRÃO
+VALOR DO PONTO DA GDRH
+EFEITOS FINANCEIROS A PARTIR DE
+1o JUL 2008
+1o JUL 2009
+1o JUL 2010
+Especialista em
+Geoprocessamento
+Especialista em Recursos
+Hídricos
+Especial
+III
+67,00
+74,50
+79,45
+II
+66,26
+73,58
+78,47
+I
+65,52
+72,66
+77,50
+B
+V
+64,78
+71,74
+76,52
+IV
+64,04
+70,83
+75,55
+III
+63,30
+69,91
+74,57
+II
+62,56
+68,99
+73,60
+I
+61,82
+68,07
+72,62
+A
+V
+61,08
+67,15
+71,65
+IV
+60,34
+66,23
+70,67
+III
+59,60
+65,31
+69,69
+II
+58,86
+64,39
+68,72
+I
+58,12
+63,48
+67,74
+ANEXO CL
+(Anexo I da Lei no 10.882, de 9 de junho de 2004)
+ESTRUTURA DE CLASSES E PADRÕES DOS CARGOS DO PLANO ESPECIAL DE CARGOS DA ANVISA
+A PARTIR DE 1o DE JULHO DE 2008
+Tabela I – Cargos de nível superior e intermediário
+CARGOS
+CLASSE
+PADRÃO
+Cargos de nível superior e intermediário do Plano Especial de Cargos da Anvisa
+ESPECIAL
+III
+II
+I
+C
+VI
+V
+IV
+III
+II
+I
+B
+VI
+V
+IV
+III
+II
+I
+A
+V
+IV
+III
+II
+I
+Tabela II – Cargos de nível auxiliar
+CARGO
+CLASSE
+PADRÃO
+Cargos de nível auxiliar do Plano
+Especial de
+Cargos da Anvisa
+ESPECIAL
+III
+II
+I
+ANEXO CLI
+(Anexo II da Lei no 10.882, de 9 de junho de 2004)
+TABELA DE CORRELAÇÃO DOS CARGOS DO PLANO ESPECIAL DE CARGOS DA ANVISA
+ATÉ 30 DE JUNHO DE 2008
+SITUAÇÃO ATUAL
+SITUAÇÃO PROPOSTA
+CARGOS
+CLASSE
+PADRÃO
+PADRÃO
+CLASSE
+CARGOS
+Cargos de nível superior, intermediário e auxiliar do Quadro de Pessoal Específico da Anvisa, de que trata
+o art. 28 da Lei no 9.986, de 18 de julho de 2000
+A
+III
+III
+ESPECIAL
+Cargos de nível superior, intermediário e auxiliar do Plano Especial de Cargos da Anvisa
+II
+II
+I
+I
+B
+VI
+VI
+C
+V
+V
+IV
+IV
+III
+III
+II
+II
+I
+I
+C
+VI
+VI
+B
+V
+V
+IV
+IV
+III
+III
+II
+II
+I
+I
+D
+V
+V
+A
+IV
+IV
+III
+III
+II
+II
+I
+I
+A PARTIR DE 1o DE JULHO DE 2008
+Tabela I – Cargos de nível superior e intermediário
+CARGOS
+CLASSE
+PADRÃO
+PADRÃO
+CLASSE
+CARGOS
+Cargos de nível superior e intermediário do Plano Especial de
+Cargos da Anvisa
+ESPECIAL
+III
+III
+ESPECIAL
+Cargos de nível superior
+e intermediário do Plano Especial de Cargos
+da Anvisa
+II
+II
+I
+I
+C
+VI
+VI
+C
+V
+V
+IV
+IV
+III
+III
+II
+II
+I
+I
+B
+VI
+VI
+B
+V
+V
+IV
+IV
+III
+III
+II
+II
+I
+I
+A
+V
+V
+A
+IV
+IV
+III
+III
+II
+II
+I
+I
+Tabela II – Cargos de nível auxiliar
+SITUAÇÃO ATUAL
+SITUAÇÃO NOVA
+CARGOS
+CLASSE
+PADRÃO
+PADRÃO
+CLASSE
+CARGOS
+Cargos de nível auxiliar do Plano
+Especial de Cargos da
+Anvisa
+A
+III
+III
+ESPECIAL
+Cargos de nível auxiliar
+do Plano Especial de Cargos da Anvisa
+II
+II
+I
+I
+B
+VI
+V
+IV
+III
+II
+I
+C
+VI
+V
+IV
+III
+II
+I
+D
+V
+IV
+III
+II
+I
+ANEXO CLII
+(Anexo III da Lei no 10.882, de 9 de junho de 2004)
+VENCIMENTO BÁSICO DOS CARGOS DO PLANO ESPECIAL DE CARGOS DA ANVISA
+a) Vencimento básico dos cargos de nível superior, exceto o de Médico, do Plano Especial de
+Cargos da Anvisa
+Em R$
+CLASSE
+PADRÃO
+VENCIMENTO BÁSICO
+EFEITOS FINANCEIROS A PARTIR DE
+1o JUL 2008
+1o JUL 2009
+1o JUL 2010
+ESPECIAL
+III
+4.776,00
+5.324,00
+6.065,50
+II
+4.614,49
+5.143,96
+5.946,57
+I
+4.458,44
+4.970,01
+5.829,97
+C
+VI
+4.206,08
+4.688,69
+5.660,17
+V
+4.063,85
+4.530,14
+5.549,19
+IV
+3.926,43
+4.376,95
+5.440,38
+III
+3.793,65
+4.228,94
+5.333,71
+II
+3.665,36
+4.085,93
+5.229,13
+I
+3.541,41
+3.947,76
+5.126,60
+B
+VI
+3.340,95
+3.724,30
+4.977,28
+V
+3.227,97
+3.598,36
+4.879,69
+IV
+3.118,81
+3.476,68
+4.784,01
+III
+3.013,34
+3.359,11
+4.690,21
+II
+2.911,44
+3.245,52
+4.598,25
+I
+2.812,99
+3.135,77
+4.508,09
+A
+V
+2.653,76
+2.958,27
+4.376,79
+IV
+2.564,02
+2.858,23
+4.290,97
+III
+2.477,31
+2.761,57
+4.206,83
+II
+2.393,54
+2.668,18
+4.124,34
+I
+2.312,60
+2.577,95
+4.043,47
+b) Vencimento básico dos cargos de Médico do Plano Especial de Cargos da Anvisa
+Tabela I: Jornada de trabalho de 40 horas semanais
+Em R$
+CLASSE
+PADRÃO
+VENCIMENTO BÁSICO
+EFEITOS FINANCEIROS A PARTIR DE
+1o JUL 2008
+1o JUL 2009
+1o JUL 2010
+ESPECIAL
+III
+4.776,00
+5.324,00
+6.065,50
+II
+4.614,49
+5.143,96
+5.946,57
+I
+4.458,44
+4.970,01
+5.829,97
+C
+VI
+4.206,08
+4.688,69
+5.660,17
+V
+4.063,85
+4.530,14
+5.549,19
+IV
+3.926,43
+4.376,95
+5.440,38
+III
+3.793,65
+4.228,94
+5.333,71
+II
+3.665,36
+4.085,93
+5.229,13
+I
+3.541,41
+3.947,76
+5.126,60
+B
+VI
+3.340,95
+3.724,30
+4.977,28
+V
+3.227,97
+3.598,36
+4.879,69
+IV
+3.118,81
+3.476,68
+4.784,01
+III
+3.013,34
+3.359,11
+4.690,21
+II
+2.911,44
+3.245,52
+4.598,25
+I
+2.812,99
+3.135,77
+4.508,09
+A
+V
+2.653,76
+2.958,27
+4.376,79
+IV
+2.564,02
+2.858,23
+4.290,97
+III
+2.477,31
+2.761,57
+4.206,83
+II
+2.393,54
+2.668,18
+4.124,34
+I
+2.312,60
+2.577,95
+4.043,47
+Tabela II: Jornada de trabalho de 20 horas semanais
+Em R$
+CLASSE
+PADRÃO
+VENCIMENTO BÁSICO
+EFEITOS FINANCEIROS A PARTIR DE
+1o JUL 2008
+1o JUL 2009
+1o JUL 2010
+ESPECIAL
+III
+2.388,00
+2.662,00
+3.032,75
+II
+2.307,25
+2.571,98
+2.973,29
+I
+2.229,22
+2.485,01
+2.914,99
+C
+VI
+2.103,04
+2.344,35
+2.830,09
+V
+2.031,93
+2.265,07
+2.774,60
+IV
+1.963,22
+2.188,48
+2.720,19
+III
+1.896,83
+2.114,47
+2.666,86
+II
+1.832,68
+2.042,97
+2.614,57
+I
+1.770,71
+1.973,88
+2.563,30
+B
+VI
+1.670,48
+1.862,15
+2.488,64
+V
+1.613,99
+1.799,18
+2.439,85
+IV
+1.559,41
+1.738,34
+2.392,01
+III
+1.506,67
+1.679,56
+2.345,11
+II
+1.455,72
+1.622,76
+2.299,13
+I
+1.406,50
+1.567,89
+2.254,05
+A
+V
+1.326,88
+1.479,14
+2.188,40
+IV
+1.282,01
+1.429,12
+2.145,49
+III
+1.238,66
+1.380,79
+2.103,42
+II
+1.196,77
+1.334,09
+2.062,17
+I
+1.156,30
+1.288,98
+2.021,74
+Anvisa
+c) Vencimento básico dos cargos de nível intermediário do Plano Especial de Cargos da
+Em R$
+CLASSE
+PADRÃO
+VENCIMENTO BÁSICO
+EFEITOS FINANCEIROS A PARTIR DE
+1o JUL 2008
+1o JUL 2009
+1o JUL 2010
+ESPECIAL
+III
+2.744,31
+3.059,19
+3.485,26
+II
+2.669,56
+2.975,87
+3.390,33
+I
+2.596,85
+2.894,82
+3.297,99
+C
+VI
+2.473,19
+2.756,97
+3.140,94
+V
+2.405,83
+2.681,88
+3.055,39
+IV
+2.340,30
+2.608,83
+2.972,17
+III
+2.276,56
+2.537,77
+2.891,22
+II
+2.214,55
+2.468,65
+2.812,47
+I
+2.154,23
+2.401,41
+2.735,87
+B
+VI
+2.051,65
+2.287,06
+2.605,59
+V
+1.995,77
+2.224,77
+2.534,62
+IV
+1.941,41
+2.164,17
+2.465,58
+III
+1.888,53
+2.105,22
+2.398,42
+II
+1.837,09
+2.047,88
+2.333,09
+I
+1.787,05
+1.992,10
+2.269,54
+A
+V
+1.701,95
+1.897,24
+2.161,47
+IV
+1.655,59
+1.845,56
+2.102,60
+III
+1.610,50
+1.795,29
+2.045,33
+II
+1.566,63
+1.746,39
+1.989,62
+I
+1.523,96
+1.698,82
+1.935,43
+d) Vencimento básico dos cargos de nível auxiliar do Plano Especial de Cargos da Anvisa
+CLASSE
+PADRÃO
+VENCIMENTO BÁSICO
+EFEITOS FINANCEIROS A PARTIR DE
+1o JUL 2008
+1o JUL 2009
+1o JUL 2010
+ESPECIAL
+III
+1.288,95
+1.314,73
+1.341,02
+II
+1.276,19
+1.282,66
+1.308,31
+I
+1.263,55
+1.251,38
+1.276,40
+ANEXO CLIII
+(Anexo XIV da Lei no 11.357, de 19 de outubro de 2006)
+TABELA DE VENCIMENTO BÁSICO DOS CARGOS DOS PLANOS ESPECIAIS
+DE CARGOS REFERIDOS NO ART. 30 DA LEI No 11.357, DE 19 DE OUTUBRO DE 2006. a) Vencimento básico dos cargos de nível superior, exceto o de Médico
+Em R$
+CLASSE
+PADRÃO
+VENCIMENTO BÁSICO
+EFEITOS FINANCEIROS A PARTIR DE
+1o JUL 2008
+1o JUL 2009
+1o JUL 2010
+ESPECIAL
+III
+4.776,00
+5.324,00
+6.065,50
+II
+4.614,49
+5.143,96
+5.946,57
+I
+4.458,44
+4.970,01
+5.829,97
+C
+VI
+4.206,08
+4.688,69
+5.660,17
+V
+4.063,85
+4.530,14
+5.549,19
+IV
+3.926,43
+4.376,95
+5.440,38
+III
+3.793,65
+4.228,94
+5.333,71
+II
+3.665,36
+4.085,93
+5.229,13
+I
+3.541,41
+3.947,76
+5.126,60
+B
+VI
+3.340,95
+3.724,30
+4.977,28
+V
+3.227,97
+3.598,36
+4.879,69
+IV
+3.118,81
+3.476,68
+4.784,01
+III
+3.013,34
+3.359,11
+4.690,21
+II
+2.911,44
+3.245,52
+4.598,25
+I
+2.812,99
+3.135,77
+4.508,09
+A
+V
+2.653,76
+2.958,27
+4.376,79
+IV
+2.564,02
+2.858,23
+4.290,97
+III
+2.477,31
+2.761,57
+4.206,83
+II
+2.393,54
+2.668,18
+4.124,34
+I
+2.312,60
+2.577,95
+4.043,47
+b) Vencimento básico dos cargos de Médico
+Tabela I: Jornada de trabalho de 40 horas semanais
+Em R$
+CLASSE
+PADRÃO
+VENCIMENTO BÁSICO
+EFEITOS FINANCEIROS A PARTIR DE
+1o JUL 2008
+1o JUL 2009
+1o JUL 2010
+ESPECIAL
+III
+4.776,00
+5.324,00
+6.065,50
+II
+4.614,49
+5.143,96
+5.946,57
+I
+4.458,44
+4.970,01
+5.829,97
+C
+VI
+4.206,08
+4.688,69
+5.660,17
+V
+4.063,85
+4.530,14
+5.549,19
+IV
+3.926,43
+4.376,95
+5.440,38
+III
+3.793,65
+4.228,94
+5.333,71
+II
+3.665,36
+4.085,93
+5.229,13
+I
+3.541,41
+3.947,76
+5.126,60
+B
+VI
+3.340,95
+3.724,30
+4.977,28
+V
+3.227,97
+3.598,36
+4.879,69
+IV
+3.118,81
+3.476,68
+4.784,01
+III
+3.013,34
+3.359,11
+4.690,21
+II
+2.911,44
+3.245,52
+4.598,25
+I
+2.812,99
+3.135,77
+4.508,09
+A
+V
+2.653,76
+2.958,27
+4.376,79
+IV
+2.564,02
+2.858,23
+4.290,97
+III
+2.477,31
+2.761,57
+4.206,83
+II
+2.393,54
+2.668,18
+4.124,34
+I
+2.312,60
+2.577,95
+4.043,47
+Tabela II: Jornada de trabalho de 20 horas semanais
+Em R$
+CLASSE
+PADRÃO
+VENCIMENTO BÁSICO
+EFEITOS FINANCEIROS A PARTIR DE
+1o JUL 2008
+1o JUL 2009
+1o JUL 2010
+ESPECIAL
+III
+2.388,00
+2.662,00
+3.032,75
+II
+2.307,25
+2.571,98
+2.973,29
+I
+2.229,22
+2.485,01
+2.914,99
+C
+VI
+2.103,04
+2.344,35
+2.830,09
+V
+2.031,93
+2.265,07
+2.774,60
+IV
+1.963,22
+2.188,48
+2.720,19
+III
+1.896,83
+2.114,47
+2.666,86
+II
+1.832,68
+2.042,97
+2.614,57
+I
+1.770,71
+1.973,88
+2.563,30
+B
+VI
+1.670,48
+1.862,15
+2.488,64
+V
+1.613,99
+1.799,18
+2.439,85
+IV
+1.559,41
+1.738,34
+2.392,01
+III
+1.506,67
+1.679,56
+2.345,11
+II
+1.455,72
+1.622,76
+2.299,13
+I
+1.406,50
+1.567,89
+2.254,05
+A
+V
+1.326,88
+1.479,14
+2.188,40
+IV
+1.282,01
+1.429,12
+2.145,49
+III
+1.238,66
+1.380,79
+2.103,42
+II
+1.196,77
+1.334,09
+2.062,17
+I
+1.156,30
+1.288,98
+2.021,74
+c) Vencimento básico dos cargos de nível intermediário
+Em R$
+CLASSE
+PADRÃO
+VENCIMENTO BÁSICO
+EFEITOS FINANCEIROS A PARTIR DE
+1o JUL 2008
+1o JUL 2009
+1o JUL 2010
+ESPECIAL
+III
+2.744,31
+3.059,19
+3.485,26
+II
+2.669,56
+2.975,87
+3.390,33
+I
+2.596,85
+2.894,82
+3.297,99
+C
+VI
+2.473,19
+2.756,97
+3.140,94
+V
+2.405,83
+2.681,88
+3.055,39
+IV
+2.340,30
+2.608,83
+2.972,17
+III
+2.276,56
+2.537,77
+2.891,22
+II
+2.214,55
+2.468,65
+2.812,47
+I
+2.154,23
+2.401,41
+2.735,87
+B
+VI
+2.051,65
+2.287,06
+2.605,59
+V
+1.995,77
+2.224,77
+2.534,62
+IV
+1.941,41
+2.164,17
+2.465,58
+III
+1.888,53
+2.105,22
+2.398,42
+II
+1.837,09
+2.047,88
+2.333,09
+I
+1.787,05
+1.992,10
+2.269,54
+A
+V
+1.701,95
+1.897,24
+2.161,47
+IV
+1.655,59
+1.845,56
+2.102,60
+III
+1.610,50
+1.795,29
+2.045,33
+II
+1.566,63
+1.746,39
+1.989,62
+I
+1.523,96
+1.698,82
+1.935,43
+d) Vencimento básico dos cargos de nível auxiliar
+CLASSE
+PADRÃO
+VENCIMENTO BÁSICO
+EFEITOS FINANCEIROS A PARTIR DE
+1o JUL 2008
+1o JUL 2009
+1o JUL 2010
+ESPECIAL
+III
+1.288,95
+1.314,73
+1.341,02
+II
+1.276,19
+1.282,66
+1.308,31
+I
+1.263,55
+1.251,38
+1.276,40
+ANEXO CLIV
+(Anexo XIV-A da Lei no 11.357, de 19 de outubro de 2006)
+ESTRUTURA DOS CARGOS DE NÍVEL AUXILIAR DOS PLANOS ESPECIAIS DE CARGOS DAS AGÊNCIAS REGULADORAS
+A PARTIR DE 1o DE JULHO DE 2008
+CARGO
+CLASSE
+PADRÃO
+Cargos de nível auxiliar dos Planos
+Especiais de Cargos das Agências
+Reguladoras
+ESPECIAL
+III
+II
+I
+ANEXO CLV
+(Anexo XIV-B Lei no 11.357, de 19 de outubro de 2006)
+TABELA DE CORRELAÇÃO DOS CARGOS DE NÍVEL AUXILIAR DOS PLANOS ESPECIAIS DE CARGOS DAS AGÊNCIAS REGULADORAS
+A PARTIR DE 1o DE JULHO DE 2008
+SITUAÇÃO ATUAL
+SITUAÇÃO NOVA
+CARGOS
+CLASSE
+PADRÃO
+PADRÃO
+CLASSE
+CARGOS
+Cargos de nível auxiliar dos Planos Especiais de Cargos das Agências Reguladoras
+A
+III
+III
+ESPECIAL
+Cargos de nível auxiliar
+dos Planos Especiais de Cargos das Agências Reguladoras
+II
+II
+I
+I
+B
+VI
+V
+IV
+III
+II
+I
+C
+VI
+V
+IV
+III
+II
+I
+D
+V
+IV
+III
+II
+I
+ANEXO CLVI
+(Anexo XIV-C da Lei no 11.357, de 19 de outubro de 2006)
+VALOR DO PONTO DA GRATIFICAÇÃO DE DESEMPENHO DOS PLANOS ESPECIAIS DE CARGOS DAS AGÊNCIAS REGULADORAS – GDPCAR, DEVIDA AOS SERVIDORES DE QUE TRATA O ART. 30 DESTA LEI
+a) Valor do ponto da GDPCAR para os cargos de nível superior, exceto o de Médico
+Em R$
+CLASSE
+PADRÃO
+VALOR DO PONTO DA GDPCAR
+EFEITOS FINANCEIROS A PARTIR DE
+1o JUL 2008
+1o JUL 2009
+1o JUL 2010
+ESPECIAL
+III
+47,76
+53,24
+60,66
+II
+46,14
+51,44
+59,94
+I
+44,58
+49,70
+59,23
+C
+VI
+42,06
+46,89
+58,18
+V
+40,64
+45,30
+57,49
+IV
+39,27
+43,77
+56,81
+III
+37,94
+42,29
+56,14
+II
+36,66
+40,86
+55,47
+I
+35,42
+39,48
+54,81
+B
+VI
+33,42
+37,25
+53,84
+V
+32,45
+36,17
+52,27
+IV
+31,50
+35,12
+50,75
+III
+30,58
+34,10
+49,27
+II
+29,69
+33,11
+47,83
+I
+28,83
+32,15
+46,44
+A
+V
+27,20
+30,33
+45,62
+IV
+26,41
+29,45
+44,29
+III
+25,64
+28,59
+43,00
+II
+24,89
+27,76
+41,75
+I
+24,17
+26,95
+40,53
+b) Valor do ponto da GDPCAR para os cargos de Médico
+Tabela I: Jornada de trabalho de 40 horas semanais
+Em R$
+CLASSE
+PADRÃO
+VALOR DO PONTO DA GDPCAR
+EFEITOS FINANCEIROS A PARTIR DE
+1o JUL 2008
+1o JUL 2009
+1o JUL 2010
+ESPECIAL
+III
+47,76
+53,24
+60,66
+II
+46,14
+51,44
+59,94
+I
+44,58
+49,70
+59,23
+C
+VI
+42,06
+46,89
+58,18
+V
+40,64
+45,30
+57,49
+IV
+39,27
+43,77
+56,81
+III
+37,94
+42,29
+56,14
+II
+36,66
+40,86
+55,47
+I
+35,42
+39,48
+54,81
+B
+VI
+33,42
+37,25
+53,84
+V
+32,45
+36,17
+52,27
+IV
+31,50
+35,12
+50,75
+III
+30,58
+34,10
+49,27
+II
+29,69
+33,11
+47,83
+I
+28,83
+32,15
+46,44
+A
+V
+27,20
+30,33
+45,62
+IV
+26,41
+29,45
+44,29
+III
+25,64
+28,59
+43,00
+II
+24,89
+27,76
+41,75
+I
+24,17
+26,95
+40,53
+Tabela II: Jornada de trabalho de 20 horas semanais
+Em R$
+CLASSE
+PADRÃO
+VALOR DO PONTO DA GDPCAR
+EFEITOS FINANCEIROS A PARTIR DE
+1o JUL 2008
+1o JUL 2009
+1o JUL 2010
+ESPECIAL
+III
+23,88
+26,62
+30,33
+II
+23,07
+25,72
+29,97
+I
+22,29
+24,85
+29,62
+C
+VI
+21,03
+23,45
+29,09
+V
+20,32
+22,65
+28,75
+IV
+19,64
+21,89
+28,41
+III
+18,97
+21,15
+28,07
+II
+18,33
+20,43
+27,74
+I
+17,71
+19,74
+27,41
+B
+VI
+16,71
+18,63
+26,92
+V
+16,23
+18,09
+26,14
+IV
+15,75
+17,56
+25,38
+III
+15,29
+17,05
+24,64
+II
+14,85
+16,56
+23,92
+I
+14,42
+16,08
+23,22
+A
+V
+13,60
+15,17
+22,81
+IV
+13,21
+14,73
+22,15
+III
+12,82
+14,30
+21,50
+II
+12,45
+13,88
+20,88
+I
+12,09
+13,48
+20,27
+c) Valor do ponto da GDPCAR para os cargos de nível intermediário
+Em R$
+CLASSE
+PADRÃO
+VALOR DO PONTO DA GDPCAR
+EFEITOS FINANCEIROS A PARTIR DE
+1o JUL 2008
+1o JUL 2009
+1o JUL 2010
+ESPECIAL
+III
+27,44
+30,59
+34,85
+II
+26,64
+29,87
+34,07
+I
+25,86
+29,17
+33,30
+C
+VI
+24,63
+27,78
+31,87
+V
+23,91
+27,13
+31,15
+IV
+23,21
+26,49
+30,45
+III
+22,53
+25,87
+29,77
+II
+21,87
+25,26
+29,10
+I
+21,23
+24,67
+28,45
+B
+VI
+20,22
+23,50
+27,22
+V
+19,63
+22,82
+26,43
+IV
+19,06
+22,16
+25,66
+III
+18,50
+21,51
+24,91
+II
+17,96
+20,88
+24,18
+I
+17,44
+20,27
+23,48
+A
+V
+16,61
+19,30
+22,47
+IV
+16,13
+18,74
+21,82
+III
+15,66
+18,19
+21,18
+II
+15,20
+17,66
+20,56
+I
+14,76
+17,15
+19,96
+d) Valor do ponto da GDPCAR para os cargos de nível auxiliar
+Em R$
+CLASSE
+PADRÃO
+VALOR DO PONTO DA GDPCAR
+EFEITOS FINANCEIROS A PARTIR DE
+1o JUL 2008
+1o JUL 2009
+1o JUL 2010
+ESPECIAL
+III
+9,69
+10,63
+11,63
+II
+9,14
+10,42
+11,40
+I
+8,96
+10,22
+11,18
+ANEXO CLVII
+(Anexo XIV-D da Lei no 11.357, de 19 de outubro de 2006)
+VALOR DO PONTO DA GRATIFICAÇÃO DE EFETIVO DESEMPENHO EM REGULAÇÃO – GEDR, DEVIDA AOS OCUPANTES DOS CARGOS DO PLANO ESPECIAL DE CARGOS DA AGÊNCIA NACIONAL DE VIGILÂNCIA SANITÁRIA - ANVISA
+a) Valor do ponto da GEDR para os cargos de nível superior, exceto o de Médico
+Em R$
+CLASSE
+PADRÃO
+VALOR DO PONTO DA GEDR
+EFEITOS FINANCEIROS A PARTIR DE
+1o JUL 2008
+1o JUL 2009
+1o JUL 2010
+ESPECIAL
+III
+47,76
+53,24
+60,66
+II
+46,14
+51,44
+59,94
+I
+44,58
+49,70
+59,23
+C
+VI
+42,06
+46,89
+58,18
+V
+40,64
+45,30
+57,49
+IV
+39,27
+43,77
+56,81
+III
+37,94
+42,29
+56,14
+II
+36,66
+40,86
+55,47
+I
+35,42
+39,48
+54,81
+B
+VI
+33,42
+37,25
+53,84
+V
+32,45
+36,17
+52,27
+IV
+31,50
+35,12
+50,75
+III
+30,58
+34,10
+49,27
+II
+29,69
+33,11
+47,83
+I
+28,83
+32,15
+46,44
+A
+V
+27,20
+30,33
+45,62
+IV
+26,41
+29,45
+44,29
+III
+25,64
+28,59
+43,00
+II
+24,89
+27,76
+41,75
+I
+24,17
+26,95
+40,53
+b) Valor do ponto da GEDR para os Cargos de Médico
+Tabela I: Jornada de trabalho de 40 horas semanais
+Em R$
+CLASSE
+PADRÃO
+VALOR DO PONTO DA GEDR
+EFEITOS FINANCEIROS A PARTIR DE
+1o JUL 2008
+1o JUL 2009
+1o JUL 2010
+ESPECIAL
+III
+47,76
+53,24
+60,66
+II
+46,14
+51,44
+59,94
+I
+44,58
+49,70
+59,23
+C
+VI
+42,06
+46,89
+58,18
+V
+40,64
+45,30
+57,49
+IV
+39,27
+43,77
+56,81
+III
+37,94
+42,29
+56,14
+II
+36,66
+40,86
+55,47
+I
+35,42
+39,48
+54,81
+B
+VI
+33,42
+37,25
+53,84
+V
+32,45
+36,17
+52,27
+IV
+31,50
+35,12
+50,75
+III
+30,58
+34,10
+49,27
+II
+29,69
+33,11
+47,83
+I
+28,83
+32,15
+46,44
+A
+V
+27,20
+30,33
+45,62
+IV
+26,41
+29,45
+44,29
+III
+25,64
+28,59
+43,00
+II
+24,89
+27,76
+41,75
+I
+24,17
+26,95
+40,53
+Tabela II: Jornada de trabalho de 20 horas semanais
+Em R$
+CLASSE
+PADRÃO
+VALOR DO PONTO DA GEDR
+EFEITOS FINANCEIROS A PARTIR DE
+1o JUL 2008
+1o JUL 2009
+1o JUL 2010
+ESPECIAL
+III
+23,88
+26,62
+30,33
+II
+23,07
+25,72
+29,97
+I
+22,29
+24,85
+29,62
+C
+VI
+21,03
+23,45
+29,09
+V
+20,32
+22,65
+28,75
+IV
+19,64
+21,89
+28,41
+III
+18,97
+21,15
+28,07
+II
+18,33
+20,43
+27,74
+I
+17,71
+19,74
+27,41
+VI
+16,71
+18,63
+26,92
+V
+16,23
+18,09
+26,14
+IV15,7517,5625,38III15,2917,0524,64II14,8516,5623,92I14,4216,0823,22AV13,6015,1722,81IV13,2114,7322,15III12,8214,3021,50II12,4513,8820,88I12,0913,4820,27B
+c) Valor do ponto da GEDR para os cargos de nível intermediário
+Em R$
+CLASSE
+PADRÃO
+VALOR DO PONTO DA GEDR
+EFEITOS FINANCEIROS A PARTIR DE
+1o JUL 2008
+1o JUL 2009
+1o JUL 2010
+ESPECIAL
+III
+27,44
+30,59
+34,85
+II
+26,64
+29,87
+34,07
+I
+25,86
+29,17
+33,30
+C
+VI
+24,63
+27,78
+31,87
+V
+23,91
+27,13
+31,15
+IV
+23,21
+26,49
+30,45
+III
+22,53
+25,87
+29,77
+II
+21,87
+25,26
+29,10
+I
+21,23
+24,67
+28,45
+B
+VI
+20,22
+23,50
+27,22
+V
+19,63
+22,82
+26,43
+IV
+19,06
+22,16
+25,66
+III
+18,50
+21,51
+24,91
+II
+17,96
+20,88
+24,18
+I
+17,44
+20,27
+23,48
+A
+V
+16,61
+19,30
+22,47
+IV
+16,13
+18,74
+21,82
+III
+15,66
+18,19
+21,18
+II
+15,20
+17,66
+20,56
+I
+14,76
+17,15
+19,96
+d) Valor do ponto da GEDR para os cargos de nível auxiliar
+CLASSE
+PADRÃO
+VALOR DO PONTO DA GEDR
+EFEITOS FINANCEIROS A PARTIR DE
+1o JUL 2008
+1o JUL 2009
+1o JUL 2010
+ESPECIAL
+III
+9,69
+10,63
+11,63
+II
+9,14
+10,42
+11,40
+I
+8,96
+10,22
+11,18
+ANEXO CLVIII
+(Anexo com redação dada pelo Anexo CCC à Lei nº 15.141, de 2/6/2025)
+VALOR DA GRATIFICAÇÃO ESPECÍFICA DE PRODUÇÃO DE RADIOISÓTOPOS E RADIOFÁRMACOS - GEPR
+Em R$
+NÍVEL DO CARGO
+VALOR DA GEPR
+EFEITOS FINANCEIROS A PARTIR DE
+1º DE MAIO DE 2023
+1º DE JANEIRO DE 2025
+1º DE ABRIL DE 2026
+Superior
+1.522,73
+1.659,78
+1.742,77
+Intermediário
+1.124,88
+1.226,12
+1.287,43
+ANEXO CLIX
+(Anexo com redação dada pelo Anexo CCCI à Lei nº 15.141, de 2/6/2025)
+VALOR DA GRATIFICAÇÃO TEMPORÁRIA DO SISTEMA DE ADMINISTRAÇÃO DOS RECURSOS DE INFORMAÇÃO E INFORMÁTICA - GSISP
+Em R$
+NÍVEL DO CARGO
+VALOR DA GSISP
+EFEITOS FINANCEIROS A PARTIR DE
+1º DE JANEIRO DE 2025
+1º DE JANEIRO DE 2026
+Superior
+5.335,76
+5.815,98
+Intermediário
+3.268,46
+3.562,62
+ANEXO CLX
+(Anexo com redação dada pelo Anexo CCCII à Lei nº 15.141, de 2/6/2025)
+VALOR MÁXIMO DA SOMA DA GRATIFICAÇÃO TEMPORÁRIA DO SISTEMA DE ADMINISTRAÇÃO DOS RECURSOS DE INFORMAÇÃO E INFORMÁTICA - GSISP COM A REMUNERAÇÃO DO SERVIDOR
+(excluídas as vantagens pessoais e a retribuição pelo exercício de cargo ou função comissionada)
+Em R$
+NÍVEL DO CARGO
+VALOR MÁXIMO DA SOMA DA GSISP COM A REMUNERAÇÃO DO SERVIDOR
+EFEITOS FINANCEIROS A PARTIR DE
+1º DE JANEIRO DE 2025
+1º DE JANEIRO DE 2026
+Superior
+21.288,14
+22.725,84
+Intermediário
+12.490,61
+13.334,17
+ANEXO CLXI
+(Anexo com redação dada pelo Anexo LI à Medida Provisória nº 568, de 11/5/2012,
+convertida na Lei nº 12.702, de 7/8/2012)
+QUANTITATIVO MÁXIMO DE SERVIDORES QUE FAZEM JUS À GRATIFICAÇÃO TEMPORÁRIA DE ATIVIDADE EM ESCOLA DE GOVERNO – GAEG
+ESCOLA DE GOVERNO
+NÍVEL DO CARGO
+TOTAL
+Superior
+Intermediário
+Auxiliar
+Escola Superior de Administração Fazendária
+- ESAF
+60
+140
+7
+207
+Escola Nacional de Administração
+Pública - ENAP
+64
+90
+1
+155
+Instituto Rio Branco - IRBr
+140
+10
+150
+Academia Nacional de Polícia
+78
+80
+2
+160
+TOTAL
+342
+320
+10
+672
+ANEXO CLXII
+(Anexo com redação dada pelo Anexo CCCIII à Lei nº 15.141, de 2/6/2025)
+VALOR DA GRATIFICAÇÃO TEMPORÁRIA DE ATIVIDADE EM ESCOLA DE GOVERNO - GAEG
+Em R$
+NÍVEL DO CARGO
+VALOR DA GAEG
+EFEITOS FINANCEIROS A PARTIR DE
+1º DE JANEIRO DE 2025
+1º DE JANEIRO DE 2026
+Superior
+4.169,04
+4.544,26
+Intermediário
+2.668,47
+2.908,64
+Auxiliar
+800,00
+800,00
+ANEXO CLXIII
+(Anexo com redação dada pelo Anexo CCVIII à Medida Provisória nº 1.170, de 28/4/2023, convertida na Lei nº 14.673, de 14/9/2023, e alterações pelo Anexo CCCIV à Lei nº 15.141, de 2/6/2025)
+VALOR MÁXIMO DA SOMA DA GRATIFICAÇÃO TEMPORÁRIA DE ATIVIDADE EM ESCOLA DE GOVERNO - GAEG COM A REMUNERAÇÃO DO SERVIDOR
+(excluídas as vantagens pessoais e a retribuição pelo exercício de cargo ou função comissionada)
+Em R$
+NÍVEL DO CARGO
+VALOR MÁXIMO DA SOMA DA GAEG COM A REMUNERAÇÃO DO SERVIDOR
+EFEITOS FINANCEIROS A PARTIR DE 1º DE MAIO DE 2023
+Superior
+15.733,06
+Intermediário
+9.455,75
+Auxiliar
+4.636,00
+Efeitos financeiros a partir de 1º de janeiro de 2025
+(Tabela acrescida pelo Anexo CCCIV à Lei nº 15.141, de 2/6/2025)
+Em R$
+NÍVEL DO CARGO
+VALOR MÁXIMO DA SOMA DA GAEG COM A REMUNERAÇÃO DO SERVIDOR EFEITOS FINANCEIROS A PARTIR DE
+1º DE JANEIRO DE 2025
+1º DE JANEIRO DE 2026
+Superior
+20.121,42
+21.454,12
+Intermediário
+13.106,67
+13.974,75
+ANEXO CLXIV
+UNIDADEORGANIZACIONALNÍVEL DO CARGOTOTALSUPERIORINTERMEDIÁRIOAUXILIARSecretaria de Orçamento Federal - SOF/MP1214Secretaria de Planejamento e InvestimentosEstratégicos - SPI/MP29011Secretaria do Tesouro Nacional- STN/MF225229Secretaria de Gestão - SEGES/MP1019029Arquivo Nacional/CC/PR2183459572Secretaria de Recursos Humanos - SRH/MP1652073375Secretaria de Logística e Tecnologia daInformação - SLTI/MP1323440Controladoria-Geral da União - CGU/PR1870189Ministério do Planejamento, Orçamento e Gestão – MP (quantitativo a ser distribuído aos órgãos centrais, setoriais, seccionais e correlatos na forma do Regulamento)2.2708803503.500TOTAL2.6991.5803704.649(Anexo VII da Lei no 11.356, de 19 de outubro de 2006) QUANTITATIVO MÁXIMO DE SERVIDORES QUE FAZEM JUS À GSISTE
+ANEXO CLXV
+(Anexo VIII da Lei no 11.356, de 19 de outubro de 2006) VALOR MÁXIMO DA GSISTE
+a) Órgãos centrais
+A PARTIR DE 1o DE JULHO DE 2008
+Em R$
+NÍVEL DO CARGO
+VALOR MÁXIMO DA GSISTE
+Superior
+2.500,00
+Intermediário
+1.600,00
+Auxiliar
+570,00
+b) Órgãos Setoriais, Seccionais e correlatos
+Em R$
+NÍVEL DO CARGO
+VALOR MÁXIMO DA GSISTE
+Superior
+2.250,00
+Intermediário
+1.440,00
+Auxiliar
+513,00
+ANEXO CLXVI
+(Anexo com redação dada pelo Anexo CCCXVII à Lei nº 15.141, de 2/6/2025)
+VALORES DO ADICIONAL POR PLANTÃO HOSPITALAR - APH
+a) Plantão hospitalar:
+Em R$
+CARGOS
+VALOR DO APH
+EFEITOS FINANCEIROS A PARTIR DE
+1º DE MAIO DE 2023
+1º DE JANEIRO DE 2025
+1º DE ABRIL DE 2026
+Final de
+semana e feriados
+Dias úteis
+Final de
+semana e feriados
+Dias úteis
+Final de
+semana e feriados
+Dias úteis
+Nível
+Superior
+93,35
+74,68
+101,75
+81,40
+106,84
+85,47
+Nível
+Intermediário
+56,71
+45,38
+61,81
+49,46
+64,90
+51,93
+b) Plantão de sobreaviso:
+Em R$
+CARGOS
+VALOR DO APH
+EFEITOS FINANCEIROS A PARTIR DE
+1º DE MAIO DE 2023
+1º DE JANEIRO DE 2025
+1º DE ABRIL DE 2026
+Final de semana e
+feriados
+Dias úteis
+Final de semana e
+feriados
+Dias úteis
+Final de semana e
+feriados
+Dias úteis
+Nível
+Superior
+16,97
+10,37
+18,50
+11,30
+19,43
+11,87
+ANEXO CLXVII
+(Anexo I da Lei no 11.526, de 4 de outubro de 2007)
+CARGOS COMISSIONADOS DE NATUREZA ESPECIAL E DO GRUPO-DIREÇÃO E ASSESSORAMENTO SUPERIORES, CARGOS DE DIREÇÃO DAS INSTITUIÇÕES FEDERAIS DE ENSINO, CARGOS COMISSIONADOS DE DIREÇÃO, DE GERÊNCIA EXECUTIVA, DE ASSESSORIA E DE ASSISTÊNCIA E CARGOS ESPECIAIS DE TRANSIÇÃO GOVERNAMENTAL
+a) CARGOS DE NATUREZA ESPECIAL - NES
+DENOMINAÇÃO
+VALOR UNITÁRIO (EM REAIS)
+Secretários Especiais da Presidência da República
+11.500,82
+Comandante da Marinha
+11.431,88
+Comandante do Exército
+11.431,88
+Comandante da Aeronáutica
+11.431,88
+Secretário-Geral de Contencioso
+11.431,88
+Secretário-Geral de Consultoria
+11.431,88
+Subdefensor Público Geral da União
+11.179,36
+Presidente da Agência Espacial Brasileira
+11.431,88
+Demais cargos de natureza especial da estrutura da Presidência da
+República e dos Ministérios
+11.431,88
+b) GRUPO-DIREÇÃO E ASSESSORAMENTO SUPERIORES - DAS
+CARGO
+VALOR UNITÁRIO (EM REAIS)
+DAS 101.6 e 102.6
+11.179,36
+DAS 101.5 e 102.5
+8.988,00
+DAS 101.4 e 102.4
+6.843,76
+DAS 101.3 e 102.3
+4.042,06
+DAS 101.2 e 102.2
+2.694,71
+DAS 101.1 e 102.1
+2.115,72
+c) CARGOS DE DIREÇÃO DAS INSTITUIÇÕES FEDERAIS DE ENSINO - CD
+CARGO
+VALOR UNITÁRIO (EM REAIS)
+CD-1
+8.889,52
+CD-2
+7.431,09
+CD-3
+5.833,75
+CD-4
+4.236,41
+d) CARGOS COMISSIONADOS DE DIREÇÃO, DE GERÊNCIA EXECUTIVA, DE ASSESSORIA E DE ASSISTÊNCIA DAS AGÊNCIAS REGULADORAS
+CARGO
+VALOR UNITÁRIO (EM REAIS)
+CD I
+11.500,82
+CD II
+10.925,78
+CGE I
+10.350,73
+CGE II
+9.200,65
+CGE III
+8.625,61
+CGE IV
+5.750,40
+CA I
+9.200,65
+CA II
+8.625,61
+CA III
+2.587,69
+CAS I
+2.156,41
+CAS II
+1.868,89
+e) Cargos Especiais de Transição Governamental - CETG
+CARGO
+VALOR UNITÁRIO (EM REAIS)
+CETG - VII
+11.431,88
+CETG - VI
+11.179,36
+CETG - V
+8.988,00
+CETG - IV
+6.843,76
+CETG - III
+4.042,06
+CETG - II
+2.694,71
+CETG - I
+2.115,72
+ANEXO CLXVIII
+(Anexo II da Lei no 11.526, de 4 de outubro de 2007)
+FUNÇÕES COMISSIONADAS TÉCNICAS, GRATIFICAÇÕES TEMPORÁRIAS DO SISTEMA DE PROTEÇÃO DA AMAZÔNIA, FUNÇÕES COMISSIONADAS DO INSS, FUNÇÕES COMISSIONADAS DO BANCO CENTRAL, GRATIFICAÇÃO POR SERVIÇO EXTRAORDINÁRIO E CARGOS COMISSIONADOS TÉCNICOS DAS AGÊNCIAS REGULADORAS
+a) FUNÇÕES COMISSIONADAS TÉCNICAS - FCT
+FUNÇÃO COMISSIONADA TÉCNICA
+VALOR UNITÁRIO (EM REAIS)
+VALOR DA OPÇÃO (EM REAIS)
+FCT 1
+5.462,89
+1.638,87
+FCT 2
+4.581,92
+1.374,59
+FCT 3
+3.843,02
+1.229,76
+FCT 4
+3.223,29
+1.095,92
+FCT 5
+2.703,48
+1.000,28
+FCT 6
+2.267,53
+907,00
+FCT 7
+1.901,84
+836,80
+FCT 8
+1.595,15
+781,62
+FCT 9
+1.337,90
+735,86
+FCT 10
+1.122,15
+695,74
+FCT 11
+941,18
+658,82
+FCT 12
+789,41
+631,54
+FCT 13
+662,11
+595,89
+FCT 14
+555,33
+555,33
+FCT 15
+465,78
+465,78
+b) GRATIFICAÇÕES TEMPORÁRIAS DO SISTEMA DE PROTEÇÃO DA AMAZÔNIA - SIPAM-GTS
+NÍVEL
+VALOR UNITÁRIO (EM REAIS)
+GTS - 3
+3.194,67
+GTS - 2
+2.500,17
+GTS - 1
+2.083,48
+c) FUNÇÕES COMISSIONADAS DO INSS
+NÍVEL
+VALOR UNITÁRIO (EM REAIS)
+FCINSS-1
+1.269,44
+FCINSS-2
+1.616,82
+FCINSS-3
+2.425,24
+d) FUNÇÕES COMISSIONADAS DO BANCO CENTRAL
+DIREÇÃO/ASSESSORAMENTO
+CÓDIGO
+VALOR UNITÁRIO (EM REAIS)
+FDS-1/FDJ-1
+6.704,27
+FDE-1/FCA-1
+5.686,60
+FDE-2/FCA-2
+4.378,75
+FDT-1/FCA-3
+3.127,29
+FDO-1/FCA-4
+2.475,42
+FCA-5
+1.100,18
+SUPORTE
+CÓDIGO
+VALOR UNITÁRIO (EM REAIS)
+FST-1
+756,38
+FST-2
+550,10
+FST-3
+412,57
+e) GRATIFICAÇÃO POR SERVIÇO EXTRAORDINÁRIO
+DENOMINAÇÃO
+CÓDIGO
+VALOR UNITÁRIO (EM REAIS)
+Coordenador Técnico
+GSE-1
+1.037,41
+Coordenador de Informática
+GSE-2
+1.037,41
+Assistente Técnico
+GSE-3
+555,75
+Coordenador de Área
+GSE-4
+778,04
+Coordenador de Sub-Área
+GSE-5
+555,75
+Agente de Coleta Municipal
+GSE-6
+333,45
+Coordenador Administrativo
+GSE-7
+778,04
+Assistente Administrativo
+GSE-8
+555,75
+f) CARGOS COMISSIONADOS TÉCNICOS DAS AGÊNCIAS REGULADORAS
+CCT V
+2.186,60
+CCT IV
+1.597,88
+CCT III
+962,48
+CCT II
+848,48
+CCT I
+751,29
+ANEXO CLXIX
+(Anexo III da Lei no 11.526, de 4 de outubro de 2007)
+FUNÇÃO GRATIFICADA, GRATIFICAÇÃO DE REPRESENTAÇÃO DA PRESIDÊNCIA DA REPÚBLICA E DOS ÓRGÃOS QUE A INTEGRAM, GRATIFICAÇÕES DE REPRESENTAÇÃO DE GABINETE, FUNÇÕES GRATIFICADAS DAS INSTITUIÇÕES FEDERAIS DE ENSINO E GRATIFICAÇÃO TEMPORÁRIA PELO EXERCÍCIO NA ADVOCACIA-GERAL DA UNIÃO
+a) FUNÇÃO GRATIFICADA (Lei no 8.216, de 13 de agosto de 1991)
+NÍVEL
+VENCIMENTO
+GRATIFICAÇÃO DE ATIVIDADE PELO DESEMPENHO DE FUNÇÃO (ART. 15 DA LEI DELEGADA No 13/1992)
+TOTAL
+FG-1
+158,27
+262,74
+421,01
+FG-2
+121,76
+202,11
+323,87
+FG-3
+93,65
+155,46
+249,11
+b) GRATIFICAÇÃO DE REPRESENTAÇÃO DA PRESIDÊNCIA DA REPÚBLICA
+NÍVEL
+VENCIMENTO
+GRATIFICAÇÃO DE ATIVIDADE PELO DESEMPENHO DE FUNÇÃO (ART. 15 DA LEI DELEGADA No 13/1992)
+TOTAL
+I - Auxiliar
+189,94
+315,30
+505,24
+II - Especialista
+227,90
+378,31
+606,21
+III - Secretário
+266,65
+442,65
+709,30
+IV - Assistente
+303,99
+504,62
+808,61
+V - Supervisor
+340,45
+565,14
+905,59
+c) GRATIFICAÇÃO DE REPRESENTAÇÃO DOS ÓRGÃOS INTEGRANTES DA PRESIDÊNCIA DA REPÚBLICA
+NÍVEL
+VENCIMENTO
+GRATIFICAÇÃO DE ATIVIDADE PELO DESEMPENHO DE FUNÇÃO (ART. 15 DA LEI DELEGADA No 13/1992)
+TOTAL
+Auxiliar
+131,89
+218,92
+350,81
+Secretario/Especialista
+158,27
+262,74
+421,01
+Assistente
+189,94
+315,30
+505,24
+Supervisor
+227,90
+378,31
+606,21
+d) GRATIFICAÇÃO DE EXERCÍCIO EM CARGO DE CONFIANÇA NOS ÓRGÃOS DA PRESIDÊNCIA DA REPÚBLICA, DEVIDA AOS SERVIDORES MILITARES (art. 11 da Lei no 8.460, de
+17 de setembro de 1992)
+GRUPO
+VALOR UNITÁRIO (EM REAIS)
+A
+1.358,75
+B
+1.234,89
+C
+1.121,82
+D
+1.019,51
+E
+927,97
+F
+843,60
+e) GRATIFICAÇÃO PELA REPRESENTAÇÃO DE GABINETE
+NÍVEL
+VENCIMENTO
+GRATIFICAÇÃO DE ATIVIDADE PELO DESEMPENHO DE FUNÇÃO (ART. 15 DA LEI DELEGADA No 13/1992)
+TOTAL
+Oficial de Gabinete
+32,82
+54,47
+87,29
+Auxiliar de Gabinete
+33,34
+55,34
+88,68
+f) FUNÇÕES GRATIFICADAS DAS INSTITUIÇÕES FEDERAIS DE ENSINO
+NÍVEL
+VENCIMENTO
+GRATIFICAÇÃO DE ATIVIDADE PELO DESEMPENHO DE FUNÇÃO (ART. 15 DA
+LEI DELEGADA No 13/1992)
+ADICIONAL DE GESTÃO
+EDUCACIONAL
+TOTAL
+FG - 1
+107,50
+178,45
+478,04
+763,99
+FG - 2
+91,82
+152,41
+269,74
+513,97
+FG - 3
+76,07
+126,26
+214,36
+416,69
+FG - 4
+51,99
+92,35
+73,81
+218,15
+FG - 5
+42,80
+71,05
+58,26
+172,11
+FG - 6
+31,70
+52,62
+41,88
+126,20
+FG - 7
+30,26
+50,23
+80,49
+FG - 8
+22,38
+37,16
+59,54
+FG - 9
+18,16
+30,13
+48,29
+g) Gratificação de Representação de Função de Gabinete Militar - RMM
+Valor Em R$
+Ajudante “A”
+21,04
+Ajudante “B”
+42,06
+Ajudante “C”
+63,09
+Ajudante “D”
+84,13
+Assistente/Adjunto
+126,20
+Assistente
+168,29
+Assessor e/ou Secretário
+336,58
+Subchefe/Assessor Chefe
+378,64
+Chefe
+420,70
+h) GRATIFICAÇÃO TEMPORÁRIA - GT (Art. 17 da Lei no 9.028, de 12 de abril de 1995)
+GRATIFICAÇÃO TEMPORÁRIA - GT
+VALOR
+GT I
+527,80
+GT II
+381,19
+GT III
+234,58
+GT IV
+175,94
+ANEXO CLXX
+(Anexo com redação dada pelo Anexo XXXVI à Lei nº 15.141, de 2/6/2025)
+VALOR MÁXIMO DA REMUNERAÇÃO DOS EMPREGADOS BENEFICIADOS PELA LEI Nº 8.878, DE 11 DE MAIO DE 1994
+Em R$
+NÍVEL DO CARGO/EMPREGO
+REFERÊNCIA
+VALOR MÁXIMO DA REMUNERAÇÃO
+EFEITOS FINANCEIROS A PARTIR DE
+1º DE MAIO DE 2023
+1º DE JANEIRO DE 2025
+1º DE ABRIL DE 2026
+SUPERIOR
+D
+8.847,58
+9.643,86
+10.126,05
+C
+7.864,51
+8.572,32
+9.000,94
+B
+6.990,68
+7.619,84
+8.000,83
+A
+4.073,24
+4.439,83
+4.661,82
+INTERMEDIÁRIO
+D
+4.660,52
+5.079,97
+5.333,97
+C
+4.268,33
+4.652,48
+4.885,10
+B
+3.562,57
+3.883,20
+4.077,36
+A
+3.380,19
+3.684,41
+3.868,63
+AUXILIAR
+D
+3.332,08
+3.631,97
+3.813,57
+C
+2.986,17
+3.254,93
+3.417,68
+B
+2.772,24
+3.021,74
+3.172,83
+A
+2.369,86
+2.583,15
+2.712,31
+ANEXO CLXXI
+(Anexo IX-C da Lei no 11.355, de 19 de outubro de 2006)
+PLANO DE CARREIRAS E CARGOS DE CIÊNCIA, TECNOLOGIA, PRODUÇÃO E INOVAÇÃO EM SAÚDE PÚBLICA DA FIOCRUZ
+VALORES DA RETRIBUIÇÃO POR TITULAÇÃO - RT
+a) Cargo de Pesquisador em Saúde Pública da Carreira de Pesquisa em Ciência, Tecnologia, Produção e Inovação em Saúde Pública
+Tabela I - Valor da RT: Efeitos financeiros a partir de 1o de julho de 2008
+Em R$
+CLASSE
+PADRÃO
+VALOR DA RT
+TITULAÇÃO
+Aperf/Espec
+Mestre
+Doutor
+TITULAR
+III
+879,00
+2.249,00
+4.096,00
+II
+846,00
+2.164,00
+3.942,00
+I
+814,00
+2.085,00
+3.797,00
+ASSOCIADO
+III
+770,00
+1.972,00
+3.591,00
+II
+742,00
+1.899,00
+3.458,00
+I
+715,00
+1.828,00
+3.330,00
+ADJUNTO
+III
+675,00
+1.729,00
+3.149,00
+II
+651,00
+1.664,00
+3.031,00
+I
+626,00
+1.603,00
+2.919,00
+ASSISTENTE
+DE PESQUISA
+III
+593,00
+1.514,00
+2.761,00
+II
+571,00
+1.459,00
+2.658,00
+I
+550,00
+1.404,00
+2.561,00
+Tabela II - Valor da RT: Efeitos financeiros a partir de 1o de julho de 2009
+Em R$
+CLASSE
+PADRÃO
+VALOR DA RT
+TITULAÇÃO
+Aperf/Espec
+Mestre
+Doutor
+TITULAR
+III
+1.703,00
+2.259,00
+4.410,00
+II
+1.638,00
+2.176,00
+4.200,00
+I
+1.578,00
+2.094,00
+4.000,00
+ASSOCIADO
+III
+1.454,00
+1.939,00
+3.704,00
+II
+1.397,00
+1.867,00
+3.494,00
+I
+1.346,00
+1.797,00
+3.296,00
+ADJUNTO
+III
+1.273,00
+1.699,00
+3.139,00
+II
+1.227,00
+1.637,00
+3.018,00
+I
+1.181,00
+1.576,00
+2.902,00
+ASSISTENTE
+DE PESQUISA
+III
+1.118,00
+1.490,00
+2.712,00
+II
+1.078,00
+1.435,00
+2.608,00
+I
+1.035,00
+1.382,00
+2.508,00
+b) Cargos de Tecnologista em Saúde Pública da Carreira de Desenvolvimento Tecnológico em Ciência, Tecnologia, Produção e Inovação em Saúde Pública e Cargos de Analista de Gestão em Saúde da Carreira de Gestão em Ciência, Tecnologia, Produção e Inovação em Saúde Pública
+Tabela I - Valor da RT: Efeitos financeiros a partir de 1o de julho de 2008
+Em R$
+CLASSE
+PADRÃO
+VALOR DA RT
+TITULAÇÃO
+Aperf/Espec
+Mestre
+Doutor
+SÊNIOR
+III
+879,00
+2.249,00
+4.096,00
+II
+846,00
+2.164,00
+3.942,00
+I
+814,00
+2.085,00
+3.797,00
+PLENO 3
+III
+770,00
+1.972,00
+3.591,00
+II
+742,00
+1.899,00
+3.458,00
+I
+715,00
+1.828,00
+3.330,00
+PLENO 2
+III
+675,00
+1.729,00
+3.149,00
+II
+651,00
+1.664,00
+3.031,00
+I
+626,00
+1.603,00
+2.919,00
+PLENO 1
+III
+593,00
+1.514,00
+2.761,00
+II
+571,00
+1.459,00
+2.658,00
+I
+550,00
+1.404,00
+2.561,00
+JÚNIOR
+III
+520,00
+1.327,00
+2.420,00
+II
+501,00
+1.279,00
+2.332,00
+I
+482,00
+1.233,00
+2.246,00
+Tabela II - Valor da RT: Efeitos financeiros a partir de 1o de julho de 2009
+Em R$
+CLASSE
+PADRÃO
+VALOR DA RT
+TITULAÇÃO
+Aperf/Espec
+Mestre
+Doutor
+SÊNIOR
+III
+1.703,00
+2.259,00
+4.410,00
+II
+1.638,00
+2.176,00
+4.200,00
+I
+1.578,00
+2.094,00
+4.000,00
+PLENO 3
+III
+1.454,00
+1.939,00
+3.704,00
+II
+1.397,00
+1.867,00
+3.494,00
+I
+1.346,00
+1.797,00
+3.296,00
+PLENO 2
+III
+1.273,00
+1.699,00
+3.139,00
+II
+1.227,00
+1.637,00
+3.018,00
+I
+1.181,00
+1.576,00
+2.902,00
+PLENO 1
+III
+1.118,00
+1.490,00
+2.712,00
+II
+1.078,00
+1.435,00
+2.608,00
+I
+1.035,00
+1.382,00
+2.508,00
+JÚNIOR
+III
+980,00
+1.306,00
+2.366,00
+II
+944,00
+1.258,00
+2.297,00
+I
+909,00
+1.212,00
+2.235,00
+c) Cargos de nível superior de que trata o art. 28 da Lei no 11.355, de 19 de outubro de 2006
+Tabela I - Valor da RT: Efeitos financeiros a partir de 1o de julho de 2008
+Em R$
+CLASSE
+PADRÃO
+VALOR DA RT
+TITULAÇÃO
+Aperf/Espec
+Mestre
+Doutor
+ESPECIAL
+III
+879,00
+2.249,00
+4.096,00
+II
+846,00
+2.164,00
+3.942,00
+I
+814,00
+2.085,00
+3.797,00
+C
+VI
+770,00
+1.972,00
+3.591,00
+V
+742,00
+1.899,00
+3.458,00
+IV
+715,00
+1.828,00
+3.330,00
+III
+675,00
+1.729,00
+3.149,00
+II
+651,00
+1.664,00
+3.031,00
+I
+626,00
+1.603,00
+2.919,00
+B
+VI
+593,00
+1.514,00
+2.761,00
+V
+571,00
+1.459,00
+2.658,00
+IV
+550,00
+1.404,00
+2.561,00
+III
+520,00
+1.327,00
+2.420,00
+II
+501,00
+1.279,00
+2.332,00
+I
+482,00
+1.233,00
+2.246,00
+A
+V
+468,00
+1.197,00
+2.181,00
+IV
+454,00
+1.163,00
+2.118,00
+III
+441,00
+1.129,00
+2.057,00
+II
+428,00
+1.097,00
+1.996,00
+I
+415,00
+1.065,00
+1.939,00
+Tabela II - Valor da RT: Efeitos financeiros a partir de 1o de julho de 2009
+Em R$
+CLASSE
+PADRÃO
+VALOR DA RT
+TITULAÇÃO
+Aperf/Espec
+Mestre
+Doutor
+ESPECIAL
+III
+1.703,00
+2.259,00
+4.410,00
+II
+1.638,00
+2.176,00
+4.200,00
+I
+1.578,00
+2.094,00
+4.000,00
+C
+VI
+1.454,00
+1.939,00
+3.704,00
+V
+1.397,00
+1.867,00
+3.494,00
+IV
+1.346,00
+1.797,00
+3.296,00
+III
+1.273,00
+1.699,00
+3.139,00
+II
+1.227,00
+1.637,00
+3.018,00
+I
+1.181,00
+1.576,00
+2.902,00
+B
+VI
+1.118,00
+1.490,00
+2.712,00
+V
+1.078,00
+1.435,00
+2.608,00
+IV
+1.035,00
+1.382,00
+2.508,00
+III
+980,00
+1.306,00
+2.366,00
+II
+944,00
+1.258,00
+2.297,00
+I
+909,00
+1.212,00
+2.235,00
+A
+V
+886,00
+1.177,00
+2.050,00
+IV
+859,00
+1.142,00
+1.967,00
+III
+834,00
+1.109,00
+1.888,00
+II
+810,00
+1.076,00
+1.812,00
+I
+787,00
+1.045,00
+1.739,00
+d) Especialista em Ciência, Tecnologia, Produção e Inovação em Saúde Pública
+Em R$
+CLASSE
+PADRÃO
+VALOR DA RT
+EFEITOS FINANCEIROS A PARTIR DE
+1o JUL 2008
+1o JUL 2009
+SENIOR
+ÚNICO
+4.096,00
+4.410,00
+ANEXO CLXXII
+(Anexo IX-D da Lei no 11.355, de 19 de outubro de 2006)
+PLANO DE CARREIRAS E CARGOS DE CIÊNCIA, TECNOLOGIA, PRODUÇÃO E INOVAÇÃO EM SAÚDE PÚBLICA DA FIOCRUZ
+VALORES DA GRATIFICAÇÃO POR QUALIFICAÇÃO - GQ
+a) Cargos de Técnico em Saúde Pública da Carreira de Suporte Técnico em Ciência, Tecnologia, Produção e Inovação em Saúde Pública e Cargos de Assistente Técnico de Gestão em Saúde da Carreira de Suporte à Gestão em Ciência, Tecnologia, Produção e Inovação em Saúde Pública
+Tabela I - Valor da GQ: Efeitos financeiros a partir de 1o de julho de 2008
+Em R$
+CLASSE
+PADRÃO
+VALOR DA GQ
+QUALIFICAÇÃO
+I
+II
+III
+TÉCNICO 3
+ASSISTENTE 3
+III
+654,00
+1.271,00
+2.544,00
+II
+630,00
+1.226,00
+2.451,00
+I
+607,00
+1.181,00
+2.363,00
+TÉCNICO 2
+ASSISTENET 2
+VI
+586,00
+1.138,00
+2.277,00
+V
+563,00
+1.097,00
+2.193,00
+IV
+543,00
+1.056,00
+2.113,00
+III
+523,00
+1.017,00
+2.035,00
+II
+504,00
+980,00
+1.960,00
+I
+485,00
+944,00
+1.887,00
+TÉCNICO 1
+ASSISTENTE 1
+VI
+467,00
+908,00
+1.816,00
+V
+450,00
+874,00
+1.748,00
+IV
+432,00
+841,00
+1.682,00
+III
+416,00
+809,00
+1.618,00
+II
+400,00
+778,00
+1.556,00
+I
+384,00
+748,00
+1.495,00
+Tabela II - Valor da GQ: Efeitos financeiros a partir de 1o de julho de 2009
+Em R$
+CLASSE
+PADRÃO
+VALOR DA GQ
+QUALIFICAÇÃO
+I
+II
+III
+TÉCNICO 3
+ASSISTENTE 3
+III
+752,00
+1.462,00
+2.925,00
+II
+725,00
+1.412,00
+2.822,00
+I
+700,00
+1.362,00
+2.725,00
+TÉCNICO 2
+ASSISTENET 2
+VI
+677,00
+1.316,00
+2.632,00
+V
+652,00
+1.270,00
+2.539,00
+IV
+629,00
+1.225,00
+2.449,00
+III
+608,00
+1.182,00
+2.365,00
+II
+587,00
+1.141,00
+2.281,00
+I
+565,00
+1.100,00
+2.199,00
+TÉCNICO 1
+ASSISTENTE 1
+VI
+546,00
+1.061,00
+2.122,00
+V
+527,00
+1.023,00
+2.046,00
+IV
+506,00
+986,00
+1.971,00
+III
+489,00
+950,00
+1.901,00
+II
+471,00
+916,00
+1.831,00
+I
+452,00
+881,00
+1.762,00
+2006
+b) Cargos de nível intermediário de que trata o art. 28 da Lei no 11.355, de 19 de outubro de
+Tabela I - Valor da GQ: Efeitos financeiros a partir de 1o de julho de 2008
+Em R$
+CLASSE
+PADRÃO
+VALOR DA GQ
+QUALIFICAÇÃO
+I
+II
+III
+ESPECIAL
+III
+654,00
+1.271,00
+2.544,00
+II
+630,00
+1.226,00
+2.451,00
+I
+607,00
+1.181,00
+2.363,00
+C
+VI
+586,00
+1.138,00
+2.277,00
+V
+563,00
+1.097,00
+2.193,00
+IV
+543,00
+1.056,00
+2.113,00
+III
+523,00
+1.017,00
+2.035,00
+II
+504,00
+980,00
+1.960,00
+I
+485,00
+944,00
+1.887,00
+B
+VI
+467,00
+908,00
+1.816,00
+V
+450,00
+874,00
+1.748,00
+IV
+432,00
+841,00
+1.682,00
+III
+416,00
+809,00
+1.618,00
+II
+400,00
+778,00
+1.556,00
+I
+384,00
+748,00
+1.495,00
+A
+V
+374,00
+726,00
+1.452,00
+IV
+363,00
+705,00
+1.409,00
+III
+352,00
+684,00
+1.369,00
+II
+342,00
+664,00
+1.329,00
+I
+332,00
+645,00
+1.290,00
+Tabela II - Valor da GQ: Efeitos financeiros a partir de 1o de julho de 2009
+Em R$
+CLASSE
+PADRÃO
+VALOR DA GQ
+QUALIFICAÇÃO
+I
+II
+III
+ESPECIAL
+III
+752,00
+1.462,00
+2.925,00
+II
+725,00
+1.412,00
+2.822,00
+I
+700,00
+1.362,00
+2.725,00
+C
+VI
+677,00
+1.316,00
+2.632,00
+V
+652,00
+1.270,00
+2.539,00
+IV
+629,00
+1.225,00
+2.449,00
+III
+608,00
+1.182,00
+2.365,00
+II
+587,00
+1.141,00
+2.281,00
+I
+565,00
+1.100,00
+2.199,00
+B
+VI
+546,00
+1.061,00
+2.122,00
+V
+527,00
+1.023,00
+2.046,00
+IV
+506,00
+986,00
+1.971,00
+III
+489,00
+950,00
+1.901,00
+II
+471,00
+916,00
+1.831,00
+I
+452,00
+881,00
+1.762,00
+A
+V
+441,00
+856,00
+1.711,00
+IV
+428,00
+831,00
+1.661,00
+III
+415,00
+807,00
+1.615,00
+II
+403,00
+783,00
+1.567,00
+I
+390,00
+757,00
+1.514,00
+ANEXO CLXXIII
+(Anexo III da Lei no 10.883, de 16 de junho de 2004) TABELA DE VENCIMENTO BÁSICO DOS CARGOS
+DA CARREIRA DE FISCAL FEDERAL AGROPECUÁRIO
+Em R$
+CLASSE
+PADRÃO
+VENCIMENTO BÁSICO
+A PARTIR DE 1o DE
+FEVEREIRO DE 2008
+A PARTIR DE 1o DE
+FEVEREIRO DE 2009
+ESPECIAL
+IV
+5.156,00
+6.700,00
+III
+4.967,24
+6.453,33
+II
+4.785,40
+6.206,67
+I
+4.610,21
+5.960,00
+C
+III
+4.349,26
+5.713,33
+II
+4.190,03
+5.466,67
+I
+4.036,64
+5.220,00
+B
+III
+3.808,15
+4.973,33
+II
+3.668,74
+4.726,67
+I
+3.534,43
+4.480,00
+A
+III
+3.334,37
+4.233,33
+II
+3.212,30
+3.986,67
+I
+3.094,70
+3.740,00
+ANEXO CLXXIV
+(Anexo IV da Lei no 10.883, de 16 de junho de 2004)
+TABELA DE VALOR DO PONTO DA GRATIFICAÇÃO DE DESEMPENHO DE ATIVIDADE DOS FISCAIS FEDERAIS AGROPECUÁRIOS – GDFFA
+Em R$
+CLASSE
+PADRÃO
+VALOR DO PONTO
+A PARTIR DE 1o DE
+FEVEREIRO DE 2008
+A PARTIR DE 1o DE
+FEVEREIRO DE 2009
+ESPECIAL
+IV
+33,1700
+67,00
+III
+32,3610
+65,73
+II
+31,5717
+64,90
+I
+30,8016
+64,16
+C
+III
+30,0504
+62,07
+II
+29,3174
+61,57
+I
+28,6024
+61,15
+B
+III
+27,9048
+59,51
+II
+27,2242
+59,31
+I
+26,5602
+59,17
+A
+III
+25,9124
+58,95
+II
+25,2803
+58,40
+I
+24,6637
+58,12
+ANEXO CLXXV (VETADO)
+ANEXO CLXXVI
+(Anexo IV-A da Lei no 11.344, de 8 de setembro de 2006) VALORES DO VENCIMENTO BÁSICO DA
+CARREIRA DO MAGISTÉRIO SUPERIOR
+(Efeitos financeiros a partir de 1o de fevereiro de 2009)
+Em R$
+CLASSE
+NÍVEL
+VENCIMENTO BÁSICO
+REGIME DE TRABALHO
+20 HORAS
+40 HORAS
+DEDICAÇÃO
+EXCLUSIVA
+TITULAR
+1
+1.003,50
+2.007,00
+3.110,85
+ASSOCIADO
+4
+946,70
+1.893,40
+2.934,77
+3
+919,13
+1.838,26
+2.849,30
+2
+892,36
+1.784,72
+2.766,32
+1
+889,76
+1.779,52
+2.758,26
+ADJUNTO
+4
+817,33
+1.634,66
+2.533,72
+3
+793,52
+1.587,04
+2.459,91
+2
+770,41
+1.540,82
+2.388,27
+1
+747,97
+1.495,94
+2.318,71
+ASSISTENTE
+4
+705,63
+1.411,26
+2.187,45
+3
+685,08
+1.370,16
+2.123,75
+2
+665,13
+1.330,26
+2.061,90
+1
+645,76
+1.291,52
+2.001,86
+AUXILIAR
+4
+609,21
+1.218,42
+1.888,55
+3
+591,47
+1.182,94
+1.833,56
+2
+574,24
+1.148,48
+1.780,14
+1
+557,51
+1.115,02
+1.728,28
+ANEXO CLXXVII (VETADO)
+ANEXO CLXXVIII (VETADO)
+ANEXO CLXXIX TERMO DE OPÇÃO
+PLANO DE CARREIRA DOS CARGOS TÉCNICO-ADMINISTRATIVOS EM EDUCAÇÃO
+Nome:
+Cargo:
+Matrícula SIAPE:
+Unidade de Lotação:
+Unidade Pagadora:
+Cidade:
+Estado:
+Venho, nos termos do § 1o do art. 11 da Lei no 11.907, de 2 de janeiro de 2009, optar por não integrar o Plano de Carreira dos Cargos Técnico-Administrativos em Educação, na forma estabelecida pela Lei em referência.
+, / /
+Local e data
+Assinatura
+Recebido em: / / .
+Assinatura/Matrícula ou carimbo do servidor do órgão do Sistema de Pessoal Civil da Administração
+Federal – SIPEC
+ANEXO CLXXX TABELA DE CORRELAÇÃO
+(Anexo VII-A da Lei nº 11.355, de 19 de outubro de 2006)
+SITUAÇÃO ATUAL
+SITUAÇÃO NOVA
+CARGO
+CLASSE
+PADRÃO
+PADRÃO
+CLASSE
+CARGO
+Cargos de nível superior e intermediário da Carreira da Seguridade Social e do Trabalho, de que trata a Lei nº
+10.483, de 3 de julho de
+2002, da Carreira da Previdência, da Saúde e do Trabalho, de que trata o art. 1º desta Lei, cujos titulares se encontravam em exercício no Centro de Referência Professor Hélio Fraga - CRPHF
+em 10 de junho de 2008.
+ESPECIAL
+III
+III
+ESPECIAL
+Cargos de nível superior e intermediário do Plano de Carreiras e Cargos de Ciência, Tecnologia, Produção e Inovação em Saúde Pública.
+II
+II
+I
+I
+C
+VI
+VI
+C
+V
+V
+IV
+IV
+III
+III
+II
+II
+I
+I
+B
+VI
+VI
+B
+V
+V
+IV
+IV
+III
+III
+II
+II
+I
+I
+A
+V
+V
+A
+IV
+IV
+III
+III
+II
+II
+I
+I
+ANEXO CLXXXI
+(Anexo VIII-A da Lei nº 11.355, de 19 de outubro de 2006) TERMO DE OPÇÃO
+PLANO DE CARREIRAS E CARGOS
+DE CIÊNCIA, TECNOLOGIA, PRODUÇÃO E INOVAÇÃO EM SAÚDE PÚBLICA
+Nome:
+Cargo:
+Matrícula SIAPE:
+Unidade de Lotação:
+Unidade Pagadora:
+Cidade:
+Estado:
+Servidor ativo em exercício no Centro de Referência Professor Hélio Fraga - CRPHF em 10 de junho de
+2008. ( )
+Venho, observando o disposto nos §§ 2o e 3o do art. 28-A da Lei no 11.355, de 19 de outubro de 2006, optar por integrar o Plano de Carreiras e Cargos de Ciência, Tecnologia, Produção e Inovação em Saúde Pública, instituído no âmbito da Fiocruz, renunciando a qualquer parcela vincenda de valores incorporados à remuneração por decisão administrativa ou judicial, a partir de 1º de fevereiro de 2009, e autorizo a Fiocruz a homologar este Termo perante o Poder Judiciário.
+Local e data , / / .
+Assinatura
+Recebido em: / / .
+Assinatura/Matrícula ou Carimbo do Servidor do órgão do Sistema de Pessoal Civil da
+Administração Federal - SIPEC

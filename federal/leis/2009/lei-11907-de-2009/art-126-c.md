@@ -1,0 +1,1 @@
+Art. 126-C. Os servidores integrantes da carreira de Policial Penal Federal não poderão perceber cumulativamente com o subsídio quaisquer valores ou vantagens incorporadas à remuneração por decisão administrativa ou judicial, ou por extensão administrativa de decisão judicial, de natureza geral ou individual, ainda que decorrentes de sentença judicial transitada em julgado.

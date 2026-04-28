@@ -1,0 +1,2 @@
+Art. 292-A. A partir de 1º de julho de 2012, aplica-se a Gratificação Temporária de Atividade em Escola de Governo - GAEG, de que trata o art. 292, aos titulares de cargos de provimento efetivo regidos pela Lei nº 8.112, de 11 de dezembro de 1990, em efetivo exercício na Academia Nacional de Polícia, enquanto permanecerem nessa condição.
+Parágrafo único. Os titulares de cargos efetivos remunerados por subsídio em exercício na Academia Nacional de Polícia não farão jus à percepção da GAEG.

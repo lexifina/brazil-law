@@ -1,0 +1,1 @@
+Art. 310-B. A partir de 1º de abril de 2026, os empregados que receberem a remuneração de acordo com o disposto no inciso II do § 1º do art. 310, serão reposicionados na tabela do Anexo CLXX desta Lei, consideradas a posição atualmente ocupada e uma referência adicional a cada 5 (cinco) anos completos de efetivo exercício no emprego após seu retorno ao serviço público.

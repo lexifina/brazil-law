@@ -1,0 +1,5 @@
+Art. 310-A. A partir de 1º de abril de 2026, o empregado de que trata a Lei nº 8.878, de 11 de maio de 1994, em exercício na administração direta, autárquica e fundacional, poderá realizar a opção pela remuneração prevista no Anexo CLXX desta Lei.
+§ 1º O direito à opção deverá ser exercido até 30 de julho de 2026, perante as respectivas unidades de gestão de pessoas dos órgãos e das entidades nos quais os empregados estejam lotados, que terão a competência para realizar o posicionamento do empregado na tabela do Anexo CLXX desta Lei.
+§ 2º Na hipótese de o empregado optar pelo posicionamento na tabela do Anexo CLXX, serão considerados o tempo de serviço no emprego ocupado à época do desligamento, nos termos do § 1º-A do art. 310 desta Lei, e o tempo de efetivo exercício após seu retorno ao serviço público, considerada uma referência a cada 5 (cinco) anos completos de efetivo exercício no emprego, contados a partir da data de início do exercício após o retorno ao serviço público.
+§ 3º A opção de que trata o caput deste artigo não gera efeitos financeiros retroativos.
+§ 4º A opção será indeferida no caso de decesso remuneratório.
