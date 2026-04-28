@@ -1,0 +1,3 @@
+Artigo 3°-A - Fica o Fundo de Expansão do Agronegócio Paulista - O Banco do Agronegócio Familiar (FEAP-BANAGRO) autorizado a destinar parte de seus recursos para a contratação de serviços, bens e tecnologias necessários à análise e à fiscalização da aplicação dos seus recursos. (NR)
+§ 1° - As despesas decorrentes das contratações indicadas no "caput" deste artigo serão custeadas pelos recursos previstos nos incisos II e VII do artigo 2° desta lei e no § 1° do artigo 1° da Lei n° 16.004, de 23 de novembro de 2015, até o limite de 10% (dez por cento) do valor arrecadado. (NR)
+§ 2° - Os serviços, bens e tecnologias passíveis de contratação serão discriminados em decreto regulamentar. (NR)
