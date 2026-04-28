@@ -1,0 +1,39 @@
+DECISÃO
+Cuida-se de Agravo apresentado por EDUARDO MOREIRA PINHEIRO e OUTROS à decisão que não admitiu seu Recurso Especial.
+O apelo, fundamentado no artigo 105, III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, assim resumido:
+DIREITO DO CONSUMIDOR. APELAÇÃO. PLANO DE SAÚDE. INTERNAÇÃO EM HOSPITAL DE TRANSIÇÃO/RETAGUARDA. COBERTURA DEVIDA. RECURSO PARCIALMENTE PROVIDO.
+I. CASO EM EXAME
+1. Trata-se de apelação interposta contra sentença que julgou procedente a ação para condenar a requerida a custear integralmente as despesas com a internação da parte autora no hospital HCor no período de 01/10/2023 a 08/11/2023.
+II. QUESTÃO EM DISCUSSÃO
+2. A questão em discussão consiste em determinar se a cobertura, por parte da requerida, de internação da autora em hospital de transição é devida e se aquela deve arcar, integralmente, com os custos da internação da autora no hospital HCor no período de 01/10/2023 a 08/11/2023.
+III. RAZÕES DE DECIDIR
+3. Havendo prescrição médica expressa no sentido da necessidade de desospitalização em razão do risco de infecção hospitalar, porém com indicação de necessidade de transição em hospital de retaguarda, configura-se indevida a negativa de cobertura da internação.
+4. Considerando que a prorrogação da internação no Hospital HCor foi negada a partir de 01/10/2023, é de se concluir que a permanência da autora até 08/11/2023, quando só então pleiteou sua transferência a um hospital de retaguarda, deu-se de forma voluntária, razão pela qual, em referido período, caberá à requerida repassar ao Hospital HCor o valor que normalmente dispenderia a um hospital de transição/retaguarda de sua rede credenciada. A diferença deverá ser arcada pela própria autora.
+5. Considerando que o julgamento nesta instância recursal reformou, de forma parcial, a sentença recorrida, é o caso de se redistribuir o ônus sucumbencial fixado na origem.
+Julgamento de parcial procedência da ação, que exige o reconhecimento de sucumbência recíproca, em igual proporção, entre as partes.
+IV. DISPOSITIVO E TESE
+6. Recurso parcialmente provido.
+Quanto à controvérsia, pela alínea "a" do permissivo constitucional, a parte recorrente alega violação aos arts. 1º, I, e 12, II, "a", da Lei nº 9.656/1998, no que concerne ao afastamento do limite financeiro na cobertura de internação hospitalar, em razão de inexistência de alta médica e de necessidade clínica com prescrição de manutenção em ambiente hospitalar até a efetiva solicitação de transferência, trazendo a seguinte argumentação:
+Em outros termos, embora reconheça o direito a internação hospitalar da Recorrente, o v. Acórdão estabeleceu um limite financeiro da cobertura do plano de saúde, determinando que a Recorrida pague ao Hospital HCor o valor que pagaria a um hospital de transição/retaguarda de sua rede credenciada, devendo a diferença ser custeada pela própria Recorrente (fl. 386).
+No caso, em momento algum foi concedida alta médica à paciente. Ao contrário, em 23/09/2023 foi solicitada "permanência em hospitalização para a paciente Helena Moreira Pinheiro", sendo descartada a transferência para hospital de retaguarda, em razão de curativo em lesão de moderada a grande extensão em membro inferior, que "não se encontra disponível em hospital de retaguarda" (fls. 386-387).
+A solicitação para transferência da paciente para o hospital de retaguarda só ocorreu efetivamente em 10/11/2023, o que foi negado pela Recorrida, motivando o ajuizamento da presente ação (fl. 387).
+Além disso, de acordo com o relatório médico de fls. 19-21, também não havia indicação de transferência da paciente para atenção domiciliar (Home Care), em razão da gravidade do seu estado clínico (fl. 387).
+Portanto, não é verdade que a paciente permaneceu internada no período de 01/10/2023 a 08/11/2023 no Hospital HCor de forma voluntária (fl. 387).
+Ademais, somente em 06/11/2023 é que a Recorrente foi comunicada sobre a negativa da Recorrida, acerca prorrogação da internação a partir de 1/10/2023, quando recebeu um e-mail da Ouvidoria do Hospital HCor, não tendo sequer como se insurgir antes disso (fl. 387).
+Assim, é dever da Recorrida custear todo o período de internação da paciente no Hospital HCor, de forma integral, uma vez que vedada a limitação de prazo, valor máximo e quantidade, consoante art. 12, II, a, da Lei nº 9.656/98 (fl. 387).
+É o relatório.
+Decido.
+Quanto à controvérsia, o Tribunal a quo se manifestou nos seguintes termos:
+Há de se observar, entretanto, que, desde 22/09/2023, já havia o entendimento pelos médicos do Hospital HCor (fls. 27) pelo acompanhamento da autora em Hospital de Transição, ou seja, não era mais necessária a sua internação no Hospital HCor, mas, mesmo assim a parte permaneceu no "internada" até 08/11/2023, quando pleiteou para sua transferência a um Hospital de Retaguarda (fls. 54/55).
+Neste contexto, considerando que a prorrogação da internação no Hospital HCor foi negada a partir de 01/10/2023 (fls. 29/30), é de se concluir que a permanência da autora até 08/11/2023 se deu de forma voluntária, razão pela qual, em referido período, caberá à requerida repassar ao Hospital HCor o valor que normalmente dispenderia a um hospital de transição/retaguarda de sua rede credenciada. A diferença deverá ser arcada pela própria autora (fls. 368/369).
+Complementou no julgamento dos emb argos de declaração opostos:
+A tese da autora de que não houve alta médica não se confunde com a conclusão judicial de que não havia mais necessidade de internação no hospital HCor. O acórdão examinou os relatórios médicos e a cronologia dos fatos constantes dos autos, afastando a obrigação de custeio integral após a negativa de prorrogação.
+Quanto à alegação da ré de que o reembolso deve observar cláusulas contratuais específicas e normas da LGPD, a matéria foi analisada na fundamentação. O acórdão fixou a obrigação de reembolso com base na média praticada pela rede referenciada, sem impor quebra de sigilo contratual, tampouco exigência de documentação protegida por confidencialidade. A pretensão recursal configura mera discordância com o julgamento (fls. 378).
+Assim, incidem as Súmulas n. 5 e 7 do STJ, porquanto a pretensão recursal demanda reexame de cláusulas contratuais e reexame do acervo fático-probatório juntado aos autos.
+Nesse sentido: "Não cabe, em recurso especial, reexaminar matéria fático-probatória e a interpretação de cláusulas contratuais (Súmulas n. 5 e 7 do Superior Tribunal de Justiça)" (AgInt no AREsp n. 2.243.705/SP, relatora Ministra Maria Isabel Gallotti, Quarta Turma, DJe de 20/10/2023).
+Confiram-se ainda os seguintes julgados: AgInt no AREsp n. 2.446.415/SP, relator Ministro Humberto Martins, Terceira Turma, DJEN de 20/3/2025; REsp n. 2.106.567/SP, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, DJEN de 5/3/2025; AgInt no AREsp n. 2.572.293/RS, relator Ministro Benedito Gonçalves, Primeira Turma, DJEN de 13/12/2024; AgInt no AgInt no AREsp n. 2.560.748/DF, relator Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 22/11/2024; REsp n. 1.851.431/SC, relator Ministro Paulo Sérgio Domingues, Primeira Turma, DJe de 7/10/2024; REsp n. 1.954.604/MG, relator Ministro Francisco Falcão, Segunda Turma, DJe de 21/3/2024; AgInt no REsp n. 1.995.864/PB, relator Ministro Raul Araújo, Quarta Turma, DJe de 20/10/2023.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do Agravo para não conhecer do Recurso Especial.
+Nos termos do art. 85, § 11, do Código de Processo Civil, majoro os honorários de advogado em desfavor da parte recorrente em 15% sobre o valor já arbitrado nas instâncias de origem, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão de justiça gratuita.
+Publique-se.
+Intimem-se.
+ EMENTA
