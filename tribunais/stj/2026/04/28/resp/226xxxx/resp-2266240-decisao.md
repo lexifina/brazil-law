@@ -1,0 +1,43 @@
+DECISÃO
+Trata-se de recurso especial interposto por Maria do Socorro Leal Fialho, com fundamento no art. 105, inciso III, alínea a, da Constituição Federal, contra acórdão do Tribunal de Justiça do Estado do Maranhão assim ementado (e-STJ, fls. 174-175):
+AGRAVO DE INSTRUMENTO. CUMPRIMENTO DE SENTENÇA. EXECUÇÃO INDIVIDUAL DE TÍTULO COLETIVO. ILEGITIMIDADE ATIVA. UNICIDADE SINDICAL. PROFESSOR DA REDE ESTADUAL DE ENSINO. SINDICATO ESPECÍFICO. INAPLICABILIDADE DA COISA JULGADA COLETIVA DO SINTSEP-MA. RECURSO CONHECIDO E DESPROVIDO.
+I. CASO EM EXAME
+Trata-se de agravo de instrumento interposto contra decisão que declarou a ilegitimidade ativa da agravante para executar o título judicial, uma vez que esta é representada por sindicato específico, o SINPROESEMMA.
+II. QUESTÕES EM DISCUSSÃO
+Discute-se a legitimidade ativa de uma professora da rede estadual de ensino, vinculada ao SINPROESEMMA, para executar individualmente o título judicial obtido pelo SINTSEP-MA, em face do princípio da unicidade sindical e da delimitação subjetiva da coisa julgada coletiva.
+III. RAZÕES DE DECIDIR
+O princípio da unicidade sindical, previsto no art. 8º, II, da Constituição Federal, impede que servidores públicos vinculados a um sindicato específico, como o SINPROESEMMA, sejam representados por outro sindicato, como o SINTSEP-MA, em ações coletivas. A execução de título judicial coletivo está limitada aos substituídos processuais que fazem parte da categoria representada pelo sindicato que ajuizou a ação coletiva. No caso concreto, a agravada não pertence à categoria profissional representada pelo SINTSEP-MA, sendo, portanto, parte ilegítima para promover a execução individual do título judicial.
+IV. DISPOSITIVO E TESE
+Nego provimento ao agravo de instrumento para manter a decisão que declarou a ilegitimidade ativa do agravante para executar a ação coletiva n. 6542/2005, proposta pelo SINTSEP-MA, em observância ao princípio da unicidade sindical.
+Os embargos de declaração opostos foram rejeitados (e-STJ, fls. 231-249).
+Em suas razões (e-STJ, fls. 250-263), a parte recorrente aponta violação dos arts. 1.022, II, e 489, § 1º, IV, do Código de Processo Civil de 2015.
+Sustentou, em síntese, que houve negativa de prestação jurisdicional e deficiência de fundamentação por omissão do Tribunal de origem em enfrentar questões e documentos relevantes para a solução da controvérsia.
+Ressaltou o limite subjetivo do título coletivo, aduzindo que "o título coletivo abarca todos os servidores públicos do estado do Maranhão, sem traçar outros limites subjetivos" (e-STJ, fl. 254).
+Asseverou ter havido preclusão da aferição de legitimidade em razão de liquidação por arbitramento, com individualização e homologação do crédito da recorrente "em lista homologada por ambas as partes" (e-STJ, fls. 254).
+Ponderou que o Tribunal de origem não emitiu pronunciamento sobre as fichas financeiras apresentadas, "evidenciando sua filiação pelos descontos do sindicato coletivo" (e-STJ, fl. 254).
+Postulou, ao final, o provimento do recurso especial a fim de anular o acórdão recorrido.
+Brevemente relatado, decido.
+Com efeito, a alegação de violação aos arts. 489, § 1º, IV, 1.022, II, do CPC/2015 não ficou configurada, pois o Tribunal de origem decidiu a matéria controvertida de forma fundamentada, examinando todas as questões submetidas à apreciação judicial na medida necessária para o deslinde da controvérsia, ainda que tenha decidido em sentido contrário à pretensão da parte recorrente.
+Registre-se que o julgador não está obrigado a analisar todos os argumentos invocados pela parte quando tiver encontrado fundamentação suficiente para dirimir integralmente o litígio.
+Cabe ressaltar, nesse contexto, "que o teor do art. 489, § 1º, inc. IV, do CPC/2015, ao dispor que "não se considera fundamentada qualquer decisão judicial, seja ela interlocutória, sentença ou acórdão, que não enfrentar todos os argumentos deduzidos no processo capazes de, em tese, infirmar a conclusão adotada pelo julgador", não significa que o julgador tenha que enfrentar todos os argumentos trazidos pelas partes, mas, sim, aqueles levantados que sejam capazes de, em tese, negar a conclusão adotada pelo julgador" (EDcl nos EREsp 1.523.744/RS, relator Ministro Og Fernandes, Corte Especial, julgado em 7/10/2020, DJe 28/10/2020).
+Nesse contexto, esta Corte já se manifestou no sentido de que não há que se confundir decisão contrária aos interesses da parte e negativa de prestação jurisdicional, nem fundamentação sucinta com ausência de fundamentação.
+Veja-se:
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. SERVIDOR PÚBLICO FEDERAL. AUXILIAR EM ADMINISTRAÇÃO DA FUNDAÇÃO UNIVERSIDADE DE BRASÍLIA - FUB. ALEGADO DESVIO DE FUNÇÃO. SUPOSTO EXERCÍCIO DE CHEFIA DE ADMINISTRAÇÃO EM HOTEL DE TRÂNSITO. ALEGADA VIOLAÇÃO AOS ARTS. 489 E 1.022 DO CPC. INEXISTÊNCIA. TRIBUNAL DE ORIGEM QUE, À LUZ DAS PROVAS DOS AUTOS, CONCLUIU PELA INEXISTÊNCIA DO CARGO DE CHEFIA NA UNIDADE, À ÉPOCA. REVISÃO. IMPOSSIBILIDADE. SÚMULA 7/STJ. INCIDÊNCIA, POR ANALOGIA, DA SÚMULA 339/STF. AGRAVO INTERNO NÃO PROVIDO.
+1. A Corte de origem dirimiu, fundamentadamente, a matéria submetida à sua apreciação, manifestando-se acerca dos temas necessários ao integral deslinde da controvérsia, não havendo omissão, contradição, obscuridade ou erro material, afastando-se, por conseguinte, a alegada violação ao art. 1.022 do CPC.
+2. Inviável a análise da pretensão veiculada no recurso especial, por demandar o reexame do contexto fático-probatório dos autos, atraindo a incidência da Súmula 7/STJ.
+3. A pretensão autoral ainda encontra obstáculo na Súmula 339/STF:
+"Não cabe ao Poder Judiciário, que não tem função legislativa, aumentar vencimentos de servidores públicos sob fundamento de isonomia" 4. Agravo interno não provido.
+(AgInt no AREsp n. 2.161.539/DF, relator Ministro Afrânio Vilela, Segunda Turma, julgado em 19/8/2024, DJe de 22/8/2024.)
+Ao analisar a questão jurídica dos autos, o Tribunal de origem declinou a seguinte fundamentação (e-STJ, fls. 176-177, sem grifos no original):
+De início, cumpre destacar que inexiste preclusão consumativa quanto a matéria de ordem pública relativa a direitos indisponíveis da administração pública.
+Com efeito, o momento para identificação dos legitimados para execução individual oriunda de ação coletiva é a fase de cumprimento ou liquidação, ou seja, a fase em que o direito coletivo deve ser individualizado a fim de aferir o quantum de cada substituído, não havendo que se falar, pois, em preclusão consumativa.
+Analisando detidamente os autos digitais, verifica-se que a apelante não possui legitimidade para executar o título executivo oriundo da Ação Coletiva nº 6.542/2005, na medida em que o acórdão que reconheceu o direito aos servidores estaduais à diferença entre a perda salarial decorrente da conversão da URV, limita-se aos substituídos processuais do SINTSEP - Sindicato dos Trabalhadores no Serviço Público do Estado do Maranhão.
+Por outro lado, da análise da documentação colacionada, em especial o contracheque de ID 25522924, constata-se que a exequente, ora apelante, é titular do cargo de Professora e, portanto, representada pelo Sindicato dos Trabalhadores em Educação Básica das Redes Públicas Estadual e Municipais do Estado do Maranhão - SINPROESEMMA, não tendo, assim, sido abrangida pelo título executivo ora vindicado.
+Portanto, não possui legitimidade para requerer o cumprimento individual da sentença coletiva formada nos autos da Ação Coletiva nº 6542/2005 em razão da violação ao princípio da unicidade sindical (art. 8º, II, da Constituição Federal).
+Como se depreende das razões supramencionadas, o acórdão recorrido concluiu de modo expresso e suficientemente fundamentado pela ilegitimidade da parte exequente e pela ausência da preclusão, inexistindo vícios suscetíveis de correção por meios dos embargos de declaração apenas pelo fato de o julgado recorrido ter decidido em sentido contrário à pretensão da parte recorrente.
+Portanto, não se cogita de negativa de prestação jurisdicional, tampouco de nulidade do aresto estadual.
+Diante do exposto, nego provimento ao recurso especial.
+Nos termos do art. 85, § 11, do CPC/2015, majoro os honorários em favor do advogado da parte recorrida em 2% (dois por cento) do valor da causa, suspensa a exigibilidade em razão da gratuidade de justiça deferida na origem.
+Publique-se.
+EMENTA
+RECURSO ESPECIAL. SERVIDOR PÚBLICO. PROCESSUAL CIVIL. EXECUÇÃO INDIVIDUAL DE TÍTULO COLETIVO. ARTS. 489 E 1.022 DO CPC/2015. ILEGITIMIDADE ATIVA. NEGATIVA DE PRESTAÇÃO JURISPRUDÊNCIA. INEXISTÊNCIA. SUFICIÊNCIA NA FUNDAMENTAÇÃO. RECURSO ESPECIAL DESPROVIDO.
