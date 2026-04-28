@@ -1,0 +1,18 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de EDNALDO ROGERIO DE OLIVEIRA contra ato proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO.
+Consta nos autos que o paciente foi sentenciado à pena de sete anos, nove meses e dez dias de reclusão, em regime inicial fechado, como incurso no crime de tráfico de drogas, sendo negado o direito de recorrer em liberdade.
+A defesa interpôs recurso de apelação perante o Tribunal de origem em julho de 2025.
+Neste writ, a defesa sustenta, em suma, que o paciente estaria sofrendo constrangimento ilegal em razão do excesso de prazo para a formação da culpa aduzindo que "o Paciente encontra-se, portanto, preso há cerca de 18 meses, sem julgamento do recurso defensivo, em processo simples, com réu único, sem complexidade que justifique tamanha demora" (fl. 4).
+Requer a revogação da prisão preventiva ou, subsidiariamente, sua substituição por medidas cautelares diversas.
+A liminar foi indeferida às fls. 48-49.
+Informações prestadas às fls. 56-64. O Ministério Público Federal, às fls. 67-72, manifestou-se pela denegação da ordem.
+É o relatório. DECIDO.
+Quanto à alegação de excesso de prazo no julgamento de recurso de apelação, extrai-se das informações colhidas dos autos que o paciente foi sentenciado à pena de sete anos, nove meses e dez dias de reclusão, em regime inicial fechado, como incurso no crime de tráfico de drogas, sendo negado o direito de recorrer em liberdade e que a defesa interpôs recurso de apelação perante o Tribunal de origem em julho de 2025. Em consulta ao sítio do Tribunal de origem (www.tjsp.jus.br), processo nº 1501737-19.2024.8.26.022, consta na informações do dia 22/04/2026 que o recurso já se encontra em mesa para julgamento. Portanto, não verifico, desídia ou demora injustificada do poder judiciário, não hvendo que se falar em excesso de prazo.
+Ressalte-se que os prazos processuais não têm as características de fatalidade e de improrrogabilidade, fazendo-se imprescindível raciocinar com o juízo de razoabilidade para definir o excesso de prazo. É preciso registrar que a jurisprudência desta Corte de Justiça sufraga o entendimento de que o excesso de prazo para julgamento da apelação deve ser analisado com base na quantidade de pena aplicada no caso concreto.
+Ilustrativamente:
+"A configuração de excesso de prazo não decorre da soma aritmética de prazos legais. A questão deve ser aferida consoante os critérios de razoabilidade, em razão das peculiaridades do caso concreto.Ademais, eventual excesso de prazo deve ser mensurado de acordo com a quantidade de pena imposta na sentença condenatória."(AgRg no RHC n. 197.741/RJ, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 26/8/2024, DJe de 30/8/2024.)
+"A jurisprudência desta Corte Superior é firme em assinalar que as elevadas penas impostas na sentença condenatória devem ser consideradas para fins de análise de suposto excesso de prazo no julgamento dos incidentes processuais. Como os agravantes foram condenados a elevadas penas, o prazo para a tramitação dos recursos deverá ser proporcional à complexidade dos fatos. Ausência de constrangimento ilegal" (AgRg no HC n. 899.092/PE, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 16/9/2024, DJe de 18/9/2024.)
+E os seguintes precedentes: (AgRg no HC n. 800.181/MS, Quinta turma, relator Ministro Reyn aldo Soares da Fonseca, DJe de 24/3/2023), (AgRg no HC n. 687.840/MS, sexta turma, relatora Ministra Laurita Vaz, DJe de 19/12/2022); (AgRg no RHC n. 200.160/RS, relator Ministro Rogerio Schietti Cruz, Sexta Turma DJe de 18/9/2024.)
+Ante o exposto, denego a ordem.
+Publique- se. Inti mem -se.
+EMENTA
