@@ -1,0 +1,34 @@
+DECISÃO
+Trata-se de agravo interposto por BRUNA CARLA DA SILVA contra decisão do TRIBUNAL REGIONAL FEDERAL DA 4ª REGIÃO que inadmitiu o recurso especial.
+A agravante foi condenada por infração ao art. 289, § 1º, do Código Penal, à pena de 03 (três) anos e 9 (nove) meses de reclusão (fls. 696-697).
+O Tribunal negou provimento ao apelo defensivo e, de ofício, redimensionou a pena para 03 (três) anos, 05 (cinco) meses e 07 (sete) dias de reclusão, em regime aberto (fls. 685-708).
+A defesa interpôs recurso especial, com fundamento no art. 105, inciso III, alíneas "a", da Constituição Federal, para alegar negativa vigência aos artigos 59 e 68 do Código Penal e aos artigos 315, § 2º, I, II e III, 381, III, 387, II e III, e 564, V, do Código de Processo Penal (fls. 722-733).
+O recurso foi inadmitido na origem devido à incidência da Súmula n. 7, STJ (fls. 804-808).
+Nas razões do agravo em recurso especial, a defesa sustenta a natureza eminentemente jurídica da controvérsia e a desnecessidade de reexame do conjunto fático-probatório (fls. 858-864).
+O Ministério Público Federal, por sua vez, opinou pelo desprovimento do recurso (fls. 915-921).
+É  o  relatório. DECIDO.
+Como relatado, a questão a ser analisada neste recurso especial se refere à alegada desproporcionalidade do incremento da pena operado na primeira fase da dosimetria.
+Entretanto, a despeito dos judiciosos argumentos apresentados pelo recorrente, tenho que o recurso especial não comporta provimento.
+Para delimitar a controvérsia, trago à colação os fundamentos utilizados pelo Tribunal de origem (fls. 687-708):
+"O sentenciante negativou corretamente as circunstâncias do crime, considerando a grande quantidade de cédulas falsas (201 cédulas).
+Todavia, em que pese a discricionariedade do juízo, entendo demasiado o acréscimo de 01 (um) ano e 06 (seis) meses meses aplicado pelo sentenciante em razão da referida vetorial.
+No ponto, o juízo a quo utilizou a fração de 1/6 (um) sexto do termo médio para cada circunstância judicial, justificando que é o parâmetro utilizado pelo STJ.
+Contudo, o parâmetro utilizado pelo STJ é de 1/6 da pena mínima em abstrato ou 1/8 entre o mínimo e o máximo da pena em abstrato. Vejamos:
+ ..
+Ou seja, ao adotar 1/6 (um sexto) do termo médio (1 ano e 6 meses), o sentenciante imputou à ré um aumento maior que os dois parâmetros fixados pelo STJ, de 1/6 (um sexto) da pena mínima em abstrato e 1/8 (um oitavo) entre o mínimo e o máximo da pena em abstrato (termo médio).
+Portanto, entendo que deve ser reduzido o quantum aplicado para a vetorial, porquanto não foram apontados motivos que ensejem o aumento fora dos parâmetros jurisprudenciais.
+Este Tribunal têm adotado como parâmetro de aumento a fração de 1/8 (um oitavo) da diferença entre as penas mínima e máxima cominadas no tipo penal, visto que são oito as circunstâncias judiciais e que na primeira fase da dosimetria a reprimenda não pode ultrapassar os limites estabelecidos no preceito secundário do tipo incriminador.
+Dessa forma, reformo a sentença, de ofício, para redimensionar o aumento efetuado pela vetorial circunstâncias do crime para 1/8 da diferença entre as penas mínima e máxima cominadas no tipo penal (1 um ano, 1 mês e 15 dias), restando a pena-base fixada em 4 (quatro) anos, 01 (um) mês e 15 (quinze) dias de reclusão."
+Inicialmente, sobre o tema ora em debate, convém registrar que esta Corte tem assentado o entendimento de que a dosimetria da pena é atividade inserida no âmbito da atividade discricionária do julgador, atrelada às particularidades de cada caso concreto.
+Desse modo, cabe às instâncias ordinárias, a partir da apreciação das circunstâncias objetivas e subjetivas de cada crime, estabelecer a reprimenda que melhor se amolda à situação, admitindo-se revisão nesta instância apenas quando for constatada evidente desproporcionalidade entre o delito e a pena imposta, hipótese em que deverá haver reapreciação para a correção de eventual desacerto quanto ao cálculo das frações de aumento e de diminuição e a reavaliação das circunstâncias judiciais listadas no art. 59 do Código Penal.
+Ademais, especificamente sobre o critério numérico de aumento para cada circunstância judicial negativa, esta Corte Superior de justiça entende que "a análise das circunstâncias judiciais do art. 59 do Código Penal não atribui pesos absolutos para cada uma delas a ponto de ensejar uma operação aritmética dentro das penas máximas e mínimas cominadas ao delito  .. " (AgRg no REsp n. 143.071/AM, Sexta Turma, Relª. Minª. Maria Thereza de Assis Moura, DJe de 6/5/2015).
+Nesse contexto, portanto, a ponderação das circunstâncias judiciais não constitui mera operação aritmética, em que se atribuem pesos absolutos a cada uma delas, mas, sim, exercício de discricionariedade juridicamente fundamentada, devendo o juiz pautar-se pelo princípio da proporcionalidade e, também, pelo elementar senso de justiça.
+Precedentes: AgRg no HC n. 822.120/SC, Quinta Turma, Rel. Min. Messod Azulay Neto, DJe de 31/8/2023; e AgRg no AREsp n. 2.359.221/AL, Quinta Turma, Rel. Min. Reynaldo Soares da Fonseca, DJe de 22/8/2023.
+Ainda, certo é que não há direito subjetivo do réu à adoção de alguma fração de aumento específica para cada circunstância judicial negativa, seja ela de 1/6 (um sexto) sobre a pena-base, 1/8 (um oitavo) do intervalo entre as penas mínima e máxima ou mesmo outro valor.
+Em idêntico sentido: AgRg no HC n. 768.322/SP, Sexta Turma, Relª. Minª. Laurita Vaz, DJe de 30/8/2023; e AgRg no AREsp n. 2.365.825/SP, Quinta Turma, Rel. Min. Ribeiro Dantas, DJe de 28/8/2023.
+Fixadas as premissas acima e considerando a reprimenda prevista para o tipo penal do art. 289, §1º, do CP, verifico que, no caso, não comporta reparo o acórdão recorrido, porque o Tribunal de origem aumentou a pena-base em 1 (um) ano, 1 (um) mês e 15 (quinze) dias para a circunstância valorada negativamente, incremento que corresponde exatamente ao parâmetro de 1/8 (um oitavo) do intervalo entre as penas mínima e máxima.
+Verifico, portanto, que a definição do quantum de aumento da pena-base observou os princípios da proporcionalidade, razoabilidade, necessidade e suficiência à reprovação e prevenção ao crime, tendo em vista que a pena-base sofreu incremento em patamar amplamente permitido pela jurisprudência desta Corte Superior (1/8 do intervalo entre as penas máxima e mínima), de modo que não há reparos a serem realizados no acórdão impugnado.
+Dessa forma, estando o acórdão prolatado pelo Tribunal a quo em conformidade com o entendimento desta Corte de Justiça quanto ao tema, incide, no caso o enunciado da Súmula n. 568/STJ: "O relator, monocraticamente e no Superior Tribunal de Justiça, poderá dar ou negar provimento ao recurso quando houver entendimento dominante acerca do tema."
+Ante o exposto, com fulcro no art. 255, § 4º, inciso II, do Regimento Interno do STJ, nego provimento ao recurso especial.
+Publique-se. Intimem-se.
+ EMENTA
