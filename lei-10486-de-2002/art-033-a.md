@@ -1,0 +1,1 @@
+Art. 33-A. A contribuição de que trata o § 1º do art. 33 desta Lei será facultativa aos militares inativos do Distrito Federal e pensionistas militares, desde que residentes fora do Distrito Federal e a Corporação não proporcione a assistência médica, hospitalar e domiciliar adequada nos locais onde residam.
