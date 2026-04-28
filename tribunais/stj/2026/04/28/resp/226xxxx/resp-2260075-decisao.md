@@ -1,0 +1,72 @@
+DECISÃO
+Trata-se de recurso especial interposto pelo MINISTÉRIO PÚBLICO DO ESTADO DE MINAS GERAIS contra acórdão proferido pelo Tribunal de Justiça do Estado de Minas Gerais, assim ementado (fl. 358):
+APELAÇÃO CRIMINAL - FURTO QUALIFICADO - REPOUSO NOTURNO - INCOMPATIBILIDADE COM A FORMA QUALIFICADA DO CRIME -DECOTE NECESSÁRIO - DOSIMETRIA - REDUÇÃO DA PENA- BASE - CABIMENTO - CONTINUIDADE DELITIVA - RECONHECIMENTO - NECESSIDADE - REGIME FECHADO - MANUTENÇÃO - DETRAÇÃO PENAL - JUÍZO DA EXECUÇÃO
+- Não evidenciada a fixação desproporcional ou desarrazoada da pena- base à vista de uma circunstância judicial desfavorável, não há motivo para a pleiteada redução.
+- Deve ser reconhecida a continuidade delitiva, quando os delitos dolosos foram cometidos nas mesmas condições de tempo, lugar e modo de execução, em detrimento da regra do concurso material. Ademais, não se justifica a adoção dos rigores da continuidade delitiva específica, quando os fatos não destoam do inerente ao crime patrimonial cometido com violência ou grave ameaça em si.
+- Réu reincidente deve iniciar o cumprimento de pena no regime fechado. Inadequação da Súmula 269 do Superior Tribunal de Justiça.
+- A detração penal é matéria a ser examinada pelo juízo da execução.
+Consta dos autos que o recorrido foi condenado, em concurso material, às penas de 7 anos e 29 dias de reclusão, em regime inicial fechado, e 321 dias-multa, pela prática dos delitos previstos nos arts. 155, § 1º, e 155, § 4º, I e II, c/c o art. 69, todos do Código Penal.
+Na dosimetria, quanto ao furto simples, o Juízo de primeiro grau aplicou, na terceira fase, a causa de aumento relativa ao repouso noturno na fração de 1/3; no tocante ao furto qualificado, ausentes causas de aumento ou de diminuição, fixou a pena definitiva em 4 anos e 3 meses de reclusão e 182 dias-multa.
+Em sede de apelação, o Tribunal de origem deu parcial provimento ao recurso defensivo para reduzir as penas-base, reconhecer a continuidade delitiva entre os delitos e, de ofício, afastar a incidência da majorante do repouso noturno em relação a ambas as infrações, ao fundamento de que o entendimento firmado no Tema Repetitivo 1.087/STJ veda sua aplicação ao furto qualificado. Em consequência, a pena foi redimensionada para 2 anos e 11 meses de reclusão, em regime inicial fechado, e 14 dias-multa.
+No presente recurso especial, sustenta o Ministério Público a violação ao art. 155, § 1º, do Código Penal, ao argumento de que a tese firmada no Tema Repetitivo 1.087/STJ apenas afasta a incidência da majorante do repouso noturno nos casos de furto qualificado, sendo indevida sua exclusão também em relação ao furto simples, hipótese em que corretamente aplicada pelo Juízo sentenciante.
+Alega, ainda, ofensa aos arts. 315, § 2º, IV, e 619 ambos do Código de Processo Penal, sob o fundamento de que, instado por meio de embargos de declaração a se manifestar sobre a indevida aplicação do referido tema ao furto simples, o Tribunal de origem deixou de enfrentar a tese suscitada, limitando-se à rejeição genérica dos aclaratórios.
+Requer, ao final, o provimento do recurso especial para restabelecer a incidência da causa de aumento do repouso noturno em relação ao furto simples, nos termos da sentença, com fundamento na teoria da causa madura; subsidiariamente, pugna pela anulação do acórdão proferido nos embargos de declaração, com o retorno dos autos ao Tribunal de origem para novo julgamento.
+As contrarrazões foram apresentadas (fls. 423-434).
+O recurso foi admitido pela Corte de origem (fls. 439-442).
+O Ministério Público Federal manifestou-se pelo conhecimento e provimento do recurso especial para restabelecer a majorante prevista no art. 155, § 1º, do CP em relação ao crime de furto simples, nos termos da seguinte ementa (fl. 460):
+RECURSO ESPECIAL. PENAL E PROCESSUAL PENAL. FURTOS SIMPLES E QUALIFICADO PRATICADOS EM CONTINUIDADE DELITIVA. CONCLUSÃO DO TRIBUNAL ESTADUAL PELO AFASTAMENTO DA MAJORANTE DO ART. 155, § 1º, DO CP (PRÁTICA DO CRIME DURANTE O REPOUSO NOTURNO) PARA AMBOS OS CRIMES DE FURTO ANTE INCOMPATIBILIDADE DE SUA APLICAÇÃO COM A FIGURA QUALIFICADA DO DELITO (TEMA REPETITIVO 1087/STJ). FUNDAMENTO QUE NÃO AMPARA O AFASTAMENTO DA MAJORANTE PARA O CRIME DE FURTO SIMPLES. PARECER PELO CONHECIMENTO E PROVIMENTO DO RECURSO ESPECIAL PARA RESTABELECER A INCIDÊNCIA DA MAJORANTE DO ART. 155, § 1º, DO CP EM RELAÇÃO AO CRIME DE FURTO SIMPLES.
+É o relatório.
+DECIDO.
+O recurso especial foi interposto tempestivamente, encontra amparo no art. 105, III, a, da Constituição da República, e o recorrente apontou ofensa ao art. 155, § 1º, do Código Penal, ao argumento de que o Tribunal de origem afastou a incidência da causa de aumento do repouso noturno também em relação ao furto simples, mediante indevida extensão da tese firmada no Tema Repetitivo 1.087/STJ. A matéria objeto do recurso foi devidamente apreciada pelo Tribunal de origem e não exige reexame dos fatos e das provas, além de apresentar relevância das questões de direito federal infraconstitucional discutidas no caso (art. 105, § 3º, I, CF); e, por isso, estão presentes os requisitos recursais extrínsecos e intrínsecos legais e constitucionais. Portanto, conheço do recurso especial.
+A questão submetida ao exame desta Corte consiste em definir se, à luz do art. 155, § 1º, do Código Penal, é juridicamente correta a extensão da tese firmada no Tema Repetitivo 1.087/STJ ao crime de furto simples, para fins de afastamento da causa de aumento do repouso noturno, bem como se o acórdão recorrido, ao assim proceder, contrariou a interpretação desta Corte Superior.
+Acerca da controvérsia, consta da sentença (fls. 283-285):
+ ..
+DO CRIME DE FURTO NOTURNO
+ ..
+Na terceira etapa do sistema trifásico, pesa em desfavor do réu a causa de aumento de pena do §1º, do art. 155, do CP, razão pela qual aplico o aumento na fração de 1/3, ficando a pena definitivamente fixada em 02 (dois) anos, 09 (nove) meses e 29 (vinte e nove) dias de reclusão e 139 (cento e trinta e nove) dias-multa.
+DO CRIME DE FURTO QUALIFICADO
+ ..
+Na terceira etapa do sistema trifásico, inexistindo causas de diminuição ou de aumento de pena, fica a pena definitivamente fixada em 04 (quatro) anos e 03 (três) meses de reclusão e 182 (cento e oitenta e dois) dias-multa.
+ ..
+Já o acórdão recorrido encontra-se assim fundamentado (fls. 361-365):
+ ..
+- Do decote da majorante de repouso noturno
+Apesar de não ter sido alegado pela defesa, passo a analisar o decote da majorante prevista no artigo 155, §1º, do Código Penal, ainda que de ofício, por se tratar de situação mais benéfica ao acusado.
+Da análise da sentença, verifico que o réu, de fato, cometeu os 02 (dois) delitos durante o horário noturno e mediante escalada e arrombamento (o último tão somente no primeiro crime), sendo, a princípio, devida a incidência da majorante e das qualificadoras.
+Ocorre que, recentemente, o Superior Tribunal de Justiça, em sede de julgamento de recursos especiais repetitivos (Tema 1.087) estabeleceu que a causa de aumento de pena pela prática de furto no período noturno (artigo 155, parágrafo 1º, do Código Penal) não incide na forma qualificada do crime (artigo 155, parágrafo 4º, do Código Penal), conforme decisão in verbis:
+ ..
+Assim, e em observância ao mencionado precedente qualificado, decoto a majorante de repouso noturno dos 02 (dois) crimes de furto praticados.
+- Dosimetria
+Requer a defesa a redução da pena.
+A dosimetria da pena é questão atrelada à discricionariedade judicial, visto que o Código Penal não estabelece rígidos esquemas matemáticos ou regras absolutamente objetivas para a fixação, devendo ser observado, entretanto, o critério de proporcionalidade.
+DO CRIME DE FURTO NOTURNO
+Verifico que o magistrado sentenciante, negativando a culpabilidade, os antecedentes e a personalidade, a pena definitiva do acusado em 02 (dois) anos, 01 (um) mês e 15 (quinze) dias de reclusão e 139 (cento e trinta e nove) dias-multa.
+Assim fundamentou o juiz primevo:
+"(..).A culpabilidade extrapola o tipo penal, mormente porque o réu alegou ter praticado o crime para fins de adquirir substâncias entorpecentes, demonstrando completo desprezo pelo patrimônio alheio em detrimento da sua vontade. O réu possui maus antecedentes, registrando ao menos três condenações definitivas por crimes anteriores - CAC acostada ao Id. 10455579675, sendo que uma delas será utilizada para sopesar negativamente a circunstância ora analisada, enquanto as demais servirão para caracterizar a reincidência, descabendo se falar em bis in idem. (..) Quanto à personalidade, restou demonstrada nítida inclinação para as práticas delitivas, eis que, além de ostentar vasta ficha criminal, a maioria dos fatos são relacionados a crimes patrimoniais e tráfico ao longo de décadas, mesmo depois de ser imediatamente colocado em liberdade, decorrente de alvará de soltura em condenação criminal.. (..)
+Verifico que a r. sentença valeu-se da culpabilidade enquanto elemento integrante do conceito analítico de crime, que se subdivide em imputabilidade, potencial consciência da ilicitude e exigibilidade de conduta diversa.
+A presença desses pressupostos justifica a condenação criminal, e não o aumento de pena, visto que a culpabilidade, como circunstância judicial, refere-se a maior ou menor reprovação social da conduta praticada, levando-se em consideração, para tanto, as condições pessoais do réu, como sua formação moral, cultural e familiar.
+E, in casu, tenho que inexiste nos autos qualquer dado concreto que evidenciasse que o réu ultrapassou os limites esperados de reprovabilidade da conduta delitiva, razão pela qual a mencionada circunstância não deve ser considerada em seu desfavor.
+Em relação aos antecedentes, são de fato muito ruins, vide CACs de ordens 03, que atestam que o apelante ostenta 02 (duas) condenações criminais transitadas em julgado, sendo que uma foi utilizada na primeira fase para negativar os antecedentes e 01 (uma) na segunda fase para gerar a reincidência, o que se afigura correto.
+As consequências também são ruins, o acusado subtraiu uma quantia de R$14.830,00 em espécie, sendo que a vítima sofreu um prejuízo excessivo.
+Nesses termos, e havendo 01 (uma) circunstância judicial negativa (antecedentes), fixo a pena-base em 1 (um) ano, 1 (um) mês e 15 (quinze) dias de reclusão, e 11 dias-multa.
+Na segunda fase, incidem concomitantemente a agravante de reincidência e a atenuante da confissão espontânea, mantenho a pena intermediaria em 1 (um) ano, 1 (um) mês e 15 (quinze) dias de reclusão, e 11 dias-multa.
+Na terceira fase, ausentes causas de aumento ou diminuição, concretizo a reprimenda em1 (um) ano, 1 (um) mês e 15 (quinze) dias de reclusão, e 11 dias-multa.
+ ..
+Como se vê, o Tribunal de origem afastou a incidência da causa de aumento prevista no art. 155, § 1º, do Código Penal também em relação ao crime de furto simples, ao fundamento de aplicação do Tema Repetitivo n. 1.087/STJ, que, contudo, restringe-se à hipótese de furto qualificado. Não obstante, o Ministério Público sustenta a necessidade de restabelecimento da majorante quanto ao furto simples, sob o argumento de indevida extensão do entendimento firmado por esta Corte Superior, o que, de fato, se verifica na hipótese.
+Com efeito, o Superior Tribunal de Justiça firmou orientação no sentido de que a causa de aumento relativa ao repouso noturno é incompatível apenas com o furto qualificado, permanecendo plenamente aplicável ao furto simples, desde que demonstrado que o delito foi praticado durante o período noturno. Nesse sentido:
+PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO DE RECURSO ESPECIAL. FURTO QUALIFICADO. REPOUSO NOTURNO. VIOLAÇÃO AO ART. 68 DO CP. PREQUESTIONAMENTO. AGRAVO REGIMENTAL NÃO CONHECIDO. HABEAS CORPUS CONCEDIDO DE OFÍCIO.
+1. Não é possível conhecer o recurso especial quando o tema devolvido, relacionado à violação ao art. 68 do CP, não foi abordado na origem, o que gera o óbice da falta de prequestionamento.
+2. Todavia, impõe-se a concessão de habeas corpus de ofício, diante da flagrante ilegalidade no reconhecimento da majorante do repouso noturno.
+3. Consoante a recente decisão do tema repetitivo 1.087/STJ, a majorante do repouso noturno (art. 155, § 1º, do CP) é inaplicável ao furto qualificado.
+4. Agravo regimental não conhecido. Habeas corpus concedido, de ofício, para afastar a majorante do repouso noturno.
+(AgRg no AREsp n. 2.310.581/MG, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 22/8/2023, DJe de 28/8/2023.)
+No caso concreto, o Tribunal de origem, ao proceder à nova dosimetria da pena, fixou, quanto ao crime de furto simples, a reprimenda em 1 ano, 1 mês e 15 dias de reclusão e 11 dias-multa, afastando, na terceira fase, a incidência da majorante do repouso noturno.
+Ocorre que, reconhecida a prática do delito durante o período noturno, circunstância expressamente consignada no acórdão recorrido, impõe-se o restabelecimento da causa de aumento prevista no art. 155, § 1º, do Código Penal, na fração de 1/3.
+Restabelecida a incidência da majorante prevista no art. 155, § 1º, do Código Penal, na fração de 1/3, a reprimenda do referido delito passa para 1 ano, 5 meses e 20 dias de reclusão.
+Todavia, mantido o reconhecimento da continuidade delitiva, nos termos do art. 71 do Código Penal, e considerando que o Tribunal de origem adotou como base a pena do crime mais grave, a exasperação de 1/6 conduz à pena final de 2 anos e 11 meses de reclusão, além de 14 dias-multa.
+Desse modo, embora configurada a violação ao art. 155, § 1º, do Código Penal, o restabelecimento da majorante em relação ao furto simples não implica alteração do quantum final da pena, devendo ser mantido o resultado da dosimetria fixado pelo acórdão recorrido.
+Por fim, fica prejudicada a análise da alegada violação aos arts. 315, § 2º, IV, e 619 do Código de Processo Penal, diante do provimento do recurso especial quanto à tese principal.
+Ante o exposto, com fundamento no art. 255, § 4º, III, do Regimento Interno do Superior Tribunal de Justiça, dou provimento ao recurso especial para reconhecer a violação ao art. 155, § 1º, do Código Penal e restabelecer a incidência da causa de aumento relativa ao repouso noturno em relação ao crime de furto simples, sem, contudo, alteração do quantum final da pena, mantida a reprimenda fixada pelo Tribunal de origem em 2 anos e 11 meses de reclusão, em regime inicial fechado, e 14 dias-multa.
+Publique-se.
+Intimem-se.
+EMENTA
