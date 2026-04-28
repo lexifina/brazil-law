@@ -1,0 +1,21 @@
+DECISÃO
+Cuida-se de Embargos de Declaração opostos por CONDOMINIO DO EDIFICIO GALENO à decisão de fls. 1398/1399, que não conheceu do recurso.
+Sustenta a parte embargante:
+2 - Inicialmente deve ser anotado, que a r. decisão que reformou a sentença de primeiro grau, ou seja, analisou a apelação, foi proferida de forma monocrática pelo então Relator, não tendo o embargante outra alternativa a não ser a interposição de Agravo Interno, para que fosse a matéria em discussão levada para o Colegiado da 19ª Câmara de Direito Privado.
+3 - Interposto o Agravo Interno que se fazia necessário, para a reforma da decisão monocrática do relator, que reformou a sentença do juízo de poiso, onde era intentado que este julgado fosse após analise, confirmada ou reformada pelo Eg. Colegiado da Erg. 19ª Câmara de Direito Privado, mais uma vez o i. Relator designado, inadmitiu o Agravo Interno, deixando toda a matéria sem ser analisada e julgada pelos membros que compõem o Colegiado.
+4 - Diante da recusa do relator que no dia 24/03/25 julgou de forma monocrática a Apelação; dia 21/08/25, de forma também monocrática não conheceu do Agravo Interno, interposto contra sua decisão, não restou outra saída para o embargante, senão adentrar com o recurso Especial em testilha.
+5 - Assim, face a omissão do julgado que não reconheceu que o embargante esgotou todos os recursos cabíveis contra as decisões monocráticas do i. relator da 19ª Câmara de Direito Privado do Tribunal de Justiça do Rio de Janeiro, vem requerer que seja feita a correção para que fique anotado no julgado, que foram interpostos pelo embargante, os recursos que se faziam necessários, para a matéria ser julgada pelo colegiado ad quo, face ter sido tempestivamente interpostos contra as decisões do dito relator, todos os recursos, tal qual Agravo Interno que ao ser conhecido, também monocraticamente, suscitou a interposição do Especial ao qual se pretende que seja julgado por este E. Tribunal (fls. 1402/1403).
+Requer o conhecimento e acolhimento dos Embargos Declaratórios para que seja sanado o vício apontado.
+A parte embargada foi devidamente intimada para contra-arrazoar estes aclaratórios.
+É o relatório.
+Decido.
+Nos termos do art. 1.022 do Código de Processo Civil, os Embargos de Declaração destinam-se a esclarecer obscuridade, eliminar contradição, suprir omissão e corrigir erro material eventualmente existentes no julgado, o que não se verifica na hipótese.
+O STJ, com base na Súmula n. 281 do STF, aplicável também aos recursos especiais, pacificou o entendimento de que é necessário que a parte interponha todos os recursos ordinários no Tribunal a quo antes de buscar a instância especial, ou seja, a apresentação de Recurso Especial pressupõe o julgamento de questão controvertida pelo órgão colegiado de origem, o que não ocorreu no caso.
+Confiram-se os seguintes precedentes: AgInt nos EDcl no AREsp 1571531/SC, Rel. Ministro Og Fernandes, Segunda Turma, DJe de 20.5.2020; AgInt no AREsp 879.030/RO, Rel. Ministro Raul Araújo, Quarta Turma, DJe de 25.5.2020; e AgInt no AREsp 1591427/RS, Rel. Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 8.5.2020.
+No caso, a parte interpôs Recurso Especial diretamente contra decisão monocrática (fls. 1165/1171 ), sem o necessário exaurimento de instância.
+Por fim, a pretensão de rediscutir matéria devidamente abordada e decidida no decisum embargado evidencia mera insatisfação com o resultado do julgamento, não sendo a via eleita apropriada para tanto. Nesse sentido: EDcl no AgInt nos EDcl nos EAREsp 1202915/SP, Rel. Ministro Herman Benjamin, Corte Especial, DJe de 28.8.2019.
+Assim, não há irregularidade sanável por meio dos presentes embargos, porquanto toda a matéria submetida à apreciação do STJ foi julgada, não havendo, na decisão embargada, os vícios que autorizariam a utilização do recurso - obscuridade, contradição, omissão ou erro material.
+Ante o exposto, rejeito os Embargos de Declaração e advirto a parte embargante de que a reiteração deste expediente ensejará o pagamento de multa de 2% sobre o valor atualizado da causa, porque os próximos embargos que tratem do mesmo assunto serão considerados manifestamente protelatórios (art. 1.026, § 2º, do CPC).
+Publique-se.
+Intimem-se.
+ EMENTA
