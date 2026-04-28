@@ -1,0 +1,49 @@
+DECISÃO:
+Trata-se de recurso extraordinário com agravo contra decisão de inadmissão do recurso extraordinário.
+O recurso foi interposto com fundamento na alínea "a" do permissivo constitucional.
+O acórdão recorrido  ficou assim ementado:
+
+APELAÇÃO CÍVEL. MANDADO DE SEGURANÇA. ISSQN. FATO GERADOR. PRESTAÇAO DO SERVIÇO. CONCESSÃO DA SEGURANÇA. IRRESIGNAÇÃO DO MUNICÍPIO DO RIO DE JANEIRO.
+1. Trata-se de mandado de segurança com pedido liminar visando ao afastamento da exigência de ISS em relação aos valores adiantados nos casos em que os contratos de prestação de serviços educacionais são pagos antecipadamente por seu valor anual. Sustenta a impetrante que, em razão de suas atividades como instituição de ensino, recolhe ISS sobre o valor do serviço prestado, que pode ocorrer mensalmente ou anualmente. Afirma que na modalidade de pagamento anual, o pagamento ocorre antecipadamente pelo tomador do serviço. Assevera que a Fazenda Pública Municipal deve adotar o regime de competência para tributar no momento do fato gerador, isto é no momento da prestação do serviço, e não a data do pagamento do preço como vem ocorrendo, em desconformidade com a LC 116/03;
+2. Por sua vez, o Município do Rio de Janeiro alega o descabimento da via eleita, sendo impositiva a denegação da segurança, nos termos do art. 485, VI, do CPC e do art. 6º, § 5º, da Lei nº 12.016/2009. No mérito, sustenta a legitimidade do recolhimento do tributo ISS em estrita consonância com a redação do art. 45 da Lei nº 691/1984 (Código Tributário do Município). Ressalta que o desconto condicional concedido pela antecipação do pagamento deve integrar a base de cálculo, independentemente de ser emitida uma ou várias notas fiscais;
+3. De início afasta-se a alegação de inadequação da via eleita, posto que comprovado a incidência do ato combatido, qual seja as reiteradas cobranças do ISSQN, de forma antecipada, como se vê dos documentos acostados pelo impetrante às fls. 43 a 60. Diante de tal circunstância não há falar que o impetrante utiliza o procedimento como meio de insurgência contra lei em tese, mas sim em impetração visando obstar lesão a direito;
+4. Superada a preliminar arguida, passa-se à análise do mérito: De acordo com o artigo 1° da LC 116/2003, o Imposto Sobre Serviços de Qualquer Natureza, de competência dos Municípios e do Distrito Federal, tem como fato gerador a prestação de serviços constantes da lista anexa à mesma lei, ainda que esses não se constituam como atividade preponderante do prestador;
+5. Outrossim, o artigo 3° da referida lei complementar dispõe que o serviço considera- se prestado, e o imposto, devido, no local do estabelecimento prestador ou, na falta do estabelecimento, no local do domicílio do prestador, exceto nas hipóteses previstas nos incisos I a XXV, quando o imposto será devido no local;
+6. De igual modo, o artigo 8º do Código Tributário do Município do Rio de Janeiro, Lei nº 691/84: Art. 8º O Imposto sobre Serviços de Qualquer Natureza tem como fato gerador a prestação dos serviços constantes da lista a seguir;
+7. Desta maneira, o ISS possui como fato gerador a efetiva prestação de serviços que constam da lista anexa à LC 116/03, não podendo sobre tal lei complementar prevalecer o entendimento do fisco municipal, lastreado no artigo 45 do Código Tributário do Município do Rio de Janeiro, quanto a cobrança antecipada de ISS em relação a serviços ainda não prestados;
+8. Imposto sobre serviços de qualquer natureza que tem como fato gerador a efetiva prestação do serviço e não o adimplemento da obrigação;
+9. Impetrante que presta serviços educacionais de forma continuada, portanto o fato gerador do imposto somente se verifica com a efetiva e periódica prestação do serviço contratado, independentemente da data do seu adimplemento;
+10. Na hipótese, o pagamento antecipado do contrato, não assegura a efetiva prestação do serviço, haja vista que inúmeras circunstâncias podem levar à ausência do serviço, ou sua prestação de forma parcial (desistência, transferência do aluno, mudança de endereço, inadaptação à instituição), situação fática que poderá, eventualmente, ensejar a devolução dos valores já adimplidos pelo tomador;
+11. Quanto ao estabelecido no art. 45 do Código Tributário Municipal, de fato, deve o contribuinte recolher o imposto sobre os valores, ainda que recebidos antecipadamente, pela prestação de serviço, todavia, o momento de sua exigência é que deve estar alinhado à natureza jurídica do fato gerador do ISSQN, cuja previsão expressa está firmada na Lei de Regência (artigo 1º da L. C. 116/2003) que considera o momento da prestação dos serviços, em detrimento do adimplemento por parte do contratante;
+12. Reprise-se, assim, que não há que se cogitar da inaplicabilidade do artigo 45 do CTM, todavia, na “lacuna” quanto ao tempo do recolhimento do imposto devido, por antecipação do pagamento, utiliza-se o texto da Lei Complementar nº 116/2003, posto que, a citada Lei, expressamente, prevê que o momento do pagamento é a ocorrência do fato gerador, atendendo-se assim a parte final do referido artigo da Lei Municipal que dispõe que caberá ao Poder Executivo determinar a forma de cobrança do referido tributo. Destaca-se que a Lei Complementar nº 116/2003 tem abrangência em todo o território nacional;
+13. “O aplicador da lei tributária deve se interessar apenas pela existência de efetiva prestação de serviços e pelo preço cobrado. Se houve lucro ou se o serviço foi pago - são questões alheias à tributação do ISS” (Resp. 189227/SP);
+14. Deveras, entendo irrelevante a existência de circunstâncias facilitadoras ou simplificadoras do pagamento do serviço, eis que, diante da ocorrência do fato gerador (prestação do serviço) o contribuinte estará obrigado a recolher o tributo, também, nas hipóteses de inadimplemento do tomador do serviço, reafirmando que o adimplemento da exação está desvinculado do resultado financeiro obtido;
+15. Vale dizer, portanto, que, para fazer nascer a obrigação de recolher o ISSQN, basta que tenha ocorrido a prestação dos serviços, sendo irrelevante o momento em que o tomador fará o pagamento.
+16. Assim, cristalina a relevância da fundamentação levantada pela impetrante, reproduzida no art. 1º da Lei Complementar 116/03;
+17. Por oportuno, cito trecho do parecer da Ilustre Procuradora de Justiça, que elucida a situação em análise: “(...) O dispositivo determina, portanto, que para ocorrer a cobrança do ISSQN faz-se necessária a hipótese de incidência do imposto, qual seja, a efetiva prestação de serviços constantes da lista de serviços anexa à Lei Complementar. In casu, o fato gerador é consumado com a prestação de serviços educacionais, o que não se pode confundir com o pagamento antecipado, pelo tomador, de serviços ainda não executados (...)”.
+18. Entendo que restou configurado o direito líquido e certo, eis que o conjunto é suficiente para demonstrar o direito pleiteado pelo demandante;
+19. Recurso conhecido e desprovido.
+
+Opostos os embargos de declaração, foram rejeitados.
+No recurso extraordinário sustenta-se violação do(s) art.(s) 97 da Constituição Federal.
+Decido.
+Analisados os autos, não há que se falar em inobservância da cláusula de reserva de plenário, pois o Tribunal de origem não declarou a inconstitucionalidade de norma legal ou afastou sua aplicação sem observância do art. 97 da Constituição Federal, mas apenas interpretou norma infraconstitucional que disciplina a matéria. Nesse sentido, menciono os seguintes precedentes:
+
+“AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. ADMINISTRATIVO. GRATIFICAÇÃO DE RISCO DE POLICIAMENTO OSTENSIVO. LEI COMPLEMENTAR ESTADUAL 59/2004. EXTENSÃO AOS INATIVOS E PENSIONISTAS. REEXAME DE INTERPRETAÇÃO DE NORMAS INFRACONSTITUCIONAIS LOCAIS. OFENSA REFLEXA. SÚMULA 280 DO STF. RESERVA DE PLENÁRIO. VIOLAÇÃO AO ART. 97 DA CONSTITUIÇÃO FEDERAL. INEXISTÊNCIA. AGRAVO A QUE SE NEGA PROVIMENTO.
+I - A verificação da alegada ofensa ao texto constitucional envolve o reexame da interpretação dada pelo juízo a quo à legislação infraconstitucional local aplicável ao caso (Lei Complementar estadual 59/2004). A afronta à Constituição, se ocorrente, seria indireta. Incidência da Súmula 280 do STF. Precedentes.
+II - Não há violação ao princípio da reserva de plenário quando o acórdão recorrido apenas interpreta norma infraconstitucional, sem declará-la inconstitucional ou afastar sua aplicação com apoio em fundamentos extraídos da Lei Maior.
+III - Agravo regimental a que se nega provimento.”(ARE 784.179-AgR, Segunda Turma, Rel. Min. Ricardo Lewandowski, DJe de 17/02/2014)
+
+“AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO COM AGRAVO. CARTEIRA NACIONAL DE HABILITAÇÃO. INFRAÇÃO ADMINISTRATIVA. EXPEDIÇÃO DA CNH. INTERPRETAÇÃO DO CÓDIGO DE TRÂNSITO BRASILEIRO. ART. 97 DA CF/88 E SÚMULA VINCULANTE Nº 10. AUSÊNCIA DE VIOLAÇÃO. PRECEDENTES.
+A jurisprudência do Supremo Tribunal Federal é firme no sentido de que não há violação ao princípio da reserva de plenário quando o acórdão recorrido apenas interpreta norma infraconstitucional, sem declará-la inconstitucional, ou afasta sua aplicação com apoio em fundamentos extraídos da Constituição Federal. Precedentes.
+Ausência de argumentos capazes de infirmar a decisão agravada.
+Agravo regimental a que se nega provimento.”(ARE 767.313-AgR, Primeira Turma, Rel. Min. Luís Roberto Barroso, DJe de 26/03/2015)
+
+Ante o exposto, nego seguimento ao recurso (alínea c do inciso V do art. 13 do Regimento Interno do Supremo Tribunal Federal).
+Havendo prévia fixação de honorários advocatícios pelas instâncias de origem, seu valor monetário será majorado em 10% (dez por cento) em desfavor da parte recorrente, nos termos do art. 85, § 11, do Código de Processo Civil, observado os limites dos §§ 2º e 3º do referido artigo e a eventual concessão de justiça gratuita.
+Publique-se.
+Brasília, 28 de abril de 2026.
+
+Ministro EDSON FACHIN
+Presidente
+Documento assinado digitalmente
