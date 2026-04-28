@@ -1,0 +1,1 @@
+Art. 11-A. A matrícula no Curso de Formação de Oficiais, bem como o ingresso na carreira de Oficial do Quadro de Oficiais Policiais Militares (QOPM), é privativa dos portadores de diploma de bacharel em Direito.
