@@ -1,0 +1,53 @@
+DECISÃO
+Trata-se de recurso em habeas corpus, com pedido liminar, interposto por LUIQUE DA PAIXAO DE JESUS SANTOS, em que se aponta como autoridade coatora o Tribunal de Justiça do Estado do Pará.
+Consta dos autos que o recorrente foi condenado definitivamente à pena de 7 anos de reclusão, em regime fechado, mais pagamento de 700 dias-multa, como incurso no art. 33, caput, da Lei n. 11.343/2006.
+A defesa impetrou prévio writ no Tribunal de origem, que não o conheceu.
+Nesta Corte, alega o recorrente que a reincidência e meras presunções acerca da habitualidade delitiva não constituem elementos concretos para afastar o redutor do tráfico privilegiado, assim como que a ínfima quantidade de entorpecente apreendido é insuficiente para justificar a exasperação da pena-base.
+Requer, assim, a redução da sanção inicial ao mínimo legal, a incidência da minorante do art. 33, § 4º, da Lei n. 11.343/2006, na fração máxima, a fixação do modo prisional mais brando e a substituição da pena privativa de liberdade por restritivas de direitos.
+É o relatório.
+Decido.
+O recurso não comporta provimento.
+A Corte de origem não conheceu do writ com base nos seguintes fundamentos:
+"A ordem não comporta conhecimento.
+A impetração volta-se exclusivamente contra a dosimetria da pena fixada na sentença penal condenatória, questionando, como visto, a valoração das circunstâncias judiciais, a alegada utilização de fundamentação genérica para exasperação da pena-base e o afastamento da causa de diminuição prevista no art. 33, §4º, da Lei nº 11.343/2006.
+Todavia, de início, impõe-se reconhecer a inadequação da via eleita.
+O habeas corpus, nos termos do art. 5º, LXVIII, da Constituição Federal, destina-se à proteção da liberdade de locomoção contra ilegalidade ou abuso de poder, possuindo rito célere e cognição sumária, incompatíveis com o reexame aprofundado de matéria fático-probatória ou com a revisão ampla de critérios de dosimetria penal.
+A jurisprudência é absolutamente consolidada no sentido de que a revisão da dosimetria da pena em sede de habeas corpus somente se admite em hipóteses excepcionalíssimas, quando verificada flagrante ilegalidade, teratologia, ausência absoluta de fundamentação ou violação direta e inequívoca a dispositivo legal.
+ ..
+Fora dessas hipóteses restritas, a matéria deve ser deduzida pelas vias ordinárias próprias, sob pena de indevida supressão de instância e desvirtuamento da ação constitucional.
+De acordo com a sentença condenatória (ID 100430707), o paciente é reincidente específico, pois condenação anterior nos autos da Ação Penal nº 8013399-39.2021.8.05.0250, razão pela qual houve afastamento do tráfico privilegiado, em razão da reincidência e de indícios de dedicação a atividades criminosas.
+Ressaltou-se, ainda, que o paciente havia progredido ao regime aberto em processo anterior, circunstância que reforça sua reiteração delitiva.
+No caso concreto, contudo, não se evidencia, de plano, qualquer ilegalidade manifesta apta a autorizar a mitigação dessa orientação restritiva.
+Ao revés, o que se observa é que a defesa pretende rediscutir a análise das circunstâncias judiciais do art. 59 do Código Penal, o juízo valorativo acerca da quantidade de droga apreendida e a conclusão judicial quanto à não incidência da minorante do tráfico privilegiado.
+Tais temas demandam, inevitavelmente, incursão no conjunto probatório, reavaliação de elementos concretos da causa e substituição do juízo valorativo do magistrado sentenciante.
+Essa providência mostra-se absolutamente incompatível com a via estreita do habeas corpus.
+No ponto específico da pena-base, a alegação de fundamentação genérica não se sustenta em juízo de cognição sumária, uma vez que, conforme as informações prestadas pela autoridade coatora, a exasperação da reprimenda esteve lastreada em elementos concretos, notadamente, a quantidade de droga apreendida (noventa e nove pinos de cocaína), o que constitui vetor idôneo para valoração negativa das circunstâncias judiciais, especialmente no âmbito do crime de tráfico de entorpecentes.
+No que concerne ao afastamento da causa de diminuição prevista no art. 33, §4º, da Lei de Drogas, igualmente não se verifica ilegalidade flagrante.
+Isso porque o juízo de origem fundamentou a não incidência da minorante em dois elementos juridicamente relevantes, quais sejam reincidência específica do paciente e existência de indícios de dedicação a atividades criminosas.
+ ..
+A reincidência, sobretudo específica, constitui óbice suficiente à incidência do tráfico privilegiado.
+A dedicação a atividades criminosas pode ser inferida a partir de elementos concretos dos autos, não se exigindo prova cabal de habitualidade delitiva.
+Ademais, o histórico do paciente reforça a correção do juízo sentenciante.
+Conforme consignado nas informações, o paciente possui condenação anterior na Ação Penal nº 8013399-39.2021.8.05.0250 e encontrava-se em execução penal, tendo progredido ao regime aberto em fevereiro de 2025, voltando a delinquir em dezembro do mesmo ano.
+Tal contexto evidencia, com nitidez, reiteração delitiva e fragiliza qualquer alegação de não dedicação à atividade criminosa, justificando, de forma idônea, o afastamento do benefício legal.
+Outro aspecto relevante diz respeito ao fato de que a condenação transitou em julgado em 03/03/2026.
+Essa circunstância reforça, ainda mais, a inadequação da via eleita, uma vez que o habeas corpus não pode ser utilizado como sucedâneo de revisão criminal ou de outros instrumentos processuais próprios à impugnação de decisão definitiva, salvo em situações de manifesta ilegalidade, o que, como visto, não se verifica.
+Cumpre salientar, ainda, que a pretensão defensiva, ao buscar o redimensionamento da pena "em todas as suas fases", evidencia a intenção de promover verdadeira revisão da sentença condenatória, o que extrapola, de forma evidente, os limites cognitivos do habeas corpus.
+Não se pode admitir que a ação constitucional seja utilizada como atalho processual para reexame de matéria já definitivamente apreciada pelo juízo competente, sob pena de esvaziamento do sistema recursal e violação ao princípio da segurança jurídica.
+Assim, à luz de todo o contexto delineado, conclui-se que não há ilegalidade manifesta, não há teratologia ou ausência de fundamentação e que e a pretensão deduzida demanda revolvimento probatório incompatível com a via eleita.
+Diante disso, impõe-se o reconhecimento da inadequação do habeas corpus, com o consequente não conhecimento da ordem" (e-STJ, fls. 261-264)
+Na hipótese, conforme se verifica do excerto, a Corte de origem não conheceu validamente do habeas corpus por não ser a via adequada para debater questões relativas à sentença condenatória transitada em julgado, as quais devem ser suscitadas pelas vias ordinárias próprias.
+Salientou, ademais, não ter verificado flagrante ilegalidade na dosimetria penal, apta a ensejar a concessão da ordem, de ofício , haja vista que a pena-base foi exasperada fundamentadamente na quantidade o entorpecente apreendido, bem como que o redutor do tráfico privilegiado foi afastado pelo não preenchimento dos requisitos previstos no art. 33, § 4º, da Lei n. 11.343/2006, por ser o réu reincidente.
+Como cediço, nos termos do art. 621 do Código de Processo Penal, poderá ser rescindida sentença condenatória: I) se for contrária ao texto expresso da lei penal ou à evidência dos autos; II) que se fundar em depoimentos, exames ou documentos comprovadamente falsos; III) quando, após a sentença, se descobrirem novas provas de inocência do condenado ou de circunstância que determine ou autorize diminuição especial da pena. Por certo, tal elemento probatório deverá ser apreciado pelo Colegiado de origem, no bojo de revisão criminal, não sendo admissível que este Superior Tribunal de Justiça possa sobre ele se manifestar, notadamente em sede de writ, sob pena de supressão de instância e de indevida subversão das normas de processo penal.
+"PROCESSO PENAL. AGRAVO REGIMENTAL DA DECISÃO QUE INDEFERIU LIMINARMENTE O PROCESSAMENTO DO HABEAS CORPUS. AÇÃO PENAL TRANSITADA EM JULGADO. HABEAS CORPUS SUBSTITUTIVO DE REVISÃO CRIMINAL. INEXISTÊNCIA DE MANIFESTAÇÃO DAS INSTÂNCIAS ORDINÁRIAS. AUSÊNCIA DE ILEGALIDADE FLAGRANTE. INCOMPETÊNCIA NÃO RECONHECIDA. SUPRESSÃO DE INSTÂNCIA. AGRAVO REGIMENTAL DESPROVIDO.
+I. No presente habeas corpus, sustenta-se a incompetência absoluta do Juízo da 13ª Vara Federal de Curitiba/PR para processar e julgar a Ação Penal n. 5026212-82.2014.4.04.7000, transitada em julgado em 22/8/2017. A decisão impugnada pelo impetrante é o acórdão da 8ª Turma do e. Tribunal Regional Federal da 4ª Região que, em 29/11/2016, por maioria, negou provimento à apelação do recorrente e, de ofício, concedeu ordem de habeas corpus para aplicar a atenuante do art. 65, I, do CP em relação a ele.
+II - A Ação Penal n. 5026212-82.2014.4.04.7000 não se incluiu entre os feitos para cujo processo e julgamento o Juízo da 13ª Vara Federal de Curitiba/PR declarou-se incompetente, sobretudo porque a ação penal transitou em julgado em 2017 e está em fase de execução definitiva das penas.
+III - Diferentemente do que sustenta o agravante, a c. Suprema Corte, instada a deliberar sobre a extensão da competência do Juízo da 13ª Vara Federal de Curitiba/PR para processar e julgar as ações penais e os procedimentos reunidos sob a denominação de "Operação Lava Jato", firmou o entendimento de que sua competência por prevenção restringe-se aos crimes praticados em detrimento da Petróleo Brasileiro S. A. (Petrobras), mas jamais declarou sua incompetência para o processo e julgamento de todo e qualquer feito oriundo daquela Operação.
+IV - A via do habeas corpus, que é de cognição estreita e não admite dilação probatória, não se presta ao exame da tese de incompetência quando o processo de conhecimento já transitou em julgado há cerca de 5 (cinco) anos, especialmente quando os argumentos apresentados, à primeira vista, sequer foram suscitados durante o trâmite regular do processo.
+V - Não há fato novo ou urgente que justifique a presente impetração. Considerando o recorrente que a sentença condenatória transitada em julgado é contrária ao texto expresso da lei penal, no que se refere ao tema competência, deve ajuizar a revisão criminal, na forma do art. 621, I, do Código de Processo Penal, instrumento processual adequado para apreciar a matéria.
+Agravo regimental desprovido."
+(AgRg no HC n. 727.221/PR, relator Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), Quinta Turma, julgado em 19/4/2022, DJe de 10/5/2022.)
+Ante o exposto, nego provimento ao recurso em habeas corpus.
+Cientifique-se o Ministério Público Federal.
+Publique-se. Intimem-se.
+EMENTA
