@@ -1,0 +1,29 @@
+DECISÃO
+Cuida-se de Habeas Corpus impetrado em favor de HUDSON DOS SANTOS CONTIERO em que se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO (Habeas Corpus n. 2065409-76.2026.8.26.0000 ).
+Consta dos autos a prisão temporária do paciente, posteriormente convertida em custódia preventiva, decorrente de suposta prática do delito capitulado no art. 35, caput, da Lei 11.343/06.
+Alegam os impetrantes a ocorrência de constrangimento ilegal decorrente da decisão monocrática que negou conhecimento ao writ impetrado na origem.
+Sustenta que a segregação processual do paciente encontra-se despida de fundamentação idônea, por se apoiar em gravidade abstrata, menções genéricas aos requisitos do art. 312 e na reincidência, sem indicação de elementos concretos contemporâneos do periculum libertatis.
+Argumentam que houve detenção ilegal e condução coercitiva do paciente à delegacia antes da decretação da prisão temporária, com registro de permanência sem amparo judicial, o que torna nulos os atos subsequentes.
+Destacam que as imagens coletadas no posto de combustíveis foram obtidas sem ordem judicial e com quebra da cadeia de custódia, não podendo servir como suporte probatório para a prisão ou para a denúncia.
+Expõem que não há indícios suficientes de autoria e materialidade em relação ao paciente, pois não houve contato com os corréus, participação na entrega do entorpecente ou vínculo com o veículo apreendido, sendo indevida a imputação por mera presença no local dos fatos.
+Afirmam que é cabível a extensão da liberdade concedida ao corréu Carlos, por força do art. 580 do CPP, dada a identidade fático-processual e a menor gravidade relativa da situação do paciente.
+Ressaltam que a presunção de reiteração delitiva, utilizada para justificar a prisão, configura antecipação de pena.
+Defendem que se revelam adequadas e suficientes medidas cautelares alternativas, e que o juízo não explicitou os motivos para a não aplicação das medidas cautelares diversas da prisão previstas no art. 319 do CPP.
+Requerem, liminarmente e no mérito, a revogação da prisão cautelar, ainda que mediante a aplicação de medidas cautelares alternativas não prisionais .
+É o relatório.
+Decido.
+O writ não merece prosperar.
+A decisão combatida foi proferida monocraticamente pelo Desembargador relator na origem, não havendo, pois, deliberação colegiada do Tribunal a quo sobre a matéria trazida na presente impetração, o que inviabiliza o seu conhecimento por esta Corte Superior devido à ausência de exaurimento de instância.
+Nesse sentido, confiram-se os seguintes julgados:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. INTERPOSIÇÃO DE DOIS RECURSOS. PRINCÍPIO DA UNIRRECORRIBILIDADE E DA PRECLUSÃO CONSUMATIVA. INVIABILIDADE DE ANÁLISE DO ÚLTIMO. TRÁFICO ILÍCITO DE ENTORPECENTES. WRIT CONTRA DECISÃO MONOCRÁTICA. QUESTÃO NÃO APRECIADA PELO TRIBUNAL DE ORIGEM. SUPRESSÃO DE INSTÂNCIA. NECESSIDADE DE INTERPOSIÇÃO DE AGRAVO REGIMENTAL. AGRAVO REGIMENTAL DESPROVIDO.
+ ..
+2. Não é cabível a impetração de habeas corpus contra decisão monocrática de desembargador, sendo necessária a interposição de recurso para submissão do decisum ao colegiado competente a fim de que ocorra o exaurimento de instância (art. 105, II, a, da Constituição Federal).
+ ..  (AgRg no HC n. 743.582/SP, Rel. Ministro João Otávio de Noronha, Quinta Turma, DJe de 17.6.2022.)
+EMBARGOS DE DECLARAÇÃO NO RECURSO EM HABEAS CORPUS RECEBIDOS COMO AGRAVO REGIMENTAL. PRINCÍPIO DA FUNGIBILIDADE. WRIT IMPETRADO CONTRA DECISÃO MONOCRÁTICA. NÃO CABIMENTO.
+1. Esta Corte entende que não é cabível a impetração do writ contra decisão monocrática proferida pelo Tribunal de origem, tendo em vista ser necessária a interposição do recurso adequado para a submissão do respectivo decisum ao colegiado daquele Tribunal, de modo a exaurir referida instância. Precedentes do STJ.
+2. Embargos de declaração recebidos como agravo regimental, ao qual se nega provimento. (EDcl no RHC n. 160.065/PE, Rel. Ministro Olindo Menezes (Desembargador Convocado do TRF 1ª Região), Sexta Turma, DJe de 11.3.2022.)
+Ante o exposto, com fundamento no art. 21-E, IV, c/c o art. 210, ambos do RISTJ, indefiro liminarmente o presente Habeas Corpus.
+Cientifique-se o Ministério Público Federal.
+Publique-se.
+Intimem-se.
+ EMENTA
