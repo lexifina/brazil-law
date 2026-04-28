@@ -1,0 +1,1 @@
+Art. 50-A. O Sistema de Proteção Social dos Militares do Distrito Federal constitui um conjunto integrado de direitos, serviços e ações permanentes e interativas, abrangendo remuneração, pensão, saúde e assistência, conforme disposto nesta Lei e nas regulamentações específicas.
