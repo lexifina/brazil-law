@@ -1,0 +1,16 @@
+DECISÃO
+Trata-se de agravo manejado por ALEXSANDRA DOS SANTOS, desafiando decisão do TRIBUNAL DE JUSTIÇA DO ESTADO DE PERNAMBUCO, que não admitiu recurso especial com base no óbice da Súmula 7/STJ, nos seguintes termos (fls. 296/297):
+2) Aplicação do enunciado nº 7 do STJ. Observo, outrossim, que o órgão fracionário deste Tribunal conferiu resolução à lide com base na análise dos fatos e provas coligidos aos autos, bem assim na interpretação de cláusula contratual, o que encontra óbice no enunciado 7 da Súmula do STJ, o qual estabelece: "A pretensão de simples reexame de prova não enseja Recurso Especial".
+ ..
+Não resta dúvidas que a 6ª Câmara Cível se debruçou sobre a matéria guerreada, baseando sua decisão na análise do fato concreto, observando a legislação vigente, jurisprudência do Tribunal Superior, conclusão feita após observar as provas carreadas aos autos do processo. Evidencia-se a busca do Recorrente por uma terceira instância, por não se encontrar satisfeito com o resultado obtido.
+É notório que a reanálise de tais questões demandaria uma nova apreciação de aspectos de caráter fático- probatório já exaustivamente analisados e discutidos pelo órgão julgador, desígnio do qual não se cogita em sede de recurso especial.
+Nas razões do agravo, a parte agravante alega, em síntese, que: "a análise do caso não se resume a uma simples revisão fático-probatória, mas sim à correta aplicação e interpretação da legislação federal e de precedente vinculante desta Colenda Corte, nos termos do art. 489, § 1º do CPC. A controvérsia central reside na valoração jurídica das provas já constantes nos autos, especialmente no que tange à observância do devido processo legal administrativo pela concessionária. A Agravante, desde a inicial, sustenta a nulidade do procedimento por cerceamento de defesa, uma vez que a perícia técnica no medidor foi realizada de forma unilateral pela Agravada" (fl. 301).
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+Verifica-se que o inconformismo não ultrapassa a barreira do conhecimento, pois a parte agravante deixou de impugnar a totalidade dos motivos adotados pelo Tribunal de origem para negar trânsito ao apelo especial.
+No caso, em suas razões de agravo, a parte agravante deixou de rebater, de modo específico, o óbice da Súmula 7/STJ. É dizer, deixou de trazer de forma clara e específica qual a tese de direito a sustentar seu recurso especial e prescindir de análise dos fatos e provas que instruíram o feito.
+Incide, desse modo, por analogia, a Súmula 182/STJ ("É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão recorrida").
+Essa foi a linha de entendimento confirmada pela Corte Especial do STJ ao julgar os EAREsp 701.404/SC e os EAREsp 831.326/SP, Rel. Min. João Otávio de Noronha, Rel. p/ acórdão Ministro Luis Felipe Salomão, DJe de 30/11/2018.
+ANTE O EXPOSTO, nos termos do art. 932, III, do CPC, não conheço do agravo em recurso especial.
+Levando-se em conta o trabalho adicional realizado em grau recursal, impõe-se à parte recorrente o pagamento de honorários advocatícios equivalentes a 20% (vinte por cento) do valor a esse título já fixado no processo (art. 85, § 11, do CPC).
+Publique-se.
+EMENTA
