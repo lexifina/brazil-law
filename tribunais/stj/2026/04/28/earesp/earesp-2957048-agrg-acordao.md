@@ -1,0 +1,82 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da CORTE ESPECIAL do Superior Tribunal de Justiça, em Sessão Virtual de 22/04/2026 a 28/04/2026, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Mauro Campbell Marques, Benedito Gonçalves, Raul Araújo, Maria Isabel Gallotti, Antonio Carlos Ferreira, Ricardo Villas Bôas Cueva, Sebastião Reis Júnior, Francisco Falcão, Nancy Andrighi, João Otávio de Noronha, Humberto Martins, Maria Thereza de Assis Moura e Og Fernandes votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Presidente do STJ.
+EMENTA
+DIREITO PROCESSUAL PENAL. AGRAVO REGIMENTAL NOS EMBARGOS DE DIVERGÊNCIA EM AGRAVO EM RECURSO ESPECIAL. REGRA TÉCNICA DE ADMISSIBILIDADE DO APELO EXTREMO. INCIDÊNCIA DA SÚMULA N. 315/STJ.
+I. CASO EM EXAME.
+1. Agravo regimental interposto contra decisão que indeferiu liminarmente os embargos de divergência, ante a incidência da Súmula n. 315/STJ e em razão da ausência de comprovação do dissídio, nos termos dos arts. 1.043, § 4º, do CPC e 266, § 4º, do RISTJ.
+II. QUESTÃO EM DISCUSSÃO
+2.1. Cabimento dos embargos de divergência em face de decisão que não conheceu do recurso especial.
+2.2. Admissibilidade dos embargos de divergência sem a juntada do inteiro teor dos acórdãos paradigmas ou a citação do repositório oficial ou autorizado de jurisprudência no qual publicado.
+III. RAZÕES DE DECIDIR
+3.1. Nos termos dos artigos 266 do Regimento Interno do Superior Tribunal de Justiça (RISTJ) e 1.043 do Código de Processo Civil (CPC), os embargos de divergência têm, como requisito de admissibilidade, a existência de dissenso interpretativo entre diferentes órgãos fracionários desta Corte, devendo ter sido apreciada a matéria de mérito do recurso especial, seja de natureza processual seja material. Desse modo, não são cabíveis embargos de divergência para o reexame de regras técnicas alusivas ao conhecimento do recurso especial.
+3.2. Tal exegese reforça o teor da Súmula n. 315/STJ, segundo a qual "não cabem embargos de divergência no âmbito do agravo de instrumento que não admite recurso especial".
+3.3. A comprovação do dissídio interpretativo autorizador do manejo de embargos de divergência reclama: (i) a juntada de certidão ou cópia do inteiro teor dos acórdãos apontados como paradigmas; ou (ii) a citação do repositório oficial ou credenciado de jurisprudência (inclusive em mídia eletrônica) no qual eles se achem publicados; ou (iii) a reprodução de julgado disponível na rede mundial de computadores, indicando a respectiva fonte. Cuida-se de regra técnica estabelecida nos artigos 1.043, § 4º, do CPC e 266, § 4º, do RISTJ.
+IV. DISPOSITIVO
+4. Agravo regimental não provido.
+RELATÓRIO
+1. Cuida-se de agravo regimental interposto por BRUNO GONCALVES DA COSTA em face de decisão monocrática proferida pela Presidência desta Corte que indeferiu liminarmente os embargos de divergência, ante a incidência da Súmula n. 315/STJ e em razão da ausência de comprovação do dissídio, nos termos dos arts. 1.043, § 4º, do CPC e 266, § 4º, do RISTJ (fls. 2.226-2.268) .
+O agravante defende ter comprovado o dissídio jurisprudencial, aduzindo que as formalidades previstas nos arts. 1.043, § 4º, do CPC e 266, § 4º, do RISTJ tornariam "o jurisdicionado refém de análises que ultrapassam a técnica dos recursos e que comportam elementos absolutamente subjetivos" (fl. 2.239).
+Afirma que "o apelo nobre interposto por esta Defesa Técnica foi absolutamente claro ao esmiuçar cada qual das alegadas violações aos dispositivos de Lei Federal, tal como, impugnou efetivamente os argumentos que deram amparo a inadmissão do reclamo" (fl. 2.240).
+Requer o provimento do agravo para que seja dado seguimento ao ag ravo em recurso especial e aos recursos pretéritos.
+É o relatório.
+EMENTA
+DIREITO PROCESSUAL PENAL. AGRAVO REGIMENTAL NOS EMBARGOS DE DIVERGÊNCIA EM AGRAVO EM RECURSO ESPECIAL. REGRA TÉCNICA DE ADMISSIBILIDADE DO APELO EXTREMO. INCIDÊNCIA DA SÚMULA N. 315/STJ.
+I. CASO EM EXAME.
+1. Agravo regimental interposto contra decisão que indeferiu liminarmente os embargos de divergência, ante a incidência da Súmula n. 315/STJ e em razão da ausência de comprovação do dissídio, nos termos dos arts. 1.043, § 4º, do CPC e 266, § 4º, do RISTJ.
+II. QUESTÃO EM DISCUSSÃO
+2.1. Cabimento dos embargos de divergência em face de decisão que não conheceu do recurso especial.
+2.2. Admissibilidade dos embargos de divergência sem a juntada do inteiro teor dos acórdãos paradigmas ou a citação do repositório oficial ou autorizado de jurisprudência no qual publicado.
+III. RAZÕES DE DECIDIR
+3.1. Nos termos dos artigos 266 do Regimento Interno do Superior Tribunal de Justiça (RISTJ) e 1.043 do Código de Processo Civil (CPC), os embargos de divergência têm, como requisito de admissibilidade, a existência de dissenso interpretativo entre diferentes órgãos fracionários desta Corte, devendo ter sido apreciada a matéria de mérito do recurso especial, seja de natureza processual seja material. Desse modo, não são cabíveis embargos de divergência para o reexame de regras técnicas alusivas ao conhecimento do recurso especial.
+3.2. Tal exegese reforça o teor da Súmula n. 315/STJ, segundo a qual "não cabem embargos de divergência no âmbito do agravo de instrumento que não admite recurso especial".
+3.3. A comprovação do dissídio interpretativo autorizador do manejo de embargos de divergência reclama: (i) a juntada de certidão ou cópia do inteiro teor dos acórdãos apontados como paradigmas; ou (ii) a citação do repositório oficial ou credenciado de jurisprudência (inclusive em mídia eletrônica) no qual eles se achem publicados; ou (iii) a reprodução de julgado disponível na rede mundial de computadores, indicando a respectiva fonte. Cuida-se de regra técnica estabelecida nos artigos 1.043, § 4º, do CPC e 266, § 4º, do RISTJ.
+IV. DISPOSITIVO
+4. Agravo regimental não provido.
+VOTO
+2. De início, cumpre assinalar que o agravo em recurso especial interposto não foi conhecido pelo Ministro Presidente do STJ em razão da deficiência da impugnação recursal, o que ensejou a aplicação, por analogia, da Súmula n. 182/STJ (fls. 2.134-2.135).
+A aludida decisão monocrática foi mantida pela Quinta Turma, que negou provimento ao agravo regimental nos seguintes termos (fls. 2.179-2.180):
+DIREITO PROCESSUAL PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. DECISÃO DA PRESIDÊNCIA. SÚMULA 182/STJ. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA AOS FUNDAMENTOS DA DECISÃO AGRAVADA. RAZÕES DISSOCIADAS. PRINCÍPIO DA DIALETICIDADE. AGRAVO REGIMENTAL NÃO CONHECIDO.
+I. CASO EM EXAME
+1. Agravo regimental interposto contra decisão monocrática da Presidência do Superior Tribunal de Justiça que não conheceu de agravo em recurso especial, com fundamento no art. 21-E, V, c/c o art. 253, parágrafo único, I, do Regimento Interno do STJ.
+2. A decisão agravada considerou que o agravo em recurso especial não impugnou especificamente o fundamento da inadmissibilidade do recurso especial, qual seja, a aplicação da Súmula 7/STJ.
+3. O agravante, em suas razões, apresentou argumentos dissociados do objeto da decisão recorrida, discorrendo sobre os requisitos de admissibilidade de embargos de divergência, recurso que não foi objeto de análise nos autos.
+4. O Ministério Público Federal opinou pelo não conhecimento do agravo regimental.
+II. QUESTÃO EM DISCUSSÃO
+5. A questão em discussão consiste em saber se o agravo regimental pode ser conhecido quando as razões recursais não atacam especificamente o fundamento da decisão agravada, em violação ao princípio da dialeticidade.
+III. RAZÕES DE DECIDIR
+6. A jurisprudência do Superior Tribunal de Justiça é assente no sentido de que o agravo regimental deve impugnar especificamente os fundamentos da decisão agravada para ser conhecido.
+7. A decisão agravada fundamentou o não conhecimento do agravo em recurso especial na ausência de impugnação específica ao óbice da Súmula n. 7/STJ, aplicando, por analogia, a Súmula n. 182/STJ .
+8. O agravante, nas razões do regimental, não infirmou tal fundamento e apresentou argumentação totalmente dissociada da decisão questionada, o que implica a incidência direta do óbice da Súmula n. 182/STJ ao presente recurso.
+IV. DISPOSITIVO
+9. Resultado do Julgamento: Agravo regimental não conhecido.
+O agravante sustenta o cabimento dos embargos de divergência porque teria comprovado suficientemente o dissídio jurisprudencial.
+A Presidência desta Corte indeferiu liminarmente os embargos de divergência, assinalando a impossibilidade de se apreciar as razões dos embargos de divergência em virtude de o mérito do recurso especial não ter sido analisado, bem como a necessidade de comprovação do dissídio jurisprudencial, nos termos dos arts. 1.043, § 4º, do CPC e 266, § 4º, do RISTJ (fls. 2.226-2.228) .
+Com efeito, nos termos dos artigos 266 do RISTJ e 1.043 do CPC, os embargos de divergência têm, como requisito de admissibilidade, a existência de dissenso interpretativo entre diferentes órgãos fracionários desta Corte, devendo ter sido apreciada a matéria de mérito do recurso especial, seja de natureza processual ou material.
+Desse modo, não são cabíveis embargos de divergência para o reexame de regras técnicas alusivas ao conhecimento do recurso especial.
+Neste sentido:
+DIREITO PROCESSUAL PENAL E CIVIL. AGRAVO REGIMENTAL NOS EMBARGOS DE DIVERGÊNCIA EM AGRAVO EM RECURSO ESPECIAL. DEFICIENTE COMPROVAÇÃO DO DISSÍDIO JURISPRUDENCIAL. AUSÊNCIA DE JUNTADA DO INTEIRO TEOR DOS ACÓRDÃOS PARADIGMAS. FALTA DE APRECIAÇÃO DO MÉRITO RECURSAL. SÚMULA N. 315 DO STJ. AGRAVO NÃO PROVIDO.
+1. A comprovação da divergência deve observar os termos do § 4º do art. 1.043 do CPC de 2015 e do § 4º do art. 266 do RISTJ.
+2. A parte recorrente não se desincumbiu de seu ônus processual de fazer prova da suscitada divergência jurisprudencial, uma vez que não houve a juntada do inteiro teor dos acórdãos indicados como paradigmas, configurando-se vício substancial e insanável, impeditivo do conhecimento dos embargos de divergência.
+3. Ademais, não se admite a interposição de embargos de divergência nos casos em que o capítulo impugnado no recurso não teve o mérito apreciado pelo acórdão embargado, como ocorreu na situação em apreço, na qual a Turma concluiu serem insuficientes as razões do agravo manejado contra a decisão de inadmissão da origem, aplicando o óbice da Súmula n. 182 do STJ.
+4. Ausente o enfrentamento do mérito da causa no recurso especial, aplica-se a conclusão extraída da Súmula n. 315 do STJ, segundo a qual: "Não cabem embargos de divergência no âmbito do agravo de instrumento que não admite recurso especial."
+5. Agravo regimental a que se nega provimento.
+(AgRg nos EAREsp n. 2.510.396/SC, relator Ministro Og Fernandes, Corte Especial, julgado em 24/9/2024, DJe de 27/9/2024.)
+PROCESSUAL CIVIL. DIREITO PENAL. DESPROVIMENTO DO AGRAVO INTERNO. MANUTENÇÃO DA DECISÃO RECORRIDA. SÚMULA N. 7/STJ. SÚMULA N. 315/STJ.
+I - Na origem, trata-se agravo interposto contra decisão que inadmitiu o recurso especial manejado contra acórdão proferido pelo Tribunal de Justiça do Estado do Paraná no julgamento da Apelação n. 0009733-54.2018.8.16.0190. Na sentença o pedido foi julgado procedente. No Tribunal a quo, a sentença foi mantida.
+II - Os embargos de divergência, recurso de fundamentação vinculada, têm o propósito de compor divergência entre órgão fracionário do Supremo Tribunal Federal ou do Superior Tribunal de Justiça e qualquer outro órgão jurisdicional do mesmo tribunal (CPC/15, art. 1.043), sendo os acórdãos, embargado e paradigma, de mérito, ou, ainda, sendo um acórdão de mérito e outro que não tenha conhecido do recurso, embora tenha apreciado a controvérsia. Visa, portanto, a uniformizar a jurisprudência do tribunal.
+III - Essa exigência legal no sentido de que o acórdão seja de mérito, ou ao menos tenha apreciado a controvérsia, se justifica porque, a rigor, os embargos de divergência não servem para propiciar novo exame acerca da aplicação de regra técnica de admissibilidade do recurso especial ou do agravo em recurso especial.
+IV - No caso em mesa, o acórdão embargado não apreciou matéria de mérito, em razão do óbice da Súmula n. 7/STJ, por entender que "a mudança da conclusão alcançada no acórdão impugnado exigiria o reexame das provas, o que é vedado nesta instância extraordinária, uma vez que o Tribunal a quo é soberano na análise do acervo fático-probatório dos autos".
+V - Tal situação impede, por si só, o conhecimento desta via de impugnação, pois não se admite a interposição de embargos de divergência na hipótese de não ter sido analisado o mérito do recurso especial, a teor da Súmula n. 315 desta Corte Superior: "Não cabem embargos de divergência no âmbito do agravo de instrumento que não admite recurso especial". Nesse mesmo sentido confiram-se os seguintes julgados: AgInt nos EAREsp n. 2.140.201/DF, relatora Ministra Nancy Andrighi, Corte Especial, julgado em 27/2/2024, DJe de 4/3/2024; EDcl no AgRg nos EAREsp n. 1.778.789/SP, relatora Ministra Laurita Vaz, Corte Especial, julgado em 22/2/2022, DJe de 2/3/2022.
+VI - A parte embargante sustenta que a divergência entre o acórdão embargado e os dois dos paradigmas apontados, REsp 153714/SP, da Primeira Turma, julgado em 1999 e REsp 674898/RJ, da Quinta Turma, julgado em 2005, por entender obrigatório o acolhimento da pretensão recursal no tocante à suposta omissão do acórdão de origem.
+VII - Também no ponto, a argumentação não encontra amparo, seja em razão da ausência de contemporaneidade dos arestos paradigmas, que foram julgados há 19 e 25 anos, respectivamente, seja no tocante à matéria arguida, visto que a análise da existência ou não de omissão demanda o exame das peculiaridades de cada caso concreto, o afasta peremptoriamente a existência de teses divergentes aptas a ensejar o processamento do recurso. A propósito: AgInt nos EAREsp n. 1.660.334/SP, relator Ministro Raul Araújo, Corte Especial, julgado em 27/2/2024, DJe de 4/3/2024; AgInt nos EREsp n. 1.256.567/DF, relator Ministro João Otávio de Noronha, Corte Especial, julgado em 23/8/2022, DJe de 25/8/2022.)
+VIII - Nessa esteira, necessário ressaltar que os embargos de divergência têm por finalidade uniformizar a jurisprudência do próprio Superior Tribunal de Justiça, quando se verificarem idênticas situações fáticas nos julgados, mas se tenha dado diferente interpretação na legislação aplicável ao caso. Não se prestam para avaliar possível justiça ou injustiça do decisum ou corrigir regra técnica de conhecimento e, muito menos, confrontar tese de admissibilidade com tese de mérito.
+IX - Agravo interno improvido.
+(AgRg nos EAREsp n. 2.257.363/PR, relator Ministro Francisco Falcão, Corte Especial, julgado em 21/8/2024, DJe de 27/8/2024.)
+Tal exegese reforça o teor da Súmula n. 315/STJ, segundo a qual "não cabem embargos de divergência no âmbito do agravo de instrumento que não admite recurso especial".
+Ademais, como bem assinalado pela Presidência, a comprovação do dissídio interpretativo autorizador do manejo de embargos de divergência reclama: (i) a juntada de certidão ou cópia do inteiro teor dos acórdãos apontados como paradigmas; ou (ii) a citação do repositório oficial ou credenciado de jurisprudência (inclusive em mídia eletrônica) no qual eles se achem publicados; ou (iii) a reprodução de julgado disponível na rede mundial de computadores, indicando a respectiva fonte. Cuida-se de regra técnica estabelecida nos artigos 1.043, § 4º, do CPC e 266, § 4º, do Regimento Interno do STJ.
+Nessa perspectiva, "a mera menção ao Diário da Justiça em que teriam sido publicados os acórdãos paradigmas trazidos à colação, sem a indicação da respectiva fonte, quando os julgados encontram-se disponíveis na rede mundial de computadores ou internet, não supre a exigência da citação do repositório oficial ou autorizado de jurisprudência, visto que se trata de órgão de divulgação em que é publicada somente a ementa do acórdão" (AgRg nos EAREsp n. 2.000.424/PB, relator Ministro João Otávio de Noronha, Corte Especial, julgado em 22/11/2022, DJe de 28/11/2022).
+A despeito da irresignação do ora agravante, é certo que a inobservância desse requisito configura vício substancial insanável (AgInt nos EAREsp n. 1.950.564/MS), motivo pelo qual deve ser mantido o indeferimento liminar dos embargos de divergência.
+3. Ante o exposto, nego provimento ao agravo regimental.
+É como voto.
