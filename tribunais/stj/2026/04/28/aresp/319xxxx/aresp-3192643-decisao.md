@@ -1,0 +1,55 @@
+DECISÃO
+Trata-se de agravo interposto por Sindicato dos Servidores das Justiças Federais no Estado do Rio de Janeiro - SISEJUFE/RJ contra decisão que não admitiu recurso especial, este, por sua vez, manejado com fundament o no art. 105, inciso III, alínea a, da Constituição Federal, desafiando o acórdão prolatado pelo Tribunal Regional Federal da 1ª Reigão assim ementado (e-STJ, fls. 194-195):
+ADMINISTRATIVO, CONSTITUCIONAL. SERVIDOR PÚBLICO. REVISÃO GERAL ANUAL DA REMUNERAÇÃO. REAJUSTE DE 15,8%. ISONOMIA. SÚMULA VINCULANTE 37. IMPOSSIBILIDADE. SENTENÇA MANTIDA.
+1. Sentença proferida na vigência do CPC/1973, portanto, não se aplicam as regras do CPC atual.
+2. No que tange ao pedido de reajuste de 15,8%, com base em isonomia em razão de concessão de aumento salarial a diversas categorias por leis editadas em 2012, "não cabe ao Poder Judiciário aumentar os vencimentos dos servidores sob o fundamento da isonomia, tendo em vista a vedação expressa na Súmula Vinculante 37". Precedentes do STF.
+3. Apelação não provida.
+Os embargos de declaração opostos foram rejeitados (e-STJ, fls. 224-231).
+Nas razões do recurso especial (e-STJ, fls. 237-257), o recorrente alegou violação aos arts. 489, § 1º, IV, e 1.022, II, do Código de Processo Civil; 41, § 3º, e 62-A, parágrafo único, da Lei 8.112/1990; 6º do Decreto-Lei 4.657/1942 (Lei de Introdução às Normas do Direito Brasileiro); e 884 do Código Civil.
+Sustentou, preliminarmente, a nulidade do acórdão recorrido, uma vez que, a despeito da oposição dos embargos de declaração, deixou de se pronunciar sobre "o fato de que os servidores públicos federais da Justiça Federal no Rio de Janeiro tiveram seus reajustes remuneratórios estipulados a menor que o índice de 15,8% sobre o vencimento básico e as demais vantagens pecuniárias permanentes (VPNI), em caráter de revisão geral anual, obstada por maquiagem em reajustes setoriais de parcelas específicas das carreiras, implementado pelas Leis nº 12.774, 23.772, 12.773, 12.775, 12.776, 12.777, 12.778, todas de 2012" (e-STJ, fl. 245).
+No mérito, alegou que a irredutibilidade do vencimento acrescido das vantagens permanentes exige a incidência do índice de 15,8% sobre todos os componentes remuneratórios, inclusive a VPNI, a qual somente estará sujeita às revisões gerais de remuneração dos servidores públicos federais, de modo a preservar o valor real da remuneração
+Apontou a violação ao direito adquirido dos servidores à manutenção do valor real do vencimento básico e das vantagens permanentes diante da não aplicação do índice de 15,8% como revisão geral anual.
+Argumentou ainda que a não incidência do reajuste pleiteado sobre a remuneração integral resulta em enriquecimento sem causa da Administração Pública, impondo a restituição do indevidamente auferido.
+Contrarrazões (e-STJ, fls. 290-299).
+O processamento do apelo especial não foi admitido pela Corte de origem (e-STJ, fls. 310-312), o que ensejou a interposição do presente agravo (e-STJ, fls. 331-347).
+Brevemente relatado, decido.
+De início, cumpre relembrar que os declaratórios são recursos de fundamentação vinculada e se destinam ao aprimoramento da decisão judicial, visando esclarecer obscuridade ou eliminar contradição, suprir omissão de ponto relevante ou corrigir erro material, nos termos do art. 1.022 CPC/2015.
+Tendo o Tribunal de origem motivado adequadamente sua decisão, solucionando a controvérsia com a aplicação do direito que entendeu cabível à hipótese, não há que se afirmar a existência de omissão apenas pelo fato de ter o aresto impugnado decidido em sentido contrário à pretensão da parte.
+Analisando os autos, não se evidencia a existência do suposto vício arguido pela parte recorrente, pois o colegiado de origem, ainda que em sentido contrário à pretensão veiculada, pronunciou-se sobre as questões essenciais para o deslinde da controvérsia, notadamente acerca da impossibilidade do Poder Judiciário proceder ao aumento dos vencimentos dos servidores com base na isonomia, diante da vedação contida no enunciado da Súmula Vinculante nº 37.
+Com efeito, o Superior Tribunal de Justiça consolidou sua jurisprudência no sentido de não ocorrer violação ao art. 1.022 do CPC/2015, tampouco negativa de prestação jurisdicional ou nulidade da decisão, quando o Tribunal de origem examina, de forma fundamentada, as questões fundamentais para o deslinde da controvérsia, ainda que contrariamente à pretensão manifestada pela parte; logo o resultado desfavorável não deve ser confundido com a violação aos dispositivos invocados.
+A propósito (sem grifo no original):
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO INDENIZATÓRIA. DEMORA NA REALIZAÇÃO DE CIRURGIA ONCOLÓGICA. PERDA DA VISÃO E DEFORMAÇÃO DA FACE. ARTS. 489, § 1º, E 1.022, II, DO CPC. NEGATIVA DE PRESTAÇÃO JURISDICIONAL NÃO CONFIGURADA. RESPONSABILIDADE CIVIL. REQUISITOS. NEXO DE CAUSALIDADE. VALOR DA INDENIZAÇÃO. REEXAME FÁTICO-PROBATÓRIO. ÓBICE DA SÚMULA 7/STJ.
+1. Não se verifica ofensa aos arts. 489, § 1º, e 1.022, II, do CPC, na medida em que o Tribunal de origem dirimiu, fundamentadamente, as questões que lhe foram submetidas e apreciou integralmente a controvérsia posta nos autos; não se pode, ademais, confundir julgamento desfavorável ao interesse da parte com negativa ou ausência de prestação jurisdicional.
+2. O Tribunal local, soberano no reexame dos elementos que instruem o caderno processual, assentou ser devida a indenização pela demora na realização da cirurgia. Rever as premissas adotadas pela instância recorrida, tal como colocada a questão nas razões recursais, a fim de afastar o nexo de causalidade e asseverar que não se encontram presentes na espécie os requisitos ensejadores da responsabilidade civil, demandaria, necessariamente, novo exame do acervo fático-probatório constante dos autos, providência vedada em recurso especial, conforme o óbice previsto na Súmula 7/STJ.
+3. Cumpre destacar que, em regra, não é cabível na via especial a revisão do montante estipulado pelas instâncias ordinárias à título de indenização por danos morais, ante a impossibilidade de reanálise de fatos e provas, nos termos da já referida Súmula 7/STJ.
+4. Agravo interno não provido.
+(AgInt no AREsp n. 2.658.461/SP, relator Ministro Sérgio Kukina, Primeira Turma, julgado em 18/11/2024, DJe de 22/11/2024.)
+Assim, estando devidamente analisadas e discutidas as questões de mérito, e fundamentado corretamente o acórdão recorrido, de modo a esgotar a prestação jurisdicional, não há falar em violação aos arts. 489 e 1.022 da legislação processual civil.
+Quanto ao mérito da insurgência recursal, extrai-se da fundamentação do acórdão recorrido que a controvérsia foi apreciada pela instância originária com base em fundamento eminentemente constitucional, a saber, no entendimento firmado pelo Supremo Tribunal Federal acerca do não cabimento do aumento dos vencimentos dos servidores, pelo Poder Judiciário, com fundamento na isonomia, conforme enunciado da Súmula Vinculante nº 37.
+Confira-se excerto do julgado recorrido (e-STJ, fls. 193-194, sem grifo no original):
+No que tange ao pedido de reajuste de 15,8%, com base em isonomia em razão de concessão de aumento salarial a diversas categorias por leis editadas em 2012, a jurisprudência do STF é no sentido de que "não cabe ao Poder Judiciário aumentar os vencimentos dos servidores sob o fundamento da isonomia, tendo em vista a vedação expressa na Súmula Vinculante 37". Precedentes:
+AGRAVO INTERNO NO RECURSO EXTRAORDINÁRIO COM AGRAVO. ADMINISTRATIVO. SERVIDOR PÚBLICO. CONCESSÃO DE ABONOS SALARIAIS. REVISÃO GERAL ANUAL. INOCORRÊNCIA. CONCESSÃO DE REAJUSTE SALARIAL COM BASE NO PRINCÍPIO DA ISONOMIA. VEDAÇÃO. SÚMULA VINCULANTE 37. PRECEDENTES.
+1. Ao Poder Judiciário é vedado conceder reajuste de vencimentos a servidores públicos com fundamento no princípio da isonomia, conforme sólida jurisprudência desta Corte, consolidada na Súmula Vinculante 37.
+2. Agravo Interno a que se nega provimento.
+(ARE 1051487 AgR, Relator(a): ALEXANDRE DE MORAES, Primeira Turma, julgado em 20/04/2018 DJe-099 publicado em 22/05/2018)
+DIREITO ADMINISTRATIVO. AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO COM AGRAVO. SERVIDORES PÚBLICOS. REAJUSTE GERAL. ISONOMIA. SÚMULA VINCULANTE 37. SÚMULAS 279 E 280/STF.
+1. É firme a jurisprudência desta Corte no sentido de que não cabe ao Poder Judiciário, que não tem função legislativa, aumentar vencimentos de servidores públicos sob o fundamento de isonomia.
+2. Hipótese em que, para divergir do entendimento firmado pelo tribunal a quo, no sentido de que não se trata de revisão geral anual, seria necessária a análise da legislação local mencionada, bem como do conjunto fático-probatório colacionado aos autos, o que é inviável neste momento processual, nos termos das Súmulas 279 e 280/STF.
+3. Agravo regimental a que se nega provimento.
+(ARE 895788 AgR, Relator Min. ROBERTO BARROSO, Primeira Turma, julgado em 15/12/2015, DJe-024 publicado em 11/02/2016).
+Desse modo, deve ser mantida integralmente a sentença, que julgou improcedente o pedido, porquanto em consonância com o entendimento jurisprudencial do STF sobre a matéria.
+Conclusão
+Ante o exposto, nego provimento à apelação.
+É o voto.
+Nos termos da jurisprudência já firmada, "o recurso especial possui fundamentação vinculada, não se constituindo em instrumento processual destinado a revisar acórdão com base em fundamentos eminentemente constitucionais, tendo em vista a necessidade de interpretação de matéria de competência exclusiva da Suprema Corte". (AgInt no REsp n. 2.126.362/RS, rel. Min. Regina Helena Costa, Primeira Turma, DJe de 5/9/2024).
+A título exemplificativo:
+PROCESSUAL CIVIL E CONSTITUCIONAL. HAITIANOS. INGRESSO EM TERRITÓRIO NACIONAL SEM EXIGÊNCIA DE VISTO. REUNIÃO FAMILIAR. NÃO INTERVENÇÃO DO PODER JUDICIÁRIO. AUSÊNCIA DE PREQUESTIONAMENTO. APLICAÇÃO ANALÓGICA DA SÚMULA 282 DO STF. TEMA DECIDIDO PELO TRIBUNAL A QUO COM FUNDAMENTO EXCLUSIVAMENTE CONSTITUCIONAL. INVIABILIDADE DE EXAME EM RECURSO ESPECIAL. SITUAÇÃO EXCEPCIONAL. REEXAME DO CONJUNTO FÁTICO PROBATÓRIO. SÚMULA 7/STJ.
+ ..
+3. Além disso, o acórdão recorrido ampara-se em fundamentos eminentemente constitucionais - quais sejam, os princípios da legalidade e da isonomia, previstos na Constituição da República -, cujo exame é vedado ao STJ na via eleita pela parte sob pena de usurpação da competência do STF, conforme dispõe o art. 102, III, da CF/1988.
+ ..
+6. Agravo Interno não provido.
+(AgInt no REsp n. 2.118.651/PR, relator Ministro Herman Benjamin, Segunda Turma, julgado em 19/8/2024, DJe de 22/8/2024.)
+Ante o exposto, conheço do agravo para conhecer parcialmente do recurso especial e, nessa extensão, negar-lhe provimento.
+Publique-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. SERVIDOR PÚBLICO. 1. VIOLAÇÃO AOS ARTS. 489 E 1.022 DO CPC/2015 NÃO CONSTATADA. 2. REVISÃO GERAL ANUAL. REAJUSTE DE 15,8%. ISONOMIA. SÚMULA VINCULANTE 37. ACÓRDÃO RECORRIDO AMPARADO EM FUNDAMENTO DE ÍNDOLE CONSTITUCIONAL. 3. AGRAVO CONHECIDO PARA CONHECER PARCIALMENTE DO RECURSO ESPECIAL E, NESSA EXTENSÃO, NEGAR-LHE PROVIMENTO.
