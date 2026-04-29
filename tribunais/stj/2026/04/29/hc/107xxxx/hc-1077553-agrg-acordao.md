@@ -1,0 +1,33 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEXTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 23/04/2026 a 29/04/2026, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Carlos Pires Brandão, Og Fernandes e Sebastião Reis Júnior votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Carlos Pires Brandão.
+EMENTA
+AGRAVO REGIMENTAL NO HABEAS CORPUS. ROUBO CIRCUNSTANCIADO E ASSOCIAÇÃO CRIMINOSA. IMPOSSIBILIDADE DE CONHECIMENTO DO WRIT. SUBSTITUTIVO DE REVISÃO CRIMINAL. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. A parte impetrou habeas corpus em 3/3/2026 contra acórdão de apelação criminal julgada pela Corte local em 6/10/2023, cujo trânsito em julgado ocorreu em 6/11/2023. Cumpre registrar que não consta, no âmbito desta Corte Superior, nenhum processo relacionado aos fatos ora impugnados.
+2. Importante destacar que este Tribunal, em diversas ocasiões, reconheceu a impossibilidade de uso do habeas corpus em substituição à revisão criminal, assim se posicionando: "o trânsito em julgado do acórdão que julga a apelação criminal, sem que haja a inauguração da competência deste Sodalício, torna incognoscível o pedido de habeas corpus "(AgRg no HC n. 805.183/SP, relator Ministro Teodoro Silva Santos, Sexta Turma, julgado em 12/3/2024, DJe de 15/3/2024).
+3. Muito embora não se ignore a ampliação do uso do habeas corpus e a importância dessa ação constitucional para a defesa da liberdade de locomoção, a crescente quantidade de impetrações, que, antes, deveriam ser examinadas em instâncias diversas, prejudica as funções constitucionais desta Corte em detrimento da eficácia do recurso especial, o que enfraquece a delimitação de teses para trazer uniformidade e previsibilidade ao sistema jurídico.
+4. Cumpre registrar, ainda, que a parte não suscitou a pretensa nulidade perante a Corte de origem, de modo que não há prévia manifestação sobre a questão pelas instâncias ordinárias.
+5. Agravo regimental não provido.
+RELATÓRIO
+O SENHOR MINISTRO ROGERIO SCHIETTI CRUZ:
+NERITON FERRAZ NEVES agrava da decisão de fls. 155-157, de minha relatoria, em que indeferi liminarmente o seu habeas corpus.
+Consta dos autos que o paciente foi condenado à pena de 10 anos, 10 meses e 15 dias de reclusão, em regime inicial fechado, mais multa, pela prática dos crimes previstos nos arts. 157, § 2º, I, II e V, e 288, parágrafo único, ambos do Código Penal.
+Neste regimental, a defesa aduz, em síntese, que o habeas corpus não poderia ser indeferido liminarmente, porquanto a natureza da pretensa nulidade impede a ocorrência do trânsito em julgado do acórdão da apelação.
+Requer, assim, a reconsideração da decisão agravada ou a submissão do feito a julgamento colegiado.
+EMENTA
+AGRAVO REGIMENTAL NO HABEAS CORPUS. ROUBO CIRCUNSTANCIADO E ASSOCIAÇÃO CRIMINOSA. IMPOSSIBILIDADE DE CONHECIMENTO DO WRIT. SUBSTITUTIVO DE REVISÃO CRIMINAL. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. A parte impetrou habeas corpus em 3/3/2026 contra acórdão de apelação criminal julgada pela Corte local em 6/10/2023, cujo trânsito em julgado ocorreu em 6/11/2023. Cumpre registrar que não consta, no âmbito desta Corte Superior, nenhum processo relacionado aos fatos ora impugnados.
+2. Importante destacar que este Tribunal, em diversas ocasiões, reconheceu a impossibilidade de uso do habeas corpus em substituição à revisão criminal, assim se posicionando: "o trânsito em julgado do acórdão que julga a apelação criminal, sem que haja a inauguração da competência deste Sodalício, torna incognoscível o pedido de habeas corpus "(AgRg no HC n. 805.183/SP, relator Ministro Teodoro Silva Santos, Sexta Turma, julgado em 12/3/2024, DJe de 15/3/2024).
+3. Muito embora não se ignore a ampliação do uso do habeas corpus e a importância dessa ação constitucional para a defesa da liberdade de locomoção, a crescente quantidade de impetrações, que, antes, deveriam ser examinadas em instâncias diversas, prejudica as funções constitucionais desta Corte em detrimento da eficácia do recurso especial, o que enfraquece a delimitação de teses para trazer uniformidade e previsibilidade ao sistema jurídico.
+4. Cumpre registrar, ainda, que a parte não suscitou a pretensa nulidade perante a Corte de origem, de modo que não há prévia manifestação sobre a questão pelas instâncias ordinárias.
+5. Agravo regimental não provido.
+VOTO
+O SENHOR MINISTRO ROGERIO SCHIETTI CRUZ (Relator):
+Em que pesem os argumentos expostos pela defesa, entendo que o agravo regimental não comporta provimento.
+A parte impetrou habeas corpus em 3/3/2026 contra acórdão de apelação criminal julgada pela Corte local em 6/10/2023, cujo trânsito em julgado ocorreu em 6/11/2023. Cumpre salientar que não consta, no âmbito desta Corte Superior, nenhum processo relacionado aos fatos ora impugnados.
+Importante destacar que este Tribunal, em diversas ocasiões, reconheceu a impossibilidade do uso do habeas corpus em substituição à revisão criminal, assim se posicionando: "o trânsito em julgado do acórdão que julga a apelação criminal, sem que haja a inauguração da competência deste Sodalício, torna incognoscível o pedido de habeas corpus" (AgRg no HC n. 805.183/SP, Rel. Ministro Teodoro Silva Santos, Sexta Turma, julgado em 12/3/2024, DJe de 15/3/2024.)
+Na mesma direção, cito, aind a, as seguintes decisões monocráticas: HC n. 905.628/SP, Rel. Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), DJe 17/4/2024; HC n. 905.340/SP, Rel. Ministra Daniela Teixeira, DJe 17/4/2024; HC n. 905.232/SP, Rel. Ministro Messod Azulay Neto, DJe 17/4/2024; HC n. 904.932/PR, Rel. Ministro Antonio Saldanha Palheiro, DJe 16/4/2024.
+Muito embora não se ignore a ampliação do uso do habeas corpus e a importância dessa ação constitucional para a defesa da liberdade de locomoção, a crescente quantidade de impetrações, que, antes, deveriam ser examinadas em instâncias diversas, prejudica as funções constitucionais desta Corte em detrimento da eficácia do recurso especial, o que enfraquece a delimitação de teses para trazer uniformidade e previsibilidade ao sistema jurídico.
+No tocante ao argumento de que o trânsito em julgado do acórdão não haveria ocorrido - em razão da ausência de publicação -, registro que a parte não suscitou a pretensa nulidade perante o Tribunal de origem, de modo que não há prévia manifestação sobre a questão pela Corte antecedente. Dessa forma, a análise do assinalado constrangimento ilegal configuraria supressão de instância pelo Superior Tribunal de Justiça, em total desprestígio às instâncias ordinárias.
+À vista do exposto, nego provimento ao agravo regimental.
