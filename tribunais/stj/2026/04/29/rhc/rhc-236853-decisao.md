@@ -1,0 +1,14 @@
+DECISÃO
+Trata-se de recurso em habeas corpus, com pedido liminar, interposto por ADRYAN DA COSTA ALMEIDA, contra o acórdão do Tribunal de Justiça do Estado do Ceará que conheceu parcialmente e, nessa extensão, denegou a ordem no Habeas Corpus n. 0621654-44.2026.8.06.0000.
+Neste recurso, a defesa sustenta excesso de prazo na formação da culpa e desídia estatal, afirmando que o recorrente está preso há meses sem início da instrução, com sucessivos adiamentos de audiência sem justificativa e sem contribuição da defesa.
+Pede, inclusive liminarmente, o relaxamento da prisão preventiva e a aplicação de medidas cautelares diversas.
+É o relatório.
+A aferição do excesso de prazo não se realiza de forma puramente matemática. Reclama, ao contrário, um juízo de razoabilidade, no qual devem ser sopesados não só o tempo da prisão provisória, mas também as peculiaridades da causa, sua complexidade, bem como quaisquer fatores que possam influir na tramitação do processo (AgRg no HC n. 1.013.012/PR, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 17/9/2025, DJEN de 22/9/2025).
+Na espécie, o Juízo de origem converteu a prisão em flagrante em preventiva em 5/8/2025, destacando a gravidade concreta dos fatos, o modus operandi e o risco à ordem pública, inclusive pela vinculação do recorrente a organização criminosa armada e reiteração delitiva (fls. 153/154). A denúncia foi oferecida em 16/9/2025 e recebida, com apresentação de resposta à acusação em 17/9/2025.
+A audiência de instrução e julgamento foi designada, inicialmente, para 12/3/2026, tendo sido posteriormente redesignada para 28/5/2026 (fls. 311 e 315). O Tribunal de Justiça, ao apreciar o habeas corpus, assentou que o processo tramita regularmente, sem paralisações indevidas, dentro de parâmetros de razoabilidade, sendo certo que a  audiência de instrução e julgamento  já se encontra designada, demonstrando o andamento regular da persecução penal (fls. 309 e 315), não se evidenciando desídia estatal.
+Embora a defesa aponte atraso decorrente de remarcações da audiência, os elementos constantes do acórdão recorrido indicam que, até o momento, não há incompatibilidade com o princípio da razoável duração do processo, tampouco notícia de ato procrastinatório imputável às autoridades públicas. Conforme registrado, não há excesso de prazo na formação da culpa, pois o processo tramita regularmente e a audiência de instrução e julgamento está designada para 28/5/2026, o que afasta o alegado constrangimento ilegal.
+Ante o exposto, nego provimento ao recurso em habeas corpus.
+Publique-se.
+EMENTA
+RECURSO EM HABEAS CORPUS. TRÁFICO DE DROGAS, HOMICÍDIO QUALIFICADO TENTADO, POSSE IRREGULAR DE ARMA DE FOGO E ORGANIZAÇÃO CRIMINOSA. EXCESSO DE PRAZO NA FORMAÇÃO DA CULPA. JUÍZO DE RAZOABILIDADE. IMPULSO OFICIAL DO FEITO.
+Recurso em habeas corpus improvido.
