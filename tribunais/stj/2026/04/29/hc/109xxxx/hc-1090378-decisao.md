@@ -1,0 +1,37 @@
+DECISÃO
+THALITA GOMES FERRAZ alega sofrer constrangimento ilegal em decorrência de decisão proferida por Desembargadora do Tribunal de Justiça do Estado do Rio de Janeiro no Habeas Corpus n. 0019032-78.2026.8.19.0000.
+A defesa sustenta que houve negativa de expedição da guia de recolhimento definitivo e indevida exigência de prévio cumprimento de mandado de prisão para sua emissão. Afirma que a paciente é mãe de seis filhos menores, três com menos de 12 anos, havendo, ainda, uma filha com deficiência, todos dependentes de seus cuidados. Aduz que permaneceu em prisão domiciliar por aproximadamente sete anos ao longo do processo. Alega, por fim, urgência para submissão do caso ao juízo da execução, a fim de viabilizar análise de benefícios como prisão domiciliar, progressão de regime e livramento condicional.
+Requer a expedição da guia de recolhimento definitivo, independentemente do cumprimento do mandado de prisão, bem como a concessão de medida liminar e, no mérito, a confirmação da ordem para permitir a análise de benefícios pela execução penal.
+Decido.
+De acordo com o explicitado na Constituição Federal (art. 105, I, "c") e no entendimento da Súmula n. 691 do STF (aplicável ao STJ), não compete a este Superior Tribunal conhecer de habeas corpus impetrado contra decisão denegatória de liminar, por desembargador, antes de prévio pronunciamento do órgão colegiado de segundo grau. Todavia, há flagrante ilegalidade no caso em análise, a autorizar a prematura intervenção desta Corte Superior.
+Certificado o trânsito em julgado da condenação, a defesa requereu "a expedição de CES sem a necessidade de prisão efetivada, para evitar danos irreversíveis" (fl. 21), o que foi indeferido, diante da necessidade da "efetiva prisão da apenada e sua entrada no sistema carcerário" (fl. 21).
+Ao indeferir a liminar no writ originário, a Desembargador relator consignou apenas que o pleito se confundia com o mérito.
+Os arts. 674 do CPP e 105 da LEP estabelecem que, transitando em julgado a sentença que impuser pena privativa de liberdade, se o réu já estiver preso, ou vier a ser preso, o juiz ordenará a expedição de carta de guia para o cumprimento da pena.
+Em regra, a expedição de guia de execução é condicionada à prisão do condenado. Entretanto, sempre se deve buscar a racionalidade do ordenamento jurídico. Em casos excepcionais, quando houver risco de lesão irreparável ao direito de locomoção do apenado, admite-se o temperamento do procedimento formal para a instauração do PEC.
+Esta Corte Superior e o STF já permitiram a expedição da guia de execução independentemente da custódia do condenado, a fim de que a defesa pudesse postular os benefícios inerentes à execução penal ao Juízo competente.
+Vejam-se:
+RECURSO ORDINÁRIO EM HABEAS CORPUS. CONDENAÇÃO PELOS CRIMES DE ROUBO. TRÂNSITO EM JULGADO. PACIENTE EM LIBERDADE. NÃO RECOLHIMENTO À PRISÃO. ÓBICE AO INÍCIO DA EXECUÇÃO PENAL. IMPOSSIBILIDADE DE ACESSO AO JUDICIÁRIO. CIRCUNSTÂNCIA EXCEPCIONAL QUE JUSTIFICA EMISSÃO DE GUIA DE EXECUÇÃO DA PRISÃO. RECURSO PROVIDO.
+1. Nos termos dos arts. 105 da Lei n. 7.210/1984 e 674 do Código de Processo Penal, a expedição da guia de recolhimento - e consequente início da competência do juízo das execuções - demanda prévia prisão do réu.
+2. No entanto, nos termos do art. 5º, inciso XXXV da Constituição Federal, a lei não excluirá da apreciação do Poder Judiciário lesão ou ameaça a direito.
+3. Na espécie, justifica-se a expedição da guia de execução independentemente do cumprimento do mandado de prisão. Precedentes do STF e do STJ.
+4. Recurso ordinário em habeas corpus provido para determinar a expedição de guia de execução definitiva, independente do prévio recolhimento do paciente ao cárcere, de modo que a defesa possa formular os benefícios inerentes à execução penal.
+(RHC n. 114.208/SC, Rel. Ministro Reynaldo Soares da Fonseca, 5ª T., DJe 30/8/2019, destaquei)
+ ..
+5. Malgrado não se desconheça o teor do art. 105 da Lei de Execuções Penais, segundo o qual a expedição da carta de sentença está condicionada ao recolhimento à prisão do condenado à pena privativa de liberdade, verifica-se, in casu, ser manifestamente desproporcional e desnecessária a colocação da paciente em cárcere, notadamente quando, à época da impetração (17/12/2014), cumpriu-se aproximadamente 3 (três) anos e 5 (cinco) meses da pena imposta, sendo indeferido o requerimento por demasiado apego à formalidade estampado pelo juízo de piso.
+6. A Segunda Turma do Supremo Tribunal Federal já determinou a expedição de guia de execução sem a prisão do condenado, para possibilitar a análise de pedido de detração pelo Juízo das Execuções (HC n. 119.153/SP, Rel. Ministra Cármen Lúcia, decisão monocrática de 28/10/2013).
+7. Impossibilidade de se perfazer, nesse momento, a cognoscibilidade da detração penal propriamente dita e, por conseguinte, eventual análise da progressão de regime, porque seria necessário o reexame de fatos e provas, somado ao fato de não ter sido apreciado pelas circunstâncias ordinárias, culminando em indevida supressão de instância.
+8. Habeas corpus não conhecido. Ordem concedida de ofício para que seja expedida a guia de recolhimento provisória em prol da paciente, devendo, ainda, o Juízo de Origem analisar eventual detração e progressão de regime em favor da paciente.
+(HC n. 312.561/SP, Rel. Ministro Antonio Saldanha Palheiro, 6ª T., DJe 13/6/2016, grifei)
+No mesmo sentido, o HC n. 147.377 (Rel. Ministro Edson Fachin, DJe 6/9/2017), o HC n. 119.153 (Rel. Ministra Carmen Lúcia, DJe 6/6/2014) e o HC n. 366.616/SP (Rel. Ministro Reynaldo Soares da Fonseca, 5ª T., DJe 5/5/2017).
+A justiça penal não se faz por atacado e há circunstância excepcional que atrai um olhar mais acurado para a questão. A paciente - mãe de 6 filhos menores de 12 anos - encontra-se impossibilitada de formular o pedido de prisão domiciliar porque ainda não foi iniciado o processo de execução.
+Embora o fato de a paciente haver sido condenada em regime fechado não lhe garanta automaticamente direito a algum benefício, o Magistrado competente pode concedê-lo, com base nas particularidades do caso. Assim, é razoável que o juízo das execuções analise o pedido, pois a prisão da apenada, como mera condição para obter a decisão judicial, pode lhe acarretar ônus excessivo, diante da necessidade dos cuidados aos seus filhos.
+Aplica-se ao caso a seguinte compreensão:
+ ..
+1. Constata-se a existência de julgados desta Corte, os quais admitem a expedição da guia de execução antes do cumprimento do mandado prisional em casos específicos e excepcionais, nas quais as circunstâncias fáticas e concretas indiquem que a prisão do sentenciado possa vir a ser excessivamente gravosa.
+2. Na hipótese, mostra-se razoável a expedição de carta de execução de sentença sem a prisão da condenada para que seja analisado o pleito de prisão domiciliar humanitária.
+3. Embargos de declaração acolhidos.
+(EDcl no AgRg no RHC n. 192.496/RJ, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 7/5/2024, DJe de 13/5/2024.)
+À vista do exposto, supero o teor da Súmula n. 691 do STF e concedo o habeas corpus, in limine, para determinar a expedição de guia de execução definitiva, independente do prévio recolhimento do paciente ao cárcere, de modo que a defesa possa formular perante o juízo das execuções o pedido de prisão domiciliar.
+Comunique-se, com urgência, o inteiro teor desta decisão às instâncias ordinárias, para as providências cabíveis.
+Publique-se e intimem-se.
+EMENTA
