@@ -1,0 +1,84 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEXTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 23/04/2026 a 29/04/2026, por unanimidade, negar provimento ao agravo regimental, nos termos do voto do Sr. Ministro Carlos Pires Brandão.
+Os Srs. Ministros Og Fernandes, Sebastião Reis Júnior e Rogerio Schietti Cruz votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Carlos Pires Brandão.
+EMENTA
+DIREITO PROCESSUAL PENAL. AGRAVO REGIMENTAL EM HABEAS CORPUS. PRAZO RECURSAL. AGRAVO REGIMENTAL. CINCO DIAS CORRIDOS. PROCESSO ELETRÔNICO. INTEMPESTIVIDADE. AGRAVO REGIMENTAL NÃO CONHECIDO.
+I. Caso em exame
+1. Agravo regimental interposto contra decisão monocrática que não conheceu de habeas corpus impetrado em favor de condenado pelo delito do art. 337-E do Código Penal.
+2. A decisão monocrática agravada foi publicada em 12/02/2026 e o agravo regimental foi interposto somente em 19/02/2026, após o prazo legal de 5 (cinco) dias corridos previsto para a interposição desse recurso em matéria penal e processual penal.
+II. Questão em discussão
+3. Discute-se, no caso, a tempestividade do agravo regimental, considerando prazo recursal de 5 (cinco) dias corridos, estabelecido para matérias penais e processuais penais pelos arts. 39 da Lei n. 8.038/1990, 258 do RISTJ e 798 do Código de Processo Penal, especialmente em se tratando de processo eletrônico no Superior Tribunal de Justiça.
+III. Razões de decidir
+4. A legislação específica aplicável aos feitos penais e processuais penais perante os tribunais superiores (art. 39 da Lei n. 8.038/1990, art. 258 do RISTJ e art. 798 do Código de Processo Penal) fixa em 5 (cinco) dias corridos o prazo para interposição de agravo regimental.
+5. A jurisprudência pacífica do Superior Tribunal de Justiça consolidou o entendimento de que, em matéria penal e processual penal, o prazo do agravo regimental é contínuo, de 5 (cinco) dias corridos, não incidindo a disciplina geral do Código de Processo Civil quanto à contagem em dias úteis.
+6. Em processos que tramitam eletronicamente no STJ, o sistema permanece disponível 24 horas por dia, de modo que a prorrogação de prazo somente se justifica em hipóteses de indisponibilidade da comunicação eletrônica previamente certificada, o que não ocorreu no caso concreto.
+7. Considerando a publicação da decisão agravada em 12/02/2026 e a interposição do agravo regimental apenas em 19/02/2026, verifica-se a inobservância do prazo legal de 5 (cinco) dias corridos, razão pela qual o recurso é intempestivo e não pode ser conhecido.
+IV. Dispositivo e tese
+8. Resultado do Julgamento: Agravo regimental não conhecido, em razão da intempestividade.
+Dispositivos relevantes citados: Lei n. 8.038/1990, art. 39; RISTJ, art. 258; Código de Processo Penal, art. 798.
+Jurisprudência relevante citada: STJ, AgRg no REsp n. 1.952.079/SP, Sexta Turma, j. 15/03/2022, DJe 23/03/2022; STJ, RCD no AgRg no AREsp n. 1.651.949/GO, Sexta Turma, j. 30/06/2020, DJe 07/08/2020; STJ, EREsp n. 1.815.026/PR, Terceira Seção, j. 14/08/2024, DJe 29/08/2024; STJ, AgRg no AREsp n. 2.523.022/RS, Sexta Turma, j. 19/03/2024, DJe 02/04/2024; STJ, AgRg no AREsp n. 2.318.443/BA, Quinta Turma, j. 27/02/2024, DJe 01/03/2024.
+RELATÓRIO
+Trata-se de agravo regimental interposto por MAERCIO DIAS DE MENEZES, contra decisão monocrática na qual se conheceu do Habeas Corpus .
+Consta nos autos que o paciente foi condenado à pena de 4 (quatro) anos de reclusão, em regime inicial aberto, pela prática do delito capitulado no art. 337-E do Código Penal, com substituição da pena privativa de liberdade por prestação pecuniária no valor de 1 (um) salário-mínimo e 10 (dez) dias-multa, nos termos do acórdão proferido pela 2ª Câmara de Direito Criminal do Tribunal de Justiça de São Paulo.
+Em suas razões, sustentou o impetrante a ocorrência de constrangimento ilegal, porquanto a condenação teria aplicado retroativamente a Lei n. 14.133/2021, imputando o tipo do art. 337-E a fatos de 2017, praticados na vigência da Lei n. 8.666/1993, o que configuraria violação ao princípio da legalidade e à irretroatividade da lei penal mais gravosa, com pedido de trancamento da ação penal.
+Alegou que a conduta é atípica pela ausência de dolo específico e pela inexistência de efetivo prejuízo ao erário, requisitos que afirma serem indispensáveis à configuração do delito de dispensa/inexigibilidade indevida de licitação, pleiteando o trancamento por falta de justa causa.
+Argumentou, outrossim, que os núcleos do tipo admitir, possibilitar ou dar causa à contratação direta fora das hipóteses legais (fl. 5), não teriam sido descritos de forma concreta na denúncia e tampouco demonstrados na instrução, razão pela qual não haveria fato típico narrado, impondo o trancamento da ação penal.
+Requereu, liminarmente, a suspensão dos efeitos da Ação Penal n. 1500302-42.2021.8.26.0414 até o julgamento do habeas corpus. E, no mérito, o trancamento da ação penal por atipicidade da conduta e ausência de justa causa.
+A liminar foi indeferida (fls. 119/120).
+O d. representante do Ministério Público Federal manifestou-se pelo não conhecimento do writ (fls. 125/129).
+Eis a ementa do parecer:
+HABEAS CORPUS. PROCESSUAL PENAL. CONDENAÇÃO. ART. 337-E DO CP. QUESTÃO JÁ ANALISADA POR PREVENÇÃO NOS AUTOS DO ARESP 2891583/SP. REITERAÇÃO DE PEDIDO JÁ ANALISADO EXAUSTIVAMENTE PELO STJ EM RECURSO ANTERIOR, INCLUSIVE NO ÂMBITO DE AGRAVO REGIMENTAL. PEDIDO DE TRANCAMENTO DA AÇÃO PENAL INVIABILIZADO ANTE O TEOR DA SÚMULA 648/STJ. PRECEDENTES. PARECER PELO NÃO CONHECIMENTO E DESPROVIMENTO DO HABEAS CORPUS.
+Em decisão de fls. 134/139, o Habeas Corpus não foi conhecido.
+Daí a interposição do presente Agravo Regimental, por meio do qual se alega que a decisão monocrática deve ser reconsiderada.
+Menciona, ademais, que a decisão merece reconsideração, senão, reforma, uma vez que as ilegalidades apontadas no habeas corpus não apenas subsistem, como decorrem diretamente da própria sentença prolatada, configurando constrangimento ilegal atual e plenamente atacável pela via do habeas corpus (fl. 145).
+Diz, outrossim, que os fundamentos jurídicos invocados no writ não são anteriores à sentença, mas emergem diretamente do conteúdo da decisão condenatória, especialmente no que se refere à indevida subsunção da conduta ao tipo penal do art. 337-E do Código Penal, bem como à fixação da pena e às consequências penais impostas ao paciente (fl. 146).
+Requer, ao final (fl. 149):
+(a) o conhecimento e provimento do presente Agravo Regimental, para que seja reconsiderada a decisão monocrática, com o consequente conhecimento do habeas corpus e seu processamento legal;
+(b) subsidiariamente, caso mantido o entendimento pelo não conhecimento, que a respectiva Câmara possa receber este recurso e dar-lhe provimento, com os consectários legais;
+(c) de outra banda, com o não acolhimento do requerio, que seja concedida a ordem de habeas corpus de ofício, diante da existência de constrangimento ilegal evidente;
+(d) a submissão do presente agravo ao órgão colegiado competente, nos termos regimentais.
+É o relatório.
+EMENTA
+DIREITO PROCESSUAL PENAL. AGRAVO REGIMENTAL EM HABEAS CORPUS. PRAZO RECURSAL. AGRAVO REGIMENTAL. CINCO DIAS CORRIDOS. PROCESSO ELETRÔNICO. INTEMPESTIVIDADE. AGRAVO REGIMENTAL NÃO CONHECIDO.
+I. Caso em exame
+1. Agravo regimental interposto contra decisão monocrática que não conheceu de habeas corpus impetrado em favor de condenado pelo delito do art. 337-E do Código Penal.
+2. A decisão monocrática agravada foi publicada em 12/02/2026 e o agravo regimental foi interposto somente em 19/02/2026, após o prazo legal de 5 (cinco) dias corridos previsto para a interposição desse recurso em matéria penal e processual penal.
+II. Questão em discussão
+3. Discute-se, no caso, a tempestividade do agravo regimental, considerando prazo recursal de 5 (cinco) dias corridos, estabelecido para matérias penais e processuais penais pelos arts. 39 da Lei n. 8.038/1990, 258 do RISTJ e 798 do Código de Processo Penal, especialmente em se tratando de processo eletrônico no Superior Tribunal de Justiça.
+III. Razões de decidir
+4. A legislação específica aplicável aos feitos penais e processuais penais perante os tribunais superiores (art. 39 da Lei n. 8.038/1990, art. 258 do RISTJ e art. 798 do Código de Processo Penal) fixa em 5 (cinco) dias corridos o prazo para interposição de agravo regimental.
+5. A jurisprudência pacífica do Superior Tribunal de Justiça consolidou o entendimento de que, em matéria penal e processual penal, o prazo do agravo regimental é contínuo, de 5 (cinco) dias corridos, não incidindo a disciplina geral do Código de Processo Civil quanto à contagem em dias úteis.
+6. Em processos que tramitam eletronicamente no STJ, o sistema permanece disponível 24 horas por dia, de modo que a prorrogação de prazo somente se justifica em hipóteses de indisponibilidade da comunicação eletrônica previamente certificada, o que não ocorreu no caso concreto.
+7. Considerando a publicação da decisão agravada em 12/02/2026 e a interposição do agravo regimental apenas em 19/02/2026, verifica-se a inobservância do prazo legal de 5 (cinco) dias corridos, razão pela qual o recurso é intempestivo e não pode ser conhecido.
+IV. Dispositivo e tese
+8. Resultado do Julgamento: Agravo regimental não conhecido, em razão da intempestividade.
+Dispositivos relevantes citados: Lei n. 8.038/1990, art. 39; RISTJ, art. 258; Código de Processo Penal, art. 798.
+Jurisprudência relevante citada: STJ, AgRg no REsp n. 1.952.079/SP, Sexta Turma, j. 15/03/2022, DJe 23/03/2022; STJ, RCD no AgRg no AREsp n. 1.651.949/GO, Sexta Turma, j. 30/06/2020, DJe 07/08/2020; STJ, EREsp n. 1.815.026/PR, Terceira Seção, j. 14/08/2024, DJe 29/08/2024; STJ, AgRg no AREsp n. 2.523.022/RS, Sexta Turma, j. 19/03/2024, DJe 02/04/2024; STJ, AgRg no AREsp n. 2.318.443/BA, Quinta Turma, j. 27/02/2024, DJe 01/03/2024.
+VOTO
+O agravo regimental não atende os requisitos de admissibilidade, motivo pelo qual não deve ser conhecido.
+Nos termos do art. 39 da Lei n. 8.038/1990, do art. 258 do Regimento Interno do Superior Tribunal de Justiça e do art. 798 do Código de Processo Penal, é de 05 (cinco) dias corridos o prazo para a interposição de agravo regimental.
+No caso dos autos, a decisão monocrática agravada foi publicada em data de 12/02/2026, contudo o agravo regimental respectivo somente foi interposto no dia 19/02/2026, fora, portanto, do prazo legal de 05 (cinco) dias.
+A pacífica jurisprudência deste Superior Tribunal preceitua que nos feitos que tratam de matéria penal ou processual penal, nos tribunais superiores, têm aplicação a Lei n. 8.038/1990 e o art. 798 do Código de Processo Penal, que estabelecem o prazo de cinco dias corridos para a interposição do agravo regimental (AgRg no REsp n. 1.952.079/SP, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 15/03/2022, DJe de 23/03/2022).
+Também da jurisprudência deste Superior Tribunal, em casos como o dos autos, colhe-se o entendimento no sentido de que  p ublicada a decisão agravada em 20/2/2020, o prazo de 5 dias corridos findou em 25/2/2020 - terça-feira -, prorrogado para 26/2/2020 - quarta-feira de cinzas -, e o agravo regimental foi protocolado apenas em 27/2/2020, intempestivamente (RCD no AgRg no AREsp n. 1.651.949/GO, relator Ministro Nefi Cordeiro, Sexta Turma, julgado em 30/06/2020, DJe de 07/08/2020).
+No mesmo sentido:
+EMBARGOS DE DIVERGÊNCIA EM RECURSO ESPECIAL. DIREITO PROCESSUAL PENAL. INTEMPESTIVIDADE DO AGRAVO REGIMENTAL MANTIDA. QUARTA-FEIRA DE CINZAS. DIA ÚTIL. PROCESSO ELETRÔNICO. REGRAS PRÓPRIAS. PRECEDENTES DAS QUINTA E SEXTA TURMAS DESTA CORTE. EMBARGOS DE DIVERGÊNCIA REJEITADOS.
+1. Consolidou-se nesta Corte Superior o entendimento de que é de cinco dias contínuos o prazo para a interposição de agravo regimental em matéria penal e processual penal, nos termos dos arts. 39 da Lei n. 8.038/1990, 258 do Regimento Interno do Superior Tribunal de Justiça - RISTJ e do art. 798 do Código de Processo Penal - CPP.
+2. Outrossim, quanto à regra disposta no art. 224, § 1º, do Código de Processo Civil - CPC/2015, no sentido de que " o s dias do começo e do vencimento do prazo serão protraídos para o primeiro dia útil seguinte, se coincidirem com dia em que o expediente forense for encerrado antes ou iniciado depois da hora normal ou houver indisponibilidade da comunicação eletrônica", ora invocada pelo embargante para sustentar a tempestividade do seu agravo regimental, entendo não ser aplicável ao caso, em revisão ao entendimento outrora emanado no julgamento do AgRg no AREsp n. 2.113.868/DF, de minha relatoria, apresentado como paradigma no presente recurso.
+3. Assinala-se que há regras próprias acerca dos prazos referentes aos processos que tramitam de forma eletrônica, como no caso deste Tribunal Superior. Nos termos da Resolução STJ/GP 10, de 6/10/2015, os recursos a serem interpostos nesta Corte, inclusive o agravo regimental, deverão ser protocolizados diretamente no sistema do processo judicial eletrônico (e-STJ), que fica disponível 24 horas por dia, independentemente da intervenção da Secretaria do Tribunal, ressalvados os períodos de manutenção, previamente informados, e de indisponibilidade do sistema.
+4. Inclusive, com amparo na inteligência da 2ª parte do § 1º do art. 224 do CPC/2015, esta Corte Superior compreende que, " e m caso de autos com tramitação eletrônica, a única hipótese de prorrogação do prazo para a prática de ato processual deve ser a indisponibilidade da comunicação eletrônica, ante a inexistência de prejuízo pelo expediente forense distinto dos demais dias úteis" (STJ, AgInt no REsp 1.720.049/CE, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, DJe de 16/11/2018).
+5. Dessa forma, a atual jurisprudência deste Superior Tribunal de Justiça, a qual me alinho, consolidou-se no sentido de que, nos termos do art. 81, § 2º, inciso III, do RISTJ, são considerados feriados de carnaval somente a segunda e terça-feira, sendo a "quarta-feira de cinzas" considerada dia útil para fins de contagem de prazo recursal, não obstante o expediente forense desta Corte seja limitado ao turno vespertino, até mesmo porque o sistema do processo judicial eletrônico do STJ fica disponível 24 horas nesse dia, ininterruptamente. Precedentes das Quinta e Sexta Turmas do STJ.
+6. Na hipótese em epígrafe, o prazo de cinco dias corridos para a interposição do agravo regimental iniciou-se em 14/2/2023 (terça-feira) e findou-se em 18/2/2023 (sábado), prorrogando-se para o dia 22/2/23 (quarta-feira). Entretanto, o presente recurso foi interposto pelo ora embargante em 23/2/2023 (quinta-feira), sendo, portanto, intempestivo.
+7. Embargos de divergência rejeitados.
+(EREsp n. 1.8115.026/PR, relator Ministro Joel Ilan Paciornik, Terceira Seção, julgado em 14/08/2024, DJe de 29/08/2024, grifei)
+AGRAVO REGIMENTAL EM AGRAVO EM RECURSO ESPECIAL. INTEMPESTIVIDADE. INTERPOSIÇÃO APÓS O PRAZO DE 5 DIAS PREVISTO NA LEI N. 8.038/1990. NOVO CÓDIGO DE PROCESSO CIVIL. NÃO INCIDÊNCIA. TRÂNSITO EM JULGADO DA DECISÃO AGRAVADA. CERTIFICAÇÃO E BAIXA IMEDIATA DOS AUTOS AO TRIBUNAL DE ORIGEM.
+1. O prazo para interposição do agravo regimental é de 5 (cinco) dias corridos, consoante o disposto nos arts. 798 do Código de Processo Penal, 39 da Lei n. 8.038/1990 e 258 do RISTJ.
+2. Agravo regimental não conhecido, com a determinação de que, publicado o acórdão exarado no presente julgamento, seja certificado o trânsito em julgado da decisão agravada, efetivando-se, na sequência, a baixa dos autos ao Tribunal de origem.
+(AgRg no AREsp n. 2.523.022/RS, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 19/03/2024, DJe de 02/04/2024)
+PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. PRAZO DE CINCO DIAS. SUSPENSÃO DO PRAZO. PORTARIA STJ/GP 643/2023. ARTIGO 798-A DO CÓDIGO DE PROCESSO CIVIL - CPC. INTEMPESTIVIDADE. AGRAVO REGIMENTAL NÃO CONHECIDO.
+1. É intempestivo o agravo regimental que não observa o prazo de interposição de cinco dias corridos, conforme art. 39 da Lei n. 8.038/90, art. 258 do Regimento Interno do Superior Tribunal de Justiça - RISTJ e art. 798 do Código de Processo Penal - CPP.
+2. Na presente hipótese, a decisão agravada foi publicada em 15/12/2023. Assim, o prazo de cinco dias para interposição de agravo regimental, iniciou dia 18/12/2023, suspendeu dia 20/12/2023, voltou a correr dia 22/1/2024 e findou em 24/1/2024, consoante as disposições da Portaria STJ/GP 643/2023 e art. 798-A, do CPP. A petição de agravo regimental só foi recebida na Central do Processo Eletrônico do STJ em 9/2/2024.
+3. Agravo regimental não conhecido.
+(AgRg no AREsp n. 2.318.443/BA, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 27/02/2024, DJe de 1º/03/2024)
+Ante o exposto, não conheço do agravo regimental.
+É como voto.
