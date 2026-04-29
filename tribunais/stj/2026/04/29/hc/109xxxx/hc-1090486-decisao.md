@@ -1,0 +1,27 @@
+DECISÃO
+CÍCERO HIAGO FERREIRA DE OLIVEIRA alega sofrer coação ilegal diante de acórdão do Tribunal de origem.
+Consta dos autos que o paciente cumpre pena privativa de liberdade e obteve, por decisão do Juízo da VEC, a progressão ao regime semiaberto. Na mesma decisão, o Juízo indeferiu o pedido de prisão domiciliar.
+A defesa sustenta a violação da Súmula Vinculante n. 56 do Supremo Tribunal Federal e do entendimento firmado no RE 641.320/RS (Tema 423), que tratam da impossibilidade de manutenção do apenado em regime mais gravoso diante da ausência de estabelecimento adequado.
+Explica que o paciente permanece, na prática, submetido a regime mais severo e requer a concessão da ordem, a fim de que o apenado cumpra pena no regime semiaberto harmonizado com monitoração eletrônica, ou, subsidiariamente, a concessão de prisão domiciliar até o surgimento de vaga em estabelecimento adequado.
+Decido.
+O pedido da defesa é incompatível com a Súmula Vinculante n. 56 e com os parâmetros fixados no RE n. 641.320/RS. Além disso, conforme o Tema Repetitivo n. 993, desta Corte:
+ ..  A inexistência de estabelecimento penal adequado ao regime prisional determinado para o cumprimento da pena não autoriza a concessão imediata do benefício da prisão domiciliar, porquanto, nos termos da Súmula Vinculante nº 56, é imprescindível que a adoção de tal medida seja precedida das providências estabelecidas no julgamento do RE nº 641.320/RS, quais sejam: (i) saída antecipada de outro sentenciado no regime com falta de vagas, abrindo-se, assim, vagas para os reeducandos que acabaram de progredir; (ii) a liberdade eletronicamente monitorada ao sentenciado que sai antecipadamente ou é posto em prisão domiciliar por falta de vagas; e (iii) cumprimento de penas restritivas de direitos e/ou estudo aos sentenciados em regime aberto  .. .
+Na própria decisão do Juiz da VEC foi determinada a "imediata transferência" do apenado para a Unidade Prisional Professor Olavo Vieira II, Estabelecimento Penal destinado específica e finalisticamente aos presos do regime semiaberto" (fl. 37).
+O Magistrado explicitou que as orientações da Súmula Vinculante n. 56 "restam observadas, conforme se vê da presente decisão que ao conceder a progressão faz constar, expressamente, a necessidade de manter os presos deste regime em alas ou ruas separadas, garantindo os direitos próprios do regime"(fl. 38).
+Salientou, ainda, que "o apenado foi condenado por crimes graves" e a saída antecipada do cárcere ou o excepcional deferimento da prisão domiciliar (frustrada em evento anterior, durante a execução penal) seria contrário a "todo e qualquer critério apontado como parâmetro pela própria Súmula n. 56" (fl. 40).
+O Tribunal de origem reconheceu que o apenado cumpre pena em estabelecimento compatível com o regime semiaberto. Ressaltou que "incumbia à defesa demonstrar eventual cumprimento da pena em condições equivalentes ao regime fechado ou a inexistência de estrutura compatível com o regime semiaberto no estabelecimento prisional em que o sentenciado se encontra recolhido, ônus do qual não se desincumbiu" (fl. 26).
+Não se verifica a oposição de embargos de declaração para ventilar e corrigir eventual premissa fática equivocada do acórdão.
+Assim, é possível o avanço para a pronta solução do habeas corpus, pois as instâncias ordinárias observaram a Súmula Vinculante n. 56 que estabeleceu:
+I - A falta de estabelecimento penal adequado não autoriza a manutenção do condenado em regime prisional mais gravoso;
+II - Os juízes da execução penal poderão avaliar os estabelecimentos destinados aos regimes semiaberto e aberto, para qualificação como adequados a tais regimes. São aceitáveis estabelecimentos que não se qualifiquem como "colônia agrícola, industrial" (regime semiaberto) ou "casa de albergado ou estabelecimento adequado" (regime aberto) (art. 33, § 1º, b e c);
+III - Havendo déficit de vagas, deverá determinar-se:
+(i) a saída antecipada de sentenciado no regime com falta de vagas;
+(ii) a liberdade eletronicamente monitorada ao sentenciado que sai antecipadamente ou é posto em prisão domiciliar por falta de vagas;
+(iii) o cumprimento de penas restritivas de direito e/ou estudo ao sentenciado que progride ao regime aberto. Até que sejam estruturadas as medidas alternativas propostas, poderá ser deferida a prisão domiciliar ao sentenciado.
+(Tese definida no RE 641.320, rel. min. Gilmar Mendes, P, j. 11-5-2016, DJE 159 de 1º-8-2016, Tema 423.)
+No caso dos autos, repita-se, não há comprovação de que o paciente esteja cumprindo pena em regime fechado, tampouco de que se encontre submetido às respectivas regras mais severas de execução.
+Ademais, a adoção de medidas excepcionais ao cárcere, em contextos de déficit de vagas, deve observar critérios de racionalização do sistema, de modo a priorizar, em regra, os apenados que se encontram há mais tempo no regime, para viabilizar a adequada gestão das vagas e o ingresso daqueles recentemente transferidos.
+Deveras, "a inexistência de estabelecimento penal adequado ao regime prisional determinado para o cumprimento da pena não autoriza a concessão imediata do benefício da prisão domiciliar, porquanto, nos termos da Súmula Vinculante n. 56, é imprescindível que a adoção de tal medida seja precedida das providências estabelecidas no julgamento do RE nº 641.320/RS" (Terma Repetitivo n. 933 desta Corte).
+À vista do exposto, denego o habeas corpus, in limine.
+Publique-se e intimem-se.
+EMENTA
