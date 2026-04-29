@@ -1,0 +1,59 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEXTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 23/04/2026 a 29/04/2026, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Sebastião Reis Júnior, Rogerio Schietti Cruz e Carlos Pires Brandão votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Carlos Pires Brandão.
+EMENTA
+PROCESSUAL PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. MINORANTE DO TRÁFICO PRIVILEGIADO. AFASTAMENTO COM BASE EM AÇÕES PENAIS EM ANDAMENTO E SEM TRÂNSITO EM JULGADO. IMPOSSIBILIDADE. AGRAVO IMPROVIDO.
+1. A minorante do tráfico privilegiado pode ser afastada quando demonstrada a dedicação do réu à prática de atividades ilícitas ou sua vinculação a organização criminosa.
+2. No caso concreto, a decisão de afastar a minorante apoiou-se na certidão de antecedentes criminais do paciente e em registros pretéritos (atos infracionais entre 2017 e 2018 pela prática de atos análogos aos tipificados nos arts. 147 e 155, § 4º, IV, do CP), em boletins de ocorrência que o vinculam ao tráfico, na apreensão de arma de fogo oculta na residência e, ainda, na existência de condenação por tráfico em outro processo.
+3. O acórdão impugnado contraria o entendimento do STJ, que veda a utilização de inquéritos e ações penais em curso para impedir a aplicação do art. 33, § 4º, da Lei n. 11.343/2006.
+4. Embora o paciente ostente condenação transitada em julgado pelo mesmo delito de tráfico de drogas nos autos de outro processo, percebe-se que se trata de fato posterior ao apurado na presente ação penal, não sendo título útil, portanto, para o afastamento da redutora.
+5. Agravo regimental improvido.
+RELATÓRIO
+Trata-se de agravo regimental interposto pelo MINISTÉRIO PÚBLICO FEDERAL contra a decisão que não conheceu do habeas corpus, mas concedeu ordem de ofício para reconhecer a minorante do tráfico privilegiado e determinar a reindividualização da pena, bem como manteve a licitude das provas decorrentes do ingresso domiciliar.
+Nas razões deste recurso, a parte recorrente sustenta, em síntese, a reforma da decisão agravada para afastar o tráfico privilegiado.
+Alega que o Tribunal de origem apoiou o não reconhecimento da minorante em elementos autônomos e suficientes, distintos de inquéritos ou ações penais em curso, quais sejam: histórico de atos infracionais, boletins de ocorrência vinculando o paciente ao tráfico, apreensão de arma de fogo na residência e condenação concomitante por delito da Lei de Armas no mesmo processo, todos aptos a demonstrar dedicação a atividades criminosas.
+Argumenta que o histórico infracional, considerado com gravidade e proximidade temporal, pode fundamentar o afastamento do art. 33, § 4º, da Lei n. 11.343/2006, consoante orientação da Terceira Seção nos EREsp n. 1.916.596/SP, diante de circunstâncias excepcionais e documentação idônea nos autos.
+Defende que há contemporaneidade entre os atos infracionais (2017-2018) e o delito julgado, pois o paciente completou 18 anos em 15/3/2022 e foi preso em 30/3/2020 por tráfico e posse de arma, evidenciando continuidade delitiva logo após atingir a maioridade, o que afasta o perfil de traficante ocasional.
+Expõe que o concurso material entre tráfico de drogas e posse irregular de arma de fogo, no mesmo processo, por si só revela envolvimento habitual com atividades criminosas e é fundamento bastante para negar o privilégio, somado às circunstâncias da prisão e apreensão de arma, sem exigir revolvimento aprofundado de provas na via estreita do habeas corpus.
+Ainda, aduz que, embora ações em curso não afastem o privilégio, remanescem os demais fundamentos do acórdão estadual, suficientes para manter o não reconhecimento da minorante, razão pela qual deve ser revista a ordem de readequação da dosimetria.
+Busca a reconsideração da decisão para que seja afastado o tráfico privilegiado e revogado o comando de reindividualização da pena, ou a submissão do recurso ao colegiado.
+É o relatório.
+EMENTA
+PROCESSUAL PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. MINORANTE DO TRÁFICO PRIVILEGIADO. AFASTAMENTO COM BASE EM AÇÕES PENAIS EM ANDAMENTO E SEM TRÂNSITO EM JULGADO. IMPOSSIBILIDADE. AGRAVO IMPROVIDO.
+1. A minorante do tráfico privilegiado pode ser afastada quando demonstrada a dedicação do réu à prática de atividades ilícitas ou sua vinculação a organização criminosa.
+2. No caso concreto, a decisão de afastar a minorante apoiou-se na certidão de antecedentes criminais do paciente e em registros pretéritos (atos infracionais entre 2017 e 2018 pela prática de atos análogos aos tipificados nos arts. 147 e 155, § 4º, IV, do CP), em boletins de ocorrência que o vinculam ao tráfico, na apreensão de arma de fogo oculta na residência e, ainda, na existência de condenação por tráfico em outro processo.
+3. O acórdão impugnado contraria o entendimento do STJ, que veda a utilização de inquéritos e ações penais em curso para impedir a aplicação do art. 33, § 4º, da Lei n. 11.343/2006.
+4. Embora o paciente ostente condenação transitada em julgado pelo mesmo delito de tráfico de drogas nos autos de outro processo, percebe-se que se trata de fato posterior ao apurado na presente ação penal, não sendo título útil, portanto, para o afastamento da redutora.
+5. Agravo regimental improvido.
+VOTO
+A pretensão recursal não merece acolhimento, uma vez que os fundamentos apresentados no agravo regimental não evidenciam haver equívoco na decisão recorrida.
+Como registrado oportunamente, assiste razão à parte impetrante quanto ao pleito de reconhecimento e aplicação da minorante do tráfico privilegiado.
+Sobre o assunto, assim se manifestou a Corte de origem (fls. 43-48):
+A despeito da primariedade do acusado (CAC à ordem 42), verifico que assiste razão ao d. Juízo singular quando aponta a existência de prova segura da dedicação de Caio a atividades criminosas.
+Infere-se da certidão de antecedentes do menor (ordem 10, p. 14) que, durante a inimputabilidade biológica, foram apurados alguns atos infracionais em desfavor do acusado (fatos ocorridos entre 2017 e 2018), revelando-se os seguintes enquadramentos: art. 147 e art. 155, § 4º, IV, ambos do CP.
+Também constam nos autos alguns boletins de ocorrências pertinentes a fatos ocorridos quando o réu era menor de idade (ordem 8, p. 17-24; ordem 9; ordem 10, p. 01-09).
+No histórico do REDS N. 2019-049340984-001 constou:
+ ..
+Nesse ponto, vale lembrar que é legítima a repercussão do histórico infracional para fins de aplicação do art. 33, § 4º, da Lei n. 11.343/2006, em processo-crime subsequente, quando evidenciada a gravidade concreta do fato e sua contemporaneidade com o crime em apuração:
+ ..
+Além disso, quando ouvido em juízo, o investigador Gustavo destacou que o acusado figura em diversos registros de ocorrência e, inclusive, estava recluso por fato atinente ao tráfico de drogas. Nesse aspecto, observo que na CAC de Caio consta a informação de um processo de execução "ativo" (autos n. 4401667-65.2022.8.13.0231), vinculado ao processo de n. 0044395-29.2021.8.13.0188. Assim, extraída a certidão de antecedentes atualizada pelo Sistema RUPE, foi possível verificar as seguintes informações:
+ ..
+Não desconheço que os fatos posteriores ao crime, os quais não integram o quadro fático da época, não podem ser utilizados para justificar o afastamento do benefício do art. 33, § 4º, da Lei n. 11.343/2006 (STJ, REsp n. 2.171.699/PR, relatora Ministra Daniela Teixeira, Quinta Turma, julgado em 17/12/2024, DJEN de 26/12/2024).
+Entretanto, no caso em apreço, a condenação nos autos de n. 0044395-29.2021.8.13.0188, embora posterior, recai sobre o mesmo tipo penal ora examinado, o que, aliado às demais peculiaridades dos autos, notadamente a apreensão de arma de fogo escondida em estrutura da residência do acusado e o relato consistente de envolvimento anterior com a mercancia ilícita, reforça a conclusão de que o réu não se insere no perfil de "traficante ocasional" ou de "primeira viagem", exigido para o reconhecimento da benesse legal.
+Vale observar que, ao analisar um caso análogo, no qual o agente também foi condenado por tráfico de drogas e posse irregular de arma de fogo de uso permitido, o c. STJ decidiu:
+ ..
+Destarte, é inviável o reconhecimento do privilégio previsto no art. 33, § 4º, da Lei n. 11.343/2006.
+Conforme se extrai do excerto acima transcrito, o Tribunal de origem afastou a minorante do art. 33, § 4º, da Lei n. 11.343/2006 por reconhecer dedicação do paciente a atividades criminosas, apoiando-se na certidão de antecedentes e em registros pretéritos (atos infracionais entre 2017 e 2018 pela prática de atos análogos ao tipificados nos arts. 147 e 155, § 4º, IV, do CP), em boletins de ocorrência que o vinculam ao tráfico, na apreensão de arma de fogo oculta na residência e, ainda, na existência de condenação por tráfico em outro processo.
+Todavia, a Terceira Seção desta Corte Superior, no julgamento do REsp n. 1.977.027/PR, de relatoria da Ministra Laurita Vaz (DJe de 18/8/2022), submetido ao rito dos recursos repetitivos (Tema n. 1.139), definiu ser " ..  vedada a utilização de inquéritos e/ou ações penais em curso para impedir a aplicação do art. 33, § 4º, da Lei n. 11.343/2006".
+Na mesma linha, embora o paciente ostente condenação transitada em julgado pelo mesmo delito de tráfico de drogas nos autos do Processo n. 0044395-29.2021.8.13.0188, percebe-se que se trata de fato posterior ao apurado na presente ação penal, não sendo título útil, portanto, para o afastamento da redutora. Nessa linha:
+PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. TRÁFICO. BENEFÍCIO DO ARTIGO 33, § 4º, DA LEI N. 11.343/2006. INCIDÊNCIA. CONDENAÇÃO DEFINITIVA POR FATO POSTERIOR AO DELITO DOS AUTOS. FUNDAMENTO PARA AFASTAR A MINORANTE. IMPOSSIBILIDADE. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. Para aplicação da causa de diminuição de pena do art. 33, § 4º, da Lei n. 11.343/2006, o condenado deve preencher, cumulativamente, todos os requisitos legais, quais sejam, ser primário, de bons antecedentes, não se dedicar a atividades criminosas, nem integrar organização criminosa, podendo a reprimenda ser reduzida de 1/6 (um sexto) a 2/3 (dois terços), a depender das circunstâncias do caso concreto.
+2. Os argumentos utilizados não foram suficientes para afastar a causa de diminuição, uma vez que a Corte de origem mencionou apenas a nocividade e a quantidade das drogas apreendidas associadas ao fato do agravante possuir condenação definitiva por crime posterior (dezembro/2022) aos fatos em exame (maio/2022), o que, de acordo com o entendimento desta Corte Superior, não justifica a não aplicação do tráfico privilegiado.
+3. A condenação transitada em julgado, mas por fato posterior àquele que está em apuração na ação penal, não indica dedicação à atividade criminosa impeditiva da incidência da minorante, porque no momento da sua prática essa dedicação não existia, surgindo apenas posteriormente (AgRg no AREsp n. 2.424.111/SP, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 6/2/2024, DJe de 15/2/2024).
+4. Agravo regimental não provido.
+(AgRg no AREsp n. 2.811.029/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 22/4/2025, DJEN de 30/4/2025, grifei.)
+Desse modo, ausentes fundamentos idôneos para afastar a causa de diminuição de pena do tráfico privilegiado, impõe-se seu reconhecimento por esta Corte Superior de Justiça, devendo os autos ser remetidos ao Tribunal de origem para a readequação da dosimetria da pena.
+Assim, deve ser mantido o não conhecimento do habeas corpus, com a concessão da ordem de ofício para determinar que o Tribunal de origem individualize novamente a pena aplicada ao paciente.
+Ante o exposto, nego provimento ao agravo regimental.
+É como voto.
