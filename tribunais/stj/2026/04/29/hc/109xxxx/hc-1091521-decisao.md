@@ -1,0 +1,22 @@
+DECISÃO
+Trata-se de habeas corpus substitutivo de recurso próprio, impetrado em favor de THIAGO BARBOSA DE MENESES, contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO proferido no julgamento do Agravo em Execução Penal n. 0037388-37.2025.8.26.0041.
+Consta dos autos que o Juízo da Execução indeferiu a detração da pena do paciente referente ao tempo de cumprimento do recolhimento domiciliar noturno e nos dias de folga.
+Irresignada, a defesa interpôs agravo em execução, o qual foi desprovido pela Corte de origem, nos termos do acórdão que restou assim ementado:
+"AGRAVO EM EXECUÇÃO PENAL DETRAÇÃO MEDIDA CAUTELAR DIVERSA DA PRISÃO RECOLHIMENTO DOMICILIAR NOTURNO - Agravo em execução interposto em face da decisão que indeferiu o pedido de detração de pena, relativamente ao período de liberdade provisória em que ao agravante foi imposta a obrigação de recolhimento domiciliar noturno e nos dias de folga - Art. 42 do Código Penal - Ausência de previsão legal - Tema 1155 do STJ - Precedente do STF (ARE 1481211) - Natureza jurídica distinta da custódia provisória - Medida que não compromete integralmente o status libertatis." (fl. 9)
+No presente writ, a impetrante busca a detração penal com o tempo de recolhimento domiciliar noturno.
+É o relatório.
+Decido.
+Em consonância com a orientação jurisprudencial da Primeira Turma do Supremo Tribunal Federal - STF, esta Corte não admite habeas corpus substitutivo de recurso próprio, sem prejuízo da concessão da ordem, de ofício, se existir flagrante ilegalidade na liberdade de locomoção.
+No caso, o Tribunal de origem julgou de forma contrária ao entendimento desta Corte, pois "nos termos da jurisprudência deste Superior Tribunal, "o período de recolhimento obrigatório noturno e nos dias de folga, por comprometer o status libertatis do acusado deve ser reconhecido como período a ser detraído da pena privativa de liberdade e da medida de segurança, em homenagem aos princípios da proporcionalidade e do non bis in idem" (REsp n. 1.977.135/SC, Terceira Seção, Rel. Min. Joel Ilan Paciornik, DJe de 28/11/2022)" (AgRg no REsp n. 1.976.934/SC, relator Ministro Messod Azulay Neto, Quinta Turma, julgado em 8/8/2023, DJe de 16/8/2023).
+A corroborar esse posicionamento:
+AGRAVO REGIMENTAL NO RECURSO ESPECIAL. EXECUÇÃO PENAL. DETRAÇÃO DE PERÍODO DE CUMPRIMENTO DE MEDIDA CAUTELAR DE RECOLHIMENTO DOMICILIAR NOTURNO E NOS DIAS DE FOLGA. POSSIBILIDADE. TEMA N. 1.155/STJ. TESE DE OFENSA A DISPOSITIVOS CONSTITUCIONAIS. INVIABILIDADE. AGRAVO REGIMENTAL PARCIALMENTE CONHECIDO E, NESSA EXTENSÃO, DESPROVIDO.
+1. A Terceira Seção desta Corte Superior, no julgamento do REsp n. 2.090.454/SP, sob o rito dos recursos repetitivos, fixou a seguinte orientação (Tema n. 1.155): "O período de recolhimento obrigatório noturno e nos dias de folga, por comprometer o status libertatis do acusado, deve ser reconhecido como período a ser detraído da pena privativa de liberdade e da medida de segurança, em homenagem aos princípios da proporcionalidade e do non bis in idem."
+2. O Superior Tribunal de Justiça não analisa suposta violação de dispositivos constitucionais, mesmo para prequestionamento, sob pena de usurpação da competência do Supremo Tribunal Federal.
+3. Agravo parcialmente conhecido e, nessa extensão, desprovido.
+(AgRg no REsp n. 2.238.757/SP, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 25/2/2026, DJEN de 3/3/2026.)
+Faço constar a conclusão de que o tempo a ser computado como pena cumprida, para fins de detração penal, limita-se aos intervalos em que o constrito permaneceu compulsoriamente em seu domicílio, ou seja, aquele período em que lhe foi permitido sair ou se encontrava voluntariamente em casa não deve ser descontado.
+A soma das horas de recolhimento domiciliar a que o apenado foi submetido deve ser convertida em dias para contagem da detração da pena. E, se no cômputo total remanescer período menor que vinte e quatro horas, esse tempo deverá ser desconsiderado, em atenção à regra do art. 11 do Código Penal, segundo a qual devem ser desprezadas, nas penas privativas de liberdade e nas restritivas de direito, as frações de dia (HC n. 455.097/PR).
+Por tais razões, com fulcro no art. 34, XX, do Regimento Interno do Superior Tribunal de Justiça, não conheço do habeas corpus. Todavia, concedo a ordem, de ofício, a fim de que o período de recolhimento domiciliar noturno e nos dias de folga obrigatório do paciente seja detraído da pena que lhe foi imposta.
+Publique-se.
+Intimem-se.
+EMENTA
