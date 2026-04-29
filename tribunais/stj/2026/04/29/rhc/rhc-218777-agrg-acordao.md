@@ -1,0 +1,102 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUINTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 23/04/2026 a 29/04/2026, por unanimidade, negar provimento ao recurso, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Reynaldo Soares da Fonseca, Ribeiro Dantas, Joel Ilan Paciornik e Messod Azulay Neto votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro Reynaldo Soares da Fonseca.
+EMENTA
+Direito Processual Penal. Agravo Regimental. Indeferimento de produção de prova pericial. Cerceamento de defesa. Preclusão. Agravo regimental desprovido.
+I. Caso em exame
+1. Agravo regimental interposto contra decisão que negou provimento a recurso em habeas corpus, no qual pleiteava a defesa a realização de perícia indireta para constatar marcas de lesões corporais no querelado, confrontando-as com vídeo constante nos autos, e a suspensão do feito até a conclusão de inquérito policial relacionado.
+2. A decisão agravada indeferiu o pedido de produção de prova pericial e de suspensão do feito, fundamentando-se na discricionariedade técnica do magistrado quanto à condução da fase instrutória, especialmente no que se refere à pertinência, necessidade e admissibilidade da produção de provas, conforme o art. 400, § 1º, do Código de Processo Penal.
+3. A defesa alegou cerceamento de defesa e nulidade absoluta pelo indeferimento da prova, argumentando que a preclusão não se aplicaria em casos de nulidade absoluta e que a negativa da perícia impossibilitaria a produção de prova essencial ao contraditório e à ampla defesa.
+II. Questão em discussão
+4. A questão em discussão consiste em saber se o indeferimento da produção de prova pericial requerida pela defesa configura cerceamento de defesa e nulidade absoluta, afastando a preclusão temporal e consumativa.
+III. Razões de decidir
+5. O magistrado é o destinatário final da prova e pode indeferir, de forma fundamentada, a produção de provas que considerar impertinentes, desnecessárias ou protelatórias, conforme o princípio do livre convencimento motivado.
+6. No caso, o indeferimento da prova pericial foi justificado pela ausência de demonstração inequívoca de relevância da prova e pela inexistência de requerimento da diligência no momento oportuno, configurando preclusão temporal e consumativa.
+7. A jurisprudência desta Corte é firme no sentido de que, salvo situações excepcionalíssimas, o indeferimento de diligências requeridas pela defesa não configura cerceamento de defesa, desde que devidamente fundamentado, oque compreende o caso dos autos.
+IV. Dispositivo e tese
+9. Resultado do Julgamento: Agravo regimental desprovido.
+Tese de julgamento:
+1. O magistrado, como destinatário final da prova, pode indeferir a produção de provas que considerar impertinentes, desnecessárias ou protelatórias, desde que o faça de forma fundamentada.
+2. A ausência de requerimento de diligência no momento oportuno configura preclusão temporal e consumativa, salvo em casos de nulidade absoluta devidamente demonstrada.
+3. O indeferimento de diligências requeridas pela defesa, quando devidamente fundamentado, não configura cerceamento de defesa, salvo em situações excepcionalíssimas.
+Dispositivos relevantes citados:CPP, art. 400, § 1º; CPP, art. 396-A.
+Jurisprudência relevante citada:STJ, AgRg nos EDcl no AREsp n. 1.366.958/PE, Min. Ribeiro Dantas, Quinta Turma, julgado em 28/5/2019; STJ, AgRg no HC n. 994.137/SP, Min. Reynaldo Soares da Fonseca, Quinta Turma, julgado em 10/9/2025; STJ, AgRg no RHC n. 225.264/RJ, Min. Antonio Saldanha Palheiro, Sexta Turma, julgado em 25/11/2025.
+RELATÓRIO
+Trata-se de agravo regimental interposto por DOUGLAS RAMOS, contra decisão de fls. 148-150, que negou provimento ao recurso em habeas corpus.
+Sustenta a parte agravante que a decisão agravada manteve a flagrante ilegalidade que está ocasionando nulidades processuais na ação penal originária e causando prejuízos concretos ao exercício do contraditório e da ampla defesa pelo paciente.
+Aduz que não se busca um reexame de provas, mas sim uma revaloração jurídica no sentido de atribuir o devido valor legal ao direito de defesa cerceado. Argui ausência de preclusão quanto à produção de prova pericial e documental, posto que não há prazos peremptórios na legislação processual penal quanto à matéria, sendo possível aplicar a previsão do art. 403 do CPP ao caso. Ressalta que a negativa da realização de perícia indireta ocasiona cerceamento de defesa, por impossibilitar a produção da única ferramenta capaz de confrontar a prova testemunhal da acusação e provar fato importante ao deslinde da questão em debate, bem como que a incerteza sobre elementos que somente a prova técnica consegue esclarecer torna o seu indeferimento com base na discricionariedade judicial em exercício arbitrário da atuação jurisdicional.
+Requer a retratação da decisão agravada e, em caso negativo, seja o recurso submetido ao julgamento do Colegiado a fim dar-lhe provimento para conceder a ordem a fim de anular a decisão que indeferiu a prova pericial e determinar a realização de perícia indireta pleiteada.
+É o relatório.
+EMENTA
+Direito Processual Penal. Agravo Regimental. Indeferimento de produção de prova pericial. Cerceamento de defesa. Preclusão. Agravo regimental desprovido.
+I. Caso em exame
+1. Agravo regimental interposto contra decisão que negou provimento a recurso em habeas corpus, no qual pleiteava a defesa a realização de perícia indireta para constatar marcas de lesões corporais no querelado, confrontando-as com vídeo constante nos autos, e a suspensão do feito até a conclusão de inquérito policial relacionado.
+2. A decisão agravada indeferiu o pedido de produção de prova pericial e de suspensão do feito, fundamentando-se na discricionariedade técnica do magistrado quanto à condução da fase instrutória, especialmente no que se refere à pertinência, necessidade e admissibilidade da produção de provas, conforme o art. 400, § 1º, do Código de Processo Penal.
+3. A defesa alegou cerceamento de defesa e nulidade absoluta pelo indeferimento da prova, argumentando que a preclusão não se aplicaria em casos de nulidade absoluta e que a negativa da perícia impossibilitaria a produção de prova essencial ao contraditório e à ampla defesa.
+II. Questão em discussão
+4. A questão em discussão consiste em saber se o indeferimento da produção de prova pericial requerida pela defesa configura cerceamento de defesa e nulidade absoluta, afastando a preclusão temporal e consumativa.
+III. Razões de decidir
+5. O magistrado é o destinatário final da prova e pode indeferir, de forma fundamentada, a produção de provas que considerar impertinentes, desnecessárias ou protelatórias, conforme o princípio do livre convencimento motivado.
+6. No caso, o indeferimento da prova pericial foi justificado pela ausência de demonstração inequívoca de relevância da prova e pela inexistência de requerimento da diligência no momento oportuno, configurando preclusão temporal e consumativa.
+7. A jurisprudência desta Corte é firme no sentido de que, salvo situações excepcionalíssimas, o indeferimento de diligências requeridas pela defesa não configura cerceamento de defesa, desde que devidamente fundamentado, oque compreende o caso dos autos.
+IV. Dispositivo e tese
+9. Resultado do Julgamento: Agravo regimental desprovido.
+Tese de julgamento:
+1. O magistrado, como destinatário final da prova, pode indeferir a produção de provas que considerar impertinentes, desnecessárias ou protelatórias, desde que o faça de forma fundamentada.
+2. A ausência de requerimento de diligência no momento oportuno configura preclusão temporal e consumativa, salvo em casos de nulidade absoluta devidamente demonstrada.
+3. O indeferimento de diligências requeridas pela defesa, quando devidamente fundamentado, não configura cerceamento de defesa, salvo em situações excepcionalíssimas.
+Dispositivos relevantes citados:CPP, art. 400, § 1º; CPP, art. 396-A.
+Jurisprudência relevante citada:STJ, AgRg nos EDcl no AREsp n. 1.366.958/PE, Min. Ribeiro Dantas, Quinta Turma, julgado em 28/5/2019; STJ, AgRg no HC n. 994.137/SP, Min. Reynaldo Soares da Fonseca, Quinta Turma, julgado em 10/9/2025; STJ, AgRg no RHC n. 225.264/RJ, Min. Antonio Saldanha Palheiro, Sexta Turma, julgado em 25/11/2025.
+VOTO
+Presentes os requisitos de admissibilidade, conheço do recurso.
+No mérito, contudo, a irresignação deixa de justificar-se, devendo a decisão atacada ser mantida por seus próprios fundamentos.
+A decisão ora agravada foi proferida nos seguintes termos (fls. 148-150):
+"(..) Como relatado, formulado pedido de diligências, para a realização de prova pericial indireta e requisição de imagens de câmeras de segurança, foi o pleito indeferido em audiência, mediante os seguintes fundamentos (e-STJ fls. 21-22):
+ ..  Indefiro a suspensão do feito a fim de realizar perícia indireta no querelado a fim de constatar a marca das lesões corporais por ele sofridas, sendo confrontada com o vídeo constante na inicial, bem como suspensão do feito até que se conclua o inquérito policial que apura lesão corporal e ameaça contra o querelado, conforme razões declinadas em gravação anexa. ..
+Impetrado habeas corpus, o Tribunal de Justiça assim se pronunciou (e-STJ fls. 80-81):
+ .. Conforme consta do termo de audiência realizado em 02/04/2025 (ID. 279957368), a autoridade coatora deliberou sobre os argumentos da defesa nos seguintes termos: Indefiro a requereu a suspensão do feito a fim de realizar perícia indireta no querelado a fim de constatar a marca das lesões corporais por ele sofridas, sendo confrontada com o vídeo constante na inicial, bem como suspensão foi feito até que se conclua o inquérito policial que apura lesão corporal e ameaça contra o querelado, conforme razões declinadas em gravação anexa. Observa-se, assim, que a decisão impugnada está adequadamente fundamentada, tendo sido proferida no exercício legítimo da discricionariedade técnica do magistrado quanto à condução da fase instrutória, especialmente no que se refere à pertinência, necessidade e admissibilidade da produção de provas, conforme previsto no §1º do artigo 400 do Código de Processo Penal: As provas serão produzidas em uma só audiência, podendo o juiz indeferir as consideradas irrelevantes, impertinente sou protelatórias. (art. 400 §1º, CPP) .
+O Superior Tribunal de Justiça possui entendimento no sentido de que: No sistema processual penal pátrio, há limitações ao exercício do direito à prova, tais como a previsão do art. 184 do CPP, que possibilita o indeferimento de perícia requerida pelas partes quando não for necessária ao esclarecimento dos fatos; do art. 212 do mesmo diploma, que dispõe sobre a não admissão de perguntas às testemunhas que não tiverem relação com a causa; e do art. 400 § 1º, que assim dispõe: "As provas ,produzidas em uma só audiência, podendo o juiz indeferir as consideradas irrelevantes, impertinentes ou protelatórias". Tais disposições não implicam violação do princípio da ampla defesa, mas providência coerente com o devido processo legal e com o princípio da razoável duração do processo (art. 5º, LXXVIII, da Lex Fundamentalis), máxime porque o magistrado deve fiscalizar a estratégia processual adotada pelas partes, velando para que a relação processual seja pautada pelo princípio da boa fé objetiva. (STJ, AgRg no Rel. Des. Rogério Schietti AR Esp 1007474/SC, Cruz, Sexta Turma, j. . 11/03/2025) .. Assim, não se conhece da presente impetração, porquanto a controvérsia suscitada demanda incursão no conjunto fático-probatório dos autos, bem como reavaliação de decisão devidamente fundamentada quanto à conveniência e pertinência da produção de provas  providência incompatível com a via estreita do habeas corpus. Ademais, não se verifica flagrante ilegalidade, abuso de poder ou teratologia na decisão impugnada que justifique a concessão da ordem, ainda que de ofício. ..
+Como se vê, o pedido foi indeferido fundamentadamente, tendo em vista a discricionariedade regrada do magistrado na condução da instrução processual, reputando-se, no caso, desnecessárias e preclusas as diligências complementares requeridas pela defesa, especialmente por terem sido pleiteadas em fase avançada do processo, e não no momento oportuno da resposta à acusação, conforme o art. 396-A do Código de Processo Penal.
+Não se verifica, portanto, ausência de fundamentação ou manifesta irrazoabilidade.
+Assim, conforme consolidado por esta Corte, ao juiz compete avaliar a necessidade e pertinência das diligências probatórias, podendo indeferir aquelas que considerar impertinentes, irrelevantes ou protelatórias, desde que o faça de forma motivada.
+A hipótese se enquadra exatamente nessa moldura, visto que a decisão impugnada examinou o pedido da defesa, expôs as razões pelas quais não havia utilidade na perícia indireta, e concluiu que a instrução já estava suficientemente formada.
+A pretensão recursal demandaria reavaliar, em grau mandamental, a pertinência técnica e jurídica das diligências requeridas, o que é inviável na estreita via do , que não habeas corpus admite revolvimento aprofundado do conjunto fático-probatório.
+O entendimento do Tribunal de Justiça está em consonância com reiterada jurisprudência desta Corte, segundo a qual o indeferimento fundamentado de diligências não configura cerceamento de defesa. Assim, o juiz pode rejeitar provas desnecessárias ou especulativas, além de que não cabe habeas corpus para reavaliar o juízo de pertinência da prova.
+Citam-se, por analogia, precedentes recentes que tratam exatamente da possibilidade de indeferimento fundamentado de diligências defensivas: AgRg no HC 776.538/MT, Sexta Turma, Ministro Rogerio Schietti Cruz, julgado em D Je AgRg no 15/10/2024, 4/11/2024; Sexta Turma, Ministro Otávio de Almeida Toledo, julgado em AREsp 2.758.792/MG, 22/4/2025,DJEN 29/4/2025.
+Os fundamentos do acórdão recorrido alinhados à jurisprudência do STJ afastam qualquer alegação de teratologia, abuso de poder ou flagrante ilegalidade (..)"
+Observa-se que o indeferimento da produção da prova pericial indireta no querelado a fim de constatar a marca das lesões corporais por ele sofridas, foi mantido com base na discricionariedade regrada exercida pelo magistrado quanto à condução da instrução probatória, conforme dispõe o §1º do art. 401 do CPP, o que permite a negativa de provas que o juízo as considere protelatórias, impertinentes ou desnecessárias ao deslinde da controvérsia jurídica, particularmente quando são realizadas após o momento devido para apresentação dos pedidos de produção de provas, consoante previsão do art. 396-A do CPP.
+No caso dos autos, o agravante apresentou esse pedido após o momento oportuno durante o início da instrução probatória e, ao avaliar a estratégia processual adotada pela parte, o juízo de origem entendeu como desnecessária a produção de prova pericial indireta para a solução da controvérsia, em especial quando o feito já se encaminhava para sua fase final.
+Por isso, ao contrário do que alegado pela agravante, a tese suscitada no presente recurso não é questão de simples revaloração jurídica e nem compreende situação excepcional que mereça sua análise pela via mandamental, mas sim requer um exame aprofundado do conjunto probatório dos autos a fim de rever o exame realizado pelo juízo de origem ao indeferir o pleito de produção de prova pericial, o que é incabível na vi estreita e célere do habeas corpus, posto que essa discussão deveria ter sido aduzida na via recursal cabível.
+A propósito:
+PROCESSO PENAL. AGRAVO REGIMENTAL NO RECURSO ORDINÁRIO EM HABEAS CORPUS. ALEGAÇÃO DE CERCEAMENTO DE DEFESA AFASTADO. JUIZ COMO DESTINATÁRIO DA PROVA. POSSIBILIDADE DE INDEFERIMENTO DE DILIGÊNCIAS IMPERTINENTES OU PROTELATÓRIAS. PRETENSÃO QUE DEMANDA REVOLVIMENTO FÁTICO-PROBATÓRIO. INADEQUAÇÃO DA VIA ELEITA. NULIDADE DO LAUDO PERICIAL E DIREITO DE ACESSO IRRESTRITO ÀS PROVAS. SUPRESSÃO DE INSTÂNCIA. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. O magistrado, como destinatário da prova, pode indeferir diligências reputadas impertinentes ou protelatórias, não se configurando cerceamento de defesa quando a limitação do escopo pericial decorre de juízo de pertinência e utilidade para o deslinde da causa.
+2. A tese de que a restrição pericial teria cerceado a defesa demanda reapreciação da necessidade da diligência e da utilidade de elementos não abrangidos, providência que pressupõe revolvimento de fatos e provas, incompatível com a via do habeas corpus.
+3. As alegações de nulidade do laudo por parcialidade e de direito de acesso irrestrito e integral às provas não foram apreciadas pelo Tribunal de origem, de modo que seu exame direto por esta Corte configuraria indevida supressão de instância.
+4. Agravo regimental não provido.
+(AgRg no RHC n. 220.550/DF, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 10/12/2025, DJEN de 15/12/2025.)
+DIREITO PROCESSUAL PENAL. AGRAVO REGIMENTAL NO RECURSO EM HABEAS CORPUS. PRODUÇÃO DE PROVA PERICIAL. INDEFERIMENTO. CERCEAMENTO DE DEFESA. PRECLUSÃO. AGRAVO REGIMENTAL DESPROVIDO.
+I. CASO EM EXAME
+1. Agravo regimental interposto contra decisão que negou provimento a recurso em habeas corpus, no qual pleiteava a defesa a realização de perícia de confronto de imagens para análise e comparação com as características físicas do recorrente, com o objetivo de verificar sua presença nas imagens relacionadas ao crime apurado.
+2. O recorrente foi pronunciado pelos crimes previstos nos arts.
+121, § 2º, I e IV, e 288-A, todos do Código Penal. A decisão de origem indeferiu a produção da prova pericial requerida, sob o fundamento de que não foi demonstrada a relevância da prova e de que não havia sido requerida pela defesa a diligência no momento oportuno, configurando preclusão.
+3. A defesa alegou cerceamento de defesa e nulidade absoluta pelo indeferimento da prova, argumentando que as imagens são pertinentes ao processo e que a preclusão não se aplicaria em casos de nulidade absoluta.
+II. QUESTÃO EM DISCUSSÃO
+4. A questão em discussão consiste em saber se o indeferimento da produção de prova pericial requerida pela defesa configura cerceamento de defesa e nulidade absoluta, afastando a preclusão temporal e consumativa.
+III. RAZÕES DE DECIDIR
+5. O magistrado é o destinatário final da prova e pode indeferir, de forma fundamentada, a produção de provas que considerar impertinentes, desnecessárias ou protelatórias, conforme o princípio do livre convencimento motivado.
+6. No caso, o indeferimento da prova pericial foi justificado pela ausência de demonstração inequívoca de que as imagens se referem ao crime apurado nos autos, bem como pela inexistência de requerimento da diligência no momento oportuno, configurando preclusão temporal e consumativa.
+7. A jurisprudência desta Corte é firme no sentido de que, salvo situações excepcionalíssimas, o indeferimento de diligências requeridas pela defesa não configura cerceamento de defesa, desde que devidamente fundamentado.
+8. A via eleita não permite a incursão em elementos probatórios para comprovar o liame entre as imagens obtidas em outro feito e os fatos apurados no processo originário.
+IV. DISPOSITIVO E TESE
+9. Resultado do Julgamento: Agravo regimental desprovido.
+Tese de julgamento:
+1. O magistrado, como destinatário final da prova, pode indeferir a produção de provas que considerar impertinentes, desnecessárias ou protelatórias, desde que o faça de forma fundamentada.
+2. A ausência de requerimento de diligência no momento oportuno configura preclusão temporal e consumativa, salvo em casos de nulidade absoluta devidamente demonstrada.
+3. O indeferimento de diligências requeridas pela defesa, quando devidamente fundamentado, não configura cerceamento de defesa, salvo em situações excepcionalíssimas.
+Dispositivos relevantes citados: CPP, art. 400, § 1º; CPP, art. 422.
+Jurisprudência relevante citada: STJ, AgRg nos EDcl no AREsp n. 1.366.958/PE, Min. Ribeiro Dantas, Quinta Turma, julgado em 28/5/2019; e STJ, AgRg no HC n. 994.137/SP, Min. Reynaldo Soares da Fonseca, Quinta Turma, julgado em 10/9/2025.
+(AgRg no RHC n. 225.264/RJ, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 25/11/2025, DJEN de 1/12/2025.)
+Por essa razão, não há flagrante ilegalidade e nem decisão judicial teratológica a ser reconhecida de plano nessa via, o que implica na manutenção da decisão agravada.
+Ante o exposto, nego provimento ao agravo regimental.
+É o voto.
