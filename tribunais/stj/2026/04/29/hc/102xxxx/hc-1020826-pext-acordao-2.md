@@ -1,0 +1,51 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEXTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 23/04/2026 a 29/04/2026, por unanimidade, deferir o pedido de extensão, nos termos do voto do Sr. Ministro Sebastião Reis Júnior.
+Os Srs. Ministros Rogerio Schietti Cruz, Carlos Pires Brandão e Og Fernandes votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Carlos Pires Brandão.
+EMENTA
+PEDIDO DE EXTENSÃO EM HABEAS CORPUS. HOMICÍDIOS QUALIFICADOS TENTADOS. ATENUANTE DE CONFISSÃO ESPONTÂNEA. RECONHECIMENTO. AGRAVANTES. FRAÇÃO DE AUMENTO. DESPROPORCIONALIDADE. REDUÇÃO DEVIDA. IDENTIDADE DE SITUAÇÕES CONSTATADA. EXTENSÃO DOS EFEITOS QUE SE IMPÕE.
+1. Verificada a identidade de situações ilegais entre o requerente e o paciente, impõe-se a extensão dos efeitos da decisão, consoante o disposto no art. 580 do Código de Processo Penal.
+2. Nos termos da Súmula 545/STJ, a atenuante da confissão espontânea deve ser reconhecida, ainda que tenha sido parcial ou qualificada, seja ela judicial ou extrajudicial, e mesmo que o réu venha a dela se retratar.
+3. Não reconhecida, pelas instâncias ordinárias, a atenuante da confissão, está configurada ilegalidade que impõe o redimensionamento da pena, devendo, contudo, a fração de redução ser aplicada em menor proporção, já que se tratou de confissão parcial.
+4. Reconhecida a desproporcionalidade nas frações de aumento utilizadas na segunda fase, imperiosa a concessão de habeas corpus de ofício, para limitar a majoração em 1/6 para cada uma das qualificadoras remanescentes utilizadas como agravantes.
+5. Pedido de extensão deferido nos termos do dispositivo.
+RELATÓRIO
+Trata-se de pedido de extensão formulado por Ronilso Peris da Silva, condenado pelos crimes de homicídio qualificado tentado à pena de 23 anos e 4 meses de reclusão, em regime inicial fechado (fls. 179/183).
+A Sexta Turma julgou o writ impetrado por Diego de Oliveira Queiroz da Silva e concedeu a ordem em parte, tão somente para aplicar a atenuante da confissão espontânea parcial, e, de ofício, concedeu a ordem para reduzir a fração de aumento empregada nas agravantes, redimensionando a pena privativa de liberdade final para 18 anos, 8 meses e 18 dias de reclusão, mantido o regime inicial fechado e os demais termos do acórdão (fls. 167/173).
+O requerente sustenta, em síntese, a incidência do art. 580 do Código de Processo Penal, por existir concurso de agentes e identidade fática-processual entre os corréus, de modo que deve aproveitar a decisão favorável no habeas corpus, já que condenado no mesmo processo e nas mesmas condições (fls. 179/180).
+Requer a extensão dos efeitos do HC n. 1.020.826/SP a RONILSO PERIS DA SILVA, com o redimensionamento da pena para 18 anos, 8 meses e 18 dias de reclusão, em regime inicial fechado, e a readequação proporcional da pena de multa (fls. 179/181) - (Processo n. 0005261-68.2017.8.26.0189, da 2ª Vara Criminal da comarca de Fernandópolis/SP).
+O Ministério Público Federal manifestou-se pela concessão da extensão da ordem (fls. 195/198).
+É o relatório.
+EMENTA
+PEDIDO DE EXTENSÃO EM HABEAS CORPUS. HOMICÍDIOS QUALIFICADOS TENTADOS. ATENUANTE DE CONFISSÃO ESPONTÂNEA. RECONHECIMENTO. AGRAVANTES. FRAÇÃO DE AUMENTO. DESPROPORCIONALIDADE. REDUÇÃO DEVIDA. IDENTIDADE DE SITUAÇÕES CONSTATADA. EXTENSÃO DOS EFEITOS QUE SE IMPÕE.
+1. Verificada a identidade de situações ilegais entre o requerente e o paciente, impõe-se a extensão dos efeitos da decisão, consoante o disposto no art. 580 do Código de Processo Penal.
+2. Nos termos da Súmula 545/STJ, a atenuante da confissão espontânea deve ser reconhecida, ainda que tenha sido parcial ou qualificada, seja ela judicial ou extrajudicial, e mesmo que o réu venha a dela se retratar.
+3. Não reconhecida, pelas instâncias ordinárias, a atenuante da confissão, está configurada ilegalidade que impõe o redimensionamento da pena, devendo, contudo, a fração de redução ser aplicada em menor proporção, já que se tratou de confissão parcial.
+4. Reconhecida a desproporcionalidade nas frações de aumento utilizadas na segunda fase, imperiosa a concessão de habeas corpus de ofício, para limitar a majoração em 1/6 para cada uma das qualificadoras remanescentes utilizadas como agravantes.
+5. Pedido de extensão deferido nos termos do dispositivo.
+VOTO
+Dispõe o art. 580 do Código de Processo Penal que, no caso de concurso de agentes (Código Penal, art. 25), a decisão do recurso interposto por um dos réus, se fundado em motivos que não sejam de caráter exclusivamente pessoal, aproveitará aos outros.
+Portanto, a extensão dos efeitos da ordem não é automática, pois requer pleno alinhamento do requisito objetivo (identidade fática) e requisito subjetivo (circunstâncias pessoais).
+Nesse sentido: AgRg no RHC n. 180.888/RS, de minha relatoria, Sexta Turma, DJe de 31/8/2023.
+Verifica-se que o voto paradigma reconheceu a ocorrência de ilegalidade na dosimetria da pena, especificamente em sua segunda fase, tanto pela necessidade do reconhecimento da atenuante da confissão espontânea quanto pela inadequação do quantum de aumento aplicado em razão das agravantes.
+Assim, assiste razão ao pedido de extensão, pois se verifica identidade de situações ilegais entre o requerente e o paciente, vejamos.
+Inicialmente, quanto ao reconhecimento da atenuante da confissão espontânea do réu, verifico que o requerente também confessou a prática do delito.
+No entanto, o Juízo primevo apontou a impossibilidade de reconhecimento da confissão porque, no primeiro fato, o réu negou a intensão de o comparsa, réu Diego, matar a vítima (fl. 112) e, no segundo fato, o réu negou a intensão de matar a vítima, mesmo diante da manifesta intensão do réu Ronilso ao efetuar os seis projéteis disparados (fl. 113).
+Com efeito, cabe lembrar que, nos termos da Súmula 545/STJ, a atenuante da confissão espontânea deve ser reconhecida, ainda que tenha sido parcial ou qualificada, seja ela judicial ou extrajudicial, e mesmo que o réu venha a dela se retratar (AgRg no AgRg no REsp n. 2.069.845/MG, Ministro Jesuíno Rissato (Desembargador convocado do TJDFT), Sexta Turma, DJe 18/3/2024).
+Nesse passo, identifico ilegalidade que impõe o reconhecimento da atenuante da confissão espontânea em relação a ambos os fatos, a qual, no entanto, deve ser aplicada em menor proporção, já que se tratou de confissão parcial (Recurso Especial Repetitivo n. 2.001.973/RS).
+Além disso, verifico que foram reconhecidas, em relação ao primeiro fato, três qualificadoras como circunstâncias agravantes, quais sejam, o motivo torpe, o meio cruel e o recurso que dificultou a defesa da vítima e, em relação ao segundo, duas, motivo torpe e o recurso que dificultou a defesa da vítima, tendo o Juízo primevo empregado frações distintas para o aumento de cada uma delas, acarretando aumento desproporcional, bem como majoração acima do máximo legal, no primeiro fato, o que não é permitido pela jurisprudência consolidada desta Corte de Justiça.
+Em consequência, em observância ao limite máximo da pena, a Corte de origem fixou o máximo permitido na segunda fase para o primeiro delito, qual seja, 30 anos de reclusão.
+No entanto, permaneceu o aumento desproporcional das agravantes do motivo torpe e recurso que dificultou a defesa da vítima, motivo pelo qual imperiosa a concessão de habeas corpus de ofício para limitar o aumento, na segunda fase, em 1/6 para cada uma das qualificadoras remanescentes utilizadas, cabendo, após, a redução de 1/12 pela confissão espontânea parcial ora reconhecida.
+Com essas considerações e obedecidas as diretrizes fixadas pelas instâncias ordinárias não modificadas, na mesma linha do que julgado no presente writ, passo ao redimensionamento da pena do requerente Ronilso.
+Primeiro fato: interior da casa
+Na primeira fase, mantida a negativação das circunstâncias, preservo a pena-base aplicada na origem, de 17 anos e 6 meses de reclusão.
+Na segunda fase, foram reconhecidas três das qualificadoras como circunstâncias agravantes, quais sejam, o motivo torpe, o meio cruel e o recurso que dificultou a defesa da vítima. Considerando a ordem concedida de ofício neste particular, aumento a pena em 1/2 (1/6 para cada uma das qualificadoras), ensejando o montante de 26 anos e 3 meses de reclusão, do qual diminuo 1/12 pela atenuante acima reconhecida, fixando, nesta etapa intermediária, a reprimenda em 24 anos e 23 dias de reclusão.
+Na terceira fase, mantenho a redução efetuada na origem, em 1/3, fixando a pena em 16 anos e 16 dias de reclusão.
+2º fato: via pública
+Na primeira fase, mantida a negativação das circunstâncias, preservo a pena-base aplicada na origem, de 14 anos de reclusão.
+Na segunda fase, foram reconhecidas duas das qualificadoras como circunstâncias agravantes, quais sejam, o motivo torpe e o recurso que dificultou a defesa da vítima. Considerando a ordem concedida de ofício, neste particular, aumento a pena em 1/3 (1/6 para cada uma das qualificadoras), ensejando o montante de 18 anos e 8 meses de reclusão, do qual diminuo 1/12 pela atenuante acima reconhecida, fixando, nesta etapa intermediária, a reprimenda em 17 anos, 1 mês e 10 dias de reclusão.
+Na terceira fase, mantenho a redução efetuada na origem, em 1/3, fixando a pena em 11 anos, 4 meses e 27 dias de reclusão.
+Por fim, em razão da continuidade delitiva reconhecida na origem, mantenho a exasperação de 1/6 da pena mais grave e fixo a pena privativa de liberdade do requerente, Ronilso Peris da Silva, em definitivo, em 18 anos, 8 meses e 18 dias de reclusão.
+Considerando a fundamentação lançada pelas instâncias ordinárias mantenho o regime inicial fechado, nos termos do art. 33, §§ 2º e 3º, do Código Penal.
+No mais, registro que não houve aplicação de pena de multa, razão pela qual inexiste interesse de agir quanto ao pleito de redução da referida reprimenda formulado pelo requerente (fl. 181).
+Ante o exposto, defiro o pedido formulado por Ronilso Peris da Silva para estender a ordem de habeas corpus concedida parcialmente tão somente para aplicar a atenuante da confissão espontânea parcial, bem como para estender a ordem concedida de ofício, para reduzir a fração de aumento empregada nas agravantes e, em consequência, redimensiono a pena, nos moldes acima expostos.
