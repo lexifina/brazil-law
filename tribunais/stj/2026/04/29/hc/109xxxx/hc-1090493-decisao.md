@@ -1,0 +1,18 @@
+DECISÃO
+EDUARDO HENRIQUE ARAÚJO BORGES alega sofrer coação ilegal diante de acórdão do Tribunal de Justiça do Estado de São Paulo, proferido na Apelação n. 1500512-27.2025.8.26.0617.
+Consta dos autos que o paciente foi condenado pela prática do crime de roubo majorado tentado (art. 157, § 2º, II c/c art. 14, II, do Código Penal), à pena de 3 anos, 6 meses e 20 dias de reclusão, além de 8 dias-multa.
+O Juízo de primeiro grau fixou o regime inicial aberto para o cumprimento da pena. O Tribunal de origem deu provimento ao recurso ministerial para fixar o regime inicial fechado, sob o fundamento da gravidade concreta da conduta.
+A Defensoria Pública sustenta, em síntese, a ilegalidade da imposição de regime mais gravoso sem fundamentação concreta e individualizada, em afronta ao art. 33, §§ 2º e 3º, do Código Penal. Alega que o paciente é primário, confessou o delito, não possui circunstâncias judiciais desfavoráveis e foi condenado a pena inferior a 4 anos.
+Requer a concessão da ordem, para que seja restabelecido o regime aberto fixado na sentença.
+Decido.
+Segundo o acórdão recorrido, apontado como ato coator, o paciente foi condenado porque, em concurso de agentes, tentou subtrair uma bicicleta da vítima, mediante grave ameaça, simulando o porte de arma de fogo (utilizou uma pedra sob a camiseta para intimidar). O crime não se consumou por circunstâncias alheias à vontade dos agentes, pois a vítima e terceiros reagiram e conseguiram contê-lo.
+O réu é primário, confessou o delito e a pena-base foi fixada no mínimo legal. O Tribunal alterou o regime aberto para o fechado ante a gravidade do roubo, porque praticado em concurso de agentes, em contexto de simulação de arma de fogo (grave ameaça) e tentativa da subtração.
+A jurisprudência consolidada desta Superior Tribunal de Justiça, em harmonia com a do Supremo Tribunal Federal, firmou-se no sentido de que a imposição de regime inicial mais severo do que o legalmente previsto exige fundamentação concreta.
+Dispõe a Súmula 440 do Superior Tribunal de Justiça que "fixada a pena-base no mínimo legal, é vedado o estabelecimento de regime prisional mais gravoso do que o cabível em razão da sanção imposta, com base apenas na gravidade abstrata do delito".
+De igual modo, a Súmula 718 do Supremo Tribunal Federal estabelece que "a opinião do julgador sobre a gravidade em abstrato do crime não constitui motivação idônea para a imposição de regime mais severo do que o permitido segundo a pena aplicada", enquanto a Súmula 719 da mesma Corte dispõe que "a imposição do regime de cumprimento mais severo do que a pena aplicada permitir exige motivação idônea".
+No caso concreto, verifica-se que o Tribunal de origem limitou-se a destacar circunstâncias inerentes ao próprio tipo penal, sem apontar elementos concretos que evidenciem maior reprovabilidade da conduta ou especial periculosidade do agente, sobretudo quando as circunstâncias judiciais foram valoradas de forma favorável na sentença, com fixação da pena-base no mínimo legal, e o réu confessou o crime.
+Não se desconhece que, em determinadas hipóteses, o modus operandi pode justificar a exasperação do regime prisional. Todavia, para tanto, exige-se motivação específica, lastreada em circunstâncias efetivamente excepcionais, o que não se verifica na espécie.
+Assim, a alteração do regime inicial para o fechado revela-se desprovida de motivação idônea, o que configura constrangimento ilegal passível de correção na via do habeas corpus.
+Diante do exposto, concedo o habeas corpus, in limine, para restabelecer o regime inicial aberto fixado na sentença.
+Publique-se e intimem-se.
+EMENTA
