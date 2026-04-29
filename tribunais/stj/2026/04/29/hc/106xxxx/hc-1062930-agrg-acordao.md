@@ -1,0 +1,68 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUINTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 23/04/2026 a 29/04/2026, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Joel Ilan Paciornik, Messod Azulay Neto, Maria Marluce Caldas e Reynaldo Soares da Fonseca votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Reynaldo Soares da Fonseca.
+EMENTA
+Direito processual penal. Agravo regimental em habeas corpus. Acesso a dados de aparelhos celulares apreendidos. Fundamentação da decisão judicial. Trânsito em julgado da condenação. Agravo regimental não provido.
+I. Caso em exame
+1. O recurso. Agravo regimental interposto pela defesa contra decisão monocrática de Ministro Relator que não conheceu de habeas corpus impetrado em favor de paciente condenada, cuja sentença já transitou em julgado.
+2. A impetração. No habeas corpus originário, direcionado contra acórdão de Tribunal de Justiça, a defesa alegou nulidade da prova obtida mediante acesso a dados de aparelhos celulares apreendidos, por ausência de fundamentação concreta na representação policial, no requerimento ministerial e na decisão judicial que autorizou a medida, sustentando genericidade da diligência, falta de demonstração de necessidade ou indispensabilidade, violação a garantias constitucionais e caráter determinante desses elementos para a condenação e para o aditamento da denúncia em desfavor da paciente.
+3. A decisão agravada e o pedido. A decisão agravada não conheceu do habeas corpus, em razão do trânsito em julgado da condenação, reconhecendo a inadequação da via eleita, mas, ainda assim, examinou eventual flagrante ilegalidade e concluiu pela suficiência da fundamentação da decisão que autorizou o acesso aos dados dos celulares, afastando a nulidade arguida. No agravo regimental, a defesa reitera a ausência de fundamentação concreta e a desnecessidade da medida, insistindo na ilicitude da prova e das derivadas, requerendo o provimento do agravo para que o habeas corpus seja conhecido e, no mérito, seja reconhecida a nulidade da prova, com seu desentranhamento e o das provas dela derivadas, bem como a absolvição da paciente.
+II. Questão em discussão
+4. Há duas questões em discussão: (i) saber se o habeas corpus pode ser utilizado, após o trânsito em julgado da condenação, como sucedâneo de revisão criminal, diante da alegação de flagrante ilegalidade; e (ii) saber se a decisão que autorizou o acesso aos dados dos aparelhos celulares apreendidos é nula por ausência de fundamentação concreta e de demonstração de necessidade da diligência, com consequente ilicitude da prova e das provas derivadas, apta a contaminar integralmente o édito condenatório.
+III. Razões de decidir
+5. O trânsito em julgado da condenação, em regra, inviabiliza o uso do habeas corpus como sucedâneo de revisão criminal, admitindo-se, contudo, o exame excepcional do mérito apenas para averiguar eventual flagrante ilegalidade.
+6. A fundamentação adotada pelo juízo de primeiro grau, ainda que sucinta, está vinculada ao caso concreto, pois faz referência ao contexto da investigação, à apreensão dos aparelhos celulares e à necessidade da medida para elucidação dos fatos, atendendo às exigências legais para a autorização do acesso aos dados.
+7. A pretensão de infirmar a conclusão das instâncias ordinárias, discutindo a desnecessidade da diligência ou a existência de outros meios de prova, exigiria reexame aprofundado do conjunto fático-probatório, providência incompatível com a via estreita do habeas corpus e, por consequência, com o agravo regimental nele interposto.
+8. A condenação não se apoiou exclusivamente nos elementos obtidos a partir dos aparelhos celulares, mas em conjunto probatório mais amplo, circunstância que afasta a alegação de contaminação integral do édito condenatório e impede o reconhecimento de flagrante ilegalidade apta a justificar a concessão da ordem.
+9. Inexistindo flagrante ilegalidade na decisão que autorizou o acesso aos dados dos celulares e na formação do juízo condenatório, mantém-se a decisão monocrática que não conheceu do habeas corpus e rejeitou o pedido de nulidade da prova.
+IV. Dispositivo e tese
+10. Resultado do Julgamento: Agravo regimental im provido.
+Tese de julgamento:
+1. O habeas corpus não pode ser utilizado como sucedâneo de revisão criminal após o trânsito em julgado da condenação, admitindo-se apenas o exame de eventual flagrante ilegalidade.
+2. A decisão que autoriza acesso a dados de aparelhos celulares apreendidos atende às exigências legais quando, ainda que de forma sucinta, vincula-se ao contexto fático da investigação, à apreensão dos aparelhos e à necessidade da medida para a elucidação dos fatos.
+3. A discussão acerca da desnecessidade da diligência ou da existência de outros meios de prova demanda reexame aprofundado do conjunto fático-probatório, incompatível com a via estreita do habeas corpus.
+4. A existência de conjunto probatório amplo e independente afasta a alegação de contaminação integral do édito condenatório por eventual nulidade de provas obtidas em aparelhos celulares.
+Dispositivos relevantes citados: Não há dispositivos legais expressamente mencionados na decisão.
+Jurisprudência relevante citada: Não há precedentes jurisprudenciais expressamente mencionados na decisão.
+RELATÓRIO
+Trata-se de agravo regimental interposto por ALESSANDRA DOS SANTOS MARTINS contra decisão monocrática proferida pelo Ministro Relator que não conheceu do habeas corpus.
+Na impetração, dirigida contra acórdão do Tribunal de Justiça de São Paulo, a defesa alegou nulidade da prova obtida mediante acesso a dados de aparelhos celulares apreendidos, ao argumento de ausência de fundamentação concreta na representação policial, no requerimento ministerial e na decisão judicial que autorizou a medida. Sustentou que a diligência foi deferida de forma genérica, sem demonstração de sua necessidade ou indispensabilidade, em afronta às garantias constitucionais, e que os elementos dela decorrentes foram determinantes para a condenaç ão, inclusive para o aditamento da denúncia em desfavor da paciente.
+A decisão agravada não conheceu do habeas corpus, em razão do trânsito em julgado da condenação, assentando a inadequação da via eleita. Ainda assim, examinou a alegação de flagrante ilegalidade e concluiu que a decisão que autorizou a medida, embora sucinta, estava vinculada ao contexto fático da investigação e indicava elementos suficientes para justificar a providência, afastando a nulidade arguida.
+No presente agravo regimental, a defesa reitera a tese de ausência de fundamentação concreta e de desnecessidade da medida, insistindo na ilicitude da prova e das derivadas.
+Requer, ao final, o provimento do agravo para que seja conhecido o habeas corpus e concedida a ordem, a fim de reconhecer a nulidade da prova, com seu desentranhamento e das provas dela derivadas, e, por conseguinte, a absolvição da paciente.
+É o relatório.
+EMENTA
+Direito processual penal. Agravo regimental em habeas corpus. Acesso a dados de aparelhos celulares apreendidos. Fundamentação da decisão judicial. Trânsito em julgado da condenação. Agravo regimental não provido.
+I. Caso em exame
+1. O recurso. Agravo regimental interposto pela defesa contra decisão monocrática de Ministro Relator que não conheceu de habeas corpus impetrado em favor de paciente condenada, cuja sentença já transitou em julgado.
+2. A impetração. No habeas corpus originário, direcionado contra acórdão de Tribunal de Justiça, a defesa alegou nulidade da prova obtida mediante acesso a dados de aparelhos celulares apreendidos, por ausência de fundamentação concreta na representação policial, no requerimento ministerial e na decisão judicial que autorizou a medida, sustentando genericidade da diligência, falta de demonstração de necessidade ou indispensabilidade, violação a garantias constitucionais e caráter determinante desses elementos para a condenação e para o aditamento da denúncia em desfavor da paciente.
+3. A decisão agravada e o pedido. A decisão agravada não conheceu do habeas corpus, em razão do trânsito em julgado da condenação, reconhecendo a inadequação da via eleita, mas, ainda assim, examinou eventual flagrante ilegalidade e concluiu pela suficiência da fundamentação da decisão que autorizou o acesso aos dados dos celulares, afastando a nulidade arguida. No agravo regimental, a defesa reitera a ausência de fundamentação concreta e a desnecessidade da medida, insistindo na ilicitude da prova e das derivadas, requerendo o provimento do agravo para que o habeas corpus seja conhecido e, no mérito, seja reconhecida a nulidade da prova, com seu desentranhamento e o das provas dela derivadas, bem como a absolvição da paciente.
+II. Questão em discussão
+4. Há duas questões em discussão: (i) saber se o habeas corpus pode ser utilizado, após o trânsito em julgado da condenação, como sucedâneo de revisão criminal, diante da alegação de flagrante ilegalidade; e (ii) saber se a decisão que autorizou o acesso aos dados dos aparelhos celulares apreendidos é nula por ausência de fundamentação concreta e de demonstração de necessidade da diligência, com consequente ilicitude da prova e das provas derivadas, apta a contaminar integralmente o édito condenatório.
+III. Razões de decidir
+5. O trânsito em julgado da condenação, em regra, inviabiliza o uso do habeas corpus como sucedâneo de revisão criminal, admitindo-se, contudo, o exame excepcional do mérito apenas para averiguar eventual flagrante ilegalidade.
+6. A fundamentação adotada pelo juízo de primeiro grau, ainda que sucinta, está vinculada ao caso concreto, pois faz referência ao contexto da investigação, à apreensão dos aparelhos celulares e à necessidade da medida para elucidação dos fatos, atendendo às exigências legais para a autorização do acesso aos dados.
+7. A pretensão de infirmar a conclusão das instâncias ordinárias, discutindo a desnecessidade da diligência ou a existência de outros meios de prova, exigiria reexame aprofundado do conjunto fático-probatório, providência incompatível com a via estreita do habeas corpus e, por consequência, com o agravo regimental nele interposto.
+8. A condenação não se apoiou exclusivamente nos elementos obtidos a partir dos aparelhos celulares, mas em conjunto probatório mais amplo, circunstância que afasta a alegação de contaminação integral do édito condenatório e impede o reconhecimento de flagrante ilegalidade apta a justificar a concessão da ordem.
+9. Inexistindo flagrante ilegalidade na decisão que autorizou o acesso aos dados dos celulares e na formação do juízo condenatório, mantém-se a decisão monocrática que não conheceu do habeas corpus e rejeitou o pedido de nulidade da prova.
+IV. Dispositivo e tese
+10. Resultado do Julgamento: Agravo regimental im provido.
+Tese de julgamento:
+1. O habeas corpus não pode ser utilizado como sucedâneo de revisão criminal após o trânsito em julgado da condenação, admitindo-se apenas o exame de eventual flagrante ilegalidade.
+2. A decisão que autoriza acesso a dados de aparelhos celulares apreendidos atende às exigências legais quando, ainda que de forma sucinta, vincula-se ao contexto fático da investigação, à apreensão dos aparelhos e à necessidade da medida para a elucidação dos fatos.
+3. A discussão acerca da desnecessidade da diligência ou da existência de outros meios de prova demanda reexame aprofundado do conjunto fático-probatório, incompatível com a via estreita do habeas corpus.
+4. A existência de conjunto probatório amplo e independente afasta a alegação de contaminação integral do édito condenatório por eventual nulidade de provas obtidas em aparelhos celulares.
+Dispositivos relevantes citados: Não há dispositivos legais expressamente mencionados na decisão.
+Jurisprudência relevante citada: Não há precedentes jurisprudenciais expressamente mencionados na decisão.
+VOTO
+O agravo regimental não merece provimento.
+De início, cumpre observar que, conforme consignado na decisão agravada, a condenação já transitou em julgado, o que, em regra, inviabiliza a utilização do habeas corpus como sucedâneo de revisão criminal.
+Não obstante, e em atenção à orientação consolidada desta Corte, procedeu-se ao exame do mérito da impetração, a fim de verificar a eventual existência de flagrante ilegalidade.
+No ponto, a alegação defensiva de nulidade da decisão que autorizou o acesso aos dados dos aparelhos celulares não se sustenta.
+Isso porque, embora sucinta, a fundamentação adotada pelo Juízo de primeiro grau não se apresenta dissociada do caso concreto. A decisão faz referência ao contexto da investigação, à apreensão dos aparelhos e à necessidade da medida para a elucidação dos fatos, o que, à luz da jurisprudência desta Corte, mostra-se suficiente para atender às exigências legais.
+A pretensão de infirmar essa conclusão, com o reconhecimento da desnecessidade da diligência ou da existência de outros meios de prova, demandaria incursão aprofundada no conjunto fático-probatório, providência incompatível com a via estreita do habeas corpus.
+Ademais, conforme destacado pelas instâncias ordinárias, a condenação não se apoiou exclusivamente nos elementos extraídos dos aparelhos celulares, mas em um conjunto probatório mais amplo, circunstância que, por si só, afasta a alegação de contaminação integral do édito condenatório.
+Não se evidencia, portanto, situação de flagrante ilegalidade apta a justificar a concessão da ordem.
+Diante disso, nego provimento ao agravo regimental.
+É como voto.
