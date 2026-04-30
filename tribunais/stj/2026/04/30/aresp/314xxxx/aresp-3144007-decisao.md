@@ -1,0 +1,54 @@
+DECISÃO
+Cuida-se de agravo de WESLEY FAVACHO CHAGAS contra decisão proferida no TRIBUNAL DE JUSTIÇA DO ESTADO DO PARÁ - TJPA que inadmitiu o recurso especial interposto com fundamento no art. 105, III, alínea "a", da Constituição Federal, contra acórdão proferido no julgamento da Apelação Criminal n. 017135-58.2019.8.14.0401.
+Consta dos autos que o agravante foi condenado pela prática do delito de extorsão qualificada pelo concurso de agentes, a cumprir pena de 9 anos e 4 meses de reclusão e pagamento de 90 dias-multa no valor mínimo legal, no regime inicial fechado.
+Recurso de apelação interposto pela defesa foi conhecido e desprovido, tendo sido a pena redimensionada de ofício (fl. 597).
+A defesa interpôs recurso especial à fl. 611 e o Ministério Público do Estado do Pará - MPPA devolveu os autos em diligência para a juntada da íntegra do recurso especial (fls. 613/614).
+O recurso especial foi inadmitido no TJPA ao fundamento de que, conforme jurisprudência do Superior Tribunal de Justiça - STJ, "é dever da parte recorrente fiscalizar a transmissão do recurso por sistema eletrônico, consubstanciando erro insanável o peticionamento incompleto das razões recursais" (fl. 618).
+Em agravo em recurso especial, a defesa impugnou o referido óbice invocando o princípio do acesso à justiça, bem como o princípio da instrumentalidade das formas (fls. 626/629).
+Contraminuta do MPPA às fls. 631/635.
+Os autos vieram a esta Corte, sendo protocolados e distribuídos. Aberta vista ao Ministério Público Federal - MPF, este opinou pelo não provimento ao agravo em recurso especial.
+É o relatório.
+Decido.
+Atendidos os pressupostos de admissibilidade do agravo em recurso especial, passo à análise do recurso especial.
+O recurso especial não merece conhecimento, eis que fora interposto de forma incompleta, situação que impede o complemento das razões posteriormente em razão da preclusão consumativa. A propósito, confiram-se os seguintes julgados desta Corte Superior de Justiça, cujas ementas seguem transcritas:
+AGRAVO REGIMENTAL NO HABEAS CORPUS SUBSTITUTIVO DE RECURSO ORDINÁRIO. ANTERIOR INTERPOSIÇÃO DE RECURSO. NOVA INSURGÊNCIA. PRECLUSÃO CONSUMATIVA. AGRAVO REGIMENTAL NÃO CONHECIDO.
+1. Segundo entendimento pacificado no Superior Tribunal de Justiça, é da parte recorrente a responsabilidade pelo zelo na regularidade da interposição do seu recurso. Ademais, verificado que o recurso não foi transmitido por inteiro, com evidente prejuízo da compreensão da controvérsia, a iniciativa do recorrente de protocolizar nova petição, contendo a integralidade das razões recursais, esbarra na preclusão consumativa (AgRg nos EDcl nos EREsp n. 1.268.885/PR, Terceira Seção, Rel. Min. Marco Aurélio Belizze, DJe de 19/03/2013).
+2. Na hipótese, o presente agravo regimental revela-se manifestamente inadmissível em razão do fenômeno da preclusão consumativa, diante da anterior interposição de recurso (e-STJ fls. 869/871) contra a mesma decisão monocrática, de minha lavra, que não conheceu do habeas corpus.
+3. Agravo regimental não conhecido.
+(AgRg no HC n. 923.449/SC, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 16/9/2024, DJe de 18/9/2024.)
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. PETICIONAMENTO ELETRÔNICO. AUSÊNCIA DAS RAZÕES DO RECURSO ESPECIAL. ART. 932, PARÁGRAFO ÚNICO, DO CPC/2015. INAPLICABILIDADE. COMPLEMENTAÇÃO DA FUNDAMENTAÇÃO DO RECURSO. IMPOSSIBILIDADE. PRECLUSÃO CONSUMATIVA. AGRAVO INTERNO DESPROVIDO.
+1. Nos termos da jurisprudência desta Corte, "é ônus do usuário do sistema de processamento eletrônico diligenciar pela correta transmissão do documento enviado, arcando com eventual protocolização incompleta do seu recurso" (AgRg no AREsp 670.836/RJ,Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 1º/09/2015, DJe de 08/09/2015).
+2. Hipótese em que o Tribunal estadual não conheceu do recurso especial interposto de forma incompleta, desacompanhado das respectivas razões, e que somente foram juntadas aos autos mais de dois meses após o fim do prazo recursal.
+3. A possibilidade de concessão de prazo para saneamento de vícios, nos termos do parágrafo único do art. 932 do CPC/2015, não se aplicaaos casos em que se busca a complementação da fundamentação do recurso. Precedentes.
+4. Agravo interno a que se nega provimento.
+(AgInt nos EDcl no AREsp n. 1.588.958/RJ, relator Ministro Raul Araújo, Quarta Turma, julgado em 4/5/2020, DJe de 18/5/2020.)
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. ASSOCIAÇÃO PARA O TRAFICO DE DROGAS, HOMICÍDIO QUALIFICADO NA FORMA TENTADA E HOMICÍDIO QUALIFICADO CONSUMADO. RAZÕES RECURSAIS INCOMPLETAS. RESPONSABILIDADE DA PARTE PELO PROTOCOLO E CONFERÊNCIA DOS DOCUMENTOS. PROTOCOLO ELETRÔNICO OBRIGATÓRIO. PRINCÍPIO DA INSTRUMENTALIDADE DAS FORMAS. NÃO APLICAÇÃO. ERRO INESCUSÁVEL. DEFICIÊNCIA DE FUNDAMENTAÇÃO. INCIDÊNCIA ANALÓGICA DA SÚMULA 284 DO STF.
+I - Segundo entendimento pacificado no Superior Tribunal de Justiça, é da parte recorrente a responsabilidade pelo zelo na regularidade da interposição do seu recurso. Ademais, verificado que o recurso não foi transmitido por inteiro, com evidente prejuízo da compreensão da controvérsia, a iniciativa do recorrente de protocolizar nova petição, contendo a integralidade das razões recursais, esbarra na preclusão consumativa (AgRg nos EDcl nos EREsp n. 1.268.885/PR, Terceira Seção, Rel. Min. Marco Aurélio Belizze, DJe de 19/03/2013).
+II - A interposição de recurso por via física, quando obrigatório o protocolo eletrônico, não configura erro escusável, pois cabe à parte recorrente zelar pela regularidade da insurgência. (AgInt no AREsp n. 1.135.317/SP, Quarta Turma, Rel. Min. Marco Buzzi, DJe de 27/09/2018).
+III - Na hipótese, o recurso especial foi colacionado de forma incompleta, o que evidencia a deficiência na fundamentação do recurso no ponto, como exposto na fundamentação acima, atraindo,
+dessa forma, a Súmula 284/STF. Agravo regimental desprovido.
+(AgRg no AREsp n. 1.516.588/PR, relator Ministro Leopoldo de Arruda Raposo (Desembargador Convocado do TJ/PE), Quinta Turma, julgado em 8/10/2019, DJe de 16/10/2019.)
+PREVIDENCIÁRIO. AGRAVO REGIMENTAL NOS EMBARGOS DE DECLARAÇÃO NOS EMBARGOS DE DIVERGÊNCIA EM RECURSO ESPECIAL. PETIÇÃO ELETRÔNICA. RAZÕES RECURSAIS INCOMPLETAS. COMPREENSÃO DA CONTROVÉRSIA PREJUDICADA. REAPRESENTAÇÃO DO RECURSO, POR INTEIRO. PRECLUSÃO CONSUMATIVA.
+1. Ao fazer uso do sistema de peticionamento eletrônico, a parte se responsabiliza pela correta transmissão dos documentos, devendo, por isso, arcar com as consequências do envio incompleto de suas razões recursais.
+2. Verificado que o recurso não foi transmitido por inteiro, com evidente prejuízo da compreensão da controvérsia, a iniciativa do recorrente de protocolizar nova petição, contendo a integralidade das razões recursais, esbarra na preclusão consumativa.
+3. Agravo regimental a que se nega provimento.
+(AgRg nos EDcl nos EREsp n. 1.268.885/PR, relator Ministro Marco Aurélio Bellizze, Terceira Seção, julgado em 13/3/2013, DJe de 19/3/2013.)
+Como se vê, considerando-se a impossibilidade de complementação das razões recursais, o recurso especial interposto à fl. 611 não ultrapassa o juízo de admissibilidade, em razão da impossibilidade de compreensão da controvérsia.
+Com efeito, a peça recursal interposta à fl. 611 sequer indica o dispositivo legal supostamente violado e a tese correspondente, circunstância que também atrai o óbice da Súmula n. 284 do STF, por analogia.
+A corroborar, precedentes:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. JULGAMENTO MONOCRÁTICO. INEXISTÊNCIA DE VIOLAÇÃO DO PRINCÍPIO DA COLEGIALIDADE. ROUBO. PERDÃO JUDICIAL. IMPOSSIBILIDADE. AUSÊNCIA DE PREVISÃO NO ORDENAMENTO JURÍDICO. MAUS ANTECEDENTES. DISPOSITIVO VIOLADO NÃO INDICADO. SÚMULA N. 284 DO STF. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. Não há ofensa ao princípio da colegialidade diante da existência de previsão legal e regimental para que o relator julgue, monocraticamente, o agravo em recurso especial quando constatar as situações descritas no art. 932, III, do CPC, c/c o art. 253, parágrafo único, II, "a", do RISTJ, hipótese ocorrida nos autos.
+2. A defesa alega ofensa ao art. 107, IX, do Código Penal, sob o argumento de que o recorrente faz jus ao perdão judicial, porquanto ficou paraplégico em decorrência do ferimento ocasionado pela arma de fogo disparada por um Guarda Municipal no momento em que praticava o delito de roubo.
+3. A aplicação do perdão judicial pelo magistrado, como causa de extinção da punibilidade do condenado, resulta da existência de circunstâncias expressamente determinadas em lei, nos termos do inciso IX do art. 107 do CP, não podendo referido instituto ser estendido, ainda que in bonam partem, às hipóteses não consagradas no texto legislativo.
+4. No caso, além de não haver previsão legal para aplicação da causa extintiva da punibilidade para os condenados pelo crime de roubo, o reconhecimento do pleito de perdão judicial dependeria do reexame do conjunto fático-probatório dos autos, o que é vedado em recurso especial, a teor da Súmula n. 7 do STJ.
+5. A defesa não indicou, com relação à alegada ausência de fundamentação idônea para valorar negativamente os antecedentes do réu, o dispositivo legal supostamente violado, o que atrai a incidência da Súmula n. 284 do STF.
+6. Agravo regimental não provido.
+(AgRg no AREsp n. 2.140.215/GO, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 27/6/2023, DJe de 30/6/2023.)
+PENAL. PROCESSUAL PENAL. AGRAVO REGIMENTAL NO AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. INVASÃO DE DOMICÍLIO, LESÃO CORPORAL NO ÂMBITO DOMÉSTICO, AMEAÇA E INCÊNDIO EM CASA HABITADA. PLEITO DE RECONHECIMENTO DA ATIPICIDADE DA CONDUTA DO ART. 150, CAPUT, DO CÓDIGO PENAL - CP. IMPOSSIBILIDADE. REEXAME DE PROVAS. INCIDÊNCIA DO VERBETE N. 7 DO SUPERIOR TRIBUNAL DE JUSTIÇA - STJ. QUALIFICADORA DO CRIME DE INCÊNDIO. CASA HABITADA OU, NO MÍNIMO, DESTINADA À HABITAÇÃO. INCIDÊNCIA. APLICAÇÃO DO PRINCÍPIO DA CONSUNÇÃO E DA ATENUANTE DA CONFISSÃO ESPONTÂNEA. REGIME INICIAL DE PENA. NÃO INDIC ADOS NO RECURSO ESPECIAL OS DISPOSITIVOS LEGAIS VIOLADOS. ÓBICE DO ENUNCIADO N. 284 DA SÚMULA DO SUPREMO TRIBUNAL FEDERAL - STF. AGRAVO REGIMENTAL DESPROVIDO.
+ ..
+3. A ausência de indicação do dispositivo de lei federal eventualmente violado implica em deficiência de fundamentação do recurso especial. Assim, incide, por analogia, a Súmula n. 284 do STF, segundo a qual, "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia". Precedentes.
+4. Agravo regimental desprovido.
+(AgRg no AgRg no AREsp n. 2.093.101/SC, de minha relatoria, Quinta Turma, julgado em 6/3/2023, DJe de 9/3/2023.)
+Ante o exposto, conheço do agravo para não conhecer do recurso especial com fundamento no art. 932, III, do Código de Processo Civil - CPC.
+Publique-se. Intimem-se.
+ EMENTA
