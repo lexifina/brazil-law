@@ -1,0 +1,15 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por BRUNO DA SILVA VALE contra a decisão do Tribunal de Justiça do Estado de Mato Grosso que inadmitiu recurso especial apresentado contra o acórdão exarado no julgamento da Apelação Criminal n. 1003237-25.2024.8.11.0059.
+O Ministério Público Federal apresentou parecer opinando pelo não conhecimento do agravo ou, acaso conhecido, pelo seu desprovimento (fls. 1.200/1.207).
+É o relatório.
+O agravo é inadmissível.
+Inicialmente, esclareço que a decisão que inadmite o recurso especial na origem não é formada por capítulos autônomos, mas por um único dispositivo, razão pela qual deve ser impugnada na sua integralidade, ou seja, em todos os seus fundamentos, inclusive de forma específica, suficiente e pormenorizada, não sendo suficientes meras alegações genéricas ou relativas ao mérito da controvérsia, sob pena de incidência do óbice da Súmula 182/STJ (AgRg nos EDcl no AREsp n. 2.985.942/MA, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 16/9/2025, DJEN de 25/9/2025).
+Ao que se observa, o Tribunal de origem inadmitiu o apelo nobre pelos seguintes fundamentos: 1) incidência da Súmula 7/STJ, por dependerem as teses de reexame do conjunto fático-probatório; e 2) adequação da conclusão à jurisprudência desta Corte, com apoio nos precedentes AgRg no AREsp n. 3.015.735/SP; AgRg no REsp n. 2.227.876/AL; e AgRg nos EDcl no AREsp n. 2.209.206/SP (fls. 1.137/1.138).
+Todavia, a parte agravante, nas razões do agravo em recurso especial, não impugnou, de maneira específica, a íntegra da decisão de inadmissão.
+O agravante defende que se trata de matéria eminentemente jurídica, afirmando inexistir necessidade de revolvimento probatório - os fatos relevantes à controvérsia já foram expressamente reconhecidos no acórdão recorrido, tratando-se de matéria eminentemente jurídica; não há necessidade de revolvimento do acervo probatório -, porém não demonstra, de forma concreta, a inaplicabilidade dos precedentes individualmente citados na decisão agravada, nem indica orientação contemporânea divergente da apontada, limitando-se a alegações genéricas de revaloração jurídica quanto ao tráfico privilegiado, à majorante do art. 40, IV, da Lei n. 11.343/2006 e ao regime inicial.
+Por conseguinte, aplica-se, à hipótese dos autos, o art. 932, inciso III, do Código de Processo Civil, c/c o art. 3º do Código de Processo Penal, e a Súmula 182/STJ por analogia.
+Ante o exposto, em consonância com os fundamentos acima, não conheço do agravo em recurso especial.
+Publique-se.
+EMENTA
+DIREITO PENAL E PROCESSUAL PENAL. AGRAVO EM RECURSO ESPECIAL. TRÁFICO DE DROGAS. INADMISSIBILIDADE. DECISÃO DE INADMISSÃO INCINDÍVEL. NECESSIDADE DE IMPUGNAÇÃO INTEGRAL E ESPECÍFICA. AUSÊNCIA DE ENFRENTAMENTO CONCRETO DOS PRECEDENTES UTILIZADOS PARA APLICAR O ÓBICE DA SÚMULA 7/STJ. ALEGAÇÕES GENÉRICAS DE REVALORAÇÃO JURÍDICA SOBRE TRÁFICO PRIVILEGIADO, CAUSA DE AUMENTO POR ARMA DE FOGO E REGIME INICIAL. INCIDÊNCIA DA SÚMULA 182/STJ POR ANALOGIA.
+Agravo em recurso especial não conhecido.
