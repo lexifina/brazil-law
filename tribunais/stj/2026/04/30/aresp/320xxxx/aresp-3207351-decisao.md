@@ -1,0 +1,12 @@
+DECISÃO
+Cuida-se de Agravo interposto por RAFAEL LAMONICA NETTO, à decisão que inadmitiu Recurso Especial com fundamento no art. 105, III, da Constituição Federal.
+É o relatório.
+Decido.
+Por meio da análise do recurso de RAFAEL LAMONICA NETTO, verifica-se que a parte recorrente não procedeu à juntada da procuração e/ou cadeia completa de substabelecimento conferindo poderes ao subscritor do Agravo e do Recurso Especial, Dr. LUIZ FERNANDO PICCIRILLI.
+Ademais, percebeu-se, no STJ, haver irregularidade na representação processual dos recursos. A parte, embora regularmente intimada para sanar referido vício, não regularizou, limitando-se a apresentar às fls. 129,130,131, apenas substabelecimentos, sem a procuração originária para os seus substabelecentes, Dr. JOSÉ ÂNGELO oliva, Dra. NATÁLIA OLIVA e Dra. PRISCILA OLIVA.
+Registre-se que o substabelecimento não subsiste por si só, sem uma procuração que lhe dê suporte, sendo impossível substabelecer um poder que não existe nos autos (AgInt no AREsp 1823566/RJ, Rel. Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 21/06/2021).
+Dessa forma, os recursos não foram devida e oportunamente regularizados, incidindo, na espécie, o disposto na Súmula n. 115/STJ.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, não conheço do recurso.
+Publique-se.
+Intimem-se.
+EMENTA
