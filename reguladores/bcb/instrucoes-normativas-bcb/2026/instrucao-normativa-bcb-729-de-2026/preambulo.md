@@ -1,0 +1,4 @@
+Resolução Nº 222 INSTRUÇÃO NORMATIVA BCB Nº 729, DE 29 DE ABRIL DE 2026
+Divulga novas versões dos leiautes e das instruções de preenchimento dos documentos de remessa de informações que especifica, geridos pelo Departamento de Monitoramento do Sistema Financeiro, para adequação ao formato alfanumérico do número de inscrição no Cadastro Nacional da Pessoa Jurídica - CNPJ, de que trata a Instrução Normativa RFB nº 2.229, de 15 de outubro de 2024.
+O Chefe do Departamento de Monitoramento do Sistema Financeiro - Desig, no uso da atribuição que lhe confere o art. 23, inciso I, alínea “a”, do Regimento Interno do Banco Central do Brasil, anexo à Resolução BCB nº 340, de 21 de setembro de 2023, com base no art. 85, inciso I, alínea “b”, do referido Regimento, e tendo em vista o disposto na Instrução Normativa RFB nº 2.229, de 15 de outubro de 2024,
+R E S O L V E :
