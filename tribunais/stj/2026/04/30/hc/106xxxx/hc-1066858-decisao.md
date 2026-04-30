@@ -1,0 +1,22 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em favor de DIEGO RAFAEL GONÇALVES contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DE SÃO PAULO.
+Em primeira instância, foi condenado a 5 (cinco) anos de reclusão, em regime inicial semiaberto, e a 500 (quinhentos) dias-multa pela prática do crime do art. 33, § 4º, da Lei nº 11.343/2006, bem como a 1 (um) ano de detenção, em regime inicial aberto, e a 10 (dez) dias-multa pela prática do crime do art. 12 da Lei nº 10.826/2003 (fls. 46/60).
+O Tribunal de origem deu parcial provimento à apelação interposta pela defesa, apenas para deferir a assistência judiciária gratuita (fls. 29/39).
+Nas razões, argumentou que a manutenção da prisão preventiva, uma vez fixado o regime inicial semiaberto, é indevida. Alegou, ainda, que faz jus às causas de redução de pena do art. 33, § 4º, e do art. 41 da Lei nº 11.343/2006.
+Indeferi a liminar (fls. 94/95).
+Prestadas as informações (fls. 102/131), o Ministério Público Federal opinou pela extinção do feito sem resolução de mérito ou pela denegação (fls. 133/146).
+É o relatório. DECIDO.
+O habeas corpus, ao menos em relação à aplicação das causas de redução de pena (art. 33, § 4º, e art. 41 da Lei nº 11.343/2006), foi impetrado contra acórdão proferido em apelação, em substituição ao recurso cabível.
+Esse proceder desvirtua a vocação constitucional do habeas corpus, voltado à tutela da liberdade (art. 5º, inciso LXVIII, da Constituição Federal), o que leva ao seu não conhecimento, ressalvada a concessão de ordem de ofício, em caso de ilegalidade manifesta (art. 647, caput e parágrafo único, do Código de Processo Penal).
+A esse respeito: "O habeas corpus não pode ser utilizado como substitutivo de recurso legalmente previsto, salvo em casos de flagrante ilegalidade no ato judicial impugnado" (AgRg no HC n. 1.043.057/SP, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 15/4/2026, DJEN de 23/4/2026.).
+No caso, em relação à manutenção da prisão quando fixado o regime inicial semiaberto, a impetração encerra reiteração, já que o mesmo tema já foi veiculado e analisado no habeas corpus nº 1048213, no qual se concedeu, em parte, a ordem para que, mantida a segregação, fossem implementadas, de logo, as condições do regime fixado no título judicial condenatório (semiaberto).
+No que se refere às causas de diminuição de pena, consulta aos autos na origem indica que se interpôs recurso especial, no qual esses temas são objeto de discussão.
+Não cabe, pois, adiantar esse debate se, em ambiente adequado, a matéria será objeto de enfrentamento.
+Seja como for, quanto à redução de pena do art. 33, § 4º, da Lei nº 11.343/2006, exige-se, cumulativamente, que: i) o agente seja primário; ii) não seja reincidente; iii) não se dedique a atividades criminosas; iv) não integre organização criminosa.
+O acórdão, no ponto, reproduziu a sentença, cujo conteúdo é o seguinte (fl. 37):
+"Na terceira etapa, incabível a aplicação da causa de diminuição, diante dos indícios de que o acusado se dedicava e persistiu em se dedicar à atividade criminosa, visto a grande quantidade e diversidade de entorpecentes que estavam em sua posse, além da presença de balanças de precisão, material para embalagem e, sobretudo, uma arma de fogo com munições, o que revela estrutura logística compatível com o modus operandi de traficantes profissionais. Cediço que para fazer jus à incidência da causa especial de redução, o acusado deve preencher cumulativamente os requisitos previstos no §4º do artigo 33 da Lei n. 11.343/2006, então, embora o denunciado seja primário, os demais elementos demonstram sua inserção estável na criminalidade, afastando a configuração de um mero guardador ocasional".
+Assim, o Tribunal de origem, ao manter a sentença, considerou estas variáveis para negar a redução de pena: i) quantidade e variedade da droga; ii) balanças de precisão; iii) materiais para embalagem; iv) apreensão conjunta de arma de fogo.
+A fundamentação não se mostra inidônea e, além disso, está de acordo com a orientação desta Corte, que permite negar o benefício em razão das circunstâncias que permeiam os fatos: "A apreensão de quantidade e variedade de entorpecentes, juntamente com apetrechos utilizados para o tráfico, é suficiente para comprovar a habitualidade criminosa e afastar o privilégio do tráfico" (AgRg no AREsp n. 2.676.524/SP, relator Ministro Messod Azulay Neto, Quinta Turma, julgado em 18/2/2025, DJEN de 25/2/2025.).
+Ante o exposto, não conheço do habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
