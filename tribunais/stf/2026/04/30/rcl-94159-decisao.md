@@ -1,0 +1,30 @@
+DECISÃO: Trata-se de reclamação constitucional com pedido de liminar, proposta por Black Prime Nordeste Comércio de Produtos Industriais e Automotivos Ltda., em face de decisão proferida pelo Juízo da 10ª Vara do Trabalho de João Pessoa, nos autos do Processo  nº 0000510-30.2026.5.13.0029.
+Em suas razões, a empresa reclamante alega, em síntese, que, não obstante a existência de contrato civil de prestação de serviços firmado entre as partes,  a autoridade reclamada indeferiu o pedido de suspensão do processo, violando, assim, a determinação de suspensão nacional proferida nos autos do Tema 1.389 da repercussão geral.
+Requer, assim, liminarmente e no mérito, a suspensão do processo na origem até o julgamento final do Tema 1.389, sobretudo diante da designação de audiência de instrução e julgamento para o dia 22.10.2025.
+É o breve relatório. Decido.
+Registre-se que o Supremo Tribunal Federal, no julgamento do ARE-RG 1.532.603, de minha relatoria (Tema 1.389), reconheceu a repercussão geral das seguintes questões, que serão oportunamente apreciadas pelo Plenário: 1) competência da Justiça do Trabalho para julgar as causas em que se discute a fraude no contrato civil de prestação de serviços; 2) licitude da contratação de trabalhador autônomo ou pessoa jurídica para a prestação de serviços, à luz do entendimento firmado pelo STF no julgamento da ADPF 324, que reconheceu a validade constitucional de diferentes formas de divisão do trabalho e a liberdade de organização produtiva dos cidadãos; e 3) ônus da prova relacionado à alegação de fraude na contratação civil, averiguando se essa responsabilidade recai sobre o autor da reclamação trabalhista ou sobre a empresa contratante.
+Na sequência, foi determinada a suspensão nacional da tramitação de todos os processos que tratem das questões mencionadas no Tema 1.389 da repercussão geral, até julgamento definitivo do recurso extraordinário, com fundamento no art. 1.035, § 5º, do CPC, com a finalidade para impedir a multiplicação de decisões divergentes sobre a matéria, privilegiando o princípio da segurança jurídica.
+No caso dos autos, embora exista contrato de prestação de serviços firmado entre as partes (eDOC 4), a autoridade reclamada entendeu que não seria hipótese de suspensão do processo, sob o fundamento de que tal circunstância teria sido apenas alegada pela parte reclamada na ação trabalhista, o que não seria suficiente para justificar a medida. Confira-se:
+
+“Em nenhum momento da petição inicial o reclamante afirmou ser titular de pessoa jurídica, discutiu a validade de contratação via PJ (pejotização), ou invocou o Tema 1389 do STF como causa de pedir ou como fundamento jurídico. A narrativa da inicial é integralmente centrada em fatos de trabalho subordinado – jornada, fiscalização, metas, remuneração – cuja natureza é fática, e não normativo abstrata.
+2.2 – A introdução da pessoa jurídica nos autos partiu da reclamada, não do autor
+Foi a própria reclamada quem, ao peticionar nos autos (Id. Num. d1681c5), trouxe ao processo a informação de que o reclamante seria titular de pessoa jurídica (CNPJ 50.412.869/0001-11), juntando contrato de prestação de serviços firmado com essa suposta entidade, distrato e notas fiscais.
+Essa circunstância é processualmente relevante por uma razão fundamental: o objeto litigioso é definido pelo autor, e não pela defesa. A reclamada não pode, ao introduzir fato novo para fins exclusivamente processuais – o de forçar o enquadramento no Tema 1389 –, remodelar a causa de pedir que o reclamante delineou na inicial. O réu pode resistir ao pedido, mas não tem legitimidade para alterar a narrativa fática que fundamenta a pretensão autoral.
+Além disso, a juntada desses documentos pela reclamada produz um efeito material paradoxal: ao demonstrar a existência de contrato civil, distrato e notas fiscais, a reclamada confirma involuntariamente a onerosidade e a continuidade da relação – exatamente dois dos quatro elementos do vínculo empregatício narrados na inicial.
+2.3 – Ausência de alegação de fraude por pejotização na causa de pedir
+A reclamada sustenta que a petição inicial alega fraude na forma de contratação, o que atrairia o Tema 1389. O argumento não procede.
+A menção ao art. 9º da CLT na inicial não equivale a uma alegação de fraude por pejotização. O art. 9º da CLT estabelece a nulidade de pleno direito de todo ato praticado com o objetivo de desvirtuar, impedir ou fraudar a aplicação das normas trabalhistas – e sua incidência prescinde completamente da existência de pessoa jurídica interposta. O dispositivo alcança qualquer contrato civil que encubra uma relação de emprego, seja o trabalhador pessoa física autônoma, representante comercial, prestador de serviços ou titular de CNPJ. O reclamante invocou o art. 9º da CLT para desconstituir o contrato civil em razão dos fatos de subordinação narrados – não para questionar a validade abstrata da pejotização.
+Não há, portanto, identidade entre a causa de pedir desta demanda e o objeto do Tema 1389, que versa sobre três questões constitucionais em abstrato: (i) a validade da contratação via pessoa jurídica unipessoal; (ii) a competência da Justiça do Trabalho para julgar casos de suposta fraude nessa modalidade; e (iii) a definição do ônus probatório nessas hipóteses. Nenhuma dessas questões integra a causa de pedir do reclamante”. (eDOC 10)
+
+Feitas essas considerações, entendo que, ao contrário do que assentou a autoridade reclamada, a controvérsia envolve a alegação de fraude na contratação civil, com vistas ao consequente reconhecimento de vínculo empregatício, matéria abrangida pelo Tema 1.389 da repercussão geral.
+Nesses termos, ao indeferir o pedido de suspensão do processo, o Juízo de origem deixou de observar a determinação de suspensão nacional proferida no Tema 1.389 da repercussão geral.
+Ante o exposto, julgo procedente a reclamação para determinar a suspensão do Processo n. 0000510-30.2026.5.13.0029, até julgamento do mérito do Tema 1.389 da repercussão geral.
+
+Comunique-se.
+Publique-se.
+
+Brasília, 30 de abril de 2026.
+
+Ministro GILMAR MENDES
+Relator
+Documento assinado digitalmente
