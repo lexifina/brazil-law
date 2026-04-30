@@ -1,0 +1,17 @@
+DECISÃO
+Examina-se agravo em recurso especial interposto por MARCOS ANTONIO DE SOUZA contra decisão que inadmitiu recurso especial, fundamentado nas alíneas "a" e "c" do permissivo constitucional.
+Ação: declaratória c/c compensação por danos morais ajuizada pelo agravante, em face de BANCO BMG S.A., na qual requer a declaração de nulidade da contratação de cartão de crédito com reserva de margem consignável, conversão em empréstimo consignado, restituição dos valores e compensação por danos morais.
+Sentença: julgou improcedentes os pedidos.
+Acórdão: negou provimento ao recurso de apelação interposto pelo agravante, nos termos da seguinte ementa:
+APELAÇÃO CÍVEL - AÇÃO DECLARATÓRIA DE INEXIGIBILIDADE DE DÉBITO C/C INDENIZAÇÃO POR DANOS MORAIS E REPETIÇÃO DO INDÉBITO - CARTÃO DE CRÉDITO CONSIGNADO - RELAÇÃO JURÍDICA COMPROVADA - EXERCÍCIO REGULAR DE DIREITO - VÍCIO DE CONSENTIMENTO NÃO DEMONSTRADO. - O ônus da prova nas ações de natureza declaratória de inexistência de débito é do credor, nos termos do art. 373 do CPC. - Comprovada relação jurídica, configura-se exercício regular de direito os descontos incidentes sobre benefício previdenciário, não incidindo dano moral. - É anulável o negócio jurídico por vício resultante de erro, dolo, coação, estado de perigo, lesão ou fraude contra credores. - Se o contrato é suficientemente claro em seus termos, e não se aflora motivo extraordinário para consumação de vício de consentimento, não se configura imperfeição que resulte erro de consentimento se não provada, porque nesse contexto não há presunção. (e-STJ fl. 478)
+Embargos de Declaração: opostos pelo agravante, foram rejeitados.
+Decisão de admissibilidade do TJ/MG: inadmitiu o recurso especial em razão dos seguintes fundamentos: i) necessidade de reexame de contexto fático-probatório (Súmula 7/STJ); ii) necessidade de interpretação de cláusulas contratuais (Súmula 5/STJ).
+Agravo em recurso especial: nas razões do presente recurso, a parte agravante aduz que: i) "não demanda reexame de provas, mas revaloração jurídica, o que é plenamente admitido pelo STJ. O vício de consentimento decorre de premissas FÁTICAS já reconhecidas pelo próprio acórdão recorrido."
+RELATADO O PROCESSO, DECIDE-SE.
+Ao analisar o agravo em recurso especial interposto, verifica-se que a parte agravante não demonstrou, de maneira consistente, a inaplicabilidade dos seguintes óbices: i) necessidade de reexame de contexto fático-probatório (Súmula 7/STJ); ii) necessidade de interpretação de cláusulas contratuais (Súmula 5/STJ).
+Com efeito, para que o recurso especial seja analisado por esta Corte Superior, o recorrente deve refutar todos os fundamentos que levaram à inadmissão pelo Tribunal de origem. Nesse sentido: AgInt no AREsp 2.292.265/SP, 3ª Turma, DJe de 18/8/2023, e AgInt no AREsp 2.335.547/SP, 4ª Turma, DJe de 11/10/2023.
+Forte nessas razões, NÃO CONHEÇO do agravo em recurso especial, com fundamento no art. 932, III, do CPC.
+Nos termos do art. 85, § 11, do CPC, considerando o trabalho adicional imposto ao advogado da parte agravada em virtude da interposição deste recurso, majoro para 20 % os honorários fixados anteriormente, ressalvada eventual concessão da gratuidade da justiça.
+Alerto que a interposição de recurso contra esta decisão, declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar sua condenação ao pagamento das penalidades fixadas nos arts. 1021, §4º e 1026, §2º do CPC.
+Publique-se. Intimem-se.
+EMENTA
