@@ -1,0 +1,22 @@
+DECISÃO
+Trata-se de agravo manejado pelo Estado da Paraíba contra decisão que não admitiu recurso especial, este interposto com fundamento no art. 105, III, a, da CF, desafiando acórdão proferido pelo Tribunal de Justiça daquele Estado, assim ementado (fls. 180/181):
+PROCESSUAL CIVIL - Agravo interno - Decisão monocrática mantendo sentença que reconheceu a inexigibilidade do pagamento do IPVA - Pedido de reconsideração - Ratificação da decisão - Autor portador de necessidades especiais - Veículo adquirido por valor inferior à R$ 70.000,00 (limite legal) - Aplicação da tabela FIPE prevendo preço mais elevado - Perda da isenção de IPVA - Irrazoabilidade - Desprovimento.
+- Comprovada que a isenção do IPVA já havia sido concedida à agravada em relação aos exercícios anteriores, quando expressamente se consignou que o veículo atendia todas as exigências legais, ressoa irrazoável que um veículo adquirido em 2020, menos de um ano após a concessão do primeiro benefício, quando a própria Receita Estadual atestou que o bem, mesmo sem o desconto de ICMS, possuía valor inferior a R$ 70.000,00 (setenta mil reais), seja avaliado em quantia superior, sendo normal uma desvalorização de mercado nesse porte.
+- A Lei Estadual nº 7.131/2002, que trata do Imposto sobre a Propriedade de Veículos Automotores, prevê, em seu art. 8º, que, para análise da isenção, o valor considerado, para veículos novos, é o constante na nota fiscal, mas, para veículos usados, é o preço médio praticados no mercado (tabela FIPE).
+- Não é razoável que o impetrante, pessoa com deficiência, ao adquirir o veículo novo, usufrua da isenção do IPVA, porquanto o valor de compra, em razão da isenção do ICMS, tenha sido inferior à R$ 70.000,00; no entanto, após dois anos de uso, perca a isenção do IPVA em virtude de a base de cálculo mudar do valor da nota fiscal para o da tabela FIPE, que prevê para o mesmo automóvel preço mais elevado que o de sua aquisição quando retirado da fábrica.
+- Nestes casos, a aplicação da tabela FIPE acaba por desvirtuar a intenção da Lei Estadual nº 7.131/2002 de beneficiar portadores de necessidades especiais, devendo, portanto, ser rechaçada, mantendo-se o benefício de isenção de IPVA. Precedentes do TJPB.
+Opostos embargos declaratórios, foram estes rejeitados (fls. 205/209).
+Nas razões do recurso especial, a parte agravante aponta violação ao art. 1.022, II do CPC. Sustenta, em resumo, que: a despeito dos aclaratórios, o Tribunal de origem quedou-se silente em relação à "necessidade de observância da cláusula de reserva de plenário, conforme expressamente exige o artigo 97 da Constituição. Isso porque, na ocasião, a Corte de Justiça Estadual havia afastado a incidência do disposto no art. 1º, § 2º do Dec. 33.616/2012 sob o fundamento de que o referido dispositivo seria "irrazoável" (fl. 223).
+Sem contrarrazões.
+Parecer ministerial ofertado às fls. 299/310.
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+Verifica-se, inicialmente, não ter ocorrido ofensa ao art. 1.022, II, do CPC, na medida em que o Tribunal de origem dirimiu, fundamentadamente, as questões que lhe foram submetidas, apreciando integralmente a controvérsia posta nos autos.
+Com efeito, o Tribunal de origem pronunciou-se expressamente sobre a apontada omissão, como mesmo se pode colher do seguinte excerto do acórdão integrativo (fl. 207):
+O embargante aponta omissão na decisão embargada, em específico no tópico relativo à impossibilidade de reconhecimento da inconstitucionalidade do decreto sem remessa dos autos ao Órgão Plenário.
+Ao contrário do que quer fazer crer o embargante, não houve declaração de inconstitucionalidade da norma, pelo fato de ter continuado vigente.
+A decisão não concluiu pela inconstitucionalidade ou invalidade do art. 4º, §6º, da Lei Estadual nº 11.007/2017 e o art. 1º, § 2º do Dec. 33.616/2012, mas sim pela necessidade de adequada interpretação à definição do valor venal do veículo, concluindo-se pela irrazoabilidade da utilização exclusivamente da Tabela FIPE para esse fim.
+Ocorreu, pois, apenas o julgamento da causa à luz da interpretação da legislação tributária infraconstitucional a partir de preceitos constitucionais, de acordo com precedentes firmados pelo Supremo Tribunal Federal e pelo Plenário deste Tribunal.
+Ressalte-se não se poder confundir julgamento desfavorável ao interesse da parte com negativa ou ausência de prestação jurisdicional
+ANTE O EXPOSTO, nego provimento ao agravo.
+Publique-se.
+EMENTA
