@@ -1,0 +1,73 @@
+DECISÃO
+Trata-se de habeas corpus, impetrado em favor de PEDRO LUCAS DE SOUZA PEREIRA BASTOS e ANDRÉ LUIZ DOS SANTOS MONTEIRO, contra acórdão da Primeira Câmara Criminal do Tribunal de Justiça do Estado do Rio de Janeiro, no Recurso em Sentido Estrito nº 0000459-09.2024.8.19.0017, que incluiu a qualificadora do recurso que dificultou a defesa da vítima na decisão de pronúncia, cuja ementa possui o seguinte teor (fls. 10-11):
+EMENTA. DIREITO PROCESSUAL PENAL. RECURSO EM SENTIDO ESTRITO. PRONÚNCIA. HOMICÍDIO QUALIFICADO PELO EMPREGO DE ARMA DE USO RESTRITO OU PROIBIDO. AFASTAMENTO DA QUALIFICADORA RELATIVA À UTILIZAÇÃO DE RECURSO QUE DIFICULTOU A DEFESA DA VÍTIMA. CIRCUNSTÂNCIA QUE NÃO SE APRESENTA MANIFESTAMENTE IMPROCEDENTE. COMPETÊNCIA DO TRIBUNAL DO JÚRI. RECURSO PROVIDO.
+I. CASO EM EXAME
+1. Recurso em sentido estrito interposto pelo Ministério Público contra decisão que pronunciou os recorridos pela prática de homicídio qualificado pelo emprego de arma de fogo de uso restrito ou proibido, buscando a inclusão da qualificadora relativa ao recurso que dificultou a defesa da vítima.
+II. QUESTÃO EM DISCUSSÃO
+2. Verificar se é possível afastar a qualificadora do recurso que dificultou a defesa da vítima na decisão de pronúncia, diante das provas produzidas.
+III. RAZÕES DE DECIDIR
+3. A decisão de pronúncia constitui juízo de admissibilidade da acusação e exige provas válidas da materialidade e indícios suficientes de autoria, nos termos do artigo 413, do Código de Processo Penal.
+4. Vítima que estava sozinha, conduzindo o seu veículo em via pública, quando foi interceptada por outro automóvel de onde desembarcaram três indivíduos e efetivaram disparos de arma de fogo em sua direção, que foram a causa eficiente de sua morte.
+5. Situação fática narrada na denúncia passível de enquadramento conforme tipificada, pois a vítima foi surpreendida e emboscada por três agentes, em momento de distração.
+6. Qualificadora que somente poderia ser afastada quando manifestamente improcedente, o que não ocorre na hipótese, pois encontra respaldo nos elementos probatórios, cabendo ao Tribunal do Júri a análise plena dos fatos.
+IV. DISPOSITIVO E TESE
+8. Recurso provido, para pronunciar os recorridos pelo crime de homicídio qualificado, pela utilização de recurso que dificultou a defesa da vítima e emprego de arma de fogo de uso restrito e proibido, delito descrito no artigo 121, §2º, incisos IV e VIII, do Código Penal.
+ ..
+Consta dos autos que os pacientes foram denunciados em 06/09/2024 pela suposta prática de homicídio qualificado, nos termos do art. 121, § 2º, IV e VIII, c/c art. 29, do Código Penal. Ao final da primeira fase, o Juízo de origem pronunciou os acusados apenas pela qualificadora do art. 121, § 2º, VIII.
+O Ministério Público interpôs recurso em sentido estrito e o Tribunal local deu provimento para pronunciar os recorridos também pela qualificadora do art. 121, § 2º, IV (recurso que dificultou a defesa), além do emprego de arma de fogo de uso restrito.
+No presente writ, o impetrante sustenta que a qualificadora do art. 121, § 2º, IV, é manifestamente improcedente, pois não houve ataque insidioso ou surpresa capaz de dificultar a defesa da vítima, que estaria em condição de reação no interior de seu veículo.
+Alega cabimento da via eleita por flagrante ilegalidade, apta a justificar concessão de ofício, sem necessidade de revolvimento aprofundado de provas.
+Requer a concessão da ordem para decote da qualificadora do recurso que dificultou a defesa da vítima, mantendo-se apenas a qualificadora do emprego de arma de fogo de uso restrito.
+Foram prestadas informações e o Ministério Público Federal manifestou-se pelo não conhecimento da impetração, nos termos da seguinte ementa (fl. 105):
+HABEAS CORPUS. PROCESSUAL PENAL. SUCEDÂNEO DE RECURSO. DECISÃO PRECLUSA EM SEDE DE RECURSO EM SENTIDO ESTRITO QUE PRONUNCIOU OS RÉUS POR HOMICÍDIO DUPLAMENTE QUALIFICADO. INADMISSIBILIDADE. PRECEDENTES. AUSÊNCIA DE TERATOLOGIA A JUSTIFICAR CONCESSÃO DE OFÍCIO. PARECER PELO NÃO CONHECIMENTO DA IMPETRAÇÃO.
+É o relatório.
+A Quinta Turma do Superior Tribunal de Justiça firmou entendimento no sentido de ser inadequada a impetração de habeas corpus quando utilizado em substituição a recurso próprio.
+A teor do disposto no art. 105, II, a, da CF/88, o recurso cabível contra acórdão que denega a ordem na origem é o recurso ordinário, enquanto, consoante previsto no art. 105, III, da CF, o recurso cabível contra acórdão que julga apelação, recurso em sentido estrito e agravo em execução é o recurso especial.
+Nada impede, contudo, a concessão de habeas corpus de ofício quando constatada a existência de ilegalidade flagrante, abuso de poder ou teratologia, nos termos do art. 654, §2º, do CPP, o que ora passa-se a examinar.
+O Tribunal de origem assim fundamentou o acréscimo da qualificadora do recurso que dificultou a defesa da vítima (fls. 25-26):
+Como sabido, a qualificadora descrita no inciso IV, do §2º, do artigo 121, do Código Penal tem incidência quando o agente emprega meios ou modos de execução que retirem ou dificultem qualquer possibilidade de reação ou de defesa da vítima, tornando o ato mais reprovável.
+No caso, a situação fática narrada na denúncia, caracterizadora da referida circunstância, é passível de enquadramento conforme tipificada pelo Ministério Público, pois a vítima foi interceptada quando conduzia o seu veículo, tendo dois indivíduos desembarcado de um carro que bloqueou a rua, efetivado diversos disparos de arma de fogo em sua direção, que foram a causa eficiente de sua morte.
+Como asseverado nas razões ministeriais, os acusados estavam em maior número, eis que três indivíduos desembarcaram de um automóvel que bloqueou a rua, tendo a vítima sido surpreendida sozinha, em via pública, dentro de seu veículo e a emboscaram, de inopino, dando início a execução do crime, dificultando a sua defesa.
+Além disso, como salientado no parecer da Procuradoria Geral de Justiça: "Ao afastar a qualificadora sob o argumento de que a vítima "teve tempo de reação", o Juízo de piso adentrou indevidamente a valoração probatória e o mérito da causa, o que é vedado nesta fase.
+Assim, presentes indícios razoáveis de que o homicídio foi praticado mediante recurso que dificultou a defesa da vítima, deve ser reconhecida a qualificadora, de modo a submeter tal circunstância ao crivo do Tribunal do Júri." (sic)
+Assim, não se apresentando a qualificadora manifestamente improcedente, e havendo provas válidas da materialidade delitiva e dos indícios suficientes de autoria, impõe a pronúncia dos recorridos pelo crime de homicídio duplamente qualificado, pela utilização de recurso que dificultou a defesa da vítima e emprego de arma de fogo de uso restrito e proibido, delito descrito no artigo 121, §2º, incisos IV e VIII, do Código Penal, uma vez que compete ao Tribunal do Júri a análise plena dos fatos da causa.
+No que se refere à qualificadora do recurso que dificultou a defesa da vítima, o acórdão recorrido consignou que a vítima foi interceptada quando conduzia o seu veículo, tendo dois indivíduos desembarcado de um carro que bloqueou a rua, efetivado diversos disparos de arma de fogo em sua direção, que foram a causa eficiente de sua morte.
+A partir desse contexto, o Tribunal de origem consignou que a premeditação e a ação súbita dos agentes em via pública são elementos aptos a dificultarem a defesa da vítima.
+Dessa forma, para desconstituir as conclusões do julgado a fim de afastar a qualificadora, seria necessário revolvimento fático-probatório inviável na estreita via do habeas corpus.
+Ademais, o entendimento da instância ordinária está em consonância com a jurisprudência desta Corte Superior no sentido de que, para caracterizar a qualificadora que dificulte a defesa da vítima, a surpresa é o elemento crucial a ser identificado.
+Nesse sentido:
+HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. DESCABIMENTO. HOMICÍDIO QUALIFICADO CONSUMADO E TENTADO. TRIBUNAL DO JÚRI. NULIDADE. AUSÊNCIA DE TRANSCRIÇÃO DOS DEPOIMENTOS COLHIDOS NA INSTRUÇÃO PROCESSUAL. MÍDIA DIGITAL DISPONÍVEL AOS JURADOS. CERCEAMENTO DE DEFESA NÃO CARACTERIZADO. QUALIFICADORA DO ART. 121, § 2º, INCISO IV, DO CÓDIGO PENAL - CP. AFASTAMENTO. IMPOSSIBILIDADE. REVOLVIMENTO FÁTICO-PROBATÓRIO. INADMISSIBILIDADE NA VIA ELEITA. AUSÊNCIA DE CONSTRANGIMENTO ILEGAL. WRIT NÃO CONHECIDO.
+ ..
+3. É inviável o pleito de exclusão da qualificadora do motivo que dificultou ou impossibilitou a defesa das vítimas, reconhecida pelo conselho de sentença, tendo em vista que a jurisprudência desta Corte Superior entende que incide a qualificadora quando constata-se a surpresa, consoante ocorreu no caso em apreço. Consta do acórdão guerreado que os pacientes "foram ao local fortemente armados e lá iniciaram o tiroteio que culminou com a morte de uma pessoa e lesões corporais de natureza grave em outras duas, quando é certo que nenhuma delas esperava o ataque".
+4. Além do mais, a via do habeas corpus não se mostra adequada para desconstituir as conclusões do Tribunal do Júri, uma vez que tal providência demandaria a aprofundada revisão do contexto fático-probatório. Procedimento vedado na via eleita.
+5. Habeas corpus não conhecido.
+(HC n. 467.904/SP, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 14/5/2019, DJe de 22/5/2019.)
+DIREITO PENAL E PROCESSUAL PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. HOMICÍDIO QUALIFICADO TENTADO. DECISÃO DE PRONÚNCIA. QUALIFICADORA DO EMPREGO DE RECURSO QUE DIFICULTOU A DEFESA DA VÍTIMA. SÚMULA N. 7/STJ. COMPETÊNCIA DO TRIBUNAL DO JÚRI. AGRAVO REGIMENTAL DESPROVIDO.
+I. CASO EM EXAME
+1. Agravo regimental interposto contra decisão monocrática que conheceu de agravo para não conhecer de recurso especial, este manejado em ação penal na qual o agravante foi pronunciado pela prática, em tese, do crime do art. 121, § 2º, inciso IV, c/c o art. 14, inciso II, do Código Penal, e do art. 14 da Lei n. 10.826/2003.
+2. A decisão de pronúncia foi mantida pelo Tribunal de origem em julgamento de recurso em sentido estrito. O recurso especial, fundado em alegada contrariedade ao art. 121, § 2º, inciso IV, do Código Penal, teve seguimento negado com base na Súmula n. 7/STJ, entendimento reiterado na decisão monocrática ora agravada ao conhecer do agravo para não conhecer do recurso especial.
+3. No agravo em recurso especial e no agravo regimental, a defesa sustenta que não seria necessário reexaminar provas, mas apenas revalorar o conjunto fático-probatório, pugnando pelo afastamento da qualificadora de emprego de recurso que dificultou a defesa da vítima (art. 121, § 2º, IV, do Código Penal), sob o argumento de inexistência de ataque surpresa, em razão de discussão prévia entre agravante e vítima.
+II. QUESTÃO EM DISCUSSÃO
+4. Há duas questões em discussão: (i) saber se o exame da alegada ausência de surpresa na conduta imputada, para afastar a qualificadora do emprego de recurso que dificultou a defesa da vítima, demanda reexame do acervo probatório, atraindo o óbice da Súmula n. 7/STJ; e (ii) saber se, na decisão de pronúncia, é juridicamente possível excluir a referida qualificadora diante da existência de discussão prévia entre agente e vítima e de elementos probatórios mínimos que a amparam, em face da competência constitucional do Tribunal do Júri.
+III. RAZÕES DE DECIDIR
+5. A alteração da conclusão do Tribunal de origem, que reconheceu a incidência da qualificadora do emprego de recurso que dificultou a defesa da vítima com base na dinâmica fática dos autos (abordagem de surpresa, com superioridade física e golpes múltiplos com instrumentos), exige reexame do conjunto probatório, providência vedada em recurso especial pela Súmula n. 7/STJ.
+6. A exclusão de qualificadoras na decisão de pronúncia somente é admitida quando manifestamente improcedentes ou destituídas de qualquer amparo nos elementos dos autos, sob pena de usurpação da competência do Tribunal do Júri, juiz natural para o julgamento dos crimes dolosos contra a vida.
+7. A mera existência de discussão prévia ou de animosidade entre agente e vítima não afasta, por si só, a qualificadora do emprego de recurso que dificultou a defesa do ofendido, devendo sua incidência ser apreciada à luz dos fatos descritos na peça acusatória e do conjunto fático-probatório produzido no devido processo legal.
+8. Reconhecida pelo acórdão recorrido a presença de elementos probatórios mínimos a justificar a manutenção da qualificadora e inexistindo manifesta improcedência, mostra-se inviável sua exclusão na via estreita do recurso especial, impondo-se a manutenção da decisão que não conheceu do apelo extremo.
+9. Inexistindo argumentos novos capazes de infirmar os fundamentos da decisão agravada, o agravo regimental não merece provimento.
+IV. DISPOSITIVO E TESE
+10. Resultado do Julgamento: Agravo regimental desprovido.
+Tese de julgamento:
+1. A pretensão de afastar qualificadora reconhecida pelas instâncias ordinárias, mediante rediscussão da dinâmica fática do delito, encontra óbice na Súmula n. 7/STJ, por demandar reexame de provas.
+2. A exclusão de qualificadora na decisão de pronúncia somente se admite quando manifestamente improcedente ou sem qualquer amparo nos elementos dos autos, sob pena de usurpação da competência do Tribunal do Júri.
+3. A existência de discussão prévia ou animosidade entre agente e vítima não exclui, por si só, a qualificadora do emprego de recurso que dificultou a defesa do ofendido.
+Dispositivos relevantes citados: CP, art. 121, § 2º, IV; CP, art. 14, II; Lei n. 10.826/2003, art. 14; Súmula n. 7/STJ.
+Jurisprudência relevante citada: STJ, AgRg no AREsp n. 3.016.929/SC, Quinta Turma, j. 18/11/2025, DJEN 27/11/2025; STJ, AgRg no REsp n. 2.242.924/PR, Quinta Turma, j. 16/12/2025, DJEN 23/12/2025; STJ, HC n. 104.097/RS, Quinta Turma, j. 13/08/2009, DJe 13/10/2009.
+(AgRg no AREsp n. 2.856.472/MS, relator Ministro Messod Azulay Neto, Quinta Turma, julgado em 17/3/2026, DJEN de 23/3/2026.)  grifei
+No caso, o Tribunal de origem deixou claro que os executores agiram de maneira repentina e inesperada em via pública quando a vítima estava conduzindo o seu veículo, o que revela, a princípio, a surpresa como fator determinante para a incidência da qualificadora.
+Ressalta-se que a exclusão de qualificadora na decisão de pronúncia somente é admitida quando manifestamente improcedente ou sem qualquer amparo nos elementos dos autos, sob pena de usurpação da competência do Tribunal do Júri.
+Não há, portanto, flagrante ilegalidade que justifique a concessão da ordem de ofício.
+Ante o exposto, não conheço do habeas corpus.
+Publique-se.
+Intimem-se.
+EMENTA
