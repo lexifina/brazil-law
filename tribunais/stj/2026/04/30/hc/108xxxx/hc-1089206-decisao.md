@@ -1,0 +1,15 @@
+DECISÃO
+Trata-se de habeas corpus, impetrado em benefício de GUSTAVO PEREIRA CORREIA - condenado por tráfico de drogas e associação para o mesmo fim a 8 anos de reclusão e 1.200 dias-multa -, apontando como ato coator acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO DE JANEIRO (Apelação Criminal n. 0805352-91.2025.8.19.0011).
+Busca a impetração a absolvição do paciente do delito de associação para o tráfico de drogas, a fixação de regime prisional mais brando e o reconhecimento do redutor do art. 33, § 4º, da Lei n. 11.343/2006, na condenação proferida pelo Juízo de Direito da 2ª Vara Criminal da comarca de Cabo Frio/RJ, aos argumentos de nulidade da denúncia e atipicidade da associação para o tráfico por ausência de identificação mínima de outros corréus, além de comprovação da estabilidade e permanência; de ausência de fundamentação para a imposição do regime fechado; e possibilidade de fixação da fração de 2/3, na modulação da minorante.
+Sem pedido liminar.
+É o relatório.
+O writ é inadmissível, uma vez que se trata de impetração destinada a revisar novamente a condenação imposta e mantida pelas instâncias ordinárias, e não se verifica a ocorrência de flagrante constrangimento ilegal apto a subsidiar a superação do óbice.
+No caso, o Tribunal estadual afastou a alegação de nulidade e de atipicidade do crime do art. 35 ao fundamento de que a pluralidade de agentes e o vínculo associativo estável e permanente foram concretamente demonstrados pelos depoimentos firmes dos policiais militares, fuga de outros indivíduos na abordagem, atuação em local dominado por facção criminosa e apreensão de rádios, caderno de anotações, roupa ghillie e touca balaclava, além de confissão do réu em inquérito quanto ao vínculo com o tráfico local (fls. 50/52), em consonância com o entendimento desta Corte Superior, para o qual a caracterização do art. 35 da Lei n. 11.343/2006 exige estabilidade e permanência do vínculo, sendo desnecessária a identificação nominal de todos os corréus quando há prova idônea do liame associativo e sua continuidade.
+Quanto ao regime inicial fechado, observo que o acórdão a quo assentou fundamentação concreta, consubstanciada na estrutura organizada do tráfico local e vínculo do réu com facção criminosa armada.
+Mantida a condenação pelo delito de associação, incabível o redutor do art. 33, § 4º, da Lei n. 11.343/2006, por expressa incompatibilidade legal.
+Ademais, concluir de forma diversa das instâncias ordinárias demandaria reexame probatório, inviável na via estreita do habeas corpus.
+Em razão disso, indefiro liminarmente a inicial (art. 210 do RISTJ).
+Publique-se.
+EMENTA
+PENAL. HABEAS CORPUS. TRÁFICO DE DROGAS E ASSOCIAÇÃO PARA O MESMO FIM. ABSOLVIÇÃO DO CRIME DE ASSOCIAÇÃO, REGIME INICIAL E MINORANTE DO TRÁFICO PRIVILEGIADO. PRETENSÃO DE REVISÃO DA CONDENAÇÃO IMPOSTA E MANTIDA PELAS INSTÂNCIAS ORDINÁRIAS. UTILIZAÇÃO INDEVIDA DO WRIT. INVIABILIDADE. FORMULAÇÃO DE PRETENSÕES INFUNDADAS. CONSTRANGIMENTO ILEGAL MANIFESTO. AUSÊNCIA.
+Inicial indeferida liminarmente.
