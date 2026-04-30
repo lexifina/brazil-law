@@ -1,0 +1,61 @@
+DECISÃO
+Trata-se de recurso em habeas corpus com pedido de liminar interposto por DAVI CAMPOS GARCIA contra acórdão do TRIBUNAL DE JUSTIÇA DO DISTRITO FEDERAL E DOS TERRITÓRIOS, que denegou a ordem lá impetrada a teor da seguinte ementa (fls. 57-58):
+DIREITO PROCESSUAL PENAL. HABEAS CORPUS. TRÁFICO DE DROGAS. PRISÃO EM FLAGRANTE CONVERTIDA EM PREVENTIVA EM AUDIÊNCIA DE CUSTÓDIA. APREENSÃO DE QUANTIDADE EXPRESSIVA DE MACONHA FRACIONADA. GRAVIDADE CONCRETA DA CONDUTA. GARANTIA DA ORDEM PÚBLICA. RISCO DE REITERAÇÃO DELITIVA. SUFICIÊNCIA DA FUNDAMENTAÇÃO. INSUFICIÊNCIA DAS MEDIDAS CAUTELARES DIVERSAS DA PRISÃO. CONDIÇÕES PESSOAIS FAVORÁVEIS. IRRELEVÂNCIA. ORDEM DENEGADA.
+I. CASO EM EXAME
+1. Habeas Corpus impetrado contra decisão do Juízo do Núcleo de Audiência de Custódia, que converteu a prisão em flagrante do paciente em prisão preventiva, pela suposta prática do crime de tráfico de drogas. A defesa sustenta ausência de fundamentação concreta da decisão, alegando que a custódia cautelar baseou-se em fundamentos genéricos relacionados à gravidade abstrata do delito e à quantidade de droga apreendida, além de apontar condições pessoais favoráveis do paciente e requerer a substituição da prisão por medidas cautelares diversas.
+II. QUESTÃO EM DISCUSSÃO
+2. A questão em discussão consiste em verificar se a decisão que converteu a prisão em flagrante em prisão preventiva apresenta fundamentação concreta suficiente para justificar a custódia cautelar, bem como se seria possível a substituição da medida por cautelares diversas da prisão.
+III. RAZÕES DE DECIDIR
+3. A materialidade do delito e os indícios de autoria encontram suporte na situação de flagrância e nos elementos constantes do auto de prisão em flagrante, que indicam a apreensão de aproximadamente 10 kg de maconha, distribuídos em 19 porções e outras frações.
+4. A quantidade expressiva de droga apreendida, aliada ao seu fracionamento e acondicionamento para comercialização, revela fortes indícios de mercancia ilícita e evidencia a gravidade concreta da conduta imputada ao paciente.
+5. A gravidade concreta do delito e os elementos indicativos de inserção em cadeia de traficância demonstram risco à ordem pública e probabilidade de reiteração delitiva, legitimando a decretação da prisão preventiva.
+6. A decisão que converteu o flagrante em prisão preventiva apresenta fundamentação idônea baseada em elementos concretos do caso, atendendo aos requisitos previstos nos artigos 312 e 313, do Código de Processo Penal.
+7. As condições pessoais favoráveis do paciente, como primariedade, residência fixa e atividade laboral lícita, não são suficientes para afastar a prisão preventiva, quando presentes elementos que demonstram a necessidade da custódia cautelar.
+8. As medidas cautelares diversas da prisão mostram-se inadequadas e insuficientes diante da gravidade concreta da conduta e da expressiva quantidade de entorpecente apreendida.
+9. O habeas corpus não constitui via adequada para análise aprofundada de provas ou reavaliação do mérito da ação penal, sendo cabível apenas quando demonstrada flagrante ilegalidade, inexistente no caso concreto.
+IV. DISPOSITIVO
+10. Ordem denegada.
+Consta dos autos a prisão em flagrante do recorrente, posteriormente convertida em prisão preventiva, decorrente de suposta prática do delito previsto no art. 33, caput, da Lei nº 11.343/06.
+Em suas razões, sustenta a defesa que a prisão foi decretada com base em considerações abstratas e somente pela quantidade do entorpecente apreendido (9,7 quilos de maconha).
+Aponta inexistência de investigação prévia ou posterior, bem como ausência de elementos típicos de traficância habitual, como balança de precisão, anotações, valores fracionados, armas ou corréus, reforçando o caráter episódico do fato e a inadequação de presumir periculosidade com base exclusiva na quantidade apreendida.
+Alega erro fático relevante na decisão originária ao afirmar reiteração por tráfico, esclarecendo que o paciente é primário e não possui prisão ou processo por tráfico, apenas termos por porte para consumo, o que tornaria inválido um dos pilares do decreto.
+Ressalta que a prisão já dura 175 dias e que o acórdão impugnado não fundamentou a insuficiência das medidas cautelares diversas.
+Afirma a ausência de proporcionalidade e contemporaneidade do decreto de prisão.
+Destaca condições pessoais favoráveis, tais como primariedade, bons antecedentes, residência fixa e atividade laboral lícita, o que demonstra a suficiência de medidas cautelares alternativas.
+Requer, liminarmente, a substituição da prisão preventiva por medidas cautelares do art. 319 do CPP. No mérito, pede a revogação da prisão do recorrente. Subsidiariamente, caso não se entenda pela revogação da prisão, que sejam aplicadas medidas cautelares diversas do art. 319 do CPP.
+É o relatório.
+O recurso é tempestivo e deve ser conhecido. Passa-se, portanto, ao exame do mérito.
+O decreto prisional, transcrito no acórdão, foi assim fundamentado (fls. 187-188):
+ ..
+2. Da necessidade de conversão do flagrante em prisão preventiva.
+No caso em análise, após os relatos do preso e analisando os elementos concretos existentes nestes autos, entendo que emergem fundamentos concretos para a manutenção da prisão cautelar do indiciado.
+Na hipótese em tela, presente ao menos uma das condições previstas no art. 313, do CPP. A regular situação de flagrância em que foi surpreendido o autuado torna certa a materialidade delitiva, indiciando suficientemente também sua autoria, ambas mencionadas nos relatos colhidos neste auto de prisão.
+No tocante aos pressupostos da prisão provisória, encontram estes amparo na necessidade de se acautelar a ordem pública. A garantia da ordem pública, além de visar impedir a prática de outros delitos, busca também assegurar o meio social e a própria credibilidade dada pela população ao Poder Judiciário.
+No presente caso, os fatos acima evidenciam a periculosidade e caracteriza situação de acentuado risco à incolumidade pública, suficientes para justificar a segregação cautelar como medida necessária e adequada para contenção de seu ímpeto delitivo, não se mostrando suficiente a imposição de nenhuma das medidas cautelares admitidas em lei.
+O caso é conversão da prisão em preventiva. Cuida-se de delito de tráfico de drogas, em que o custodiado foi preso com aproximadamente 10kg de drogas, o que demonstra que, ao menos em análise inicial, haver uma cadeia de traficância da qual o preso em tese faz parte. Ademais, não é a primeira vez que o custodiado é preso por eventual crime de tráfico, o que demonstra que sua liberdade colocará em risco a sociedade como um todo. Logo, esse crime em concreto demonstra periculosidade e traz intranquilidade social. Está patente, portanto, o risco à ordem pública. Não há possibilidade de cumprimento de medidas cautelares diversas da prisão.
+Por fim, diante dos fundamentos supracitados, incabíveis as medidas cautelares previstas no art. 319 do CPP, em atenção do disposto no art. 282, §6º do Estatuto Processual Penal em substituição à segregação cautelar.
+3. Dispositivo.
+Assim, CONVERTO EM PREVENTIVA a prisão em flagrante de DAVI CAMPOS GARCIA, nascido em 11/01/2001, filho de Vinicius Sales Garcia e de Tatiana Petra da Motta Campos, com fundamento nos artigos 310, II, e 313 do Código de Processo Penal.
+ ..
+Verifica-se que a prisão preventiva foi adequadamente motivada, lastreada na necessidade de garantia da ordem pública, em razão da gravidade concreta da conduta, ante a quantidade das drogas apreendidas, quase 10 kg de maconha, o que apontaria para a habitualidade da conduta de traficância de forma contumaz.
+Com efeito, nos casos de prisão em flagrante por tráfico de drogas, a conversão em prisão preventiva pode ser decretada quando a gravidade concreta da conduta se evidencia em fatores como a quantidade e a natureza da substância apreendida, a forma de acondicionamento ou a presença de instrumentos destinados à comercialização, circunstâncias que revelam maior potencial lesivo da conduta e indicam periculosidade do agente, ultrapassando a mera gravidade abstrata do delito.
+Nesse sentido:
+AGRAVO REGIMENTAL EM HABEAS CORPUS. CRIMES DE TRÁFICO DE DROGAS E ADULTERAÇÃO DE SINAL IDENTIFICADOR DE VEÍCULO. ALEGAÇÃO DE INOCÊNCIA. PRISÃO PREVENTIVA. FUNDAMENTAÇÃO. GRANDE QUANTIDADE DE DROGAS. INDÍCIOS DE ENVOLVIMENTO REITERADO. GRAVIDADE CONCRETA DA CONDUTA. SEGREGAÇÃO DEVIDAMENTE JUSTIFICADA PARA A GARANTIA DA ORDEM PÚBLICA. DESPROPORÇÃO EM RELAÇÃO À POSSÍVEL PENA A SER APLICADA. PROGNÓSTICO INVIÁVEL. CONDIÇÕES PESSOAIS FAVORÁVEIS. IRRELEVÂNCIA. MEDIDAS CAUTELARES ALTERNATIVAS. INSUFICIÊNCIA. AUSÊNCIA DE CONSTRANGIMENTO ILEGAL. RECURSO NÃO PROVIDO.
+ .. .
+4. Ademais, "É pacífico o entendimento no sentido de que as circunstâncias fáticas do crime, como a quantidade apreendida, a variedade, a natureza nociva dos entorpecentes, a forma de acondicionamento, entre outros aspectos, podem servir de fundamentos para o decreto prisional quando evidenciarem a periculosidade do agente e o efetivo risco à ordem pública, caso permaneça em liberdade."(AgRg no HC n. 787.386/SP, Rel. Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 13/12/2022, DJe 19/12/2022).
+ ..
+7. Mostra-se indevida a aplicação de medidas cautelares diversas da prisão, quando evidenciada a sua insuficiência para acautelar a ordem pública.
+8. Agravo regimental a que se nega provimento.
+(AgRg no HC n. 957.245/SC, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 12/2/2025, DJEN de 18/2/2025.)
+Sendo assim, quando presentes os requisitos do art. 312 do CPP, a imposição da prisão preventiva é medida de rigor, independentemente de condições pessoais favoráveis do agente, mostrando-se inadequadas medidas cautelares diversas do art. 319, quando a custódia provisória apresentar fundamentação concreta.
+Nesse sentido, " a  presença de condições pessoais favoráveis não impede a imposição da prisão preventiva, quando presentes os requisitos legais" (AgRg no HC n. 990.311/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 22/4/2025, DJEN de 30/4/2025).
+Inclusive, "tendo sido exposta de forma fundamentada e concreta a necessidade da prisão, revela-se incabível sua substituição por outras medidas cautelares mais brandas" (AgRg no HC n. 965.960/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 5/3/2025, DJEN de 10/03/2025).
+Por outro lado, as teses referentes à ausência de contemporaneidade não foi apreciada pelo Tribunal de origem, conforme cópia do acórdão às fls. 180-190, motivo pelo qual a matéria não será examinada por esta Corte superior, sob pena de se incorrer em indevida supressão de instância.
+Com efeito, " é  imprescindível o prévio enfrentamento da matéria pelas instâncias ordinárias para evitar indevida supressão de instância e violação dos princípios do duplo grau de jurisdição e devido processo legal" (HC n. 1.021.432/MG, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 10/12/2025, DJEN de 16/12/2025.)
+Embora a tese de ausência de configuração de reiteração delitiva diante da existência de termos circunstanciados de ocorrência não tenha sido combatida expressamente no acórdão atacado, tem-se que, mesmo diante da análise equivocada de tal premissa na decretação da prisão preventiva pelo juízo de origem, tal fato, por si só, não macula o decreto prisional, o qual encontra-se efetivamente fundamentado também na expressiva quantidade de drogas apreendidas (aproximadamente 10kg de maconha), sendo tal fundamento suficiente para manutenção da custódia cautelar do suspeito, diante do nítido risco à ordem pública.
+Por outro lado, mostra-se descabida a alegação de desproporcionalidade da prisão cautelar, com base em futura e hipotética condenação a ser cumprida em regime mais brando, haja vista que o juízo só poderá dosar a pena e fixar o respectivo regime após o encerramento da instrução criminal. Não é possível antecipar tal análise em habeas corpus, por se exigir prévia produção de prova.
+Não se verificando qualquer ilegalidade no feito, a pretensão recursal não deve ser acolhida.
+Ante o exposto, nego provimento ao recurso em habeas corpus.
+Publique-se.
+Intimem-se.
+EMENTA
