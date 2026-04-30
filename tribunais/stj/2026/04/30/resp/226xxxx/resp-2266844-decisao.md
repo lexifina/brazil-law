@@ -1,0 +1,24 @@
+DECISÃO
+Trata-se de recurso especial manejado pelo Estado do Paraná, com fundamento no art. 105, III, a, da Constituição Federal, contra acórdão proferido pelo Tribunal de Justiça do Estado do Paraná, assim ementado (fls. 724/725):
+I - APELAÇÃO CÍVEL. TRIBUTÁRIO. EMBARGOS À EXECUÇÃO FISCAL. II - SENTENÇA DE EXTINÇÃO DO FEITO, SEM JULGAMENTO DO MÉRITO, DIANTE DA INTEMPESTIVIDADE DOS EMBARGOS. III - INÍCIO DA CONTAGEM QUE SE DARIA COM A PENHORA. JUIZ QUE DEFERIU O PROCESSAMENTO DOS EMBARGOS À EXECUÇÃO FISCAL SEM A GARANTIA DO JUÍZO, DIANTE DA HIPOSSUFICIÊNCIA ECONÔMICA. IV - REGRA RELATIVIZADA. RECONHECIMENTO DA TEMPESTIVIDADE, NO CASO CONCRETO. V - SENTENÇA CASSADA. RETORNO DOS AUTOS À ORIGEM. VI - RECURSO PROVIDO.
+Opostos embargos de declaração, foram rejeitados (fls. 833/835).
+A parte recorrente aponta violação aos arts. 489, § 1º, IV, 1.022, II e parágrafo único, II, 223, 239, § 1º, 507, 915 e 926 do Código de Processo Civil; e ao art. 16, III e § 1º, da Lei n. 6.830/80. Sustenta que o Tribunal de origem incorreu em negativa de prestação jurisdicional ao não se manifestar sobre os pontos omissos apontados, bem como, no mérito, defende o reconhecimento da intempestividade dos embargos à execução fiscal opostos apenas no ano de 2022.
+Sem contrarrazões (fl. 900).
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+A irresignação merece acolhimento.
+Da análise dos autos, constata-se que o Tribunal de origem, a despeito da oposição de embargos de declaração, furtou-se a entregar a prestação jurisdicional de forma completa, abstendo-se de analisar teses relevantes e imprescindíveis para o escorreito deslinde da controvérsia.
+Conforme se extrai das razões dos aclaratórios, o Estado do Paraná instou a Corte regional a sanar três vícios específicos e devidamente particularizados, a saber: (I) ausência de manifestação sobre o comparecimento espontâneo dos executados nos autos da execução fiscal em julho de 2020; (II) falta de análise acerca da realização de prévia penhora parcial de ativos financeiros ocorrida em agosto de 2020; e (III) ausência de enfrentamento da tese de inaplicabilidade do precedente do STJ invocado para contagem do prazo, por ausência de compatibilidade fática com o caso concreto.
+A ausência de manifestação sobre questão fático-jurídica relevante, oportuna e expressamente suscitada pela parte, que detém potencialidade para infirmar, em tese, a conclusão adotada pelo julgador, configura ofensa ao art. 1.022 do Código de Processo Civil.
+A propósito:
+PROCESSUAL CIVIL. RECURSO ESPECIAL. NEGATIVA DE PRESTAÇÃO JURISDICIONAL E CARÊNCIA DE FUNDAMENTAÇÃO. RECONHECIMENTO. ACÓRDÃO COMBATIDO. ANULAÇÃO.
+1. De acordo com o art. 1.022, parágrafo único, II, combinado com o art. 489, § 1º, IV, ambos do CPC/2015, considera-se omissa a decisão que "não enfrentar todos os argumentos deduzidos no processo capazes de, em tese, infirmar a conclusão adotada pelo julgador".
+2. De acordo com a jurisprudência do STJ, há ofensa aos arts. 489, § 1º, IV, 1.022, II, do CPC/2015 "nas hipóteses em que o Tribunal de origem, mesmo após a oposição de embargos de declaração, omite-se no exame de questão pertinente para a resolução da controvérsia" (REsp 1660844/MG, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 19/06/2018, DJe 25/06/2018).
+3. Hipótese em que o Regional proveu agravo de instrumento, mediante a reprodução literal da decisão liminar anterior, e, a despeito de provocado via embargos de declaração, manteve-se silente quanto às teses sustentadas pelo CADE, ora agravado, no agravo interno manejado na origem.
+4. Apesar de não se exigir do magistrado, desde que amparado em fundamentação suficiente, a obrigação de responder a todos os argumentos suscitados pela parte, na espécie, as alegações apresentadas nos aludidos embargos de declaração mostram-se relevantes para a solução da controvérsia, razão por que devem ser expressamente enfrentadas, sob pena de inviabilizar o acesso à instância especial, nos termos da Súmula 211 do STJ.
+5. Acórdão recorrido anulado, com determinação de retorno dos autos à Corte de origem para rejulgamento dos embargos de declaração.
+6. Agravo interno desprovido.
+(AgInt no AREsp n. 1.377.683/SP, relator Ministro Gurgel de Faria, Primeira Turma, julgado em 28/9/2020, DJe de 1/10/2020.)
+Nesse cenário, evidencia-se a violação aos arts. 489 e 1.022 do CPC, impondo-se o retorno dos autos para que a Corte de origem supra a omissão apontada. Prejudicada a análise das demais questões suscitadas no recurso especial.
+ANTE O EXPOSTO, dou provimento ao recurso especial do Estado do Paraná para anular o acórdão proferido nos embargos de declaração (fls. 833/835) e determinar o retorno dos autos ao Tribunal de origem, a fim de que se manifeste, expressamente, sobre as questões suscitadas pela recorrente.
+Publique-se.
+EMENTA
