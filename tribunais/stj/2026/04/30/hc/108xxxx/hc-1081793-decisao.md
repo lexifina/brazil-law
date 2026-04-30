@@ -1,0 +1,21 @@
+DECISÃO
+Trata-se de habeas corpus com pedido de liminar impetrado em favor de KAUÃ HENRICO RIBEIRO, em que se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAIS.
+Depreende-se dos autos que o paciente foi preso em flagrante delito no dia 06/02/2026 pela suposta prática dos crimes tipificados no artigo 33 da Lei 11.343/06 e no artigo 16 da Lei 10.826/03.
+Irresignada, a defesa impetrou habeas corpus perante o Tribunal de origem, que denegou a ordem, em acórdão de fls. 11-21.
+No presente writ, a defesa sustenta que a prisão preventiva foi decretada com fundamentos genéricos, sem análise individualizada das particularidades do caso e sem a demonstração dos requisitos do artigo 312 do Código de Processo Penal, em desatenção às exigências do artigo 315 do mesmo diploma.
+Afirma inexistir periculum libertatis idôneo, apontando que os fundamentos se apoiam em presunções, sem fatos concretos, e que o paciente ostenta condições pessoais favoráveis, de modo que medidas cautelares diversas da prisão, previstas no artigo 319 do Código de Processo Penal, seriam suficientes ao acautelamento.
+Requer, ao final, a revogação da prisão preventiva do paciente, com a expedição do competente alvará de soltura. Subsidiariamente, pleiteia a aplicação de medidas cautelares diversas da prisão, previstas no artigo 319 do Código de Processo Penal.
+A liminar foi indeferida às fls.180-181.
+As informações foram prestadas às fls.183-186. O  Ministério  Público  Federal,  às  fls.  192-194,  manifestou pela "denegação da ordem".
+É  o  relatório. DECIDO.
+A análise da decisão que decreto a prisão preventiva permite a conclusão de que a prisão cautelar imposta ao Paciente encontra-se em consonância com a jurisprudência desta Corte sobre o tema, uma vez que fundamentada em dados concretos extraídos dos autos, que evidenciam a necessidade de garantia da ordem pública,notadamente em razão da grande quantidade e variedade de droga apreendida: 1,261 kg de haxixe (maconha) e 2,1 kg de cocaína- fl. 25. Ressalte-se que o paciente transportava os entorpecentes de um Estado para outro da Federação, tendo sido interceptado em rodovia federal, na Comarca de Rio Casca, durante o trajeto do Estado do Rio de Janeiro até Belo Horizonte. Ademais, a decisão, ainda salientou que: "os registros da CAC e da FAC revelam que há dois anos o autuado foi preso e liberado mediante o pagamento de fiança"- fl. 25 , circunstâncias aptas a ensejarem a manutenção da segregação cautelar.
+A propósito:
+"A gravidade concreta dos delitos e a periculosidade do agente, evidenciadas pela quantidade e variedade de entorpecentes apreendidos, justificam a manutenção da prisão preventiva para garantir a ordem pública." (AgRg no HC n. 870.947/ES,Minha relatoria, Quinta Turma, julgado em 27/11/2024, DJe de 6/12/2024.)
+A prisão preventiva está fundamentada na gravidade concreta da conduta, evidenciada pela apreensão de variedade e quantidade de entorpecentes, a bem da ordem pública."(AgRg no RHC n. 204.354/SC, relatora Ministra Daniela Teixeira, Quinta Turma, julgado em 27/11/2024, DJe de 2/12/2024.)
+Nesse mesmo sentido, confiram-se alguns precedentes: (AgRg no HC n. 946.193/SP, relatora Ministra Daniela Teixeira, Quinta Turma, julgado em 27/11/2024, DJe de 2/12/2024.)AgRg no RHC n. 196.021/DF, Sexta Turma, Rel. Min. Rogerio Schietti Cruz, DJe de 3/6/2024; AgRg no RHC n. 193.763/RS, Quinta Turma, Rel. Min. Ribeiro Dantas, DJe de 12/4/2024.
+Outrossim, conforme a jurisprudência desta Corte, a contumácia delitiva justifica a prisão cautelar para a garantia da ordem pública. Nesse sentido: AgRg no HC n. 910.540/CE, Quinta Turma, Rel. Min. Reynaldo Soares da Fonseca, DJe de 3/7/2024; AgRg no HC n. 902.557/SP, Sexta Turma; Rel. Min. Antonio Saldanha Palheiro, DJe de 3/7/2024 e AgRg no HC n. 912.267/MG, Sexta Turma, Rel. Min. Rogerio Schietti Cruz, DJe de 28/6/2024.
+Por fim, não há que se falar em possibilidade de aplicação de medidas cautelares diversas da prisão se há nos autos elementos hábeis a recomendar a manutenção de sua custódia cautelar, o que ocorre na hipótese.
+Diante de tais considerações, portanto, não se vislumbra a existência de qualquer flagrante ilegalidade pas sível de ser sanada.
+Ante o exposto, denego a ordem.
+Publique-se. Intimem-se.
+EMENTA
