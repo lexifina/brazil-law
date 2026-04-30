@@ -1,0 +1,38 @@
+DECISÃO
+Examina-se recurso especial interposto por MARIA APARECIDA FERREIRA FARIAS, fundamentado nas alíneas "a" e "c" do permissivo constitucional.
+Recurso especial interposto em: 19/9/2025.
+Concluso ao gabinete em: 23/4/2026.
+Ação: declaratória de inexistência de contratação de empréstimo consignado c/c repetição de indébito e compensação por danos morais, ajuizada por MARIA APARECIDA FERREIRA FARIAS, em face de BANCO PAN S/A.
+Sentença: julgou extinto o processo, sem resolução do mérito, por indeferimento da petição inicial; condenou os advogados da requerente ao pagamento das custas e despesas processuais; condenou ao pagamento de multa por litigância de má-fé de 5% (cinco por cento) sobre o valor da causa.
+Acórdão: deu parcial provimento ao recurso de apelação interposto por MARIA APARECIDA FERREIRA FARIAS, com determinação, nos termos da seguinte ementa:
+AÇÃO DECLARATÓRIA. SENTENÇA DE EXTINÇÃO. APELAÇÃO DA AUTORA IMPROVIDA.
+INDEFERIMENTO DA PETIÇÃO INICIAL. DETERMINAÇÃO DE EMENDA À INICIAL NÃO CUMPRIDA ADEQUADAMENTE PELA AUTORA. EXTINÇÃO DO PROCESSO. Ação declaratória cumulada com indenização por danos morais. Sentença de indeferimento da petição inicial. Recurso da autora. Pedido formulado em petição inicial padronizada. O juízo de primeiro grau determinou a emenda à inicial, para que a autora apresentasse procuração específica com firma reconhecida por autenticidade. Nos termos do art. 320 do Código de Processo Civil, cabia à apelante instruir a petição inicial com os documentos indispensáveis à propositura da ação. Determinação do Juízo "a quo" que se fez relevante, diante dos indícios de práticas processuais abusivas. Advogado da autora que ajuíza com frequência ações declaratórias com pedidos de indenização, comportamento que despertou a necessidade de comprovação da validade da procuração (específica e com firma reconhecida por autenticidade). No entanto, a autora apresentou a mesma procuração genérica anteriormente juntada, com firma reconhecida por semelhança, o que não atende adequadamente a determinação do Juízo. Diante do descumprimento do que lhe foi determinado e ausente qualquer justificativa para tanto, era mesmo caso aplicação da previsão contida no parágrafo único do artigo 321 do Código de Processo Civil. Precedentes do TJSP, incluindo-se a Turma julgadora.
+CONDENAÇÃO DO ADVOGADO DA AUTORA EM CUSTAS E DESPESAS PROCESSUAIS. DESCABIMENTO. Ausência de verificação de atuação dolosa do patrono a ensejar responsabilização por despesas. Condenação afastada.
+LITIGÂNCIA DE MÁ-FÉ. RECONHECIMENTO EM FACE DA AUTORA. EXPEDIENTE USADO PELA PARTE AUTORA DE FRAGMENTAÇÃO DO LITÍGIO. OPÇÃO DE MULTIPLICAÇÃO DE DEMANDAS PARA AMPLIAR PRETENSÃO DE REPARAÇÃO DE DANOS MORAIS.
+PRÁTICA DE LITIGÂNCIA DENOMINADA "PREDATÓRIA" OU "ABUSIVA". Reconhecimento de litigância predatória. Parte que promoveu desnecessariamente 3 (três) ações diferentes contra o mesmo banco réu, em um total de 14 ações. Num expediente de fragmentação proposital de demandas, promoveu uma "litigância predatória" (ou abusiva), sempre com o objetivo único de multiplicação de honorários advocatícios. Reconhecimento de litigância de má-fé com imposição de multa, no importe de 5% sobre o valor atualizado da causa. Manutenção da determinação para expedição de ofícios. Ação julgada extinta, sem resolução do mérito, com imposição de multa processual à autora.
+SENTENÇA REFORMADA. RECURSO PARCIALMENTE PROVIDO, COM DETERMINAÇÃO. (e-STJ fls. 223-224)
+Recurso especial: alega violação dos arts. 6º e 14 do CDC, 3º, 38, 319 e 425 do CPC, e 5º da CF, bem como dissídio jurisprudencial.
+Afirma que a exigência de documentos não indispensáveis para a propositura, como extratos bancários, enseja indeferimento indevido da inicial e afronta às normas de proteção ao consumidor. Aduz que a determinação de apresentar procuração com firma reconhecida por autenticidade configura formalismo exacerbado.
+Assevera que a multa por litigância de má-fé é indevida porque não se verifica conduta dolosa ou temerária da requerente.
+RELATADO O PROCESSO, DECIDE-SE.
+- Da Súmula 568/STJ
+A jurisprudência desta Corte é no sentido de que: "A exigência de emenda da inicial para comprovar interesse de agir e autenticidade da postulação, diante de indícios de litigância abusiva, é legítima, conforme a tese firmada no Tema n. 1.198 do STJ" (REsp n. 2.247.494/SP, Quarta Turma, julgado em 2/3/2026, DJEN de 5/3/2026).
+Nesse mesmo sentido: REsp n. 2.223.695/SP, Terceira Turma, julgado em 10/3/2026, DJEN de 13/3/2026.
+Na hipótese, extrai-se do acórdão recorrido que a validade da intimação da parte autora, para comprovar a autenticidade da firma no mandato advocatício, decorre de indício de litigância predatória pelo representante processual respectivo, porquanto identificado quantidade superior a: " ..  1.000 ações no Estado de São Paulo, em nome do advogado contratado pela autora. (e-STJ fl. 226).
+Nesse contexto, diante da não juntada de procuração com firma reconhecida, o juiz extinguiu o processo sem resolução do mérito, provimento confirmado no acórdão recorrido, que deve ser mantido, pois em consonância com a jurisprudência desta Corte.
+- Da violação de dispositivo constitucional ou de súmula
+A interposição de recurso especial não é cabível quando ocorre violação de súmula, de dispositivo constitucional ou de qualquer ato normativo que não se enquadre no conceito de lei federal, conforme disposto no art. 105, III, "a" da CF/88.
+Dessa forma, o recurso especial não deve ser conhecido no que se refere à alegada violação do art. 5º da CF e da Súmula 479/STJ.
+- Da ausência de prequestionamento
+O acórdão recorrido não decidiu acerca dos demais artigos da legislação infraconstitucional indicados como violados - análise prejudicada em razão do provimento que extinguiu o processo sem resolução do mérito -, não tendo a parte recorrente oposto embargos de declaração com vistas a suprir eventual omissão perpetrada pelo Tribunal de origem.
+Por isso, o julgamento do recurso especial é inadmissível. Aplica-se, na hipótese, a Súmula 282/STF.
+Forte nessas razões, com fundamento no art. 932, III e IV, a , do CPC, bem como na Súmula 568/STJ, CONHEÇO PARCIALMENTE do recurso especial e, nessa extensão, NEGO-LHE PROVIMENTO.
+Nos termos do art. 85, § 11, do CPC, considerando o trabalho adicional imposto ao advogado da parte agravada em virtude da interposição deste recurso, majoro os honorários fixados anteriormente em 10% sobre o valor da causa (e-STJ fl. 235) para 12%, observada eventual concessão da gratuidade de justiça.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar a condenação às penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL. AÇÃO DECLARATÓRIA DE INEXISTÊNCIA DE CONTRATO C/C COMPENSAÇÃO POR DANOS MORAIS. AUTENTICIDADE DA ASSINATURA. MANDATO ADVOCATÍCIO. LITIGÂNCIA PREDATÓRIA. EMENDA À INICIAL. ÔNUS DESCUMPRIDO. EXTINÇÃO DO PROCESSO SEM RESOLUÇÃO DO MÉRITO. VIABILIDADE. VIOLAÇÃO DE DISPOSITIVO CONSTITUCIONAL OU DE SÚMULA. DESCABIMENTO.PREQUESTIONAMENTO. AUSÊNCIA. SÚMULA 282/STF.
+1. Ação declarató ria de inexistência de contrato c/c compensação por danos morais.
+2. A exigência de emenda da inicial para comprovar interesse de agir e autenticidade da postulação, diante de indícios de litigância abusiva, é legítima, conforme a tese firmada no Tema n. 1.198 do STJ.
+3. A ausência de decisão acerca dos argumentos invocados pelo recorrente em suas razões recursais impede o conhecimento do recurso especial.
+4. Recurso especial parcialmente conhecido e, nessa extensão, não provido.
