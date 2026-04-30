@@ -1,0 +1,34 @@
+DECISÃO
+Cuida-se de agravo recurso especial interposto por JOAO ONOFRE FERREIRA PIMENTEL contra a decisão que obstou a subida de recurso especial.
+Extrai-se dos autos que o agravante interpôs recurso especial, com fundamento no art. 105, III, "a", da Constituição Federal, contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE GOIÁS cuja ementa guarda os seguintes termos (fls. 412-413):
+DIREITO DO CONSUMIDOR. APELAÇÃO CÍVEL. CARTÃO DE CRÉDITO CONSIGNADO UTILIZADO PARA SAQUES COMPLEMENTARES. IMPROCEDÊNCIA DOS PEDIDOS INICIAIS MANTIDA. RECURSO DESPROVIDO.
+I. CASO EM EXAME
+1. Apelação cível interposta contra sentença que julgou improcedentes os pedidos formulados em ação com pedido de conversão de cartão de crédito consignado em empréstimo consignado, repetição de indébito e indenização por danos morais. Alegou-se ausência de ciência sobre a contratação da modalidade cartão de crédito, ante os descontos contínuos no benefício previdenciário. A sentença entendeu comprovado o conhecimento do consumidor sobre a natureza do contrato e julgou improcedente o pedido, com condenação em custas e honorários, cuja exigibilidade foi suspensa.
+II. QUESTÃO EM DISCUSSÃO
+2. Há quatro questões em discussão: (i) saber se o recurso de apelação preenche os requisitos de admissibilidade, afastando a alegação de inépcia recursal por ausência de dialeticidade; (ii) saber se houve falha no dever de informação por parte da instituição financeira quanto à contratação da modalidade cartão de crédito consignado; (iii) saber se é cabível a aplicação da Súmula 63 do TJGO ao caso concreto; (iv) saber se estão presentes os pressupostos para a restituição de valores descontados e indenização por danos morais.
+III. RAZÕES DE DECIDIR
+3. O recurso preenche os pressupostos recursais, afastando a preliminar de ausência de dialeticidade, diante da apresentação clara das razões recursais, as quais impugnam especificamente os termos da sentença.
+4. A relação jurídica entre as partes é de consumo, sendo aplicável o Código de Defesa do Consumidor.
+5. A documentação constante nos autos demonstra que houve ciência do consumidor quanto à modalidade contratada, inclusive com uso reiterado do crédito por meio de saques complementares.
+6. A jurisprudência do TJGO afasta a aplicação da Súmula 63 em hipóteses em que o consumidor realizou saques adicionais após o contrato inicial, evidenciando ciência sobre a natureza do contrato.
+7. Inexistindo abusividade na contratação e sendo legítimos os descontos realizados, é incabível a restituição de valores e a indenização por danos morais.
+IV. DISPOSITIVO E TESE
+8. Recurso conhecido e desprovido.
+Sem embargos de declaração.
+No recurso especial, a parte recorrente alega ofensa aos arts. 51, inciso IV, 52 e 54 do Código de Defesa do Consumidor.
+Aduz que o contrato de adesão firmado entre as partes "é extremamente oneroso e lesivo à parte recorrente, ferindo o princípio da boa-fé, da transparência e probidade contratual. Além de estabelecer desvantagem manifestamente excessiva, o contrato também viola o dever de informação insculpido no artigo 52 do Código de Defesa do Consumidor, pois resta claro que a recorrente não possuía as informações claras a respeito do serviço que estava adquirindo" (fl. 438).
+Sustenta que "a instituição financeira firmou com a recorrente contrato de cartão de crédito consignado com reserva de margem como se se tratasse de empréstimo consignado tradicional, suprimindo informações essenciais sobre a real natureza da avença" (fl. 440). Dessa forma, faltou constar, no contrato, informação prévia, clareza, legibilidade e destaque das cláusulas limitativas de direitos.
+A controvérsia objeto do recurso especial está submetida a julgamento no rito dos recursos repetitivos, afetado aos Temas n. 1.328/STJ e 1.414/STJ, conforme observa-se a partir das ementas:
+PROPOSTA DE AFETAÇÃO. RECURSO ESPECIAL. PROCESSUAL CIVIL. CIVIL. BANCÁRIO. ACÓRDÃO NA ORIGEM EM INCIDENTE DE RESOLUÇÃO DE DEMANDAS REPETITIVAS (IRDR). CONTRATO DE CARTÃO DE CRÉDITO COM RESERVA DE MARGEM CONSIGNÁVEL (RMC). DANO MORAL DECORRENTE DA DECLARAÇÃO DE INVALIDADE DA CONTRATAÇÃO. DEFINIÇÃO SOB O RITO DOS RECURSOS ESPECIAIS REPETITIVOS. VIABILIDADE DA FIXAÇÃO DE TESE CONCENTRADA E DE EFEITOS VINCULANTES.
+1. Delimitação da controvérsia: Para os efeitos dos arts. 927 e 1.036 do CPC, propõe-se a afetação do seguinte tema repetitivo: "Se há dano moral in re ipsa na hipótese de invalidação da contratação de cartão de crédito com reserva de margem consignável (RMC) em benefício previdenciário".
+2. RECURSO ESPECIAL AFETADO AO RITO DO ART. 1.036 DO CPC/2015.
+(ProAfR no REsp n. 2.145.244/SC, relator Ministro Raul Araújo, Segunda Seção, julgado em 1/4/2025, DJEN de 11/4/2025.)
+PROPOSTA DE AFETAÇÃO. RECURSO ESPECIAL. PROCESSUAL CIVIL. CIVIL. CONTRATOS DE CARTÃO DE CRÉDITO CONSIGNADO. VALIDADE E CONSEQUÊNCIAS. DEFINIÇÃO SOB O RITO DOS RECURSOS ESPECIAIS REPETITIVOS. VIABILIDADE DA FIXAÇÃO DE TESE CONCENTRADA E DE EFEITOS VINCULANTE.
+1. Delimitação da controvérsia: Para os efeitos dos arts. 927 e 1.036 do CPC, propõe-se a afetação do seguinte tema repetitivo:
+I - Definir parâmetros objetivos para a aferição da validade e eventual caráter abusivo dos contratos de cartão de crédito consignado, considerando: (i) o dever de prestar informações suficientes, claras e adequadas ao consumidor, em especial quando este alega que pretendia contratar simples empréstimo consignado; e (ii) o prolongamento indeterminado da dívida, ante a aparente insuficiência dos descontos mensais para amortizá-la, frente aos juros rotativos aplicados no refinanciamento do saldo.
+II - Em caso de invalidação do contrato, aferir se a consequência a ser adotada deverá ser a restituição das partes ao estado anterior, a conversão do contrato em empréstimo consignado ou a revisão das cláusulas contratuais, bem como se haverá configuração de dano moral in re ipsa.
+2. RECURSO ESPECIAL AFETADO AO RITO DO ART. 1.036 DO CPC /2015 (REsp 2.215.851/RJ, REsp 2.215.853/GO, REsp 2.224.599/PE e REsp 2.224.598/PE).
+Como se vê, a questão controvertida foi afetada para julgamento sob o rito dos recursos repetitivos (Temas n. 1.328 e 1.414), o que impõe a suspensão do presente recurso perante o Tribunal de origem, até a publicação do acórdão paradigma, nos termos do art. 256 -L, I, do RISTJ.
+Ante o exposto, determino que o feito seja devolvido e sobrestado no Tribunal de origem, para que se aguarde o julgamento dos referidos Temas , de modo que, após sua publicação, em observância ao art. 1.040 do CPC: a) seja negado seguimento ao recurso, se a decisão recorrida coincidir com a orientação emanada pela Corte de Justiça; ou b) proceda-se ao juízo de retratação, na hipótese de o acórdão vergastado divergir da decisão sobre o tema posto no rito dos recursos repetitivos.
+Publique-se. Intimem-se.
+ EMENTA
