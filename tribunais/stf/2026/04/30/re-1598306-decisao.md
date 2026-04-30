@@ -1,0 +1,48 @@
+DECISÃO:
+Trata-se de recurso extraordinário  com base no art. 102, inciso III, da Constituição Federal.
+O recurso foi interposto com fundamento na alínea "a" do permissivo constitucional.
+O acórdão recorrido  ficou assim ementado:
+
+TRIBUTÁRIO. APELAÇÕES. REMESSA NECESSÁRIA OFICIAL. MANDADO DE SEGURANÇA. INCENTIVOS/BENEFÍCIOS TRIBUTÁRIOS OU FINANCEIROS, NA ÁREA DO ICMS. CRÉDITO PRESUMIDO DE ICMS. NÃO INCIDÊNCIA DO IRPJ E DA CSLL. PRECEDENTES DA PRIMEIRA SEÇÃO DO STJ.
+1 - Tratam-se de Remessa Necessária e recursos de Apelação interpostos pela União (Fazenda Nacional) (id. 28565740) e por Engarrafamento Pitu LTDA (id. 28582929) em face de r. sentença proferida pelo MM. Juiz Federal Joaquim Lustosa Filho, da 12ª Vara Federal de Pernambuco, que, em sede de mandado de segurança, concedeu parcialmente a ordem para determinar à impetrada que se abstenha de exigir da impetrante a inclusão dos incentivos e benefícios fiscais ou financeiro-fiscais do ICMS na base de cálculo do IRPJ e da CSLL, desde que observados os requisitos dispostos no artigo 30 da Lei 12.973/2014.
+2 - Recursos de apelação e remessa necessária oficial conhecidos e recebidos apenas no efeito devolutivo (§ 3º do art. 14 c/c § 2º do art. 7º, todos da Lei 12.016, de 2009).
+3 - O cerne da presente controvérsia cinge-se à necessidade de se observar os requisitos elencados no art. 30 da Lei nº 12.973/2014, para excluir créditos presumidos de ICMS , concedidos no âmbito do PRODEPE, da base de cálculo do IRPJ e da CSLL.
+4 - No presente caso a impetrante, ora Apelante, não pleiteou a exclusão dos benefícios negativos relacionados ao ICMS (tais como redução de base de cálculo, redução de alíquota, isenção, diferimento, entre outros) da base de cálculo do IRPJ e da CSLL, mas, como já colocado, apenas a exclusão dos créditos presumidos de ICMS , concedidos no âmbito do PRODEPE.
+5 - A vetusta Lei nº 4.320, de 1964, que atualmente tem status de Lei Complementar (Art. 163, I c/c § 9° do art. 165, todos da vigente Constituição da República), tanto que foi alterada pela famosa Lei de Responsabilidade Fiscal, Lei Complementar nº 101, de 2000, a qual também traz regras a respeito das subvenções no seu art. 26 e parágrafos, indica claramente o que vem a ser subvenção social (custeio) e subvenção econômica (investimento), nos seus artigos 16 a 18.
+6 - Deu-se ao benefício fiscal ICMS (crédito presumido) o status de subvenção de investimento (subvenção econômica) por Lei Complementar (a referida Lei Complementar 160, de 2017, alterada pela Lei Complementar 186, de 2021), exatamente para não poder haver modificação por Medida Provisória ou por Lei Ordinária, para submeter o respectivo à tributação do IRPJ e CSLL, mudando a sua natureza para receita bruta ou para receita líquida.
+7 - Mencionada Lei Complementar 160, de 2017, determinou que para o gozo dos benefícios/incentivos tributários e incentivos financeiros nela previstos a Empresa teria que observar as exigências arroladas no art. 30 da Lei nº 12.973, de 2014, e acrescentou a esse artigo os Parágrafos 4º e 5º.
+8 - Note-se que pelo mencionado § 4º do art. 30 da Lei 12.973, de 2014, determinou-se que os incentivos/benefícios tributários ou financeiros relativos ao imposto previsto no inciso II do caput do art. 155 da Constituição Federal, o ICMS, concedidos pelos Estados e pelo Distrito Federal, são considerados subvenções para investimento , vedada a exigência de outros requisitos ou condições não previstos neste artigo.
+9 - Então, depois dessa regra legal, veiculada por Lei Complementar, mesmo que se tratasse de subvenção social, se concedida pelos Estados e pelo Distrito Federal, na área do ICMS, passou a ser tida, ainda que fictamente, por subvenção econômica (investimento).
+10 - Destaca-se que, antes do advento da mencionada Lei Complementar nº 160, de 2017, no que diz respeito a crédito presumido do ICMS, o Supremo Tribunal Federal já tinha se pronunciado pela ausência de ofensa direta à Constituição Federal em torno da inclusão de incentivos fiscais do ICMS na base de cálculo do IRPJ e da CSLL, seja em relação ao crédito presumido do ICMS (Tema 957 STF) ou das subvenções.
+11 - Fixado que a controvérsia não alcança estatura constitucional, sendo, sim, de natureza infraconstitucional, firmou-se a competência constitucional (art. 105 da vigente Constituição da República) do Superior Tribunal de Justiça para apreciação da questão. Assim, a Primeira Seção dessa e. Corte Superior se pronunciou sobre o tema (EREsp n° 1.517.492/PR), inclusive em apreciação de embargos de divergência, e firmou posicionamento pela não inclusão do crédito presumido de ICMS na base de cálculo do IRPJ e da CSLL.
+12 - Em 26/04/2023, quando do julgamento do Tema Repetitivo 1.182 STJ (REsp 1987158/SC), a mesma Primeira Seção da mencionada e. Corte Superior, modificou parcialmente o posicionamento firmado no julgado acima transcrito e concluiu que apenas os valores relativos a crédito presumido de ICMS não são incluídos nas bases de cálculo do IRPJ e da CSLL.
+13 - Dessa forma, nesse último julgado, a Primeira Seção do eg. Superior Tribunal de Justiça findou por concluir que os demais incentivos/benefícios, tributários ou financeiros, no campo do ICMS, tais como redução de base de cálculo, redução de alíquota, isenção, imunidade, diferimento, entre outros só não seriam incluídos nas bases de cálculo do IRPJ e da CSLL se observassem as exigências arroladas nas Teses do referido Tema 1.182 STJ.
+14 - Não tendo a impetrante, ora Apelante, pleiteado a exclusão dos benefícios negativos relacionados ao ICMS (tais como redução de base de cálculo, redução de alíquota, isenção, diferimento, entre outros) da base de cálculo do IRPJ e da CSLL, mostra-se a r. sentença ultra petita em relação a tal ponto.
+15 - Poderá a empresa, assim, apurar e recolher o IRPJ e a CSLL sem a inclusão em suas bases de cálculo do valor relativo ao ICMS presumido , concedidos no âmbito do PRODEPE, sem a observância dos requisitos elencados no art. 10 da Lei Complementar nº 160/2017 e no art. 30 da Lei nº 12.973/2014, ressalvando-se a possibilidade de discutir em ação própria questões relativas a nova Lei 14.780, de 2023 (que se originou na Medida Provisória nº 1.182,5, de 2023).
+16 - Remessa necessária oficial e recurso de apelação da União (Fazenda Nacional) conhecidos e PARCIALMENTE PROVIDOS e recurso de apelação da empresa conhecido e PROVIDO.
+
+Opostos os embargos de declaração, foram rejeitados.
+No recurso extraordinário sustenta-se violação do(s) art.(s) 2º; 97; 150, § 6º; 151, I e III; 153, § 2º, I; e 195, I, “b“,  da Constituição Federal.
+Decido.
+Inicialmente, observa-se que, conforme o disposto na decisão de admissibilidade do recurso extraordinário (e-DOC 161), a análise do presente recurso restringe-se à alegação de suposta violação ao art. 97 da Constituição Federal.
+Quanto a esse ponto, verifica-se que não há que se falar em inobservância da cláusula de reserva de plenário, pois o Tribunal de origem não declarou a inconstitucionalidade de norma legal ou afastou sua aplicação sem observância do art. 97 da Constituição Federal, mas apenas interpretou norma infraconstitucional que disciplina a matéria. Nesse sentido, menciono os seguintes precedentes:
+
+“AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. ADMINISTRATIVO. GRATIFICAÇÃO DE RISCO DE POLICIAMENTO OSTENSIVO. LEI COMPLEMENTAR ESTADUAL 59/2004. EXTENSÃO AOS INATIVOS E PENSIONISTAS. REEXAME DE INTERPRETAÇÃO DE NORMAS INFRACONSTITUCIONAIS LOCAIS. OFENSA REFLEXA. SÚMULA 280 DO STF. RESERVA DE PLENÁRIO. VIOLAÇÃO AO ART. 97 DA CONSTITUIÇÃO FEDERAL. INEXISTÊNCIA. AGRAVO A QUE SE NEGA PROVIMENTO.
+I - A verificação da alegada ofensa ao texto constitucional envolve o reexame da interpretação dada pelo juízo a quo à legislação infraconstitucional local aplicável ao caso (Lei Complementar estadual 59/2004). A afronta à Constituição, se ocorrente, seria indireta. Incidência da Súmula 280 do STF. Precedentes.
+II - Não há violação ao princípio da reserva de plenário quando o acórdão recorrido apenas interpreta norma infraconstitucional, sem declará-la inconstitucional ou afastar sua aplicação com apoio em fundamentos extraídos da Lei Maior.
+III - Agravo regimental a que se nega provimento.”(ARE 784.179-AgR, Segunda Turma, Rel. Min. Ricardo Lewandowski, DJe de 17/02/2014)
+
+“AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO COM AGRAVO. CARTEIRA NACIONAL DE HABILITAÇÃO. INFRAÇÃO ADMINISTRATIVA. EXPEDIÇÃO DA CNH. INTERPRETAÇÃO DO CÓDIGO DE TRÂNSITO BRASILEIRO. ART. 97 DA CF/88 E SÚMULA VINCULANTE Nº 10. AUSÊNCIA DE VIOLAÇÃO. PRECEDENTES.
+A jurisprudência do Supremo Tribunal Federal é firme no sentido de que não há violação ao princípio da reserva de plenário quando o acórdão recorrido apenas interpreta norma infraconstitucional, sem declará-la inconstitucional, ou afasta sua aplicação com apoio em fundamentos extraídos da Constituição Federal. Precedentes.
+Ausência de argumentos capazes de infirmar a decisão agravada.
+Agravo regimental a que se nega provimento.”(ARE 767.313-AgR, Primeira Turma, Rel. Min. Luís Roberto Barroso, DJe de 26/03/2015)
+
+Ante o exposto, nego seguimento ao recurso (alínea c do inciso V do art. 13 do Regimento Interno do Supremo Tribunal Federal).
+
+Havendo prévia fixação de honorários advocatícios pelas instâncias de origem, seu valor monetário será majorado em 10% (dez por cento) em desfavor da parte recorrente, nos termos do art. 85, § 11, do Código de Processo Civil, observado os limites dos §§ 2º e 3º do referido artigo e a eventual concessão de justiça gratuita.
+Publique-se.
+Brasília, 30 de abril de 2026.
+
+Ministro EDSON FACHIN
+Presidente
+Documento assinado digitalmente
