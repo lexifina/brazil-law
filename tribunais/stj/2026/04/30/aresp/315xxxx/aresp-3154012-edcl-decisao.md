@@ -1,0 +1,31 @@
+DECISÃO
+Cuida-se de embargos de declaração opostos por SEBASTIÃO NELSON DE OLIVEIRA contra decisão monocrática de minha relatoria que negou provimento ao agravo em recurso especial (fls. 581-585).
+O embargante alega que, a despeito da concessão da suspensão da exigibilidade dos honorários de sucumbência na origem, houve majoração no STJ, mas sem prever a ressalva da suspensão (fl. 590).
+Aponta, ainda, omissão do Tribunal de origem ao "deixar de analisar o argumento central do recurso: o de que não há nos autos qualquer elemento que demonstre, ou sequer sugira, a existência de má-fé ou culpa grave, sendo este um fato incontroverso e que não demanda reexame de provas" (fl. 590).
+Afirma que não houve a manifestação acerca da ausência da prova da má-fé para que o agravamento do risco justificasse a perda da garantia (fl. 592).
+Requer a reforma da decisão embargada.
+A embargada apresentou impugnação.
+É, no essencial, o relatório.
+Nos termos do art. 1.022 do CPC, os embargos de declaração destinam-se a corrigir erro material, esclarecer obscuridade, eliminar contradição ou suprir omissão existente na decisão embargada.
+No caso em exame, inexistem vícios no julgado.
+De início, quanto à omissão acerca da suspensão da exigibilidade da verba honorária, quando o beneficiário é titular da gratuidade da justiça, decorre diretamente do art. 98, § 3º, do CPC/2015 e independe de declaração expressa no julgado (EDcl no AREsp n. 2.843.990/SC, relatora Ministra Daniela Teixeira, Terceira Turma, julgado em 10/11/2025, DJEN de 13/11/2025).
+Ademais, quanto às demais omissões apontadas, tal circunstância não se evidencia, porquanto, de forma clara e fundamentada, ficou consignado que o segurado informou de forma inexata no questionário de risco quanto à guarda do veículo no local de trabalho e que, em virtude de tal conduta, o Tribunal a quo decidiu em conformidade com a jurisprudência desta Corte Superior, conforme se extrai (fl. 582):
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DECISÃO DA PRESIDÊNCIA DO STJ. RECONSIDERAÇÃO. AÇÃO DE COBRANÇA INDENIZAÇÃO SECURITÁRIA. SEGURO FACULTATIVO DE VEÍCULO. SINISTRO. FURTO. VEÍCULO DEIXADO ABERTO COM A CHAVE DENTRO, EM VIA PÚBLICA. AGRAVAMENTO INTENCIONAL DO RISCO. EXCLUSÃO DA COBERTURA. DO CC. ART. 768 RECUSA DE PAGAMENTO DA INDENIZAÇÃO. EXCLUSÃO DE COBERTURA. POSSIBILIDADE. CONSONÂNCIA DO ACÓRDÃO RECORRIDO COM A JURISPRUDÊNCIA DESTA CORTE. SÚMULA 83/STJ. AGRAVO INTERNO PROVIDO. SÚMULA 7/STJ. AGRAVO EM RECURSO ESPECIAL CONHECIDO. RECURSO ESPECIAL PARCIALMENTE CONHECIDO E DESPROVIDO.
+1. O do Código Civil dispõe que o segurado art. 768 perderá o direito à garantia se agravar intencionalmente o risco objeto do contrato. "O agravamento intencional de que trata o do art. 768 Código Civil envolve tanto o dolo quanto a culpa grave do segurado, que tem o dever de vigilância (culpa in vigilando) e o dever de escolha adequada daquele a quem confia a prática do ato (culpa in eligendo)" (AgInt no AREsp 1.039.613/SP, Relator Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em DJe de 29/10/2020)
+2. No caso, o Tribunal a quo, após o exame acurado dos autos e da interpretação das cláusulas contratuais, concluiu que o condutor do veículo agiu de forma desidiosa e negligente ao deixar as chaves no interior do veículo aberto, estacionado em via pública localizada dentro de uma comunidade sem policiamento, razão pela qual é legítima a recusa da seguradora em pagar a indenização securitária, ante o sinistro relativo ao furto do veículo segurado, na espécie, pois devidamente caracterizado o agravamento do risco.
+3. O entendimento adotado no acórdão recorrido coincide com a jurisprudência assente desta Corte Superior, circunstância que atrai a incidência da Súmula 83/STJ.
+4. Agravo interno provido para reconsiderar a decisão agravada e, em novo exame, conhecer do agravo para conhecer parcialmente do recurso especial e, na extensão, negar-lhe provimento.
+(AgInt no AREsp n. 2.334.233/SP, relator Ministro Raul Araújo, Quarta Turma, DJe de 7/2024.)
+O Tribunal de origem expressamente consignou, no julgamento dos embargos de declaração opostos contra o acórdão que julgou a apelação, que (fl. 466):
+Desse modo, vê-se que o recorrido afirmou no questionário a existência de garagem "para o veículo segurado", contudo, quando o segurado se dirigia até o local de trabalho, estacionava o carro na rua, onde o bem foi furtado.
+Observa-se, portanto, que, na verdade, a parte embargante não se conforma com a decisão embargada e, ainda neste momento, pleiteia novo julgamento da demanda. Todavia, os embargos de declaração não são a via adequada para se buscar o rejulgamento da causa.
+A propósito, cito:
+EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. CUMPRIMENTO DE SENTENÇA. PRETENSÃO DE PARCELAMENTO DO DÉBITO EXEQUENDO. IMPOSSIBILIDADE. INEXISTÊNCIA DOS VÍCIOS ENSEJADORES À OPOSIÇÃO DOS DECLARATÓRIOS. EMBARGOS REJEITADOS
+1. Nos termos do que dispõe o art. 1.022 do CPC/2015, os embargos de declaração são cabíveis apenas quando amparados em suposta omissão, contradição, obscuridade ou erro material na decisão embargada, não se caracterizando via própria ao rejulgamento da causa.
+2. Na hipótese, o acórdão embargado encontra-se suficientemente fundamentado, em relação à aplicabilidade dos arts. 805 e 916, § 7º, do CPC, seja em relação à alínea a do permissivo constitucional seja em relação à alínea c.
+3. Embargos de declaração rejeitados. (EDcl no REsp n. 1.891.577/MG, relator Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 2/9/2022.)
+No mesmo sentido, cito: EDcl no AgInt no AREsp n. 1.896.238/RJ, relator Ministro Herman Benjamin, Segunda Turma, DJe de 25/3/2022; EDcl no AgInt no AREsp n. 1.880.896/RJ, relator Ministro Mauro Campbell Marques, Segunda Turma, DJe de 26/5/2022.
+A pretensão de rediscutir matéria devidamente abordada e decidida no julgado embargado, consubstanciada na mera insatisfação com o resultado da demanda, é incabível na via eleita. Portanto, é evidente que os presentes embargos são incabíveis, pois veiculam pretensão exclusivamente infringente do julgado, sem o propósito específico de sanar obscuridade, contradição, omissão ou erro material.
+Ante o exposto, rejeito os embargos de declaração.
+Publique-se. Intimem-se.
+ EMENTA
