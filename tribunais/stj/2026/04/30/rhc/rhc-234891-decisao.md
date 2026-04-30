@@ -1,0 +1,21 @@
+DECISÃO
+Trata-se de recurso em habeas corpus, com pedido liminar, interposto por MURILO GALDINO DE OLIVEIRA, contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO no julgamento do Habeas Corpus Criminal n. 3013449-03.2025.8.25 0000.
+Extrai-se dos autos que o recorrente foi preso em flagrante em 22/9/2025, posteriormente convertido em prisão preventiva, pela suposta prática do crime tipificado no art. 33, caput, da Lei n. 11.343/2006.
+Irresignada, a defesa impetrou habeas corpus perante o Tribunal de origem, que denegou a ordem, nos termos do acórdão a seguir ementado:
+"EMENTA: DIREITO PENAL. HABEAS CORPUS. TRÁFICO DE DROGAS. ORDEM DENEGADA. I. Caso em Exame Pedido de habeas corpus impetrado pela Defensoria Pública do Estado de São Paulo em favor de Murilo Galdino de Oliveira, preso por tráfico de drogas, contra ato do Juízo das Garantias da Comarca de Sorocaba que converteu a prisão em flagrante em preventiva. A impetrante alega fundamentação inidônea e desproporcionalidade da prisão, além da possibilidade de medidas cautelares diversas. II. Questão em Discussão 2. A questão em discussão consiste na legalidade da conversão da prisão em flagrante em prisão preventiva, considerando a alegação de desproporcionalidade e a possibilidade de aplicação de medidas cautelares diversas. III. Razões de Decidir 3. A prisão preventiva foi decretada com base na necessidade de acautelamento da ordem pública, devido à gravidade concreta da conduta e à quantidade de drogas apreendidas. 4. A decisão do juízo a quo fundamentou-se na presença de indícios suficientes de autoria e materialidade, além da necessidade de garantir a ordem pública e assegurar a aplicação da lei penal. IV. Dispositivo e Tese 5. Ordem denegada. Tese de julgamento: 1. A prisão preventiva é justificada pela gravidade concreta da conduta e pela necessidade de garantir a ordem pública. 2. Condições pessoais favoráveis não são suficientes para revogar a prisão preventiva quando há elementos que recomendam sua manutenção. Legislação Citada: Código de Processo Penal, art. 312, 310, 302. Lei nº 11.343/06, art. 33, 55, 63. Jurisprudência Citada: STJ, AgRg no HC nº 558833, Rel. Min. Joel Ilan Paciornik, j. 23.06.2020. STF, HC 161.960-AgR, Rel. Min. Gilmar Mendes. TJSP, Habeas Corpus Criminal 2237126-95.2025.8.26.0000, Rel. Des. Paulo Rossi, j. 26/08/2025." (fl. 129)
+Nas razões do presente recurso, a defesa sustenta a ilegalidade da conversão da prisão em flagrante em preventiva, por ausência de fundamentação concreta.
+Assevera violação ao princípio da presunção de inocência, destacando que a manutenção da custódia cautelar representa antecipação indevida do cumprimento de pena.
+Argumenta condições pessoais favoráveis do recorrente, com primariedade, bons antecedentes e ocupação lícita comprovada por contrato de trabalho.
+Aduz o preenchimento dos requisitos do art. 33, § 4º, da Lei de Drogas, com incidência do tráfico privilegiado, o que afasta evidencia a desproporcionalidade da prisão cautelar.
+Salienta que a confissão espontânea do paciente não constitui fundamento idôneo para manter a preventiva, tratando-se de circunstância atenuante nos termos do art. 65, III, d, do Código Penal - CP.
+Requer, em liminar e no mérito, a concessão da ordem para que seja revogada a prisão preventiva, com ou sem aplicação de medidas cautelares diversas.
+O pedido liminar foi indeferido (fls. 215/217), as informações foram prestadas (fls. 222/230), e o Ministério Público Federal opinou pela prejudicialidade do recurso (fls. 232/235 ).
+É o relatório.
+Decido.
+O presente recurso está prejudicado.
+De acordo com as informações prestadas pelo Juízo de origem, verificou-se que, em 17/12/2025, nos autos da Ação Penal n. 1512137-96.2025.8.26.0378,  foi concedida liberdade provisória ao recorrente, com a expedição de alvará de soltura (fl. 223).
+Assim, não há como negar a perda superveniente do objeto deste recurso em habeas corpus, tendo em vista ter cessado as circunstâncias determinantes da interposição do reclamo.
+Ante o exposto, com fulcro no art. 34, XI, do Regimento Interno do Superior Tribunal de Justiça, julgo prejudicado o presente recurso em habeas corpus.
+Publique-se.
+Intimem-se.
+ EMENTA
