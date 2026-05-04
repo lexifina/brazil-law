@@ -1,0 +1,15 @@
+DECISÃO
+PABLO KNOFEL SILVA alega sofrer coação ilegal diante de acórdão proferido peo Tribunal de Justiça do Estado de Minas Gerais, nos autos do Habeas Corpus n. 1.0000.26.110311-3/000, que manteve sua prisão preventiva.
+Consta dos autos que o paciente se encontra preso preventivamente pela suposta prática do crime de furto qualificado (art. 155, § 4º, IV, do Código Penal), ao fundamento da gravidade da conduta, da reiteração delitiva, do histórico criminal e da inadequação de medidas cautelares diversas da prisão.
+A defesa sustenta, em síntese: a) ausência de contemporaneidade dos fundamentos da prisão, baseada em antecedentes antigos (2015), sem indicação de risco atual; b) inexistência de execução penal em curso ou reiteração delitiva recente; c) violação ao princípio da isonomia, uma vez que os corréus respondem em liberdade; d) situação familiar excepcional, pois o paciente é responsável por duas crianças menores (uma de 1 ano e outra de 9 anos), além de companheira grávida, em contexto de vulnerabilidade econômica; e e) cabimento de substituição da prisão preventiva por domiciliar, nos termos do art. 318, VI, do Código de Processo Penal, à luz do princípio do melhor interesse da criança.
+Requer a expedição de alvará de soltura ou a fixação de medidas cautelares diversas ou o deferimento de prisão domiciliar.
+Decido.
+Verifico que o habeas corpus está deficientemente instruído.
+O impetrante não juntou cópia da decisão que decretou a prisão preventiva, nem das decisões do Juízo de primeiro grau que eventualmente indeferiram o pedido de revogação da custódia ou de prisão domiciliar. Também não há andamento do processo, o que impede a identificação de sua fase.
+Faltam, ainda, documentos mínimos para a adequada compreensão dos fatos criminosos imputados ao paciente e não há comprovação de que outros envolvidos, em idêntica situação, estejam em liberdade provisória.
+As alegações da defesa não estão comprovadas documentalmente.
+Ação constitucional de natureza mandamental, o habeas corpus tem como escopo precípuo afastar eventual ameaça ao direito de ir e vir, cuja natureza urgente exige prova pré-constituída das alegações, não comportando dilação probatória. É obrigatório ao impetrante, sobretudo quando se tratar de advogado constituído, apresentar dados documentais suficientes para se permitir a aferição da alegada existência de constrangimento ilegal no ato atacado na impetração, iniciativa da qual não se desincumbiu o impetrante.
+Nessa diretriz, destaco o HC n. 555.157/RS, Rel. Ministro Leopoldo de Arruda Raposo (desembargador convocado do TJ/PE), 5ª T., DJe 28/2/2020.
+Ora, é "ônus do impetrante  de  instruir o habeas corpus requerido a esta Corte com cópia do ato coator, além da prova pré-constituída da aventada ilegalidade ou do abuso de poder. A deficiente instrução do writ impede o seu conhecimento" (EDcl no HC n. 783.484/MS, r elator Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), 6ª T., DJe de 17/2/2023, destaquei).
+À vista do exposto, indefiro liminarmente o processamento deste habeas corpus, com fundamento no art. 210 do RISTJ.
+EMENTA
