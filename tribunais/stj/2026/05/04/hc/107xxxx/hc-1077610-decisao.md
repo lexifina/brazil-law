@@ -1,0 +1,45 @@
+DECISÃO
+Trata-se de habeas corpus com pedido liminar impetrado em favor de ANTONIO GABRIEL TARAMELLI contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO na Apelação Criminal n. 0002381-46.2012.8.26.0588.
+Consta dos autos que o paciente foi condenado à pena de 3 anos e 4 meses de reclusão, pela prática do crime previsto no art. 1º, V, parágrafo único, da Lei n. 8.137/1990, em razão de suposta negativa de apresentação de primeiras vias notas fiscais, com recebimento da denúncia em 6/3/2014 e publicação da sentença condenatória em 10/11/2022. O Tribunal de origem negou provimento à apelação defensiva. Houve trânsito em julgado aos 25 de novembro de 2025 (ARESP 2630711 / SP (2024/0164300-0) - fl. 2029). A Defesa pleiteou o reconhecimento da prescrição, o que foi indeferido pelo Juízo de primeira instância.
+Neste writ, a defesa a alega a ocorrência de prescrição, sob o argumento de que se trata de crime formal, não influindo na contagem do prazo eventual suspensão. Pleiteou, em liminar, a suspensão dos efeitos da condenação e, no mérito, o reconhecimento da prescrição com consequente extinção da punibilidade do paciente.
+Pedido liminar indeferido (fls. 55/56).
+Informações prestadas a fls. 62/94.
+O Ministério Público Federal se manifestou pelo não conhecimento do writ (fls. 98/104).
+É o relatório.
+Decido.
+Inicialmente, cumpre registrar que o presente habeas corpus foi impetrado contra acórdão do Tribunal de origem já transitado em julgado. Nesse cenário, não se deve conhecer do presente writ, manejado como substitutivo de revisão criminal, em hipótese em que não se inaugurou a competência desta Corte.
+Nesse sentido:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. HABEAS CORPUS SUBSTITUTIVO DE REVISÃO CRIMINAL. ATO APONTADO COMO COATOR TRANSITADO EM JULGADO. INCOMPETÊNCIA DO STJ. AUSÊNCIA DE FLAGRANTE ILEGALIDADE. DOIS FURTOS EM CONTINUIDADE DELITIVA. REINCIDÊNCIA ESPECÍFICA. MAUS ANTECEDENTES. INSIGNIFICÂNCIA NÃO CONFIGURADA. AGRAVO NÃO PROVIDO.
+1. A competência do STJ para processar e julgar revisão criminal limita-se às hipóteses de seus próprios julgados. A defesa busca, diretamente perante esta Corte Superior, a desconstituição do trânsito em julgado da apelação. Assim, não há como conhecer da impetração, por não ser o STJ o órgão competente para examinar o pleito.
+2. Ademais, não há flagrante ilegalidade na espécie, uma vez que o acórdão combatido atuou em consonância com a jurisprudência desta Corte Superior ao rejeitar a aplicação do princípio da insignificância.
+3. A análise das circunstâncias que permeiam a prática ilícita - dois crimes com mesmo modus operandi, na mesma data -, somada à dupla reincidência específica e aos maus antecedentes do réu, impede, nos termos da jurisprudência desta Corte Superior, o reconhecimento da atipicidade da conduta. Precedentes 4. Agravo não provido.
+(AgRg no HC n. 1.014.903/SP, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 1/10/2025, DJEN de 6/10/2025; grifamos.)
+De qualquer modo, verifica-se que não há, na hipótese, manifesta ilegalidade a reclamar a concessão da ordem de ofício. Tanto que a matéria já foi analisada e rechaçada por esta Corte Superior.
+Acerca da controvérsia, o Tribunal de origem assim fundamentou (fls. 12/25):
+ ..  Tem-se ainda que, em primeiro grau, a carcerária foi fixada em 03 (três) anos e 04 (quatro) meses de reclusão, após o acréscimo realizado pela continuidade delitiva; sem a majoração referida, foi desenhada em 02 (dois) anos e 08 (oito) meses de reclusão, o que atrai lapso prescricional de 08 (oito) anos, nos moldes do artigo 109, inciso IV, do Código Penal.
+Conforme se observa dos autos, a d. defesa do acusado requereu, e o magistrado de origem deferiu, a suspensão da pretensão punitiva estatal e o prazo prescricional, com fulcro no artigo 9º da Lei nº 10.684/03, determinando-se ao réu a apresentação semestral dos recolhimentos efetuados ao fisco (fls. 1.558).
+O acusado deixou de comprovar os pagamentos em lume (fls. 1.660,1.663, 1.666, 1.671, 1.683 e 1.686), e o fisco informou a inexistência de parcelamento (fls. 1621), razão pela qual a suspensão do feito foi revogada (fls. 1.691/1.692).
+Referida suspensão ocorreu entre as datas de 26/02/2016 (fls. 1.158) e 18/05/2022 (fls. 1.691/1.692), oportunidade em que a marcha processual e o prazo prescricional voltaram a caminhar.
+Portanto, em que pese a denúncia ter sido recebida em 06/03/2014 (fls. 1.385) e a publicação da r. sentença ter ocorrido em 11/11/2022 (fls. 1.761), a suspensão determinada e suprarreferida (26/02/2016 à 18/05/2022) enseja a rejeição da prescrição suscitada. ..  (grifamos)
+Por sua vez, compulsando os autos conexos do ARESP 2630711/ SP (2024/0164300-0), verifica-se a defesa arguiu no Agravo Regimental a prescrição pelo pagamento do débito tributário (fls. 1968/2002). A pretensão foi rejeitada nos seguintes termos:
+ ..  Preliminarmente, no tocante à alegação da extinção da punibilidade, observa-se que o recorrente foi condenado como incurso no art. 1º, inciso V e parágrafo único, da Lei n. 8.137/1990, por 04 (quatro) vezes , na forma do art. 71 do Código Penal, c/c art. 12, III, da Lei n. 8.137/1990.
+Nesse contexto, o crime em tela é de mera conduta e o pagamento da penalidade pecuniária não enseja a extinção da punibilidade. ..  (grifamos)
+A defesa, então, opôs embargos de declaração, em que aduziu:
+ ..  se o crime é formal, sendo irrelevante o pagamento ou parcelamento do tributo, o tempo de 8 (oito) anos e 8 (oito) meses que transcorreu entre o recebimento da denúncia, 6/3/2014, e a sentença condenatória, 7/11/2022, implica na extinção da punibilidade pela ocorrência da prescrição pela pena aplicada que, por não superar 4 (quatro) anos, ocorre em 8 (oito) anos, nos termos do §1º do artigo 110 e inciso IV do artigo 109 do CP. ..
+A Sexta Turma desta Corte Superior rechaçou a tese arguida:
+ ..  Nos termos do artigo 619 do Código de Processo Penal, os embargos de declaração constituem instrumento destinado a suprir omissão, obscuridade ou contradição no julgado, não se prestando à rediscussão do mérito nem ao reexame da causa sob perspectiva já repelida no acórdão embargado.
+No caso, o embargante alega a ocorrência de prescrição da pretensão punitiva e aponta omissão quanto à apreciação da matéria.
+Não se verifica, contudo, qualquer omissão a ser sanada. A questão foi expressamente enfrentada pelo Egrégio Tribunal de Justiça do Estado de São Paulo (fls. 1831 e seguintes), que, ao julgar o recurso de apelação, afastou de forma fundamentada a alegação de prescrição, reconhecendo a suspensão da pretensão punitiva com base no artigo 9º da Lei nº 10.684/03.
+Conforme consignado, embora a denúncia tenha sido recebida em 06/03/2014 e a sentença publicada apenas em 11/11/2022, o feito esteve suspenso  a requerimento da própria defesa  entre 26/02/2016 e 18/05/2022. Tal suspensão, devidamente homologada, interrompeu o curso do prazo prescricional, tornando inviável o reconhecimento da extinção da punibilidade. Ressaltou-se, ainda, que a pena aplicada, desconsiderado o aumento decorrente da continuidade delitiva, foi fixada em dois anos e oito meses de reclusão, atraindo, nos termos do artigo 109, IV, do Código Penal, o prazo prescricional de oito anos.
+Além disso, a alegação de prescrição é manifestamente inovadora nesta instância, a despeito de já conhecida pela recorrente desde as instâncias ordinárias. A análise dos autos revela que o tema não foi ventilado no recurso especial, tampouco no agravo em recurso especial ou no agravo regimental subsequente. Trata-se, portanto, de inovação recursal vedada, a ensejar o não conhecimento da matéria nesta via estreita dos aclaratórios.
+A pretensão ora deduzida, além de já afastada nas instâncias inferiores, não comporta reapreciação nesta fase recursal, por ausência de prequestionamento e por violação à lógica recursal.  ..  (grifamos)
+A propósito:
+AGRAVO REGIMENTAL. HABEAS CORPUS. IMPETRAÇÃO SUBSTITUTIVA. QUESTÕES SUSCITADAS NO SEIO DO AGRAVO EM RECURSO ESPECIAL JULGADO POR ESTA CORTE. MANIFESTA ILEGALIDADE. INEXISTÊNCIA. PROCESSAMENTO DO WRIT SUBSTITUTIVO. INVIABILIDADE. RECURSO A QUE SE NEGA PROVIMENTO.
+1. A jurisprudência dos Tribunais Superiores orienta-se no sentido de restringir o manejo do habeas corpus em detrimento do recurso adequado, excepcionando-se, apenas, as situações em que exsurge manifesta ilegalidade na decisão impugnada.
+2. No caso em apreço, no julgamento do AREsp n.º 217.537/PE, em que a defesa suscitou, entre outras, as teses alinhavadas no presente mandamus, esta Corte não vislumbrou ilegalidade patente nos autos apta a ensejar a concessão da ordem de ofício, razão pela qual mostra-se inviável o processamento do writ.
+3. Agravo a que se nega provimento.
+(AgRg no HC n. 296.065/PE, relatora Ministra Maria Thereza de Assis Moura, Sexta Turma, julgado em 27/6/2014, DJe de 4/8/2014.)
+Portanto, observa-se que esta Corte Superior já analisou e rejeitou a matéria arguida, de forma que incabível nova análise.
+Ante o exposto, não c onheço do habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
