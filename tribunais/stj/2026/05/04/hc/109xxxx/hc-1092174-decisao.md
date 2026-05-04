@@ -1,0 +1,29 @@
+DECISÃO
+THIAGO HENRIQUE FERRAZ alega sofrer coação ilegal em decorrência de acórdão do Tribunal de Justiça do Estado de São Paulo na Apelação n. 1501312-12.2025.8.26.0599.
+Consta dos autos que o paciente foi condenado a 6 anos, 1 mês e 15 dias de reclusão mais multa, no regime semiaberto, pela prática dos crimes previstos nos arts. 155, § 3º, e 180, § 1º, ambos do Código Penal.
+A defesa sustenta, em síntese, a nulidade do processo ante a ausência de fundadas razões para a busca domiciliar.
+Requer a absolvição do delito de receptação, em razão da absoluta ausência de justa causa e a impossibilidade de inversão do ônus probatório.
+Defende a aplicação do princípio da insignificância.
+Alega a ausência dos requisitos legais para a decretação da prisão preventiva.
+Decido.
+O writ comporta apreciação imediata, tendo em vista que a questão deduzida nesta impetração encontra solução no entendimento dominante do Superior Tribunal de Justiça.
+Quanto à prisão preventiva, da leitura da decisão de primeiro grau, conclui-se que são idôneas as razões invocadas para decretar a custódia cautelar do acusado. O Magistrado de primeiro grau ressaltou o risco concreto de reiteração delitiva (fl. 62, grifei):
+Note-se que o acusado é reincidente e que se encontra em regime aberto de cumprimento de pena (fls. 45/48), restando preenchido o pressuposto do inciso II do art. 313 do Código de Processo Penal para a decretação da custódia preventiva. Tal situação indica a concreta predisposição do acusado à prática criminosa.
+Conforme visto, foi apontada a necessidade da decretação do encarceramento preventivo em razão do risco concreto de reiteração delitiva, porquanto o paciente possuiu o registro de condenação transitada em julgado e se encontra em cumprimento de pena no regime aberto.
+Conforme o entendimento do STJ, "O risco concreto de reiteração delitiva, demonstrado pela existência de maus antecedentes, reincidência, atos infracionais pretéritos, inquéritos ou ações penais em curso, pode justificar a imposição da prisão preventiva devido à necessidade de se assegurar a ordem pública" (RHC n. 128.993/PI, Rel. Ministra Laurita Vaz, 6ª T., DJe 18/12/2020).
+Dadas as circunstâncias dos fatos, não se mostra adequada e suficiente a substituição da prisão preventiva por medidas a ela alternativas (art. 282, c/c o art. 319, ambos do CPP).
+Nesse sentido: "as circunstâncias que envolvem o fato demonstram que outras medidas previstas no art. 319 do Código de Processo Penal são insuficientes para a consecução do efeito almejado. Ou seja, tendo sido exposta de forma fundamentada e concreta a necessidade da prisão, revela-se incabível sua substituição por outras medidas cautelares mais brandas" (AgRg no HC n. 789.592/SP, Rel. Ministro Reynaldo Soares da Fonseca, 5ª T., DJe 27/2/2023).
+Ressalto que, sob o prisma do entendimento adotado por esta Corte Superior de Justiça acerca da necessidade de manutenção da custódia preventiva em casos como o dos autos, não há razões para o processamento deste habeas corpus, pois a decisão impugnada se conforma com a jurisprudência dominante acerca do tema.
+Em relação às demais teses, o habeas corpus é manifestamente incabível.
+Em consulta ao sistema informatizado, verifico que a impetração de habeas corpus se deu de forma simultânea e concomitante ao manejo de recurso especial interposto na origem.
+Conforme decidido pela Terceira Seção desta Corte no julgamento do HC n. 482.549/SP, de minha relatoria, em caso de interposição do recurso cabível contra o ato impugnado e contemporânea impetração de habeas corpus para igual pretensão, somente será permitido o exame do writ se for este destinado à tutela direta da liberdade de locomoção do acusado ou se traduzir pedido diverso em relação ao que é objeto do recurso próprio e refletir mediatamente na liberdade do paciente.
+Nas demais hipóteses, o habeas corpus não deve ser admitido e o exame das questões idênticas deve ser reservado ao recurso previsto para o caso, ainda que a matéria discutida resvale, por via transversa, na liberdade individual. Confira-se:
+ ..
+1. A existência de um complexo sistema recursal no processo penal brasileiro permite à parte prejudicada por decisão judicial submeter ao órgão colegiado competente a revisão do ato jurisdicional, na forma e no prazo previsto em lei. Eventual manejo de habeas corpus, ação constitucional voltada à proteção da liberdade humana, constitui estratégia defensiva válida, sopesadas as vantagens e também os ônus de tal opção.
+2. A tutela constitucional e legal da liberdade humana justifica algum temperamento aos rigores formais inerentes aos recursos em geral, mas não dispensa a racionalidade no uso dos instrumentos postos à disposição do acusado ao longo da persecução penal, dada a necessidade de também preservar a funcionalidade do sistema de justiça criminal, cujo poder de julgar de maneira organizada, acurada e correta, permeado pelas limitações materiais e humanas dos órgãos de jurisdição, se vê comprometido - em prejuízo da sociedade e dos jurisdicionados em geral - com o concomitante emprego de dois meios de impugnação com igual pretensão.
+3. Sob essa perspectiva, a interposição do recurso cabível contra o ato impugnado e a contemporânea impetração de habeas corpus para igual pretensão somente permitirá o exame do writ se for este destinado à tutela direta da liberdade de locomoção ou se traduzir pedido diverso em relação ao que é objeto do recurso próprio e que reflita mediatamente na liberdade do paciente. Nas demais hipóteses, o habeas corpus não deve ser admitido e o exame das questões idênticas deve ser reservado ao recurso previsto para a hipótese, ainda que a matéria discutida resvale, por via transversa, na liberdade individual.
+ .. .
+(HC n. 482.549/SP, Rel. Ministro Rogerio Schietti, 3ª S., DJe 3/4/2020, grifei.)
+À vista do exposto, indefiro liminarmente o habeas corpus.
+Publique-se e intimem-se.
+EMENTA
