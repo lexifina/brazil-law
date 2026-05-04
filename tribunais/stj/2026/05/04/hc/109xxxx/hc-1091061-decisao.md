@@ -1,0 +1,36 @@
+DECISÃO
+AMILTO DA SILVA KLIMECK alega sofrer constrangimento ilegal no seu direito de locomoção em decorrência de acórdão do Tribunal de Justiça do Estado do Rio Grande do Sul na Apelação n. 5004970-27.2019.8.21.0035.
+Consta dos autos que o réu foi condenado pelo crime de tráfico de drogas.
+Requer a incidência da minorante do tráfico privilegiado, uma vez que a quantidade drogas foi utilizada para exasperar a pena-base e afastar o redutor.
+Decido.
+O habeas corpus comporta apreciação imediata, tendo em vista que a questão deduzida nesta impetração encontra solução no entendimento dominante do Superior Tribunal de Justiça.
+I. Minorante prevista no art. 33, § 4º, da Lei n. 11.343/2006
+Para a aplicação da minorante prevista no § 4º do art. 33 da Lei de Drogas, é exigido, além da primariedade e dos bons antecedentes do acusado, que este não integre organização criminosa nem se dedique a atividades delituosas.
+A propósito, confira-se o seguinte trecho de voto deste Superior Tribunal: "Como é cediço, o legislador ao instituir o referido benefício legal, teve como objetivo conferir tratamento diferenciado aos pequenos e eventuais traficantes, não alcançando, assim, aqueles que fazem do tráfico de entorpecentes um meio de vida." (AgRg no AgRg no AREsp n. 2.458.375/RS, Rel. Ministro Ribeiro Dantas, 5ª T., DJe 13/11/2023).
+No caso, o Tribunal de origem considerou indevida a incidência do referido redutor, com base nos seguintes fundamentos (fl. 49, grifei):
+Na primeira fase, a pena-base foi fixada em 05 (cinco) anos e 10 (dez) meses de reclusão, ou seja, 10 (dez) meses acima do mínimo legal. A magistrada sentenciante valorou negativamente a natureza das substâncias apreendidas (crack e cocaína), em conformidade com o artigo 42 da Lei n.º 11.343/2006. Tal proceder mostra-se escorreito, pois o crack e a cocaína são drogas de elevado poder destrutivo e viciante, justificando maior reprovabilidade da conduta. O aumento de 1/6 sobre a pena mínima mostra-se proporcional e razoável. Mantenho, pois, a pena-base.
+ ..
+Na terceira fase, a sentença afastou a aplicação da causa de diminuição do tráfico privilegiado (art. 33, § 4º, da Lei de Drogas). A decisão se fundamentou na quantidade e variedade de entorpecentes, que indicariam o envolvimento do réu com a atividade criminosa. De fato, embora o apelante seja tecnicamente primário, a posse simultânea de três tipos distintos de drogas (crack, cocaína e maconha), em quantidade expressiva e já preparadas para a comercialização, denota um grau de organização e uma dedicação à traficância incompatíveis com a figura do pequeno e eventual traficante, a quem a lei visa beneficiar. Portanto, correta a não aplicação da minorante.
+Conforme visto, a Corte estadual entendeu indevida a aplicação do redutor em questão, com fundamento, resumidamente, na quantidade de drogas apreendidas.
+Entretanto, faço o registro de que, em sessão realizada no dia 9/6/2021, por ocasião do julgamento do REsp n. 1.887.511/SP (Rel. Ministro João Otávio de Noronha, DJe 1º/7/2021), a Terceira Seção desta Corte Superior de Justiça decidiu que:
+ ..
+7. A utilização concomitante da natureza e da quantidade da droga apreendida na primeira e na terceira fases da dosimetria, nesta última para descaracterizar o tráfico privilegiado ou modular a fração de diminuição de pena, configura bis in idem, expressamente rechaçado no julgamento do Recurso Extraordinário n. 666.334/AM, submetido ao regime de repercussão geral pelo Supremo Tribunal Federal (Tese de Repercussão Geral n. 712).
+8. A utilização supletiva desses elementos para afastamento do tráfico privilegiado somente pode ocorrer quando esse vetor seja conjugado com outras circunstâncias do caso concreto que, unidas, caracterizem a dedicação do agente à atividade criminosa ou à integração a organização criminosa.
+Assim, uma vez que, no caso, a quantidade da droga apreendida foi sopesada na primeira fase para exasperar a pena-base e, na terceira etapa, para levar à conclusão de que o réu seria dedicado a atividades criminosas, de modo que reputo evidenciado o apontado constrangimento ilegal de que estaria sendo vítima.
+Ante a ausência de fundamento suficiente para justificar o afastamento da causa especial de diminuição prevista no § 4º do art. 33 da Lei n. 11.343/2006, deve a ordem ser concedida, a fim de aplicar, em favor do acusado, o referido benefício.
+No que tange ao total de redução de pena, faço lembrar que tanto a Quinta quanto a Sexta Turmas deste Superior Tribunal firmaram o entendimento de que, considerando que o legislador não estabeleceu especificamente os parâmetros para a escolha da fração de redução de pena prevista no § 4º do art. 33 da Lei n. 11.343/2006, devem ser consideradas, para orientar o cálculo da minorante, as circunstâncias judiciais previstas no art. 59 do Código Penal, especialmente o disposto no art. 42 da Lei de Drogas.
+Assim, tendo em vista que a quantidade de substâncias entorpecentes já foi valorada para majorar a pena-base, considero, dentro do livre convencimento motivado, ser adequada e suficiente a redução de pena no patamar máximo de 2/3.
+Apenas por cautela,  friso  que,  especificamente  no  caso  dos  autos,  a  conclusão  pela  possibilidade  de  aplicação  da  referida  minorante  não  demanda  o  revolvimento  de  matéria  fático-probatória,  procedimento  vedado  na  via  estreita  do  habeas  corpus.
+O  caso  em  análise,  diversamente,  requer  apenas  a  revaloração  de  fatos  incontroversos  que  já  estão  delineados  nos  autos  e  das  provas  que  já  foram  devidamente  colhidas  ao  longo  de  toda  a  instrução  probatória,  bem  como  a  discussão,  meramente  jurídica,  acerca  da  interpretação  a  ser  dada  sobre  os  fundamentos  apontados  pelo  Tribunal  de  origem  para  negar  ao  réu  a  incidência  da  causa  especial  de  diminuição  de  pena  prevista  no  §  4º  do  art.  33  da  Lei  n.  11.343/2006.
+II.  Nova  dosimetria
+Considerada a dosimetria realizada pela instância ordinária e aplicada a incidência do art. 33, § 4º, da Lei de Drogas na fração de 2/3, torno a reprimenda definitiva do réu em 1 ano e 8 meses de reclusão e 166 dias-multa.
+III. Prescrição configurada
+A redução da reprimenda reconhecida nesta Corte enseja o reconhecimento de causa extintiva da punibilidade, consistente na prescrição da pretensão punitiva da infração prevista no art. 33, § 4º, da Lei n. 11.343/2006.
+Consoante o disposto no art. 109, V, do CP, o prazo prescricional é de 4 anos, sendo reduzido pela metade por se tratar de réu menor de 21 aos ano tempo do crime, consoante o art. 115 do CP.
+Logo, decorrido o lapso de 2 anos entre o recebimento da denúncia (9/3/2020 - fl. 16) e a publicação da sentença condenatória (2/7/2025 - fl. 26), verifica-se a ocorrência da extinção da punibilidade.
+IV. Dispositivo
+À vista do exposto, concedo habeas corpus, in limine, a fim de reconhecer a incidência da minorante prevista no art. 33, § 4º, da Lei n. 11.343/2006 e, por conseguinte, decreto a extinção da punibilidade pela prescrição da pretensão punitiva em relação ao réu.
+Determino a imediata expedição de alvará de soltura em favor do acusado se por outro motivo não estiver preso.
+Comunique-se, com urgência, o inteiro teor desta decisão às instâncias ordinárias para as providências cabíveis.
+Publique-se e intimem-se.
+EMENTA
