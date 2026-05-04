@@ -1,0 +1,31 @@
+DECISÃO
+Tr ata -se de habeas corpus, com pedido liminar, impetrado em favor de LUIZ FERNANDO VIEIRA GOMES, apontando como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAIS, nos autos da Apelação Criminal n. 1.0216.17.005623-0/001.
+Consta dos autos que o paciente foi condenado a pena de 5 (cinco) anos e 8 (oito) meses de reclusão, em regime inicial semiaberto, e 34 (trinta e quatro) dias-multa, pela imputação dos crimes previstos no art. 171, § 4º (parágrafo quarto), do Código Penal e no art. 1º, caput, § 1º (parágrafo primeiro), incisos I e II, da Lei n. 9.613/1998.
+A defesa alega que toda a persecução penal foi conduzida por Promotor de Justiça que, desde a fase investigatória, nutriria inimizade notória contra o paciente, circunstância. Sustenta que houve violação ao princípio do promotor natural, pois o Procedimento Investigatório Criminal n. 0216.17.000537-7 teria sido instaurado e retido sem submissão à livre distribuição.
+Argumenta, ainda, que a denúncia seria inepta, por empregar narrativa genérica, sem individualização suficiente do nexo causal. Aponta, de igual modo, prevenção indevida do juízo com base em habeas corpus preventivo anterior, estranho aos fatos da ação penal. Ressalta que, nas razões de apelação, também questionou o mérito das imputações, afirmando atipicidade do estelionato por inexistência de vantagem ilícita e por se tratar de suposta fraude dirigida ao Poder Judiciário em razão da incapacidade do interditado, além de defender que a lavagem de capitais imputada representaria mero exaurimento do delito antecedente, bem como impugnou a dosimetria, pleiteando redução da pena-base e o afastamento ou a redução da fração da causa de aumento.
+Requer, liminarmente, a concessão da ordem para suspender imediatamente o julgamento do Agravo em Recurso Especial n. 2918895/MG e, no mérito, requer a declaração de nulidade absoluta da Ação Penal n. 0216.17.005623-0, com a consequente anulação de todos os atos investigatórios e processuais, determinando-se o trancamento da ação penal ou, subsidiariamente, a sua renovação perante Promotor de Justiça isento e imparcial.
+É o relatório.
+Decido.
+É consolidada a jurisprudência deste Superior Tribunal de Justiça no sentido de que a prerrogativa do relator para julgar monocraticamente o habeas corpus e o respectivo recurso não é afastada pelas normas regimentais que preveem a oitiva prévia do Ministério Público Federal (arts. 64, III, e 202 do RISTJ), notadamente quando a matéria se conforma com o entendimento dominante desta Corte (AgRg no HC n. 856.046/SP, de relatoria do Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 24/10/2023, DJe de 30/10/2023).
+O Superior Tribunal de Justiça, considerando a necessidade de racionalização do emprego do remédio heroico, que reiteradamente é impetrado de maneira desvirtuada, alheia aos preceitos constitucionais e legais, entende ser incabível a impetração de habeas corpus substitutivo de recurso próprio, sob pena subversão do sistema recursal e indevida supressão de instância.
+Confira-se:
+AGRAVO REGIMENTAL EM HABEAS CORPUS SUBSTITUTIVO DE RECURSO. TRÁFICO DE DROGAS. PRISÃO PREVENTIVA. FUNDAMENTAÇÃO. CIRCUNSTÂNCIAS CONCRETAS. APREENSÃO DE DROGAS E MATERIAL CARACTERÍSTICO DO TRÁFICO. NECESSIDADE DE RESGUARDAR A ORDEM PÚBLICA. AUSÊNCIA DE CONSTRANGIMENTO ILEGAL. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO.
+1. O habeas corpus não pode ser utilizado como substitutivo de recurso próprio, a fim de que não se desvirtue a finalidade dessa garantia constitucional, com a exceção de quando a ilegalidade apontada é flagrante, hipótese em que se concede a ordem de ofício.
+ .. .
+(AgRg no HC n. 946.588/SC, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 23/10/2024, DJe de 25/10/2024).
+Conforme alegado pela defesa dos impetrantes, contra o acórdão proferido na apelação foi interposto recurso especial, o qual não foi admitido na origem. Na sequência, manejou-se agravo em recurso especial (AREsp n. 2.918.895/MG), que não foi conhecido por esta Corte Superior. Posteriormente, foram interpostos, sucessivamente, agravo regimental  desprovido  e embargos de declaração  pendentes de julgamento perante este Superior Tribunal de Justiça.
+Diante de tal cenário, constata-se a impossibilidade de conhecimento deste mandamus, por violação do princípio da unirrecorribilidade, visto que já interposto o recurso cabível, sob pena de se permitir a utilização do habeas corpus como forma de superar, por via transversa, óbice de admissibilidade a recurso interposto.
+Nesse sentido:
+AGRAVO REGIMENTAL NOS EMBARGOS DE DECLARAÇÃO NO HABEAS CORPUS. PROCESSO PENAL. TRÁFICO DE DROGAS. POSSE IRREGULAR DE MUNIÇÕES. IMPETRAÇÃO DE HABEAS CORPUS DE FORMA CONCOMITANTE COM RECURSO LEGALMENTE PREVISTO. INADMISSIBILIDADE. AGRAVO REGIMENTAL DESPROVIDO.
+1. A jurisprudência desta Corte Superior não admite a tramitação concomitante de recursos legalmente previstos e habeas corpus manejados contra o mesmo ato ou que questionem as mesmas matérias, sob pena de violação do princípio da unirrecorribilidade.
+Precedentes.
+2. Constatada a interposição concomitante de recurso especial, em processamento na instância inferior, e de habeas corpus, este último não pode subsistir.
+3. Agravo regimental desprovido.
+(AgRg nos EDcl no HC n. 1.019.405/MG, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 24/9/2025, DJEN de 29/9/2025.)
+AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS. REVISÃO DA DOSIMETRIA. CONTINUIDADE DELITIVA. MANDAMUS IMPETRADO CONCOMITANTEMENTE COM RECURSO ESPECIAL. VIOLAÇÃO AO PRINCÍPIO DA UNIRRECORRIBILIDADE. AGRAVO DESPROVIDO.
+1. A orientação jurisprudencial deste Tribunal Superior é no sentido de não ser cabível a impetração de habeas corpus concomitantemente com a interposição de recurso próprio contra o mesmo ato judicial, por se tratar de indevida subversão do sistema recursal e de violação do princípio da unirrecorribilidade, considerando-se a acepção de única impugnação a cada prestação jurisdicional.
+2. Agravo regimental desprovido.
+(AgRg no HC n. 921.673/GO, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 16/9/2024, DJe de 18/9/2024).
+Ante o exposto, indefiro liminarmente o habeas corpus.
+Publique-se e intimem-se.
+ EMENTA
