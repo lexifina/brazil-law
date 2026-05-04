@@ -1,0 +1,131 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em favor de JOSE RAFAEL RODRIGUES e ANDRE LUIZ OLIVEIRA DE SOUZA contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO na Apelação Criminal n. 1500877-53.2025.8.26.0594.
+Consta dos autos que os pacientes foram condenados pela prática do crime previsto no art. 155, § 4º, I, II e IV, do Código Penal, sendo imposta a:
+(i) JOSE RAFAEL RODRIGUES a pena de 3 anos de reclusão, em regime inicial fechado; e
+(ii) ANDRE LUIZ OLIVEIRA DE SOUZA a pena de 2 anos, 4 meses e 24 dias de reclusão, em regime aberto, substituída a pena privativa de liberdade por penas restritivas de direitos.
+O Tribunal a quo negou provimento à apelação defensiva.
+Neste writ, a impetrante aduz, em síntese, ilegalidade da dosimetria, "ao manter a majoração da pena-base dos sentenciados utilizando as qualificadoras do furto como circunstância judicial negativa" (fl. 3).
+Alega que os antecedentes de ANDRE DE SOUZA foram negativados por processo em andamento e os maus antecedentes de JOSE RODRIGUES teria sido atingidos pelo período depurador.
+Sustenta que a exasperação da pena-base em 1/5 foi desproporcional e que não seria cabível a agravante referente a idade da vítima, tendo em vista que o furto de bens materiais ocorreu em imóvel vazio sem contato com a vítima idosa.
+Por fim, impugna a fixação do regime fechado para JOSÉ RODRIGUES.
+Informações prestadas a fls. 111/144.
+O Ministério Público Federal se manifestou pelo não conhecimento do writ (fls. 146/151).
+É o relatório.
+Decido.
+Esta Corte e o Supremo Tribunal Federal pacificaram o entendimento de que não cabe habeas corpus como substitutivo do recurso legalmente previsto para a hipótese, impondo-se o não conhecimento da impetração, salvo quando constatada a existência de flagrante ilegalidade no ato judicial impugnado (STJ, HC n. 535.063/SP, Terceira Seção, Relator Ministro Sebastião Reis Junior, julgado em 10/6/2020, DJe de 25/8/2020; STF, AgRg no HC n. 180.365/PB, Primeira Turma, Relatora Ministra Rosa Weber, julgado em 27/3/2020, DJe de 2/4/2020; e AgRg no HC n. 147.210/SP, Segunda Turma, Relator Ministro Edson Fachin, julgado em 30/10/2018, DJe de 20/2/2020).
+Assim, passo à análise das razões da impetração, de forma a verificar a ocorrência de flagrante ilegalidade a justificar a concessão do habeas corpus, de ofício.
+Ao julgador é atribuída certa discricionariedade para, à vista das circunstâncias do caso concreto, fixar a pena e o seu modo de cumprimento. Tal liberdade - por certo regrada no âmbito de Estado Democrático de Direito - visa assegurar a razoabilidade da sanção penal, de maneira a atender às finalidades axiológicas da resposta penal, seja no caráter geral preventivo, seja na perspectiva especial retributiva e ressocializadora.
+Não obstante, evidenciado equívoco patente das instâncias ordinárias na concretização da reprimenda, está legitimado o exercício excepcional da jurisdição desta Corte Superior para a adequação da pena à legislação nacional.
+No caso, os paciente foram condenados pela prática do art. 155, § 4º, I, II e IV do Código Penal, que dispõe:
+Art. 155 - Subtrair, para si ou para outrem, coisa alheia móvel:
+ ..
+Furto qualificado
+§ 4º - A pena é de reclusão de dois a oito anos, e multa, se o crime é cometido:
+I - com destruição ou rompimento de obstáculo à subtração da coisa;
+II - com abuso de confiança, ou mediante fraude, escalada ou destreza;
+ ..
+IV - mediante concurso de duas ou mais pessoas.
+ ..
+A sentença realizou a seguinte dosimetria (fls. 62/72):
+ ..  Em relação ao réu André Luiz Oliveira de Souza:
+Ele não ostenta antecedentes criminais (fls. 67/69).
+Na primeira fase de aplicação da reprimenda, analisadas as diretrizes do artigo 59 do Código Penal, verifica-se, conforme fundamentado, a existência de três qualificadoras.
+Uma das circunstâncias se presta a tornar o crime qualificado.
+As outras duas se prestam a servir como circunstâncias judiciais desfavoráveis, em atenção a jurisprudência consolidada sobre o tema:
+ ..  Para além disso, observa-se que, embora não ostente maus antecedentes, o acusado praticou o delito em comento somente três dias após sua soltura nos autos 1500712-06.2025 (fls. 51 e 67 10/06/2025), pelo qual responde por furto qualificado.
+No mesmo sentido, colaciona-se o seguinte trecho da Apelação Criminal 1508048-88.2022.8.26.0037 (TJSP; Relator (a): Paiva Coutinho; Órgão Julgador: 11ª Câmara de Direito Criminal; Foro de Araraquara - 3ª Vara Criminal; Data do Julgamento: 24/06/2024; Data de Registro: 24/06/2024):  ..
+Assim, a pena-base deve ser fixada em um quinto acima do mínimo legal, ou seja, 2 (dois) anos, 4 (quatro) meses e 24 (vinte e quatro) dias de reclusão, e 12 (doze) dias-multa.
+Na segunda fase, está presente a agravante de ter sido o crime praticado contra maior de sessenta anos (fls. 40), sendo relevante destacar a jurisprudência nesse sentido:
+ ..
+Ante a compensação entre a aludida agravante e a atenuante da confissão, a pena deve permanecer como anteriormente dosada.
+Inexistentes outras modificadoras, torna-se definitiva a pena de 2 (dois) anos, 4 (quatro) meses e 24 (vinte e quatro) dias de reclusão, e 12 (doze) dias-multa.
+Fixa-se o regime aberto para início do cumprimento de pena.
+O valor do dia-multa será calculado no patamar mínimo legal.
+Presentes os requisitos do artigo 44 do Código Penal, substitui-se a pena privativa de liberdade por duas penas restritivas de direitos, umja na modalidade de prestação de serviços à comunidade, pelo tempo da pena aplicada, e também na modalidade limitação de fim de semana, consistente em comparecimento semanal do réu, pelo período da pena substituída, ao Centro de Atendimento Psicossocial a Usuários de Álcool e outras Drogas CAPS, local em que são ministrados cursos, palestras e atividades educativas, a serem especificadas pelo Juízo da Execução.
+Em relação ao réu José Rafael Rodrigues:
+Na primeira fase da dosimetria, verifica-se que o réu ostenta condenação criminal nos autos 0005537-73.2011 artigo 155, § 4º, I, CP fls. 79 que, embora com trânsito em julgado em 28/03/2014, afigura-se relevante, uma vez que tal condenação ocorreu por furto qualificado. Assim, deve ser considerada para a exasperação da pena basilar.
+No mais, assim como para o réu André, a qualificadora dos incisos I e IV do § 4º do artigo 155 do Código Penal serão empregadas como circunstâncias judiciais desfavoráveis, de modo que se fixa a pena-base em um quinto acima do mínimo legal, ou seja, 2 (dois) anos, 4 (quatro) meses e 24 (vinte e quatro) dias de reclusão, e 12 (doze) dias- multa.
+Na segunda fase, presentes as agravantes da reincidência (0000267-61.2017 artigo 155, § 4º, inciso II, CP fls. 76/77; 0000480-67.2017 artigo 155, caput, CP fls. 77; 0000960-55.2011 artigo 157, § 3º, CP fls. 78/79) e a prevista no artigo 61, inciso II, "h", do Código Penal.
+Contudo, a confissão é utilizada para compensar parcialmente as agravantes, a resultar em elevação da sanção no patamar de um quarto, ou 3 (três) anos de reclusão e 15 (quinze) dias-multa.
+Na terceira fase, ausentes causas de aumento ou de diminuição, torna-se definitiva a pena anteriormente dosada.
+Fixa-se o regime fechado para início do cumprimento de pena, ante o quantum de pena aplicado, a reincidência e as circunstâncias judiciais desfavoráveis (CP, artigo 33, § 2º, "c" e § 3º e Súmula 269 do STJ).
+O valor do dia-multa será calculado no piso mínimo.
+Incabível a substituição da pena privativa de liberdade por restritiva de direitos e a suspensão condicional da pena em vista da vedação legal (CP, artigo 44 e artigo 77).  ..  (grifamos)
+Acerca da controvérsia, o Tribunal a quo fundamentou (fls. 90/105):
+ ..  Não prospera a tese defensiva de que as qualificadoras do furto não poderiam ser utilizadas para exasperar a pena-base dos apelantes.
+Com efeito, é pacífico o entendimento de que as qualificadoras excedentes - isto é, aquelas não utilizadas para compor o tipo penal qualificado - podem lastrear a valoração negativa das circunstâncias judiciais, na primeira fase da dosimetria.
+Trata-se de aplicação direta do art. 59 do Código Penal, sem configurar bis in idem, pois apenas uma qualificadora estrutura o tipo penal qualificado, enquanto as demais, sobrantes, refletem maior reprovabilidade do fato, evidenciada pelo modus operandi especialmente gravoso.
+ ..
+No tocante ao réu André, igualmente correta a valoração negativa da culpabilidade.
+O delito foi praticado três dias após a concessão de liberdade provisória em outro processo por furto, circunstância que evidencia maior grau de reprovabilidade, descaso com a ordem jurídica e propensão à reiteração delitiva, justificando a exasperação da pena-base.
+A d. PGJ, em seu prestimoso parecer (fls. 344/345), bem destacou que tal circunstância, devidamente comprovada nos autos (fls. 51 e 67), não foi utilizada como maus antecedentes, o que seria vedado pela Súmula 444 do STJ, mas sim como elemento revelador da intensidade do dolo e do desvalor da conduta.
+ ..
+Assim, considerando-se as qualificadoras excedentes e a reiteração delitiva imediata, a exasperação da pena-base em 1/5 mostra-se adequada, razoável e proporcional.
+Quanto ao réu José Rafael, igualmente não procede a tese referente ao período depurador.
+O entendimento consolidado do STJ é no sentido de que condenações antigas, ainda que já ultrapassado o período depurador da reincidência, podem caracterizar maus antecedentes: ..
+A condenação anterior do réu, alcançada pelo período depurador de 5 anos, previsto no art. 64, I, do Código Penal, pode ser considerada como mau antecedente (HC n. 461.528/SP, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 4/10/2018, D Je de 19/10/2018.)
+A fração de 1/5 aplicada decorre tanto dos maus antecedentes quanto das qualificadoras excedentes, não havendo desproporcionalidade.
+No que toca à compensação entre reincidência e confissão, esta foi parcial, considerando que o réu é multirreincidente e que incide, ainda, a agravante objetiva do art. 61, II, "h", do CP, já que a vítima contava com 87 anos (fl. 40).
+A agravante é de natureza objetiva e incide independentemente do conhecimento prévio do agente:
+(..) deve incidir sempre que a vítima se enquadrar em alguma categoria prevista na referida agravante - criança, idoso, enfermo ou gestante -, independentemente do conhecimento dessa circunstância pelo réu (AgRg no R Esp n. 2.095.884/PR, relator Ministro Rogerio Schietti Cruz, Sexta Turma, j. 12/12/2023).
+Por fim, quanto ao regime inicial fechado aplicado ao réu José, consideradas a reincidência, os maus antecedentes e a maior reprovabilidade da conduta (arrombamento, escalada e concurso de agentes), o regime fechado está em perfeita consonância com o art. 33, §§ 2º e 3º, do Código Penal.
+ ..
+Superadas todas as teses defensivas, mantém-se a dosimetria tal como fixada em primeiro grau, cujos fundamentos transcrevo:
+ ..
+Consigno, por oportuno, que o Julgador não está obrigado a responder todas as questões das partes, quando já tenha encontrado motivo suficiente para fundar a decisão, nem se obriga a ater-se aos fundamentos indicados por elas e tampouco a responder um a um todos os seus argumentos.
+O Colendo Superior Tribunal de Justiça também já se pronunciou sobre a desnecessidade da menção expressa aos textos de lei em que se baseia o acórdão, mediante sua Corte Especial, no sentido de que a violação a determinada norma legal ou dissídio sobre sua interpretação, não requer, necessariamente, que tal dispositivo tenha sido expressamente mencionado no v. acórdão do Tribunal de origem. Cuida-se do chamado prequestionamento implícito (R Esp nºs 81.682/PE, 144.844/RS e 155.321/SP).
+Assim, considera-se prequestionada toda matéria infraconstitucional e constitucional, uma vez que, em se tratando de prequestionamento, é desnecessária a citação numérica de dispositivos legais que a decisão tenha se fundado, bastando, portanto, que a questão posta tenha sido decidida fundamentadamente, tal como realizado.
+Diante do exposto, NEGO PROVIMENTO ao recurso defensivo e mantenho irretocada a r. sentença de primeiro grau.  ..  (grifamos)
+Dos excertos transcritos verifica-se a existência de três qualificadoras, sendo a pena de 2 a 8 anos. A pena-base dos pacientes foi exasperada em 1/5 acima do mínimo legal. Considerando a existência de duas qualificadoras sobejantes, não se revela qualquer ilegalidade na dosimetria realizada, na medida em que aplicado o critério padrão de 1/6 para cada circunstância judicial negativa, a pena resultaria maior do que a fixada.
+Cumpre observar que  a  qualificadora sobejante do furto pode ser utilizada como circunstância judicial desfavorável na primeira fase da dosimetria, sem configuração de ne bis in idem. (AgRg no REsp n. 2.248.280/SP, relator Ministro Messod Azulay Neto, Quinta Turma, julgado em 25/3/2026, DJEN de 8/4/2026.).
+Na mesma linha:
+PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. FURTO QUALIFICADO. DOSIMETRIA DA PENA. PENA-BASE. EXASPERAÇÃO MOTIVADA. REGIME PRISIONAL MAIS GRAVOSO.
+1. Revela-se justificada a exasperação da pena-base em razão da existência de maus antecedentes e de uma qualificadora sobejante utilizada na primeira fase.
+2. Fixada a pena-base acima do mínimo legal, e tendo em vista a existência de maus antecedentes, o estabelecimento do regime mais gravoso não se mostra inadequado.
+3. Agravo regimental desprovido.
+(AgRg no AREsp n. 2.430.722/SP, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 30/11/2023, DJe de 5/12/2023.)
+Ademais, a valoração negativa da culpabilidade pela prática do crime durante liberdade provisória se revela idônea. Nesse sentido:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. PENAL. TRÁFICO INTERESTADUAL DE DROGAS. APLICAÇÃO DA PENA. PENA-BASE ACIMA DO MÍNIMO LEGAL. MOTIVAÇÃO VÁLIDA. AUSÊNCIA DE DESPROPORCIONALIDADE. CAUSA ESPECIAL DE DIMINUIÇÃO DE PENA PREVISTA NO § 4.º DO ART. 33 DA LEI N. 11.343/2006. REQUISITOS NÃO PREENCHIDOS. RÉU POSSUIDOR DE MAUS ANTECEDENTES. AGRAVO DESPROVIDO.
+1. Excetuados os casos de patente ilegalidade ou abuso de poder, é vedado, na via do habeas corpus, o amplo reexame das circunstâncias judiciais consideradas para a individualização da sanção penal, por demandar a análise de matéria fático-probatória.
+2. Como é sabido, o julgador deve, ao individualizar a pena, examinar com acuidade os elementos que dizem respeito ao fato, obedecidos e sopesados todos os critérios estabelecidos no art. 59 do Código Penal, para aplicar, de forma justa e fundamentada, a reprimenda que seja, proporcionalmente, necessária e suficiente para reprovação do crime. Especialmente quando considerar desfavoráveis as circunstâncias judiciais, deve o magistrado declinar, motivadamente, as suas razões, pois a inobservância dessa regra ofende o preceito contido no art. 93, inciso IX, da Constituição da República.
+3. Quanto à culpabilidade do agente, a Jurisdição ordinária ressaltou que o Acusado teria praticado o delito em comento imediatamente após ser colocado em liberdade, tendo realizado inúmeras viagens para o tráfico de drogas. Assim, foi apresentada fundamentação idônea para a negativação da referida circunstância judicial, por extrapolar a abrangência do tipo penal. Precedente.
+4. O acréscimo operado na primeira fase de aplicação da pena, em razão da quantidade de droga apreendida, atende ao disposto no art. 42 da Lei n. 11.343/2006. Precedentes.
+5. Hipótese em que o aumento efetivado na primeira fase da dosimetria do crime de tráfico de drogas - pena-base fixada no dobro do mínimo legal - revela-se proporcional e fundamentado, considerando-se a motivação apresentada, bem como a presença de três circunstâncias desfavoráveis (maus antecedentes, culpabilidade do agente e quantidade de droga apreendida). Precedentes.
+6. Segundo a orientação deste Superior Tribunal, " m ostra-se inviável a aplicação da causa especial de diminuição de pena descrita no art. 33, § 4º, da Lei n. 11.343/2006 aos acusados possuidores de maus antecedentes, ainda que a condenação anterior não seja por crime da mesma espécie" (AgRg no HC 686.425/SP, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 24/08/2021, DJe 31/08/2021).
+7. Agravo regimental desprovido.
+(AgRg no HC n. 642.023/SP, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 18/10/2022, DJe de 24/10/2022.)
+AGRAVO EM RECURSO ESPECIAL. TRÁFICO DE DROGAS. INGRESSO IRREGULAR NO DOMICILIO. PRESENÇA DE FUNDADAS RAZÕES. ART. 33, § 4º DA LEI N. 11.343/2006. SÚMULA N. 211 DO STJ. PENA-BASE ACIMA DO MÍNIMO LEGAL. POSSIBILIDADE. CULPABILIDADE. RÉU EM LIBERDADE PROVISÓRIA DURANTE O COMETIMENTO DO DELITO. MAUS ANTECEDENTES. AÇÕES DISTINTAS DAS SOPESADAS PARA FINS DE REINCIDÊNCIA. FUNDAMENTO VÁLIDO. AGRAVO CONHECIDO PARA NEGAR PROVIMENTO AO RECURSO ESPECIAL.
+1. O Superior Tribunal de Justiça compreende que é possível o ingresso de policiais em domicílio, mesmo sem mandado judicial ou consentimento do morador, caso haja fundadas razões da ocorrência da prática de crime no local, à luz do artigo 240 do Código de Processo Penal. No caso concreto, Após abordarem Jewer na posse da droga e ele ter declarado aos policiais que acabara de comprar o entorpecente do ora recorrente, a polícia realizou a diligência e encontrou no domicílio de Victor Hugo 82,70g (oitenta e duas gramas e setenta decigramas) de cocaína, 01 (uma) balança de precisão e 01 (um) rolo de papel filme, não havendo que se falar em ausência de justa causa para a busca domiciliar.
+3. O conteúdo do art. 33, § 4º da Lei n. 11.343/2006 não foi objeto de debate pelo acórdão estadual. Incidência da Súmula n. 211 do STJ.
+4. A prática de novo crime durante o período de liberdade provisória concedida em outro processo justifica a elevação da pena-base, diante do menosprezo do réu à ordem jurídica e às decisões judiciais.
+5. A teor da Súmula 241 do STJ, a utilização de condenações anteriores transitadas em julgado como fundamento para a fixação da pena-base acima do mínimo legal, diante da valoração negativa dos maus antecedentes e, ainda, para exasperar a pena, em razão da agravante da reincidência, não caracteriza bis in idem, desde que as sopesadas na primeira fase sejam distintas da valorada na segunda 6. Agravo conhecido para negar provimento ao recurso especial.
+(AREsp n. 2.845.939/MS, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 20/3/2025, DJEN de 26/3/2025.)
+No mais, cumpre sublinhar que o Tribunal da Cidadania encampou o entendimento assentado pela Suprema Corte, ao interpretar os arts. 59, caput, e 64, I, ambos do CP, no bojo do RE n. 593.818/SC e do RE n. 1.254.144/SP (Tema n. 150/STF).
+No ponto, ambas as Cortes têm preconizado que condenações definitivas atingidas pelo período depurador quinquenal, conquanto inaptas a gerar os efeitos da reincidência (sistema da temporariedade), não obstam a configuração dos "maus antecedentes" (sistema da perenidade), mas desde que sopesados - pelo prisma da proporcionalidade e adequação - eventual longevidade desarrazoada destas (superior ao lapso de "dez" anos, entre a extinção da punibilidade destas e a data do novo crime) e ausência de pertinência temática/gravidade com o crime objeto da lide (RE n. 593.818/SC, Rel. Min. Roberto Barroso, Tribunal Pleno - Sessão Virtual, julgado em 18/8/2020).
+Mais recentemente, o Pretório Excelso - ao ratificar a tese perfilhada no Tema n. 150/STF - consignou:
+ n ão se aplica ao reconhecimento dos maus antecedentes o prazo quinquenal de prescrição da reincidência, previsto no art. 64, I, do Código Penal, podendo o julgador, fundamentada e eventualmente, não promover qualquer incremento da pena-base em razões de condenações pretéritas, quando as considerar desimportantes, ou demasiadamente distanciadas no tempo e, portanto, não necessárias à prevenção e repressão do crime, nos termos do comando do art. 59 do Código Penal (RE n. 1.254.144/SP, AgR-EDv, Rel. Min. Alexandre de Moraes, Tribunal Pleno - Sessão Virtual de 14/04/2023 a 24.04.2023, grifamos).
+Em reforço, a Suprema Corte, ao enfrentar tal questão de fundo (Tema n. 786/STF), já sufragou:
+ é  incompatível com a Constituição a ideia de um direito ao esquecimento, assim entendido como o poder de obstar, em razão da passagem do tempo, a divulgação de fatos ou dados verídicos e licitamente obtidos e publicados (STF, RE n. 1.010.606/RJ, Tribunal Pleno - Sessão Virtual, julgado em 11/2/2021, grifamos).
+Destarte, em arrefecimento ao subjacente sistema da "perpetuidade", esta Corte de Promoção Social tem propalado:
+ a  avaliação dos antecedentes deve ser feita com observância aos princípios da proporcionalidade e da razoabilidade, levando-se em consideração o lapso temporal transcorrido entre extinção da pena anteriormente imposta e a prática do novo delito, qual seja mais de 10 anos (AgRg no AREsp n. 2.379.392/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 8/8/2023, DJe de 14/8/2023, grifamos).
+No mesmo flanco:
+ c ondenações pretéritas cuja extinção da pena tenha ocorrido mais de 10 anos anteriormente à prática do delito superveniente não podem ser utilizadas para fins de valoração negativa dos maus antecedentes (AgRg no HC n. 883.914/MG, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 20/5/2024, DJe de 23/5/2024, grifamos).
+As condenações atingidas pelo período depurador previsto no art. 64, I, do Código Penal, embora não caracterizem mais reincidência, podem ser sopesadas a título de maus antecedentes, ressalvada casuística constatação do decurso de considerável lapso temporal, que não se aplica ao presente caso (AgRg no AREsp n. 2.483.180/SP, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 19/3/2024, DJe de 2/4/2024, grifamos).
+Este Tribunal Superior consignou que condenações criminais pretéritas com mais de cinco anos de extinção das respectivas penas, conquanto não tenham o condão de gerar reincidência, podem ser sopesadas na primeira fase da dosimetria, a título de maus antecedentes, encontrando-se o acórdão recorrido em consonância com o entendimento firmado pela Suprema Corte, sob a sistemática da repercussão geral, (AgRg no RE no AgRg no AREsp n. 1.704.615/SP, relator Ministro Og Fernandes, Corte Especial, julgado em 24/10/2023 DJe de 26/10/2023) (AgRg no AREsp n. 2.448.705/SC, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 14/5/2024, DJe de 20/5/2024, grifamos).
+O tempo transcorrido após o cumprimento ou a extinção da pena não impede a análise desfavorável dos antecedentes, tendo em vista a adoção pelo Código Penal do sistema da perpetuidade, ao contrário do que se verifica na reincidência (CP, art. 64, I), pois o legislador não limitou temporalmente a configuração dos maus antecedentes ao período depurador quinquenal (AgRg no HC n. 921.416/SP, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 2/9/2024, DJe de 6/9/2024, grifamos).
+Acerca da controvérsia, o Tribunal de origem manteve a valoração negativa dos maus antecedentes de condenação transitada em julgado em 28/03/2014, por entender relevante.
+Deflui-se que o aresto fustigado se encontra em consonância com o entendimento trilhado por esta Corte de Uniformização, nos termos supraditos.
+Nesse esquadro, dessume-se, do caso em tela, que a Defesa não demonstrou o transcurso do lapso de 10 (dez) anos entre a extinção da punibilidade do delito anterior e a data do novo delito, perfectibilizado em 13/06/2025. Ademais, ainda que superado o período de dez anos, observa-se que as instâncias de origem consideraram a pertinência temática para manutenção da valoração negativa. A ssim, não prospera a tese defensiva de neutralização do vetor.
+Além disso,  s egundo a jurisprudência desta Corte Superior, a circunstância legal prevista no art. 61, II, "h", do CP é de natureza objetiva e deve incidir sempre que a vítima se enquadrar em alguma categoria prevista na referida agravante - criança, idoso, enfermo ou gestante -, independentemente do conhecimento dessa circunstância pelo réu (AgRg no REsp n. 2.095.884/PR, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 12/12/2023, DJe de 20/12/2023). (AgRg no AREsp n. 3.106.741/RN, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 14/4/2026, DJEN de 23/4/2026.)
+Com relação à JOSÉ RODRIGUES, diante das circunstâncias negativas e da reincidência, não se verifica qualquer mácula na fixação do regime inicial fechado. Destaca-se:
+DIREITO PENAL E PROCESSUAL PENAL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. FURTO QUALIFICADO. PLEITO ABSOLUTÓRIO. REEXAME FÁTICO-PROBATÓRIO. DOSIMETRIA. CONSEQUÊNCIAS DO CRIME. PREJUÍZO ELEVADO. POSSIBILIDADE. REGIME INICIAL FECHADO. MANTIDO. AGRAVO REGIMENTAL DESPROVIDO.
+1. O Tribunal local, após densa instrução probatória, firmou convicção na comprovação incontroversa tanto da autoria e materialidade delitivas quanto do elemento subjetivo do crime pelo qual o recorrente foi condenado.
+2. Eventual reforma do pronunciamento originário, acerca da autoria e materialidade delitivas, demandaria o reexame do conjunto fático-probatório dos autos, medida vedada pela Súmula n. 7/STJ.
+3. É possível a negativação do vetor relativo às consequências do crime, no delito de furto, quando a vítima experimenta, em decorrência da ação delitiva, elevado prejuízo financeiro, sem que isso caracterize bis in idem.
+4. Segundo a orientação desta Corte, a reincidência e a existência de circunstâncias judiciais desfavoráveis podem justificar a fixação do regime inicial fechado para o cumprimento da pena, ainda que a reprimenda seja inferior a 4 anos, ante a necessidade de maior censura à conduta.
+5. Na espécie, constata-se que o recorrente é multirreincidente específico e que foram reconhecidas, em seu desfavor, quatro circunstâncias judiciais negativas - antecedentes, conduta social, circunstâncias e consequências do crime -, de modo que, tendo em vista o quantum da pena (3 anos e 6 meses de reclusão), é possível, desde o início, a imposição do regime fechado, na forma do art. 33, § 2º, c, e § 3º, do Código Penal.
+6. Agravo regimental desprovido.
+(AgRg no REsp n. 2.254.480/PR, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 18/3/2026, DJEN de 24/3/2026.)
+Ante o exposto, não conheço do habeas corpus.
+Publi que-se. Intimem-se.
+EMENTA
