@@ -1,0 +1,37 @@
+DECISÃO
+Cuida-se de recurso especial interposto por ROSANI MARIA COPPETTI, fundamentado na alínea "a" do permissivo constitucional, no intuito de reformar acórdão proferido pelo Tribunal de Justiça do Estado do Rio Grande do Sul, assim ementado (fl. 141, e-STJ):
+APELAÇÃO CÍVEL. HONORÁRIOS DE PROFISSIONAIS LIBERAIS. AÇÃO DE ARBITRAMENTO E COBRANÇA DE HONORÁRIOS ADVOCATÍCIOS. CLÁUSULA DE ÊXITO. PRESCRIÇÃO. AFASTAMENTO. RECURSO PARCIALMENTE PROVIDO.
+I. CASO EM EXAME: Ação de arbitramento cumulada com cobrança de honorários proposta por advogado contra ex-cliente, em razão de contrato de prestação de serviços advocatícios  rmado com cláusula de êxito, referente a demanda ajuizada contra o Estado do Rio Grande do Sul. A sentença extinguiu o processo com resolução de mérito, reconhecendo a prescrição quinquenal da pretensão.
+II. QUESTÃO EM DISCUSSÃO : I. De nir o termo inicial da prescrição para a cobrança de honorários contratuais pactuados sob cláusula de êxito; II. Examinar o cabimento e o percentual devido a título de honorários pela atuação parcial do profissional após a revogação do mandato.
+III. RAZÕES DE DECIDIR: Conforme entendimento consolidado do Superior Tribunal de Justiça (STJ), em contratos de prestação de serviços advocatícios com cláusula de êxito, o prazo prescricional inicia- se com a implementação da condição suspensiva contratada. No caso concreto, o alvará foi expedido à ex-cliente em 10/01/2019, enquanto a presente demanda foi ajuizada em 01/08/2023, dentro do quinquênio legal. Considerando-se que o advogado atuou integralmente na fase de conhecimento e em parte da execução, restou caracterizado o direito à contraprestação pelos serviços prestados, apesar da revogação do mandato. O arbitramento  xado em 15% sobre o proveito econômico é adequado às peculiaridades do caso e ao princípio do pacta sunt servanda. Sobre o valor arbitrado, aplicam-se juros legais com base na taxa Selic e correção monetária pelo IPCA, conforme a nova redação dos arts. 389 e 406 do Código Civil, pela Lei nº 14.905/2024.
+IV. Jurisprudência e leis relevantes citadas: STJ, REsp 2004768/RS, Rel. Min. Marco Aurélio Bellizze, j. 20/06/2022 ; CC/2002, arts. 389, 406; Lei nº 8.906/1994, art. 25, I.
+Nas razões de recurso especial (fls. 145-154, e-STJ), aponta a parte recorrente ofensa aos seguintes dispositivos: art. 206, § 5º, II, do Código Civil; art. 25 da Lei nº 8.906/1994.
+Sustenta, em síntese, a prescrição quinquenal da pretensão de cobrança de honorários, pois o termo inicial deve ser fixado na suspensão dos poderes do advogado em 26/02/2014 ou, alternativamente, no trânsito em julgado da ação originária em 24/01/2017, uma vez que a cláusula de êxito não desloca o termo inicial para a data do levantamento do alvará. Além disso, a fixação do termo inicial na percepção dos valores pelo cliente permitiria ao causídico se valer da própria torpeza (venire contra factum proprium).
+Contrarrazões apresentadas às fls. 156-193, e-STJ.
+Em juízo de admissibilidade (fls. 194-198, e-STJ), admitiu-se o recurso, ascendendo os autos a esta Corte.
+É o relatório.
+Decido.
+1. A parte insurgente afirma que a prescrição quinquenal da pretensão de cobrança de honorários, pois o termo inicial deve ser fixado na suspensão dos poderes do advogado em 26/02/2014 ou, alternativamente, no trânsito em julgado da ação originária em 24/01/2017, uma vez que a cláusula de êxito não desloca o termo inicial para a data do levantamento do alvará. Além disso, a fixação do termo inicial na percepção dos valores pelo cliente permitiria ao causídico se valer da própria torpeza (venire contra factum proprium).
+No particular, a Corte local fixou o termo inicial da prescrição na implementação da condição suspensiva contratada (contrato com cláusula de êxito), na data do recebimento dos valores pelo cliente.
+Consta do acórdão recorrido (fls. 135-140, e-STJ):
+In casu, trata-se de ação de cobrança cumulada com arbitramento de honorários proposta por Maurício Dal Agnol em face de Rosani Maria Coppetti, buscando a satisfação de honorários contratuais, decorrente de sua atuação em processo ajuizado contra o Estado do Rio Grande do Sul (processo nº 001/1.07.0169740-0).
+A questão controvertida, agora, diz respeito ao termo inicial do prazo prescricional quinquenal para a propositura da ação.
+ ..
+O cerne da questão está no fato que, independentemente da revogação dos poderes outorgados ao procurador, havendo uma condição suspensiva preestabelecida no contrato para o pagamento dos honorários, o prazo prescricional também deve ficar suspenso.
+ ..
+No caso concreto, o valor devido por Estado do Rio Grande do Sul foi pago por meio de alvará expedido em 10/01/2019, conforme documento juntado no evento 1, CONHON4, enquanto a presente ação foi ajuizada em 01/08/2023, dentro do quinquênio legal.
+A decisão impugnada está em consonância com a jurisprudência desta Casa, segundo a qual "no caso dos honorários contratuais, se tal verba for pactuada com amparo em cláusula de êxito, a cobrança só é possível, mesmo no caso de revogação do mandato no curso da demanda, após a implementação da condição suspensiva" (AgInt no REsp n. 1.715.128/RS, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 23/3/2020, DJe de 30/3/2020).
+No mesmo sentido:
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. AÇÃO DE ARBITRAMENTO DE HONORÁRIOS ADVOCATÍCIOS. CESSAÇÃO DO MANDATO. PRESCRIÇÃO. CLÁUSULA DE ÊXITO. TERMO INICIAL. TRÂNSITO EM JULGADO DA SENTENÇA.
+1. Ação de arbitramento de honorários advocatícios.
+2. De acordo com a jurisprudência desta Corte, a existência de cláusula quota litis em contrato de prestação de serviços advocatícios faz postergar o início da prescrição até o momento da implementação da condição suspensiva, o que ocorre com o trânsito em julgado da sentença, momento a partir do qual o procurador poderá exigir os respectivos honorários contratuais. Precedentes.
+3. Agravo interno não provido. (AgInt nos EDcl no REsp n. 2.038.871/RS, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 16/10/2023, DJe de 18/10/2023.)  grifou-se
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE COBRANÇA. HONORÁRIOS ADVOCATÍCIOS. CLÁUSULA DE ÊXITO. REVOGAÇÃO DO MANDATO. TERMO INICIAL. IMPLEMENTAÇÃO DA CLÁUSULA SUSPENSIVA. SÚMULA 83/STJ. RECURSO DESPROVIDO.
+1. "No caso dos honorários contratuais, se tal verba for pactuada com amparo em cláusula de êxito, a cobrança só é possível, mesmo no caso de revogação do mandato no curso da demanda, após a implementação da condição suspensiva. Desse modo, é a partir do instante em que obtido o sucesso na ação que se preludia o cômputo do referido prazo extintivo" (AgInt no REsp 1.715.128/RS, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 23/03/2020, DJe de 30/03/2020).
+2. Agravo interno desprovido. (AgInt no AREsp n. 2.260.812/PR, relator Ministro Raul Araújo, Quarta Turma, julgado em 3/4/2023, DJe de 27/4/2023.)  grifou-se
+O acórdão impugnado acompanhou nesse ponto a orientação firmada no âmbito deste Superior Tribunal de Justiça. Aplica-se, portanto, o óbice enunciado na Sumula 83 /STJ: Não se conhece do recurso especial pela divergência, quando a orientação do tribunal se firmou no mesmo sentido da decisão recorrida.
+2. Do exposto, nego provimento ao recurso especial.
+Por fim, nos termos do art. 85, § 11, do CPC, majoro os honorários advocatícios em 10% (dez por cento) sobre o valor já fixado na origem, observado, se for o caso, o disposto no art. 98, § 3º, do CPC.
+Publique-se.
+Intimem-se.
+EMENTA
