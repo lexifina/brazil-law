@@ -1,0 +1,43 @@
+DECISÃO
+Trata-se de conflito negativo de competência instaurado entre o JUIZO DE DIREITO DA UNIDADE ESTADUAL DE SAÚDE PÚBLICA E SUPLEMENTAR DE FLORIANÓPOLIS - SC e o JUÍZO FEDERAL DA 1ª VARA DE BRUSQUE - SJ/SC, nos autos de ação de obrigação de fazer na qual se pretende o fornecimento do medicamento Micofenolato de Mofetila para tratamento de Síndrome Nefrótica por Doença de Lesões Mínimas.
+Manejada no juízo estadual, foi declinada da competência ao juízo federal. O magistrado federal devolveu os autos ao juízo estadual, que suscitou o presente conflito (fls. 112-116).
+O Ministério Público Federal manifestou-se pela competência do juízo federal (fls. 121-125).
+É o relatório.
+Decido.
+Em 13/9/2024, o Supremo Tribunal Federal finalizou o julgamento virtual decidindo o mérito do aludido RE 1.366.243 (Tema 1.234). Na ocasião, foram homologados, em parte, três acordos interfederativos, em governança colaborativa. O acórdão ficou assim resumido, no que interessa:
+RECURSO EXTRAORDINÁRIO COM REPERCUSSÃO GERAL. TEMA 1.234. LEGITIMIDADE PASSIVA DA UNIÃO E COMPETÊNCIA DA JUSTIÇA FEDERAL NAS DEMANDAS QUE VERSAM SOBRE FORNECIMENTO DE MEDICAMENTOS REGISTRADOS NA ANVISA, MAS NÃO INCORPORADOS NO SUS. NECESSIDADE DE AMPLIAÇÃO DO DIÁLOGO, DADA A COMPLEXIDADE DO TEMA, DESDE O CUSTEIO ATÉ A COMPENSAÇÃO FINANCEIRA ENTRE OS ENTES FEDERATIVOS. DESIGNAÇÃO DE COMISSÃO ESPECIAL COMO MÉTODO AUTOCOMPOSITIVO DE SOLUÇÃO DE CONFLITOS. INSTAURAÇÃO DE UMA INSTÂNCIA DE DIÁLOGO INTERFEDERATIVA.
+Questão em discussão: Análise administrativa e judicial quanto aos medicamentos incorporados e não incorporados, no âmbito do SUS.
+Acordos interfederativos: Análise conjunta com Tema 6. Em 2022, foi reconhecida a repercussão geral da questão relativa à legitimidade passiva da União e à competência da Justiça Federal nas demandas sobre fornecimento de medicamentos não incorporados ao SUS (tema 1234). Para solução consensual desse tema, foi criada Comissão Especial, composta por entes federativos e entidades envolvidas. Os debates resultaram em acordos sobre competência, custeio e ressarcimento em demandas que envolvam medicamentos não incorporados, entre outros temas. A análise conjunta do presente tema 1234 e do tema 6 é, assim, fundamental para evitar soluções divergentes sobre matérias correlatas. Homologação parcial dos acordos, com observações e condicionantes.
+I. COMPETÊNCIA
+1) Para fins de fixação de competência, as demandas relativas a medicamentos não incorporados na política pública do SUS, mas com registro na ANVISA, tramitarão perante a Justiça Federal, nos termos do art. 109, I, da Constituição Federal, quando o valor do tratamento anual específico do fármaco ou do princípio ativo, com base no Preço Máximo de Venda do Governo (PMVG - situado na alíquota zero), divulgado pela Câmara de Regulação do Mercado de Medicamentos (CMED - Lei 10.742/2003), for igual ou superior ao valor de 210 salários mínimos, na forma do art. 292 do CPC.
+1.1) Existindo mais de um medicamento do mesmo princípio ativo e não sendo solicitado um fármaco específico, considera-se, para efeito de competência, aquele listado no menor valor na lista CMED (PMVG, situado na alíquota zero) .
+1.2) No caso de inexistir valor fixado na lista CMED, considera-se o valor do tratamento anual do medicamento solicitado na demanda, podendo o magistrado, em caso de impugnação pela parte requerida, solicitar auxílio à CMED, na forma do art. 7º da Lei 10.742/2003.
+1.3) No caso de cumulação de pedidos, para fins de competência, será considerado apenas o valor do(s) medicamento(s) não incorporado(s) que deverá(ão) ser somado(s), independentemente da existência de cumulação alternativa de outros pedidos envolvendo obrigação de fazer, pagar ou de entregar coisa certa.
+II. DEFINIÇÃO DE MEDICAMENTOS NÃO INCORPORADOS
+2.1) Consideram-se medicamentos não incorporados aqueles que não constam na política pública do SUS; medicamentos previstos nos PCDTs para outras finalidades; medicamentos sem registro na ANVISA; e medicamentos off label sem PCDT ou que não integrem listas do componente básico.
+2.1.1) Conforme decidido pelo Supremo Tribunal Federal na tese fixada no tema 500 da sistemática da repercussão geral, é mantida a competência da Justiça Federal em relação às ações que demandem fornecimento de medicamentos sem registro na Anvisa, as quais deverão necessariamente ser propostas em face da União, observadas as especificidades já definidas no aludido tema.
+III. CUSTEIO
+(..)
+IV. ANÁLISE JUDICIAL DO ATO ADMINISTRATIVO DE INDEFERIMENTO DE MEDICAMENTO PELO SUS
+(..)
+V. PLATAFORMA NACIONAL
+(..)
+VI. MEDICAMENTOS INCORPORADOS
+6) Em relação aos medicamentos incorporados, conforme conceituação estabelecida no âmbito da Comissão Especial e constante do Anexo I, os Entes concordam em seguir o fluxo administrativo e judicial detalhado no Anexo I, inclusive em relação à competência judicial para apreciação das demandas e forma de ressarcimento entre os Entes, quando devido.
+6.1) A(o) magistrada(o) deverá determinar o fornecimento em face de qual ente público deve prestá-lo (União, Estado, Distrito Federal ou Município), nas hipóteses previstas no próprio fluxo acordado pelos Entes Federativos, integrantes do presente acórdão.
+VII. OUTRAS DETERMINAÇÕES
+(..)
+VIII. MODULAÇÃO DE EFEITOS TÃO SOMENTE QUANTO À COMPETÊNCIA: somente haverá alteração aos feitos que forem ajuizados após a publicação do resultado do julgamento de mérito no Diário de Justiça Eletrônico, afastando sua incidência sobre os processos em tramitação até o referido marco, sem possibilidade de suscitação de conflito negativo de competência a respeito dos processos anteriores ao referido marco.
+IX. PROPOSTA DE SÚMULA VINCULANTE: "O pedido e a análise administrativos de fármacos na rede pública de saúde, a judicialização do caso, bem ainda seus desdobramentos (administrativos e jurisdicionais), devem observar os termos dos 3 (três) acordos interfederativos (e seus fluxos) homologados pelo Supremo Tribunal Federal, em governança judicial colaborativa, no tema 1.234 da sistemática da repercussão geral (RE 1.366.243)".
+Conforme definido no aludido julgamento, medicamentos previstos para outra finalidades são considerados não incorporados.
+In casu, a ação objetiva o fornecimento do medicamento MICOFENOLATO DE MOFETILA, incorporado ao grupo 1A da RENAME para hipóteses de Imunossupressão no Transplante Cardíaco, Imunossupressão no Transplante Hepático em Adultos, Imunossupressão no Transplante Hepático em Pediatria, Imunossupressão em Transplante Renal e Lúpus Eritematoso Sistêmico, mas não para Síndrome Nefrótica por Doença de Lesões Mínimas, doença da autora da ação.
+Embora a Portaria 79/2025, da Secretaria de Ciência, Tecnologia, e Insumos Estratégicos do Ministério da Saúde, publicada em 7/10/2025, tenha incorporado o medicamento também para o tratamento da síndrome nefrótica primária em crianças e adolescentes, ainda não houve pactuação na Comissão Intergestores Tripartite (CIT) para definir qual ente vai custear a aquisição (fl. 110 e site do InfoSUS de SC), devendo incidir o que constou do item 4.7.2) do Tema 1234/STF, in verbis:
+4.7.2) Medicamentos com responsabilidade financeira ainda não pactuada na CIT: em relação à competência, ao ressarcimento e ao financiamento, devem ser utilizados o valor do tratamento e definida a competência nos mesmos termos em que definidos nos itens 4.2, 4.3 e 4.4 acima.
+E o custo anual do medicamento é inferior a 210 salários mínimos (fls. 15 e 110), o que atrai a competência estadual.
+No mesmo sentido, inclusive sobre o mesmo medicamento aqui tratado para outra doença, confira-se: CC n. 217.572, Ministro Francisco Falcão, DJEN de 18/11/2025.
+Destaco que, nos termos do art. 34, XXII, do Regimento Interno do Superior Tribunal de Justiça, o relator poderá "decidir o conflito de competência quando for inadmissível, prejudicado ou quando se conformar com tese fixada em julgamento de recurso repetitivo ou de repercussão geral, a entendimento firmado em incidente de assunção de competência, a súmula do Superior Tribunal de Justiça ou do Supremo Tribunal Federal, a jurisprudência dominante acerca do tema ou as confrontar".
+Ante o exposto, CONHEÇO do conflito negativo de competência e declaro competente o JUIZO DE DIREITO DA UNIDADE ESTADUAL DE SAÚDE PÚBLICA E SUPLEMENTAR DE FLORIANÓPOLIS - SC, o suscitante.
+Publique-se.
+Intimem-se.
+EMENTA
+PROCESSUAL CIVIL E ADMINISTRATIVO. CONFLITO NEGATIVO DE COMPETÊNCIA. FORNECIMENTO DE MEDICAMENTO RECENTEMENTE INCORPORADO PARA A DOENÇA DA AUTORA. RESPONSABILIDADE FINANCEIRA AI NDA NÃO PACTUADA NA CIT. VALOR DO TRATAMENTO. TEMA 1234/STF. CUSTO INFERIOR A 210 SALÁRIOS MÍNIMOS. COMPETÊNCIA DO JUÍZO ESTADUAL.
