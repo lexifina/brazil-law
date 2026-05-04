@@ -1,0 +1,23 @@
+DECISÃO
+Trata-se de habeas corpus com pedido liminar impetrado em favor de LENILDO NASCIMENTO DE SOUSA contra ausência de julgamento pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAIS do Recurso em Sentido Estrito n. 1.0000.25.442100-1/001.
+Consta dos autos que o paciente foi pronunciado pela prática, em tese, do crime previsto no art. 121-A, § 1º, II c.c. art. 121, §2º, IV, na forma do art. 14, II, do Código Penal.
+Neste writ, alega demora injustificada do Tribunal de origem para análise do recurso em sentido estrito interposto. Aduz a ocorrência de excesso de prazo. Pleiteia, em liminar e no mérito, a revogação da prisão preventiva. Subsidiariamente, a aplicação de medidas cautelares diversas.
+Pedido liminar indeferido (fls. 43/44).
+Informações prestadas a fls. 4649 e 57/65.
+O Ministério Público Federal se manifestou pelo não conhecimento do habeas corpus e, no mérito, pela denegação da ordem (fls. 68/75).
+É o relatório.
+Decido.
+A aferição de eventual constrangimento ilegal por excesso de prazo não resulta de uma simples soma dos prazos processuais. Trata-se de uma análise que convoca a aplicação do princípio da razoabilidade, segundo o qual a demora no trâmite processual deve ser avaliada à luz das particularidades do caso concreto. A mera extrapolação dos prazos legalmente previstos não induz, de forma automática, o reconhecimento da ilegalidade, sendo imprescindível a demonstração de que a delonga é injustificada e decorre de desídia do aparato judicial (AgRg no HC n. 907.485/SP, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 24/6/2024, DJe de 27/6/2024.).
+A análise, portanto, é casuística e demanda uma ponderação entre a duração da prisão e a complexidade da causa, a pluralidade de réus, a necessidade de diligências específicas (como a expedição de cartas precatórias ou a realização de perícias) e a eventual contribuição da defesa para a demora processual.
+No caso em exame, verifica-se que os autos estão conclusos ao Desembargador Relator desde 03/02/2026 (fl. 61) o que não revela o alegado excesso de prazo para análise do recurso interposto, ainda que se trate de autos com réu preso.
+Constata-se que a tra mitação processual tem curso regular, não havendo manifesta ilegalidade.
+Ilustrativamente:
+AGRAVO REGIMENTAL NO RECURSO ORDINÁRIO EM HABEAS CORPUS. HOMICÍDIO QUALIFICADO. ALEGAÇÃO DE EXCESSO DE PRAZO INOCORRÊNCIA. AGRAVANTE PRONUNCIADO. INSTRUÇÃO ENCERRADA. SÚMULAS 21 E 52 DO STJ. AUSÊNCIA DE CONSTRANGIMENTO ILEGAL. RECURSO NÃO PROVIDO, COM RECOMENDAÇÃO.
+1. O constrangimento ilegal por excesso de prazo não resulta de um critério aritmético, mas de uma aferição realizada pelo julgador, à luz dos princípios da razoabilidade e proporcionalidade, levando em conta as peculiaridades do caso concreto, de modo a evitar retardo abusivo e injustificado na prestação jurisdicional.
+2. Como visto, a ação se desenvolve de forma regular, sem desídia ou inércia do Magistrado singular. No caso dos autos, apesar da prisão preventiva do agravante ser datada de 5/8/2022, o Tribunal de origem informou que em 22.03.23, a AIJ foi realizada, sendo encerrada a instrução e deferido o pedido de vistas às partes para apresentação das alegações finais (Súmula 52 do STJ). A sentença foi proferida em 07.01.24 - após apresentação das alegações finais ministeriais e defensivas, respectivamente, em 18.05.23 e em
+19.06.23 - pronunciando o Paciente, para que seja submetido a julgamento pelo Tribunal do Júri. Posteriormente, houve interposição de RESE (06.06.24) pela defesa, além de decisão, em 17.09.24, que o recebeu. As razões do RESE pela defesa foram apresentadas em 23.01.25 e os autos do referido recurso foram remetidos à segunda instância em 07.03.25. Situação que não evidencia, si et in quantum, inércia por parte do Juízo de origem, havendo a perspectiva concreta para um desfecho iminente (e-STJ fl. 44). Desse modo, não se vislumbra qualquer prolongamento indevido ou desídia do judiciário na marcha processual.
+3. Nesse diapasão, ressai a aplicação do enunciado n. 52 da Súmula desta Corte, o qual dispõe que "encerrada a instrução criminal, fica superada a alegação de constrangimento ilegal por excesso de prazo". Ademais, não há negar que também incide ao caso o disposto na Súmula 21 desta Corte Superior, segundo a qual "pronunciado o réu, fica superada a alegação do constrangimento ilegal da prisão por excesso de prazo na instrução".4. Agravo regimental conhecido e não provido, com recomendação.
+(AgRg no RHC n. 214.690/RJ, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 17/6/2025, DJEN de 26/6/2025.)
+Ante o exposto, denego a ordem de habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
