@@ -1,0 +1,32 @@
+DECISÃO
+Cuida-se de recurso especial interposto por BANCO RURAL S.A. EM LIQUIDAÇÃO EXTRAJUDICIAL, fundamentado alínea "a" do permissivo constitucional, no intuito de reformar acórdão proferido pelo Tribunal de Justiça do Estado de Minas Gerais, assim ementado:
+"AGRAVO DE INSTRUMENTO AÇÃO DE EXECUÇÃO
+CÉDULA DE CRÉDITO BANCÁRIO - PRESCRIÇÃO DIRETA PARTE CREDORA QUE NÃO PROMOVEU A CITAÇÃO VÁLIDA DOS LITISCONSORTES NO PRAZO LEGAL - INCIDÊNCIA DO ART. 219 DO CPC/73 CULPA ATRIBUÍVEL EXCLUSIVAMENTE À CREDORA IMPOSITIVA EXTINÇÃO DO FEITO, COM FUNDAMENTO NO ART. 487, II, DO CPC ÔNUS SUCUMBENCIAIS - PRINCÍPIO DA CAUSALIDADE QUE JUSTIFICA A RESPONSABILIZAÇÃO DA EXEQUENTE RECURSO PROVIDO. --
+1. A cédula de crédito bancário está sujeita as regras do direito cambial, por força do art. 44 da Lei 10.931/04 e o art. 70 da Lei Uniforme de Genebra.
+2. Conforme a legislação cambial, a interrupção da prescrição só produz efeito em relação aquele contra quem operada e não se estende aos coobrigados (art. 71 da LUG).
+3. Consoante a Súmula 106 do STJ," proposta a ação no prazo fixado para o seu exercício, a demora na citação, por motivos inerentes ao mecanismo da justiça, não justifica o acolhimento da argüição de prescrição ou decadência", o que não se mostra aplicável ao caso concreto, haja vista que demora na citação se deveu a dificuldade da localização do endereço dos litisconsortes, de modo que evidenciada a prescrição direta, devendo arcar, por consequência, a parte exequente com os ônus da sucumbência, em atenção ao Princípio da Causalidade."
+Embargos declaratórios rejeitados, nos termos do acórdão de fls. 591-597 (e-STJ), cujo teor ficou sintetizado nos seguintes termos:
+"EMBARGOS DE DECLARAÇÃO EM AGRAVO DE INSTRUMENTO VÍCIOS ART. 1.022, DO CPC INOCORRÊNCIA REDISCUSSÃO DO JULGADO - IMPOSSIBILIDADE - REJEIÇÃO.
+1. A oposição dos embargos pressupõe a existência de obscuridade, contradição, omissão ou erro material no julgado (Art. 1.022, do CPC).
+2. O fato de a parte recorrente não concordar com a decisão impugnada não enseja a interposição de embargos declaratórios, devendo utilizar-se dos meios próprios para alcançar a sua pretensão de reforma do julgado.
+3. Não evidenciados os requisitos legais, a rejeição dos embargos de declaração é medida que se impõe."
+Nas razões recursais, a parte recorrente aponta ofensa aos artigos 1.022, parágrafo único, inciso II, c/c 489, §1º, incisos I a IV, e 240, §1º,do CPC e 202, I, do Código Civil, além do artigo 71 da Lei Uniforme de Genebra (Decreto nº 57.663/66). Suntenta, em síntese, que o acórdão recorrido contém contradição, pois, embora reconheça na fundamentação que a prescrição se operou apenas em relação ao executado Sérgio Mignacca Meireles, o dispositivo determinou a extinção do feito como um todo e que a citação válida dos executados Capela Indústria e Osvaldo de Azevedo Reis interrompeu o prazo prescricional em relação a eles, não podendo a execução ser extinta em sua totalidade. Por fim, alega que a interrupção da prescrição só produz efeito em relação à pessoa para quem a interrupção foi feita, defendendo que o reconhecimento da prescrição em favor de um avalista não poderia se estender aos demais coobrigados.
+Não foram apresentadas contrarrazões.
+Em juízo de admissibilidade (fls. 617-619, e-STJ), admitiu-se o recurso, ascendendo os autos a esta Corte.
+É o relatório.
+O recurso merece provimento.
+1. Quanto à alegada violação aos artigos 1.022, parágrafo único, inciso II, c/c 489, §1º, incisos I a IV, do CPC, observo que assiste razão ao recorrente.
+"Os embargos de declaração têm ensejo quando há obscuridade, contradição, omissão ou erro material no julgado, de acordo com o disposto no art. 1022 do CPC/2015 (EDcl no AgInt no AREsp n. 2.514.885/SP, relator Ministro Gurgel de Faria, Primeira Turma, julgado em 12/8/2024, DJe de 16/8/2024.)".
+Ainda nesse sentido:
+EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. OMISSÃO. OCORRÊNCIA.
+1. Os embargos de declaração objetivam sanar eventual existência de obscuridade, contradição, omissão e/ou erro material no julgado (CPC, art. 1022), sendo inadmissível a oposição para rediscutir questões tratadas e devidamente fundamentadas na decisão embargada, mormente porque não são cabíveis para provocar novo julgamento da lide.
+2. Assiste razão à parte embargante ante a existência de omissão no acórdão recorrido, pois, em virtude do parcial provimento do recurso especial, impõe-se o redimensionamento dos ônus sucumbenciais.
+3. Embargos de declaração acolhidos tão somente para redimensionar os ônus sucumbenciais.
+(EDcl no REsp n. 2.103.726/SP, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 11/11/2024, DJe de 13/11/2024.) (Grifei)
+Da análise dos autos, constata-se que o acórdão que julgou o agravo de instrumento reconheceu que a prescrição se operou em relação ao executado Sérgio Mignacca Meireles, que foi citado somente em 19/04/2018, mais de 6 (seis) anos após o ajuizamento da ação executiva. Contudo, no dispositivo, determinou a extinção do feito como um todo, sem fazer qualquer ressalva quanto aos demais executados.
+Nos embargos de declaração, o Tribunal de origem afirmou que "houve o implemento da prescrição em relação a todos os devedores, notadamente porque o devedor principal não foi citado a tempo e modos devidos". Ocorre que essa afirmação contraria frontalmente os próprios fatos reconhecidos no acórdão embargado, que expressamente consignou que "o executado/avalista Osvaldo de Azevedo Reis foi citado em 30/11/2011, a pessoa jurídica executada em 17/05/2012 (ordem 39), ao passo que o executado/avalista, Sérgio Mignacca Meireles, foi citado por hora certa em 19/04/2018 (ordem 94)".
+Verifica-se, portanto, que o acórdão recorrido incorreu em contradição ao afirmar, na fundamentação, que o devedor principal foi citado em 17/05/2012, menos de um ano após o ajuizamento da ação, e posteriormente, ao julgar os embargos de declaração, afirmar que o devedor principal não foi citado a tempo e modo, o que evidencia a violação ao art. 1.022 do CPC.
+2. Ante o exposto, dou provimento ao recurso especial para anular o acórdão que julgou os embargos de declaração e determinar a devolução dos autos ao Tribunal de origem a fim de que profira novo julgamento, com enfrentamento das teses expressamente consignadas na petição dos aclaratórios pelos embargantes, notadamente sanando a contradição indicada.
+Prejudicadas as demais teses.
+Publique-se. Intimem-se.
+EMENTA
