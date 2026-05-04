@@ -1,0 +1,38 @@
+DECISÃO
+
+Trata-se de pedidos de ingresso na relação processual na condição de amicus curiae nos autos da ações de controle concentrado ADI 7612, ADI 7631 e ADC 92, pelas seguintes entidades: Federação das Indústrias do Estado de Minas Gerais – FIEMG (eDoc. 9); Fábio de Oliveira Ribeiro (pessoa física, eDoc. 18); Fórum dos Operadores Hoteleiros do Brasil – FOHB (eDoc. 26); Confederação Nacional dos Trabalhadores da Indústria – CNTI (eDoc. 31); Confederação Nacional dos Trabalhadores em Turismo e Hospitalidade – CONTRATUH (eDOc. 37); Federação das Indústrias do Estado do Paraná – FIEP (eDocs. 49 e 206); Associação Brasileira da Indústria Têxtil e de Confecção – ABIT (eDoc. 59); Instituto Nacional de Proteção de Dados – INPD (eDoc. 65); Confederação Nacional dos Trabalhadores no Comércio – CNTC (eDoc. 89); Central Única dos Trabalhadores – CUT; União Geral dos Trabalhadores – UGT, Central dos Trabalhadores e Trabalhadoras do Brasil – CTB; Força Sindical – FS; Central dos Sindicatos Brasileiros – CSB; em petição conjunta (eDoc. 97); Associação Brasileira da Indústria de Produtos para Animais de Estimação – ABINPET (eDoc. 113); Federação Interestadual dos Trabalhadores no Comércio e Serviços de Hospedagem, Alimentação Preparada e Bebidas a Varejo nos Estados de São Paulo e Mato Grosso do Sul – FETRHOTEL (eDoc. 118); Associação Brasileira de Mantenedoras do Ensino Superior – AMES (eDoc. 123); Associação Brasileira de Mulheres de Carreira Jurídica – ABMCJ (eDoc. 130); Federação das Associações Empresariais de Santa Catarina – FACISC (eDoc. 137); Federação das Indústrias no Estado de Mato Grosso – FIEMT (eDoc. 142); Federação das Indústrias de São Paulo – FIESP (eDoc. 147); Confederação Nacional dos Estabelecimentos de Ensino – CONFENEN (eDoc. 165); Associação Brasileira de Proteína Animal – ABIEC; e Associação Brasileira de Proteína Animal – ABPA (eDoc. 175); Instituto dos Advogados Brasileiros – IAB-Nacional (eDoc. 210); Sindicato das Entidades Mantenedoras de Estabelecimento de Ensino Superior no Estado de São Paulo – SEMESP (eDoc. 217); Confederação Nacional dos Metalúrgicos da Central Única dos Trabalhadores (eDOc. 223); Partido Verde – PV (eDoc. 234): Instituto Nós Por Elas – NPE (eDOc. 240): Associação Brasileira das Indústrias de Óleos Vegetais – ABIOVE (eDoc. 245); Associação Brasileira da Advocacia Trabalhista - ABRAT (eDoc. 254): Defensoria Pública da União – DPU (eDoc. 262): Elas Pedem Vista (eDoc. 270); e Conselho Federal da Ordem dos Advogados do Brasil (eDoc. 281).
+As entidades apresentam razões pelas quais, segundo alegam, deteriam interesse e representatividade para a participação da relação processual em colaboração com a CORTE.
+É o relatório.
+
+Na Jurisdição Constitucional brasileira, o Relator poderá admitir a manifestação de órgãos ou entidades, considerando a relevância da matéria, a especificidade do tema objeto da demanda, a repercussão geral da controvérsia e a representatividade dos postulantes.
+Juntamente com as audiências públicas, este instituto é instrumento de democratização e maior legitimação da atuação do SUPREMO TRIBUNAL FEDERAL em sede de jurisdição constitucional, tanto concentrada (ADPF 54/DF, Rel. Min. MARCO AURÉLIO; ADI 4.357/ED, Rel. Min. LUIZ FUX), quanto difusa (RE 631.053/DF, Rel. Min. CELSO DE MELLO; RE 566.349/MG, Rel. Min. CÁRMEN LÚCIA), na medida em que concretiza maior abertura e pluralidade nas discussões, ensejando a colaboração com pareceres, dados e informações importantes sobre a questão controvertida, bem como acerca dos reflexos de eventual decisão da SUPREMA CORTE.
+
+O deferimento de pedidos de habilitação de amici curiae, além de depender da satisfação dos critérios de relevância da matéria e da representação dos postulantes, subordina-se, ainda, à efetiva e necessária contribuição do terceiro ao deslinde da questão. Cuida-se de uma faculdade privativa do Relator, consistente em apreciar, casuisticamente, a concretude dos requisitos essenciais a credenciar a participação do interessado, na qualidade de amicus curiae, na composição do debate constitucional instaurado na CORTE.
+No tocante à sua admissão nas ações de controle concentrado de constitucionalidade instauradas no SUPREMO TRIBUNAL FEDERAL, a Lei 9.868/1999, em seu art. 7º, § 2º, é clara ao assentar a discricionariedade do provimento judicial que decide pela pluralização ou restrição de sujeitos no cerne do debate institucional. Veja-se:
+
+Art. 7º (...)
+§ 2º O relator, considerando a relevância da matéria e a representatividade dos postulantes, poderá, por despacho irrecorrível, admitir, observado o prazo fixado no parágrafo anterior, a manifestação de outros órgãos ou entidades.
+
+E o Regimento Interno do SUPREMO TRIBUNAL FEDERAL – RISTF, nos termos do art. 21, XVIII, o reprisa, in litteris:
+
+“Art. 21. São atribuições do Relator: (...) XVIII - decidir, de forma irrecorrível, sobre a manifestação de terceiros, subscrita por procurador habilitado, em audiências públicas ou nos processos de sua relatoria” (grifos nossos)
+
+No caso presente, os múltiplos pedidos de participação de amici curiae aponta a inviabilidade de admissão de todos, considerando a necessidade de organização os trabalhos da CORTE, notadamente quanto à realização de sustentações orais durante o julgamento em Plenário. Considerando ainda a convergência de interesses entre vários dos requerentes, mostra-se adequada a admissão das entidades com maior abrangência, facultada às demais a apresentação de memoriais escritos aos autos e junto aos gabinetes dos demais Ministros da CORTE, para a devida consideração das razões apresentadas.
+Essa compreensão, no sentido de que entidades com identidade de interesses podem tornar desnecessárias múltiplas intervenções, se alinha com o entendimento desta SUPREMA CORTE:
+
+EMENTA Agravo regimental na ação direta de inconstitucionalidade. Decisão de indeferimento de ingresso de terceiro na qualidade de amicus curiae. Possibilidade. Poderes do ministro relator. Agravo não provido.
+1. A atividade do amicus curiae possui natureza meramente colaborativa, pelo que não existe direito subjetivo de terceiro de atuar como amigo da Corte.
+2. O relator, no exercício de seus poderes, pode admitir o amigo da corte ou não, observando os critérios legais e jurisprudenciais e, ainda, sua capacidade de efetivamente contribuir para a pluralização do debate.
+3. Na hipótese dos autos, outras entidades com deveres, interesses e poderes de representação coincidentes já haviam ingressado na qualidade de amici curiae, não se mostrando conveniente, por razões de racionalidade e economia processual, a intervenção da agravante.
+4. Agravo regimental não provido. (ADI 5.108 AgR, Rel. Min. DIAS TOFFOLI, Pleno, DJe de 7/3/2018)
+
+Assim sendo, nos termos do art. 7º, § 2º, da Lei 9.868/1999, DEFIRO O PEDIDO DE INGRESSO, COMO AMICUS CURIAE, nos autos das ADIs 7612 e 7631, e da ADC 92, das seguintes entidades: Confederação Nacional dos Trabalhadores da Indústria – CNTI (eDoc. 31); Confederação Nacional dos Trabalhadores no Comércio – CNTC (eDoc. 89); Instituto Nós Por Elas – NPE (eDOc. 240): Defensoria Pública da União – DPU (eDoc. 262): Elas Pedem Vista (eDoc. 270); e Conselho Federal da OAB (eDoc. 281).
+INDEFIRO o requerimento formulado por Fábio de Oliveira Ribeiro, uma vez que a jurisprudência desta CORTE é pacífica quanto a impossibilidade de ingresso de pessoa física como amicus curiae em sede de controle abstrato de constitucionalidade (ADI 3396-AgR, Rel. Min. CELSO DE MELLO, Tribunal Pleno, julgado em 6/8/2020).
+INDEFIRO os demais requerimentos apresentados.
+À Secretaria para as anotações pertinentes.
+Publique-se.
+Brasília, 4 de maio de 2026.
+
+Ministro ALEXANDRE DE MORAES
+Relator
+Documento assinado digitalmente
