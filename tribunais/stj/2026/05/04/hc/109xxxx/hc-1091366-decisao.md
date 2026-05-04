@@ -1,0 +1,38 @@
+DECISÃO
+PEDRO MARCOS DIAS DA SILVA alega sofrer constrangimento ilegal em decorrência de acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo no Agravo de Execução Penal n. 0000205-43.2026.8.26.0996.
+A defesa se insurge contra a determinação de exame criminológico para fins de progressão de regime. Afirma que a Lei n. 14.843/2024 não pode retroagir ao caso, porque o crime ocorreu em 06/03/2024. Aduz, ainda, que a gravidade abstrata do delito e a longa pena a cumprir não justificam a exigência do Juiz da VEC.
+Requer o restabelecimento da decisão do Juiz da VEC que progrediu o apenado ao regime aberto.
+Decido.
+A jurisprudência consolidada desta Corte é de que a Lei n. 14.843/2024 possui natureza material, na medida em que estabelece nova exigência, mais gravosa, para a obtenção do direito à progressão de regime. Nesse sentido:
+DIREITO PENAL. AGRAVO REGIMENTAL. PROGRESSÃO DE REGIME. EXAME CRIMINOLÓGICO. AGRAVO DESPROVIDO.
+I. Caso em exame1. Agravo regimental interposto pelo Ministério Público contra decisão monocrática que concedeu habeas corpus de ofício, determinando que o Juízo das execuções examine o pedido de progressão de regime sem a necessidade de realização de exame criminológico.
+2. O Juízo da Vara de Execução Penal havia sobrestado o pedido de progressão de regime para que o paciente fosse submetido a exame criminológico, decisão mantida pelo Tribunal de origem.
+II. Questão em discussão3. A questão em discussão consiste em saber se a exigência de exame criminológico para progressão de regime, fundamentada na gravidade abstrata do delito e no longo tempo restante de pena, é válida.
+4. A questão também envolve a aplicação retroativa da Lei n. 14.843/2024, que tornou obrigatório o exame criminológico para progressão de regime.
+III. Razões de decidir5. A jurisprudência desta Corte entende que a gravidade do crime e o longo tempo de pena a cumprir não são justificativas idôneas para a exigência de exame criminológico, conforme a Súmula n. 439 do STJ.
+6. A Lei n. 14.843/2024, que exige exame criminológico, não se aplica retroativamente a crimes cometidos antes de sua vigência, sendo considerada uma norma mais gravosa.
+7. A decisão de exigir exame criminológico deve ser fundamentada em elementos concretos da execução da pena, não apenas na gravidade abstrata do delito.
+IV. Dispositivo e tese
+8. Agravo regimental desprovido.
+Tese de julgamento: "1. A exigência de exame criminológico para progressão de regime deve ser fundamentada em elementos concretos da execução da pena. 2. A Lei n. 14.843/2024, que torna obrigatório o exame criminológico, não se aplica retroativamente a crimes cometidos antes de sua vigência. 3. A gravidade abstrata do delito e o longo tempo de pena a cumprir não justificam a exigência de exame criminológico."
+Dispositivos relevantes citados: LEP, art. 112; CF/1988, art. 5º, XL. Jurisprudência relevante citada: STJ, AgRg no HC 929.034/SP, Rel. Min. Ribeiro Dantas, Quinta Turma, julgado em 30/9/2024; STJ, AgRg no HC 913.379/SP, Rel. Min. Rogerio Schietti Cruz, Sexta Turma, julgado em 2/9/2024.
+(AgRg no HC n. 936.057/SP, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 19/2/2025, DJEN de 24/2/2025, destaquei.)
+A Lei n. 14.843/2024 estabeleceu exigência inexistente ao tempo da prática dos fatos, e tornou mais rigorosas as condições para a progressão de regime.
+Tratando-se de lei nova mais gravosa para o reeducando (novatio legis in pejus), não pode retroagir para alcançar crimes praticados antes de sua vigência, sob pena de violação à garantia fundamental da irretroatividade da lei penal mais severa.
+Para os crimes praticados antes da alteração legislativa, permanece aplicável o entendimento consolidado na Súmula n. 439 do Superior Tribunal de Justiça: "admite-se o exame criminológico pelas peculiaridades do caso, desde que em decisão motivada".
+Esse é o mesmo raciocínio da Súmula Vinculante n. 26 do STF: "Para efeito de progressão de regime no cumprimento de pena por crime hediondo, ou equiparado, o juízo da execução observará a inconstitucionalidade do art. 2º da Lei n. 8.072, de 25 de julho de 1990, sem prejuízo de avaliar se o condenado preenche, ou não, os requisitos objetivos e subjetivos do benefício, podendo determinar, para tal fim, de modo fundamentado, a realização de exame criminológico".
+Ainda, a jurisprudência desta Corte veda a exigência de exame criminológico baseada exclusivamente na gravidade abstrata do delito ou no tempo de pena remanescente. Faz-se necessária a indicação de dados concretos que evidenciem uma dúvida razoável sobre as condições do apenado de progredir de regime.
+Infere-se dos autos que o paciente foi condenado por crime praticado em 19/3/2024. O Juiz da VEC "deferiu a progressão de regime prisional ao sentenciado Pedro Marcos Dias da Silva, dispensando a realização prévia de exame criminológico, nos autos da execução penal nº 0012386-02.2024.8.26.0041"(fl. 16).
+O Tribunal de origem reformou a decisão e considerou indispensável o estudo de periculosidade. Constou do acórdão que "a necessidade de aferição técnica do mérito se impõe após a recente alteração da Lei de Execução Penal, promovida pela Lei n. 14.843/2024" (fl. 18). Ademais, "o histórico do apenado evidencia a gravidade de sua trajetória delitiva, com pena ainda expressiva a cumprir (término previsto para julho de 2031). Considerando ainda a ampliação de liberdade inerente ao regime mais brando, mostra-se prudente e necessário avaliar, por meio de exame técnico especializado, aspectos de sua personalidade, motivação e comportamento carcerário, a fim de aferir com segurança a existência de condições efetivas para a progressão" (fl. 19).
+Constou do julgado que a "condenação pela prática de crime grave, cometido com o emprego de violência ou grave ameaça contra a pessoa, assim como a longa duração da pena a cumprir" (fl. 20), evidencia a necessidade de elaboração do exame criminológico.
+No caso, é de rigor a concessão da ordem, pois houve indevida aplicação retroativa da Lei n. 14.843/2024, de modo que o acórdão apontado como ato coator não está em consonância com o entendimento consolidado desta Corte e merece reparo.
+Ademais, nos termos da Súmula n. 439 do STJ, não foi justificado, concretamente, a necessidade da elaboração do exame criminológico, pois o acórdão se limitou a tecer considerações sobre a gravidade abstrata dos crimes que são objeto da execução penal e a longa pena a cumprir. Não houve referência a elementos concretos que demonstrassem aspectos preocupantes da personalidade do apenado ou eventual falta de condições para retorno ao convívio social sem reincidir na prática de crimes.
+Aplica-se ao caso o entendimento de que:
+ ..  a jurisprudência do Superior Tribunal de Justiça admite a exigência de exame criminológico para progressão de regime, desde que fundamentada em elementos concretos da execução penal, conforme disposto na Súmula 439/STJ.
+2. A gravidade abstrata dos crimes cometidos, a longa pena a cumprir ou a reincidência não são, por si só, fatores que justificam a necessidade de exame criminológico, conforme precedentes do STJ.
+3. A exigência de exame criminológico para toda e qualquer progressão de regime, conforme previsto no § 1º do art. 112 da Lei de Execução Penal, com redação dada pela Lei n. 14.843/2024, constitui novatio legis in pejus, sendo inconstitucional e ilegal em razão da vedação à retroatividade da lei penal mais gravosa.
+ ..
+(HC n. 978.973/SP, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 4/3/2026, DJEN de 10/3/2026.)
+À vista do exposto, concedo o habeas corpus, in limine, para restabelecer a decisão de primeiro grau.
+Publique-se e intimem-se.
+EMENTA
