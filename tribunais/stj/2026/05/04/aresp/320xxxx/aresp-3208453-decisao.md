@@ -1,0 +1,38 @@
+DECISÃO
+Trata-se de agravo interposto por Edivan Martins Teixeira contra decisão que não admitiu recurso especial, este interposto com fundamento no art. 105, inciso III, alínea "a", da CF, contra acórdão proferido pelo Tribunal de Justiça do Estado do Rio Grande do Norte, assim ementado (fl. 2.181):
+EMENTA: CIVIL E PROCESSO CIVIL. APELAÇÃO CÍVEL. EXCEÇÃO DE PRÉ-EXECUTIVIDADE JULGADA PROCEDENTE. RECONHECIMENTO DA PRESCRIÇÃO INTERCORRENTE DO PODER DE PUNIR DO TCE/RN. APLICAÇÃO DO PARÁGRAFO ÚNICO, DO ART. 111, DA LEI COMPLEMENTAR ESTADUAL Nº 464/2012. IMPOSSIBILIDADE. INCIDÊNCIA DO PARÁGRAFO ÚNICO, DO ARTIGO 170 DO MESMO DIPLOMA LEGAL. PROCESSO EM TRÂMITE QUANDO DA ENTRADA EM VIGOR DESTA LEI. REFORMA DA SENTENÇA QUE SE IMPÕE. PRECEDENTES DO TJRN. RETORNO DOS AUTOS À ORIGEM. RECURSO CONHECIDO E PROVIDO.
+Embargos de Declaração rejeitados.
+Nas razões do recurso especial, a parte agravante alega violação dos arts. 489, § 1º, 1022, I e II, parágrafo único, II, do CPC, por "nulidade do acórdão, uma vez que o julgado não enfrentou a principal questão de direito discutida na presente lide, posto que, para afastar o exame da temática da prescrição, apresentada com base no art. 170, caput, da LCE nº 464/2012" (fl. 2.207).
+Com contrarrazões.
+Neste agravo afirma que seu recurso especial satisfaz os requisitos de admissibilidade e que não se encontram presentes os óbices apontados na decisão agravada.
+É o relatório. Decido.
+Consigne-se inicialmente que o recurso foi interposto contra decisão publicada na vigência do Código de Processo Civil de 2015, devendo ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+Tendo a parte insurgente impugnado os fundamentos da decisão agravada, passo ao exame do recurso especial.
+Acerca da alegada violação dos arts. 489, § 1º, 1022, I e II, parágrafo único, II, do CPC, sob o argumento de que a Corte local não enfrentou a temática da prescrição, apresentada com base no art. 170, caput, da LCE nº 464/2012, sem razão o recorrente, uma vez que não se vislumbra nenhuma omissão na fundamentação contida no acórdão recorrido, sendo possível observar que o Tribunal de origem apreciou integralmente a controvérsia, ao concluir não haver prescrição intercorrente, conforme se extrai do excerto (fl. 2.184):
+ ..  o Juízo a quo, ao acolher a exceção de pré-executividade, reconhecendo a prescrição intercorrente, com base no parágrafo único do art. 111 da Lei Complementar Estadual nº 464/2012, utilizou o fundamento de que "Na hipótese dos autos, do exame do Processo Administrativo n 003383/1993-TC que embasa a ação exacional, observa-se a ocorrência da prescrição intercorrente, visto que o processo ficou paralisado por mais de 08 (oito) anos, entre 1996 e 2005" (Id conforme se depreende do extrato processual colacionado em ID 91398633 - Pág. 80, 22095476).
+Como se vê, o magistrado singular aplicou ao caso a Lei Complementar Estadual nº 464, de 05 de janeiro 2012, que dispõe sobre a Lei Orgânica do Tribunal de Contas do Estado do Rio Grande Norte e regulamenta o instituto prescricional da seguinte forma:
+ ..
+Concretamente, quando a LCE nº 464/2012 entrou em vigor (06 de abril de 2012), o processo administrativo (nº003383/1993-TC) que culminou na condenação do apelado, no âmbito do Tribunal de Contas do Estado, ao ressarcimento ao erário, já estava em tramitação, visto que registrado em 30/08/1993 (Id 22095010), atraindo, por conseguinte, a incidência do seu parágrafo único, do artigo 170, o que denota não haver prescrição intercorrente, merecendo reforma a sentença recorrida.
+Assim, a tutela jurisdicional foi prestada de forma eficaz, não havendo razão para a anulação do acórdão proferido em sede de embargos de declaração. Nesse sentido: AgInt no AREsp 1.653.798/GO, Rel. Ministro Gurgel de Faria, Primeira Turma, DJe de 03/03/2021; AgInt no REsp 1.876.152/PR, Rel. Ministro Benedito Gonçalves, Primeira Turma, DJe de 11/02/2021; e AgInt no AREsp n. 2.084.089/RO, Relatora Ministra Assusete Magalhães, Segunda Turma, DJe de 15/9/2022.
+No mais, verifica-se que o acolhimento da questão reclama o exame de disposições de lei local (LCE nº 464/2012), o que implica a inviabilidade do recurso especial, aplicando-se, por analogia, o teor da Súmula n. 280 do STF.
+Nesse sentido:
+PROCESSUAL CIVIL. EXECUÇÃO FISCAL. FAZENDA PÚBLICA ESTADUAL. ANTECIPAÇÃO DE DESPESA. OFICIAL DE JUSTIÇA. DESLOCAMENTO. CITAÇÃO. CABIMENTO. VÍCIO DE INTEGRAÇÃO. NÃO OCORRÊNCIA. RESOLUÇÃO DO CNJ. CONCEITO DE LEI FEDERAL. NÃO ENQUADRAMENTO. DIREITO LOCAL.
+ ..
+4. O exame da alegação de que os oficiais de justiça do TJ/PB já receberiam gratificação para o cumprimento das diligências inerentes à sua atividade, porquanto fundada em lei local, esbarra no óbice da Súmula 280 do STF ("Por ofensa a direito local não cabe recurso extraordinário"), aplicada, por analogia, ao recurso especial.
+5. Agravo interno desprovido. (AgInt no AREsp n. 2.248.714/PB, Relator Ministro Gurgel de Faria, Primeira Turma, DJe de 26.06.2024).
+PROCESSUAL CIVIL. TRIBUTÁRIO. AGRAVO INTERNO NO RECURSO ESPECIAL. VIOLAÇÃO AOS ARTS. 489 E 1.022 DO CPC/2015. INOCORRÊNCIA. ANÁLISE DE LEI LOCAL. PROVIDÊNCIA VEDADA NO RECURSO ESPECIAL. VIOLAÇÃO À LEGISLAÇÃO INFRACONSTITUCIONAL NÃO CONFIGURADA. OFENSA REFLEXA. SÚMULA 280 DO SUPREMO TRIBUNAL FEDERAL. APLICAÇÃO DE MULTA. ART. 1.021, § 4º, DO CÓDIGO DE PROCESSO CIVIL DE 2015. DESCABIMENTO.
+ ..
+II - Aplicável à espécie, por analogia, o enunciado da Súmula 280 do Supremo Tribunal Federal segundo o qual, por ofensa ao direito local não cabe recurso extraordinário, porquanto a lide foi julgada pelo tribunal de origem à luz de interpretação de legislação local, qual seja, o RICMS/PB, demandando a sua análise para o deslinde da controvérsia. Precedentes.
+ ..
+IV - Agravo Interno improvido.
+(AgInt no REsp n. 2.233.432/PB, relatora Ministra Regina Helena Costa, Primeira Turma, DJEN de 5/3/2026.)
+PROCESSUAL CIVIL. ADMINISTRATIVO. SERVIDOR PÚBLICO. COMPETÊNCIA DO SUPREMO TRIBUNAL FEDERAL. ACÓRDÃO FUNDAMENTADO EM LEI LOCAL. INCIDÊNCIA, POR ANALOGIA, DO ENUNCIADO N. 280 DA SÚMULA DO STJ. PRETENSÃO DE REEXAME FÁTICO-PROBATÓRIO. DESPROVIMENTO DO AGRAVO INTERNO. MANUTENÇÃO DA DECISÃO RECORRIDA.
+ ..
+IV - Além disso, o Tribunal a quo, para decidir a controvérsia, interpretou legislação local, quais sejam, as Lei Estaduais 6.560/2014, 6.790, 6.856 e 8.856/2016 e o Decreto 15.863/2014, o que implica a inviabilidade do recurso especial, aplicando-se, por analogia, o teor do Enunciado n. 280 da Súmula do STF, que assim dispõe: "Por ofensa a direito local não cabe recurso extraordinário". Nesse mesmo sentido:AgInt no AREsp n. 2.136.760/MT, Rel. Ministro HUMBERTO MARTINS, SEGUNDA TURMA, julgado em 6/3/2023, DJe de 13/3/2023; AgInt no AREsp 1304409/DF, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, julgado em 31/08/2020, DJe 04/09/2020.
+ ..
+VI - Agravo interno improvido.
+(AgInt no REsp n. 2.125.198/PI, relator Ministro Francisco Falcão, Segunda Turma, DJe de 21/8/2024.)
+Ante o exposto, conheço do agravo para conhecer parcialmente do recurso especial e, nessa extensão, negar-lhe provimento, com fundamento nos arts. 932, III, do Código de Processo Civil de 2015 e 34, XVIII, a, e 255, I, ambos do RISTJ.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL E ADMINISTRATIVO. RECURSO ESPECIAL. EXCEÇÃO DE PRÉ-EXECUTIVIDADE JULGADA PROCEDENTE. VIOLAÇÃO DOS ARTS. 489 E 1.022 DO CPC. NÃO OCORRÊNCIA. RECONHECIMENTO DA PRESCRIÇÃO INTERCORRENTE DO PODER DE PUNIR DO TCE/RN. ACÓRDÃO FUNDAMENTADO EM LEI LOCAL. INCIDÊNCIA DA SÚMULA N. 280/STF. AGRAVO CONHECIDO PARA CONHECER PARCIALMENTE DO RECURSO ESPECIAL E, NESSA EXTENSÃO, NEGAR-LHE PROVIMENTO.
