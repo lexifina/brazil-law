@@ -1,0 +1,35 @@
+DECISÃO
+LILIAN MONIQUE ROQUE alega sofrer coação ilegal em seu direito de locomoção, em decorrência de acórdão proferido pelo Tribunal de Justiça do Estado de Mato Grosso do Sul no HC n. 1405863-34.2026.8.12.0000, que manteve a prisão preventiva.
+A defesa sustenta que não estão presentes os requisitos dos arts. 312 e 313 do CPP para justificar a custódia cautelar. Afirma que o decreto prisional não tem fundamentação concreta e está assentado na gravidade abstrata do crime. Sustenta, ainda a desproporcionalidade da prisão e a suficiência de medidas cautelares alternativas.
+Requer a revogação da prisão preventiva, ainda que mediante imposição de cautelares diversas.
+Decido.
+O writ comporta pronta solução, por decisão monocrática, pois existe entendimento pacífico sobre o tema.
+Infere-se dos autos que a insurgente foi presa em flagrante, no dia 24/3/2026, pela suposta prática do delito de tráfico interestadual de drogas, por haver sido flagrada na posse de 151 kg de maconha.
+O Magistrado de origem homologou o flagrante e converteu a prisão em preventiva, em decisão assim fundamentada (fls. 154-155, destaquei):
+Denota-se a periculosidade das flagranteadas a partir das circunstâncias fático-jurídicas umbilicalmente vinculadas ao evento fático em comento, eis que, quando cometeram, em tese, o delito a elas imputado, atuaram com reprovabilidade acentuada.
+Isso porque suas condutas não se limitaram à pretensa realização do tipo penal, extrapolando a normalidade esperada à conduta, tendo em vista que transportavam cerca de 151 quilos de material assemelhado à maconha, acondicionados em 152 tabletes individualizados.
+Aliás, é assente na jurisprudência que a quantidade e a diversidade de substâncias são hábeis a justificar o decreto prisional, sobretudo em casos similares a esse, nos quais houve a apreensão de montante elevado, como enuncia o julgado adiante transcrito:
+ ..
+Também entendo que o transporte de substâncias entorpecentes, com destino a outro estado ou município, constitui indicativo de que as flagranteadas integram ou integraram organização criminosa, ainda que temporariamente, ou seja, suas ações devem ser interrompidas.
+Vê-se que, caso assim não o fosse, não teriam as conduzidas obtido quantidade de material tóxico em dita quantidade, tampouco saberiam para onde levá-lo ou para quem entregá-lo, ou seja, presume-se que atuaram em conluio com organização criminosa estruturada para tanto, nestes termos:
+ ..
+O Tribunal de origem manteve a medida constritiva pelos seguintes argumentos (fls. 15-16, grifei):
+Ao contrário do que sustenta a defesa, a decisão que decretou a segregação cautelar não se mostra desprovida de fundamentação. O magistrado de primeiro grau apontou elementos concretos que justificam a necessidade da medida extrema para a garantia da ordem pública. A gravidade da conduta é evidenciada pela vultosa quantidade de entorpecente apreendido, qual seja, aproximadamente 151 quilogramas de maconha, acondicionados em 152 tabletes.
+A jurisprudência é consolidada no sentido de que a expressiva quantidade de droga constitui fundamento idôneo para a manutenção da prisão preventiva, uma vez que indica maior periculosidade social do agente e risco de reiteração criminosa.
+Não bastasse isso, as circunstâncias do flagrante indicam uma logística estruturada para o transporte interestadual. A paciente reside em Itapira, no Estado de São Paulo, e deslocou-se por mais de 1.100 quilômetros até a região de fronteira para buscar o entorpecente, utilizando veículo alugado e mediante promessa de pagamento de dez mil reais. Além disso, a paciente realizou a viagem acompanhada de outra mulher, a quem também teria sido prometido o pagamento da mesma quantia. Tal dinâmica sugere a participação em organização voltada ao narcotráfico, ainda que de forma episódica, o que reforça a necessidade de interrupção da cadeia delitiva.
+A prisão preventiva é compatível com a presunção de não culpabilidade do acusado desde que não assuma natureza de antecipação da pena e não decorra, automaticamente, do caráter abstrato do crime ou do ato processual praticado (art. 313, § 2º, CPP). Além disso, a decisão judicial deve apoiar-se em motivos e fundamentos concretos, relativos a fatos novos ou contemporâneos, dos quais se possa extrair o perigo que a liberdade plena do investigado ou réu representa para os meios ou os fins do processo penal (arts. 312 e 315 do CPP).
+No caso, o decreto prisional está devidamente fundamentado, pois indicou a gravidade da conduta, extraída da apreensão de 151 kg de maconha, que era transportada entre estados da Federação, e de indícios de participação em organização criminosa.
+O STJ é firme ao afirmar que, nas situações em que a quantidade e/ou a natureza dos entorpecentes e outras circunstâncias do caso revelem a maior reprovabilidade da conduta investigada, tais dados são bastantes para demonstrar a gravidade concreta do delito e denotam a necessidade de se acautelar a ordem pública.
+Nessa perspectiva: "A prisão preventiva por tráfico de drogas pode ser decretada quando a gravidade concreta da conduta se evidencia por fatores como quantidade e natureza da substância apreendida, forma de acondicionamento ou presença de instrumentos destinados à comercialização, demonstrando maior potencial lesivo e periculosidade do agente" (AgRg no RHC n. 226.214/SP, Rel. Ministra Maria Marluce Caldas, 5ª T., DJEN de 30/3/2026).
+Menciono também:
+ ..
+1. A periculosidade do agente, ao ser preso com expressiva quantidade de droga, mais de 1 kg de maconha, constitui fundamentação idônea para a garantia da ordem pública.
+2. A desproporcionalidade da prisão preventiva em relação ao provável regime prisional não pode ser aferida antes da dosimetria da pena, incabível, portanto, sua antecipação na via eleita.
+3. Presentes fundamentos concretos para justificar a custódia cautelar, não se revela cabível a aplicação de medidas cautelares alternativas à prisão.
+4. Agravo regimental improvido.
+(AgRg no HC n. 633.326/MG, Rel. Ministro Olindo Menezes (Desembargador convocado do TRF 1ª Região), 6ª T., DJe 7/5/2021, grifei)
+Em razão da gravidade do crime e das indicadas circunstâncias do fato, as medidas cautelares alternativas à prisão não se m ostram adequadas e suficientes para evitar a prática de novas infrações penais. Nesse sentido: "as circunstâncias que envolvem o fato demonstram que outras medidas previstas no art. 319 do Código de Processo Penal são insuficientes para a consecução do efeito almejado. Ou seja, tendo sido exposta de forma fundamentada e concreta a necessidade da prisão, revela-se incabível sua substituição por outras medidas cautelares mais brandas" (AgRg no HC n. 789.592/SP, Rel. Ministro Reynaldo Soares da Fonseca, 5ª T., DJe 27/2/2023).
+Ressalto, por fim, que "Eventuais condições pessoais favoráveis não têm o condão de, por si sós, garantir a revogação da prisão preventiva" (AgRg no HC n. 582.182/RS, Rel. Ministro Sebastião Reis Júnior, 6ª T., DJe 21/8/2020).
+À vista do exposto, denego a ordem de habeas corpus, in limine.
+Publique-se e intimem-se.
+ EMENTA
