@@ -1,0 +1,32 @@
+DECISÃO
+Cuida-se de Agravo apresentado por MUNICÍPIO DE VITÓRIA à decisão que não admitiu seu Recurso Especial.
+O apelo, fundamentado no artigo 105, III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO ESPÍRITO SANTO, assim resumido:
+DIREITO TRIBUTÁRIO. APELAÇÃO CÍVEL. IMUNIDADE TRIBUTÁRIA. IPTU. INSTITUIÇÃO DE EDUCAÇÃO SEM FINS LUCRATIVOS. REQUISITOS LEGAIS PREENCHIDOS. PRESUNÇÃO DE VINCULAÇÀO DOS IMÓVEIS À FINALIDADE ESSENCIAL. ÔNUS DA PROVA DO FISCO. RECURSO DESPROVIDO.
+Quanto à controvérsia, pela alínea "a" do permissivo constitucional, a parte recorrente aduz ofensa ao art. 14 do CTN, no que concerne à necessidade de atribuição ao contribuinte do ônus de provar a vinculação dos imóveis às finalidades essenciais para a fruição da imunidade tributária, em razão de ser incumbência de quem alega possuir os requisitos demonstrá-los. Argumenta:
+A questão, logo, não gira em torno da existência de imunidade tributária ou não das entidades sem fins lucrativos, mas sim em torno do ônus da prova por parte do associação, algo que este não se desincumbiu.
+De mais a mais, o art.14 do CTN não é autoaplicável, porquanto regula imunidade do tipo condicionada. Logo, o simples fato de tratar-se de uma entidade de instituição de ensino e assistência social, por si só, não é o bastante para que desfrute da imunidade. Esta deve ser comprovada, mediante atendimento ao que preconiza o art.14 do CTN, verbis:
+ ..
+Mesmo que despiciendo, o ônus da prova quanto ao preenchimento dos requisitos impostos pelo legislador constituinte deve recair sobre aquele que alega possuí-los, ou seja, sobre o sindicato. Vide inciso I, artigo 333, do Codex de Processo Civil:
+ ..
+Mutatis Mutandis, o Superior Tribunal de Justiça em julgado recente reconheceu que o ônus da prova quanto a imunidade cabe ao contribuinte:
+ ..
+Isso quer dizer que a instituição de ensino e assistência social, à luz do Texto Constitucional, a princípio, é detentor do direito à imunidade relativamente aos impostos.
+O Legislador Constitucional, no entanto, ao dispor sobre a matéria, estabeleceu condições para o gozo. Dessa forma, percebe-se que a imunidade tributária de que são destinatários a instituição de ensino e assistência social não é de natureza presuntiva, pois o seu reconhecimento por parte da autoridade fiscal depende de prévia comprovação, pela entidade interessada, de que preenche os requisitos constitucionais.
+ ..
+Observe-se que o simples fato de se tratar de uma instituição de ensino e assistência social por si só, não é o bastante para que a parte embargante desfrute da imunidade constitucional.
+Em outras palavras, não basta que o estatuto social da FUNDAÇÃO DE ASSISTÊNCIA E EDUCAÇÃO - FAESA, ASSOCIAÇÃO EDUCACIONAL DE VITÓRIA indique que ele atende àquilo que preconiza o art. 14 do CTN, até porque há a possibilidade de a realidade fática discrepar daquilo que consta dos atos constitutivos.
+Portanto, na medida em que não comprovado pela parte autora o preenchimento dos 03 (três) requisitos do artigo 14 do CTN, e não comprovado que o objeto de tributação (patrimônio, renda ou serviço), no caso imóveis, estão relacionados com as finalidades essenciais da entidade, merece ser julgado improcedente os pedidos contidos na exordial (fls. 496-504).
+É o relatório.
+Decido.
+Quanto à controvérsia, o Tribunal a quo se manifestou nos seguintes termos:
+Da análise da documentação carreada aos autos, observa-se que os requisitos previstos no art. 14 do CTN foram devidamente comprovados pelas recorridas, tal qual assentado pelo d. Magistrado a quo.
+No estatuto da AEV e no da FAESA, acostados nos IDs 25581042 e 25581043, respectivamente, é possível observar que ambos se tratam de fundação privada sem fins lucrativos; ambas as fundações são geridas pelo Sr. Alexandre Nunes Theodoro, comprovando os documentos anexados nos IDs 25581555 e 25581556 que não há distribuição de lucros e, por fim, os relatórios de Operações de Câmbio e transferência internacionais de ambas as Autoras (I Ds 25581557 e 25581558) demonstram que não há operações realizadas, evidenciando que aplicam integralmente no país seus recursos. Portanto, resta evidenciada o cumprimento dos requisitos previstos no art. 14 do CTN, não havendo, assim, que se falar em qualquer retoque na sentença quanto ao ponto.
+Por fim, também não merece guarida a alegação da municipalidade apelante de que seria ônus da entidade beneficiária provar que os bens servem às suas atividades essenciais (fls. 481- 482).
+Assim, incide a Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), porquanto o reexame da premissa fixada pelo acórdão recorrido quanto à distribuição do ônus probatório das partes exigiria a incursão no acervo fático-probatório dos autos, o que não é possível em Recurso Especial.
+Nesse sentido, o STJ já decidiu que "a análise sobre a verificação da distribuição do ônus probatório das partes pressupõe o reexame dos elementos fático-probatórios contidos nos autos, inclusive com o cotejamento de peças processuais, o que é inviável em sede de recurso especial, tendo em vista o óbice da Súmula 7/STJ" (AgInt no AREsp n. 2.490.617/PE, relator Ministro Mauro Campbell Marques, Segunda Turma, DJe de 13/6/2024).
+Confiram-se ainda os seguintes julgados: AgInt no AREsp n. 2.575.962/PR, relator Ministro Marco Buzzi, Quarta Turma, DJe de 22/11/2024; REsp n. 2.164.369/CE, relatora Ministra Nancy Andrighi, Terceira Turma, DJe de 8/11/2024; AgInt no AREsp n. 2.653.386/BA, relator Ministro Raul Araújo, Quarta Turma, DJe de 21/10/2024; AgInt no REsp n. 2.019.364/SP, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, DJe de 29/8/2024; EDcl no AgInt no AREsp n. 1.993.580/SP, relator Ministro Afrânio Vilela, Segunda Turma, DJe de 2/5/2024; AgInt no AREsp n. 1.867.210/SP, relator Ministro Herman Benjamin, Segunda Turma, DJe de 13/10/2021.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do Agravo para não conhecer do Recurso Especial.
+Nos termos do art. 85, § 11, do Código de Processo Civil, majoro os honorários de advogado em desfavor da parte recorrente em 15% sobre o valor já arbitrado nas instâncias de origem, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão de justiça gratuita.
+Publique-se.
+Intimem-se.
+ EMENTA
