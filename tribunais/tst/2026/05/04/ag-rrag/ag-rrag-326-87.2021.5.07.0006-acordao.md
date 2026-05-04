@@ -1,0 +1,116 @@
+Poder Judiciário
+Justiça do Trabalho
+Tribunal Superior do Trabalho
+PROCESSO Nº TST-Ag-RRAg - 326-87.2021.5.07.0006
+A C Ó R D Ã O
+3ª Turma
+GMMGD/cgc
+AGRAVO. RECURSO DE REVISTA COM AGRAVO. AGRAVO
+INTERPOSTO EM FACE DE DECISÃO PROFERIDA POR ÓRGÃO
+COLEGIADO. INAPLICABILIDADE DO CRITÉRIO DA
+FUNGIBILIDADE. Nos termos da OJ 412/SBDI-1 do TST e do art.
+265 do RITST, é incabível agravo interno (art. 1.021 do CPC de
+2015; art. 557, § 1º, do CPC de 1973) contra decisão proferida por
+Órgão Colegiado, uma vez que tal recurso destina-se,
+exclusivamente, a impugnar decisão monocrática nas hipóteses
+normativamente previstas. Inaplicável, no caso, o princípio da
+fungibilidade, ante a configuração de erro grosseiro. Agravo não
+conhecido.
+Vistos, relatados e discutidos estes autos de Agravo em Recurso de Revista com
+Agravo nº TST-Ag-RRAg - 326-87.2021.5.07.0006, em que é Agravante THIAGO ALVES DE CASTRO e é
+Agravada CERVEJARIA PETRÓPOLIS DA BAHIA LTDA.
+Insurge-se a Parte Agravante contra acórdão desta 3ª Turma que negou
+provimento ao seu agravo de instrumento, e conheceu e deu provimento ao recurso de revista
+interposto pela Reclamada.
+Nas razões do agravo, a Parte Agravante pugna pelo não conhecimento do
+recurso de revista da Reclamada.
+Foi concedida vista à Parte Agravada para se manifestar no prazo de 8 (oito) dias,
+em razão do art. 1.021, § 2°, do CPC/2015, c/c o art. 3º, XXIX, da IN 39/TST.
+A Parte Agravada apresentou manifestação.
+É o relatório.
+V O T O
+CONHECIMENTO
+AGRAVO INTERPOSTO EM FACE DE DECISÃO PROFERIDA POR ÓRGÃO
+COLEGIADO. INAPLICABILIDADE DO CRITÉRIO DA FUNGIBILIDADE
+Trata-se de agravo interno interposto contra acórdão desta 3ª Turma do TST que
+negou provimento ao agravo de instrumento do Reclamante, e conheceu e deu provimento ao recurso
+de revista da Reclamada.
+Com efeito, o Regimento Interno do TST, em seu art. 265, expressamente trata das
+hipóteses de cabimento de agravo interno, devendo a decisão atacada ter sido proferida
+monocraticamente.
+Visando o presente recurso a impugnar decisão proferida por Órgão Colegiado, é
+manifestamente incabível, não sendo aplicável o critério da fungibilidade recursal, diante da
+circunstância de não ser plausível a dúvida acerca da modalidade de recurso a ser utilizado na hipótese.
+Nesse sentido, a OJ 412/SBDI-1 do TST:
+"AGRAVO INTERNO OU AGRAVO REGIMENTAL. INTERPOSIÇÃO EM FACE DE DECISÃO
+COLEGIADA. NÃO CABIMENTO. ERRO GROSSEIRO. INAPLICABILIDADE DO PRINCÍPIO DA
+Este documento pode ser acessado no endereço eletrônico http://www.tst.jus.br/validador sob código 100670F93EFEE6B554.
+FUNGIBILIDADE RECURSAL. (nova redação em decorrência do CPC de 2015) - Res. 209/2016 - DEJT
+divulgado em 01, 02 e 03.06.2016. É incabível agravo interno (art. 1.021 do CPC de 2015, art. 557, §1º,
+do CPC de 1973) ou agravo regimental (art. 235 do RITST) contra decisão proferida por Órgão
+colegiado. Tais recursos destinam-se, exclusivamente, a impugnar decisão monocrática nas hipóteses
+previstas. Inaplicável, no caso, o princípio da fungibilidade ante a configuração de erro grosseiro."
+Citam-se os seguintes julgados desta Corte Superior:
+AGRAVO. RECURSO DE REVISTA COM AGRAVO. PROCESSO SOB A ÉGIDE DA LEI Nº
+13.015/2014 E ANTERIOR À LEI Nº 13.467/2017. DECISÃO PROFERIDA POR ÓRGÃO COLEGIADO.
+INAPLICABILIDADE DO CRITÉRIO DA FUNGIBILIDADE RECURSAL. Nos termos da OJ 412/SBDI-1 do
+TST e do art. 265 do RITST, é incabível agravo interno (art. 1.021 do CPC de 2015; art. 557, § 1º, do CPC
+de 1973) contra decisão proferida por Órgão Colegiado, uma vez que tal recurso destina-se,
+exclusivamente, a impugnar decisão monocrática nas hipóteses previstas. Inaplicável, no caso, o
+princípio da fungibilidade, ante a configuração de erro grosseiro. Agravo não conhecido. (Ag-RRAg -
+11232-69.2016.5.18.0083, Relator Ministro: Mauricio Godinho Delgado, Data de Julgamento:
+30/08/2023, 3ª Turma , Data de Publicação: DEJT 01/09/2023)
+AGRAVO EM AGRAVO DE INSTRUMENTO EM RECURSO DE REVISTA. RECURSO INTERPOSTO
+CONTRA DECISÃO PROFERIDA POR ESTA C. TURMA. INADEQUAÇÃO DA VIA ELEITA. OJ 412 DA SBDI￾1. NÃO CABIMENTO. ERRO GROSSEIRO. IMPOSSIBILIDADE DE APLICAÇÃO DO PRINCÍPIO DA
+FUNGIBILIDADE RECURSAL. É inadmissível a interposição de agravo com a finalidade de impugnar
+acórdão desta C. Turma, porquanto o recurso utilizado é cabível unicamente para confrontar decisão
+monocrática, ex vi do artigo 239 do Regimento Interno. Outrossim, é inviável cogitar-se da aplicação
+do princípio da fungibilidade do recurso, haja vista a caracterização de erro grosseiro. Incide ao caso
+o óbice da Orientação Jurisprudencial 412 da SBDI-1. Agravo não conhecido. (Ag-Ag-AIRR - 1719-
+56.2012.5.15.0033, Relator Ministro: Alexandre de Souza Agra Belmonte, Data de Julgamento:
+20/06/2018, 3ª Turma , Data de Publicação: DEJT 22/06/2018)
+AGRAVO EM AGRAVO EM AGRAVO DE INSTRUMENTO EM RECURSO DE REVISTA.
+IMPUGNAÇÃO DE DECISÃO COLEGIADA. INCABÍVEL. 1. Trata-se de agravo interposto pela
+reclamada contra acórdão desta 1ª Turma, mediante o qual negado provimento ao seu recurso
+de agravo, confirmando a decisão monocrática. 2. Nos termos da OJ 412 da SDI-I/TST: "É
+incabível agravo interno (art. 1.021 do CPC de 2015, art. 557, §1º, do CPC de 1973)
+ou agravo regimental (art. 235 do RITST) contra decisão proferida por Órgão colegiado. Tais recursos
+destinam-se, exclusivamente, a impugnar decisão monocrática nas hipóteses previstas. Inaplicável,
+no caso, o princípio da fungibilidade ante a configuração de erro grosseiro". 3. Caracterizada a
+interposição de agravo manifestamente incabível, impõe-se aplicação da multa prevista no art. 1.021,
+§4º, do CPC, de 1% sobre o valor atualizado da causa. Agravo não conhecido, com aplicação de multa.
+(Ag-Ag-AIRR - 549-44.2013.5.02.0011, Relator Ministro: Hugo Carlos Scheuermann, Data de
+Julgamento: 06/06/2018, 1ª Turma , Data de Publicação: DEJT 08/06/2018)
+AGRAVO REGIMENTAL. AGRAVO DE INSTRUMENTO. RECURSO DE REVISTA. LEI
+13.015/2014. AGRAVO REGIMENTAL EM FACE DE DECISÃO PROFERIDA POR ÓRGÃO COLEGIADO.
+NÃO CABIMENTO. É incabível agravo regimental interposto contra decisão proferida por órgão
+colegiado. Tal recurso impugna, exclusivamente, decisão monocrática (art. 265 do RITST). Inaplicável,
+no caso, o princípio da fungibilidade recursal por se tratar de erro grosseiro. Inteligência da OJ 412 da
+SBDI-1/TST. Agravo regimental não conhecido. (Ag-AIRR-1002127-69.2016.5.02.0027, 2ª Turma ,
+Relatora Ministra Maria Helena Mallmann, DEJT 04/10/2019)
+AGRAVO. DECISÃO COLEGIADA EM AGRAVO DE INSTRUMENTO E EM RECURSO DE REVISTA.
+INCABÍVEL. OJ 412 DA SBDI-1 DO TST. A pretensão recursal dirigida à decisão de Colegiado desta
+Corte , proferida em agravo de instrumento em recurso de revista , não se enquadra no disposto no
+art. 265 do RITST, que regula o cabimento do recurso de agravo. Logo, absolutamente inadequado o
+uso da via recursal eleita. Inaplicabilidade do princípio da fungibilidade à espécie, porquanto
+configurado erro grosseiro. Incidência da OJ 412 da SBDI-1 do TST. Agravo não conhecido, com
+imposição de multa de 2%, nos termos do § 4° do art. 1.021 do CPC, ante a manifesta
+inadmissibilidade. (Ag-ARR-343-61.2015.5.08.0118, 6ª Turma , Relator Ministro Augusto César Leite de
+Carvalho, DEJT 04/10/2019)
+AGRAVO EM AGRAVO EM AGRAVO DE INSTRUMENTO EM RECURSO DE REVISTA INTERPOSTO
+SOB A ÉGIDE DA LEI 13.015/2014 - DECISÃO COLEGIADA. INTERPOSIÇÃO DE AGRAVO INTERNO.
+RECURSO INCABÍVEL. PRINCÍPIO DA FUNGIBILIDADE RECURSAL INAPLICÁVEL. A interposição
+de agravo ou de agravo regimental contra decisão colegiada constitui erro grosseiro, ou seja,
+hipótese na qual não se aplica o princípio da fungibilidade recursal, nos termos da OJ 412 da SbDI-1
+do TST. Agravo não conhecido. (Ag-Ag-AIRR - 1504-42.2011.5.10.0102, Relator Ministro: Márcio Eurico
+Vitral Amaro, Data de Julgamento: 20/06/2018, 8ª Turma , Data de Publicação: DEJT 22/06/2018)
+Pelo exposto, NÃO CONHEÇO do agravo, por ser manifestamente incabível. Este documento pode ser acessado no endereço eletrônico http://www.tst.jus.br/validador sob código 100670F93EFEE6B554.
+ISTO POSTO
+ACORDAM os Ministros da Terceira Turma do Tribunal Superior do Trabalho, à
+unanimidade, não conhecer do agravo.
+Brasília, 4 de maio de 2026.
+Firmado por assinatura digital (MP 2.200-2/2001)
+MAURICIO GODINHO DELGADO
+Ministro Relator
+Firmado por assinatura digital em 30/04/2026 pelo sistema AssineJus da Justiça do Trabalho, conforme MP 2.200-2/2001, que instituiu a Infra-Estrutura
+de Chaves Públicas Brasileira. Este documento pode ser acessado no endereço eletrônico http://www.tst.jus.br/validador sob código 100670F93EFEE6B554.
