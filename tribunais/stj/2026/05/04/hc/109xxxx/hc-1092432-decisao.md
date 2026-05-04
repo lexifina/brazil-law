@@ -1,0 +1,16 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em nome de SIDNEI IZIDORIO DOS SANTOS, condenado à pena de 8 anos e 4 meses de reclusão, em regime inicial fechado, como incurso no art. 2º, §§ 2º e 3º, da Lei n. 12.850/2013 (Processo n. 1011077-15.2022.8.26.0229, da 2ª Vara Criminal da comarca de Hortolândia/SP).
+O impetrante aponta como autoridade coatora o Desembargador do Tribunal de Justiça do Estado de São Paulo, que, em 24/4/2026, indeferiu o pedido liminar formulado no HC n. 2094222-18.2026.8.26.0000 (fls. 17/18).
+Alega a necessidade de superação da Súmula 691/STF, ante a flagrante ilegalidade e a mora estatal no processamento dos recursos. Sustenta excesso de prazo qualificado da prisão cautelar - custódia desde 31/5/2024 (fl. 81) -, sem julgamento da apelação interposta e recebida em dezembro de 2024. Aponta falha estatal sucessiva, com duas devoluções dos autos pela instância superior para regularização de vícios formais, sem solução. Indica demora imputável a terceiros, por reiterada inércia dos patronos de corréus na interposição de apelações e na apresentação de contrarrazões. Menciona a ausência de perspectiva concreta de julgamento, com o processo ainda em fase de regularização.
+Em caráter liminar, pede suspensão da prisão cautelar e expedição de alvará de soltura. No mérito, requer o reconhecimento do excesso de prazo e o direito do paciente de responder em liberdade.
+Estes autos foram distribuídos a mim por prevenção.
+É o relatório.
+Na espécie, incide o enunciado da Súmula 691/STF, também observado por esta Corte, que afasta a impetração de habeas corpus contra o indeferimento de pedido liminar formulado no Tribunal a quo; tal compreensão somente pode ser excepcionada quando comprovada, de modo inequívoco nos autos, a ocorrência de flagrante ilegalidade ou abuso de poder - o que não se configurou no caso concreto.
+A liminar foi indeferida porque, em juízo perfunctório, não se vislumbraram os pressupostos necessários à medida de urgência requerida, determinando-se o aguardo do julgamento colegiado após a prestação de informações pela origem.
+Com efeito, as questões trazidas na impetração não foram ainda enfrentadas pelo colegiado competente. Não se admite a pretendida supressão de instância.
+Ademais, à primeira vista, pela leitura das informações (fls. 10/16), aplicável seria a Súmula 64/STJ, ante o indicativo de que a delonga pelas sucessivas devoluções dos autos à primeira instância para regularização e a necessidade de novas intimações para possibilitar o julgamento dos recursos decorrem, em grande parte, da inércia defensiva de corréus, ainda que tenham reafirmado persistirem na representação, impondo a adoção de medidas como nomeação de dativos e comunicação à Ordem dos Advogados do Brasil. Não havendo notícia de eventual pedido de cisão do processo para dar melhor andamento ao feito na origem.
+A teor do disposto no art. 210 do RISTJ, indefiro liminarmente o presente habeas corpus.
+Publique-se.
+EMENTA
+HABEAS CORPUS CONTRA O INDEFERIMENTO DE PEDIDO LIMINAR EM PRÉVIO MANDAMUS. OPERAÇÃO INSÍDIA . COMANDO DE ORGANIZAÇÃO CRIMINOSA ARMADA. PRISÃO CAUTELAR. EXCESSO DE PRAZO PARA JULGAMENTO DA APELAÇÃO. SÚMULA 691/STF. SUPRESSÃO DE INSTÂNCIA. INVIABILIDADE. INEXISTÊNCIA DE ABUSO DE PODER OU FLAGRANTE ILEGALIDADE.
+Writ indeferido liminarmente.
