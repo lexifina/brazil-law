@@ -1,0 +1,64 @@
+DECISÃO
+
+RECLAMAÇÃO. CONSTITUCIONAL. ALEGADA CONTRARIEDADE AO DECIDIDO PELO SUPREMO TRIBUNAL FEDERAL NOS TEMAS 191, 612 E 916 DA REPERCUSSÃO GERAL. ACÓRDÃO TRANSITADO EM JULGADO: SÚMULA N. 734 DO SUPREMO TRIBUNAL FEDERAL. IMPOSSIBILIDADE DE UTILIZAÇÃO DA RECLAMAÇÃO COMO SUCEDÂNEO DE AÇÃO RESCISÓRIA. RECLAMAÇÃO NÃO CONHECIDA.
+
+Relatório
+1. Reclamação, com requerimento de medida liminar, ajuizada por Adriana Maria de Souza Silva, em 28.4.2026, contra o acórdão da Primeira Turma Recursal do Estado de Santa Catarina no Processo n. 5053101-12.2024.8.24.0023, pelo qual teria sido desrespeitado o decidido pelo Supremo Tribunal Federal nos Temas 19, 612 e 916 de repercussão geral.
+
+2. A reclamante alega que “o ato reclamado consiste no acórdão proferido pela referida Turma Recursal que, ao examinar a controvérsia envolvendo sucessivas contratações temporárias de professora da rede pública estadual, concluiu pela inexistência de nulidade contratual, afastou a incidência do Tema 612 da Repercussão Geral e declarou inaplicáveis os Temas 191 e 916 do Supremo Tribunal Federal, negando, por consequência, o direito ao FGTS e às verbas correlatas pleiteadas pela Reclamante” (fl. 2, e-doc. 1).
+
+Requer seja deferida justiça gratuita.
+
+Requer medida liminar para “a imediata suspensão dos efeitos do acórdão proferido pela 1ª Turma Recursal do Estado de Santa Catarina nos autos do processo nº 5053101-12.2024.8.24.0023, bem como a suspensão da exigibilidade de quaisquer verbas sucumbenciais dele decorrentes, até o julgamento final da presente medida” (fl. 11, e-doc. 1).
+
+Pede “seja julgada totalmente procedente a presente Reclamação Constitucional, reconhecendo-se que o acórdão reclamado afrontou a autoridade das decisões vinculantes proferidas pelo Supremo Tribunal Federal nos Temas 191, 612 e 916 da Repercussão Geral” (fl. 11, e-doc. 1).
+
+Examinados os elementos havidos no processo, DECIDO.
+
+3. Defiro o pedido de justiça gratuita, nos termos do art. 98 do Código de Processo Civil c/c o art. 62 do Regimento Interno do Supremo Tribunal Federal.
+
+4. No parágrafo único do art. 161 do Regimento Interno do Supremo Tribunal Federal, dispõe-se que “o Relator poderá julgar a reclamação quando a matéria for objeto de jurisprudência consolidada do Tribunal”, como ocorre na espécie.
+
+5. Põe-se em foco na presente ação se, a autoridade reclamada teria descumprido o decidido pelo Supremo Tribunal Federal nos Temas 19, 612 e 916 de repercussão geral.
+6. A reclamante não juntou aos autos cópia do acórdão proferido pela Primeira Turma Recursal do Estado de Santa Catarina no Processo n. 5053101-12.2024.8.24.0023.
+
+Entretanto, por economia processual, deixo de abrir prazo para que a reclamante emende a petição inicial por se comprovar, de imediato, a inviabilidade jurídico-processual da presente reclamação.
+
+7. A presente reclamação não pode ter processamento válido neste Supremo Tribunal.
+
+Prevalece a jurisprudência no sentido de ser incabível, em reclamação, a rediscussão de matéria objeto de ato transitado em julgado. Incide, na espécie, a Súmula n. 734 do Supremo Tribunal Federal. Assim, por exemplo:
+“CONSTITUCIONAL E PROCESSUAL CIVIL. RECLAMAÇÃO. AJUIZAMENTO CONTRA ACÓRDÃO JÁ TRANSITADO EM JULGADO. NÃO CABIMENTO. SÚMULA 734 DESTA CORTE. RECLAMAÇÃO A QUE SE NEGA SEGUIMENTO. 1. ‘Não cabe reclamação quando já houver transitado em julgado o ato judicial que se alega tenha desrespeitado decisão do Supremo Tribunal Federal’ (Súmula 734 do STF). 2. Impossibilidade de utilização de reclamação como sucedâneo de ação rescisória. 3. Agravo regimental não provido” (Rcl n. 7.725-AgR, Relator o Ministro Teori Zavascki, Plenário, DJ 20.2.2014).
+
+“AGRAVO REGIMENTAL NA RECLAMAÇÃO. NÃO CABE EM RECLAMAÇÃO REDISCUTIR MATÉRIA OBJETO DE PROCESSO DE CONHECIMENTO COM TRÂNSITO EM JULGADO, PARA A RESOLUÇÃO DE INCIDENTES NA EXECUÇÃO. SÚMULA N. 734 DO SUPREMO TRIBUNAL FEDERAL. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO” (Rcl n. 16.271-AgR, Relatora a Ministra Cármen Lúcia, Plenário, DJe 6.12.2013).
+
+“AGRAVO REGIMENTAL. RECLAMAÇÃO. COMPETÊNCIA. DECISÃO DA JUSTIÇA DO TRABALHO QUE SUPOSTAMENTE DESRESPEITA A DECISÃO DESTE SUPREMO TRIBUNAL FEDERAL NA ADI 3.395-MC. TRÂNSITO EM JULGADO (SÚMULA 734). Não cabe reclamação quando já houver transitado em julgado o ato judicial que, segundo se alega, teria desrespeitado decisão do Supremo Tribunal Federal. Ante a irrecorribilidade da decisão no âmbito da Justiça do Trabalho, deveria o agravante ter se utilizado da reclamação constitucional quando proferido o primeiro acórdão que tratou do tema relativo à competência para julgar a ação. Agravo regimental a que se nega provimento” (Rcl n. 9.892-AgR, Relator o Ministro Joaquim Barbosa, Plenário, DJe 4.6.2012).
+
+8. Dispõe-se, no inc. I do § 5º do art. 988 do Código de Processo Civil, ser “inadmissível a reclamação: I – proposta após o trânsito em julgado da decisão reclamada”.
+
+Contra o acórdão apontado como reclamado Adriana Maria de Souza Silva interpôs recurso extraordinário com agravo.
+
+O Recurso Extraordinário com Agravo n. 1.585.787 teve seguimento negado pelo Presidente deste Supremo Tribunal Federal e essa decisão transitou em julgado em 17.4.2026.
+
+A argumentação da reclamante revela pretensão de aproveitar-se indevidamente da reclamação, com finalidade imprópria e divorciada de sua vocação constitucional, buscando fazer uso dela como sucedâneo de ação rescisória, o que não é admitido pelo Supremo Tribunal Federal.
+
+Nesse sentido, por exemplo:
+“SEGUNDO AGRAVO REGIMENTAL NA RECLAMAÇÃO. CONSTITUCIONAL. PRESTAÇÃO DE SERVIÇO ESPECIALIZADO DE CONSULTORIA. ‘PEJOTIZAÇÃO’. RECONHECIMENTO DE VÍNCULO DE EMPREGO. ALEGADA CONTRARIEDADE AO DECIDIDO PELO SUPREMO TRIBUNAL FEDERAL NA AÇÃO DIRETA DE INCONSTITUCIONALIDADE N. 2.418, NA ARGUIÇÃO DE DESCUMPRIMENTO DE PRECEITO FUNDAMENTAL N. 324/DF E NOS RECURSOS EXTRAORDINÁRIOS NS. 958.252 (TEMA 725) E 611.503 (TEMA 360) DA REPERCUSSÃO GERAL. APONTADA INEXIGIBILIDADE DO TÍTULO JUDICIAL TRANSITADO EM JULGADO. IMPOSSIBILIDADE DE REDISCUSSÃO, EM RECLAMAÇÃO, DE MATÉRIA TRANSITADA EM JULGADO: SÚMULA N. 734 DO SUPREMO TRIBUNAL FEDERAL. IMPOSSIBILIDADE DE USO DA RECLAMAÇÃO COMO SUCEDÂNEO DE AÇÃO RESCISÓRIA. AGRAVO REGIMENTAL DESPROVIDO” (Rcl n. 66.716-AgR-segundo, Relatora a Ministra Cármen Lúcia, Primeira Turma, DJe 15.8.2024).
+
+“AGRAVO REGIMENTAL NA RECLAMAÇÃO. CONSTITUCIONAL. PRESTAÇÃO DE SERVIÇOS AUTÔNOMOS. RECONHECIMENTO DE VÍNCULO DE EMPREGO. ALEGADA CONTRARIEDADE AO DECIDIDO PELO SUPREMO TRIBUNAL FEDERAL NAS AÇÕES DIRETAS DE INCONSTITUCIONALIDADE NS. 2.418, 3.740 E 5.625, NA AÇÃO DECLARATÓRIA DE CONSTITUCIONALIDADE N. 48, NA ARGUIÇÃO DE DESCUMPRIMENTO DE PRECEITO FUNDAMENTAL N. 324/DF E NOS RECURSOS EXTRAORDINÁRIOS NS. 730.462 (TEMA 733), 586.068 (TEMA 100), 958.252 (TEMA 725) E 611.503 (TEMA 360) DA REPERCUSSÃO GERAL. APONTADA INEXIGIBILIDADE DO TÍTULO JUDICIAL TRANSITADO EM JULGADO. IMPOSSIBILIDADE DE REDISCUSSÃO, EM RECLAMAÇÃO, DE MATÉRIA TRANSITADA EM JULGADO: SÚMULA N. 734 DO SUPREMO TRIBUNAL FEDERAL. IMPOSSIBILIDADE DE USO DA RECLAMAÇÃO COMO SUCEDÂNEO DE AÇÃO RESCISÓRIA. PRECEDENTES. AGRAVO REGIMENTAL DESPROVIDO, COM APLICAÇÃO DE MULTA DE 1% SOBRE O VALOR ATUALIZADO DA CAUSA, SE UNÂNIME A VOTAÇÃO” (Rcl n. 75.849-AgR, Relatora a Ministra Cármen Lúcia, Primeira Turma, DJe 26.3.2.2025).
+
+“AGRAVO REGIMENTAL NA RECLAMAÇÃO. ALEGADO DESCUMPRIMENTO DAS DECISÕES PROFERIDAS NA AÇÃO DECLARATÓRIA DE CONSTITUCIONALIDADE N. 16 E NO RECURSO EXTRAORDINÁRIO N. 760.931, TEMA 246. TRÂNSITO EM JULGADO DA DECISÃO RECLAMADA ANTES DO AJUIZAMENTO DA RECLAMAÇÃO: SÚMULA N. 734 DO SUPREMO TRIBUNAL FEDERAL. IMPOSSIBILIDADE DE UTILIZAÇÃO DA RECLAMAÇÃO COMO SUCEDÂNEO DE AÇÃO RESCISÓRIA. AUSÊNCIA DE IDENTIDADE MATERIAL. ALEGADA USURPAÇÃO DE COMPETÊNCIA DO SUPREMO TRIBUNAL FEDERAL. INOCORRÊNCIA. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO” (Rcl n. 49.793-AgR, Relatora a Ministra Cármen Lúcia, Primeira Turma, DJe 18.11.2021).
+
+“DIREITO DO TRABALHO. AGRAVO REGIMENTAL NA RECLAMAÇÃO. CONTRATO DE PRESTAÇÃO DE SERVIÇOS FIRMADO ENTRE PESSOAS JURÍDICAS. RECONHECIMENTO DE RELAÇÃO DE EMPREGO. NÃO CONHECIMENTO DE EXCEÇÃO DE PRÉ-EXECUTIVIDADE. ALEGAÇÃO DE AFRONTA AO RE 611.503 (TEMA 360 DA REPERCUSSÃO GERAL). NÃO ESGOTAMENTO DE INSTÂNCIAS ORDINÁRIAS. ALEGAÇÃO DE AFRONTA À SÚMULA VINCULANTE 10. NÃO OCORRÊNCIA. DECISÃO QUE NÃO ESTÁ FUNDAMENTADA NA INCOMPATIBILIDADE DE NORMA LEGAL COM A CONSTITUIÇÃO FEDERAL. ALEGAÇÃO DE AFRONTA À ADPF 324, À ADC 48, À ADI 3961, À ADI 5625 E AO RE 958.252 (TEMA 725 - REPERCUSSÃO GERAL). ANÁLISE DE FATOS E PROVAS NA INSTÂNCIA PRÓPRIA. IMPOSSIBILIDADE DE REVOLVIMENTO DO ACERVO PROBATÓRIO NA EXCEPCIONAL VIA DA RECLAMAÇÃO CONSTITUCIONAL. IMPOSSIBILIDADE DE REDISCUSSÃO DE MATÉRIA TRANSITADA EM JULGADO. A RECLAMAÇÃO NÃO PODE FUNCIONAR COMO SUCEDÂNEO DE AÇÃO RESCISÓRIA. AGRAVO A QUE SE NEGA PROVIMENTO. I. CASO EM EXAME 1. Cuida-se de reclamação constitucional ajuizada contra decisão proferida, em sede de cumprimento de sentença, que não conheceu de exceção de pré-executividade e manteve decisão da Justiça do Trabalho que - após instrução probatória - reconheceu a presença dos requisitos caracterizadores de vínculo empregatício na relação estabelecida entre empresa e trabalhador contratado mediante pessoa jurídica. 2. A agravante alega que o título executivo é inexigível, pois supostamente incompatível com o assentado na ADPF 324, na ADC 48, na ADI 3961, na ADI 5625 e no RE 958.252 (Tema 725 da Repercussão Geral). Destaca que a inexigibilidade do título leva à aplicação do RE 611.503 (Tema 360 - RG) e que a manutenção do cumprimento de sentença/execução implica afronta à Súmula Vinculante 10 por afastar a incidência do art. 525, §§ 11, 12 e 14 do CPC/2015, e do art. 884, §5º, da CLT. II. QUESTÃO EM DISCUSSÃO 3. Está em discussão saber se viola a ADPF 324, a ADC 48, a ADI 3961, a ADI 5625, o RE 958.252 (Tema 725 - Repercussão Geral), o RE 611.503 (Tema 360 da Repercussão Geral) e a Súmula Vinculante 10 decisão que não conhece de exceção de pré-executividade e mantém execução de acórdão da Justiça do Trabalho que - após instrução probatória - reconheceu a presença dos requisitos caracterizadores de vínculo empregatício na relação estabelecida entre empresa e trabalhador contratado mediante pessoa jurídica. III. RAZÕES DE DECIDIR 4. Esgotamento de instância não evidenciado para fins de enfrentamento do Tema 360 - RG. Contudo, ainda que se ultrapassasse tal óbice, a agravante não obteria êxito ante a impossibilidade da reclamação constitucional funcionar como sucedâneo de ação rescisória. 5. Quase dois anos após o trânsito em julgado do acórdão exequendo, a reclamante reabre discussão quanto à ocorrência de violação dos paradigmas de controle invocados, o que é inviável. Não se trata de estabelecer limitação temporal ou condicional para os efeitos rescisórios dos instrumentos processuais previstos nos arts. 525, § 1º, III e §§ 12 e 14, e 535, § 5º, CPC/2015 ou no art. 884, §5º, da CLT, mas sim de evitar que a reclamação seja indevidamente utilizada como sucedâneo de ação rescisória a fim de possibilitar rediscussão de matéria coberta pelo trânsito em julgado, o que não atende à finalidade constitucional deste tipo de ação. Precedentes e Súmula 734, STF. 6. À semelhança do que ocorre com o Habeas Corpus, a Reclamação Constitucional não se presta à análise verticalizada de fatos e provas ou para funcionar como sucedâneo recursal. Precedentes. 7. A mudança de entendimento visada depende de revolvimento fático-probatório, pois, para afastar o vínculo de emprego reconhecido pela origem, há necessidade de reanalisar fatos e provas já valorados pela Justiça do Trabalho. Não obstante, tais elementos não são passíveis de nova aferição pela via estreita da reclamação, após o trânsito em julgado da decisão de mérito. 8. Não ocorrência de violação à Súmula Vinculante 10, na medida em que não houve qualquer afastamento de dispositivos do CPC/2015 e da CLT com fundamento em incompatibilidade com Constituição da República. IV. DISPOSITIVO 9. Agravo regimental a que se nega provimento” (Rcl n. 68.126-AgR, Relator o Ministro Flávio Dino, Primeira Turma, DJe 19.12.2024).
+
+Ausentes os requisitos processuais viabilizadores do regular trâmite desta reclamação.
+
+9. Pelo exposto, não conheço da presente reclamação (inc. I do § 5º do art. 988 do Código de Processo Civil e § 1º do art. 21 do Regimento Interno do Supremo Tribunal Federal), prejudicado o requerimento de medida liminar.
+
+Ressalte-se que eventual recurso manifestamente inadmissível contra esta decisão demonstraria apenas inconformismo e resistência em pôr termo a processos que se arrastam em detrimento da eficiente prestação jurisdicional, o que sujeitaria a parte à aplicação da multa processual do § 4º do art. 1.021 do Código de Processo Civil.
+
+Publique-se.
+
+Brasília, 4 de maio de 2026.
+
+Ministra CÁRMEN LÚCIA
+Relatora
