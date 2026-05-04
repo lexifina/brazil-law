@@ -1,0 +1,16 @@
+DECISÃO
+HIGOR JESUS DE SOUZA alega ser vítima de coação ilegal em decorrência de acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo na Apelação Criminal n. 1517508-45.2021.8.26.0228.
+Trata-se de carta manuscrita recebida e processada na forma estabelecida pelo Acordo de Cooperação Técnica n. 3/2025, celebrado entre esta Corte Superior e a Defensoria Pública da União.
+Consta dos autos que o paciente foi condenado à pena de 20 anos, 6 meses e 20 dias de reclusão, em regime inicial fechado, mais multa, pela prática dos crimes previstos nos arts. 157, §§ 2º, II e 2º-A, I, por cinco vezes, em continuidade delitiva, e 158, §§ 1º e 3º, por quatro vezes, em continuidade delitiva, ambos do Código Penal, em concurso material.
+A defesa aduz, em síntese, a existência de ilegalidades na dosimetria da pena.
+Assim, requer, liminarmente, a suspensão da execução da penal n. 7000729-26.2014.8.26.0224 em curso na 2ª Vara de Execuções Criminais de Taubaté/SP, até o julgamento final do habeas corpus. No mérito, postula o reconhecimento das ilegalidades assinaladas e, por conseguinte, a fixação da pena definitiva de 8 anos de reclusão.
+Decido.
+Este habeas corpus se insurge contra acórdão de apelação criminal prolatado em 12/8/2022, transitado em julgado no dia 20/9/2022, conforme certidão disponível no site do Tribunal de origem. Em 8/4/2026, a defesa impetrou este writ, de modo que a medida é substitutiva de revisão criminal.
+Por força do art. 105, I, "e", da Constituição Federal, a competência desta Corte para processar e julgar revisão criminal limita-se às hipóteses de seus próprios julgados. Como não existe no STJ julgamento de mérito passível de revisão em relação à condenação sofrida pelo paciente, forçoso reconhecer a incompetência deste Tribunal para o processamento do presente pedido.
+Importante destacar que esta Corte Superior, em diversas ocasiões, reconheceu a impossibilidade de uso do habeas corpus em substituição à revisão criminal, assim se posicionando: "o trânsito em julgado do acórdão que julga a apelação criminal, sem que haja a inauguração da competência deste Sodalício, torna incognoscível o pedido de habeas corpus" (AgRg no HC n. 805.183/SP, relator Ministro Teodoro Silva Santos, Sexta Turma, julgado em 12/3/2024, DJe de 15/3/2024).
+Na mesma direção, cito, ainda, as seguintes decisões monocráticas: HC n. 905.628/SP, Rel. Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), 6T, DJe 17/4/2024; HC n. 905.340/SP, Rel. Ministra Daniela Teixeira, 5T, DJe 17/4/2024; HC n. 905.232/SP, Rel. Ministro Messod Azulay Neto, 5T, DJe 17/4/2024; HC n. 904.932/PR, Rel. Ministro Antonio Saldanha Palheiro, 6T, DJe 16/4/2024.
+Muito embora não se ignore a ampliação do uso do habeas corpus nem a importância dessa ação constitucional para a defesa da liberdade de locomoção, a crescente quantidade de impetrações, que, antes, deveriam ser examinadas em instâncias diversas, prejudica as funções constitucionais desta Corte, em detrimento da eficácia do recurso especial, o que enfraquece a delimitação de teses para trazer uniformidade e previsibilidade ao sistema jurídico.
+Registro, por oportuno, que não constato a presença de manifesta ilegalidade que autorize a concessão da ordem de habeas corpus de ofício.
+À vista do exposto, indefiro liminarmente o habeas corpus.
+Publique-se e intimem-se.
+EMENTA
