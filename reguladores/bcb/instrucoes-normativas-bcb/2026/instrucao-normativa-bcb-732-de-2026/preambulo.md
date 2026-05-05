@@ -1,0 +1,4 @@
+Resolução Nº 222 INSTRUÇÃO NORMATIVA BCB Nº 732, DE 4 DE MAIO DE 2026
+Altera a Carta Circular nº 4.001, de 29 de janeiro de 2020, que divulga relação de operações e situações que podem configurar indícios de ocorrência dos crimes de "lavagem" ou ocultação de bens, direitos e valores, de que trata a Lei nº 9.613, de 3 de março de 1998, e de financiamento ao terrorismo, previstos na Lei nº 13.260, de 16 de março de 2016, passíveis de comunicação ao Conselho de Controle de Atividades Financeiras (Coaf), e divulga decisão do Supremo Tribunal Federal (STF) sobre saques em espécie de valores provenientes de emendas parlamentares.
+Os Chefes do Departamento de Regulação do Sistema Financeiro (Denor) e do Departamento de Supervisão de Conduta (Decon) do Banco Central do Brasil, no uso da atribuição que lhes confere o art. 23, inciso I, alínea "a", do Regimento Interno do Banco Central do Brasil, anexo à Resolução BCB nº 340, de 21 de setembro de 2023,
+R E S O L V E M :
