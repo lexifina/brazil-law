@@ -1,0 +1,6 @@
+Artigo 36-A - É instituído o Adicional de Qualificação - AQ destinado aos servidores do Tribunal de Justiça Militar do Estado de São Paulo, em razão dos conhecimentos adicionais adquiridos, comprovados por meio de títulos, diplomas ou certificados de cursos de graduação, pós-graduação, em sentido amplo ou estrito. (NR)
+§ 1° - O adicional de que trata este artigo não será concedido quando o curso constituir requisito ou estiver no mesmo nível de escolaridade para ingresso no cargo efetivo ou em comissão. (NR)
+§ 2° - Para efeito do disposto neste artigo, serão considerados somente os cursos e as instituições de ensino reconhecidos pelo Ministério da Educação, na forma da legislação. (NR)
+§ 3° - Serão admitidos cursos de pós-graduação "lato sensu" somente com duração mínima de 360 (trezentas e sessenta) horas. (NR)
+§ 4° - O adicional de que trata este artigo não se incorporará para nenhum efeito e sobre ele não incidirá vantagem de qualquer natureza. (NR)
+§ 5° - O adicional contemplará os aposentados somente se o título ou o diploma forem anteriores à data da inativação. (NR)
