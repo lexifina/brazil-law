@@ -1,0 +1,23 @@
+DECISÃO
+Trata-se de agravo regimental interposto por LEONARDO GABRIEL DE ABREU contra decisão de minha relatoria às fls. 76/82, que indef eriu liminarmente o habeas corpus impetrado em seu favor, ante a inexistência de flagrante ilegalidade na decretação da prisão preventiva.
+Nas razões recursais, a defesa insiste na ilegalidade da decisão que decretou a custódia cautelar, pois amparada apenas na quantidade de droga apreendida e na reincidência do agravante, sem demonstração de risco concreto à ordem pública ou à regular tramitação do processo.
+Requer, assim, a reconsideração da decisão agravada, ou a submissão do recurso a julgamento no órgão colegiado.
+É o breve relatório.
+Decido.
+O recurso está prejudicado.
+Em pesquisa ao sistema eletrônico oficial do Tribunal de origem, verifica-se que, em 25/3/2026, foi proferida sentença nos autos da ação penal n. 1514357-22.2025.8.26.0393, na qual o ora agravante foi condenado à pena de 5 anos de reclusão, no regime inicial fechado, além do pagamento de 500 dias-multa, pela prática do crime de tráfico de drogas (art. 33, caput, da Lei n. 11.343/2006), sendo mantida a sua prisão cautelar.
+Na hipótese, além da sentença condenatória ser posterior ao acórdão ora impugnado, constata-se que o magistrado de primeiro grau agregou fundamentos diversos aos utilizados pelo Tribunal de origem, para fins de afastamento das teses referentes às nulidades processuais - o que destaca a existência de novo título judicial acerca da matéria controvertida apresentada no presente mandamus.
+Nesse contexto, diante da alteração do cenário fático-processual, consubstanciada no advento de novo título judicial decorrente da sentença condenatória, fica superada a alegação trazida na impetração que ataca os fundamentos do acórdão proferido pela Corte local em sede de habeas corpus.
+Ademais, conforme sedimentado pela jurisprudência do Superior Tribunal de Justiça - STJ, a irresignação contra os fundamentos acrescidos ao novo título judicial deve ser submetida à análise do Tribunal de origem antes de serem aqui apreciados, sob pena de se incorrer em indevida supressão de instância.
+A propósito:
+AGRAVO REGIMENTAL EM HABEAS CORPUS. TRÁFICO DE DROGAS. PRISÃO PREVENTIVA. SUPERVENIÊNCIA DE SENTENÇA CONDENATÓRIA. NOVO TÍTULO. NOVA FUNDAMENTAÇÃO. EFEITOS DA CONDENAÇÃO. PERDA DO OBJETO.
+1. Na sentença condenatória, foi novamente analisado o cenário fático- processual, entendendo-se necessária a manutenção da custódia do réu, pois, além de ainda estarem presentes as causas que a determinaram, agora tal medida é reforçada com novo fundamento, ou seja, como um efeito da própria condenação penal (a reprimenda fixada).
+2. Ora, a superveniência de sentença penal condenatória, na qual se nega ao acusado o direito de recorrer em liberdade, com novos fundamentos para justificar a prisão preventiva conduz à prejudicialidade da ação constitucional de habeas corpus ou do recurso em habeas corpus dirigidos contra decisão antecedente de constrição cautelar (AgRg no HC n. 461.932/SP, Ministra Laurita Vaz, Sexta Turma, DJe 19/08/2019). 3. Agravo regimental improvido (AgRg no RHC 157.779/MA, de minha relatoria, Sexta Turma, DJe 21/02/2022).
+3.  ..  In casu, da leitura da sentença condenatória, verifica-se que o Magistrado de primeiro grau manteve a custódia cautelar do agravante, agregando fundamentos novos ao decreto prisional, tendo ressaltado que: "Sendo conveniente assegurar a aplicação da lei penal em consideração ao crime praticado e tempo de pena arbitrada, preserva-se o estado de custódia do processado". Dessa forma, quanto à ausência de fundamentos da prisão preventiva, o pleito encontra-se prejudicado (AgRg no HC n. 712.721/RJ, Ministro Joel Ilan Paciornik, Quinta Turma, DJe 02/03/2022).
+4. Agravo regimental improvido.
+(AgRg no HC n. 717.891/SP, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 10/5/2022, DJe de 13/5/2022.)
+Assim, diante do atual cenário processual, caberá à Corte estadual o exame da ilegalidade em sede de eventual re curso de apelação, uma vez que "o recurso de apelação detém efeito devolutivo amplo, cujo âmbito de cognição permite que o Tribunal de origem examine, com maior amplitude e profundidade, todo o conjunto fático-probatório colhido durante a instrução criminal e as questões jurídicas subjacentes, com todas as suas nuanças, sem a limitação cognitiva da via mandamental" (AgRg no HC n. 802.005, Ministro Sebastião Reis Júnior, DJe de 13/03/2023).
+Ante o exposto, com fundamento no art. 34, XX, do Regimento Interno do Superior Tribunal de Justiça, julgo prejudicado o presente habeas co rpus.
+Publique-se.
+Intimem-se.
+EMENTA
