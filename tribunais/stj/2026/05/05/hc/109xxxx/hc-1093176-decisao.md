@@ -1,0 +1,12 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido de liminar, impetrado em favor de ENDREW DE CASTRO MARTINS RODRIGUES, apontando como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE SANTA CATARINA, em decorrência do julgamento do habeas corpus n. 5020049-26.2026.8.24.0000.
+Consta nos autos que o paciente foi inicialmente condenado pelo Juízo da 2ª Vara Criminal da Comarca de Palhoça à pena de 6 (seis) anos e 27 (vinte e sete) dias de reclusão, em regime inicial semiaberto, além de 15 (quinze) dias de detenção e 617 (seiscentos e dezessete) dias-multa, por infração aos artig os 33, caput, combinado com 40, inciso V, da Lei n. 11.343/2006, e 330 do Código Penal, na forma do artigo 69 do Código Penal.
+A defesa impetrou habeas corpus ao Tribunal de Justiça do Estado de Santa Catarina, que denegou a ordem e manteve a prisão preventiva.
+Na presente impetração, busca-se a concessão da ordem para: (i) revogar a prisão preventiva diante da fixação do regime inicial semiaberto; e (ii) assegurar o direito de aguardar o trânsito em julgado em liberdade.
+É o relatório. DECIDO.
+De fato, embora a segregação em geral seja tema de extrema relevância, das simples alegações da Defesa, não se pode extrair a certeza necessária à eventual análise e concessão da ordem.
+Verifica-se a instrução deficiente da impetração, devido à ausência do inteiro teor do acórdão recorrido, o que não permite a perfeita compreensão da controvérsia.
+Está pacificado no Superior Tribunal de Justiça que "é dever do impetrante instruir o writ com os documentos necessários ao deslinde da controvérsia, de modo que a falta da íntegra do ato coator torna inviável a análise dos pedidos" (AgRg no HC n. 790.533/SC, relator Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), Sexta Turma, julgado em 17/4/2023, DJe de 20/4/2023).
+Ademais, doutrina e a jurisprudência entendem que o habeas corpus, por constituir ação mandamental cuja principal característica é a sumariedade, não possui fase instrutória, vale dizer, "a inicial deve vir acompanhada de prova documental pré-constituída, que propicie o exame, pelo juiz ou tribunal, dos fatos caracterizadores do constrangimento ou ameaça, bem como de sua ilegalidade, pois ao impetrante incumbe o ônus da prova" (GRINOVER, A.P.; FILHO, A. M. G.; FERNANDES, A.S. Recursos no Processo Penal, ed. Rev. dos Tribunais, 2011, p. 298).
+Ante o exposto, não conheço o presente habeas corpus.
+EMENTA
