@@ -1,0 +1,20 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em nome de JOAO VITOR PEREIRA SAJORI, condenado pelo crime de receptação simples à pena de 1 ano e 4 meses de reclusão, em regime inicial semiaberto, e ao pagamento de 13 dias-multa (Processo n. 1532205-18.2024.8.26.0050, da 5ª Vara Criminal da comarca de São Paulo/SP).
+O impetrante aponta como autoridade coatora o Tribunal de Justiça de São Paulo, que, em 6/4/2026, negou provimento ao apelo defensivo.
+Aduz a violação do art. 33, § 2º, c, do Código Penal e da Súmula 440 do Superior Tribunal de Justiça, sustentando que, sendo o paciente primário, com pena-base no mínimo e sem violência ou grave ameaça, é indevido o regime mais gravoso fixado com fundamento na gravidade abstrata e na integração à dinâmica criminosa.
+Alega bis in idem, pois o uso da origem extorsiva do valor para endurecer o regime reflete elemento do dolo da receptação - ciência da origem ilícita -, já inserido no tipo penal.
+Sustenta direito à substituição da pena privativa de liberdade por restritiva de direitos, nos termos do art. 44 do Código Penal, por preencher os requisitos legais e porque a negativa está apoiada em fundamentação inidônea.
+Requer a suspensão imediata dos efeitos do acórdão para que o paciente aguarde o julgamento em liberdade ou em regime aberto.
+No mérito, busca a concessão da ordem para fixar o regime inicial aberto e para substituir a pena privativa de liberdade por restritiva de direitos.
+É o relatório.
+O presente writ é incabível por consistir em indevida substituição ao recurso próprio a ser dirigido ao Superior Tribunal de Justiça (AgRg no HC n. 753.464/SC, Ministra Laurita Vaz, Sexta Turma, DJe 29/9/2022).
+Ademais, o paciente não está preso em razão do processo em questão, de modo que o status libertatis dele não está em risco no momento, pois não há notícia do trânsito em julgado da condenação. É nítido o uso desvirtuado do habeas corpus.
+Afora isso, além de os autos não estarem instruídos com cópia da sentença, não existe ilegalidade flagrante que justifique a concessão de habeas corpus de ofício e a consequente superação do óbice constatado.
+Pelo que consta do acórdão, a circunstância considerada para o aumento da pena-base não se fundou na mera ciência da origem ilícita do bem - elemento inerente ao tipo penal -, mas na circunstância concreta de o recebimento ter ocorrido no exato momento da execução da extorsão, evidenciando vínculo operacional com o crime antecedente e maior grau de inserção do agente na cadeia delitiva (fl. 20). Trata-se, portanto, de dado fático que afasta a alegação de bis in idem, pois extrapola o núcleo do tipo e revela maior reprovabilidade da conduta.
+Com efeito, a primeira fase da dosimetria está devidamente fundamentada em elementos concretos, idôneos e que extrapolam os limites inerentes ao tipo penal violado, o que autoriza a elevação da pena-base, encontrando-se o acórdão recorrido em consonância com a jurisprudência deste Superior Tribunal (AgRg no AREsp n. 1.510.468/TO, de minha relatoria, Sexta Turma, DJe 11/10/2019).
+Dessa forma, presente circunstância judicial desfavorável, ainda que a reprimenda seja inferior a 4 anos, inviável o abrandamento do regime inicial semiaberto para o aberto, bem como não há ilegalidade na negativa de substituição da pena privativa de liberdade por restritiva de direitos, nos termos do disposto no art. 33, § 2º, c, § 3º, e no art. 44, III, do Código Penal (HC n. 377.851/SP, Ministra Maria Thereza de Assis Moura, Sexta Turma, DJe 4/4/2017).
+Ante o exposto, indefiro liminarmente a petição inicial (art. 210 do RISTJ).
+Publique-se.
+EMENTA
+PENAL. HABEAS CORPUS SUBSTITUTIVO DE RECURSO ESPECIAL. DESCABIMENTO. AUSÊNCIA DE REPERCUSSÃO IMEDIATA NO STATUS LIBERTATIS DO PACIENTE. RECEPTAÇÃO SIMPLES. REGIME INICIAL MAIS GRAVOSO. PRESENÇA DE CIRCUNSTÂNCIA JUDICIAL NEGATIVA. SUBSTITUIÇÃO DA PENA PRIVATIVA DE LIBERDADE POR RESTRITIVAS DE DIREITOS. INADEQUAÇÃO. INEXISTÊNCIA DE FLAGRANTE ILEGALIDADE.
+Petição inicial indeferida liminarmente.
