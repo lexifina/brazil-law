@@ -1,0 +1,16 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em nome de MARCOS HENRIQUE MIRANDA - condenado pelo crime de tráfico de drogas (art. 33, caput, da Lei n. 11.343/2006), à pena de 7 anos e 6 meses de reclusão, em regime inicial fechado, e 750 dias-multa, mantidos os demais termos do acórdão - em que a defesa aponta como autoridade coatora o Tribunal de Justiça do Estado de São Paulo, que, em 30/11/2022, redimensionou a pena e manteve o regime fechado (Apelação Criminal n. 0000688-74.2017.8.26.0160).
+O impetrante alega supressão indevida da causa de diminuição do art. 33, § 4º, da Lei n. 11.343/2006, embora o paciente seja primário e de bons antecedentes, pleiteando o reconhecimento do tráfico privilegiado.
+Sustenta violação ao princípio da individualização da pena, afirmando que o paciente, primário, não pode receber a mesma reprimenda atribuída a corréu reincidente específico em tráfico, requerendo pena no mínimo legal e aplicação do redutor do § 4º do art. 33 da Lei de Drogas..
+Afirma deficiência de fundamentação na negativa do tráfico privilegiado, apontando que a decisão recorrida se baseou em considerações genéricas, sem elementos concretos que demonstrem dedicação à atividade criminosa ou integração a organização criminosa.
+Questiona a dosimetria por adicionar 1/2 na primeira fase em razão da quantidade de droga e por manter a mesma fração atribuída a corréu reincidente, requerendo o redimensionamento com pena mínima e, na terceira fase, a incidência do redutor do art. 33, § 4º, da Lei de Drogas .
+Requer a concessão definitiva da ordem para reconhecer o tráfico privilegiado, redimensionar a pena ao mínimo legal, aplicar a causa de diminuição do art. 33, § 4º, e substituir a pena por restritiva de direitos, fixando regime inicial aberto (fls. 4/6, 8/11 e 18) (Processo n. 0000688-74.2017.8.26.0160, da 1ª Vara Criminal da comarca de Descalvado/SP).
+É o relatório.
+Em consulta às informações processuais desta Corte, extrai-se que a condenação transitou em julgado para a defesa.
+Nesse caso, no tocante ao pleito de incidência da minorante do tráfico privilegiado, o presente writ é sucedâneo de revisão criminal. Ocorre que, com relação a esse tema, como não existe no Superior Tribunal de Justiça julgamento de mérito passível de revisão em relação à condenação sofrida pelo paciente, forçoso reconhecer a incompetência desta Corte Superior para o processamento do presente pedido. Nesse sentido, confiram-se: AgRg no HC n. 494.794/MA, da minha relatoria, Sexta Turma, DJe 11/4/2019 e HC n. 288.978/SP, relator p/ acórdão Ministro Rogerio Schietti Cruz, Sexta Turma, DJe 21/5/2018.
+De todo modo, não se visualiza ilegalidade flagrante suficiente a justificar a concessão da ordem de ofício, considerando, inclusive, a existência no acórdão impugnado de fundamentos idôneos, demonstrando a dedicação do paciente às atividades criminosas (fls. 24/25).
+Ante o exposto, indefiro liminarmente a petição inicial.
+Publique-se.
+EMENTA
+DIREITO PROCESSUAL PENAL. HABEAS CORPUS. INADMISSIBILIDADE DO WRIT. TRÂNSITO EM JULGADO. DOSIMETRIA. PLEITO DE TRÁFICO PRIVILEGIADO COMO SUCEDÂNEO DE REVISÃO CRIMINAL. INCOMPETÊNCIA DO SUPERIOR TRIBUNAL DE JUSTIÇA. AUSÊNCIA DE ILEGALIDADE FLAGRANTE. FUNDAMENTOS IDÔNEOS NO ACÓRDÃO INDICANDO DEDICAÇÃO A ATIVIDADES CRIMINOSAS.
+Petição inicial indeferida liminarmente.
