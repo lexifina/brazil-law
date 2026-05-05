@@ -1,0 +1,8 @@
+Artigo 37-B - O Adicional de Qualificação - AQ incidirá sobre os vencimentos brutos equivalentes à base de contribuição previdenciária do cargo em que o servidor estiver em exercício, da seguinte forma: (NR)
+I - 20% (vinte por cento), em se tratando de título de Doutor; (NR)
+II - 15% (quinze por cento), em se tratando de título de Mestre; (NR)
+III -10% (dez por cento), em se tratando de certificado de Especialização; e (NR)
+IV - 7,5% (sete inteiros e cinco décimos por cento), em se tratando de diploma de graduação em curso superior. (NR)
+§ 1° - Em nenhuma hipótese o servidor perceberá cumulativamente qualquer percentual dentre os previstos nos incisos I a IV do 'caput' deste artigo. (NR)
+§ 2° - O Adicional de Qualificação será devido a partir do protocolo no Tribunal do diploma, certificado ou título, devidamente registrado. (NR)
+§ 3° - O servidor do Quadro de Pessoal do Tribunal de Justiça cedido a outros órgãos da Administração Pública não perceberá, durante o afastamento, o adicional de que trata este artigo, salvo na hipótese de cessão sem prejuízo de vencimentos e demais vantagens ou afastamento para exercício de mandato classista nos termos da Lei Complementar n° 343, de 6 de janeiro de 1984, mandato eletivo ou para campanha eleitoral. (NR)
