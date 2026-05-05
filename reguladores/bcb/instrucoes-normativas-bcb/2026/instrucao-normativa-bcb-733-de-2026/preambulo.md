@@ -1,0 +1,4 @@
+Resolução Nº 222 INSTRUÇÃO NORMATIVA BCB Nº 733, DE 4 DE MAIO DE 2026
+Altera o leiaute e as instruções de preenchimento do documento de código 3040 - Dados de Risco de Crédito, do Sistema de Informações de Créditos (SCR), de que trata a Carta Circular nº 3.869, de 19 de março de 2018.
+O Chefe do Departamento de Monitoramento do Sistema Financeiro – Desig, no uso da atribuição que lhe confere o art. 23, inciso I, alínea “a”, do Regimento Interno do Banco Central do Brasil, anexo à Resolução BCB nº 340, de 21 de setembro de 2023, com base no art. 85, inciso I do referido Regimento, tendo em vista o disposto nas Resoluções CMN ns. 4.676, de 31 de julho de 2018, e 5.037, de 29 de setembro de 2022, na Circular nº 3.870, de 19 de dezembro de 2017, na Resolução BCB nº 188, de 23 de fevereiro de 2022, e na Carta Circular nº 3.869, de 19 de março de 2018,
+R E S O L V E :
