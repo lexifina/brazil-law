@@ -1,0 +1,36 @@
+DECISÃO
+Trata-se de habeas corpus com pedido de liminar impetrado em favor de JULIANO MOISÉS ISRAEL LOPES em que se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO (Apelação Criminal n. 0020810-74.2016.8.26.0506).
+Consta dos autos que o paciente foi condenado às penas de 133 anos, 2 meses e 3 dias de reclusão, em regime inicial fechado, e de pagamento de 252 dias-multa, como incurso nas sanções dos arts. 2º, § 2º, da Lei n. 12.850/2013; 157, §§ 1º, 2º, I e II, e § 3º, por cinco vezes, uma delas na forma do art. 14, II, do Código Penal; 250, § 1º, I, c/c o art. 258, ambos do Código Penal; 251, § 2º, por quatro vezes, do Código Penal; 15 da Lei n. 10.826/2003; 157, § 2º, I e II, do Código Penal; 16, caput, da Lei n. 10.826/2003; todos na forma dos arts. 29 e 69 do Código Penal.
+A impetrante sustenta ausência de individualização das condutas atribuídas ao paciente, afirmando que a acusação e a condenação se apoiam em narrativa genérica sem vínculo concreto com atos executórios.
+Alega que o conjunto probatório é insuficiente para superar a dúvida razoável, por se basear em correlações frágeis e elementos indiretos, sem demonstração específica do nexo causal exigido pelos arts. 13 do Código Penal e 155 do Código de Processo Penal.
+Aduz que houve indevida utilização de testemunho indireto oriundo de colaboração premiada, em descompasso com o art. 4º, § 16, da Lei n. 12.850/2013, e com a vedação de condenação fundada em "ouvir dizer".
+Assevera que a colaboração do corréu é contraditória e lastreada em inferências pessoais, sem corroboração externa, o que inviabiliza sua aptidão para respaldar o édito condenatório.
+Afirma que não há demonstração do elemento subjetivo nos crimes de resultado (latrocínio e incêndio), sendo indevida a responsabilização por presunção de previsibilidade sem prova de adesão ao resultado.
+Defende que o vínculo do paciente com compras no supermercado e ligação telefônica ao estabelecimento comercial não constitui indício robusto de participação na empreitada criminosa.
+Entende que a apreensão de R$ 160.000,00 não possui comprovação de origem ilícita, não se prestando, isoladamente, a firmar autoria ou participação nos fatos.
+Pondera que a propriedade e o uso do veículo Renault Logan, encontrado com armamentos e explosivos, foram atribuídos sem base objetiva, havendo elementos que indicam utilização habitual pelo colaborador.
+Relata que houve negativa de diligências defensivas destinadas a elucidar a titularidade do veículo, comprometendo o contraditório e a ampla defesa.
+Informa que há revisão criminal de corréu com repercussão na dosimetria do paciente, reforçando a necessidade de reavaliação das sanções.
+Requer, liminarmente, a soltura do paciente. E, no mérito, busca a sua absolvição. Subsidiariamente, postula o afastamento das condenações por latrocínio, incêndio, disparo de arma de fogo e roubo qualificado, ou, ainda, o redimensionamento das penas.
+É o relatório.
+Em consulta ao sistema processual deste Superior Tribunal de Justiça, constata-se que se encontra em tramitação o AREsp n. 2.605.745/SP.
+Contudo, a jurisprudência do Superior Tribunal de Justiça não admite o processamento conjunto de recurso e habeas corpus apresentados contra o mesmo ato jurisdicional, sob pena de ofensa ao princípio da singularidade ou unirrecorribilidade, não se podendo provocar a apreciação da mesma instância por diferentes meios de modo simultâneo.
+A propósito:
+AGRAVO REGIMENTAL EM HABEAS CORPUS. TRÁFICO ILÍCITO DE DROGAS, FALSIFICAÇÃO DE DOCUMENTO PÚBLICO E USO DE DOCUMENTO FALSO. OFENSA AO PRINCÍPIO DA COLEGIALIDADE. NÃO OCORRÊNCIA. INOBSERVÂNCIA DO PRINCÍPIO DA UNIRRECORRIBILIDADE. INTERPOSIÇÃO DE AGRAVO EM RECURSO ESPECIAL E IMPETRAÇÃO DE HABEAS CORPUS. INEVIDÊNCIA DE CONSTRANGIMENTO ILEGAL.
+1. Não viola o princípio da colegialidade a decisão monocrática do Relator calcada em jurisprudência dominante do Superior Tribunal de Justiça, tendo em vista a possibilidade de submissão do julgado ao exame do Órgão Colegiado, mediante a interposição de agravo regimental.
+2. Hipótese em que houve a interposição de recurso especial na origem e, na sequência, do respectivo agravo, e a jurisprudência do Superior Tribunal de Justiça não admite a tramitação concomitante de recursos e habeas corpus manejados contra o mesmo ato, sob pena de violação do princípio da unirrecorribilidade (AgRg no HC n. 678.593/SP, Ministra Laurita Vaz, Sexta Turma, DJe 27/9/2022).
+3. Agravo regimental desprovido.
+(AgRg no HC n. 918.633/SP, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 9/9/2024, DJe de 12/9/2024 - grifo próprio.)
+PENAL E PROCESSUAL PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. WRIT SUBSTITUTIVO DE RECURSO PRÓPRIO. NÃO CABIMENTO. PRECEDENTES DO STF E STJ. TRAMITAÇÃO EM PARALELO DE AGRAVO EM RECURSO ESPECIAL. AFRONTA AO PRINCÍPIO DA UNIRRECORRIBILIDADE. MEDIDAS CAUTELARES. CONSTRANGIMENTO ILEGAL. SUPRESSÃO DE INSTÂNCIA. PEDIDO SUBSIDIÁRIO. INOVAÇÃO RECURSAL. INADMISISBILIDADE. AGRAVO CONHECIDO EM PARTE E, NESSA EXTENSÃO, DESPROVIDO.
+1. Esta Corte - HC 535.063, Terceira Seção, Rel. Ministro Sebastião Reis Junior, julgado em 10/6/2020 - e o Supremo Tribunal Federal - AgRg no HC 180.365, Primeira Turma, Rel. Min. Rosa Weber, julgado em 27/3/2020; AgRg no HC 147.210, Segunda Turma, Rel. Min. Edson Fachin, julgado em 30/10/2018 -, pacificaram orientação no sentido de que não cabe habeas corpus substitutivo do recurso legalmente previsto para a hipótese, impondo-se o não conhecimento da impetração, salvo quando constatada a existência de flagrante ilegalidade no ato judicial impugnado.
+2. Não bastasse o mencionado entendimento pacificamente adotado por esta Corte Superior, no sentido da inviabilidade de uso do remédio constitucional em substituição a recurso previsto em lei, na hipótese em exame constata-se que o presente habeas corpus tramita em paralelo ao recurso especial interposto em face do acórdão proferido pela instância ordinária, em evidente violação ao princípio da unirrecorribilidade.
+ ..
+5. Agravo regimental conhecido em parte e, nessa extensão, desprovido.
+(AgRg no HC n. 880.190/RO, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 17/6/2024, DJe de 20/6/2024 - grifo próprio.)
+Na mesma direção: AgRg no HC n. 887.255/PB, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 18/3/2024, DJe de 20/3/2024; AgRg no HC n. 831.891/PB, relator Ministro Teodoro Silva Santos, Sexta Turma, julgado em 12/12/2023, DJe de 15/12/2023; e AgRg no HC n. 848.280/SP, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 2/10/2023, DJe de 5/10/2023.
+Por fim, registro que a eventual complementariedade entre as alegações formuladas no recurso especial e na impetração, ainda que o mérito daquele recurso não tenha sido apreciado, não modifica a conclusão exposta, sendo inviável a dupla impugnação de um mesmo acórdão em preservação dos limites do exercício da jurisdição.
+Ainda, anoto que inexiste prejuízo para a parte interessada, uma vez que, caso houvesse sido constatada a ilegalidade flagrante, a ordem teria sido concedida de ofício mesmo na hipótese de não conhecimento do recurso.
+Ante o exposto, com fundamento no art. 210 do Regimento Interno do Superior de Justiça, não conheço do habeas corpus.
+Cientifique-se o Ministério Público Federal.
+Publique-se. Intimem-se.
+ EMENTA
