@@ -1,0 +1,47 @@
+DECISÃO
+Trata-se de habeas corpus substitutivo de recurso próprio, impetrado em benefício de NAYARA MARQUES RODRIGUES, contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO no julgamento do Agravo de Execução Penal n. 0018005-21.2025.8.26.0996.
+Extrai-se dos autos que o Juízo da Vara de Execução Penal indeferiu pedido de prisão albergue domiciliar, formulado pela paciente, condenada à pena de 9 anos, 8 meses e 20 dias de reclusão, pela prática do crime tipificado no art. 33, caput, da Lei n. 11.343/2006.
+O Tribunal de origem negou provimento ao agravo de execução penal interposto pela paciente, nos termos do acórdão assim resumido:
+"Direito penal. Agravo em execução. Indeferimento de prisão albergue domiciliar. Recurso defensivo. Desprovimento.
+I - CASO EM EXAME
+1 Trata-se de recurso interposto pela defesa contra decisão que indeferiu pedido de prisão albergue domiciliar à reeducanda, condenada a 9 anos, 8 meses e 20 dias de reclusão, em regime inicial fechado, por tráfico de drogas. Assevera ser mãe de três filhas, duas menores de idade, que necessitam de seus cuidados. O pedido foi indeferido pelo juízo de primeira instância.
+II - QUESTÕES EM DISCUSSÃO
+2 Consistem em: (I) análise da imprescindibilidade concreta da presença da agravante para os cuidados das filhas menores; e (II) possibilidade de concessão de prisão domiciliar em regime fechado.
+III - RAZÕES DE DECIDIR
+3 A defesa não apresentou justificativa concreta para a imprescindibilidade da presença da agravante, limitando-se a alegações genéricas sobre as condições das avós que cuidam das crianças. 4 As menores não estão em total desamparo, estando sob os cuidados das avós, o que não justifica a concessão da prisão domiciliar em regime fechado.
+IV - DISPOSITIVO E TESE
+5 Recurso desprovido." (fl. 36)
+No presente writ, a defesa sustenta a ilegalidade da manutenção da custódia em regime fechado, diante da condição da paciente como mãe de três filhas, uma menor de 12 anos, com fundamento na interpretação conjunta do art. 117, III, da Lei de Execução Penal - LEP e do HC coletivo 143.641/SP.
+Sustenta que a execução definitiva da pena não impede a concessão da prisão domiciliar humanitária, inclusive em regime fechado, quando presentes vulnerabilidades familiares que demandam proteção integral das crianças.
+Assevera que o crime imputado não envolve violência ou grave ameaça, o que autoriza a substituição da prisão por domiciliar para mulheres responsáveis por crianças menores de 12 anos.
+Requer, em liminar e no mérito, a substituição da pena privativa de liberdade por prisão domiciliar.
+É o relatório.
+Decido.
+Diante da hipótese de habeas corpus substitutivo de recurso próprio, a impetração sequer deveria ser conhecida, segundo orientação jurisprudencial do Supremo Tribunal Federal e do próprio Superior Tribunal de Justiça. Contudo, considerando as alegações expostas na inicial, razoável verificar a existência de eventual constrangimento ilegal.
+A Suprema Corte, por ocasião do julgamento do HC 143.641/SP, concedeu habeas corpus coletivo às mulheres presas preventivamente, gestantes, puérperas ou mães de crianças e de pessoas com deficiência, bem assim às adolescentes sujeitas a medidas socioeducativas em idêntica situação no território nacional, observadas determinadas restrições.
+Na ocasião, o voto condutor do acórdão, proferido pelo Ministro Ricardo Lewandowski indicou a impossibilidade do benefício para: a) crimes cometidos mediante violência ou grave ameaça, b) delitos perpetrados contra os descendentes ou c) em situações excepcionalíssimas, as quais deverão ser devidamente fundamentadas.
+Esta Corte Superior, por sua vez, possui entendimento firme no sentido de que a norma penal que visa a proteção das crianças menores de doze anos não distingue as mães que cumpram penas definitivas daquelas submetidas à prisão cautelar, estendendo a aplicação do julgado acima referido também às presas definitivas, respeitados os requisitos legais.
+Posteriormente, sobreveio a publicação da Lei n. 13.769/2018, que acrescentou o art. 318-A ao Código de Processo Penal - CPP, com a seguinte redação:
+"Art. 318-A. A prisão preventiva imposta à mulher gestante ou que for mãe ou responsável por crianças ou pessoas com deficiência será substituída por prisão domiciliar, desde que: (Incluído pela Lei nº 13.769, de 2018).
+I - não tenha cometido crime com violência ou grave ameaça a pessoa;
+II - não tenha cometido o crime contra seu filho ou dependente."
+Verifica-se que a inovação da lei processual positivou o entendimento anteriormente firmado pelo Supremo Tribunal Federal - STF, e, não obstante tenha elencado apenas duas exceções à concessão da prisão domiciliar, é certo que seu cabimento deve ser analisado caso a caso, devendo prevalecer o que restou decidido pela Suprema Corte nas questões não abrangidas pela nova legislação.
+Assim, a ausência de previsão expressa de outras situações que obstem a concessão da prisão domiciliar não impede a atuação do julgador no sentido de negar a benesse quando constatada situação excepcionalíssima que revele a inadequação da medida.
+No caso dos autos, o Tribunal de origem indeferiu o pleito de concessão de prisão domiciliar pelas seguintes razões:
+"De proêmio, verifica-se nas peças instrutórias, assim como no feito executório através do sítio do E. Tribunal de Justiça do Estado de São Paulo, que, conquanto a agravante se declare a principal responsável pelas infantes, sua defesa não explicitou qualquer justificativa acerca de sua imprescindibilidade concreta para seus respectivos cuidados.
+Limitou-se a apontar que as crianças estão sendo cuidadas pelas avós, mas que estas são idosas e possuem sérias limitações de saúde, bem como a filha mais velha tem cuidado de uma das irmãs, ainda que estudante.
+No entanto, nota-se que tais argumentos foram apresentados de forma genérica e abstrata, com o desiderato de se atingir a pseudo subsunção da situação fática-jurídica da executada ao entendimento dos Tribunais Superiores acerca da concessão, excepcionalíssima, da prisão albergue domiciliar a reeducandas com condenações definitivas em regime semiaberto ou fechado, conforme delineado anteriormente nas diretrizes.
+Com efeito, as circunstâncias delineadas pela defesa, por si só, não justificam a concessão da prisão domiciliar em regime fechado, uma vez que as menores não estão em total desamparo, encontrando-se sob os cuidados das avós, ainda que em condições que não possam ser consideradas plenamente adequadas, de modo que não se vislumbra qualquer fundamento idôneo para concessão da benesse.
+Em verdade o que se vê, notoriamente, é a tentativa da reeducanda de se valer de suas próprias filhas para, por vias transversas e sem mérito algum, obter sua manutenção fora do cárcere e a consequente impunidade por seu ato criminoso, vilipendiando os objetivos gerais e individuais da pena. Portanto, busca-se não o melhor interesse das infantes, como se tenta convencer, mas tão somente a continuidade de sua liberdade." (fls. 44/45)
+No entanto, constato que a fundamentação evocada pela Corte de origem não apresenta plena harmonia com as disposições da Resolução n. 369/2021, do Conselho Nacional de Justiça - CNJ, tampouco com o entendimento deste STJ, no sentido da presunção da imprescindibilidade dos cuidados maternos. Veja-se:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO PENAL. PRISÃO DOMICILIAR. ART. 318, V, DO CPP. MÃE COM FILHOS DE ATÉ 12 ANOS INCOMPLETOS. CRIME SEM VIOLÊNCIA OU GRAVE AMEAÇA. NÃO COMETIMENTO CONTRA OS PRÓPRIOS FILHOS. IMPRESCINDIBILIDADE DE CUIDADOS MATERNOS PRESUMIDA. EXECUÇÃO DEFINITIVA DA PENA. ART. 117 DA LEP. REGIME SEMIABERTO. HC COLETIVO N. 143.641/SP DO STF. INTERPRETAÇÃO EXTENSIVA. PRESENÇA DOS REQUISITOS LEGAIS. FLAGRANTE ILEGALIDADE CONFIGURADA. AGRAVO REGIMENTAL PROVIDO. ORDEM CONCEDIDA DE OFÍCIO.
+1. Por razões humanitárias e para proteção integral da criança, é cabível a concessão de prisão domiciliar a genitoras de menores de até 12 anos incompletos, nos termos do art. 318, V, do CPP, desde que (a) não se trate de crime cometido com violência ou grave ameaça, (b) não tenha sido praticado contra os próprios filhos e (c) não esteja presente situação excepcional a contraindicar a medida.
+2. Conforme art. 318, V, do CPP, a concessão de prisão domiciliar às genitoras de menores de até 12 anos incompletos não está condicionada à comprovação da imprescindibilidade dos cuidados maternos, que é legalmente presumida.
+3. É possível a extensão do benefício de prisão-albergue domiciliar às sentenciadas gestantes e mães de menores de até 12 anos, ainda que em regime semiaberto ou fechado, nos termos dos arts. 318, V, do CPP e 117, III, da LEP, desde que presentes os requisitos legais.
+4. Agravo regimental provido para conceder a ordem de ofício.
+(AgRg no HC n. 731.648/SC, relator Ministro Joel Ilan Paciornik, relator para acórdão Ministro João Otávio de Noronha, Quinta Turma, julgado em 7/6/2022, DJe de 23/6/2022.)
+Assim , superados os óbices apontados pela Corte de origem, constata-se que o pedido de prisão domiciliar deverá ser apreciado, a fim de que seja verificado se estão preenchidos, ou não, os demais requisitos da prisão domiciliar.
+Ante o exposto, com fundamento no art. 34, XX, do Regimento Interno do Superior Tribunal de Justiça, não conheço do habeas corpus. Todavia, concedo a ordem, de ofício, para dete rminar que o Juízo da Execução analise os demais requisitos da prisão domiciliar.
+Publique-se.
+Intimem-se.
+EMENTA
