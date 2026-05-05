@@ -1,0 +1,25 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em favor de BRUNO DA SILVA LOUZADA, preso preventivamente e acusado da prática dos crimes de organização criminosa e associação para o tráfico de drogas, no âmbito do Processo n. 0000885-60.2022.8.08.0061, em trâmite perante a Vara Única da comarca de Vargem Alta/ES.
+A impetrante aponta como autoridade coatora a Segunda Câmara Criminal do Tribunal de Justiça do Estado do Espírito Santo, que, ao julgar o Recurso em Sentido Estrito n. 5000382-80.2024.8.08.0061, restabeleceu a prisão preventiva do paciente.
+Sustenta, em síntese, a ausência de contemporaneidade da medida, ao argumento de que o restabelecimento da custódia se apoiou em fatos ocorridos no ano de 2022, não obstante o paciente tenha permanecido em liberdade por aproximadamente 25 meses sem qualquer intercorrência.
+Alega, ainda, comportamento processual adequado, destacando o comparecimento a todos os atos para os quais foi intimado, o cumprimento rigoroso das medidas cautelares impostas e a plena submissão à jurisdição.
+Argumenta que a instrução criminal já se encontra encerrada, restando pendente apenas a prolação da sentença, de modo que a manutenção da prisão preventiva configuraria antecipação de pena, em violação ao princípio da presunção de inocência.
+Invoca, também, o princípio da isonomia, afirmando que corré, em situação fática semelhante, teve a prisão substituída por medidas cautelares diversas, razão pela qual pleiteia a extensão do benefício, nos termos do art. 580 do Código de Processo Penal.
+Em caráter liminar, requer a suspensão do decreto prisional, com a expedição de alvará de soltura. No mérito, pugna pela revogação da prisão preventiva, a fim de que o paciente permaneça em liberdade até o trânsito em julgado da ação penal.
+É o relatório.
+Em minha avaliação, a ordem deve ser indeferida liminarmente.
+Ao compulsar os autos, constato que o acórdão impugnado restabeleceu a prisão preventiva com base em elementos concretos extraídos do contexto fático, especialmente a gravidade da conduta imputada, inserida em organização criminosa estruturada, com divisão de tarefas e atuação coordenada para o tráfico de drogas em larga escala.
+Da atenta leitura dos autos, depreende-se que a imputação envolve apreensão expressiva de entorpecentes, notadamente superior a 60 kg de pasta base de cocaína, o que evidencia a magnitude da atividade ilícita e reforça o risco concreto de reiteração delitiva e de comprometimento da ordem pública.
+A corroborar, citem-se: AgRg no HC n. 981.884/SP, Ministro Otávio de Almeida Toledo (Desembargador Convocado do TJSP), Sexta Turma, DJEN de 20/5/2025; e AgRg no HC n. 990.118/SP, Ministro Antonio Saldanha Palheiro, Sexta Turma, DJEN de 20/5/2025.
+Julgo que o acórdão fundamentadamente explicitou a necessidade da medida extrema, não se limitando a referências genéricas, mas apontando a inserção do paciente em contexto de criminalidade organizada, com atuação reiterada e potencial lesivo elevado, circunstâncias que, segundo a jurisprudência consolidada desta Corte, legitimam a prisão preventiva.
+Ilustrativamente, citem-se: AgRg no RHC n. 224.024/SP, Sexta Turma, DJe 9/12/2025; e AgRg no RHC n. 221.928/MS, Quinta Turma, DJEN 2/12/2025.
+A meu ver, o lapso temporal em que o paciente permaneceu em liberdade, ainda que sem descumprimento das cautelares impostas, não é, por si só, suficiente para afastar o periculum libertatis, especialmente em hipóteses que envolvem organização criminosa e tráfico de drogas em larga escala, em que o risco decorre da própria estrutura e continuidade da atividade delitiva.
+Também não se verifica, neste exame perfunctório, ilegalidade flagrante relacionada à ausência de contemporaneidade, porquanto o restabelecimento da custódia cautelar decorreu de reavaliação judicial em sede recursal, com base em elementos já constantes dos autos, cuja gravidade concreta foi reputada suficiente para justificar a medida.
+Igualmente, citem-se: AgRg no HC 744.653/SP, Ministro Ribeiro Dantas, Quinta Turma, DJe de 29/6/2022; e AgRg no RHC n. 189.567/RJ, Ministro Jesuíno Rissato (Desembargador convocado do TJDFT), Sexta Turma, DJe de 11/4/2024.
+No tocante à alegada isonomia com corréu, observo que a análise da identidade fática e da extensão das circunstâncias pessoais demanda exame aprofundado do conjunto probatório, providência incompatível com a via estreita do habeas corpus, sobretudo em sede liminar.
+Assim, não se evidencia constrangimento ilegal patente apto a justificar a concessão da medida de urgência.
+Ante o exposto, indefiro liminarmente a petição inicial (art. 210 do RISTJ).
+Publique-se.
+EMENTA
+HABEAS CORPUS. DIREITO PROCESSUAL PENAL. TRÁFICO DE DROGAS. ORGANIZAÇÃO CRIMINOSA. RESTABELECIMENTO DA PRISÃO PREVENTIVA EM SEDE RECURSAL. PACIENTE QUE PERMANECEU EM LIBERDADE POR LONGO PERÍODO. IRRELEVÂNCIA, NO CASO CONCRETO. APREENSÃO DE MAIS DE 60 KG DE PASTA BASE DE COCAÍNA. GRAVIDADE CONCRETA. ESTRUTURA CRIMINOSA ORGANIZADA. RISCO DE REITERAÇÃO DELITIVA. FUNDAMENTAÇÃO IDÔNEA. AUSÊNCIA DE ILEGALIDADE FLAGRANTE.
+Writ indeferido liminarmente.
