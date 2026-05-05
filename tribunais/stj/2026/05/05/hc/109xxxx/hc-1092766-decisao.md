@@ -1,0 +1,15 @@
+DECISÃO
+Trata-se  de  habeas  corpus  impetrado  em  nome  de  GUSTAVO  LUZ  VERISSIMO,  em  que  se  aponta  como  autoridade  coatora  a  Quarta  Câmara  Criminal  do  Tribunal  de  Justiça  de  Pernambuco,  que,  em  15/4/2026,  deu  provimento  ao  Recurso  em  Sentido  n.  0097270-50.2024.8.17.2001,  interposto  pelo  Ministério  Público,  e  decretou  a  prisão  preventiva  do  paciente.
+Alega-se  nulidade  absoluta  por  incompetência  do  Relator,  em  razão  de  violação  da  regra  de  prevenção  e  do  princípio  do  juiz  natural,  pois  o  Desembargador  Alexandre  Guedes  Alcoforado  Assunção  seria  o  prevento  por  atuar  em  feitos  anteriores  da  mesma  ação  pena.
+Sustenta-se  a  existência  de  litispendência  e  erro  procedimental  reconhecido  pelo  Ministério  Público,  consistente  na  remessa  indevida  dos  autos  originais  ao  Tribunal,  em  afronta  ao  art.  583  do  Código  de  Processo  Penal  e  na  autuação  de  outro  recurso  para  saneamento  (RESE  n.  0021660-08.2026.8.17.2001),  com  declínio  de  competência  ao  relator  prevento.
+Aduz-se  cerceamento  de  defesa,  por  ausência  de  intimação  da  defesa  técnica  para  a  sessão  de  julgamento  do  colegiado,  o  que  inviabilizou  a  sustentação  oral  no  recurso  que  resultou  na  privação  de  liberdade.
+Requer-se  a  suspensão  imediata  dos  efeitos  do  acórdão  impugnado  e  a  expedição  de  alvará  de  soltura  em  favor  do  paciente.  No  mérito,  pleiteia-se  a  anulação  do  acórdão  por  incompetência  do  relator  e  violação  da  prevenção,  o  reconhecimento  da  nulidade  por  cerceamento  de  defesa,  da  litispendência  e  do  erro  procedimental,  com  remessa  ao  magistrado  prevento.
+É  o  relatório.
+O  writ  não  comporta  processamento.
+Além  de  ser  manifestamente  incabível  a  impetração  substitutiva,  a  instância  ordinária  não  está  esgotada.  Conforme  informações  obtidas  na  página  eletrônica  da  Corte  a  quo,  foram  opostos  embargos  de  declaração  ao  acórdão  do  recurso  em  sentido  estrito.
+Como  é  cediço,  prematuro  o  exame  do  pleito  formulado  na  impetração,  uma  vez  que,  dada  a  natureza  integrativa  do  recurso  (embargos  de  declaração)  pendente  de  julgamento  na  origem,  não  há  falar  em  esgotamento  da  instância  ordinária  (AgRg  no  HC  n.  688.447/SP,  Ministro  Olindo  Menezes,  Desembargador  convocado  do  TRF/1ª  Região,  Sexta  Turma,  DJe  11/3/2022).  No  mesmo  sentido,  AgRg  nos  EDcl  no  HC  n.  521.352/SP,  Ministra  Laurita  Vaz,  Sexta  Turma,  DJe  16/12/2020;  e  AgRg  no  HC  n.  696.463/DF,  Ministro  Reynaldo  Soares  da  Fonseca,  Quinta  Turma,  DJe  13/10/2021.
+Ante  o  exposto,  indefiro  liminarmente  o  habeas  corpus.
+Publique-se.
+EMENTA
+PROCESSUAL  PENAL.  HABEAS  CORPUS  SUBSTITUTIVO.  FALTA  DE  CABIMENTO.  FURTO  QUALIFICADO.  PRISÃO  PREVENTIVA.  NULIDADE.  IRREGULARIDADES  PRO  CEDIMENTAIS  NO  RESE.  EMBARGOS  DE  DECLARAÇÃO  PENDENTES  DE  JULGAMENTO  NA  ORIGEM.  AUSÊNCIA  DE  EXAURIMENTO  DA  INSTÂNCIA  ORDINÁRIA.  INADMISSIBILIDADE.
+Petição  inicial  indeferida  liminarmente.
