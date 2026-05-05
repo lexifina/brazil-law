@@ -1,0 +1,46 @@
+DECISÃO
+Trata-se de recurso especial interposto pelo MINISTÉRIO PÚBLICO DO ESTADO DE RONDÔNIA contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE RONDÔNIA que negou provimento ao Agravo de Execução Penal n. 0820661-41.2024.8.22.0000, assim ementado (fls. 61):
+Direito Penal e Processual Penal. Agravo em Execução Penal. Indulto. Decreto Presidencial nº 11.302/2022. Competência privativa do Presidente da República. Inconstitucionalidade não configurada. Decisão mantida. Recurso desprovido.
+Consta dos autos que VANESSA PRISCILA MOURA DE SOUZA foi condenada pela prática do crime previsto no art. 33, § 4º, da Lei n. 11.343/2006, à pena de 2 (dois) anos e 11 (onze) meses de reclusão, tendo a pena privativa de liberdade sido substituída por 2 (duas) penas restritivas de direitos, consistentes em prestação de serviços à comunidade e prestação pecuniária no valor de 1 (um) salário mínimo (fls. 76-87).
+Na execução, foi concedido indulto com fundamento no Decreto Presidencial n. 11.302/2022 e mantido pelo Tribunal de origem.
+No recurso especial, interposto com fulcro no art. 105, III, alínea a, da Constituição Federal, o Ministério Público alegou violação do art. 8º, inciso I, do Decreto Presidencial n. 11.302/2022 (fls. 76-87).
+Sustentou, em síntese, que há vedação expressa à concessão de indulto natalino às penas restritivas de direitos, de modo que, tendo a condenada obtido substituição da pena privativa de liberdade por restritivas de direitos em decisão transitada em julgado, não seria possível reconhecer a extinção da punibilidade com base no Decreto n. 11.302/2022.
+Requereu, ao final, o provimento do recurso para cassar o acórdão recorrido que declarou extinta a punibilidade por indulto natalino e restabelecer a reprimenda (fls. 76-87).
+Contrarrazões apresentadas às fls. 89-94. O recurso especial foi admitido na origem (fls. 96-98).
+O Ministério Público Federal manifestou-se pelo provimento do recurso especial (fls. 120-124).
+É o relatório. Decido.
+Preenchidos os pressupostos de admissibilidade, na medida em que a matéria restou devidamente prequestionada e o recurso foi manejado em estrita observância aos ditames normativos, conheço do recurso especial.
+A controvérsia cinge-se à possibilidade de o Poder Judiciário autorizar a concessão de indulto natalino, com base no Decreto n. 11.302/2022, à pessoa cuja pena privativa de liberdade foi convertida em penas restritivas de direitos pela própria sentença condenatória, sob o argumento de que a não realização da audiência admonitória teria mantido a natureza da sanção como pena corporal.
+O Tribunal de origem, ao manter o benefício, partiu da premissa de que a ausência da audiência admonitória impediria a efetiva consolidação da pena alternativa, o que abriria espaço para a concessão do indulto como se a condenada estivesse cumprindo pena privativa de liberdade em regime aberto.
+Essa interpretação, contudo, não se sustenta diante da correta compreensão do instituto do indulto e de sua disciplina normativa. O indulto é ato de soberania e de política criminal de competência exclusiva do Presidente da República (art. 84, inciso XII, da Constituição Federal). Justamente por isso, o decreto que o concede define, com precisão, tanto os requisitos para sua concessão quanto as situações em que ele não se aplica  e ambas as dimensões têm igual força vinculante.
+Como decorrência do princípio da separação dos poderes e da legalidade, não cabe ao Poder Judiciário ampliar os limites fixados pelo decreto presidencial para abarcar situações que o próprio texto normativo quis excluir. O juiz não pode, a pretexto de interpretação favorável ao réu, atuar como legislador e contornar as vedações expressamente estabelecidas.
+Nesse ponto, o art. 8º, inciso I, do Decreto n. 11.302/2022 é claro: "O indulto natalino de que trata este Decreto não é extensível às: I - penas restritivas de direitos".
+A conversão da pena privativa de liberdade em penas restritivas de direitos, nos termos do art. 44 do Código Penal, ocorre com o trânsito em julgado da sentença. A partir daí, a natureza da sanção está definida. A audiência admonitória - em que o condenado toma ciência das condições impostas e firma compromisso de cumpri-las - é apenas uma etapa procedimental da execução, sem qualquer aptidão para alterar a natureza da pena já fixada.
+Admitir que a demora do Estado em designar essa audiência permitiria ao condenado "escolher" uma pena mais grave para, com isso, ter acesso ao indulto seria chancelar uma ficção jurídica insustentável.
+Portanto, é inviável o reconhecimento da extinção da punibilidade, tendo em vista a vedação expressa do art. 8º do Decreto n. 11.302/2022, que afasta o indulto natalino das penas restritivas de direitos e de multa (REsp n. 1.862.914/SP, rel. Min. Sebastião Reis Júnior, Sexta Turma, j. 11/4/2023, DJe 13/4/2023).
+Em linha com essa orientação, este Tribunal rejeita interpretações que impliquem indevida interferência nos limites do ato de clemência. A propósito, confira-se o seguinte julgado:
+DIREITO PENAL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. INDULTO NATALINO. PENAS RESTRITIVAS DE DIREITOS. RECURSO DESPROVIDO.
+I. Caso em exame
+1. Agravo regimental interposto contra decisão que negou provimento a recurso especial, mantendo a decisão que indeferiu pedido de indulto natalino ao agravante, condenado a pena privativa de liberdade convertida em pena restritiva de direitos.
+2. O agravante alega que a ausência de audiência admonitória impediu o início do cumprimento da pena restritiva de direitos, afastando a vedação do art. 8º do Decreto Presidencial n. 11.302/2022.
+II. Questão em discussão
+3. A questão em discussão consiste em saber se é possível conceder indulto natalino a condenados por penas restritivas de direitos, nas hipóteses em que não se iniciou o cumprimento da reprimenda.
+III. Razões de decidir
+4. O indulto natalino é um benefício cuja concessão está restrita aos requisitos estabelecidos no decreto presidencial, sendo vedada a extensão a penas restritivas de direitos, conforme o art. 8º do Decreto n. 11.302/2022.
+5. A ausência de audiência admonitória não altera a natureza da pena imposta, que permanece como restritiva de direitos, não sendo possível a concessão do indulto.
+IV. Dispositivo e tese
+6. Recurso desprovido.
+ ..
+(AgRg no REsp n. 2.112.537/RO, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 17/12/2024, DJEN de 3/1/2025.)
+AGRAVO REGIMENTAL NO RECURSO ESPECIAL. EXECUÇÃO PENAL. INDULTO. DECRETO N. 11.302/2022. PENA PRIVATIVA DE LIBERDADE SUBSTITUÍDA POR PENAS RESTRITIVAS DE DIREITOS. CONCESSÃO DO BENEFÍCIO. INVIABILIDADE. RECONVERSÃO DAS PENAS RESTRITIVAS DE DIREITOS EM PENA PRIVATIVA DE LIBERDADE PARA A CONCESSÃO DO INDULTO. AUSÊNCIA DE AMPARO LEGAL. RECURSO IMPROVIDO.
+1. "O indulto é constitucionalmente considerado como prerrogativa do Presidente da República, podendo ele trazer no ato discricionário e privativo, as condições que entender cabíveis para a concessão do benefício, não se estendendo ao judiciário qualquer ingerência no âmbito de alcance da norma" (AgRg no HC n. 417.366/DF, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 21/11/2017, DJe de 30/11/2017.)
+2 .No caso dos autos, o recorrente foi condenado como incurso nas sanções do art. 306, § 1º, I, c/c o art. 298, III, ambos do Código de Trânsito Brasileiro, sendo fixado o regime aberto e convertida a pena privativa de liberdade em uma restritiva de direito, circunstância que não se enquadra entre os requisitos necessários para a concessão do indulto previstos no Decreto Presidencial n. 11.302/2022.  ..  (AgRg no REsp n. 2.124.043/RO, relator Ministro Og Fernandes, Sexta Turma, julgado em 18/6/2025, DJEN de 26/6/2025)
+AGRAVO REGIMENTAL EM RECURSO ESPECIAL. EXECUÇÃO PENAL. INDULTO PRESIDENCIAL. PENAS RESTRITIVAS DE DIREITOS. IMPOSSIBILIDADE. VEDAÇÃO EXPRESSA. AGRAVO REGIMENTAL DESPROVIDO.
+1. "Inviável o reconhecimento da extinção de punibilidade do requerente haja vista a vedação contida no art. 8º do Decreto n. 11.302/2022, que veda a extensão do indulto natalino às penas restritivas de direitos e de multa" (REsp n. 1.862.914/SP, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 11/4/2023, DJe de 13/4/2023).
+2. Não é dado ao Poder Judiciário estabelecer condições não previstas no decreto para conceder benefícios nele definidos, sob pena de usurpação da competência atribuída ao Presidente da República no art. 84, XII, da Constituição Federal. Irrelevante o fato de ter sido ou não realizada a audiência admonitória
+3. Agravo regimental desprovido.
+(AgRg no REsp n. 2.099.387/RO, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 30/9/2024, DJe de 3/10/2024.)
+Nesse contexto, fica claro que o Tribunal de origem violou a norma aplicável ao caso ao afastar a vedação legal e conceder o indulto à condenada que, nos termos do próprio decreto, não faz jus ao benefício.
+Ante o exposto, conheço do recurso especial e dou-lhe provimento, a fim de afastar o indulto natalino concedido à recorrida em desconformidade com o art. 8º, inciso I, do Decreto Presidencial n. 11.302/2022, determinando o restabelecimento e o regular prosseguimento da execução penal.
+Publique-se. Intimem-se.
+EMENTA
