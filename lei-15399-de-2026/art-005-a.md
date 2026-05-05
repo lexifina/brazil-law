@@ -1,0 +1,3 @@
+Art. 5º-A. O Ministério do Trabalho e Emprego deverá prover meios para o requerimento, a identificação, a comprovação documental e as demais exigências para o acesso ao seguro-desemprego pelos pescadores artesanais com restrições físicas, residentes em áreas longínquas, sem acesso ou com acesso insatisfatório à internet ou com disponibilidade precária de transporte e recursos tecnológicos em geral.
+§ 1º Nas situações previstas no caput deste artigo poderão ser utilizadas unidades móveis pelo Ministério do Trabalho e Emprego, diretamente ou por meio das alternativas previstas no § 13 do art. 2º desta Lei.
+§ 2º (VETADO)."
