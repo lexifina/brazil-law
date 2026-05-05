@@ -1,0 +1,100 @@
+DECISÃO
+
+1. Tansan Indústria Química Ltda.  formalizou agravo contra decisão de inadmissão do recurso extraordinário, fundamentada no caráter infraconstitucional do debate. Nas razões do agravo, sustenta a ofensa direta ao texto constitucional e reitera os argumentos expendidos no apelo extremo.
+
+Passo a analisar o extraordinário. E, ao examiná-lo, verifico que foi formalizado em face de acórdão do Tribunal de Justiça do Estado de São Paulo, assim ementado:
+
+APELAÇÃO CÍVEL. MANDADO DE SEGURANÇA. ICMS. BASE DE CÁLCULO. TUST E TUSD. INCLUSÃO. Pretensão de afastar a cobrança do ICMS sobre os valores devidos a título de Tarifa de Uso do Sistema de Transmissão (TUST) ou Distribuição (TUSD). Sentença que reconheceu a ilegitimidade ativa dos impetrantes para os períodos anteriores à eventual tutela provisória e, no mérito, denegou a segurança. Inconformismo da parte autora. Cabimento parcial. 1. Preliminares. Sobrestamento do feito para aguardar o trânsito em julgado do Tema 986/STJ ou o julgamento da ADI nº 7.195 pelo STF. Inadmissibilidade. Aplica-se à espécie o entendimento pacífico do STF no sentido de que não é necessário o trânsito em julgado do “leading case” para aplicação do precedente firmado em repercussão geral (e/ou recursos repetitivos) às demais causas afetadas. Ilegitimidade ativa “ad causam”. Inocorrência. De acordo com entendimento firmado pelo STJ, o contribuinte de fato do ICMS possui legitimidade para questionar sua base de cálculo. Acolhida a alegação dos apelantes para afastar a ilegitimidade ativa reconhecida na sentença. Mérito. O Superior Tribunal de Justiça, em julgamento do Tema Repetitivo 986, aos 13.3.2024, firmou a orientação no sentido de que “A Tarifa de Uso do Sistema de Transmissão (TUST) e/ou a Tarifa de Uso de Distribuição (TUSD), quando lançada na fatura de energia elétrica, como encargo a ser suportado diretamente pelo consumidor final (seja ele livre ou cativo), integra, para os fins do art. 13, § 1º, II, 'a', da LC 87/1996, a base de cálculo do ICMS”. Parte autora não beneficiada pela modulação dos efeitos no caso 'sub judice'. 3. Pedido subsidiário dirigido à determinação de que as autoridades coatoras se abstenham de exigir ICMS sobre os valores de TUSD e TUST a partir da data de publicação da Lei Complementar nº 194/2022. Impossibilidade. O art. 3º, X, da Lei Complementar nº 87/96, com a redação dada pela Lei Complementar nº 194/2022, teve sua eficácia suspensa por medida cautelar na ADI nº 7195, inexistindo justificativa para a não aplicação integral da tese vinculante definida pelo STJ no Tema nº 986. Mantida, no mérito, a denegação da segurança. Recurso parcialmente provido.
+
+Opostos embargos de declaração, foram rejeitados, consoante ementa abaixo:
+
+EMBARGOS DE DECLARAÇÃO. APELAÇÃO CÍVEL. MANDADO DE SEGURANÇA. ICMS. BASE DE CÁLCULO. TUST E TUSD. Cabimento do recurso condicionado à existência de vícios previstos no art. 1022 do CPC. Inexistência de omissão, contradição, obscuridade ou erro material no Acórdão. Fundamentos do julgado suficientes à resolução da controvérsia. Caráter infringente. Inadmissibilidade. Argumentos expostos que nitidamente visam à reforma do julgamento, não sendo possível aclarar o texto, porque inteiramente ausente mácula declaratória. Embargos de declaração rejeitados.
+
+No apelo excepcional, interposto com fundamento do art. 102, inciso III, alínea “a”, da Constituição Federal, a recorrente alega violação aos arts. 5º, caput e XXXVI; 145, §1º; 150, II; 155, II; 170, caput e IV, da Constituição, e art. 34, §9º, do ADCT, ao argumento de que é inconstitucional a inclusão das tarifas TUST e TUSD na base de cálculo do ICMS, por não corresponderem ao valor da energia efetivamente consumida; a aplicação imediata da tese firmado no Tema n. 986/STJ é indevida, diante da pendência de trânsito em julgado e da interposição de recurso extraordinário no leading case; a modulação de efeitos realizada pelo STJ viola princípios constitucionais como segurança jurídica, isonomia, capacidade contributiva, livre concorrência e livre iniciativa; e há necessidade de sobrestamento do feito até o julgamento definitivo da controvérsia pelo Supremo Tribunal Federal, uma fez pendente a ADI 7.195.
+
+É o relatório do essencial. Decido.
+
+2.  O Colegiado de origem concluiu, com fundamento na jurisprudência do Superior Tribunal de Justiça, que as tarifas da TUST e da TUSD, quando lançadas na fatura de energia elétrica, integram a base de cálculo do ICMS. Colho do acórdão o seguinte trecho elucidativo (eDoc. 100):
+
+De início, rejeita-se o pedido preliminar de sobrestamento do feito para aguardar o trânsito em julgado do Tema 986/STJ ou até o julgamento da ADI nº 7.195 pelo Supremo Tribunal Federal. Aplica-se à espécie o entendimento pacífico do STF no sentido de que não é necessário o trânsito em julgado do “Leading case” para aplicação do precedente firmado em repercussão geral (e/ou recursos repetitivos) às demais causas afetadas, in verbis:
+[...]
+Como cediço, a questão versada na presente lide foi definitivamente enfrentada pelo C. Superior Tribunal de Justiça no julgamento dos Recursos Especiais nºs 1.692.023/MT, 1.699.851/TO, 1.734.902/SP e 1.734.902/SP, afetados sob a sistemática de recursos repetitivos no Tema nº 986, em sessão realizada aos 13/03/2024, acórdão publicado em 29/05/2024, cuja ementa segue adiante transcrita:
+[...]
+Como sói entrever, considerando a disciplina jurídica vigente à época da propositura das ações doravante objetos dos recursos excepcionais, as peculiaridades do funcionamento do sistema de energia elétrica com base no judicioso voto de lavra da Ministra Regina Helena no REsp nº 1.163.020/RS - cujo julgamento sucedeu-se aos 27/03/2017 e tornouse marco fundamental para a mudança do panorama jurisprudencial da Corte, até então favorável aos contribuintes-, o C. Superior Tribunal de Justiça firmou a seguinte tese: “A Tarifa de Uso do Sistema de Transmissão (TUST) e/ou a Tarifa de Uso de Distribuição (TUSD), quando lançada na atura de energia elétrica, como encargo a ser suportado diretamente pelo consumidor final (seja ele livre ou cativo), integra, para os fins do art. 13, § 1º, II, 'a', da LC 87/1996, a base de cálculo do ICMS”.
+Registre-se que, em sede de modulação, a Corte Superior determinou expressamente a manutenção dos efeitos de decisões liminares ou antecipatórias de tutela proferidas em prol dos contribuintes até o dia 27 de março de 2017 (data do julgamento do REsp nº 1.163.020-RS, cujo voto condutor alterou completamente o panorama jurisprudencial da Corte, então favorável aos contribuintes) no sentido de que, independentemente de depósito judicial, recolham o ICMS sem a inclusão da TUSD e da TUST na base de cálculo. Advertiu a Corte, todavia que, mesmo nesses casos, esses contribuintes deverão passar a incluir as tarifas na base de cálculo do ICMS a partir da data da publicação do Acórdão do Tema Repetitivo 986, ou seja, 29/05/2024.
+De outra parte, a modulação de efeitos não beneficia contribuintes nas seguintes condições: a) sem ajuizamento de demanda judicial; b) com ajuizamento de demanda judicial, mas na qual inexista tutela de urgência ou de evidência (ou cuja tutela anteriormente concedida não mais se encontre vigente, por ter sido cassada ou reformada); c) com ajuizamento de demanda judicial, na qual a tutela de urgência ou evidência tenha sido condicionada à realização de depósito judicial; e, d) com ajuizamento de demanda judicial, na qual a tutela de urgência ou evidência tenha sido concedida após 27.3.2017.
+Postas tais premissas e considerando-se a aplicabilidade imediata do precedente vinculante firmado pelo Superior Tribunal de Justiça no julgamento do Tema nº 986, a denegação da segurança é medida que se afigura como de rigor.
+Da mesma forma, não passa despercebido que a tutela antecipada foi deferida em 11/04/2023 (fls. 102/109), portanto, em data posterior à publicação do acórdão do REsp 1.163.020/RS, razão pela qual a parte autora não se beneficia da modulação de efeitos do Tema 986 do STJ.
+Em outras palavras, considerando-se o entendimento firmado, em sede de recurso repetitivo, pelo Superior Tribunal de Justiça, a parte recorrida não está acobertada pela decisão judicial que a beneficiou com a exclusão das tarifas TUSD e TUST da base de cálculo do ICMS sobre a energia elétrica até a data da publicação do Acórdão do julgamento definitivo do Tema 986 do Superior Tribunal de Justiça.
+[...]
+Com tais considerações, a reforma parcial da sentença recorrida é medida que se impõe, apenas para reconhecer a legitimidade ativa dos impetrantes para requerer a repetição de indébito. Porém, no mérito, fica mantida a sentença que denegou a segurança, ante a ausência do direito líquido e certo que o impetrante alega possuir.
+Diante do exposto, dá-se parcial provimento ao recurso.
+
+A respeito da matéria, o Supremo, ao analisar o RE 1.041.816, paradigma do Tema n. 956/RG, reputou infraconstitucional, a ela se aplicando os efeitos da ausência de repercussão geral, a controvérsia relativa a inclusão dos valores pagos a título de Tarifa de Uso do Sistema de Transmissão (TUST) e Tarifa de Uso do Sistema de Distribuição (TUSD) na base de cálculo do ICMS incidente sobre a circulação de energia elétrica. Confira-se:
+
+RECURSO EXTRAORDINÁRIO. REPERCUSSÃO GERAL. DIREITO TRIBUTÁRIO. IMPOSTO SOBRE CIRCULAÇÃO DE MERCADORIAS E SERVIÇOS - ICMS. ENERGIA ELÉTRICA. BASE DE CÁLCULO. TARIFA DE USO DO SISTEMA DE TRANSMISSÃO - TUST. TARIFA DE USO DO SISTEMA DE DISTRIBUIÇÃO - TUSD. VALOR FINAL DA OPERAÇÃO. QUESTÃO INFRACONSTITUCIONAL. LEGISLAÇÃO FEDERAL.
+1. A correção jurídica da conduta de incluir os valores tarifários da TUST e da TUSD na base de cálculo do ICMS incidente sobre a circulação da energia elétrica é controvérsia que não possui estatura constitucional.
+2. Os juízos de origem formaram convicção com esteio na legislação infraconstitucional, notadamente o Código Tributário Nacional, Lei Complementar 87/1996, Leis federais 9.074/1995 e 10.848/2004, bem como Convênios CONFAZ 117/2004 e 95/2005, com posteriores alterações, e Resoluções da ANEEL, de modo que não se depreende da decisão recorrida ofensa direta ao Texto Constitucional.
+3. Recurso extraordinário a que se nega provimento.
+(RE 1.041.816, Tribunal Pleno, ministro Edson Fachin, Tema 956/RG, DJe de 17 de agosto de 2017)
+
+Considerado o precedente, descabe o enfrentamento do tema pelo Supremo em sede extraordinária, vez que adentrar nas razões de decidir do Tribunal de origem demandaria reinterpretação da legislação de regência aplicável. Nessa linha:
+
+Agravo regimental no recurso extraordinário. Tributário. Artigo 97 da CF. Inexistência de afronta. ICMS. Base de cálculo. Inclusão. TUST. TUSD. Súmula 166/STJ. Necessidade de reexame da causa à luz da legislação infraconstitucional. Afronta reflexa.
+1. O Tribunal de origem não declarou a inconstitucionalidade de lei ou ato normativo, tampouco afastou, no todo ou em parte, sua incidência com base em princípios constitucionais, limitando-se a interpretar a legislação aplicável na espécie. Inexistência de afronta ao art. 97 da Constituição ou à Súmula Vinculante nº 10/STF. Precedentes.
+2. O Supremo Tribunal Federal, na análise do RE nº 1.041.816/SP, Relator o Ministro Edson Fachin, julgamento finalizado em 4/8/17, reconheceu a ausência de repercussão geral da matéria referente à análise da Inclusão da Tarifa de Uso do Sistema de Transmissão (TUST) e da Tarifa de Uso do Sistema de Distribuição (TUSD) na base de cálculo do Imposto sobre Circulação de Mercadorias (ICMS) incidente sobre energia elétrica.
+3. Agravo regimental não provido, com imposição de multa de 2% (art. 1.021, § 4º, do CPC).
+4. Não se aplica ao caso dos autos a majoração dos honorários prevista no art. 85, § 11, do novo Código de Processo Civil, uma vez que não houve o arbitramento de honorários sucumbenciais em favor do recorrido pela Corte de origem.
+(RE 1.030.93 AgR, Segunda Turma, ministro Dias Toffoli, DJe de 19 de setembro de 2017)
+
+AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULAS 282 e 356/STF. TEMA 956. AGRAVO A QUE SE NEGA PROVIMENTO. MULTA APLICADA.
+I Recurso extraordinário com alegações que esbarram no óbice da ausência de prequestionamento, nos termos das Súmulas 282 e 356/STF.
+II Ausência de repercussão geral da controvérsia atinente à inclusão dos valores da TUST e da TUSD na base de cálculo do ICMS incidente sobre a circulação da energia elétrica (Tema 956 RE 1.041.816-RG).
+III Agravo regimental a que se nega provimento, com aplicação de multa (art. 1.021, § 4°, do CPC).
+(RE 1.028.124 AgR, Segunda Turma, ministro Ricardo Lewandowski, DJe de 31 de outubro de 2017)
+
+AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. TRIBUTÁRIO. IMPOSTO SOBRE CIRCULAÇÃO DE MERCADORIAS E SERVIÇOS – ICMS. DE ENERGIA ELÉTRICA. ADICIONAL TARIFÁRIO. BASE DE CÁLCULO. IMPOSSIBILIDADE DE REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO (SÚMULA N. 279 DO SUPREMO TRIBUNAL FEDERAL) E DE ANÁLISE DA LEGISLAÇÃO INFRACONSTITUCIONAL. INEXISTÊNCIA DE REPERCUSSÃO GERAL (TEMA 956). AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO.
+(RE 1.234.543, Segunda Turma, Ministra Cármen Lúcia, DJe de 28 de fevereiro de 2020)
+
+Outrossim, rememoro julgado do Plenário desta Corte, que ao apreciar o RE 1.539.198, negou seguimento ao recurso extraordinário — em razão da natureza infraconstitucional da discussão acerca da inclusão das tarifas de uso de sistemas de transmissão e distribuição de energia elétrica (TUST e TUSD) na base de cálculo do ICMS, incidente sobre a circulação de energia elétrica, conforme já decidido no Tema 956/RG —, e  salientou que, apesar de no julgamento da ADI 7.195 ter sido deferida, a cautelar “para suspender os efeitos do art. 3º, X, da Lei Complementar nº 87/96, com redação dada pela Lei Complementar nº 194/2022, não altera as conclusões do STF sobre a natureza infraconstitucional da controvérsia. Veja-se:
+
+Ementa: Direito Tributário. Recurso extraordinário. Tarifa de uso do sistema de distribuição (TUSD) e tarifa de uso dos sistemas de transmissão (TUST) na base de cálculo do ICMS. Aplicação de tema de repercussão geral.
+I. Caso em exame
+1. Recurso extraordinário contra acórdão do Superior Tribunal de Justiça que fixou tese em recurso repetitivo (Tema 986/STJ), afirmando que a “Tarifa de Uso do Sistema de Transmissão (TUST) e/ou a Tarifa de Uso de Distribuição (TUSD), quando lançadas na fatura de energia elétrica, como encargo a ser suportado diretamente pelo consumidor final (seja ele livre ou cativo), integra, para os fins do art. 13, § 1º, II, 'a', da LC 87/1996, a base de cálculo do ICMS”.
+II. Questão em discussão
+2. A questão em discussão consiste em saber se as tarifas de uso de sistemas de transmissão e distribuição de energia elétrica (TUST e TUSD) devem compor a base de cálculo do ICMS.
+III. Razões de decidir
+3. O STF, no julgamento do RE 1.041.816 (Tema 956/RG) afirmou a natureza infraconstitucional de controvérsia sobre “a inclusão dos valores pagos a título de Tarifa de Uso do Sistema de Transmissão (TUST) e Tarifa de Uso do Sistema de Distribuição (TUSD) na base de cálculo do ICMS incidente sobre a circulação de energia elétrica”.
+4. O Tema 986/STJ não tratou da discussão sobre a inconstitucionalidade do inciso X do art. 3º da Lei Complementar nº 87/1996, incluído pela Lei Complementar nº 194/2022. A controvérsia foi decidida com base na interpretação da Lei Complementar nº 87/1996, com a redação anterior à Lei Complementar nº 194/2022.
+5. O debate sobre a constitucionalidade da LC nº 194/2022 é objeto da ADI 7.195, em que foi deferida cautelar para suspensão dos efeitos do dispositivo. Não há, portanto, distinção para afastar a aplicação do Tema 956/STF sobre a natureza infraconstitucional da questão sobre a inclusão da TUSD e da TUST na base de cálculo do ICMS.
+IV. Dispositivo
+6. Devolução do processo ao tribunal de origem para que adote as providências da alínea “a” do inciso I do art. 1.030 do CPC/2015. (RE 1.53.919, Tribunal Pleno, ministro Luís Roberto Barroso (Presidente), DJe de 4 de junho de 2025)
+
+Para melhor elucidar a questão, destaco excerto do voto condutor, proferido pelo ministro Luís Roberto Barroso:
+
+Nesse aspecto, o STF, por ocasião do julgamento do RE 1.041.816, Rel. Min. Edson Fachin, j. em 07.08.2017, fixou tese, no regime da repercussão geral (Tema 956/RG), afirmando que “é infraconstitucional, a ela se aplicando os efeitos da ausência de repercussão geral, a controvérsia relativa a inclusão dos valores pagos a título de Tarifa de Uso do Sistema de Transmissão (TUST) e Tarifa de Uso do Sistema de Distribuição (TUSD) na base de cálculo do ICMS incidente sobre a circulação de energia elétrica”. Como não houve exame sobre a constitucionalidade do inciso X do art. 3º da Lei Complementar nº 87/1996, não há, como já se adiantou, distinção para justificar o afastamento do Tema 956/STF sobre a natureza infraconstitucional da controvérsia.
+Recorde-se que o debate sobre a constitucionalidade do inciso X do art. 3º da LC nº 87/1996 é objeto da ADI 7.195, Rel. Min. Luiz Fux. Na ação direta, a cautelar foi deferida “para suspender os efeitos do art. 3º, X, da Lei Complementar nº 87/96, com redação dada pela Lei Complementar nº 194/2022”. Assim sendo, o julgamento pelo STJ no regime dos recursos repetitivos não interfere no objeto da ADI 7.159, nem altera as conclusões sobre a natureza infraconstitucional da controvérsia examinada pelo acórdão recorrido.
+
+Dessa forma, não há falar em sobrestamento do feito para se aguardar o julgamento da ADI 7.159.
+
+Demais disso, não há falar em impossibilidade de respeito imediato, pelo Tribunal local, ao precedente qualificado advindo do STJ. Relembro, nessa medida, que é a firme a jurisprudência do Supremo quanto à aplicação imediata de paradigma de repercussão geral a casos idênticos, independente do trânsito em julgado (RE 989413 AgR-ED-ED, ministra Cármen Lúcia, DJe 17.11.2017)
+
+Além disso, é irrelevante que tenha sido interposto recurso extraordinário em face do Tema n. 986/STJ, porquanto não foi reconhecida repercussão geral, e tampouco determinada suspensão nacional do processamento de todos os processos pendentes, individuais ou coletivos, que versem sobre a questão (CPC, art. 1.035, § 5º).
+
+Por fim, revela-se impertinente a alegação de que a modulação de efeitos definida pelo Superior Tribunal de Justiça no Tema n. 986 viola dispositivos constitucionais, porquanto o recurso extraordinário se volta contra acórdão do Tribunal de Justiça do Estado de São Paulo, sendo inviável, nesta via, a impugnação direta de entendimento firmado por tribunal diverso. Eventual inconformismo quanto à modulação adotada pelo STJ não se confunde com vício próprio do acórdão recorrido, limitando-se a refletir a aplicação, pela Corte de origem, de precedente de natureza infraconstitucional.
+
+3. Em face do exposto, não conheço do presente recurso extraordinário com agravo.
+
+4. Ao amparo do enunciado n. 512 da Súmula/STF, não se aplica o disposto no § 11 do art. 85 do CPC.
+
+5. Por fim, advirto as partes que a interposição de recursos protelatórios, bem como manifestamente inadmissíveis ou improcedentes, ensejará a imposição de multa, nos termos do art. 1.021, § 4º, e do art. 1.026, §2º, do Código de Processo Civil (CPC).
+
+Nesse sentido, a jurisprudência do Supremo: ARE 1468509 AgR-ED, Segunda Turma, ministro André Mendonça,  DJe de 3 de setembro de 2024; ARE 1.107.805 AgR,  Primeira Turma, ministro Luís Roberto Barroso,  DJe de 3 de fevereiro de 2020; Rcl 45.289 AgR, ministro Dias Toffoli, DJe de 30 de novembro de 2021; Rcl 24.841 ED-AgR, Primeira Turma, ministro Luiz Fux, DJe de 11 de maio de 2017; MS 37.637 AgR, Tribunal Pleno, ministro Luís Roberto Barroso, DJe de 16 de junho de 2021; MS 35.272 AgR-segundo, Segunda Turma, ministro Edson Fachin, DJe de 8 de outubro de 2020; e, ARE 1.321.696 ED-AgR Segunda Turma, ministro André Mendonça, DJe de 29 de junho de 2022.
+
+6. Publique-se.
+
+Brasília, 5 de maio de 2026.
+
+Ministro NUNES MARQUES
+Relator
+Documento assinado digitalmente
