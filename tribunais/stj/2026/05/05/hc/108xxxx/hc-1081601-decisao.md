@@ -1,0 +1,44 @@
+DECISÃO
+Trata-se de habeas corpus de próprio punho impetrado em favor de DIEGO LIMA DE OLVIEIRA contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO na Apelação Criminal n. 1541454-90.2024.8.26.0050.
+Consta dos autos que o paciente foi condenado a 7 anos, 9 meses e 10 dias de reclusão, em regime inicial fechado, pela prática do crime previsto no art. 157, § 2º, II, e § 2º-A, I, c.c. art. 61, II, "h", do Código Penal. O Tribunal a quo negou provimento à apelação defensiva e inadmitiu o recurso especial. Certificado o trânsito em julgado aos 16/07/2025. A Guia de Recolhimento foi expedida aos 18/08/2025.
+Neste writ, o paciente aduz ausência de prova suficiente para condenação e Pleiteia a fixação da pena no mínimo legal. Intimada, a Defensoria Pública da União sustenta a revisão da dosimetria, que teria sido exacerbada e sem fundamentação idônea. Pleiteia de a concessão da ordem (fls. 15/16).
+Informações prestadas a fls. 462/495.
+O Ministério Público Federal se manifestou pelo não conhecimento do habeas corpus (fls. 501/504).
+É o relatório.
+Decido.
+Inicialmente, cumpre registrar que o presente habeas corpus foi impetrado contra acórdão do Tribunal de origem já transitado em julgado. Nesse cenário, não se deve conhecer do presente writ, manejado como substitutivo de revisão criminal, em hipótese em que não se inaugurou a competência desta Corte.
+Nesse sentido:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. HABEAS CORPUS SUBSTITUTIVO DE REVISÃO CRIMINAL. ATO APONTADO COMO COATOR TRANSITADO EM JULGADO. INCOMPETÊNCIA DO STJ. AUSÊNCIA DE FLAGRANTE ILEGALIDADE. DOIS FURTOS EM CONTINUIDADE DELITIVA. REINCIDÊNCIA ESPECÍFICA. MAUS ANTECEDENTES. INSIGNIFICÂNCIA NÃO CONFIGURADA. AGRAVO NÃO PROVIDO.
+1. A competência do STJ para processar e julgar revisão criminal limita-se às hipóteses de seus próprios julgados. A defesa busca, diretamente perante esta Corte Superior, a desconstituição do trânsito em julgado da apelação. Assim, não há como conhecer da impetração, por não ser o STJ o órgão competente para examinar o pleito.
+2. Ademais, não há flagrante ilegalidade na espécie, uma vez que o acórdão combatido atuou em consonância com a jurisprudência desta Corte Superior ao rejeitar a aplicação do princípio da insignificância.
+3. A análise das circunstâncias que permeiam a prática ilícita - dois crimes com mesmo modus operandi, na mesma data -, somada à dupla reincidência específica e aos maus antecedentes do réu, impede, nos termos da jurisprudência desta Corte Superior, o reconhecimento da atipicidade da conduta. Precedentes 4. Agravo não provido.
+(AgRg no HC n. 1.014.903/SP, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 1/10/2025, DJEN de 6/10/2025; grifamos.)
+De qualquer modo, passo à análise de eventual flagrante ilegalidade.
+Nos termos do Tema 1258 verifica-se que a autoria está lastreada em complexo probatório. Os reconhecimentos fotográfico (fl. 26) e pessoal (fl. 61) observaram as formalidades do art. 226 do Código de Processo Penal. Ademais, a autoria foi constatada a partir de outras provas, dentre elas, o Relatório de Investigação (fl. 31), com levantamento de placas das motocicletas utilizadas no crime, e busca e apreensão em que foram localizados placas, revólver municiado, munições, relógio da vítima e outros relógios de pulso (fl. 66). Assim, para desconstituir a conclusão do Tribunal de origem seria necessário revolvimento fático-probatório incabível na via do habeas corpus.
+No tocante à dosimetria, da análise do acórdão a fls. 319/336, verifica-se que a pena-base foi fixada no mínimo legal.
+A pena intermediária valorou a agravante do art. 61, II, h, do Código Penal, por ter a vítima mais de sessenta anos, na fração de 1/6.
+Na terceira fase incidiu apenas uma causa de aumento em 2/3, apesar da existência e possibilidade de incidência cumulativa das causas de aumento referentes ao concurso de agentes e ao emprego de arma de fogo. Todavia, diante da ausência de recurso ministerial, uma das majorantes sobejantes não foi valorada em nenhuma das fases da dosimetria da pena. A propósito:
+DIREITO PENAL. AGRAVO REGIMENTAL EM HABEAS CORPUS. ROUBO MAJORADO. APLICAÇÃO CUMULATIVA DE CAUSAS DE AUMENTO DE PENA. FUNDAMENTAÇÃO IDÔNEA. AGRAVO REGIMENTAL NÃO PROVIDO.
+I. CASO EM EXAME
+1. Agravo regimental interposto contra decisão monocrática que não conheceu de habeas corpus, mantendo acórdão do Tribunal de Justiça do Estado da Paraíba, o qual havia confirmado a condenação do agravante às penas de 8 anos, 7 meses e 11 dias de reclusão e ao pagamento de 318 dias-multa, como incurso no art. 157, § 2º, II, e § 2º-A, I, do Código Penal, em razão de roubo praticado mediante grave ameaça e emprego de arma de fogo, em concurso de agentes.
+2. Nas razões do habeas corpus, a Defesa alegou ilegalidade na terceira fase da dosimetria da pena, sustentando que a aplicação cumulativa das causas de aumento relativas ao concurso de pessoas e ao emprego de arma de fogo não foi devidamente fundamentada, e que as frações de 1/3 e 2/3 foram aplicadas sem justificativa concreta para a cumulação. Requereu a aplicação apenas da causa de aumento mais gravosa.
+3. O Tribunal de Justiça do Estado da Paraíba considerou que a dosimetria da pena foi realizada com fundamentação idônea, observando as peculiaridades do caso concreto e os critérios do art. 59 e 68 do Código Penal, e rejeitou os argumentos da Defesa.
+II. QUESTÃO EM DISCUSSÃO
+4. A questão em discussão consiste em saber se a aplicação cumulativa das causas de aumento de pena previstas no art. 157, § 2º, II, e § 2º-A, I, do Código Penal, referente ao concurso de pessoas e ao emprego de arma de fogo, foi devidamente fundamentada pelas instâncias ordinárias.
+III. RAZÕES DE DECIDIR
+5. A dosimetria da pena está inserida no campo da discricionariedade do julgador, que deve adequá-la ao patamar que melhor sirva para a repressão do delito, considerando as peculiaridades do caso concreto.
+6. A aplicação cumulativa das causas de aumento de pena previstas no art. 157, § 2º, II, e § 2º-A, I, do Código Penal foi devidamente fundamentada, com base na gravidade concreta do delito, no número de agentes, na divisão de tarefas entre eles e no emprego de arma de fogo, elementos que evidenciam o maior grau de reprovabilidade da conduta.
+7. A jurisprudência do Superior Tribunal de Justiça admite a aplicação cumulativa de causas de aumento de pena, desde que devidamente fundamentada, conforme o art. 68, parágrafo único, do Código Penal.
+8. A decisão agravada está em conformidade com a jurisprudência do Superior Tribunal de Justiça, que reconhece a possibilidade de aplicação cumulativa das causas de aumento de pena em casos de roubo majorado, desde que fundamentada em elementos concretos que evidenciem maior gravidade e reprovabilidade da conduta.
+IV. DISPOSITIVO E TESE
+9. Resultado do Julgamento: Agravo regimental não provido.
+Tese de julgamento: 1. A aplicação cumulativa das causas de aumento de pena previstas no art. 157, § 2º, II, e § 2º-A, I, do Código Penal é possível, desde que devidamente fundamentada com base em elementos concretos que evidenciem maior gravidade e reprovabilidade da conduta. 2. A dosimetria da pena está inserida no campo da discricionariedade do julgador, que deve adequá-la ao patamar que melhor sirva para a repressão do delito, considerando as peculiaridades do caso concreto.
+Dispositivos relevantes citados: CP, arts. 59, 68, 157, § 2º, II, e § 2º-A, I; CF/1988, art. 93, IX.
+Jurisprudência relevante citada: STJ, AgRg no HC 786.322/SP, Rel. Min. Ribeiro Dantas, Quinta Turma, julgado em 13.03.2023; STJ, AgRg no HC 751.111/PR, Rel. Min. Rogerio Schietti Cruz, Sexta Turma, julgado em 20.09.2022; STJ, AgRg no HC 855.270/PR, Rel. Min. Reynaldo Soares da Fonseca, Quinta Turma, julgado em 19.10.2023.
+(AgRg no HC n. 1.015.586/PB, relator Ministro Carlos Pires Brandão, Sexta Turma, julgado em 18/3/2026, DJEN de 24/3/2026.)
+Conforme ressaltado no acórdão do Tribunal a quo, a ausência de apelação ministerial torna consolidada a pena, diante da vedação à reformation in pejus. Nesse cenário, fato é que a pena-base foi fixada no mínimo legal, não sendo valorada nenhuma circunstância judicial negativa, nem reincidência. A pena-final é inferior a 8 anos. Dessa forma, nos termos do art. 33 do Código Penal, o regime aplicável é o semiaberto.
+Observa-se da sentença e do acórdão impugnado a ausência de fundamentação concreta para a imposição do regime fechado diante da dosimetria realizada. A gravidade em abstrato do crime não é suficiente para tanto, conforme Súmulas 718 e 719 do STF e 440 do STJ.
+Assim, constata-se flagrante ilegalidade na fixação do regime inicial fechado diante da dosimetria realizada.
+Ante o exposto, não conheço do habeas corpus. Porém, concedo a ordem de ofício para fixar o regime inicial semiaberto.
+Publique-se. Intimem-se.
+EMENTA
