@@ -1,0 +1,28 @@
+DECISÃO
+Trata-se de agravo interposto da decisão que inadmitiu o recurso especial no qual o Estado do Rio de Janeiro se insurgira, com fundamento no art. 105, inciso III, alínea a, da Constituição Federal, contra o acórdão do Tribunal de Justiça do Estado do Rio de Janeiro assim ementado (fl. 58):
+AGRAVO DE INSTRUMENTO. Ação ordinária visando o recolhimento de ICMS sobre energia elétrica consumida. Recurso manejado pelo autor contra a decisão que indeferiu o levantamento dos valores depositados judicialmente, em razão da procedência do pedido. O agravante depositou judicialmente, no curso da lide, somente a parcela controvertida, de modo que o pedido de levantamento pela parte vencedora é um desdobramento lógico do trânsito em julgado da sentença. Inexiste na espécie a necessidade de liquidação do julgado, até porque o Estado não indicou nenhum valor como controvertido. Precedentes deste TJRJ. Decisão reformada, excluindo-se a multa imposta por considerar os embargos como protelatórios. DADO PROVIMENTO ao recurso.
+Os embargos de declaração opostos foram rejeitados (fls. 97/100).
+Em suas razões, a parte agravante requereu o conhecimento do agravo a fim de que fosse determinado o processamento do recurso especial.
+A parte adversa apresentou contraminuta (fls. 260/271).
+É o relatório.
+Da irresignação não é possível conhecer visto que a parte agravante não refutou adequadamente a decisão agravada.
+O Tribunal de origem inadmitiu o recurso especial com os seguintes fundamentos:
+(i) inexistência de negativa de prestação jurisdicional e de vício de fundamentação, com afastamento da alegada ofensa aos arts. 489 e 1.022 do CPC (fls. 191/195);
+(ii) incidência da Súmula 7/STJ, por demandar o recurso especial reexame fático-probatório (fls. 195/196);
+Nas razões do agravo em recurso especial, a parte recorrente alegou, em síntese, o seguinte:
+(i) que houve violação aos arts. 489, II e § 1º, e VI, e 1.022 do CPC, por ausência de fundamentação e negativa de prestação jurisdicional (fls. 236/237);
+(ii) que as questões postas são exclusivamente de direito e independem de reexame probatório, por decorrerem do Tema 176/STF e da natureza dos depósitos (fls. 238/239);
+(iii) que é imprescindível a liquidação prévia (art. 509, CPC) e a proporcionalidade do levantamento dos depósitos (arts. 150, § 4º, e 151, II, CTN), citando precedentes do STJ (fls. 239/241).
+Pelo cotejo das peças, vejo que a parte agravante apresentou impugnação insuficiente ao fundamento relativo à negativa de prestação jurisdicional (arts. 489 e 1.022 do CPC), pois não individualizou qualquer vício concreto do acórdão recorrido, limitando-se a alegações genéricas, sem apontar os pontos que estariam omissos e sem indicar trechos específicos capazes de infirmar a conclusão adotada na decisão de inadmissibilidade (fls. 191/195; 236/231).
+Esclareço que o agravo em recurso especial tem por objetivo desconstituir a decisão de inadmissão de recurso especial e, por isso, é imprescindível a impugnação específica de todos os fundamentos nela lançados com o fim de demonstrar o seu desacerto, o que, com o se vê, não foi feito no presente caso.
+Por faltar impugnação pertinente, aplico ao presente caso, por analogia, a Súmula 182 do Superior Tribunal de Justiça, segundo a qual "é inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada".
+Sobre o tema:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RAZÕES DO AGRAVO QUE NÃO IMPUGNAM, ESPECIFICAMENTE, TODOS OS FUNDAMENTOS DA DECISÃO QUE NÃO ADMITIU O RECURSO ESPECIAL. ART. 932, III, DO CPC/2015 E SÚMULA 182/STJ, POR ANALOGIA. AGRAVO INTERNO NÃO PROVIDO.
+ ..
+II. Incumbe ao agravante infirmar, especificamente, todos os fundamentos da decisão que inadmitiu o Recurso Especial, demonstrando o seu desacerto, de modo a justificar o processamento do apelo nobre, sob pena de não ser conhecido o Agravo (art. 932, III, do CPC vigente). Nesse sentido: STJ, AgRg no AREsp 704.988/RS, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe de 10/09/2015; EDcl no AREsp 741.509/SP, Rel. Ministra REGINA HELENA COSTA, PRIMEIRA TURMA, DJe de 16/09/2015; AgInt no AREsp 888.667/RJ, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, DJe de 18/10/2016; AgInt no AREsp 895.205/PB, Rel. Ministro FRANCISCO FALCÃO, SEGUNDA TURMA, DJe de 20/10/2016; AgInt no AREsp 800.320/MG, Rel. Ministro OG FERNANDES, SEGUNDA TURMA, DJe de 13/10/2016; EAREsp 701.404/SC, Rel. Ministro JOÃO OTÁVIO DE NORONHA, Rel. p/ acórdão Ministro LUIS FELIPE SALOMÃO, CORTE ESPECIAL, DJe de 30/11/2018; EAREsp 831.326/SP, Rel. Ministro JOÃO OTÁVIO DE NORONHA, Rel. p/ acórdão Ministro LUIS FELIPE SALOMÃO, CORTE ESPECIAL, DJe de 30/11/2018; EAREsp 746.775/PR, Rel. Ministro JOÃO OTÁVIO DE NORONHA, Rel. p/ acórdão Ministro LUIS FELIPE SALOMÃO, CORTE ESPECIAL, DJe de 30/11/2018.
+III. No caso, por simples cotejo entre o decidido e as razões do Agravo em Recurso Especial verifica-se a ausência de impugnação específica de todos os fundamentos da decisão que, em 2º Grau, inadmitira o Especial, o que atrai a aplicação do disposto no art. 932, III, do CPC/2015 - vigente à época da publicação da decisão então agravada e da interposição do recurso -, que faculta ao Relator "não conhecer de recurso inadmissível, prejudicado ou que não tenha impugnado especificamente os fundamentos da decisão recorrida", bem como do teor da Súmula 182 do Superior Tribunal de Justiça, por analogia.
+IV. Agravo interno improvido.
+(AgInt no AREsp 1.503.814/MA, relatora Ministra Assusete Magalhães, Segunda Turma, julgado em 17/10/2019, DJe de 28/10/2019, sem destaque no original.)
+Ante o exposto, não conheço do agravo em recurso especial.
+Publique-se. Intimem-se.
+EMENTA
