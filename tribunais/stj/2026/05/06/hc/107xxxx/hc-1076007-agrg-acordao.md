@@ -1,0 +1,37 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEXTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 30/04/2026 a 06/05/2026, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Rogerio Schietti Cruz, Carlos Pires Brandão e Og Fernandes votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Carlos Pires Brandão.
+EMENTA
+DIREITO PENAL E PROCESSUAL PENAL. AGRAVO REGIMENTAL EM HABEAS CORPUS LIMINARMENTE INDEFERIDO. TRÁFICO DE DROGAS. AFASTAMENTO DA CAUSA ESPECIAL DE DIMINUIÇÃO. QUANTIDADE ELEVADA DE COCAÍNA. LOGÍSTICA INTERESTADUAL. OCULTAÇÃO EM PEÇAS DE TRATOR. INFORMAÇÕES OPERACIONAIS DA POLÍCIA FEDERAL. MOTIVAÇÃO IDÔNEA. VALORAÇÃO DA QUANTIDADE E NATUREZA DE DROGAS NA PRIMEIRA E NA TERCEIRA FASE. BIS IN IDEM. NÃO OCORRÊNCIA. CONSTRANGIMENTO ILEGAL. AUSÊNCIA.
+Agravo regimental improvido.
+RELATÓRIO
+Trata-se de agravo regimental interposto por ADERLEY JUSTINO DE OLIVEIRA contra a decisão monocrática proferida pela Presidência do Superior Tribunal de Justiça que indeferiu liminarmente o habeas corpus impetrado (fls. 68/72).
+O agravante requer o conhecimento e provimento do agravo regimental, com a concessão da ordem para aplicar o redutor do art. 33, § 4º, da Lei n. 11.343/2006, preferencialmente na fração máxima de 2/3, com o redimensionamento da pena.
+Aduz a primariedade e bons antecedentes do condenado, ausência de prova concreta de dedicação a atividades criminosas e inexistência de prova de integração em organização criminosa.
+Alega flagrante ilegalidade no afastamento do redutor, por ter sido negado com base exclusivamente na quantidade do entorpecente apreendido, em desconformidade com a jurisprudência das Cortes Superiores.
+Por fim, afirma ocorrência de bis in idem na dosimetria, com uso da quantidade de droga para elevar a pena-base e, ao mesmo tempo, para afastar ou modular a minorante.
+É o relatório.
+EMENTA
+DIREITO PENAL E PROCESSUAL PENAL. AGRAVO REGIMENTAL EM HABEAS CORPUS LIMINARMENTE INDEFERIDO. TRÁFICO DE DROGAS. AFASTAMENTO DA CAUSA ESPECIAL DE DIMINUIÇÃO. QUANTIDADE ELEVADA DE COCAÍNA. LOGÍSTICA INTERESTADUAL. OCULTAÇÃO EM PEÇAS DE TRATOR. INFORMAÇÕES OPERACIONAIS DA POLÍCIA FEDERAL. MOTIVAÇÃO IDÔNEA. VALORAÇÃO DA QUANTIDADE E NATUREZA DE DROGAS NA PRIMEIRA E NA TERCEIRA FASE. BIS IN IDEM. NÃO OCORRÊNCIA. CONSTRANGIMENTO ILEGAL. AUSÊNCIA.
+Agravo regimental improvido.
+VOTO
+Não assiste razão ao agravante.
+Em exame de eventual ilegalidade flagrante, a decisão agravada manteve o afastamento do tráfico privilegiado, destacando elementos concretos: apreensão de mais de 100 kg de cocaína de alto valor econômico; logística interestadual entre Iturama/MG e São Paulo/SP; método sofisticado de ocultação em peças de trator soldadas, cuja localização exigiu abertura em oficina; e prévias informações operacionais da Polícia Federal, circunstâncias que revelam inserção do agente em organização criminosa e profissionalismo na traficância.
+O Tribunal de origem destacou que (fls. 16/17 - grifo nosso):
+ ..
+Pois bem. Apesar dos argumentos defensivos, as nuances do caso revelam, com clareza, a inserção do acusado em atividades próprias de organização criminosa. Isso porque, tratando-se de cocaína, o volume apreendido, aliado às condições específicas do flagrante, evidencia a existência de uma estrutura intersubjetiva, verticalizada e voltada à comercialização ilícita, apta a colocar em sério risco a incolumidade pública.
+Estamos falando de mais de 100 kg (cem quilogramas) de cocaína, tóxico de elevado valor econômico, que estava partindo da cidade de Iturama/MG até a capital paulista, não fosse a intervenção da Polícia Federal. Não é plausível admitir que quantidade tão expressiva de material ilícito  com valor provavelmente estimado em dezenas de milhões de reais  fosse confiada a um indivídu o alheio à dinâmica da traficância ou sem vínculo de confiança com os proprietários da carga.
+Diante desse contexto, é razoável concluir que apenas um grupo criminoso altamente estruturado, dotado de significativo capital e acesso ao mercado "atacadista" de drogas, teria condições de intermediar a aquisição e o transporte do entorpecente.
+A testemunha Átila Afonso Cunha, agente da Polícia Federal, declarou em juízo que a operação foi precedida de informações sobre o transporte da cocaína, que estava escondida no interior de algumas peças de trator, alocadas, por sua vez, na caçamba da caminhonete do acusado. Ressaltou o depoente que, num primeiro momento, era possível notar que as partes integrantes do maquinário haviam sido soldadas. Em razão da suspeita, elas foram encaminhadas até certa oficina para a abertura, oportunidade em que foi revelada a presença do entorpecente.
+ ..
+Ao ser interrogado em sede judicial, o acusado exerceu o direito constitucional ao silêncio. Todavia, na delegacia, Aderley Justino afirmou ter pego a caminhonete na cidade de Pontes e Lacerda/MT, e que receberia R$5.000,00 (cinco mil reais) pelo transporte da droga até a cidade de São Paulo/SP. Logo, para concluir a entrega, considerando o relato do autor e a passagem pelo município de Iturama/MG, o apelante se comprometeu a guiar o veículo por, no mínimo, quatro estados da federação.
+Ante o exposto, ainda que primário e detentor de bons antecedentes criminais, mostra-se seguro o afastamento da causa especial de diminuição de pena, haja vista que os elementos reunidos apontaram que o réu estava inserido em organização criminosa comprometida com o narcotráfico.
+ ..
+Diante desses elementos, reputou suficiente o acervo fático-probatório para justificar o afastamento do tráfico privilegiado, o que encontra respaldo na jurisprudência desta Corte de Justiça.
+Com efeito, não há ilegalidade na aplicação da pena, porquanto, no caso, estão presentes outros elementos concretos que, associados à grande quantidade de entorpecentes (236,200 kg de maconha), justificam o afastamento da minorante do tráfico privilegiado, tais como as circunstâncias do delito, notadamente a transnacionalidade do tráfico e o fato de a droga estar escondida em compartimento oculto (AgRg no HC n. 985.192/MS, relator Ministro Og Fernandes, Sexta Turma, julgado em 18/6/2025, DJEN de 26/6/2025 - grifo nosso).
+No mesmo sentido: AgRg no HC n. 904.829/MS, Ministro Messod Azulay Neto, Quinta Turma, julgado em 21/5/2024, DJe de 28/5/2024; e AgRg no HC n. 910.086/PR, Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 21/5/2024, DJe de 28/5/2024.
+Ademais, como bem ressaltado na decisão agravada, a tese de bis in idem merece ser afastada pois a quantidade e variedade de drogas não foi o único fundamento considerado para afastar a incidência do tráfico privilegiado (fl. 72 - grifo nosso).
+Essa é exatamente a orientação desta Corte de Justiça - a utilização concomitante da natureza e da quantidade da droga apreendida na primeira e na terceira fases da dosimetria, nesta última para descaracterizar o tráfico privilegiado ou modular a fração de diminuição de pena, somente pode ocorrer quando esse vetor seja conjugado com outras circunstâncias do caso concreto que, unidas, caracterizem a dedicação do agente à atividade criminosa ou à integração a organização criminosa.
+Nesse sentido: AgRg no AREsp n. 2.338.256/MG, Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 12/3/2024, DJe de 18/3/2024.
+Nego provimento ao agravo regi mental.
