@@ -1,0 +1,31 @@
+DECISÃO
+Trata-se de recurso ordinário em habeas corpus interposto em favor de FRANCISCO EVERTON BATISTA DE ALMEIDA contra acórdão do Tribunal de Justiça do Estado do Ceará (HC n. 0621865-80.2026.8.06.0000).
+Consta que o recorrente teve a prisão preventiva decretada no processo originário nº 0204923-09.2025.8.06.0312, pela suposta prática de homicídio tentado, com base nos arts. 312 e 313, I, do Código de Processo Penal, em razão de gravidade concreta da conduta, do modus operandi e de indícios de autoria colhidos no inquérito, notadamente a partir do depoimento da vítima e de testemunhas, mencionando-se o crime tipificado no art. 121, caput, c/c art. 14, II, do Código Penal (e-STJ fls. 103/105).
+A defesa impetrou habeas corpus perante o Tribunal de origem alegando ausência de fundamentação idônea do decreto prisional, sustentando que os fundamentos são genéricos e calcados na gravidade abstrata do delito, bem como negativa de autoria, e requereu a substituição da custódia por medidas cautelares diversas da prisão.
+O Tribunal a quo denegou a ordem, em acórdão assim ementado (e-STJ fls. 100/101):
+EMENTA: DIREITO PROCESSUAL PENAL. HABEAS CORPUS. TENTATIVA DE HOMICÍDIO. PRISÃO PREVENTIVA. FUNDAMENTAÇÃO CONCRETA. GRAVIDADE DA CONDUTA. GARANTIA DA ORDEM PÚBLICA. INADEQUAÇÃO DE MEDIDAS CAUTELARES DIVERSAS. NEGATIVA DE AUTORIA. INADEQUAÇÃO DA VIA ELEITA. ORDEM PARCIALMENTE CONHECIDA E, NESSA EXTENSÃO, DENEGADA.
+I. Caso em análise
+1. Habeas corpus, com pedido liminar, impetrado em favor de paciente preso preventivamente pela suposta prática do crime de homicídio tentado, no qual a defesa sustenta a ausência de fundamentação idônea do decreto prisional, por entender que se apoia em argumentos abstratos e presunções hipotéticas, além de alegar negativa de autoria, requerendo alvará de soltura ou, subsidiariamente, a substituição da custódia por medidas cautelares diversas.
+II. Questão em discussão
+2. Há 2 questões em discussão: (i) definir se o decreto de prisão preventiva apresenta fundamentação concreta e idônea, apta a justificar a custódia cautelar para garantia da ordem pública; e (ii) estabelecer se a alegação de negativa de autoria pode ser examinada na via estreita do habeas corpus.
+III. Razões de decidir
+3. O decreto preventivo apoia-se na prova da materialidade e em indícios suficientes de autoria colhidos no inquérito policial, notadamente a partir do depoimento da vítima e das testemunhas, os quais fornecem lastro probatório mínimo para a segregação cautelar.
+4. A decisão impugnada apresenta fundamentação concreta, e não abstrata, ao destacar a dinâmica violenta dos fatos, em que a vítima foi surpreendida, ao sair de seu estabelecimento comercial, por indivíduos armados que efetuaram disparos em sua direção, atingindo outra pessoa que se encontrava no local.
+5. O modus operandi do delito evidencia a gravidade concreta da conduta e a periculosidade do agente, circunstâncias que legitimam a prisão preventiva para resguardar a ordem pública.
+6. As medidas cautelares diversas da prisão previstas no art. 319 do CPP mostram-se insuficientes diante do risco concreto evidenciado.
+7. A tese de negativa de autoria não pode ser acolhida em habeas corpus, porque sua apreciação demanda exame aprofundado do conjunto fático-probatório, providência
+incompatível com a via estreita do writ.
+IV. Dispositivo
+8. Ordem parcialmente conhecida e, nesta extensão, denegada.
+Tese de julgamento: A prisão preventiva é válida quando fundamentada em elementos concretos extraídos dos autos que evidenciam a gravidade concreta do delito, o risco à ordem pública.
+O modus operandi violento do delito constitui fundamento idôneo para a decretação e manutenção da custódia cautelar.A alegação de negativa de autoria não comporta exame em habeas corpus quando depende de incursão aprofundada no acervo probatório.
+As medidas cautelares diversas da prisão não se aplicam quando se mostram insuficientes para neutralizar o risco concreto demonstrado nos autos.Dispositivos relevantes citados: CF/1988, art. 93, IX; CP, art. 121, caput, c/c art. 14, II; CPP, arts. 312, caput e § 2º, 313, I, e 319.
+No presente recurso ordinário, a defesa alega que a prisão preventiva foi mantida com base na gravidade abstrata do delito, sem a indicação de elementos concretos de risco à ordem pública, afrontando o art. 312 do CPP. Sustenta que a representação policial e os elementos informativos são genéricos, calcados em presunções e sem nexo causal direto com o recorrente. Aduz que o reconhecimento do recorrente pela vítima não observou as formalidades do art. 226 do CPP, inexistindo termo próprio, auto de reconhecimento ou registro audiovisual, sendo o relato genérico e impreciso. Defende, ademais, que há condições pessoais favoráveis  primariedade, bons antecedentes e endereço fixo  que autorizam a substituição da prisão por medidas cautelares alternativas. Sustenta que as medidas do art. 319 do CPP não foram analisadas de forma concreta e individualizada, havendo desproporcionalidade na manutenção da custódia.
+Diante disso, pede, em liminar e no mérito, a revogação da prisão preventiva, com substituição por medidas cautelares diversas da prisão, nos termos do art. 319 do CPP.
+É o relatório, decido.
+Não há como conheceer do recurso, porquanto apresenta as mesmas partes, causa de pedir, pedido e foi interposto contra o mesmo acórdão impugnado no HC 1088130, julgado em 14/4/2026.
+A utilização do recurso cabível simultaneamente à utilização do writ substitutivo desvirtuou o ordenamento processual, por se tratar de mera reiteração, motivo pelo qual o presente recurso não pode prosseguir.
+Isto porque "embora o recurso ordinário em habeas corpus consista no meio próprio para a apreciação da irresignação, a defesa optou por impetrar, também, habeas corpus substitutivo, o qual primeiramente foi despachado nesta Corte. Desse modo, a tese idêntica não pode ser simultaneamente analisada em impetrações/interposições posteriores". (AgRg no RHC n. 103.808/SP, Rel. Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 27/11/2018, DJe 10/12/2018).
+Ante o exposto, com fundamento no art. 34, XVIII, a, do RISTJ, não conheço do presente recurso em habeas corpus.
+Intimem-se.
+EMENTA
