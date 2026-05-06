@@ -1,0 +1,58 @@
+DECISÃO
+Trata-se de habeas corpus com pedido liminar impetrado em favor de BRUNO FELIX DA SILVA contra acórdão prolatado pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO (Apelação Criminal n. 1522148-52.2025.8.26.0228).
+Depreende-se dos autos que o paciente foi condenado às penas de 7 anos e 3 meses de reclusão em regime inicial fechado e de pagamento de 16 dias-multa, como incurso nas sanções do art. 157, § 2º, II, do Código Penal.
+No presente writ, o impetrante sustenta a ocorrência de constrangimento ilegal, consubstanciado na alegada nulidade do reconhecimento policial e na condenação fundada em elementos exclusivamente inquisitoriais.
+Alega que o reconhecimento foi realizado na modalidade "show-up", quando a vítima identificou o paciente já detido na viatura policial, em afronta às formalidades do art. 226 do CPP, o que acarreta nulidade absoluta do ato e contamina atos subsequentes, ainda que haja confirmação em juízo - no caso, houve negativa de reconhecimento em juízo.
+Afirma que, em audiência, sob o crivo do contraditório, a vítima Josenildo Bomfim da Silva não reconheceu o paciente, expressando dúvidas sobre a autoria e descrevendo ausência de violência ou grave ameaça, o que desautorizaria a condenação.
+Aduz que há violação do art. 155 do CPP, pois a condenação teria se baseado exclusivamente em elementos do inquérito - reconhecimento extrajudicial viciado e depoimentos indiretos de policiais que não presenciaram o crime -, em detrimento da prova judicial, que seria absolutória.
+Assevera que as imagens de segurança seriam pouco nítidas e incapazes de esclarecer a autoria, reforçando a inexistência de padrão probatório suficiente para a condenação.
+Requer, liminarmente, a suspensão imediata dos efeitos do acórdão condenatório, com expedição de alvará de soltura clausulado em favor do paciente, até o julgamento final da presente impetração. No mérito, pugna pela concessão da ordem para cassar o acórdão e a sentença, absolvendo o paciente com fundamento no art. 386, VII, do CPP; subsidiariamente, postula a anulação do processo, ao menos a partir da audiência de instrução e julgamento, com imediata soltura.
+É o relatório.
+O Superior Tribunal de Justiça firmou compreensão de que o habeas corpus não pode ser utilizado como substitutivo do recurso legalmente previsto para a hipótese, impondo-se o não conhecimento da impetração quando assim manejado.
+Observam-se, a respeito: AgRg no HC n. 943.146/MG, Quinta Turma, relator Ministro Reynaldo Soares da Fonseca, DJe de 22/10/2024; AgRg no HC n. 874.713/SP, Quinta Turma, relator Ministro Ribeiro Dantas, DJe de 20/8/2024; AgRg no HC n. 749.702/SP, Sexta Turma, relator Ministro Antonio Saldanha Palheiro, DJe de 29/2/2024; AgRg no HC n. 912.662/SP, Sexta Turma, relator Ministro Sebastião Reis Júnior, DJe de 27/6/2024.
+Ademais, a propósito do disposto no art. 647-A do CPP, verifica-se que o acórdão impugnado não possui ilegalidade flagrante que permita a concessão da ordem de ofício, conforme analisado a seguir.
+Em consulta ao sistema processual do Tribunal de Justiça do Estado de São Paulo, constata-se que a defesa interpôs recurso especial contra o acórdão do recurso de apelação impugnado pela presente impetração.
+A presidência da seção de direito criminal da Corte estadual determinou a realização de juízo de retratação em despacho assim resumido (fls. 258-259 dos autos originários):
+Trata-se de recurso especial interposto às fls. 235/253, com fundamento no artigo 105, inciso III, alíneas "a" e "c", da Constituição Federal, visando a impugnar o acórdão proferido pela 2a Câmara de Direito Criminal.
+A irresignação não foi contrariada.
+É o resumo do necessário.
+A Terceira Seção do Superior Tribunal de Justiça, no julgamento do Recurso Especial n. 2.001.973/RS (Tema 1194), em sessão realizada aos 10 de setembro de 2025, por unanimidade, fixou a seguinte tese: 1. A atenuante
+ ..
+Assim, encaminhem-se os autos á Turma Julgadora, em cumprimento ao disposto no artigo 638 do Código de Processo Penal e artigo 1.030, inciso II, do Código de Processo Civil.
+Após, tomem-me conclusos, observado que o recurso aborda outras teses.
+Int.
+São Paulo, 26 de março de 2026.
+Ainda em consulta ao sítio eletrônico do Tribunal de origem, verifica-se a pendência de julgamento pelo colegiado local, conforme o seguinte andamento processual, publicado no dia 16/4/2026:
+SESSÃO DE JULGAMENTO NA MODALIDADE VIRTUAL - RESOLUÇÃO CNJ 591/24 Data da pauta: 12/05/2026 às 00:01 Íntegra da pauta de julgamento: https://esaj.tjsp.jus.br/pauta-julgamento-virtual Torno público, nos termos da Resolução n.º 984/2025, que regulamenta o julgamento eletrônico no âmbito do Tribunal de Justiça do Estado de São Paulo, por meio do sistema SAJ e, em conformidade com a Resolução CNJ n.º 591/2024, que os presentes autos serão julgados eletronicamente em sessão virtual. Eventuais pedidos de destaque/oposição ao julgamento virtual deverão ser feitos por meio eletrônico, até 48 (quarenta e oito) horas antes do início da sessão, e deferidos pelo(a) Relator(a). Nas hipóteses de cabimento de sustentação oral, é facultado o seu envio por meio eletrônico, no próprio processo, não sendo aceito outro meio, após a publicação da pauta e até 48 (quarenta e oito) horas antes de iniciado o julgamento em ambiente virtual.
+Desse modo, a análise do pedido diretamente por esta Corte Superior fica impossibilitada, ante a ausência de exaurimento da apreciação da matéria pelas instâncias ordinárias, notadamente considerando o efeito devolutivo do recurso de apelação e a idêntica questão lá submetida à apreciação.
+Ilustrativamente:
+DIREITO PENAL. DIREITO PROCESSUAL PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. RECURSO DE APELAÇÃO PENDENTE DE JULGAMENTO. SUPRESSÃO DE INSTÂNCIA. AGRAVO IMPROVIDO.
+1. A jurisprudência do Superior Tribunal de Justiça não admite o processamento conjunto de habeas corpus e de outro recurso cabível se apresentados contra o mesmo ato jurisdicional, sob pena de ofensa ao princípio da unirrecorribilidade. Precedentes.
+2. Diante da pendência de julgamento do recurso de apelação interposto pela defesa na instância de origem, a análise do pedido diretamente por esta Corte Superior fica impossibilitada, ante a ausência de exaurimento da apreciação da matéria pelas instâncias ordinárias, notadamente considerando o efeito devolutivo do recurso de apelação e a idêntica questão lá submetida à apreciação.
+3. Agravo regimental improvido.
+(AgRg no HC n. 1.006.957/SP, de minha relatoria, Sexta Turma, julgado em 8/10/2025, DJEN de 14/10/2025.)
+AGRAVO REGIMENTAL NO HABEAS CORPUS. HABEAS CORPUS IMPETRADO CONTRA DECISÃO MONOCRÁTICA. AGRAVO INTERNO PENDENTE DE JULGAMENTO. AUSÊNCIA DE EXAURIMENTO DAS INSTÂNCIAS ORDINÁRIAS. SUPRESSÃO DE INSTÂNCIA. INDEFERIMENTO LIMINAR DO WRIT. INOVAÇÃO RECURSAL. NÃO CABIMENTO. AGRAVO REGIMENTAL NÃO PROVIDO
+1. Não é cabível a impetração de habeas corpus contra decisão monocrática da qual está pendente o julgamento de agravo interno interposto.
+2. Configura inadmissível inovação recursal a apresentação de tese jurídica somente por ocasião do agravo regimental.
+3. É acertada a decisão da Presidência do STJ, que indeferiu liminarmente o habeas corpus, uma vez que a defesa se insurge contra decisão monocrática proferida por juiz federal convocado para atuar em segundo grau. Embora a parte haja interposto agravo interno contra o decisum, o recurso está pendente de análise pelo órgão colegiado. Não houve, portanto, o exaurimento das instâncias ordinárias, a autorizar a impetração de ordem perante esta Corte Superior. Ademais, não é cabível examinar eventual excesso de prazo para o julgamento do agravo interno, por se tratar de tema trazido apenas por ocasião deste regimental.
+4. Agravo regimental não provido.
+(AgRg no HC n. 757.253/DF, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 16/8/2022, DJe de 23/8/2022.)
+Ademais, a jurisprudência do Superior Tribunal de Justiça não admite o processamento conjunto de recursos e habeas corpus apresentados contra o mesmo ato jurisdicional, sob pena de ofensa ao princípio da unirrecorribilidade.
+A propósito:
+AGRAVO REGIMENTAL EM HABEAS CORPUS. TRÁFICO ILÍCITO DE DROGAS, FALSIFICAÇÃO DE DOCUMENTO PÚBLICO E USO DE DOCUMENTO FALSO. OFENSA AO PRINCÍPIO DA COLEGIALIDADE. NÃO OCORRÊNCIA. INOBSERVÂNCIA DO PRINCÍPIO DA UNIRRECORRIBILIDADE. INTERPOSIÇÃO DE AGRAVO EM RECURSO ESPECIAL E IMPETRAÇÃO DE HABEAS CORPUS. INEVIDÊNCIA DE CONSTRANGIMENTO ILEGAL.
+1. Não viola o princípio da colegialidade a decisão monocrática do Relator calcada em jurisprudência dominante do Superior Tribunal de Justiça, tendo em vista a possibilidade de submissão do julgado ao exame do Órgão Colegiado, mediante a interposição de agravo regimental.
+2. Hipótese em que houve a interposição de recurso especial na origem e, na sequência, do respectivo agravo, e a jurisprudência do Superior Tribunal de Justiça não admite a tramitação concomitante de recursos e habeas corpus manejados contra o mesmo ato, sob pena de violação do princípio da unirrecorribilidade (AgRg no HC n. 678.593/SP, Ministra Laurita Vaz, Sexta Turma, DJe 27/9/2022).
+3. Agravo regimental desprovido.
+(AgRg no HC n. 918.633/SP, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 9/9/2024, DJe de 12/9/2024, destaque próprio.)
+PENAL E PROCESSUAL PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. WRIT SUBSTITUTIVO DE RECURSO PRÓPRIO. NÃO CABIMENTO. PRECEDENTES DO STF E STJ. TRAMITAÇÃO EM PARALELO DE AGRAVO EM RECURSO ESPECIAL. AFRONTA AO PRINCÍPIO DA UNIRRECORRIBILIDADE. MEDIDAS CAUTELARES. CONSTRANGIMENTO ILEGAL. SUPRESSÃO DE INSTÂNCIA. PEDIDO SUBSIDIÁRIO. INOVAÇÃO RECURSAL. INADMISISBILIDADE. AGRAVO CONHECIDO EM PARTE E, NESSA EXTENSÃO, DESPROVIDO.
+1. Esta Corte - HC 535.063, Terceira Seção, Rel. Ministro Sebastião Reis Junior, julgado em 10/6/2020 - e o Supremo Tribunal Federal - AgRg no HC 180.365, Primeira Turma, Rel. Min. Rosa Weber, julgado em 27/3/2020; AgRg no HC 147.210, Segunda Turma, Rel. Min. Edson Fachin, julgado em 30/10/2018 -, pacificaram orientação no sentido de que não cabe habeas corpus substitutivo do recurso legalmente previsto para a hipótese, impondo-se o não conhecimento da impetração, salvo quando constatada a existência de flagrante ilegalidade no ato judicial impugnado.
+2. Não bastasse o mencionado entendimento pacificamente adotado por esta Corte Superior, no sentido da inviabilidade de uso do remédio constitucional em substituição a recurso previsto em lei, na hipótese em exame constata-se que o presente habeas corpus tramita em paralelo ao recurso especial interposto em face do acórdão proferido pela instância ordinária, em evidente violação ao princípio da unirrecorribilidade.
+ ..
+5. Agravo regimental conhecido em parte e, nessa extensão, desprovido.
+(AgRg no HC n. 880.190/RO, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 17/6/2024, DJe de 20/6/2024, destaque próprio.)
+Na mesma direção, citam-se, ainda, os seguintes precedentes: AgRg no HC n. 865.449/SC, relator Ministro Jesuíno Rissato - Desembargador convocado do TJDFT, Sexta Turma, julgado em 24/6/2024, DJe de 26/6/2024; AgRg no HC n. 887.255/PB, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 18/3/2024, DJe de 20/3/2024; AgRg no HC n. 831.891/PB, relator Ministro Teodoro Silva Santos, Sexta Turma, julgado em 12/12/2023, DJ e de 15/12/2023; e AgRg no HC n. 848.280/SP, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 2/10/2023, DJe de 5/10/2023.
+Assim, mostra-se inviável o conhecimento do pedido.
+Ante o exposto, na forma do art. 210 do Regimento Interno do Superior Tribunal de Justiça, não conheço do habeas corpus.
+Cientifique-se o Ministério Público Federal.
+Publique-se. Intimem-se.
+ EMENTA
