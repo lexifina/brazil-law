@@ -1,0 +1,15 @@
+DECISÃO
+Trata-se de conflito negativo de competência suscitado pelo Juízo de Direito da Vara de Registros Públicos, Órfãos e Sucessões e Cartas Precatórias Cíveis da Comarca de Rio Branco/AC em face do d. Juízo de Direito da 1ª Vara de Família e Sucessões de Foz do Iguaçú/PR que, nos autos de Pedido de Abertura de Inventário que não envolve menores, declinou de sua competência relativa, de ofício.
+É o relatório.
+Decido.
+De início, conforme autorizado pelos arts. 178 e 951, parágrafo único, do CPC, deixa-se de colher a opinião ministerial, pois o presente conflito de competência não se insere dentre as hipóteses que provocam a imprescindível oitiva do Ministério Público e que tratam de interesse público ou social, interesse de incapaz ou litígios coletivos pela posse de terra rural ou urbana (art. 178, CPC).
+Adianto que razão assiste ao juízo suscitante.
+A jurisprudência do Superior Tribunal de Justiça é pacífica no sentido de que, em se tratando de competência relativa, não há falar em declinação de ofício, aplicando-se a orientação contida na Súmula 33 do STJ: "a incompetência relativa não pode ser declarada de ofício".
+Confiram-se:
+ADMINISTRATIVO E PROCESSUAL CIVIL. CONFLITO NEGATIVO DE COMPETÊNCIA. ELEIÇÃO DO FORO. COMPETÊNCIA TERRITORIAL. COMPETÊNCIA RELATIVA. DECLÍNIO DE OFÍCIO. IMPOSSIBILIDADE. SÚMULA 33 DO STJ. CONFLITO CONHECIDO PARA DECLARAR O JUIZ DE DIREITO SUSCITADO COMPETENTE PARA O PROCESSAMENTO DO FEITO. 1. A jurisprudência deste Superior Tribunal de Justiça pacificou que a competência territorial é relativa, sendo restrito às partes a possibilidade de questionamento acerca da (in)competência do juízo onde for proposta a ação, descabendo ser declarada de ofício. 2. Ainda que assim não o fosse, o autor da ação tem a discricionariedade de eleger, dentro das limitações legais, o foro que melhor atender seus interesses, motivo pelo qual, no caso dos autos, tendo a parte escolhido a sede da pessoa jurídica demandada como foro para o ajuizamento da ação - art. 53, III, a, do Código de Processo Civil - não há que falar em escolha aleatória de foro que justifique o declínio de ofício pelo magistrado, cabendo ao réu, caso entenda ser o caso, apresentar exceção de incompetência. 3. Conflito conhecido para declarar o Juiz de Direito da 3ª Vara Cível de Brasília - DF, ora suscitado, competente para o processamento do feito.
+(CC n. 194.898/TO, relator Ministro Afrânio Vilela, Primeira Seção, julgado em 24/4/2024, DJe de 26/4/2024)
+AGRAVO INTERNO NO CONFLITO DE COMPETÊNCIA. INVENTÁRIO. COMPETÊNCIA TERRITORIAL. NATUREZA RELATIVA. SÚMULA 33/STJ. 1. A competência para o processo sucessório, definida no art. 48 do CPC/15, é relativa. 2. A incompetência relativa não pode ser declarada de ofício, segundo enuncia a Súmula 33 do STJ. 3. Agravo interno não provido.
+(AgInt no CC n. 191.197/SP, relatora Ministra Nancy Andrighi, Segunda Seção, julgado em 18/4/2023, DJe de 25/4/2023)
+Assim, conheço do conflito para declarar competente o d. Juízo de Direito da 1ª Vara de Família e Sucessões de Foz do Iguaçú/PR.
+Publique-se.
+EMENTA
