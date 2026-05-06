@@ -1,0 +1,77 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUINTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 30/04/2026 a 06/05/2026, por unanimidade, negar provimento ao recurso, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Reynaldo Soares da Fonseca, Ribeiro Dantas, Joel Ilan Paciornik e Messod Azulay Neto votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro Reynaldo Soares da Fonseca.
+EMENTA
+Direito Processual Penal. Agravo Regimental. HABEAS CORPUS. IMPETRAÇÃO EM SUBSTITUIÇÃO A RECURSO PRÓPRIO. NULIDADE DE ALGIBEIRA. AUSÊNCIA DE MANIFESTAÇÃO OPORTUNA. AGRAVO REGIMENTAL NÃO PROVIDO.
+I. Caso em exame
+1. Agravo regimental interposto contra decisão que não conheceu de habeas corpus, por ter sido impetrado em substituição a recurso próprio.
+2. O paciente foi condenado pelos crimes de tráfico de drogas e porte ilegal de arma de fogo, previstos nos artigos 33, caput, da Lei n. 11.343/06 e 14 da Lei n. 10.826/03, à pena de 9 anos, 2 meses e 7 dias de reclusão, em regime inicial fechado, e 667 dias-multa.
+3. Após o trânsito em julgado da condenação, a defesa ajuizou revisão criminal perante o Tribunal de Justiça do Estado de Minas Gerais, que foi parcialmente provida apenas para conceder ao peticionário a suspensão da exigibilidade do pagamento das custas processuais, nos termos do art. 98, §3º, do CPC.
+4. A defesa impetrou habeas corpus defensivo, que não foi conhecido por ter sido utilizado em substituição a recurso próprio.
+5. Irresignada, a defesa interpôs agravo regimental, requerendo a concessão da ordem de ofício para reconhecimento da nulidade da busca e apreensão, alegando ausência de fundamentação da decisão que a autorizou, e consequente absolvição do agravante por inexistência de provas da autoria e materialidade.
+II. Questão em discussão
+6. A questão em discussão consiste em saber se é possível o reconhecimento da nulidade da busca e apreensão, alegada pela defesa em sede de revisão criminal, após o trânsito em julgado da condenação, sem que tenha sido suscitada em momento oportuno durante a persecução penal.
+III. Razões de decidir
+7. O agravo regimental foi conhecido por ser tempestivo e adequado, mas não trouxe novos argumentos capazes de alterar o entendimento firmado anteriormente.
+8. A jurisprudência dos Tribunais Superiores é pacífica em rechaçar a estratégia processual denominada "nulidade de algibeira", que ocorre quando a defesa não alega a existência de vício formal em momento oportuno, aguardando para utilizá-la em momento mais conveniente.
+9. A nulidade alegada pela defesa foi abarcada pelo fenômeno da preclusão, pois não foi suscitada em tempo oportuno durante a persecução penal, sendo invocada apenas em sede de revisão criminal.
+10. O reconhecimento de nulidades no curso do processo penal exige demonstração de efetivo prejuízo à parte, conforme o princípio da instrumentalidade das formas positivado no art. 563 do CPP.
+11. Não se verifica, de plano, a presença de coação ilegal ou teratologia que justifique a concessão da ordem na forma do §2º do artigo 654 do Código de Processo Penal.
+IV. Dispositivo e tese
+12. Resultado do Julgamento: Agravo regimental não provido.
+Tese de julgamento:
+1. A impetração de habeas corpus em substituição a recurso próprio é inadequada, salvo em casos de flagrante ilegalidade, abuso de poder ou teratologia. 2. A nulidade processual deve ser arguida em momento oportuno, sendo vedada a estratégia processual denominada "nulidade de algibeira". 3. O reconhecimento de nulidades no processo penal exige demonstração de efetivo prejuízo à parte, conforme o princípio da instrumentalidade das formas positivado no art. 563 do CPP. Dispositivos relevantes citados:CF/1988, art. 105, II, a; CF/1988, art. 105, III; CPP, art. 563; CPP, art. 654, §2º; CPP, art. 621.
+Jurisprudência relevante citada:STJ, AgRg no HC 746.715/SE, Min. Laurita Vaz, Sexta Turma, julgado em 22.05.2023; STJ, AgRg no REsp 2.004.463/SP, Min. Jesuíno Rissato, Sexta Turma, julgado em 21.08.2023; STJ, AgRg no HC 849.593/SC, Min. Ribeiro Dantas, Quinta Turma, julgado em 18.03.2024; STJ, AgRg na RvCr 5.565/RS, Min. Jesuíno Rissato, Terceira Seção, julgado em 23.11.2022; STJ, AgRg no AREsp 2.728.169/SC, Min. Reynaldo Soares da Fonseca, Quinta Turma, julgado em 04.02.2025; STJ, RHC 100.213/SP, Min. Ribeiro Dantas, Quinta Turma, julgado em 04.06.2019.
+RELATÓRIO
+Trata-se de agravo regimental interposto por JOAO CLEBER DA CRUZ BERNARDES contra decisão de f ls. 117/119, em que não conheci do Habeas Corpus.
+O agravante foi condenado pela prática dos delitos tipificados nos artigos 33, caput, da Lei n. 11.343/06 e 14 da Lei n. 10.826/03 (tráfico de drogas e porte ilegal de arma de fogo), à pena de 09 anos, 02 meses e 07 dias de reclusão, em regime inicial fechado, e 667 dias-multa (fls. 48/52).
+Transitada em julgado a condenação, a defesa ajuizou revisão criminal perante o TRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAIS, que foi parcialmente provida apenas para "conceder ao Peticionário a suspensão da exigibilidade do pagamento das custas processuais, nos termos do art. 98, §3º, do CPC." (fl. 22).
+Sobreveio habeas corpus da defesa (fls. 2/12), que não conheci, pois impetrado em substituição a recurso próprio (fls. 117/119).
+Irresignada, a defesa interpôs o presente agravo regimental (fls. 125/135).
+Requer a concessão da ordem de ofício para que seja reconhecida a nulidade da busca e apreensão, tendo em vista a ausência de fundamentação da decisão que a autorizou e, consequentemente, absolvido o ora agravante por inexistência de provas da autoria e materialidade. Não sendo esse o entendimento, requer a submissão do presente recurso à apreciação do órgão colegiado.
+É o relatório.
+EMENTA
+Direito Processual Penal. Agravo Regimental. HABEAS CORPUS. IMPETRAÇÃO EM SUBSTITUIÇÃO A RECURSO PRÓPRIO. NULIDADE DE ALGIBEIRA. AUSÊNCIA DE MANIFESTAÇÃO OPORTUNA. AGRAVO REGIMENTAL NÃO PROVIDO.
+I. Caso em exame
+1. Agravo regimental interposto contra decisão que não conheceu de habeas corpus, por ter sido impetrado em substituição a recurso próprio.
+2. O paciente foi condenado pelos crimes de tráfico de drogas e porte ilegal de arma de fogo, previstos nos artigos 33, caput, da Lei n. 11.343/06 e 14 da Lei n. 10.826/03, à pena de 9 anos, 2 meses e 7 dias de reclusão, em regime inicial fechado, e 667 dias-multa.
+3. Após o trânsito em julgado da condenação, a defesa ajuizou revisão criminal perante o Tribunal de Justiça do Estado de Minas Gerais, que foi parcialmente provida apenas para conceder ao peticionário a suspensão da exigibilidade do pagamento das custas processuais, nos termos do art. 98, §3º, do CPC.
+4. A defesa impetrou habeas corpus defensivo, que não foi conhecido por ter sido utilizado em substituição a recurso próprio.
+5. Irresignada, a defesa interpôs agravo regimental, requerendo a concessão da ordem de ofício para reconhecimento da nulidade da busca e apreensão, alegando ausência de fundamentação da decisão que a autorizou, e consequente absolvição do agravante por inexistência de provas da autoria e materialidade.
+II. Questão em discussão
+6. A questão em discussão consiste em saber se é possível o reconhecimento da nulidade da busca e apreensão, alegada pela defesa em sede de revisão criminal, após o trânsito em julgado da condenação, sem que tenha sido suscitada em momento oportuno durante a persecução penal.
+III. Razões de decidir
+7. O agravo regimental foi conhecido por ser tempestivo e adequado, mas não trouxe novos argumentos capazes de alterar o entendimento firmado anteriormente.
+8. A jurisprudência dos Tribunais Superiores é pacífica em rechaçar a estratégia processual denominada "nulidade de algibeira", que ocorre quando a defesa não alega a existência de vício formal em momento oportuno, aguardando para utilizá-la em momento mais conveniente.
+9. A nulidade alegada pela defesa foi abarcada pelo fenômeno da preclusão, pois não foi suscitada em tempo oportuno durante a persecução penal, sendo invocada apenas em sede de revisão criminal.
+10. O reconhecimento de nulidades no curso do processo penal exige demonstração de efetivo prejuízo à parte, conforme o princípio da instrumentalidade das formas positivado no art. 563 do CPP.
+11. Não se verifica, de plano, a presença de coação ilegal ou teratologia que justifique a concessão da ordem na forma do §2º do artigo 654 do Código de Processo Penal.
+IV. Dispositivo e tese
+12. Resultado do Julgamento: Agravo regimental não provido.
+Tese de julgamento:
+1. A impetração de habeas corpus em substituição a recurso próprio é inadequada, salvo em casos de flagrante ilegalidade, abuso de poder ou teratologia. 2. A nulidade processual deve ser arguida em momento oportuno, sendo vedada a estratégia processual denominada "nulidade de algibeira". 3. O reconhecimento de nulidades no processo penal exige demonstração de efetivo prejuízo à parte, conforme o princípio da instrumentalidade das formas positivado no art. 563 do CPP. Dispositivos relevantes citados:CF/1988, art. 105, II, a; CF/1988, art. 105, III; CPP, art. 563; CPP, art. 654, §2º; CPP, art. 621.
+Jurisprudência relevante citada:STJ, AgRg no HC 746.715/SE, Min. Laurita Vaz, Sexta Turma, julgado em 22.05.2023; STJ, AgRg no REsp 2.004.463/SP, Min. Jesuíno Rissato, Sexta Turma, julgado em 21.08.2023; STJ, AgRg no HC 849.593/SC, Min. Ribeiro Dantas, Quinta Turma, julgado em 18.03.2024; STJ, AgRg na RvCr 5.565/RS, Min. Jesuíno Rissato, Terceira Seção, julgado em 23.11.2022; STJ, AgRg no AREsp 2.728.169/SC, Min. Reynaldo Soares da Fonseca, Quinta Turma, julgado em 04.02.2025; STJ, RHC 100.213/SP, Min. Ribeiro Dantas, Quinta Turma, julgado em 04.06.2019.
+VOTO
+A EXMA. SRA. MINISTRA MARLUCE CALDAS (Relatora):
+Inicialmente, conheço do agravo por ser tempestivo e adequado.
+Com efeito, o agravo regimental deve trazer novos argumentos capazes de alterar o entendimento firmado anteriormente, sob pena de ser mantida a decisão combatida por seus próprios fundamentos.
+Contudo, na hipótese, a defesa não apresentou elementos hábeis a alterar a decisão agravada.
+Nesse contexto, mantenho o decisum por seus próprios e exatos fundamentos:
+A Quinta Turma do Superior Tribunal de Justiça firmou entendimento no sentido de ser inadequada a impetração de habeas corpus quando utilizado em substituição a recurso próprio.
+A teor do disposto no art. 105, II, a, da CF/88, o recurso cabível contra acórdão que denega a ordem na origem é o recurso ordinário, enquanto que, consoante previsto no art. 105, III, da CF, contra acórdão que julga a apelação, o recurso em sentido estrito e o agravo em execução, cabe recurso especial. Nada impede, contudo, constatada a existência de ilegalidade flagrante, abuso de poder ou teratologia, a concessão de habeas corpus de ofício, nos termos do art. 654, §2º do CPP, o que ora passa-se a examinar.
+Acerca da pretensão, consta do acórdão recorrido (fls. 18/21):
+Inclusive, de se constatar que tal situação se encaixa à do presente caso, pois como se pode extrair da análise do acervo documental carreado aos autos, não houve qualquer manifestação pelo Peticionário, no transcurso da persecução penal, acerca da nulidade deduzida neste momento, seja em sede de defesa preliminar, de alegações finais, ou em outro momento em que lhe competia manifestar nos autos.
+Salienta-se, ademais, que a defesa em nenhum momento durante a instrução processual se insurgiu contra o procedimento ou a decisão que determinou o cumprimento da diligência de busca e apreensão na residência do ora peticionário, este só veio a arguir a mácula, agora, em sede revisional, o que é inadmissível, pois a decisão cuja nulidade se almeja foi proferida ainda na fase administrativa.
+De mais a mais, em casos símiles ao presente, "A jurisprudência dos Tribunais Superiores é pacífica em rechaçar a estratégia processual denominada nulidade de algibeira, a qual ocorre quando a Defesa não alega a existência de vício formal em momento oportuno, quedando-se inerte até que seja verificado, no futuro, que a tese acarretará mais benefícios ao Agente, em explícita ofensa aos princípios da boa-fé processual e da cooperação" AgRg no HC n. 746.715/SE, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 22/5/2023, DJe de 26/5/2023.); (AgRg no REsp n. 2.004.463/SP, relator Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), Sexta Turma, julgado em 21/8/2023, DJe de 24/8/2023.)", (AgRg no HC n. 849.593/SC, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 18/3/2024, DJe de 20/3/2024.).
+ ..
+De mais a mais, destaco as ponderações da d. Procuradoria-Geral de Justiça, a saber:
+"(..) Primeiramente, cumpre destacar que tal nulidade não foi suscitada em nenhum momento processual anterior, seja em defesa prévia (documento de ordem nº 45, fls. 08/10), em alegações finais (documento de ordem nº 56, fls. 06/10) ou em razões recursais (documento de ordem nº 58, fls. 09/15).
+Ora, se a alegada nulidade já existia desde a data dos fatos, a Defesa estava ciente e sequer se manifestou a respeito, resta evidenciada a legalidade dos procedimentos adotados. No entanto, somente agora, em sede de revisão criminal, pleiteia a Defesa a nulidade do feito. Trata- se da odiosa manobra de algibeira, não admitida na jurisprudência pátria, exatamente por violar diversos princípios processuais. (..)"
+Assim, sem maiores delongas, por não se subsumir a alegada nulidade a nenhuma das hipóteses insertas no art. 621 do CPP, não vejo como acolhê-la, pelo que fica, de plano, afastada.
+Como se vê, o Tribunal de origem consignou que a referida nulidade foi abarcada pelo fenômeno da preclusão, pois em nenhum momento da persecução penal a defesa se insurgiu contra a decisão, que autorizou a busca e apreensão na residência do paciente, vindo a suscitar a tese apenas no pedido revisional com base no art. 621 do CPP.
+Dessa forma, constata-se, conforme adiantado no acórdão impugnado, a preclusão, uma vez que a defesa do paciente, pelo que consta dos autos, não arguiu em tempo oportuno a nulidade na decisão que determinou a busca e apreensão na residência do réu, de modo que não se constata manifesta ilegalidade por estar em consonância com a jurisprudência desta Corte: "A jurisprudência dos Tribunais Superiores "não tolera a referida nulidade de algibeira - eiva esta que, podendo ser sanada pela insurgência imediata da defesa após ciência do vício, não é alegada como estratégia, numa perspectiva de melhor conveniência futura" (AgRg na RvCr n. 5.565/RS, Relator Ministro JESUÍNO RISSATO (Desembargador Convocado do TJDFT), Terceira Seção, julgado em 23/11/2022, DJe de 29/11/2022)" (AgRg no AREsp n. 2.728.169/SC, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 4/2/2025, DJEN de 13/2/2025).
+Com efeito, esta Corte Superior, em diversas ocasiões, já se manifestou da seguinte forma: "O reconhecimento de nulidades no curso do processo penal reclama uma efetiva demonstração do prejuízo à parte, sem a qual prevalecerá o princípio da instrumentalidade das formas positivado pelo art. 563 do CPP (pas de nullité sans grief)" (RHC n. 100.213/SP, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 4/6/2019, DJe de 11/6/2019).
+Por fim, além de inadequada a via eleita, também não se verifica, de plano, a presença de coação ilegal ou teratologia que justifique a concessão da ordem na forma do § 2º do artigo 654 do Código de Processo Penal.
+Ante o exposto, nego provimento ao agravo regimental.
+É como voto.
