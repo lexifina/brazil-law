@@ -1,0 +1,15 @@
+DECISÃO
+Trata-se de agravo manejado por Estado da Bahia desafiando decisão do Tribunal de Justiça do Estado da Bahia, que não admitiu o recurso especial, em razão da incidência das seguintes Súmulas: I - 7/STJ, quanto legitimidade da recorrente; II - 284/STF, pois a alegação de ofensa aos arts. 485, 489, § 1º, IV e VI, e 1.022, II, parágrafo único, II, do CPC se faz de forma genérica; e III - 83/STJ.
+Irresignada, a parte agravante aduz que não cabe ao Desembargador presidente "decidir se houve ou a não efetiva violação a tais normas. A reforma da decisão, aqui, é tanto mais imperiosa a fim de se evitar usurpação de competência do Superior Tribunal de Justiça pelo Tribunal de Justiça do Estado da Bahia" (fl. 451).
+Sustenta que, " a o deixar de analisar as alegações do ente recorrente - argumentos relevantes para a apreciação da tese vencida nos presentes autos -, a Corte Regional Julgadora incorreu na hipótese do mencionado artigo 489, § 1º, inciso IV, do Código de Processo Civil; de igual sorte, quando não acompanhou os julgados trazidos na peça recursal, sem que demonstrasse a ausência de liame ou a superação da compreensão esposada (artigo 489, § 1º, inciso VI, do CPC)" (fl. 453).
+Discorre que "o Estado da Bahia não firmou qualquer convênio ou praticou qualquer ato de exigência de certidões, tampouco tem gerência para cumprir qualquer decisão judicial, não havendo razão para figurar no polo passivo da demanda, ferindo o ar. 339 do CPC" (fl. 456).
+Por fim, expõe que, "mantida a legitimidade do Estado da Bahia e o dever de pagamento dos honorários sucumbenciais, a luz do princípio da causalidade, o valor consignado deverá ser dividido, com a quota parte correspondente de cada litisconsorte, evitando divergências na oportunidade da execução da obrigação de pagar e fixados de acordo com o § 3 do art. 85 do CC que restou inobservado elo acórdão recorrido" (fl. 457).
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+Verifica-se que o inconformismo não ultrapassa a barreira do conhecimento, pois a parte agravante deixou de impugnar a totalidade dos motivos adotados pelo Tribunal de origem para negar trânsito ao apelo especial (Súmulas 284/STF, 7 e 83/STJ).
+No caso, a parte agravante deixou de rebater, de modo específico, os alicerces que sustentam o decisório que não admitiu o recurso nobre (fls. 467/474) .
+Incide, desse modo, por analogia, a Súmula 182/STJ ("É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão recorrida.").
+Essa foi a linha de entendimento confirmada pela Corte Especial do STJ ao julgar os EAREsp 701.404/SC e os EAREsp 831.326/SP, Rel. Min. João Otávio de Noronha, Rel. p/ acórdão Ministro Luis Felipe Salomão, DJe de 30/11/2018.
+DIANTE DO EXPOSTO, nos termos do art. 932, III, do CPC, não conheço do agravo.
+Levando-se em conta o trabalho adicional realizado em grau recursal, impõe-se à parte recorrente o pagamento de honorários advocatícios equivalentes a 10% (dez por cento) do valor a esse título já fixado no processo (art. 85, § 11, do CPC).
+Publique-se.
+EMENTA
