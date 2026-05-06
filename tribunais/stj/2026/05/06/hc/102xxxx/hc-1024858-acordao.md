@@ -1,0 +1,50 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEXTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 30/04/2026 a 06/05/2026, por unanimidade, conceder a ordem, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Rogerio Schietti Cruz, Carlos Pires Brandão e Og Fernandes votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Carlos Pires Brandão.
+EMENTA
+DIREITO PENAL E PROCESSUAL PENAL. HABEAS CORPUS. DESMORONAMENTO QUALIFICADO PELO RESULTADO MORTE E CRIME DE POLUIÇÃO. ACORDO DE NÃO PERSECUÇÃO PENAL. FASE PRÉ-PROCESSUAL. AUSÊNCIA DE MANIFESTAÇÃO MOTIVADA DO MINISTÉRIO PÚBLICO. NULIDADE ABSOLUTA. CONSTRANGIMENTO ILEGAL CONFIGURADO.
+1. Por se tratar de poder-dever do Ministério Público, a ausência de oferta tempestiva do Acordo de Não Persecução Penal (ANPP), desacompanhada de motivação, acarreta nulidade absoluta do processo. A proposta apresentada após o recebimento da denúncia é extemporânea. Precedentes.
+2. A deflagração da ação penal, sem a prévia oferta do ANPP ou sem recusa ministerial devidamente fundamentada, revela a ausência de justa causa para o exercício da pretensão punitiva e causa prejuízo ao réu.
+3. Caso em que se impõe o reconhecimento da nulidade do processo desde o oferecimento da denúncia - não apenas o sobrestamento da ação penal (como determinado pelo Tribunal estadual), até manifestação motivada do Ministério Público sobre a viabilidade do ANPP, conforme os requisitos legais.
+4. Ordem concedida para anular o processo desde o oferecimento da denúncia.
+RELATÓRIO
+Trata-se de habeas corpus impetrado em benefício de Jose Luiz de Oliveira Martins, Vicente de Paulo Galliez Filho, Girimias da Silva Moura e Mivaldo de Franca Paz, apontando-se como autoridade coatora o Tribunal de Justiça do Amapá (HC n. 6000864-04.2025.8.03.0000 - fls. 13/17).
+Narram os autos que os pacientes foram denunciados pela prática do crime de desmoronamento qualificado pelo resultado morte (art. 256, c/c o art. 258 do CP) em concurso material (art. 69 do CP) com o crime de poluição (art. 54, §§ 2º e 3º, da Lei n. 9.605/1998) - Ação Penal n. 6001533-51.2025.8.03.0002, da 1ª Vara Criminal e Tribunal do Júri de Santana/AP.
+A defesa sustenta que não foi oferecida, nem fundamentadamente recusada, a proposta de Acordo de Não Persecução Penal (ANPP) pelo Ministério Público, nos termos do art. 28-A do Código de Processo Penal, o que resulta na ausência de justa causa para a ação penal e impõe a declaração de nulidade.
+Argumenta que, embora o cidadão investigado não detenha um direito subjetivo à celebração do ANPP, possui direito subjetivo a uma manifestação fundamentada e idônea por parte do Ministério Público a respeito da aplicação do instituto.
+Aduz que a falta de manifestação do Parquet deveria ter sido objeto de controle judicial, ensejando a rejeição da denúncia.
+Aponta que, não obstante o Tribunal estadual tenha concedido parcialmente a ordem sobrestando o curso da ação penal até a manifestação do Ministério Público sobre a proposta do acordo, deixou de reconhecer a nulidade do oferecimento e recebimento da denúncia.
+Requer, em liminar, a suspensão não apenas da tramitação da ação penal até o julgamento do mérito da presente ação constitucional, mas também de qualquer ato com esta relacionado, em especial da designação de audiências extrajudiciais para discussão de propostas de ANPP. No mérito, postula a concessão da ordem para declarar a nulidade absoluta dos atos de oferecimento e recebimento da denúncia que culminou na instauração da ação penal (fl. 11).
+A liminar foi indeferida (fls. 2.636/2.638).
+Depois de prestadas as informações (fls. 2.643/2.646), o Ministério Público Federal manifestou-se nos termos da seguinte ementa (fl. 2.651):
+HABEAS CORPUS. PENAL E PROCESSUAL PENAL. SUSPENSÃO DA AÇÃO PENAL PARA QUE O MINISTÉRIO PÚB LICO SE MANIFESTE SOBRE A VIABILIDADE DE ANPP. NULIDADE NÃO VERIFICADA.
+- Parecer pelo não conhecimento do writ e, se conhecido, pela denegação da ordem.
+É o relatório.
+EMENTA
+DIREITO PENAL E PROCESSUAL PENAL. HABEAS CORPUS. DESMORONAMENTO QUALIFICADO PELO RESULTADO MORTE E CRIME DE POLUIÇÃO. ACORDO DE NÃO PERSECUÇÃO PENAL. FASE PRÉ-PROCESSUAL. AUSÊNCIA DE MANIFESTAÇÃO MOTIVADA DO MINISTÉRIO PÚBLICO. NULIDADE ABSOLUTA. CONSTRANGIMENTO ILEGAL CONFIGURADO.
+1. Por se tratar de poder-dever do Ministério Público, a ausência de oferta tempestiva do Acordo de Não Persecução Penal (ANPP), desacompanhada de motivação, acarreta nulidade absoluta do processo. A proposta apresentada após o recebimento da denúncia é extemporânea. Precedentes.
+2. A deflagração da ação penal, sem a prévia oferta do ANPP ou sem recusa ministerial devidamente fundamentada, revela a ausência de justa causa para o exercício da pretensão punitiva e causa prejuízo ao réu.
+3. Caso em que se impõe o reconhecimento da nulidade do processo desde o oferecimento da denúncia - não apenas o sobrestamento da ação penal (como determinado pelo Tribunal estadual), até manifestação motivada do Ministério Público sobre a viabilidade do ANPP, conforme os requisitos legais.
+4. Ordem concedida para anular o processo desde o oferecimento da denúncia.
+VOTO
+A insurgência merece prosperar.
+No caso, o Tribunal de origem concedeu parcialmente a ordem de habeas corpus para sobrestar o curso da ação penal até a manifestação motivada do órgão acusatório sobre a viabilidade de proposta do ANPP, conforme os requisitos previstos na legislação, passível de controle na forma do § 14 do art. 28-A do CPP (fl. 16). Não houve, portanto, exteriorização a respeito do tema pelo Ministério Público, sendo certo, ainda, que a denúncia foi oferecida em fevereiro de 2025 (fls. 19/26).
+Embora a ordem tenha sido parcialmente concedida, a instância de origem deixou de reconhecer a nulidade absoluta requerida pela defesa, circunstância que, no caso dos autos e a meu ver, c onfigura constrangimento ilegal manifesto.
+Conforme consignou a Ministra Laurita Vaz no voto vencedor proferido no julgamento do AgRg no HC n. 628.647/SC, infere-se da norma despenalizadora que o propósito do acordo de não persecução penal é justamente o de poupar o agente do delito e o aparelho estatal do desgaste inerente à instauração do processo-crime, abrindo a possibilidade de o membro do Ministério Público, caso atendidos os requisitos legais, oferecer condições para o então investigado (e não acusado) não ser processado, desde que necessário e suficiente para reprovação e prevenção do crime (AgRg no HC n. 628.647/SC, Relatora para o acórdão Ministra Laurita Vaz, Sexta Turma, DJe de 7/6/2021).
+Quer dizer, o ANPP se esgota na etapa pré-processual, sobretudo porque a consequência da sua recusa, sua não homologação ou seu descumprimento é inaugurar a fase de oferecimento e de recebimento da denúncia (STF, HC n. 191.464 AgRg, Ministro Roberto Barroso, Primeira Turma, DJe de 26/11/2020).
+Ainda, segundo o entendimento desta Corte, por constituir um poder-dever do Parquet, o não oferecimento tempestivo do ANPP desacompanhado de motivação idônea constitui nulidade absoluta (AgRg no HC n. 762.049/PR, Ministra Laurita Vaz, Sexta Turma, DJe de 17/3/2023). No mesmo sentido, confiram-se:
+ ..
+3. O acordo de não persecução penal, previsto no art. 28-A do Código de Processo Penal, implementado pela Lei n. 13.964/2019, é um instituto jurídico pré-processual entre a acusação e o investigado. Trata-se de fase prévia e alternativa à propositura de ação penal.
+4. O oferecimento extemporâneo da proposta de ANPP é causa de nulidade absoluta, nos termos da jurisprudência desta Corte e do Supremo Tribunal Federal.
+5. Prejuízo ao réu decorrente da instauração do processo-crime em seu desfavor, diante da ausência de justa causa para o oferecimento da denúncia.
+6. Habeas corpus não conhecido. Ordem concedida, de ofício, para anular a Ação Penal n. 1503244-86.2022.8.26.0228.
+(HC n. 795.848/SP, Ministro Ribeiro Dantas, Quinta Turma, DJe de 18/4/2023 - grifo nosso)
+Com efeito, o acordo de não persecução penal é um instituto jurídico pré-processual, e seu oferecimento extemporâneo, após o recebimento da denúncia, constitui causa de nulidade absoluta. A instauração do processo-crime sem a oferta prévia do acordo de não persecução penal causa prejuízo ao réu, configurando ausência de justa causa para o oferecimento da denúncia (AgRg no RHC n. 194.867/MG, Ministro Antonio Saldanha Palheiro, Sexta Turma, DJEN de 18/8/2025 - grifo nosso).
+Nesse contexto, à luz dos princípios da razoabilidade e da segurança jurídica, bem como do entendimento desta Casa, não é possível manter o início da persecução penal contra os pacientes, notadamente diante da ausência de manifestação do Ministério Público a respeito da benesse - causa de nulidade absoluta - e do manifesto prejuízo aos réus.
+Redito, aqui, o que consignei em voto-vista, por ocasião do julgamento do AgRg no HC n. 762.049/PR (DJe 17/3/2023), acerca do evidente prejuízo (grifo nosso) :
+E como lá decidi e afirmei, aqui também é evidente o prejuízo ao réu, pois, com o recebimento da denúncia, há registro de ação penal em andamento contra ele, ação essa que ainda perdura em razão de as tratativas não terem chegado a um bom termo.
+Também houve a interrupção do prazo prescricional, o que não teria ocorrido caso houvesse o oferecimento e celebração do acordo de não persecução penal, o qual apenas suspenderia o prazo prescricional (art. 116, IV, do CP).
+Além disso, o início da ação penal, ora questionada, afasta, por exemplo, a possibilidade de que sejam beneficiados pelo art. 89 da Lei n. 9.099/1995 em razão de fatos distintos.
+Assim, impõe-se o reconhecimento da nulidade absoluta suscitada pela defesa. Remanesce, contudo, a ordem do Tribunal de origem para que o órgão acusatório se manifeste motivadamente sobre a viabilidade de proposta do ANPP, conforme os r equisitos previstos na legislação, passível de controle na forma do § 14 do art. 28-A do Código de Processo Penal.
+Ante o exposto, concedo a ordem para reconhecer a nulidade do processo desde o oferecimento da denúncia.
