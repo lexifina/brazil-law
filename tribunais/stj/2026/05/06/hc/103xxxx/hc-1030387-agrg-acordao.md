@@ -1,0 +1,57 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEXTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 30/04/2026 a 06/05/2026, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Carlos Pires Brandão, Og Fernandes e Sebastião Reis Júnior votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Carlos Pires Brandão.
+EMENTA
+AGRAVO REGIMENTAL NO HABEAS CORPUS. ESTELIONATO. PRISÃO PREVENTIVA. FUNDAMENTAÇÃO IDÔNEA. GRAVIDADE CONCRETA. RISCO DE REITERAÇÃO DELITIVA. FUGA DO DISTRITO DA CULPA. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. A prisão preventiva é compatível com a presunção de não culpabilidade do acusado desde que não assuma natureza de antecipação da pena e não decorra, automaticamente, do caráter abstrato do crime ou do ato processual praticado (art. 313, § 2º, do CPP). Além disso, a decisão judicial deve apoiar-se em motivos e fundamentos concretos, relativos a fatos novos ou contemporâneos, dos quais se possa extrair o perigo que a liberdade plena do investigado ou réu representa para os meios ou os fins do processo penal (arts. 312 e 315 do CPP).
+2. Na hipótese, o Juiz de primeiro grau apontou a presença dos vetores contidos no art. 312 do Código de Processo Penal, em especial a gravidade da conduta, caracterizada pelo modus operandi empregado, que atingiu elevado número de vítimas e produziu vultoso prejuízo financeiro, e o risco de reiteração delitiva, em razão do registro de outros 137 processos em andamento pela prática de delitos da mesma espécie.
+3. Além disso, o Magistrado ressaltou, ainda, a fuga da acusada, ao consignar que, após o recebimento dos valores e o fechamento da empresa, ela se evadiu e não foi mais localizada.
+4. Por idênticos fundamentos, a adoção de medidas cautelares diversas não se prestaria a evitar o cometimento de novas infrações penais.
+5. Agravo regimental não provido.
+RELATÓRIO
+O SENHOR MINISTRO ROGERIO SCHIETTI CRUZ:
+CARLA FERREIRA TOME interpõe agravo regimental contra a decisão de fls. 52-56, em que deneguei a ordem de habeas corpus.
+Em suas razões, A agravante reitera os argumentos expostos na inicial do habeas corpus ao afirmar que o decreto prisional seria carente de fundamentação idônea e estariam ausentes os requisitos do art. 312 do CPP.
+Afirma que: "A decisão, ao manter a prisão preventiva, não apenas ignora a possibilidade de medidas mais brandas, mas também a desproporcionalidade da medida frente à pena que seria aplicada" (fl. 64).
+Requer a reconsideração da decisão ou a submissão do feito ao órgão colegiado, a fim de que seja concedida a ordem e revogada sua segregação preventiva.
+O Ministério Público Federal, em parecer da Subprocuradora-Geral da República Andrea Henriques Szilard, opinou pelo não provimento do agravo regimental (fls. 78-84).
+EMENTA
+AGRAVO REGIMENTAL NO HABEAS CORPUS. ESTELIONATO. PRISÃO PREVENTIVA. FUNDAMENTAÇÃO IDÔNEA. GRAVIDADE CONCRETA. RISCO DE REITERAÇÃO DELITIVA. FUGA DO DISTRITO DA CULPA. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. A prisão preventiva é compatível com a presunção de não culpabilidade do acusado desde que não assuma natureza de antecipação da pena e não decorra, automaticamente, do caráter abstrato do crime ou do ato processual praticado (art. 313, § 2º, do CPP). Além disso, a decisão judicial deve apoiar-se em motivos e fundamentos concretos, relativos a fatos novos ou contemporâneos, dos quais se possa extrair o perigo que a liberdade plena do investigado ou réu representa para os meios ou os fins do processo penal (arts. 312 e 315 do CPP).
+2. Na hipótese, o Juiz de primeiro grau apontou a presença dos vetores contidos no art. 312 do Código de Processo Penal, em especial a gravidade da conduta, caracterizada pelo modus operandi empregado, que atingiu elevado número de vítimas e produziu vultoso prejuízo financeiro, e o risco de reiteração delitiva, em razão do registro de outros 137 processos em andamento pela prática de delitos da mesma espécie.
+3. Além disso, o Magistrado ressaltou, ainda, a fuga da acusada, ao consignar que, após o recebimento dos valores e o fechamento da empresa, ela se evadiu e não foi mais localizada.
+4. Por idênticos fundamentos, a adoção de medidas cautelares diversas não se prestaria a evitar o cometimento de novas infrações penais.
+5. Agravo regimental não provido.
+VOTO
+O SENHOR MINISTRO ROGERIO SCHIETTI CRUZ (Relator):
+Apesar dos esforços perpetrados pela agravante, não constato fundamentos suficientes a infirmar a decisão agravada, cuja conclusão mantenho.
+Infere-se dos autos que a insurgente teve a prisão preventiva decretada, no dia 9/11/2023, pela suposta prática do delito de estelionato. O mandado prisional não foi cumprido.
+A segregação cautelar da acusada foi decretada pelo Juízo de primeiro grau nos seguintes termos (fls. 21-22, grifei):
+Trata-se de representação formulada pela autoridade policial e com reiteração do Ministério Público.
+De acordo com o que se verifica da representação, Carlos e Carla, após constituírem empresa e firmarem contratos para realização de eventos com inúmeros clientes, premeditadamente e após o recebimento dos valores acordados, fecharam o estabelecimento e não ofereceram a contrapartida referente ao evento contratado.
+O valor era depositado direto na conta de Leandro de Oliveira Ferreira, irmão de Carla.
+Os acusados estão foragidos.
+Com efeito, há notícia de dezenas de lesados e inúmeros inquéritos policiais instaurados para apuração de delitos em tese cometidos, não só nesta Comarca, como também em outras cidades da região (Americana, Boituva, Nova Odessa, Porto Feliz/SP, dentre outras)
+Há informações de que os imputados figura em mais de 137 processos vinculados ao TJSP e não há informações sobre seus paradeiros, de forma a demonstrar tanto o fumus comissi delicti, corroborado também pela documentação juntada aos autos, pelas declarações e representação da vítima deste processo, além da existência de um grande número de outras vítimas e inquéritos policiais em andamento; quanto o periculum libertatis, requisitos necessários à decretação da custódia cautelar.
+De grande vulto o prejuízo financeiro causado, somado ao abalo psicológico imposto a centenas de famílias, além da sensação de impunidade transmitido à sociedade com a manutenção da liberdade dos acusados.
+Para a decretação da prisão preventiva, necessária a demonstração da presença dos requisitos e pressupostos legais, além da indicação da adequação, necessidade e proporcionalidade da medida.
+A prisão cautelar é adequada e necessária, por conta da inequívoca demonstração por parte dos acusados de sua intenção de furtarem-se à aplicação da lei penal, impedindo o bom andamento do feito, uma vez que se encontram em local ignorado, de forma a obstar a citação pessoal e a regular formação do processo.
+De outra borda, a prisão preventiva é medida proporcional, diante da reiteração das condutas e da grande quantidade de prejudicados, além do fato de não haver indícios de que os acusados pretendem ressarci-los, de forma que não se mostra suficiente a imposição de medidas cautelares alternativas previstas no artigo 319 do CPP.
+O perigo gerado pelo estado de liberdade dos acusados está evidente e a prisão cautelar afigura-se necessária, também, para evitar a prática de novos golpes através da possível criação de outras empresas ou atividades semelhantes às que levaram aos fatos apurados neste feito.
+Consigne-se, por fim, que a prisão dos imputados permitirá a retomada do andamento de todos os processos e inquéritos policiais eventualmente instaurados, em virtude de possibilitar a localização e consequente citação/intimação dos acusados que, hoje, furtam-se à aplicação da lei penal, após locupletarem-se de vultosa soma.
+O Tribunal de origem manteve a decisão de primeiro grau.
+A prisão preventiva é compatível com a presunção de não culpabilidade do acusado desde que não assuma natureza de antecipação da pena e não decorra, automaticamente, do caráter abstrato do crime ou do ato processual praticado (art. 313, § 2º, do CPP).
+Além disso, a decisão judicial deve apoiar-se em motivos e fundamentos concretos, relativos a fatos novos ou contemporâneos, dos quais se possa extrair o perigo que a liberdade plena do investigado ou réu representa para os meios ou os fins do processo penal (arts. 312 e 315 do CPP).
+Apoiado nessas premissas, afirmei na decisão agravada que se mostram suficientes as razões invocadas nas instâncias de origem para embasar a ordem de prisão da acusada, porquanto contextualizaram, em dados dos autos, a necessidade cautelar de sua segregação.
+O Juiz de primeiro grau apontou a presença dos vetores contidos no art. 312 do Código de Processo Penal, em especial a gravidade concreta da conduta, caracterizada pelo modus operandi empregado, que atingiu elevado número de vítimas e produziu vultoso prejuízo financeiro, e o risco de reiteração delitiva, em razão do registro de outros 137 processos em andamento pela prática de delitos da mesma espécie.
+Essas circunstâncias revelam a periculosidade da agente e o risco de reiteração delitiva, dada a aparente habitualidade da conduta, situação que, por si só, na linha da orientação que tem sido adotada por esta Corte, justifica a custódia cautelar.
+De fato, "O risco concreto de reiteração delitiva, demonstrado pela existência de maus antecedentes, reincidência, atos infracionais pretéritos, inquéritos ou ações penais em curso, pode justificar a imposição da prisão preventiva devido à necessidade de se assegurar a ordem pública" (RHC n. 128.993/PI, relatora Ministra Laurita Vaz, Sexta Turma, DJe de 18/12/2020).
+Apesar de não se tratar de delito cometido com violência contra a pessoa, o conjunto de circunstâncias gravosas, tais como a grande quantidade de vítimas, o elevado valor desviado e a reiteração da conduta ao longo do tempo, denotam um risco à ordem pública a justificar a medida cautelar extrema.
+O Superior Tribunal de Justiça tem entendimento consolidado de que não há constrangimento ilegal quando a prisão preventiva é decretada em razão da gravidade concreta da conduta delituosa (AgRg no RHC n. 166.237/MG, relator Ministro Jesuíno Rissato - Desembargador Convocado do TJDFT, Quinta Turma, DJe de 15/8/2022).
+O Magistrado ressaltou, ainda, a fuga da acusada, ao consignar que, após o recebimento dos valores e o fechamento da empresa, ela se evadiu e não foi mais localizada.
+Sobre o tema, a jurisprudência desta Corte Superior entende que "a evasão do distrito da culpa, comprovadamente demonstrada nos autos e reconhecida pelas instâncias ordinárias, constitui motivação suficiente a justificar a preservação da segregação cautelar para garantir a aplicação da lei penal" (AgRg no RHC n. 117.337/CE, relator Ministro Jorge Mussi, Quinta Turma, DJe de 28/11/2019).
+Concluo, então, haver sido demonstrada a exigência cautelar justificadora da manutenção da prisão preventiva da acusada.
+Por idênticos fundamentos (art. 282, I, do Código de Processo Penal), a adoção de medidas cautelares diversas não se prestaria a evitar o cometimento de novas infrações penais.
+A propósito: "Tendo sido exposta de forma fundamentada e concreta a necessidade da prisão, revela-se incabível sua substituição por outras medidas cautelares mais brandas" (HC n. 745.982/MS, relator Ministro Sebastião Reis Júnior, Sexta Turma , DJe de 22/9/2022).
+À vista do exposto, nego provimento ao agravo regimental.
