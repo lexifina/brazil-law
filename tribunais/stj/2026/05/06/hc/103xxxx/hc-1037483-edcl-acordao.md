@@ -1,0 +1,72 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUINTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 30/04/2026 a 06/05/2026, por unanimidade, acolher os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Maria Marluce Caldas, Reynaldo Soares da Fonseca, Ribeiro Dantas e Joel Ilan Paciornik votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Reynaldo Soares da Fonseca.
+EMENTA
+Direito processual penal. Embargos de declaração. Dosimetria da pena. Regime inicial de cumprimento. Omissão formal em acórdão que redimensionou a reprimenda. Fixação de regime mais gravoso com base em circunstâncias judiciais desfavoráveis. Embargos acolhidos sem efeitos infringentes.
+I. Caso em exame
+1. Embargos de declaração opostos em face de acórdão de órgão fracionário de Tribunal Superior que deu parcial provimento a agravo regimental, exclusivamente para reconhecer a incidência da atenuante da confissão espontânea e redimensionar a pena imposta pelo delito de lesão corporal, mantendo, no mais, a decisão agravada.
+2. O embargante alega omissão relevante, ao argumento de que, embora tenha havido redimensionamento da pena, não foi fixado expressamente o regime inicial de cumprimento, o que reputa consectário lógico da nova dosimetria à luz do art. 33, §§ 2º e 3º, do Código Penal, requerendo a fixação de regime inicial aberto.
+II. Questão em discussão
+3. A questão em discussão consiste em saber se há omissão no acórdão que, ao redimensionar a pena em virtude do reconhecimento da atenuante da confissão espontânea, deixou de consignar expressamente o regime inicial de cumprimento da pena reclusiva.
+4. Outra questão em discussão consiste em saber se a redução da pena em razão da atenuante, sem alteração das circunstâncias judiciais desfavoráveis reconhecidas na origem, impõe a fixação de regime prisional mais brando do que aquele anteriormente estabelecido.
+III. Razões de decidir
+5. Os embargos de declaração têm a finalidade de sanar obscuridade, contradição ou omissão do julgado, nos termos do art. 619 do Código de Processo Penal, sendo possível reconhecer omissão meramente formal quanto a ponto que deveria ter sido explicitado.
+6. Verifica-se omissão formal, pois o acórdão anterior reconheceu a atenuante da confissão espontânea e reduziu a pena do delito de lesão corporal, sem, contudo, consignar de modo expresso o regime inicial de cumprimento da pena reclusiva após o redimensionamento.
+7. A integração do julgado deve observar os limites objetivos da decisão originária proferida pelo Tribunal de Justiça, que fixou o regime inicial fechado para a pena reclusiva com base no quantum da reprimenda e em circunstâncias judiciais desfavoráveis, expressamente valoradas na primeira fase da dosimetria.
+8. O acórdão estadual elevou a pena-base acima do mínimo legal em razão da violência empregada contra a vítima, da intensidade do dolo, das consequências físicas e psicológicas do crime e das circunstâncias em que foi praticado, inclusive na presença de filha do casal, reconhecendo tais circunstâncias judiciais como desfavoráveis.
+9. O provimento parcial concedido pelo Tribunal Superior limitou-se ao reconhecimento da atenuante da confissão espontânea, sem alterar a valoração negativa das circunstâncias judiciais nem afastar as premissas fáticas que fundamentaram a escolha de regime mais gravoso pelo Tribunal de origem.
+10. A redução do quantum da pena, decorrente do reconhecimento da atenuante, não modifica o juízo de censura acerca das circunstâncias judiciais, que permanecem desfavoráveis e, nos termos do art. 33, §§ 2º e 3º, do Código Penal, autorizam a fixação de regime inicial mais severo do que aquele decorrente apenas do critério objetivo do montante da pena.
+11. A simples redução da reprimenda pela incidência de atenuante não impõe, de forma automática, a mitigação do regime prisional, quando subsistem fundamentos concretos idôneos para justificar regime mais rigoroso, mantendo-se hígida a fundamentação da instância ordinária.
+12. Reconhecida a omissão formal quanto à explicitação do regime inicial, impõe-se apenas integrá-la para consignar que o regime inicial de cumprimento da pena reclusiva permanece o semiaberto, em consonância com a fundamentação original e sem alteração do resultado condenatório, inexistindo contradição ou obscuridade a ser sanada.
+IV. Dispositivo e tese
+13. Resultado do Julgamento: Embargos de declaração acolhidos exclusivamente para suprir omissão quanto ao regime inicial, a fim de consignar que o cumprimento da pena reclusiva permanece no regime semiaberto, mantidos os demais termos do acórdão embargado.
+Tese de julgamento:
+1. A omissão quanto à explicitação do regime inicial de cumprimento da pena, após redimensionamento da reprimenda, pode ser suprida em embargos de declaração, sem alteração das demais conclusões do acórdão.
+2. A redução da pena em razão da incidência de atenuante não obriga, por si só, a fixação de regime prisional mais brando, quando subsistem circunstâncias judiciais desfavoráveis idôneas a justificar regime mais gravoso, nos termos do art. 33, §§ 2º e 3º, do Código Penal.
+Dispositivos relevantes citados: CPP, art. 619; CP, art. 33, §§ 2º e 3º.
+Jurisprudência relevante citada:
+RELATÓRIO
+Trata-se de embargos de declaração opostos por BONIFÁCIO DE ALMEIDA SIMÕES contra acórdão da Quinta Turma que deu parcial provimento ao agravo regimental, exclusivamente para reconhecer a incidência da atenuante da confissão espontânea, com redimensionamento da pena para o delito de lesão corporal, mantendo-se, no mais, a decisão agravada por seus próprios fundamentos .
+Sustenta o embargante a existência de omissão relevante no julgado, porquanto, embora tenha sido promovido o redimensionamento da pena, não houve fixação expressa do regime inicial de cumprimento, providência que reputa consectário lógico da nova dosimetria, à luz do art. 33, §§ 2º e 3º, do Código Penal .
+Afirma, ainda, que, em sessão de julgamento, teria sido consignada a aplicação do regime aberto, o que reforçaria a necessidade de integração do acórdão.
+Requer o conhecimento e provimento dos aclaratórios para que seja suprida a omissão apontada, com fixação expressa do regime inicial aberto.
+É o relatório.
+EMENTA
+Direito processual penal. Embargos de declaração. Dosimetria da pena. Regime inicial de cumprimento. Omissão formal em acórdão que redimensionou a reprimenda. Fixação de regime mais gravoso com base em circunstâncias judiciais desfavoráveis. Embargos acolhidos sem efeitos infringentes.
+I. Caso em exame
+1. Embargos de declaração opostos em face de acórdão de órgão fracionário de Tribunal Superior que deu parcial provimento a agravo regimental, exclusivamente para reconhecer a incidência da atenuante da confissão espontânea e redimensionar a pena imposta pelo delito de lesão corporal, mantendo, no mais, a decisão agravada.
+2. O embargante alega omissão relevante, ao argumento de que, embora tenha havido redimensionamento da pena, não foi fixado expressamente o regime inicial de cumprimento, o que reputa consectário lógico da nova dosimetria à luz do art. 33, §§ 2º e 3º, do Código Penal, requerendo a fixação de regime inicial aberto.
+II. Questão em discussão
+3. A questão em discussão consiste em saber se há omissão no acórdão que, ao redimensionar a pena em virtude do reconhecimento da atenuante da confissão espontânea, deixou de consignar expressamente o regime inicial de cumprimento da pena reclusiva.
+4. Outra questão em discussão consiste em saber se a redução da pena em razão da atenuante, sem alteração das circunstâncias judiciais desfavoráveis reconhecidas na origem, impõe a fixação de regime prisional mais brando do que aquele anteriormente estabelecido.
+III. Razões de decidir
+5. Os embargos de declaração têm a finalidade de sanar obscuridade, contradição ou omissão do julgado, nos termos do art. 619 do Código de Processo Penal, sendo possível reconhecer omissão meramente formal quanto a ponto que deveria ter sido explicitado.
+6. Verifica-se omissão formal, pois o acórdão anterior reconheceu a atenuante da confissão espontânea e reduziu a pena do delito de lesão corporal, sem, contudo, consignar de modo expresso o regime inicial de cumprimento da pena reclusiva após o redimensionamento.
+7. A integração do julgado deve observar os limites objetivos da decisão originária proferida pelo Tribunal de Justiça, que fixou o regime inicial fechado para a pena reclusiva com base no quantum da reprimenda e em circunstâncias judiciais desfavoráveis, expressamente valoradas na primeira fase da dosimetria.
+8. O acórdão estadual elevou a pena-base acima do mínimo legal em razão da violência empregada contra a vítima, da intensidade do dolo, das consequências físicas e psicológicas do crime e das circunstâncias em que foi praticado, inclusive na presença de filha do casal, reconhecendo tais circunstâncias judiciais como desfavoráveis.
+9. O provimento parcial concedido pelo Tribunal Superior limitou-se ao reconhecimento da atenuante da confissão espontânea, sem alterar a valoração negativa das circunstâncias judiciais nem afastar as premissas fáticas que fundamentaram a escolha de regime mais gravoso pelo Tribunal de origem.
+10. A redução do quantum da pena, decorrente do reconhecimento da atenuante, não modifica o juízo de censura acerca das circunstâncias judiciais, que permanecem desfavoráveis e, nos termos do art. 33, §§ 2º e 3º, do Código Penal, autorizam a fixação de regime inicial mais severo do que aquele decorrente apenas do critério objetivo do montante da pena.
+11. A simples redução da reprimenda pela incidência de atenuante não impõe, de forma automática, a mitigação do regime prisional, quando subsistem fundamentos concretos idôneos para justificar regime mais rigoroso, mantendo-se hígida a fundamentação da instância ordinária.
+12. Reconhecida a omissão formal quanto à explicitação do regime inicial, impõe-se apenas integrá-la para consignar que o regime inicial de cumprimento da pena reclusiva permanece o semiaberto, em consonância com a fundamentação original e sem alteração do resultado condenatório, inexistindo contradição ou obscuridade a ser sanada.
+IV. Dispositivo e tese
+13. Resultado do Julgamento: Embargos de declaração acolhidos exclusivamente para suprir omissão quanto ao regime inicial, a fim de consignar que o cumprimento da pena reclusiva permanece no regime semiaberto, mantidos os demais termos do acórdão embargado.
+Tese de julgamento:
+1. A omissão quanto à explicitação do regime inicial de cumprimento da pena, após redimensionamento da reprimenda, pode ser suprida em embargos de declaração, sem alteração das demais conclusões do acórdão.
+2. A redução da pena em razão da incidência de atenuante não obriga, por si só, a fixação de regime prisional mais brando, quando subsistem circunstâncias judiciais desfavoráveis idôneas a justificar regime mais gravoso, nos termos do art. 33, §§ 2º e 3º, do Código Penal.
+Dispositivos relevantes citados: CPP, art. 619; CP, art. 33, §§ 2º e 3º.
+Jurisprudência relevante citada:
+VOTO
+Nos termos do art. 619 do Código de Processo Penal, os embargos de declaração destinam-se a sanar obscuridade, contradição ou omissão existentes no julgado.
+No caso concreto, assiste razão ao embargante apenas quanto à existência de omissão formal, consistente na ausência de manifestação expressa acerca do regime inicial de cumprimento da pena após o redimensionamento promovido por esta Corte.
+De fato, o acórdão embargado reconheceu a incidência da atenuante da confissão espontânea e procedeu à redução da pena referente ao delito de lesão corporal, sem consignar, de maneira explícita, o regime inicial correspondente.
+Todavia, a integração do julgado deve observar os limites objetivos da decisão originária proferida pelo Tribunal de Justiça do Estado de São Paulo, a qual fixou regime inicial fechado para a pena reclusiva, expressamente fundamentando tal escolha no quantum final da reprimenda e nas circunstâncias judiciais desfavoráveis reconhecidas na primeira fase da dosimetria .
+Com efeito, conforme consignado no voto condutor do acórdão estadual, a pena-base foi fixada acima do mínimo legal em razão da desarrazoada violência empregada contra a vítima, da intensidade do dolo, das consequências físicas e psicológicas do crime e das circunstâncias em que praticado, inclusive na presença da filha do casal, circunstâncias judiciais que foram expressamente valoradas como desfavoráveis.
+Ao final, o Tribunal de origem assentou que "o estabelecimento do regime prisional inicial fechado é o cabível na hipótese para a pena reclusiva, em vista ao quantum final da pena e pelas circunstâncias judiciais desfavoráveis" .
+Importa destacar que o provimento parcial concedido por esta Corte limitou-se ao reconhecimento da atenuante da confissão espontânea, não tendo sido alterada a valoração negativa das circunstâncias judiciais nem afastadas as premissas fáticas que embasaram a fixação do regime mais gravoso.
+Desse modo, ainda que tenha havido redução do quantum da pena, não houve modificação do juízo de censura firmado quanto às circunstâncias judiciais, as quais permanecem desfavoráveis, circunstância que autoriza, nos termos do art. 33, §§ 2º e 3º, do Código Penal, a fixação de regime mais gravoso do que o correspondente apenas ao critério objetivo do montante da pena.
+A simples redução decorrente do reconhecimento de atenuante não impõe, automaticamente, a mitigação do regime prisional quando subsistem fundamentos concretos idôneos a justificar regime mais severo.
+Assim, reconhecida a omissão formal quanto à explicitação do regime inicial, impõe-se integrá-la para consignar que, mantidas as circunstâncias judiciais desfavoráveis reconhecidas pelo Tribunal de origem e não alteradas por esta Corte, o regime inicial para o cumprimento da pena reclusiva permanece o semiaberto, em consonância com a fundamentação original e com o disposto no art. 33, §§ 2º e 3º, do Código Penal.
+Não há contradição ou obscuridade a sanar, limitando-se o vício à ausência de manifestação expressa sobre ponto que decorre logicamente da manutenção das premissas fixadas na instância ordinária.
+Ante o exposto, acolho os embargos de declaração exclusivamente para suprir a omissão apontada e consignar que o regime inicial de cumprimento da pena reclusiva permanece o semiaberto, mantidos os demais termos do acórdão embargado.
+É como voto.
