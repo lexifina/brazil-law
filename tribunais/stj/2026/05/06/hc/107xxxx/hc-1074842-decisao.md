@@ -1,0 +1,37 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em benefício de CLARITA NUNES COSTA, contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO no julgamento do Habeas Corpus Criminal n. 2360744-77.2025.8.26.0000.
+Extrai-se dos autos que a paciente foi presa em flagrante em 21/9/2025, posteriormente convertida em prisão preventiva, e restou denunciada pela suposta prática dos crimes tipificados nos arts. 33, caput, e 35, ambos da Lei n. 11.343/2006.
+Irresignada, a defesa impetrou habeas corpus perante o Tribunal de origem, que denegou a ordem nos termos do acórdão que restou assim ementado (fl. 44):
+"Habeas Corpus. Tráfico de drogas. Trancamento da ação penal, ao argumento de que são ilícitas as provas colhidas durante o flagrante, pois decorrentes de abordagem imotivada. Impossibilidade. Existência de prévias e fundadas suspeitas da ocorrência de crime (art. 244, CPP) em situação flagrancial que autorizava a abordagem e a busca pessoal realizadas. Precedentes. Ausência de prejuízo. Liberdade provisória. Inadmissibilidade. Presença de indícios de autoria e prova da existência do crime. Decisão suficientemente fundamentada. Necessidade da custódia para garantia da ordem pública, face a gravidade concreta do delito. Paciente que, apesar de primária, responde a ação penal por fatos análogos, tudo a indicar o elevado grau de periculosidade de que é possuidora. Medidas cautelares diversas da prisão que se mostram insuficientes no caso. Prisão domiciliar (318, V, CPP). Impossibilidade. Situação excepcionalíssima. Novel art. 318-A do CPP, que não comporta interpretação literal. Ausente demonstração de que a paciente é imprescindível aos cuidados de sua prole. Constrangimento ilegal não caracterizado. Ordem denegada."
+No presente writ, a defesa sustenta a nulidade das provas obtidas por meio de busca pessoal desprovida de fundadas suspeitas, caracterizando indevida fishing expedition, em afronta ao disposto nos arts. 240 e 244 do Código de Processo Penal.
+Assevera a ausência de fundamentação idônea para a manutenção da prisão preventiva, em violação aos arts. 312 e 315 do Código de Processo Penal, destacando que a gravidade abstrata do delito não legitima a custódia cautelar.
+Argui a possibilidade de substituição da prisão preventiva por medidas cautelares diversas, nos termos do art. 319 do Código de Processo Penal, consideradas adequadas e suficientes ao caso.
+Defende condições pessoais favoráveis, com destaque à primariedade e à residência fixa, o que afasta qualquer óbice à aplicação da lei penal.
+Aduz a necessidade de substituição da prisão preventiva pela domiciliar, à luz dos arts. 318, V, e 318-A do Código de Processo Penal, por ser a paciente mãe de duas crianças menores de 12 anos de idade.
+Requer, em liminar e no mérito, a concessão da ordem para que seja relaxada ou revogada a prisão preventiva, com expedição de alvará de soltura, com ou sem aplicação de medidas cautelares diversas. Subsidiariamente, pugna pela concessão de prisão domiciliar.
+Liminar indeferida nos termos da decisão de fls. 70/72.
+Informações prestadas pelas instâncias de origem às fls. 75/77 e 82/107.
+Parecer do Ministério Público Federal pela concessão parcial da ordem para que seja determinada a substituição da prisão preventiva pela prisão domiciliar, sem prejuízo da fixação de medidas cautelares diversas, na forma do art. 319 do CPP.(fls. 113/120).
+É o relatório.
+Decido.
+O habeas corpus está prejudicado.
+Em consulta à página eletrônica do Tribunal de origem, constata-se que, em 24/04/2026, nos autos da Ação Penal n. 1506432-75.2025.8.26.0392, a paciente foi condenada às penas de 4 anos e 2 meses de reclusão, em regime semiaberto, e pagamento de 416 dias-multa, no valor mínimo legal pela prática dos delito previstos no art. 33, caput, c.c. §4º, da Lei nº 11.343/06 , sendo negado o recurso em liberdade, mantendo-se a prisão preventiva. Determinou-se, também, expedição de ofício ao estabelecimento prisional para fins de imediata adequação ao regime de pena imposto.
+Assim, a notícia da superveniência de sentença condenatória durante a tramitação do presente writ implica na perda do objeto da irresignação.
+A despeito de posicionamento anterior desta Quinta Turma do Superior Tribunal de Justiça, a Corte tem evoluído a orientação, para entender que o advento de sentença condenatória resulta na prejudicialidade do writ que pretende a revogação da segregação, por constituir novo título a justificar a manutenção da custódia processual do paciente, cujos fundamentos devem ser impugnados por via própria, caso assim entenda a defesa. Em corroboração, cito precedentes desta Corte Superior:
+AGRAVO REGIMENTAL NO AGRAVO REGIMENTAL NO HABEAS CORPUS. DIREITO PENAL. PROCESSUAL PENAL. INSURGÊNCIA CONTRA PRISÃO PREVENTIVA. SUPERVENIÊNCIA DE SENTENÇA CONDENATÓRIA. NOVO ATO COATOR QUE DESAFIA IMPUGNAÇÃO PRÓPRIA. AGRAVO NÃO PROVIDO.
+1. A superveniência de um novo título judicial, decisão exarada pelo Juízo de primeiro grau, em consonância com o que determina o § 1º do art. 387 do Código de Processo Penal, com a redação que lhe foi dada pela Lei n. 12.736/2012, prejudica a impetração voltada à impugnação do decreto prisional original.
+2. No caso, o surgimento de novo título judicial a amparar prisão preventiva do agravante - a saber: a sentença condenatória - prejudica a análise do objeto da presente impetração, que se insurgia contra a ordem de custódia cautelar original.
+3. Agravo regimental não provido.
+(AgRg no AgRg no HC n. 890.403/SP, relator Ministro Otávio de Almeida Toledo (Desembargador Convocado do TJSP), Sexta Turma, julgado em 24/6/2024, DJe de 27/6/2024.)
+AGRAVO REGIMENTAL NO HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. NÃO CABIMENTO. DECISÃO MONOCRÁTICA. TRÁFICO DE DROGAS. ILICITUDE DAS PROVAS E DA PRISÃO EM FLAGRANTE POR SUPOSTA INVASÃO DE DOMICÍLIO. PESQUISA NO SITE DA CORTE DE ORIGEM. SUPERVINIÊNCIA DE SENTENÇA CONDENATÓRIA. NOVO TÍTULO. PERDA DO OBJETO. PREJUDICIALIDADE. APELAÇÃO PENDENTE DE JULGAMENTO. SUPRESSÃO DE INSTÂNCIA. AGRAVO REGIMENTAL NÃO CONHECIDO.
+No caso, em consulta à página eletrônica do Tribunal de Justiça do Estado do Mato Grosso do Sul, verificou-se que já foi proferida sentença condenatória na presente ação penal, circunstância que revela a perda do objeto do mandamus em apreço. Precedentes.
+Agravo regimental não conhecido.
+(AgRg no HC n. 798.863/MS, relator Ministro Messod Azulay Neto, Quinta Turma, julgado em 25/9/2023, DJe de 28/9/2023.)
+AGRAVO REGIMENTAL. RECURSO ORDINÁRIO EM HABEAS CORPUS JULGADO PREJUDICADO. PRISÃO PREVENTIVA. FUNDAMENTAÇÃO. SUPERVENIENTE SENTENÇA CONDENATÓRIA. NOVO TÍTULO. PERDA DO OBJETO. PRECEDENTES.
+1. Sobrevindo decisão condenatória, o pedido em que se busca a revogação da prisão preventiva anteriormente decretada ou a substituição por outras medidas cautelares está prejudicado, pois, consoante iterativa jurisprudência do Superior Tribunal de Justiça, a superveniência de sentença condenatória recorrível constitui novo título a justificar a custódia cautelar, devendo os seus fundamentos ser submetidos à análise do Tribunal de origem antes de serem aqui apreciados, vedada a supressão de instância.
+2. Agravo regimental improvido.
+(AgRg no RHC n. 158.359/SP, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 19/4/2022, DJe de 25/4/2022.)
+Pelo exposto, com fundamento no art. 34, XX, do Regimento Interno do Superior Tribunal de Justiça, julgo prejudicado o presente habeas corpus.
+Publique-se.
+Intimem-se.
+ EMENTA
