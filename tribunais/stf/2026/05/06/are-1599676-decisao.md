@@ -1,0 +1,48 @@
+DECISÃO: Trata-se de agravo interposto contra decisão de inadmissibilidade do recurso extraordinário, com base no art. 102, III, “a”, da Constituição Federal, apresentado por Frei Paulo Implementos Agrícolas LTDA, em face do acórdão do Tribunal de Justiça do Estado de Sergipe assim ementado:
+
+“AGRAVO DE INSTRUMENTO EXECUÇÃO FISCAL - IRRESIGNAÇÃO DO EXECUTADO/AGRAVANTE EXCEÇÃO DE PRÉ-EXECUTIVIDADE NÃO CONHECIDA QUANTO AO DESATENDIMENTO DO LIMITE DA TAXA SELIC, REFERENTE AOS ÍNDICES DE ATUALIZAÇÃO DA DÍVIDA TRIBUTÁRIA, PELA INADEQUAÇÃO DA VIA ELEITA, E CONHECIDA EM RELAÇÃO À ALEGAÇÃO DE EFEITO CONFISCATÓRIO DA MULTA APLICADA - MULTA NO PERCENTUAL DE 25%, DENTRO DO PATAMAR DA MULTA PUNITIVA DE ATÉ 100% - DECISÃO DE PISO NÃO MERECE REFORMA - GRATUIDADE JUDICIÁRIA D E F E R I D A – PRECEDENTES DO STF - RECURSO CONHECIDO E IMPROVIDO.” (Processo 202400807311, Grupo VIII da 2ª Câmara Cível do Tribunal de Justiça do Estado de Sergipe, Relator Des. João Hora Neto, j. 19/7/2024)
+
+Na minuta, sustenta-se violação do art. 24, I, e 150, IV, da Constituição da República. Defende-se, em síntese, a redução da multa moratória para o importe de 20% (vinte por cento) do valor do imposto devido.
+É o relatório.
+Decido.
+O recurso não comporta seguimento.
+Depreende-se o do acórdão recorrido:
+
+“[...]
+Com efeito, não é possível analisar se a atualização fundamentada na lei estadual e constante na CDA ultrapassa o limite do cálculo apurado por meio da SELIC, uma vez que a executada não demonstrou efetivamente o cálculo da atualização e juros a maior, não se prestando a relação dos índices SELIC anexada para demonstração do excesso.
+Com isso, entendo que a alegação da parte excipiente/executada conduz a uma inevitável discussão do título executivo, cujo tema não é cabível no âmbito da exceção de pré-executividade.
+(…)
+Desse modo, quanto à primeira insurgência do excipiente, referente ao desatendimento do limite da taxa SELIC quanto aos índices de atualização de dívida tributária, deixo de conhecer a exceção de pré-executividade, diante da evidente inadequação da via eleita para análise da questão.
+(...)
+Desse modo, a alegação de abusividade do valor da multa para deve ser rejeitada. Ante o exposto, DEIXO DE CONHECER a exceção de pré-executividade no que respeita à alegação de desatendimento do limite da taxa SELIC quanto aos índices de atualização de dívida tributária, ao passo que CONHEÇO da exceção no que atine à alegação de efeito confiscatório da multa aplicada e, neste ponto, A REJEITO. ”
+ (...)
+O presente agravo de instrumento foi interposto contra decisão interlocutória exarada no incidente de pré-executividade que não conheceu da alegação de excesso de execução, por eventual índices de atualização da dívida tributária acima da taxa Selic, e abusividade da multa moratória no patamar de 25%, quando deveria ser de 20%.
+Com relação à taxa de juros de mora em matéria tributária, o art. 161, § 1.º do CTN define que: "Se a lei não dispuser de modo diverso, os juros de mora são calculados à taxa de 1% (um por cento) ao mês", possibilitando a fixação de juros de mora em patamar superior a 1% (um por cento) ao mês desde que haja previsão legal nesse sentido.
+Sobreleva destacar que o CTN permite a taxa SELIC ser superior à correção monetária cumulada com a taxa de juros de 1% ao mês, não há óbice algum a sua aplicação.
+Do próprio dispositivo citado, extrai-se que basta a lei dispor que outra será a taxa de juros. Assim, caso a lei determine a incidência da taxa SELIC será afastada a taxa de juros prevista no dispositivo em comento. Pouco importa, para este fim, de que maneira esta ou aquela taxa de juros foi instituída.
+Também, é pacífico o entendimento jurisprudencial do STJ no sentido de ser legítima a utilização da taxa SELIC como índice de correção monetária e de juros moratórios sobre dívidas tributárias (REsp 665320/PR, Rel. Ministro TEORI ALBINO ZAVASCKI, PRIMEIRA TURMA, julgado em 19/02/2008, DJe 03/03/2008).
+Sobreleva citar que, a recorrente não demonstrou de modo efetivo o cálculo de atualização e juros a maior que os índices da taxa SELIC, simplesmente, anexou uma planilha dos últimos cinco anos desta taxa retirado do Banco Central que não servem para demonstrar o excesso de execução alegado, precisando de dilação probatória, por isso acertadamente não conhecido na exceção de pré-executividade pelo juízo a quo.
+De outra banda, a multa moratória encontra-se amparada no art. 161, caput, do CTN, estando sua incidência vinculada estritamente à circunstância objetiva da ausência de adimplemento de tributo à época própria, possui caráter de sanção, objetiva penalizar o infrator.
+Como é cediço, o art. 150, IV, da Carta Magna vedou a utilização de tributo com efeito de confisco, estendendo-se tal limitação ao poder de tributar multa, obrigação acessória, que deve ser arbitrada segundo os critérios da razoabilidade e proporcionalidade a fim de não onerar de tal modo a propriedade do contribuinte a ponto de confiscá-la a título de tributação.
+O STF, no bojo do AI 727.872 AgR1, admitiu a possibilidade de redução do valor da multa fixada em lei quando excessiva, possibilitando uma dosimetria pelo Poder Judiciário, e fixando como limites os percentuais de 20% (vinte por cento) para multa moratória e de 100% (cem por cento) para multa punitiva, incidente sobre o valor da obrigação principal tributária.
+ Em que pese a alegação da agravante de que se trata de multa moratória, por atraso no pagamento, nas contrarrazões apresentadas, o ente agravado conseguiu provar que, na verdade, tem-se uma multa punitiva, vez que não houve sequer pagamento do tributo para considerar impontualidade.
+Inclusive, faz menção às CDA’s da execução fiscal às fls. 06/15 dos autos de origem, e em nenhuma delas há cobrança de qualquer valor correspondente à multa moratória.
+Portanto, o percentual aplicado para multa punitiva está coerente e de acordo com o STF, verbis:
+(...)
+Logo, corroboro o entendimento esposado na contraminuta apresentada pela parte adversa e reformo meu entendimento exarado na liminar para manter sem retoques a decisão de piso.
+coadumo-me com o disposto na contraminuta apresentada pela parte adversa e reformo meu entendimento exarado na liminar para manter sem retoques a decisão de piso.
+Ante o exposto, conheço do recurso, para, no mérito, NEGAR-LHE PROVIMENTO, ressalvando a concessão da gratuidade judiciária requerida.”
+
+ Da análise dos autos, verifica-se que o entendimento acolhido no acórdão impugnado está alinhado à jurisprudência desta Suprema Corte, no sentido de a multa tributária qualificada em razão de sonegação, fraude ou conluio limita-se a 100% (cem por cento) do débito tributário (Tema 863), razão pela qual não se verifica a alegada violação dos dispositivos constitucionais indicados nas razões recursais. Nesse sentido:
+
+“Recurso extraordinário. Repercussão geral. Tema nº 863. Direito tributário. Limite das multas qualificadas em razão de sonegação, fraude ou conluio. Necessidade de observância dos princípios do não confisco, da razoabilidade e da proporcionalidade. Limite de 100% (cem por cento) do débito tributário ou, em caso de reincidência, de 150% (cento e cinquenta por cento) do débito tributário. 1. As multas qualificadas em razão de sonegação, fraude ou conluio visam a reprimir comportamentos com elevado grau de reprovabilidade. 2. São razoáveis e proporcionais as limitações para as multas previstas na Lei nº 9.430/96, atualizada pela Lei nº 14.689/23. No caso de sonegação, fraude ou conluio, a multa é de 100% do débito (art. 44, § 1º, inciso VI, da Lei nº 9.430/96, incluído pela Lei nº 14.689/23); ou de 150% do débito, nos casos em que for verificada a reincidência do sujeito passivo (art. 44, § 1º, inciso VII, da Lei nº 9.430/96, incluído pela Lei nº 14.689/23), como legalmente definida (vide § 1º-A do citado artigo). Necessidade de observância do § 1º-C do art. 44 da Lei nº 9.430/96, o qual trata de hipóteses de não aplicação da multa qualificada em razão de sonegação, fraude ou conluio. 3. Fixação da seguinte tese para o Tema nº 863: “Até que seja editada lei complementar federal sobre a matéria, a multa tributária qualificada em razão de sonegação, fraude ou conluio limita-se a 100% (cem por cento) do débito tributário, podendo ser de até 150% (cento e cinquenta por cento) do débito tributário, caso se verifique a reincidência definida no art. 44, § 1º-A, da Lei nº 9.430/96, incluído pela Lei nº 14.689/23, observando-se, ainda, o disposto no § 1º-C do citado artigo”. 4. Modulação dos efeitos da decisão, estabelecendo-se que ela passe a produzir efeitos a partir da edição da Lei nº 14.689/23, mantidos os patamares atualmente fixados pelos entes da federação até os limites da tese. Ficam ressalvados desses efeitos (i) as ações judiciais e os processos administrativos pendentes de conclusão até a referida data; (ii) os fatos geradores ocorridos até a referida data em relação aos quais não tenha havido o pagamento de multa abrangida pelo presente tema de repercussão geral. 5. Recurso extraordinário parcialmente provido.” (RE 736090, Rel. Min. Dias Toffoli, Pleno, DJe 29/11/2024)
+
+Diante do exposto, com base no art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal, nego seguimento ao recurso.
+Havendo prévia fixação de honorários advocatícios pelas instâncias de origem, seu valor monetário será majorado em 10% (dez por cento) em desfavor da parte recorrente, nos termos do art. 85, § 11, do Código de Processo Civil, observados os limites dos §§ 2º e 3º do referido artigo e a eventual concessão de justiça gratuita.
+Publique-se.
+
+Brasília, 6 de maio de 2026.
+
+Ministro FLÁVIO DINO
+Relator
+Documento assinado digitalmente
