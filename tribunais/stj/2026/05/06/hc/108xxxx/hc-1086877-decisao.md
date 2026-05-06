@@ -1,0 +1,38 @@
+DECISÃO
+Trata-se de habeas corpus com pedido de liminar impetrado em favor de JHONATAS SANTOS DOS SANTOS em que se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DO PARÁ (Habeas Corpus Criminal n. 0804411-81.2026.8.14.0000).
+Consta dos autos que o paciente foi preso preventivamente, em razão da suposta prática do delito previsto no art. 33, caput, da Lei n. 11.343/2006.
+O impetrante sustenta que a busca pessoal é inválida por ter sido baseada apenas em denúncia anônima, sem fundada suspeita.
+Alega que o acesso ao celular e a entrada no domicílio geraram provas ilícitas, contaminando os demais elementos, à luz do art. 157 do CPP e da teoria dos frutos da árvore envenenada.
+Afirma que há contradições relevantes entre relatos do inquérito e depoimentos judiciais dos policiais, o que reforça a nulidade das provas.
+Assevera que o Ministério Público, em alegações finais, também apontou inconsistências e pugnou pelo reconhecimento das nulidades, culminando em absolvição.
+Defende que houve tratamento seletivo na condução policial, pois apenas o paciente foi apresentado, sem qualificação dos demais presentes na oficina.
+Aduz que é incompatível manter a prisão preventiva quando a sentença fixou o regime inicial semiaberto, caracterizando constrangimento ilegal.
+Afirma que foi indevidamente afastada a causa de diminuição do art. 33, § 4º, da Lei n. 11.343/2006, por ter havido transação penal em 2021, o que não configura maus antecedentes nem dedicação a atividades criminosas.
+Informa que, tendo o paciente sido condenado em primeira instância às penas de 7 anos e 6 meses de reclusão em regime inicial semiaberto e de pagamento de 750 dias-multa, como incurso nas sanções do art. 33, caput, da Lei n. 11.343/2006, interpôs apelação em 28/3/2026, pendente de andamento quanto às contrarrazões do Ministério Público.
+Pondera que estão ausentes fundamentos concretos e contemporâneos para a custódia, havendo desproporção diante das condições pessoais favoráveis do paciente.
+Relata que o periculum in mora decorre da manutenção da restrição de liberdade baseada em prova ilícita e em regime incompatível com a sentença.
+Requer, liminarmente, a expedição de alvará de soltura. No mérito, pede a absolvição do preso por nulidade das provas e, subsidiariamente, o reconhecimento do tráfico privilegiado, com redimensionamento da pena e confirmação do direito do paciente de recorrer em liberdade.
+Por meio da decisão de fls. 91-93, o pedido liminar foi indeferido. Em seguida, foram juntadas aos autos as informações prestadas pela origem (fls. 96-99, 103-105 e 136-146), bem como a manifestação do Ministério Público Federal, opinando pela prejudicialidade do habeas corpus (fls. 148-151).
+É o relatório.
+O Superior Tribunal de Justiça entende ser inviável a utilização do habeas corpus como sucedâneo de recurso próprio, previsto na legislação, impondo-se o não conhecimento da impetração. Nesse sentido: AgRg no HC n. 933.316/MG, relator Ministro Messod Azulay Neto, Quinta Turma, julgado em 20/8/2024, DJe de 27/8/2024 e AgRg no HC n. 749.702/SP, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 26/2/2024, DJe de 29/2/2024.
+Portanto, não se conhece da impetração.
+Em atenção ao disposto no art. 647-A do CPP, verifico que o julgado impugnado não possui ilegalidade flagrante que permita a concessão da ordem de ofício, conforme se depreende da fundamentação a ser exposta a seguir.
+Nas suas informações, o Tribunal de origem aduziu o seguinte (fls. 104-105, grifei):
+O Juízo da Vara Única de Concórdia do Pará julgou totalmente procedente a denúncia em 19/03/2026 (cópia anexa - ID 35337389), condenando Jhonatas Santos dos Santos pela prática do crime tipificado no art. 33, caput da Lei nº 11.343/2006, fixando-Ihes à pena de 07 (sete) anos e 06 (seis) meses de reclusão e 750 (setecentos e cinqüenta) dias-multa, cada um no valor de 1/30 (um trigésimo) do salário-mínimo vigente à época dos fatos, em regime inicial semiaberto.
+O apelante Jhonatas Santos dos Santos interpôs Recurso de Apelação Criminal (cópia anexa - ID 35337400) e, em suas razões recursais (cópia anexa - ID 35337400), pugna pelo reconhecimento da nulidade da busca pessoal e domiciliar, ante a ausência de fundada suspeita e de mandado judicial. Caso assim não se entenda, requer a absolvição por insuficiência de provas. Por fim, subsidiariamente, caso se entenda pela manutenção da condenação, requer a reforma da dosimetria da pena na primeira fase, fixando a pena-base no mínimo legal e afastando a valoração negativa das circunstâncias do crime, por constituir bis in idem e fundamentação genérica; Na terceira fase pelo reconhecimento e aplicação da causa de diminuição do tráfico privilegiado (art. 33, § 4º, da Lei nº 11.343/06) em seu patamar máximo (2/3), declarando que a transação penal anterior e a ausência de ocupação lícita não são fundamentos idôneos para afastar o benefício.
+Em contrarrazões (cópia anexa - ID 35337406), o apelado sustenta o conhecimento e provimento do recurso de Apelação Criminal interposto, para absolver Jhonatas Santos dos Santos, diante da invalidade da base probatória de provas para a condenação.
+O processo eletrônico encontra-se conclusos para julgamento.
+A matéria debatida nesta impetração não foi definitivamente apreciada pelo Tribunal de origem, já que se encontra pendente de julgamento o recurso de apelação interposto pela defesa contra a condenação do paciente pelo Juízo de primeira instância, o que impede o conhecimento do pedido por este Superior Tribunal de Justiça, sob pena de indevida supressão de instância.
+Nesse sentido:
+PROCESSO PENAL. AGRAVO REGIMENTAL NOS EMBARGOS DE DECLARAÇÃO NO HABEAS CORPUS. TRÁFICO DE DROGAS. PROVA DECLARADA NULA. NECESSIDADE DE REALIZAÇÃO DE NOVA AUDIÊNCIA DE INSTRUÇÃO DE JULGAMENTO. IMPEDIMENTO DO JUÍZO DE PRIMEIRO GRAU E DESEMBARGADORES QUE ATUARAM ORIGINARIAMENTE NO FEITO. SUPRESSÃO DE INSTÂNCIA. COMPETÊNCIA DO JUÍZO DE CONHECIMENTO. CONSTRANGIMENTO ILEGAL NÃO VERIFICADO. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. O pleito defensivo relativo à declaração de impedimento dos julgadores não foi analisado pelas instâncias ordinárias, o que obsta a análise diretamente por este Tribunal Superior, sob pena de indevida supressão de instância, sendo certo que o incidente de impedimento ou suspeição deve ser requerido junto ao Juízo que conduzirá o processo, mediante demonstração do justo impedimento, a teor do disposto no Código de Processo Penal. Precedentes.
+2. Agravo regimental não provido.
+(AgRg nos EDcl no HC n. 805.331/SP, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 19/8/2024, DJe de 23/8/2024 - grifo próprio.)
+AGRAVO REGIMENTAL EM EMBARGOS DE DECLARAÇÃO EM HABEAS CORPUS. MATÉRIAS DEDUZIDAS NO WRIT QUE NÃO FORAM APRECIADAS PELO TRIBUNAL DE ORIGEM. SUPRESSÃO DE INSTÂNCIA. PETIÇÃO INICIAL LIMINARMENTE INDEFERIDA. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. Não tendo sido abordada, pelo Tribunal de origem, a nulidade vergastada sob o ângulo pretendido na impetração, resta inviável seu conhecimento per saltum por esta Corte Superior. Supressão de instância inadmissível.
+2. Precedentes de que, até mesmo as nulidades absolutas devem ser objeto de prévio exame na origem a fim de que possam inaugurar a instância extraordinária (AgRg no HC n. 395.493/SP, Sexta Turma, rel. Min. Rogerio Schietti Cruz, DJe de 25/05/2017).
+3. Agravo regimental não provido.
+(AgRg nos EDcl no HC n. 906.517/SP, relator Ministro Otávio de Almeida Toledo - Desembargador convocado do TJSP, Sexta Turma, julgado em 20/8/2024, DJe de 23/8/2024 - grifo próprio.)
+Ante o exposto, com fundamento no art. 210 do Regimento Interno do Superior Tribunal de Justiça, não conheço do habeas corpus.
+Publique-se. Intimem-se .
+ EMENTA
