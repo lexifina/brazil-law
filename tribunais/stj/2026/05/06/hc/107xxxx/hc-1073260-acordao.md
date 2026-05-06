@@ -1,0 +1,57 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEXTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 30/04/2026 a 06/05/2026, por unanimidade, denegar o habeas corpus, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Rogerio Schietti Cruz, Carlos Pires Brandão e Og Fernandes votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Carlos Pires Brandão.
+EMENTA
+DIREITO PROCESSUAL PENAL. DIREITO PENAL. HABEAS CORPUS. INCÊNDIO E INVASÃO DE DOMICÍLIO. PRISÃO PREVENTIVA. FUNDAMENTAÇÃO IDÔNEA. GRAVIDADE CONCRETA DAS CONDUTAS. MODUS OPERANDI. EXCESSO DE PRAZO NA REALIZAÇÃO DO EXAME DE INSANIDADE MENTAL. AUSÊNCIA DE ATO PROCRASTINATÓRIO POR PARTE DAS AUTORIDADES PÚBLICAS. IMPULSIONAMENTO DO PROCESSO DE FORMA REGULAR. CONSTRANGIMENTO ILEGAL INEXISTENTE. PRECEDENTES.
+Ordem denegada.
+RELATÓRIO
+Trata-se de habeas corpus impetrado em nome de PAULO HENRIQUE BARBOZA, preso preventivamente e acusado pela prática de incêndio e invasão de domicílio (Processo n. 0015328-92.2024.8.16.0038, da Vara Criminal de Fazenda Rio Grande - fls. 39/41).
+A impetrante aponta como autoridade o TRIBUNAL DE JUSTIÇA DO ESTADO DO PARANÁ, que, em 6/2/2026, conheceu e concedeu parcialmente o Habeas Corpus n. 0002821-48.2026.8.16.0000 para determinar avaliação médica por profissional da rede pública e, se necessário, disponibilização de medicação, mantendo a prisão preventiva (fls. 11/22).
+Com efeito, busca a impetrante a revogação da prisão cautelar imposta pelo Juízo singular, ao argumento de constrangimento ilegal em razão da ausência de fundamentação idônea para a manutenção da prisão preventiva, bem como do excesso de prazo na realização do exame de insanidade mental, instaurado em 11/3/2025 e agendado para 24/2/2026.
+Afirma perda da finalidade cautelar, ausência de risco atual à ordem pública e supervalorização da gravidade abstrata do delito, destacando primariedade, endereço para afastamento do convívio familiar conflituoso, emprego formal e interesse em tratamento.
+Requer a revogação da segregação preventiva ou aplicação de medidas cautelares diversas.
+O pedido liminar foi por mim indeferido em 13/2/2026 (fls. 69/70).
+Após as informações (fls. 76/81), o Ministério Público Federal, em seu parecer, opinou pelo não conhecimento do habeas corpus ou denegação da ordem (fls. 83/92).
+É o relatório.
+EMENTA
+DIREITO PROCESSUAL PENAL. DIREITO PENAL. HABEAS CORPUS. INCÊNDIO E INVASÃO DE DOMICÍLIO. PRISÃO PREVENTIVA. FUNDAMENTAÇÃO IDÔNEA. GRAVIDADE CONCRETA DAS CONDUTAS. MODUS OPERANDI. EXCESSO DE PRAZO NA REALIZAÇÃO DO EXAME DE INSANIDADE MENTAL. AUSÊNCIA DE ATO PROCRASTINATÓRIO POR PARTE DAS AUTORIDADES PÚBLICAS. IMPULSIONAMENTO DO PROCESSO DE FORMA REGULAR. CONSTRANGIMENTO ILEGAL INEXISTENTE. PRECEDENTES.
+Ordem denegada.
+VOTO
+Diz a jurisprudência do Superior Tribunal de Justiça que toda prisão imposta ou mantida antes do trânsito em julgado de sentença penal condenatória, por ser medida de índole excepcional, deve vir sempre baseada em fundamentação concreta, isto é, em elementos vinculados à realidade.
+Inexiste, na espécie, o alegado constrangimento ilegal. As instâncias ordinárias decidiram na linha da jurisprudência do Superior Tribunal de Justiça. Não há falar em revogação da prisão preventiva imposta ao paciente.
+No caso, o Magistrado singular, ao decretar a custódia cautelar do paciente, assim se manifestou (fl. 40 - grifo nosso):
+ ..
+Os pressupostos da prisão preventiva dividem-se na exigência em pressuposto probatório (prova da materialidade do crime e de indícios suficientes da autoria, reunidos sob a rubrica do fumus comissi delicti) e pressuposto cautelar, consistente no perigo de liberdade. Este é consubstanciado no risco provocado pela manutenção da liberdade do sujeito passivo da persecução penal, na medida em que pode restar comprometida a garantia da ordem pública ou econômica, a conveniência da instrução criminal ou a aplicação da lei penal.
+Quanto ao primeiro, a equipe policial foi acionada por Bruno, que relatou que seu tio Paulo teve um surto psicótico, e arrombou a residência de sua prima a sra. Allana e ateou fogo no interior da residência. Informou que seu tio começou a ter um comportamento estranho e quebrou alguns objetos na casa de sua vó e, quando foi impedido pelo sr. Bruno, este se dirigiu até a casa de Allana, sua sobrinha, que fica no mesmo terreno, quebrou a porta e ateou fogo.
+Allana informou à equipe que é perseguida há muito tempo por Paulo, que já a assediou sexualmente diversas vezes, tendo comportamento obsessivo por ela.
+Entendo que o requisito está demonstrado pelos depoimentos colhidos e pela foto acostada aos autos.
+Passo a avaliar o perigo de liberdade.
+Configurada a gravidade em concreto do aparente delito, apta assim, para a decretação da prisão preventiva para garantia de ordem pública.
+Vê-se que se trata de crime de incêndio e invasão de domicílio que ocasionou a destruição da residência de Allana, jovem que sofre de perseguição por parte do custodiado há bastante tempo. Seu depoimento informa acerca da absoluta insegurança pública na colocação em liberdade do custodiado, que além da conduta extremamente violenta perpetrada, possui histórico de obsessão contra a sobrinha, que vive no mesmo terreno dele.
+Ressalto que a monitoração eletrônica, nos moldes existentes no país, não impede a aproximação entre as partes e posterior continuação do crime, uma vez que não há acionamento das forças de segurança de forma imediata quando violado o perímetro.
+Portanto, a colocação em liberdade do custodiado representaria a absoluta vulneração da segurança da vítima, o que não é admissível.
+Destaque-se, por oportuno, que as demais medidas cautelares diversas da prisão, elencadas no artigo 319 do Código de Processo Penal, não se mostram adequadas ou suficientes ao acautelamento do meio social e à preservação da ordem pública, já que não tem como impedir a reiteração delitiva.
+O acórdão impugnado manteve a segregação, entendendo-a corretamente motivada, nestes termos (fls. 15/21 - grifo nosso):
+ ..
+Ao sanear o feito, o Juízo determinou a instauração de incidente de insanidade mental, nos termos do art. 149 do Código de Processo Penal, designou a realização da audiência de instrução e julgamento e manteve a prisão preventiva do acusado, como fundamento a garantia da ordem pública, na conveniência da instrução criminal e na aplicação da lei penal (mov. 71.1 AO).
+Em incidente apartado, fora determinada, junto ao IML, a designação de perícia médica para atestar a sanidade mental do paciente (mov. 16.1, nº 0002638-94.2025.8.16.0038).
+O exame de insanidade mental foi agendado para dia 24 de fevereiro de 2026 (mov. 24.1, nº 0002638-94.2025.8.16.0038), tendo o juízo posteriormente oficiado ao IML requerendo a antecipação da perícia (mov. 111.1, AO).
+Com efeito, conforme descrição dos atos processuais, não se constata desídia dolosa por parte da autoridade apontada como coatora, sendo certo que o feito tem recebido o devido impulso, estando pendente a elaboração de laudo pericial essencial para a verificação da sanidade do paciente.
+Não se mostra razoável, portanto, no caso concreto, acolher a alegação de excesso de prazo, mormente porque não demonstrado descaso injustificado do Juízo de origem ou paralisação indevida do feito, especialmente quando determinada a realização do exame, nos termos do art. 150, §1º, do Código de Processo Penal.
+ ..
+No mais, não há comprovação efetiva do comprometimento da higidez mental do paciente, existindo apenas dúvida razoável, que autorizou o incidente de insanidade, pautado em elementos indiciários dos autos, que serão atestados após a conclusão da perícia médica.
+Nesse contexto, não é possível constatar que a medida cautelar mais adequada seria a internação provisória ou a concessão de liberdade mediante acompanhamento terapêutico ou a tratamento psiquiátrico no CAPS, como pretende a impetrante.
+ ..
+Quanto à aventada desproporcionalidade da segregação, ressalto que a prisão cautelar (seja prisão provisória ou preventiva) não fere o princípio da presunção da inocência, visto que se baseia em indícios de autoria e prova da materialidade, ou seja, não necessitam de prova cabal da autoria delitiva, a qual só será realizada durante o curso do processo criminal.
+Ausente, portanto, indícios de que haja excesso de prazo decorrente de desídia do Juízo singular, bem como existindo fundamentação suficiente para manutenção do decreto preventivo, não há que se falar em concessão de liberdade provisória ou aplicação de medidas cautelares diversas da prisão porque incompatíveis entre si.
+Como se vê, o periculum libertatis do paciente foi evidenciado pelas instâncias ordinárias.
+Observa-se, da análise dos trechos transcritos, que a constrição cautelar está alicerçada em elementos vinculados à realidade, ante as referências às circunstâncias fáticas justificadoras, com destaque, principalmente, ao modus operandi. Tudo a revelar e a justificar a manutenção da medida extrema.
+Com efeito, o Superior Tribunal de Justiça, de forma reiterada, registra entendimento no sentido de que a gravidade concreta da conduta, reveladora do potencial elevado grau de periculosidade do agente e consubstanciada na alta reprovabilidade do modus operandi empregado na empreitada delitiva, é fundamento idôneo a lastrear a prisão preventiva, com o intuito de preservar a ordem pública (AgRg no RHC n. 171.820/PR, Ministra Laurita Vaz, Sexta Turma, DJe 20/4/2023). A propósito: AgRg no HC n. 940.170/SP, Ministra Daniela Teixeira, Quinta Turma, DJe 30/10/2024; e AgRg no RHC n. 192.072/BA, Ministro Rogerio Schietti Cruz, Sexta Turma, DJe 22/8/2024.
+Já em relação ao alegado excesso de prazo, em homenagem ao princípio da razoabilidade, é admissível certa variação, de acordo com as peculiaridades de cada caso, de modo que o constrangimento deve ser reconhecido como ilegal somente quando o retardo ou a morosidade sejam injustificados e possam ser atribuídos ao Poder Judiciário. Precedentes (AgRg no HC n. 786.537/PE, Ministra Daniela Teixeira, Quinta Turma, DJe 8/3/2024).
+Nesse sentido, a prisão cautelar não possui prazo determinado por lei, devendo sua manutenção obedecer a critérios fático-processuais de cada caso, não se aplicando um critério matemático para reconhecimento de ilegalidade por excesso de prazo (AgRg no RHC n. 204.509/BA, Ministro Og Fernandes, Sexta Turma, DJEN 18/2/2025).
+Na espécie, não há situação incompatível com o princípio da razoável duração do processo. Não há notícia de ato procrastinatório por parte das autoridades públicas. Não está demonstrada a desídia estatal. Além disso, o Magistrado singular noticiou que o exame pericial do paciente foi agendado para o dia 24/2/2026 (fl. 78).
+Nesse contexto, tenho que não ficou demonstrada a existência de ilegalidade a justificar a concessão da ordem neste momento.
+Não  é  outra  a  opinião  do  Ministério  Público  Federal,  a  qual  também  adoto  como  razão  de  decidir  (fls.  83/92).
+Por  fim,  eventuais  condições  pessoais  favoráveis  do paciente  não  têm  o  condão  de,  por  si  sós,  garantir  a  revogação  da  prisão  preventiva.  Há  nos  autos  elementos  hábeis  a  recomendar  a  manutenção  da  custódia  preventiva,  não  se  mostrando  suficientes  as  medidas  previstas  no  art.  319  do  Código  de  Processo  Penal.
+Ante o exposto, em consonância com o parecer ministerial e precedentes, denego a ordem.
