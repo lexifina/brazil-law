@@ -1,0 +1,21 @@
+DECISÃO
+Trata-se de embargos de divergência interpostos por ANA MARIA GOMES SILVA ARRUDA contra o acórdão da Segunda Turma assim ementado (fl. 583):
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DEVER DA PARTE DE, AO INGRESSAR COM O AGRAVO DO ART. 1.042 DO CPC, IMPUGNAR TODOS OS FUNDAMENTOS DA DECISÃO DE INADMISSIBILIDADE DO RECURSO ESPECIAL. EXIGÊNCIA CUJO DESCUMPRIMENTO ACARRETA O NÃO CONHECIMENTO DO AGRAVO. RATIFICAÇÃO DA DECISÃO DA PRESIDÊNCIA DO SUPERIOR TRIBUNAL DE JUSTIÇA. AGRAVO INTERNO DESPROVIDO.
+1. Em atenção ao princípio da dialeticidade recursal, as razões do agravo devem infirmar todos os fundamentos da decisão de inadmissibilidade do recurso especial proferida pelo Tribunal de origem, sob pena de não conhecimento do reclamo por esta Corte Superior, nos termos do art. 932, III, do CPC.
+2. Correto o entendimento da Presidência do Superior Tribunal de Justiça de não conhecer do agravo em recurso especial, tendo em vista que realmente não houve efetiva impugnação de todos os fundamentos da decisão que inadmitiu o recurso especial.
+3. Agravo interno desprovido.
+Aduz a embargante que há divergência com acórdão paradigma da Corte Especial (EREsp n. 1.934.994/SP) relativamente à tese de que a ausência de impugnação de todos os fundamentos autônomos de decisão monocrática não impede o conhecimento do agravo interno, acarretando apenas a preclusão da matéria não impugnada.
+Requer o conhecimento e provimento do presente recurso com a consequente reforma da decisão embargada, de modo a acompanhar o entendimento firmado na decisão paradigma.
+É o relatório. Decido.
+Os embargos não reúnem condições de processamento, porquanto não há similitude entre os arestos confrontados.
+A tese indicada como divergente no acórdão embargado afirma a necessidade de impugnação específica de todos os fundamentos da decisão de inadmissibilidade do recurso especial proferida pelo Tribunal de origem, sob pena de não conhecimento do agravo do art. 1.042 do CPC, com incidência do art. 932, III, do CPC e da Súmula n. 182 do STJ.
+O próprio voto embargado registra, em várias passagens, a exigência de combate efetivo à aplicação da Súmula n. 7 do STJ e a insuficiência de alegações genéricas. Nesse quadro, o acórdão embargado trata de agravo em recurso especial do qual não se conheceu por ausência de impugnação de fundamento suficiente e específico (Súmula n. 7 do STJ) da decisão negativa de admissibilidade na origem.
+Já o acórdão paradigma versa sobre a aplicação da Súmula n. 182 do STJ no âmbito de agravo interno interposto contra decisão monocrática do relator no STJ, afirmando que a ausência de impugnação de todos os fundamentos autônomos acarreta apenas a preclusão da matéria não impugnada, não impedindo o conhecimento do agravo interno.
+Verifica-se que os arestos confrontados analisaram contextos fáticos e processuais distintos e cercados de peculiaridades próprias: de um lado, decisão sobre agravo em recurso especial contra deliberação unitária e incindível de inadmissibilidade proferida pelo Tribunal de origem; de outro, decisão sobre agravo interno contra decisão monocrática do relator no STJ estruturada em capítulos autônomos.
+A Corte Especial, no paradigma invocado, delimita a tese ao agravo interno contra decisão monocrática com fundamentos autônomos, sem afastar a exigência - reiterada no acórdão embargado - de impugnação integral dos fundamentos da decisão única de inadmissibilidade na origem, nos termos dos arts. 932, III, do CPC e 253, parágrafo único, I, do RISTJ, cujo teor foi expressamente invocado no voto embargado.
+Para que se viabilizem os embargos de divergência, é necessária a demonstração da similitude das circunstâncias fáticas em face das quais se deu o julgamento e de soluções jurídicas diversas.
+No caso, inexiste identidade entre a natureza das decisões confrontadas e o objeto dos respectivos recursos, o que afasta o cotejo útil.
+Ante o exposto, com fundamento no art. 266-C do RISTJ, indefiro liminarmente os embargos de divergência.
+Nos termos do § 11 do art. 85 do CPC, majoro, em 10% sobre o valor já arbitrado nas instâncias de origem, os honorários advocatícios em desfavor da parte ora recorrente, observados, se aplicáveis, os limites percentuais previstos no § 2º do referido artigo e ressalvada eventual concessão de gratuidade de justiça.
+Publique-se. Intimem-se.
+EMENTA
