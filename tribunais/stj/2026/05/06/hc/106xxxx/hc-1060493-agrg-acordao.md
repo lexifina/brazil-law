@@ -1,0 +1,75 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUINTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 30/04/2026 a 06/05/2026, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Messod Azulay Neto, Maria Marluce Caldas, Reynaldo Soares da Fonseca e Ribeiro Dantas votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Reynaldo Soares da Fonseca.
+EMENTA
+Direito processual penal. Agravo regimental. ReTIFICAÇÃO DE CÁLCULO. PROGRESSÃO DE REGIME. Habeas corpus concomitante ao recurso próprio. Princípio da unirrecorribilidade. Agravo regimental desprovido.
+I. Caso em exame
+1. Agravo regimental interposto contra decisão que não conheceu habeas corpus impetrado contra acórdão do Tribunal de Justiça do Estado de São Paulo, que denegou ordem em habeas corpus relacionado à retificação do cálculo para progressão de regime do paciente.
+2. Fato relevante. O Juízo da Vara de Execução Penal, verificando erro material, determinou a retificação do cálculo para progressão de regime para a fração de 50%. A defesa alegou que a retificação do cálculo para fração mais gravosa quebraria a segurança jurídica e violação do princípio da individualização da pena.
+3. As decisões anteriores. O Tribunal de origem entendeu que o habeas corpus não era a via adequada para análise da questão, a qual seria apreciada em agravo de execução já interposto pela defesa. A decisão monocrática não conheceu o habeas corpus, fundamentando a impossibilidade de se determinar a análise da matéria por aquela Corte Superior diante do princípio da unirrecorribilidade.
+II. Questão em discussão
+4. A questão em discussão consiste em saber se é possível conhecer de habeas corpus impetrado concomitantemente ao recurso próprio, considerando o princípio da unirrecorribilidade.
+III. Razões de decidir
+5. A jurisprudência consolidada do Superior Tribunal de Justiça não admite a tramitação concomitante de habeas corpus e recurso próprio contra o mesmo ato judicial, sob pena de subversão do sistema recursal e violação ao princípio da unirrecorribilidade.
+6. A existência de agravo de execução penal em andamento afasta a tese de negativa de prestação jurisdicional e inviabiliza que esta Corte determine o conhecimento do habeas corpus impetrado perante o Tribunal Estadual.
+IV. Dispositivo e tese
+7. Resultado do Julgamento: Agravo regimental desprovido.
+Tese de julgamento:
+1. É inviável o conhecimento de habeas corpus impetrado concomitantemente ao recurso próprio, sob pena de subversão do sistema recursal e violação ao princípio da unirrecorribilidade.
+Dispositivos relevantes citados: CPP, art. 654, § 2º.
+Jurisprudência relevante citada: STJ, AgRg no HC 733.563/RS, Rel. Min. Rogério Schietti Cruz, Sexta Turma, julgado em 10.05.2022; STJ, AgRg no HC 702.446/SC, Rel. Min. Laurita Vaz, Sexta Turma, julgado em 15.03.2022; STJ, AgRg no HC 823.337/SP, Rel. Min. Laurita Vaz, Sexta Turma, julgado em 14.08.2023.
+RELATÓRIO
+Trata-se de agravo regimental interposto por MARCELO SIQUEIRA, contra decisão que não conheceu do habeas corpus impetrado em seu favor.
+No presente writ, o agravante sustenta que o habeas corpus não seria sucedâneo recursal, mas sim instrumento destinado a sanar negativa de jurisdição, porque o Tribunal de origem teria se limitado a afirmar inadequação da via eleita sem apreciar a legalidade do ato constritivo.
+Assevera inexistir violação ao princípio da unirrecorribilidade, porquanto o agravo em execução versa sobre o cálculo da pena, enquanto o habeas corpus combate a ausência de apreciação judicial da ilegalidade, tratando-se de objetos distintos.
+Argui que o habeas corpus não é prematuro, dado que o constrangimento ilegal é atual e diário na execução penal, não se submetendo à espera recursal.
+Defende que não há supressão de instância, pois se busca apenas determinar que o Tribunal de origem julgue o mérito do writ, restaurando a jurisdição.
+Reitera constrangimento ilegal manifesto decorrente da retificação do cálculo de progressão para fração de 50%, com alteração retroativa da data-base, o que agravou indevidamente a execução e configurou excesso de execução.
+Requer, assim, o provimento do recurso, a fim de que seja concedida a ordem de habeas corpus.
+É o breve relatório.
+EMENTA
+Direito processual penal. Agravo regimental. ReTIFICAÇÃO DE CÁLCULO. PROGRESSÃO DE REGIME. Habeas corpus concomitante ao recurso próprio. Princípio da unirrecorribilidade. Agravo regimental desprovido.
+I. Caso em exame
+1. Agravo regimental interposto contra decisão que não conheceu habeas corpus impetrado contra acórdão do Tribunal de Justiça do Estado de São Paulo, que denegou ordem em habeas corpus relacionado à retificação do cálculo para progressão de regime do paciente.
+2. Fato relevante. O Juízo da Vara de Execução Penal, verificando erro material, determinou a retificação do cálculo para progressão de regime para a fração de 50%. A defesa alegou que a retificação do cálculo para fração mais gravosa quebraria a segurança jurídica e violação do princípio da individualização da pena.
+3. As decisões anteriores. O Tribunal de origem entendeu que o habeas corpus não era a via adequada para análise da questão, a qual seria apreciada em agravo de execução já interposto pela defesa. A decisão monocrática não conheceu o habeas corpus, fundamentando a impossibilidade de se determinar a análise da matéria por aquela Corte Superior diante do princípio da unirrecorribilidade.
+II. Questão em discussão
+4. A questão em discussão consiste em saber se é possível conhecer de habeas corpus impetrado concomitantemente ao recurso próprio, considerando o princípio da unirrecorribilidade.
+III. Razões de decidir
+5. A jurisprudência consolidada do Superior Tribunal de Justiça não admite a tramitação concomitante de habeas corpus e recurso próprio contra o mesmo ato judicial, sob pena de subversão do sistema recursal e violação ao princípio da unirrecorribilidade.
+6. A existência de agravo de execução penal em andamento afasta a tese de negativa de prestação jurisdicional e inviabiliza que esta Corte determine o conhecimento do habeas corpus impetrado perante o Tribunal Estadual.
+IV. Dispositivo e tese
+7. Resultado do Julgamento: Agravo regimental desprovido.
+Tese de julgamento:
+1. É inviável o conhecimento de habeas corpus impetrado concomitantemente ao recurso próprio, sob pena de subversão do sistema recursal e violação ao princípio da unirrecorribilidade.
+Dispositivos relevantes citados: CPP, art. 654, § 2º.
+Jurisprudência relevante citada: STJ, AgRg no HC 733.563/RS, Rel. Min. Rogério Schietti Cruz, Sexta Turma, julgado em 10.05.2022; STJ, AgRg no HC 702.446/SC, Rel. Min. Laurita Vaz, Sexta Turma, julgado em 15.03.2022; STJ, AgRg no HC 823.337/SP, Rel. Min. Laurita Vaz, Sexta Turma, julgado em 14.08.2023.
+VOTO
+O presente agravo regimental não merece provimento, em que pesem os argumentos apresentados pela agravante, devendo a decisão ser mantida por seus próprios fundamentos.
+Conforme afirmado no decisum agravado, esta Corte Superior não admite habeas corpus substitutivo de recurso próprio, porém ressalta a possibilidade de concessão da ordem, de ofício, se existir flagrante ilegalidade na liberdade de locomoção da paciente, o que não é o caso dos autos.
+Consoante outrora consignado, não há como se acolher a pretensão do mandamus, no sentido de que se determine que a Corte Estadual analise o mérito do writ originário, porquanto não há que se falar em negativa de prestação jurisdicional tendo em vista que as questões ora delineadas serão sim amplamente analisadas, mas na via própria, qual seja, nos autos do Agravo em Execução n. 0021865- 57.2025.8.26.0502 interposto pela defesa contra a mesma decisão do Juízo de origem, o qual se encontra pendente de julgamento.
+Ademais, verifica-se que o Tribunal de origem não se manifestou sobre a ilegalidade da regressão de regime do paciente, pois entendeu que o habeas corpus não seria a via adequada para a análise da questão, a qual deveria ser alegada em agravo de execução, ainda pendente de apreciação.
+Tal entendimento se encontra em consonância com a jurisprudência desta Corte Superior, no sentido de ser inviável o conhecimento de habeas corpus impetrado concomitantemente com o recurso próprio, sob pena de subversão do sistema recursal e de violação ao princípio da unirrecorribilidade das decisões judiciais.
+Nesse sentido:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. INTERPOSIÇÃO DE RECURSO ESPECIAL CONTRA O MESMO ACÓRDÃO ORA IMPUGNADO. POSSIBILIDADE DE QUE A MATÉRIA ORA VENTILADA SEJA ANALISADA POR ESTA CORTE NA VIA RECURSAL INTERPOSTA NA CAUSA PRINCIPAL. VIOLAÇÃO DO PRINCÍPIO DA UNIRRECORRIBILIDADE. DESCABIMENTO DE CONCESSÃO DE ORDEM DE HABEAS CORPUS EX OFFICIO. PEDIDO NÃO CONHECIDO. AGRAVO REGIMENTAL DESPROVIDO.
+1. A jurisprudência deste Sodalício não admite a tramitação concomitante de recursos e habeas corpus manejados contra o mesmo ato, sob pena de violação do princípio da unirrecorribilidade. Precedentes.
+2. As vias recursais - nelas incluídas o recurso especial (a via de impugnação cabível no caso) - não são incompatíveis com o manejo de pedidos que demandam apreciação urgente. O Código de Processo Civil, aliás, em seu art. 1.029, § 5.º, inciso III, prevê o remédio jurídico para a referida hipótese, ao possibilitar a atribuição de efeito suspensivo ao recurso, ainda na origem, por meio de decisão proferida pelo Presidente ou Vice-Presidente do Tribunal recorrido.
+3. No caso, nem sequer está demonstrada a existência de violação concreta e direta à liberdade de locomoção do Paciente, ora Agravante, notadamente, porque lhe foi concedido o direito de recorrer em liberdade. Ademais, diante da interposição de recurso na causa principal, ao tempo da impetração, nem seria possível descartar o pronunciamento desta Corte, na via adequada, sobre as matérias ora suscitadas.
+4. Diante desse cenário fático-processual, "qualquer pronunciamento imediato desta Corte Superior quanto ao pleito vindicado pelo impetrante seria precoce, além de implicar a subversão da essência do remédio heroico e o alargamento inconstitucional de sua competência para julgamento de habeas corpus" (AgRg no HC 733.56 3/RS, relator Ministro ROGERIO SCHIETTI CRUZ, Sexta Turma, julgado em 10/05/2022, DJe 16/05/2022).
+5. Embora o art. 654, § 2.º, do Código de Processo Penal preveja a possibilidade de concessão de habeas corpus, de ofício, " tal providência não se presta como meio para que a Defesa obtenha pronunciamento judicial sobre o mérito de pedido deduzido em via de impugnação que não ultrapassou os requisitos de admissibilidade" (AgRg no HC n. 702.446/SC, relatora Ministra LAURITA VAZ, Sexta Turma, julgado em 15/03/2022, DJe 22/03/2022).
+6. Agravo regimental desprovido.
+(AgRg no HC n. 842.200/SP, relator Ministro Teodoro Silva Santos, Sexta Turma, julgado em 26/2/2024, DJe de 5/3/2024.)
+PENAL E PROCESSO PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. 1. IMPETRAÇÃO SIMULTÂNEA À INTERPOSIÇÃO DE ARESP. TEMAS ALBERGADOS PELO RECURSO PRÓPRIO. MERA REITERAÇÃO. IMPOSSIBILIDADE DE CONHECIMENTO DO WRIT. 2. SUBVERSÃO DO SISTEMA RECURSAL. VIOLAÇÃO DO PRINCÍPIO DA UNIRRECORRIBILIDADE. 3. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO.
+1. A defesa interpôs anteriormente perante esta Corte Superior o Agravo em Recurso Especial n. 2.424.401/DF, pelo mesmo causídico, em benefício do ora paciente, impugnando o mesmo acórdão, formulando-se o mesmo pedido, com fundamento na mesma causa de pedir. Em 3/10/2023, o agravo foi conhecido para negar provimento ao recurso especial. - Constata-se, assim, que o presente mandamus é mera reiteração do recurso próprio já interposto e examinado, motivo pelo qual não é possível conhecer da impetração. De fato, é "assente nesta eg. Corte que "Não se conhece de habeas corpus que objetiva mera reiteração de pedido analisado em recurso anteriormente interposto" (AgRg no HC n. 403.778/CE, Sexta Turma, Rel. Min. Rogerio Schietti Cruz, DJe de 10/8/2017)". (AgRg no HC n. 678.732/SP, relator Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), Quinta Turma, julgado em 5/10/2021, DJe de 8/10/2021.)
+2. A utilização simultânea do habeas corpus e do recurso apropriado revela manifesta subversão do sistema recursal e a violação ao princípio da unirrecorribilidade das decisões judiciais, o que, igualmente, impede o conhecimento do presente habeas corpus. Com efeito, "a jurisprudência desta Corte não admite a tramitação concomitante de recursos e habeas corpus manejados contra o mesmo ato, sob pena de violação do princípio da unirrecorribilidade". (AgRg no HC n. 823.337/SP, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 14/8/2023, DJe de 21/8/2023.)
+3. Agravo Regimental a que se nega provimento.
+(AgRg no HC n. 864.456/DF, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 11/12/2023, DJe de 19/12/2023.)
+AGRAVO REGIMENTAL NO HABEAS CORPUS. AJUIZAMENTO DO WRIT SIMULTÂNEO À INTERPOSIÇÃO DE RECURSO ESPECIAL NA ORIGEM. PRINCÍPIO DA UNIRRECORRIBILIDADE. ESTRATÉGIA PROCESSUAL. OMISSÃO NÃO DEMONSTRADA. SUPRESSÃO DE INSTÂNCIA. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. " o  ajuizamento simultâneo do writ com interposição de recurso próprio contra o mesmo ato judicial, tal como no caso dos autos, trata-se de indevida subversão do sistema recursal e de violação do princípio da unirrecorribilidade. Cabe à parte optar pelo caminho que lhe seja mais favorável, arcando com as consequências de sua escolha" (AgRg no HC n. 589.923/SP, Rel. Ministro Sebastião Reis Júnior, 6ª T., DJe 1/4/2022).
+2. A defesa alega que não houve pronunciamento pela instância anterior de nova prova trazida aos autos quando da interposição do recurso de apelação. No entanto, tal suposta omissão pela Corte estadual não foi devidamente comprovada neste writ, uma vez que não foi juntada cópia das razões do apelo para verificação do que foi pleiteado pela defesa, tampouco de eventuais embargos de declaração impugnando o acórdão recorrido neste ponto.
+3. O que é possível inferir do presente mandamus - instruído pela própria defesa - é que a tese de ilegalidade por falta de apreciação da nova prova não foi analisada pela Corte de origem por não foi alegada no recurso. Tampouco se sabe se foi interposto embargos de declaração, recurso próprio para sanar eventuais omissões, contradições e obscuridades de decisões judiciais.
+4. Assim, do que consta nos autos, a tese não foi objeto de análise pelo Tribunal estadual, o que impede sua apreciação por esta Corte Superior, sob pena de supressão indevida de instância. 5. Agravo regimental não provido.
+(AgRg no HC n. 720.421/SP, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 11/10/2022, DJe de 3/11/2022.)
+Diante destas premissas, renovo o teor da decisão monocrática, porque em perfeita harmonia com o entendimento entabulado por este Superior Tribunal de Justiça, consoante se vê da vasta jurisprudência tomada de aporte neste julgamento.
+Ante o exposto, voto pelo desprovimento do agravo regimental.
