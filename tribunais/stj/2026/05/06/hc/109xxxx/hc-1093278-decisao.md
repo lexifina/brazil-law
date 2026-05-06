@@ -1,0 +1,23 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em nome de DOUGLAS DIAS, em que a defesa aponta como autoridade coatora o Tribunal de Justiça do Estado do Rio Grande do Sul, que deu provimento ao agravo ministerial para cassar a prisão domiciliar com monitoramento eletrônico e determinar o recolhimento do paciente ao regime semiaberto (Agravo de Execução Penal n. 8002935-81.2025.8.21.0019/RS).
+Em síntese, o impetrante alega constrangimento ilegal decorrente da cassação da prisão domiciliar monitorada e da determinação de recolhimento a estabelecimento dito compatível com o semiaberto, sem aferição da adequação material das vagas, impondo cumprimento de pena em regime mais gravoso, em violação à Súmula Vinculante n. 56.
+Sustenta que, quando o Juízo da Execução, que possui a visão imediata e concreta da realidade carcerária local, reconhece a inexistência prática de vagas adequadas e concede o monitoramento eletrônico, está cumprindo a finalidade última do Tema 993 e da Súmula Vinculante n.º 56, que objetivam solucionar a situação ilegal do apenado de forma efetiva (fl. 7).
+Pede o restabelecimento da decisão do Juízo da execução (PEC n. n. 8000081-43.2023.8.21.0033).
+É o relatório.
+A concessão de ordem de habeas corpus demanda demonstração da ilegalidade, ônus que recai sobre a parte impetrante, a quem cumpre instruir o feito com a prova pré-constituída de suas alegações.
+In casu, verifico, de plano, a inviabilidade do presente writ.
+O Tribunal a quo deu provimento ao agravo ministerial afirmando que (fls. 52/53):
+ ..  embora exista evidente omissão estatal sobre a questão em exame, tal fato não autoriza, por si só, que o juízo da execução defira a inclusão no sistema eletrônico sem fundamentar e sem examinar o caso concreto.  ..
+Nessa esteira o Juízo das Execuções Penais deverá, com base na realidade do sistema prisional de sua localidade e do perfil dos apenados, estabelecer as medidas adequadas.
+Ocorre, entretanto, que a decisão proferida pelo Juízo da Execução fora genérica, limitando-se a abordar a falta de vaga, sem apontar elementos concretos que indiquem a ausência de vaga em estabelecimento prisional adequado e a impossibilidade de antecipação da progressão a regime mais brando a apenados que estão presos em estabelecimentos do regime semiaberto.
+Ademais, o Ministério Público desincumbiu-se do ônus de indicar locais adequados com vagas, demonstrando que a Penitenciária Estadual do Jacuí é local apto a receber apenados recém ingressantes no regime semiaberto "que, segundo dados atualizados da Polícia Penal, tem capacidade total de 108 pessoas e conta, no presente momento, com apenas 69 presos"  ..
+Nos termos do entendimento da Terceira Seção desta Casa, adotado no julgamento do REsp n. 1.710.674/MG sob o rito dos recursos repetitivos, da relatoria do Ministro Reynaldo Soares da Fonseca, não é possível a concessão da prisão domiciliar como primeira opção à falta de vagas em estabelecimento penal próprio do regime semiaberto, sem prévia observância dos parâmetros traçados no RE n. 641.320/RS.
+Na oportunidade, foi estabelecida a seguinte tese (Tema 993 - grifo nosso):
+A inexistência de estabelecimento penal adequado ao regime prisional determinado para o cumprimento da pena não autoriza a concessão imediata do benefício da prisão domiciliar, porquanto, nos termos da Súmula Vinculante n. 56, é imprescindível que a adoção de tal medida seja precedida das providências estabelecidas no julgamento do RE n. 641.320/RS, quais sejam: (i) saída antecipada de outro sentenciado no regime com falta de vagas, abrindo-se, assim, vagas para os reeducandos que acabaram de progredir; ii) a liberdade eletronicamente monitorada ao sentenciado que sai antecipadamente ou é posto em prisão domiciliar por falta de vagas; e (iii) cumprimento de penas restritivas de direitos e/ou estudo aos sentenciados em regime aberto.
+No caso, o Tribunal local destacou que o Juízo da execução não analisou a antecipação de outros detentos, asseverando ainda, que há vaga no regime adequado, não havendo, assim, direito à saída antecipada.
+Dessa forma, estando o acórdão do Tribunal de Justiça local em conformidade com a jurisprudência do Superior Tribunal de Justiça, não há falar em constrangimento ou flagrante ilegalidade.
+Ante o exposto, indefiro liminarmente a petição inicial.
+Publique-se.
+EMENTA
+HABEAS CORPUS. EXECUÇÃO PENAL. REGIME SEMIABERTO. PRISÃO DOMICILIAR. IMPOSSIBILIDADE. REQUISITOS LEGAIS NÃO ATENDIDOS. RE N. 641.320/RS. TEMA REPETITIVO 993. ALEGADA AUSÊNCIA DE VAGAS AFASTADA PELO TRIBUNAL A QUO. INEVIDÊNCIA DE CONSTRANGIMENTO ILEGAL.
+Petição inicial indeferida liminarmente.
