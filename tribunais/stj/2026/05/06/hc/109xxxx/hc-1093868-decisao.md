@@ -1,0 +1,49 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em favor de VINICIUS STANCOV PEREIRA contra acórdão do Tribunal de Justiça do Estado de São Paulo (APC n. 0000291-92.2017.8.26.0296).
+Extrai-se dos autos que o paciente foi condenado pela prática do crime de roubo majorado, previsto no art. 157, § 2º, incisos I e II, do Código Penal, à pena de 5 anos e 6 meses de reclusão, em regime inicial fechado, além de 13 dias-multa, no mínimo legal. Foi indeferido o direito de recorrer em liberdade. Irresignada, a defesa interpôs apelação criminal, à qual o Tribunal a quo deu parcial provimento, nos termos do acórdão assim ementado (e-STJ fl. 21):
+ROUBO MAJORADO. Inexistência de dúvida quanto à autoria e materialidade. Afastamento da majorante do emprego de arma, tratando-se de faca, em atenção à Lei nº 13.654/2018, já declarada constitucional pelo C. Órgão Especial. Readequação das frações na dosimetria da reprimenda para espelhar a modificação do édito condenatório, sem alteração, todavia, da sanção ao final imposta a VINICIUS, e com redução da reprimenda de NELSON. Apelos parcialmente providos.
+No presente writ, a defesa alega que o reconhecimento fotográfico realizado na fase policial é prova ilícita, por violação direta aos arts. 5º, incisos LIV, LV e LVI, da Constituição Federal, bem como ao art. 226 do CPP, enfatizando tratar-se de reconhecimento sugestionado mediante fotografia do paciente com ferimento craniano obtida em abordagem posterior ao fato. Aduz que, retirada referida prova, não há elementos suficientes para a condenação.
+Destaca que há, na hipótese, vício constitucional de ilicitude probatória, ensejando inadmissibilidade probatória que não preclui - devendo ser reconhecida de ofício - não se convalida e é total, não podendo ser usada a prova nem para corroborar, sequer de forma subsidiária, outras provas do processo.
+Requer, liminarmente, a suspensão imediata da execução da pena com expedição de alvará de soltura, ou, subsidiariamente, a transferência a regime prisional mais brando, bem como a revogação do mandado de prisão, se ainda não cumprido.
+No mérito, pleiteia a concessão da ordem para (e-STJ fls. 16/17):
+b.1) DECLARAR a inadmissibilidade constitucional do reconhecimento fotográfico realizado na fase policial, por violação direta e simultânea do art. 5º, incisos LIV, LV e LVI, da Constituição Federal c/c art. 226 do Código de Processo Penal, com a consequente exclusão integral da referida prova dos autos, inclusive em sua influência derivada sobre os depoimentos das vítimas em audiência (teoria dos frutos da árvore envenenada  art. 157, §1º, do CPP);
+b.2) ANULAR o acórdão da 1ª Câmara de Direito Criminal do TJSP na parte relativa ao Paciente Vinicius Stancov Pereira e, excluída a prova ilícita e reconhecida a manifesta insuficiência probatória remanescente, ABSOLVER o Paciente com fundamento no art. 386, inciso VII, do Código de Processo Penal; ou, subsidiariamente:
+b.3) Determinar a realização de novo julgamento, com vedação expressa à utilização, direta ou indireta, do reconhecimento fotográfico inconstitucional ou de quaisquer elementos probatórios que dele derivem, incluídas as "confirmações" prestadas em juízo sob influência da memória previamente contaminada pelo ato irregular; ou, ainda subsidiariamente:
+b.4) Reconhecer, diante da insuficiência das provas remanescentes relativamente à extensão da participação do Paciente, a participação de menor importância (art. 29, §1º, do Código Penal), com a redução da pena de um sexto a um terço e a fixação de regime prisional menos gravoso compatível com o quantum resultante;
+c) Requisitar informações ao Tribunal de Justiça do Estado de São Paulo e ao Juízo de 1ª instância da Comarca de Jaguariúna/SP, nos termos do art.
+662 do Código de Processo Penal, com juntada das cópias do acórdão atacado e da sentença de 1ª instância;
+d) Notificar o Ministério Público Federal para que se manifeste nos autos, na qualidade de custos legis;
+e) Determinar a juntada de cópia do Mandado de Prisão nº 0000291- 92.2017.8.26.0296.01.0001-27, já acostado a estes autos como documento de instrução.
+É o relatório. Decido.
+De início, destaco que o presente mandamus não merece prosseguimento.
+Como é de conhecimento, o processo é um encadeamento de atos para frente, não sendo possível, dessarte, que a parte ingresse com pedidos perante instâncias já exauridas, sob pena de verdadeiro tumulto processual e subversão dos instrumentos recursais pátrios, ainda que sob o argumento de que a matéria deve ser analisada sob novo prisma.
+Nessa linha de intelecção, A marcha processual avança rumo à conclusão da prestação jurisdicional, sendo inconciliável com o processo penal moderno a prática de atos processuais que repristinem fases já superadas (HC n. 503.665/SC, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 16/5/2019, DJe de 21/5/2019).
+Ademais, ressalta-se que: a jurisprudência do Superior Tribunal de Justiça - STJ, em respeito à segurança jurídica e a lealdade processual, tem se orientado no sentido de que mesmo as nulidades denominadas absolutas, ou qualquer outra falha ocorrida no acórdão impugnado, também devem ser arguidas em momento oportuno, sujeitando-se à preclusão temporal (AgRg no HC n. 690.070/PR, relator Ministro JOEL ILAN PACIORNIK, Quinta Turma, julgado em 19/10/2021, DJe de 25/10/2021).
+In casu, o Tribunal local julgou a apelação atacada neste writ há mais de 6 (seis) anos, de modo que o conhecimento deste habeas corpus encontra-se obstado em decorrência da preclusão.
+Noutras palavras, inobstante os argumentos defensivos, em deferência à segurança jurídica e lealdade processual, a jurisprudência do Superior Tribunal de Justiça tem se orientado no sentido de que as nulidades, ainda quando denominadas absolutas, devem ser arguidas em momento oportuno, bem como qualquer outra falha ocorrida no julgamento, sob pena de preclusão temporal.
+Ao ensejo:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. ART. 33, CAPUT, DA LEI N. 11.343/06 (DUAS VEZES EM RELAÇÃO AOS FATOS 1 E 3 DE TRÁFICO); ART. 1º, § 1º, I e II e § 4º, DA LEI N. 9.613/1998 E ART. 2º, § 3º, DA LEI N. 12.850/13 . WRIT IMPETRADO APÓS QUASE 5 (CINCO) ANOS DO JULGAMENTO DA APELAÇÃO CRIMINAL. PRECLUSÃO TEMPORAL. PRECEDENTES DO STJ. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO.
+1. A invocação tardia pela impetrante de nulidades do acórdão de revisão criminal (proferido há quase 5 anos), a fim de reverter resultado que lhe é desfavorável, demonstra a utilização da chamada nulidade de algibeira, que é rechaçada pelo Superior Tribunal de Justiça.
+2. Ainda que assim não fosse, ressalta-se que: a jurisprudência do Superior Tribunal de Justiça - STJ, em respeito à segurança jurídica e a lealdade processual, tem se orientado no sentido de que mesmo as nulidades denominadas absolutas, ou qualquer outra falha ocorrida no acórdão impugnado, também devem ser arguidas em momento oportuno, sujeitando-se à preclusão temporal (AgRg no HC n. 690.070/PR, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 19/10/2021, DJe de 25/10/2021).
+3. Nessa linha de intelecção, uma vez que, in casu, o Tribunal de origem julgou a apelação criminal objurgada neste writ em 13/7/2021 e somente no dia 11/2/2026 foi impetrado o presente habeas corpus, o seu conhecimento encontra-se obstado em decorrência da preclusão.
+Precedentes do STJ.
+4. Agravo regimental a que se nega provimento.
+(AgRg no HC n. 1.072.831/CE, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 3/3/2026, DJEN de 10/3/2026.) - negritei.
+PROCESSO PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. WRIT SUBSTITUTIVO DE REVISÃO CRIMINAL. FURTO QUALIFICADO. WRIT IMPETRADO APÓS MAIS DE 4 ANOS DO JULGAMENTO DA REVISÃO CRIMINAL. PRECLUSÃO TEMPORAL. PRECEDENTES. AGRAVO REGIMENTAL IMPROVIDO.
+1. Não se conhece habeas corpus manejado em substituição à revisão criminal.
+2. Em deferência à segurança jurídica e lealdade processual, a jurisprudência do Superior Tribunal de Justiça tem se orientado no sentido de que qualquer falha ocorrida no julgamento deve ser arguida em momento oportuno, sob pena de preclusão temporal.
+3. No caso, o Tribunal de origem julgou a revisão criminal recorrida neste writ em 14/3/2021 (fls. 6-12) e somente no dia 22/8/2025 (fl. 1) foi impetrado o presente habeas corpus. Logo, o seu conhecimento encontra-se obstado em decorrência da preclusão.
+4. Agravo improvido.
+(AgRg no HC n. 1.029.453/SP, relator Ministro Carlos Pires Brandão, Sexta Turma, julgado em 17/12/2025, DJEN de 23/12/2025.) - negritei.
+AGRAVO REGIMENTAL NO HABEAS CORPUS. ABSOLVIÇÃO. PRECLUSÃO. APELAÇÃO JULGADA HÁ MAIS DE 3 ANOS. PRECEDENTES. AGRAVO REGIMENTAL DESPROVIDO.
+1. No caso, a apelação e a revisão criminal foram julgadas, respectivamente, em 23/9/2015 e 14/11/2018. Assim, o decurso do tempo impede a análise da matéria em habeas corpus, em razão da preclusão do direito postulado, conforme a jurisprudência pacífica desta Corte. Precedentes.
+2. Agravo regimental desprovido.
+(AgRg no HC n. 760.005/RS, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 19/12/2022, DJe de 22/12/2022.) - negritei.
+HABEAS CORPUS. HOMICÍDIO DUPLAMENTE QUALIFICADO. PENA. DOSIMETRIA. REDIMENSIONAMENTO. NULIDADE. ACÓRDÃO TRANSITADO EM JULGADO. PRECLUSÃO. REVISÃO CRIMINAL. WRIT. INSTRUÇÃO. DEFICIÊNCIA. SENTENÇA. AUSÊNCIA. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. Consoante a pacífica jurisprudência desta Corte Superior e também do STF, o manejo do habeas corpus muito tempo após a edição do ato atacado demanda o reconhecimento de que fulminada pela preclusão o direito postulado (termo cujo uso guardo pessoal ressalva).
+ ..
+4. Agravo regimental não provido.
+(AgRg no HC n. 447.420/SP, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 25/9/2018, DJe de 11/10/2018.) - negritei.
+Ante o exposto, indefiro liminarmente o presente habeas corpus.
+Intimem-se.
+EMENTA
