@@ -1,0 +1,13 @@
+DECISÃO
+THALLES TEODORO DE SOUZA, condenado por furto qualificado, interpõe recurso em habeas corpus contra acórdão proferido pelo Tribunal de Justiça do Estado de Minas Gerais, que denegou a ordem impetrada naquela Corte, na qual pretendia a revogação da preventiva, objetivo este reiterado liminarmente nesta oportunidade.
+O caso permite o julgamento antecipado, visto que se adequa a pacífica orientação desta Corte em casos análogos, todos contrários à pretensão defensiva.
+De fato, infere-se dos autos que o insurgente foi condenado por furto qualificado, cuja constrição foi mantida pela sentença condenatória porque presentes os pressupostos da preventiva. Segundo o Magistrado de primeiro grau, em suas infromações, além de maus antecedentes, ele seria reincidente e haveria praticado o delito durante o cumprimento de pena (fl. 84).
+Em outras palavras: "o acusado é useiro e vezeiro na prática delitva espalhando medo e insegurança na comunidade, tendo inclusive, cometido o crime em cumprimento de pena em regime mais brando" (fl. 119, grifei).
+O acórdão, no particular, destacou o seguinte: "extrai-se, da Certidão de Antecedentes Criminias do paciente (ordem 11), que ele é reincidente, visto que ostenta condenação pela prática anterior delito disposto no art. 157 do CP" (fl. 122, destaquei).
+Deveras, conforme tenho assinalado em diversas oportunidades, a prisão preventiva possui natureza excepcional, sempre sujeita a reavaliação, de modo que a decisão judicial que a impõe ou a mantém, para compatibilizar-se com a presunção de não culpabilidade, deve ser suficientemente motivada, com indicação concreta das razões fáticas e jurídicas que justificam a cautela.
+No caso, observa-se que foi realçada a existência de registros criminais por outro delito de mesma natureza - o insurgente, inclusive, é reincidente -, situação que denota a probabilidade de reiteração delitiva. Assim, ficou devidamente explicitada fundamentação suficiente, na linha da orientação desta Corte, para a manutenção da prisão e que afasta a possibilidade de concessão de medidas cautelares alternativas.
+Nessa direção, é firme a orientação deste Superior Tribunal, de que "a preservação da ordem pública justifica a imposição da prisão preventiva quando o agente ostentar maus antecedentes, reincidência, atos infracionais pretéritos, inquéritos ou mesmo ações penais em curso, porquanto tais circunstâncias denotam sua contumácia delitiva e, por via de consequência, sua periculosidade" (RHC n. 108.629/MG, relator Ministro Antonio Saldanha Palheiro, DJe 11/6/2019).
+Diante do exposto, com fundamento nos arts. 34, XX c/c 246, ambos do RISTJ, nego provimento in limine ao recurso em habeas corpus.
+Dê-se ciência ao Ministério Público Federal.
+Publique-se e intimem-se.
+EMENTA
