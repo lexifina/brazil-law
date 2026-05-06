@@ -1,0 +1,33 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEXTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 30/04/2026 a 06/05/2026, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Rogerio Schietti Cruz, Carlos Pires Brandão e Og Fernandes votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Carlos Pires Brandão.
+EMENTA
+DIREITO PROCESSUAL PENAL. AGRAVO REGIMENTAL EM HABEAS CORPUS. EXAURIMENTO DA INSTÂNCIA ORDINÁRIA. FALHA EM SISTEMA ELETRÔNICO. AGRAVO INTERNO NÃO INTERPOSTO. INDISPONIBILIDADE EM DATA QUE NÃO SE CONFUNDE COM O INTERREGNO PARA A INTERPOSIÇÃO DO RECURSO. MEIO ALTERNATIVO. PROTOCOLO POR E-MAIL. AUSÊNCIA. DESÍDIA DA DEFESA. DECISÃO MANTIDA.
+1. O habeas corpus foi corretamente indeferido liminarmente, pois a decisão impugnada foi proferida de forma singular por Desembargadora relatora, sem que houvesse deliberação colegiada no Tribunal de origem, o que configura ausência de exaurimento da instância ordinária e impede o conhecimento do writ pelo Superior Tribunal de Justiça, nos termos do art. 21, XIII, c, c/c o art. 210 do RISTJ.
+2. A alegação de falha no sistema eletrônico, que teria impedido a interposição de agravo interno, não foi levada ao conhecimento do Tribunal de origem para a adoção de medidas voltadas à regularização processual e à viabilização do recurso, o que afasta a caracterização de impedimento absoluto ao exaurimento da instância.
+3. Mesmo na hipótese de indisponibilidade do sistema eletrônico durante o prazo recursal, incumbia à parte agravante utilizar o meio alternativo previsto no art. 3º da Portaria conjunta pertinente, protocolizando o agravo interno por e-mail, o que não foi feito, revelando desídia na condução do processo.
+4. A inércia da defesa, diante dos mecanismos procedimentais disponíveis para assegurar a interposição do agravo interno, impede o reconhecimento de cerceamento de defesa e mantém a ausência de exaurimento da instância ordinária, o que obsta a apreciação do mérito do habeas corpus por esta Corte Superior.
+5. Agravo regimental improvido.
+RELATÓRIO
+Trata-se de agravo regimental interposto por JOSE PEDRO DE OLIVEIRA FILHO contra decisão monocrática que indeferiu liminarmente o habeas corpus (fls. 20/22).
+Nas razões, a parte agravante alega que a defesa técnica está materialmente impedida de acessar o processo de origem, apesar de habilitação regular, pois o acesso ao conteúdo integral permanece bloqueado - o que impossibilita conhecer os fundamentos da decisão, instruir recurso e exercer ampla defesa -, configurando falha sistêmica imputável ao Estado-juiz, e não omissão defensiva (fls. 24/25).
+Argumenta que houve indisponibilidade oficial do Sistema PJe entre 2 e 5 de janeiro de 2026, reforçando a inviabilidade técnica de interposição de agravo interno em prazo hábil, circunstância que atrai o princípio ad impossibilia nemo tenetur (fl. 25).
+Sustenta que deve ser registrada a impossibilidade material de exaurimento da instância ordinária, com reconsideração do não conhecimento do writ por cerceamento de defesa, ou, alternativamente, a consignação de que a ausência de agravo interno não decorreu de omissão defensiva, preservando-se a reapreciação após liberação do acesso (fl. 26).
+Decisão recebendo o pedido de reconsideração como agravo regimental (fl. 35).
+É o relatório.
+EMENTA
+DIREITO PROCESSUAL PENAL. AGRAVO REGIMENTAL EM HABEAS CORPUS. EXAURIMENTO DA INSTÂNCIA ORDINÁRIA. FALHA EM SISTEMA ELETRÔNICO. AGRAVO INTERNO NÃO INTERPOSTO. INDISPONIBILIDADE EM DATA QUE NÃO SE CONFUNDE COM O INTERREGNO PARA A INTERPOSIÇÃO DO RECURSO. MEIO ALTERNATIVO. PROTOCOLO POR E-MAIL. AUSÊNCIA. DESÍDIA DA DEFESA. DECISÃO MANTIDA.
+1. O habeas corpus foi corretamente indeferido liminarmente, pois a decisão impugnada foi proferida de forma singular por Desembargadora relatora, sem que houvesse deliberação colegiada no Tribunal de origem, o que configura ausência de exaurimento da instância ordinária e impede o conhecimento do writ pelo Superior Tribunal de Justiça, nos termos do art. 21, XIII, c, c/c o art. 210 do RISTJ.
+2. A alegação de falha no sistema eletrônico, que teria impedido a interposição de agravo interno, não foi levada ao conhecimento do Tribunal de origem para a adoção de medidas voltadas à regularização processual e à viabilização do recurso, o que afasta a caracterização de impedimento absoluto ao exaurimento da instância.
+3. Mesmo na hipótese de indisponibilidade do sistema eletrônico durante o prazo recursal, incumbia à parte agravante utilizar o meio alternativo previsto no art. 3º da Portaria conjunta pertinente, protocolizando o agravo interno por e-mail, o que não foi feito, revelando desídia na condução do processo.
+4. A inércia da defesa, diante dos mecanismos procedimentais disponíveis para assegurar a interposição do agravo interno, impede o reconhecimento de cerceamento de defesa e mantém a ausência de exaurimento da instância ordinária, o que obsta a apreciação do mérito do habeas corpus por esta Corte Superior.
+5. Agravo regimental improvido.
+VOTO
+O agravo regimental não prospera, porquanto o agravante não conseguiu infirmar os fundamentos adotados na decisão de fls. 20/22.
+Conforme consignado na decisão agravada, o habeas corpus foi indeferido liminarmente porque a decisão impugnada foi proferida singularmente por Desembargadora relatora na origem, inexistindo deliberação colegiada sobre a matéria e ausente o exaurimento da instância ordinária, por falta de interposição de agravo interno/regimental.
+Foi afirmada a impossibilidade de conhecimento do writ por esta Corte ante a competência restrita quando não há exaurimento da jurisdição na instância antecedente, aplicando o art. 21, XIII, c, c/c o art. 210, ambos do RISTJ.
+Veja-se que, muito embora a defesa alegue falha no sistema, o que teria impedido a interposição de agravo interno, a alegada falha deveria ter sido informada ao Tribunal de origem, a fim de que fossem tomadas as medidas necessárias à suposta regularização processual e, diante disso, fosse interposto o agravo interno.
+Seja como for, deveria a parte agravante ter, caso indisponível o sistema no período do prazo para interposição de agravo, protocolizado por e-mail o recurso, nos termos do que dispõe o art. 3º da Portaria conjunta (fl. 28).
+Não o fazendo, a ausência de conduta por parte da defesa caracteriza desídia na condução do processo, o que impediu a análise colegiada da matéria e, por via de consequência, obsta a sua apreciação por esta Corte.
+Confirmo, portanto, a decisão agravada por seus próprios fundamentos e nego provimento ao agravo regimental.
