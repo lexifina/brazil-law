@@ -1,0 +1,91 @@
+DECISÃO
+Trata-se de recurso em habeas corpus interposto por VALDEIR GRANZOTO, contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO GRANDE DO SUL no julgamento do Habeas Corpus Criminal n. 5049130-53.2026.8.21.7000.
+Extrai-se dos autos que o recorrente foi preso em flagrante em 29/11/2025, posteriormente convertido em prisão preventiva, e denunciado pela suposta prática do crime tipificado no art. 16 da Lei n. 10.826/03.
+Irresignada, a defesa impetrou habeas corpus perante o Tribunal de origem, que denegou a ordem nos termos do acórdão assim ementado (fl. 31):
+"DIREITO PROCESSUAL PENAL. HABEAS CORPUS. PORTE ILEGAL DE ARMA DE FOGO DE USO RESTRITO. PRISÃO PREVENTIVA. REQUISITOS PRESENTES. GARANTIA DA ORDEM PÚBLICA. PERICULOSIDADE DO AGENTE. ORDEM DENEGADA.
+I. CASO EM EXAME:
+1 . Habeas corpus impetrado em favor do paciente, preso preventivamente pela suposta prática do crime de porte ilegal de arma de fogo de uso restrito, previsto no art. 16 da Lei n.º 10.826/03, alegando a defesa que a decisão que manteve a segregação cautelar seria manifestamente ilegal e desproporcional.
+II. QUESTÃO EM DISCUSSÃO:
+1. Há três questões em discussão: (i) a legalidade da prisão preventiva decretada em desfavor do paciente; (ii) a possibilidade de substituição da prisão por medidas cautelares diversas; (iii) a existência de excesso de prazo na formação da culpa.
+III. RAZÕES DE DECIDIR:
+1. A prisão preventiva preenche o requisito legal do art. 313, I, do CPP, pois o delito imputado é punido com pena máxima superior a 04 anos de reclusão.
+2. A gravidade concreta da conduta justi ca a segregação cautelar, uma vez que o paciente foi abordado portando pistola calibre 9mm municiada com 16 cartuchos intactos, em ginásio de esportes durante evento comunitário.
+3. A periculosidade social do agente e o risco de reiteração delitiva estão evidenciados pelo fato de que, embora tecnicamente primário, o paciente responde a diversas ações penais por crimes graves, incluindo homicídio qualificado, posse irregular de arma de fogo e associação criminosa.
+4. A jurisprudência pací ca admite a valoração de ações penais em curso para fundamentar a prisão preventiva, sem que isso con gure violação ao princípio da presunção de inocência, por se tratar de medida cautelar e não punitiva.
+5. Não há excesso de prazo na formação da culpa, na medida em que o processo tramita regularmente, com a prisão decretada em 01/12/2025, denúncia oferecida e recebida em 09/01/2026, resposta à acusação apresentada em 26/01/2026 e audiência de instrução e julgamento designada para 03/06/2026.
+6. As condições pessoais favoráveis, como primariedade técnica, não são su cientes, por si sós, para garantir a revogação da prisão preventiva quando presentes elementos que recomendam a manutenção da custódia cautelar.
+IV. DISPOSITIVO E TESE:
+1. Ordem denegada.
+Tese de julgamento: 1. A prisão preventiva para garantia da ordem pública é justi cada quando demonstrada a gravidade concreta da conduta e a periculosidade do agente, evidenciada por seu envolvimento em outras ações penais, ainda que não haja condenação transitada em julgado."
+Nas razões do presente recurso, a defesa sustenta a ausência dos requisitos do art. 312 do Código de Processo Penal - CPP para a decretação e manutenção da prisão preventiva, destacando a inexistência de elementos concretos de que a liberdade do recorrente ocasionaria risco à ordem pública, à instrução criminal ou à aplicação da lei penal, com fundamento na gravidade em abstrato do delito.
+Argui a inidoneidade da utilização de inquéritos e ações penais em curso para valorar negativamente a conduta social e a personalidade do recorrente, afirmando que tais elementos não comprovam dedicação à atividade criminosa nem autorizam a prisão preventiva.
+Defende a prevalência das condições pessoais favoráveis do recorrente, com destaque à primariedade, residência fixa e trabalho lícito, como fatores suficientes para afastar óbice à aplicação da lei penal em liberdade e para a adoção de medidas cautelares diversas.
+Aduz a necessidade de observância ao art. 282, § 6º, do CPP, enfatizando a preferência por medidas menos gravosas e a ausência de fundamentação concreta para indeferir a substituição da prisão por cautelares do art. 319 do CPP.
+Requer o provimento do recurso para que seja revogada a prisão preventiva, ainda que mediante a aplicação das medidas cautelares diversas.
+O Ministério Público Federal - MPF opinou pelo desprovimento do recurso às fls. 60/62.
+É o relatório.
+Decido.
+Conforme relatado, busca-se, na presente impetração, a revogação da custódia cautelar imposta ao recorrente.
+Verifica-se que o Juízo singular converteu a prisão em flagrante do recorrente em preventiva sob os seguintes fundamentos:
+"Da análise acima, a situação dos autos encontra amparo nas hipóteses descritas nos artigos 312 e 313, inciso I, ambos do Código de Processo Penal, uma vez que o crime de posse ou porte ilegal de arma de fogo de uso restrito possui pena máxima superior a 04 anos de reclusão.
+Há prova da existência do crime e indícios suficientes de autoria, considerando que VALDEIR GRANZOTO foi preso em flagrante portando, em sua cintura, uma pistola marca Taurus, modelo G3, nº ADK813104, municiada com 16 (dezesseis) munições intactas.
+Embora o flagrado seja tecnicamente primário, responde a ações penais pelos delitos de posse irregular de arma de fogo de uso permitido (processo n.º 5000774-95.2024.8.21.0113); homicídio qualificado (processo n.º 5004275-57.2024.8.21.0113); posse irregular de arma de fogo de uso permitido, receptação e associação criminosa (processo n.º 5002145-60.2025.8.21.0113), além de ser investigado pelo delito de Promoção, constituição, financiamento ou integração de Organização Criminosa (processo n.º 5063638- 88.2022.8.21.0001), demonstrando escalada criminosa.
+Ademais, as circunstâncias de sua prisão são aptas a demonstrar periculosidade acentuada, sobretudo por estar portando uma pistola em via pública, em evento realizado em favor da comunidade de Gramado dos Loureiros." (fl. 29)
+O Tribunal de origem, por sua vez manteve a segregação consignando o seguinte:
+"Os autos fornecem elementos aptos a indicar a materialidade delitiva e os indícios de autoria em desfavor do paciente, especialmente a partir do auto de prisão em flagrante que narra a apreensão da arma de fogo em sua posse direta, em circunstâncias que denotam elevado risco social. A verificação exauriente acerca da responsabilização criminal do acusado não é matéria a ser discutida na via estreita do habeas corpus, não sendo este o instrumento adequado ao revolvimento fático-probatório, o que deverá ser alcançado no julgamento de mérito da ação penal, após a devida instrução processual sob o crivo do contraditório.
+A medida extrema imposta ao paciente preencheu os requisitos legais exigidos para tanto, conforme o disposto no art. 313, I, do CPP, uma vez que o delito imputado é doloso e punido com pena privativa de liberdade máxima superior a 04 anos. Ademais, a segregação se justifica pela gravidade concreta dos fatos e pela manifesta periculosidade social do agente, que, conforme apontado, responde a ações penais, incluindo homicídio qualificado e organização criminosa. Tais elementos encontram fundamento na necessidade de garantia da ordem pública e de assegurar a aplicação da lei penal, com o objetivo de acautelar o meio social e, fundamentalmente, evitar a reiteração delitiva, o que, por consequência, inviabiliza a concessão de medidas cautelares diversas da prisão, que se mostram insuficientes para o caso concreto.
+As demais teses defensivas apresentadas na presente impetração foram integralmente refutadas na decisão liminar, a qual adoto como razões de decidir. A alegação de que a prisão se funda na gravidade abstrata do delito não prospera, pois a decisão judicial se ampara em elementos concretos, notadamente as circunstâncias da apreensão - o porte de arma de fogo de uso restrito, municiada, no interior de ginásio de esportes durante evento comunitário - e o histórico de envolvimento do paciente com a criminalidade.
+Outrossim, a utilização de inquéritos e ações penais em curso para fundamentar a necessidade da prisão preventiva, como forma de aferir a periculosidade do agente e o risco de reiteração delitiva, não representa violação ao princípio da presunção de inocência, mas sim análise legítima dos requisitos da custódia cautelar, de natureza processual e não punitiva, conforme pacífica orientação jurisprudencial." (fl. 30)
+O Superior Tribunal de Justiça - STJ firmou posicionamento segundo o qual, considerando a natureza excepcional da prisão preventiva, somente se verifica a possibilidade da sua imposição e manutenção quando evidenciado, de forma fundamentada em dados concretos, o preenchimento dos pressupostos e requisitos previstos no art. 312 do CPP.
+Convém, ainda, ressaltar que, considerando os princípios da presunção da inocência e a excepcionalidade da prisão antecipada, a custódia cautelar somente deve persistir em casos em que não for possível a aplicação de medida cautelar diversa, de que cuida o art. 319 do CPP.
+No caso dos autos, verifico que a prisão preventiva foi adequadamente motivada, tendo sido demonstradas pelas instâncias ordinárias, com base em elementos extraídos dos autos, a gravidade concreta da conduta e a periculosidade do agente, evidenciadas a partir das circunstâncias do delito, na medida em que o recorrente portava uma arma de fogo de uso restrito, municiada, durante um evento público realizado no ginásio de esportes da localidade e empreendeu fuga ao avistar policiais militares, o que evidencia o risco ao meio social.
+Ressalta-se, ainda, o risco de reiteração delitiva, pois o acusado responde outras ações penais pela prática dos delitos de posse irregular de arma de fogo, homicídio qualificado e associação criminosa.
+Nesse contexto, forçoso concluir que a prisão processual está devidamente fundamentada na garantia da ordem pública e no risco de reiteração delitiva, não havendo falar, portanto, em existência de evidente flagrante ilegalidade capaz de justificar a sua revogação.
+A propósito, vejam-se os seguintes precedentes (grifos nossos):
+DIREITO PROCESSUAL PENAL. AGRAVO REGIMENTAL. MANUTENÇÃO DE DECISÃO MONOCRÁTICA. PRISÃO PREVENTIVA. GARANTIA DA ORDEM PÚBLICA. RECURSO IMPROVIDO.
+I. CASO EM EXAME
+1. Agravo regimental interposto contra decisão monocrática que conheceu em parte de recurso ordinário e, nessa extensão, negou-lhe provimento.
+2. A parte agravante alegou: (i) violação ao princípio da colegialidade; (ii) inadequação da análise quanto à prisão preventiva; (iii) fragilidade probatória decorrente da retratação de testemunha; (iv) violação aos princípios da presunção de inocência e da fundamentação das decisões judiciais; e (v) cabimento de medidas cautelares diversas da prisão.
+II. QUESTÃO EM DISCUSSÃO
+3. Há duas questões em discussão: (i) saber se a decisão monocrática proferida pelo relator, com fundamento no art. 34, XVIII, do Regimento Interno do Superior Tribunal de Justiça, viola o princípio da colegialidade; e (ii) saber se há ilegalidade na manutenção da prisão preventiva do agravante, considerando os argumentos de ausência de fundamentação contemporânea, violação ao princípio da presunção de inocência e fragilidade probatória.
+III. RAZÕES DE DECIDIR
+4. A decisão monocrática proferida pelo relator está amparada no art. 34, inciso XVIII, do Regimento Interno do Superior Tribunal de Justiça, que autoriza o relator a negar seguimento a recurso manifestamente inadmissível, improcedente, prejudicado ou contrário à jurisprudência dominante do Tribunal ou de Tribunal Superior.
+5. Não há violação ao princípio da colegialidade quando o relator decide monocraticamente em consonância com a orientação jurisprudencial consolidada do Tribunal.
+6. A decisão recorrida analisou detidamente os fundamentos da prisão preventiva e concluiu pela presença dos requisitos do art. 312 do Código de Processo Penal, notadamente a garantia da ordem pública, verificada pela gravidade concreta do delito de porte de arma de fogo de uso restrito.
+7. A contemporaneidade exigida pelo art. 315, § 1º, do Código de Processo Penal refere-se às circunstâncias que demonstram a necessidade da medida cautelar, sendo a sentença condenatória elemento contemporâneo que reforça a necessidade da custódia cautelar.
+8. A prisão preventiva, quando devidamente fundamentada e demonstrada sua necessidade concreta, não configura antecipação de pena, mas medida cautelar destinada a assegurar a regular tramitação do processo e a efetividade da jurisdição penal.
+9. A alegada retratação da testemunha diz respeito ao mérito da condenação e à suficiência probatória, matéria afeta ao recurso de apelação interposto pela defesa, sendo incompatível com a via estreita do habeas corpus.
+10. A substituição da prisão preventiva por medidas cautelares diversas pressupõe a demonstração de que estas sejam suficientes para garantir as finalidades processuais, o que não se verifica no caso em análise, considerando a gravidade concreta do delito e a necessidade de garantia da ordem pública.
+IV. DISPOSITIVO E TESE
+11. Resultado do Julgamento: Agravo regimental improvido.
+Tese de julgamento:
+1. Não há violação ao princípio da colegialidade quando o relator decide monocraticamente em consonância com a orientação jurisprudencial consolidada do Tribunal. 2. A prisão preventiva, devidamente fundamentada e demonstrada sua necessidade concreta, não configura antecipação de pena, mas medida cautelar destinada a assegurar a regular tramitação do processo e a efetividade da jurisdição penal. 3. A substituição da prisão preventiva por medidas cautelares diversas pressupõe a demonstração de que estas sejam
+suficientes para garantir as finalidades processuais. Dispositivos
+relevantes citados:
+RISTJ, art. 34, XVIII; CPP, arts. 312, 315, § 1º, e 319; Lei nº 10.826/2003, art. 16.
+Jurisprudência relevante citada:STJ, AgRg no REsp 1.737.252/SP, Rel. Min. Joel Ilan Paciornik, Quinta Turma; STJ, AgRg no HC 804.533/PE, Rel. Min. Reynaldo Soares da Fonseca, Quinta Turma, DJe 17.03.2023;
+STJ, AgRg no HC 659.003/SP, Rel. Min. Rogerio Schietti Cruz, Sexta Turma, DJe 30.03.2023.
+(AgRg no RHC n. 224.287/RJ, relator Ministro Messod Azulay Neto, Quinta Turma, julgado em 4/3/2026, DJEN de 11/3/2026.)
+AGRAVO REGIMENTAL NO RECURSO EM HABEAS CORPUS. PORTE ILEGAL DE ARMA DE FOGO. PRISÃO PREVENTIVA. FUNDAMENTAÇÃO IDÔNEA. REITERAÇÃO DELITIVA. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. A prisão preventiva é compatível com a presunção de não culpabilidade do acusado desde que não assuma natureza de antecipação da pena e não decorra, automaticamente, do caráter abstrato do crime ou do ato processual praticado. Além disso, a decisão judicial deve apoiar-se em motivos e fundamentos concretos, relativos a fatos novos ou contemporâneos, dos quais se possa extrair o perigo que a liberdade plena do investigado ou réu representa para os meios ou os fins do processo penal.
+2. Na hipótese, a decisão constritiva apontou a presença dos requisitos previstos no art. 312 do Código de Processo Penal e apresentou motivação idônea para decretar a prisão preventiva do acusado, especialmente em razão do risco concreto de reiteração delitiva, evidenciado pela existência de diversos registros criminais por delitos graves.
+3. Agravo regimental não provido.
+(AgRg no RHC n. 221.743/BA, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 29/10/2025, DJEN de 6/11/2025.)
+Ressalto que a presença de condições pessoais favoráveis não impede a decretação da prisão preventiva, devidamente fundamentada, como se observa na hipótese dos autos.
+Ademais, o entendimento deste STJ é no sentido de ser inaplicável medida cautelar alternativa quando as circunstâncias evidenciam que as providências menos gravosas seriam insuficientes para manutenção da ordem pública.
+Nesse sentido (grifos nossos):
+PENAL E PROCESSUAL PENAL. AGRAVO REGIMENTAL NO RECURSO EM HABEAS CORPUS. PORTE ILEGAL DE ARMA DE FOGO DE USO RESTRITO. IMPOSSIBILIDADE DE AFERIÇÃO DE MATERIALIDADE E AUTORIA. INVIABILIDADE DE DILAÇÃO PROBATÓRIA. PRISÃO PREVENTIVA. REITERAÇÃO DELITIVA. GRAVIDADE CONCRETA. APREENSÃO DE ARSENAL. FUNDAMENTAÇÃO IDÔNEA. CONDIÇÕES PESSOAIS IRRELEVANTES. MEDIDAS CAUTELARES INSUFICIENTES. CONTEMPORANEIDADE. SUPRESSÃO DE INSTÂNCIA. AGRAVO REGIMENTAL IMPROVIDO.
+1. A aferição de materialidade e a autoria delitiva demandam análise probatória incompatível com os limites cognitivos do habeas corpus e de seu sucedâneo recursal.
+2. A prisão preventiva pode ser decretada antes do trânsito em julgado da sentença condenatória desde que estejam presentes os requisitos previstos no art. 312 do CPP.
+3. Foram constatados elementos concretos capazes de justificar a privação cautelar da liberdade, notadamente na apreensão de vasto arsenal, incluindo arma de fogo, carregadores de alta capacidade, munições e acessórios táticos, evidenciando a gravidade concreta da conduta.
+4. A existência de antecedentes criminais relevantes e condenações transitadas em julgado demonstra o risco concreto de reiteração delitiva e periculosidade do agente, legitimando a prisão preventiva.
+5. Condições pessoais favoráveis não afastam a prisão preventiva quando presentes seus requisitos legais.
+6. Medidas cautelares diversas da prisão mostram-se inadequadas e insuficientes diante da gravidade concreta e do risco de reiteração criminosa.
+7. O Tribunal de origem não analisou a alegação de ausência de contemporaneidade na valoração dos antecedentes criminais pretéritos, de modo que a apreciação originária da matéria pelo Superior Tribunal de Justiça implicaria indevida supressão de instância.
+8. Agravo regimental improvido.
+(AgRg no RHC n. 231.893/MG, relator Ministro Og Fernandes, Sexta Turma, julgado em 15/4/2026, DJEN de 22/4/2026.)
+Nesse contexto, não verifico a presença de constrangimento ilegal capaz de justificar a revogação da custódia cautelar do recorrente.
+Ante o exposto, com fundamento no art. 34, XX, c/c o art. 202, c/c o art. 246, do Regimento Interno do Superior Tribunal de Justiça, nego provimento ao recurso ordinário em habeas corpus.
+Publique-se.
+Intimem-se.
+EMENTA
