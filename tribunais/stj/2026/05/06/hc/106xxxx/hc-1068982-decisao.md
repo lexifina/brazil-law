@@ -1,0 +1,22 @@
+DECISÃO
+Trata-se de Habeas Corpus com pedido de liminar impetrado em favor de THIAGO CARLOS FELICIO ALENCAR, no qual se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE RONDÔNIA (HC 0814373-43.2025.8.22.0000.
+Consta dos autos a prisão preventiva do paciente, decorrente de suposta prática dos delitos capitulados no artigo 2º, caput, da Lei n. 12.850/2013, no artigo 4º, alínea a, c/c §§ 1º e 2º, I e II, da Lei n. 1.521/1951, por 44 (quarenta e quatro) vezes, e no artigo 158, caput, c/c § 1º, do Código Penal, por 7 (sete) vezes, termos em que denunciado.
+Irresignada, a defesa impetrou habeas corpus perante o Tribunal de origem. Em decisão monocrática, o Desembargador relator não conheceu do writ em razão da reiteração de pedidos anteriormente analisados em outro habeas corpus. A defesa manejou o agravo interno que, à unanimidade, foi desprovido pelo Tribunal a quo, mantida integralmente a decisão que não conheceu do habeas corpus por se tratar de mera reiteração de pedido, em acórdão de fls. 284-288.
+Em suas razões, sustenta a defesa a ocorrência de constrangimento ilegal, porquanto não estariam presentes os requisitos do art. 312 do CPP e a prisão preventiva careceria de fundamentação concreta, com destaque para condições pessoais favoráveis e ausência de risco atual à ordem pública, instrução criminal ou aplicação da lei penal.
+Alega que está ausente a contemporaneidade dos motivos ensejadores da custódia cautelar, pois os fatos imputados teriam ocorrido entre 2020 e 2023, sem notícia de reiteração ou fato novo que justificasse a manutenção da prisão em 2025.
+Argumenta que houve quebra da cadeia de custódia da prova digital, tornando-a ilícita, com requerimento de desentranhamento das provas e das derivadas, por ausência de laudos de extração, hashes de integridade e documentação cronológica de manipulação dos dados.
+Defende a inépcia da denúncia por violação ao art. 41 do CPP, em razão da falta de individualização mínima de 44 condutas de usura, contradições internas e ausência de descrição específica de atos de violência ou grave ameaça para a extorsão.
+Expõe que não há justa causa para a ação penal, por ausência de materialidade e indícios suficientes de autoria, com pedidos de trancamento e rejeição da denúncia com base no art. 395, I e III, do CPP.
+Afirma que os reconhecimentos e depoimentos seriam imprestáveis por indução e perguntas sugestivas, com violação aos parâmetros do art. 226 do CPP.
+Alega atipicidade das condutas quanto às transações financeiras apontadas, por valores ínfimos e compatíveis com relações lícitas, e ausência de demonstração de violência ou grave ameaça para caracterização da extorsão.
+Defende a substituição da prisão por medidas cautelares diversas, em razão das condições pessoais do paciente e da ausência de risco atual.
+Requer a revogação da prisão cautelar, ainda que mediante a aplicação de medidas cautelares alternativas não prisionais, a nulidade das provas digitais e o trancamento da ação penal por inépcia da denúncia ou ausência de justa causa, com a rejeição da inicial acusatória. Subsidiariamente, pugna pela absolvição sumária do paciente.
+Pedido de liminar indeferido às fls.1.044-1.046.
+Informações presatadas às fls. 1.052-1.055. Pedido de reconsideração indeferido às fls. 1.067-1.068.
+O Ministério Público Federal em parecer, às fls.1.077-1.081, manifestou pelo "pelo não conhecimento do habeas corpus ou pela denegação da ordem".
+É o relatório. DECIDO.
+Quanto aos argumentos expendidos no presente writ, da leitura do acórdão objurgado verifica-se que tais matérias não foram alvo de deliberação pelo Tribunal de origem em razão "da manifesta reiteração de pedidos anteriormente analisados"- fl. 345 , circunstância que impede qualquer manifestação desta Corte Superior de Justiça sobre os tópicos, sob pena de se configurar a prestação jurisdicional em indevida supressão de instância.
+Sobre o tema, os seguintes precedentes: AgRg no HC n. 865.449/SC, Sexta Turma, Rel. Min. Jesuíno Rissato (Desembargador Convocado do TJDFT), DJe de 26/6/2024; AgRg no HC n. 918.681/SP, Quinta Turma, Rel. Min. Reynaldo Soares da Fonseca, DJe de 21/6/2024; AgRg no HC n. 901.024/G O, Sexta Turma, Rel. Min. Antonio Saldanha Palheiro, DJe de 3/6/2024 e AgRg no HC n. 877.777/PE, Sexta Turma, Rel. Min. Jesuíno Rissato (Desembargador Convocado do TJDFT), DJe de 18/4/2024.
+Ante o exposto, não conheço do habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
