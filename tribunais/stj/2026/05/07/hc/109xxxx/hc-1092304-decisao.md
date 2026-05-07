@@ -1,0 +1,11 @@
+DECISÃO
+Trata-se de habeas corpus ajuizado de próprio punho por MURILO JUNIOR DOS SANTOS, apontando-se constrangimento ilegal decorrente da condenação pela prática de latrocínio com insuficiência de provas e erro na dosimetria decorrente da não aplicação da atenuante da confissão.
+Sucede, no entanto, que o presente feito é manifestamente inadmissível.
+Além de se tratar de writ impetrado com a finalidade de revisar condenação transitada em julgado, o que é inadmissível, inexiste, na espécie, flagrante ilegalidade a ser reparada por meio de habeas corpus de ofício, considerando-se que é imprópria a via do habeas corpus para a análise de teses de insuficiência probatória, negativa de autoria, bem como desclassificação de delitos, em razão da necessidade de incursão no acervo fático-probatório (AgRg no HC n. 819.111/SE, Ministro Jesuíno Rissato (Desembargador convocado do TJDFT), Sexta Turma, DJe 11/4/2024), tanto mais quando indicadas outras provas para além do reconhecimento pessoal tido por viciado; e que a ausência de prévia manifestação das instâncias ordinárias sobre os temas discutidos no mandamus inviabiliza seu conhecimento pelo Superior Tribunal de Justiça, pois admitir a análise direta por esta Corte de eventual ilegalidade não submetida ao crivo do Tribunal de origem denotaria patente desprestígio às instâncias ordinárias e inequívoco intento de desvirtuamento do ordenamento recursal ordinário, o que efetivamente tem se buscado coibir (AgRg no HC n. 1.044.116/SP, Ministro Rogerio Schietti Cruz, Sexta Turma, DJEN de 27/4/2026).
+Pelo exposto, indefiro liminarmente o writ (art. 210 do RISTJ).
+Encaminhe-se cópia da carta (fls. 2/37) à Defensoria Pública do Estado de São Paulo para que adote as providências que entender pertinentes.
+Intime-se a Defensoria Pública desta decisão.
+Publique-se.
+EMENTA
+PENAL E PROCESSUAL PENAL. CARTA DE PRESO. HABEAS CORPUS SUCEDÂNEO DE REVISÃO CRIMINAL. DESCABIMENTO. LATROCÍNIO. ABSOLVIÇÃO OU DESCLASSIFICAÇÃO. NECESSIDADE DE REEXAME FÁTICO-PROBATÓRIO. APLICAÇÃO DA ATENUANTE DA CONFISSÃO. TEMA NÃO DEBATIDO NA ORIGEM. INVIABILIDADE DE SUPRESSÃO DE INSTÂNCIA. AUSÊNCIA DE ILEGALIDADE MANIFESTA.
+Petição inicial indeferida liminarmente.
