@@ -1,0 +1,25 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido de liminar, impe trado em favor de JOSIEL RODRIGUES DOS SANTOS, contra acórdão do Tribunal de Justiça de Tocantins que denegou a ordem no HC n. 0017591-25.2025.8.27.2700/TO.
+Consta dos autos que o paciente foi preso preventivamente pela suposta prática dos delitos previstos nos arts. 171 e 288 do Código Penal, no contexto de investigação que apura a atuação de grupo estruturado voltado à prática reiterada de estelionatos.
+Na origem, a defesa requereu a revogação ou o relaxamento da prisão preventiva, bem como o trancamento do inquérito policial, sob os fundamentos de (i) ausência de justa causa para a persecução penal quanto aos crimes de estelionato, em razão de decadência do direito de representação de algumas vítimas, ausência de representação válida e retratação de outra; (ii) nulidade dos elementos informativos colhidos na investigação, em razão de alegada violação da cadeia de custódia de provas digitais; e (iii) ausência dos requisitos autorizadores da prisão preventiva, diante da alegada insuficiência de fundamentação concreta e da existência de condições pessoais favoráveis.
+O Juízo de primeiro grau indeferiu o pedido, mantendo a custódia cautelar e o prosseguimento das investigações.
+Impetrado habeas corpus perante o Tribunal de Justiça de Tocantins, a ordem foi denegada, ao fundamento de inexistência de ilegalidade evidente, destacando-se a presença de indícios de autoria e materialidade, a gravidade concreta dos fatos investigados, a suposta atuação organizada do grupo e o risco de reiteração delitiva, bem como a inadequação da via eleita para o trancamento do inquérito.
+No presente writ, a defesa reitera, em síntese, as alegações de ausência de justa causa para a persecução penal, especialmente quanto aos crimes de estelionato, ilegalidade dos elementos probatórios por violação da cadeia de custódia e desnecessidade da prisão preventiva, requerendo, liminarmente e no mérito, o relaxamento ou a revogação da custódia, o trancamento parcial do inquérito policial ou, subsidiariamente, a aplicação de medidas cautelares diversas da prisão.
+O pedido liminar foi indeferido (e-STJ, fls. 18-19).
+Informações prestadas (e-STJ, fls. 25-30_.
+O Ministério Público opinou pelo não conhecimento do writ (e-STJ, fls. 43-46).
+É o relatório.
+Decido.
+Esta Corte - HC 535.063, Terceira Seção, Rel. Ministro Sebastião Reis Junior, julgado em 10/6/2020 - e o Supremo Tribunal Federal - AgRg no HC 180.365, Primeira Turma, Rel. Min. Rosa Weber, julgado em 27/3/2020; AgRg no HC 147.210, Segunda Turma, Rel. Min. Edson Fachin, julgado em 30/10/2018 -, pacificaram orientação no sentido de que não cabe habeas corpus substitutivo do recurso legalmente previsto para a hipótese, impondo-se o não conhecimento da impetração, salvo quando constatada a existência de flagrante ilegalidade no ato judicial impugnado.
+No caso, contudo, a impetração apresenta óbice ainda mais imediato: a deficiente instrução do writ.
+Com efeito, a defesa não juntou aos autos a íntegra do acórdão impugnado nem do decreto de prisão preventiva, limitando-se, em essência, à apresentação da ementa do julgado proferido pelo Tribunal de origem.
+Tal circunstância impede a aferição dos fundamentos efetivamente adotados pelas instâncias ordinárias, inviabilizando o controle da alegada ilegalidade, sobretudo porque as teses deduzidas  decadência do direito de representação, retratação de vítima, validade de provas digitais e necessidade da prisão preventiva  dependem de exame concreto da motivação judicial.
+Como reiteradamente decidido por esta Corte, o habeas corpus exige prova pré-constituída do alegado constrangimento ilegal, incumbindo ao impetrante instruir a inicial com os elementos necessários à sua demonstração, o que não se verifica na hipótese.
+Ademais, a própria ementa do acórdão impugnado não indica, de forma clara, o enfrentamento específico de todas as teses ora renovadas, limitando-se a consignar, em termos gerais, a inexistência de ilegalidade evidente e a presença de indícios de autoria e materialidade, bem como a adequação da prisão preventiva aos requisitos legais.
+No mesmo sentido, o parecer ministerial ressalta que determinadas matérias  notadamente a alegada invalidade das provas e das investigações  não foram, a princípio, analisadas pelo Tribunal de origem, o que impede seu exame direto por esta Corte.
+De todo modo, ainda que superado o óbice processual, não se identifica, a partir dos elementos disponíveis, ilegalidade manifesta apta a ensejar a concessão da ordem de ofício.
+Isso porque, conforme se extrai das informações constantes dos autos, a custódia cautelar foi mantida com fundamento na garantia da ordem pública, em razão da gravidade concreta das condutas, da suposta atuação estruturada de grupo voltado à prática reiterada de estelionatos e do risco de reiteração delitiva.
+Tais fundamentos, ao menos neste juízo de cognição sumária, mostram-se idôneos à luz da jurisprudência desta Corte.
+Ante o exposto, não conheço do habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
