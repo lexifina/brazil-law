@@ -1,0 +1,35 @@
+DECISÃO
+Cuida-se de Habeas Corpus impetrado em favor de VILMAR DE SOUZA RAMALHO em que se aponta como ato coator o acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SANTA CATARINA assim ementado:
+APELAÇÃO CRIMINAL. CRIMES DE AMEAÇA (ART. 147 DO CÓDIGO PENAL), PORTE ILEGAL DE ARMA DE FOGO (ART. 14 DA LEI N. 10.826/03) E DISPARO DE ARMA DE FOGO (ART. 15 DA LEI N. 10.826/03). SENTENÇA CONDENATÓRIA. RECURSO DEFENSIVO. ALMEJADO RECONHECIMENTO DO PRINCÍPIO DA CONSUNÇÃO ENTRE OS DELITOS DE PORTE E DISPARO DE ARMA DE FOGO. IMPOSSIBILIDADE. CONSUMAÇÃO DOS CRIMES EM MOMENTOS DISTINTOS. REU QUE FOI ATÉ SUA CASA PEGAR A ARMA DE FOGO E, PORTANDO-A, DESLOCOU-SE ATÉ O LOCAL ONDE EFETUOU OS DISPAROS. POSTERIORMENTE, AINDA PORTANTO O ARTEFATO BÉLICO, VOLTOU PARA SUA RESIDENCIA, ONDE ESCONDEU A ARMA DE FOGO. DESÍGNIOS AUTONOMOS E CONTEXTOS DISTINTOS. IMPOSSIBILIDADE DE ABSORÇÃO.
+"3. O principio da consunção aplica-se quando um crime menos grave é absorvido por um crime mais grave, ocorrendo quando as infrações são praticadas no mesmo contexto fático e com desígnios unitários. Contudo, conforme jurisprudência consolidada, a consunção não se aplica quando os delitos são praticados com desígnios autônomos.
+4. No caso, o agravante portava a arma de fogo por razões independentes do ato de disparo, tendo este ocorrido em contexto diverso e inesperado, durante uma abordagem policial, o que caracteriza a autonomia entre os delitos" (AREsp n. 2.629.375/AL, relatora Ministra Daniela Teixeira, Quinta Turma, julgado em 3/12/2024, DJEN de 26/12/2024).
+DOSIMETRIA. PLEITO DE ALTERAÇÃO DO REGIME INICIAL PARA O ABERTO E SUBSTITUIÇÃO DA PENA PRIVATIVA DE LIBERDADE POR RESTRITIVA DE DIREITOS. INVIABILIDADE. PENA SUPERIOR A QUATRO ANOS. ACUSADO REINCIDENTE EM CRIME DOLOSO E COM CIRCUNSTÂNCIA JUDICIAL NEGATIVA. REQUISITOS OBJETIVOS DO ART. 44 DO CÓDIGO PENAL NÃO PREENCHIDOS. REGIME FECHADO APLICADO CORRETAMENTE. TODAVIA. NECESSIDADE DE ADEQUAÇÃO PARA O REGIME SEMIABERTO NO TOCANTE AO CRIME PUNIDO COM DETENÇÃO, NOS MOLDES DO ART. 33, CAPUT, DO CÓDIGO PENAL.
+RECURSO CONHECIDO E PARCIALMENTE PROVIDO.
+Consta dos autos que o paciente foi condenado à pena de 4 (quatro) anos e 8 (oito) meses de reclusão, em regime inicial fechado, pela prática dos delitos capitulados nos arts. 14 e 15 da Lei n. 10.826/2003, e à pena de 1 (um) mês e 5 (cinco) dias de detenção, em regime inicial semiaberto, pela prática do delito capitulado no art. 147 do Código Penal.
+Em suas razões, sustenta o impetrante a ocorrência de constrangimento ilegal, porquanto defende o reconhecimento do princípio da consunção entre os crimes de porte ilegal de arma de fogo de uso permitido (crime-meio) e disparo de arma de fogo (crime-fim), afirmando que ambos ocorreram no mesmo contexto fático e sem desígnios autônomos, de modo que a dupla condenação implicaria bis in idem e violação ao princípio da correlação.
+Alega que a imposição do regime inicial fechado mostra-se ilegal e desproporcional, pois, uma vez aplicada a consunçã o, a pena de reclusão seria readequada para patamar igual ou inferior a 4 (quatro) anos, autorizando a fixação de regime mais brando à luz do art. 33, § 2º, do Código Penal e da diretriz da Súmula 269 do STJ.
+Argumenta que é cabível a substituição da pena privativa de liberdade por restritivas de direitos, por preencher o requisito objetivo do art. 44 do Código Penal após o redimensionamento da pena e por não se tratar de crime cometido com violência ou grave ameaça à pessoa, afirmando que a reincidência não específica não obsta, por si só, a concessão da benesse à luz do § 3º do referido artigo.
+Requer, liminarmente e no mérito, o reconhecimento da consunção entre os crimes de porte ilegal de arma de fogo de uso permitido e disparo de arma de fogo, com o redimensionamento da pena com a consequente alteração do regime inicial e a substituição da pena privativa de liberdade por restritivas de direitos.
+É o relatório.
+Decido.
+A Terceira Seção do STJ, no julgamento do HC n. 535.063/SP, firmou o entendimento de que não cabe Habeas Corpus substitutivo de recurso próprio, impondo-se o não conhecimento da impetração, salvo quando constatada alguma teratologia no ato judicial impugnado (Rel. Ministro Sebastião Reis Júnior, DJe de 25.8.2020).
+Assim, passo à análise das razões da impetração a fim de verificar se há flagrante ilegalidade que justifique a concessão do writ de ofício.
+Em relação à tese relativa à aplicação do princípio da consunção entre os crimes de porte ilegal de arma de fogo de uso permitido e disparo de arma de fogo, consta do Voto condutor do acórdão impugnado a seguinte fundamentação:
+Na hipótese dos autos, é evidente que os delitos não aconteceram no mesmo contexto fático.
+ ..
+Obviamente que só dispara uma arma de fogo quem esteja a portando, porém a defesa não demonstrou, diante do farto conjunto probatório, o elo de interdependência entre as condutas delituosas.
+Contudo, no caso em análise, verifica-se que o réu pegou sua arma em casa e seguiu portando-a até o local onde efetuou os disparos.
+Após, ainda com o porte da arma de fogo, retornou para sua residência e escondeu o artefato.
+Desta forma, ficou comprovado que o acusado possuía a arma em contexto anterior, sendo evidente que não adquiriu o artefato bélico com o fim de dispará-la sem rumo.
+Logo, é evidente os desígnios autônomos nas condutas imputadas, pois a aquisição do armamento não visou unicamente o disparo de arma de fogo, ou seja, a arma não foi comprada apenas na circunstância do disparo, de modo que há condutas distintas, sem que haja um nexo de dependência entre os crimes.
+ ..
+Portanto, malgrado os argumentos da defesa, é impossível aplicar o princípio da consunção no caso concreto. (fls. 16-20).
+Quanto ao princípio da consunção, a jurisprudência do STJ firmou entendimento no sentido de que não se aplica quando os delitos são praticados em condutas distintas, com desígnios autônomos.
+Nessa linha, tendo o tribunal de origem afirmado que os delitos foram praticados com desígnios autônomos, a reforma do julgado no ponto demandaria o reexame do conjunto fático-probatório, inviável na via estreita do habeas corpus.
+No sentido de ser necessário o reexame da prova para reforma do julgado, vale citar os seguintes julgados: AREsp n. 2.798.592/PR, relator Ministro Ribeiro Dantas, Quinta Turma, DJEN de 7/5/2025; AREsp n. 2.629.375/AL, relatora Ministra Daniela Teixeira, Quinta Turma, DJEN de 26/12/2024; AgRg no AREsp n. 2.105.714/PR, relator Ministro Messod Azulay Neto, Quinta Turma, DJEN de 10/2/2026.
+Por fim, mantida a sanção penal, ficam prejudicados os pedidos de alteração do regime inicial de cumprimento da pena e de substituição da pena privativa de liberdade por restritiva de direitos.
+Conclui-se, assim, que no caso em análise não há manifesta ilegalidade a ensejar a concessão da ordem de ofício.
+Ante o exposto, com fundamento no art. 21-E, IV, c/c o art. 210, ambos do RISTJ, indefiro liminarmente o presente Habeas Corpus.
+Cientifique-se o Ministério Público Federal.
+Publique-se. Intimem-se.
+ EMENTA
