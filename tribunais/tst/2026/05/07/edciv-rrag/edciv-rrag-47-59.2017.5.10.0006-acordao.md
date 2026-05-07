@@ -1,0 +1,406 @@
+Poder Judiciário
+Justiça do Trabalho
+Tribunal Superior do Trabalho
+PROCESSO Nº TST-EDCiv-RRAg - 47-59.2017.5.10.0006
+A C Ó R D Ã O
+5ª Turma
+GMMAR/
+EMBARGOS DE DECLARAÇÃO. INFRAERO. SISTEMA DE
+PROGRESSÃO ESPECIAL FUNCIONAL. INCORPORAÇÃO DE
+70,26% DO VALOR DA GRATIFICAÇÃO DE FUNÇÃO EXERCIDA
+POR 3 ANOS OU MAIS. INÍCIO DO EXERCÍCIO DA FUNÇÃO
+APÓS A REVOGAÇÃO DA NORMA INTERNA INSTITUIDORA DA
+PARCELA. DESPROVIMENTO. 1. Os embargos de declaração têm
+por finalidade provocar a complementação do julgado a fim de
+sanar vícios, com hipóteses taxativamente previstas no art. 897-
+A da CLT e no art. 1.022 do CPC. 2. No caso, o acórdão
+embargado limitou-se a proceder ao reenquadramento jurídico
+dos fatos, à luz da jurisprudência predominante deste Colendo
+Tribunal, tendo em vista que o Regional ao considerar, para
+aquisição do direito à progressão especial, todas as funções
+exercidas pelo autor no período de 01/11/1995 a 29/02/2016, em
+vez daquela postulada, exercida após a revogação da norma,
+decidiu em dissonância com a iterativa notória e atual
+jurisprudência do TST. 3. Assim, não constatados os equívocos
+apontados, inviável a alteração das conclusões do acórdão pela
+estreita via processual adotada. Embargos de declaração
+conhecidos e desprovidos.
+Vistos, relatados e discutidos estes autos de Embargos de Declaração Cível em
+Recurso de Revista com Agravo nº TST-EDCiv-RRAg - 47-59.2017.5.10.0006, em que é Embargante
+ELOIR SAQUETO e é Embargada EMPRESA BRASILEIRA DE INFRA-ESTRUTURA AEROPORTUÁRIA -
+INFRAERO.
+Alegando omissão e erro material, a parte opõe embargos de declaração ao
+acórdão prolatado por esta Eg. Turma.
+É o relatório.
+V O T O
+ADMISSIBILIDADE
+Presentes os requisitos legais de admissibilidade, conheço dos embargos de
+declaração.
+MÉRITO
+Alega o embargante que “o v. acórdão partiu de premissa fática equivocada, se
+afastando e modificando erroneamente as premissas fáticas consignadas no acórdão regional”. Aduz que
+“como delineado na moldura fática o Embargante exerceu função de confiança de forma ininterrupta entre os
+anos de 1995 e 2016, portanto, preencheu o requisito temporal de 3 anos na função antes da dispensa.”
+Passo à análise.
+Os embargos de declaração têm por finalidade provocar a complementação do
+julgado a fim de sanar vícios, com hipóteses taxativamente previstas no art. 897-A da CLT e no art. 1.022
+do CPC. Assim, as partes podem fazer uso dos embargos de declaração quando constatarem a
+Este documento pode ser acessado no endereço eletrônico http://www.tst.jus.br/validador sob código 1006720E7196DBE9B6.
+existência de erro material, omissão, contradição, obscuridade no julgado, bem como para
+prequestionar tese (art. 1.025 do CPC c/c Súmula 297 do TST), inclusive para provocar complementação
+de fundamentação deficiente (art. 489, § 1º, do CPC).
+No caso, não constatados os equívocos acima apontados, inviável a alteração das
+conclusões do acórdão pela estreita via dos embargos declaratórios. Emerge das razões recursais mero
+inconformismo com os fundamentos constantes na decisão de fundo, que a respeito dos temas
+manifestou-se detalhadamente:
+“INFRAERO. SISTEMA DE PROGRESSÃO ESPECIAL FUNCIONAL. INCORPORAÇÃO DE 70,26% DO
+VALOR DA GRATIFICAÇÃO DE FUNÇÃO EXERCIDA POR 3 ANOS OU MAIS. INÍCIO DO EXERCÍCIO DA
+FUNÇÃO APÓS A REVOGAÇÃO DA NORMA INTERNA INSTITUIDORA DA PARCELA
+O Tribunal Regional, em juízo prévio de admissibilidade (arts. 682, IX, e 896, § 1º, da CLT),
+denegou seguimento ao recurso de revista, na esteira dos seguintes fundamentos:
+‘PRESSUPOSTOS EXTRÍNSECOS Tempestivo o recurso (publicação em 26/10/2018 -
+fls. 89CF1F4; recurso apresentado em 21/11/2018 - fls. e9779d3).
+Regular a representação processual (fls. 028d979).
+Satisfeito o preparo (fl(s). 635be3d, d7256fe e 476db87).
+PRESSUPOSTOS INTRÍNSECOS DIREITO CIVIL / Fatos Jurídicos / Prescrição e
+Decadência.
+Alegação(ões): - violação do(s) inciso XXIX do artigo 7º, da Constituição Federal.
+- divergência jurisprudencial: .
+Não houve prequestionamento da matéria, na medida em que o Colegiado não
+emitiu qualquer pronunciamento sobre o tema.
+Dessa forma, inviável o processamento do apelo por óbice da Súmula n.º 297 do
+colendo TST.
+Remuneração, Verbas Indenizatórias e Benefícios / Salário / Diferença Salarial /
+Plano de Cargos e Salários.
+Alegação(ões): - contrariedade à(s) Súmula(s) item I da Súmula nº 51; Súmula nº
+372 do colendo Tribunal Superior do Trabalho.
+- contrariedade à(s) Súmula(s) vinculante(s) nº 37 do excelso Supremo Tribunal
+Federal.
+- violação do(s) artigos 5º e caput; inciso II do artigo 5º; inciso XXX do artigo 5º;
+inciso XXXVI do artigo 5º; artigo 37; inciso IX do artigo 93; §1º do artigo 173, da
+Constituição Federal.
+- violação do(s) artigo 53 da Lei nº 9784/1999; artigo 54 da Lei nº 9784/1999; artigo
+169 do Código Civil; artigo 8º da Consolidação das Leis do Trabalho; artigo 450 da
+Consolidação das Leis do Trabalho; artigo 468 da Consolidação das Leis do Trabalho;
+alínea ‘h’ do inciso XIV do artigo 13 da Lei nº 9649/1998; inciso VII do artigo 7º da Lei nº
+10180/2001; artigo 794 da Consolidação das Leis do Trabalho; §1º do artigo 895 da
+Consolidação das Leis do Trabalho.
+- divergência jurisprudencial: .
+- Decreto-lei nº 3.735/2001, art. 1º, III e 2º; Decreto-lei nº 5.134/2004, art. 6º, IV, 'e'.
+A egr. Turma manteve a sentença que deferiu a progressão especial prevista na
+Informação Padronizada nº 320/DARH/2004, devendo ser observada a última função
+ocupada pelo empregado, sob a seguinte fundamentação: ‘O cotejo do histórico de
+funções carreado às fls. 43/44 com o Ato Administrativo nº 2612/DGGP/2015 e seu
+anexo, juntado às fls. 158/159, constata-se que o autor, no período de 02/01/1995 a
+29/02/2016, sempre exerceu função comissionada, sendo certo que no período de
+20/01/2009 a 29/02/2016 (7 anos e 1 mês) ocupou a função de GERENTE SEDE que teve a
+nomenclatura alterada em setembro/2015 para GERENTE I.
+Nesse diapasão, o autor implementou os requisitos para aquisição do direito
+ainda na vigência do Sistema de Progressão Funcional, na medida em que entre os anos
+de 1995 e 2016, antes da suspensão da medida, exerceu funções de confiança de forma
+ininterrupta. Em outras palavras, preencheu o requisito temporal de 3 anos na função
+antes da dispensa.’ Inconformada, insurge-se a INFRAERO contra essa decisão, mediante
+as alegações alhures destacadas, almejando a reforma do julgado.
+Todavia, a conclusão alcançada pelo egrégio Colegiado se coaduna coma atual,
+notória e iterativa jurisprudência do col.TST, conforme se verifica dos seguintes
+precedentes: ‘RECURSO DE REVISTA. APELO INTERPOSTO NA VIGÊNCIA DA LEI N.º
+13.015/2014.
+PROGRESSÃO ESPECIAL. INFRAERO. REVOGAÇÃO DA NORMA INTERNA QUE
+CONCEDIA O DIREITO. O fato de não se encontrar recebendo a Progressão Especial no momento em que ocorreu a revogação da norma que a instituiu não pode servir para
+prejudicar o direito adquirido da Reclamante, considerando que, à época da revogação,
+ela já havia implementado o único requisito necessário à incorporação do benefício, qual
+seja, o exercício de função de confiança por mais de 3 (três) anos. Decisão em sentido
+contrário implica violação do art. 468 da CLT e contrariedade à Súmula n.º 51, I, do TST.
+Nesse sentido, precedentes desta Casa. Recurso de Revista conhecido e provido’ (TST,RR￾125- 67.2014.5.10.0003 Data de Julgamento: 10/08/2016, Relatora Ministra: Maria de
+Assis Calsing, 4ª Turma, Data de Publicação: DEJT 19/08/2016).
+‘(...) INFRAERO. PROGRESSÃO ESPECIAL PREVISTA NO SISTEMA DE PROGRESSÃO
+FUNCIONAL DA EMPRESA - SPF. INCORPORAÇÃO DO VALOR DA REMUNERAÇÃO GLOBAL
+ESTABELECIDA PARA A FUNÇÃO DE CONFIANÇA. Segundo a decisão regional, prevaleceu
+o entendimento de que a ausência de submissão do Sistema de Progressão Funcional
+aos Ministérios da Defesa e do Planejamento, na forma do regulamento interno da
+Infraero e do Decreto 3.735/2001, não teria o condão de eivar de nulidade o Sistema de
+Progressão Funcional adotado. Assim, o ato administrativo que suspendeu os efeitos da
+progressão especial não deveria ser entendido como anulação, não atingindo garantias
+já incorporadas ao contrato de trabalho do obreiro. Estão ilesos, portanto, os artigos 53e
+54 da Lei nº 9.784/1999, 37 e 173, § 1º, da CF e 169 do CC. Ademais, consignou aquela
+Corte que o referido Sistema de Progressão foi implementado após a admissão do
+reclamante, que ele já havia cumprido o requisito relativo ao tempo mínimo de exercício
+de função de confiança, sendo que a supressão posterior da progressão especial
+implicaria alteração unilateral ilícita do contrato de trabalho, e que, por essa razão, o
+obreiro faria jus à indigitada progressão. Não há falar em ofensa ao artigo 468 da CLT,
+em contrariedade à Súmula 51, I, do TST, tampouco em dissenso pretoriano. Incidência
+da Súmula 333 desta Corte e do artigo 896, § 7º, da CLT. Agravo de instrumento
+Este documento pode ser acessado no endereço eletrônico http://www.tst.jus.br/validador sob código 1006720E7196DBE9B6.
+conhecido e não provido’ (AIRR1351-13.2014.5.10.0002, Relatora Ministra: Dora Maria da
+Costa, 8ª Turma, Data de Julgamento: 15/06/2016, Data de Publicação: DEJT 17/06/2016).
+‘RECURSO DE REVISTA INTERPOSTO NA VIGÊNCIA DA LEI Nº 13.015/2014.
+INFRAERO. INFORMAÇÃO PADRONIZADA 320/DARH/2004. PROGRESSÃO
+FUNCIONAL ESPECIAL. INCORPORAÇÃO DE 70,26% DA GRATIFICAÇÃO DE FUNÇÃO EM
+DECORRÊNCIA DO EXERCÍCIO DA FUNÇÃO DE CONFIANÇA DURANTE TRÊS ANOS OU
+MAIS. NULIDADE DA NORMA POSTERIOR À CONTRATAÇÃO. NÃO CONCESSÃO DO
+BENEFÍCIO. ALTERAÇÃO CONTRATUAL LESIVA. Incontroverso nos autos que a reclamada
+instituiu em 2004, por meio da ‘norma denominada Informação Padronizada
+320/DARH/2004, a vantagem 'progressão especial' que previa, em favor dos empregados
+designados para exercício de função de confiança há 03 (três) anos consecutivos ou mais, quando da respectiva dispensa, o recebimento do índice de 70,26% (setenta
+inteiros, vinte e seis décimos por cento) sobre o valor da remuneração da gratificação
+até então percebida’. É incontroverso também que o reclamante ocupou por mais de
+três anos função de confiança nos quadros da reclamada, que perdurou de 2009 a 2014.
+No entanto, segundo a Corte de origem, a norma em questão não se aplica ao
+reclamante, sendo-lhe indevida a incorporação do percentual incidente sobre a
+gratificação de função percebida, porque revogada pela diretoria executiva da empresa,
+por ocasião de ilegalidades havidas quando da instituição do benefício, antes de ele
+ocupar a função de confiança, e anulada, com efeito ex tunc, antes de ele ser dispensado
+da função, não se implementando, assim, os requisitos necessários à incorporação
+pretendida. Todavia, a decisão regional não merece prosperar, pois evidente a violação
+do artigo 468 da CLT, segundo o qual ‘Nos contratos individuais de trabalho só é lícita a
+alteração das respectivas condições por mútuo consentimento, e ainda assim desde que
+não resultem, direta ou indiretamente, prejuízos ao empregado, sob pena de nulidade
+da cláusula infringente desta garantia’. Não obstante a exceção prevista no parágrafo
+único desse dispositivo, de que ‘Não se considera alteração unilateral a determinação do
+empregador para que o respectivo empregado reverta ao cargo efetivo, anteriormente
+ocupado, deixando o exercício de função de confiança’, na hipótese, observa-se que a
+ilicitude perpetrada pela reclamada não decorre da dispensa do reclamante da função
+de confiança, mas da não concessão da progressão especial prevista em norma interna,
+direito que se incorporou ao seu contrato de trabalho no momento de sua admissão em
+2006, antes, portanto, de ser revogada a norma que o instituiu, o que ocorreu, segundo a
+Corte de origem, somente em 2008. Com efeito, se, no momento da contratação, vigia
+norma estabelecendo a incorporação de parte da gratificação da função de confiança,
+qualquer alteração posterior nos normativos da empresa, ainda que decorrente de
+ilegalidades por ela praticadas ao instituir o benefício, como ocorreu neste caso, não
+atinge os empregados admitidos antes desse fato, mas apenas aqueles que ingressarem
+nos quadros da reclamada após a anulação da norma em comento. Desse modo, tendo
+sido implementado pelo reclamante o único requisito necessário à incorporação salarial
+pretendida (a denominada progressão especial), uma vez que comprovado nos autos o
+exercício de função de confiança por mais de três anos, o indeferimento da pretensão
+não se coaduna com o disposto no artigo 468 da CLT. Recurso de revista conhecido e
+provido’ (RR158-36.2014.5.10.0010, Relator Ministro: José Roberto Freire Pimenta, 2ª
+Turma, Data de Julgamento: 02/03/2016, Data de Publicação: DEJT 11/03/2016).
+Em tal panorama, o apelo encontra óbice na Súmula n.º 333 do colendo TST.
+Relativamente às alegações de aumento de vencimento de servidor publico em
+desrespeito à Súmula Vinculante n.º 37 do excelso STF,a observância de leis
+orçamentárias, parâmetros definidos para o cálculo e a existência de outro processo
+versando sobre incorporação de função, incide a Súmula n.º 297 do colendo TST.
+CONCLUSÃO Ante o exposto, DENEGO seguimento ao recurso de revista.’
+A Infraero insiste que a progressão especial funcional deferida é ilegal pela inobservância dos
+arts. 1º, III, §2º, do Decreto nº 3.735/2001 e 6º, IV, “e”, do Decreto 5.347/2005, que entende violados.
+Aduz que a administração pública tem o dever de anular atos eivados de vícios, que não originam
+direitos, o que aconteceu em pela suspensão da Informação Padronizada nº 320/DARH/2004 em
+28/9/2007 e revogação em 11/11/2008. Indica ofensa aos arts. 5º, II, XXXVI, 37, caput, 169, §1º, I e II, da
+CF, 8º da CLT, 169 do Código Civil, 54, da Lei nº 9.784/99, além de contrariedade às Súmulas 346 e 473
+do STF e Súmula vinculante 37 do STF. Colaciona arestos.
+Ao exame.
+Quanto ao tema, o Regional decidiu (art. 896, §1º-A, I, da CLT):
+O cotejo do histórico de funções carreado às fls. 43/44 com o Ato Administrativo nº
+2612/DGGP/2015 e seu anexo, juntado às fls. 158/159, constata-se que o autor, no
+período de 02/01/1995 a 29/02/2016, sempre exerceu função comissionada, sendo certo
+que no período de 20/01/2009 a 29/02/2016 (7 anos e 1 mês) ocupou a função de
+GERENTE SEDE que teve a nomenclatura alterada em setembro/2015 para GERENTE I.
+Nesse diapasão, o autor implementou os requisitos para aquisição do direito
+ainda na vigência do Sistema de Progressão Funcional, na medida em que entre os anos
+de 1995 e 2016, antes da suspensão da medida, exerceu funções de confiança de forma
+ininterrupta. Em outras palavras, preencheu o requisito temporal de 3 anos na função
+antes da dispensa.
+[...].
+Assim, acolho os embargos de declaração para, constatando erro de premissa
+gerador de contradição, prestar efeitos infringentes ao acórdão embargado e prover
+parcialmente o recurso ordinário do autor e condenar a reclamada a conceder a
+progressão especial prevista na Informação Padronizada nº 320/DARH/2004, devendo ser
+observada a última função ocupada pelo empregado, bem como, a compensação dos
+valores referentes à incorporação da função gratificada deferida no processo 0000894-
+47.2016.5.10.0002, a fim de se evitar eventual enriquecimento sem causa.
+Condeno, ainda, a reclamada ao pagamento das diferenças salariais a partir de março/2016, bem como seus efeitos reflexos em adicional por tempo de serviço, férias
+acrescidas de 1/3, 13º salário e FGTS.’
+A iterativa, notória e atual jurisprudência desta Corte Superior firmou-se no sentido de que o
+direito à progressão especial limita-se aos empregados da Infraero que completaram o requisito
+temporal de 3 anos consecutivos na função durante a vigência da norma instituidora da parcela.
+Na hipótese dos autos, o Regional deferiu a progressão especial funcional relativa ao exercício
+da função de confiança Gerente Sede (Gerente I), exercida no período de 20/01/2009 a 29/02/2016.
+Assim, considerando que o autor passou a ocupar a função de confiança Gerente Sede a partir
+de 20/1/2009, depois da revogação do normativo em 11/11/2008, não se perfectibilizou a aquisição
+do direito.
+Nesse sentido, registro os seguintes precedentes:
+‘EMBARGOS EM RECURSO DE REVISTA INTERPOSTO NA VIGÊNCIA DA LEI Nº
+13.015/2014 - INFRAERO - SISTEMA DE PROGRESSÃO ESPECIAL - EXERCÍCIO DE FUNÇÃO
+DE CONFIANÇA APÓS A ANULAÇÃO DO ATO QUE INSTITUIU À PROGRESSÃO -
+Este documento pode ser acessado no endereço eletrônico http://www.tst.jus.br/validador sob código 1006720E7196DBE9B6.
+INCORPORAÇÃO AO CONTRATO DE TRABALHO - DISTINGUISHING - MERA EXPECTATIVA
+DE DIREITO - NÃO APLICAÇÃO DA SÚMULA Nº 51, I, DO TST. 1. Discute-se a extensão dos
+efeitos do Sistema de Progressão Especial instituído na Infraero por meio de norma
+regulamentar (IP nº 320/DARH/2004), em que se assegurou a incorporação de 70,26% da
+remuneração global percebida pelo exercício de função de confiança ao empregado que
+a exerceu pelo período consecutivo de três anos após a norma ter sido anulada por atos
+da própria reclamada. 2. Na presente hipótese, a situação submetida a exame oferece
+uma condição peculiar, que autoriza a realização de distinguishing em relação à ratio da
+Súmula nº 51, I, do TST. Isso porque, a reclamante foi admitida anteriormente à criação
+da sistemática de progressão especial (por meio da norma interna da Infraero IP nº
+320/DARH/2004), todavia exerceu função de confiança de 1º/4/2011 a 31/5/2015
+(posteriormente à anulação da referida norma, ocorrida em 27/10/2010). 3. Nesse
+contexto, em que a reclamante somente preencheu as condições previstas no
+regramento interno da empresa (ocupação de função de confiança, há três anos ou mais
+consecutivos) quando tal regramento já havia sido anulado e não mais produzia efeitos,
+não há como reconhecer o direito adquirido à progressão especial, porquanto a
+reclamante tinha, pois, mera expectativa de direito à vantagem, que foi frustrada pela
+anulação da norma interna. 4. Desse modo, cotejando os princípios constitucionais a
+que estão adstritas às empresas públicas com os princípios norteadores do direito do
+trabalho, notadamente o da não alteração unilateral do contrato de trabalho, verifica-se
+que em relação ao reclamante especificamente, ainda que a norma interna da Infraero
+tenha se incorporado ao seu contrato de trabalho (por força do entendimento contido
+na Súmula nº 51, I, desta Corte e da observância das normas de direito do trabalho pela
+empresa pública, a teor do art. 173, § 1º, da Constituição Federal) o fato é que antes da
+implementação das condições nela previstas o referido regramento foi considerado
+ilegal e anulado, de modo que não há como tal ato produzir efeitos para o futuro e
+abarcar a situação da reclamante que como dito, teve a sua expectativa de direito
+frustrada pela anulação do ato que criou a progressão especial. Recurso de embargos
+conhecido e provido.’ (E-RR-1417-53.2015.5.10.0003, Subseção I Especializada em
+Dissídios Individuais, Relator Ministro Luiz Philippe Vieira de Mello Filho, DEJT
+01/02/2023).
+‘AGRAVO. EMBARGOS EM RECURSO DE REVISTA. INTERPOSIÇÃO NA VIGÊNCIA DA
+LEI Nº 13.467/2017 . PROGRESSÃO FUNCIONAL ESPECIAL. INCORPORAÇÃO. REVOGAÇÃO
+DA NORMA INTERNA INFORMAÇÃO PADRONIZADA Nº 320/DARH/2004. NÃO
+PREENCHIMENTO DO REQUISITO TEMPORAL. NÃO PROVIMENTO. 1. Esta colenda Corte
+Superior, por meio de decisão proferida por esta egrégia Subseção I Especializada em
+Dissídios Individuais, no julgamento do recurso E-RR-1561- 30.2015.5.1.0002, de relatoria
+do Ministro Cláudio Mascarenhas Brandão, DEJT em 19.12.2018, firmou entendimento de
+que, para a configuração do direito adquirido, em relação à pretensão de incorporação
+da gratificação pelo exercício da função de confiança, amparada na Informação
+Padronizada n° 320/DARH/2004 da INFRAERO, é imprescindível o preenchimento do
+requisito temporal, qual seja, o exercício de função de confiança, por três anos de forma
+ininterrupta, antes da revogação da norma interna, ocorrida em 11.11.2008. Precedentes
+desta egrégia SBDI-1. 2. No presente caso , a egrégia Oitava Turma desta Corte deu
+provimento ao recurso de revista interposto pela INFRAERO, porquanto o egrégio
+Tribunal Regional considerou o exercício de função de confiança pelo reclamante por
+três anos consecutivos ou mais em período anterior e posterior à vigência do sistema de
+progressão especial, mas não durante o período de 15.09.2004 a 11.11.2008, quando
+vigorou a norma interna do ente público reclamado (Informação Padronizada n°
+320/DARH/2004). 3. Considerando, pois, que o v. acórdão turmário está em
+conformidade com a iterativa e notória jurisprudência deste Tribunal Superior, o
+processamento do recurso de embargos encontra óbice no artigo 894, § 2º, da CLT. 4.
+Agravo de que se conhece e ao qual se nega provimento’ (Ag-E-ED-ARR- 1584-
+02.2017.5.10.0003, Subseção I Especializada em Dissídios Individuais, Relator Ministro
+Guilherme Augusto Caputo Bastos, DEJT 18/03/2022).
+‘AGRAVO EM EMBARGOS EM EMBARGOS DE DECLARAÇÃO EM RECURSO DE
+REVISTA. INFRAERO. SISTEMA DE PROGRESSÃO ESPECIAL. REVOGAÇÃO DA NORMA.
+IMPLEMENTO SUPERVENIENTE DO REQUISITO. Nos termos da jurisprudência desta SDI-1,
+somente os empregados anteriormente admitidos e que já tenham preenchido os
+requisitos para a incorporação da vantagem até a data da revogação do ato que instituiu
+o Sistema de Progressão Funcional têm direito ao benefício, hipótese diversa dos autos.
+Incidência do artigo 894, § 2º, da CLT. Agravo conhecido e não provido ‘ (Ag-E-ED-RR-506-
+28.2017.5.10.0017, Subseção I Especializada em Dissídios Individuais, Relatora Ministra Dora Maria da Costa, DEJT 28/10/2021).
+‘RECURSO DE EMBARGOS EM RECURSO DE REVISTA. INFRAERO. INFORMAÇÃO
+PADRONIZADA 320/DARH/2004. SISTEMA DE PROGRESSÃO FUNCIONAL ESPECIAL.
+NORMA INTERNA. POSTERIOR SUSPENSÃO, REVOGAÇÃO E ANULAÇÃO DO ATO
+ADMINISTRATIVO. ARTIGO 894, § 2º, DA CLT. Discutese o direito do empregado da
+INFRAERO às diferenças salariais decorrentes da supressão da vantagem denominada
+‘progressão especial’. Por meio da norma Informação Padronizada n.º320/DARH/2004, de
+15/9/2004, a Infraero instituiu a ‘progressão especial’, segundo a qual os empregados
+designados para o exercício de função de confiança por 3 (três) anos consecutivos ou mais, quando da dispensa, teriam o direito à incorporação da verba no percentual de
+70,26%. Em 28/9/2007, por meio do Ato Administrativo n.º 1789/PR/2007, seus efeitos
+foram suspensos. Já em 11/11/2008 foram revogados e, finalmente, em 27/10/2010 a
+Diretoria Executiva da INFRAERO resolveu anular definitivamente a IP n. 320/DARH/04.
+Esta Subseção, ao apreciar a matéria, consolidou o entendimento no sentido de que
+ainda que a admissão no emprego ocorra antes ou na vigência da Informação
+Padronizada 320/DARH/2004, se o requisito temporal de três anos de exercício na função
+comissionada é preenchido somente após a revogação da norma interna, ocorrida em
+11/11/2008, inexiste direito adquirido ou alteração contratual lesiva porque ainda não
+implementados todos os requisitos necessários à aquisição do direito. No caso vertente,
+a 8ª Turma registrou que o Reclamante foi designado para exercer cargo de confiança
+em 13/3/2008 e dele foi dispensado no dia 14/9/2014. Nesse contexto, tem-se que a
+Turma julgadora, ao concluir que a vantagem postulada não era aplicável ao
+Reclamante, perfilhou entendimento em consonância com o adotado por esta Subseção,
+pois quando a norma instituidora do benefício foi revogada (11/11/2008), ainda não
+havia sido preenchido o requisito temporal de três anos no exercício da função.
+Incidência do óbice do artigo 894, § 2º, da CLT . Recurso de embargos não conhecido.’ (E￾EDED- ARR-11860-90.2014.5.01.0054, Subseção I Especializada em Dissídios
+Individuais, Relator Ministro Alexandre Luiz Ramos, DEJT 19/02/2021).
+‘AGRAVO EM RECURSO DE EMBARGOS. INTERPOSIÇÃO SOB A ÉGIDE DA LEI
+13.015/2014 . INFRAERO. PROGRESSÃO ESPECIAL. INCORPORAÇÃO DE 70,26% DO VALOR
+Este documento pode ser acessado no endereço eletrônico http://www.tst.jus.br/validador sob código 1006720E7196DBE9B6.
+DA GRATIFICAÇÃO APÓS TRÊS ANOS NO DESEMPENHO DE FUNÇÃO DE CONFIANÇA.
+REQUISITO NÃO PREENCHIDO NA VIGÊNCIA DA NORMA INTERNA MEDIANTE A QUAL
+INSTITUÍDO O BENEFÍCIO. ALTERAÇÃO CONTRATUAL LESIVA. INOCORRÊNCIA. Não merecem processamento os embargos interpostos sob a vigência da Lei 13.015/2014,
+quando não preenchidos os pressupostos de admissibilidade do art. 894, II, da CLT.
+Agravo conhecido e não provido.’ (Ag-E-ED-RR-430-53.2016.5.10.0012, Subseção I
+Especializada em Dissídios Individuais, Relator Ministro Hugo Carlos Scheuermann,
+DEJT 28/08/2020).
+‘EMBARGOS REGIDOS PELA LEI Nº 13.015/2014. INFRAERO. INFORMAÇÃO
+PADRONIZADA 320/DARH/2004. PROGRESSÃO FUNCIONAL ESPECIAL. INCORPORAÇÃO
+DE 70,26% DA GRATIFICAÇÃO DE FUNÇÃO EM DECORRÊNCIA DO EXERCÍCIO DA FUNÇÃO
+DE CONFIANÇA DURANTE TRÊS ANOS OU MAIS. PREENCHIMENTO DO REQUISITO
+TEMPORAL POSTERIOR À REVOGAÇÃO DA NORMA. INCORPORAÇÃO INDEVIDA. A
+Subseção I Especializada em Dissídios Individuais do TST, no julgamento do Processo E￾RR - 1561-30.2015.5.10.0002, em 6/12/2018, por 9 x 3 votos, acórdão publicado no DEJT
+em 19/12/2018, Relator Ministro Cláudio Mascarenhas Brandão, ocasião em que ficou
+vencido este Relator, adotou o entendimento de que não têm direito à incorporação da
+vantagem ‘progressão especial’, prevista na Informação Padronizada 320/DARH/2004, os
+empregados da Infraero que preencheram o requisito temporal de três anos de exercício
+na função somente após a revogação da norma, ocorrida em 11/11/2008. Prevaleceu o
+entendimento de que a ausência de preenchimento do requisito de três anos na função
+constitui elemento de distinção apto a afastar a aplicação do entendimento previsto no
+item I da Súmula nº 51 desta Corte. Em 21/2/2019, esta SbDI-1 ratificou esse
+entendimento, em sessão com composição completa, por unanimidade, no julgamento
+do Processo nº E-ED-RR-130825-22.2015.5.13.0001. No caso destes autos, o reclamante
+ocupou função de confiança nos quadros da reclamada de fevereiro de 2007 a fevereiro
+de 2014. Logo, deve ser reconhecido que, por ocasião da revogação da norma, em 2008,
+o autor ainda não havia preenchido o requisito necessário à incorporação salarial
+pretendida, uma vez comprovado, nos autos, que o exercício de função de confiança por mais de três anos ocorreu posteriormente a 2008. Embargos conhecidos e providos.’ (E￾RR-974-48.2014.5.20.0007, Subseção I Especializada em Dissídios Individuais, Relator Ministro Jose Roberto Freire Pimenta, DEJT 30/04/2020).
+‘AGRAVO. RECURSO DE REVISTA. ACÓRDÃO PUBLICADO NA VIGÊNCIA DA LEI Nº
+13.015/2014 . INFRAERO. PROGRESSÃO FUNCIONAL ESPECIAL. NÃO PREENCHIMENTO DO
+REQUISITO TEMPORAL ANTES DA REVOGAÇÃO DA NORMA. INCORPORAÇÃO AO
+CONTRATO DE TRABALHO. TRANSCENDÊNCIA JURÍDICA RECONHECIDA . APLICAÇÃO DE
+MULTA . A controvérsia em questão refere-se à vantagem ‘Progressão especial’,
+instituída pela Infraero, mediante ato administrativo (IP 320/DARH/2004),
+consubstanciada no pagamento do percentual de 70,26% sobre o valor da gratificação
+recebida por empregados dispensados de função de confiança exercida por período
+igual ou superior a 3 (três) anos consecutivos - norma essa que teve a sua eficácia
+suspensa em 25/09/2007, foi revogada em 11/11/2008 e, por fim, anulada em
+27/10/2010, nos termos da Súmula 473 do STF, com efeitos ex tunc, por não ter sido
+atendida a condição de validade prevista nos Decretos nºs 3.735/2001 e 5.134/2004,
+atinente à aprovação pelos Ministros da Defesa e do Planejamento. A SBDI-1 do TST, no
+julgamento do E-ED-RR 1602-55.2015.5.10.0015, ocorrido em 30/05/2019, firmou o
+entendimento de que ‘a revogação da Informação Padronizada 320/DARH/2004 não
+atinge os empregados que em 11.11.2008 já haviam preenchido o requisito para a
+percepção da progressão especial, qual seja, exercício de função de confiança por três
+anos consecutivos’. No caso concreto, a reclamante exerceu cargo de confiança no
+período de julho/2008 a julho/2015 , não tendo completado três anos de exercício na
+função de confiança, antes da revogação da referida norma. Assim sendo, não há falar
+em direito adquirido ou alteração contratual lesiva, porque, por ocasião da revogação da
+norma, a reclamante não havia implementado os requisitos necessários à aquisição do
+direito, não sendo devido, por isso, o pagamento de diferenças decorrentes da
+concessão da progressão especial. Agravo não provido.’ (Ag-RR-476-78.2017.5.10.0021, 5ª
+Turma, Relator Ministro Breno Medeiros, DEJT 07/01/2020).
+Transcendência reconhecida.
+Diante do exposto, por possível ofensa ao art. 37,caput, da CF, dou provimento ao agravo de
+instrumento para determinar o processamento do recurso de revista, quanto ao tema.
+III – RECURSO DE REVISTA DA RECLAMADA
+Tempestivo o apelo, regular a representação e efetuado o preparo, presentes os pressupostos
+genéricos de admissibilidade do apelo.
+1 – INFRAERO. SISTEMA DE PROGRESSÃO ESPECIAL FUNCIONAL. INCORPORAÇÃO DE 70,26%
+DO VALOR DA GRATIFICAÇÃO DE FUNÇÃO EXERCIDA POR 3 ANOS OUMAIS. INÍCIO DO EXERCÍCIO
+DA FUNÇÃO APÓS A REVOGAÇÃO DA NORMA INTERNA INSTITUIDORA DA PARCELA
+1.1 - CONHECIMENTO
+Consoante os fundamentos lançados quando do exame do agravo de instrumento, conheço do
+recurso de revista por ofensa ao art. 37, caput, da CF.
+Reconhecida a transcendência política, examino o mérito.
+1.2 – MÉRITO
+Conhecido o recurso, por ofensa ao art. 37,caput, da CF, dou-lhe provimento, para julgar
+improcedente o pedido de pagamento de progressão especial previsto na Informação Padronizada nº
+320/DARH/2004. Invertido o ônus da sucumbência.”
+Depreende-se da transcrição do acórdão, em cotejo com as razões de embargos
+de declaração, o nítido intento de reanálise das matérias.
+No caso, o acórdão embargado limitou-se a proceder ao reenquadramento
+jurídico dos fatos, à luz da jurisprudência predominante deste Colendo Tribunal, tendo em vista que o
+Regional ao considerar, para aquisição do direito à progressão especial, todas as funções exercidas pelo
+autor no período de 1995 a 2016, em vez daquela postulada, exercida após a revogação da norma,
+decidiu em dissonância com a iterativa notória e atual jurisprudência do TST.
+O reexame do mérito e da aplicação do direito é vedado em sede de embargos de
+Este documento pode ser acessado no endereço eletrônico http://www.tst.jus.br/validador sob código 1006720E7196DBE9B6.
+declaração. Se a parte entende que esta Turma não julgou corretamente a questão (error in judicando)
+deve expor seu inconformismo por meio de medida recursal adequada.
+Nestes termos, nego provimento.
+ISTO POSTO
+ACORDAM os Ministros da Quinta Turma do Tribunal Superior do Trabalho, por
+unanimidade, conhecer e negar provimento aos embargos declaratórios.
+Brasília, 7 de maio de 2026.
+Firmado por assinatura digital (MP 2.200-2/2001)
+MORGANA DE ALMEIDA
+Ministra Relatora
+Firmado por assinatura digital em 07/05/2026 pelo sistema AssineJus da Justiça do Trabalho, conforme MP 2.200-2/2001, que instituiu a Infra-Estrutura
+de Chaves Públicas Brasileira. Este documento pode ser acessado no endereço eletrônico http://www.tst.jus.br/validador sob código 1006720E7196DBE9B6.
