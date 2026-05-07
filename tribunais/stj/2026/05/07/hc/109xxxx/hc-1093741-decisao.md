@@ -1,0 +1,9 @@
+DECISÃO
+Neste habeas corpus, requer-se a imediata concessão da prisão domiciliar a WILSON CESAR DIAS - condenado a cumprir 4 anos, 2 meses e 12 dias de reclusão, em regime inicial semiaberto, pela prática de furto qualificado e associação criminosa -, por razões de saúde, haja vista que é recém-operado da coluna lombar, com quadro clínico complexo, dependência de medicação endovenosa, necessidade de fisioterapia intensiva e acompanhamento neurocirúrgico contínuo, condições incompatíveis com o ambiente prisional.
+Sucede que, pelo que se tem destes autos, a questão não foi previamente debatida pelas instâncias a quo. Disse o Tribunal local, a esse respeito, que a matéria é de competência do Juízo da Vara das Execuções (fl. 18). Esclareceu ainda, que nem sequer seria caso de expedição de guia de execução, pois, ao tempo em que analisada a pretensão, o paciente respondia ao processo em liberdade e ainda não havia trânsito em julgado.
+De fato, as pretensões relativas à prisão domiciliar de natureza humanitária e à adequação do estabelecimento prisional vinculam-se à execução da pena e devem ser deduzidas perante o juízo da execução, sob pena de indevida supressão de instância, não sendo cabível sua apreciação originária em plantão judiciário ou em habeas corpus substitutivo da via própria (AgRg no HC n. 1.071.293/SP, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 18/3/2026, DJEN de 23/3/2026). Nesse sentido, confira-se também o AgRg no HC n. 1.043.023/SP, relator Ministro Carlos Pires Brandão, Sexta Turma, julgado em 17/12/2025, DJEN de 23/12/2025.
+Pelo exposto, indefiro liminarmente o writ.
+Publique-se.
+EMENTA
+HABEAS CORPUS. ARTS. 155, § 4º, II E IV, E 288 DO CP. CONDENAÇÃO EM REGIME SEMIABERTO. PRISÃO DOMICILIAR HUMANITÁRIA. FALTA DE PEDIDO DIRIGIDO AO JUÍZO COMPETENTE. DUPLA SUPRESSÃO DE INSTÂNCIA. INVIABILIDADE.
+Writ indeferido liminarmente.
