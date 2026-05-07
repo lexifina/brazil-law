@@ -1,0 +1,15 @@
+DECISÃO
+O JUÍZO FEDERAL DA 13ª VARA DA SEÇÃO JUDICIÁRIA DO ESTADO DO PARANÁ suscita conflito de competência, em inquérito policial, diante do reconhecimento de incompetência efetivado pelo JUÍZO DE DIREITO DA VARA CRIMINAL DO FORO REGIONAL DE FAZENDA RIO GRANDE - PR.
+A controvérsia estabelecida neste incidente processual cinge-se a saber qual o juízo competente (federal ou estadual) para a prática de atos jurisdicionais em investigação levada a cabo pela suposta prática do suposto crime de destruição de floresta e poluição ambiental.
+Ouvido, manifestou-se o Ministério Público Federal pelo conhecimento do conflito para que seja declarado competente o Juízo de Direito da Vara Criminal do Foro Regional de Fazenda Rio Grande - PR, ora suscitado (fls. 157-166).
+Decido.
+Em regra, eventual delito perpetrado contra o meio ambiente é da competência da Justiça estadual, haja vista que a sua proteção cabe à União, aos Estados, ao Distrito Federal e aos Municípios.
+Entretanto, a hipótese que atrairia a competência da Justiça Federal restringe-se àquelas situações em que os crimes ambientais são cometidos em detrimento de bens, serviços ou interesses da União, ou de suas autarquias ou empresas públicas (ex vi do art. 109, IV, da Constituição Federal).
+No caso, Como pontuado pelo Juízo suscitante, " o  exame dos autos revela que as condutas de supressão de vegetação e poluição hídrica atingiram bens de dominialidade estadual (Rios Cotia e Iguaçu) e propriedades particulares, sem qualquer evidência de reflexo em unidades de conservação federais ou bens da União" (fl. 134, destaquei).
+Logo, com base na premissa de que é necessária a demonstração inequívoca de ofensa a bens, serviços ou interesses da União, ou de suas entidades autárquicas e empresas públicas, situação que não ficou delineada na espécie, é de se prestigiar a competência estadual.
+De fato, segundo a orientação deste Superior Tribunal, " a  competência do foro criminal federal não advém apenas do interesse genérico que tenha a União na preservação do meio ambiente. É necessário que a ofensa atinja interesse direto e específico da União, de suas entidades autárquicas ou de empresas públicas federais" (CC n. 168.575/MS, relator Ministro Reynaldo Soares da Fonseca, DJe 14/10/2019).
+Vale dizer, "a atividade lesiva ao meio ambiente é que deve nortear, portanto, a existência de interesse direto da União ou de sua autarquia e, na hipótese, não há nenhum elemento que aponte, com segurança, qual seria o interesse específico do investigado que pudesse atrair a competência federal." (CC n. 141.822/PR, relator Ministro Rogerio Schietti, DJe 21/9/2015).
+Diante disso, estou de acordo com o Juízo suscitante, haja vista que não ficou evidenciada, ao menos por ora, a lesão direta a bens, interesses ou serviços da União ou de suas entidades autárquicas.
+À vista do exposto, conheço do conflito para declarar competente o Juízo de Direito da Vara Criminal do Foro Regional de Fazenda Rio Grande - PR, ora suscitado.
+Publique-se. Dê-se ciência aos Juízos suscitante e suscitado
+EMENTA
