@@ -1,0 +1,48 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido de liminar, impetrado em favor de JONYSLEI MACEDO SILVA, contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO que denegou a ordem no writ de origem, o qual foi assim ementado (fl.29):
+DIREITO PENAL. HABEAS CORPUS. ORGANIZAÇÃO CRIMINOSA. TRÁFICO DE DROGAS. PRISÃO PREVENTIVA. CONSTRANGIMENTO ILEGAL NÃO EVIDENCIADO. ORDEM DENEGADA.
+I. Caso em Exame
+1. Habeas Corpus impetrado em favor de Jonyslei Macedo Silva, alegando constrangimento ilegal por prisão preventiva decretada pelo Juízo da 1ª Vara de Crimes Tributários, Organização Criminosa e Lavagem de Bens e Valores da Capital. O paciente é acusado de integrar organização criminosa voltada ao tráfico de drogas. Alega- se falta de fundamentação concreta na decisão de prisão preventiva e sugere medidas cautelares alternativas.
+II. Questão em Discussão
+2. A questão em discussão consiste em verificar a legalidade da prisão preventiva do paciente, considerando a fundamentação da decisão e a possibilidade de aplicação de medidas cautelares alternativas.
+III. Razões de Decidir
+3. A decisão de prisão preventiva está fundamentada em indícios suficientes de autoria e materialidade do crime, além de elementos concretos que justificam a necessidade da custódia para garantia da ordem pública e cessação das atividades criminosas.
+4. A gravidade dos crimes e a função do paciente na organização criminosa justificam a manutenção da prisão preventiva, sendo insuficientes as medidas cautelares alternativas.
+IV. Dispositivo 5. Ordem denegada.
+Consta dos autos que o paciente teve a prisão preventiva decretada por ocasião do recebimento da denúncia, na qual lhe foi imputada, em tese, a conduta prevista no art. 2º, caput, da Lei n. 12.850/2013.
+Neste writ, a defesa sustenta a ausência de contemporaneidade e de fatos novos aptos a justificar a prisão preventiva, diante do decurso temporal entre o encerramento do inquérito, o oferecimento da denúncia, a decretação da custódia e o cumprimento do mandado, sem designação de audiência de instrução.
+Alega falta de fundamentação idônea no decreto prisional e nas decisões subsequentes que mantiveram a custódia, afirmando que foram utilizadas razões genéricas, sem particularização de circunstâncias concretas relativas ao paciente.
+Aponta a desproporcionalidade da custódia, pois, em eventual condenação, faria jus à pena-base no mínimo legal e ao regime inicial aberto.
+Registra condições pessoais favoráveis e defende a suficiência de medidas cautelares diversas da prisão.
+Requer, liminarmente, a expedição de contramandado de prisão para imediata soltura do paciente. No mérito, pleiteia a revogação da prisão preventiva, com confirmação da liminar ou, subsidiariamente, a substituição da custódia por medidas cautelares alternativas.
+É o relatório.
+A Quinta Turma do Superior Tribunal de Justiça firmou entendimento no sentido de ser inadequada a impetração de habeas corpus quando utilizado em substituição a recurso próprio.
+A teor do disposto no art. 105, II, a, da CF/88, o recurso cabível contra acórdão que denega a ordem na origem é o recurso ordinário, enquanto, consoante previsto no art. 105, III, da CF, o recurso cabível contra acórdão que julga apelação, recurso em sentido estrito e agravo em execução é o recurso especial.
+Nada impede, contudo, a concessão de habeas corpus de ofício quando constatada a existência de ilegalidade flagrante, abuso de poder ou teratologia, nos termos do art. 654, §2º, do CPP, o que ora se passa a examinar.
+A prisão preventiva justifica-se apenas quando devidamente demonstrada sua imprescindibilidade para a preservação da ordem pública, a garantia da regularidade da instrução criminal ou a asseguração da eficácia da aplicação da lei penal, nos termos do art. 312 do Código de Processo Penal.
+O decreto prisional foi assim fundamentado (fls. 229-231):
+Com efeito, verifica-se que FABIANO, MAURO, BEATRIZ, JONYSLEI, SUELEN, MARIA e HAMILTON foram denunciados pela prática de crime, cuja pena máxima ultrapassa o patamar estabelecido pelo art. 313, inciso I, do CPP, encontrando-se assim preenchido o requisito de forma.
+Já, em relação ao requisito material, calcado no fumus comissi delicti e no periculum libertatis, verifica-se que igualmente se encontram integralmente preenchido em relação a todos, a exceção de SUELEN.
+Deveras, em que pesem os argumentos da defesa de BEATRIZ e HAMILTON, delineia-se em relação a todos os acusados o fumus comissi delicti, decorrente do próprio recebimento da denúncia, cuja positivação demanda idêntico standard probatório, calcado em juízo de probabilidade, próprio da cognição sumária.
+Por outro lado, porém, o periculum libertatis está colmatado quanto FABIANO, MAURO, BEATRIZ, JONYSLEI, MARIA e HAMILTON, em que pesem as alegações da defesa deste e de BEATRIZ, a indicar a necessidade de suas prisões, em que pese seu caráter excepcional, para a garantia da ordem pública, como estabelece o art. 312, do CPP.
+Nesse sentido, verifica-se que a FABIANO, MAURO, JONYSLEI e HAMLTON é imputada a prática de integrar, com papel de destaque, organização criminosa, voltada ao tráfico de drogas em larga escala. FABIANO e MAURO exerceriam papel de liderança da referida organização. Já JONYSLEI seria responsável pela contabilidade da organização e HAMILTON pelo fornecimento e distribuição de entorpecentes.
+Tais circunstâncias se prestam a demonstrar o perigo concreto à ordem pública causado por seus estados de liberdade, não se vislumbrando, de igual forma, a possibilidade da substituição da custódia por qualquer outra medida cautelar com igual resultado para a manutenção da ordem pública.
+ ..
+(I) DECRETO as prisões preventivas de FABIANO MANO BEZERRA, MAURO RODRIGO DA SILVA, JONYSLEI MACEDO DA SILVA e MARIA TATIANE LEMOS SILVA;
+Verifica-se que a prisão preventiva foi decretada mediante fundamentação idônea, lastreada na gravidade concreta da conduta imputada, evidenciada pela suposta atuação do paciente, com papel de destaque, em organização criminosa voltada ao tráfico de drogas em larga escala, na qual seria responsável pela contabilidade do grupo. Tais circunstâncias são indicativas do maior desvalor da conduta em tese perpetrada e da periculosidade concreta do agente, a revelar a indispensabilidade da imposição da medida extrema na hipótese.
+Conforme entendimento consolidado no âmbito desta Corte Superior, constitui fundamentação apta a justificar, de modo concreto, a prisão preventiva, a bem da ordem pública, a necessidade de se interromper ou diminuir a atuação de integrantes de organização criminosa. Nesse sentido:
+PROCESSO PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. ORGANIZAÇÃO CRIMINOSA. EXCESSO DE PRAZO PARA O JULGAMENTO DO APELO. NÃO CONFIGURADO. PRISÃO PREVENTIVA. GRAVIDADE DO FATO. GARANTIA DA ORDEM PÚBLICA. RECURSO NÃO PROVIDO.
+1. A jurisprudência desta Corte Superior é firme no sentido de que as penas impostas na sentença condenatória devem ser consideradas para fins de análise de suposto excesso de prazo no processamento da apelação. No caso, levando-se em conta a pena total imposta ao agravante (6 anos, 2 meses e 19 dias de reclusão), não se verifica, por ora, o excesso de prazo no julgamento do recurso.
+2. Na hipótese, após investigação no bojo da "Operação Turfe", concluiu-se que o acusado integrou organização criminosa voltada para o tráfico transnacional de cocaína, em posição de destaque, sendo um dos líderes e corresponsável pela logística de importação da droga no Brasil e garantia a segurança dos negócios do grupo em território paraguaio. A jurisprudência pacífica do Supremo Tribunal Federal, seguida por esse Superior Tribunal de Justiça, entende-se que "a necessidade de se interromper ou diminuir a atuação de integrantes de organização criminosa enquadra-se no conceito de garantia da ordem pública, constituindo fundamentação cautelar idônea e suficiente para a prisão preventiva".
+3. Agravo regimental não provido.
+(AgRg no HC n. 904.049/RJ, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 24/6/2024, DJe de 1/7/2024.)
+Ademais, quando presentes os requisitos do art. 312 do CPP, a imposição da prisão preventiva é medida de rigor, independentemente de condições pessoais favoráveis do agente, mostrando-se inadequadas medidas cautelares diversas do art. 319, quando a custódia provisória apresentar fundamentação concreta.
+Nesse sentido, " a  presença de condições pessoais favoráveis não impede a imposição da prisão preventiva, quando presentes os requisitos legais" (AgRg no HC n. 990.311/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 22/4/2025, DJEN de 30/4/2025).
+Inclusive, "tendo sido exposta de forma fundamentada e concreta a necessidade da prisão, revela-se incabível sua substituição por outras medidas cautelares mais brandas" (AgRg no HC n. 965.960/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 5/3/2025, DJEN de 10/3/2025).
+Por fim, as teses referentes à ausência de contemporaneidade e à desproporcionalidade da medida não foram apreciadas pelo Tribunal de origem, conforme cópia do acórdão às fls. 28-36, motivo pelo qual não serão examinadas por esta Corte superior, sob pena de se incorrer em indevida supressão de instância.
+Com efeito, " é  imprescindível o prévio enfrentamento da matéria pelas instâncias ordinárias para evitar indevida supressão de instância e violação dos princípios do duplo grau de jurisdição e devido processo legal" (HC n. 1.021.432/MG, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 10/12/2025, DJEN de 16/12/2025).
+Não há, portanto, flagrante ilegalidade que justifique a concessão da ordem de ofício.
+Ante o exposto, não conheço do habeas corpus.
+Publique-se.
+Intimem-se.
+ EMENTA
