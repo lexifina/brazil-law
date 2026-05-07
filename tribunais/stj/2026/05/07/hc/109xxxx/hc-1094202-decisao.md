@@ -1,0 +1,34 @@
+DECISÃO
+Cuida-se de Habeas Corpus impetrado em favor de THIAGO BORGES em que se aponta como ato coator a decisão monocrática de Desembargador do TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO que indeferiu o pedido de liminar formulado no HC n. 2077114-73.2026.8.26.0000.
+Consta dos autos que o paciente responde à ação penal n. 1507529-12.2023.8.26.0609 pela suposta prática do delito capitulado no art. 121, § 2º, incisos I e IV, c/c art. 14, inciso II, ambos do Código Penal.
+Em suas razões, sustentam os impetrantes a ocorrência de constrangimento ilegal, porquanto o juiz de primeiro grau teria perdido a imparcialidade ao determinar a instauração de inquérito policial contra o paciente e seus advogados, reputando-os autores de calúnia, o que configuraria suspeição nos termos do art. 254, III, do CPP e violação ao princípio do juiz imparcial, com risco concreto à liberdade em razão da condução da ação penal por magistrado que se considera vítima do paciente.
+Alegam que houve indevida utilização dos autos da ação penal para formular pedido de explicações e para determinar a instauração de inquérito policial, contrariando o art. 144 do Código Penal e a Lei n. 13.869/2019, além de ameaça de responsabilização criminal, civil e administrativa aos defensores, o que evidenciaria envolvimento pessoal do magistrado com a causa e macularia o devido processo legal e a ampla defesa.
+Afirmam que não houve imputação de fato criminoso ao magistrado nas peças defensivas, mas apenas crítica técnica ao uso de duas decisões distintas e ao sigilo que teria ocultado o decreto prisional da defesa, estando as manifestações protegidas pela excludente do art. 142 do Código Penal, razão pela qual faltaria justa causa ao inquérito instaurado.
+Expõem que, alternativamente, sendo Vara Criminal única na Comarca, deve ser determinado o desaforamento da causa, caso não reconhecida de plano a substituição do magistrado.
+Requerem, liminarmente, a suspensão do trâmite da a ção penal e, no mérito, o reconhecimento da parcialidade do juiz de primeiro grau, com sua substituição, ou, subsidiariamente, o desaforamento da causa.
+É o relatório.
+Decido.
+Constata-se, desde logo, que a pretensão não pode ser acolhida por esta Corte Superior, pois a matéria não foi examinada pelo Tribunal de origem, que ainda não julgou o mérito do writ originário.
+Aplica-se à hipótese o enunciado 691 da Súmula do STF:
+Não compete ao Supremo Tribunal Federal conhecer de habeas corpus contra decisão do relator que, em habeas corpus requerido a Tribunal Superior, indefere a liminar.
+Confiram-se, a propósito, os seguintes julgados:
+AGRAVO REGIMENTAL EM HABEAS CORPUS.  ..  WRIT IMPETRADO CONTRA DECISÃO QUE INDEFERIU LIMINAR NO TRIBUNAL A QUO. INCIDÊNCIA DA SÚMULA n. 691/STF. PRISÃO PREVENTIVA. GRAVIDADE CONCRETA DA CONDUTA. PRISÃO DOMICILIAR. AUSÊNCIA DE PROVA INEQUÍVOCA DE QUE O RÉU ESTEJA EXTREMAMENTE DEBILITADO. EXCESSO DE PRAZO NA FORMAÇÃO DA CULPA. AUSÊNCIA DE FLAGRANTE ILEGALIDADE. AGRAVO REGIMENTAL DESPROVIDO.
+1. O Superior Tribunal de Justiça tem compreensão firmada no sentido de não ser cabível habeas corpus contra decisão que indefere o pleito liminar em prévio mandamus, a não ser que fique demonstrada flagrante ilegalidade. Inteligência do verbete n. 691 da Súmula do Supremo Tribunal Federal.
+2.  ..
+3.  ..
+4. A demora ilegal não resulta de um critério aritmético, mas de aferição realizada pelo julgador, à luz dos princípios da razoabilidade e proporcionalidade, levando em conta as peculiaridades do caso concreto, de modo a evitar retardo injustificado na prestação jurisdicional.
+5.  ..
+6. Ausência de flagrante ilegalidade a justificar a superação da Súmula 691 do STF.
+7. Agravo regimental desprovido.
+(AgRg no HC n. 778.187/PE, Rel. Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe de 16.11.2022.)
+AGRAVO REGIMENTAL EM HABEAS CORPUS. PROCESSUAL PENAL. PETIÇÃO INICIAL IMPETRADA CONTRA DECISÃO INDEFERITÓRIA DE LIMINAR PROFERIDA EM HABEAS CORPUS PROTOCOLADO NA ORIGEM, CUJO MÉRITO AINDA NÃO FOI JULGADO. SUPRESSÃO DE INSTÂNCIA. INEXISTÊNCIA DE TERATOLOGIA. IMPOSSIBILIDADE DE SUPERAÇÃO DO ÓBICE PROCESSUAL REFERIDO NA SÚMULA N. 691 DO SUPREMO TRIBUNAL FEDERAL. WRIT INCABÍVEL. AGRAVO DESPROVIDO.
+1. Em regra, não se admite habeas corpus contra decisão denegatória de liminar proferida em outro writ na instância de origem, salvo nas hipóteses em que se evidenciar situação absolutamente teratológica e desprovida de qualquer razoabilidade (por forçar o pronunciamento adiantado da Instância Superior e suprimir a jurisdição da Inferior, em subversão à regular ordem de competências). Na espécie, não há situação extraordinária que justifique a reforma da decisão em que se indeferiu liminarmente a petição inicial.
+2.  ..
+3. Agravo regimental desprovido.
+(AgRg no HC n. 763.329/SP, Rel. Ministra Laurita Vaz, Sexta Turma, DJe de 27.9.2022.)
+No caso, a situação dos autos não apresenta nenhuma excepcionalidade a justificar a prematura intervenção desta Corte Superior e superação do referido verbete sumular. Deve-se, por ora, aguardar o esgotamento da jurisdição do Tribunal de origem.
+Ante o exposto, com fundamento no art. 21-E, IV, c/c o art. 210, ambos do RISTJ, indefiro liminarmente o presente Habeas Corpus.
+Cientifique-se o Ministério Público Federal.
+Publique-se.
+Intimem-se.
+ EMENTA
