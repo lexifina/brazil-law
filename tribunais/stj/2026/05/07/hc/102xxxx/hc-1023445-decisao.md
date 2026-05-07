@@ -1,0 +1,52 @@
+DECISÃO
+Trata-se de habeas corpus substitutivo de recurso próprio, com pedido de liminar, impetrado em favor de DÉBORA PIMENTEL OLIVEIRA, no qual aponta como autoridade coatora o Tribunal de Justiça do Estado do Paraná, que deu provimento ao agravo em execução penal interposto pelo Ministério Público, nos termos do acórdão assim ementado (fls. 15):
+"AGRAVO EM EXECUÇÃO PENAL - ART. 288 DO CÓDIGO PENAL - ASSOCIAÇÃO CRIMINOSA - DECISÃO QUE DEFERIU O PEDIDO DE PRISÃO DOMICILIAR EM FAVOR DA APENADA - INSURGÊNCIA MINISTERIAL - ALEGAÇÃO DE QUE A SENTENCIADA NÃO SE ENQUADRA NAS HIPÓTESES DA PRISÃO DOMICILIAR - ACOLHIMENTO - AUSÊNCIA DE COMPROVAÇÃO DE QUE A PRESENÇA DA AGRAVADA SEJA INDISPENSÁVEL AOS CUIDADOS DA GENITORA - SENTENCIADA QUE NÃO É FILHA ÚNICA - ADEMAIS, IDOSA QUE CONTA COM O AUXÍLIO DE UMA CUIDADORA QUE LHE PRESTA ASSISTÊNCIA E CUIDADOS - OBSERVÂNCIA AO QUE DETERMINA O ART. 117 DA LEI DE EXECUÇÕES PENAIS - POR FIM, AGRAVADA QUE VIOLOU AS CONDIÇÕES ESTABELECIDAS PARA A PRISÃO DOMICILIAR, APRESENTANDO JUSTIFICATIVA INSUFICIENTE - DECISÃO QUE DEVE SER REFORMADA - RECURSO CONHECIDO E PROVIDO PARA REVOGAR A DECISÃO QUE CONCEDEU A PRISÃO DOMICILIAR."
+Neste writ, o impetrante alega constrangimento ilegal suportado pela paciente, em decorrência da revogação da prisão domiciliar humanitária sem fundamentação idônea e sem adequada análise dos documentos.
+Afirma: (i) a imprescindibilidade da paciente nos cuidados diários e pessoais de sua genitora, idosa portadora de demência avançada e epilepsia focal, sem rede de apoio; (ii) a possibilidade de flexibilização humanitária do art. 117 da LEP à luz de direitos fundamentais; (iii) a violação aos princípios da dignidade da pessoa humana e da proporcionalidade na execução penal;
+Sustenta ofensa aos arts. 1º, III, 5º, XLIX e 227 da CR/1988; aos arts. 3º e 10 do Estatuto do Idoso; aos arts. 117 da LEP e 318 do CPP, invocando precedentes do STJ e STF que admitem a prisão domiciliar humanitária em hipóteses excepcionais.
+(fls. 5, 8-12). Transcreve, inclusive, o texto legal do art. 117 da LEP: "Poderá o juiz da execução permitir ao condenado o cumprimento da pena em regime domiciliar nos seguintes casos: ( ) V - quando houver a necessidade de assistência à pessoa doente da família." (fls. 11). Aponta ainda precedentes: STJ, HC 521.663/RO e HC 580.196/SP, quanto à interpretação extensiva e excepcional do art. 117 da LEP (fls. 5); STJ, HC 514.465/SP, sobre a concessão da domiciliar à apenada única responsável por familiar doente (fls. 9, 12); e STF, HC 143.641/SP, reconhecendo a possibilidade de prisão domiciliar para mulheres responsáveis por familiares vulneráveis (fls. 9).
+Requer, ao final, o restabelecimento da prisão domiciliar, com monitoramento eletrônico e demais condições de fiscalização.
+A liminar foi indeferida.
+Prestadas as informações, os autos foram remetidos ao Ministério Público Federal, que se manifestou pela concessão da ordem.
+É o relatório.
+Decido.
+Esta Corte - HC n. 535.063/SP, Terceira Seção, relator Ministro Sebastião Reis Junior, julgado em 10/6/2020, DJe de 25/8/2020 - e o Supremo Tribunal Federal - AgRg no HC n. 180.365/PB, Primeira Turma, relatora Ministra Rosa Weber, julgado em 27/3/2020, DJe de 2/4/2020; AgRg no HC n. 147.210/SP, Segunda Turma, relator Ministro Edson Fachin, julgado em 30/10/2018, DJe de 20/2/2020 -, pacificaram orientação no sentido de que não cabe habeas corpus substitutivo do recurso legalmente previsto para a hipótese, impondo-se o não conhecimento da impetração, salvo quando constatada a existência de flagrante ilegalidade no ato judicial impugnado.
+Passo à análise das razões da impetração, de forma a verificar a ocorrência de flagrante ilegalidade a justificar a concessão do habeas corpus, de ofício.
+De acordo com o art. 117 da LEP, a prisão domiciliar é deferida aos condenados nas seguintes hipóteses:
+"Art. 117. Somente se admitirá o recolhimento do beneficiário de regime aberto em residência particular quando se tratar de:
+I - condenado maior de 70 (setenta) anos;
+II - condenado acometido de doença grave;
+III - condenada com filho menor ou deficiente físico ou mental;
+IV - condenada gestante."
+Excepcionalmente, o Superior Tribunal de Justiça entende que, embora o art. 117 da LEP estabeleça como requisito para a concessão de prisão domiciliar o cumprimento da pena no regime prisional aberto, é possível a extensão do benefício aos condenados recolhidos no regime fechado ou semiaberto em hipóteses excepcionais, nas quais se demonstre a imprescindibilidade da medida.
+Nesse sentido:
+"PROCESSO PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO PENAL. PRISÃO DOMICILIAR HUMANITÁRIA PARA CUIDAR DE GENITORA IDOSA. AUSÊNCIA DE PROVA INEQUÍVOCA DA IMPRESCINDIBILIDADE. HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. NÃO CONHECIMENTO. INVIABILIDADE DE REVOLVIMENTO FÁTICO-PROBATÓRIO. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. O habeas corpus não pode ser utilizado como substituto de recurso próprio, impondo-se o não conhecimento da ordem, salvo em caso de flagrante ilegalidade.
+2. A prisão domiciliar humanitária em execução penal, inclusive em regimes fechado ou semiaberto, somente é admitida em situações excepcionalíssimas, quando demonstrada, de forma inequívoca, a imprescindibilidade da medida, o que não se verificou no caso.
+3. A alteração das conclusões das instâncias ordinárias sobre a inexistência de prova da indispensabilidade do agravante para os cuidados de sua genitora demandaria revolvimento fático-probatório, providência incompatível com a via estreita do habeas corpus (AgRg no HC n. 592.361/DF, relatora Ministra Laurita Vaz, Sexta Turma, DJe de 1/3/2021; AgRg no HC n. 863.668/RS, relator Ministro Rogerio Schietti Cruz, Sexta Turma, DJe de 7/12/2023).
+4. Agravo regimental não provido."
+(AgRg no HC n. 1.080.120/SC, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 22/4/2026, DJEN de 27/4/2026.)
+"AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. EXECUÇÃO PENAL. VIOLAÇÃO DOS ARTS. 117 E 185 DA LEI N. 7.210/1984. PRETENSÃO DE PRISÃO DOMICILIAR. REGIME FECHADO. SITUAÇÃO EXCEPCIONAL NÃO COMPROVADA. ÓBICE DO REVOLVIMENTO FÁTICO-PROBATÓRIO. INCIDÊNCIA DA SÚMULA N. 7/STJ. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. Esta Corte Superior de Justiça tem entendimento no sentido de que, embora o art. 117 da Lei de Execuções Penais estabeleça como requisito para a concessão de prisão domiciliar o cumprimento da pena no regime prisional aberto, é possível a extensão do benefício aos condenados recolhidos no regime fechado ou semiaberto, desde que configurada a excepcionalidade do caso concreto, e com demonstração da imprescindibilidade da medida.
+2. No caso concreto, o agravante não demonstrou situação excepcional apta a flexibilizar a regra disposta no art. 117 da Lei de Execuções Penais, o que impõe a manutenção do quanto decidido pelas instâncias originárias.
+3. Para se concluir de modo contrário e acolher o pleito defensivo, seria necessário o revolvimento fático-probatório, providência vedada conforme Súmula n. 7/STJ.
+4. Agravo regimental não provido."
+(AgRg no AREsp n. 2.699.555/TO, relator Ministro Otávio de Almeida Toledo (Desembargador Convocado do TJSP), Sexta Turma, julgado em 18/12/2024, DJEN de 23/12/2024.)
+"AGRAVO REGIMENTAL NO HABEAS CORPUS. HOMICÍDIO QUALIFICADO. EXECUÇÃO DE PENAS. PLEITO DE CUMPRIMENTO DE PENA DEFINITIVA EM PRISÃO DOMICILIAR. PEDIDO SUBSIDIÁRIO DE EXPEDIÇÃO DE GUIA DEFINITIVA INDEPENDENTEMENTE DA PRISÃO DO AGRAVANTE. IMPOSSIBILIDADE. CASO CONCRETO. EXCEPCIONALIDADE NÃO DEMONSTRADA NOS DOIS PEDIDOS. SÚMULA N. 182, STJ. AGRAVO DESPROVIDO.
+ ..
+III - No caso concreto, o acórdão combatido está em consonância com a legislação de regência e o entendimento desta Corte, não se vislumbrando, a existência de situação excepcional.
+IV - Este Tribunal Superior tem posicionamento no sentido de que, embora o art. 117 da Lei de Execuções Penais estabeleça, como requisito para a concessão da prisão domiciliar, o cumprimento da pena no regime aberto, é possível a extensão de tal benefício aos sentenciados recolhidos no regime fechado ou semiaberto, quando as peculiaridades concretas do caso demonstrarem a sua imprescindibilidade. Precedentes.
+V - O Tribunal de origem, novamente, indeferiu o pedido de prisão domiciliar, ressaltando não ser a hipótese situação concreta autorizadora, em exceção à regra legal.
+Agravo regimental desprovido."
+(AgRg no HC n. 855.296/BA, relator Ministro Messod Azulay Neto, Quinta Turma, julgado em 20/5/2024, DJe de 24/5/2024.)
+No caso dos autos, todavia, o Tribunal de origem consignou a inexistência de imprescindibilidade da paciente aos cuidados da mãe, aos seguintes fundamentos:
+"E, em que pese as alegações defensivas, no sentido de que a agravada é filha única e sua genitora pessoa idosa, o fato é que inexistem nos autos provas de que DÉBORA seria a única pessoa responsável pelos cuidados da mãe.
+Ademais, a agravada possui condenação de 36 anos, 7 meses e 26 dias de reclusão pelos crimes de estelionato, por oito vezes, corrupção ativa, por cinco vezes, formação de quadrilha e associação criminosa, em onze ações penais, com previsão de progressão ao regime semiaberto em 26/06/2028.
+E como muito bem pontuado pelo ilustre Membro do Ministério Público, "é reconhecida pela jurisprudência a possibilidade de implantação de sentenciadas em regime fechado em prisão domiciliar quando verificada a real necessidade em casos concretos, contudo, na hipótese dos autos não restou demonstrada sua imprescindibilidade aos cuidados com sua progenitora, posto que se tem notícia de auxílio prestado por cuidadora e também a informação do filho Claudecir, conforme vídeo juntado ao mov. 227.25, o qual tem o dever de cuidado, portanto, a agravada não cumpre os requisitos para a prisão domiciliar".
+ ..
+Por fim, oportuno mencionar que Débora já violou as condições estabelecidas para a prisão domiciliar e justificou que precisou comparecer na Polícia Federal e na agência bancária (evento 258 autos nº 4002215-89.2023.8.16.4321), justificativa essa considerada insuficiente pelo Ministério Público." (e-STJ, fls. 20-22)
+Por fim, cabe ressaltar que o afastamento das conclusões adotadas pelas instâncias de origem, a fim de se acolher as teses defensivas, enseja o inevitável reexame fático-probatório, inadmissível na via estreita do writ.
+Nesse contexto, não se constata flagrante ilegalidade apta a ensejar a concessão da ordem, de ofício.
+Ante o exposto, não conheço do habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
