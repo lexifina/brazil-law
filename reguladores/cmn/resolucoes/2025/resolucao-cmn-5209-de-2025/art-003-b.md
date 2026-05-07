@@ -1,0 +1,1 @@
+Art. 3º-B Ficam dispensadas da exigência de cobertura securitária e de prestação de garantia as operações de que trata o art. 1º, caput, inciso II, desde que não se enquadrem no Sistema Financeiro da Habitação – SFH e no Sistema de Financiamento Imobiliário – SFI, nos termos da Resolução nº 4.676, de 31 de julho de 2018. (Incluído pela Resolução CMN nº 5.254, de 10/10/2025.)
