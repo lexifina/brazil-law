@@ -1,0 +1,32 @@
+DECISÃO: Trata-se de agravo interposto contra decisão de inadmissibilidade do recurso extraordinário, com base no art. 102, III, “a”, da Constituição Federal, apresentado por Isaías Baptista e Outro(a/s), em face do acórdão do Tribunal Regional Federal da 2ª Região assim ementado:
+
+“PROCESSUAL CIVIL. PREVIDENCIÁRIO. AÇÃO RESCISÓRIA. ART. 966, V, DO NCPC. DECADÊNCIA. CORREÇÃO MONETÁRIA. TAXA REFERENCIAL. LEI N. 11.960/2009. TEMA 810 STF. DECURSO DO PRAZO DECADENCIAL. ART. 975 DO CPC. SUMULA 401 DO STJ. 1. Ação rescisória proposta pela parte autora, com base no artigo 966, V, do CPC, visando desconstituir parcialmente o v. acórdão proferido nos autos da ação previdenciária movida em face do INSS – Instituto Nacional do Seguro Social, na qual determinou para a atualização dos valores, a aplicação de juros de mora e correção monetária, na forma da Lei nº 11.960/2009. 2. Constata-se dos autos, que, quando da propositura desta ação, já havia se esgotado o prazo de 02 (dois) anos para o ajuizamento da ação rescisória, nos termos do artigo 975 do CPC e Súmula 401 do STJ. 3. A previsão do artigo 525, § 15, do CPC trata de matéria de defesa exclusiva do executado. Não sendo a parte autora o destinatário da ação rescisória prevista no referida norma, em se tratando da parte exequente, não cabe a rescisão do julgado com espeque no referido dispositivo legal. 4. Em face de sua interposição a destempo, deve ser reconhecida a decadência do direito do autor à pretensão rescisória. 5. Extinção do processo, com resolução do mérito, nos termos do artigo 487, II, C/C artigo 975, ambos do CPC, ante o reconhecimento da decadência.” (Ação Rescisória nº 0002511-75.2020.4.02.0000/RJ, 4ª Seção Especializada, Rel. Juiz Federal Rogério Tobias de Carvalho, j. 11.10.2024)
+
+Na minuta, sustenta-se violação do art. 5º, caput, XXXV, da Constituição da República, bem como contrariedade ao Tema 810 da Repercussão Geral.
+É o relatório.
+Decido.
+O recurso não comporta seguimento.
+Da análise dos autos, verifica-se que o Tribunal de origem extinguiu o processo, com resolução do mérito, aos seguintes fundamentos:
+
+“Inicialmente, verifica-se que o v. acórdão rescindendo transitou em julgado em 28/11/2017, conforme certidão, no evento 1.7. Não há que se contar o prazo decadencial a partir do trânsito em julgado da decisão proferida no RE 870.947/SE pelo STF, a qual declarou a inconstitucionalidade do uso da TR como fator de correção monetária, em 03/03/2020, como alegado pela parte autora, pois não há previsão legal para tanto.
+Depreende-se, portanto, que quando da propositura desta ação em 17/12/2020, já havia se esgotado o prazo de 02 (dois) anos para o ajuizamento da ação rescisória, nos termos do artigo 975 do CPC e Súmula 401 do STJ.
+Registre-se não ser possível superar o esgotamento do prazo decadencial, com suporte no artigo 525, do CPC, uma vez que este assim determina:
+[...]
+Isto porque o referido dispositivo trata de matéria de defesa exclusiva do executado. Deste modo, em se tratando a parte autora da presente ação rescisória, da parte exequente, naqueles autos, não pode a mesma se valer da referida norma legal.
+[...]
+Desta forma, não sendo a parte autora o destinatário da ação rescisória prevista no artigo 525, § 15, do Código de Processo Civil, não cabe a rescisão do julgado com espeque no referido dispositivo legal.”
+
+Nesse cenário, a revisão das premissas adotadas pelo Tribunal de origem demandaria o revolvimento da moldura fática delineada, bem como a análise da legislação infraconstitucional aplicável, o que torna oblíqua e reflexa eventual ofensa, insuscetível, portanto, de viabilizar o conhecimento do recurso extraordinário. Aplicação das Súmulas nº 279 e 636/STF: “para simples reexame de prova não cabe recurso extraordinário” e “não cabe recurso extraordinário por contrariedade ao princípio constitucional da legalidade, quando a sua verificação pressuponha rever a interpretação dada a normas infraconstitucionais pela decisão recorrida”. Nesse sentido:
+
+“Direito processual civil. Agravo interno em recurso extraordinário com agravo. Ação rescisória. Decadência. Matéria infraconstitucional. Necessidade de reexame do conjunto fático-probatório. Incidência da Súmula n° 279/STF. 1. Agravo interno contra decisão que negou seguimento a recurso extraordinário interposto para impugnar acórdão o qual extinguiu ação rescisória sem julgamento de mérito, em razão de decurso de prazo decadencial. 2. Hipótese em que, para dissentir do entendimento firmado pelo Tribunal de origem, seria necessário analisar a legislação infraconstitucional aplicada ao caso, assim como reexaminar fatos e provas constantes dos autos, procedimentos vedados neste momento processual (Súmulas nº 279 e 280/STF). 3. Nos termos do art. 85, § 11, do CPC/2015, fica majorado em 10% o valor da verba honorária fixada anteriormente, observados os limites legais do art. 85, §§ 2º e 3º, do CPC/2015. 4. Agravo interno a que se nega provimento, com a aplicação da multa de 1% (um por cento) sobre o valor atualizado da causa, nos termos do art. 1.021, § 4°, do CPC/2015.” (ARE 1463451 AgR, Relator(a): LUÍS ROBERTO BARROSO (Presidente), Tribunal Pleno, DJe 29-02-2024)
+“AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. PROCESSUAL CIVIL. AÇÃO RESCISÓRIA. DECADÊNCIA. AUSÊNCIA DE OFENSA CONSTITUCIONAL DIRETA. PRESSUPOSTOS DE ADMISSIBILIDADE DA AÇÃO RESCISÓRIA E ALEGADA CONTRARIEDADE AO INC. XXXV DO ART. 5º DA CONSTITUIÇÃO DA REPÚBLICA. MATÉRIAS INFRACONSTITUCIONAIS: INEXISTÊNCIA DE REPERCUSSÃO GERAL – TEMAS 248 E 895. APLICAÇÃO DO TEMA 810: INVIABILIDADE. ÓBICES JURÍDICOS IMPEDITIVOS AO REGULAR PROCESSAMENTO DO RECURSO. DECISÃO AGRAVADA MANTIDA. AGRAVO REGIMENTAL NÃO CONHECIDO, COM DETERMINAÇÃO DE CERTIFICAÇÃO DO TRÂNSITO EM JULGADO E BAIXA IMEDIATA DO PROCESSO À ORIGEM, INDEPENDENTE DA PUBLICAÇÃO DO ACÓRDÃO.” (ARE 1572738 AgR, Relator(a): CÁRMEN LÚCIA, Primeira Turma, DJe 04-12-2025)
+
+Diante do exposto, com base no art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal, nego seguimento ao recurso.
+Havendo prévia fixação de honorários advocatícios pelas instâncias de origem, seu valor monetário será majorado em 10% (dez por cento) em desfavor da parte recorrente, nos termos do art. 85, § 11, do Código de Processo Civil, observados os limites dos §§ 2º e 3º do referido artigo e a eventual concessão de justiça gratuita.
+Publique-se.
+
+Brasília, 7 de maio de 2026.
+
+Ministro FLÁVIO DINO
+Relator
+Documento assinado digitalmente
