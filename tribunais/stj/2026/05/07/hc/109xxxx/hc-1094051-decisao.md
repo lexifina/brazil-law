@@ -1,0 +1,13 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em nome de JOSE RIBEIRO NETO, no qual se aponta como autoridade coatora o Tribunal de Justiça do Estado de Mato Grosso, que, em 29/9/2022, negou provimento aos recursos defensivos e deu parcial provimento ao recurso ministerial, condenando o paciente à pena de 26 anos e 10 dias de reclusão, e pagamento de 11 dias-multa, pela prática de três delitos de tentativa de latrocínio e do crime de corrupção de menores.
+Alega, em síntese, ilegalidades na dosimetria da pena, argumentando que a pena-base foi fixada acima do mínimo legal por indevida valoração das vetoriais da culpabilidade, da conduta social e da personalidade do agente, e, quanto à vetorial das circunstâncias do crime, pela dupla valoração nas 1ª e na 3ª fases da dosimetria.
+Requer, inclusive liminarmente, a fixação da pena-base no mínimo legal.
+Ocorre que o habeas corpus foi manejado como sucedâneo de revisão criminal e como não existe, neste Tribunal, julgamento de mérito passível de revisão em relação à condenação sofrida pelo paciente, é forçoso reconhecer a incompetência desta Corte Superior para processar o presente pedido.
+Sobre o tema, há precedentes do Superior Tribunal de Justiça e do Supremo Tribunal Federal, como, por exemplo, AgRg no HC n. 561.185/SP, da minha relatoria, Sexta Turma, DJe 16/3/2020; AgRg no HC n. 459.677/RS, Ministro Ribeiro Dantas, Quinta Turma, DJe 10/3/2020; HC n. 193.451, Relator p/ o acórdão Ministro Alexandre de Moraes, Primeira Turma, DJe 14/4/2021; e RHC n. 186.497 AgR, Ministra Rosa Weber, Primeira Turma, DJe 7/12/2020.
+Ademais, consoante jurisprudência desta Corte Superior, o não cabimento do writ substitutivo de revisão criminal é corroborado quando o impetrante não indica que as razões de pedir estão previstas em alguma das hipóteses do art. 621 do CPP, como no presente caso (HC n. 829.748/GO, Ministro Rogerio Schietti Cruz, Sexta Turma, DJe de 11/12/2023).
+Além disso não há ilegalidade flagrante que justifique a concessão de habeas corpus de ofício e a consequente superação dos óbices constatados, na medida em que é firme jurisprudência desta Casa no sentido da prevalência da discricionariedade do julgador no momento da dosimetria da pena.
+Ante o exposto, indefiro liminarmente a petição inicial (art. 210 do RISTJ).
+Publique-se.
+EMENTA
+HABEAS CORPUS. TENTATIVA DE LATROCÍNIO (POR TRÊS VEZES) E CORRUPÇÃO DE MENORES. WRIT IMPETRADO CONTRA ACÓRDÃO TRANSITADO EM JULGADO. MANDAMUS SUBSTITUTIVO DE REVISÃO CRIMINAL. NÃO INAUGURADA A COMPETÊNCIA DO STJ. INADMISSIBILIDADE. AUSÊNCIA DE INDICAÇÃO DE SITUAÇÕES PREVISTAS NO ART. 621 DO CPP. DOSIMETRIA DA PENA. AUSÊNCIA DE CONSTRANGIMENTO ILEGAL MANIFESTO. PREVALÊNCIA DA DISCRICIONARIEDADE DO JULGADOR.
+Inicial indeferida liminarmente.
