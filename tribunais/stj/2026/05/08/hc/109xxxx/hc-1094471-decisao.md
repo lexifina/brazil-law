@@ -1,0 +1,19 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em nome de AROLDO JOSE DA SILVA, condenado pelo crime de roubo majorado tentado, à pena de 5 anos, 5 meses e 10 dias de reclusão, em regime inicial fechado, além de 12 dias-multa (Processo n. 1516979-12.2022.8.26.0577, da 1ª Vara Criminal de São José dos Campos/SP).
+O impetrante aponta como autoridade coatora o Tribunal de Justiça de São Paulo, que negou provimento à apelação da defesa, mantendo a condenação e rejeitando o pedido de prisão domiciliar (fls. 36/43).
+Sustenta a ilegalidade do encarceramento diante do estado de saúde grave do paciente, bem como a incompatibilidade estrutural do ambiente prisional com o tratamento necessário às enfermidades do paciente, detalhando a exigência de protocolos e terapias não disponíveis intramuros para tuberculose ativa, hepatite C, pneumonia e dependência química.
+Aponta o estado de coisas inconstitucional do sistema penitenciário, reconhecido pelo Supremo Tribunal Federal na ADPF n. 347/DF, como fundamento para afastar a manutenção da custódia em condições desumanas e sem assistência adequada.
+Refuta os fundamentos das instâncias ordinárias - maus antecedentes e reincidência, periculosidade, ausência de prova da inadequação do sistema, gravidade do crime - afirmando que tais argumentos não impedem a prisão domiciliar por doença grave e que o direito à saúde e à vida prevalece.
+Defende a proporcionalidade e a adequação da monitoração eletrônica como medida alternativa à prisão, cumulável com condições.
+Pede, em caráter liminar e no mérito: a) prisão domiciliar humanitária com expedição imediata de alvará de soltura; b) subsidiariamente, monitoração eletrônica; c) ainda subsidiariamente, transferência imediata para estabelecimento hospitalar público adequado.
+É o relatório.
+O writ é inadmissível, pois foram opostos embargos de declaração na origem, que pendem de julgamento.
+A prestação jurisdicional do Tribunal estadual não está encerrada, não cabe ao Superior Tribunal de Justiça se antecipar na análise das alegações trazidas neste habeas corpus, sobretudo porque não emerge dos autos nenhuma ilegalidade manifesta.
+A Corte a quo indeferiu a prisão domiciliar, por ausência de comprovação de que o tratamento médico necessário não poderia ser ministrado de forma adequada no estabelecimento prisional. Assinalou que o art. 117 da Lei de Execução Penal se aplica ao regime aberto, admitindo-se excepcionalmente o regime domiciliar por doença grave apenas quando demonstrada a impossibilidade de assistência intramuros, o que não se verificou no caso.
+Na espécie, também não há comprovação de que tenha sido sequer solicitado à Secretaria de Administração Penitenciária o atendimento médico necessário às necessidades de saúde do paciente. A via eleita exige prova pré-constituída das alegações, não se presta a dilação probatória.
+Por fim, não houve manifestação no acórdão sobre o alegado estado de coisas inconstitucional do sistema penitenciário, nem acerca das ditas condições desumanas a que está submetido o paciente, tampouco sobre a possibilidade de monitoração eletrônica, muito menos a respeito dos fundamentos da prisão preventiva. É indevida a pretendida supressão de instância.
+À vista do disposto no art. 210 do RISTJ, indefiro liminarmente a petição inicial.
+Publique-se.
+EMENTA
+DIREITO PENAL E PROCESSUAL PENAL. HABEAS CORPUS. ROUBO MAJORADO TENTADO. INADMISSIBILIDADE DO WRIT. PENDÊNCIA DE EMBARGOS DE DECLARAÇÃO NA ORIGEM. PRESTAÇÃO JURISDICIONAL NÃO ENCERRADA NO TJSP. AUSÊNCIA DE ILEGALIDADE MANIFESTA. PRISÃO DOMICILIAR. INSUFICIÊNCIA DE PROVA DA IMPOSSIBILIDADE DE TRATAMENTO MÉDICO INTRAMUROS. VIA ESTREITA. NECESSIDADE DE PROVA PRÉ-CONSTITUÍDA. INADEQUAÇÃO DA VIA PARA DILAÇÃO PROBATÓRIA. SUPRESSÃO DE INSTÂNCIA QUANTO A ESTADO DE COISAS INCONSTITUCIONAL, CONDIÇÕES DESUMANAS, MONITORAÇÃO ELETRÔNICA E FUNDAMENTOS DA PRISÃO PREVENTIVA.
+Habeas corpus indeferido liminarmente.
