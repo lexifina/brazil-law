@@ -1,0 +1,591 @@
+Poder Judiciário
+Justiça do Trabalho
+${SVNOMEORGAO}
+PROCESSO Nº TST-Ag-AIRR - 612-89.2021.5.17.0005
+A C Ó R D Ã O
+7ª Turma
+GDCJPC/ga
+AGRAVO. AGRAVO DE INSTRUMENTO EM RECURSO DE
+REVISTA. ADICIONAL DE RISCO. TRABALHADOR PORTUÁRIO.
+TEMA 222 DA TABELA DE REPERCUSSÃO GERAL DO SUPREMO
+TRIBUNAL FEDERAL. TRANSCENDÊNCIA NÃO RECONHECIDA.
+DESPROVIMENTO.
+1. O Supremo Tribunal Federal, no julgamento do RE nº
+597.124/PR (Tema nº 222 da tabela de Repercussão Geral), fixou
+a seguinte tese: "Sempre que for pago ao trabalhador com vínculo
+permanente, o adicional de riscos é devido, nos mesmos termos, ao
+trabalhador portuário avulso".
+2. Na oportunidade, definiu-se que, malgrado previsto na Lei n.º
+4.860/65 que o adicional de risco seria devido, tão somente, os
+trabalhadores com vínculo permanente, a parcela seria também
+devida, por imposição isonômica constitucional, aos
+trabalhadores portuários avulsos. Destacou-se, na ocasião, que
+não há falar em distinção de diretos a trabalhadores submetidos
+às mesmas condições, sob pena de afronta ao princípio da
+isonomia, nos termos do inciso XXXIV do artigo 7º da
+Constituição da República.
+3. Da ratio decidendi, emerge a conclusão de que a parcela é
+devida quando constatado o risco, sendo despicienda a
+natureza do vínculo – trabalhador permanente ou avulso -,
+tampouco a natureza do terminal portuário em que se deu a
+prestação de serviços.
+4. Indene de dúvidas que, nos termos do entendimento fixado
+pelo Supremo Tribunal Federal, o direito ao adicional de risco
+está atrelado, tão somente, às reais condições da prestação de
+serviços, ou seja, exige-se tão somente o labor em área de risco
+no âmbito dos portos. Não há falar em necessidade de prova
+das reais condições a que se encontra submetido determinado
+trabalhador com vínculo permanente, como requisito para o
+reconhecimento do direito ao adicional.
+5. No caso dos autos, desponta do acórdão regional a conclusão
+de que a prova técnica comprovou que o trabalhador
+desempenhou suas atividades laborais em área de risco
+portuário. Assim, deve ser mantida a decisão agravada, em
+observância ao entendimento vinculante fixado pelo Supremo
+Tribunal Federal no julgamento do Tema 222 da Tabela de
+Repercussão Geral.
+Agravo conhecido e desprovido.
+Vistos, relatados e discutidos estes autos de Agravo em Agravo de Instrumento
+em Recurso de Revista nº TST-Ag-AIRR - 612-89.2021.5.17.0005, em que é Agravante TOP SERVICE
+SERVIÇOS E SISTEMAS S.A. e é Agravado JOAO CARLOS SOARES. Este documento pode ser acessado no endereço eletrônico http://www.tst.jus.br/validador sob código 10067203C3E1140AAB.
+Trata-se de agravo interposto contra decisão monocrática proferida pelo Exmo.
+Ministro Evandro Valadão, mediante a qual se negou provimento ao agravo de instrumento.
+Contrarrazões apresentadas.
+É o relatório.
+V O T O
+CONHECIMENTO
+Presentes seus pressupostos objetivos e subjetivos, conheço do agravo.
+MÉRITO
+Trata-se de agravo interposto em face de decisão monocrática, mediante a qual
+foi negado provimento ao agravo de instrumento, com base nos seguintes fundamentos:
+D E C I S Ã O
+Trata-se de agravo de instrumento interposto pela parte reclamada em face de decisão em que
+se denegou seguimento ao recurso de revista.
+A publicação do acórdão regional deu-se na vigência da Lei nº 13.467/2017.
+Não houve apresentação de contraminuta nem contrarrazões.
+Os autos não foram remetidos à Procuradoria-Geral do Trabalho, porquanto ausentes as
+circunstâncias previstas no art. 95 do Regimento Interno do TST.
+Atendidos os pressupostos extrínsecos, conheço do agravo de instrumento.
+As razões apresentadas no agravo de instrumento não ensejam o manejo do recurso de
+revista, porque não atendidos os requisitos do art. 896 da CLT.
+O exame da decisão agravada em confronto com as razões do recurso de revista e com o
+consignado no acórdão regional evidencia que, de fato, o recurso não merece seguimento.
+As alegações constantes da minuta do agravo de instrumento não trazem argumentos capazes
+de demonstrar equívoco ou desacerto na decisão agravada, tampouco permitem que se reconheça a
+transcendência da causa, como se verá a seguir:
+PRESSUPOSTOS EXTRÍNSECOS
+Tempestivo o recurso (ciência da decisão em 02/03/2023 - Id 71a9b41; petição recursal
+apresentada em 14/03/2023 - Id 3101c88).
+Regular a representação processual (Id ad63371).
+Satisfeito o preparo (Id 0e7cff5, 65fa121 , 221503e, a605f58, 2fb2f3d, b8a05e6 e 4b46dc4 ).
+PRESSUPOSTOS INTRÍNSECOS
+REMUNERAÇÃO, VERBAS INDENIZATÓRIAS E BENEFÍCIOS (2581) / ADICIONAL (2594) /
+ADICIONAL DE RISCO
+Alegação(ões):
+- violação ao artigo 5º, II, da CF
+- violação aos artigos 13, 14 e 19, da Lei nº 4.860/65
+- contrariedade à OJ nº 402, da SDI_I, do TST
+- divergência jurisprudencial
+A recorrente pugna pela reforma do julgado quanto à condenação ao pagamento de adicional
+de risco portuário ao trabalhador recorrido. Aduz que o reclamante trabalhava nas instalações da
+VALE, que opera seus serviços no Complexo portuário de Tubarão/Praia Mole, não se tratando de
+porto organizado.
+Ante a restrição do artigo 896, § 9º, da CLT, mostra-se inviável, em processos que tramitam sob
+o rito sumaríssimo, a análise de violação à legislação infraconstitucional e divergência jurisprudencial
+com OJ's da SDI-I do TST (Súmula 442 /TST) ou com ementas.
+A alegada ofensa ao artigo 5º, inciso II, da Constituição Federal, que consagra o princípio da
+legalidade, não se caracteriza diretamente, como exige o artigo 896 da Consolidação das Leis do
+Trabalho. Eventual afronta ao dispositivo constitucional seria apenas reflexa, o que não enseja a
+admissibilidade do recurso de revista.
+CONCLUSÃO
+DENEGO seguimento ao recurso de revista.
+(marcador “despacho de admissibilidade” do documento eletrônico).
+À luz das circunstâncias dos presentes autos, verifica-se que as questões jurídicas debatidas no
+recurso de revista não oferecem transcendência, seja no seu vetor político - não se detecta
+contrariedade a súmula, orientação jurisprudencial ou precedente de observância obrigatória;
+jurídico - não se busca a interpretação de lei nova ou de questão não pacificada; econômico - o valor
+da causa ou da pretensão recursal não se qualificam como elevados para a caracterização da
+transcendência por este vetor; ou social - não se busca a preservação de direitos sociais
+constitucionais supostamente violados de maneira intolerável.
+Acentua-se, como reforço decisório, a manutenção da decisão pelos seus próprios
+fundamentos. A técnica de “decisão referenciada” (per relationem), a propósito, é autorizada pelo
+Supremo Tribunal (AI-QO-RG 791.292-PE, Relator Ministro Gilmar Mendes, DJ de 13/8/2010; HC
+130860 AgR, Relator Ministro Alexandre de Moraes, Primeira Turma, DJe-247 de 27/10/2017; HC
+Este documento pode ser acessado no endereço eletrônico http://www.tst.jus.br/validador sob código 10067203C3E1140AAB.
+142435 AgR, Relator Ministro Dias Toffoli, Segunda Turma, DJe-139 de 26/6/2017).
+Diante do exposto, e nos termos dos arts. 896, § 14, e 896-A da CLT, 932, III, IV e V, do CPC de
+2015 e 251, I, II e III, do Regimento Interno desta Corte Superior, conheço do agravo de instrumento e
+nego-lhe provimento.
+Nas razões do agravo interno, a parte sustenta, em síntese, que a decisão
+monocrática não apreciou adequadamente as teses veiculadas no agravo de instrumento.
+A parte alega que o Tribunal Regional do Trabalho (TRT) entendeu que os
+trabalhadores de terminais privativos têm direito ao adicional de risco portuário. Afirma que a decisão
+afronta o art. 5º, II, da CF/88, pois viola o princípio da legalidade.
+Ao exame.
+Trata-se de controvérsia relacionada ao pagamento do adicional de risco
+portuário ao trabalhador que exercia suas atividades laborais no Porto de Praia Mole.
+A Corte de origem, amparada na Súmula n° 55 do Tribunal Regional do Trabalho
+da 17
+a Região, condenou a reclamada ao pagamento de adicional de risco.
+Para tanto, consignou os seguintes fundamentos:
+O artigo 14 da Lei nº 4.860/1965 diz o seguinte:
+A fim de remunerar os riscos relativos à insalubridade, periculosidade e outros
+porventura existentes, fica instituído o "adicional de riscos" de 40% (quarenta por cento)
+que incidirá sobre o valor do salário-hora ordinário do período diurno e substituirá todos
+aqueles que, com sentido ou caráter idêntico, vinham sendo pagos.
+Na perícia realizada especificamente para este processo, o perito judicial consignou em seu
+laudo de Id 0375163:
+O reclamante laborou para a reclamada nas dependências da empresa VALE no
+terminal de Praia Mole - TPM e no píer de carvão.
+Atividades exercidas pelo reclamante:
+Fazer a limpeza de estruturas e das vias de circulação de veículos, utilizando mangueira com água pressurizada;
+Realizar a limpeza de convés e dos porões dos navios;
+Observações complementares:
+Em suas atividades o Reclamante utilizava ferramenta manual tais como: enxada,
+pá e carrinho de mão.
+O reclamante transitava entre a retro área e no costado para se dirigir ao convés e
+porões dos navios.
+Quanto ao risco portuário, concluiu o Perito:
+Pelo que ficou apurado na diligência pericial e avaliação das atividades
+desempenhadas pelo reclamante, concluímos que:
+As atividades do reclamante FORAM desenvolvidas em área portuária privada da
+vale de forma habitual, estando as mesmas enquadradas em "Outros riscos porventura
+existentes" previstos no art. 14 da Lei 8.630/93. Contudo, devido às várias interpretações
+no que se refere às definições de "Porto Privativo e Porto Organizado", este perito DEIXA
+A CARGO DESTE JUÍZO A DECISÃO SOBRE O REFERIDO ADICIONAL DE RISCO, por se tratar
+de matéria eminentemente de Direito, em consonância com o que foi descrito no Laudo
+Pericial (em especial no item VI ao que se refere à caracterização dentro da definição de
+porto organizado e porto privativo).
+Dessa forma, a controvérsia se refere à possibilidade de deferimento do adicional de risco
+portuário ao autor.
+Pois bem.
+Na área do porto organizado há terminais públicos de uso público (explorados pela União),
+instalações portuárias de uso privativo exclusivo para movimentação de carga própria do
+arrendatário e instalações portuárias de uso privativo misto para movimentação de carga própria do
+arrendatário e carga de terceiros. Quando a exploração ocorre fora da área do porto organizado ou
+quando ao terceiro assiste o domínio do terreno tem-se o terminal de uso privado para movimentação de carga própria ou de uso misto para carga própria e de terceiros.
+A teor da Lei nº 12.815/2013, "terminal de uso privado" define-se como "instalação portuária
+explorada mediante autorização, localizada fora da área do porto organizado".
+Entendo que o fato do trabalho ser desempenhado em terminal privativo de uso misto
+implantado em área de porto organizado não afasta o direito do trabalhador de perceber o adicional
+de risco portuário instituído pela Lei nº 4.860/1965, pois não há justificação válida para tratamento
+diferenciado entre trabalhadores ativados em porto organizado, seja em instalações exploradas
+indiretamente pela União ou por arrendatários para uso exclusivo ou misto, uma vez que se
+submetem às mesmas condições laborais e consequentemente aos mesmos riscos.
+De qualquer modo, a Súmula 55 do TRT 17ª Região autoriza o pagamento do adicional aos que
+laboram nas instalações portuárias da reclamada:
+SÚMULA Nº 55 DO TRT DA 17ª REGIÃO
+ADICIONAL DE RISCO PORTUÁRIO. ARTIGO 14 DA LEI N.º 4.860/1965. TRABALHO EM
+PORTOS PRIVATIVOS DE USO MISTO. INAPLICABILIDADE.
+O adicional de risco previsto na Lei n.º 4.860/1965 é devido aos portuários que
+trabalham em terminais organizados, bem como aos que trabalham em área portuária mista, ou seja, no Porto de Vitória, Porto de Tubarão, Porto de Praia Mole, Porto de Ubu,
+Portocel, Terminal Vila Velha/TVV, Companhia Portuária de Vila Velha/CPVV, não sendo
+extensivo aos trabalhadores que atuam em portos privativos, os quais ficam sujeitos ao
+regramento celetista no que se refere ao trabalho em condições de insalubridade ou
+periculosidade.
+Desse modo, tendo em vista o entendimento consolidado neste Regional de que o adicional de
+risco é devido aos portuários que trabalham em área portuária mista, na qual se encontra o Porto de
+Tubarão e o Porto de Praia Mole e considerando que o Perito Muciano Cabral Filho constatou, na
+forma do laudo de Id. 0375163, que o autor desenvolveu suas atividades nas dependências da
+empresa VALE no Terminal de Praia Mole - TPM e no píer de carvão.
+Considerando que durante todo o contrato de trabalho o reclamante exerceu suas funções
+exposto ao risco portuário, não cabe o pedido de "limitação da condenação a metade dos turnos, ou
+Este documento pode ser acessado no endereço eletrônico http://www.tst.jus.br/validador sob código 10067203C3E1140AAB.
+seja, somente 7 escalas por mês, fixando quantas horas por dia o Reclamante estaria exposto aos
+outros riscos por ventura existentes e que dariam ensejo ao adicional de risco portuário."
+Ante o exposto, nego provimento.
+(fls. 830/832).
+Pois bem.
+A questão tratada nos presentes autos foi recentemente enfrentada por esta Eg.
+Turma, no processo RRAg-477-27.2019.5.17.0012, em voto de lavra do Exmo. Ministro Cláudio
+Mascarenhas Brandão. Na oportunidade, apresentei voto convergente, cujos fundamentos reitero no
+presente caso como razão de decidir.
+Tem-se, no entanto, que a matéria atinente ao adicional de risco foi objeto de
+julgamento no âmbito do Supremo Tribunal Federal, no leading case Recurso Extraordinário n.º
+597.124/PR, que originou o Tema 222. Eis a ementa do julgado (destaques acrescidos):
+EMENTA: RECURSO EXTRAORDINÁRIO. TRABALHADOR PORTUÁRIO AVULSO. ADICIONAL DE
+RISCOS. ISONOMIA CONSTITUCIONAL EXPRESSA. ARTIGO 7°, XXXIV, CRFB.
+1. A regulação da atividade portuária por meio de legislação específica ocorreu para garantir
+aos trabalhadores que prestam serviços nas instalações portuárias direitos inerentes ao exercício
+das atividades que lhe são notoriamente peculiares. 2. O fato de os trabalhadores portuários avulsos
+sujeitarem-se a um regime de exploração diferenciado daqueles trabalhadores portuários com
+vínculo permanente não autoriza tratamento diferenciado entre eles, pois há norma constitucional
+explícita e específica de igualdade de direitos, de modo que, uma vez implementadas as
+condições legais específicas, ao trabalhador portuário avulso também é devido o adicional de
+riscos, previsto no art. 14 da Lei 4.860/1965, por imposição constitucional expressa. 3. Sempre que
+for pago ao trabalhador com vínculo permanente, o adicional de riscos também é devido, nos mesmos termos, ao trabalhador portuário avulso, considerando o disposto no artigo 7°, XXXIV, da
+Constituição da República. 4. Recurso Extraordinário a que se nega provimento.
+(RE 597124, Relator(a): EDSON FACHIN, Tribunal Pleno, julgado em 03-06-2020, PROCESSO
+ELETRÔNICO REPERCUSSÃO GERAL - MÉRITO DJe-256 DIVULG 22- 10-2020 PUBLIC 23-10-2020)
+No caso, definiu-se que, malgrado previsto na Lei n.º 4.860/65 que o adicional de
+risco seria devido, tão somente, os trabalhadores com vínculo permanente, a parcela seria também
+devida, por imposição isonômica constitucional, aos trabalhadores portuários avulsos. Destacou-se, na
+ocasião, que não há falar em distinção de diretos a trabalhadores submetidos às mesmas condições, sob
+pena de afronta ao princípio da isonomia, nos termos do inciso XXXIV do artigo 7º da Constituição da
+República, de seguinte teor:
+“Art. 7º São direitos dos trabalhadores urbanos e rurais, além de outros que visem à melhoria
+de sua condição social:
+[...]
+XXXIV - igualdade de direitos entre o trabalhador com vínculo empregatício permanente e o
+trabalhador avulso”.
+Nesse sentido, pontuou-se que a parcela é devida quando constatado o risco,
+sendo despicienda a natureza do vínculo – trabalhador permanente ou avulso -, tampouco a natureza
+do terminal portuário em que se deu a prestação de serviços. Oportuno destacar o seguinte trecho
+do voto do eminente relator, Ministro Edson Fachin, nos seguintes termos (destaques acrescidos):
+Assim sendo, a natureza do vínculo de emprego a que o trabalhador portuário está submetido
+– se permanente ou avulso – não pode ser tida como o critério diferenciador para efeitos de
+percepção de um adicional cujas condições para o recebimento estejam presentes e implementadas
+em ambas as formas de contratação para a realização das mesmas atividades.
+Nesse contexto, são os próprios parâmetros constitucionais invocados pelo Recorrente, quais
+sejam, os princípios da legalidade (art. 5º, caput e II, da CRFB) e da isonomia de direitos entre o
+trabalhador com vínculo empregatício permanente e o trabalhador avulso (art. 7º, XXXIV, da CRFB),
+bem como o direito aos adicionais de remuneração para as atividades penosas, insalubres ou
+perigosas (art. 7º, XXIII, da CRFB) que permitem afirmar que, se os trabalhadores avulsos também
+laboram na mesma área em que prestam seus serviços os trabalhadores com vínculo permanente,
+estando ambos submetidos aos mesmos riscos decorrentes dessa atividade, não pode o tomador
+dos serviços recusar o pagamento relativo a direitos especiais previstos para a categoria dos
+portuários.
+Outrossim, a exegese das Leis 4.860/1965 e 8.630/1993, esta última integralmente revogada
+pela Lei 12.815/2013, não autoriza, de forma direta e expressa, extrair-se proibição de reconhecer-se,
+presentes as condições fáticas necessárias, o direito ao adicional de riscos aos trabalhadores
+portuários avulsos.
+[...]
+A isonomia expressamente designada pelo legislador constituinte originário para os
+trabalhadores avulsos no artigo 7º, XXXIV, da CRFB deve nortear tanto a interpretação autêntica
+conferida pelo legislador ordinário quanto concebeu as leis 8.630/1993 e 12.815/2013 quanto a
+Este documento pode ser acessado no endereço eletrônico http://www.tst.jus.br/validador sob código 10067203C3E1140AAB.
+interpretação constitucional que ora esta Suprema Corte está a conferir ao regime dos trabalhadores
+portuários avulsos.
+A norma constitucional tem nítido caráter protetivo da igualdade material entre as categorias
+de trabalhadores com vínculo e os avulsos, de forma que se o adicional de riscos é devido ao
+trabalhador portuário com vínculo, seja ele servidor ou empregado, também deve ser devido ao
+trabalhador portuário avulso que esteja laborando nas mesmas condições.
+Oportuno destacar, ainda, o posicionamento adotado pelo Ministro Alexandre de
+Moraes, que em seu voto, ao acompanhar o entendimento externado pelo Ministro relator, consignou
+que (destaques acrescidos):
+O que se afigura como critério ensejador do recebimento do adicionalé a verificação da
+condição de prestação de serviço, seja pelo trabalhador com vínculo permanente, seja o avulso; se
+está sendo realizado nas mesmas funções e sob as mesmas condições. A partir dessas constatações,
+com base nos princípios e preceitos constitucionais trabalhados no presente recurso ordinário,
+princípio da legalidade, isonomia de direitos entre todos os trabalhadores - não só o art. 5º, na sua
+fórmula genérica, mas o art. 7º, inciso XXIII-, a meu ver, não há como negar o direito de percepção do
+adicional de risco, independentemente do vínculo.
+Diante de tais argumentos, a Corte suprema fixou a seguinte tese:
+Sempre que for pago ao trabalhador com vínculo permanente, o adicional de riscos é devido,
+nos mesmos termos, ao trabalhador portuário avulso.
+Constata-se de forma cristalina, a partir do exame dos votos que embasaram a
+tese fixada, que a parcela deve ser garantida ao trabalhador portuário, independente da natureza do
+vínculo ou da forma de organização do terminal portuário.
+Ademais, também se mostra incontroverso que não houve qualquer debate
+quanto à necessidade de que se tenha a indicação de trabalhador com vínculo permanente, e que
+já receba o adicional, como requisito obrigatório para a concessão também ao trabalhador avulso.
+Indene de dúvidas que, nos termos do entendimento fixado pelo STF,o direito ao
+adicional de risco está atrelado, tão somente, às reais condições da prestação de serviços, ou seja,
+exige-se tão somente o labor em área de risco no âmbito dos portos. Não há falar em necessidade de
+prova das reais condições a que se encontra submetido determinado trabalhador com vínculo
+permanente, como requisito para o reconhecimento do direito ao adicional.
+Assim, demonstrado o labor submetido a risco, a parcela sempre será paga ao
+trabalhador com vínculo e, da mesma forma, também deverá ser paga ao trabalhador avulso. Conforme
+já destacado, o fato gerador é o labor submetido a risco, devidamente comprovado. Caso seja exigido
+qualquer outro requisito, por certo tal entendimento distancia-se daquele firmado no âmbito do
+Supremo Tribunal Federal.
+Não se desconhece que a questão ainda pende de uniformização no âmbito deste
+Tribunal Superior, visto que há julgados oriundos da 1ª, 4ª, 5ª e 8ª Turmas no sentido de que se mostra
+imprescindível a comprovação, no caso concreto, de que haja trabalhador com vínculo de natureza
+permanente, laborando na mesma localidade e sob as mesmas condições de risco a que submetido o
+trabalhador avulso.
+Nesse sentido, citem-se os seguintes julgados (destaques acrescidos):
+DIREITO DO TRABALHO. AGRAVO DE INSTRUMENTO. ADICIONAL DE RISCO. TRABALHADOR
+PORTUÁRIO AVULSO. ISONOMIA COM EMPREGADOS PERMANENTES. TEMA 222 DA TABELA DE
+REPERCUSSÃO GERAL DO STF. AUSÊNCIA DE REGISTRO QUANTO À EXISTÊNCIA DE EMPREGADOS COM
+VÍNCULO PERMANENTE QUE TRABALHEM NAS MESMAS CONDIÇÕES QUE A PARTE AUTORA. SÚMULA
+N. 126 DO TST. 1. O Supremo Tribunal Federal, no julgamento do RE n. 597.124/PR (Tema 222 da
+Tabela de Repercussão Geral), fixou tese jurídica vinculante no sentido de que " sempre que for pago
+ao trabalhador com vínculo permanente, o adicional de riscos é devido, nos mesmos termos, ao
+trabalhador portuário avulso ". 2. No caso dos autos, a Corte Regional registrou expressamente que
+“é incontroverso que o autor é remunerado com o adicional de insalubridade, tendo em vista que na
+contestação (fls. 84-89), o réu reconhece a paga dessa vantagem ao demandante. Contudo, esse
+pagamento, por si só, não é suficiente ao reconhecimento ao autor do direito ao adicional de riscos,
+na linha da decisão do STF que dita para esse fim a existência de trabalho em iguais condições ao do
+trabalhador com vínculo permanente que recebe referido adicional. Nesse ponto, isto é, nesse
+requisito legal, não há nenhuma prova nos autos. Na realidade, o debate nos autos ficou restrito às
+alegações de ambas as partes, sem nenhuma produção de provas, tendo o autor e o réu informado
+Este documento pode ser acessado no endereço eletrônico http://www.tst.jus.br/validador sob código 10067203C3E1140AAB.
+ao Juízo que não tinham provas a produzir na manifestação anexada ao ID 4b541f3, marcador 31, fl.
+305. Esclareço que as partes desistiram da produção de provas após a audiência inicial, tendo sido
+encerrada a instrução processual sem ao menos a oitiva das partes (ID 24b21d2, marcador 35, fl.
+309). Anoto, por fim, que o réu contestou a pretensão do autor sob o enfoque das condições de
+trabalho e atividades executadas pelo autor, conforme observo das fls. 82-83 da contestação. Assim,
+tal matéria não é incontroversa nos autos. Assim, em conclusão da análise da pretensão do autor
+sob o enfoque do preenchimento dos requisitos legais para obtenção do direito, conforme
+determinado pelo TST, nada há para modificar quanto à conclusão do acórdão que nega provimento
+ao recurso ordinário do demandante”. E, ainda, que “Não posso afirmar se existem "servidores que
+laboram no mesmo local do Embargante recebem o adicional de risco no percentual de 40%". Aliás,
+isso não é objeto de discussão nestes autos”. 3. Logo, no caso dos autos, resulta inviável a aplicação
+do entendimento mencionado, pois não há registro no acórdão regional quanto ao pagamento do
+adicional de risco para trabalhadores portuários com vínculo permanente realizando as mesmas
+funções que a parte demandante. Agravo de instrumento a que se nega provimento. [...] (RRAg￾0000085-71.2019.5.12.0030, 1ª Turma, Relator Ministro Amaury Rodrigues Pinto Junior, DEJT
+24/02/2026).
+EMBARGOS DE DECLARAÇÃO DO RECLAMANTE – ADICIONAL DE RISCO - TRABALHADOR
+PORTUÁRIO AVULSO – ISONOMIA – TEMA 222 DE REPERCUSSÃO GERAL – TESE VINCULANTE FIXADA
+PELO SUPREMO TRIBUNAL FEDERAL - RETORNO DOS AUTOS À TURMA PARA EXERCÍCIO DO JUÍZO DE
+RETRATAÇÃO PREVISTO NO ART. 1.030, II, DO CPC - RETRATAÇÃO NÃO EXERCIDA. 1. Os vícios
+autorizadores da oposição de embargos declaratórios são aqueles listados nos arts. 897-A da CLT e
+1.022 do CPC, concernentes a omissão, contradição ou obscuridade do julgado, que obstaculizam o
+exercício do direito de recurso para a instância superior (excepcionalmente, para corrigir manifesto
+equívoco no exame dos pressupostos extrínsecos do recurso pela própria instância). 2. In casu , a
+Vice-Presidência do TST determinou o retorno dos presentes autos à 4ª Turma, para exercício de
+possível juízo de retratação quanto ao tema do adicional de risco portuário, ante o entendimento
+vinculante fixado pelo STF no Tema 222 da Tabela de Repercussão Geral. 3. Verifica-se que foram
+rejeitados os embargos de declaração do Reclamante, ficando mantida a decisão da Turma que havia
+aplicado os óbices do art. 896, § 4º, da CLT e da Súmula 333 do TST. 4. A tese jurídica vinculante
+fixada no julgamento do Tema 222 de Repercussão Geral exige preenchimento de duplo requisito
+para extensão do adicional de risco aos trabalhadores portuários avulsos: a) a existência de
+trabalhadores contratados por meio de vínculo permanente que recebam o adicional de risco e b)
+que os trabalhadores avulsos laborem nas mesmas condições de risco que o trabalhador com
+vínculo permanente . 5. In casu , das premissas fáticas registradas no acórdão regional (insuscetíveis
+de reexame nesta Instância Superior, a teor da Súmula 126 do TST) não é possível extrair a
+implementação dessas condições específicas estabelecidas pelo STF para a percepção da parcela, de
+modo que o adicional de risco não é devido ao trabalhador avulso. 6. Assim, verifica-se que o
+acórdão embargado estava em conformidade com a tese firmada pelo STF no julgamento do Tema
+222 de Repercussão Geral, descabendo o exercício do juízo de retratação , previsto no art. 1.030, II,
+do CPC. Juízo de retratação não exercido. (ED-AIRR-112600-19.2006.5.05.0121, 4ª Turma, Relator
+Ministro Ives Gandra da Silva Martins Filho, DEJT 30/10/2025).
+AGRAVO DO RECLAMANTE. AGRAVO DE INSTRUMENTO EM RECURSO DE REVISTA. ACÓRDÃO
+PUBLICADO NA VIGÊNCIA DA LEI Nº 13.467/2017. ADICIONAL DE RISCO. TRABALHADOR PORTUÁRIO
+AVULSO. ISONOMIA. NOVO ENTENDIMENTO FIRMADO PELA SUPREMA CORTE EM SEDE DE
+REPERCUSSÃO GERAL. TEMA 222 (RE 597124/PR). AUSÊNCIA DE TRANSCENDÊNCIA. O e. STF, no
+julgamento do Tema 222 da Repercussão Geral, fixou a tese jurídica de que “sempre que for pago ao
+trabalhador com vínculo permanente, o adicional de riscos é devido, nos mesmos termos, ao
+trabalhador portuário avulso”. Infere-se que o percebimento do adicional de risco pelos
+trabalhadores portuários avulsos pressupõe além da verificação do risco, na forma do art. 14 da Lei
+nº 4.860/1965, a constatação de empregado laborando nas mesmas condições que o trabalhador
+avulso e recebendo o referido adicional. Diante da conclusão do Tribunal Regional de que não há
+trabalhadores com vínculo empregatício que exerçam a mesma função que o reclamante e que
+recebam o adicional de risco pleiteado, seria necessário o reexame do conjunto fático-probatório da
+ação trabalhista a fim de concluir de forma diversa, e, nesse passo, entender devido o pagamento do
+adicional de risco nos termos da decisão vinculante do Supremo Tribunal Federal no RE 597124/PR. O
+óbice da Súmula nº 126 desta Corte para o exame da matéria de fundo veiculada, acaba por
+evidenciar, em última análise, a própria ausência de transcendência do recurso de revista. A
+existência de obstáculo processual apto a inviabilizar o exame da matéria de fundo veiculada, como
+no caso, acaba por evidenciar, em última análise, a própria ausência de transcendência do recurso
+de revista, em qualquer das suas modalidades. Precedentes. Agravo não provido. [...]. (RRAg-0000726-
+06.2020.5.09.0322, 5ª Turma, Relator Ministro Breno Medeiros, DEJT 04/11/2025).
+AGRAVO INTERNO. AGRAVO DE INSTRUMENTO. TEMA APRECIADO DO RECURSO DE REVISTA.
+ADICIONAL DE RISCO. TRABALHADOR PORTUÁRIO AVULSO. ISONOMIA COM EMPREGADOS
+PERMANENTES. TEMA 222 DA TABELA DE REPERCUSSÃO GERAL DO STF. NÃO DESCRITA A EXISTÊNCIA
+DE EMPREGADOS COM VÍNCULO PERMANENTE QUE TRABALHEM NAS MESMAS CONDIÇÕES QUE A
+PARTE AUTORA. SÚMULA Nº 126 DO TST. ÓBICE DA PROCESSUAL. TRANSCENDÊNCIA NÃO
+EXAMINADA. I. Há óbice processual consubstanciado na incidência da Súmula 126 do TST, a
+inviabilizar a intelecção da matéria tal como posta, deduzida e apresentada. II. O Supremo Tribunal
+Federal, na oportunidade do julgamento do RE nº 597.124/PR, fixou, como tese jurídica, que " sempre
+Este documento pode ser acessado no endereço eletrônico http://www.tst.jus.br/validador sob código 10067203C3E1140AAB.
+que for pago ao trabalhador com vínculo permanente, o adicional de riscos é devido, nos mesmos
+termos, ao trabalhador portuário avulso " (Tema 222). III. No caso dos autos, entretanto, conforme
+mencionado pela Corte Regional, é inviável a aplicação da tese fixada no tema mencionado, pois não
+ficou comprovado o pagamento do adicional de risco para trabalhadores portuários com vínculo
+permanente realizando as mesmas funções que a parte reclamante. IV. Agravo interno de que se
+conhece e a que se nega provimento.
+(Ag-RRAg-782-39.2020.5.09.0322, 8ª Turma, Relator Ministro Evandro Pereira Valadao Lopes,
+DEJT 23/01/2026).
+De outro lado, o posicionamento adotado pela 2ª, 3ª, 6ª e 7ª Turmas, ao qual me
+filio, é no sentido de que para a concessão da parcela deve-se verificar tão somente se, de fato, o
+trabalho é realizado em condições de risco em área portuária. Tal constatação pode ocorrer mediante
+prova técnica ou, simplesmente, comprovando-se que o adicional já é concedido a outros trabalhadores
+com vínculo permanente, se for o caso.
+O posicionamento adotado pela Suprema corte, conforme já destacado, não
+permite interpretação no sentido de que se definiu ser requisito imprescindível para o reconhecimento
+do direito ao adicional haver prova das reais condições a que submetido determinado trabalhador
+vinculado de forma permanente. De fato, tal condição já demonstra que a parcela também deve ser
+concedida aos trabalhadores avulsos.
+No entanto, a comprovação, mediante outros meios, de que a prestação de
+serviços ocorreu em terminal portuário e em condições de risco também enseja ao trabalhador avulso o
+adicional previsto no artigo 14 da Lei n.º 4.860/65, que não prevê outros requisitos para sua concessão.
+Eis o teor do dispositivo:
+Art 14. A fim de remunerar os riscos relativos à insalubridade, periculosidade e outros
+porventura existentes, fica instituído o "adicional de riscos" de 40% (quarenta por cento) que incidirá
+sobre o valor do salário-hora ordinário do período diurno e substituirá todos aqueles que, com
+sentido ou caráter idêntico, vinham sendo pagos.
+§ 1º Este adicional somente será devido enquanto não forem removidas ou eliminadas as
+causas de risco.
+Cumpre registrar, nesse mesmo sentido, os seguintes julgados deste Tribunal
+Superior (destaques acrescidos):
+RECURSO DE REVISTA. APELO INTERPOSTO ANTES DA VIGÊNCIA DA LEI Nº 13.015/2014.
+DEVOLUÇÃO DOS AUTOS PELA VICE-PRESIDÊNCIA DO TST, NOS TERMOS DO ARTIGO 1.030, II, DO CPC,
+PARA EVENTUAL JUÍZO DE RETRATAÇÃO. TRABALHADOR PORTUÁRIO – TERMINAL PRIVATIVO –
+ADICIONAL DE RISCO – PRINCÍPIO DA ISONOMIA. JUÍZO DE RETRATAÇÃO NÃO EXERCIDO
+I - A controvérsia dos autos exige a interpretação da tese firmada no precedente de
+repercussão geral nº 222 pelo E. Supremo Tribunal Federal no que concerne à sua aplicação aos
+trabalhadores portuários que atuam em Terminais Privativos de uso exclusivo ou misto, por ter
+caráter vinculante no âmbito das decisões deste Eg. Tribunal Superior do Trabalho.
+II - Toda a controvérsia discutida nos autos do RE nº 597.124-PR (Tema 222 da Tabela de
+Repercussão Geral) envolve a aplicação de tratamento isonômico entre trabalhadores portuários
+avulsos e trabalhadores portuários com vínculo, nos termos dos artigos 5º, II, e 7º, XXXIV, da
+Constituição da República, exigindo, assim, uma releitura da aplicação da Lei nº 4.860/65 à luz das
+normas constitucionais vigentes.
+III - À luz dos fundamentos debatidos, discutidos e consolidados na decisão exarada pelo E.
+Supremo Tribunal Federal, é possível compilar quatro conclusões principais , com base nas razões de
+decidir firmadas no princípio constitucional da igualdade:
+1.O E. Supremo Tribunal Federal no julgamento do Tema 222 da Tabela de Repercussão Geral
+tratou da isonomia na concessão do adicional de risco para trabalhadores portuários avulsos e
+portuários com vínculo, sejam empregados, sejam servidores, atuantes na região de Porto ou
+Terminal Privativo (de uso exclusivo ou misto).
+2. A tese firmada no Tema 222 pelo E. STF supera o entendimento firmado pela SBDI-1 na
+Orientação Jurisprudencial nº 402 da SBDI-1 do TST, em razão da força constitucional do princípio da
+igualdade, que supera e se sobrepõe a toda e qualquer legislação ordinária ou entendimento
+jurisprudencial anteriormente firmado.
+3. Consectário do entendimento de que a Lei nº 4.860/65 alcança também os trabalhadores
+portuários que atuam em Terminais Privativos (de uso exclusivo ou misto), é imperativo reconhecer
+que tais trabalhadores não fazem jus ao adicional de periculosidade previsto na CLT , por ser verba
+salarial paga com fundamento no mesmo fato gerador (atuar em área de risco do porto), sendo
+vedado o bis in idem .
+4. A Suprema Corte, ao julgar o Tema 222, não exigiu que o trabalhador portuário avulso
+indique um paradigma com vínculo para perceber o adicional de risco . Não se trata, portanto, de
+Este documento pode ser acessado no endereço eletrônico http://www.tst.jus.br/validador sob código 10067203C3E1140AAB.
+regra de equiparação salarial, mas de aplicação do princípio da isonomia de forma pura, ainda que
+não indiscriminada, no que se refere ao alcance da Lei nº 4.860/65, no contexto dos portos
+organizados (pertencentes à Administração Pública). Basta, assim, implementar as condições
+previstas na Lei nº 4.860/65 para que o trabalhador portuário receba o adicional de risco, não sendo
+importante o tipo de relação que tenha estabelecido com o Porto Organizado ou o Terminal
+Privativo, se avulso ou com vínculo.
+IV - No caso específico dos autos, restando incontroverso que o reclamante atuava como
+operador de empilhadeira em todo o período contratual, ou seja, na atividade finalística de
+movimentação de mercadorias nas embarcações e carregamento e descarga (com atribuições que
+não se inserem no âmbito administrativo do porto), é de se reconhecer o direito ao recebimento do
+adicional de risco por todo o período imprescrito, nos termos das razões de decidir firmadas no
+princípio constitucional da igualdade, quando do julgamento do STF do Tema 222 da Tabela de
+Repercussão Geral. V - Ante o exposto, tendo o acórdão regional decidido que o empregado faz jus
+ao recebimento do adicional de risco, encontrando-se em conformidade com a tese firmada pelo STF
+no julgamento do Tema 222, cumpre exercer o juízo de retratação para não conhecer do recurso de
+revista da reclamada. Recurso de revista não conhecido. Juízo de retratação exercido. (RR-1900-
+13.2005.5.17.0012, 2ª Turma, Relatora Ministra Liana Chaib, DEJT 30/10/2025).
+[...] RECURSO DE REVISTA INTERPOSTO PELO RECLAMANTE. LEIS Nos 13.015/2014 E
+13.467/2017. ADICIONAL DE RISCO DO PORTUÁRIO COM VÍNCULO EMPREGATÍCIO (ART. 14 DA LEI
+4.860/1965). EXTENSÃO AO PORTUÁRIO AVULSO. TEMA 222, DA TABELA DE REPERCUSSÃO GERAL DO
+SUPREMO TRIBUNAL FEDERAL. DESNECESSIDADE DE INDICAÇÃO DE PARADIGMA. PRINCÍPIOS DA
+ISONOMIA E RAZOABILIDADE. TRANSCENDÊNCIA JURÍDICA RECONHECIDA.
+1. A discussão dos autos gira em torno da aplicabilidade do adicional de risco, previsto no art.
+14 da Lei 4.860/65, aos trabalhadores avulsos portuários.
+2. O Supremo Tribunal Federal, no julgamento do RE 597.124/PR – Tema 222, da Tabela de
+Repercussão Geral -, fixou a seguinte tese jurídica: " Sempre que for pago ao trabalhador com vínculo
+permanente, o adicional de risco é devido, nos mesmos termos, ao trabalhador portuário avulso ".
+3. A minuciosa leitura do voto prevalecente no Tema 1.022 do Supremo Tribunal Federal
+permite apenas uma conclusão, a de que a Corte Constitucional entendeu ser devida a equiparação
+do direito ao adicional de risco entre os trabalhadores portuários com vínculo empregatício e os
+avulsos.
+4. A premissa básica assentada para tanto é a de que o texto constitucional assegura a
+"igualdade de direitos entre o trabalhador com vínculo empregatício permanente e o trabalhador
+avulso" (art. 7º, XXXIV da Constituição Federal).
+5. Ainda, conforme se extrai do voto vencedor da tese firmada no Tema 222/STF, o objetivo da
+norma "tem nítido caráter protetivo da igualdade material entre as categorias de trabalhadores com
+vínculo e os avulsos, de forma que se o adicional de riscos é devido ao trabalhador portuário com
+vínculo, seja ele servidor ou empregado, também deve ser devido ao trabalhador portuário avulso
+que esteja laborando nas mesmas condições" (RE 597124, Relator(a): EDSON FACHIN, Tribunal Pleno,
+julgado em 03-06-2020, PROCESSO ELETRÔNICO REPERCUSSÃO GERAL - MÉRITO DJe-256 DIVULG 22-
+10-2020 PUBLIC 23-10-2020).
+6. Além disso, a partir do conteúdo do art. 7º, XXXIV, conjugado com o art. 7º XXII, XXIII e 5º,
+caput , II, da CF não é possível realizar uma interpretação restritiva do texto constitucional ou da tese
+firmada pela Suprema Corte no Tema 222, mediante a imposição da produção de uma prova
+diabólica ao trabalhador portuário avulso, isto é, a prova de que laborou "nos mesmos termos" de
+um portuário com vínculo permanente (paradigma).
+7. Reduzir o direito ao adicional de risco previsto no art. 14 da Lei 4.860/1965 a uma condição
+fática distinta da exposição ao agente de risco - tal como a indicação de um paradigma- significa criar
+uma exigência que não encontra respaldo nas normas constitucionais (art. 7º XXII, XXIII) ou
+infralegais, tampouco na interpretação conferida pela Suprema Corte ao referido dispositivo.
+8. É essa a ideia que sustenta a ratio decidendi do Tema 222, do Supremo Tribunal Federal: o
+direito ao recebimento do adicional de risco pelo portuário-empregado é extensível ao portuário
+avulso, haja vista que ambos, por trabalharem no mesmo porto organizado, estão sujeitos a
+idênticas intempéries, razão pela qual fazem jus ao mesmo adicional, em máxima atenção à
+isonomia de direitos prevista no texto constitucional (art. 7º, XXXIV da CF). Desse entendimento, o
+Tribunal Regional dissentiu. Recurso de revista de que se conhece e a que se dá provimento. (RRAg￾0000711-37.2020.5.09.0322, 3ª Turma, Relator Ministro Alberto Bastos Balazeiro, DEJT 24/02/2026).
+AGRAVO DO RECLAMANTE. AGRAVO DE INSTRUMENTO EM RECURSO DE REVISTA. LEI Nº
+13.467/2017. ADICIONAL DE RISCO DO TRABALHADOR PORTUÁRIO COM VÍNCULO PERMANENTE.
+POSSIBILIDADE DE EXTENSÃO AOS TRABALHADORES PORTUÁRIOS AVULSOS. TEMA 222 DE
+REPERCUSSÃO GERAL NO STF - RE 597124/PR TRABALHADOR PORTUÁRIO AVULSO. CASO CONCRETO
+EM QUE NÃO HOUVE PROVA DO EXERCÍCIO DE ATIVIDADE DE RISCO PELO RECLAMANTE NEM POR
+TRABALHADOR PARADIGMA VINCULADO À ADMINISTRAÇÃO DO PORTO Na decisão monocrática foi
+negado provimento ao agravo de instrumento. Registre-se que deve ser reconhecida a
+transcendência jurídica para exame mais detido da controvérsia devido às peculiaridades do caso
+concreto. O enfoque exegético da aferição dos indicadores de transcendência em princípio deve ser
+positivo, especialmente nos casos de alguma complexidade, em que se torna aconselhável o debate
+mais aprofundado do tema. O Supremo Tribunal Federal, em sede de repercussão geral no
+julgamento do RE 597124/PR - Tema nº 222, em 03/06/2020, fixou o entendimento de que "o fato de
+os trabalhadores portuários avulsos sujeitarem-se a um regime de exploração diferenciado daqueles
+Este documento pode ser acessado no endereço eletrônico http://www.tst.jus.br/validador sob código 10067203C3E1140AAB.
+trabalhadores portuários com vínculo permanente não autoriza tratamento diferenciado entre eles,
+pois há norma constitucional explícita e específica de igualdade de direitos, de modo que, uma vez
+implementadas as condições legais específicas, ao trabalhador portuário avulso também é devido o
+adicional de riscos, previsto no art. 14 da Lei 4.860/1965, por imposição constitucional expressa ". Em
+outras palavras, o STF reconhece a isonomia quando o trabalhador portuário avulso implementa as
+condições legais específicas (prestação de serviços em condições de risco). O adicional de risco do
+trabalhador portuário é previsto no artigo 14 da Lei 4.860/65 (não revogado pelas Leis nos 8.630/93 e
+Lei 12.815/13) e tem por finalidade remunerar os riscos relativos à insalubridade, periculosidade e
+outros riscos porventura existentes. O pagamento do adicional de risco, portanto, não é automático
+a todos os avulsos – como também não o é a todos os empregados, conforme se observa no art. 14,
+§1º, da Lei nº 4.860/65 – sendo necessário que seja aferido, no caso concreto, se há risco ou se há
+empregado laborando nas mesmas condições que o trabalhador avulso e recebendo o referido
+adicional. No caso dos autos, depreende-se da leitura do acórdão regional, não ter sido comprovada
+a realização de atividades de risco pelo reclamante, tampouco a existência de algum empregado da
+APPA laborando nas mesmas condições que o autor e recebendo o referido adicional, o que impede
+o deferimento do pedido. Agravo provido parcialmente somente para reconhecer a transcendência
+quanto ao tema. (AIRR-0000492-24.2020.5.09.0322, 6ª Turma, Relatora Ministra Katia Magalhaes
+Arruda, DEJT 15/12/2025).
+[...] RECURSO DE REVISTA. AÇÃO AJUIZADA NA VIGÊNCIA DA LEI Nº 13.467/2017. TEMA 222
+REPERCUSSÃO GERAL NO C. STF – RE 597124/PR. ADICIONAL DE RISCO DEVIDO. TRABALHADOR
+PORTUÁRIO AVULSO. PORTO ORGANIZADO. ESTIVADOR. OJ Nº 402 DA SBDI-I/TST. TRANSCENDÊNCIA
+POLÍTICA RECONHECIDA. 1 . O posicionamento desta Corte era de que o adicional de risco portuário
+não seria extensivo aos trabalhadores avulsos, considerando que não são empregados ligados à
+administração do porto, uma vez que o adicional de risco previsto pela Lei nº 4.860/65 seria devido
+exclusivamente aos portuários, assim considerados os trabalhadores com vínculo de emprego com a
+"Administração do Porto", para repetir a expressão do artigo 19 daquele diploma legal. Nesse
+sentido, a OJ-402-SbDI-1/TST. 2. Entretanto, o C. Supremo Tribunal Federal, em sede de repercussão
+geral no julgamento do RE 597124/PR - Tema nº 222, fixou o entendimento de que " O fato de os
+trabalhadores portuários avulsos sujeitarem-se a um regime de exploração diferenciado daqueles
+trabalhadores portuários com vínculo permanente não autoriza tratamento diferenciado entre eles,
+pois há norma constitucional explícita e específica de igualdade de direitos, de modo que, uma vez
+implementadas as condições legais específicas, ao trabalhador portuário avulso também é devido o
+adicional de riscos, previsto no art. 14 da Lei 4.860/1965, por imposição constitucional expressa " e "
+Sempre que for pago ao trabalhador com vínculo permanente, o adicional de riscos também é
+devido, nos mesmos termos, ao trabalhador portuário avulso, considerando o disposto no artigo 7°,
+XXXIV, da Constituição da República ". 3 . No julgamento dos embargos de declaração interpostos
+pelo ÓRGÃO DE GESTÃO DE MÃO-DE-OBRA DO SERVIÇO PORTUÁRIO AVULSO DO PORTO
+ORGANIZADO DE PARANAGUÁ E ANTONINA - OGMO/PR ratificou a tese. 4. Em síntese, o
+reconhecimento ao trabalhador portuário avulso do adicional de risco demanda a implementação
+das condições legais específicas estabelecidas pelo art. 14, caput , e parágrafos, ou seja, trabalho em
+condições de risco. Ora, há que ser considerado que se os operadores portuários utilizam o
+trabalhador avulso em substituição à mão de obra permanente , sendo devido por imposição legal o
+adicional de risco ao trabalhador permanente que trabalhe naquelas condições (art. 14 da Lei
+4.860/65), ainda que no caso concreto o autor (estivador) não tenha indicado especificamente
+trabalhadores permanentes na função por ele exercida, o adicional será devido em estrita
+observância ao princípio da isonomia entre os trabalhadores com vínculo e avulsos (art. 7º, XXXIV,
+CF). Entender de modo diverso seria prestigiar a substituição definitiva do trabalhador permanente
+pelo avulso, em fraude, com o fim de reduzir custos pelo não pagamento do adicional de risco. Além
+disso, se a função exercida é de risco e o adicional visa a compensar o perigo, será devido
+independentemente de qual trabalhador a exerce (permanente ou avulso). 5. Diante da tese
+vinculante firmada pelo c. STF, no Tema 222 da Tabela da Repercussão Geral, o adicional de risco se
+estende a todos os trabalhadores que atuam na área de porto , nas mesmas condições de risco,
+independentemente se avulsos ou empregados ou se prestam serviços na área do Porto ou em
+terminal privativo. Irrelevante para o caso dos autos, portanto, se o autor teria, ou não, indicado
+“nomes de trabalhadores portuários permanentes, empregados da Administração dos Portos de
+Paranaguá e Antonina (APPA), ou mesmo de trabalhadores portuários permanentes não vinculados à
+APPA, que desempenhassem as mesmas funções” , conforme registrou o Regional.O importante é o
+fato de que se ativava em área de porto (como estivador), sujeitando-se, portanto, a condições
+acentuadas de risco. Recurso de revista conhecido, por violação do art. 7º, XXXIV, da CF, e provido.
+(RR-0000756-68.2020.5.09.0022, 7ª Turma, Relator Ministro Alexandre de Souza Agra Belmonte, DEJT
+15/12/2025).
+No caso dos autos, desponta do acórdão regional a conclusão de que a prova
+técnica comprovou que o trabalhador desempenhou suas atividades laborais em área de risco
+portuário.
+Assim, deve ser mantida a decisão agravada, em observância ao entendimento
+vinculante fixado pelo Supremo Tribunal Federal no julgamento do Tema 222 da Tabela de Repercussão
+Geral.
+Ante o exposto, nego provimento ao agravo. Este documento pode ser acessado no endereço eletrônico http://www.tst.jus.br/validador sob código 10067203C3E1140AAB.
+ISTO POSTO
+ACORDAM os Ministros da Sétima Turma do Tribunal Superior do Trabalho, por
+unanimidade, conhecer e negar provimento ao agravo.
+Brasília, 8 de maio de 2026.
+Firmado por assinatura digital (MP 2.200-2/2001)
+JOSÉ PEDRO DE CAMARGO RODRIGUES DE SOUZA
+Desembargador Convocado Relator
+Firmado por assinatura digital em 07/05/2026 pelo sistema AssineJus da Justiça do Trabalho, conforme MP 2.200-2/2001, que instituiu a Infra-Estrutura
+de Chaves Públicas Brasileira. Este documento pode ser acessado no endereço eletrônico http://www.tst.jus.br/validador sob código 10067203C3E1140AAB.
