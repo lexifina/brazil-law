@@ -1,0 +1,26 @@
+DECISÃO
+Trata-se de recurso em habeas corpus, com pedido de liminar, interposto por GUSTAVO INÁCIO VALADARES em face de acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAIS, referente ao julgamento do HC n. 1.0000.26.000269-6/000 (fls. 221-233).
+Consta dos autos que o recorrente teve a prisão em flagrante homologada e convertida em preventiva pela suposta prática do delito previsto no artigo 16, § 1º, inciso IV, da Lei 10.826/03, com fundamento na garantia da ordem pública, diante da gravidade concreta verificada no flagrante, na presença dos requisitos dos artigos 312 e 313 do Código de Processo Penal e na insuficiência das medidas cautelares do artigo 319 do Código de Processo Penal (fls. 225-230).
+Contra essa decisão, a defesa impetrou habeas corpus perante o Tribunal mineiro, que denegou a ordem (fls. 221-233).
+No presente recurso em habeas corpus, sustenta-se, em suma, a ausência de fundamentação concreta e idônea do decreto prisional, a inexistência dos requisitos dos artigos 312 e 313 do Código de Processo Penal e a suficiência de medidas cautelares diversas, salientando a primariedade e as condições pessoais do recorrente; requer-se a revogação da prisão preventiva ou sua substituição por medidas do artigo 319 do Código de Processo Penal (fls. 249-254).
+O pedido de liminar foi indeferido (fls. 263).
+O Ministério Público Federal opinou pelo não conhecimento do recurso e, na parte conhecida, pelo desprovimento (fls. 262-268).
+É o relatório. DECIDO.
+O recurso deve ser conhecido, porquanto presentes os requisitos de admissibilidade recursal.
+Quanto aos requisitos autorizadores da prisão preventiva, tem-se, nos termos do art. 312 do Código de Processo Penal, que ela poderá ser decretada para garantia da ordem pública, da ordem econômica, por conveniência da instrução criminal ou para assegurar a aplicação da lei penal, desde que presentes prova da existência do crime e indício suficiente de autoria e de perigo gerado pelo estado de liberdade do acusado.
+A gravidade concreta da conduta foi demonstrada pelas instâncias ordinárias ao narrarem que a prisão do recorrente se deu no contexto de operação policial voltada à repressão da criminalidade organizada e violenta, culminando na apreensão de um rifle calibre .22, marca CBC, modelo 7022, com numeração suprimida, evidenciando o o propósito deliberado de ocultar a rastreabilidade do armamento, com a vinculação do instrumento bélico a outros ilícitos penais.
+Some-se a isso o fato de que a aquisição da arma se deu por meio clandestino, em grupo informal de troca e venda na rede social Facebook, mediante pagamento de R$ 3.000,00 (três mil reais), conduta que revela disposição concreta para manter armamento à margem de qualquer controle estatal e o desprezo à regulamentação legal.
+Ao contrário do que sustenta a defesa, não se trata desprovido de maior reprovabilidade, porquanto as circunstâncias do caso (inserção em contexto de criminalidade organizada, porte de arma com numeração raspada e aquisição por canal ilícito) revelam periculosidade concreta do agente e risco efetivo à ordem pública, a justificar a manutenção da cus tódia cautelar.
+A propósito:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. PROCESSUAL PENAL. ROUBO CIRCUNSTANCIADO, RESISTÊNCIA E PORTE ILEGAL DE ARMA DE FOGO DE USO PERMITIDO. PRISÃO PREVENTIVA. REQUISITOS. GRAVIDADE CONCRETA DOS FATOS. MODUS OPERANDI. FUNDAMENTAÇÃO IDÔNEA. SUBSTITUIÇÃO DA CUSTÓDIA POR MEDIDAS CAUTELARES DIVERSAS. INVIABILIDADE. CONDIÇÕES PESSOAIS FAVORÁVEIS. IRRELEVÂNCIA, NO CASO. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. Hipótese em que a prisão preventiva foi suficientemente fundamentada em virtude da especial reprovabilidade dos fatos, evidenciada a partir do modus operandi do delito, o que justifica a prisão processual do acusado, nos termos da jurisprudência do Superior Tribunal de Justiça, como forma de resguardar a ordem pública.
+2. Tendo sido concretamente demonstrada a necessidade da prisão preventiva, não se mostra suficiente a aplicação de medidas cautelares mais brandas, nos termos do art. 282, inciso II, do Código de Processo Penal.
+3. A suposta existência de condições pessoais favoráveis, por si só, não assegura a desconstituição da custódia antecipada, caso estejam presentes os requisitos autorizadores da custódia cautelar, como ocorre no caso.
+4. Agravo regimental não provido.
+(AgRg no HC n. 930.494/PE, relator Ministro Otávio de Almeida Toledo (Desembargador Convocado do TJSP), Sexta Turma, julgado em 16/10/2024, DJe de 23/10/2024.)
+Pelos mesmos motivos acima delineados, entendo que, no caso, é inviável a aplicação de medidas cautelares diversas da prisão, pois a periculosidade do paciente indica que a ordem pública não estaria assegurada com a sua soltura.
+Sobre o tema: AgRg no HC n. 1.015.783/AC, relator Ministro Carlos Cini Marchionatti (Desembargador Convocado TJRS), Quinta Turma, julgado em 19/8/2025, DJEN de 25/8/2025; AgRg no HC n. 1.024.300/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 9/9/2025, DJEN de 17/9/2025.
+Dessa forma, resta prejudicada a alegação concernente à suspensão do feito em razão da instauração de conflito de competência.
+Ante o exposto, nego provimento ao recurso ordinário em habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
