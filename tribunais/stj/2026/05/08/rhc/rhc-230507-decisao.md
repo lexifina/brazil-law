@@ -1,0 +1,22 @@
+DECISÃO
+Trata-se de recurso ordinário em habeas corpus, com pedido liminar, interposto por Carlos Eduardo Leite da Silva contra o acórdão do Tribunal de Justiça do Estado de Pernambuco que denegou a ordem no julgamento do Habeas Corpus Criminal n. 0000199-79. 2025.8.17.9901.
+Nas razões do recurso, a defesa alega que, a despeito da intempestividade da interposição, a pretensão de revisão da decisão recorrida deveria ser apreciada, porque a jurisprudência do Superior Tribunal de Justiça é firme no sentido de que, em matéria de liberdade, o rigor formal não deve impedir o exame do constrangimento (fl. 76); e, caso não se conheça do recurso, pede que ele seja recebido e processado como habeas corpus substitutivo.
+Quanto ao mérito recursal, aduz que haveria excesso de prazo na duração da medida cautelar de monitoramento eletrônico imposta ao recorrente, pois não haveria fato novo ou contemporâneo que justifique a manutenção da medida por período tão longo, em violação da proporcionalidade.
+Ressalta que a audiência de instrução e julgamento foi designada para o dia 15/7/2027, o que implicaria inaceitável extensão da medida cautelar por tempo excessivo.
+Afirma que o monitoramento eletrônico seria medida desproporcional em relação às circunstâncias do crime de tráfico de drogas imputado ao recorrente, consideradas a quantidade relativamente pequena de droga apreendida (21,7 g de crack) e a inexistência de indícios de que o recorrente estaria associado a organização criminosa.
+Por essas razões, pede, inclusive liminarmente, que seja determinada a cessação da medida cautelar de monitoramento eletrônico, ou que esta seja substituída por medida mais branda.
+Contrarrazões de recurso subscritas pela Procuradora de Justiça Criminal Sineide Maria de Barros Silva Canuto, do Ministério Público do Estado de Pernambuco, que se manifestou pelo não provimento do recurso ordinário em habeas corpus, por reconhecer a existência dos requisitos autorizadores da medida cautelar imposta ao recorrente.
+O pedido liminar foi indeferido (fls. 96/97), e as instâncias inferiores prestaram as informações solicitadas (104/112).
+O Ministério Público Federal se manifestou pelo não provimento do recurso (fls. 115/117).
+É o relatório.
+Não é possível conhecer do recurso em razão da intempestividade da sua interposição.
+Com efeito, o Tribunal de origem certificou que a defesa teve ciência do acórdão denegatório em 10/11/2025 (fl. 82), porém a petição do recurso somente foi protocolizada no dia 19/12/2025, de sorte que é manifesta a não observância do prazo de 5 dias estabelecido no art. 30 da Lei n. 8.038/1990 para a interposição de recurso ordinário em habeas corpus para o Superior Tribunal de Justiça.
+A propósito do disposto no art. 647-A do Código de Processo Penal e do pedido subsidiário de recebimento do recurso como habeas corpus substitutivo, não se identifica, no caso, manifesta ilegalidade que autorize a concessão da ordem por decisão de ofício.
+Como observa o Juízo de primeira instância, o recorrente foi preso em flagrante na posse de (21,7 g de crack) enquanto cumpria medida cautelar referente a outro delito, de maneira que a imposição do monitoramento eletrônico se revela providência jurisdicional muito mais branda em relação à prisão preventiva, que poderia ter sido decretada em razão da violação da medida cautelar anterior, nos termos do art. 282, § 2º, do Código de Processo Penal.
+No mais, considerando que a medida cautelar impugnada teve início em 21/11/2025 - ou seja, há pouco mais de 5 meses -, é induvidoso que o seu tempo total de duração ainda se afigura proporcional em relação à pena privativa de liberdade que poderá ser aplicada ao recorrente caso ele seja condenado pelas infrações penais de que é acusado.
+Por fim, a alegação de que a medida cautelar se estenderia por prazo inaceitável em razão da designação da audiência de instrução para o dia 15/7/2027 é prematura, tendo em vista que o monitoramento eletrônico pode ser revisto ou substituído por outra medida antes dessa data.
+Isso posto, não conheço do recurso ordinário em habeas corpus.
+Publique-se.
+EMENTA
+RECURSO ORDINÁRIO EM HABEAS CORPUS. INTEMPESTIVIDADE DA INTERPOSIÇÃO. NÃO CONHECIMENTO. TRÁFICO DE DROGAS. MEDIDA CAUTELAR DE MONITORAMENTO ELETRÔNICO. VALIDADE DA FUNDAMENTAÇÃO. PROPORCIONALIDADE DO PRAZO DE DURAÇÃO DA MEDIDA. MANIFESTA ILEGALIDADE NÃO RECONHECIDA.
+Recurso não conhecido.
