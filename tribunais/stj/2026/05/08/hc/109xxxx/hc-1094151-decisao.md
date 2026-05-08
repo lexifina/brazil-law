@@ -1,0 +1,16 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em nome de JOSE WELLINGTON DE GOIS FONTES, em que se aponta como autoridade coatora o Tribunal de Justiça do Estado de Alagoas, que, em acórdão datado eletronicamente, deu provimento à apelação do Ministério Público para anular o julgamento do Tribunal do Júri e determinar novo júri (Processo n. 0700043-88.2023.8.02.0055, da 8ª Vara Criminal da comarca de Maceió/AL).
+Alega-se nulidade do acórdão por violação da Súmula 160/STF, sustentando que a Corte local reconheceu, de ofício, nulidade não arguida no recurso ministerial e em prejuízo do réu, extrapolando os limites do art. 593, III, d, do Código de Processo Penal.
+Sustenta-se a inexistência de prejuízo à regularidade processual e a impossibilidade de relativização da referida súmula em desfavor do réu, registrando que o caso dos autos não pode se subsumir à tese firmada no AgRg no REsp n. 2.099.614/MG (fl. 10).
+Em caráter liminar, pede-se a suspensão da sessão do júri designada para 12/5/2026. No mérito, requer-se a anulação do acórdão do Tribunal de Justiça de Alagoas com restabelecimento da absolvição ou, subsidiariamente, novo julgamento do recurso limitado ao pleito acusatório.
+É o relatório.
+Está consolidado o entendimento da impossibilidade de utilização do habeas corpus como substitutivo do recurso adequado, a fim de preservar a coerência do sistema recursal e a própria função constitucional do writ.
+A ilegalidade passível de justificar o ajuizamento desse remédio constitucional contra acórdão exarado em 2024 e transitado em julgado deve ser manifesta, de constatação evidente, o que, no caso, não ocorre.
+Segundo o Tribunal de origem, a ausência de áudio das mídias da sessão plenária do Tribunal do Júri inviabilizou o exame da tese de decisão manifestamente contrária à prova dos autos, configurando nulidade absoluta pela falta de gravação integral dos atos do júri, com base no art. 475, parágrafo único, e exigindo a realização de novo julgamento, providência enquadrada no art. 593, III, a, do Código de Processo Penal.
+Há julgados do Superior Tribunal de Justiça afirmando que, em caso de perda da prova judicial, a nulidade processual deve ser reconhecida para restabelecer a legalidade no desenvolvimento da relação processual (AgRg no REsp n. 2.099.614/MG, Ministro Joel Ilan Paciornik, Quinta Turma, DJEN 8/4/2025). O reconhecimento do vício não favorece o Juiz e as partes envolvidas, tendo como objetivo o restabelecimento da legalidade no desenvolvimento da relação processual (AgRg no AREsp n. 1.678.101/SC, Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe 18/6/2020).
+Ademais, é nítido o intento defensivo de suprimir instância, para alcançar questão não enfrentada pelo colegiado, como a aplicação da Súmula 160/STF.
+Indefiro liminarmente a petição inicial (art. 210 do RISTJ).
+Publique-se.
+EMENTA
+DIREITO PROCESSUAL PENAL. HABEAS CORPUS SUBSTITUTIVO DO RECURSO ADEQUADO. ACÓRDÃO IMPUGNADO TRANSITADO EM JULGADO. TRIBUNAL DO JÚRI. NULIDADE DO JULGAMENTO DO JÚRI POR AUSÊNCIA DE ÁUDIO DAS MÍDIAS. PERDA DA PROVA JUDICIAL. NECESSIDADE DE RESTABELECIMENTO DA LEGALIDADE. PRECEDENTES DO STJ. INEXISTÊNCIA DE ILEGALIDADE MANIFESTA. SÚMULA 160/STF. SUPRESSÃO DE INSTÂNCIA.
+Petição inicial indeferida liminarmente.
