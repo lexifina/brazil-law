@@ -1,0 +1,30 @@
+DECISÃO
+Trata-se de recurso ordinário em habeas corpus com pedido liminar interposto por ALEXANDRE PINHEIRO CASARINI contra acórdão prolatado pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO.
+Depreende-se dos autos que o recorrente foi condenado, como incurso nas sanções do art. 129, § 9º, do Código Penal, à pena de 3 meses de detenção em regime inicial aberto, cuja execução ficaria suspensa, nos termos do art. 77 do Código Penal, pelo período de 2 anos, pelo crime de lesão corporal no âmbito das relações domésticas e familiares, praticado em 7 de julho de 2017.
+Em apelação, a sentença foi parcialmente reformada por esta Corte Superior, que deu parcial provimento ao recurso da defesa, tão somente para reconhecer a causa de diminuição prevista no art. 129, § 4º, do Código Penal, reduzindo a pena do paciente para 2 meses de detenção em regime inicial aberto, mantidos os demais termos da sentença condenatória.
+Opostos embargos infringentes, o Tribunal local deu-lhe provimento para desclassificar a conduta para a contravenção penal prevista no art. 21 da Lei de Contravenções Penais - LCP e fixar penalidade de 10 dias-multa no valor unitário de meio salário mínimo.
+A defesa impetrou habeas corpus perante o Tribunal de origem, por meio do qual buscava a declaração da extinção da punibilidade do paciente por força da prescrição, com amparo no art. 114, I, do Código Penal, alegando o transcurso de lapso temporal superior a dois anos entre a data da publicação da sentença (20 de junho de 2019) e a data da publicação do acórdão que julgou os embargos infringentes (25 de maio de 2022). A ordem foi denegada nos termos do acórdão de fls. 188-195.
+No presente recurso ordinário, o recorrente alega que transcorreu o lapso prescricional de dois anos entre a data da publicação da sentença (20 de junho de 2019) e do acórdão que julgou os embargos infringentes (25 de maio de 2022).
+Sustenta que o entendimento de que o acórdão confirmatório da sentença condenatória interrompe o prazo prescricional não é pacífico, razão pela qual deve prevalecer a jurisprudência mais favorável ao réu.
+Aduz que, "ao se reconhecer expressamente o equívoco no julgamento da apelação e acolher os embargos infringentes, discorrendo sobre a desclassificação da conduta e diminuição da pena imposta ao recorrente, o novo v. acórdão passou a integrar efetivamente o julgado anterior e atraiu para si o marco interruptivo do lapso prescricional previsto no artigo 117, IV, do Código Penal".
+Afirma que o acórdão que acolheu os embargos infringentes, desclassificando a conduta do paciente, substituiu o acórdão que negou provimento à apelação, e por isso deve ser o único considerado para o fim de interrupção do lapso da prescrição.
+Assevera que a prescrição é matéria de ordem pública, passível de reconhecimento em qualquer fase do processo, inclusive de ofício, nos termos do art. 61 do Código de Processo Penal.
+Salienta, ainda, que deve prevalecer a jurisprudência mais favorável ao réu, isto é, de que apenas o acórdão dos embargos infringentes deve ser considerado como marco interruptivo.
+Requer, liminarmente, o sobrestamento de qualquer ato relacionado à execução da pena do recorrente.
+No mérito, pugna pelo provimento do recurso para reconhecer a prescrição da pretensão punitiva estatal, em razão do deslocamento do marco interruptivo prescricional com o acolhimento dos embargos infringentes.
+A liminar foi indeferida às fls. 230-231 e as informações foram prestadas às fls. 237-244 e 246.
+O Ministério Público Federal manifestou-se pelo provimento do recurso no parecer de fls. 251-255.
+Apresentada petição incidental às fls. 258-269.
+É o relatório.
+O recurso ordinário em habeas corpus não merece prosperar pelos fundamentos expostos no acórdão recorrido e corroborados pelo entendimento consolidado desta Corte Superior no Tema n. 1.100, segundo o qual "o acórdão condenatório de que trata o inciso IV do art. 117 do Código Penal interrompe a prescrição, inclusive quando confirmatório de sentença condenatória, seja mantendo, reduzindo ou aumentando a pena anteriormente imposta".
+Como bem destacado pelo Tribunal de origem, tanto o acórdão que julgou a apelação quanto aquele que decidiu os embargos infringentes constituem marcos interruptivos da prescrição, pois ambos possuem natureza condenatória e são recorríveis, nos termos do art. 117, IV, do Código Penal.
+Considerando os marcos interruptivos da sentença (20/6/2019), do acórdão da apelação (27/11/2020) e do acórdão dos embargos infringentes (25/5/2022), verifica-se que não decorreu lapso superior a dois anos entre eles, o que afasta a alegada prescrição à época da impetração.
+Contudo, conforme destacado pelo Ministério Público Federal em seu parecer, tendo em vista que o último marco interruptivo ocorreu em 25 de maio de 2022 e que o prazo prescricional aplicável à pena de multa é de dois anos, nos termos do art. 114, I, do Código Penal, verifica-se que, após a interposição do presente recurso, consumou-se a prescrição.
+Como bem observado pelo Parquet Federal:
+Porém, entre essa última data (25/5/22) e a atual, verifico o transcurso do prazo prescricional de dois anos, devendo, portanto, ser declarada a extinção da punibilidade do recorrente pelo advento da prescrição.
+Sendo a prescrição matéria de ordem pública, de reconhecimento obrigatório mesmo que de ofício, e tendo transcorrido o prazo prescricional de dois anos desde o último marco interruptivo (25/5/2022), impõe-se o reconhecimento da extinção da punibilidade.
+Ante o exposto, com amparo no art. 34, XVIII, b, do Regimento Interno do STJ, nego provimento ao recurso ordinário em habeas corpus.
+Não obstante, nos termos do art. 647-A e do § 2º do art. 654 do Código de Processo Penal, concedo a ordem de ofício para declarar extinta a punibilidade de ALEXANDRE PINHEIRO CASARINI pela prescrição da pretensão punitiva, nos termos do art. 107, IV, c/c o art. 114, I, ambos do Código Penal.
+Cientifique-se o Ministério Público Federal.
+Publique-se. Intimem-se.
+EMENTA
