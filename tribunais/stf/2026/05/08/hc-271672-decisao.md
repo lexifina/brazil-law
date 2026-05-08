@@ -1,0 +1,62 @@
+Decisão
+
+Trata-se de Habeas Corpus, com pedido de liminar, impetrado contra decisão do Ministro MESSOD AZULAY NETO, do Superior Tribunal de Justiça, proferida nos autos do Conflito de Competência 209.830/SP, assim relatada:
+
+“O Juízo de Direito da 2ª Vara Criminal de São Miguel do Oeste - SC, nos autos do processo n. 8000268-28.2024.8.24.0067, declinou da competência para o Juízo da Comarca de Piracicaba - SP, ao argumento de que o apenado está recolhido no Centro de Detenção Provisória em Piracicaba.
+O Juízo de Direito da Unidade Regional de Departamento Estadual de Execução Criminal DEECRIM 4ª RAJ de Campinas - SP, por sua vez, suscitou conflito de competência. Sustentou que o recolhimento do preso em unidade distinta de onde efetuada a sua condenação não é motivo para alteração da competência, conforme jurisprudência pacífica do Superior Tribunal de Justiça. Alegou, ainda, que o sistema prisional de São Paulo não dispõe de vagas para acolher internos de outras unidades da federação devido ao atual estado de superlotação.
+O Ministério Público Federal se manifestou pelo conhecimento do conflito a fim de que seja declarada a competência do Juízo de Direito da 2ª Vara Criminal de São  Miguel do Oeste - SC, ora suscitado”.
+
+Recebidos os autos, o Ministro relator no Superior Tribunal de Justiça conheceu do conflito “para declarar competente o Juízo de Direito da 2ª Vara Criminal de São Miguel do Oeste - SC”.
+Nesta ação, busca a defesa a concessão da ordem “para reformar o ato coator, declarando a competência do Juízo do DEECRIM 4ª RAJ (Campinas/SP) para processar a execução penal do Paciente, com arrimo no artigo 72, caput, do Código de Processo Penal e no artigo 103, parte final, da Lei de Execução Penal, visando estabilizar a execução no foro do domicílio do réu, preservando-se o interesse social e familiar em detrimento da formalidade geográfica do local da infração, que já cumpriu seu papel na fase de conhecimento, mas revela-se inócua, prejudicial e ilegal na fase de cumprimento de pena”.
+É o relatório. Decido.
+
+No presente caso, incide óbice ao conhecimento da ordem impetrada neste SUPREMO TRIBUNAL FEDERAL, uma vez que se impugna decisão monocrática de Ministro do Superior Tribunal de Justiça (HC 151.344-AgR, Rel. Min. ALEXANDRE DE MORAES, Primeira Turma, DJe de 21/3/2018; HC 122.718/SP, Rel. Min. ROSA WEBER, Primeira Turma, DJe de 3/9/2014; HC 121.684-AgR/SP, Rel. Min. TEORI ZAVASCKI, Segunda Turma, DJe de 16/5/2014; HC 138.687-AgR, Rel. Min. CELSO DE MELLO, Segunda Turma, DJe de 1º/3/2017; HC 116.875/AC, Rel. Min. CÁRMEN LÚCIA, Segunda Turma, DJe de 17/10/2013; HC 117.346/SP, Rel. Min. CÁRMEN LÚCIA, Segunda Turma, DJe de 22/10/2013; HC 117.798/SP, Rel. Min. RICARDO LEWANDOWSKI, Segunda Turma, DJe de 24/4/2014; HC 119.821/TO, Rel. Min. GILMAR MENDES, Segunda Turma, DJe de 29/4/2014; HC 122.381-AgR/SP, Rel. Min. DIAS TOFFOLI, Primeira Turma, DJe de 9/10/2014; RHC 114.737/RN, Rel. Min. CÁRMEN LÚCIA, Segunda Turma, DJe de 18/4/2013; RHC 114.961/SP, Rel. Min. DIAS TOFFOLI, Primeira Turma, DJe de 8/8/2013).
+De fato, o exaurimento da instância recorrida é, como regra, pressuposto para ensejar a competência do SUPREMO TRIBUNAL FEDERAL, conforme vem sendo reiteradamente proclamado por esta CORTE (HC 129.142, Rel. Min. MARCO AURÉLIO, Redator p/ Acórdão Min. ALEXANDRE DE MORAES, Primeira Turma, DJe de 10/8/2017; RHC 111.935, Rel. Min. LUIZ FUX, Primeira Turma, DJe de 30/9/2013; HC 97.009, Redator p/ Acórdão: Min. TEORI ZAVASCKI, Tribunal Pleno, DJe de 4/4/2014; HC 118.189, Rel. Min. RICARDO LEWANDOWSKI, Segunda Turma, DJe de 24/4/2014).
+Em hipóteses como a presente, o exaurimento da jurisdição na origem exige a interposição de agravo interno, não sendo possível sua substituição por habeas corpus dirigido a tribunal diverso. Admitir o contrário permitiria à parte escolher, conforme sua conveniência, o órgão revisor da decisão monocrática, em afronta ao princípio do juiz natural e ao necessário exaurimento das instâncias, pressuposto da competência desta CORTE, que não comporta ampliação por via imprópria (HC 131226 AgR, Rel. Min. TEORI ZAVASCKI, Segunda Turma, DJe de 25/2/2016 e HC 270760, Rel. Min. CÁRMEN LÚCIA, DJe de 15/4/2026).
+Esta Primeira Turma vem autorizando, somente em circunstâncias específicas, o exame de habeas corpus quando não encerrada a análise na instância competente, óbice superável apenas em hipótese de teratologia (HC 138.414/RJ, Primeira Turma, DJe de 20/4/2017) ou em casos excepcionais (HC 137.078/SP, Primeira Turma, DJe de 24/4/2017), como bem destacado pela Ministra ROSA WEBER.
+No caso, entretanto, não se apresentam hipóteses de teratologia ou excepcionalidade aptas a justificar a intervenção desta CORTE.
+Pelo que se depreende dos autos, o Juízo da 2ª Vara Criminal de São Miguel do Oeste/SC declinou da competência em favor do DEECRIM da 4ª RAJ de Campinas/SP, ao argumento de que “o apenado está recolhido no Centro de Detenção Provisória de Piracicaba/SP”.
+O Juízo paulista, por sua vez, suscitou conflito de competência, vindo o Superior Tribunal de Justiça a fixar, de forma expressa, a competência do Juízo da condenação (Santa Catarina), assentando que a custódia em unidade federativa diversa não tem o condão, por si só, de deslocar a execução penal, nos seguintes termos:
+
+“Conforme entendimento consolidado do Superior Tribunal de Justiça, o juízo da condenação é o competente para a execução das penas impostas, de modo que o cumprimento do mandado de prisão em unidade federativa diversa daquela em que o acusado foi condenado não implica deslocamento da competência. Confira-se:
+
+[...] Conforme consolidada jurisprudência do STJ, o fato de o condenado ter sido preso em Comarca diversa, em cumprimento a mandado de prisão expedido pelo Juiz prolator da sentença penal condenatória, não constitui causa legal de deslocamento de competência para a execução da pena. Precedentes: AgRg no CC n. 172.429/SC, relator Ministro Sebastião Reis Júnior, Terceira Seção, DJe de 27/11/2020; e CC 161.783/DF, Rel. Ministra Laurita Vaz, Terceira Seção, DJe 14/12/2018. (CC n. 199.799/PR, Terceira Seção, Rel. Min. Joel Ilan Paciornik, DJe de 20/10/2023)
+
+Conforme informações prestadas pelo Juízo suscitante, o executado não possui qualquer processo de conhecimento ou executivo em curso no Estado de São Paulo (fl. 42).
+Na espécie, embora o reeducando tenha sido preso em São Paulo, tal fato não desloca a competência para a execução penal, que continua sendo do Juízo de Direito da 2ª Vara Criminal de São Miguel do Oeste - SC.
+[...]”
+
+Conforme destacado pelo Superior Tribunal de Justiça, a regra é o cumprimento da pena no juízo da condenação, não sendo o local da prisão fator determinante para a competência da execução penal.
+Admite-se, é certo, a execução da pena em unidade da Federação diversa, com fundamento no art. 86 da Lei de Execução Penal. Trata-se, contudo, de hipótese condicionada ao interesse público, à conveniência administrativa e às circunstâncias concretas do caso, conforme ressalta a doutrina:
+
+O ideal e a regra é que a pena seja cumprida no lugar onde o crime foi cometido e o réu, julgado. Afinal, uma das finalidades da pena é a legitimação do Direito Penal associada à intimidação coletiva, motivo pelo qual se torna preciso que a sociedade conheça o teor da condenação e acompanhe o cumprimento da pena. Mas não é rígida essa regra. Fundamentos calcados no interesse público podem alterá-la. Aliás, também com base no interesse do preso, voltando-se o enfoque ao processo de ressocialização, é possível modificar a sua base de cumprimento da pena (ex.: o preso pretende cumprir pena próximo aos seus familiares em cidade diversa daquela em que foi condenado; havendo vaga, a transferência pode ser autorizada).
+(NUCCI. Guilherme de Souza. Curso de execução penal, 9 ed., Forense, 2026, p. 106).
+
+Nessa linha, a jurisprudência desta SUPREMA CORTE é firme no sentido de que o apenado não tem direito subjetivo de caráter absoluto de cumprir a pena em estabelecimento prisional próximo ao local de residência de seus familiares (HC 209757 AgR, Rel. Min. ROBERTO BARROSO, Primeira Turma, DJe de 31/3/2022; HC 208995 AgR, Rel. Min. ROBERTO BARROSO, Primeira Turma, DJe 15/03/2022; RHC 117977, Rel. Min. CÁRMEN LÚCIA, Segunda Turma, DJe de 14/8/2014; HC 115539, Rel. Min. LUIZ FUX, Primeira Turma, DJe de 17/9/2013; HC 71076, Rel. Min. SYDNEY SANCHES, Primeira Turma, julgado DJ 6/5/1994). Esse último assim ementado:
+
+“Art. 86 da Lei de Execução Penal (Lei n. 7.210, de 11.07.1984). Ao dispor que as penas privativas de liberdade aplicadas pela Justiça de uma unidade federativa podem ser executadas em outra unidade, em estabelecimento local ou da União, nem por isso o art. 86 da Lei n. 7.210, de 11.07.1984, criou para o condenado um direito subjetivo, irrecusável pela administração judiciária. As circunstancias, em cada caso, e que devem justificar a autorização do Juízo competente, para que a execução assim se proceda. Para concedê-la ou recusá-la, o juiz deve levar em conta, não apenas as conveniências pessoais e familiares do preso, mas, também, os da administração pública, sobretudo quando relacionadas com o efetivo cumprimento da pena. Quando haja risco de cumprimento inadequado da pena, no lugar pretendido pelo sentenciado, deve ser recusado o beneficio”.
+
+No mesmo sentido, o seguinte trecho do voto proferido pelo Ministro CELSO DE MELLO no julgamento do HC 88508 MC-AgR, Segunda Turma, DJe de 18/12/2013:
+
+[…]
+Na realidade, ainda que a condenação penal deva ser executada, ordinariamente, no local onde cometido o crime ou em que proferida a sentença condenatória, ou , ainda , naquele próximo aos familiares do condenado, o fato é que a implementação executiva do título penal condenatório pode realizar-se, legitimamente, em lugar diverso daqueles anteriormente referidos, desde que ocorrentes, como sucede na espécie, situações vinculadas a determinados fatores, como os pertinentes à conveniência da administração penitenciária ou a critérios fundados em razões de segurança prisional e de preservação da ordem pública.
+
+No caso concreto, o Juízo do DEECRIM da 4ª RAJ de Campinas/SP, ao suscitar o conflito, consignou que o sistema penitenciário paulista enfrenta “crônica escassez de vagas, de modo que a prévia aceitação deste juízo e a disponibilização de vaga definitiva eram medidas que deveriam ter sido adotadas pelo Juízo suscitado, o que não se verificou”, além de registrar que “inexiste informação de que o executado possua vínculo familiar no Estado de São Paulo”.
+Tais circunstâncias afastam, neste juízo de cognição sumária, hipóteses caracterizadoras de restrições abusivas ou arbitrárias que tenham afetado o direito de locomoção do paciente, pressuposto indispensável para a concessão da ordem de habeas corpus.
+Além disso, a impetração não está instruída com elementos mínimos aptos a aferir a conveniência da medida, sendo certo que a análise do pedido demandaria o exame do conjunto fático-probatório, providência incompatível com esta via estreita, bem como a prévia apreciação pelas instâncias ordinárias, sob pena de indevida supressão de instância.
+Nesse sentido:
+
+“[...]
+2. In casu, a deficiência na instrução do habeas corpus e a ausência da apreciação da matéria pelas instâncias precedentes não permitem concluir que o paciente faça jus ao cumprimento da pena privativa de liberdade na cidade de São Paulo/SP. Isto porque não consta dos autos o tipo penal que embasou a condenação, a descrição do fato criminoso praticado, a localidade onde o fato foi cometido, o quantum da pena imposta, nem qualquer consideração a cerca das condições pessoais do condenado. Ademais, não consta, ainda, qualquer documento que comprove que a família do paciente, de fato, reside na cidade de São Paulo/SP.
+3. Acrescente-se ainda que verificar a existência, ou não, de elementos concretos que inviabilizariam o cumprimento da pena na cidade de São Paulo, demandaria o revolvimento do conjunto fático probatório, inviável na via do habeas corpus.
+[...]
+(HC 115.797, Rel. Min. LUIZ FUX, Primeira Turma, Dje 13/11/2013)”
+
+Por fim, ressalte-se que o indeferimento da ordem não impede que o paciente formule pedido de transferência, devidamente instruído, perante a instância competente, com a manifestação dos juízos envolvidos.
+Diante do exposto, com base no art. 21, § 1º, do Regimento Interno do STF, INDEFIRO a ordem de HABEAS CORPUS.
+Publique-se.
+Brasília, 8 de maio de 2026.
+
+Ministro ALEXANDRE DE MORAES
+Relator
+Documento assinado digitalmente
