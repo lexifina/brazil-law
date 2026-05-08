@@ -1,0 +1,23 @@
+DECISÃO
+Trata-se de recurso especial interposto por GASIL COMERCIO E IMPORTACAO LTDA (INCORPORADORA DE MULTISOM COMÉRCIO E IMPORTAÇÃO LTDA), com fundamento no art. 105, III, "a", da Constituição Federal, contra acórdão proferido pelo Tribunal Regional Federal da 4ª Região que, em cumprimento à decisão anterior desta Corte Superior, rejulgou os embargos de declaração do contribuinte.
+O acórdão recorrido está assim ementado (fl. 3854):
+"TRIBUTÁRIO. EMBARGOS DE DECLARAÇÃO. ERRO MATERIAL. CORREÇÃO DA EMENTA.
+Embargos de declaração do contribuinte parcialmente acolhidos, somente para reconhecer o erro material quanto à utilização do termo imprestabilidade no corpo do voto e correção de erro material na ementa.
+Redação da ementa retificada."
+Em suas razões (fls. 3909-3971), a recorrente alega, preliminarmente, a persistência na violação do art. 1.022, II, do CPC/2015. Sustenta que a Corte de origem não sanou a omissão determinada, limitando-se a realizar uma alteração semântica via "erro material" para evitar a aplicação do art. 47 da Lei n. 8.981/1995. No mérito, aponta ofensa aos arts. 494, I, do CPC/2015 e 47 da Lei n. 8.981/1995, aduzindo que, uma vez reconhecida a "bagunça contábil" e a "promiscuidade" entre as empresas siamesas, o arbitramento do lucro seria medida impositiva, e não mera faculdade do Fisco.
+Juízo positivo de admissibilidade na origem.
+É o relatório. Decido.
+Consigne-se inicialmente que o recurso foi interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015, devendo ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+Quanto à alegada violação do art. 1.022 do CPC/2015, não assiste razão à recorrente. Verifica-se que o Tribunal Regional Federal da 4ª Região, ao rejulgar os aclaratórios (fls. 3856-3869), cumpriu integralmente a determinação desta Corte Superior. Diferente do que sustenta a recorrente, a Corte de origem não se limitou a uma troca terminológica, mas fundamentou extensamente as razões pelas quais entende ser inaplicável o arbitramento forçado no caso concreto.
+O acórdão de origem esclareceu que a confusão contábil e a promiscuidade administrativa entre as empresas envolvidas, embora caracterizassem "irregularidades graves", não retiravam da fiscalização a possibilidade de identificar, na própria escrita apresentada, as omissões de receita e as saídas de numerário sem causa. Assim, a decisão recorrida enfrentou a tese do arbitramento (art. 47 da Lei n. 8.981/1995) e o seu afastamento foi devidamente justificado, não havendo que se falar em negativa de prestação jurisdicional.
+Nesse sentido, o julgador não está obrigado a responder a todos os argumentos das partes quando já encontrou fundamento suficiente para decidir. A insatisfação com o resultado do julgamento não autoriza a via dos aclaratórios por omissão.
+No mérito, a pretensão da recorrente de ver reconhecida a obrigatoriedade do arbitramento do lucro esbarra no óbice da Súmula 7/STJ.
+Para acolher a tese recursal e concluir que a contabilidade da empresa era tecnicamente "imprestável"  a ponto de inviabilizar o lançamento de ofício e obrigar o arbitramento nos moldes do art. 47 da Lei n. 8.981/1995  , seria necessário o revolvimento de todo o conjunto fático-probatório dos autos, especialmente o laudo pericial e os livros fiscais.
+O Tribunal de origem, soberano na análise dos fatos, concluiu que a escrita continha "irregularidades importantes", mas que fornecia "elementos para indicar o que e como deveria ter sido escriturado" (fl. 3867). Alterar essa premissa para reenquadrar a situação como de "imprestabilidade total" demandaria nova incursão na prova técnica, o que é vedado em sede de recurso especial.
+A propósito:
+"A pretensão de simples reexame de prova não enseja recurso especial." (Súmula 7/STJ).
+Ante o exposto, com fulcro no art. 932, III, do CPC/2015, não conheço do recurso especial.
+Caso tenham sido fixados honorários sucumbenciais anteriormente pelas instâncias ordinárias, majoro-os em 10% (dez por cento), observados os limites e parâmetros dos §§ 2º, 3º e 11 do artigo 85 do CPC/2015 e eventual Gratuidade da Justiça (§ 3º do artigo 98 do CPC/2015).
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL E TRIBUTÁRIO. RECURSO ESPECIAL. VIOLAÇÃO DO ART. 1.022 DO CPC/2015. NÃO OCORRÊNCIA. ACÓRDÃO DE ORIGEM QUE, EM REJULGAMENTO DETERMINADO POR ESTA CORTE SUPERIOR, ENFRENTOU A CONTROVÉRSIA DE FORMA FUNDAMENTADA. ARBITRAMENTO DO LUCRO. ART. 47 DA LEI N. 8.981/1995. PRETENSÃO DE REENQUADRAMENTO JURÍDICO DE ESCRITA FISCAL COMO "IMPRESTÁVEL". NECESSIDADE DE REEXAME DO CONTEXTO FÁTICO-PROBATÓRIO. INCIDÊNCIA DA SÚMULA 7/STJ. RECURSO ESPECIAL NÃO CONHECIDO.
