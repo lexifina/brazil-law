@@ -1,0 +1,31 @@
+DECISÃO
+Trata-se de recurso ordinário em habeas corpus, com pedido liminar, interposto por SAMMY PEREIRA VARJÃO, SELTON GOMES VARJÃO e NATHALIA NASCIMENTO MAQUINE contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DO AMAZONAS proferido nos autos do HC n. 0622858-77.2025.8.04.9001.
+Consta que os recorrentes foram presos preventivamente, em razão da suposta prática dos crimes previstos nos arts. 33, caput, e 35, ambos da Lei n. 11.343/2006.
+Neste recurso ordinário, a Defesa alega a ausência de fundamentação idônea e dos requisitos necessários para a decretação da custódia preventiva.
+Informa que os custodiados possuem condições pessoais favoráveis.
+Defende a desproporcionalidade das prisões preventivas.
+Argumenta, ainda, nulidade das provas decorrente de mandado de busca e apreensão genérico, que não individualizou com precisão as residências e ensejou arrecadação indiscriminada de objetos em diversos imóveis, o que, no seu sentir, rompeu a cadeia de custódia prevista no art. 158-A do Código de Processo Penal e inviabilizou a aferição da posse individualizada dos entorpecentes.
+Requer, liminarmente e no mérito, a expedição de alvará de soltura em favor dos recorrentes.
+É o relatório.
+Decido.
+No caso, a Corte local consignou o seguinte (fls. 95-99):
+Não conheço do pedido subsidiário de prisão domiciliar, uma vez que não foi objeto de análise perante o Juízo de origem, sob pena de risco de supressão de instância. Nesse sentido, colaciono precedentes sobre o tema:
+ ..
+Quanto ao mérito, após detida análise dos autos de origem, entendo que a ordem deve ser denegada pelas razões que passo a expor. Cinge-se a controvérsia em avaliar a viabilidade da transferência dos pacientes custodiados na Delegacia de Nova Olinda do Norte para a unidade prisional de Itacoatiara, consoante manifestação ministerial de mov. 83.1 dos autos de origem.
+De acordo com o parecer ministerial, a permanência dos custodiados na Delegacia de Nova Olinda do Norte constitui flagrante violação ao princípio da dignidade da pessoa humana, insculpido no artigo 1º, inciso III, da Constituição Federal, bem como ao direito fundamental previsto no artigo 5º, inciso XLIX, que assegura aos presos o respeito à integridade física e moral. Além disso, apontou que asdelegacias de polícia civil não foram concebidas nem estruturadas para abrigar presos por períodos prolongados, sendo estabelecimentos destinados exclusivamente às atividades de investigação policial e custódia temporária de flagranteados até sua apresentação ao Poder Judiciário. Declinou, também, que os investigadores de polícia do local estão fazendo o trabalho de carcereiros em desvio de função. Diante dessas informações, infere-se que a Delegacia de Polícia da Comarca de Nova Olinda do Norte não é o local adequado para a segregação de presos, uma vez que não possui condições físicas adequadas. Em que pese a Lei n.º 72.10/1984 estabelecer, nos artigos 41, X e 103, o direito do preso a segregação em estabelecimento prisional próximo de seus familiares, não se trata de um direito absoluto, consoante elucidado pelo Superior Tribunal de Justiça:
+ ..
+Portanto, não vislumbro nenhum constrangimento ilegal, por se tratar de manifestação respaldada em Provimento da Corregedoria Geral de Justiça do Amazonas e por visar à proteção do interesse público e à dignidade dos custodiados, uma vez que as delegacias não possuem condições adequadas para abrigar presos provisórios. No que tange à eventual quebra da cadeia de custódia, verifico tratar-se de questão que remete ao mérito da demanda, exigindo dilação probatória inviável na via angusta do writ. Portanto, a matéria deve ser devidamente deduzida e apreciada no bojo da ação penal principal.
+Logo, não vislumbro constrangimento ilegal a ser sanado pela via do Habeas Corpus, pelo que sua denegação é medida que se impõe.
+Ao rejeitar os embargos de declaração opostos, o Tribunal local destacou o seguinte (fl. 1044):
+No caso, não se verifica a ocorrência de omissão ou contradição mencionadas, pois foram enfrentadas no acórdão, de forma clara e devidamente fundamentadas todas as questões relevantes para o julgamento do recurso. Com efeito, em relação ao item da quebra da cadeia de custódia, que inclui a alegação de mandado de busca e apreensão supostamente genérico, entendeu-se tratar de matéria de mérito que depende de dilação probatória e deve ser discutida no bojo da ação penal. Em relação à suposta alegação de que o acórdão teria silenciado sobre o direito dos presos de permanecerem em local próximo à família e ao defensor, o acórdão aduziu o caráter relativo de tal direito, que pode ser restringido, tendo em vista as razões de interesse público e necessidade de custódia em estabelecido adequado. Nota-se, portanto, que, ao contrário do alegado pelo embargante, não há omissão ou contradição a serem sanadas, posto que houve o devido pronunciamento acerca das questões relevantes para o julgamento. Destarte, não verifico qualquer dos vícios do art. 1022 do CPC ou do art. 619 do CPP, restando amplamente demonstrado que os aclaratórios sob exame têm nítido propósito de rediscussão do mérito recursal, o que não é admissível, de modo que a integral rejeição dos embargos é medida que se impõe. 3. Dispositivo Diante de todo o exposto, em harmonia com o parecer ministerial, conheço dos Embargos de , mantendo o acórdão recorrido em sua integralidade.
+Como se vê, as alegações feitas pela Defesa não foram examinadas pelo Tribunal de origem no acórdão impugnado, o que impede a manifestação originária desta Corte, sob pena de supressão de instância.
+A propósito:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. CRIME DE RESPONSABILIDADE DE PREFEITO. FALSIDADE IDEOLÓGICA, POR 13 VEZES. NULIDADE. QUEBRA DE SIGILO TELEFÔNICO E TELEMÁTICO. INEXISTÊNCIA DE DILIGÊNCIA PRÉVIA. SUPRESSÃO DE INSTÂNCIA. AUSÊNCIA DE FLAGRANTE ILEGALIDADE. DIVERSAS DILIGÊNCIAS PREPARATÓRIAS. AGRAVO REGIMENTAL DESPROVIDO.
+(..)
+2. O Tribunal de origem não analisou o tema no viés ora delineado pela defesa, ficando esta Corte impedida de apreciar a matéria, sob pena de indevida supressão de instância.
+(..)
+5. Agravo regimental desprovido.
+(AgRg no HC n. 864.854/SP, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 2/9/2025, DJEN de 9/9/2025.)
+Ante o exposto, indefiro liminarmente a petição recursal.
+Publique-se. Intimem -se.
+EMENTA
