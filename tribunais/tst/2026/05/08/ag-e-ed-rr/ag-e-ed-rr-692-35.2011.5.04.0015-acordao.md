@@ -1,0 +1,482 @@
+Poder Judiciário
+Justiça do Trabalho
+Tribunal Superior do Trabalho
+PROCESSO Nº TST-Ag-E-ED-RR - 692-35.2011.5.04.0015
+A C Ó R D Ã O
+Subseção I Especializada em Dissídios Individuais
+GMABB/ra/
+AGRAVO EM EMBARGOS. RECURSO DE REVISTA.
+RESPONSABILIDADE SUBSIDIÁRIA. ADMINISTRAÇÃO PÚBLICA.
+TEMA 246 DA TABELA DE REPERCUSSÃO GERAL DO SUPREMO
+TRIBUNAL FEDERAL. DECISÃO DE CARÁTER VINCULANTE. ART.
+894, § 2º, DA CLT.
+1. O Supremo Tribunal Federal, no julgamento da Ação
+Declaratória de Constitucionalidade (ADC) nº 16 e do Recurso
+Extraordinário (RE) nº 760.931/DF, em que fixou tese no Tema
+246 da Tabela de Repercussão Geral, explicitou que a
+responsabilização do ente público não é automática e depende
+de prova efetiva de sua conduta culposa quanto à fiscalização
+da empresa prestadora de serviços, o que não decorre de
+presunção nem do mero inadimplemento das obrigações
+trabalhistas pela prestadora de serviços.
+2. No caso, a Turma concluiu pela inexistência de
+responsabilidade subsidiária da Administração Pública, por não
+evidenciada sua conduta culposa quanto à fiscalização do
+cumprimento das obrigações trabalhistas. Ao assim decidir, a
+Turma observou a tese firmada pelo Supremo Tribunal Federal
+no Tema 246 da Tabela de Repercussão Geral.
+3. Assim, os paradigmas em que se alicerçam os embargos
+encontram-se superados pela jurisprudência atual e iterativa
+desta Corte Superior e do Supremo Tribunal Federal, o que
+obsta o processamento do recurso, a teor do art. 894, § 2º, da
+CLT.
+4. O entendimento externado nos arestos no sentido de atribuir
+à Administração Pública o ônus de comprovar a fiscalização do
+cumprimento das obrigações trabalhistas encontra-se superado
+pela atual jurisprudência do Supremo Tribunal Federal, firmada
+no julgamento do Tema 1.118 da Tabela de Repercussão Geral,
+que atribuiu ao reclamante o encargo de demonstrar "a efetiva
+existência de comportamento negligente ou nexo de causalidade
+entre o dano por ela invocado e a conduta comissiva ou omissiva do
+poder público".
+5. Acerca da apontada contrariedade à Súmula nº 126 do TST, a
+Turma, ao afastar a responsabilidade subsidiária da
+Administração Pública, considerou a delimitação fática
+registrada no acórdão regional no sentido da inexistência de
+elementos nos autos que comprovassem de forma efetiva a
+conduta culposa do ente público na fiscalização do contrato de
+prestação de serviços. A reforma do julgado regional, portanto,
+amparou-se somente em exame estritamente jurídico. Afastada,
+assim, a alegada contrariedade à Súmula nº 126 do TST.
+6. O processamento dos embargos também não se viabiliza pela
+alegada contrariedade à Súmula n° 331, V, do TST, pois a Turma,
+ao afastar a responsabilidade subsidiária do ente público, no
+contexto descrito nestes autos, o fez em consonância com o
+entendimento consubstanciado no referido verbete.
+Agravo de que se conhece e a que se nega provimento.
+Este documento pode ser acessado no endereço eletrônico http://www.tst.jus.br/validador sob código 10067217F6E9C6DAAA.
+Vistos, relatados e discutidos estes autos de Agravo em Embargos em Embargos
+de Declaração em Recurso de Revista nº TST-Ag-E-ED-RR - 692-35.2011.5.04.0015, em que é Agravante
+GABRIEL KRUG GUEDES e são Agravados ESTADO DO RIO GRANDE DO SUL e VILLAGE TRABALHOS
+TERCEIRIZÁVEIS LTDA..
+Trata-se de agravo interposto pelo reclamante em face de decisão proferida pela
+Presidência da 8ª Turma do Tribunal Superior do Trabalho em que se denegou seguimento aos
+embargos.
+Com impugnação aos embargos e contrarrazões ao agravo.
+O Ministério Público do Trabalho opinou pelo conhecimento e provimento do
+recurso.
+É o relatório.
+V O T O
+1 - CONHECIMENTO
+Atendidos os pressupostos extrínsecos de admissibilidade relativos à
+tempestividade e à representação processual, CONHEÇO do agravo.
+2 – MÉRITO
+RESPONSABILIDADE SUBSIDIÁRIA. ADMINISTRAÇÃO PÚBLICA. TEMA 246 DA
+TABELA DE REPERCUSSÃO GERAL DO SUPREMO TRIBUNAL FEDERAL. DECISÃO DE CARÁTER
+VINCULANTE. ART. 894, § 2º, DA CLT.
+A Presidência da 8ª Turma denegou seguimento aos embargos do reclamante nos
+seguintes termos:
+D E S P A C H O
+Trata-se de Recurso de Embargos interposto pelo reclamante a fls. 1.196/1.209, no qual busca a
+reforma da decisão proferida pela Oitava Turma (fls. 1.143/1.150 e 1.188/1.190) quanto ao tema
+“Responsabilidade Subsidiária. Administração Pública”. Indica contrariedade à Súmula 126 desta
+Corte e transcreve aresto para o cotejo de teses.
+O Recurso é tempestivo e está subscrito por procurador habilitado nos autos.
+A Turma, em juízo de retratação, deu provimento ao Recurso de Revista interposto pelo
+reclamado, “para reformar o acórdão regional e afastar a responsabilidade subsidiária atribuída ao
+segundo reclamado, Estado do Rio Grande do Sul, excluindo-o do polo passivo da presente
+demanda”, julgando “prejudicado o tema remanescente do recurso de revista” (fls. 1.150),
+concentrando seus fundamentos na seguinte ementa:
+“RECURSO DE REVISTA. JULGAMENTO ANTERIOR PELA TURMA. DEVOLUÇÃO PARA O EXERCÍCIO
+DE EVENTUAL JUÍZO DE RETRATAÇÃO. RESPONSABILIDADE SUBSIDIÁRIA. ENTE PÚBLICO. CONDUTA
+CULPOSA. NÃO CONFIGURAÇÃO. 1. Segundo a diretriz perfilhada pelo Supremo Tribunal Federal no
+julgamento da ADC nº 16 e a tese fixada no RE nº 760.931, em sede de repercussão geral (Tema nº
+246), a configuração da responsabilidade subsidiária dos entes integrantes da Administração Pública
+depende da efetiva comprovação da sua conduta culposa quanto à fiscalização da prestadora de
+serviço, o que não decorre do mero inadimplemento das obrigações trabalhistas. 2. No caso dos
+autos, foi atribuída responsabilidade subsidiária ao ente público sem nenhuma prova efetiva da
+conduta culposa capaz de subsidiar a condenação imposta, a qual deve ser afastada, em observância
+aos referidos precedentes e à previsão contida no art. 71, § 1º, da Lei nº 8.666/93. Recurso de revista
+conhecido e provido, em juízo de retratação, na forma dos arts. 1.039, caput, e 1.040, II, do CPC/2015”
+(fls. 1.143).
+Na fundamentação do acórdão a Turma registrou, verbis:
+(...)
+Dessa forma, estando a decisão recorrida em consonância com jurisprudência sumulada desta
+Corte, resta inviável o processamento do Recurso de Embargos, a teor do art. 894, § 2º, da CLT.
+Há que se ressaltar que o aresto transcrito a fls. 1.203/1.204, oriundo da SDI-1 desta Corte, é
+inespecífico (Súmula 296, item I, desta Corte), porquanto aborda a questão do ônus da prova,
+aspecto não tratado na decisão recorrida.
+Acrescente-se que não se constata a excepcional hipótese de conhecimento do Recurso de
+Embargos por contrariedade à Súmula 126 desta Corte, porque não há no acórdão embargado
+nenhuma assertiva da Turma contrária ao entendimento firmado no aludido verbete, bem como
+porque não se contata ter a Turma procedido ao reexame de fatos e provas não consignados no
+Este documento pode ser acessado no endereço eletrônico http://www.tst.jus.br/validador sob código 10067217F6E9C6DAAA.
+acórdão do Tribunal Regional ou deixado de observar prova nele registrada.
+Ante o exposto, INDEFIRO o processamento do Recurso de Embargos.
+No agravo, a parte reclamante alega que seu recurso comportava processamento.
+Nas razões dos embargos, argumenta que “o Eg. Tribunal Regional se pautou na
+efetiva comprovação da culpa do Reclamado, evidenciada a partir da ausência de comprovação dos atos de
+fiscalização do contrato celebrado entre as partes, considerando que o ônus da prova da fiscalização do
+contrato de trabalho era do Reclamado e não foi satisfeito (...) não há que se falar que a condenação da
+tomadora de serviços teria sido “aferida de forma presumida ou em razão do mero inadimplemento das
+obrigações trabalhistas pela empresa contratada”, conforme afirmou a C. 8ª Turma”.
+Sustenta, ainda, que “a C. 8ª Turma do TST acabou por atribuir ao Reclamante o ônus
+da prova da ausência de fiscalização do contrato de trabalho pelo Reclamado”.
+Aponta contrariedade às Súmulas 126 e 331, V, do TST.
+Colaciona arestos para confronto de teses.
+Ao exame.
+A 8ª Turma do TST, exercendo juízo de retratação, deu provimento ao recurso de
+revista da Administração Pública para afastar a sua responsabilidade subsidiária. Eis o teor da decisão
+embargada:
+RECURSO DE REVISTA. JULGAMENTO ANTERIOR PELA TURMA. DEVOLUÇÃO PARA O EXERCÍCIO
+DE EVENTUAL JUÍZO DE RETRATAÇÃO. RESPONSABILIDADE SUBSIDIÁRIA. ENTE PÚBLICO. CONDUTA
+CULPOSA. NÃO CONFIGURAÇÃO. 1. Segundo a diretriz perfilhada pelo Supremo Tribunal Federal no
+julgamento da ADC nº 16 e a tese fixada no RE nº 760.931, em sede de repercussão geral (Tema nº
+246), a configuração da responsabilidade subsidiária dos entes integrantes da Administração Pública
+depende da efetiva comprovação da sua conduta culposa quanto à fiscalização da prestadora de
+serviço, o que não decorre do mero inadimplemento das obrigações trabalhistas. 2. No caso dos
+autos, foi atribuída responsabilidade subsidiária ao ente público sem nenhuma prova efetiva da
+conduta culposa capaz de subsidiar a condenação imposta, a qual deve ser afastada, em
+observância aos referidos precedentes e à previsão contida no art. 71, § 1º, da Lei nº 8.666/93.
+Recurso de revista conhecido e provido, em juízo de retratação, na forma dos arts. 1.039, caput , e
+1.040, II, do CPC/2015.
+De plano, registre-se que eventual indicação de violação de dispositivos de lei ou
+da Constituição Federal não impulsiona o conhecimento dos embargos regidos pelo art. 894, II, da CLT,
+já com a redação conferida pela Lei nº 13.015/14.
+O Supremo Tribunal Federal, no julgamento da Ação Declaratória de
+Constitucionalidade (ADC) nº 16 e do Recurso Extraordinário (RE) nº 760.931/DF, em que fixou o Tema
+246 da Tabela de Repercussão Geral, explicitou que a responsabilização do ente público não é
+automática e depende de prova efetiva de sua conduta culposa quanto à fiscalização da prestadora de
+serviços, o que não decorre de presunção nem do mero inadimplemento das obrigações trabalhistas
+pela prestadora de serviços.
+No caso, a Turma concluiu pela inexistência de responsabilidade subsidiária da
+Administração Pública, por não evidenciada sua conduta culposa quanto à fiscalização do cumprimento
+das obrigações trabalhistas. Ao assim decidir, a Turma observou a tese firmada pelo Supremo Tribunal
+Federal no Tema 246 da Tabela de Repercussão Geral.
+Nesse cenário, colhem-se os seguintes julgados desta Subseção, amparados na
+tese fixada no Tema 246 da Tabela de Repercussão Geral do STF:
+AGRAVO. EMBARGOS DE DIVERGÊNCIA. RECURSO DE REVISTA. TERCEIRIZAÇÃO.
+RESPONSABILIDADE SUBSIDIÁRIA DA ADMINISTRAÇÃO PÚBLICA. DECISÃO EM CONFORMIDADE COM
+O TEMA Nº 246 DA TABELA DE REPERCUSSÃO GERAL. ÓBICE DO ART. 894, § 2º, DA CLT. I . O Supremo
+Tribunal Federal, no julgamento do Recurso Extraordinário nº 760.931, submetido ao regime de
+repercussão geral, fixou a tese de que “o inadimplemento dos encargos trabalhistas dos empregados
+do contratado não transfere automaticamente ao Poder Público contratante a responsabilidade pelo
+seu pagamento, seja em caráter solidário ou subsidiário, nos termos do art. 71, § 1º, da Lei nº
+8.666/93” (Tema 246). II . Na ocasião, reafirmou-se a decisão vinculante proferida no julgamento da
+Ação Declaratória de Constitucionalidade nº 16, em 24/11/2010, na qual o Supremo Tribunal Federal
+declarou a conformidade do art. 71, § 1º, da Lei nº 8.666/1993 com a Constituição da República e
+condicionou a condenação subsidiária à comprovação de que a administração pública não cumpriu
+ou falhou em cumprir com suas obrigações contratuais, em especial quanto ao dever de fiscalizar o
+atendimento por parte da empresa vencedora da licitação das obrigações trabalhistas que assumiu.
+III . Na hipótese dos autos, a Turma julgadora afastou a responsabilidade subsidiária do ente público
+reclamado, sob o fundamento de que o Tribunal Regional baseou sua decisão no mero
+inadimplemento das obrigações trabalhistas pela empresa terceirizada, sem que fosse possível aferir
+a ausência ou falha na fiscalização das obrigações contratuais pela Administração. IV . Constata-se,
+portanto, que a decisão embargada está em conformidade com a jurisprudência vinculante do
+Este documento pode ser acessado no endereço eletrônico http://www.tst.jus.br/validador sob código 10067217F6E9C6DAAA.
+Supremo Tribunal Federal, firmada no julgamento do Tema 246 da Tabela de Repercussão Geral, de modo que o processamento dos embargos encontra óbice nos termos do art. 894, § 2º, da CLT. V .
+Ademais, os modelos que versam sobre a possibilidade de se determinar o retorno dos autos ao TRT
+de origem para que - à luz do entendimento superveniente exarado pelo STF na ADC nº 16 -, examine
+a existência de culpa da Administração Pública não se alinham ao entendimento firmado por esta
+SbDI-1 do TST quando do julgamento do E-RR-273340-15.2005.5.02.0041, no sentido de que “a
+determinação de retorno dos autos ao Tribunal Regional do Trabalho para reexame dos fatos e das
+provas, com o fim de aferir a existência de culpa da Administração Pública, tomadora dos serviços,
+pressupõe o exame de recurso próprio com pedido específico e consequente acolhimento de
+arguição de nulidade da decisão proferida pelo Tribunal Regional no que tange à produção da prova
+da culpa pelo inadimplemento das obrigações trabalhistas a cargo do prestador dos serviços”. VI .
+Por fim, o acórdão embargado apreciou a matéria sob o enfoque exclusivo da impossibilidade de
+transferência automática da responsabilidade subsidiária ao integrante da Administração Pública,
+sem a comprovação da conduta culposa, não abordando a discussão do ônus de demonstrar a
+efetiva fiscalização das obrigações trabalhistas da empresa prestadora de serviços (tema 1118), de modo que, o processamento dos embargos, sob esse viés, encontra óbice na Súmula nº 296, I, c / c a
+Súmula nº 297, I, do TST. VII . Agravo de que se conhece e a que se nega provimento. (Ag-E-ED-RR￾47740-69.2008.5.10.0001, Subseção I Especializada em Dissídios Individuais, Relator Ministro Evandro
+Pereira Valadao Lopes, DEJT 29/08/2025).
+"DIREITO DO TRABALHO. EMBARGOS EM EMBARGOS DE DECLARAÇÃO EM RECURSO DE
+REVISTA. ENTE PÚBLICO. RESPONSABILIDADE SUBSIDIÁRIA. TEMAS 246 E 1118 DA TABELA DE
+REPERCUSSÃO GERAL DO STF. EFEITO VINCULANTE. RECURSO NÃO CONHECIDO. I. CASO EM EXAME 1.
+Embargos em que se discute a responsabilidade subsidiária trabalhista de ente público tomador de
+serviços. II. QUESTÃO EM DISCUSSÃO 2. A questão em discute consiste em saber se o ente público
+pode ser responsabilizado, subsidiariamente, por dívidas trabalhistas, quando terceiriza serviços. III.
+RAZÕES DE DECIDIR 3. No julgamento dos Temas 246 e 1118 da Tabela de Repercussão Geral, o
+Supremo Tribunal Federal pacificou entendimento de que a responsabilidade subsidiária de ente
+público, nas hipóteses em que terceiriza serviços, não é automática e depende da demonstração
+efetiva, pelo trabalhador, da conduta negligente do tomador ou do nexo de causalidade entre essa
+omissão e o inadimplemento das obrigações trabalhistas. Nesse sentido, não se presume a culpa por
+falha de escolha ou fiscalização da Administração Pública pelo simples fato de existirem direitos
+trabalhistas não quitados pela empregadora prestadora de serviços. 4. No presente caso, ao imputar
+a responsabilidade subsidiária ao ente público sem a comprovação efetiva de culpa na fiscalização
+do cumprimento das obrigações trabalhistas pela empresa prestadora dos serviços, o Tribunal
+Regional contrariou a tese vinculante do STF. 5. O acórdão da Turma, que adota o entendimento
+vinculante do STF acerca da matéria, não autoria o conhecimento dos embargos, por força do art.
+894, § 2º, da CLT. IV. DISPOSITIVO E TESE 6. Recurso não conhecido. Tese de julgamento: “A
+responsabilidade subsidiária de ente público, nas hipóteses em que terceiriza serviços, não é
+automática e depende da demonstração efetiva, pelo trabalhador, da conduta negligente do
+tomador ou do nexo de causalidade entre essa omissão e o inadimplemento das obrigações
+trabalhistas” _________________________ Dispositivos relevantes citados: Lei nº 8.666/93, art. 71, § 1º.
+Jurisprudência relevante citada: STF, Temas 246 e 1118 da Tabela de Repercussão Geral" (E-ED-ED-RR￾11534-82.2015.5.03.0073, Subseção I Especializada em Dissídios Individuais, Relator Ministro
+Alexandre Luiz Ramos, DEJT 27/06/2025).
+"AGRAVO EM RECURSO DE EMBARGOS EM AGRAVO EM RECURSO DE REVISTA. RECURSO DE
+EMBARGOS INTERPOSTO SOB A ÉGIDE DA LEI Nº 13.467/2017. ADMINISTRAÇÃO PÚBLICA.
+RESPONSABILIDADE SUBSIDIÁRIA. CULPA IN VIGILANDO. FISCALIZAÇÃO INEFICIENTE. AUSÊNCIA DE
+COMPROVAÇÃO DA CULPA DA ADMINISTRAÇÃO PELO RECLAMANTE. TEMAS 246 e 1.118 DO STF.
+DECISÃO EM CONFORMIDADE COM A TESE VINCULANTE FIRMADA PELO STF. A c. Primeira Turma
+conheceu e deu provimento ao recurso de revista do ente público para afastar a responsabilidade
+subsidiária que lhe foi imposta nos autos. Na hipótese dos autos, o e. Tribunal Regional transferiu
+automaticamente à Administração Pública a responsabilidade subsidiária, tendo em vista que a
+atribuição de culpa in vigilando se deu exclusivamente em razão do descumprimento de obrigações
+trabalhistas. O Supremo Tribunal Federal, em sede de repercussão geral, ao julgar o mérito do RE
+760931/DF, fixou a seguinte tese a respeito da impossibilidade de transferência automática da
+responsabilidade subsidiária ao integrante da Administração Pública: “O inadimplemento dos
+encargos trabalhistas dos empregados do contratado não transfere automaticamente ao Poder
+Público contratante a responsabilidade pelo seu pagamento, seja em caráter solidário ou subsidiário,
+nos termos do art. 71, § 1º, da Lei nº 8.666/93”. Ainda, o STF, no exame do Tema 1.118, nos autos do
+RE nº 1.298.647 fixou tese vinculante, com o seguinte teor: “1. Não há responsabilidade subsidiária da
+Administração Pública por encargos trabalhistas gerados pelo inadimplemento de empresa
+prestadora de serviços contratada, se amparada exclusivamente na premissa da inversão do ônus da
+prova, remanescendo imprescindível a comprovação, pela parte autora, da efetiva existência de
+comportamento negligente ou nexo de causalidade entre o dano por ele invocado e a conduta
+comissiva ou omissiva do poder público. 2. Haverá comportamento negligente quando a
+Administração Pública permanecer inerte após o recebimento de notificação formal de que a
+empresa contratada está descumprindo suas obrigações trabalhistas, enviada pelo trabalhador,
+sindicato, Ministério do Trabalho, Ministério Público, Defensoria Pública ou outro meio idôneo. 3.
+Constitui responsabilidade da Administração Pública garantir as condições de segurança, higiene e
+salubridade dos trabalhadores, quando o trabalho for realizado em suas dependências ou local
+previamente convencionado em contrato, nos termos do art. 5º-A, § 3º, da Lei nº 6.019/1974. 4. Nos
+contratos de terceirização, a Administração Pública deverá: (i) exigir da contratada a comprovação de
+capital social integralizado compatível com o número de empregados, na forma do art. 4º-B da Lei nº
+6.019/1974; e (ii) adotar medidas para assegurar o cumprimento das obrigações trabalhistas pela
+contratada, na forma do art. 121, § 3º, da Lei nº 14.133/2021, tais como condicionar o pagamento à
+comprovação de quitação das obrigações trabalhistas do mês anterior.”. Portanto, diante de tais
+decisões, não subsiste o entendimento no sentido de manter a responsabilidade subsidiária da
+administração pública em casos nos quais o Regional alega a ineficiência da fiscalização da
+Administração diante do inadimplemento de verbas trabalhistas, sem circunstanciar quais verbas
+deram origem a tal presunção, tampouco o liame causal entre a conduta administrativa e o dano
+gerado ao trabalhador, ou por ausência de provas de efetiva fiscalização dos deveres por parte da
+tomadora enquanto contratante. Ao afastar a responsabilidade subsidiária do integrante da
+Administração Pública no contexto descrito nestes autos, a c. Turma o fez em harmonia com o
+entendimento consubstanciado pelo STF no RE 760931/DF e RE 1.298.647, bem como na Súmula nº
+331, V, do TST, incidindo o óbice do art. 894, § 2º, da CLT, segundo o qual a divergência apta a ensejar
+os embargos deve ser atual, não se considerando tal a ultrapassada por súmula do Tribunal Superior
+do Trabalho ou do Supremo Tribunal Federal, ou superada por iterativa e notória jurisprudência do
+Tribunal Superior do Trabalho. Os modelos apresentados com a finalidade de demonstrar a
+viabilidade de retorno dos autos à origem para análise de culpa do ente público não encontram
+ressonância na jurisprudência firmada pela SBDI-1, que, no julgamento do E-RR-273340-
+15.2005.5.02.0041, rejeitou a pretensão de devolução dos autos ao Tribunal Regional do Trabalho
+Este documento pode ser acessado no endereço eletrônico http://www.tst.jus.br/validador sob código 10067217F6E9C6DAAA.
+para reexame dos fatos e provas, com o fim de aferir a existência de culpa da Administração Pública
+por eventual inadimplemento das obrigações trabalhistas a cargo da prestadora dos serviços.
+Precedentes. Agravo conhecido e desprovido" (Ag-Emb-RR-1001230-13.2022.5.02.0033, Subseção I
+Especializada em Dissídios Individuais, Relator Ministro Breno Medeiros, DEJT 13/06/2025).
+Assim, forçoso reconhecer que os paradigmas em que se alicerçam os embargos
+encontram-se superados pela jurisprudência atual e iterativa desta Corte Superior e do Supremo
+Tribunal Federal, atraindo a incidência do art. 894, § 2º, da CLT.
+Ademais, cumpre destacar que o entendimento externado nos arestos no sentido
+de atribuir à Administração Pública o ônus de comprovar a fiscalização do cumprimento das obrigações
+trabalhistas encontra-se superado pela atual jurisprudência do Supremo Tribunal Federal, firmada no
+julgamento do Tema 1.118 da Tabela de Repercussão Geral, que atribuiu ao reclamante o encargo de
+demonstrar "a efetiva existência de comportamento negligente ou nexo de causalidade entre o dano por ela
+invocado e a conduta comissiva ou omissiva do poder público".
+Acerca da apontada contrariedade à Súmula nº 126 do TST, a Turma, ao afastar a
+responsabilidade subsidiária da Administração Pública, considerou a delimitação fática registrada no
+acórdão regional no sentido da inexistência de elementos nos autos que comprovassem de forma
+efetiva a conduta culposa do ente público na fiscalização do contrato de prestação de serviços. A
+reforma do julgado regional, portanto, amparou-se somente em exame estritamente jurídico. Afastada,
+assim, a alegada contrariedade à Súmula nº 126 do TST.
+O processamento dos embargos também não se viabiliza pela alegada
+contrariedade à Súmula n° 331, V, do TST, pois a Turma, ao afastar a responsabilidade subsidiária do
+ente público, no contexto descrito nestes autos, o fez em consonância com o entendimento
+consubstanciado no referido verbete.
+Ressalta-se, ademais, que, com relação às contribuições previdenciárias, em
+respeito ao entendimento adotado pelo Excelso Tribunal, no julgamento do RE 1.298.647 (Tema
+1.118/RG), e em atenção ao disposto no art. 71, § 2º, da Lei nº 8.666/1993 (correspondente ao art. 121, §
+2º, da Lei nº 14.133/2021), em caso de eventual apuração da condenação, esta subsiste para a
+Administração Pública, na modalidade solidária, em razão da expressa ressalva realizada pelo Relator do
+RE 1.298.647, douto Ministro Nunes Marques, e da distinção feita entre as responsabilidades trabalhista
+e previdenciária, conforme os debates e as manifestações dos Ministros da Corte Constitucional.
+Iniciado o julgamento, a questão fora suscitada pelo eminente Ministro Flávio
+Dino, que apresentou a sugestão de ser abordada apenas a responsabilidade subsidiária, em razão de as
+responsabilidades, subsidiária e solidária, estarem dispostas em regramentos distintos.
+Por oportuno, consigno a manifestação do eminente Relator, em suas razões de
+decidir, em que consta de forma enfática que a tese firmada no Tema 1.118 não alcança as contribuições
+previdenciárias:
+“Reitero: o presente julgamento não trata de nenhum aspecto das contribuições
+previdenciárias; somente os encargos trabalhistas são dele objeto. A mínima referência feita às
+obrigações previdenciárias tem por finalidade ilustrar a distinção dos regimes jurídicos da
+responsabilidade solidária (encargos previdenciários) e da responsabilidade subsidiária (encargos
+trabalhistas).
+(Destacamos)
+Por conseguinte, a matéria acerca da condenação previdenciária foi alvo de amplo
+debate pelo Supremo Tribunal Federal, a fim de afastar quaisquer questionamentos acerca da
+inaplicabilidade do Tema 1.118 no que concerne à responsabilidade solidária pelos encargos
+previdenciários.
+Ante o exposto, evidenciada a consonância do acórdão embargado com a tese
+firmada pelo Supremo Tribunal Federal no Tema 246 da Tabela de Repercussão Geral, NEGO
+PROVIMENTO ao agravo.
+ISTO POSTO
+ACORDAM os Ministros da Subseção I Especializada em Dissídios Individuais do
+Tribunal Superior do Trabalho, por unanimidade, conhecer do agravo e, no mérito, negar-lhe
+provimento. Este documento pode ser acessado no endereço eletrônico http://www.tst.jus.br/validador sob código 10067217F6E9C6DAAA.
+B
+r
+a
+s
+ília, 8
+d
+e
+m
+aio
+d
+e
+2
+0
+2
+6. Firmado por assinatura digital (MP 2.200
+-
+2
+/
+2
+0
+0
+1
+)
+A
+L
+B
+E
+R
+T
+O
+B
+A
+S
+T
+O
+S
+B
+A
+L
+A
+Z
+EIR
+O
+Minis
+t
+r
+o
+R
+ela
+t
+o
+r
+Fir
+m
+a
+d
+o
+p
+o
+r
+a
+s
+sin
+a
+t
+u
+r
+a
+digit
+al e
+m
+0
+7
+/
+0
+5
+/
+2
+0
+2
+6
+p
+elo
+sis
+t
+e
+m
+a
+A
+s
+sin
+eJ
+u
+s
+d
+a
+J
+u
+s
+tiç
+a
+d
+o
+T
+r
+a
+b
+alh
+o, c
+o
+n
+f
+o
+r
+m
+e
+M
+P
+2.2
+0
+0
+-
+2
+/
+2
+0
+0
+1, q
+u
+e in
+s
+tit
+uiu
+a In
+f
+r
+a
+-
+E
+s
+t
+r
+u
+t
+u
+r
+a
+d
+e
+C
+h
+a
+v
+e
+s
+P
+ú
+blic
+a
+s
+B
+r
+a
+sileir
+a. Este documento pode ser acessado no endereço eletrônico http://www.tst.jus.br/validador sob código 10067217F6E9C6DAAA.
