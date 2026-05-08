@@ -1,0 +1,22 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de JOSE PEDRO DE SOUZA contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAIS que denegou o writ de origem. Eis a ementa (fl. 62):
+EMENTA: RECURSO EM SENTIDO ESTRITO - INSURGÊNCIA MINISTERIAL - DESCUMPRIMENTO DE MEDIDAS PROTETIVAS FIXADAS - PRISÃO PREVENTIVA - PRESERVAÇÃO DA INTEGRIDADE FÍSICA E PSÍQUICA DA VÍTIMA - PRESENÇA DOS REQUISITOS AUTORIZADORES - RESTABELECIMENTO - RECURSO CONHECIDO E PROVIDO. -Presentes elementos concretos que permitem concluir pela necessidade do decreto de prisão preventiva, fundamentada, sobretudo, na necessidade de se garantir a ordem pública, haja vista a periculosidade do agente, a gravidade concreta do crime, a existência de prova da materialidade e indícios suficientes de autoria e ainda a necessidade de preservação da integridade física e psíquica da vítima, atendidos os requisitos dos arts. 311 e seguintes do CPP, a decretação da prisão preventiva é medida que se impõe.
+Consta dos autos que, em 07/09/2025, foram fixadas medidas protetivas em desfavor do paciente. O Ministério Público noticiou descumprimento por contato telefônico indireto com A.R.M.S e, em 13/11/2025, o juízo de primeiro grau indeferiu a prisão preventiva, ressaltando a primariedade, a ausência de violência e o consentimento do diálogo pela interlocutora. Todavia, no recurso em sentido estrito da acusação, o Tribunal local reformou a decisão e decretou a custódia.
+No presente writ, o impetrante sustenta a ausência de requisitos do art. 312 do CPP e a falta de contemporaneidade concreta do periculum libertatis, afirmando desproporcionalidade da prisão preventiva ante o art. 282, § 6º, do CPP e a suficiência de cautelares do art. 319 do CPP.
+Aponta que o fato imputado restringiu-se a contato telefônico indireto, sem violência, e com anuência de A.R.M.S., além da primariedade e ausência de intercorrências desde setembro de 2025.
+Alega vulnerabilidade do paciente, idoso de 65 anos e portador de HIV, com necessidade de tratamento antirretroviral contínuo e consulta especializada já agendada, afirmando incompatibilidade entre o encarceramento e a terapêutica, à luz da dignidade humana e do direito à saúde.
+Requer, liminarmente e no mérito, a revogação da prisão preventiva, com aplicação de medidas cautelares do art. 319 do CPP. Subsidiariamente, pede a conversão da prisão preventiva em domiciliar, com fundamento no art. 318, II, do CPP.
+É o relatório.
+Em consulta ao sistema processual do Superior Tribunal de Justiça, verifica-se que a legalidade da prisão preventiva em discussão já está sendo examinada por esta Corte superior nos autos do HC 1089573/MG (anteriormente distribuído, no dia 17/4/2026 - cf. fl. 111), sendo o presente feito mera reiteração de pedidos formulados anteriormente, o que é inadmissível.
+Nesse sentido:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO PENAL. FALTA DISCIPLINAR GRAVE. OITIVA JUDICIAL. DESNECESSIDADE. PROCEDIMENTO ADMINISTRATIVO DISCIPLINAR REGULAR. CONTRADITÓRIO E AMPLA DEFESA ASSEGURADOS. REGRESSÃO DE REGIME. NÃO OCORRÊNCIA. DESCLASSIFICAÇÃO. ALEGAÇÃO DE INSUFICIÊNCIA PROBATÓRIA. REITERAÇÃO DE IMPETRAÇÃO ANTERIOR. NECESSIDADE DE REEXAME FÁTICO-PROBATÓRIO. INVIABILIDADE NA VIA ELEITA. PRECEDENTES.
+ ..
+4. "A mera reiteração de pedido, que se limita a reproduzir, sem qualquer inovação de fato e/ou de direito, os mesmos fundamentos subjacentes a postulação anterior, torna inviável o próprio conhecimento da ação de habeas corpus". (AgRg no HC n. 190.293, Rel. Min. Celso de Mello, julgado em 20/10/2020, DJe 19/11/2020).
+5. Agravo regimental não provido.
+(AgRg no HC n. 1.004.901/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 3/6/2025, DJEN de 10/6/2025.)
+Por fim, o pleito de prisão domiciliar não foi apreciado pelo Tribunal de origem, conforme cópia do acórdão às fls. 59-69 , motivo pelo qual a matéria não será examinada por esta Corte superior, sob pena de se incorrer em indevida supressão de instância.
+Com efeito, " é  imprescindível o prévio enfrentamento da matéria pelas instâncias ordinárias para evitar indevida supressão de instância e violação dos princípios do duplo grau de jurisdição e devido processo legal" (HC n. 1.021.432/MG, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 10/12/2025, DJEN de 16/12/2025.)
+Ante o exposto, com fundamento no art. 210 do RISTJ, indefiro liminarmente o habeas corpus.
+Publique-se.
+Intimem-se.
+EMENTA
