@@ -1,0 +1,14 @@
+DECISÃO
+Trata-se de agravo regimental interposto pelo MINISTÉRIO PÚBLICO FEDERAL contra decisão monocrática que conheceu do recurso ordinário em habeas corpus e deu-lhe provimento para revogar a prisão preventiva do agravado (fls. 161-168).
+Consta nos autos que o agravado ANTONIO IZAQUIEL DA SILVA foi preso em flagrante pela imputação dos crimes previstos no art. 306, caput, da Lei n. 9.503/1997 (Código de Trânsito Brasileiro) e nos arts. 329, caput, e 330 do Código Penal, em concurso material, com conversão da custódia em preventiva; a denúncia foi recebida e foi imposta a suspensão do direito de dirigir.
+A decisão agravada assentou a excepcionalidade da prisão preventiva e a necessidade de fundamentação concreta do risco à ordem pública, registrando a ausência de reiteração específica em delitos de trânsito e o não preenchimento do requisito objetivo do art. 313, inciso I, do Código de Processo Penal, além de reconhecer a suficiência de medidas cautelares diversas, com destaque para a suspensão da habilitação para dirigir, e, por isso, revogou a custódia e autorizou a imposição de cautelares pelo juízo de origem (fls. 161-168).
+O agravante sustenta que o decreto prisional se encontra devidamente motivado, com materialidade e indícios de autoria, atendendo ao art. 312 do Código de Processo Penal, e que a gravidade concreta da conduta imputada, consubstanciada nos sinais clínicos de embriaguez, na quase colisão com viatura policial e na prática de resistência e desobediência, justifica a segregação para garantia da ordem pública.
+Argumenta, ainda, a presença de risco de reiteração delitiva em razão de anotação por porte ilegal de arma de fogo, afirmando que condições pessoais favoráveis não afastam a medida extrema e que as cautelares previstas no art. 319 do Código de Processo Penal são insuficientes diante da periculosidade evidenciada.
+Requer a reconsideração da decisão ou, subsidiariamente, o provimento do agravo regimental para manter a prisão preventiva.
+É o relatório.
+Decido.
+Em consulta ao endereço eletrônico do Tribunal a quo, constata-se que, no dia 16/12/2025, foi proferida sentença nos autos da ação penal na origem, tendo sido condenado o réu, ora agravado, como incurso no art. 306 do Código de Trânsito Brasileiro e no art. 330 do Código Penal, na forma do art. 69 do mesmo diploma legal. O Juízo sentenciante fixou ao acusado as penas de 6 (seis) meses e 15 (quinze) dias de detenção, substituída por uma pena restritiva de direitos, consistente em prestação pecuniária, além de 15 (quinze) dias-multa. Na oportunidade, foi revogada sua prisão preventiva e determinada a expedição de alvará de soltura.
+Tal cenário acarreta a prejudicialidade do presente recurso.
+Ante o exposto, julgo prejudicado o agravo regimental.
+Publique-se. Intimem-se.
+EMENTA
