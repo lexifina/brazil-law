@@ -1,0 +1,11 @@
+DECISÃO
+Trata-se de simples petição apresentada pela defesa, às fls. 244-294 (RCD n. 00425187/2026), em que sustenta, em suma, que, "com o máximo respeito, a situação fática descrita nos autos revela um constrangimento ilegal de tal magnitude, consubstanciado na iminente e direta violação à Súmula Vinculante 56 do STF, que autoriza e, mais que isso, recomenda a atuação desta Colenda Corte para conceder a ordem de ofício, conforme pacífica jurisprudência do próprio STJ  ..  A ordem de apresentação em estabelecimento a mais de 100 km de distância torna o trabalho impossível, aniquilando a finalidade ressocializadora da pena e gerando um impacto socioeconômico nefasto, com o risco real de colapso das empresas e desemprego para dezenas de famílias" (fls. 245-246).
+Requer "a) A RECONSIDERAÇÃO da r. decisão monocrática para, afastando o óbice processual, conhecer do presente Habeas Corpus e, ato contínuo, DEFERIR A MEDIDA LIMINAR pleiteada; b) Subsidiariamente, caso mantida a decisão de não conhecimento, que seja CONCEDIDA A ORDEM, DE OFÍCIO, para sanar o manifesto constrangimento ilegal, determinando-se que o Paciente, JOSÉ ROBERTO MATHEUS, aguarde o julgamento de mérito em prisão domiciliar, mediante condições a serem fixadas pelo d. Juízo da Execução, notadamente o monitoramento eletrônico, a fim de que possa dar continuidade às suas atividades laborais" (fl. 247).
+A impetração não foi conhecida por esta Relatoria, em razão da não demonstração de situação de saúde extraordinária para a concessão de prisão domiciliar humanitária a condenado ao regime semiaberto por ser reincidente específico em crime de embriaguez ao volante (fls. 237-243).
+Não houve interposição de agravo regimental.
+É o breve relatório. DECIDO.
+Conforme se apreende, a defesa não trouxe razões aptas à reforma da decisão anterior, que, analisando a situação concreta posta nesta Corte Superior, enfrentou a matéria - embora sob os limites da própria impetração.
+Vale esclarecer, em tempo, que a argumentação acerca da Súmula Vinculante n. 56 e da distância do presídio sequer foram debatidas no acórdão de fls. 169-174, que se resumiu a verificar se a saúde do apenado seria compatível com o cárcere (supres são de instância).
+Ante o exposto, julgo improcedente o pedido de reconsideração.
+Publique-se. Intimem-se.
+EMENTA
