@@ -1,0 +1,47 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de MATHEUS MARTINS DOS SANTOS SIQUEIRA, contra acórdão prolatado pelo TRIBUNAL REGIONAL FEDERAL DA 4ª REGIÃO, que denegou a ordem no writ de origem.
+Consta dos autos que o paciente foi preso em flagrante em 12/2/2026, por suposta prática de tráfico transnacional de drogas (art. 33, caput, c/c art. 40, I, da Lei n. 11.343/2006), após a apreensão de 54,6 kg de haxixe, tendo a custódia sido convertida em preventiva na data seguinte.
+Neste writ, a impetrante sustenta a ausência de fundamentação concreta do decreto prisional e a inexistência dos requisitos do art. 312 do CPP, ao argumento de que a custódia foi amparada na gravidade abstrata do delito e em presunções de risco à ordem pública.
+Afirma inexistirem elementos objetivos que vinculem o paciente a organização criminosa. Alega que a suposta reiteração delitiva se baseou apenas em viagem anterior ao exterior, fato lícito e desacompanhado de qualquer registro de prática criminosa.
+Assevera que a quantidade e a natureza da droga não bastam, por si sós, para manter a custódia, sem dados individualizados de periculosidade ou risco atual.
+Ressalta as condições pessoais favoráveis do paciente, como primariedade, bons antecedentes, residência fixa e trabalho lícito. Sustenta a suficiência de medidas cautelares diversas previstas no art. 319 do CPP.
+Requer liminarmente a revogação da prisão preventiva, com expedição de alvará de soltura; subsidiariamente, sua substituição por medidas cautelares diversas. No mérito, pleiteia a concessão definitiva da ordem, para revogar a custódia cautelar ou aplicar medidas alternativas à prisão, bem como a concessão de salvo-conduto para que o paciente responda ao processo em liberdade.
+A liminar foi indeferida (fls. 82-84).
+As informações foram prestadas (fls. 87-92 e 95-97).
+O Ministério Público Federal manifestou-se pelo não conhecimento do habeas corpus, em parecer assim ementado (fl. 101):
+HABEAS CORPUS. WRIT IMPETRADO CONTRA DECISÃO MONOCRÁTICA. DECRETO DE PRISÃO PREVENTIVA AUSÊNCIA DE EXAURIMENTO DAS INSTÂNCIAS ORDINÁRIAS. SUPRESSÃO DE INSTÂNCIA. PARECER PELO NÃO CONHECIMENTO DO HABEAS CORPUS.
+-Ausente manifestação em última instância pelo Tribunal coator acerca do alegado constrangimento ilegal, não é possível a esse Superior Tribunal de Justiça adentrar ao mérito do presente writ, sob pena de indevida supressão de instância.
+-Parecer pelo não conhecimento do habeas corpus.
+É o relatório
+A Quinta Turma do Superior Tribunal de Justiça firmou entendimento no sentido de ser inadequada a impetração de habeas corpus quando utilizado em substituição a recurso próprio.
+A teor do disposto no art. 105, II, a, da CF/88, o recurso cabível contra acórdão que denega a ordem na origem é o recurso ordinário, enquanto, consoante previsto no art. 105, III, da CF, o recurso cabível contra acórdão que julga apelação, recurso em sentido estrito e agravo em execução é o recurso especial.
+Nada impede, contudo, a concessão de habeas corpus de ofício quando constatada a existência de ilegalidade flagrante, abuso de poder ou teratologia, nos termos do art. 654, §2º, do CPP, o que ora se passa a examinar.
+A prisão preventiva justifica-se apenas quando devidamente demonstrada sua imprescindibilidade para a preservação da ordem pública, a garantia da regularidade da instrução criminal ou a asseguração da eficácia da aplicação da lei penal, nos termos do art. 312 do Código de Processo Penal.
+O decreto prisional foi assim fundamentado (fls. 17-18):
+ ..
+Em relação ao pressuposto do fumus comissi delicti (prova da existência do crime e indícios suficientes de autoria), este se encontra sobejamente demonstrado pelo auto de prisão em flagrante e, especialmente, pelo Laudo de Perícia Criminal Federal nº 5393/2026 (Evento 11), que atestou a apreensão de vultosa quantidade de entorpecente  aproximadamente 54,6 kg de haxixe  acondicionada em malas no veículo ocupado pelos flagrados.
+Frise-se que os elementos fático-probatórios angariados até o momento, em especial os depoimentos colhidos e os documentos de origem uruguaia apreendidos (recibo de pedágio e notas fiscais), que indicam o ingresso da droga por Jaguarão/RS vinda de Rio Branco, no Uruguai, justificam, por ora, o acolhimento da competência desta Justiça Federal.
+No tocante ao periculum libertatis, observo que a custódia cautelar é cabível para a garantia da ordem pública e para assegurar a aplicação da lei penal.
+A natureza e a expressiva quantidade da droga apreendida, aliadas à logística transfronteiriça evidenciada pelos documentos uruguaios (Evento 3, notas fiscais e recibo de pedágio), denotam a gravidade concreta da conduta. Ademais, quanto ao autuado MATHEUS, este admitiu em sede policial tratar-se de sua segunda viagem para o transporte de ilícitos, o que revela risco concreto de reiteração delitiva.
+Quanto à aplicação da lei penal, observo fragilidade nos elementos trazidos pela defesa para comprovar o enraizamento dos flagrados. Compulsando os autos, verifico que a advogada indica, na petição inicial (Evento 18), um endereço para VIVIANNY (Av. Luiz Rink, 1051), que diverge frontalmente daquele por ela fornecido perante a autoridade policial (Rua Américo Vespúcio, 91).
+Mais ainda: ao contrário do alegado pela defesa, os flagrados não residem no mesmo endereço, conforme se extrai das notas de culpa e termos de interrogatório do Evento 3. Ressalte-se que a petição do Evento 18 não veio instruída com documentos oficiais aptos a comprovar residência fixa, tais como contas de luz, telefone ou internet.
+ ..  Relativamente a MATHEUS, malgrado a alegação de ser "empresário", não há nos autos qualquer comprovação documental de que exerça atividade lícita remunerada.
+Assim, a decretação da prisão preventiva de MATHEUS está baseada na existência de fatos contemporâneos que materializam o receio de perigo e a insuficiência das medidas cautelares diversas da prisão (art. 319 do CPP).
+Conforme antecipado no exame da liminar, verifica-se que a prisão preventiva foi decretada mediante fundamentação idônea, lastreada na gravidade concreta da conduta imputada, evidenciada pela apreensão de 54,6 kg de haxixe, em contexto transnacional de transporte de drogas pela fronteira com o Uruguai. Soma-se a inconsistência nos vínculos domiciliares e a ausência de comprovação de ocupação lícita. Tais circunstâncias denotam a indispensabilidade da imposição da medida extrema no caso concreto para garantia da ordem pública e para assegurar a aplicação da lei penal.
+Com efeito, nos casos de prisão em flagrante por tráfico de drogas, a conversão em prisão preventiva pode ser decretada quando a gravidade concreta da conduta se evidencia em fatores como a quantidade e a natureza da substância apreendida, a forma de acondicionamento ou a presença de instrumentos destinados à comercialização, circunstâncias que revelam maior potencial lesivo da conduta e indicam periculosidade do agente, ultrapassando a mera gravidade abstrata do delito.
+Nesse sentido:
+AGRAVO REGIMENTAL EM HABEAS CORPUS. CRIMES DE TRÁFICO DE DROGAS E ADULTERAÇÃO DE SINAL IDENTIFICADOR DE VEÍCULO. ALEGAÇÃO DE INOCÊNCIA. PRISÃO PREVENTIVA. FUNDAMENTAÇÃO. GRANDE QUANTIDADE DE DROGAS. INDÍCIOS DE ENVOLVIMENTO REITERADO. GRAVIDADE CONCRETA DA CONDUTA. SEGREGAÇÃO DEVIDAMENTE JUSTIFICADA PARA A GARANTIA DA ORDEM PÚBLICA. DESPROPORÇÃO EM RELAÇÃO À POSSÍVEL PENA A SER APLICADA. PROGNÓSTICO INVIÁVEL. CONDIÇÕES PESSOAIS FAVORÁVEIS. IRRELEVÂNCIA. MEDIDAS CAUTELARES ALTERNATIVAS. INSUFICIÊNCIA. AUSÊNCIA DE CONSTRANGIMENTO ILEGAL. RECURSO NÃO PROVIDO.
+ .. .
+4. Ademais, "É pacífico o entendimento no sentido de que as circunstâncias fáticas do crime, como a quantidade apreendida, a variedade, a natureza nociva dos entorpecentes, a forma de acondicionamento, entre outros aspectos, podem servir de fundamentos para o decreto prisional quando evidenciarem a periculosidade do agente e o efetivo risco à ordem pública, caso permaneça em liberdade."(AgRg no HC n. 787.386/SP, Rel. Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 13/12/2022, DJe 19/12/2022).
+ ..
+7. Mostra-se indevida a aplicação de medidas cautelares diversas da prisão, quando evidenciada a sua insuficiência para acautelar a ordem pública.
+8. Agravo regimental a que se nega provimento.
+(AgRg no HC n. 957.245/SC, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 12/2/2025, DJEN de 18/2/2025.)
+De outra parte, quando presentes os requisitos do art. 312 do CPP, a imposição da prisão preventiva é medida de rigor, independentemente de condições pessoais favoráveis do agente, mostrando-se inadequadas medidas cautelares diversas do art. 319, quando a custódia provisória apresentar fundamentação concreta.
+Nesse sentido, " a  presença de condições pessoais favoráveis não impede a imposição da prisão preventiva, quando presentes os requisitos legais" (AgRg no HC n. 990.311/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 22/4/2025, DJEN de 30/4/2025).
+Inclusive, "tendo sido exposta de forma fundamentada e concreta a necessidade da prisão, revela-se incabível sua substituição por outras medidas cautelares mais brandas" (AgRg no HC n. 965.960/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 5/3/2025, DJEN de 10/3/2025).
+Não há, portanto, flagrante ilegalidade que justifique a concessão da ordem de ofício.
+Ante o exposto, não conheço do habeas corpus.
+Publique-se.
+Intimem-se.
+ EMENTA
