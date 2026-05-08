@@ -1,0 +1,37 @@
+DECISÃO:
+Trata-se de dois recursos extraordinários com agravo interpostos por ESTADO DA PARAIBA e por CENTRO BRASILEIRO DE PESQUISA EM AVALIACAO E SELECAO E DE PROMOCAO DE EVENTOS - CEBRASPE contra decisão de inadmissão dos recursos interpostos contra o acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DA PARAÍBA.
+O recurso de ESTADO DA PARAIBA foi interposto com fundamento na alínea "a" do permissivo constitucional.
+O acórdão recorrido  ficou assim ementado:
+
+APELAÇÃO CÍVEL. MANDADO DE SEGURANÇA. CONCURSO PÚBLICO. CARGO DE ESCRIVÃO DE POLÍCIA CIVIL. INAPTIDÃO TEMPORÁRIA PELA BANCA EXAMINADORA. CONVOCAÇÃO PARA EXAMES LABORATORIAIS E MÉDICOS. SOLICITAÇÃO DE EXAMES OFTALMOLÓGICOS E CARDÍACOS. REALIZAÇÃO E APRESENTAÇÃO. CONCESSÃO DA SEGURANÇA. IRRESIGNAÇÃO DO ESTADO. ALEGAÇÃO DE QUE NÃO FORAM APRESENTADOS TODOS OS EXAMES. LAUDO CARDIOLÓGICO CONCLUSIVO QUANTO À APTIDÃO AO EXERCÍCIO DO CARGO. REQUISITOS PREENCHIDOS PARA PARTICIPAÇÃO DAS DEMAIS ETAPAS DO CERTAME. MANUTENÇÃO DA SEGURANÇA CONCEDIDA. DESPROVIMENTO DO APELO.
+- Portanto, é possível ao Poder Judiciário, respeitando a discricionariedade administrativa, verificar se houve afronta aos princípios da legalidade e da vinculação ao edital, nas hipóteses relacionadas a concurso público.
+CONSTITUCIONAL. ADMINISTRATIVO. REEXAME NECESSÁRIO E APELAÇÃO. AÇÃO ORDINÁRIA E AÇÃO CAUTELAR DE EXIBIÇÃO DE DOCUMENTOS. JULGAMENTO CONJUNTO. CONCURSO PÚBLICO. CARGO DE AGENTE DE POLÍCIA CIVIL DO DISTRITO FEDERAL. EDITAL N. 1. PCDF/AGENTE, DE 1º/8/2013. PROVA DE CAPACIDADE FÍSICA. FLEXÃO ABDOMINAL. REPROVAÇÃO. CONTROLE DA LEGALIDADE PELO PODER JUDICIÁRIO. POSSIBILIDADE. REALIZAÇÃO DE PERÍCIA JUDICIAL. EXECUÇÃO DOS MOVIMENTOS DE ACORDO COM AS REGRAS DO EDITAL. ELIMINAÇÃO DO CANDIDATO AFASTADA. PROSSEGUIMENTO NAS DEMAIS ETAPAS DO CERTAME. HONORÁRIOS DE SUCUMBÊNCIA. PATAMAR RAZOÁVEL. CUSTAS. ISENÇÃO. HONORÁRIOS RECURSAIS. DESCABIMENTO. REEXAME NECESSÁRIO E RECURSO DE APELAÇÃO DESPROVIDOS. SENTENÇA MANTIDA. […] 3. Conquanto seja atribuição da Administração Pública eleger os elementos para a escolha dos ocupantes dos cargos públicos, não se pode olvidar do princípio da inafastabilidade do controle jurisdicional (CF, art. 5º, XXXV), o qual permite que os atos discricionários sejam objeto de controle à luz da legalidade, da razoabilidade e da proporcionalidade. 4. O Poder Judiciário tem legitimidade, não para a revisão do mérito administrativo, diga-se, mas para analisar a legalidade de correção e da razoabilidade dos parâmetros norteadores da formulação e conclusões resultantes das etapas do certame à luz do exigido no edital, configurando proteção a exclusões injustas, arbitrariedades, tudo em prestígio aos princípios da isonomia, igualdade, impessoalidade, moralidade, eficiência e publicidade. […] (TJDF; APO 2014.01.1.062074-9; Ac. 977.499; Primeira Turma Cível; Rel. Des. Alfeu Machado; Julg. 26/10/2016; DJDFTE 18/11/2016)
+- Importante frisar que consta do Laudo Descritivo e Conclusivo de Avaliação Clínica Cardiológica de Id. 20383642, a realização do Monitoramento Ambulatorial da Pressão Arterial – MAPA, Laudo este elaborado e assinado por Médica Cardiologista Especialista (CRM-PB 9680, RQE 5795), cuja conclusão expressa é a de que o apelado se encontra “apto para o cargo de escrivão de polícia”, pelo que, entendo preenchidos os requisitos para que o candidato participe das demais etapas do certame, não haver o que ser reformado na Sentença.
+
+Opostos os embargos de declaração por ESTADO DA PARAIBA, foram rejeitados.
+No recurso extraordinário de ESTADO DA PARAIBA sustenta-se violação do(s) art.(s) 2º e 37, caput, I e II, da Constituição Federal.
+Decido.
+Quanto à insurgência de ESTADO DA PARAIBA, verifica-se que para dissentir do que decidido pelo Tribunal a quo, necessária seria a análise das cláusulas editalícias, bem como o reexame do conjunto fático-probatório dos autos, o que atrai a incidência das Súmulas 279 e 454 desta Corte. Nesse sentido:
+
+“DIREITO ADMINISTRATIVO. CONCURSO PÚBLICO. INTERPRETAÇÃO DE CLÁUSULAS DO EDITAL. RECURSO EXTRAORDINÁRIO INTERPOSTO SOB A ÉGIDE DO CPC/1973. SÚMULAS Nº 279 E Nº 454 DO STF. EVENTUAL OFENSA REFLEXA NÃO VIABILIZA O MANEJO DO RECURSO EXTRAORDINÁRIO. ART. 102 DA LEI MAIOR. AGRAVO MANEJADO SOB A VIGÊNCIA DO CPC/2015.
+1. A controvérsia, a teor do já asseverado na decisão guerreada, não alcança estatura constitucional. Não há falar em afronta aos preceitos constitucionais indicados nas razões recursais. Compreensão diversa demandaria a reelaboração da moldura fática, o reexame da interpretação conferida a cláusulas de edital de concurso público e a análise da legislação infraconstitucional encampada na decisão da Corte de origem, a tornar oblíqua e reflexa eventual ofensa à Constituição, insuscetível, como tal, de viabilizar o conhecimento do recurso extraordinário. Desatendida a exigência do art. 102, III, ‘a’, da Lei Maior, nos termos da remansosa jurisprudência desta Suprema Corte.
+2. As razões do agravo interno não se mostram aptas a infirmar os fundamentos que lastrearam a decisão agravada.
+3. Ausente condenação anterior em honorários, inaplicável o art. 85, § 11, do CPC/2015.
+4. Agravo interno conhecido e não provido”. (ARE 1.037.228-AgR, Rel. Min. Rosa Weber, Primeira Turma, DJe de 20/09/2017)
+
+“AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. ADMINISTRATIVO. CONCURSO PÚBLICO. CUMPRIMENTO DOS REQUISITOS EXIGIDOS PARA A POSSE DO CANDIDATO NO CARGO. NECESSIDADE DE ANÁLISE DE PROVAS E CLÁUSULAS DO EDITAL. INCIDÊNCIA DAS SÚMULAS 279 E 454 DO STF. AGRAVO A QUE SE NEGA PROVIMENTO.
+I – Para se chegar à conclusão contrária à adotada pelo acórdão recorrido, seria necessário o reexame do conjunto fático-probatório constante dos autos e de cláusulas editalícias, o que atrai a incidência das Súmulas 279 e 454 do STF. Precedentes.
+II – Agravo regimental a que se nega provimento”. (ARE 821.913-AgR, Rel. Min. Ricardo Lewandowski, Segunda Turma, DJe de 28/8/2014)
+
+“AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. ADMINISTRATIVO. CONCURSO PÚBLICO. OBSERVÂNCIA DAS REGRAS DO EDITAL. IMPOSSIBILIDADE DE ANÁLISE DA LEGISLAÇÃO INFRACONSTITUCIONAL E DO REEXAME DE PROVAS E DE CLÁUSULAS EDITALÍCIAS. INCIDÊNCIA DAS SÚMULAS N. 279 E 454 DO SUPREMO TRIBUNAL FEDERAL. PRECEDENTES. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO”. (ARE 757.852-AgR, Rel. Min. Cármen Lúcia, Segunda Turma, DJe de 16/09/2013)
+
+Já quanto à insurgência de CENTRO BRASILEIRO DE PESQUISA EM AVALIACAO E SELECAO E DE PROMOCAO DE EVENTOS - CEBRASPE, verifica-se que o recurso extraordinário não foi devidamente preparado, mesmo tendo sido a parte intimada a efetuar o recolhimento, na forma do art. 1.007, § 4º, CPC/2015.
+Assim, não se verifica o atendimento da exigência contida no art. 1.007, caput, do Código de Processo Civil, o que leva a deserção do recurso. Nesse sentido: ARE nº 1.082.020, Rel. Min. Ricardo Lewandowski, DJe de 20/10/2017; ARE nº 993.673/RS, Rel. Min. Gilmar Mendes, DJe de 16/02/2017.
+Ante o exposto, nego seguimento aos recursos (alínea c do inciso V do art. 13 do Regimento Interno do Supremo Tribunal Federal).
+Havendo prévia fixação de honorários advocatícios pelas instâncias de origem, seu valor monetário será majorado em 10% (dez por cento) em desfavor da parte recorrente, nos termos do art. 85, § 11, do Código de Processo Civil, observado os limites dos §§ 2º e 3º do referido artigo e a eventual concessão de justiça gratuita.
+Publique-se.
+Brasília, 8 de maio de 2026.
+
+Ministro EDSON FACHIN
+Presidente
+Documento assinado digitalmente
