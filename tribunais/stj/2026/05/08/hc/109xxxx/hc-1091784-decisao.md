@@ -1,0 +1,57 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido de liminar, impetrado em favor de GLEYBSON RENOVATO DO NASCIMENTO contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE PERNAMBUCO que denegou a ordem no writ de origem, assim ementado (fls. 24-26):
+DIREITO PROCESSUAL PENAL. HABEAS CORPUS. PRISÃO PREVENTIVA. TENTATIVA DE HOMICÍDIO DUPLAMENTE QUALIFICADO. FUNDAMENTAÇÃO IDÔNEA. GRAVIDADE CONCRETA DA CONDUTA. MODUS OPERANDI. RISCO DE REITERAÇÃO DELITIVA. GARANTIA DA ORDEM PÚBLICA. INADEQUAÇÃO DA VIA ELEITA PARA ANÁLISE PROBATÓRIA. ORDEM DENEGADA.
+I. CASO EM EXAME
+1. Habeas corpus impetrado em favor de paciente cuja prisão preventiva foi decretada pela suposta prática do crime de tentativa de homicídio duplamente qualificado (art. 121, §2º, II e IV, c/c art. 14, II, do Código Penal). Visa à revogação da ordem de custódia cautelar sob alegação de ausência de fundamentação idônea, insuficiência de indícios de autoria e inexistência de prova da materialidade delitiva.
+II. QUESTÃO EM DISCUSSÃO
+2. Há 3 questões em discussão: (i) definir se a decisão que decretou a prisão preventiva apresenta fundamentação concreta e idônea; (ii) estabelecer se estão presentes os requisitos do art. 312 do CPP, especialmente quanto à garantia da ordem pública e ao risco de reiteração delitiva; (iii) determinar se é possível, em habeas corpus, o exame aprofundado da suficiência probatória quanto à autoria e à materialidade delitiva.
+III. RAZÕES DE DECIDIR
+3. A decisão que decreta a prisão preventiva apresenta fundamentação concreta, baseada em elementos objetivos dos autos, não se limitando à gravidade abstrata do delito.
+4. O modus operandi da conduta evidencia elevada gravidade concreta, caracterizada por atuação em grupo, restrição da liberdade da vítima, agressões físicas intensas e tentativa de execução mediante arma de fogo, frustrada por circunstância alheia à vontade dos agentes.
+5. A condição atribuída ao paciente de líder de organização criminosa voltada ao tráfico de drogas, com comando da ação delitiva, revela acentuada periculosidade social.
+6. Os antecedentes criminais do paciente, incluindo reincidência por tráfico de drogas e existência de outras ações penais em curso da competência da Vara do Tribunal do Júri, demonstram risco concreto de reiteração delitiva.
+7. A ausência de cumprimento do mandado de prisão preventiva reforça a necessidade da medida para assegurar a aplicação da lei penal.
+8. Os indícios de autoria e materialidade mostram-se suficientes nesta fase processual, amparados na palavra da vítima, corroborada por elementos periciais e testemunhais.
+9. A via do habeas corpus não admite dilação probatória, sendo inadequada para exame aprofundado de teses defensivas relativas à insuficiência de provas ou álibi.
+10. A documentação apresentada pela defesa não comprova de forma inequívoca a impossibilidade de o paciente estar no local dos fatos, devendo eventual tese ser analisada na instrução criminal.
+IV. DISPOSITIVO E TESE
+11. Ordem denegada.
+Consta nos autos que o paciente foi denunciado, sendo decretado a sua prisão pela suposta prática do crime tipificado no art. artigo 121, § 2º, incisos II e IV, c/c artigo 14, inciso II, do Código Penal Brasileiro, c/c a Lei n. 8.072/90.
+A defesa alega que a existência de prova digital pré-constituída, consistente em metadados de geolocalização que indicariam a presença do paciente em outro Estado na véspera do crime, bem como omissão do acórdão recorrido quanto à análise de vídeo com tais metadados e outros documentos que demonstram sua presença no estado de São Paulo.
+Sustenta a nulidade do reconhecimento pessoal, por violação ao art. 226 do CPP, diante da ausência de observância das formalidades legais (apresentação ao lado de pessoas semelhantes, prévia descrição e ausência de indução), afirmando que a imputação se baseia em relato isolado da vítima.
+Aponta a ausência de fundamentação idônea da prisão preventiva, lastreada na gravidade da conduta, suposta liderança criminosa e antecedentes do paciente, sem demonstração concreta do periculum libertati.
+Defende a possibilidade de aplicação de medidas cautelares diversas da prisão, previstas no art. 319 do CPP, as quais se mostram suficientes e adequadas.
+Requer, liminarmente e no mérito, a concessão da ordem para revogar a prisão preventiva ou aplicar as medidas cautelares alternativas (art. 319 do CPP).
+É o relatório.
+A Quinta Turma do Superior Tribunal de Justiça firmou entendimento no sentido de ser inadequada a impetração de habeas corpus quando utilizado em substituição a recurso próprio.
+A teor do disposto no art. 105, II, a, da CF/88, o recurso cabível contra acórdão que denega a ordem na origem é o recurso ordinário, enquanto, consoante previsto no art. 105, III, da CF, o recurso cabível contra acórdão que julga apelação, recurso em sentido estrito e agravo em execução é o recurso especial.
+Nada impede, contudo, a concessão de habeas corpus de ofício quando constatada a existência de ilegalidade flagrante, abuso de poder ou teratologia, nos termos do art. 654, §2º, do CPP, o que ora se passa a examinar.
+A prisão preventiva justifica-se apenas quando devidamente demonstrada sua imprescindibilidade para a preservação da ordem pública, a garantia da regularidade da instrução criminal ou a asseguração da eficácia da aplicação da lei penal, nos termos do art. 312 do Código de Processo Penal.
+O decreto prisional foi assim fundamentado (fl. 66):
+ ..  No caso, verifico:
+(a) Fumus comissi delicti.
+Há suporte mínimo de materialidade e indícios de autoria, extraídos, entre outros, do relato da vítima e testemunha, do relatório policial e da documentação médica/pericial indicada, apontando agressões graves, restrição da liberdade, espancamento e tentativa de execução mediante arma de fogo (com acionamento do gatilho por duas vezes, sem consumação por falha de munição).
+(b) Periculum libertatis.
+A necessidade cautelar revela-se pela gravidade concreta do modus operandi narrado: atuação em superioridade numérica, captura e condução da vítima a depósito, algemamento, ameaças, agressões com objetos (barrote/tijolos) e tentativa de execução com revólver calibre .38, em contexto relacionado à dinâmica de tráfico local e "punição" imposta por suposta afronta ao "território", o que evidencia periculosidade concreta e risco real à ordem pública.
+Além disso, consta que os denunciados não foram localizados e se encontram em local incerto e não sabido, circunstância que reforça o risco de frustração da persecução penal e recomenda a medida para assegurar a aplicação da lei penal.
+(c) Cabimento e adequação.
+Trata-se de crime doloso cuja pena máxima em abstrato supera 4 anos, sendo cabível a preventiva (CPP, art. 313, I). No cenário concreto descrito, medidas cautelares diversas (CPP, art. 319) mostram-se insuficientes para neutralizar os riscos evidenciados (CPP, arts. 282 e 312).  ..
+Verifica-se fundamentação idônea para a prisão preventiva, lastreada na garantia da ordem pública e na aplicação da lei penal, diante da gravidade concreta da conduta imputada ao agravante, evidenciado no modus operandi adotado - tentativa de homicídio, com múltiplos agentes, mediante algemamento, ameaças e agressão a vítima por meio de barrote/tijolos e uso de arma de fogo ligado ao tráfico de drogas, somada a noticiada fuga do distrito da culpa. Tais circunstâncias denotam a periculosidade do agente e indicam risco de reiteração delitiva, justificando a imposição da medida extrema.
+Com efeito, esta Corte Superior possui orientação no sentido de que a gravidade concreta do delito imputado e a periculosidade do agente, evidenciadas no modus operandi empregado, são circunstâncias aptas a justificar a prisão preventiva para a garantia da ordem pública. Nesse entendimento:
+AGRAVO REGIMENTAL EM HABEAS CORPUS. HOMICÍDIO DUPLAMENTE QUALIFICADO. PRISÃO PREVENTIVA. FUNDAMENTAÇÃO. PERICULOSIDADE DO AGENTE. GRAVIDADE CONCRETA. RÉU QUE SE MANTEVE FORAGIDO DURANTE VÁRIOS ANOS. SEGREGAÇÃO DEVIDAMENTE JUSTIFICADA PARA A GARANTIA DA ORDEM PÚBLICA E APLICAÇÃO DA LEI PENAL. CONDIÇÕES PESSOAIS FAVORÁVEIS. IRRELEVÂNCIA. MEDIDAS CAUTELARES ALTERNATIVAS. INSUFICIÊNCIA. AUSÊNCIA DE CONSTRANGIMENTO ILEGAL. RECURSO NÃO PROVIDO.
+ ..
+4. Esta Corte possui jurisprudência consolidada no sentido de que "a gravidade concreta da conduta, reveladora do potencial elevado grau de periculosidade do Agente e consubstanciada na alta reprovabilidade do modus operandi empregado na empreitada delitiva, é fundamento idôneo a lastrear a prisão preventiva, com o intuito de preservar a ordem pública". (AgRg no HC n. 687.840/MS, Rel. Ministra Laurita Vaz, Sexta Turma, julgado em 13/12/2022, DJe 19/12/2022).
+ ..
+9. Agravo regimental a que se nega provimento.
+(AgRg no HC n. 939.735/PE, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 30/10/2024, DJe de 5/11/2024.)
+Igualmente, a fuga do distrito da culpa configura justificativa válida para a manutenção da medida extrema, " n esse sentido, "Esta Corte Superior possui entendimento consolidado acerca da manutenção da custódia preventiva diante da periculosidade do acusado, evidenciada pela fuga no momento da abordagem, demonstrando total desinteresse na aplicação da lei penal" (HC n. 512.663/SP, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 6/8/2019, DJe 13/8/2019)" (AgRg no HC n. 822.136/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 30/5/2023, DJe de 5/6/2023).
+Ademais, " a  presença de condições pessoais favoráveis não impede a imposição da prisão preventiva, quando presentes os requisitos legais" (AgRg no HC n. 990.311/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 22/4/2025, DJEN de 30/4/2025).
+Desse modo, "tendo sido exposta de forma fundamentada e concreta a necessidade da prisão, revela-se incabível sua substituição por outras medidas cautelares mais brandas" (AgRg no HC n. 965.960/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 5/3/2025, DJEN de 10/3/2025).
+No que se refere à fragilidade dos indícios de autoria e materialidade, ao exemplo da alegação da existência de prova digital pré-constituída, consistente em metadados de geolocalização que indicariam a presença do paciente em outro Estado na véspera do crime, não deve ser conhecida, pois consiste em pleito de reconhecimento de inocência, providência incompatível com a estreita via do habeas corpus, uma vez que demanda necessário revolvimento do acervo fático-probatório. Nesse sentido: AgRg no HC n. 1.062.037/MG, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 3/2/2026, DJEN de 10/2/2026.
+Por fim, a tese referente à nulidade do reconhecimento pessoal não foi apreciada pelo Tribunal de origem, conforme cópia do acórdão às fls. 15-27, motivo pelo qual a matéria não será examinada por esta Corte superior, sob pena de se incorrer em indevida supressão de instância.
+Com efeito, " é  imprescindível o prévio enfrentamento da matéria pelas instâncias ordinárias para evitar indevida supressão de instância e violação dos princípios do duplo grau de jurisdição e devido processo legal" (HC n. 1.021.432/MG, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 10/12/2025, DJEN de 16/12/2025.)
+Não há, portanto, flagrante ilegalidade que justifique a concessão da ordem de ofício.
+Ante o exposto, não conheço do habeas corpus.
+Publique-se.
+Intimem-se.
+EMENTA
