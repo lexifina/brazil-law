@@ -1,0 +1,23 @@
+DECISÃO
+Trata-se de Habeas Corpus com pedido de liminar impetrado em favor de VITOR CESAR CHINALLI, no qual se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO.
+Consta dos autos a prisão em flagrante do paciente, posteriormente convertida em custódia preventiva, decorrente da suposta prática do delito capitulado no artigo 33, caput, c/c o artigo 40, inciso V, da Lei n. 11.343/2006, termos em que denunciado.
+Em suas razões, sustenta a defesa a ocorrência de constrangimento ilegal, porquanto a segregação processual do paciente, que ostenta condições pessoais favoráveis, encontra-se despida de fundamentação idônea e concreta quanto ao periculum libertatis, tendo sido mantida pelo acórdão coator essencialmente em razão da quantidade de drogas apreendidas e da causa de aumento de tráfico interestadual.
+Alega que a custódia foi preservada por presunções e sem atos concretos atribuíveis ao paciente que indiquem risco atual à ordem pública, à instrução criminal ou à aplicação da lei penal, notando-se que a denúncia não incluiu o artigo 35 da Lei n. 11.343/2006, o que enfraqueceria a premissa inicial de organização criminosa utilizada na decisão cautelar.
+Argumenta que não estão presentes os requisitos autorizadores da medida extrema previstos no art. 312 do CPP, pois o acórdão coator limitou-se a reproduzir a gravidade concreta extraída do volume de entorpecentes, sem individualizar elementos de periculosidade do paciente e sem demonstrar risco específico, atual e concreto.
+Defende que deixaram de ser explicitados os motivos para a não aplicação de medidas cautelares alternativas à prisão, previstas no art. 319 do CPP, apesar das condições pessoais favoráveis, o que revela a suficiência e adequação de medidas menos gravosas, como monitoração eletrônica, comparecimento periódico em juízo e proibições específicas.
+Expõe que a tese defensiva de atuação como "mula do tráfico" foi indevidamente afastada sob o argumento de necessidade de revolvimento probatório, quando, na verdade, foi invocada para evidenciar a ausência de dados individualizadores de periculosidade ou inserção estrutural em organização criminosa.
+Requer a revogação da prisão cautelar, ainda que mediante a aplicação de medidas cautelares alternativas não prisionais.
+A liminar foi indeferida às fls. 36-37.
+As informações foram prestadas às fls. 43-49 e 52-55.
+O  Ministério  Público  Federal,  às  fls.  142-145,  manifestou "pelo não conhecimento do writ ou, subsidiariamente, pela denegação da ordem"
+É  o  relatório. DECIDO.
+A análise da decisão que decretou a prisão preventiva, bem como do acórdão impugnado permitem a conclusão de que a prisão cautelar imposta ao Paciente encontra-se em consonância com a jurisprudência desta Corte sobre o tema, uma vez que fundamentada em dados concretos extraídos dos autos, que evidenciam a necessidade de garantia da ordem pública, notadamente em razão da grande quantidade de droga apreendida: aproximadamente 50 (cinquenta) quilos de maconha- fl. 20, circunstâncias aptas a ensejar a manutenção da segregação cautelar.
+A propósito :
+"A jurisprudência desta Corte sustenta a manutenção da prisão preventiva em casos de grande quantidade de drogas e risco à ordem pública"(RHC n. 192.177/PR, relatora Ministra Daniela Teixeira, Quinta Turma, julgado em 5/11/2024, DJe de 25/11/2024.)
+"A exorbitante quantidade de droga apreendida em poder do agente evidencia a gravidade concreta da conduta e se revela como motivo idôneo e apto a embasar o decreto prisional"(AgRg no RHC n. 200.130/MG, relator Ministro Og Fernandes, Sexta Turma, julgado em 27/11/2024, DJe de 2/12/2024.)
+Nesse mesmo sentido, confiram-se alguns precedentes: AgRg no HC n. 954.171/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 27/11/2024, DJe de 3/12/2024; (AgRg no HC n. 940.908/SP, relatora Ministra Daniela Teixeira, Quinta Turma, julgado em 27/11/2024, DJe de 2/12/2024; AgRg no RHC n. 196.021/DF, Sexta Turma, Rel. Min. Rogerio Schietti Cruz, DJe de 3/6/2024; AgRg no RHC n. 193.763/RS, Quinta Turma, Rel. Min. Ribeiro Dantas, DJe de 12/4/2024.
+Por fim, condições pessoais favoráveis, tais como primariedade, ocupação lícita e residência fixa, não têm o condão de garantirem ao paciente a revogação da prisão preventiva se há nos autos elementos hábeis a recomendar a manutenção de sua custódia cautelar. Pela mesma razão, não há que se falar em possibilidade de aplicação de medidas cautelares diversas da prisão, o que ocorre na hipótese.
+Diante de tais considerações, portanto, não se vislumbra a existência de qualquer flagrante ilegalidade passível de ser sanada.
+Ante o expost o, denego a ordem.
+Publique-se. Intimem-se.
+EMENTA
