@@ -1,0 +1,25 @@
+DECISÃO
+
+Habeas corpus. Pedido de afetação do julgamento do agravo regimental ao Plenário. Indeferimento.
+
+Em 05.05.2026, a Defesa interpôs agravo regimental da decisão que negou seguimento ao habeas corpus.
+
+Os advogados do agravante, por intermédio da Petição 58.625/2026 (evento 7), requerem a afetação do julgamento ao Plenário.
+
+É o relatório. Decido.
+
+Não se acolhe o pedido de afetação do julgamento ao Plenário, consabido que a hipótese nele versada desafia a competência das Turmas desta Suprema Corte, a teor do art. 9º, I, a, do RISTF.
+
+Registro que as Turmas, enquanto órgãos do Tribunal (art. 3º do RISTF), atuam em nome do STF, não se podendo desconsiderar que as regras de distribuição interna de competência entre os órgãos desta Casa (Plenário e Turmas) propõem-se a emprestar funcionalidade ao próprio Tribunal, essência da edição da ER 49/2014, pela qual se buscou racionalizar o julgamento dos processos submetidos a esta Corte.
+
+Acresço que a alínea “c” do inciso II do art. 6º, bem como os arts. 11 e 22, parágrafo único, todos do RISTF, contemplam a faculdade da Turma ou do Relator de afetar o caso ao Pleno desta Suprema Corte, prerrogativa essa não exercida no caso, pois em discussão matéria cuja orientação jurisprudencial coincide com a solução jurídica adotada no ato decisório agravado.
+
+Ante o exposto, indefiro o pedido de afetação do julgamento do agravo regimental ao Plenário.
+
+Publique-se.
+
+Brasília, 8 de maio de 2026.
+
+Ministro FLÁVIO DINO
+Relator
+Documento assinado digitalmente
