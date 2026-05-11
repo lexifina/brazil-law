@@ -1,0 +1,28 @@
+DECISÃO
+Trata-se de Reclamação (art. 105, I, f, da Constituição Federal) contra decisão da Presidência do Tribunal de Justiça do Estado de Minas Gerais que indeferiu o pedido de Suspensão de Liminar e de Sentença proposto pelo Município de Quartel General/MG.
+O reclamante alega, em síntese: a) usurpação da competência privativa do Presidente do Superior Tribunal de Justiça para apreciar pedido de Suspensão fundado em matéria de natureza infraconstitucional, e b) violação ao Tema Repetitivo 706/STJ e à Súmula 266/STF.
+O Município narra que o Juízo de primeiro grau, nos autos de ação ordinária proposta por José Lúcio Campos, deferiu tutela de urgência para suspender os efeitos da Lei Municipal 1.501/2025.
+Aduz que o Desembargador Relator do Agravo de Instrumento n. 1.0000.26.159227-3/001 indeferiu o efeito suspensivo pleiteado. Ao mesmo tempo, a Presidência do TJMG indeferiu o pedido de Suspensão de Liminar e de Sentença formulado pelo Município. Requer, então (fl. 13):
+ ..  a concessão de medida liminar, inaudita altera parte, com fundamento no artigo 989, inciso II, do Código de Processo Civil e no artigo 188 do Regimento Interno do STJ, para suspender os efeitos da decisão proferida pelo juiz de primeiro Grau nos autos de nº 5000187-58.2026.8.13.0232, restabelecendo-se a imediata e plena eficácia da Lei Municipal nº 1.501/2025.
+É o relatório.
+Decido.
+O pedido não merece conhecimento.
+O primeiro óbice ao conhecimento da presente Reclamação é a contradição decorrente da circunstância de que o próprio Município Reclamante foi quem formulou o pedido de Suspensão de Liminar e Sentença 1.0000.26.170613-9/000 perante a Presidência do Tribunal de Justiça do Estado de Minas Gerais, a mesma autoridade cuja decisão agora pretende cassar.
+Com efeito, os autos demonstram que o Município de Quartel Geral, ao interpor o Agravo de Instrumento 1.0000.26.159227-3/001 perante o TJMG, lançou mão, paralelamente, do pedido de suspensão de liminar perante a Presidência daquela Corte, submetendo o pleito suspensivo à autoridade local. Ao fazê-lo, reconheceu, ainda que implicitamente, a competência da Presidência do TJMG para apreciar a matéria.
+Ora, não é possível que a parte, após provocar determinado órgão jurisdicional a exercer sua jurisdição  e receber resposta desfavorável  , venha a esta Corte Superior arguir que aquele mesmo órgão não detinha competência para tanto. A Reclamação, tal como deduzida, representa comportamento contraditório vedado pelo ordenamento jurídico, em nítida violação à proibição do venire contra factum proprium, expressão do princípio da boa-fé objetiva positivado no art. 5º do CPC.
+Nesse ponto, observa-se que o Município Reclamante não contesta ter voluntariamente eleito a Presidência do TJMG como instância competente para apreciar a Suspensão de Liminar e de Sentença. A petição inicial da Reclamação confirma esse fato ao narrar que "o Município formulou Pedido de Suspensão de Liminar perante a Presidência do Tribunal de Justiça de Minas Gerais" (fl. 5). Diante disso, a alegação de usurpação de competência pela autoridade que o próprio Reclamante provocou a atuar revela-se insustentável.
+Ainda que ultrapassado o óbice, a controvérsia de origem tem natureza constitucional. O interessado José Lúcio Campos, autor da ação ordinária proposta contra o Município reclamante, defende a inconstitucionalidade formal e material da Lei Municipal 1.501/2025, por vício de iniciativa e violação do direito adquirido. Logo, não cabe ao Superior Tribunal de Justiça o conhecimento de Suspensão de Liminar e de Sentença, sob pena de usurpação da competência do Supremo Tribunal Federal.
+Por fim, o reclamante sustenta que a decisão reclamada afronta precedentes do STJ. Contudo, a Corte Especial, ao julgar a Reclamação 37.081/SP, estabeleceu que não cabe Reclamação para o exame da correta aplicação de precedente obrigatório formado em julgamento de Recurso Especial repetitivo à realidade do processo. Entendeu-se que o art. 988, IV, do CPC/2015, ainda no período da vacatio legis, foi alterado pela Lei 13.256/2016, sendo excluída a previsão de cabimento de Reclamação para garantir a observância de precedente oriundo de "casos repetitivos", passando a constar, apenas, o precedente advindo do julgamento de IRDR, que é espécie daqueles.
+A propósito:
+PROCESSUAL CIVIL. AGRAVO INTERNO NA RECLAMAÇÃO. ART. 988 DO CPC/2015. OFENSA A ENTENDIMENTO FIRMADO EM RECURSO REPRESENTATIVO DE CONTROVÉRSIA. DESCABIMENTO. PRECEDENTE.
+ ..  2.O Superior Tribunal de Justiça tem jurisprudência consolidada de que a Reclamação não pode ser utilizada como sucedâneo recursal, com o fito de fazer aplicar jurisprudência do STJ ou tese fixada sob o Rito dos Recursos Repetitivos.
+3. Agravo Interno não provido.
+(AgInt na Rcl 41.659/DF, Rel. Min. Herman Benjamin, Primeira Seção, DJe 13/10/2021)
+PROCESSUAL CIVIL. ADMINISTRATIVO. AÇÃO CIVIL PÚBLICA. IMPROBIDADE ADMINISTRATIVA. CUMPRIMENTO DA DECISÃO TRANSITADA EM JULGADO. RECLAMAÇÃO. SUCEDÂNEO RECURSAL. NÃO CABIMENTO.
+ ..  II - A jurisprudência do Superior Tribunal de Justiça é firme no sentido de que a reclamação não tem cabimento como sucedâneo recursal, e seguindo entendimento desta Corte de que tal ação é destinada a preservar a competência do STJ ou garantir a autoridade de suas decisões, não sendo adequada à preservação de sua jurisprudência, mas sim à autoridade de decisão tomada em caso concreto e envolvendo as partes postas no litígio do qual ela é originada, não há que se dar seguimento à presente reclamação.
+ ..  IX - Agravo interno improvido.
+(AgInt na Rcl 41.776/RO, Rel. Min. Francisco Falcão, Primeira Seção, DJe 11/11/2021)
+Diante do exposto, indefiro liminarmente a Reclamação.
+Publique-se.
+Intimem-se.
+EMENTA
