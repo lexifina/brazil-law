@@ -1,0 +1,38 @@
+DECISÃO:
+Vistos.
+Trata-se de agravo (e-doc. n° 210) contra decisão que inadmitiu recurso extraordinário, fundado na letra “a” do permissivo constitucional, interposto contra acórdão com a seguinte ementa (e-doc. n° 185):
+
+CONTRIBUIÇÃO PREVIDENCIÁRIA. CONTRIBUIÇÕES SOCIAIS DESTINADAS A TERCEIROS. SAT/RAT. PAGAMENTO DOS PRIMEIROS QUINZE DIAS DE AFASTAMENTO DO TRABALHO POR INCAPACIDADE. TERÇO CONSTITUCIONAL DE FÉRIAS GOZADAS. ABONO ASSIDUIDADE PAGO EM PECÚNIA. FOLGAS NÃO GOZADAS. AVISO-PRÉVIO INDENIZADO. DÉCIMO-TERCEIRO SALÁRIO CORRESPONDENTE AO AVISO-PRÉVIO INDENIZADO. 1. As conclusões referentes às contribuições previdenciárias também se aplicam às contribuições ao SAT/RAT e às destinadas a terceiros, uma vez que a base de cálculo destas também é a folha de salários. 2. Não incide contribuição previdenciária sobre o pagamento dos primeiros quinze dias de afastamento do trabalho por incapacidade, terço constitucional de férias gozadas, abono assiduidade, folgas não gozadas e aviso-prévio indenizado. 3. É devida a incidência de contribuição previdenciária sobre o décimo-terceiro salário, ainda que calculado com base no aviso-prévio indenizado, porque sempre constitui verba salarial.
+
+Opostos Embargos de Declaração, foram rejeitados (e-doc. n° 190).
+No recurso extraordinário (e-doc. n° 198), a parte recorrente alega violação ao artigo 201, §§ 3º e 11, da Constituição Federal.
+Aduz que a exigência da contribuição previdenciária patronal sobre os valores pagos a título de 13º proporcional ao aviso prévio indenizado é inconstitucional por ser destinado a indenizar o trabalhador.
+Na decisão de admissibilidade, o Vice-Presidente do Tribunal de origem não admitiu o apelo por entender que a discussão acerca da incidência de contribuição previdenciária quando baseada na natureza da verba é infraconstitucional (e-doc. n° 207).
+Encaminhados os autos ao órgão colegiado de origem para eventual exercício do juízo de retratação, à luz do Tema nº 985 do STF (e-doc. n° 214), a 2ª Turma do Tribunal a quo decidiu, por unanimidade, em juízo de retratação, conhecer em parte do apelo da União e, no ponto, dar-lhe parcial provimento, bem como à remessa necessária, e manter o desprovimento do apelo da autora. O acórdão ficou assim ementado (e-doc. n° 218):
+
+‘’CONTRIBUIÇÃO PREVIDENCIÁRIA. TERÇO CONSTITUCIONAL DE FÉRIAS GOZADAS. TEMA Nº 985 DA REPERCUSSÃO GERAL. JUÍZO DE RETRATAÇÃO. INCIDÊNCIA. DIREITO À COMPENSAÇÃO/RESTITUIÇÃO. PERÍODO ATÉ A DATA DA PUBLICAÇÃO DE ATA DE JULGAMENTO. MODULAÇÃO DOS EFEITOS.”
+
+A Corte de origem homologou pedido de desistência dos recursos especial e extraordinário interpostos pela União (e-doc. 220).
+Decido.
+A irresignação não merece prosperar.
+A discussão acerca da verificação da natureza jurídica da verba relativa ao décimo terceiro proporcional ao aviso prévio indenizado é de índole infraconstitucional, pois sua análise não prescinde do exame da legislação pertinente, o que não é cabível em sede de apelo extremo. Com efeito, a alegada violação dos dispositivos constitucionais invocados seria, se ocorresse, indireta ou reflexa, o que não enseja reexame em recurso extraordinário. Nesse sentido:
+
+“AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO. DIREITO TRIBUTÁRIO. CONTROVÉRSIA SOBRE A INCIDÊNCIA DE CONTRIBUIÇÃO PREVIDENCIÁRIA BASEADA NA NATUREZA JURÍDICA DA VERBA. OFENSA INDIRETA OU REFLEXA. AUSÊNCIA DE REPERCUSSÃO GERAL. 1. A incidência de contribuição previdenciária sobre horas extras é controvérsia de índole infraconstitucional. Precedentes. 2. A matéria relativa à incidência de contribuição previdenciária sobre as verbas pagas a título de aviso prévio indenizado e o décimo terceiro salário proporcional ao aviso prévio indenizado se restringe ao âmbito infraconstitucional (ARE 745.901-RG/PR, Rel. Min. Teori Zavascki, Tema 759 da Repercussão Geral). 3. Agravo regimental a que se nega provimento, com previsão de aplicação de multa, nos termos do art. 1.021, § 4º, do CPC.” (RE nº 1.160.504/PE-AgR, Segunda Turma, Relator o Ministro Edson Fachin, DJe de 28/2/20 - grifo nosso).
+
+“AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. PROCESSUAL CIVIL. APLICAÇÃO DA SISTEMÁTICA DA REPERCUSSÃO GERAL NA ORIGEM. AUSÊNCIA DE PREVISÃO LEGAL DE RECURSO PARA O SUPREMO TRIBUNAL FEDERAL. PRECEDENTES. TRIBUTÁRIO. INCIDÊNCIA DE CONTRIBUIÇÃO PREVIDENCIÁRIA. NATUREZA DA VERBA. AUSÊNCIA DE OFENSA CONSTITUCIONAL DIRETA. VERBA HONORÁRIA MAJORADA EM 1%, PERCENTUAL QUE SE SOMA AO FIXADO NA ORIGEM, OBEDECIDOS OS LIMITES DOS §§ 2º, 3º E 11 DO ART. 85 DO CÓDIGO DE PROCESSO CIVIL, E MULTA APLICADA NO PERCENTUAL DE 1%, CONFORME O § 4º DO ART. 1.021 DO CÓDIGO DE PROCESSO CIVIL. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO.” (ARE nº 1.075.323/SC-AgR, Tribunal Pleno, Relatora a Ministra Presidente, DJe de 26/6/18).
+
+“EMENTA DIREITO TRIBUTÁRIO. CONTRIBUIÇÃO PREVIDENCIÁRIA. ABONO ASSIDUIDADE. DISCUSSÃO QUANTO À NATUREZA JURÍDICA DO ABONO. DEBATE DE ÂMBITO INFRACONSTITUCIONAL. EVENTUAL VIOLAÇÃO REFLEXA DA CONSTITUIÇÃO DA REPÚBLICA NÃO VIABILIZA O MANEJO DO RECURSO EXTRAORDINÁRIO. ACÓRDÃO RECORRIDO PUBLICADO EM 16.9.2011. O Tribunal de origem decidiu em consonância com a jurisprudência firmada no âmbito deste Supremo Tribunal Federal no sentido de que as contribuições previdenciárias não incidem sobre parcelas indenizatórias. Precedentes. Divergir do entendimento do acórdão recorrido no tocante à natureza indenizatória do abono assiduidade, convertido em pecúnia, exigiria a prévia análise da legislação infraconstitucional aplicável à espécie, o que refoge à competência jurisdicional extraordinária, prevista no art. 102 da Constituição Federal. Agravo regimental conhecido e não provido” (ARE n° 808.632/MG-AgR, Primeira Turma, Relatora a Ministra Rosa Weber, DJe de 22/8/14).
+
+A natureza infraconstitucional da controvérsia foi definitivamente assentada pelo Plenário da Corte no ARE 1.260.750 (Tema 1100), aplicando-se a ela os efeitos da ausência de repercussão geral, conforme ementa que segue:
+
+“Recurso extraordinário com agravo. Direito Tributário. Contribuição previdenciária patronal ou a cargo do empregador. Artigo 22, I, da Lei nº 8.212/1991. Incidência da contribuição previdenciária a cargo do empregador. Natureza jurídica das verbas percebidas pelo empregado. Aferição da habitualidade do ganho. Matéria infraconstitucional. Ausência de repercussão geral. Recurso ao qual se nega seguimento. Firmada a seguinte tese de repercussão geral: É infraconstitucional, a ela se aplicando os efeitos da ausência de repercussão geral, a controvérsia relativa à definição individualizada da natureza jurídica de verbas percebidas pelo empregado, bem como de sua respectiva habitualidade, para fins de incidência da contribuição previdenciária a cargo do empregador conforme o art. 22, I, da Lei nº 8.212/1991.”
+
+Por fim, observo ser inaplicável a tese firmada pelo Supremo Tribunal Federal no julgamento do RE 593.068 (Tema 163 da Repercussão Geral), porquanto restrita à incidência de contribuição previdenciária sobre parcelas percebidas por servidores públicos, hipótese diversa da tratada nos presentes autos.
+Ante o exposto,  nos termos do artigo 21, §1º, do Regimento Interno do Supremo Tribunal Federal, nego seguimento ao recurso.
+Havendo prévia fixação de honorários advocatícios pelas instâncias de origem, seu valor monetário será majorado em 10% (dez por cento) em desfavor da parte recorrente, nos termos do art. 85, § 11, do Código de Processo Civil, observado os limites dos §§ 2º e 3º do referido artigo e a eventual concessão de justiça gratuita.
+Publique-se.
+Brasília, 11 de maio de 2026.
+
+Ministro DIAS TOFFOLI
+Relator
+Documento assinado digitalmente
