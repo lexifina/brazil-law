@@ -1,0 +1,31 @@
+DECISÃO
+Cuida-se de conflito negativo de competência suscitado pelo Juízo de Direito da 16ª Vara do trabalho de Belo Horizonte/MG, tendo por suscitado o Juízo de Direito da 9ª Vara Cível de Belo Horizonte/MG.
+Narra o suscitante que foi ajuizada Ação de Jurisdição Voluntária para Nomeação de Administrador Provisório originalmente distribuída perante a 9ª Vara Cível da Comarca de Belo Horizonte. Afirma que, tratando a hipótese de nomeação de administrador para associação, pessoa jurídica constituída sob a forma de associação civil, não há que se falar em competência da Justiça Especializada, prevista no art. 114 da CF. (e-STJ fls. 65-67)
+O suscitado, a seu turno, sustenta que após a Emenda n. 45/2004, a Justiça do Trabalho passou a ter competência sobre as ações que versem sobre representação externa (relativa à legitimidade sindical) e interna (relacionada à escolha dos dirigentes sindicais) do sindicato, o que seria a hipótese dos autos. (e-STJ fls. 52)
+É o relatório.
+Decido.
+Dispõe o art. 105, I, d, da CRFB/88 que "Compete ao Superior Tribunal de Justiça: I - processar e julgar, originariamente (..) d) os conflitos de competência entre quaisquer tribunais, ressalvado o disposto no art. 102, I, "o", bem como entre tribunal e juízes a ele não vinculados e entre juízes vinculados a tribunais diversos".
+O Juiz natural é garantia constitucional das partes, expressa no art. 5º, inciso LIII, da Constituição Federal, que dispõe que "ninguém será processado nem sentenciado senão pela autorid ade competente".
+Nos termos do art. 66 do Código de Processo Civil, há conflito de competência quando dois ou mais juízes se declaram competentes, quando dois ou mais juízes se declaram incompetentes, atribuindo um ao outro a competência, ou quando surge controvérsia acerca da reunião ou separação de processos entre dois ou mais juízes.
+O entendimento consolidado do Superior Tribunal de Justiça é de que "Para se caracterizar o conflito de competência, é necessária a manifestação expressa de dois ou mais juízos que se considerem competentes, ou incompetentes, para processar e julgar a mesma demanda. Desserve ao fim de sanear toda e quaisquer questões conflitantes em um processo." (AgInt no CC n. 206.377/SP, relator Ministro João Otávio de Noronha, Segunda Seção, julgado em 29/10/2024, DJe de 5/11/2024.)
+Observa-se, no presente feito, a existência de conflito de competência instaurado entre juízos pertencentes a tribunais distintos, hipótese que atrai a competência desta corte para definição da autoridade responsável pelo exercício da jurisdição no caso concreto.
+A controvérsia em destaque diz respeito à fixação do Juízo competente para processar e julgar ação de jurisdição voluntária para nomeação de administrador provisório de associação civil. (e-STJ fls. 8-16)
+Conforme art. 114, III da CF, a Justiça do Trabalho é competente para processar e julgar "as ações sobre representação sindical, entre sindicatos, entre sindicatos e trabalhadores, e entre sindicatos e empregadores".
+Na hipótese dos autos, o juízo especializado pontuou que o estatuto social da Associação Belohorizontina dos Trabalhadores indica "que ela é pessoa jurídica constituída sob a forma de associação civil" formada por pessoas "cujos requisitos para o ingresso são a maioridade civil e a admissão pela Assembleia Geral, art. 4º do Estatuto (fl. 20), não havendo sequer a previsão de comprovação da condição de "trabalhador".
+A análise da controvérsia à luz dos pedidos e da causa de pedir da demanda originária respalda, assim, a possibilidade de existência de sindicato e, por consequência, a competência da Justiça Especializada, conforme dispõe o art. 114, da CF. (e-STJ fls. 65 e 66)
+Em sentido semelhante:
+CONFLITO NEGATIVO DE COMPETÊNCIA. JUSTIÇA COMUM ESTADUAL E JUSTIÇA DO TRABALHO. IMPUGNAÇÃO DE REGISTRO DE CANDIDATURA. ELEIÇÃO PARA CARGO DIRETIVO DE ASSOCIAÇÃO. ENTIDADE DE DIREITO PRIVADO. MATÉRIA NÃO SUJEITA À APRECIAÇÃO PELA JUSTIÇA ESPECIALIZADA.
+1. A associação civil indicada no processo originário não possui como finalidade a defesa de interesses de natureza trabalhista - função precípua dos sindicatos -, de modo que as eleições realizadas em seu âmbito não podem ser equiparadas àquelas destinadas à escolha de dirigentes sindicais.
+2. A ação que objetiva a impugnação de registro de candidatura a cargo diretivo de associação - "pessoa jurídica que não integra a estrutura sindical pátria e não exerce a defesa dos direitos trabalhistas dos associados" (CC 53.900/PR, Rel. Min. Eliana Calmon, Primeira Seção, DJ 09/04/2007) - deve ser processada e julgada pela Justiça Comum, pois não se está diante de alguma das hipóteses previstas pelo art. 114 da Constituição da República.
+3. Conflito de competência conhecido. Declarada a competência do Juízo de Direito de Sento Sé - BA.
+(CC n. 114.627/BA, relatora Ministra Nancy Andrighi, Segunda Seção, julgado em 13/3/2013, DJe de 19/3/2013.)
+Robustece o raciocínio o fato de que a demanda está fundamentada no Código Civil. A propósito:
+CONFLITO DE COMPETÊNCIA. AÇÃO DE OBRIGAÇÃO DE FAZER E NÃO FAZER CUMULADA COM INDENIZAÇÃO POR DANOS MORAIS. PEDIDO EMINENTEMENTE CIVIL. COMPETÊNCIA DA JUSTIÇA COMUM ESTADUAL.
+1. Conflito de competência instaurado no âmbito de ação de obrigação de fazer e de não fazer cumulada com indenização por danos morais, objetivando a remoção dos conteúdos gravados no estabelecimento pertencente à autora das redes sociais e a condenação solidária dos requeridos ao pagamento de indenização pelos danos causados.
+2. A jurisprudência desta Segunda Seção se firmou no sentido de que a competência ratione materiae é definida em função do pedido e da causa de pedir constantes na inicial.
+3. Compete à justiça comum estadual o processo e julgamento da presente ação, tendo em vista a natureza eminentemente civil do pedido, que não deriva do vínculo empregatício em si nem veicula pretensão relacionada a verbas trabalhistas.
+Conflito de competência conhecido para declarar a competência do Juízo suscitado.
+(CC n. 214.691/TO, relator Ministro Humberto Martins, Segunda Seção, julgado em 10/12/2025, DJEN de 15/12/2025.)
+Ante o exposto, CONHEÇO do conflito para DECLARAR competente o Juízo de Direito da 9ª Vara Cível de Belo Horizonte/MG, para processar e julgar a demanda na origem.
+Publique-se. Intimem-se
+ EMENTA
