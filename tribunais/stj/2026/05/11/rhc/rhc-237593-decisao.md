@@ -1,0 +1,48 @@
+DECISÃO
+Trata-se de recurso em habeas corpus, com pedido de liminar, interposto por CRISTIANO FERNANDES DOS SANTOS contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE MATO GROSSO DO SUL que denegou a ordem no writ de origem, assim ementado (fls. 132-133):
+Ementa: DIREITO PROCESSUAL PENAL. HABEAS CORPUS. TRÁFICO DE DROGAS E ASSOCIAÇÃO PARA O TRÁFICO. PRISÃO PREVENTIVA. APREENSÃO DE GRANDE QUANTIDADE DE ENTORPECENTE. FUNDAMENTAÇÃO IDÔNEA. GARANTIA DA ORDEM PÚBLICA. CONDIÇÕES PESSOAIS IRRELEVANTES. ORDEM DENEGADA.
+I. CASO EM EXAME
+1. Habeas corpus impetrado em favor de paciente preso pela suposta prática do crime de tráfico de drogas (art. 33, caput c/c art. 40, V, da Lei 11.343/2006), consistente no transporte de aproximadamente 256,45 kg de maconha. A defesa pleiteia a revogação da custódia por alegada ausência de fundamentação e suficiência de medidas cautelares diversas.
+II. QUESTÃO EM DISCUSSÃO
+2. Há duas questões em discussão: (i) definir se a decisão que decretou a prisão preventiva apresenta fundamentação idônea à luz dos requisitos dos arts. 312 e 315 do CPP; (ii) estabelecer se as condições pessoais favoráveis do paciente autorizam a substituição da prisão por medidas cautelares diversas.
+III. RAZÕES DE DECIDIR
+3. A prisão preventiva mostra-se juridicamente admissível, pois o crime imputado possui pena máxima superior a 4 anos, atendendo ao requisito do art. 313, I, do CPP.
+4. A decisão impugnada apresenta fundamentação concreta, indicando a existência de fumus commissi delicti e periculum libertatis, com base em elementos como auto de prisão em flagrante, laudos periciais e depoimentos policiais.
+5. A expressiva quantidade de droga apreendida (mais de 256 kg de maconha), associada à logística do transporte interestadual e indícios de atuação organizada, evidencia a gravidade concreta da conduta e justifica a custódia para garantia da ordem pública.
+6. O contexto fático revela indícios de atuação estruturada no tráfico de drogas, demonstrando risco de reiteração delitiva e legitimando a custódia cautelar como medida necessária e adequada.
+7. As condições pessoais favoráveis do paciente, como primariedade, residência fixa e emprego lícito, não afastam a prisão preventiva quando presentes os requisitos legais da medida.
+8. As medidas cautelares diversas da prisão revelam-se insuficientes e inadequadas diante da gravidade concreta do delito e do risco de reiteração delitiva.
+IV. DISPOSITIVO E TESE
+9. Ordem de habeas corpus denegada.
+Consta nos autos que o recorrente foi preso em flagrante, convertido em prisão preventiva, sendo denunciado pela suposta prática do crime tipificado no art. 33, caput, da Lei 11.343/06.
+Neste recurso, a defesa alega a ausência de fundamentação concreta e idônea do decreto prisional, uma vez que baseado na gravidade abstrata do delito, reputando ausentes os requisitos autorizadores da medida extrema (art. 312 do CPP), notadamente porque a quantidade da droga, por si só, não justifica a aplicação de medida mais severa.
+Afirma que o recorrente possui condições pessoais favoráveis, como primariedade, bons antecedentes, endereço fixo, ocupação lícita e vínculo familiar, predicados que possibilitaria a aplicação de medidas cautelares diversas da prisão, sendo implementadas de maneira proporcional e adequada.
+Requer, liminarmente e no mérito, o provimento do recurso para revogar da prisão preventiva ou substituir por medidas cautelares alternativas, nos termos do art. 319 do CPP.
+É o relatório.
+O recurso é tempestivo e deve ser conhecido. Passa-se, portanto, ao exame do mérito.
+A prisão preventiva justifica-se apenas quando devidamente demonstrada sua imprescindibilidade para a preservação da ordem pública, a garantia da regularidade da instrução criminal ou a asseguração da eficácia da aplicação da lei penal, nos termos do art. 312 do Código de Processo Penal.
+Da decisão que manteve a prisão preventiva, extrai-se (fls. 29-30):
+ ..  8 A materialidade delitiva e os indícios suficientes de autoria (fumus commissi delicti) estão devidamente consubstanciados nos elementos informativos colhidos durante o inquérito policial e na lavratura do flagrante.
+9 Quanto ao periculum libertatis, a manutenção da segregação cautelar revela-se imprescindível para a garantia da ordem pública. Conforme apurado, o acusado foi surpreendido transportando a expressiva quantidade de 256 quilos de substância análoga à maconha.
+10 O transporte de tamanha e expressiva quantidade de entorpecentes, realizado em região de fronteira com o Paraguai e com a destinação da droga para outro Estado da Federação (São Paulo), é fator que indica, ao menos por ora, a periculosidade concreta decorrente da liberdade do acusado. A logística complexa e o alto valor financeiro envolvidos na empreitada criminosa demonstram que tais situações comumente estão ligadas à atuação de organizações criminosas estruturadas, exigindo resposta estatal firme para interromper a cadeia delitiva.
+11 Nesse aspecto, a legislação processual penal contemporânea respalda expressamente tal entendimento. O art. 312, § 3º, inciso III, do Código de Processo Penal, introduzido pela Lei n. 15.272/2025, estipula que a quantidade e a natureza da droga apreendida consubstanciam critérios objetivos que devem balizar a decisão judicial para a decretação ou manutenção da prisão preventiva, o que se amolda perfeitamente à gravidade da apreensão em análise.
+12 Por fim, cabe salientar que as circunstâncias de ordem subjetiva apresentadas pela defesa - tais como bons antecedentes, primariedade, emprego lícito e residência fixa - , embora representem critérios importantes na análise da vida pregressa, não impedem a decretação ou a manutenção da prisão preventiva quando se fazem presentes os requisitos delineados no art. 312 do Código de Processo Penal, conforme orientação jurisprudencial.
+13 E, de fato, os documentos apresentados indicam primariedade, bons antecedentes e endereço fixo, entretanto, o ora requerente foi preso em outro Estado, e supostamente teria vindo de Jundiaí-SP para buscar entorpecente em Ponta Porã-MS (cidade vizinha ao Paraguai), e ao retornar foi preso com 256 quilos de maconha, a indicar que as condições subjetivas favoráveis não são suficientes, ao menos por ora, a revogar a prisão preventiva decretada.
+14 Diante desse quadro, a aplicação de medidas cautelares diversas da prisão (art. 319 do CPP) mostra-se manifestamente insuficiente e inadequada para resguardar a ordem pública.  ..
+Como visto, há fundamentação idônea à decretação da prisão preventiva, evidenciada na necessidade de garantir a ordem pública, face à gravidade concreta do delito, pois foi apreendida expressiva quantidade droga destinadas à comercialização - 256kg de maconha -, circunstâncias que revelam maior potencial lesivo da conduta e indicam periculosidade do agente.
+Com efeito, nos casos de prisão em flagrante por tráfico de drogas, a conversão em prisão preventiva pode ser decretada quando a gravidade concreta da conduta se evidencia em fatores como a quantidade e a natureza da substância apreendida, a forma de acondicionamento ou a presença de instrumentos destinados à comercialização, circunstâncias que revelam maior potencial lesivo da conduta e indicam periculosidade do agente, ultrapassando a mera gravidade abstrata do delito.
+Nesse sentido:
+AGRAVO REGIMENTAL EM HABEAS CORPUS. CRIMES DE TRÁFICO DE DROGAS E ADULTERAÇÃO DE SINAL IDENTIFICADOR DE VEÍCULO. ALEGAÇÃO DE INOCÊNCIA. PRISÃO PREVENTIVA. FUNDAMENTAÇÃO. GRANDE QUANTIDADE DE DROGAS. INDÍCIOS DE ENVOLVIMENTO REITERADO. GRAVIDADE CONCRETA DA CONDUTA. SEGREGAÇÃO DEVIDAMENTE JUSTIFICADA PARA A GARANTIA DA ORDEM PÚBLICA. DESPROPORÇÃO EM RELAÇÃO À POSSÍVEL PENA A SER APLICADA. PROGNÓSTICO INVIÁVEL. CONDIÇÕES PESSOAIS FAVORÁVEIS. IRRELEVÂNCIA. MEDIDAS CAUTELARES ALTERNATIVAS. INSUFICIÊNCIA. AUSÊNCIA DE CONSTRANGIMENTO ILEGAL. RECURSO NÃO PROVIDO.
+ .. .
+4. Ademais, "É pacífico o entendimento no sentido de que as circunstâncias fáticas do crime, como a quantidade apreendida, a variedade, a natureza nociva dos entorpecentes, a forma de acondicionamento, entre outros aspectos, podem servir de fundamentos para o decreto prisional quando evidenciarem a periculosidade do agente e o efetivo risco à ordem pública, caso permaneça em liberdade."(AgRg no HC n. 787.386/SP, Rel. Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 13/12/2022, DJe 19/12/2022).
+ ..
+7. Mostra-se indevida a aplicação de medidas cautelares diversas da prisão, quando evidenciada a sua insuficiência para acautelar a ordem pública.
+8. Agravo regimental a que se nega provimento.
+(AgRg no HC n. 957.245/SC, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 12/2/2025, DJEN de 18/2/2025.)
+Sendo assim, quando presentes os requisitos do art. 312 do CPP, a imposição da prisão preventiva é medida de rigor, independentemente de condições pessoais favoráveis do agente, mostrando-se inadequadas medidas cautelares diversas do art. 319, quando a custódia provisória apresentar fundamentação concreta.
+Nesse sentido, " a  presença de condições pessoais favoráveis não impede a imposição da prisão preventiva, quando presentes os requisitos legais" (AgRg no HC n. 990.311/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 22/4/2025, DJEN de 30/4/2025).
+Inclusive, "tendo sido exposta de forma fundamentada e concreta a necessidade da prisão, revela-se incabível sua substituição por outras medidas cautelares mais brandas" (AgRg no HC n. 965.960/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 5/3/2025, DJEN de 10/3/2025).
+Ante o exposto, nego provimento ao recurso em habeas corpus.
+Publique-se.
+Intimem-se.
+EMENTA
