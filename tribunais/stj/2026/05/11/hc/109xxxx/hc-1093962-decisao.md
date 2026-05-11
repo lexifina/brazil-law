@@ -1,0 +1,15 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em nome de RAFAEL NASCIMENTO DA SILVA e DANIEL DA SILVA SOUZA, condenados pelo crime do art. 33 da Lei n. 11.343/2006 e absolvidos do art. 35 da mesma lei, às penas de 5 anos, 6 meses e 20 dias de reclusão (RAFAEL) e 9 anos, 2 meses e 25 dias de reclusão (DANIEL), com mitigação do regime de RAFAEL para o semiaberto em grau de apelação, em que se aponta como autoridade coatora o Tribunal de Justiça do Estado do Rio de Janeiro (Apelação Criminal n. 0803244-34.2023.8.19.0052).
+Alega nulidade da busca pessoal por ausência de fundada suspeita, sustentando ilicitude das provas derivadas (fls. 7/9). Sustenta violação do direito ao silêncio pela ausência de Aviso de Miranda e nulidade da "confissão informal" utilizada em prejuízo dos pacientes (fls. 9/11). Indica perda de uma chance probatória e cerceamento de defesa pelo apagamento/indisponibilidade das imagens das câmeras corporais, pugnando pela absolvição pela dúvida razoável (fls. 12/14). Aponta ilegalidade no afastamento do tráfico privilegiado para RAFAEL, por uso de atos infracionais pretéritos e contradição com a absolvição do art. 35 (fls. 14/16). Assinala erros na dosimetria: frações desproporcionais na pena-base, bis in idem na valoração da natureza da droga e inadequação do regime, requerendo readequação das reprimendas (fls. 16/18).
+Em liminar, pede suspensão das Cartas de Execução de Sentença provisórias e expedição de alvará de soltura para ambos os pacientes (fl. 6); e, no mérito, requer, prioritariamente, a absolvição por nulidade das provas; subsidiariamente, o reconhecimento do redutor do art. 33, § 4º, da Lei n. 11.343/2006 para RAFAEL, a readequação das penas ao mínimo legal ou, ao menos, a fração de 1/6 por vetorial negativa, regime inicial aberto, substituição por restritivas de direitos (fls. 14/18).
+É o relatório.
+O writ é inadmissível.
+Nos termos do art. 105, I, e, da Constituição Federal, a competência do Superior Tribunal de Justiça para processar e julgar revisão criminal restringe-se aos seus próprios julgados. Não lhe compete apreciar pedido que, em essência, visa à revisão de acórdão estadual já transitado em julgado.
+Além disso, consoante jurisprudência desta Corte Superior, o não cabimento do writ substitutivo de revisão criminal é corroborado quando o impetrante não indica que as raz ões de pedir estão previstas em alguma das hipóteses do art. 621 do CPP, como no presente caso (HC n. 829.748/GO, Ministro Rogerio Schietti Cruz, Sexta Turma, DJe 11/12/2023).
+É cediço que, em habeas corpus, não cabe ampla análise de fatos e provas, o que torna inadmissível o exame do pedido de absolvição.
+A ilegalidade passível de justificar a impetração do habeas corpus deve ser manifesta e evidente, o que, na espécie, não ocorre.
+Ante o exposto, indefiro liminarmente a petição inicial.
+Publique-se.
+EMENTA
+HABEAS CORPUS. PROCESSUAL PENAL. TRÁFICO DE DROGAS. WRIT SUBSTITUTIVO DE REVISÃO CRIMINAL. INEXISTÊNCIA DE ILEGALIDADE FLAGRANTE.
+Petição inicial liminarmente indeferida.
