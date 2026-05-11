@@ -1,0 +1,27 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em favor de HEVELLY NATALIA SANTOS MATOS, presa preventivamente e investigada pela suposta prática dos crimes previstos nos arts. 33 e 35 da Lei n. 11.343/2006, nos autos do Processo n. 1001105-42.2025.8.11.0032, em trâmite na Vara Única da comarca de Rosário Oeste/MT.
+O impetrante aponta como autoridade coatora o Tribunal de Justiça de Mato Grosso, que, em 8/10/2025, por intermédio da Segunda Câmara Criminal, conheceu parcialmente da impetração e, nessa extensão, denegou a ordem.
+A defesa sustenta excesso de prazo para o oferecimento da denúncia, ao argumento de que a prisão foi efetivada em 7/8/2025 e, transcorridos aproximadamente três meses, o Ministério Público ainda não teria apresentado a peça acusatória, em alegada afronta ao art. 46 do Código de Processo Penal.
+Alega, ainda, ausência dos requisitos autorizadores da prisão preventiva, afirmando que a decisão constritiva estaria fundada em motivação genérica e sem demonstração concreta do periculum libertatis.
+Ressalta possuir a paciente condições pessoais favoráveis, tais como residência fixa e ocupação lícita, defendendo a suficiência de medidas cautelares diversas da prisão.
+Em caráter liminar, requer a substituição da prisão preventiva por medidas cautelares diversas, com a consequente expedição de alvará de soltura.
+No mérito, pleiteia a concessão definitiva da ordem para revogar a custódia cautelar e substituí-la por providências previstas no art. 319 do Código de Processo Penal.
+Liminar indeferida pela Vice-Presidência deste Superior Tribunal (fls. 2.082/2.083).
+Informações prestadas (fls. 2.089/2.096 e 2.097/2.102).
+Instada, a Procuradoria-Geral da República se manifestou pela denegação da ordem (fls. 2.104/2.107).
+É o relatório.
+Ao compulsar os autos, constato que a impetração se volta contra prisão preventiva decretada no contexto da denominada operação "Devastate", investigação voltada à suposta atuação de organização criminosa vinculada ao "Comando Vermelho", com atuação nos municípios de Rosário Oeste, Nobres e Jangada/MT.
+Da atenta leitura do ato apontado como coator, depreende-se que o Tribunal de origem destacou a elevada complexidade da investigação, envolvendo 26 investigados, extração de dados telemáticos mediante utilização do software Cellebrite, análise de comunicações eletrônicas e estrutura hierarquizada de organização criminosa.
+O acórdão fundamentadamente explicitou que a paciente seria vinculada à facção criminosa por intermédio de integrante identificado como "Caverinha" ou "G2", além de ter realizado movimentações financeiras direcionadas à investigada conhecida como "Docinho", circunstâncias que, em tese, indicariam participação funcional no contexto investigado.
+Também verifico que o Tribunal local afastou a alegação de excesso de prazo ao consignar inexistência de desídia estatal, ressaltando a pluralidade de investigados, a complexidade das diligências e a necessidade de aprofundamento das análises técnicas decorrentes das extrações telemáticas.
+A meu ver, a alegação de extrapolação automática do prazo do art. 46 do Código de Processo Penal não conduz, por si só, ao reconhecimento de constrangimento ilegal, uma vez que a jurisprudência consolidada desta Corte orienta que os prazos processuais não possuem natureza absoluta, devendo ser aferidos à luz dos princípios da razoabilidade e da proporcionalidade, especialmente em feitos complexos envolvendo organização criminosa.
+A corroborar, citem-se: AgRg no HC n. 981.884/SP, Ministro Otávio de Almeida Toledo (Desembargador Convocado do TJSP), Sexta Turma, DJEN de 20/5/2025; e AgRg no HC n. 990.118/SP, Ministro Antonio Saldanha Palheiro, Sexta Turma, DJEN de 20/5/2025.
+Julgo, ainda, que não há demonstração inequívoca, neste exame perfunctório, de ausência dos requisitos da prisão preventiva. O contexto descrito no ato coator revela investigação de tráfico estruturado e associação criminosa organizada, circunstâncias aptas, em tese, a justificar a custódia cautelar para garantia da ordem pública.
+Nesse sentido: HC n. 974.892/SP, de minha relatoria, Sexta Turma, DJEN de 27/3/2025; AgRg no HC n. 947.800/SC, Ministro Antonio Saldanha Palheiro, Sexta Turma, DJEN de 11/3/2025; e AgRg no RHC n. 207.913/CE, Ministro Og Fernandes, Sexta Turma, DJEN de 12/3/2025.
+As condições pessoais favoráveis mencionadas pela defesa, como residência fixa e ocupação lícita, embora relevantes, não impedem a manutenção da prisão preventiva quando presentes elementos concretos indicativos de risco decorrente da liberdade da investigada.
+Também não verifico manifesta ilegalidade quanto ao afastamento das medidas cautelares diversas, pois o acór dão considerou insuficientes as providências do art. 319 do Código de Processo Penal diante da gravidade concreta dos fatos investigados e da suposta inserção da paciente em organização criminosa estruturada.
+Ante o exposto, com fundamento nos arts. 38 da Lei n. 8.038/1990 e 210 do RISTJ, denego a ordem.
+Publique-se.
+EMENTA
+HABEAS CORPUS. PENAL E PROCESSUAL PENAL. LEGISLAÇÃO EXTRAVAGANTE. OPERAÇÃO DEVASTATE. TRÁFICO DE DROGAS E ASSOCIAÇÃO PARA O TRÁFICO. ORGANIZAÇÃO CRIMINOSA. ALEGADO EXCESSO DE PRAZO PARA OFERECIMENTO DA DENÚNCIA. INVESTIGAÇÃO COMPLEXA COM PLURALIDADE DE INVESTIGADOS E EXTRAÇÃO TELEMÁTICA DE DADOS. PRISÃO PREVENTIVA FUNDAMENTADA NA GARANTIA DA ORDEM PÚBLICA. AUSÊNCIA DE FLAGRANTE ILEGALIDADE.
+Ordem denegada.
