@@ -1,0 +1,45 @@
+DECISÃO
+Cuida-se de Embargos de Declaração opostos por EASA-ESTALEIROS AMAZONIA S.A - EM RECUPERACAO JUDICIAL à decisão de fls. 737/738, que não conheceu do recurso.
+Sustenta a parte embargante:
+De acordo com r. decisum embargado, embora intimada para sanar o vício, a parte não o teria feito de forma tempestiva, pois a petição de fls. 732/736 teria sido " protocolizada fora do prazo assinalado, ocorrendo a preclusão temporal da prática do ato".
+Ocorre que a r. decisão embargada padece, data venia, de omissões que precisam ser sanadas por essa via aclaratória, notadamente no que toca 1. ao fato de que, concretamente, NÃO existe deficiência documental na comprovação dos poderes e, ainda, 2. à tempestividade da regularização processual, na forma do art. 104, § 1º, do CPC.
+Verdadeiramente, em primeiro lugar, a r. decisão embargada omitiu-se quanto à circunstância de que o agravo em recurso especial foi interposto no âmbito de agravo de instrumento com origem em autos eletrônicos.
+Em sede de primeiro grau, o Embargante sempre esteve regularmente representado, sendo que, considerando que o art. 1.017, § 5º, do CPC dispensa expressamente as partes de juntar cópias de quaisquer peças do processo principal, o agravo de instrumento foi interposto e tramitou no E. Tribunal de Origem sem as cópias dos documentos listados no art. 1.017, I, do CPC, dentre elas as "procurações outorgadas aos advogados do agravante e do agravado", porquanto dispensadas:
+ ..
+A r. decisão embargada partiu da premissa de uma "deficiência documental", quando, na realidade, os documentos de representação sempre constaram dos autos eletrônicos principais.
+Ademais, a r. decisão embargada também padece de omissão ao concluir pela intempestividade da petição de fls. 732/736, partindo da premissa (implícita e, concessa venia, equivocada) de que o prazo para o ato seria o de 5 (cinco) dias úteis.
+Ocorre que o r. decisum omitiu-se de fundamentar a razão pela qual aplicou o prazo geral para sanar vícios recursais em detrimento do prazo específico para a exibição de procuração, qual seja, o art. 104 do CPC, verbis:
+ ..
+O dispositivo supra reproduzido, como se vê, confere ao patrono o prazo de 15 (quinze) dias úteis para exibir o mandato, sendo que o Embargante, ao ser intimado sobre - suposta, e como visto inexistente - deficiência documental, agiu exatamente sob a égide da norma em comento, juntando, novamente, cópia do instrumento de mandato que já estava nos autos eletrônicos, frise-se novamente, dentro do prazo legal de 15 (quinze) dias úteis em questão (fls. 742/743).
+Requer o conhecimento e acolhimento dos Embargos Declaratórios para que seja sanado o vício apontado.
+A parte embargada foi devidamente intimada para contra-arrazoar estes aclaratórios.
+É o relatório.
+Decido.
+Nos termos do art. 1.022 do Código de Processo Civil, os Embargos de Declaração destinam-se a esclarecer obscuridade, eliminar contradição, suprir omissão e corrigir erro material eventualmente existentes no julgado, o que não se verifica na hipótese.
+No caso, o recorrente, no momento da interposição do recurso, não procedeu à juntada da cadeia completa de procuração e/ou substabelecimento conferindo poderes aos subscritores do Agravo, Dr. RAFAEL DE MOURA RANGEL NEY e do Recurso Especial, Dra. OHANNA MAUL MARQUES.
+Mesmo diante da intimação da parte para sanear o vício, não houve a devida regularização, porquanto deixou o prazo transcorrer in albis.
+O processo deve ser uma sequência de atos ordenados, com o propósito de servir à prestação jurisdicional. Por outro lado, a prestação jurisdicional não pode durar para sempre. O processo nasce direcionado a um fim e ao seu próprio fim. Não pode ser um instrumento de perseguição infinita do direito material. Portanto, a observância dos prazos constitui direito das partes, representa a garantia de segurança jurídica, bem como garante a característica temporal do processo.
+Nesse sentido, o prazo para a parte comprovar a regularidade da representação processual era peremptório e não houve apresentação de justa causa para a sua reabertura. Assim, tendo sido encerrado o prazo sem a prática do ato, desaparece a possibilidade de praticá-lo. É o que se chama de preclusão e, no caso, temporal.
+Cumpre ainda esclarecer que, conforme estabelece o art. 104 do Código de Processo Civil de 2015, "o advogado não será admitido a postular em juízo sem procuração, salvo para evitar preclusão, decadência ou prescrição, ou para praticar ato considerado urgente". Assim, constatada eventual falha na documentação exigível, a parte recorrente deve ser intimada para sanar o vício, antes que o recurso seja inadmitido, nos termos do art. 932, parágrafo único, do Código de Processo Civil de 2015 (AgInt no RE no AgInt no AR Esp 1296603/RS, Rel. Ministra Maria Thereza de Assis Moura, Corte Especial, D Je 24.05.2019).
+Ressalta-se que, ao contrário do alegado pela parte, não é cabível a aplicação do art. 104, § 1º, do CPC, sendo que referido artigo é aplicável apenas em caso de preclusão, decadência ou prescrição do direito, ou ainda, para praticar atos considerados urgentes.
+Aqui, a hipótese deve observar, além dos termos do art. 932, parágrafo único do CPC, também a previsão do art. 76 do mesmo diploma, que estabelece que quando verificada a irregularidade na representação, o magistrado concederá prazo razoável para que a parte regularize o vício, sob pena de não conhecimento do recurso.
+Veja que esta Corte concedeu prazo de 5 dias para a regularização do óbice, nos termos dos artigos 76 e 932, ambos do CPC, conforme certidão de fl. 725 , porém, a parte deixou transcorrer in albis o prazo estabelecido, nem mesmo requereu a dilação de prazo dentro desse período de 5 (cinco) dias, ocorrendo, portanto, a preclusão temporal da prática do ato.
+Registre-se que a dispensa prevista no art. 1017, § 5º, do CPC se aplica à interposição do Agravo de Instrumento para o Tribunal a quo, ou seja, a dispensa está voltada ao primeiro e ao segundo graus de jurisdição, tendo em vista que, a princípio, compartilhariam o mesmo sistema eletrônico.
+Nesse sentido, AgInt no REsp n. 2.129.679/PE, Rel. Ministra Maria Thereza de Assis Moura, Segunda Turma, DJEN de 22.12.2025; AgInt no AREsp n. 2.783.407/SP, Rel. Ministra Nancy Andrighi, Terceira Turma, DJEN de 19.12.2025; AgInt nos EDcl no REsp n. 2.211.316/MA, Rel. Ministro João Otávio de Noronha, Quarta Turma, DJEN de 19.12.2025.
+Portanto, conclui-se que, a referida dispensa não se estende ao STJ, cabendo à parte providenciar a juntada de cópia ou novo instrumento aos autos quando da interposição de recurso a esta Corte.
+Não tem o condão de sanar tal vício a alegação da existência de procuração em autos principais, pois cabe à parte providenciar a juntada de cópia ou novo instrumento aos autos onde pretende interpor o recurso. A responsabilidade pelo traslado do instrumento é da parte.
+Nesse sentido:
+AGRAVO INTERNO NOS EMBARGOS DE DIVERGÊNCIA EM RECURSO ESPECIAL. AUSÊNCIA DE PROCURAÇÃO OU DE CADEIA COMPLETA DE SUBSTABELECIMENTO DE PODERES AO SUBSCRITOR DOS EMBARGOS DE DIVERGÊNCIA. SÚMULA N. 115 DO STJ. AGRAVO INTERNO DESPROVIDO.
+1. Na hipótese de recurso interposto por advogado sem procuração nos autos, se a parte recorrente, instada a regularizar a representação processual, não o faz no prazo assinado, não se conhece do pleito recursal, de acordo com o art. 76, § 2º, I, c/c o art. 932, parágrafo único, do CPC de 2015.
+2. "Na instância especial é inexistente recurso interposto por advogado sem procuração nos autos" (Súmula n. 115 do STJ).
+3. A apresentação de substabelecimento sem a procuração respectiva não regulariza a falha na representação processual, pois o substabelecimento não subsiste por si só.
+4. Não afasta a aplicação da Súmula n. 115 do STJ a procuração juntada aos autos de processo conexo ou incidental não apensado a recurso no STJ.
+5. Agravo interno desprovido.
+(AgInt nos EREsp n. 1.757.621/RJ, Rel. Ministro João Otávio de Noronha, Corte Especial, DJe de 14.10. 2024.)
+Ademais, registre-se que foi dada a oportunidade, nesta Corte, para a parte sanar o vício de representação e, apesar disso, não houve a regularização.
+Por fim, a pretensão de rediscutir matéria devidamente abordada e decidida no decisum embargado evidencia mera insatisfação com o resultado do julgamento, não sendo a via eleita apropriada para tanto. Nesse sentido: EDcl no AgInt nos EDcl nos EAREsp 1202915/SP, Rel. Ministro Herman Benjamin, Corte Especial, DJe de 28.8.2019.
+Assim, não há irregularidade sanável por meio dos presentes embargos, porquanto toda a matéria submetida à apreciação do STJ foi julgada, não havendo, na decisão embargada, os vícios que autorizariam a utilização do recurso - obscuridade, contradição, omissão ou erro material.
+Ante o exposto, rejeito os Embargos de Declaração e advirto a parte embargante de que a reiteração deste expediente ensejará o pagamento de multa de 2% sobre o valor atualizado da causa, porque os próximos embargos que tratem do mesmo assunto serão considerados manifestamente protelatórios (art. 1.026, § 2º, do CPC).
+Publique-se.
+Intimem-se.
+ EMENTA
