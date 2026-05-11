@@ -1,0 +1,21 @@
+DECISÃO
+Trata-se de recurso ordinário em habeas corpus, com pedido liminar, interposto por ALISSON BORGES DE ARAUJO contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAIS.
+Consta nos autos que o recorrente teve a prisão preventiva decretada pela suposta prática do crime de tráfico de drogas.
+Irresignada, a defesa impetrou habeas corpus perante o Tribunal de Justiça de origem, que denegou a ordem em acórdão às fls. 77-97.
+Neste recurso sustenta a defesa, em suma, a ausência de fundamentação concreta e idônea da decisão que decretou a prisão cautelar em desfavor do recorrente, bem como ausência dos requisitos ensejadores da prisão preventiva, ponderando suas condições pessoais favoráveis.
+Requer a revogação da prisão preventiva ou, subsidiariamente, sua substituição por medida cautelar diversa.
+Pedido de liminar indeferido às fls. 130-131.
+Informações prestadas às fls. 133-137. O Ministério Público Federal, às fls. 142-146, manifestou-se pelo "não provimento do recurso ordinário".
+É o relatório. DECIDO.
+Primeiramente, em consulta ao sítio do Tribunal de origem (www.tjmg.jus.br), verifiquei que foi proferida sentença que julgou PROCEDENTE a pretensão punitiva estatal para condenar o réu ALISSON BORGES DE ARAÚJO, como incurso nas sanções do artigo 33, caput, da Lei nº 11.343/06, c/c art. 61, inciso I, do Código Penal, à pena de 9 (nove) anos e 4 (quatro) meses de reclusão e 933 (novecentos e trinta e três) dias-multa, em regime fechado. Na oportunidade, o Juízo de origem manteve os mesmos fundamentos para a segregação cautelar do recorrente, motivo pelo qual o presente recurso não se encontra prejudicado.
+A propósito:
+" A manutenção da custódia cautelar por ocasião de sentença condenatória superveniente não possui o condão de tornar prejudicado o writ em que se busca sua revogação, quando não agregados novos e diversos fundamentos ao decreto prisional primitivo."(AgRg no HC n. 862.197/SC, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 24/6/2024, DJe de 26/6/2024.)
+In casu, verifica-se que a decisão que decretou a prisão preventiva do recorrente encontra-se devidamente fundamentada em dados concretos extraídos dos autos para a garantia da ordem pública notadamente em razão do risco de reiteração delitiva uma vez que: "já ostenta antecedentes desabonadores e condenações criminais anteriores, conforme certidão de antecedentes criminais de ID 10596575483 e ID 10596575484, inclusive, ainda estava em execução de pena (Autos SEEU nº 0232899-56.2017.8.13.0027)"- fl. 84.
+Essa Corte Superior entende que:
+"maus antecedentes, reincidência ou até mesmo outras ações penais ou inquéritos em curso justificam a imposição de segregação cautelar como forma de evitar a reiteração delitiva e, assim, garantir a ordem pública" (RHC n. 156.048/SC, Rel. Ministro ANTONIO SALDANHA PALHEIRO, Sexta Turma, julgado em 15/02/2022, DJe 18/02/2022)."(AgRg no RHC n. 196.193/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 1/7/2024, DJe de 3/7/2024.)
+Outrossim, conforme a jurisprudência desta Corte, a reincidência justifica a pri são cautelar para a garantia da ordem pública,  (AgRg no HC n. 914.154/SP, relator Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), Sexta Turma, DJe de 16/8/2024); (AgRg no AREsp n. 2.451.465/PR, Minha Relatoria, Quinta Turma, DJe de 13/8/2024); (AgRg no RHC n. 198.668/MG, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe de 3/7/2024.); (AgRg no RHC n. 192.068/MG, relator Ministro Joel Ilan Paciornik, Quinta Turma, DJe de 26/6/2024)  .
+Por fim, condições pessoais favoráveis, ocupação lícita e residência fixa, não têm o condão de garantirem ao recorrente a revogação da prisão preventiva se há nos autos elementos hábeis a recomendar a manutenção de sua custódia cautelar. Pela mesma razão, não há que se falar em possibilidade de aplicação de medidas cautelares diversas da prisão, o que ocorre na hipótese.
+Diante de tais considerações, portanto, não se vislumbra a existência de qualquer flagrante ilegalidade passível de ser sanada pelo provimento do presente recurso.
+Ante o exposto, com fulcro no art. 34, inciso XVIII, alínea b do RISTJ, nego provimento ao recurso ordinário em habeas corpus.
+Publique-se. Intimem -se.
+EMENTA
