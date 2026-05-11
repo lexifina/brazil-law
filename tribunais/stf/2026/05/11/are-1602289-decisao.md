@@ -1,0 +1,34 @@
+DECISÃO:
+Trata-se de recurso extraordinário com agravo contra decisão de inadmissão do recurso extraordinário.
+O recurso foi interposto com fundamento na alínea "a" do permissivo constitucional.
+O acórdão recorrido  ficou assim ementado:
+
+APELAÇÃO. AÇÃO DE REINTEGRAÇÃO DE POSSE. CONCESSIONÁRIA QUE OBJETIVA A DESOCUPAÇÃO DA BARRACA SITUADA NO KM 220+200M- PISTA SUL DA RODOVIA BR-116 (PRESIDENTE DUTRA), COM CONSEQUENTE DEMOLIÇÃO DAS CONSTRUÇÕES. ALEGA QUE O COMÉRCIO ESTÁ LOCALIZADO NA FAIXA DE DOMÍNIO DA MALHA VIÁRIA ADMINISTRADA. SENTENÇA JULGANDO IMPROCEDENTES OS PEDIDOS. APELO DO AUTOR QUE MERECE ACOLHIMENTO. PARTE AUTORA QUE É RESPONSÁVEL POR ADOTAR AS PROVIDÊNCIAS NECESSÁRIAS AO RESGUARDO DOS BENS PÚBLICOS INTEGRANTES DA RODOVIA QUE ADMINISTRA EM REGIME DE CONCESSÃO. RESTOU DEMONSTRADO QUE AS EDIFICAÇÕES PROMOVIDAS PELO RÉU SE ENCONTRAM DENTRO DA FAIXA DE DOMÍNIO QUE ESTÃO SOB CONCESSÃO E ADMINISTRAÇÃO DA RECORRENTE. ÁREA OBJETO DA DISCUSSÃO QUE SE TRATA DE BEM PÚBLICO DE USO COMUM DO POVO. BENS PÚBLICOS QUE SÃO, EM REGRA, INALIENÁVEIS E IMPRESCRITÍVEIS, SENDO, PORTANTO, INSUSCETÍVEIS DE SEREM OBJETO DE POSSE POR PARTICULAR. OCUPAÇÃO DE BEM PÚBLICO POR PARTICULAR QUE CONFIGURA MERA DETENÇÃO DE NATUREZA PRECÁRIA. SÚMULA 619 DO STJ. PRECEDENTES. EVENTUAL INÉRCIA OU TOLERÂNCIA DA ADMINISTRAÇÃO QUE NÃO TEM EFEITO DE AFASTAR OU DISTORCER A APLICAÇÃO DA LEI. INTERESSE PÚBLICO QUE É DOTADO DE SUPREMACIA SOBRE O PARTICULAR. EM QUE PESE O REQUERIDO TER OCUPADO O LOCAL POR LONGOS ANOS, SEM A OPOSIÇÃO DIRETA POR PARTE DO RECORRENTE, E DE LÁ RETIRAR SEU SUSTENTO, FATO É QUE A OCUPAÇÃO SEMPRE FORA A TÍTULO PRECÁRIO. ESBULHO DE BEM DE USO COMUM DO POVO CONFIGURADO. NO QUE TANGE ÀS BENFEITORIAS REALIZADAS, É CERTO QUE A SITUAÇÃO DESCRITA NOS AUTOS NÃO É DESEJÁVEL. TODAVIA, A JURISPRUDÊNCIA DO STJ É FIRME NO SENTIDO DE QUE NÃO É CABÍVEL O PAGAMENTO DE INDENIZAÇÃO POR ACESSÕES OU BENFEITORIAS, NEM O RECONHECIMENTO DO DIREITO DE RETENÇÃO, NA HIPÓTESE EM QUE O PARTICULAR OCUPA IRREGULARMENTE ÁREA PÚBLICA. REINTEGRAÇÃO DE POSSE QUE SE IMPÕE. CONTUDO DIANTE DA IRREVERSSIBILIDADE DA MEDIDA DEMOLITÓRIA, CONDICIONA-SE AO TRÂNSITO EM JULGADO DA DECISÃO. INVERSÃO DOS ÔNUS DA SUCUMBÊNCIA. RECURSO PROVIDO.
+
+No recurso extraordinário sustenta-se violação do(s) art.(s)  3º, inciso III; 5º, incisos XXIII e LV, e 97 da Constituição Federal.
+Decido.
+Analisados os autos, não há que se falar em inobservância da cláusula de reserva de plenário, pois o Tribunal de origem não declarou a inconstitucionalidade de norma legal ou afastou sua aplicação sem observância do art. 97 da Constituição Federal, mas apenas interpretou norma infraconstitucional que disciplina a matéria. Nesse sentido, menciono os seguintes precedentes:
+
+“AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. ADMINISTRATIVO. GRATIFICAÇÃO DE RISCO DE POLICIAMENTO OSTENSIVO. LEI COMPLEMENTAR ESTADUAL 59/2004. EXTENSÃO AOS INATIVOS E PENSIONISTAS. REEXAME DE INTERPRETAÇÃO DE NORMAS INFRACONSTITUCIONAIS LOCAIS. OFENSA REFLEXA. SÚMULA 280 DO STF. RESERVA DE PLENÁRIO. VIOLAÇÃO AO ART. 97 DA CONSTITUIÇÃO FEDERAL. INEXISTÊNCIA. AGRAVO A QUE SE NEGA PROVIMENTO.
+I - A verificação da alegada ofensa ao texto constitucional envolve o reexame da interpretação dada pelo juízo a quo à legislação infraconstitucional local aplicável ao caso (Lei Complementar estadual 59/2004). A afronta à Constituição, se ocorrente, seria indireta. Incidência da Súmula 280 do STF. Precedentes.
+II - Não há violação ao princípio da reserva de plenário quando o acórdão recorrido apenas interpreta norma infraconstitucional, sem declará-la inconstitucional ou afastar sua aplicação com apoio em fundamentos extraídos da Lei Maior.
+III - Agravo regimental a que se nega provimento.”(ARE 784.179-AgR, Segunda Turma, Rel. Min. Ricardo Lewandowski, DJe de 17/02/2014)
+
+“AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO COM AGRAVO. CARTEIRA NACIONAL DE HABILITAÇÃO. INFRAÇÃO ADMINISTRATIVA. EXPEDIÇÃO DA CNH. INTERPRETAÇÃO DO CÓDIGO DE TRÂNSITO BRASILEIRO. ART. 97 DA CF/88 E SÚMULA VINCULANTE Nº 10. AUSÊNCIA DE VIOLAÇÃO. PRECEDENTES.
+A jurisprudência do Supremo Tribunal Federal é firme no sentido de que não há violação ao princípio da reserva de plenário quando o acórdão recorrido apenas interpreta norma infraconstitucional, sem declará-la inconstitucional, ou afasta sua aplicação com apoio em fundamentos extraídos da Constituição Federal. Precedentes.
+Ausência de argumentos capazes de infirmar a decisão agravada.
+Agravo regimental a que se nega provimento.”(ARE 767.313-AgR, Primeira Turma, Rel. Min. Luís Roberto Barroso, DJe de 26/03/2015)
+
+Ademais, verifica-se que, para ultrapassar o entendimento do Tribunal de origem, seria necessário analisar a causa à luz da interpretação dada à legislação infraconstitucional pertinente e reexaminar os fatos e as provas dos autos, o que não é cabível em sede de recurso extraordinário, nos termos da Súmula 279/STF. Sobre o tema:
+
+“Agravo regimental no recurso extraordinário com agravo. Direito Civil e Constitucional. Prequestionamento. Ausência. Bem público. Ocupação irregular. Fatos e provas. Reexame. Impossibilidade. Legislação infraconstitucional. Ofensa reflexa. Precedentes. 1. É inadmissível o recurso extraordinário se a matéria constitucional que nele se alega violada não está devidamente prequestionada. Incidência das Súmulas nºs 282 e 356/STF. 2. Não se presta o recurso extraordinário para o reexame dos fatos e das provas constantes dos autos (Súmula nº 279/STF), nem da legislação infraconstitucional pertinente. 3. Agravo regimental não provido, com imposição de multa de 1% (um por cento) do valor atualizado da causa (art. 1.021, § 4º, do CPC). 4. Havendo prévia fixação de honorários advocatícios pelas instâncias de origem, seu valor monetário será majorado em 10% (dez por cento) em desfavor da parte recorrente, nos termos do art. 85, § 11, do Código de Processo Civil, observados os limites dos §§ 2º e 3º do referido artigo e a eventual concessão de justiça gratuita” (ARE nº 1.186.857/RJ - AgR, Tribunal Pleno, Rel. Min. Dias Toffoli, DJe de 17/6/2019).
+
+No mesmo sentido: RE nº 1.105.323/DF-AgR, Segunda Turma, Rel. Min. Gilmar Mendes, DJe de 30/11/2018 e ARE nº 1.134.918/RN-ED-AgR, Primeira Turma, Rel. Min. Luiz Fux, DJe de 26/9/2018.
+Ante o exposto, nego seguimento ao recurso (alínea c do inciso V do art. 13 do Regimento Interno do Supremo Tribunal Federal).
+Havendo prévia fixação de honorários advocatícios pelas instâncias de origem, seu valor monetário será majorado em 10% (dez por cento) em desfavor da parte recorrente, nos termos do art. 85, § 11, do Código de Processo Civil, observado os limites dos §§ 2º e 3º do referido artigo e a eventual concessão de justiça gratuita.
+Publique-se.
+Brasília, 11 de maio de 2026.
+
+Ministro EDSON FACHIN
+Presidente
+Documento assinado digitalmente
