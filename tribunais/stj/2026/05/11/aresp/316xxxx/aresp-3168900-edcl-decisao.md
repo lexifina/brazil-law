@@ -1,0 +1,36 @@
+DECISÃO
+Cuida-se de Embargos de Declaração opostos por RIZONETE DOS SANTOS SILVA, SIDNEI CARDOZO SALLES à decisão de fls. 450/451, que não conheceu do recurso.
+Sustenta a parte embargante:
+Ocorre que tal afirmação não corresponde à realidade dos autos. O pa- trono signatário, por meio de petição específica protocolada em 27/02/2026 (e-STJ Fls. 425/426), requereu expressamente a concessão da justiça gratuita para si pró- prio, na qualidade de advogado, nos termos do art. 99, §5º, do CPC, tendo inclusi- ve fundamentado o pedido na jurisprudência da Corte Especial desse E. STJ acerca do deferimento tácito (EAR Esp 2506419/SP).
+Ademais, referido pedido foi devidamente instruído com documentos comprobatórios da hipossuficiência do patrono, constantes dos índices 53 a 65 dos autos E-STJ, os quais em nenhum momento foram analisados ou sequer men- cionados na decisão ora embargada.
+Há, portanto, omissão manifesta na r. decisão, que deixou de se pro- nunciar sobre: (i) o pedido expresso de justiça gratuita formulado pelo advogado; e (ii) os documentos comprobatórios de hipossuficiência que instruíram o referido pedido (fl. 455).
+Requer o conhecimento e acolhimento dos Embargos Declaratórios para que seja sanado o vício apontado.
+A parte embargada foi devidamente intimada para contra-arrazoar estes aclaratórios.
+É o relatório.
+De cido.
+Nos termos do art. 1.022 do Código de Processo Civil, os Embargos de Declaração destinam-se a esclarecer obscuridade, eliminar contradição, suprir omissão e corrigir erro material eventualmente existentes no julgado, o que não se verifica na hipótese.
+Consta da decisão embargada que a petição de Recurso Especial foi protocolada, na origem, sem a comprovação do recolhimento das custas.
+Conforme previsão do §5º do do Código de Processo Civil, o recurso art. 99 que verse exclusivamente sobre valor de honorários de sucumbência fixados em favor do advogado de beneficiário de gratuidade de justiça estará sujeito a preparo, salvo se o próprio advogado demonstrar que tem direito ao benefício.
+Esse é o entendimento jurisprudencial:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ADMISSIBILIDADE. RECONSIDERAÇÃO. RECURSO QUE VERSA EXCLUSIVAMENTE SOBRE A MAJORAÇÃO DE HONORÁRIOS ADVOCATÍCIOS. GRATUIDADE DA JUSTIÇA QUE NÃO SE ESTENDE AO ADVOGADO DA PARTE. DIREITO PESSOAL. NECESSIDADE DE RECOLHIMENTO DO PREPARO. INTIMAÇÃO PARA REGULARIZAÇÃO. ATENDIMENTO. SÚMULA N. 83 DO STJ. DISSÍDIO JURISPRUDENCIAL NÃO CONHECIDO. DECISÃO MANTIDA. AGRAVO INTERNO DESPROVIDO.
+1. No ato de interposição do recurso, o recorrente comprovará, quando exigido pela legislação pertinente, o respectivo preparo, inclusive o porte de remessa e de retorno, sob pena de deserção (art. 1.007, caput, do CPC.
+2. Na hipótese de não comprovação do recolhimento do preparo no ato de interposição do recurso, o recorrente será intimado para efetuá-lo em dobro, sob pena de consolidação da deserção do pleito recursal, conforme estabelece o § 4º, do CPC. art. 1.007, 2. O direito à gratuidade da justiça é pessoal e o recurso que versa exclusivamente sobre valor de honorários de sucumbência fixados em favor do advogado estará sujeito a preparo, salvo se o próprio advogado demonstrar que tem direito à gratuidade (art. 99, §§ 5º e 6º, do CPC).
+3.  .. . 4.  .. .
+5. Agravo interno desprovido.
+(AgInt no AREsp n. 2.362.957/SP, Rel. Ministro João Otávio Noronha, Quarta Turma, DJEN de 12.12.2024.)
+AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO DE COBRANÇA DE COTAS CONDOMINIAIS. APELO NOBRE QUE VERSA ESCLUSIVAMENTE SOBRE HONORÁRIOS ADVOCATÍCIOS SUCUMBENCIAIS. VERBA AUTÔNOMA DO ADVOGADO. GRATUIDADE DA JUSTIÇA EVENTUALMENTE DEFERIDA À PARTE QUE NÃO DISPENSA O RECOLHIMENTO DO PREPARO RECURSAL. NECESSIDADE DE COMPROVAR A HIPOSSUFICIÊNCIA DO PRÓPRIO ADVOGADO.
+1. Nos termos do § 5º, do CPC, o recurso que versa art. 99, exclusivamente sobre honorários advocatícios sucumbenciais não fica dispensado de preparo mesmo que a parte seja beneficiária da justiça gratuita. Para tanto, é necessário que o próprio advogado do recorrente faça jus ao benefício.
+2. No caso, a petição de recurso especial apresentou pedido incidental de justiça gratuita, afirmando que o recorrente não poderia recolher o preparo recursal sem prejuízo à economia de sua própria subsistência, mas não trouxe nenhuma prova nesse sentido. Apesar disso o recorrente nada alegou ou provou a respeito da hipossuficiência de seus procuradores.
+3. Agravo interno não provido.
+(AgInt no REsp n. 1.880.482/DF, Rel. Ministro Moura Ribeiro, Terceira Turma, D Je de 22.8.2024.)
+Outrossim, o § 3º do CPC prevê que: art. 82,
+"Nas ações de cobrança por qualquer procedimento, comum ou especial, bem como nas execuções ou cumprimentos de sentença de honorários advocatícios, o advogado ficará dispensado de adiantar o pagamento de custas processuais, e caberá ao réu ou executado suprir, ao final do processo, o seu pagamento, se tiver dado causa ao processo".
+Assim, conforme o próprio dispositivo estabelece, a dispensa do recolhimento das custas para o causídico só será aplicada na hipótese em que os honorários advocatícios forem objeto da ação originária ou de execução, ou seja, quando o Recurso Especial que estiver sendo discutido aqui no STJ for oriundo dessa ação originária, que foi proposta na origem com o fim exclusivo de discutir ou executar os honorários.
+No caso, o benefício não se estenderá quando a discussão dos honorários surgir exclusivamente em sede recursal, em que o processo na origem é diverso da discussão de honorários, como na hipótese.
+Impende ressaltar que é despiciendo eventual deferimento do benefício da gratuidade de justiça nesse momento processual pois a suposta benesse somente teria efeitos futuros, não sendo capaz de isentar a parte embargante das custas processuais referentes aos atos anteriores, porquanto, apesar de o pedido de justiça gratuita poder ser formulado a qualquer tempo e instância, ele não retroage para alcançar encargos processuais anteriores. Nesse sentido: AgInt no AREsp 1619350/PR, Rel. Ministro Marco Buzzi, Quarta Turma, DJe de 23.6.2020; AgInt no REsp 1820544/SP, Rel. Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 20.3.2020; e AgInt no AREsp 1215154/RJ, Rel. Ministro Gurgel De Faria, Primeira Turma, DJe de 24.10.2019).
+Por fim, a pretensão de rediscutir matéria devidamente abordada e decidida no decisum embargado evidencia mera insatisfação com o resultado do julgamento, não sendo a via eleita apropriada para tanto. Nesse sentido: EDcl no AgInt nos EDcl nos EAREsp 1202915/SP, Rel. Ministro Herman Benjamin, Corte Especial, DJe de 28.8.2019.
+Assim, não há irregularidade sanável por meio dos presentes embargos, porquanto toda a matéria submetida à apreciação do STJ foi julgada, não havendo, na decisão embargada, os vícios que autorizariam a utilização do recurso - obscuridade, contradição, omissão ou erro material.
+Ante o exposto, rejeito os Embargos de Declaração e advirto a parte embargante de que a reiteração deste expediente ensejará o pagamento de multa de 2% sobre o valor atualizado da causa, porque os próximos embargos que tratem do mesmo assunto serão considerados manifestamente protelatórios (art. 1.026, § 2º, do CPC).
+Publique-se.
+Intimem-se.
+ EMENTA
