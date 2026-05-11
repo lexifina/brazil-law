@@ -1,0 +1,18 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em nome de UILIAM GONCALVES MONTEIRO, preso preventivamente e acusado pela prática, em tese, de tráfico de drogas e associação para o tráfico, em que se aponta como autoridade coatora o Tribunal de Justiça do Estado do Rio Grande do Sul (Habeas Corpus n. 5070195-07.2026.8.21.7000/RS).
+Consta dos autos que foram apreendidos 6 celulares, 19 g de maconha, 42 munições calibre .380, 9 simulacros de armas, cerca de R$ 280,00 e 1 notebook, além de uma pistola calibre .380 com numeração raspada e dois carregadores (fl. 61).
+O impetrante alega, em síntese, ausência de fundamentação concreta da prisão preventiva, afirma serem suficientes medidas cautelares diversas e ressalta condições pessoais favoráveis do paciente.
+Sustenta excesso de prazo na formação da culpa, audiência designada apenas para 15/9/2026 e ausência de contemporaneidade dos fundamentos cautelares.
+Requer, inclusive liminarmente, a revogação da prisão preventiva, com expedição de alvará de soltura; subsidiariamente, a substituição por medidas cautelares diversas (fl. 15).
+É o relatório.
+Do atento exame dos autos, observo que a segregação cautelar foi mantida com fundamento na gravidade concreta e na atuação, em tese, vinculada a facções criminosas no litoral norte, com divisão de tarefas e risco de reiteração delitiva, além de apreensões realizadas na residência do paciente (fls. 61/62).
+A decisão colegiada destacou a existência de elementos do fumus commissi delicti - investigação e denúncia que apontam o paciente como gerente responsável por receber valores da venda de entorpecentes - e o periculum libertatis, em razão de participação em consórcio criminoso voltado à narcotraficância (fl. 57). No ponto, o acórdão registrou a existência de outra ação penal em curso contra o paciente (n. 5002525-96.2025.8.21.0141), reforçando o risco de reiteração (fl. 58). Portanto, ausente constrangimento ilegal.
+Nesse sentido: HC n. 974.892/SP, de minha relatoria, Sexta Turma, DJEN de 27/3/2025; AgRg no HC n. 947.800/SC, Ministro Antonio Saldanha Palheiro, Sexta Turma, DJEN de 11/3/2025; e AgRg no RHC n. 207.913/CE, Ministro Og Fernandes, Sexta Turma, DJEN de 12/3/2025.
+Considerada a gravidade dos fatos, os indícios colhidos e o risco concreto de reiteração delitiva, não se mostra suficiente, no caso, a aplicação de medidas cautelares diversas, nos termos do art. 282 do Código de Processo Penal (fls. 50 e 60).
+Quanto ao alegado excesso de prazo, a decisão colegiada assentou a regularidade do trâmite, a complexidade da causa - 10 denunciados - e a suspensão para assegurar o amplo acesso à prova digital, com retomada do curso processual após a diligência (fls. 59/60).
+Assim, embora o paciente esteja segregado desde 27/1/2025 (fl. 53), não se identifica, até o momento, situação incompatível com o princípio da razoável duração do processo, diante do trâmite regular em feito complexo, com pluralidade de réus e suspensão para disponibilização de prova digital; não há notícia de atos procrastinatórios por parte das autoridades públicas, tampouco desídia estatal. Ademais, audiência de instrução e julgamento designada para o dia 15/9/2026 aponta para o encerramento da instrução criminal.
+Ante o exposto, indefiro liminarmente a petição inicial.
+Publique-se.
+EMENTA
+HABEAS CORPUS. DIREITO PROCESSUAL PENAL. TRÁFICO DE DROGAS E ASSOCIAÇÃO PARA O MESMO FIM. PRISÃO PREVENTIVA. GRAVIDADE CONCRETA DOS FATOS. NECESSIDADE DE RESGUARDAR A ORDEM PÚBLICA. MEDIDAS CAUTELARES ALTERNATIVAS INSUFICIENTES NA ESPÉCIE. EXCESSO DE PRAZO NA FORMAÇÃO DA CULPA. DESÍDIA ESTATAL NÃO DEMONSTRADA. FEITO COMPLEXO. CONSTRANGIMENTO ILEGAL INEXISTENTE.
+Petição inicial liminarmente indeferida.
