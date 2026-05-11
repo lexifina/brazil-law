@@ -1,0 +1,100 @@
+DECISÃO
+Trata-se de agravo interposto contra decisão que inadmitiu o recurso especial na origem com fundamento no(s) óbice(s) da ausência de violação dos arts. 489 e 1.022 do CPC, Súmula n. 7 do STJ e falta de cotejo analítico.
+Segundo a parte agravante, o recurso preenche os requisitos necessários ao conhecimento e provimento.
+Intimada nos termos do art. 1.042, § 3º, do Código de Processo Civil (CPC), a parte agravada afirmou a inexistência de requisitos ou elementos aptos a promover a alteração do julgado impugnado.
+É o relatório.
+DECIDO.
+O agravo é tempestivo, nos termos do art. 1.003, § 5º, do Código de Processo Civil, encontra-se formalmente em ordem e impugnou específica e suficientemente os óbices invocados pela decisão de inadmissibilidade na origem, razão pela qual passo ao exame do recurso especial, que foi interposto com fundamento no art. 105, inciso III, alíneas "a" e "c", da Constituição Federal, contra acórdão assim ementado (fls.978):
+Alienação fiduciária. Imóvel. Ação declaratória de nulidade de leilões. Sentença de improcedência. Apelo do autor. Notificação acerca dos leilões enviadas ao garantidor em diferentes endereços, por meio de carta com aviso de recebimento, e-mail e até edital. Inadimplência incontroversa. Inexistência de elementos sugestivos de que o devedor tinha interesse em purgar a mora. Leilão de abril de 2024 que ocorreu após a realização dos leilões públicos, isto é, depois de consolidada a propriedade em mãos do credor fiduciário. Desnecessidade de notificação do devedor quando o credor já estava "investido da livre disponibilidade" (art. 26-A, § 4º, da Lei nº 9.514/97). Sentença mantida. Verba honorária aumentada. Apelo desprovido.
+A parte recorrente alega violação ao(s) seguinte(s) dispositivo(s) legai(s): 489, § 1º, inciso IV, e 1.022, inciso II do CPC, 27, § 2º-A da Lei nº 9.514/1997.
+A controvérsia cinge-se à alegada nulidade dos leilões realizados em 14/08/2023, 16/08/2023 e 10/04/2024, sob o argumento de ausência de regular intimação do terceiro fiduciante/garantidor no endereço constante do contrato.
+Pois bem. No que tange a alegação de afronta aos artigos 1.022 do Código de Processo Civil, a ofensa ao art. 1.022, II, do Código de Processo Civil se caracteriza quando o órgão julgador, provocado por meio de embargos de declaração, deixa de suprir omissão sobre ponto relevante da controvérsia, cuja análise é indispensável à adequada prestação jurisdicional.
+De igual modo, o art. 489, §1º, IV, do CPC impõe um dever de fundamentação qualificada, estabelecendo que não se considera fundamentada a decisão judicial que não enfrenta todos os argumentos deduzidos pelas partes capazes, em tese, de infirmar a conclusão adotada.
+Esses dispositivos visam assegurar que o pronunciamento judicial seja efetivamente resolutivo, transparente e coerente, permitindo o controle pelas instâncias superiores e garantindo a observância ao devido processo legal substancial.
+Certo é que "Afasta-se a ofensa aos arts. 489 e 1.022 do CPC/2015, pois não se constatam omissão, obscuridade ou contradição nos acórdãos recorridos capazes de torná-los nulos. O colegiado originário apreciou a demanda de forma clara e precisa, deixando bem delineados os fundamentos dos julgados. " (AgInt no AREsp n. 2.441.987/DF, relator Ministro Humberto Martins, Terceira Turma, julgado em 17/2/2025, DJEN de 20/2/2025.)
+Efetivamente, compulsados os autos, colhe-se que a Corte de origem analisou e rebateu, um a um, os argumentos levantados, inclusive quanto à notificação do garantidor, sendo certo que a ausência de menção a um outro argumento invocado pela defesa não macula o comando decisório se, bem fundamentado, apresenta razões capazes de se sustentar por si.
+Assim, "Não procede a arguição de ofensa ao 1.022 do CPC, quando o Tribunal Estadual se pronuncia, de forma motivada e suficiente, sobre os pontos relevantes e necessários ao deslinde da controvérsia." (AgInt no REsp n. 1.899.000/SP, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 21/8/2023, DJe de 23/8/2023.)
+Ressalte-se que não se pode confundir decisão desfavorável aos interesses da parte com negativa de prestação jurisdicional, tampouco fundamentação concisa com ausência de fundamentação.
+Nesse sentido, destaca-se o seguinte precedente:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSO CIVIL. CUMPRIMENTO DE SENTENÇA. VIOLAÇÃO DO ART. 1.022 DO CPC. INEXISTÊNCIA. MULTA DIÁRIA. REVISÃO DA NECESSIDADE E DO VALOR FIXADO DEMANDA O REVOLVIMENTO DO ACERVO FÁTICO-PROBATÓRIO DOS AUTOS. SÚMULA N. 7/STJ.
+1. "Não se pode confundir decisão contrária ao interesse da parte com ausência de fundamentação ou negativa de prestação jurisdicional" (AgInt no AREsp n. 1.907.401/SP, relatora Ministra Assusete Magalhães, Segunda Turma, julgado em 22/8/2022, DJe de 29/8/2022).
+(AgInt no AREsp n. 2.746.371/PE, relator Ministro Humberto Martins, Terceira Turma, julgado em 17/3/2025, DJEN de 20/3/2025.)
+Portanto, constatada a pronúncia expressa e suficiente acerca dos temas indicados como omissos, a questão do direito aplicado é matéria relativa ao mérito recursal, não se podendo cogitar, no presente feito, em prestação jurisdicional defeituosa.
+Ultrapassada a questão, em relação à alegada violação ao(s) art(s). 27, §2º-A, da Lei 9.514/1997, para conhecer da controvérsia apresentada neste recurso, mostra-se necessário o revolvimento do acervo fático-probatório dos autos, procedimento incompatível com o entendimento firmado pela Súmula n. 7/STJ, que estabelece que a pretensão de simples reexame de prova não enseja recurso especial.
+É que, a alteração das conclusões do Tribunal de origem, no sentido de reconhecer eventual ausência de notificação válida, exigiria incursão no acervo probatório, o que é inadmissível na via eleita.
+De fato, presente a função uniformizadora do recurso especial, não se pode cogitar de seu emprego para a realização de rejulgamento do contexto fático-probatório, em atitude típica de revisão promovida por nova instância. Diante disso, é reiterada a jurisprudência no sentido de que o reexame de fatos e provas é vedado em recurso especial pela Súmula n. 7/STJ.
+No presente caso, o Tribunal de origem estabeleceu a seguinte premissa fática (fls. 979):
+Não lhe socorre o argumento de que o garantidor não foi notificado em endereço específico, pois trata-se da mesma pessoa (Pedro) que foi notificada de diversas outras formas. Assim, em atendimento ao que dispõe o art. 27, § 2º-A, da Lei nº 9.514/97, o credor comunicou a ocorrência dos leilões aos interessados por diversos meios, incluindo carta com aviso de recebimento, envio de e-mail e até publicação de edital (fls. 723/726, 735 e 736/738).
+No mais, sendo incontroversa a inadimplência, não se juntou aos autos qualquer elemento sugestivo de que o autor tinha interesse em purgar a mora.
+Assim, o acolhimento da tese recursal demandaria inevitável revisão do quadro fático-probatório estabelecido na instância de origem, providência que, como visto, é inviável nesta sede.
+Nesse sentido:
+DIREITO CIVIL E PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. IMISSÃO NA POSSE E RECONVENÇÃO EM ALIENAÇÃO FIDUCIÁRIA IMOBILIÁRIA. DESNECESSIDADE DE CITAÇÃO DE TERCEIRO NA RECONVENÇÃO, REGULARIDADE DA CONSOLIDAÇÃO E VENDA, ÓBICE DA SÚMULA N. 7 DO STJ E DISSÍDIO NÃO COMPROVADO. AGRAVO EM RECURSO ESPECIAL CONHECIDO PARA CONHECER EM PARTE DO ESPECIAL E NEGAR-LHE PROVIMENTO.
+I. CASO EM EXAME
+1. Agravo em recurso especial interposto contra decisão do Tribunal de origem que inadmitiu o recurso especial por ausência de violação ao art. 489 do CPC, não demonstrada vulneração aos arts. 2, 3, 6 e 8 do CPC, incidência da Súmula n. 7 do STJ e não comprovação do dissídio nos termos do art. 1.029, § 1º, do CPC.
+2. A controvérsia envolve ação de imissão na posse e reconvenção em contexto de alienação fiduciária e venda extrajudicial do imóvel, com alegações de nulidade dos atos de leilão, venda e registro e pedidos correlatos.
+3. Na sentença, o Juízo de primeiro grau tornou definitiva a liminar de desocupação, julgou improcedente a reconvenção e condenou os réus/reconvintes em custas e honorários.
+4. A Corte de origem manteve integralmente a sentença, negou provimento à apelação e majorou honorários; em embargos posteriores, acolheu parcialmente sem efeitos modificativos para afirmar a constitucionalidade da Lei n. 9.514/1997.
+II. QUESTÃO EM DISCUSSÃO
+5. Há nove questões em discussão: (i) saber se a reconvenção admite ampliação subjetiva com inclusão e citação do banco à luz do art. 343 do CPC; (ii) saber se houve negativa de prestação jurisdicional e vício de fundamentação nos termos dos arts. 1.022 e 489 do CPC;
+(iii) saber se foram desrespeitados os deveres de cooperação, proporcionalidade, razoabilidade e fundamentação previstos nos arts. 2, 3, 6, 8 e 11 do CPC; (iv) saber se a validade do processo exige citação de terceiro na reconvenção conforme arts. 238 e 239 do CPC;
+(v) saber se o procedimento de consolidação e venda observou os arts. 27 da Lei n. 9.514/1997; (vi) saber se incide o art. 53 do CDC para vedar preço vil e enriquecimento sem causa; (vii) saber se houve indevida presunção de solidariedade à luz do art. 265 do CC;
+(viii) saber se houve afronta aos arts. 5 e 93 da Constituição Federal; e (ix) saber se há dissídio jurisprudencial comprovado, especialmente em face do REsp n. 2.046.666/SP, nos termos do art. 1.029, § 1º, do CPC e do art. 255, § 1º, do RISTJ.
+III. RAZÕES DE DECIDIR
+6. Não há violação aos arts. 1.022 e 489 do CPC, pois o acórdão estadual enfrentou as teses essenciais: desnecessidade de citação do banco (art. 343, § 3º, do CPC), regularidade da consolidação e venda e irrelevância da aplicação do CDC para alterar o resultado.
+7. Incide a Súmula n. 7 do STJ para obstar o reexame do conjunto fático-probatório quanto às alegadas irregularidades dos leilões, preço vil e vícios na matrícula e escritura, assim como quanto aos deveres de cooperação, proporcionalidade e razoabilidade.
+8. É desnecessária a citação do terceiro na reconvenção, à luz do art. 343, § 3º, do CPC, diante das premissas fático-processuais fixadas pelo Tribunal de origem.
+9. O dissídio jurisprudencial não foi comprovado por ausência de cotejo analítico e do inteiro teor dos paradigmas, nos termos do art. 1.029, § 1º, do CPC e do art. 255, § 1º, do RISTJ, ficando prejudicada a apreciação pela alínea c ante o óbice da Súmula n. 7 do STJ.
+10. A alegação relativa ao art. 265 do CC é deficiente e atrai a Súmula n. 284 do STF. Ofensa direta à Constituição Federal não é apreciável em recurso especial.
+IV. DISPOSITIVO E TESE
+11. Agravo em recurso especial conhecido para se conhecer do especial e negar-lhe provimento.
+Tese de julgamento: Incide a Súmula n. 7 do STJ para afastar o reexame de matéria fática quanto à regularidade da consolidação, venda e supostos vícios de leilão, preço vil e aplicação do CDC. Não há negativa de prestação jurisdicional nem vício de fundamentação, pois as teses foram enfrentadas à luz dos arts. 1.022 e 489 do CPC.
+A reconvenção não exigia citação do banco, conforme art. 343, § 3º, do CPC e premissas fixadas pelo Tribunal de origem. O dissídio jurisprudencial não foi comprovado nos termos do art. 1.029, § 1º, do CPC e do art. 255, § 1º, do RISTJ. Aplica-se a Súmula n. 284 do STF para a alegação deficiente quanto ao art. 265 do CC. Ofensa direta à Constituição Federal não é cognoscível pelo STJ.
+Dispositivos relevantes citados: CPC, arts. 1.022, 489, 2, 3, 6, 8, 11, 238, 239, 343, 1.029; Lei n. 9.514/1997, art. 27; CDC, art. 53;
+CC, art. 265; CF, arts. 5, 93, 105; RISTJ, art. 255.
+Jurisprudência relevante citada: STJ, Súmula n. 7; STJ, Súmula n. 297; STF, Súmula n. 284.
+(AREsp n. 2.957.281/SP, relator Ministro João Otávio de Noronha, Quarta Turma, julgado em 9/3/2026, DJEN de 12/3/2026.)
+DIREITO CIVIL E PROCESSUAL CIVIL. RECURSO ESPECIAL. EXECUÇÃO EXTRAJUDICIAL DE CONTRATO DE ALIENAÇÃO FIDUCIÁRIA DE IMÓVEL. NULIDADE POR AUSÊNCIA DE NOTIFICAÇÃO PESSOAL. RECURSO ESPECIAL DESPROVIDO.
+I. CASO EM EXAME
+1. Recurso especial interposto contra acórdão do TRF3 em agravo legal na apelação cível, que negou provimento e manteve a decisão monocrática de negativa de seguimento com base no art. 557 do CPC.
+2. A controvérsia versa sobre ação anulatória cumulada com ação ordinária, com pedido de revisão de mútuo habitacional e de nulidade da execução extrajudicial e seus efeitos, inclusive a adjudicação do imóvel pela Caixa Econômica Federal, por alegada ausência de notificação pessoal prevista no Decreto-Lei n. 70/1966.
+3. Na sentença, o Juízo de primeiro grau extinguiu o processo sem resolução de mérito por carência da ação, considerando já realizada a execução extrajudicial do imóvel.
+4. A Corte de origem confirmou integralmente a negativa de seguimento, reputando inexistente vício no procedimento e ausente intenção concreta de purgação da mora pelo devedor.
+II. QUESTÃO EM DISCUSSÃO
+5. A questão em discussão consiste em saber se a ausência de notificação pessoal do mutuário para purgação da mora antes das datas de leilão, em execução extrajudicial regida pelo Decreto-Lei n. 70/1966, configura nulidade do procedimento.
+III. RAZÕES DE DECIDIR
+6. A ausência de notificação pessoal não gera nulidade sem demonstração de prejuízo concreto, aplicando-se o princípio pas de nullité sans grief. Incidência da Súmula n. 83 do STJ.
+7. A intimação do devedor sobre a data do leilão tornou-se obrigatória apenas após a Lei n. 13.465/2017.
+8. O reexame do conjunto fático-probatório e a nova valoração documental são vedados pelas Súmulas n. 5 e 7 do STJ.
+9. A decisão que alinha-se à jurisprudência desta Corte atrai a incidência da Súmula n. 83 do STJ.
+IV. DISPOSITIVO E TESE
+7. Recurso especial desprovido.
+Tese de julgamento: "1. Aplica-se a Súmula n. 83 do STJ quando o acórdão recorrido está em conformidade com a jurisprudência desta Corte acerca da necessidade de demonstração de prejuízo para nulidade em execução extrajudicial. 2. Incidem as Súmulas n. 5 e 7 do STJ para obstar o reexame de fatos e a valoração do acervo documental na via especial."
+Dispositivos relevantes citados: Decreto-Lei n. 70/1966, art. 31, IV, § 1º; CPC/2015, arts. 370, 489 e 1.022.
+Jurisprudência relevante citada: STJ, Súmulas n. 5, 7 e 83; STJ, AREsp n. 2.555.856/SP, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 29/9/2025; STJ, REsp n. 1.733.777/SP, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 17/10/2023;
+STJ, AgInt no REsp n. 1.608.049/DF, relator Ministro Raul Araújo, Quarta Turma, julgado em 3/9/2024.
+(REsp n. 1.977.553/SP, relator Ministro João Otávio de Noronha, Quarta Turma, julgado em 2/3/2026, DJEN de 5/3/2026.)
+Por fim, quanto ao apontamento da existência de dissenso jurisprudencial, sabe-se que "divergência jurisprudencial com fundamento na alínea "c" do permissivo constitucional requisita comprovação e demonstração, esta, em qualquer caso, com a transcrição dos trechos dos acórdãos que configurem o dissídio, mencionando-se as circunstâncias que identifiquem ou assemelhem os casos confrontados, não se oferecendo como bastante a simples transcrição de ementas, sem realizar o necessário cotejo analítico a evidenciar a similitude fática entre os casos apontados e a divergência de interpretações (arts. 1.029, § 1º, do CPC/2015 e 255, § 1º, do RISTJ)" (REsp n. 1.888.242/PR, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 29/3/2022, DJe de 31/3/2022).
+Com efeito, a interposição do recurso especial por tal alínea exige do recorrente, além da comprovação da alegada divergência jurisprudencial  por meio da juntada dos precedentes favoráveis à tese defendida, com a devida certidão ou cópia dos paradigmas, autenticada ou de repositório oficial  , a comparação analítica dos acórdãos confrontados, nos termos dos arts. 1.029, §§ 1º e 2º, do Código de Processo Civil, e 255, § 1º, do Regimento Interno, o que não foi feito.
+A análise das alegações recursais, no ponto, indica mera transcrição das decisões sem o adequado cotejo analítico entre o acórdão paradigma e o acórdão recorrido apto a demonstrar a similitude fática entre os casos apontados e a divergência de interpretações.
+Nesse sentido:
+PROCESSUAL CIVIL. AGRAVO INTERNO EM RECURSO ESPECIAL. AÇÃO ANULATÓRIA DE LEILÃO EXTRAJUDICIAL. COMPETÊNCIA DE JUÍZO PLANTONISTA. DIREITO LOCAL. SÚMULA 280/STF. PREQUESTIONAMENTO. AUSÊNCIA. SÚMULA 211/STJ. FUNDAMENTO DO ACÓRDÃO NÃO IMPUGNADO. SÚMULA 283/STF. REEXAME DE FATOS E PROVAS. INADMISSIBILIDADE. SÚMULA 7/STJ. DISSÍDIO JURISPRUDENCIAL. COTEJO ANALÍTICO NÃO REALIZADO. SIMILITUDE FÁTICANÃO DEMONSTRADA. SÚMULA7/STJ. DISSÍDIO JURISPRUDENCIAL. PREJUDICADO.
+1. Ação anulatória de leilão extrajudicial.
+2. Não é possível, em recurso especial, a análise da competência interna dos órgãos julgadores de determinado Tribunal para que procedam seus julgamentos. Isso porque a competência interna dos diversos Juízos dos Tribunais estaduais é matéria regulada por leis estaduais de Organização Judiciária e, eventualmente, também pelos regimentos internos dos Tribunais.
+3. A ausência de decisão acerca dos dispositivos legais indicados como violados impede o conhecimento do recurso especial.
+4. A existência de fundamento do acórdão recorrido não impugnado - quando suficiente para a manutenção de suas conclusões - impede a apreciação do recurso especial.
+5. O reexame de fatos e provas em recurso especial é inadmissível.
+6. O dissídio jurisprudencial deve ser comprovado mediante o cotejo analítico entre acórdãos que versem sobre situações fáticas idênticas.
+7. A incidência da Súmula 7 do STJ prejudica a análise do dissídio jurisprudencial pretendido.
+8. Agravo interno não provido.
+(AgInt no REsp n. 1.951.040/AM, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 29/11/2021, DJe de 1/12/2021.)
+PROCESSUAL CIVIL. AGRAVO NO RECURSO ESPECIAL. APELAÇÃO. AÇÃO DECLARATÓRIA DE FALSIDADE DE DOCUMENTO. CHEQUE. COISA JULGADA. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. INOCORRÊNCIA. ACÓRDÃO SUFICIENTEMENTE FUNDAMENTADO. DISSÍDIO JURISPRUDENCIAL. AUSÊNCIA DE DEMONSTRAÇÃO. SIMPLES TRANSCRIÇÃO DE EMENTA. CERCEAMENTO DE DEFESA. AUSÊNCIA DE EXPRESSA INDICAÇÃO DE ARTIGO DE LEI VIOLADO. INCIDÊNCIA DA SÚMULA N. 284 DO STF. AGRAVO NÃO PROVIDO.
+1. Não há falar em omissão quando a decisão está clara e suficientemente fundamentada, resolvendo integralmente a controvérsia. O julgador não está obrigado a rebater, um a um, os argumentos trazidos pelas partes, quando encontrar motivação satisfatória para dirimir o litígio sobre os pontos essenciais da controvérsia em exame.
+2. A mera transcrição de ementas e excertos, desprovida da realização do necessário cotejo analítico entre os arestos confrontados, mostra-se insuficiente para comprovar a divergência jurisprudencial ensejadora da abertura da via especial com esteio na alínea c do permissivo constitucional. Incidência da Súmula n. 284 do STF.
+3. A falta de indicação, de forma clara e precisa, dos dispositivos legais que teriam sido eventualmente violados ou a que se teria dado interpretação divergente faz incidir à hipótese, em relação a quaisquer das alíneas do permissivo constitucional, a teor da Súmula n. 284 doSTF, por analogia: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia."
+4. Agravo desprovido.
+(AREsp n. 2.801.613/GO, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 24/3/2025, DJEN de 27/3/2025.)
+Assim, não se mostra viável o conhecimento do recurso pela divergência.
+Ante o exposto, conheço o agravo para conhecer parcialmente do recurso especial e negar-lhe provimento.
+Caso exista nos autos prévia fixação de honorários advocatícios pelas instâncias de origem, determino sua majoração em desfavor da parte agravante, no importe de 2% sobre o valor já arbitrado, nos termos do art. 85, § 11, do Código de Processo Civil, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão da gratuidade da justiça.
+Publique-se. Intimem-se.
+EMENTA
