@@ -1,0 +1,31 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Sexta Turma, por unanimidade, conceder o habeas corpus, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Rogerio Schietti Cruz, Carlos Pires Brandão e Og Fernandes votaram com o Sr. Ministro Relator.
+EMENTA
+PROCESSUAL PENAL. HABEAS CORPUS. LAVAGEM DE CAPITAIS E ORGANIZAÇÃO CRIMINOSA. PRISÃO PREVENTIVA. FUNDAMENTAÇÃO. SUFICIÊNCIA DAS MEDIDAS CAUTELARES DIVERSAS DA PRISÃO. CRIME SEM VIOLÊNCIA E GRAVE AMEAÇA. PRIMARIEDADE E BONS ANTECEDENTES. LIMINAR CONFIRMADA.
+Ordem concedida nos termos do dispositivo.
+RELATÓRIO
+Trata-se de habeas corpus impetrado em nome de DARLENE CARDOSO ALVES - presa preventivamente e acusada da prática de lavagem de capitais e organização criminosa -, em que a defesa aponta como autoridade coatora o Tribunal de Justiça do Rio Grande do Sul, que denegou ao ordem do HC n. 5302791-94.2025.8.21.7000/RS.
+Em síntese, a impetrante alega fundamentação genérica do decreto prisional, sem indicação concreta do periculum libertatis e baseada na gravidade abstrata do delito, o que violaria a excepcionalidade da prisão cautelar e a presunção de inocência.
+Sustenta que a paciente é primária, possui bons antecedentes, residência fixa e atividade laboral lícita, sendo idosa (maior de 60 anos), condições pessoais que afastam risco à ordem pública, à instrução criminal e à aplicação da lei penal.
+Defende a suficiência de medidas cautelares diversas da prisão, com base nos arts. 282, § 6º, e 319 do Código de Processo Penal, ressaltando o dever de preferência pela medida menos gravosa e a inexistência de justificativa para a inadequação das cautelares no caso concreto.
+Invoca os princípios da proporcionalidade e da homogeneidade, afirmando que não é admissível prisão cautelar mais severa que o provável regime de cumprimento de pena em eventual condenação, dadas as condições pessoais favoráveis da paciente.
+Em caráter liminar, pede a revogação imediata da prisão preventiva, com expedição de alvará de soltura, substituindo-se a custódia por medidas cautelares do art. 319 do Código de Processo Penal, tais como proibição de ausentar-se da comarca, monitoração eletrônica, comparecimento periódico em juízo e suspensão de atividades econômicas eventualmente relacionadas aos fatos.
+No mérito, requer a confirmação da liminar para tornar definitiva a revogação da prisão preventiva, reconhecendo a ausência de fundamentação concreta e a suficiência de medidas cautelares diversas. Subsidiariamente, pleiteia a substituição da prisão por medidas cautelares menos gravosas, observando-se a menor onerosidade e a idade superior a 60 anos da paciente (fl. 23).
+A liminar foi deferida, em 10/12/2025 (fls. 50/52).
+Indeferido o pedido de extensão requerido pelo corréu Luiz Alberto Rangel (fls. 64/65).
+Prestadas as informações de praxe, o Ministério Público Federal opinou, pelas palavras do Subprocurador-Geral da República Osnir Belice, pela denegação da ordem.
+É o relatório.
+EMENTA
+PROCESSUAL PENAL. HABEAS CORPUS. LAVAGEM DE CAPITAIS E ORGANIZAÇÃO CRIMINOSA. PRISÃO PREVENTIVA. FUNDAMENTAÇÃO. SUFICIÊNCIA DAS MEDIDAS CAUTELARES DIVERSAS DA PRISÃO. CRIME SEM VIOLÊNCIA E GRAVE AMEAÇA. PRIMARIEDADE E BONS ANTECEDENTES. LIMINAR CONFIRMADA.
+Ordem concedida nos termos do dispositivo.
+VOTO
+A prisão preventiva pode ser decretada, desde que haja prova da existência do crime e indício suficiente de autoria, como garantia da ordem pública, da ordem econômica, por conveniência da instrução criminal ou para assegurar a aplicação da lei penal, em decisão motivada e fundamentada acerca do receio de perigo gerado pelo estado de liberdade do imputado e da contemporaneidade da necessidade da medida extrema (arts. 311 a 316 do CPP).
+In casu, contudo, a ordem comporta concessão, devendo a liminar ser confirmada.
+Isso porque, no caso, levando-se em consideração que a participação da paciente na empreitada criminosa está relacionada ao fato de ser companheira de Luiz Alberto, corréu na mesma ação penal, e de registrar transações financeiras de cerca de R$ 5.155.489,48, demonstrando que fornece suas contas para passagem do dinheiro ilícito oriundo do tráfico de drogas (fl. 43 - grifo nosso).
+Pois bem. Tratando-se de agente primária, maior de 60 anos de idade e de crimes supostamente praticados sem violência ou grave ameaça à pessoa, verifica-se ser desproporcional a imposição da constrição corpórea em hipótese na qual não há evidência de que a permanência da acusada em liberdade implicará risco real e concreto ou à instrução processual ou à sociedade.
+Dessa forma, revela-se mais adequada a imposição de medidas cautelares alternativas, em observância à regra de progressividade das restrições pessoais, já que apenas em último caso será decretada a custódia preventiva e, ainda, quando não for cabível sua substituição por outra cautelar menos gravosa.
+As particularidades do caso demonstram a suficiência, a adequação e a proporcionalidade da imposição das medidas menos severas previstas no art. 319, em atenção ao preceito de progressividade das cautelas disposto no art. 282, §§ 4º e 6º, todos do Código de Processo Penal, notadamente pelo fato de os delitos não terem sido cometidos mediante emprego de violência ou grave ameaça, bem como pela possível primariedade da acusada.
+Aliás, o aparente cometimento de crimes, por si só, ainda que abstratamente graves, não evidencia "periculosidade" exacerbada do agente ou "abalo da ordem pública", a demandar a sua segregação antes de eventual condenação definitiva (AgRg no HC n. 949.847/RO, Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe 26/11/2024).
+E mais: AgRg no HC n. 900.832/MG, Ministro Rogerio Schietti Cruz, Sexta Turma, DJe 10/10/2024; e AgRg no RHC n. 194.061/SC, Ministro Ribeiro Dantas, Quinta Turma, DJe 3/6/2024.
+Ante o exposto, à vista dos precedentes, concedo a ordem a fim de, confirmando a liminar, substituir a prisão da paciente pelas seguintes cautelares: comparecimento periódico em juízo, no prazo e nas condições a serem fixadas pelo Juiz da causa (art. 319, I, do CPP); proibição de contato com qualquer um dos demais investigados (art. 319, III, do CPP); sem prejuízo de outras que o Juízo da causa eleja, desde que pertinentes e devidamente fundamentadas, nos termos desta decisão.
