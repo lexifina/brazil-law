@@ -1,0 +1,25 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em favor de ALYFER NEGRINI contra acórdão do Tribunal de Justiça do Estado de São Paulo (Revisão Criminal nº 0024834-33.2024.8.26.0000).
+Extrai-se dos autos que o paciente foi condenado pela prática do crime previsto no art. 33, caput, da Lei nº 11.343/2006, tendo sido fixada a pena de 5 anos de reclusão, em regime inicial semiaberto, além de 500 dias-multa, no mínimo legal (e-STJ fls. 39/58).
+A defesa interpôs apelação, tendo o Tribunal a quo negado provimento ao recurso, em acórdão assim ementado (e-STJ fl. 60):
+Tráfico de drogas Coesão e harmonia do quadro probatório Validade dos depoimentos policiais Condenação mantida. Pena-base. Natureza da droga apreendida que autoriza a exasperação Fração consentânea. Menoridade relativa e confissão espontânea Redução Necessidade. Aplicação do § 4º, do artigo 33, da Lei nº 11.343/06 Envolvimento pretérito do réu, quando menor de idade, na mercancia ilícita, sendo claro indicativo de sua dedicação exclusiva à narcotraficância Benesse da lei especial Aplicação Impossibilidade Precedente do C. STJ. Regime prisional semiaberto Subsistência Gravidade concreta do delito perpetrado, que contou com a apreensão de expressivas quantidades de drogas de diversas naturezas, cuja nocividade e alto poder viciante não se desconhecem, certos seu potencial de disseminação e sua natureza desagregadora, alinhados à dedicação do réu ao ofício criminoso, que estão a demonstrar que mais apropriado o mais gravoso dos regimes prisionais Imposição Impossibilidade, haja vista a resignação ministerial.
+Posteriormente, a defesa ajuizou revisão criminal, que foi indeferida pela Corte local, em acórdão assim ementado (e-STJ fl. 31):
+REVISÃO CRIMINAL. Condenação por tráfico. Indeferimento do privilégio por conta das dez anotações nas folhas de antecedentes das Varas de Menores infratores de Assis e Lins. Pretensão do redutor. Alegação de que passagens pelo Juizado da Infância e Adolescência não obstam o privilégio. Jurisprudência no sentido da decisão. Revisão indeferida.
+No presente writ, a impetrante sustenta constrangimento ilegal ao paciente em razão da negativa de aplicação da causa de diminuição do § 4º do art. 33 da Lei nº 11.343/2006, aduzindo que passagens pela Vara da Infância e Juventude não podem obstar a incidência da minorante; que a quantidade de drogas, por si, não afasta o benefício; e que o ônus de provar a dedicação a atividades criminosas é do Ministério Público, inexistindo elementos probatórios nesse sentido.
+Requer, ao final, a aplicação da referida causa de diminuição no patamar máximo, a substituição da pena privativa de liberdade por restritivas de direitos e a fixação do regime aberto para o início do cumprimento da pena.
+É o relatório. Decido.
+A irresignação manifestada no presente habeas corpus tem por objeto tema sobre o qual esta Corte já se manifestou no HC n. 658.774/SP, anteriormente impetrado em favor do paciente, oportunidade em que a pretensão ora deduzida foi devidamente enfrentada.
+Assim, embora a impetrante aponte novo ato da Corte local, trata-se de mera reiteração de insurgência já submetida ao exame desta Corte, revelando-se incabível nova impetração, na esteira do disposto no art. 210 do Regimento Interno do STJ, in verbis (grifei): Quando o pedido for manifestamente incabível, ou for manifesta a incompetência do Tribunal para dele tomar conhecimento originariamente, ou for reiteração de outro com os mesmos fundamentos, o relator o indeferirá liminarmente.
+Nesse sentido:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. HOMICÍDIO QUALIFICADO PELO CONCURSO DE PESSOAS, MOTIVO FÚTIL E EMPREGO DE MEIO CRUEL. PRONÚNCIA. NULIDADES PROCESSUAIS. MATÉRIA NÃO EXAMINADA NO ACÓRDÃO TIDO POR COATOR. SUPRESSÃO DE INSTÂNCIA.
+1. Nos termos do art. 210 do Regimento Interno do Superior Tribunal de Justiça, o relator indeferirá liminarmente o habeas corpus quando o pedido for manifestamente incabível, ou for manifesta a incompetência do Tribunal para dele tomar conhecimento originariamente, ou for reiteração de outro com os mesmos fundamentos.
+ ..
+4. Agravo regimental desprovido. (AgRg no HC n. 517.821/SP, Quinta Turma, DJe 4/9/2019.)
+AGRAVO REGIMENTAL NO HABEAS CORPUS. NÃO ENFRENTAMENTO DOS FUNDAMENTOS DA DECISÃO AGRAVADA. SÚMULA 182/STJ. AGRAVO DESPROVIDO.
+ ..
+II - "Inexistindo fato superveniente, é incabível a impetração de habeas corpus com objeto idêntico a outro feito anteriormente examinado no âmbito desta Corte" (AgRg no HC n. 478.216/RJ, Quinta Turma, Relator Ministro RIBEIRO DANTAS, DJe 19/2/2019).
+III - In casu, a Defesa limitou-se a reprisar os argumentos do habeas corpus, o que atrai a Súmula 182 desta Corte Superior de Justiça, segundo a qual é inviável o agravo regimental que não impugna especificamente os fundamentos da decisão agravada. Agravo regimental desprovido (AgRg no HC n. 509.639/SP, Relator Ministro FELIX FISCHER, Quinta Turma, DJe 4/6/2019).
+Ante o exposto, com base no art. 210 do Regimento Interno do STJ, liminarmente, não conheço do habeas corpus.
+Traslade-se, para estes autos, cópia da decisão monocrática proferida no HC n. 658.774/SP.
+Intimem-se.
+EMENTA
