@@ -1,0 +1,14 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em benefício de HANS HENRIQUE RODRIGUES - pronunciado como incurso nos arts. 121, § 2º, I e IV, e 288 do Código Penal -, em que a defesa aponta como autoridade coatora o Tribunal de Justiça do Estado de Goiás, que, em 27/8/2024, negou provimento ao Recurso em Sentido Estrito n. 0132574-79.2019.8.09.0006 (fls. 529/538).
+Em síntese, a impetrante alega ilicitude da prova digital extraída do aparelho celular do corréu Paulo Jonathan Carvalho Tavares, por quebra da cadeia de custódia e ausência de metodologia forense idônea.
+Argumenta inexistir indício autônomo e independente de autoria quanto ao paciente - não há testemunha que o vincule aos fatos, nem reconhecimento pessoal, nem apreensão de objetos -, estando a pronúncia fundada exclusivamente em prova digital inválida, razão pela qual não há justa causa para submetê-lo a julgamento pelo Tribunal do Júri .
+Em liminar, pede a suspensão do andamento da ação penal, impedindo sua submissão a julgamento pelo Tribunal do Júri.
+No mérito, pugna pela declaração de nulidade dos dados digitais extraídos do aparelho celular do corréu Paulo Jonathan, com o desentranhamento integral dos elementos; e pela impronúncia do paciente por inexistência de indícios autônomos de autoria. Subsidiariamente, requer a anulação da decisão de pronúncia exclusivamente quanto ao paciente, para que outra seja proferida, desconsiderando-se integralmente os elementos derivados dos dados extraídos do celular do corréu.
+Sucede que a matéria aqui ventilada já foi objeto de análise no AREsp n. 2.815.552/GO, que foi conhecido para não conhecer do recurso especial, decisão essa mantida em sede de agravo regimental, com trânsito em julgado em 9/3/2026.
+Inadmissível, portanto, esta insurgência, visto que não pode ser conhecida a impetração que veicula mera reiteração de pedido já apresentado anteriormente a esta Corte Superior. Nesse sentido: AgRg no HC n. 815.516/SC, Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), Sexta Turma, DJe 15/5/2024; e AgRg no HC n. 899.189/CE, Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe 16/4/2024; dentre outros.
+Vale acrescentar que, não obstante a conclusão no primeiro feito tenha sido pelo não conhecimento, a prestação jurisdicional foi dada, com resposta às alegações. Com efeito, foi consignado que a inversão do que ficou decidido no acórdão do recurso em sentido estrito demanda reexame do acervo fático-probatório - óbice esse aplicável também à via do habeas corpus.
+Ante o exposto, indefiro liminarmente a petição inicial (art. 210 do RISTJ).
+Publique-se.
+EMENTA
+HABEAS CORPUS. CRIMES DOS ARTS. 121, § 2º, I E IV, E 288 DO CP. NULIDADE DAS PROVAS DIGITAIS. TESE JÁ ANALISADA NO ARESP N. 2.815.552. REITERAÇÃO DE PEDIDO. INADMISSIBILIDADE.
+Writ indeferido liminarmente.
