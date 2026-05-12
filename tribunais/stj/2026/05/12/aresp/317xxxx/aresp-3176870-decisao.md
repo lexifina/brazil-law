@@ -1,0 +1,21 @@
+DECISÃO
+Agrava-se de decisão que não admitiu recurso especial interposto com fundamento no artigo 105, inciso III, alínea "a", da Constituição Federal, contra acórdão do Tribunal Regional Federal da 4ª Região, assim ementado:
+DIREITO PENAL E PROCESSUAL PENAL. ART. 293, § 1º, I, DO CP. PRINCÍPIO DA CONSUNÇÃO. APLICABILIDADE. CONTINUIDADE DELITIVA E CONCURSO MATERIAL. CONFIGURAÇÃO.
+1. O tipo penal previsto no art. 293, § 1º, I, do CP é classi cado como crime formal, de ação múltipla, que visa a tutelar a fé pública, em especial, a legitimidade de títulos e outros papéis públicos.
+2. Aplica-se o princípio da consunção em casos de con ito aparente de normas penais, quando determinado crime é meio necessário, fase de preparação ou de execução para a realização de outro delito de alcance mais amplo.
+3. O crime de falsi cação de guia (crime-meio) deve ser absorvido pelo crime de uso de documento falso (crime-fim), quanto neste exaure a sua lesividade.
+4. Atendidos os requisitos do art. 71 do CP, deve ser reconhecida a continuidade delitiva em conformidade com o número de vezes em que apresentados os documentos falsos, sendo possível o reconhecimento do concurso material de crimes, caso tais documentos sejam usados em âmbitos distintos. (e-STJ fl. 441)
+A defesa aponta a violação dos arts. 155, 386, VII do CPP, alegando, em síntese, que não há nos autos provas seguras para a condenação, salientando que a autoria é deduzida do mero fato de ser o recorrente proprietário da empresa.
+Contrarrazões às e-STJ fls. 504/529.
+Manifestação do Ministério Público Federal pelo não conhecimento do agravo às e-STJ fls. 581/582.
+É o relatório. Decido.
+A irresignação não prospera.
+Verifica-se que a pretensão recursal demanda o reexame do conjunto fático-probatório para infirmar as conclusões das instâncias ordinárias quanto à autoria e à suficiência das provas.
+O Tribunal de origem, soberano na apreciação da prova, assentou expressamente a materialidade e a autoria com base em robusto acervo documental e testemunhal, destacando, entre outros pontos: i) confirmação bancária da falsidade dos comprovantes (e-STJ fls. 434/435); ii) informação do sistema Dataprev e Nota Técnica da CGU quanto à ausência de recolhimentos previdenciários, corroborando a falsidade (e-STJ fl. 435); iii) protocolo das guias no sistema do MPT "mediante assinatura digital" do recorrente, com indicação de CPF e demais dados (e-STJ fl. 434); iv) depoimentos colhidos em juízo e em sede policial, com detalhamento das funções exercidas e dinâmica dos contratos, bem como o papel do recorrente na gestão financeira e contábil da empresa (e-STJ fls. 436/438).
+A Corte consignou, de modo categórico: "Como se pode constatar, ao contrário do que a rma a defesa, o conjunto probatório amealhado vai muito além do depoimento da testemunha Vinícius  , já que há robusta prova documental que indica o envolvimento direto do réu  " (e-STJ fl. 438), concluindo pela higidez da condenação.
+A desconstituição de tais premissas, tal como pretende a defesa, pressupõe nova incursão no acervo probatório para: (a) afastar a valoração empreendida pelo Tribunal local sobre a autoria e sobre o peso das provas documentais e testemunhais; (b) substituir a convicção formada nas instâncias ordinárias por juízo absolutório fundado em "insuficiência probatória" ou "contradições". Essa providência é incabível em sede de recurso especial, por força da Súmula n. 7/STJ.
+Ademais, quanto à alegada violação do art. 155 do CPP, o acórdão recorrido enfrentou a premissa, registrando que os elementos informativos não serviram de base exclusiva para a condenação, pois foram "conjugados com a prova oral produzida mediante contraditório" (e-STJ fl. 453).
+A tese recursal, para afastar esse fundamento, igualmente reclama reexame da prova para demonstrar que, em verdade, a condenação teria se apoiado "exclusivamente" em elementos inquisitoriais, o que é inviável na estreita cognição do especial (Súmula 7/STJ). No mesmo sentido, a invocação do art. 386, VII, do CPP  por suposta "contradição" do conjunto probatório  não se resolve sem revolver a prova, o que também atrai o óbice sumular.
+Diante do exposto, com fundamento no art. 932, VIII, do CPC, c/c o art. 253, parágrafo único, II, "a", parte final, do RISTJ, conheço do agravo para não conhecer do recurso especial.
+Intimem-se.
+EMENTA
