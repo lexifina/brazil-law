@@ -1,0 +1,27 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Sexta Turma, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Carlos Pires Brandão, Og Fernandes e Sebastião Reis Júnior votaram com o Sr. Ministro Relator.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO HABEAS CORPUS. AUSÊNCIA DE IMPUGNAÇÃO DO FUNDAMENTO ESPECÍFICO DA DECISÃO AGRAVADA. SÚMULA N. 182 DO STJ. OMISSÃO. AUSÊNCIA. MERO INCONFORMISMO. EMBARGOS REJEITADOS.
+1. O reconhecimento de violação do art. 619 do CPP pressupõe a ocorrência de omissão, ambiguidade, contradição ou obscuridade tais que tragam prejuízo à defesa. A assertiva, no entanto, não pode ser confundida com o mero inconformismo da parte com a conclusão alcançada pelo julgador, que, a despeito das teses aventadas, lança mão de fundamentação idônea e suficiente para a formação do seu livre convencimento.
+2. O decisum embargado não foi omisso. A questão da impossibilidade de conhecimento do habeas corpus foi devidamente analisada, com a demonstração de que, nas razões do agravo regimental, a defesa, em nenhum momento, refutou o argumento principal, autônomo e suficiente o bastante para indeferir liminarmente o habeas corpus.
+3. Embargos de declaração rejeitados.
+RELATÓRIO
+YUL NEYDER MORALES SÁNCHEZ opõe embargos de declaração ao acórdão desta colenda Sexta Turma, que não conheceu do agravo regimental, nos termos da seguinte ementa (fl. 329):
+AGRAVO REGIMENTAL NO HABEAS CORPUS. FUNDAMENTO DA DECISÃO AGRAVADA NÃO ATACADO. INCIDÊNCIA, POR ANALOGIA, DA SÚMULA N. 182 DO STJ. AGRAVO REGIMENTAL NÃO CONHECIDO.
+1. É inviável o processamento de agravo regimental que deixa de impugnar, de modo específico, o fundamento principal da decisão agravada. Aplicação, por analogia, do enunciado sumular n. 182 desta Corte.
+2. Agravo regimental não conhecido.
+A defesa alega que o decisum embargado foi omisso, porque "não enfrentou a impugnação direta ao fundamento da decisão monocrática, qual seja, a alegação de utilização indevida do Habeas Corpus como sucedâneo recursal" (fl. 341).
+Afirma, ainda, que "A segunda omissão, ainda mais grave, consiste na ausência de enfrentamento do núcleo argumentativo da defesa quanto à inexistência de vínculo estável e permanente, elemento indispensável à configuração do crime de associação para o tráfico" (fl. 341).
+Na sequência, argumenta que "A terceira omissão refere-se à inversão indevida do ônus da prova, questão expressamente suscitada no Agravo Regimental". Ainda: "A quarta omissão incide sobre a tese de distinção entre coautoria eventual e associação estável, ponto central do Agravo Regimental". Em acréscimo: "A quinta omissão diz respeito à dosimetria da pena, especificamente quanto à alegação de fundamentação genérica e ocorrência de bis in idem" (fl. 342). E, por fim: "A sexta omissão consiste na ausência de apreciação efetiva da tese de flagrante ilegalidade passível de correção de ofício, mesmo diante da alegação expressa de erro de tipificação e de vícios na dosimetria" (fl. 343).
+Requer, assim, o acolhimento dos embargos de declaração, com a atribuição de efeitos modificativos ao julgado, para que sejam sanadas as omissões apontadas e, por conseguinte, sejam acolhidas as teses aventadas na impetração.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO HABEAS CORPUS. AUSÊNCIA DE IMPUGNAÇÃO DO FUNDAMENTO ESPECÍFICO DA DECISÃO AGRAVADA. SÚMULA N. 182 DO STJ. OMISSÃO. AUSÊNCIA. MERO INCONFORMISMO. EMBARGOS REJEITADOS.
+1. O reconhecimento de violação do art. 619 do CPP pressupõe a ocorrência de omissão, ambiguidade, contradição ou obscuridade tais que tragam prejuízo à defesa. A assertiva, no entanto, não pode ser confundida com o mero inconformismo da parte com a conclusão alcançada pelo julgador, que, a despeito das teses aventadas, lança mão de fundamentação idônea e suficiente para a formação do seu livre convencimento.
+2. O decisum embargado não foi omisso. A questão da impossibilidade de conhecimento do habeas corpus foi devidamente analisada, com a demonstração de que, nas razões do agravo regimental, a defesa, em nenhum momento, refutou o argumento principal, autônomo e suficiente o bastante para indeferir liminarmente o habeas corpus.
+3. Embargos de declaração rejeitados.
+VOTO
+Consoante o disposto no art. 619 do Código de Processo Penal, a oposição de embargos de declaração enseja, em síntese, o aprimoramento da prestação jurisdicional, por meio da retificação do julgado que se apresenta omisso, ambíguo, contraditório ou com erro material. São inadmissíveis, portanto, quando, a pretexto da necessidade de esclarecimento, aprimoramento ou complemento da decisão embargada, objetivam, em essência, o rejulgamento do caso.
+No caso, constato que o decisum embargado não foi omisso. A questão da impossibilidade de conhecimento do habeas corpus foi devidamente analisada, com a demonstração de que, nas razões do agravo regimental, a defesa, em nenhum momento, refutou o argumento principal, autônomo e suficiente o bastante para indeferir liminarmente o habeas corpus.
+Assim, o que se percebe, na verdade, é que a irresignação do embargante se resume a mero inconformismo com o resultado do julgado, que lhes foi desfavorável, não havendo nenhum fundamento que justifique a oposição de embargos de declaração.
+À vista do exposto, rejeito os embargos de declaração.
