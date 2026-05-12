@@ -1,0 +1,42 @@
+DECISÃO
+Trata-se de recurso ordinário em habeas corpus, com pedido liminar, interposto por GILLIARD NATTAN ARCÂNGELO, apontando como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAIS, que, nos autos do HC n. 1.0000.26.154329-2/000, não conheceu da impetração.
+Consta dos autos que o recorrente cumpre pena privativa de liberdade, decorrente da unificação de três condenações pelos crimes de furto qualificado, desacato e desobediência, totalizando 2 (dois) anos, 3 (três) meses e 20 (vinte) dias de reclusão, em regime inicial semiaberto.
+No curso da execução penal, o benefício de prisão domiciliar foi revogado em razão da não comprovação de trabalho lícito, com determinação de trabalho intramuros. O recorrente encontra-se recolhido em unidade prisional situada na comarca de Varginha/MG, enquanto a execução tramita na comarca de Cabo Verde/MG.
+Há postulação defensiva de concessão de indulto natalino com fundamento no Decreto n. 11.302/2022, bem como pedido de remessa dos autos ao juízo da execução competente, os quais, segundo informações prestadas, ainda não foram apreciados pelo juízo de origem.
+No presente RHC, a defesa alega que o acórdão recorrido incorreu em indevida negativa de prestação jurisdicional ao não enfrentar o mérito do habeas corpus originário, sustentando que a omissão da Corte local impõe a devolução dos autos para apreciação da matéria suscitada no mandamus.
+Sustenta que o conhecimento do writ por este Superior Tribunal de Justiça, sem pronunciamento definitivo do Tribunal a quo, configuraria supressão de instância, reiterando precedentes que, diante da inadequação da via eleita na origem, determinam a apreciação do mérito pela Corte estadual, com a concessão da ordem de ofício quando constatada flagrante ilegalidade.
+Argumenta, ainda, que, à luz da orientação jurisprudencial, a solução adequada é cassar o acórdão que não conheceu da impetração e determinar ao Relator do Tribunal de origem que examine o habeas corpus conforme entender de direito, evitando-se violação às regras constitucionais de competência e assegurando a prestação jurisdicional efetiva.
+Requer o provimento do recurso para cassar o acórdão do TJMG e determinar que o Relator reaprecie o habeas corpus originário n. 1.0000.26.154329-2/000, decidindo-o como entender de direito. Subsidiariamente, pugna pela concessão de medida liminar com idêntica finalidade.
+É o relatório.
+Decido.
+É consolidada a jurisprudência deste Superior Tribunal de Justiça no sentido de que a prerrogativa do relator para julgar monocraticamente o habeas corpus e o respectivo recurso não é afastada pelas normas regimentais que preveem a oitiva prévia do Ministério Público Federal (arts. 64, inciso III, e 202 do RISTJ), notadamente quando a matéria se conforma com o entendimento dominante desta Corte (AgRg no HC n. 856.046/SP, de relatoria do Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 24/10/2023, DJe de 30/10/2023).
+Sobre as alegações defensivas, constou do acórdão da Corte de origem (fls. 85-89):
+Trata-se de Habeas Corpus, com pedido liminar, impetrado em favor de GILLIARD NATTAN ARCÂNGELO, apontando como autoridade coatora o MM. Juiz de Direito da Vara de Execuções Criminais da Comarca de Cabo Verde/MG.
+Narra a impetração, em síntese, que o requerente cumpre pena privativa de liberdade perante este Douto Juízo, em decorrência da unificação de três condenações distintas, que, somadas, resultaram na pena total de 02 (dois) anos, 03 (três) meses e 20 (vinte) dias de reclusão.
+Aduz que o paciente encontra-se em cumprimento de pena em regime semiaberto, conforme consta no referido atestado de penas.
+Sustenta que o paciente além de preencher o requisito temporal, não incorre em nenhuma das vedações listadas no restritivo rol do artigo 7º do Decreto nº 11.302/2022.
+Requer a impetração a concessão da medida liminar para determinar que a autoridade coatora conceda o indulto natalino ao Paciente, expedindo o consequente Alvará de Soltura, ou, subsidiariamente, que determine a imediata remessa dos autos do Processo de Execução Penal nº 4400040-46.2022.8.13.0095 à competente Vara de Execuções Penais da Comarca de Varginha/MG. No mérito, requer a concessão definitiva da ordem.
+O pedido liminar foi indeferido à ordem nº 04.
+Informações prestadas pela d. autoridade apontada como coatora à ordem nº 05/10.
+Nesta instância, a d. Procuradoria-Geral de Justiça manifestou- se à ordem nº 11, pelo não conhecimento do Habeas Corpus.
+É o relatório.
+Passo ao voto.
+Inicialmente, ressalto que prevalece na jurisprudência o entendimento de que não se admite a impetração de Habeas Corpus em substituição ao recurso adequado, devendo, assim, o writ não ser conhecido, ressalvado os casos excepcionais em que, configurada flagrante ilegalidade, seja possível a concessão da ordem de ofício.
+Registra-se que tal entendimento preserva a utilidade e eficácia do Habeas Corpus como remédio constitucional que visa à proteção da liberdade da pessoa, quando ameaçada por ato ilegal ou abuso de poder.
+Nesse sentido é o entendimento do c. Superior Tribunal de Justiça: (..).
+Em outras palavras, o Habeas Corpus, em substituição do recurso próprio, só poderá ser analisado se constatado, de plano, manifesta ilegalidade que implique ofensa ao direito de liberdade de ir e vir do paciente, o que não se verifica no presente caso.
+Das informações prestadas pela autoridade apontada coatora extrai-se que:
+"(..) O Reeducando cumpre pena em regime semiaberto e gozava do benefício da prisão domiciliar. Contudo, não comprovou o exercício de trabalho lícito, uma das condições do benefício, pelo que houve a revogação e a determinação de trabalho intramuros. Ressalto que os pedidos de concessão de indulto e transferência da execução penal ainda não foram analisados, pois foi determinada a regularidade da representação processual e a intimação do Ministério Público para manifestação.. (..)".
+Observa-se que o Magistrado a quo, ainda não apreciou o pedido defensivo de concessão do indulto.
+Deste modo, como se não bastasse o fato de o pleito formulado não comportar apreciação pela via eleita, certo é que a impetração utilizou-se de duas vias para externar o seu inconformismo.
+Nesse contexto, se houver o julgamento do presente writ ocorrerá violação ao princípio da unicidade recursal, o que não é admissível em nosso ordenamento jurídico.
+Nas lições de Renato Brasileiro de Lima, o princípio da unirrecorrebilidade, unicidade ou singularidade diz que, via de regra, a cada decisão recorrível corresponde um único recurso (in Manual de Processo Penal, volume único, ed. JusPodvim, 8ª edição, p. 1739).
+Nesse sentido destaco ainda julgados deste eg. Tribunal de Justiça: (..).
+Diante de todo o exposto, não sendo o habeas corpus instrumento jurídico próprio, bem como ausente hipótese de flagrante ilegalidade, com repercussão no direito de liberdade de ir e vir do paciente, NÃO CONHEÇO DO HABEAS CORPUS.
+Verifica-se que o TJMG não conheceu do habeas corpus lá impetrado em razão da inadequação da via eleita, considerando que a matéria deveria ser discutida em sede de agravo em execução.
+Assim, descuidando a parte de valer-se do meio processual adequado, qual seja, o agravo em execução, não se deve conhecer do habeas corpus que objetiva a concessão de indulto, sobretudo quando não aferível, de plano, a existência de constrangimento ilegal manifesto nos limites de cognição da via eleita. Além disso, verifico que a tese arguida não foi apreciada pelo Tribunal de origem, não podendo esta Corte de Justiça dela conhecer, sob pena de indevida supressão de instância.
+No mesmo sentido é o entendimento do STJ:
+AGRAVO REGIMENTAL NO RECURSO EM HABEAS CORPUS. NÃO CONHECIMENTO. WRIT SUCEDÂNEO DE REVISÃO CRIMINAL. SUPRESSÃO DE INSTÂNCIA. ILEGALIDADE FLAGRANTE QUE AUTORIZA A CONCESSÃO DE ORDEM DE OFÍCIO. NULIDADE NA PRODUÇÃO DA PROVA. NÃO VERIFICADA. AGRAVO REGIMENTAL DESPROVIDO.  ..  2. O exame pelo Superior Tribunal de Justiça de matéria que não foi apreciada pelas instâncias ordinárias enseja indevida supressão de instância, com explícita violação da competência originária para o julgamento de habeas corpus (art. 105, I, c, da Constituição Federal).  ..  (AgRg no RHC n. 182.899/PB, relator Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), Sexta Turma, julgado em 8/4/2024, DJe de 11/4/2024).
+Ante o exposto, ausente constrangimento ilegal a ser reparado, não conheço do recurso ordinário em habeas corpus.
+Publique-se. Intime-se.
+EMENTA
