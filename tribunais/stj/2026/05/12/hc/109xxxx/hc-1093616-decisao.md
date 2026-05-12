@@ -1,0 +1,15 @@
+DECISÃO
+GERSON FERNANDO DE SOUZA alega ser vítima de coação ilegal em decorrência de acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo na Apelação Criminal n. 1503787-85.2024.8.26.0530.
+Consta dos autos que o paciente foi condenado à pena de 4 anos e 1 mês, em regime inicial fechado, mais multa, pela prática dos crimes previstos nos arts. 180, caput, e 311, § 2º, III, ambos do Código Penal, em concurso formal.
+O impetrante aduz, em síntese, que os fundamentos empregados para a fixação da pena-base acima do mínimo legal são genéricos e abstratos. Sustenta, ainda, que a pena aplicada demanda o estabelecimento de regime inicial menos gravoso.
+Assim, requer, liminarmente e no mérito, a fixação da reprimenda basilar no patamar mínimo previsto em lei e a imposição do regime inicial semiaberto.
+Decido.
+Este habeas corpus se a opõe acórdão de apelação criminal prolatado em 5/3/2026, transitado em julgado no dia 24/4/2026 (conforme certidão disponível no site do Tribunal de origem). Em 1º/5/2026, a defesa impetrou este writ, de modo que a medida é substitutiva de revisão criminal.
+Por força do art. 105, I, "e", da Constituição Federal, a competência desta Corte para processar e julgar revisão criminal limita-se às hipóteses de seus próprios julgados. Como não existe no STJ julgamento de mérito passível de revisão em relação à condenação sofrida pelo paciente, forçoso reconhecer a incompetência deste Tribunal para o processamento do presente pedido.
+Importante destacar que esta Corte, em diversas ocasiões, reconheceu a impossibilidade de uso do habeas corpus em substituição à revisão criminal, assim se posicionando: "o trânsito em julgado do acórdão que julga a apelação criminal, sem que haja a inauguração da competência deste Sodalício, torna incognoscível o pedido de habeas corpus" (AgRg no HC n. 805.183/SP, relator Ministro Teodoro Silva Santos, Sexta Turma, julgado em 12/3/2024, DJe de 15/3/2024).
+Na mesma direção, cito, ainda, as seguintes decisões monocráticas: HC n. 905.628/SP, Rel. Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), DJe 17/4/2024; HC n. 905.340/SP, Rel. Ministra Daniela Teixeira, DJe 17/4/2024; HC n. 905.232/SP, Rel. Ministro Messod Azulay Neto, DJe 17/4/2024; HC n. 904.932/PR, Rel. Ministro Antonio Saldanha Palheiro, DJe 16/4/2024.
+Muito embora não se ignore a ampliação do uso do habeas corpus nem a importância dessa ação constitucional para a defesa da liberdade de locomoção, a crescente quantidade de impetrações, que, antes, deveriam ser examinadas em instâncias diversas, prejudica as funções constitucionais desta Corte, em detrimento da eficácia do recurso especial, o que enfraquece a delimitação de teses para trazer uniformidade e previsibilidade ao sistema jurídico.
+Registro, por oportuno, que não constato a presença de manifesta ilegalidade que autorize a concessão da ordem de habeas corpus de ofício, porquanto, em juízo de cognição sumária, verifico que o acórdão apresentou fundamentação idônea quanto às questões impugnadas (pena-base e regime inicial).
+À vista do exposto, indefiro liminarmente o habeas corpus.
+Publique-se e intimem-se.
+EMENTA
