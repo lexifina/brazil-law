@@ -1,0 +1,1 @@
+Art. 11-A. As decisões relativas à transferência ou à prorrogação da permanência do preso em estabelecimento penal federal de segurança máxima, à concessão ou à denegação de benefícios prisionais ou à imposição de sanções ao preso federal poderão ser tomadas por órgão colegiado de juízes, na forma das normas de organização interna dos tribunais.
