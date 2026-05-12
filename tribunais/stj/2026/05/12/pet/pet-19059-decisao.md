@@ -1,0 +1,33 @@
+DECISÃO
+Trata-se de petição apresentada em favor de SILVIO FERREIRA CHAUTZ, apontando como autoridade coatora a 6ª Turma Recursal do Juizado Especial Criminal do Estado do Paraná.
+Extrai-se dos autos que o paciente foi condenado, como incurso no art. 331 do Código Penal à pena de 7 meses de detenção, em regime semiaberto, sendo a condenação acórdão proferido pela 4ª Turma Recursal dos Juizados Especiais (e-STJ, fls. 126-128).
+Após ser indeferido o processamento de Recurso Especial, a defesa impetrou mandado de segurança em face do acórdão que manteve a condenação.
+O mandado de segurança foi indeferido razão pela qual a defesa interpôs agravo regimental, assim decidido na origem:
+"AGRAVO INTERNO. INDEFERIMENTO DA PETIÇÃO INICIAL DE MANDADO DE SEGURANÇA. IMPETRAÇÃO CONTRA DECISÃO COLEGIADA DE MÉRITO PROFERIDA POR TURMA RECURSAL. HIPÓTESE QUE REFOGE DA COMPETÊNCIA DAS TURMAS RECURSAIS REUNIDAS. PRETENSÃO DE REFORMA DO ACÓRDÃO. SUBSTITUTIVO DE RECURSO. INADMISSIBILIDADE. AGRAVO CONHECIDO E NÃO PROVIDO." (e-STJ, fls. 338-342)
+Na petição de fls. 546-567 (e-STJ), a defesa alega o cabimento do mandado de segurança para a absolvição do paciente, apontando a insuficiência probatória para a condenação, asseverando que as provas testemunhais não foram confirmadas por outros elementos, acarretando dúvida razoável determinante para a absolvição.
+Requer a concessão definitiva da ordem com a absolvição do requerente nos termos do art. 386, VII do C PP.
+A Subprocuradoria-Geral da República manifestou-se pelo indeferimento da petição (e-STJ, fls. 595-597).
+É o relatório.
+Decido.
+A competência do Superior Tribunal de Justiça para o julgamento de recurso ordinário está taxativamente prevista na Constituição Federal:
+"Art. 105. Compete ao Superior Tribunal de Justiça:
+ ..
+II - julgar, em recurso ordinário:
+a) os habeas corpus decididos em única ou última instância pelos Tribunais Regionais Federais ou pelos tribunais dos Estados, do Distrito Federal e Territórios, quando a decisão for denegatória;
+b) os mandados de segurança decididos em única instância pelos Tribunais Regionais Federais ou pelos tribunais dos Estados, do Distrito Federal e Territórios, quando denegatória a decisão;
+c) as causas em que forem partes Estado estrangeiro ou organismo internacional, de um lado, e, do outro, município ou pessoa residente ou domiciliada no País."
+Ainda, de acordo com o art. 21 da LOMAN (Lei Complementar n. 35/79):
+"Art. 21 - Compete aos Tribunais, privativamente:
+I - eleger seus Presidentes e demais titulares de sua direção, observado o disposto na presente Lei;
+II - organizar seus serviços auxiliares, os provendo-lhes os cargos, na forma da lei; propor ao Poder Legislativo a criação ou a extinção de cargos e a fixação dos respectivos vencimentos;
+III - elaborar seus regimentos internos e neles estabelecer, observada esta Lei, a competência de suas Câmaras ou Turmas isoladas, Grupos, Seções ou outros órgãos com funções jurisdicionais ou administrativas;
+IV - conceder licença e férias, nos termos da lei, aos seus membros o aos Juízes e senventuários que lhes são imediatamente subordinados;
+V - exercer a direção e disciplina dos órgãos e serviços que lhes forem subordinados;
+VI - julgar, originariamente, os mandados de segurança contra seus atos, os dos respectivos Presidentes e os de suas Câmaras, Turmas ou Seções."
+Nesse sentido:
+"Ementa: Direito Constitucional. Agravo Regimental no Mandado de Injunção. Competência para processamento e julgamento de mandado de segurança e habeas corpus contra atos das turmas recursais dos juizados especiais. Alegação de omissão legislativa. Inexistência de lacuna normativa. Agravo regimental não provido. I. Caso em exame 1. Agravo regimental interposto contra decisão monocrática pela qual se negou seguimento ao mandado de injunção, impetrado com o objetivo de ver reconhecida suposta omissão legislativa quanto à definição da competência para o julgamento de mandado de segurança e habeas corpus contra atos de Turmas Recursais dos Juizados Especiais. O impetrante alegava ter sofrido violação ao direito do juiz natural, ao ter seu mandado de segurança, ajuizado contra decisão da própria Turma Recursal, julgado pela mesma autoridade. Requereu tutela antecipada para redirecionar a competência ao Tribunal de Justiça do Estado do Rio Grande do Sul e pleiteou a concessão da justiça gratuita. II. Questão em discussão 2. A questão em discussão consiste em definir se há omissão legislativa apta a justificar a impetração de mandado de injunção com vistas à regulamentação da competência para o julgamento de mandados de segurança e habeas corpus contra atos das Turmas Recursais dos Juizados Especiais. III. Razões de decidir 3. O mandado de injunção pressupõe a demonstração de omissão legislativa que inviabilize o exercício de direitos e garantias constitucionais, conforme o art. 5º, inc. LXXI, da Constituição. 4. A matéria referente à competência para julgamento de mandado de segurança e habeas corpus contra atos das Turmas Recursais já encontra disciplina suficiente na Constituição e na Lei Orgânica da Magistratura (Loman), notadamente no art. 21, inc. VI. 5. A jurisprudência do Supremo Tribunal Federal é pacífica no sentido de que compete às próprias Turmas Recursais o julgamento de mandado de segurança contra seus atos, não se verificando, portanto, lacuna normativa que impeça o exercício de direito constitucional. 6. A alegação de ofensa ao princípio do juiz natural por suposta concentração de funções (julgadora e coatora) na mesma autoridade é afastada pela disposição do art. 98, inc. I, da Constituição, que reconhece a atuação das Turmas Recursais como integrante da estrutura do Poder Judiciário. 7. O tratamento diferenciado conferido pela Constituição ao habeas corpus e ao mandado de segurança quanto à definição de competência é justificado pela especificidade de cada remédio constitucional, não caracterizando violação à isonomia. 8. A pretensão do agravante, ao fim, tem natureza recursal, voltada à modificação da jurisprudência consolidada, finalidade incompatível com o mandado de injunção. IV. Dispositivo 9. Agravo regimental não provido. Dispositivos relevantes citados: CRFB, arts. 5º, inc. LXXI; 98, inc. I; 102, inc. I, als. "d" e "i"; 105, inc. I, als. "b" e "c". Loman, art. 21, inc. VI. Jurisprudência relevante citada: RMS nº 39.028/MS, Rel. Min. André Mendonça, j. 24/08/2023.
+(MI 7508 AgR, Relator(a): ANDRÉ MENDONÇA, Tribunal Pleno, julgado em 27-10-2025, PROCESSO ELETRÔNICO DJe-s/n DIVULG 04-11-2025 PUBLIC 05-11-2025)
+Ante o exposto, não conheço do pedido, por ser manifestamente incabível.
+Publique-se.
+Intime-se.
+EMENTA
