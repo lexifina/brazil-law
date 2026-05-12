@@ -1,0 +1,58 @@
+DECISÃO
+Trata-se de agravo interposto por IDINEI HERCOLANO PEREIRA e MÁRCIA DIAS HERCOLANO contra decisão que não admitiu recurso especial manejado, com fulcro na alínea "c" do inciso III do art. 105 da Constituição Federal, em face de acórdão proferido pelo Tribunal de Justiça do Estado de Minas Gerais, assim ementado (fl . 253):
+AGRAVO DE INSTRUMENTO - CUMPRIMENTO DE SENTENÇA - IMPUGNAÇÃO REJEITADA - ALEGAÇÃO DE EXCESSO DE EXECUÇÃO - JUROS MORATÓRIOS - TERMO INICIAL - TRÂNSITO EM JULGADO DA SENTENÇA - METODOLOGIA DE CÁLCULO CORRETA - INEXISTÊNCIA DE ERRO OU EXCESSO - MANUTENÇÃO DA DECISÃO AGRAVADA.
+- De acordo com a orientação consolidada no âmbito do Superior Tribunal de Justiça, os juros de mora sobre os honorários advocatícios sucumbenciais incidem a partir do trânsito em julgado da decisão que os arbitrou.
+- Examinada a metodologia empregada pelo exequente na apuração do débito, não se constataram vícios que comprometessem a regularidade dos cálculos apresentados.
+- Inexistente excesso de execução ou erro material, impõe-se a manutenção da decisão que rejeitou a impugnação ao cumprimento de sentença.
+Nas razões do recurso especial, a parte recorrente aponta divergência jurisprudencial na interpretação do art. 85, § 16, do Código de Processo Civil, ao argumento de que o Tribunal de Justiça do Distrito Federal e dos Territórios, o Tribunal de Justiça do Estado de São Paulo, o Tribunal de Justiça do Estado do Rio de Janeiro e o Superior Tribunal de Justiça entendem que o termo inicial dos juros de mora sobre os honorários sucumbenciais deve ser a data da intimação para o adimplemento da obrigação, e não a data do trânsito em julgado da sentença que os arbitrou, como decidiu o Tribunal de origem.
+Defende que os juros moratórios incidirão a partir do trânsito em julgado somente quando os honorários forem fixados em quantia certa, não incidindo o art. 85, § 16, do CPC nos casos em que o mencionado ônus sucumbencial for arbitrado em percentual sobre o valor da causa, como ocorreu no presente caso.
+Informa o excesso de execução no valor de R$ 20.374,84 (vinte mil trezentos e setenta e quatro reais e oitenta e quatro centavos), uma vez que a quantia devida perfaz o montante de R$ 34.967,09 (trinta e quatro mil novecentos e sessenta e sete reais e nove centavos), e não o valor apresentado pela parte exequente, no importe de R$ 55.341,93 (cinquenta e cinco mil trezentos e quarenta e um reais e noventa e três centavos), a qual computou os juros de mora desde a data do trânsito em julgado do título executivo judicial.
+Decorreu o prazo sem apresentação de contrarrazões (fl. 360).
+O recurso especial não foi admitido em virtude da incidência da Súmula 83 do STJ, porquanto o TJMG decidiu em conformidade com a jurisprudência do Superior Tribunal de Justiça (fls. 361-362).
+Nas razões do seu agravo, a parte recorrente aduz que, diversamente da decisão que não admitiu o recurso especial, o STJ possui jurisprudência formada em sentido diverso do entendimento do Tribunal de origem (fls. 366-390).
+Na impugnação ao agravo, a parte agravada alega a falta de prequestionamento da matéria objeto do recurso, sustenta a harmonia do entendimento do TJMG com a jurisprudência do Superior Tribunal de Justiça e invoca a incidência da Súmula 83 do STJ. Afirma a não existência de dissídio jurisprudencial e requer a aplicação da Súmula 7 do STJ (fls. 395-399).
+Assim delimitada a questão, satisfeitos os requisitos de admissibilidade do agravo, dele conheço, passando à análise do recurso especial.
+Originariamente, a execução de honorários sucumbenciais decorreu de condenação em 11% (onze por cento) sobre o valor da causa na ação anulatória. A parte exequente, ora agravada, deu início à fase de cumprimento de sentença aplicando juros de mora desde o trânsito em julgado da sentença (fls. 247-249).
+O Juízo de primeira instância rejeitou a impugnação ao cumprimento de sentença, por entender corretos os cálculos apresentados pela parte exequente (fls. 205-207).
+O Tribunal de origem negou provimento ao agravo de instrumento interposto pelos executados, ora agravantes, manteve o trânsito em julgado como termo inicial dos juros e afastou o alegado excesso de execução, nos seguintes termos (fls. 253-257):
+A matéria posta em análise se refere, essencialmente, à fixação do termo inicial dos juros de mora incidentes sobre a verba honorária sucumbencial. O Superior Tribunal de Justiça, em reiterada jurisprudência, firmou entendimento de que os juros moratórios sobre os honorários advocatícios sucumbenciais incidem a partir do trânsito em julgado da decisão que os arbitrou.
+No caso concreto, observa-se dos autos que a planilha de cálculo apresentada pela parte exequente indicou como marco inicial dos juros de mora exatamente a data do trânsito em julgado da sentença, em conformidade com a orientação consolidada pela Corte Superior, não se constatando, portanto, o alegado excesso de execução sustentado pela agravante.
+Ademais, examinando detidamente a metodologia adotada pelo agravado para a apuração do valor executado, não foi possível detectar qualquer erro material ou equívoco que invalidasse os cálculos apresentados. Pelo contrário, os valores foram corretamente atualizados, respeitando os critérios legais e jurisprudenciais aplicáveis, inclusive no que tange à incidência dos juros moratórios e correção monetária.
+Ressalto que a alegação de que os juros de mora apenas incidiriam a partir da intimação para pagamento, como sustentado pela agravante, não encontra respaldo na legislação nem na jurisprudência consolidada, devendo prevalecer o trânsito em julgado como marco inicial da contagem dos juros, nos moldes já acima expostos.
+Dessa forma, inexistindo vício na decisão recorrida e estando correta a fixação do termo inicial dos juros moratórios, bem como a metodologia dos cálculos apresentados, impõe-se a manutenção da decisão agravada.
+Ante o exposto, NEGO PROVIMENTO ao recurso, para manter incólume a decisão que rejeitou a impugnação ao cumprimento de sentença.
+A conclusão do Tribunal de origem está em consonância com o entendimento jurisprudencial adotado pelo Superior Tribunal de Justiça, no sentido de que, tendo a sentença sido proferida já na vigência do atual Código de Processo Civil (fls. 132-138), aplica-se o art. 85, § 16, do CPC, segundo o qual o termo inicial dos juros moratórios incidentes sobre os honorários sucumbenciais é a data do trânsito em julgado do título executivo, regra aplicável aos honorários fixados em percentual sobre o valor da causa, haja vista consubstanciarem obrigação de quantia certa.
+Nesse sentido, confiram-se os recentes julgados:
+DIREITO PROCESSUAL CIVIL. RECURSO ESPECIAL. CUMPRIMENTO DE SENTENÇA; HONORÁRIOS DE SUCUMBÊNCIA; JUROS DE MORA. TERMO INICIAL DOS JUROS E AUSÊNCIA DE VÍCIOS DE FUNDAMENTAÇÃO. RECURSO ESPECIAL CONHECIDO EM PARTE E DESPROVIDO.
+(..)
+2. A controvérsia trata do termo inicial e da incidência dos juros moratórios sobre o débito e sobre honorários fixados em 10% no cumprimento de sentença.
+3. A Corte de origem manteve a decisão de primeiro grau ao afirmar que os juros decorrem da lei (art. 395 do CC) e, para honorários sucumbenciais fixados em percentual, incidem desde o trânsito em julgado; embargos de declaração rejeitados por inexistência de vícios.
+(..)
+6. A conclusão de que os juros de mora em honorários sucumbenciais incidem a partir da exigibilidade com o trânsito em julgado está em harmonia com a orientação do STJ, incidindo a Súmula n. 83 do STJ, o que obsta, também, o exame do dissídio pela alínea c do art. 105, III, da CF.
+(..)
+(REsp n. 2.034.478/SP, relator Ministro João Otávio de Noronha, Quarta Turma, julgado em 16/3/2026, DJEN de 19/3/2026.)
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL - AUTOS DE AGRAVO DE INSTRUMENTO NA ORIGEM - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO APELO NOBRE. INSURGÊNCIA RECURSAL DO AGRAVADO.
+1. Conforme a jurisprudência deste STJ, o termo inicial dos juros de mora sobre honorários sucumbenciais é a data do trânsito em julgado da decisão que fixou a condenação. Incidência da Súmula 83/STJ.
+2. Agravo interno a que se nega provimento.
+(AgInt nos EDcl no REsp n. 1.938.802/SP, relator Ministro Luís Carlos Gambogi (Desembargador Convocado do TJMG), Quarta Turma, julgado em 30/3/2026, DJEN de 9/4/2026.)
+DIREITO PROCESSUAL CIVIL. AGRAVO INTERNO. EMBARGOS DE DIVERGÊNCIA. JURISPRUDÊNCIA CONSOLIDADA NO MESMO SENTIDO DO ACÓRDÃO EMBARGADO. SÚMULA 168 DO STJ. AGRAVO NÃO PROVIDO.
+(..)
+7. No caso em análise, o acórdão embargado está alinhado com a jurisprudência consolidada do STJ, que determina que os juros de mora incidentes sobre honorários sucumbenciais fixados com base no valor da causa têm como termo inicial a data do trânsito em julgado da decisão que os fixou.
+IV. Dispositivo
+8. Agravo interno não provido.
+(AgInt nos EAREsp n. 2.591.794/SP, relatora Ministra Daniela Teixeira, Segunda Seção, julgado em 11/3/2026, DJEN de 16/3/2026.)
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. CUMPRIMENTO DE SENTENÇA. HONORÁRIOS ADVOCATÍCIOS SUCUMBENCIAIS. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. ARTS. 489 E 1.022 DO CPC. VÍCIO NÃO CONFIGURADO. JUROS DE MORA. TERMO INICIAL. OBRIGAÇÃO FIXADA EM PERCENTUAL SOBRE BASE DE CÁLCULO ILÍQUIDA (PROVEITO ECONÔMICO). IRRELEVÂNCIA. INCIDÊNCIA A PARTIR DO TRÂNSITO EM JULGADO DA DECISÃO QUE FIXA OS HONORÁRIOS. PRECEDENTES. SÚMULA 83/STJ. AGRAVO CONHECIDO. RECURSO ESPECIAL NÃO CONHECIDO.
+(..)
+4. A prestação jurisdicional é considerada entregue quando o Tribunal de origem adota, de forma fundamentada, tese jurídica que, por ser incompatível com a da parte recorrente, implica a sua rejeição implícita. Conforme jurisprudência pacífica desta Corte, o termo inicial dos juros de mora sobre honorários sucumbenciais é a data do trânsito em julgado da decisão que os arbitrou, momento em que a obrigação se torna exigível e a mora se constitui, sendo irrelevante a posterior necessidade de liquidação para apurar o valor exato (quantum debeatur), uma vez que o direito ao recebimento (an debeatur) já está consolidado pela coisa julgada. A aplicação desse entendimento, em conformidade com precedentes, atrai o óbice da Súmula 83/STJ.
+5.Agravo conhecido. Recurso especial não conhecido.
+(AREsp n. 2.938.440/GO, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 10/11/2025, DJEN de 13/11/2025.)
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. HONORÁRIOS ADVOCATÍCIOS SUCUMBENCIAIS. TERMO INICIAL DOS JUROS DE MORA. ART. 85, §16, DO CPC. OMISSÃO INEXISTENTE. NEGATIVA DE PRESTAÇÃO JURISDICIONAL AFASTADA. VIOLAÇÃO CONFIGURADA. ACÓRDÃO RECORRIDO EM DESACORDO COM A JURISPRUDÊNCIA DO STJ. PROVIMENTO DO RECURSO ESPECIAL.
+(..)
+2. Os honorários advocatícios fixados em percentual sobre o valor da execução consubstanciam obrigação de quantia certa, atraindo a regra do art. 85, § 16, do CPC, segundo a qual os juros de mora incidem desde o trânsito em julgado da condenação.
+3. O entendimento adotado pelo Tribunal de origem, ao postergar o marco inicial dos juros para a intimação em sede de cumprimento de sentença, destoa da jurisprudência consolidada do Superior Tribunal de Justiça, que fixou a exigibilidade dos juros a partir da formação da coisa julgada (REsp 1.984.292/DF, Terceira Turma).
+4. Agravo conhecido para dar provimento ao recurso especial.
+(AREsp n. 2.825.595/SP, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 13/10/2025, DJEN de 17/10/2025.)
+Sendo assim, incide, no caso, o óbice da Súmula 83 do STJ.
+Em face do exposto, conheço do agravo em recurso especial para não conhecer do recurso especial.
+Intimem-se.
+EMENTA
