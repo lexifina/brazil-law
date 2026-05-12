@@ -1,0 +1,80 @@
+DECISÃO
+
+Recurso ordinário em habeas corpus. Crimes de trânsito.  Condenação com trânsito em julgado. Writ sucedâneo de revisão criminal. Inviabilidade. Dosimetria. Aplicação exclusiva da pena de multa. Supressão de instância. Negativa de seguimento.
+
+Trata-se de recurso ordinário em habeas corpus interposto por Cláudio Bertolino contra acórdão do Superior Tribunal de Justiça, que negou provimento ao agravo regimental no HC 1.021.227/SC (evento 61).
+
+O recorrente foi condenado às penas de 1 ano de detenção, em regime inicial semiaberto; 2 meses de suspensão do direito de dirigir veículo automotor; e pagamento de 10 dias-multa, pela prática dos crimes de trânsito previstos nos arts. 305 e 306 do Código de Trânsito Brasileiro (evento 28).
+
+No presente recurso ordinário, a defesa sustenta o cabimento do writ, ao argumento de que “o que importa é somente a demonstração de uma ilegalidade capaz de atingir o direito de locomoção, sendo irrelevante se o habeas corpus foi impetrado antes ou depois do trânsito em julgado do acórdão estadual”. Defende a aplicação exclusiva da pena de multa em relação ao delito tipificado no art. 305 do Código de Trânsito Brasileiro, nos termos do art. 59, I, do Código Penal. Requer o redimensionamento da pena (evento 70).
+
+O Ministério Público Federal opina pelo não conhecimento do recurso ordinário (evento 94).
+
+É o relatório. Decido.
+
+Extraio do ato apontado como coator:
+
+“DIREITO PROCESSUAL PENAL. AGRAVO REGIMENTAL. HABEAS CORPUS SUBSTITUTIVO DE REVISÃO CRIMINAL. INADMISSIBILIDADE. AUSÊNCIA DE FLAGRANTE ILEGALIDADE. AGRAVO REGIMENTAL NÃO PROVIDO.
+I. CASO EM EXAME
+1. Agravo regimental interposto contra decisão que não conheceu do habeas corpus substitutivo de revisão criminal, impetrado após o trânsito em julgado da condenação.
+2. A parte agravante sustenta, em síntese: (i) que o trânsito em julgado não deve obstar o conhecimento do habeas corpus substitutivo; (ii) que há contradição na jurisprudência que indefere o writ tanto quando impetrado dentro do prazo recursal quanto após seu decurso; (iii) que existe manifesta ilegalidade apta a autorizar a concessão da ordem de ofício; (iv) que a Lei nº 14.836/24 reforçou o poder-dever de concessão de ofício; e (v) que não há racionalidade em exigir prévia revisão criminal no Tribunal de origem.
+II. QUESTÃO EM DISCUSSÃO
+3. Há duas questões em discussão: (i) saber se o habeas corpus pode ser admitido como substitutivo de revisão criminal após o trânsito em julgado da condenação; e (ii) saber se há flagrante ilegalidade apta a justificar a concessão da ordem de ofício, nos termos do art. 654, § 2º, e do art. 647-A do Código de Processo Penal.
+III. RAZÕES DE DECIDIR
+4. O habeas corpus não se presta a substituir os instrumentos recursais ordinários previstos no ordenamento jurídico, sendo cabível apenas em situações excepcionais de flagrante ilegalidade, evidente e inequívoca, que dispense dilação probatória.
+5. A concessão de habeas corpus de ofício, nos termos do art. 647-A do Código de Processo Penal, pressupõe a demonstração de violação manifesta, objetiva e inequívoca ao ordenamento jurídico que implique violência ou coação à liberdade de locomoção, o que não se verifica no caso concreto.
+6. A pretensão de aplicação exclusiva de pena de multa em relação ao crime do art. 305 do Código de Trânsito Brasileiro demanda reexame aprofundado de provas e circunstâncias fáticas, não configurando ilegalidade evidente e objetiva.
+7. A revisão criminal é a via adequada para o reexame de matéria já decidida definitivamente, por possuir procedimento próprio, com contraditório amplo e possibilidade de produção de provas, enquanto o habeas corpus não comporta dilação probatória.
+8. Não há contradição entre os entendimentos jurisprudenciais que não conhecem do habeas corpus impetrado dentro do prazo recursal por ser substitutivo de recurso especial e os que não conhecem do writ impetrado após o prazo recursal por ser substitutivo de revisão criminal.
+9. A análise dos autos não revela a presença de coação ilegal flagrante que autorize a superação do óbice processual.
+IV. DISPOSITIVO E TESE
+10. Resultado do Julgamento: Agravo regimental não provido.”
+
+O Superior Tribunal de Justiça, em análise do writ, destacou a impossibilidade de utilização do habeas corpus como substituto de  revisão criminal (evento 61):
+
+“(...).
+Como consignado na decisão monocrática, o acórdão impugnado transitou em julgado para a defesa em 04/06/2025, ao passo que o presente writ foi impetrado apenas em 23/07/2025, ou seja, transcorrido mais de um mês após a preclusão máxima.
+Esta Corte Superior firmou entendimento no sentido de que não se admite habeas corpus em substituição à revisão criminal quando a condenação já transitou em julgado, ressalvadas apenas hipóteses excepcionais de flagrante ilegalidade apta a gerar constrangimento ilegal.
+Nesse sentido, precedentes desta Quinta Turma:
+(...)
+A agravante sustenta que haveria manifesta ilegalidade capaz de justificar a concessão da ordem de ofício, nos termos do art. 654, § 2º, do Código de Processo Penal, e do novel art. 647-A do mesmo diploma legal.
+Contudo, a análise detida dos autos não revela a presença de coação ilegal flagrante que autorize a superação do óbice processual.
+A pretensão deduzida pela defesa – aplicação exclusiva de pena de multa em relação ao crime do art. 305 do Código de Trânsito Brasileiro – demanda reexame aprofundado de provas e circunstâncias fáticas, matéria que, se lastreada nas hipóteses específicas do art. 621 do CPP, poderia ser submetida à revisão criminal, não se configurando, porém, ilegalidade evidente e objetiva.
+Como registrado na decisão agravada, "cotejando as alegações deduzidas na inicial, não verifico a presença de coação ilegal que desafie a concessão da ordem, de ofício, nos termos do § 2º do art. 654 do Código de Processo Penal."
+A agravante aponta suposta contradição entre os entendimentos que: (a) não conhecem do habeas corpus impetrado dentro do prazo recursal por ser substitutivo de recurso especial; e (b) não conhecem do writ impetrado após o prazo recursal por ser substitutivo de revisão criminal.
+Não há, contudo, qualquer incompatibilidade lógica entre essas orientações.
+O habeas corpus, como remédio constitucional voltado à proteção da liberdade de locomoção, não se presta a substituir os instrumentos recursais ordinários previstos no ordenamento jurídico. Seu cabimento, em caráter excepcional, pressupõe a demonstração de ilegalidade manifesta, evidente e inequívoca, que dispense dilação probatória.
+Assim, quando impetrado dentro do prazo recursal, deve a parte valer-se do recurso adequado (especial ou ordinário). Quando impetrado após o trânsito em julgado, a via própria é a revisão criminal, salvo situações excepcionais de flagrante ilegalidade, que não se verificam no caso concreto.
+A agravante invoca a recente Lei nº 14.836/24, que inseriu o art. 647-A no Código de Processo Penal, como fundamento para a concessão da ordem de ofício.
+De fato, o referido dispositivo estabelece:
+(...)
+Todavia, a concessão de ofício pressupõe, necessariamente, a verificação de "violação ao ordenamento jurídico" que implique "violência ou coação" à liberdade de locomoção. Não basta a mera alegação de ilegalidade; é indispensável que esta seja manifesta, objetiva e inequívoca. No caso dos autos, como já consignado, não se vislumbra tal situação excepcional. Por fim, quanto ao argumento de que não haveria racionalidade em exigir prévia revisão criminal no Tribunal de origem, registro que o sistema recursal brasileiro estabelece uma ordem lógica de competências e vias processuais que deve ser respeitada.
+A revisão criminal possui procedimento próprio, com contraditório amplo e possibilidade de produção de provas, sendo a via adequada para o reexame de matéria já decidida definitivamente. O habeas corpus, por sua natureza, não comporta dilação probatória.
+Ademais, o art. 105, inciso I, alínea "c", da Constituição Federal, estabelece que compete ao Superior Tribunal de Justiça processar e julgar, originariamente, "os habeas corpus, quando o coator ou paciente for [...] Ministro de Estado, os Comandantes da Marinha, do Exército e da Aeronáutica, ressalvada a competência da Justiça Eleitoral."
+Já o inciso II, alínea "a", prevê a competência para julgar "os habeas corpus decididos em única ou última instância pelos Tribunais Regionais Federais ou pelos tribunais dos Estados, do Distrito Federal e Territórios, quando a decisão for denegatória."
+Destarte, a competência originária desta Corte para revisões criminais está prevista no art. 105, inciso I, alínea "e": "as revisões criminais e as ações rescisórias de seus julgados". Logo, tratando-se de revisão de julgado de Tribunal Estadual, a competência é do próprio Tribunal a quo, e não desta Corte Superior.
+Assim, a matéria restou devidamente debatida na decisão recorrida, de forma que não há que se falar em possível reversão do antes julgado.”
+
+Presente o contexto, assinalo que o ato indigitado como coator  não diverge da jurisprudência desta Suprema Corte no sentido da inviabilidade, como regra, de utilização do writ como sucedâneo recursal ou revisão criminal (HC 233.726-AgR, Rel. Min. Cristiano Zanin, Primeira Turma, DJe 26.02.2024; HC 235.844-AgR, Rel. Min. Luiz Fux, Primeira Turma, DJe 22.02.2024).
+
+Na mesma linha, destaco os seguintes precedentes:
+
+“DIREITO PROCESSUAL PENAL. AGRAVO REGIMENTAL EM HABEAS CORPUS. NEGATIVA DE SEGUIMENTO. IMPOSSIBILIDADE DE UTILIZAÇÃO DO HABEAS CORPUS COMO SUCEDÂNEO RECURSAL OU DE REVISÃO CRIMINAL. COLIDÊNCIA DE DEFESAS. INOCORRÊNCIA. DOSIMETRIA DA PENA. INEXISTÊNCIA DE ILEGALIDADE MANIFESTA. AGRAVO REGIMENTAL NÃO PROVIDO. I. CASO EM EXAME 1. Agravo regimental interposto contra decisão que negou seguimento ao habeas corpus, em razão da impossibilidade de concessão da ordem de ofício e da inadmissibilidade do habeas corpus como sucedâneo de recurso próprio ou de revisão criminal. O agravante sustenta a existência de constrangimento ilegal, alegando a nulidade do processo em razão da colidência de defesas e, ainda, a necessidade de fixação do regime semiaberto. Requer a anulação do processo e, subsidiariamente, a fixação de regime menos gravoso. II. QUESTÕES EM DISCUSSÃO 1. Há duas questões em discussão: (i) saber se o habeas corpus pode ser utilizado como sucedâneo de recurso próprio ou revisão criminal; (ii) saber se há manifesta ilegalidade na condução do processo ou na dosimetria da pena que justifique a concessão da ordem de ofício. III. RAZÕES DE DECIDIR 1. A jurisprudência do Supremo Tribunal Federal é pacífica no sentido de que o habeas corpus não pode ser utilizado como substituto de recurso próprio ou de revisão criminal, salvo em caso de manifesta ilegalidade, abuso de poder ou teratologia da decisão impugnada. 2. Afasta-se a alegação de violação à ampla defesa quando não demonstrada a colidência de interesses e comprovada a individualização das teses defensivas. 3. A revisão da dosimetria da pena demanda o revolvimento do conjunto fático-probatório, providência incompatível com a via estreita do habeas corpus. 4. No caso concreto, as instâncias ordinárias avaliaram os elementos probatórios e fundamentaram adequadamente a fixação do regime fechado, inexistindo ilegalidade flagrante a justificar a concessão da ordem de ofício. IV. DISPOSITIVO E TESE 5. Agravo regimental não provido. Dispositivos relevantes citados: CF/1988, art. 102, I, i; CP, arts. 33, §§ 2º e 3º, e 59; RISTF, art. 21, § 1º. Jurisprudência relevante citada: STF, HC 133.648 AgR, Rel. Min. Rosa Weber, Primeira Turma, DJe 07.06.2016; STF, HC 219.178 AgR, Rel. Min. Gilmar Mendes, Segunda Turma, DJe 20.04.2023; STF, HC 142.583 AgR, Rel. Min. Roberto Barroso, Primeira Turma, DJe 17.06.2019; STF, HC 135.560 AgR, Rel. Min. Rosa Weber, Primeira Turma, j. 21.10.2016; STF, HC 91332, Rel. Min. Eros Grau, Segunda Turma, DJe 24.04.2009.” (destaquei). (HC 259.412 AgR/MG, Rel. Min. Edson Fachin, Segunda Turma, DJe 05.9.2025).
+
+“AGRAVO REGIMENTAL EM HABEAS CORPUS. CONDENAÇÃO JÁ TRANSITADA EM JULGADO. HABEAS CORPUS UTILIZADO COMO SUCEDÂNEO DE REVISÃO CRIMINAL. PRETENDIDA REVISÃO DO REGIME DE CUMPRIMENTO DE PENA. RAZÕES NÃO APRECIADAS PELO SUPERIOR TRIBUNAL DE JUSTIÇA. INADMISSÍVEL SUPRESSÃO DE INSTÂNCIA. HABEAS CORPUS NÃO CONHECIDO. 1. Não é possível a utilização da ação de habeas corpus como sucedâneo de revisão criminal. 2. O pleito recursal (revisão do regime de cumprimento de pena) não foi apreciado pelo Superior Tribunal de Justiça. 3. É inviável o habeas corpus, quando as razões apresentadas pela parte impetrante não houverem sido analisadas pelo Tribunal apontado como coator, por caracterizar-se inadmissível supressão de instância. 4. Constitui ônus exclusivo da parte impetrante instruir a petição de habeas corpus com os documentos necessários ao exame da pretensão nela deduzida. 5. Agravo regimental desprovido.” (destaquei). (HC 201.824 AgR/SP, Rel. Min. Nunes Marques, Segunda Turma, DJe 30.9.2021).
+
+“AGRAVO INTERNO NO HABEAS CORPUS. PENAL E PROCESSUAL PENAL. CRIME DE TRÁFICO ILÍCITO DE ENTORPECENTES. ARTIGO 33 DA LEI Nº 11.343/2006. AUSÊNCIA DE EXAME COLEGIADO NA INSTÂNCIA PRECEDENTE. INVIABILIDADE DO WRIT PARA REANALISAR PRESSUPOSTOS DE ADMISSIBILIDADE DE RECURSOS E AÇÕES DA COMPETÊNCIA DE OUTROS TRIBUNAIS. IMPOSSIBILIDADE DE UTILIZAÇÃO DO HABEAS CORPUS COMO SUCEDÂNEO DE RECURSO OU REVISÃO CRIMINAL. REITERAÇÃO DAS RAZÕES. AGRAVO INTERNO DESPROVIDO. 1. O objeto da tutela em habeas corpus é a liberdade de locomoção quando ameaçada por ilegalidade ou abuso de poder (CF, artigo 5º, LXVIII), não cabendo sua utilização quando indissociável do reexame de pressupostos de admissibilidade de recursos ou ações de outros tribunais. 2. In casu, o paciente foi condenado à pena de 04 (quatro) anos e 02 (dois) meses de reclusão, em regime inicial semiaberto, pela prática do crime previsto no artigo 33 da Lei nº 11.343/2006. 3. O mandamus é ação inadequada para impugnação de decisum monocrático proferido pelo Superior Tribunal de Justiça. Precedentes: HC 218.896-AgR, Primeira Turma, Rel. Min. Alexandre de Moraes, DJe de 16/9/2022; HC 229.633-AgR, Segunda Turma, Rel. Min. Nunes Marques, DJe de 13/9/2023. 4. O writ é impassível de ser manejado como sucedâneo de recurso ou revisão criminal. 5. A reiteração dos argumentos trazidos pelo agravante na petição inicial da impetração é insuscetível de modificar a decisão agravada. Precedentes: HC 136.071-AgR, Segunda Turma, Rel. Min. Ricardo Lewandowski, DJe de 9/5/2017; HC 122.904-AgR, Primeira Turma, Rel. Min. Edson Fachin, DJe de 17/5/2016; RHC 124.487-AgR, Primeira Turma, Rel. Min. Roberto Barroso, DJe de 1º/7/2015. 6. Agravo interno DESPROVIDO.”(destaquei). (HC 257.638 AgR/SP, Rel. Min. Luiz Fux, Primeira Turma, DJe 08.8.2025).
+
+Em acréscimo, anoto que a matéria trazida nestes autos - aplicação exclusiva de pena de multa em relação ao crime do art. 305 do Código de Trânsito Brasileiro - não foi debatida no acórdão impugnado ao argumento de que “demanda reexame aprofundado de provas e circunstâncias fáticas, matéria que, se lastreada nas hipóteses específicas do art. 621 do CPP, poderia ser submetida à revisão criminal, não se configurando, porém, ilegalidade evidente e objetiva”.
+
+Portanto, à míngua de pronunciamento judicial conclusivo pela Corte Superior quanto às teses defensivas, inviável a análise do writ pelo Supremo Tribunal Federal, sob pena de indevida supressão de instância. Cito, nessa linha, precedentes: HC 235.221-AgR, Rel. Min. Cristiano Zanin, Primeira Turma, DJe 09.02.2024; HC 236.138-AgR, Rel. Min. Alexandre de Moraes, Primeira Turma, DJe 22.02.2024; HC 235.861-AgR, Rel. Min. Luiz Fux, Primeira Turma, DJe 22.02.2024; e RHC 230.594-AgR, Rel. Min. Nunes Marques, Segunda Turma, DJe 23.02.2024.
+
+Ante o exposto, nego seguimento ao presente recurso ordinário em habeas corpus (art. 21, § 1º, RISTF).
+
+Publique-se.
+
+Brasília, 12 de maio de 2026.
+
+Ministro FLÁVIO DINO
+Relator
+Documento assinado digitalmente
