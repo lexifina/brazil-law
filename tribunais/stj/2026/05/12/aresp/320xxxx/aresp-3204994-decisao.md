@@ -1,0 +1,31 @@
+DECISÃO
+WAGNER ELIAS SILVA agrava de decisão que inadmitiu o recurso especial, interposto com fundamento no art. 105, III, "a", da Constituição Federal, contra acórdão do Tribunal de Justiça do Estado de Minas Gerais na Apelação Criminal n. 1.0000.25.096512-6/001.
+O agravante foi condenado a 5 anos de reclusão mais multa, no regime inicial aberto, pelo crime previsto no art. 33, caput, da Lei n. 11.343/2006.
+Nas razões do recurso especial, a defesa alega violação dos arts. 33, § 4º, da Lei de Drogas.
+A defesa pleiteia a incidência da minorante do tráfico privilegiado.
+O recurso foi inadmitido em juízo prévio de admissibilidade realizado pelo Tribunal local, o que motivou a interposição deste agravo.
+O Ministério Público Federal manifestou-se pelo não provimento do recurso.
+Decido.
+O agravo é tempestivo e infirmou os fundamentos da decisão agravada, motivo pelo qual passo à análise do recurso especial.
+I. Minorante prevista no art. 33, § 4º, da Lei n. 11.343/2006
+Para a aplicação da minorante em comento, é exigido, além da primariedade e dos bons antecedentes do acusado, que este não integre organização criminosa e nem se dedique a atividades delituosas.
+Sobre a matéria posta em discussão, cumpre destacar que a razão de ser da causa especial de diminuição de pena prevista no art. 33, § 4º, da Lei n. 11.343/2006 é justamente punir com menor rigor o pequeno traficante, ou seja, aquele indivíduo que não faz do tráfico de drogas o seu meio de vida; antes, ao cometer um fato isolado, acaba incidindo na conduta típica prevista no art. 33 da mencionada lei federal.
+A propósito, confira-se o seguinte trecho de voto deste Superior Tribunal: "A mens legis da causa de diminuição de pena seria alcançar os condenados neófitos na infausta prática delituosa, configurada pela pequena quantidade de droga apreendida, e serem eles possuidores dos requisitos necessários estabelecidos no art. 33, § 4º, da Lei nº 11.343/06." (AgRg no REsp n. 1.389.632/RS, Rel. Ministro Moura Ribeiro, 5ª T., DJe 14/4/2014).
+No caso, o Tribunal de origem proveu o recurso do Ministério Público para afastar a minorante prevista no art. 33, § 4º, da Lei n. 11.343/2006, pelos seguintes fundamentos (fls. 653-654, grifei):
+Aplicando tais comandos ao presente caso, tenho que existem provas que WAGNER estava associado à facção criminosa do Comando Vermelho e se dedicava às atividades criminosas.
+O Policial Militar Henrique Damião reafirmou em juízo que a droga estava toda etiquetada, conforme fotos do registro da ocorrência, confirmando sua vinculação com a facção criminosa do Comando Vermelho, especificando que a droga está etiquetada como "CV", que é da facção, BR é o bairro Brasilinha, 2M é o bairro DoisMil e STN é o bairro Santo Antônio; Que essa droga circula nos três bairros porque ela é organizada. Disse ainda, que os três réus não têm vínculo com a cidade de Pirapetinga, que são do Rio de Janeiro e foram para aquele município a mando da facção para a difusão do tráfico.
+Extrai-se das imagens de ordem 03/04 que a droga comercializada pelos réus estava toda etiquetada fazendo referência à facção, bem como aos locais que seriam destinadas.
+Somando-se à Comunicação de Serviço (ordem 05) no sentido de que que se informar que WAGNER, se encontrava na cidade Pirapetinga desde o período do carnaval juntamente de outras lideranças da facção do comando vermelho, é suspeito também na participação de dois homicídios ocorridos recentemente em Estrela Dalva/MG e Pirapetinha/MG ambos os crimes ligados a guerra do tráfico de drogas que vem ocorrendo no município.
+Ainda WAGNER é réu em um homicídio cuja motivação seria porque a vítima, também envolvida com o tráfico de drogas, queria mudar de facção.
+Para além disso, WAGNER confirmou que se mudou para a cidade porque se desentendeu com parentes no Rio de Janeiro e ainda porque teria conhecido uma moça na internet, chamada Jéssica, que é de Pirapetinga/MG, que inclusive estava residindo com ela. E ainda, que estava vivendo de uma renda oriunda de uma herança, não exercendo atividade laborativa lícita no momento. Portanto, a versão apresentada pelo réu não tem consistência, é vaga e lacônica, não tendo comprovado nenhuma delas.
+Lado outro, a versão dos policiais militares de que integra a facção criminosa do Comando Vermelho e se dedica às atividades criminosas e que estaria na cidade para difundir o tráfico de drogas é roborada pela apreensão das drogas etiquetadas, pelo envolvimento de Wagner em um homicídio com motivação relacionada ao tráfico e à referida organização e ainda porque teria chegado na cidade sem qualquer vínculo com o local ou mesmo atividade laborativa lícita.
+Destarte, tenho que WAGNER integrava uma facção criminosa e se dedicava às atividades criminosas.
+Assim, "dedicar-se à atividade criminosa" significa o caráter habitual com que o agente procede no exercício de uma específica e ilegal atividade: a criminalidade.
+A dedicação à atividade criminosa, na espécie, é aferida por elementos de provas contextualizados, do contrário, apenas se exigiria a primariedade e bons antecedentes para a concessão do benefício em comento. Atente-se que se trata de "dedicação" à atividade criminosa e não a taxação como "criminoso".
+Conforme visto, a Corte local - dentro do seu livre convencimento motivado - apontou elementos concretos dos autos a evidenciar que as circunstâncias em que perpetrado o delito em questão não se compatibilizariam com a posição de um pequeno traficante ou de quem não se dedica, com certa frequência e anterioridade, a atividades delituosas, notadamente ao tráfico de drogas. Para tanto, salientou a instância de origem que o réu integra a facção criminosa Comando Vermelho, conforme prova testemunhal.
+Assim, para entender de modo diverso, acolhendo a alegação de que o réu não integra organização criminosa, seria necessário o revolvimento do conjunto fático-probatório amealhado durante a instrução criminal, providência essa que é vedada em recurso especial, consoante o disposto na Súmula n. 7 do STJ.
+Portanto, fica afastado o apontado constrangimento ilegal decorrente da não incidência do art. 33, § 4º, da Lei n. 11.343/2006.
+II. Dispositivo
+À vista do exposto, conheço do agravo para negar provimento ao recurso especial.
+Publique-se e intimem-se.
+EMENTA
