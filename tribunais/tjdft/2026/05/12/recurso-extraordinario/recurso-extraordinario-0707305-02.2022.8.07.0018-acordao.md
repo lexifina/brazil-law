@@ -1,0 +1,83 @@
+Poder Judiciário da UniãoTRIBUNAL DE JUSTIÇA DO DISTRITO FEDERAL E DOS TERRITÓRIOS
+
+Órgão
+8ª Turma Cível
+Processo N.RECURSO EXTRAORDINÁRIO 0707305-02.2022.8.07.0018RECORRENTE(S)MAT-TEX COMERCIAL EIRELIRECORRIDO(S)DISTRITO FEDERALRelatorDesembargador EUSTAQUIO DE CASTRO
+ Acórdão Nº2124173
+
+EMENTA
+
+ REJULGAMENTO. APELAÇÃO. REMESSA NECESSÁRIA. MANDADO DE SEGURANÇA. DIREITO CONSTITUCIONAL. TRIBUTÁRIO. DIFERENCIAL DE ALÍQUOTA DO IMPOSTO SOBRE OPERAÇÕES RELATIVAS À CIRCULAÇÃO DE MERCADORIAS E SOBRE PRESTAÇÕES DE SERVIÇOS DE TRANSPORTE INTERESTADUAL – DIFAL/ICMS. TEMA 1266 DO STF. LEI COMPLEMENTAR 190/2022. PRINCÍPIO DA ANTERIORIDADE NONAGESIMAL E ANUAL. MODULAÇÃO DE EFEITOS. CABIMENTO.
+
+1. O Acórdão em rejulgamento encontra-se em dissonância com o entendimento firmado pelo Supremo Tribunal Federal no RE 1.426.271/CE (Tema 1.266).
+
+2. Em se tratando de ação ajuizada em data anterior ao julgamento da ADI 7066 (29/11/2023) e inexistindo o recolhimento do tributo no período, aplica-se a modulação de efeitos determinada no RE 1.426.271/CE (Tema 1.266), sendo inexigível o Diferencial de Alíquota do Imposto sobre Operações Relativas à Circulação de Mercadorias e sobre Prestações de Serviços de Transporte Interestadual, Intermunicipal e de Comunicação (DIFAL/ICMS) no ano de 2022.
+
+3. Reexame necessário e apelo do Distrito Federal conhecidos e desprovidos, em rejulgamento. Sentença mantida.
+
+ACÓRDÃO
+
+Acordam os Senhores Desembargadores do(a) 8ª Turma Cível do Tribunal de Justiça do Distrito Federal e dos Territórios, EUSTAQUIO DE CASTRO - Relator, ROBSON TEIXEIRA DE FREITAS - 1º Vogal e CARMEN BITTENCOURT - 2º Vogal, sob a Presidência do Senhor Desembargador ROBSON TEIXEIRA DE FREITAS, em proferir a seguinte decisão: Reexame necessário e apelo do Distrito Federal conhecidos e desprovidos, em rejulgamento. Sentença mantida. Unânime, de acordo com a ata do julgamento e notas taquigráficas.
+
+Brasília (DF), 20 de maio de 2026
+
+Desembargador EUSTAQUIO DE CASTRORelator
+
+RELATÓRIO
+
+Trata-se de rejulgamento de Remessa Necessária e recurso de Apelação interposto por DISTRITO FEDERAL contra Sentença proferida pelo juízo da Sétima Vara da Fazenda Pública do Distrito Federal, nos autos do Mandado de Segurança ajuizado por MAT-TEX COMERCIAL EIRELI, o qual concedeu a Segurança para afastar a cobrança de DIFAL entre 01 de janeiro e 31 de dezembro de 2022 e permitir à impetrante a compensação/restituição dos valores indevidamente recolhidos no aludido exercício fiscal.
+
+No Acórdão prolatado ao ID 42023308, esta egrégia Oitava Turma Cível manifestou-se nos seguintes termos:
+
+"APELAÇÃO. REMESSA NECESSÁRIA. MANDADO DE SEGURANÇA. DIREITO CONSTITUCIONAL. TRIBUTÁRIO. DIFERENCIAL DE ALÍQUOTA DO IMPOSTO SOBRE OPERAÇÕES RELATIVAS À CIRCULAÇÃO DE MERCADORIAS E SOBRE PRESTAÇÕES DE SERVIÇOS DE TRANSPORTE INTERESTADUAL – DIFAL/ICMS. LEI COMPLEMENTAR ESPECÍFICA. AÇÃO DIRETA DE INCONSTITUCIONALIDADE 5.469 E RECURSO EXTRAORDINÁRIO 1.287.019. MODULAÇÃO DE EFEITOS. LEI COMPLEMENTAR 190/2022. INEXISTÊNCIA DE TRIBUTO NOVO. INEXISTÊNCIA DE MAJORAÇÃO DE ALÍQUOTA. 1. O Supremo Tribunal Federal, no julgamento da Ação Direta de Inconstitucionalidade 5.469 e do Recurso Extraordinário 1.287.019, reconheceu a inconstitucionalidade da cobrança, em operação interestadual envolvendo mercadoria destinada a consumidor final não contribuinte, do diferencial de alíquota do Imposto sobre Operações relativas à Circulação de Mercadorias e sobre Prestações de Serviços de Transporte Interestadual - ICMS, prevista na legislação estadual e no convênio 93/15, por invasão de campo próprio de Lei Complementar Federal. Os efeitos do julgado foram devidamente modulados, a fim de preservar o equilíbrio  financeiro estatal, além de preservar a Segurança Jurídica. 2. Editou-se a Lei Complementar nº. 190/2022, em 04 de janeiro de 2022, a qual alterou a Lei Complementar nº. 87/1996 (Lei Kandir) e regulamentou a cobrança do Imposto sobre Operações relativas à Circulação de Mercadorias e sobre Prestações de Serviços de Transporte Interestadual e Intermunicipal e de Comunicação (ICMS) nas operações e prestações interestaduais destinadas a consumidor final não contribuinte do imposto, objetivando o estabelecimento de regras gerais, consoante orientação da Suprema Corte. 3. O diferencial de alíquota foi previsto desde a promulgação da Emenda Constitucional n. 87/2015 e cobrado pelos Estados e Distrito Federal na forma do Convênio ICMS nº. 93/2015, o qual foi declarado inválido pela Corte Superior, com a consequente modulação dos efeitos. Não há instituição de tributo novo ou sequer sua majoração, descabendo qualquer aplicação do Princípio da Anterioridade Anual ou Nonagesimal. 4. Quanto ao artigo 3º da Lei Complementar nº. 190/2022, tramitam atualmente no Supremo Tribunal Federal três Ações Diretas de Inconstitucionalidade (ADIs 7066, 7070 e 7078)  que questionam a aplicação ou não do Princípio da Anterioridade nonagesimal e anual previsto no artigo 150, inciso III, alínea “b” e “c” da Constituição Federal, de modo que a questão será efetivamente resolvida em controle direto pela Corte Superior. Nesta seara, cabe apenas a compatibilização e interpretação do ordenamento jurídico vigente, de modo que não é possível a aplicação de dispositivo de Lei Complementar em detrimento da própria Constituição Federal. 5. Como a Lei Complementar nº. 190/2022 entrou em vigor apenas na data da sua publicação, a qual ocorreu em 05 de janeiro de 2022, há um vácuo legislativo de regulamentação entre os dias 01 e 04 de janeiro de 2022, de modo que o tributo não poderá ser exigido somente neste período. 6. Apelação e remessa necessária conhecidas e parcialmente providas. Sentença reformada."
+
+O feito permaneceu sobrestado aguardando o pronunciamento de mérito no RE 1.426.271/CE (Tema 1.266).
+
+Os autos foram devolvidos a esse órgão julgador para exercício do juízo de retratação ou para refutá-lo, nos termos do leading case (ID 79862285).
+
+É o relatório.
+
+VOTOS
+
+O Senhor Desembargador EUSTAQUIO DE CASTRO - Relator
+
+1. Resumo da Lide
+
+Trata-se de rejulgamento de Remessa Necessária e recurso de Apelação interposto por DISTRITO FEDERAL contra Sentença proferida pelo juízo da Sétima Vara da Fazenda Pública do Distrito Federal, nos autos do Mandado de Segurança ajuizado por MAT-TEX COMERCIAL EIRELI, o qual concedeu a Segurança para afastar a cobrança de DIFAL entre 01 de janeiro e 31 de dezembro de 2022 e permitir à impetrante a compensação/restituição dos valores indevidamente recolhidos no aludido exercício fiscal.
+
+No Acórdão prolatado ao ID 42023308, esta egrégia Oitava Turma Cível manifestou-se nos seguintes termos:
+
+"APELAÇÃO. REMESSA NECESSÁRIA. MANDADO DE SEGURANÇA. DIREITO CONSTITUCIONAL. TRIBUTÁRIO. DIFERENCIAL DE ALÍQUOTA DO IMPOSTO SOBRE OPERAÇÕES RELATIVAS À CIRCULAÇÃO DE MERCADORIAS E SOBRE PRESTAÇÕES DE SERVIÇOS DE TRANSPORTE INTERESTADUAL – DIFAL/ICMS. LEI COMPLEMENTAR ESPECÍFICA. AÇÃO DIRETA DE INCONSTITUCIONALIDADE 5.469 E RECURSO EXTRAORDINÁRIO 1.287.019. MODULAÇÃO DE EFEITOS. LEI COMPLEMENTAR 190/2022. INEXISTÊNCIA DE TRIBUTO NOVO. INEXISTÊNCIA DE MAJORAÇÃO DE ALÍQUOTA. 1. O Supremo Tribunal Federal, no julgamento da Ação Direta de Inconstitucionalidade 5.469 e do Recurso Extraordinário 1.287.019, reconheceu a inconstitucionalidade da cobrança, em operação interestadual envolvendo mercadoria destinada a consumidor final não contribuinte, do diferencial de alíquota do Imposto sobre Operações relativas à Circulação de Mercadorias e sobre Prestações de Serviços de Transporte Interestadual - ICMS, prevista na legislação estadual e no convênio 93/15, por invasão de campo próprio de Lei Complementar Federal. Os efeitos do julgado foram devidamente modulados, a fim de preservar o equilíbrio  financeiro estatal, além de preservar a Segurança Jurídica. 2. Editou-se a Lei Complementar nº. 190/2022, em 04 de janeiro de 2022, a qual alterou a Lei Complementar nº. 87/1996 (Lei Kandir) e regulamentou a cobrança do Imposto sobre Operações relativas à Circulação de Mercadorias e sobre Prestações de Serviços de Transporte Interestadual e Intermunicipal e de Comunicação (ICMS) nas operações e prestações interestaduais destinadas a consumidor final não contribuinte do imposto, objetivando o estabelecimento de regras gerais, consoante orientação da Suprema Corte. 3. O diferencial de alíquota foi previsto desde a promulgação da Emenda Constitucional n. 87/2015 e cobrado pelos Estados e Distrito Federal na forma do Convênio ICMS nº. 93/2015, o qual foi declarado inválido pela Corte Superior, com a consequente modulação dos efeitos. Não há instituição de tributo novo ou sequer sua majoração, descabendo qualquer aplicação do Princípio da Anterioridade Anual ou Nonagesimal. 4. Quanto ao artigo 3º da Lei Complementar nº. 190/2022, tramitam atualmente no Supremo Tribunal Federal três Ações Diretas de Inconstitucionalidade (ADIs 7066, 7070 e 7078)  que questionam a aplicação ou não do Princípio da Anterioridade nonagesimal e anual previsto no artigo 150, inciso III, alínea “b” e “c” da Constituição Federal, de modo que a questão será efetivamente resolvida em controle direto pela Corte Superior. Nesta seara, cabe apenas a compatibilização e interpretação do ordenamento jurídico vigente, de modo que não é possível a aplicação de dispositivo de Lei Complementar em detrimento da própria Constituição Federal. 5. Como a Lei Complementar nº. 190/2022 entrou em vigor apenas na data da sua publicação, a qual ocorreu em 05 de janeiro de 2022, há um vácuo legislativo de regulamentação entre os dias 01 e 04 de janeiro de 2022, de modo que o tributo não poderá ser exigido somente neste período. 6. Apelação e remessa necessária conhecidas e parcialmente providas. Sentença reformada."
+
+O feito permaneceu sobrestado aguardando o pronunciamento de mérito no RE 1.426.271/CE (Tema 1.266).
+
+Os autos foram devolvidos a esse órgão julgador para exercício do juízo de retratação ou para refutá-lo, nos termos do leading case (ID 79862285).
+
+2. Mérito Recursal
+
+O Acórdão encontra-se em dissonância com o entendimento firmado pelo Supremo Tribunal Federal no RE 1.426.271/CE (Tema 1.266). Explico.
+
+O Ministro Relator Alexandre de Moraes deu parcial provimento ao Recurso Extraordinário "a fim de considerar válida a cobrança do Diferencial de Alíquotas do ICMS em operações interestaduais de bens e serviços a consumidor final não contribuinte do imposto a partir de 04 de abril de 2022, conforme art. 3º da Lei Complementar 190/2022, reconhecendo-se a constitucionalidade das leis estaduais e distritais que regulamentaram a cobrança do DIFAL editadas após a EC 87/2015 e antes da referida Lei Complementar, produzindo seus efeitos a partir da vigência desta naquilo que for compatível."
+
+Após divergência apresentada pelo Ministro Flávio Fino, o julgamento formou maioria para acompanhamento do voto do Ministro Relator Alexandre de Moraes no mérito e modulação dos efeitos nos termos da divergência, em atenção aos princípios da segurança jurídica e da proteção da confiança legítima dos contribuintes.
+
+Assim, o julgamento restou ementado nos seguintes termos:
+
+"EMENTA: RECURSO EXTRAORDINÁRIO. TEMA 1266 DA REPERCUSSÃO GERAL. CONSTITUCIONAL E TRIBUTÁRIO. ICMS. COBRANÇA DO DIFERENCIAL DE ALÍQUOTA - DIFAL NAS OPERAÇÕES INTERESTADUAIS QUE DESTINEM BENS E SERVIÇOS A CONSUMIDOR FINAL NÃO CONTRIBUINTE DO IMPOSTO. EMENDA CONSTITUCIONAL 87/2015. LEI COMPLEMENTAR 190/2022. INEXISTÊNCIA DE MODIFICAÇÃO DA HIPÓTESE DE INCIDÊNCIA OU DA BASE DE CÁLCULO. PRINCÍPIO DA ANTERIORIDADE. LIMITAÇÃO AO PODER DE TRIBUTAR CIRCUNSCRITA ÀS HIPÓTESES DE INSITUIÇÃO OU MAJORAÇÃO DE TRIBUTOS. PRECEDENTES DESTE SUPREMO TRIBUNAL FEDERAL. ART. 3º DA LC 190/2022. REMISSÃO DIRETA AO PRECEITO INSCRITO NO ART. 150, III, B, CF. VACATIO LEGIS ESTABELECIDA PELO LEGISLADOR. CONSTITUCIONALIDADE. VALIDADE DAS LEIS ESTADUAIS E DISTRITAIS POSTERIORES À EC 87/2015. PRODUÇÃO DE EFEITOS A PARTIR DA LC 190/2022. MODULAÇÃO DOS EFEITOS DO JULGADO. 1. A EC 87/2015 e a LC 190/2022 estenderam a sistemática de aplicação do diferencial de alíquota do ICMS em operações e prestações que destinem bens e serviços a consumidor final contribuinte para as operações destinadas a não contribuintes, atribuindo capacidade tributária ativa a outro ente político, sem modificar a hipótese de incidência ou a base de cálculo do tributo. 2. A ampliação da técnica fiscal não afetou a esfera jurídica do contribuinte, limitando-se a fracionar o produto da arrecadação antes devido integralmente ao Estado produtor (alíquota interna) em duas parcelas devidas a entes diversos. Portanto, não corresponde à instituição nem majoração de tributo e, por isso mesmo, não atrai a incidência das regras relativas à anterioridade (CF, art. 150, III, b e c). 3. O art. 3º da LC 190/2022 condicionou a produção dos efeitos do referido diploma legislativo à observância do disposto na alínea c do inciso III do caput do art. 150 da Constituição Federal (anterioridade nonagesimal), o que corresponde ao estabelecimento de vacatio legis de noventa dias. 4. A regra inscrita no art. 24-A, § 4º, da LC 87/1996, incluído pela LC 190/2022 não caracteriza comportamento excessivo do legislador, pois visa apenas a conceder prazo hábil para a adaptação operacional e tecnológica por parte do contribuinte. 5. Validade das normas estaduais e distritais editadas após a edição da EC 87/2015, que possibilitou a cobrança do DIFAL em operações interestaduais de bens e serviços a consumidor final não contribuinte, produzindo efeitos somente a partir da vigência da LC 190/2022. 6. Modulação dos efeitos do julgado, nos termos da proposta do Min. FLÁVIO DINO, “para evitar surpresa fiscal retrospectiva”. 7. Ficam fixadas as seguintes teses para o Tema 1266 da repercussão geral: “I - É Constitucional o art. 3º da Lei Complementar 190/2022, o qual estabelece vacatio legis no prazo correspondente à anterioridade nonagesimal prevista no art. 150, III, ‘c’, da Constituição Federal. II - As leis estaduais editadas após a EC 87/2015 e antes da entrada em vigor da Lei Complementar 190/2022, com o propósito de instituir a cobrança do Diferencial de Alíquotas do ICMS – DIFAL nas operações e prestações que destinem bens e serviços a consumidor final não contribuinte do imposto, são válidas, mas produzem efeitos somente a partir da vigência da LC 190/2022. III- Contribuintes que ajuizaram ação judicial (modulação dos efeitos) - Exclusivamente quanto ao exercício de 2022, não se admite a exigência do DIFAL em relação aos contribuintes que tenham ajuizado ação judicial questionando a cobrança até a data de julgamento da ADI 7066 (29/11/2023), e tenham deixado de recolher o tributo naquele exercício”. 8. Recurso Extraordinário a que se dá parcial provimento." (RE 1426271, Relator(a): ALEXANDRE DE MORAES, Tribunal Pleno, julgado em 22-10-2025, PROCESSO ELETRÔNICO REPERCUSSÃO GERAL - MÉRITO DJe-s/n  DIVULG 17-12-2025  PUBLIC 18-12-2025)
+
+Considerando o caso em concreto, é o caso de aplicação do item III do julgado, referente à modulação dos efeitos, considerando que a ação foi ajuizada em data anterior ao julgamento da ADI 7066 (29/11/2023), ou seja, no dia 09/06/2022.
+
+Destaco que não há notícias de que a parte recolheu o tributo no período.
+
+3. Dispositivo
+
+Diante do exposto, em rejulgamento, CONHEÇO do recurso do Distrito Federal e da Remessa Necessária e NEGO-LHES PROVIMENTO, mantendo a Sentença recorrida, consoante ratio decidendi do RE 1.426.271/CE (Tema 1.266).
+
+Sem honorários recursais.
+
+É como voto.
+O Senhor Desembargador ROBSON TEIXEIRA DE FREITAS - 1º Vogal Com o(a) relator(a)A Senhora Desembargadora CARMEN BITTENCOURT - 2º Vogal Com o(a) relator(a)
+
+DECISÃO
+
+Reexame necessário e apelo do Distrito Federal conhecidos e desprovidos, em rejulgamento. Sentença mantida. Unânime
