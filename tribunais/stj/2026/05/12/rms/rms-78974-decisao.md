@@ -1,0 +1,33 @@
+DECISÃO
+Trata-se de recurso em mandado de segurança, com pedido liminar, interposto por MARLENE DE JESUS SOUZA contra acórdão do Tribunal de Justiça do Estado de Santa Catarina (Mandado de Segurança n. 5007146-56.2026.8.24.0000/SC).
+Consta dos autos que foi apreendido o "veículo FIAT/PALIO FIRE ECONOMY, cor branca, placas ATP1G03", de propriedade da recorrente, que é estranha à ação penal. Formulado pedido de restituição, este foi indeferido. No mandado de segurança impetrado na origem, o pedido não foi conhecido, nos termos da seguinte ementa (e-STJ fls. 594):
+MANDADO DE SEGURANÇA. SUPOSTA PRÁTICA DO CRIME DE TRÁFICO DE DROGAS (ART. 33, CAPUT, DA LEI N. 11.343/06). PLEITO DE RESTITUIÇÃO DO VEÍCULO AUTOMOTOR APREENDIDO. NÃO CONHECIMENTO. PLEITO QUE DESAFIA RECURSO PRÓPRIO COM POSSIBILIDADE DE CONCESSÃO DE EFEITO SUSPENSIVO. VEDAÇÃO CONTIDA NO ARTIGO 5º, II, DA LEI N. 12.016/09. ADEMAIS, AUSÊNCIA DE MANIFESTA ILEGALIDADE OU TERATOLOGIA A SER REPARADA. PARECER DA PROCURADORIA-GERAL DE JUSTIÇA NO SENTIDO DE NÃO CONHECER DO MANDAMUS. MANDADO DE SEGURANÇA NÃO CONHECIDO.
+No presente recurso, a defesa aduz, em síntese, que " a  decisão que manteve a apreensão do veículo de propriedade da Recorrente, posteriormente chancelada pelo acórdão recorrido, revela-se manifestamente ilegal, porquanto desprovida de fundamentação concreta e dissociada dos requisitos legais previstos nos artigos 118 e 120 do Código de Processo Penal".
+Pugna, liminarmente e no mérito, pela imediata restituição do bem.
+É o relatório. Decido.
+Não é possível conhecer do presente recurso.
+De início, verifico que a recorrente não observou a dialeticidade inerente ao meios recursais, uma vez que não refutou o não conhecimento do mandado de segurança na origem, limitando-se a reiterar sua insurgência contra a decisão de primeiro grau. Como é de conhecimento, o princípio da dialeticidade "impõe, àquele que impugna uma decisão judicial, o ônus de demonstrar, satisfatoriamente, o equívoco dos fundamentos nela consignados. Ao deduzir a questão na instância superior, não basta que a Parte apenas reitere as alegações declinadas na origem, mas, sobretudo, que enfrente, primeiramente, as próprias razões de decidir consignadas no ato impugnado" (HC n. 733.751/SP, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 12/9/2023, DJe de 20/9/2023.).
+Ainda que assim não fosse, conforme destacado pelo Tribunal de origem, a parte se utilizou do mandado de segurança como substitutivo de recurso expressamente previsto na legislação processual, circunstância que impede o conhecimento do mandamus, conforme dispõe o art. 5º, inciso II, da Lei n. 12.016/2009 e o enunciado n. 267 da Súmula do Supremo Tribunal Federal. De fato, a decisão apontada como coatora é passível de impugnação por meio da apelação prevista no art. 593, inciso II, do Código de Processo Penal, que, em regra, admite o efeito suspensivo, nos termos do art. 597 do mesmo diploma legal. Dessa forma, incavíbel a utilização do mandado de segurança.
+Nesse sentido:
+DIREITO PROCESSUAL PENAL. AGRAVO REGIMENTAL. MANDADO DE SEGURANÇA. RESTITUIÇÃO DE VEÍCULO APREENDIDO. INADEQUAÇÃO DA VIA ELEITA. RECURSO IMPROVIDO.
+I. CASO EM EXAME
+1. Agravo regimental interposto contra decisão monocrática que negou provimento a recurso ordinário em mandado de segurança, no qual se pleiteava a restituição de veículo apreendido em razão de seu uso no transporte de mais de 2kg de maconha.
+2. O mandado de segurança foi impetrado após o trânsito em julgado da decisão que indeferiu o pedido de restituição do veículo nos autos do incidente de restituição, sem que o recurso de apelação cabível fosse interposto no prazo legal.
+II. QUESTÃO EM DISCUSSÃO
+3. A questão em discussão consiste em saber se o mandado de segurança é meio adequado para discutir a ilegalidade do perdimento de bem apreendido em razão de seu uso no tráfico de drogas, quando há recurso próprio previsto na legislação processual penal.
+III. RAZÕES DE DECIDIR
+4. O mandado de segurança é instrumento destinado à proteção de direito líquido e certo, cuja comprovação deve ser feita de plano, mediante prova pré-constituída e incontestável, não sendo cabível para substituir recurso previsto na legislação processual.
+5. Nos termos do art. 5º, II, da Lei nº 12.016/2009 e da Súmula 267 do STF, não cabe mandado de segurança contra decisão judicial passível de recurso com efeito suspensivo, como é o caso da decisão que indeferiu o pedido de restituição de bem apreendido, que desafia recurso de apelação previsto no art. 593, II, do CPP.
+6. O perdimento de bens utilizados no tráfico de drogas é possível, conforme o Tema 647 do STF, sem necessidade de comprovação de habitualidade ou modificação do bem para dificultar a descoberta do local de acondicionamento da droga, bastando o preenchimento dos requisitos do art. 243, parágrafo único, da CF/1988.
+IV. DISPOSITIVO E TESE
+7. Resultado do Julgamento: Agravo regimental improvido.
+Tese de julgamento:
+Dispositivos relevantes citados:CF/1988, art. 243, parágrafo único;
+CPP, art. 593, II; Lei nº 12.016/2009, art. 5º, II.
+Jurisprudência relevante citada:STF, RE 638.491, Tema 647, Plenário, julgado em 19.11.2015; STJ, AgRg no RMS 66.246/RJ, Rel. Min. Antonio Saldanha Palheiro, Sexta Turma, julgado em 25.10.2022; STJ, AgRg no REsp 1.885.595/PE, Rel. Min. Ribeiro Dantas, Quinta Turma, julgado em 28.06.2021.
+(AgRg no RMS n. 74.765/SC, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 4/3/2026, DJEN de 9/3/2026.)
+Importante destacar, por fim, que a Corte local afirmou que "não há manifesta e teratológica ilegalidade a ser reparada, na medida em que se demonstra razoável a decisão que assentou que o automóvel cuja restituição a requerente objetiva foi utilizado na prática do delito, além de que, "a despeito da alegação de que a requerente desconhecia os atos ilícitos praticados pelo seu afilhado, segundo relatado pela requerente, está não possuí habilitação para dirigir e quem conduzia o veículo era, na maioria das vezes, o seu afilhado Natan Vinicius, o que demonstra que o carro era colocado à disposição do acusado reiteradamente, o que levou a apreensão de drogas no interior do veículo enquanto era conduzido por Natan, circunstâncias que merecem ser melhores esclarecidas ao longo da instrução probatória" (processo n. 5031701-20.2025.8.24.0018/SC, evento 11, DESPADEC1) (e-STJ fl. 592).
+Dessa forma, além da ofensa ao princípio da dialeticidade e da utilização do meio processual inadequado, não há se falar em direito líquido e certo da recorrente.
+Pelo exposto, não conheço do recurso em mandado de segurança.
+Publique-se.
+EMENTA
