@@ -1,0 +1,22 @@
+DECISÃO
+Trata-se de agravo interposto pelo MINISTÉRIO PÚBLICO DO ESTADO DA BAHIA contra a decisão proferida pelo TRIBUNAL DE JUSTIÇA DO ESTADO DA BAHIA que inadmitiu o recurso especial interposto contra o acórdão prolatado nos autos da Apelação Criminal n. 8015146-40.2024.8.05.0146.
+No recurso especial, a acusação apontou como violado o art. 33, § 4º, da Lei n. 11.343/2006 (fls. 425/435).
+Inadmitido o recurso na origem (fls. 443/452), os autos subiram ao Superior Tribunal de Justiça por meio do presente agravo (fls. 454/468).
+O Ministério Público Federal opinou pelo conhecimento do agravo em recurso especial e o provimento do recurso especial (fls. 490/496).
+É o relatório.
+O presente agravo em recurso especial deve ser conhecido, uma vez que reúne os requisitos intrínsecos e extrínsecos de admissibilidade.
+Passo a análise do recurso especial.
+A acusação aponta como violado o art. 33, § 4º, da Lei n. 11.343/2006, arguindo, em suma, que o acórdão recorrido desconsiderou circunstâncias concretas que evidenciam a dedicação do recorrido a atividades criminosas, tais como a apreensão, no mesmo contexto do tráfico, de arma de fogo, munições e variedade de entorpecentes - elementos esses que seriam idôneos para afastar a minorante, por demonstrarem a dedicação do réu à prática de delitos.
+Observo, entretanto, que tal enfoque não fora levantado quando por ocasião das razões de apelação ministerial.
+Com efeito, nas razões de apelação ministerial, o Parquet se limitou a sustentar que o quadro probatório demonstra que o acusado se dedica habitualmente à prática de crimes, possuindo processo em andamento anterior, por idêntica prática delitiva, além de Ação Socioeducativa (fl. 218 - grifo nosso). Segundo delimitou a própria acusação, esses fatos demonstram que o réu não só possui histórico criminal como se dedica habitualmente à prática de crimes, especialmente o tráfico de drogas, afastando, por consequência, a possibilidade de ser beneficiado com a redução de pena prevista no § 4º (fl. 219 - grifo nosso).
+Tanto é que, assim delimitada a questão pelo próprio recorrente, o Tribunal manteve a benesse prevista no art. 33, § 4º, da Lei n. 11.346/2006, considerando que o registro de atos infracionais não afasta, por si só, a incidência da causa de diminuição de pena prevista para o tráfico privilegiado (fl. 387 - grifo nosso).
+Logo, o Tribunal a quo não debateu explicitamente se a apreensão de arma de fogo, munições e variedade de entorpecentes seriam elementos suficientes ou não para evidenciar, na hipótese presente, a dedicação do réu à prática de delitos, constituindo tal enfoque indevida inovação recursal.
+Ao contrário, consta do acórdão apenas a informação de que, diante da inexistência de outros motivos para o afastamento da minorante, é imperiosa a manutenção da sentença vergastada, de forma a conservar a aplicação da causa de diminuição prevista no art. 33 § 4º, da Lei n. 11.343/06, nos termos consignados no édito condenatório (fl. 388 - grifo nosso).
+Ausente, portanto, o necessário prequestionamento, é o caso de incidir as Súmulas 282 e 356/STF. Nesse sentido: AgInt no AREsp n. 1.859.677/RS, Ministro Teodoro Silva Santos, Segunda Turma, DJe 7/5/2024.
+Como fundamento subsidiário, destaco que, ainda que fosse possível conhecer da questão suscitada, a irresignação defensiva não seria acolhida, pois, tendo o Tribunal de origem considerado preenchidos por parte do acusado os requisitos exigidos para se beneficiar da causa de diminuição do art. 33, § 4º, da Lei n. 11.343/2006, a modificação desse entendimento, a fim de fazer excluir a minorante da Lei de Drogas, enseja o reexame dos elementos fáticos do processo, prática vedada na via eleita ante o teor da Súmula 7/STJ.
+Nesse sentido: AgRg no AREsp n. 2.741.013/MS, Ministro Ribeiro Dantas, Quinta Turma, DJe 17/12/2024; AgRg no AREsp n. 1.554.139/GO, Ministro Jorge Mussi, Quinta Turma, DJe 13/12/2019; e AgRg no REsp n. 1.790.032/MG, Ministro Joel Ilan Paciornik, Quinta Turma, DJe 20/5/2019.
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Publique-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. TRÁFICO DE DROGAS. INCONFORMISMO MINISTERIAL. PLEITO DE AFASTAMENTO DA MINORANTE PREVISTA NO ART. 33, § 4º, DA LEI N. 11.343/2006. CONTEXTO FÁTICO QUE EVIDENCIARIA A DEDICAÇÃO A ATIVIDADES CRIMINOSAS. INOVAÇÃO RECURSAL. ENFOQUE NÃO LEVANTADO NAS RAZÕES DE APELAÇÃO. AUSÊNCIA DE PREQUESTIONAMENTO. FUNDAMENTO SUBSIDIÁRIO. PRETENSÃO QUE EXIGIRIA REVOLVIMENTO FÁTICO. SÚMULA 7/STJ.
+Agravo conhecido para não conhecer do recurso especial.
