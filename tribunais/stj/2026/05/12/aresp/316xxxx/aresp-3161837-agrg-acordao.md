@@ -1,0 +1,52 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Turma, por unanimidade, negar provimento ao agravo regimental.
+Os Srs. Ministros Ribeiro Dantas, Joel Ilan Paciornik, Messod Azulay Neto e Maria Marluce Caldas votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Reynaldo Soares da Fonseca.
+EMENTA
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DA DECISÃO DE INADMISSIBILIDADE. RAZÕES GENÉRICAS. VIOLAÇÃO AO PRINCÍPIO DA DIALETICIDADE RECURSAL. INCIDÊNCIA DA SÚMULA N. 182/STJ. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. A ausência de impugnação específica e pormenorizada de todos os fundamentos da decisão agravada atrai a incidência da Súmula n. 182/STJ.
+2. No caso, a parte agravante limitou-se a reiterar insurgência quanto ao mérito da controvérsia, sem enfrentar especificamente os fundamentos da decisão de inadmissibilidade relativos à consonância do acórdão recorrido com a jurisprudência do STJ e à ausência de comprovação do dissídio jurisprudencial.
+3. A invocação genérica dos princípios da primazia do julgamento de mérito e da instrumentalidade das formas não supre a deficiência de fundamentação recursal, por se tratar de requisito objetivo de admissibilidade previsto no art. 932, III, do CPC e no art. 253, parágrafo único, I, do RISTJ.
+4. Agravo regimental não provido.
+RELATÓRIO
+Trata-se de agravo regimental interposto por MARCELO DOS SANTOS FERREIRA contra decisão que, com fundamento no art. 21-E, V, c/c o art. 253, parágrafo único, I, do RISTJ, e na Súmula 182/STJ, não conheceu do agravo em recurso especial, considerando a ausência de impugnação específica e pormenorizada aos fundamentos da decisão de inadmissibilidade do recurso especial, a saber, "consonância do acórdão recorrido com jurisprudência do STJ (dosimetria), consonância do acórdão recorrido com jurisprudência do STJ (regime de cumprimento de pena) e divergência não comprovada"(e-STJ fl. 1253).
+Na presente insurgência, a defesa sustenta que o agravo em recurso especial impugnou de forma efetiva, concreta e pormenorizada os fundamentos da negativa de admissibilidade, especificamente quanto à consonância do acórdão recorrido com a jurisprudência do STJ na dosimetria e no regime inicial, bem como quanto à não comprovação do dissídio jurisprudencial. Aduz que houve enfrentamento técnico dos pontos controvertidos, destacando a ausência de fundamentação concreta na manutenção da pena-base acima do mínimo, a ilegalidade do regime semiaberto para réu primário com pena inferior a 4 anos e a demonstração do dissídio com julgados específicos. Sustenta, ademais, que a decisão agravada adotou interpretação excessivamente formalista da dialeticidade recursal, contrariando o princípio da primazia do julgamento de mérito. Defende a necessidade de apreciação colegiada, por se tratar de matéria de relevante dimensão jurídica e de revaloração de fatos incontroversos (e-STJ fls. 1259/1262).
+Requer o conhecimento e provimento do agravo regimental para reconsiderar a decisão que não conheceu do agravo em recurso especial. Pugna, subsidiariamente, pela submissão do recurso ao órgão colegiado competente, com determinação de processamento do recurso especial. Pleiteia, ao final, a admissão do recurso especial para posterior apreciação de mérito (e-STJ fl. 1262).
+É o relatório.
+EMENTA
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DA DECISÃO DE INADMISSIBILIDADE. RAZÕES GENÉRICAS. VIOLAÇÃO AO PRINCÍPIO DA DIALETICIDADE RECURSAL. INCIDÊNCIA DA SÚMULA N. 182/STJ. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. A ausência de impugnação específica e pormenorizada de todos os fundamentos da decisão agravada atrai a incidência da Súmula n. 182/STJ.
+2. No caso, a parte agravante limitou-se a reiterar insurgência quanto ao mérito da controvérsia, sem enfrentar especificamente os fundamentos da decisão de inadmissibilidade relativos à consonância do acórdão recorrido com a jurisprudência do STJ e à ausência de comprovação do dissídio jurisprudencial.
+3. A invocação genérica dos princípios da primazia do julgamento de mérito e da instrumentalidade das formas não supre a deficiência de fundamentação recursal, por se tratar de requisito objetivo de admissibilidade previsto no art. 932, III, do CPC e no art. 253, parágrafo único, I, do RISTJ.
+4. Agravo regimental não provido.
+VOTO
+O agravo regimental não comporta provimento.
+Da análise dos autos, verifica-se que a decisão agravada não conheceu do agravo em recurso especial por ausência de impugnação específica de todos os fundamentos da decisão de inadmissibilidade proferida na origem, a qual registrou: consonância do acórdão recorrido com a jurisprudência do STJ quanto à dosimetria; consonância do acórdão recorrido com a jurisprudência do STJ quanto ao regime de cumprimento da pena; e ausência de comprovação da divergência jurisprudencial (e-STJ fls. 1253/1254).
+Não obstante, nas razões do agravo regimental, a parte agravante limita-se a sustentar, em linhas gerais, que houve impugnação concreta no AREsp acerca da dosimetria e do regime inicial e que o dissídio teria sido comprovado, sem, contudo, evidenciar, de modo efetivo e pormenorizado, que o agravo em recurso especial efetivamente atacou cada um dos óbices aplicados na decisão de admissibilidade. Com efeito, nas razões do agravo em recurso especial apresentadas ao Tribunal a quo (e-STJ fls. 1218/1221), o agravante centrou-se no mérito da controvérsia (ausência de dolo, art. 386, VII, do CPP; dosimetria e regime inicial, arts. 59 e 33 do CP), afirmando não incidir a Súmula 7/STJ, mas não realizou cotejo analítico do dissenso nem enfrentou, de modo específico, a conclusão de conformidade do acórdão recorrido com a jurisprudência desta Corte.
+Contudo, como tem reiteradamente decidido esta Corte, os recursos devem impugnar, de maneira específica e pormenorizada, os fundamentos da decisão contra a qual se insurgem, sob pena de vê-los mantidos. Não são suficientes meras alegações genéricas sobre as razões que levaram à inadmissão do agravo ou do recurso especial, tampouco a insistência no mérito da controvérsia.
+Nesses casos, é inafastável a incidência do verbete sumular n. 182/STJ, que assim dispõe:
+É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada.
+A propósito:
+DIREITO PROCESSUAL PENAL. TRÁFICO DE DROGAS. AGRAVO REGIMENTAL. AUSÊNCIA DE IMPUGNAÇÃO DOS FUNDAMENTOS DA DECISÃO. INCIDÊNCIA DA SÚMULA N. 182 DO STJ. NÃO CONHECIMENTO.
+I. Caso em exame
+1. Agravo regimental interposto contra decisão que não conheceu de recurso especial, com fundamento na ausência de impugnação específica aos fundamentos da decisão agravada e na impossibilidade de reexame de provas em instância especial, conforme a Súmula n. 7 do STJ.
+2. A defesa alega que os depoimentos policiais não são suficientes para condenação por tráfico de drogas e requer a desclassificação do delito para uso pessoal, conforme art. 28 da Lei n. 11.343/06.
+II. Questão em discussão
+3. A questão em discussão consiste em saber se a ausência de impugnação específica aos fundamentos da decisão agravada impede o conhecimento do agravo regimental.
+4. A questão também envolve a análise da possibilidade de reexame do conjunto fático- probatório em instância especial para desclassificação do delito de tráfico de drogas.
+III. Razões de decidir
+5. A ausência de impugnação específica aos fundamentos da decisão agravada atrai a incidência da Súmula n. 182 do STJ, que impede o conhecimento do agravo regimental.
+6. A modificação da conclusão da origem demandaria reexame do conjunto fático- probatório, o que é inviável na instância especial, conforme a Súmula n. 7 do STJ.
+7. A pequena quantidade de droga apreendida, por si só, é irrelevante diante das circunstâncias que indicam a destinação mercantil do entorpecente.
+IV. Dispositivo e tese
+8. Agravo regimental não conhecido.
+(AgRg no AREsp n. 2.645.466/MG, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 20/3/2025, DJEN de 26/3/2025).
+PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. FALTA DE DIALETICIDADE RECURSAL. SÚMULA 182/STJ AGRAVO DESPROVIDO.
+1. A decisão que inadmitiu o recurso especial na origem foi pautada nos óbices das Súmulas 7 e 83/STJ. Entrementes, o agravante ateve-se à negativa genérica da incidência dos óbices de admissibilidade das Súmula 83/STJ, pelo fundamento de haver inaplicabilidade do enunciado 83/STJ aos recursos interpostos com base na alínea "a" e de inexistir orientação jurisprudencial do Superior Tribunal de Justiça em sentido contrário às teses defensivas. Esse proceder viola o princípio da dialeticidade e torna inadmissível o agravo, nos termos da Súmula 182/STJ.
+2. No tocante à aplicação da Súmula 7/STJ, a parte agravante traz apenas razões genéricas de inconformismo, o que não satisfaz a exigência de impugnação específica para viabilizar o conhecimento do agravo. Isso porque, para que se considere adequadamente impugnada a Súmula 7/STJ, o agravo precisa empreender um cotejo entre os fatos estabelecidos no acórdão e as teses recursais, mostrando em que medida estas não exigem a alteração do quadro fático delineado pelo Tribunal local, o que não se observa na alegação genérica de ser prescindível reexame de fatos e provas.
+3. Agravo regimental desprovido.
+(AgRg no AREsp n. 2.060.997/SC, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 2/8/2022, DJe de 10/8/2022).
+No que concerne ao argumento de "primazia do julgamento de mérito" e de suposto "formalismo" na aplicação da dialeticidade, cumpre assentar que a exigência de impugnação específica decorre de comando legal e regimental (art. 932, III, do CPC; art. 253, parágrafo único, I, do RISTJ), não se tratando de requisito meramente formal, mas de pressuposto objetivo para o conhecimento do agravo, cujo descumprimento atrai, por analogia, o óbice da Súmula 182/STJ (e-STJ fls. 1253/1254). A invocação genérica de princípios não supre a deficiência na impugnação dos fundamentos concretos da decisão agravada.
+Assim, ausente impugnação específica e pormenorizada aos fundamentos da decisão que não conheceu do agravo em recurso especial, incide o óbice da Súmula 182/STJ, impondo-se o não provimento do agravo regimental.
+Ante o exposto, nego provimento do agravo regimental.
+É como voto.
