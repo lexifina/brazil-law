@@ -1,0 +1,21 @@
+DECISÃO
+Trata-se de embargos de declaração opostos por Wagner Rodrigues de Moura contra decisão monocrática de fls. 614/619, na qual foi conhecido o agravo em recurso especial para não conhecer do recurso especial.
+Consta dos autos que o embargante foi denunciado pela prática do delito previsto no art. 33, caput, da Lei n. 11.343/2006. Em primeiro grau, sobreveio sentença absolutória, posteriormente reformada pelo Tribunal de Justiça da Paraíba em sede de apelação ministerial, para condená-lo à pena definitiva de 1 (um) ano e 8 (oito) meses de reclusão, substituída por duas penas restritivas de direitos, além do pagamento de 167 (cento e sessenta e sete) dias-multa, à razão de 1/30 do salário mínimo vigente à época dos fatos (fls. 436/446)
+O acórdão estadual assentou que o conjunto probatório era suficiente para demonstrar a autoria e a materialidade delitivas, reputando válidas as provas produzidas na diligência policial que culminou na apreensão do entorpecente (fls. 436/437)
+Foram opostos embargos de declaração na origem, parcialmente acolhidos apenas para sanar contradição relativa ao momento da entrega da droga, sem modificação do resultado condenatório (fls. 498/502)
+No recurso especial, a defesa alegou violação ao art. 240 do Código de Processo Penal e aos arts. 158-A a 158-F do mesmo diploma, sustentando nulidade das buscas pessoal, veicular e domiciliar, por ausência de fundada suspeita e autorização judicial, bem como quebra da cadeia de custódia do material apreendido (fls. 508/524)
+O Tribunal de origem inadmitiu o recurso especial por ausência de prequestionamento, incidindo o óbice da Súmula 282/STF (fls. 532/534)
+Interposto agravo em recurso especial, esta relatoria conheceu do agravo para não conhecer do recurso especial, assentando, quanto à tese relativa à cadeia de custódia, a ausência de prequestionamento específico, diante da não indicação de violação ao art. 619 do Código de Processo Penal, com incidência da Súmula 211/STJ, e consignando, quanto à alegação fundada no art. 240 do CPP, apenas a inexistência de ilegalidade manifesta apta a afastar, de plano, o entendimento firmado pelo Tribunal de origem, sem superação do juízo de admissibilidade recursal (fls. 614/619).
+Nos presentes embargos, sustenta a defesa a existência de contradição no decisum, ao argumento de que, embora tenha havido manifestação acerca da alegada afronta ao art. 240 do Código de Processo Penal, o recurso especial não foi conhecido, circunstância que, segundo afirma, revelaria incompatibilidade lógica entre fundamentação e conclusão adotada (fls. 624/627)
+É o relatório.
+Os embargos de declaração não merecem acolhimento.
+Nos termos do art. 619 do Código de Processo Penal, os embargos declaratórios destinam-se ao saneamento de obscuridade, contradição, ambiguidade ou omissão eventualmente existentes no julgado, não se prestando à rediscussão da matéria já decidida.
+No caso, não se verifica a alegada contradição.
+A decisão embargada distinguiu, de forma expressa, fundamentos autônomos submetidos ao exame recursal.
+De um lado, a tese relativa à suposta quebra da cadeia de custódia não ultrapassou o juízo de admissibilidade, diante da ausência de prequestionamento específico, uma vez que o Tribunal de origem não apreciou os dispositivos indicados e a parte recorrente deixou de apontar violação ao art. 619 do Código de Processo Penal, incidindo, assim, o óbice da Súmula 211/STJ.
+De outro lado, a referência à alegação fundada no art. 240 do Código de Processo Penal não importou conhecimento autônomo ou parcial do recurso especial, tendo sido apenas consignada para demonstrar que, à luz do quadro delineado no acórdão recorrido, não se evidenciava ilegalidade manifesta capaz de afastar, desde logo, a conclusão adotada pela instância ordinária, sem que isso implicasse superação dos pressupostos recursais exigidos para o exame pleno do apelo nobre.
+Não há, portanto, incompatibilidade entre fundamentação e dispositivo, tampouco oposição lógica interna no julgado.
+Na realidade, a parte embargante busca rediscutir matéria já decidida, providência incompatível com a finalidade integrativa dos embargos declaratórios.
+Ausentes obscuridade, omissão ou contradição, e inexistindo qualquer vício interno no decisum, impõe-se a rejeição do recurso.
+Ante o exposto, rejeito os embargos de declaração.
+EMENTA
