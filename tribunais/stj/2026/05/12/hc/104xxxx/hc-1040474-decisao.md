@@ -1,0 +1,85 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em favor de LUCAS DA SILVA DE OLIVEIRA, apontando como autoridade coatora o Tribunal de Justiça do Estado de São Paulo, em razão do julgamento da apelação n. 1500045-73.2023.8.26.0599.
+Consta dos autos que o paciente foi condenado, em primeiro grau de jurisdição, pelo Juízo da 2ª Vara Criminal da Comarca de Piracicaba, na ação penal n. 1500045-73.2023.8.26.0599, à pena de 1 (um) ano e 2 (dois) meses de reclusão, a ser cumprida em regime inicial semiaberto, e ao pagamento de 11 (onze) dias-multa no mínimo legal, por infração ao artigo 180, caput, do Código Penal (fls. 41-55).
+A defesa e a acusação interpuseram apelação criminal ao Tribunal de Justiça, que negou provimento ao apelo defensivo e deu parcial provimento ao apelo ministerial, para fins de afastamento da substituição da pena privativa de liberdade por restritivas de direitos (fls. 7-13).
+O pedido de liminar foi indeferido (fls. 467).
+O Ministério Público Federal opinou pela concessão da ordem (fls. 474-477).
+É o relatório. DECIDO.
+A controvérsia nos autos refere-se a uma possível ilegalidade flagrante, caracterizada no não reconhecimento da atenuante da confissão espontânea qualificada e no afastamento da substituição da pena privativa de liberdade por penas restritivas de direitos.
+Contudo, a presente impetração investe contra acórdão, funcionando como substituto do recurso próprio, motivo pelo qual não deve ser conhecida. A 3ª Seção, no âmbito do HC 535.063-SP, de relatoria do Ministro Sebastião Reis Júnior, julgado em 10/06/2020, e o Supremo Tribunal Federal, no julgamento do AgRg no HC 180.365, de relatoria da Ministra Rosa Weber, julgado em 27/03/2020, consolidaram a orientação de que não cabe habeas corpus substitutivo ao recurso legalmente previsto para a hipótese, impondo-se o não conhecimento da impetração, salvo quando constatada a existência de flagrante ilegalidade no ato judicial impugnado.
+Tendo em vista a possibilidade de concessão da ordem na forma do § 2º do artigo 654 do Código de Processo Penal, transcrevo, para melhor compreensão, os fundamentos da decisão colegiada impugnada (fls. 7-13):
+ ..
+À segunda fase, após o reconhecimento da agravante da reincidência, não se pode considerar a "atenuante da confissão" para redução da reprimenda, tal como pretende a defesa do apelante Lucas, porque isso não se vê nos autos.
+Aqui, com razão a condenatória.
+Afinal, ao que se extrai do teor do interrogatório judicial do apelante, este passou longe de admitir com clareza e totalidade os fatos imputados, uma vez que alterou a versão apresentada em sede inquisitorial e negou a ciência acerca da origem espúria do televisor adquirido, salientando-se, ainda, que a condenação não foi sedimentada na versão do réu, mas na palavra segura da vítima e dos Policiais, conforme já mencionado.
+Aliás, exatamente este foi o posicionamento trazido pela origem, in verbis: "Entendo que não é cabível reconhecer-se a confissão, na medida em que o réu Lucas, embora confirmasse a subtração, negou ter conhecimento da origem criminosa da TV, afastando-se o reconhecimento da receptação dolosa." (f. 279).
+Ora.
+Para que a confissão seja válida e configure atenuante, mister seja verossímil, certa e segura, uniforme e coerente durante a instrução criminal, não sendo este o caso dos autos.
+Trata-se, aqui, da chamada confissão qualificada que, respeitadas as opiniões em sentido contrário, não configura a circunstância atenuante prevista no artigo 65, III, "d", do Código Penal (STF, HC nº 74.148-7, rel. Min. Carlos Velloso, HC nº 119.671, rel. Min. Luiz Fux; HC nº 103.172, rel. Min. Luiz Fux).
+Consoante anota o saudoso Prof. Damásio de Jesus, importante é que a confissão traduza um ato de lealdade processual (Código Penal Anotado, Saraiva, 1.997, pág. 188), e isto não se vê nos autos.
+Daí que não se pode cogitar da incidência da atenuante.
+Por outro lado, novamente com razão o douto Juízo de origem, uma vez que corretamente compensada de maneira integral a agravante da reincidência com a atenuante da confissão em relação ao acusado Mauro, nos termos da tese fixada pelo C. Superior Tribunal de Justiça no julgamento do Recurso Especial nº 1.931.145/SP, em reformulação ao Tema Repetitivo nº 585:
+"É possível, na segunda fase da dosimetria da pena, a compensação integral da atenuante da confissão espontânea com a agravante da reincidência, seja ela específica ou não. Todavia, nos casos de multirreincidência, deve ser reconhecida a preponderância da agravante prevista no art. 61, I, do Código Penal, sendo admissível a sua compensação proporcional com a atenuante da confissão espontânea, em estrito atendimento aos princípios da individualização da pena e da proporcionalidade." (R Esp n 1.931.145/SP, relator Ministro Sebastião Reis Júnior, Terceira Seção, julgado em 22/6/2022, D Je de 24/6/2022).
+Assim, neste ponto, não merece acolhimento o pedido ministerial de afastamento da compensação entre a agravante e a atenuante em questão.
+Na derradeira etapa, reconhecida a continuidade delitiva em relação ao acusado Mauro, as penas foram tornadas definitivas em 1 ano e 2 meses de reclusão, mais 20 dias-multa, mínimo valor unitário (Mauro); e, 1 ano e 2 meses de reclusão, mais 11 dias-multa, mínimo valor unitário (Lucas).
+ ..
+Por fim, o ponto que merece ser reformado na r. sentença, novamente com a devida vênia ao d. Juízo de origem, diz respeito à substituição das penas privativas de liberdade por restritiva de direitos dos apelados.
+Com efeito, justificou-se a possibilidade de substituição pelo fato de que os acusados não seriam reincidentes específicos, de modo que foram beneficiados com penas restritivas de direitos, consistentes em prestação de serviços à comunidade e prestação pecuniária.
+No entanto, em razão da reincidência dos apelados, ainda que não específica, mostra-se incabível a substituição das penas privativas de liberdade por restritivas de direitos, por expressa vedação legal, conforme art. 44, II, do Código Penal.
+Nestes termos, necessário pequeno reparo na r. sentença prolatada pela origem, afastando-se a substituição das penas privativas de liberdade por restritivas de direitos, mantendo-se, no mais, o que fora decidido, pelos seus próprios jurídicos fundamentos.
+ ..
+Da análise do acórdão, verifico, de plano, a presença de ilegalidade flagrante no acórdão impugnado, em dois aspectos.
+No que diz respeito à atenuante da confissão espontânea, o Superior Tribunal de Justiça, no julgamento do REsp n. 2.001.973-RS, de relatoria do Ministro Og Fernandes, firmou a seguinte tese no Tema Repetitivo n. 1194: "1. A atenuante genérica da confissão espontânea, prevista no art. 65, III, d, do Código Penal, é apta a abrandar a pena independentemente de ter sido utilizada na formação do convencimento do julgador e mesmo que existam outros elementos suficientes de prova, desde que não tenha havido retratação, exceto, neste último caso, que a confissão tenha servido à apuração dos fatos. 2. A atenuação deve ser aplicada em menor proporção e não poderá ser considerada preponderante no concurso com agravantes quando o fato confessado for tipificado com menor pena ou caracterizar circunstância excludente da tipicidade, da ilicitude ou da culpabilidade."
+Extrai-se dos autos que o paciente, na fase policial, admitiu ter adquirido a televisão de terceiro pelo valor irrisório, negando, contudo, ter ciência da origem ilícita do bem.
+Em juízo, alterou parcialmente a versão, dizendo ter comprado o objeto de pessoa não identificada. Não houve retratação integral. A confissão, ainda que qualificada pela negação do elemento subjetivo do tipo, implicou a admissão da conduta nuclear (aquisição do bem) e auxiliou na reconstrução dos fatos pela persecução penal.
+Nos termos do Tema n. 1194, a confissão qualificada é apta a atenuar a pena, embora em menor proporção, por se enquadrar na segunda parte da tese, em que o fato confessado caracteriza circunstância excludente da tipicidade do crime doloso. Assim, reconheço a incidência da atenuante capitulada no art. 65, inciso III, alínea "d", do Código Penal, fixando-a no patamar de 1/12 (um doze avos), em linha com a jurisprudência desta Corte Superior:
+Nesse sentido:
+Direito Processual Penal. EMBARGOS DE DECLARAÇÃO. ERRO MATERIAL. ATENUANTE DA CONFISSÃO ESPONTÂNEA. DEPOIMENTOS POLICIAIS. EMBARGOS PARCIALMENTE ACOLHIDOS.
+I. CASO EM EXAME
+1. Embargos de declaração opostos contra acórdão da Quinta Turma do STJ que negou provimento ao agravo regimental interposto pelo embargante.
+2. O embargante alegou erro material no acórdão embargado, sustentando: (i) afastamento indevido da atenuante da confissão espontânea com base na Súmula 630 do STJ, que foi revisada pela Terceira Seção no Tema Repetitivo n. 1.194 (REsp n. 2.001.973/RS), admitindo a incidência da atenuante mesmo quando a confissão não é utilizada para formar o convencimento; e (ii) divergências relevantes entre os depoimentos policiais, que foram considerados firmes e harmônicos pelo acórdão embargado.
+II. QUESTÃO EM DISCUSSÃO
+3. Há duas questões em discussão: (i) saber se a atenuante da confissão espontânea deve ser aplicada nos casos em que o acusado admite a posse da droga para consumo pessoal, mesmo sem reconhecer a traficância, conforme entendimento do Tema Repetitivo n. 1.194 do STJ; e (ii) saber se há erro material na análise dos depoimentos policiais, considerando alegadas divergências entre os relatos.
+III. RAZÕES DE DECIDIR
+4. A Terceira Seção do STJ, ao julgar o Tema Repetitivo n. 1.194 (REsp n. 2.001.973/RS), revisou o entendimento da Súmula 630, admitindo a incidência da atenuante da confissão espontânea nos casos em que o acusado reconhece a posse ou propriedade da droga para uso próprio, mesmo que negue a traficância.
+5. A confissão espontânea, ainda que qualificada e desinfluente no convencimento do órgão julgador, pode ser reconhecida como circunstância atenuante, desde que modulada ao patamar de 1/12 da pena, conforme precedente do STJ (AREsp n. 2.609.326/MG).
+6. Não há erro material nos depoimentos policiais, que foram considerados firmes e harmônicos, guardando linearidade com os elementos constantes no auto de prisão em flagrante. Pequenas divergências entre os depoimentos não configuram nulidade automática.
+7. Os embargos de declaração não se prestam à rediscussão de questões já analisadas, sendo cabíveis apenas para sanar omissão, contradição, ambiguidade ou obscuridade, conforme art. 619 do CPP.
+8. O julgador não está obrigado a responder todas as alegações das partes, desde que os fundamentos apresentados sejam suficientes para embasar a decisão.
+IV. DISPOSITIVO E TESE
+9. Resultado do Julgamento: Embargos de declaração parcialmente acolhidos para reconhecer a atenuante da confissão espontânea e fixar a pena do embargante em 5 anos e 5 meses de reclusão e 541 dias-multa, mantidos os demais termos da decisão embargada.
+Tese de julgamento:
+Dispositivos relevantes citados:CPP, art. 619; CP, art. 65, III, "d"; CPC, art. 1.022, III.
+Jurisprudência relevante citada:STJ, Tema Repetitivo n. 1.194 (REsp n. 2.001.973/RS), Terceira Seção, julgado em 14/4/2025; STJ, AREsp n. 2.609.326/MG, Rel. Min. Otávio de Almeida Toledo (Desembargador Convocado do TJSP), Sexta Turma, julgado em 14/4/2025, DJEN de 24/4/2025.
+(EDcl no AgRg nos EDcl nos EDcl no AREsp n. 2.918.886/SP, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 3/2/2026, DJEN de 9/2/2026.)
+Quanto à substituição da pena privativa de liberdade por penas restritivas de direitos, o acórdão impugnado afastou o benefício com fundamento exclusivo no artigo 44, inciso II, do Código Penal, que veda a substituição ao condenado reincidente em crime doloso.
+O raciocínio, contudo, não se sustenta diante da regra especial contida no § 3º do mesmo dispositivo, que expressamente autoriza a substituição quando, em face da condenação anterior, a medida seja socialmente recomendável e a reincidência não se tenha operado em virtude da prática do mesmo crime.
+O Superior Tribunal de Justiça consolidou o entendimento de que a vedação absoluta do artigo 44, § 3º, do Código Penal somente alcança a reincidência específica, assim entendida como aquela em que os crimes anterior e atual são do mesmo tipo penal.
+Fora dessa hipótese, a reincidência genérica não impede a substituição de forma automática, cabendo ao julgador avaliar se a medida é socialmente recomendável, conforme as circunstâncias concretas do caso.
+A esse respeito:
+DIREITO PENAL. AGRAVO EM RECUSO ESPECIAL. RECEPTAÇÃO. SUBSTITUIÇÃO DE PENA PRIVATIVA DE LIBERDADE POR RESTRITIVA DE DIREITOS. RECURSO PROVIDO.
+I. Caso em exame
+1. Agravo em recurso especial interposto contra decisão que inadmitiu recurso especial manejado contra acórdão do Tribunal de Justiça do Distrito Federal e dos Territórios, que condenou o réu pela prática do delito de receptação, tipificado no artigo 180, caput, do Código Penal, com pena de 1 ano e 2 meses de reclusão, em regime semiaberto, e 12 dias-multa.
+2. O recorrente insurge-se contra a negativa de substituição da pena privativa de liberdade por restritiva de direitos motivada pela reincidência, alegando que a esta não é específica em crimes de receptação, mas sim por desacato e condução de veículo com capacidade psicomotora alterada, não constituindo óbice absoluto para a concessão do benefício em questão.
+II. Questão em discussão
+3. A questão em discussão consiste em saber se a reincidência genérica impede a substituição da pena privativa de liberdade por restritiva de direitos, conforme o art. 44, § 3º, do Código Penal, sem fundamentação concreta que demonstre que a medida não é socialmente recomendável.
+III. Razões de decidir
+4. A reincidência genérica não constitui óbice absoluto à substituição da pena, admitindo-se a concessão do benefício quando socialmente recomendável.
+5. A decisão impugnada não apresentou fundamentação concreta apta a demonstrar que a medida não é socialmente recomendável, limitando-se a afirmar a reincidência do réu.
+6. Estão presentes todos os requisitos necessários para a substituição pretendida, conforme o art. 44, incisos I a III, combinado com o § 3º, do Código Penal, pois todas as circunstâncias judiciais foram consideradas favoráveis, e o agravante não é reincidente no mesmo crime.
+IV. Dispositivo e tese
+7. Recurso provido para substituir a pena privativa de liberdade por restritiva de direitos, a cargo do Juízo das Execuções.
+Tese de julgamento: "A reincidência genérica não impede a substituição da pena privativa de liberdade por restritiva de direitos, desde que a medida seja socialmente recomendável e que estejam presentes os requisitos previstos no art. 44 do Código Penal".
+Dispositivos relevantes citados: Código Penal, art. 44, § 3º.
+Jurisprudência relevante citada: STJ, AgRg no HC 816.242/SP, Rel. Min. Laurita Vaz, Sexta Turma, julgado em 29.5.2023.
+(AREsp n. 2.760.205/DF, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 5/8/2025, DJEN de 15/8/2025.)
+No caso em exame, a condenação anterior do paciente foi por crime diverso. Trata-se, portanto, de reincidência não específica, pois os tipos penais são distintos. O acórdão, ao aplicar a vedação do inciso II sem examinar o § 3º, deixou de apreciar o requisito legal que permitia a substituição, incorrendo em ilegalidade flagrante.
+Impõe-se, pois, o redimensionamento da pena e o restabelecimento da substituição. Passo à dosimetria.
+Na primeira fase, mantenho os parâmetros fixados na instância de origem, de modo que a pena-base fica mantida no mínimo legal, em 1 (um) ano de reclusão e 10 (dez) dias-multa.
+Na segunda fase, concorrentes a agravante da reincidência e a atenuante da confissão qualificada, a pena deverá ser agravada em 1/12, de modo que a pena intermediária fica fixada em 1 (um) ano e 1 (um) mês de reclusão e 11 (onze) dias-multa.
+Na terceira fase, ausentes causas de aumento e de diminuição de pena, a pena definitiva fica estabilizada em 1 (um) ano e 1 (um) mês de reclusão, a ser cumprida em regime inicial semiaberto, e 11 (onze) dias-multa no mínimo legal, nos termos do artigo 33, § 2º, alínea "c ", combinado com o § 3º, do Código Penal, tendo em vista a reincidência do paciente.
+Reconhecida a legalidade da substituição, restabeleço o benefício nos termos fixados pela sentença condenatória, substituindo a pena privativa de liberdade por duas penas restritivas de direitos, a serem estabelecidas pelo juízo da execução.
+Ante o exposto, não conheço do habeas corpus. Concedo, contudo, a ordem de ofício em favor de LUCAS DA SILVA DE OLIVEIRA para redimensionar a pena para 1 (um) ano e 1 (um) mês de reclusão, a ser cumprida em regime inicial semiaberto, além de 11 (onze) dias-multa, à razão mínima legal, bem como para restabelecer a substituição da pena privativa de liberdade por duas penas restritivas de direitos, a serem fixadas pelo juízo da execução, mantidos os demais termos da condenação.
+Comunique-se com urgência à autoridade coatora e ao juízo de primeiro grau.
+Publique-se. Intimem-se.
+EMENTA
