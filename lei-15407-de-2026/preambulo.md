@@ -1,0 +1,2 @@
+Altera a Lei nº 11.671, de 8 de maio de 2008, para incluir em estabelecimentos penais federais de segurança máxima o preso, provisório ou condenado, pela prática do crime de homicídio qualificado previsto no inciso VII do § 2º do art. 121 do Decreto-Lei nº 2.848, de 7 de dezembro de 1940 (Código Penal), e a Lei nº 7.210, de 11 de julho de 1984 (Lei de Execução Penal), para dispor sobre a aplicação do regime disciplinar diferenciado, na forma que especifica.
+O PRESIDENTE DA REPÚBLICA Faço saber que o Congresso Nacional decreta e eu sanciono a seguinte Lei:
