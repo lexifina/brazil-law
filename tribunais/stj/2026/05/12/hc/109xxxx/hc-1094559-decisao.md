@@ -1,0 +1,28 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em favor de GABRIEL DIAS RIBEIRO, apontando como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, em decorrência do julgamento da apelação criminal n. 1500168-24.2025.8.26.0592.
+Consta dos autos que o paciente foi condenado pelo Juízo da Vara Criminal da Comarca de Tupã à pena de 6 (seis) anos e 3 (três) meses de reclusão, em regime inicial fechado, além de 625 (seiscentos e vinte e cinco) dias-multa, pela prática do delito previsto no artigo 33, caput, da Lei 11.343/2006 (fls. 66-83).
+A defesa interpôs apelação criminal, à qual o Tribunal de Justiça do Estado de São Paulo negou provimento (fls. 9-13).
+Na presente impetração, busca-se a concessão da ordem para reconhecer a ilegalidade na exasperação da pena-base à luz do artigo 42 da Lei 11.343/2006, com a consequente redução da reprimenda (fls. 3-8).
+É o relatório. DECIDO.
+A controvérsia consiste na alegada ocorrência de constrangimento ilegal decorrente da fixação da pena-base acima do mínimo legal.
+A presente impetração investe contra acórdão, funcionando como substituto do recurso próprio, motivo pelo qual não deve ser conhecida. A 3ª Seção, no âmbito do HC 535.063-SP, de relatoria do Ministro Sebastião Reis Júnior, julgado em 10/06/2020, e o Supremo Tribunal Federal, no julgamento do AgRg no HC 180.365, de relatoria da Ministra Rosa Weber, julgado em 27/03/2020, consolidaram a orientação de que não cabe habeas corpus substitutivo ao recurso legalmente previsto para a hipótese, impondo-se o não conhecimento da impetração, salvo quando constatada a existência de flagrante ilegalidade no ato judicial impugnado.
+Da leitura do acórdão (fls. 9-59), verifica-se, de plano, a presença de constrangimento ilegal que justifica a concessão da ordem, nos termos do § 2º do artigo 654 do Código de Processo Penal.
+As instâncias originárias, ao promoverem a individualização da pena, elevaram a pena-base acima do mínimo legal em razão da apreensão de 25 (vinte e cinco) porções de cocaína, com peso líquido de 4,91 g (quatro gramas e noventa e um decigramas), bem como em virtude da vetorial dos maus antecedentes, exasperando-a em 1/4 acima do patamar mínimo.
+Contudo, a quantidade de entorpecente apreendida não extrapola a definição típico-normativa do artigo 33, caput, da Lei 11.343/2006, razão pela qual reduzo proporcionalmente a majoração imposta à pena-base e passo à nova dosimetria.
+1ª etapa: neutralizo a exasperação da pena-base fundada na quantidade, natureza e nocividade do entorpecente e preservo o aumento decorrente da presença de maus antecedentes, fixando a pena-base em 5 (cinco) anos, 7 (sete) meses e 15 (quinze) dias de reclusão e 562 (quinhentos e sessenta e dois) dias-multa;
+2ª etapa: mantenho os parâmetros adotados pelas instâncias originárias, que reconheceram a atenuante da menoridade relativa e a agravante da reincidência, compensando-as, permanecendo a pena intermediária em 5 (cinco) anos, 7 (sete) meses e 15 (quinze) dias de reclusão e 562 (quinhentos e sessenta e dois) dias-multa;
+3ª etapa: conservo os parâmetros fixados pelas instâncias originárias, que não reconheceram causas de aumento ou de diminuição de pena, fixando-se a pena definitiva em 5 (cinco) anos, 7 (sete) meses e 15 (quinze) dias de reclusão e 562 (quinhentos e sessenta e dois) dias-multa.
+O regime inicial fechado fica mantido pelos mesmos fundamentos das instâncias originárias, na forma dos artigos 33, § 3º, e 59, do Código Penal.
+A esse respeito, cito o seguinte julgado:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. TRÁFICO DE DROGAS. EXASPERAÇÃO DA PENA BASE. PEQUENA QUANTIDADE DE ENTORPECENTE APREENDIDO. AUMENTO DESPROPORCIONAL. AGRAVO MINISTERIAL DESPROVIDO.
+1. A individualização da pena é uma atividade em que o julgador está vinculado a parâmetros abstratamente cominados pela lei, sendo-lhe permitido, entretanto, atuar discricionariamente na escolha da sanção penal aplicável ao caso concreto, após o exame percuciente dos elementos do delito, e em decisão motivada.
+Dessarte, ressalvadas as hipóteses de manifesta ilegalidade ou arbitrariedade, é inadmissível às Cortes Superiores a revisão dos critérios adotados na dosimetria da pena.
+2. Na hipótese, observa-se que a pena-base foi majorada em 1 ano e 3 meses de reclusão, tendo como fundamento a natureza e a quantidade da droga apreendida (5g de crack e 6 comprimidos de rivotril). Todavia, não sendo expressivo o quantum de entorpecente e tendo em vista a análise favorável das demais circunstâncias judiciais, não se mostra adequado o aumento operado pela instância ordinária.
+3. Agravo regimental desprovido.
+(AgRg no AREsp n. 2.322.991/CE, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 9/5/2023, DJe de 12/5/2023.)
+Assim, constatado que a matéria veiculada no presente writ encontra-se amparada por jurisprudência consolidada do Superior Tribunal de Justiça, inexiste óbice à concessão da ordem em caráter liminar, especialmente diante da evidência de manifesto e grave constrangimento ilegal.
+Na verdade, a ciência posterior do Parquet, longe de suplantar sua prerrogativa institucional, homenageia o princípio da celeridade processual e inviabiliza a tramitação de ações cujo desfecho, em princípio, já é conhecido (EDcl no AgRg no HC 324.401/SP, Relator Ministro GURGEL DE FARIA, 5ª Turma, DJ-e 23/2/2016).
+Ante o exposto, não conheço do habeas corpus. Concedo a ordem, de ofício, em favor de JOAO VICTOR MIZAEL SILVA para redimensionar sua pena para 5 (cinco) anos, 7 (sete) meses e 15 (quinze) dias de reclusão e 562 (quinhentos e sessenta e dois) dias-multa, mantidos os demais termos da condenação.
+Comunique-se à autoridade coatora e ao juízo de primeiro grau.
+Publique-se. Intimem-se.
+EMENTA
