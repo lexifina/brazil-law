@@ -1,0 +1,43 @@
+DECISÃO
+Cuida-se de Habeas Corpus impetrado em favor de ALONSO LEMOS DAS NEVES em que se aponta como ato coator o acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO GRANDE DO SUL assim ementado:
+AGRAVO INTERNO EM AGRAVO EM EXECUÇÃO. REGIME ABERTO. CONCESSÃO DA PRISÃO DOMICILIAR SEM MONITORAMENTO ELETRÔNICO.
+A decisão monocrática proferida contempla a orientação jurisprudencial deste Tribunal, com o que autorizada a decisão singular pela regra contida no art. 206, inciso XXXVI, do Regimento Interno do Tribunal de Justiça.
+A colocação de apenado em prisão domiciliar, observados os parâmetros a que alude o enunciado 56 da Súmula Vinculante, não prescinde da monitoração eletrônica.
+Ademais, o artigo 146-B da Lei de Execução Penal concede ao juiz a faculdade de definir tal meio de fiscalização quando determinar a prisão domiciliar.
+Decisão mantida.
+AGRAVO INTERNO DESPROVIDO.
+Consta dos autos que foi determinada a utilização de tornozeleira eletrônica como condição ao regime aberto do paciente.
+Em suas razões, sustenta a impetrante a ocorrência de constrangimento ilegal, porquanto o monitoramento eletrônico é incompatível com a natureza do regime aberto, que se baseia na autodisciplina e no senso de responsabilidade, sendo indevida a manutenção da vigilância eletrônica após a progressão.
+Alega que a manutenção do monitoramento eletrônico desvirtua a lógica da progressão e impõe restrições indevidas, como a limitação de deslocamentos e a perda da possibilidade de remição por trabalho ou estudo, tornando o regime aberto mais gravoso do que o semiaberto com monitoramento.
+Argumenta que a Resolução n. 412 do CNJ não prevê, de forma específica, a monitoração eletrônica para prisão domiciliar substitutiva do regime aberto e orienta a priorização de medidas menos gravosas, o que reforça a inadequação da medida imposta.
+Defende que fundamentos como a natureza do delito, o saldo de pena remanescente e intercorrências já advertidas não justificam a manutenção da vigilância eletrônica no regime aberto, afirmando que, se graves fossem, deveriam ensejar regressão, e que a ausência de casa de albergado não autoriza transformar o regime aberto em controle eletrônico permanente.
+Requer, em suma, a concessão da ordem para afastar o monitoramento eletrônico e assegurar o cumprimento do regime aberto sem vigilância eletrônica.
+É o relatório.
+Decido.
+A Terceira Seção do STJ, no julgamento do HC n. 535.063/SP, firmou o entendimento de que não cabe Habeas Corpus substitutivo de recurso próprio, impondo-se o não conhecimento da impetração, salvo quando constatada alguma teratologia no ato judicial impugnado (Rel. Ministro Sebastião Reis Júnior, DJe de 25.8.2020).
+Assim, passo à análise das razões da impetração a fim de verificar se há flagrante ilegalidade que justifique a concessão do writ de ofício.
+Na espécie, consta do Voto condutor do acórdão impugnado a seguinte fundamentação quanto à controvérsia apresentada:
+Não sendo caso de exercer a faculdade da retratação, que me confere o § 2º do art. 374 do Regimento Interno deste Tribunal, reitero os argumentos contidos na decisão ora impugnada, assim vazados:
+ ..
+Não merece reforma a decisão agravada.
+A uma, porque a colocação do apenado em prisão domiciliar, observados os parâmetros a que alude o enunciado 56 da Súmula Vinculante, não prescinde da monitoração eletrônica, sendo certo que o precedente recomenda que, inexistindo vaga em estabelecimento prisional compatível com o regime prisional, seja concedida a concessão de "liberdade eletronicamente monitorada ao sentenciado que saísse antecipadamente ou fosse posto em prisão domiciliar por falta de vagas" 3 .
+A duas, pois se afigura defesa a determinação no sentido de que seja a prisão domiciliar, concedida em substituição ao recolhimento a casa prisional do regime aberto, adaptada à conveniência do apenado - isto é, concedida sem utilização de monitoramento eletrônico -, mormente porque o artigo 146-B da Lei de Execução Penal 4 concede ao juiz a faculdade de definir tal meio de fiscalização quando determinar a prisão domiciliar.
+Em tal contexto, tratando-se de apenado que cumpre pena pelo crime de atentado violento ao pudor, ostentando pena remanescente superior a quatro anos de reclusão (45%), revela-se desproporcional que seja beneficiado com prisão domiciliar sem monitoração eletrônica.
+Por derradeiro, cumpre registrar que, da análise do processo de execução penal vinculado, consta nos autos informação no sentido de que o agravante vem, reiteradamente, descumprindo as condições da prisão domiciliar a que se encontra submetido (fls.8- 9).
+Esse entendimento está de acordo com a jurisprudência firmada nesta Corte de que é razoável o uso de tornozeleira eletrônica quando a prisão domiciliar é concedida para o resgate da pena considerando a ausência de vaga em estabelecimento prisional compatível com o regime para o qual houve a progressão.
+AGRAVO REGIMENTAL EM HABEAS CORPUS. EXECUÇÃO PENAL. CUMPRIMENTO DA PENA EM REGIME SEMIABERTO. AUSÊNCIA DE VAGAS. PRISÃO DOMICILIAR COM MONITORAÇÃO ELETRÔNICA. FLEXIBILIZAÇÃO DO EQUIPAMENTO ELETRÔNICO. NÃO CABIMENTO.
+1. A jurisprudência desta Corte Superior se consolidou no sentido de que, nas hipóteses em que o reeducando não puder cumprir a pena em estabelecimento adequado ao regime semiaberto, afigura-se razoável a concessão da prisão domiciliar monitorada, nos termos dos parâmetros fixados no RE 641.320/RS.
+2. A inexistência de vagas em colônia agrícola, industrial ou similar na região é suficiente para imposição do regime domiciliar cumulado com o uso de tornozeleira eletrônica, sendo incabível a flexibilização do uso do equipamento eletrônico.
+3. O cumprimento da pena em regime domiciliar monitorado está longe de se afigurar mais penoso do que aquele que seria usufruído no cumprimento do regime semiaberto em colônia agrícola, industrial ou similar, sendo mais favorável ao paciente.
+4. Agravo regimental improvido. (AgRg no HC n. 817.805/MT, Rel. Ministro Sebastião Reis Júnior, Sexta Turma, DJe de 31.8.2023.)
+AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO PENAL. IMPUGNAÇÃO DEFENSIVA. INEXISTÊNCIA DE VAGA NO ABERTO. PRISÃO DOMICILIAR, MEDIANTE USO DE TORNOZELEIRA. PEDIDO DE RETIRADA DO EQUIPAMENTO. CONSTRANGIMENTO ILEGAL NÃO EVIDENCIADO. INCOMPATIBILIDADE DO EQUIPAMENTO COM O USO DE MARCAPASSO. AUSÊNCIA DE CONTRAINDICAÇÃO MÉDICA. RECOMENDAÇÕES DE CUIDADO COM O USO. RECURSO IMPROVIDO.
+1- É necessário o monitoramento eletrônico quando a prisão domiciliar para o resgate de pena é concedida, de forma excepcional, nos casos de ausência de vaga em estabelecimento prisional compatível com o regime para o qual houve a progressão. (HC n. 383.654/RS, relator Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 3/10/2017, DJe 9/10/2017)  ..  (AgRg no HC n. 695.943/MA, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 14/12/2021, DJe de 17/12/2021.) 2- Assente nesta eg. Corte Superior que, sobre a aplicação da Súmula Vinculante n. 56, em relação à falta de vagas no regime aberto, "sendo certo que a prisão domiciliar monitorada, verificada no caso dos autos, não se afigura mais penosa do que aquela que o paciente vivenciaria no cumprimento da pena em regime aberto (AgRg no HC n. 691963/RS, Sexta Turma, Rel. Min. Sebastião Reis Junior, DJe de 22/10/2021).  ..  (Desembargador Convocado do TJDFT), Quinta Turma, julgado em 23/11/2021, DJe de 26/11/2021.) 3-  ..  A defesa foi devidamente intimada a justificar os reiterados descumprimentos das condições do regime aberto. Ademais, não se constata prejuízo ao apenado no regular exercício de sua atividade laboral, haja vista o cumprimento da pena em modo mais brando, com prisão domiciliar noturna e monitoramento eletrônico.
+ ..  AgRg no RHC 124.395/RS, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 13/10/2020, DJe 21/10/2020) 4- No caso, o apenado teve a prisão domiciliar mediante o uso de tornozeleira eletrônica substituída em razão da falta de vagas no regime em que foi condenado, qual seja, o aberto.
+5- Não ficou demonstrado o risco concreto de saúde em função do uso concomitante do marcapasso com a tornozeleira eletrônica, uma vez que, tomando-se os cuidados necessários, é possível a utilização dos dois aparelhos.
+6- Agravo regimental não provido. (AgRg no HC n. 750.926/RJ, Rel. Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe de 8.8.2022.)
+Conclui-se, assim, que no caso em análise não há manifesta ilegalidade a ensejar a concessão da ordem de ofício.
+Ante o exposto, com fundamento no art. 21-E, IV, c/c o art. 210, ambos do RISTJ, indefiro liminarmente o presente Habeas Corpus.
+Cientifique-se o Ministério Público Federal.
+Publique-se.
+Intimem-se.
+ EMENTA
