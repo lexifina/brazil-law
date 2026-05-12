@@ -1,0 +1,27 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Sexta Turma, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Carlos Pires Brandão, Og Fernandes e Sebastião Reis Júnior votaram com o Sr. Ministro Relator.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS. HC COM MESMO OBJETO DE ARESP ANTERIOR. OMISSÃO E/OU CONTRADIÇÃO. AUSÊNCIA. MERO INCONFORMISMO. EMBARGOS DE DECLARAÇAO REJEITADOS.
+1. O reconhecimento de violação do art. 619 do CPP pressupõe a ocorrência de omissão, ambiguidade, contradição ou obscuridade tais que tragam prejuízo à defesa. A assertiva, no entanto, não pode ser confundida com o mero inconformismo da parte com a conclusão alcançada pelo julgador, que, a despeito das teses aventadas, lança mão de fundamentação idônea e suficiente para a formação do seu livre convencimento.
+2. O acórdão embargado não foi omisso, tampouco contraditório. A questão da impossibilidade de conhecimento do habeas corpus foi devidamente analisada, com a demonstração de que, contra a mesma condenação objeto deste writ, também houve a interposição do AREsp n. 3.053.541/SP em favor do ora embargante, por meio do qual a defesa também requereu a absolvição do acusado e, subsidiariamente, a desclassificação do crime a ele imputado para a conduta descrita no art. 28 da Lei de Drogas e a fixação do regime inicial semiaberto.
+3. Embargos de declaração rejeitados.
+RELATÓRIO
+ALAIR VINICUS DOS SANTOS E SILVA opõe embargos de declaração ao acórdão desta colenda Sexta Turma que negou provimento ao agravo regimental, nos termos da seguinte ementa (fl. 81):
+AGRAVO REGIMENTAL NO HABEAS CORPUS. MERA REITERAÇÃO DE ARESP JÁ JULGADO. IMPOSSIBILIDADE DE CONHECIMENTO DA IMPETRAÇÃO. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. Em consulta processual realizada nos assentamentos eletrônicos desta Corte Superior de Justiça, verifica-se que, contra a mesma condenação objeto deste writ, também houve a interposição do AREsp n. 3.053.541/SP em favor do ora paciente, por meio do qual a defesa também requereu a absolvição do acusado e, subsidiariamente, a desclassificação do crime a ele imputado para a conduta descrita no art. 28 da Lei de Drogas e a fixação do regime inicial semiaberto. Assim, uma vez que este habeas corpus se trata de mera reiteração de pedidos, não há como dele se conhecer.
+2. Agravo regimental não provido.
+A defesa alega que o acórdão embargado é omisso, porque deixou de analisar "o argumento central  ..  de que o habeas corpus constitui ação autônoma de impugnação" (fl. 90).
+Afirma, ainda, que "o julgado quedou-se silente sobre a alegação de que a condenação do Embargante se baseou em provas frágeis e insuficientes, colhidas unicamente na fase inquisitorial e não corroboradas em juízo" (fl. 90).
+Requer, assim, o acolhimento dos embargos, com a atribuição de efeitos infringentes ao julgado, para que, em síntese, seja o réu absolvido.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS. HC COM MESMO OBJETO DE ARESP ANTERIOR. OMISSÃO E/OU CONTRADIÇÃO. AUSÊNCIA. MERO INCONFORMISMO. EMBARGOS DE DECLARAÇAO REJEITADOS.
+1. O reconhecimento de violação do art. 619 do CPP pressupõe a ocorrência de omissão, ambiguidade, contradição ou obscuridade tais que tragam prejuízo à defesa. A assertiva, no entanto, não pode ser confundida com o mero inconformismo da parte com a conclusão alcançada pelo julgador, que, a despeito das teses aventadas, lança mão de fundamentação idônea e suficiente para a formação do seu livre convencimento.
+2. O acórdão embargado não foi omisso, tampouco contraditório. A questão da impossibilidade de conhecimento do habeas corpus foi devidamente analisada, com a demonstração de que, contra a mesma condenação objeto deste writ, também houve a interposição do AREsp n. 3.053.541/SP em favor do ora embargante, por meio do qual a defesa também requereu a absolvição do acusado e, subsidiariamente, a desclassificação do crime a ele imputado para a conduta descrita no art. 28 da Lei de Drogas e a fixação do regime inicial semiaberto.
+3. Embargos de declaração rejeitados.
+VOTO
+Consoante o disposto no art. 619 do Código de Processo Penal, a oposição de embargos de declaração enseja, em síntese, o aprimoramento da prestação jurisdicional, por meio da retificação do julgado que se apresenta omisso,
+ambíguo, contraditório ou com erro material. São inadmissíveis, portanto, quando, a pretexto da necessidade de esclarecimento, aprimoramento ou complemento da decisão embargada, objetivam, em essência, o rejulgamento do caso.
+No caso, constato que o acórdão embargado não foi omisso, tampouco contraditório. A questão da impossibilidade de conhecimento do habeas corpus foi devidamente analisada, com a demonstração de que, contra a mesma condenação objeto deste writ, também houve a interposição do AREsp n. 3.053.541/SP em favor do ora embargante, por meio do qual a defesa também requereu a absolvição do acusado e, subsidiariamente, a desclassificação do crime a ele imputado para a conduta descrita no art. 28 da Lei de Drogas e a fixação do regime inicial semiaberto.
+Assim, o que se percebe, na verdade, é que a irresignação do recorrente se resume a mero inconformismo com o resultado do julgado, que lhe foi desfavorável, não havendo nenhum fundamento que justifique a oposição de embargos de declaração.
+À vista do exposto, rejeito os embargos de declaração.
