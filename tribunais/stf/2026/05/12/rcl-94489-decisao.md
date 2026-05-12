@@ -1,0 +1,52 @@
+DECISÃO:
+Vistos.
+Cuida-se de reclamação constitucional ajuizada por Fernando Stephan Marroni contra decisão do Tribunal de Justiça do Estado do Rio Grande do Sul, proferida nos autos do Processo nº 5353417-88.2023.8.21.7000, que teria desrespeitado a autoridade do Supremo Tribunal Federal Ação Penal nº 523/RS e a eficácia da tese firmada no Tema nº 1.199 da Repercussão Geral.
+A parte reclamante narra que
+“foi condenado em Ação Civil Pública – Improbidade Administrativa -, decisão essa que veio a transitar em julgado. Em momento posterior, tendo em vista o foro por prerrogativa de função, o agente público (então Deputado Federal) veio a ser absolvido na esfera criminal pelo Supremo Tribunal Federal pelos mesmos fatos, que assentou a inexistência de tipicidade na sua conduta.”
+
+Acrescenta que
+“Nos autos do cumprimento de sentença (5000140- 77.2007.8.21.0022, 2º Juízo da 1ª Vara Cível da Comarca de Pelotas), na Ação Civil Pública (022/1.07.0014358-1 – CNJ 0143581-07.2007.8.21.002), Acórdão do Tribunal Estadual refutou a inexistência de justa causa para o cumprimento de sentença, invocando tese firmada no Tema 1199 do STF.”
+
+O reclamante defende a impossibilidade de subsistência de execução sancionatória fundada em fato que esta Suprema Corte declarou atípico.
+Sustenta que a manutenção da execução da sanção por improbidade administrativa, fundamentada em mesmo suporte fático, gera ruptura lógica do sistema sancionador ante uma incompatibilidade lógica entre as decisões.
+Ao final, requer:
+“a) o conhecimento da presente Reclamação, com sua distribuição por prevenção ao Ministro Dias Toffoli, determinando o seu processamento e tendo presente as disposições dos artigos 156 a 162 do Regimento Interno do Supremo Tribunal Federal, requisitando-se informações à Presidência do Tribunal de Justiça do Estado do Rio Grande do Sul, para que as preste no prazo de 5 (cinco) dias. Decorrido o prazo, com ou sem manifestação da autoridade a quem foi imputado o ato impugnado, seja dado vista ao Procurador-Geral; b) a concessão da liminar nos termos acima requerido, com base no permissivo do art. 158, do RISTF; c) ao final, o julgamento procedente para reconhecer a violação à autoridade da decisão proferida na AP 523/RS e declarar inexigível a execução da condenação por improbidade administrativa; d) a comunicação imediata ao juízo de origem.”
+
+É o relatório. Decido
+A jurisprudência do STF desenvolveu-se no sentido de exigir o esgotamento de instância como requisito de admissibilidade de reclamação constitucional com fundamento em tese de repercussão geral, sobrevindo a edição da Lei nº 13.105/2015 (CPC/2015), que positivou a condição no art. 988, § 5º, II, in verbis:
+
+“Art. 988. […]
+§ 5º É inadmissível a reclamação:
+[…]
+II – proposta para garantir a observância de acórdão de recurso extraordinário com repercussão geral reconhecida ou de acórdão proferido em julgamento de recursos extraordinário ou especial repetitivos, quando não esgotadas as instâncias ordinárias.”
+
+Vide precedentes do STF, no sentido de que o esgotamento de instância ocorre somente em sede de decisão colegiada da origem que, em sede de agravo interno, aprecia a negativa de seguimento de recurso extraordinário pela repercussão geral:
+
+“AGRAVO REGIMENTAL NA RECLAMAÇÃO. PROCESSUAL CIVIL. INTEMPESTIVIDADE. NÃO INTERPOSIÇAO DO AGRAVO INTERNO DO § 2º DO ART. 1.030 DO CÓDIGO DE PROCESSO CIVIL. AUSÊNCIA DE ESGOTAMENTO DE INSTÂNCIA NA ORIGEM. IMPOSSIBILIDADE DE UTILIZAÇÃO DA RECLAMAÇÃO COMO SUCEDÂNEO DE RECURSO. AUSÊNCIA DE IMPUGNAÇÃO DOS FUNDAMENTOS DA DECISÃO AGRAVADA: INVIABILIDADE. AGRAVO REGIMENTAL NÃO CONHECIDO” (Rcl nº 41.920/SC-AgR, Rel. Min. Cármen Lúcia, Segunda Turma, DJe de 25/9/2020).
+
+“DIREITO PROCESSUAL CIVIL. ALEGAÇÃO DE AFRONTA A TESE EM REPERCUSSÃO GERAL. AUSÊNCIA DE ESGOTAMENTO DE INSTÂNCIAS. RECLAMAÇÃO INVIÁVEL. 1. O CPC/2015 prevê como requisito para o ajuizamento de reclamação por alegação de afronta a tese firmada em repercussão geral o esgotamento das instâncias ordinárias (art. 988, § 5º, II, do CPC/2015). 2. Agravo interno a que se nega provimento, com aplicação da multa prevista no art. 1.021, § 4º, do CPC/2015, em caso de decisão unânime” (Rcl nº 34.827/SP-AgR, Rel. Min. Roberto Barroso, Primeira Turma, DJe de 13/9/2019).
+
+“Agravo regimental na reclamação. Repercussão geral. Ausência de esgotamento de instância. Agravo regimental não provido. 1. O reconhecimento da repercussão geral tem por precisa consequência esgotar a cognição nesta Corte acerca da matéria em “recursos com fundamento em idêntica controvérsia” (art. 543-B, caput, do CPC) e recomendar todos os processos, principais ou acessórios, à respectiva origem, a fim de aguardarem pronunciamento do STF , após o que competirá à Corte de origem proceder de acordo com a disciplina processual editada a fim de regulamentar a nova sistemática introduzida ao art. 102, §3º, da CF/88 pela EC nº 45/2004. 2. A reclamação constitucional com fundamento na erronia de aplicação de entendimento do STF firmado de acordo com a sistemática da repercussão geral admite como objeto tão somente decisão judicial proferida no exercício da competência conferida à Corte de origem quanto à apreciação de recurso extraordinário pelo Código de Processo Civil, sob pena de se subverter o instituto e tornar inócua a inovação normativa introduzida pela EC nº 45/04. Precedente plenário. 3. Agravo regimental não provido” (Rcl nº 20.892/RJ-AgR, de minha relatoria, Segunda Turma, DJe de 18/4/2016).
+
+Após consulta do andamento processual no sítio eletrônico do Tribunal de Justiça do Estado do Rio Grande do Sul, verifico que sequer houve a interposição de recurso extraordinário, tratando-se o ato reclamado de decisão de indeferimento de antecipação de tutela proferida em agravo, não tendo havido o esgotamento de instância.
+Portanto, não há que se falar em esgotamento da instância ordinária para fins de conhecimento da reclamatória cujo paradigma é tese firmada pelo STF em repercussão geral.
+Não cumprido o requisito de esgotamento de instância, entendo que o debate proposto deve se desenvolver pelos meios processuais adequados, não se admitindo o uso da reclamação como sucedâneo de recurso ou ação própria, conforme reiterada jurisprudência da Suprema Corte:
+
+“O instituto da reclamação não se presta para substituir recurso específico que a legislação tenha posto à disposição do jurisdicionado irresignado com a decisão judicial proferida pelo juízo a quo” (Rcl nº 5.703-AgR/SP, Tribunal Pleno, Rel. Min. Cármen Lúcia , DJe-195 de 16/10/09).
+
+Além disso, no caso, sendo a reclamação constitucional usada para questionar decisão cautelar de relator no âmbito do Tribunal local, entendo que se tem o uso da reclamação como sucedâneo de recurso próprio, fim para o qual não se presta a reclamação constitucional, conforme reiterada jurisprudência do STF:
+
+“Ementa: AGRAVO REGIMENTAL EM RECLAMAÇÃO CONSTITUCIONAL PROPOSTA PARA GARANTIR A OBSERVÂNCIA DE DECISÃO DESTA SUPREMA CORTE PROFERIDA SOB A SISTEMÁTICA DA REPERCUSSÃO GERAL (ART. 988, § 5º, do CPC). AUSÊNCIA DE ESGOTAMENTO DAS INSTÂNCIAS RECURSAIS ORDINÁRIAS. UTILIZAÇÃO DA VIA RECLAMATÓRIA COMO SUCEDÂNEO RECURSAL. INVIABILIDADE. AGRAVO DESPROVIDO. I - A jurisprudência desta Suprema Corte é pacífica no sentido de que o cabimento da reclamação, quando tem por finalidade garantir a observância de entendimento proferido sob a sistemática de repercussão geral, exige o esgotamento da instância de origem, o que ocorre com o julgamento de agravo interno manejado contra decisão do Presidente ou Vice-Presidente que inadmite o recurso extraordinário. II - O que pretende a agravante, na verdade, é usar o instrumento processual da reclamação como sucedâneo recursal, finalidade essa que não converge com a sua destinação constitucional. III - Agravo ao qual desprovido.” (Rcl nº 63415 AgR, Rel. Min. Cristiano Zanin, Primira Turma, DJe de 13/3/24)
+
+“Ementa: AGRAVO REGIMENTAL NA RECLAMAÇÃO. REPERCUSSÃO GERAL. TEMA 1199. ESGOTAMENTO DAS INSTÂNCIAS ORDINÁRIAS. INOBSERVÂNCIA. AUSÊNCIA DE JUÍZO DE ADMISSIBILIDADE. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO. 1. É firme a jurisprudência do Supremo Tribunal Federal em inadmitir a reclamação antes de esgotados todos os instrumentos recursais nas instâncias ordinárias, nos termos do art. 988, § 5º, do CPC, de maneira que se possibilite a aplicação do entendimento fixado pela sistemática da repercussão geral. 2. Cumpria, portanto, à parte reclamante esgotar devidamente as instâncias para o manejo da presente reclamação à luz do julgamento de mérito do Tema 1199 da RG. Na hipótese, conforme andamento processual, por ocasião do ajuizamento da reclamação, sequer havia juízo de admissibilidade do recurso extraordinário, positivo ou negativo. 3. Inviável, portanto, o conhecimento da presente reclamação, por carência de interesse processual, na modalidade da adequação, para o uso da ação escolhida (CPC, art. 485, VI), devendo valer-se a parte dos meios e recursos próprios, que se lhe convenham à situação e não tenham ainda sido usados. 4. É remansosa a jurisprudência do Supremo Tribunal Federal no sentido de que a reclamação não pode ser usada como sucedâneo de recurso próprio, nem de ação rescisória 5. Agravo regimental a que se nega provimento.” (Rcl nº 62596 AgR, Rel. Min. Edson Fachin, Segunda Turma, DJe de 8/3/24)
+
+Portanto, eventual instauração de debate constitucional na via recursal extraordinária estará submetida à sistemática da repercussão geral e, sendo regularmente desenvolvida, na hipótese de descumprimento da normatização dos precedentes obrigatórios, a matéria poderá ser oportunamente submetida ao STF na via da reclamação com paradigma no Tema nº 1199.
+Ante o exposto, nego seguimento à reclamação, nos termos do artigo 21, § 1º, do RISTF. Prejudica a apreciação do pedido liminar.
+Observo que a parte reclamante não cumpriu integralmente os requisitos da petição inicial, deixando de atribuir valor à causa (art. 319, inciso V, c/c art. 291, ambos do CPC/2015).
+Deixo de determinar sua emenda (art. 321 do CPC) ante o indeferimento liminar da inicial. Entretanto, na eventualidade de interposição de recurso desta decisão, seu conhecimento fica condicionado ao saneamento dos defeitos juntamente com a peça recursal, oportunidade em se procederá à análise a correção do valor da causa e eventual juízo de adequação (CPC/2015, art. 292, §3º).
+Publique-se.
+Brasília, 12 de maio de 2026.
+
+Ministro DIAS TOFFOLI
+Relator
+Documento assinado digitalmente
