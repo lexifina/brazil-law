@@ -1,0 +1,44 @@
+DECISÃO
+HYAGO OLIVEIRA FERREIRA FACUNDO alega sofrer constrangimento ilegal no seu direito de locomoção em decorrência de acórdão proferido pelo Tribunal de Justiça do Estado do Ceará no Habeas Corpus n. 0622684-17.2026.8.06.0000.
+A defesa sustenta que o decreto de prisão preventiva é genérico, fundado na garantia da ordem pública e na gravidade do delito, sem a indicação de fatos novos. Afirma que o recorrente tem residência fixa, profissão definida e família constituída, colaborou com as investigações e se apresentou espontaneamente. Aduz que é possível substituir a custódia por medidas cautelares previstas no art. 319 do CPP.
+Requer a revogação da prisão preventiva, com substituição por medidas cautelares diversas.
+Decido.
+O recurso em habeas corpus comporta julgamento imediato, tendo em vista que a questão veiculada encontra solução no entendimento dominante do Superior Tribunal de Justiça.
+O Juízo de primeira instância, ao decretar a prisão preventiva do acusado pela suposta prática de roubo circunstanciado, ofereceu os seguintes argumentos (fls. 62-63, destaquei):
+I) HYAGO OLIVEIRA FERREIRA FACUNDO:
+A manutenção do representado em liberdade traz sérios risco a ordem pública - por se tratar da prática de delito de extrema gravidade (art. 157, §2º, do Código Penal), bem como pelas circunstâncias nas quais o crime foi supostamente cometido, haja vista que o investigado se utilizando de violência e ameaça, subtraiu da vítima valores, celular, carteira e o seu veículo, com todas as mercadorias. Frise-se, ainda, o delito fora praticado em concurso de agentes e com uso de simulacro de arma de fogo. Além disso, vê-se que o representado teve o auxílio de dois adolescentes para a prática delituosa.
+Dessa maneira, a gravidade concreta dos fatos certamente ampara medida extrema para a garantia da ordem pública, pois a natureza do delito é grave, bem como as circunstâncias em que o envolveram demonstram a periculosidade do agente.
+O Tribunal estadual, a seu turno, manteve a custódia cautelar em acórdão assim motivado (fls. 218-220):
+Em análise à decisão, verifico que o decreto prisional está fundamentado em elementos vinculados à realidade, tendo a autoridade impetrada feito referência às circunstâncias fáticas justificadoras, notadamente à garantia da ordem pública, tudo com base nos arts. 312 e 313 do CPP, notadamente pelo estado de perigo gerado pela liberdade do paciente a garantia da ordem pública.
+ ..
+Prosseguindo, acerca do periculum libertatis, enquanto perigo decorrente do estado de liberdade da paciente, constatei que a autoridade apontada como coatora evidenciou a necessidade da medida constritiva para a garantia da ordem pública, ante a gravidade concreta do delito, considerando, principalmente, o concurso de agentes, inclusive com a participação de dois menores de idade, o uso de violência e ameaça, caracterizadas pelas agressões físicas mesmo já estando caído no chão, incluindo golpe com objeto semelhante a arma de fogo (coronhada), conforme por ela relatado.
+Além disso, ressalta-se a intimidação exercida mediante a ordem de "não olhar", dirigida à vítima, além da utilização de simulacro de arma de fogo, circunstâncias que evidenciam maior reprovabilidade da conduta e reforçam a necessidade da segregação cautelar para resguardar a ordem pública. (fls. 04/05 e 13/14 dos autos de nº 0203937- 97.2025.8.06.0298). Neste sentido, colaciona-se trecho do boletim de ocorrência (fls 04/05) :
+ ..
+Assim, verifico que o juízo de origem agiu corretamente ao fundamentar a prisão cautelar do paciente na necessidade de garantia da ordem pública, considerando a gravidade do delito, reportando aos indícios e fatos concretos carreados aos autos aptos a demonstrar o fumus comissi delicti e o periculum libertatis.
+A prisão preventiva é compatível com a presunção de não culpabilidade do acusado desde que não assuma natureza de antecipação da pena e não decorra, automaticamente, do caráter abstrato do crime ou do ato processual praticado (art. 313, § 2º, CPP). Além disso, a decisão judicial deve apoiar-se em motivos e fundamentos concretos, relativos a fatos novos ou contemporâneos, dos quais se possa extrair o perigo que a liberdade plena do investigado ou réu representa para os meios ou os fins do processo penal (arts. 312 e 315 do CPP).
+Apoiado nessa premissa, verifico que se mostram suficientes as razões invocadas pelas instâncias ordinárias para embasar a ordem de prisão do ora recorrente, porquanto contextualizaram, em dados dos autos, a necessidade cautelar de sua segregação.
+Conforme ressaltado no decreto prisional, o réu, em concurso de pessoas (inclusive na companhia de dois adolescentes) haveria subtraído bens da vítima mediante violência e grave ameaça exercida com simulacro de arma de fogo.
+O STJ, em casos similares, entende ser válida a motivação da custódia preventiva na gravidade concreta do delito, evidenciada pelo modus operandi com o qual o crime foi praticado. Nesse sentido:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. ROUBO QUALIFICADO E CORRUPÇÃO DE MENORES. PRISÃO PREVENTIVA. GRAVIDADE CONCRETA. ENVOLVIMENTO DE ADOLESCENTE E FUGA APÓS A PRÁTICA DO DELITO. AUSÊNCIA DE ILEGALIDADE.
+1. É firme o entendimento jurisprudencial de que "a segregação cautelar para a garantia da ordem pública se mostra fundamentada no caso em que o modus operandi empregado revela especial desvalor da conduta", (AgRg no HC n. 582.326/PR, relator Ministro Nefi Cordeiro, Sexta Turma, julgado em 4/8/2020, DJe 13/8/2020), a evidenciar a periculosidade real, propensão à prática delitiva e conduta violenta, como no caso.
+2. A prática do delito de roubo qualificado com o envolvimento de adolescente, mediante o uso de simulacro de arma de fogo, com fuga logo após a prática delitiva, constitui motivação idônea para a custódia cautelar, como garantia da ordem pública.
+3. Havendo a indicação de fundamentos concretos para justificar a custódia cautelar, não se revela cabível a aplicação de medidas cautelares alternativas à prisão, visto que insuficientes para resguardar a ordem pública.
+4. Agravo regimental improvido.
+(AgRg no HC n. 775.442/SP, relator Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), Sexta Turma, julgado em 17/4/2023, DJe de 20/4/2023.)
+DIREITO PENAL. HABEAS CORPUS. PRISÃO PREVENTIVA. ROUBO MAJORADO. CORRUPÇÃO DE MENORES. USO DE SIMULACRO DE ARMA DE FOGO. ORDEM DENEGADA.
+I. Caso em exame
+1. Habeas corpus impetrado contra decisão do Tribunal de Justiça do Estado de São Paulo que manteve a prisão preventiva do paciente, acusado de roubo majorado (concurso de agentes) e corrupção de menores, com uso de simulacro de arma de fogo, visando à subtração de bens de vítimas em sua residência.
+II. Questão em discussão
+2. A questão em discussão consiste na verificação da presença dos requisitos para a manutenção da prisão preventiva, conforme o art. 312 do CPP.
+III. Razões de decidir
+3. A prisão preventiva é compatível com a presunção de não culpabilidade, desde que não assuma natureza de antecipação de pena.
+4. A decisão de origem está fundamentada na presença do "fumus comissi delicti" e "periculum libertatis", com base na gravidade concreta dos crimes praticados.
+5. A jurisprudência do STJ corrobora a manutenção da prisão preventiva em casos de gravidade concreta que desbordam o tipo penal.
+IV. Dispositivo
+6. Ordem de habeas corpus denegada.
+(HC n. 859.382/SP, relatora Ministra Daniela Teixeira, Quinta Turma, julgado em 5/11/2024, DJe de 11/11/2024.)
+Em razão da gravidade do crime e das indicadas circunstâncias do fato, as medidas cautelares alternativas à prisão não se mostram adequadas e suficientes para evitar a prática de novas infrações penais. Nesse sentido: "as circunstâncias que envolvem o fato demonstram que outras medidas previstas no art. 319 do Código de Processo Penal são insuficientes para a consecução do efeito almejado. Ou seja, tendo sido exposta de forma fundamentada e concreta a necessidade da prisão, revela-se incabível sua substituição por outras medidas cautelares mais brandas" (AgRg no HC n. 789.592/SP, Rel. Ministro Reynaldo Soares da Fonseca, 5ª T., DJe 27/2/2023).
+Ainda, de acordo com a jurisprudência deste Tribunal Superior, "Condições pessoais favoráveis, como primariedade, residência fixa e ocupação lícita, não são suficientes para afastar a necessidade da prisão preventiva, conforme entendimento pacífico desta Corte" (AgRg no RHC n. 228.215/SP, Rel. Ministro Ribeiro Dantas, 5ª T., DJEN de 23/4/2026) e "Condições pessoais favoráveis do recorrente não afastam a necessidade da prisão preventiva, tendo em vista que não guardam relação com os motivos determinantes da medida" (RHC n. 230.576/PR, Rel. Ministro Sebastião Reis Júnior, 6ª T., DJEN de 22/4/2026).
+À vista do exposto, nego provimento ao recurso em habeas corpus in limine.
+Publique-se e intimem-se.
+ EMENTA
