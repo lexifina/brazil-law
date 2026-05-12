@@ -1,0 +1,59 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Turma, por unanimidade, negar provimento ao agravo regimental.
+Os Srs. Ministros Maria Marluce Caldas, Reynaldo Soares da Fonseca, Ribeiro Dantas e Joel Ilan Paciornik votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Reynaldo Soares da Fonseca.
+EMENTA
+Direito processual penal. Agravo regimental. Agravo em recurso especial. Princípio da dialeticidade recursal. Impugnação específica. Súmula 7/STJ. Agravo regimental desprovido.
+I. Caso em exame
+1. Agravo regimental interposto contra decisão monocrática que não conheceu de agravo em recurso especial, mantida a decisão de inadmissibilidade do recurso especial na origem em razão da incidência da Súmula 7/STJ, por ausência de impugnação específica desse óbice.
+2. A parte agravante sustenta, em síntese, que: (i) teria observado o princípio da dialeticidade recursal ao impugnar os fundamentos da decisão de inadmissibilidade nas razões do agravo em recurso especial; (ii) a hipótese configuraria error iuris in iudicando decorrente de equívoco na valoração probatória, afastando o óbice da Súmula 7/STJ; e (iii) haveria jurisprudência desta Corte admitindo a revaloração do material fático-probatório sem ofensa ao referido enunciado sumular.
+II. Questão em discussão
+3. Há duas questões em discussão: (i) saber se o agravo em recurso especial apresentou impugnação específica, concreta e pormenorizada ao fundamento autônomo de inadmissibilidade do recurso especial, qual seja, a incidência da Súmula 7/STJ, em conformidade com o princípio da dialeticidade recursal; e (ii) saber se a mera alegação genérica de distinção entre reexame e revaloração de provas, com invocação de error iuris in iudicando, é suficiente para afastar o óbice da Súmula 7/STJ e suprir a exigência de impugnação específica.
+III. Razões de decidir
+4. A decisão monocrática corretamente aplicou o art. 932, III, do CPC/2015, c/c o art. 253, parágrafo único, I, do RISTJ, ao não conhecer do agravo em recurso especial que deixou de impugnar especificamente o fundamento de incidência da Súmula 7/STJ, que havia motivado a inadmissibilidade do recurso especial na origem.
+5. O princípio da dialeticidade recursal impõe ao recorrente o ônus de atacar, de forma concreta e individualizada, todos os fundamentos autônomos da decisão recorrida, não se admitindo alegações genéricas dissociadas das premissas fáticas fixadas pelo Tribunal de origem.
+6. As razões do agravo em recurso especial limitaram-se a invocar, de modo abstrato, a distinção entre reexame e revaloração de provas, sem demonstrar concretamente como o acórdão recorrido teria incorrido em error iuris, à luz das próprias premissas fáticas nele estabelecidas, de forma a afastar a necessidade de incursão no acervo fático-probatório.
+7. A simples menção à possibilidade de revaloração probatória, desacompanhada da indicação precisa dos elementos constantes do acórdão recorrido que evidenciariam equívoco jurídico na aplicação da prova, não satisfaz a exigência de impugnação específica do óbice sumular, segundo a jurisprudência consolidada desta Corte Superior.
+8. No agravo regimental, a parte agravante não apresentou argumentos novos aptos a infirmar os fundamentos da decisão monocrática, que examinou a matéria nos estritos limites da via eleita, impondo-se a manutenção do decisum pelos seus próprios fundamentos.
+IV. Dispositivo e tese
+Resultado do Julgamento: Agravo regimental desprovido.
+Tese de julgamento:
+1. O agravo em recurso especial deve impugnar específica, concreta e individualizadamente todos os fundamentos autônomos da decisão de inadmissibilidade, sob pena de não conhecimento, nos termos do art. 932, III, do CPC/2015, c/c o art. 253, parágrafo único, I, do RISTJ.
+2. A mera invocação genérica da tese de revaloração probatória, desacompanhada da indicação precisa de premissas fáticas constantes do acórdão recorrido que evidenciem error iuris, não supre o requisito de impugnação específica do óbice da Súmula 7/STJ.
+Dispositivos relevantes citados:CPC/2015, art. 932, III; RISTJ, art. 253, parágrafo único, I; Súmula 7/STJ.
+Jurisprudência relevante citada:STJ, AgRg no HC 804.533/PE, Quinta Turma, Rel. Min. Reynaldo Soares da Fonseca, DJe 17.03.2023; STJ, AgRg no HC 659.003/SP, Sexta Turma, Rel. Min. Rogerio Schietti Cruz, DJe 30.03.2023.
+RELATÓRIO
+Trata-se de agravo regimental interposto por MARIO AUGUSTO SOTERO PINTO em face de decisão proferida às fls. 464-465, que não conheceu do Agravo em Recurso Especial.
+Nas razões do agravo, às fls. 473-479, a parte recorrente argumenta, em síntese, que: (i) teria, de fato, impugnado os fundamentos da decisão agravada nas razões do AREsp, observando o princípio da dialeticidade recursal; (ii) os argumentos apresentados demonstrariam que a hipótese não seria de reexame de provas, mas de error iuris in iudicando proveniente de equívoco na valoração probatória, o que afastaria o óbice da Súmula 7/STJ; (iii) haveria jurisprudência do próprio STJ admitindo a revaloração do material fático-probatório sem ofensa ao referido enunciado sumular.
+É o relatório.
+EMENTA
+Direito processual penal. Agravo regimental. Agravo em recurso especial. Princípio da dialeticidade recursal. Impugnação específica. Súmula 7/STJ. Agravo regimental desprovido.
+I. Caso em exame
+1. Agravo regimental interposto contra decisão monocrática que não conheceu de agravo em recurso especial, mantida a decisão de inadmissibilidade do recurso especial na origem em razão da incidência da Súmula 7/STJ, por ausência de impugnação específica desse óbice.
+2. A parte agravante sustenta, em síntese, que: (i) teria observado o princípio da dialeticidade recursal ao impugnar os fundamentos da decisão de inadmissibilidade nas razões do agravo em recurso especial; (ii) a hipótese configuraria error iuris in iudicando decorrente de equívoco na valoração probatória, afastando o óbice da Súmula 7/STJ; e (iii) haveria jurisprudência desta Corte admitindo a revaloração do material fático-probatório sem ofensa ao referido enunciado sumular.
+II. Questão em discussão
+3. Há duas questões em discussão: (i) saber se o agravo em recurso especial apresentou impugnação específica, concreta e pormenorizada ao fundamento autônomo de inadmissibilidade do recurso especial, qual seja, a incidência da Súmula 7/STJ, em conformidade com o princípio da dialeticidade recursal; e (ii) saber se a mera alegação genérica de distinção entre reexame e revaloração de provas, com invocação de error iuris in iudicando, é suficiente para afastar o óbice da Súmula 7/STJ e suprir a exigência de impugnação específica.
+III. Razões de decidir
+4. A decisão monocrática corretamente aplicou o art. 932, III, do CPC/2015, c/c o art. 253, parágrafo único, I, do RISTJ, ao não conhecer do agravo em recurso especial que deixou de impugnar especificamente o fundamento de incidência da Súmula 7/STJ, que havia motivado a inadmissibilidade do recurso especial na origem.
+5. O princípio da dialeticidade recursal impõe ao recorrente o ônus de atacar, de forma concreta e individualizada, todos os fundamentos autônomos da decisão recorrida, não se admitindo alegações genéricas dissociadas das premissas fáticas fixadas pelo Tribunal de origem.
+6. As razões do agravo em recurso especial limitaram-se a invocar, de modo abstrato, a distinção entre reexame e revaloração de provas, sem demonstrar concretamente como o acórdão recorrido teria incorrido em error iuris, à luz das próprias premissas fáticas nele estabelecidas, de forma a afastar a necessidade de incursão no acervo fático-probatório.
+7. A simples menção à possibilidade de revaloração probatória, desacompanhada da indicação precisa dos elementos constantes do acórdão recorrido que evidenciariam equívoco jurídico na aplicação da prova, não satisfaz a exigência de impugnação específica do óbice sumular, segundo a jurisprudência consolidada desta Corte Superior.
+8. No agravo regimental, a parte agravante não apresentou argumentos novos aptos a infirmar os fundamentos da decisão monocrática, que examinou a matéria nos estritos limites da via eleita, impondo-se a manutenção do decisum pelos seus próprios fundamentos.
+IV. Dispositivo e tese
+Resultado do Julgamento: Agravo regimental desprovido.
+Tese de julgamento:
+1. O agravo em recurso especial deve impugnar específica, concreta e individualizadamente todos os fundamentos autônomos da decisão de inadmissibilidade, sob pena de não conhecimento, nos termos do art. 932, III, do CPC/2015, c/c o art. 253, parágrafo único, I, do RISTJ.
+2. A mera invocação genérica da tese de revaloração probatória, desacompanhada da indicação precisa de premissas fáticas constantes do acórdão recorrido que evidenciem error iuris, não supre o requisito de impugnação específica do óbice da Súmula 7/STJ.
+Dispositivos relevantes citados:CPC/2015, art. 932, III; RISTJ, art. 253, parágrafo único, I; Súmula 7/STJ.
+Jurisprudência relevante citada:STJ, AgRg no HC 804.533/PE, Quinta Turma, Rel. Min. Reynaldo Soares da Fonseca, DJe 17.03.2023; STJ, AgRg no HC 659.003/SP, Sexta Turma, Rel. Min. Rogerio Schietti Cruz, DJe 30.03.2023.
+VOTO
+Presentes os requisitos legais, conheço do agravo regimental.
+Em que pesem os argumentos contidos nas razões recursais, o agravo não comporta provimento, porquanto a parte agravante não trouxe argumentos capazes de ensejar a alteração do entendimento firmado por ocasião da decisão monocrática, que deve ser mantida, máxime porque embasada em julgados desta Corte Superior de Justiça.
+A decisão monocrática agravada não conheceu do AREsp com fundamento expresso e único: a parte agravante havia deixado de impugnar especificamente o óbice da Súmula 7/STJ, que motivou a inadmissibilidade do Recurso Especial na origem.
+Nos termos do art. 932, inciso III, do CPC/2015, c/c o art. 253, parágrafo único, inciso I, do RISTJ, não se conhece do agravo em recurso especial que "não tenha impugnado especificamente todos os fundamentos da decisão recorrida". A exigência de impugnação específica é corolário do princípio da dialeticidade recursal, que impõe ao recorrente o ônus de apresentar razões concretas e pormenorizadas contra cada fundamento autônomo da decisão impugnada.
+Nada obstante a alegação da Defensoria de que teria havido tal impugnação, a análise dos autos revela que as razões apresentadas no AREsp se limitaram , no ponto que toca ao óbice sumular, a invocar a distinção doutrinária e jurisprudencial entre reexame e revaloração de provas, sem, contudo, demonstrar de forma concreta e específica de que maneira o acórdão recorrido teria incorrido em error iuris, sem necessidade de incursão no acervo fático-probatório dos autos.
+A simples menção à tese da revaloração probatória, de forma genérica e desvinculada das premissas fáticas estabelecidas pelo Tribunal de origem, não satisfaz o requisito de impugnação específica exigido pela jurisprudência desta Corte. Como reiteradamente assentado, não basta invocar o distinguishing de modo abstrato  é imprescindível que o recorrente aponte, com precisão, quais os elementos constantes do próprio acórdão recorrido que demonstrariam ter o Tribunal a quo partido de premissa jurídica equivocada, sem necessidade de reapreciação dos fatos e das provas.
+Assim, a matéria restou devidamente debatida na decisão recorrida, claro, nos limites da via eleita, de forma que não há falar em possível reversão do antes julgado.
+Por fim, destaque-se que, no presente agravo regimental, não se aduziu qualquer argumento apto a ensejar a alteração da decisão ora agravada, devendo ser mantida por seus próprios fundamentos. Acerca do tema: AgRg no HC n. 804.533/PE, Quinta Turma, Rel. Min. Reynaldo Soares da Fonseca, DJe de 17/3/2023; e AgRg no HC n. 659.003/SP, Sexta Turma, Rel. Min. Rogerio Schietti Cruz, DJe de 30/3/2023.
+Ante o exposto, nego provimento ao agravo regimental.
+É o voto.
