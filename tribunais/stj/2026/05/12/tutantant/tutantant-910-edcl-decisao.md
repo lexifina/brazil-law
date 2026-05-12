@@ -1,0 +1,13 @@
+DECISÃO
+FORTE SECURITIZADORA S.A. (FORTESEC) opõe embargos de declaração à decisão de fls. 227-231, que indeferiu o pedido de tutela antecipatória antecedente e julgou extinto o processo, ao fundamento da ausência do fumus boni iuris, reputando desnecessário o exame do periculum in mora.
+Em suas razões, a embargante aponta omissão quanto aos seguintes pontos: (i) não enfrentamento da tese de inexistência de ato atentatório à dignidade da justiça por ausência de conduta dolosa ou resistência injustificada, diante do exercício regular do direito de recorrer e do dever legal de sigilo bancário; (ii) não análise das justificativas jurídicas para o não cumprimento imediato da ordem de exibição de extratos de conta vinculada a patrimônio separado e regime fiduciário; e (iii) não apreciação do periculum in mora, consubstanciado no risco concreto de execução imediata da multa e de constrição patrimonial.
+Requer o suprimento das omissões com a complementação da decisão para examinar integralmente o pedido de tutela antecipada, inclusive quanto à validade da multa e o perigo da demora.
+É o relatório. Decido.
+Nos termos do art. 1.022 do CPC, os embargos de declaração destinam-se a aclarar obscuridade, eliminar contradição, suprir omissão ou corrigir erro material existentes no julgado.
+No presente caso, a embargante alega que a decisão foi omissa quanto ao exame da inexistência de ato atentatório à dignidade da justiça e das justificativas apresentadas para o não cumprimento imediato da ordem.
+Razão não lhe assiste, pois a decisão embargada foi clara em pontuar que as justificativas para afastar a configuração de ato atentatório à dignidade da justiça foram objeto de anterior recurso especial interposto contra a decisão que determinou a exibição dos extratos e que o mérito do recurso a que ora se pretende atribuir efeito suspensivo estava restrito à majoração do valor da multa.
+A decisão também foi precisa em examinar a plausibilidade jurídica das violações legais suscitadas no recurso especial a que se pretende atribuir efeito suspensivo. Nessa linha, afastou as alegações de ofensa aos arts. 489, § 1º, IV e 1.022 do CPC, entendendo que o Tribunal de origem apresentou fundamentação devida para a majoração da multa imposta. Quanto ao mérito do recurso especial, afirmou a deficiência das razões recursais quanto à demonstração de ofensa ao art. 77 do CPC e salientou que o art. 774 do CPC, sequer foi apontado como violado no recurso especial.
+Por fim, a decisão embargada justificou a desnecessidade de exame do requisito do periculum in mora ante a ausência da plausibilidade do direito, o que já seria suficiente para o indeferimento da tutela pretendida.
+Ante o exposto, rejeito os embargos de declaração.
+Publique-se. Intimem-se.
+EMENTA
