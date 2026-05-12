@@ -1,0 +1,54 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Turma, por unanimidade, negar provimento ao agravo regimental.
+Os Srs. Ministros Ribeiro Dantas, Joel Ilan Paciornik, Messod Azulay Neto e Maria Marluce Caldas votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Reynaldo Soares da Fonseca.
+EMENTA
+PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DA DECISÃO AGRAVADA. INCIDÊNCIA DA SÚMULA N. 182/STJ. INSUFICIÊNCIA DE RAZÕES GENÉRICAS PARA AFASTAR OS ÓBICES DAS SÚMULAS 83 E 7/STJ. INOVAÇÃO RECURSAL. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. A decisão agravada deixou de conhecer do agravo em recurso especial por falta de impugnação específica dos fundamentos da inadmissão do recurso especial na origem (Súmulas 83 e 7/STJ), incidindo, por analogia, a Súmula n. 182/STJ.
+2. A mera alegação de enfrentamento "em substância" dos óbices apontados na origem, sem ataque direto aos fundamentos determinantes, não supre a exigência de dialeticidade recursal.
+3. A jurisprudência desta Corte é firme no sentido de que alegações genéricas ou a simples reiteração do mérito recursal não viabilizam o conhecimento do agravo.
+4. A dedução, no agravo regimental, de argumentos de mérito sobre a legalidade da pronúncia e pedido de impronúncia configura inovação recursal, inadmissível nesta via.
+5. Agravo regimental não provido.
+RELATÓRIO
+Trata-se de agravo regimental interposto por FRANCISCO ELISSON CHAVES DE SOUZA contra decisão que, com fundamento no art. 21-E, V, c/c o art. 253, parágrafo único, I, do RISTJ, e na Súmula 182/STJ, não conheceu do agravo em recurso especial, considerando a ausência de impugnação específica e pormenorizada aos fundamentos da decisão de inadmissibilidade do recurso especial, a saber, a incidência da s súmula 7 e 83/STJ (e-STJ fls. 1028/1029).
+Na presente insurgência, a defesa sustenta que houve impugnação específica e substancial aos fundamentos de inadmissibilidade, pois o agravo em recurso especial delimitou controvérsia eminentemente de direito, consistente em violação ao art. 413 do CPP, afastando a necessidade de reexame do acervo fático-probatório. Aduz que, ao demonstrar desconformidade do acórdão recorrido com a orientação desta Corte quanto à exigência de indícios suficientes de autoria, também enfrentou, em substância, o óbice da Súmula 83/STJ. Sustenta, ademais, que a aplicação analógica da Súmula 182/STJ não se justifica quando há ataque efetivo aos motivos da decisão agravada, citando julgados desta Corte que afastam o referido verbete na hipótese de impugnação específica. Defende, no mérito do destrancamento, que a pronúncia foi mantida sem suporte probatório idôneo, fundada em depoimentos indiretos ("ouvir dizer") e em imagens periciais que não identificaram o agravante, configurando violação ao art. 413 do CPP.
+Requer o conhecimento do agravo regimental. Pugna pelo provimento do agravo regimental para afastar a incidência da Súmula 182/STJ e conhecer do agravo em recurso especial, com o consequente processamento do recurso especial. Pleiteia, superado o juízo de admissibilidade, o provimento do recurso especial para reconhecer a violação ao art. 413 do CPP e determinar a impronúncia de FRANCISCO ELISSON CHAVES DE SOUZA. Subsidiariamente, requer o afastamento do óbice formal e o regular prosseguimento da via especial.
+É o relatório.
+EMENTA
+PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DA DECISÃO AGRAVADA. INCIDÊNCIA DA SÚMULA N. 182/STJ. INSUFICIÊNCIA DE RAZÕES GENÉRICAS PARA AFASTAR OS ÓBICES DAS SÚMULAS 83 E 7/STJ. INOVAÇÃO RECURSAL. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. A decisão agravada deixou de conhecer do agravo em recurso especial por falta de impugnação específica dos fundamentos da inadmissão do recurso especial na origem (Súmulas 83 e 7/STJ), incidindo, por analogia, a Súmula n. 182/STJ.
+2. A mera alegação de enfrentamento "em substância" dos óbices apontados na origem, sem ataque direto aos fundamentos determinantes, não supre a exigência de dialeticidade recursal.
+3. A jurisprudência desta Corte é firme no sentido de que alegações genéricas ou a simples reiteração do mérito recursal não viabilizam o conhecimento do agravo.
+4. A dedução, no agravo regimental, de argumentos de mérito sobre a legalidade da pronúncia e pedido de impronúncia configura inovação recursal, inadmissível nesta via.
+5. Agravo regimental não provido.
+VOTO
+É incabível o provimento do agravo regimental.
+A decisão agravada deixou de conhecer do agravo em recurso especial, por ausência de impugnação específica de todos os fundamentos utilizados pelo Tribunal de origem na inadmissão do recurso especial, notadamente a incidência das Súmulas 83 e 7/STJ, com aplicação, por analogia, da Súmula 182/STJ.
+Nas razões do agravo regimental, a Defesa afirma que o agravo em recurso especial teria enfrentado, em substância, os óbices da origem, ao sustentar tratar-se de controvérsia eminentemente de direito (violação ao art. 413 do CPP) e ao apontar desconformidade do acórdão recorrido com a orientação do STJ. Contudo, da leitura das razões do próprio agravo em recurso especial, verifica-se que o recorrente limitou-se a reproduzir fundamentos de mérito do especial, sem promover ataque específico e pormenorizado a todos os motivos da decisão de inadmissibilidade, em especial no que tange ao óbice da Súmula 83/STJ, e sem demonstrar, de forma concreta, a desnecessidade de revolvimento fático-probatório para superar a Súmula 7/STJ (e-STJ fls. 984/1006).
+Como tem reiteradamente decidido esta Corte, os recursos devem impugnar, de maneira específica e pormenorizada, os fundamentos da decisão contra a qual se insurgem, sob pena de vê-los mantidos. Não são suficientes meras alegações genéricas sobre as razões que levaram à inadmissão do agravo ou do recurso especial, tampouco a insistência no mérito da controvérsia.
+Nesses casos, portanto, é inafastável a incidência do verbete sumular n. 182/STJ, que assim dispõe:
+É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada.
+A propósito:
+DIREITO PROCESSUAL PENAL. TRÁFICO DE DROGAS. AGRAVO REGIMENTAL. AUSÊNCIA DE IMPUGNAÇÃO DOS FUNDAMENTOS DA DECISÃO. INCIDÊNCIA DA SÚMULA N. 182 DO STJ. NÃO CONHECIMENTO.
+I. Caso em exame
+1. Agravo regimental interposto contra decisão que não conheceu de recurso especial, com fundamento na ausência de impugnação específica aos fundamentos da decisão agravada e na impossibilidade de reexame de provas em instância especial, conforme a Súmula n. 7 do STJ.
+2. A defesa alega que os depoimentos policiais não são suficientes para condenação por tráfico de drogas e requer a desclassificação do delito para uso pessoal, conforme art. 28 da Lei n. 11.343/06.
+II. Questão em discussão
+3. A questão em discussão consiste em saber se a ausência de impugnação específica aos fundamentos da decisão agravada impede o conhecimento do agravo regimental.
+4. A questão também envolve a análise da possibilidade de reexame do conjunto fático- probatório em instância especial para desclassificação do delito de tráfico de drogas.
+III. Razões de decidir
+5. A ausência de impugnação específica aos fundamentos da decisão agravada atrai a incidência da Súmula n. 182 do STJ, que impede o conhecimento do agravo regimental.
+6. A modificação da conclusão da origem demandaria reexame do conjunto fático- probatório, o que é inviável na instância especial, conforme a Súmula n. 7 do STJ.
+7. A pequena quantidade de droga apreendida, por si só, é irrelevante diante das circunstâncias que indicam a destinação mercantil do entorpecente.
+IV. Dispositivo e tese
+8. Agravo regimental não conhecido.
+(AgRg no AREsp n. 2.645.466/MG, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 20/3/2025, DJEN de 26/3/2025).
+PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. FALTA DE DIALETICIDADE RECURSAL. SÚMULA 182/STJ AGRAVO DESPROVIDO.
+1. A decisão que inadmitiu o recurso especial na origem foi pautada nos óbices das Súmulas 7 e 83/STJ. Entrementes, o agravante ateve-se à negativa genérica da incidência dos óbices de admissibilidade das Súmula 83/STJ, pelo fundamento de haver inaplicabilidade do enunciado 83/STJ aos recursos interpostos com base na alínea "a" e de inexistir orientação jurisprudencial do Superior Tribunal de Justiça em sentido contrário às teses defensivas. Esse proceder viola o princípio da dialeticidade e torna inadmissível o agravo, nos termos da Súmula 182/STJ.
+2. No tocante à aplicação da Súmula 7/STJ, a parte agravante traz apenas razões genéricas de inconformismo, o que não satisfaz a exigência de impugnação específica para viabilizar o conhecimento do agravo. Isso porque, para que se considere adequadamente impugnada a Súmula 7/STJ, o agravo precisa empreender um cotejo entre os fatos estabelecidos no acórdão e as teses recursais, mostrando em que medida estas não exigem a alteração do quadro fático delineado pelo Tribunal local, o que não se observa na alegação genérica de ser prescindível reexame de fatos e provas.
+3. Agravo regimental desprovido.
+(AgRg no AREsp n. 2.060.997/SC, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 2/8/2022, DJe de 10/8/2022).
+A alegação de que teria havido impugnação "em substância" não supera a exigência de dialeticidade recursal, que demanda ataque específico aos motivos determinantes da inadmissibilidade, e não mera remissão ao mérito do especial. É certo que esta Corte admite, em hipóteses pontuais, o afastamento da Súmula 182/STJ quando efetivamente constatado o ataque adequado aos fundamentos da decisão agravada; todavia, tal não se verifica na espécie, à luz das razões efetivamente apresentadas no agravo em recurso especial (e-STJ fls. 984/1006).
+Por derradeiro, verifica-se que a defesa traz, no agravo regimental, argumentos de mérito relacionados à legalidade da pronúncia, à idoneidade dos indícios de autoria e ao alegado caráter indireto dos depoimentos, além de pedir, em última análise, a impronúncia do agravante (e-STJ fls. 1045/1057). Tais questões, contudo, não constituem objeto próprio do presente agravo regimental, destinado exclusivamente a impugnar os fundamentos da decisão que não conheceu do agravo em recurso especial. A pretensão de adentrar o mérito da controvérsia federal, ou de destrancar o especial à revelia dos óbices técnicos reconhecidos, configura inovação recursal nesta sede e não pode ser acolhida, sob pena de indevida ampliação do objeto recursal. A respeito: AgRg no AgRg nos EDcl no REsp n. 1.928.303/RS, relator Ministro Rogerio Schietti Cruz, Sexta Turma, DJEN de 23/9/2025.
+Ante o exposto, nego provimento ao agravo regimental.
+É como voto.
