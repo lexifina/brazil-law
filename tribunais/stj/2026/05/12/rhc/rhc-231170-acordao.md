@@ -1,0 +1,29 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Sexta Turma, por unanimidade, dar provimento ao recurso ordinário, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Rogerio Schietti Cruz, Carlos Pires Brandão e Og Fernandes votaram com o Sr. Ministro Relator.
+EMENTA
+DIREITO PENAL E PROCESSUAL PENAL. RECURSO ORDINÁRIO EM HABEAS CORPUS. SONEGAÇÃO FISCAL E LAVAGEM DE DINHEIRO. EXCESSO DE PRAZO NA INSTRUÇÃO. RAZOABILIDADE. PRISÃO PREVENTIVA MANTIDA POR LONGO PERÍODO SEM PREVISÃO DE SENTENÇA. CRIMES SEM VIOLÊNCIA OU GRAVE AMEAÇA. SUBSTITUIÇ ÃO POR MEDIDAS CAUTELARES DIVERSAS. COMPARECIMENTO PERIÓDICO. PROIBIÇÃO DE AUSENTAR-SE. MONITORAMENTO ELETRÔNICO. ADEQUAÇÃO E FISCALIZAÇÃO PELO JUÍZO DE ORIGEM.
+Recurso ordinário em habeas corpus provido.
+RELATÓRIO
+Trata-se de recurso ordinário em habeas corpus interposto por DIANCARLOS ALVES DE SOUSA e ALEX BRUNO ALVES DE SOUSA contra o acórdão proferido pelo Tribunal de Justiça do Estado de Minas Gerais que denegou o HC n. 1.0000.25.454747-4/000, mantendo a prisão preventiva imposta pelo Juízo da Vara Criminal e da Infância e da Juventude da comarca de Unaí/MG, em razão da suposta prática do crime de sonegação fiscal e lavagem de dinheiro (Autos n. 5000525-08.2025.8.13.0704).
+No recurso, a defesa sustenta que há excesso de prazo na formação da culpa, com custódia que já se prolonga por 9 meses sem conclusão da instrução, e sem contribuição da defesa pelas delongas processuais.
+Alega que o parecer da Procuradoria de Justiça reconheceu a ilegalidade da prisão, recomendando a imediata expedição de alvará de soltura por excesso de prazo.
+Aduz que o Tribunal de origem manteve a prisão de ofício, em afronta ao sistema acusatório e ao art. 311 do Código de Processo Penal, sem fundamentação contemporânea concreta.
+Menciona que as audiências foram frustradas pela não disponibilização integral e tempestiva das provas pela acusação, impedindo o pleno exercício da defesa e revelando que a morosidade decorre de falhas estatais.
+Afirma que a invocação genérica da razoabilidade não legitima a custódia cautelar prolongada, por violar a presunção de inocência e a duração razoável do processo, sendo necessária a substituição por medidas cautelares menos gravosas.
+Não houve pedido liminar.
+Requer o provimento do recurso para revogar a custódia, substituindo-a, se necessário, por medidas cautelares diversas.
+Foram prestadas informações. O Ministério Público Federal opinou pelo não provimento do recurso.
+A defesa juntou petição reiterando o provimento do recurso às fls. 7.549/7.550.
+O Juízo de primeiro grau prestou informações recentes noticiando que foi realizada audiência de continuação, mas a instrução ainda não foi encerrada, pois os autos estão aguardando os esclarecimentos da DEPOL (fl. 7.561).
+É o relatório.
+EMENTA
+DIREITO PENAL E PROCESSUAL PENAL. RECURSO ORDINÁRIO EM HABEAS CORPUS. SONEGAÇÃO FISCAL E LAVAGEM DE DINHEIRO. EXCESSO DE PRAZO NA INSTRUÇÃO. RAZOABILIDADE. PRISÃO PREVENTIVA MANTIDA POR LONGO PERÍODO SEM PREVISÃO DE SENTENÇA. CRIMES SEM VIOLÊNCIA OU GRAVE AMEAÇA. SUBSTITUIÇ ÃO POR MEDIDAS CAUTELARES DIVERSAS. COMPARECIMENTO PERIÓDICO. PROIBIÇÃO DE AUSENTAR-SE. MONITORAMENTO ELETRÔNICO. ADEQUAÇÃO E FISCALIZAÇÃO PELO JUÍZO DE ORIGEM.
+Recurso ordinário em habeas corpus provido.
+VOTO
+No caso dos autos, os recorrentes respondem à Ação Penal n. 5000525-08.2025.8.13.0704, em trâmite no Juízo da Vara Criminal e da Infância e da Juventude da comarca de Unaí/MG, pela suposta prática dos crimes de sonegação fiscal e de lavagem de dinheiro. A denúncia foi recebida em 16/1/2025, e os acusados foram presos preventivamente em 28/3/2025.
+Com efeito, os prazos para a finalização dos atos processuais na esfera criminal não são improrrogáveis ou peremptórios, sendo certo que não se pode simplesmente fazer uso de sua soma aritmética, devendo ser analisado, com razoabilidade, o caso concreto, a fim de se verificar a eventual ocorrência de ilegalidade referente à demora na tramitação e julgamento do feito.
+Ocorre que os recorrentes se encontram presos preventivamente há um ano, pela suposta prática de crimes praticados sem violência e grave ameaça, já foram marcadas mais de cinco audiências de instrução e julgamento, contudo, a instrução está longe de terminar.
+Assim, apesar de existir fundamentação concreta para manter os recorrentes presos, verifico que a manutenção da segregação cautelar por 1 ano, sem nenhuma previsão para a prolação da sentença, extrapola os limites da razoabilidade.
+Concordo com o Ministério Público do Estado de Minas Gerais quando destacou, no parecer ofertado em segunda instância, que uma atenção particularizada haver-se-ia de ter sido dispensada aos autos criminais originais para que não ocorresse o que hoje nos parece patente: o evidente "excesso de prazo" na condução da instrução criminal (fl. 7.260 - grifo nosso).
+Ante o exposto, dou provimento ao recurso em habeas corpus a fim de substituir, mediante compromisso dos recorrentes de comparecimento aos atos processuais, a prisão preventiva imposta a eles pelas seguintes cautelares: comparecimento periódico em juízo, no prazo e nas condições a serem fixadas pelo Juiz da causa (art. 319, I, do CPP); proibição de ausentar-se da comarca em que residem sem autorização judicial (art. 319, IV, do CPP), monitoramento eletrônico (art. 319, IX, do CPP), sem prejuízo de outras que o Juízo da causa eleja, desde que pertinentes e devidamente fundamentadas, nos termos desta decisão. Caberá ao Magistrado de primeiro grau o estabelecimento das condições, a adequação e a fiscalização das cautelares. Fiquem, desde logo, os pacientes informados de que a prisão preventiva será decretada em caso de descumprimento de quaisquer das obrigações impostas ou de superveniência de motivos novos e concretos para tanto.
