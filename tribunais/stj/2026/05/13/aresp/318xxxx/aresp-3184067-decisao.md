@@ -1,0 +1,28 @@
+DECISÃO
+Examina-se agravo em recurso especial interposto por SAMUEL DUARTE contra decisão que inadmitiu recurso especial fundamentado nas alíneas "a" e "c" do permissivo constitucional.
+Agravo em recurso especial interposto em: 13/10/2025.
+Concluso ao gabinete em: 7/5/2026.
+Ação: embargos de terceiro, opostos por SAMUEL DUARTE, em face de CREDIALIANÇA COOPERATIVA DE CRÉDITO RURAL, na qual requer a suspensão das medidas constritivas e a reintegração de posse do caminhão dado em garantia fiduciária.
+Decisão interlocutória: deferiu a tutela de urgência para suspender as medidas constritivas sobre o caminhão objeto de busca e apreensão.
+Acórdão: deu provimento ao agravo de instrumento interposto por CREDIALIANÇA COOPERATIVA DE CRÉDITO RURAL, determinando que seja "revogada a decisão agravada que deferiu o provimento liminar, a fim de restabelecer a ordem de busca e apreensão do bem" (e-STJ fl. 53), nos termos da seguinte ementa:
+AGRAVO DE INSTRUMENTO - EMBARGOS DE TERCEIRO -TUTELA DE URGÊNCIA VISANDO À REINTEGRAÇÃO DE POSSE DO VEÍCULO DADO EM GARANTIA FIDUCIÁRIA DEFERIDA NA ORIGEM - TERCEIRO PROPRIETÁRIO DO BEM - CÉDULA DE CRÉDITO BANCÁRIO FIRMADA POR SEU GENITOR - INDÍCIOS DE QUE O EMBARGANTE PARTICIPOU DA NEGOCIAÇÃO, EM QUE PESE A AUSÊNCIA DE ANUÊNCIA EXPRESSA - PARTICULARIDADES DO CASO CONCRETO - HOMENAGEM À BOA FÉ-OBJETIVA - PROBABILIDADE DO DIREITO QUE, NESTE MOMENTO PROCESSUAL, MILITA EM FAVOR DA INSTITUIÇÃO FINANCEIRA - PROVIMENTO LIMINAR REVOGADO - RESTABELECIMENTO DA ORDEM DE BUSCA E APREENSÃO - DECISÃO ALTERADA - RECURSO PROVIDO. (e-STJ fl. 47)
+Recurso especial: alega violação dos arts. 1.361, § 1º, e 422 do CC, 485, IV, e 1.003, § 6º, do CPC, 129-B do CTB, e 3º do Decreto-Lei 911/1969, bem como dissídio jurisprudencial. Afirma que a propriedade fiduciária sobre bem de terceiro não pode ser constituída sem anuência expressa e formal do proprietário. Aduz que a boa-fé objetiva não supre requisito de validade nem cria relação contratual com terceiro não participante. Argumenta que a ausência de título executivo válido impõe a extinção da busca e apreensão por falta de pressuposto processual. Assevera que o agravo de instrumento é intempestivo por falta de comprovação, no ato da interposição, de feriado local ou suspensão de prazos. Sustenta que o registro do contrato no órgão de trânsito, com anotação no certificado de registro, é indispensável para a constituição da propriedade fiduciária, e que somente o proprietário fiduciário detém legitimidade para a ação de busca e apreensão.
+RELATADO O PROCESSO, DECIDE-SE.
+- Não cabimento de recurso especial contra decisão que concede ou indefere tutela provisória - Súmula 735/STF.
+A jurisprudência deste Superior Tribunal de Justiça é pacífica no sentido que, quando se trata de recurso especial interposto contra medida que concede ou indefere tutela provisória, seu objeto deve focar nas condições legais de sua concessão.
+Nesse sentido: AgInt no Aresp 1.248.498/SP, Terceira Turma, DJe de 29/06/2018; e AgInt no Aresp 980.165/BA, Quarta Turma, DJe 09/02/2018.
+Considerando a precariedade da decisão que revogou a tutela provisória anteriormente deferida, a qual pode ser alterada a qualquer tempo, desaconselha-se o conhecimento e julgamento de recurso especial que verse sobre o tema, exceto quando tratar dos requisitos legais de concessão da tutela antecipada e não exigir o reexame de matéria fática e probatória, o que não se coaduna com a hipótese dos autos.
+Dessa forma, não é possível discutir, em recurso interposto contra decisão que indefere ou concede a tutela provisória, a questão de fundo do direito sobre o qual versa a controvérsia.
+- Da divergência jurisprudencial
+A comprovação da divergência jurisprudencial demanda que a parte recorrente realize uma análise comparativa detalhada entre o acórdão recorrido e o paradigma, de modo a identificar as semelhanças entre as situações de fato e a existência de interpretações jurídicas diferentes sobre mesmo dispositivo legal, além de observar os requisitos formais, consoante previsão dos arts. 1029, § 1º, do CPC e 255, §§ 1º e 3º, do RISTJ.
+No entanto, neste recurso, evidencia-se a ausência do cotejo analítico. Importante destacar que a mera transcrição das ementas dos acórdãos não é suficiente para comprovar o dissídio jurisprudencial. É necessário realizar uma comparação minuciosa entre os trechos dos acórdãos recorrido e o paradigma, explicitando como os tribunais interpretam de forma divergente, porém em situações semelhantes, o mesmo artigo de lei federal. Nesse sentido: AgInt no AREsp 2.396.088/PR, Terceira Turma, DJe de 22/11/2023, e AgInt no AREsp 2.334.899/SP, Quarta Turma, DJe de 7/12/2023.
+Forte nessas razões, CONHEÇO do agravo para, com fundamento no art. 932, III, do CPC, NÃO CONHECER do recurso especial.
+Deixo de majorar os honorários na forma do art. 85, §11, do CPC, visto que não foram arbitrados no julgamento do recurso pelo Tribunal de origem.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar sua condenação às penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. EMBARGOS DE TERCEIRO. TUTELA PROVISÓRIA DEFERIDA OU INDEFERIDA. SÚMULA 735/STF. DISSÍDIO JURISPRUDENCIAL. COTEJO ANALÍTICO NÃO REALIZADO.
+1. Embargos de terceiro.
+2. Inteligência da Súmula 735 do STF: "Não cabe recurso extraordinário contra acórdão que defere medida liminar". Precedentes.
+3. O dissídio jurisprudencial deve ser comprovado mediante o cotejo analítico entre acórdãos que versem sobre situações fáticas idênticas.
+4. Agravo conhecido. Recurso especial não conhecido.
