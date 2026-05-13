@@ -1,0 +1,15 @@
+DECISÃO
+Trata-se de pedido de extensão formulado em favor de TIAGO DOS SANTOS FRANCISCO de decisão que concedeu a ordem, de ofício, em benefício do corréu MAICON WILLIAN VILLA NOVA, para redimensionar sua pena definitiva para 4 anos e 2 meses de reclusão e 416 dias-multa, bem como para estabelecer o regime inicial semiaberto (e-STJ, fls. 881-884; 908-911).
+A defesa sustenta identidade fático-processual entre o requerente e o corréu, demonstrando que a razão de decidir adotada por esta Corte tem natureza objetiva  insuficiência da fundamentação do acórdão estadual que afastou a minorante do art. 33, § 4º, da Lei n. 11.343/2006 à vista, em essência, da quantidade de droga apreendida  e, por simetria, pleiteia extensão a TIAGO para redimensionar sua pena e fixar o regime inicial semiaberto.
+Requer a "extensão dos efeitos da decisão proferida no HC nº 922.863/SP  para que possa ser redimensionada a sua pena de maneira adequada", com urgência, diante de mandado de prisão em regime fechado já cumprido em 29/03/2026.
+É o relatório.
+Decido.
+A teor do art. 580 do Código de Processo Penal, "No caso de concurso de agentes, a decisão do recurso interposto por um dos réus, se fundado em motivos que não sejam de caráter exclusivamente pessoal, aproveitará aos outros." (e-STJ, fls. 922-923).
+No HC 922.863/SP, a ordem foi concedida, de ofício, para fazer incidir a causa de diminuição de pena do art. 33, § 4º, da Lei n. 11.343/2006 no patamar de 1/6, redimensionando a pena definitiva do paciente MAICON WILLIAN VILLA NOVA para 4 anos e 2 meses de reclusão e 416 dias-multa, com regime inicial semiaberto.
+Na ocasião, consignou-se que "o Tribunal de origem recusou a aplicação da minorante do tráfico de drogas, em linhas gerais, pela quantidade apreendida (15kg de cocaína). Contudo, esse fundamento não é suficiente para, por si só, impedir a incidência da benesse, nos termos já assentados pela Terceira Seção no julgamento do HC 725.534/SP, de minha relatoria, mas permite seja dosado o patamar de incidência da causa de diminuição."
+Do acórdão estadual reformado, colhe-se que a negativa do redutor se deu tratando os "sentenciados" no plural, imputando-lhes inserção em "organização criminosa" a partir da logística e da "elevada quantidade de drogas", sem individualização fático-probatória distinta entre corréus.
+Evidencia-se, portanto, que o motivo jurídico que embasou a concessão de ofício é objetivo e extensível, não personalíssimo: a inadequação de afastar o tráfico privilegiado apenas pela quantidade de entorpecente. Em tal contexto, a aplicação do art. 580 do CPP impõe-se em favor do corréu submetido à mesma moldura fático-processual.
+Ante o exposto, defiro o pedido de extensão, para tornar definitiva a pena de TIAGO DOS SANTOS FRANCISCO em 4 anos e 2 meses de reclusão e 416 dias-multa, fixando o regime inicial semiaberto, nos exatos moldes do HC 922.863/SP.
+Comunique-se, com urgência, ao Tribunal de Justiça do Estado de São Paulo e à Vara Criminal da Comarca de Araras/SP para imediata adequação do título executivo, retificação da guia e observância do regime inicial semiaberto.
+Publique-se. Intimem-se.
+EMENTA
