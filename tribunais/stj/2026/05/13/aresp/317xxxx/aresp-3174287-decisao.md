@@ -1,0 +1,24 @@
+DECISÃO
+Cuida-se de Embargos de Declaração opostos pela CAIXA SEGURADORA S.A. à decisão que conheceu do Agravo para não conhecer do Recurso Especial, em razão da aplicação de óbices de admissibilidade recursal, nos termos do art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça.
+Em suas razões, sustenta a parte embargante:
+Pois bem. Como já adiantado, a decisão ora embargada acabou por incorrer em erro de premissa ao assentar que "incide a Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), porquanto o acolhimento da pretensão recursal demandaria o reexame do acervo fático-probatório juntado aos autos" (fl. 177)
+É que, in casu, o acórdão local delineou expressamente as circuns- tâncias necessárias para o deslinde da controvérsia, conforme se dessume da leitura dos trechos extraídos do corpo do voto que capitaneou o julgamento na origem, transcritos no bojo do r. decisum ora embargado.
+ ..
+Com efeito, longe de se buscar o revolvimento de fatos e provas, como equivocadamente assentou a r. decisão ora embargada, a Caixa Seguradora busca apenas a correta subsunção da realidade fática à norma incidente na espécie.
+É dizer, diversamente do que consignado pelo acórdão recorrido, não se está diante de depósito realizado com a finalidade de mera garantia do juízo. A própria sistemática do cumprimento provisório de sentença impõe ao executado a realização de depósito com natureza satisfativa, voltado ao pagamento do débito, não havendo espaço, nesse contexto, para depósito de caráter meramente garantidor.
+Essa conclusão, inclusive, harmoniza-se com a lógica do art. 520 do CPC, segundo o qual o risco inerente à reversibilidade do julgado não é suportado pelo executado, mas sim pelo exequente. Não por outra razão, compete a este, quando pretender o levantamento de valores ou a prática de atos que importem em satisfação provisória, prestar caução idônea (art. 520, IV), justamente para assegurar a reparação de eventuais prejuízos causados ao executado, na hipótese de modificação ou reforma da decisão (art. 520, I).
+Ou seja, no cumprimento provisório, o executado paga para quitar/purgar a mora (leia-se: isentar-se da multa), ao passo que o exequente garante para levantar o valor depositado.
+Nesse contexto, revela-se incompatível com a sistemática legal a ten- tativa de atribuir ao depósito realizado pelo executado natureza de garantia do juízo, quando, em verdade, o ordenamento desloca para o exequente (e não para o devedor) o ônus de garantir os riscos da execução provisória. (fl. 186)
+Requer, assim, o conhecimento e acolhimento dos Embargos Declaratórios para que seja sanado o vício apontado.
+A parte embargada foi devidamente intimada para contra-arrazoar estes aclaratórios.
+É o relatório.
+Decido.
+Nos termos do art. 1.022 do Código de Processo Civil, os Embargos de Declaração destinam-se a esclarecer obscuridade, eliminar contradição, suprir omissão e corrigir erro material eventualmente existentes no julgado, o que não se verifica na hipótese.
+Com efeito, a pretensão recursal quanto à natureza do depósito judicial, se foi realizado como mera garantia do juízo ou se teve natureza satistativa (pagamento parcial), para fins de incidência da m ulta, demanda o reexame do acervo fático-probatório juntado aos autos.
+Registre-se que "não é o órgão julgador obrigado a rebater, um a um, todos os argumentos trazidos pelas partes em defesa da tese que apresentaram. Deve apenas enfrentar a demanda, observando as questões relevantes e imprescindíveis à sua resolução. Nesse sentido: REsp 927.216/RS, Segunda Turma, Rel. Ministra Eliana Calmon, DJ de 13.8.2007; e REsp 855.073/SC, Primeira Turma, Rel. Ministro Teori Albino Zavascki, DJ de 28.6.2007". (EDcl nos EDcl no REsp 1.642.531/SC, Rel. Ministro Herman Benjamin, Segunda Turma, DJe de 22.4.2019.)
+Por fim, ressalto que a pretensão de rediscutir matéria devidamente abordada e decidida no decisum embargado, consubstanciada na mera insatisfação com o resultado da demanda, não se coaduna com a via eleita. Nesse sentido, o EDcl no AgRg nos EREsp n. 1.315.507/SP, Rel. Ministro Luis Felipe Salomão, Corte Especial, DJe de 28.8.2014.
+Assim, não há qualquer irregularidade sanável por meio dos presentes embargos, porquanto toda a matéria apta à apreciação desta Corte foi analisada, não padecendo a decisão embargada dos vícios que autorizariam a sua oposição (obscuridade, contradição, omissão ou erro material).
+Ante o exposto, rejeito os Embargos de Declaração e advirto a parte embargante sobre a reiteração deste expediente, sob pena de pagamento de multa de 2% sobre o valor atualizado da causa, porque os próximos embargos versando sobre o mesmo assunto serão considerados manifestamente protelatórios (art. 1.026, § 2º, do Código de Processo Civil).
+Publique-se.
+Intimem-se.
+ EMENTA
