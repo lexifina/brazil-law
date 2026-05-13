@@ -1,0 +1,44 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto pelo MUNICÍPIO DE ARACAJU, em feito no qual contende com JOÃO BARBOSA DOS SANTOS, contra inadmissão, na origem, de recurso especial fundamentado no art. 105, III, "a", da Constituição da República Federativa do Brasil (CRFB), manejado contra acórdão da Primeira Câmara Cível do Tribunal de Justiça do Estado de Sergipe (TJSE), assim ementado (fls. 57-58):
+EMENTA APELAÇÃO CÍVEL. EXECUÇÃO FISCAL. EXTINÇÃO DO FEITO SEM RESOLUÇÃO DO MÉRITO, NOS TERMOS DO ART. 321, PARÁGRAFO ÚNICO C/C RT. 330, INCISO IV C/C ART. 485, INCISO I, TODOS DO CPC. DETERMINAÇÃO DE EMENDA À INICIAL PARA COMPROVAR OS REQUISITOS PREVISTOS NO ART. 3º, PARÁGRAFO ÚNICO, DA RESOLUÇÃO Nº 547/2024 DO CNJ. PRÉVIO PROTESTO OU ÀS DILIGÊNCIAS ELENCADAS NO PARÁGRAFO ÚNICO, DO ART. 3º, DA ALUDIDA RESOLUÇÃO. TESE RECURSAL DE QUE NÃO CABE A EXTINÇÃO DA EXECUÇÃO FISCAL, SEM RESOLUÇÃO DE MÉRITO, EM RAZÃO DO VALOR ÍNFIMO/IRRISÓRIO DO CRÉDITO TRIBUTÁRIO. RECURSO QUE NÃO IMPUGNA, ESPECIFICAMENTE, O FUNDAMENTO DA SENTENÇA. RECURSO QUE NÃO IMPUGNA, ESPECIFICAMENTE, O FUNDAMENTO DA SENTENÇA. RECURSO NÃO CONHECIDO. DECISÃO UNÂNIME.
+Não foram opostos embargos de declaração.
+Em seu recurso especial (REsp) de fls. 75-82, a parte recorrente aponta, com fundamento no permissivo do art. 105, III, "a", CRFB, violação ao art. 1.010, II e III, c/c art. 1.013, do Código de Processo Civil (CPC), sustentando que "o Princípio da Dialeticidade não significa que o recorrente tenha de impugnar especificamente TODOS os fundamentos levados à cabo na sentença, tal como exigido no princípio da impugnação específica dos fatos na contestação, tampouco poderá recorrer de modo genérico; precisa, sim, evidenciar as razões pelas quais deseja ver reformada a sentença combatida, explicitando os motivos de fato e de direito que levaram o Apelante a externar sua irresignação, a serem apreciados pelo Egrégio Tribunal" (fl. 81).
+Não foram apresentadas contrarrazões ao REsp (fl. 89).
+O Tribunal de origem, às fls. 92-96, inadmitiu o recurso especial sob os seguintes fundamentos:
+O Recurso está tempestivo e não se exige o pagamento do preparo por conta da prerrogativa processual do INTERPONENTE.
+Sustenta ter cumprido os requisitos pertinentes ao princípio da dialeticidade e por isso seria cabível o conhecimento do recurso apelatório, nos termos dos arts. 1010, II, III, c/c art 1013 do CPC.
+A Decisão Colegiada expôs o seguinte sobre o assunto:  ..
+Esse panorama conclusivo da ausência de dialeticidade se coloca nos termos da seguinte orientação do STJ:
+TÍTULO JUDICIAL EXECUTIVO. SÚMULA 7/STJ. REEXAME DE MATÉRIA FÁTICA. SÚMULA 284/STF. DEFICIÊNCIA NA FUNDAMENTAÇÃO.
+1. (..)
+3. O recorrente não enfrentou especificamente os fundamentos da decisão agravada, limitando-se a apresentar argumentação genérica sobre a suposta violação legal, o que atrai a incidência da Súmula 284 do Supremo Tribunal Federal, por analogia, em razão da deficiência na fundamentação do Recurso.
+4. A jurisprudência do STJ é pacífica no sentido de ser inadmissível o Recurso Especial quando o agravante não demonstra de forma adequada e específica o equívoco na decisão que não admitiu o Recurso, conforme princípio da dialeticidade. (..)
+6. Agravo Interno não provido. (AgInt no AREsp n. 2.409.038/SP, relator Ministro Herman Benjamin, Segunda Turma, julgado em 14/3/2024, DJe de 7/5/2024.)"
+Constata-se a consonância de posicionamento com o STJ nos termos da Súmula 83. Veja-se o enunciado:  ..
+Noutra ótica, o enquadramento se daria no reexame de prova nos termos da Súmula 7 do STJ. Exemplifica-se:  ..
+Mediante o exposto, INADMITO o RECURSO ESPECIAL NEGANDO-LHE SEGUIMENTO nos termos do art. 1.030, inciso V, do Código de Processo Civil.
+Em seu agravo em recurso especial (AREsp), às fls. 106-114, a parte agravante argumenta que o Tribunal a quo teria entrado indevidamente no mérito da discussão, em desafio à competência deste Superior Tribunal de Justiça (STJ), e reitera os argumentos de seu apelo nobre, sustentando que sua apelação efetivamente combate a sentença e que, portanto, respeitou o princípio da dialeticidade nas instâncias ordinárias. Ao final, "pede que seja dado provimento ao presente agravo - porque a decisão agravada contraria diretamente os arts. 5º, caput, II, XXXV, LIV e LV, e 105, III, "a", da CF, para admitir e conhecer do recurso especial interposto, com a sua consequente apreciação e julgamento" (fl. 113).
+Não foram apresentadas contrarrazões ao AREsp (fl. 121).
+É o relatório.
+Passo a decidir.
+A insurgência não pode ser conhecida.
+A decisão agravada trouxe três fundamentos distintos e autônomos, que levaram à inadmissão com esteio no art. 1.030, V, CPC.
+O primeiro foi a Súmula nº 284, STF, pela ausência de dialeticidade. O segundo foi a Súmula nº 83, STJ, pelo alinhamento do acórdão a quo com a jurisprudência deste Sodalício. O terceiro foi a Súmula nº 7, STJ, pela impossibilidade de reenquadramento das premissas estabelecidas pela Corte de origem sem que fossem reexaminados fatos e provas.
+A parte agravante, no entanto, meramente argumentou que o Tribunal a quo teria entrado indevidamente no mérito do feito, em desafio à competência do STJ, e reiterou os argumentos de seu REsp, sustentando que sua apelação efetivamente combatia os fundamentos da sentença e que, portanto, teria respeitado o princípio da dialeticidade nas instâncias ordinárias. Deixou, portanto, de atacar especificamente os fundamentos da decisão de inadmissibilidade de fls. 92-96.
+As alegações de violação aos arts. 5º, caput, II, XXXV, LIV e LV, e 105, III, "a", CRFB, por sua vez, constituem nítida inovação recursal, tendo sido veiculadas, pela primeira vez, apenas em sede de AREsp. Nesse sentido, " ..  "na linha dos precedentes do STJ, os argumentos apresentados em momento posterior à interposição do recurso especial não são passíveis de conhecimento por importar inovação recursal, indevida em virtude da preclusão consumativa" (AgInt no REsp n. 1.800.525/SP, relator Ministro Marco Buzzi, Quarta Turma, julgado em 27/5/2019, DJe de 3/6/2019)  .. ". (EDcl no AgRg no AREsp n. 2.935.653/RS, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 7/10/2025, REPDJEN de 27/11/2025, DJEN de 13/10/2025). Ainda que assim não fosse, a análise de supostas violações a dispositivos constitucionais não se insere na competência deste Sodalício.
+Observa-se, portanto, que a parte deixou de refutar, adequada e detalhadamente, todos os argumen tos da decisão de admissibilidade. Logo, os fundamentos da decisão agravada, à míngua de impugnação específica e pormenorizada, permanecem hígidos, produzindo todos os efeitos no mundo jurídico. Assim, ao deixar de infirmar a fundamentação do juízo de admissibilidade realizado pelo Tribunal de origem, a parte agravante fere o princípio da dialeticidade e atrai a incidência da previsão contida no art. 932, III, CPC, e art. 253, parágrafo único, I, do Regimento Interno do Superior Tribunal de Justiça (RISTJ), no sentido de que não se conhece de agravo em recurso especial que "não tenha impugnado especificamente todos os fundamentos da decisão recorrida".
+No mesmo sentido:
+TRIBUTÁRIO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO DE TODOS OS FUNDAMENTOS DA DECISÃO DE INADMISSIBILIDADE. AGRAVO INTERNO NÃO PROVIDO.
+ ..  4. A falta de efetivo combate de quaisquer dos fundamentos da decisão que inadmitiu o recurso especial impede o conhecimento do respectivo agravo, consoante preceituam os arts. 253, I, do Regimento Interno do Superior Tribunal de Justiça e 932, III, do Código de Processo Civil e a Súmula 182 do STJ.
+5. Agravo interno não provido.
+(AgInt no AREsp nº 2.419.582/SP, Rel. Min. Mauro Campbell Marques, Segunda Turma, STJ, DJe 14/03/2024)
+AGRAVO INTERNO NA SUSPENSÃO DE SEGURANÇA. AUSÊNCIA DE IMPUGNAÇÃO DOS FUNDAMENTOS DA DECISÃO AGRAVADA. REITERAÇÃO DOS TERMOS DO PEDIDO ORIGINÁRIO. AGRAVO NÃO CONHECIDO.
+ ..  2. O princípio da dialeticidade recursal impõe à parte agravante o dever de impugnar de forma clara, objetiva e concreta os fundamentos da decisão agravada de modo a demonstrar o desacerto do julgado.
+3. Agravo interno não conhecido.
+(AgInt na SS nº 3.430/MA, Rel. Min. Maria Thereza de Assis Moura, Corte Especial, STJ, julgado em 12/09/2023, DJe 15/09/2023)
+Ante o exposto, com fundamento no art. 932, III, CPC, e no art. 253, parágrafo único, I, RISTJ, não conheço do agravo em recurso especial.
+Não existindo prévia fixação de honorários advocatícios sucumbenciais no feito em tela, deixo de aplicar as disposições do art. 85, §11, CPC.
+Publique-se.
+Intime-se.
+EMENTA
+DIREITO PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. EXECUÇÃO FISCAL. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA, EM SEDE DE APELAÇÃO, DOS FUNDAMENTOS DA SENTENÇA. AUSÊNCIA DE ATAQUE A TODOS OS FUNDAMENTOS DA DECISÃO AGRAVADA. INCIDÊNCIA DO ART. 932, III, CPC, E DO ART. 253, PARÁGRAFO ÚNICO, RISTJ. AGRAVO NÃO CONHECIDO.
