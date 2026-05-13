@@ -1,0 +1,16 @@
+DECISÃO
+Cuida-se de conflito entre o r. juízo da 4ª Vara do Trabalho de São José dos Campos/SP e o r. juízo da 4ª Vara Cível de São José dos Campos/SP acerca da competência para processar e julgar ação de obrigação de não fazer c/c reparação civil ajuizada por Engeseg Empresa de Vigilância Computadorizada Ltda e outro(s) contra Leandro de Lima Santos e Pressagio Zeladoria Patrimonial Ltda - ME, por alegada concorrência desleal.
+O MPF ofertou parecer no sentido da declaração de competência do r. juízo estadual (fls. 1323/1327).
+É o relatório.
+Decisão.
+A matéria subjacente ao presente incidente encontra-se pacificada no âmbito deste Superior Tribunal de Justiça, de modo a atrair a incidência da Súmula 568/STJ e a possibilidade do exame unipessoal da questão (ut. CC Rel. Min. 179.787/PE, Paulo de Tarso Sanseverino, Dje de 25/05/2021; CC 169.970/SP, Rel. Min. Antonio Carlos Ferreira, Dje de 30/03/2020)
+1. Destaca-se a competência deste Superior Tribunal de Justiça para o exame do presente incidente, uma vez que envolve juízos vinculados a Tribunais diversos, nos termos do que dispõe o artigo 105, inciso I, alínea "d", da Constituição Federal.
+2. Em conflitos similares, a interpretação conforme a jurisprudência desta Segunda Seção exige que a competência da Justiça do Trabalho esteja atrelada, de forma imediata, à causa de pedir e ao pedido vinculados à relação de trabalho. Quando a pretensão reparatória decorre de fatos posteriores ao término do vínculo e consubstancia ilícito civil não relacionado à causa da rescisão contratual, é competente a Justiça Comum estadual.
+Nessa linha: REsp 1.189.022/SP, Rel. Min. Luís Felipe Salomão, DJe 2.4.2014; CC 164.239/RJ; CC 34.691/SP, Rel. Min. Aldir Passarinho Júnior, DJe de 9/9/2002; CC 95.914/RJ, Rel. Min. Sidnei Beneti, DJe de 5/12/2008.
+Na hipótese a exordial da ação matriz, proposta por Engeseg Empresa de Vigilância Computadorizada Ltda., evidencia pretensão de natureza eminentemente civil, qual seja: obrigação de não fazer (abstenção de subtração e agenciamento de clientela, vedação de revelação de segredos empresariais) cumulada com reparação civil por atos de concorrência desleal alegadamente praticados por ex-empregado e pela pessoa jurídica por ele constituída (fls. 6/19).
+A narrativa fática e os pedidos referem-se, de modo direto e suficiente, a ilícitos concorrenciais previstos na Lei nº 9.279/96 (LPI), não havendo pedido trabalhista ou controvérsia sobre direitos decorrentes do contrato de trabalho.
+A causa de pedir, portanto, repousa na prática de atos ilícitos concorrenciais, cuja repressão e reparação integram o Direito Civil/Empresarial, independentemente de a informação confidencial ter sido obtida em contexto empregatício pretérito.
+O liame trabalhista não constitui, aqui, objeto da tutela jurisdicional nem fundamento jurídico determinante da pretensão. A remessa à Justiça do Trabalho, tal como decidida pelo Juízo Cível (fls. 1010/1013), parte de leitura ampliativa do art. 114 da CF que não se coaduna com a orientação da Segunda Seção.
+3. Do exposto, com fundamento no art. 955, parágrafo único, do CPC c/c Súmula 568/STJ conheço do conflito e declaro a competência do r. juízo da 4ª Vara Cível de São José dos Campos/SP, nos termos da fundamentação supramencionada.
+Publique-se. Intimem-se. Oficiem-se.
+EMENTA
