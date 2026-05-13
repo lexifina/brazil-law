@@ -1,0 +1,25 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em nome de LUIZ GUSTAVO CIPAUBA DA SILVA, em que a defesa aponta como autoridade coatora o Tribunal de Justiça do Estado de São Paulo, que deu provimento ao agravo ministerial e cassou a decisão concessiva de indulto (Agravo de Execução Penal n. 0001824-60.2026.8.26.0041).
+Em síntese, a defesa alega que o juízo da execução reconheceu o indulto com base no Decreto Presidencial n. 12.790/2025, art. 9º, XV, c/c art. 12, § 2º, I, por se tratar de crime patrimonial sem violência ou grave ameaça e por haver assistência da Defensoria Pública, que presume hipossuficiência econômica.
+Sustenta que o acórdão recorrido afastou indevidamente a presunção de hipossuficiência e exigiu comprovação adicional não prevista no decreto de indulto, criando requisito inexistente e contrariando a legalidade estrita na execução penal e a separação dos poderes.
+Pede o restabelecimento da decisão de primeiro grau que reconheceu o indulto e declarou extinta a punibilidade (Processo n. 0000413-16.2025.8.26.0041).
+É o relatório.
+A concessão de ordem de habeas corpus demanda demonstração da ilegalidade, ônus que recai sobre a parte impetrante, a quem cumpre instruir o feito com a prova pré-constituída de suas alegações.
+In casu, verifico, de plano, a inviabilidade do presente writ.
+De início, em que pese a defesa fazer referência ao Decreto Presidencial n. 12.790/2025, constata-se que o presente caso trata do Decreto Presidencial n. 12.338/2024.
+O Tribunal a quo deu provimento ao agravo ministerial afirmando que (fl. 8 - grifo do original):
+ ..
+Por sua vez, o artigo 9º, inciso XV, do Decreto Presidencial nº 12.338/2024 estabelece que a concessão do indulto para crimes contra o patrimônio, cometidos sem violência ou grave ameaça à pessoa, está condicionada à comprovação, até 25 de dezembro de 2024, da reparação voluntária do dano causado ou da efetiva impossibilidade econômica de fazê-lo, a teor do disposto no artigo 12, § 2º do mesmo Decreto.
+Não bastasse, não há nos autos qualquer demonstração documental da impossibilidade financeira do agravado e a simples assistência pela Defensoria Pública não presume, de forma inconteste, a sua hipossuficiência.
+Igualmente, a eventual fixação do valor do dia-multa no patamar mínimo legal não autoriza a presunção de hipossuficiência econômica. Desse modo, não se encontram presentes os requisitos exigidos pelo Decreto nº 12.338/2024. Nesse sentido já decidiu esta C. Corte:
+"Agravo em execução - Indulto - Decreto Presidencial nº 12.338/2024 - Extinção das penas impostas - Inconformismo ministerial objetivando seja cassada a r. decisão, com o prosseguimento da execução - Cabimento - Impossibilidade da extinção das penas - Ausência de comprovação da reparação do dano, até a data de 25/12/2024, ou a incapacidade econômica para fazê-lo - Exigência contida no art. 9º, inciso XV, da norma - Inexistência da presunção de hipossuficiência por se tratar de pessoa assistida pela Defensoria Pública e fixação do dia-multa no mínimo legal - Necessário o prosseguimento da execução - Decisão cassada Agravo ministerial provido" (TJSP; Agravo de Execução Penal 0018588-58.2025.8.26.0041; Relator(a): Fátima Vilas Boas Cruz; Órgão Julgador: 4ª Câmara de Direito Criminal; Data da Decisão: 23/09/2025; Data de Publicação: 23/09/2025)
+ ..
+Pois bem, observa-se que o acórdão impugnado indeferiu o benefício em razão de paciente não ter comprovado a reparação do dano, nem a incapacidade econômica para realizá-la.
+Esse entendimento não destoa da recente jurisprudência desta Corte, que tem entendido que, o fato de o apenado ser representado pela Defensoria Pública implica presumir a sua incapacidade econômica para reparar o dano (art. 12, § 2º, do Decreto n. 12.338/2024), mas não afasta a necessidade, exigida pelo art. 9º, XV, de demonstração do arrependimento ou da vontade de reparação do dano. (AgRg no HC n. 1.053.200/SP, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 15/4/2026, DJEN de 23/4/2026).
+Ainda neste sentido: AgRg nos EDcl no AgRg no HC n. 1.058.875/SP, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 7/4/2026, DJEN de 14/4/2026; AgRg no HC n. 1.058.736/SP, relator Ministro Carlos Pires Brandão, Sexta Turma, julgado em 11/3/2026, DJEN de 17/3/2026; AgRg no HC n. 1.029.341/ES, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 4/3/2026, DJEN de 9/3/2026; AgRg no HC n. 1.052.298/SP, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 15/4/2026, DJEN de 22/4/2026; e, AgRg no HC n. 1.071.853/SP, relator Ministro Messod Azulay Neto, Quinta Turma, julgado em 15/4/2026, DJEN de 22/4/2026.
+Assim, ausente ilegalidade a ser sanada.
+Ante o exposto, indefiro liminarmente a petição inicial.
+Publique-se.
+EMENTA
+HABEAS CORPUS. INDULTO COLETIVO. DECRETO N. 12.338/2024. PRESUNÇÃO DE HIPOSSUFICIÊNCIA. ASSISTÊNCIA PELA DEFENSORIA PÚBLICA. NECESSIDADE DE DEMONSTRAÇÃO DA INTENÇÃO DE REPARAR O DANO. JURISPRUDÊNCIA DESTA CORTE.
+Petição inicial indeferida liminarmente.
