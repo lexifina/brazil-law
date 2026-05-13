@@ -1,0 +1,42 @@
+DECISÃO
+Examina-se recurso especial interposto por ITAÚ UNIBANCO HOLDING S/A, fundamentado nas alíneas "a" e "c" do permissivo constitucional, contra acórdão do TJ/SP.
+Recurso especial interposto em: 19/3/2025.
+Concluso ao gabinete em: 11/6/2026.
+Ação: declaratória de inexigibilidade de débito c/c exibição de documento, indenização por danos materiais e compensação por danos morais, ajuizada por CARLOS EDUARDO RODRIGUES em face de ITAÚ UNIBANCO HOLDING S/A.
+Sentença: julgou improcedentes os pedidos iniciais.
+Acórdão: deu parcial provimento ao recurso de apelação interposto pelo recorrido, nos termos da seguinte ementa:
+AÇÃO DECLARATÓRIA CUMULADA COM INDENIZATÓRIA - CARTÃO DE CRÉDITO - TRANSAÇÕES - FRAUDE - "GOLPE DA MAQUININHA" - RELAÇÃO DE CONSUMO - INVERSÃO DO ÔNUS DA PROVA - ART. 6º, VIII, DA LEI 8.078/90 - VALORES EXPRESSIVOS - NÃO CORRELAÇÃO AO PERFIL DO AUTOR - DÍVIDA - INEXIGIBILIDADE - SERVIÇO BANCÁRIO - MÁ PRESTAÇÃO - RÉU - RESPONSABILIDADE OBJETIVA - INTELIGÊNCIA DO ART. 14 DA LEI 8.078/90, DA SÚMULA 479 DO STJ E DO ENUNCIADO Nº 13 DA TURMA ESPECIAL DA SUBSEÇÃO II DE DIREITO PRIVADO DO TRIBUNAL DE JUSTIÇA DE SÃO PAULO.
+AUTOR - APELO - PRETENSÃO - DANO MORAL - NÃO CONFIGURAÇÃO - FATO - AUSÊNCIA DE OFENSA A DIREITO DA PERSONALIDADE - NÃO AFETAÇÃO DO NOME OU DA IMAGEM - INDENIZAÇÃO - PEDIDO INICIAL - PARCIAL PROCEDÊNCIA - SENTENÇA - REFORMA.
+APELO DO AUTOR PARCIALMENTE PROVIDO.
+Embargos de declaração: opostos pelo recorrido, foram acolhidos, com efeitos modificativos, para condenar o réu à restituição de R$ 12.133,63 e ao pagamento de R$ 8.000,00 a título de dano moral, bem como para redistribuir os ônus sucumbenciais; opostos pelo recorrente, foram rejeitados.
+Recurso especial: aponta violação aos arts. 1.022, II, do CPC; 14 do CDC; e 927, caput e parágrafo único, do CC, bem como dissídio jurisprudencial.
+Além da negativa de prestação jurisdicional, alega que a transações questionadas foram realizadas com a utilização do cartão e senha pessoal do recorrido, a quem incumbe a guarda e o zelo, estando fora do âmbito de responsabilidade do recorrente pelos prejuízos decorrentes desta falha.
+RELATADO O PROCESSO, DECIDE-SE.
+- Da violação do art. 1.022 do CPC
+É firme a jurisprudência do STJ no sentido de que não há ofensa ao art. 1.022 do CPC quando o órgão julgador, aplicando o direito que entende cabível à hipótese soluciona integralmente a controvérsia submetida à sua apreciação, ainda que de forma diversa daquela pretendida pela parte. A propósito, confira-se: AgInt no REsp 1.726.592/MT, Terceira Turma, DJe de 31/8/2020; e AgInt no AREsp 1.518.178/MG, Quarta Turma, DJe de 16/3/2020.
+No particular, verifica-se que o acórdão recorrido decidiu, fundamentada e expressamente, acerca das alegações de culpa exclusiva do correntista e de julgamento extra petita, de modo que os embargos de declaração opostos pela parte recorrente, de fato, não comportavam acolhimento.
+Assim, observado o entendimento dominante desta Corte acerca do tema, não há que se falar em violação do art. 1.022 do CPC incidindo, quanto ao ponto a Súmula 568/STJ.
+- Das Súmulas 7 e 568/STJ
+É entendimento do STJ que a ausência de procedimentos de verificação e aprovação para transações atípicas e que aparentam ilegalidade corresponde a defeito na prestação de serviço, capaz de gerar a responsabilidade objetiva por parte da instituição financeira. Nesse sentido: REsp 2.211.203/SP, Terceira Turma, DJEN de 16/4/2026; REsp 2.250.859/SP, Quarta Turma, DJEN de 26/3/2026; AgInt no AREsp 2.953.630/RJ, Terceira Turma, DJEN de 5/3/2026; REsp 2.229.245/RS, Terceira Turma, DJEN de 17/10/2025; REsp 2.179.133/SP, Terceira Turma, DJEN de 23/4/2025; REsp 2.052.228/DF, Terceira Turma, DJe de 15/9/2023; REsp 2.015.732/SP, Terceira Turma, DJe de 26/6/2023; e REsp 1.995.458/SP, Terceira Turma, DJe de 18/8/2022.
+Na espécie, de acordo com o acórdão recorrido, restou comprovada a falha na prestação de serviço por parte da instituição financeira, que admitiu que fossem realizadas transações que destoam do perfil do consumidor. Veja-se:
+"Cuida-se de ação declaratória cumulada com indenizatória oriunda de dívida de cartão de crédito perpetrado pelo conhecido "golpe da maquininha". O réu é o fornecedor do serviço (art. 14 do CDC). Passível a inversão do ônus da prova. O art. 6º, VIII, da Lei 8.078/90 não a restringe apenas quando da verossimilhança das alegações, mas também quando da hipossuficiência na relação, hipótese em apreço. Sobre a questão, ensinamento doutrinário:
+(..)
+O autor, quando da utilização da plataforma Getninjas, foi ludibriado ao efetuar o pagamento de peça no valor de R$ 29,00. Apurou posteriormente que foram lançadas transações de R$ 40.000,00 e R$ 52.000,00.
+Os golpes e respectivo modus operandi são divulgados nos veículos de comunicação e em campanhas de conscientização pelas instituições financeiras. A situação, a princípio, poderia caracterizar a culpa exclusiva da vítima, que não se acautelou quando da utilização do cartão. Todavia, os valores transacionados superavam em muito o que usualmente utilizado. Destoavam ao perfil do autor, conforme se observa, por exemplo, da fatura (fls. 142/146). Ganha relevância, o fato de que apenas duas das transações foram autorizadas, a despeito de quatro tentativas pelos fraudadores, o que demonstra a capacidade de aferir se alguma transação é ilícita. Impõe-se a declaração de inexigibilidade do débito.
+Necessário o restabelecimento da situação patrimonial. Era de incumbência a checagem, em tempo real, da regularidade das transações, sobretudo porque fora do padrão de gastos.
+O sistema de detecção de fraude deveria ser acionado automaticamente, impedindo a concretização da transação de elevado valor ou ao menos contatar o autor para verificar a higidez, inclusive como já procedido em operação pretérita de valor diminuto, como indicado acima. Nesse aspecto reside a culpa, na modalidade da negligência (art. 186 do Código Civil). O concurso anterior do autor, que desencadeou os fatos, não ilide a responsabilidade, que no contexto também é objetiva, à luz do art. 14 da Lei 8.078/90:
+(..)
+O réu não protegeu o cliente dos riscos, inerentes à atividade bancária. Aplicável a Súmula 479 do STJ:
+(..)" (e-STJ fls. 357/359)
+Nessa perspectiva, além de estar o posicionamento do TJ/SP amparado na orientação jurisprudencial deste Tribunal Superior, incidindo, quanto ao ponto, a Súmula 568/STJ, seus fundamentos, por estarem alicerçados em elementos de fatos e provas existentes nos autos, não podem ser revistos em recurso especial, o que é vedado pela Súmula 7/STJ.
+Forte nessas razões, com fundamento no art. 932, III e IV, "a", do CPC, bem como na Súmula 568/STJ, CONHEÇO do recurso especial e NEGO-LHE PROVIMENTO.
+Nos termos do art. 85, § 11, do CPC, considerando o trabalho adicional imposto ao advogado da parte recorrida em virtude da interposição deste recurso, majoro em 5% (cinco por cento) os honorários fixados anteriormente, devidos pela parte recorrente.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar sua condenação às penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL E DIREITO DO CONSUMIDOR. RECURSO ESPECIAL. AÇÃO DECLARATÓRIA DE INEXIGIBILIDADE DE DÉBITO C/C EXIBIÇÃO DE DOCUMENTO, INDENIZAÇÃO POR DANOS MATERIAIS E COMPENSAÇÃO POR DANOS MORAIS. VIOLAÇÃO DO ART. 1.022 DO CPC. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. INOCORRÊNCIA. GOLPE DA MAQUININHA. RESPONSABILIDADE CIVIL. USO DE CARTÃO E SENHA. DEVER DE SEGURANÇA. FALHA NA PRESTAÇÃO DE SERVIÇO. HARMONIA ENTRE O ACÓRDÃO RECORRIDO E A JURISPRUDÊNCIA DO STJ. SÚMULA 568/STJ. REEXAME DE FATOS E PROVAS. INADMISSIBILIDADE. SÚMULA 7/STJ.
+1. Ação declaratória de inexigibilidade de débito c/c exibição de documento, indenização por danos materiais e compensação por danos morais.
+2. Ausentes os vícios do art. 1022 do CPC, rejeitam-se os embargos de declaração.
+3. É entendimento da Terceira Turma do STJ que a ausência de procedimentos de verificação e aprovação para transações atípicas e que aparentam ilegalidade corresponde a defeito na prestação de serviço, capaz de gerar a responsabilidade objetiva por parte da instituição financeira.
+4. O reexame de fatos e provas em recurso especial é inadmissível.
+5. Recurso especial parcialmente conhecido e, nessa extensão, não provido.
