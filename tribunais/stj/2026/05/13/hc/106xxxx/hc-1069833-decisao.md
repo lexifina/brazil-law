@@ -1,0 +1,35 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em benefício de MATHEUS SILVA GOMES em face de acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAIS.
+Consta nos autos que o paciente está preso preventivamente desde 26/11/2025 pela suposta prática do crime previsto no artigo 157, § 2º-A, inciso I, do Código Penal.
+Irresignada, a defesa impetrou habeas corpus perante o Tribunal de Justiça de origem, que denegou a ordem em acórdão às fls. 16-25.
+Neste writ, o impetrante sustenta, em suma, a ausência de fundamentação da decisão que decretou a prisão preventiva ponderando suas condições pessoais favoráveis.
+Aponta a inércia acusatória e excesso de prazo indireto na formação da culpa: o paciente está preso desde 25/11/2025 e, até a presente data, não houve oferecimento de denúncia no Inquérito Policial nº 5233514-86.2025.8.13.0024, ferindo a duração razoável do processo.
+Aduz, ainda, a ilegalidade das provas em razão da invasão domiciliar sem mandado e sem fundadas razões.
+Requer a revogação da prisão preventiva ou, subsidiariamente, sua substituição por medidas cautelares diversas.
+Liminar indeferida às fls. 1.012-1.013.
+Informações prestadas às fls. 1.018-1.022 e 1.023-1.027.
+O Ministério Público Federal em parecer, às fls. 1.032-1.040, opinou pelo não conhecimento do writ.
+É  o  relatório. DECIDO.
+In casu, a prisão preventiva do paciente se encontra devidamente fundamentada em dados concretos extraídos dos autos, que evidenciam a necessidade de encarceramento provisório, notadamente se considerada a gravidade concreta da conduta, consistente em roubo majorado pelo concurso de pessoas e com a utilização de arma de fogo.
+Nesse sentido, consta nos autos que, em tese, ele teria concorrido para a empreitada criminosa perpetrada com o objetivo de subtrair aparelho celular, destacando-se o modus operandi da conduta, consistente em encomendar à loja de eletrônicos a entrega de aparelho celular, aparentando negociação legítima, todavia, no ato de entrega do aparelho, foi empregada grave ameaça contra a vítima mediante a utilização de arma de fogo, para subtrair o aparelho celular e a chave da motocicleta utilizada no serviço.
+Tais circunstâncias demonstram a periculosidade do paciente, justificando a segregação cautelar para a garantia da ordem pública.
+Sobre o tema:
+"A prisão preventiva se encontra idoneamente motivada para a garantia da ordem pública, vulnerada pela gravidade do delito supostamente perpetrado e o modus operandi utilizado, pois, segundo o que consta dos autos, o recorrente, que estava armado, juntamente com outros indivíduos, levou a vítima para um beco, a violentou, subtraiu alguns de seus pertences e a deixou amarrada no local (fl. 109), circunstâncias que denotam a periculosidade concreta do agent" (RHC n. 205.550/PA, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 14/5/2025, DJEN de 21/5/2025.)
+"São idôneos os motivos invocados para embasar a ordem de prisão do acusado, pois demonstram a gravidade concreta da conduta perpetrada - por prestar serviços na residência de vítima idosa, garantiu o acesso de seu comparsa que, mediante violência, subtraiu dinheiro do ofendido -, circunstâncias suficientes, nos termos da jurisprudência desta Corte Superior, para a imposição da custódia provisória" (RHC n. 120.146/MG, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 18/2/2020, DJe de 21/2/2020.)
+Outrossim, cumpre consignar que condições pessoais favoráveis, tais como primariedade, ocupação lícita e residência fixa, não têm o condão de, por si sós, garantirem ao paciente a revogação da prisão preventiva se há nos autos elementos hábeis a recomendar a manutenção de sua custódia cautelar. Pela mesma razão, não há que se falar em possibilidade de aplicação de medidas cautelares diversas da prisão, o que ocorre na hipótese.
+No que tange à alegação de ilicitude de provas, decorrente de violação de domicílio, é cediço que:
+"o ingresso regular em domicílio alheio depende, para sua validade e regularidade, da existência de fundadas razões (justa causa) que sinalizem para a possibilidade de mitigação do direito fundamental em questão. É dizer, somente quando o contexto fático anterior à invasão permitir a conclusão acerca da ocorrência de crime no interior da residência é que se mostra possível sacrificar o direito à inviolabilidade do domicílio" (AgRg no HC 678.069/SP, relator Ministro Reynaldo Soares da Fonseca, QUINTA TURMA, DJe 20/9/2021).
+Transcrevo, para delimitar a questão, trecho do acórdão impugnado:
+Acionados via COPOM, policiais militares deslocaram-se ao endereço indicado pelo sistema de rastreamento dos bens, logrando êxito em localizar a residência de Matheus. Ali aportando, os castrenses foram recebidos pelo ora paciente, que franqueou a entrada no imóvel. Ato contínuo, os demais indivíduos tentaram evadir-se, o que demandou a contenção por parte da guarnição.
+Em minuciosa busca, foram localizadas quatro cédulas de duzentos reais no bolso de uma calça, além de diversos cartões bancários e, no interior de uma lixeira, a CNH da vítima. Outrossim, a diligência culminou na apreensão de vinte e dois pinos de cocaína, um revólver calibre .32, um simulacro de arma de fogo e três munições de igual calibre. (fl. 23).
+No caso dos autos, não verifico flagrante ilegalidade a ser sanada, diante da existência de fundada suspeita.
+Na hipótese, consoante se depreende dos autos, a atuação dos agentes de segurança pública teve origem a partir de acionamento via COPOM, tendo os policiais se deslocado ao endereço indicado pelo sistema de rastreamento dos bens, logrando êxito em localizar a residência do paciente.
+No ponto, consta nos autos que, além de receber os policiais, o paciente teria franqueado a entrada, sendo que nas buscas realizadas "foram localizadas quatro cédulas de duzentos reais no bolso de uma calça, além de diversos cartões bancários e, no interior de uma lixeira, a CNH da vítima. Outrossim, a diligência culminou na apreensão de vinte e dois pinos de cocaína, um revólver calibre .32, um simulacro de arma de fogo e três munições de igual calibre".
+Assim, fixadas tais premissas, não restou evidenciado o constrangimento ilegal suscitado.
+Por fim, no que se refere à alegação acerca da ocorrência de excesso de prazo; verifico que a quaestio não foi objeto de deliberação no acórdão hostilizado, o que obsta o exame desta Corte, sob pena de indevida supressão de instância.
+Ilustrativamente:
+"O alegado excesso de prazo para o término da instrução criminal, não foi objeto de análise pelo Tribunal estadual, o que impede o exame direto por esta Corte, por configurar indevida supressão de instância. Precedentes" (AgRg no HC n. 935.313/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 16/9/2024, DJe de 18/9/2024.)
+Diante de tais considerações, portanto, não se vislumbra a existência de qualquer flagrante ilegalidade passível de ser sanada.
+Ante o exposto, denego a ordem.
+Publique-se. Intimem-se.
+EMENTA
