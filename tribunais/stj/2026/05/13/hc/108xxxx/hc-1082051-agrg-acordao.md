@@ -1,0 +1,55 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUINTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 07/05/2026 a 13/05/2026, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Joel Ilan Paciornik, Messod Azulay Neto, Maria Marluce Caldas e Reynaldo Soares da Fonseca votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Reynaldo Soares da Fonseca.
+EMENTA
+Direito processual penal. Agravo regimental em habeas corpus. Condenação transitada em julgado. tráfico de drogas. Dosimetria. Valoração negativa da conduta social. Agravo regimental IMprovido.
+I. Caso em exame
+1. Agravo regimental interposto contra decisão monocrática que não conheceu de habeas corpus impetrado em face de condenação, já transitada em julgado, pelo delito de tráfico de drogas, sob o fundamento de que o writ possui nítidas características revisionais.
+2. A defesa sustenta que o trânsito em julgado não impede o manejo do habeas corpus quando a controvérsia é estritamente jurídica, alega que a impetração não se confunde com sucedâneo de revisão criminal, por visar apenas ao controle de legalidade da dosimetria, e aponta indevida valoração negativa da conduta social e exasperações lastreadas em elementos extraprocessuais, requerendo o afastamento desses fundamentos e o redimensionamento da pena.
+II. Questão em discussão
+3. Há duas questões em discussão: (i) saber se é cabível o habeas corpus, após o trânsito em julgado da condenação, com nítido caráter revisional, como sucedâneo de revisão criminal, à luz da competência desta Corte e da sistemática recursal do Código de Processo Penal; e (ii) saber se há manifesta ilegalidade na dosimetria da pena, em especial na valoração negativa da conduta social, apta a justificar o afastamento do óbice ao conhecimento do habeas corpus.
+III. Razões de decidir
+4. A Corte Superior somente detém competência para julgar revisão criminal de seus próprios julgados, nos termos do art. 105, I, "e", da Constituição da República, o que inviabiliza a utilização do habeas corpus, com nítido caráter revisional, para desconstituir condenação acobertada pela coisa julgada proveniente de outros órgãos jurisdicionais.
+5. O Supremo Tribunal Federal e o Superior Tribunal de Justiça, em atenção ao uso racional do habeas corpus e à sistemática recursal do Código de Processo Penal, não admitem o writ como substitutivo de recurso próprio ou de revisão criminal, ressalvadas as hipóteses de manifesta ilegalidade no ato judicial impugnado.
+6. Não se verifica manifesta ilegalidade na dosimetria da pena, pois a valoração negativa da conduta social encontra fundamento no fato de a agravante ter praticado o tráfico de drogas em exame enquanto cumpria pena por crimes anteriores, conforme autoriza jurisprudência desta Corte.
+IV. Dispositivo e tese
+7. Resultado do Julgamento: Agravo regimental improvido, com manutenção da decisão que não conheceu do habeas corpus por possuir nítido caráter revisional e ausência de ilegalidade manifesta na dosimetria da pena.
+Tese de julgamento:
+1. O Superior Tribunal de Justiça não admite habeas corpus com nítido caráter revisional para desconstituir condenação transitada em julgado, por ser a revisão criminal de sua competência restrita aos próprios julgados (CR art. 105, I, "e"), salvo em hipóteses de manifesta ilegalidade.
+2. A inexistência de manifesta ilegalidade na dosimetria da pena, notadamente quando a valoração negativa da conduta social se funda na prática de novo crime durante o cumprimento de pena anterior, impede o conhecimento de habeas corpus substitutivo .
+Dispositivos relevantes citados: CR /1988, art. 105, I, "e".
+Jurisprudência relevante citada: STJ, AgRg no HC 958.212/SP, Rel. Min. Messod Azulay Neto, Quinta Turma, j. 12.03.2025, DJEN 19.03.2025; STJ, AgRg no HC 940.391/MG, Rel. Min. Rogerio Schietti Cruz, Sexta Turma, j. 19.03.2025, DJEN 24.03.2025; STJ, AgRg no HC 961.564/SC, Rel. Min. Antonio Saldanha Palheiro, Sexta Turma, j. 05.03.2025, DJEN 11.03.2025.
+RELATÓRIO
+Trata-se de agravo regimental interposto por THAYNARA CAROLINE AMARO RODRIGUES contra decisão que não conheceu do habeas corpus impetrado contra condenação transitada em julgado - pelo delito de tráfico de drogas.
+Nas razões, a defesa reafirma que o trânsito em julgado não inviabiliza, por si só, a via do habeas corpus quando a controvérsia é estritamente jurídica; que a impetração não se confunde com sucedâneo de revisão criminal, pois busca apenas controle de legalidade da dosimetria; e que houve indevida valoração negativa da conduta social e exasperações amparadas em elementos extraprocessuais, passíveis de correção de plano, sem reexame aprofundado de fatos ou provas (fls. 714-718).
+Requer, assim, o provimento do agravo para reconsiderar a decisão monocrática; subsidiariamente, a submissão do recurso ao órgão colegiado; o afastamento do fundamento de inadmissibilidade por suposta substituição da revisão criminal; o regular processamento do writ ou, desde logo, o julgamento de mérito para excluir a valoração negativa da conduta social e as exasperações extraprocessuais, com o redimensionamento da pena; e solução conforme a jurisprudência desta Corte quanto ao controle de legalidade da dosimetria (fls. 713 e 719).
+É o relatório.
+EMENTA
+Direito processual penal. Agravo regimental em habeas corpus. Condenação transitada em julgado. tráfico de drogas. Dosimetria. Valoração negativa da conduta social. Agravo regimental IMprovido.
+I. Caso em exame
+1. Agravo regimental interposto contra decisão monocrática que não conheceu de habeas corpus impetrado em face de condenação, já transitada em julgado, pelo delito de tráfico de drogas, sob o fundamento de que o writ possui nítidas características revisionais.
+2. A defesa sustenta que o trânsito em julgado não impede o manejo do habeas corpus quando a controvérsia é estritamente jurídica, alega que a impetração não se confunde com sucedâneo de revisão criminal, por visar apenas ao controle de legalidade da dosimetria, e aponta indevida valoração negativa da conduta social e exasperações lastreadas em elementos extraprocessuais, requerendo o afastamento desses fundamentos e o redimensionamento da pena.
+II. Questão em discussão
+3. Há duas questões em discussão: (i) saber se é cabível o habeas corpus, após o trânsito em julgado da condenação, com nítido caráter revisional, como sucedâneo de revisão criminal, à luz da competência desta Corte e da sistemática recursal do Código de Processo Penal; e (ii) saber se há manifesta ilegalidade na dosimetria da pena, em especial na valoração negativa da conduta social, apta a justificar o afastamento do óbice ao conhecimento do habeas corpus.
+III. Razões de decidir
+4. A Corte Superior somente detém competência para julgar revisão criminal de seus próprios julgados, nos termos do art. 105, I, "e", da Constituição da República, o que inviabiliza a utilização do habeas corpus, com nítido caráter revisional, para desconstituir condenação acobertada pela coisa julgada proveniente de outros órgãos jurisdicionais.
+5. O Supremo Tribunal Federal e o Superior Tribunal de Justiça, em atenção ao uso racional do habeas corpus e à sistemática recursal do Código de Processo Penal, não admitem o writ como substitutivo de recurso próprio ou de revisão criminal, ressalvadas as hipóteses de manifesta ilegalidade no ato judicial impugnado.
+6. Não se verifica manifesta ilegalidade na dosimetria da pena, pois a valoração negativa da conduta social encontra fundamento no fato de a agravante ter praticado o tráfico de drogas em exame enquanto cumpria pena por crimes anteriores, conforme autoriza jurisprudência desta Corte.
+IV. Dispositivo e tese
+7. Resultado do Julgamento: Agravo regimental improvido, com manutenção da decisão que não conheceu do habeas corpus por possuir nítido caráter revisional e ausência de ilegalidade manifesta na dosimetria da pena.
+Tese de julgamento:
+1. O Superior Tribunal de Justiça não admite habeas corpus com nítido caráter revisional para desconstituir condenação transitada em julgado, por ser a revisão criminal de sua competência restrita aos próprios julgados (CR art. 105, I, "e"), salvo em hipóteses de manifesta ilegalidade.
+2. A inexistência de manifesta ilegalidade na dosimetria da pena, notadamente quando a valoração negativa da conduta social se funda na prática de novo crime durante o cumprimento de pena anterior, impede o conhecimento de habeas corpus substitutivo .
+Dispositivos relevantes citados: CR /1988, art. 105, I, "e".
+Jurisprudência relevante citada: STJ, AgRg no HC 958.212/SP, Rel. Min. Messod Azulay Neto, Quinta Turma, j. 12.03.2025, DJEN 19.03.2025; STJ, AgRg no HC 940.391/MG, Rel. Min. Rogerio Schietti Cruz, Sexta Turma, j. 19.03.2025, DJEN 24.03.2025; STJ, AgRg no HC 961.564/SC, Rel. Min. Antonio Saldanha Palheiro, Sexta Turma, j. 05.03.2025, DJEN 11.03.2025.
+VOTO
+Sem razão a agravante.
+Conforme posto, a defesa busca desconstituir condenação acobertada pela coisa julgada, o que confere a este habeas corpus nítidas características revisionais.
+Todavia, a esta Corte cabe tão somente a revisão criminal dos seus próprios julgados, de acordo com o art. 105, inciso I, alínea "e" , da Constituição da República. Ademais, uma vez priorizando o uso racional do habeas corpus e a sistemática recursal estabelecida pelo CPP, o Supremo Tribunal Federal e o Superior Tribunal de Justiça não tem admitido o habeas corpus substitutivo de recurso próprio, ressalvadas as hipóteses de manifesta ilegalidade no ato judicial impugnado.
+Na espécie, não se identifica manifesta ilegalidade na dosimetria penal, uma vez que observada a atuação discricionária no julgador na escolha da sanção penal aplicável ao caso concreto. Em relação a aferição negativa da conduta social da agravante, consta no acórdão impugnado que "ela realmente praticou o tráfico de drogas ora em exame enquanto cumpria pena por crimes anteriores, conforme autos de execução da pena nº 0002368-21.2017.8.16.0048." (e-STJ, fl. 534).
+"A jurisprudência do Superior Tribunal de Justiça admite a valoração negativa da conduta social quando o agente pratica novo crime enquanto cumpre pena por delito anterior, considerando que tal fato demonstra comportamento social inadequado (REsp n. 2.211.187/MG, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 24/6/2025, DJEN de 30/6/2025.)
+À vista da inexistência de ilegalidade manifesta , mantém-se a decisão que não conheceu do habeas corpus, impondo-se o desprovimento do agravo regimental.
+Nesse sentido: STJ, AgRg no HC 958.212/SP, Rel. Min. Messod Azulay Neto, Quinta Turma, julgado em 12/3/2025, DJEN de 19/3/2025; STJ, AgRg no HC 940.391/MG, Rel. Min. Rogerio Schietti Cruz, Sexta Turma, julgado em 19/3/2025, DJEN 24/3/2025; STJ, AgRg no HC n. 961.564/SC, Rel. Min. Antonio Saldanha Palheiro, Sexta Turma, julgado em 5/3/2025, DJEN de 11/3/2025.
+Ante o exposto, nego provimento ao agravo regimental.
+É o voto.
