@@ -1,0 +1,16 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em nome de FABRICIO DE LUNA VIEIRA, condenado pelo Conselho de Sentença pelos crimes do art. 121, § 2º, IV (um homicídio qualificado consumado) e, por duas vezes, do art. 121, § 2º, IV, c/c art. 14, II (homicídios qualificados tentados), todos na forma do art. 18, I (dolo eventual) e do art. 70 (concurso formal), à pena de 14 anos, 4 meses e 24 dias de reclusão, em regime inicial fechado (Processo n. 1500013-70.2019.8.26.0094, da Vara Única da comarca de Brodowski/SP) (fls. 11/30).
+O impetrante aponta como autoridade coatora o Tribunal de Justiça de São Paulo, que, em 19/3/2026, rejeitou a preliminar defensiva e, no mérito, negou provimento à apelação criminal, mantendo a sentença por seus próprios e jurídicos fundamentos (fls. 31/44).
+Alega, de forma objetiva, a incompatibilidade do dolo eventual com a qualificadora do art. 121, § 2º, IV, especialmente em crimes de trânsito, porque a surpresa ou a impossibilidade de defesa pressupõe representação e direcionamento da conduta, elementos incompatíveis com a assunção de risco própria do dolo eventual.
+Requer, inclusive liminarmente, o afastamento da qualificadora do art. 121, § 2º, IV, por incompatível com o dolo eventual, com o consequente redimensionamento da pena e a adequação do regime inicial.
+É o relatório.
+O writ é inadmissível.
+Nos termos do art. 105, I, e, da Constituição Federal, a competência desta Corte para processar e julgar revisão criminal restringe-se aos seus próprios julgados. Não lhe compete apreciar pedido que, em essência, visa à revisão de acórdão estadual já transitado em julgado.
+Além disso, consoante jurisprudência desta Corte Superior, o não cabimento do writ substitutivo de revisão criminal é corroborado quando o impetrante não indica que as razões de pedir estão previstas em alguma das hipóteses do art. 621 do Código de Processo Penal, como no presente caso (HC n. 829.748/GO, Ministro Rogerio Schietti Cruz, Sexta Turma, DJe 11/12/2023).
+De toda maneira, inexiste ilegalidade manifesta a ser reparada.
+Registra-se que, nos termos da jurisprudência desta Corte Superior, é possível o reconhecimento da compatibilidade entre o dolo eventual e a qualificadora do recurso que dificultou a defesa da vítima. Não obstante a existência de julgados desta Corte Superior a respeito da incompatibilidade entre o dolo eventual e a qualificadora referente ao recurso que dificultou a defesa da vítima, tem-se recente orientação no sentido de que: "elege-se o posicionamento pela compatibilidade, em tese, do dolo eventual também com as qualificadoras objetivas (art. 121, § 2º, III e IV, do Código Penal)  ". (AgRg no AgRg no REsp 1.836.556/PR, Ministro JOEL ILAN PACIORNIK, Quinta Turma, DJe de 22/6/2021) - REsp n. 1.903.295/SP, de minha relatoria, Sexta Turma, DJe 6/3/2023.
+Indefiro liminarmente a petição inicial (art. 210 do RISTJ).
+Publique-se.
+EMENTA
+DIREITO PENAL E PROCESSUAL PENAL. HABEAS CORPUS. IMPETRAÇÃO SUBSTITUTIVA DE REVISÃO CRIMINAL. HOMICÍDIO QUALIFICADO E DUAS TENTATIVAS DE HOMICIÍDIO QUALIFICADO EM CONCURSO FORMAL. INCOMPATIBILIDADE ENTRE DOLO EVENTUAL E QUALIFICADORA DO RECURSO QUE DIFICULTOU A DEFESA DA VÍTIMA. INEXISTÊNCIA DE ILEGALIDADE MANIFESTA. JURISPRUDÊNCIA PELA COMPATIBILIDADE EM TESE ENTRE DOLO EVENTUAL E QUALIFICADORAS OBJETIVAS.
+Petição inicial indeferida liminarmente.
