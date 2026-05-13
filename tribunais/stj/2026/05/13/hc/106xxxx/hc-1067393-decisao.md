@@ -1,0 +1,19 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de RENNER ANDREIVID LAGARES DAS DORES, contra ato do TRIBUNAL DE JUSTIÇA DE MINAS GERAIS, que denegou o writ na origem.
+Consta dos autos que a prisão preventiva foi decretada e cumprida em 14/10/2024. A denúncia foi recebida em 07/11/2024, pela suposta prática dos crimes dos arts. 250, §1º, II, a, e 129, §13, ambos do Código Penal. Realizou-se audiência em 20/03/2025. Sobreveio sentença condenatória fixando a pena total em 5 anos e 6 meses de reclusão, em regime inicial semiaberto, com 15 dias-multa, mantendo-se a prisão preventiva e negado o direito de recorrer em liberdade.
+O impetrante sustenta excesso de prazo no julgamento da apelação de réu preso. Argumenta paralisação indevida do processo no gabinete por 45 dias e demora global superior a cinco meses desde a chegada ao Tribunal, sem justificativa, violando a razoável duração do processo e a tutela da liberdade.
+Alega risco concreto de nova inércia, apesar de o feito estar pronto para pauta, com parecer ministerial já juntado. Assinala que o paciente está preso há cerca de 12 meses, o que reforça o periculum in mora.
+Indica plausibilidade do direito, pois o parecer da Procuradoria-Geral de Justiça opinou pela desclassificação do incêndio para dano qualificado, apontando ausência de perigo à incolumidade pública, com potencial redução da pena, tornando desproporcional a manutenção da prisão durante o trâmite recursal.
+Requer liminarmente a liberdade provisória do paciente, mediante termo de compromisso, até o julgamento da apelação, ou, subsidiariamente, a imediata inclusão do processo em pauta. No mérito, requer o reconhecimento do constrangimento ilegal por excesso de prazo, com a confirmação da liminar e manutenção da liberdade até o julgamento final do recurso.
+Foram solicitadas informações ao Tribunal de origem e determinada vista do Ministério Público Federal (fls. 83-84).
+As informações foram prestadas (fls. 113-187).
+O Ministério Público Federal manifestou-se pela prejudicialidade do presente habeas corpus, em razão da perda superveniente do seu objeto, em parecer assim ementado (fl. 190):
+Habeas corpus. Incêndio qualificado. i) A defesa pleiteia o reconhecimento do excesso de prazo para julgamento de recurso de apelação, o rela- xamento da prisão preventiva e a desclassificação do crime de incêndio qualificado. ii) Com o trânsito em julgado do acórdão que decidiu sobre o recurso de apelação, a tese de excesso de prazo fica superada e afastado pedido de relaxamento da prisão preventiva porque a decisão mais moderna manteve a prisão preventiva do paciente. iii) A Corte de origem não se manifestou sobre o tema da desclassificação, razão pela qual o STJ fica impe- dido de analisar o tema, sob pena de supressão de ins- tância. Precedentes. iv) Parecer pela prejudicialidade do presente habeas corpus em razão da perda superveniente do seu ob- jeto.
+Em petição acostada aos autos (fls. 199-207), o impetrante informou que, diante da superveniência de título judicial, houve desclassificação do crime de incêndio para o de dano qualificado, reduzindo a pena do paciente oara 01 (um) ano de reclusão e 09 (nove) meses e 22 (vinte e dois) dias de detenção, em regime inicial aberto, com concessão de sursis.
+É o relatório.
+Conforme petição acostada aos autos (fls. 199-207), o impetrante informa que os embargos de declaração com efeitos infrigentes opostos, perante o Tribunal de origem, foram acolhidos, desclassificando o crime de indêndio para o de dano qualificado e reduzindo a pena do paciente para 01 (um) ano de reclusão e 09 (nove) meses e 22 (vinte e dois) dias de detenção, em regime inicial aberto, com a concessão de sursis.
+Desse modo, fica evidenciada a perda superveniente do objeto.
+Ante o exposto, julgo prejudicado o habeas corpus.
+Publique-se.
+Intimem-se.
+EMENTA
