@@ -1,0 +1,35 @@
+DECISÃO
+LEANDRO DE ALMEIDA alega sofrer constrangimento ilegal no seu direito de locomoção em decorrência de excesso de prazo do Tribunal de Justiça do Estado do Rio de Janeiro em julgar a Apelação Criminal n. 0821317- 50.2024.8.19.0042.
+A defesa aponta haver excesso de prazo para a apreciação do recurso interposto contra a sentença que condenou o réu a 5 anos e 10 meses de reclusão, no regime inicial fechado, mais multa, pela prática de tráfico de drogas.
+Afirma, ainda, que não houve revisão periódica da prisão após a prolação da sentença e sustenta a fragilidade probatória para a condenação do réu. Requereu o relaxamento da prisão preventiva ou a substituição por medidas cautelares alternativas.
+O Ministério Público Federal opinou pela denegação da ordem (fls. 83-86).
+Decido.
+I. Contextualização
+O paciente teve sua prisão preventiva decretada em 23/11/2024, pela suposta prática do crime previsto no art. 33 da Lei n. 11.343/2006. Ao final da instrução, sobreveio sentença, em 30/7/2025, que o condenou a 5 anos e 10 meses de reclusão, no regime inicial fechado, mais multa, pela prática de tráfico de drogas. A defesa interpôs apelação em 1/8/2025 e recurso foi distribuído em 2/9/2025. O Relator do feito determinou a abertura de vista à Procuradoria de Justiça, a qual emanou parecer em 7/1/2026, mesma data em que remetidos os autos à conclusão.
+II. Excesso de prazo para julgamento da apelação
+Os prazos processuais previstos na legislação pátria devem ser computados de maneira global e o reconhecimento do excesso deve-se pautar sempre pelos critérios da razoabilidade e da proporcionalidade (art. 5º, LXXVIII, da CF), considerando cada caso e suas particularidades.
+Colhe-se dos autos que o paciente está preso desde 23/11/2024 (fl. 22) e foi condenado a 5 anos e 10 meses de reclusão, no regime inicial fechado, pela prática de tráfico de drogas (fl. 34), circunstância que deve ser considerada na averiguação de eventual excesso de prazo. A defesa aduz haver mora desarrazoada para a apreciação da apelação, uma vez que o recurso foi interposto em 1/8/2025.
+Segundo informações prestadas pelo TJ/RJ (fls. 67-68),
+Leandro de Almeida foi flagranciado, em 20/11/2024, pela prática, em tese, do delito de tráfico ilícito de entorpecentes e, na audiência de custódia do dia 23/11/2024, foi homologado o flagrante, e a prisão foi convertida em preventiva, (e-docs. 157192935 e 157192936).
+Em 27/11/2024, o Ministério Público ofereceu denúncia em face do acusado, perante o r. juízo da 2ª Vara Criminal da Comarca de Petrópolis, imputando-lhe o cometimento, em tese do crime descrito no art. 33 da Lei 11343/06 (e-doc. 158797819).
+(e-doc. 175906875).
+O recebimento da inicial acusatória ocorreu em 13/3/2025, mesma oportunidade em que mantido o decreto prisional (e-doc. 177994295).
+Realizada audiência de instrução e julgamento em 2/4/2025, ocasião em que se procedeu à colheita dos depoimentos de testemunhas. No interrogatório, o acusado se manteve silente (e-doc. 182830686).
+Alegações finais Ministeriais e Defensivas apresentadas, respectivamente, em 5/5/2025 e 20/5/2025 (e-docs. 189818363 e 193943952).
+Finda a instrução, em 30/7/2025, o r. juízo de direito julgou procedente a pretensão punitiva estatal, condenando o acusado como incurso nas penas do art. 33, caput da Lei 11.343/06. Arbitrou-lhe a sanção de 05 (cinco) anos e 10 (dez) meses de reclusão, em regime fechado, e 583 (quinhentos e oitenta e três) dias-multa. Manteve a custódia cautelar (e-doc. 212953818).
+Irresignada, a Defesa Técnica interpôs recurso de apelação, cujas razões foram apresentadas em 1/8/2025 e, as contrarrazões, em 26/8/2025 (e-docs.213603056 e 220635032).
+O recurso foi distribuído, em 2/9/2025, à Egrégia Quinta Câmara Criminal, sob relatoria do Exmo. Desembargador André Ricardo de Franciscis Ramos (e-doc. 02/04 ejud).
+Em 15/12/2025, o E. Relator determinou a abertura de vista à douta Procuradoria de Justiça, a qual emanou Parecer em 7/1/2026, mesma data em que remetidos os autos à conclusão, ora se aguardando a elaboração de relatório e encaminhamento dos autos à d. revisão (e-docs. 06, 08, 11 ejud).
+Entendo não haver manifesta desídia do Poder Judiciário em dar andamento ao feito. Ao se considerar as circunstâncias mencionadas, sobretudo a pena privativa de liberdade total a que o réu foi condenado e à proximidade do encerramento do feito, não verifico desídia estatal.
+Ainda, como bem exposto pelo Parquet, "O feito recebe o devido impulsionamento, inexistindo paralisia injustificada que afronte o princípio da razoável duração do processo. O prazo de aproximadamente três meses de conclusão ao relator, diante da complexidade inerente ao processamento de recursos na segunda instância, não caracteriza desídia do Poder Judiciário" (fl. 84) e "a custódia cautelar permanece devidamente fundamentada na periculosidade do agente e no risco de reiteração delitiva, considerando a sua condição de reincidente específico" (fl. 86).
+Por todos esses motivos, não há como acolher o pleito defensivo de relaxamento da custódia nem o de substituição por medidas cautelares alternativas.
+Ilustrativamente: "O excesso de prazo para o julgamento da apelação não pode ser medido apenas em razão do tempo decorrido para o julgamento do recurso, devendo ser apreciado, também, a partir do princípio da razoabilidade e da proporcionalidade, tendo em vista a complexidade da causa em julgamento, bem como a pena imposta na sentença condenatória" (HC n. 403.016/RJ, Rel. Ministro Reynaldo Soares da Fonseca, 5ª T., DJe 15/8/2017); "Esta Corte tem reiterada jurisprudência de que a análise do excesso de prazo para o julgamento da apelação deve levar em consideração o quantum de pena aplicada na sentença condenatória" (HC n. 736.298/SP, Rel. Ministro Antonio Saldanha Palheiro, 6ª T., DJe 20/6/2022).
+III. Revisão periódica da prisão após a prolação da sentença
+A alegação de violação do dever de revisão periódica da custódia cautelar também não prospera, porquanto "após o encerramento da instrução criminal e a prolação da sentença condenatória, não compete mais ao órgão emissor do decreto constritivo o dever de revisão da prisão preventiva, entendimento que está em consonância com a jurisprudência do Superior Tribunal de Justiça" (RHC n. 224.269/MG, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 18/3/2026, DJEN de 24/3/2026).
+IV. Fragilidade probatória
+Para refutar as premissas fáticas estabelecidas pelos Juízos ordinários a respeito da materialidade e dos indícios de autoria, seria imprescindível reexame fático-probatório, providência incompatível com o habeas corpus.
+Nesse sentido: "as instâncias ordinárias concluíram pela existência de provas de materialidade e indícios de autoria da prática criminosa, não sendo o habeas corpus o meio processual adequado para o enfrentamento de alegações relativas à suposta fragilidade do conjunto probatório" (AgRg no RHC n. 223.699/PR, relatora Ministra Maria Marluce Caldas, Quinta Turma, julgado em 25/2/2026, DJEN de 3/3/2026).
+V. Dispositivo.
+À vista do exposto, denego a ordem.
+Publique-se e intimem-se.
+EMENTA
