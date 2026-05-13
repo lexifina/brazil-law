@@ -1,0 +1,50 @@
+DECISÃO
+Trata-se de embargos de divergência opostos por VITOR BANDEIRA E MÁRCIO APARECIDO BANDEIRA contra acórdão da Sexta Turma, de Relatoria do Ministro Sebastião Reis Júnior, assim ementado (fls. 809-810):
+PENAL E PROCESSO PENAL. AGRAVO REGIMENTAL EM AGRAVO EM RECURSO ESPECIAL. OPERAÇÃO ALUMINUM. CRIME DE ORGANIZAÇÃO CRIMINOSA. REJEIÇÃO DE DENÚNCIA JÁ RECEBIDA. ANULAÇÃO DA DECISÃO PELO TRIBUNAL. DECISÃO DE RECEBIMENTO RATIFICADA. OCASIÃO EM QUE HOUVE O AFASTAMENTO DAS PRELIMINARES LEVANTADAS, INCLUSIVE A RELATIVA À INÉPCIA DA DENÚNCIA. MODIFICAÇÃO POSTERIOR PELO MAGISTRADO DE MESMO GRAU. INVIABILIDADE. PRECLUSÃO PRO JUDICATO. ATUAÇÃO SEM PROVOCAÇÃO DAS PARTES. IMPOSSIBILIDADE. ACÓRDÃO EM CONSONÂNCIA COM A JURISPRUDÊNCIA DO STJ.
+1. A teor da jurisprudência desta Corte, embora seja possível a reconsideração da decisão de recebimento da denúncia, tal ato deve ocorrer logo após o oferecimento da resposta à acusação. Uma vez ratificado o recebimento, com o afastamento das teses preliminares, e determinado o prosseguimento do feito, opera-se a preclusão , sendo vedado ao pro judicato magistrado, sem fato novo ou provocação das partes, reconsiderar a decisão para rejeitar a exordial.
+2. Agravo regimental improvido.
+Os embargos de declaração foram rejeitados, nos termos da seguinte ementa (fls. 855-856):
+DIREITO PROCESSUAL PENAL. EMBARGOS DE DECLARAÇÃO EM AGRAVO REGIMENTAL EM AGRAVO EM RECURSO ESPECIAL. ORGANIZAÇÃO CRIMINOSA. ALEGAÇÃO DE OMISSÃO QUANTO À TESE DE (ART. 383 DO CPP) E DE EMENDATIO LIBELLI CONTRADIÇÃO. VÍCIOS INEXISTENTES. REJEIÇÃO TARDIA DA DENÚNCIA. PRECLUSÃO . MERO INCONFORMISMO. PRO JUDICATO EMBARGOS REJEITADOS.
+1. Nos termos do comando normativo insculpido no do Código de art. 619 Processo Penal, o recurso integrativo tem como escopo corrigir omissões, obscuridades, contradições ou ambiguidades eventualmente existentes no provimento judicial.
+2. Não há omissão no acórdão que, de forma fundamentada, reconhece a ocorrência da preclusão e a inviabilidade de revisão pro judicato ex officiodo recebimento da denúncia após a instrução processual ter sido designada, afastando, por consequência lógica e jurídica, a aplicação do instituto da àquela fase processual. emendatio libelli
+3. A contradição que autoriza o manejo dos aclaratórios é a interna, verificada entre os fundamentos da decisão e sua conclusão. Inexiste vício quando o julgado mantém coerência entre a premissa de que o ato judicial foi uma rejeição tardia da inicial e a conclusão de que tal conduta é vedada pela estabilidade processual.
+4. A intenção de rediscutir questões que já foram objeto do devido exame e decisão no acórdão embargado, porque representa mera contrariedade com a conclusão da lide, é incabível na via dos embargos de declaração.
+5. Embargos de declaração rejeitados.
+Como se vê, o agravo regimental foi desprovido, a fim de manter a decisão que conheceu do agravo em recurso especial, mas negou provimento ao recurso especial.
+A partir desse cenário, sustentam os embargantes que a Sexta Turma divergiu da Quinta Turma porque reputou configurada a preclusão pro judicato após a ratificação do recebimento da denúncia, vedando ao magistrado de primeiro grau rejeitar posteriormente a exordial acusatória, mesmo diante de matérias de ordem pública, quando ausente provocação das partes. Alegam que a Quinta Turma, em precedentes como o AREsp 2.201.988/SP e o HC 478.542/RJ, teria adotado entendimento diverso, reconhecendo a possibilidade de rejeição da denúncia após seu recebimento e afastando expressamente a incidência da preclusão pro judicato em tais hipóteses.
+Requerem, assim, o conhecimento e o provimento dos presentes embargos, a fim de que seja harmonizado o entendimento das turmas criminais do STJ.
+É o relatório.
+Decido.
+Nos termos do art. 266-C do Regimenta Interno do Superior Tribunal de Justiça (RISTJ), o Ministro Relator poderá indeferir os embargos de divergência liminarmente se intempestivos ou se não comprovada ou não configurada a divergência jurisprudencial atual, ou negar-lhes provimento caso a tese deduzida no recurso seja contrária a fixada em julgamento de recurso repetitivo ou de repercussão geral, a entendimento firmado em incidente de assunção de competência, a súmula do Supremo Tribunal Federal ou do Superior Tribunal de Justiça ou, ainda, a jurisprudência dominante acerca do tema.
+Em que pesem os argumentos da parte embargante, verifica-se que não há a necessária similitude fática entre o acórdão embargado e os paradigmas indicados.
+No acórdão embargado, os embargantes respondem a ação penal pelos crimes de organização criminosa e lavagem de capitais, no contexto da Operação Aluminum. A denúncia foi inicialmente recebida, seguindo-se a apresentação de resposta à acusação, após a qual o juízo de primeiro grau ratificou expressamente o recebimento, afastando as preliminares suscitadas pela defesa, inclusive a relativa à inépcia da denúncia, e determinou o prosseguimento do feito. Apenas em momento posterior, sem provocação das partes e antes do início da instrução, é que o magistrado singular reexaminou os pressupostos de admissibilidade da acusação e rejeitou parcialmente a denúncia quanto ao crime de organização criminosa.
+No acórdão paradigma do AREsp 2.201.988/SP, por sua vez, discutia-se a legitimidade da emendatio libelli antecipada, reclassificação jurídica dos fatos antes da sentença, em processo por crime contra a ordem tributária, sem qualquer discussão acerca da rejeição da denúncia ou da incidência de preclusão pro judicato sobre decisão de ratificação do recebimento da exordial. Cuida-se, portanto, de instituto processual distinto, com pressupostos e efeitos diversos daqueles debatidos no acórdão embargado.
+Já no acórdão paradigma do HC 478.542/RJ, além de se tratar de ação de natureza constitucional, o que, por si só, impede sua utilização como paradigma em embargos de divergência, consoante jurisprudência pacífica desta Corte , a hipótese fática também não guarda a necessária similitude com a dos autos. Ali, a rejeição da denúncia ocorreu logo após a resposta à acusação, antes de qualquer ratificação expressa do recebimento com afastamento de preliminares, contexto substancialmente distinto daquele em que o acórdão embargado reconheceu a preclusão pro judicato.
+Assim, as situações fático-processuais dos acórdãos paradigmas e do embargado são distintas, o que impossibilita o processamento dos embargos de divergência.
+Neste sentido:
+AGRAVO REGIMENTAL NOS EMBARGOS DE DIVERGÊNCIA NO RECURSO ESPECIAL. TRÁFICO DE DROGAS. MINORANTE DO ART. 33, §4º, DA LEI N. 11.343/2006. INAPLICABILIDADE. MODUS OPERANDI E QUANTIDADE DE DROGA. HABITUALIDADE CRIMINOSA. CONFRONTO ANALÍTICO. AUSÊNCIA. SIMILITUDE FÁTICA. INEXISTÊNCIA. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. Os embargos de divergência em recurso especial devem realizar o confronto analítico e observar a similitude fática em relação aos precedentes invocados como paradigmas, sob pena de inadmissibilidade.
+2. No caso, verifica-se que, além da falta de confronto analítico entre os acórdãos apresentados como paradigmas e o acórdão recorrido (inobservância do art. 266, §4º, do RISTJ), não há a necessária similitude entre eles.
+3. De fato, nos arestos proferidos pela Sexta Turma, o modus operandi ou a quantidade de drogas, nos diversos julgados apresentados, eram considerados de forma isolada, em contexto distinto da hipótese sub examine. No acórdão recorrido, contudo, ficou devidamente explicitado que o somatório dessas circunstâncias justificaria a inaplicabilidade do benefício contido no art. 33, § 4ª, da Lei de Drogas.
+4. Agravo regimental não provido.
+(AgRg nos EAREsp n. 2.464.302/SC, relator Ministro Rogerio Schietti Cruz, Terceira Seção, julgado em 13/8/2025, DJEN de 19/8/2025.)
+Ademais, acórdãos proferidos em ações de natureza constitucional, como habeas corpus, não podem servir como paradigma para embargos de divergência, consoante jurisprudência pacífica do Superior Tribunal de Justiça.
+Nesse sentido:
+DIREITO PROCESSUAL PENAL. AGRAVO REGIMENTAL. EMBARGOS DE DIVERGÊNCIA. INADMISSIBILIDADE. HABEAS CORPUS DE OFÍCIO. IMPOSSIBILIDADE. AGRAVO DESPROVIDO.
+I. Caso em exame
+1. Agravo regimental interposto contra decisão que indeferiu liminarmente embargos de divergência, com base no art. 266-C do RISTJ, por ausência de similitude fática e jurídica entre os acórdãos embargado e paradigmas.
+II. Questão em discussão
+2. A questão em discussão consiste em saber se há similitude fática e jurídica entre os acórdãos embargado e paradigmas, apta a ensejar o cabimento dos embargos de divergência.
+3. A questão também envolve a possibilidade de utilização de acórdãos proferidos em ações de natureza constitucional e embargos de divergência anteriores como paradigmas para embargos de divergência. E se é possível a concessão de habeas corpus, de ofício.
+III. Razões de decidir
+4. A ausência de similitude fática e jurídica entre os acórdãos embargado e paradigmas impede o conhecimento da divergência jurisprudencial.
+5. Embargos de divergência não são cabíveis contra acórdãos do STJ proferidos em embargos de divergência anteriores.
+6. Acórdãos proferidos em ações de natureza constitucional não podem servir como paradigma para embargos de divergência, mesmo sob a vigência do CPC/2015.
+7. A concessão de habeas corpus de ofício, no bojo de embargos de divergência, encontra óbice tanto no fato de que nem o Relator tem autoridade para, em decisão monocrática, conceder ordem que, na prática, desconstituiria o resultado de acórdão proferido por outra Turma julgadora, como tampouco a Seção detém competência constitucional para conceder habeas corpus contra acórdão de Turma do próprio tribunal. Precedentes.
+IV. Dispositivo e tese
+8. Agravo regimental desprovido.
+(AgRg nos EREsp n. 2.010.226/DF, relator Ministro Joel Ilan Paciornik, Terceira Seção, julgado em 13/8/2025, DJEN de 19/8/2025)
+Ante o exposto, nos termos do art. 266-C do RISTJ (primeira parte), indefiro liminarmente os embargos de divergência.
+Publique-se.
+Intimem-se.
+EMENTA
