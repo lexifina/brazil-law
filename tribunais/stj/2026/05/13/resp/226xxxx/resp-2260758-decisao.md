@@ -1,0 +1,66 @@
+DECISÃO
+Trata-se de recurso especial interposto pela Defensoria Pública do Estado do Pará em favor de DENIVALDO OLIVEIRA DA COSTA, contra acórdão proferido pelo Tribunal de Justiça do Estado do Pará, assim ementado (fl. 215):
+DIREITO PENAL E PROCESSUAL PENAL. APELAÇÃO CRIMINAL. TRÁFICO DE DROGAS. INSUFICIÊNCIA DE PROVAS. DESCLASSIFICAÇÃO PARA USO PESSOAL. TRÁFICO PRIVILEGIADO. PENA PRIVATIVA DE LIBERDADE. REGIME INICIAL SEMIABERTO. RECURSO DESPROVIDO.
+I. CASO EM EXAME
+1. Apelação criminal em que se pretende a reforma de sentença que condenou o réu a 4 anos e 2 meses de reclusão, em regime semiaberto, além de 417 dias-multa, pela prática do crime previsto no art. 33, caput, da Lei nº 11.343/2006.
+II. QUESTÃO EM DISCUSSÃO
+2. Há quatro questões em discussão: (i) verificar se as provas são suficientes para manter a condenação por tráfico de drogas; (ii) analisar se é possível a desclassificação do crime para uso pessoal; (iii) avaliar a possibilidade de aplicação do tráfico privilegiado no patamar máximo de redução; e (iv) examinar a viabilidade de substituição da pena privativa de liberdade por restritiva de direitos e de modificação do regime inicial de cumprimento da reprimenda reclusiva.
+III. RAZÕES DE DECIDIR
+3. A condenação encontra respaldo em provas suficientes, consistentes no auto de apreensão, laudo toxicológico e testemunhos de policiais, que confirmam a posse de 29 papelotes de maconha pelo réu.
+4. A desclassificação para o art. 28 da Lei de Drogas é inviável, pois não restou comprovado que a droga se destinava ao uso pessoal, sendo ônus da defesa demonstrar tal circunstância.
+5. A aplicação da causa de diminuição prevista no §4º do art. 33 foi equivocadamente reconhecida em sentença, pois o réu ostenta condenação anterior por tráfico, circunstância que afasta a condição de bons antecedentes exigida para o benefício.
+6. Apesar da ausência de requisitos para o tráfico privilegiado, a pena não pode ser agravada nesta fase por se tratar de recurso exclusivo da defesa, vedando-se a . reformatio in pejus
+7. A manutenção da pena aplicada inviabiliza tanto a substituição por penas restritivas de direitos quanto a modificação do regime inicial de cumprimento, nos termos dos arts. 33, §2º, b, e 44, I, ambos do Código Penal.
+IV. DISPOSITIVO E TESE
+8. Recurso conhecido e desprovido.
+Consta dos autos que o recorrente foi condenado à pena de 4 anos e 2 meses de reclusão, em regime inicial semiaberto, além do pagamento de 417 dias-multa, pela prática do crime previsto no art. 33, caput, da Lei n. 11.343/2006.
+Interposta apelação pela defesa, o Tribunal de origem negou provimento ao recurso, mantendo a condenação e a dosimetria tal como fixadas em primeiro grau, sem modificações.
+No presente recurso especial, a Defensoria Pública sustenta violação ao art. 28 da Lei n. 11.343/2006, ao argumento de que o acórdão recorrido deixou de proceder à desclassificação do crime de tráfico de drogas para a figura do porte para consumo pessoal, pugnando pelo reconhecimento da atipicidade penal da conduta nos moldes fixados pelo Supremo Tribunal Federal no RE 635.659/SP (Tema 506).
+Sustenta que os elementos dos autos não evidenciam a destinação comercial da droga apreendida, porquanto o recorrente foi encontrado na posse de apenas 28,96g de cannabis sativa, quantidade inferior ao limite de 40g estabelecido pelo STF como critério objetivo para presunção de uso pessoal, sem que fossem localizados instrumentos comumente associados à traficância, tais como balança de precisão, material para fracionamento ou registro de negociações.
+Aduz que os fundamentos utilizados pelo acórdão para afastar a presunção de uso pessoal são inidôneos, na medida em que se apoiam exclusivamente em elementos subjetivos, depoimento policial, local e contexto da apreensão, sem qualquer prova material de mercancia, em desacordo com a orientação do Tema 506, que veda a utilização de critérios subjetivos para afastar a presunção de consumo pessoal quando a quantidade apreendida está aquém do parâmetro objetivo fixado pela Suprema Corte.
+Requer, ao final, o provimento do recurso especial para que seja reconhecida a atipicidade penal da conduta, com a consequente desclassificação para o delito previsto no art. 28 da Lei n. 11.343/2006.
+As contrarrazões foram apresentadas (fls. 239-243).
+O recurso foi admitido pela Corte de origem (fls. 245-247).
+O Ministério Público Federal manifestou-se pelo parcial conhecimento e, nesta extensão, pelo desprovimento do recurso especial, nos termos da seguinte ementa (fl. 261):
+RECURSO ESPECIAL. TRÁFICO DE DROGAS. APLICA- ÇÃO DO TEMA-RG N. 506/STF. IMPOSSIBILIDADE. AU- SÊNCIA DE PREQUESTIONAMENTO. DESCLASSIFICAÇÃO. PORTE DE DROGAS PARA CON- SUMO PRÓPRIO. CONCLUSÕES DA CORTE DE ORIGEM. REVERSÃO. NECESSIDADE DE REEXAME DE PROVAS. SÚMULA N. 7/STJ. PARCIAL CONHECIMENTO E DES- PROVIMENTO DO RECURSO ESPECIAL.
+1. Não se conhece de pedidos que não foram previamente levados a apreciação da Corte de origem, por caraterizar ausência do necessário prequestionamento.
+2. Ainda que assim não fosse, observa-se que o Tema-RG n. 506/ STF não se aplica ao recorrente, tendo em vista as circunstâncias do delito e a forma de acondicionamento dos entorpecentes, conforme exceção expressa.
+3. Uma vez assentado pelas instâncias antecedentes que as drogas apreendidas com o recorrente se destinavam à mercância ilícita, não há possibilidade de reversão dessa premissa sem amplo reexame de provas, hipótese inviável diante do que enunciado pela Súmula n. 7/ STJ. Precedentes.
+4. Destaque-se, por fim, que o reconhecimento da modalidade privilegiada do tráfico de drogas pelo juízo de primeiro grau beneficiou sobremaneira o recorrente, na medida em que, conforme consignado no acórdão, ele ostenta condenação anterior, com trânsito em julgado posterior, também por tráfico de entorpecentes, caracterizando, assim, maus antecedentes
+5. Parecer pelo parcial conhecimento e, nesta extensão, pelo desprovimento do recurso especial.
+É o relatório.
+DECIDO.
+De início, verifica-se que a invocação do Tema 506 da repercussão geral como fundamento autônomo para o reconhecimento da atipicidade penal da conduta não foi arguida nas razões de apelação, constituindo inovação recursal. A pretensão desclassificatória em si foi deduzida na origem, mas o específico fundamento constitucional ora articulado não foi submetido ao Tribunal de origem, que sobre ele não se pronunciou. Inexiste, portanto, o indispensável prequestionamento quanto a esse ponto, o que atrai a incidência das Súmulas 282 e 356 do STF, conforme corretamente ressaltado no parecer ministerial. Registre-se que os embargos de declaração sequer foram opostos, o que agrava a deficiência do prequestionamento.
+Quanto ao pedido de desclassificação, consta do acórdão recorrido (fls. 225-226):
+Embora admissível, o recurso não comporta provimento.
+No ponto, clarifico que inexiste espaço para absolvição diante da existência de provas substanciais da materialidade e autoria do crime de tráfico de drogas pelos elementos probatórios coligidos aos autos.
+A materialidade está comprovada pelo auto de apresentação e apreensão da substância entorpecente (ID 16851428 - Pág. 11) e Laudo Toxicológico Definitivo n. 130/2014, que atestou que o material apreendido com o apelante tratava-se de 29 embrulhos feitos em pedaços de papel alumínio pesando 28,967g da substância vulgarmente conhecida como "maconha" (ID 16851447, pág. 2).
+A autoria delitiva exsurge da prova testemunhal colhida em juízo, conforme consignado na sentença, transcrita no essencial:
+"A testemunha DENILSON DE AZEVEDO DE UPTOM afirmou em juízo que estavam em ronda no bairro do Jaderlândia, quando chegou na rua onde ele (em referência ao réu) mora, que estava sentado, que já tiveram uma outra ocorrência por tráfico, que por isso fizeram a abordagem e encontraram as quantidades de droga. Que o pegaram pela primeira vez tinha entre 3 e 4 meses, na mesma situação de droga. Que não o viu mais.
+Nessa ordem, a testemunha JOSÉ HAROLDO BARBOSA GARCIA disse que já prenderam o réu antes. Que em ronda no bairro do Jaderlândia, esse rapaz (em referência ao denunciado) estava sentado embaixo de uma árvore, que ele tinha maconha.
+Por fim, EDSON JUNIOR DE MELO COSTA afirmou ao juízo que as outras guarnições já tinham conhecimento dele (em referência ao denunciado). Que fizeram ronda rotineira, depararam-se com o elemento, que na abordagem ele estava com a quantia de 29 petecas de maconha e uma quantia" (ID 16851480 - Pág. 3).
+Na fase policial, o acusado confessou a autoria delitiva, afirmando que se encontrava na esquina de sua residência, quando fora abordado por uma guarnição da polícia militar e revistado, estando na posse de 29 papelotes de substância esverdeada conhecida maconha, bem como a quantia de R$43, asseverando, por fim, que não chegou a vender papelote algum, mas venderia por R$5 cada, não declinando o nome de quem lhe teria vendido o entorpecente (ID 16851428 - Pág. 6). O réu não foi ouvido em juízo, face a decretação da revelia (ID 16851476 - Pág. 1).
+Destarte, a tese defensiva de insuficiência de provas não se sustenta, porquanto a jurisprudência do Superior Tribunal de Justiça é pacífica no sentido de que, no crime de tráfico de drogas, "o depoimento dos policiais prestado em Juízo constitui meio de prova idôneo a resultar na condenação do réu, notadamente quando ausente qualquer dúvida sobre a imparcialidade dos agentes, cabendo à defesa o ônus de demonstrar a imprestabilidade da prova, o que não ocorreu no presente caso"(..)
+ ..
+Seguindo essa linha de intelecção, não prospera também a tese de desclassificação do crime de tráfico de drogas para consumo pessoal, pois não restou comprovado que a substância entorpecente seria para uso próprio, não tendo a defesa se desincumbido do ônus de provar ser o réu apenas usuário.
+Outrossim, a alegada condição de usuário, por si só, não afasta a traficância, de modo que, demonstrado o crime de tráfico, inviável a desclassificação para o delito do art. 28 da Lei n. 11.343/06.
+Sendo assim, dou especial relevância a jurisprudência das Cortes de Justiça Estaduais segundo a qual "a desclassificação da conduta de tráfico ilegal de drogas para a figura de posse de entorpecentes para consumo pessoal somente pode ser operada se restar sobejamente demonstrado o propósito exclusivo de uso próprio das substâncias narcóticas, elemento subjetivo específico do tipo penal não demonstrado na hipótese em apreço"(..)
+ ..
+Como se vê, a pretensão esbarra na Súmula 7/STJ, pois o Tribunal de origem afirmou, de forma clara e fundamentada, que a condenação ampara-se em conjunto probatório consistente, formado pelos depoimentos convergentes de três policiais militares colhidos em juízo, pela confissão extrajudicial do recorrente, que admitiu a intenção de venda dos papelotes pelo valor de R$ 5,00 cada, pelo auto de apreensão e pelo laudo toxicológico definitivo, os quais, valorados em seu conjunto, evidenciaram a destinação comercial da droga. Rever tais conclusões para reconhecer a destinação ao uso pessoal demandaria indevida reavaliação fático-probatória, o que é vedado nesta via.
+Nesse sentido:
+DIREITO PROCESSUAL PENAL E PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. RECURSO ESPECIAL INTERPOSTO POR E-MAIL EM CONTEXTO DE PANDEMIA. EXCEPCIONALIDADE. TRÁFICO DE DROGAS E PORTE ILEGAL DE ARMA DE FOGO. DOSIMETRIA. NATUREZA E QUANTIDADE DA DROGA. PENA-BASE. PROPORCIONALIDADE. AGRAVO REGIMENTAL PARCIALMENTE PROVIDO.
+ ..
+8. No mérito, quanto ao pedido de absolvição ou desclassificação do crime de tráfico para uso, o acórdão estadual firmou a condenação com base em elementos probatórios específicos, inclusive depoimentos policiais prestados em juízo reputados idôneos, auto de apreensão e laudos, de modo que a pretensão defensiva demandaria reexame do acervo fático-probatório, o que atrai a incidência da Súmula n. 7 do STJ.
+ ..
+(AgRg nos EDcl no AREsp n. 2.405.935/BA, relator Ministro Messod Azulay Neto, Quinta Turma, julgado em 3/3/2026, DJEN de 9/3/2026.)
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. TRÁFICO DE DROGAS. PLEITO DE DESCLASSIFICAÇÃO. INCIDÊNCIA DA SÚMULA N. 7 DO STJ. MINORANTE. DEDICAÇÃO ATIVIDADES CRIMINOSAS. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. A Corte estadual, após minuciosa análise do acervo carreado aos autos, concluiu pela existência de elementos concretos e coesos a ensejar a condenação do acusado pelo crime de tráfico de drogas.
+2. Para se concluir pela desclassificação da conduta seria necessária a incursão no conjunto fático-probatório delineado nos autos, procedimento vedado no âmbito do recurso especial, a teor da Súmula n. 7 do Superior Tribunal de Justiça.
+ ..
+6. Agravo regimental não provido.
+(AgRg no AREsp n. 3.134.121/PE, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 3/3/2026, DJEN de 11/3/2026.)
+Diante de tais fundamentos, as razões recursais não superam os requisitos de admissibilidade do recurso especial, nem mesmo alcançam demonstrar violação a dispositivo de lei federal ou contrariedade à jurisprudência desta Corte.
+Ante o exposto, com fulcro no art. 255, § 4º, I, do Regimento Interno do STJ, não conheço do recurso especial.
+Publique-se.
+Intimem-se.
+EMENTA
