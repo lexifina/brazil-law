@@ -1,0 +1,34 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEXTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 07/05/2026 a 13/05/2026, por unanimidade, denegar o habeas corpus, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Rogerio Schietti Cruz, Carlos Pires Brandão e Og Fernandes votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Carlos Pires Brandão.
+EMENTA
+DIREITO PENAL E PROCESSUAL PENAL. HABEAS CORPUS. HOMICÍDIO QUALIFICADO. PRISÃO PREVENTIVA MANTIDA. GARANTIA DA ORDEM PÚBLICA. GRAVIDADE CONCRETA. VIOLÊNCIA EXTREMA. MODUS OPERANDI REPROVÁVEL. CONTEMPORANEIDADE DA MEDIDA. ANÁLISE DE TESES DEFENSIVAS. IMPOSSIBILIDADE NA VIA ESTREITA DO HABEAS CORPUS. INSUFICIÊNCIA DE MEDIDAS CAUTELARES DIVERSAS. AUSÊNCIA DE CONSTRANGIMENTO ILEGAL.
+Habeas corpus denegado.
+RELATÓRIO
+Trata-se de habeas corpus impetrado em nome de ANTONIO MARCOS DOS SANTOS DE OLIVEIRA e GABRIEL DOS SANTOS DE OLIVEIRA - presos preventivamente e acusados pela prática, em tese, de homicídio qualificado -, em que a defesa aponta como autoridade coatora o Tribunal de Justiça do Estado do Paraná, que denegou a ordem no HC n. 0095076-59.2025.8.16.0000.
+Em síntese, o impetrante alega a ausência de fundamentação concreta, atual e individualizada do periculum libertatis, sustentando que a decisão se limita à gravidade abstrata do delito e a fórmulas genéricas sobre garantia da ordem pública, sem indicar fatos específicos, contemporâneos e verificáveis, e sem demonstrar risco real à sociedade, à instrução ou à aplicação da lei penal.
+Sustenta a inexistência de risco atual à ordem pública e de indicativos de reiteração delitiva, destacando que não há notícias de ameaça a testemunhas, obstrução da instrução, vínculo com organização criminosa ou condutas posteriores que indiquem perigo, com ênfase na primariedade e residência fixa de GABRIEL e na ausência de fatos novos quanto a ANTONIO MARCOS.
+Afirma plausibilidade da narrativa defensiva, com suporte em prova de contexto produzida sob contraditório, referindo áudio e depoimento de testemunha, além de laudo de avarias, para demonstrar dinâmica rápida, conflito episódico, ausência de divisão de tarefas e atuação distinta dos corréus - "o passageiro" teria desferido os golpes de faca, enquanto "o motorista  brigou", fragilizando a premissa de concurso funcional e a periculosidade presumida.
+Em caráter liminar, pede a revogação da prisão preventiva e a expedição de alvará de soltura ou, subsidiariamente, a substituição da custódia por medidas cautelares do art. 319 do Código de Processo Penal, como monitoramento eletrônico, recolhimento domiciliar noturno, proibição de contato com testemunhas, proibição de acesso ao local dos fatos e comparecimento periódico em juízo.
+No mérito, requer a confirmação da ordem para reconhecer a ilegalidade da manutenção da prisão preventiva por falta de fundamentação concreta e contemporânea, determinando a liberdade dos pacientes; subsidiariamente, a substituição por medidas cautelares diversas da prisão, nos termos do art. 319 do Código de Processo Penal.
+A liminar foi indeferida pelo Ministro Luis Felipe Salomão, Vice-Presidente desta Corte, no exercício da Presidência.
+Foram dispensadas as informações.
+O Ministério Público Federal opinou pelo não conhecimento do habeas corpus.
+É o relatório.
+EMENTA
+DIREITO PENAL E PROCESSUAL PENAL. HABEAS CORPUS. HOMICÍDIO QUALIFICADO. PRISÃO PREVENTIVA MANTIDA. GARANTIA DA ORDEM PÚBLICA. GRAVIDADE CONCRETA. VIOLÊNCIA EXTREMA. MODUS OPERANDI REPROVÁVEL. CONTEMPORANEIDADE DA MEDIDA. ANÁLISE DE TESES DEFENSIVAS. IMPOSSIBILIDADE NA VIA ESTREITA DO HABEAS CORPUS. INSUFICIÊNCIA DE MEDIDAS CAUTELARES DIVERSAS. AUSÊNCIA DE CONSTRANGIMENTO ILEGAL.
+Habeas corpus denegado.
+VOTO
+O habeas corpus não comporta concessão.
+A prisão preventiva pode ser decretada, desde que haja prova da existência do crime e indício suficiente de autoria, como garantia da ordem pública, da ordem econômica, por conveniência da instrução criminal ou para assegurar a aplicação da lei penal, em decisão motivada e fundamentada acerca do receio de perigo gerado pelo estado de liberdade do imputado e da contemporaneidade da necessidade da medida extrema (arts. 311 a 316 do CPP).
+Contudo, consta dos autos que a prisão preventiva dos pacientes teve como fundamento a garantia da ordem pública, ante a periculosidade dos acusados, demonstrada pela gravidade em concreto da sua conduta (fl. 23).
+Com efeito, a denúncia narra que para a consecução do homicídio, os denunciados agiram em plena divisão de tarefas. Enquanto um segurou o ofendido, o outro desferiu golpes de faca no pescoço e no tórax dele, causando-lhe os ferimentos descritos no laudo cadavérico, os quais foram determinantes para sua morte, provocada por "hemorragia interna por lesão da artéria pulmonar por ferimento por arma branca" (fl. 26 - grifo nosso).
+A análise dos trechos acima evidencia que a prisão cautelar está fundamentada em elementos concretos relacionados à realidade dos fatos, com ênfase nas circunstâncias específicas que justificam a medida, especialmente o modus operandi do crime.
+Trata-se de um homicídio qualificado, motivado por um motivo fútil (briga de trânsito - fl. 26) e com recurso que dificultou a defesa da vítima . E, em relação ao paciente Antonio, foi dito, ainda, que ele é reincidente. Esses elementos demonstram e sustentam a necessidade de manutenção da medida extrema.
+A propósito, o Superior Tribunal de Justiça, de forma reiterada, registra entendimento no sentido de que a gravidade concreta da conduta, reveladora do potencial elevado grau de periculosidade do agente e consubstanciada na alta reprovabilidade do modus operandi empregado na empreitada delitiva, é fundamento idôneo a lastrear a prisão preventiva, com o intuito de preservar a ordem pública (AgRg no RHC n. 171.820/PR, Ministra Laurita Vaz, Sexta Turma, DJe 20/4/2023 - grifo nosso).
+Ainda nesse sentido: AgRg no HC n. 940.170/SP, Ministra Daniela Teixeira, Quinta Turma, DJe 30/10/2024; e AgRg no RHC n. 192.072/BA, Ministro Rogerio Schietti Cruz, Sexta Turma, DJe 22/8/2024.
+A contemporaneidade relaciona-se ao risco atual que a liberdade representa à ordem pública e à instrução, demonstrado por fatos supervenientes e circunstâncias concretas do caso.
+Quanto à plausibilidade da narrativa defensiva, com razão o Tribunal de Justiça, pois reputou incabível, na via estreita do habeas corpus, analisar excludente de ilicitude, desclassificação ou reconstrução probatória, por demandar dilação probatória.
+Por fim, demonstrada pelas instâncias originárias, com expressa menção às peculiaridades do caso concreto, a necessidade da imposição da prisão preventiva - em razão da gravidade concreta do delito -, não se mostra suficiente a aplicação de quaisquer das medidas cautelares diversas da prisão.
+Ante o exposto, denego a ordem do habeas corpus.
