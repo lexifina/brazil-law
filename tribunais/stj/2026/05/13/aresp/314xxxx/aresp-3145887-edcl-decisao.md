@@ -1,0 +1,30 @@
+DECISÃO
+Cuida-se de Embargos de Declaração opostos por MARIA ELI DUTRA IGLESIAS à decisão de fls. 615/616, que não conheceu do recurso.
+Sustenta a parte embargante:
+02. É dizer, a decisão desconsidera que na data da interposição da irresignação especial, foi aplicada a Lei nº 11.419/2006, que estabelece o prazo de 10 dias para o advogado tomar conhecimento da intimação eletrônica, o que se deu, apenas no dia 21/01/2025, quando, então, a patrona outorgada no feito registrou ciência do acórdão:
+ ..
+04. E na petição de fls. 601-613, a parte recorrente comprova sua ciência (dada em 21/01/2025) por meio do print da tela do PJE, conforme abaixo. No entanto, tal print não foi considerado meio de prova, conforme a decisão ora impugnada.
+ ..
+05. Ocorre, todavia, que o art. 369 do CPC não impede a utilização de print como meio de prova, e in casu, trata-se da única forma documentada de apresentar o conteúdo digital da aba "EXPEDIENTES" do processo 1089036-21.2021.4.01.3400. Não há outro elemento nos autos que demonstre a ciência pela patrona dos autos na referida data.
+06. Nesse raciocínio, importa ressaltar que não há nos autos nenhuma informação que a intimação tenha ocorrido em 08.01.2025, conforme indevidamente informado na certidão de saneamento de óbices, o que faz inferir efetiva ocorrência de erro material no lançamento de tal data. E para que se evite qualquer dúvida a respeito do quanto alegado, acosta-se a íntegra do processo.
+ ..
+12. E ainda que assim não fosse, o que se cogita apenas pela eventualidade, se houver reconhecimento de intempestividade, há que se considerar que a recorrente foi levada a erro pelo próprio sistema judiciário, que contabilizou o prazo recursal de forma equivocada, lançando-o ao vencimento dia 11/02/2025. Logo, reconhecer a tempestividade do recurso significa prestigiar o princípio da boa-fé objetiva (fls. 622/624)
+Requer o conhecimento e acolhimento dos Embargos Declaratórios para que seja sanado o vício apontado.
+A parte embargada foi devidamente intimada para contra-arrazoar estes aclaratórios.
+É o relatório.
+Decido.
+Nos termos do art. 1.022 do Código de Processo Civil, os Embargos de Declaração destinam-se a esclarecer obscuridade, eliminar contradição, suprir omissão e corrigir erro material eventualmente existentes no julgado, o que não se verifica na hipótese.
+Consta dos autos (fl. 492) que a expedição de intimação eletrônica ocorreu em 16.12.2024. Nos termos do § 3º do art. 5º da Lei n. 11.419/2006, o prazo para a efetivação da intimação eletrônica ficta é de 10 dias corridos (essa contagem não se dá em dias úteis). Contado a partir do dia 17.12.2024, o prazo expirou em 26.12.2024.
+Ainda de acordo com o § 2º do art. 5º da referida lei, como 26.12.2024 não foi dia útil (art. 62, I da Lei n. 5010/1966), considera-se que a "consulta" foi feita no próximo dia útil, ou seja, 07.01.2025. Realizada a "consulta" no dia 07.01.2025, considera-se efetivamente intimada a parte no dia 08.01.2025 (art. 231, V, do CPC). Exclui-se o dia 08.01.2025, primeiro dia do prazo (art. 224 do CPC), prosseguindo-se na contagem de 15 dias úteis a partir de 21.01.2025, primeiro dia da efetiva contagem do prazo (art. 220 do CPC).
+Dessa forma, o prazo recursal de 15 dias úteis (art. 994, VI e VIII, c/c os arts. 1.003, § 5º, 1.029, 1.042, caput, e 219, caput, todos do CPC) terminou em 10.02.2025, mas o recurso foi interposto somente em 11.02.2025.
+Não se desconhece do entendimento de que "a falha induzida por informação equivocada prestada por sistema eletrônico de tribunal deve ser levada em consideração, em homenagem aos princípios da boa-fé e da confiança, para a aferição da tempestividade do recurso" (EAREsp n. 1.759.860/PI, Rel. Ministra LAURITA VAZ, Corte Especial, DJe 21.03.2022; EAREsp n. 1.889.302/SC, Rel. Ministro Og Fernandes, Corte Especial, DJe de 27.4.2023.)
+Outrossim, a jurisprudência do STJ também reconhece a validade de documentos extraídos de sites oficiais dos tribunais para comprovar a tempestividade, considerando a presunção de veracidade e confiabilidade das informações divulgadas.
+Todavia, devem ser apresentados documentos aptos a comprovar essa tempestividade, não servindo prints de tela ou imagens de páginas extraídas da internet e inseridas na petição, como pretende a parte (AgRg nos EREsp n. 2.067.353/PB, Rel. Ministra Maria Isabel Gallotti, Corte Especial, DJe de 13.9.2024; e EAREsp n. 2.743.276/PE, relator Ministro João Otávio de Noronha, Corte Especial, DJEN de 21/10/2025.)
+Dessa forma, não há como afastar a intempestividade.
+É cediço, também, que o julgador não fica obrigado a manifestar-se sobre todas as alegações das partes, nem a ater-se aos fundamentos indicados por elas ou a responder, um a um, a todos os seus argumentos, quando já encontrou motivo suficiente para fundamentar a decisão, o que de fato ocorreu. (AREsp 1592147/SP, Rel. Ministro Herman Benjamin, Segunda Turma, DJe de 31.8.2020; AgInt no AREsp 1639930/RJ, Rel. Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 3.8.2020; AgInt nos EDcl no AREsp 1342656/PR, Rel. Ministro Marco Buzzi, Quarta Turma, DJe de 7.5.2020.)
+Por fim, a pretensão de rediscutir matéria devidamente abordada e decidida no decisum embargado evidencia mera insatisfação com o resultado do julgamento, não sendo a via eleita apropriada para tanto. Nesse sentido: EDcl no AgInt nos EDcl nos EAREsp 1202915/SP, Rel. Ministro Herman Benjamin, Corte Especial, DJe de 28.8.2019.
+Assim, não há irregularidade sanável por meio dos presentes embargos, porquanto toda a matéria submetida à apreciação do STJ foi julgada, não havendo, na decisão embargada, os vícios que autorizariam a utilização do recurso - obscuridade, contradição, omissão ou erro material.
+Ante o exposto, rejeito os Embargos de Declaração e advirto a parte embargante de que a reiteração deste expediente ensejará o pagamento de multa de 2% sobre o valor atualizado da causa, porque os próximos embargos que tratem do mesmo assunto serão considerados manifestamente protelatórios (art. 1.026, § 2º, do CPC).
+Publique-se.
+Intimem-se.
+EMENTA
