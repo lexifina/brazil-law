@@ -1,0 +1,18 @@
+DECISÃO
+Trata-se de embargos de declaração opostos por JONES ZANIRATTI DE OLIVEIRA contra decisão unipessoal que não conheceu do presente recurso em habeas corpus (fls. 67-70).
+Em suas razões, o embargante afirma haver omissão na decisão embargada ao não enfrentar a distinção entre as impetrações e ao não indicar onde teria havido apreciação judicial prévia da tese de ilegitimidade passiva, bem como contradição interna por, ao mesmo tempo, negar conhecimento por reiteração e afirmar a necessidade de revolvimento fático-probatório, sendo que a controvérsia é estritamente jurídica e não demanda dilação probatória (fls. 77-78).
+Alega, ainda, omissão quanto à tese de responsabilidade penal subjetiva, sustentando ser inviável responsabilizar criminalmente a parte por atos praticados por advogado credenciado e registra que o Tribunal de origem, ao julgar o agravo, limitou-se a reproduzir fundamentos da decisão monocrática, sem enfrentar o argumento central de inexistência de repetição entre os writs, o que configuraria ausência de fundamentação concreta (fls. 78-79).
+Requer, assim, sejam acolhidos os aclaratórios com efeitos infringentes para afastar o fundamento de reiteração, conhecer do recurso ordinário e determinar o exame da controvérsia jurídica deduzida; pede, subsidiariamente, a apreciação direta da tese de ilegitimidade passiva (fls. 80-81).
+É o relatório. DECIDO.
+Os presentes embargos não reúnem condições de prosperar.
+De plano, cumpre esclarecer que se admitem os embargos declaratórios quando houver, na decisão embargada, ambiguidade, obscuridade, contradição ou omissão, nos termos dos artigos 619 e 620 do Código de Processo Penal, sendo possível, excepcionalmente, a alteração ou modificação do decisum nos efeitos infringentes.
+Também podem ser admitidos para a correção de eventual erro material, consoante o entendimento preconizado pela doutrina e jurisprudência, hoje igualmente consagrado no artigo 1.022, III, do atual Código de Processo Civil.
+Na lição de Nelson Nery Júnior e Rosa Maria Andrade Nery (Código de Processo Civil Comentado, RT, 4ª ed., 1999, p. 1045): "Os EDcl têm finalidade de completar a decisão omissa ou, ainda, de aclará-la, dissipando obscuridades ou contradições. Não têm caráter substitutivo da decisão embargada, mas sim integrativo ou aclaratório. Como regra, não têm caráter substitutivo, modificador ou infringente do julgado".
+No mesmo sentido: EDcl no AgRg nos EAREsp n. 2.060.783/RN, relator Ministro Sebastião Reis Júnior, Terceira Seção, julgado em 12/4/2023, DJe de 14/4/2023 e EDcl no AgRg no RHC n. 163.279/RS, relator Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), Quinta Turma, julgado em 24/5/2022, DJe de 30/5/2022.
+Contudo, ao analisar os autos, verifica-se que o embargante não demonstrou a existência de qualquer vício no decisum embargado.
+Com efeito, destaquei claramente que a competência do Superior Tribunal de Justiça é taxativamente estabelecida no art. 105, II, "a", da Constituição Federal, que lhe confere a atribuição de julgar, em recurso ordinário, os habeas corpus decididos em única ou última instância pelos Tribunais Regionais Federais ou pelos tribunais dos Estados, do Distrito Federal e dos Territórios, quando a decisão for denegatória.
+No caso dos autos, o habeas corpus recorrido não foi conhecido. Ausente, portanto, a competência desta Corte Superior para apreciar o presente recurso ordinário.
+Ademais, asseverei não constatar, de plano, a presença de qualquer coação ilegal ou teratologia que justificasse a concessão da ordem de habeas corpus, de ofício, na forma do § 2º do artigo 654 do Código de Processo Penal.
+Ante o exposto, não vislumbro os vícios apontados e rejeito os embargos declaratórios.
+Publique-se. Intimem-se.
+ EMENTA
