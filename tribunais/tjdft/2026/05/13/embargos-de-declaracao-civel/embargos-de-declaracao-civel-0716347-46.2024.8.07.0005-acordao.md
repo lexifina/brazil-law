@@ -1,0 +1,195 @@
+Poder Judiciário da UniãoTRIBUNAL DE JUSTIÇA DO DISTRITO FEDERAL E DOS TERRITÓRIOS
+
+Órgão
+7ª Turma Cível
+Processo N.EMBARGOS DE DECLARAÇÃO CÍVEL 0716347-46.2024.8.07.0005EMBARGANTE(S)BRB BANCO DE BRASILIA S.A.EMBARGADO(S)OSMAR DE PAIVARelatorDesembargador ROBSON BARBOSA DE AZEVEDO
+ Acórdão Nº2123979
+
+EMENTA
+
+Ementa: DIREITO PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO EM APELAÇÃO. OMISSÃO. CONTRADIÇÃO. REDISCUSSÃO DE MATÉRIA. PREQUESTIONAMENTO. EMBARGOS REJEITADOS.
+
+I. CASO EM EXAME
+
+1. Embargos de declaração opostos contra acórdão que manteve a suspensão dos descontos automáticos em conta corrente relativos a contrato bancário, após manifestação do consumidor cancelando a autorização de débito. O embargante sustenta omissão quanto à existência de pedido de cancelamento.
+
+II. QUESTÃO EM DISCUSSÃO
+
+2. Há duas questões em discussão: (i) verificar se houve omissão no acórdão; e (ii) definir se os embargos podem ser acolhidos para rediscutir fundamentos do julgado ou para fins de prequestionamento.
+
+III. RAZÕES DE DECIDIR
+
+3.  Os embargos de declaração têm por finalidade sanar obscuridade, contradição, omissão ou erro material existente no julgado (art. 1.022 do CPC).
+
+4. A pretensão de rediscutir os fundamentos do acórdão atacado não se coaduna com a estreita via dos declaratórios, sendo necessário o manejo do recurso próprio.
+
+5. A pretensão de prequestionamento não dispensa a demonstração de vício previsto no art. 1.022 do CPC, inexistente no caso.
+
+IV. DISPOSITIVO E TESE
+
+6. Recurso conhecido e desprovido.
+
+Tese de julgamento: "Os embargos de declaração não se prestam à rediscussão da causa, uma vez que se destinam a suprir omissão, dissipar obscuridade, eliminar contradição ou corrigir erro material existente no julgado”.
+
+_____
+
+Dispositivos relevantes citados: CPC, art. 1.022.
+
+Jurisprudência relevante citada: STJ, AgInt no REsp n. 1.866.956/PE, Rel. Min. Francisco Falcão, 2ª Turma, j. 30/11/2020, p. 02/12/2020.
+
+ACÓRDÃO
+
+Acordam os Senhores Desembargadores do(a) 7ª Turma Cível do Tribunal de Justiça do Distrito Federal e dos Territórios, ROBSON BARBOSA DE AZEVEDO - Relator, SANDRA REVES - 1º Vogal e FÁTIMA RAFAEL - 2º Vogal, sob a Presidência da Senhora Desembargadora FÁTIMA RAFAEL, em proferir a seguinte decisão: EMBARGOS DE DECLARAÇÃO CONHECIDOS E REJEITADOS. UNÂNIME. , de acordo com a ata do julgamento e notas taquigráficas.
+
+Brasília (DF), 20 de maio de 2026
+
+Desembargador ROBSON BARBOSA DE AZEVEDORelator
+
+RELATÓRIO
+
+Trata-se de Embargos de Declaração opostos por BRB BANCO DE BRASILIA S.A. em desfavor do Acórdão n. 2090279, de ID nº 81505627, proferido pela egrégia 7ª Turma Cível, que negou provimento à Apelação interposta pelo ora embargante, cuja ementa transcrevo:
+
+“Ementa: DIREITO DO CONSUMIDOR. APELAÇÃO CÍVEL. CONTRATO DE EMPRÉSTIMO. DESCONTOS EM CONTA CORRENTE. AUTORIZAÇÃO DE DÉBITO. CANCELAMENTO. REVOGAÇÃO. POSSIBILIDADE. RESOLUÇÃO BACEN 4.790/2020. TEMA 1.085 DO STJ. CLÁUSULA ABUSIVA. RECURSO DESPROVIDO.
+
+I. CASO EM EXAME
+
+1. Apelação cível interposta contra sentença que reconheceu o direito do requerente de cancelar autorização de débito em conta corrente referente a contrato de empréstimo bancário. O recurso busca a manutenção dos descontos automáticos, alegando a irrevogabilidade da autorização contratual.
+
+II. QUESTÃO EM DISCUSSÃO
+
+2. Há duas questões em discussão: (i) definir se é possível ao consumidor cancelar a autorização de débito em conta corrente referente a contrato de empréstimo; e (ii) estabelecer se a cláusula contratual que prevê a irrevogabilidade da autorização é válida à luz da Resolução BACEN 4.790/2020 e do Tema 1.085 do STJ.
+
+III. RAZÕES DE DECIDIR
+
+3. A Resolução BACEN 4.790/2020 assegura ao titular da conta o direito de cancelar a autorização de débitos a qualquer tempo, junto à instituição depositária ou destinatária.
+
+4. O Tema 1.085 do STJ estabelece que os descontos são lícitos enquanto perdurar a autorização do consumidor, não sendo aplicável a limitação da Lei 10.820/2003.
+
+5. Tratando-se de contrato de adesão, a cláusula contratual de irrevogabilidade da autorização de débito em conta corrente é nula por afrontar manifestamente as normas bancárias, notadamente a Resolução nº 4.790/2020 do Banco Central do Brasil, de observância obrigatória pelas instituições financeiras.
+
+6. O banco fornecedor, ao inserir disposição expressamente vedada pelo regulador, não pode invocar ou esperar a preservação das expectativas contratuais. Isso porque, ao agir de forma consciente em desacordo com a norma do Bacen, demonstra intenção de desequilibrar a relação em seu favor, impondo condições que lhe conferem vantagem excessiva em detrimento do consumidor. Tal prática atenta contra a ordem pública e compromete os interesses sociais que o direito do consumidor busca resguardar.
+
+7. A suspensão dos descontos não implica perdão da dívida, apenas a suspensão da exigibilidade até eventual negociação.
+
+IV. DISPOSITIVO E TESE
+
+8. Recurso desprovido.
+
+Tese de julgamento: "1. O consumidor pode cancelar, a qualquer tempo, a autorização de débito em conta corrente referente a contrato de empréstimo bancário, nos termos da Resolução BACEN 4.790/2020. 2. Cláusula contratual que prevê a irrevogabilidade da autorização de débito é nula, por contrariar norma regulamentar e configurar prática abusiva."
+
+__________
+
+Dispositivos legais citados: Resolução BACEN nº 4.790/2020, arts. 2º, 4º, 6º e 9º; CPC, art. 85, §11.
+
+Jurisprudência relevante citada: STJ, Tema Repetitivo nº 1.085.
+
+(Acórdão 2090279, 0716347-46.2024.8.07.0005, Relator(a): ROBSON BARBOSA DE AZEVEDO, 7ª TURMA CÍVEL, data de julgamento: 11/02/2026, publicado no DJe: 03/03/2026.)”
+
+Em suas razões recursais (ID nº 81937674), o embargante sustenta que o julgado incorreu em omissão, pois deixou de analisar se houve efetivo pedido formal de cancelamento da autorização de débito automático por parte do correntista. Deixou de se manifestar também quanto a quando teria ocorrido tal comunicação à instituição financeira; e se os débitos questionados nos autos ocorreram antes ou depois da suposta revogação da autorização.
+
+Aduz também a existência de contradição na aplicação do Tema 1085 do STJ.
+
+Requer, ao final, o conhecimento e provimento dos embargos para sanar as alegadas omissões e contradições, com efeitos infringentes, a fim de reformar o Acórdão para admitir a continuidade dos descontos em conta corrente/salário, bem como o prequestionamento da matéria.
+
+Contrarrazões apresentadas (ID nº 82433797), pelo desprovimento do recurso.
+
+É o relatório.
+
+VOTOS
+
+O Senhor Desembargador ROBSON BARBOSA DE AZEVEDO - Relator
+Presentes os pressupostos de admissibilidade, conheço do recurso.
+
+Trata-se de Embargos de Declaração opostos por BRB BANCO DE BRASILIA S.A. em desfavor do acórdão n. 2090279 de ID nº 81505627, proferido por esta egrégia 7ª Turma Cível, que negou provimento à Apelação Cível interposto pelo ora embargante, mantendo a sentença que reconheceu o direito do consumidor de cancelar a autorização de débito automático em conta salário.
+
+Requer o provimento dos embargos para sanar as alegadas omissões e contradições, com efeitos infringentes, a fim de reformar o acórdão para admitir a continuidade dos descontos em conta corrente/salário; bem como pede o prequestionamento da matéria.
+
+Como cediço, constitui pressuposto intrínseco dos Embargos de Declaração a obscuridade, contradição, omissão ou erro material de qualquer decisão judicial (art. 1.022 do CPC).
+
+A despeito do esforço argumentativo desenvolvido, não se observa no v. acórdão embargado, qualquer omissão passível de justificar o acolhimento dos embargos de declaração, in verbis:
+
+“A Resolução nº 4.790, de 26 de março de 2020, do Banco Central do Brasil, dispõe em seu art. 6º que “é assegurado ao titular da conta o direito de cancelar a autorização de débitos”.
+
+Desse modo, os descontos em conta são realizados por meio de autorização do titular da conta. Todavia, não é ato irretratável ou irrevogável, sendo possível o cancelamento dos débitos automáticos a qualquer tempo, com a simples manifestação do titular, como é o caso dos autos.
+
+O STJ fixou a tese que os referidos descontos são lícitos enquanto perdurar a autorização pelo consumidor, vejamos:
+
+“Tese Repetitiva: São lícitos os descontos de parcelas de empréstimos bancários comuns emconta-corrente, ainda que utilizada para recebimento de salários, desde que previamente autorizados pelo mutuário e enquanto esta autorização perdurar, não sendo aplicável, por analogia, a limitação prevista no § 1º do art. 1º da Lei n. 10.820/2003, que disciplina os empréstimos consignados em folha de pagamento.” (TEMA REPETITIVO 1.085).
+
+Assim, para entendimento do caso é necessário interpretar o Tema 1.085 do STJ em conjunto com a Resolução BACEN 4.790/2020, que trata sobre as possibilidades de cancelamento da autorização pelo contratante.
+
+Os arts. 6º e 9º da Resolução 4.790/2020/BACEN, assim estabelecem:
+
+“CAPÍTULO IV DO CANCELAMENTO DA AUTORIZAÇÃO DE DÉBITOS
+
+Art. 6º É assegurado ao titular da conta o direito de cancelar a autorização de débitos.
+
+Parágrafo único. O cancelamento da autorização de débitos em conta pode ser formalizado na instituição depositária ou por meio da instituição destinatária.” (grifo nosso)
+
+“Art. 9º O cancelamento da autorização de débitos referente a operações de que trata o art. 4º deve ser solicitado pelo titular por meio da instituição destinatária, observado o disposto no caput do art. 6º.
+
+Parágrafo único. O cancelamento de que trata o caput pode ser realizado na instituição depositária, caso o cliente declare que não reconhece a autorização.” (grifo nosso)
+
+Verifica-se que o art. 6º é claro ao garantir o direito ao cancelamento da autorização de débito.
+
+Porém, em uma leitura rápida do parágrafo único do art. 9º, pode-se ter a impressão de que o cliente só pode pedir o cancelamento se declarar “que não reconhece a autorização”. Todavia, esta não é a interpretação correta da norma, pois verifica-se que art. 9º apenas estabelece onde o consumidor deverá solicitar o cancelamento da autorização, ou seja, junto à instituição destinatária ou diretamente na instituição depositária.
+
+Nesse sentido, o art. 2º da Resolução Bacen 4790/2020 define o que é instituição depositária e o que é instituição destinatária, in verbis:
+
+“Art. 2º Para fins desta Resolução, considera-se: I - instituição depositária: instituição financeira detentora da conta a ser debitada; e II - instituição destinatária: instituição autorizada a funcionar pelo Banco Central do Brasil destinatária dos recursos referentes ao débito em conta ou detentora da conta a ser creditada.”
+
+Tem-se, portanto, que nas operações de crédito a instituição depositária é aquela que detém a conta bancária do consumidor, ou seja, é o Banco onde o contratante mantém sua conta e de onde serão retirados (debitados) os valores para pagamento das parcelas do contrato. No caso dos autos, como o consumidor recebe seu salário no BRB, esta é a instituição depositária.
+
+Por sua vez, a instituição destinatária é a credora do contrato, ou seja, é aquela que receberá os valores que serão retirados da conta bancária do contratante. No caso em análise, a instituição destinatária também é o BRB, pois os contratos foram celebrados com o referido banco.
+
+Dessa feita, a interpretação correta da Resolução BACEN 4.790/2020, no que se refere ao cancelamento da autorização de débitos, é de que o consumidor pode cancelar, sempre que desejar, a autorização de débitos referentes a operações de crédito ou de arrendamento mercantil (art. 4º) junto ao banco credor ou à instituição financeira credora (denominadas instituições destinatárias – art. 2º, II), conforme lhe garante o art. 6º da referida Resolução.
+
+Garante-se, ainda, uma dupla proteção caso o cliente não reconheça a autorização, ou seja, caso ele tenha sofrido golpe ou simplesmente não tenha expressamente autorizado os descontos, permitindo que o consumidor peça que cessem os descontos também junto à instituição que detém sua conta bancária (denominada instituição depositária – art. 2º, I).
+
+Assim, não há dúvida que o art. 9º e seu parágrafo único da Resolução Bacen 4.790/2020 garantem dupla proteção ao consumidor (junto à instituição destinatária e junto à instituição depositária), não podendo ser interpretado de forma a restringir o direito ao cancelamento da autorização de débitos.
+
+Dessa feita, a Resolução BACEN 4.790/2020 garante proteção total ao consumidor para que cancele a autorização de débitos sempre que for oportuno, tratando-se, por analogia, de uma espécie “débito automático”, nos mesmos moldes do que se faz com outros tipos de contas (água, luz, telefone etc.), não havendo restrição para o cancelamento da autorização do débito a qualquer tempo, nos termos do art. 6º c/c art. 9º da Resolução 4.790/2020 BACEN e do Tema 1.085/STJ. (...)”
+
+Como se vê da simples leitura do excerto acima, constata-se que as questões trazidas neste recurso foram devidamente analisadas. O acórdão embargado analisou de forma clara e fundamentada a Resolução BACEN nº 4.790/2020, especialmente o arts. 6º e 9º, bem como o Tema 1.085 do STJ.
+
+O acórdão consignou que a autorização contratual é requisito para a validade dos descontos apenas enquanto vigente, e que a possibilidade de revogação — assegurada pela Resolução 4.790/2020/BACEN — impede que a cláusula seja tratada como irrevogável, motivo pelo qual a autorização deixou de existir após a manifestação expressa do consumidor.
+
+Cumpre destacar, ainda, que a parte autora solicitou o cancelamento dos descontos dos referidos contratos em 18/11/2024, conforme documento de ID nº 77024572, pedido este que não foi refutado pelo requerido, ora embargante. Tal fato reforça a conclusão do acórdão de que a instituição financeira deveria ter suspendido os descontos após a manifestação expressa do consumidor.
+
+Evidencia-se, assim, nítida intenção de conferir efeitos infringentes aos presentes embargos de declaração, debate que nesta seara se mostra impertinente, devendo a pretensão ser buscada por meio do recurso cabível.
+
+Sobre o tema, confira-se a jurisprudência desta Corte:
+
+“PROCESSO CIVIL. EMBARGOS DE DECLARAÇÃO EM APELAÇÃO CÍVEL. OMISSÃO E ERRO MATERIAL. NÃO CONSTATADOS. REDISCUSSÃO DE MATÉRIA. IMPOSSIBILIDADE.  RECURSO CONHECIDO E DESPROVIDO.
+
+1. Os embargos de declaração não se prestam à rediscussão da causa, uma vez que se destinam a suprir omissão, dissipar obscuridade, eliminar contradição ou corrigir erro material existente no julgado, nos termos do art. 1.022 do Código de Processo Civil.
+
+2. No caso dos autos, o acórdão embargado compreendeu toda a matéria deduzida pelas partes, realizando a devida apreciação da questão trazida a instância revisora. 2.1. O que se percebe, a partir dos argumentos deduzidos no presente recurso, é a intenção de rediscussão de pontos que já foram ponderados no julgamento.
+
+3. Recursos conhecidos e desprovidos.”
+
+(Acórdão 1958400, 0713476-38.2023.8.07.0018, Relator(a): CARLOS PIRES SOARES NETO, 1ª TURMA CÍVEL, data de julgamento: 22/01/2025, publicado no DJe: 11/02/2025.)
+
+Registre-se ainda que, ao julgar o litígio, o Julgador deve se manifestar sobre as questões debatidas nos autos, demonstrando as razões de seu convencimento e observando o direito aplicável. Entretanto, não está obrigado, a examinar todas as teses formuladas pelas partes, quando apenas parte delas é suficiente para fundamentar sua decisão.
+
+Nesse sentido, tem decidido o Superior Tribunal de Justiça:
+
+“PROCESSUAL CIVIL. ADMINISTRATIVO. FUNDEB. COMPLEMENTAÇÃO DE REPASSE DOS ANOS DE 2009 E 2010. PRESCRIÇÃO. ALEGAÇÃO DE OFENSA AOS ARTS. 489 E 1.022, AMBOS DO CPC/2015. INEXISTÊNCIA. INTERESSE DE AGIR. PRECLUSÃO. MATÉRIA DE ORDEM PÚBLICA. CONHECIMENTO DE OFÍCIO. POSSIBILIDADE. INTERRUPÇÃO DA PRESCRIÇÃO. PRETENSÃO DE REEXAME FÁTICO-PROBATÓRIO. INCIDÊNCIA DO ENUNCIADO N. 7 DA SÚMULA DO STJ.
+
+(…) III - Não há violação dos arts. 489 e 1.022, ambos do CPC/2015 quando o Tribunal a quo se manifesta clara e fundamentadamente acerca dos pontos indispensáveis para o desate da controvérsia apreciando-a fundamentadamente, apontando as razões de seu convencimento, ainda que de forma contrária aos interesses da parte, como verificado na hipótese. IV - O julgador não está obrigado a rebater, um a um, todos os argumentos invocados pelas partes quando, por outros meios que lhes sirvam de convicção, tenha encontrado motivação satisfatória para dirimir o litígio. As proposições poderão ou não ser explicitamente dissecadas pelo magistrado que só estará obrigado a examinar a contenda nos limites da demanda, fundamentando o seu proceder de acordo com o seu livre convencimento, baseado nos aspectos pertinentes à hipótese sub judice e com a legislação que entender aplicável ao caso concreto. (...)”
+
+(AgInt no REsp n. 1.866.956/PE, relator Ministro Francisco Falcão, Segunda Turma, julgado em 30/11/2020, DJe de 2/12/2020.)
+
+Não há, portanto, qualquer omissão a ser sanada a justificar o acolhimento do recurso.
+
+Vale ressaltar, ainda, que mesmo com o intuito de prequestionamento da matéria, é indispensável o enquadramento do recurso no art. 1.022 do CPC.
+
+Ante o exposto, NEGO PROVIMENTO ao recurso, rejeitando os embargos de declaração opostos.
+
+É como voto.
+
+A Senhora Desembargadora SANDRA REVES - 1º Vogal Com o(a) relator(a)A Senhora Desembargadora FÁTIMA RAFAEL - 2º Vogal Com o(a) relator(a)
+
+DECISÃO
+
+EMBARGOS DE DECLARAÇÃO CONHECIDOS E REJEITADOS. UNÂNIME.
