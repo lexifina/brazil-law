@@ -1,0 +1,33 @@
+DECISÃO
+Cuida-se de Agravo apresentado por GECIRVAN CARLOS DO NASCIMENTO à decisão que não admitiu seu Recurso Especial.
+O apelo, fundamentado no artigo 105, III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, assim resumido:
+AÇÃO ACIDENTÁRIA TRAUMA NA MÃO ESQUERDA SENTENÇA DE IMPROCEDÊNCIA IRRESIGNAÇÃO DO AUTOR LAUDO MÉDICO PERICIAL CONCLUSIVO AUSÊNCIA DE INCAPACIDADE LABORATIVA BENEFÍCIO INDEVIDO SENTENÇA DE IMPROCEDÊNCIA MANTIDA.
+Quanto à controvérsia, a parte recorrente aduz ofensa ao art. 86 da Lei n. 8.213/1991, no que concerne à necessidade de concessão do auxílio-acidente, em razão de redução, ainda que mínima, da capacidade laborativa após amputação parcial da falange distal do terceiro dedo da mão esquerda e consequente maior esforço para o desempenho da função habitual, trazendo a seguinte argumentação:
+Dessa forma, dada a redução laboral que acomete o Recorrente e, em contrapartida, a não concessão da benesse na via administrativa, de forma automática, após a cessação do auxílio-doença, a não concessão na via judicial contrariando jurisprudência pacificada do STJ em casos análogos, tais medidas afrontam não o artigo 86, da Lei nº 8.213/91, mas também o Tema Repetitivo 416, do STJ.
+Data maxima venia, a decisão proferida, em verdade, contraria o tema 416 do STJ, uma vez que há, SIM, existência de redução da capacidade laboral do Recorrente, ainda que mínima, conforme fora amplamente debatido e comprovado nos autos, de maneira documental e pericial.
+ ..
+Aliás, embora o perito judicial tenha relatado em sua conclusão que o Recorrente não possui sequelas incapacitantes, é preciso reforçar que em razão da lesão mencionada, o recorrente padece com limitações, uma vez que padece com limitação de movimentos, aumento da sensibilidade local e dor residual.
+Com efeito, os déficits funcionais do Recorrente repercutiram em seu trabalho habitual, acarretando, inclusive o dispêndio de maior esforço para a realização de atividades laborais.
+Portanto, ao realizar as mesmas tarefas, só que agora com maior esforço, desconforto, ou qualquer outro fator que acarrete prejuízo à boa consecução do serviço, seja a maior demanda física do Recorrente, seja queda de produtividade, lentidão, etc, também é considerado incapacidade laboral, devendo, por força de lei, ser convenientemente indenizada.
+ ..
+Decerto, o Recorrente não está incapacitado para o exercício de sua atividade laboral, mas trabalha, desde o infortúnio acidente, com maior dificuldade devido as dores e dificuldade em realizar movimentos.
+Consequentemente, houve uma modificação: outrora, o Recorrente exercia sua atividade laboral sem qualquer tipo de incômodo, após o acidente, passou a exercer a mesma atividade com dispêndio de maior esforço. Desta forma há, indubitavelmente, uma redução da sua capacidade laborativa.
+ ..
+Por fim, resta comprovado que a não concessão do benefício pleiteado, viola frontalmente o art. 86 e seus parágrafos, da lei 8.213/1991, assim preenchendo os requisitos de admissibilidade do presente Recurso Especial (fls. 183-188).
+É o relatório.
+Decido.
+Quanto à controvérsia, o Tribunal a quo se manifestou nos seguintes termos:
+Realizada perícia médica judicial, o perito judicial, Dr. Sérgio Risso Vieira, apresentou seu laudo médico a fls. 72/79 concluindo, em síntese, que não há perda de movimento ou qualquer disfunção que comprometa o funcionamento da mão.
+Assentou o expert que:
+"O Exame físico direcionado demonstrou:
+Membros Superiores - O Autor é destro - Ausência de edema ou deformidades articulares - Movimentos dos ombros, cotovelos, punhos e mãos estão preservados - Reflexos tricipital, bicipital e estilorradial normais bilateral - Sem déficit sensitivo(..) Durante o exame pericial o autor não apresentou limitação do arco de movimentos dos membros superiores, nem diminuição da força motora ou alterações da sensibilidade de membros superiores. O Autor sofreu acidente e trauma na mão esquerda. Foi atendido, seguiu em acompanhamento ambulatorial, recebeu alta para retorno ao trabalho.
+O acidente não deixou sequelas." (fls. 73/74).
+Nesse contexto, em que pese o inconformismo do apelante, diante da manifesta ausência de doença laboral incapacitante atestada na prova técnica, outro não poderia ser o desfecho da demanda senão o decreto de improcedência da ação.
+Destaca-se, ainda, que, conforme o Tema nº 416, do STJ, a incapacidade laborativa, ainda que mínima, é indenizável e não a lesão mínima, verificada nos presentes autos, haja vista que a finalidade dos benefícios acidentários é indenizar a efetiva redução da capacidade laborativa, o que não restou demonstrado (fls. 150-151).
+Assim, incide a Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), porquanto o acolhimento da pretensão recursal demandaria o reexame do acervo fático-probatório juntado aos autos.
+Nesse sentido: AgInt no REsp n. 2.113.579/MG, relatora Ministra Maria Isabel Gallotti, Quarta Turma, DJEN de 27/3/2025; AgInt no AREsp n. 2.691.829/SP, relator Ministro Sérgio Kukina, Primeira Turma, DJEN de 28/3/2025; AREsp n. 2.839.474/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJEN de 26/3/2025; AgInt no REsp n. 2.167.518/RS, relatora Ministra Nancy Andrighi, Terceira Turma, DJEN de 27/3/2025; AgRg no AREsp n. 2.786.049/SP, relator Ministro Messod Azulay Neto, Quinta Turma, DJEN de 26/3/2025; AgRg no AREsp n. 2.753.116/RN, relator Ministro Sebastião Reis Júnior, Sexta Turma, DJEN de 25/3/2025; AgInt no REsp n. 2.185.361/CE, relatora Ministra Regina Helena Costa, Primeira Turma, DJEN de 28/3/2025; AgRg no REsp n. 2.088.266/MG, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, DJEN de 25/3/2025; AREsp n. 1.758.201/AM, relatora Ministra Maria Thereza de Assis Moura, Segunda Turma, DJEN de 27/3/2025; AgInt no AREsp n. 2.643.894/DF, relator Ministro Raul Araújo, Quarta Turma, DJEN de 31/3/2025; AgInt no AREsp n. 2.636.023/RS, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, DJEN de 28/3/2025; AgInt no REsp n. 1.875.129/PE, relator Ministro Paulo Sérgio Domingues, Primeira Turma, DJEN de 21/3/2025.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do Agravo para não conhecer do Recurso Especial.
+Nos termos do art. 85, § 11, do Código de Processo Civil, majoro os honorários de advogado em desfavor da parte recorrente em 15% sobre o valor já arbitrado nas instâncias de origem, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão de justiça gratuita.
+Publique-se.
+Intimem-se.
+ EMENTA
