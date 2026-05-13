@@ -1,0 +1,31 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEXTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 07/05/2026 a 13/05/2026, por unanimidade, conhecer parcialmente do habeas corpus e, nessa parte, denegar a ordem, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Rogerio Schietti Cruz, Carlos Pires Brandão e Og Fernandes votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Carlos Pires Brandão.
+EMENTA
+DIREITO PENAL E PROCESSUAL PENAL. HABEAS CORPUS. INCITAÇÃO AO CRIME. ASSOCIAÇÃO CRIMINOSA. COAÇÃO NO CURSO DO PROCESSO. EXCESSO DE PRAZO AFASTADO. RAZOABILIDADE. COMPLEXIDADE DO FEITO. OITO RÉUS. LAUDOS PERICIAIS. AUSÊNCIA DE DESÍDIA. ISONOMIA REJEITADA. REPRESENTAÇÃO ESPECÍFICA DA PRISÃO PREVENTIVA EM RELAÇÃO AO PACIENTE. DEMAIS TESES NÃO ENFRENTADAS. SUPRESSÃO DE INSTÂNCIA.
+Habeas corpus parcialmente conhecido e, nessa extensão, denegada a ordem.
+RELATÓRIO
+Trata-se de habeas corpus impetrado em nome de NATHAN FERREIRA PACHECO, preso preventivamente e acusado pela prática, em tese, dos crimes de incitação ao crime, associação criminosa e coação no curso do processo (Processo n. 5010883-47.2025.8.13.0699, da Vara Criminal da comarca de Ubá/MG).
+O impetrante aponta como autoridade coatora o Tribunal de Justiça de Minas Gerais, que, em acórdão, denegou a ordem do HC n. 1.0000.25.506772-0/000.
+Alega desproporcionalidade e violação do princípio da homogeneidade das cautelares, porque os delitos imputados não envolveram violência ou grave ameaça, a participação atribuída ao paciente é secundária e de baixa periculosidade, e, em eventual condenação, o regime inicial seria diverso do fechado.
+Sustenta violação do princípio da isonomia e requer extensão dos efeitos, nos termos do art. 580 do Código de Processo Penal, pois, entre oito acusados, apenas o paciente permanece preso, embora todos estejam em idêntica situação fático-processual.
+Afirma excesso de prazo, destacando a audiência de instrução e julgamento designada para 8/4/2026, o que implicará cerca de 8 meses de prisão cautelar antes do início da instrução.
+Aduz ausência de fundamentação concreta do decreto prisional, inexistência dos requisitos do art. 312 do Código de Processo Penal e suficiência de medidas cautelares alternativas do art. 319 do Código de Processo Penal, diante das condições pessoais favoráveis e da colaboração com as investigações.
+Em liminar, pede a revogação da prisão preventiva e a expedição de alvará de soltura, com aplicação de cautelares alternativas. No mérito, requer a confirmação da liminar e a concessão definitiva da ordem.
+Indeferida a liminar, prestadas as informações de praxe, o Ministério Público Federal opinou pela denegação do habeas corpus.
+Conforme se extrai dos autos, em 8/4/2026 foi realizada audiência de instrução (fl. 89), não havendo notícia de sentença até a presente data.
+É o relatório.
+EMENTA
+DIREITO PENAL E PROCESSUAL PENAL. HABEAS CORPUS. INCITAÇÃO AO CRIME. ASSOCIAÇÃO CRIMINOSA. COAÇÃO NO CURSO DO PROCESSO. EXCESSO DE PRAZO AFASTADO. RAZOABILIDADE. COMPLEXIDADE DO FEITO. OITO RÉUS. LAUDOS PERICIAIS. AUSÊNCIA DE DESÍDIA. ISONOMIA REJEITADA. REPRESENTAÇÃO ESPECÍFICA DA PRISÃO PREVENTIVA EM RELAÇÃO AO PACIENTE. DEMAIS TESES NÃO ENFRENTADAS. SUPRESSÃO DE INSTÂNCIA.
+Habeas corpus parcialmente conhecido e, nessa extensão, denegada a ordem.
+VOTO
+O habeas corpus não comporta concessão.
+De início, sobre o excesso de prazo, disse o Tribunal de Justiça o seguinte (fls. 20/21 - grifo nosso): a prisão temporária do paciente foi convertida em preventiva em 12/09/2025. Conforme relatado pelo próprio impetrante, a ação penal atualmente em trâmite foi ajuizada em face de oito réus (circunstância que dilata consideravelmente o tempo exigido para a citação de todos os réus) e imputa a todos eles a suposta prática de uma pluralidade de delitos (arts. 286, 288 e 304, todos do CP) e, via de consequência, uma pluralidade de fatos. Destaco, ainda, que os delitos em comento demandaram, a fim de substanciar a opinio delicti do Ministério Público, a confecção de laudos periciais complexos que, por sua natureza, demandam uma maior extensão de tempo para serem produzidos.
+É pacífica a jurisprudência deste Tribunal no sentido de que a verificação da ocorrência de excesso de prazo para formação da culpa não decorre da simples soma dos prazos processuais, devendo ser examinadas as peculiaridades de cada caso, sempre observado o princípio da razoabilidade.
+Como oportunamente registrado no acórdão, o excesso de prazo não se configura quando a demora decorre da complexidade do feito (confecção de laudos periciais), da pluralidade de réus (oito) e de crimes.
+Assim, embora não se possa extrair a celeridade desejada, a demora na tramitação processual, ante as peculiaridades do caso concreto, não se afigura desarrazoada, não havendo falar, ao menos por ora, em ilegalidade da prisão preventiva do paciente sob tal fundamento. Portanto, embora haja certo atraso na conclusão da instrução, não diviso ilegalidade flagrante quanto ao excesso de prazo.
+A propósito, vem decidindo esta Corte Superior que, quanto ao alegado excesso de prazo, a análise deve ser feita com base no juízo de razoabilidade, considerando a complexidade do caso, a quantidade de réus e a ausência de desídia do Judiciário, não havendo constrangimento ilegal (AgRg no RHC n. 208.878/AM, relator Ministro Messod Azulay Neto, Quinta Turma, DJEN 25/3/2025).
+Acerca da alegação de violação do princípio da isonomia e de que o paciente teve um tratamento diferenciado daquele dado aos demais corréus, o acórdão enfrentou e rejeitou a tese, sob o fundamento de que a conversão da prisão temporária em preventiva foi objeto de representação específica da autoridade policial apenas em relação ao paciente, ao contrário dos demais, cuja prisão foi decretada de ofício pelo Juiz, o que é vedado pela legislação pátria. Logo, não há tratamento desigual.
+As demais teses alegadas não foram enfrentadas pelo Tribunal de Justiça no acórdão impugnado. Assim, inviável a análise da matéria por esta Corte Superior de Justiça, sob pena de indevida supressão de instância.
+Ante o exposto, conheço parcialmente do habeas corpus e, nessa extensão, denego a ordem.
