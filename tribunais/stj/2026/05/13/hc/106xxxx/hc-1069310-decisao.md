@@ -1,0 +1,14 @@
+DECISÃO
+O presente writ, impetrado em benefício de BRUNO CARLOS DA SILVA, VICENTE LUIZ SOARES DA SILVA e OLBERT FERREIRA DA SILVA - condenados como incursos no crime de roubo majorado - apontando-se como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE PERNAMBUCO (Apelação Criminal n. 0000487-84.2021.8.17.0001), não comporta acolhimento.
+Busca a impetração a absolvição dos pacientes na ação penal que tramitou perante o Juízo de Direito da 7ª Vara Criminal da Capital/PE, ao argumento de nulidade decorrente de ofensa ao disposto no art. 226 do Código de Processo Penal, bem como a ausência de outras provas suficientes para a comprovação da autoria delitiva.
+Ocorre que, além de se tratar de habeas corpus destinado a revisar condenação transitada em julgado, o que é inadmissível, consoante jurisprudência desta Corte Superior, o não cabimento do writ substitutivo de revisão criminal é corroborado quando o impetrante não indica que as razões de pedir estão previstas em alguma das hipóteses do art. 621 do CPP, como no presente caso (HC n. 829.748/GO, Ministro Rogerio Schietti Cruz, Sexta Turma, DJe 11/12/2023).
+Ademais, inexiste ilegalidade flagrante que justifique a superação dos óbices constatados, pois o reconhecimento (fotográfico e pessoal), ainda que, por ventura, contenha algum vício, não se afigura como um único elemento probatório que lastreia a denúncia, que se encontra amparada em outras provas independentes (independent source), reclamando-se, assim, a aplicação da ressalva contida no próprio leading case da Sexta Turma desta Corte, firmado no julgamento do HC n. 598.886/SC ( AgRg no HC 779.678/SC, Ministra Laurita Vaz, Sexta Turma, DJe 30/11/2022).
+No caso, a Corte estadual destacou que (fls. 27/28 - grifo nosso):
+O acusado BRUNO CARLOS DA SILVA confessou judicialmente a prática do roubo e o envolvimento de VICENTE LUIZ SOARES DA SILVA, além da presença de OLBERT FERREIRA DA SILVA, corroborando as declarações das vítimas Roberta Marta Alaíde da Cruz e Tallita Maria da Paixão Silva, que, embora não tenham realizado reconhecimento formal, descreveram de maneira precisa o modus operandi da ação criminosa, a quantidade de agentes e o emprego de facas na abordagem.
+Como bem ponderou a Procuradoria de Justiça no seu parecer, a certeza da autoria não emanou do reconhecimento fotográfico, mas "de outros elementos probatórios independentes e autônomos, suficientes para embasar o édito condenatório.
+Tal o contexto, obter entendimento diverso ensejaria profundo revolvimento de fatos e provas, providência incabível na via estreita.
+Ante o exposto, denego a ordem de habeas corpus.
+Publique-se.
+EMENTA
+PENAL. HABEAS CORPUS. ROUBO MAJORADO. CONDENAÇÃO TRANSITADA EM JULGADO. PRETENSÃO DE REVISÃO. INADMISSIBILIDADE. RECONHECIMENTO PESSOAL. CONDENAÇÃO BASEADA EM ELEMENTOS PROBATÓRIOS INDEPENDENTES E AUTÔNOMOS. CONSTRANGIMENTO ILEGAL. AUSÊNCIA.
+Ordem denegada.
