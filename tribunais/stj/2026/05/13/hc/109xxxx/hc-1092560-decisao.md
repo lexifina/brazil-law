@@ -1,0 +1,30 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em favor de CELSO ANTONIO SAGIO - preso preventivamente e acusado pela suposta prática do crime de porte ilegal de arma de fogo de uso restrito (Processo n. 1500706-47.2026.8.26.0599 - Vara Plantão da comarca de Piracicaba/SP) -, e m que a defesa aponta como autoridade coatora a Desembargadora Relatora do Tribunal de Justiça de São Paulo, que, em 25/4/2026, indeferiu a liminar no HC n. 2101317-02.2026.8.26.0000 (fls. 11/14).
+Em síntese, o impetrante alega a necessidade de superação da Súmula n. 691/STF, por flagrante ilegalidade e teratologia manifesta da decisão impugnada.
+Sustenta vício por inversão do ônus constitucional, ao se exigir que o indiciado justifique a posse da arma, transferindo ao preso o encargo que pertence ao Estado.
+Aponta vício por fundamentação genérica e prospectiva de reiteração delitiva, sem suporte empírico mínimo, vedada expressamente pelo art. 315, § 2º, do Código de Processo Penal (introduzido pelo Pacote Anticrime - Lei n. 13.964/2019), destacando a primariedade e os bons antecedentes do paciente.
+Assinala vício pelo uso da dúvida investigativa como fundamento da prisão, afirmando que a custódia não é instrumento de investigação, tampouco pode ser decretada como antecipação punitiva diante da ignorância dos fatos (fl. 7), e que in casu, devem ser priorizadas as medidas cautelares diversas previstas no art. 319 do Código de Processo Penal.
+Afirma haver confusão entre fumus comissi delicti e periculum libertatis, ressaltando que no decreto impugnado, a ponte argumentativa entre a existência do crime e a necessidade da prisão cautelar é inexistente: o juízo salta da constatação do fato típico para a conclusão do encarceramento, omitindo inteiramente a demonstração de risco concreto e atual (fl. 7).
+Aduz, por fim: (i) ausência de contemporaneidade, em afronta ao art. 312, § 2º, do Código de Processo Penal; (ii) omissão total quanto à análise das medidas cautelares diversas previstas no art. 319, contrariando o art. 282, § 6º, do Código de Processo Penal, destacando as condições pessoais favoráveis do paciente - motorista profissional, primário, com residência fixa e emprego formal (fl. 8); e (iii) convalidação, pelo Tribunal de origem, de decisão materialmente vazia sob o rótulo de "concisão", em violação do art. 93, IX, da Constituição Federal, e ao art. 315, § 2º, do Código de Processo Penal.
+Requer, inclusive em caráter liminar, a imediata revogação da prisão preventiva, com expedição de alvará de soltura em favor do paciente; subsidiariamente, sua substituição por medidas cautelares diversas (art. 319 do Código de Processo Penal).
+Liminar deferida (fls. 134/137).
+Prestadas as informações (fls. 143/144 e 152/153), o Ministério Público Federal opinou pela concessão de ofício da ordem (fls. 158/160).
+É o relatório.
+Preliminarmente, oportuno registrar que em consulta ao endereço eletrônico do Tribunal de origem, verifiquei que ainda não houve o julgamento do prévio writ.
+Dito isso, passo, então, a análise de mérito do habeas corpus.
+Aos fundamentos já apresentados por mim na decisão liminar, acrescento estas palavras do Subprocurador-Geral da República (Carlos Augusto da Silva Cazarré), as quais, pela precisão e clareza dos elementos apontados, também adoto como razão de decidir (fls. 159/160 - grifo nosso):
+ ..
+Assiste razão ao impetrante.
+O juízo de primeiro grau decidiu pela conversão da prisão em flagrante do paciente em preventiva com base nos seguintes argumentos (f. 42):
+(1) que o indiciado não fez qualquer reclamação acerca da atividade policial e dos policiais, HOMOLOGO o auto de prisão em flagrante; (2) e que o indiciado não justificou a posse ilegal da arma de fogo, sendo certo que em liberdade voltará a delinquir e não se sabe a utilização que o custodiado se daria a referida arma, o que deverá ser esclarecido no decorrer da instrução processual, é de rigor a manutenção da prisão para a garantia da ordem pública. Destarte, com fundamento nos artigos 310, II e 312 do Código de Processo Penal, converto a prisão em flagrante de CELSO ANTONIO SAGIO em preventiva. Expeça-se mandado de conversão da prisão em flagrante em preventiva. Comunique-se a autoridade policial responsável, por e-mail. Essa decisão serve como ofício.
+Como se vê, a decisão é manifestamente desprovida de fundamentação, violando frontalmente o quanto previsto no art. 315, §§ 1º e 2º, I, II e III, do CPP, razão pela qual não pode prevalecer.
+Como bem assentado por Vossa Excelência na decisão que deferiu a liminar, "o decreto prisional não se apresenta devidamente associado a elementos reais e concretos de cautelaridade, limitando-se a meras conjecturas da probabilidade de voltar a delinquir, em razão, unicamente, da ausência de justificativa acerca da posse ilegal da arma de fogo e da utilização que o paciente poderia dar a ela", de modo que a concessão da ordem em habeas corpus é medida impositiva ao caso.
+Assim, há constrangimento ilegal a ser sanado.
+ ..
+Sob esta moldura, acolhendo o parecer ministerial, concedo a ordem a fim de revogar a prisão preventiva decretada em desfavor de Celso Antonio Sagio, assegurando-lhe o direito de aguardar em liberdade o julgamento da Ação Penal n. 1500706-47.2026.8.26.0599 (Controle n. 2026/007298), salvo se por outra razão estiver preso, bem como determino ao Juízo de primeiro grau competente que aplique medidas cautelares diversas da prisão previstas no art. 319 do Código de Processo Penal, observado o contexto fático, ratificada a liminar anteriormente deferida.
+Comunique-se, "com urgência", às instâncias ordinárias.
+Intime-se o Ministério Público estadual.
+Publique-se.
+EMENTA
+DIREITO PENAL E PROCESSUAL PENAL. HABEAS CORPUS. SÚMULA 691/STF. POSSE ILEGAL DE ARMA DE FOGO. PRISÃO PREVENTIVA. INIDONEIDADE DE FU NDAMENTAÇÃO. MERA CONJECTURA SOBRE A PROBABILIDADE DE REITERAÇÃO DELITIVA PELA AUSÊNCIA DE JUSTIFICATIVA DA POSSE DE ARMA PELO RÉU. VIOLAÇÃO AO ART. 315 DO CPP. SUFICIÊNCIA E ADEQUAÇÃO, IN CASU, DE MEDIDAS CAUTELARES DIVERSAS. CONSTRANGIMENTO ILEGAL EVIDENCIADO.
+Ordem concedida. Parecer ministerial acolhido.
