@@ -1,0 +1,148 @@
+DECISÃO
+Trata-se de recurso especial interposto pela Defensoria Pública do Estado do Pará em favor de JHOSSUA ROCHA MOTA, contra acórdão proferido pelo Tribunal de Justiça do Estado do Pará, assim ementado (fl. 226):
+Ementa: DIREITO PENAL. APELAÇÃO CRIMINAL. TRÁFICO DE DROGAS. NULIDADE DA BUSCA PESSOAL AFASTADA. DOSIMETRIA. AFASTAMENTO DE VALORAÇÃO NEGATIVA DOS ANTECEDENTES. REDUÇÃO DA PENA-BASE. RECURSO PARCIALMENTE PROVIDO.
+I. CASO EM EXAME
+1. Apelação criminal interposta contra sentença que condenou o réu à pena de 6 anos e 3 meses de reclusão, em regime inicialmente fechado, além de 625 dias-multa, pela prática do crime previsto no art. 33, caput, da Lei nº 11.343/06.
+II. QUESTÕES EM DISCUSSÃO
+2. As questões em discussão consistem em: (i) verificar a existência de nulidade da busca pessoal que ensejou a apreensão dos entorpecentes; (ii) avaliar a correção da dosimetria da pena, especialmente quanto à valoração negativa dos antecedentes.
+III. RAZÕES DE DECIDIR
+3. Inexistência de nulidade na busca pessoal, que foi precedida de fundada suspeita, diante de denúncia recebida diretamente durante ronda policial, corroborada por reconhecimento prévio do acusado e circunstâncias que legitimaram a abordagem.
+4. Equivocada a valoração negativa dos antecedentes criminais na sentença, haja vista que se baseou exclusivamente em processos em andamento, em afronta à Súmula nº 444/STJ e à Súmula nº 17/TJPA.
+5. Correção da pena-base, fixando-a no mínimo legal, diante da ausência de elementos concretos para exasperação.
+6. Mantido o não reconhecimento da causa de diminuição do tráfico privilegiado, em razão de elementos extraídos dos autos que indicam dedicação habitual do réu à atividade criminosa.
+IV. DISPOSITIVO E TESE
+7. Recurso conhecido e parcialmente provido para reduzir a pena definitiva do réu para 5 anos de reclusão, em regime semiaberto, e 500 dias-multa.
+Consta dos autos que o recorrente foi condenado pela prática do crime previsto no art. 33, caput, da Lei n. 11.343/2006, à pena de 6 anos e 3 meses de reclusão, em regime inicial semiaberto, além do pagamento de dias-multa.
+Interposta apelação, o Tribunal de origem deu parcial provimento ao recurso defensivo tão somente para redimensionar a pena-base, afastando a valoração negativa dos antecedentes, mantida, contudo, a condenação, bem como o indeferimento da causa de diminuição prevista no art. 33, § 4º, da Lei n. 11.343/2006.
+No presente recurso especial, a Defensoria Pública sustenta violação aos arts. 240, § 2º, e 386, VII, do Código de Processo Penal, bem como ao art. 33, § 4º, da Lei n. 11.343/2006, ao argumento de que o acórdão recorrido negou vigência a tais dispositivos ao manter condenação fundada em prova obtida por busca pessoal ilegal e ao afastar, de forma indevida, a minorante do tráfico privilegiado.
+Sustenta, preliminarmente, a nulidade da busca pessoal realizada sem fundada suspeita, nos termos do art. 240, § 2º, do CPP, aduzindo que a abordagem policial foi motivada exclusivamente por denúncia anônima desacompanhada de diligências prévias e por elementos genéricos, sem a presença de circunstâncias objetivas aptas a justificar a medida invasiva.
+Sustenta, ainda, que a condenação carece de suporte probatório lícito, uma vez que os elementos que a embasam decorrem diretamente da busca pessoal reputada ilegal, devendo ser reconhecida a ilicitude das provas e das que delas derivam, com a consequente absolvição do recorrente, nos termos do art. 386, VII, do CPP.
+Aduz, subsidiariamente, que o afastamento da causa de diminuição prevista no art. 33, § 4º, da Lei n. 11.343/2006 se deu com base em fundamentos inidôneos, notadamente a quantidade e a natureza das drogas apreendidas, bem como em suposto "conhecimento policial prévio" acerca do recorrente, elementos que, isoladamente, não demonstram dedicação a atividades criminosas nem integração a organização criminosa, em desconformidade com a jurisprudência desta Corte Superior.
+Afirma, nesse contexto, que o recorrente é primário, possui bons antecedentes e não há nos autos elementos concretos que evidenciem habitualidade delitiva, razão pela qual faz jus à aplicação da minorante em seu patamar máximo.
+Requer, ao final, o conhecimento e provimento do recurso especial para que seja reconhecida a nulidade das provas obtidas mediante busca pessoal ilegal, com a consequente absolvição, ou, subsidiariamente, o redimensionamento da pena, mediante a aplicação da causa de diminuição prevista no art. 33, § 4º, da Lei n. 11.343/2006.
+As contrarrazões foram apresentadas (fls. 267-274).
+O recurso foi admitido pela Corte de origem (fls. 276-279).
+O Ministério Público Federal manifestou-se pelo não conhecimento do recurso especial ou, no mérito, pelo seu desprovimento, nos termos da seguinte ementa (fl. 294):
+PENAL E PROCESSUAL PENAL. RECURSO ESPECIAL. CRIME DE TRÁFICO ILÍCITO DE ENTORPECENTES. ALEGADA NULIDADE DA BUSCA PESSOAL E VEICULAR. PLEITO DE APLICAÇÃO DA MINORANTE PREVISTA NO ART. 33, § 4º, DA LEI N. 11.343/2006. MATÉRIAS CUJA ANÁLISE DEMANDA REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO. SÚMULA N.º 7/STJ. ENTENDIMENTO DO TRIBUNAL A QUO NO MESMO SENTIDO DO STJ. SÚMULA 83/STJ. FUNDADA SUSPEITA CARACTERIZADA. BUSCA PESSOAL E VEICULAR QUE FOI PRECEDIDA DE DENÚNCIA RECEBIDA DURANTE RONDA POLICIAL, CORROBORADA POR RECONHECIMENTO PRÉVIO DO ACUSADO E CIRCUNSTÂNCIAS QUE LEGITIMARAM A ABORDAGEM. INAPLICABILIDADE DA CAUSA DE DIMINUIÇÃO DA PENA PREVISTA NO ART. 33, §4º, LEI Nº 11.343/2006. CIRCUNSTÂNCIAS DA PRISÃO, QUANTIDADE E NATUREZA DAS DROGAS DEMONSTRAM A DEDICAÇÃO À TRAFICÂNCIA. PARECER PELO NÃO CONHECIMENTO DO RECURSO ESPECIAL OU, NO MÉRITO, PELO SEU DESPROVIMENTO.
+É o relatório.
+DECIDO.
+O recurso especial foi interposto tempestivamente, encontra amparo no art. 105, III, a, da Constituição da República, e a parte recorrente apontou ofensa aos arts. 240, § 2º, e 386, VII, do Código de Processo Penal, bem como ao art. 33, § 4º, da Lei n. 11.343/2006, porquanto o Tribunal de origem decidiu que a busca pessoal realizada foi lícita, ainda que fundada em denúncia não identificada e em elementos genéricos, e afastou a aplicação da causa de diminuição do tráfico privilegiado com base na quantidade e natureza das drogas apreendidas e em suposto conhecimento prévio do recorrente pelos agentes policiais. Então, a matéria objeto do recurso foi devidamente apreciada pelo Tribunal de origem, e não exige reexame dos fatos e das provas, além de apresentar relevância das questões de direito federal infraconstitucional discutidas no caso (art. 105, §3º, I, CF); e, por isso, estão presentes os requisitos recursais extrínsecos e intrínsecos legais e constitucionais. Portanto, conheço do recurso especial.
+A questão submetida ao exame desta Corte consiste em definir se, à luz do art. 240, § 2º, do Código de Processo Penal, é juridicamente válida a realização de busca pessoal fundada exclusivamente em denúncia não identificada e em elementos genéricos, bem como se o acórdão recorrido contrariou a interpretação consolidada deste Tribunal ao admitir a licitude da prova assim obtida e ao afastar a incidência da causa de diminuição prevista no art. 33, § 4º, da Lei n. 11.343/2006 sem a demonstração de elementos concretos de dedicação a atividades criminosas.
+De início, quanto à busca pessoal, consta do acórdão impugnado (fls. 244-246):
+ ..
+1. Da Absolvição em Face da Nulidade da Busca Pessoal
+A defesa do apelante alega a nulidade da busca pessoal e das provas dela decorrentes, sob a alegação de que a representação policial carecia de justa causa, pois se baseou em denúncia anônima sem suporte probatório concreto, não apresentando elementos que justificassem a diligência, de modo que, diante de tal nulidade, a absolvição do réu é medida que se impõe.
+Não lhe assiste razão.
+No caso em tela, é possível observar, dos documentos juntados aos autos, que a abordagem policial não se deu de maneira arbitrária. A abordagem foi precedida de fundada suspeita.
+A testemunha IPC RODRIGO MONTEIRO DE OLIVEIRA, em juízo, relatou que estava em ronda ostensiva quando um indivíduo se aproximou e informou que o acusado estava transportando droga. Os policiais continuaram em ronda, momento em que avistaram o acusado passando numa motocicleta. Na revista, encontraram os entorpecentes dentro do baú da motocicleta. O acusado já era conhecido de uma outra operação pela prática de traficância.
+A testemunha VANESSA DOS SANTOS BEZERRA, ex-companheira do acusado, em juízo, afirmou que no momento da prisão do acusado estava no trabalho. Informou que já presenciou o acusado consumindo drogas, mas nunca soube que ele traficava. Por fim, pontuou que os policiais foram sua residência, por volta das 04h, pedindo a senha do celular do acusado. Não sabe se os policiais tinham mandado.
+Vê-se do depoimento do policial militar que a equipe estava em ronda ostensiva quando foi acionada por um cidadão que indicou que o réu estava transportando entorpecentes. Ao chegarem ao local, os agentes visualizaram o recorrente, tendo achado as drogas no baú da moto que ele pilotava.
+Assim, não há que se falar em ilicitude da prova.
+ ..
+Desta feita, não há qualquer nulidade absoluta a macular o conjunto probatório dos autos, considerando a robustez das provas amealhadas, consistentes no auto de apresentação e apreensão e no laudo toxicológico de ID"s 24552653 e 21325392 - que atesta a apreensão de 2,2g de maconha, 1,1g de óxi, 17 comprimidos de ecstasy (MDMA) e 70 (setenta) sacos para fracionamento de entorpecente - assim como nos depoimentos das testemunhas acima transcritos.
+ ..
+Como se vê, o Tribunal de origem reconheceu, de forma expressa, a licitude da abordagem policial, consignando que a diligência foi precedida de fundada suspeita, consistente em informação prestada por terceiro no sentido de que o recorrente estaria transportando entorpecentes, posteriormente confirmada pela localização das drogas no interior do baú da motoci cleta por ele conduzida.
+Com efeito, a jurisprudência desta Corte Superior é firme no sentido de que a busca pessoal prescinde de mandado judicial quando fundada em elementos concretos que indiquem a possibilidade de o agente estar na posse de objetos ilícitos, sendo legítima a atuação policial em situações nas quais a suspeita se apoia em circunstâncias objetivas verificadas no caso concreto.
+No caso dos autos, cotejando a alegação defensiva com os elementos registrados pelo acórdão recorrido, verifica-se que a abordagem não se fundou em meras impressões subjetivas ou em denúncia anônima genérica, mas em informação específica e contemporânea, indicando que o recorrente transportava substância entorpecente, circunstância que motivou a imediata diligência e permitiu a sua pronta identificação em situação compatível com a notícia recebida, o que evidencia a existência de fundada suspeita apta a justificar a medida, nos termos do art. 240, § 2º, do Código de Processo Penal.
+Nesse sentido:
+DIREITO PROCESSUAL PENAL. AGRAVO REGIMENTAL EM RECURSO ESPECIAL. RECEPTAÇÃO. RECEPTAÇÃO E TRÁFICO DE DROGAS. BUSCAS PESSOAL E DOMICILIAR. DENÚNCIA ANÔNIMA ESPECIFICADA. LICITUDE RECONHECIDA. AGRAVO NÃO PROVIDO.
+I. Caso em exame
+1. Agravo regimental interposto contra decisão que deu provimento a recurso especial para reconhecer a licitude das buscas pessoal e domiciliar realizadas com base em denúncia anônima especificada, desconstituindo o acórdão que havia declarado nulas as provas obtidas e absolvido o recorrido.
+II. Questão em discussão
+2. A questão em discussão consiste em analisar a validade das buscas pessoal e domiciliar realizadas com base em denúncia anônima especificada e com autorização do morador, sem mandado judicial, em contexto de flagrante delito.
+III. Razões de decidir
+3. A denúncia anônima especificada, acompanhada das características e da placa do veículo envolvido no crime de furto, além do local preciso onde se encontrava estacionado, foi confirmada in loco pelos policiais, justificando a abordagem e a busca pessoal do agravante.
+4. A busca domiciliar foi realizada após fundada suspeita gerada pela localização do veículo envolvido no crime, pela confissão da receptação e pela apreensão de parte dos objetos furtados no estabelecimento comercial do agravante, além de autorização para ingresso na residência.
+5. A abordagem e as buscas foram consideradas exercício regular da atividade de policiamento dos agentes de segurança pública, não havendo ilegalidade na atuação dos policiais.
+IV. Dispositivo e tese
+6. Resultado do Julgamento: Agravo regimental não provido.
+Tese de julgamento:
+1. A denúncia especificada, contendo informações concretas e corroboradas no local, é apta a justificar as buscas pessoal e domiciliar.
+2. A atuação policial baseada em denúncia especificada e fundada suspeita configura exercício regular da atividade de policiamento ostensivo.
+Dispositivos relevantes citados: CPP, arts. 240, 244 e 748.
+Jurisprudência relevante citada: STJ, AgRg no HC 819.903/GO, Min. Reynaldo Soares da Fonseca, Quinta Turma, julgado em 13.06.2023;
+STJ, AgRg no HC 834.794/TO, Min. Reynaldo Soares da Fonseca, Quinta Turma, julgado em 15.08.2023; STJ, AgRg no RHC 200.123/MG, Min. Daniela Teixeira, Rel. para Acórdão Min. Joel Ilan Paciornik, Quinta Turma, julgado em 26.02.2025.
+(AgRg no REsp n. 2.215.060/GO, minha relatoria, Quinta Turma, julgado em 25/11/2025, DJEN de 1/12/2025.)
+Dessa forma, não se verifica ilegalidade na busca pessoal realizada, tampouco ilicitude das provas dela decorrentes, razão pela qual não há falar em absolvição com fundamento no art. 386, VII, do Código de Processo Penal.
+Quanto à causa de diminuição prevista no art. 33, § 4º, da Lei n. 11.343/2006, o Tribunal de origem manifestou-se nos seguintes termos (fls. 248-251):
+ ..
+Apesar de ter retirado a avaliação negativa dos antecedentes criminais, hei por bem manter o afastamento da minorante do tráfico privilegiado.
+O §4º do art. 33 da Lei de Entorpecentes dispõe:
+§ 4º Nos delitos definidos no caput e no § 1º deste artigo, as penas poderão ser reduzidas de um sexto a dois terços, vedada a conversão em penas restritivas de direitos, desde que o agente seja primário, de bons antecedentes, não se dedique às atividades criminosas nem integre organização criminosa.
+De fato, a jurisprudência do STJ não mais admite que ações penais em curso ou inquéritos possam ser considerados para afastar a minorante do tráfico privilegiado, sendo necessário que a dedicação à atividade criminosa seja comprovada por outros elementos concretos.
+Tampouco se ignora a orientação do Supremo Tribunal Federal, no julgamento do Recurso Extraordinário n. 666.334/AM, submetido ao regime de repercussão geral (Tese de Repercussão Geral n. 712), no sentido de que a utilização concomitante da natureza e da quantidade da droga apreendida na primeira e na terceira fases da dosimetria, nesta última para descaracterizar o tráfico privilegiado ou modular a fração de diminuição de pena, configura bis in idem.
+ ..
+No caso, tem-se que a natureza e a quantidade da droga - de 2,2g de maconha, 1,1g de óxi, 17 comprimidos de ecstasy (MDMA) e 70 (setenta) sacos para fracionamento de entorpecente - podem ser sopesadas nesta terceira fase, eis que não foram utilizadas na primeira fase dosimétrica, de maneira que seu uso, na terceira fase, não configura bis in idem.
+Ademais, a hipótese vertente revela peculiaridades diversas, que levam ao convicto incabimento da benesse em favor do acusado.
+A regra excepcional do art. 33, §4º, da Lei nº 11.343/2006, tem como destinatário o pequeno traficante, aquele que inicia sua vida no comércio ilícito de entorpecentes, muitas das vezes até para viabilizar seu próprio consumo, não para os que, comprovadamente, fazem do crime seu meio habitual de vida.
+In casu, nota-se que as informações colhidas pela polícia não deixam dúvida de que o apelante se dedica ao tráfico, não se tratando de traficante eventual, neófito na narcotraficância, mas, sim, faz do delito meio para seu sustento, tendo a polícia recebido denúncia anônima de que ele transportava drogas, sendo que, quando o abordou, ele foi reconhecido já de outras ocorrências policiais.
+ ..
+Dessa feita, torno a reprimenda definitivamente fixada em 05 (cinco) anos de reclusão, com o pagamento de 500 (quinhentos) dias-multa, à razão de 1/30 (um trinta avos) do salário-mínimo vigente à época da infração.
+Mantenho o regime semiaberto para o cumprimento da pena do réu, em observância ao art. 33, §2º, alínea "b" do CPB.
+Ante o exposto, CONHEÇO do recurso e LHE DOU PARCIAL PROVIMENTO, para reduzir a pena definitiva do réu, nos termos alhures expostos.
+ ..
+Como se vê, o Tribunal de origem afastou expressamente a tese defensiva, consignando que, embora tenha reconhecido a primariedade e afastado a valoração negativa dos antecedentes, existem nos autos elementos suficientes a indicar a dedicação do recorrente à atividade criminosa, razão pela qual entendeu incabível a aplicação da causa de diminuição prevista no art. 33, § 4º, da Lei n. 11.343/2006.
+Destacou, ainda, que a conclusão foi amparada, sobretudo, na natureza e na diversidade das drogas apreendidas, na existência de material destinado ao fracionamento e em informações policiais de prévio envolvimento do acusado com a traficância, elementos que, segundo o acórdão recorrido, evidenciariam a habitualidade delitiva.
+Todavia, conforme expressamente consignado no próprio acórdão recorrido, a jurisprudência desta Corte Superior firmou-se no sentido de que ações penais em curso ou inquéritos policiais não são aptos a afastar a incidência da minorante do tráfico privilegiado, sendo indispensável a demonstração de elementos concretos de dedicação à atividade criminosa.
+Com efeito, se nem mesmo a existência de ações penais em andamento, que são elementos formalmente constituídos e submetidos ao crivo do devido processo legal, autoriza, por si só, o afastamento da causa de diminuição, com maior razão não se pode admitir que simples registros informais ou percepções subjetivas de agentes policiais sejam utilizados para tal finalidade, sob pena de violação aos princípios da presunção de inocência e do devido processo legal.
+Nessa linha, a quantidade, a natureza ou a diversidade de entorpecentes, isoladamente consideradas, tampouco são suficientes para afastar a minorante, conforme orientação consolidada desta Corte.
+No caso, verifica-se que o acórdão recorrido não indicou elementos concretos e individualizados aptos a demonstrar a dedicação do recorrente à atividade criminosa, limitando-se a inferências baseadas nas circunstâncias da prisão e em elementos genéricos.
+Assim, o entendimento adotado pela Corte de origem não se alinha jurisprudência consolidada desta Corte Superior, segundo a qual a quantidade ou a variedade de drogas apreendidas, por si sós, não são suficientes para afastar a incidência da minorante do tráfico privilegiado, sendo indispensável a demonstração de elementos concretos que evidenciem a dedicação do agente a atividades criminosas ou sua integração em organização criminosa.
+Nesse sentido:
+DIREITO PENAL. AGRAVO REGIMENTAL EM HABEAS CORPUS. TRÁFICO DE DROGAS MAJORADO. TRÁFICO PRIVILEGIADO. AUSÊNCIA DE REQUISITOS LEGAIS. AGRAVO REGIMENTAL NÃO PROVIDO.
+I. CASO EM EXAME
+1. Agravo regimental interposto contra decisão que indeferiu liminarmente habeas corpus em que se pleiteava o reconhecimento da causa especial de diminuição de pena prevista no art. 33, § 4º, da Lei n. 11.343/2006, afastada pelo acórdão recorrido sob o fundamento de que o agravante se dedicava a atividades criminosas.
+2. O agravante foi condenado à pena de 5 anos e 10 meses de reclusão, em regime inicial semiaberto, pela prática do crime de tráfico de drogas majorado (art. 33, caput, c/c art. 40, III, da Lei n. 11.343/2006). O acórdão da apelação manteve a condenação, considerando comprovada a destinação mercantil dos entorpecentes e a incidência da majorante por ter sido o delito praticado nas imediações de estabelecimento de ensino, limitando-se a abrandar o regime prisional com base na primariedade e no quantum da sanção.
+3. A Defesa alegou que a fundamentação para o afastamento da minorante do tráfico privilegiado foi inidônea, sustentando que ser o agravante "conhecido no meio policial" e a existência de investigações ou ações penais em curso não são elementos suficientes para afastar a aplicação da causa especial de diminuição de pena.
+Requereu o reconhecimento do tráfico privilegiado, a alteração do regime inicial de cumprimento da pena e a substituição da pena privativa de liberdade por restritivas de direitos.
+II. QUESTÃO EM DISCUSSÃO
+4. A questão em discussão consiste em saber se a fundamentação utilizada para afastar a causa especial de diminuição de pena prevista no art. 33, § 4º, da Lei n. 11.343/2006 foi idônea e se há elementos concretos que comprovem a dedicação do agravante a atividades criminosas, impedindo o reconhecimento do tráfico privilegiado.
+III. RAZÕES DE DECIDIR
+5. A aplicação da minorante do tráfico privilegiado exige o preenchimento cumulativo dos requisitos previstos no art. 33, § 4º, da Lei n. 11.343/2006, incluindo a ausência de dedicação a atividades criminosas.
+6. A jurisprudência do STJ estabelece que a quantidade, natureza e variedade de drogas apreendidas, por si só, não são suficientes para afastar a minorante, devendo ser conjugadas com outros elementos concretos do caso concreto.
+7. No caso, o acórdão impugnado destacou elementos concretos e idôneos que indicam a habitualidade do agravante no comércio ilícito de entorpecentes, como a utilização de um lote vago para esconder grande quantidade de drogas e realizar o comércio de forma contínua, além da apreensão de expressiva quantia em dinheiro.
+8. A modificação do acórdão impugnado demandaria o revolvimento do conjunto fático-probatório, o que é inadmissível na via estreita do habeas corpus.
+9. Mantida a sanção penal, os pedidos de alteração do regime inicial de cumprimento da pena e de substituição da pena privativa de liberdade por restritiva de direitos restam prejudicados.
+IV. DISPOSITIVO E TESE
+10. Resultado do Julgamento: Agravo regimental não provido.
+Tese de julgamento:
+1. A aplicação da causa especial de diminuição de pena prevista no art. 33, § 4º, da Lei n. 11.343/2006 exige o preenchimento cumulativo dos requisitos legais, incluindo a ausência de dedicação a atividades criminosas.
+2. A dedicação a atividades criminosas pode ser demonstrada por elementos concretos, como apreensão de petrechos típicos do tráfico, circunstâncias do caso concreto, modus operandi indicativo de profissionalismo, denúncias prévias, investigações, provas orais ou mensagens que demonstrem habitualidade na prática do delito.
+3. A modificação de acórdão que afasta a minorante do tráfico privilegiado com base em elementos concretos é inviável na via estreita do habeas corpus, que não admite o revolvimento do conjunto fático-probatório.
+Dispositivos relevantes citados:
+Lei n. 11.343/2006, art. 33, § 4º; art. 40, III; art. 35; CP, art. 33, § 2º, "b".
+Jurisprudência relevante citada:
+STJ, REsp 1.887.511/SP, Rel. Min. João Otávio de Noronha, Terceira Seção, DJe 01.07.2021; STJ, HC 725.534/SP, Rel. Min. Ribeiro Dantas, Terceira Seção, DJe 27.04.2022; STJ, AgRg no HC 808.995/MG, Rel. Min. Daniela Teixeira, Quinta Turma, DJe 26.06.2024; STJ, AgRg no HC 900.210/SP, Rel. Min. Jesuíno Rissato, Sexta Turma, DJe 19.06.2024.
+(AgRg no HC n. 1.044.977/MG, relator Ministro Carlos Pires Brandão, Sexta Turma, julgado em 18/3/2026, DJEN de 24/3/2026.)
+DIREITO PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS. APLICAÇÃO DO REDUTOR DO TRÁFICO PRIVILEGIADO. REGIME INICIAL SEMIABERTO. AGRAVO REGIMENTAL IMPROVIDO.
+I. CASO EM EXAME
+1. Agravo regimental interposto pelo Ministério Público do Estado de São Paulo contra decisão que concedeu a ordem, de ofício, para aplicar o redutor do tráfico privilegiado na fração de 2/3, readequando a reprimenda final do paciente para 1 ano e 8 meses de reclusão, em regime inicial semiaberto, mais pagamento de 166 dias-multa.
+2. O agravante sustenta que a quantidade, variedade e nocividade das drogas foram corretamente valoradas na terceira fase da dosimetria pelas instâncias ordinárias, para afastar a causa de diminuição do artigo 33, § 4º, da Lei nº 11.343/2006, em face da dedicação do réu à atividade criminosa, exercida em ponto de tráfico conhecido, sem comprovação de renda lícita. Argumenta, ainda, que o reconhecimento da minorante é inviável, pois exige revolvimento fático-probatório e contraria os dados concretos do caso, além de defender que o regime inicial semiaberto seria insuficiente e desproporcional diante da gravidade concreta da conduta.
+3. A decisão agravada aplicou o redutor do tráfico privilegiado na fração de 2/3, considerando que a quantidade de droga já havia sido valorada na primeira fase da dosimetria e que não há elementos probatórios suficientes para indicar a dedicação do paciente à atividade criminosa.
+II. QUESTÃO EM DISCUSSÃO
+4. A questão em discussão consiste em saber se a grande quantidade e variedade de entorpecentes apreendidos, aliada às circunstâncias da prisão, são suficientes para afastar a aplicação da causa especial de diminuição de pena prevista no art. 33, § 4º, da Lei nº 11.343/2006, e se há ocorrência de bis in idem na dosimetria da pena.
+III. RAZÕES DE DECIDIR
+5. A jurisprudência do Superior Tribunal de Justiça e do Supremo Tribunal Federal estabelece que a quantidade de drogas apreendida, por si só, não justifica o afastamento do redutor do tráfico privilegiado, sendo necessário indicar outros elementos ou circunstâncias que demonstrem a dedicação do réu à prática de atividades ilícitas ou sua participação em organização criminosa.
+6. A ausência de comprovação de atividade laborativa lícita e a apreensão de dinheiro, por si só, não são elementos idôneos para concluir pela dedicação habitual do condenado à prática criminosa.
+7. A aplicação do redutor do tráfico privilegiado na fração de 2/3 é cabível, considerando que a quantidade de droga já foi valorada na primeira fase da dosimetria e não há elementos probatórios adicionais que indiquem a dedicação do agente à atividade criminosa.
+8. O regime inicial semiaberto é adequado, considerando a gravidade concreta da conduta, consubstanciada na natureza e quantidade expressiva de droga apreendida, e a análise desfavorável de circunstâncias judiciais do art. 59 do Código Penal.
+IV. DISPOSITIVO E TESE
+9. Resultado do Julgamento: Agravo regimental improvido.
+Tese de julgamento:
+1. A quantidade de drogas apreendida, por si só, não autoriza o afastamento do redutor do tráfico privilegiado, sendo necessária a indicação de outros elementos ou circunstâncias que demonstrem a dedicação do réu à prática de atividades ilícitas ou sua participação em organização criminosa.
+2. A ausência de comprovação de atividade laborativa lícita e a apreensão de dinheiro, por si só, não são elementos idôneos para concluir pela dedicação habitual do condenado à prática criminosa.
+3. A aplicação do redutor do tráfico privilegiado na fração de 2/3 é cabível quando não há elementos probatórios adicionais que indiquem a dedicação do réu à prática de atividades ilícitas.
+4. A gravidade concreta da conduta, consubstanciada na natureza e quantidade expressiva de droga apreendida, autoriza a fixação do regime inicial semiaberto, mesmo quando a pena final seja inferior a 4 anos.
+Dispositivos relevantes citados:
+Lei nº 11.343/2006, art. 33, § 4º; Código Penal, art. 59.
+Jurisprudência relevante citada:
+STJ, HC 413.610/SP, Min. Rel. Reynaldo Soares da Fonseca, Quinta Turma, julgado em 03/10/2017; STJ, AgRg no REsp 1.866.691/SP, Min. Rel. Jorge Mussi, Quinta Turma, DJe 29/05/2020; STJ, AgRg no HC 940.451/SP, Min. Rel. Otávio de Almeida Toledo, Sexta Turma, julgado em 05/03/2025, DJEN 11/03/2025; STJ, AgRg no HC 891.784/SP, Min. Rel. Messod Azulay Neto, Quinta Turma, julgado em 19/03/2024, DJe 05/04/2024.
+(AgRg no HC n. 1.049.293/SP, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 4/3/2026, DJEN de 12/3/2026.)
+Dessa forma, deve ser reconhecida a incidência da causa de diminuição prevista no art. 33, § 4º, da Lei de Drogas. Considerando as circunstâncias do caso e a ausência de elementos concretos que indiquem maior envolvimento do recorrente com a atividade criminosa, mostra-se adequada a aplicação da fração máxima de redução, correspondente a 2/3.
+Procedendo-se ao redimensionamento da pena, parte-se da reprimenda fixada pelo Tribunal de origem em 5 anos de reclusão e 500 dias-multa, reduzindo-a em 2/3, o que resulta na pena definitiva de 1 ano e 8 meses de reclusão, além de 166 dias-multa, mantido o valor unitário estabelecido.
+Diante da nova pena fixada, inferior a 4 anos, bem como da primariedade e dos bons antecedentes do recorrente, mostra-se cabível a fixação do regime inicial aberto, nos termos do art. 33, § 2º, do Código Penal.
+Presentes, ainda, os requisitos do art. 44 do Código Penal, é possível a substituição da pena privativa de liberdade por duas penas restritivas de direitos, a serem definidas pelo Juízo da execução.
+Ante o exposto, com fulcro no art. 255, § 4º, III, do Regimento Interno do STJ, dou parcial provimento ao recurso especial, tão somente para reconhecer a incidência da causa de diminuição prevista no art. 33, § 4º, da Lei n. 11.343/2006, redimensionar a pena do recorrente para 1 ano e 8 meses de reclusão, além de 166 dias-multa, fixar o regime inicial aberto e substituir a pena privativa de liberdade por duas penas restritivas de direitos, a serem estabelecidas pelo Juízo da execução.
+Publique-se.
+Intimem-se.
+EMENTA
