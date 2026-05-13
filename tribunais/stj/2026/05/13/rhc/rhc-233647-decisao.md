@@ -1,0 +1,20 @@
+DECISÃO
+Trata-se de recurso em habeas corpus interposto por PEDRO HENRIQUE RODRIGUES SOARES contra o acórdão proferido pelo Tribunal de Justiça do Estado de Minas Gerais nos autos do HC n. 1.0000.26.000184-7/000, que denegou a ordem (fls. 420/429), mantendo a prisão preventiva imposta pelo Juízo da Vara Plantonista da Microrregião XLII, em sede de audiência de custódia, pela suposta prática do crime de porte ilegal de arma de fogo de uso restrito (Autos n. 5028008-12.2025.8.13.0672 - fls. 46/52).
+Pretende-se, em síntese (fls. 457/458):
+b) A concessão da medida liminar, inaudita altera pars, para determinar a imediata expedição de alvará de soltura em favor do Paciente (sic), com sua colocação em liberdade provisória, salvo se por outro motivo estiver preso, ou, subsidiariamente, a substituição da prisão preventiva por medidas cautelares diversas previstas no art. 319 do Código de Processo Penal, até o julgamento definitivo do presente recurso;
+c) No mérito, o provimento do recurso, para reconhecer a ilegalidade da abordagem policial por ausência de justa causa, com a consequente declaração de nulidade da prisão em flagrante e de todos os atos dela decorrentes, inclusive das provas obtidas, diante da aplicação da teoria dos frutos da árvore envenenada, determinando-se o relaxamento da prisão do Paciente (sic);
+d) Subsidiariamente, caso não seja esse o entendimento, que seja revogada a prisão preventiva, por ausência de fundamentação concreta e idônea, inexistência dos requisitos do art. 312 do Código de Processo Penal e desproporcionalidade da medida extrema;
+e) Ainda de forma subsidiária, caso mantida alguma forma de cautela, que sejam aplicadas medidas cautelares diversas da prisão, consideradas suficientes e adequadas ao caso concreto, em observância ao princípio da excepcionalidade da prisão preventiva e ao disposto nos arts. 282 e 319 do Código de Processo Penal;
+Liminar indeferida (fls. 466/468).
+Prestadas as informações (fls. 480/483), o Ministério Público Federal opinou pelo não conhecimento do recurso em habeas corpus (fls. 501/503) .
+É o relatório.
+A presente insurgência está prejudicada.
+Isso porque, de acordo com as informações prestadas pelo Juízo da 1ª Vara Criminal e da Infância e da Juventude da comarca de Sete Lagoas, em 31/3/2026, foi proferida sentença penal condenando o ora recorrente à pena de 3 anos e 9 meses de reclusão, em regime inicial semiaberto, além do pagamento de 53 dias-multa, facultando, na oportunidade, o direito de recorrer em liberdade, com expedição do alvará de soltura em seu favor.
+Na mesma sentença, o Magistrado de piso também apreciou e afastou a preliminar de nulidade da abordagem policial por ausência de justa causa, reconhecendo a validade da busca pessoal e veicular.
+Com efeito, a jurisprudência desta Corte Superior é firme no sentido de que, Proferida sentença na ação penal, com a análise exauriente da matéria relativa à suposta nulidade arguida pela Defesa, fica prejudicado o habeas corpus, devendo o novo título ser impugnado originalmente perante o Tribunal a quo, pois, segundo a jurisprudência desta Corte, a supressão de instância impede o conhecimento da pretensão defensiva. (AgRg no RHC n. 179.855/MG, Ministro Teodoro Silva Santos, Sexta Turma, DJe 7/3/2024 - grifo nosso).
+Assim, a matéria relativa à suposta nulidade na abordagem policial, já apreciada no âmbito da sentença penal condenatória, configura novo título judicial que deverá ser antes submetido ao Tribunal a quo, o que impede sua análise por esta Corte Superior.
+Tal o contexto, julgo prejudicado o recurso em habeas corpus.
+Publique-se.
+EMENTA
+DIREITO PENAL E PROCESSUAL PENAL. RECURSO EM HABEAS CORPUS. PORTE ILEGAL DE ARMA DE FOGO DE USO RESTRITO. PRISÃO PREVENTIVA. PRETENSÃO DE REVOGAÇÃO. TESE DE NULIDADE DA ABORDAGEM POLICIAL POR AUSÊNCIA DE JUSTA CAUSA. SUPERVENIÊNCIA DE SENTENÇA CONDENATÓRIA. FACULTADO O RECURSO EM LIBERDADE. EXPEDIÇÃO DO ALVARÁ DE SOLTURA. RECONHECIMENTO DA VALIDADE DA BUSCA PESSOAL E VEICULAR PELO JUÍZO SINGULAR. NOVO TÍTULO JUDICIAL QUE DEVE SER ANTES SUBMETIDO AO CRIVO DE ANÁLISE DO TRIBUNAL A QUO. PRECEDENTE.
+Recurso em habeas corpus prejudicado.
