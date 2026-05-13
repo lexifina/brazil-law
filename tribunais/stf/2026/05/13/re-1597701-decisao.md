@@ -1,0 +1,24 @@
+DECISÃO: Trata-se de recurso extraordinário, com base no art. 102, III, “a”, da Constituição Federal, apresentado pelo Instituto Nacional do Seguro Social - INSS, em face do acórdão do Tribunal Regional Federal da 1ª Região assim ementado:
+
+“ADMINISTRATIVO. SERVIDOR PÚBLICO. DIREITO DE GREVE. AUSÊNCIA DE LEI ESPECÍFICA. LEI 7.783/89. APLICAÇÃO. PRECEDENTES DO STF. DESCONTO DOS DIAS NÃO TRABALHADOS. POSSIBILIDADE. PRECEDENTES DO STF E DO STJ. COMPENSAÇÃO. PRÉVIO PROCESSO ADMINISTRATIVO. DESNECESSIDADE. LANÇAMENTO DE FALTA INJUSTIFICADA. PENALIDADE DUPLA. IMPOSSIBILIDADE. APELAÇÃO PARCIALMENTE PROVIDA. 1. O Supremo Tribunal Federal, ao julgar os mandados de injunção 708 e 712, estabeleceu que, até a edição de lei específica pelo Congresso Nacional, os servidores públicos teriam assegurado o direito ao exercício de greve, na forma regulada pela Lei 7.783/89. 2. Entretanto, no que diz respeito aos descontos relativos aos dias não trabalhados, é certo que os salários dos dias de paralisação não deverão ser pagos, salvo no caso em que a greve tenha sido provocada justamente por atraso no pagamento aos servidores públicos civis, ou por outras situações excepcionais que justifiquem o afastamento da premissa da suspensão do contrato de trabalho, o que não se verifica no caso concreto. Precedentes do STF e do STJ. 3. A Administração, antes de efetuar eventuais descontos, deve buscar estabelecer critérios para que se efetive a compensação das horas não trabalhadas, assegurando-se assim o pleno exercício do direito de greve dos servidores públicos. Precedentes. 4. Aplicando a mesma sistemática para todas as faltas justificadas não compensadas, prescinde de processo administrativo a realização dos descontos na remuneração do servidor decorrentes das referidas ausências (MS 14.942/DF, Rel. Ministra Laurita Vaz, DJe 21/05/2012). 5. É razoável desconto em folha, sem lançamento de falta injustificada, a fim de viabilizar o direito de greve e evitar que o servidor seja duplamente prejudicado pelo mesmo ato, ao aderir ao movimento grevista. Deverá a Administração, caso frustrada a compensação, proceder ao desconto em folha pelos dias parados e ao lançamento de falta justificada nos assentos funcionais dos servidores grevistas. 6. Apelação a que se dá parcial provimento.” (Apelação Cível nº 0029277-71.2006.4.01.3400, Primeira Turma, Rel. Des. Federal Ângela Catão, j. 20.02.2013)
+
+Na minuta, sustenta-se violação dos arts. 5º, caput, XXXI e LV, 37, VII, e 60, II, da Constituição da República.
+É o relatório.
+Decido.
+O recurso comporta parcial provimento.
+De início, afasto o óbice da Súmula 279/STF. O provimento deste recurso não exige o revolvimento do conjunto fático-probatório, mas tão somente a reatribuição de qualificação jurídica aos fatos soberanamente delineados pelo Tribunal a quo. O ponto controvertido é estritamente jurídico: saber se a Administração possui o dever-poder de descontar os dias parados de imediato ou se está obrigada a tentar a compensação previamente.
+O Plenário desta Corte, ao julgar o mérito do RE 693.456 (Tema 531), fixou a seguinte tese vinculante:
+
+“A administração pública deve proceder ao desconto dos dias de paralisação decorrentes do exercício do direito de greve pelos servidores públicos, em virtude da suspensão do vínculo funcional que dela decorre, permitida a compensação em caso de acordo. O desconto será, contudo, incabível se ficar demonstrado que a greve foi provocada por conduta ilícita do Poder Público.”
+
+Ao criar excessivas formalidades, o entendimento adotado pelo TRF da 1ª Região inverte a lógica estabelecida por este Tribunal. No paradigma vinculante, o desconto é a regra e um dever administrativo, enquanto a compensação é uma exceção que depende de mútuo consentimento (acordo).
+Ressalte-se que o acórdão recorrido não registrou a ocorrência de conduta ilícita do Poder Público (como o atraso no pagamento de salários) que pudesse afastar a regra do desconto.
+Portanto, estando o acórdão recorrido em confronto com a tese fixada no Tema 531, a reforma da decisão é medida que se impõe para alinhar o caso concreto à jurisprudência vinculante deste STF. Contudo, nada impede que o acordo de compensação seja celebrado no curso ou após o desfecho da presente ação judicial, concretizando a diretriz emanada do art. 27 da LINDB.
+Diante do exposto, com base no art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal, dou parcial provimento ao recurso extraordinário para conceder a segurança apenas para manter a obrigatoriedade de a Administração Pública expressamente analisar a possibilidade de compensação por acordo, nos termos do Tema 531, sem a necessidade de processo administrativo individual. Caso inviável a compensação, o dever de desconto deve ser imediatamente exercido.
+Publique-se.
+
+Brasília, 13 de maio de 2026.
+
+Ministro FLÁVIO DINO
+Relator
+Documento assinado digitalmente
