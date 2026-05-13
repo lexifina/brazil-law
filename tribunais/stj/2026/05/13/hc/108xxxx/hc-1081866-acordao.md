@@ -1,0 +1,43 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEXTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 07/05/2026 a 13/05/2026, por unanimidade, denegar o habeas corpus, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Rogerio Schietti Cruz, Carlos Pires Brandão e Og Fernandes votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Carlos Pires Brandão.
+EMENTA
+DIREITO PROCESSUAL PENAL. HABEAS CORPUS. EXTORSÃO MEDIANTE SEQUESTRO. ROUBO MAJORADO COM EMPREGO DE ARMA DE FOGO, CONCURSO DE AGENTES E RESTRIÇÃO DA LIBERDADE DA VÍTIMA. ASSOCIAÇÃO CRIMINOSA ARMADA. PRISÃO PREVENTIVA. MATERIALIDADE E INDÍCIOS ROBUSTOS. MODUS OPERANDI GRAVE. EXIBIÇÃO DE ARMAS EM VÍDEOS. INQUÉRITO EM ANDAMENTO. RISCO DE REITERAÇÃO DELITIVA. GARANTIA DA ORDEM PÚBLICA. PRISÃO DOMICILIAR. IMPOSSIBILIDADE. CRIMES PRATICADOS COM VIOLÊNCIA, GRAVE AMEAÇA E RESTRIÇÃO DE LIBERDADE. AUSÊNCIA DE ILEGALIDADE FLAGRANTE.
+Ordem de habeas corpus denegada.
+RELATÓRIO
+Trata-se de habeas corpus impetrado em nome de JAQUELINE SOARES DA SILVA, presa preventivamente e acusada pela prática dos crimes de extorsão mediante sequestro, roubo majorado (emprego de arma de fogo, concurso de agentes e restrição da liberdade da vítima) e associação criminosa armada.
+O impetrante aponta como autoridade coatora o Tribunal de Justiça do Estado do Pará, que, em 16/3/2026, denegou a ordem no HC n. 0802576-58.2026.8.14.0000.
+Alega ausência de contemporaneidade dos fundamentos da preventiva, pois os fatos são de 30/6/2023 e a representação pela prisão ocorreu apenas ao final de 2025, com decreto em 22/1/2026, sem notícias de reiteração delitiva nesse lapso.
+Sustenta falta de fundamentação concreta, afirmando que o Juízo singular e o acórdão teriam se limitado à gravidade abstrata dos delitos, sem demonstrar, com elementos individualizados, risco atual à ordem pública, à instrução ou à aplicação da lei penal.
+Afirma condições pessoais favoráveis - primariedade, residência fixa, mãe de dois filhos menores e gestante de 24 semanas, com histórico clínico de asma e infecções -, e atuação periférica restrita ao empréstimo de conta bancária, o que permitiria medidas cautelares diversas.
+Em caráter liminar, pede a substituição da preventiva por prisão domiciliar humanitária, com monitoração eletrônica; e, no mérito, requer a revogação da prisão preventiva, com substituição por cautelares do art. 319 do Código de Processo Penal, e expedição de alvará de soltura.
+Indeferida a liminar, prestadas as informações de praxe, o Ministério Público Federal opinou pelo não conhecimento do habeas corpus.
+É o relatório.
+EMENTA
+DIREITO PROCESSUAL PENAL. HABEAS CORPUS. EXTORSÃO MEDIANTE SEQUESTRO. ROUBO MAJORADO COM EMPREGO DE ARMA DE FOGO, CONCURSO DE AGENTES E RESTRIÇÃO DA LIBERDADE DA VÍTIMA. ASSOCIAÇÃO CRIMINOSA ARMADA. PRISÃO PREVENTIVA. MATERIALIDADE E INDÍCIOS ROBUSTOS. MODUS OPERANDI GRAVE. EXIBIÇÃO DE ARMAS EM VÍDEOS. INQUÉRITO EM ANDAMENTO. RISCO DE REITERAÇÃO DELITIVA. GARANTIA DA ORDEM PÚBLICA. PRISÃO DOMICILIAR. IMPOSSIBILIDADE. CRIMES PRATICADOS COM VIOLÊNCIA, GRAVE AMEAÇA E RESTRIÇÃO DE LIBERDADE. AUSÊNCIA DE ILEGALIDADE FLAGRANTE.
+Ordem de habeas corpus denegada.
+VOTO
+A ordem não comporta concessão.
+A prisão preventiva pode ser decretada, desde que haja prova da existência do crime e indício suficiente de autoria, como garantia da ordem pública, da ordem econômica, por conveniência da instrução criminal ou para assegurar a aplicação da lei penal, em decisão motivada e fundamentada acerca do receio de perigo gerado pelo estado de liberdade do imputado e da contemporaneidade da necessidade da medida extrema (arts. 311 a 316 do CPP).
+Contudo, o alegado constrangimento não se mostra com a nitidez exigida na inicial.
+Até porque consta da decisão que indeferiu o pedido de revogação da prisão o seguinte (fls. 33/36 - grifo nosso):
+ ..
+Rememore-se que JAQUELINE SOARES DA SILVA agiu em conluio com os demais investigados na prática dos crimes de extorsão mediante sequestro e de roubo majorado contra as vítimas CLEITIANE FERNANDES SANTANA, RAFAEL PEREIRA DOS SANTOS e MANUELLE SANTANA SILVA, na cidade de Marituba/PA, consoante apurado no Id. 165038980.
+ ..
+Entre o material analisado, destacam-se vídeos nos quais a investigada aparece ostentando armas de fogo, bem como gravações realizadas em ambiente doméstico, onde armas e munições são exibidas sobre sua cama (Id. 165038981, pág. 57).
+Além disso, foram localizados vídeos em que terceiros aparecem ao lado de JAQUELINE, igualmente portando e exibindo armamento (Id. 165038981, pág. 58), o que reforça sua proximidade com indivíduos envolvidos em práticas ilícitas e corrobora a hipótese de participação ativa, consciente e voluntária da investigada na empreitada criminosa ora apurada.
+Tudo isso demonstra o grau de associação da requerente com os demais investigados e a unidade de desígnios para o cometimento dos crimes. Portanto, estão presentes a materialidade e os robustos indícios de autoria (fumus commissi delicti) dos crimes de extorsão mediante sequestro e de roubo majorado, que são os pressupostos necessários para a manutenção da prisão preventiva, conforme parte final do artigo 312 do Código de Processo Penal.
+JAQUELINE SOARES DA SILVA também já havia sido identificada e indiciada em outra investigação, igualmente conduzida pela Delegacia de Marituba/PA, na qual também figurou como envolvida em crime de mesma natureza e com semelhante modus operandi. Trata-se do Inquérito Policial nº 00029/2025.100316-6, instaurado para apurar a prática dos crimes de extorsão qualificada pela restrição da liberdade da vítima, roubo majorado e associação criminosa armada, ocorridos no município de Marituba/PA em 19 de maio de 2024.
+ ..
+Não bastasse isso, também há informação no Id. 165038981 (págs. 142/145) de que a requerida JAQUELINE SOARES DA SILVA estava evadida do local de sua residência há algum tempo, sendo capturada em Estado diverso (Goiás), a denotar que visava se esquivar das investigações e da aplicação da lei penal, até porque já havia sido alertada antecipadamente por JAMILLE, consoante comunicação registrada no Id. 165038981 (pág. 59).
+ ..
+O Tribunal de Justiça concordou com os fundamentos apresentados pelo juízo de origem e manteve a prisão preventiva da paciente.
+Pois bem. A análise dos trechos acima evidencia que a prisão cautelar está fundamentada em elementos concretos relacionados à realidade dos fatos, com ênfase nas circunstâncias específicas que justificam a medida, especialmente o modus operandi do crime e o fato de a paciente ser investigada em outro inquérito policial por envolvimento em fatos semelhantes.
+A paciente é acusada da suposta prática dos crimes de extorsão mediante sequestro, roubo majorado (emprego de arma de fogo, concurso de agentes e restrição da liberdade da vítima) e associação criminosa armada, havendo gravações nas quais ela exibe armas de fogo sobre sua cama, inclusive. Esses elementos demonstram e sustentam a necessidade de manutenção da medida extrema.
+A propósito, o Superior Tribunal de Justiça, de forma reiterada, registra entendimento no sentido de que a gravidade concreta da conduta, reveladora do potencial elevado grau de periculosidade do agente e consubstanciada na alta reprovabilidade do modus operandi empregado na empreitada delitiva, é fundamento idôneo a lastrear a prisão preventiva, com o intuito de preservar a ordem pública (AgRg no RHC n. 171.820/PR, Ministra Laurita Vaz, Sexta Turma, DJe 20/4/2023).
+Ainda nesse sentido: AgRg no HC n. 940.170/SP, Ministra Daniela Teixeira, Quinta Turma, DJe 30/10/2024; e AgRg no RHC n. 192.072/BA, Ministro Rogerio Schietti Cruz, Sexta Turma, DJe 22/8/2024.
+E, mais, a existência de inquérito policial em andamento constitui fundamento idôneo para a prisão preventiva, por indicar risco de reiteração delitiva e de comprometimento da aplicação da lei penal. Nesse sentido: AgRg no RHC n. 228.402/MG, Ministra Maria Marluce Caldas, Quinta Turma, DJEN 20/3/2026.
+Acerca do pedido de prisão domiciliar, consignou o Tribunal de Justiça que a paciente responde por delitos que envolvem grave ameaça e restrição da liberdade das vítimas, o que afasta a incidência do benefício (fl. 25).
+A propósito, segundo a atual jurisprudência desta Corte, o art. 318-A do CPP veda a substituição da prisão preventiva por prisão domiciliar quando se tratar de crime cometido com violência ou grave ameaça à pessoa, circunstância presente no caso concreto (AgRg no RHC n. 231.761/MT, Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJEN 23/3/2026).
+Ante o exposto, denego a ordem de habeas corpus.
