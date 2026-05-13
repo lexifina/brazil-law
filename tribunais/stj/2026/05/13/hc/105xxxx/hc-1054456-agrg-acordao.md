@@ -1,0 +1,114 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUINTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 07/05/2026 a 13/05/2026, por unanimidade, negar provimento ao recurso, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Reynaldo Soares da Fonseca, Ribeiro Dantas, Joel Ilan Paciornik e Messod Azulay Neto votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro Reynaldo Soares da Fonseca.
+EMENTA
+Ementa: DIREITO PROCESSUAL PENAL. AGRAVO REGIMENTAL EM HABEAS CORPUS. TRÁFICO DE DROGAS. INADEQUAÇÃO DA VIA ELEITA. PRISÃO PREVENTIVA. FUNDAMENTAÇÃO CONCRETA. REITERAÇÃO DELITIVA. FUGA DO DISTRITO DA CULPA. CONDIÇÕES PESSOAIS IRRELEVANTES. MEDIDAS CAUTELARES INSUFICIENTES. AUSÊNCIA DE FLAGRANTE ILEGALIDADE. RECURSO DESPROVIDO.
+I. CASO EM EXAME
+Agravo regimental interposto contra decisão que não conheceu de habeas corpus impetrado em favor de paciente preso preventivamente pela suposta prática do crime previsto no art. 33 da Lei nº 11.343/2006, no qual se pleiteia a revogação da custódia cautelar ou sua substituição por medidas alternativas, ao argumento de pequena quantidade de droga (87 g de maconha), ausência de elementos indicativos de tráfico, condições pessoais favoráveis e inexistência de periculum libertatis.
+II. QUESTÃO EM DISCUSSÃO
+Há duas questões em discussão: (i) definir se é cabível o habeas corpus como substitutivo de recurso próprio; (ii) estabelecer se a prisão preventiva está devidamente fundamentada em elementos concretos aptos a justificar a medida extrema.
+III. RAZÕES DE DECIDIR
+O habeas corpus não é cabível como sucedâneo de recurso próprio, admitindo-se sua concessão de ofício apenas em hipóteses de flagrante ilegalidade, abuso de poder ou teratologia, não verificadas no caso.
+A prisão preventiva encontra-se devidamente fundamentada nos termos do art. 312 do CPP, com base na garantia da ordem pública, evidenciada por elementos concretos dos autos.
+A apreensão de entorpecente (87 g de maconha), associada a circunstâncias como apreensão de dinheiro, máquina de cartão e contexto da abordagem, revela gravidade concreta da conduta.
+A reiteração delitiva do agente constitui fundamento idôneo para a segregação cautelar, por indicar periculosidade e risco de reiteração criminosa.
+A fuga do distrito da culpa demonstra desinteresse na aplicação da lei penal e justifica a manutenção da prisão preventiva.
+Condições pessoais favoráveis, como residência fixa e atividade lícita, não afastam a prisão cautelar quando presentes os requisitos legais.
+Medidas cautelares diversas da prisão mostram-se insuficientes diante da necessidade de resguardar a ordem pública.
+A análise de desclassificação da conduta para uso próprio demanda reexame fático-probatório, incompatível com a via estreita do habeas corpus.
+IV. DISPOSITIVO E TESE
+Recurso desprovido.
+Tese de julgamento: 1. O habeas corpus é incabível como substitutivo de recurso próprio, salvo em caso de flagrante ilegalidade. 2. A prisão preventiva é válida quando fundamentada em elementos concretos, como reiteração delitiva e fuga do distrito da culpa. 3. Condições pessoais favoráveis não afastam a custódia cautelar quando presentes os requisitos do art. 312 do CPP. 4. A substituição por medidas cautelares diversas é incabível quando demonstrada sua insuficiência. 5. A via do habeas corpus não admite reexame aprofundado de provas para fins de descl assificação do delito.
+RELATÓRIO
+Trata-se de agravo regimental interposto por JOSE LUCAS DA ROCHA REIS, contra decisão de fls. 263-265, que não conheceu do habeas corpus.
+Sustenta a defesa que, no contexto delitivo onde o agravante foi preso preventivamente pelo delito tipificado no art. 33 da Lei nº 11.343/06, a decisão monocrática merece reparo, pois a quantidade de droga não seria expressiva.
+Afirma que a quantidade apreendida  87 g de maconha  é pequena e, por se tratar de maconha, de menor gravidade, indicando uso próprio. Defende que não há elementos que sustentem o tráfico: inexistência de numerário elevado e de petrechos como balança de precisão e embalagens, o que, segundo a defesa, permitiria desclassificação para o art. 28 da Lei de Drogas.
+Destaca condições pessoais favoráveis, como residência fixa e atividade lícita, documentadas nos autos, e a inexistência de risco concreto à ordem pública, à instrução criminal ou à aplicação da lei penal.
+Defende que o periculum libertatis não foi demonstrado de forma concreta e que medidas cautelares do art. 319 do CPP seriam suficientes.
+Menciona, ainda, a desproporcionalidade da custódia após quase três meses de prisão.
+Requer o provimento do agravo regimental para reconsiderar a decisão agravada e revogar a prisão preventiva; subsidiariamente, pede a submissão do recurso ao colegiado.
+É o relatório.
+EMENTA
+Ementa: DIREITO PROCESSUAL PENAL. AGRAVO REGIMENTAL EM HABEAS CORPUS. TRÁFICO DE DROGAS. INADEQUAÇÃO DA VIA ELEITA. PRISÃO PREVENTIVA. FUNDAMENTAÇÃO CONCRETA. REITERAÇÃO DELITIVA. FUGA DO DISTRITO DA CULPA. CONDIÇÕES PESSOAIS IRRELEVANTES. MEDIDAS CAUTELARES INSUFICIENTES. AUSÊNCIA DE FLAGRANTE ILEGALIDADE. RECURSO DESPROVIDO.
+I. CASO EM EXAME
+Agravo regimental interposto contra decisão que não conheceu de habeas corpus impetrado em favor de paciente preso preventivamente pela suposta prática do crime previsto no art. 33 da Lei nº 11.343/2006, no qual se pleiteia a revogação da custódia cautelar ou sua substituição por medidas alternativas, ao argumento de pequena quantidade de droga (87 g de maconha), ausência de elementos indicativos de tráfico, condições pessoais favoráveis e inexistência de periculum libertatis.
+II. QUESTÃO EM DISCUSSÃO
+Há duas questões em discussão: (i) definir se é cabível o habeas corpus como substitutivo de recurso próprio; (ii) estabelecer se a prisão preventiva está devidamente fundamentada em elementos concretos aptos a justificar a medida extrema.
+III. RAZÕES DE DECIDIR
+O habeas corpus não é cabível como sucedâneo de recurso próprio, admitindo-se sua concessão de ofício apenas em hipóteses de flagrante ilegalidade, abuso de poder ou teratologia, não verificadas no caso.
+A prisão preventiva encontra-se devidamente fundamentada nos termos do art. 312 do CPP, com base na garantia da ordem pública, evidenciada por elementos concretos dos autos.
+A apreensão de entorpecente (87 g de maconha), associada a circunstâncias como apreensão de dinheiro, máquina de cartão e contexto da abordagem, revela gravidade concreta da conduta.
+A reiteração delitiva do agente constitui fundamento idôneo para a segregação cautelar, por indicar periculosidade e risco de reiteração criminosa.
+A fuga do distrito da culpa demonstra desinteresse na aplicação da lei penal e justifica a manutenção da prisão preventiva.
+Condições pessoais favoráveis, como residência fixa e atividade lícita, não afastam a prisão cautelar quando presentes os requisitos legais.
+Medidas cautelares diversas da prisão mostram-se insuficientes diante da necessidade de resguardar a ordem pública.
+A análise de desclassificação da conduta para uso próprio demanda reexame fático-probatório, incompatível com a via estreita do habeas corpus.
+IV. DISPOSITIVO E TESE
+Recurso desprovido.
+Tese de julgamento: 1. O habeas corpus é incabível como substitutivo de recurso próprio, salvo em caso de flagrante ilegalidade. 2. A prisão preventiva é válida quando fundamentada em elementos concretos, como reiteração delitiva e fuga do distrito da culpa. 3. Condições pessoais favoráveis não afastam a custódia cautelar quando presentes os requisitos do art. 312 do CPP. 4. A substituição por medidas cautelares diversas é incabível quando demonstrada sua insuficiência. 5. A via do habeas corpus não admite reexame aprofundado de provas para fins de descl assificação do delito.
+VOTO
+Presentes os requisitos de admissibilidade, conheço do recurso.
+No mérito, contudo, a irresignação deixa de justificar-se, devendo a decisão atacada ser mantida por seus próprios fundamentos.
+A decisão ora agravada foi proferida nos seguintes termos (fls. 263-265):
+A Quinta Turma do Superior Tribunal de Justiça firmou entendimento no sentido de ser inadequada a impetração de habeas corpus quando utilizado em substituição a recurso próprio.
+A teor do disposto no art. 105, II, a, da CF/88, o recurso cabível contra acórdão que denega a ordem na origem é o recurso ordinário, enquanto, consoante previsto no art. 105, III, da CF, o recurso cabível contra acórdão que julga apelação, recurso em sentido estrito e agravo em execução é o recurso especial.
+Nada impede, contudo, a concessão de habeas corpus de ofício quando constatada a existência de ilegalidade flagrante, abuso de poder ou teratologia, nos termos do art. 654, §2º, do CPP, o que ora se passa a examinar.
+A prisão preventiva justifica-se apenas quando devidamente demonstrada sua imprescindibilidade para a preservação da ordem pública, a garantia da regularidade da instrução criminal ou a asseguração da eficácia da aplicação da lei penal, nos termos do art. 312 do Código de Processo Penal.
+O decreto prisional restou assim fundamentado (fl. 151):
+ ..  No presente caso, com a devida vênia à Defesa, entendo que os requisitos para a conversão da prisão preventiva se mostram presentes. O crime em tese praticado tem pena privativa de liberdade máxima superior a 4 anos (art. 313, inciso I,), bem como é necessária para a garantia da ordem pública e impedir que o autuado volte a delinquir, uma vez que o atuado é reincidente, bem como na data de 15/09/2025 teria se evadido da abordagem policial e dispensado substância semelhante a maconha, vindo a ser preso na data de 23/09/2025, na posse de tabletes de maconha, além da apreensão de certa quantia em dinheiro na posse do autuado e de uma máquina de passar cartão de crédito/débito. Assim, entendo que a prisão preventiva é necessária para fins de garantia da ordem pública e evitar que o autuado volte a delinquir, não sendo o caso de aplicação das medidas cautelares diversas da prisão as quais são insuficientes para fins de garantia da ordem pública e evitar que o autuado volte a delinquir. Com relação a alegação de existência de condições pessoais favoráveis, como a residência fixa e trabalho lícito, entendo que pelo contexto em que apreendida as drogas, corrobora com os elementos trazidos pelos militares no tocante a prática do tráfico de drogas pelo autuado, o que evidencia que as condições pessoais afastam a necessidade da prisão cautelar na espécie.  ..
+Como visto, a prisão preventiva foi decretada com base em decisão fundamentada, com base na garantia da ordem pública, tendo sido o paciente apreendido com 87 gramas de maconha (conforme fl. 58), bem como diante da sua reiteração delitiva e do fato de ter se evadido do distrito da culpa.
+Com efeito, nos casos de prisão em flagrante por tráfico de drogas, a conversão em prisão preventiva pode ser decretada quando a gravidade concreta da conduta se evidencia em fatores como a quantidade e a natureza da substância apreendida, a forma de acondicionamento ou a presença de instrumentos destinados à comercialização, circunstâncias que revelam maior potencial lesivo da conduta e indicam periculosidade do agente, ultrapassando a mera gravidade abstrata do delito.
+Nesse sentido:
+AGRAVO REGIMENTAL EM HABEAS CORPUS. CRIMES DE TRÁFICO DE DROGAS E ADULTERAÇÃO DE SINAL IDENTIFICADOR DE VEÍCULO. ALEGAÇÃO DE INOCÊNCIA. PRISÃO PREVENTIVA. FUNDAMENTAÇÃO. GRANDE QUANTIDADE DE DROGAS. INDÍCIOS DE ENVOLVIMENTO REITERADO. GRAVIDADE CONCRETA DA CONDUTA. SEGREGAÇÃO DEVIDAMENTE JUSTIFICADA PARA A GARANTIA DA ORDEM PÚBLICA. DESPROPORÇÃO EM RELAÇÃO À POSSÍVEL PENA A SER APLICADA. PROGNÓSTICO INVIÁVEL. CONDIÇÕES PESSOAIS FAVORÁVEIS. IRRELEVÂNCIA. MEDIDAS CAUTELARES ALTERNATIVAS. INSUFICIÊNCIA. AUSÊNCIA DE CONSTRANGIMENTO ILEGAL. RECURSO NÃO PROVIDO.
+ .. .
+4. Ademais, "É pacífico o entendimento no sentido de que as circunstâncias fáticas do crime, como a quantidade apreendida, a variedade, a natureza nociva dos entorpecentes, a forma de acondicionamento, entre outros aspectos, podem servir de fundamentos para o decreto prisional quando evidenciarem a periculosidade do agente e o efetivo risco à ordem pública, caso permaneça em liberdade."(AgRg no HC n. 787.386/SP, Rel. Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 13/12/2022, DJe 19/12/2022).
+ ..
+7. Mostra-se indevida a aplicação de medidas cautelares diversas da prisão, quando evidenciada a sua insuficiência para acautelar a ordem pública.
+8. Agravo regimental a que se nega provimento.
+(AgRg no HC n. 957.245/SC, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 12/2/2025, DJEN de 18/2/2025.)
+Ademais, esta Corte Superior firmou orientação no sentido de que a prisão preventiva poderá ser decretada ante o risco concreto de reiteração delitiva, evidenciada na presença de maus antecedentes, reincidência, atos infracionais pretéritos ou até mesmo ações penais em andamento, porquanto indicativos de periculosidade. Veja-se:
+AGRAVO REGIMENTAL NO RECURSO EM HABEAS CORPUS. RÉU CONDENADO POR ROUBO MAJORADO. NEGATIVA DE RECURSO EM LIBERDADE. FUNDAMENTAÇÃO. PERICULOSIDADE DO AGENTE. REITERAÇÃO DELITIVA. SEGREGAÇÃO DEVIDAMENTE JUSTIFICADA PARA A GARANTIA DA ORDEM PÚBLICA. MEDIDAS CAUTELARES ALTERNATIVAS. INSUFICIÊNCIA. AUSÊNCIA DE CONSTRANGIMENTO ILEGAL. RECURSO NÃO PROVIDO.
+ ..
+3. Conforme pacífica jurisprudência desta Corte, "a preservação da ordem pública justifica a imposição da prisão preventiva quando o agente ostentar maus antecedentes, reincidência, atos infracionais pretéritos, inquéritos ou mesmo ações penais em curso, porquanto tais circunstâncias denotam sua contumácia delitiva e, por via de consequência, sua periculosidade" (RHC n. 107.238/GO, Relator Ministro ANTONIO SALDANHA PALHEIRO, Sexta Turma, julgado em 26/2/2019, DJe 12/3/2019). Prisão preventiva, no caso vertente, devidamente justificada para a garantia da ordem pública, nos termos do art. 312 do CPP, visando frear a reiteração delitiva.
+ ..
+7. Agravo regimental a que se nega provimento.
+(AgRg no RHC n. 187.651/GO, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 9/9/2024, DJe de 12/9/2024.)
+Igualmente, a fuga do distrito da culpa configura justificativa válida para a manutenção da medida extrema, " n esse sentido, "Esta Corte Superior possui entendimento consolidado acerca da manutenção da custódia preventiva diante da periculosidade do acusado, evidenciada pela fuga no momento da abordagem, demonstrando total desinteresse na aplicação da lei penal" (HC n. 512.663/SP, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 6/8/2019, DJe 13/8/2019)" (AgRg no HC n. 822.136/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 30/5/2023, DJe de 5/6/2023).
+Destaque-se nesse contexto que " a  presença de condições pessoais favoráveis não impede a imposição da prisão preventiva, quando presentes os requisitos legais" (AgRg no HC n. 990.311/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 22/4/2025, DJEN de 30/4/2025).
+Desse modo, "tendo sido exposta de forma fundamentada e concreta a necessidade da prisão, revela-se incabível sua substituição por outras medidas cautelares mais brandas" (AgRg no HC n. 965.960/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 5/3/2025, DJEN de 10/3/2025).
+Por fim, é oportuno ressaltar que a via eleita é inadequada para a análise de questões acerca da ausência de provas da autoria delitiva e/ou da desclassificação do delito, uma vez que seria necessário reexaminar todo o acervo fático-probatório, procedimento incompatível com os limites estreitos do mandamus.
+Não há, portanto, flagrante ilegalidade que justifique a concessão da ordem de ofício.
+Ante o exposto, não conheço do habeas corpus.
+Inicialmente, o habeas corpus não deve ser manejado como sucedâneo de revisão criminal ou recurso próprio, sendo incabível sua utilização quando se pretende reexame de matéria já apreciada pelas instâncias ordinárias, salvo em hipóteses de flagrante ilegalidade, abuso de poder ou teratologia, nos termos do art. 654, § 2º, do CPP, situação excepcional não evidenciada nos presentes autos.
+Posto isso, observa-se que a prisão preventiva foi mantida com base em fundamentos concretos, como a garantia da ordem pública, uma vez que o agravante foi apreendido com 87g de maconha, circunstância que se soma à sua reiteração delitiva e ao fato de ter se evadido do distrito de culpa.
+Com efeito, esta Corte Superior firmou orientação no sentido de que a prisão preventiva poderá ser decretada ante o risco concreto de reiteração delitiva, evidenciada na presença de maus antecedentes, reincidência, atos infracionais pretéritos ou até mesmo ações penais em andamento, por serem indicativos de periculosidade. A propósito:
+AGRAVO REGIMENTAL NO RECURSO EM HABEAS CORPUS. RÉU CONDENADO POR ROUBO MAJORADO. NEGATIVA DE RECURSO EM LIBERDADE. FUNDAMENTAÇÃO. PERICULOSIDADE DO AGENTE. REITERAÇÃO DELITIVA. SEGREGAÇÃO DEVIDAMENTE JUSTIFICADA PARA A GARANTIA DA ORDEM PÚBLICA. MEDIDAS CAUTELARES ALTERNATIVAS. INSUFICIÊNCIA. AUSÊNCIA DE CONSTRANGIMENTO ILEGAL. RECURSO NÃO PROVIDO.
+1. Para a decretação da prisão preventiva, é indispensável a demonstração da existência da prova da materialidade do crime e a presença de indícios suficientes da autoria. Exige-se, ainda, que a decisão esteja pautada em lastro probatório que se ajuste às hipóteses excepcionais da norma em abstrato (art. 312 do CPP), demonstrada, ainda, a imprescindibilidade da medida. Precedentes do STF e STJ.
+ ..
+3. Conforme pacífica jurisprudência desta Corte, "a preservação da ordem pública justifica a imposição da prisão preventiva quando o agente ostentar maus antecedentes, reincidência, atos infracionais pretéritos, inquéritos ou mesmo ações penais em curso, porquanto tais circunstâncias denotam sua contumácia delitiva e, por via de consequência, sua periculosidade" (RHC n. 107.238/GO, Relator Ministro ANTONIO SALDANHA PALHEIRO, Sexta Turma, julgado em 26/2/2019, DJe 12/3/2019). Prisão preventiva, no caso vertente, devidamente justificada para a garantia da ordem pública, nos termos do art. 312 do CPP, visando frear a reiteração delitiva.
+ ..
+7. Agravo regimental a que se nega provimento.
+(AgRg no RHC n. 187.651/GO, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 9/9/2024, DJe de 12/9/2024; grifos acrescidos.)
+DIREITO PROCESSUAL PENAL. AGRAVO REGIMENTAL. HABEAS CORPUS. TRÁFICO DE DROGAS. PRISÃO PREVENTIVA. MANUTENÇÃO. AGRAVO NÃO PROVIDO.
+I. Caso em exame
+1. Agravo regimental interposto contra decisão que denegou habeas corpus impetrado em favor do agravante, preso em flagrante por suposta prática do crime previsto no art. 33, caput, da Lei n. 11.343/2006, por manter em depósito 16 pedras de crack, pesando 3 gramas.
+2. Após audiência de custódia, foi concedida liberdade provisória ao agravante, mediante medidas cautelares. Contudo, o Tribunal de Justiça de São Paulo revogou a liberdade provisória e decretou a prisão preventiva do agravante.
+II. Questão em discussão
+3. A questão em discussão consiste em saber se a prisão preventiva do agravante está devidamente fundamentada e se é necessária e proporcional, considerando a alegação de constrangimento ilegal e ausência de fundamentação para a segregação cautelar.
+III. Razões de decidir
+4. A prisão preventiva se encontra devidamente fundamentada em dados concretos extraídos dos autos, que evidenciam a necessidade de encarceramento provisório para a garantia da ordem pública, tendo em vista a periculosidade do agravante, mormente, considerando o risco de reiteração criminosa, na medida em que ele -praticou o presente delito menos de um ano após sua desinternação da "Fundação Casa", o que denota sua reiteração na prática de atividades ilícitas-; a justificar a segregação cautelar, diante do risco concreto de reiteração delitiva.
+5. Maus antecedentes, reincidência e atos infracionais pretéritos justificam a imposição de segregação cautelar para evitar a reiteração delitiva e garantir a ordem pública.
+6. Condições pessoais favoráveis, como ocupação lícita e residência fixa, não garantem a revogação da prisão preventiva se há elementos que recomendam a manutenção da custódia cautelar.
+IV. Dispositivo e tese
+7. Agravo não provido.
+(AgRg no HC n. 1.009.124/SP, relator Ministro Messod Azulay Neto, Quinta Turma, julgado em 17/9/2025, DJEN de 24/9/2025; grifos acrescidos.)
+Ressalte-se que a presença de condições pessoais favoráveis não impede a imposição da prisão preventiva, quando presentes os requisitos do art. 312 do CPP. Nesse sentido: AgRg no HC n. 990.311/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 22/4/2025, DJEN de 30/4/2025.
+Com efeito, " a  jurisprudência consolidada do Superior Tribunal de Justiça reconhece que a quantidade, a natureza e a diversidade das substâncias entorpecentes apreendidas constituem fundamentos adequados para a decretação da prisão preventiva" (AgRg no HC n. 1.031.163/SP, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 15/10/2025, DJEN de 22/10/2025.)
+Quanto ao fato do agravante ter se evadido, a jurisprudência do Superior Tribunal de Justiça é pacífica no sentido de que " a  fuga do distrito da culpa é fundamento válido à segregação cautelar, forte da asseguração da aplicação da lei penal, bem como justifica a contemporaneidade da medida em apreço" (AgRg no HC n. 914.054/SP, relator Ministro Jesuíno Rissato, Desembargador Convocado do TJDFT, Sexta Turma, julgado em 12/8/2024, DJe de 16/8/2024).
+Além do mais, conforme pacífica jurisprudência desta Corte, "a preservação da ordem pública justifica a imposição da prisão preventiva quando o agente ostentar maus antecedentes, reincidência, atos infracionais pretéritos, inquéritos ou mesmo ações penais em curso, porquanto tais circunstâncias denotam sua contumácia delitiva e, por via de consequência, sua periculosidade" (RHC n. 107.238/GO, Relator Ministro ANTONIO SALDANHA PALHEIRO, Sexta Turma, julgado em 26/2/2019, DJe 12/3/2019).
+Vale destacar que "a presença de condições pessoais favoráveis não impede a imposição da prisão preventiva, quando presentes os requisitos legais" (AgRg no HC n. 990.311/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 22/4/2025, DJEN de 30/4/2025).
+Desse modo, "tendo sido exposta de forma fundamentada e concreta a necessidade da prisão, revela-se incabível sua substituição por outras medidas cautelares mais brandas" (AgRg no HC n. 965.960/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 5/3/2025, DJEN de 10/3/2025).
+Não há, portanto, flagrante ilegalidade que justifique a concessão da ordem de ofício.
+Ante o exposto, nego provimento ao agravo regimental.
+É o voto.
