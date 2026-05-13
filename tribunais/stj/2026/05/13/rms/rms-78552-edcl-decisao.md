@@ -1,0 +1,15 @@
+DECISÃO
+Trata-se  de  embargos  de  declaração  opostos  por  JOAO PAULO DA SILVA SOUZA contra  decisão de minha relatoria que negou provimento ao recurso ordinário em mandado de segurança.
+Nas  razões  do  recurso integrativo (fls. 120-123),  o embargante alega que a decisão embargada é omissa, porque não teria observado a existência de fato superveniente comprovado nos autos, consistente na restituição, pela autoridade policial, de toda a documentação legal da arma e dos acessórios, o que revelaria a regularidade da propriedade e infirmaria a manutenção da decisão que decretou o perdimento do bem.
+Requer, portanto, o acolhimento dos embargos de declaração, com efeitos infringentes, para que sejam sanados os vícios imputados ao acórdão embargado, com a consequente determinação de devolução do artefato bélico.
+É  o  relatório. DECIDO.
+O recurso integrativo não comporta conhecimento, porque se revela manifestamente intempestivo.
+Com efeito, a teor do disposto nos artigos 619 do CPP e 263 do Regimento Interno do Superior Tribunal de Justiça, o prazo para a oposição dos embargos de declaração, em matéria criminal, é de 2 (dois) dias.
+Sobre o tema, ressalto que não se aplica ao caso o prazo de 5 (cinco) dias previsto no art. 1.023 do CPC, pois, em matéria penal, aplicam-se as regras previstas no CPC apenas subsidiariamente, a teor do art. 3º do CPP.
+Desse modo, como o prazo para a oposição de embargos de declaração em feitos criminais possui regramento próprio estabelecido no art. 619 do CPP, o qual não foi alterado em razão do advento do CPC de 2015, permanece fixado em 2 (dois) dias corridos.
+Nesse sentido: "São intempestivos os embargos de declaração opostos após o prazo de 2 (dois) dias contínuos de que tratam os arts. 263 do Regimento Interno do Superior Tribunal de Justiça - RISTJ, 619 e 798, ambos do Código de Processo Penal - CPP." (EDcl nos EDcl no AgRg nos EAREsp n. 2.068.740/RS, Terceira Seção, Rel. Min. Joel Ilan Paciornik, DJe de 11/3/2024).
+Em reforço: "Constata-se que os embargos de declaração são intempestivos, pois foram interpostos fora do prazo legal, nos termos do que dispõem os arts. 619 e 798 do Código de Processo Penal. 2. O Processo Penal segue o Processo Civil apenas no que não haja norma específica. 3. Prazos recursais penais apresentam peculiaridades, a que a parte deve atender, sob pena de preclusão de direitos." (AgRg nos EDcl no AREsp n. 2.388.991/BA, Quinta Turma, Relª. Minª. Daniela Teixeira, DJe de 22/8/2024).
+Fixadas as premissas acima, verifico que, na hipótese, a decisão embargada foi publicada em 27/4/2026 (fl. 116, segunda-feira), de modo que o decurso do prazo legal teve início em 28/4/2026 (terça-feira) e fim no dia 29/4/2026 (quarta-feira). Porém a petição de oposição dos embargos de declaração só veio a ser recebida neste Tribunal em 4/5/2026 (fl. 120), fora, portanto, do prazo legal, conforme os termos da certidão de fl. 124.
+Ante o exposto, não conheço dos embargos de declaração.
+Publique-se. Intimem-se.
+EMENTA
