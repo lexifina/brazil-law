@@ -1,0 +1,7 @@
+Art. 6º-A. A impugnação do sujeito passivo à Notificação de Lançamento efetuada sem intimação prévia, ou sem atendimento à intimação, e sem apresentação anterior de Solicitação de Retificação de Lançamento, terá o seguinte tratamento:
+I - os documentos apresentados e demais questões de fato alegadas serão analisados pela autoridade lançadora ou revisora a que se refere o § 1º do art. 6º;
+II - da análise de que trata o inciso I, da qual será emitido despacho decisório, poderá resultar revisão de lançamento para cancelamento ou redução da exigência;
+III - será dada ciência ao sujeito passivo da decisão de que trata o inciso II, com abertura de prazo para manifestação relativa ao despacho decisório, em vinte dias úteis, no caso de remanescer a exigência no todo ou em parte;
+IV - a impugnação será submetida a julgamento, nos termos do Decreto nº 70.235, de 6 de março de 1972, juntamente com a eventual manifestação de que trata o inciso III.
+§ 1º O disposto no caput é aplicável a processos em tramitação nas DRJ, para os quais não tenha havido prévia manifestação por parte da autoridade lançadora, acerca das situações fáticas que ensejaram o lançamento, inclusive nos casos de processos instaurados com base no procedimento estabelecido pela Instrução Normativa SRF nº 579, de 8 de dezembro de 2005.
+§ 2º Na situação de que trata o § 1º, as questões de fato poderão, a critério da autoridade julgadora, ser imediatamente por ela analisadas.
