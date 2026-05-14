@@ -1,0 +1,28 @@
+Trata-se de agravo interposto contra decisão da 3ª Turma Recursal dos Juizados Especiais do Tribunal de Justiça do Estado de Santa Catarina – TJSC, que negou seguimento ao recurso extraordinário em razão da ofensa indireta ou reflexa da suposta violação constitucional, uma vez que seria necessário o exame da interpretação dada à legislação infraconstitucional para a exata compreensão da controvérsia (doc. 21).
+
+O agravante, em síntese, defende que teria havido afronta ao entendimento firmado no Tema 6 da Repercussão Geral (doc. 23).
+
+É o relatório. Decido.
+
+A pretensão recursal não merece acolhida.
+
+Isso porque o recorrente não indicou os dispositivos da Constituição da República que teriam sido violados pelo acórdão recorrido, o que evidencia a deficiência na fundamentação do recurso extraordinário e atrai a incidência da Súmula 284/STF. Nesse sentido, destaco julgados do Plenário do Supremo Tribunal Federal:
+
+DIREITO DO TRABALHO. AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. AUSÊNCIA DE INDICAÇÃO DE DISPOSITIVO CONSTITUCIONAL VIOLADO. INADMISSIBILIDADE. APLICAÇÃO DA SÚMULA 284 DO STF. DESPROVIMENTO. I. CASO EM EXAME 1. Agravo regimental interposto contra decisão que negou seguimento a recurso extraordinário com agravo, em razão da ausência de indicação do dispositivo constitucional supostamente violado. 2. O agravante pretende a reforma da decisão, argumentando que o acórdão recorrido viola a jurisprudência deste Tribunal. II. QUESTÃO EM DISCUSSÃO 3. A questão em discussão consiste em saber se há ausência de indicação expressa do dispositivo constitucional supostamente violado pelo Tribunal de origem, no momento da interposição do recurso extraordinário. III. RAZÕES DE DECIDIR 4. O recurso não merece prosperar, pois o agravante deixou de indicar o dispositivo constitucional supostamente violado, o que atrai a incidência da Súmula 284 do Supremo Tribunal Federal. 5. A jurisprudência do Supremo Tribunal Federal é firme no sentido de que é ônus processual do recorrente apontar expressamente os dispositivos constitucionais que supostamente foram afrontados pelo Tribunal de origem, quando da interposição do recurso. 6. Não basta a mera alusão a precedentes ou a indicação posterior ao recurso extraordinário. IV. DISPOSITIVO 7. Agravo regimental desprovido (ARE 1.566.644 AgR/BA, Rel. Min. Edson Fachin, Presidente, Tribunal Pleno, DJe 27/11/2025 — grifei).
+
+DIREITO TRIBUTÁRIO. AGRAVO INTERNO EM RECURSO EXTRAORDINÁRIO COM AGRAVO. CONTRIBUIÇÃO PREVIDENCIÁRIA. FÉRIAS GOZADAS. AUSÊNCIA DE INDICAÇÃO DOS DISPOSITIVOS VIOLADOS. CONTROVÉRSIA DE ÍNDOLE INFRACONSTITUCIONAL. 1. Agravo interno contra decisão que negou seguimento a recurso extraordinário com agravo, o qual tem por objeto acórdão que reformou em parte sentença de improcedência da ação. 2. Hipótese em que a parte recorrente deixou de indicar os dispositivos constitucionais supostamente violados pelo acórdão proferido pelo Tribunal de origem. Incidência da Súmula 284/STF. 3. Para dissentir do entendimento firmado pelo Tribunal de origem, seria necessário analisar a legislação infraconstitucional aplicada ao caso, assim como reexaminar fatos e provas constantes dos autos, procedimentos vedados neste momento processual (Súmula 279/STF). 4. Inaplicável o art. 85, § 11, do CPC/2015, uma vez que não houve prévia fixação de honorários advocatícios de sucumbência. 5. Agravo interno a que se nega provimento (ARE 1.480.056 AgR/RJ, Rel. Min. Luís Roberto Barroso, Presidente, DJe 8/5/2024 — grifei).
+
+DIREITO PREVIDENCIÁRIO. CONCESSÃO DE BENEFÍCIO. APOSENTADORIA ESPECIAL. AUSÊNCIA DE INDICAÇÃO DO DISPOSITIVO CONSTITUCIONAL VIOLADO. DEFICIÊNCIA DE FUNDAMENTAÇÃO. SÚMULA Nº 284/STF. AGRAVO NÃO PROVIDO. 1. Consabido competir a este Supremo Tribunal Federal, nos termos da alínea ‘a’, do art. 102, III, da Lei Maior, julgar, mediante recurso extraordinário, as causas decididas em única ou última instância, quando a decisão recorrida contrariar dispositivo da Constituição Federal. A ausência de indicação do dispositivo contrariado atrai a aplicação do entendimento jurisprudencial vertido na Súmula nº 284/STF: ‘é inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia’. 2. As razões do agravo interno não se mostram aptas a infirmar os fundamentos que lastrear. 3. A teor do art. 85, § 11, do CPC, o “tribunal, ao julgar recurso, majorará os honorários fixados anteriormente levando em conta o trabalho adicional realizado em grau recursal, observando, conforme o caso, o disposto nos §§ 2º a 6º, sendo vedado ao tribunal, no cômputo geral da fixação de honorários devidos ao advogado do vencedor, ultrapassar os respectivos limites estabelecidos nos §§ 2º e 3º para a fase de conhecimento”. 4. Agravo interno conhecido e não provido (ARE 1.401.375 AgR/RJ, Rel. Min. Rosa Weber, Presidente, DJe 6/6/2023 —grifei).
+
+Além disso, para divergir do acórdão recorrido e verificar a procedência dos argumentos consignados no recurso extraordinário, seria necessário o reexame do conjunto fático-probatório dos autos — o que é vedado pela Súmula 279/STF — e da legislação infraconstitucional (Lei n. 13.105/2015), de modo que eventual ofensa à Constituição Federal seria indireta.
+
+Posto isso, nego provimento ao recurso (art. 932 do CPC).
+
+Advirto que a interposição de recurso contra esta decisão monocrática pode acarretar a imposição da multa prevista no art. 1.021, § 4º, do CPC, bem como majoração dos honorários advocatícios, nos termos do art. 85, § 11, do mesmo Código.
+
+Publique-se.
+
+Brasília, 14 de maio de 2026.
+
+Ministro Cristiano Zanin
+Relator
