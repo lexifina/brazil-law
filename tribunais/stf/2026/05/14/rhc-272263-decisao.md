@@ -1,0 +1,58 @@
+Trata-se de recurso ordinário em habeas corpus interposto contra acórdão proferido pela Quinta Turma do Superior Tribunal de Justiça — STJ, que negou provimento ao agravo regimental no Habeas Corpus — HC 1.072.867/SC, nos termos da seguinte ementa:
+
+PROCESSO PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS. INADEQUAÇÃO DA VIA ELEITA. EXAME DE ILEGALIDADE FLAGRANTE. INEXISTÊNCIA. REFORMATIO IN PEJUS. NÃO OCORRÊNCIA. AMPLA DEVOLUTIVIDADE DA APELAÇÃO. FUNDAMENTAÇÃO PRÓPRIA DO TRIBUNAL PARA MANTER A DOSIMETRIA SEM AGRAVAR A SITUAÇÃO DO RÉU. ART. 155 DO CPP. ÓBICE DA SUPRESSÃO DE INSTÂNCIA. REDUTOR DO ART. 33, § 4º, DA LEI 11.343/2006. NECESSIDADE DE REVOLVIMENTO FÁTICO-PROBATÓRIO. INVIABILIDADE NA VIA ELEITA. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. O habeas corpus não constitui sucedâneo de recurso próprio, ressalvada a concessão de ofício quando presente flagrante ilegalidade. Na espécie, em homenagem à ampla defesa, as alegações foram examinadas e não se verificou constrangimento ilegal.
+2. A alegada reformatio in pejus não se configura. A ampla devolutividade da apelação autoriza o Tribunal a adotar fundamentação própria para manter a dosimetria e o regime fixados na sentença, em recurso exclusivo da defesa, desde que não agravada a situação do réu (AgRg no HC n. 706.077/SP, relator Ministro Messod Azulay Neto, Quinta Turma, DJe de 2/3/2023).
+3. A tese de violação ao art. 155 do CPP não foi apreciada pelo Tribunal de origem, impondo o óbice da supressão de instância.
+4. O reconhecimento do redutor do art. 33, § 4º, da Lei 11.343/2006 demanda aferição das circunstâncias do caso e implicaria revolvimento do conjunto fático-probatório, providência incompatível com a via estreita do habeas corpus (HC n. 406.667/RS, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe de 11/10/2017).
+5. Agravo regimental não provido (doc. 62).
+
+ Neste recurso ordinário, busca-se:
+
+a) O recebimento e processamento do presente Recurso Ordinário em Habeas Corpus, com intimação do Ministério Público Federal para contra-arrazoar;
+b) A concessão de medida liminar para suspender os efeitos do acórdão do TJSC no ponto em que afastou o tráfico privilegiado, com a aplicação provisória do redutor legal e o consequente redimensionamento da pena e do regime, determinando-se a expedição de alvará de soltura em favor do recorrente;
+c) No mérito, em caráter principal, o provimento do recurso para anular o acórdão do TJSC especificamente quanto à fundamentação que afastou o tráfico privilegiado, por configurar reformatio in pejus qualitativa em recurso exclusivo da defesa, com determinação de retorno dos autos ao Tribunal de origem para novo julgamento;
+d) Subsidiariamente, o reconhecimento da nulidade do acórdão por violação ao art. 155 do CPP, ante a fundamentação exclusiva em elementos inquisitoriais não submetidos ao contraditório judicial, com determinação de novo julgamento;
+e) Subsidiariamente, o reconhecimento direto da causa especial de diminuição de pena do art. 33, §4º, da Lei nº 11.343/2006, no patamar de 2/3 (dois terços), com o redimensionamento da pena para 1 (um) ano e 8 (oito) meses de reclusão, fixação de regime aberto, substituição por restritivas de direitos e expedição de alvará de soltura;
+f) Em qualquer hipótese de provimento, a expedição imediata de alvará de soltura clausulado em favor do recorrente, se por outro motivo não estiver preso, ou, alternativamente, a imposição de medidas cautelares diversas da prisão (art. 319, CPP). (Doc. 67, pp. 6-7).
+
+É o relatório. Decido.
+
+Este habeas corpus é inviável.
+
+Inicialmente, registro que, em consulta ao site do Superior Tribunal de Justiça (AREsp 2.972.295/SC), verifiquei que a condenação ora impugnada transitou em julgado em 19/8/2025. Com efeito, a jurisprudência do Supremo Tribunal Federal admite a impetração de habeas corpus como sucedâneo de revisão criminal apenas em hipóteses absolutamente excepcionais, marcadas por manifesta ilegalidade ou teratologia — circunstâncias que, contudo, não se verificam no caso concreto.
+
+Com essa compreensão: HC 232.304/SP, da minha relatoria, DJe 16/10/2023; HC 227.171/RO, Rel. Min. Gilmar Mendes, DJe 21/8/2023; HC 226.627/SP, Rel. Min. Cármen Lúcia, DJe 17/5/2023; HC 213.136 AgR/SP, Rel. Min. André Mendonça, DJe 2/9/2022; HC 193.112 AgR/SP, Rel. Min. Edson Fachin, DJe 4/3/2021; RHC 146.497 AgR/MG, Rel. Min. Rosa Weber, DJe 7/12/2020; HC 140.228/SP, Redator do acórdão Min. Alexandre de Moraes, DJe 16/12/2020; HC 128.588 AgR/SP, Redator do acórdão Min. Luís Roberto Barroso, DJe 22/11/2019; e RHC 135.548 AgR/MS, Rel. Min. Luiz Fux, DJe 11/5/2017.
+
+No caso, para afastar as alegações defensivas e negar provimento ao agravo regimental, o STJ destacou os seguintes aspectos:
+
+O agravo não comporta provimento.
+A ordem não foi conhecida uma vez que, de acordo com a nossa sistemática recursal, o recurso cabível contra acórdão do Tribunal de origem que denega a ordem no habeas corpus é o recurso ordinário, consoante dispõe o art. 105, II, “a”, da Constituição Federal. Do mesmo modo, o recurso adequado contra acórdão que julga apelação ou recurso em sentido estrito é o recurso especial, nos termos do art. 105, III, da Constituição Federal.
+Assim, o habeas corpus não pode ser utilizado como substituto de recurso próprio, a fim de que não se desvirtue a finalidade dessa garantia constitucional, com a exceção de quando a ilegalidade apontada é flagrante, hipótese em que se concede a ordem de ofício.
+No caso, em homenagem ao princípio da ampla defesa, foram examinadas as alegações defensivas, não se verificando, entretanto, constrangimento ilegal a ser sanado.
+A defesa sustenta reformatio in pejus qualitativa na negativa do tráfico privilegiado.
+Quanto a esse ponto, a Magistrada de primeiro grau, ao fixar a reprimenda, assentou (e-STJ fls. 29/30):
+“Por fim, na terceira fase, inexistem causas de aumento ou diminuição a serem consideradas, razão pela qual fixo a pena definitiva em 5 (cinco) anos de reclusão e 500 (quinhentos) dias-multa para o delito descrito no artigo 33, caput, da Lei n. 11.343/06.”
+No desenvolvimento do mérito, anotou a existência de dados extraídos do aparelho celular do réu como indicativos de prática habitual da traficância (e-STJ fl. 28):
+“Registra-se que, apesar de o acusado ter dito em seu interrogatório que apenas estava realizando o transporte da droga, há nos autos indícios de que o réu se dedica a atividades criminosas, sobretudo diante da quantidade e variedade de entorpecentes com ele apreendidos e dos dados extraídos do celular do réu que revelam a prática habitual da traficância (evento 100, REL_MISSAO_POLIC1).”
+O Tribunal de Justiça, por sua vez, ao apreciar a apelação exclusiva da defesa, enfrentou o pleito do tráfico privilegiado nos seguintes termos (e-STJ fls. 10/11):
+“2. Já no mérito, pleiteia a defesa tão somente o reconhecimento da causa especial de diminuição de pena, referente ao tráfico privilegiado, previsto no art. 33, §4º, da Lei n. 11.343/06. Todavia, o pleito não merece prosperar. O benefício anotado no art. 33, §4º, da Lei n. 11.343/06, somente poderá ser concedido se preenchidos de forma cumulativa os requisitos legais, a saber: a) primariedade; b) bons antecedentes; e c) não dedicação às atividades criminosas nem integrar organização criminosa. Segundo entendimento jurisprudencial dominante, a aferição da dedicação às atividades criminosas do agente pode ser extraída de quaisquer elementos probatórios constantes nos autos. No entanto, por óbvio, é necessário que o magistrado fundamente a sua convicção, atendo-se ao contexto apurado no caderno processual - quantidade/variedade de drogas apreendidas sempre associadas a outras circunstâncias, tais como, extração de dados em dispositivos, conexão com membros de facções criminosas, apreensão de apetrechos, etc. -, não devendo fazer suposições, tampouco valer-se de ações penais em curso - conforme já pacificado pela Corte Superior. No caso dos autos, embora a magistrada de Primeiro Grau não tenha feito menção quanto a negativa do benefício, tem-se que ainda assim, a hipótese não se mostra aplicável, considerando que da análise dos dados do aparelho celular do acusado, é possível observar que o tráfico era realizado com habitualidade por ele, vide conversas extraídas de seu smartphone, as quais dão conta da exploração contínua e reiterada do comércio ilícito (evento 100, REL_MISSAO_POLIC1). […] Portanto, sem embargo à perspectiva da defesa, as provas sobejam quanto ao envolvimento do acusado em atividades criminosas, de modo a representar óbice à concessão do benefício postulado no art. 33, §4º, da Lei n. 11.343/06.”
+Assim assentado, não se verifica a alegada reformatio in pejus. A jurisprudência desta Corte afirma que o amplo efeito devolutivo da apelação autoriza a adoção, pelo Tribunal, de fundamentação própria para manter a dosimetria e o regime fixados na sentença, mesmo em recurso exclusivo da defesa, desde que não agravada a situação do réu (AgRg no HC n. 706.077/SP, relator Ministro Messod Azulay Neto, Quinta Turma, DJe de 2/3/2023; AgRg no HC n. 842.700/PR, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe de 1º/3/2024; AgRg no AREsp n. 2.262.329/SP, relator Ministro Jesuíno Rissato, Sexta Turma, DJe de 26/4/2024).
+Não houve aumento de pena ou agravamento do regime em segundo grau. O acórdão apenas examinou a tese defensiva do redutor à luz do conjunto probatório e manteve a reprimenda nos exatos termos da sentença. Inexistente, portanto, o vício apontado.
+Em sequência, a defesa afirma violação ao art. 155 do CPP, por suposto apoio exclusivo do acórdão em elementos inquisitoriais. Sobre o tema, como já destacado, o Tribunal a quo afastou o redutor com base nas “conversas extraídas de smartphone” referidas no relatório policial impede seu exame por esta Corte, sob pena de indevida supressão de instância (AgRg no HC n. 820.927/RJ, relatora Ministra Laurita Vaz, Sexta Turma, DJe de 14/9/2023; HC n. 179.085, relator Ministro Marco Aurélio, Primeira Turma, DJe de 25/9/2020).
+Não há falar, pois, em superação do óbice, porquanto não se trata de nulidade absoluta reconhecida na origem. A via do habeas corpus demanda prova pré-constituída da ilegalidade e a questão, como trazida, carece de prévio enfrentamento pelas instâncias ordinárias.
+Sustenta-se, ainda, que a incidência do redutor do art. 33, § 4º, da Lei n. 11.343/2006 seria questão de direito, dispensando reexame fático-probatório. O argumento não procede. O reconhecimento da causa de diminuição exige a aferição cumulativa de requisitos – primariedade, bons antecedentes e ausência de dedicação a atividades criminosas –, cujo exame se faz à luz das circunstâncias do caso. No acórdão, assentou-se, com base no acervo probatório, que o agravante se dedicava reiteradamente à traficância, o que afasta o benefício. A alteração dessa conclusão demandaria revolvimento da moldura fática e probatória, inviável na via eleita (HC n. 406.667/RS, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe de 11/10/2017)
+Ante o exposto, nego provimento ao agravo regimental (doc. 63 — grifei).
+
+Diante das circunstâncias específicas do caso em análise, não verifico a ocorrência de teratologia ou ilegalidade flagrante que autorize a superação do óbice processual decorrente do trânsito em julgado da condenação.
+
+Posto isso, nego seguimento a este habeas corpus (art. 21, § 1º, do Regimento Interno do STF).
+
+Após transcorrido o prazo recursal da defesa — sucumbente — certifique-se o trânsito em julgado e proceda-se à baixa dos autos.
+
+Publique-se.
+
+Brasília, 14 de maio de 2026.
+
+Ministro Cristiano Zanin
+Relator
