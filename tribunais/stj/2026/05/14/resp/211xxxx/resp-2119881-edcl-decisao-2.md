@@ -1,0 +1,23 @@
+DECISÃO
+Trata-s e de embargos de declaração opostos por ALEXANDRE MARCOS TAVARES ABREU contra decisão singular de minha lavra na qual se conheceu do recurso especial do Banco do Brasil S.A. e se deu provimento para reconhecer sua ilegitimidade passiva em demanda de revisão de benefício de previdência complementar, extinguindo o processo, sem resolução de mérito, em relação ao patrocinador, nos termos do art. 485, VI, do Código de Processo Civil, aplicando o Tema 936 do Superior Tribunal de Justiça e registrando a prejudicialidade das demais alegações por ausência de utilidade prática (fls. 1486-1489).
+Nas razões do seu recurso, a parte embargante alega omissão quanto ao não julgamento do recurso especial interposto pela Caixa de Previdência dos Funcionários do Banco do Brasil, sustenta que a decisão mencionou ambos os recursos especiais, mas apreciou apenas o apelo do Banco, requerendo complementação do julgado para enfrentar teses de juros, honorários e multa processual (fl. 1496).
+Assinala contradição interna, argumentando que o caso se enquadra na ressalva do Tema 936 do Superior Tribunal de Justiça, por envolver perdas decorrentes de não pagamento de horas extras, com repercussões no benefício complementar, transcrevendo trechos do REsp 1.370.191/RJ e requerendo manutenção do Banco do Brasil S.A. no polo passivo (fls. 1497-1498).
+Impugnação aos embargos de declaração às fls. 1513-1516 na qual a PREVI adere ao reconhecimento da omissão e requer a apreciação do seu recurso especial.
+Impugnação aos embargos de declaração às fls. 1517-1523 na qual o Banco do Brasil S.A. defende a ausência de omissão e contradição, afirma que os embargos visam rediscutir o mérito e requer a aplicação de multa do art. 1.026, § 2º, do CPC.
+Assim delimitada a questão, passo a decidir.
+Os embargos merecem parcial acolhimento.
+Com efeito, procede a alegação de omissão quanto à ausência de apreciação do recurso especial interposto pela PREVI, circunstância que já foi reconhecida e ora sanada em decisão apartada, na qual se procedeu ao exame do inconformismo da referida entidade.
+Não se verifica, todavia, omissão ou contradição quanto aos fundamentos adotados no capítulo em que se apreciou o recurso especial do Banco do Brasil S.A.
+Conforme consignado na decisão embargada, o julgamento enfrentou exclusivamente o recurso especial do Banco do Brasil S.A., capítulo autônomo de ilegitimidade passiva em ação de revisão de benefício complementar.
+A decisão firmou que o litígio é estritamente previdenciário, aplicou o Tema 936 e concluiu pela extinção em relação ao patrocinador, com fundamento no art. 485, VI, do CPC.
+Em seguida, esclareceu que, diante do provimento pelo capítulo de ilegitimidade, ficam prejudicadas as demais alegações formuladas com fundamento nos arts. 489, § 1º, IV e V, e 1.022 do CPC, por ausência de utilidade prática (fl. 1489).
+Nesse contexto, não se configura omissão, pois o julgamento delimitou o objeto e resolveu o recurso apreciado, sem dever de examinar, na mesma decisão, recurso especial diverso interposto por parte distinta.
+Quanto à apontada contradição, a decisão foi coerente ao enquadrar a demanda como discussão de revisão de benefício de previdência complementar, sem pretensão indenizatória contra o patrocinador.
+O texto embargado destacou a ressalva do Tema 936 para hipóteses de causa de pedir fundada em ato ilícito do patrocinador, a serem buscadas na via adequada, e afastou a presença do patrocinador no polo passivo.
+A transcrição feita pelo embargante não demonstra incoerência interna da decisão, mas inconformismo com a fundamentação adotada.
+Cumpre reforçar que "o julgador não está obrigado a responder a todas as questões suscitadas pelas partes, quando já tenha encontrado motivo suficiente para proferir a decisão" (EDcl no AgRg nos EREsp 1.483.155/BA, Rel. Ministro OG FERNANDES, CORTE ESPECIAL, julgado em 15/6/2016, DJe 3/8/2016).
+Ademais, os embargos de declaração não se prestam para rediscutir questões já devidamente tratadas, não há "( ) que se confundir decisão contrária aos interesses da parte e negativa de prestação jurisdicional, nem fundamentação sucinta com ausência de fundamentação" (EDcl no AgRg nos EREsp 1.213.226/SC, Rel. Ministro RAUL ARAÚJO, CORTE ESPECIAL, julgado em 24/10/2016, DJe 22/11/2016).
+Por fim, inviável a aplicação da multa pleiteada na impugnação, pois a mera interposição de recurso legalmente previsto não caracteriza, por si só, intuito manifestamente protelatório.
+Em face do exposto, acolho parcialmente os embargos de declaração, apenas para sanar a omissão apontada, sem efeitos modificativos.
+Intimem-se.
+EMENTA
