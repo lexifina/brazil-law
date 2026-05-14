@@ -1,0 +1,87 @@
+Trata-se de reclamação, com pedido liminar, proposta pelo Estado da Bahia, contra decisão proferida pela 20ª Vara da Fazenda Pública, no Processo n. 8202273 37.2025.8.05.0001, para garantir a observância da tese fixada pelo Supremo Tribunal no julgamento da Ação Direta de Inconstitucionalidade – ADI 7.265/DF.
+
+O reclamante relata que:
+
+GABRIELA GUIMARÃES FORTE e BEATRIZ GUIMARÃES FORTE,  beneficiárias do PLANSERV – Plano de Assistência à Saúde dos Servidores  Públicos do Estado da Bahia, portadoras de diagnóstico de Ataxia de Friedreich  (CID G11.1), ajuizaram ação de obrigação de fazer (Processo nº 8202273 37.2025.8.05.0001) perante a 20ª Vara da Fazenda Pública da Comarca de  Salvador, postulando o fornecimento do medicamento Omaveloxolona (Skyclarys)  50mg, de uso contínuo.
+Em 08/04/2026, o Juízo da 20ª Vara da Fazenda Pública deferiu o pedido  de tutela de urgência para determinar o fornecimento do medicamento, com  fundamento na Nota Técnica do NatJus e no registro da Omaveloxolona perante a  ANVISA em 2025.
+[...]
+A decisão reclamada, ao manter a tutela de urgência sem verificar o  preenchimento cumulativo de todos os requisitos fixados pelo STF na ADI 7.265,  contraria diretamente a autoridade do precedente vinculante desta Corte, o que  impõe o ajuizamento da presente Reclamação Constitucional.
+No julgamento da ADI 7.265/DF, o Plenário do Supremo Tribunal Federal,  por maioria, conferiu interpretação conforme à Constituição ao art. 10, § 13, da Lei  nº 9.656/1998 (incluído pela Lei nº 14.454/2022), fixando com caráter vinculante e  erga omnes que a obrigação de cobertura de tecnologia não constante do Rol da  ANS somente pode ser judicialmente imposta mediante o preenchimento  CUMULATIVO dos seguintes requisitos:
+No julgamento da ADI 7.265/DF, o Plenário do Supremo Tribunal Federal,  por maioria, conferiu interpretação conforme à Constituição ao art. 10, § 13, da Lei  nº 9.656/1998 (incluído pela Lei nº 14.454/2022), fixando com caráter vinculante e  erga omnes que a obrigação de cobertura de tecnologia não constante do Rol da  ANS somente pode ser judicialmente imposta mediante o preenchimento  CUMULATIVO dos seguintes requisitos:
+• Prescrição por médico ou odontólogo assistente responsável (Requisito I);
+• Inexistência de decisão da ANS negando o tratamento ou de análise  pendente pela agência (Requisito II);
+ • Ausência de outro tratamento eficaz e adequado (alternativa terapêutica) já  previsto no Rol da ANS (Requisito III);  • Comprovação científica robusta de que o tratamento funciona e é seguro, à  luz da medicina baseada em evidências (Requisito IV);
+• Registro do tratamento na ANVISA (Requisito V).
+O caráter CUMULATIVO desses requisitos é inequívoco: a ausência de  qualquer deles é suficiente para afastar a obrigação judicial de cobertura, sem  exceção. O STF expressamente assentou que o juiz não pode substituir a função e  a análise técnica da ANS, de modo que a ausência de incorporação regulatória  reflete avaliação técnica especializada sobre a insuficiência das evidências  disponíveis.
+[...]
+Com efeito, as evidências disponíveis sobre a Omaveloxolona derivam  exclusivamente do Estudo MOXIe – Fase 2, com as seguintes limitações  determinantes, devidamente demonstradas nos autos:
+[...]
+A decisão reclamada, ao dispensar a análise rigorosa do Requisito IV e  equiparar a mera Nota Técnica do NatJus à exigência de comprovação científica  robusta, contrariou frontalmente o paradigma da ADI 7.265/DF.
+[...]
+A decisão reclamada, ao reconhecer que o tratamento multidisciplinar  convencional não modifica o curso da doença e, a partir daí, concluir pela  inexistência de alternativa terapêutica adequada, adotou premissa que excede o  requisito da ADI 7.265/DF. O precedente vinculante não exige que a alternativa disponível seja curativa ou modificadora de doença, mas apenas que seja eficaz e  adequada para o caso. A abordagem multidisciplinar é reconhecida como padrão  terapêutico para a Ataxia de Friedreich, conforme a própria Nota Técnica do NatJus  citada nos autos.
+[...]
+Acrescente-se que o medicamento obteve registro na ANVISA apenas em  2025, após a vinculação das beneficiárias ao plano, sendo juridicamente descabida  a imposição retroativa de cobertura não prevista quando da celebração do vínculo,  sob pena de violação ao equilíbrio atuarial e econômico-financeiro do PLANSERV (doc. 1, pp. 2-7).
+
+Ao final,  requer:
+
+O JULGAMENTO DEFINITIVO PROCEDENTE da presente Reclamação  Constitucional, para: (a) cassar a decisão reclamada; e (b) determinar que o  juízo da 20a Vara proceda à análise individualizada e cumulativa dos cinco  requisitos fixados na ADI 7.265/DF, especialmente quanto à comprovação  científica robusta (Requisito IV) e à inexistência de alternativa terapêutica  adequada (Requisito III); (doc. 1, p. 8).
+
+É o relatório. Decido.
+
+Preliminarmente, observo que a ação está apta a ser julgada; por isso, deixo de requisitar as informações e de enviar o feito à Procuradoria- Geral da República (arts. 52, parágrafo único, e 161, parágrafo único, ambos do Regimento Interno do Supremo Tribunal Federal – RISTF).
+
+A demanda é procedente, pois a decisão impugnada afronta precedente vinculante do Supremo Tribunal Federal, como será explicitado.
+
+Conforme relatado,  o reclamante sustenta que o ato impugnado descumpriu o entendimento firmado por esta Suprema Corte na ADI 7.265/DF, em que se conferiu interpretação conforme à Constituição ao § 13 do art. 10 da Lei n. 9.656/1998, incluído pela Lei n. 14.454/2022, nos termos da seguinte tese:
+
+1. É constitucional a imposição legal de cobertura de tratamentos ou procedimentos fora do rol da ANS, desde que preenchidos os parâmetros técnicos e jurídicos fixados nesta decisão. 2. Em caso de tratamento ou procedimento não previsto no rol da ANS, a cobertura deverá ser autorizada pela operadora de planos de assistência à saúde, desde que preenchidos, cumulativamente, os seguintes requisitos:(i) prescrição por médico ou odontólogo assistente habilitado; (ii) inexistência de negativa expressa da ANS ou de pendência de análise em proposta de atualização do rol (PAR); (iii) ausência de alternativa terapêutica adequada para a condição do paciente no rol de procedimentos da ANS; (iv) comprovação de eficácia e segurança do tratamento à luz da medicina baseada em evidências de alto grau ou ATS, necessariamente respaldadas por evidências científicas de alto nível; e (v) existência de registro na Anvisa. 3. A ausência de inclusão de procedimento ou tratamento no rol da ANS impede, como regra geral, a sua concessão judicial, salvo quando preenchidos os requisitos previstos no item 2, demonstrados na forma do art. 373 do CPC. Sob pena de nulidade da decisão judicial, nos termos do art. 489, §1º, V e VI, e art. 927, III, §1º, do CPC, o Poder Judiciário, ao apreciar pedido de cobertura de procedimento ou tratamento não incluído no rol, deverá obrigatoriamente: (a) verificar se há prova do prévio requerimento à operadora de saúde, com a negativa, mora irrazoável ou omissão da operadora na autorização do tratamento não incorporado ao rol da ANS; (b) analisar o ato administrativo de não incorporação pela ANS à luz das circunstâncias do caso concreto e da legislação de regência, sem incursão no mérito técnico-administrativo; (c) aferir a presença dos requisitos previstos no item 2, a partir de consulta prévia ao Núcleo de Apoio Técnico do Poder Judiciário (NATJUS), sempre que disponível, ou a entes ou pessoas com expertise técnica, não podendo fundamentar sua decisão apenas em prescrição, relatório ou laudo médico apresentado pela parte; e (d) em caso de deferimento judicial do pedido, oficiar a ANS para avaliar a possibilidade de inclusão do tratamento no rol de cobertura obrigatória.
+
+A decisão reclamada apresentou os seguintes fundamentos:
+
+No caso em tela, foram requeridos pareceres pelo NatJus, e os mesmos concluíram, em relação a ambas  as autoras, nos IDs 550900091 e 550900092  que há elementos técnicos que justifiquem o tratamento  solicitado no caso em tela, considerando tratar-se de pacientes de 26 anos com diagnóstico de Ataxia  de Friedreich avançada, com doença geneticamente confirmada, para as quais a omaveloxolona  apresenta registro válido na ANVISA com indicação para condição análoga à das demandantes:
+“CONSIDERANDO que se trata de paciente de 26 anos, com diagnóstico de de Ataxia de Friedreich  avançada, conforme documentos acostados ao processo;
+CONSIDERANDO que despeito do tratamento disponível ("vitaminas, antioxidantes e fisioterapia"),  a doença segue curso inevitável de perda progressiva de capacidade funcional.  CONSIDERANDO os dados do ensaio clínico de fase 2 MOXIe que demonstrou benefícios em  pacientes com idade entre 16 e 40 anos, com doença geneticamente confirmada e  comprometimento neurológico moderado a avançado.  CONSIDERANDO que omaveloxolona apresenta registro válido na ANVISA com indicação para  condição análoga a da demandante;  CONCLUI-SE que há elementos técnicos que justifiquem o tratamento solicitado no caso em tela.”
+[...]
+Registre-se ainda que a negativa do PLANSERV e do Estado da Bahia se deu apesar de o medicamento  estar registrado na ANVISA desde 2025, o que torna a recusa frontalmente contrária às determinações  regulatórias vigentes, configurando conduta abusiva e ilícita, na medida em que viola o direito  fundamental à saúde consagrado nos arts. 6º e 196 da Constituição Federal, bem como os princípios da  dignidade da pessoa humana e do mínimo existencial.
+O entendimento ora delineado é pacífico na jurisprudência dos Tribunais Pátrios, que tem reiteradamente  reconhecido a obrigatoriedade do fornecimento de medicamentos quando demonstradas a  imprescindibilidade clínica, a ausência de alternativa terapêutica eficaz e a incapacidade financeira das  partes:
+PROCESSUAL CIVIL E CIVIL. RECURSO ESPECIAL. PLANO DE SAÚDE. MEDICAMENTO. COBERTURA.  PACIENTE DIAGNOSTICADO COM ESCLEROSE MÚLTIPLA. OCRELIZUNAME. REGISTRO NA ANVISA.  RN 465/2021. INDICAÇÃO MÉDICA. DANOS MORAIS. QUANTUM INDENIZATÓRIO. SÚMULA N. 7/STJ.  1. "Segundo a jurisprudência do STJ, é abusiva a recusa da operadora do plano de saúde de custear  a cobertura do medicamento registrado na ANVISA e prescrito pelo médico do paciente, ainda que  se trate de fármaco off-label, ou utilizado em caráter experimental, especialmente na hipótese em  que se mostra imprescindível à conservação da vida e saúde do beneficiário" (AgInt no REsp 2.016.007/MG, Relator Ministro MARCO BUZZI, QUARTA TURMA, julgado em 17/4/2023, DJe de  20/4/2023). 2. Constata-se que o medicamento Ocrelizumabe prescrito para tratamento da  Esclerose Múltipla da parte autora passou a ser incluso no rol de procedimentos e eventos da ANS,  por meio da RN n. 465/2021, anexo II, estando, portanto, prevista expressamente a  obrigatoriedade para tratamento da citada doença. 3. Inviável revisar as premissas fáticas fixadas  no acórdão recorrido quanto à ocorrência do dano moral, diante do óbice da Súmula 7/STJ. 4 . O  valor arbitrado pelas instâncias ordinárias a título de danos morais somente pode ser revisado em  recurso especial quando irrisório ou exorbitante. No caso, o montante fixado em R$ 5.000,00  (cinco mil reais) não é exorbitante nem desproporcional aos danos causados à vítima, que teve  negado indevidamente o fornecimento de medicamento indispensável para seu  tratamento.Agravo interno improvido. (STJ - AgInt no REsp: 1926799 DF 2021/0071797-1, Relator.:  Ministro HUMBERTO MARTINS, Data de Julgamento: 12/08/2024, T3 - TERCEIRA TURMA, Data de  Publicação: DJe 15/08/2024)
+Ex positis:
+ a) INDEFIRO A PETIÇÃO INICIAL, extinguindo o feito em relaçao ao PLANSERV por manifesta  ilegitimidade, nos termos do art. 485, VI, do CPC;
+ b) defiro o pedido de tutela de urgência para determinar que os réus providenciem o FORNECIMENTO  e LIBERAÇÃO do medicamento Omaveloxolona (Skyclarys) 50mg, de uso contínuo, em favor de  BEATRIZ GUIMARÃES FORTE e GABRIELA GUIMARÃES FORTE, conforme prescrição médica e  relatórios juntados aos autos, enquanto perdurar a necessidade terapêutica, a ser comprovada mediante  apresentação de laudo médico atualizado a cada 06 (seis) meses (doc. 3 , pp. 2-3).
+
+A decisão reclamada desconsiderou os precedentes do Supremo Tribunal Federal que foram estabelecidos no julgamento da referida ADI, parâmetros a serem observados na ocasião da análise do preenchimento dos requisitos aptos ao deferimento de procedimento médico fora da lista da ANS, “sob pena de nulidade da decisão judicial, nos termos do art. 489, §1º, V e VI, e art. 927, III, §1º, do CPC”.
+
+Nessas circunstâncias, verifico que a autoridade reclamada deixou de apreciar os itens “b” e “d” da tese fixada no referido paradigma, em clara violação ao parâmetro de controle suscitado, quais sejam:
+
+(a) verificar se há prova do prévio requerimento à operadora de saúde, com a negativa, mora irrazoável ou omissão da operadora na autorização do tratamento não incorporado ao rol da ANS;
+(b) analisar o ato administrativo de não incorporação pela ANS à luz das circunstâncias do caso concreto e da legislação de regência, sem incursão no mérito técnico-administrativo;
+(c) aferir a presença dos requisitos previstos no item 2, a partir de consulta prévia ao Núcleo de Apoio Técnico do Poder Judiciário (NATJUS), sempre que disponível, ou a entes ou pessoas com expertise técnica, não podendo fundamentar sua decisão apenas em prescrição, relatório ou laudo médico apresentado pela parte; e
+(d) em caso de deferimento judicial do pedido, oficiar a ANS para avaliar a possibilidade de inclusão do tratamento no rol de cobertura obrigatória (grifei).
+
+Esse mesmo entendimento foi adotado pelo Ministro Dias Toffoli ao apreciar a Rcl 88.199/DF, DJe 22/12/2025, que analisou a concessão de procedimento fora da lista da ANS:
+
+Nesse contexto, reitero que a atuação do Poder Judiciário em demandas sobre a cobertura de tratamentos não incluídos no rol da ANS deve, sob pena de nulidade da decisão, observar obrigatoriamente as diretrizes delineadas no paradigma e os cinco requisitos objetivos e cumulativos ali definidos, a saber:
+“(i) prescrição por médico ou odontólogo assistente habilitado; (ii) inexistência de negativa expressa ou pendência de avaliação da ANS sobre proposta de atualização do rol (PAR); (iii) inexistência de alternativa terapêutica adequada para a condição do paciente no rol de procedimentos da ANS; (iv) comprovação de eficácia e segurança do tratamento com fundamento na medicina baseada em evidências, necessariamente respaldadas por evidências científicas de alto nível (ensaios clínicos randomizados e revisão sistemática ou metaanálise); e (v) existência de registro na Anvisa”
+Cumpre-se destacar que a adoção dos referidos requisitos técnicos e  cumulativos para a saúde suplementar derivou, com os devidos ajustes, dos parâmetros objetivos fixados pelo STF para o fornecimento judicial de medicamentos pelo Sistema Único de Saúde na ocasião da análise dos Temas 6 e 1234 e teve como intuito garantir a necessária coerência sistêmica entre os setores público e privado, evitando que se imponham às operadoras obrigações mais amplas do que aquelas atribuídas ao próprio ente estatal e não respaldadas por evidências científicas de alto nível (ensaios clínicos randomizados e revisão sistemática ou meta-análise).
+ Isso porque “a  ausência de exigência cumulativa de critérios técnicos, conjugada com a obrigatoriedade de cobertura, reduz a capacidade de gestão do risco pelas operadoras e amplia a judicialização, gerando efeitos agregados negativos sobre o mutualismo e o equilíbrio financeiro dos contratos”, bem como enfraquece o papel técnico e a expertise científica e regulatória da Conitec e da ANS, cujo papel é assegurar a proteção do direito à saúde e dos direitos do consumidor contra terapias ineficazes e inseguras.
+ Tem-se, portanto, que o acórdão reclamado desrespeita a eficácia do precedente do STF acima delineado, deixando de enfrentar temáticas constitucionais necessárias para o deslinde de controvérsia relacionada à cobertura de tratamento ou procedimento não previsto no rol da ANS mediante prestação jurisdicional qualificada, a qual é obrigatória à luz do paradigma.
+Ante o exposto, julgo procedente a reclamação para cassar o acórdão questionado, devendo a autoridade reclamada proferir nova decisão, compelindo a jurisdição de piso à observância das diretrizes fixadas na ADI nº 7.265, dentre elas a consulta prévia do respectivo Núcleo de Apoio Técnico do Judiciário, entes ou pessoas com expertise técnica.
+
+No mesmo sentido cito: Rcl 90.472/SC, Rel. Min. Alexandre de Moraes, DJe 18/2/2026; Rcl 88.930/BA, Rel. Min. Dias Toffoli, DJe 22/12/2025; e Rcl 89.996/SC, Rel. Min. Nunes Marques, DJe 11/2/2026. Da minha relatoria: Rcl 90.697/SP, DJe 24/2/2026; Rcl 91.264/SC, DJe 9/3/2026; Rcl 91.363/PR, DJe 6/3/2026, e Rcl 91.621/SP, DJe 13/3/2026.
+
+Assim, reconheço a existência de afronta à autoridade da decisão proferida na ADI 7.265/DF.
+
+Posto isso, com fundamento no art. 992 do CPC e no art. 161, parágrafo único, do RISTF, julgo procedente o pedido para cassar o ato reclamado, devendo a autoridade reclamada proferir nova decisão com  observância das diretrizes fixadas na ADI 7.265/DF.
+
+Comunique-se à autoridade reclamada, com urgência.
+
+Atribuo força de ofício a esta decisão.
+
+Intime-se.
+
+Publique-se.
+
+Brasília, 14 de maio de 2026.
+
+Ministro Cristiano Zanin
+Relator
