@@ -1,0 +1,3 @@
+Instrução Normativa RFB nº 2325, de 12 de maio de 2026
+Altera a Instrução Normativa RFB nº 958, de 15 de julho de 2009, e a Instrução Normativa RFB nº 2.237, de 4 de dezembro de 2024, para alterar prazos processuais em conformidade com o disposto no Decreto nº 70.235, de 6 de março de 1972.
+A SECRETÁRIA ESPECIAL DA RECEITA FEDERAL DO BRASIL SUBSTITUTA, no uso da atribuição que lhe confere o art. 350, caput, inciso III, do Regimento Interno da Secretaria Especial da Receita Federal do Brasil, aprovado pela Portaria ME nº 284, de 27 de julho de 2020, e tendo em vista o disposto no art. 173 da Lei Complementar nº 227, de 13 de janeiro de 2026, e no Decreto nº 70.235, de 6 de março de 1972, resolve:
