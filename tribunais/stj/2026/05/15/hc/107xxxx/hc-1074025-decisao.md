@@ -1,0 +1,23 @@
+DECISÃO
+Trata-se de habeas corpus substitutivo de recurso próprio, com pedido liminar, impetrado em favor de PABLO RANGEL VELOSO DE ARAUJO, apontando como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DO PIAUÍ.
+Extrai-se dos autos que o paciente, juntamente com outros corréus, foi pronunciado pela suposta prática do delito tipificdo nos arts. nos artigos 121, §2º, incisos I, III e IV, c/c 29, ambos do Código Penal, artigo 2º da Lei 12.850/2013 e artigo 211 do Código Penal.
+A defesa apresentou recurso em sentido estrito, ao qual foi negado provimento bem como veiculou pedido de desmembramento do feito ao Des. Relator, com o fim de agilizar o andamento da ação penal.
+Neste writ, a defesa alega, em síntese, demora na apreciação do pedido de desmembramento formulado em 19/12/2025.
+Requer a concessão da ordem, inclusive liminaremnte, para que seja determinada a apreciação do pedido de desmembramento e, subsidiariamente, o reconhecimento de excesso de prazo para adoção das providências necessárias à análise do pleito de desmembramento.
+A liminar foi indeferida (e-STJ, fl. 2104).
+Prestadas as informações (e-STJ, fls. 2092-2097 e 2110-2119), o Ministério Público Federal opina "pelo não conhecimento do writ, descabida a concessão de uma ordem de ofício, porém com a recomendação de que seja oficiado ao Tribunal do Júri correspondente para a adoção de celeridade na deliberação do pleito formulado em favor do ora Paciente (e-STJ, fls. 2121-2124).
+É o relatório.
+Decido.
+Esta Corte - HC 535.063, Terceira Seção, Rel. Ministro Sebastião Reis Junior, julgado em 10/6/2020 - e o Supremo Tribunal Federal - AgRg no HC 180.365, Primeira Turma, Rel. Min. Rosa Weber, julgado em 27/3/2020; AgRg no HC 147.210, Segunda Turma, Rel. Min. Edson Fachin, julgado em 30/10/2018 -, pacificaram orientação no sentido de que não cabe habeas corpus substitutivo do recurso legalmente previsto para a hipótese, impondo-se o não conhecimento da impetração, salvo quando constatada a existência de flagrante ilegalidade no ato judicial impugnado.
+Assim, passo à análise das razões da impetração, de forma a verificar a ocorrência de flagrante ilegalidade a justificar a concessão do habeas corpus, de ofício.
+Segundo orientação pacificada nos Tribunais Superiores, a análise do excesso de prazo será feita à luz do princípio da razoabilidade e da proporcionalidade, devendo ser consideradas as particularidades do caso concreto, a atuação das partes e a forma de condução do feito pelo Estado-juiz (RHC 58.140/GO, Rel. Ministro FELIX FISCHER, QUINTA TURMA, julgado em 17/9/2015, DJe 30/9/2015; RHC 58.854/MS, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 22/9/2015, DJe 30/9/2015).
+No caso, a pluridade de réus, a complexidade do feito - com defesas e pleitos diversos - já afasta a alegação de mora processual.
+Demais disso, nas informações prestadas pela autoridade coatora constam que:
+"Posteriormente, conforme informado, a Vice-Presidência deste Tribunal consignou, em despacho de ID 30913962, que, quanto ao pedido de ID 30174691, considerada a competência limitada daquela Vice-Presidência, os autos deveriam retornar ao Tribunal de origem para apreciação do pleito antes da remessa do agravo.
+Na sequência, foi proferido o despacho de ID 31804192, no qual se registrou que, em relação aos recorrentes FRANCISCO DE ASSIS NUNES DA SILVA e PABLO RANGEL VELOSO DE ARAÚJO, não havia, em princípio, notícia de interposição de recurso excepcional contra o acórdão de ID 23614308, tendo, inclusive, sido mencionado o pedido de desmembramento formulado por Pablo Rangel. Na mesma decisão, determinou-se a remessa dos autos à Coordenadoria Cartorária Criminal para certificar o trânsito em julgado do acórdão em relação a FRANCISCO DE ASSIS NUNES DA SILVA e PABLO RANGEL VELOSO DE ARAÚJO, caso inexistente recurso pendente, com posterior retorno concluso para adoção das providências cabíveis.
+Desse modo, até a última movimentação informada nos autos, o pedido de desmembramento apresentado por PABLO RANGEL VELOSO DE ARAÚJO ainda não havia sido apreciado de forma definitiva, encontrando-se o feito, antes, em fase de certificação cartorária e retorno para ulterior deliberação." (e-STJ, fls. 2114-2115).
+Sob tal contexto, não se identifica, por ora, manifesto constrangimento ilegal imposto ao paciente passível de ser reparado por este Superior Tribunal, em razão do suposto excesso de prazo, na medida em que não se verifica desídia do Poder Judiciário.
+Ante o exposto, não conheço o habeas corpus. Recomenda-se, entretanto, celeridade na apreciação do pleito formulado em favor do paciente.
+Publique-se.
+Intime-se.
+ EMENTA
