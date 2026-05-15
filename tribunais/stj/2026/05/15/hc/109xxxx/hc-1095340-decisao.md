@@ -1,0 +1,24 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de EDUARDO FELIPE CAMPELO, contra atos praticados no âmbito do Habeas Corpus n. 0043055-72.2026.8.16.0000, em trâmite na 5ª CÂMARA CRIMINAL DO TRIBUNAL DE JUSTIÇA DO ESTADO DO PARANÁ.
+Consta dos autos que o Inquérito Policial n. 0000233-37.2024.8.16.0033 foi instaurado para apurar supostos delitos de natureza econômica, inclusive exploração de jogos de azar. Passados mais de 28 meses, não houve relatório final nem denúncia, e não se registram diligências efetivas, havendo, inclusive, notícia de sucessivas requisições do Ministério Público sem retorno da Autoridade Policial.
+Na impetração perante o Tribunal de origem, a Relatora expediu ofícios reiterados para obtenção de informações do Delegado responsável, sem sucesso, determinando nova espera e comunicação à Corregedoria da Polícia Civil, antes de encaminhar vista à Procuradoria de Justiça (f. 29-30).
+No presente writ, o impetrante sustenta excesso de prazo qualificado na fase pré-processual, com investigação que não avança e viola o direito fundamental à duração razoável do processo, submetendo o paciente a estado permanente de suspeita sem atividade persecutória concreta. Invoca a inércia estatal reiterada, reconhecida pelo Ministério Público, que aponta paralisação do inquérito por meses, sem relatório final, não havendo justificativas objetivas para a delonga.
+Ainda, alega ausência de controle jurisdicional efetivo, pois o Tribunal de origem condiciona o andamento do habeas corpus a informações que não são prestadas, prorrogando sucessivamente o prazo e agravando o constrangimento ilegal, sem apreciação do mérito.
+Por fim, o impetrante aponta abuso de autoridade pela extensão injustificada da investigação, conforme o art. 31 da Lei n.º 13.869/2019.
+Requer liminarmente a imediata suspensão do Inquérito Policial n. 0000233-37.2024.8.16.0033, com cessação dos efeitos da investigação até o julgamento final do writ.
+No mérito, requer a concessão da ordem para determinar o trancamento do inquérito, diante do excesso de prazo, da inércia estatal e da ausência de controle jurisdicional efetivo; subsidiariamente, a fixação de prazo razoável e improrrogável para conclusão das investigações, sob pena de reconhecimento definitivo do constrangimento ilegal e arquivamento.
+É o relatório.
+Conforme narrado pelo próprio impetrante, o habeas corpus anteriormente manejado pelo TJPR ainda se encontra em tramitação, sem julgamento colegiado e, ao que consta, sem decisão monocrática de mérito apta a ensejar a atuação desta Corte Superior. Há apenas despachos voltados à requisição de informações para adequada instrução do feito originário.
+Nesse contexto, a impetração dirigida diretamente ao STJ revela-se prematura, porquanto inexistente pronunciamento jurisdicional definitivo da Corte local sobre a controvérsia deduzida. Admitir o exame originário da matéria, nesta etapa, implicaria indevida supressão de instância, em afronta à competência constitucionalmente delineada para esta Corte Superior.
+Nesse sentido:
+"AGRAVO REGIMENTAL EM HABEAS CORPUS. IMPETRAÇÃO CONTRA DECISÃO DE DESEMBARGADOR QUE INDEFERIU LIMINARMENTE O HC IMPETRADO NA CORTE DE ORIGEM. AUSÊNCIA DE EXAURIMENTO DAS INSTÂNICAS ORDINÁRIAS E DE MANIFESTAÇÃO SOBRE O MÉRITO DO PEDIDO. SUPRESSÃO DE INSTÂNCIA. INTERPOSIÇÃO SIMULTÂNEA DE HABEAS CORPUS E APELAÇÃO. OFENSA AO PRINCÍPIO DA UNIRRECORRIBILIDADE RECURSAL. AUSÊNCIA DE PATENTE ILEGALIDADE NA DECISÃO QUE INDEFERIU LIMINARMENTE A IMPETRAÇÃO. AGRAVO REGIMENTAL IMPROVIDO.
+1. A competência do STJ para examinar habeas corpus, na forma do art. 105, I, "c", da CF, somente é inaugurada quando a decisão judicial atacada tiver sido proferida por Tribunal, o que implica na exigência de exaurimento prévio da instância ordinária, com manifestação do órgão colegiado. Precedentes do STJ. Situação em que o habeas corpus aqui impetrado se volta contra decisão monocrática de Relator.
+2. Não se revela teratológica a decisão do Desembargador Relator do habeas corpus impetrado na Corte de origem por entender que "o habeas corpus não deve ser utilizado como via substitutiva de recursos previstos em lei, no caso a apelação criminal, até porque a utilização do writ como sucedâneo de recurso próprio avilta o princípio do amplo contraditório, porque suprimidas as etapas previstas para o recurso cabível".
+3. A ausência de prévia deliberação sobre o mérito da controvérsia pelas instâncias ordinárias impede a manifestação desta Corte a respeito do tema, sob pena de indevida supressão de instância.
+ ..
+5. Agravo regimental desprovido.
+(AgRg no HC n. 947.602/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 4/11/2024, DJe de 6/11/2024).
+Ante o exposto, com fundamento no art. 210 do RISTJ, indefiro liminarmente o habeas corpus.
+Publique-se.
+Intimem-se.
+EMENTA
