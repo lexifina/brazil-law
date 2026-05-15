@@ -1,0 +1,51 @@
+DECISÃO
+Trata-se de recurso especial (e-STJ, fls. 908-941) interposto por EDNEI SANTOS CATUREBA, com fundamento no artigo 105, inciso III, alínea "a", da Constituição da República, contra acórdão proferido pelo Tribunal de Justiça do Estado do Rio de Janeiro (e-STJ, fls. 865-883).
+Em suas razões, aponta violação aos arts. 226 e 386, inciso VII, do Código de Processo Penal.
+Sustenta que a condenação do recorrente está lastreada exclusivamente em reconhecimento fotográfico realizado sem a observância das formalidades do art. 226 do CPP, tanto em sede policial quanto em juízo, não havendo nos autos outras provas independentes de autoria.
+Alega que o reconhecimento fotográfico foi feito por apenas uma das três vítimas, em procedimento altamente sugestivo, com fotografias de pessoas fisicamente dessemelhantes, sem que tivesse sido previamente descrito o suspeito.
+Assevera que os depoimentos das vítimas ouvidas em juízo não configuram prova autônoma, porquanto se limitaram a reproduzir o reconhecimento já contaminado.
+Invoca jurisprudência do STJ e do STF para sustentar que o reconhecimento fotográfico irregular, mesmo que confirmado em juízo, não é suficiente para amparar um decreto condenatório.
+Subsidiariamente, postula a fixação de regime inicial de cumprimento da pena menos gravoso e o direito de recorrer em liberdade.
+Com contrarrazões apresentadas pelo Ministério Público do Estado do Rio de Janeiro (e-STJ, fls. 931-1000), o recurso especial foi admitido na origem (e-STJ, fls. 1001-1006).
+Remetidos os autos a esta Corte Superior, o Ministério Público Federal manifestou-se pelo não conhecimento do recurso especial ante a incidência do óbice da Súmula 7 do STJ (e-STJ, fls. 1019-1026).
+É o relatório.
+Decido.
+O recorrente foi condenado como incurso no art. 157, § 2º, incisos II e V, e § 2º-A, inciso I, do Código Penal, por quatro vezes, em concurso formal, à pena de 11 anos, 5 meses e 15 dias de reclusão, em regime inicial fechado, além de 26 dias-multa.
+Consta dos autos que, no dia 28 de abril de 2021, o acusado, em comunhão de ações com outros dois comparsas, mediante grave ameaça exercida com arma de fogo, subtraiu produtos automotivos avaliados em R$ 7.809,61 e um caminhão Mercedes-Benz Sprinter, pertencentes à empresa Riolub Lubrificantes e Logística Ltda., além de aparelhos celulares de três vítimas, que foram trancadas no baú do veículo e mantidas sob restrição de liberdade durante o trajeto.
+O acórdão recorrido, ao examinar a matéria, enfrentou diretamente a questão da nulidade do reconhecimento e a rejeitou. Confira-se a transcrição literal dos trechos pertinentes do voto condutor (e-STJ, fls. 869-883):
+"O reconhecimento realizado em sede policial é elemento de prova aceito para fim de investigação criminal e como justa causa para deflagração da ação penal. E, quando corroborado por outras provas produzidas na instrução criminal mediante o contraditório e ampla defesa, é apto a comprovar a autoria.
+(..)
+A colocação de outras pessoas ao lado do acusado, em sala própria, para reconhecimento pessoal conforme dispõe o inciso III, do art. 226, do Código de Processo Penal, deve ser realizada quando possível, não se tratando de medida indispensável. Na hipótese dos autos, as fotos exibidas para as vítimas na delegacia possuem boa nitidez e permite um reconhecimento seguro do acusado.
+Dito isso, verifica-se que a autoria delitiva se sustenta em elementos probatórios válidos e autônomos, em especial nos depoimentos colhidos sob o crivo do contraditório e da ampla defesa.
+Cumpre observar que a palavra da vítima nos crimes patrimoniais possui especial relevância, visto que é através dela que se esclarece a dinâmica dos fatos, viabilizando a produção de outros elementos de prova e o exercício do contraditório.
+(..)
+As vítimas confirmaram em juízo que toda ação criminosa foi com emprego de arma de fogo, sendo que duas vítimas foram presas dentro do baú do caminhão, enquanto o motorista, sob a ameaça, ficou dentro da cabine por um período relevante até que foram liberados na Avenida Brasil, na altura do bairro Coelho Neto. O conjunto probatório é contundente e não deixa qualquer dúvida quanto ao obrar criminoso do apelante e de seus comparsas."
+A jurisprudência do Superior Tribunal de Justiça sobre o artigo 226 do Código de Processo Penal, que trata do reconhecimento de pessoas, passou por significativa evolução.
+Inicialmente, as formalidades desse artigo eram consideradas meras recomendações, e sua inobservância não invalidava o reconhecimento se a condenação se baseasse em outras provas.
+Contudo, a partir do julgamento do HC 598.886/SC pela Sexta Turma, o entendimento foi revisado.
+Atualmente, reconhece-se a invalidade de qualquer reconhecimento formal (pessoal ou fotográfico) que não siga estritamente o procedimento do artigo 226 do CPP.
+Essa mudança visa combater erros judiciários, considerando a fragilidade da memória humana e o caráter subjetivo do reconhecimento.
+Assim, a inobservância das formalidades do artigo 226 torna a prova de reconhecimento nula e inapta para fundamentar uma condenação.
+No entanto, uma condenação pode ser mantida se houver outras provas independentes e robustas, colhidas sob o contraditório judicial, que por si mesmas convençam o magistrado da autoria delitiva.
+O reconhecimento fotográfico, em particular, é visto como problemático e, mesmo seguindo o procedimento adaptado, deve ser considerado apenas uma etapa antecedente, não uma prova em si.
+Ambas as Turmas da Terceira Seção do STJ atualmente compartilham essa compreensão, exigindo a observância das formalidades do artigo 226 do CPP para que o reconhecimento seja apto a identificar o réu e fixar a autoria, sempre corroborado por outras provas em juízo.
+No caso dos autos, diversamente do que sustenta a Defesa, o reconhecimento observou as formalidades do art. 226 do CPP.
+Extrai-se do voto condutor do acórdão recorrido e dos elementos dos autos o seguinte: as vítimas descreveram previamente as características dos assaltantes, em cumprimento ao inciso I do art. 226 - Júlio César descreveu o recorrente Ednei como "branco, com o cabelo enroladinho e o rosto gordo" e o comparsa Daniel como "escurinho, magrinho e com a barba feita", e Rafael descreveu o assaltante que o abordou como "escuro, magrinho, com bigode, rosto fino e cabelo curto".
+Foi apresentado às vítimas um álbum com diversas fotografias, tendo Júlio César afirmado expressamente que "havia foto de outras pessoas semelhantes aos acusados", atendendo ao disposto no inciso II do art. 226. O reconhecimento foi feito separadamente, cada vítima em uma sala diversa  conforme o depoimento de Rafael: "um de cada vez foi a sala e viu o álbum com fotos; que ao final do reconhecimento, souberam que os três tinham reconhecido o mesmo assaltante", observando-se a cautela do inciso III do art. 226.
+Foram lavrados autos de reconhecimento de pessoa, nos termos do inciso IV do art. 226 do CPP.
+E, em juízo, as três vítimas confirmaram os reconhecimentos realizados na delegacia e narraram detalhadamente a dinâmica dos fatos sob o crivo do contraditório e da ampla defesa, dando cumprimento ao art. 226, II, c/c art. 155 do CPP.
+O acórdão recorrido também destacou que "as fotos exibidas para as vítimas na delegacia possuem boa nitidez e permite um reconhecimento seguro do acusado", que "a colocação de outras pessoas ao lado do acusado, em sala própria, para reconhecimento pessoal conforme dispõe o inciso III, do art. 226, do Código de Processo Penal, deve ser realizada quando possível, não se tratando de medida indispensável", e que o réu não foi localizado para reconhecimento pessoal em juízo porque não compareceu, tornando-se revel.
+Além do reconhecimento, a autoria delitiva se sustenta em provas independentes e robustas colhidas sob o contraditório judicial, que por si mesmas convencem da autoria.
+Os depoimentos das vítimas Júlio César, Francisco Eudes e Rafael, prestados em juízo, descrevem a dinâmica dos fatos de forma coerente e convergente - narram a abordagem, a participação de cada agente, o uso de arma de fogo, a restrição da liberdade, a existência de um veículo de apoio e o tempo de duração do delito -, não se limitando a repetir o reconhecimento inquisitorial.
+Nesse contexto, a conclusão do acórdão recorrido está em plena conformidade com a jurisprudência consolidada desta Corte no Tema Repetitivo 1.258/STJ, que exige a observância das formalidades do art. 226 do CPP e, quando não observadas, admite a condenação desde que corroborada por outras provas independentes produzidas em juízo - sendo certo que, na hipótese, as formalidades foram observadas e o reconhecimento foi corroborado por provas autônomas.
+Rever a conclusão do acórdão recorrido quanto à suficiência do conjunto probatório demandaria o revolvimento do acervo fático-probatório dos autos, providência inviável em sede de recurso especial ante o óbice da Súmula 7 do STJ.
+Quanto ao regime prisional, razão não assiste ao recorrente.
+O regime inicial fechado foi fixado com fundamento no art. 33, § 2º, "a", do Código Penal, pois a pena restou concretizada em 11 anos, 5 meses e 15 dias.
+Além do critério puramente quantitativo, o acórdão recorrido considerou as circunstâncias do delito, notadamente o emprego de arma de fogo, o concurso de agentes e a grave restrição da liberdade das vítimas, que foram trancadas no baú do caminhão e mantidas sob ameaça durante todo o trajeto.
+A jurisprudência desta Corte é firme no sentido de que a opção pelo regime inicial fechado, quando amparada na quantidade de pena e nas circunstâncias judiciais do art. 59 do CP, não configura constrangimento ilegal.
+Por fim, o pedido de direito de recorrer em liberdade também não merece acolhimento.
+O acórdão recorrido registrou que o réu não foi localizado, não compareceu em juízo e tornou-se revel, circunstância que evidencia risco concreto de fuga e de aplicação da lei penal.
+Além disso, tratando-se de condenação por crime grave, praticado com violência e grave ameaça, com pena superior a 8 anos de reclusão, a manutenção da prisão é medida que se impõe para garantia da ordem pública.
+Ante o exposto, com fundamento no art. 255, §4º, II, do RISTJ, nego provimento ao recurso especial.
+Publique-se. Intimem-se.
+ EMENTA
