@@ -1,0 +1,16 @@
+DECISÃO
+SILVESTRE RAMOS CARVALHO JUNIOR alega sofrer coação ilegal em decorrência de acórdão da Corte local que, ao denegar a ordem, manteve a sua prisão preventiva.
+A defesa pretende a soltura do paciente - condenado a 7 anos de reclusão, como incurso nos arts. 15 e 16, §1º, IV, da Lei n. 10.826/2003 -, sob o argumento de ausência do preenchimento dos requisitos da prisão cautelar.
+Decido.
+O Juízo de Direito, ao manter a constrição cautelar na sentença, ofereceu os seguintes fundamentos:
+ ..
+Tendo em vista o concurso material de delitos, previsto no art. 69 do CPB, somo as penas chegando ao montante final de 07 (sete) anos de reclusão. Fixo o regime inicial de forma mais gravosa, tendo em vista a reincidência. Portanto, o regime inicial fica sendo o regime fechado, nos termos do que determina o art. 33, §2º, a, do CPB. Incabível a substituição da pena privativa de liberdade por restritiva de direitos em face da reincidência (art. 44, § 2º, do Código Penal Brasileiro).
+Deixo de realizar a detração, tendo em vista que o tempo de prisão provisória é irrelevante para fins de progressão de regime. Deixo de fixar valor mínimo de reparação à vítima, uma vez que é a vítima é a incolumidade pública. Também verifico que é incabível e que há necessidade de manutenção da prisão cautelar do acusado, mesmo sendo multirreincidente e, além disso, voltou a delinquir mesmo estando beneficiado com benefícios de execução penal, provavelmente regime aberto, de forma que sua conduta revela incompatibilidade com a manutenção do referido regime. Por conta disso, também determino que seja oficiado ao juízo das execuções em Açailândia, comunicando com cópia da presente sentença para que aquele juízo avalie, eventualmente, uma regressão de regime. EXPEÇA-SE GUIA DE EXECUÇÃO PROVISÓRIA.  ..  (fls. 55-56)
+A jurisprudência desta Corte Superior é firme em assinalar que, para submeter alguém à prisão cautelar, é cogente a fundamentação concreta, sob as balizas do art. 312 do CPP.
+Apoiado nessa premissa, verifico que se mostram suficientes as razões invocadas na instância de origem para embasar a ordem de prisão do ora paciente, porquanto contextualizaram, em dados dos autos, a necessidade cautelar de segregação do réu.
+Com efeito, o Juiz de primeira instância apontou, de forma idônea, a presença dos vetores contidos no art. 312 do Código de Processo Penal, indicando motivação suficiente para decretar a prisão preventiva, ao salientar que, "mesmo sendo multirreincidente  .. , voltou a delinquir mesmo estando beneficiado co m benefícios de execução penal".
+Como visto, o acórdão ora impugnado vai ao encontro da jurisprudência do Superior Tribunal de Justiça, segundo a qual "maus antecedentes, reincidência, atos infracionais pretéritos ou até mesmo outras ações penais em curso justificam a imposição de segregação cautelar como forma de evitar a reiteração delitiva e, assim, garantir a ordem pública" (AgRg no HC n. 789.267/SC, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 24/4/2023, DJe de 25/5/2023.)
+Em razão da gravidade do crime e das indicadas circunstâncias do fato, as medidas cautelares alternativas à prisão não se mostram adequadas e suficientes para evitar a prática de novas infrações penais.
+À vista do exposto, denego a ordem in limine.
+Publique-se. Intimem-se.
+EMENTA
