@@ -1,0 +1,20 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em nome de THIAGO CARLOS FERREIRA, condenado pelo crime de roubo impróprio (art. 157, § 1º, do Código Penal) à pena de 5 anos e 3 meses de reclusão, em regime inicial fechado (Processo n. 1510993-66.2025.8.26.0385, da 2ª Vara Criminal da comarca de Praia Grande/SP).
+A impetrante aponta como autoridade coatora o Tribunal de Justiça de São Paulo, que, em 25/3/2026, negou provimento à apelação defensiva (acórdão - fls. 15/27).
+Sustenta nulidade no uso de embargos de declaração para modificar o mérito da sentença, com violação ao art. 619 do Código de Processo Penal, e ocorrência de reformatio in pejus indireta, pois a pena passou de 3 anos e 6 meses para 5 anos e 3 meses sem recurso próprio da acusação.
+Argumenta contradição reconhecida pela própria julgadora na sentença, com supressão indevida da minorante da tentativa sem fato novo, sustentando que o paciente foi detido "no momento em que exercia a ameaça/violência para assegurar a posse", impondo-se o reconhecimento da forma tentada (fls. 3; 8/10).
+Aponta dúvida quanto à consumação do roubo impróprio, defendendo a aplicação do princípio do in dubio pro reo para manter a tentativa, diante de circunstâncias "não totalmente esclarecidas" e da intervenção de terceiros que impediu a consolidação da posse.
+Alega desproporcionalidade do regime inicial fechado, requerendo o semiaberto, com crítica à valoração de maus antecedentes antigos (condenação de 2010) e invocação do "direito ao esquecimento", além de afirmar que a mera reincidência não impede regime mais brando quando a pena é inferior a 8 anos e não há circunstâncias judiciais extremamente desfavoráveis.
+Em caráter liminar, pede restabelecimento da causa de diminuição da tentativa, redução da pena e fixação do regime semiaberto, com eventual suspensão dos efeitos da condenação até o julgamento final.
+No mérito, requer o reconhecimento da tentativa (art. 14, II, do Código Penal), com redução proporcional da pena e fixação do regime inicial semiaberto, confirmando-se a liminar.
+É o relatório.
+A via eleita foi indevidamente utilizada como uma espécie de "segunda apelação", como forma de revisar a condenação imposta e mantida pelas instâncias ordinárias, o que é inadmissível, pois tal conduta termina por contribuir para o acúmulo de processos neste Superior Tribunal sem solução definitiva e desvirtua a finalidade do writ (HC n. 939.119/SC, de minha relatoria, Sexta Turma, julgado em 14/4/2025, DJEN de 25/4/2025).
+Ademais, não há flagrante ilegalidade que justifique a superação do óbice.
+Quanto ao pleito de reconhecimento da modalidade tentada do delito, verifica-se que o tema não foi submetido à apreciação da Corte de origem, o que impede a sua análise pelo Superior Tribunal de Justiça, sob pena de indevida supressão de instância.
+De outro lado, o acórdão atacado se encontra em consonância com a jurisprudência desta Corte, firmada no sentido de que a despeito do quantum de pena definitivamente imposta ao réu, a reincidência e a circunstância judicial negativa justificam a fixação do modo fechado para o início do seu cumprimento. Súmula n. 269 do STJ (AgRg no HC n. 874.006/SP, Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 15/4/2024, DJe 18/4/2024).
+Oportuno ressaltar que, além de não se encontrar esclarecida nos autos a data da extinção da punibilidade do crime anterior, a fim de aferir a possibilidade de exclusão da vetorial referente aos maus antecedentes, a reincidência é circunstância suficiente para determinar a fixação do regime inicial fechado. No mesmo sentido: AgRg no HC n. 816.255/SP, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 6/5/2025, DJEN de 12/5/2025.
+Ante o exposto, indefiro liminarmente a petição inicial.
+Publique-se.
+EMENTA
+DIREITO PENAL E PROCESSUAL PENAL. HABEAS CORPUS. INADEQUAÇÃO DA VIA ELEITA. UTILIZAÇÃO COMO SEGUNDA APELAÇÃO. ROUBO. TENTATIVA. TEMA NÃO APRECIADO NO TRIBUNAL DE ORIGEM. SUPRESSÃO DE INSTÂNCIA. REGIME INICIAL FECHADO. MAUS ANTECEDENTES E REINCIDÊNCIA. LEGALIDADE.
+Petição inicial indeferida liminarmente.
