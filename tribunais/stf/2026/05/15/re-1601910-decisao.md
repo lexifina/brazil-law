@@ -1,0 +1,41 @@
+DECISÃO
+
+Trata-se de Recurso Extraordinário interposto em face de acórdão do Tribunal de Justiça do Estado da Bahia, cuja ementa possui o seguite cabeçalho (Doc. 11):
+
+“EMENTA: CONSTITUCIONAL E ADMINISTRATIVO. MANDADO DE SEGURANÇA. DIREITO À VIDA E À SAÚDE. ESTADO. MEDICAMENTO ESSENCIAL À SAÚDE DE PACIENTE SEM CONDIÇÕES DE PAGAR O MEDICAMENTO RECOMENDADO PELOS MÉDICOS. DEVER DE ASSISTÊNCIA INTEGRAL À SAÚDE, INCLUINDO O FORNECIMENTO DE MEDICAMENTOS DE ALTO CUSTO A QUEM NÃO POSSUI DISPONIBILIDADE DE RECURSOS. PRECEDENTES JURISPRUDENCIAIS. RESPONSABILIDADE DO ESTADO CONFORME ART. 196 DA CONSTITUIÇÃO FEDERAL. AGRAVO REGIMENTAL PREJUDICADO. CONCESSÃO DA SEGURANÇA.
+
+No Recurso Extraordinário (Doc. 14), interposto com amparo no art. 102, III, “a”, da CF/1988, o ESTADO DA BAHIA aponta violação aos arts. 2º; 5º, LXIX; 196; e 197 da CF/1988.
+Alega que “ao contrário do que entendeu o Tribunal de Justiça a quo, a saúde enquanto dever do Estado não está associado necessariamente ao fornecimento individualizado desse ou daquele medicamento, mas sim à implementação de uma gestão pública de saúde, baseada no princípio isonômico e na garantia de acesso universal e igualitário” (Doc. 14, fl. 7).
+Afirma que na forma como decidida a questão, o acordão recorrido interfere “em competências constitucionais atribuídas aos Poderes Executivo e Legislativo, violando, assim também, o art. 2º da Constituição” (Doc. 14, fl. 12).
+Argumenta que “os recursos públicos não são inesgotáveis, daí porque a ingerência do Judiciário na Política de Saúde lesa, a bem da verdade, toda uma coletividade, deixando-se de deitar os olhos para um sem número de outros pacientes que também necessitam de medicamentos” (Doc. 14, fl. 14).
+Requer, ao final, o provimento do presente recurso para afastar a obrigação do ente público de fornecer o tratamento postulado.
+Em seguida a 2ª Vice-Presidência do TJBA determinou o sobrestamento do RE, até o definitivo pronunciamento RE 566.471- RG/RN, Tema 6/STF (Doc. 17).
+Posteriormente, determinou-se, na origem, o retorno dos autos ao órgão julgador para eventual juízo de retratação aos Temas 6 e 1234 do STF (Doc. 30 e Doc. 31).
+Em nova análise da questão, o Tribunal de origem manteve o acórdão anteriormente prolatado aos fundamentos de que (a) “a modulação de efeitos determinada pelo STF no julgamento do Tema 1234 exclui de sua aplicação os processos em curso na data da publicação do acórdão (11/10/2024), sendo o acórdão recorrido anterior (27/03/2014); e (b) “o acórdão está em consonância com os requisitos do Tema 106 do STJ: imprescindibilidade do medicamento atestada por profissional competente; ineficácia dos medicamentos fornecidos pelo SUS; e hipossuficiência financeira da parte autora” (Doc. 33, fl. 2).
+Mantido o acórdão recorrido, o RE foi admitido e os autos encaminhados ao STF (Doc. 38).
+É o relatório. Decido.
+
+Os recursos extraordinários somente serão conhecidos e julgados, quando essenciais e relevantes as questões constitucionais a serem analisadas, sendo imprescindível ao recorrente, em sua petição de interposição de recurso, a apresentação formal e motivada da repercussão geral que demonstre, perante o SUPREMO TRIBUNAL FEDERAL, a existência de acentuado interesse geral na solução das questões constitucionais discutidas no processo, que transcenda a defesa puramente de interesses subjetivos e particulares.
+A obrigação do recorrente de apresentar, formal e motivadamente, a repercussão geral que demonstre, sob o ponto de vista econômico, político, social ou jurídico, a relevância da questão constitucional debatida que ultrapasse os interesses subjetivos da causa, conforme exigência constitucional, legal e regimental (art. 102, § 3º, da CF/88, c/c art. 1.035, § 2º, do Código de Processo Civil de 2015 e art. 327, § 1º, do Regimento Interno do Supremo Tribunal Federal), não se confunde com meras invocações, desacompanhadas de sólidos fundamentos e de demonstração dos requisitos no caso concreto, de que (a) o tema controvertido é portador de ampla repercussão e de suma importância para o cenário econômico, político, social ou jurídico; (b) a matéria não interessa única e simplesmente às partes envolvidas na lide; ou, ainda, de que (c) a jurisprudência do SUPREMO TRIBUNAL FEDERAL é incontroversa no tocante à causa debatida, entre outras alegações de igual patamar argumentativo (ARE 691.595-AgR, Rel. Min. RICARDO LEWANDOWSKI, Segunda Turma, DJe de 25/2/2013; ARE 696.347-AgRsegundo, Rel. Min. CÁRMEN LÚCIA, Segunda Turma, DJe de 14/2/2013; ARE 696.263-AgR, Rel. Min. LUIZ FUX, Primeira Turma, DJe de 19/2/2013; AI 717.821-AgR, Rel. Min. JOAQUIM BARBOSA, Segunda Turma, DJe de 13/8/2012).
+ Não havendo demonstração fundamentada da presença de repercussão geral, incabível o seguimento do Recurso Extraordinário.
+Além disso, o Tribunal de origem, à luz das peculiaridades do caso concreto, “mais precisamente o relatório médico de avaliação especializada”, concedeu a segurança postulada ao fundamento de que a parte autora “necessita utilizar o medicamento temozolamida 325/MG — D1 a D5, a cada 21 (vinte e um) dias, bem como temozolamida durante o período da radioterapia para a cura do câncer que desenvolvera” (Doc. 11, fl. 9).
+Assim, para divergir dos fundamentos do acórdão recorrido seria necessário analisar o conteúdo probatório dos autos, providência vedada na via extraordinária em face do óbice da Súmula 279/STF (Para simples reexame de prova não cabe recurso extraordinário).
+Nesse sentido:
+
+“EMENTA: AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. CONSTITUCIONAL. DIREITO À SAÚDE. MODULAÇÃO DOS EFEITOS DA DECISÃO QUANTO AO ALCANCE DA COMPETÊNCIA: TEMA 1.234 DA REPERCUSSÃO GERAL. FORNECIMENTO DE MEDICAMENTO INCORPORADO NAS POLÍTICAS PÚBLICAS DO SISTEMA ÚNICO DE SAÚDE – SUS. RESPONSABILIDADE SOLIDÁRIA DOS ENTES FEDERADOS: TEMA 793 DA REPERCUSSÃO GERAL. COMPROVAÇÃO DA NECESSIDADE DO TRATAMENTO NA ORIGEM. IMPOSSIBILIDADE DE ANÁLISE DE LEGISLAÇÃO INFRACONSTITUCIONAL E DO CONJUNTO FÁTICO-PROBATÓRIO. SÚMULA N. 279 DO SUPREMO TRIBUNAL FEDERAL. AUSÊNCIA DE OFENSA CONSTITUCIONAL DIRETA. INEXISTÊNCIA DE ARGUMENTOS APTOS A INFIRMAR A CONCLUSÃO DO JULGADO. DECISÃO AGRAVADA MANTIDA. AGRAVO REGIMENTAL NÃO CONHECIDO, COM DETERMINAÇÃO DE CERTIFICAÇÃO DO TRÂNSITO EM JULGADO E BAIXA IMEDIATA DOS AUTOS ELETRÔNICOS À ORIGEM, INDEPENDENTE DA PUBLICAÇÃO DO ACÓRDÃO.” (RE 1591559 AgR / PI, Relator(a): Min. CÁRMEN LÚCIA, Primeira Turma, DJe de 15/4/2026)
+
+“Ementa: Direito administrativo. Agravo interno em recurso extraordinário com agravo. fornecimento de medicamento. imprescindibilidade. Ausência de comprovação. Necessidade de reexame fático-probatório. incidência da Súmula nº 279/STF. Tema nº 660.
+1. Agravo interno contra decisão que negou seguimento a recurso extraordinário com agravo, o qual tem por objeto acórdão que manteve sentença de parcial procedência da ação.
+2. Hipótese em que, para dissentir do entendimento firmado pelo órgão judiciário de origem, seria necessário reexaminar fatos e provas constantes dos autos, procedimento vedado neste momento processual (Súmulas nº 279/STF).
+3. O Plenário desta Corte afastou a existência de repercussão geral da controvérsia relativa à suposta violação aos arts. 5º, II, XXXV, XXXVI, LIV e LV, da CF, quando o julgamento da causa depender de prévia análise da adequada aplicação das normas infraconstitucionais (ARE 748.371-RG Tema nº 660).
+ 4. Nos termos do art. 85, § 11, do CPC/2015, fica majorado em 10% o valor da verba honorária fixada anteriormente, observados os limites legais do art. 85, §§ 2º e 3º, do CPC/2015 e a eventual concessão de justiça gratuita.
+5. Agravo interno a que se nega provimento, com a aplicação da multa de 1% (um por cento) sobre o valor atualizado da causa, nos termos do art. 1.021, § 4°, do CPC/2015.” (ARE 1469342 AgR / MG, Relator(a): Min. LUÍS ROBERTO BARROSO (Presidente), Tribunal Pleno, DJe de 20/2/2024)
+
+Diante do exposto, com base no art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal, NEGO SEGUIMENTO AO RECURSO EXTRAORDINÁRIO.
+ Não se aplica o art. 85, § 11, do Código de Processo Civil de 2015, tendo em vista que não houve fixação de honorários advocatícios nas instâncias de origem.
+Publique-se.
+Brasília, 15 de maio de 2026.
+
+Ministro ALEXANDRE DE MORAES
+Relator
+Documento assinado digitalmente
