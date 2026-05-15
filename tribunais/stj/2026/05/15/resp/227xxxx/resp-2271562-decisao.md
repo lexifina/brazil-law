@@ -1,0 +1,67 @@
+DECISÃO
+Vistos.
+Trata-se de Recurso Especial interposto pela FAZENDA NACIONAL contra acórdão prolatado, por unanimidade, pelo Tribunal Regional Federal da 1ª Região, no julgamento de Apelação Cível, assim ementado (fls. 151/152e):
+DIREITO CONSTITUCIONAL E TRIBUTÁRIO. ZONA FRANCA DE MANAUS. PIS E COFINS. IMUNIDADE TRIBUTÁRIA. SIMPLES NACIONAL. CONTRIBUIÇÃO PREVIDENCIÁRIA PATRONAL (CPP) E CONTRIBUIÇÃO SOCIAL SOBRE O LUCRO LÍQUIDO (CSLL). APELAÇÃO E REMESSA NECESSÁRIA, TIDA POR INTERPOSTA, PARCIALMENTE PROVIDAS.
+I. CASO EM EXAME
+1. Apelação da União (Fazenda Nacional) contra sentença que concedeu segurança em mandado de segurança para afastar a incidência do PIS, da COFINS e da Contribuição Previdenciária Patronal (CPP) sobre as receitas de vendas de mercadorias nacionais e nacionalizadas realizadas dentro da Zona Franca de Manaus (ZFM), por empresa optante do Simples Nacional, assegurando ainda a compensação dos valores indevidamente recolhidos nos cinco anos anteriores ao ajuizamento da ação.
+2. A União argumenta que o regime unificado do Simples Nacional não admite a aplicação de imunidades externas e que a imunidade de exportação prevista constitucionalmente não se estende às contribuições sobre folha de salários (CPP) ou ao lucro (CSLL).
+II. QUESTÃO EM DISCUSSÃO
+3. A controvérsia principal envolve: (i) a aplicação da imunidade tributária às receitas de exportação para empresas optantes pelo Simples Nacional na ZFM; (ii) a possibilidade de extensão da imunidade às contribuições CPP e CSLL.
+III. RAZÕES DE DECIDIR
+4. A jurisprudência do STJ reconhece que operações de venda para a ZFM são equiparadas a exportações, não incidindo sobre essas receitas o PIS e a COFINS, mesmo que realizadas por empresas optantes do Simples Nacional, conforme decidido pelo STF em repercussão geral (Tema 207). 5. A imunidade de exportação não se aplica à Contribuição Previdenciária Patronal (CPP) ou à Contribuição Social sobre o Lucro Líquido (CSLL), conforme entendimento consolidado pelo STF, uma vez que essas exações incidem sobre a folha de salários e o lucro da empresa, não se vinculando diretamente às receitas de exportação.
+6. O Decreto-Lei nº 288/1967 e o art. 40 do ADCT conferem à ZFM tratamento fiscal equiparado a exportação, o que respalda a não incidência do PIS e da COFINS sobre as receitas das operações de venda realizadas na região.
+7. A compensação dos valores indevidamente recolhidos deve ocorrer conforme os critérios legais, após o trânsito em julgado, observando-se a taxa SELIC como índice de atualização, vedada qualquer cumulação com outro índice de correção.
+IV. DISPOSITIVO E TESE
+8. Apelação e remessa necessária, tida por interposta, parcialmente providas.
+Opostos embargos de declaração, foram rejeitados (fls. 182/182e).
+Com amparo no art. 105, III, a, da Constituição da República, aponta-se ofensa a dispositivos legais, alegando-se, em síntese, que:
+- Art. 1.022, II, do Código de Processo Civil - há omissão no acórdão recorrido quanto aos arts. 110 do Código Tributário Nacional, 4º do Decreto-Lei 288/1967 e 2º, § 3º, da Lei 10.996/2004 (fls. 186/188e); e
+- Arts. 16, 24, 13, 18 e 21 da Lei Complementar 123/2006; 4º do Decreto-Lei 288/1967; 110 do Código Tributário Nacional; 2º, § 3º, da Lei 10.996/2004 - o regime unificado do Simples Nacional, com arrecadação centralizada e regras próprias de cálculo e repartição, impede a adoção simultânea de benefícios fiscais externos, razão pela qual não se admite estender a equiparação da Zona Franca de Manaus às exportações às empresas optantes desse regime (fls. 186/193e).
+Sem contrarrazões, o recurso foi inadmitido (fl. 262e), tendo sido interposto Agravo, posteriormente convertido em Recurso Especial (fl. 268e).
+O Ministério Público Federal manifestou-se às fls. 260/265e.
+Feito breve relato, decido.
+Nos termos do art. 932, III, IV e V, do Código de Processo Civil de 2015, combinados com os arts. 34, XVIII, b e c, e 255, I e II, do Regimento Interno desta Corte, o Relator está autorizado, por meio de decisão monocrática, respectivamente, a:
+i) não conhecer de recurso inadmissível, prejudicado ou que não tenha impugnado especificamente os fundamentos da decisão recorrida;
+ii) negar provimento a recurso ou pedido contrário à tese fixada em julgamento de recurso repetitivo ou de repercussão geral (arts. 1.036 a 1.041), a entendimento firmado em incidente de assunção de competência (art. 947), à súmula do Supremo Tribunal Federal ou desta Corte ou, ainda, à jurisprudência dominante acerca do tema, consoante Enunciado da Súmula n. 568/STJ; e
+iii) dar provimento a recurso se o acórdão recorrido for contrário à tese fixada em julgamento de recurso repetitivo ou de repercussão geral (arts. 1.036 a 1.041), a entendimento firmado em incidente de assunção de competência (art. 947), à súmula do Supremo Tribunal Federal ou desta Corte ou, ainda, à jurisprudência dominante acerca do tema, consoante Enunciado da Súmula n. 568/STJ:
+O Relator, monocraticamente e no Superior Tribunal de Justiça, poderá dar ou negar provimento ao recurso quando houver entendimento dominante acerca do tema.
+- Da alegação de ofensa ao art. 1.022 do CPC
+A recorrente sustenta genericamente ofensa a esse dispositivo uma vez que o Tribunal de origem incorreu em omissão ao rejeitar os embargos de declaração, sem enfrentar adequadamente as questões relativas à violação dos arts. 110 do Código Tributário Nacional, 4º do Decreto-Lei 288/1967 e 2º, § 3º, da Lei 10.996/2004.
+O recurso especial possui natureza vinculada e por objetivo a aplicação ou interpretação adequada de comando de lei federal, de modo que compete à parte a indicação de forma clara e pormenorizada do dispositivo legal que entende ofendido, não sendo suficiente a mera citação no corpo das razões recursais. (1ª T., AgInt no REsp n. 1.930.411/RS, Rel. Min. Gurgel de Faria, j. 4.9.2023, DJe de 6.9.2023)
+Em consonância com o entendimento desta Corte, nos casos em que a arguição de ofensa ao dispositivo de lei federal é genérica, sem demonstração efetiva da contrariedade, aplica-se ao recurso especial, por analogia, o entendimento da Súmula 284, do Colendo Supremo Tribunal Federal, in verbis: É inadmissível o recurso extraordinário, quando a deficiência na fundamentação não permitir a exata compreensão da controvérsia.
+- Da incidência do PIS/Cofins sobre receitas de vendas na ZFM para optantes do Simples Nacional
+A Corte de origem concluiu pela não incidência do PIS/Cofins sobre receitas de vendas na ZFM, inclusive para optantes do Simples Nacional, em razão da equiparação à exportação e da tese do Tema 207/STF:
+O Decreto-lei 288, de 28/02/67, que regula a Zona Franca de Manaus, estabeleceu:
+Art. 1º A Zona Franca de Manaus é uma área de livre comércio de importação e exportação e de incentivos fiscais especiais, estabelecida com a finalidade de criar no interior da Amazônia um centro industrial, comercial e agropecuário dotado de condições econômicas que permitam seu desenvolvimento, em face dos fatores locais e da grande distância, a que se encontram, os centros consumidores de seus produtos.
+
+Art. 4º A exportação de mercadorias de origem nacional para consumo ou industrialização na Zona Franca de Manaus, ou reexportação para o estrangeiro, será para todos os efeitos fiscais, constantes da legislação em vigor, equivalente a uma exportação brasileira para o estrangeiro.
+Outro não foi o tratamento dado pelo legislador constituinte à Zona Franca de Manaus - área livre de comércio, de exportação e importação, e de incentivos fiscais -, tal como constante do art. 40 do Ato da Disposições Constitucionais Transitórias (ADCT). O respectivo prazo, inicialmente de 25 anos a contar da promulgação da Carta, foi prorrogado até 2073, por força da Emenda Constitucional 83/2014.
+Com relação às contribuições sociais e de intervenção no domínio econômico, tais exações não incidem sobre as receitas decorrentes de exportação, a teor do disposto no art. 149, §2º, I, da Constituição Federal de 1988.
+No que diz especificamente com a contribuição para o PIS e a COFINS, as Leis nº 10.996/2004 e 10.833/2003 assim dispõem:
+Art. 2º Ficam reduzidas a 0 (zero) as alíquotas da Contribuição para o PIS/PASEP e da Contribuição para o Financiamento da Seguridade Social - COFINS incidentes sobre as
+receitas de vendas de mercadorias destinadas ao consumo ou à industrialização na Zona Franca de Manaus - ZFM, por pessoa jurídica estabelecida fora da ZFM.
+Art. 6o A COFINS não incidirá sobre as receitas decorrentes das operações de: I - exportação de mercadorias para o exterior;
+Fixadas essas premissas, a jurisprudência do Superior Tribunal de Justiça sedimentou-se no sentido de que as vendas de mercadorias para a ZFM, ainda que realizadas por empresas sediadas na própria zona de livre comércio, bem como a prestação de serviços dentro dos seus limites geográficos, são equiparadas à exportação, para efeitos fiscais, de modo que sobre tais operações não deve incidir as contribuições para o PIS e a COFINS.
+No que diz respeito à extensão do incentivo fiscal às empresas optantes do Simples Nacional, o Supremo Tribunal Federal, em sede de repercussão geral (Tema 207), fixou a seguinte tese: As imunidades previstas nos artigos 149, §2º, I, e 153, §3º, III, da Constituição Federal são aplicáveis às empresas optantes pelo Simples Nacional.
+(fls. 142/143e)
+Nesse cenário, depreende-se que o acórdão impugnado possui fundamento eminentemente constitucional, porquanto o deslinde da controvérsia deu-se à luz da Constituição da República.
+Com efeito, o recurso especial possui fundamentação vinculada, destinado a garantir a autoridade e aplicação uniforme da lei federal, não constituindo, portanto, instrumento processual para o exame de questão constitucional, sob pena de usurpação da competência do Supremo Tribunal Federal, conforme dispõe o art. 102, III, da Constituição da República.
+Espelhando tal compreensão, os seguintes julgados:
+SERVIDOR PÚBLICO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. TRANSPOSIÇÃO FUNCIONAL. FUNDAMENTAÇÃO EMINENTEMENTE CONSTITUCIONAL.
+1. O Tribunal a quo decidiu a demanda à luz de fundamento eminentemente constitucional, matéria insuscetível de ser examinada em sede de recurso especial. Precedentes.
+2. Agravo interno não provido.
+(AgInt no AREsp n. 2.606.052/RO, Relator Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, julgado em 26.08.2024, DJe de 29.08.2024 - destaque meu).
+PROCESSUAL CIVIL E CONSTITUCIONAL. HAITIANOS. INGRESSO EM TERRITÓRIO NACIONAL SEM EXIGÊNCIA DE VISTO. REUNIÃO FAMILIAR. NÃO INTERVENÇÃO DO PODER JUDICIÁRIO. AUSÊNCIA DE PREQUESTIONAMENTO. APLICAÇÃO ANALÓGICA DA SÚMULA 282 DO STF. TEMA DECIDIDO PELO TRIBUNAL A QUO COM FUNDAMENTO EXCLUSIVAMENTE CONSTITUCIONAL. INVIABILIDADE DE EXAME EM RECURSO ESPECIAL. SITUAÇÃO EXCEPCIONAL. REEXAME DO CONJUNTO FÁTICO PROBATÓRIO. SÚMULA 7/STJ.
+ ..
+3. Além disso, o acórdão recorrido ampara-se em fundamentos eminentemente constitucionais - quais sejam, os princípios da legalidade e da isonomia, previstos na Constituição da República -, cujo exame é vedado ao STJ na via eleita pela parte sob pena de usurpação da competência do STF, conforme dispõe o art. 102, III, da CF/1988.
+ ..
+6. Agravo Interno não provido.
+(AgInt no REsp n. 2.118.651/PR, Relator Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 19.08.2024, DJe de 22.08.2024 - destaque meu).
+No que tange aos honorários advocatícios, da conjugação dos Enunciados Administrativos ns. 3 e 7, editados em 09.03.2016 pelo Plenário desta Corte, depreende-se que as novas regras relativas ao tema, previstas no art. 85 do Código de Processo Civil de 2015, serão aplicadas apenas aos recursos sujeitos à novel legislação, tanto nas hipóteses em que o novo julgamento da lide gerar a necessidade de fixação ou modificação dos ônus da sucumbência anteriormente distribuídos quanto em relação aos honorários recursais (§ 11).
+Ademais, vislumbrando o nítido propósito de desestimular a interposição de recurso infundado pela parte vencida, entendo que a fixação de honorários recursais em favor do patrono da parte recorrida está adstrita às hipóteses de não conhecimento ou de improvimento do recurso.
+Impende destacar que a Corte Especial deste Tribunal Superior, na sessão de 9.11.2023, concluiu o julgamento do Tema n. 1.059/STJ, fixando a tese segundo a qual a majoração dos honorários de sucumbência prevista no art. 85, § 11, do CPC pressupõe que o recurso tenha sido integralmente desprovido ou não conhecido pelo tribunal, monocraticamente ou pelo órgão colegiado competente. Não se aplica o art. 85, § 11, do CPC em caso de provimento total ou parcial do recurso, ainda que mínima a alteração do resultado do julgamento e limitada a consectários da condenação.
+Quanto ao momento em que deva ocorrer o arbitramento dos honorários recursais (art. 85, § 11, do CPC/2015), afigura-se-me acertado o entendimento segundo o qual incidem apenas quando esta Corte julga, pela vez primeira, o recurso, sujeito ao Código de Processo Civil de 2015, que inaugure o grau recursal, revelando-se indevida sua fixação em agravo interno e embargos de declaração.
+Registre-se que a possibilidade de fixação de honorários recursais está condicionada à existência de imposição de verba honorária pelas instâncias ordinárias, revelando-se vedada aquela quando esta não houver sido imposta.
+Posto isso, com fundamento nos arts. 932, III, do Código de Processo Civil de 2015 e 34, XVIII, a, e 255, I, ambos do RISTJ, NÃO CONHEÇO do Recurso Especial.
+Publique-se e intimem-se.
+EMENTA
