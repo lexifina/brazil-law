@@ -1,0 +1,17 @@
+DECISÃO
+Cuida-se de conflito negativo de competência entre o Juízo Federal da 2ª Vara de Campo Grande - SJ/MS, ora suscitante, e o Juízo Federal da Vara Cível e Criminal de Oiapoque - SJ/AP, ora suscitado.
+Na espécie, Ubaldino Pereira Duarte, residente em Itapirapuã/GO, ajuizou cumprimento de sentença coletiva em desfavor da União perante o Juízo Federal de Oiapoque/AP.
+Ao apreciar a inicial, o Juízo Federal da Vara Cível e Criminal de Oiapoque - SJ/AP reconheceu sua incompetência e determinou a remessa dos autos à Seção Judiciária de Campo Grande/MS, por entender que o STJ firmou posicionamento no REsp n. 1.243.887/PR, em regime de recurs o repetitivo, no sentido de que a execução individual de sentença coletiva deve ser ajuizada no domicílio do beneficiário ou naquele onde tenha sido proferida a sentença coletiva.
+Aduziu que o art. 109, § 2º, da Constituição Federal não seria aplicável ao caso concreto, pois não estariam presentes as exceções do art. 516, II, do Código de Processo Civil. Afirmou que, como o exequente ajuizou ação fora do Juízo do seu domicílio, haveria prevenção da Seção Judiciária de Campo Grande/MS, por dependência da APC n. 0005019-15.1997.4.03.6000.
+O Juízo Federal da 2ª Vara de Campo Grande - SJ/MS, ao receber os autos, suscitou o presente conflito de competência, sob o argumento de que inexiste prevenção do juízo da ação coletiva para o processamento das execuções individuais, segundo jurisprudência do STJ.
+Manifestou-se o Ministério Público Federal "pelo conhecimento do conflito, para se reconhecer a competência do Juízo Federal da Vara Cível e Criminal de Oiapoque - SJ/AP" (fl. 194).
+É o relatório.
+A Primeira Seção do STJ, no julgamento do Conflito de Competência n. 199.938/SP, decidiu que, em regra, no cumprimento individual da ação coletiva, o exequente pode optar pelo ajuizamento da demanda: 1) no foro em que a ação coletiva foi processada e julgada; ou 2) no foro do seu domicílio.
+Pode o exequente, ainda, "optar por ajuizar no Distrito Federal o cumprimento de sentença coletiva contra a União, nos termos do § 2º do art. 109 da Constituição Federal, entendimento que milita a favor da máxima efetividade do dispositivo constitucional, além de ampliar/facilitar o acesso à justiça pelo credor da União" (CC n. 199.938/SP, relator Ministro Mauro Campbell Marques, Primeira Seção, julgado em 11/10/2023, DJe de 17/10/2023).
+In casu, a parte optou por ajuizar o cumprimento de sentença coletiva em desfavor da União no Juízo Federal de Oiapoque/AP, que não se enquadra em quaisquer das hipóteses referidas.
+Assim, escorreita a conclusão do Juízo suscitado, no sentido de que "firmada a prevenção do juízo da 1ª Vara Federal da Seção Judiciária de Campo Grande - MS pelo ajuizamento da ação coletiva, não há que se falar em aplicação do art. 109, §2º, da Constituição Federal para permitir o ajuizamento das execuções individuais também em Oiapoque - AP" (fl. 165).
+Ante o exposto, com fundamento no art. 3 4, XXII, do Regimento Interno do STJ, conheço do conflito de competência a fim de declarar competente o Juízo Federal da 2ª Vara de Campo Grande - SJ/MS , o suscitante.
+Dê-se ciência aos Juízos suscitante e suscitado.
+Publique-se. Intimem-se.
+EMENTA
+CONFLITO NEGATIVO DE COMPETÊNCIA. CUMPRIMENTO INDIVIDUAL DE SENTENÇA COLETIVA PROFERIDA EM AÇÃO CIVIL PÚBLICA. DEMANDA EM DESFAVOR DA UNIÃO. ART. 109, § 2º, DA CONSTITUIÇÃO FEDERAL. AJUIZAMENTO NO DISTRITO FEDERAL. POSSIBILIDADE. CONFLITO CONHECIDO PARA DECLARAR COMPETENTE O JUÍZO SUSCITANTE.
