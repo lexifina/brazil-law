@@ -1,0 +1,55 @@
+DECISÃO
+Em análise, agravo em recurso especial contra decisão que inadmitiu o recurso especial interposto pelo MUNICIPIO DE ITAUCU, em desfavor de acórdão do Tribunal de Justiça do Estado de Goiás, assim ementado (fls. 1.168):
+DIREITO TRIBUTÁRIO. AGRAVO INTERNO EM APELAÇÃO CÍVEL. REPASSE DE ICMS. INCENTIVOS FISCAIS. INCONSTITUCIONALIDADE. RECURSO DESPROVIDO.
+I. CASO EM EXAME Agravo interno interposto pelo Município de Itauçu contra decisão monocrática que desproveu a apelação do município e reconheceu a validade dos programas de incentivo fiscal FOMENTAR e PRODUZIR.
+II. QUESTÃO EM DISCUSSÃO
+2. A questão em discussão consiste em saber: (i) se há direito do município à cota-parte do ICMS incentivado; e (ii) se os programas FOMENTAR e PRODUZIR, instituídos sem prévia autorização do CONFAZ e estimativa de impacto financeiro, violam os artigos 113 do ADCT e 155, § 2º, XII, "g", da Constituição Federal.
+III. RAZÕES DE DECIDIR
+3. O agravo interno apresentou novos argumentos, configurando inovação recursal vedada, em conformidade com a jurisprudência do STJ.
+4. No mérito, o entendimento fixado pelo STF no Tema 1172 foi corretamente aplicado, reconhecendo que a postergação do ICMS pela concessão de incentivos fiscais não gera direito ao repasse ao município, pois a repartição se aplica apenas ao produto efetivamente arrecadado.
+IV. DISPOSITIVO E TESE
+5. Agravo interno parcialmente conhecido e, nesta extensão, desprovido. Tese de julgamento: "1. A repartição de receitas de ICMS depende do efetivo ingresso de receita ao erário estadual; incentivos fiscais que reduzem a carga tributária antes da arrecadação não conferem direito ao repasse aos municípios. 2. A tese relativa à declaração de inconstitucionalidade apresentada apenas quando da interposição do agravo interno configura inadmissível inovação recursal." Dispositivos relevantes citados: CF/1988, art. 158, IV; ADCT, art. 113; Constituição Federal, art. 155, § 2º, inciso XII, alínea "g". Jurisprudência relevante citada: STF, Tema 1172, Repercussão Geral.
+
+Opostos os embargos de declaração, estes foram conhecidos e parcialmente acolhidos apenas para suprir a omissão quanto à fixação dos honorários advocatícios:
+DIREITO TRIBUTÁRIO. EMBARGOS DE DECLARAÇÃO NA APELAÇÃO CÍVEL. REPASSE DE ICMS. INCENTIVOS FISCAIS. INEXISTÊNCIA DE O M I S S Ã O O U C O N T R A D I Ç Ã O . H O N O R Á R I O S A D V O C A T Í C I O S F I X A D O S P O R E Q U I D A D E . EMBARGOS PARCIALMENTE ACOLHIDOS.
+I. CASO EM EXAME 1. Embargos de declaração opostos pelo Município de Itauçu contra acórdão que desproveu agravo interno interposto em desfavor do Estado de Goiás, no âmbito de apelação cível, sustentando omissão e contradição na decisão embargada quanto à inconstitucionalidade dos programas FOMENTAR e PRODUZIR e à fixação dos honorários advocatícios.
+II. QUESTÃO EM DISCUSSÃO
+2. Há duas questões em discussão: (i) saber se houve omissão ou contradição na decisão embargada quanto à alegação de inconstitucionalidade dos programas FOMENTAR e PRODUZIR e à obrigatoriedade do repasse do ICMS incentivado; e (ii) saber se os honorários advocatícios deveriam ser fixados por equidade. III. RAZÕES DE DECIDIR
+3. O acórdão embargado analisou expressamente a questão da inconstitucionalidade dos programas FOMENTAR e PRODUZIR, aplicando o entendimento do STF no Tema 1172, segundo o qual a repartição de receitas de ICMS depende do efetivo ingresso de valores no erário estadual.
+4. A alegação de contradição não se sustenta, pois a decisão embargada seguiu a jurisprudência consolidada do STF e consignou que a argumentação relativa à inconstitucionalidade dos incentivos fiscais foi inovada apenas em sede de agravo interno, o que não é admitido.
+5. Em relação aos honorários advocatícios, verificou-se a necessidade de fixação por equidade, considerando o tempo de tramitação do feito, a complexidade do tema e o trabalho desenvolvido, nos termos do artigo 85, § 8º, do CPC.
+IV. DISPOSITIVO E TESE
+6. Embargos de declaração conhecidos e parcialmente acolhidos apenas para suprir a omissão quanto à fixação dos honorários advocatícios, arbitrando-os por equidade. Tese de julgamento: "1. A ausência de autorização do CONFAZ e de estimativa de impacto financeiro dos programas FOMENTAR e PRODUZIR não enseja, por si só, a obrigatoriedade do repasse do ICMS incentivado aos municípios, conforme entendimento do STF no Tema 1172. 2. A fixação de honorários advocatícios pode ser feita por equidade nos casos em que o valor da causa não reflete adequadamente a complexidade e a tramitação da demanda, nos termos do artigo 85, § 8º, do CPC."  ..  (fls. 1.245-1.246).
+Em suas razões recursais, a parte recorrente alega, em síntese, violação aos arts. 1.022, II e parágrafo único, II e 489, § 1º, IV e VI, do CPC, por negativa de prestação jurisdicional, ante a omissão quanto à analise de matéria de ordem pública (inconstitucionalidade de lei) levantada.
+Assevera, ainda, que houve afronta aos arts. 485, § 3º e 933, do CPC, alegando que a inconstitucionalidade constitui matéria de ordem pública não sujeita à preclusão, podendo ser conhecida de ofício ou invocada pelas partes a qualquer tempo nas instâncias ordinárias, inclusive por meio de embargos de declaração.
+Ao final, pugna pela:
+ ..  devolução dos autos ao Tribunal de origem, a fim de que seja proferido novo julgamento no sentido de proceder com o enfrentamento da omissão quanto às matérias de ordem pública posta no recurso, qual seja, inconstitucionalidade da Lei Complementar Federal 160/2017 e, por arrastamento, das Cláusulas Primeira e Oitava do Convênio ICMS 190/2017, do Decreto Estadual nº 9.193/2018 e da Lei estadual nº 20.368/2018, por afronta ao art. 113 do ADCT, incluído pela EC 95/2016, como também da integralidade das leis e atos normativos que, unilateralmente, instituíram, regulamentaram e alteraram os benefícios fiscais FOMENTAR (Lei nº 9.489/84) e PRODUZIR (Lei 13.591/2000), inclusive de seus subprogramas, por transgressão à reserva de Convênio - CONFAZ, inscrita no art. 155, § 2º, inciso XII, alínea "g", da Constituição da República (fl. 1.283).
+Contrarrazões apresentadas às fls. 1.554-1564.
+O recurso especial foi inadmitido na origem, daí a interposição do presente agravo em recurso especial (fls. 1.603-1.618).
+Contraminuta apresentada.
+É o relatório.
+Passo a decidir.
+Atendidos os pressupostos de conhecimento do agravo em recurso especial, passo à análise do recurso especial.
+De início, quanto à apontada violação aos arts. 489, § 1º, IV e VI, e 1.022, II, parágrafo único, II, do CPC, não há nulidade por omissão, tampouco negativa de prestação jurisdicional, no acórdão que decide de modo integral e com fundamentação suficiente a controvérsia posta.
+No caso, o Tribunal de origem dirimiu as questões pertinentes ao litígio de forma suficientemente ampla e fundamentada, consignando que:
+Verifica-se que o agravante introduziu novos argumentos em sede de agravo interno, incluindo a alegação de inconstitucionalidade com base na falta de autorização do CONFAZ e de estimativa financeira, o que configura inovação recursal.
+Segundo o entendimento do Superior Tribunal de Justiça no REsp 1.821.061, é inadmissível a inclusão de novos fundamentos em agravo interno que não foram oportunamente apresentados, sendo vedado o conhecimento do recurso nesses pontos em razão do princípio da preclusão: (fl. 1.164).
+E ainda, em sede de julgamento de embargos de declaração, a Corte de origem assim se manifestou sobre a matéria dos autos:
+O embargante sustenta omissão quanto à análise da inconstitucionalidade dos programas FOMENTAR e PRODUZIR. No entanto, observa-se que o acórdão abordou de forma clara o entendimento firmado pelo STF no Tema 1172, segundo o qual a repartição de receitas de ICMS depende do efetivo ingresso de receita ao erário estadual, o que afasta a obrigatoriedade de repasse de valores não arrecadados.
+Assim, a alegação de inconstitucionalidade foi devidamente apreciada, inexistindo omissão a ser suprida (fls. 1.247-1.248).
+Como se vê, a negativa de prestação jurisdicional não restou configurada.
+Por outro lado, a fundamentação adotada no acórdão é suficiente para respaldar a conclusão alcançada.
+Vale lembrar que, mesmo à luz do art. 489 do CPC, o órgão julgador não está obrigado a se pronunciar acerca de todo e qualquer ponto suscitado pela parte, mas apenas sobre aqueles capazes de, em tese, infirmar a conclusão adotada.
+Assim, inexiste violação aos arts. 489, § 1º, IV e VI, e 1.022, II, parágrafo único, II, do CPC.
+No mais, observa-se que a controvérsia foi decidida à luz do Tema 1172/STF cuja tese fixada foi a seguinte:
+Os programas de diferimento ou postergação de pagamento de ICMS - a exemplo do FOMENTAR e do PRODUZIR, do Estado de Goiás - não violam o sistema constitucional de repartição de receitas tributárias previsto no art. 158, IV, da Constituição Federal, desde que seja preservado o repasse da parcela pertencente aos Municípios quando do efetivo ingresso do tributo nos cofres públicos estaduais.
+Nesse contexto, a análise de inconstitucionalidade da Lei Complementar 160/2017 e, por arrastamento, das Cláusulas Primeira e Oitava do Convênio ICMS 190/2017, do Decreto Estadual 9.193/2018 e da Lei estadual nº 20.368/2018, por afronta ao art. 113 do ADCT, incluído pela EC 95/2016, como também da integralidade das leis e atos normativos que, unilateralmente, instituíram, regulamentaram e alteraram os benefícios fiscais FOMENTAR (Lei 9.489/1984) e PRODUZIR (Lei 13.591/2000), inclusive de seus subprogramas, por transgressão à reserva de Convênio - CONFAZ (art. art. 155, § 2º, inciso XII, g, da CF), são matérias de índole constitucional, insuscetíveis de apreciação em recurso especial.
+A propósito:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DIREITO ADMINISTRATIVO. SERVIDOR. RESSARCIMENTO AO ERÁRIO. DECLARAÇÃO DE INCONSTITUCIONALIDADE DE LEI ESTADUAL. PRESCRIÇÃO. MATÉRIA CONSTITUCIONAL. INVIABILIDADE DE ANÁLISE NA ESFERA RECURSAL. RAZÕES RECURSAIS DISSOCIADAS DOS FUNDAMENTOS DO JULGADO ATACADO. APLICAÇÃO DA SÚMULA N. 284/STF. AGRAVO INTERNO DESPROVIDO.
+1. Constata-se realmente ser incabível o Recurso Especial porque a tese recursal é eminentemente constitucional, ainda que se tenha indicada nas recursais violação ou interpretação divergente de dispositivos de lei federal.
+2. A dissociação entre os fundamentos do acórdão recorrido e aqueles deduzidos nas razões do recurso especial também caracteriza deficiência na fundamentação, a atrair a incidência da Súmula 284/STF.
+3. Agravo interno desprovido (AgInt no AREsp n. 3.014.663/GO, relator Ministro Marco Aurélio Bellizze, Segunda Turma, julgado em 22/4/2026, DJEN de 28/4/2026).
+Isso posto, com fundamento no art. 253, parágrafo único, II, a e b, do RISTJ, conheço do agravo para conhecer em parte do recurso especial e, nessa extensão, negar-lhe provimento.
+Majoro os honorários advocatícios em R$ 1.000,00 (mil reais), com fundamento no art. 85, § 11, do CPC, observados os limites percentuais previstos no § 3º do referido dispositivo legal, bem como eventual concessão da gratuidade da justiça.
+Intimem-se.
+EMENTA
