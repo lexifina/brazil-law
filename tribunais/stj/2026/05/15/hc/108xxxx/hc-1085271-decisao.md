@@ -1,0 +1,37 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em favor de CARLOS LEANDRO PEROBA em que se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO (Revisão Criminal n. 0020862-89.2023.8.26.0000).
+Consta dos autos que o paciente foi condenado, com imposição do regime inicial fechado, como incurso nas sanções dos arts. 33, caput, e 35, caput, da Lei n. 11.343/2006, 16, parágrafo único, IV, da Lei n. 10.826/2003 e 288, parágrafo único, do Código Penal, todos c/c o art. 69 do Código Penal.
+Alega que houve negativa de jurisdição, porque o Tribunal de origem indeferiu o processamento da revisão criminal com fundamento na rediscussão de temas já apreciados, sem examinar o mérito.
+Afirma que não há identidade temática com as revisões anteriores, e que o indeferimento liminar impediu a análise colegiada das teses defensivas.
+Argumenta que houve violação aos arts. 5º, XXXV, e 93, IX, da Constituição Federal, além de ofensa ao devido processo legal, ao contraditório e à ampla defesa.
+Requer, em suma, a cassação do ato que indeferiu a revisão criminal e a determinação de seu regular processamento e julgamento pelo órgão competente.
+É o relatório.
+No caso em análise, o Presidente da Seção de Direito Criminal do TJSP monocraticamente indeferiu liminarmente a revisão criminal proposta pelo ora paciente.
+Em face desta decisão foi interposto agravo regimental que foi indeferido com base no que segue (fls. 21-24):
+O presente recurso não reúne condições de processamento.
+A decisão agravada foi proferida pelo Presidente da Seção de Direito Criminal, na competência de dirigir a distribuição dos feitos, prevista no art. 45, II do Regimento Interno do Tribunal de Justiça de São Paulo, e limitou-se a verificar a presença de elementos formais que minimamente permitissem a distribuição do recurso.
+Logo, não foi prolatada na qualidade de relator e, portanto, não é passível de impugnação pela via do agravo regimental.
+Com efeito, o agravo regimental, nos moldes do agravo interno previsto na lei processual civil, consiste no meio de submeter decisão monocrática de relator ao órgão colegiado (CPC, art. 1.021 e RITJSP, art. 253).
+Ocorre que os Presidentes de Seção, especificamente na competência de dirigir a distribuição dos feitos, não atuam como relatores, mas como gestores da distribuição, sendo essa a razão pela qual não estão vinculados, nem legalmente, nem regimentalmente, a órgão colegiado com competência para julgar agravos regimentais.
+Nem se argumente que este recurso deveria ser apreciado pela Câmara Especial de Presidentes.
+É que tal órgão tem competência restrita para julgar agravos internos interpostos contra decisões proferidas pelos Presidentes das Seções relacionadas a recursos extraordinários ou especiais (RITJSP, art. 33-A, §1º) ou contra decisões monocráticas que, na fase de processamento de recursos especiais e/ou extraordinários, possam causar prejuízo ao direito da parte ou sejam proferidas na execução de acórdãos (RITJSP, art. 33-A, §2º).
+Constata-se, pois, que competência do aludido órgão colegiado não se estende a agravos interpostos contra decisões dos Presidentes de Seção proferidas na competência de dirigir a distribuição dos feitos.
+É o que basta para se concluir pela inadequação da via recursal eleita e, por conseguinte, indeferir o processamento deste recurso. Pelo exposto, INDEFIRO o processamento deste agravo regimental.
+Em suma, o Presidente da Seção Criminal entendeu que a decisão que indeferiu o processamento do pedido revisional não possui conteúdo decisório e que não seria possível de ser impugnada por meio de agravo regimental.
+Ao analisar o teor do referido ato agravado indeferindo a distribuição da revisão criminal, fica constatada a nítida presença de conteúdo decisório nos seguintes termos (fls. 11-20 , destaque acrescido):
+No presente caso, verifica-se que o interessado já ofereceu, por duas vezes, revisões criminais anteriores, ambas ao final rejeitadas, por v. acórdãos que já transitaram em julgado.
+Ocorre que, a despeito de o requerente sustentar que as matérias ora ventiladas não foram objeto de análise anterior por esta Eg. Corte (fls. 163/164), do cotejo entre as revisões criminais anteriores (autos nº 0020862-89.2023.8.26.0000 e 2096146- 98.2025.8.26.0000), o v. Acórdão da Apelação Criminal originária (autos nº 0073284-61.2018.8.26.0050) e a presente, não se verifica nenhuma diferença substancial entre as questões postas. Vale dizer, o requerente se utiliza da presente ação, mais uma vez, como se nova apelação fosse, devolvendo, de forma ampla, matérias já exaustivamente apreciadas por este E. Tribunal de Justiça, seja no julgamento da apelação criminal interposta em face da r. Sentença condenatória, seja no julgados das duas revisões criminais anteriores.
+ ..
+Portanto, na hipótese, vê-se que o interessado limita-se a postular nova revisão criminal, sem, contudo, apontar qualquer das hipóteses elencadas (em especial a existência de novas provas artigo 622, parágrafo único, do Código Processual Penal), razão pela qual não se vislumbra a presença de quaisquer dos requisitos taxativos constantes dos incisos do artigo 621 do CPP, de sorte que o pedido não reúne condições mínimas para processamento.
+Do exposto, ante a coisa julgada, indefiro o processamento do pedido revisional e julgo extinto o processo.
+Contudo, mesmo que a decisão agravada não possuísse nenhum conteúdo decisório e apenas ficasse adstrita a "verificar a presença de elementos formais que minimamente permitissem a distribuição do feito", ainda assim, não seria correto afirmar que se trata de pronunciamento irrecorrível.
+A Constituição Federal prevê, em seu art. 5º, XXXV, o direito de ação, assegurando a qualquer pessoa a possibilidade de provocar o Poder Judiciário, independentemente de ter razão quanto ao seu pedido.
+Ademais, o art. 3º do CPP, cumulado com o art. 1.021 do CPC, estabelece a possibilidade de a parte interpor recurso de agravo interno ao respectivo órgão colegiado contra decisão proferida monocraticamente pelo relator.
+O procedimento adotado pelo Tribunal de origem está criando obstáculo intransponível para que o paciente exerça o seu direito sem sequer demonstrar de maneira concreta a existência de abuso por parte do requerente.
+Para além disso, tal procedimento não permite sequer que o órgão legítimo para apreciar a revisão criminal, qual seja, o colegiado da seção criminal, conheça da matéria, em certa medida usurpando a sua competência.
+Não se está a dizer que a Presidência da Seção Criminal não poderia indeferir liminarmente a revisão criminal, caso ela seja manifestamente improcedente ou não preencha os requisitos mínimos de conhecimento, mas sim que essas decisões, caso não satisfaçam a parte requerente, podem ser impugnadas e remetidas para o órgão legitimamente competente para apreciar a revisão criminal.
+Nesse sentido, a decisão que impossibilitou a distribuição do agravo regimental acabou por cercear a defesa do paciente e impossibilitar o acesso à justiça.
+Ante o exposto, concedo a ordem de habeas corpus para determinar que seja distribuído a um dos gabinetes da Seção Criminal o agravo regimental interposto pelo paciente contra a decisão do Presidente da Seção Criminal do Tribunal de Justiça do Estado de São Paulo nos autos da Revisão Criminal n. 2057606-44.2026.8.26.0000.
+Cientifique-se o Ministério Público Federal.
+Publique-se. Intimem-se.
+ EMENTA
