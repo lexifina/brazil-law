@@ -1,0 +1,14 @@
+DECISÃO
+Trata-se de habeas corpus, impetrado em benefício de JEAN PADILHA LEANDRO - condenado por tráfico, associação para o tráfico de drogas e organização criminosa à pena de 20 anos, 6 meses e 7 dias de reclusão, em regime inicial fechado, e 2.320 dias-multa -, apontando como ato coator acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE SANTA CATARINA (Apelação Criminal n. 5001081-14.2022.8.24.0282).
+Busca a impetração a revisão da condenação imposta pelo Juízo de Direito e da 2ª Vara da comarca de Jaguaruna/SC, ao argumento de quebra da cadeia de custódia e ocorrência de bis in idem pela condenação por associação para o tráfico de drogas e participação em organização criminosa.
+Sem pedido liminar.
+É o relatório.
+O writ é inadmissível, uma vez que se trata de impetração destinada a revisar novamente a condenação imposta e mantida pelas instâncias ordinárias, e não se verifica a ocorrência de flagrante constrangimento ilegal apto a subsidiar a superação do óbice.
+No caso, o Tribunal estadual afastou a alegação de quebra da cadeia de custódia ao fundamento de que o percurso dos aparelhos celulares foi devidamente documentado, inexistindo indícios de adulteração ou manipulação dos dados extraídos, de maneira que eventual irregularidade exige demonstração de prejuízo, o que não ocorreu (fl. 193), em consonância com o entendimento desta Corte Superior.
+Ademais, ao afastar a alegação de bis in idem entre os delitos de associação para o tráfico e organização criminosa, a Corte a quo destacou que o envolvimento com o "Primeiro Grupo Catarinense", facção criminosa amplamente conhecida e atuante no território estadual, com ramificações até mesmo em outras unidades da Federação e no âmbito carcerário, há anos sabidamente engajada na prática de uma variada gama de crimes, mediante funcionamento organizado, com hierarquia e normas de conduta estabelecidas, não se confunde com sua participação, por determinado período de tempo, em associação com algumas poucas pessoas, em célula voltada especificamente ao narcotráfico na região de Jaguaruna, que existia de forma separada e autônoma (fl. 280), em consonância com a jurisprudência desta Superior Corte de Justiça.
+Assim, concluir de forma diversa demandaria reexame do conjunto fático-probatório, inviável na via estreita do habeas corpus.
+Em razão disso, indefiro liminarmente a inicial (art. 210 do RISTJ).
+Publique-se.
+EMENTA
+PENAL. HABEAS CORPUS. TRÁFICO, ASSOCIAÇÃO PARA O TRÁFICO DE DROGAS E PARTICIPAÇÃO EM ORGANIZAÇÃO CRIMINOSA. PRETENSÃO DE REVISÃO DA CONDENAÇÃO IMPOSTA E MANTIDA PELAS INSTÂNCIAS ORDINÁRIAS. UTILIZAÇÃO INDEVIDA DO WRIT. INVIABILIDADE. QUEBRA DA CADEIA DE CUSTÓDIA. COMPROVAÇÃO DE PREJUÍZO. AUSÊNCIA. CONDENAÇÃO PELA ASSOCIAÇÃO PARA O TRÁFICO DE DROGAS E PARTICIPAÇÃO EM ORGANIZAÇÃO CRIMINOSA. ALEGAÇÃO DE BIS IN IDEM. REVOLVIMENTO DE FATOS E PROVAS. INVIABILIDADE. CONSTRANGIMENTO ILEGAL MANIFESTO. AUSÊNCIA.
+Inicial indeferida liminarmente.
