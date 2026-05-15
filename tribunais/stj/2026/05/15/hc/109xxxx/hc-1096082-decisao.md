@@ -1,0 +1,41 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido de liminar, impetrado em favor de KAUAN DE FREITAS NUNES DE SOUZA, apontando como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, que deu provimento ao Agravo de Execução Penal n. 0000143-03.2026.8.26.0996, assim ementado (fl. 17):
+AGRAVO EM EXECUÇÃO PENAL. PROGRESSÃO DE REGIME. EXAME CRIMINOLÓGICO. Embora o Juízo de origem tenha concluído pela desnecessidade do exame criminológico, as circunstâncias do caso concreto evidenciam a imprescindibilidade da perícia. Reeducando que, enquanto cumpria pena em regime aberto, voltou a delinquir, circunstância que configura infração disciplinar de natureza grave, nos termos do artigo 52 da Lei de Execução Penal. Ainda que a falta tenha sido reabilitada e o novo delito somado ao PEC principal, tal situação revela dificuldade de adaptação a regime menos rigoroso e impõe a necessidade de avaliação técnica para a aferição do mérito exigido à progressão. Aplicação do princípio do in dubio pro societate. Determinação de submissão do sentenciado a exame criminológico antes da nova análise do pedido de progressão. AGRAVO PROVIDO.
+Consta dos autos que o Juízo da Execução havia deferido ao paciente a progressão ao regime semiaberto, afastando a necessidade de realização de exame criminológico.
+O Tribunal de Justiça de São Paulo, contudo, deu provimento ao recurso do Ministério Público para cassar a referida decisão, determinar a regressão do paciente ao regime anterior e determinar a realização de exame criminológico.
+Neste writ, a Defesa sustenta a ocorrência de constrangimento ilegal argumentando que, apesar do cumprimento do requisito objetivo, do bom comportamento carcerário e da inexistência de falta disciplinar recente, a utilização de fato pretérito já reabilitado na execução para impedir o avanço de regime configura bis in idem executório e esvazia a eficácia da reabilitação disciplinar.
+Alega a impossibilidade de aplicação retroativa da Lei n. 14.843/2024 e a ausência de fundamentação idônea para a exigência do exame.
+Requer, liminarmente e no mérito, seja concedida ao paciente a progressão de regime, independentemente da realização do exame criminológico.
+É o relatório.
+Decido.
+No caso em análise, verifico, por meio de consulta ao sítio eletrônico do Tribunal de origem, que o acórdão impugnado foi disponibilizado no DJEN no dia 06/05/2026. Dessa forma, a presente impetração foi protocolada antes do termo final para a interposição do recurso pertinente.
+Configura-se, assim, prematura a utilização do habeas corpus como sucedâneo do recurso adequado, não sendo viável, na presente conjuntura, descartar a possibilidade de a questão jurídica ser submetida a esta Corte Superior através da via processual apropriada, isto é, o recurso especial. Consequentemente, não se afigura apropriado ao Superior Tribunal de Justiça proceder, de forma antecipada, à análise do mérito da controvérsia apresentada.
+Nesse sentido:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. WRIT SUBSTITUTIVO DE RECURSO ESPECIAL. PRAZO PARA A INTERPOSIÇÃO DO RECURSO CABÍVEL NA CAUSA PRINCIPAL QUE AINDA NÃO FLUIU. INADEQUAÇÃO DA PRESENTE VIA IMPUGNATIVA. PRECEDENTES DA SEXTA TURMA DO SUPERIOR TRIBUNAL DE JUSTIÇA. DESCABIMENTO DE CONCESSÃO DE HABEAS CORPUS EX OFFICIO. PETIÇÃO INICIAL INDEFERIDA LIMINARMENTE. AGRAVO REGIMENTAL DESPROVIDO.
+1. De acordo com o entendimento desta Corte Superior de Justiça, não compete ao Superior Tribunal de Justiça examinar, ante tempus, a controvérsia deduzida em habeas corpus impetrado antes do termo para a interposição da via de impugnação própria na causa principal, salvo se trate de pretensão relativa à tutela direta e imediata da liberdade ambulatorial do Paciente. Precedentes.
+2. Na hipótese, não se verifica manifesta ilegalidade que imponha a concessão de habeas corpus, de ofício, porque na via eleita - inadequada e de rito célere -, ao menos primo ictu oculi não se mostra adequada para concluir-se se foi justa ou não a reprimenda aplicada ao Paciente, não sendo ainda o caso de mitigação da Súmula n. 231/STJ.
+3. Agravo regimental desprovido. (AgRg no HC n. 874.553/PE, relator Ministro Teodoro Silva Santos, Sexta Turma, julgado em 11/3/2024, DJe de 15/3/2024.)
+Ademais,  não  constato,  ao menos a princípio,  flagrante  ilegalidade  apta  a  ensejar  a  concessão  de  habeas  corpus  de  ofício, isso porque a jurisprudência desta Corte, consolidada na Súmula n. 439 ("Admite-se o exame criminológico pelas peculiaridades do caso, desde que em decisão motivada"), bem como o entendimento do Supremo Tribunal Federal (Súmula Vinculante n. 26), facultam ao magistrado, diante das circunstâncias do caso concreto, exigir a realização da perícia.
+Dessa forma, estando a decisão impugnada devidamente motivada em elementos concretos  quais sejam, o histórico prisional e o cometimento de novo delito durante o regime aberto, indicativos da necessidade de uma avaliação mais aprofundada sobre a assimilação da terapêutica penal  , não há que se falar em constrangimento ilegal manifesto.
+Outrossim, a execução penal admite o exame global da trajetória do sentenciado para aferição do requisito subjetivo, e a reabilitação disciplinar não impede que o fato, ocorrido durante regime mais brando, seja considerado na análise de aptidão, especialmente quando o próprio benefício reclamado envolve maior liberdade de movimentos.
+A propósito:
+DIREITO PROCESSUAL PENAL. AGRAVO REGIMENTAL. PROGRESSÃO DE REGIME. EXAME CRIMINOLÓGICO. REQUISITO SUBJETIVO. AGRAVO REGIMENTAL DESPROVIDO.
+I. CASO EM EXAME
+1. Agravo regimental interposto contra decisão que não conheceu de habeas corpus, em que se pleiteava a progressão ao regime aberto, independentemente da realização de exame criminológico.
+2. O juízo da execução penal indeferiu o pedido de progressão ao regime aberto por ausência do requisito subjetivo. O Tribunal de origem, ao julgar agravo de execução penal, determinou a realização de exame criminológico para posterior reanálise do pedido de progressão.
+3. Nas razões do agravo regimental, o recorrente alegou que a exigência do exame criminológico não poderia ser aplicada retroativamente, que os requisitos objetivo e subjetivo para a progressão foram preenchidos, e que o indeferimento da progressão carece de fundamentação concreta idônea.
+II. QUESTÃO EM DISCUSSÃO
+4. A questão em discussão consiste em saber se a exigência de exame criminológico para a progressão ao regime aberto, determinada pelo Tribunal de origem, é válida, considerando o histórico prisional do apenado e as peculiaridades do caso concreto.
+III. RAZÕES DE DECIDIR
+5. O habeas corpus não deve ser conhecido quando utilizado como substitutivo de recurso próprio, salvo em casos de flagrante ilegalidade, o que não se verifica no caso concreto.
+6. A decisão do Tribunal de origem, que determinou a realização de exame criminológico, está fundamentada nas peculiaridades do caso concreto, especialmente no histórico prisional do apenado, que inclui a prática de novo delito após progressão ao regime aberto.
+7. O exame criminológico, embora não vinculante, é considerado método idôneo para subsidiar a análise do requisito subjetivo para progressão de regime, conforme entendimento consolidado na jurisprudência.
+8. A análise do requisito subjetivo para progressão de regime deve considerar todo o histórico prisional do apenado, conforme entendimento firmado pela Terceira Seção do STJ no Tema 1161 (por analogia).
+IV. DISPOSITIVO E TESE
+9. Resultado do Julgamento: Agravo regimental desprovido.
+ ..
+(AgRg no HC n. 1.048.321/SP, relator Ministro Messod Azulay Neto, Quinta Turma, julgado em 4/3/2026, DJEN de 11/3/2026; grifamos )
+Por fim, a despeito de, no atestado de conduta carcerária, eventualmente constar bom comportamento, esta Corte Superior de Justiça firmou orientação no sentido de que, ainda que haja atestado de boa conduta carcerária, a análise desfavorável do mérito do condenado feita pelo Juízo das execuções, com base nas peculiaridades do caso concreto, justifica o indeferimento do pleito pelo inadimplemento do requisito subjetivo (HC n. 468.765/RS, Rel. Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 06/12/2018, DJe de 18/12/2018).
+Ante  o  exposto,  indefiro liminarmente o  habeas  corpus.
+Publique-se.  Intimem-se.
+EMENTA
