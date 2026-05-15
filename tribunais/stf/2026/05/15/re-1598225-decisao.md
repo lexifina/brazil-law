@@ -1,0 +1,54 @@
+Decisão
+
+Trata-se de Recurso Extraordinário interposto em face de acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo, assim ementado (Doc. 10, fl. 2):
+
+“DIREITO TRIBUTÁRIO. TAXA SINISTRO. APELAÇÃO. EMBARGOS À EXECUÇÃO FISCAL. RECURSODESPROVIDO. I. Caso em Exame Embargos à execução fiscal movidos por Irmandade de Misericórdia de Campinas contra o Município de Campinas, alegando nulidade das CDAs, imunidade tributária em relação ao IPTU e inconstitucionalidade das taxas de lixo e sinistro. Sentença reconheceu imunidade tributária quanto ao IPTU, extinguindo a execução fiscal para este tributo, mas mantendo-a para as taxas de lixo e sinistro. Recurso de apelação busca reforma parcial do julgado quanto à taxa de sinistro. II. Questão em Discussão 2. A questão em discussão consiste na validade da cobrança da taxa de sinistro, considerando a modulação dos efeitos da decisão do STF sobre sua inconstitucionalidade. III. Razões de Decidir 3. O STF reconheceu a inconstitucionalidade da taxa de sinistro, mas modulou os efeitos da decisão para ações ajuizadas antes de 01/08/2017, permitindo a cobrança para execuções distribuídas antes dessa data. 4. Precedentes desta E. 18ª Câmara de Direito Público confirmam a constitucionalidade da cobrança da taxa de sinistro em ações anteriores à modulação dos efeitos pelo STF. IV. Dispositivo e Tese 5. Recurso desprovido. Tese de julgamento: 1. A modulação dos efeitos da decisão do STF permite a cobrança da taxa de sinistro em execuções fiscais ajuizadas antes de 01/08/2017. Legislação Citada: CF/1988, art. 145, II e § 2º. CPC, art. 85, §§ 2º, 3º e 11. Jurisprudência Citada: STF, RE nº 643.247-SP, Rel. Min. Marco Aurélio. TJSP, Agravo de Instrumento 2280058-06.2022.8.26.0000, Rel. Ricardo Chimenti, 18ª Câmara de Direito Público, j. 29.03.2023. TJSP, Agravo de Instrumento 2009500-90.2022.8.26.0000, Rel. Botto Muscari, 18ª Câmara de Direito Público, j. 07.03.2022.”
+
+Opostos Embargos de Declaração (Doc. 12), foram rejeitados (Doc. 13).
+No Recurso Extraordinário (Doc. 15), interposto com amparo no art. 102, III, “a”, da Constituição Federal, IRMANDADE DE MISERICÓRDIA DE CAMPINAS aponta violação ao art. 145, II, da CF/1988, bem como contrariedade ao decidido por esta CORTE no Tema 16 da repercussão geral.
+Sustenta que o acórdão recorrido não observou o entendimento do STF no Tema 16 da repercussão geral, pois ignora o fato de que a Execução Fiscal foi ajuizada em 2007, “período notadamente anterior ao marco temporal estabelecido por este C. STF - que se deu em agosto de 2017. Com efeito, tal instrumento processual deve ser considerado para todos os fins de direito, meio hábil para o questionamento da constitucionalidade da taxa combatida e que, consequentemente, se reveste do caráter de “ação” ao qual este Pretório Excelso objetivou proteger com a modulação dos efeitos de sua decisão” (Doc. 15, fl. 5).
+Nessa linha, afirma que “no caso em tela, há a expressa ressalva de que para ações em curso a modulação de efeitos do Leading Case não se aplica. Fora apresentada defesa processual bastante no curso da Ação de Execução Fiscal, que, também já tramitava anteriormente à mencionada data da modulação dos efeitos da decisão, motivo pelo qual se faz imperioso o cancelamento da cobrança de taxa de sinistro objeto da cobrança em apreço” (Doc. 15, fl. 5).
+Ao final, requer provimento do presente recurso “para que seja aplicada a sistemática da repercussão geral no caso concreto e a conseguinte declaração da inconstitucionalidade do tributo em apreço” (Doc. 15, fl. 6).
+Em seguida, o RE foi admitido observando que o acórdão recorrido “está em dissonância com o julgamento definitivo do mérito do RE nº 643.247/MG, que versa sobre a competência da criação da taxa de sinistro e a modulação dos efeitos da tese relativos a ela referidos, o recurso merece trânsito” (Doc. 17).
+É o relatório. Decido.
+
+Os recursos extraordinários somente serão conhecidos e julgados, quando essenciais e relevantes as questões constitucionais a serem analisadas, sendo imprescindível ao recorrente, em sua petição de interposição de recurso, a apresentação formal e motivada da repercussão geral que demonstre, perante o SUPREMO TRIBUNAL FEDERAL, a existência de acentuado interesse geral na solução das questões constitucionais discutidas no processo, que transcenda a defesa puramente de interesses subjetivos e particulares.
+A obrigação do recorrente de apresentar, formal e motivadamente, a repercussão geral que demonstre, sob o ponto de vista econômico, político, social ou jurídico, a relevância da questão constitucional debatida que ultrapasse os interesses subjetivos da causa, conforme exigência constitucional, legal e regimental (art. 102, § 3º, da CF/88, c/c art. 1.035, § 2º, do Código de Processo Civil de 2015 e art. 327, § 1º, do Regimento Interno do Supremo Tribunal Federal), não se confunde com meras invocações, desacompanhadas de sólidos fundamentos e de demonstração dos requisitos no caso concreto, de que (a) o tema controvertido é portador de ampla repercussão e de suma importância para o cenário econômico, político, social ou jurídico; (b) a matéria não interessa única e simplesmente às partes envolvidas na lide; ou, ainda, de que (c) a jurisprudência do SUPREMO TRIBUNAL FEDERAL é incontroversa no tocante à causa debatida, entre outras alegações de igual patamar argumentativo (ARE 691.595-AgR, Rel. Min. RICARDO LEWANDOWSKI, Segunda Turma, DJe de 25/2/2013; ARE 696.347-AgRsegundo, Rel. Min. CÁRMEN LÚCIA, Segunda Turma, DJe de 14/2/2013; ARE 696.263-AgR, Rel. Min. LUIZ FUX, Primeira Turma, DJe de 19/2/2013; AI 717.821-AgR, Rel. Min. JOAQUIM BARBOSA, Segunda Turma, DJe de 13/8/2012).
+Eis os fundamentos da parte para sustentar a repercussão geral da matéria (Doc. 15, fl. 3):
+
+“I.II DA REPERCUÇÃO GERAL JÁ CONHECIDA
+A matéria em questão é discutida em todas as instâncias, inclusive no Tribunal Estadual, a qual teve significativas decisões em prol da inconstitucionalidade da taxa de sinistro.
+Neste sentido, pelo mesmo meio que o Colendo Supremo Tribunal Federal conheceu e julgou o Recurso Extraordinário de nº 643.247, representativo do Tema de Repercussão nº 16, deveria, também, conhecer do presente, haja vista o fato de que a decisão hostilizada não realizou a correta adequação do julgado ao caso concreto.
+Assim, já tendo havido o reconhecimento da Repercussão Geral da matéria no âmbito do supracitado Leading Casa, faz-se mister o conhecimento do presente apelo extremo.
+Ademais, a matéria importa ao Estado, uma vez que a interpretação equivocada de precedente poderá ter impacto direto no mister constitucional da segurança jurídica e da guarda da Constituição Federal, sendo que o desrespeito a uma das suas disposições interessa à própria administração da Justiça.”
+
+ Não havendo demonstração fundamentada da presença de repercussão geral, incabível o seguimento do Recurso Extraordinário.
+Além disso, embora a parte recorrente tenha indicado a norma supostamente violada, não informou, de forma clara, de modo ocorreu a alegada violação, limitando-se a defender, nas razões do RE, que o acórdão recorrido não observou a modulação dos efeitos fixada por esta CORTE no Tema 16/STF. Tal circunstância, leva a incidência ao caso, do óbice da Súmula 284/STF (É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia).
+Mesmo que fosse possível superar esses graves óbices, foram os seguintes os fundamentos do acórdão recorrido para dirimir a presente controvérsia (Doc. 10, fls. 4):
+
+“O Colendo Supremo Tribunal Federal, ao apreciar o Tema nº 16 da repercussão geral, fixou a seguinte tese: “O Tribunal, por unanimidade e nos termos do voto do Relator, fixou a seguinte tese de repercussão geral: “A segurança pública, presentes a prevenção e o combate a incêndios, faz-se, no campo da atividade precípua, pela unidade da Federação, e, porque serviço essencial, tem como a viabilizá-la a arrecadação de impostos, não cabendo ao Município a criação de taxa para tal fim”.
+Contudo, nos Embargos de Declaração do RE nº 643.247- SP, o Colendo Supremo Tribunal Federal modulou os efeitos da tese “a partir da data da publicação da data de julgamento 1º de agosto de 2017, ressalvadas as ações anteriormente ajuizadas”.
+Assim, considerando que a ação executiva fora distribuída em 2007, não se aplica, pois, a tese em questão, portanto, sendo válida a cobrança da taxa de sinistro.”
+
+O Plenário desta CORTE, por ocasião do julgamento do RE 643.247-RG (Tema 16, Rel. Min. MARCO AURÉLIO), fixou a seguinte tese de repercussão geral:
+
+“TAXA DE COMBATE A INCÊNDIO – INADEQUAÇÃO CONSTITUCIONAL. Descabe introduzir no cenário tributário, como obrigação do contribuinte, taxa visando a prevenção e o combate a incêndios, sendo imprópria a atuação do Município em tal campo.
+
+Por ocasião do julgamento dos Embargos de Declaração, houve a modulação prospectiva dos efeitos da tese, a partir da data da publicação da ata de julgamento (1º de agosto de 2017), ressalvadas as ações anteriormente ajuizadas.
+Confira-se a ementa do julgado:
+
+“INCONSTITUCIONALIDADE – QUÓRUM – MAIORIA ABSOLUTA – Para aferição da maioria absoluta prevista no artigo 97 da Constituição Federal, é despicienda a igualdade de fundamentos, sendo suficientes seis ou mais votos no sentido da inconstitucionalidade. EMBARGOS DECLARATÓRIOS – TRIBUTÁRIO – EFICÁCIA PROSPECTIVA – ADEQUAÇÃO. Conquanto se imponha parcimônia no manejo do instituto da modulação de efeitos de decisões, a alteração de jurisprudência consolidada há quase duas décadas justifica a eficácia prospectiva do novo pronunciamento, em atenção à segurança jurídica e ao interesse social, nos termos do artigo 927, § 3º, do Código de Processo Civil.”
+
+No caso concreto, os Embargos à Execução Fiscal foram interpostos em 14/5/2018 (Doc. 1), razão pela qual a ressalva da modulação do Tema 6 não beneficia a recorrente.
+O Tribunal de origem decidiu em consonância com esse entendimento, devendo, portanto, ser mantido.
+Diante do exposto, com base no art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal, NEGO SEGUIMENTO AO RECURSO EXTRAORDINÁRIO.
+Fixam-se honorários advocatícios adicionais equivalentes a 10% (dez por cento) do valor a esse título arbitrado nas instâncias ordinárias (Código de Processo Civil de 2015, art. 85, § 11).
+Ficam AMBAS AS PARTES advertidas de que:
+- a interposição de recursos manifestamente inadmissíveis ou improcedentes, ou meramente protelatórios, acarretará a imposição das sanções cabíveis;
+- decorridos 15 (quinze) dias úteis da intimação de cada parte sem a apresentação de recursos, será certificado o trânsito em julgado e dada baixa dos autos ao Juízo de origem.
+Publique-se.
+Brasília, 15 de maio de 2026.
+
+Ministro ALEXANDRE DE MORAES
+Relator
+Documento assinado digitalmente
