@@ -1,0 +1,14 @@
+DECISÃO
+Trata-se de conflito de competência suscitado na ação ajuizada por Odenir Vicentina de Souza Pazatto em face do Instituto Nacional do Seguro Social (INSS), objetivando receber valores previdenciários em atraso, referentes ao benefício de aposentadoria do seu falecido marido Vanderlei Pazatto.
+A ação iniciou-se perante o Juizado Especial Federal da Seção Judiciária de Ijuí/RS, que declinou da competência para a Justiça Estadual sediada na comarca onde está domiciliada a parte autora, a Vara Judicial da Comarca de Catuípe/RS.
+Suscitado o presente conflito perante o Superior Tribunal de Justiça (STJ) pelo Juízo Estadual, consignou-se que "se trata de mero pedido de alvará judicial para levantamento de valores não recebidos por beneficiário falecido", tratando-se de competência da Justiça Federal.
+Estando os autos devidamente instruídos com as informações necessárias para julgamento, dispenso a oitiva das autoridades em conflito, nos termos do art. 197 do Regimento Interno deste Tribunal.
+O Ministério Público Federal opina pelo conhecimento do conflito para declarar a competência do Juízo Federal suscitada.
+É o relatório. Decido.
+Verifica-se que a controvérsia dos autos refere-se à discussão acerca da competência para processar e julgar o feito em que se busca o levantamento de valores de benefício previdenciário não recebidos em vida pelo segurado.
+A Primeira Seção do Superior Tribunal de Justiça (STJ) consagrou entendimento no sentido de que, não havendo conflito de interesses, compete à Justiça Estadual autorizar o levantamento dos valores nos procedimentos de jurisdição voluntária, incidindo, por analogia, o entendimento consolidado na Súmula 161 do STJ, "É da competência da Justiça Estadual autorizar o levantamento dos valores relativos ao PIS/PASEP e FGTS, em decorrência do falecimento do titular".
+Com efeito, "em regra, os alvarás judiciais, processos de jurisdição voluntária, ainda que dirigidos às entidades mencionadas no art. 109, I, da Constituição Federal, quando não houver litigiosidade, devem ser processados e decididos pela Justiça Comum dos Estados. Somente se houver oposição de ente federal haverá deslocamento de competência à Justiça Especializada" (CC 185337/SP, Rel. Ministro Mauro Campbell Marques, publicado em 12/05/2022).
+No presente caso, não se trata de mero alvará judicial para levantamento de diferenças remuneratórias já depositadas no banco. Extrai-se da petição inicial que o INSS indeferiu o pedido administrativo formulado pela parte autora. Assim, a resistência da autarquia justifica seu ingresso na lide, o que atrai a competência da Justiça Federal, nos termos do art. 109, I, da Constituição Federal.
+Ante o exposto, com fundamento no art. 34, XXII, do Regimento Interno do STJ, conheço do conflito negativo de competência a fim de declarar competente para o processamento e julgamento da causa o Juízo Federal, o suscitado .
+Publique-se. Intimem-se.
+EMENTA
