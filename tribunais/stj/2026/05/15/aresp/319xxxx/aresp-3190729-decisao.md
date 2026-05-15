@@ -1,0 +1,12 @@
+DECISÃO
+Trata-se de agravo manejado por AMIL ASSISTENCIA MEDICA INTERNACIONAL S.A., desafiando decisão do TRIBUNAL REGIONAL FEDERAL DA 2ª REGIÃO, que não admitiu recurso especial com base nos seguintes fundamentos: óbice da Súmula 83/STJ sobre 2 (duas) questões: (i) possibilidade de cumulação de honorários fixados em execuções fiscais com aqueles fixados em ações conexas, como embargos do devedor ou ações anulatórias, desde que respeitado o limite legal previsto no art. 85, §2º e §3º; (ii) impossibilidade de se corrigir em sede de cumprimento de sentença critérios, percentuais e a base de cálculo de honorários advocatícios sucumbenciais.
+Nas razões do agravo, a parte agravante alega, em síntese, que: "pela leitura da jurisprudência colacionada, verifica-se que esta, em verdade, encontra-se no mesmo sentido da tese recursal, como se passa a expor. Ao interpor o presente recurso especial, a Amil destacou que houve desrespeito ao limite legal previsto no art. 85, §§2º e 3º, do CPC. Neste sentido, apesar de reconhecer ser possível a fixação dos honorários em ambas as demandas, de forma praticamente independente, a Recorrente destacou a necessidade de observar o limite legal imposto pelo CPC" (fl. 233).
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+Verifica-se que o inconformismo não ultrapassa a barreira do conhecimento, pois a parte agravante deixou de impugnar a totalidade dos motivos adotados pelo Tribunal de origem para negar trânsito ao apelo especial.
+No caso, em suas razões de agravo, a parte agravante deixou de rebater, de modo específico, o óbice da Súmula 83/STJ aplicada sobre a questão da impossibilidade de se corrigir em sede de cumprimento de sentença critérios, percentuais e a base de cálculo de honorários advocatícios sucumbenciais .
+Incide, desse modo, por analogia, a Súmula 182/STJ ("É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão recorrida").
+Essa foi a linha de entendimento confirmada pela Corte Especial do STJ ao julgar os EAREsp 701.404/SC e os EAREsp 831.326/SP, Rel. Min. João Otávio de Noronha, Rel. p/ acórdão Ministro Luis Felipe Salomão, DJe de 30/11/2018.
+ANTE O EXPOSTO, nos termos do art. 932, III, do CPC, não conheço do agravo em recurso especial.
+Levando-se em conta o trabalho adicional realizado em grau recursal, impõe-se à parte recorrente o pagamento de honorários advocatícios equivalentes a 20% (vinte por cento) do valor a esse título já fixado no processo (art. 85, § 11, do CPC).
+Publique-se.
+EMENTA
