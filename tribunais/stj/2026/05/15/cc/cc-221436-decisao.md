@@ -1,0 +1,13 @@
+DECISÃO
+Trata-se de conflito de competência suscitado na ação ajuizada por José da Cruz Papel Filho contra o Instituto Nacional do Seguro Social (INSS), objetivando o restabelecimento de auxílio-doença e sucessivamente a concessão de auxílio-acidente.
+A ação iniciou-se perante a Vara Cível da Comarca de Viradouro/SP, que julgou procedente o pedido sucessivo de auxílio-acidente. Após a interposição do recurso de apelação, a 17ª Câmara de Direit o Público do Tribunal de Justiça de São Paulo reconheceu sua incompetência absoluta determinando a remessa dos autos ao Tribunal Regional Federal da Terceira Região.
+Suscitado o presente conflito perante o Superior Tribunal de Justiça (STJ), consignou-se que o autor é filiado ao Regime Geral da Previdência Social na qualidade de contribuinte individual, hipótese em que o acidente sofrido não configura acidente do trabalho para fins de benefício acidentário, mas apenas previdenciário por incapacidade, de competência da Justiça Federal.
+Estando os autos devidamente instruídos com as informações necessárias para julgamento, dispenso a oitiva das autoridades em conflito, nos termos do art. 197 do Regimento Interno deste Tribunal.
+O Ministério Público Federal opina pelo conhecimento do conflito para declarar a competência da Justiça Federal, o suscitado.
+É o relatório. Decido.
+Conheço do presente conflito, porquanto se trata de controvérsia instaurada entre Juízes vinculados a Tribunais distintos, conforme o disposto no art. 105, I, d, da Constituição Federal.
+A jurisprudência do STJ firmou orientação no sentido de que "o acidente sofrido por trabalhador classificado pela lei previdenciária como segurado contribuinte individual, por expressa determinação legal, não configura acidente do trabalho, não ensejando, portanto, a concessão de benefício acidentário, apenas previdenciário, sob a jurisdição da Justiça Federal" (CC n. 140.943/SP, relator Ministro Mauro Campbell Marques, Primeira Seção, julgado em 8/2/2017, DJe de 16/2/2017).
+No mesmo sentido, são as seguintes decisões: CC n. 220.209, Ministro Benedito Gonçalves, DJEN de 24/03/2026; CC n. 219.225, Ministra Regina Helena Costa, DJEN de 25/2/2026; CC n. 218.676, Ministro Teodoro Silva Santos, DJEN de 9/2/2026; CC n. 216.969, Ministro Gurgel de Faria, DJEN de 22/12/2025; REsp n. 2.031.420, Ministro Marco Aurélio Bellizze, DJEN de 12/12/2025; CC n. 217.050, Ministro Benedito Gonçalves, DJEN de 28/10/2025.
+Ante o exposto, com fundamento no art. 34, XXII, do Regimento Interno do STJ, conheço do presente conflito e declaro competente o Juízo Federal, o suscitado.
+Publique-se. Intimem-se.
+EMENTA
