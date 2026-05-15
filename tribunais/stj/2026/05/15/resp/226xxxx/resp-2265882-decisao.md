@@ -1,0 +1,22 @@
+DECISÃO
+Trata-se de recurso especial interposto por CAIRO HENRIQUE MARQUES contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE SANTA CATARINA que negou provimento ao agravo de execução penal e manteve o indeferimento da remição da pena pela aprovação no ENCCEJA/Ensino Fundamental, por entender que o recorrente já havia concluído os ensinos fundamental e médio antes do início do cumprimento da pena (fls. 29-32).
+Inconformado, o recorrente interpôs recurso especial, com fundamento no art. 105, inciso III, alínea "a", da Constituição Federal, para alegar violação ao art. 126 da Lei de Execução Penal (fls. 35-40).
+Em contrarrazões, o Ministério Público do Estado de Santa Catarina requer a admissibilidade e o desprovimento do recurso especial, afirmando a adequação da decisão recorrida à finalidade ressocializadora da remição e alinhando-se à jurisprudência dos Tribunais Superiores sobre a inviabilidade de remição por exame de certificação quando o nível de escolaridade já havia sido concluído antes do início da execução da pena (fls. 41-48).
+O Ministério Público Federal se manifestou pelo provimento do recurso especial (fls. 59-62).
+É o relatório. DECIDO.
+A controvérsia cinge-se à possibilidade de concessão de remição da pena pela aprovação no ENCCEJA - Ensino Fundamental, na hipótese em que o apenado já havia concluído o ensino fundamental antes de seu ingresso no estabelecimento prisional.
+O Tribunal de origem negou a remição, com base na seguinte fundamentação (fl. 29):
+"Na espécie, o reeducando requer a homologação de remição de 100 dias de pena em razão da sua aprovação no ENCCEJA 2024 na modalidade Ensino Fundamental.
+Ocorre, porém, conforme bem analisado na origem, que, antes mesmo do ingresso do apenado no estabelecimento prisional para cumprimento da pena objeto destes autos, ele já havia concluído o ensino fundamental e médio, nos anos de 2001 e 2004, respectivamente (SEEU, seq. 177.1).
+Ou seja, pretende o recorrente o deferimento da remição por aprovação no ENCCEJA em nível fundamental, certificação essa de nível educacional inferior àquela já possuída antes mesmo do seu ingresso no estabelecimento prisional.
+No caso, a aludida aprovação no ENCCEJA não denota crescimento intelectual necessário a justificar a remição almejada."
+Todavia, o fato de o apenado já possuir escolaridade correspondente ao ensino fundamental, médio ou superior antes do início da execução penal não constitui, por si só, impedimento à concessão da remição da pena pela aprovação no ENCCEJA ou no ENEM. Isso porque a aprovação nesses exames configura efetivo aproveitamento de estudo realizado durante o cumprimento da pena, ainda que desenvolvido de forma autônoma pelo reeducando no ambiente prisional.
+A interpretação do art. 126 da Lei de Execução Penal, em consonância com a Recomendação n. 44/2013 e a Resolução n. 391/2021 do CNJ, deve ser realizada de maneira extensiva e analógica in bonam partem, de modo a prestigiar a finalidade ressocializadora da remição pelo estudo e a incentivar o engajamento educacional da pessoa privada de liberdade.
+Ressalto, contudo, que não é devido o acréscimo de 1/3 previsto no § 5º do art. 126 da LEP.
+Nesse sentido:
+"3. A prévia conclusão do ensino fundamental em momento anterior ao cumprimento da pena não impede a remição pela aprovação no ENCCEJA, vedado apenas o acréscimo de 1/3 previsto no § 5º do art. 126 da LEP." (AgRg no HC n. 1.074.543/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 17/3/2026, DJEN de 24/3/2026)
+"4. A Resolução n. 391/2021 do CNJ determina que a aprovação nos exames que certificam a conclusão do ensino fundamental ou médio será considerada para fins de remição da pena, sem mencionar a necessidade de que a formação não tenha sido concluída antes do ingresso no sistema prisional.
+5. O Superior Tribunal de Justiça, no julgamento do EREsp n. 1.979.591/SP, fixou o entendimento de que é possível a remição da pena mesmo no caso de prévia conclusão do grau de ensino." (AgRg no HC n. 994.699/SP, relator Ministro Messod Azulay Neto, Quinta Turma, julgado em 10/6/2025, DJEN de 17/6/2025)
+Ante o exposto, nos termos do art. 255, § 4º, inciso III, do RISTJ, dou provimento ao recurso especial para que o Juízo da Execução proceda à remição da pena do apenado em razão de sua aprovação no ENCCEJA - Ensino Fundamental, sem o acréscimo de 1/3 pela conclusão do grau de escolaridade.
+Publique-se. Intimem-se.
+EMENTA
