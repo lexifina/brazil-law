@@ -1,0 +1,24 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de RAFAEL DIAS DE BRITO, apontando como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO GRANDE DO SUL (Agravo de Execução Penal n. 8007457-45.2024.8.21.0001/RS).
+Consta dos autos que durante a execução, instaurou-se procedimento para apuração de suposta falta grave cometida pelo paciente consistente em fato definido como crime doloso, ocorrido em 10/05/2022, com denúncia posteriormente recebida e ação penal em curso, ainda em fase de instrução. O Ministério Público requereu a apuração e, após audiência de justificação, o Juízo da execução deixou de reconhecer a falta, decisão reformada pela autoridade apontada como coatora, que determinou a regressão do paciente ao regime fechado, bem como tratou de consectários executórios relativos à data-base e à perda de remição.
+A parte impetrante alega que não houve prova mínima apta a sustentar o reconhecimento da falta grave, pois o acórdão recorrido baseou-se exclusivamente no recebimento da denúncia e na existência de ação penal em curso, sem qualquer elemento produzido sob o crivo do contraditório no procedimento disciplinar ou na ação penal correspondente.
+Sustenta que houve violação ao devido processo legal, ao contraditório e à presunção de inocência, bem como ao dever de fundamentação das decisões judiciais, porquanto a decisão colegiada seria genérica, com reprodução dos argumentos ministeriais e sem enfrentamento das teses defensivas, configurando nulidade por ausência de motivação concreta e individualizada.
+Argumenta, ainda, que houve inércia do Ministério Público na produção probatória no procedimento administrativo disciplinar, registrando que, na audiência de justificação, não teriam sido apresentados elementos probatórios.
+Aponta fragilidade da persecução penal, referindo que a ação penal n. 5019745-68.2023.8.21.0015/RS permanece sem instrução probatória concluída.
+Ressalta que a aplicação dos entendimentos jurisprudenciais sobre o tema, notadamente quanto à desnecessidade de trânsito em julgado, não autoriza decretação automática da infração disciplinar sem suporte probatório mínimo, sendo indispensável análise individualizada do caso concreto; ademais, afirma ter havido aplicação indevida e automática do Tema 758/STF, sem cotejo das particularidades dos autos.
+Assinala, por fim, obscuridade e contradições quanto à alteração da data-base, com violação aos arts. 118, I, e 127 da Lei n. 7.210/1984 (Lei de Execução Penal), pugnando pelo afastamento dos consectários fixados sem motivação idônea e, subsidiariamente, pela fixação do marco na data do suposto fato, 10/05/2023.
+Requer, liminarmente, a concessão da ordem para suspender os efeitos do acórdão proferido nos autos n. 8007457-45.2024.8.21.0001/RS e, no mérito, restabelecer a situação executória anterior ao reconhecimento da falta grave, com a declaração de nulidade da decisão colegiada por ausência de fundamentação e de suporte probatório mínimo. Subsidiariamente, pugna pela adequação da data-base ao marco do suposto cometimento do fato, 10/05/2023, e pela cassação dos consectários executórios fixados sem motivação concreta.
+É o relatório.
+Decido.
+De início, cumpre destacar que, na estreita via do habeas corpus, exige-se a prévia constituição da prova, devendo a impetração ser devidamente instruída com toda a documentação indispensável à apreciação da pretensão deduzida.
+No caso em tela, todavia, constato que a parte impetrante não juntou aos autos o inteiro teor do acórdão hostilizado, deixando de colacionar a ementa e o resultado do julgamento, documentos que se mostram indispensáveis para a adequada compreensão da controvérsia.
+Assim, a pretensão deduzida não pode ser conhecida, uma vez que a defesa não cumpriu o ônus de instruir o feito de forma adequada.
+Nesse sentido:
+PROCESSUAL PENAL. AGRAVO REGIMENTAL EM HABEAS CORPUS. INSTRUÇÃO DEFICIENTE. AUSÊNCIA DO INTEIRO TEOR DO ACÓRDÃO APONTADO COMO ATO COATOR. POSTERIOR JUNTADA DE DOCUMENTOS RELATIVOS A PROCESSO DIVERSO. DEFICIÊNCIA NÃO SANADA. AGRAVO REGIMENTAL DESPROVIDO.
+1. A ausência do inteiro teor do acórdão apontado como ato coator inviabiliza a compreensão integral da controvérsia e impede o exame do mérito. A simples juntada da ementa do julgado não supre a necessidade de apresentação da decisão integral, por não revelar os fundamentos determinantes adotados pelo órgão julgador.
+2. A posterior juntada de relatório e voto extraídos de apelação criminal diversa, sem pertinência com o feito indicado na impetração, não supre a deficiência inicial da instrução, permanecendo ausente a peça essencial ao deslinde da controvérsia.
+3. Agravo regimental desprovido.
+(AgRg no HC n. 1.066.061/RS, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 18/3/2026, DJEN de 24/3/2026.)
+Ante o exposto, indefiro liminarmente o presente habeas corpus.
+Publique-se. Intimem-se.
+ EMENTA
