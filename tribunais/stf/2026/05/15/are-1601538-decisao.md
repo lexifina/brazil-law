@@ -1,0 +1,68 @@
+DECISÃO
+
+RECURSO EXTRAORDINÁRIO COM AGRAVO. TRIBUTÁRIO E PROCESSUAL CIVIL. IMPOSTO SOBRE CIRCULAÇÃO DE MERCADORIAS E SERVIÇOS – ICMS. MAJORAÇÃO DE ALÍQUOTA: IMPOSSIBILIDADE DE ANÁLISE DA LEGISLAÇÃO INFRACONSTITUCIONAL LOCAL E DE REEXAME DE FATOS E PROVAS. SÚMULAS NS. 279 E 280 DO SUPREMO TRIBUNAL. AUSÊNCIA DE OFENSA CONSTITUCIONAL DIRETA. RECURSO EXTRAORDINÁRIO COM AGRAVO NÃO CONHECIDO.
+
+Relatório
+1. Agravo nos autos principais contra inadmissão de recurso extraordinário interposto, com base na al. a do inc. III do art. 102 da Constituição da República, contra o seguinte julgado do Tribunal de Justiça da Paraíba:
+“TRIBUTÁRIO e PROCESSO CIVIL. Apelação cível. Ação anulatória de débito fiscal. Cobrança de diferença de ICMS. Operações interestaduais com veículos novos cujo destino era o Estado da Paraíba. Recolhimento correspondente a 12% sobre as operações. Alteração de alíquota. Ausência de comunicação à COTEPE e publicação no diário oficial da união. Norma prevista na Clausula 15ª, I, do Convênio ICMS n. 81/93. Violação. Débito inexigível. Auto cancelado. Reforma da sentença. Provimento do recurso.
+- A alteração legislativa que majorou a alíquota incidente no fato gerador do tributo em questão foi realizada no Decreto nº 22.297/2002, editado pelo Estado da Paraíba, com alteração realizada pelo art. 1º do Decreto Estadual nº 33.880, publicado em 1º de maio de 2013, sem, contudo, obedecer a exigência prevista na cláusula décima quinta, inciso I, do Convênio ICMS nº 81/93, em consonância com o disposto no artigo 390, § 2º, Título V, do RICMS/PB, maculando a constituição do crédito pela violação ao princípio da anterioridade legal, publicidade e isonomia tributárias” (fls. 1-2, e-doc. 17).
+
+Os embargos de declaração opostos foram rejeitados (e-doc. 23).
+
+2. No recurso extraordinário, o agravante alegou ter o Tribunal de origem contrariado o caput do art. 5º, o caput do art. 37 e as als. b e c do inc. III do art. 150 da Constituição da República.
+
+Sustentou que, “com a edição do Decreto nº 22.927/2002, o Estado da Paraíba passou a suportar os prejuízos dos Estados que praticavam a alíquota de 12% nas operações interestaduais, para que pudesse brigar por instalação de fábricas e/ou aquecimento do mercado e, consequentemente um maior desenvolvimento do Estado. Ocorre que esse ônus passou a ser muito pesado e, para evitar um prejuízo exorbitante, o Estado da Paraíba alterou o citado decreto, acrescentando o § 5º, através do Decreto nº 33.485/2012, estabelecendo a celebração de Termo de Acordo, nas operações interestaduais, para as empresas que adquirirem veículos dos estados que praticam a alíquota de 12%” (fl. 8, e-doc. 28).
+
+Argumentou que “a revogação do inciso II do Dec. Estadual nº 22.927/2002 foi concretizada pelo Decreto Estadual nº 32.858/2012, de maneira que, a partir de 1º de junho de 2012 todas as operações interestaduais de entrada de veículos novos (códigos da NBM-SH relacionados nos Anexos I e II) nos estabelecimentos revendedores da Paraíba, oriundas de estabelecimento industrial fabricante, deixaram de ter a base de cálculo reduzida para o percentual de 12%, passando a incidir a mesma carga tributária praticada nos mercados vizinhos” (fl. 9, e-doc. 28).
+
+Asseverou que “os benefícios fiscais devem ser concedidos, visando sempre, primária e diretamente, ao interesse público e, só secundária ou indiretamente, ao interesse dos particulares, mormente porque se revestem em importantes instrumentos de política fiscal e social. Assim, a desigualdade produzida por uma renúncia fiscal somente é justificável, se do tratamento desigual resultar em redução das desigualdades sociais” (fl. 13, e-doc. 28).
+
+Afirmou que “as alterações na legislação tributária estadual, impugnadas pela recorrida, fizeram-se necessárias em razão justamente da extinção do Convênio ICMS 50/99, circunstância esta inclusive expressamente consignada nos ‘considerandos’ do Decreto nº 22.927/02” (fl. 16, e-doc. 28).
+
+Realçou que, “apesar da higidez dos créditos tributários, não havendo qualquer óbice decorrente da ausência de comunicação ao COTEPE, o acórdão recorrido desconstituiu os créditos tributários em comento, indo de encontro aos princípios da isonomia, da publicidade e da anterioridade legal (estampados respectivamente nos arts. 5º, caput; 37, caput; 150, III, alíneas ‘b’ e ‘c’, da CF), os quais são utilizados de fundamento pelo acórdão” (fl. 17, e-doc. 28).
+
+3. O recurso extraordinário foi inadmitido pela incidência das Súmulas ns. 279, 280 e 282 do Supremo Tribunal Federal (e-doc. 35).
+
+4. No agravo interposto contra a inadmissibilidade do recurso extraordinário, o agravante afirma que a alegada afronta “originou-se tão somente quando do acórdão de Id 20001357 deu provimento ao apelo da empresa. Evidentemente, não seria possível ao Estado prever o descumprimento das normas constitucionais pelo Tribunal Paraibano, motivo pelo qual não lhe era cabível arguir tal questão antes do acórdão que julgou o recurso. Constatado o maltrato à Constituição, o ente estadual logo diligenciou-se com a oposição tempestiva dos embargos de declaração” (fl. 6, e-doc. 40).
+
+Sustenta que “tão somente submeteu à análise da Excelsa Corte questão de direito, sem qualquer exigência de reexame de prova. Tanto é verdade que o recurso extraordinário interposto não chega nem mesmo adentrar em um plano de conflito para apreciação de uma prova, e sim demanda, tão somente, a aplicação do direito em si e, como tal, passível de controle por esse gênero de recurso” (fl. 8, e-doc. 40).
+
+Pede o provimento do presente recurso extraordinário com agravo.
+
+Examinados os elementos havidos nos autos, DECIDO.
+
+5. Cumpre afastar o fundamento da decisão agravada referente à ausência de prequestionamento, por ter sido a matéria objeto do recurso extraordinário impugnada nos embargos de declaração opostos contra o acórdão recorrido, em conformidade com o disposto no art. 1.025 do Código de Processo Civil.
+
+A superação desse óbice jurídico, entretanto, é insuficiente para o acolhimento da pretensão do agravante.
+
+6. O Tribunal de origem deu provimento à apelação da empresa contribuinte para reformar a sentença de improcedência e reconhecer a insubsistência das autuações fiscais, como se extrai das seguintes passagens do voto do Desembargador relator:
+“Infere-se dos autos que a empresa apelante ajuizou a presente ação de débito fiscal, relativo à exigência fiscal consubstanciada nos Autos de Infração nº 90913000.10.00000359/2015-34, 90913000.10.00000291/2015-93 e 90913000.10.00000295/2015-71, lavrado pela Autoridade Fiscal da Secretaria de Estado da Receita da Paraíba.
+A pretensão anulatória, por sua vez, foi julgada improcedente, cuja sentença de improcedência restou assim fundamentada (id 13639607): (...)
+O apelante, por sua vez, rebate a argumentação sentencial, procurando demonstrar a insubsistência das autuações, principalmente pelo fato de que a alteração da base de cálculo do ICMS/ST promovida pelo Decreto nº. 22.927/2002 não foi acompanhada da necessária comunicação à Comissão Técnica Permanente do ICMS – COTEPE, tampouco da publicação em diário oficial da União, conforme exigido pela cláusula décima quinta, inciso I, do Convênio ICMS nº 81/93 c/c o § 2º do artigo 390, Título V, do RICMS/PB, não produzindo, pois, efeitos aos contribuintes situados em outros Estados.
+Merece guarida a pretensão recursal.
+De fato, o Ente apelado não nega a ausência de comunicação, considerando-a desnecessária e inapta para invalidar o débito tributário constituído. Tampouco, há controvérsia sobre o fato gerador ou obrigatoriedade do recolhimento, restringindo-se ao valor da alíquota a ser observado.
+Outro fato incontroverso é que a alteração constitui mudança relevante, incluída nas hipóteses que devem ser comunicadas à COTEPE, conforme texto legal, ao qual a Administração Pública está vinculada pelo princípio da legalidade estrita.
+Ora, o Dec. nº 18.930 de 19 de junho de 1997 (e suas atualizações) regulamenta o ICMS do Estado da Paraíba e dispõe acerca das alíquotas das operações. Vejamos o que prevê seu art. 13, no que é pertinente ao objeto do presente caso: (...)
+Por sua vez, a alteração legislativa que majorou a alíquota incidente no fato gerador do tributo em questão foi realizada pelo Decreto nº 22.297/2002 editado pelo Estado da Paraíba, com alteração realizada pelo art. 1º do Decreto Estadual nº 33.880, publicado em 1º de maio de 2013, sem, contudo, obedecer as disposições legais citadas alhures – vez que não foi acompanhada da necessária comunicação à Comissão Técnica Permanente do ICMS – COTEPE, tampouco da publicação em diário oficial da União, conforme exigido pela cláusula décima quinta, inciso I, do Convênio ICMS nº 81/93 c/c o § 2º do artigo 390, Título V, do RICMS/PB –, maculando a constituição do crédito pela violação ao princípio da anterioridade legal, publicidade e isonomia tributárias.
+Assim, a reforma da sentença é medida imperativa.
+Ante o exposto, dou provimento ao recurso de apelação, por consectário, julgo procedentes os pedidos, para declarar nulos os autos de infração descritos na inicial, em virtude da ausência de eficácia do art. 1º, § 1º, do Decreto nº 22.297/02, bem como a nulidade da CDA com base no art. 2º, §§ e 3º da Lei n. 6.830/80, e consequentemente, declaro extinto o processo com fulcro no art. 487, I, do CPC” (fls. 4-9, e-doc. 17).
+
+Rever a conclusão adotada pelas instâncias anteriores exigiria a avaliação da legislação infraconstitucional local aplicável à espécie (Lei n. 6.830/1980, Decretos estaduais ns. 22.927/2002 e 33.880/2013, Convênio ICMS n. 81/1993 e RICMS/PB) e o reexame do conjunto fático-probatório. A alegada contrariedade à Constituição da República, se tivesse ocorrido, seria indireta, a inviabilizar o processamento do recurso extraordinário. Incidem na espécie as  Súmulas ns. 279 e 280 do Supremo Tribunal Federal. Assim, por exemplo:
+“Direito tributário. Agravo interno em recurso extraordinário com agravo. ICMS. Operação interestadual. Alegação de incidência de alíquota reduzida. Controvérsia acerca da natureza do destinatário das mercadorias e das operações. Súmulas 279 e 280/STF. I. Caso em exame 1. Agravo interno contra decisão que negou seguimento a recurso extraordinário com agravo, o qual tem por objeto acórdão que reformou em parte sentença de procedência parcial do pedido. II. Questão em discussão 2. Preenchimento dos pressupostos de admissibilidade do recurso extraordinário com agravo. III. Razão de decidir 3. A petição de agravo não trouxe novos argumentos aptos a desconstituir a decisão agravada, a qual deve ser mantida pelos seus próprios fundamentos. 4. Hipótese em que, para dissentir do entendimento firmado pelo Tribunal de origem, seria necessário analisar a legislação infraconstitucional aplicada ao caso, assim como reexaminar fatos e provas constantes dos autos, procedimentos vedados neste momento processual (Súmulas 279 e 280/STF). IV. Dispositivo 5. Nos termos do art. 85, § 11, do CPC/2015, fica majorado em 10% o valor da verba honorária fixada anteriormente, observados os limites legais do art. 85, §§ 2º e 3º, do CPC/2015 e a eventual concessão de justiça gratuita. 6. Agravo interno a que se nega provimento” (ARE n. 1.488.043-AgR, Relator o Ministro Luís Roberto Barroso, Plenário, DJe 21.6.2024).
+
+“AGRAVO INTERNO NO RECURSO EXTRAORDINÁRIO COM AGRAVO. DIREITO TRIBUTÁRIO. IMPOSTO SOBRE CIRCULAÇÃO DE MERCADORIAS E SERVIÇOS ALTERAÇÃO DA ALÍQUOTA E DA BASE DE CÁLCULO. LEGISLAÇÃO INFRACONSTITUCIONAL LOCAL. OFENSA REFLEXA. FATOS E PROVAS. REEXAME. IMPOSSIBILIDADE. AGRAVO INTERNO DESPROVIDO. 1. Não se presta o recurso extraordinário para a análise de matéria infraconstitucional local (Súmula 280 do STF), tampouco para o reexame dos fatos e das provas constantes dos autos (Súmula 279 do STF). 2. Agravo interno desprovido, com imposição de multa de 5% (cinco por cento) do valor atualizado da causa (artigo 1.021, § 4º, do CPC), caso seja unânime a votação. 3. Honorários advocatícios majorados ao máximo legal em desfavor da parte recorrente, caso as instâncias de origem os tenham fixado, nos termos do artigo 85, § 11, do Código de Processo Civil, observados os limites dos §§ 2º e 3º e a eventual concessão de justiça gratuita” (ARE n. 1.312.230-AgR, Relator o Ministro Luz Fux, Plenário, DJe 17.5.2021).
+
+“AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. TRIBUTÁRIO. IMPOSTO SOBRE CIRCULAÇÃO DE MERCADORIAS E SERVIÇOS – ICMS. LEI ESTADUAL N. 9.903/1997. MAJORAÇÃO DE ALÍQUOTA. AUSÊNCIA DE VINCULAÇÃO DE RECEITA DE IMPOSTOS. INEXISTÊNCIA DE OFENSA AO INC. IV DO ART. 167 DA CONSTITUIÇÃO DA REPÚBLICA. PRECEDENTES. LEGITIMIDADE PASSIVA: IMPOSSIBILIDADE DE ANÁLISE DA LEGISLAÇÃO INFRACONSTITUCIONAL. VERBA HONORÁRIA MAJORADA EM 1%, PERCENTUAL QUE SE SOMA AO FIXADO NA ORIGEM, OBEDECIDOS OS LIMITES DOS §§ 2º, 3º E 11 DO ART. 85 DO CÓDIGO DE PROCESSO CIVIL/2015, E MULTA APLICADA NO PERCENTUAL DE 1%, CONFORME O § 4º DO ART. 1.021 DO CÓDIGO DE PROCESSO CIVIL. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO” (ARE n. 1.163.249-AgR, Relatora a Ministra Cármen Lúcia, Segunda Turma, DJe 1º.8.2019).
+
+Pelos óbices jurídicos intransponíveis ao processamento deste recurso, nada há a prover nesta sede recursal.
+
+7. Pelo exposto, não conheço do presente recurso extraordinário com agravo (inc. III do art. 932 do Código de Processo Civil e § 1º do art. 21 do Regimento Interno do Supremo Tribunal Federal).
+
+Ressalte-se que eventual recurso manifestamente inadmissível contra esta decisão demonstraria apenas inconformismo e resistência em pôr termo a processos que se arrastam em detrimento da eficiente prestação jurisdicional.
+
+Publique-se.
+
+Brasília, 15 de maio de 2026.
+
+Ministra CÁRMEN LÚCIA
+Relatora
