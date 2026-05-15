@@ -1,0 +1,26 @@
+DECISÃO
+Trata-se de recurso ordinário em habeas corpus, com pedido liminar, interposto por WENDEW GIOVANY DA SILVA contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE PERNAMBUCO.
+Consta nos autos que o recorrente teve a prisão preventiva decretada pela suposta prática do crime de homicídio.
+Irresignada, a defesa impetrou habeas corpus perante o Tribunal de Justiça de origem, que denegou a ordem em acórdão às fls. 373-382.
+Neste recurso sustenta a defesa, em suma, que o recorrente estaria sofrendo constrangimento ilegal em razão do excesso de prazo para a formação da culpa.
+Aduz, ainda, a ausência de fundamentação concreta para a manutenção da prisão preventiva, ausência dos requisitos ensejadores da prisão preventiva, bem como a ausência de contemporaneidade entre os fatos e a segregação cautelar.
+Salienta que: "logo após os fatos(14/01/2024), apresentou-se espontaneamente à delegacia de polícia e confessou integralmente o crime -fl. 400."
+Requer a revogação da prisão preventiva ou, subsidiariamente, sua substituição por medida cautelar diversa.
+Pedido de liminar indeferido às fls. 420-421.
+Informações prestadas às fls. 426-520. O Ministério Público Federal manifestou às fls. 525-529 pelo desprovimento do recurso.
+É o relatório. DECIDO.
+No tocante à alegada ausência de fundamentação do decreto prisional e de que não estariam presentes os requisitos autorizadores da medida extrema, previstos no art. 312 do Código de Processo Penal, tenho que a segregação cautelar está devidamente fundamentada em dados concretos extraídos dos autos, que evidenciam de maneira inconteste a necessidade da prisão para garantia da ordem pública e da aplicação da lei penal tendo em vista que: "o denunciado encontrava ingerindo bebida alcoólica com outras pessoas, no local dos fatos, tendo discutido com a vítima, ocasião em que esta desferiu um tapa no rosto do denunciado. Com o escopo de se vingar, o denunciado sem proporcionar qualquer chance de defesa, sacou uma arma de fogo e efetuou dois disparos nas costas da vítima. Após a consumação dos fatos, o denunciado evadiu-se do local"- fl. 376. O recorrente ainda "responde a outro processo por crime contra a vida na Comarca de Canhotinho"- fl. 377, circunstâncias ensejadoras da necessidade da manutenção da segregação cautelar.
+Cumpre registrar que "as graves circunstâncias em que praticados os fatos ilícitos (modus operandi) justificam a constrição cautelar para garantia da ordem pública" (AgRg no RHC n. 188.265/SP, relatora Ministra Daniela Teixeira, Quinta Turma, DJe de 28/5/2024).
+Nesse sentido: AgRg no RHC n. 191.872/MG, relator Ministro Ribeiro Dantas, Quinta Turma, DJe de 23/5/2024; AgRg no RHC n. 192.434/PA, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, DJe de 3/5/2024; AgRg nos EDcl no HC n. 821.980/SP, relator Ministro Joel Ilan Paciornik, Quinta Turma, DJe de 18/4/2024 e AgRg no HC n. 870.815/SE, relator Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), Sexta Turma, DJe de 18/4/2024.
+A jurisprudência desta Corte se firmou no sentido de que a devida caracterização da fuga do distrito da culpa enseja motivo suficiente a embasar a manutenção da constrição cautelar decretada.
+A propósito:
+"A fuga do distrito da culpa é fundamento válido à segregação cautelar, forte da asseguração da aplicação da lei penal, bem como justifica a contemporaneidade da medida em apreço."(AgRg no HC n. 914.054/SP, relator Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), Sexta Turma, julgado em 12/8/2024, DJe de 16/8/2024.)
+Outrossim, conforme a jurisprudência desta Corte, a reincidência justifica a prisão cautelar para a garantia da ordem pública,  (AgRg no HC n. 914.154/SP, relator Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), Sexta Turma, DJe de 16/8/2024); (AgRg no AREsp n. 2.451.465/PR, Minha Relatoria, Quinta Turma, DJe de 13/8/2024); (AgRg no RHC n. 198.668/MG, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe de 3/7/2024.); (AgRg no RHC n. 192.068/MG, relator Ministro Joel Ilan Paciornik, Quinta Turma, DJe de 26/6/2024)  .
+Ademais, no Superior Tribunal de Justiça, há inúmeras jurisprudência que ressaltam que a condição de foragido afasta a alegação de constrangimento ilegal, seja pela ausência de contemporaneidade, seja pelo excesso de prazo para encerramento da instrução criminal.
+Nesse sentido:
+"O fato de o denunciado encontrar-se na condição de foragido afasta a alegação de excesso de prazo para encerramento da instrução criminal."(AgRg no HC n. 866.384/PI, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 18/3/2024, DJe de 20/3/2024.)
+No que tange a alegação de que "logo após os fatos(14/01/2024), apresentou-se esponta neamente à delegacia de polícia e confessou integralmente o crime -fl. 400", extrai-se dos autos que encontra-se foragido do distrito da culpa desde a decretação de sua prisão preventiva em maio de 2024- fl. 378 .
+Por fim, não há que se falar em possibilidade de aplicação de medidas cautelares diversas da prisão se há nos autos elementos hábeis a recomendar a manutenção de sua custódia cautelar, o que ocorre na hipótese.
+Ante o exposto, nego provimento ao recurso ordinário em habeas corpus.
+Publique-se. I ntimem-se.
+EMENTA
