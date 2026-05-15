@@ -1,0 +1,12 @@
+DECISÃO
+Trata-se de conflito de competência suscitado na ação ajuizada por servidoras vinculadas ao Instituto de Pesquisas Energéticas e Nucleares - IPEN contra o próprio IPEN/CNEN, objetivando o pagamento cumulativo do adicional de irradiação ionizante e da gratificação por trabalhos com raios-X.
+A ação foi aviada perante o Juízo Federal da 11ª Vara da Seção Judiciária de São Paulo, que declinou de sua competência, ao fundamento de que o IPEN ostenta natureza de autarquia estadual e de que, após emenda à inicial, inexistiria ente federal no polo passivo, afastando a incidência do art. 109, I, da Constituição Federal.
+Distribuído o feito ao Juízo Estadual - Colégio Recursal do Tribunal de Justiça de São Paulo -, foi suscitado o conflito perante o Superior Tribunal de Justiça, tendo o suscitante consignado que, embora formalmente estadual, o IPEN é técnica e administrativamente vinculado à Comissão Nacional de Energia Nuclear - CNEN, autarquia federal, sendo a gestão de pessoal e o custeio realizados pela União, o que caracteriza interesse jurídico federal na causa.
+O Ministério Público Federal opinou pelo conhecimento do conflito e pela declaração de competência da Justiça Federal, porquanto a controvérsia envolve reflexos diretos na esfera patrimonial de autarquia federal e na gestão de servidores submetidos ao regime jurídico da União, sob o monopólio constitucional das atividades nucleares.
+É o relatório. Decido.
+No caso, embora o IPEN tenha origem como autarquia estadual, verifica-se, de forma inequívoca, que sua atuação se insere no âmbito do monopólio nuclear da União, exercido por meio da CNEN, autarquia federal vinculada ao Ministério da Ciência, Tecnologia e Inovação.
+A gestão técnica, administrativa e financeira do instituto, bem como o regime jurídico de seus servidores e o custeio de suas atividades, encontram-se submetidos à esfera federal, o que evidencia o interesse jurídico direto da União na solução da controvérsia.
+Ademais, a pretensão deduzida na ação - pagamento de vantagens relacionadas a atividades nucleares - repercute diretamente no patrimônio e na organização administrativa da CNEN, circunstância que atrai a competência prevista no art. 109, I, da Constituição Federal.
+Ante o exposto, com fundamento no art. 34, XXII, do RISTJ, conheço do presente conflito e declaro competente o Juízo Federal da 11ª Vara da Seção Judiciária de São Paulo .
+Publique-se. Intimem-se.
+EMENTA
