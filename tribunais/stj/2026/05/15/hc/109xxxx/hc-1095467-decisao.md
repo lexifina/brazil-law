@@ -1,0 +1,78 @@
+DECISÃO
+Cuida-se de Habeas Corpus impetrado em favor de VALDIR DA SILVA LUZ em que se aponta como ato coator o acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO assim ementado:
+AGRAVO EM EXECUÇÃO PENAL - FALTA DISCIPLINAR DE NATUREZA GRAVE - SAÍDA TEMPORÁRIA - VIOLAÇÃO DE MONITORAMENTO ELETRÔNICO - MATERIALIDADE E AUTORIA COMPROVADAS - PROVA DOCUMENTAL E TESTEMUNHAL IDÔNEA - AUSÊNCIA DE CERCEAMENTO DE DEFESA - CREDIBILIDADE DOS DEPOIMENTOS DOS POLICIAIS PENAIS - TIPICIDADE DA CONDUTA - ART. 50, VI, DA LEI DE EXECUÇÃO PENAL - REGIMENTO INTERNO PADRÃO E PORTARIA CONJUNTA Nº 02/2019 - REGRESSÃO DE REGIME - INTERRUPÇÃO DO LAPSO PARA PROGRESSÃO - SÚMULA 534/STJ - PERDA DE DIAS REMIDOS - ART. 127 DA LEP - CRITÉRIOS DO ART. 57 OBSERVADOS - DECISÃO MANTIDA - RECURSO DESPROVIDO. Restou demonstrado o descumprimento das condições da saída temporária, consubstanciado na violação do monitoramento eletrônico, caracterizando falta disciplinar de natureza grave. Inexistente cerceamento de defesa, uma vez que a prova técnica foi regularmente disponibilizada, permitindo o pleno exercício do contraditório. Os depoimentos firmes e coerentes dos policiais penais, aliados à documentação juntada, evidenciam a materialidade e a autoria da in fração. A conduta amolda-se ao tipo previsto no art. 50, VI, da Lei de Execução Penal, legitimando a regressão de regime, a interrupção do lapso para progressão e a perda dos dias remidos, observados os critérios do art. 57 da LEP. Recurso desprovido.
+Consta dos autos que foi homologada falta grave em desfavor do paciente, consistente em violação do monitoramento eletrônico durante saída temporária.
+Em suas razões, sustenta o impetrante a ocorrência de constrangimento ilegal, porquanto a falta grave foi reconhecida com base em normas infralegais, sem previsão específica na Lei de Execução Penal, o que teria violado a legalidade estrita e a reserva legal.
+Argumenta que o rol de faltas graves previsto nos artigos 50 a 52 da Lei de Execução Penal é taxativo, vedando-se interpretação extensiva ou analogia em prejuízo do sentenciado, e que a violação do monitoramento eletrônico não se encontra tipificada como falta grave.
+Defende que o artigo 50, inciso VI, da Lei de Execução Penal não se amolda ao caso, pois trata de desobediência a ordem direta e individualizada, não sendo possível ampliar seu alcance para abarcar descumprimento genérico de condição vinculada a benefício executório.
+Expõe que portarias administrativas e regimentos internos não podem criar novas hipóteses sancionatórias nem restringir direitos do reeducando, razão pela qual é indevida a equiparação normativa utilizada para manter a falta grave.
+Requer, em suma, a absolvição da falta grave e, subsidiariamente, a desclassificação da conduta para falta de natureza média.
+É o relatório.
+Decido.
+A Terceira Seção do STJ, no julgamento do HC n. 535.063/SP, firmou entendimento de que não cabe Habeas Corpus substitutivo de recurso próprio, impondo-se o não conhecimento da impetração, salvo quando constatada alguma teratologia no ato judicial impugnado (Rel. Ministro Sebastião Reis Júnior, DJe de 25.8.2020).
+Assim, passo à análise das razões da impetração a fim de verificar se há flagrante ilegalidade que justifique a concessão do writ de ofício.
+Na espécie, consta do Voto condutor do acórdão impugnado a seguinte fundamentação quanto à controvérsia apresentada:
+Com efeito, o Comunicado Evento 158/2025 (fls. 08 e seguintes) relata que o agravante incorreu em falta disciplinar de natureza grave, uma vez que violou o monitoramento durante saída temporária.
+ ..
+Com efeito, a violação de monitoramento configura, por si só, falta disciplinar de natureza grave, nos termos do artigo 46, inciso VII, do Regimento Interno Padrão, c.c. a Portaria Conjunta nº 02/2019 do DECRIM/SP, além do artigo 50, VI, da Lei de Execução Penal.
+ ..
+A saída temporária é instituto de confiança, cuja preservação depende da observância estrita das condições estabelecidas. O seu descumprimento compromete a credibilidade do sistema e afeta diretamente a segurança e a estabilidade do ambiente carcerário (fl. 13).
+Segundo entendimento firmado nessa Corte, a violação da tornozeleira eletrônica, ou seu descarregamento total ou perda da comunicação com o sistema, bem como desrespeito ao perímetro fixado, constituem falta grave.
+Nesse sentido, vale ainda citar os seguintes julgados:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO PENAL. REGRESSÃO DE REGIME PRISIONAL. COMETIMENTO DE FALTA GRAVE. VIOLAÇÃO DA TORNOZELEIRA ELETRÔNICA. PERDA DA COMUNICAÇÃO. FUGA. DECISÃO FUNDAMENTADA. AUSÊNCIA DE ILEGALIDADE. AGRAVO DESPROVIDO.
+1. A teor dos precedentes desta Corte, a violação da tornozeleira eletrônica, o descarregamento total da bateria, a perda da comunicação com o sistema configura falta grave, nos termos dos arts. 50, II da LEP, pois o apenado, com sua conduta, descumpre as ordens do servidor responsável pela monitoração e impede a fiscalização da execução da pena.
+2. As instâncias ordinárias consideraram inacreditáveis as alegações de que houve perda de sinal de GPS do aparelho de monitoramento eletrônico. A modificação desse entendimento demandaria aprofundado exame do acervo fático-probatório do processo de execução, providência inviável na via estreita do habeas corpus.
+3. Agravo regimental desprovido. (AgRg no HC n. 821.741/GO, Rel. Ministro Ribeiro Dantas, Quinta Turma, DJe de 24.8.2023.)
+AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO PENAL. PRISÃO DOMICILIAR COM MONITORAMENTO ELETRÔNICO. VIOLAÇÃO DO PERÍMETRO DE PERMANÊNCIA. FALTA GRAVE. AFASTAMENTO. NECESSÁRIO REVOLVIMENTO DA MATÉRIA FÁTICO-PROBATÓRIA. IMPOSSIBILIDADE. AGRAVO REGIMENTAL DESPROVIDO.
+1. Nos termos da jurisprudência desta Corte, a violação do perímetro estabelecido na decisão que concede a prisão domiciliar mediante monitoramento eletrônico configura falta grave.
+2. O afastamento da falta grave praticada pelo ora agravante demanda o reexame de matéria fático-probatória, inadmissível na via estreita do habeas corpus. Precedentes.
+3. Agravo regimental desprovido. (AgRg no HC n. 822.563/AL, Rel. Ministro Joel Ilan Paciornik, Quinta Turma, DJe de 16.8.2023.)
+De igual sorte: AgRg no HC n. 785.238/SP, Rel. Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), Sexta Turma, DJe de 20/4/2023; AgRg no HC n. 758.317/SP, Rel. Ministro Joel Ilan Paciornik, Quinta Turma, DJe de 14.12.2022; AgRg no HC n. 750.743/RS, Rel. Ministro Sebastião Reis Júnior, Sexta Turma, DJe de 4.8.2022; HC n. 517.455/SC, Rel. Ministro Leopoldo de Arruda Raposo (Desembargador Convocado do TJ/PE), Quinta Turma, DJe de 16.10.2019.
+Também, segundo entendimento firmado nessa Corte, o descumprimento das condições da saída temporária, assim como o atraso ou a ausência de retorno à unidade prisional após o seu término, constituem falta grave.
+Nesse sentido, vale ainda citar os seguintes julgados:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. DESCUMPRIMENTO DAS CONDIÇÕES DE SAÍDA TEMPORÁRIA. CONFIGURAÇÃO DE FALTA GRAVE. REGRESSÃO DE REGIME. CONSECTÁRIO LEGAL. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. Consoante já decidiu esta Corte, as condições impostas para a concessão da saída temporária configuram ordens recebidas pelo apenado, de forma que seu descumprimento evidencia a prática da conduta prevista no art. 50, VI, c/c o art. 39, V, ambos da LEP.
+2. O agravante, por duas vezes, deixou de observar as condições da saída temporária ao violar a zona de monitoramento e, a teor do art. 118, I, da LEP, a execução da pena privativa de liberdade ficará sujeita à forma regressiva, com a transferência para qualquer dos regimes mais rigorosos, quando o condenado praticar falta grave.
+3. Agravo regimental não provido.
+(AgRg no HC n. 680.452/SP, Rel. Ministro Rogerio Schietti Cruz, Sexta Turma, DJe de 30.11.2021.)
+AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO PENAL. SAÍDA TEMPORÁRIA . DESCUMPRIMENTO DE CONDIÇÕES. VIOLAÇÃO DA ZONA DE VIGILÂNCIA. FALTA GRAVE. ALTERAÇÃO. IMPOSSIBILIDADE. AGRAVO REGIMENTAL DESPROVIDO.
+1. Na espécie, o Juízo da Execução Penal, em razão de o Apenado ter deixado de cumprir regras para saída temporária (violação ao perímetro datada de 31/12/2021), homologou a falta grave, regrediu o regime imposto para o fechado e declarou a perda de 1/3 (um terço) dos dias remidos.
+2. Os fundamentos consignados pelas instâncias ordinárias para caracterizar a conduta como falta grave (nos termos artigo 50, VI, combinado com artigos 39, II e V, ambos da Lei de Execução Penal) não se mostram desarrazoados ou ilegais, uma vez que o Reeducando quando da saída temporária deve observar as condições e limites estabelecidos. Precedentes.
+3. "A análise da tese de não-configuração da falta grave, ou de desclassificação para falta de natureza média, não se coaduna com a via estreita do habeas corpus, dada a necessidade, no caso, de incursão na seara fático-probatória, incabível nesta sede  .. " (HC n. 259.028/SP, Quinta Turma, Rel. Ministra LAURITA VAZ, DJe de 7/3/2014).
+4. Agravo regimental desprovido.
+(AgRg no HC n. 813.768/SP, Rel. Ministro Ribeiro Dantas, Quinta Turma, DJe de 29.6.2023.)
+AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO PENAL. NÃO RETORNO DE SAÍDA TEMPORÁRIA. EVASÃO. FALTA DISCIPLINAR GRAVE. REGRESSÃO DE REGIME PRISIONAL. CONSEQUÊNCIA LEGAL. FUNDAMENTOS DA DECISÃO AGRAVADA NÃO IMPUGNADOS. SÚMULA 182/STJ. AGRAVO DESPROVIDO.
+ ..
+3. A conduta do paciente não se assemelha ao mero descumprimento das condições impostas à saída temporária até porque ele não retornou voluntariamente ao presídio, mesmo que com atraso, mas foi recapturado, o que, por si só, já sinaliza sua vontade de não retomar o cumprimento da pena, amoldando sua conduta à da evasão.
+4. A jurisprudência desta Corte é pacífica quanto às consequências do reconhecimento de falta disciplinar de natureza grave praticada pelo apenado no curso da execução penal: (i) regressão de regime prisional; (ii) perda de dias remidos; (iii) alteração da data-base para a concessão de benefícios da execução (salvo o livramento condicional, a comutação de pena e o indulto). Precedentes.
+5. O Tribunal a quo não pode abster-se de aplicar os consectários legais invocando o princípio da proporcionalidade, deixando, assim, de regredir o apenado para o regime prisional mais gravoso.
+6. Agravo regimental desprovido.
+(AgRg no HC n. 794.016/RJ, Rel. Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe de 27.2.2023.)
+AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO PENAL. NÃO RETORNO DE SAÍDA TEMPORÁRIA. EVASÃO. FALTA DISCIPLINAR GRAVE. REGRESSÃO DE REGIME PRISIONAL. CONSEQUÊNCIA LEGAL. FUNDAMENTOS DA DECISÃO AGRAVADA NÃO IMPUGNADOS. SÚMULA 182/STJ. AGRAVO DESPROVIDO.
+ ..
+3. A conduta do paciente não se assemelha ao mero descumprimento das condições impostas à saída temporária até porque ele não retornou voluntariamente ao presídio, mesmo que com atraso, mas foi recapturado, o que, por si só, já sinaliza sua vontade de não retomar o cumprimento da pena, amoldando sua conduta à da evasão.
+4. A jurisprudência desta Corte é pacífica quanto às consequências do reconhecimento de falta disciplinar de natureza grave praticada pelo apenado no curso da execução penal: (i) regressão de regime prisional; (ii) perda de dias remidos; (iii) alteração da data-base para a concessão de benefícios da execução (salvo o livramento condicional, a comutação de pena e o indulto). Precedentes.
+5. O Tribunal a quo não pode abster-se de aplicar os consectários legais invocando o princípio da proporcionalidade, deixando, assim, de regredir o apenado para o regime prisional mais gravoso.
+6. Agravo regimental desprovido.
+(AgRg no HC n. 794.016/RJ, Rel. Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe de 27.2.2023.)
+PEDIDO DE RECONSIDERAÇÃO RECEBIDO COMO AGRAVO REGIMENTAL. PRINCÍPIO DA FUNGIBILIDADE. SAÍDA TEMPORÁRIA. ATRASO NO RETORNO. FALTA GRAVE. PEDIDO DE TRANSFERÊNCIA PARA CUMPRIMENTO DE PENA PRÓXIMO AO MEIO SOCIAL E FAMILIAR. AUSÊNCIA DE DIREITO ABSOLUTO DO RÉU. DECISÃO FUNDAMENTADA. TRANSFERÊNCIA TAMBÉM CONDICIONADA À EXISTÊNCIA DE VAGA NO LOCAL DE DESTINO. INTERESSE PÚBLICO.
+1. Em face do princípio da fungibilidade recursal, recebo o pedido de reconsideração como agravo regimental.
+2. Na hipótese, o agravante foi beneficiado com a saída temporária em 22/12/2023, passou as festividades de final de ano com sua família no Estado de Pernambuco, e não retornou ao final do prazo para cumprimento da pena em Avaré - SP, tendo o Juízo das execuções sustado cautelarmente o regime semiaberto e determinado a expedição de mandado de prisão.
+3. Configura falta grave o atraso no retorno da saída temporária, consoante previsão do art. 50, VI, c/c o art. 39, V, da LEP e, " E m consonância com o entendimento desta Corte Superior, o cometimento de falta grave pelo apenado: a) importa na alteração da data-base para a concessão de novos benefícios, salvo livramento condicional, indulto e comutação da pena; b) autoriza a regressão de regime; e c) a perda de até 1/3 dos dias remidos". (AgRg no HC n. 770.314/RS, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 29/5/2023, DJe de 31/5/2023).
+ ..
+5. Pedido de reconsideração recebido como agravo regimental, ao qual se nega provimento.
+(RCD no HC n. 904.065/SP, Rel. Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), Sexta Turma, DJe de 16.8.2024.)
+AGRAVO REGIMENTAL EM HABEAS CORPUS. EXECUÇÃO PENAL. FALTA GRAVE. REEDUCANDO QUE NÃO RETORNOU DA SAÍDA TEMPORÁRIA NA DATA APRAZADA. FALTA GRAVE. ABSOLVIÇÃO OU DESCLASSIFICAÇÃO DA CONDUTA. IMPOSSIBILIDADE DE INCURSÃO NA SEARA FÁTICO-PROBATÓRIA. AGRAVO DESPROVIDO.
+1. O atraso no retorno da saída temporária configura falta grave consistente na execução das ordens recebidas (art. 50, da LEP).
+2. Tendo as instâncias ordinárias concluído, de modo fundamentado e com base em elementos concretos, que restou configurada a falta disciplinar de natureza grave, rever esse entendimento a fim de afastar a falta grave ou desclassificar a conduta para infração de natureza média ou leve demandaria incursão na seara fático-probatória, inviável na estreita via do habeas corpus.
+3. Agravo regimental desprovido.
+(AgRg no HC n. 894.560/SC, Rel. Ministro Ribeiro Dantas, Quinta Turma, DJe de 23.5.2024.)
+Nessa linha, o entendimento do Tribunal a quo está em conformidade com a jurisprudência do STJ.
+Ademais, para modificar a decisão de origem e acolher eventuais teses absolutórias seria necessário o reexame do acervo fático-probatório, o que é inviável na via estreita do Habeas Corpus.
+Nesse sentido, vale citar os seguintes julgados: AgRg no HC n. 839.334/SP, Rel. Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe de 26.9.2023; AgRg no HC n. 817.562/RS, Quinta Turma, Rel. Ministro Reynaldo Soares da Fonseca, DJe de 30.6.2023; AgRg no HC n. 780.022/SP, Rel. Ministra Laurita Vaz, Sexta Turma, DJe de 21.8.2023; AgRg no HC 812.438/SP, Quinta Turma, Rel. Ministro Ribeiro Dantas, DJe de 29.6.2023; HC n. 704.718/SP, Sexta Turma, Rel. Ministra Laurita Vaz, DJe de 23.5.2023; e AgRg no HC 811.106/SP, Sexta Turma, Rel. Ministro Rogerio Schietti Cruz, DJe de 22.6.2023; AgRg no HC n. 822.563/AL, Rel. Ministro Joel Ilan Paciornik, Quinta Turma, DJe de 16.8.2023; AgRg no HC n. 770.180/SP, Rel. Ministro Antonio Saldanha Palheiro, Sexta Turma, DJe de 19.4.2023; AgRg no HC n. 748.272/MS, Rel. Ministro Antonio Saldanha Palheiro, Sexta Turma, DJe de 16.2.2023.
+Conclui-se, assim, que no caso em análise não há manifesta ilegalidade a ensejar a concessão da ordem de ofício.
+Ante o exposto, com fundamento no art. 21-E, IV, c/c o art. 210, ambos do RISTJ, indefiro liminarmente o presente Habeas Corpus.
+Cientifique-se o Ministério Público Federal.
+Publique-se.
+Intimem-se.
+ EMENTA
