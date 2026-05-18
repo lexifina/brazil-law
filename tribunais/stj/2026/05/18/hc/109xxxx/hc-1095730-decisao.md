@@ -1,0 +1,85 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de LUCIANO DE ARAUJO PIZZI, apontando como autoridade coatora o Tribunal de Justiça do Estado do Paraná, que nos autos do Agravo em Execução n. 4001003-28.2026.8.16.4321 deu provimento ao recurso ministerial.
+Consta dos autos que o Juízo de primeiro grau concedeu ao paciente o indulto previsto no art. 9º, inciso XV, do Decreto Presidencial n. 12.790/2025, extinguindo a punibilidade em relação à condenação imposta nos autos n. 0017861-70.2022.8.16.0013.
+Irresignado, o Ministério Público interpôs agravo em execução, ao qual a Corte de origem deu provimento para afastar a benesse. O Tribunal fundamentou a decisão asseverando que a soma total das penas ativas do sentenciado alcança 19 anos, 9 meses e 8 dias, montante que ultrapassa o limite temporal imposto pelo referido decreto para a concessão do perdão em crimes cometidos sem violência ou grave ameaça. Atualmente, o paciente encontra-se no cumprimento da execução penal no regime semiaberto.
+A defesa alega que o Tribunal local promoveu uma interpretação equivocada das disposições normativas ao mesclar requisitos previstos em incisos distintos. Sustenta que as hipóteses de concessão de indulto dispostas no art. 9º do Decreto são alternativas e totalmente independentes entre si. Argumenta que o inciso XV foi formulado especificamente para abranger os crimes patrimoniais perpetrados sem violência ou grave ameaça à pessoa, vinculando o benefício exclusivamente à reparação do dano, sem sujeitá-lo ao teto de doze anos imposto isoladamente pelo inciso II. Afirma, ademais, que a regra geral de unificação de penas não constituiria óbice ao deferimento do indulto para a fração da condenação estritamente enquadrada no inciso XV.
+Requer a concessão de ordem liminar para suspender os efeitos do acórdão impugnado, evitando o cumprimento das penas que já haviam sido declaradas extintas. Subsidiariamente, pugna pela concessão da ordem, ainda que de ofício, com a cassação do aresto estadual e o integral restabelecimento da decisão singular originária.
+É o relatório.
+Decido.
+Esta Corte e o Supremo Tribunal Federal pacificaram o entendimento de que não cabe habeas corpus como substitutivo do recurso legalmente previsto para a hipótese, impondo-se o não conhecimento da impetração, salvo quando constatada a existência de flagrante ilegalidade no ato judicial impugnado (STJ, HC n. 535.063/SP, Terceira Seção, Relator Ministro Sebastião Reis Junior, julgado em 10/6/2020, DJe de 25/8/2020; STF, AgRg no HC n. 180.365/PB, Primeira Turma, Relatora Ministra Rosa Weber, julgado em 27/3/2020, DJe de 2/4/2020; e AgRg no HC n. 147.210/SP, Segunda Turma, Relator Ministro Edson Fachin, julgado em 30/10/2018, DJe de 20/2/2020).
+Ademais, é consolidada a jurisprudência deste Superior Tribunal de Justiça no sentido de que a prerrogativa do relator para julgar monocraticamente o habeas corpus e o respectivo recurso não é afastada pelas normas regimentais que preveem a oitiva prévia do Ministério Público Federal (arts. 64, III, e 202 do RISTJ), notadamente quando a matéria se conforma com o entendimento dominante desta Corte (AgRg no HC n. 856.046/SP, de relatoria do Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 24/10/2023, DJe de 30/10/2023).
+Assim, passo à análise das razões da impetração, de forma a verificar a ocorrência de flagrante ilegalidade a justificar a concessão do habeas corpus, de ofício.
+A controvérsia apresentada nestes autos cinge-se a definir se a concessão de indulto natalino, fundamentada na hipótese de cometimento de crime contra o patrimônio sem violência ou grave ameaça, está sujeita ao limite temporal geral de reprimendas imposto pelo Decreto Presidencial, quando verificada a existência de condenações ativas por infrações diversas. O Tribunal de origem denegou o pleito defensivo ao constatar que a unificação global das sanções imputadas ao apenado extrapola de forma expressiva o teto de doze anos.
+No caso, a Corte de origem adotou a seguinte fundamentação (fls. 24/26):
+A controvérsia recursal limita-se à possibilidade de manutenção do indulto deferido na origem com fundamento no Decreto Presidencial 12.790/2025, em favor do sentenciado, com declaração de extinção da punibilidade restrita à condenação proferida na ação penal 0017861-70.2022.8.16.0013, nos autos de execução 0000504-02.2016.8.16.0009.
+A decisão agravada reconheceu o enquadramento no art. 9º, inc. XV, do referido decreto e considerou dispensada a reparação do dano em razão da presunção de incapacidade econômica decorrente da assistência pela Defensoria Pública, nos termos do art. 12, § 2º, inc. I, do mesmo ato normativo, razão pela qual deferiu o indulto e determinou a atualização do relatório executivo, com ressalva expressa de existência de penas em execução não abrangidas pela benesse.
+Adianta-se que o recurso merece provimento.
+A análise do agravo exige, de início, a correta delimitação do quadro executório, pois o Decreto Presidencial 12.790/2025 impõe critérios objetivos que não se aferem a partir de uma condenação isolada, mas à luz do somatório das reprimendas em execução na data-base de 25.12.2025.
+No caso, o Relatório da Situação Processual Executória (mov. 1.3 - 2º grau) registra pena total imposta de 19 anos, 9 meses e 8 dias, com pena cumprida de 9 anos, 3 meses e 20 dias, remanescente de 10 anos, 5 meses e 18 dias, e termo final projetado para 29.7.2036, em regime atual semiaberto. Esses dados revelam, com objetividade, que a execução ultrapassa com larga margem os patamares quantitativos previstos no decreto para hipóteses de indulto em crimes praticados sem violência ou grave ameaça, de modo que a concessão da benesse não se sustenta quando cotejada com a disciplina normativa que rege a soma das penas e os limites máximos de reprimenda.
+Com efeito, o Decreto 12.790/2025 contém regra estruturante que impede a leitura compartimentada das condenações para fins de indulto, pois o art. 7º determina que, para a declaração do indulto e da comutação, as penas correspondentes a infrações diversas devem ser somadas até 25.12.2025. Assim, a aferição do requisito objetivo não se resolve pela seleção de uma única condenação, mas pelo exame do somatório das reprimendas que compõem a execução até a data-base. Tal diretriz, invocada nas razões do recurso e reiterada no parecer, revela incompatibilidade entre o benefício deferido e a situação executória do sentenciado, cujo total de pena imposta atinge 19 anos, 9 meses e 8 dias, conforme o relatório executivo.
+Nessa linha, a tese recursal aponta que a interpretação do art. 9º, inc. XV, deve harmonizar-se com o conjunto normativo do decreto, em especial com os incisos que fixam limites objetivos de pena para crimes praticados sem violência ou grave ameaça. O parecer da Procuradoria-Geral de Justiça (mov. 14.1 - 2º grau) adere a essa compreensão e explicita que o limite de 12 anos, previsto no art. 9º, inc. II, não pode ser afastado quando se trata de indulto para condenações dessa natureza, sob pena de esvaziamento do regime objetivo desenhado pelo ato presidencial. Ao se aplicar a regra de somatória do art. 7º e se confrontar o resultado com os tetos do art. 9º para crimes sem violência ou grave ameaça, conclui-se que o requisito objetivo não se encontra implementado, pois a pena total unificada supera 12 anos de forma expressiva.
+ ..
+Há, ainda, fundamento adicional apontado no parecer que robustece a necessidade de reforma. O art. 9º, inc. XV, do decreto, ao remeter expressamente ao art. 16 e ao art. 65, inc. III, al. b, do Código Penal, pressupõe iniciativa voluntária relacionada à reparação do dano, restituição da coisa ou atuação eficaz para minorar consequências do delito, no marco temporal indicado pelo próprio decreto.
+Nessa perspectiva, a presunção de incapacidade econômica prevista no art. 12, § 2º, inc. I, não afasta, por si, a necessidade de verificação dos pressupostos materiais que a hipótese normativa incorporou por remissão, sob pena de se esvaziar a exigência de voluntariedade que integra a estrutura do inc. XV. Ainda que se admitisse a dispensa da comprovação de capacidade econômica, o benefício continuaria subordinado ao preenchimento dos demais pressupostos do decreto, inclusive os de natureza objetiva atinentes à soma das penas.
+A adequada exegese do Decreto Presidencial em comento impõe uma interpretação sistemática e harmonizada de todos os seus dispositivos. Dessa forma, a regra que determina que as penas correspondentes a infrações diversas devem ser previamente somadas para efeito da declaração do indulto atua como pressuposto inafastável para a aferição de todos os critérios objetivos estabelecidos na norma, vedando-se a análise individualizada, fracionada ou compartimentada das condenações.
+Nesse sentido, o teto de 12 anos para condenações sem violência funciona como uma regra padrão do decreto. A falta de menção a esse valor nos trechos sobre crimes patrimoni ais não permite que se ignore as normas gerais da Presidência da República. Assim, o limite máximo de 12 anos na soma das penas deve ser sempre observado para verificar a elegibilidade ao benefício.
+Conforme delineado pelas instâncias ordinárias, o paciente cumpre um somatório de penas que atinge 19 anos, 9 meses e 8 dias de reclusão. Tal patamar global ultrapassa de forma irremediável o limite objetivo delineado pelo normativo presidencial vigente, circunstância que impede, peremptoriamente, o reconhecimento e a concessão segmentada do indulto, ainda que se trate de pessoa hipossuficiente sob o amparo da Defensoria Pública.
+A jurisprudência consolidada desta Corte veda a exclusão do somatório das penas para fins de indulto, reiterando que os limites temporais previstos na norma devem incidir, obrigatoriamente, sobre o montante unificado das condenações. Ilustrativamente:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO PENAL. INDULTO (DECRETO N. 12.338/2024). HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. INADEQUAÇÃO. REQUISITOS OBJETIVOS NÃO PREENCHIDOS. SOMA DAS PENAS (ART. 7º) E LIMITES DO ART. 9º, I A III. INTERPRETAÇÃO SISTEMÁTICA DO ART. 9º, XV. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. O habeas corpus não é instrumento adequado quando há recurso próprio cabível, ressalvada a possibilidade de concessão de ofício em casos de flagrante ilegalidade, o que não se verificou na espécie.
+2. Para fins de concessão de indulto previsto no Decreto n. 12.338/2024, as penas correspondentes a infrações diversas devem ser somadas até 25/12/2024 (art. 7º), e os limites e frações mínimas de cumprimento previstos no art. 9º, incisos I a III, configuram requisitos objetivos. O art. 9º, XV, deve ser interpretado de forma sistemática e harmonizada com tais regras gerais, não autorizando análise isolada das penas dos crimes patrimoniais sem violência.
+3. Ausente o preenchimento dos requisitos objetivos do Decreto n. 12.338/2024, é inviável a concessão do indulto. Habeas corpus não conhecido.
+4. Agravo regimental não provido.
+(AgRg no HC n. 1.074.118/SC, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 7/4/2026, DJEN de 14/4/2026.)
+AGRAVO REGIMENTAL NO HABEAS CORPUS. INDULTO E COMUTAÇÃO DE PENA. REQUISITOS OBJETIVOS. AUSÊNCIA DE PREENCHIMENTO. AGRAVO DESPROVIDO.
+I. CASO EM EXAME
+1. Agravo regimental interposto contra decisão que não conheceu de habeas corpus, no qual se pleiteava a concessão de indulto com base no Decreto Presidencial n. 12.338/2024, alegando-se que a soma das penas não deveria ser considerada para fins de cálculo do tempo de cumprimento.
+2. O agravante foi condenado a uma pena total de 14 anos, 8 meses e 1 dia de reclusão, incluindo crimes com violência ou grave ameaça à pessoa, e sustentava que a aplicação do art. 7º do Decreto n. 12.338/2024 ao inciso XV do art. 9º seria indevida.
+II. QUESTÃO EM DISCUSSÃO
+3. A questão em discussão consiste em saber se, para a concessão do indulto, deve-se considerar a soma das penas de crimes diversos ou se é possível aplicar critérios de elegibilidade individualizados para cada crime, conforme o Decreto Presidencial n. 12.338/2024.
+III. RAZÕES DE DECIDIR
+4. O Decreto n. 12.338/2024 estabelece, no art. 7º, que as penas correspondentes a infrações diversas devem ser somadas para fins de declaração de indulto e comutação de pena.
+5. O art. 9º, inciso II, do mesmo Decreto, prevê a concessão de indulto coletivo apenas para penas privativas de liberdade não superiores a 12 anos, desde que cumpridos os requisitos de tempo e natureza do crime, considerando-se o somatório das penas.
+6. A jurisprudência desta Corte Superior é firme no sentido de que a soma das penas é necessária para verificar a adequação aos critérios objetivos estipulados no decreto presidencial.
+7. No caso, o agravante não preenche os requisitos para o indulto, pois a pena total ultrapassa o limite temporal de 12 anos, e inclui condenações por crimes com violência ou grave ameaça à pessoa.
+IV. DISPOSITIVO E TESE
+8. Resultado do Julgamento: Agravo desprovido.
+ ..
+(AgRg no HC n. 1.022.731/SC, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 9/12/2025, DJEN de 18/12/2025 - grifamos).
+Em casos análogos, assim decidiu esta Corte:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO PENAL. DECRETO PRESIDENCIAL N. 11.846/2023. INDULTO NATALINO. CONDENAÇÕES POR CRIMES DIVERSOS. NECESSIDADE DE SOMA DAS PENAS PARA AFERIÇÃO DO LIMITE TEMPORAL. INDEFERIMENTO DO BENEFÍCIO. ORDEM DENEGADA. AGRAVO DESPROVIDO.
+I. CASO EM EXAME
+1. Agravo regimental interposto contra decisão que denegou habeas corpus.
+II. QUESTÃO EM DISCUSSÃO
+2. A questão em discussão consiste em determinar se, para fins de concessão do indulto natalino previsto no Decreto n. 11.846/2023, o ora agravante preenche os requisitos.
+III. RAZÕES DE DECIDIR
+3. O art. 9º do Decreto n. 11.846/2023 determina que, para a declaração do indulto, as penas correspondentes a infrações diversas devem ser somadas, inclusive nos casos em que há concurso com crime impeditivo.
+4. O art. 2º, II, do referido decreto exige que o total das penas privativas de liberdade não ultrapasse 12 anos, sendo esse o limite objetivo para concessão do indulto às pessoas condenadas por crime praticado sem violência ou grave ameaça.
+5. O paciente foi condenado a 16 anos de reclusão pelos crimes de furto e homicídio qualificados, ultrapassando o limite temporal previsto no decreto, não preenchendo, assim, os requisitos legais para o benefício.
+6. A interpretação sistemática e literal do decreto não permite considerar as penas individualmente quando há múltiplas condenações, tampouco afastar a soma para viabilizar o benefício, sob pena de afronta ao critério normativo definido no art. 9º.
+IV. DISPOSITIVO E TESE
+7. Agravo regimental desprovido.
+ ..
+(AgRg no HC n. 984.380/SP, relator Ministro Carlos Cini Marchionatti (Desembargador Convocado TJRS), Quinta Turma, julgado em 20/8/2025, DJEN de 26/8/2025 - grifamos).
+Direito processual penal. Agravo regimental. Habeas corpus substitutivo de recurso próprio. Indulto. Decreto 11.846/2023.
+Agravo não provido.
+I. Caso em exame
+1. Agravo regimental interposto contra decisão que não conheceu do habeas corpus, impetrado em substituição a recurso próprio, visando à concessão de indulto com base no Decreto 11.846/2023.
+2. O juízo da execução indeferiu o pedido de indulto, considerando a soma das penas do sentenciado, que ultrapassam o limite de 12 anos previsto no Decreto 11.846/2023.
+II.
+Questão em discussão
+3. A questão em discussão consiste em saber se o habeas corpus pode ser utilizado como substitutivo de recurso próprio para questionar a decisão que indeferiu o pedido de indulto, com base na soma das penas, conforme o Decreto 11.846/2023.
+4. Outra questão é se o cômputo das penas para fins de indulto deve ser realizado de forma individualizada ou somada, conforme o Decreto 11.846/2023.
+III. Razões de decidir
+5. A jurisprudência desta Corte e do Supremo Tribunal Federal não admite habeas corpus como substitutivo de recurso próprio ou revisão criminal, salvo em casos de flagrante ilegalidade.
+6. O Decreto n. 11.846/2023 determina que as penas correspondentes a infrações diversas devem ser somadas para efeito de declaração do indulto, não sendo possível a análise individualizada das penas.
+7. O agravante não cumpre os requisitos objetivos para a concessão do indulto, pois a soma das penas ultrapassa o limite estabelecido pelo Decreto.
+8. Não se verifica flagrante ilegalidade que justifique a concessão de habeas corpus de ofício.
+IV. Dispositivo e tese
+9. Agravo regimental não provido.
+ ..
+(AgRg no HC n. 998.015/SP, relator Ministro Messod Azulay Neto, Quinta Turma, julgado em 27/8/2025, DJEN de 4/9/2025.)
+Desse modo, a decisão proferida pela Corte estadual encontra-se em harmonia com o entendimento perfilhado por este Superior Tribunal de Justiça, não havendo constrangimento ilegal apto a ensejar a concessão da ordem, de ofício.
+Ante o exposto, indefiro liminarmente o habeas corpus.
+Publique-se e intimem-se.
+ EMENTA
