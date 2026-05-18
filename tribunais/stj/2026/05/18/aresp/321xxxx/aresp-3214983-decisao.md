@@ -1,0 +1,26 @@
+DECISÃO
+Cuida-se de Agravo apresentado por JORGE LUIS DA LUZ SPERB à decisão que não admitiu seu Recurso Especial.
+O apelo, fundamentado no artigo 105, III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL REGIONAL FEDERAL DA 4ª REGIÃO, assim resumido:
+PREVIDENCIÁRIO. APELAÇÃO CÍVEL. APOSENTADORIA POR TEMPO DE CONTRIBUIÇÃO. CONCESSÃO. TEMPO ESPECIAL. CATEGORIA PROFISSIONAL. AEROVIÁRIO. ENQUADRAMENTO. MOTORISTA DE LOTAÇÃO/M ICRO-ÔNI BUS. PENOSIDADE NÃO CARACTERIZADA. TERMO INICIAL DOS EFEITOS FINANCEIROS. TEMA 1124 STJ. CUSTAS. HONORÁRIOS. ADEQUAÇÃO.
+Quanto à controvérsia, pela alínea "a" do permissivo constitucional, a parte recorrente aduz violação aos arts. 57, §§ 3º e 4º, e 58 da Lei nº 8.213/1991, no que concerne à necessidade de reconhecimento do tempo especial, em razão da atividade de motorista de lotação exercida após 28/04/1995 com penosidade comprovada por perícia judicial. Argumenta a parte recorrente que:
+Há ofensa aos artigos 57, §§3º, 4º e 58, da Lei n. 8.213/1991, porquanto o acórdão recorrido não admitiu a penosidade reconhecida na perícia judicial como fator de reconhecimento do caráter especial das atividades de motorista de lotação (micro-ônibus) do recorrente, em razão do tipo de veículo.
+ ..
+Ao contrário do entendimento do Tribunal as características do veículo dirigido pelo ora recorrent e em nada se assemelham a de veículos de passeio, porquanto suas características de transporte coletivo, com horários fixos para cumprir, o motor dianteiro muito se assemelham ao de ônibus e caminhão, conforme avaliado pelo Senhor Perito nos autos, descaraterizando o fundamento de serem silenciosos.
+ ..
+Além da similaridade do veículo do recorrente com os veículos dirigidos por motorista de ônibus e caminhão, a avaliação da penosidade leva em consideração também à segurança da atividade, das jornadas e do trajeto de uma forma ampla, que envolve inclusive as condições de trafegabilidade. Sendo essa avaliação, realizada de forma individualizada no caso do recorrente.
+A legislação previdenciária no tocante ao exercício de labor em condições especiais, veio a proteger o trabalhador exposto a agentes prejudicias a saúde, lhe garantido o tempo especial, no caso de ficar provado a sujeição desses agentes.
+Destarte, o recorrente comprova através de perícia técnica realizada no exercício de suas atividades a exposição ao agente de penosidade indo ao encontro da previsão legal, fazendo jus ao direito do tempo especial postulado nos autos (fls. 446-450).
+É o relatório.
+Decido.
+Quanto à controvérsia, o Tribunal a quo se manifestou nos seguintes termos:
+Em relação aos períodos 2 a 4 acima elencados, tenho que não se enquadram nas hipóteses delimitadas no IAC TRF4 n.º 5, processo n.º 5033888-90.2018.4.04.0000, tendo em vista que o autor era motorista de lotação/micro-ônibus (conforme informações constantes dos PPPs), veículo que apresenta, via de regra, características semelhantes a de veículos normais de passeio, usualmente sendo climatizados e silenciosos.
+ ..
+Assim, não havendo elementos que indiquem a condução, em caráter permanente, de veículos pesados e de grande porte nos intervalos em apreço, deve ser acolhida a apelação do INSS, no particular.
+Conclusão: Não comprovado nos autos o exercício de atividade especial pela parte autora nos períodos indicados (fls. 408-410).
+Assim, incide a Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), porquanto o acolhimento da pretensão recursal demandaria o reexame do acervo fático-probatório juntado aos autos.
+Nesse sentido: AgInt no REsp n. 2.113.579/MG, relatora Ministra Maria Isabel Gallotti, Quarta Turma, DJEN de 27/3/2025; AgInt no AREsp n. 2.691.829/SP, relator Ministro Sérgio Kukina, Primeira Turma, DJEN de 28/3/2025; AREsp n. 2.839.474/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJEN de 26/3/2025; AgInt no REsp n. 2.167.518/RS, relatora Ministra Nancy Andrighi, Terceira Turma, DJEN de 27/3/2025; AgRg no AREsp n. 2.786.049/SP, relator Ministro Messod Azulay Neto, Quinta Turma, DJEN de 26/3/2025; AgRg no AREsp n. 2.753.116/RN, relator Ministro Sebastião Reis Júnior, Sexta Turma, DJEN de 25/3/2025; AgInt no REsp n. 2.185.361/CE, relatora Ministra Regina Helena Costa, Primeira Turma, DJEN de 28/3/2025; AgRg no REsp n. 2.088.266/MG, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, DJEN de 25/3/2025; AREsp n. 1.758.201/AM, relatora Ministra Maria Thereza de Assis Moura, Segunda Turma, DJEN de 27/3/2025; AgInt no AREsp n. 2.643.894/DF, relator Ministro Raul Araújo, Quarta Turma, DJEN de 31/3/2025; AgInt no AREsp n. 2.636.023/RS, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, DJEN de 28/3/2025; AgInt no REsp n. 1.875.129/PE, relator Ministro Paulo Sérgio Domingues, Primeira Turma, DJEN de 21/3/2025.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do Agravo para não conhecer do Recurso Especial.
+Nos termos do art. 85, § 11, do Código de Processo Civil, majoro os honorários de advogado em desfavor da parte recorrente em 15% sobre o valor já arbitrado nas instâncias de origem, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão de justiça gratuita.
+Publique-se.
+Intimem-se.
+ EMENTA
