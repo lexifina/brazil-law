@@ -1,0 +1,44 @@
+DECISÃO
+MICHAEL DOUGLAS ROCHA SILVA SANTOS alega sofrer constrangimento ilegal em decorrência de acórdão proferido pelo Tribunal de Justiça do Estado do Ceará no HC n. 0620486-07.2026.8.06.0000.
+A defesa pretende o restabelecimento da liberdade ao paciente, tendo em vista não estar caracterizado o dolo no descumprimento das medidas cautelares. Destaca não haver sido observado o dever de escalonamento das medidas cautelares, a demonstrar a desproporcionalidade da constrição no caso. Assevera as condições pessoais favoráveis do acusado e lembra que ele é responsável pelo sustento de dois filhos menores de 12 anos.
+Considera haver excesso na formação da culpa e entende ser o decreto preventivo desprovido de fundamentação concreta e atual a justificar a segregação do insurgente, especialmente se considerado que os fatos em apuração ocorreram em setembro de 2024 e a audiência de instrução e julgamento está marcada para junho de 2027.
+Indeferida a liminar e prestadas as informações, foram os autos ao Ministério Público Federal, que se manifestou pelo não conhecimento do habeas corpus.
+Decido.
+O paciente, que responde pela prática dos delitos tipificados nos art. 157, § 2º, II e § 2º-A, I, c/c o art. 14, II, do Código Penal, e 14, caput, da Lei n. 10.826/2003, encontrava-se em liberdade mediante o cumprimento de medidas cautelares, entre as quais o monitoramento eletrônico.
+Entretanto, ante a notícia de descumprimento da cautelar relativa à monitoração, o Magistrado de primeira instância decretou a prisão preventiva do paciente, lastreando-se, segundo o acórdão impugnado, nos seguintes fundamentos (fl. 27, destaquei):
+Verifica-se que o acusado MICHAEL DOUGLAS ROCHA SILVA
+SANTOS interrompeu sinal de monitoração eletrônica em 30 de outubro de 2025 em razão de descarga do aparelho de tornozeleira, conforme ofício de fl. 235.
+Em resposta, o acusado justificou que a descarga decorreu de fatores alheios à sua vontade, alegando que exerce a profissão de soldador - atividade que demanda trabalho externo intenso, sendo que no período da falha, encontrava-se em serviço contínuo de alta
+demanda (vide petição de fis. 245/247).
+No entanto, as justificativas apresentadas pelo acusado não estão acompanhadas de nenhum documento ou prova que ateste a veracidade das suas alegações.
+Dessa forma, deixo de acolher tais justificativas. Mesmo assim, as condições da cautelar devem ser observadas e devidamente cumpridas pelo acusado, independentemente de fatos externos alheios.
+Ademais, não é a primeira vez que o acusado demonstra ausência de zelo pelas regras do monitoramento eletrônico. Porquanto, verifico que anteriormente o acusado violou reiteradamente o monitoramento eletrônico, sendo anotadas diversas violações pela SAP, incluindo ausências da área de inclusão domiciliar nos dias/horários de recolhimento obrigatório, além de outros episódios de descarregamento total da bateria do dispositivo - vide ofício de fls. 211/217.
+ ..
+Conforme demonstrado, o réu descumpriu condições que lhe foram impostas, o que demonstra que o sistema de tornozeleira eletrônica não é suficiente para o caso concreto.
+Inegável, portanto, que a prisão preventiva impõe-se como garantia da instrução penal e a aplicação da lei penal. Vejamos a jurisprudência:
+ ..
+Em relação aos pressupostos da custódia preventiva, presentes os mesmos. A existência do crime e os indícios de autoria se encontram evidentes através dos depoimentos
+nos autos.
+Ao denegar a ordem pretendida, a Corte estadual assim se manifestou (fls. 24-29):
+Compulsando os autos nº 0206803-09.2024.8.06.0300, verifica-se que o pedido de liberdade provisória por excesso de prazo não foi submetido ao juízo impetrado, razão pela qual, para evitar a indesejável supressão de instância, é o caso de não conhecer da impetração, também neste ponto, mas analisar de ofício a demanda.
+Verifica-se que inicialmente o paciente foi preso em flagrante delito no dia 29 de setembro de 2024, pela suposta prática do delito previsto no art. 157, §2º, II, §2º-A, I, c/c art. 14, II, todos do Código Penal, e art. 14, da Lei nº 10.826/2003, e em 28 de fevereiro de 2025, o decreto foi revogado mediante imposição de cautelares, dentre elas, o monitoramento eletrônico.
+Contudo, em 30 de outubro de 2025, a Secretaria de Administração Penitenciária do Estado informou ao juízo a violação do aparelho de monitoramento. Após oitiva do Ministério Público, a autoridade impetrada decretou novamente a prisão preventiva do paciente, e designou audiência de instrução para o dia 30 de junho de 2027, às 13h30.
+ ..
+A despeito de não vislumbrar desídia por parte da autoridade judiciária impetrada, na condução do feito, apta a caracterizar constrangimento ilegal, na medida em que vêm sendo adotadas providências com o fim de dar andamento à ação penal, há também de se ponderar os prazos para a conclusão do processo, em atenção à efetividade e à proteção dos direitos fundamentais da parte, que recorde-se, não está presa provisoriamente desde o flagrante, e apenas teve a cautelar diversa da prisão revogada porque a descumpriu.
+Por esta razão, entendo como adequado o envio de determinação ao Juízo impetrado para que antecipe a audiência de instrução designada apenas para o dia 30 de junho de 2027, levando em consideração o longo decurso de tempo até a referida data. Em caso semelhante, a 4ª Câmara Criminal deste Tribunal de Justiça do Estado do Ceará já se manifestou:
+ ..
+Acerca da carência de fundamentação na decretação da prisão preventiva do paciente, considero necessária a transcrição de trechos importantes (fls. 255/257 dos autos nº 0206803-09.2024.8.06.0300):
+ ..
+Pela leitura do excerto acima, tem-se que a decisão acerca da prisão preventiva do paciente foi plenamente fundamentada, com respaldo na necessidade de garantia da ordem pública, notadamente pelo descumprimento da medida cautelar anteriormente imposta e pelo risco de reiteração delitiva.
+É que, após a prisão em flagrante e a sua conversão em prisão preventiva, tendo permanecido encarcerado até o dia 28 de fevereiro de 2025, o paciente foi beneficiado com a liberdade provisória, mediante a aplicação de medidas cautelares alternativas, contudo, de acordo com o Ofício oriundo da Secretaria de Administração Penitenciária, acostado às fls.
+235, aos 04 de novembro de 2025, interrompeu-se o serviço de monitoramento eletrônico desde o dia 30 de outubro de 2025, não sendo mais possível aferir a sua localização. Consta, ainda, no referido documento, que a Central buscou contato telefônico com o monitorado, mas todas as tentativas restaram frustradas.
+Nesse sentido, as medidas alternativas à prisão revelaram-se, na hipótese dos autos, inadequadas e insuficientes para atingir a sua finalidade, mormente pela indisciplina do paciente e o total descrédito com a justiça. Nesse contexto, considerando o risco de reiteração delitiva, assim dispõem os artigos 282, § 4º, e 312, § 1º, do CPP:
+ ..
+A justificativa apresentada pela defesa do paciente, no sentido de que a exaustiva e intensa jornada de trabalho a qual ele era submetido não se encontra comprovada, nem pode servir de escudo para o descumprimento de uma ordem judicial, em especial quando se trata de determinação mais benéfica à anterior.
+Ante o exposto, conheço parcialmente do presente Habeas Corpus, para, na extensão cognoscível, denegar a ordem pretendida, mas com determinação para que a autoridade impetrada promova a antecipação da audiência de instrução e julgamento para data mais próxima.
+De início, destaco que as teses de ausência de dolo e de ilegalidade por ausência de escalonamento das medidas cautelares não foram examinadas pela Corte estadual, o que impede o conhecimento dos assuntos, a fim de não se incorrer em indevida supressão de instância.
+Dito isso, observo que, no caso, houve o descumprimento reiterado do paciente no uso de tornozeleira eletrônica. Diante disso, não identifico o alegado constrangimento ilegal, pois "o descumprimento de medida cautelar imposta para a concessão da liberdade provisória justifica a custódia cautelar" (AgRg no HC n. 659.205/SP, Rel. Ministro Olindo Menezes - Desembargador convocado do TRF da 1ª Região, Sexta Turma, julgado em 18/5/2021, DJe 24/5/2021).
+Nesse sentido, ainda: " a  jurisprudência desta Corte Superior sedimentou-se no sentido de que o descumprimento de medida cautelar imposta como condição para a liberdade provisória, demonstra, por si só, a adequação da prisão preventiva para conveniência da instrução criminal, não havendo falar, portanto, em existência de evidente flagrante ilegalidade capaz de justificar a sua revogação" (AgRg no RHC n. 134.683/BA, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 5/10/2021, DJe 8/10/2021)
+À vista do exposto, conheço parcialmente do habeas corpus e, na parte conhecida, denego a ordem.
+Publique-se e intimem-se.
+EMENTA
