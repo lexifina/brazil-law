@@ -1,0 +1,58 @@
+DECISÃO:
+Cuida-se de reclamação constitucional, com pedido liminar, ajuizada pela Companhia Riograndense De Saneamento – CORSAN em face de decisão proferida pelo Tribunal Regional do Trabalho da 4ª Região, nos autos do Processo nº 0020402-07.2023.5.04.0731, por alegado desrespeito à autoridade do Supremo Tribunal Federal e a eficácia do que decidido na ADC nº 16/DF, no RE 760.931/DF (Tema nº 246 RG) e no  RE 1.268.647/DF (Tema nº 1118 RG).
+A CORSAN  narra que foi condenada subsidiariamente pelas verbas trabalhistas devidas a empregados de empresas terceirizadas por ela contratadas, tendo o TRT 4 fundamentado a condenação na existência de culpa in vigilando do ente.
+Sustenta, sob essa perspectiva, que
+
+“[e]ssa abordagem contraria a essência da ADC 16 e do Tema 246. A ADC 16 exige que a culpa  do ente público seja demonstrada (em regra, por quem alega, ou seja, pelo trabalhador, se lida  em conjunto com o Tema 1.118), e não que a Administração tenha que provar sua diligência  para se eximir de uma responsabilidade que não lhe é presumida. O mesmo ocorre com o  Tema 246.” (e-doc. 1, p. 7).
+
+ Defende que “a base jurídica para a condenação é explicitamente a inversão do ônus  e o mero descumprimento das obrigações por parte da real empregadora” (e-doc. 1, p. 10), o que afrontaria o julgado dos paradigmas invocados.
+A CORSAN requer a procedência dos pedidos para cassar a decisão reclamada e afastar a responsabilidade subsidiária da ora reclamante, ou, subsidiariamente, determinar que seja proferida outra decisão em observância aos precedentes vinculantes apontados.
+É o relatório. Decido.
+Em sessão de julgamento de 13/2/25 (ata de julgamento publicada no DJe de 24/2/25), o Plenário do STF decidiu o RE nº 1.298.647 (vinculado ao Tema nº 1.118 da RG), fixando a seguinte tese:
+
+“1. Não há responsabilidade subsidiária da Administração Pública por encargos trabalhistas gerados pelo inadimplemento de empresa prestadora de serviços contratada, se amparada exclusivamente na premissa da inversão do ônus da prova, remanescendo imprescindível a comprovação, pela parte autora, da efetiva existência de comportamento negligente ou nexo de causalidade entre o dano por ela invocado e a conduta comissiva ou omissiva do poder público. 2. Haverá comportamento negligente quando a Administração Pública permanecer inerte após o recebimento de notificação formal de que a empresa contratada está descumprindo suas obrigações trabalhistas, enviada pelo trabalhador, sindicato, Ministério do Trabalho, Ministério Público, Defensoria Pública ou outro meio idôneo. 3. Constitui responsabilidade da Administração Pública garantir as condições de segurança, higiene e salubridade dos trabalhadores, quando o trabalho for realizado em suas dependências ou local previamente convencionado em contrato, nos termos do art. 5º-A, § 3º, da Lei nº 6.019/1974. 4. Nos contratos de terceirização, a Administração Pública deverá: (i) exigir da contratada a comprovação de capital social integralizado compatível com o número de empregados, na forma do art. 4º-B da Lei nº 6.019/1974; e (ii) adotar medidas para assegurar o cumprimento das obrigações trabalhistas pela contratada, na forma do art. 121, § 3º, da Lei nº 14.133/2021, tais como condicionar o pagamento à comprovação de quitação das obrigações trabalhistas do mês anterior.”
+
+A Companhia Riograndense de Saneamento - CORSAN vale-se da presente reclamação para questionar sua condenação para responder subsidiariamente por verbas trabalhistas inadimplidas a trabalhadores de empresas terceirizadas contratadas para execução de serviço público, representados pelo Sindicato ora reclamante, estando fundamentada a sua responsabilização, segundo trecho extraído da fundamentação do acórdão do TRT 4, que manteve a sentença de primeiro grau, no que segue:
+
+“1.2 RESPONSABILIDADE SUBSIDIÁRIA
+(...)
+É incontroverso que as reclamadas mantiveram contrato de prestação de serviços.
+A reclamada CORSAN junta aos autos extensa documentação, sendo aquela atinente ao caso em análise juntada a partir do ID 13a8648.
+Ocorre que a reclamada é uma sociedade anônima de economia mista e, portanto, considerando a data do contrato sob análise, vige o teor do artigo 5º -A, § 5º, da Lei 6.019/74, com a redação que lhe foi dada pela Lei 13.429/2017:
+§ 5o A empresa contratante é subsidiariamente responsável pelas obrigações trabalhistas referentes ao período em que ocorrer a prestação de serviços, e o recolhimento das contribuições previdenciárias observará o disposto no art. 31 da Lei no 8.212, de 24 de julho de 1991. (Incluído pela Lei nº 13.429, de 2017)
+Diante do exposto, sucumbem os argumentos da recorrente, devendo ela ser responsabilizada pelos créditos devidos à trabalhadora.
+Mesmo que assim não o fosse, considerando os trâmites da privatização da CORSAN, a matéria é de conhecimento deste colegiado, tendo-se alterado as nuances de análise a partir dos pronunciamentos do STF.
+Embora, em regra, a participação culposa do ente público na contratação dos seus prestadores de serviço seja de difícil constatação, por conta de sua submissão ao procedimento licitatório, entendo que, uma vez comprovada a ineficácia e ou a ineficiência da fiscalização do cumprimento das obrigações assumidas pelo contratado pela administração pública, cabe a ela garantir subsidiariamente a satisfação do crédito trabalhista ao empregado, em conformidade com a Súmula nº 331, itens "IV" e "V", do TST:
+(...)
+No caso, a condenação advinda do primeiro grau está assim grafada:
+- saldo de salário;
+- aviso-prévio indenizado proporcional;
+- férias proporcionais com acréscimo de 1/3;
+- 13º salário proporcional;
+- pagamento do FGTS em atraso;
+- FGTS incidentes sobre as verbas rescisórias de natureza salarial - saldo de salário e gratificação natalina;
+- multa de 40% sobre os saldos do FGTS e
+- multa prevista no artigo 477, § 8º, da CLT
+No caso concreto, mesmo que a ré argumente que fiscalizava a atuação da empresa prestadora, o conjunto da prova produzida permite conclusão diversa. De fato, a condenação ao pagamento do FGTS da contratualidade indica que não foram adotadas medidas para, ao menos, mitigar as irregularidades, razão pela qual entendo que deva ser determinada a responsabilização subsidiária.
+Por outro lado, e como examinado, a responsabilidade subsidiária da ora recorrente decorre de culpa in vigilando nos termos dos itens IV e V da Súmula nº 331 do TST.
+Nessas condições, tenho que a conduta da tomadora de serviços, ao não adotar medidas visando a satisfação das obrigações do contrato de trabalho por parte da prestadora de serviços, importou em graves prejuízos aos empregados, que se viram privados de seus salários e demais vantagens. Na verdade, a fiscalização da prestadora de serviços, de forma não efetiva e morosa, tal como efetuada pelo ente público, não atendeu à finalidade nem impediu a sonegação de vantagens de natureza salarial à reclamante, de maneira que, frente ao contexto fático do caso, não identifico violação ao Tema nº 246 da repercussão geral, firmado pelo STF no julgamento do RE 760.931/DF, de relatoria do Ministro Luiz Fux, assim redigido:
+O inadimplemento dos encargos trabalhistas dos empregados do contratados não transfere automaticamente ao Poder Público contratante a responsabilidade pelo seu pagamento, seja em caráter solidário ou subsidiário, nos termos do art. 71, § 1º, da Lei nº 8.666/93.
+(...)
+Nada a prover.”
+
+Conforme visto, a partir do conjunto probatório constante nos autos, a autoridade reclamada entendeu comprovada a culpa da Companhia Riograndense de Saneamento - CORSAN, a ensejar a sua responsabilidade subsidiária pelas verbas trabalhistas devidas a trabalhadores representados pelo Sindicato reclamante, por não terem sido adotadas providências pelo ente público, mesmo ciente das irregularidades perpetradas e reiterados atrasos no adimplemento de verbas trabalhistas devidas.
+Isso porque, consoante se depreende da decisão ora reclamada, o ente público teve ciência, em sede de processo administrativo, do atraso de salários e verbas rescisórias inadimplidas ou adimplidas com atraso, não tendo adotado medidas eficazes para evitar o ocorrido ou para garantir que os empregados tivessem acesso as verbas que lhe eram devidas.
+As conclusões adotadas no ato reclamado estão, assim, fundadas em fatos notórios, corroborados por sólidos  elementos probatórios, acerca da atuação da entidade contratada, indicando a culpa efetiva do ente público, contemplando, assim, de forma expressa e fundamentada, elementos concretos da conduta do ente público na fiscalização do contrato administrativo firmado com impacto danoso no direito dos trabalhadores envolvidos em sua execução.
+Incabível, portanto, a via reclamatória, a qual não se presta para o reexame de fatos e provas dos autos, na linha dos seguintes precedentes:
+
+“Agravo regimental em reclamação. Direito constitucional. Direito do trabalho. Arguição de Descumprimento de Preceito Fundamental nº 324. Tema nº 725 da Repercussão Geral. Vínculo empregatício com prestador de serviços biomédicos admitido como sócio da empresa tomadora. Fatos e provas. Reexame. Impossibilidade. Ausência de estrita aderência entre o ato reclamado e as decisões paradigmas. Reiteração de teses. Agravo regimental não provido. 1. A Justiça do Trabalho afastou a alegação de que a parte beneficiária prestaria seus serviços como profissional autônomo, compreendendo a autoridade reclamada, a partir das provas produzidas nos autos, pelo preenchimento dos requisitos caracterizadores da relação de emprego. Assim, conforme assentado na decisão agravada, “a pretensão dos autos demanda o revolvimento e reexame de fatos e provas do caso concreto, incompatível com a via reclamatória”. 2. O cabimento da reclamação constitucional requer a demonstração de aderência estrita do objeto do ato reclamado ao conteúdo das decisões paradigmáticas do STF, o que não ocorreu na espécie. 3. Agravo regimental não provido.” (Rcl 63510 AgR, de minha relatoria, Segunda Turma, DJe de 13-03-2024)”.
+
+“AGRAVO REGIMENTAL NA RECLAMAÇÃO. TRABALHISTA. TERCEIRIZAÇÃO DE SERVIÇOS. ALEGAÇÃO DE AFRONTA À AUTORIDADE DAS DECISÕES PROFERIDAS POR ESTE TRIBUNAL NA ADPF 324/DF, NA ADC 48/DF, NA ADI 3961/DF E NO RE 958.252-RG/MG (TEMA 725 DA REPERCUSSÃO GERAL). AUSÊNCIA DE ESTRITA ADERÊNCIA ENTRE A DECISÃO RECLAMADA E OS PARADIGMAS INVOCADOS. MATÉRIA PRECLUSA. UTILIZAÇÃO DA RECLAMAÇÃO COMO SUCEDÂNEO RECURSAL. IMPOSSIBILIDADE. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO. I - Na espécie, o Tribunal de origem, com esteio nas provas e nos fatos apresentados, reconheceu a existência de vínculo empregatício diretamente com a contratante da empresa de terceirização. II – A aderência estrita do objeto do ato reclamado ao conteúdo da decisão paradigma é requisito de admissibilidade da reclamação constitucional. III - Dissentir das razões adotadas pelas instâncias ordinárias quanto à presença dos requisitos necessários para a caracterização de vínculo empregatício, demandaria o reexame do conjunto fático-probatório dos autos, circunstância não admitida pela jurisprudência desta Corte. Precedentes. IV – É inviável a utilização da via reclamatória para reacender matéria preclusa. V - A jurisprudência desta Corte é firme no sentido de que a reclamação não pode ser utilizada como mero sucedâneo recursal. VI - Agravo regimental a que se nega provimento.” (Rcl 56362 AgR, Rel. Min. Ricardo Lewandowski, Segunda Turma, DJe de 28-02-2023).
+
+Ante o exposto, nego seguimento à reclamação, nos termos do artigo 21, § 1º, do RISTF. Prejudicada a análise do pedido liminar.
+Publique-se.
+Brasília, 18 de maio de 2026.
+
+Ministro DIAS TOFFOLI
+Relator
+Documento assinado digitalmente
