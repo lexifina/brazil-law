@@ -1,0 +1,34 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Sexta Turma, por unanimidade, negar provimento ao agravo regimental, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Rogerio Schietti Cruz, Carlos Pires Brandão e Og Fernandes votaram com o Sr. Ministro Relator.
+EMENTA
+AGRAVO REGIMENTAL EM AGRAVO EM RECURSO ESPECIAL. IMPUGNAÇÃO DEFICIENTE DA DECISÃO DE INADMISSÃO NA ORIGEM. INOBSERVÂNCIA DO COMANDO LEGAL INSERTO NOS ARTS. 932, III, DO CPC/2015 E 253, PARÁGRAFO ÚNICO, I, DO RISTJ. REGIMENTAL. MERO INCONFORMISMO. MANUTENÇÃO PELOS PRÓPRIOS FUNDAMENTOS.
+Agravo regimental improvido.
+RELATÓRIO
+Trata-se de agravo regimental interposto por ERICK ROCHA DE SOUTO e JOAO VICTOR RODRIGUES DE ANDRADE contra decisão monocrática assim ementada (fl. 611):
+AGRAVO EM RECURSO ESPECIAL. IMPUGNAÇÃO DEFICIENTE DA DECISÃO DE INADMISSÃO NA ORIGEM. INOBSERVÂNCIA DO COMANDO LEGAL INSERTO NOS ARTS. 932, III, DO CPC/2015 E 253, PARÁGRAFO ÚNICO, I, DO RISTJ.
+Agravo em recurso especial não conhecido.
+Nas razões, a parte agravante alega que impugnou especificamente a incidência da Súmula 7/STJ, demonstrando a viabilidade de revaloração jurídica das premissas fáticas já fixadas, sem revolvimento probatório.
+Argumenta que o acórdão condenatório utilizou critério espacial - vedação de atuação como freelancers em local supostamente dominado pelo tráfico - e que o agravo em recurso especial buscou a análise de conformidade desse critério com a legislação federal, sem necessidade de reexame de provas (fls. 621/622)
+Sustenta que houve condenação pelo art. 35 da Lei n. 11.343/2006 sem qualquer referência às elementares de estabilidade e permanência, o que permitiria apenas controle de legalidade sobre a ausência de menção a requisitos essenciais, com base nos arts. 157 e 386, VII, do Código de Processo Penal (fls. 621/622)
+Pugna, assim, pela reforma da decisão agravada.
+É o relatório.
+EMENTA
+AGRAVO REGIMENTAL EM AGRAVO EM RECURSO ESPECIAL. IMPUGNAÇÃO DEFICIENTE DA DECISÃO DE INADMISSÃO NA ORIGEM. INOBSERVÂNCIA DO COMANDO LEGAL INSERTO NOS ARTS. 932, III, DO CPC/2015 E 253, PARÁGRAFO ÚNICO, I, DO RISTJ. REGIMENTAL. MERO INCONFORMISMO. MANUTENÇÃO PELOS PRÓPRIOS FUNDAMENTOS.
+Agravo regimental improvido.
+VOTO
+A insurgência não merece acolhida.
+A bem da verdade, as razões do regimental apenas evidenciam sua utilização como forma de expressar a insatisfação com o decisum ora questionado, na tentativa de rediscutir a matéria rechaçada.
+Com efeito, esta Corte Superior tem reiteradamente afirmado que o agravo regimental deve trazer novos argumentos capazes de alterar o entendimento anteriormente firmado, sob pena de ser mantida a decisão vergastada por seus próprios fundamentos. Nesse sentido: AgRg no AREsp n. 2.432.024/TO, Ministro Messod Azulay Neto, Quinta Turma, DJe de 27/9/2024.
+No caso, as razões do regimental não são capazes de alterar o entendimento anteriormente alcançado.
+Conforme assentado monocraticamente, a decisão que inadmite o recurso especial na origem não é formada por capítulos autônomos, mas por um único dispositivo, razão pela qual deve ser impugnada na sua integralidade, ou seja, em todos os seus fundamentos, inclusive de forma específica, suficiente e pormenorizada, não sendo suficientes meras alegações genéricas ou relativas ao mérito da controvérsia, sob pena de incidência do óbice da Súmula 182/STJ (AgRg nos EDcl no AREsp n. 2.985.942/MA, Ministro Antonio Saldanha Palheiro, Sexta Turma, DJEN de 25/9/2025).
+Ao que se observa, o Tribunal de origem inadmitiu o apelo nobre pela incidência da Súmula 7/STJ, considerando que a pretensão demanda revolvimento do acervo fático-probatório, com menção expressa de que a defesa não esclareceu como a apreciação se delinearia sem revisão do conjunto probatório.
+Todavia, a parte agravante, nas razões do agravo em recurso especial, não impugnou, de maneira específica, a íntegra da decisão de inadmissão.
+Em síntese, o único fundamento - incidência da Súmula 7/STJ - não foi enfrentado de forma clara, específica e concreta. Com efeito, o agravante se limitou a afirmar a viabilidade de mera revaloração jurídica, sem contextualizar, com indicação precisa de folhas, os dados fáticos fixados no acórdão recorrido e sem demonstrar, tópico a tópico, como cada tese poderia ser apreciada sem revolvimento probatório.
+Ora, obstada a subida do recurso especial por incidência da Súmula 7/STJ, caberia à parte agravante a adequada impugnação, exigindo que ela desenvolva uma argumentação que demonstre a desnecessidade de revolvimento do conjunto fático-probatório dos autos, seja porque a questão é meramente de interpretação jurídica - e aí deve comprovar tal circunstância, não apenas alega-la -, seja porque os fatos e provas necessários à adequada solução da controvérsia já tenham sido devidamente delineados no julgado recorrido - e aí deve transcrever os trechos do julgado em que constem tais fatos e provas e conectá-los à violação legal apontada, comprovando, assim, que não é preciso para a solução do caso rever, nesta Corte Superior, aquele conjunto (Edcl no AgInt no Resp n. 1.453.025/MG, Ministro Benedito Gonçalves, Primeira Turma, DJe 14/3/2018).
+Segundo entendimento jurisprudencial desta Corte Superior, para se afastar a aplicação da Súmula 7 do STJ, inviável a mera afirmação de sua não incidência na espécie, devendo o recorrente apresentar argumentação suficiente demonstrando que, para o STJ mudar o entendimento da instância de origem sobre a questão suscitada, não se faz necessário reexame de fatos e provas da causa (AgRg no AREsp n. 2.231.715/PB, Ministro Jesuíno Rissato, Desembargador Convocado do TJDFT, Sexta Turma, DJe 14/4/2023).
+No mesmo sentido : AgInt no AREsp n. 2.141.230/SP, Ministro Herman Benjamin, Segunda Turma, DJe 19/12/2022; AgRg no AREsp n. 1.654.523/SC, Ministra Laurita Vaz, Sexta Turma, DJe 29/6/2020; e AgInt no AREsp n. 1.463.467/RJ, Ministro Og Fernandes, Segunda Turma, DJe 29/6/2020.
+Acerca da alegada nulidade por tortura, anotou-se na decisão ora agravada, ainda, que a insurgência não evidencia qualquer premissa fática constante do acórdão que permita a revaloração pretendida, reforçando a ausência de impugnação específica do óbice aplicado - e nem poderia, eis que tal alegação não fora sequer objeto de debate no acórdão recorrido, estando ausente no ponto o necessário prequestionamento.
+Por conseguinte, a decisão acabou por aplicar à hipótese o art. 932, inciso III, do CPC, c/c o art. 3º do CPP, e a Súmula 182/STJ por analogia.
+Nesse contexto, tenho que a parte não logrou êxito em demonstrar em seu regimental argumento capaz de modificar as razões expostas na decisão monocrática ora combatida, as quais devem ser mantidas in totum pelos seus próprios fundamentos.
+Ante o exposto, nego provimento ao agravo regimental.
