@@ -1,0 +1,20 @@
+DECISÃO
+Cuida-se de Embargos de Declaração opostos por AGENOR MIGUEL HOLDEFER, DANILO MIGUEL DE LIMA, DIEGO AUGUSTO DE SOUSA, EDER LUCAS PEREIRA contra a decisão que não conheceu do agravo em recurso especial em razão da ausência de impugnação dos fundamentos da decisão que não admitiu o Recurso Especial, nos termos do art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça.
+Em suas razões, sustenta a parte embargante que
+A decisão afirmou que "a parte agravante deixou de impugnar especificamente: deficiência de cotejo analítico", circunstância que atrairia a Súmula 182/STJ. Contudo, consta da decisão denegatória (e-STJ fls. 138/139) e do recurso especial (e-STJ fls. 113/129) que o apelo foi interposto com "com fundamento no art. 105, inciso III, alínea "a", da Constituição Federal", ou seja, por contrariedade ou nagativa de vigência à tratado ou lei federal e não por dissídio jurisprudencial, previsto na alínea "c" do permissivo constitucional.
+Assim, não havia obrigação formal do recorrente fazer o "cotejo analítico" de acórdãos, pois este rigor só é exigido dos recursos que se apoiam na alínea "c" do art. 105, III da CF, conforme art. 1.029, §1º do CPC e §1º do art. 255 do RISTJ.
+Cabe pontuar que no último parágrafo a decisão denegatória alegou que "embora o recurso especial mencione jurisprudência do ST Jem sentido supostamente diverso, não promove cotejo analítico nos termos exigidos peloart. 1.029, §1º, do CPC/2015, não se prestando a configurar divergência jurisprudencialválida". Todavia, evidentemente, o fundamento não se aplica ao caso, pois a referida norma processual só incide "quando o recurso fundar-se em dissídio jurisprudencial", ou seja, com base na alínea "c" do permissivo constitucional, contudo, este não é o caso em exame. (fl. 207)
+Requer, assim, o conhecimento e o acolhimento dos embargos declaratórios para que seja sanado o vício apontado.
+A parte embargada foi devidamente intimada para contra-arrazoar estes aclaratórios.
+É o relatório.
+Decido.
+Nos termos do art. 1.022 do Código de Processo Civil, os Embargos de Declaração destinam-se a esclarecer obscuridade, eliminar contradição, suprir omissão e corrigir erro material eventualmente existentes no julgado, o que não se verifica na hipótese.
+A propósito, da análise do recurso de Agravo em Recurso Especial observa-se que a parte agravante deixou de impugnar especificamente os fundamentos da decisão agravada, conforme exigido pelo art. 253, parágrafo único, do RISTJ, a saber: deficiência de cotejo analítico.
+Veja-se que a refutação apta a infirmar a decisão agravada deve ser efetiva, individualizada, específica e fundamentada (AgInt no REsp n. 1.535.657/MT, Rel. Ministro Luís Felipe Salomão, Quarta Turma, DJe de 26.8.2020, e AgRg no RHC n. 128.660/SP, Rel. Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe de 24.8.2020).
+Importante registrar que o momento adequado para impugnação dos fundamentos da decisão que não admite o recurso especial é a interposição do Agravo em Recurso Especial, sob pena de preclusão caso feita posteriormente.
+Ressalte-se que a pretensão de rediscutir matéria devidamente abordada e decidida no decisum embargado, consubstanciada na mera insatisfação com o resultado da demanda, não se coaduna com a via eleita. Nesse sentido, os EDcl no AgRg nos EREsp n. 1.315.507/SP, Rel. Ministro Luis Felipe Salomão, Corte Especial, DJe de 28.8.2014.
+Assim, não há nenhuma irregularidade sanável por meio dos presentes Embargos, porquanto toda a matéria apta à apreciação desta Corte foi analisada, não padecendo a decisão embargada dos vícios que autorizariam a sua oposição (obscuridade, contradição, omissão ou erro material).
+Ante o exposto, rejeito os Embargos de Declaração e advirto a parte embargante sobre a reiteração deste expediente, sob pena de pagamento de multa de 2% sobre o valor atualizado da causa, porque os próximos embargos versando sobre o mesmo assunto serão considerados manifestamente protelatórios (art. 1.026, § 2º, do Código de Processo Civil).
+Publique-se.
+Intimem-se.
+ EMENTA
