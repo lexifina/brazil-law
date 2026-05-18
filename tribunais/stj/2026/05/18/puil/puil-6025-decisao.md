@@ -1,0 +1,86 @@
+DECISÃO
+Vistos.
+Trata-se de pedido de uniformização de interpretação de lei formulado por MATEUS ROSSETTO DOS SANTOS, em face de acórdão proferido pela Turma Recursal Provisória da Fazenda Pública do Tribunal de Justiça do Estado do Rio Grande do Sul, que negou provimento ao Recurso Inominado e manteve sentença de improcedência de ação movida contra o DEPARTAMENTO DE TRÂNSITO DO RIO GRANDE DO SUL (DETRAN/RS), por meio da qual visa à anulação do Auto de Infração de Trânsito n. TE00022083 e do Processo de Suspensão do Direito de Dirigir n. 2021/0125545-3, bem como ao reembolso do valor pago a título de multa, assim ementado (fls. 465/472e):
+DIREITO ADMINISTRATIVO. RECURSO INOMINADO CÍVEL. INFRAÇÃO DE TRÂNSITO. PRESUNÇÃO DE LEGITIMIDADE DOS ATOS ADMINISTRATIVOS. ÔNUS DA PROVA. DESPROVIMENTO DO RECURSO.
+I. CASO EM EXAME:
+1. Recurso inominado interposto contra sentença que julgou improcedentes os pedidos de anulação do Auto de Infração de Trânsito (AIT) TE00022083 e do Processo de Suspensão do Direito de Dirigir (PSDD) nº 2021/0125545- 3, bem como o reembolso do valor pago referente à multa.
+II. QUESTÃO EM DISCUSSÃO:
+1. A questão em discussão consiste na validade das notificações do AIT TE00022083 e do PSDD nº 2021/0125545- 3, especialmente quanto à alegação de erro no endereço de notificação e cerceamento de defesa.
+III. RAZÕES DE DECIDIR:
+1. A presunção de legitimidade dos atos administrativos não foi desconstituída, pois o recorrente não comprovou suas alegações de erro no endereço de notificação.
+2. A notificação de autuação foi regularmente entregue no endereço cadastrado, e a notificação de imposição de penalidade foi expedida corretamente, não havendo invalidade nos atos.
+3. A alegação de erro sistêmico no endereço não foi comprovada, e a responsabilidade pela atualização dos dados cadastrais é do recorrente.
+4. A sentença de improcedência dos pedidos foi mantida, pois o recorrente não se desincumbiu do ônus de provar suas alegações, conforme o art. 373, I, do CPC.
+IV. DISPOSITIVO E TESE:
+1. Recurso desprovido.
+O Requerente sustenta, em síntese, a divergência em relação ao entendimento consolidado sobre a aplicação do art. 282, § 1º, do Código de Trânsito Brasileiro, da Resolução n. 619/2016 do Conselho Nacional de Trânsito (CONTRAN) e da Súmula n. 312/STJ, no que concerne ao esgotamento das vias de notificação pessoal antes da utilização da via editalícia.
+Destaca ter o acórdão recorrido entendido pela validade da notificação por edital baseada na mera tentativa frustrada de notificação pessoal pelos Correios, sob a rubrica "não procurado".
+Por outro lado, afirma não configurar tal circunstância o esgotamento exigido por lei, notadamente em razão de a Administração possuir meios de aferir a impossibilidade da entrega direta no endereço cadastrado.
+Assevera, ainda, ter havido graves inconsistências sistêmicas quando da notificação de imposição da penalidade, porquanto o endereço correspondente à cidade de Ronda Alta/RS teria sido equivocadamente vinculado ao Estado de São Paulo, fato admitido pelo próprio Réu em contestação ao afirmar o erro material na etapa procedimental de notificação.
+Para demonstrar o dissídio jurisprudencial e a similitude fática das situações enfrentadas, salienta restar demonstrada a conclusão diversa dada por Turmas Recursais de diferentes Estados a casos idênticos no que tange à diferenciação entre a rubrica "não procurado" e "infrator em local incerto ou não sabido".
+Ao final, requer o acolhimento do pedido de uniformização para fixar a tese segundo a qual "a devolução de notificação de trânsito pelos Correios com o status "Não Procurado", especialmente em áreas sem entrega domiciliar, não configura o esgotamento das vias de notificação pessoal exigido pelo art. 282 do CTB e pelas resoluções do CONTRAN, sendo nula a notificação editalícia realizada sem a comprovação de ciência real ou de meios efetivos de aviso prévio ao infrator" (fls. 3/10e).
+Com contrarrazões, o incidente foi remetido ao Superior Tribunal de Justiça (fls. 300/304e e 309e).
+Feito breve relato, decido.
+De início, vale destacar que a competência desta Corte para apreciar pedido de uniformização de interpretação de lei federal fundamenta-se nos arts. 18, § 3º, e 19 da Lei n. 12.153/09, in verbis:
+Art. 18. Caberá pedido de uniformização de interpretação de lei quando houver divergência entre decisões proferidas por Turmas Recursais sobre questões de direito material.
+§ 1º O pedido fundado em divergência entre Turmas do mesmo Estado será julgado em reunião conjunta das Turmas em conflito, sob a presidência de desembargador indicado pelo Tribunal de Justiça.
+§ 2º No caso do § 1º, a reunião de juízes domiciliados em cidades diversas poderá ser feita por meio eletrônico.
+§ 3º Quando as Turmas de diferentes Estados derem a lei federal interpretações divergentes, ou quando a decisão proferida estiver em contrariedade com súmula do Superior Tribunal de Justiça, o pedido será por este julgado.
+Art. 19. Quando a orientação acolhida pelas Turmas de Uniformização de que trata o § 1º do art. 18 contrariar súmula do Superior Tribunal de Justiça, a parte interessada poderá provocar a manifestação deste, que dirimirá a divergência. (destaques meus).
+Na mesma linha, o art. 67, parágrafo único, inciso VIII-A, do Regimento Interno desta Corte, preconiza que:
+"A classe Pedido de Uniformização de Interpretação de Lei (PUIL) compreende a medida interposta contra decisão: a) da Turma Nacional de Uniformização no âmbito da Justiça Federal que, em questões de direito material, contrarie súmula ou jurisprudência dominante no Superior Tribunal de Justiça; b) da Turma Recursal dos Juizados Especiais da Fazenda Pública no âmbito dos Estados, do Distrito Federal, dos Territórios e dos Municípios quando as Turmas de diferentes Estados derem a lei federal interpretações divergentes, ou quando a decisão proferida estiver em contrariedade com súmula do Superior Tribunal de Justiça; e c) das Turmas de Uniformização dos Juizados Especiais da Fazenda Pública no âmbito dos Estados, do Distrito Federal, dos Territórios e dos Municípios quando a orientação adotada pelas Turmas de Uniformização contrariar súmula do Superior Tribunal de Justiça".
+Com efeito, o Pedido de Uniformização de Interpretação de Lei Federal (PUIL), no âmbito dos Juizados Especiais da Fazenda Pública possui hipóteses de cabimento estritas e expressas na Lei n. 12.153/2009.
+Destina-se, portanto, a dirimir divergência acerca de questão de direito material entre Turmas Recursais de diferentes Estados ou quando a decisão recorrida contrariar súmula do Superior Tribunal de Justiça, sendo incabível o seu manejo sob a alegação de afronta a acórdãos proferidos em recursos especiais, invocando jurisprudência não sumulada.
+Na espécie, observa-se que o presente incidente se apresenta manifestamente inadmissível, porquanto o Requerente não procedeu ao efetivo cotejo analítico entre os arestos confrontados, com o escopo de demonstrar que partiram de situações fático-jurídicas idênticas e adotaram conclusões discrepantes.
+Cumpre ressaltar que cabia ao Requerente transcrever os trechos dos acórdãos que configurem o dissídio, mencionando as circunstâncias dos casos confrontados, sendo insuficiente, para tanto, a mera alusão genérica à existência de precedentes em sentido contrário, sem que estes sejam adequadamente individualizados, acostados aos autos e cotejados com o acórdão paragonado.
+De fato, nas razões do incidente, a despeito de apontar a inobservância da Súmula n. 312/STJ, o Requerente não apresenta acórdão paradigma proveniente de Turma Recursal de outro Estado, o que é incabível.
+Ademais, a parte Requerente não instruiu o feito com os documentos necessários para a comprovação do dissídio, notadamente as cópias do inteiro teor dos arestos citados de maneira genérica como paradigmas, limitando-se a mencionar entendimento sumulado desta Corte em suas razões.
+Consoante remansosa jurisprudência desta Corte, deve-se demonstrar a divergência mediante juntada de certidão ou de cópia autenticada do acórdão paradigma, ou, em sua falta, da declaração pelo advogado da autenticidade dessas; citação de repositório oficial, autorizado ou credenciado, em que o acórdão divergente foi publicado e; cotejo analítico, com a transcrição dos trechos dos acórdãos em que se funda a divergência, além da demonstração das circunstâncias que identificam ou assemelham os casos confrontados, o que não ocorreu no presente caso.
+Nessa linha:
+PROCESSUAL CIVIL. ADMINISTRATIVO. AGRAVO INTERNO NO PEDIDO DE UNIFORMIZAÇÃO DE INTERPRETAÇÃO DE LEI. CÓDIGO DE PROCESSO CIVIL DE 2015. APLICABILIDADE. DISSÍDIO NÃO COMPROVADO. ARGUMENTOS INSUFICIENTES PARA DESCONSTITUIR A DECISÃO ATACADA. APLICAÇÃO DE MULTA. ART. 1.021, § 4º, DO CÓDIGO DE PROCESSO CIVIL DE 2015. DESCABIMENTO.
+I - Consoante o decidido pelo Plenário desta Corte na sessão realizada em 09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. In casu, aplica-se o Código de Processo Civil de 2015.
+II - A parte requerente não instruiu o feito com os documentos necessários para a comprovação do dissídio, notadamente as cópias do inteiro teor dos arestos das Turmas Recursais apontados como paradigmas.
+III - A só menção ao Diário da Justiça em que teriam sido publicados os acórdãos paradigmas trazidos à colação, sem a indicação da respectiva fonte, quando os julgados encontram-se disponíveis na rede mundial de computadores ou Internet, não supre a exigência da citação do repositório oficial ou autorizado de jurisprudência, ou, ao menos, da juntada da certidão ou cópia autenticada do acórdão paradigma.
+IV - O presente incidente de uniformização refere-se a direito processual e não se ampara em contrariedade a súmula deste Tribunal, sendo, portanto, manifestamente inadmissível..
+V - Não apresentação de argumentos suficientes para desconstituir a decisão recorrida.
+VI - Em regra, descabe a imposição da multa, prevista no art. 1.021, § 4º, do Código de Processo Civil de 2015, em razão do mero improvimento do Agravo Interno em votação unânime, sendo necessária a configuração da manifesta inadmissibilidade ou improcedência do recurso a autorizar sua aplicação, o que não ocorreu no caso.
+VII - Agravo Interno improvido.
+(AgInt no PUIL n. 3.089/SP, de minha relatoria, Primeira Seção, julgado em 29/11/2022, DJe de 1/12/2022 - destaques meus.)
+PROCESSUAL CIVIL. PEDIDO DE UNIFORMIZAÇÃO DE INTERPRETAÇÃO DE LEI. JUIZADOS ESPECIAIS DA FAZENDA PÚBLICA. DIVERGÊNCIA. REQUISITOS. AUSÊNCIA. LEGISLAÇÃO LOCAL. EXAME. IMPOSSIBILIDADE.
+1. O incidente de uniformização dirigido ao STJ, nos termos do art. 18, § 3º, da Lei n. 12.153/2009, é cabível quando as Turmas Recursais de diferentes Estados derem à lei federal interpretações divergentes, ou quando a decisão proferida estiver em contrariedade com súmula do Superior Tribunal de Justiça, especificamente no que se refere a questões de direito material.
+2. Deve-se demonstrar a divergência mediante: juntada de certidão ou de cópia autenticada do acórdão paradigma, ou, em sua falta, da declaração pelo advogado da autenticidade delas; citação de repositório oficial, autorizado ou credenciado, em que o acórdão divergente foi publicado; cotejo analítico, com a transcrição dos trechos dos votos em que se funda a divergência, além da demonstração das circunstâncias que identificam ou assemelham os casos confrontados, o que, in casu, não ocorreu.
+3. Não cabe a esta Corte Superior se manifestar, em sede de pedido de uniformização de interpretação de lei federal, acerca de legislação local.
+4. Agravo interno desprovido.
+(AgInt no PUIL n. 5.250/CE, relator Ministro Gurgel de Faria, Primeira Seção, julgado em 24.2.2026, DJEN de 13.3.2026 - destaques meus)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO PEDIDO DE UNIFORMIZAÇÃO DE INTERPRETAÇÃO DE LEI. ART. 14, § 4º, DA LEI 10.259/2001. AUSÊNCIA DE COTEJO ANALÍTICO. PEDIDO NÃO CONHECIDO.
+1. Nos termos do art. 14, § 4º, da 10.259/2001, o cabimento do incidente perante o STJ se dará nas hipóteses de decisão colegiada que examina questão de direito material, a qual esteja em confronto com súmula ou jurisprudência dominante do STJ. Para tanto, faz-se necessária a demonstração da divergência mediante a verificação das circunstâncias que assemelhem ou identifiquem os casos confrontados, com a realização do cotejo analítico entre eles (arts. 1.029, § 1º, do CPC/2015 e 255, § 1º, do RISTJ).
+2. Na espécie, a requerente não procedeu ao cotejo analítico entre os acórdãos confrontados. Também não fez prova da divergência com a certidão, cópia ou citação do repositório de jurisprudência, oficial ou credenciado, requisitos indispensáveis para o processamento e conhecimento do referido incidente de uniformização.
+3. Agravo interno não provido.
+(AgInt no PUIL n. 760/DF, relator Ministro Benedito Gonçalves, Primeira Seção, julgado em 31.3.2020, DJe de 2.4.2020 - destaques meus)
+Ainda que se pudesse superar a ausência do confronto analítico entre os precedentes mencionados e a instrução deficiente do incidente, observo ter a Turma a qua concluído pela inexistência de invalidade nas intimações do auto de infração, consignando que a Notificação de Autuação foi entregue no endereço do Auto de modo regular em 17.1.2020.
+No que concerne ao Processo de Suspensão do Direito de Dirigir, a Turma a qua destacou ter havido a inserção de informações equivocadas por parte do próprio autuado quanto ao endereço para comunicação, concluindo, finalmente, não ter ele se desincumbido do ônus processual de demonstrar suas alegações, nos seguintes termos (fls. 466/467e):
+A Notificação de Autuação (NAIT) foi regularmente entregue em 17/01/2020 no endereço do autor em Ronda Alta/RS (PROCADM2):
+ ..
+Nenhuma invalidade, pois, nas intimações do auto de infração TE00022083
+ ..
+O endereço com número equivocado foi inserido no sistema do DETRAN quando da comunicação de venda:
+ ..
+A comunicação da venda foi realizada digitalmente, conforme consta na imagem acima. Isso significa que as informações foram fornecidas pelo próprio autuado.
+No caso em análise, o recorrente não se desincumbiu do ônus de provar suas alegações, de que teria informado o endereço correto e houve erro sistêmico. A inversão do ônus da prova causaria o caos na segurança jurídica das relações do administrado com o poder público, legitimamente constituído, a quem foi conferida a credibilidade constitucional. (destaques meus)
+Com efeito, o presente incidente de uniformização se ampara em dissenso sobre tema processual, consistente no cumprimento do ônus processual atribuído à Autora, sendo, portanto, manifestamente inadmissível, nos termos do julgado assim ementado:
+TRIBUTÁRIO. PROCESSUAL CIVIL. INCIDENTE DE UNIFORMIZAÇÃO. LEI N. 12.153/2009. DISCUSSÃO SOBRE CONCESSÃO DE GRATUIDADE DE JUSTIÇA. QUESTÃO PROCESSUAL. NÃO CABIMENTO.
+1. Dispõe o art. 18, § 3º, da Lei n. 12.153/2009 que o incidente de uniformização dirigido ao STJ somente é cabível quando houver divergência entre decisões proferidas por Turmas Recursais de diferentes Estados sobre questões de direito material.
+2. Na hipótese dos autos, não há como conhecer do incidente, uma vez que o acórdão recorrido está pautado em questão de direito processual. Precedentes.
+3. Agravo interno não provido.
+(AgInt no PUIL n. 5.111/PR, relator Ministro Sérgio Kukina, Primeira Seção, julgado em 12.11.2025, DJEN de 18.11.2025.)
+Nessa ordem de ideias, ressalto, finalmente, que o incidente também tem como requisito de admissibilidade a impossibilidade de reexame de conteúdo fático-probatório, não se podendo revisitar o acervo dos autos, a fim de verificar a ocorrência da suposta irregularidade sistêmica por ocasião da notificação, ou mesmo o enquadramento do domicílio do Requente como inserido em área com restrição de entrega domiciliar, de modo contrário ao que supostamente teria concluído a Turma Recursal de origem.
+Nessa linha:
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO INTERNO NO PEDIDO DE UNIFORMIZAÇÃO DE INT ERPRETAÇÃO DE LEI. DISSENSO INTERPRETATIVO. SIMILITUDE FÁTICA NÃO DEMONSTRADA. REEXAME DE MATÉRIA DE FATO. DESCABIMENTO. AGRAVO INTERNO DESPROVIDO.
+1. Pela análise dos excertos dos acórdãos recorrido e paradigma, é inviável reconhecer correspondência fática entre os casos cotejados, tampouco identificar divergência interpretativa sobre o dispositivo de lei federal aplicável,
+2. A apreciação das teses ventiladas, relativas ao cumprimento ou descumprimento de prazos no procedimento administrativo, exigiria o revolvimento de fatos e provas, medida incompatível com esta via processual.
+3. Agravo interno desprovido.
+(AgInt no PUIL n. relator Ministro Teodoro Silva Santos, Primeira 4.913/SP, Seção, julgado em 18.11.2025, DJEN de 25.11.2025 - destaques meus)
+Nesse contexto, não restou caracterizada a divergência acerca de questão de direito material fundada na interpretação divergente de dispositivo de lei federal, consoante preconiza e exige o art. 18, § 3º, da Lei n. 12.153/2009.
+Posto isso, com base nos arts. 1º, § 2º, da Resolução STJ 10/2007 e 34, XVIII, do Regimento Interno desta Corte, INDEFIRO liminarmente o processamento do incidente.
+Publique-se. Intimem-se.
+EMENTA
