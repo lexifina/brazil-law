@@ -1,0 +1,33 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Sexta Turma, por unanimidade, negar provimento ao agravo regimental, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Rogerio Schietti Cruz, Carlos Pires Brandão e Og Fernandes votaram com o Sr. Ministro Relator.
+EMENTA
+AGRAVO REGIMENTAL EM AGRAVO EM RECURSO ESPECIAL. VIOLAÇÃO DE DOMICÍLIO. FUNDADAS RAZÕES. INVERSÃO DA CONCLUSÃO DA INSTÂNCIA ORDINÁRIA. REVOLVIMENTO FÁTICO-PROBATÓRIO.
+1. No caso, a atuação policial derivou de informação específica prestada em abordagem anterior, por adolescente que indicou o fornecedor da droga, descrevendo características físicas e o local da entrega, e posteriormente do comportamento suspeito do acusado, que tentou empreender fuga ao visualizar a equipe. Nesse contexto, ausente violação do art. 157 do Código de Processo Penal.
+2. A convergência entre notícia detalhada e o comportamento suspeito do agravante - tentativa de fuga - constitui lastro objetivo suficiente para a configuração das fundadas razões exigidas para a medida, nos termos do art. 240, § 1º, do Código de Processo Penal.
+3. Ante os elementos fáticos extraídos dos autos, para acolher a tese da defesa de nulidade da prisão em flagrante diante da violação domiciliar, desconstituindo os fundamentos adotados pela instância ordinária a respeito da existência de elementos previamente identificados, seria necessário o reexame do conjunto probatório, providência vedada em habeas corpus.
+4. Agravo regimental improvido.
+RELATÓRIO
+Trata-se de agravo regimental interposto por LEONARDO ALVES GOMES contra decisão monocrática assim ementada (fl. 568):
+AGRAVO EM RECURSO ESPECIAL. DIREITO PENAL E PROCESSUAL PENAL. TRÁFICO DE DROGAS. VIOLAÇÃO DE DOMICÍLIO. FUNDADAS RAZÕES.
+Agravo conhecido para negar provimento ao recurso especial.
+Nas razões, a parte agravante sustenta que a decisão monocrática deve ser reformada, pois a condenação se apoia em provas ilícitas decorrentes de violação domiciliar sem fundadas razões, o que macula todo o conjunto probatório (fl. 579).
+Afirma que não é verossímil a narrativa de que o menor, ciente da ilicitude, teria indicado livremente local e modo de armazenamento das drogas, sem qualquer constrangimento ou pressão própria da abordagem em flagrante (fl. 579).
+Assevera que a violação domiciliar foi fundamentada exclusivamente em suposta confissão de terceiro, sem diligência prévia ou elemento autônomo de corroboração, tornando nulas as provas obtidas e as delas derivadas, conforme o art. 157 do Código de Processo Penal e a teoria dos frutos da árvore envenenada (fl. 580).
+Pede a reforma da decisão para dar provimento ao recurso especial, reconhecer a ilicitude das provas e determinar seu desentranhamento; subsidiariamente, requer concessão de ordem de ofício por teratologia (fls. 580/581).
+É o relatório.
+EMENTA
+AGRAVO REGIMENTAL EM AGRAVO EM RECURSO ESPECIAL. VIOLAÇÃO DE DOMICÍLIO. FUNDADAS RAZÕES. INVERSÃO DA CONCLUSÃO DA INSTÂNCIA ORDINÁRIA. REVOLVIMENTO FÁTICO-PROBATÓRIO.
+1. No caso, a atuação policial derivou de informação específica prestada em abordagem anterior, por adolescente que indicou o fornecedor da droga, descrevendo características físicas e o local da entrega, e posteriormente do comportamento suspeito do acusado, que tentou empreender fuga ao visualizar a equipe. Nesse contexto, ausente violação do art. 157 do Código de Processo Penal.
+2. A convergência entre notícia detalhada e o comportamento suspeito do agravante - tentativa de fuga - constitui lastro objetivo suficiente para a configuração das fundadas razões exigidas para a medida, nos termos do art. 240, § 1º, do Código de Processo Penal.
+3. Ante os elementos fáticos extraídos dos autos, para acolher a tese da defesa de nulidade da prisão em flagrante diante da violação domiciliar, desconstituindo os fundamentos adotados pela instância ordinária a respeito da existência de elementos previamente identificados, seria necessário o reexame do conjunto probatório, providência vedada em habeas corpus.
+4. Agravo regimental improvido.
+VOTO
+O agravo regimental não prospera, porquanto o agravante não conseguiu infirmar os fundamentos adotados na decisão agravada.
+O recurso especial tem origem em ação penal por tráfico de drogas. O Juízo de primeiro grau absolveu o acusado por reconhecer a ilicitude das provas decorrentes de ingresso policial no domicílio sem mandado (art. 386, VII, c/c o art. 157, § 1º, do Código de Processo Penal). O Tribunal de Justiça reformou parcialmente a sentença, declarou válidas as buscas pessoal e domiciliar e determinou o retorno dos autos para prosseguimento do julgamento da denúncia (fls. 456/468).
+No caso, apontou o Tribunal de origem, ao afastar a nulidade, que o recorrente foi abordado não só porque possuía as mesmas características físicas do indivíduo que - segundo o adolescente D. M. R. C. P., no ato de sua abordagem, indicou como sendo a pessoa de quem ele havia adquirido uma porção de maconha, como descreveu, detalhadamente, suas características físicas e o local de entrega da droga  .. , mas também em razão do comportamento suspeito do mesmo, que tentou empreender fuga após visualizar a equipe policial (fl. 463).
+Conforme descrito, a atuação policial derivou de informação específica prestada em abordagem anterior, por adolescente que indicou o fornecedor da droga, descrevendo características físicas e o local da entrega, e posteriormente do comportamento suspeito do acusado, que tentou empreender fuga ao visualizar a equipe. Nesse contexto, ausente violação do art. 157 do Código de Processo Penal.
+Como já dito na decisão agravada, a convergência entre notícia detalhada e o comportamento suspeito do agravante - tentativa de fuga - constitui lastro objetivo suficiente para a configuração das fundadas razões exigidas para a medida, nos termos do art. 240, § 1º, do Código de Processo Penal.
+Nesse sentido, cito os seguintes julgados: AgRg no REsp n. 2.055.513/SC, de minha relatoria, Sexta Turma, julgado em 3/12/2025, DJEN de 9/12/2025; e AgRg no AREsp n. 2.514.601/SP, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 16/9/2025, DJEN de 23/9/2025.
+Ante os elementos fáticos extraídos dos autos, para acolher a tese da defesa de nulidade da prisão em flagrante diante da violação domiciliar, desconstituindo os fundamentos adotados pela instância ordinária a respeito da existência de elementos previamente identificados, seria necessário o reexame do conjunto probatório, providência vedada em habeas corpus.
+Confirmo, portanto, a decisão agravada por seus próprios fundamentos e nego provimento ao agravo regimental.
