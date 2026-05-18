@@ -1,0 +1,37 @@
+DECISÃO:
+Trata-se de recurso extraordinário com agravo contra decisão de inadmissão do recurso extraordinário.
+O recurso foi interposto com fundamento na alínea "a" do permissivo constitucional.
+O acórdão recorrido  ficou assim ementado:
+
+DIREITO PENAL E PROCESSO PENAL. RECURSO EM SENTIDO ESTRITO. HOMICÍDIO QUALIFICADO E POSSE ILEGAL DE ARMA DE FOGO (ART. 121, § 2°, INC. I, E IV, DO CÓDIGO PENAL E ART. 16, § ÚNICO, INC. IV, DA LEI N. 10.826/03). DECISÃO DE PRONÚNCIA. RECURSO DA DEFESA. PEDIDO DE ABSOLVIÇÃO SUMÁRIA OU IMPRONÚNCIA. NÃO PROVIMENTO. ELEMENTOS DE INFORMAÇÃO E ACERVO PROBATÓRIO COLHIDO NA FASE INSTRUTÓRIA QUE INDICAM A MATERIALIDADE DOS FATOS E A EXISTÊNCIA DE SUFICIENTES INDÍCIOS DA PARTICIPAÇÃO DELITIVA. INTELIGÊNCIA DO ART. 413, DO CPP. ANÁLISE APROFUNDADA DA MATÉRIA QUE COMPETE AO TRIBUNAL DO JÚRI. PEDIDOS SUBSIDIÁRIOS PARA DECOTE DAS QUALIFICADORAS DE MOTIVO TORPE E EMPREGO DE MEIO QUE DIFICULTOU A DEFESA DA VÍTIMA. PROVIMENTO. RECORRENTE QUE, A PRINCÍPIO, PRESTOU AUXÍLIO MATERIAL ENTREGANDO A ARMA DO CRIME AOS EXECUTORES IMEDIATOS. AUSÊNCIA DE INDÍCIOS DE QUE SERIA DE SEU CONHECIMENTO A FORMA, O TEMPO E O LUGAR DO CRIME, DE MODO QUE NÃO HÁ COMUNICABILIDADE DAS QUALIFICADORAS, CONFORME JÁ SE PRONUNCIOU O SUPERIOR TRIBUNAL DE JUSTIÇA. RECURSO CONHECIDO E PARCIALMENTE PROVIDO.
+I. CASO EM EXAME
+1. Trata-se de recurso em sentido estrito interposto pela defesa do réu L. D.B.S em face da decisão de pronúncia, a qual qualificou-o, a princípio, no incurso do crime previsto no art. 121, §2°, inc. I e IV do Código Penal e ar. 16, §1° inc. IV, da Lei n. 10.826/2003, pretendendo a absolvição sumária ou a impronúncia. Subsidiariamente, o decote das qualificadoras do crime de homicídio descritas no art. 121, §2°, inc. I e III, do CP.
+II. QUESTÃO EM DISCUSSÃO
+2. Há duas questões em discussão: (i) saber se estão presentes os requisitos para decisão de pronúncia, especialmente os indícios de autoria ou participação delitiva, ou se é caso de absolvição sumária ou impronúncia; e (ii) se é caso de decotar as qualificadoras do crime de homicídio.
+III. RAZÕES DE DECIDIR
+3. Nos termos do que dispõe a legislação processual penal, notadamente em seu art. 413, a decisão de pronúncia exige prova da existência da materialidade dos fatos e dos suficientes indícios da autoria ou participação delitiva. Trata-se de uma análise de admissibilidade da acusação viabilizando que os casos de competência do Tribunal do Júri possam ser adequadamente julgados. Situação dos autos em que demonstrada a materialidade dos fatos, bem como, em princípio, os suficientes indícios da participação delitiva do recorrente, especialmente porque teria auxiliado materialmente no crime com a entrega da arma aos executores imediatos. Tal dinâmica é indicada pelos elementos de informação colhidos na fase investigativa e pelas provas produzidas em juízo, notadamente os depoimentos prestados e as interceptações telefônicas. Impossibilidade de julgamento pela absolvição sumária ou pela impronúncia.
+5. O Superior Tribunal de Justiça possui entendimento de que as qualificadoras podem ser afastadas por ocasião da decisão de pronúncia quando manifestamente improcedentes ou incabíveis. Hipótese nos autos na qual é cabível o decote das qualificadoras de motivo torpe e do emprego de recurso que dificultou a defesa da vítima na medida em que, a despeito de atuar, ao que tudo indica, no auxílio material ao crime, pois teria fornecido a arma para os executores imediatos, não há nos autos indícios de que adentrou na sua esfera de conhecimento a forma, o tempo e o lugar do crime, da maneira que não é possível a comunicação das qualificadoras.
+IV. DISPOSITIVO
+5. RECURSO CONHECIDO E PARCIALMENTE PROVIDO.
+
+No recurso extraordinário sustenta-se violação do(s) art.(s) 5º, incisos LIV e LVII, da Constituição Federal.
+Decido.
+Analisados os autos, no que tange à alegação de violação do(s) art(s). 5º, inciso LIV, da Constituição, verifica-se que a decisão de inadmissão do recurso extraordinário está amparada em aplicação de precedente firmado com base na sistemática da repercussão geral.
+Todavia, o art. 1.042 do Código de Processo Civil é expresso sobre o não cabimento de agravo dirigido ao STF nas hipóteses em que a negativa de seguimento do recurso extraordinário tiver como base exclusivamente a sistemática da repercussão geral, sendo essa decisão passível de impugnação somente por agravo interno (art. 1.030, § 2º, do CPC/2015). Sobre o tema, destaque-se:
+
+“EMBARGOS DE DECLARAÇÃO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO EXTRAORDINÁRIO COM AGRAVO. CONVERSÃO EM AGRAVO REGIMENTAL. PROCESSUAL CIVIL. APLICAÇÃO DA SISTEMÁTICA DA REPERCUSSÃO GERAL NA ORIGEM: AUSÊNCIA DE PREVISÃO LEGAL DE RECURSO PARA O SUPREMO TRIBUNAL FEDERAL. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO” (ARE nº 1.109.295/RS-ED-ED, Tribunal Pleno, Rel. Min. Cármen Lúcia, DJe de 25/09/2018).
+
+Assim, não conheço do recurso quanto ao(s) capítulo(s) acima referenciado(s).
+Ademais, verifica-se que, para ultrapassar o entendimento do Tribunal de origem, seria necessário analisar a causa à luz da interpretação dada à legislação infraconstitucional pertinente e reexaminar os fatos e as provas dos autos, o que não é cabível em sede de recurso extraordinário, nos termos da Súmula 279/STF. Sobre o tema, a propósito:
+
+“AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. MATÉRIA CRIMINAL. TRIBUNAL DO JÚRI. REEXAME DO CONJUNTO FÁTICOPROBATÓRIO. SÚMULA 279 DO STF. VIOLAÇÃO AO ART. 93, IX, DA CF. INOCORRÊNCIA. AGRAVO REGIMENTAL DESPROVIDO. 1. O recurso extraordinário esbarra no óbice previsto na Súmula 279 do STF, por demandar o reexame de fatos e provas. 2. Ausência de omissão ao dever de fundamentar (AI 791.292 QO-RG, Rel. Min. Gilmar Mendes, Tema 339 da Repercussão Geral). 3. Agravo regimental a que se nega provimento” (ARE nº 1.053.745/MT-AgR, Segunda Turma, Rel. Min. Edson Fachin, DJe de 16/05/2018).
+
+“Agravo regimental nos embargos de declaração no recurso extraordinário com agravo. Matéria criminal. Tribunal do júri. Nulidades. Absolvição. Ausência de prequestionamento. Incidência das Súmulas nº 282 e 356 da Corte. Negativa de prestação jurisdicional (CF, art. 93, IX). Não ocorrência. Ofensa reflexa ao texto constitucional. Reapreciação de fatos e provas. Inadmissibilidade. Incidência da Súmula nº 279/STF. Precedentes. 1. Não se admite o recurso extraordinário quando o dispositivo constitucional que nele se alega violado não está devidamente prequestionado. Incidência das Súmulas nºs 282 e 356/STF. 2. A jurisdição foi prestada, na espécie, mediante decisões suficientemente motivadas, não obstante contrárias à pretensão da parte recorrente, tendo o Tribunal a quo explicitado suas razões de decidir, não havendo falar, portanto, em ofensa ao art. 93, inciso IX, da Constituição. 3. Conclusão em sentido diverso daquele do acórdão recorrido demandaria, na espécie, a análise da legislação infraconstitucional e o reexame aprofundado do conjunto fático-probatório dos autos, o que é inviável na via eleita, segundo o enunciado da Súmula nº 279/STF. 4. Agravo regimental a que se nega provimento” (ARE nº 1.126.439/SP-ED-AgR, Segunda Turma, Rel. Min. Dias Toffoli, DJe de 17/10/2018).
+
+Ante o exposto, nego seguimento ao recurso (alínea c do inciso V do art. 13 do Regimento Interno do Supremo Tribunal Federal).
+Publique-se.
+Brasília, 18 de maio de 2026.
+
+Ministro EDSON FACHIN
+Presidente
+Documento assinado digitalmente
