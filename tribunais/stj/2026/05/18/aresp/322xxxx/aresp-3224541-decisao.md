@@ -1,0 +1,8 @@
+DECISÃO
+Nos presentes autos, há debate sobre matéria afetada à Primeira Seção do Superior Tribunal de Justiça, aguardando julgamento sob o rito dos recursos repetitivos, Tema 1.322, vinculado aos Recursos Especiais 2.178.234/PA e 2.164.962/PB, de relatoria do Ministro Teodoro Silva Santos.
+A questão de direito está delimitada nos seguintes termos: "Definir se é legal a remoção de professores integrantes da carreira do magistério superior federal entre instituições federais de ensino."
+Verifica-se, igualmente, que foi determinada a suspensão dos processos pendentes (art. 1.037, II, do CPC), constando da afetação a orientação de que "há determinação de suspender o processamento de todos os processos, individuais ou coletivos, que versem sobre a mesma matéria, nos quais tenha havido a interposição de recurso especial ou de agravo em recurso especial, na segunda instância, ou que estejam em tramitação no STJ, observada a orientação prevista no art. 256-L do RISTJ."
+Nesse contexto, em observância ao princípio da eficiência e ao regime jurídico-processual do CPC/2015, bem como ao disposto no art. 256-L do RISTJ, determino a devolução dos autos à Corte de origem, com a respectiva baixa, a fim de que, após a publicação dos acórdãos paradigmas, seja realizado o juízo de conformação previsto nos arts. 1.039, caput, e 1.040 do CPC/2015.
+Publique-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. REMOÇÃO DE PROFESSOR INTEGRANTE DO MAGISTÉRIO SUPERIOR FEDERAL ENTRE INSTITUIÇÕES FEDERAIS DE ENSINO. RECURSO QUE TRATA DE TEMA AFETADO AO RITO DOS RECURSOS ESPECIAIS REPETITIVOS. TEMA N. 1.322/STJ. PENDÊNCIA DE JULGAMENTO. DETERMINADA A DEVOLUÇÃO DOS AUTOS À CORTE DE ORIGEM.
