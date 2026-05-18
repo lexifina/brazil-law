@@ -1,0 +1,29 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de MANOEL MESSIAS SILVA SOUSA e ALESSANDRO MARTINS CALIGIURI, em que se aponta como autoridade coatora o Tribunal de Justiça do Espírito Santo.
+Consta dos autos que o processo nº 0001974-64.2024.8.08.0024 teve, em sede de apelação, declarada a nulidade absoluta da audiência de instrução e julgamento realizada em 16/05/2025, com anulação da sentença e determinação de retorno dos autos ao juízo de origem para renovação dos atos instrutórios, com a devida participação do Ministério Público, reputando-se prejudicadas as demais teses de mérito constantes do recurso. Registra-se que os pacientes estão presos desde 04/09/2024 (fls. 0002).
+Neste writ, alega a defesa, em síntese, constrangimento ilegal por excesso de prazo e violação ao princípio da razoável duração do processo, uma vez que o retrocesso do feito à fase de instrução decorreu exclusivamente de falha do aparato estatal (ausência do Ministério Público), sem contribuição da defesa, o que tornaria indevida a manutenção da prisão preventiva e autorizaria o relaxamento da custódia ou a substituição por medidas cautelares diversas
+Requer a concessão da ordem para relaxar a prisão dos pacientes por excesso de prazo, ou, subsidiariamente, substituir a prisão preventiva por medidas cautelares diversas.
+É o relatório.
+Decido.
+Esta Corte - HC 535.063/SP, Terceira Seção, Rel. Ministro Sebastião Reis Júnior, julgado em 10/6/2020 - e o Supremo Tribunal Federal - AgRg no HC 180.365, Primeira Turma, Rel. Min. Rosa Weber, julgado em 27/3/2020; AgR no HC 147.210, Segunda Turma, Rel. Min. Edson Fachin, julgado em 30/10/2018 -, pacificaram orientação no sentido de que não cabe habeas corpus substitutivo do recurso legalmente previsto para a hipótese, impondo-se o não conhecimento da impetração, salvo quando constatada a existência de flagrante ilegalidade no ato judicial impugnado.
+Passo, assim, à análise das razões da impetração, de forma a verificar a ocorrência de flagrante ilegalidade a justificar a concessão do habeas corpus, de ofício.
+No caso, verifica-se que a tese de ilegalidade da manutenção da prisão preventiva por excesso de prazo, especialmente após a anulação da instrução, não foi objeto de exame específico pelo Tribunal de origem. O acórdão limitou-se a reconhecer a nulidade absoluta da audiência de instrução e julgamento realizada sem a presença do Ministério Público, anular a sentença e determinar o retorno dos autos à origem para renovação dos atos com participação do órgão acusador, julgando prejudicadas as demais teses de mérito, sem enfrentar a atualidade e suficiência dos fundamentos da custódia cautelar.
+A decisão de primeiro grau que manteve a prisão preventiva dos pacientes fundamentou-se na garantia da ordem pública, no risco de reiteração delitiva e na reincidência, com fulcro nos arts. 311, 312 e 313 do Código de Processo Penal. Por sua vez, a sentença posteriormente anulada manteve a prisão após a condenação sob o argumento de que os réus permaneceram presos durante toda a instrução e pelo regime inicial fechado, reforçando o risco de evasão. Contudo, o Tribunal estadual, ao anular a instrução e a sentença, não apreciou a validade atual da preventiva à luz do novo cenário processual, tampouc o examinou o alegado excesso de prazo apontado na impetração.
+Nessas condições, a apreciação direta do tema por esta Corte, sem que o Tribunal de origem tenha enfrentado especificamente a manutenção da prisão preventiva e o excesso de prazo após a anulação da instrução, configuraria indevida supressão de instância.
+Ilustrativamente, esse é o entendimento das Turmas que compõem a Terceira Seção desta Corte de Justiça:
+"AGRAVO REGIMENTAL. HABEAS CORPUS. PRESCRIÇÃO DA PRETENSÃO PUNITIVA RETROATIVA. MATÉRIA NÃO ANALISADA PELO TRIBUNAL LOCAL. MATÉRIA DE ORDEM PÚBLICA. SUPRESSÃO DE INSTÂNCIA. DESPROVIMENTO DO RECURSO.
+1. Nos termos da jurisprudência vigente neste Superior Tribunal, a ausência de apreciação da matéria pelas instâncias ordinárias impede qualquer manifestação deste Sodalício, sob pena de se configurar a prestação jurisdicional em indevida supressão de instância.
+Precedentes.
+2. Mantém-se a decisão singular pela qual se indeferiu liminarmente o habeas corpus.
+3. Em que pese a prescrição seja matéria de ordem pública, na hipótese, não é possível o seu reconhecimento, porquanto ausentes nos autos elementos suficientes a atestar eventuais marcos interruptivos.
+4. Agravo regimental desprovido."
+(AgRg no HC 767.497/RJ, relator Ministro Jorge Mussi, Quinta Turma, julgado em 13.12.2022, DJe de 16.12.2022.).
+AGRAVO REGIMENTAL EM HABEAS CORPUS. HOMICÍDIO QUALIFICADO E CÁRCERE PRIVADO. AUSÊNCIA DE INDÍCIOS SUFICIENTES DE AUTORIA. INADEQUAÇÃO NA ESTREITA VIA DO WRIT. PRISÃO PREVENTIVA. FUNDAMENTAÇÃO IDÔNEA. NECESSIDADE DE GARANTIA DA ORDEM PÚBLICA. PERICULOSIDADE DO AGRAVANTE. MODUS OPERANDI. REITERAÇÃO DELITIVA. MEDIDAS CAUTELARES DIVERSAS. INAPLICABILIDADE. CONDIÇÕES PESSOAIS FAVORÁVEIS. IRRELEVÂNCIA. ALEGAÇÃO DE EXCESSO DE PRAZO PARA FORMAÇÃO DA CULPA. SUPRESSÃO DE INSTÂNCIA. ALEGAÇÃO DE FATO NOVO. INOVAÇÃO RECURSAL. AGRAVO DESPROVIDO.
+ ..
+7. No tocante ao excesso de prazo na custódia preventiva, observa-se que o Tribunal de origem não analisou o pleito, no julgamento do writ originário, de forma que sua apreciação direta por esta Corte Superior fica obstada, sob pena de se incorrer em indevida supressão de instância.
+8. Quanto à tese de fato novo relacionado ao desaforamento do julgamento, verifica-se que a matéria não foi tratada na decisão impugnada, configurando-se hipótese de inovação recursal, o que impede a análise em sede de agravo regimental.
+9. Agravo regimental desprovido.
+(AgRg no HC 814.643/PR, de minha relatoria, Quinta Turma, julgado em 16.10.2023, DJe de 19.10.2023.)
+Ante o exposto, não conheço do habeas corpus.
+Publique-se. Intimem-se.
+ EMENTA
