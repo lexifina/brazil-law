@@ -1,0 +1,20 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em nome de ROSANA APARECIDA DA CRUZ SANTOS, denunciada pela prática de homicídio qualificado (Processo n. 8002013-84.2025.8.05.0213, da Vara Criminal da comarca de Ribeira do Pombal/BA).
+O impetrante aponta como autoridades o Tribunal de Justiça do Estado da Bahia, em razão da denegação da ordem no HC n. 8064484-96.2025.8.05.0000, no qual a defesa buscava o trancamento da ação penal. Indica, ainda, a decisão, proferida em 5/5/2026 pelo Juízo de origem, que manteve o recebimento da denúncia após a resposta à acusação.
+Alega a ausência manifesta de justa causa para a persecução penal, por incompatibilidade biométrica entre a pegada de 29 cm descrita no Laudo Pericial n. 446/2009 e o tamanho do pé da paciente (23,5 cm, correspondente ao número 36), tratando-se de prova pré-constituída que excluiria a autoria de forma absoluta.
+Sustenta a imprestabilidade dos testemunhos de ouvir dizer (hearsay testimony), afirmando que os relatos indiretos, sem indicação de fonte direta e sem corroboração mínima, não possuem densidade probatória para justificar o recebimento da denúncia, muito menos a continuidade da ação penal.
+Aduz que o processo em questão se apresenta como pena, em especial pelo excesso de prazo investigativo de 16 anos, pela inutilidade da instrução pautada em boatos e pelo risco de erro judiciário.
+Requer a suspensão imediata da ação penal. No mérito, pugna pelo trancamento do feito ou, subsidiariamente, pela impronúncia da paciente.
+É o relatório.
+O writ não merece ir adiante.
+Primeiro, é pacífico que, nesta via, o trancamento da ação penal somente é cabível quando, a partir do simples exame dos fatos narrados na peça acusatória, constata-se sua atipicidade ou a absoluta inexistência de indícios de que o acusado seja o autor do delito.
+Na espécie, nada disso está evidente. Neste âmbito, não é possível avaliar os elementos de informação de forma exauriente, a ponto de se concluir, de modo definitivo, que os fatos ocorreram exatamente como narrados, nem de se desqualificar por completo as informações contidas na denúncia.
+Ademais, o Tribunal de origem não debateu a matéria relativa à justa causa nos contornos propostos na inicial deste feito. Concluiu, a propósito, que eventuais questionamentos acerca da demora na fase investigativa ou da suficiência probatória devem ser apreciados no decorrer da instrução criminal, momento processual adequado para a produção e valoração das provas sob o crivo do contraditório (fl. 47).
+Segundo, não há risco direto e imediato à liberdade de locomoção da paciente, que responde ao processo em liberdade, não servindo o rito constitucional do habeas corpus para análise de teses jurídicas que possuem meios próprios de solução, sem qualquer reflexo no direito ambulatorial (AgRg no HC n. 1.059.097/GO, Ministro Carlos Pires Brandão, Sexta Turma, DJEN 5/5/2026).
+Terceiro, a decisão que ratificou o recebimento da denúncia não foi submetida à apreciação da Corte a quo, nem mesmo trazida a estes autos. Dessa forma, fica obstada a análise da irresignação por este Tribunal Superior, sob pena de indevida supressão de instância (AgRg no HC n. 1.066.251/MG, Ministro Antonio Saldanha Palheiro, Sexta Turma, DJEN 10/3/2026).
+Quarto, a alegação de excesso de prazo deve considerar a regularidade da tramitação processual após a citação válida do réu, não sendo suficiente o lapso temporal anterior para caracterizar constrangimento ilegal (AgRg no RHC n. 220.000/SP, Ministro Ribeiro Dantas, Quinta Turma, DJEN 12/3/2026). De todo modo, o acórdão impugnado recomendou ao juízo de origem que imprima celeridade ao feito, considerando o extenso lapso temporal já transcorrido desde a ocorrência dos fatos (fl. 48).
+Ante o exposto, indefiro liminarmente o habeas corpus.
+Publique-se.
+EMENTA
+PROCESSUAL PENAL. HABEAS CORPUS. HOMICÍDIO QUALIFICADO. TRANCAMENTO DA AÇÃO PENAL. AUSÊNCIA DE JUSTA CAUSA. ANÁLISE DAS ALEGAÇÕES A SER FEITA COM MAIOR PROFUNDIDADE NO CURSO DA AÇÃO PENAL. INEVIDÊNCIA DE MANIFESTA ILEGALIDADE.
+Writ indeferido liminarmente.
