@@ -1,0 +1,25 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de VALTAIR D"AVILA NEVES, contra acórdão prolatado pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO GRANDE DO SUL que denegou a ordem na origem. Eis a ementa (fl. 11):
+DIREITO PROCESSUAL PENAL. HABEAS CORPUS. TRAFICO DE DROGAS. PRISAO PREVENTIVA. FUNDAMENTACAO IDONEA. GARANTIA DA ORDEM PUBLICA. QUANTIDADE EXPRESSIVA DE ENTORPECENTES. PRISAO DOMICILIAR. REQUISITOS NAO PREENCHIDOS. ORDEM DENEGADA.
+Consta dos autos que o paciente foi preso em flagrante e teve a prisão convertida em preventiva por tráfico de drogas, em razão da apreensão de cinco tijolos de maconha, totalizando 4.372 g, no interior de veículo que conduzia, com registro de tentativa de evasão.
+O impetrante sustenta falta de fundamentação concreta do decreto de prisão e ausência dos requisitos do art. 312 do CPP, pois a decisão se apoiaria apenas em presunções genéricas ligadas à quantidade de droga, sem apontar risco real à instrução, à aplicação da lei penal ou de reiteração.
+Alega que o corréu assumiu formalmente a propriedade da droga e afirmou que o paciente apenas concedeu carona, sem conhecimento do conteúdo transportado, o que geraria dúvida relevante sobre dolo e autoria, incompatível com a manutenção da preventiva.
+Aponta incoerência na valoração probatória, porque se aceitam elementos indiciários para prender, mas se rejeita, na mesma cognição sumária, documento que favorece a liberdade, em afronta à isonomia, à proporcionalidade e à presunção de inocência.
+Indica condições pessoais favoráveis: primariedade, residência fixa, vínculos familiares sólidos e inexistência de antecedentes, sem qualquer risco concreto de fuga, ameaça a testemunhas, obstrução ou reiteração, tornando suficientes medidas cautelares diversas.
+Registra que o paciente estava acompanhado da companheira e de criança de 3 anos no momento da abordagem, circunstância que reputa incompatível com atuação voltada ao tráfico e que reforça a ausência de dolo na condução do veículo com o entorpecente.
+Questiona a caracterização de tentativa de evasão, por se tratar de deslocamento de aproximadamente 200 metros dentro do mesmo perímetro urbano, insuficiente para inferir periculosidade ou risco à aplicação da lei penal.
+Invoca a proporcionalidade para substituir a prisão por medidas cautelares alternativas, como comparecimento periódico, proibição de contato com corréus, monitoração eletrônica e recolhimento domiciliar noturno, as quais não teriam sido analisadas concretamente pelo juízo.
+Postula, ainda, prisão domiciliar por ser pai de criança menor, afirmando a indispensabilidade de sua presença no núcleo familiar e a possibilidade de conciliar proteção social com medidas menos gravosas.
+Sustenta desproporcionalidade da preventiva frente à pena em perspectiva, ante a primariedade e circunstâncias pessoais que poderiam conduzir a regime inicial menos gravoso, vedando a antecipação do cumprimento de pena.
+Requer liminarmente a revogação da prisão preventiva, com expedição de alvará de soltura, facultada a imposição de medida s cautelares diversas; no mérito, a concessão definitiva da ordem para assegurar ao paciente o direito de responder ao processo em liberdade.
+A liminar foi indeferida (fls. 102-106).
+As informações foram prestadas (fls. 113-133; 140-143).
+O Ministério Público Federal manifestou-se pela concessão do presente habeas corpus, com aplicação de medidas cautelares diversas, conforme discricionariedade motivada do juízo de piso, em parecer assim ementado (fl. 136):
+EMENTA: Tráfico de drogas. Prisão preventiva. Substituição. - No caso, em um veículo com quatro pessoas, foram apreendidos 4,2kg de maconha. - Alega a defesa que o passageiro de nome LAIRTON FRANCA CABRAL assumiu a propriedade da droga, o que se confirma às e- STJ Fl. 73 (interrogatório na delegacia), aduzindo que VALTAIR apenas lhe deu carona. - A narrativa encontra alguns pontos de apoio em favor do paciente, visto que sua folha de antecedentes é imaculada e estava com sua esposa e filha de três anos no veículo, o que não parece ser a situação propícia a quem pretende realizar o tráfico em associação com terceira pessoa. - Deste modo, tratando-se de réu primário e sem antecedentes, que desenvolve narrativa verossímil, inclusive pela razão de ter sido confirmada pelo outro investigado, consignando-se ainda que se trata de delito praticado sem violência ou grave ameaça, parece proporcional a revogação da prisão preventiva para substituí-la por medidas cautelares de natureza diversa. Parecer pela concessão, a fim de substituir a prisão preventiva por medidas cautelares de natureza diversa, conforme motivada discricionariedade do juízo de piso.
+É o relatório.
+Conforme as informações prestadas às fls. 140-143, sobreveio decisão do Juízo processante, revogando a prisão preventiva do paciente, em 30/04/26, sob o compromisso de comparecer a todos os atos do processo, bem como comunicar, previamente, qualquer alteração de endereço.
+Desse modo, fica evidenciada a perda superveniente do objeto.
+Ante o exposto, julgo prejudicado o habeas corpus.
+Publique-se.
+Intimem-se.
+EMENTA
