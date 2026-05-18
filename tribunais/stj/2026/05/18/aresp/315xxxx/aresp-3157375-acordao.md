@@ -1,0 +1,54 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 12/05/2026 a 18/05/2026, por unanimidade, não conhecer do recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Daniela Teixeira, Nancy Andrighi, Humberto Martins e Ricardo Villas Bôas Cueva votaram com o Sr. Ministro Relator.
+Presidiu o julgamento a Sra. Ministra Daniela Teixeira.
+EMENTA
+CIVIL E PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. CONSIGNAÇÃO EM PAGAMENTO. PROMESSA DE COMPRA E VENDA DE IMÓVEL. EXCEÇÃO DO CONTRATO NÃO CUMPRIDO. AUSÊNCIA DE MORA DO DEVEDOR. REEXAME DE FATOS E PROVAS. SÚMULAS 7 E 83 DO STJ. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
+1. Controverte-se sobre a aplicabilidade da cláusula resolutiva expressa por inadimplemento (art. 474 do Código Civil e art. 1º do Decreto-Lei 745/1969) quando o Tribunal de origem, com base na análise fático-probatória, reconheceu a ausência de mora dos promitentes compradores em razão do descumprimento prévio de obrigação pelos promitentes vendedores.
+2. Rever as conclusões do acórdão recorrido para aferir qual das partes incorreu em mora primeiro demandaria o reexame do conjunto fático-probatório dos autos, o que é vedado em recurso especial, nos termos da Súmula 7 do STJ. Incide, ademais, a Súmula 83 do STJ, dado que o entendimento do Tribunal de origem está em consonância com a jurisprudência desta Corte.
+3 . Agravo conhecido para não conhecer do recurso especial.
+RELATÓRIO
+Trata-se de agravo interposto por LUCILA DE FARIA ABRÃO e ANTÔNIO AUGUSTO TORRES FILHO (LUCILA E ANTÔNIO) contra decisão que inadmitiu seu recurso especial.
+No recurso especial interposto, com fundamento no art. 105, III, a, da Constituição Federal, LUCILA E ANTÔNIO apontaram violação dos arts. 474 do Código Civil e 1º, parágrafo único, do Decreto-lei 745/1969, sustentando, em síntese, que, uma vez notificados os compradores para purgar a mora e decorrido o prazo legal de 15 dias sem o devido pagamento, o contrato de promessa de compra e venda estaria resolvido de pleno direito, o que tornaria incabível a posterior propositura de ação de consignação em pagamento para quitação do débito (e-STJ, fls. 295 a 315).
+A Presidência da Seção de Direito Privado do Tribunal paulista, em decisão do Desembargador HERALDO DE OLIVEIRA SILVA, inadmitiu o recurso especial, por entender que não foi demonstrada a alegada vulneração aos dispositivos legais (e-STJ, fls. 352 a 353).
+No presente agravo, LUCILA E ANTÔNIO rebatem os fundamentos da decisão de inadmissibilidade e reiteram a argumentação do recurso especial (e-STJ, fls. 356 a 370).
+Foram apresentadas contrarrazões ao agravo por ESPÓLIO DE BENEDITO LUIZ BOTARO; MARIA EMÍLIA CARAMORI BOTARO; e, ANTONIO LAURO BOTARO e sua mulher, MARIA LUCIA BIAZZI BOTARO (ESPÓLIO E OUTROS) (e-STJ, fls. 373 a 382).
+É o relatório.
+EMENTA
+CIVIL E PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. CONSIGNAÇÃO EM PAGAMENTO. PROMESSA DE COMPRA E VENDA DE IMÓVEL. EXCEÇÃO DO CONTRATO NÃO CUMPRIDO. AUSÊNCIA DE MORA DO DEVEDOR. REEXAME DE FATOS E PROVAS. SÚMULAS 7 E 83 DO STJ. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
+1. Controverte-se sobre a aplicabilidade da cláusula resolutiva expressa por inadimplemento (art. 474 do Código Civil e art. 1º do Decreto-Lei 745/1969) quando o Tribunal de origem, com base na análise fático-probatória, reconheceu a ausência de mora dos promitentes compradores em razão do descumprimento prévio de obrigação pelos promitentes vendedores.
+2. Rever as conclusões do acórdão recorrido para aferir qual das partes incorreu em mora primeiro demandaria o reexame do conjunto fático-probatório dos autos, o que é vedado em recurso especial, nos termos da Súmula 7 do STJ. Incide, ademais, a Súmula 83 do STJ, dado que o entendimento do Tribunal de origem está em consonância com a jurisprudência desta Corte.
+3 . Agravo conhecido para não conhecer do recurso especial.
+VOTO
+O recurso não merece prosperar.
+O agravo é espécie recursal cabível, foi interposto tempestivamente e com impugnação adequada aos fundamentos da decisão recorrida. CONHEÇO, portanto, do agravo e passo ao exame do recurso especial, do qual não se deve dele conhecer.
+(1) Da exceção do contrato não cumprido e da ausência de mora como fundamento do acórdão
+A irresignação não se sustenta.
+O Tribunal de Justiça de São Paulo, em acórdão de relatoria da Desembargadora DANIELA MENEGATTI MILANO, ao julgar a apelação, fundamentou sua decisão não na interpretação dos efeitos da mora, mas na própria ausência dela por parte dos compradores. Com base na análise do contrato e dos fatos processuais, concluiu-se que os vendedores LUCILA E ANTÔNIO descumpriram primeiro suas obrigações, justificando a suspensão do pagamento das últimas parcelas pelos compradores ESPÓLIO E OUTROS, com base na exceção do contrato não cumprido (art. 476 do Código Civil).
+O acórdão recorrido foi claro ao assentar que a regularização do processo de inventário, a cargo de LUCILA E ANTÔNIO, era condição essencial para a transferência do domínio do imóvel, e que a inércia dos vendedores LUCILA E ANTÔNIO em cumprir essa obrigação por mais de três anos legitimou a conduta dos compradores ESPÓLIO E OUTROS.
+Confira-se o seguinte trecho do voto condutor (e-STJ, fls. 284 a 292):
+A despeito da alegação dos apelados de que os apelantes não são devedores do tributo inerente ao processo de inventário, figuram como terceiros interessados, pois o pagamento do tributo é "conditio sine qua non" para expedição do alvará que permita a transmissão de domínio do bem imóvel compromissado.
+(..) Portanto, na hipótese de integral pagamento do preço pelo bem, somente obteriam a transmissão do domínio após a quitação do tributo, o que justifica a suspensão do pagamento, com arrimo na exceção do contrato não cumprido, eis que, efetivamente os apelados não regularizaram o pagamento do tributo nos autos do Inventário, apesar do transcurso de mais de três anos e diversas intimações judiciais para tal finalidade naquele feito. (..)
+Ao final, a decisão arremata (e-STJ, fls. 284 a 292): "Desse modo, não configurada a mora dos apelantes, de modo que não seria possível exigir a cláusula penal prevista no contrato consistente em perdas e danos".
+Dessa forma, a tese recursal de que o contrato se resolveu de pleno direito, após o prazo da notificação, não se aplica ao caso. A resolução automática de que tratam o art. 474 do Código Civil e o Decreto-lei 745/1969 pressupõe o inadimplemento injustificado do devedor, ou seja, a sua constituição em mora. Se o Tribunal paulista, com base nos fatos, concluiu que a mora não se configurou por culpa dos próprios credores, a premissa fundamental do recurso especial deixa de existir.
+(2) Do óbice da Súmula nº 7 do STJ
+Para se chegar a uma conclusão diferente daquela adotada pelo Tribunal paulista e acolher a tese de LUCILA E ANTÔNIO, seria necessário reexaminar todo o contexto fático e probatório dos autos. Seria preciso analisar novamente as cláusulas do contrato, a cronologia dos pagamentos, a conduta das partes no processo de inventário e a responsabilidade pela paralisação do negócio para, então, decidir qual das partes incorreu em mora primeiro.
+Essa análise aprofundada dos fatos e das provas é vedada em recurso especial, por força do que dispõe a Súmula nº 7 desta Corte: "A pretensão de simples reexame de prova não enseja recurso especial."
+Conforme tem decidido esta Corte Superior:
+DIREITO PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO. DANOS MORAIS . MÁ PRESTAÇÃO DE SERVIÇOS. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. INADMISSIBILIDADE. SÚMULA N . 7 DO STJ. DECISÃO MANTIDA.
+1. O recurso especial não comporta o exame de questões que impliquem revolvimento do contexto fático-probatório dos autos (Súmula n . 7 do STJ).
+2. No caso concreto, a revisão das conclusões do acórdão recorrido, quanto à falta de verossimilhança nas alegações da parte recorrente, a ensejar a inversão do ônus da prova, e à inexistência de danos morais, implicaria reexame do conjunto fático-probatório dos autos, o que é vedado em recurso especial.
+3 . Agravo interno a que se nega provimento.
+(STJ - AgInt no AgInt no AREsp: 1988871 SP 2021/0303637-4, Data de Julgamento: 30/05/2022, T4 - QUARTA TURMA, Data de Publicação: DJe 02/06/2022)
+O Superior Tribunal de Justiça não atua como uma terceira instância de julgamento, não lhe cabendo reavaliar as premissas fáticas sobre as quais o tribunal local assentou sua decisão.
+Ademais, o entendimento do acórdão recorrido, que aplicou a teoria da exceção do contrato não cumprido para justificar a suspensão dos pagamentos por parte do devedor diante da inadimplência do credor, está em harmonia com a jurisprudência do Superior Tribunal de Justiça.
+Neste sentido:
+AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO DE RESCISÃO DE COMPROMISSO DE COMPRA E VENDA DE IMÓVEL. ATRASO NA ENTREGA DO BEM. RESTITUIÇÃO INTEGRAL DAS PARCELAS PAGAS . SÚMULA 543/STJ. EXCEÇÃO DO CONTRATO NÃO CUMPRIDO. RECONHECIMENTO. AGRAVO INTERNO DESPROVIDO .
+1. O Superior Tribunal de Justiça possui firme entendimento de que, "Na hipótese de resolução de contrato de promessa de compra e venda de imóvel submetido ao Código de Defesa do Consumidor, deve ocorrer a imediata restituição das parcelas pagas pelo promitente comprador - integralmente, em caso de culpa exclusiva do promitente vendedor/construtor, ou parcialmente, caso tenha sido o comprador quem deu causa ao desfazimento" (Súmula 543/STJ).
+2. Relativamente à aplicação do instituto da exceção do contrato não cumprido, "no curso da mora da construtora, essa exceção favoreceria, na verdade, a adquirente, que não estava obrigada a quitar o saldo devedor antes que a construtora a convocasse para a entrega das chaves" (REsp 1 .796.760/RJ, Relator Ministro Paulo de Tarso Sanseverino, Terceira Turma, julgado em 2/4/2019, DJe de 5/4/2019). 3. Agravo interno desprovido .
+(STJ - AgInt no REsp: 1552363 ES 2015/0217245-0, Relator.: RAUL ARAÚJO, Data de Julgamento: 29/05/2023, T4 - QUARTA TURMA, Data de Publicação: DJe 07/06/2023)
+Tal fato atrai a aplicação da Súmula nº 83 do STJ, que se aplica também aos recursos interpostos com fundamento na alínea a do permissivo constitucional.
+Nessas condições, CONHEÇO do agravo para NÃO CONHECER do recurso especial.
+MAJORO em 5% o valor dos honorários advocatícios sucumbenciais fixados em desfavor de LUCILA DE FARIA ABRÃO e ANTÔNIO AUGUSTO TORRES FILHO, na forma do art. 85, § 11, do CPC.
+Por oportuno, previno que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar condenação às penalidades fixadas nos arts. 1.021, § 4º, ou 1.026, § 2º, ambos do CPC.
+É o voto.
