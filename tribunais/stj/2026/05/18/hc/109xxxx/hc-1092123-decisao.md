@@ -1,0 +1,26 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de ELIAS ABREU FERREIRA em que se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE GOIÁS (HC n. 248500-61.2026.8.09.0011).
+Consta que o paciente foi preso em flagrante, em 22/08/2025, com posterior conversão da custódia em preventiva (fls. 123-124), em razão da suposta prática dos ilícitos tipificados nos arts. 33, caput e 35 da Lei n. 11.343/2006 e no art. 311, § 2º, inciso III (adulteração de chassi), e 329 (resistência), do Código Penal, pelos quais foi denunciado (fls. 12-18).
+A Defesa, pugnando pela revogação da prisão cautelar, impetrou habeas corpus na Corte de origem, que denegou a ordem às fls. 07-11.
+Neste writ, a parte impetrante sustenta, em suma, que ocorre excesso de prazo para a formação da culpa e que essa demora se deve a diligências demandadas pelo Ministério Público, não tendo a Defesa contribuído em nada para isso.
+Requer, liminarmente e no mérito, a revogação (ou relaxamento) da prisão preventiva e, subsidiariamente, a sua substituição por cautelares alternativas.
+Liminar indeferida às fls. 137/139.
+Informações prestadas às fls. 142/143.
+O Ministério Público Federal manifestou-se às fls. 164/171, opinando pelo não conhecimento do writ e, caso conhecido, pela denegação da ordem.
+É o relatório.
+Decido.
+O Tribunal de origem manteve a segregação cautelar do paciente, afastando o excesso de prazo pleiteado pela Defesa (fls. 07/11):
+Sabe-se que a simples ultrapassagem de prazo não configura o excesso justificador da soltura, pois estes servem como parâmetro a sinalizar o lapso razoável de duração da ação penal, que, em circunstâncias próprias, pode ser alargado com vista à correta conclusão do feito, garantindo-se, inclusive, a ampla defesa e o contraditório. Há também que se perquirir a origem da demora na marcha processual, porquanto a complexidade e particularidade de cada processo, a procrastinação por atos da defesa ou até eventual letargia da máquina judiciária são fatores preponderantes à aferição de eventual constrangimento ilegal.
+No caso em testilha, embora o paciente esteja preso desde o dia 22/8/2025, a instrução se encontra finda, aguardando os autos apenas a juntada do relatório integral do conteúdo extraído da quebra de sigilo telefônico.
+(..)
+Com vista dos autos para as alegações finais, o Ministério Público requereu a juntada não somente do relatório de extração, mas também o correspondente encaminhamento integral do conteúdo extraído, tendo a autoridade coatora determinado a intimação do Delegado de Polícia para tal mister. Expedido ofício à autoridade policial, esta não se manifestou. Em seguida, o Ministério pleiteou a intimação pessoal do delegado de polícia para que, no prazo de 48 horas, cumpra a diligência, com posterior abertura de vista aos sujeitos processuais para as alegações finais, o que foi deferido pela autoridade coatora (mov. 247).
+Atualmente, os autos se encontram no aguardo do cumprimento do mandado de intimação pessoal expedido para o delegado de polícia.
+Como se vê, não há desídia da autoridade coatora, encontrando-se os autos com a instrução finda, no aguardo da diligência de suma importância requerida pelo Ministério Público, para em seguida, a apresentação das alegações finais.
+A alegação de constrangimento ilegal não merece guarida.
+Verifico, nos autos de origem, que a tramitação do feito encontra-se regular e, como bem anotado na manifestação ministerial, "em consulta pública verificada no Tribunal de origem1, consta certidão acostada em 08/05/2026, a qual atesta o depósito de 2 (duas) mídias digitais contendo a íntegra da extração dos dados", restando ao Juízo de primeiro grau a determinação para intimação das partes para o oferecimento de alegações finais, não havendo que se falar em retardamento da marcha processual capaz de ensejar o reconhecimento do excesso de prazo na prisão processual, principalmente porque a instrução processual encontra-se finda.
+Há de ser salientado que o processo possui natureza complexa, diante da existência da prática de quatro condutas criminosas e da pluralidade de réus, estando o Magistrado de primeiro grau a todo momento impulsionando o feito, conforme pode ser verificado, ao contrário do argumentado pela Defesa, não podendo ser reconhecida a desídia estatal.
+Ainda que assim não fosse, esta Corte Superior possui julgados afirmando que "eventual excesso de prazo deve ser analisado à luz do princípio da razoabilidade, sendo permitido ao Juízo, em hipóteses excepcionais, ante as peculiaridades da causa, a extrapolação dos prazos previstos na lei processual penal, já que tal aferição não resulta de simples operação aritmética". (HC 230.323/TO, Rel. Ministro Marco Aurélio Belizze, Quinta Turma, julgado em 22/05/2012, Dje 12/06/2012).
+Desse modo, não havendo excesso de prazo na formação da culpa e tendo sido concretamente demonstrada a necessidade da prisão preventiva nos autos (conforme já reconhecido em writ anterior nesta Corte), não se mostra suficiente a aplicação de medidas cautelares mais brandas, nos termos do art. 282, inciso II, do Código de Processo Penal.
+Ante o exposto, dene go o pedido de habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
