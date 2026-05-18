@@ -1,0 +1,18 @@
+DECISÃO
+SAMUEL DA SILVA RODRIGUES alega sofrer constrangimento ilegal em decorrência de acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo no Habeas Corpus n. 2054320-58.2026.8.26.0000.
+A defesa pretende a soltura do paciente - preso preventivamente pelo crime de tráfico de drogas -, sob o argumento de ausência do preenchimento dos requisitos da prisão cautelar.
+Decido.
+O Juízo de Direito, ao decretar a constrição cautelar, ofereceu os seguintes fundamentos (fl. 21, destaquei):
+No caso dos autos verifica-se que o autuado foi surpreendido na posse de relevante quantidade de entorpecentes (58 porções de maconha), devidamente fracionadas e preparadas para a venda. Não obstante a primariedade técnica do agente, verifica-se que SAMUEL possui duas condenações pelo mesmo crime em questão, pendentes de trânsito em julgado. Nos termos do art. 310, § 5º, do Código de Processo Penal, são circunstâncias que, sem prejuízo de outras, recomendam a conversão da prisão em flagrante em preventiva ter o agente praticado a infração penal na pendência de inquérito ou ação penal.
+A jurisprudência desta Corte Superior é firme em assinalar que, para submeter alguém à prisão cautelar, é cogente a fundamentação concreta, sob as balizas do art. 312 do CPP.
+Apoiado nessa premissa, verifico que se mostram suficientes as razões invocadas na instância de origem para embasar a ordem de prisão do ora paciente, porquanto contextualizaram, em dados dos autos, a necessidade cautelar de segregação do réu.
+Com efeito, o Juiz de primeira instância apontou, de forma idônea, a presença dos vetores contidos no art. 312 do Código de Processo Penal, indicando motivação suficiente para decretar a prisão preventiva, ao salientar a gravidade concreta dos fatos investigados e a existência de registros criminais.
+Sobre a necessidade da custódia para garantia da ordem pública em razão da reiteração criminal, a Corte estadual ainda esclareceu (fls. 13-14):
+Na esteira da fundamentação adotada pelo Juízo de origem, embora não tenha sido apreendida quantidade muito expressiva de entorpecentes (69,98 g fls. 30/32), verifica-se, a partir da folha de antecedentes do paciente (fls. 33/34 dos autos principais), que ele já foi condenado, em primeiro grau, pela prática do delito de tráfico de drogas no processo nº 1500038-42.2025.8.26.0557 (fato ocorrido em 04/01/2025, com sentença condenatória proferida em 30/06/2025), bem como em segundo grau no processo nº 1500655-10.2024.8.26.0210 (fato ocorrido em 27/05/2024, com acórdão publicado em 03/06/2025).
+Ressalte-se que, em ambos os feitos, o paciente respondeu ao processo em liberdade provisória.
+Desse modo, observa-se que, mesmo após ter sido preso em flagrante por duas vezes pela prática de tráfico de entorpecentes, o paciente voltou a ser novamente preso em flagrante pela prática do mesmo delito enquanto usufruía da confiança estatal, circunstância que evidencia concreto risco de reiteração delitiva, não obstante a sua primariedade técnica.
+Como visto, o acórdão ora impugnado vai ao encontro da jurisprudência do Superior Tribunal de Justiça, segundo a qual "maus antecedentes, reincidência, atos infracionais pretéritos ou até mesmo outras ações penais em curso justificam a imposição de segregação cautelar como forma de evitar a reiteração delitiva e, assim, garantir a ordem pública" (AgRg no HC n. 789.267/SC, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 24/4/2023, DJe de 25/5/2023.)
+Em razão das indicadas circunstâncias do fato, as medidas cautelares alternativas à prisão não se mostram adequadas e suficientes para evitar a prática de novas infrações penais.
+À vista do exposto, denego a ordem.
+Publique-se. Intimem-se.
+EMENTA
