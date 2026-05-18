@@ -1,0 +1,65 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em favor de JOSE PEDRO DA SILVA JUNIOR em que se aponta como autoridade coatora o Tribunal de Justiça do Estado do Tocantins.
+Colhe-se dos autos que o paciente teve a prisão preventiva decretada ante a suposta prática do delito tipificado no art. 155, § 4º, II, do Código Penal.
+Neste writ, a impetrante sustenta, em síntese, que: a) não estão presentes os requisitos legais autorizadores da prisão preventiva; b) se o paciente vier a ser condenado, sua provável pena futura revela a desproporcionalidade da prisão preventiva.
+Pleiteia a revogação ou a substituição da custódia preventiva por medidas cautelares diversas da prisão.
+É o relatório.
+Esta Corte - HC 725.534/SP, da minha relatoria, Terceira Seção, julgado em 27/4/2022 - e o Supremo Tribunal Federal - AgRg no HC 180.365, Primeira Turma, Rel. Min. Rosa Weber, julgado em 27/3/2020; AgR no HC 147.210, Segunda Turma, Rel. Min. Edson Fachin, julgado em 30/10/2018 - pacificaram orientação no sentido de que não cabe habeas corpus substitutivo do recurso legalmente previsto para a hipótese, impondo-se o não conhecimento da impetração, salvo quando constatada a existência de flagrante ilegalidade no ato judicial impugnado.
+Assim, passo à análise das razões da impetração, de forma a verificar a ocorrência de flagrante ilegalidade a justificar a concessão do habeas corpus, de ofício.
+A prisão preventiva, nos termos do art. 312 do Código de Processo Penal, poderá ser decretada para garantia da ordem pública, da ordem econômica, por conveniência da instrução criminal ou para assegurar a aplicação da lei penal, desde que presentes prova da existência do crime e indícios suficientes de autoria e de perigo gerado pelo estado de liberdade do acusado.
+No caso dos autos, a custódia cautelar foi decretada pelos seguintes fundamentos:
+"Trata-se de comunicação de Auto de Prisão em Flagrante lavrado pela autoridade policial em desfavor de JOSÉ PEDRO DA SILVA JUNIOR, em razão da suposta prática do crime de furto qualificado pela escalada (art. 155, § 4º, II, do CP).
+O Ministério Público manifestou-se (Evento 22) pela homologação do flagrante e sua conversão em prisão preventiva, destacando a reiteração delitiva e o descumprimento de medidas cautelares anteriormente impostas ao autuado.
+É o relatório. Decido.
+1. Da Homologação da Prisão em Flagrante
+Compulsando os autos, verifico que a prisão em flagrante encontra-se formal e materialmente regular. Foram observadas as exigências dos arts. 302, 303 e 304 do Código de Processo Penal. A nota de culpa foi entregue no prazo legal e as comunicações constitucionais foram devidamente realizadas. Inexistem nulidades ou irregularidades.
+Assim, com fulcro no art. 310, inciso I, do CPP, HOMOLOGO o presente Auto de Prisão em Flagrante.
+2. Da Conversão em Prisão Preventiva
+A análise da custódia cautelar revela-se necessária. O crime imputado possui pena máxima de 8 anos, atendendo ao requisito do art. 313, inciso I, do CPP.
+O fumus comissi delicti está sobejamente demonstrado pelo auto de exibição, termo de restituição e pela confissão do autuado, que detalhou a subtração mediante escalada.
+Quanto ao periculum libertatis, este repousa na necessidade de garantia da ordem pública. O autuado, no momento da prisão, fazia uso de monitoração eletrônica (tornozeleira), imposta em dezembro de 2025 (autos nº 0001126-66.2025.8.27.2723). O fato de o agente voltar a delinquir sob vigilância estatal demonstra o absoluto descaso com a Justiça e a ineficácia das medidas cautelares diversas da prisão (art. 312, § 1º, do CPP).
+A reiteração em crimes contra o patrimônio na comarca exige a intervenção do Judiciário para interromper o ciclo delitivo e resguardar a tranquilidade social. Portanto, as medidas do art. 319 do CPP mostram-se insuficientes.
+3. Da Audiência de Custódia
+Em estrita observância ao art. 310, caput, do CPP e à Resolução nº 213/2015 do CNJ, a despeito da conversão ora decretada, é imperativa a realização do contato direto entre este magistrado e o custodiado.
+INCLUA-SE em pauta AUDIÊNCIA DE CUSTÓDIA a ser realizada por videoconferência.
+4. Dispositivo
+Ante o exposto:
+1. HOMOLOGO o flagrante;
+2. CONVERTO A PRISÃO EM FLAGRANTE EM PRISÃO PREVENTIVA de JOSÉ PEDRO DA SILVA JUNIOR, com fundamento nos arts. 312 e 313, I, do CPP." (e-STJ, fls. 54-55, grifou-se).
+Como se vê, a custódia cautelar está suficientemente fundamentada na necessidade de garantia da ordem pública, em razão do risco concreto de reiteração delitiva. Isso porque o ora paciente, quando flagrado pela suposta prática de furto qualificado, encontrava-se em liberdade provisória - inclusive, fazendo o uso de tornozeleira eletrônica - concedida alguns meses antes n o âmbito de processo criminal no qual se apura o cometimento de crime da mesma espécie.
+Com efeito, é firme a jurisprudência desta Corte no sentido de que "a preservação da ordem pública justifica a imposição da prisão preventiva quando o agente possuir maus antecedentes, reincidência, atos infracionais pretéritos, inquéritos ou mesmo ações penais em curso, porquanto tais circunstâncias denotam sua contumácia delitiva e, por via de consequência, sua periculosidade" (AgRg no HC n. 1.002.927/MT, Rel. Min. Antonio Saldanha Palheiro, Sexta Turma, julgado em 24/6/2025, DJEN de 30/6/2025).
+A propósito:
+"DIREITO PROCESSUAL PENAL. AGRAVO REGIMENTAL EM HABEAS CORPUS. FURTO QUALIFICADO. ADULTERAÇÃO DE SINAL IDENTIFICADOR DE VEÍCULO AUTOMOTOR. PRISÃO PREVENTIVA. GARANTIA DA ORDEM PÚBLICA. RISCO DE REITERAÇÃO DELITIVA. FUNDAMENTAÇÃO CONCRETA. INEXISTÊNCIA DE CONSTRANGIMENTO ILEGAL. AGRAVO REGIMENTAL NÃO PROVIDO.
+I. CASO EM EXAME
+Agravo regimental interposto contra decisão que não conheceu de habeas corpus impetrado em favor de réu preso preventivamente pela prática dos crimes de FURTO QUALIFICADO (art. 155, §4º, do Código Penal) e ADULTERAÇÃO DE SINAL IDENTIFICADOR DE VEÍCULO AUTOMOTOR (art. 311 do Código Penal). O agravante sustenta a ausência de fundamentação concreta para a prisão preventiva e requer sua revogação com ou sem a imposição de medidas cautelares alternativas.
+II. QUESTÃO EM DISCUSSÃO
+Há duas questões em discussão: (i) definir se a prisão preventiva está devidamente fundamentada em elementos concretos; (ii) verificar se há ilegalidade manifesta que justifique a revogação da custódia cautelar.
+III. RAZÕES DE DECIDIR
+A jurisprudência do Supremo Tribunal Federal e do Superior Tribunal de Justiça não admite habeas corpus como sucedâneo de recurso próprio, salvo em casos excepcionais de flagrante ilegalidade.
+A prisão preventiva é cabível quando fundamentada na garantia da ordem pública, na conveniência da instrução criminal ou na aplicação da lei penal, nos termos do art. 312 do Código de Processo Penal.
+O decreto prisional está devidamente fundamentado na gravidade concreta dos fatos e no risco de reiteração delitiva, evidenciado pela existência de outros processos e inquéritos policiais em andamento contra o agravante.
+O fato de os delitos imputados ao réu não envolverem violência ou grave ameaça não impede a decretação da prisão preventiva, quando demonstrada sua necessidade para garantir a ordem pública.
+A aplicação de medidas cautelares diversas da prisão é inviável diante da periculosidade do agente e do histórico de reincidência, conforme entendimento consolidado do STJ.
+Não há flagrante ilegalidade que justifique a concessão da ordem de habeas corpus, tampouco o provimento do agravo regimental.
+IV. DISPOSITIVO E TESE
+Agravo regimental não provido.
+Tese de julgamento:
+A prisão preventiva é cabível quando fundamentada em elementos concretos que demonstrem a necessidade da custódia cautelar, nos termos do art. 312 do Código de Processo Penal.
+A existência de inquéritos e processos em andamento pode ser considerada para justificar a prisão preventiva, desde que evidencie risco concreto de reiteração delitiva.
+A concessão de habeas corpus para revogação da prisão preventiva exige a demonstração de flagrante ilegalidade, o que não se verifica no caso concreto.
+Dispositivos relevantes citados: Código Penal, arts. 155, §4º; 311. Código de Processo Penal, art. 312.
+Jurisprudência relevante citada: STJ, AgRg no HC 895.777/PR, Rel. Min. Reynaldo Soares da Fonseca, Quinta Turma, j. 2/4/2024; STJ, AgRg no HC 864.465/SC, Rel. Min. Rogerio Schietti Cruz, Sexta Turma, j. 18/3/2024; STF, HC 225896 AgR, Rel. Min. Luís Roberto Barroso, Primeira Turma, j. 15/5/2023."
+(AgRg no HC n. 965.214/SP, Relatora Ministra Daniela Teixeira, Quinta Turma, julgado em 26/2/2025, DJEN de 5/3/2025).
+"AGRAVO REGIMENTAL NO HABEAS CORPUS. PENAL. FURTO QUALIFICADO. PRISÃO PREVENTIVA. GRAVIDADE DA CONDUTA. RISCO CONCRETO DE REITERAÇÃO DELITIVA. FUNDAMENTAÇÃO IDÔNEA. CONDIÇÕES PESSOAIS FAVORÁVEIS. IRRELEVÂNCIA. MEDIDAS CAUTELARES ALTERNATIVAS. INSUFICIÊNCIA, NA ESPÉCIE. ALEGADA DESPROPORCIONALIDADE DA CUSTÓDIA. IMPOSSIBILIDADE DE AFERIÇÃO. AGRAVO REGIMENTAL DESPROVIDO.
+1. A prisão preventiva está devidamente fundamentada nos exatos termos do art. 312 do Código de Processo Penal, sendo ressaltado pelas instâncias ordinárias a gravidade da conduta bem como no risco de reiteração delitiva.
+2. Foi consignado que o Acusado, juntamente com outros agentes, subtraíram de uma instituição de ensino 20 (vinte) computadores avaliados em R$ 100.000,00 (cem mil reais), evadindo-se, em seguida do local dos fatos, em carro com sinais identificadores alterados.
+Além disso, ressaltou-se, ainda, que o Paciente já foi denunciado pela prática do delito de adulteração de sinal identificador (AP n. 000222174.2022.8.16.0159). Tais circunstâncias, são aptas a justificar a segregação cautelar para garantia da ordem pública.
+3. Acerca das condições favoráveis, "o princípio da não culpabilidade e a suposta existência de condições pessoais favoráveis - tais como primariedade, bons antecedentes, ocupação lícita e residência fixa - não têm o condão de, por si sós, desconstituir a custódia antecipada, caso estejam presentes outros requisitos de ordem objetiva e subjetiva que autorizem a decretação da medida extrema, como ocorre na hipótese em tela" (AgRg no HC 649.483/TO, Rel. Ministra LAURITA VAZ, SEXTA TURMA, julgado em 20/04/2021, DJe 30/04/2021).
+4. Nesta fase processual, não há como prever a quantidade de pena que eventualmente poderá ser imposta, caso seja condenado o Agravante, menos ainda se iniciará o cumprimento da reprimenda em regime diverso do fechado, de modo que não se torna possível avaliar a arguida desproporção da prisão cautelar imposta.
+5. Agravo regimental desprovido."
+(AgRg no HC n. 834.408/PR, Relator Ministro Teodoro Silva Santos, Sexta Turma, julgado em 26/2/2024, DJe de 5/3/2024).
+Pelo mesmo motivo acima delineado, entendo que, no caso, é inviável a aplicação de medidas cautelares diversas da prisão, porquanto a periculosidade do paciente indica que a ordem pública não estaria acautelada com a sua soltura. Sobre o tema: AgRg no RHC 193.978/SC, Rel. Min. Reynaldo Soares da Fonseca, Quinta Turma, julgado em 15/4/2024, DJe de 18/4/2024; AgRg no HC 881.523/SP, Rel. Min. Rogerio Schietti Cruz, Sexta Turma, julgado em 15/4/2024, DJe de 18/4/2024; e AgRg no HC 861.831/SC, Rel. Min. Antonio Saldanha Palheiro, Sexta Turma, julgado em 15/4/2024, DJe de 18/4/2024.
+De mais a mais, o argumento de desproporcionalidade da custódia cautelar à futura pena a ser imposta ao paciente, em caso de condenação, não comporta acolhimento, pois apenas a conclusão do processo será capaz de revelar se o acusado será beneficiado com a fixação de regime prisional diverso do fechado, sendo inviável essa discussão neste momento processual. Nessa linha: AgRg no HC 895.045/RJ, Rel. Min. Reynaldo Soares da Fonseca, Quinta Turma, julgado em 15/4/2024, DJe de 18/4/2024; AgRg no HC 802.992/SP, Rel. Min. Joel Ilan Paciornik, Quinta Turma, julgado em 8/5/2023, DJe de 17/5/2023; AgRg no HC 788.866/SP, Rel. Min. Messod Azulay Neto, Quinta Turma, julgado em 24/4/2023, DJe de 28/4/2023.
+Ante o exposto, não conheço do habeas corpus.
+Publique-se. Intime-se.
+EMENTA
