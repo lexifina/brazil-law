@@ -1,0 +1,162 @@
+DECISÃO
+Cuida-se de recurso especial interposto por ELIANA OLIMPIO RIBEIRO, com fundamento no artigo 105, inciso III, alíneas "a" e "c", da Constituição Federal, contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO nos termos da seguinte ementa (fls. 138-156):
+AÇÃO DECLARATÓRIA - NÃO ATENDIMENTO DA DETERMINAÇÃO DE REGULARIZAR A REPRESENTAÇÃO - PROCESSO EXTINTO SEM RESOLUÇÃO DO MÉRITO, COM BASE NO 485, IV DO CPC - ENTENDIMENTO QUE PREVALECE - ajuizamento da ação com características de demanda predatória - concessão de prazo para que fosse cumprida a ordem judicial de comparecimento da apelante perante a serventia para confirmar a procuração outorgada e sua ciência dos termos desta ação judicial - inexplicável resistência do advogado da apelante em cumprir a determinação - ordem judicial que se insere entre os poderes atribuídos ao juiz e estava perfeitamente justificada - precedentes desta C. Câmara - sentença mantida nos termos do art. 252 do RITJSP determinação de que o advogado da apelante proceda ao recolhimento das custas, iniciais e recursal, sob pena de inscrição da dívida, o que fica mantido e será providenciado na origem.
+PRETENSÃO DE CONCESSÃO DA GRATUIDADE DA JUSTIÇA IMPOSSIBILIDADE DE PATRONO DA AUTORA É QUE FOI CONDENADO NO PAGAMENTO
+DAS CUSTAS E DESPESAS PROCESSUAIS pedido de gratuidade da apelante que nã o se estenderia ao seu patrono - recurso desprovido no ponto.
+Resultado: recurso desprovido, com determinação.
+Sem embargos de declaração.
+No presente recurso especial, o recorrente alega que o acórdão estadual contrariou os arts. 104, caput, §2º, 105, §1º, 425, IV, 489, §1º, I, 98 e 99, §§ 2º, 3º e 4º, do CPC; bem como os arts. 5º, §§ 1º, 2º e 3º, e 32 da Lei n. 8.906/94, ao passo que aponta divergência jurisprudencial com arestos desta Corte.
+Sustenta, em síntese, que a legislação admite a assinatura digital em procurações e não exige reconhecimento de firma. Afirma ainda que a procuração foi regularmente assinada pela cliente por meio eletrônico, com mecanismos de autenticação suficientes, inexistindo qualquer manifestação da parte negando a outorga de poderes ao advogado.
+Diz que os documentos apresentados por advogado possuem presunção de autenticidade e fé pública e que apresentou declaração de hipossuficiência e documentos comprobatórios suficientes, sendo indevido o indeferimento do benefício sem prova concreta de capacidade financeira. Ao final, requer o conhecimento e provimento do recurso para reformar o acórdão, reconhecer a validade da procuração digital, afastar a condenação do advogado e conceder a justiça gratuita, com o regular prosseguimento do processo.
+Sem contrarrazões, sobreveio o juízo de admissibilidade positivo da instância de origem (fls. 192-194).
+É, no essencial, o relatório.
+I - O caso em discussão
+Recurso especial proveniente de ação declaratória, a qual foi julgada extinta, sem resolução do mérito, por irregularidade na representação processual, diante da ausência de ratificação presencial da procuração assinada digitalmente. Em primeira instância, o processo foi extinto, com fundamento no art. 485, IV, do CPC, sendo o patrono da autora condenado ao pagamento das custas e despesas processuais. Interposta apelação, o Tribunal local negou provimento ao recurso, reconhecendo a legitimidade da exigência de ratificação presencial da procuração em caso de suspeita de litigância predatória.
+II - Questões em discussão no recurso especial
+- Da litigância abusiva. Súmula n. 83/STJ
+O cerne da controvérsia consiste em discutir o vício de representação, decorrente da advocacia predatória, que ocasionou a extinção do processo, sem resolução de mérito.
+A Corte Especial, no recente julgamento do Tema n. 1.198, firmou a seguinte tese:
+Constatados indícios de litigância abusiva, o juiz pode exigir, de modo fundamentado e com observância à razoabilidade do caso concreto, a emenda da petição inicial a fim de demonstrar o interesse de agir e a autenticidade da postulação, respeitadas as regras de distribuição do ônus da prova (REsp n. 2.021.665/MS, relator Ministro Moura,
+Ribeiro, Corte Especial, julgado em 13/3/2025)
+No caso, o Tribunal de origem, com base nesse entendimento, confirmou a sentença, que extinguira o processo, sem resolução do mérito (fls. 103-114).
+O entendimento adotado pelo acórdão recorrido, reconhecendo a possibilidade de determinação de emenda da petição inicial para provar o interesse de agir e a autenticidade da postulação, diante da constatação fundamentada de indícios de litigância abusiva no caso concreto, está alinhado à jurisprudência desta Corte, atraindo, no ponto, a incidência da Súmula n. 83 do STJ.
+Cito a propósito:
+DIREITO DO CONSUMIDOR. RECURSO ESPECIAL. AÇÃO DECLARATÓRIA DE INEXIGIBILIDADE DE DÉBITO C.C. INDENIZAÇÃO POR DANOS MORAIS. INEFICÁCIA DO ATO DE RECORRER SEM PROCURAÇÃO ATUALIZADA E DETERMINAÇÕES CORRELATAS. RECURSO ESPECIAL NÃO CONHECIDO.
+I. CASO EM EXAME
+1. Recurso especial interposto contra acórdão proferido em apelação que não conheceu do recurso por ineficácia do ato de recorrer praticado sem procuração atualizada, com determinações correlatas (fls. 307-308).
+2. A controvérsia diz respeito à ação declaratória de inexigibilidade de débito c/c indenização por danos morais, em que se busca afastar a cobrança e a inscrição nos cadastros de inadimplentes, com reparação pelos danos.
+3. Na sentença, o Juízo de primeiro grau julgou improcedentes os pedidos, condenou ao pagamento de custas e despesas processuais e fixou honorários em 10% do valor da causa, observada a gratuidade (fl. 308).
+4. A Corte de origem não conheceu da apelação por ineficácia do ato praticado sem procuração atualizada e aplicou determinações correlatas, mantendo a sentença íntegra (fls. 307-313).
+II. QUESTÃO EM DISCUSSÃO
+5. Há seis questões em discussão: (i) saber se o acórdão extrapolou os limites do efeito devolutivo da apelação, configurando reformatio in pejus, em violação ao art. 1.013, caput, do CPC; (ii) saber se a responsabilidade do advogado por lide temerária depende de ação própria, nos termos do art. 32, parágrafo único, da Lei n. 8.906/1994; (iii) saber se é possível estender à patrona a condenação por litigância de má-fé, diante do art. 79, caput, do CPC; (iv) saber se a multa por litigância de má-fé e o envio de ofícios restringiram o direito de ação, à luz do art. 5º, XXXV, da Constituição Federal; (v) saber se a expedição de ofícios à OAB e ao NUMOPEDE afetou o livre exercício da advocacia, diante do art. 5º, XIII, da Constituição Federal; e (vi) saber se houve violação do art. 6º, III, da Lei n. 8.078/1990 quanto ao dever de informação sobre a origem do débito.
+III. RAZÕES DE DECIDIR
+6. Ausência de prequestionamento quanto ao art. 1.013, caput, do CPC, ao art. 32, parágrafo único, da Lei n. 8.906/1994, e ao art. 79, caput, do CPC, e não oposição de embargos de declaração: aplica-se, por analogia, a Súmula n. 282 do STF. As alegações constitucionais não são apreciáveis em recurso especial.
+7. O afastamento das determinações correlatas e das sanções impostas demanda revolvimento do acervo fático-probatório, vedado pela Súmula n. 7 do STJ.
+8. O acórdão está alinhado ao entendimento desta Corte sobre medidas para coibir litigância abusiva e exigência de autenticação da representação em casos de indícios de litigância predatória, incidindo a Súmula n. 83 do STJ, em consonância com o Tema n. 1.198.
+9. O dissídio jurisprudencial não foi comprovado por ausência de cotejo analítico, nos termos do art. 1.029, § 1º, do CPC e do art. 255, § 1º, do RISTJ.
+IV. DISPOSITIVO E TESE
+10. Recurso especial não conhecido.
+Tese de julgamento: "1. Aplica-se a Súmula n. 282 do STF quando ausente o prévio debate dos dispositivos federais e não opostos embargos de declaração. 2. Incide a Súmula n. 7 do STJ para afastar pretensão que demanda reexame do conjunto fático-probatório. 3.
+Aplica-se a Súmula n. 83 do STJ quando o acórdão recorrido está em harmonia com a orientação desta Corte sobre medidas em casos de indícios de litigância predatória, em linha com o Tema n. 1.198. 4.
+O dissídio jurisprudencial não se configura sem cotejo analítico, conforme art. 1.029, § 1º, do CPC e art. 255, § 1º, do RISTJ".
+Dispositivos relevantes citados: CPC, arts. 1.013, caput, 79, caput, 80, III, 104, § 2º, 662, caput, 1.029, § 1º, 85, § 11; Constituição Federal, arts. 105, III, a e c, 5º, XXXV, 5º, XIII; Lei n. 8.906/1994, art. 32, parágrafo único; Lei n. 8.078/1990, art. 6º, III; RISTJ, art. 255, § 1º.
+Jurisprudência relevante citada: STJ, Súmulas n. 7, 83; STF, Súmula n. 282; STJ, REsp n. 2.191.225/SP, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 5/5/2025; STJ, REsp n. 2.207.910/SP, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 14/5/2025; STJ, REsp n. 2.199.840/SC, relator Ministro João Otávio de Noronha, Quarta Turma, julgado em 15/5/2025; STJ, REsp n. 2.198.442/SP, relator Ministro Raul Araújo, Quarta Turma, julgado em 6/5/2025.
+(REsp n. 2.229.386/SP, relator Ministro João Otávio de Noronha, Quarta Turma, julgado em 9/3/2026, DJEN de 12/3/2026.)
+DIREITO PROCESSUAL CIVIL. RECURSO ESPECIAL. AÇÃO DECLARATÓRIA DE INEXIGIBILIDADE DE DÉBITO. EXIGÊNCIA DE PROCURAÇÃO COM FIRMA RECONHECIDA. SUSPEITA DE LITIGÂNCIA PREDATÓRIA. POSSIBILIDADE. PRECEDENTES DO STJ. SÚMULA 83 E 7 DO STJ. RECURSO NÃO CONHECIDO.
+I. CASO EM EXAME
+1. Recurso especial interposto contra acórdão do Tribunal de Justiça do Estado de São Paulo que manteve sentença de extinção de ação declaratória de inexigibilidade de débito, sem resolução de mérito, em razão do não cumprimento de determinação judicial para apresentação de procuração com firma reconhecida, diante de fundada suspeita de litigância predatória.
+2. O Tribunal de origem fundamentou sua decisão na necessidade de cautela para evitar o uso abusivo do Poder Judiciário, respaldando-se no Comunicado CG nº 02/2017 e no Enunciado 5 da Corregedoria-Geral da Justiça, que autorizam providências para confirmar o interesse de agir e a autenticidade da postulação em casos de indícios de litigância predatória, bem como no poder geral de cautela conferido ao magistrado.
+II. QUESTÃO EM DISCUSSÃO
+3. A questão em discussão consiste em saber se a exigência de procuração ad judicia com firma reconhecida em cartório, diante de indícios de litigância predatória, viola disposições legais e jurisprudência pátria.
+III. RAZÕES DE DECIDIR
+4. A jurisprudência do STJ, consubstanciada no Tema Repetitivo nº 1.198, autoriza o juiz, diante de indícios de litigância abusiva, a exigir, de modo fundamentado e com observância à razoabilidade do caso concreto, a emenda da petição inicial para demonstrar o interesse de agir e a autenticidade da postulação.
+5. A exigência de procuração com firma reconhecida, como medida de cautela para coibir a litigância predatória, encontra respaldo em precedentes do STJ.
+6. A análise da necessidade de apresentação de procuração com firma reconhecida, diante de suspeita de litigância abusiva, demandaria reexame de fatos e provas, o que é vedado pela Súmula 7 do STJ.
+7. A incidência da Súmula 83 do STJ impede o conhecimento do recurso especial, pois o acórdão recorrido está em consonância com a jurisprudência desta Corte.
+IV. DISPOSITIVO E TESE
+8. Resultado do Julgamento: Recurso especial não conhecido.
+Tese de julgamento:
+1. Constatados indícios de litigância abusiva, o juiz pode exigir, de modo fundamentado e com observância à razoabilidade do caso concreto, a emenda da petição inicial para demonstrar o interesse de agir e a autenticidade da postulação.
+2. A exigência de procuração com firma reconhecida, como medida de cautela, é válida para coibir a litigância predatória, desde que respeitadas as regras de distribuição do ônus da prova.
+3. O reexame de fatos e provas para verificar a necessidade de apresentação de procuração com firma reconhecida é vedado em recurso especial, nos termos da Súmula 7 do STJ.
+Dispositivos relevantes citados: CPC, art. 85, § 11; Súmula 7 do STJ;
+Súmula 83 do STJ.
+Jurisprudência relevante citada: STJ, Tema Repetitivo nº 1.198; STJ, REsp 2.202.566/SP, Rel. Min. Moura Ribeiro, Terceira Turma, julgado em 25.08.2025.
+(REsp n. 2.200.938/SP, relator Ministro Humberto Martins, Terceira Turma, julgado em 1/12/2025, DJEN de 4/12/2025.)
+DIREITO PROCESSUAL CIVIL. RECURSO ESPECIAL. AÇÃO DE PRODUÇÃO ANTECIPADA DE PROVAS. EXTINÇÃO DO PROCESSO SEM RESOLUÇÃO DE MÉRITO. PROCURAÇÃO ELETRÔNICA. ASSINATURA COM CERTIFICADO DIGITAL EMITIDO POR AUTORIDADE CERTIFICADORA CREDENCIADA À ICP-BRASIL. NÃO OBRIGATORIEDADE. EXIGÊNCIA DO JUÍZO EM HIPÓTESE DE INDÍCIOS DE FRAUDE OU LITIGÂNCIA ABUSIVA. POSSIBILIDADE. PREVISÃO LEGAL. ASSINATURA NÃO RATIFICADA. DISSÍDIO JURISPRUDENCIAL PREJUDICADO.
+RECURSO ESPECIAL DESPROVIDO.
+I. Hipótese em exame
+1. Ação de produção antecipada de provas, ajuizada em 3/4/2024, da qual foi extraído o presente recurso especial, interposto em 18/2/2025 e concluso ao gabinete em 18/7/2025.
+II. Questão em discussão
+2. O propósito recursal consiste em decidir se a procuração constituída eletronicamente deve, para efeitos de validade no processo judicial, ser assinada exclusivamente através de certificado digital emitido por Autoridade Certificadora credenciada à Infraestrutura de Chaves Públicas Brasileira (ICP-Brasil).
+III. Razões de decidir
+3. Segundo o entendimento desta Corte Superior firmado no julgamento do REsp nº 2.150.278/PR (Terceira Turma, DJe 29/9/2024), documentos eletrônicos produzidos em momento pré-processual não estão sujeitos ao uso exclusivo de certificado digital emitido no âmbito da ICP-Brasil, sob pena de esvaziamento do art. 10, § 2º, da MP nº 2.200-2/2001, que expressamente admite a utilização de outros meios de comprovação de autoria e integridade em documentos eletrônicos, desde que admitido pelas partes como válido ou aceito pela pessoa a quem for oposto o documento.
+4. A Lei nº 14.063/2020 positivou três níveis tecnológicos de assinatura eletrônica - simples, avançada e qualificada - deixando claro que todas gozam de validade jurídica, sendo a assinatura qualificada (baseada em certificado ICP-Brasil) aquela dotada do grau mais elevado de confiabilidade, conforme disposto no art. 4º, § 1º da referida legislação.
+5. A procuração é documento que reveste-se de especial constituição por viabilizar a representação no processo judicial. Por essa razão, a aferição de sua idoneidade não se restringe ao âmbito privado, cabendo ao Poder Judiciário verificar se o documento apresentado é autêntico e íntegro, de modo a assegurar que a representação processual se constitua de forma válida e regular.
+6. A procuração eletrônica não exige, como regra, o uso exclusivo de certificação digital emitida no âmbito da ICP-Brasil, por constituir instrumento particular de outorga de poderes. Todavia, na hipótese de dúvidas objetivas da autoridade judicial sobre a autenticidade da assinatura ou a legitimidade da outorga, admite-se que o juiz determine a apresentação de procuração firmada com certificação digital qualificada, no âmbito da ICP-Brasil, para confirmação de sua autoria e integridade, a fim de viabilizar o mais elevado grau de confiabilidade quanto à assinatura, conforme dispõe o art. 4º, § 1º, da Lei nº 14.063/2020, e o § 1º do art. 10 da MP nº 2.200-2/2001.
+7. No recurso sub julgamento, verifica-se que o TJ/SP reconheceu a existência de indícios de litigância abusiva e de irregularidade na assinatura contida no documento de representação. Intimada a recorrente para regularizar a representação processual, deixou de atender à determinação. À luz do raciocínio previamente desenvolvido, não se mostra inválida, por si só, a procuração eletrônica firmada sem certificação qualificada baseada na ICP-Brasil. Todavia, diante dos indícios concretos de litigância abusiva verificados na hipótese dos autos, revela-se legítima a determinação judicial para que a parte comprovasse a autenticidade da outorga mediante a apresentação de nova procuração firmada com certificação digital qualificada ICP-Brasil, como meio de conferir o grau máximo de confiabilidade ao instrumento.
+IV. Dispositivo
+8. Recurso especial conhecido e, nessa extensão, desprovido, sem honorários.
+(REsp n. 2.223.695/SP, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 10/3/2026, DJEN de 13/3/2026.)
+- Do reexame de fatos e provas. Súmula n. 7/STJ
+Por outro lado, como a conclusão adotada decorreu da apreciação dos fatos e das provas dos autos, alterar o decidido no acórdão impugnado, no que se refere à conclusão acerca da necessidade de emenda da petição inicial, é inviável nesta via recursal, por extrapolar o campo da mera revaloração e implicar, necessariamente, o reexame do conjunto fático-probatório, o que é vedado em recurso especial, nos termos da Súmula n. 7 do STJ.
+Cito nesse sentido:
+PROCESSUAL CIVIL. RECURSO ESPECIAL. AÇÃO DECLARATÓRIA DE INEXIGIBILIDADE DE DÉBITO. CARTÃO DE CRÉDITO COM RESERVA DE MARGEM CONSIGNÁVEL. LITIGÂNCIA PREDATÓRIA. EXIGÊNCIA DE DOCUMENTOS CAPAZES DE COMPROVAR A SERIEDADE DA DEMANDA E, ASSIM, COIBIR A FRAUDE PROCESSUAL. PRECEDENTES. SÚMULA N. 83 DO STJ. REANÁLISE. IMPERATIVO REEXAME DO ACERVO FÁTICO-PROBATÓRIO. ÓBICE DA SÚMULA N. 7 DO STJ. DISSÍDIO JURISPRUDENCIAL PREJUDICADO ANTE A INCIDÊNCIA DO ÓBICE SUMULAR. RECURSO ESPECIAL NÃO PROVIDO.
+1. O Tema n. 1.198/STJ preceitua que constatados indícios de litigância abusiva, o juiz pode exigir, de modo fundamentado e com observância à razoabilidade da situação concreta apresentada, a emenda da petição inicial a fim de demonstrar o interesse de agir e a autenticidade da postulação, respeitadas as regras de distribuição do ônus da prova.
+2. Rever as conclusões no sentido de que diante da suspeita de litigância abusiva, necessário que o advogado apresente a procuração com firma reconhecida demandaria, necessariamente, reexame do conjunto fático-probatório dos autos, o que é vedado em razão do óbice da Súmula n. 7 do STJ.
+3. Não é possível o conhecimento do recurso especial interposto pela divergência jurisprudencial na hipótese em que o dissídio é apoiado em fatos, e não na interpretação da lei.
+4. Recurso especial não provido.
+(REsp n. 2.202.566/SP, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 25/8/2025, DJEN de 28/8/2025.)
+DIREITO PROCESSUAL CIVIL. RECURSO ESPECIAL. LITIGÂNCIA PREDATÓRIA. EXTINÇÃO DO PROCESSO SEM RESOLUÇÃO DE MÉRITO. CONDENAÇÃO DE ADVOGADO AO PAGAMENTO DE CUSTAS PROCESSUAIS.
+I. CASO EM EXAME
+1. Recurso especial interposto contra acórdão do Tribunal de Justiça do Estado de São Paulo que manteve sentença de extinção do processo sem resolução de mérito, em razão do não cumprimento de determinação judicial para emenda da petição inicial, diante de indícios de litigância predatória.
+2. O Tribunal de origem confirmou a sentença que exigiu a juntada de procuração específica com firma reconhecida e declaração de próprio punho do autor, além da comprovação de hipossuficiência econômica, para assegurar a regularidade da representação processual e evitar uso abusivo do Poder Judiciário.
+3. O autor não cumpriu a determinação judicial, levando à extinção do processo e à condenação do advogado ao pagamento das custas e despesas processuais, nos termos do art. 104, § 2º, do CPC.
+II. QUESTÃO EM DISCUSSÃO
+4. Há duas questões em discussão: (i) saber se a exigência de documentos com firma reconhecida para regularização da representação processual é válida e compatível com o ordenamento jurídico; e (ii) saber se a condenação do advogado ao pagamento das custas e despesas processuais, em razão de litigância predatória, encontra respaldo legal.
+III. RAZÕES DE DECIDIR
+5. A jurisprudência do STJ admite que, diante de indícios de litigância abusiva, o juiz pode exigir a emenda da petição inicial para demonstrar o interesse de agir e a autenticidade da postulação, respeitando a razoabilidade e as regras de distribuição do ônus da prova (Tema 1.198, REsp n. 2.021.665/MS).
+6. A análise de eventual fraude ou vício de consentimento, bem como a verificação da veracidade dos documentos juntados, demandaria reexame de fatos e provas, o que é vedado em recurso especial, nos termos da Súmula n. 7 do STJ.
+7. O conteúdo normativo contido no art. 85 do CPC e no art. 32 do EOAB, da forma como trazidos ao debate, não foi objeto de exame pelo Tribunal local, deixando, assim, de servir de fundamento à conclusão adotada no acórdão hostilizado. Ausência de prequestionamento.
+IV. DISPOSITIVO E TESE
+8. Resultado do Julgamento: Recurso parcialmente conhecido e, nessa parte, improvido.
+Tese de julgamento:
+1. O juiz pode exigir a emenda da petição inicial para demonstrar o interesse de agir e a autenticidade da postulação, diante de indícios de litigância abusiva, respeitando a razoabilidade e as regras de distribuição do ônus da prova.
+2. A análise de eventual fraude ou vício de consentimento, bem como a verificação da veracidade dos documentos juntados, demandaria reexame de fatos e provas, o que é vedado em recurso especial, nos termos da Súmula n. 7 do STJ.
+Dispositivos relevantes citados: CPC, arts. 77, 104, § 2º, 139, III, e 654; Código Civil, art. 654.
+Jurisprudência relevante citada: STJ, REsp n. 2.021.665/MS, Rel. Min. Moura Ribeiro, Corte Especial, julgado em 13/03/2025; STJ, REsp n. 2.191.225/SP, Rel. Min. Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 05/05/2025.
+(REsp n. 2.222.834/SP, relator Ministro Humberto Martins, Terceira Turma, julgado em 1/12/2025, DJEN de 4/12/2025.)
+PROCESSUAL CIVIL. RECURSO ESPECIAL. AÇÃO REVISIONAL. LITIGÂNCIA PREDATÓRIA. EXIGÊNCIA DE PROCURAÇÃO COM FIRMA RECONHECIDA OUTORGADA PELO DEMANDANTE. DOCUMENTOS CAPAZES DE COMPROVAR A SERIEDADE DA DEMANDA E, ASSIM, COIBIR A FRAUDE PROCESSUAL. PRECEDENTES. SÚMULA N. 83 DO STJ. REEXAME FÁTICO-PROBATÓRIO. ÓBICE DA SÚMULA N. 7 DO STJ. DISSÍDIO JURISPRUDENCIAL PREJUDICADO.
+1. Esta Corte firmou entendimento, por ocasião do julgamento do Tema 1.198/STJ, de que, constatados indícios de litigância abusiva, o juiz pode exigir, de modo fundamentado e com observância à razoabilidade da situação concreta apresentada, a emenda da petição inicial a fim de demonstrar o interesse de agir e a autenticidade da postulação, respeitadas as regras de distribuição do ônus da prova.
+2. Alterar as conclusões de que, diante da suspeita de litigância abusiva, o advogado deveria apresentar procuração com firma reconhecida demandaria, necessariamente, reexame do conjunto fático-probatório dos autos, o que é vedado em razão do óbice da Súmula n. 7 do STJ.
+3. Não é possível o conhecimento do recurso especial interposto pela divergência jurisprudencial na hipótese em que o dissídio é apoiado em fatos, e não na interpretação da lei.
+Recurso especial não conhecido.
+(REsp n. 2.160.143/SP, relator Ministro Humberto Martins, Terceira Turma, julgado em 24/11/2025, DJEN de 27/11/2025.)
+Da mesma forma, incide a Súmula n. 7 do STJ para obstar o reexame do conjunto fático-probatório sobre irregularidade da representação e a adequação das medidas processuais adotadas pelas instâncias ordinárias.
+Cito nesse sentido:
+DIREITO PROCESSUAL CIVIL. RECURSO ESPECIAL. LITIGÂNCIA PREDATÓRIA E IRREGULARIDADE DE REPRESENTAÇÃO. ÓBICES DAS SÚMULAS N. 7, 83 E 211 DO STJ. RECURSO ESPECIAL NÃO CONHECIDO.
+I. CASO EM EXAME
+1. Recurso especial interposto contra acórdão do Tribunal de Justiça do Estado de São Paulo em apelação cível, que manteve a extinção sem resolução do mérito por irregularidade de representação e impôs ônus aos patronos, rejeitando alegações de vícios e referendando medidas amparadas em enunciados da Corregedoria.
+2. A controvérsia decorre de ação declaratória c/c obrigação de fazer e reparação de danos materiais e morais sobre inexistência/inexigibilidade de empréstimo consignado em face de instituição financeira.
+3. Na sentença, o Juízo de primeiro grau extinguiu o processo, sem resolução do mérito, com fundamento no art. 485, IV, do CPC, por irregularidade de representação, e fixou custas ao subscritor da inicial.
+4. A Corte de origem manteve a sentença pelos seus fundamentos e fixou honorários recursais.
+II. QUESTÃO EM DISCUSSÃO
+5. Há nove questões em discussão: (i) saber se se configura responsabilidade por perdas e danos sem litigância de má-fé (art. 79 do CPC); (ii) saber se a condenação por má-fé exige comprovação de dolo ou culpa grave (art. 80 do CPC); (iii) saber se a multa e a indenização por má-fé demandam demonstração de prejuízo e elemento subjetivo (art. 81 do CPC); (iv) saber se houve desconsideração da liberdade contratual e da autonomia privada (art. 421 do CC); (v) saber se houve inversão indevida do ônus da prova e ausência de práticas abusivas (art. 373, II, do CPC); (vi) saber se a atuação em defesa do consumidor caracteriza prática abusiva ou se está amparada pela responsabilidade objetiva do fornecedor (arts. 6º, VI e VII, e 14 do CDC); (vii) saber se as medidas de reforço da atividade jurisdicional observaram contraditório e ampla defesa (art. 139, caput e IV, do CPC); (viii) saber se houve captação indevida de clientela e violação de deveres éticos (arts. 2º, III, e 34, IV, do Código de Ética e Disciplina da OAB); e (ix) saber se há divergência jurisprudencial sobre a necessidade de comprovação de dolo/culpa grave para a má-fé e a impossibilidade de presumi-la.
+III. RAZÕES DE DECIDIR
+6. O acórdão recorrido está em consonância com a orientação do STJ sobre a possibilidade de reconhecimento de indícios de litigância abusiva e exigência de documentos, incidindo a Súmula n. 83 do STJ;
+o afastamento da conclusão demandaria reexame de fatos e provas, vedado pela Súmula n. 7 do STJ.
+7. As teses relativas à autonomia privada, ao ônus da prova e aos dispositivos do CDC não foram objeto de apreciação específica pelo Tribunal de origem, mesmo após embargos de declaração, impondo o óbice da Súmula n. 211 do STJ por ausência de prequestionamento.
+8. As medidas processuais de reforço (art. 139 do CPC) foram reputadas legítimas pela Corte estadual; sua revisão exigiria revolvimento do contexto fático-probatório, hipótese obstada pela Súmula n. 7 do STJ.
+9. A análise pela alínea c do art. 105, III, da CF fica prejudicada quando há incidência dos óbices das Súmulas n. 7 e 83 do STJ quanto à alínea a sobre o mesmo tema.
+IV. DISPOSITIVO E TESE
+10. Recurso especial não conhecido.
+Tese de julgamento: "1. Incide a Súmula n. 83 do STJ quanto à legitimidade do reconhecimento de indícios de litigância abusiva e da exigência de documentos em hipóteses de suspeita de litigância predatória. 2. Incide a Súmula n. 7 do STJ para obstar o reexame do conjunto fático-probatório sobre irregularidade de representação e adequação das medidas processuais. 3. Aplica-se a Súmula n. 211 do STJ quando não há manifestação da Corte de origem sobre os dispositivos invocados, mesmo após embargos de declaração. 4. A imposição dos óbices das Súmulas n. 7 e 83 do STJ quanto à alínea a impede a análise do dissídio pela alínea c do art. 105, III, da CF."
+Dispositivos relevantes citados: CPC, arts. 79, 80, 81, 373, II, 139, caput e IV, 104, 485, IV, e 85, § 11; CC, art. 421; CDC, arts. 6º, VI e VII, e 14; Código de Ética e Disciplina da OAB, arts. 2º, III, e 34, IV.
+Jurisprudência relevante citada: STJ, Súmulas n. 7, 83 e 211; STJ, REsp n. 2.241.385/SP, relator Ministro Raul Araújo, Quarta Turma, julgado em 16/12/2025; STJ, AgInt no AREsp n. 2.915.242/PR, relator Ministro João Otávio de Noronha, Quarta Turma, julgado em 16/12/2025; STJ, REsp n. 2.238.727/SP, relator Ministro João Otávio de Noronha, Quarta Turma, julgado em 16/12/2025; STJ, AREsp n. 2.661.154/PE, relator Ministro João Otávio de Noronha, Quarta Turma, julgado em 16/12/2025.
+(REsp n. 2.198.374/SP, relator Ministro João Otávio de Noronha, Quarta Turma, julgado em 30/3/2026, DJEN de 8/4/2026.)
+DIREITO PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. LITIGÂNCIA DE MÁ-FÉ. ADVOCACIA PREDATÓRIA. MULTA. RECURSO DESPROVIDO.
+1. O Tribunal de origem concluiu pela improcedência da ação, reconhecendo a prática de advocacia predatória, caracterizada pelo ajuizamento em massa de ações com petições genéricas e provas padronizadas, sem demonstração de dano concreto, e aplicou multa por litigância de má-fé.
+2. A alegação de ofensa aos artigos 489 e 1.022 do Código de Processo Civil de 2015 foi apresentada de forma genérica, sem especificação clara das teses jurídicas não apreciadas pelo Tribunal de origem, configurando deficiência na fundamentação recursal e atraindo a incidência da Súmula 284 do STF.
+3. O Tribunal de origem, após análise do acervo fático-probatório, concluiu pela prática de advocacia predatória, caracterizada pelo ajuizamento de ações em massa com petições genéricas e provas padronizadas, sem demonstração de dano concreto, configurando litigância de má-fé e abuso de direito.
+4. A revisão da conclusão do Tribunal de origem sobre a configuração de litigância de má-fé e advocacia predatória, bem como sobre o valor da multa aplicada, demandaria o revolvimento de matéria fático-probatória, providência vedada em sede de recurso especial, conforme a Súmula 7 do STJ.
+5. Agravo conhecido para negar provimento ao recurso especial.
+(AREsp n. 2.632.271/PR, relator Ministro Raul Araújo, Quarta Turma, julgado em 2/3/2026, DJEN de 11/3/2026.)
+Alterar o decidido no acórdão impugnado, no que se refere à demonstração da impossibilidade de arcar com as custas e despesas do processo, exige o reexame de fatos e provas, o que é vedado, em recurso especial, pela Súmula n. 7 do STJ.
+Nesse sentido:
+DIREITO PROCESSUAL CIVIL. RECURSO ESPECIAL. GRATUIDADE DA JUSTIÇA. PESSOA FÍSICA. HIPOSSUFICÊNCIA AFASTADA PELO TRIBUNAL DE ORIGEM. REVISÃO DE FATOS E PROVAS. SÚMULA 7 DO STJ. RECURSO NÃO CONHECIDO.
+1. O pedido de Justiça gratuita pode ser formulado em qualquer momento do processo. Para fins de concessão, há presunção juris tantum de que a pessoa física requerente não possui condições de arcar com as despesas do processo sem comprometer o próprio sustento ou de sua família, podendo o magistrado indeferir o requerimento se encontrar elementos que infirmem a alegada hipossuficiência.
+Precedentes.
+2. Alterar as conclusões do Tribunal de origem exigiria o reexame de provas, providência vedada em recurso especial. Súmula 7/STJ.
+3. Recurso especial não conhecido.
+(REsp n. 2.249.369/SC, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 13/4/2026, DJEN de 16/4/2026.)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. VIOLAÇÃO DO ARTIGO 1.022 DO CPC. DEFICIÊNCIA DE FUNDAMENTAÇÃO. SÚMULA N. 284/STF. GRATUIDADE JUDICIÁRIA. PESSOA FÍSICA. HIPOSSUFICIÊNCIA NÃO DEMONSTRADA. REVISÃO. IMPOSIBILIDADE. SÚMULA N. 7/STJ.
+1. A recorrente limitou-se a alegar, genericamente, ofensa ao referido dispositivo legal, sem explicitar os pontos em que o acordão recorrido teria sido omisso, contraditório ou obscuro, bem como a relevância do enfrentamento da legislação e das teses recursais não analisadas. Incidência da Súmula n. 284/STF.
+2. O acolhimento da tese veiculada nas razões do recurso especial demandaria o reexame de fatos e provas, o que é vedado pela Súmula n. 7/STJ. Nesse sentido, o STJ já decidiu sobre a "inviabilidade de verificar se as partes no caso poderiam ou não serem contempladas pelo benefício da gratuidade de justiça, por demanda reexame de contexto fático-probatório" (AgInt no AREsp n. 897.498/SP, relator Ministro Luis Felipe Salomão, Quarta Turma, DJe de 16/8/2016).
+Agravo interno improvido.
+(AgInt no AREsp n. 3.039.218/RS, relator Ministro Humberto Martins, Terceira Turma, julgado em 23/3/2026, DJEN de 26/3/2026.)
+A incidência da Súmula n. 7 do STJ quanto à interposição pela alínea "a" do permissivo constitucional impede o conhecimento do recurso especial pela divergência jurisprudencial sobre a mesma questão.
+III - Dispositivo
+Ante o exposto, não conheço do recurso especial.
+Deixo de condenar em honorários recursais, em razão da ausência de fixação da verba na origem (EDcl no AgInt no REsp n. 1.910.509/RS, relator Ministro Herman Benjamin, Segunda Turma, DJe de 4/11/2021).
+Publique-se. Intimem-se.
+ EMENTA
