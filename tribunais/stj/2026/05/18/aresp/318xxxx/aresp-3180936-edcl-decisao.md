@@ -1,0 +1,28 @@
+DECISÃO
+Cuida-se de Embargos de Declaração opostos por INVEST BENS - ADMINISTRADORA DE BENS S/A à decisão que conheceu do Agravo para não conhecer do Recurso Especial, em razão da aplicação de óbices de admissibilidade recursal, nos termos do art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça.
+Em suas razões, sustenta a parte embargante:
+7. A r. decisão monocrática ora embargada, sobre a primeira controvérsia, dispôs que "(..) a parte deixou de atacar fundamento autônomo e suficiente para manter o julgado (..)".
+8. E assim prosseguiu: "(..) No caso dos autos, os embargos de terceiro foram ajuizados mais de um ano (10.07.2023) após a assinatura da carta de arrematação em 26.05.2022 e quase oito meses da ciência da turbação ou esbulho, que, conforme alegado pelo embargante, ocorreu em 09/11/22 por meio de contato pelo leiloeiro oficial, de forma que se revelam intempestivos, sem prejuízo de que a embargante, querendo, promova a discussão mediante o ajuizamento da ação cabível (fls. 163-164, destaque meu).(..) "
+9. Ocorre que compulsando as razões de recurso, não se vislumbram existentes tais falhas formais. Ao contrário disto, houve a efetiva abordagem e desenvolvimento de tese apta a rechaçar o entendimento do E. Tribunal a quo, o que culmina na necessidade de provimento do Recurso Especial.
+10. Prova disto se extrai dos trechos do Agravo em que esse tema foi abordado, conforme se infere dos PARÁGRAFOS 42 A 62.
+11. Nesses parágrafos, desenvolveu-se a relevante tese de que o prazo disposto no art. 675 do CPC é inaplicável ao caso concreto, posto que a ora Embargante não se voltou contra o leilão propriamente dito.
+12. Afinal, o que a Embargante buscava era demonstrar que a CONSTRIÇÃO em questão está sendo efetivada em área de propriedade da Embargante e que se trata de ÁREA DISTINTA DAQUELA OBJETO DO LEILÃO.
+13. Sabe-se que o art. 675 do CPC é voltado àqueles que integram polo ativo e passivo dos autos, daí porque o prazo decadencial após a expedição de carta de adjudicação é bastante exíguo (5 dias).
+14. E obviamente, o INTERESSE PROCESSUAL da ora Embargante apenas surgiu quando descobriu que o Leiloeiro Oficial buscava realizar a imissão da posse da matrícula nº 272 em área de sua propriedade, usurpando fração do imóvel de matrícula nº 274.
+15. Como fundamento relevante hábil a alterar os fundamentos do v. acórdão, está o disposto no art. 674 do CPC, ao qual é absolutamente cabível no caso concreto, considerando que a Embargante: (i) não era parte do processo; (ii) está diante de flagrante ameaça de constrição sobre seu bem imóvel; (iii) a constrição é incompatível com o direito, pois o leilão realizado não envolve o imóvel da Agravante; e (iv) pretende a inibição deste ato constritivo por meio dos embargos de terceiro.
+16. A Embargante buscou demonstrar que o art. 674 do CPC era completamente aplicável ao caso. Sendo de enorme relevância seu acolhimento a fim de evitar a supressão de área de sua propriedade.
+17. Fato é que ao invocar prazo decadencial do art. 675 do CPC em situação que poderia ser arguida a QUALQUER MOMENTO, vislumbra-se a violação a ambos artigos, porquanto impediu a Embargante de se valer de remédio processual cabível no caso concreto.
+18. Sempre com a devida vênia, a r. decisão monocrática embargada se omitiu de tais questões, devendo enfrentar a relevante temática arguida e reestabelecer a Justiça.
+20. Destarte, não restam dúvidas que a r. decisão monocrática embargada contraria diametralmente as razões recursais invocadas, ante a ausência de aplicabilidade da Súmula 283/STF, o que impõe, com todo respeito, a sua reforma e o consequente provimento do Recurso Especial (fls. 218-219).
+Requer, assim, o conhecimento e acolhimento dos Embargos Declaratórios para que seja sanado o vício apontado.
+A parte embargada foi devidamente intimada para contra-arrazoar estes aclaratórios.
+É o relatório.
+Decido.
+Nos termos do art. 1.022 do Código de Processo Civil, os Embargos de Declaração destinam-se a esclarecer obscuridade, eliminar contradição, suprir omissão e corrigir erro material eventualmente existentes no julgado, o que não se verifica na hipótese.
+Registre-se que "não é o órgão julgador obrigado a rebater, um a um, todos os argumentos trazidos pelas partes em defesa da tese que apresentaram. Deve apenas enfrentar a demanda, observando as questões relevantes e imprescindíveis à sua resolução. Nesse sentido: REsp 927.216/RS, Segunda Turma, Rel. Ministra Eliana Calmon, DJ de 13.8.2007; e REsp 855.073/SC, Primeira Turma, Rel. Ministro Teori Albino Zavascki, DJ de 28.6.2007". (EDcl nos EDcl no REsp 1.642.531/SC, Rel. Ministro Herman Benjamin, Segunda Turma, DJe de 22.4.2019.)
+Por fim, ressalto que a pretensão de rediscutir matéria devidamente abordada e decidida no decisum embargado, consubstanciada na mera insatisfação com o resultado da demanda, não se coaduna com a via eleita. Nesse sentido, o EDcl no AgRg nos EREsp n. 1.315.507/SP, Rel. Ministro Luis Felipe Salomão, Corte Especial, DJe de 28.8.2014.
+Assim, não há qualquer irregularidade sanável por meio dos presentes embargos, porquanto toda a matéria apta à apreciação desta Corte foi analisada, não padecendo a decisão embargada dos vícios que autorizariam a sua oposição (obscuridade, contradição, omissão ou erro material).
+Ante o exposto, rejeito os Embargos de Declaração e advirto a parte embargante sobre a reiteração deste expediente, sob pena de pagamento de multa de 2% sobre o valor atualizado da causa, porque os próximos embargos versando sobre o mesmo assunto serão considerados manifestamente protelatórios (art. 1.026, § 2º, do Código de Processo Civil).
+Publique-se.
+Intimem-se.
+ EMENTA
