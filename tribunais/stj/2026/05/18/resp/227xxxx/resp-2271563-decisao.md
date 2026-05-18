@@ -1,0 +1,60 @@
+DECISÃO
+Vistos.
+Trata-se de Recurso Especial interposto por ANTONIO MOREIRA LIMA contra acórdão prolatado, por unanimidade, pela 1ª Seção do Tribunal Regional Federal da 1ª Região no julgamento de ação rescisória, assim ementado (fl. 27.984e):
+AÇÃO RESCISÓRIA. PROCESSUAL CIVIL. INTIMAÇÃO DA SENTENÇA. ALEGADO ERRO DE SISTEMA. INOCORRÊNCIA.
+1. A parte autora pretende a rescisão do julgado sob a alegação de não foi devidamente intimada da sentença por erro no sistema eletrônico.
+2. Consultado o sistema eletrônico processual (PJe) de primeiro grau, verifico que a parte foi devidamente intimada.
+3. O expediente do sistema PJe é suficiente para comprovar a intimação do advogado cadastrado nos autos.
+4. Pedido improcedente.
+Com amparo no art. 105, III, a e c, da Constituição da República, além de divergência jurisprudencial, aponta-se ofensa aos arts. 5º, §§ 1º e 3º, da Lei n. 11.419/2006; 270 e 272 do Código de Processo Civil, alegando-se, em síntese, a ausência de sua intimação da sentença proferida nos autos originários. Ressalta que " ..  apesar de a aba de expediente do PJe indicar que houve intimação, bem como ter constado nos autos certidão indicando tal, a verdade fática é que não houve" (fl. 27.996e)
+Com contrarrazões (fls. 28.003/28.005e), o recurso foi inadmitido (fls. 28.007/28.008e), tendo sido interposto Agravo, posteriormente convertido em recurso especial (fl. 28.035e).
+Feito breve relato, decido.
+Nos termos do art. 932, III, do Código de Processo Civil de 2015, combinado com os arts. 34, XVIII, a, e 255, I, ambos do Regimento Interno desta Corte, o Relator está autorizado, por meio de decisão monocrática, a não conhecer de recurso inadmissível, prejudicado ou que não tenha impugnado especificamente os fundamentos da decisão recorrida.
+Nas razões do Recurso Especial, aponta-se ofensa aos arts. 5º, §§ 1º e 3º, da Lei n. 11.419/2006; 270 e 272 do Código de Processo Civil, alegando-se a ausência de intimação da sentença proferida nos autos originários, ao argumento de que " ..  apesar de a aba de expediente do PJe indicar que houve intimação, bem como ter constado nos autos certidão indicando tal, a verdade fática é que não houve" (fl. 27.996e).
+Acerca do tema, a Corte a qua, após minucioso exame dos elementos fáticos contidos nos autos, consignou (fls. 27.982/27.983e):
+No caso concreto, consultado o sistema eletrônico processual (PJe) de primeiro grau, verifico que a parte foi devidamente intimada. A prova de intimação da parte autora reside que as outras intimações feitas nos mesmos autos tiveram ciência e prazo aberto pelo causídico.
+De outro lado, a parte autora não apresenta prova além de que a empresa contratada para gerenciar suas intimações não avisou sobre a intimação, fato que não é suficiente para desconstituir a coisa julgada.
+O expediente do sistema PJe é suficiente para comprovar a intimação do advogado cadastrado nos autos.
+Nesse sentido, já julgou a Segunda Seção desse Tribunal Regional Federal:
+(..)
+Por essas razões, a existência de regular expediente no P Je e ausência de indícios de erro técnico no sistema impedem a procedência do pedido autora.
+In casu, a análise da pretensão recursal - no sentido de ausência de intimação do autor da sentença proferida nos autos originários - a fim de revisar o entendimento adotado pela Corte a qua - a parte autora foi devidamente intimada - demanda necessário revolvimento de matéria fática, providência inviável em recurso especial, à luz da Súmula n. 7/STJ, segundo a qual, a pretensão de simples reexame de prova não enseja recurso especial.
+Nesse sentido:
+PROCESSUAL CIVIL E TRIBUTÁRIO. AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. INTIMAÇÃO PESSOAL. NULIDADE NÃO VERIFICADA. AUSÊNCIA DE RECADASTRAMENTO. PROCESSO ELETRÔNICO. PROVIMENTO NEGADO.
+1. A Primeira Seção desta Corte entende que não há ofensa à prerrogativa de intimação pessoal prevista no art. 183 do Código de Processo Civil (CPC) quando o ente público deixa de realizar o recadastramento do Sistema de Intimação Eletrônica do Superior Tribunal de Justiça, nos termos do art. 1.050 do CPC, sendo válida a intimação por meio da publicação no Diário de Justiça Eletrônico.
+2. Modificar as conclusões então adotadas, no sentido de atestar a inexistência de intimação pessoal da parte agravada, demandaria o reexame do contexto fático-probatório dos autos, providência vedada em recurso especial à luz da Súmula 7/STJ.
+3. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 1.931.706/SP, relator Ministro Paulo Sérgio Domingues, Primeira Turma, julgado em 19/5/2025, DJEN de 22/5/2025.)
+DIREITO PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. EXECUÇÃO FISCAL. EXTINÇÃO DO PROCESSO POR ABANDONO DA CAUSA. INTIMAÇÃO PESSOAL ELETRÔNICA. REVISÃO. IMPOSSIBILIDADE. SÚMULA 7/STJ.CONSONÂNCIA DO ACÓRDÃO RECORRIDO COM A JURISPRUDÊNCIA DO STJ. SÚMULA 568/STJ. AGRAVO INTERNO IMPROVIDO.
+1. Agravo interno interposto pelo Estado de Mato Grosso contra decisão monocrática que negou provimento a recurso especial, mantendo a extinção de execução fiscal por abandono da causa, em razão da regularidade da intimação pessoal eletrônica ao procurador da Fazenda Pública.
+2. A sentença de primeiro grau extinguiu o processo sem resolução do mérito, com base no art. 485, III, do CPC, decisão mantida pelo Tribunal de Justiça, que considerou válida a intimação pessoal realizada por meio eletrônico e desnecessária nova intimação específica para caracterizar o abandono.
+3. A jurisprudência do STJ reconhece a validade da intimação pessoal eletrônica ao procurador da Fazenda Pública, realizada nos termos do art. 183, § 1º, do CPC e do art. 25 da Lei 6.830/1980, para fins de caracterização do abandono da causa.
+4. A alteração da conclusão do Tribunal de origem quanto à regularidade da intimação e à desídia da parte demandaria o reexame de matéria fático-probatória, o que é vedado em recurso especial, conforme a Súmula 7/STJ.
+5. A jurisprudência consolidada do STJ estabelece que, após a intimação pessoal regular, a inércia do ente público autoriza a extinção do processo sem resolução do mérito por abandono da causa.
+6. Agravo interno improvido.
+(AgInt no REsp n. 2.017.467/MT, relator Ministro Afrânio Vilela, Segunda Turma, julgado em 25/2/2026, DJEN de 3/3/2026.)
+De outra parte, à vista da incidência do óbice constante da Súmula n. 7 desta Corte, o recurso especial também não pode ser conhecido com fundamento na alínea c do permissivo constitucional, porquanto, para a comprovação da similitude fática entre os julgados confrontados, faz-se necessário o reexame de fatos e provas.
+Na mesma esteira, os seguintes julgados:
+TRIBUTÁRIO. EXECUÇÃO FISCAL. PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. CÓDIGO DE PROCESSO CIVIL DE 2015. APLICABILIDADE. VIOLAÇÃO AOS ARTS. 489 E 1.022 DO CPC. INOCORRÊNCIA. IPTU. USO DO IMÓVEL. INVIABILIDADE NÃO COMPROVADA. HIGIDEZ DO TÍTULO EXECUTIVO. REVISÃO. IMPOSSIBILIDADE. SÚMULA N. 7/STJ. INCIDÊNCIA. AUSÊNCIA DE PREQUESTIONAMENTO DOS ARTS. 472 DO CPC E 113, § 1º, DO CTN. INCIDÊNCIA DA SÚMULA N. 211/STJ. DISSÍDIO JURISPRUDENCIAL. AUSÊNCIA DE SIMILITUDE FÁTICA. ANÁLISE PREJUDICADA. ARGUMENTOS INSUFICIENTES PARA DESCONSTITUIR A DECISÃO ATACADA. APLICAÇÃO DE MULTA. ART. 1.021, § 4º, DO CÓDIGO DE PROCESSO CIVIL DE 2015. DESCABIMENTO.
+ ..
+V - O recurso especial não pode ser conhecido com fundamento na alínea c do permissivo constitucional, porquanto o óbice da Súmula n. 7/STJ impede o exame do dissídio jurisprudencial quando, para a comprovação da similitude fática entre os julgados confrontados, é necessário o reexame de fatos e provas.
+ ..
+VII - Agravo Interno improvido.
+(AgInt no REsp n. 2.139.482/SP, Relatora Ministra REGINA HELENA COSTA, PRIMEIRA TURMA, julgado em 02.09.2024, DJe de 05.09.2024 - destaque meu).
+DIREITO CIVIL E PREVIDENCIÁRIO. AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. VIOLAÇÃO AOS ARTIGOS 489, §1º, I AO IV, E 1.022, I E II, DO CPC. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA. AÇÃO REGRESSIVA DO ART. 120 DA LEI 8.213/1991. ACIDENTE DE TRABALHO. RESPONSABILIDADE CIVIL. NORMAS DE SEGURANÇA DO TRABALHO. NEGLIGÊNCIA DA EMPRESA EMPREGADORA. DEVER DE RESSARCIMENTO AO INSS. ALTERAÇÃO DO ENTENDIMENTO DO TRIBUNAL A QUO. REEXAME DE FATOS E PROVAS. ÓBICE DA SÚMULA N. 7/STJ. DISSÍDIO JURISPRUDENCIAL. NÃO COMPROVADO. AUSÊNCIA DE SIMILITUDE FÁTICA. INSURGÊNCIA CONTRA A MAJORAÇÃO DOS HONORÁRIOS ADVOCATÍCIOS. AUSÊNCIA DE COMANDO NORMATIVO DO ARTIGO DE LEI FEDERAL APONTADO COMO VIOLADO. SÚMULA N. 284/STF. AGRAVO INTERNO NÃO PROVIDO.
+ ..
+3. "A jurisprudência desta Corte firmou-se no sentido de que a incidência da Súmula 7/STJ também impede o conhecimento do recurso especial pela alínea c do permissivo constitucional, uma vez que falta identidade fática entre os paradigmas apresentados e o acórdão recorrido". (AgInt no AREsp 1.402.598/RS, relator Ministro Raul Araújo, Quarta Turma, DJe de 22/5/2019.)
+ ..
+5. Agravo Interno não provido.
+(AgInt no AREsp n. 2.467.155/SP, Relator Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, julgado em 02.09.2024, DJe de 04.09.2024 - destaque meu).
+No que tange aos honorários advocatícios, da conjugação dos Enunciados Administrativos ns. 3 e 7, editados em 09.03.2016 pelo Plenário desta Corte, depreende-se que as novas regras relativas ao tema, previstas no art. 85 do Código de Processo Civil de 2015, serão aplicadas apenas aos recursos sujeitos à novel legislação, tanto nas hipóteses em que o novo julgamento da lide gerar a necessidade de fixação ou modificação dos ônus da sucumbência anteriormente distribuídos quanto em relação aos honorários recursais (§ 11).
+Ademais, vislumbrando o nítido propósito de desestimular a interposição de recurso infundado pela parte vencida, entendo que a fixação de honorários recursais em favor do patrono da parte recorrida está adstrita às hipóteses de não conhecimento ou de improvimento do recurso.
+Impende destacar que a Corte Especial deste Tribunal Superior, na sessão de 9.11.2023, concluiu o julgamento do Tema n. 1.059/STJ, fixando a tese segundo a qual a majoração dos honorários de sucumbência prevista no art. 85, § 11, do CPC pressupõe que o recurso tenha sido integralmente desprovido ou não conhecido pelo tribunal, monocraticamente ou pelo órgão colegiado competente. Não se aplica o art. 85, § 11, do CPC em caso de provimento total ou parcial do recurso, ainda que mínima a alteração do resultado do julgamento e limitada a consectários da condenação.
+Quanto ao momento em que deva ocorrer o arbitramento dos honorários recursais (art. 85, § 11, do CPC/2015), afigura-se-me acertado o entendimento segundo o qual incidem apenas quando esta Corte julga, pela vez primeira, o recurso, sujeito ao Código de Processo Civil de 2015, que inaugure o grau recursal, revelando-se indevida sua fixação em agravo interno e embargos de declaração.
+Registre-se que a possibilidade de fixação de honorários recursais está condicionada à existência de imposição de verba honorária pelas instâncias ordinárias, revelando-se vedada aquela quando esta não houver sido imposta.
+Na aferição do montante a ser arbitrado a título de honorários recursais, deverão ser considerados o trabalho desenvolvido pelo patrono da parte recorrida e os requisitos previstos nos §§ 2º a 10 do art. 85 do estatuto processual civil de 2015, sendo desnecessária a apresentação de contrarrazões (v.g. STF, Pleno, AO 2.063 AgR/CE, Rel. Min. Marco Aurélio, Redator para o acórdão Min. Luiz Fux, j. 18.05.2017), embora tal elemento possa influir na sua quantificação.
+Nessa linha a compreensão da Corte Especial deste Tribunal Superior (v.g.: AgInt nos EAREsp 762.075/MT, Rel. Min. Felix Fischer, Rel. p/ acórdão Min. Herman Benjamin, DJe 07.03.2019).
+Assim, nos termos do art. 85, §§ 2º e 11, de rigor a majoração, em 20% (vinte por cento), dos honorários anteriormente fixados (fl. 27.983e).
+Posto isso, com fundamento nos arts. 932, III, do Código de Processo Civil de 2015 e 34, XVIII, a, e 255, I, ambos do RISTJ, NÃO CONHEÇO do Recurso Especial.
+Publique-se  e  intimem-se.
+EMENTA
