@@ -1,0 +1,18 @@
+DECISÃO
+Trata-se de recurso ordinário em habeas corpus interposto por FLAVIO RABELO ARCANJO contra acórdão proferido pelo Tribunal de Justiça do Estado do Mato Grosso do Sul, que negou provimento ao agravo interno interposto nos autos do HC n. 1404438-69.2026.8.12.0000/50000, manejado contra a decisão que indeferiu liminarmente a inicial do habeas corpus lá impetrado.
+Neste recurso, a defesa sustenta a ocorrência de bis in idem na dosimetria da pena, ao argumento de que a natureza e a quantidade da droga apreendida foram utilizadas tanto para exasperar a pena-base quanto para afastar a incidência da causa de diminuição prevista no art. 33, § 4º, da Lei n. 11.343/2006.
+Aduz, ainda, que o recorrente preencheria os requisitos necessários ao reconhecimento do tráfico privilegiado, por ser primário e ostentar bons antecedentes, afirmando que o afastamento da minorante decorreu e xclusivamente de presunção fundada na quantidade de entorpecente apreendido, sem elementos concretos indicativos de dedicação à atividade criminosa.
+Sustenta, também, a inadequação do regime inicial fechado, fixado, segundo a defesa, com fundamentação genérica, apesar de a pena definitiva ter sido estabelecida em patamar inferior a oito anos, requerendo a fixação de regime mais brando.
+Ao final, requer, liminarmente, a suspensão dos efeitos do acórdão recorrido e, no mérito, o provimento do recurso para afastar o alegado bis in idem, reconhecer a incidência do tráfico privilegiado e adequar o regime inicial de cumprimento da pena.
+É o relatório.
+Consta dos autos que o recorrente foi condenado às penas de pena de 5 anos e 10 meses de reclusão, além de multa, pelo crime de tráfico de drogas (apreensão de 450,5 kg de maconha e 1,4 kg de haxixe), e detenção pelo delito de desobediência, fixado o regime inicial fechado em razão da quantidade e natureza das drogas e das circunstâncias do crime.
+Ao apreciar a controvérsia, o Tribunal de origem assentou a impossibilidade de utilização do habeas corpus como sucedâneo recursal e afastou a existência de ilegalidade flagrante, destacando que a exasperação da pena-base, o afastamento do tráfico privilegiado e a fixação do regime fechado foram fundamentados em elementos concretos extraídos das circunstâncias do caso, especialmente na quantidade e natureza dos entorpecentes e nos indícios de dedicação a atividades criminosas.
+Pois bem. As instâncias ordinárias reconheceram a dedicação do recorrente a atividades criminosas com base nas circunstâncias concretas do flagrante, especialmente no modus operandi empregado para o transporte interestadual de expressiva quantidade de 450kg de maconha e 1,4kg de haxixe.
+Desse modo, a pretensão defensiva de conferir nova valoração jurídica aos fatos exigiria o revolvimento do acervo fático-probatório, providência incompatível com a via estreita do habeas corpus.
+Nesse sentido: AgRg no HC n. 1.038.318/DF, relator Ministro Carlos Pires Brandão, Sexta Turma, julgado em 4/3/2026, DJEN de 10/3/2026.
+Também não se verifica constrangimento ilegal na fixação do regime prisional, uma vez que a medida foi devidamente fundamentada nas circunstâncias judiciais desfavoráveis e nas particularidades concretas do delito.
+Ante o exposto, nego provimento ao recurso.
+Publique-se.
+EMENTA
+DIREITO PENAL E PROCESSUAL PENAL. RECURSO ORDINÁRIO EM HABEAS CORPUS. TRÁFICO DE DROGAS E DESOBEDIÊNCIA. RECONHECIMENTO DO TRÁFICO PRIVILEGIADO. DEDICAÇÃO A ATIVIDADES CRIMINOSAS. MODUS OPERANDI. TRANSPORTE INTERESTADUAL DE EXPRESSIVA QUANTIDADE DE ENTORPECENTES. 450KG DE MACONHA E 1,4KG DE HAXIXE. REVOLVIMENTO DE MATÉRIA FÁTICO-PROBATÓRIA. REGIME INICIAL FECHADO. FUNDAMENTAÇÃO CONCRETA. AUSÊNCIA DE CONSTRANGIMENTO ILEGAL.
+Recurso improvido.
