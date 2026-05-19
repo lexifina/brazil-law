@@ -1,0 +1,17 @@
+DECISÃO
+Trata-se de habeas corpus, impetrado em nome de CLEYTON MACHARETE DOS SANTOS - condenado por furto qualificado à pena de 4 anos e 9 meses de reclusão e 156 dias-multa (fls. 47/63 - Ação Penal n. 0800288-11.2024.8.19.0052, da Vara Criminal da comarca de Araruama/RJ) -, apontando como ato coator o acórdão de apelação criminal proferido pelo Tribunal de Justiça do Rio de Janeiro, que negou provimento ao recurso defensivo (fls. 47/63).
+A impetração busca o redimensionamento da pena-base, a compensação entre a atenuante da confissão espontânea e a agravante da reincidência e a fixação de regime menos gravoso que o fechado, sustentando:
+a) desproporcionalidade na exasperação da pena-base, pois a adoção do critério de 1/8 sobre o intervalo entre as penas mínima e máxima gerou aumento de 9 meses por vetorial negativa, enquanto o critério de 1/6 sobre a pena mínima resultaria em acréscimo de 4 meses por vetorial (fl. 4);
+b) ausência de motivação idônea para a escolha do critério mais severo na primeira fase, porque o Tribunal de origem teria apenas afirmado que ambos os métodos são aceitos pela jurisprudência do STJ, sem justificar concretamente a opção mais gravosa (fls. 4/5);
+c) necessidade de compensação proporcional ou integral entre a confissão espontânea e a reincidência, pois a confissão teria sido utilizada como fundamento relevante para a condenação, atraindo a incidência da Súmula n. 545/STJ (fls. 6/7); e
+d) necessidade de revisão do regime inicial de cumprimento de pena, com fixação de regime menos gravoso que o fechado, em conformidade com o novo quantum de pena estabelecido (fl. 7).
+É o relatório.
+O writ é inadmissível, pois busca nova revisão da condenação imposta e mantida pelas instâncias ordinárias (HC n. 1.021.432/MG, de minha relatoria, Sexta Turma, DJEN de 16/12/2025), sem flagrante constrangimento ilegal apto a superar o óbice.
+No julgamento da apelação, o Tribunal manteve a pena-base acima do mínimo legal, com aumento de 3/8 sobre a diferença entre os limites mínimo e máximo, em razão dos maus antecedentes, das circunstâncias do crime e das consequências do delito, fixando-a em 4 anos e 3 meses de reclusão e 139 dias-multa (fls. 60/62), critério proporcional às vetoriais negativas e aos elementos concretos do caso, em consonância com o entendimento desta Corte Superior (HC n. 811.615/RJ, de minha relatoria, Sexta Turma, DJEN de 22/4/2026).
+Também não procede a pretensão de compensação integral entre a confissão espontânea e a reincidência, pois, diante da multirreincidência, a agravante deve preponderar sobre a atenuante, tendo sido mantida a pena intermediária em 4 anos e 9 meses de reclusão e 156 dias-multa (fl. 62), conforme a jurisprudência deste Tribunal (AgRg no HC n. 711.659/SC, Ministro Antonio Saldanha Palheiro, Sexta Turma, DJEN de 8/4/2025).
+Por fim, o regime inicial mais gravoso foi preservado porque a pena definitiva é de 4 anos e 9 meses de reclusão e o paciente é reincidente (fls. 62/63), nos termos do art. 33, § 2º, "a" e "b", e § 3º, do Código Penal.
+Ante o exposto, indefiro liminarmente a inicial (art. 210 do RISTJ).
+Publique-se.
+EMENTA
+PENAL. HABEAS CORPUS. FURTO QUALIFICADO. DOSIMETRIA. PRETENSÃO DE REVISÃO DA CONDENAÇÃO IMPOSTA E MANTIDA PELAS INSTÂNCIAS ORDINÁRIAS. PENA-BASE. CIRCUNSTÂNCIAS JUDICIAIS NEGATIVAS. CRITÉRIO DE EXASPERAÇÃO PROPORCIONAL. CONFISSÃO ESPONTÂNEA E MULTIRREINCIDÊNCIA. COMPENSAÇÃO PARCIAL. REGIME INICIAL FECHADO. PENA SUPERIOR A QUATRO ANOS E REINCIDÊNCIA. CONSTRANGIMENTO ILEGAL MANIFESTO. AUSÊNCIA.
+Inicial indeferida liminarmente.
