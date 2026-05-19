@@ -1,0 +1,22 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de ANTONIO MACIEL SOARES CAVALCANTE, apontando como autoridade coatora o Tribunal de Justiça do Estado de São Paulo, no julgamento do Recurso em Sentido Estrito n. 1501441-77.2023.8.26.0052.
+Consta dos autos que o paciente foi denunciado pela suposta prática de homicídio qualificado (art. 121, § 2º, inciso III, do CP), fato ocorrido em 26 de novembro de 2023. O paciente encontra-se custodiado preventivamente desde 21 de setembro de 2024. Após a instrução, sobreveio decisão de pronúncia, a qual foi mantida pelo Tribunal de origem.
+A defesa alega, em síntese, a ocorrência de constrangimento ilegal por excesso de prazo na segregação cautelar, ressaltando que o paciente está preso há quase 20 meses sem que haja previsão para o julgamento pelo Tribunal do Júri . Sustenta que a Súmula nº 21 desta Corte Superior deve ser mitigada, uma vez que a demora seria irrazoável e não provocada pela defesa .
+Argumenta, ainda, que a decisão que manteve a prisão preventiva carece de fundamentação concreta e contemporaneidade, baseando-se apenas na gravidade abstrata do delito e ignorando as condições pessoais favoráveis do paciente, como primariedade, residência fixa e ocupação lícita como mestre de obras .
+Requer, liminarmente e no mérito, a revogação da prisão preventiva ou a sua substituição por medidas cautelares alternativas previstas no art. 319 do Código de Processo Penal.
+É o relatório.
+Decido.
+Esta Corte e o Supremo Tribunal Federal pacificaram o entendimento de que não cabe habeas corpus como substitutivo do recurso legalmente previsto para a hipótese, impondo-se o não conhecimento da impetração, salvo quando constatada a existência de flagrante ilegalidade no ato judicial impugnado (STJ, HC n. 535.063/SP, Terceira Seção, Relator Ministro Sebastião Reis Junior, julgado em 10/6/2020, DJe de 25/8/2020; STF, AgRg no HC n. 180.365/PB, Primeira Turma, Relatora Ministra Rosa Weber, julgado em 27/3/2020, DJe de 2/4/2020; e AgRg no HC n. 147.210/SP, Segunda Turma, Relator Ministro Edson Fachin, julgado em 30/10/2018, DJe de 20/2/2020).
+Ademais, é consolidada a jurisprudência deste Superior Tribunal de Justiça no sentido de que a prerrogativa do relator para julgar monocraticamente o habeas corpus e o respectivo recurso não é afastada pelas normas regimentais que preveem a oitiva prévia do Ministério Público Federal (arts. 64, III, e 202 do RISTJ), notadamente quando a matéria se conforma com o entendimento dominante desta Corte (AgRg no HC n. 856.046/SP, de relatoria do Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 24/10/2023, DJe de 30/10/2023).
+Assim, passo à análise das razões da impetração, de forma a verificar a ocorrência de flagrante ilegalidade a justificar a concessão do habeas corpus, de ofício.
+Da análise minuciosa dos autos, verifica-se que as teses referentes ao excesso de prazo da prisão e à ausência de fundamentação idônea para a manutenção da segregação cautelar não foram objeto de exame efetivo e exauriente pelo Tribunal de Justiça de São Paulo no acórdão ora impugnado. O aresto atacado limitou-se a confirmar a decisão de pronúncia, enfrentando os requisitos do art. 413 do Código de Processo Penal, sem, contudo, debruçar-se sobre os fundamentos da cautelaridade ou sobre a dilação temporal do processo após o encerramento da primeira fase do rito do júri.
+Dessa forma, a apreciação originária dessas matérias por esta Corte Superior configuraria indevida supressão de instância, o que obsta o conhecimento do writ.
+A propósito:
+AGRAVO  REGIMENTAL  NO  RECURSO  EM  HABEAS  CORPUS.  NÃO  CONHECIMENTO.  WRIT  SUCEDÂNEO  DE  REVISÃO  CRIMINAL.  SUPRESSÃO  DE  INSTÂNCIA.  ILEGALIDADE  FLAGRANTE  QUE  AUTORIZA  A  CONCESSÃO  DE  ORDEM  DE  OFÍCIO.  NULIDADE  NA  PRODUÇÃO  DA  PROVA.  NÃO  VERIFICADA.  AGRAVO  REGIMENTAL  DESPROVIDO.
+ ..
+2.  O  exame  pelo  Superior  Tribunal  de  Justiça  de  matéria  que  não  foi  apreciada  pelas  instâncias  ordinárias  enseja  indevida  supressão  de  instância,  com  explícita  violação  da  competência  originária  para  o  julgamento  de  habeas  corpus  (art.  105,  I,  c,  da  Constituição  Federal).
+ ..
+(AgRg  no  RHC  n.  182.899/PB,  relator  Ministro  Jesuíno  Rissato  (Desembargador  Convocado  do  TJDFT),  Sexta  Turma,  julgado  em  8/4/2024,  DJe  de  11/4/2024).
+Ante o exposto, indefiro liminarmente o habeas corpus.
+Publique-se. Intimem-se.
+ EMENTA
