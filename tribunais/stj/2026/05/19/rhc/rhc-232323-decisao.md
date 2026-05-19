@@ -1,0 +1,30 @@
+DECISÃO
+Trata-se de recurso ordinário em habeas corpus, com pedido liminar, interposto por JOYCIANNE BESERRA DA SILVA contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO PARANÁ.
+Consta nos autos que a recorrente teve a prisão temporária decretada, encontrando-se denunciada pela suposta prática das condutas descritas "Artigo 35 c/c artigo 40, incisos IV (emprego de arma de fogo) e V (tráfico interestadual), da Lei nº 11.343/06 (FATO 02)" (fl. 17).
+Irresignada, a defesa impetrou habeas corpus perante o Tribunal de Justiça de origem, que denegou a ordem em acórdão às fls. 75-83.
+Neste recurso sustenta, em suma, a ausência de fundamentação concreta e idônea da decisão que decretou a prisão em desfavor da recorrente ponderando suas condições pessoais favoráveis e que é mãe de criança menor de 12 anos.
+Alega, ainda, a inobservância do art. 316, parágrafo único, do Código de Processo Penal.
+Argumenta que houve decretação de prisão de ofício, em afronta ao enunciado da súmula n.º 676 do Superior Tribunal de Justiça.
+Requer o relaxamento ou a revogação da prisão preventiva e, subsidiariamente, sua substituição por medida cautelar diversa, ou ainda, a colocação da recorrente em prisão domiciliar.
+Liminar indeferida, às fls. 108-109.
+informações prestadas, às fls. 114-116.
+O Ministério Público Federal em parecer, às fls. 121-125, opinou pelo não provimento do recurso.
+É o relatório. DECIDO.
+Na hipótese, verifico que o recurso não ultrapassa a barreira do conhecimento, seja em razão da evidente supressão de instância, seja em virtude da prejudicialidade da pretensão ou mesmo em face da própria deficiência de instrução dos autos.
+Primeiro, constato que as teses trazidas neste recurso ordinário referente a possibilidade de imposição de prisão domiciliar, inobservância do prazo nonagesimal de revisão da prisão cautelar e decretação de prisão de ofício, partem do título que embasou a prisão temporária.
+Todavia, conforme se depreende dos autos a recorrente se encontra atualmente em prisão preventiva, sobre a qual não houve manifestação do Tribunal de origem acerca da presença dos seus requisitos a teor do art. 312, do Código de Processo Penal.
+Aliás, no que tange à alegação de que houve decretação de prisão de ofício, verifico que a questão, sequer, foi alegada perante o tribunal de origem; por óbvio também não foi discutida no acórdão impugnado.
+Assim, tenho que as questões ventiladas na inicial não foram analisadas pelo Tribunal local, considerando a alteração do título que embasa a prisão da recorrente, que agora se encontra em prisão preventiva, e tal fato inviabiliza o exame da matéria por este Superior Tribunal de Justiça, sob pena de indevida supressão de instância.
+Ilustrativamente:
+"No mais, verifica-se que o pedido de prisão domiciliar não foi objeto de análise pelo colegiado do Tribunal de origem, razão pela qual dele não se poderá conhecer, por indevida e dupla supressão de instância, visto que não foi nem sequer objeto de análise pelo Juízo da execução criminal. Logo, não debatidas as questões pela Corte a quo, é firme o entendimento de que "fica obstada sua análise a priori pelo Superior Tribunal de Justiça, sob pena de dupla e indevida supressão de instância, e violação dos princípios do duplo grau de jurisdição e devido processo legal" (RHC n. 126.604/MT, rel. Min. Antonio Saldanha Palheiro, Sexta Turma, julgado em 7/12/2020, DJe 16/12/2020). (AgRg no HC n. 904.983/SP, Sexta Turma, Rel. Min. Jesuíno Rissato (Desembargador Convocado do TJDFT), DJe de 16/8/2024.)
+"Quanto ao pedido de prisão domiciliar, consoante consignado na decisão agravada, a questão não foi examinada pelo Tribunal de origem no acórdão impugnado (HC n. 2339951-88.2023.8.26.0000), tampouco no acórdão proferido no writ mencionado pela defesa nas razões do anterior agravo interno (HC n. 2118593-17.2024.8.26.0000, o qual foi impetrado objetivando justamente a prisão no domicílio), o que impede o exame da matéria por esta Corte Superior, sob pena de indevida supressão de instância. Neste último habeas corpus (HC n. 2118593-17.2024.8.26.0000), a petição inicial foi indeferida em razão da compreensão de que "ao paciente faculta-se a interposição de agravo em execução, visando à reforma da decisão contra a qual ora se insurge, não sendo o "Habeas Corpus" a via adequada para tal" (AgRg no AgRg na TutAntAnt n. 255/SP, Sexta Turma, Rel. Min. Antonio Saldanha Palheiro, DJe de 20/6/2024.)
+Depois, cumpre consignar que, de acordo com o entendimento sedimentado por esta Corte, o presente feito encontra-se prejudicado, uma vez que se insurge contra decreto prisional que não mais subsiste devido à superveniência de novo título prisional com novos fundamentos.
+A propósito:
+"Conforme sedimentado pela jurisprudência do Superior Tribunal de Justiça, os fundamentos acrescidos ao novo título adotado para justificar a custódia cautelar devem ser previamente submetidos à análise do Tribunal de origem, sob pena de se incidir em indevida supressão de instância " (HC n. 811.181, Ministro Joel Ilan Paciornik, DJe de 11/09/2023).
+Por fim, a despeito da alegação, à fl. 93, de que houve conversão da prisão em preventiva sem fundamentação idônea, verifico que a questão, além de se tratar de supressão de instância, encontra óbice na deficiência de instrução, pois não foi juntada a cópia do inteiro teor da decisão que decretou a segregação cautelar.
+Sobre o tema, deve-se asseverar que, segundo orientação firmada no âmbito desta Corte, constitui ônus do impetrante instruir os autos com os documentos necessários à exa ta compreensão da controvérsia, sob pena de não conhecimento do writ.
+A propósito:
+"Em sede de habeas corpus, a prova deve ser pré-constituída e incontroversa, cabendo aos impetrantes apresentar documentos suficientes à análise de eventual ilegalidade flagrante no ato atacado" (AgRg no HC n. 774.358/PE, relator Ministro Ribeiro Dantas, Quinta Turma, DJe de 15/12/2022).
+Ante o exposto, não conheço do recurso em habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
