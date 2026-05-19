@@ -1,0 +1,48 @@
+DECISÃO: Trata-se de recurso extraordinário em face de acórdão do Tribunal Regional Federal da 4ª Região, ementado nos seguintes termos:
+
+“DIREITO PREVIDENCIÁRIO. APELAÇÃO CÍVEL. RECONHECIMENTO DE TEMPO DE SERVIÇO ESPECIAL. CONTRIBUINTE INDIVIDUAL. REVISÃO DE APOSENTADORIA. RECURSO DESPROVIDO.
+I. CASO EM EXAME:
+1. Apelação cível interposta pelo INSS contra sentença que reconheceu o tempo de serviço especial nos períodos de 01/08/1973 a 31/12/1978 e 01/02/1979 a 31/08/2008, determinando a revisão da aposentadoria por tempo de contribuição e o pagamento de parcelas em atraso. O INSS alega a necessidade de suspensão do processo (Tema 1124/STJ), a impossibilidade de reconhecimento de tempo especial para contribuinte individual após 29/04/1995, e a fixação do termo inicial dos efeitos financeiros na data da citação ou do pedido de revisão.
+II. QUESTÃO EM DISCUSSÃO:
+2. Há três questões em discussão: (i) a possibilidade de reconhecimento de tempo de serviço especial para segurado contribuinte individual, especialmente após 29/04/1995; (ii) a definição do termo inicial dos efeitos financeiros do benefício revisado; e (iii) a necessidade de suspensão do processo em razão do Tema 1124/STJ.
+III. RAZÕES DE DECIDIR:
+3. A preliminar de ausência de interesse processual foi afastada, pois o caráter social da previdência e o dever do INSS de orientar o segurado justificam o processamento da demanda judicial.
+4. A especialidade da atividade de marceneiro no período de 01/08/1973 a 31/12/1978 foi reconhecida devido à exposição a agentes químicos (hidrocarbonetos aromáticos em tintas, adesivos e solventes) e poeira vegetal. Para este período anterior a 28/04/1995, a habitualidade da exposição era suficiente, e a avaliação qualitativa dos agentes químicos é admitida, sendo irrelevante o uso de EPI antes de 03/12/1998, conforme a Lei nº 9.732/1998.
+5. A especialidade da atividade de empresário/marceneiro no período de 01/02/1979 a 31/08/2008, como contribuinte individual, foi reconhecida pela exposição a ruído. A jurisprudência do STJ e da TNU admite o reconhecimento de tempo especial para contribuinte individual, afastando a ilegalidade do art. 64 do Decreto nº 3.048/1999 e a necessidade de custeio específico.
+6. A prova testemunhal, corroborada por documentos e laudo pericial, demonstrou a exposição habitual e permanente a ruído, sendo o uso de EPI insuficiente para elidir a nocividade do ruído excessivo, conforme o Tema 555 do STF.
+7. A metodologia de aferição do ruído está em conformidade com o Tema 1083 do STJ, que permite a utilização do Nível de Exposição Normalizado (NEN) ou do pico de ruído na ausência do NEN.
+8. A suspensão do processo em razão do Tema 1124/STJ foi afastada, pois o caso não se amolda à matéria afetada, uma vez que o direito já estava razoavelmente demonstrado por início de prova material na data do requerimento administrativo (DIB).
+9. O termo inicial dos efeitos financeiros do benefício revisado foi mantido na DIB (11/09/2008), observada a prescrição quinquenal das parcelas anteriores a 30/09/2011.
+10. Os honorários advocatícios foram majorados em 20% sobre o percentual fixado, com base no art. 85, §11, do CPC e no Tema 1059/STJ, em razão do desprovimento integral do recurso.
+11. A imediata implantação do benefício revisado foi determinada, conforme os arts. 497, 536 e 537 do CPC, considerando a natureza da obrigação de fazer e a ausência de efeito suspensivo a eventuais recursos.
+IV. DISPOSITIVO E TESE:
+12. Recurso desprovido. Tese de julgamento:
+13. O reconhecimento de tempo de serviço especial para segurado contribuinte individual é possível, independentemente de custeio específico, desde que comprovada a efetiva exposição a agentes nocivos, como ruído e agentes químicos, sendo a prova judicial acessória suficiente para fixar os efeitos financeiros na DIB”. (eDOC 72 – ID: 705c7876)
+
+No recurso extraordinário, interposto com fundamento no art. 102, III, “a”, da Constituição Federal, aponta-se violação aos arts. 2º, 37, caput, 194, III, 195, § 5º e 201, caput e § 1º, II, do texto constitucional. (eDOC 79 – ID: d4ff23ce)
+Nas razões recusais, insurge-se contra acórdão que reconheceu como especial o tempo de serviço prestado por contribuinte individual não cooperado e sem a observância do requisito da efetiva exposição a agentes nocivos.
+Alega-se que “segundo as regras atualmente em vigor, a aposentadoria especial somente é devida aos segurados empregado, trabalhador avulso”. (eDOC 79 – ID: d4ff23ce, p. 5)
+É o relatório.
+Decido.
+A Corte de origem assentou que  o reconhecimento de tempo de serviço especial para segurado contribuinte individual é possível, independentemente de custeio específico, desde que comprovada a efetiva exposição a agentes nocivos, como ruído e agentes químicos, sendo a prova judicial acessória suficiente para fixar os efeitos financeiros na DIB. Nesses termos, colho trecho do acórdão recorrido:
+
+“A sentença analisou com precisão os pontos relevantes da lide, devolvidos à apreciação do Tribunal, assim como o respectivo conjunto probatório produzido nos autos. As questões suscitadas no recurso não têm o condão de ilidir os fundamentos da decisão recorrida. Evidenciando-se a desnecessidade da construção de nova fundamentação jurídica, destinada à confirmação da bem lançada sentença, transcrevo e adoto como razões de decidir os seus fundamentos, in verbis:
+(...)
+Em conclusão, deve ser reconhecida a especialidade das atividades desempenhadas pela parte autora nos intervalos de 01/08/1973 a 31/12/1978 e 01/02/1979 a 31/08/2008.
+Com efeito, nos termos da fundamentação deste voto, não merece trânsito a alegação do INSS no sentido de que, a partir de 29/04/1995, não é possível o reconhecimento de tempo especial para segurados contribuintes individuais, sem que sejam cooperados filiados à cooperativa de trabalho e de produção.
+A falta de previsão legal para essa categoria de segurados recolher um valor correspondente ao custeio específico da aposentadoria especial não pode obstar-lhe o reconhecimento da especialidade, o que se constituiria em ato discriminatório, se ele exerceu atividade enquadrável como especial.
+O art. 57 da Lei 8213/1991 não excepciona o direito à aposentadoria especial aos contribuintes individuais, e não há previsão legal de financiamento específico como pré-requisito ao reconhecimento da especialidade das atividades prestadas por esses segurados. Assim, tendo contribuído regularmente, deve ser reconhecida a especialidade dos períodos em que os contribuintes individuais comprovarem ter laborado em exposição a agentes nocivos.
+Nesse contexto, comprovada a especialidade dos períodos de 01/08/1973 a 31/12/1978 e 01/02/1979 a 31/08/2008, deve ser mantida a sentença e igualmente mantido o direito da parte autora, nela reconhecido, à revisão da aposentadoria, a contar da DIB, em 2008, observada a prescrição das parcelas anteriores a 30/09/2011. (...)”. (eDOC 72 – ID: 705c7876, p. 13-17)
+
+Registre-se que, recentemente, o Plenário desta Corte, no julgamento do Tema 1447 da repercussão geral, cujo paradigma é o RE 1588024 RG, Rel. Min. Presidente, DJe 27.04.2026, rejeitou a repercussão geral da matéria discutida nos presente autos e fixou a seguinte tese: “É infraconstitucional, a ela se aplicando os efeitos da ausência de repercussão geral, controvérsia sobre direito do segurado contribuinte individual não cooperado à aposentadoria especial e quanto aos meios de prova da especialidade de sua atividade”. Confira-se a ementa do julgado:
+
+“DIREITO PREVIDENCIÁRIO. APOSENTADORIA ESPECIAL. SEGURADO CONTRIBUINTE INDIVIDUAL NÃO COOPERADO. EXCESSO DE PODER REGULAMENTAR. MEIOS DE PROVA. FONTE DE CUSTEIO. MATÉRIA INFRACONSTITUCIONAL. AUSÊNCIA DE REPERCUSSÃO GERAL. I. O Caso Em Exame: 1. Recursos extraordinários interpostos contra acórdão da Primeira Seção do Superior Tribunal de Justiça, proferido sob a sistemática dos recursos especiais repetitivos (Tema 1291), que garantiu ao segurado contribuinte individual não cooperado direito à aposentadoria especial, mesmo após a edição da Lei n. 9.032/1995. Ii. A Questão Em Discussão 2. Discute-se se o contribuinte individual não cooperado tem direito à aposentadoria especial diante do regramento previsto no art. 64 do Decreto n. 3.048/1999, bem como se a ausência de prévia fonte de custeio impediria a concessão do benefício. Iii. Razões De Decidir 3. A jurisprudência deste Supremo Tribunal Federal é firme no sentido de que o conflito entre decreto regulamentar e a lei que lhe serve de fundamento de validade configura hipótese de ilegalidade, não de inconstitucionalidade. 4. A análise acerca da comprovação da atividade especial (Tema 852-RG) e da suficiência da fonte de custeio de benefício previdenciário demanda o exame de normas infraconstitucionais, providência incabível em sede de recurso extraordinário. Iv. Dispositivo E Tese 5. Recursos extraordinários não conhecidos. Tese de julgamento: “É infraconstitucional, a ela se aplicando os efeitos da ausência de repercussão geral, controvérsia sobre direito do segurado contribuinte individual não cooperado à aposentadoria especial e quanto aos meios de prova da especialidade de sua atividade”.
+
+Ante o exposto, nego seguimento ao recurso (art. 932, VIII, do CPC, c/c art. 21, §1º, do RISTF) e, tendo em vista o disposto no art. 85, § 11, do CPC, majoro, em 10%, o valor da verba honorária fixada anteriormente (eDOC 72 – ID: 705c7876, p. 17), observados os limites previstos nos §§ 2º e 3º do referido dispositivo, ressalvada a eventual concessão do benefício da justiça gratuita.
+
+Publique-se.
+Brasília, 19 de maio de 2026.
+
+Ministro GILMAR MENDES
+Relator
+Documento assinado digitalmente
