@@ -1,0 +1,54 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de MARCELO DE MEDEIRO GOMES, apontando como autoridade coatora o TRIBUNAL DE JUSTIÇA DO DISTRITO FEDERAL E DOS TERRITÓRIOS, que, nos autos da Revisão Criminal n. 0718594-44.2026.8.07.0000, indeferiu a liminar.
+Consta dos autos que o paciente foi condenado pela prática do crime previsto no art. 140, § 3º, do Código Penal, à pena de 2 (dois) anos e 15 (quinze) dias de reclusão, em regime inicial semiaberto, além de 15 (quinze) dias-multa.
+A defesa alega que a condenação teria se baseado em capturas de tela de conversas de aplicativo desprovidas de validação técnica mínima e de cadeia de custódia, em afronta aos arts. 155 e 158-A a 158-F do Código de Processo Penal.
+Sustenta que o Laudo de Perícia Criminal n. 62.969/2024, produzido pelo Instituto de Criminalística, concluiu pela inexistência, no aparelho do paciente, das mensagens imputadas, tendo as únicas conversas encontradas datado de período posterior aos fatos (12 de abril de 2023 a 18 de outubro de 2023).
+Argumenta, ainda, que não foi possível submeter a exame pericial o dispositivo da testemunha que teria extraído os "prints", por não mais possuir os arquivos originais, o que inviabiliza aferição de autenticidade, integridade e origem, agravando a fragilidade probatória e impedindo qualquer confirmação técnica.
+Aponta violação ao princípio do contraditório e à presunção de inocência, porquanto a decisão teria reputado válidos elementos informativos sem submissão plena ao crivo judicial, e afirma que há ausência de dolo específico de injuriar vinculado à condição de idosa da vítima, além de possibilidade de interpretação diversa do conteúdo em contexto de conflito laboral.
+A defesa ressalta, também, ilegalidade na primeira fase da dosimetria, por ausência de fundamentação idônea e violação aos princípios da individualização da pena e da proporcionalidade.
+Requer, liminarmente, a suspensão da expedição da carta de sentença e o início do cumprimento da pena até o julgamento final desta impetração e da Revisão Criminal n. 0718594-44.2026.8.07.0000. Subsidiariamente, pugna pela cassação dos atos executórios, com expedição de alvará de soltura, se aplicável, ou suspensão de quaisquer medidas constritivas de liberdade; pela redução da pena-base ao mínimo legal; e pela absolvição por ausência de autoria e materialidade, nos termos do art. 386, VII, do Código de Processo Penal.
+É o relatório.
+Decido.
+Constata-se, desde logo, que a pretensão não pode ser acolhida por esta Corte Superior, pois a matéria não foi examinada pelo Tribunal de origem, que ainda não julgou o mérito do writ originário.
+Trata-se da aplicação, por analogia, do verbete sumular 691 do Supremo Tribunal Federal, adotado por esta Corte Superior, que assim dispõe:
+Não compete ao Supremo Tribunal Federal conhecer de habeas corpus contra decisão do relator que, em habeas corpus requerido a Tribunal Superior, indefere a liminar.
+Confiram-se, a propósito, os seguintes julgados:
+DIREITO PROCESSUAL PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. HABEAS CORPUS IMPETRADO CONTRA INDEFERIMENTO DE LIMINAR EM REVISÃO CRIMINAL. INCIDÊNCIA ANALÓGICA DA SÚMULA N. 691/STF. AUSÊNCIA DE TERATOLOGIA OU ILEGALIDADE FLAGRANTE. SUPRESSÃO DE INSTÂNCIA. AGRAVO DESPROVIDO.
+I. CASO EM EXAME
+1. Agravo regimental interposto contra decisão monocrática de relator em Tribunal Superior que indeferiu liminarmente habeas corpus impetrado em face de decisão singular de desembargador de Tribunal de Justiça que, em revisão criminal, indeferiu pedido de liminar.
+II. QUESTÃO EM DISCUSSÃO
+2. A questão em discussão consiste em saber se é possível superar o óbice da Súmula n. 691 do Supremo Tribunal Federal, admitindo o habeas corpus impetrado contra decisão que apenas indeferiu liminar em revisão criminal na origem, diante da alegação de flagrante ilegalidade na condenação fundada exclusivamente em reconhecimento fotográfico realizado em desacordo com o art. 226 do Código de Processo Penal e sem prova judicial corroboradora.
+III. RAZÕES DE DECIDIR
+3. Aplica-se, por analogia, a Súmula n. 691 do Supremo Tribunal Federal, segundo a qual não se conhece de habeas corpus impetrado contra decisão que indefere liminar na instância de origem, salvo em hipóteses de flagrante ilegalidade ou teratologia, o que vincula a atuação do Tribunal Superior.
+4. Não se verifica, prima facie, situação de teratologia, abuso de poder ou ilegalidade manifesta na decisão que indeferiu a liminar na revisão criminal, de modo que não se justifica a mitigação da diretriz da Súmula n. 691 do STF.
+5. A análise do mérito da impetração originária compete, em primeiro lugar, à Corte de origem, de modo que a intervenção antecipada do Tribunal Superior configuraria indevida supressão de instância, impondo-se aguardar o julgamento de mérito da revisão criminal.
+6. A ausência de argumentos novos capazes de infirmar os fundamentos da decisão agravada conduz à manutenção do indeferimento liminar do habeas corpus.
+IV. DISPOSITIVO E TESE
+7. Resultado do Julgamento: Agravo regimental não provido.
+Tese de julgamento:
+1. O habeas corpus impetrado contra decisão que apenas indefere liminar em revisão criminal na instância de origem não é cabível, por incidência analógica da Súmula n. 691 do STF, salvo em hipóteses de flagrante ilegalidade, teratologia ou abuso de poder demonstrados de plano.
+2. Na ausência de flagrante ilegalidade ou teratologia, o Tribunal Superior deve aguardar o julgamento de mérito da impetração pela Corte de origem, sob pena de indevida supressão de instância.
+Dispositivos relevantes citados: Súmula n. 691/STF; CPP, art. 226.
+Jurisprudência releva nte citada: STJ, AgRg no HC 631.810/SP, Quinta Turma, DJe 17.12.2020; STJ, AgRg no HC 623.057/BA, Sexta Turma, DJe 02.12.2020.
+(AgRg no HC n. 1.069.784/SP, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 22/4/2026, DJEN de 27/4/2026.)
+AGRAVO REGIMENTAL NO HABEAS CORPUS. DECISÃO DA PRESIDÊNCIA QUE INDEFERIU LIMINARMENTE O HABEAS CORPUS. SÚMULA N. 691 DO STF. REVISÃO CRIMINAL. DOSIMETRIA. MATÉRIA QUE SE CONFUNDE COM O MÉRITO. AUSÊNCIA DE MANIFESTA TERATOLOGIA. AGRAVO REGIMENTAL DESPROVIDO.
+1. A jurisprudência desta Corte Superior é firme na compreensão de que não tem cabimento o habeas corpus para desafiar decisão do relator que indeferiu o pedido liminar. Inteligência do enunciado sumular 691 do Supremo Tribunal Federal.
+2. Os rigores do mencionado verbete somente são abrandados nos casos de manifesta teratologia da decisão ou constatação de falta de razoabilidade, o que não se vislumbra no caso ora sob análise.
+3. Na presente hipótese, o desembargador relator, ao indeferir a medida emergencial, consignou que, acerca da dosimetria da pena e do regime carcerário inicial, "no caso sub examine, inexiste o que convença da necessidade da medida antecipatória perseguida pelo peticionário, máxime em cognição sumária, com a qual é de todo incompatível a análise das provas colhidas na ação penal condenatória, devendo, portanto, ser preservados, nesta etapa, a coisa julgada e seus efeitos, até o julgamento da revisão criminal pela E. Turma Julgadora".
+4. "A pretensão de revisão da dosimetria é questão passível de indeferimento do pedido de liminar, por demandar análise do próprio mérito da impetração, sobretudo no caso, em que afirmado pela Relatoria a inexistência de constrangimento ilegal sofrido pelo agravante, destacando ainda a inadequação da via eleita para análise do pleito" (AgRg no HC n. 771.937/PR, relator Ministro Olindo Menezes - Desembargador Convocado do TRF 1ª REGIÃO, Sexta Turma, julgado em 18/10/2022, DJe de 21/10/2022).
+5. Não demonstrada de plano a configuração da flagrante ilegalidade, não há como afastar o óbice ao conhecimento do remédio constitucional, devendo-se aguardar o julgamento meritório da revisão criminal ajuizada perante o Tribunal de origem, sob pena de indevida supressão de instância.
+6. Ademais , "A jurisprudência mansa e pacífica do Superior Tribunal de Justiça tem reafirmado o entendimento de ser descabido o pedido de concessão de habeas corpus de ofício, como sucedâneo recursal ou como expediente para superar vícios do recurso inadmitido, mormente porque tal iniciativa parte do próprio órgão julgador" (AgRg nos EAREsp n. 2.018.556/SC, relatora Ministra Laurita Vaz, Corte Especial, DJe de 29/9/2022).
+7. Agravo regimental desprovido.
+(AgRg no HC n. 1.077.659/SP, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 7/4/2026, DJEN de 14/4/2026.)
+A jurisprudência das Cortes Superiores admite, de fato, a superação do referido óbice em hipóteses absolutamente excepcionais, nas quais a decisão impugnada se revele manifestamente ilegal, teratológica ou configure abuso de poder.
+No caso dos autos, todavia, não identifico, em análise perfunctória, a presença de flagrante ilegalidade apta a justificar a excepcional intervenção desta Corte. A decisão monocrática que indeferiu a liminar revela o entendimento do Relator na origem, no sentido de que (fls. 32/33):
+ ..
+A liminar em revisão criminal não possui previsão legal. Trata-se de medida excepcional, reservada para caso em que se evidencia, de modo urgente, coação ilegal ou abuso de poder, em detrimento do direito de liberdade do requerente, exigindo-se a demonstração inequívoca e concomitante do periculum in mora e do fumus boni iuris, o que não se verifica no caso.
+análise da documentação trazida aos autos, observa-se que a o acórdão que se busca rescindir foi proferido em 8-maio-2025 (ID 84023718, p. 95-113). Após o Superior Tribunal de Justiça negar seguimento ao Recurso Extraordinário lá interposto, a decisão colegiada transitou em julgado em 29- abril-2026 (ID 84023757, p. 174). Logo, a condenação está coberta pelo manto da coisa julgada.
+Diante da condenação definitiva, presume-se que a persecução penal tramitou em obediência ao devido processo legal. Essa presunção subsiste até eventual desconstituição pelo mérito e, em regra, não pode ser afastada em sede liminar, razão pela qual não há falar em suspensão dos efeitos executórios da condenação.
+Além do mais, de imediato, não soa ruim consignar ainda que acaso tenha ocorrido error in judicando em relação a pena, por ser reincidente, qual for ela, iniciar-se-á no regime semiaberto, enquanto que tese em relação aos prints será sopesada pelo colegiado em virtude do explicitado em sede de Turma Criminal.
+Desse modo, em análise perfunctória, própria desta quadra processual, não se evidencia a verossimilhança necessária das alegações para justificar a concessão excepcional da medida de urgência.
+Desse modo, a análise do pleito por esta Corte implicaria adiantar-se ao exame de mérito que ainda será realizado pelo colegiado do Tribunal de origem, o qual é o juiz natural para apreciar a controvérsia.
+Ante o exposto, indefiro liminarmente o presente habeas corpus.
+Publique-se. Intimem-se.
+ EMENTA
