@@ -1,0 +1,43 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Sexta Turma, por unanimidade, acolher os embargos de declaração para sanar omissão pontual e julgar prejudicado o agravo regimental, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Carlos Pires Brandão, Og Fernandes e Sebastião Reis Júnior votaram com o Sr. Ministro Relator.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO HABEAS CORPUS. OMISSÃO. VÍCIO CONSTATADO. NOVO EXAME DO AGRAVO REGIMENTAL. IMPETRAÇÃO CONTRA DECISÃO MONOCRÁTICA EM LIMINAR. SÚMULA N. 691 DO STF. SUPERVENIÊNCIA DE ACÓRDÃO DENEGATÓRIO DO TRIBUNAL DE ORIGEM. PREJUDICIALIDADE DO RECURSO. REQUISITOS DE ADMISSIBILIDADE. MATÉRIA DE ORDEM PÚBLICA. REVISÃO A QUALQUER TEMPO. EMBARGOS DE DECLARAÇÃO ACOLHIDOS.
+1. Consoante o disposto no art. 619 do Código de Processo Penal, a oposição de embargos de declaração enseja, em síntese, o aprimoramento da prestação jurisdicional, por meio da retificação do julgado que se apresenta omisso, ambíguo, contraditório ou com erro material.
+2. O agravo regimental foi interposto contra a decisão proferida pela Presidência desta Corte, que indeferiu liminarmente o habeas corpus, em razão da incidência da Sumula n. 691 do STF. De fato, houve omissão no acórdão embargado a respeito da juntada do acórdão em que houve o julgamento definitivo do habeas corpus impetrado na origem. Novo exame do agravo regimental.
+3. Na hipótese de habeas corpus contra liminar de Desembargador(a), é correta a declaração de prejudicialidade do pedido de superação da Súmula n. 691 do STF se sobrevém o julgamento de mérito da impetração requerida ao Tribunal de Justiça. O acórdão denegatório da ordem desafia impugnação própria, não sendo mais necessária a subversão à regular ordem de competências. Precedentes.
+4. No caso, observada a petição de fls. 222-238, verifica-se que foi julgado o mérito do habeas corpus originário, razão pela qual deve ser reconhecida a perda de objeto desta impetração, que deve ser examinada nos limites de sua propositura, e sua consequente prejudicialidade.
+5. Os requisitos de admissibilidade do recurso ou da impetração constituem matéria de ordem pública, que pode ser revisada a qualquer tempo. Precedentes.
+6. Embargos de declaração acolhidos para sanar omissão pontual e julgar prejudicado o agravo regimental.
+RELATÓRIO
+O SENHOR MINISTRO ROGERIO SCHIETTI CRUZ:
+MARCIO ALVES DOS SANTOS opõe embargos de declaração ao acórdão de fls. 251-257, em que o agravo regimental não foi provido.
+O embargante sustenta, em síntese, que há omissão e contradição no julgado, pois "este impetrante juntou o acórdão denegatório do TJSP às fls. 224/238, razão pela qual, ao decorrer do trâmite do mandamus, superou-se o óbice da súmula 691/STF" (fl. 266).
+Pleiteia, portanto, a integração do julgado.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO HABEAS CORPUS. OMISSÃO. VÍCIO CONSTATADO. NOVO EXAME DO AGRAVO REGIMENTAL. IMPETRAÇÃO CONTRA DECISÃO MONOCRÁTICA EM LIMINAR. SÚMULA N. 691 DO STF. SUPERVENIÊNCIA DE ACÓRDÃO DENEGATÓRIO DO TRIBUNAL DE ORIGEM. PREJUDICIALIDADE DO RECURSO. REQUISITOS DE ADMISSIBILIDADE. MATÉRIA DE ORDEM PÚBLICA. REVISÃO A QUALQUER TEMPO. EMBARGOS DE DECLARAÇÃO ACOLHIDOS.
+1. Consoante o disposto no art. 619 do Código de Processo Penal, a oposição de embargos de declaração enseja, em síntese, o aprimoramento da prestação jurisdicional, por meio da retificação do julgado que se apresenta omisso, ambíguo, contraditório ou com erro material.
+2. O agravo regimental foi interposto contra a decisão proferida pela Presidência desta Corte, que indeferiu liminarmente o habeas corpus, em razão da incidência da Sumula n. 691 do STF. De fato, houve omissão no acórdão embargado a respeito da juntada do acórdão em que houve o julgamento definitivo do habeas corpus impetrado na origem. Novo exame do agravo regimental.
+3. Na hipótese de habeas corpus contra liminar de Desembargador(a), é correta a declaração de prejudicialidade do pedido de superação da Súmula n. 691 do STF se sobrevém o julgamento de mérito da impetração requerida ao Tribunal de Justiça. O acórdão denegatório da ordem desafia impugnação própria, não sendo mais necessária a subversão à regular ordem de competências. Precedentes.
+4. No caso, observada a petição de fls. 222-238, verifica-se que foi julgado o mérito do habeas corpus originário, razão pela qual deve ser reconhecida a perda de objeto desta impetração, que deve ser examinada nos limites de sua propositura, e sua consequente prejudicialidade.
+5. Os requisitos de admissibilidade do recurso ou da impetração constituem matéria de ordem pública, que pode ser revisada a qualquer tempo. Precedentes.
+6. Embargos de declaração acolhidos para sanar omissão pontual e julgar prejudicado o agravo regimental.
+VOTO
+O SENHOR MINISTRO ROGERIO SCHIETTI CRUZ (Relator):
+Consoante o disposto no art. 619 do Código de Processo Penal, a oposição de embargos de declaração enseja, em síntese, o aprimoramento da prestação jurisdicional, por meio da retificação do julgado que se apresenta omisso, ambíguo, contraditório ou com erro material.
+De fato, houve omissão no acórdão embargado a respeito da juntada do acórdão em que houve o julgamento definitivo do habeas corpus impetrado na origem.
+Passo a novo exame do agravo regimental.
+O recurso foi interposto contra a decisão proferida pela Presidência desta Corte, que indeferiu liminarmente o habeas corpus, em razão da incidência da Sumula n. 691 do STF.
+Todavia, observada a petição de fls. 222-238, verifica-se que foi julgado o mérito do habeas corpus originário, razão pela qual deve ser reconhecida a perda de objeto desta impetração, que deve ser examinada nos limites de sua propositura, e sua consequente prejudicialidade.
+Na hipótese de habeas corpus contra liminar de Desembargador(a), é correta a declaração de prejudicialidade do pedido de superação da Súmula n. 691 do STF se sobrevém o julgamento de mérito da impetração requerida ao Tribunal de Justiça. O acórdão denegatório da ordem desafia impugnação própria, não sendo mais necessária a subversão à regular ordem de competências.
+A propósito:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. LIMINAR, CONFIRMADA NO MÉRITO, PARA AFASTAR O ART. 482, I, "E", DO CPP. RECLAMAÇÃO. CASSAÇÃO DO ACÓRDÃO. DESCABIMENTO DE REGIMENTAL CONTRA DECISÃO QUE REAVALIA A LIMINAR. SÚMULA N. 691 DO STF. SUPERVENIÊNCIA DE ACÓRDÃO DO TRIBUNAL DE JUSTIÇA. PREJUDICIALIDADE. AGRAVO REGIMENTAL NÃO CONHECIDO. HABEAS CORPUS JULGADO PREJUDICADO.
+1. Esse habeas corpus foi impetrado contra liminar proferida por Desembargador. A Sexta Turma concedeu a ordem para, ratificada a tutela de urgência, afastar a execução imediata de condenação imposta em julgamento do Tribunal do Júri. Em reclamação, o Supremo Tribunal Federal cassou a ordem e determinou o reexame do writ, com a observância do disposto na Súmula Vinculante 10 como condição para a contrariedade ou negativa de vigência ao art. 492, I, "e", do CPP.
+2. Em nova decisão, indeferiu-se o pleito de antecipação da tutela, pois, se não cabe à Sexta Turma afastar a incidência do art. 492, I, "e", do CPP, também ao relator, monocraticamente e em juízo perfunctório, não é recomendável fazê-lo, o que significaria realizar o controle de constitucionalidade e desconsiderar, por vias transversas, o quanto decidido na Reclamação n. 57.257/MG.
+3. Haja vista a natureza da deliberação, ainda provisória, "é incabível agravo regimental contra decisão de relator que, fundamentadamente, indefere pedido de medida liminar em habeas corpus" (AgRg nos EDcl no HC n. 452.461/DF, Rel. Ministro Ribeiro Dantas, 5ª T., DJe 27/5/2020).
+4. Além disso, na hipótese de habeas corpus contra liminar de Desembargador, é correta a declaração de prejudicialidade do pedido de superação da Súmula n. 691 do STF se sobrevém o julgamento de mérito da impetração requerida ao Tribunal de Justiça. O acórdão denegatório da ordem desafia impugnação própria, não sendo mais necessária a subversão à regular ordem de competências.
+Precedentes.
+6. Agravo regimental não conhecido. Habeas corpus declarado prejudicado.
+(AgRg no HC n. 737.749/MG, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 14/8/2023, DJe de 17/8/2023, grifei)
+Ressalto, por oportuno, que os requisitos de admissibilidade do recurso ou da impetração constituem matéria de ordem pública, que pode ser revisada a qualquer tempo. Nesse sentido: AgRg no REsp n. 2.142.318/DF, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 2/9/2024, DJe de 4/9/2024.
+À vista do exposto, acolho os emb argos de declaração para sanar omissão pontual e julgar prejudicado o agravo regimental.
