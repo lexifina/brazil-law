@@ -1,0 +1,35 @@
+DECISÃO:
+Trata-se de recurso extraordinário com agravo interposto por ALZIRA BARBOSA SIMOES COELHO contra decisão de inadmissão do recurso extraordinário interposto contra o acórdão proferido pelo SUPERIOR TRIBUNAL DE JUSTIÇA e de recurso extraordinário com agravo interposto por UNIVERSIDADE FEDERAL DE SAO JOAO DEL-REI contra decisão de inadmissão do recurso extraordinário interposto contra o acórdão proferido pelo TRIBUNAL REGIONAL FEDERAL DA 6ª REGIÃO.
+O recurso de ALZIRA BARBOSA SIMOES COELHO foi interposto com fundamento na alínea "a" do permissivo constitucional.
+O acórdão exarado por SUPERIOR TRIBUNAL DE JUSTIÇA ficou assim ementado:
+
+"PROCESSUAL CIVIL E ADMINISTRATIVO. UNIVERSIDADE FEDERAL DE SÃO JOÃO DEL REI. PRELIMINAR DE ILEGITIMIDADE PASSIVA AD CAUSAM NÃO ACOLHIDA RESTABELECIMENTO DE APOSENTADORIA. REVISÃO DE ATO. PRESCRIÇÃO. JUROS E CORREÇÃO MONETÁRIA.
+1. A Universidade Federal de São João Del Rei possui autonomia administrativa e financeira, com personalidade jurídica própria, sendo, assim, o seu Reitor competente para praticar ou corrigir o ato impugnado, pois entre suas atribuições está o gerenciamento das folhas de pagamento. Preliminar de ilegitimidade passiva rejeitada.
+2. O art. 54 da Lei 9.784/99 estabeleceu o prazo de cinco anos para que pudesse a Administração revogar os seus atos. "A data de vigência e publicação da Lei n. 9.784/99 (1°/2/1999) é considerada como o termo inicial da contagem dos prazos decadenciais desfavoráveis à Administração Pública, mesmo que os atos impugnados tenham sido praticados anteriormente à edição da referida lei. Precedentes desta Corte.
+3. As prestações em atraso devem ser pagas de uma só vez, monetariamente corrigidas de acordo com a Lei n. 6.899/81, pelos índices previstos no Manual de Cálculos da Justiça Federal, aprovado pelo Conselho da Justiça Federal, incidindo tal correção desde a data do vencimento de cada parcela em atraso (Súmulas n.s 148 do STJ e 19 do TRF — 1° Região).
+4. Juros de mora devidos em 1% (um por cento) ao mês a contar da citação até o advento da Lei 11.960/09, a partir de quando incidirão à razão de 0,5% (meio por cento) ao mês — ou outro índice de juros remuneratórios das cadernetas de poupança que eventualmente venha a ser estabelecido —, até a apuração definitiva dos cálculos de liquidação.
+5. Honorários advocatícios fixados em conformidade com a jurisprudência desta Corte.
+6. Apelação a que se nega provimento. Remessa oficial parcialmente provida."
+
+Opostos os embargos de declaração por ALZIRA BARBOSA SIMOES COELHO, foram rejeitados.
+No recurso extraordinário sustenta-se violação do(s) art.(s) 5º, incisos XXXV e LV; 37, caput, incisos XVI e XVII, e § 10º; 93, inciso IX,  da Constituição Federal.
+Decido.
+Quanto à insurgência de ALZIRA BARBOSA SIMOES COELHO, verifica-se que o(s) dispositivo(s) apontado(s) como violado(s) carece(m) do necessário prequestionamento, sendo certo que os acórdãos proferidos pelo Tribunal de origem não cuidaram da(s) referida(s) norma(s). Ademais, a matéria apresentada nos embargos de declaração não supre o requisito do prequestionamento quando ficar caracterizada a inovação recursal. Incidem na espécie as Súmulas 282 e 356/STF. Nesse sentido, destaca-se:
+
+“Agravo regimental no recurso extraordinário com agravo. Prequestionamento. Ausência. Incidência das Súmulas nºs 282 e 356/STF. Precedentes. 1. É inadmissível o recurso extraordinário se a matéria constitucional que nele se alega violada não está devidamente prequestionada. Incidência das Súmulas nºs 282 e 356/STF. 2. Agravo regimental não provido, com imposição de multa de 1% (um por cento) do valor atualizado da causa (art. 1.021, § 4º, do CPC). 3. Havendo prévia fixação de honorários advocatícios pelas instâncias de origem, seu valor monetário será majorado em 10% (dez por cento) em desfavor da parte recorrente, nos termos do art. 85, § 11, do Código de Processo Civil, observados os limites dos §§ 2º e 3º do referido artigo e a eventual concessão de justiça gratuita” (ARE nº 1.230.706/DF - AgR, Tribunal Pleno, Rel.  Min. Dias Toffoli, DJe de 18/12/2019).
+
+“AGRAVO INTERNO NO RECURSO EXTRAORDINÁRIO COM AGRAVO. TRABALHISTA. PRETENSÃO DE FILIAÇÃO À ENTIDADE SINDICAL PATRONAL. EXISTÊNCIA DE ESTABELECIMENTO EMPRESARIAL NA BASE TERRITORIAL DO SINDICATO. AUSÊNCIA DE PREQUESTIONAMENTO. INCIDÊNCIA DAS SÚMULAS 282 E 356 DO STF. REITERADA REJEIÇÃO DOS ARGUMENTOS EXPENDIDOS PELA PARTE NAS SEDES RECURSAIS ANTERIORES. MANIFESTO INTUITO PROTELATÓRIO. MULTA DO ARTIGO 1.021, § 4º, DO CPC/2015. AGRAVO INTERNO DESPROVIDO” (ARE nº 1.210.606/SP - AgR, Primeira Turma, Rel.  Min. Luiz Fux, DJe de 13/09/2019).
+
+Já quanto à insurgência de UNIVERSIDADE FEDERAL DE SAO JOAO DEL-REI, verifica-se que a decisão de inadmissão do recurso extraordinário está amparada tanto em aplicação de tema de repercussão geral, quanto em requisito de admissibilidade do recurso extraordinário. Ocorre que o óbice processual referido pela decisão de admissibilidade não é um fundamento autônomo. A questão suscitada, portanto, está inteiramente abrangida pela aplicação do tema de repercussão geral indicado.
+Assim, não há razão jurídica para a remessa dos autos ao Supremo Tribunal Federal, uma vez que o art. 1.042 do Código de Processo Civil é expresso sobre o não cabimento de agravo dirigido ao STF nas hipóteses em que a negativa de seguimento do recurso extraordinário tiver como base a sistemática da repercussão geral. Dessa decisão somente é cabível a impugnação por agravo interno (art. 1.030, § 2º, do CPC/2015). Nesse sentido:
+
+“EMBARGOS DE DECLARAÇÃO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO EXTRAORDINÁRIO COM AGRAVO. CONVERSÃO EM AGRAVO REGIMENTAL. PROCESSUAL CIVIL. APLICAÇÃO DA SISTEMÁTICA DA REPERCUSSÃO GERAL NA ORIGEM: AUSÊNCIA DE PREVISÃO LEGAL DE RECURSO PARA O SUPREMO TRIBUNAL FEDERAL. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO”. (ARE nº 1.109.295/RS-ED-ED, Tribunal Pleno, Rel. Min. Cármen Lúcia, DJe de 25/09/2018).
+
+Ressalte-se, ademais, que o não conhecimento pelo tribunal local do agravo previsto no art. 1.042, caput, do CPC/2015, interposto de decisão que aplique a sistemática da repercussão geral, não caracteriza usurpação de competência do Supremo Tribunal Federal. Sobre o tema: Rcl nº 25.078/SP-AgR, Segunda Turma, Rel. Min. Dias Toffoli, DJe de 21/02/2017; Rcl nº 31.882/GO, Rel. Min. Ricardo Lewandowski, DJe de 28/09/2018; Rcl nº 31.883/GO, Rel. Min. Gilmar Mendes, DJe de 25/09/2018; Rcl nº 31.880/GO, Rel. Min. Alexandre de Moraes, DJe de 24/09/2018; Rcl nº 28.242/MG, Rel. Min. Marco Aurélio, DJe de 20/09/2018; Rcl nº 31.497/PR, Rel. Min. Rosa Weber, DJe de 12/9/18; e Rcl nº 30.972/PR, Rel. Min. Edson Fachin, DJe de 03/08/2018.
+Ante o exposto, nego seguimento ao recurso interposto por ALZIRA BARBOSA SIMOES COELHO (alínea c do inciso V do art. 13 do Regimento Interno do Supremo Tribunal Federal) e quanto ao recurso interposto pela UNIVERSIDADE FEDERAL DE SAO JOAO DEL-REI determino a devolução dos autos ao tribunal de origem.
+Publique-se.
+Brasília, 19 de maio de 2026.
+
+Ministro EDSON FACHIN
+Presidente
+Documento assinado digitalmente
