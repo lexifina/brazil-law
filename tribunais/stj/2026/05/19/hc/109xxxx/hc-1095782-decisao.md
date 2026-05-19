@@ -1,0 +1,39 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em causa própria por ELIANA REGINA BOTTARO RIBEIRO, em que aponta como ato coator a decisão proferida por Desembargadora Relatora do TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO proferida nos autos da Ação Penal n. 2120639-76.2024.8.26.0000.
+Consta dos autos que a paciente foi denunciada pela prática dos crimes de organização criminosa e fraude à licitação.
+Em 11/2/2026, a Desembargadora Relatora da Ação Penal n. 2120639-76.2024.8.26.0000, em trâmite na Décima Câmara de Direito Criminal do Tribunal de Justiça de São Paulo, indeferiu os pedidos apresentados pela paciente, conforme decisão de fls. 158/167.
+No presente writ, a impetrante/paciente sustenta constrangimento ilegal decorrente da negativa, em 11/2/2026, de expedição de certidão e de acesso integral às provas digitais que instruem a denúncia (interceptações telefônicas e telemáticas), em violação aos direitos de acesso à informação e de obtenção de certidões e aos princípios do contraditório e da ampla defesa.
+Alega a indisponibilidade das mídias e dos áudios das interceptações supostamente utilizados na denúncia, não obstante tentativas de acesso por meio de HD fornecido em cartório, senhas e diligências acompanhadas de perita e ata notarial, o que impede a confrontação dos trechos transcritos e a verificação da cadeia de custódia.
+Aduz nulidade processual pela abertura da instrução e designação de atos sem a prévia disponibilização da prova de acusação e sem apreciação dos requerimentos defensivos, inclusive quanto à transcrição por perito judicial das conversas e ligações envolvendo a paciente, em afronta à paridade de armas e à legalidade estrita.
+Argui a negativa de prestação jurisdicional, ante a ausência de apreciação dos pedidos de certificação judicial acerca do efetivo acesso às mídias e interceptações e de verificação do conteúdo dos links, malgrado se trate de providências instrumentais e prévias imprescindíveis à adequada defesa.
+Defende a nulidade por indisponibilidade da prova de acusação, uma vez que as transcrições reproduzidas na denúncia não foram localizadas nas mídias disponibilizadas em cartório, inviabilizando o controle defensivo sobre a integridade, autenticidade e integralidade do acervo probatório digital.
+Requer, em liminar, a suspensão da tramitação do Processo n. 2120639-76.2024.8.26.0000 que tramita perante a Décima Câmara de Direito Criminal do Tribunal de Justiça de São Paulo e da Carta de Ordem n. 0002658-47.2024.8.26.0457, inclusive da audiência e do interrogatório dos réus designados para 13/8/2026. No mérito, pretende a concessão da ordem para declarar o direito da paciente à obtenção de certidão e informações requeridas, com determinação para que o Tribunal de origem expeça a certidão e assegure o acesso integral às mídias e interceptações referidas na denúncia.
+É o relatório.
+Decido.
+O presente habeas corpus não comporta conhecimento.
+Como se vê, a impetrante apontou como ato coator a decisão da Desembargadora do Tribunal de origem que indeferiu os pedidos defensivos apresentados nos autos da Ação Penal n. 2120639-76.2024.8.26.0000. Desse modo, é certo que o Superior Tribunal de Justiça não tem competência para julgar habeas corpus impetrado contra decisão monocrática de Desembargador.
+Assim dispõe o art. 105, I, c, da Constituição Federal, no sentido de que o Superior Tribunal de Justiça não é competente para processar e julgar writ sem o devido exaurimento da jurisdição na instância antecedente.
+Sobre o tema, confiram -se os seguintes precedentes (grifos nossos):
+AGRAVO REGIMENTAL NO HABEAS CORPUS. PENAL E PROCESSO PENAL. ORGANIZAÇÃO CRIMINOSA, EXTORSÃO, CONCUSSÃO E LAVAGEM DE CAPITAIS. ALEGAÇÃO DE SUSPEIÇÃO DA MAGISTRADA, DE VIOLAÇÃO AO SISTEMA ACUSATÓRIO E DE NULIDADES DECORRENTES DA HOMOLOGAÇÃO DE ACORDOS DE COLABORAÇÃO PREMIADA. INSURGÊNCIA CONTRA DECISÃO MONOCRÁTICA DO RELATOR NA ORIGEM. AUSÊNCIA DE ESGOTAMENTO DA INSTÂNCIA ANTECEDENTE. INSTRUÇÃO DEFICIENTE. SUPRESSÃO DE INSTÂNCIA. INOVAÇÃO DE TESES NÃO EXPLICITADAS NA INICIAL DO WRIT. IMPOSSIBILIDADE DE ANÁLISE. AGRAVO REGIMENTAL DESPROVIDO.
+1. O Superior Tribunal de Justiça tem jurisprudência firmada de que não cabe habeas corpus contra decisão monocrática proferida pelo relator na ação de origem perante a Corte estadual, devendo a defesa provocar manifestação colegiada. Precedentes.
+2. Não obstante a alegação de que ocorreu o posterior julgamento pelo Colegiado local, a parte recorrente não juntou o inteiro teor do acórdão impugnado, o que, a toda evidência, impede o exame das teses suscitadas.
+3. Segundo a documentação que instrui os autos, as insurgências formuladas não foram enfrentadas pelo Tribunal de origem, o que obsta esta Corte de analisar os temas sob pena de incorrer em indevida supressão de instância e em violação ao princípio do duplo grau de jurisdição.
+4. A argumentação não deduzida na inicial do habeas corpus, mas apenas por ocasião do presente agravo regimental, constitui indevida inovação que não pode ser apreciada, sob pena de total desprendimento dos lindes da impetração.
+5. Agravo regimental desprovido.
+(AgRg no HC n. 408.442/MT, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 16/9/2024, DJe de 19/9/2024.)
+AGRAVO REGIMENTAL NO RECURSO EM HABEAS CORPUS. TRÁFICO DE ENTORPECENTES. TEMAS NÃO EXAMINADOS NA ORIGEM. SUPRESSÃO DE INSTÂNCIA. ADEMAIS, INEXISTÊNCIA DE DELIBERAÇÃO COLEGIADA DA CORTE A QUO. AUSÊNCIA DE PRÉVIO EXAURIMENTO DA JURISDIÇÃO DE SEGUNDO GRAU. RECURSO DESPROVIDO.
+1. Constatado que as teses não foram enfrentadas pelo Tribunal de origem, o Superior Tribunal de Justiça está impedido de analisar os temas, sob pena de incorrer em indevida supressão de instância e em violação ao princípio do duplo grau de jurisdição.
+2. Ademais, a defesa se insurge contra decisão monocrática proferida pelo Desembargador relator na origem contra a qual não foi interposto agravo regimental, circunstância essa que inviabiliza o processamento do recurso em habeas corpus, já que não se está diante de decisão colegiada.
+3. Agravo regimental desprovido.
+(AgRg no RHC n. 194.675/SC, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 29/4/2024, DJe de 3/5/2024.)
+PENAL. PROCESSO PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. HABEAS CORPUS. COMPETÊNCIA. CONTRA DECISÃO MONOCRÁTICA NA ORIGEM. INCOMPETÊNCIA DESTA CORTE. PRETENSÃO DEFENSIVA QUE CONFIGURA NÍTIDA SUPRESSÃO DE INSTÂNCIA. AUSÊNCIA DE ARGUMENTOS NOVOS APTOS A ALTERAR A DECISÃO AGRAVADA. AGRAVO REGIMENTAL DESPROVIDO.
+I - Assente que a defesa deve trazer alegações capazes de alterar o entendimento anteriormente firmado, sob pena de ser mantida a r. decisão vergastada pelos próprios fundamentos.
+II - Embora o Habeas Corpus não seja um recurso, mas uma via autônoma de impugnação, no entanto não se presta a ter efeito legislativo e modificar as competências constitucionais e legais de forma a suprimir instâncias e transferir a competência originária para cortes superiores.
+III - Segundo disposição do art. 105, I, "c", da Constituição Federal, este Superior Tribunal de Justiça é competente para conhecer do habeas corpus na existência de ato proferido por Tribunal sujeito à sua jurisdição, portanto, falece de competência para julgar habeas corpus impetrado contra decisão monocrática, proferida por Desembargador Relator na origem.
+IV - Esta Corte Superior de Justiça já se manifestou no sentido de que, mesmo eventual nulidade absoluta, não pode ser declarada em supressão de instância.
+Agravo regimental desprovido.
+(AgRg no HC n. 788.526/PE, relator Ministro MESSOD AZULAY NETO, QUINTA TURMA, DJe de 27/3/2023.)
+Ante o exposto, com fundamento no art. 210 do Regimento Interno do Superior Tribunal de Justiça - RISTJ, indefiro liminarmente o presente habeas corpus.
+Publique-se.
+Intimem-se.
+ EMENTA
