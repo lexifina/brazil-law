@@ -1,0 +1,71 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de JULIANO KENIG AGUIRRA, apontando como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO GRANDE DO SUL, que, nos autos do Agravo de Execução Penal n. 8000477-53.2025.8.21.0064/RS, negou provimento ao recurso defensivo (fls. 08/11).
+Consta que o Juízo de Execução indeferiu pedido de saída temporária formulado para visita à família e, na mesma decisão, prorrogou a prisão domiciliar especial do paciente por mais 180 (cento e oitenta) dias, em razão de diagnóstico de insuficiência cardíaca e trombose venosa mesentérica, com monitoramento eletrônico (fls. 20/22).
+Do relatório executório, extrai-se que o paciente cumpre pena total de 12 (doze) anos, 09 (nove) meses e 13 (treze) dias, em regime atual semiaberto, com término previsto para 24/10/2034, constando condenações pelos crimes dos arts. 296 e 289 do Código Penal e do art. 33, caput, da Lei n. 11.343/2006, com registro de progressão ao semiaberto em 21/10/2025 (fls. 12/16).
+A decisão de primeiro grau indeferiu a saída temporária com fundamento na Lei n. 14.843/2024 e o agravo de execução defensivo foi desprovido pela Corte estadual.
+No presente writ, a impetrante alega que a negativa das saídas temporárias configura excesso de execução, em afronta aos arts. 122 e 123 da Lei de Execução Penal, sob a correta interpretação constitucional, porquanto a alteração promovida pela Lei n. 14.843/2024 teria natureza penal material, ou, ao menos, mista, não podendo retroagir em prejuízo do paciente.
+Sustenta que todos os delitos que compõem a reprimenda foram praticados antes da vigência da mencionada lei e que a aplicação imediata das novas restrições, inclusive a revogação da hipótese de visita à família e a vedação do benefício a condenados por crimes hediondos ou cometidos com violência ou grave ameaça, viola os princípios da irretroatividade da lei penal mais gravosa e da individualização da pena na fase executória.
+Argumenta, ainda, que a execução deve observar o caráter progressivo previsto no art. 33, caput, do Código Penal e que a supressão do direito à saída temporária, integrante do conteúdo do regime, apenas poderia ocorrer mediante novatio legis in mellius.
+Aponta que o acórdão recorrido, ao aplicar imediatamente a Lei n. 14.843/2024, incorreu em constrangimento ilegal por recrudescer o cumprimento da pena em desfavor do paciente, cuja situação concreta, inclusive sob o ângulo de saúde e de cumprimento em prisão domiciliar especial, recomenda a análise do benefício à luz da legislação anterior.
+Requer, liminarmente e no mérito a concessão da ordem para cassar o acórdão coator e determinar que o pedido de saída temporária do paciente seja analisado com base na legislação vigente à época dos fatos delituosos, afastando-se a aplicação retroativa da Lei n. 14.843/2024.
+É o relatório.
+Decido.
+Esta Corte e o Supremo Tribunal Federal pacificaram o entendimento de que não cabe habeas corpus como substitutivo do recurso legalmente previsto para a hipótese, impondo-se o não conhecimento da impetração, salvo quando constatada a existência de flagrante ilegalidade no ato judicial impugnado (STJ, HC n. 535.063/SP, Terceira Seção, Relator Ministro Sebastião Reis Junior, julgado em 10/6/2020, DJe de 25/8/2020; STF, AgRg no HC n. 180.365/PB, Primeira Turma, Relatora Ministra Rosa Weber, julgado em 27/3/2020, DJe de 2/4/2020; e AgRg no HC n. 147.210/SP, Segunda Turma, Relator Ministro Edson Fachin, julgado em 30/10/2018, DJe de 20/2/2020).
+Ademais, é consolidada a jurisprudência deste Superior Tribunal de Justiça no sentido de que a prerrogativa do relator para julgar monocraticamente o habeas corpus e o respectivo recurso não é afastada pelas normas regimentais que preveem a oitiva prévia do Ministério Público Federal (arts. 64, III, e 202 do RISTJ), notadamente quando a matéria se conforma com o entendimento dominante desta Corte (AgRg no HC n. 856.046/SP, de relatoria do Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 24/10/2023, DJe de 30/10/2023).
+Assim, passo à análise das razões da impetração, de forma a verificar a ocorrência de flagrante ilegalidade a justificar a concessão do habeas corpus, de ofício.
+O Tribunal de origem, ao negar provimento ao agravo em execução defensivo, apresentou as seguintes razões de decidir (fls. 10/11, grifamos):
+(..)
+Destaco que foi revogado o dispositivo legal que autorizava apenados a visitar a família, sendo que a atual redação da Lei de Execução Penal apenas permite a saída temporária para frequência a curso supletivo profissionalizante, bem como de instrução do 2º grau ou superior, na Comarca do Juízo da Execução, in verbis:
+(..)
+Importante referir que as normas que regram a execução penal possuem natureza processual penal, e, ocorrendo modificação em seu texto legal, devem ter aplicação imediata, nos termos que determina o art. 2º do Código de Processo Penal.
+Logo, tendo havido a modificação dos requisitos para concessão da saída temporária e não preenchendo o apenado tais requisitos - pois pleiteou saída temporária para visitar a família e tal não mais está previsto na LEP, impositiva a manutenção da decisão recorrida.
+Ante o exposto, voto por negar provimeno ao agravo.
+Da leitura do excerto supra, verifico que assiste razão à impetrante.
+Com efeito, esta Corte Superior já teve a oportunidade de enfrentar a controvérsia quanto  à  alteração  legislativa  trazida  pela  Lei  n.  14.843/2024  ao  §  2º  do  art.  112  da  Lei  de  Execução  Penal.
+No  julgamento  do  HC  n.  932.864/SC, de  relatoria  do  Ministro  Sebastião  Reis  Júnior, realizado em  10/09/2024 (DJe  de 13/09/2024); a  Colenda Sexta  Turma ,  interpretou  a  referida  alteração  legal  como  caso  de  novatio  legis  in  pejus,  consignando,  ademais,  que  a sua  retroatividade  se  mostra  inconstitucional,  haja  vista  o  art.  5º,  XL,  da  Constituição  Federal,  bem  como  ilegal,  considerando-se  o  art.  2º  do  Código  Penal.
+Confira-se (grifamos):
+DIREITO  PENAL  E  PROCESSUAL  PENAL.  HABEAS  CORPUS.  EXECUÇÃO  PENAL.  SAÍDA  TEMPORÁRIA.  APLICAÇÃO  RETROATIVA  DA  LEI  N.  14.843/2024.  IMPOSSIBILIDADE.  NOVATIO  LEGIS  IN  PEJUS.  CONSTRANGIMENTO  ILEGAL.  ORDEM  CONCEDIDA.
+I.  CASO  EM  EXAME
+1.  Habeas  corpus  impetrado  em  favor  de  Wagner  Luiz  da  Rocha  contra  decisão  da  Quinta  Câmara  Criminal  do  Tribunal  de  Justiça  de  Santa  Catarina  que,  ao  dar  provimento  ao  agravo  em  execução  ministerial,  revogou  as  saídas  temporárias  concedidas  ao  paciente,  com  fundamento  na  aplicação  retroativa  da  Lei  n.  14.843/2024.
+II.  QUESTÃO  EM  DISCUSSÃO
+2.  A  questão  em  discussão  consiste  em  verificar  a  possibilidade  de  aplicação  retroativa  do  §  2º  do  art.  122  da  Lei  de  Execução  Penal,  com  redação  dada  pela  Lei  n.  14.843/2024,  que  torna  mais  gravosa  a  execução  da  pena,  pois  veda  o  gozo  das  saídas  temporárias.
+III.  RAZÕES  DE  DECIDIR
+3.  A  Lei  n.  14.843/2024,  ao  modificar  o  §  2º  do  art.  122  da  Lei  de  Execução  Penal,  recrudesce  a  execução  da  pena  ao  vedar  a  concessão  de  saídas  temporárias  para  condenados  por  crimes  hediondos  ou  cometidos  com  violência  ou  grave  ameaça  contra  pessoa.
+4.  A  aplicação  retroativa  dessa  norma  constitui  novatio  legis  in  pejus,  vedada  pela  Constituição  Federal  (art.  5º,  XL)  e  pelo  Código  Penal  (art.  2º).
+5.  A  jurisprudência  do  Superior  Tribunal  de  Justiça  (STJ)  e  do  Supremo  Tribunal  Federal  (STF)  firmou  entendimento  de  que  normas  mais  gravosas  não  podem  retroagir  para  prejudicar  o  executado,  conforme  a  Súmula  471/STJ  e  precedentes  correlatos.
+6.  No  caso  concreto,  os  crimes  pelos  quais  o  paciente  foi  condenado  ocorreram  antes  da  vigência  da  Lei  n.  14.843/2024,  o  que  impede  a  aplicação  retroativa  das  novas  restrições  à  saída  temporária.
+IV.  DISPOSITIVO  E  TESE
+7.  Ordem  concedida.
+Tese  de  julgamento:
+1.  O  §  2º  do  art.  122  da  Lei  de  Execução  Penal,  com  redação  dada  Lei  n.  14.843/2024,  torna  mais  restritiva  a  execução  da  pena,  restringindo  o  gozo  das  saídas  temporárias  aos  condenados  por  crimes  hediondos  ou  cometido  com  violência  ou  grave  ameaça  à  pessoa,  não  pode  ser  aplicado  retroativamente  a  fatos  ocorridos  antes  de  sua  vigência,  em  respeito  ao  princípio  da  irretroatividade  da  lei  penal  mais  gravosa.
+Dispositivos  relevantes  citados:  CF/1988,  art.  5º,  XL; CP,  art.  2º;  LEP,  art.  122,  §  2º,  com  redação  dada  pela  Lei  n.  14.843/2024.
+Jurisprudência  relevante  citada:  STJ,  Súmula  471;  RHC  n.  200.670/GO,  Ministro  Sebastião  Reis  Júnior,  Sexta  Turma,  DJe  de  23/8/2024;  HC  n.  373.503/SP,  Ministra  Maria  Thereza  de  Assis  Moura,  Sexta  Turma,  DJe  de  15/2/2017;  STJ,  AgRg  no  REsp  n.  2.011.151/SC,  Ministro  Reynaldo  Soares  da  Fonseca,  Quinta  Turma,  DJe  de  13/9/2022.
+A propósito:
+DIREITO PROCESSUAL PENAL. EXECUÇÃO PENAL. AGRAVO REGIMENTAL. HABEAS CORPUS. SAÍDA TEMPORÁRIA. LEI N. 14.843/2024. § 2º DO ART. 122 DA LEI DE EXECUÇÃO PENAL. RETROATIVIDADE. IMPOSSIBILIDADE. NORMA DE NATUREZA PENAL. NOVATIO LEGIS IN PEJUS. AGRAVO REGIMENTAL NÃO
+PROVIDO.
+I. Caso em exame
+1. Agravo regimental interposto pelo Ministério Público do Estado de Santa Catarina contra decisão monocrática que não conheceu do habeas corpus, mas concedeu a ordem, de ofício, afastando a aplicação retroativa da Lei n. 14.843/2024 ao benefício da saída temporária.
+II. Questão em discussão
+2. A discussão consiste em saber se as alterações trazidas pela Lei n. 14.843/2024, que modificam os requisitos para concessão da saída temporária, têm natureza penal ou procedimental e se podem ser aplicadas retroativamente a processos em curso.
+III. Razões de decidir
+3. Esta Corte Superior já interpretou a alteração legislativa como norma de natureza penal, vedando sua retroatividade, nos termos do art. 2º do Código Penal.
+4. A nova legislação impõe requisitos adicionais à concessão da saída temporária, afetando materialmente o direito de locomoção do apenado, caracterizando novatio legis in pejus.
+5. A retroatividade da norma é inconstitucional, conforme o art. 5º, XL, da Constituição Federal, e ilegal, nos termos do art. 2º do Código Penal.
+6. No caso concreto, o agravado já cumpria pena por fatos anteriores à modificação legislativa, não sendo possível aplicar a lei posterior de caráter material para prejudicá-lo.
+IV. Dispositivo e tese
+7. Agravo regimental não provido.
+Tese de julgamento: 1. As alterações trazidas pela Lei n. 14.843/2024 ao benefício da saída temporária têm natureza penal e não podem ser aplicadas retroativamente. 2. A retroatividade de normas penais mais gravosas é vedada pela Constituição Federal e pelo Código Penal.
+Dispositivos relevantes citados: CF/1988, art. 5º, XL; CP, art. 2º; CP, art. 4º; § 2º do art. 122 da Lei de Execução Penal; Lei n. 14.843/2024.Jurisprudência relevante citada: STJ, HC 939.084/SC, Rel. Min. Daniela Teixeira, Quinta Turma, julgado em 03.12.2024;
+STJ, RHC 200.670/GO, Rel. Min. Sebastião Reis Júnior, Sexta Turma, julgado em 20.08.2024; STF, HC 2407770, Ministro André Mendonça, julgado em 28/5/2024 e publicado em 29/5/2024.
+(AgRg no HC n. 990.888/SC, relator Ministro Otávio de Almeida Toledo (Desembargador Convocado do TJSP), Sexta Turma, julgado em 4/6/2025, DJEN de 11/6/2025, grifamos)
+AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO PENAL. SAÍDAS TEMPORÁRIAS. LEI N. 14.843/2024. VEDAÇÃO DE GOZO DO BENEFÍCIO. IRRETROATIVIDADE DA NORMA PENAL MAIS GRAVOSA. DISPOSIÇÃO CONSTITUCIONAL. ART. 5º, XL, DA CF/88. EXECUÇÃO JÁ INICIADA. DECISÃO MANTIDA. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. Sobre o tema, consoante a jurisprudência do Superior Tribunal de Justiça, " a  Lei n. 14.843/2024, ao alterar o § 2º do art. 122 da Lei de Execução Penal, torna mais gravosa a execução penal, ao vedar a concessão de saídas temporárias para condenados por crimes hediondos ou cometidos com violência ou grave ameaça contra a pessoa" (AgRg no HC n. 943.656/SC, relator Ministro Messod Azulay Neto, Quinta Turma, DJEN de 26/3/2025.)
+2. Em referendo à caracterização das normas relativas a benefícios executórios como dispositivos de direito material, o Supremo Tribunal Federal, ao debruçar-se sobre a possibilidade de retroação dos patamares de progressão da Lei n. 11.464.2007, que deu nova redação ao art. 2º da Lei n. 8.072/1990, o qual dispõe sobre os crimes hediondos, assentou que, "em homenagem à garantia da irretroatividade de lei penal mais gravosa (inciso XL, do art. 5º da CF), entendo que tal diploma legal (11.464/2007) é de se aplicar apenas a fatos praticados após a sua entrada em vigor". (HC n. 92709, Rel. Ministro CARLOS BRITTO, Primeira Turma, DJe-162 DIVULG 28-08-2008 PUBLIC 29-08-2008 EMENT VOL-02330-03 PP-00486).
+3. Aliás, "no âmbito do Supremo Tribunal Federal, ao analisar as modificações trazidas pela Lei n. 14.843/2024 no direito às saídas temporárias, o Ministro André Mendonça, relator do HC n. 240.770/MG, entendeu que se trata de novatio legis in pejus, incidente, portanto, aos crimes cometidos após o início de sua vigência.  ..
+Cabe estender esse raciocínio à nova redação do art. 112, § 1º, da LEP, que passou a exigir exame criminológico para progressão de regime, de modo que deve ser mantido o entendimento firmado na Súmula n. 439/STJ, segundo o qual "admite-se o exame criminológico pelas peculiaridades do caso, desde que em decisão motivada."" (AgRg no HC n. 929.034/SP, relator Ministro Ribeiro Dantas, Quinta Turma, DJe de 4/10/2024.)
+4. Agravo regimental não provido.
+(AgRg no HC n. 959.116/SC, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 4/6/2025, DJEN de 9/6/2025, grifamos)
+Com  isso,  tem-se  que  o  caso  do  apenado,  por  ser  anterior  ao  advento  da  Lei  n.  14.843/2024,  não  está  sob a  sua  incidência.
+Ante  o  exposto,  não  conheço  do  habeas  corpus,  no  entanto,  concedo  a  ordem , de  ofício,  para  afastada  a  revogação do inciso I do art. 122 da Lei de Execução Penal,  dada pela Lei  n.  14.843/2024,  determinar ao  Juízo  da  Execução  que reaprecie o pleito formulado em favor do paciente.
+Publique-se. Intimem-se.
+EMENTA
