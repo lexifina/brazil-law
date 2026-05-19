@@ -1,0 +1,17 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em benefício de DIANCARLOS ALVES DE SOUSA e ALEX BRUNO ALVES DE SOUSA, apontando-se como autoridade coatora o Desembargador do TRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAIS, que indeferiu o pedido liminar nos autos da Exceção de Suspeição n. 1.0000.26.186458-1/000.
+Verifica-se dos autos que os pacientes estão sendo processados pela suposta prática dos crimes de sonegação fiscal e lavagem de dinheiro.
+Alega a defesa que o juiz da causa atuou de forma incompatível com a imparcialidade esperada do Poder Judiciário, pois determinou diligências voltadas ao esclarecimento da cadeia de custódia da prova pericial.
+Menciona que, ao diligenciar junto à autoridade policial para sanar vícios na cadeia de custódia antes mesmo de submetê-los ao contraditório, o julgador deixou de ser o destinatário da prova para tornar-se seu produtor interessado (fl. 9).
+Aduz que a manutenção do curso da ação penal sob a presidência de um magistrado cuja imparcialidade está objetivamente comprometida representa um risco intolerável de ineficiência jurisdicional e violação a direitos fundamentais (fl. 13).
+Requer, em liminar, a determinação imediata da suspensão da marcha processual da Ação Penal nº 5000525-08.2025.8.13.0704 e de todos os procedimentos a ela correlatos, que tramitam perante a Vara Criminal da Comarca de Unaí/MG, até o julgamento definitivo deste writ (fl. 16). No mérito, pugna pela confirmação da liminar para reconhecer a quebra da imparcialidade judicial e declarar a nulidade de todos os atos praticados pelo magistrado de primeiro grau no mínimo a partir da primeira intervenção extrajudicial comprovada em 16 de março de 2026; ou subsidiariamente, seja determinado ao Tribunal de Justiça de Minas Gerais o processamento e julgamento célere da Exceção de Suspeição nº 1.0000.26.186458-1/000, mantendo-se a suspensão do processo principal até o desfecho do incidente na origem (fl. 17).
+É o relatório.
+O presente writ não comporta processamento, pois impugna decisão monocrática de desembargador que indeferiu pedido liminar de suspensão do processo principal, circunstância que atrai o mesmo entendimento consubstanciado no enunciado da Súmula 691/STF, por analogia.
+Nesse sentido, consoante o entendimento consolidado na Súmula n. 691 do Supremo Tribunal Federal, também adotado nesta Corte Superior de Justiça, não deve ser conhecido o writ impetrado contra decisão do Relator que indefere a liminar postulada em outro habeas corpus requerido na origem, sob pena de indevida supressão de instância. Tal entendimento, por analogia, também se aplica ao caso em análise, em que se trata de impugnação de decisão liminar proferida por Desembargador Relator de ação cautelar inominada (AgRg no HC n. 884.434/PR, Ministro Teodoro Silva Santos, Sexta Turma, DJe 18/3/2024).
+Esse posicionamento pode ser afastado apenas em situações excepcionais, se evidenciada nos autos a configuração de flagrante ilegalidade ou abuso de poder, o que não ocorreu no caso.
+Ressalto que, no presente caso, as questões trazidas na impetração não foram ainda enfrentadas pelo Tribunal a quo, não se admitindo a pretendida supressão de instância.
+Ante o exposto, com base no art. 210 do RISTJ, indefiro liminarmente a petição inicial do habeas corpus.
+Publique-se.
+EMENTA
+HABEAS CORPUS IMPETRADO CONTRA A DECISÃO MONOCRÁTICA DE RELATOR QUE INDEFERIU PEDIDO LIMINAR EM EXCEÇÃO DE SUSPEIÇÃO. ÓBICE DA SÚMULA 691 DO SUPREMO TRIBUNAL FEDERAL. INEXISTÊNCIA DE ILEGALIDADE.
+Petição inicial do habeas corpus indeferida liminarmente.
