@@ -1,0 +1,25 @@
+DECISÃO
+
+RECURSO EXTRAORDINÁRIO COM AGRAVO. PIS E COFINS. BASE DE CÁLCULO. PRÓPRIAS CONTRIBUIÇÕES. TEMA Nº 1.067 DO EMENTÁRIO DA REPERCUSSÃO GERAL. BAIXA À ORIGEM.
+
+1. Trata-se de agravo contra decisão negativa de admissibilidade de recurso extraordinário interposto em desfavor de acórdão do Tribunal Regional Federal da 1ª Região, assim ementado:
+
+“PROCESSUAL CIVIL E TRIBUTÁRIO. MANDADO DE SEGURANÇA. INCLUSÃO DAS CONTRIBUIÇÕES PARA O PIS E PARA A COFINS EM SUAS PRÓPRIAS BASES DE CÁLCULO. POSSIBILIDADE. PRECEDENTES DESTA CORTE E DO EGRÉGIO SUPERIOR TRIBUNAL DE JUSTIÇA.
+1. A pretensão não encontra respaldo na jurisprudência desta colenda Sétima Turma, que, enquanto pendente de apreciação no âmbito do egrégio Supremo Tribunal Federal a questão principal (Tema de repercussão geral 1.067), vem decidindo em sintonia com o entendimento do egrégio Superior Tribunal de Justiça.
+2. Nesse sentido: “Não há que se falar na suspensão do presente feito, diante da afetação da matéria em debate, no RE 1.233.096 (Tema 1.067), pelo egrégio Supremo Tribunal Federal, mormente diante da ausência de determinação nesse sentido - do sobrestamento -, por aquela Corte Suprema, por ocasião do reconhecimento da repercussão geral da controvérsia em questão. [...] A matéria pertinente à possibilidade de exclusão do PIS e da COFINS das suas próprias bases de cálculo não foi objeto da tese firmada no julgamento de mérito realizado pelo egrégio Supremo Tribunal Federal sob a sistemática da repercussão geral no RE 574.706/PR, tendo sido decidido apenas que ‘(...) o ICMS não compõe a base de cálculo para a incidência do PIS e da COFINS’. [...] Não se pode pretender seja o entendimento adotado no RE 574.706/RS aplicado analogicamente, sobretudo porque se trata de tributos distintos, inexistindo identidade de situação com a hipótese tratada nos autos. Tanto há efetiva distinção entre os temas que já existe um recurso extraordinário com repercussão geral reconhecida para tratar da questão ora em análise - RE 1.233.096/RS (Tema 1067), que ainda se encontra pendente de julgamento, não tendo havido, porém, qualquer determinação de suspensão nacional dos processos do egrégio Supremo Tribunal Federal. [...] O Supremo Tribunal Federal reconheceu a constitucionalidade da formação da base de cálculo de tributo com a sua própria inclusão, na sistemática denominada de “cálculo por dentro” (AgR no RE 524.031, Relator Ministro Ayres Britto; e RE 582.461, Relator Ministro Gilmar Mendes), sob a interpretação de que, à exceção do disposto no artigo 155, §2º, XI, da Constituição Federal, "Não há norma constitucional ou legal que vede a presença, na formação da base de cálculo de qualquer imposto, de parcela resultante do mesmo ou de outro tributo". Aplicação de precedente jurisprudencial do egrégio Supremo Tribunal Federal. [...] A redação do art. 3º, caput, da Lei nº 9.718/88, dada pela Lei nº 12.973/14 autoriza, em tese, a inclusão dos valores referentes à contribuição ao PIS e COFINS no conceito de receita bruta, de modo que não se pode permitir a sua exclusão da base de cálculo do tributo, por não estar prevista na lei de regência. [...] O egrégio Superior Tribunal de Justiça, por ocasião do julgamento do REsp 1.144.469/PR (Tema 1.037), de relatoria do eminente Ministro Mauro Campbell Marques, realizado sob a sistemática dos recursos repetitivos, adotou entendimento no sentido de que ‘(...) é legítima a incidência de tributo sobre tributo ou imposto sobre imposto, salvo determinação constitucional ou legal expressa em sentido contrário, não havendo aí qualquer violação, a priori, ao princípio da capacidade contributiva’. Aplicação de precedente jurisprudencial do egrégio Superior Tribunal de Justiça” (TRF1, AC 1000065-69.2021.4.01.3300, Sétima Turma, Relator Desembargador Federal Ítalo Fioravanti Sabo Mendes, PJe de 17/05/2023).
+3. Apelação não provida.” (e-doc. 10, p. 6-7).
+
+2. Nas razões do recurso, interposto com fundamento na alínea “a” do permissivo constitucional, a parte recorrente alega violação aos arts.  145, § 1º; 154, inc. I; 195, inc. I e § 4º; todos da CRFB.
+
+2.1. Defende “a inconstitucionalidade da inclusão do montante de PIS e COFINS em suas próprias bases de cálculo, visto que não constituem receitas da ora Recorrente” (e-doc. 18, p. 13).
+
+3. A controvérsia objeto do presente recurso está submetida à sistemática da repercussão geral no Recurso Extraordinário nº 1.233.096/RS, no qual se discute o Tema RG nº 1.067.
+
+4. Ante o exposto, aplicando a parte final do parágrafo único do art. 328 do Regimento Interno do Supremo Tribunal Federal — Quando se verificar subida ou distribuição de múltiplos recursos com fundamento em idêntica controvérsia, a Presidência do Tribunal ou o(a) Relator(a) selecionará um ou mais representativos da questão e determinará a devolução dos demais aos tribunais ou turmas de juizado especial de origem, para aplicação dos parágrafos do art. 543-B do Código de Processo Civil —, determino a devolução do processo ao Tribunal de origem.
+
+Publique-se.
+
+Brasília, 20 de maio de 2026.
+
+Ministro ANDRÉ MENDONÇA
+Relator
