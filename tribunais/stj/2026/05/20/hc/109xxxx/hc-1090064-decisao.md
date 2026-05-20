@@ -1,0 +1,33 @@
+DECISÃO
+MAICON JUNIO ROSA alega sofrer constrangimento ilegal no seu direito de locomoção em decorrência de acórdão do Tribunal de Justiça do Estado de Minas Gerais no HC n. 1.0000.25.448156-7/001.
+Consta dos autos que o paciente foi condenado à pena de 6 anos, 9 meses e 20 dias de reclusão, em regime fechado, mais multa, pela prática do crime previsto no art. 33, caput, da Lei n. 11.343/2006.
+A defesa pleiteia a absolvição do réu e, subsidiariamente, a desclassificação do ilícito a ele imputado para a conduta descrita no art. 28 da Lei de Drogas.
+A liminar foi indeferida e prestadas as informações, o Ministério Público Federal, em parecer da Subprocuradora-Geral da República Raquel Elias Ferreira Dodge, manifestou-se pela concessão da ordem.
+Decido.
+I. Considerações iniciais
+O cerne da controvérsia cinge-se a saber se a conduta perpetrada pelo réu se amolda àquela descrita no art. 28, caput, da Lei n. 11.343/2006 - como postula a defesa - ou ao delito de tráfico de drogas (art. 33, caput, da mesma lei), conforme concluíram as instâncias ordinárias.
+Em regra, é tarefa deveras complexa avaliar o elemento subjetivo a animar a conduta de quem porta certa quantidade de drogas; daí a dificuldade de se atender a pleitos de desclassificação do tipo do art. 33 para a conduta descrita no art. 28 da Lei n. 11.343/2006.
+Ademais, não se desconhece o entendimento pacífico da jurisprudência - tanto deste Superior Tribunal quanto do Supremo Tribunal Federal - de que a pretensão de desclassificação de um delito em habeas corpus exige, em regra, o revolvimento do conjunto fático-probatório produzido nos autos, providência incabível, em princípio, na via mandamental, de cognição sumária.
+Entretanto, no caso, as evidências indicam ser consistente o direito que dá substrato ao pedido formulado pela defesa em favor do paciente, o qual foi condenado, pela prática do crime de tráfico de drogas, à reprimenda de 6 anos, 9 meses e 20 dias de reclusão, por haver sido flagrado trazendo consigo 3,97 gramas de crack.
+Decerto que, no processo penal brasileiro, o juiz forma sua convicção "pela livre apreciação da prova" (art. 155 do CPP) - de modo a autorizá-lo a, observadas as limitações processuais e éticas que informam o sistema de justiça criminal, e ante a inexistência de hierarquia de provas, decidir a causa e todas as questões a ela relativas mediante a devida e suficiente motivação. É dizer, o processo decisório implica uma atividade objetiva, racional, epistêmica e vinculada a uma justificação judicial sobre as escolhas realizadas na tomada de decisão.
+A conduta de porte de drogas para consumo próprio está prevista no art. 28 da Lei n. 11.343/2006, in verbis:
+Art. 28. Quem adquirir, guardar, tiver em depósito, transportar ou trouxer consigo, para consumo pessoal, drogas sem autorização ou em desacordo com determinação legal ou regulamentar será submetido às seguintes penas:
+I - advertência sobre os efeitos das drogas;
+II - prestação de serviços à comunidade;
+III - medida educativa de comparecimento a programa ou curso educativo.
+O § 2º do art. 28, por sua vez, esclarece que: "Para determinar se a droga destinava-se a consumo pessoal, o juiz atenderá à natureza e à quantidade da substância apreendida, ao local e às condições em que se desenvolveu a ação, às circunstâncias sociais e pessoais, bem como à conduta e aos antecedentes do agente."
+Note-se que a Lei n. 11.343/2006 não determina parâmetros seguros de diferenciação entre as figuras do usuário e a do pequeno, médio ou grande traficante, questão essa, aliás, que já era problemática na lei anterior (n. 6.368/1976). Não por outro motivo, a prática tem evidenciado que a concepção expansiva da figura do traficante acaba levando à inclusão, nesse conceito, de cessões altruístas, de consumo compartilhado (art. 33, § 3º, da Lei n. 11.343/2006), de aquisição de drogas em conjunto para consumo próprio e, por vezes, até de administração de substâncias entorpecentes para fins medicinais.
+II. O caso dos autos
+No caso, o Juiz sentenciante, ao concluir que ficou caracterizada a prática do delito de tráfico de drogas, assim fundamentou, no que interessa (fl. 35):
+Não há que se falar em desclassificação para a infração descrita no art. 28 da Lei 11.343/06, pois as circunstâncias da prisão, aliadas aos depoimentos das testemunhas, deixam entrever o propósito de mercancia. Fato é que a lei não exige que o agente seja colhido no ato da venda da droga para a configuração do tráfico, bastando que sua conduta se subsuma em um dos verbos do tipo legal, como trazer consigo e manter em depósito o entorpecente proscrito (TJMG - Rel. Sérgio Braga - Apelação - Processo nº 1.0024.05.641178-8/000).
+Contudo, sem necessidade de maior incursão probatória, não constam dos autos os mínimos elementos capazes de embasar a condenação por tráfico de drogas, haja vista que, além de a quantidade de substância entorpecente apreendida com o acusado ter sido muito pequena (3,97 g crack), não há provas concretas sobre a traficância, na medida em que os policiais não presenciaram nenhum ato concreto de mercancia. Ademais, não foi encontrado nenhum apetrecho ligado à narcotraficância ou ao tráfico habitual (balança de precisão, registros de operações comerciais, aparelho celular contendo contatos de usuários ou de traficantes, ou mesmo material para embalar drogas).
+Ainda, não há nenhuma notícia sobre investigação prévia a respeito de eventual tráfico realizado pelo acusado, assim como não foi arrolado nenhum usuário como testemunha, a fim de porventura corroborar a imputação de que o paciente estava comercializando entorpecentes.
+Não se pode, insisto, presumir a mercancia ilícita pelo simples fato de alguém portar certa quantidade de drogas, tampouco pela simples denúncia anônima da prática do tráfico de drogas; a inversão do ônus da prova no caso em exame é notória e dispensa qualquer incursão vertical nos autos, dada a evidência da equivocada ilação a que chegaram tanto o Tribunal de origem quanto o juízo de primeiro grau.
+Diante de tais considerações, assiste razão à defesa, ao afirmar que a conduta praticada pelo paciente deve ser desclassificada para aquela prevista no art. 28 da Lei n. 11.343/2006.
+III. Dispositivo
+À vista do exposto, concedo a ordem para desclassificar a conduta imputada ao paciente para o delito descrito no art. 28, caput, da Lei n. 11.343/2006.
+Deve o Juízo da execução penal competente promover a adequação na respectiva dosimetria.
+Determino a imediata expedição de alvará de soltura em favor do acusado se por outro motivo não estiver preso.
+Comunique-se, com urgência, o inteiro teor desta decisão às instâncias ordinárias para as providências cabíveis.
+Publique-se e intimem-se.
+ EMENTA
