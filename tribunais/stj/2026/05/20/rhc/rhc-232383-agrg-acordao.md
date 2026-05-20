@@ -1,0 +1,86 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUINTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 14/05/2026 a 20/05/2026, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Joel Ilan Paciornik, Messod Azulay Neto, Maria Marluce Caldas e Reynaldo Soares da Fonseca votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Reynaldo Soares da Fonseca.
+EMENTA
+Direito processual penal. Agravo regimental em recurso ordinário em habeas corpus. Trancamento de inquérito policial. Alegada ausência de justa causa. Conclusões de Tribunal de Contas. Limites cognitivos do habeas corpus. Agravo regimental IMprovido.
+I. Caso em exame
+1. Agravo regimental interposto contra decisão monocrática que negou provimento a recurso ordinário em habeas corpus, no qual a Defesa postulava o trancamento do Inquérito Policial n. 20/2023 instaurado para apurar supostas irregularidades no Chamamento Público n. 005/2023 e no Contrato Administrativo n. 1202/2023, vinculados à Secretaria Municipal de Saúde de Águas Lindas de Goiás.
+2. Na impetração originária, a Defesa alegou ausência de justa causa para a persecução penal, afirmando que os elementos informativos seriam meras inferências e presunções, sem demonstração concreta de conduta típica e dolosa, destacando ainda que o Tribunal de Contas teria reconhecido apenas irregularidades formais, afastando a má-fé.
+3. O Tribunal de origem denegou a ordem de habeas corpus. Em recurso ao Superior Tribunal de Justiça, a decisão ora agravada manteve o entendimento, assentando que a participação do agravante no procedimento de credenciamento, as declarações da empresa contratada e registros de comunicações telemáticas configurariam lastro mínimo apto a justificar a continuidade da persecução penal.
+4. No presente agravo regimental, a Defesa reitera a tese de ausência de justa causa e de atipicidade da conduta, aponta a indevida desconsideração das conclusões do Tribunal de Contas e sustenta a possibilidade de exame das matérias em sede de habeas corpus, requerendo o trancamento do inquérito policial ou, subsidiariamente, a reavaliação dos pedidos formulados.
+II. Questão em discussão
+5. A questão em discussão consiste em saber se, à luz dos elementos informativos colhidos no Inquérito Policial n. 20/2023, está caracterizada ausência de justa causa a justificar o trancamento da persecução penal em sede de habeas corpus.
+6. Há outras questões em discussão: (i) saber se as conclusões do Tribunal de Contas, que teriam apontado apenas irregularidades formais e afastado a má-fé, vinculam ou impedem a apuração de eventual ilícito na esfera penal; e (ii) saber se, na via estreita do habeas corpus, é possível o exame aprofundado da tipicidade da conduta, do elemento subjetivo do dolo e da extensão da imputação, inclusive para limitar a investigação ou determinar nova manifestação ministerial.
+III. Razões de decidir
+7. O julgador reafirma que o trancamento da persecução penal por meio de habeas corpus constitui medida excepcional, cabível apenas quando evidenciada de plano a atipicidade da conduta, a extinção da punibilidade ou a absoluta ausência de justa causa.
+8. Constata-se a existência de elementos informativos que ultrapassam o campo de meras conjecturas, notadamente a participação do agravante na condução do procedimento de credenciamento, a utilização de declarações da empresa contratada e registros de comunicações telemáticas que sugerem interlocução prévia entre agentes públicos e particulares, com acesso antecipado à minuta do edital.
+9. Tal conjunto de elementos, embora sujeito a aprofundamento, fornece lastro mínimo apto a justificar a continuidade da persecução penal, afastando a alegação de manifesta ausência de justa causa.
+10. A pretensão defensiva de afastar, desde logo, a tipicidade da conduta e o elemento subjetivo do dolo demanda incursão aprofundada no acervo fático-probatório, providência incompatível com os limites cognitivos do habeas corpus.
+11. A controvérsia não se restringe a questão de direito evidenciada de plano, mas envolve matéria que exige análise mais detida dos elementos colhidos na investigação, a ser realizada pelas instâncias ordinárias.
+12. As conclusões do Tribunal de Contas, embora relevantes, não vinculam a esfera penal, regida por critérios próprios de imputação e responsabilização, sendo possível a apuração de eventual ilícito penal mesmo na ausência de sanção administrativa ou de reconhecimento de má-fé na seara de contas.
+13. Não há ilegalidade na compreensão de que o exame aprofundado das teses defensivas relativas à inexistência de dolo e à regularidade do procedimento administrativo mostra-se incompatível com o rito do habeas corpus, por exigir dilação probatória.
+14. Quanto aos pedidos subsidiários de limitação da imputação ou de determinação de nova manifestação ministerial, inexiste, neste momento, ilegalidade que justifique intervenção judicial, sobretudo porque o inquérito policial já se encontra concluído, competindo ao Ministério Público a formação de sua opinio delicti.
+15. Ausente situação de flagrante ilegalidade ou manifesta ausência de justa causa, impõe-se a manutenção da decisão agravada que negou provimento ao recurso ordinário em habeas corpus.
+IV. Dispositivo e tese
+16. Resultado do Julgamento: Agravo regimental desprovido, mantida a decisão que negara provimento ao recurso ordinário em habeas corpus e, por conseguinte, a continuidade do Inquérito Policial n. 20/2023.
+Tese de julgamento:
+1. O trancamento da persecução penal em habeas corpus é medida excepcional, apenas admitida quando evidenciada, de plano, a atipicidade da conduta, a extinção da punibilidade ou a absoluta ausência de justa causa.
+2. A existência de elementos informativos que indiquem participação do investigado e possíveis ajustes entre agentes públicos e particulares constitui lastro mínimo suficiente para afastar o trancamento do inquérito policial por ausência de justa causa.
+3. As conclusões de Tribunal de Contas não vinculam a esfera penal, sendo possível a apuração e responsabilização criminal independentemente da existência de sanção administrativa ou do reconhecimento de má-fé na seara de contas.
+4. O habeas corpus não se presta ao exame aprofundado de matéria fático-probatória, nem à análise detalhada de tipicidade e dolo, nem à limitação da imputação ou à determinação de nova manifestação ministerial, salvo em hipóteses de flagrante ilegalidade.
+Dispositivos relevantes citados: Não há dispositivos legais explicitamente mencionados no voto.
+Jurisprudência relevante citada: Não há precedentes jurisprudenciais explicitamente mencionados no voto.
+RELATÓRIO
+Trata-se de agravo regimental interposto por CARLOS DE LIMA BARBOSA contra decisão monocrática que negou provimento ao recurso ordinário em habeas corpus, no qual se pretendia o trancamento do Inquérito Policial n. 20/2023.
+Consta dos autos que a investigação foi instaurada para apurar supostas irregularidades no Chamamento Público n. 005/2023 e no Contrato Administrativo n. 1202/2023, vinculados à Secretaria Municipal de Saúde de Águas Lindas de Goiás.
+Na impetração originária, a defesa sustentou, em síntese, a ausência de justa causa para a persecução penal, ao argumento de que os elementos informativos seriam baseados em inferências e presunções, sem demonstração concreta de conduta típica e dolosa, além de destacar que o Tribunal de Contas teria reconhecido apenas irregularidades formais, afastando a má-fé.
+O Tribunal de origem denegou a ordem.
+Interposto recurso ao Superior Tribunal de Justiça, a decisão ora agravada manteve o entendimento, assentando que os elementos informativos coligidos  notadamente a participação do recorrente no procedimento de credenciamento, declarações da empresa contratada e registros de comunicações telemáticas  ultrapassariam o campo das meras conjecturas, evidenciando lastro mínimo apto a justificar a continuidade da persecução penal.
+No presente agravo regimental, a defesa reitera a tese de ausência de justa causa e de atipicidade da conduta, bem como aponta a indevida desconsideração das conclusões do Tribunal de Contas e a possibilidade de exame da matéria em sede de habeas corpus.
+Requer, ao final, o provimento do agravo para o trancamento do inquérito policial ou, subsidiariamente, a reavaliação dos pedidos formulados.
+É o relatório.
+EMENTA
+Direito processual penal. Agravo regimental em recurso ordinário em habeas corpus. Trancamento de inquérito policial. Alegada ausência de justa causa. Conclusões de Tribunal de Contas. Limites cognitivos do habeas corpus. Agravo regimental IMprovido.
+I. Caso em exame
+1. Agravo regimental interposto contra decisão monocrática que negou provimento a recurso ordinário em habeas corpus, no qual a Defesa postulava o trancamento do Inquérito Policial n. 20/2023 instaurado para apurar supostas irregularidades no Chamamento Público n. 005/2023 e no Contrato Administrativo n. 1202/2023, vinculados à Secretaria Municipal de Saúde de Águas Lindas de Goiás.
+2. Na impetração originária, a Defesa alegou ausência de justa causa para a persecução penal, afirmando que os elementos informativos seriam meras inferências e presunções, sem demonstração concreta de conduta típica e dolosa, destacando ainda que o Tribunal de Contas teria reconhecido apenas irregularidades formais, afastando a má-fé.
+3. O Tribunal de origem denegou a ordem de habeas corpus. Em recurso ao Superior Tribunal de Justiça, a decisão ora agravada manteve o entendimento, assentando que a participação do agravante no procedimento de credenciamento, as declarações da empresa contratada e registros de comunicações telemáticas configurariam lastro mínimo apto a justificar a continuidade da persecução penal.
+4. No presente agravo regimental, a Defesa reitera a tese de ausência de justa causa e de atipicidade da conduta, aponta a indevida desconsideração das conclusões do Tribunal de Contas e sustenta a possibilidade de exame das matérias em sede de habeas corpus, requerendo o trancamento do inquérito policial ou, subsidiariamente, a reavaliação dos pedidos formulados.
+II. Questão em discussão
+5. A questão em discussão consiste em saber se, à luz dos elementos informativos colhidos no Inquérito Policial n. 20/2023, está caracterizada ausência de justa causa a justificar o trancamento da persecução penal em sede de habeas corpus.
+6. Há outras questões em discussão: (i) saber se as conclusões do Tribunal de Contas, que teriam apontado apenas irregularidades formais e afastado a má-fé, vinculam ou impedem a apuração de eventual ilícito na esfera penal; e (ii) saber se, na via estreita do habeas corpus, é possível o exame aprofundado da tipicidade da conduta, do elemento subjetivo do dolo e da extensão da imputação, inclusive para limitar a investigação ou determinar nova manifestação ministerial.
+III. Razões de decidir
+7. O julgador reafirma que o trancamento da persecução penal por meio de habeas corpus constitui medida excepcional, cabível apenas quando evidenciada de plano a atipicidade da conduta, a extinção da punibilidade ou a absoluta ausência de justa causa.
+8. Constata-se a existência de elementos informativos que ultrapassam o campo de meras conjecturas, notadamente a participação do agravante na condução do procedimento de credenciamento, a utilização de declarações da empresa contratada e registros de comunicações telemáticas que sugerem interlocução prévia entre agentes públicos e particulares, com acesso antecipado à minuta do edital.
+9. Tal conjunto de elementos, embora sujeito a aprofundamento, fornece lastro mínimo apto a justificar a continuidade da persecução penal, afastando a alegação de manifesta ausência de justa causa.
+10. A pretensão defensiva de afastar, desde logo, a tipicidade da conduta e o elemento subjetivo do dolo demanda incursão aprofundada no acervo fático-probatório, providência incompatível com os limites cognitivos do habeas corpus.
+11. A controvérsia não se restringe a questão de direito evidenciada de plano, mas envolve matéria que exige análise mais detida dos elementos colhidos na investigação, a ser realizada pelas instâncias ordinárias.
+12. As conclusões do Tribunal de Contas, embora relevantes, não vinculam a esfera penal, regida por critérios próprios de imputação e responsabilização, sendo possível a apuração de eventual ilícito penal mesmo na ausência de sanção administrativa ou de reconhecimento de má-fé na seara de contas.
+13. Não há ilegalidade na compreensão de que o exame aprofundado das teses defensivas relativas à inexistência de dolo e à regularidade do procedimento administrativo mostra-se incompatível com o rito do habeas corpus, por exigir dilação probatória.
+14. Quanto aos pedidos subsidiários de limitação da imputação ou de determinação de nova manifestação ministerial, inexiste, neste momento, ilegalidade que justifique intervenção judicial, sobretudo porque o inquérito policial já se encontra concluído, competindo ao Ministério Público a formação de sua opinio delicti.
+15. Ausente situação de flagrante ilegalidade ou manifesta ausência de justa causa, impõe-se a manutenção da decisão agravada que negou provimento ao recurso ordinário em habeas corpus.
+IV. Dispositivo e tese
+16. Resultado do Julgamento: Agravo regimental desprovido, mantida a decisão que negara provimento ao recurso ordinário em habeas corpus e, por conseguinte, a continuidade do Inquérito Policial n. 20/2023.
+Tese de julgamento:
+1. O trancamento da persecução penal em habeas corpus é medida excepcional, apenas admitida quando evidenciada, de plano, a atipicidade da conduta, a extinção da punibilidade ou a absoluta ausência de justa causa.
+2. A existência de elementos informativos que indiquem participação do investigado e possíveis ajustes entre agentes públicos e particulares constitui lastro mínimo suficiente para afastar o trancamento do inquérito policial por ausência de justa causa.
+3. As conclusões de Tribunal de Contas não vinculam a esfera penal, sendo possível a apuração e responsabilização criminal independentemente da existência de sanção administrativa ou do reconhecimento de má-fé na seara de contas.
+4. O habeas corpus não se presta ao exame aprofundado de matéria fático-probatória, nem à análise detalhada de tipicidade e dolo, nem à limitação da imputação ou à determinação de nova manifestação ministerial, salvo em hipóteses de flagrante ilegalidade.
+Dispositivos relevantes citados: Não há dispositivos legais explicitamente mencionados no voto.
+Jurisprudência relevante citada: Não há precedentes jurisprudenciais explicitamente mencionados no voto.
+VOTO
+O agravo regimental não merece provimento.
+Como é cediço, o trancamento da persecução penal em sede de habeas corpus constitui medida excepcional, admissível apenas quando evidenciada, de plano, a atipicidade da conduta, a extinção da punibilidade ou a absoluta ausência de justa causa.
+No caso, a decisão agravada, em consonância com o acórdão de origem, assentou a existência de elementos informativos que não se limitam a meras conjecturas.
+Com efeito, foram indicados, em síntese, a participação do agravante na condução do procedimento de credenciamento, a utilização de declarações da empresa contratada e registros de comunicações telemáticas que sugeririam interlocução prévia entre agentes públicos e particulares, inclusive com acesso antecipado à minuta do edital.
+Tal conjunto, ainda que sujeito a aprofundamento, revela a presença de lastro mínimo apto a justificar a continuidade da persecução penal.
+A pretensão defensiva de afastar, desde logo, a tipicidade da conduta e o elemento subjetivo do dolo demandaria incursão aprofundada no acervo fático-probatório, providência incompatível com a via estreita do habeas corpus.
+Não se trata, aqui, de mera questão de direito evidenciada de plano, mas de matéria que reclama análise mais detida dos elementos colhidos na investigação, a ser realizada nas instâncias ordinárias.
+Também não prospera a alegação de que as conclusões do Tribunal de Contas, ao apontarem irregularidades formais e afastarem a má-fé, seriam suficientes para obstar a persecução penal.
+Isso porque, embora relevantes, tais conclusões não vinculam a esfera penal, que se rege por critérios próprios de imputação e responsabilização, sendo possível a apuração de eventual ilícito penal mesmo na ausência de sanção administrativa.
+De igual modo, não há falar em ilegalidade na compreensão de que o exame aprofundado das teses defensivas  especialmente quanto à inexistência de dolo e à regularidade do procedimento administrativo  mostra-se incompatível com o rito do habeas corpus, por exigir dilação probatória.
+Por fim, quanto aos pedidos subsidiários, não se verifica, neste momento, ilegalidade que justifique intervenção judicial para limitar a imputação ou determinar nova manifestação ministerial, sobretudo porque o inquérito policial já se encontra concluído, competindo ao Ministério Público a formação de sua opinio delicti.
+Ausente, portanto, situação de flagrante ilegalidade ou manifesta ausência de justa causa, deve ser mantida a decisão agravada.
+Ante o exposto, nego provimento ao agravo regimental.
+É como voto.
