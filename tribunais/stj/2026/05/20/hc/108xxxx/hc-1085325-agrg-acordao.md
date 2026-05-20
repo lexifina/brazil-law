@@ -1,0 +1,123 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEXTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 14/05/2026 a 20/05/2026, por unanimidade, negar provimento ao agravo regimental, nos termos do voto do Sr. Ministro Carlos Pires Brandão.
+Os Srs. Ministros Og Fernandes, Sebastião Reis Júnior e Rogerio Schietti Cruz votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Carlos Pires Brandão.
+EMENTA
+DIREITO PROCESSUAL PENAL. AGRAVO REGIMENTAL EM HABEAS CORPUS. WRIT IMPETRADO CONTRA INDEFERIMENTO DE LIMINAR NA ORIGEM. SÚMULA 691/STF. SUPRESSÃO DE INSTÂNCIA. AUSÊNCIA DE TERATOLOGIA. AGRAVO REGIMENTAL DESPROVIDO.
+I. Caso em exame
+1. O recurso. Agravo regimental interposto contra decisão monocrática que indeferiu liminarmente habeas corpus, com fundamento na Súmula n. 691/STF, impetrado em favor de paciente preso preventivamente pela suposta prática do delito previsto no art. 155, caput, do Código Penal.
+II. Questão em discussão
+2. A questão em discussão consiste em saber se é possível afastar a aplicação da Súmula n. 691/STF para permitir o exame do mérito do habeas corpus pelo Tribunal Superior, diante das alegações de atipicidade material da conduta pela aplicação do princípio da insignificância, de ilegalidade da prisão preventiva e de miserabilidade do paciente que não pôde arcar com a fiança arbitrada.
+III. Razões de decidir
+3. Incide a Súmula n. 691/STF, segundo a qual, em regra, não se admite habeas corpus contra decisão que indefere liminar em writ anteriormente impetrado na instância de origem, sob pena de indevida supressão de instância, admitindo-se mitigação apenas em hipóteses excepcionais de flagrante ilegalidade, teratologia ou ausência de fundamentação.
+4. A decisão do Tribunal de origem que indeferiu a liminar no habeas corpus encontra-se fundamentada, não se revelando teratológica nem desprovida de razoabilidade, de modo que não se caracteriza situação excepcional apta a autorizar a superação da Súmula n. 691/STF.
+5. A análise de mérito sobre a alegada atipicidade material da conduta pela aplicação do princípio da insignificância, sobre a presença dos requisitos da prisão preventiva e sobre a suficiência de medidas cautelares alternativas compete, inicialmente, ao Tribunal a quo, sendo vedado ao Tribunal Superior antecipar esse exame, sob pena de supressão de instância.
+6. Diante da inexistência de manifesta ilegalidade, o indeferimento liminar do habeas corpus, com base na Súmula n. 691/STF e nos arts. 21-E, IV, e 210 do RISTJ, mantém-se hígido, impondo-se a negativa de provimento ao agravo regimental.
+IV. Dispositivo
+7. Resultado do Julgamento: Agravo regimental desprovido.
+RELATÓRIO
+Trata-se de agravo regimental interposto por SIMON DOS SANTOS CABRAL contra decisão que indeferiu liminarmente o habeas corpus.
+Consta dos autos a prisão preventiva do paciente, decorrente de suposta prática do delito capitulado no art. 155, caput, do CP.
+Em suas razões, sustentou a parte impetrante a ocorrência de constrangimento ilegal, porquanto seria caso de atipicidade material pela aplicação do princípio da insignificância, pois a res furtiva fora avaliada em R$ 60,00, equivalente a 3,70% do salário mínimo vigente.
+Discorreu, ainda, que a segregação processual do paciente, com predicados pessoais favoráveis, encontra-se despida de fundamentação idônea e que não estão presentes os requisitos autorizadores da medida extrema, previstos no art. 312 do CPP.
+Argumentou, ademais, que se revelam adequadas e suficientes as medidas cautelares alternativas do art. 319 do Código de Processo Penal.
+Expôs que a manutenção da prisão decorre exclusivamente da impossibilidade de pagamento da fiança arbitrada pela autoridade policial, o que evidencia a miserabilidade do paciente e reforça a desnecessidade da custódia extrema.
+Requereu, liminarmente e no mérito, o relaxamento da prisão cautelar, ainda que mediante a aplicação de medidas cautelares alternativas não prisionais.
+Em decisão monocrática, o habeas corpus foi indeferido liminarmente, por aplicação da Súmula n. 691/STF.
+No agravo regimental, reitera os argumentos expendidos na impetração e sustenta que seria caso de superação da Súmula n. 691/STF, sob o argumento de que para o fato de que o furto versa sobre res avaliada em valor insignificante, apontando que a persecução penal se desenvolve unicamente como forma de estigmatizar o paciente.
+Requer, ao final, seja reconsiderada a decisão monocrática agravada, afastando-se o óbice consubstanciado na Súmula 691 do STF, diante da manifesta teratologia da decisão proferida pelo Tribunal de origem, para que, em consequência, seja concedida a ordem de Habeas Corpus.
+É o relatório.
+EMENTA
+DIREITO PROCESSUAL PENAL. AGRAVO REGIMENTAL EM HABEAS CORPUS. WRIT IMPETRADO CONTRA INDEFERIMENTO DE LIMINAR NA ORIGEM. SÚMULA 691/STF. SUPRESSÃO DE INSTÂNCIA. AUSÊNCIA DE TERATOLOGIA. AGRAVO REGIMENTAL DESPROVIDO.
+I. Caso em exame
+1. O recurso. Agravo regimental interposto contra decisão monocrática que indeferiu liminarmente habeas corpus, com fundamento na Súmula n. 691/STF, impetrado em favor de paciente preso preventivamente pela suposta prática do delito previsto no art. 155, caput, do Código Penal.
+II. Questão em discussão
+2. A questão em discussão consiste em saber se é possível afastar a aplicação da Súmula n. 691/STF para permitir o exame do mérito do habeas corpus pelo Tribunal Superior, diante das alegações de atipicidade material da conduta pela aplicação do princípio da insignificância, de ilegalidade da prisão preventiva e de miserabilidade do paciente que não pôde arcar com a fiança arbitrada.
+III. Razões de decidir
+3. Incide a Súmula n. 691/STF, segundo a qual, em regra, não se admite habeas corpus contra decisão que indefere liminar em writ anteriormente impetrado na instância de origem, sob pena de indevida supressão de instância, admitindo-se mitigação apenas em hipóteses excepcionais de flagrante ilegalidade, teratologia ou ausência de fundamentação.
+4. A decisão do Tribunal de origem que indeferiu a liminar no habeas corpus encontra-se fundamentada, não se revelando teratológica nem desprovida de razoabilidade, de modo que não se caracteriza situação excepcional apta a autorizar a superação da Súmula n. 691/STF.
+5. A análise de mérito sobre a alegada atipicidade material da conduta pela aplicação do princípio da insignificância, sobre a presença dos requisitos da prisão preventiva e sobre a suficiência de medidas cautelares alternativas compete, inicialmente, ao Tribunal a quo, sendo vedado ao Tribunal Superior antecipar esse exame, sob pena de supressão de instância.
+6. Diante da inexistência de manifesta ilegalidade, o indeferimento liminar do habeas corpus, com base na Súmula n. 691/STF e nos arts. 21-E, IV, e 210 do RISTJ, mantém-se hígido, impondo-se a negativa de provimento ao agravo regimental.
+IV. Dispositivo
+7. Resultado do Julgamento: Agravo regimental desprovido.
+VOTO
+Conforme relatado, busca o agravante a reconsideração da decisão agravada ou a submissão da matéria ao colegiado.
+A decisão que indeferiu liminarmente o habeas corpus foi assim fundamentada (fls. 127/129):
+Constata-se, desde logo, que a pretensão não pode ser acolhida por esta Corte Superior, pois a matéria não foi examinada pelo Tribunal de origem, que ainda não julgou o mérito do writ originário.
+Aplica-se à hipótese o enunciado 691 da Súmula do STF:
+Não compete ao Supremo Tribunal Federal conhecer de habeas corpus contra decisão do relator que, em habeas corpus requerido a Tribunal Superior, indefere a liminar.
+Confiram-se, a propósito, os seguintes julgados:
+AGRAVO REGIMENTAL EM HABEAS CORPUS.  ..  WRIT IMPETRADO CONTRA DECISÃO QUE INDEFERIU LIMINAR NO TRIBUNAL A QUO. INCIDÊNCIA DA SÚMULA n. 691/STF. PRISÃO PREVENTIVA. GRAVIDADE CONCRETA DA CONDUTA. PRISÃO DOMICILIAR. AUSÊNCIA DE PROVA INEQUÍVOCA DE QUE O RÉU ESTEJA EXTREMAMENTE DEBILITADO. EXCESSO DE PRAZO NA FORMAÇÃO DA CULPA. AUSÊNCIA DE FLAGRANTE ILEGALIDADE. AGRAVO REGIMENTAL DESPROVIDO.
+1. O Superior Tribunal de Justiça tem compreensão firmada no sentido de não ser cabível habeas corpus contra decisão que indefere o pleito liminar em prévio mandamus, a não ser que fique demonstrada flagrante ilegalidade. Inteligência do verbete n. 691 da Súmula do Supremo Tribunal Federal.
+2.  ..
+3.  ..
+4. A demora ilegal não resulta de um critério aritmético, mas de aferição realizada pelo julgador, à luz dos princípios da razoabilidade e proporcionalidade, levando em conta as peculiaridades do caso concreto, de modo a evitar retardo injustificado na prestação jurisdicional.
+5.  ..
+6. Ausência de flagrante ilegalidade a justificar a superação da Súmula 691 do STF.
+7. Agravo regimental desprovido.
+(AgRg no HC n. 778.187/PE, Rel. Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe de 16.11.2022.)
+AGRAVO REGIMENTAL EM HABEAS CORPUS. PROCESSUAL PENAL. PETIÇÃO INICIAL IMPETRADA CONTRA DECISÃO INDEFERITÓRIA DE LIMINAR PROFERIDA EM HABEAS CORPUS PROTOCOLADO NA ORIGEM, CUJO MÉRITO AINDA NÃO FOI JULGADO. SUPRESSÃO DE INSTÂNCIA. INEXISTÊNCIA DE TERATOLOGIA. IMPOSSIBILIDADE DE SUPERAÇÃO DO ÓBICE PROCESSUAL REFERIDO NA SÚMULA N. 691 DO SUPREMO TRIBUNAL FEDERAL. WRIT INCABÍVEL. AGRAVO DESPROVIDO.
+1. Em regra, não se admite habeas corpus contra decisão denegatória de liminar proferida em outro writ na instância de origem, salvo nas hipóteses em que se evidenciar situação absolutamente teratológica e desprovida de qualquer razoabilidade (por forçar o pronunciamento adiantado da Instância Superior e suprimir a jurisdição da Inferior, em subversão à regular ordem de competências). Na espécie, não há situação extraordinária que justifique a reforma da decisão em que se indeferiu liminarmente a petição inicial.
+2.  ..
+3. Agravo regimental desprovido.
+(AgRg no HC n. 763.329/SP, Rel. Ministra Laurita Vaz, Sexta Turma, DJe de 27.9.2022.)
+No caso, a situação dos autos não apresenta nenhuma excepcionalidade a justificar a prematura intervenção desta Corte Superior e superação do referido verbete sumular. Deve-se, por ora, aguardar o esgotamento da jurisdição do Tribunal de origem.
+Ante o exposto, com fundamento no art. 21-E, IV, c/c o art. 210, ambos do RISTJ, indefiro liminarmente o presente Habeas Corpus.
+Em que pese as alegações trazidas no presente agravo regimental, a decisão monocrática deve ser mantida por seus próprios fundamentos.
+Nos termos do que dispõe o enunciado da Súmula 691 do Supremo Tribunal Federal, em regra, não se admite a impetração de habeas corpus contra decisão que indefere a liminar na origem, sob pena de indevida supressão de instância, ressalvadas as hipóteses em que evidenciada decisão teratológica ou desprovida de fundamentação.
+No decisum recorrido, restou assentado, in verbis, que a situação dos autos não apresenta nenhuma excepcionalidade a justificar a prematura intervenção desta Corte Superior e superação do referido verbete sumular. Deve-se, por ora, aguardar o esgotamento da jurisdição do Tribunal de origem (fl. 129).
+Sendo assim, não se vislumbra manifesta ilegalidade apta a autorizar o afastamento ou mitigação da Súmula n. 691/STF, tendo em vista que a decisão recorrida não se apresenta como teratológica ou desprovida de fundamentação.
+De fato, cabe ao Tribunal a quo, por ocasião do julgamento da impetração, a análise de mérito da matéria vertida nos autos - no sentido de que deve ser reconhecida a atipicidade da conduta, por aplicação do princípio da insignificância -, pelo que, cumpre destacar, o revolvimento do tema, por certo, acarretaria indevida supressão de instância, na medida em que será alvo de exame oportuno na Corte de Justiça indicada como coatora.
+Com efeito, a jurisprudência consolidada do STF e do STJ estabelece que, salvo hipóteses excepcionais, não cabe habeas corpus contra decisão que indefere liminar em habeas corpus anterior, sob pena de supressão de instância (AgRg no HC n. 1.032.046/RJ, relator Ministro Messod Azulay Neto, julgado em 16/09/2025, DJEN de 22/09/2025).
+No mesmo sentido, colaciono os seguintes precedentes:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. SÚMULA N. 691 DO STF. DECISÃO DO RELATOR QUE INDEFERIU O PEDIDO LIMINAR. TERATOLOGIA OU FALTA DE RAZOABILIDADE. REVOGAÇÃO. PRISÃO PREVENTIVA. AUSÊNCIA DE FUNDAMENTAÇÃO NÃO EVIDENCIADA DE PLANO. AGRAVO REGIMENTAL DESPROVIDO.
+1. A jurisprudência desta Corte Superior é firme na compreensão de que não tem cabimento o habeas corpus para desafiar decisão do relator que indeferiu o pedido liminar. Inteligência do enunciado sumular n. 691 do Supremo Tribunal Federal (precedentes).
+2. Os rigores do mencionado verbete somente são abrandados nos casos de manifesta teratologia da decisão ou constatação de falta de razoabilidade.
+3. No caso, o agente está custodiado por ter sido flagrado em posse de 65kg (sessenta e cinco quilogramas) de maconha, o que justificaria, ao menos em uma análise perfunctória, a decretação e manutenção da custódia cautelar.
+4. Não demonstrada de plano a configuração da flagrante ilegalidade, não há como afastar o óbice ao conhecimento do remédio constitucional, devendo-se aguardar o julgamento meritório da impetração perante o Tribunal de origem, sob pena de indevida supressão de instância.
+5. Agravo regimental desprovido.
+(AgRg no HC n. 985.933/BA, relator Ministro Antônio Saldanha Palheiro, Sexta Turma, julgado em 14/04/2025, DJEN de 24/04/2025; grifamos).
+PROCESSO PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS. PRISÃO DOMICILIAR. RÉ MÃE DE CRIANÇAS. HABITUALIDADE DELITIVA. DELITO COMETIDO NO DOMICÍLIO. QUANTIDADE EXPRESSIVA DE ENTORPECENTES. WRIT CONTRA INDEFERIMENTO DE LIMINAR NA ORIGEM. AUSÊNCIA DE MANIFESTA ILEGALIDADE OU TERATOLOGIA NA DECISÃO IMPUGNADA. SÚMULA 691/STF. AGRAVO NÃO PROVIDO.
+1. Nos termos da Súmula 691 do STF "não compete ao Supremo Tribunal Federal conhecer de habeas corpus impetrado contra decisão do relator que, em habeas corpus requerido a tribunal superior, indefere a liminar."
+2. Hipótese em que o Tribunal de origem indeferiu a liminar, motivadamente, por não ter verificado de imediato o alegado constrangimento ilegal que justifique a antecipação do mérito.
+3. As possíveis ilegalidades apontadas pela defesa, aptas à mitigação da mencionada Súmula e a justificar manifestação antecipada deste Superior Tribunal de Justiça, não foram constatadas.
+4. Agravo regimental não provido.
+(AgRg no HC n. 914.159/SP, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 12/08/2024, DJe de 15/08/2024; grifamos).
+DIREITO PROCESSUAL PENAL. AGRAVO REGIMENTAL EM HABEAS CORPUS. PRISÃO PREVENTIVA. SÚMULA N. 691/STF. DECISÃO FUNDAMENTADA. AUSÊNCIA DE TERATOLOGIA. AGRAVO DESPROVIDO.
+I. CASO EM EXAME
+1. Agravo regimental interposto contra decisão monocrática da Presidência do Tribunal que indeferiu liminarmente habeas corpus, com fundamento na Súmula n. 691 do STF. O agravante sustenta constrangimento ilegal decorrente de prisão preventiva supostamente baseada apenas na gravidade abstrata do delito, em violação ao princípio da proporcionalidade. Requer o juízo de retratação para concessão da liminar e, superada essa fase, o regular processamento do agravo e apreciação do pedido liminar por relator competente.
+II. QUESTÃO EM DISCUSSÃO
+2. Consiste em verificar a possibilidade de superação da Súmula n. 691/STF para concessão de habeas corpus, diante da alegada ausência de fundamentação idônea no decreto de prisão preventiva.
+III. RAZÕES DE DECIDIR
+3. O pedido liminar formulado no agravo regimental é incabível, por ausência de previsão legal, conforme jurisprudência consolidada do STJ.
+4. A Súmula n. 691/STF veda a impetração de habeas corpus contra decisão que indefere liminar em writ anteriormente impetrado no tribunal de origem, sob pena de supressão de instância.
+5. A jurisprudência admite a mitigação da Súmula n. 691/STF apenas em hipóteses excepcionais, como flagrante ilegalidade, teratologia ou ausência de fundamentação na decisão impugnada.
+6. O indeferimento da liminar foi justificado devidamente na presença de fundamentos em tese válidos para a prisão preventiva: a apreensão de expressiva quantidade de drogas (63g de cocaína e 521g de maconha - fl. 18) e os indícios de reiteração delitiva e de envolvimento em organização criminosa extensa, não se verificando, assim, ilegalidade flagrante ou teratologia apta a autorizar a mitigação da Súmula n. 691/STF, cabendo, assim, ao Tribunal de origem a análise da matéria meritória.
+IV. AGRAVO REGIMENTAL DESPROVIDO.
+(AgRg no HC n. 1.013.281/SC, relator Ministro Carlos Cini Marchionatti (Desembargador convocado do TJ/RS), Quinta Turma, julgado em 03/09/2025, DJEN de 09/09/2025/ grifamos).
+De mais a mais, conforme consignado nos autos, o ora paciente tem folha de antecedentes criminais com prática de vários crimes patrimoniais. Confira-se, por oportuno, o que consta da decisão que converteu a prisão em flagrante em preventiva:
+Em relação ao periculum libertatis , embora o crime ora imputado ao custodiado é praticado sem violência ou grave ameaça à pessoa, denota-se da FAC do custodiado um histórico de várias prática s de crimes contra o patrimônio. Consta, na anotação nº 4, um registro de ocorrência pela prática do mesmo crime de furto (art. 155 do CP) em 10/02 /2026, ou seja, há pouco mais de um mês. O fato de o custodiado, em tão curto espaço de tempo, voltar a ser preso em flagrante pela mesmíssima conduta, demonstra risco de reiteração delitiv a. Ademais, verifica-se a existência de ação penal em curso, na qual já sobreveio sentença condenatória pela prática dos delitos de tráfico de drogas e associação para o tráfico (anotação nº 2), ainda que pendente de trânsito em julgado. Tal circunstância, embora não configure reincidência, constitui elemento idôneo a demonstrar a reiterada vinculação do custodiado a contextos definidos como crime e reforça o prognóstico negativo quanto à sua conduta em liberdade
+Consoante leciona o Min. Rogério Schietti Cruz (CRUZ, Rogério Machado Schietti . Prisão cautelar: dramas, princípios e alternativas . . 3. Ed.. Salvador: JusPodivm , 2023, p. 266), a prisão preventiva para garantia da orem pública é válida a partir da interpretação do conceito de periculum libertatis como a representação da percepção de que a liberdade do investigado ou do acusado pode trazer prejuízos futuros para instrução, para aplicação da lei ou para ordem pública. Assim, é legítimo o uso da medida extrema para evitar a prática de novos crimes, ante a periculosidade do agente, manifestada na forma da execução do crime ou no seu comportamento anterior ou posterior à prática delitiva. A decretação de prisão preventiva com fundamento na garantia da ordem pública, em razão do elevado risco de reiteração delitiva, considerada as diversas condenações do acusado, também é admitida na jurisprudência do C. Superior Tribunal de Justiça (e. g.: STJ. RHC n. 210.087/PR, relator Ministro Og Fernandes, Sexta Turma, julgado em 14/5 /2025, DJEN de 19/5/2025.). Portanto, tendo em vista que as condições pessoais dos agentes demonstram periculosidade social, entendo que, no presente caso, a determinação de medida cautelar diversa da prisão, conforme art. 319, não seria adequada ou suficiente para a garantia da ordem pública e a aplicação da lei penal.
+Como cediço, a reiteração delitiva denota periculosidade social e revela risco concreto de continuidade da prática criminosa, legitimando a segregação cautelar como medida necessária para obstar novos delitos e assegurar a eficácia da persecução penal.
+No caso dos autos, restou consignado nos autos que o ora paciente possui histórico de prática de várias infrações patrimoniais, pelo que, de fato, deve se aguardar a deliberação do Colegiado a quo, quanto ao mérito da impetração lá apresentada.
+Conforme pacífica jurisprudência desta Corte, a preservação da ordem pública justifica a imposição da prisão preventiva quando o agente ostentar maus antecedentes, reincidência, atos infracionais pretéritos, inquéritos ou mesmo ações penais em curso, porquanto tais circunstâncias denotam sua contumácia delitiva e, por via de consequência, sua periculosidade.
+No mesmo sentido, e em reforço:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS. CORRUPÇÃO ATIVA. PRISÃO PREVENTIVA. FUNDAMENTAÇÃO. SUFICIÊNCIA. GRAVIDADE CONCRETA. QUANTIDADE DE DROGAS. OFERTA DE VANTAGEM INDEVIDA. MAUS ANTECEDENTES. RISCO DE REITERAÇÃO DELITIVA. NEGATIVA DO DIREITO DE APELAR EM LIBERDADE. REGIME SEMIABERTO. COMPATIBILIDADE COM A CUSTÓDIA CAUTELAR. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. A prisão preventiva é compatível com a presunção de não culpabilidade do acusado desde que não assuma natureza de antecipação da pena e não decorra, automaticamente, do caráter abstrato do crime ou do ato processual praticado (art. 313, § 2º, CPP). Além disso, a decisão judicial deve apoiar-se em motivos e fundamentos concretos, relativos a fatos novos ou contemporâneos, dos quais se possa extrair o perigo que a liberdade plena do investigado ou réu representa para os meios ou os fins do processo penal (arts. 312 e 315 do CPP).
+2. A jurisprudência do Superior Tribunal de Justiça admite a referência aos fundamentos que justificaram a decretação da prisão preventiva do acusado na sentença, para negar-lhe o direito de recorrer em liberdade.
+3. No caso concreto, o decreto prisional evidenciou a gravidade concreta da conduta, extraída da quantidade de drogas apreendidas (424,39g de maconha) e pelo fato de um dos acusados haver oferecido vantagem indevida (R$ 1.895,00) aos policiais para que fossem liberados sem prisão, além dos maus antecedentes de um dos agravantes.
+4. É idônea a motivação invocada pelo Juízo de primeiro grau para embasar a ordem de prisão do paciente, porquanto evidenciou a gravidade em concreto da conduta praticada, consideradas a quantidade e a natureza do entorpecente apreendido.
+5. "O risco concreto de reiteração delitiva, demonstrado pela existência de maus antecedentes, reincidência, atos infracionais pretéritos, inquéritos ou ações penais em curso, pode justificar a imposição da prisão preventiva devido à necessidade de se assegurar a ordem pública" (RHC n. 128.993/PI, Rel. Ministra Laurita Vaz, 6ª T., DJe 18/12/2020).
+6. É cabível a manutenção da prisão preventiva quando o réu for condenado ao modo semiaberto de cumprimento de pena, desde que haja compatibilização da custódia com o regime fixado na sentença. No caso, segundo as instâncias ordinárias, os acusados estão em prisão preventiva compatível com o regime inicial fixado na sentença.
+7. Agravo regimental não provido.
+(AgRg no HC n. 993.470/SP, relator Ministro Rogério Schietti Cruz, Sexta Turma, julgado em 03/09/2025, DJEN de 08/09/2025, grifei).
+AGRAVO REGIMENTAL NO HABEAS CORPUS. PRISÃO PREVENTIVA. TRÁFICO DE DROGAS. QUANTIDADE E VARIEDADE DE DROGAS. REITERAÇÃO DELITIVA.
+1. O ordenamento jurídico vigente traz a liberdade do indivíduo como regra. Desse modo, a prisão revela-se cabível tão somente quando estiver concretamente comprovada a existência do periculum libertatis, sendo incabível o recolhimento de alguém ao cárcere caso se mostrem inexistentes os pressupostos autorizadores da medida extrema, previstos na legislação processual penal.
+2. No caso, a prisão preventiva teve como lastro para a segregação cautelar a expressiva quantidade e variedade de drogas apreendidas - a saber, 882,36g de maconha e 15,37g de cocaína -, o que o Superior Tribunal de Justiça tem admitido como fundamentação idônea para a decretação e manutenção da prisão preventiva em razão da gravidade concreta da conduta.
+3. Destacou-se, ainda, que o agravante estava em cumprimento de pena, nos Autos de Execução n. 4400260-79.2024.8.13.0481, à época do cometimento do delito em apreço.
+4. Conforme sedimentado em farta jurisprudência desta Corte, maus antecedentes, reincidência, atos infracionais pretéritos ou até mesmo outras ações penais em curso justificam a imposição de segregação cautelar como forma de evitar a reiteração delitiva e, assim, garantir a ordem pública.
+5. As circunstâncias que envolvem o fato demonstram que outras medidas previstas no art. 319 do CPP não surtiriam o efeito almejado para a proteção da ordem pública, sendo certo, ainda, que condições subjetivas favoráveis do acusado, por si sós, não impedem a prisão cautelar, caso se verifiquem presentes os requisitos legais para a decretação da segregação provisória.
+6. Agravo regimental a que se nega provimento.
+(AgRg no HC n. 1.000.376/MG, relator Ministro Antônio Saldanha Palheiro, Sexta Turma, julgado em 18/06/2025, DJEN de 26/06/2025).
+Ante o exposto, nego provimento ao agravo regimental .
+É o voto.
