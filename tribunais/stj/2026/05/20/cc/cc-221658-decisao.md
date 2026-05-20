@@ -1,0 +1,29 @@
+DECISÃO
+Trata-se de conflito negativo de competência instaurado pelo Juízo da 2ª Vara do Trabalho de Marília  suscitante  em desfavor do Juízo da 1ª Vara Federal de Marília  suscitado  , nos autos de ação proposta por Camila Polon contra a Caixa Econômica Federal (CEF), na qual se pleiteia a expedição de alvará/liberação do saldo da conta vinculada do Fundo de Garantia do Tempo de Serviço (FGTS) da autora para custeio de tratamento médico de seu filho menor, diagnosticado com Transtorno do Espectro Autista (TEA) e transtornos específicos da fala e linguagem, alegadamente enquadrados no art. 20, XXII, da Lei n. 8.036/1990.
+A ação foi ajuizada inicialmente perante o Juizado Especial Federal de Marília, que declinou da competência, ao fundamento de que "reputa-se incompetente este Juizado para o processamento do feito", por se tratar de procedimento especial de jurisdição voluntária (alvará judicial) previsto no Código de Processo Civil, nos termos do Enunciado n. 9 do FONAJEF e do art. 725, VII, do CPC/2015 (fls. 52-53).
+Por sua vez, o Juízo da 1ª Vara Federal de Marília declarou a incompetência absoluta da Justiça Comum Federal e determinou a remessa dos autos à Justiça do Trabalho, argumentando que "o direito ao FGTS ( ) nasce, única e exclusivamente, de uma relação de emprego" e que, por força do art. 114, I, da Constituição da República, compete à Justiça do Trabalho processar e julgar controvérsias relativas a esse direito, citando precedentes do Tribunal Superior do Trabalho e o art. 109, I, da Constituição (fls. 56-61).
+Na sequência, o Juízo da 2ª Vara do Trabalho de Marília suscitou o presente conflito negativo de competência, afirmando que o caso não envolve discussão de relação empregatícia, mas apenas a possibilidade de movimentação administrativa do FGTS, atraindo a competência da Justiça Federal à luz do art. 109, I, da Constituição e da Súmula n. 82 do Superior Tribunal de Justiça, além do precedente: "Compete à Justiça Federal, excluídas as reclamações trabalhistas, processar e julgar os feitos relativos a movimentação do FGTS" (Súmula 82, Corte Especial, julgado em 18/06/1993, DJ 02/07/1993, p. 13283) (fls. 100-104).
+É o relatório. Decido.
+A competência para processamento e julgamento é definida em razão do pedido e da causa de pedir.
+Como visto, a autora pugna pelo levantamento de valor de contas vinculadas do FGTS, para custeio de tratamento médico de seu filho menor.
+Nesse contexto, não se vislumbra nenhum pedido envolvendo qualquer relação de trabalho entre as partes, carecendo, portanto, de competência para o feito o juízo laboral, cabendo à justiça comum o exame da controvérsia.
+Por outro lado, a Caixa Econômica Federal, em sua contestação, requereu a improcedência do pedido de liberação do FGTS por ausência dos requisitos l egais (fls. 91-95 e 100). Havendo resistência da CEF, a competência para processar e julgar a causa é a Justiça Federal, tendo em vista o disposto no art. 109, I, da CF/1988.
+A propósito:
+CONFLITO DE COMPETÊNCIA. PROCESSUAL CIVIL. AÇÃO ORDINÁRIA. LEVANTAMENTO DE FGTS. RESISTÊNCIA DA CEF. PEDIDO SUCESSIVO DE CONDENAÇÃO. SÚMULA 82/STJ.
+1. Ação ordinária em que se pretende a concessão de alvará de levantamento de saldo de FGTS da conta de titular falecido. Em pedido sucessivo, existência de requerimento de condenação da Caixa Econômica Federal caso não seja localizada a respectiva conta.
+2. Se o levantamento dos depósitos de FGTS encontrar qualquer resistência por parte da Caixa Econômica Federal-CEF, é da Justiça Federal a competência para processar e julgar a ação, em face da litigiosidade que assume o feito, nos termos da Súmula 82/STJ:
+"Compete à Justiça Federal, excluídas as reclamações trabalhistas, processar e julgar os feitos relativos a movimentação do FGTS".
+3. No caso, a Caixa Econômica Federal, de maneira expressa, resiste à pretensão, alegando não poder restituir qualquer importância à autora por inexistir a conta ou porque não houve a regular transferência pelo antigo banco depositário.
+4. A existência de pedido sucessivo de condenação da empresa pública não altera a solução do incidente, pois o fator determinante para a fixação de competência se dá em momento anterior, qual seja, quando a CEF oferece resistência à pretensão da autora.
+5. Conflito conhecido para declarar a competência do Juízo Federal da Vara do Juizado Especial Cível de Chapecó/SC, o suscitado.
+(CC n. 94.476/SC, relator Ministro Castro Meira, Primeira Seção, julgado em 13/5/2009, DJe de 25/5/2009.)
+PROCESSUAL CIVIL. CONFLITO NEGATIVO DE COMPETÊNCIA. PEDIDO DE ALVARÁ JUDICIAL. LEVANTAMENTO DE VERBAS DO FGTS. RESISTÊNCIA DA CEF. JURISDIÇÃO CONTENCIOSA. COMPETÊNCIA DA JUSTIÇA FEDERAL.
+1. A jurisprudência da Primeira Seção do STJ firmou-se no sentido de que, sendo, em regra, de jurisdição voluntária a natureza dos feitos que visam à obtenção de alvarás judiciais para levantamento de importâncias relativas a FGTS, PIS/PASEP, seguro-desemprego e benefícios previdenciários, a competência para julgá-los é da Justiça Estadual.
+2. Por outro lado, havendo resistência da CEF, competente para processar e julgar a causa é a Justiça Federal, tendo em vista o disposto no art. 109, I, da CF/1988.
+3. In casu, verifico que houve obstáculo por parte da Caixa Econômica Federal quanto ao levantamento do FGTS requerido pelo autor, o que evidencia a competência da Justiça Federal para o julgamento da demanda, nos termos do art. 109, I, da Constituição da República.
+4. Constatada a competência de um terceiro Juízo, estranho aos autos, admite-se-lhe a remessa do feito.
+5. Conflito conhecido para declarar competente a Justiça Federal de Santos/SP, apesar de não integrar o presente conflito.
+(CC n. 105.206/SP, relator Ministro Herman Benjamin, Primeira Seção, julgado em 26/8/2009, DJe de 28/8/2009.)
+Ante o exposto, conheço do conflito para declarar competente o Juízo da 1ª Vara Federal de Marília  suscitado.
+Publique-se. Comuniquem-se.
+EMENTA
