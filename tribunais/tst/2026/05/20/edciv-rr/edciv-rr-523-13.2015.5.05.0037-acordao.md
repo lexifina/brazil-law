@@ -1,0 +1,73 @@
+Poder Judiciário
+Justiça do Trabalho
+Tribunal Superior do Trabalho
+PROCESSO Nº TST-EDCiv-RR - 523-13.2015.5.05.0037
+A C Ó R D Ã O
+8ª Turma
+GMEV/ess/csn/iz
+EMBARGOS DE DECLARAÇÃO. RECURSO DE REVISTA.
+RESPONSABILIDADE SUBSIDIÁRIA. ENTE PÚBLICO. NÃO
+DEMONSTRAÇÃO DA CONDUTA CULPOSA. OMISSÃO NÃO
+CONFIGURADA.
+I. Não se verifica qualquer omissão, contradição ou obscuridade
+a ser sanada. No caso dos autos, esta Turma entendeu que o
+Tribunal Regional teria aplicado a responsabilidade do ente
+público de forma automática, apenas pela ausência de prova da
+fiscalização adequada, sem analisar a existência de culpa, o que
+contraria a jurisprudência do STF no julgamento da ADC n° 16 e
+do RE 760931 (Tema 246) e no julgamento do Tema 1.118 da
+Tabela de Repercussão Geral.
+No que se refere à alegação de modulação dos efeitos da tese
+firmada, acrescente-se que diante da aplicação integral da
+jurisprudência do STF firmada no Tema 1.118 de Repercussão
+Geral, e na ausência de qualquer modulação dos seus efeitos,
+não há falar em aplicabilidade limitada, como ora pretendido.
+II. Embargos de declaração conhecidos e acolhidos para prestar
+esclarecimentos, sem efeito modificativo.
+Vistos, relatados e discutidos estes autos de Embargos de Declaração Cível em
+Recurso de Revista nº TST-EDCiv-RR - 523-13.2015.5.05.0037, em que é Embargante JAQUISON
+NASCIMENTO DA PAIXÃO e são Embargados DELTA LOCAÇÃO DE SERVIÇOS E EMPREENDIMENTOS
+LTDA. e ESTADO DA BAHIA.
+Trata-se de embargos de declaração em que se alega a existência de omissão no
+julgado.
+Não se concedeu vista à parte contrária.
+É o relatório.
+V O T O
+1.CONHECIMENTO
+Atendidos os pressupostos de admissibilidade, conheço dos embargos de
+declaração.
+2. MÉRITO
+A parte embargante alega que há omissão no acórdão “por não ter enfrentado a
+questão sob a ótica da modulação de efeitos, que se impõe em casos de virada jurisprudencial para
+proteger a confiança legítima e evitar situações de extrema injustiça, como a que se apresenta: a
+Este documento pode ser acessado no endereço eletrônico http://www.tst.jus.br/validador sob código 1006751EFAF7D213BE.
+provável inexequibilidade de um crédito de natureza alimentar, ante o conhecido encerramento das
+atividades da devedora principal”.
+Ao exame.
+Não se verifica qualquer omissão, contradição ou obscuridade a ser sanada.
+No caso dos autos, esta Turma entendeu que o Tribunal Regional teria aplicado a
+responsabilidade do ente público de forma automática, apenas pela ausência de prova da fiscalização
+adequada, sem analisar a existência de culpa, o que contraria a jurisprudência do STF no julgamento da
+ADC n° 16 e do RE 760931 (Tema 246) e no julgamento do Tema 1.118 da Tabela de Repercussão Geral.
+No que se refere à alegação de modulação dos efeitos da tese firmada,
+acrescente-se que diante da aplicação integral da jurisprudência do STF firmada no Tema 1.118 de
+Repercussão Geral, e na ausência de qualquer modulação dos seus efeitos, não há falar em
+aplicabilidade limitada, como ora pretendido.
+Registre-se que não importa, para aplicação do Tema 1.118, o fato da instrução
+processual ter sido concluída antes da publicação da certidão de julgamento do RE 1298647/SP (Tema
+1.118), haja vista que a tese firmada pelo STF passou a produzir efeitos vinculantes e eficácia erga
+omnes a partir da publicação da ata de julgamento, em 24/02/2025, nos termos do entendimento
+consolidado no julgamento da Rcl 3.632 AgR/AM (Rel. p/ acórdão Min. Eros Grau, Tribunal Pleno, DJU
+18/08/2006).
+Diante do exposto, a co lho os embargos de declaração para prestar
+esclarecimentos, sem alteração do julgado.
+ISTO POSTO
+ACORDAM os Ministros da Oitava Turma do Tribunal Superior do Trabalho, à
+unanimidade, conhecer os embargos de declaração e,no mérito os acolher para prestar
+esclarecimentos, sem alteração do julgado.
+Brasília, 20 de maio de 2026.
+Firmado por assinatura digital (MP 2.200-2/2001)
+EVANDRO VALADÃO
+Ministro Relator
+Firmado por assinatura digital em 26/05/2026 pelo sistema AssineJus da Justiça do Trabalho, conforme MP 2.200-2/2001, que instituiu a Infra-Estrutura
+de Chaves Públicas Brasileira. Este documento pode ser acessado no endereço eletrônico http://www.tst.jus.br/validador sob código 1006751EFAF7D213BE.
