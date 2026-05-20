@@ -1,0 +1,105 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUINTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 14/05/2026 a 20/05/2026, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Joel Ilan Paciornik, Messod Azulay Neto, Maria Marluce Caldas e Reynaldo Soares da Fonseca votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Reynaldo Soares da Fonseca.
+EMENTA
+execução penal. Agravo regimental NO habeas corpus. Direito de visita em unidade prisional. Restrição fundada em elementos concretos. Preservação da segurança pública e da instrução criminal. RECURSO IMprovido.
+I. Caso em exame
+1. Agravo regimental interposto por apenado contra decisão monocrática que não conheceu de habeas corpus, por meio do qual se buscava o restabelecimento da decisão do juízo de primeiro grau, que havia lhe concedido o direito de visitação de sua companheira, com reflexos no convívio com filha menor.
+2. O Tribunal de origem reformou a decisão que havia autorizado as visitas, valorizando a preservação da segurança pública e apontando que a companheira do apenado ostenta condenação provisória e responde a outra ação penal por tráfico de drogas em coautoria com o preso, ambos integrando a mesma organização criminosa, circunstância considerada apta a prejudicar a colheita de provas em processos em andamento e a favorecer a continuidade de práticas delitivas.
+II. Questão em discussão
+3. A questão em discussão consiste em saber se há flagrante ilegalidade na decisão do Tribunal de origem que indeferiu o direito de visita da companheira ao apenado, por suposta fundamentação em presunção abstrata de risco.
+4. Outra questão em discussão consiste em saber se a restrição ao direito de visita, com reflexos no convívio da filha menor com o apenado, viola o direito à convivência familiar da criança, à luz da doutrina da proteção integral e do princípio do melhor interesse da criança (art. 227 da CR/1988).
+III. Razões de decidir
+5. O direito de visita do preso, assegurado pelo art. 41, X, da LEP, não se reveste de caráter absoluto, devendo ser ponderado com outros princípios constitucionais e infraconstitucionais, especialmente aqueles relacionados à segurança pública, à disciplina do estabelecimento prisional e à proteção da integridade física de presos e visitantes.
+6. A Corte adota entendimento consolidado de que o direito de visita pode ser restringido, desde que haja fundamentação em elementos concretos do caso, não se admitindo restrições baseadas em meras presunções abstratas de risco.
+7. No caso concreto, o Tribunal estadual apontou dados objetivos: condenação provisória da visitante por tráfico de drogas em coautoria com o apenado, existência de outra ação penal em curso também por tráfico, integração de ambos na mesma organização criminosa e risco de interferência na colheita de provas e de perpetuação de práticas delitivas, o que configura fundamentação concreta suficiente para a restrição.
+8. A decisão impugnada, ao privilegiar o primado da segurança pública e a regularidade da instrução criminal, não desconsidera o direito à convivência familiar, mas reconhece que, diante dos elementos fáticos específicos, esse direito pode ceder temporariamente frente à necessidade de evitar manutenção de laços criminosos e prejuízo à persecução penal.
+IV. Dispositivo e tese
+9. Resultado do Julgamento: Agravo regimental improvido.
+Tese de julgamento:
+1. O direito de visita do preso previsto no art. 41, X, da LEP não é absoluto e pode ser restringido quando houver elementos concretos que indiquem risco à segurança pública, à disciplina do estabelecimento prisional ou à instrução criminal.
+2. A participação conjunta do apenado e da visitante em organização criminosa, com condenações e ações penais em curso por tráfico de drogas, configura fundamento idôneo para o indeferimento do pedido de visita, ainda que alegado o propósito de preservação de vínculos familiares.
+Dispositivos relevantes citados: LEP, art. 41, X; CR/1988, art. 227.
+Jurisprudência relevante citada: STJ, AgRg no REsp n. 1.953.398/GO, Rel. Min. Reynaldo Soares da Fonseca, Quinta Turma, DJe de 30/10/2023; STJ, AgRg no REsp n. 2.184.456/SP, Rel. Min. Carlos Cini Marchionatti (Desembargador Convocado TJRS), Quinta Turma, DJEN de 26/8/2025; STJ, AgRg no RMS n. 74.257/SC, Rel. Min. Ribeiro Dantas, Quinta Turma, DJEN de 25/2/2025; STJ, RMS n. 66.541/SP, Rel. Min. Olindo Menezes (Desembargador Convocado do TRF 1ª Região), Sexta Turma, DJe de 6/5/2022.
+RELATÓRIO
+Trata-se de agravo regimental interposto por VITOR RIBEIRO MIRANDA contra decisão que não conheceu da ordem de habeas corpus.
+Reafirma, em suas razões, que há flagrante ilegalidade, em razão de: (i) aplicação de presunção abstrata de risco, em afronta à ratio decidendi do Tema Repetitivo 1.274/STJ; e (ii) omissão quanto à violação do direito de convivência familiar da filha menor do paciente, sob a égide da doutrina da proteção integral e do princípio do melhor interesse da criança (art. 227 da CR/1988), destacando a inexistência de elementos concretos e contemporâneos que justifiquem a restrição de visitas.
+Requer, assim, a reconsideração da decisão monocrática para conhecer o habeas corpus e, no mérito, conceder a ordem, nos termos da petição inicial. Subsidiariamente, postula que o agravo regimental seja levado a julgamento pela Turma, para ser conhecido e provido, reformando-se a decisão agravada, a fim de conhecer do habeas corpus e conceder a ordem, cassando o acórdão do Tribunal de Justiça do Estado do Rio Grande do Sul e restabelecendo o direito de visita da companheira e, por consequência, de sua filha menor.
+É o relatório.
+EMENTA
+execução penal. Agravo regimental NO habeas corpus. Direito de visita em unidade prisional. Restrição fundada em elementos concretos. Preservação da segurança pública e da instrução criminal. RECURSO IMprovido.
+I. Caso em exame
+1. Agravo regimental interposto por apenado contra decisão monocrática que não conheceu de habeas corpus, por meio do qual se buscava o restabelecimento da decisão do juízo de primeiro grau, que havia lhe concedido o direito de visitação de sua companheira, com reflexos no convívio com filha menor.
+2. O Tribunal de origem reformou a decisão que havia autorizado as visitas, valorizando a preservação da segurança pública e apontando que a companheira do apenado ostenta condenação provisória e responde a outra ação penal por tráfico de drogas em coautoria com o preso, ambos integrando a mesma organização criminosa, circunstância considerada apta a prejudicar a colheita de provas em processos em andamento e a favorecer a continuidade de práticas delitivas.
+II. Questão em discussão
+3. A questão em discussão consiste em saber se há flagrante ilegalidade na decisão do Tribunal de origem que indeferiu o direito de visita da companheira ao apenado, por suposta fundamentação em presunção abstrata de risco.
+4. Outra questão em discussão consiste em saber se a restrição ao direito de visita, com reflexos no convívio da filha menor com o apenado, viola o direito à convivência familiar da criança, à luz da doutrina da proteção integral e do princípio do melhor interesse da criança (art. 227 da CR/1988).
+III. Razões de decidir
+5. O direito de visita do preso, assegurado pelo art. 41, X, da LEP, não se reveste de caráter absoluto, devendo ser ponderado com outros princípios constitucionais e infraconstitucionais, especialmente aqueles relacionados à segurança pública, à disciplina do estabelecimento prisional e à proteção da integridade física de presos e visitantes.
+6. A Corte adota entendimento consolidado de que o direito de visita pode ser restringido, desde que haja fundamentação em elementos concretos do caso, não se admitindo restrições baseadas em meras presunções abstratas de risco.
+7. No caso concreto, o Tribunal estadual apontou dados objetivos: condenação provisória da visitante por tráfico de drogas em coautoria com o apenado, existência de outra ação penal em curso também por tráfico, integração de ambos na mesma organização criminosa e risco de interferência na colheita de provas e de perpetuação de práticas delitivas, o que configura fundamentação concreta suficiente para a restrição.
+8. A decisão impugnada, ao privilegiar o primado da segurança pública e a regularidade da instrução criminal, não desconsidera o direito à convivência familiar, mas reconhece que, diante dos elementos fáticos específicos, esse direito pode ceder temporariamente frente à necessidade de evitar manutenção de laços criminosos e prejuízo à persecução penal.
+IV. Dispositivo e tese
+9. Resultado do Julgamento: Agravo regimental improvido.
+Tese de julgamento:
+1. O direito de visita do preso previsto no art. 41, X, da LEP não é absoluto e pode ser restringido quando houver elementos concretos que indiquem risco à segurança pública, à disciplina do estabelecimento prisional ou à instrução criminal.
+2. A participação conjunta do apenado e da visitante em organização criminosa, com condenações e ações penais em curso por tráfico de drogas, configura fundamento idôneo para o indeferimento do pedido de visita, ainda que alegado o propósito de preservação de vínculos familiares.
+Dispositivos relevantes citados: LEP, art. 41, X; CR/1988, art. 227.
+Jurisprudência relevante citada: STJ, AgRg no REsp n. 1.953.398/GO, Rel. Min. Reynaldo Soares da Fonseca, Quinta Turma, DJe de 30/10/2023; STJ, AgRg no REsp n. 2.184.456/SP, Rel. Min. Carlos Cini Marchionatti (Desembargador Convocado TJRS), Quinta Turma, DJEN de 26/8/2025; STJ, AgRg no RMS n. 74.257/SC, Rel. Min. Ribeiro Dantas, Quinta Turma, DJEN de 25/2/2025; STJ, RMS n. 66.541/SP, Rel. Min. Olindo Menezes (Desembargador Convocado do TRF 1ª Região), Sexta Turma, DJe de 6/5/2022.
+VOTO
+A irresignação não merece prosperar.
+De acordo com o art. 41, X, da Lei de Execução Penal, é direito do preso a visita do cônjuge, da companheira, de parentes e amigos em dias determinados.
+"Art. 41 - Constituem direitos do preso:
+ ..
+X - visita do cônjuge, da companheira, de parentes e amigos em dias determinados;"
+Porém, de acordo com o posicionamento adotado por esta Corte, o direito de visitas não é absoluto, devendo ser sopesado de acordo com a situação específica no caso concreto, em conjunto com outros princípios, dentre os quais o que visa a garantir a disciplina e a segurança dentro dos estabelecimentos prisionais, velando também, por consequência, pela integridade física tanto dos reclusos quanto dos que os visitam:
+Com efeito, "embora relevante ao processo de reinserção do preso à sociedade e imprescindível para a manutenção dos seus laços familiares, o direito à visitação não possui natureza absoluta e deve ser sopesado, de acordo com a situação específica vivenciada no caso concreto, em conjunto com outros princípios, dentre os quais o que visa a garantir a disciplina e a segurança dentro dos estabelecimentos prisionais, velando, por consequência, também pela integridade física tanto dos reclusos quanto dos que os visitam." (AgRg no REsp n. 1.953.398/GO, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 24/10/2023, DJe de 30/10/2023).
+A respeito, cito, ainda, os seguintes julgados:
+"AGRAVO REGIMENTAL NO RECURSO ESPECIAL. EXECUÇÃO. INEXISTÊNCIA DE VIOLAÇÃO DO PRINCÍPIO DA COLEGIALIDADE. DIREITO DE VISITAÇÃO EM ESTABELECIMENTO PRISIONAL. LIMITAÇÃO À COMPANHEIRA DO APENADO CONDENADA PELOS MESMOS CRIMES. FUNDAMENTAÇÃO CONCRETA. AGRAVO DESPROVIDO.
+I. CASO EM EXAME:
+1. Agravo regimental interposto contra decisão que negou provimento a recurso especial, mantendo acórdão que reconheceu a legalidade da limitação ao direito de visitação da agravante ao companheiro custodiado em unidade prisional, com fundamento na Resolução n. 144/2010 da SAP e no art. 41, parágrafo único, da Lei de Execução Penal (LEP).
+II. QUESTÃO EM DISCUSSÃO
+2. Há duas questões em discussão: (i) definir se houve violação ao princípio da colegialidade pela decisão monocrática do relator no recurso especial; (ii) estabelecer se a restrição ao direito de visitação da agravante está devidamente fundamentada em circunstâncias concretas, conforme exigência jurisprudencial, notadamente o Tema n. 1.274/STJ.
+III. RAZÕES DE DECIDIR
+3. A jurisprudência do STJ é pacífica no sentido de que não viola o princípio da colegialidade a decisão monocrática do relator que, nos termos regimentais, pode ser submetida à reapreciação do órgão colegiado mediante agravo regimental, conforme reiteradamente decidido pelas turmas criminais do Tribunal.
+4. A restrição ao direito de visitação da agravante está devidamente fundamentada em elementos concretos dos autos, entre os quais se destacam a condenação da requerente pelos mesmos crimes do apenado, sua reincidência específica e a existência de provas que indicam vínculo contínuo com o crime organizado, circunstâncias que justificam a limitação do contato direto.
+5. A decisão administrativa que restringiu a visitação à modalidade por parlatório está em conformidade com a Resolução n. 144/2010 da SAP e com o art. 41, parágrafo único, da LEP, não configurando vedação absoluta ao convívio familiar, mas regulamentação legítima diante da necessidade de proteção da segurança e disciplina do ambiente prisional.
+6. O Tema n. 1.274/STJ - que exige fundamentação concreta para a restrição ao direito de visitação - foi corretamente observado, uma vez que a negativa de visitação ampla não decorreu de critérios abstratos, mas de análise casuística realizada pela administração prisional e chancelada pelo Juízo da execução penal.
+IV. DISPOSITIVO E TESE
+7. Agravo regimental desprovido.
+Tese de julgamento:
+O princípio da colegialidade não é violado por decisão monocrática do relator que pode ser impugnada por agravo regimental.
+A restrição ao direito de visitação em unidade prisional é válida quando fundamentada em elementos concretos do caso, especialmente em razão da segurança institucional e do histórico criminal da visitante.
+O direito de visitação não é absoluto e pode ser regulamentado conforme previsão legal e administrativa, inclusive por meio de acesso exclusivo ao parlatório." (AgRg no REsp n. 2.184.456/SP, relator Ministro Carlos Cini Marchionatti (Desembargador Convocado TJRS), Quinta Turma, julgado em 20/8/2025, DJEN de 26/8/2025, grifou-se.)
+"DIREITO PROCESSUAL PENAL. AGRAVO REGIMENTAL. MANDADO DE SEGURANÇA. DIREITO DE VISITAÇÃO EM UNIDADE PRISIONAL. AUSÊNCIA DE DIREITO LÍQUIDO E CERTO. AGRAVO DES PROVIDO.
+I. Caso em exame
+1. Agravo regimental interposto contra decisão monocrática que negou provimento ao recurso ordinário em mandado de segurança, no qual se pleiteava o direito de visitação da agravante ao seu companheiro em unidade prisional.
+2. O Tribunal de origem entendeu que a agravante não possuía direito líquido e certo, destacando a gravidade dos fatos imputados ao acusado, que teria tentado feminicídio contra a agravante, e a necessidade de proteção à segurança e ordem do estabelecimento prisional.
+II. Questão em discussão
+3. A questão em discussão consiste em saber se a agravante possui direito líquido e certo ao direito de visitação ao seu companheiro na prisão, considerando as circunstâncias do caso e a segurança da unidade prisional.
+4. Outra questão em discussão é a alegação de violação ao direito de autodeterminação feminina e ao princípio da irretroatividade penal, em razão da alteração legislativa pela Lei n. 14.994/2024.
+III. Razões de decidir
+5. O direito de visitação em unidades prisionais não possui caráter absoluto e deve ser ponderado com outros princípios, como a segurança e disciplina do estabelecimento.
+6. A decisão das instâncias de origem está em consonância com a jurisprudência do Superior Tribunal de Justiça, que admite a restrição do direito de visitação com base nas circunstâncias do caso concreto.
+7. A inovação recursal impede o conhecimento do argumento relativo à irretroatividade de alteração legislativa.
+IV. Dispositivo e tese
+8. Agravo regimental desprovido.
+Tese de julgamento: "1. O direito de visitação em unidades prisionais não é absoluto e deve ser ponderado com a segurança e disciplina do estabelecimento. 2. A inovação recursal impede o conhecimento de argumentos não trazidos nas razões da impetração".
+Dispositivos relevantes citados: LEP, art. 41, X; Lei n. 14.994/2024.
+Jurisprudência relevante citada: STJ, RMS 50.246/AP, Rel. Min. Jorge Mussi, Quinta Turma, julgado em 13/12/2018; STJ, AgRg no AREsp 1.767.059/PR, Rel. Min. Reynaldo Soares da Fonseca, Quinta Turma, julgado em 2/3/2021; STJ, AgRg no HC 787.519/SP, Rel. Min. Reynaldo Soares da Fonseca, Quinta Turma, julgado em 6/12/2022." (AgRg no RMS n. 74.257/SC, de minha relatoria, Quinta Turma, julgado em 19/2/2025, DJEN de 25/2/2025, grifou-se.)
+"RECURSO ORDINÁRIO EM MANDADO DE SEGURANÇA. DIREITO DOPRESO DE RECEBER VISITAS. LIMITAÇÃO IMPOSTA PELA RESOLUÇÃO DASECRETARIA DA ADMINISTRAÇÃO PENITENCIÁRIA DO ESTADO DE SÃO PAULO. POSSIBILIDADE. COMPETÊNCIA CONCORRENTE. O DIREITO DEVISITAS NÃO ABSOLUTO. COMETIMENTO DE FALTA GRAVE NOS ÚLTIMOSSEIS MESES ANTERIORES AO REQUERIMENTO.
+1. "O direito do preso de receber visitas, assegurado pelo art. 41, X, da Lei de Execuções Penais (Lei 7.210/1.984), não é absoluto e deve ser sopesado, de acordo com a situação específica vivenciada no caso concreto, em conjunto com outros princípios, dentre os quais o que visa a garantir a disciplina e a segurança dentro dos estabelecimentos prisionais, velando, por consequência, também pela integridade física tanto dos reclusos quanto dos que os visitam" (RMS 56.152/SP, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 03/04/2018,DJe 13/04/2018).
+2. Não há que se falar em impossibilidade de o Estado regulamentar as visitas aos presos, pois a competência para dispor sobre direito penitenciário é concorrente entre a União, os Estados e o Distrito Federal (art. 24, I, da CF).
+3. A norma editada pelo Secretário da Administração Penitenciária do Estado de São Paulo, ora questionado, não impõe limitação permanente, pois prevê que o reeducando será habilitado para recebimento da visita virtual se apresentar requisitos subjetivos relacionados ao bom comportamento e não incorrer em falta média ou grave nos últimos 6 meses (art. 3º, item 11).
+4. O cometimento de falta grave após o requerimento administrativo (11/10/2020) impede a concessão da segurança em razão da ausência do requisito subjetivo. Não se registra violação a direito líquido e certo do penitente.
+5. Recurso em mandado de segurança improvido." (RMS n. 66.541/SP, relator Ministro Olindo Menezes (Desembargador Convocado do TRF 1ª Região), Sexta Turma, julgado em 3/5/2022, DJe de 6/5/2022.)
+No caso dos autos, todavia, o Tribunal de origem desconstituiu a decisão do Juízo de primeiro grau, que havia concedido o direito de visitação da companheira ao paciente, privilegiando a manutenção da segurança pública, porquanto, o direito perpassa além do vínculo afetivo que dividem, uma vez que ambos integram a mesma organização criminosa, situação que pode gerar prejuízo na colheita das provas necessárias aos processos ainda em andamento. Por oportuno, confira-se o seguinte trecho do acórdão estadual:
+"No caso aqui examinado, é fato incontroverso que a visitante está condenada provisoriamente às sanções do artigo 33, caput, c/c o artigo 40, inciso IV, ambos da Lei 11.343/06, em coautoria com o preso pretendido visitar (VITOR RIBEIRO MIRANDA) - Ação Penal nº 5073696-87.2021.8.21.0001 (evento 273, DOC1). Além disso, está respondendo à ação penal nº 5257048-09.2025.8.21.0001 também pela prática do crime de tráfico de drogas.
+Como bem pontuado pelo Parquet, "a relação entre Carolina e o apenado Vitor vai além da afetiva, pois ambos integram a mesma organização criminosa. A visitação, nessas circunstâncias, pode prejudicar o andamento da outra Ação Penal nº 5257048-09.2025.8.21.0001 (processo ainda sem decisão de mérito), pois possibilita a interferência na colheita de provas, além de viabilizar a perpetuação de práticas delitivas pelo casal" (evento 1, DOC2).
+Está-se diante de situação na qual se encontram em latência valores constitucionais justapostos, de um lado a presunção de inocência da visitante e de outro o primado da manutenção da segurança, pois o contato direto desta com o preso permitirá eventualmente a manutenção do laço criminoso.
+Há, portanto, razão substancial a justificar o indeferimento do pedido de visitas, máxime se considerado o fato de que se encontram os envolvidos relacionados a traficância e posse de armamento em conjunto.
+Nessa linha de raciocínio, é caso de reforma da decisão que, na origem, deferiu o pedido de visitas, com base no primado da segurança pública e de modo a evitar a propagação do desempenho criminoso pelas partes." (e-STJ, fl. 11).
+Tais circunstâncias revelam a impossibilidade, ao menos por ora, da concessão do direito de visita da companheira ao apenado.
+Ante o exposto, nego provimento ao agravo regimental.
+É o voto.
