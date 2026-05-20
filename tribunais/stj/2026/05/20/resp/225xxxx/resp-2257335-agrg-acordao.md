@@ -1,0 +1,74 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEXTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 14/05/2026 a 20/05/2026, por unanimidade, negar provimento ao agravo regimental, nos termos do voto do Sr. Ministro Carlos Pires Brandão.
+Os Srs. Ministros Og Fernandes, Sebastião Reis Júnior e Rogerio Schietti Cruz votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Carlos Pires Brandão.
+EMENTA
+DIREITO PENAL E PROCESSUAL PENAL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. EXECUÇÃO PENAL. REMIÇÃO DE PENA POR ESTUDO. FREQUÊNCIA REGULAR AO ENSINO FUNDAMENTAL E APROVAÇÃO NO ENCCEJA DO MESMO NÍVEL. IDENTIDADE DE FATO GERADOR. BIS IN IDEM CONFIGURADO. REDISCUSSÃO DAS TESES JÁ RECHAÇADAS. AUSÊNCIA DE ARGUMENTO NOVO CAPAZ DE INFIRMAR A DECISÃO AGRAVADA. AGRAVO REGIMENTAL DESPROVIDO.
+I. CASO EM EXAME
+1. Agravo regimental interposto contra decisão monocrática que conheceu do recurso especial para negar-lhe provimento, mantendo o acórdão do Tribunal de Justiça do Estado de São Paulo que confirmou o indeferimento do pedido de remição de 5 (cinco) dias pela frequência regular ao ensino fundamental, sob o fundamento de que o agravante já havia sido beneficiado com remição de 177 (cento e setenta e sete) dias pela aprovação no ENCCEJA referente ao mesmo nível de ensino.
+2. O agravante sustenta, em síntese: (i) que a frequência regular ao ensino fundamental e a aprovação no ENCCEJA constituem fatos geradores autônomos, pois premiam esforços de natureza distinta  a disciplina e a assiduidade, de um lado, e a proficiência e a certificação, de outro; (ii) que a interpretação extensiva in bonam partem do art. 126 da Lei de Execução Penal impõe o reconhecimento cumulativo dos benefícios; e (iii) que o HC n. 788.175/SP desta Corte reafirmaria a autonomia entre as duas modalidades de remição.
+II. QUESTÃO EM DISCUSSÃO
+3. A questão em discussão consiste em verificar se a remição pela frequência regular ao ensino fundamental pode ser cumulada com a remição já concedida pela aprovação no ENCCEJA referente ao mesmo nível de ensino, sem que isso configure duplicidade de benefício pelo mesmo fato gerador.
+III. RAZÕES DE DECIDIR
+4. O agravo regimental não apresenta argumento novo capaz de infirmar os fundamentos da decisão agravada, reproduzindo, em substância, as teses já deduzidas nas razões do recurso especial.
+5. A orientação desta Corte é pacífica no sentido de que a remição pela frequência a curso regular e a remição por aprovação em exame nacional referentes ao mesmo nível de ensino configuram duplicidade de benefício pelo mesmo fato gerador, sendo vedada a cumulação.
+IV. DISPOSITIVO
+6. Agravo regimental desprovido.
+RELATÓRIO
+Trata-se de agravo regimental interposto por Jonathas Nicolau Alves contra decisão monocrática (fls. 129-132) que conheceu do recurso especial para negar-lhe provimento, mantendo o acórdão da 8ª Câmara de Direito Criminal do Tribunal de Justiça do Estado de São Paulo que confirmou o indeferimento do pedido de remição de 5 (cinco) dias pela frequência regular ao ensino fundamental.
+Na origem, o juízo da Vara de Execuções Criminais da Comarca de Campinas indeferiu o pleito sob o fundamento de que o agravante já havia sido beneficiado com remição de 177 (cento e setenta e sete) dias pela aprovação no Exame Nacional para Certificação de Competências de Jovens e Adultos  ENCCEJA, referente ao mesmo nível de ensino fundamental, configurando bis in idem a concessão de nova remição pelo mesmo fato gerador.
+Em suas razões (Fls. 137-144), o agravante sustenta que a frequência regular ao ensino fundamental e a aprovação no ENCCEJA constituem fatos geradores autônomos, pois premiariam esforços de natureza distinta  a disciplina e a assiduidade contínua, de um lado, e a proficiência e a certificação, de outro.
+Aduz que a interpretação extensiva in bonam partem do art. 126 da Lei de Execução Penal impõe o reconhecimento cumulativo dos benefícios, em atenção à finalidade ressocializadora da norma.
+Sustenta, ainda, que não haveria bis in idem, pois o que se pleiteia é o reconhecimento de dois fatos jurídicos distintos, sendo indevida a unificação dos fatos geradores promovida pela decisão agravada.
+Ao final, requer a reconsideração da decisão monocrática ou, subsidiariamente, a submissão do agravo ao julgamento do órgão colegiado, para que seja reconhecido o direito à remição de 5 (cinco) dias pela frequência regular ao ensino fundamental, de forma cumulativa com a remição já obtida pela aprovação no ENCCEJA.
+É o relatório.
+EMENTA
+DIREITO PENAL E PROCESSUAL PENAL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. EXECUÇÃO PENAL. REMIÇÃO DE PENA POR ESTUDO. FREQUÊNCIA REGULAR AO ENSINO FUNDAMENTAL E APROVAÇÃO NO ENCCEJA DO MESMO NÍVEL. IDENTIDADE DE FATO GERADOR. BIS IN IDEM CONFIGURADO. REDISCUSSÃO DAS TESES JÁ RECHAÇADAS. AUSÊNCIA DE ARGUMENTO NOVO CAPAZ DE INFIRMAR A DECISÃO AGRAVADA. AGRAVO REGIMENTAL DESPROVIDO.
+I. CASO EM EXAME
+1. Agravo regimental interposto contra decisão monocrática que conheceu do recurso especial para negar-lhe provimento, mantendo o acórdão do Tribunal de Justiça do Estado de São Paulo que confirmou o indeferimento do pedido de remição de 5 (cinco) dias pela frequência regular ao ensino fundamental, sob o fundamento de que o agravante já havia sido beneficiado com remição de 177 (cento e setenta e sete) dias pela aprovação no ENCCEJA referente ao mesmo nível de ensino.
+2. O agravante sustenta, em síntese: (i) que a frequência regular ao ensino fundamental e a aprovação no ENCCEJA constituem fatos geradores autônomos, pois premiam esforços de natureza distinta  a disciplina e a assiduidade, de um lado, e a proficiência e a certificação, de outro; (ii) que a interpretação extensiva in bonam partem do art. 126 da Lei de Execução Penal impõe o reconhecimento cumulativo dos benefícios; e (iii) que o HC n. 788.175/SP desta Corte reafirmaria a autonomia entre as duas modalidades de remição.
+II. QUESTÃO EM DISCUSSÃO
+3. A questão em discussão consiste em verificar se a remição pela frequência regular ao ensino fundamental pode ser cumulada com a remição já concedida pela aprovação no ENCCEJA referente ao mesmo nível de ensino, sem que isso configure duplicidade de benefício pelo mesmo fato gerador.
+III. RAZÕES DE DECIDIR
+4. O agravo regimental não apresenta argumento novo capaz de infirmar os fundamentos da decisão agravada, reproduzindo, em substância, as teses já deduzidas nas razões do recurso especial.
+5. A orientação desta Corte é pacífica no sentido de que a remição pela frequência a curso regular e a remição por aprovação em exame nacional referentes ao mesmo nível de ensino configuram duplicidade de benefício pelo mesmo fato gerador, sendo vedada a cumulação.
+IV. DISPOSITIVO
+6. Agravo regimental desprovido.
+VOTO
+Presentes os requisitos de admissibilidade, conheço do recurso interposto.
+No mérito, a pretensão recursal não merece acolhimento.
+O agravo regimental não apresenta argumento novo capaz de infirmar os fundamentos da decisão agravada. A defesa reapresenta, sob nova formulação, as mesmas teses já deduzidas nas razões do recurso especial.
+A questão central é simples: a remição por frequência regular ao ensino fundamental e a remição por aprovação no ENCCEJA do mesmo nível têm o mesmo fato gerador  o domínio do conteúdo curricular do ensino fundamental. A defesa propõe distingui-las pela natureza do esforço exigido em cada modalidade, sustentando que uma premiaria a assiduidade e outra a proficiência. Essa distinção, contudo, não é suficiente para afastar o bis in idem. O instituto da remição por estudo visa reconhecer o crescimento intelectual do apenado  e esse crescimento, no caso, é um só: a aquisição do conhecimento correspondente ao ensino fundamental. Conceder os dois benefícios de forma cumulativa significaria remunerar duas vezes o mesmo avanço educacional, independentemente de como se qualifique o esforço em cada caso.
+Os precedentes invocados pela defesa não amparam a pretensão.
+O HC n. 361.462/DF respondia a uma pergunta diferente: se a matrícula em curso regular impedia, por si só, o pedido de remição por aprovação no ENCCEJA. O STJ disse que não  a vinculação ao ensino presencial não é obstáculo automático ao benefício. Essa, porém, não é a questão dos autos. Aqui não se discute se o agravante pode pedir remição pelo ENCCEJA, mas sim se pode acumular essa remição com a já concedida pela frequência ao mesmo nível de ensino. Sobre esse ponto específico, a jurisprudência posterior do STJ é uniforme no sentido da vedação. O próprio HC n. 788.175/SP  citado pela defesa  confirma isso: reconheceu o direito à remição pelo ENCCEJA, mas determinou o decote dos dias já remidos pela frequência ao mesmo nível, precisamente para evitar o bis in idem. Transposta essa lógica aos autos, o resultado seria idêntico ao da decisão agravada: nenhum acréscimo de dias ao agravante.
+O AgRg no HC n. 786.844/SP cuida de situação diversa. Ali, o STJ admitiu cumular remição por aprovação no ENCCEJA-médio com remição por aprovação no ENEM porque são exames de conteúdo, complexidade e finalidade objetivamente distintos  o ENEM é voltado ao acesso ao ensino superior e exige nível de conhecimento superior ao ENCCEJA. Havia, portanto, dois avanços educacionais reais e distintos a serem reconhecidos. Nos autos, pretende-se cumular frequência regular ao ensino fundamental com aprovação no ENCCEJA do mesmo nível fundamental  mesmo conteúdo, mesma base curricular, mesmo grau de instrução. Não há dois avanços distintos. A lógica daquele precedente não se aplica.
+A orientação desta Corte é pacífica no sentido de que a remição pela frequência a curso regular e a remição por aprovação em exame nacional referentes ao mesmo nível de ensino configuram duplicidade de benefício pelo mesmo fato gerador, sendo vedada a cumulação. Sob essa perspectiva:
+AGRAVO REGIMENTAL EM HABEAS CORPUS. EXECUÇÃO PENAL.TEMPESTIVIDADE DO RECURSO DO MINISTÉRIO PÚBLICO. REMIÇÃO DE PENAS EM DUPLICIDADE. AGRAVO REGIMENTAL DESPROVIDO.
+1. Preliminarmente, registra-se que a decisão que homologou os cálculos de remição de pena em favor do paciente foi proferida em 08/07/2025. Nos termos do art. 39 da Lei nº 8.038/90, o Ministério Público dispõe do prazo de 5 (cinco) dias para se manifestar.
+Considerando que o agravo em execução penal foi interposto em 14/07/2025, impõe-se reconhecer a sua tempestividade.
+2. Esta Corte firmou entendimento no sentido de que é vedada a remição de pena em duplicidade pela mesma atividade educacional, impondo-se o decote dos dias já remidos pela frequência a curso regular quando houver, posteriormente, como na hipótese, aprovação no ENCCEJA referente ao mesmo nível de ensino.
+3. No caso em análise, o Tribunal de Justiça deu provimento ao recurso ministerial ao reconhecer que o agravado apresentou certificado de conclusão do ensino fundamental em razão de aprovação no Exame Nacional para Certificação de Competências de Jovens e Adultos - ENCCEJA/2024. Tal circunstância ensejou nova remição, com acréscimo dos dias estudados dentro da unidade prisional no mesmo período, configurando, de forma inequívoca, identidade de fato gerador e, por conseguinte, a ocorrência do vedado bis in idem.
+4. Agravo Regimental não provido.
+(AgRg no HC n. 1.027.075/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 8/10/2025, DJEN de 15/10/2025.)
+DIREITO PENAL E PROCESSUAL PENAL. AGRAVO REGIMENTAL. HABEAS CORPUS. EXECUÇÃO PENAL. REMIÇÃO POR ESTUDO. ENCCEJA/2023. FREQUÊNCIA AULAS DO CEJA. BIS IN IDEM. MESMO FATO GERADOR. AGRAVO REGIMENTAL NÃO PROVIDO.
+I. Caso em exame
+1. Agravo regimental interposto contra decisão que denegou habeas corpus.
+2. O Tribunal de origem deu provimento a agravo de execução interposto pelo Ministério Público e manteve a remição de 177 (cento e setenta e sete) dias da pena em razão de aprovação em todas as áreas de conhecimento do Exame Nacional para Certificação de Competências de Jovens e Adultos - ENCCEJA/2023 - ensino fundamental, estudo presencial e revogou a remição de 41 (quarenta e um) dias, referente à frequência de 500 (quinhentas) horas de estudo, também presencial, no Centro de Educação de Jovens e Adultos - CEJA.
+II. Questão em discussão
+3. A questão em discussão consiste em saber se a concessão de remição de pena por frequência às aulas do CEJA e por aprovação no ENCCEJA/2023, ambos do ensino fundamental, configura bis in idem, contrariando a natureza do instituto de remição.
+III. Razões de decidir
+4. A remição de pena visa recompensar o esforço do apenado em progredir intelectualmente, não sendo admissível a concessão de dupla bonificação pelo mesmo fato gerador, o que configura bis in idem.
+5. A decisão do Tribunal de origem está em consonância com o entendimento de que a remição por estudo e por aprovação no mesmo nível de ensino não pode ser cumulada, pois não representa evolução educacional distinta.
+6. A jurisprudência desta Corte Superior assenta que a remição deve refletir o crescimento intelectual do apenado, não apenas a repetição de atividades no mesmo nível educacional.
+IV. Dispositivo e tese
+7. Agravo regimental não provido.
+Tese de julgamento: 1. A remição deve refletir o crescimento intelectual do apenado e não apenas a repetição de atividades no mesmo nível educacional. 2. A concessão de remição em razão de aprovação no ENCCEJA 2023, e em razão de frequência às aulas do CEJA, no mesmo período, acarreta indevido bis in idem.
+Dispositivos relevantes citados: LEP, art. 126, § 1º, I e § 5º.
+Jurisprudência relevante citada: STJ, AgRg no HC n. 907.641/SC, relator Ministro Og Fernandes, Sexta Turma, julgado em 26/3/2025, DJEN de 31/3/2025; STJ, AgRg no HC n. 811.174/SC, relator Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), Sexta Turma, julgado em 2/10/2023, DJe de 5/10/2023.
+(AgRg no HC n. 989.935/SC, relator Ministro Otávio de Almeida Toledo (Desembargador Convocado do TJSP), Sexta Turma, julgado em 1/7/2025, DJEN de 5/8/2025.)
+AGRAVO REGIMENTAL. HABEAS CORPUS. TRÁFICO DE DROGAS. REMIÇÃO PELO ESTUDO. ANTERIOR CONCESSÃO EM RAZÃO DA APROVAÇÃO NAS CINCO ÁREAS DO CONHECIMENTO (ENCCEJA - ENSINO FUNDAMENTAL). PRETENSÃO DE RECONHECIMENTO DO DIREITO À REMIÇÃO PELO ESTUDO EM RAZÃO DAS MESMAS MATÉRIAS DO ENSINO FUNDAMENTAL, EM RAZÃO DE FREQUÊNCIA REGULAR (CEJA/2021). BIS IN IDEM. PRECEDENTE. CONSTRANGIMENTO ILEGAL. AUSÊNCIA. MANUTENÇÃO DA DECISÃO MONOCRÁTICA QUE SE IMPÕE.
+Agravo regimental improvido.
+(AgRg no HC n. 860.477/SC, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 4/3/2024, DJe de 7/3/2024.)
+Na ausência de argumento relevante que infirme as razões consideradas na decisão ora agravada, que está em sintonia com a jurisprudência desta Corte Superior de Justiça, deve ser mantida a decisão impugnada.
+Ante o exposto, nego provimento ao agravo regimental.
+É o voto.
