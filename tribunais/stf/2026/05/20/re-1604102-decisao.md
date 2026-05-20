@@ -1,0 +1,38 @@
+DECISÃO: Trata-se de recurso extraordinário, com base no art. 102, III, “a” e “c”, da Constituição Federal, apresentado pela Câmara de Dirigentes Lojistas de Aracaju, em face do acórdão do Tribunal de Justiça do Estado de Sergipe assim ementado:
+
+“INCIDENTE DE RESOLUÇÃO DE DEMANDAS REPETITIVAS – ANTECIPAÇÃO TRIBUTÁRIA DO ICMS SEM SUBSTITUIÇÃO NO ESTADO DE SERGIPE – LEGALIDADE DO REGIME PREVISTO NA LEI ESTADUAL 3796/96, ALTERADA PELA LEI 8739/2020 - PRECEDENTES DESTA CORTE - RE 598677 (REPERCUSSÃO GERAL), TEMA 496 – AUSÊNCIA DE OFENSA AO ENTENDIMENTO DO STF – QUESTÃO JÁ ANALISDA PELOS TRIBUNAIS SUPERIORES - INCIDENTE ADMITIDO.
+TESE FIXADA: - “O REGIME DE ANTECIPAÇÃO TRIBUTÁRIA SEM ENCERRAMENTO DE FASE FOI INSTITUÍDA NO ESTADO DE SERGIPE PELA LEI N. 3.796/96, TENDO A LEI 8.739/20 APENAS REGULAMENTADO A COBRANÇA JÁ PREVISTA.” - As cobranças e execuções fiscais de ICMS com antecipação tributária sem substituição, fundadas na Lei 3.796/96, regulamentado no Decreto Estadual de Sergipe nº 21.400/2002 e posterior alteração pela Lei 8739/20 são constitucionais. No Estado de Sergipe a cobrança de ICMS com antecipação tributária sem substituição, foi instituída pela Lei 3796/96.
+CASO CONCRETO: Conhecer e prover os Embargos de Declaração nº 202100738781.” (Incidente de Resolução de Demandas Repetitivas nº 202100630009,  Câmaras Cíveis Reunidas deste Tribunal de Justiça do Estado de Sergipe, Rel. Des. Roberto Eugenio da Fonseca Porto, j. 23.03.23)
+
+Na minuta, sustenta-se violação dos arts. 150 da Constituição da República. Argumenta-se, em síntese, que “[...]  ao se validar a cobrança de ICMS, na sua modalidade antecipada, com base em Decreto, atestou-se que o Estado de Sergipe (que perdurou em tal prática até os idos de 2020), age de forma contrária ao que definido no Tema 456, o que representa latente risco ao contribuinte.”
+É o relatório.
+Decido.
+O recurso não comporta seguimento.
+A controvérsia cinge-se, no presente caso, em determinar a constitucionalidade da antecipação, sem substituição tributária, do pagamento do ICMS, no período anterior à Lei Estadual 8.739/2020 do Estado de Sergipe.
+O Tribunal de origem decidiu a demanda sob os seguintes fundamentos:
+
+“No caso do Estado de Sergipe a antecipação tributária é regulada pela Lei Estadual 3796/96, tal como se observa em seu artigo 17. E inclusive o STJ já reconheceu a legalidade desta exação, senão vejamos:
+[...]
+Impende salientar que a cobrança está respaldada na Lei nº 3.796/1996, com as alterações promovidas pela Lei nº 8.739/2020, que apenas regulamentou cobrança já prevista:
+“Art. 8º Considera-se ocorrido o fato gerador do ICMS no momento:
+...
+XV - da entrada de mercadoria ou bem no estabelecimento do adquirente ou em outro por ele indicado, para efeito de exigência do imposto por substituição ou antecipação tributária observado o disposto no art. 17 desta Lei, como também por Antecipação Tributária sem Encerramento da Fase de Tributação (Antecipação parcial) e por Complementação da Alíquota Interestadual previstos nos artigos 17-A, 42 e 42-A desta Lei;
+...
+Art. 23. A mercadoria que estiver sob o regime de substituição tributária, ficará sujeita ao pagamento antecipado do imposto, quando este não tiver sido retido pelo remetente.
+Parágrafo único. O pagamento antecipado do imposto a que se refere este artigo será efetuado na primeira repartição fazendária do Estado, por onde transitar a mercadoria, observadas as exceções previstas em regime especial de tributação”
+Assim, não há que se falar criação de regime de antecipação tributária no Estado de Sergipe pela Lei estadual 8.739/20, mas sim pela Lei n. 3.796/96, como já amplamente decidido pelos Tribunais Superiores.” (e-doc 34)
+
+Verifica-se, portanto, que o Tribunal de Justiça do Estado de Sergipe, por meio de suas Câmaras Cíveis Reunidas, entendeu pela validade da antecipação, sem substituição tributária, do pagamento do ICMS, com base na previsão da  Lei Estadual nº 3.796/96.
+Dessa forma, para superar o entendimento adotado no acórdão recorrido e adotar a tese pretendida pelo recorrente, no sentido que a previsão legal era genérica e não disciplinava a matéria, seria necessário o revolvimento da moldura fática delineada, bem como a análise da legislação infraconstitucional local aplicável, o que torna oblíqua e reflexa eventual ofensa, insuscetível, portanto, de viabilizar o conhecimento do recurso extraordinário. Aplicação das Súmulas nº 279 e 280/STF: “para simples reexame de prova não cabe recurso extraordinário” e “por ofensa a direito local não cabe recurso extraordinário”. Nesse sentido:
+
+“Direito Tributário. Agravo interno em recurso extraordinário com agravo. Embargos à execução fiscal. Antecipação de ICMS por substituição tributária. Legislação infraconstitucional. Súmulas 279 e 280/STF. I. Caso em exame 1. Agravo interno contra decisão que negou seguimento a recurso extraordinário com agravo, o qual tem por objeto acórdão que negou provimento ao recurso. II. Questão em discussão 2. Preenchimento dos pressupostos de admissibilidade do recurso extraordinário com agravo. III. Razão de decidir 3. A petição de agravo não trouxe novos argumentos aptos a desconstituir a decisão agravada, a qual deve ser mantida pelos seus próprios fundamentos. 4. Hipótese em que, para dissentir do entendimento firmado pelo Tribunal de origem, seria necessário analisar a legislação infraconstitucional aplicada ao caso, assim como reexaminar fatos e provas constantes dos autos, procedimentos vedados neste momento processual (Súmulas 279 e 280/STF). IV. Dispositivo 5. Nos termos do art. 85, § 11, do CPC/2015, fica majorado em 10% o valor da verba honorária fixada anteriormente, observados os limites legais do art. 85, §§ 2º e 3º, do CPC/2015 e a eventual concessão de justiça gratuita. 6. Agravo interno a que se nega provimento, com a aplicação da multa de 1% (um por cento) sobre o valor atualizado da causa, nos termos do art. 1.021, § 4º, do CPC/2015.” (ARE 1521398 AgR, Rel. Min. Luís Roberto Barroso (Presidente), Tribunal Pleno, DJe-s/n 06-03-2025)
+“Agravo regimental em recurso extraordinário. Direito tributário. ICMS. Antecipação tributária sem substituição. Princípio da legalidade. Leis nº 3.796/96 e nº 8.739/2020. Regulamentação. Necessidade de reexame da legislação infraconstitucional. Súmulas nºs 279, 280 e 636 da Suprema Corte. 1. A controvérsia foi dirimida com base na legislação infraconstitucional local pertinente (Lei nº 3.796/96; Lei nº 8.739/20 e Decreto nº 21.400/02), bem como no conjunto fático-probatório dos autos. Assim, o acolhimento da pretensão recursal encontra óbice nos enunciados sumulares nºs 279 e 280 do Supremo Tribunal Federal. 2. Não cabe recurso extraordinário por contrariedade ao princípio constitucional da legalidade quando sua verificação pressuponha rever a interpretação dada a normas infraconstitucionais na decisão recorrida. Súmula nº 636/STF. 3. Agravo regimental ao qual se nega provimento, com imposição de multa de 1% (art. 1.021, § 4º, do CPC). 4. Havendo prévia fixação de honorários advocatícios pelas instâncias de origem, seu valor monetário será majorado em 10% (dez por cento) em desfavor da parte recorrente, nos termos do art. 85, § 11, do CPC, observados os limites dos §§ 2º e 3º do referido artigo e a eventual concessão de justiça gratuita.” (RE 1393662 AgR, Rel. Min. Dias Toffoli, Primeira Turma, DJe-240 28-11-2022)
+
+Diante do exposto, com base no art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal, nego seguimento ao recurso.
+Publique-se.
+
+Brasília, 20 de maio de 2026.
+
+Ministro FLÁVIO DINO
+Relator
+Documento assinado digitalmente
