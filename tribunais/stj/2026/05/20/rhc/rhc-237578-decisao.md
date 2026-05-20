@@ -1,0 +1,68 @@
+DECISÃO
+Trata-se de recurso em habeas corpus, com pedido de liminar, interposto por SIDINEI CARLOS AGNES contra acórdão do TRIBUNAL REGIONAL FEDERAL DA 4ª REGIÃO que denegou a ordem no writ de origem, assim ementado (fl. 42):
+DIREITO PENAL E PROCESSUAL PENAL. HABEAS CORPUS. TRÁFICO INTERNACIONAL DE DROGAS. PRISÃO PREVENTIVA. NULIDADE DO FLAGRANTE. EXAME DE CORPO DE DELITO. DISPENSABILIDADE. AUSÊNCIA DE ADVOGADO NO INTERROGATÓRIO POLICIAL. PROCEDIMENTO INQUISITIVO. FUNDAMENTAÇÃO IDÔNEA. GRAVIDADE CONCRETA. EXPRESSIVA QUANTIDADE DE ENTORPECENTE (199 KG DE COCAÍNA). MODUS OPERANDI. COMPARTIMENTO PREPARADO. CONDIÇÕES PESSOAIS FAVORÁVEIS. IRRELEVÂNCIA. MEDIDAS CAUTELARES DIVERSAS. INSUFICIÊNCIA. PRISÃO PREVENTIVA. ORDEM DENEGADA.
+I. CASO EM EXAME:
+1. "Habeas corpus" impetrado em favor de S. C. A., preso em flagrante por transportar 199 kg de cocaína em um caminhão com compartimento oculto. A impetração busca o reconhecimento da nulidade do flagrante ou a revogação da prisão preventiva.
+II. QUESTÃO EM DISCUSSÃO:
+2. Há três questões em discussão: (i) a validade do flagrante, considerando a ausência de exame de corpo de delito no paciente e de contato prévio com advogado; (ii) a existência de fundamentos concretos para a manutenção da prisão preventiva; e (iii) a possibilidade de substituição da prisão por medidas cautelares diversas.
+III. RAZÕES DE DECIDIR:
+3. A alegação de nulidade do flagrante por ausência de exame de corpo de delito é rejeitada, pois o paciente não relatou intercorrências durante a abordagem e prisão.
+4. A ausência de advogado no interrogatório policial não gera nulidade, visto que se trata de procedimento inquisitivo.
+5. A prisão preventiva é mantida para garantia da ordem pública, dada a gravidade concreta da conduta, evidenciada pela apreensão de 199 kg de cocaína e pelo "modus operandi" (ocultação em compartimento falso no veículo), que sugere envolvimento com organização criminosa.
+6. A jurisprudência do STJ e o art. 312, § 3º, inc. II e III, do CPP, com a redação dada pela Lei n.º 15.272/2025, consideram a participação em organização criminosa e a quantidade de drogas para aferir a periculosidade e justificar a custódia cautelar.
+7. As condições pessoais favoráveis do paciente, como primariedade e bons antecedentes, não são suficientes para revogar a prisão preventiva quando presentes os requisitos do art. 312 do CPP.
+8. As medidas cautelares diversas da prisão são consideradas insuficientes e inadequadas diante da gravidade concreta do crime.
+9. A prisão preventiva é compatível com a presunção de inocência, e a análise do regime inicial de cumprimento da pena é prematura e não influencia a decretação da custódia cautelar, conforme jurisprudência do e. STF.
+IV. DISPOSITIVO E TESE:
+10. Ordem de "habeas corpus" denegada.
+Consta nos autos que o recorrente foi preso em flagrante, em 14/2/2026, convertido em prisão preventiva, sendo denunciado pela suposta prática do crime tipificado nos arts. 33, caput, 40, I, da Lei n.º 11.343/2006.
+Neste recurso, a defesa alega que a prisão preventiva assenta-se em fundamentação genérica e padronizada, com presunção de periculosidade extraída apenas da quantidade de droga (199 kg), bem como houve indevida presunção de vínculo em organização criminosa e de risco de reiteração.
+Sustenta nulidade do flagrante por ausência de exame de corpo de delito, em violação ao art. 158 do CPP.
+Afirma que a medida é desproporcional diante de condições pessoais favoráveis (primariedade, ausência de antecedentes e trabalho lícito), convertendo a prisão cautelar em antecipação de pena.
+Requer, liminarmente e no mérito, o provimento do recurso para revogar da prisão preventiva ou substituir por medidas cautelares alternativas previstas no art. 319 do CPP.
+A liminar foi indeferida (fls. 58-61).
+As informações foram prestadas (fls. 66-72).
+O Ministério Público Federal opinou pelo desprovimento do recurso, em parecer assim ementado (fl. 75):
+Processo penal. Recurso em habeas corpus. Pleito de afastamento de prisão preventiva. Feito por tráfico internacional de drogas. 1. Quando da audiência de custódia e do interrogatório policial, o recorrente não relatou qualquer violência ou abuso de poder por parte da autoridade policial, o que torna exame de corpo de delito dispensável. 2. A quantidade de droga apreendida - 199 kgs de cocaína, das mais deletérias, firma juízo por coerente possibilidade de ofensa à ordem pública; bem fundamentada a preventiva, não é afastada por alegadas qualidades pessoais favoráveis e a defesa não demonstrou ser hipótese de substituição por medidas do art. 319 do CPP. 3. Pelo desprovimento.
+É o relatório.
+O recurso é tempestivo e deve ser conhecido. Passa-se, portanto, ao exame do mérito.
+A prisão preventiva justifica-se apenas quando devidamente demonstrada sua imprescindibilidade para a preservação da ordem pública, a garantia da regularidade da instrução criminal ou a asseguração da eficácia da aplicação da lei penal, nos termos do art. 312 do Código de Processo Penal.
+Da decisão que decretou a prisão preventiva, transcrita no acórdão ora recorrido, extrai-se (fls. 35-36):
+ ..  1. Da situação prisional de SIDINEI CARLOS AGNES.
+Trata-se de comunicação de prisão em flagrante efetuada pelo Delegado de Polícia Federal de Curitiba/PR, no dia 14 de fevereiro de 2026, às 17:52 horas, em decorrência da prisão de SIDINEI CARLOS AGNES, por infração, em tese, do(s) crime(s) previsto(s) no(s) Art. 33, caput e § 1º, da Lei 11.343/2006 - Tráfico de drogas e condutas afins.
+Certidões de antecedentes da Justiça Federal da 4ª Região e do Tribunal de Justiça do Paraná anexadas no evento 6, nas quais nada consta contra o flagrado.
+O artigo 5º, incisos LVII e LXVI, da Constituição Federal determina que ninguém será levado à prisão ou nela mantido quando a lei admitir a liberdade provisória, com ou sem fiança. Portanto, no sistema jurídico brasileiro, a liberdade é a regra e a prisão processual é a exceção.
+O parágrafo único do artigo 321 do Código de Processo Penal, por seu turno, prevê que cabe liberdade provisória sempre que não estiverem presentes os pressupostos para decretação da prisão preventiva.
+De acordo com o art. 312 do CPP, as medidas cautelares restritivas de direitos devem ser aplicadas quando houver a plausibilidade da acusação, por meio de comprovação da materialidade delitiva e indícios de autoria.
+No caso dos autos, verifico que estão presentes elementos de materialidade e indícios de autoria.
+A materialidade, em princípio, é evidente, diante dos relatos das testemunhas e apreensão da droga, bem do constante no Laudo Pericial nº 5596/2026-SETEC/SR/PF/PR. O flagrado afirma não ter conhecimento da droga entorpecente alocada no veículo que dirigia. Afirma que o transporte deveria de eletrônicos.
+O presente ato processual limita-se à oitiva do preso sobre as circunstâncias em que realizada a sua prisão (Res. 213, de 15/12/2015, do CNJ).
+2. As discussões orais realizadas nesta assentada ficam fazendo parte da fundamentação desta decisão.
+Em breve síntese ao exposto no ato por este Juízo, reitero que estão presentes nos autos, conforme expresso na representação da autoridade policial, no parecer do MPF e na decisão que homologou a prisão em flagrante - ev. 8, elementos de materialidade e indícios de autoria. Não se olvide que os fatos serão devidamente apurados e submetidos ao crivo do contraditório, oportunidade em que será assegurada a ampla produção probatória. No entanto, para esta fase embrionária, entendo que existem indícios de autoria e materialidade, sendo que a instrução comprovará ou não as suspeitas fundadas em desfavor do acusado.
+A prisão preventiva do investigado se faz necessária, nos termos do art. 312 do CPP, para a garantia da ordem pública, para a conveniência da instrução criminal e para assegurar a aplicação da lei penal, diante da quantidade de entorpecente apreendido (199 kg de substância supostamente entorpecente - cocaína sal - cloridrato ou pó) no Posto da Polícia Rodoviária Federal em Balsa Nova/PR, em veículo (caminhão trator Volvo/FH 440, placas APV8E63, atrelado ao semirreboque de placa AWU9B69) conduzido pelo flagrado.
+A substituição da prisão preventiva por medidas cautelares diversas encontra óbice na ausência de elementos comprobatórios de residência fixa e atividade lícita.
+As medidas cautelares diversas da prisão foram consideradas insuficientes, por ora.  ..
+Conforme adiantado no exame da liminar, há fundamentação idônea à decretação da prisão preventiva, evidenciada na necessidade de garantir a ordem pública, face à gravidade concreta do delito, pois foi apreendida expressiva quantidade droga destinadas à comercialização - 199kg de cocaína -, circunstâncias que revelam maior potencial lesivo da conduta e indicam periculosidade do agente.
+Com efeito, nos casos de prisão em flagrante por tráfico de drogas, a conversão em prisão preventiva pode ser decretada quando a gravidade concreta da conduta se evidencia em fatores como a quantidade e a natureza da substância apreendida, a forma de acondicionamento ou a presença de instrumentos destinados à comercialização, circunstâncias que revelam maior potencial lesivo da conduta e indicam periculosidade do agente, ultrapassando a mera gravidade abstrata do delito.
+Nesse sentido:
+AGRAVO REGIMENTAL EM HABEAS CORPUS. CRIMES DE TRÁFICO DE DROGAS E ADULTERAÇÃO DE SINAL IDENTIFICADOR DE VEÍCULO. ALEGAÇÃO DE INOCÊNCIA. PRISÃO PREVENTIVA. FUNDAMENTAÇÃO. GRANDE QUANTIDADE DE DROGAS. INDÍCIOS DE ENVOLVIMENTO REITERADO. GRAVIDADE CONCRETA DA CONDUTA. SEGREGAÇÃO DEVIDAMENTE JUSTIFICADA PARA A GARANTIA DA ORDEM PÚBLICA. DESPROPORÇÃO EM RELAÇÃO À POSSÍVEL PENA A SER APLICADA. PROGNÓSTICO INVIÁVEL. CONDIÇÕES PESSOAIS FAVORÁVEIS. IRRELEVÂNCIA. MEDIDAS CAUTELARES ALTERNATIVAS. INSUFICIÊNCIA. AUSÊNCIA DE CONSTRANGIMENTO ILEGAL. RECURSO NÃO PROVIDO.
+ .. .
+4. Ademais, "É pacífico o entendimento no sentido de que as circunstâncias fáticas do crime, como a quantidade apreendida, a variedade, a natureza nociva dos entorpecentes, a forma de acondicionamento, entre outros aspectos, podem servir de fundamentos para o decreto prisional quando evidenciarem a periculosidade do agente e o efetivo risco à ordem pública, caso permaneça em liberdade."(AgRg no HC n. 787.386/SP, Rel. Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 13/12/2022, DJe 19/12/2022).
+ ..
+7. Mostra-se indevida a aplicação de medidas cautelares diversas da prisão, quando evidenciada a sua insuficiência para acautelar a ordem pública.
+8. Agravo regimental a que se nega provimento.
+(AgRg no HC n. 957.245/SC, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 12/2/2025, DJEN de 18/2/2025.)
+Sendo assim, quando presentes os requisitos do art. 312 do CPP, a imposição da prisão preventiva é medida de rigor, independentemente de condições pessoais favoráveis do agente, mostrando-se inadequadas medidas cautelares diversas do art. 319, quando a custódia provisória apresentar fundamentação concreta.
+Nesse sentido, " a  presença de condições pessoais favoráveis não impede a imposição da prisão preventiva, quando presentes os requisitos legais" (AgRg no HC n. 990.311/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 22/4/2025, DJEN de 30/4/2025).
+Inclusive, "tendo sido exposta de forma fundamentada e concreta a necessidade da prisão, revela-se incabível sua substituição por outras medidas cautelares mais brandas" (AgRg no HC n. 965.960/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 5/3/2025, DJEN de 10/3/2025).
+Também mostra-se descabida a alegação de desproporcionalidade da prisão cautelar, com base em futura e hipotética condenação a ser cumprida em regime mais brando, haja vista que o juízo só poderá dosar a pena e fixar o respectivo regime após o encerramento da instrução criminal. Não é possível antecipar tal análise em habeas corpus, por se exigir prévia produção de prova.
+Por fim, a matéria referente à nulidade, consta do acórdão impugnado (fl. 37):
+Analisando os vídeos do interrogatório policial (IPL, evento 1.4) e da audiência de custódia (IPL, evento 24.2), constato que o paciente não relatou intercorrências (como violência física ou psíquica) no decorrer de sua abordagem e prisão em flagrante. Dessa maneira, o almejado exame de corpo de delito é dispensável.
+Tendo a Corte local apresentado justificativa plausível para a não realização do exame de corpo de delito, uma vez que o ora recorrente, por ocasião da audiência de custódia, não relatou violência de qualquer ordem no momento de sua abordagem, não se observa qualquer ilegalidade no feito, mesmo porque a obrigatoriedade do referido procedimento dirige-se apenas nos casos onde a infração deixar vestígios, na dicção do art. 158 do CPP.
+Com efeito, " a  jurisprudência do Superior Tribunal de Justiça estabelece que, para crimes que deixam vestígios, como os citados crimes ambientais, é imprescindível o exame de corpo de delito, salvo justificativa concreta para sua não realização" (AgRg no REsp n. 2.074.383/PR, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 4/6/2025, DJEN de 27/6/2025.)
+Ademais, o aprofundamento da matéria, no sentido de se perquirir se o réu sofreu ou não agressões no momento de sua abordagem demandaria necessário revolvimento de fatos e provas, proceder inviável na estreiteza procedimental do writ. Nesse sentido: AgRg no HC n. 1.032.120/CE, relator Ministro Carlos Pires Brandão, Sexta Turma, julgado em 19/11/2025, DJEN de 28/11/2025.
+Não se verificando qualquer ilegalidade no feito, a pretensão recursal não deve ser acolhida.
+Ante o exposto, nego provimento ao recurso em habeas corpus.
+Publique-se.
+Intimem-se.
+EMENTA
