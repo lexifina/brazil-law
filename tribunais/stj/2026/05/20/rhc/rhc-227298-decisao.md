@@ -1,0 +1,11 @@
+DECISÃO
+Trata-se de recurso em habeas corpus interposto por LAÉRCIO DIAS DE OLIVEIRA e ILUIZA DE FÁTIMA DE OLIVEIRA contra o acórdão proferido pelo Tribunal de Justiça de São Paulo no HC n. 2306695-86.2025.8.26.0000, que denegou a ordem, mantendo a prisão preventiva dos recorrentes e indeferindo a substituição por prisão domiciliar.
+Pretendem a revogação da custódia, ainda que mediante aplicação de medidas cautelares alternativas, inclusive prisão domiciliar.
+Ocorre que, em 1º/4/2026, sobreveio decisão do Juízo de primeiro grau revogando a prisão preventiva da recorrente Iluiza. Posteriormente, em 18/4/2026, os recorrentes foram pronunciados. Na ocasião, o Magistrado negou ao réu Laércio o direito de recorrer em liberdade. Encontra-se em tramitação na Corte estadual o recurso em sentido estrito interposto contra essa sentença.
+Dessa forma, além de a recorrente Iluiza ter obtido a liberdade, no mais, a superveniência da sentença de pronúncia torna prejudicado o exame de mérito do presente recurso, uma vez que já exaurida a fase instrutória da primeira fase do procedimento submetido ao Tribunal do Júri, no âmbito de regular ação penal, submetida a cognição exauriente, esvaziando o objeto do mandamus, devendo o novo título judicial ser submetido ao crivo judicial pela via processual adequada (AgRg no RHC n. 127.031/SP, Ministro Joel Ilan Paciornik, Quinta Turma, DJe de 24/9/2021).
+Não obstante, no que diz respeito ao recorrente Laércio, a decisão que decretou sua prisão não evidencia ilegalidade manifesta. Há referência ao risco concreto de reiteração delitiva e, como bem observou a Subprocuradora-Geral da República Mônica Nicida Garcia, o modo de execução do delito, com emprego de meio cruel e recurso que dificultou a defesa da vítima, vale dizer, com múltiplos golpes de faca, inclusive na região cervical, "resultando em morte lenta e dolorosa, conforme atestou o laudo necroscópico" (fl. 59), por dívida de valor, demonstra a periculosidade do acusado (fl. 197).
+Tal o contexto, julgo prejudicado o presente recurso.
+Publique-se.
+EMENTA
+PROCESSUAL PENAL. RECURSO EM HABEAS CORPUS. HOMICÍDIO QUALIFICADO. PRISÃO PREVENTIVA. SUPERVENIÊNCIA DE SENTENÇA DE PRONÚNCIA. REVOGAÇÃO DA CUSTÓDIA DE UMA DAS RECORRENTES. NOVA REALIDADE PROCESSUAL. PREJUDICIALIDADE.
+Recurso prejudicado.
