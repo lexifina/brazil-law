@@ -1,0 +1,76 @@
+DECISÃO
+HUAGNER MARTINS DE OLIVEIRA alega ser vítima de coação ilegal em decorrência de acórdão proferido pelo Tribunal de Justiça do Estado de Mato Grosso no Habeas Corpus n. 1004504-44.2026.8.11.0000.
+Consta dos autos que o paciente foi preso preventivamente pela suposta prática dos crimes de tráfico de drogas e organização criminosa.
+Na inicial do habeas corpus, a defesa aduz, em síntese, que a decretação da custódia não se haveria baseado em fundamentos idôneos. Sustenta que houve quebra da cadeia de custódia e que não há provas quanto à materialidade delitiva.
+Assim, requer, liminarmente e no mérito, a revogação da prisão preventiva ou a sua substituição pelas medidas previstas no art. 319 do Código de Processo Penal.
+Indeferida a liminar (fls. 902-904), o Ministério Público Federal apresentou parecer pelo não conhecimento do habeas corpus (fls. 985-994).
+Decido.
+I. Prisão preventiva
+Na hipótese, a decretação da prisão preventiva foi assim justificada pelo Juízo de primeiro grau (fls. 213-220, grifei):
+ ..
+(i) Do fumus comissi delicti
+A prova da materialidade e os indícios suficientes de autoria estão amplamente demonstrados pela prova técnica pericial (Relatório de Investigação nº 2025.15.25024), pelas conversas de WhatsApp com negociações de drogas, pelos comprovantes de transferências via PIX, pelas imagens de pesagem de entorpecentes, pelo documento de "batismo" na facção e pelos grupos virtuais com ordens de venda e monitoramento.
+A prova técnica pericial revelou:
+(a) Conversas de WhatsApp datadas entre março e maio de 2025, contendo negociações de entorpecentes com uso de gírias típicas do tráfico ("braw" para maconha, "chá", "virado", "px", "smok", "kunk"), menções a quantidades incompatíveis com uso pessoal (50g, 100g, 200g, "caixas"), especificação de valores, formas de pagamento ("à vista", "a prazo", "empréstimo") e identificação de clientes por meio de vulgos ("Smok", "Orochi", "Toddy", "Midigueira", "Fazenda", "Abel", "Bombom");
+ ..
+(c) Comprovantes de transferências via PIX, com identificação das chaves vinculadas aos investigados mediante consulta ao sistema DELFOS-PIX, confirmando a movimentação financeira ilícita;
+(d) Grupos de WhatsApp ("SICOOB" e "BAR NO 66") com participação dos investigados, contendo ordens de venda de drogas, cobranças de monitoramento de viaturas policiais, envio de vídeos comprobatórios da vigilância territorial e mensagens evidenciando divisão de tarefas e hierarquia interna;
+(e) Imagens de pesagem de drogas em balança digital, enviadas por Cezenande, demonstrando o fracionamento de entorpecentes para distribuição.
+Os indícios de autoria são veementes e individualizados em relação a cada investigado, conforme passo a demonstrar.
+ ..
+d) HUAGNER MARTINS DE OLIVEIRA (vulgo "Professor"): exerce supostamente função de lojista varejista, responsável pela venda direta de drogas aos usuários finais.
+O investigado é identificado nas conversas pelo vulgo "Professor", vinculado ao número (66) 96351470. Das mensagens trocadas entre o investigado e Salvador é possível verificar que ele envia chave PIX (cadastrada em seu próprio nome, conforme verificado nos sistemas policiais - ID 215880763, p. 58) para recebimento de valores oriundos da mercancia de drogas. Não há fragilidade na identificação do numeral, tendo em vista que ao ser questionado por Salvador quem era o interlocutor, o investigado confirmou ser ele mesmo (ID 215880763, p.52).
+ ..
+(ii) Do Periculum libertatis
+O periculum libertatis, por sua vez, decorre da necessidade de garantia da ordem pública, considerando a periculosidade concreta dos investigados, evidenciada pela estrutura e modus operandi da organização criminosa. Os indícios destacados alhures, demonstram que os investigados, em tese, integram organização criminosa para o tráfico de drogas, estruturada, com organização e divisão de tarefas e com alto poder de disseminação nesta urbe e em plena atividade em Barra do Garças/MT.
+ ..
+A liberdade dos investigados representa risco concreto à ordem pública, pois permitiria a continuidade do tráfico de drogas, o fortalecimento da facção e a consolidação de um poder paralelo ao Estado, com potencial de intimidação social e recrutamento de novos integrantes, além de possibilitar a continuidade da circulação de valores ilícitos.
+(iii) Requisitos do art. 313 do CPP
+Quanto ao requisito previsto no art. 313 do CPP, verifica-se que os crimes investigados (tráfico de drogas, associação para o tráfico e organização criminosa) são punidos com pena privativa de liberdade máxima superior a 4 anos, o que autoriza a decretação da prisão preventiva.
+(iv) Conveniência da instrução criminal
+A prisão preventiva também se justifica para assegurar a conveniência da instrução criminal. Isso porque as conversas analisadas demonstram que os investigados possuem conhecimento sobre as técnicas de investigação e monitoramento policial, a demonstrar a sofisticação na utilização de estratégias para ocultar provas e dificultar a apuração dos fatos, além da possibilidade de articulação de versões combinadas com outros integrantes da organização criminosa, caso permaneçam em liberdade.
+(v) Da contemporaneidade
+Quanto à contemporaneidade, vejamos:
+ ..
+No caso em análise: os fatos são contemporâneos, pois as conversas de WhatsApp datam de março a maio de 2025; o Relatório de Investigação foi concluído em setembro de 2025; não há notícia de desarticulação da célula local, permanecendo o risco concreto de continuidade das atividades ilícitas.
+Portanto, ainda se fazem presentes os motivos ensejadores do decreto prisional cautelar, em razão do risco à ordem pública em decorrência da gravidade concreta dos delitos e, ainda, por conveniência da instrução criminal, haja vista que, como foi demonstrado, o tráfico de drogas constituía atividade habitual e organizada dos investigados, não se tratando de conduta isolada ou eventual.
+(vi) Da substituição por outras medidas cautelares
+Verifico, ainda, que as medidas cautelares diversas da prisão previstas no art. 319 do CPP não se mostram adequadas e suficientes no caso concreto, considerando a gravidade dos crimes investigados, a estrutura da organização criminosa e a função exercida, em tese, por cada investigado dentro da facção, extraída das comunicações, a facilidade de comunicação entre os integrantes e o modus operandi, além do risco concreto de reiteração delitiva e interferência na instrução processual.
+Irresignada, a parte impetrou habeas corpus perante o Tribunal de Justiça local, que denegou a ordem, oportunidade em que foram tecidas as seguintes considerações no voto condutor do acórdão (fls. 892-897, destaquei):
+No caso, a prisão preventiva foi decretada com base em elementos concretos colhidos na investigação, especialmente a vinculação do paciente a rede de traficância ligada à facção criminosa Comando Vermelho, mediante mensagens de aplicativo de mensagens, ordens recebidas e enviadas, identificação nominal em chave PIX cadastrada em nome próprio e atuação no fluxo financeiro do tráfico.
+Embora o impetrante afirme que as mensagens são ambíguas e descontextualizadas, essa é precisamente uma matéria de mérito probatório, a ser oportunamente apreciada no curso da instrução penal, sob o crivo do contraditório.
+ ..
+O magistrado ao decretar a prisão preventiva do paciente, destacou que este oferece risco a ordem pública e a conveniência da instrução criminal, dada as particularidades do caso em comento, tendo em vista que existem indícios que o paciente Huagner Martins de Oliveira, vulgo "Professor" juntamente com os demais coacusados, estariam praticando os crimes de Organização Criminosa, Tráfico de Drogas e Associação para o Tráfico de Drogas, na cidade de Barra do Garças/MT. Sendo que o suplicante era diretamente subordinado ao coinvestigado Cezenande de Oliveira, vulgo "Salvador".
+Foi apurado que o paciente supostamente desempenhava função de lojista varejista, responsável pela venda direta de drogas aos usuários finais. Ademais, as investigações apontam das mensagens trocadas entre o suplicante Huagner Martins de Oliveira e o coinvestigado Cezenande de Oliveira, vulgo "Salvador" que ele envia chave PIX (cadastrada em seu próprio nome, conforme verificado nos sistemas policiais - id. 215880763, p. 58) para recebimento de valores oriundos da mercancia de drogas. Não há fragilidade na identificação do numeral, tendo em vista que ao ser questionado por "Salvador" quem era o interlocutor, o paciente confirmou ser ele mesmo (id. 215880763, p. 52).
+Deste modo, constatou-se que o paciente e demais acusados supostamente seriam integrantes da Organização Criminosa "Comando Vermelho" que é dedicada a prática de crimes violentos e ao narcotráfico restando evidenciado o risco à ordem pública.
+ ..
+Dessa forma, observa-se que o magistrado de origem, destacou as questões que colaboraram para a decretação da prisão preventiva do paciente, havendo o encadeamento lógico da ação da suposta organização criminosa e a contextualização criminosa realizada na espécie.
+ ..
+Do mesmo modo, a presença dos requisitos do artigo 312 do códex processual penal, inviabiliza a substituição da segregação preventiva, por medidas cautelares diversas da prisão, contidas no artigo 319 do Código de Processo Penal.
+ ..
+A substituição da prisão preventiva por medidas cautelares diversas em hipóteses que envolvam a necessidade de cuidado direto, condiciona tal substituição à comprovação inequívoca de que o paciente é figura exclusiva e absoluta, o que não se observa no caso ora tratado.
+Como tenho assinalado, a prisão preventiva é compatível com a presunção de não culpabilidade do acusado desde que não assuma natureza de antecipação da pena e não decorra, automaticamente, do caráter abstrato do crime ou do ato processual praticado (art. 313, § 2º, do CPP). Além disso, a decisão judicial deve apoiar-se em motivos e fundamentos concretos, relativos a fatos novos ou contemporâneos, dos quais se possa extrair o perigo que a liberdade plena do investigado ou réu representa para os meios ou os fins do processo penal (arts. 312 e 315 do CPP).
+Por seu turno, a custódia provisória somente se sustenta quando, presentes os requisitos constantes do art. 312 do CPP, se revelarem inadequadas ou insuficientes as medidas cautelares diversas da prisão
+Com base nessas premissas, verifico que são íntegros os fundamentos elencados para justificar a decretação e a manutenção da custódia provisória do réu, visto que contextualizaram, em dados concretos, o periculum libertatis.
+No caso em exame, as instâncias ordinárias fundamentaram, de forma idônea, a presença dos vetores contidos no art. 312 do Código de Processo Penal e indicaram motivação concreta para decretar e manter a prisão preventiva, ao ressaltar a vinculação com a rede de traficância ligada à facção criminosa Comando Vermelho.
+A respeito do tema, esta Corte Superior entende que "O suposto envolvimento do agente com organização criminosa revela sua periculosidade, o que justifica a prisão preventiva como forma de garantir a ordem pública" (AgRg no RHC n. 125.233/MG, Rel. Ministro João Otávio de Noronha, 5ª T., DJe 8/2/2021). Menciono, ainda: "A necessidade de se interromper ou diminuir a atuação de integrantes de organização criminosa enquadra-se no conceito de garantia da ordem pública, constituindo fundamentação cautelar idônea e suficiente para a prisão preventiva (STF, Primeira Turma, HC n. 95.024/SP, relatora Ministra Cármen Lúcia, DJe 20/2/2009)" (AgRg no RHC n. 191.289/SC, Rel. Ministro Antonio Saldanha Palheiro, 6ª T., DJe 21/3/2024).
+Ressalto que, "Em casos que envolvem organizações voltadas à reiterada prática de delitos de natureza grave, a jurisprudência do Superior Tribunal de Justiça tem mantido a custódia preventiva dos investigados mesmo quando não há indicação detalhada da atividade por eles desempenhada em tal associação" (HC n. 430.526/DF, Rel. Ministro Sebastião Reis Júnior, Rel. p/ Acórdão Ministro Rogerio Schietti, 6ª T., DJe 23/8/2018).
+Essas circunstâncias revelam a periculosidade do agente e o risco de reiteração delitiva, dada a aparente habitualidade da conduta, situação que, por si só, na linha da orientação que tem sido adotada por esta Corte, justifica a custódia.
+Concluo, então, haver sido demonstrada a exigência cautelar para a manutenção da prisão preventiva do acusado.
+Por idênticos fundamentos (art. 282, I, do Código de Processo Penal), a adoção de medidas cautelares diversas não se prestaria a evitar o cometimento de novas infrações penais.
+A propósito: "Tendo sido exposta de forma fundamentada e concreta a necessidade da prisão, revela-se incabível sua substituição por outras medidas cautelares mais brandas" (HC n. 745.982/MS, relator Ministro Sebastião Reis Júnior, Sexta Turma, DJe de 22/9/2022).
+II. Cadeia de custódia
+Acerca da questão, o Tribunal de Justiça local teceu as seguintes considerações (fls. 895-896, grifei):
+No que tange à cadeia de custódia, embora a alegação de ausência de perícia nos prints digitais seja levantada, inexiste prova cabal de violação capaz de, de plano, macular a integralidade da investigação ou invalidar os elementos colhidos.
+Ademais, a alegação de quebra da cadeia de custódia, por si só, não conduz ao trancamento da ação penal, sendo necessário o contraditório pleno e a oitiva das partes em fase adequada.
+Em tempo, a alegação de quebra da cadeia de custódia, demanda o revolvimento fático probatório, visto que não se evidencia de plano nos presentes autos, a manipulação ou adulteração das provas, ainda que não periciadas.
+Em relação à alegada quebra de cadeia de custódia, os fragmentos em destaque revelam - como já havia sido exposto no decisum anterior (fl. 903) - que o assunto não foi tratado pelo acórdão recorrido, pois a discussão acerca da validade das capturas de tela de conversas virtuais e eventual irregularidade na preservação da prova exige contraditório e instrução adequada, o que torna inviável o reconhecimento da nulidade de plano sem demonstração inequívoca de adulteração ou manipulação de tais elementos probatórios.
+III. Materialidade
+No tocante à ausência de materialidade delitiva, a Corte local assim se manifestou (fl. 892, destaquei):
+Quanto à alegada inexistência de materialidade por ausência de apreensão de drogas, cumpre destacar que o tráfico de drogas pode se configurar mesmo na forma não flagrancial ou indireta, quando há elementos suficientes que demonstrem a mercancia, inclusive com base em interceptações telemáticas e provas digitais.
+Nesse cenário, lembro que, conforme julgado deste Superior Tribunal:
+ a  ausência de apreensão contemporânea da droga não impede a comprovação da materialidade do crime de tráfico, desde que existam outros elementos probatórios robustos e convergentes, como laudos preliminares, interceptações telefônicas, confissões, documentos bancários e registros oficiais, que demonstrem a prática da mercancia ilícita" (AgRg nos EDcl no AREsp n. 2.606.077/MG, relator Ministro Messod Azulay Neto, Quinta Turma, julgado em 16/12/2025, DJEN de 19/12/2025).
+Como visto, a conclusão do Tribunal local não merece reparos, ao menos na atual fase processual, porquanto está consoante o entendimento desta Corte Superior.
+IV. Dispositivo
+À vista do exposto, denego a ordem.
+EMENTA
