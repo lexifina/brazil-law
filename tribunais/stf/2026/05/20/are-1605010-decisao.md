@@ -1,0 +1,30 @@
+DECISÃO:
+Trata-se de recurso extraordinário com agravo contra decisão de inadmissão do recurso extraordinário.
+O recurso foi interposto com fundamento na alínea "a" do permissivo constitucional.
+O acórdão recorrido  ficou assim ementado:
+
+Apelação Cível. Mandado de Segurança. Anulação de sanção administrativa aplicada a Servidor Público (Policial Civil) consistente em suspensão por 05 dias. Sentença denegatória da segurança. A discussão devolvida em sede de apelação reside na proporcionalidade ou não da punição administrativa que apenou o recorrente com 05 dias de suspensão. Na hipótese, o apelante foi punido por insubordinação ou desrespeito a superior hierárquico e por opor resistência injustificada à tramitação de processo ou exceção do serviço, condutas tipificadas no art. 14, XXIV da Lei Estadual 3374/75 e no art. 175, IV, da Lei Estadual 6677/94. A acusação consistiu no fato de o apelante não ter atendido, por duas vezes, o telefonema do Delegado do Plantão Central e de deixá-lo aguardando, por muito tempo, em linha, sem sequer retornou a ligação para saber do que se tratava. Assim, concluiu que a conduta do apelante configurou falta grave que justificaria a aplicação da sanção em questão. Os arts. 16, 22 e 23 da Lei Estadual 3374/75 expressam o postulado da proporcionalidade, pois impõem ao administrador, sem qualquer discricionariedade, os requisitos que devem ser considerados por ocasião do julgamento do processo, sob pena de se praticar ato ilegal ou ofensivo ao due process of law. Assim, na aplicação de penas disciplinares, a autoridade deverá observar: I - a natureza, gravidade e circunstância da transgressão; II - danos que decorrem para o serviço público; III - antecedentes do funcionário; IV — reincidência. Além disso, a pena de suspensão só poderá ser aplicada nos casos de falta grave que não implique em punição maior, sendo considerada falta grave aquela que concorra para comprometer a boa ordem do serviço ou o bom nome da organização, tenha ou não relação com o serviço público. Exige-se, ainda, para a incidência da suspensão, que seja aferido o grau de comprometimento para a boa ordem disciplinar e que o ato administrativo seja convenientemente motivado, de modo que a punição seja imposta com justiça. Entretanto, a autoridade administrativa não consignou na pena de suspensão aplicada se o recorrente possuía, ou não, maus antecedentes, não valorou a natureza e a gravidade da infração, os danos efetivos e concretos que dela teria advindo para o serviço público, as circunstâncias agravantes e atenuantes. Assim, afigura-se desfundamentada a pena aplicada. Logo, razão assiste ao apelante, o que impõe a anulação da pena que lhe foi imposta para que uma outra seja aplicada, com a devida fundamentação. Saliente-se que a penalidade pode ser a mesma, desde que se o faça motivadamente. Apelação Cível provida.
+
+Opostos os embargos de declaração, foram rejeitados.
+No recurso extraordinário sustenta-se violação do(s) art.(s) 5º, incisos XXXV e LIV, 37, e 93, inciso IX,  da Constituição Federal.
+Decido.
+Analisados os autos, no que tange à alegação de violação do(s) art(s). 5º, incisos XXXV e LIV, e 93, inciso IX, da Constituição, verifica-se que a decisão de inadmissão do recurso extraordinário está amparada em aplicação de precedente firmado com base na sistemática da repercussão geral.
+Todavia, o art. 1.042 do Código de Processo Civil é expresso sobre o não cabimento de agravo dirigido ao STF nas hipóteses em que a negativa de seguimento do recurso extraordinário tiver como base exclusivamente a sistemática da repercussão geral, sendo essa decisão passível de impugnação somente por agravo interno (art. 1.030, § 2º, do CPC/2015). Sobre o tema, destaque-se:
+
+“EMBARGOS DE DECLARAÇÃO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO EXTRAORDINÁRIO COM AGRAVO. CONVERSÃO EM AGRAVO REGIMENTAL. PROCESSUAL CIVIL. APLICAÇÃO DA SISTEMÁTICA DA REPERCUSSÃO GERAL NA ORIGEM: AUSÊNCIA DE PREVISÃO LEGAL DE RECURSO PARA O SUPREMO TRIBUNAL FEDERAL. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO” (ARE nº 1.109.295/RS-ED-ED, Tribunal Pleno, Rel. Min. Cármen Lúcia, DJe de 25/09/2018).
+
+Assim, não conheço do recurso quanto ao(s) capítulo(s) acima referenciado(s).
+Ademais, verifica-se que o Tribunal de origem decidiu a controvérsia com fundamento na legislação infraconstitucional local aplicável à espécie e no conjunto fático-probatório dos autos, cuja análise se revela inviável em sede de recurso extraordinário.
+Incidem, na espécie, os óbices das Súmulas 279 e 280 do STF, segundo as quais: “Para simples reexame de prova não cabe recurso extraordinário” e “Por ofensa a direito local não cabe recurso extraordinário”. Nesse sentido:
+
+“AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. DIREITO AMBIENTAL. AÇÃO CIVIL PÚBLICA. OBRA PARA RECUPERAÇÃO DE IMÓVEL. IMPOSSIBILIDADE DE REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO E DA LEGISLAÇÃO LOCAL: SÚMULAS 279 E 280 DO SUPREMO TRIBUNAL FEDERAL. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO”. (ARE 1.085.165-AgR, Rel. Min. Cármen Lúcia, Plenário,DJe de 26/03/2018)
+
+“RECURSO EXTRAORDINÁRIO COM AGRAVO – ALEGADA VIOLAÇÃO A PRECEITOS CONSTITUCIONAIS – DIREITO LOCAL – SÚMULA 280/STF – REEXAME DE FATOS E PROVAS – IMPOSSIBILIDADE – SÚMULA 279/STF – SUCUMBÊNCIA RECURSAL (CPC, ART. 85, § 11) – NÃO DECRETAÇÃO, NO CASO, POR TRATAR-SE DE RECURSO DEDUZIDO CONTRA DECISÃO PUBLICADA SOB A ÉGIDE DO CPC/73 – AGRAVO INTERNO IMPROVIDO”. (ARE 949.507-AgR, Rel. Min. Celso de Mello, Segunda Turma, DJe de 09/10/2020)
+Ante o exposto, nego seguimento ao recurso (alínea c do inciso V do art. 13 do Regimento Interno do Supremo Tribunal Federal).
+Havendo prévia fixação de honorários advocatícios pelas instâncias de origem, seu valor monetário será majorado em 10% (dez por cento) em desfavor da parte recorrente, nos termos do art. 85, § 11, do Código de Processo Civil, observado os limites dos §§ 2º e 3º do referido artigo e a eventual concessão de justiça gratuita.
+Publique-se.
+Brasília, 20 de maio de 2026.
+
+Ministro EDSON FACHIN
+Presidente
+Documento assinado digitalmente
