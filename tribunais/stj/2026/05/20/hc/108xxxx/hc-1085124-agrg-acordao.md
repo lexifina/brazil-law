@@ -1,0 +1,76 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUINTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 14/05/2026 a 20/05/2026, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Maria Marluce Caldas, Reynaldo Soares da Fonseca, Ribeiro Dantas e Joel Ilan Paciornik votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Reynaldo Soares da Fonseca.
+EMENTA
+Direito processual penal. Agravo regimental em habeas corpus. Tráfico privilegiado. Condenação transitada em julgado. Habeas corpus como sucedâneo de revisão criminal. Inadequação da via eleita. Agravo regimental desprovido.
+I. Caso em exame
+1. O recurso. Agravo regimental interposto contra decisão monocrática que indeferiu liminarmente habeas corpus impetrado em favor de condenado pelo delito previsto no artigo 33, § 4º, da Lei 11.343/2006, sob o fundamento de utilização do writ como substituto de revisão criminal.
+2. Fato relevante. Paciente condenado à pena de 4 anos e 2 meses de reclusão, em regime inicial semiaberto, e 416 dias-multa, por tráfico privilegiado, com confirmação da condenação em apelação e posterior trânsito em julgado devidamente certificado.
+3. Pretensões deduzidas no habeas corpus. Pedido de fixação de regime inicial aberto e substituição da pena privativa de liberdade por restritivas de direitos, readequação da fração de redução da causa de diminuição do artigo 33, § 4º, da Lei 11.343/2006, reconhecimento da atenuante da confissão espontânea (artigo 65, inciso III, alínea d, do Código Penal) e, subsidiariamente, remessa dos autos ao Ministério Público para análise de acordo de não persecução penal (artigo 28-A do Código de Processo Penal).
+4. Fundamentos do agravo regimental. Alegação de flagrante ilegalidade na imposição do regime semiaberto e na negativa de substituição da pena, em afronta à Súmula Vinculante n. 59 do Supremo Tribunal Federal, sustentando-se a competência do Superior Tribunal de Justiça para exame do habeas corpus com base no artigo 105, inciso I, alínea c, da Constituição Federal, bem como a possibilidade de conhecimento do writ, mesmo após o trânsito em julgado, diante de suposto constrangimento ilegal manifesto.
+II. Questão em discussão
+5. A questão em discussão consiste em saber se, após o trânsito em julgado da condenação por tráfico privilegiado, é admissível a utilização de habeas corpus, perante o Superior Tribunal de Justiça, como sucedâneo de revisão criminal, com o objetivo de rediscutir regime inicial de cumprimento de pena, substituição da pena privativa de liberdade, fração de redução da causa de diminuição do artigo 33, § 4º, da Lei 11.343/2006, reconhecimento de atenuante e eventual remessa para acordo de não persecução penal, à luz da Súmula Vinculante n. 59 do Supremo Tribunal Federal e das regras constitucionais de competência.
+III. Razões de decidir
+6. O órgão julgador afirma que o trânsito em julgado da condenação, ocorrido antes da impetração do habeas corpus no Superior Tribunal de Justiça, torna inadequada a utilização de ação mandamental para desconstituir decisão penal já acobertada pela coisa julgada, por configurar sucedâneo de revisão criminal.
+7. Assenta-se que, uma vez configurado o caráter revisional do pedido, o Superior Tribunal de Justiça se mostra incompetente para o processamento do pleito, devendo ser observada a via própria e o juízo competente para a revisão criminal, nos termos da jurisprudência consolidada.
+8. Ressalta-se que a concessão de habeas corpus de ofício constitui prerrogativa do órgão julgador, não configurando direito subjetivo da parte, e não pode ser utilizada como instrumento para afastar ou violar regras de competência ou contornar os requisitos de cabimento de recursos ou ações próprias.
+9. Mantém-se a decisão monocrática que indeferiu liminarmente o habeas corpus, por estar em conformidade com o entendimento jurisprudencial do Superior Tribunal de Justiça quanto à inadmissibilidade do writ como sucedâneo de revisão criminal.
+IV. Dispositivo e tese
+10. Resultado do Julgamento: Agravo regimental desprovido, permanecendo o indeferimento liminar do habeas corpus.
+Tese de julgamento:
+1. O habeas corpus não é via adequada para desconstituir condenação penal já transitada em julgado, quando utilizado como sucedâneo de revisão criminal, devendo ser observada a via revisional própria perante o juízo competente.
+2. A concessão de habeas corpus de ofício é prerrogativa do órgão julgador, não configurando direito subjetivo da parte, e não pode ser invocada para afastar regras de competência ou suprir requisitos de cabimento de recursos ou ações apropriadas.
+Dispositivos relevantes citados: CF/1988, art. 105, I, c; CP, art. 59; art. 65, III, d; Lei 11.343/2006, art. 33, § 4º; CPP, art. 28-A; art. 654, § 2º; Súmula Vinculante n. 59 do STF.
+Jurisprudência relevante citada: STJ, AgRg no HC n. 861.867/SC, rel. Min. Ribeiro Dantas, Quinta Turma, j. 2.9.2024, DJe 6.9.2024; STJ, EDcl no AgRg no AREsp n. 2.462.348/SP, rel. Min. Ribeiro Dantas, Quinta Turma, j. 12.3.2024, DJe 18.3.2024.
+RELATÓRIO
+Trata-se de agravo regimental (fls. 512-518) interposto por LUCAS DE ASSIS em face de decisão monocrática que indeferiu liminarmente o habeas corpus (fls. 506-507).
+Consta dos autos que o paciente foi condenado pelo Juízo da 5ª Vara Criminal da Comarca de São Paulo à pena de 4 (quatro) anos e 2 (dois) meses de reclusão, em regime inicial semiaberto, além de 416 (quatrocentos e dezesseis) dias-multa, pela prática do delito previsto no artigo 33, § 4º, da Lei 11.343/2006 (fls. 50-55).
+A defesa interpôs recurso de apelação, ao qual o Tribunal de Justiça do Estado de São Paulo negou provimento (fls. 10-31), tendo o trânsito em julgado sido devidamente certificado.
+Na presente impetração, buscava-se a concessão da ordem para fixação do regime inicial aberto e substituição da pena privativa de liberdade por restritivas de direitos, a readequação da fração de redução da causa especial de diminuição prevista no artigo 33, § 4º, da Lei 11.343/2006, o reconhecimento da atenuante da confissão espontânea prevista no artigo 65, inciso III, alínea d, do Código Penal e, subsidiariamente, a determinação de remessa dos autos ao Ministério Público para avaliação da viabilidade de acordo de não persecução penal, nos termos do artigo 28-A do Código de Processo Penal (fls. 2-9).
+O habeas corpus foi indeferido liminarmente (fls. 506-507).
+No regimental (fls. 512-519), o agravante sustenta a existência de flagrante ilegalidade na imposição do regime semiaberto e na negativa de substituição da pena, em afronta direta à Súmula Vinculante n. 59 do Supremo Tribunal Federal, pois reconhecido o tráfico privilegiado, fixada a pena-base no mínimo legal, ausentes vetores negativos do artigo 59 do Código Penal, sendo o paciente primário e a pena inferior a 4 (quatro) anos.
+Alega erro de enquadramento constitucional na decisão agravada, afirmando ser competente o Superior Tribunal de Justiça para o exame do habeas corpus, com fundamento no artigo 105, inciso I, alínea c, da Constituição Federal, e que o trânsito em julgado não impede o conhecimento do writ quando configurado constrangimento ilegal manifesto, especialmente em razão do descumprimento de súmula vinculante.
+Defende, ainda, a ilegalidade da aplicação da fração mínima de 1/6 da causa de diminuição do artigo 33, § 4º, da Lei 11.343/2006, por bis in idem e violação à proporcionalidade, bem como o reconhecimento da atenuante da confissão espontânea e, subsidiariamente, a remessa dos autos ao Ministério Público para análise de acordo de não persecução penal.
+É o relatório.
+EMENTA
+Direito processual penal. Agravo regimental em habeas corpus. Tráfico privilegiado. Condenação transitada em julgado. Habeas corpus como sucedâneo de revisão criminal. Inadequação da via eleita. Agravo regimental desprovido.
+I. Caso em exame
+1. O recurso. Agravo regimental interposto contra decisão monocrática que indeferiu liminarmente habeas corpus impetrado em favor de condenado pelo delito previsto no artigo 33, § 4º, da Lei 11.343/2006, sob o fundamento de utilização do writ como substituto de revisão criminal.
+2. Fato relevante. Paciente condenado à pena de 4 anos e 2 meses de reclusão, em regime inicial semiaberto, e 416 dias-multa, por tráfico privilegiado, com confirmação da condenação em apelação e posterior trânsito em julgado devidamente certificado.
+3. Pretensões deduzidas no habeas corpus. Pedido de fixação de regime inicial aberto e substituição da pena privativa de liberdade por restritivas de direitos, readequação da fração de redução da causa de diminuição do artigo 33, § 4º, da Lei 11.343/2006, reconhecimento da atenuante da confissão espontânea (artigo 65, inciso III, alínea d, do Código Penal) e, subsidiariamente, remessa dos autos ao Ministério Público para análise de acordo de não persecução penal (artigo 28-A do Código de Processo Penal).
+4. Fundamentos do agravo regimental. Alegação de flagrante ilegalidade na imposição do regime semiaberto e na negativa de substituição da pena, em afronta à Súmula Vinculante n. 59 do Supremo Tribunal Federal, sustentando-se a competência do Superior Tribunal de Justiça para exame do habeas corpus com base no artigo 105, inciso I, alínea c, da Constituição Federal, bem como a possibilidade de conhecimento do writ, mesmo após o trânsito em julgado, diante de suposto constrangimento ilegal manifesto.
+II. Questão em discussão
+5. A questão em discussão consiste em saber se, após o trânsito em julgado da condenação por tráfico privilegiado, é admissível a utilização de habeas corpus, perante o Superior Tribunal de Justiça, como sucedâneo de revisão criminal, com o objetivo de rediscutir regime inicial de cumprimento de pena, substituição da pena privativa de liberdade, fração de redução da causa de diminuição do artigo 33, § 4º, da Lei 11.343/2006, reconhecimento de atenuante e eventual remessa para acordo de não persecução penal, à luz da Súmula Vinculante n. 59 do Supremo Tribunal Federal e das regras constitucionais de competência.
+III. Razões de decidir
+6. O órgão julgador afirma que o trânsito em julgado da condenação, ocorrido antes da impetração do habeas corpus no Superior Tribunal de Justiça, torna inadequada a utilização de ação mandamental para desconstituir decisão penal já acobertada pela coisa julgada, por configurar sucedâneo de revisão criminal.
+7. Assenta-se que, uma vez configurado o caráter revisional do pedido, o Superior Tribunal de Justiça se mostra incompetente para o processamento do pleito, devendo ser observada a via própria e o juízo competente para a revisão criminal, nos termos da jurisprudência consolidada.
+8. Ressalta-se que a concessão de habeas corpus de ofício constitui prerrogativa do órgão julgador, não configurando direito subjetivo da parte, e não pode ser utilizada como instrumento para afastar ou violar regras de competência ou contornar os requisitos de cabimento de recursos ou ações próprias.
+9. Mantém-se a decisão monocrática que indeferiu liminarmente o habeas corpus, por estar em conformidade com o entendimento jurisprudencial do Superior Tribunal de Justiça quanto à inadmissibilidade do writ como sucedâneo de revisão criminal.
+IV. Dispositivo e tese
+10. Resultado do Julgamento: Agravo regimental desprovido, permanecendo o indeferimento liminar do habeas corpus.
+Tese de julgamento:
+1. O habeas corpus não é via adequada para desconstituir condenação penal já transitada em julgado, quando utilizado como sucedâneo de revisão criminal, devendo ser observada a via revisional própria perante o juízo competente.
+2. A concessão de habeas corpus de ofício é prerrogativa do órgão julgador, não configurando direito subjetivo da parte, e não pode ser invocada para afastar regras de competência ou suprir requisitos de cabimento de recursos ou ações apropriadas.
+Dispositivos relevantes citados: CF/1988, art. 105, I, c; CP, art. 59; art. 65, III, d; Lei 11.343/2006, art. 33, § 4º; CPP, art. 28-A; art. 654, § 2º; Súmula Vinculante n. 59 do STF.
+Jurisprudência relevante citada: STJ, AgRg no HC n. 861.867/SC, rel. Min. Ribeiro Dantas, Quinta Turma, j. 2.9.2024, DJe 6.9.2024; STJ, EDcl no AgRg no AREsp n. 2.462.348/SP, rel. Min. Ribeiro Dantas, Quinta Turma, j. 12.3.2024, DJe 18.3.2024.
+VOTO
+O agravante sustenta a existência de flagrante ilegalidade na imposição do regime semiaberto e na negativa de substituição da pena, em afronta direta à Súmula Vinculante n. 59 do Supremo Tribunal Federal, pois reconhecido o tráfico privilegiado, fixada a pena-base no mínimo legal, ausentes vetores negativos do artigo 59 do Código Penal, sendo o paciente primário e a pena inferior a 4 (quatro) anos.
+Alega erro de enquadramento constitucional na decisão agravada, afirmando ser competente o Superior Tribunal de Justiça para o exame do habeas corpus, com fundamento no artigo 105, inciso I, alínea c, da Constituição Federal, e que o trânsito em julgado não impede o conhecimento do writ quando configurado constrangimento ilegal manifesto, especialmente em razão do descumprimento de súmula vinculante.
+Defende, ainda, a ilegalidade da aplicação da fração mínima de 1/6 da causa de diminuição do artigo 33, § 4º, da Lei 11.343/2006, por bis in idem e violação à proporcionalidade, bem como o reconhecimento da atenuante da confissão espontânea e, subsidiariamente, a remessa dos autos ao Ministério Público para análise de acordo de não persecução penal.
+Como assinalado na decisão agravada, o habeas corpus foi indeferido liminarmente por ter sido utilizado como substituto da revisão criminal, em consonância com a jurisprudência consolidada do Superior Tribunal de Justiça.
+Nesse sentido:
+ ..
+1. Na hipótese, a condenação transitou em julgado em 31/5/2023. Dessa forma, o presente writ seria sucedâneo de revisão criminal, sendo esta Corte incompetente para o processamento do pleito revisional.
+ ..
+3. Agravo regimental desprovido.
+(AgRg no HC n. 861.867/SC, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 2/9/2024, DJe de 6/9/2024.)
+No caso, o trânsito em julgado ocorreu em 17 de dezembro de 2025 (fl. 82), anteriormente à impetração do habeas corpus no Superior Tribunal de Justiça, circunstância que torna inadequada a utilização de ação mandamental para desconstituir condenação já acobertada pela coisa julgada. A concessão de habeas corpus de ofício constitui prerrogativa do julgador, não se configurando como direito subjetivo da parte, e não pode ser utilizada como instrumento para afastar ou violar regras de competência.
+A esse respeito:
+ ..
+2. Não é viável o pleito para concessão de habeas corpus de ofício como tentativa de burla aos requisitos do recurso próprio. Afinal, a concessão da ordem parte da iniciativa do próprio órgão julgador, quando este detecta ilegalidade flagrante, nos termos do art. 654, § 2º, do CPP.
+3. Embargos de declaração não conhecidos.
+(EDcl no AgRg no AREsp n. 2.462.348/SP, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 12/3/2024, DJe de 18/3/2024)
+Assim, a decisão agravada deve ser mantida por seus próprios fundamentos.
+Com essas considerações, nego provimento ao agravo regimental.
+É o voto.
