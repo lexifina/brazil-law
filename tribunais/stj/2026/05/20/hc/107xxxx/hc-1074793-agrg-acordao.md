@@ -1,0 +1,26 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEXTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 14/05/2026 a 20/05/2026, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Rogerio Schietti Cruz, Carlos Pires Brandão e Og Fernandes votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Carlos Pires Brandão.
+EMENTA
+DIREITO PENAL E PROCESSUAL PENAL. AGRAVO REGIMENTAL EM HABEAS CORPUS. ROUBOS MAJORADOS. WRIT IMPETRADO CONTRA ACÓRDÃO TRANSITADO EM JULGADO. SUBSTITUTIVO DE REVISÃO CRIMINAL. INADMISSIBILIDADE. AUSÊNCIA DE INDICAÇÃO DE SITUAÇÕES PREVISTAS NO ART. 621 DO CPP. PRÉVIA INTERPOSIÇÃO DE RECURSO ESPECIAL E DE AGRAVO EM RECURSO ESPECIAL. VIOLAÇÃO DO PRINCÍPIO DA UNIRRECORRIBILIDADE. DESVIRTUAMENTO DO SISTEMA RECURSAL. INADMISSIBILIDADE. INSUFICIÊNCIA DE PROVAS. ABSOLVIÇÃO. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. SUPRESSÃO DE INSTÂNCIA. DESCABIMENTO. CONSTRANGIMENTO ILEGAL MANIFESTO. AUSÊNCIA.
+Agravo regimental improvido.
+RELATÓRIO
+Trata-se de agravo regimental interposto por SERGIO EDUARDO MOREIRA contra a decisão monocrática, de minha lavra, assim ementada (fls. 168/170):
+DIREITO PENAL E PROCESSUAL PENAL. HABEAS CORPUS. ROUBOS MAJORADOS. WRIT IMPETRADO CONTRA ACÓRDÃO TRANSITADO EM JULGADO. HABEAS CORPUS SUBSTITUTIVO DE REVISÃO CRIMINAL. INADMISSIBILIDADE. AUSÊNCIA DE INDICAÇÃO DE SITUAÇÕES PREVISTAS NO ART. 621 DO CPP. PRÉVIA INTERPOSIÇÃO DE RECURSO ESPECIAL E DE AGRAVO EM RECURSO ESPECIAL. VIOLAÇÃO DO PRINCÍPIO DA UNIRRECORRIBILIDADE. DESVIRTUAMENTO DO SISTEMA RECURSAL. INADMISSIBILIDADE. INSUFICIÊNCIA DE PROVAS. ABSOLVIÇÃO. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. SUPRESSÃO DE INSTÂNCIA. DESCABIMENTO. CONSTRANGIMENTO ILEGAL MANIFESTO. AUSÊNCIA.
+Petição inicial indeferida liminarmente.
+Em suas razões, alega o agravante, em síntese, que a regra da unirrecorribilidade não se aplicaria ao habeas corpus, ante a sua peculiaridade de proteger o direito de liberdade individual ou de iminente coação ilegal, sendo admissível o conhecimento do writ em caráter excepcionalíssimo quando evidenciada flagrante ilegalidade apta a gerar constrangimento ilegal, afetando a liberdade de locomoção do paciente.
+Requer seja dado provimento ao agravo regimental, para processar e julgar o presente writ (fl. 177).
+É o relatório.
+EMENTA
+DIREITO PENAL E PROCESSUAL PENAL. AGRAVO REGIMENTAL EM HABEAS CORPUS. ROUBOS MAJORADOS. WRIT IMPETRADO CONTRA ACÓRDÃO TRANSITADO EM JULGADO. SUBSTITUTIVO DE REVISÃO CRIMINAL. INADMISSIBILIDADE. AUSÊNCIA DE INDICAÇÃO DE SITUAÇÕES PREVISTAS NO ART. 621 DO CPP. PRÉVIA INTERPOSIÇÃO DE RECURSO ESPECIAL E DE AGRAVO EM RECURSO ESPECIAL. VIOLAÇÃO DO PRINCÍPIO DA UNIRRECORRIBILIDADE. DESVIRTUAMENTO DO SISTEMA RECURSAL. INADMISSIBILIDADE. INSUFICIÊNCIA DE PROVAS. ABSOLVIÇÃO. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. SUPRESSÃO DE INSTÂNCIA. DESCABIMENTO. CONSTRANGIMENTO ILEGAL MANIFESTO. AUSÊNCIA.
+Agravo regimental improvido.
+VOTO
+A decisão impugnada deve ser mantida pelo que nela se contém, tendo em conta que o agravante não logrou desconstituir seus fundamentos, motivo pelo qual a trago ao Colegiado para ser confirmada.
+Com efeito, de acordo com o afirmado anteriormente, o presente writ é inadmissível por duas razões autônomas e concorrentes.
+Primeiramente, trata-se de habeas corpus destinado a revisar condenação transitada em julgado, o que é inadmissível consoante jurisprudência desta Corte Superior, mormente quando o impetrante não indica que as razões de pedir estão previstas em alguma das hipóteses do art. 621 do CPP (HC n. 829.748/GO, Ministro Rogerio Schietti Cruz, Sexta Turma, DJe 11/12/2023).
+Em segundo lugar, é inegável a indevida subversão do sistema recursal e a violação do princípio da unirrecorribilidade. Veja-se que foi interposto recurso especial contra acórdão proferido em revisão criminal, inadmitido na origem, assim como o respectivo agravo em recurso especial, já apreciado nesta Corte (AREsp n. 2.612.996/SC). A utilização simultânea e concorrente de múltiplas vias impugnativas contra a mesma decisão não pode ser tolerada, sob pena de desvirtuamento do sistema recursal.
+As teses sustentadas pelo agravante não afastam tais óbices. A possibilidade de superação excepcional do princípio da unirrecorribilidade pressupõe a demonstração de flagrante ilegalidade ou teratologia, o que não se verifica no caso. A alegação genérica de coação ilegal e a invocação de precedentes dissociados das circunstâncias concretas dos autos não são suficientes para afastar os fundamentos da decisão agravada.
+De toda maneira, inexiste ilegalidade flagrante que justifique a concessão de habeas corpus de ofício e a consequente superação dos óbices constatados. Para se acolher o pedido de absolvição do paciente, seria necessário o reexame aprofundado do conjunto fático-probatório da ação penal, providência incabível na via estreita do habeas corpus (AgRg no HC n. 917.184/RJ, Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe 2/10/2024).
+Por fim, registro que a alegação de ofensa ao art. 226 do Código de Processo Penal nem sequer foi objeto de análise pelo acórdão impugnado, sendo vedada a pretendida supressão de instância.
+Ante o exposto, nego provimento ao agravo regimental.
