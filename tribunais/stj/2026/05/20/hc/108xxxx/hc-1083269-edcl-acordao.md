@@ -1,0 +1,47 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Turma, por unanimidade, rejeitar os embargos.
+Os Srs. Ministros Ribeiro Dantas, Joel Ilan Paciornik, Messod Azulay Neto e Maria Marluce Caldas votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Reynaldo Soares da Fonseca.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO HABEAS CORPUS. ART. 619 DO CPP. AUSÊNCIA DE OMISSÃO, CONTRADIÇÃO, OBSCURIDADE OU AMBIGUIDADE. SUPRESSÃO DE INSTÂNCIA. REDISCUSSÃO DA MATÉRIA. IMPOSSIBILIDADE. PEDIDO ACESSÓRIO ESTRANHO À VIA INTEGRATIVA. EMBARGOS DE DECLARAÇÃO REJEITADOS.
+1. Os embargos de declaração possuem fundamentação vinculada e destinam-se ao saneamento de ambiguidade, obscuridade, contradição, omissão ou erro material, nos termos do art. 619 do CPP.
+2. Não há omissão no acórdão que, de forma clara e fundamentada, reconhece a impossibilidade de exame do mérito do habeas corpus diante da ausência de pronunciamento da instância antecedente, configurando supressão de instância.
+3. A pretensão de rediscutir matéria já decidida, sob o pretexto de vícios inexistentes no julgado, revela mero inconformismo da parte embargante, hipótese incompatível com a via dos aclaratórios.
+4. Pretensões estranhas aos limites da via integrativa não podem ser examinadas em embargos de declaração, ausentes os vícios previstos no art. 619 do CPP.
+5. Embargos de declaração rejeitados.
+RELATÓRIO
+Trata-se de embargos de declaração opostos por ROBERTO APARECIDO BELMONTE contra acórdão que negou provimento ao agravo regimental, mantendo o não conhecimento do habeas corpus por supressão de instância.
+Extrai-se dos autos que o embargante foi condenado pela prática dos crimes de perseguição (art. 147-A, § 1º, II, do Código Penal), lesão corporal (art. 129, § 13, do Código Penal), ameaça (art. 147, caput e § 1º, do Código Penal) e vias de fato (art. 21 da Lei de Contravenções Penais), tendo sido fixada a pena total de 6 anos, 5 meses e 24 dias de pena privativa de liberdade, em regime inicial fechado, com manutenção da prisão preventiva por ocasião da sentença (e-STJ fls. 236/237).
+Irresignada, a defesa impetrou habeas corpus perante esta Corte Superior, alegando a ausência de contemporaneidade dos fundamentos da prisão preventiva e a suficiência de medidas cautelares diversas.
+O writ não foi conhecido, sob o fundamento de indevida supressão de instância, porquanto as teses defensivas não haviam sido apreciadas pelo Tribunal de origem (e-STJ fls. 236/237).
+Na sequência, foram opostos embargos de declaração, cujo protocolo foi certificado intempestivo (e-STJ fl. 232).
+Interposto agravo regimental, a defesa afirmou que o embargante está preso desde 12/07/2025, apontou excesso de prazo e alegou que a manutenção da prisão após a sentença de 29/01/2026 carece de fundamentação contemporânea. Sustentou, ainda, primariedade, bons antecedentes e necessidade de detração, além de noticiar a impetração de habeas corpus no Tribunal de Justiça e a interposição de agravo interno, com demora no julgamento.
+O agravo regimental teve seu provimento negado, em acórdão assim ementado (e-STJ fl. 236):
+PROCESSO PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS . SUPRESSÃO DE INSTÂNCIA. AUSÊNCIA DE PRONUNCIAMENTO DO TRIBUNAL A QUO SOBRE AS TESES DEDUZIDAS NO WRIT. INEXISTÊNCIA DE SITUAÇÃO EXCEPCIONAL A AUTORIZAR O SUPERAMENTO DO ÓBICE. ALEGADA NECESSIDADE DE DETRAÇÃO DA PENA. INOVAÇÃO RECURSAL. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. Não é possível a apreciação, por esta Corte Superior, de matérias não previamente examinadas pelo Tribunal de origem, sob pena de indevida supressão de instância.
+2. A notícia de impetração de habeas corpus no Tribunal a quo e de interposição de agravo interno, ainda pendentes de julgamento à data do pronunciamento desta Corte, confirma a ausência de exaurimento da instância antecedente e inviabiliza, como regra, o conhecimento do writ .
+3. A inovação recursal em agravo regimental, consistente na inclusão de tese não deduzida na impetração originária (detração penal), não é admissível nesta sede.
+4. Agravo regimental não provido.
+Em seguida, a defesa apresentou novos embargos de declaração (e-STJ fls. 245/250), alegando omissão do acórdão quanto à possibilidade de superar o óbice da supressão de instância diante de flagrante ilegalidade, consubstanciada em excesso de prazo da custódia e ausência de fundamentação concreta e contemporânea para a manutenção da prisão preventiva na sentença. Sustentou, ainda, a flexibilização da Súmula 691/STF, a necessidade de atuação de ofício em hipóteses excepcionais e requereu o arbitramento de honorários ao advogado dativo pela atuação em grau recursal (e-STJ fls. 245/250).
+Pede o embargante: a) o reconhecimento da omissão, com manifestação expressa sobre a possibilidade de superação da supressão de instância ante o apontado constrangimento ilegal; b) a atribuição de efeitos infringentes, para conhecer do mérito do habeas corpus e conceder a ordem, com expedição de alvará de soltura; c) o arbitramento de honorários advocatícios ao defensor dativo, observando a tabela da OAB e as normas do CJF (e-STJ fls. 245/250).
+É o relatório.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO HABEAS CORPUS. ART. 619 DO CPP. AUSÊNCIA DE OMISSÃO, CONTRADIÇÃO, OBSCURIDADE OU AMBIGUIDADE. SUPRESSÃO DE INSTÂNCIA. REDISCUSSÃO DA MATÉRIA. IMPOSSIBILIDADE. PEDIDO ACESSÓRIO ESTRANHO À VIA INTEGRATIVA. EMBARGOS DE DECLARAÇÃO REJEITADOS.
+1. Os embargos de declaração possuem fundamentação vinculada e destinam-se ao saneamento de ambiguidade, obscuridade, contradição, omissão ou erro material, nos termos do art. 619 do CPP.
+2. Não há omissão no acórdão que, de forma clara e fundamentada, reconhece a impossibilidade de exame do mérito do habeas corpus diante da ausência de pronunciamento da instância antecedente, configurando supressão de instância.
+3. A pretensão de rediscutir matéria já decidida, sob o pretexto de vícios inexistentes no julgado, revela mero inconformismo da parte embargante, hipótese incompatível com a via dos aclaratórios.
+4. Pretensões estranhas aos limites da via integrativa não podem ser examinadas em embargos de declaração, ausentes os vícios previstos no art. 619 do CPP.
+5. Embargos de declaração rejeitados.
+VOTO
+A irresignação não merece acolhimento.
+Os embargos de declaração são recurso com fundamentação vinculada, sendo imprescindível a demonstração de que a decisão embargada se mostrou ambígua, obscura, contraditória ou omissa, conforme disciplina o art. 619 do Código de Processo Penal. Podem ser admitidos, ainda, para correção de eventual erro material e, excepcionalmente, para alteração ou modificação do decisum embargado.
+É insuficiente, todavia, a mera irresignação com o entendimento apresentado na decisão, assim como inviável seu uso como meio de reanálise das alegações.
+No caso, não se constatam os vícios alegados.
+O acórdão embargado, ao negar provimento ao agravo regimental, consignou de forma clara e suficiente a razão impeditiva de exame do mérito do habeas corpus, diante da ausência de pronunciamento do Tribunal a quo sobre as teses deduzidas, configurando supressão de instância, com fundamentação específica e remissão aos julgados pertinentes (e-STJ fls. 236/239). A alegada omissão quanto à possibilidade de superar tal óbice não se verifica, porque o acórdão enfrentou o ponto nuclear da controvérsia  necessidade de exaurimento da instância antecedente  e assentou a inexistência, naquele momento processual, de situação excepcional apta a autorizar superação. Os argumentos relativos a excesso de prazo, ausência de contemporaneidade da prisão, desproporcionalidade, suficiência de cautelares e detração foram expressamente reputados matérias dependentes de prévio exame pela Corte local, o que afasta o vício de omissão.
+Não há contradição interna no decisum, que manteve a coerência entre o óbice processual identificado e a negativa de provimento ao agravo. Tampouco se detecta obscuridade ou ambiguidade: as razões foram expostas em linguagem direta, indicando a razão de decidir e o resultado do julgamento.
+Os pedidos acessórios de arbitramento de honorários ao defensor dativo, tal como formulados nos embargos, não decorrem de vício do acórdão e não se viabilizam por via integrativa, ausente omissão específica sobre ponto que devesse ser enfrentado no julgamento do agravo regimental. A pretensão, além de estranha ao objeto dos aclaratórios, não encontra suporte na indicação de erro material ou quaisquer dos vícios do art. 619 do CPP.
+Assim, o embargante pretende, na realidade, rediscutir matéria já decidida e que foi contrária à sua pretensão, sem demonstrar, todavia, ambiguidade, obscuridade, contradição ou omissão, nos termos do art. 619 do CPP.
+De fato, o entendimento desta Corte é pacífico no sentido de que "os embargos declaratórios não constituem recurso de revisão, sendo inadmissíveis se a decisão embargada não padecer dos vícios que autorizariam a sua oposição (obscuridade, contradição e omissão)". (EDcl no AgRg no REsp n. 1.339.703/RS, relator Ministro Felix Fischer, Quinta Turma, julgado em 4/11/2014, DJe de 17/11/2014).
+Manifesta, portanto, a impossibilidade de acolhimento dos presentes aclaratórios, porquanto não demonstrada ambiguidade, omissão, contradição ou obscuridade, mas mera irresignação do embargante com a solução apresentada por esta Corte Superior.
+Diante do exposto, rejeito os presentes embargos.
+É como voto.
