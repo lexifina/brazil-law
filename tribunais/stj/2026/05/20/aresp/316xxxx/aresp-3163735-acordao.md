@@ -1,0 +1,58 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 14/05/2026 a 20/05/2026, por unanimidade, não conhecer do recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Afrânio Vilela, Francisco Falcão, Maria Thereza de Assis Moura e Marco Aurélio Bellizze votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Teodoro Silva Santos.
+EMENTA
+PROCESSO CIVIL E ADMINISTRATIVO. AGRAVO EM RECURSO ESPECIAL. AÇÃO DE COBRANÇA. PRETENSÃO RESISTIDA. CUSTAS E HONORÁRIOS DE SUCUMBÊNCIA. PRINCÍPIO DA CAUSALIDADE. REVISÃO DAS CONCLUSÕES ADOTADAS NA ORIGEM. REEXAME DE FATOS E PROVAS. SÚMULA N. 7 DO STJ. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
+1. A Corte de origem, ao decidir sobre a distribuição do ônus sucumbenciais, concluiu que houve pretensão resistida da parte agravante, bem como que o pagamento de crédito defendido na exordial somente ocorreu após a propositura da ação.
+2. Fixada a premissa quanto à correta aplicação do princípio da causalidade, rever as conclusões adotadas pelas instâncias de origem demanda reexame dos elementos fático-probatórios dos autos, o que é vedado na via especial, ante o óbice da Súmula n. 7 do STJ.
+3. Agravo conhecido para não conhecer do recurso especial.
+RELATÓRIO
+Trata-se de agravo em recurso especial interposto pelo MUNICÍPIO DE PASSO DE CAMARAGIBE da decisão do TRIBUNAL DE JUSTIÇA DO ESTADO DE ALAGOAS, que inadmitiu o recurso especial dirigido contra o acórdão prolatado no julgamento da Apelação n. 0700464-75.2017.8.02.0027.
+Na origem, cuida-se de ação de obrigação de fazer com pedido de tutela de urgência ajuizada pela parte agravada que "gira do pagamento dos valores retidos pelo Município requerido e não repassados ao banco autor" (fl. 219).
+O feito foi extinto sem resolução de mérito, sendo a parte agravante condenada ao pagamento de honorários advocatícios (fls. 219-221).
+O TRIBUNAL DE JUSTIÇA DO ESTADO DE ALAGOAS, no julgamento do recurso de apelação, o desproveu em acórdão cuja ementa é a seguir transcrita (fls. 277-278):
+DIREITO ADMINISTRATIVO. APELAÇÃO CÍVEL. AÇÃO DE OBRIGAÇÃO DE FAZER. CONVÊNIO PARA EMPRÉSTIMO CONSIGNADO. ATRASO NO REPASSE. HONORÁRIOS ADVOCATÍCIOS. PRINCÍPIO DA CAUSALIDADE. IMPESSOALIDADE ADMINISTRATIVA. CONDENAÇÃO MANTIDA. RECURSO CONHECIDO E NÃO PROVIDO.
+I. CASO EM EXAME
+1. Apelação cível interposta pelo Município de Passo de Camaragibe visando à reforma de sentença que, ao extinguir o feito sem resolução do mérito por perda superveniente do objeto, o condenou ao pagamento de honorários advocatícios, com fundamento no princípio da causalidade.
+II. QUESTÃO EM DISCUSSÃO
+2. A questão em discussão consiste em saber se é cabível a condenação do Município ao pagamento de honorários sucumbenciais, mesmo tendo este efetuado o repasse dos valores devidos após o ajuizamento da demanda.
+III. RAZÕES DE DECIDIR
+3. A superveniência do repasse dos valores após o ajuizamento da ação não afasta a responsabilidade do Município pelas custas processuais, tendo em vista que sua inércia deu causa à propositura da demanda, nos termos do princípio da causalidade.
+4. A alegação de desorganização administrativa não afasta a responsabilidade do ente público, à luz do princípio da impessoalidade que rege a Administração Pública.
+5. Mantida a condenação em honorários, com majoração de ofício dos honorários recursais, nos termos do art. 85, § 11, do CPC.
+IV. DISPOSITIVO E TESE
+6. Apelação cível conhecida e desprovida. Tese de julgamento: "1. A responsabilidade pelo pagamento de honorários advocatícios decorre da inércia da parte que deu causa à propositura da demanda, ainda que sobrevenha a perda de objeto. 2. A alegada desorganização administrativa não exime o Município do cumprimento de obrigações assumidas, por força do Princípio da Impessoalidade".
+Nas razões do recurso especial interposto com base no art. 105, inciso III, alínea a da Constituição Federal, a parte recorrente indica a violação do art. 1.022, inciso II, do Código de Processo Civil, pois a Corte local não teria se manifestado de forma fundamentada acerca da pertinência da produção das provas requeridas.
+No mérito, a parte recorrente aponta afronta aos arts. 85, §10 do Código de Processo Civil e 884 do Código Civil, trazendo os seguintes argumentos: (a) a situação contratual relacionada ao convênio firmado com a parte agravada foi regularizada, o que gerou a perda do objeto da presente demanda; (b) houve violação do princípio da legalidade e da segurança jurídica, ficando configurado enriquecimento ilícito, pois não foi descumprido o convênio já que o mero atraso não configura inadimplemento; (c) quem deve arcar com o pagamento de honorários advocatícios é a parte que deu causa à instauração do processo em respeito ao princípio da casualidade; e (d) não há prova de pretensão resistida ou de negativa do Município, que efetuou o repasse assim que conheceu os fatos da presente demanda.
+Ao final, requer o provimento do recurso especial "reformando o acórdão recorrido, com base nos fundamentos acima aludidos, com a finalidade de afastar a condenação do município em honorários advocatícios dada a correta aplicação do art. 85, §10, do CPC, e, portanto, coibindo o enriquecimento ilícito" (fl. 304).
+Contrarrazões às fls. 315-331.
+O Tribunal a quo não admitiu o recurso especial por considerar que incide a Súmula n. 7/STJ (fl. 334).
+Nas razões do presente agravo em recurso especial, alega a parte agravante que (fls. 341-349):
+No mérito, não procede a objeção da decisão agravada, que reputou a tese do Município como dependente de reexame fático-probatório. O que se sustenta é que o fato de o feito ter sido extinto sem resolução de mérito evidencia o descabimento da condenação de qualquer das partes ao pagamento de honorários, uma vez que não está presente o elemento de sucumbência. Não se trata, portanto, de revolver provas existentes, mas de reconhecer que a condenação ao pagamento de honorários não deve recair sobre o município, justo porque não deu causa à propositura da ação.
+A decisão agravada incorreu em equívoco ao afirmar que a análise do recurso demandaria reexame de matéria fática, o que seria vedado pela Súmula 7 do STJ.
+O Ministério Público Federal opinou pelo conhecimento do agravo e não conhecimento do recurso especial (fls. 481-484).
+É o relatório.
+EMENTA
+PROCESSO CIVIL E ADMINISTRATIVO. AGRAVO EM RECURSO ESPECIAL. AÇÃO DE COBRANÇA. PRETENSÃO RESISTIDA. CUSTAS E HONORÁRIOS DE SUCUMBÊNCIA. PRINCÍPIO DA CAUSALIDADE. REVISÃO DAS CONCLUSÕES ADOTADAS NA ORIGEM. REEXAME DE FATOS E PROVAS. SÚMULA N. 7 DO STJ. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
+1. A Corte de origem, ao decidir sobre a distribuição do ônus sucumbenciais, concluiu que houve pretensão resistida da parte agravante, bem como que o pagamento de crédito defendido na exordial somente ocorreu após a propositura da ação.
+2. Fixada a premissa quanto à correta aplicação do princípio da causalidade, rever as conclusões adotadas pelas instâncias de origem demanda reexame dos elementos fático-probatórios dos autos, o que é vedado na via especial, ante o óbice da Súmula n. 7 do STJ.
+3. Agravo conhecido para não conhecer do recurso especial.
+VOTO
+Satisfeitos os requisitos de admissibilidade do agravo, tendo em vista, notadamente, que a parte agravante impugnou, de forma suficiente, os óbices elencados na decisão de inadmissibilidade proferida pelo Tribunal de origem, passo ao exame do recurso especial.
+Ao decidir sobre a sucumbência, a Corte a quo, com base no acervo fático-probatório dos autos, adotou os seguintes fundamentos (fl. 282):
+20. Isto posto, consigno que, nas próprias alegações recursais, o Município apelante reconhece a existência de atraso no repasse dos valores devidos em razão do convênio firmado com o banco apelado, tratando-se, portanto, de fato incontroverso.
+21. Dessa forma, a meu ver, não restam dúvidas de que o recorrente deu causa à instauração do processo e, portanto, deve arcar com as verbas sucumbenciais.
+22. Ressalto, ademais, que não deve ser levada em consideração a tese recursal referente a suposto desconhecimento do atraso no repasse dos valores, por suposta desorganização da gestão anterior, na medida em que, em observância ao Princípio da Impessoalidade, os atos e provimentos oriundos da Administração são imputáveis não ao funcionário público que os pratica, mas sim, ao órgão ou entidade da Administração Pública.
+23. Isto posto, compreendo que deve ser mantida a condenação do recorrente ao pagamento dos honorários advocatícios.
+Assim, considerando a fundamentação do acórdão recorrido acima transcrita, os argumentos utilizados pela parte recorrente - no sentido de que não causou a instauração da demanda - somente poderiam ter a sua procedência verificada mediante necessário reexame de matéria fático-probatória. Todavia, não cabe a esta Corte, a fim de alcançar conclusão diversa, reavaliar todo o conjunto de fatos e provas da causa, conforme preceitua o enunciado da Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial").
+Nesse sentido:
+PROCESSUAL CIVIL E TRIBUTÁRIO. RECURSO ESPECIAL. FIXAÇÃO DE HONORÁRIOS SUCUMBENCIAIS DECORRENTES DA EXTINÇÃO DA EXECUÇÃO FISCAL PELA PRESCRIÇÃO INTERCORRENTE. NÃO CABIMENTO. ACÓRDÃO RECORRIDO EM SINTONIA COM A JURISPRUDÊNCIA DO STJ. PRINCÍPIO DA CAUSALIDADE. REVISÃO DAS CONCLUSÕES ADOTADAS NA ORIGEM. REEXAME DE FATOS E PROVAS. SÚMULA N. 7 DO STJ. RECURSO ESPECIAL PARCIALMENTE CONHECIDO E, NESSA EXTENSÃO, DESPROVIDO.
+1. Cuidam os autos da possibilidade de condenação da União em honorários advocatícios.
+2. O acórdão recorrido se alinhou à orientação jurisprudencial do STJ de que, " ..  em caso de reconhecimento da prescrição intercorrente, em virtude da aplicação do princípio da causalidade, é incabível a condenação do ente público ao pagamento de honorários sucumbenciais" (AgInt nos EDcl no AREsp n. 2.637.014/RS, relator Ministro Marco Aurélio Bellizze, Segunda Turma, julgado em 28/5/2025, DJEN de 2/6/2025). Na mesma linha: AgInt no REsp n. 2.101.827/RJ, relator Ministro Francisco Falcão, Segunda Turma, julgado em 8/4/2024, DJe de 11/4/2024; AgInt no AREsp n. 2.260.044/RS, relator Ministro Benedito Gonçalves, Primeira Turma, julgado em 27/11/2023, DJe de 1º/12/2023.
+3. Ademais, não prospera a alegação da parte recorrente de que " ..  o superveniente reconhecimento da prescrição intercorrente não tem o condão de afastar a prévia declaração de nulidade do título que lastreia a execução fiscal  .. " (fl. 394). Isso porque a Corte a quo asseverou expressamente que houve a interposição de recurso contra a sentença de procedência nos embargos (fl. 308) e que foi, de fato, a prescrição intercorrente o motivo da extinção da execução fiscal.
+4. Fixada a premissa quanto à correta aplicação do princípio da causalidade, rever as conclusões adotadas pelas instâncias de origem demanda reexame dos elementos fático-probatórios dos autos, o que é vedado na via especial, ante o óbice da Súmula n. 7 do STJ.
+5. Recurso especial parcialmente conhecido e, nessa extensão, desprovido.
+(REsp n. 2.206.176/RS, relator Ministro Teodoro Silva Santos, Segunda Turma, julgado em 11/2/2026, DJEN de 19/2/2026.)
+Ante o exposto, CONHEÇO do agravo para NÃO CONHECER do recurso especial. Em atenção ao disposto no art. 85, § 11, do Código de Processo Civil, majoro os honorários advocatícios em 10% (dez por cento) sobre o valor já arbitrado (fls. 221 e 282), respeitados os limites estabelecidos nos §§ 2º e 3º do mesmo artigo.
+É como voto.
