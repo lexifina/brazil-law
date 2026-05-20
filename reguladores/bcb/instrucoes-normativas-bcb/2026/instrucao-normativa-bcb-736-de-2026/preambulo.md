@@ -1,0 +1,4 @@
+INSTRUÇÃO NORMATIVA BCB Nº 736, DE 19 DE MAIO DE 2026
+Altera a Instrução Normativa BCB nº 693, de 19 de dezembro de 2025 que estabelece os procedimentos para a remessa ao Banco Central do Brasil de informações relativas a prestação de serviços de ativos virtuais no mercado de câmbio de que trata a Resolução BCB nº 521, de 10 de novembro de 2025.
+O Chefe do Departamento de Monitoramento do Sistema Financeiro – Desig e a Chefe do Departamento de Regulação Prudencial e Cambial – Dereg, substituta, no uso das atribuições que lhes conferem o art. 23, inciso I, alínea “a” do Regimento Interno do Banco Central do Brasil, divulgado por meio da Resolução BCB nº 340, de 21 de setembro de 2023, com base no art. 85, inciso I, alínea “b”, do referido Regimento, e tendo em vista o disposto nas Resoluções BCB ns. 519, 520 e 521, todas de 10 de novembro de 2025, sendo esta última a que altera a Resolução BCB nº, 277, de 31 de dezembro de 2022,
+R E S O L V E M:
