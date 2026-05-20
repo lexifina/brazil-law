@@ -1,0 +1,27 @@
+DECISÃO
+Trata-se de habeas corpus com pedido de liminar impetrado em favor de DARLY LOURENÇO GOMES em que se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO.
+Consta dos autos que a paciente foi condenada às penas de 1 ano, 7 meses e 6 dias de reclusão no regime semiaberto e de pagamento de 8 dias-multa, como incursa nas sanções do art. 155, §§ 4º, IV, e 8º, c/c o art. 14, II, ambos do Código Penal.
+A impetrante sustenta que o acórdão manteve a prisão preventiva, embora reconheça que o requisito objetivo para a progressão de regime já se encontra preenchido.
+Afirma que há constrangimento ilegal, pois a custódia cautelar é desproporcional diante da natureza do fato, da pena final reduzida e do longo tempo de segregação.
+Defende que a fundamentação de risco de reiteração delitiva é genérica e não autoriza a continuidade da prisão preventiva por prazo tão extenso.
+Pondera que a paciente é mãe de 4 filhos menores, o que reclama a proteção estatal à infância e à convivência familiar, à luz do art. 227 da Constituição Federal e da orientação do STF no HC n. 143.641/SP.
+Informa que há possibilidade de substituição da prisão por medidas cautelares menos gravosas.
+Requer, liminarmente e no mérito, a concessão de prisão domiciliar, nos termos do art. 318, V, do Código de Processo Penal; subsidiariamente, a substituição da prisão por medidas do art. 319 do Código de Processo Penal.
+É o relatório.
+Constata-se que o presente writ foi impetrado nesta Corte Superior em 12/5/2026 contra o acórdão do Tribunal de origem que, ao denegar a ordem originária, manteve a prisão preventiva da paciente - condenada à pena de 1 ano, 7 meses e 6 dias de reclusão em regime inicial semiaberto.
+Na ocasião, a Corte estadual entendeu que a segregação cautelar encontra respaldo no art. 312 do CPP, notadamente sob a ótica da Lei n. 15.272/2025, que demanda a análise da reiteração delitiva para aferição da periculosidade. Ademais , o colegiado indeferiu a substituição por prisão domiciliar devido à ausência de comprovação da substancialidade da presença da paciente nos cuidados dos filhos menores de idade.
+No entanto, conforme consulta ao sítio eletrônico da Corte de origem, o trânsito em julgado da condenação foi certificado em 24/4/2026. Dessa forma, não subsiste a prisão preventiva, que possui natureza cautelar e se extingue com o trânsito em julgado, convertendo-se em prisão-pena.
+Por conseguinte, fica prejudicada a análise do pedido de prisão domiciliar fundamentado no art. 318, parágrafo único, do CPP, uma vez que o instituto é aplicável exclusivamente à prisão cautelar.
+Por outro lado, quanto ao pedido de progressão para o regime aberto, destaca-se que o Tribunal de origem não o examinou na forma pretendida pela defesa, limitando-se a apontar que tal pedido demanda a análise de requisitos de ordem subjetiva, circunstância que inviabiliza o exame da questão pelo Superior Tribunal de Justiça, sob pena de indevida supressão de instância.
+Não debatida a questão pela Corte de origem, é firme o entendimento de que "fica obstada sua análise a priori pelo Superior Tribunal de Justiça, sob pena de dupla e indevida supressão de instância, e violação dos princípios do duplo grau de jurisdição e devido processo legal" (RHC n. 126.604/MT, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 7/12/2020, DJe de 16/12/2020).
+Nesse sentido, destaca-se:
+PENAL E PROCESSUAL PENAL. AGRAVO REGIMENTAL EM HABEAS CORPUS. TRÁFICO DE DROGAS. ASSOCIAÇÃO PARA O TRÁFICO. ORGANIZAÇÃO CRIMINOSA. PRISÃO PREVENTIVA. ALEGADA AUSÊNCIA DE FUNDAMENTAÇÃO IDÔNEA. NÃO CONFIGURADA. ART. 312 DO CÓDIGO DE PROCESSO PENAL. GARANTIA DA ORDEM PÚBLICA. NECESSIDADE DE INTER ROMPER OU REDUZIR ATIVIDADE DE GRUPO CRIMINOSO. EXCESSO DE PRAZO. SUPRESSÃO DE INSTÂNCIA. CONDIÇÕES PESSOAIS FAVORÁVEIS. IRRELEVÂNCIA. MEDIDAS CAUTELARES MAIS BRANDAS. INSUFICIÊNCIA E INADEQUAÇÃO. RECURSO NÃO PROVIDO.
+1. A prisão preventiva foi ordenada e mantida pelas instâncias ordinárias, nos termos do art. 312 do Código de Processo Penal, notadamente para a garantia da ordem pública.
+2. No caso, a periculosidade da paciente foi revelada em minuciosa investigação levada a efeito no âmbito da Operação ARAITAK, uma vez que integraria associação criminosa estruturalmente ordenada e com emprego de arma de fogo, ligada ao à facção KATIARA, voltada para a prática de tráfico de drogas e de armas em vários Municípios do Estado da Bahia, desempenhando a função de Olheira/Apoio Operacional, subordinada diretamente a gerente de pista, ficando responsável por informar sobre a movimentação de viaturas policiais e repassar informações sobre membros da facção rival, além de fornecer sua conta bancária para depósitos referentes à venda de drogas.
+2. O alegado excesso de prazo para a formação da culpa não foi sequer apreciado pelo Tribunal estadual, o que impede o exame da matéria por esta Corte, sob pena de indevida supressão de instância.
+3. Condições pessoais favoráveis não têm o condão de, isoladamente, desconstituir a prisão cautelar ou autorizar medidas cautelares alternativas quando há nos autos elementos hábeis que autorizam sua manutenção, como ocorre no caso.
+4. Agravo regimental não provido.
+(AgRg no HC n. 905.056/BA, relatora Ministra Daniela Teixeira, Quinta Turma, julgado em 5/8/2024, DJe de 23/8/2024, grifei.)
+Ante o exposto, com fundamento no art. 210 do Regimento Interno do Superior Tribunal de Justiça, não conheço do habeas corpus.
+Publique-se. Intimem-se.
+ EMENTA
