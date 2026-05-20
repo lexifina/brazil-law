@@ -1,0 +1,69 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEXTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 14/05/2026 a 20/05/2026, por unanimidade, negar provimento ao agravo regimental, nos termos do voto do Sr. Ministro Carlos Pires Brandão.
+Os Srs. Ministros Og Fernandes, Sebastião Reis Júnior e Rogerio Schietti Cruz votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Carlos Pires Brandão.
+EMENTA
+DIREITO PROCESSUAL PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS. PRISÃO PREVENTIVA. FUNDAMENTAÇÃO IDÔNEA. QUANTIDADE E DIVERSIDADE DE ENTORPECENTES. REITERAÇÃO DELITIVA. CONDENAÇÃO ANTERIOR POR ORGANIZAÇÃO CRIMINOSA E ASSOCIAÇÃO PARA O TRÁFICO. RISCO CONCRETO À ORDEM PÚBLICA. AGRAVO REGIMENTAL NÃO PROVIDO.
+I. CASO EM EXAME
+1. Agravo regimental interposto contra decisão monocrática que denegou a ordem de habeas corpus, mantendo a prisão preventiva do agravante pela suposta prática do crime de tráfico de drogas.
+2. O agravante sustenta a ausência de fundamentação idônea do decreto cautelar, alegando basear-se em motivação genérica e na gravidade abstrata do delito, além de defender a suficiência das medidas cautelares alternativas previstas no art. 319 do Código de Processo Penal.
+II. QUESTÃO EM DISCUSSÃO
+3. A questão em discussão consiste em verificar se o decreto de prisão preventiva apresenta fundamentação concreta, baseada nos requisitos dos arts. 312 do Código de Processo Penal, ou se configura constrangimento ilegal por ausência de motivação individualizada.
+III. RAZÕES DE DECIDIR
+4. A segregação cautelar foi devidamente fundamentada na garantia da ordem pública, diante da gravidade concreta da conduta, evidenciada pela quantidade e diversidade de entorpecentes apreendidos, bem como pelo fundado receio de reiteração delitiva, pois o agravante é reincidente, egresso do sistema prisional e possui condenação definitiva anterior por integrar organização criminosa e associação para o tráfico de drogas.
+IV. DISPOSITIVO
+5. Agravo regimental não provido.
+RELATÓRIO
+Trata-se de agravo regimental interposto por ALEXANDRE BORGES VIEIRA contra decisão de minha lavra, na qual deneguei a ordem de habeas corpus.
+Consta nos autos que o paciente, ora agravante, foi preso em flagrante pela imputação do crime previsto no art. 33, caput, da Lei n. 11.343/2006, com conversão em prisão preventiva em 12/12/2025; o Tribunal de origem denegou a ordem em writ anterior, decisão por mim mantida às fls. 38-42.
+Nas presentes razões, a Defesa sustenta ausência de fundamentação idônea e individualizada do decreto cautelar e da decisão monocrática, alegando que houve motivação genérica e baseada na gravidade abstrata, em afronta ao art. 93, inciso IX, da Constituição da República e ao art. 315, § 2º, incisos I, II e III, do Código de Processo Penal.
+Argumenta, ainda, que não houve exame concreto da suficiência das cautelares do art. 319 do Código de Processo Penal, contrariando o art. 282, § 6º, e que, por se tratar de crime sem violência, seriam adequadas medidas menos gravosas, como monitoração eletrônica, comparecimento periódico e proibições específicas.
+Requer o provimento do agravo regimental para concessão do habeas corpus, com revogação da prisão preventiva e aplicação de medidas cautelares do art. 319 do Código de Processo Penal.
+É o relatório.
+EMENTA
+DIREITO PROCESSUAL PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS. PRISÃO PREVENTIVA. FUNDAMENTAÇÃO IDÔNEA. QUANTIDADE E DIVERSIDADE DE ENTORPECENTES. REITERAÇÃO DELITIVA. CONDENAÇÃO ANTERIOR POR ORGANIZAÇÃO CRIMINOSA E ASSOCIAÇÃO PARA O TRÁFICO. RISCO CONCRETO À ORDEM PÚBLICA. AGRAVO REGIMENTAL NÃO PROVIDO.
+I. CASO EM EXAME
+1. Agravo regimental interposto contra decisão monocrática que denegou a ordem de habeas corpus, mantendo a prisão preventiva do agravante pela suposta prática do crime de tráfico de drogas.
+2. O agravante sustenta a ausência de fundamentação idônea do decreto cautelar, alegando basear-se em motivação genérica e na gravidade abstrata do delito, além de defender a suficiência das medidas cautelares alternativas previstas no art. 319 do Código de Processo Penal.
+II. QUESTÃO EM DISCUSSÃO
+3. A questão em discussão consiste em verificar se o decreto de prisão preventiva apresenta fundamentação concreta, baseada nos requisitos dos arts. 312 do Código de Processo Penal, ou se configura constrangimento ilegal por ausência de motivação individualizada.
+III. RAZÕES DE DECIDIR
+4. A segregação cautelar foi devidamente fundamentada na garantia da ordem pública, diante da gravidade concreta da conduta, evidenciada pela quantidade e diversidade de entorpecentes apreendidos, bem como pelo fundado receio de reiteração delitiva, pois o agravante é reincidente, egresso do sistema prisional e possui condenação definitiva anterior por integrar organização criminosa e associação para o tráfico de drogas.
+IV. DISPOSITIVO
+5. Agravo regimental não provido.
+VOTO
+O inconformismo não prospera.
+A prisão preventiva, no ordenamento jurídico brasileiro, constitui medida cautelar de natureza excepcional, cuja manutenção está condicionada à permanência dos fatos que a justificaram, e somente se legitima em situações em que a liberdade do indivíduo represente um risco concreto e atual aos bens jurídicos tutelados pelo art. 312 do Código de Processo Penal.
+Sua decretação não representa antecipação de pena nem viola o princípio da presunção de não culpabilidade, desde que a decisão judicial esteja fundamentada em elementos concretos, e não na gravidade abstrata do delito, demonstrando a efetiva necessidade da medida para o caso específico.
+Para tanto, exige-se a comprovação da existência de prova da materialidade do crime e de indícios suficientes de autoria, bem como do perigo gerado pelo estado de liberdade do imputado, que se manifesta na necessidade de garantir a ordem pública, a ordem econômica, a conveniência da instrução criminal ou a aplicação da lei penal. Trata-se, portanto, da última e mais gravosa das medidas cautelares, cuja aplicação demanda a demonstração inequívoca de que as alternativas previstas no art. 319 do CPP são insuficientes para acautelar o processo e o meio social.
+O Juízo de primeiro grau, ao converter a prisão em flagrante do agravante em preventiva, consignou o que se segue (fls. 31-34; grifamos):
+O periculum libertatis exsurge cristalino da gravidade concreta do delito e da necessidade de garantia da ordem pública. A quantidade e a diversidade de drogas apreendidas são vultosas e incompatíveis com o mero uso ou com o tráfico ocasional de pequena monta. Foram apreendidos mais de mil pinos de cocaína e quase dois quilos de entorpecentes variados, além de balança de precisão e expressiva quantia em dinheiro (fls. 14/15), circunstâncias que denotam, em tese, dedicação habitual ao comércio espúrio e inserção em cadeia criminosa estruturada.
+Nesse contexto, impõe-se a aplicação da Lei nº 15.272/2025, que alterou dispositivos do Código de Processo Penal para endurecer o tratamento cautelar em casos dessa natureza. Verifica-se o preenchimento do art. 312, § 3º, incisos II e III, do CPP, uma vez que a quantidade e a natureza dos entorpecentes apreendidos (incluindo drogas de alto poder viciante como o crack e sintéticas como o ecstasy), somadas ao modus operandi transporte intermunicipal de drogas (Sorocaba-Itu) mediante pagamento e divisão de tarefas , indicam risco concreto de reiteração delitiva e lesão grave à saúde pública.
+Quanto ao indiciado ALEXANDRE BORGES VIEIRA, sua folha de antecedentes (fls. 32/33 e 41/45) revela contumácia delitiva, ostentando registros anteriores, inclusive por tráfico de drogas e crimes patrimoniais, sendo egresso do sistema prisional, ostentando, inclusive, condenação definitiva por integrar organização criminosa e ser associado ao tráfico de drogas (autos nº 0017570-46.2017.8.26.0602 - fls. 41-42). Tal fato atrai a incidência do art. 310, § 5º, inciso I, do CPP (redação da Lei nº 15.272/2025), que veda a liberdade provisória quando o agente for reincidente ou houver praticado atos infracionais graves pretéritos, denotando que a liberdade do agente representa risco real à sociedade.
+(..)
+Ante o exposto, nos termos do art. 310, II, do Código de Processo Penal, ACOLHO o requerimento do Ministério Público para o fim de converter a prisão em flagrante de ALEXANDRE BORGES VIEIRA em prisão preventiva. EXPEÇA-SE mandado de prisão para o seu fiel cumprimento, na forma e sob as penas da Lei. EXPEÇA-SE o mais necessário.
+Como se obseva, o Juízo processante destacou, com base na folha de antecedentes do agente, tratar-se de indivíduo contumaz na prática de ilícitos penais, ostentando condenação definitiva anterior pela prática dos delitos de integrar organização criminosa e associação para o tráfico de drogas. Portanto, reitero que a necessidade da prisão preventiva foi suficientemente fundamentada pelas instâncias ordinárias, tendo sido destacado o risco concreto de reiteração delitiva.
+Os elementos apontados efetivamente demonstram a potencial periculosidade do agente e são aptos a justificar a segregação cautelar para garantia da ordem pública, conforme a orientação do Superior Tribunal de Justiça.
+No mesmo sentido:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO ILÍCITO DE ENTORPECENTES. PRISÃO PREVENTIVA. FUNDAMENTAÇÃO IDÔNEA. GRAVIDADE CONCRETA. RISCO DE REITERAÇÃO DELITIVA. REINCIDENTE ESPECÍFICO. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. A prisão preventiva é compatível com a presunção de não culpabilidade do acusado desde que não assuma natureza de antecipação da pena e não decorra, automaticamente, do caráter abstrato do crime ou do ato processual praticado. Além disso, a decisão judicial deve apoiar-se em motivos e fundamentos concretos, relativos a fatos novos ou contemporâneos, dos quais se possa extrair o perigo que a liberdade plena do investigado ou réu representa para os meios ou os fins do processo penal.
+2. Na hipótese, a decisão constritiva apontou a presença dos vetores contidos no art. 312 do Código de Processo Penal e indicou motivação idônea para decretar a prisão preventiva do acusado, notadamente diante da gravidade concreta do crime, revelada pelas circunstâncias da prisão, bem como pelo risco de reiteração delitiva, porquanto o acusado foi recentemente condenado pelo mesmo delito.
+3. Agravo regimental não provido.
+(AgRg no HC n. 1.014.093/MG, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 19/11/2025, DJEN de 27/11/2025.)
+PENAL E PROCESSUAL PENAL. AGRAVO REGIMENTAL NO RECURSO EM HABEAS CORPUS. TRÁFICO DE DROGAS. PRISÃO PREVENTIVA. GARANTIA DA ORDEM PÚBLICA. RISCO DE REITERAÇÃO DELITIVA. SÚMULA N. 444 DO STJ. AUSÊNCIA DE ÓBICE. TEMA N. 506 DO STF. PERSPECTIVA RACIAL. INOVAÇÕES RECURSAIS. AGRAVO REGIMENTAL CONHECIDO EM PARTE E IMPROVIDO.
+1. A prisão preventiva pode ser decretada antes do trânsito em julgado da sentença condenatória, desde que estejam presentes os requisitos previstos no art. 312 do Código de Processo Penal.
+2. Foram constatados elementos concretos capazes de justificar a privação cautelar da liberdade que indicam a habitualidade delitiva do agravante, evidenciada pela existência de múltiplos processos penais e registros de ocorrências criminais em seu desfavor, inclusive condenação por crime de roubo.
+3. A Súmula n. 444 do STJ não impede a consideração de inquéritos e ações penais em curso como indicativos de risco de reiteração delitiva, conforme precedentes desta Corte Superior.
+4. A inovação recursal em agravo regimental é vedada, não sendo possível conhecer das teses relativas ao Tema n. 506 do STF e à necessidade do julgamento com perspectiva racial.
+5. Agravo regimental conhecido em parte e improvido.
+(AgRg no RHC n. 215.646/BA, relator Ministro Og Fernandes, Sexta Turma, julgado em 5/8/2025, DJEN de 27/8/2025.)
+PROCESSUAL PENAL. AGRAVO REGIMENTAL EM HABEAS CORPUS INDEFERIDO LIMINARMENTE. TRÁFICO DE DROGAS. APREENSÃO DE MAIS DE 800 G DE MACONHA E DE R$ 3.350,00. PRISÃO PREVENTIVA. FUNDAMENTAÇÃO. INDICAÇÃO DE ELEMENTOS CONCRETOS. REITERAÇÃO DELITIVA. NECESSIDADE DA CUSTÓDIA PARA A GARANTIA DA ORDEM PÚBLICA. CONSTRANGIMENTO ILEGAL. AUSÊNCIA.
+1. A jurisprudência desta Corte e do colendo Supremo Tribunal Federal alinha-se no sentido de que a prisão preventiva pode ser justificada pela preservação da ordem pública, especialmente quando há risco de reiteração delitiva.
+2. No caso, a segregação cautelar se encontra justificada na probabilidade concreta de reiteração delitiva, tendo em vista a existência de notícia sobre a existência de acordo de não persecução em razão da prática do crime de tráfico privilegiado praticado anteriormente.
+3. Agravo regimental improvido.
+(AgRg no HC n. 1.004.357/SC, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 13/8/2025, DJEN de 18/8/2025.)
+Portanto, tendo em vista que a necessidade da prisão preventiva foi concretamente demonstrada nos termos dos arts. 312 e 313, ambos do Código de Processo Penal, não se mostra suficiente a aplicação de medidas cautelares mais brandas.
+Ademais, a alegada existência de condições pessoais favoráveis, por si só, não assegura a desconstituição da custódia antecipada, caso estejam presentes os requisitos autorizadores da segregação provisória, como ocorre no caso. Exemplificativamente: AgRg no HC n. 1.005.547/MG, relator Ministro Og Fernandes, Sexta Turma, julgado em 27/8/2025, DJEN de 1/9/2025; RHC n. 210.607/SP, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 11/6/2025, DJEN de 23/6/2025.
+Desse modo, ausentes, nas razões recursais, argumentos jurídicos idôneos a desconstituir os fundamentos da decisão agravada, impõe-se sua integral manutenção, pelos próprios fundamentos.
+Ante o exposto, nego provimento ao agravo regimental.
+É como voto.
