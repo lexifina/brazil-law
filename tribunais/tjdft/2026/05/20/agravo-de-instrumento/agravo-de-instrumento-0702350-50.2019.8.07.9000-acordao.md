@@ -1,0 +1,82 @@
+Poder Judiciário da UniãoTRIBUNAL DE JUSTIÇA DO DISTRITO FEDERAL E DOS TERRITÓRIOS
+
+Órgão
+Primeira Turma Recursal DOS JUIZADOS ESPECIAIS DO DISTRITO FEDERAL
+Processo N.AGRAVO DE INSTRUMENTO 0702350-50.2019.8.07.9000AGRAVANTE(S)DISTRITO FEDERALAGRAVADO(S)JACIRA NATIVIDADE DE ALMEIDA FIGUEIREDORelatorJuiz LUIS EDUARDO YATSUDA ARIMA
+ Acórdão Nº2125627
+
+EMENTA
+
+ Ementa. Direito administrativo. Direito processual civil. Agravo de instrumento. Juizado especial da fazenda pública. Cumprimento de sentença. Gratificação de atividade de ensino especial (GAEE). Coisa julgada inconstitucional. ADPF 615/DF. Inexigibilidade do título executivo judicial. Mitigação do art. 59 da Lei 9.099/1995. Cabimento de arguição por simples petição. Ressalva de distinguishing quanto à comprovação de atendimento exclusivo. Cassação da decisão agravada para reexame na origem. Recurso conhecido e parcialmente provido.
+
+I. Caso em exame
+
+1. Agravo de instrumento interposto contra decisão que, nos autos de cumprimento de sentença relativo à Gratificação de Atividade de Ensino Especial (GAEE), indeferiu o pedido de reconhecimento da inexigibilidade do título judicial, ao fundamento de preservação da coisa julgada, e determinou o prosseguimento do feito.
+
+2. Recurso próprio e tempestivo. Isento de preparo e custas, nos termos do art. 1.007, §1º, do Código de Processo Civil.
+
+3. Não foi concedido efeito suspensivo (ID 10359308).
+
+4. Em suas razões recursais, a agravante alega que o título executivo judicial exequendo padece de coisa julgada inconstitucional qualificada, na medida em que reconheceu o direito à GAEE com base em interpretação que estende a gratificação a professores que não atendiam exclusivamente a alunos com necessidades especiais, interpretação rechaçada pelo Conselho Especial do TJDFT no julgamento da ADI 2017.00.2.021004-9 (Acórdão 1158225, sessão de 20/11/2018, DJe de 29/11/2018). Invoca o §5º do art. 8º da Lei 11.697/2008 para atribuir à ADI do TJDFT eficácia erga omnes e efeito vinculante, com eficácia ex tunc, na ausência de modulação. Argumenta, com base no RE 611.503 (Tema 360 STF) e na ADI 2.418/DF, que os dispositivos do CPC que instituem o regime de inexigibilidade da coisa julgada inconstitucional (art. 525, §1º, III, e §§ 12 e 14, e art. 535, §5º, do CPC/2015) são constitucionais e configuram mecanismo legítimo de harmonização entre a coisa julgada e a supremacia da Constituição. Aduz que a leitura literal do item "c" da tese do Tema 360 (exigência de que o pronunciamento da Suprema Corte seja anterior ao trânsito em julgado da exequenda) restringe-se ao regime do CPC/2015, podendo, nos processos regidos pelo CPC/1973, a inexigibilidade ser arguida em simples petição. Sustenta, ainda, que, sendo vedada a ação rescisória pelo art. 59 da Lei 9.099/1995 (aplicável por força do art. 27 da Lei 12.153/2009), a única interpretação constitucionalmente adequada é a de que a inexigibilidade pode ser arguida por simples petição nos próprios autos de cumprimento de sentença, sob pena de transformar os Juizados Especiais em enclave imune ao controle de constitucionalidade. Dedica a parte final do arrazoado ao alegado passivo de RPVs do Distrito Federal, estimado em R$ 393.377.574,66, dos quais aproximadamente 80% referentes à GAEE. Pugna, ao final, pela concessão de efeito suspensivo ao agravo para obstar o pagamento da RPV e, no mérito, pelo reconhecimento da inexigibilidade do título executivo judicial, com a consequente reforma da decisão agravada.
+
+5. Em contrarrazões (ID 10974414), a agravada requer o desprovimento do agravo.
+
+6. O feito foi sobrestado, em 10/09/2019, até julgamento da ADPF 615/DF, cuja medida cautelar havia determinado a suspensão de todos os processos, em qualquer fase, que envolvessem a extensão da GAEE a professores que não atendessem exclusivamente a alunos com necessidades especiais.
+
+II. Questão em discussão
+
+7. A controvérsia consiste em saber: (i) se, após o julgamento definitivo da ADPF 615/DF pelo STF, é possível a desconstituição da coisa julgada formada em título executivo judicial que reconheceu o direito à GAEE a professor que não atendia exclusivamente a alunos com necessidades educativas especiais; (ii) se, no caso concreto, há hipótese de distinguishing, a ser verificada no juízo de origem, quanto à efetiva comprovação de atendimento exclusivo.
+
+III. Razões de decidir
+
+8. O processo esteve sobrestado por força da medida cautelar concedida pelo Ministro Luís Roberto Barroso na ADPF 615/DF, que determinou a suspensão de todos os processos, em qualquer fase, inclusive execução de decisões transitadas em julgado, que envolvessem a extensão da GAEE a professores que não atendiam ou não atendam exclusivamente a alunos com necessidades educativas ou em situação de risco e vulnerabilidade, nos termos do art. 21, §3º, I, da Lei Distrital 4.075/2007 e do art. 20, I, da Lei Distrital 5.105/2013. Com o julgamento definitivo da ADPF 615/DF pelo Tribunal Pleno do STF, em 17/11/2025, com acórdão publicado no DJe de 18/03/2026, cessou a causa da suspensão, retomando-se o curso do agravo.
+
+9. Incide a disciplina do art. 525, §1º, III, e §12, do CPC, aplicáveis ao cumprimento de sentença contra a Fazenda Pública por força do art. 535, §5º, do mesmo diploma. Dispõe o art. 525, §12, do CPC: "Para efeito do disposto no inciso III do § 1º deste artigo, considera-se também inexigível a obrigação reconhecida em título executivo judicial fundado em lei ou ato normativo considerado inconstitucional pelo Supremo Tribunal Federal, ou fundado em aplicação ou interpretação da lei ou do ato normativo tido pelo Supremo Tribunal Federal como incompatível com a Constituição Federal, em controle de constitucionalidade concentrado ou difuso". E o art. 525, §15: "Se a decisão referida no § 12 for proferida após o trânsito em julgado da decisão exequenda, caberá ação rescisória, cujo prazo será contado do trânsito em julgado da decisão proferida pelo Supremo Tribunal Federal". A constitucionalidade destes dispositivos foi afirmada pelo STF na ADI 2.418/DF (Rel. Min. Teori Zavascki, j. 04/05/2016) e no RE 611.503/SP (Tema 360 RG, j. 18/03/2019).
+
+10. No julgamento definitivo da ADPF 615/DF, o STF fixou tese específica para o microssistema dos Juizados Especiais, assentando que o art. 59 da Lei 9.099/1995 — que veda a ação rescisória — não impede a desconstituição da coisa julgada formada em contrariedade à interpretação conferida pela Suprema Corte, admitindo-se a arguição de inexigibilidade por simples petição, no prazo equivalente ao da ação rescisória, contado do trânsito em julgado da decisão do STF. Fixou, ainda, o limite temporal retroativo dos efeitos em cinco anos da data da petição, na ausência de modulação expressa, e reformulou o Tema 360 de repercussão geral para admitir a arguição de inexigibilidade seja o pronunciamento do STF anterior ou posterior ao trânsito em julgado da exequenda, salvo preclusão.
+
+11. Quanto à objeção de ofensa à coisa julgada material, cumpre observar que a matéria perdeu, após a ADPF 615/DF, a feição que lhe era atribuída pela decisão agravada. Quando a decisão agravada foi proferida, o STF havia fixado, no Tema 733 de repercussão geral (RE 730.462/SP), que a declaração superveniente de inconstitucionalidade não desconstitui automaticamente a coisa julgada anterior. Ocorre que a tese do RE 730.462/SP não exclui o manejo de instrumento processual próprio para esse fim, conforme expressamente ressalvado pelo relator originário. Após a ADPF 615/DF, o STF reconheceu que, no microssistema dos Juizados Especiais da Fazenda Pública, o instrumento processual próprio é a simples petição nos autos do cumprimento de sentença, porquanto vedada a ação rescisória.
+
+12. Nesse contexto, eventual alegação de que a decisão do Conselho Especial do TJDFT, por tratar de matéria local, não teria aptidão para gerar o vício de inconstitucionalidade qualificada exigida pelo Tema 360 do STF restou superada por sucessivos pronunciamentos do STF sobre a matéria: em controle difuso, pelo RE 1.287.126/DF (Rel. Min. Rosa Weber, j. 03/04/2023), que confirmou a constitucionalidade da expressão "exclusivamente" do art. 20, I, da Lei Distrital 5.105/2013; e, definitivamente, em controle concentrado, pela ADPF 615/DF, que teve por objeto precisamente a disciplina da GAEE no Distrito Federal. Some-se ao quadro a prévia declaração de constitucionalidade dos mesmos dispositivos pelo Conselho Especial do TJDFT, em controle concentrado local (ADI 2017.00.2.021004-9, Acórdão 1158225). O art. 525, §12, do Código de Processo Civil, como já transcrito, admite a inexigibilidade da obrigação reconhecida em título fundado em interpretação tida pelo STF como incompatível com a Constituição "em controle de constitucionalidade concentrado ou difuso". Eventual referência à Reclamação 2019.00.2.003012-9, apresentada pelo Distrito Federal ao Conselho Especial e extinta por deficiências formais, não altera a conclusão, uma vez que a extinção não enfrentou o mérito da questão constitucional e, ainda que o tivesse feito, estaria hoje superada pelos pronunciamentos definitivos do STF.
+
+13. A pretensão de inexigibilidade não prospera, contudo, de forma automática. A tese da ADPF 615/DF opera, em relação à GAEE, apenas para os casos em que a sentença exequenda estendeu o benefício a professores que não preenchem o requisito da exclusividade do atendimento a alunos com necessidades educativas ou em situação de risco e vulnerabilidade. Se demonstrado, nos autos principais, por prova robusta e documental, que a professora-exequente efetivamente atendia exclusivamente a tais alunos, configura-se hipótese de distinguishing, caso em que o título executivo permanece íntegro. Nesse sentido, decidiu esta Turma Recursal: "Relevante destacar que a ADPF 615 trata da constitucionalidade da extensão da Gratificação de Atividade de Ensino Especial (GAEE) a servidores que não atendam exclusivamente a alunos com deficiência ou em situação de vulnerabilidade, conforme previsto no art. 21, § 3º, I, da Lei Distrital n. 4.075/2007 e no art. 20, I, da Lei n. 5.105/2013. Na referida ação, o STF determinou a suspensão de todos os processos que versem sobre o tema, em qualquer fase, inclusive execução de título judicial transitado em julgado, ressalvada a hipótese de comprovação de atendimento exclusivo. [...] Ressalte-se que a exceção à suspensão determinada pelo STF exige prova robusta e documental da exclusividade, não sendo suficiente a alegação genérica da parte e nem a interpretação ampliativa da atividade funcional" (Acórdão 2029286, 0701602-08.2025.8.07.9000, Rel. Juiz Luís Eduardo Yatsuda Arima, Primeira Turma Recursal, j. 07/08/2025, publicado no DJe de 18/08/2025).
+
+14. Cabe, portanto, dar parcial provimento ao agravo para cassar a decisão agravada, determinando-se ao juízo de origem que verifique, nos autos principais, a existência ou não de atendimento exclusivo a alunos com necessidades especiais.
+
+15. O alegado impacto financeiro das execuções relativas à GAEE não constitui fundamento autônomo para o provimento do agravo, que decorre da orientação firmada pelo STF na ADPF 615/DF e da necessidade de reexame, na origem, quanto à eventual hipótese de distinguishing.
+
+IV. Dispositivo e tese
+
+16. Agravo de instrumento conhecido e parcialmente provido. Decisão agravada cassada para que o juízo de origem aprecie o pedido de reconhecimento da inexigibilidade do título executivo judicial, à luz da orientação firmada pelo STF. Sem honorários advocatícios.
+
+17. A súmula de julgamento servirá de acórdão, conforme regra do art. 46 da Lei n. 9.099/95.
+
+Tese de julgamento: "Após o julgamento definitivo da ADPF 615/DF pelo STF, é cabível, no âmbito do Juizado Especial da Fazenda Pública, a arguição de inexigibilidade do título executivo judicial que reconheceu o direito à Gratificação de Atividade de Ensino Especial (GAEE) a professor que não atendia exclusivamente a alunos com necessidades educativas ou em situação de risco e vulnerabilidade, por meio de simples petição nos autos do cumprimento de sentença, observados o prazo decadencial de dois anos contado do trânsito em julgado do acórdão do STF e o limite temporal retroativo de cinco anos da petição, ressalvada a hipótese de distinguishing comprovada por prova robusta e documental da exclusividade do atendimento".
+
+Dispositivo relevante citado: CF, art. 5º, XXXVI; CPC, arts. 525, §1º, III, §12 e §15, 535, §5º, 1.015, parágrafo único; Lei 9.099/1995, arts. 46 e 59; Lei 12.153/2009, art. 27; Lei Distrital 4.075/2007, art. 21, §3º, I; Lei Distrital 5.105/2013, art. 20, I; Lei 11.697/2008, art. 8º, §5º.
+
+Jurisprudência relevante citada: STF, ADPF 615, Relator(a): LUÍS ROBERTO BARROSO, Relator(a) p/ Acórdão: ALEXANDRE DE MORAES, Tribunal Pleno, julgado em 17-11-2025, PROCESSO ELETRÔNICO DJe-s/n DIVULG 17-03-2026 PUBLIC 18-03-2026; STF, RE 611503, Relator(a): TEORI ZAVASCKI, Relator(a) p/ Acórdão: EDSON FACHIN, Tribunal Pleno, julgado em 20-09-2018, ACÓRDÃO ELETRÔNICO REPERCUSSÃO GERAL - MÉRITO DJe-053 DIVULG 18-03-2019 PUBLIC 19-03-2019; STF, RE 1287126 AgR, Relator(a): ROSA WEBER, Primeira Turma, julgado em 03-04-2023, PROCESSO ELETRÔNICO DJe-s/n DIVULG 14-04-2023 PUBLIC 17-04-2023; STF, ADI 2418, Relator(a): TEORI ZAVASCKI, Tribunal Pleno, julgado em 04-05-2016, ACÓRDÃO ELETRÔNICO DJe-243 DIVULG 16-11-2016 PUBLIC 17-11-2016; TJDFT, Acórdão 1158225, 20170020210049ADI, Relator(a): FERNANDO HABIBE, CONSELHO ESPECIAL, data de julgamento: 20/11/2018, publicado no DJe: 20/03/2019; TJDFT, Acórdão 2029286, 0701602-08.2025.8.07.9000, Relator(a): LUIS EDUARDO YATSUDA ARIMA, PRIMEIRA TURMA RECURSAL, data de julgamento: 07/08/2025, publicado no DJe: 18/08/2025.
+
+ACÓRDÃO
+
+Acordam os Senhores Juízes da Primeira Turma Recursal dos Juizados Especiais do Distrito Federal do Tribunal de Justiça do Distrito Federal e dos Territórios, LUIS EDUARDO YATSUDA ARIMA - Relator, EVANDRO NEIVA DE AMORIM - 1º Vogal e FLÁVIO FERNANDO ALMEIDA DA FONSECA - 2º Vogal, sob a Presidência da Senhora Juíza RITA DE CASSIA DE CERQUEIRA LIMA ROCHA, em proferir a seguinte decisão: CONHECIDO. PROVIDO EM PARTE. UNÂNIME., de acordo com a ata do julgamento e notas taquigráficas.
+
+Brasília (DF), 25 de maio de 2026
+
+Juiz LUIS EDUARDO YATSUDA ARIMARelator
+
+RELATÓRIO
+
+Na forma do art. 46 da Lei 9.099/1995, a ementa serve de acórdão. Recurso próprio, regular e tempestivo.
+
+VOTOS
+
+O Senhor Juiz LUIS EDUARDO YATSUDA ARIMA - Relator
+
+Dispensado o voto. A ementa servirá de acórdão, conforme inteligência dos arts. 2º e 46 da Lei n. 9.099/95.
+
+O Senhor Juiz EVANDRO NEIVA DE AMORIM - 1º Vogal Com o(a) relator(a)O Senhor Juiz FLÁVIO FERNANDO ALMEIDA DA FONSECA - 2º Vogal Com o(a) relator(a)
+
+DECISÃO
+
+CONHECIDO. PROVIDO EM PARTE. UNÂNIME.
