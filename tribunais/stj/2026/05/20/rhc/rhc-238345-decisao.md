@@ -1,0 +1,22 @@
+DECISÃO
+Trata-se de recurso em habeas corpus, com pedido liminar, interposto por FABIO CLEIBER CANDIDO DA SILVA, contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO no julgamento do Habeas Corpus n. 2052649-97.2026.8.26.0000.
+Extrai-se dos autos que o Juízo da Vara de Execução Penal indeferiu pedido formulado pelo paciente de autorização para que o sentenciado se apresentasse voluntariamente na Comarca de Rio Verde/GO ao final de saída temporária, concedida para o período de 23/12/2025 a 5/1/2026. Na mesma ocasião, determinou que a defesa aguardasse as informações do órgão da Administração Penitenciária do Estado de Goiás, para a análise do pedido de apresentação do paciente à Penitenciária da Comarca de Rio Verde/GO, sem a necessidade de recambiamento, em caso de autorização de mudança do local de cumprimento da pena (fl. 13).
+Irresignada, a defesa impetrou habeas corpus perante o Tribunal de origem, que não conheceu do writ, monocraticamente. O agravo interno interposto contra o decisum foi desprovido, nos termos do acórdão que restou assim ementado (fl. 55):
+"AGRAVO INTERNO EM HABEAS CORPUS Insurgência contra decisão monocrática que não conheceu da impetração por inadequação da via eleita Pretensão de reforma de decisão que indeferiu o pedido para que o sentenciado se apresentasse voluntariamente no juízo de destino, condicionando a transferência ao procedimento de recambiamento interestadual Inexistência de flagrante ilegalidade Magistrado de origem que determinou o regular cumprimento das normas administrativas atinentes ao recambiamento Matéria afeta ao juízo da execução e decisão passível de recurso próprio (artigo 197 da Lei de Execução Penal) Inviabilidade da impetração do "writ" como sucedâneo recursal Recurso não provido."
+Nas razões do presente recurso, a defesa sustenta a existência de negativa de prestação jurisdicional, pois o Tribunal de origem se limitou a não conhecer da impetração por fundamento formal, sem enfrentar o constrangimento ilegal concreto decorrente da exigência administrativa questionada.
+Assevera a flagrante ilegalidade e a desproporcionalidade da exigência de recambiamento formal, dissociada da realidade fática reconhecida pela própria execução, já que o recorrente realiza deslocamentos interestaduais regulares durante saídas temporárias, sem intercorrências.
+Aduz a violação aos princípios da razoabilidade, proporcionalidade e eficiência administrativa, por impor aparato estatal desnecessário para cumprimento de decisão judicial já autorizada pelo juízo de destino, convertendo formalidade burocrática em óbice ilegítimo.
+Argumenta que a controvérsia é eminentemente jurídica e fundada em fatos incontroversos, não demandando dilação probatória, o que legitima o manejo excepcional do habeas corpus para controle da legalidade do ato.
+Defende que a manutenção do cumprimento da pena em localidade distante do núcleo familiar, apesar da autorização judicial de transferência, compromete a finalidade ressocializadora da execução penal.
+Requer, em liminar, a suspensão imediata da exigência de recambiamento interestadual até o julgamento do presente e, no mérito, a concessão da ordem para cassar o acórdão recorrido e autorizar que o recorrente se apresente voluntariamente na Comarca de Rio Verde/GO, independentemente de escolta estatal.
+É o relatório.
+Decido.
+O recurso ordinário em habeas corpus está prejudicado.
+De início, vislumbra-se que já foi superado o período de saída temporária concedido ao recorrente de 23/12/2025 a 5/1/2026.
+Ademais, conforme verificado no sítio eletrônico do TJSP, o pedido de transferência do cumprimento da pena do recorrente para a Comarca de Rio Verde/GO foi indeferido pelo Juiz da Execução Penal da Comarca de Campinas, em 1º/4/2026.
+Essa alteração substancial no panorama fático-processual, consubstanciada no indeferimento da transferência do recorrente para cumprimento da pena em Rio Verde/GO, culmina na perda do objeto do presente recurso ordinário em habeas corpus, uma vez que a controvérsia originalmente submetida à análise deste Tribunal foi superada - apresentação do preso para cumprimento da pena no estado de Goiás sem a necessidade de recambiamento.
+Portanto, diante da perda superveniente do objeto, não subsistem razões para o prosseguimento do presente recurso.
+Pelo exposto, com fundamento no art. 34, XI , do Regimento Interno do Superior Tribunal de Justiça, julgo prejudicado o presente recurso ordinário em habeas corpus.
+Publique-se.
+Intimem-se.
+EMENTA
