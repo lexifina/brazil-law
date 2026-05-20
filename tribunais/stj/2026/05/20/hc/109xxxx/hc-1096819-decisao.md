@@ -1,0 +1,34 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em nome de DEBORA DE SOUSA, condenada definitivamente pelos crimes dos arts. 33, caput, e 35 da Lei n. 11.343/2006, com início de cumprimento de pena em regime fechado (Execução Penal n. 0008446-04.2024.8.26.0502, DEECRIM 4ª RAJ - Campinas/SP).
+A impetrante aponta como autoridade coatora o Tribunal de Justiça de São Paulo, que, em 14/4/2026, negou provimento ao Agravo de Execução Penal n. 0024485-42.2025.8.26.0502.
+Alega ser cabível a concessão de prisão domiciliar, por razões humanitárias, nos termos do art. 117, III, da Lei n. 7.210/1984 e em interpretação extensiva alinhada ao HC coletivo n. 143.641/SP do Supremo Tribunal Federal, por ser mãe de criança de 1 ano e 8 meses e de adolescente de 13 anos, não sendo os delitos praticados com violência ou grave ameaça nem contra descendentes.
+Defende a presunção absoluta da imprescindibilidade materna nos cuidados de filhos menores de 12 anos.
+Sustenta que o acórdão estadual teria exigido indevidamente prova de imprescindibilidade e restringido o benefício ao regime aberto, em dissonância com a jurisprudência do Superior Tribunal de Justiça que admite a medida, excepcionalmente, mesmo em regimes fechado ou semiaberto.
+Aduz primariedade, ocupação lícita anterior, bom comportamento carcerário e dificuldades escolares da filha, como elementos de reforço à adequação da medida.
+Em caráter liminar, pede a transferência imediata da paciente para prisão domiciliar, com monitoração eletrônica, até o julgamento definitivo do writ. No mérito, requer a concessão da ordem para substituição do cumprimento da pena em regime fechado por prisão domiciliar, com ou sem monitoração eletrônica (fls. 3/42).
+É o relatório.
+A concessão de ordem de habeas corpus demanda demonstração da ilegalidade, ônus que recai sobre a parte impetrante, a quem cumpre instruir o feito com a prova pré-constituída de suas alegações.
+In casu, verifico, de plano, a viabilidade do presente writ.
+O Juízo de primeiro grau considerou que a filha mais velha ultrapassou a idade legal de 12 anos, na qual se presumem imprescindíveis os cuidados maternos. E, em relação ao filho mais novo, indeferiu a domiciliar nos seguintes termos (fl. 58):
+Ademais, os argumentos defensivos sobre a filha Isabelly, de 13 (treze) anos de idade, ultrapassam o limite legal de 12 (doze) anos estabelecido como presunção de imprescindibilidade, não se configurando, automaticamente, como causa justificadora do benefício em regime fechado. No que concerne ao neonato, Marcos Antônio de Sousa, nascido em 20/09/2024, o seu nascimento ocorreu em meio ao cumprimento à determinação do Tribunal de Justiça, a qual ordenou a remoção da sentenciada, se fosse o caso, a um estabelecimento penal com plenas condições de tratamento em face da gravidez e de posterior amamentação.
+O relatório médico oficial da Penitenciária Feminina de Mogi Guaçu (fls. 164) atesta que o parto cesariano transcorreu sem intercorrências e que tanto a mãe quanto o recém-nascido gozam de bom estado de saúde, encontrando-se no setor de amamentação da unidade, com o aleitamento materno estimulado e a assistência necessária assegurada segundo os protocolos do Ministério da Saúde.
+A comprovação de que a unidade prisional possui estrutura adequada para o acolhimento do binômio mãe-filho e para o período de amamentação, em cumprimento do acórdão de segundo grau, afasta a alegação de ineficiência estatal ou de inadequação do cárcere, descaracterizando a excepcionalidade que poderia justificar a mitigação do regime prisional imposto. A manutenção da executada no regime fechado, com as cautelas determinadas para a proteção da criança, respeita a proporcionalidade da pena de natureza hedionda, já atenuada pela remição de 177 (cento e setenta e sete) dias concedida pelo Juízo (fls. 187-189), harmonizando a necessidade de cumprimento da lei penal com a garantia da proteção integral ao infante.
+O Tribunal local negou provimento à insurgência defensiva, aos seguintes fundamentos (fl. 47):
+De acordo com os artigos supra citados, a prisão domiciliar prevista no Código de Processo Penal se aplica à hipótese de prisão preventiva, situação bem diversa da recuperanda que foi condenada pela prática de crimes previstos na Lei Antitóxicos e já está em fase de cumprimento de pena.
+Já em relação ao artigo 117 da Lei de Execução Penal, que prevê a possibilidade de concessão da prisão domiciliar aos sentenciados, restringe referido benefício àqueles que já estejam no regime de cumprimento de pena aberto.
+Não se ignora precedente do Superior Tribunal de Justiça relativo à concessão de referido benefício por questão humanitária.
+Todavia, no caso dos autos, não restou demonstrada eventual situação de vulnerabilidade ou de ausência de cuidados dos menores, não havendo comprovação quanto a eventual inexistência de familiares da sentenciada nas proximidades.
+Portanto, a situação jurídica da agravante não se amolda a nenhuma das hipóteses que preveem referido benefício.
+Necessário pontuar que a jurisprudência admite a concessão do regime domiciliar, nos termos do art. 117 da Lei de Execução Penal, mesmo quando a apenada se encontra em regime diferente do aberto, desde que demonstrada situação excepcional (AgRg no HC n. 837.765/SP, Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), Sexta Turma, DJe 22/5/2024).
+Em relação especificamente à apenada mãe, a jurisprudência passou a entender que a imprescindibilidade dos cuidados da genitora também é presumível nos casos de condenação definitiva para fins do regime domiciliar, aplicando-se as seguintes exceções: a) não ter cometido delito com violência ou grave ameaça; b) não ter sido o crime praticado contra seus filhos; e c) ausência de situação excepcional a contraindicar a medida.
+Nesse sentido: AgRg nos EDcl no HC n. 822.802/MG, Ministro Ribeiro Dantas, Quinta Turma, DJe 24/8/2023; e AgRg no HC n. 923.533/SP, Ministro Ribeiro Dantas, Quinta Turma, DJe 6/9/2024.
+Embora a paciente se encontre presa em regime fechado em razão de condenação definitiva, presumem-se imprescindíveis os cuidados com o filho menor de 12 anos (fl. 77).
+A paciente, assim, encontra-se condenada por crimes descritos nos arts. 33 e 35 da Lei n. 11.343/2006 (fls. 57/60), não cometeu delito com violência ou grave ameaça, tampouco contra seus filhos. Além disso, não há situação excepcional contraindicando a medida.
+Assim, necessário afastar o constrangimento ilegal.
+Ante o exposto, concedo liminarmente a ordem para submeter a paciente ao regime domiciliar, nos termos e condições a serem fixados pelo Juízo da execução penal.
+Comunique-se.
+Intime-se o Ministério Público estadual.
+Publique-se.
+EMENTA
+HABEAS CORPUS. EXECUÇÃO PENAL. TRÁFICO E ASSOCIAÇÃO PARA O TRÁFICO DE DROGAS. PRISÃO DOMICILIAR. ART. 117, III, DA LEP. ALEGAÇÃO DE SER MÃE DE MENORES DE 12 ANOS. PRESUNÇÃO DA IMPRESCINDIBILIDADE DOS CUIDADOS. PRECEDENTES.
+Ordem concedida liminarmente .
