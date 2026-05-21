@@ -1,0 +1,67 @@
+DECISÃO
+Trata-se de habeas corpus substitutivo de recurso próprio, com pedido liminar, impetrado em favor de CARLOS ROSA DA SILVA contra acórdão prolatado pelo Tribunal de Justiça do Estado do Rio Grande do Sul.
+Consta dos autos que o paciente foi denunciado pela suposta prática do crime do art. 33, caput, da Lei n. 11.343/2006, tendo a denúncia sid o rejeitada em razão da desclassificação da conduta para aquela prevista no art. 28 da mesma lei.
+Irresignado, o Ministério Público interpôs recurso em sentido estrito, que foi provido, nos moldes da seguinte ementa:
+"DIREITO PENAL. RECURSO EM SENTIDO ESTRITO. TRÁFICO DE DROGAS. REJEIÇÃO DA DENÚNCIA. DESCLASSIFICAÇÃO PARA USO. REFORMA DA DECISÃO. RECURSO MINISTERIAL PROVIDO.
+I. CASO EM EXAME:
+1. Recurso em sentido estrito interposto pelo Ministério Público contra decisão que rejeitou a denúncia oferecida em desfavor do réu pela prática do crime de tráfico de drogas e desclassificou a conduta para o art. 28 da Lei n. 11.343/06, determinando, com o trânsito em julgado da decisão, a remessa dos autos a Juizado Especial Criminal da Comarca.
+II. QUESTÃO EM DISCUSSÃO:
+1. A questão em discussão consiste na existência de justa causa para o recebimento da denúncia pelo crime de tráfico de drogas, considerando os elementos probatórios colhidos na fase investigativa.
+III. RAZÕES DE DECIDIR:
+1. A decisão que rejeitou a denúncia mostra-se precoce, pois há elementos informativos suficientes para demonstrar, nesta fase processual, a materialidade e a autoria delitivas.
+2. Embora a quantidade de entorpecentes apreendidos não seja expressiva (11 pinos de cocaína, pesando 7,4g, e 01 tijolo de maconha, pesando 35g), existem outros indícios que poderiam indicar, a tese, a prática do delito imputado ao recorrido.
+3. A eventual insuficiência probatória para condenação ou possível desclassificação da conduta poderá ser avaliada após a instrução processual, não elidindo a consistência da narrativa versada na denúncia, que encontra amparo nos elementos informativos até então reunidos. Conclui-se, portanto, pela presença da justa causa, requisito necessário, nesta fase, para a deflagração da instância penal.
+IV. DISPOSITIVO E TESE:
+1. Recurso ministerial provido, para receber a denúncia, determinando o prosseguimento da ação penal.
+Tese de julgamento: 1. A rejeição da denúncia por ausência de justa causa é medida excepcional, não cabível quando existem elementos informativos suficientes sobre materialidade e autoria que justifiquem a deflagração da ação penal, sendo prematura a desclassificação do crime de tráfico para uso na fase de recebimento da denúncia.
+___________
+Dispositivos relevantes citados: CPP, art. 395, inc. III; Lei nº 11.343/06, arts. 28 e 33, caput. ACÓRDÃO" (e-STJ, fls. 10-11)
+Neste writ, alega a impetrante, em síntese, ausência de justa causa para ação penal, na medida em que a peça acusatória limitou-se a fazer ilações sobre a finalidade comercial das drogas apreendidas, sem apresentar um único elemento fático concreto que diferenciasse o paciente de um mero usuário de entorpecentes.
+Sustenta que a quantidade de maconha apreendida foi de 35 gramas, portanto, "inferior ao critério objetivo fixado pela Corte Constitucional. Essa circunstância, por si só, já deveria ter orientado toda a persecução penal. A presunção que milita em favor do paciente é a de que ele é um usuário, e não um traficante." (e-STJ, fl. 5).
+Afirma que não houve apreensão "de balanças de precisão, cadernos de anotações com contabilidade do tráfico, grande quantidade de dinheiro com notas trocadas, mensagens em celulares que indiquem negociações, depoimentos de usuários ou vizinhos ou qualquer outro petrecho que seja efetivamente característico da atividade de mercancia de entorpecentes." (e-STJ, fl. 6).
+Requer, assim, o trancamento da ação penal quanto ao delito de tráfico de drogas imputado ao paciente. Subsidiariamente, pugna pela cassação do acórdão impugnado, restabelecendo-se a decisão que rejeitou a denúncia por tráfico e desclassificou a conduta para aquela do art. 28 da Lei n. 11.343/2006.
+É o relatório.
+Decido.
+Esta Corte - HC 535.063, Terceira Seção, Rel. Ministro Sebastião Reis Junior, julgado em 10/6/2020 - e o Supremo Tribunal Federal - AgRg no HC 180.365, Primeira Turma, Rel. Min. Rosa Weber, julgado em 27/3/2020; AgRg no HC 147.210, Segunda Turma, Rel. Min. Edson Fachin, julgado em 30/10/2018 -, pacificaram orientação no sentido de que não cabe habeas corpus substitutivo do recurso legalmente previsto para a hipótese, impondo-se o não conhecimento da impetração, salvo quando constatada a existência de flagrante ilegalidade no ato judicial impugnado.
+Assim, passo à análise das razões da impetração, de forma a verificar a ocorrência de flagrante ilegalidade a justificar a concessão do habeas corpus, de ofício.
+É consolidado na jurisprudência desta Casa o entendimento de que o trancamento de ação penal, inquérito policial ou procedimento investigativo por meio do habeas corpus é medida excepcional. Por isso, será cabível somente quando houver inequívoca comprovação da atipicidade da conduta, da incidência de causa de extinção da punibilidade ou da ausência de indícios de autoria ou de prova sobre a materialidade do delito. Cito precedentes:
+DIREITO PROCESSUAL PENAL. HABEAS CORPUS. TRANCAMENTO DE AÇÃO PENAL. PECULATO. DIRIGENTES DE ENTIDADE DO SISTEMA S. FUNCIONÁRIO PÚBLICO POR EQUIPARAÇÃO. EMENDATIO LIBELLI.
+1. O trancamento da ação penal por meio de habeas corpus constitui medida excepcional, somente cabível quando demonstrados de plano, sem necessidade de dilação probatória, a atipicidade da conduta, a ausência de indícios mínimos de autoria ou materialidade, a ocorrência de causa de extinção da punibilidade ou a manifesta inépcia da denúncia.
+2. A atipicidade formal que autoriza o trancamento da ação penal exige que o comportamento descrito na denúncia não se amolde ao tipo penal indicado nem a qualquer outro tipo incriminador, tornando o fato em si não criminoso, o que não se verifica na hipótese.
+3. No caso concreto, há controvérsia jurídica quanto à aplicação da figura do funcionário público por equiparação, prevista no art. 327, § 1º, do Código Penal, aos dirigentes de entidades do Sistema S, discussão que, por sua natureza controvertida e dependente de exame mais aprofundado, não se compatibiliza com o caráter sumário do habeas corpus para fins de trancamento da ação penal.
+4. Mesmo que se afaste a equiparação a servidor público, subsiste a possibilidade de emendatio libelli, com eventual enquadramento da conduta em tipo penal subsidiário correspondente (como furto, apropriação indébita ou outro delito patrimonial), pois o réu se defende dos fatos imputados na denúncia e não da capitulação jurídica conferida. 5.
+Ordem denegada.
+(HC n. 1.071.153/SC, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 22/4/2026, DJEN de 27/4/2026.)
+DIREITO PROCESSUAL PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. TRANCAMENTO DE AÇÃO PENAL. TRÁFICO DE DROGAS. ELEMENTOS CONCRETOS INDICATIVOS DE COMERCIALIZAÇÃO. REEXAME DE PROVA. AGRAVO DESPROVIDO
+I. CASO EM EXAME
+1. Agravo regimental interposto contra decisão que não conheceu do habeas corpus impetrado em favor de acusado denunciado por tráfico de drogas, com pedido de trancamento da ação penal por ausência de justa causa.
+2. O agravante foi preso em sua residência na posse de 8 porções de maconha, com peso de 27,40g, alegadamente destinadas ao consumo próprio. A defesa invoca o Tema 506 do STF, que estabelece presunção de uso pessoal para apreensões de até 40g de maconha.
+3. A decisão monocrática não conheceu do habeas corpus, considerando a ausência de flagrante ilegalidade apta a justificar o trancamento da ação penal.
+II. QUESTÃO EM DISCUSSÃO
+4. A questão em discussão consiste em saber se há flagrante ilegalidade que justifique o trancamento da ação penal, considerando a alegação de atipicidade da conduta e a aplicação do Tema 506 do STF.
+III. RAZÕES DE DECIDIR
+5. A presunção de uso pessoal de drogas estabelecida no Tema 506 do STF é relativa e pode ser afastada por elementos concretos que indiquem mercancia ilícita.
+6. O trancamento da ação penal pela inexistência de justa causa é medida excepcional, cabível apenas quando demonstrada, de plano e sem necessidade de dilação probatória, a total ausência de indícios de autoria e prova da materialidade delitiva, a atipicidade da conduta ou a existência de alguma causa de extinção da punibilidade, o que não ocorre na hipótese.
+7. A análise da atipicidade da conduta e da ausência de justa causa para a ação penal exige reexame de fatos e provas, providência incompatível com a via estreita do habeas corpus.
+IV. DISPOSITIVO E TESE
+8. Resultado do Julgamento: Agravo regimental desprovido.
+Tese de julgamento:
+1. A presunção de uso pessoal de drogas estabelecida no Tema 506 do STF é relativa e pode ser afastada por elementos concretos que indiquem mercancia ilícita. 2. O trancamento da ação penal pela inexistência de justa causa é medida excepcional, cabível apenas quando demonstrada, de plano e sem necessidade de dilação probatória, a total ausência de indícios de autoria e prova da materialidade delitiva, a atipicidade da conduta ou a existência de alguma causa de extinção da punibilidade. 3. O reexame de fatos e provas é incompatível com a via do habeas corpus.
+Dispositivos relevantes citados:
+Código de Processo Penal, art. 41; Código Penal, art. 28, § 2º; Lei n. 11.343/2006.
+Jurisprudência relevante citada:STF, RE 635.659/SP, Rel. Min. Gilmar Mendes, Plenário, julgado em 23/06/2024; STJ, AgRg no HC 977.690/SP, Rel. Min. Messod Azulay Neto, julgado em 11/3/2025; AgRg no RHC n. 203.275/BA, Min. Joel Ilan Paciornik, julgado em 21/5/2025.
+(AgRg no HC n. 955.957/PB, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 9/12/2025, DJEN de 18/12/2025.)
+PENAL E PROCESSUAL PENAL. AGRAVO REGIMENTAL EM HABEAS CORPUS. DENÚNCIA. ART. 155, § 4.º, INCISO II, DO CÓDIGO PENAL. TRANCAMENTO DA AÇÃO PENAL. ALEGAÇÃO DE ATIPICIDADE DA CONDUTA. PRINCÍPIO DA INSIGNIFICÂNCIA. INAPLICÁVEL. FORMA QUALIFICADA DO DELITO. ACUSADO REINCIDENTE. AGRAVO REGIMENTAL DESPROVIDO. - "O trancamento de ação penal pela via de habeas corpus, ou do recurso que lhe faça as vezes, é medida de exceção, só admissível quando emerge dos autos, sem a necessidade de exame valorativo do conjunto fático ou probatório, a atipicidade do fato, a ausência de indícios que fundamentaram a acusação, a extinção da punibilidade ou a inépcia formal da denúncia" (AgRg no RHC n. 124.325/MG, Rel. Min. LAURITA VAZ, Sexta Turma, julgado em 28/6/2022, DJe de 1/7/2022).  ..  - Agravo regimental desprovido. (AgRg no HC n. 814.574/SC, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 5/6/2023, DJe de 7/6/2023.)
+O acórdão do Tribunal de origem consignou o seguinte ao prover o recurso ministerial:
+"A decisão mostra-se precoce e, dessarte, merece reforma.
+Consoante se extrai dos elementos informativos até então reunidos (evento 40, DESPADEC1), na data dos fatos, após o recebimento de informações da Inteligência da Brigada Militar, que monitorava local conhecido pela prática de tráfico de drogas, os policiais militares deslocaram-se para averiguação e visualizaram um indivíduo, que, por sua vez, ao avistar a guarnição, correu para um pátio contendo sucatas. Abordado o réu/recorrido, encontraram em poder dele, em seu bolso, em tese, um tijolo de maconha (35g), onze pinos de cocaína (7,4g) e R$300,00.
+Observo que os entorpecentes apreendidos foram descritos no auto de apreensão e já foram, inclusive, periciados.
+Assim, a partir dos elementos colhidos no inquérito, há suporte a demonstrar, nesta fase processual, a materialidade e a autoria delitivas, tendo em vista que, em que pese não expressiva a quantidade de entorpecentes apreendidos por ocasião do flagrante, há notícia de outros indícios que poderiam indicar, a tese, a prática do delito imputado ao recorrido.
+Ainda que se possa, no decorrer do processo e após a instrução probatória, considerar insuficientes as provas para a condenação ou proceder à desclassificação típica, isso não elide a consistência da narrativa versada na denúncia, que encontra amparo nos elementos informativos até então reunidos. Donde se conclui pela presença da justa causa, requisito necessário, nesta fase, para a deflagração da instância penal." (e-STJ, fl. 30)
+Como se vê, ao contrário do que alega a defesa, o julgado destaca o dever de cautela, diante do risco de trancamento em fase prematura da ação penal. Não se pode cercear a produção de provas, pois pode o Ministério Público, no âmbito da instrução processual, apontar outras evidências acerca da autoria e materialidade, providência que restaria obstada se adotado indiscriminadamente esse proceder.
+A narrativa constante da peça acusatória indica que o paciente foi preso em flagrante em local onde havia prévia denúncia da prática da traficância, quando tentava se evadir, ao notar a aproximação policial, sendo recolhido em seu bolso, em tese, um tijolo de maconha (35g), onze pinos de cocaína (7,4g) e R$300,00.
+Esses elementos permitem, neste juízo de prelibação, concluir pela subsunção da conduta ao art. 33, caput, da Lei n. 11.343/2006, o que justifica o prosseguimento da persecução penal.
+Ante o exposto, nã o conheço do habeas corpus.
+Cientifique-se o Ministério Público Federal.
+Publique-se. Intimem-se.
+EMENTA
