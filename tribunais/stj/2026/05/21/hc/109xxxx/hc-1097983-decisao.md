@@ -1,0 +1,18 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em nome de G C G A, M B S, J R S, N J V R, S A E A, J F, C R P C e I N L, denunciados e submetidos a medidas cautelares diversas da prisão, com suspensão do exercício das atividades parlamentares (Processo n. 0830604-81.2025.8.10.0000 - Pedido de Prisão Preventiva vinculado à Ação Penal n. 0818237-59.2024.8.10.0000).
+O impetrante aponta como autoridade coatora a decisão monocrática da desembargadora Maria da Graça Peres Soares Amorim, integrante do Tribunal de Justiça do Maranhão, que, em 11/5/2026, revogou as prisões preventivas, substituindo-as por medidas cautelares diversas.
+Alega nulidade da decisão superveniente por inovação cautelar ex officio, com suspensão de mandato parlamentar sem prévio requerimento acusatório, em afronta ao sistema acusatório.
+Aduz ausência de fundamentação autônoma para o afastamento funcional, sem capítulo específico sobre necessidade, contemporaneidade, adequação, proporcionalidade e individualização da medida.
+Sustenta ruptura da coerência cautelar interna do Tribunal de origem, com uso indevido da expressão "mantenho" para criar nova restrição que não existia no histórico cautelar.
+Defende ausência de individualização e seletividade cautelar não fundamentada, pela distinção entre vereadores em idêntico contexto sem critério objetivo.
+Em caráter liminar, pede a suspensão imediata dos efeitos do capítulo decisório que impôs a suspensão das atividades parlamentares, com restabelecimento do regime cautelar de 19/12/2025. No mérito, requer o reconhecimento da nulidade do capítulo decisório que introduziu suspensão parlamentar. Subsidiariamente, postula nova análise pelo Tribunal de origem, com fundamentação concreta, contemporânea e individualizada, observando os limites da provocação acusatória e enfrentando a distinção cautelar entre vereadores (fls. 4/21).
+É o relatório.
+Este habeas corpus foi impetrado contra decisão monocrática proferida no Tribunal local, para a qual há previsão legal de interposição de recurso interno a ser submetido ao Colegiado competente, na mesma instância.
+Ora, ausente a interposição de agravo regimental a fim de submeter a decisão unipessoal e a questão ao órgão colegiado a quo, exaurindo a instância antecedente, não cabe a esta Corte Superior a análise da controvérsia.
+A esse respeito, entre outros, os seguintes julgados: AgRg no HC n. 903.069/SP, Ministro Jesuíno Rissato (Desembargador convocado do TJDFT), Sexta Turma, DJe 26/6/2024; AgRg no HC n. 659.332/RJ, Ministro Olindo Menezes (Desembargador convocado do TRF 1ª Região), Sexta Turma, DJe 17/5/2021; AgRg no HC n. 625.731/SP, Ministro Rogerio Schietti Cruz, Sexta Turma, DJe 18/12/2020; AgRg no HC 509.051/RJ, Ministro Nefi Cordeiro, Sexta Turma, DJe 13/6/2019; RCD no HC n. 447.287/SP, de minha relatoria, Sexta Turma, DJe 29/5/2018; e AgRg no HC n. 645.300/GO, Ministro Reynaldo Soares da Fonseca, DJe 15/3/2021.
+Afora isso, a hipótese não revela inquestionável teratologia nem ilegalidade manifesta. A decisão impugnada é interlocutória e cuidou de revogar prisões, substituir por cautelares dos arts. 282 e 319 do Código de Processo Penal, e manteve a suspensão das atividades legislativas, sem que, por ora, o tema tenha sido submetido ao colegiado do Tribunal a quo (fl. 23). Não se mostra possível o exame direto por esta Corte sem o exaurimento da instância antecedente.
+Pelo exposto, indefiro liminarmente a petição inicial (art. 210 do RISTJ).
+Publique-se.
+EMENTA
+HABEAS CORPUS IMPETRADO CONTRA DECISÃO MONOCRÁTICA DE DESEMBARGADOR DO TRIBUNAL A QUO. OPERAÇÃO TÂNTALO. NECESSIDADE DE EXAURIMENTO DA INSTÂNCIA ORDINÁRIA. PRECEDENTES.
+Petição inicial indeferida liminarmente.
