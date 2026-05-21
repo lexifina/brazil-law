@@ -1,4 +1,4 @@
-Art. 12-C. Verificada a existência de risco atual ou iminente à vida ou à integridade física ou psicológica da mulher em situação de violência doméstica e familiar, ou de seus dependentes, o agressor será imediatamente afastado do lar, domicílio ou local de convivência com a ofendida:
+Art. 12-C. Verificada a existência de risco atual ou iminente à vida ou à integridade física, sexual, psicológica, moral ou patrimonial da mulher em situação de violência doméstica e familiar, ou de seus dependentes, o agressor será imediatamente afastado do lar, domicílio ou local de convivência com a ofendida:
 I - pela autoridade judicial;
 II - pelo delegado de polícia, quando o Município não for sede de comarca; ou
 III - pelo policial, quando o Município não for sede de comarca e não houver delegado disponível no momento da denúncia.
