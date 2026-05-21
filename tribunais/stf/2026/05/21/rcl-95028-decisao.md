@@ -1,0 +1,31 @@
+DECISÃO:
+Cuida-se de reclamação constitucional, com pedido liminar, ajuizada por Leonardo Pires Dei em face de decisão proferida pela Vara do Trabalho de Porecatu, nos autos do Processo nº 0001038-62.2025.5.09.0562,  a qual teria violado a autoridade do Supremo Tribunal Federal e a eficácia do que decidido no ARE nº 1.532.603 (vinculado ao Tema nº 1.389 da RG).
+Narra que, na origem, trata-se de ação trabalhista ajuizada pelo reclamante visando o reconhecimento do vínculo empregatício diante do contrato de prestação de serviços firmado entre as partes.
+Discorre que “[o] Juízo originário acolheu o pedido de sobrestamento, sob o fundamento de que o Tema 1389 abrangeria toda e qualquer discussão envolvendo a necessidade de afastamento de relação jurídica civil, mesmo que vazia de argumentação robusta, para reconhecimento de vínculo empregatício” (e-doc. 1, p. 2).
+Argumenta que “[n]ão trouxe a empregadora nos autos a formalização de contrato civil, sequer citou de forma clara a existência de possível contrato verbal, não trouxe nos autos recibos, não trouxe comprovantes fiscais e/ou previdenciários, trouxe apenas um pedido desacompanhado de quaisquer índicos que validasse seu pleito” (e-doc. 1, p. 3).
+Articula que “a decisão pelo sobrestamento do processo trabalhista desmerece o objeto jurídico presente na decisão deste E. Colegiado, o pedido posto em contestação não cumpre com os requisitos esperados à aplicação das diretrizes do Tema 1389” (e-doc. 1, p. 4).
+Requer, ao final,
+
+“b) a concessão de tutela de urgência para cassar a decisão de sobrestamento e determinar o prosseguimento do feito originário;
+e) a concessão dos benefícios da justiça gratuita, pois não tem o Reclamante condições de arcar com os custos processuais, nos termos postos em declaração apresentada em conjunto a demanda.” (e-doc. 1, p. 7)
+
+É o relatório. Decido.
+Inicialmente, registro que já consta na certidão de distribuição o benefício da justiça gratuita (e-doc. 11).
+In casu, observo que, nos autos da Reclamação Trabalhista nº  0001038-62.2025.5.09.0562, foi determinado pelo Juízo da Vara do Trabalho de Porecatu o sobrestamento do processo em respeito à ordem de suspensão nacional dos processos determinada no RE nº 1.298.647, vinculado ao Tema nº 1.389 da repercussão geral (e-doc. 9, p. 167).
+A jurisprudência desta Corte é sólida quanto ao não cabimento de reclamação contra ordem de sobrestamento proferida pela instância de origem, ante a competência dos demais órgãos do Poder Judiciário no enquadramento dos processos ao tema submetido à sistemática da repercussão geral, a fim de aguardar a definição da tese de observância obrigatória. Nesse sentido:
+
+“RECLAMAÇÃO. RESPONSABILIDADE SUBSIDIÁRIA. INVERSÃO DO ÔNUS DA PROVA. TEMA 1118. DETERMINAÇÃO DE SOBRESTAMENTO DO PROCESSO DE ORIGEM. INVIABILIDADE. AGRAVO REGIMENTAL DESPROVIDO. 1. A questão constitucional acerca do ônus da prova na apuração de eventual conduta culposa da Administração Pública na fiscalização das obrigações trabalhistas de prestadora de serviços para fins de responsabilização subsidiária em virtude da tese firmada no RE 760.931 será objeto de debate por ocasião do julgamento do RE 1298647, de relatoria do Ministro Presidente, processo paradigma do Tema 1118 da sistemática da repercussão geral, cuja questão constitucional teve repercussão geral reconhecida por esta Corte. 2. A reclamação constitucional não se revela o instrumento adequado para se alcançar a determinação de suspensão da tramitação de processo diverso em face do reconhecimento pelo Supremo Tribunal Federal da existência de repercussão geral da questão constitucional nele versada. Ademais, à luz do § 5º do art. 1.035 do CPC, a competência para a determinação do sobrestamento pretendido é do relator do respectivo leading case de repercussão geral. 3. Agravo regimental a que se nega provimento.” (Rcl 55928 AgR, Segunda Turma, Min. Rel Edson Fachin, DJe de 03/10/2023)
+
+“DIREITO PROCESSUAL CIVIL. AGRAVO INTERNO EM RECLAMAÇÃO. SOBRESTAMENTO COM BASE EM TEMA DA REPERCUSSÃO GERAL. ALEGAÇÃO DE USURPAÇÃO DE COMPETÊNCIA DO STF. 1. É firme o entendimento do Supremo Tribunal Federal (STF) no sentido de que não cabe reclamação contra a decisão que promove a suspensão do processo, para aguardar o julgamento de recurso extraordinário paradigma. 2. Quanto à alegação de inobservância da decisão proferida pelo Ministro Marco Aurélio no RE 714.139/SC, observe-se que, embora não tenha determinado expressamente a paralisação dos feitos que tratem do Tema 745 da repercussão geral, também não fixou vedação nesse sentido. Assim, a ordem emanada pelo Tribunal reclamado não implica, por si só, afronta à autoridade de decisão do STF. 3. Agravo interno a que se nega provimento, com aplicação da multa prevista no art. 1.021, §§ 4º e 5º, do CPC/2015, em caso de decisão unânime.” (Rcl 39015 AgR, Primeira Turma, Min. Rel Roberto Barroso, DJe de 17/02/2021)
+
+“AGRAVO INTERNO. RECLAMAÇÃO. DETERMINAÇÃO DE SOBRESTAMENTO DO RECURSO NA ORIGEM PELO JUÍZO RECLAMADO. ATO JUDICIAL PASSÍVEL DE IMPUGNAÇÃO NA INSTÂNCIA A QUO. USO DA RECLAMAÇÃO COMO EXPEDIENTE RECURSAL. INVIABILIDADE. 1. Não cabe Reclamação para o SUPREMO TRIBUNAL FEDERAL com o objetivo de contestar a paralisação de processo nas instâncias ordinárias, para se aguardar a fixação de tese a ser estabelecida pelo STF sob o rito da Repercussão Geral. 2. Admitir o contrário seria convolar a Reclamação em mero substitutivo recursal. (Rcl 4.381-AgR, Rel. Min. CELSO DE MELLO, Tribunal Pleno, DJe de 5/8/2011). 3. Agravo Interno ao qual se nega provimento.” (Rcl 27372 AgR, Primeira Turma, Min. Rel. Alexandre de Moraes,  DJe de 16/10/2018).
+
+Ante o exposto, com fundamento no art. 21, §1º, do RISTF, nego seguimento à reclamação.
+Considerando que o uso de meios processuais manifestamente inadmissíveis gera efeitos danosos à prestação jurisdicional, a parte reclamante fica advertida, na hipótese de recurso, da possibilidade de aplicação ipso facto da multa processual prevista no art. 1.021, §4º, do CPC/2015.
+Tendo em vista o manifesto descabimento da via reclamatória, determino a certificação do trânsito em julgado e a baixa imediata dos autos ao arquivo, independentemente de publicação.
+Publique-se.
+Brasília, 21 de maio de 2026.
+
+Ministro DIAS TOFFOLI
+Relator
+Documento assinado digitalmente
