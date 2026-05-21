@@ -1,0 +1,24 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em nome de LUCAS ALEXANDRE DA SILVA, condenado por furto simples à pena de 1 ano, 4 meses e 10 dias de reclusão, em regime inicial semiaberto, e ao pagamento de 12 dias-multa (Processo n. 1502799-15.2025.8.26.0535, da 5ª Vara Criminal da comarca de Guarulhos/SP).
+A defesa aponta como autoridade coatora o Tribunal de Justiça de São Paulo, que, em 30/4/2026, negou provimento à apelação interposta pelo réu.
+Alega negativa de vigência ao art. 158 do Código de Processo Penal, diante da ausência de exame pericial do objeto subtraído e de prova da materialidade delitiva.
+Sustenta a violação do art. 155 do Código de Processo Penal, pois a condenação se fundou em elementos inquisitoriais não judicializados, sem a oitiva da vítima em juízo e com prova oral insuficiente.
+Defende, subsidiariamente, a fixação do regime inicial aberto em razão da baixa reprovabilidade concreta do delito e do princípio da proporcionalidade.
+Requer a suspensão imediata dos efeitos do acórdão impugnado, com expedição de alvará de soltura para que o paciente aguarde em liberdade ou, ao menos, no regime aberto.
+No mérito, pleiteia a concessão da ordem para absolver o paciente ou para fixar o regime aberto.
+É o relatório.
+Segundo entendimento desta Corte Superior, não é admissível o writ impetrado quando em curso, na origem, o prazo para a interposição do recurso cabível.
+Nesse contexto, verifica-se a possibilidade do manejo da via adequada para a obtenção do intento defensivo ou, ao menos, de uma resposta jurisdicional do Superior Tribunal de Justiça, de modo que qualquer pronunciamento imediato desta Corte Superior quanto ao pleito vindicado pela impetrante seria precoce, além de implicar a subversão da essência do remédio heroico e o alargamento inconstitucional de sua competência para julgamento de habeas corpus (AgRg no HC n. 733.563/RS, Ministro Rogerio Schietti Cruz, Sexta Turma, DJe 16/5/2022).
+De qualquer modo, inexiste ilegalidade flagrante que justifique a concessão de habeas corpus de ofício e a consequente superação do óbice constatado.
+No caso, o Tribunal a quo considerou que a materialidade delitiva encontra-se suficientemente demonstrada pelo auto de prisão em flagrante (fls. 1), pelo auto de exibição, apreensão e entrega do módulo de ignição (fls. 5/6), pelo boletim de ocorrência (fls. 22/26) e pela firme prova oral produzida sob o crivo do contraditório, elementos que, em conjunto, evidenciam a ocorrência do delito (fl. 17).
+Segundo a jurisprudência desta Corte, em crimes patrimoniais, os autos de apreensão e entrega dos bens, bem como os depoimentos indicativos do evolver fático, se prestam a conferir substrato para embasar o reconhecimento da materialidade delitiva (RHC n. 57.961/ES, Ministra Maria Thereza de Assis Moura, Sexta Turma, julgado em 12/5/2015, DJe de 21/5/2015).
+Portanto, a perícia do bem subtraído é dispensável para a comprovação da materialidade, por não se tratar de exame sobre os vestígios inicialmente deixados pelo delito (HC n. 352.480/MT, Ministro Jorge Mussi, Quinta Turma, DJe 7/6/2017).
+No que tange à autoria, consta do acórdão que, além da confissão judicial do réu, há declarações dos guardas civis, ouvidos em Juízo, os quais relataram a apreensão do objeto em seu poder e a constatação de que o veículo da vítima se encontrava violado e sem a referida peça (fl. 18).
+Com efeito, a análise da autoria e da materialidade pelas instâncias ordinárias amparou-se em provas produzidas sob contraditório, notadamente a confissão do paciente e os depoimentos dos guardas civis, corroborados pela apreensão do bem subtraído em sua posse, não havendo falar em violação do art. 155 do Código de Processo Penal. Nesse contexto, a ausência de oitiva da vítima em juízo, por si só, não compromete a condenação.
+Além disso, o habeas corpus não constitui via adequada para o reexame do conjunto fático-probatório com o objetivo de absolvição, desclassificação do crime ou revisão da condenação, quando as instâncias ordinárias, com base em confissão, depoimentos de policiais e provas indiciárias, reconheceram a autoria e a materialidade delitiva (AgRg no HC n. 1.056.733/SC, Ministro Ribeiro Dantas, Quinta Turma, DJEN 23/4/2026).
+Quanto ao regime inicial, embora a pena tenha sido fixada em patamar inferior a 4 anos de reclusão, a existência de circunstância judicial desfavorável justifica a imposição do semiaberto (AgRg no AgRg no AREsp n. 1.777.277/TO, Ministro Rogerio Schietti Cruz, Sexta Turma, DJe 30/9/2021).
+Pelo exposto, indefiro liminarmente a inicial (art. 210 do RISTJ).
+Publique-se.
+EMENTA
+PENAL E PROCESSUAL PENAL. HABEAS CORPUS SUBSTITUTIVO. PRAZO EM CURSO DO RECURSO CABÍVEL NA ORIGEM. DESCABIMENTO. FURTO SIMPLES. PROVA DA MATERIALIDADE. PERÍCIA NO BEM SUBTRAÍDO. DESNECESSIDADE. VIOLAÇÃO DO ART. 155 DO CPP. INEXISTÊNCIA. REGIME INICIAL SEMIABERTO. ADEQUAÇÃO. AUSÊNCIA DE CONSTRANGIMENTO ILEGAL.
+Petição inicial indeferida liminarmente.
