@@ -1,0 +1,18 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido de liminar, impetrado em favor de BRUNA PATRÍCIA JODAS FERREIRA ABREU e JOÃO MAURÍCIO DE LIMA contra acórdão da Sexta Câmara Criminal do Tribunal de Justiça de São Paulo, proferido no Agravo Interno Criminal n. 2024755-49.2026.8.26.0000/50000.
+A impetração sustenta, em síntese, a incompetência absoluta da Justiça Estadual para processar investigação relativa ao delito previsto no art. 273, § 1º-B, inciso I, do Código Penal, a nulidade da decisão que deferiu busca e apreensão por ausência de fundamentação idônea e a violação à Súmula Vinculante n. 14 do STF.
+Requer, liminarmente, o sobrestamento das investigações e a remessa imediata do recurso ordinário constitucional a esta Corte.
+No mérito, pugna pela declaração de nulidade absoluta da decisão proferida pelo Juízo da 5.ª Vara Regional das Garantias de Presidente Prudente/SP, seja pela incompetência absoluta da Justiça Estadual, seja por ausência de fundamentação idônea, com a consequente anulação das provas dela decorrentes.
+É o relatório.
+Decido.
+Nos termos da orientação consolidada nesta Corte e no Supremo Tribunal Federal, o habeas corpus não pode ser utilizado como sucedâneo recursal, ressalvada a possibilidade de concessão da ordem, de ofício, quando evidenciada flagrante ilegalidade. Nesse sentido: HC 535.063/SP, Rel. Ministro Sebastião Reis Júnior, Terceira Seção, DJe de 18/6/2020; AgRg no HC 180.365, Rel. Ministra Rosa Weber, DJe de 27/3/2020.
+No caso, não verifico situação excepcional apta a justificar o afastamento dessa orientação.
+Conforme consignado pelo Tribunal de origem, a insurgência defensiva busca o reconhecimento da incompetência do juízo que autorizou a medida investigatória, bem como a declaração de ilicitude das provas decorrentes da busca e apreensão, providências que não foram previamente submetidas ao exame do juízo originário. O Tribunal paulista concluiu que o conhecimento imediato das alegações implicaria indevida supressão de instância.
+Embora a defesa sustente tratar-se de incompetência absoluta, fundada na suposta incidência do art. 109, incisos IV e V, da Constituição da República, a questão não se resolve de forma automática a partir da simples narrativa constante da impetração. A alegação de transnacionalidade decorre de informação registrada em denúncia anônima reproduzida no relatório policial, circunstância que demanda análise do contexto investigatório e dos elementos efetivamente existentes nos autos para aferição da real natureza dos fatos investigados.
+Da mesma forma, a alegada nulidade da decisão que autorizou a busca domiciliar por deficiência de fundamentação pressupõe exame do conteúdo integral da representação policial e dos elementos que instruíram a medida cautelar, providência incompatível com a cognição estreita do writ, sobretudo diante da ausência de pronunciamento prévio das instâncias ordinárias sobre a matéria.
+Quanto à alegada demora na remessa do recurso ordinário constitucional, igualmente não se evidencia constrangimento ilegal. O acórdão impugnado foi publicado em 27/4/2026 e a presente impetração foi protocolizada em 13/5/2026, lapso temporal que, por si só, não revela mora injustificada apta a autorizar intervenção excepcional desta Corte.
+Por fim, a questão relativa ao acesso aos autos foi reconhecida pela própria defesa como prejudicada em razão da superveniência do acesso pretendido, não subsistindo interesse processual quanto ao ponto.
+Não se verifica, portanto, ilegalidade manifesta apta a ensejar a concessão da ordem de ofício.
+Diante do exposto, indefiro liminarmente do presente habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
