@@ -1,0 +1,20 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em nome de ALEXANDRE NOVAES DOS SANTOS, com pedido liminar, condenado pelo crime do art. 33 da Lei n. 11.343/2006 à pena de 6 anos e 8 meses de reclusão, em regime inicial semiaberto, em que se aponta como autoridade coatora o Tribunal de Justiça do Estado do Rio de Janeiro (Apelação Criminal n. 0806836-63.2025.8.19.0037).
+Alega nulidade absoluta das provas por violação do domicílio profissional, pois o ingresso na sala comercial ocorreu sem mandado e sem fundadas razões objetivas prévias, em desconformidade com o Tema 280 do Supremo Tribunal Federal (fls. 3/12).
+Alega consentimento viciado, obtido com coação física e moral - paciente algemado e empurrado para o elevador, com retirada de chaves do próprio bolso -, sem qualquer registro escrito ou audiovisual que comprove voluntariedade (fls. 12/15).
+Defende que houve ingresso prévio e clandestino do policial Adriano na área das caixas de correio às 16h36, uma hora antes da abordagem, comprometendo a lisura da diligência e a cadeia de custódia (fls. 16/18).
+Sustenta manifesta insuficiência probatória, com ausência de flagrante de mercancia, contradições sobre a localização do envelope e fragilidade dos depoimentos, impondo a aplicação do princípio in dubio pro reo (fls. 18/20).
+Subsidiariamente, requer reforma da dosimetria com reconhecimento do tráfico privilegiado (art. 33, § 4º, da Lei n. 11.343/2006), vedado o uso de processos em curso (Súmula 444 do Superior Tribunal de Justiça) e afastamento de bis in idem pelo emprego da quantidade/variedade em fases distintas da pena (fls. 21/24).
+Em liminar, pede a suspensão dos efeitos do acórdão e a expedição de alvará de soltura (fls. 24/25); e, no mérito, requer a declaração de nulidade das provas e das derivadas, com absolvição; subsidiariamente, a aplicação do redutor do § 4º do art. 33, na fração máxima, com regime aberto e substituição por restritivas (fls. 25/26).
+É o relatório.
+O writ é inadmissível.
+Segundo a jurisprudência desta Corte Superior, a fim de preservar a coerência do sistema recursal e a própria função constitucional do habeas corpus, sobretudo quando a questão suscitada não diz respeito, diretamente, à liberdade de ir e vir, não é admissível o writ impetrado quando em curso o prazo para a interposição do recurso cabível na origem.
+Verifica-se a possibilidade do manejo da via adequada para a obtenção do intento defensivo ou, ao menos, de uma resposta jurisdicional do Superior Tribunal de Justiça, de modo que qualquer pronunciamento imediato desta Corte Superior quanto ao pleito vindicado pela impetrante seria precoce, além de implicar a subversão da essência do remédio heroico e o alargamento inconstitucional de sua competência para julgamento de habeas corpus (AgRg no HC n. 733.563/RS, Ministro Rogerio Schietti Cruz, Sexta Turma, DJe 16/5/2022).
+O remédio constitucional tem suas hipóteses de cabimento restritas, nos termos do art. 105, I, c, da Constituição Federal, e não deve ser utilizado a fim de provocar a discussão de temas afetos a apelação criminal, a recurso especial, a agravo em execução, tampouco deve vir como sucedâneo de revisão criminal.
+Segundo o Tribunal de origem, foram rejeitadas a preliminar de nulidade da busca domiciliar, reconhecendo-se fundadas razões e estado de flagrância em crime permanente; mantidas materialidade e autoria com base nos autos e depoimentos policiais; reduzida a pena-base ao patamar de 1/6; afastado o tráfico privilegiado por dedicação do réu a atividades criminosas; e fixado o regime semiaberto (fls. 28/30, 78/81, 89/93).
+A impetração do habeas corpus somente se legitima diante de ilegalidade manifesta, evidente e imediata, circunscrita a questão de direito, sem revolvimento do conjunto probatório; no caso, tal requisito não se verifica.
+Ante o exposto, indefiro liminarmente a petição inicial.
+Publique-se.
+EMENTA
+HABEAS CORPUS. TRÁFICO DE DROGAS. SUBSTITUTIVO DE RECURSO ESPECIAL. AUSÊNCIA DE ILEGALIDADE MANIFESTA. INVIABILIDADE DE EXAME DE PROVAS. INADMISSIBILIDADE DO WRIT.
+Petição inicial indeferida liminarmente.
