@@ -1,0 +1,16 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em favor de ALAN EDUARDO USINGER, contra ato do Tribunal de Justiça do Estado de Santa Catarina que denegou a ordem no HC n. 5036064-70.2026.8.24.0000 (fls. 55/77).
+Neste writ, a defesa sustenta a ausência dos requisitos autorizadores da prisão preventiva, destacando a primariedade, os bons antecedentes, a residência fixa e o exercício de atividade lícita pelo paciente, bem como a pequena quantidade de droga apreendida (aproximadamente 16 g de cocaína).
+Pede, em liminar, a revogação da prisão preventiva, com a imediata soltura; e, no mérito, requer a concessão definitiva da ordem para permitir que o paciente responda ao processo em liberdade, com medidas cautelares diversas - Autos n. 5001125-59.2026.8.24.0519, da Vara Regional de Garantias da Comarca de Concórdia/SC .
+É o relatório.
+Consta dos autos que o paciente foi preso em flagrante após abordagem policial, ocasião em que foram apreendidos cerca de 16,7 g de cocaína e quantia em dinheiro. O flagrante foi convertido em prisão preventiva para garantia da ordem pública, diante dos indícios de autoria e materialidade e da inadequação das medidas cautelares diversas.
+A Corte de origem manteve a prisão preventiva em razão da gravidade concreta da conduta, do risco de reiteração delitiva e da insuficiência das medidas cautelares diversas, ressaltando que as condições pessoais favoráveis não afastam a custódia cautelar.
+No caso, a despeito de a segregação cautelar se encontrar devidamente justificada, o paciente, aparentemente, é réu primário, o crime foi perpetrado sem violência ou grave ameaça, não se extrai dos autos que o acusado integre organização criminosa e a quantidade de droga apreendida, apesar de significativa, não pode ser considerada exorbitante a ponto de justificar, por si só, a prisão (16,7g de cocaína), circunstâncias que firmam a possibilidade de substituição da prisão por cautelares diversas.
+Importante salientar que, com o advento da Lei n. 12.403/2011, a prisão cautelar passou a ser, mais ainda, a mais excepcional das medidas, devendo ser aplicada somente quando comprovada a inequívoca necessidade, devendo-se sempre verificar se existem medidas alternativas à prisão adequadas ao caso concreto" (HC n. 305.905/SP, Relator Ministro SEBASTIÃO REIS JÚNIOR, Sexta Turma, julgado em 4/12/2014, DJe 17/12/2014) - (AgRg no RHC n. 210.080/RS, Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJEN 26/2/2025).
+Ante o exposto, concedo liminarmente a ordem para substituir a prisão cautelar imposta ao paciente por medidas alternativas à prisão a serem estabelecidas e fiscalizadas pelo Magistrado singular, salvo se estiver preso por outro motivo, podendo o Juízo de primeiro grau decretar novamente a segregação cautelar, desde que fundamentadamente.
+Comunique-se com urgência.
+Publique-se.
+Intime-se o Ministério Público estadual.
+EMENTA
+DIREITO PENAL E PROCESSUAL PENAL. HABEAS CORPUS. TRÁFICO DE DROGAS. PRISÃO EM FLAGRANTE CONVERTIDA EM PREVENTIVA. GARANTIA DA ORDEM PÚBLICA. GRAVIDADE CONCRETA E RISCO DE REITERAÇÃO APONTADOS PELA ORIGEM. CONDIÇÕES PESSOAIS FAVORÁVEIS. RÉU APARENTEMENTE PRIMÁRIO. AUSÊNCIA DE VIOLÊNCIA OU GRAVE AMEAÇA. QUANTIDADE DE DROGA NÃO EXORBITANTE. SUBSTITUIÇÃO POR CAUTELARES. PROPORCIONALIDADE. ADEQUAÇÃO.
+Ordem concedida liminarmente.
