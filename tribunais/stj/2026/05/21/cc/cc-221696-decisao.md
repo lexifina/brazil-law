@@ -1,0 +1,27 @@
+DECISÃO
+Trata-se de conflito de competência, com pedido de liminar, suscitado por MARCIO ANTÔNIO BRANDÃO, apontando como suscitados o JUÍZO DE DIREITO DA 2ª VARA DE FAZENDA PÚBLICA DE FLORIANÓPOLIS/SC e o JUÍZO FEDERAL DA 6ª VARA DA SEÇÃO JUDICIÁRIA DO ESTADO DE SANTA CATARINA.
+A parte suscitante relata que "Embora a ação estadual possua natureza possessória (Manutenção de Posse ajuizada em 30/03/2026) e a ação federal possua viés petitório/expropriatório (Imissão na Posse ajuizada em 02/05/2026), ambas versam sobre o exato mesmo bem da vida: o exercício da posse direta sobre o imóvel situado na Avenida das Rendeiras, nº 200" (fl. 3).
+Informa que "A tramitação separada das demandas já gerou o resultado que a lei visa evitar: enquanto o Juízo Estadual foi provocado no dia 30/03/2026 a manter o locatário na posse com base na higidez do contrato de locação, o Juízo Federal, ignorando a prevenção estadual, deferiu liminar determinando a desocupação forçada em 5 dias, em ação proposta em 29/04/2026 (quase um mês depois)" (fl. 3).
+No entanto, "na data de 14/05/2026, o Juízo Estadual proferiu sentença terminativa declarando sua incompetência e declinando do feito para a Justiça Federal. Tal fato não esvazia o presente incidente; ao revés, consolida o conflito (agora com contornos de conflito negativo, ex vi do art. 66, II, do CPC) e agrava o periculum in mora, pois deixa o Suscitante à mercê da liminar de desocupação federal sem que o juízo natural (estadual) tenha apreciado a proteção possessória" (fl. 9).
+Reclama que "A decisão do Juiz Estadual de declinar a competência viola a Súmula 150 do STJ, pois a Justiça Federal ainda não atestou o interesse da União na lide possessória entre o Município e o particular" (fl. 9).
+Afirma que "Em 02/05/2026, sem comunicar a existência dessa ação e omitindo esse fato relevante, o Município ajuizou, Ação de Imissão na Posse perante a 6ª Vara Federal de Florianópolis (Processo nº 5013288-98.2026.4.04.7200)" e que "o juízo federal concedeu liminar inaudita altera parte determinando a desocupação do imóvel em 5 (cinco) dias, sob pena de despejo compulsório, multa diária de R$ 5.000,00 e requisição de força policia" (fl. 9).
+Insiste que "A ação de manutenção de posse foi ajuizada em 26/03/2026; a ação federal, em 02/05/2026. O juízo prevento é o estadual (art. 59 do CPC), sendo vedado ao Município ignorar a demanda anterior e ajuizar ação idêntica em outro ramo judicial, sobretudo sem informar a existência da primeira" (fl. 11).
+Requer "suspensão imediata da eficácia da decisão liminar proferida pela 6ª Vara Federal de Florianópolis (Processo nº 5013288-98.2026.4.04.7200)" e "atribuição ao Juízo da 2ª Vara da Fazenda Pública da Comarca de Florianópolis da competência provisória para apreciar e decidir as medidas urgentes em relação ao imóvel" (fls. 12-13)
+É o relatório.
+O conflito de competência não deve ser conhecido.
+Quanto ao cabimento do conflito de competência, o Código de Processo Civil estabelece que:
+Art. 66. Há conflito de competência quando:
+I - 2 (dois) ou mais juízes se declaram competentes;
+II - 2 (dois) ou mais juízes se consideram incompetentes, atribuindo um ao outro a competência;
+III - entre 2 (dois) ou mais juízes surge controvérsia acerca da reunião ou separação de processos.
+Parágrafo único. O juiz que não acolher a competência declinada deverá suscitar o conflito, salvo se a atribuir a outro juízo.
+Assim, conforme jurisprudência pacífica do Superior Tribunal de Justiça, "para caracterizar-se o Conflito de Competência, é indispensável a manifestação expressa de dois ou mais juízos que se considerem competentes, ou incompetentes, para processar e julgar a mesma demanda (STJ, AgRg no CC 113.767/DF, Rel. Ministro CASTRO MEIRA, CORTE ESPECIAL, DJe de 14/10/2011), ou que entre dois ou mais Juízes surja controvérsia acerca da reunião ou separação de processos, nos termos do art. 115, I, II e III, do CPC/73 (art. 66, I, II e III, do CPC/2015), hipóteses inocorrentes, in casu. Ou seja, para a configuração de conflito, positivo ou negativo, é necessário que duas ou mais autoridades judiciárias, de esferas diversas, declarem-se competentes, ou incompetentes, para apreciar e julgar o mesmo feito, ou que incida a prática de atos processuais na mesma causa, por mais de um juiz (STJ, AgRg no CC 120.584/GO, Rel. Ministro MASSAMI UYEDA, SEGUNDA SEÇÃO, DJe de 1º/08/2012). " (AgInt no CC n. 196.914/PR, relatora Ministra Assusete Magalhães, Primeira Seção, julgado em 3/10/2023, DJe de 6/10/2023.)
+Nas razões apresentadas pelo suscitante não é possível identificar que dois ou mais Juízos tenham entrado em controvérsia acerca da reunião ou separação dos processos indicados.
+Observando-se o caso concreto, verifica-se que o Juízo de Direito da 2ª Vara de Fazenda Pública de Florianópolis reconheceu a incompetência absoluta da Justiça Estadual e determinou a remessa dos autos à Justiça Federal.
+Não há, portanto, nenhum conflito a ser dirimido .
+Registra-se, por fim, que o conflito de competência não pode ser utilizado como sucedâneo recursal e nem como meio de suspensão de ações judiciais, pois possui finalidade estrita para solucionar controvérsias a respeito de competência jurisdicional.
+Ante o exposto, não conheço deste conflito de competência e julgo prejudicado o pedido liminar.
+Publique-se.
+Intimem-se.
+EMENTA
+CONFLITO DE COMPETÊNCIA. AUSÊNCIA DE MANIFESTAÇÃO DE JUÍZOS DISTINTOS EM RELAÇÃO À COMPETÊNCIA PARA UMA MESMA AÇÃO. CONFLITO NÃO CONHECIDO.
