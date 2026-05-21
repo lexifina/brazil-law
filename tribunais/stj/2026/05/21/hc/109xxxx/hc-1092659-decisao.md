@@ -1,0 +1,26 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em favor de ELITON PEREIRA DELFINO contra acórdão do Tribunal de Justiça do Estado de São Paulo, na Apelação Criminal n. 1500237-58.2025.8.26.0559.
+Consta nos autos que o paciente foi condenado, em primeira instância, à pena de 7 anos, 3 meses e 3 dias de reclusão, em regime inicial fechado, mais o pagamento de 14 dias-multa, tendo em vista a prática do delito descrito no art. 157,§ 2º, inciso II, do Código Penal.
+A defesa interpôs apelação ao Tribunal de origem, que negou provimento ao recurso (e-STJ, fls. 10-21).
+Na presente impetração, a defesa alega, em síntese, que:
+a) a condenação de ELITON PEREIRA DELFINO se baseou em reconhecimento fotográfico viciado, realizado em desacordo com o art. 226 do CPP e sem corroboração por provas autônomas;
+b) o corréu confessou o crime e informou que praticou o roubo com terceiro diverso do paciente, inexistindo vínculo ou coautoria de ELITON PEREIRA DELFINO;
+c) a vítima demonstrou incerteza no reconhecimento do paciente, havendo fragilidade probatória e ausência do termo de reconhecimento fotográfico nos autos;
+d) o acórdão do TJ/SP divergiu do Tema 1.258 do STJ ao afirmar que a inobservância do art. 226 do CPP na fase investigatória não macula a prova produzida em juízo.
+Requer, ao final, o conhecimento e o provimento do habeas corpus para conceder a ordem, anulando o acórdão em desconformidade com o Tema 1.258 e absolvendo o paciente por insuficiência de provas.
+O pedido liminar foi indeferido (e-STJ, fl. 443) e dispensadas as informações, o Ministério Público opinou pela denegação da ordem (e-STJ, fls. 445-452).
+É o relatório.
+Decido.
+Esta Corte - HC 535.063, Terceira Seção, Rel. Ministro Sebastião Reis Junior, julgado em 10/6/2020 - e o Supremo Tribunal Federal - AgRg no HC 180.365, Primeira Turma, Rel. Min. Rosa Weber, julgado em 27/3/2020; AgRg no HC 147.210, Segunda Turma, Rel. Min. Edson Fachin, julgado em 30/10/2018 -, pacificaram orientação no sentido de que não cabe habeas corpus substitutivo do recurso legalmente previsto para a hipótese, impondo-se o não conhecimento da impetração, salvo quando constatada a existência de flagrante ilegalidade no ato judicial impugnado.
+Analisando os autos, verifica-se que não deve ser conhecido o writ, e isto por mais de uma razão.
+O STJ, no Tema n. 1258, consolidou o entendimento de que o magistrado pode formar convicção sobre a autoria delitiva a partir de provas autônomas e independentes, sem vínculo causal com eventual vício no ato de reconhecimento. Em outras palavras, o reconhecimento não é requisito exclusivo para a condenação, desde que existam elementos probatórios consistentes e desvinculados da irregularidade apontada.
+Esse entendimento reforça a validade da prova independente e a possibilidade de responsabilização criminal com base em um conjunto probatório robusto, garantindo segurança jurídica e equilíbrio entre a proteção ao acusado e a efetividade da persecução penal.
+In casu, o Tribunal a quo destacou que a vítima reconheceu os acusados logo após o assalto e que eles foram presos em flagrante nas proximidades do local. O vigilante, testemunha presencial, viu o momento em que os réus se desfaziam da bolsa da ofendida, após terem se apropriado de seus pertences. A imediata abordagem e a clareza dos fatos permitiram a identificação segura dos acusados como autores do roubo, conferindo firmeza e consistência à condenação.
+A Corte paulista registrou que, após essa dinâmica narrada, já na delegacia de polícia, depois de analisar as fotografias, a vítima declarou não ter condições de identificar os assaltantes e demonstrou dúvida quanto ao acusado Eliton. Ainda assim, o Tribunal ressaltou que a condenação não se apoiou apenas nesse reconhecimento, mas em um conjunto probatório consistente. As declarações do guarda civil e do vigilante Marcos, testemunha ocular que conteve os réus até a chegada da polícia, conferiram firmeza e credibilidade à narrativa. Somadas à atuação dos agentes que conduziram os acusados à Delegacia, essas provas formaram um quadro robusto e convincente, suficiente para sustentar a responsabilidade criminal.
+Nesse contexto, a Corte originária consignou que houve admissão informal da prática criminosa e que os bens subtraídos foram encontrados próximos ao local da prisão em flagrante. O vigilante presenciou o instante em que os assaltantes lançaram ao chão a bolsa e os pertences da vítima, fato que reforçou a materialidade do delito e a autoria dos acusados.
+À luz desses esclarecimentos, padece de razoabilidade a pretensão de nova movimentação da máquina estatal para rediscussão da condenação do réu, com embasamento em fatores que não merecem prosperar.
+Ademais, desconstituir a conclusão confirmada pelo Tribunal a quo demandaria inevitável revolvimento do contexto fático probatório, mister incompatível com a natureza deste remédio heroico.
+De mais a mais, embora o corréu tenha assumido em juízo a responsabilidade pelo crime e buscado eximir o paciente, tal alegação não basta para decretar sua absolvição. A análise aprofundada das provas é indispensável para promover o juízo absolutório, mas essa cognição não pode ser realizada na via restrita do remédio heroico.
+Diante do exposto, não conheço do habeas corpus .
+Publique-se. Intimem-se.
+EMENTA
