@@ -1,0 +1,29 @@
+DECISÃO:
+Trata-se de recurso extraordinário  com base no art. 102, inciso III, da Constituição Federal.
+O recurso foi interposto com fundamento na alínea "a" do permissivo constitucional.
+O acórdão recorrido  ficou assim ementado:
+
+PREVIDENCIÁRIO. APOSENTADORIA ESPECIAL. ATIVIDADE ESPECIAL. AGENTES NOCIVOS. RECONHECIMENTO. CONVERSÃO. RUÍDO. PERÍODOS E NÍVEIS DE EXPOSIÇÃO. PROVA. USO DE EQUIPAMENTOS DE PROTEÇÃO INDIVIDUAL (EPI). EFICÁCIA. DESCONSIDERAÇÃO. ENTENDIMENTO DO SUPREMO TRIBUNAL FEDERAL. AGENTES QUÍMICOS. ERGONÔMICOS, ACIDENTES. REGIME PRÓPRIO.
+A lei em vigor quando da prestação dos serviços define a configuração do tempo como especial ou comum, o qual passa a integrar o patrimônio jurídico do trabalhador, como direito adquirido.
+Até 28.4.1995 é admissível o reconhecimento da especialidade do trabalho por categoria profissional; a partir de 29.4.1995 é necessária a demonstração da efetiva exposição, de forma não ocasional nem intermitente, a agentes prejudiciais à saúde, por qualquer meio de prova; a contar de 06.5.1997 a comprovação deve ser feita por formulário-padrão embasado em laudo técnico ou por perícia técnica.
+Considera-se como especial a atividade em que o segurado esteve exposto a ruídos superiores a 80 decibéis até a data de 5.3.1997, por conta do enquadramento previsto nos Decretos 53.831/64 e 83.080/79. Com a edição do Decreto 2.172/97, o limite passou a ser 90 decibéis, sendo reduzido para 85 decibéis, a contar de 19.11.2003, consoante previsto no Decreto 4.882/2003. O Supremo Tribunal Federal, no julgamento do ARE 664.335, fixou o entendimento de que: 1) o direito à aposentadoria especial pressupõe a efetiva exposição do trabalhador a agente nocivo à sua saúde, de modo que, se o EPI for realmente capaz de neutralizar a nocividade não haverá respaldo constitucional à aposentadoria especial; 2) na hipótese de exposição do trabalhador a ruído acima dos limites legais de tolerância, a declaração do empregador, no âmbito do Perfil Profissiográfico Previdenciário (PPP), no sentido da eficácia do Equipamento de Proteção Individual (EPI), não descaracteriza o tempo de serviço especial para aposentadoria.
+A exposição habitual e permanente a agentes químicos nocivos a saúde permite o reconhecimento da atividade especial. Para tanto, basta a análise qualitativa (exposição aos agentes nocivos presentes no ambiente de trabalho), independentemente de análise quantitativa (concentração, intensidade, etc.).
+Ausente a prova do preenchimento de todos os requisitos legais, não é possível a concessão de aposentadoria especial.
+
+Opostos os embargos de declaração, foram rejeitados.
+No recurso extraordinário sustenta-se violação do(s) art.(s) 40, § 4º, inciso 3º, da Constituição Federal.
+Decido.
+Analisados os autos, verifica-se que a parte recorrente não se desincumbiu do ônus da impugnação específica, limitando-se afirmar, genericamente, que houve ofensa a dispositivo constitucional, o que atrai a incidência da Súmula nº 284/STF, que assim dispõe: “É inadmissível o recurso extraordinário [ ] quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia". Nesse sentido:
+
+“AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO COM AGRAVO. DIREITO ELEITORAL. PRESTAÇÃO DE CONTAS. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DO ACÓRDÃO RECORRIDO. DEFICIÊNCIA NA FUNDAMENTAÇÃO DO RECURSO EXTRAORDINÁRIO. SÚMULA 284/STF. 1. É ônus da parte recorrente impugnar de forma específica os fundamentos do acórdão recorrido. A fundamentação do recurso extraordinário se mostra deficiente. Súmula 284 do STF. 2. Agravo regimental a que se nega provimento” (ARE nº 1.168.155/SP-AgR, Segunda Turma, Rel. Min. Edson Fachin, DJe de 21/03/2019).
+
+“DIREITO ADMINISTRATIVO. AÇÃO CIVIL PÚBLICA. SERVIÇOS DE TELEFONIA. ACESSO A DADOS CADASTRAIS. RECURSO EXTRAORDINÁRIO INTERPOSTO SOB A ÉGIDE DO CPC/1973. ALEGAÇÃO DE OFENSA AOS ARTS. 2º E 37, XI, DA CONSTITUIÇÃO DA REPÚBLICA. APLICAÇÃO DA SÚMULA Nº 284/STF. EVENTUAL VIOLAÇÃO REFLEXA DA CONSTITUIÇÃO DA REPÚBLICA NÃO VIABILIZA O RECURSO EXTRAORDINÁRIO. AGRAVO MANEJADO SOB A VIGÊNCIA DO CPC/2015. 1. Aplicável, na hipótese, o entendimento jurisprudencial vertido na Súmula 284/STF: “É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia”. 2. Obstada a análise da suposta afronta aos preceitos constitucionais invocados, porquanto dependeria de prévia análise da legislação infraconstitucional aplicada à espécie, procedimento que refoge à competência jurisdicional extraordinária desta Corte Suprema, a teor do art. 102 da Magna Carta. 3. As razões do agravo não se mostram aptas a infirmar os fundamentos que lastrearam a decisão agravada, mormente no que se refere à ausência de ofensa a preceito da Constituição da República. 4. Agravo interno conhecido e não provido” (ARE nº 1.068.728/SE-AgR, Primeira Turma, Rel. Min. Rosa Weber, DJe de 19/10/2018).
+
+Ademais, o Supremo Tribunal Federal, examinando o Recurso Extraordinário com Agravo nº 906569 segundo a sistemática da repercussão geral (Tema nº 852), decidiu que: não há repercussão geral (questão infraconstitucional) - Trânsito em Julgado em 14/10/2015.
+Ante o exposto, no ponto relativo ao enquadramento, determino a devolução dos autos à Corte de origem para que adote, conforme a situação do(s) referido(s) tema(s) de repercussão geral, os procedimentos previstos nos incisos I a III do artigo 1.030 do Código de Processo Civil (alínea c do inciso V do art. 13 do Regimento Interno do Supremo Tribunal Federal) e, quanto ao mais, nego seguimento ao recurso (alínea c do inciso V do art. 13 do Regimento Interno do Supremo Tribunal Federal).
+Publique-se.
+Brasília, 21 de maio de 2026.
+
+Ministro EDSON FACHIN
+Presidente
+Documento assinado digitalmente
