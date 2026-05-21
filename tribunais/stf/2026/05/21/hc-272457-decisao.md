@@ -1,0 +1,54 @@
+DECISÃO
+
+HABEAS CORPUS. CONDENAÇÃO TRANSITADA EM JULGADO. ALEGADO CERCEAMENTO DE DEFESA. REVELIA. FUNDAMENTAÇÃO DAS INSTÂNCIAS ORDINÁRIAS NO SENTIDO DE QUE O RÉU DEIXOU DE MANTER O ENDEREÇO ATUALIZADO. NECESSIDADE DE REVOLVIMENTO FÁTICO-PROBATÓRIO. INVIABILIDADE. AUSÊNCIA DE INTIMAÇÃO DA SENTENÇA. MATÉRIA NÃO APRECIADA PELAS INSTÂNCIAS ANTECEDENTES. DUPLA SUPRESSÃO DE INSTÂNCIA. NEGATIVA DE SEGUIMENTO.
+
+1. Trata-se de habeas corpus impetrado contra acórdão proferido pela Sexta Turma do Superior Tribunal de Justiça no Agravo Regimental no Habeas Corpus nº 1.074.591/ES (e-doc. 8).
+
+2. Consta dos autos que o paciente foi condenado, em primeira instância, à pena de 2 anos e 4 meses de reclusão, em regime inicial aberto, além de 20 dias-multa, em razão do cometimento do crime previsto no art. 344, caput, do Código Penal (coação no curso do processo).
+
+3. Interposta apelação pela defesa, o Tribunal de Justiça do Estado do Espírito Santo negou provimento ao recurso, sobrevindo o trânsito em julgado da condenação.  Pedido de revisão criminal foi indeferido.
+
+4. Inconformada, a defesa impetrou o habeas corpus perante o Superior Tribunal de Justiça, resultando, ao final, no ato ora impugnado.
+
+5. Neste habeas corpus, o impetrante sustenta, em síntese, a ocorrência de nulidade absoluta do processo penal de origem. Afirma que o paciente jamais alterou seu endereço residencial, mantendo-se no mesmo local desde o início da persecução penal, razão pela qual seria equivocada a premissa adotada pelas instâncias antecedentes de que teria dado causa à própria revelia. Alega que, durante o período da pandemia da COVID-19, o paciente ficou impossibilitado de comparecer para cumprir as obrigações assumidas em acordo celebrado com o Ministério Público, em razão do fechamento físico dos fóruns, circunstância que teria motivado indevidamente o prosseguimento da ação penal sem a realização de audiência de justificação. Aduz, ainda, que o paciente não foi citado/intimado para comparecer à audiência de instrução e julgamento, realizada à sua revelia, tampouco intimado da sentença condenatória, o que teria ocasionado cerceamento de defesa e violação aos princípios do contraditório, da ampla defesa e do devido processo legal. Sustenta, também, que o Superior Tribunal de Justiça deixou de apreciar o mérito das alegações defensivas em razão de excessivo formalismo processual, ao aplicar a Súmula nº 182/STJ, embora evidenciada flagrante ilegalidade apta a autorizar a superação dos óbices processuais.
+
+6. Requer, liminarmente, a suspensão dos efeitos da condenação, até o julgamento definitivo do writ. No mérito, pretende a concessão da ordem para declarar a nulidade dos atos processuais, assegurando-se ao paciente o direito à audiência de justificação, à regular intimação e ao exercício da autodefesa.
+
+É o relatório.
+
+Decido.
+
+7. De início, observa-se que o título condenatório transitou em julgado, já tendo, inclusive, sido indeferido o pedido de revisão criminal pelo Tribunal de origem. A jurisprudência deste Supremo Tribunal Federal consolidou-se no sentido da inviabilidade de utilização do habeas corpus como sucedâneo de revisão criminal, salvo em hipóteses de manifesta ilegalidade. (RHC nº 203.506-AgR/ES, Rel. Min. Cármen Lúcia, Primeira Turma, j. 23/08/2021, p. 25/08/2021; HC nº 154.106-ED/MS, Rel. Min. Roberto Barroso, Primeira Turma, j. 29/06/2018, p. 06/08/2018; HC nº 135.239-AgR/SP, Rel. Min. Celso de Mello, Segunda Turma, j. 07/08/2018, p. 17/09/2018; e HC nº 161.656-AgR/SP, Rel. Min. Ricardo Lewandowski, Segunda Turma, j. 23/10/2018, p. 31/10/2018).
+
+8. Verificada a inadequação da via eleita, a concessão da ordem de ofício é providência excepcional, a ser implementada somente quando constatada flagrante ilegalidade, abuso de poder ou mesmo teratologia na decisão impugnada. Da análise das peças que instruem este processo, no entanto, não vislumbro situação a autorizá-la.
+
+9. Veja-se que o Ministro Relator no STJ não conheceu da impetração. Assentou, referindo ao que decidido pelo Tribunal de Justiça,  que o alegado cerceamento de defesa decorrente da realização da audiência de instrução sem a presença do acusado encontraria óbice na própria conduta do paciente, que teria descumprido o dever legal de manter o endereço atualizado. Destacou, ainda, que a tese relativa à ausência de intimação da sentença condenatória não teria sido previamente examinada pelo Tribunal de origem, atraindo óbice de supressão de instância. Eis os principais trechos do pronunciamento:
+
+“(...)
+Da análise dos excertos acima transcritos, constata-se que o revisionando fora devidamente citado para a ação penal (ID 15369051, p. 61) e intimado para a audiência de suspensão condicional do processo (Sursis Processual), havendo aceitado as condições impostas (ID 15369051, pp. 64/65) (fl. 15).
+Consta, ademais, do acórdão recorrido, que o cerceamento de defesa alegado encontra óbice na própria conduta do revisionando, que descumpriu seu dever legal de manter o endereço atualizado, mesmo após ter sido citado e intimado pessoalmente para os atos iniciais do processo e para o cumprimento do Sursis Processual (fl. 15, grifei).
+Registrou o Colegiado de origem, outrossim, que o processo seguirá sem a presença do acusado que, citado ou intimado pessoalmente para qualquer ato, deixar de comparecer sem motivo justificado, ou, no caso de mudança de residência, não comunicar o novo endereço ao juízo, bem como que a obrigação de manter o endereço atualizado é do réu, de modo que a decretação da revelia é válida quando há inércia do acusado nesse sentido, afastando-se, portanto, a alegação de nulidade à qual o réu deu causa (fl. 15).
+Em arremate, consignou o Tribunal a quo, in verbis, que a posterior intimação da Defensoria Pública para a AIJ (ID 15369041, p. 41) foi suficiente para garantir o contraditório e a ampla defesa, na sua vertente técnica, de modo que a ausência do réu na condição de revel decorreu de conduta imputável, tão somente, ao revisionando, e não de falha do aparelho judicial, razão pela qual não há que se falar em nulidade por cerceamento de defesa (fl. 15).
+O processo penal moderno, em matéria de nulidades, rege-se pelo princípio da instrumentalidade das formas e pela máxima pas de nullité sans grief (não há nulidade sem prejuízo), positivado no art. 563 do CPP. O art. 565 complementa esse sistema ao vedar que a parte que deu causa ao vício, ou que para ele concorreu, possa arguí-lo. No caso concreto, como dito, o alegado cerceamento de defesa encontra óbice na própria conduta do paciente (revisionando), que descumpriu seu dever legal de manter o endereço atualizado, mesmo após ter sido citado e intimado pessoalmente para os atos iniciais do processo e para o cumprimento do Sursis Processual (fl. 15).
+Como cediço, e ressaltado no acórdão recorrido, o art. 367 do CPP impõe ao réu o dever processual de comunicar ao juízo eventual mudança de residência. Assim, a decretação da revelia não foi, portanto, um ato arbitrário do juízo, mas uma consequência direta e legal (art. 367, CPP) da conduta omissiva do próprio paciente, que frustrou a intimação ao descumprir seu dever processual.
+Permitir que o réu, após se furtar à aplicação da lei penal, mudando-se para local incerto, venha, agora, após o trânsito em julgado do feito, arguir a nulidade da audiência para a qual ele próprio impossibilitou sua intimação, seria violar frontalmente o art. 565 do CPP e a boa-fé processual. (...)”
+(...)
+Por fim, no que diz respeito à alegação no sentido de que o Paciente não foi intimado da sentença condenatória. Tal omissão impediu que o réu manifestasse seu desejo de recorrer, o que configura cerceamento de defesa intransponível (fl. 3), de igual modo, diviso que o writ não merece acolhimento.
+Da análise dos autos, constata-se que a referida tese, nos termos em que mencionado na presente impetração, não foi objeto de análise pelo Tribunal de origem, não podendo esta Corte de Justiça dela conhecer, sob pena de indevida supressão de instância.” (decisão disponível para acesso público no site do STJ; grifos nossos)
+
+10. Interposto agravo regimental, a Sexta Turma do Superior Tribunal de Justiça não conheceu do recurso, ao fundamento de que a defesa limitou-se a reiterar os argumentos deduzidos na inicial do habeas corpus, sem impugnar especificamente os fundamentos da decisão agravada, atraindo a incidência da Súmula nº 182/STJ.
+
+11. Pois bem. Conforme se observa, as instâncias ordinárias decidiram fundamentadamente a respeito das alegações defensivas relacionadas à suposta nulidade decorrente da revelia do acusado e da realização da audiência de instrução e julgamento sem sua presença, concluindo que o paciente, após regularmente citado e intimado para os atos iniciais do processo e para o cumprimento das condições do sursis processual, deixou de manter atualizado o endereço informado nos autos, circunstância que legitimaria a decretação da revelia, nos termos do art. 367 do Código de Processo Penal. Assentaram, ainda, que a posterior atuação da Defensoria Pública na audiência de instrução foi suficiente para assegurar a ampla defesa técnica, afastando-se a alegação de cerceamento de defesa.
+
+12. Nesse contexto, alcançar conclusão diversa, especialmente quanto à alegação de que o paciente jamais teria alterado o endereço residencial e de que a ausência de intimação decorreu de falha imputável exclusivamente ao aparelho judicial, demandaria o revolvimento do conjunto fático-probatório dos autos, providência inviável na via estreita do habeas corpus. Nesse sentido, cito precedentes de ambas as Turmas: HC nº 105.163/SP, Rel. Min. Cármen Lúcia, Primeira Turma, j. 03/05/2011, p. 18/05/2011; HC nº 157.282-AgR/SP, Rel. Min. Roberto Barroso, Primeira Turma, j. 05/10/2018, p. 05/11/2018; HC nº 156.894-AgR/SP, Rel. Min. Dias Toffoli, Segunda Turma, j. 14/08/2018, p. 05/09/2018; e HC nº 195.352-AgR/RS, Rel. Min. Nunes Marques, Segunda Turma, j. 08/03/2021, p. 09/04/2021.
+
+13. Por fim, como destacado pelo STJ, a questão alusiva à ausência de intimação da sentença condenatória sequer chegou a ser analisada pelo Tribunal de origem, tampouco pelo STJ, no ato apontado como coator. Desse modo, a atuação originária do STF acarretaria dupla supressão de instância e ampliação indevida da competência prevista no art. 102 da CRFB. Assim decidiram o Plenário e ambas as Turmas: HC nº 109.430-AgR/DF, Rel. Min. Celso de Mello, Tribunal Pleno, j. 10/04/2014, p. 13/08/2014; HC nº 164.535-AgR/RJ, Rel. Min. Cármen Lúcia, Segunda Turma, j. 17/03/2020, p. 20/04/2020; e HC nº 163.568/RS, Rel. Min. Marco Aurélio, Red. do Acórdão Min. Rosa Weber, Primeira Turma, j. 13/08/2019, p. 30/08/2019.
+
+14. Ante o exposto, nego seguimento ao habeas corpus, com fundamento no art. 21, § 1º, do RISTF, ficando prejudicado o pedido liminar.
+
+Publique-se.
+
+Brasília, 21 de maio de 2026.
+
+Ministro ANDRÉ MENDONÇA
+Relator
