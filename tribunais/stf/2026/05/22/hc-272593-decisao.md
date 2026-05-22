@@ -1,0 +1,30 @@
+Decisão
+
+Trata-se de Habeas Corpus, com pedido de liminar, impetrado contra decisão proferida pelo Ministro HERMAN BENJAMIN, do Superior Tribunal de Justiça, no HC 1.097.113/SP.
+Consta dos autos, em síntese, que o paciente foi preso em flagrante, convertida em preventiva, em razão da prática do crime de tráfico de drogas (art. 33 da Lei 11.343/2006), tendo sido apreendidos 440 gramas de maconha e uma balança de precisão.
+Buscando a revogação da custódia, a defesa impetrou Habeas Corpus perante o Tribunal de Justiça do Estado de São Paulo, cujo pedido de liminar foi indeferido pelo Desembargador relator, nos termos seguintes:
+
+[...] nada obstante não seja possível o exame aprofundado de fatos e provas nos estreitos limites do "habeas corpus", é possível vislumbrar, no caso em estudo, há indícios de materialidade delitiva e de autoria razoavelmente a sérios em desfavor do paciente.
+Conforme consta do boletim de ocorrência nº GQ9236-1/2026, policiais militares receberam informações de que Giovana e Elisandra transportariam entorpecentes para armazenamento em outro local, utilizando um mototáxi, sendo que as drogas estariam depositadas em residência situada na Rua Manoel Kotay Costa. Ao chegarem ao endereço, os policiais visualizaram um mototáxi circulando lentamente pela via e perceberam que Gustavo, ainda no quintal do imóvel e portando uma sacola, fugiu em direção aos fundos ao notar a presença policial. Giovana teria gritado “moio, dispensa” e tentado impedir a entrada da equipe na residência, sendo necessário o uso de algemas em razão da resistência apresentada. Nos fundos do imóvel, os policiais encontraram Elisandra, Gustavo e Alisson arremessando porções de drogas para imóveis vizinhos, supostamente para evitar o flagrante. Gustavo ainda teria tentado fugir pelo telhado. Consta também que Alisson ameaçou um dos policiais, afirmando que “iria pegá-lo” quando fosse solto. Durante a checagem do local, os agentes localizaram uma balança de precisão que teria sido dispensada por Elisandra. Ainda segundo o policial, Elisandra teria desferido chutes na viatura, causando danos ao veículo (fls. 14/19).
+Da análise perfunctória dos documentos instruíram a inicial, não se vislumbram presentes os requisitos indispensáveis para a concessão da medida de urgência (fumus boni iuris e periculum in mora), até porque a r. decisão atacada (fls. 120/123), ao contrário do alegado, apresenta-se satisfatoriamente motivada, consoante preconizam os artigos 5º, LXI, e 93, IX, da Constituição Federal, e 283, caput, 310 e 315, do Código de Processo Penal, destaca-se o seguinte trecho:
+[...]
+Diante desse cenário, ao menos a princípio, mostra-se necessária a sua prisão, pois estão presentes os requisitos da prisão preventiva, de modo que o periculum in libertatis ficou bem demonstrado.
+[...]
+Ante o exposto, indefere-se o pedido de liminar.
+
+Na sequência, nova impetração, desta vez direcionada ao Superior Tribunal de Justiça, indeferida liminarmente pelo Ministro Presidente, com fundamento na Súmula 691/STF.
+Nesta ação, o impetrante alega, em síntese, a ausência dos pressupostos autorizadores da prisão preventiva. Em razão disso, requer a concessão da ordem para revogar o decreto prisional, com ou sem imposição de medidas cautelares diversas.
+É o relatório. Decido.
+
+No presente caso, incide óbice ao conhecimento da ordem impetrada neste SUPREMO TRIBUNAL FEDERAL, uma vez que se impugna decisão monocrática de Ministro do Superior Tribunal de Justiça (HC 219.841-AgR, Rel. Min. ALEXANDRE DE MORAES, Primeira Turma, DJe de 6/10/2022; HC 219.672-AgR, Rel. Min. RICARDO LEWANDOWSKI, Segunda Turma, DJe de 6/10/2022; HC 216.953-AgR, Rel. Min. DIAS TOFFOLI, Primeira Turma, DJe de 29/9/2022; HC 217.751-AgR, Rel. Min. CÁRMEN LÚCIA, Primeira Turma, DJe de 27/9/2022; HC 208.035-AgR, Rel. Min. EDSON FACHIN, Segunda Turma, DJe de 21/9/2022; RHC 213.550-AgR, Rel. Min. ANDRÉ MENDONÇA, Segunda Turma, DJe de 1º/9/2022; HC 216.979-AgR, Rel. Min. GILMAR MENDES, Segunda Turma, DJe de 25/8/2022; HC 216.955-AgR, Rel. Min. ROSA WEBER, Primeira Turma, DJe de 25/8/2022; HC 217.067-AgR, Rel. Min. ALEXANDRE DE MORAES, Primeira Turma, DJe de 24/8/2022; RHC 214.783-AgR, Rel. Min. NUNES MARQUES, Segunda Turma, DJe de 4/8/2022).
+De fato, o exaurimento da instância recorrida é, como regra, pressuposto para ensejar a competência do SUPREMO TRIBUNAL FEDERAL, conforme vem sendo reiteradamente proclamado por esta CORTE (HC 211.364-AgR, Rel. Min. EDSON FACHIN, Segunda Turma, DJe de 24/8/2022; HC 172.384, Rel. Min. MARCO AURÉLIO, Redator p/ Acórdão Min. ALEXANDRE DE MORAES, Primeira Turma, DJe de 10/2/2021; HC 180.895-AgR, Rel. Min. ROBERTO BARROSO, Primeira Turma, DJe de 18/6/2020; HC 262.350, Redatora p/ Acórdão: Min. ROSA WEBER, Primeira Turma, DJe de 30/8/2019).
+Em hipóteses como a presente, o exaurimento da jurisdição na origem exige a interposição de agravo interno, não sendo possível sua substituição por habeas corpus dirigido a tribunal diverso. Admitir o contrário permitiria à parte escolher, conforme sua conveniência, o órgão revisor da decisão monocrática, em afronta ao princípio do juiz natural e ao necessário exaurimento das instâncias, pressuposto da competência desta CORTE, que não comporta ampliação por via imprópria (HC 131226 AgR, Rel. Min. TEORI ZAVASCKI, Segunda Turma, DJe de 25/2/2016 e HC 270760, Rel. Min. CÁRMEN LÚCIA, DJe de 15/4/2026).
+Esta Primeira Turma vem autorizando, somente em circunstâncias específicas, o exame de habeas corpus quando não encerrada a análise na instância competente, óbice superável apenas em hipótese de teratologia (HC 2156.951-AgR, Primeira Turma, DJe de 25/8/2022) ou em casos excepcionais (HC 212.368-AgR, Primeira Turma, DJe de 25/4/2022), como bem destacado pela Ministra ROSA WEBER.
+No caso, entretanto, não se apresentam hipóteses de teratologia ou excepcionalidade aptas a justificar a intervenção desta CORTE.
+Diante do exposto, com base no art. 21, § 1º, do Regimento Interno do STF, INDEFIRO a ordem de HABEAS CORPUS.
+Publique-se.
+Brasília, 22 de maio de 2026.
+
+Ministro ALEXANDRE DE MORAES
+Relator
+Documento assinado digitalmente
