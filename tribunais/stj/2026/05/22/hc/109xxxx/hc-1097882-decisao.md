@@ -1,0 +1,14 @@
+DECISÃO
+Trata-se de habeas corpus, impetrado em nome de LUCAS OLIVEIRA DE SOUZA e RAFAEL OLIVEIRA DE SOUZA - condenados por homicídio qualificado tentado e associação para o tráfico de drogas a, respectivamente, 17 anos e 11 meses de reclusão e 590 dias-multa (Lucas) e 16 anos e 11 meses de reclusão e 530 dias-multa (Rafael) - apontando como ato coator acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DO ESPÍRITO SANTO (Apelação Criminal n. 0027104-66.2018.8.08.0024).
+Busca a impetração a cassação da decisão do Conselho de Sentença por ser manifestamente contrária à prova dos autos e, caso assim se entenda, a despronúncia dos pacientes, na condenação proferida pelo Juízo de Direito da 1ª Vara Criminal da comarca de Vitória/ES, argumentando que o acórdão manteve a condenação por tentativa de homicídio sem indicar prova judicializada que vincule os pacientes ao fato do dia 14/09/2018, valendo-se de elementos informativos inquisitoriais (fls. 7/9).
+Sem pedido liminar.
+É o relatório.
+O writ é inadmissível, uma vez que se trata de impetração destinada a revisar novamente a condenação imposta e mantida pelas instâncias ordinárias, e não se verifica a ocorrência de flagrante constrangimento ilegal apto a subsidiar a superação do óbice.
+De início, a pretensão de despronúncia não pode ser conhecida, pois não foi apreciada pela Corte estadual, o que configuraria prestação jurisdicional em indevida supressão de instância.
+Ademais, o Tribunal estadual afastou a alegação de decisão manifestamente contrária à prova dos autos, ao fundamento de que havia elementos idôneos - boletins e laudos periciais, além de prova testemunhal, inclusive confirmação, em juízo, do envolvimento dos pacientes com o grupo comandado por Emerson "Pesadão" e referência aos "ataques" no bairro Nova Palestina - aptos a sustentar o veredicto (fls. 33/35). O acórdão também consignou que cabe ao Júri, diante de versões verossímeis, optar por uma delas, sendo a cassação possível apenas quando o veredicto não encontra nenhum apoio nas provas dos autos (fls. 35/36), o que não se verifica na espécie.
+Assim, obter conclusão diversa ensejaria profundo revolvimento de fatos e provas da ação penal, providência incabível na via estreita do habeas corpus.
+Em razão disso, indefiro liminarmente a inicial (art. 210 do RISTJ).
+Publique-se.
+EMENTA
+PENAL. HABEAS CORPUS. HOMICÍDIO QUALIFICADO TENTADO E ASSOCIAÇÃO PARA O TRÁFICO DE DROGAS. PRETENSÃO DE REVISÃO DA CONDENAÇÃO IMPOSTA E MANTIDA PELAS INSTÂNCIAS ORDINÁRIAS. UTILIZAÇÃO INDEVIDA DO WRIT. INVIABILIDADE. DESPRONÚNCIA. AUSÊNCIA DE DEBATE NA CORTE ESTADUAL. SUPRESSÃO DE INSTÂNCIA. ALEGAÇÃO DE DECISÃO MANIFESTAMENTE CONTRÁRIA À PROVA DOS AUTOS. CONCLUSÃO DIVERSA. REVOLVIMENTO FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. CONSTRANGIMENTO ILEGAL MANIFESTO. AUSÊNCIA.
+Inicial indeferida liminarmente.
