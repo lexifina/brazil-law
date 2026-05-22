@@ -1,0 +1,40 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em favor de MICHEL ANDRÉ DA SILVA ALVES contra acórdão do Tribunal de Justiça do Estado do Rio de Janeiro (Agravo em Execução Penal nº 5019541-10.2025.8.19.0500).
+Extrai-se dos autos que o paciente cumpre pena de 8 anos e 9 meses de reclusão pela prática do delito de organização criminosa, com término previsto para dezembro de 2029. A progressão para o regime aberto ocorreu em 30 de março de 2025, na modalidade prisão albergue domiciliar, mediante condições que incluem fiscalização por monitoração eletrônica (e-STJ fl. 10). O Juízo da Vara de Execuções Penais indeferiu o pedido de retirada do equipamento de monitoramento eletrônico, mantendo-o como condição do regime aberto (e-STJ fls. 11/12).
+A defesa interpôs agravo em execução penal visando à exclusão da monitoração eletrônica, sob alegação de ausência de fundamentação idônea e desnecessidade da medida, em razão da ressocialização do apenado. O Ministério Público apresentou contrarrazões, e a Procuradoria de Justiça opinou pela manutenção da decisão agravada. Em juízo de retratação, a decisão foi mantida (e-STJ fl. 10).
+O Tribunal de origem negou provimento ao agravo, em acórdão assim ementado (e-STJ fls. 8/9):
+DIREITO PENAL E PROCESSUAL PENAL. AGRAVO EM EXECUÇÃO PENAL. REGIME ABERTO. PRISÃO ALBERGUE DOMICILIAR. MONITORAMENTO ELETRÔNICO. AUSÊNCIA DE VAGAS EM CASA DE ALBERGADO. LEGALIDADE DA TORNOZELEIRA ELETRÔNICA. FUNDAMENTAÇÃO IDÔNEA. RECURSO DESPROVIDO.
+I. CASO EM EXAME
+1. Agravo em Execução Penal interposto contra a decisão que manteve a imposição de monitoramento eletrônico como condição do regime aberto, na modalidade de Prisão Albergue Domiciliar (PAD). Pretende a sua reforma, sustentando a inexistência de fundamentação idônea e desnecessidade da medida, sob alegação de ressocialização.
+II. QUESTÃO EM DISCUSSÃO
+2. A questão em discussão consiste em verificar se deve ser mantido o monitoramento eletrônico como condição para o cumprimento do regime aberto em Prisão Albergue Domiciliar.
+III. RAZÕES DE DECIDIR
+3. A decisão agravada apresenta fundamentação concreta e suficiente, em observância ao artigo 93, inciso IX, da Constituição da República, levando em conta que o monitoramento eletrônico constitui condição regularmente imposta aos apenados em situação idêntica, em observância ao princípio da isonomia e à individualização da pena.
+4. O artigo 146-B, inciso IV, da Lei de Execução Penal, autoriza expressamente o juiz a determinar a fiscalização por meio de monitoração eletrônica quando fixada a prisão domiciliar.
+5. Na hipótese de déficit de vagas em Casa de Albergado no Estado, admite-se a prisão domiciliar com monitoramento eletrônico, como forma de assegurar a efetividade da execução penal e a fiscalização das condições impostas, na linha da jurisprudência consolidada do STJ.
+6. A retirada da tornozeleira eletrônica configura medida excepcional, cabível apenas em hipóteses devidamente comprovadas, como situações extremas ou questões de saúde, não bastando alegações genéricas de constrangimento, dificuldade laboral ou prejuízo ao convívio familiar.
+7. O monitoramento eletrônico não impede o exercício de atividade laborativa nem o convívio familiar, constituindo
+mecanismo de vigilância indireta compatível com o regime aberto e com o sistema progressivo da execução penal.
+8. A supressão de qualquer forma de fiscalização, diante do cumprimento da pena em residência particular, equivaleria, na prática, à execução sem controle estatal, esvaziando o conteúdo do regime aberto.
+IV. DISPOSITIVO E TESE
+10. Recurso desprovido. Tese de julgamento:
+1. O artigo 146-B, IV, da Lei de Execução Penal autoriza a imposição de monitoramento eletrônico como condição do regime aberto cumprido em prisão domiciliar.
+2. A retirada da tornozeleira eletrônica constitui medida excepcional e depende de justificativa concreta e idônea, não se admitindo com base em alegações genéricas de constrangimento ou desnecessidade.
+No presente writ, a defesa alega que há descumprimento, pela Vara de Execuções Penais do Rio de Janeiro, da recomendação de urgência fixada pelo Tribunal de origem para a submissão imediata do paciente a exame médico, persistindo inércia mesmo após decisão proferida em 15 de abril de 2026.
+Aduz que a letargia burocrática configura constrangimento ilegal, com risco iminente de mutilação do membro inferior do paciente, em razão de colapso circulatório agravado pelo equipamento de monitoramento eletrônico (e-STJ fls. 2/4).
+Sustenta que documentação da rede pública de saúde, com receituário de 4 de janeiro de 2026, atesta patologia vascular severa e tratamento farmacológico contínuo, incompatível com o garroteamento mecânico da tornozeleira (e-STJ fls. 3/4).
+Afirma que a manutenção do monitoramento, nas presentes condições, equivale a tratamento cruel e degradante, violando o art. 5º, III, da Constituição (e-STJ fls. 5/6).
+Requer a concessão de ordem liminar, inaudita altera pars, para determinar a imediata retirada do equipamento de monitoramento eletrônico no prazo de 24 horas. Pugna, subsidiariamente, pela realização de perícia médica em 48 horas, com autorização para comparecimento sem o artefato caso o inchaço inviabilize o exame. Pleiteia, no mérito, a confirmação da ordem, dispensando-se o monitoramento eletrônico e substituindo-o por condições ordinárias do regime aberto, tais como comparecimento regular em juízo e manutenção de endereço atualizado (e-STJ fls. 6/7).
+É o relatório. Decido.
+De plano, verifico que foi impetrado anteriormente perante esta Corte Superior o HC n. 1087557/RJ, também em benefício do ora paciente, o qual apontava como ato coator o mesmo acórdão ora impugnado (Agravo em Execução Penal nº 5019541-10.2025.8.19.0500), formulando-se o mesmo pedido, com fundamento na mesma causa de pedir, revelando-se, portanto, o presente mandamus mera reiteração.
+É "assente nesta eg. Corte que "Não se conhece de habeas corpus que objetiva mera reiteração de pedido analisado em recurso anteriormente interposto" (AgRg no HC n. 403.778/CE, Sexta Turma, Rel. Min. Rogerio Schietti Cruz, DJe de 10/8/2017)". (AgRg no HC n. 678.732/SP, relator Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), Quinta Turma, julgado em 5/10/2021, DJe de 8/10/2021.)
+No mesmo sentido:
+AGRAVO REGIMENTAL CONTRA DECISÃO QUE INDEFERIU LIMINARMENTE O WRIT. REITERAÇÃO DE PEDIDO DE RECONHECIMENTO DE COMPETÊNCIA DA JUSTIÇA CASTRENSE. COMPETÊNCIA DA JUSTIÇA COMUM RECONHECIDA POR ESTE COLEGIADO. IMPOSSIBILIDADE DE CONCESSÃO DE ORDEM DE HABEAS CORPUS CONTRA ATO PRÓPRIO. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. "É de se considerar que é pacífico o entendimento firmado nesta Corte de que não se conhece de habeas corpus cuja questão já tenha sido objeto de análise em oportunidade diversa, tratando-se de mera reiteração de pedido" (AgRg no HC n. 796.091/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe de 26/6/2023).
+2. Além de o HC n 765363/SP reiterar pedido já analisado pela Quinta Turma do Superior Tribunal de Justiça no julgamento do HC n. 764.059/SP, frise-se que este Colegiado se pronunciou pela competência da Justiça Comum quanto aos fatos delituosos apurados na Ação Penal 0010201-20.2016.8.26.0510 que tramitou perante a Segunda Vara Criminal da Comarca de Rio Claro/SP.
+Diante disso, é defeso a esta Corte Superior de Justiça julgar habeas corpus contra ato próprio, porquanto, à luz do art. 650, § 1º, do Código de Processo Penal - CPP, a competência para conhecer originalmente do pedido de habeas corpus cessará sempre que a violência ou coação provier de autoridade judiciária de igual ou superior jurisdição. Nesse sentido: AgRg no HC n. 272.077/PE, de minha relatoria, Quinta Turma, DJe de 19/10/2018 e RHC n. 39.858/TO, relatora Ministra Maria Thereza de Assis Moura, Sexta Turma, DJe de 4/11/2014.
+3. Agravo regimental ao qual se nega provimento.
+(AgRg no HC n. 765.363/SP, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 28/8/2023, DJe de 30/8/2023.)
+Pelo exposto, indefiro liminarmente o habeas corpus.
+Publique-se.
+EMENTA
