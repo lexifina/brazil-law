@@ -1,0 +1,47 @@
+DECISÃO
+Trata-se de habeas corpus com pedido de liminar impetrado em favor de WESLEY MATHEUS SANTOS BESSA em que se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO (Revisão Criminal n. 2390947-56.2024.8.26.0000).
+Consta dos autos que o paciente foi condenado às penas de 6 anos de reclusão em regime inicial fechado e de 600 dias-multa, como incurso nas sanções do art. 33, caput, da Lei n. 11.343/2006.
+Alega o impetrante que deve ser reconhecida a atenuante da confissão, pois o paciente teria admitido fatos relevantes no interrogatório, aplicando-se o Tema n. 1.194 do STJ e a Súmula n. 545 do STJ.
+Afirma que a causa de diminuição do tráfico privilegiado deve incidir, porque os fundamentos para afastá-la seriam genéricos e inidôneos, não evidenciando dedicação à atividade criminosa.
+Assevera que houve bis in idem na dosimetria, ao se usar a quantidade de droga para elevar a pena-base e, novamente, para afastar o privilégio.
+Aduz que o regime inicial fechado foi fixado apenas com base na hediondez, contrariando o Tema n. 972 do STF e as Súmulas n. 718 e 719 do STF.
+Defende que os acórdãos posteriores teriam inovado a fundamentação para manter o regime mais gravoso, o que seria indevido em recurso exclusivo da defesa.
+Pondera que não é possível complementar fundamentos a posteriori para suprir vício de motivação, citando precedentes que vedam tal prática.
+Requer, liminarmente e no mérito, o redimensionamento da pena com reconhecimento da atenuante da confissão e da minorante do tráfico privilegiado, e a alteração do regime inicial para o semiaberto (ou aberto, se cabível).
+É o relatório.
+É firme no Superior Tribunal de Justiça a compreensão de que o habeas corpus não pode ser utilizado como substitutivo do recurso legalmente previsto.
+No caso, apreciado pela instância de origem o pedido de revisão criminal, a impugnação deve ser feita por meio de recurso especial, nos termos previstos no art. 105, III, da Constituição Federal, por se tratar de "causas decididas, em única ou última instância, pelos Tribunais Regionais Federais ou pelos tribunais dos Estados, do Distrito Federal e Territórios".
+Nesse sentido: AgRg no HC n. 1.042.849/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 4/11/2025, DJEN de 12/11/2025; AgRg no HC n. 1.015.569/SP, relator Ministro Messod Azulay Neto, Quinta Turma, julgado em 24/9/2025, DJEN de 30/9/2025; e HC n. 988.028/SC, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 14/5/2025, DJEN de 21/5/2025.
+Por isso, e observado o princípio da unirrecorribilidade, a impetração é substitutiva de recurso próprio, razão pela qual do habeas corpus não se pode conhecer.
+Em atenção à previsão do art. 647-A do CPP, observo que não há flagrante ilegalidade que possa a autorizar a concessão da ordem de ofício.
+Quanto aos requerimentos de reconhecimento do tráfico privilegiado e de abrandamento do regime prisional, o pedido não pode ser apreciado.
+A matéria aqui suscitada foi objeto do HC n. 1.010.803/SP. Constata-se, assim, a inadmissível reiteração de pedido, pois não é possível obter nova análise sobre o mesmo caso nesta instância, observados os limites que norteiam o exercício da jurisdição.
+Esse é o sentido da jurisprudência do Superior Tribunal de Justiça:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. PRONÚNCIA TRANSITADA EM JULGADO. EXCESSO DE LINGUAGUEM. PRECLUSÃO. REITERAÇÃO DE PEDIDOS. MATÉRIA JÁ ANALISADA EM HABEAS CORPUS ANTERIOR. AGRAVO DESPROVIDO.
+1. O presente habeas corpus, distribuído em 7/2/2024, constitui mera reiteração do pedido formulado no HC 815846, de minha relatoria, não conhecido em 13/7/2023, isso porque há identidade de partes e da causa de pedir, impugnando os dois feitos o mesmo acórdão (Agravo regimental no HC 5012307-33.2022.8.08.0000).
+ ..
+3. Assim, esta Corte já proferiu decisão acerca da irresignação da defesa, motivo pelo qual é incabível um novo pronunciamento.
+4. Agravo regimental desprovido.
+(AgRg no HC n. 888.335/ES, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 13/5/2024, DJe de 15/5/2024 - grifo próprio.)
+AGRAVO REGIMENTAL EM HABEAS CORPUS NÃO CONHECIDO. REITERAÇÃO DE PEDIDOS. TRÁFICO DE DROGAS E ASSOCIAÇÃO PARA O MESMO FIM. ABSOLVIÇÃO QUANTO AO ART. 35 DA LEI N. 11.343/2006. SUPERVENIÊNCIA DE EXTINÇÃO DA PUNIBILIDADE PELO JUÍZO DA EXECUÇÃO. PERDA DO OBJETO. APLICAÇÃO DA CAUSA REDUTORA DA LEI DE DROGAS. REPETIÇÃO DE PRETENSÃO ANTERIOR JÁ ANALISADA PELO STJ. INADMISSIBILIDADE. PRECEDENTES.
+Agravo regimental parcialmente conhecido e, nessa extensão, improvido.
+(AgRg no HC n. 867.760/RS, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 2/9/2024, DJe de 6/9/2024 - grifo próprio.)
+AGRAVO REGIMENTAL NO AGRAVO REGIMENTAL NO HABEAS CORPUS. REITERAÇÃO DE PEDIDO. POSTULAÇÃO INDEFERIDA NO ÂMBITO DO SUPREMO TRIBUNAL FEDERAL. IMPOSSIBILIDADE DE CONHECIMENTO DO WRIT. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. A reiteração de pedido veiculado e denegado em impetração anterior torna inviável o conhecimento do habeas corpus. Contra essa decisão, a parte interpôs simultaneamente agravo regimental e impetrou habeas corpus perante o Supremo Tribunal Federal, onde, em espectro mais amplo, o relator assinalou a possibilidade de retroação da norma que altera as condições de procedibilidade da ação penal por crime de estelionato, mas consignou que, pela leitura dos autos, se observava que as vítimas demonstraram inequívoca intenção de ver iniciado o processo, a evidenciar a impropriedade do pedido.
+2. Caracterizada a indevida reiteração do pedido denegado no HC n. 748.052/SP e refutado o argumento de patente ilegalidade perante o Supremo Tribunal Federal (HC n. 228.361/SP), não é possível processar o habeas corpus para empreender outra análise sobre o mesmo tema.
+3. Agravo regimental não provido.
+(AgRg no AgRg no HC n. 819.396/SP, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 5/12/2023, DJe de 11/12/2023 - grifo próprio.)
+No que se refere ao pedido de reconhecimento da confissão espontânea, vê-se que a matéria não foi apreciada pela Corte de origem, o que impede o conhecimento do pedido pelo Superior Tribunal de Justiça, sob pena de indevida supressão de instância.
+Por fim, não há falar em existência de bis in idem, pois a exasperação da pena-base e a negativa da minorante do tráfico estão fundamentados em elementos distintos e idôneos, em conformidade com o que estabelece a Lei de Drogas e a jurisprudência do Superior Tribunal de Justiça. No ponto (fls. 104-105, destaquei):
+Na primeira fase, com base no artigo 42 da Lei Antidrogas em cotejo com o disposto no artigo 59 do Código Penal, a sentenciante entendeu adequado o aumento da pena-base em 1/5, por conta da quantidade de cocaína (50 quilos), fração proporcional e razoável, tendo em vista a maior potencialidade lesiva da conduta, com possibilidade de grande difusão do entorpecente, atingindo gravemente o bem jurídico tutelado, a saúde pública. O acréscimo revelou-se suficiente e necessário para reprovação e prevenção da conduta.
+Na segunda fase, ausentes circunstâncias agravantes ou atenuantes, a pena permaneceu inalterada.
+Na terceira fase, ausentes os requisitos legais, posto que reconhecida dedicação às práticas criminosas, apontou-se incabível a aplicação da causa de diminuição prevista no artigo 33, § 4º, da Lei Antidrogas.
+Extrai-se da sentença: Devido a grande quantidade de cocaína, 50 quilos de entorpecente com poder altamente vulnerante, não é possível que seja reconhecida a minorante prevista no § 4º, do artigo 33, da Lei 11.343/06, pois há indícios suficientes da dedicação a atividades criminosas e que integre organização criminosa, notadamente diante das trocas de mensagens no aparelho celular, o local declinado da comemoração de futebol, as dificuldades enfrentadas pela polícia em obter informações acerca de seus frequentadores, assim como os arquivos relativos a apostas de jogo de futebol, demonstrando arrecadação de valores incompatíveis com despretensiosos campeonatos de uma pequena comunidade (fl. 40).
+Consta, ainda, nas folhas 38 que: O laudo pericial do aparelho celular apreendido em sua posse não deixa dúvidas que o celular estava registrado em seu nome, onde a polícia identificou arquivos que confirmam seu envolvimento com o tráfico de drogas, áudios indicando corrupção de policiais e prevaricação, assim como conversas relacionadas a entrega de drogas, com "Neguinho", assim como a contabilidade de apostas em jogos de futebol altamente rentáveis, que demonstram ligação com organização criminosa a impor o afastamento do redutor legal (fls. 390/605).
+Do v. Acórdão rescindendo consta: Não é mesmo o caso de se aplicar o redutor previsto no § 4º, do artigo 33, da Lei nº 11.343/2006, pois, restou bem evidenciado pelas provas produzidas nos autos e já citadas exaustivamente, evidenciando o apelante dedicar-se a atividades criminosas (fl. 52).
+Verifica-se, portanto, que a negativa do privilégio não se baseou, apenas, na expressiva quantidade de cocaína apreendida com o peticionário, mas também em elementos constantes dos autos e expressamente indicados na sentença - que deve ser interpretada integralmente - no sentido de que o réu se dedicava a atividade criminosa.
+Em suma, nada mo dificando a conclusão pela impossibilidade de conhecimento do writ, conforme entendimento consolidado.
+Ante o exposto, nos termos do art. 210 do RISTJ, não conheço do habeas corpus.
+Cientifique-se o Ministério Público Federal.
+Publique-se. Intimem-se.
+EMENTA
