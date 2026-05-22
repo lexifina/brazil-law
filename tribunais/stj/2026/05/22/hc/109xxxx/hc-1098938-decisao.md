@@ -1,0 +1,17 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em nome de OZILEIA PEREIRA DE BRITO, presa preventivamente e acusada pela prática do crime de tráfico de drogas (Processo n. 0904952-07.2026.8.12.0800, da Vara de Garantias da comarca de Campo Grande/MS).
+A impetrante aponta como autoridade coatora o Tribunal de Justiça do Estado de Mato Grosso do Sul, que, em 11/5/2026, denegou a ordem por maioria, nos termos do voto do relator (HC n. 1407287-14.2026.8.12.0000).
+Alega ausência de fundamentação concreta do decreto preventivo, utilização indevida da gravidade abstrata do delito e da mera quantidade de droga, e não comprovação do periculum libertatis (fls. 6/8).
+Sustenta condições pessoais favoráveis - primariedade, residência fixa e emprego lícito -, bem como gestação e problemas de saúde, e defende a suficiência de medidas cautelares diversas da prisão.
+Em caráter liminar, pede a soltura para responder ao processo em liberdade; e, no mérito, requer a concessão definitiva da ordem para revogar a prisão preventiva, com eventual aplicação de cautelares do art. 319 do Código de Processo Penal.
+É o relatório.
+Infere-se dos autos que a prisão preventiva foi fundamentada na garantia da ordem pública, em razão da apreensão de 736 g de maconha, fracionada em 156 porções e acondicionada em sacos tipo zip lock, supostamente destinada à entrega remunerada a terceiro, além de referências extraídas do auto de prisão em flagrante e depoimentos policiais .
+No caso, embora a custódia cautelar esteja formalmente motivada, verifica-se que a paciente, em princípio, é tecnicamente primária (fl. 52), o delito foi praticado sem violência ou grave ameaça, e não há elementos concretos nos autos que indiquem sua vinculação a organização criminosa. De mais a mais, a quantidade de droga apreendida - 736 g de maconha, fracionada e m 156 porções - embora relevante, não se revela exorbitante a ponto de justificar, isoladamente, a manutenção da prisão preventiva, circunstâncias que evidenciam a adequação e suficiência da substituição da segregação por medidas cautelares diversas.
+Importante salientar que, com o advento da Lei n. 12.403/2011, a prisão cautelar passou a ser, mais ainda, a mais excepcional das medidas, devendo ser aplicada somente quando comprovada a inequívoca necessidade, devendo-se sempre verificar se existem medidas alternativas à prisão adequadas ao caso concreto (HC n. 305.905/SP, Relator Ministro SEBASTIÃO REIS JÚNIOR, Sexta Turma, julgado em 4/12/2014, DJe 17/12/2014) - (AgRg no RHC n. 210.080/RS, Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJEN 26/2/2025).
+Ante o exposto, concedo liminarmente a ordem para substituir a prisão cautelar imposta à paciente por medidas alternativas à prisão a serem estabelecidas e fiscalizadas pelo magistrado singular, salvo se a paciente estiver presa por outro motivo, podendo o Juízo de primeiro grau decretar novamente a segregação cautelar, desde que fundamentadamente.
+Comunique-se com urgência.
+Intime-se o Ministério Público estadual.
+Publique-se.
+EMENTA
+DIREITO PENAL E PROCESSUAL PENAL. HABEAS CORPUS. TRÁFICO DE DROGAS. PRISÃO PREVENTIVA. PACIENTE PRIMÁRIA. DELITO SEM VIOLÊNCIA OU GRAVE AMEAÇA. AUSÊNCIA DE VÍNCULO COM ORGANIZAÇÃO CRIMINOSA. QUANTIDADE NÃO EXORBITANTE. ADEQUAÇÃO DE MEDIDAS CAUTELARES DIVERSAS. EXCEPCIONALIDADE DA PRISÃO CAUTELAR. SUBSTITUIÇÃO POR MEDIDAS ALTERNATIVAS. PROPORCIONALIDADE.
+Ordem concedida liminarmente.
