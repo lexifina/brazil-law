@@ -1,0 +1,15 @@
+DECISÃO
+Cuida-se de reclamação, com pedido liminar, ajuizada por JANI CRISTINA GONÇALVES RUIZ para cassar decisão interlocutória proferida pelo r. Juízo da Vara Cível de São Mateus do Sul/PR em razão do alegado descumprimento de tese vinculante do Tema 1 do IAC/STJ (REsp 1.604.412/SC), no tocante ao reconhecimento da prescrição intercorrente em cumprimento de sentença.
+É o relatório.
+Decisão.
+De acordo com o art. 187 do Regimento Interno do Superior Tribunal de Justiça, para preservar a competência do Tribunal ou garantir a autoridade de suas decisões, caberá reclamação da parte interessada.
+Do exame dos autos não se constata a existência de decisão desta Corte proferida em benefício da ora Reclamante, cuja autoridade esteja sendo desrespeitada, de modo a autorizar o processamento da presente reclamação a fim de garanti-la.
+Na hipótese, a reclamante aponta descumprimento do Tema 1 do IAC/STJ (REsp 1.604.412/SC), porém não apresenta a tese vinculante de forma transcrita nem demonstra, de modo rigoroso, a correspondência entre a situação fática dos autos de origem e os parâmetros firmados naquele incidente.
+O ato impugnado, de 08/04/2026, enfrentou as alegações de nulidade de citação e de prescrição intercorrente, registrando a prática de atos executivos úteis e a observância dos arts. 256 e 257 do CPC e da Súmula 414/STJ.
+Além disso, a própria inicial informa a existência de Agravo de Instrumento pendente no Tribunal de Justiça do Paraná/PR, circunstância que evidencia o uso da reclamação como sucedâneo recursal, sem demonstração de ofensa direta e específica à autoridade de tese vinculante.
+Outrossim, o juízo de origem consignou, com apoio em precedentes do Superior Tribunal de Justiça, que a pretensão está sujeita ao prazo quinquenal do art. 206, § 5º, I, do Código Civil. Na mesma linha: AgRg no REsp 1207921/RS, Rel. Ministra Maria Isabel Gallotti, DJe 17/03/2015 ; AgRg no AREsp 477.258/DF, Rel. Min. Maria Isabel Gallotti, DJe 05/05/2014.
+Finalmente, o decisum reclamado destacou a existência de atos constritivos e expropriatórios contemporâneos, aptos a afastar a alegada paralisação por inércia do credor, tais como: i) bloqueio via SISBAJUD, com expedição de múltiplos alvarás de levantamento em 14/05/2025; ii) a decretação de indisponibilidade via CNIB e inscrições em cadastros de inadimplentes (SERASA/SERASAJUD); iii) a penhora de imóvel e sequência procedimental para avaliação e leilão, com nomeação de leiloeiro e intimações correlatas. Tais elementos infirmam a alegação de "inércia exclusiva" do exequente por prazo superior ao prescricional.
+2. Do exposto, nos termos do art. 34, XVIII, a, do RISTJ, indefiro liminarmente a presente reclamação.
+Por oportuno, previno a parte de que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar condenação às penalidades fixadas nos arts. 1.021, § 4º, ou 1.026, § 2º, ambos do CPC.
+Publique-se. Intimem-se. Após, arquivem-se.
+EMENTA
