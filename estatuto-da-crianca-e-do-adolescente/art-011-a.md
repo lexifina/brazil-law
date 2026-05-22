@@ -1,0 +1,4 @@
+Art. 11-A. É assegurado às crianças e aos adolescentes acesso a programas de saúde mental promovidos pelo Sistema Único de Saúde (SUS) para a prevenção e o tratamento de agravos de saúde mental.
+§ 1º Os programas de saúde mental para crianças e adolescentes promoverão a atenção psicossocial básica e especializada, de urgência e emergência, e a atenção hospitalar.
+§ 2º Os profissionais que atuam na prevenção e no tratamento de agravos de saúde mental que acometem crianças e adolescentes receberão formação específica e permanente para a detecção de sinais de risco, bem como para o acompanhamento que se fizer necessário.
+§ 3º É assegurado às crianças e aos adolescentes em situação de vulnerabilidade que estejam em tratamento de agravos de saúde mental o acesso a todos os recursos terapêuticos, de forma gratuita ou subsidiada, de acordo com as linhas de cuidado voltadas às suas necessidades específicas.
