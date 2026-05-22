@@ -1,0 +1,15 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em nome de MARCELO GOTZ, preso preventivamente no Estado do Rio Grande do Sul e investigado por suposta organização criminosa voltada à captação ilícita de credenciais mediante campanhas de phishing, com posterior comercialização de dados (Pedido de Prisão Preventiva n. 0002317-88.2026.8.27.2731, da 1ª Vara Criminal de Paraíso do Tocantins/TO).
+Os impetrantes apontam como autoridade coatora o Tribunal de Justiça do Estado do Tocantins, que, após indeferir a liminar do HC n. 0008905-10.2026.8.27.2700, recebeu pedido de reconsideração como agravo interno e indeferiu a suspensão do recambiamento, determinando o imediato prosseguimento da remoção do paciente ao Tocantins.
+Alegam, em síntese, ausência de fundamentação concreta, contemporânea e individualizada da prisão preventiva; transferência indevida de periculosidade técnica de corréu; insuficiência dos requisitos do art. 312 do Código de Processo Penal; violação ao art. 315, § 2º, pela utilização de cláusulas genéricas; suficiência de medidas cautelares patrimoniais, digitais e probatórias já implementadas para neutralizar riscos; ilegalidade do recambiamento interestadual imediato antes do julgamento colegiado; e omissão decisória do relator natural quanto ao pedido principal de revogação da prisão.
+Em caráter liminar, pedem revogação da prisão preventiva, com expedição de ordem de soltura; subsidiariamente, substituição por medidas cautelares diversas; e, ainda subsidiariamente, suspensão imediata do recambiamento até o julgamento colegiado do agravo interno pelo Tribunal de origem. No mérito, requerem a concessão da ordem com os mesmos efeitos.
+É o relatório.
+Na espécie, aplica-se o enunciado da Súmula 691/STF, observado também por esta Corte, segundo o qual não cabe habeas corpus contra o indeferimento de pedido liminar formulado no Tribunal a quo.
+Com efeito, as questões trazidas na impetração não foram ainda enfrentadas pelo colegiado competente, não se admitindo a pretendida supressão de instância.
+Esse posicionamento pode ser afastado apenas em situações excepcionais, se evidenciada dos autos a configuração de flagrante ilegalidade ou abuso de poder, o que não ocorreu no caso em tela, diante das particularidades mencionadas no decisum impugnado.
+O indeferimento liminar no Tribunal local fundamentou-se na inexistência de ilegalidade manifesta, destacando indícios de participação do paciente na estrutura investigada e a necessidade da custódia para a garantia da ordem pública e econômica e para a conveniência da instrução, além da regularidade do recambiamento com base no art. 289, § 3º, do Código de Processo Penal.
+Ante o exposto, com base no art. 210 do RISTJ, indefiro liminarmente a petição inicial do habeas corpus.
+Publique-se.
+EMENTA
+DIREITO PROCESSUAL PENAL. HABEAS CORPUS. PRISÃO PREVENTIVA. RECAMBIAMENTO. SÚMULA 691. INDEFERIMENTO DE LIMINAR NO TRIBUNAL DE ORIGEM. SUPRESSÃO DE INSTÂNCIA. AUSÊNCIA DE FLAGRANTE ILEGALIDADE. GARANTIA DA ORDEM PÚBLICA E ECONÔMICA. CONVENIÊNCIA DA INSTRUÇÃO. REGULARIDADE DO RECAMBIAMENTO.
+Petição inicial do habeas corpus indeferida liminarmente.
