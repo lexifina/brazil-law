@@ -1,0 +1,19 @@
+DECISÃO
+Trata-se de habeas corpus com pedido de liminar impetrado em favor de KELLI FERMIANO DA SILVEIRA, em que aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO (Agravo de Execução Penal nº 0003720-41.2026.8.26.0041).
+O Juízo da DEECRIM 1ª RAJ teria determinado a realização de exame criminológico sem fundamentação concreta.
+A paciente encontra-se recolhida no "CPP Dra. Marina Marigo Cardoso de Oliveira" (Butantã-SP), cumpre pena total de 14 anos, 10 meses e 8 dias, está em regime semiaberto e atingiu o lapso para o regime aberto em 28/02/2026 (fl. 3).
+A defesa alega ilegalidade e abuso do ato coator, afirmando, entre outros pontos, que acórdão incorreu em flagrante erro ao não conhecer do agravo; que houve fundamentação inidônea para a perícia; e que tudo isso impõe à paciente a permanência em regime mais gravo so ilegalmente.
+Requer liminarmente suspender a necessidade do exame criminológico. No mérito, anular o acórdão e determinar que a autoridade judicial analise o requisito subjetivo sem a imposição do exame, afastando a aplicação retroativa da Lei nº 14.843/2024.
+É o relatório. DECIDO.
+A controvérsia consiste na busca pela declaração de nulidade da decisão que determinou o exame criminológico para a progressão de regime.
+No entanto, o habeas corpus não comporta conhecimento, tendo em conta que a petição inicial não veio acompanhada da instrução minimamente necessária à compreensão da controvérsia, já que a defesa, por exemplo, não juntou a decisão do juiz, o histórico de faltas graves ou mesmo um acórdão que tenha tratado da matéria.
+Com efeito, assente nesta Corte que a instrução inadequada da ação mandamental conduz ao não conhecimento da impetração:
+ ..  em razão da celeridade do rito do habeas corpus, incumbe ao impetrante apresentar prova pré-constituída do direito alegado, sob pena de não conhecimento da impetração, não sendo atribuição desta Corte Superior a instrução do feito, ainda que por meio de consulta ao site do Tribunal de origem" (AgRg nos EDcl no HC n. 704.066/RJ, Quinta Turma, Rel. Min. Joel Ilan Paciornik, DJe de 15/2/2022, grifei).
+Isso porque a jurisprudência entende que o habeas corpus, por constituir ação mandamental cuja principal característica é a sumariedade, não possui fase instrutória, vale dizer:
+ ..  A adequada instrução do habeas corpus, ação de rito sumário e de limitado espectro de cognoscibilidade, é ônus do impetrante, sendo imprescindível que o mandamus venha aparelhado com provas documentais pré-constituídas, as quais devem viabilizar o exame das alegações veiculadas no writ" (STF, HC 197.833-AgR, Rel. Ministro LUIZ FUX - Presidente -, TRIBUNAL PLENO, julgado em 19/04/2021, DJe 12/05/2021). Assim, ao não zelar pela devida instrução do habeas corpus, a Defesa impede a apreciação do fundo da controvérsia. Exige-se que as cópias dos documentos essenciais à análise da controvérsia sejam acostadas aos autos pela Parte Impetrante, para que possam ser cotejados com as alegações defensivas - exame imprescindível para o reconhecimento, ou não, de que o direito invocado está constituído. Ademais, não pode ser transferido ao Superior Tribunal de Justiça o ônus de formar adequadamente os autos, como na verdade pretende o Recorrente (EDcl no AgRg no HC n. 797.698/SC, Sexta Turma, Relª. Minª. Laurita Vaz, DJe de 29/6/2023).
+No mesmo sentido: AgRg no HC n. 811.753/SP, Quinta Turma, Rel. Min. Ribeiro Dantas, DJe de 26/5/2023; e AgRg no HC n. 793.318/SP, Sexta Turma, Rel. Min. Jesuíno Rissato, Des. Convocado do TJDFT, DJe de 10/5/2023.
+Precedentes do Supremo Tribunal Federal: EDcl no AgRg no HC n. 213.797, Segunda Turma, Rel. Min. Nunes Marques, DJe de 26/10/2022; e AgRg no HC n. 223.487, Primeira Turma, Relª. Minª. Carmen Lúcia, DJe de 22/3/2023.
+Desta forma, o pedido aqui não comporta guarida.
+Ante o exposto, indefiro liminarmente o habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
