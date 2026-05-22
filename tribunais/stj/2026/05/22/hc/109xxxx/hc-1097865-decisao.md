@@ -1,0 +1,13 @@
+DECISÃO
+Trata-se de habeas corpus, impetrado em benefício de EMERSON DE JESUS DIAS SANTOS - condenado por homicídio qualificado tentado e associação para o tráfico de drogas à pena de 16 anos e 11 meses de reclusão e 530 dias-multa -, apontando como ato coator acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DO ESPÍRITO SANTO (Apelação Criminal n. 0027104-66.2018.8.08.0024).
+Busca a impetração a anulação do julgamento do Tribunal do Júri e a despronúncia do paciente, na condenação proferida na Ação Penal n. 0027104-66.2018.8.08.0024, que tramitou perante a 1ª Vara Criminal da comarca de Vitória/ES, alegando decisão manifestamente contrária à prova dos autos, por ausência de elementos probatórios idôneos.
+Sem pedido liminar.
+É o relatório.
+O writ é inadmissível, uma vez que se trata de impetração destinada a revisar novamente a condenação imposta e mantida pelas instâncias ordinárias, e não se verifica a ocorrência de flagrante constrangimento ilegal apto a subsidiar a superação do óbice.
+No caso, o Tribunal de Justiça afastou a alegação de decisão manifestamente contrária à prova dos autos, ao fundamento de que há suporte probatório suficiente - laudos, autos de apreensão, prontuário médico, e prova testemunhal produzida sob contraditório -, e que, diante da soberania dos veredictos, é lícito aos jurados optar por versão verossímil constante dos autos (fls. 31/36), em consonância com o entendimento desta Corte Superior, segundo o qual somente se anula o julgamento do júri quando o veredicto não encontra nenhum apoio nas provas.
+Igualmente, quanto ao apontado uso de elementos inquisitoriais e declarações genéricas, o acórdão destacou a existência de depoimentos colhidos em juízo sob contraditório (v.g., Cleiton Santana e Leandro Santana), além da confissão do corréu, e diversos elementos materiais, concluindo pela suficiência do conjunto probatório para amparar a versão acolhida pelos jurados (fls. 32/35), seguindo o entendimento deste Tribunal de que a revisão da valoração das provas demandaria reexame aprofundado do acervo fático-probatório, inviável na via estreita do habeas corpus.
+Em razão disso, indefiro liminarmente a inicial (art. 210 do RISTJ).
+Publique-se.
+EMENTA
+PENAL. HABEAS CORPUS. HOMICÍDIO QUALIFICADO TENTADO E ASSOCIAÇÃO PARA O TRÁFICO DE DROGAS. PRETENSÃO DE REVISÃO DA CONDENAÇÃO IMPOSTA E MANTIDA PELAS INSTÂNCIAS ORDINÁRIAS. UTILIZAÇÃO INDEVIDA DO WRIT. INVIABILIDADE. ALEGAÇÃO DE DECISÃO MANIFESTAMENTE CONTRÁRIA ÀS PROVAS DOS AUTOS. ENTENDIMENTO DIVERSO. REVOLVIMENTO DE FATOS E PROVAS. IMPOSSIBILIDADE. CONSTRANGIMENTO ILEGAL MANIFESTO. AUSÊNCIA.
+Inicial indeferida liminarmente.
