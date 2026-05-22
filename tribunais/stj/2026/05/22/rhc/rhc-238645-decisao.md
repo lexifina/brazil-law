@@ -1,0 +1,14 @@
+DECISÃO
+SAMIR SANTOS JUSTINO alega ser vítima de coação ilegal em decorrência de acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo, que não conheceu do Habeas Corpus n. 2045316-94.2026.8.26.0000.
+Consta dos autos que o recorrente foi condenado por tráfico de drogas e associação para o tráfico - em decisão já transitada em julgado.
+No recurso em habeas corpus, a defesa pede seja reconhecida ilegalidade no ingresso domiciliar, "declarando-se a nulidade do acervo probatório subsequente e, por consequência, o trancamento da ação penal ou a cassação da condenação imposta ao Recorrente" (fl. 885). Subsidiariamente, requer "seja reconhecida a insuficiência probatória em relação específica a SAMIR, com sua absolvição" (fl. 885).
+Decido.
+O Tribunal de origem não conheceu do habeas corpus lá impetrado nos seguintes termos (fls. 867-868, grifei):
+Assim, julgados os recursos interpostos pelo paciente e pelos corréus e, de forma fundamentada, mantida condenação com o redimensionamento das penas, tendo transitado em julgado tal decisão, não é possível aqui reexaminar a prova ou a dosimetria das penas, porquanto ao julgar a apelação esta Câmara esgotou sua função jurisdicional, não sendo possível reapreciar o já decidido, mesmo porque este Tribunal, por força dessa decisão, tornou-se autoridade coatora, de modo que não se pode conhecer liminarmente deste pedido de "habeas corpus".
+ ..
+Sendo assim, agora só cabe ao paciente intentar ação de revisão criminal perante este augusto Tribunal de Justiça ou as medidas judiciais que entenda cabíveis junto à egrégia Instância Superior, demonstrando esteja a padecer de constrangimento ilegal em decorrência do que foi decidido por esta Corte Estadual.
+De fato, esta Corte, em diversas ocasiões, reconheceu a impossibilidade de uso do habeas corpus concomitante à interposição de recurso especial ou em substituição à revisão criminal, posicionando-se no sentido de que "o trânsito em julgado do acórdão que julga a apelação criminal, sem que haja a inauguração da competência deste Sodalício, torna incognoscível o pedido de habeas corpus" (AgRg no HC n. 805.183/SP, Rel. Ministro Teodoro Silva Santos, 6ª T., julgado em 12/3/2024, DJe de 15/3/2024).
+Correto o Tribunal de origem, portanto, ao não conhecer do habeas corpus, sob o argumento de que, "tendo transitado em julgado tal decisão, não é possível aqui reexaminar a prova ou a dosimetria das penas, porquanto ao julgar a apelação esta Câmara esgotou sua função jurisdicional, não sendo possível reapreciar o já decidido, mesmo porque este Tribunal, por força dessa decisão, tornou-se autoridade coatora, de modo que não se pode conhecer liminarmente deste pedido de "habeas corpus"" (fl. 868).
+À vista do exposto, indefiro liminarmente o recurso em habeas corpus.
+Publique-se e intimem-se.
+EMENTA
