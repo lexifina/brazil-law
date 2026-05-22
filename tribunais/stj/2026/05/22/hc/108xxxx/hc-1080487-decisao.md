@@ -1,0 +1,45 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido de liminar, impetrado em favor de MICHAEL JACKSON SOUZA RODRIGUES DE OLIVEIRA contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO DE JANEIRO na Apelação Criminal n. 0034529-66.2025.8.19.0001.
+Depreende-se dos autos que o Tribunal de origem deu provimento ao recurso do Ministério Público, reformando a sentença absolutória para condenar o ora paciente pelos crimes de constituição de milícia privada (art. 288-A do Código Penal), receptação (art. 180, caput, do Código Penal) e adulteração de sinal identificador de veículo (artigo 311, § 2º, III, do Código Penal), fixando as penas definitivas em concurso material no total de 8 (oito) anos, 2 (dois) meses e 21 (vinte e um) dias de reclusão, em regime inicial fechado (fls. 10-60).
+Nesta impetração, a Defesa sustenta, em síntese, a atipicidade da conduta, afirmando que a ausência de placa corresponde a infração administrativa tipificada no art. 230, IV, do Código de Trânsito Brasileiro - CTB, invocando a necessidade de interpretação restritiva das normas penais incriminadoras e o princípio da legalidade estrita (fls. 2 a 7).
+Requer, assim, liminarmente, a sustação dos efeitos da condenação até o julgamento do mérito, pois o decote da condenação pelo art. 311, § 2º, III, do Código Penal poderá alterar até mesmo o regime inicial de cumprimento de pena. No mérito, pugna pela concessão da ordem para desconstituir parcialmente o acórdão, afastando a condenação pelo delito de adulteração de sinal identificador de veículo (fls. 7-8).
+O pedido de liminar foi indeferido às fls. 808-809.
+As informações solicitadas foram recebidas e acostadas às fls. 819-829.
+O Ministério Público Federal manifestou-se pela denegação da ordem, conforme parecer de fls. 832-836.
+É o relatório. DECIDO.
+A presente impetração investe contra acórdão, funcionando como substituto do recurso próprio, motivo pelo qual não deve ser conhecida.
+A Terceira Seção, no âmbito do HC n. 535.063/SP, de relatoria do Ministro Sebastião Reis Júnior, julgado em 10/6/2020, e o Supremo Tribunal Federal, no julgamento do AgRg no HC n. 180.365/PB, de relatoria da Ministra Rosa Weber, julgado em 27/3/2020, consolidaram a orientação de que não cabe habeas corpus substitutivo ao recurso legalmente previsto para a hipótese, impondo-se o não conhecimento da impetração, salvo quando constatada a existência de flagrante ilegalidade no ato judicial impugnado.
+De todo modo, cotejando as alegações deduzidas na inicial, não verifico a presença de coação ilegal que desafie a concessão da ordem, de ofício, nos termos do parágrafo 2º do artigo 654 do Código de Processo Penal.
+Confiram-se os seguintes trechos do aresto da apelação, in verbis (fls. 47-54):
+Do crime de adulteração de sinal identificador de veículo
+Os apelados foram presos em flagrante delito quando estavam na posse da motocicleta YAMAHA, cor branca, ano 2019, chassi nº 9C6DG2570K0002399, produto de roubo (RO nº 029-12729/2024), sendo certo que a motocicleta estava sem placa, conforme afere-se do Laudo de Exame Pericial de Adulteração de Veículos (fls. 219/220).
+ ..
+Assim, acerca do crime Adulteração de Sinal Identificador de Veículo, faço as seguintes considerações.
+Como sabido, o princípio da legalidade é basilar do direito penal. Previsto na Constituição Federal, o mesmo vem consagrado no inciso II, do artigo 5º, dispondo que "ninguém será obrigado a fazer ou deixar de fazer alguma coisa senão em virtude de lei". Ainda na CR/88, o princípio da legalidade está previsto no inciso XXXIX, do artigo 5º, dispondo que "não há crime sem lei anterior que o defina, nem pena sem prévia cominação legal".
+Também conhecido como princípio da reserva legal, a necessidade da previsão anterior de condutas criminosas para que assim elas sejam consideradas, garante a irretroatividade da lei penal, salvo quando benéfica, e a clareza na formulação dos tipos penais, gerando, assim, sua taxatividade.
+Como consequência deste princípio, é vedada a analogia em norma incriminadora quando prejudicial ao acusado.
+Rogério Greco, em poucas palavras sintetiza a o objetivo da reserva legal introduzida nos ordenamentos jurídicos dos Estados Modernos: "Por intermédio da lei, existe a segurança jurídica do cidadão de não ser punido e não houver uma previsão legal criando um tipo incriminador, ou seja, definindo as condutas proibidas (comissivas ou omissivas), sob a ameaça de sanção. (2004, p.106)".
+Resta claro, assim, que tal princípio é um limite ao exercício do jus puniendi, na medida em que o magistrado está completamente adstrito aos preceitos legais quanto a determinação da conduta criminosa e as suas sanções.
+Nesse diapasão, cabe a análise do artigo 311, do Código Penal que dispõe:
+"Art. 311 do CP. Adulterar, remarcar ou suprimir número de chassi, monobloco, motor, placa de identificação, ou qualquer sinal identificador de veículo automotor, elétrico, híbrido, de reboque, de semirreboque ou de suas combinações, bem como de seus componentes ou equipamentos, sem autorização do órgão competente.
+Pena - reclusão, de três a seis anos, e multa."
+Cabe, desde já, esclarecer que a conduta de "suprimir" significa abolir, eliminar, extinguir, cortar, retirar, excluir, omitir e riscar, sinal identificador do veículo automotor, impedindo, assim, a sua identificação, o que viola o bem jurídico tutelado, a fé pública.
+Registre-se que a amplitude do verbo "suprimir" contempla qualquer forma de adulteração ou de remoção do sinal identificador do veículo automotor, inclusive a sua ocultação através de modificação.
+Assim, é cediço que a placa é sinal identificador externo obrigatório do veículo, nos termos do art. 115 do Código de Trânsito Brasileiro. Portanto, o agente que conduz veículo automotor sem a placa de identificação, como na presente hipótese, onde a placa da motocicleta foi suprimida, dificultando assim a sua identificação, sem dúvidas, comete, em tese, a conduta tipificada no artigo 311, §2º, III, do Código Penal.
+ ..
+Destarte, o inciso III do parágrafo segundo do artigo 311 do CP, assim estabelece:
+"(..); § 2º - Incorrem nas mesmas penas do caput deste artigo:
+III - aquele que adquire, recebe, transporta, conduz, oculta, mantém em depósito, desmonta, monta, remonta, vende, expõe à venda, ou de qualquer forma utiliza, em proveito próprio ou alheio, veículo automotor, elétrico, híbrido, de reboque, semirreboque ou suas combinações ou partes, com número de chassi ou monobloco, placa de identificação ou qualquer sinal identificador veicular que devesse saber estar adulterado ou remarcado.
+Assim, entendo, que os ora apelados praticaram a conduta descrita no artigo 311, §2º, III do CP, tal como descrito na r. denúncia, razão pela qual a sentença deve ser reformada neste tocando, condenando-os por tal prática.
+Com efeito, o art. 311 do Código Penal foi alterado, em 27/4/2023, pela Lei n. 14.562/2023 e passou a prever que é crime "suprimir" placa de identificação, ou qualquer sinal identificador de veículo automotor, sem autorização do órgão competente.
+O verbo "suprimir" significa eliminar, fazer desaparecer, retirar, extinguir. Em sua acepção jurídico-penal, abrange tanto a supressão parcial (eliminação de parte dos números ou caracteres da placa) quanto a supressão total (retirada completa da placa).
+Logo, quem retira a placa do veículo, sem autorização do órgão competente, pratica o crime previsto no art. 311 do Código Penal, desde que os fatos tenham ocorrido após a edição da Lei n. 14.562/2023, como no caso dos autos.
+A interpretação restritiva proposta pela Defesa não encontra respaldo na literalidade da norma, nem em sua finalidade protetiva. Pelo contrário, uma hermenêutica teleológica revela que o bem jurídico tutelado - a autenticidade e integridade dos sinais identificadores de veículos - é igualmente violado nas duas hipóteses.
+O crime previsto no art. 311, caput, do Código Penal visa proteger a fé pública relacionada aos sinais identificadores de veículos automotores, garantindo a autenticidade e a confiabilidade dos sistemas de identificação veicular.
+Tal proteção é essencial para a ordem pública, a segurança das relações jurídicas envolvendo veículos e o combate à criminalidade patrimonial, especialmente crimes como furto, roubo e receptação de veículos.
+Assim, a placa de identificação constitui elemento essencial para a identificação do veículo perante os órgãos de trânsito e de segurança pública. Sua retirada completa compromete tanto quanto sua adulteração parcial a função identificadora que lhe é inerente.
+No caso dos autos, portanto, a retirada completa da placa enquadra-se perfeitamente na modalidade "suprimir" prevista expressamente no art. 311, após a redação dada pela Lei n. 14.562/2023. Portanto, a conduta não é atípica e nem se enquadra apenas como infração administrativa tipificada no art. 230, IV, do Código de Trânsito Brasileiro - CTB.
+Desta forma, o referido pedido trazido nesta impetração não comporta guarida sob nenhuma vertente.
+Ante o exposto, não conheço do presente habeas corpus.
+Publique-se. Intimem-se.
+ EMENTA
