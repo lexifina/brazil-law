@@ -1,0 +1,12 @@
+# Altera a Lei nº 9.797, de 6 de maio de 1999, para incluir a garantia de assistência fisioterapêutica aos pacientes submetidos a cirurgia de mastectomia (Lei nº 15.267, de 21/11/2025)
+
+L15267 · 1 versions, from 2026-05-23 (latest in force: 2026-05-23) · <https://normas.leg.br/?urn=urn:lex:br:federal:lei:2025-11-21;15267>
+
+Text: normas.leg.br (Congresso Nacional), CC BY 4.0, the text as published. Earlier versions are not in this record yet.
+
+| Provision | File | Changes | Last changed |
+| --- | --- | ---: | --- |
+| art-001 | [art-001.md](art-001.md) | 0 |  |
+| art-002 | [art-002.md](art-002.md) | 0 |  |
+| art-003 | [art-003.md](art-003.md) | 0 |  |
+| preambulo | [preambulo.md](preambulo.md) | 0 |  |
