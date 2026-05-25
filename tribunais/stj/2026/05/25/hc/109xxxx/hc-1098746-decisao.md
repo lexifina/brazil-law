@@ -1,0 +1,26 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de REGINALDO FRANCISCO CORREA CAMPOS, apontando como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DO PARÁ, no bojo da Apelação Criminal n. 0000150-68.2010.8.14.0097, em que se alega mora e omissão no cumprimento de ordem proferida por este Superior Tribunal de Justiça no HC n. 1086902/PA.
+Consta dos autos que o paciente responde à ação penal pela suposta prática de tentativa de homicídio qualificado, com absolvição imprópria em primeiro grau em razão de inimputabilidade e imposição de medida de segurança de internação com prazo mínimo de 3 (três) anos, nos termos do art. 97, § 1º, do Código Penal, mantida, em sede de apelação, por acórdão da Primeira Turma de Direito Penal do TJPA, que conheceu e negou provimento ao recurso defensivo, preservando a internação ante a periculosidade concreta delineada no histórico comportamental e nos elementos clínicos dos autos.
+No presente writ, a defesa alega que, em 22 de abril de 2026, este STJ, no HC n. 1086902/PA, teria concedido parcialmente a ordem para anular o acórdão anterior do TJPA e determinar novo julgamento da apelação criminal, com consideração do fato superveniente da alta médica e admissão da documentação sob contraditório, porém a autoridade apontada como coatora permanece inerte, mantendo o processo "concluso" e sem qualquer impulsionamento, o que configuraria omissão ilegal e mora judicial após a publicação da decisão, inclusive diante de petições protocoladas em 28 de abril de 2026 e 4 de maio de 2026 que não teriam sido apreciadas.
+Sustenta que a permanência da internação, diante da anulação do título decisório e da alta clínica, representa flagrante ilegalidade e abuso de poder, aptos a mitigar a incidência da Súmula n. 691 do Supremo Tribunal Federal, por se tratar de situação excepcional de constrangimento ilegal.
+Argumenta, ainda, que a manutenção do paciente em ambiente hospitalar sem finalidade terapêutica viola a dignidade da pessoa humana, a duração razoável do processo e as diretrizes da Resolução do Conselho Nacional de Justiça n. 487/2023, sendo necessária a concessão de tutela liminar humanitária para cessar o constrangimento.
+Aponta que foram juntadas provas fotográficas atualizadas, com relatório de constatação visual, que evidenciariam o agravamento do quadro físico e mental do paciente.
+Ressalta, por fim, que a segregação sem título judicial válido e a paralisação do processo, sem contribuição defensiva, impõem o relaxamento da custódia, com aplicação de tratamento ambulatorial na Rede de Atenção Psicossocial.
+Requer a concessão da ordem para determinar a imediata expedição de alvará de soltura em favor do paciente e seu encaminhamento a tratamento ambulatorial na Rede de Atenção Psicossocial, bem como a cessação da omissão atribuída ao TJPA.
+Subsidiariamente, pugna pela habilitação do advogado indicado e pela confirmação, no mérito, da permanência do paciente em liberdade até o novo julgamento.
+É o relatório.
+Decido.
+O habeas corpus não comporta conhecimento, pois eventual descumprimento de decisão proferida por esta Corte Superior deve ser alegado em sede de reclamação, nos termos do art. 105, inciso I, alínea f, da Constituição da República.
+Nesse sentido:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO PENAL. LIVRAMENTO CONDICIONAL. RECURSO INTERPOSTO POR ADVOGADO SEM PROCURAÇÃO NOS AUTOS. AUSÊNCIA DE IMPUGNAÇÃO AOS FUNDAMENTOS DA DECISÃO AGRAVADA. AGRAVO REGIMENTAL QUE SE INSURGE CONTRA NOVA DECISÃO PROFERIDA PELO JUÍZO DE PRIMEIRO GRAU. SUPRESSÃO DE INSTÂNCIA. DESCUMPRIMENTO DE DECISÃO PROFERIDA POR ESTA CORTE. VIA INADEQUADA. AGRAVO REGIMENTAL NÃO CONHECIDO.
+ ..
+2. Ainda que se considere que o presente recurso se insurja contra o descumprimento da decisão proferida por esta Corte, melhor sorte não socorre o paciente, isso, porque, nos termos da orientação deste Tribunal, "não se conhece de writ que trata de descumprimento de decisão judicial, pois a alegação deve ser dirimida mediante Reclamação" (HC 306.138/PR, relator o Ministro Jorge Mussi, Quinta Turma, julgado em 20/10/2016, DJe de 26/10/2016).
+3. Agravo regimental não conhecido. (AgRg no HC n. 848.265/SP, relatora Ministra Daniela Teixeira, Quinta Turma, julgado em 9/9/2024, DJe de 11/9/2024; sem grifos no original.)
+AGRAVO REGIMENTAL NO HABEAS CORPUS. DESCUMPRIMENTO DE DECISÃO DO STJ. VIA INADEQUADA. REITERAÇÃO. PEDIDO DE RECONHECIMENTO DE PRESCRIÇÃO. SUPRESSÃO DE INSTÂNCIA. AGRAVO DESPROVIDO.
+1. "A reclamação é o meio cabível para se buscar a preservação da competência das Cortes Julgadoras, bem como a autoridade de suas decisões, caso haja descumprimento de determinação judicial, ou cumprimento em desacordo com os limites do julgado." (HC n. 14.727/RJ, relator Ministro Gilson Dipp, Quinta Turma, julgado em 7/6/2001, DJ de 27/8/2001, p. 358).
+(..)
+4. Agravo regimental desprovido. (AgRg no HC n. 815.503/SP, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 14/8/2023, DJe de 16/8/2023; sem grifos no original.)
+Com igual conclusão, destaco a seguinte decisão monocrática: PET no HC n. 1.052.138/SP, relator Ministro Rogerio Schietti Cruz, DJEN de 06/05/2026.
+Ante o exposto, não conheço do habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
