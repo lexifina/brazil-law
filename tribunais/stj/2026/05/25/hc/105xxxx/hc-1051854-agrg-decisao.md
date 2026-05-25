@@ -1,0 +1,53 @@
+DECISÃO
+Trata-se de agravo regimental interposto por VALCLERIO SCHWANZ DUBBERSTEIN contra decisão monocrática que não conheceu do habeas corpus, mantendo o indeferimento de autorização para trabalho externo.
+O agravante alega que já vem exercendo atividade laboral de forma exemplar desde o final de 2023, e está submetido a monitoramento eletrônico e prévia comunicação de deslocamentos ao juízo. Destaca que a flexibilização da rota de deslocamentos, duas vezes por semana a pedido do empregador, não seria ampliação indevida da liberdade, mas sim uma medida pontual, condicionada e compatível com as possibilidades de fiscalização estatal. Nesse contexto, argumenta que não há razão para presumir risco à execução penal, e que a decisão do Tribunal de origem esvaziaria a função ressocializadora do instituto.
+Busca a reconsideração ou remessa do feito ao colegiado, para restabelecer a decisão de piso que concedeu-lhe o benefício.
+É o relatório.
+DECIDO.
+No tópico, a decisão combatida assim dispôs (fl. 588):
+Nos termos da jurisprudência dessa Corte, a autorização judicial para o trabalho externo não é automática com a progressão de regime semiaberto, devendo ser analisado o preenchimento dos requisitos subjetivos, como disciplina, aptidão, responsabilidade e possibilidade de fiscalização.
+No caso dos autos, o Tribunal de Justiça apontou que o deslocamento para outra comarca, ainda que mediante prévio aviso à unidade prisional pelo empregador, seria "extrapolar os limites da execução da pena, considerando que é o reeducando quem deve se adequar às condições impostas"
+Em complemento, o MPF destacou em seu parecer (fl. 578; grifos acrescidos):
+Não se olvida que o desempenho de trabalho externo é de suma importância ao processo de ressocialização, sendo, por isso, não apenas um dever social, mas um direito do Reeducando, nos termos do art. 41, II, da LEP.
+Contudo, ainda que o Paciente venha desempenhando regularmente o benefício do trabalho extramuros que lhe foi concedido, o exercício de atividade fora da Comarca onde cumpre pena coloca em cheque a possibilidade de adequada fiscalização e controle por parte da administração penitenciária.
+A propósito, mesmo que haja monitoramento eletrônico do Apenado - situação, por sinal, que não está suficientemente claro nos autos -, as possíveis diversidades de rotas entre as comarcas, inclusive com possível ausência de sinal de GPS, dificultaria, por certo, o eficiente monitoramento estatal.
+Ademais, pontua-se que o indeferimento da autorização não leva à impossibilidade de realização de trabalhe extramuros pelo Paciente, mas tão apenas que não sejam extrapolados os limites que possam colocar em cheque a fiscalização
+Como se vê, o Tribunal de Justiça aventou a possibilidade de que a fiscalização pudesse ficar comprometida, destacando o fato de que o apenado é quem deve se submeter às condições impostas. O Ministério Público esclareceu não saber ao certo se o apenado estava realmente submetido ao monitoramento eletrônico.
+Por sua vez, a decisão que deferiu a flexibilização do trabalho externo assim dispôs: (fls. 40-41):
+De início, quanto ao pedido de rota livre formulado, não vejo óbice.
+Assim é porque o reeducando já está beneficiado com o trabalho externo desde 01/12/2023, sem comunicação de qualquer falha e/ou descumprimento desde então.
+A razão do pedido resta esclarecida no documento carreado  115.1 , no qual o próprio empregador confirma a necessidade do funcionário, ora reeducando, de se deslocar até Pimenta Bueno/RO, duas vezes na semana para o transporte de água mineral até o depósito.
+Assim, diante dos esclarecimentos prestados pelo empregador, e termos do Portaria nº 06/2019, em vigência, não obstante o parecer ministerial desfavorável, DEFIRO o pedido de ROTA LIVRE ESPECIAL formulado pela defesa do reeducando.
+Em consequência, AUTORIZO o reeducando VALCLERIO SCHWANZ DUBBERSTEIN a deslocar-se duas vezes na semana até a Distribuidora de Água Lind"água, Rua Lôbo Dalmata, 165, em Pimenta Bueno/RO, mediante prévia comunicação pelo empregador ao setor de monitoramento/Casa de Prisão Albergue, ainda que via whatsapp.
+Como se vê, a mesma Vara Criminal de Cacoal-RO deferiu anteriormente a rota livre "para que o apenado seja inserido no trabalho externo, mediante monitoração eletrônica, e advertido das regras do regime semiaberto desta Comarca." (fl. 322; grifos acrescidos).
+P ortanto, a controvérsia reside em determinar se a flexibilização da rota para trabalho externo implica em prejuízo à fiscalização da pena do reeducando.
+Em casos semelhantes, a jurisprudência desta Corte entende que se deve privilegiar a convicção do juízo de primeira instância, por estar mais próximo das partes e dos fatos. Confira-se:
+DIREITO PENAL E PROCESSUAL PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO PENAL. REGIME SEMIABERTO HARMONIZADO. TRABALHO EXTERNO COM MONITORAMENTO ELETRÔNICO. FUNDAMENTOS INIDÔNEOS PARA A CASSAÇÃO DO BENEFÍCIO. AGRAVO REGIMENTAL NÃO PROVIDO.
+I. CASO EM EXAME
+1. Agravo regimental interposto pelo Ministério Público contra decisão que concedeu ao paciente, condenado por crime hediondo e cumprindo pena em regime semiaberto, a autorização para trabalho externo com monitoramento eletrônico e recolhimento domiciliar noturno (regime semiaberto harmonizado). O Tribunal de Justiça revogou o benefício ao fundamento de que o apenado permaneceu pouco tempo no regime semiaberto convencional, considerando o caráter retributivo da pena e a previsão de progressão ao regime aberto apenas para 2026.
+II. QUESTÃO EM DISCUSSÃO
+2. Há duas questões em discussão: (i) verificar se a revogação do regime semiaberto harmonizado pelo Tribunal de origem está devidamente fundamentada e (ii) estabelecer se o benefício concedido pelo Juízo da execução penal deve ser restabelecido.
+III. RAZÕES DE DECIDIR
+3.. A gravidade abstrata do crime, o tempo de cumprimento da pena no regime semiaberto e a longevidade da pena privativa de liberdade não são fundamentos idôneos para a cassação do benefício, conforme jurisprudência do Superior Tribunal de Justiça.
+4. O juízo da execução, mais próximo à realidade do cumprimento da pena, constatou que o apenado possui bom comportamento carcerário, sem faltas disciplinares, além de ter apresentado proposta formal de trabalho externo.
+5. O regime semiaberto harmonizado não configura progressão antecipada ao regime aberto, sendo compatível com a Súmula Vinculante nº 56 do STF e com as diretrizes fixadas no RE 641.320/RS, que prevê a possibilidade de flexibilização do regime em razão da superlotação carcerária e da ausência de vagas em estabelecimento adequado.
+6. A decisão do Tribunal de origem contrariou precedentes do Supremo Tribunal Federal e do Superior Tribunal de Justiça, pois desconsiderou as diretrizes estabelecidas para a execução penal e impôs restrição não prevista em lei.
+IV. DISPOSITIVO
+7. Agravo regimental não provido.
+(AgRg no HC n. 930.800/PE, relatora Ministra Daniela Teixeira, Quinta Turma, julgado em 26/2/2025, DJEN de 5/3/2025).
+Na hipótese, após análise mais detida dos fatos, considerando-se que o juízo da execução não vislumbrou a dificuldade conjecturada pelo Tribunal, destacando que o apenado vem cumprindo as condições do trabalho externo de maneira exemplar desde 2023, sem registro de qualquer intercorrência, julgando suficiente a comunicação prévia pelo empregador ao setor do monitoramento da unidade prisional - entendimento que encontra amparo na jurisprudência desta Casa, não se constata a aludida impossibilid ade concreta de fiscalização pelo Estado, razão pela qual, deve ser revisto o entendimento firmado na decisão agravada para restabelecer a decisão do juízo de primeiro grau.
+Na mesma linha, ilustrativamente:
+AGRAVO REGIMENTAL EM HABEAS CORPUS. EXECUÇÃO PENAL. REGIME SEMIABERTO. TRABALHO EXTRAMUROS. GRAVIDADE ABSTRATA DO DELITO, QUANTIDADE REMANESCENTE DA PENA E DIFICULDADE DA FISCALIZAÇÃO. DISTÂNCIA ENTRE O LOCAL DE CUMPRIMENTO E O LOCAL DE TRABALHO. FUNDAMENTAÇÃO INIDÔNEA. CUMPRIMENTO TODAS AS CONDIÇÕES DURANTE PERÍODO RAZOÁVEL. MONITORAÇÃO ELETRÔNICA QUE SE MOSTROU EFICAZ. PRECEDENTES. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. Nos termos da jurisprudência desta Corte Superior, há muito sedimentada, a impossibilidade de fiscalização do trabalho externo pleiteado por apenado do regime semiaberto impede a autorização do benefício, exigindo-se, para a concessão, que sua realização demonstre compatibilidade com a fiscalização do cumprimento da pena exigida pela Lei de Execução Penal. Precedentes.
+2. A permissão para trabalho externo está subordinada à capacidade e à disponibilidade de vigilância do Poder Público, considerada a possibilidade de fuga, e, ainda, à fiscalização estatal, no exercício do poder disciplinar sobre os apenados em cumprimento de pena. Precedentes.
+3. Na hipótese, o agravante aduziu uma suposta dificuldade na fiscalização do trabalho externo desempenhado pelo apenado em virtude da forma de execução das atividades, inviabilizando a efetiva fiscalização pelo Estado, uma vez que o agravado trabalharia como ajudante de caminhão. No entanto, conforme documento acostado aos autos, o cargo exercido pelo sentenciado é o de balconista.
+4. Apesar da distância geográfica para o deslocamento do apenado até seu posto de trabalho, de 12/05/2023 até a revogação do benefício pela Corte de origem, ele cumpriu com as todas as obrigações que lhe foram impostas, estando submetido à monitoração eletrônica, sem registrar nenhuma falta disciplinar.
+5. Não há incompatibilidade, tampouco impossibilidade, da fiscalização do trabalho extramuros quando as condições impostas ao sentenciado vêm sendo cumpridas em período razoável, mostrando-se eficaz para os objetivos da pena o uso de tornozeleira eletrônica.
+6. O entendimento da Sexta Turma do Superior Tribunal de Justiça é no sentido de que a revogação do trabalho externo ao preso, baseada apenas na distância entre o local de cumprimento da reprimenda e o de trabalho, quando tal atividade já era realizada anteriormente, sem impactar o cumprimento da pena, configura constrangimento ilegal por ausência de fundamentação concreta para o recrudescimento da situação do apenado.
+7. Agravo regimental não provido.
+(AgRg no HC n. 876.718/RJ, relator Ministro Otávio de Almeida Toledo (Desembargador convocado do TJSP), Sexta Turma, julgado em 17/10/2023, DJe de 23/10/2024; grifos acrescidos)
+Ante o exposto, dou provimento ao agravo regimental para conceder o habeas corpus de ofício, de modo a restabelecer a decisão de primeiro grau que deferiu rota livre ao paciente em trabalho externo, mediante uso de tornozeleira eletrônica e comunicação prévia.
+Comunique-se.
+Publique-se.
+Intimem-se.
+EMENTA
