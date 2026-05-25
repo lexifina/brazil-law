@@ -1,0 +1,18 @@
+DECISÃO
+Cuida-se de Agravo apresentado por MUNICÍPIO DE SAÚDE à decisão que não admitiu seu Recurso Especial.
+O apelo, fundamentado no artigo 105, III, alíneas "a" e "c", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DA BAHIA, assim resumido:
+DIREITO ADMINISTRATIVO. APELAÇÃO CÍVEL. AÇÃO DE PROCEDIMENTO COMUM. SERVIDOR PÚBLICO MUNICIPAL. SERVIDOR PÚBLICO. REMOÇÃO. AUSÊNCIA DE MOTIVAÇÃO DO ATO ADMINISTRATIVO. VÍCIO DE FORMA. ILEGALIDADE RECONHECIDA. ART. 50, I, DA LEI N. 9.784/99. ENTENDIMENTO DO SUPERIOR TRIBUNAL DE JUSTIÇA. RECURSO CONHECIDO E DESPROVIDO.
+Quanto à primeira controvérsia, pela alínea "a" do permissivo constitucional, a parte recorrente aduz violação ao art. 489, § 1º, IV, do Código de Processo Civil, no que concerne ao reconhecimento da ausência de fundamentação adequada do acórdão recorrido, em razão de não ter enfrentado os argumentos deduzidos no apelo capazes de infirmar a conclusão adotada.
+Quanto à segunda controvérsia, a parte interpõe o recurso especial também pela alínea "c" do permissivo constitucional (fl. 198).
+É o relatório.
+Decido.
+Quanto à primeira controvérsia, não houve o prequestionamento do(s) artigo(s) de lei federal apontado(s) como violado(s), porquanto não houve o devido e necessário debate a respeito deste(s) dispositivo(s) no acórdão prolatado pelo Tribunal a quo.
+Esta Corte Superior de Justiça já sedimentou o entendimento segundo o qual "ausente o prequestionamento de dispositivos apontados como violados no recurso especial, nem sequer de modo implícito, incide o disposto na Súmula nº 282/STF" (REsp n. 2.002.429/MG, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, DJEN de 20/3/2025).
+Confiram-se ainda os seguintes precedentes: REsp n. 1.837.090/SP, relator Ministro João Otávio de Noronha, Quarta Turma, DJEN de 21/3/2025; REsp n. 1.879.371/SP, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, DJEN de 20/3/2025; AgRg no REsp n. 2.103.480/PR, relator Ministro Ribeiro Dantas, Quinta Turma, DJEN de 7/3/2025; AgRg no AREsp n. 2.491.927/PA, relatora Ministra Daniela Teixeira, Quinta Turma, DJEN de 25/2/2025; AgInt no REsp n. 2.112.937/DF, relator Ministro Paulo Sérgio Domingues, Primeira Turma, DJEN de 21/2/2025; AgInt no AgInt nos EDcl no REsp n. 1.522.805/RS, relator Ministro Francisco Falcão, Segunda Turma, DJEN de 16/12/2024.
+Quanto à segunda controvérsia, não foi comprovada a divergência jurisprudencial, porquanto não foi cumprido nenhum dos requisitos previstos nos arts. 1.029, § 1º, do CPC, e 255, § 1º, do Regimento Interno do Superior Tribunal de Justiça.
+Nesse sentido: "Não se conhece de recurso especial interposto pela divergência jurisprudencial quando esta não esteja comprovada nos moldes dos arts. 541, parágrafo único, do CPC/73 (reeditado pelo art. 1.029, § 1º, do NCPC), e 255 do RISTJ. Precedentes". (AgInt no AREsp 1 .615.607/SP, Rel. Ministro Moura Ribeiro, Terceira Turma, DJe de 20.5.2020.)
+Confiram-se ainda os seguintes julgados: ;AgInt no AREsp n. 2.100.337/MG, Rel. Ministro Sérgio Kukina, Primeira Turma, DJEN de 21/3/2025; REsp 1.575.943/DF, Rel. Ministro Gurgel de Faria, Primeira Turma, DJe de 2/6/2020; AgInt no REsp 1.817.727/SP, Rel. Ministro Herman Benjamin, Segunda Turma, DJe de 18/5/2020; AgInt no AREsp 1.504.740/SP, ;Rel. Ministro Raul Araújo, Quarta Turma, DJe de 8/10/2019; AgInt no AREsp 1.339.575/DF, Rel. Ministro Benedito Gonçalves, Primeira Turma, DJe de 2/4/2019; AgInt no REsp 1.763.014/RJ, Rel. Ministro Mauro Campbell Marques, Segunda Turma, DJe de 19/12/2018.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do Agravo para não conhecer do Recurso Especial.
+Publique-se.
+Intimem-se.
+ EMENTA
