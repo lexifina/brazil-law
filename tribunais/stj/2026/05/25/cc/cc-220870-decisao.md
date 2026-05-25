@@ -1,0 +1,17 @@
+DECISÃO
+Examina-se conflito positivo de competência, com pedido liminar, em que é suscitante NELSON GLUCKSBERG - EM RECUPERAÇÃO JUDICIAL e suscitados o JUÍZO DE DIREITO DA 4ª VARA CÍVEL DE SINOP - MT e o JUÍZO DE DIREITO DA VARA CÍVEL DO FORO REGIONAL DE PINHAIS - PR.
+Ação em trâmite no Juízo de Sinop - MT: recuperação judicial do suscitante (Processo nº 1027395-82.2024.8.11.0015).
+Ação em trâmite no Juízo de Pinhais - PR: busca e apreensão movida por BANCO VOLVO (BRASIL) S/A (Processo nº 0012401-71.2024.8.16.0033).
+Conflito de competência: alega que a determinação de apreensão de bens essenciais às atividades do suscitante, pelo Juízo de Pinhais - PR, caracteriza conflito de competência, tendo em vista que o juízo da recuperação é o único competente para dirimir questões relativas ao seu patrimônio. Aduz que o término do stay period não autoriza automaticamente a retomada da posse dos bens que foram declarados essenciais pelo juízo do soerguimento. Pleiteia, liminarmente, a suspensão da medida constritiva e a designação do juízo da recuperação judicial como competente para resolver as questões urgentes.
+Tutela antecipada: indeferida às e-STJ fls. 281-282.
+Parecer do MPF: opinou pela competência do juízo da ação de busca e apreensão.
+RELATADO O PROCESSO, DECIDO.
+Nos termos da jurisprudência consolidada desta Corte Superior, embora os créditos garantidos por alienação fiduciária não se submetam aos efeitos da recuperação judicial, compete ao juízo do soerguimento, durante o período de blindagem, apreciar atos de retirada ou constrição que recaiam sobre bens de capital essenciais à manutenção da atividade empresarial. Nesse sentido: AgInt no CC 211.604/MT, Segunda Seção, DJe 18/8/2025; AgInt nos EDcl no CC 210.750/MT e AgInt nos EDcl no CC 203.085/SP, Segunda Seção, DJe 4/10/2024.
+Na hipótese, o alegado conflito decorre do prosseguimento de ação de busca e apreensão fundada em contrato garantido por alienação fiduciária, após o encerramento do período de blindagem, situação que não configura invasão da competência do juízo recuperacional.
+Com efeito, encerrado o período de blindagem, restabelece-se o exercício regular dos direitos do credor fiduciário, inclusive quanto à retomada do bem objeto da garantia, mostrando-se a atuação do Juízo de Pinhais - PR compatível com os limites de sua competência jurisdicional. Assim, ausente conflito a ser dirimido, impõe-se o não conhecimento do incidente.
+Forte nessas razões, NÃO CONHEÇO do conflito de competência.
+Publique-se. Intimem. Oficie-se.
+EMENTA
+CONFLITO DE COMPETÊNCIA. RECUPERAÇÃO JUDICIAL E AÇÃO DE BUSCA E APREENSÃO. CONTRATO GARANTIDO POR ALIENAÇÃO FIDUCIÁRIA. PERÍODO DE BLINDAGEM JÁ ENCERRADO. PROSSEGUIMENTO DA DEMANDA. POSSIBILIDADE. CONFLITO DE COMPETÊNCIA. NÃO CONHECIMENTO.
+1. Nos termos da jurisprudência consolidada desta Corte Superior, embora os créditos garantidos por alienação fiduciária não se submetam aos efeitos da recuperação judicial, compete ao juízo do soerguimento, durante o período de blindagem, apreciar atos de retirada ou constrição que recaiam sobre bens de capital essenciais à manutenção da atividade empresarial. Hipótese em que o alegado conflito decorre do prosseguimento de ação de busca e apreensão fundada em contrato garantido por alienação fiduciária, após o encerramento do período de blindagem, situação que não configura invasão da competência do juízo do soerguimento.
+2. Conflito de competência não conhecido.
