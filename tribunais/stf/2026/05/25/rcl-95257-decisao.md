@@ -1,0 +1,137 @@
+Trata-se de reclamação, com pedido de liminar, ajuizada por Paulo de Oliveira Júnior contra decisão proferida pelo Juízo de Direito da Vara da Unidade Digital de Atendimento Judiciário da Comarca de Natividade da Serra/SP, nos autos do processo n. 4000004-45.2025.8.26.0243, para garantia da autoridade da decisão do Supremo Tribunal Federal proferida no julgamento da Arguição de Descumprimento de Preceito Fundamental – ADPF 130/DF.
+
+Em síntese, o reclamante sustenta:
+
+No caso concreto, o ato reclamado nega vigência ao entendimento  consolidado no julgamento da ADPF 130, que possui eficácia erga omnes e  efeito vinculante, nos termos do art. 10, § 3º, da Lei nº 9.882/1999.
+Ao impor condenação pecuniária e restrições de conteúdo em decorrência  do exercício de crítica informativa, o juízo de origem desconsidera a ratio  decidendi da ADPF 130, que baniu a censura e as limitações desproporcionais  à liberdade de expressão, uma vez que a decisão de origem impõe a retirada  de conteúdo informativo legítimo antes mesmo do trânsito em julgado.
+[...]
+No julgamento da ADPF 130, o STF estabeleceu que o direito de  informação e de expressão goza de uma "posição preferencial" (preferred position), de modo que qualquer restrição, ainda que por via de reparação civil,  deve ser interpretada de forma restritiva.
+O ato reclamado versa sobre a responsabilização civil de um comunicador  (Reclamante) por críticas dirigidas a uma prestadora de serviço/agente com  atuação pública, sem críticas pessoais ou ofensas criminosas.
+Enquanto a ADPF 130 veda a criminalização da crítica e a asfixia  financeira de órgãos de informação, a decisão de origem faz exatamente o  oposto, e utiliza o instituto da responsabilidade civil para silenciar uma página de  caráter informativo no FACEBOOK, ferindo o núcleo essencial da liberdade de  imprensa digital.
+Ressalte-se que a proteção conferida pela ADPF 130 não se  restringe à imprensa tradicional, mas alcança a liberdade de expressão em  sua dimensão qualificada pelo interesse público, protegendo a crítica em  redes sociais como desdobramento do direito à informação digital.
+[...]
+No caso em análise, o descumprimento do paradigma se manifestou no  exato momento em que o juízo a quo inviabilizou a demonstração da veracidade  dos fatos narrados, ao indeferir a prova pericial documental.
+Ao impedir a comprovação do lastro fático da crítica, o magistrado  desnaturalizou a proteção conferida por este STF, pois converteu a atividade  informativa legítima em 'ilícito civil' por meio de uma barreira probatória  intransponível, o que configura censura judicial indireta.
+A ADPF 130 protege a "verdade" como elemento da informação. Se o  Reclamante é impedido de demonstrar o dever de diligência e o lastro fático  verossímil, o juízo está, na prática, tornando impossível a aplicação do  paradigma da ADPF 130, pois retira do comunicador os meios de prova  necessários para afastar a ilicitude de sua conduta.
+[...]
+Ao indeferir a prova pericial documental, o juízo a quo retirou do  Reclamante os meios de defesa assegurados pelo paradigma deste STF,  transformando a responsabilidade civil em um instrumento de punição  automática à crítica.
+[...]
+A decisão reclamada interpretou que a crítica profissional gerou dano  moral à Beneficiária. Contudo, a ADPF 130 veda a criminalização ou a imposição de encargos civis sobre a opinião.
+Se o serviço prestado pela Beneficiária é alvo de críticas, o remédio  constitucional não é a censura ou a indenização punitiva, mas sim o direito de  resposta, se fosse o caso de informação falsa (o que não ocorre aqui).
+A argumentação de que, independentemente se for verdadeira ou falsa a  crítica, a exposição dos fatos em redes sociais trouxe danos à imagem da  Beneficiária não se sustenta no sistema jurídico pátrio.
+[...]
+Ao ignorar as reiterações e condicionar a livre manifestação a um  inexistente "respaldo judicial", o Magistrado de origem instituiu um regime de  licenciamento prévio da crítica, aplicando o que se pode denominar "punitivo pedagógico invertido": sancionou-se o cidadão pelo exercício da fiscalização  social, subvertendo a lógica da ADPF 130.
+Enquanto o paradigma deste STF veda o uso do "poder de polícia" estatal  sobre a opinião, o ato reclamado restabeleceu mecanismos de censura judicial por via transversa, ao impedir a prova do lastro fático e impor pesada  condenação pecuniária cumulada com ordem de retirada de conteúdo.
+[...]
+Reforça-se que o Reclamante, na qualidade de cidadão e comunicador,  exerce o direito-dever de fiscalização social. A postagem de suspeitas fundadas  em indícios materiais — os quais o Reclamante buscou periciar para confirmar  sua veracidade — constitui o cerne do debate democrático.
+[...]
+Ao condenar o Reclamante por reportar possíveis ilícitos — fatos que ele  buscou comprovar por perícia — o Judiciário local estabeleceu uma espécie de  'pedágio de silêncio', enviando uma mensagem inibitória a toda a coletividade, o  que caracteriza a asfixia financeira e a censura judicial combatidas por este  Excelso Pretório na ADPF 130.
+[...]
+Nesse sentido, a jurisprudência deste STF na ADPF 130 veda o uso da  responsabilidade civil para punir o 'erro de tom' ou a contundência da crítica.  Como não houve discurso de ódio ou exposição da vida íntima, a decisão  reclamada, ao focar no desconforto da beneficiária, ignora que autoridades e  profissionais em funções de relevo público possuem o ônus da tolerância frente  ao escrutínio da sociedade (doc. 1, p. 3- 20).
+
+Apresenta as razões para o deferimento do pedido liminar e ao final requer:
+
+f) No mérito, a confirmação da liminar para JULGAR TOTALMENTE  PROCEDENTE a presente Reclamação, para o fim de:
+• Cassar a decisão reclamada, por violação frontal à autoridade da  decisão deste STF na ADPF 130 e aos preceitos da liberdade de  expressão;
+• Reconhecer que a interdição do direito à prova inviabilizou a aplicação  dos parâmetros da ADPF 130, determinando a anulação dos atos  decisórios para que nova instrução seja realizada, garantindo-se ao  Reclamante a produção da prova documental e pericial necessária à  demonstração do lastro fático de suas publicações;
+• Garantir ao Reclamante o direito de manter as postagens de caráter  informativo e fiscalizatório em sua página do Facebook, por se tratarem  de exercício regular de direito (doc. 1, p. 23).
+
+É o relatório. Decido.
+
+Preliminarmente, observo que a ação está apta a ser julgada; por isso, deixo de requisitar as informações e de enviar o feito à Procuradoria-Geral da República (arts. 52, parágrafo único, e 161, parágrafo único, ambos do Regimento Interno do Supremo Tribunal Federal – RISTF).
+
+A demanda é improcedente, pois o ato reclamado não afronta decisão de natureza vinculante do Supremo Tribunal Federal, conforme será explicitado.
+
+Observo que não é necessário o esgotamento de instâncias para o cabimento de reclamação com parâmetro em precedente vinculante fixado em controle concentrado de constitucionalidade:
+
+Agravo regimental na reclamação. 2. Direito Processual Civil e do Trabalho. 3. Paradigma proferido em controle concentrado de constitucionalidade. Desnecessário o esgotamento das instancias ordinárias. 4. Terceirização da atividade-fim. Liberdade de organização produtiva dos cidadãos. Licitude de outras formas de organização. Tribunal de origem violou entendimento firmado na ADPF 324. 5. Reclamação julgada procedente. 6. Ausência de argumentos capazes de infirmar a decisão agravada. 7. Negado provimento ao agravo regimental (Rcl 65.887 AgR/RS, Rel. Min. Gilmar Mendes, Segunda Turma, DJe 10/6/2024).
+
+O reclamante aponta violação do precedente vinculante do Supremo Tribunal Federal proferido por ocasião do julgamento de mérito da ADPF 130/DF. Eis trecho da ementa do acórdão:
+
+3. O CAPÍTULO CONSTITUCIONAL DA COMUNICAÇÃO SOCIAL COMO SEGMENTO PROLONGADOR DE SUPERIORES BENS DE PERSONALIDADE QUE SÃO A MAIS DIRETA EMANAÇÃO DA DIGNIDADE DA PESSOA HUMANA: A LIVRE MANIFESTAÇÃO DO PENSAMENTO E O DIREITO À INFORMAÇÃO E À EXPRESSÃO ARTÍSTICA, CIENTÍFICA, INTELECTUAL E COMUNICACIONAL. TRANSPASSE DA NATUREZA JURÍDICA DOS DIREITOS PROLONGADOS AO CAPÍTULO CONSTITUCIONAL SOBRE A COMUNICAÇÃO SOCIAL. O art. 220 da Constituição radicaliza e alarga o regime de plena liberdade de atuação da imprensa, porquanto fala: a) que os mencionados direitos de personalidade (liberdade de pensamento, criação, expressão e informação) estão a salvo de qualquer restrição em seu exercício, seja qual for o suporte físico ou tecnológico de sua veiculação; b) que tal exercício não se sujeita a outras disposições que não sejam as figurantes dela própria, Constituição. A liberdade de informação jornalística é versada pela Constituição Federal como expressão sinônima de liberdade de imprensa. Os direitos que dão conteúdo à liberdade de imprensa são bens de personalidade que se qualificam como sobredireitos. Daí que, no limite, as relações de imprensa e as relações de intimidade, vida privada, imagem e honra são de mútua excludência, no sentido de que as primeiras se antecipam, no tempo, às segundas; ou seja, antes de tudo prevalecem as relações de imprensa como superiores bens jurídicos e natural forma de controle social sobre o poder do Estado, sobrevindo as demais relações como eventual responsabilização ou consequência do pleno gozo das primeiras. A expressão constitucional observado o disposto nesta Constituição" (parte final do art. 220) traduz a incidência dos dispositivos tutelares de outros bens de personalidade, é certo, mas como consequência ou responsabilização pelo desfrute da "plena liberdade de informação jornalística (§ 1º do mesmo art. 220 da Constituição Federal). Não há liberdade de imprensa pela metade ou sob as tenazes da censura prévia, inclusive a procedente do Poder Judiciário, pena de se resvalar para o espaço inconstitucional da prestidigitação jurídica. Silenciando a Constituição quanto ao regime da internet (rede mundial de computadores), não há como se lhe recusar a qualificação de território virtual livremente veiculador de ideias e opiniões, debates, notícias e tudo o mais que signifique plenitude de comunicação” (grifei).
+
+Isso porque, nas palavras do Relator da ADPF 130/DF, Ministro Carlos Ayres Britto, o pleno exercício da liberdade de informação jornalística configuraria “natural forma de controle social sobre o poder do Estado”, atributo que lhe caracteriza como bem jurídico de natureza superior aos demais, também por ser um corolário de um Estado democrático de direito.
+
+A partir do que foi decidido na ADPF 130/DF tenho proferido diversas decisões para assegurar a liberdade de comunicação – tanto na modalidade liberdade de expressão como na modalidade liberdade de imprensa – a veículos de imprensa e profissionais da área. Cito como exemplo:Rcl 61.516/DF, DJe 4/9/2023 (Revista Piauí, edição 201), e Rcl 64.369, DJe 5/4/2024 (O Estado de São Paulo, reportagem de 29/11/2023).
+
+No entanto, não existem direitos absolutos, e a colisão entre direitos fundamentais deve ser resolvida pelo critério da proporcionalidade.
+
+Nas palavras do Ministro Gilmar Mendes:
+
+[...] o Supremo Tribunal Federal vedou a censura prévia à atividade jornalística, considerando essencial ao desenvolvimento da Democracia a garantia à sua liberdade, sem excluir a possibilidade de controle posterior, pelo Poder Judiciário, de excessos eventualmente cometidos, com vistas à observância dos direitos de personalidade atinentes à intimidade, à vida privada, à honra e à imagem (Rcl 66.359 AgR/MG, DJe 10/6/2024 – grifos no original).
+
+Na mesma linha é a redação do enunciado do Tema 995 RG, definido em 29/11/2023, no Plenário do Supremo Tribunal Federal:
+
+1. A plena proteção constitucional à liberdade de imprensa é consagrada pelo binômio liberdade com responsabilidade, vedada qualquer espécie de censura prévia. Admite-se a possibilidade posterior de análise e responsabilização, inclusive com remoção de conteúdo, por informações comprovadamente injuriosas, difamantes, caluniosas, mentirosas, e em relação a eventuais danos materiais e morais. Isso porque os direitos à honra, intimidade, vida privada e à própria imagem formam a proteção constitucional à dignidade da pessoa humana, salvaguardando um espaço íntimo intransponível por intromissões ilícitas externas.
+[...] (grifei).
+
+Feitas essas considerações, passo ao exame do pedido.
+
+Do ato  reclamado, transcrevo:
+
+A matéria não exige produção de outras provas, comportando a lide julgamento no estado em que se encontra (artigo 355, inciso I, do Código de Processo Civil).
+[...]
+No caso em tela, os vídeos apresentados pela autora, são suficientes para forma a convicção, sendo desnecessária e inócua a produção de prova oral, quer seja oitiva de testemunhas ou depoimento pessoal das partes, até mesmo porque sua autoria e publicação não foram negadas pela parte autora.
+O réu apresentou contestação arguindo, em preliminar, a falsidade documental, fraude processual e litigância de má-fé da autora, sustentando que a petição inicial está integralmente fundamentada em documentos material e ideologicamente falsos, notadamente o contrato de compra e venda e o contrato de locação juntados no evento inicial. Aponta diversas incongruências nos referidos documentos, como datas incompatíveis com a realidade fática, reconhecimento de firma posterior em quase vinte anos, indicação de confrontantes que não eram proprietários à época, erros formais e contradições com declarações prestadas pela própria autora em outros processos, afirmando que tais documentos foram produzidos para induzir o Juízo a erro.
+Alega que a utilização reiterada desses instrumentos falsos, inclusive em outros feitos, caracteriza abuso do direito de ação, requerendo a extinção do processo sem resolução do mérito, o reconhecimento da litigância de má-fé da autora e a remessa de cópias ao Ministério Público para apuração de eventuais crimes.
+[...]
+Tais direitos fundamentais não são absolutos. A liberdade de expressão encontra limites quando colide com outros direitos constitucionalmente protegidos, como a honra e a imagem, conforme reiterada jurisprudência.
+A imputação de crimes como estelionato e falsificação de documentos, especialmente quando feita em redes sociais ou meios de ampla divulgação, ultrapassa o limite do exercício regular do direito à crítica e da liberdade de expressão. Tal conduta é considerada ofensiva, maliciosa e com intenção clara de denegrir a imagem, a honra e a dignidade da pessoa, configurando dano moral indenizável.
+Além disso, tais divulgações, mesmo que sob o argumento de interesse público, não exime o responsável pela publicação da obrigação de reparar os danos causados. A internet, por seu alcance ilimitado, potencializa o dano à imagem e à honra, agravando a lesividade da ofensa.
+Portanto, chamar alguém de estelionatário e criminoso, imputando-lhe falsificação de documentos, configura abuso do direito de liberdade de expressão, violação da honra e da imagem, e dá ensejo à reparação por danos morais, conforme entendimento consolidado em diversas decisões do Tribunal de Justiça de São Paulo.
+Neste sentido:
+AGRAVO DE INSTRUMENTO. AÇÃO DE OBRIGAÇÃO DE FAZER C/C INDENIZAÇÃO POR DANOS MORAIS. DECISÃO QUE INDEFERIU A TUTELA DE URGÊNCIA PARA EXCLUSÃO DE POSTAGENS. AUTORA AGRAVA. CONTEÚDO DAS POSTAGENS QUE TRANSBORDA O CAMPO DAS CRÍTICAS QUE EXPRESSAM A OPINIÃO DA AGRAVADA ACERCA DA EMPRESA AGRAVANTE, ESPRAIANDO NO CAMPO DA OFENSA CLARA E INEQUÍVOCA. TEXTO QUE VAI ALÉM DA MERA CRÍTICA E AVANÇA NA SEARA DA ACUSAÇÃO ACERCA DA PRÁTICA DE CRIMES. DIREITO À LIBERDADE DE EXPRESSÃO, GARANTIDA PELA CONSTITUIÇÃO FEDERAL, QUE NÃO É ABSOLUTO. OFENSA À IMAGEM E À HONRA OBJETIVA DA EMPRESA AGRAVANTE. DECISÃO REFORMADA. RECURSO PROVIDO. (TJSP - 2170051-73.2024.8.26.0000, Relator(a): Júlio César Franco, 22ª Câmara de Direito Privado, Data de Julgamento: 24/07/2024, Data de Publicação: 24/07/2024)  destaques nossos. APELAÇÃO. INDENIZATÓRIA. DANOS MORAIS. Insurgência contra sentença de procedência. Parte requerida que extrapola os limites do razoável ao proferir comentários depreciativos em resposta a comentários do autor. Direitos e garantias fundamentais da Constituição Federal que não são absolutos, uma vez que o próprio texto constitucional estabelece os seus limites . Utilização de palavras depreciativas e com ironias de duplo sentido nas reações do réu que, por serem reiteradas, ultrapassam os limites do direito de defesa. Manifestação do pensamento que não pode, sob o manto da liberdade de expressão, ser utilizada como instrumento para macular a imagem de outrem, expondo-o a vexame, ridículo ou desprezo. O arbitramento da indenização pelo dano moral deve ser pautado em juízo que atenda aos princípios da razoabilidade e da proporcionalidade, visando ao caráter pedagógico da medida para desestimular a conduta do agressor, além de consistir em mínima compensação à pessoa que foi lesada. Observados os devidos critérios norteadores, o valor fixado no montante de R$10.000,00 se revela exorbitante, uma vez que houve ofensas mútuas. Recurso parcialmente provido para reduzir a indenização à metade,com fundamento no art. 945 do Código Civil. (TJSP - 1013259-21.2023.8.26.0008, Relator(a): Luis Fernando Cirillo, 9ª Câmara de Direito Privado, Data de Julgamento: 03/06/2025, Data de Publicação: 03/06/2025) (destaques nossos).
+No caso concreto, verifica-se que as expressões utilizadas nos vídeos identificados como “Vídeo 2 – Evento Eproc nº 3” e “Vídeo 1 – Evento 5” não se restringem à crítica ou denúncia de interesse público, mas assumem caráter pessoal e ofensivo.
+[...]
+Essas imputações, feitas de forma pública e sem respaldo judicial, extrapolam os limites da liberdade de expressão e configuram ofensa à honra e à imagem da autora, direitos constitucionalmente protegidos.
+Além de citar nomes, o requerido expõe o contrato que alega ser falso, onde facilmente pode identificar-se de quem se trata.
+Consigno, ainda, que nos próprios autos, o autor afirma “Evento nº 29” com destaque que: “Estou falando a verdade sobre a requerente ser criminosa!” e continua “Para melhor análise do crime de falsificação e documento....”.
+Eventual falsidade do documento deve ser arguida nos autos do Processo de nº 1000672 61.2024.8.26.0418, em trâmite no Ofício Judicial desta comarca, para que lá seja analisado e processado, inclusive com incidência de eventuais sanções criminais e outras aplicáveis a espécie. Não é permitido ao réu, através de suas afirmações trazer a público falsidade não reconhecida em qualquer espécie de apuração, seja policial ou judicial.
+Portanto, não há que se falar, como alegado pelo réu, em documento chave para sua estratégia probatória, bem como inadequação a via eleita, por que, como já ressaltado discute-se aqui um dano moral por ele praticado, não sendo cabível exame pericial em contrato que não diz respeito com o aqui discutido, ou suspensão do processo.
+Além do mais, desnecessária eventual providência judicial no que diz respeito a falsidade indicada, posto que, conforme afirma o requerido (evento 30) o fato foi levado a conhecimento da Autoridade Policial de Natividade da Serra/SP, através do Boletim de Ocorrência nº AO8874-1/2025.
+Nesse raciocínio, não se verifica litigância de má-fé ou dolo da autora, ou ainda fraude processual com o ajuizamento desta ação, bem como os documentos e teses apresentadas pelo requerido não podem ser considerados como excludentes de responsabilidade nos termos do art. 188, I do CC, neste momento processual, posto que suas alegações estão desprovidas das circunstâncias de legítima defesa ou exercício regular de um direito reconhecido.
+[...]
+Nesse ponto a razão se coloca ao lado daqueles que entendem que o dano moral está ínsito na própria ofensa, decorre da gravidade do ilícito em si. (...) Em outras palavras, o dano moral existe in re ipsa; deriva inexoravelmente do próprio fato ofensivo, de tal modo que, provada a ofensa, ipso facto está demonstrado o dano moral à guisa de uma presunção natural, uma presunção hominis ou facti que decorre das regras de experiência comum”.
+No que se refere ao quantum indenizatório, a fixação do valor da indenização deve ser lastreada em dois parâmetros básicos, quais sejam, a potencialidade danosa do ato e a idoneidade financeira do agente. Nas palavras do Des. KIOITSI CHICUTA, deve a indenização ser proporcional ao dano e compatível com a reprovabilidade da conduta ilícita, a intensidade e a duração dos transtornos experimentados pela vítima, a capacidade econômica da causadora dos danos e as condições sociais do ofendido. (TJSP - APL nº 9.202.240-49.2005.8.26.0000 - Ac. 5.351.434 - Sertãozinho - 32ª Câmara de Direito Privado - Rel. Des. Kioitsi Chicuta - J. 25.08.2011 - DJESP 01.09.2011). Nesse sentido, a indenização não pode ser tão alta que cause enriquecimento, nem tão baixa que seja inócua a seus fins punitivos.
+Neste panorama, o dano moral deve ser estimado em R$ 5.000,00 (cinco mil reais), valor que se mostra adequado aos princípios da proporcionalidade e razoabilidade.
+Ante o exposto, com fundamento no art. 487, I, do CPC, JULGO PARCIALMENTE PROCEDENTE o pedido para: a) CONDENAR o réu ao pagamento de indenização por danos morais no valor de R$ 5.000,00 (cinco mil reais), corrigidos monetariamente pelo índice da Tabela do TJSP a partir da publicação desta sentença  e acrescidos de juros de mora de 1% ao mês desde a citação (art. 405 do Código Civil); b) DETERMINAR a remoção dos vídeos identificados como “Vídeo 2  Evento eproc nº 3” e “Vídeo 1 – Evento 5” das redes sociais do réu, no prazo de 48 (quarenta e oito) horas, sob pena de multa diária de R$ 100,00 (cem reais), limitada ao teto do Juizado Especial Cível (art. 52, V, Lei 9.099/95); c) AUTORIZAR a permanência dos demais vídeos, por não conterem ofensas diretas à autora ou por se tratarem de críticas genéricas, protegidas pelo direito à liberdade de expressão (doc. 7, pp. 51-55).
+
+Noto que o reclamante não é e não se identifica como jornalista nem divulgou a afirmada informação por motivos jornalísticos ou de informação pública. Trata-se de uma discussão privada, entre vizinhos, que acabou por transbordar para redes sociais.
+
+A esse respeito, verifique-se a inicial da ação de indenização movida pela beneficiária da decisão reclamada (doc. 4, pp. 4-5). Também merece nota a contestação do ora reclamante (doc. 4, p. 64). Em tais documentos, percebe-se que o problema particular entre os vizinhos foi motivado pelo uso de água e de mangueiras, o que destoa totalmente da ratio decidendi do paradigma vinculante indicado nos autos.
+
+Portanto, não há aderência ao decidido pelas instâncias ordinárias com o precedente vinculante firmado pelo Supremo Tribunal Federal, na ADPF 130/DF, o que, em regra, obsta a procedência da reclamação.
+
+No mesmo sentido:
+
+    AGRAVO REGIMENTAL NA RECLAMAÇÃO. SERVIDOR PÚBLICO. DIFERENÇA SALARIAL. DESVIO DE FUNÇÃO. SÚMULA VINCULANTE 37. AUSÊNCIA DE ADERÊNCIA ESTRITA. AGRAVO DESPROVIDO.
+    I - A jurisprudência firme desta Suprema Corte exige, para o cabimento da reclamação em casos desse jaez, que fique demonstrada a aderência estrita entre o ato reclamado e o conteúdo dos paradigmas apontados como violados, o que não ocorre no caso.
+    II - O Tribunal reclamado não assegurou à beneficiária o direito à diferença salarial com base no princípio da isonomia, mas sim em virtude da caracterização de desvio de função. Portanto, a condenação em questão não implica em descumprimento da Súmula Vinculante 37.
+    III - Agravo regimental desprovido (Rcl 63.667 AgR/SP, da minha relatoria, Primeira Turma, DJe 7/3/2024).
+
+Ademais, também mostra-se incabível o reexame fático-probatório nesta reclamação.
+
+Ressalto que, para se chegar a conclusão diversa à do ato reclamado, seria indispensável o revolvimento de fatos e provas, o que não é consentâneo com o procedimento abreviado, característico dessa via processual:
+
+AGRAVO REGIMENTAL EM RECLAMAÇÃO. ALEGAÇÃO DE VIOLAÇÃO DO ENTENDIMENTO FIRMADO NA ADPF Nº 828/DF-MC. RECLAMAÇÃO QUE OBJETIVA O REEXAME DE DECISÃO FUNDAMENTADA NO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. SUCEDÂNEO RECURSAL. IMPOSSIBILIDADE. AGRAVO REGIMENTAL NÃO PROVIDO. 1. Por atribuição constitucional, presta-se a reclamação para preservar a competência do STF e garantir a autoridade de suas decisões (art. 102, inciso I, alínea l, da CF/88), bem como para resguardar a correta aplicação das súmulas vinculantes (art. 103-A, § 3º, da CF/88). 2. A reclamação não pode ser utilizada como sucedâneo de recurso ou de ações judiciais em geral, tampouco para reanálise de fatos e provas. Precedentes. 3. Agravo regimental não provido (Rcl 50.238 AgR/CE, Rel. Min. Dias Toffoli, Primeira Turma, DJe 24/5/2022).
+
+AGRAVO REGIMENTAL NA RECLAMAÇÃO. ALEGAÇÃO DE AFRONTA AO DECIDIDO NO RE 855.178-ED/SE (TEMA 793 DA REPERCUSÃO GERAL). INOCORRÊNCIA. DISCUSSÃO SOBRE A NATUREZA ESTÉTICA DO PROCEDIMENTO. NECESSIDADE DE REVOLVIMENTO DO CONJUNTO FÁTICO-PROBATÓRIO. INVIÁVEL NA VIA RECLAMATÓRIA. AGRAVO REGIMENTAL DESPROVIDO. I - No caso em análise, busca-se o fornecimento do custeio referente ao procedimento cirúrgico. Todavia, a referida cirurgia somente é disponibilizada no SUS em casos não estéticos, fato este não comprovado pelo reclamante. II - Para discordar das razões adotadas pelas instâncias ordinárias, seria necessário o reexame do conjunto fático-probatório dos autos, circunstância não admitida em reclamação constitucional. III - Agravo regimental desprovido (Rcl 54.679 AgR/AL, da minha relatoria, Primeira Turma, DJe 20/9/2023).
+
+O que pretende o reclamante, na verdade, é usar o instrumento processual da reclamação como sucedâneo recursal, finalidade essa que não converge com a sua destinação constitucional (Rcl 61.544 ED/SP, da minha relatoria, Primeira Turma, DJe 4/10/2023; e Rcl 20.807 AgR/PB, Rel. Min. Celso de Mello, Segunda Turma, DJe 16/9/2015).
+
+Com esse entendimento:
+
+AGRAVO REGIMENTAL NA RECLAMAÇÃO. ALEGADA USURPAÇÃO DE COMPETÊNCIA DO SUPREMO TRIBUNAL FEDERAL. NÃO OCORRÊNCIA. AUSÊNCIA DE REPERCUSSÃO GERAL (TEMA 181). UTILIZAÇÃO DA VIA RECLAMATÓRIA COMO SUCEDÂNEO DE RECURSO. INVIABILIDADE. AGRAVO IMPROVIDO. I – Não houve usurpação de competência do STF na decisão reclamada, que, ao aplicar a sistemática da repercussão geral, de forma irreparável, com base no Tema 181, respeitou integralmente a competência estabelecida pelo art. 1.030, I, a, do CPC. II – O que pretende a parte agravante, na verdade, é usar o instrumento processual da reclamação como sucedâneo de recurso, finalidade essa que não converge com a sua destinação constitucional. III - Agravo regimental ao qual se nega provimento (Rcl 62.347 AgR/RJ, da minha relatoria, DJe 18/12/2023).
+
+Embargos de declaração no agravo regimental na reclamação. 2. Direito Constitucional e Civil. 3. Juizado Especial Cível. Aplicação do tema 800 da repercussão geral. 4. Teratologia na aplicação do paradigma da repercussão geral não demonstrada. Precedentes. 5. Reclamação como sucedâneo recursal. Inadmissibilidade. 6. Ausência de omissão, contradição, obscuridade ou erro material. 7. Embargos de declaração rejeitados (Rcl 62.414 AgR-ED/SP, Rel. Min. Gilmar Mendes, DJe 28/2/2024).
+
+Posto isso, julgo improcedente a reclamação (art. 161, parágrafo único, do RISTF).
+
+Sem condenação em honorários, pois não houve angularização processual.
+
+Publique-se.
+
+Brasília, 25 de maio de 2026.
+
+Ministro Cristiano Zanin
+Relator
