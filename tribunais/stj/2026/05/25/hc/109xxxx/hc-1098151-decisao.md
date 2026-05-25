@@ -1,0 +1,25 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de PATRICK OLIVEIRA DA COSTA contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DO PIAUÍ que denegou o writ de origem. Eis a ementa (fl. 244):
+HABEAS CORPUS. PROCESSO PENAL. LIMINAR. TRÁFICO DE DROGA. AUSÊNCIA DE DECISÃO ESCRITA E FUNDAMENTADA. NÃO OCORRÊNCIA. DECISÃO TRANSCRITA NA ATA DA AUDIÊNCIA. BUSCA VEICULAR REALIZADA EM FISCALIZAÇÃO DE ROTINA. ILEGALIDADE NÃO AFERÍVEL DE PLANO. DENEGAÇÃO. 1. No rito célere do Habeas Corpus não é cabível a análise aprofundada das provas; 2. Em cognição sumária, não se vislumbrou ato que gerasse constrangimento ilegal praticado pela autoridade apontada como coatora; 3. Pedido liminar denegado.
+Consta dos autos que o paciente foi preso em flagrante em 30/12/2025, por suposta prática do art. 33, caput, da Lei 11.343/2006, e, em 31/12/2025, na audiência de custódia, houve conversão em prisão preventiva. O juízo plantonista registrou decisão sem fundamentação escrita própria. O TJPI manteve a custódia com base em ata e gravação audiovisual.
+No presente writ, o impetrante sustenta nulidade da prisão preventiva por ausência de decisão escrita, autônoma e fundamentada. Afirma que ata e gravação não suprem o dever de motivação.
+Alega insuficiência da "síntese" em ata: não demonstra periculum libertatis concreto, contemporâneo e individualizado, nem a inadequação das cautelares do art. 319 do CPP. Aponta fundamentação genérica baseada na gravidade abstrata, quantidade de droga e existência de outro processo.
+Defende impossibilidade de convalidação pelo acórdão mediante reconstrução posterior da motivação cautelar. A legalidade deve ser aferida a partir do decreto originário, não por fundamentos dispersos em documentos acessórios ou por complementação em segundo grau.
+Invoca observância do precedente do STJ no RHC 236.809/BA, que exige decisão escrita e fundamentada para a preventiva decretada em audiência de custódia, vedando substituição por ata ou gravação e complementação posterior. Requer distinguishing expresso se houver afastamento, e veda superação implícita do entendimento.
+Requer liminarmente o relaxamento da prisão preventiva, com expedição de alvará de soltura, ou, subsidiariamente, a suspensão dos efeitos do decreto e a revogação com ou sem medidas cautelares diversas.
+No mérito, requer a concessão da ordem para reconhecer a nulidade da preventiva por ausência de decisão escrita, autônoma e fundamentada, com a imediata soltura do paciente, salvo outra prisão; requisitar informações da autoridade coatora e remeter ao MPF para parecer.
+É o relatório.
+Em consulta ao sistema processual do Superior Tribunal de Justiça, verifica-se que a legalidade da prisão preventiva já foi devidamente examinada do RHC237862/PI, tratando-se, o presente mandamus, de mera reiteração nesse ponto, o que é inadmissível.
+Nesse sentido:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO PENAL. FALTA DISCIPLINAR GRAVE. OITIVA JUDICIAL. DESNECESSIDADE. PROCEDIMENTO ADMINISTRATIVO DISCIPLINAR REGULAR. CONTRADITÓRIO E AMPLA DEFESA ASSEGURADOS. REGRESSÃO DE REGIME. NÃO OCORRÊNCIA. DESCLASSIFICAÇÃO. ALEGAÇÃO DE INSUFICIÊNCIA PROBATÓRIA. REITERAÇÃO DE IMPETRAÇÃO ANTERIOR. NECESSIDADE DE REEXAME FÁTICO-PROBATÓRIO. INVIABILIDADE NA VIA ELEITA. PRECEDENTES.
+ ..
+4. "A mera reiteração de pedido, que se limita a reproduzir, sem qualquer inovação de fato e/ou de direito, os mesmos fundamentos subjacentes a postulação anterior, torna inviável o próprio conhecimento da ação de habeas corpus". (AgRg no HC n. 190.293, Rel. Min. Celso de Mello, julgado em 20/10/2020, DJe 19/11/2020).
+5. Agravo regimental não provido.
+(AgRg no HC n. 1.004.901/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 3/6/2025, DJEN de 10/6/2025.)
+Ainda que assim não fosse, como já visto no recurso em habeas corpus mencionado, o decreto (transcrito no acórdão às fls. 246-247), apresentou fundamentação concreta, baseada no modus operandi da conduta e na quantidade de drogas apreendida (valendo-se de terceiro de boa-fé para o transporte dos entorpecentes), bem como na menção a processo anterior pela prática do mesmo crime.
+E a tese de que a "síntese" em ata do decreto não demonstraria periculum libertatis também deve ser afastada, pois conforme se extrai do acórdão impugnado, "há indubitavelmente decisão escrita e fundamentada proferida pelo magistrado em audiência, conforme se extrai da ata da audiência de custódia assinada pelo magistrado singular (ID 30514607, fls. 81), na qual houve a transcrição das razões quanto à prisão do paciente, com registro apto ao controle e ciência das partes." (fl. 245).
+Inclusive, apenas a título ilustrativo, já se decidiu não ser admissível decreto de custódia preventiva proferido oralmente, na audiência de custódia, sem que o conteúdo não seja consignado em ata, ou degravados (AgRg no RHC n. 201.635/BA, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 11/6/2025, DJEN de 16/6/2025), o que não é o caso, como visto.
+Ante o exposto, com fundamento no art. 210 do RISTJ, indefiro liminarmente o habeas corpus.
+Publique-se.
+Intimem-se.
+EMENTA
