@@ -1,0 +1,74 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Turma, por unanimidade, negar provimento ao agravo regimental.
+Os Srs. Ministros Maria Marluce Caldas, Reynaldo Soares da Fonseca, Ribeiro Dantas e Joel Ilan Paciornik votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Reynaldo Soares da Fonseca.
+EMENTA
+Direito processual penal. Agravo regimental. Agravo em recurso especial. Decisão monocrática de inadmissão. Ausência de impugnação específica de todos os fundamentos. Aplicação de súmulas 7, STJ, 284, STF e 182, STJ. Agravo regimental desprovido.
+I. Caso em exame
+1. Agravo regimental interposto contra decisão monocrática que não conheceu de Agravo em Recurso Especial criminal, sob o fundamento de ausência de impugnação específica de todos os óbices de admissibilidade do Recurso Especial fixados pelo Tribunal de origem.
+2. O Tribunal de Justiça estadual inadmitiu o Recurso Especial com base em dois fundamentos autônomos: (i) incidência da Súmula 7, STJ, em razão da necessidade de reexame do conjunto fático-probatório; e (ii) incidência da Súmula 284, STF, pela deficiência de fundamentação do apelo nobre.
+3. No agravo regimental, a parte recorrente sustenta, em síntese, que teria impugnado concretamente todos os fundamentos da decisão que negou seguimento ao Recurso Especial, que a decisão monocrática seria incabível, à míngua de matéria consolidada a autorizar julgamento singular, e requer, ainda, a concessão de ordem de ofício diante de alegadas ilegalidades no processo de origem.
+II. Questão em discussão
+4. A questão em discussão consiste em saber se é legítimo o não conhecimento do Agravo em Recurso Especial, por decisão monocrática, quando a parte agravante deixa de impugnar, de forma específica, concreta e pormenorizada, todos os fundamentos autônomos da decisão que inadmitiu o Recurso Especial, notadamente aqueles relativos à incidência das Súmulas 7, STJ e 284, STF.
+5. A questão em discussão consiste, ainda, em saber se, à luz do Regimento Interno do STJ, é cabível a decisão monocrática proferida pelo Presidente para não conhecer de Agravo em Recurso Especial que não ataca todos os fundamentos da decisão agravada, bem como se estariam presentes pressupostos para concessão de ordem de ofício com base em supostas nulidades processuais.
+III. Razões de decidir
+6. O Presidente do STJ detém competência regimental, expressamente prevista no art. 21-E, inciso V, do RISTJ, para, monocraticamente, não conhecer de Agravo em Recurso Especial que não impugne especificamente todos os fundamentos da decisão agravada, inexistindo irregularidade na forma de julgamento adotada.
+7. O conhecimento do Agravo em Recurso Especial exige que a parte agravante impugne, de modo específico e adequado, todos os fundamentos da decisão de inadmissibilidade do Recurso Especial, sendo suficiente, para o não conhecimento do agravo, a ausência de impugnação de qualquer fundamento autônomo, conforme art. 932, III, do CPC/2015, c/c art. 253, parágrafo único, I, do RISTJ.
+8. A Corte Especial do STJ, no EAREsp 746.775/PR, consolidou o entendimento de que a decisão de inadmissibilidade do Recurso Especial é incindível, de modo que a impugnação deve ser integral e específica, não havendo falar em capítulos autônomos que possam ser atacados parcialmente.
+9. No caso concreto, as razões do Agravo em Recurso Especial limitaram-se a alegações genéricas relativas ao mérito da controvérsia e a supostas nulidades absolutas, sem enfrentar, de maneira específica e pormenorizada, os dois fundamentos de inadmissibilidade (Súmulas 7, STJ e 284, STF), o que atrai, por analogia, a incidência da Súmula 182, STJ.
+10. A matéria foi devidamente debatida na decisão monocrática, nos estritos limites da via eleita, e o agravo regimental não apresentou argumento novo ou específico capaz de infirmar os fundamentos adotados, impondo-se a manutenção da decisão agravada.
+11. Inexistindo impugnação adequada dos óbices de admissibilidade e ausentes ilegalidades flagrantes examináveis de ofício nesta sede, descabe a concessão de ordem de ofício pretendida pela parte agravante.
+IV. Dispositivo e tese
+12. Resultado do Julgamento: Agravo regimental desprovido.
+Tese de julgamento:
+1. O Agravo em Recurso Especial deve impugnar de forma específica, concreta e pormenorizada todos os fundamentos da decisão que inadmitiu o Recurso Especial, sob pena de não conhecimento, incidindo, por analogia, a Súmula 182, STJ.
+2. É legítima a decisão monocrática do Presidente do STJ, com base no art. 21-E, V, do RISTJ, para não conhecer de Agravo em Recurso Especial que não ataca todos os fundamentos autônomos da decisão de inadmissibilidade do Recurso Especial.
+3. A decisão de inadmissibilidade do Recurso Especial é incindível, de modo que sua impugnação deve ser integral e específica, não sendo possível o conhecimento parcial do Agravo em Recurso Especial quando remanescer fundamento autônomo não impugnado.
+Dispositivos relevantes citados:
+CPC/2015, art. 932, III; RISTJ, arts. 21-E, V, e 253, parágrafo único, I; RISTJ, art. 202 (invocado pela parte recorrente); Súmula 7/STJ; Súmula 182/STJ; Súmula 284/STF.
+Jurisprudência relevante citada:
+STJ, EAREsp 746.775/PR, Corte Especial, Rel. p/ acórdão Min. Luis Felipe Salomão, DJe 30.11.2018; STJ, AgRg no HC 804.533/PE, Quinta Turma, Rel. Min. Reynaldo Soares da Fonseca, DJe 17.03.2023; STJ, AgRg no HC 659.003/SP, Sexta Turma, Rel. Min. Rogerio Schietti Cruz, DJe 30.03.2023.
+RELATÓRIO
+Trata-se de agravo regimental interposto por LUIS FERNANDO PINHEIRO e JENETE KRENKE em face de decisão proferida, às fls. 679-680, que não conheceu do Agravo em Recurso Especial.
+Nas razões do agravo, às fls. 685-688, a parte recorrente argumenta, em síntese, que: (i) teria combatido de forma concreta e detalhada todos os argumentos da decisão que negou seguimento ao Recurso Especial; (ii) a decisão monocrática seria incabível, por ausência de matéria consolidada nesta Corte a ensejar julgamento singular, devendo o feito ser submetido ao colegiado, nos termos do art. 202 do Regimento Interno do STJ; e (iii) ainda que não seja conhecido o agravo regimental, caberia a concessão da ordem de ofício, diante das ilegalidades apontadas.
+Ao manter a decisão agravada por seus próprios e jurídicos fundamentos, submeto o agravo regimental à apreciação da Quinta Turma.
+É o relatório.
+EMENTA
+Direito processual penal. Agravo regimental. Agravo em recurso especial. Decisão monocrática de inadmissão. Ausência de impugnação específica de todos os fundamentos. Aplicação de súmulas 7, STJ, 284, STF e 182, STJ. Agravo regimental desprovido.
+I. Caso em exame
+1. Agravo regimental interposto contra decisão monocrática que não conheceu de Agravo em Recurso Especial criminal, sob o fundamento de ausência de impugnação específica de todos os óbices de admissibilidade do Recurso Especial fixados pelo Tribunal de origem.
+2. O Tribunal de Justiça estadual inadmitiu o Recurso Especial com base em dois fundamentos autônomos: (i) incidência da Súmula 7, STJ, em razão da necessidade de reexame do conjunto fático-probatório; e (ii) incidência da Súmula 284, STF, pela deficiência de fundamentação do apelo nobre.
+3. No agravo regimental, a parte recorrente sustenta, em síntese, que teria impugnado concretamente todos os fundamentos da decisão que negou seguimento ao Recurso Especial, que a decisão monocrática seria incabível, à míngua de matéria consolidada a autorizar julgamento singular, e requer, ainda, a concessão de ordem de ofício diante de alegadas ilegalidades no processo de origem.
+II. Questão em discussão
+4. A questão em discussão consiste em saber se é legítimo o não conhecimento do Agravo em Recurso Especial, por decisão monocrática, quando a parte agravante deixa de impugnar, de forma específica, concreta e pormenorizada, todos os fundamentos autônomos da decisão que inadmitiu o Recurso Especial, notadamente aqueles relativos à incidência das Súmulas 7, STJ e 284, STF.
+5. A questão em discussão consiste, ainda, em saber se, à luz do Regimento Interno do STJ, é cabível a decisão monocrática proferida pelo Presidente para não conhecer de Agravo em Recurso Especial que não ataca todos os fundamentos da decisão agravada, bem como se estariam presentes pressupostos para concessão de ordem de ofício com base em supostas nulidades processuais.
+III. Razões de decidir
+6. O Presidente do STJ detém competência regimental, expressamente prevista no art. 21-E, inciso V, do RISTJ, para, monocraticamente, não conhecer de Agravo em Recurso Especial que não impugne especificamente todos os fundamentos da decisão agravada, inexistindo irregularidade na forma de julgamento adotada.
+7. O conhecimento do Agravo em Recurso Especial exige que a parte agravante impugne, de modo específico e adequado, todos os fundamentos da decisão de inadmissibilidade do Recurso Especial, sendo suficiente, para o não conhecimento do agravo, a ausência de impugnação de qualquer fundamento autônomo, conforme art. 932, III, do CPC/2015, c/c art. 253, parágrafo único, I, do RISTJ.
+8. A Corte Especial do STJ, no EAREsp 746.775/PR, consolidou o entendimento de que a decisão de inadmissibilidade do Recurso Especial é incindível, de modo que a impugnação deve ser integral e específica, não havendo falar em capítulos autônomos que possam ser atacados parcialmente.
+9. No caso concreto, as razões do Agravo em Recurso Especial limitaram-se a alegações genéricas relativas ao mérito da controvérsia e a supostas nulidades absolutas, sem enfrentar, de maneira específica e pormenorizada, os dois fundamentos de inadmissibilidade (Súmulas 7, STJ e 284, STF), o que atrai, por analogia, a incidência da Súmula 182, STJ.
+10. A matéria foi devidamente debatida na decisão monocrática, nos estritos limites da via eleita, e o agravo regimental não apresentou argumento novo ou específico capaz de infirmar os fundamentos adotados, impondo-se a manutenção da decisão agravada.
+11. Inexistindo impugnação adequada dos óbices de admissibilidade e ausentes ilegalidades flagrantes examináveis de ofício nesta sede, descabe a concessão de ordem de ofício pretendida pela parte agravante.
+IV. Dispositivo e tese
+12. Resultado do Julgamento: Agravo regimental desprovido.
+Tese de julgamento:
+1. O Agravo em Recurso Especial deve impugnar de forma específica, concreta e pormenorizada todos os fundamentos da decisão que inadmitiu o Recurso Especial, sob pena de não conhecimento, incidindo, por analogia, a Súmula 182, STJ.
+2. É legítima a decisão monocrática do Presidente do STJ, com base no art. 21-E, V, do RISTJ, para não conhecer de Agravo em Recurso Especial que não ataca todos os fundamentos autônomos da decisão de inadmissibilidade do Recurso Especial.
+3. A decisão de inadmissibilidade do Recurso Especial é incindível, de modo que sua impugnação deve ser integral e específica, não sendo possível o conhecimento parcial do Agravo em Recurso Especial quando remanescer fundamento autônomo não impugnado.
+Dispositivos relevantes citados:
+CPC/2015, art. 932, III; RISTJ, arts. 21-E, V, e 253, parágrafo único, I; RISTJ, art. 202 (invocado pela parte recorrente); Súmula 7/STJ; Súmula 182/STJ; Súmula 284/STF.
+Jurisprudência relevante citada:
+STJ, EAREsp 746.775/PR, Corte Especial, Rel. p/ acórdão Min. Luis Felipe Salomão, DJe 30.11.2018; STJ, AgRg no HC 804.533/PE, Quinta Turma, Rel. Min. Reynaldo Soares da Fonseca, DJe 17.03.2023; STJ, AgRg no HC 659.003/SP, Sexta Turma, Rel. Min. Rogerio Schietti Cruz, DJe 30.03.2023.
+VOTO
+Presentes os requisitos legais, conheço do agravo regimental.
+Em que pesem os argumentos contidos nas razões recursais, o agravo não comporta provimento, porquanto a parte agravante não trouxe argumentos capazes de ensejar a alteração do entendimento firmado por ocasião da decisão monocrática, que deve ser mantida, máxime porque embasada em julgados desta Corte Superior de Justiça.
+Inicialmente, afasto a alegação de que seria incabível a decisão monocrática. O art. 21-E, inciso V, do Regimento Interno do STJ confere ao Presidente desta Corte competência para, monocraticamente, não conhecer de agravo em recurso especial que não impugne especificamente todos os fundamentos da decisão agravada. Cuida-se, portanto, de hipótese de julgamento singular expressamente prevista no ordenamento regimental, não havendo qualquer irregularidade no ato decisório combatido.
+No mérito, a decisão agravada deve ser mantida por seus próprios fundamentos.
+A decisão proferida pelo Tribunal de Justiça do Estado de Santa Catarina inadmitiu o Recurso Especial com base em dois fundamentos autônomos e suficientes, cada qual apto a, por si só, manter a inadmissibilidade: (a) Súmula 7/STJ, ante a necessidade de reexame do conjunto fático-probatório para acolhimento da tese defensiva; e (b) Súmula 284/STF, em razão da deficiência na fundamentação do apelo nobre.
+Para o conhecimento do Agravo em Recurso Especial, é imprescindível que a parte agravante impugne, de forma específica, concreta e pormenorizada, todos os fundamentos da decisão que inadmitiu o Recurso Especial na origem. Havendo mais de um fundamento autônomo a sustentar a inadmissão, a ausência de impugnação específica de qualquer deles é suficiente para o não conhecimento do agravo, nos termos do art. 932, III, do CPC/2015, c/c o art. 253, parágrafo único, I, do RISTJ.
+Entendimento que consolidou-se no âmbito da Corte Especial, no julgamento dos EAREsp 746.775/PR (Rel. p/ acórdão Min. Luis Felipe Salomão ), oportunidade em que se assentou que a decisão de inadmissibilidade do Recurso Especial é incindível, não sendo composta por capítulos autônomos, razão pela qual sua impugnação deve ser integral e específica.
+No caso concreto, ainda que a defesa sustente ter rebatido todos os argumentos da inadmissão, a análise das peças processuais demonstra que a impugnação apresentada no Agravo em Recurso Especial não enfrentou, de maneira específica e adequada, os dois fundamentos consignados na decisão denegatória. Alegações genéricas relativas ao mérito da controvérsia ou à existência de nulidades absolutas no processo de origem não suprem a exigência de impugnação específica dos óbices de admissibilidade apontados, incidindo, por analogia, a Súmula 182/STJ.
+Assim, a matéria restou devidamente debatida na decisão recorrida, claro, nos limites da via eleita, de forma que não há falar em possível reversão do antes julgado.
+Por fim, destaque-se que, no presente agravo regimental, não se aduziu qualquer argumento apto a ensejar a alteração da decisão ora agravada, devendo ser mantida por seus próprios fundamentos. Acerca do tema: AgRg no HC n. 804.533/PE, Quinta Turma, Rel. Min. Reynaldo Soares da Fonseca, DJe de 17/3/2023; e AgRg no HC n. 659.003/SP, Sexta Turma, Rel. Min. Rogerio Schietti Cruz, DJe de 30/3/2023.
+Ante o exposto, nego provimento ao agravo regimental.
+É o voto.
