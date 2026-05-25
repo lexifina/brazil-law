@@ -1,0 +1,20 @@
+DECISÃO
+Trata-se de embargos de declaração opostos pelo MUNICÍPIO DO RECIFE contra decisão que conheceu do agravo para dar provimento ao recurso especial, tornando nulo o acórdão proferido no julgamento dos embargos de declaração, a fim de que a Corte de origem apreciasse a matéria articulada nos aclaratórios.
+Nos declaratórios, a parte embargante alega haver omissão na decisão, ao argumento de que não teriam sido enfrentadas as razões defensivas apresentadas pelo Município, especialmente quanto à tese de que, no caso concreto, os temas relativos à correção monetária e aos juros de mora não possuiriam natureza de ordem pública.
+Com impugnação às fls. 818/824.
+É o relatório. Decido.
+Nos termos do que dispõe o artigo 1.022 do Código de Processo Civil de 2015, cabem embargos de declaração contra qualquer decisão judicial para esclarecer obscuridade, eliminar contradição, suprir omissão de ponto ou questão sobre a qual devia se pronunciar o juiz de ofício ou a requerimento, bem como para corrigir erro material.
+No caso, os embargos não merecem acolhimento.
+A decisão embargada resolveu a controvérsia nos seguintes termos (fls. 806/807):
+"Com efeito, o recorrente pretende a anulação do acórdão proferido pela Corte de origem em sede de embargos de declaração sob o argumento que remanesce contraditório o julgamento da controvérsia.
+Extrai-se dos autos que a recorrente suscitou, em sede de embargos de declaração, contradição no acórdão recorrido, consistente no fato de o Tribunal de origem ter analisado a prescrição intercorrente, reconhecidamente matéria de ordem pública, e, simultaneamente, ter se recusado a examinar os temas relativos à correção monetária e aos juros moratórios, sob o fundamento de supressão de instância, embora igualmente se tratem de matérias de ordem pública.
+Com efeito, evidencia-se que a questão suscitada guarda correlação lógico-jurídica com a pretensão deduzida nos autos e se apresenta imprescindível à satisfação da tutela jurisdicional.
+A falta de manifestação a respeito de questão necessária à resolução integral da demanda autoriza o acolhimento de ofensa ao artigo 1.022 do CPC/15, enseja a anulação do acórdão proferido em sede de embargos de declaração e torna indispensável o rejulgamento dos aclaratórios. A propósito: AgInt no REsp 1.921.251/PR, relator Ministro Sérgio Kukina, Primeira Turma, DJe 15/12/2023; AgInt no REsp 2.012.744/MS , relator Ministro Benedito Gonçalves, Primeira Turma, DJe 18/10/2023; AgInt nos EDcl no REsp 2.024.125/SP, relator Ministro Paulo Sérgio Domingues, Primeira Turma, DJe 30/8/2023; AgInt no REsp 2.020.066/RN, relator Ministro Gurgel de Faria, Primeira Turma, DJe 19/5/2023.
+Ante o exposto, conheço do agravo para dar provimento ao recurso especial, tornando nulo o acórdão proferido no julgamento dos embargos de declaração, a fim de que a Corte de origem aprecie a matéria articulada nos aclaratórios." (grifei)
+Conforme consignado na decisão embargada, a parte recorrente apontou contradição relevante no acórdão recorrido, consistente na análise da prescrição intercorrente, matéria de ordem pública, e na recusa de exame dos temas relativos à correção monetária e aos juros moratórios, também invocados sob essa natureza, razão pela qual se reconheceu ofensa ao art. 1.022 do CPC/2015, ante a ausência de manifestação sobre ponto necessário à resolução integral da controvérsia.
+Ressalta-se que a decisão embargada não apreciou o mérito da tese relativa à incidência, ou não, de preclusão sobre os juros de mora e a correção monetária, mas apenas reconheceu a existência de vício no acórdão recorrido, por ausência de enfrentamento de questão suscitada nos embargos de declaração opostos na origem.
+Assim, evidencia-se não ter ocorrido falta de clareza, insuficiência de fundamentação ou erro material a ensejar esclarecimento ou complementação do que já decidido.
+Ante o exposto, rejeito os embargos de declaração.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. ART. 1.022 DO CPC/2015. VÍCIOS NÃO CONFIGURADOS. EMBARGOS REJEITADOS.
