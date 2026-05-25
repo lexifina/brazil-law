@@ -1,0 +1,17 @@
+DECISÃO
+Trata-se de habeas corpus, impetrado em nome de FLAVIO LEAL VARGAS - condenado por estelionato a 1 ano, 6 meses e 20 dias de reclusão, e 14 dias-multa (fls. 32/36 - Ação Penal n. 0054480-90.2018.8.19.0001, da 14ª Vara Criminal da comarca do Rio de Janeiro/RJ) -, apontando como ato coator o acórdão de apelação criminal proferido pelo Tribunal de Justiça do Rio de Janeiro, que deu provimento ao recurso ministerial para condenar o réu e fixar o regime inicial fechado (fls. 14/27).
+A impetração busca a concessão de liminar para suspender o mandado de prisão ou, subsidiariamente, para adequar provisoriamente o cumprimento ao regime semiaberto; e, no mérito, a revisão da dosimetria, sustentando:
+a) concurso de pessoas não comprovado no fato da denúncia e utilização, no acórdão, de eventos distintos e não contemplados pela peça acusatória para afirmar esquema e comunhão de ações (fls. 5/7);
+b) bis in idem na negativação das circunstâncias do crime ao valorar o esquema cuidadosamente engendrado para ludibriar, por integrar elementar do tipo do art. 171 do Código Penal (artifício, ardil ou qualquer meio fraudulento) (fls. 7/8); e
+c) fixação do regime inicial semiaberto, com aplicação da Súmula 269 do Superior Tribunal de Justiça, ausentes circunstâncias judiciais desfavoráveis (fls. 9/10)
+É o relatório.
+O writ é inadmissível, pois busca rediscutir condenação mantida pelas instâncias ordinárias e já examinada por esta Corte no HC n. 1.021.432/MG, de minha relatoria, Sexta Turma, DJEN de 16/12/2025, sem demonstração de constrangimento ilegal flagrante apto a superar o óbice processual.
+O Tribunal de origem afastou a tese de ausência de concurso de pessoas com base na prova produzida sob contraditório, especialmente no depoimento judicial de Raphael, na falsificação de documentos em nome da vítima e na referência à prisão em flagrante de comparsa em caso correlato, concluindo pela atuação em comunhão de desígnios e pela existência de esquema cuidadosamente estruturado (fls. 18/21 e 24/25). A pretensão defensiva, portanto, demanda reexame do conjunto fático-probatório, providência incompatível com a via estreita do habeas corpus.
+A exasperação da pena-base também está amparada em elementos concretos dos autos, aptos a justificar a valoração negativa das circunstâncias do crime, diante do concurso de agentes e do modus operandi sofisticado empregado para ludibriar a loja vendedora mediante uso de documentos falsos, circunstâncias corroboradas por registros documentais e pela prisão em flagrante de comparsa em caso correlato (fls. 18/21 e 24/25).
+Além disso, o colegiado afastou o regime inicial semiaberto ao fundamento de que a reincidência e as circunstâncias judiciais desfavoráveis autorizam a fixação de regime mais gravoso, ainda que a pena seja inferior a 4 anos, sendo inaplicável a Súmula 269/STJ diante das peculiaridades do caso concreto (fl. 25; fls. 15/25), em consonância com a jurisprudência desta Corte Superior.
+Nesse sentido: AgRg no AREsp n. 2.176.308/DF, Ministro Antonio Saldanha Palheiro, Sexta Turma, DJe de 18/10/2024.
+Em razão disso, indefiro liminarmente a inicial (art. 210 do RISTJ).
+Publique-se.
+EMENTA
+PENAL. HABEAS CORPUS. ESTELIONATO. DOSIMETRIA. PRETENSÃO DE REVISÃO DA CONDENAÇÃO IMPOSTA E MANTIDA PELAS INSTÂNCIAS ORDINÁRIAS. UTILIZAÇÃO INDEVIDA DO WRIT. INVIABILIDADE. FORMULAÇÃO DE PRETENSÕES INFUNDADAS. CONSTRANGIMENTO ILEGAL MANIFESTO. AUSÊNCIA.
+Inicial indeferida liminarmente.
