@@ -1,0 +1,24 @@
+DECISÃO
+Trata-se de agravo interposto por GABRIELLE ALINE DE OLIVEIRA RIBEIRO DO VALE contra decisão que inadmitiu o recurso especial, ao fundamento da incidência do óbice das Súmulas n. 283 e 284/STF, da Súmula 7/STJ e ausência de prequestionamento.
+A agravante foi condenada pela prática dos crimes de receptação e adulteração de sinal de veículo automotor, em regime semiaberto.
+No recurso especial (fls. 207-214), a parte alega que o crime de adulteração de sinal de veículo automotor deve ser absorvido pelo delito de receptação e que faz jus a pena restritiva de direitos.
+Nas razões do agravo (fls. 261-266), reitera os fundamentos do recurso especial e afirma que:
+Inicialmente, nota-se o caráter vago e genérico da decisão, que não aponta quais argumentos presentes no acórdão recorrido não teriam sido enfrentados no recurso especial. Chama a atenção, inclusive, que tal alegação foi feita somente a respeito de suposta falta de impugnação a fundamentos a respeito da substituição corporal e ao princípio da consunção, porém o recurso especial não se limita a tal matéria, também abordando outros temas acerca dos quais nada disse a decisão agravada.
+ ..
+A sobre o pleito defensivo de reconhecimento consunção e a violação ao art. 180 e 311, §2º, III, ambos do CP, afirmou o acórdão que "Quanto ao crime de adulteração de sinal identificador de veículo, a condenação deve ser igualmente mantida, até porque a defesa não produziu qualquer prova idônea (CPP, artigo 156) que fragilizasse àquela edificada a requerimento da acusação. Aliás, a Lei nº 14.562/2023 incluiu o § 2º ao art. 311 do Código Penal, trazendo inovações significativas, especialmente em seu inciso III, que prevê uma nova figura típica imputada ao acusado" (p. 189/190).
+ ..
+Nesse ínterim, o pedido constante no referido Resp consistia em se revalorar juridicamente os fatos assentados, não pedir nova construção da realidade processual (mudança dos fatos aceitos como verdadeiros). Ao contrário do que asseverou o ilustre Desembargador Presidente da Seção Criminal do Tribunal de Justiça de São Paulo, a pretensão defensiva é a correta aplicação do disposto no artigo 44, 180 e 311, todos do Código Penal Brasileiro e o princípio da consunção.
+Apresentada a contraminuta (fls. 271-276), o Ministério Público Federal opinou pelo não conhecimento do agravo em recurso especial (fls. 304-307).
+É o relatório.
+O agravo em recurso especial deve conter impugnação específica aos fundamentos da decisão que inadmitiu o recurso especial, sob pena de não conhecimento pelo relator (art. 932, III, do CPC e Súmula n. 182 do STJ).
+No presente caso, a pretensão buscada no recurso especial, consistente no reconhecimento do princípio da consunção nos delitos que a recorrente foi condenada, não foi objeto de prequestionamento.
+Isto porque a referida pretensão não foi deduzida no recurso de apelação e tampouco debatida e decidida pela Corte de origem. A referida tese defensiva foi inovada por ocasião da interposição do recurso especial.
+Logo, não havendo decisão de última instância no acórdão de origem sobre a questão jurídica levantada pela agravante no recurso especial, não há falar em prequestionamento e tampouco em cabimento do recurso especial.
+Nesse sentido:
+PENAL. AGRAVO REGIMENTAL EM AGRAVO EM RECURSO ESPECIAL. FUNDAMENTOS INATACADOS. INADMISSIBILIDADE. INOBSERVÂNCIA DO COMANDO LEGAL DO ART. 544, § 4º, I, DO CPC. SÚMULA 182/STJ, POR ANALOGIA. RECURSO ESPECIAL. NULIDADE PROCESSUAL. INCOMPETÊNCIA DO MAGISTRADO QUE DEFERIU INTERCEPTAÇÕES TELEFÔNICAS. FALTA DE FUNDAMENTAÇÃO DAS DECISÕES. QUESTÕES QUE NÃO FORAM DEBATIDAS NA CORTE DE ORIGEM. FALTA DE PREQUESTIONAMENTO. OMISSÃO. FUNDAMENTAÇÃO DEFICIENTE (SÚMULA 284/STF). TENTATIVA DE SUPRIR A DEFICIÊNCIA. INVIABILIDADE. PRECLUSÃO. CONFRONTO QUE REVELA QUE AS TESES DEFENSIVAS FORAM ENFRENTADAS. NULIDADE POR VIOLAÇÃO DO ART. 514 DO CPP. IMPROCEDÊNCIA. SÚMULA 330/STJ. ILEGALIDADE NA PENA E NO REGIME INICIAL. RECURSO QUE TENTA AGREGAR TESE NOVA. INVIABILIDADE (PRECLUSÃO). ILEGALIDADE FLAGRANTE. CIRCUNSTÂNCIAS JUDICIAIS VALORADAS NEGATIVAMENTE COM FUNDAMENTAÇÃO INIDÔNEA. EXCLUSÃO. REDIMENSIONAMENTO. MODIFICAÇÃO DO REGIME INICIAL (SEMIABERTO). VENCIDO O RELATOR, QUE FIXAVA REGIME MAIS BRANDO (ABERTO). PERDA DO CARGO. LEGALIDADE. MANUTENÇÃO.
+Agravo regimental improvido. Habeas corpus concedido de ofício, apenas para redimensionar a reprimenda corporal dos agravantes para 2 anos e 6 meses de reclusão, em regime inicial semiaberto; mantida a perda do cargo público, com fundamento no art. 92, I, a, do Código Penal.
+(AgRg no AREsp n. 545.101/PE, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 19/5/2015, DJe de 29/6/2015, grifos acrescidos.)
+Ante o exposto, com fundamento nos arts. 932, III, do CPC e 253, parágrafo único, I, do Regimento Interno do STJ, não conheço do agravo no recurso especial.
+Publique-se.
+Intimem-se.
+ EMENTA
