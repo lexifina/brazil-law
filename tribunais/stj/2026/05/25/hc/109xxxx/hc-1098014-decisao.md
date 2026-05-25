@@ -1,0 +1,27 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de VAGNER MARCOLIN contra decisão do TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO GRANDE DO SUL que indeferiu a medida urgente no writ de origem.
+Consta dos autos que o paciente foi preso preventivamente como incurso nas sanções do art. 173 e do art. 158, § 1º, do Código Penal.
+Neste writ, a defesa sustenta a ilegalidade da custódia cautelar, sob o argumento de que o Ministério Público, ao oferecer a denúncia, requereu a revogação da prisão preventiva e a aplicação de medidas cautelares diversas, pleito acolhido pelo Juízo de origem.
+Alega que, posteriormente, no mesmo processo e sem novo requerimento ministerial ou representação da autoridade policial, o Juízo restabeleceu a prisão preventiva de ofício, com fundamento em decisão proferida em feito conexo. Afirma que a medida violou o art. 311 do CPP e o sistema acusatório.
+Argumenta que a ilegalidade foi suscitada na origem, mas o Juízo processante não enfrentou especificamente a alegação de decretação de ofício.
+Afirma que o constrangimento ilegal é flagrante, o que autorizaria a superação do óbice da Súmula 691/STF.
+Requer, liminarmente e no mérito, o relaxamento da prisão preventiva e a imediata soltura do paciente, se por outro motivo não estiver preso.
+É o relatório.
+A teor do disposto na Súmula 691 do Supremo Tribunal Federal, não se admite a impetração de habeas corpus contra decisão que indeferiu o pedido de liminar em writ impetrado no Tribunal de origem, sob pena de indevida supressão de instância.
+A despeito do óbice, a jurisprudência do STJ firmou a compreensão de que, em casos excepcionais, quando evidenciada a presença de decisão teratológica ou desprovida de fundamentação, é possível a mitigação da referida Súmula.
+Na espécie, o pedido de liminar foi indeferido no Tribunal de origem, nos seguintes termos (fls. 14-17):
+ ..  a atuação judicial foi devidamente provocada pelo órgão de acusação, que expôs a necessidade de reavaliar o status libertatis do paciente em razão de fatos novos. A decisão do Magistrado, ao unificar a situação prisional do réu em processos que tramitam na mesma unidade jurisdicional e guardam íntima conexão, não configura atuação ex officio, mas sim uma gestão processual coerente e alinhada à provocação ministerial.
+ ..
+Em uma análise perfunctória, própria desta fase processual, vislumbra-se a presença de prova da materialidade e indícios suficientes de autoria, consubstanciados nos elementos informativos colhidos durante a fase de inquérito policial, os quais serviram de base para o recebimento da denúncia pelo juízo a quo. As teses defensivas, que buscam desconstituir o fumus comissi delicti ao argumentar a atipicidade do crime de abuso de incapaz por ausência de comprovação da debilidade da vítima e a inépcia da denúncia quanto ao crime de extorsão por falta de individualização da conduta, constituem matéria que se confunde com o próprio mérito da ação penal. A via estreita e de cognição sumária do habeas corpus não se presta à análise aprofundada de provas, sendo inviável, neste momento e por este meio, valorar a capacidade mental da vítima ou esmiuçar a narrativa acusatória para aferir a precisa participação de cada agente. Tais questões demandam a necessária dilação probatória, sob o crivo do contraditório e da ampla defesa, sendo o momento da instrução processual o foro adequado para sua elucidação
+Diferentemente do que sustenta a impetração, o periculum libertatis encontra-se devidamente evidenciado, justificando a manutenção da custódia para a garantia da ordem pública. A periculosidade do agente não se afere apenas por seus antecedentes, mas, sobretudo, pela gravidade concreta dos fatos imputados e pelo modus operandi empregado. No caso em tela, o paciente está sendo processado em duas ações penais correlatas por uma gama de delitos graves, que, no seu conjunto, indicam uma aparente dedicação a atividades criminosas.
+ ..
+Diante de tal cenário, as medidas cautelares diversas da prisão, previstas no artigo 319 do Código de Processo Penal, revelam-se patentemente insuficientes e inadequadas para neutralizar o risco que a liberdade do paciente representa. A gravidade concreta dos delitos, a periculosidade social do agente evidenciada pela aparente reiteração em atividades criminosas complexas e o risco à ordem pública demandam uma medida mais enérgica do que simples comparecimentos em juízo, proibições de contato ou monitoramento eletrônico.
+ ..
+Ante o exposto, indefiro a liminar.
+No caso, o pedido de liminar foi fundamentadamente indeferido na origem, porquanto não evidenciados, em juízo de cognição sumária, os pressupostos autorizativos da medida urgente, notadamente diante da ausência de flagrante ilegalidade no restabelecimento da prisão preventiva, da apontada existência de prova da materialidade e indícios suficientes de autoria, bem como da gravidade concreta das imputações e do risco à ordem pública. Maiores aprofundamentos sobre as teses defensivas competem à Câmara julgadora, por ocasião do exame de mérito da impetração.
+Não se verific a, portanto, teratologia ou manifesta ilegalidade apta a autorizar a mitigação da Súmula n. 691/STF, cabendo ao Tribunal de origem a análise meritória, sob pena de indevida supressão de instância.
+Outrossim, o processamento do feito implicaria inevitavelmente supressão de instância.
+Ante o exposto, nos termos do art. 210 do RISTJ, indefiro liminarmente o habeas corpus.
+Publique-se.
+Intimem-se.
+ EMENTA
