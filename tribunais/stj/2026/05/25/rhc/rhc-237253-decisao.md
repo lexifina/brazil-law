@@ -1,0 +1,29 @@
+DECISÃO
+JHEFERSON DIAS ALVES interpõe recurso em habeas corpus contra acórdão do Tribunal de Justiça do Estado de Goiás proferido no HC n. 5203652-86.2026.8.09.0011.
+Consta dos autos que o recorrente encontra-se preso preventivamente pela suposta prática dos crimes previstos nos arts. 330, 329, caput, e 163, parágrafo único, inciso III, todos do Código Penal, no art. 309 da Lei n. 9.503/1997 e no art. 28 da Lei n. 11.343/2006.
+Sustenta, em síntese: a) a nulidade do acórdão e da decisão de primeiro grau por ausência de fundamentação concreta e idônea; b) a ausência de contemporaneidade do perigo e o uso indevido dos antecedentes criminais; e c) a desproporcionalidade da prisão cautelar.
+Requer a revogação da prisão preventiva, com a consequente expedição de alvará de soltura, ou, subsidiariamente, a substituição do cárcere por medidas cautelares alternativas.
+O Ministério Público Federal apresentou parecer pelo desprovimento do recurso (fls. 110-125).
+É o relatório.
+A segregação cautelar é medida de índole excepcional, admissível apenas quando demonstrada a sua real indispensabilidade para assegurar a ordem pública, a instrução criminal ou a aplicação da lei penal, mediante decisão concretamente fundamentada.
+No caso em apreço, o Juízo de primeiro grau, cujos fundamentos foram encampados pelo Tribunal de origem, demonstrou a presença do perigo gerado pelo estado de liberdade do recorrente com base na gravidade concreta da conduta e no risco efetivo de reiteração delitiva.
+A decisão constritiva desta cou a periculosidade evidenciada pelo modo de execução dos delitos, consubstanciada em perseguição policial ininterrupta por cerca de trinta minutos em alta velocidade, culminando com o arremesso doloso do veículo contra a viatura policial para assegurar a fuga.
+Ademais, ressaltou-se o histórico criminal contumaz do agente, apontando a imprescindibilidade da medida extrema, conforme se extrai do seguinte trecho:
+Durante a perseguição, na tentativa de se desvencilhar do cerco policial, JHEFERSON jogou o veículo contra viatura, causando danos ao patrimônio público, tendo ainda sido constatado que conduzia o automóvel sem possuir habilitação e que o licenciamento do veículo está vencido.  ..  Tais circunstâncias, especialmente a perseguição policial prolongada com risco à coletividade, os danos causados ao patrimônio público e a apreensão de substâncias entorpecentes em quantidade relevante, revelam cenário que compromete a tranquilidade social e evidenciam a necessidade de cautela estatal para resguardar a ordem pública. Reforça a necessidade de resguardar a ordem pública o histórico criminal do custodiado JHEFERSON, o qual é reincidente.  ..  Registra-se, ainda, que o custodiado foi beneficiado com progressão ao regime semiaberto em 20/10/2025. (fls. 66-67)
+Verifica-se, portanto, que a segregação processual não se ampara em meras conjecturas ou na gravidade abstrata dos tipos penais imputados, mas encontra-se devidamente embasada em elementos fáticos concretos e contemporâneos extraídos dos autos.
+A jurisprudência desta Corte Superior é firme no sentido de que a reincidência e o cometimento de novo delito no curso do cumprimento de pena anterior evidenciam o descaso do agente com o ordenamento jurídico e constituem fundamentos idôneos para a decretação da custódia cautelar, visando à garantia da ordem pública.
+Em hipóteses análogas, o Superior Tribunal de Justiça assim se manifestou:
+PROCESSUAL PENAL. HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. INADEQUAÇÃO. TRÁFICO DE DROGAS. PRISÃO PREVENTIVA. NECESSIDADE DE GARANTIA DA ORDEM PÚBLICA. RISCO DE REITERAÇÃO DELITIVA. CONSTRANGIMENTO ILEGAL NÃO CARACTERIZADO. HABEAS CORPUS NÃO CONHECIDO.
+1. Esta Corte e o Supremo Tribunal Federal pacificaram orientação no sentido de que não cabe habeas corpus substitutivo do recurso legalmente previsto para a hipótese, impondo-se o não conhecimento da impetração, salvo quando constatada a existência de flagrante ilegalidade no ato judicial impugnado.
+2. Havendo prova da existência do crime e indícios suficientes de autoria, a prisão preventiva, nos termos do art. 312 do Código de Processo Penal, poderá ser decretada para garantia da ordem pública, da ordem econômica, por conveniência da instrução criminal ou para assegurar a aplicação da lei penal.
+3. No caso, embora a quantidade de droga apreendida não seja grande
+- 5 porções de maconha, 14 microtubos contendo cocaína e 9 porções de crack - verifica-se que o o paciente é reincidente específico, circunstância que autoriza sua segregação cautelar, para garantia da ordem pública, como forma de evitar a reiteração delitiva.
+4. É incabível, na estreita via do habeas corpus, a análise de questões relacionadas à negativa de autoria, por demandar o reexame do conjunto fático-probatório dos autos.
+5. Habeas corpus não conhecido.
+(HC n. 530.578/SP, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 12/11/2019, DJe de 25/11/2019.)
+Desse modo, afasta-se a alegação de coação ilegal sustentada pela defesa, uma vez que a imposição do cárcere decorre de motivação judicial hígida e ajustada aos ditames constitucionais e processuais.
+Demonstrada a necessidade imperiosa da constrição cautelar em razão do acentuado risco de reiteração delitiva, torna-se inviável a sua revogação ou substituição pelas providências previstas no art. 319 do Código de Processo Penal.
+A aplicação de cautelares alternativas revela-se manifestamente insuficiente e inadequada para resguardar a ordem pública na hipótese vertente, notadamente porque o recorrente voltou a delinquir logo após ser agraciado com a progressão para o regime semiaberto, o que demonstra a ineficácia de medidas menos rigorosas para conter o seu ímpeto transgressor.
+Ante o exposto, nego provimento ao recurso em habeas corpus.
+Publique-se e intimem-se.
+EMENTA
