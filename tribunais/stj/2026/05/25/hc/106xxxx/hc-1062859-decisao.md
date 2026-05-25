@@ -1,0 +1,26 @@
+DECISÃO
+Trata-se de habeas corpus substitutivo, com pedido de liminar, em favor de ITAMAR PIRES CALVALCANTE, contra acórdão proferido pela 3ª Câmara Criminal do Tribunal de Justiça do Estado do Ceará, que, denegando a ordem impetrada, manteve execução imediata de condenação pelo Júri, aplicando o Tema n. 1.068/STF.
+Consta dos autos que o paciente foi condenado à pena de 5 anos, 6 meses e 20 dias de reclusão, em regime inicial semiaberto, por homicídio privilegiado (art. 121, §1º, do Código Penal).
+A defesa aduz, em síntese, que a execução provisória seria desproporcional e desarrazoada, além de incompatível com o regime inicial semiaberto. Também sustenta a irretroatividade da Lei n. 13.964/19, no que determina a execução imediata das penas proferidas pelo Tribunal do Júri.
+Alega, assim, a possibilidade de recorrer em liberdade. Liminarmente, requer a suspensão do acórdão que determinou a execução da pena, deferindo-lhe o direito de recorrer em liberdade. No mérito, a confirmação da ordem.
+A Liminar foi indeferida (fls. 92/93).
+Informações prestadas.
+O MPF opinou pela denegação da ordem (fls. 107/117).
+É o relatório.
+Fundamento e Decido.
+A Constituição da Republica assegura, no artigo 5º, caput, inciso LXVII, que "conceder-se-á habeas corpus sempre que alguém sofrer ou se achar ameaçado de sofrer violência ou coação em sua liberdade de locomoção, por ilegalidade ou abuso de poder".
+É entendimento pacífico do Superior Tribunal de Justiça que o habeas corpus não pode ser utilizado como substitutivo de recurso próprio, salvo em casos de manifesta ilegalidade, abuso de poder ou teratologia (AgRg no HC n. 972.937/MT, relator Ministro Messod Azulay Neto, Quinta Turma, julgado em 20/3/2025, DJEN de 26/3/2025; AgRg no HC n. 985.793/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 18/3/2025, DJEN de 26/3/2025; AgRg no HC n. 908.616/RS, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 19/3/2025, DJEN de 24/3/2025).
+No mesmo sentido, o "habeas corpus não é a via adequada para apreciar o pedido de absolvição ou de desclassificação de condutas, tendo em vista que, para se desconstituir o decidido pelas instâncias de origem, mostra-se necessário o reexame aprofundado dos fatos e das provas constantes dos autos, procedimento vedado pelos estreitos limites do writ, caracterizado pelo rito célere e por não admitir dilação probatória" AgRg no RHC n. 198.668/MG, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 1/7/2024, DJe de
+3/7/2024).
+A teor do disposto no art. 105, II, a, da CF/88, o recurso cabível contra acórdão que denega a ordem na origem é o recurso ordinário, enquanto, consoante previsto no art. 105, III, da CF, contra acórdão que julga a apelação, o recurso em sentido estrito e o agravo em execução, cabe recurso especial.
+Nada impede, contudo, constatada a existência de ilegalidade flagrante, abuso de poder ou teratologia, a concessão de habeas corpus de ofício, nos termos do art. 654, §2º do CPP, o que ora passa-se a examinar.
+Consoante relatado, cuida-se de Habeas Corpus substitutivo de recurso ordinário visando à liberdade provisória do paciente condenado pelo Tribunal do Júri, contra o qual foi lavrada ordem de prisão e execução provisória da pena, nos moldes decididos pelo Tema n. 1.068/STF.
+O Tribunal de Origem assentou que o entendimento consolidado pelo STF no Tema 1.068 possui aplicação imediata e independe da data dos fatos, pois decorre de interpretação constitucional vinculante, não incidindo o princípio da irretroatividade da lei penal mais gravosa.
+A tese de julgamento fixada no referido Tema é a seguinte: "A soberania dos veredictos do Tribunal do Júri autoriza a imediata execução de condenação imposta pelo corpo de jurados, independentemente do total da pena aplicada" (STF - RE: 1235340 SC, Relator.: Min. LUÍS ROBERTO BARROSO, Data de Julgamento: 12/09/2024, Tribunal Pleno, Data de Publicação: PROCESSO ELETRÔNICO REPERCUSSÃO GERAL - MÉRITO DJe-s/n DIVULG 12-11-2024 PUBLIC 13-11-2024).
+A partir desse entendimento, o STJ tem alinhado sua jurisprudência no sentido de que a soberania dos veredictos do Júri autoriza a execução imediata da condenação mesmo em regime inicial semiaberto, salvo demonstração concreta de situação excepcional, o que não se verifica no presente caso. A execução imediata da condenação pelo Tribunal do Júri não viola o princípio da presunção de inocência, pois a decisão do Júri não pode ser substituída por outro tribunal.
+No caso dos autos, o Tribunal de Origem atestou a conformidade do ato judicial impugnado com as determinações exaradas no Pedido de Providências nº 0008070-64.2022.2.00.0000/CNJ, motivo pelo qual se afasta, também, a existência de flagrante ilegalidade ou teratologia.
+Diante do precedente vinculante, estabelecendo que a norma prevista na alínea e do inciso I do art. 492 do CPP é valida e está em plena vigência, independente da pena aplicada, não há constrangimento ilegal na determinação da execução provisória da pena imposta ao paciente.
+Pelo exposto, não conheço do habeas corpus substitutivo e, na análise de ofício, não visualizo elementos capazes de caracterizar a alegada nulidade.
+Publique-se.
+Intimem-se.
+EMENTA
