@@ -1,0 +1,71 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 19/05/2026 a 25/05/2026, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Maria Isabel Gallotti, Antonio Carlos Ferreira, Luís Carlos Gambogi (Desembargador Convocado do TJMG) e João Otávio de Noronha votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro João Otávio de Noronha.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE OMISSÃO, CONTRADIÇÃO, OBSCURIDADE OU ERRO MATERIAL. EMBARGOS REJEITADOS.
+1. Os embargos de declaração têm como objetivo sanar eventual existência de obscuridade, contradição, omissão ou erro material (CPC/2015, art. 1.022). É inadmissível a sua oposição para rediscutir questões tratadas e devidamente fundamentadas na decisão embargada, já que não são cabíveis para provocar novo julgamento da lide.
+2. Embargos de declaração rejeitados.
+RELATÓRIO
+Trata-se de embargos de declaração opostos por ECON PARTICIPAÇÕES LTDA contra acórdão proferido pela col. Quarta Turma do STJ (e-STJ, fls. 102-108), nos termos da seguinte ementa:
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO NA ORIGEM. CUMPRIMENTO DE SENTENÇA. PENHORA SOBRE O FATURAMENTO DA EMPRESA. POSSIBILIDADE. AUSÊNCIA DE OUTROS BENS. SÚMULAS 7 E 83/STJ. AGRAVO INTERNO A QUE SE NEGA PROVIMENTO.
+1. "O STJ, por vários dos seus precedentes, tem mantido penhoras fixadas em percentual do faturamento da empresa executada, tido por razoável, conforme o caso, com vistas, por um lado, a disponibilizar forma menos onerosa para o devedor e, por outro lado, a garantir forma idônea e eficaz de satisfação do crédito, atendendo assim ao princípio da efetividade da execução, como no caso dos autos" (AgInt no AREsp 1.817.201/SP, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 20/09/2021, DJe de 15/10/2021).
+2. No caso, o Tribunal de origem concluiu pelo esgotamento das medidas para localização de bens penhoráveis, notadamente diante da informação prestada pela própria executada sobre a ausência de bens livres passíveis de penhora. Rever a conclusão do acórdão recorrido, quanto à inexistência de outros bens penhoráveis, demandaria o reexame de provas, providência vedada pela Súmula 7/STJ.
+3. O entendimento adotado no acórdão recorrido coincide com a jurisprudência assente desta Corte Superior, circunstância que atrai a incidência da Súmula 83/STJ.
+4. Agravo interno a que se nega provimento."
+Em suas razões recursais, a parte embargante sustenta a ocorrência de omissão no acórdão quanto ao argumento central de que a controvérsia submetida ao recurso especial seria eminentemente jurídica, por envolver a correta aplicação dos artigos 805, 835 e 866 do Código de Processo Civil a fatos expressamente delimitados no acórdão recorrido, não pretendendo o reexame do conjunto fático-probatório, mas a revaloração jurídica de fatos incontroversos, o que afastaria a incidência da Súmula 7 do Superior Tribunal de Justiça.
+Defende omissão quanto à análise específica das alegadas violações aos artigos 805, 835 e 866 do Código de Processo Civil, pois o acórdão teria apenas afirmado a conformidade do decisum recorrido com a jurisprudência desta Corte, sem examinar, no caso concreto, a presença dos requisitos legais para a penhora sobre faturamento. Afirma que teria havido ausência de esgotamento de medidas menos gravosas e inadequação da constrição, com uso de precedentes de forma genérica, sem cotejo com os fatos fixados.
+Aduz omissão pela desconsideração da afetação do Tema 1.409/STJ, cuja controvérsia seria justamente definir se a penhora sobre faturamento possui caráter excepcional ou natureza prioritária na ordem de preferência dos bens nas execuções cíveis, ponto que abrangeria diretamente a hipótese dos autos.
+Defende omissão quanto à alegação de negativa de prestação jurisdicional, afirmando que não houve análise específica da tese de violação ao artigo 489, § 1º, do Código de Processo Civil, o que teria impedido o enfrentamento adequado das questões deduzidas.
+Impugnação não apresentada (e-STJ, fl. 120).
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE OMISSÃO, CONTRADIÇÃO, OBSCURIDADE OU ERRO MATERIAL. EMBARGOS REJEITADOS.
+1. Os embargos de declaração têm como objetivo sanar eventual existência de obscuridade, contradição, omissão ou erro material (CPC/2015, art. 1.022). É inadmissível a sua oposição para rediscutir questões tratadas e devidamente fundamentadas na decisão embargada, já que não são cabíveis para provocar novo julgamento da lide.
+2. Embargos de declaração rejeitados.
+VOTO
+O recurso não merece prosperar.
+As razões apresentadas nos embargos de declaração não evidenciam a existência de nenhum dos vícios previstos no art. 1.022 do CPC/2015; ao revés, todas as questões foram analisadas e decididas, ainda que contrariamente à pretensão da parte embargante, o que, por si só, inviabiliza o acolhimento dos declaratórios.
+Com efeito, a col. Quarta Turma, nos termos do voto desta Relatoria, negou provimento ao agravo interno, mantendo a decisão agravada, nos termos da seguinte fundamentação (e-STJ, fls. 105-108):
+"O recurso não prospera.
+A controvérsia é sobre a regularidade do deferimento de penhora sobre o faturamento da parte executada, ora agravante, em cumprimento de sentença, em percentual que será definido após a apresentação de laudo pelo perito administrador nomeado.
+Em seu recurso especial, a parte agravante alegou violação dos arts. 805, 835 e 866 do Código de Processo Civil, pois teria sido desrespeitada a ordem legal de preferência de penhora e o princípio da menor onerosidade, pela determinação da constrição do faturamento sem o esgotamento de localização de bens penhoráveis.
+Conforme entendimento das Turmas integrantes da Segunda Seção desta Corte, "a penhora sobre o faturamento da empresa consiste em medida excepcional a ser adotada nas hipóteses em que não existam outros meios viáveis ao cumprimento da obrigação" (AgInt nos EDcl no AREsp 1.554.798/SP, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 24/8/2020, DJe de 26/8/2020).
+Com efeito, esta Corte tem mantido penhoras fixadas em percentual do faturamento da empresa executada, tido por razoável, conforme o caso, com vistas, por um lado, a disponibilizar forma menos onerosa para o devedor e, por outro lado, a garantir forma idônea e eficaz de satisfação do crédito, atendendo assim ao princípio da efetividade da execução, como no caso dos autos.
+A propósito:
+(..)
+Na espécie, o eg. Tribunal de Justiça do Estado de São Paulo concluiu pelo esgotamento das medidas para localização de bens penhoráveis, notadamente diante da informação prestada pela própria executada sobre a ausência de bens livres passíveis de penhora (e-STJ, fls. 24-25):
+"Em que pesem os argumentos deduzidos pela agravante, a r. decisão não merece reparos.
+Isso porque foram realizadas diversas diligências a fim de localizar bens da executada, livres e passíveis de penhora, mas sem sucesso. Tentou-se a penhora de ativos financeiros, que resultou em quitação de menos de 5% do débito exequendo e realizou-se pesquisa infrutífera de veículos em nome da executada.
+Ademais, intimada para oferecer bens à penhora, a agravante informou "que não possui bens livres e passíveis de penhora e aqueles que porventura estão em seu nome pertencem a terceiros adquirentes que celebraram contrato de venda e compra e ainda não providenciaram a transferência perante o Cartório de Registro de Imóveis, o que impede a constrição do bem." (fls. 133, na origem)
+Assim, autorizada a penhora de seu faturamento a fim de quitar o débito em questão, conforme prevê o art. 866, caput, do Código de Processo Civil.
+O pedido de redução do percentual da penhora também não comporta acolhimento, visto que a D. Magistrada "a quo" relegou a apreciação da adequação do percentual fixado para momento posterior à apresentação de laudo pelo perito administrador já nomeado (fls. 198, na origem), medida razoável que bem atende aos interesses da parte exequente, assim como da executada."
+Desse modo, é realmente inviável conhecer do recurso especial, porque a revisão do acórdão recorrido não prescindiria do reexame fático-probatório, providência manifestamente proibida nesta instância, nos termos da Súmula 7/STJ.
+Nessa senda, diante dos precedentes citados, verifica-se que o entendimento do Tribunal a quo está em sintonia com a jurisprudência do STJ. Dessa forma, incide, in casu, o óbice processual sedimentado na Súmula 83 do Superior Tribunal de Justiça.
+Assim, ante a ausência de qualquer subsídio capaz de alterar os fundamentos do acórdão recorrido, subsiste incólume o entendimento nele firmado, não merecendo prosperar, portanto, o presente recurso.
+Com essas considerações, nega-se provimento ao agravo interno.
+É como voto."
+Como visto, o acórdão embargado foi claro em apontar que segundo os fatos definitivamente delineados pelo Tribunal de origem - os quais não podem ser revisados nesta instância, em vista do óbice da Súmula 7/STJ -, a penhora sobre o faturamento foi determinada após o esgotamento das medidas para localização de bens penhoráveis. Por essa razão, também foi fundamentada a conformidade do acórdão recorrido com o entendimento desta Corte, exatamente no mesmo sentido da decisão.
+Assim, diante da circunstância do caso dos autos, de a penhora do faturamento já ter sido determinada como medida excepcional, após o esgotamento de localização de outros bens penhoráveis, não era devido nenhum pronunciamento a respeito da afetação do Tema 1.409/STJ - "definir as seguintes questões federais: I) a penhora do faturamento é medida de caráter excepcional ou prioritária na ordem dos bens sujeitos à constrição nas execuções civis; e II) (in)admissibilidade dos recursos especiais interpostos para a rediscussão das conclusões dos acórdãos recorridos quanto aos aspectos eminentemente fáticos que autorizam a penhora sobre o faturamento, tal como previstos no art. 886, caput, do CPC" .
+Além disso, por ocasião da afetação do aludido tema, foi expressamente determinado não suspender o trâmite dos processos, tanto nas instâncias ordinárias, como no STJ.
+Por fim, não houve omissão em relação à suposta tese de negativa de prestação jurisdicional, com base no art. 489, § 1º, do Código de Processo Civil, porque não foi deduzida no recurso especial.
+É firme a jurisprudência do Superior Tribunal de Justiça acerca da inadmissibilidade dos embargos de declaração quando opostos fora das exíguas hipóteses legais de seu cabimento, notadamente nas hipóteses de mero descontentamento da parte com o resultado do julgamento, por não se configurar negativa de prestação jurisdicional.
+Ademais, os embargos de declaração têm como objetivo esclarecer obscuridade, eliminar contradição ou suprimir omissão de ponto ou questão sobre a qual se devia pronunciar o órgão julgador de ofício ou a requerimento das partes, bem como corrigir erro material (CPC/2015, art. 1.022). É inadmissível a sua oposição para rediscutir questões tratadas e devidamente fundamentadas na decisão embargada, já que não são cabíveis para provocar novo julgamento da lide. Nesse sentido:
+"DIREITO PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NA AÇÃO RESCISÓRIA. OMISSÃO E OBSCURIDADE. NÃO CONFIGURAÇÃO. EMBARGOS REJEITADOS. (..)
+2. Quanto à alegação de obscuridade, os embargos de declaração não são via adequada para rediscutir o mérito da decisão ou introduzir novas teses recursais, sendo esse o entendimento reiterado da jurisprudência do STJ.
+3. A aplicação da Súmula n. 343 do STF foi adequadamente fundamentada, considerando-se que o acórdão embargado seguiu jurisprudência consolidada sobre a extensão dos efeitos da falência e a viabilidade de contraditório diferido. (..)
+5. Embargos de declaração rejeitados."
+(EDcl na AR n. 5.892/SP, Relator Ministro JOÃO OTÁVIO DE NORONHA, SEGUNDA SEÇÃO, j. 29/10/2024, DJe de 5/11/2024)
+"PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PREQUESTIONAMENTO DE DISPOSITIVOS CONSTITUCIONAIS. INVIABILIDADE. AUSÊNCIA DE OMISSÃO, CONTRADIÇÃO, OBSCURIDADE OU ERRO MATERIAL. EMBARGOS DE DECLARAÇÃO REJEITADOS. (..)
+2. Os embargos de declaração têm como objetivo sanar eventual existência de erro material, obscuridade, contradição ou omissão no julgado embargado (CPC/2015, art. 1.022), de modo que é inadmissível a sua oposição para rediscutir questões tratadas e devidamente fundamentadas na decisão embargada, já que não são cabíveis para provocar novo julgamento da lide.
+3. Embargos de declaração rejeitados."
+(EDcl no AgInt no AREsp n. 2.546.602/SC, Relator Ministro RAUL ARAÚJO, QUARTA TURMA, j. 14/10/2024, DJe de 21/10/2024)
+"EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO RECURSO ESPECIAL. OBSCURIDADE, OMISSÃO, CONTRADIÇÃO OU ERRO MATERIAL. NÃO OCORRÊNCIA. REFORMA DO JULGADO. IMPOSSIBILIDADE.
+1. Os embargos de declaração são instrumento processual excepcional e, a teor do art. 1.022 do CPC/2015, destinam-se ao aprimoramento do julgado que contenha obscuridade, contradição, erro material ou omissão sobre tema cujo pronunciamento se impunha manifestar o julgador. Não se prestam à simples reanálise da causa, nem são vocacionados a modificar o entendimento do órgão julgador.
+2. Obscuridade decorre da falta de clareza e precisão da decisão, suficiente a não permitir a certeza jurídica a respeito das questões resolvidas, objetivando o entendimento de todos.
+3. Há contradição quando existirem proposições inconciliáveis entre si, de forma que a afirmação de uma logicamente significará a negação da outra.
+4. Embargos de declaração rejeitados."
+(EDcl no REsp n. 2.126.117/PR, Relatora Ministra NANCY ANDRIGHI, TERCEIRA TURMA, j. 19/8/2024, DJe de 22/8/2024)
+Destaca-se que a jurisprudência desta Corte é firme no sentido de que os embargos de declaração, ainda que opostos com o objetivo de prequestionamento, não podem ser acolhidos quando inexistentes as hipóteses previstas no art. 1.022 do Código de Processo Civil.
+Ante o exposto, rejeito os embargos de declaração.
+É o voto.
