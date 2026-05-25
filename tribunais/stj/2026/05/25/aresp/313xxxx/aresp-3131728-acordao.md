@@ -1,0 +1,41 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 19/05/2026 a 25/05/2026, por unanimidade, dar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Maria Isabel Gallotti, Antonio Carlos Ferreira, Luís Carlos Gambogi (Desembargador Convocado do TJMG) e João Otávio de Noronha votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro João Otávio de Noronha.
+EMENTA
+DIREITO PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. JULGAMENTO VIRTUAL. PUBLICIZAÇÃO DA PAUTA. INTIMAÇÃO DOS ADVOGADOS. NECESSIDADE. NULIDADE DO ACÓRDÃO DO AGRAVO DE INSTRUMENTO. AGRAVO CONHECIDO. RECURSO ESPECIAL PROVIDO.
+1. A ausência de publicação e intimação da pauta de julgamento, inclusive na modalidade virtual, acarreta nulidade do acórdão, quando implica prejuízo à parte, por violação à publicidade dos atos processuais e às regras de intimação dos advogados.
+2. A adoção do julgamento virtual como modalidade preferencial pelo Tribunal não dispensa a prévia publicização da pauta e a intimação dos advogados das partes, com a antecedência legalmente prevista.
+3. Agravo em recurso especial conhecido. Recurso especial provido.
+RELATÓRIO
+Trata-se de agravo em recurso especial interposto por COOPERATIVA DE CRÉDITO DE LIVRE ADMISSÃO DO BRASIL CENTRAL LTDA - SICOOB EXECUTIVO contra decisão que inadmitiu seu recurso especial, fundamentado no art. 105, inciso III, alínea "a", da Constituição Federal, contra acórdão proferido pelo eg. Tribunal de Justiça do Estado de São Paulo, assim ementado:
+"EXECUÇÃO Decisão que indeferiu pedido de reconhecimento de impenhorabilidade de valores constritos, motivada em preclusão, por se tratar de questão já apreciada Como, na espécie, (a) a alegação de impenhorabilidade dos valores constritos nas contas bancárias objeto da ação já foi rejeitada por decisão anterior e (b) os valores em questão já foram levantados pela parte credora, de rigor, (c) o reconhecimento de que se consumou a a preclusão (CPC/2015, art. 183, caput, com correspondência no art. 223, caput, do CPC/1973) em relação ao tema, circunstância esta que impeditiva da reiteração do pedido, pois "é vedado à parte discutir no processo as questões já decididas a cujo respeito se operou a preclusão" (art. 507 do CPC/2015, com correspondência no art. 473, do CPC/1973), ainda que se trate de matéria relativa à impenhorabilidade de bens, (d) impondo-se, em consequência, a manutenção da r. decisão agravada, que indeferiu pedido de reapreciação de questão já decidida. Recurso desprovido." (e-STJ, fls. 42-44)
+Opostos embargos de declaração, foram rejeitados (e-STJ, fls. 97/101 e 112/119).
+Em seu recurso especial, a recorrente alega, em síntese, violação dos arts. 189, 272, §§ 2º e 5º, e 934, 1.022 e 1.025 do Código de Processo Civil e art. 7º, inciso VIII, da Lei 8.906/1994, pois a falta de publicação e intimação sobre a pauta de julgamento virtual implicaria nulidade por afronta à publicidade dos atos e às regras de intimação dos advogados.
+Foram ofertadas contrarrazões (e-STJ, fls. 123/129 e 131/137).
+O recurso especial foi inadmitido na origem (e-STJ, fls. 138-140), dando ensejo à interposição do presente agravo.
+É o relatório.
+EMENTA
+DIREITO PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. JULGAMENTO VIRTUAL. PUBLICIZAÇÃO DA PAUTA. INTIMAÇÃO DOS ADVOGADOS. NECESSIDADE. NULIDADE DO ACÓRDÃO DO AGRAVO DE INSTRUMENTO. AGRAVO CONHECIDO. RECURSO ESPECIAL PROVIDO.
+1. A ausência de publicação e intimação da pauta de julgamento, inclusive na modalidade virtual, acarreta nulidade do acórdão, quando implica prejuízo à parte, por violação à publicidade dos atos processuais e às regras de intimação dos advogados.
+2. A adoção do julgamento virtual como modalidade preferencial pelo Tribunal não dispensa a prévia publicização da pauta e a intimação dos advogados das partes, com a antecedência legalmente prevista.
+3. Agravo em recurso especial conhecido. Recurso especial provido.
+VOTO
+A irresignação merece prosperar.
+A Corte de origem, ao analisar a tese de que a falta de publicação e intimação sobre a pauta de julgamento virtual implicaria nulidade por afronta à publicidade dos atos e às regras de intimação dos advogados, assim decidiu:
+"Isso porque despicienda a intimação das partes acerca da remessa dos autos para julgamento virtual, modalidade preferencial de julgamento de apelações, agravos de instrumento, agravos internos, embargos de declaração, mandados de segurança, habeas corpus, conflitos de competência e ações originárias, em situação em que as partes poderão expressamente manifestar a sua oposição, no prazo de cinco dias úteis contados da distribuição dos autos (art. 1º, §1º, Resolução nº 772/2017).
+Como, na espécie: (a) o agravo de instrumento foi interposto em 24.10.2024 (cf. "dados do processo", item "recebimento") e (b) nenhuma das partes se opôs ao julgamento virtual, após a publicação da decisão de distribuição do recurso a este Relator Sorteado, publicada no DJE em 31.10.2024 (cf.
+extrato de movimentação processual), (c) era, de rigor, a remessa dos autos para julgamento virtual, fato que ocorreu em 05.12.2024, sendo o recurso julgado em 09.12.2024 (cf. extrato de movimentação processual), sendo despicienda a sua intimação, nos termos do art. 1º, §1º, Resolução nº 772/2017, inexistindo o erro material arguido pela parte embargante." (e-STJ, fl. 98)
+Ocorre que a conclusão acima está em dissonância com a jurisprudência desta Corte Superior, no sentido de que a ausência de publicação da pauta de julgamento, ainda que virtual, configura nulidade insanável, em razão do evidente prejuízo suportado pela parte que teve o recurso julgado contra si. Nesse sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AUTOS DE AGRAVO DE INSTRUMENTO NA ORIGEM - DECISÃO MONOCRÁTICA QUE CONHECEU DO AGRAVO PARA DAR PARCIAL PROVIMENTO AO RECLAMO. INSURGÊNCIA DA PARTE DEMANDADA.
+1. Conforme entendimento firmado pela Quarta Turma, "a ausência de publicação da pauta de julgamento, ainda que na modalidade virtual, acarreta nulidade do julgado, notadamente quando a omissão causa prejuízo ao recorrente" (AgInt no AREsp n. 2.103.074/SP, relator Ministro Raul Araújo, Quarta Turma, julgado em 14/5/2024, DJe de 5/9/2024.
+2. Agravo interno desprovido. (AgInt no AREsp n. 2.496.662/SP, relator Ministro Marco Buzzi, Quarta Turma, julgado em 24/3/2025, DJEN de 27/3/2025.)
+PROCESSUAL CIVIL. RECURSO ESPECIAL. AÇÃO DEMOLITÓRIA. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. AUSÊNCIA. REEXAME DE FATOS E PROVAS. SÚMULA 7/STJ. SESSÃO DE JULGAMENTO VIRTUAL. PUBLICIZAÇÃO. INTIMAÇÃO. ADVOGADOS. NECESSIDADE. RETORNO DOS AUTOS. NOVO JULGAMENTO.
+1. Ação demolitória.
+2. Não há ofensa aos arts. 489 e 1.022 do CPC, quando o Tribunal de origem examina, de forma fundamentada, a questão submetida à apreciação judicial na medida necessária para o deslinde da controvérsia, ainda que em sentido contrário à pretensão da parte.
+3. O reexame de fatos e provas em recurso especial são inadmissíveis, por força da Súmula 7 do STJ.
+4. Segundo a jurisprudência desta Corte, é indispensável a intimação dos advogados das partes acerca da realização da sessão de julgamento, seja presencial ou virtual, com a antecedência prevista em lei, sob pena de nulidade.
+5. Recurso especial parcialmente conhecido e, nessa extensão, provido para anular o acórdão recorrido e determinar novo julgamento da apelação, observados os prazos de intimação das partes e a publicização da pauta de sessão de julgamento. (REsp n. 2.185.209/SP, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 29/9/2025, DJEN de 2/10/2025.) (grifa-se)
+Assim, à luz da orientação do STJ, segundo o qual a ausência de publicação da pauta de julgamento, ainda que na modalidade virtual, acarreta nulidade do julgado, notadamente quando a omissão causa prejuízo ao recorrente, é nulo o acórdão recorrido.
+Diante do exposto, conheço do agravo para conhecer do recurso especial e dar-lhe provimento, a fim de reconhecer a nulidade do julgamento do agravo de instrumento e determinar o retorno dos autos ao Tribunal de origem para a realização de novo julgamento, na esteira do devido processo legal.
+É como voto.
