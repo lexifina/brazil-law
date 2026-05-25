@@ -1,0 +1,40 @@
+DECISÃO
+Cuida-se de agravo interno interposto por Ampla Energia e Serviços S.A em face de decisão emanada da Presidência desta Corte que não conheceu do agravo em recurso especial, pois a parte deixou de impugnar a ausência de afronta ao art. 1.022 do CPC e a incidência da Súmula 126/STJ.
+Inconformada, a parte agravante, em suas razões, sustenta haver enfrentado todos os fundamentos da decisão denegatória de processamento do recurso especial, merecendo prosseguimento o seu recurso.
+A parte agravada apresentou impugnação (fls. 1.195/1.202).
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+Melhor compulsando os autos, exercendo o juízo de retratação facultado pelo art. 1.021, § 2º, 2ª parte, do CPC/2015 e 259 do RISTJ, reconsidero a decisão agravada tornando-a sem efeito.
+Passo ao novo exame do agravo.
+Trata-se de agravo manejado por Ampla Energia e Serviços S/A contra decisão que não admitiu recurso especial, este interposto com fundamento no art. 105, III, a, da CF, desafiando acórdão proferido pelo Tribunal de Justiça do Estado do Rio de Janeiro, assim ementado (fl. 988):
+Apelação Cível. Ação de obrigação de fazer. Controvérsia entre o Munícipio de Niterói e concessionária de energia elétrica. Sentença que declarou incidentalmente a inconstitucionalidade da Lei Municipal nº 3.082/2014 e julgou procedentes os pedidos para determinar que a ré se abstenha de aplicar qualquer sanção à autora, bem como declarou nulas as multas que vierem a ser aplicadas à autora com base na referida lei. Irresignação fazendária. Necessidade de se aferir a compatibilidade entre o referido diploma legislativo municipal à luz do art. 22, inciso IV da CRFB/88. Suscitação do incidente de arguição de inconstitucionalidade ao Órgão Especial deste TJRJ, nos termos do art. 949, inciso II, do CPC/15.
+Opostos embargos declaratórios, foram rejeitados (fls. 1.043/1.051).
+Nas razões do recurso especial, a parte agravante aponta violação aos seguintes dispositivos:
+I - arts. 489, § 1º, IV e V, e 1.022, II, do CPC, ao argumento de que o acórdão deixou de enfrentar vícios de error in procedendo e não examinou os pontos essenciais suscitados nos embargos de declaração, notadamente a ausência de prévia intimação das partes para eventual instauração do incidente de inconstitucionalidade e a tese de desnecessidade de reserva de plenário prevista no art. 949, parágrafo único, do CPC.
+II - arts. 10 e 948 do CPC, porque a Câmara suscitou o incidente de arguição de inconstitucionalidade sem prévia oitiva das partes e do Ministério Público, configurando decisão surpresa e nulidade por inobservância do procedimento legal.
+III - art. 949, parágrafo único, do CPC, afirmando que há precedentes do Supremo Tribunal Federal e do Órgão Especial do TJRJ sobre a mesma questão constitucional de fundo, o que dispensa a submissão ao órgão pleno pela cláusula de reserva de plenário.
+Foram ofertadas contrarrazões às fls. 1.093/1.101.
+É O RELATÓRIO.SEGUE A FUNDAMENTAÇÃO.
+Verifica-se, inicialmente, não ter ocorrido ofensa aos arts. 489, § 1º, e 1.022, II, do CPC, na medida em que o Tribunal de origem dirimiu, fundamentadamente, as questões que lhe foram submetidas e apreciou integralmente a controvérsia posta nos autos; não se pode, ademais, confundir julgamento desfavorável ao interesse da parte com negativa ou ausência de prestação jurisdicional.
+Adiante, acerca da alegação de que foi suscitado o incidente de arguição de inconstitucionalidade sem prévia oitiva das partes e do Ministério Público e que tal providência configurou decisão surpresa e ensejou nulidade por inobservância do procedimento legal, vale a transcrição do seguinte excerto do acórdão proferido em face a oposição dos embargos de declaração (fls. 1.048/1.049):
+(b) Ausência de nulidade.
+10. De saída, rejeita-se a preliminar suscitada pela Embargante. O E.STJ entende que a nulidade processual não pode ser declarada sem demonstração de prejuízo efetivo (in AgInt no AREsp 2626247 / AM, DJEN 13/02/2025).
+11. No caso em julgamento, a parte recorrente não apresentou argumentos suficientes para modificar a decisão colegiada, uma vez que foi o Ministério Público que requereu a suscitação do incidente de arguição de inconstitucionalidade da Lei Municipal nº 3.082/2014.
+12. Acrescente-se que, logo após, a concessionária voluntariamente apresentou petição com as razões que, a seu ver, afastam a adoção da cláusula de reserva de plenário.
+13. Portanto, não é acolhida a tese de decisão surpresa diante da ausência de prejuízo à Recorrente e por não terem sido violados os artigos 10 e 948 do CPC-15.
+Ao assim decidir, denota-se que o Tribunal local não destoa do entendimento consolidado nesta Corte Superior, no sentido de que o reconhecimento de nulidade exige, além da inobservância do disposto na legislação, demonstração efetiva do prejuízo sofrido, em observância ao princípio do pas de nullité sans grief.
+A propósito:
+DIREITO ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO INTERNO. PROCESSO ADMINISTRATIVO AMBIENTAL. INTIMAÇÃO POR EDITAL. NULIDADE. PREJUÍZO NÃO DEMONSTRADO. AGRAVO INTERNO IMPROVIDO.
+1. O debate está em saber se a intimação por edital para apresentação de alegações finais em processo administrativo ambiental é nula na ausência de demonstração de prejuízo concreto ao autuado.
+2. Segundo jurisprudência consolidada desta Corte, é necessária a demonstração de prejuízo concreto para o reconhecimento de nulidade processual, em respeito ao princípio da instrumentalidade das formas (pas de nullité sans grief).
+3. A intimação por edital é válida no processo administrativo ambiental, salvo se demonstrado prejuízo concreto ao autuado, conforme entendimento consolidado no STJ. Precedentes: REsp n. 2.021.212/PR, relatora Ministra Assusete Magalhães, Segunda Turma, julgado em 21/11/2023, DJe de 28/11/2023; AgInt no REsp n. 2.152.166/RS, relatora Ministra Regina Helena Costa, Primeira Turma, julgado em 21/10/2024, DJe de 25/10/2024.
+4. Hipótese em que se mostra necessário o retorno dos autos, para que o Tribunal de origem avalie a presença de cerceamento de defesa, desta vez levando em consideração a necessidade de que fique demonstrado o efetivo prejuízo sofrido pela parte.
+5. Agravo interno não provido.
+(AgInt no REsp n. 2.141.349/SC, relator Ministro Sérgio Kukina, Primeira Turma, julgado em 2/12/2024, DJEN de 5/12/2024.)
+Por fim, ao concluir pela necessidade de submissão ao órgão pleno pela cláusula de reserva de plenário, o Tribunal local teceu a seguinte fundamentação (fls. 1.049/1.050):
+15. O Embargante suscita omissão na decisão monocrática recorrida. Não existe o alegado vício, uma vez que na fundamentação do decisum ficou esclarecido que há indícios de inconstitucionalidade da Lei Municipal 3082/2014, uma vez que o art. 22, inciso IV da CRFB/88 estabelece a competência privativa da União para legislar sobre energia elétrica.
+16. Ressalta-se que as ações declaratórias de inconstitucionalidade mencionadas pelo Embargante (AD Is 3.824 e 3729), assim como o julgado do Órgão Especial deste Tribunal de Justiça, embora tenham reconhecido a competência da União em matéria de energia elétrica, não versam sobre questão idêntica a da Lei Municipal 3082/2014. Daí a aplicação da cláusula da reserva de plenário (full bench) do artigo 97 da CRFB/88.
+17. Conforme esclarecido no Acórdão embargado, "Em outras palavras, diante dos indícios de inconstitucionalidade da norma, deve ocorrer a "cisão funcional da competência: ao plenário  Órgão Especial  caberá pronunciar-se sobre a constitucionalidade ou inconstitucionalidade, e ao órgão fracionário, depois, à vista do que houver assentado o plenário  Órgão Especial , decidir a espécie" (in Comentários ao Código de Processo Civil, de José Carlos Barbosa de Moreira, v. 5, Forense, 1974, p. 50)."
+Assim, verifica-se que o Tribunal de origem decidiu a controvérsia à luz do exame profundo da legislação local (Lei Municipal 3082/2014) , matéria insuscetível de ser examinada em sede de recurso especial.
+ANTE O EXPOSTO, nego provimento ao agravo.
+Publique-se.
+EMENTA
