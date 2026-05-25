@@ -1,0 +1,66 @@
+DECISÃO
+
+Habeas corpus. Tráfico de drogas. Nulidade das provas. Busca pessoal. Fundada suspeita. Minorante do art. 33, § 4º, da Lei nº 11.343/2006. Dedicação à atividade criminosa. Não preenchimento dos requisitos. Inexistência de ilegalidade manifesta, teratologia ou contrariedade à jurisprudência desta Suprema Corte. Reexame do acervo fático-probatório. Aplicação de medidas cautelares diversas da prisão. Supressão de instância. Negativa de seguimento.
+
+Trata-se de habeas corpus impetrado em favor de Kauan Henrique Soares do Nascimento contra acórdão do Superior Tribunal de Justiça, que negou provimento ao agravo regimental no HC 1.041.949/SP (evento 8).
+
+O paciente foi condenado definitivamente à pena de 05 anos de reclusão, em regime inicial semiaberto, pela prática do crime de tráfico de drogas, previsto no art. 33, caput, da Lei 11.343/2006 (evento 4).
+
+No presente writ, a defesa sustenta a ocorrência de nulidade da busca pessoal realizada pelos policiais, ao argumento de que o paciente foi abordado unicamente por ser “conhecido nos meios policiais”, sem a existência de fundada suspeita apta a justificar a medida. Alega a existência de divergências nos depoimentos testemunhais, diante da ausência de uniformidade e coerência quanto às circunstâncias da abordagem policial. Assevera a possibilidade de aplicação da causa de diminuição de pena do art. 33, §4º, da Lei 11.343/2006, no patamar máximo. Aponta que a quantidade e a natureza da droga apreendida não obstam o reconhecimento da minorante, bem como o registro de atos infracionais pretéritos. Ressalta a primariedade e os bons antecedentes do paciente, além da ausência de provas de sua dedicação à atividades criminosas ou de que integre organização criminosa. Requer, em medida liminar, a substituição da prisão preventiva por medidas cautelares diversas, até o julgamento final do presente habeas corpus. No mérito, pleiteia o reconhecimento da ilicitude das provas obtidas por meio da busca pessoal e, subsidiariamente, a aplicação da causa de diminuição prevista no art. 33, § 4º, da Lei 11.343/2006, com a substituição da pena privativa de liberdade por penas restritivas de direitos, bem como a fixação do regime inicial aberto.
+
+É o relatório. Decido.
+
+O ato apontado como coator restou assim ementado (evento 8):
+
+“DIREITO PENAL. AGRAVO REGIMENTAL EM HABEAS CORPUS. BUSCA PESSOAL. FUNDADA SUSPEITA. TENTATIVA DE FUGA. TRÁFICO DE DROGAS. TRÁFICO PRIVILEGIADO. ATOS INFRACIONAIS. DEDICAÇÃO A ATIVIDADES CRIMINOSAS. AGRAVO NÃO PROVIDO.
+I. Caso em exame
+1. Agravo regimental interposto contra decisão que não conheceu de habeas corpus, por inadequação do writ como sucedâneo de recurso próprio.
+2. A parte agravante sustenta constrangimento ilegal decorrente da nulidade da busca pessoal, alegando ausência de fundada suspeita concreta. Subsidiariamente, pleiteia a aplicação da minorante do tráfico privilegiado.
+3. O Tribunal de origem afastou a preliminar de nulidade da busca pessoal, considerando que a atuação policial decorreu de fundada suspeita, em conformidade com o art. 244 do Código de Processo Penal, e negou a aplicação da minorante do tráfico privilegiado, fundamentando que o agravante se dedicava a atividades criminosas, com registros de atos infracionais análogos ao tráfico.
+II. Questão em discussão
+4. Há duas questões em discussão: (i) saber se a busca pessoal realizada sem mandado judicial, com base em fundada suspeita, é válida; e (ii) saber se a aplicação da minorante do tráfico privilegiado pode ser afastada com fundamento na dedicação do agravante a atividades criminosas e na quantidade de droga apreendida.
+III. Razões de decidir
+5. A busca pessoal realizada pelos policiais foi considerada válida, pois houve fundada suspeita, conforme o art. 244 do Código de Processo Penal, evidenciada pela tentativa de fuga do agravante em uma bicicleta, percorrendo diversas ruas até perder o equilíbrio e cair ao solo, após avistar a viatura policial, sua condição de conhecido nos meios policiais pela prática reiterada de tráfico de entorpecentes e denúncias anônimas recentes.
+6. A desconstituição das conclusões do acórdão impugnado, com pretensão de absolvição, demandaria reexame de fatos e provas, o que é inviável na estreita via do habeas corpus.
+7. O afastamento da minorante do tráfico privilegiado foi devidamente fundamentado pela Corte de origem, que considerou a dedicação do agravante a atividades criminosas, evidenciada por atos infracionais anteriores e pela quantidade e variedade de drogas apreendidas.
+8. A jurisprudência consolidada do Superior Tribunal de Justiça admite que atos infracionais anteriores, embora não configurem reincidência ou maus antecedentes, são aptos a fundamentar o afastamento da minorante do tráfico privilegiado.
+IV. Dispositivo e tese
+9. Resultado do Julgamento: Agravo regimental não provido.”
+
+A jurisprudência desta Corte é no sentido da inviabilidade, como regra, de utilização do writ como sucedâneo recursal ou revisão criminal (HC 225.089-AgR, Rel. Min. Dias Toffoli, Primeira Turma, DJe 13.4.2023; HC 232.539-AgR, Rel. Min. Cármen Lúcia, Primeira Turma, DJe 19.10.2023; HC 233.932-AgR, Rel. Min. Edson Fachin, Segunda Turma, DJe 02.02.2024).
+
+Ressalto, desde logo, que a posse de drogas para fins de tráfico constitui crime permanente e, nos termos dos arts. 240, § 2º e 244 do CPP, cabe a busca pessoal, independente de autorização judicial, quando houver fundada suspeita de ocultação pelo investigado de elementos de convicção, como ocorreu na hipótese.
+
+No caso, a Corte Estadual afastou a nulidade da busca pessoal e condenou o paciente como incurso na prática delitiva do art. 33, caput, da Lei 11.343/2006, ao entender que, no caso em análise, restou comprovada a existência de fundadas razões (justa causa) que justificassem a realização da busca. Isso porque os policiais militares estavam em patrulhamento quando avistaram um indivíduo que, ao notar a presença da guarnição, empreendeu fuga, razão pela qual decidiram realizar a abordagem. Na ocasião, foram encontradas porções de cocaína e maconha, além de 25 pedras de crack, 15 pinos de cocaína e a quantia de R$ 560,00 em espécie (evento 4, fl. 4).
+
+Inviável, pois, o reconhecimento do vício alegado, porquanto nos termos dos arts. 240, § 2º e 244 do CPP,   cabe a busca pessoal, independente de autorização judicial, quando houver fundada suspeita de ocultação pelo investigado de elementos de convicção. No caso,  os policiais realizavam patrulhamento de rotina quando avistaram um indivíduo já conhecido nos meios policiais, o qual empreendeu fuga ao perceber a aproximação da guarnição.
+
+Nesse contexto, a medida mostrou-se proporcional, porquanto não motivada em critérios subjetivos ou arbitrários, mas amparada em fundada suspeita devidamente justificada pelas circunstâncias do caso concreto. Assim, a situação de flagrante foi caracterizada, de forma que a abordagem realizada pelos policias está respaldada pela legislação e dentro dos limites legais.
+
+Com efeito, esta Suprema Corte já assentou que “A busca pessoal realizada pela autoridade policial diante da presença de elementos mínimos a caracterizar fundadas razões (justa causa) para a medida, ainda que ausente autorização judicial prévia, é admitida pela jurisprudência do STF, sendo certa a possibilidade de controle jurisdicional posterior, no bojo da ação penal, seara adequada ao revolvimento do arcabouço fático-probatório. Precedentes: HC nº 212.682-AgR, Primeira Turma, Rel. Min. Rosa Weber, DJe de 18/4/2022; HC nº 213.895-AgR, Segunda Turma, Rel. Min. Edson Fachin, DJe de 17/2/2023; HC nº 228.060-AgR, Segunda Turma, Rel. Min. Dias Toffoli, DJe de 4/7/2023” (HC 234.574-AgR, Rel. Min. Luiz Fux, Primeira Turma, DJe 11.12.2023); “É lícita a busca pessoal em caso de fundada suspeita de que o investigado esteja em posse de elementos que constituam corpo de delito, nos termos do art. 240, § 2º, e do art. 244 do Código de Processo Penal. Precedentes.” (HC 229.927-AgR, Rel. Min. Nunes Marques, Segunda Turma, DJe 26.09.2023); “é lícita a busca pessoal em caso de fundada suspeita de que o investigado esteja em posse de elementos que constituam corpo de delito, nos termos dos arts. 240, § 2º, e 244 do Código de Processo Penal. Nesse sentido: HC nº 229.927-AgR, Relator o Ministro Nunes Marques; HC nº 228.167-AgR, Relatora a Ministra Cármen Lúcia; HC nº 228.060-AgR, de minha relatoria; RHC nº 117.767, Relator o Ministro Teori Zavascki.” (HC 233.577-AgR, Rel. Min. Dias Toffoli, Segunda Turma, DJe 09.01.2024).
+
+Ademais, ressalto que o Supremo Tribunal Federal já decidiu que: “Se um agente do Estado não puder realizar abordagem em via pública a partir de comportamentos suspeitos do alvo, tais como fuga, gesticulações e demais reações típicas, já conhecidas pela ciência aplicada à atividade policial, haverá sério comprometimento do exercício da segurança pública” (RHC 229.514 AgR/PE, Rel. Min. Gilmar Mendes, Segunda Turma, DJe 23.10.2023 - grifei).
+
+Quanto à aplicação da minorante prevista no §4º do art. 33 da Lei 11.343/2006, rememoro que, via de regra, cabe às instâncias ordinárias decidir sobre a aplicação ou não do benefício penal em questão e, se aplicável, a fração pertinente, não se mostrando apropriado o habeas corpus para a revisão da matéria, salvo se presente manifesta ilegalidade ou arbitrariedade. De todo modo, no caso em análise, a concessão do redutor foi afastada ao fundamento de que a dinâmica dos fatos evidencia a dedicação do paciente a atividades criminosas, de modo que “não é o apelante, à toda evidência, o traficante principiante, a quem se destina o apenamento mais brando”.
+
+Assim, considerado o não preenchimento de um dos requisitos objetivos - dedicação à atividade criminosa -, não tem lugar o redutor do § 4º do art. 33 da Lei 11.343/2006.
+
+Paralelamente, para concluir em sentido diverso quanto à aplicação do redutor previsto no § 4º do art. 33 da Lei 11.343/2006, imprescindível o reexame e a valoração de fatos e provas, para o que não se presta a via eleita. Este Supremo Tribunal Federal tem advertido que “As instâncias de origem afastaram a aplicação da minorante do art. 33, § 4º, da Lei n. 11.343/06, com base em dados objetivos da causa, notadamente tendo em vista a ‘grande quantidade de entorpecentes apreendidos’, a indicarem que a paciente se ‘dedicava às atividades criminosas’. Nessas condições, para dissentir das instâncias de origem, seria necessário o revolvimento do conjunto fático-probatório, inviável em habeas corpus” (HC 225.348 AgR/SP, Rel. Min. Roberto Barroso, Primeira Turma, DJe 10.4.2023); A tese defensiva de aplicação da minorante do § 4º do art. 33 da Lei 11.343/06, afastada pelas instâncias anteriores dada a constatação de o paciente integrar organização criminosa e/ou dedicar-se à atividades delitivas, demandaria o reexame e a valoração de fatos e provas, para o que não se presta a via eleita (RHC 140.006-AgR/MS, Rel. Min. Rosa Weber, Primeira Turma, DJe 27.9.2017). Nessa linha, A invocação pelas instâncias ordinárias de que o paciente se dedicava à atividade criminosa obsta, de fato, a aplicação da benesse do § 4º do art. 33 da Lei nº 11.343/06, sendo certo que afastar essa premissa demandaria o reexame dos fatos e das provas, o qual o habeas corpus não comporta (HC 205.252 AgR/SP, Rel. Min. Dias Toffoli, Primeira Turma, DJe 12.8.2022).
+
+Desse modo, verifica-se que os argumentos trazidos pelo paciente foram devidamente analisados e fundamentados pelas instâncias ordinárias, de modo que não cabe a esta Suprema Corte a reanálise dos fatos. Isso porque, consoante destacado pela Corte Superior, seria necessário o reexame fático-probatório, inviável em sede de habeas corpus. Nesse sentido: HC 239.011-AgR, Rel. Min. Dias Toffoli, Segunda Turma, DJe 30.04.2024; HC 252.552-AgR, Rel. Min. Cármen Lúcia, Primeira Turma, DJe 26.03.2025; ARE 1.534.715-AgR, Rel. Min. Luís Roberto Barroso (Presidente), Tribunal Pleno, DJe 03.04.2025.
+
+No que se refere à fixação do regime inicial de cumprimento da pena, constata-se que não está condicionada somente ao quantum da reprimenda, mas também ao exame das circunstâncias judiciais do artigo 59 do Código Penal e do art. 42 da Lei 11.343/2006, conforme remissão do art. 33, § 2º e § 3º, do Código Penal.
+
+Por fim, quanto ao pleito defensivo de aplicação das medidas cautelares diversas da prisão, verifico que a matéria não foi debatida no acórdão impugnado. Desse modo, à míngua de pronunciamento judicial conclusivo pela Corte Superior quanto à tese defensiva, inviável a análise do writ pelo Supremo Tribunal Federal, sob pena de indevida supressão de instância. Cito, nessa linha, precedentes: HC 235.221-AgR, Rel. Min. Cristiano Zanin, Primeira Turma, DJe 09.02.2024; HC 236.138-AgR, Rel. Min. Alexandre de Moraes, Primeira Turma, DJe 22.02.2024; HC 235.861-AgR, Rel. Min. Luiz Fux, Primeira Turma, DJe 22.02.2024; e RHC 230.594-AgR, Rel. Min. Nunes Marques, Segunda Turma, DJe 23.02.2024.
+
+Inexistente, pois, manifesta ilegalidade no ato hostilizado passível de correção na presente via.
+
+Ante o exposto, nego seguimento ao presente habeas corpus (art. 21, § 1º, RISTF).
+
+Publique-se.
+
+Brasília, 25 de maio de 2026.
+
+Ministro FLÁVIO DINO
+Relator
+Documento assinado digitalmente
