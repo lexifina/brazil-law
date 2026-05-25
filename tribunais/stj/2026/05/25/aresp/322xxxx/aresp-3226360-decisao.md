@@ -1,0 +1,22 @@
+DECISÃO
+Estes autos foram a mim redistribuídos por prevenção do RHC n. 204.274/ES (fl. 350).
+Trata-se de agravo em recurso especial interposto por Cosmo dos Santos contra a decisão do Tribunal de Justiça do Espírito Santo, que inadmitiu seu recurso especial, fundamentado nas alíneas a e c do permissivo constitucional, impugnando o acórdão proferido no julgamento da Apelação Criminal n. 0020898-86.2016.8.08.0030, no qual foi mantida a sua condenação como incurso no art. 56, caput, da Lei n. 9.605/1998 (fls. 222/249).
+Os embargos de declaração opostos foram rejeitados (fls. 274/295).
+Nas razões do recurso especial, a defesa apontou, além de divergência jurisprudencial, violação dos arts. 256, § 3º, 489, § 1º, III, IV e VI, 1.022 e 1.025 do Código de Processo Civil, 3º, 361 e 564, III, e, do Código de Processo Penal. Sustentou, em suma, a nulidade do processo por negativa de prestação jurisdicional e por vício na citação por edital (fls. 306/314).
+Apresentadas contrarrazões (fls. 318/324), o Tribunal local não admitiu o recurso especial, por incidência das Súmulas 7 e 83/STJ, e em razão da prejudicialidade do dissídio jurisprudencial (fls. 325/328).
+Contra essa decisão, a defesa interpõe o presente agravo (fls. 330/335).
+O Ministério Público Federal apresenta parecer opinando pelo não conhecimento do agravo em recurso especial e, acaso conhecido, pelo não provimento (fls. 355/360).
+É o relatório.
+O agravo não comporta conhecimento, ante a deficiência na impugnação dos fundamentos da decisão agravada.
+Inicialmente, cumpre esclarecer que a decisão que inadmite o recurso especial na origem não é formada por capítulos autônomos, mas por um único dispositivo, razão pela qual deve ser impugnada na sua integralidade, ou seja, em todos os seus fundamentos, inclusive de forma específica, suficiente e pormenorizada, não sendo suficientes meras alegações genéricas ou relativas ao mérito da controvérsia, sob pena de incidência do óbice da Súmula 182/STJ (AgRg no AREsp n. 2.826.590/ES, relator Ministro Og Fernandes, Sexta Turma, julgado em 7/4/2026, DJEN de 17/4/2026).
+No caso em apreço, o Tribunal de origem inadmitiu o apelo com base em três fundamentos autônomos: a incidência da Súmula 83/STJ quanto à alegada negativa de prestação jurisdicional, apoiando-se em precedente específico (EDcl no AgInt no REsp 1.731.932/MG); a incidência da Súmula 7/STJ no que tange à nulidade da citação por edital; e, por fim, a impossibilidade de análise do dissídio jurisprudencial, visto que a aplicação da Súmula 7/STJ constitui óbice também para o conhecimento do recurso pela alínea c do permissivo constitucional (fls. 325/328).
+Entretanto, ao analisar as razões do agravo, observa-se que a defesa não cumpriu adequadamente seu ônus processual.
+Embora o recorrente tenha refutado o óbice da Súmula 7/STJ, deixou de impugnar especificamente a aplicação da Súmula 83/STJ. Limitou-se a apresentar alegações genéricas aduzindo que o prequestionamento foi explícito e que subsiste a tese principal, sem demonstrar a inaplicabilidade do precedente adotado pelo Tribunal local ou indicar julgados contemporâneos desta Corte em sentido diverso.
+Ademais, constata-se a absoluta ausência de impugnação específica ao fundamento de que a incidência da Súmula 7/STJ impede o conhecimento do recurso pela alínea c do art. 105, III, da Constituição Federal. O agravante não enfrentou, de modo autônomo e pormenorizado, esse óbice particular aplicado ao dissídio jurisprudencial.
+Verifica-se, pois, que não foi observada a regra disposta no art. 932, III, do Código de Processo Civil, atraindo a incidência da Súmula 182/STJ. A ausência de ataque específico e pormenorizado a todos os fundamentos da decisão de inadmissibilidade inviabiliza o trânsito do agravo, impondo-se o seu não conhecimento.
+Na mesma linha: AgRg no AREsp n. 2.772.387/SC, relatora Ministra Maria Marluce Caldas, Quinta Turma, julgado em 3/3/2026, DJEN de 12/3/2026 e AgRg no AREsp n. 2.465.381/SC, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 3/3/2026, DJEN de 11/3/2026.
+Ante o exposto, não conheço do agravo em recurso especial.
+Publique-se.
+EMENTA
+DIREITO PROCESSUAL PENAL. AGRAVO EM RECURSO ESPECIAL. CRIME AMBIENTAL. CITAÇÃO POR EDITAL. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DA DECISÃO DE INADMISSIBILIDADE. PRINCÍPIO DA DIALETICIDADE. INCIDÊNCIA DA SÚMULA 182/STJ E DO ART. 932, III, DO CPC.
+Agravo em recurso especial não conhecido.
