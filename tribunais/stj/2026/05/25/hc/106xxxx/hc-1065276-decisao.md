@@ -1,0 +1,23 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido de liminar, impetrado em favor de NILVANA CRISTINA GONCALVES, contra decisão do TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO que indeferiu liminar formulada no writ de origem.
+Afirma que foi condenada pela prática do crime de extorsão, em regime semiaberto.
+Diz que não foi previamente intimada a iniciar o cumprimento da pena, quando deveria por força do art. 23 da Resolução n. 417/2021 do Conselho Nacional de Justiça, o que culminou com seu recolhimento ilegal ao estabelecimento penal.
+Sustenta que sua prisão é ilegal e requer, liminarmente e no mérito, o recolhimento do mandado de prisão e sua soltura.
+As informações foram prestadas (fls. 72-76).
+O Ministério Público Federal manifestou-se pelo não conhecimento do writ (fls. 85-87).
+É o relatório.
+O Conselho Nacional de Justiça, considerando a determinação contida na decisão proferida pelo Supremo Tribunal Federal no julgamento do recurso extraordinário nº 641.320, que fixou prazo para o CNJ implantar o projeto de estruturação de cadastro nacional de presos, com etapas e prazos de implementação, buscou padronizar procedimentos no Poder Judiciário, notadamente no âmbito da execução penal, devido estar ciente a respeito do déficit de vagas em colônias penais agrícolas ou industriais, trazendo assim uma diretriz nacional de aplicabilidade pelo Poder Judiciário ao estipular no art. 23 da Resolução n. 417/2021 que:
+Art. 23. Transitada em julgado a condenação ao cumprimento de pena em regime semiaberto ou aberto, a pessoa condenada será intimada para dar início ao cumprimento da pena, previamente à expedição de mandado de prisão, sem prejuízo da realização de audiência admonitória e da observância da Súmula Vinculante no 56.
+O regime semiaberto, como se sabe, constitui privação de liberdade do condenado, já que por meio da expedição do mandado de prisão, decorrente de uma decisão condenatória transitada em julgado, o sentenciado é recolhido em colônia penal agrícola ou industrial para iniciar o cumprimento de sua pena.
+Ciente do déficit de vagas nos estabelecimentos penais do regime semiaberto e visando evitar o recolhimento do condenado em regime mais severo (regime fechado) que o imposto no título executivo judicial (regime semiaberto), até que se aguarde a disponibilização de vaga neste regime intermediário, o Conselho Nacional de Justiça, por meio do art. 23 da Resolução n. 417, de 20 de setembro de 2021, orientou os juízes da Vara de Execução Penal a intimar o condenado em regime semiaberto a iniciar o cumprimento de sua pena em liberdade, sem que seja obrigatoriamente recolhido a prisão.
+De fato, se a ausência de vagas no regime semiaberto é de amplo conhecimento dos operadores do Direito, não faz sentido expedir mandado de prisão, recolher o condenado em um estabelecimento penal com características do regime fechado (Penitenciária ou Cadeia Pública) para aguardar a disponibilização de vaga no regime semiaberto, até ser efetivamente implantado neste regime intermediário.
+Ao agir dessa maneira, estar-se-ia violando a súmula vinculante nº 56 do Supremo Tribunal Federal, que diz que: "A falta de estabelecimento penal adequado não autoriza a manutenção do condenado em regime prisional mais gravoso, devendo-se observar, nessa hipótese, os parâmetros fixados no RE 641.320/RS.".
+O ato normativo do Conselho Nacional de Justiça buscou impedir o recolhimento ilegal do condenado em um regime mais severo que o imposto na decisão condenatória, procurou evitar a lotação no estabelecimento penal que poderia se dar por meio desse recolhimento ilegal, trazendo assim prejuízos ao sentenciado, e, ao mesmo tempo, observou rigorosamente a súmula vinculante n. 56 do Supremo Tribunal Federal.
+No entanto, no presente caso, as informações prestadas revelam que foi disponibilizada vaga na unidade prisional CPP Feminino Butantan, estabelecimento penal destinado às condenadas ao regime semiaberto (fls. 72-76).
+Ora, se havia vaga disponível em estabelecimento compatível com o regime de cumprimento de pena imposto à paciente, não era necessário sua prévia intimação para iniciar o cumprimento da sanção penal, bastando a expedição do mandado de prisão para que fosse presa e recolhida na unidade prisional para começar a cumprir sua pena.
+Verifica-se que a prisão e recolhimento ao estabelecimento penal se deu nos limites do título executivo judicial, não havendo falar em ilegalidade e constrangimento ilegal.
+Não há, portanto, flagrante ilegalidade que justifique a concessão da ordem.
+Ante o exposto, não conheço do habeas corpus.
+Publique-se.
+Intimem-se.
+ EMENTA
