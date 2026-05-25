@@ -1,0 +1,32 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em nome de SEBASTIANA TAICI DOS SANTOS, com pedido liminar, condenada por tráfico de drogas, à pena de 5 anos de reclusão e 500 dias-multa, em regime inicial fechado, em que se aponta como autoridade coatora o Tribunal de Justiça do Estado de São Paulo (Apelação Criminal n. 1500320-27.2022.8.26.0544).
+Alega, com referência à dosimetria, a necessidade de fixação da pena-base no mínimo legal, sustentando a indevida exasperação pela natureza das drogas apreendidas, em violação ao art. 42 da Lei n. 11.343/2006, com apontamento de bis in idem (fls. 3/6).
+Defende a aplicação da causa de diminuição do art. 33, § 4º, da Lei n. 11.343/2006, na fração máxima de 2/3, por ser a paciente primária, de bons antecedentes e não haver prova de dedicação à atividade criminosa (fls. 6/9).
+Sustenta a fixação de regime inicial compatível com o art. 33 do Código Penal, afastando-se o fechado, e a substituição da pena privativa de liberdade por restritiva de direitos (fls. 9/11).
+Em liminar, pede que a paciente aguarde o julgamento do writ em liberdade (fls. 11/12). No mérito, requer: i) a pena-base no mínimo legal; ii) o redutor do art. 33, § 4º, na fração máxima, com regime aberto e substituição por restritivas de direitos; iii) subsidiariamente, o regime inicial semiaberto (fls. 11/12).
+É o relatório.
+Nos termos do art. 105, I, e, da Constituição Federal, a competência do Superior Tribunal de Justiça para processar e julgar revisão criminal restringe-se aos seus próprios julgados. Não lhe compete apreciar pedido que, em essência, visa à revisão de acórdão estadual já transitado em julgado.
+No entanto, constato ilegalidade flagrante que impõe a concessão da ordem de habeas corpus de ofício.
+Quanto à dosimetria da pena, assim está consignado no acórdão impugnado (fls. 37/38):
+Na primeira fase, a pena base foi fixada acima do mínimo legal, uma vez que a ré estava em liberdade provisória pelo Processo Penal 1500269-16.2022.8.26.0544, quando foi presa comercializando os entorpecentes, demonstrando a sua recalcitrância criminosa e personalidade voltada à prática criminosa, o que deve ser mantido, em 05 (cinco) anos e 10 (dez) meses de reclusão, e ao pagamento de 583 (quinhentos e oitenta e três) dias-multa.
+Na segunda fase, incide a atenuante da confissão, de forma que a pena foi reduzida para o patamar mínimo legal, em 05 (cinco) anos de reclusão e ao pagamento de 500 (quinhentos) dias-multa.
+ ..
+Como bem fundamentado, ficou demonstrado que a acusada se dedica às atividades criminosas, tendo em vista que a acusada, apenas uma semana antes dos fatos dos presentes autos, foi liberada em audiência de custódia exatamente pelo mesmo crime de tráfico de drogas, evidenciando a conduta reiterada destinada à prática de crimes, circunstância impeditiva da aplicação do redutor, tudo a demonstrar que a ré fazia do crime o seu meio de vida, demonstrando seu envolvimento com a atividade criminosa.
+Cumpre destacar que inquéritos policiais e ações penais em andamento, embora não possam caracterizar maus antecedentes, podem impedir a concessão do benefício do artigo 33, parágrafo quarto, da Lei de Drogas, por caracterizar dedicação às atividades criminosas.
+No caso, o Tribunal de Justiça, no amplo efeito devolutivo da apelação, manteve a exasperação da pena-base somente com base no fato de que a paciente estava em liberdade provisória, quando foi presa comercializando os entorpecentes.
+Conforme jurisprudência desta Corte Superior, a prática de novo crime durante o período de liberdade provisória concedida em outro processo justifica a elevação da pena-base, diante do menosprezo do réu à ordem jurídica e às decisões judiciais. A propósito: AREsp n. 2.845.939/MS, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 20/3/2025, DJEN de 26/3/2025. Trata-se da vetorial da culpabilidade.
+No mesmo sentido: AgRg no HC n. 823.015/MG, relator Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), Sexta Turma, julgado em 11/3/2024, DJe de 14/3/2024; AgRg no AREsp n. 2.462.757/SC, de minha relatoria, Sexta Turma, julgado em 5/3/2024, DJe de 7/3/2024; e AgRg no REsp n. 2.079.857/SP, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 15/4/2024, DJe de 18/4/2024.
+De outra parte, verifico não haver nos autos elementos concretos que demonstrem a habitualidade da paciente na atividade criminosa. A Terceira Seção do Superior Tribunal de Justiça, no julgamento do REsp n. 1.977.027/PR, de relatoria da Ministra Laurita Vaz (DJe de 18/8/2022), submetido ao rito dos recursos repetitivos (Tema n. 1.139), fixou a seguinte tese: É vedada a utilização de inquéritos e/ou ações penais em curso para impedir a aplicação do art. 33, § 4º, da Lei n. 11.343/06. Assim, é cabível, na espécie, a redutora do tráfico.
+Fixadas essas premissas, passo a redimensionar as penas da paciente.
+Na primeira fase, mantenho a pena-base em 5 anos e 10 meses de reclusão e 583 dias-multa, em razão da circunstância judicial da culpabilidade.
+Na segunda fase, mantida a atenuante da confissão, a pena intermediária regressa ao mínimo legal: 5 anos de reclusão e 500 dias-multa.
+Na terceira fase, aplico a causa especial de diminuição de pena prevista no § 4º do art. 33 da Lei n. 11.343/2006, à fração de 2/3. Assim, na ausência de causas de aumento, fica estabelecida a reprimenda definitiva da paciente em 1 ano e 8 meses de reclusão e 166 dias-multa.
+Apesar do quantum da pena, a circunstância judicial negativa (culpabilidade) autoriza a fixação do regime semiaberto, à luz do art. 33, §§ 2º e 3º, do Código Penal.
+Pelas mesmas razões, indefiro a substituição de pena, nos termos do art. 44, inciso III, do Código Penal.
+Ante o exposto, indefiro liminarmente a petição inicial. De ofício, concedo a ordem de habeas corpus, a fim de reduzir as penas da paciente a 1 ano e 8 meses de reclusão e 166 dias-multa, fixando o regime semiaberto.
+Comunique-se, com urgência, o teor desta decisão ao Tribunal estadual e ao Juízo a quo.
+Intime-se o Ministério Público estadual.
+Publique-se.
+EMENTA
+HABEAS CORPUS. TRÁFICO DE DROGAS. WRIT SUBSTITUTIVO DE REVISÃO CRIMINAL. ILEGALIDADE FLAGRANTE. TEMA N. 1.139/STJ. INCIDÊNCIA DA MINORANTE PREVISTA NO ART. 33, § 4º, DA LEI N. 11.343/2006, À FRAÇÃO DE 2/3. REGIME INICIAL MAIS RIGOROSO EM SEQUÊNCIA (SEMIABERTO). POSSIBILIDADE. NEGATIVA DE SUBSTITUIÇÃO DA PENA PRIVATIVA DE LIBERDADE POR SANÇÕES RESTRITIVAS DE DIREITOS.
+Petição inicial indeferida liminarmente. Ordem concedida de ofício, nos termos do dispositivo.
