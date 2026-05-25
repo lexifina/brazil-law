@@ -1,0 +1,17 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de JONATHAS SLUZARZ contra acórdão do Tribunal de Justiça do Estado de Santa Catarina (HC n. 5042527-28.2026.8.24.0000).
+Consta que o paciente foi preso em flagrante, em 13/5/2026, pela suposta prática do crime previsto no art. 306 do Código de Trânsito Brasileiro. A autoridade policial arbitrou fiança no valor de R$ 3.000,00 (e-STJ fl. 3). Em audiência de custódia, foi homologado o flagrante e concedida liberdade provisória condicionada ao cumprimento de medidas cautelares diversas da prisão, dentre as quais a suspensão da habilitação para dirigir e o pagamento de fiança fixada em R$ 81.050,00, a ser recolhida em 5 dias (e-STJ fls. 16/17).
+A defesa impetrou habeas corpus no Tribunal de Justiça de Santa Catarina sustentando a desproporcionalidade da fiança majorada e pleiteando sua dispensa ou, subsidiariamente, a redução a patamar exequível (e-STJ fls. 3/4). O Relator indeferiu o pedido liminar, mantendo a exigência da fiança elevada.
+No presente writ, a defesa alega que a segregação do paciente decorre exclusivamente da impossibilidade econômica de adimplir a fiança arbitrada, inexistindo decreto de prisão preventiva ou demonstração de perigo atual à ordem pública, à instrução criminal ou à aplicação da lei penal.
+Aduz que o arbitramento em valor excessivo transforma a liberdade provisória em ficção, configurando constrangimento ilegal.
+Sustenta, ainda, que patrimônio não se confunde com liquidez, que a posse de veículo de alto valor não autoriza presunção de capacidade financeira imediata e que o paciente é portador de síndrome do pânico, agravada pelo encarceramento. Ainda, invoca especificamente o art. 350 do CPP.
+Diante disso, requer, em liminar, a suspensão imediata da exigibilidade da fiança e a expedição de alvará de soltura e, subsidiariamente, a redução da fiança para patamar proporcional e compatível com a condição econômica do paciente, não superior a 1 a 3 salários mínimos. No mérito, pugna pela concessão definitiva da ordem, para dispensar a fiança ou reduzi-la, mantendo-se apenas as medidas cautelares diversas eventualmente consideradas adequadas.
+É o relatório. Decido.
+Não há como prosseguir a irresignação.
+O writ foi deficitariamente instruído, pois, não consta dos autos a decisão do Relator que indeferiu a liminar, a fim de que se analise se caracterizaria constrangimento ilegal a prisão cautelar do paciente.
+O rito do habeas corpus pressupõe prova pré-constituída do direito alegado, devendo a parte demonstrar, de maneira inequívoca, por meio de documentos, a existência de constrangimento ilegal imposto ao paciente.
+Com efeito, " a  jurisprudência do Supremo Tribunal Federal é firme no sentido da inadmissão do habeas corpus quando não instruído o writ com as peças necessárias à confirmação da efetiva ocorrência do constrangimento ilegal". (AgRg no HC n. 182.788, Relatora Ministra Rosa Weber, Primeira Turma, julgado em 22/5/2022, DJe 18/6/2020).
+No mesmo sentido, esta Corte assentou que " e m sede de habeas corpus, é cediço que a prova deve ser pré-constituída e incontroversa, cabendo ao impetrante apresentar documentos suficientes à análise de eventual ilegalidade flagrante no ato atacado". (AgRg no HC n. 772.017/SC, Relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 28/11/2022, DJe 2/12/2022).
+Ante o exposto, com fundamento no art. 210 do RISTJ, indefiro liminarmente o habeas corpus.
+Intimem-se.
+EMENTA
