@@ -1,0 +1,38 @@
+DECISÃO
+Examina-se agravo em recurso especial interposto por NEILA MORALES GARCIA, ABEL VICENTE MORALES GARCIA, CLÁUDIO MORALES GARCIA e OLAVO MORALES GARCIA contra decisão que inadmitiu recurso especial fundamentado, exclusivamente, na alínea "a" do permissivo constitucional.
+Agravo em recurso especial interposto em: 1/10/2025.
+Concluso ao gabinete em: 30/4/2026.
+Ação: de repetição de indébito c/c reparação de danos materiais, em fase de cumprimento de sentença, ajuizada por ABEL REBOLLO GARCIA, contra BANCO BRADESCO S.A., na qual requer a declaração da ilegalidade da aplicação do IPC em março/1990 para sua dívida e a restituição da diferença apurada.
+Decisão interlocutória: determinou a realização de perícia com análise da integralidade dos documentos constantes dos autos, inclusive juntados pelo requerido em cumprimento de sentença.
+Acórdão: deu parcial provimento ao recurso de agravo de instrumento interposto por NEILA MORALES GARCIA, ABEL VICENTE MORALES GARCIA, CLÁUDIO MORALES GARCIA e OLAVO MORALES GARCIA, nos termos da seguinte ementa:
+AGRAVO DE INSTRUMENTO. R. decisão agravada que determinou a realização da perícia com a análise da integralidade dos documentos constantes dos autos. Irresignação dos exequentes. Cabimento parcial. V. Acórdão desta Câmara, proferido em julgamento de agravo de instrumento anterior, que decidiu pela utilização da documentação já constante dos autos. No entanto, a prova documental a ser considerada é apenas aquela que já produzida quando do julgamento daquele agravo, sendo descabidas sucessivas inovações pelo agravado, sob pena de violação à preclusão. Como se tal não bastasse, não se confundem documentos digitalizados com informações lançadas em sistema pela própria parte, apresentadas através de "telas sistêmicas". R. Decisão parcialmente reformada. Recurso provido em parte, a restar acolhido o pedido subsidiário. (e-STJ fl. 374)
+Embargos de Declaração: opostos por NEILA MORALES GARCIA, ABEL VICENTE MORALES GARCIA, CLÁUDIO MORALES GARCIA e OLAVO MORALES GARCIA, foram rejeitados.
+Recurso especial: alega violação dos arts. 4º, 14, 489, § 1º, III, IV, V, VI e VII, e § 3º, 502, 505, 507, 508, 509, I, II, e § 2º, 523, 525, § 1º, VII, 926, 927, e 1.022, II, do CPC, 467, 471, 473, 474, e 475-B do CPC/1973, e 876 e 884 do CC. Alega negativa de prestação jurisdicional ao defender que o acórdão recorrido foi omisso por deixar de enfrentar o precedente da própria 37ª Câmara de Direito Privado do TJSP, invocado como paradigma para caso idêntico, sem demonstrar distinguishing ou superação do entendimento.
+Afirma que a conversão do cumprimento de sentença em liquidação por arbitramento e a autorização para uso de extratos como prova desconstitutiva vulneram a coisa julgada e a preclusão. Aduz que a sentença de repetição de indébito contém carga condenatória, com obrigação de restituir já definida, sendo indevida a relativização por perícia para aferir "saldo zero". Argumenta que a limitação temporal da documentação e a vedação a "telas sistêmicas" não afastam a violação ao título, que reconhece pagamento indevido e impõe devolução mediante cálculos simples.
+RELATADO O PROCESSO, DECIDE-SE.
+- Da violação dos arts. 489 e 1.022 do CPC
+É firme a jurisprudência do STJ no sentido de que não há ofensa aos arts. 489 e 1.022 do CPC quando o Tribunal de origem, aplicando o direito que entende cabível à hipótese soluciona integralmente a controvérsia submetida à sua apreciação, ainda que de forma diversa daquela pretendida pela parte.
+A propósito, confira-se: AgInt nos EDcl no AREsp 1.094.857/SC, Terceira Turma, DJe de 02/02/2018 e AgInt no AREsp 1.089.677/AM, Quarta Turma, DJe de 16/02/2018.
+Alega que o acórdão recorrido foi omisso por deixar de enfrentar o precedente da própria 37ª Câmara de Direito Privado do TJSP, invocado como paradigma para caso idêntico, sem demonstrar distinguishing ou superação do entendimento.
+No entanto, com exceção dos precedentes vinculantes previstos no rol do art. 927 do CPC, inexiste obrigação do julgador em analisar e afastar todos os precedentes, acórdãos e sentenças, suscitados pelas partes. (AgInt no AREsp 1427771/SP, Quarta Turma, DJe 27/06/2019).
+O tribunal enfrentou a tese sobre a documentação e o marco temporal, reafirmando a análise dos extratos já anexados, vedando juntadas posteriores por preclusão e afastando "telas sistêmicas" como meio idôneo; também esclareceu a finalidade da perícia para apurar eventual diferença entre índices.
+Devidamente analisadas e discutidas as questões de mérito, e fundamentado suficientemente o acórdão recorrido, de modo a esgotar a prestação jurisdicional, os embargos de declaração opostos pela parte agravante, de fato, não comportavam acolhimento, não havendo que se falar em violação dos arts. 489 e 1.022 do CPC.
+- Da Súmula 284/STF
+Os argumentos invocados pelo agravante não demonstram como o acórdão recorrido violou os arts. 523, 525, § 1º, VII, 926 e 927 do CPC/15, 467, 471, 473 e 474 do CPC/73, e 876 e 884 do CC, o que importa na inviabilidade do recurso especial ante a incidência da Súmula 284/STF.
+- Da ausência de prequestionamento
+O acórdão recorrido não decidiu acerca dos arts. 4º, 14, 489, § 3º, 523, 525, § 1º, VII, 926, 927 do CPC/15; 467, 471, 473, 474, e 475-B do CPC/73; 876 e 884 do CC/02, indicados como violados, apesar da oposição de embargos de declaração. Por isso, o julgamento do recurso especial é inadmissível. Aplica-se, na hipótese, a Súmula 211/STJ.
+- Do reexame de fatos e provas
+Para acolher as alegações da parte agravante nos moldes por ela propostos, que são no sentido de descumprimento do título judicial em violação à coisa julgada e à preclusão pela admissão, em liquidação, de provas destinadas a rediscutir o pagamento indevido já reconhecido na sentença, exige impreterivelmente o reexame de fatos e provas, o que é vedado em recurso especial pela Súmula 7/STJ.
+Forte nessas razões, CONHEÇO do agravo e, com fundamento no art. 932, III e IV, "a", do CPC, bem como na Súmula 568/STJ, CONHEÇO PARCIALMENTE do recurso especial e, nessa extensão, NEGO-LHE PROVIMENTO.
+Deixo de majorar os honorários advocatícios sucumbenciais, uma vez que não foram fixados contra a parte agravante pelo Tribunal local.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar na condenação às penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO DE REPETIÇÃO DE INDÉBITO. CUMPRIMENTO DE SENTENÇA. EMBARGOS DE DECLARAÇÃO. OMISSÃO, CONTRADIÇÃO, OBSCURIDADE OU ERRO MATERIAL. NÃO OCORRÊNCIA. VIOLAÇÃO DO ART. 489 DO CPC. FUNDAMENTAÇÃO. AUSENTE. DEFICIENTE. SÚMULA 284/STF. PREQUESTIONAMENTO. AUSÊNCIA. SÚMULA 211/STJ. REEXAME DE FATOS E PROVAS. INADMISSIBILIDADE.
+1. Ação de repetição de indébito em fase de cumprimento de sentença.
+2. Ausentes os vícios do art. 1.022 do CPC, rejeitam-se os embargos de declaração.
+3. Devidamente analisadas e discutidas as questões de mérito, e fundamentado corretamente o acórdão recorrido, de modo a esgotar a prestação jurisdicional, não há que se falar em violação do art. 489 do CPC.
+4. A ausência de fundamentação ou a sua deficiência importa no não conhecimento do recurso quanto ao tema.
+5. A ausência de decisão acerca dos dispositivos legais indicados como violados, não obstante a oposição de embargos de declaração, impede o conhecimento do recurso especial.
+6. n. O reexame de fatos e provas em recurso especial é inadmissível.
+7. Agravo conhecido. Recurso especial parcialmente conhecido e, nesta extensão, não provido.
