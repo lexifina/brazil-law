@@ -1,0 +1,17 @@
+DECISÃO
+MANUELA MARTELI FONTANA opôs embargos de declaração contra a decisão (fls. 125/128) que não conheceu do habeas corpus.
+Em síntese, a embargante aduz a ocorrência de omissão, pois a tese aduzida não seria de quebra da cadeia de custódia e sim de inexistência de prova pericial do vestígio digital, diante da condenação com base em print de rede social desacompanhado de elemento de técnico de autenticação.
+É o relatório.
+Decido.
+Os Embargos de Declaração não dev em ser acolhidos.
+Consoante o disposto no art. 619 do Código de Processo Penal, os embargos de declaração destinam-se a suprir eventual omissão, afastar obscuridade, eliminar contradição ou ambiguidade existentes no julgado embargado, vícios inexistentes na hipótese.
+No caso em debate, o alegado ponto omisso pela Embargante foi apreciado na decisão questionada, que reconheceu que além de não ter sido demonstrada violação da cadeia de custódia, a tese defensiva se confunde com o mérito da ação originária, matéria incabível de análise na via do habeas corpus. Destaca-se:
+ ..  Neste writ, a defesa alega violação ao art. 158 do CPP, pois não teria ocorrido perícia técnica sobre o vestígio virtual que foi retratado nos autos por captura de tela.  ..
+Ademais, não restou demonstrada violação da cadeia de custódia, sendo certo que a alegação defensiva se confunde com o mérito da ação originária, de forma que incabível em via de habeas corpus a análise da matéria já analisada em cognição exauriente. ..
+2. Também não merece acolhida a tese dos recorrentes de ilicitude da prova decorrente de print de conversa de whatsapp. É que a orientação atual desta Corte Superior é no sentido de que tal nulidade apenas existe se comprovada a quebra da cadeia de custódia da aludida prova, o que não foi cogitado ou comprovado pelos recorrentes.  ..  (AgRg no AREsp n. 2.600.503/ES, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 17/6/2025, DJEN de 25/6/2025.) ..
+Portanto, a prova retratada por print enquanto hígida é apta para valoração, ainda que os vestígi os virtuais não tenham sido extraídos por exame pericial ou autenticados, sendo certo que eventual insuficiência probatória não é matéria cabível na via do habeas corpus por demandar revolvimento fático-probatório.
+Vê-se, portanto, que os presentes embargos de declaração revelam mero inconformismo da parte embargante, tendo sido opostos com o manifesto propósito de promover a rediscussão de matéria devidamente apreciada e já decidida, o que evidentemente não corresponde à finalidade desse recurso. Nesse sentido:
+EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. OMISSÃO E CONTRADIÇÃO. NÃO OCORRÊNCIA. MERA IRRESIGNAÇÃO. EMBARGOS DECLARATÓRIOS REJEITADOS. 1. Não há nenhum fundamento que justifique a oposição do reclamo declaratório, que se presta tão somente a sanar um dos vícios previstos no art. 619 do Código de Processo Penal no acórdão combatido e são inadmissíveis quando, a pretexto da necessidade de esclarecimento, aprimoramento ou complemento da decisão embargada, objetivam novo julgamento do caso. (..) 3. Embargos de declaração rejeitados. (EDcl no AgRg no AREsp n. 2.101.569/PA, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 23/4/2024, DJe de 30/4/2024).
+Pelo exposto, conheço dos embargos declaratórios, mas, no mérito, nego-lhes provimento, eis que inexiste omissão a ser sanada, devendo persistir a decisão tal como proferida.
+Publique-se. Intimem-se.
+EMENTA
