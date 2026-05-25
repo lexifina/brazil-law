@@ -1,0 +1,57 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de CAUA MARIANO contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO que denegou a ordem no writ de origem. Eis a ementa (fl. 17):
+EMENTA: DIREITO PENAL. HABEAS CORPUS. TRÁFICO DE DROGAS. ORDEM DENEGADA.
+I. Caso em Exame Habeas corpus impetrado em favor de paciente preso preventivamente por tráfico de drogas, visando à revogação da prisão preventiva ou sua substituição por medidas cautelares mais brandas. A defesa alega fundamentação inidônea do decreto prisional e ausência de requisitos para a prisão preventiva, destacando a primariedade e bons antecedentes.
+II. Questão em Discussão
+2. A questão em discussão consiste em verificar a legalidade e necessidade da manutenção da prisão preventiva do paciente, considerando a alegação de ausência de fundamentação adequada e a possibilidade de aplicação de medidas cautelares alternativas.
+III. Razões de Decidir
+3. A prisão preventiva é justificada pela presença dos requisitos dos arts. 312 e 313, inciso I, do CPP, com indícios suficientes de autoria e materialidade, visando garantir a ordem pública e a aplicação da lei penal.
+4. A decisão que decretou a prisão preventiva foi fundamentada na gravidade concreta do delito, reiteração delitiva e ineficácia de medidas cautelares anteriores, além do risco à ordem pública.
+IV. Dispositivo e Tese
+5. Ordem de habeas corpus denegada.
+Consta dos autos que o paciente teve a prisão em flagrante convertida em preventiva em razão da suposta prática do delito de tráfico de drogas.
+Sustenta a defesa que a prisão preventiva baseou-se tão somente na gravidade abstrata da conduta.
+Alega que não é grande a quantidade de drogas, bem como o paciente não se dedica ao tráfico de drogas nem faz parte de organização criminosa.
+Aduz a primariedade do paciente, a residência fixa e bons antecedentes.
+Menciona que uma possível condenação conduziria ao tráfico privilegiado e que não há risco de reiteração delitiva.
+Ressalta a possibilidade de aplicação de medidas cautelares diversas da prisão do art. 319 do CPP, assim como do princípio da proporcionalidade.
+Requer, liminarmente e no mérito, a revogação da prisão preventiva do recorrente e sua substituição por medidas cautelares diversas do art. 319 do CPP.
+É o relatório.
+A Quinta Turma do Superior Tribunal de Justiça firmou entendimento no sentido de ser inadequada a impetração de habeas corpus quando utilizado em substituição a recurso próprio.
+A teor do disposto no art. 105, II, a, da CF/88, o recurso cabível contra acórdão que denega a ordem na origem é o recurso ordinário, enquanto, consoante previsto no art. 105, III, da CF, o recurso cabível contra acórdão que julga apelação, recurso em sentido estrito e agravo em execução é o recurso especial.
+Nada impede, contudo, a concessão de habeas corpus de ofício quando constatada a existência de ilegalidade flagrante, abuso de poder ou teratologia, nos termos do art. 654, §2º, do CPP, o que ora se passa a examinar.
+A prisão preventiva justifica-se apenas quando devidamente demonstrada sua imprescindibilidade para a preservação da ordem pública, a garantia da regularidade da instrução criminal ou a asseguração da eficácia da aplicação da lei penal, nos termos do art. 312 do Código de Processo Penal.
+O decreto prisional foi assim fundamentado (fls. 70-74):
+ ..
+No que tange à conversão da prisão em flagrante em prisão preventiva, verifico que estão presentes os requisitos dos artigos 312 e 313 do Código de Processo Penal. Há indícios suficientes de autoria e materialidade delitiva, conforme se extrai do auto de prisão em flagrante, dos depoimentos dos agentes estatais e do laudo pericial que atestou tratar-se de 49,17 gramas de cocaína e 15,48 gramas de material vegetal contendo tetrahidrocanabinol (THC).
+Quanto aos pressupostos do artigo 312 do Código de Processo Penal, verifico que a prisão preventiva é necessária para garantia da ordem pública. Com efeito, o custodiado encontrava-se em liberdade provisória, conforme se extrai da consulta aos antecedentes criminais, tendo sido preso em flagrante pelo mesmo delito de tráfico de drogas em 5 de fevereiro de 2025, há apenas 24 dias. Na ocasião anterior, foram apreendidos entorpecentes e foi-lhe concedida liberdade provisória mediante imposição de medidas cautelares. A reiteração delitiva, em prazo tão exíguo, demonstra que as medidas cautelares anteriormente impostas foram absolutamente insuficientes para evitar a continuidade da prática criminosa, evidenciando o descaso do custodiado com as determinações judiciais e a ineficácia das medidas alternativas à prisão.
+A gravidade concreta da conduta também justifica a segregação cautelar. A quantidade de entorpecentes apreendida ( 144 eppendorfs contendo cocaína e um tijolo de maconha ), a forma de acondicionamento em unidades prontas para comercialização, bem como a localização estratégica do material (escondido sob o fogão da cozinha) evidenciam a dedicação do custodiado à atividade de tráfico de drogas, com estrutura organizada para a mercancia ilícita. O tráfico de entorpecentes constitui grave ameaça à saúde pública e à ordem social, não se tratando de delito de menor potencial ofensivo.
+Ademais, verifico que o delito imputado ao custodiado é punido com pena de reclusão máxima superior a 4 anos, conforme previsto no artigo 313, inciso I, do Código de Processo Penal.
+No que se refere à possibilidade de aplicação de medidas cautelares diversas da prisão, previstas no artigo 319 do Código de Processo Penal, verifico que estas se mostram inadequadas e insuficientes para a tutela dos bens jurídicos ameaçados. A reiteração delitiva em prazo exíguo, mesmo após a concessão de liberdade provisória com imposição de medidas cautelares, demonstra que o custodiado não se abstém da prática criminosa, mesmo diante de determinações judiciais. Assim, não há como assegurar, por meio de medidas cautelares alternativas, que o autuado deixará de praticar novos delitos.
+Por fim, ressalto que não se verifica, no caso em tela, qualquer das hipóteses que autorizariam a substituição da prisão preventiva por prisão domiciliar, nos termos do artigo 318 do Código de Processo Penal.
+Diante do exposto, HOMOLOGO a prisão em flagrante de CAUA MARIANO e, presentes, a um só tempo, os pressupostos fáticos e normativos que autorizam a medida prisional cautelar, CONVERTO-A em PRISÃO PREVENTIVA, com fundamento nos artigos 310, inciso II, 312 e 313, inciso I, do Código de Processo Penal.
+Verifica-se que a prisão preventiva foi decretada mediante fundamentação idônea, lastreada na gravidade concreta da conduta, tendo em vista que a quantidade de drogas apreendidas (49,17 gramas de cocaína e 15,48 gramas de material vegetal contendo tetrahidrocanabinol (THC)), bem como o fato de que o paciente encontrava-se em liberdade provisória, conforme se extrai da consulta aos antecedentes criminais, tendo sido preso em flagrante pelo mesmo delito de tráfico de drogas em 5 de fevereiro de 2025, há apenas 24 dias.
+Na ocasião anterior, foram apreendidos entorpecentes e foi-lhe concedida liberdade provisória mediante imposição de medidas cautelares, situação que revela a indispensabilidade da imposição da medida extrema no caso concreto.
+Com efeito, nos casos de prisão em flagrante por tráfico de drogas, a conversão em prisão preventiva pode ser decretada quando a gravidade concreta da conduta se evidencia em fatores como a quantidade e a natureza da substância apreendida, a forma de acondicionamento ou a presença de instrumentos destinados à comercialização, circunstâncias que revelam maior potencial lesivo da conduta e indicam periculosidade do agente, ultrapassando a mera gravidade abstrata do delito.
+Nesse sentido:
+AGRAVO REGIMENTAL EM HABEAS CORPUS. CRIMES DE TRÁFICO DE DROGAS E ADULTERAÇÃO DE SINAL IDENTIFICADOR DE VEÍCULO. ALEGAÇÃO DE INOCÊNCIA. PRISÃO PREVENTIVA. FUNDAMENTAÇÃO. GRANDE QUANTIDADE DE DROGAS. INDÍCIOS DE ENVOLVIMENTO REITERADO. GRAVIDADE CONCRETA DA CONDUTA. SEGREGAÇÃO DEVIDAMENTE JUSTIFICADA PARA A GARANTIA DA ORDEM PÚBLICA. DESPROPORÇÃO EM RELAÇÃO À POSSÍVEL PENA A SER APLICADA. PROGNÓSTICO INVIÁVEL. CONDIÇÕES PESSOAIS FAVORÁVEIS. IRRELEVÂNCIA. MEDIDAS CAUTELARES ALTERNATIVAS. INSUFICIÊNCIA. AUSÊNCIA DE CONSTRANGIMENTO ILEGAL. RECURSO NÃO PROVIDO.
+ .. .
+4. Ademais, "É pacífico o entendimento no sentido de que as circunstâncias fáticas do crime, como a quantidade apreendida, a variedade, a natureza nociva dos entorpecentes, a forma de acondicionamento, entre outros aspectos, podem servir de fundamentos para o decreto prisional quando evidenciarem a periculosidade do agente e o efetivo risco à ordem pública, caso permaneça em liberdade."(AgRg no HC n. 787.386/SP, Rel. Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 13/12/2022, DJe 19/12/2022).
+ ..
+7. Mostra-se indevida a aplicação de medidas cautelares diversas da prisão, quando evidenciada a sua insuficiência para acautelar a ordem pública.
+8. Agravo regimental a que se nega provimento.
+(AgRg no HC n. 957.245/SC, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 12/2/2025, DJEN de 18/2/2025.)
+Além disso, esta Corte Superior firmou orientação no sentido de que a prisão preventiva poderá ser decretada ante o risco concreto de reiteração delitiva, evidenciada na presença de maus antecedentes, reincidência, atos infracionais pretéritos ou até mesmo ações penais em andamento, porquanto indicativos de periculosidade. Veja-se:
+AGRAVO REGIMENTAL NO RECURSO EM HABEAS CORPUS. RÉU CONDENADO POR ROUBO MAJORADO. NEGATIVA DE RECURSO EM LIBERDADE. FUNDAMENTAÇÃO. PERICULOSIDADE DO AGENTE. REITERAÇÃO DELITIVA. SEGREGAÇÃO DEVIDAMENTE JUSTIFICADA PARA A GARANTIA DA ORDEM PÚBLICA. MEDIDAS CAUTELARES ALTERNATIVAS. INSUFICIÊNCIA. AUSÊNCIA DE CONSTRANGIMENTO ILEGAL. RECURSO NÃO PROVIDO.
+ ..
+3. Conforme pacífica jurisprudência desta Corte, "a preservação da ordem pública justifica a imposição da prisão preventiva quando o agente ostentar maus antecedentes, reincidência, atos infracionais pretéritos, inquéritos ou mesmo ações penais em curso, porquanto tais circunstâncias denotam sua contumácia delitiva e, por via de consequência, sua periculosidade" (RHC n. 107.238/GO, Relator Ministro ANTONIO SALDANHA PALHEIRO, Sexta Turma, julgado em 26/2/2019, DJe 12/3/2019). Prisão preventiva, no caso vertente, devidamente justificada para a garantia da ordem pública, nos termos do art. 312 do CPP, visando frear a reiteração delitiva.
+ ..
+7. Agravo regimental a que se nega provimento.
+(AgRg no RHC n. 187.651/GO, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 9/9/2024, DJe de 12/9/2024.)
+Sendo assim, quando presentes os requisitos do art. 312 do CPP, a imposição da prisão preventiva é medida de rigor, independentemente de condições pessoais favoráveis do agente, mostrando-se inadequadas medidas cautelares diversas do art. 319, quando a custódia provisória apresentar fundamentação concreta.
+Também mostra-se descabida a alegação de desproporcionalidade da prisão cautelar, com base em futura e hipotética condenação a ser cumprida em regime mais brando, haja vista que o juízo só poderá dosar a pena e fixar o respectivo regime após o encerramento da instrução criminal. Não é possível antecipar tal análise em habeas corpus, por se exigir prévia produção de prova.
+Não há, portanto, flagrante ilegalidade que justifique a concessão da ordem de ofício.
+Ante o exposto, não conheço do habeas corpus.
+Publique-se.
+Intimem-se.
+EMENTA
