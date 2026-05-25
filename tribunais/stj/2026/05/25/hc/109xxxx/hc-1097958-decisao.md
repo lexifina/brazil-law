@@ -1,0 +1,16 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em nome de HIGOR SILVEIRA DA SILVA, condenado por tráfico privilegiado (art. 33, § 4º, da Lei n. 11.343/2006), com causa de aumento do art. 40, III, da Lei n. 11.343/2006, à pena de 4 anos e 2 meses de reclusão, regime semiaberto, e 500 dias-multa.
+A impetrante relata que a 2ª Câmara Criminal do Tribunal de Justiça do Estado do Rio Grande do Sul, em 19/3/2026, reconheceu o cabimento do Acordo de Não Persecução Penal ao apelante e determinou a remessa dos autos ao Ministério Público para manifestação, ficando prejudicado, por ora, o recurso defensivo, na Apelação Criminal n. 5008961-08.2018.8.21.0015/RS (fls. 10/12 e 39).
+Após a recusa ministerial ao ANPP, a defesa requereu, nos autos da apelação, o trancamento da ação penal. Aponta como autoridade coatora a Desembargadora Relatora da 2ª Câmara Criminal, que, em 5/5/2026, indeferiu o pedido defensivo e determinou o retorno dos autos para análise do mérito recursal (fls. 76/80 e 83).
+Alega, em síntese, que houve recusa inidônea do Ministério Público ao ANPP, por motivação ilegal e contraditória, apontando como fundamentos indevidos a pena concreta superior a 4 anos, a quantidade de droga apreendida (aproximadamente 1 kg de maconha) e a existência de outras ações penais, o que configuraria constrangimento ilegal e ausência de justa causa para a persecução penal, notadamente por falta de interesse de agir.
+Aduz erro de direito no ato coator por não exercer o controle judicial da recusa ministerial, sustentando que a negativa ao ANPP, quando cabível, deve ser sindicada e, sendo ilegal, implica o trancamento da ação penal por ausência superveniente de justa causa.
+Em caráter liminar, pede a suspensão do julgamento da apelação criminal até a decisão definitiva deste habeas corpus. No mérito, requer a cassação da decisão judicial que endossou a recusa ministerial e o trancamento da ação penal por falta de interesse de agir em razão da negativa ao ANPP.
+É o relatório.
+É firme, nesta Corte, o entendimento de que, nesta instância superior, não há como se dispensar o necessário debate acerca da questão controvertida, pois é vedada a apreciação per saltum da pretensão defensiva, sob pena de supressão de instância (AgRg no HC n. 765.498/RJ, Ministra Laurita Vaz, Sexta Turma, DJe 20/3/2023).
+Na espécie, o impetrante impugna decisão proferida pela Desembargadora Relatora que indeferiu o pedido da defesa de trancamento da ação penal e determinou o retorno dos autos da apelação criminal para análise do mérito recursal (fl. 83).
+Ora, não cabe a esta Corte julgar habeas corpus contra decisão monocrática de Desembargador de Tribunal de Justiça (art. 105, I, c, da Constituição Federal). Isso porque, contra despachos e decisões monocráticas dos Tribunais de Justiça, existem outros recursos cabíveis na própria via ordinária, tais como pedidos de reconsideração, agravos internos e/ou agravos regimentais.
+Ante o exposto, com base no art. 210 do RISTJ, indefiro liminarmente o presente habeas corpus.
+Publique-se.
+EMENTA
+PROCESSUAL PENAL. HABEAS CORPUS. TRÁFICO DE DROGAS PRIVILEGIADO. PRETENSÃO DE TRANCAMENTO DA AÇÃO PENAL. IMPUGNAÇÃO DE DECISÃO DE DESEMBARGADORA RELATORA NA ORIGEM. AUSÊNCIA DE ATO COATOR SUJEITO À JURISDIÇÃO DESTA CORTE. ART. 105, I, C, DA CF. IMPOSSIBILIDADE DE SUPRESSÃO DE INSTÂNCIA.
+Writ indeferido liminarmente.
