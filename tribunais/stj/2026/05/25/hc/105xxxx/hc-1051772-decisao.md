@@ -1,0 +1,51 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em favor de PAULO RICARDO MOREIRA SILVA em que se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE ALAGOAS.
+Consta dos autos que o paciente foi pronunciado como incurso nas senções do art. 121, § 2º, I e IV, c/c o art. 14, I, ambos do Código Penal.
+A impetrante sustenta que o manejo excepcional do habeas corpus substitutivo é cabível, por haver flagrante ilegalidade e por não demandar reexame probatório, apenas revaloração jurídica do quadro incontroverso.
+Alega que a pronúncia se apoiou exclusivamente em depoimentos indiretos de "ouvir dizer" e em elementos inquisitoriais não confirmados judicialmente, o que violaria regras processuais e a jurisprudência consolidada.
+Aduz que relatos não permitem contraditório efetivo, razão pela qual não podem, sozinhos, sustentar decisão de envio ao Júri, conforme precedentes do Superior Tribunal de Justiça e do Supremo Tribunal Federal.
+Assevera que o depoimento prestado por testemunha na fase policial, posteriormente falecida, não se qualifica como prova irrepetível apta a embasar a pronúncia, por se tratar de prova naturalmente repetível.
+Afirma que é incompatível invocar o in dubio pro societate para suprir a ausência de lastro mínimo judicializado, impondo-se a despronúncia quando inexistentes indícios produzidos sob contraditório.
+Defende que o conjunto apresentado revela constrangimento ilegal manifesto, pois a decisão manteve a pronúncia sem suporte probatório judicial suficiente.
+Requereu, liminarmente e no mérito, a despronúncia do paciente.
+A liminar foi indeferida às fls. 571-573.
+O Ministério Público Federal, por meio do parecer de fls. 580-590, opinou pelo não conhecimento da impetração, ou pela denegação da ordem.
+É o relatório.
+O Superior Tribunal de Justiça já firmou compreensão de que o habeas corpus não deve ser utilizado como substitutivo do recurso legalmente previsto para a hipótese, impondo-se o não conhecimento da impetração, salvo quando constatada a existência de flagrante ilegalidade no ato judicial impugnado.
+Observem-se a respeito: AgRg no HC n. 933.316/MG, relator Ministro Messod Azulay Neto, Quinta Turma, julgado em 20/8/2024, DJe de 27/8/2024; AgRg no HC n. 874.713/SP, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 13/8/2024, DJe de 20/8/2024; AgRg no HC n. 918.177/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 19/8/2024, DJe de 22/8/2024; AgRg no HC n. 749.702/SP, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 26/2/2024, DJe de 29/2/2024; AgRg no HC n. 912.662/SP, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 24/6/2024, DJe de 27/6/2024; e HC n. 740.303/ES, relator Ministro Jesuíno Rissato - Desembargador convocado do TJDFT, Quinta Turma, julgado em 9/8/2022, DJe de 16/8/2022.
+No caso em exame, não se verifica a ocorrência de ilegalidade flagrante apta a superar esse entendimento.
+O Tribunal de origem ressaltou, no acórdão do recurso em sentido estrito, que a pronúncia não se baseou somente na prova obtida na fase inquisitorial mas também nas provas produzidas judicialmente, sobretudo na prova oral. Verifica-se (fls. 28-30):
+8. Consoante relatado, o recorrente foi pronunciado como incurso nas penas do art. 121, § 2º, incs. I e IV, do Código Penal, entendendo o Magistrado singular que estariam presentes a materialidade e indícios suficientes de autoria, para submetê-lo a julgamento pelo órgão competente constitucionalmente, qual seja, o Tribunal do Júri.
+9. Consta na denúncia que:
+"(..) no dia 19 de junho de 2023, no Conjunto Hélio Vasconcelos, n.40, Tabuleiro do Pinto, Rio Largo/AL, por volta das 22h49min, os denunciados Anderson Rodrigo da Silva Souza, vulgo "De Boa", Paulo Ricardo Moreira Silva, brasileiro, Vulgo "Paulinho" e Edvan Moreira da Silva, vulgo "Van", conscientes e voluntariamente, em comunhão de desígnios com emprego de arma de fogo, efetuaram disparos, com intenção de matar a vítima Ernande Ferreira da Silva, causando-lhe lesões corporais que por suas natureza foram a causa de sua morte, conforme comprova o Laudo de Exame perinecroscópico de pp. 81/97. (..)"
+10. Segundo se apurou na instrução processual, tanto a vítima como seus filhos e os réus possuíam envolvimento com o trafico de drogas da região, pertencendo a facções rivais. O homicídio teria sido praticado, supostamente, em represália pelo filho da vítima ter relatado à polícia que os réus possuíam armas e drogas. A vítima ao saber que seu filho corria risco de morte em razão da suposta delação, disse na comunidade que quem mexesse com seu filho teria que se acertar com ele, o que teria despertado a animosidade dos réus.
+11. Nas razões do presente recurso, a defesa requereu a despronúncia do réu, alegando não ser cabível a pronúncia fundada exclusivamente em testemunhos indiretos de "ouvir dizer".
+12. Ao contrário do que foi sustentado pela defesa do réu, as testemunhas de acusação não são meras testemunhas indiretas, cujos depoimentos são insuficientes para ensejar a condenação. Isso porque, a clássica testemunha indireta (testemunha de ouvir dizer - hearsay rule) é aquela que relata os burburinhos, comentários, achismos de terceiros a respeito do fato; elas não possuem condições de indicar com precisão a fonte direta da informação trazida em juízo.
+13. No caso dos autos, o filho (Wesley) e a ex-companheira da vítima tiveram contato com Elton (filho da vítima) logo após a ação delitiva. Na oportunidade, Elton disse que estava na casa de seu pai Ernande (vítima) quando a pessoa conhecida por "de boa" chamou-o, no portão, pelo apelido. Na sequência, houve a deflagração de um disparo, o que fez com que a vítima fosse verificar do que se tratava. Já no portão, a vítima foi atingida por diversos disparos de armas de fogo enquanto o resto da família, dentre eles Elton, se abrigou dentro do banheiro da residência para se proteger.
+14. Wesle disse a sua mãe Cláudia Santos Capistrano, a seu irmão Welton Santos da Silva e a Autoridade Policial que reconheceu a voz de "de boa" e também tinha certeza que Paulo Ricardo Moreira Silva estava presente na ação delitiva.
+15. O depoimento prestado por Wesle, na fase de inquérito (fls. 67/68), deve ser considerado prova irrepetível em razão do seu posterior falecimento por acidente, podendo, portanto, ser utilizado como fundamento idôneo para decisão de pronúncia.
+16. Para além disso, uma vez que o depoimento de Wesle converge integralmente com as versões apresentadas por seu irmão Wesley e sua genitora Cláudia Santos Capistrano, é possível atribuir acentuado grau de confiabilidade aos relatos colhidos em Juízo e os distinguir de meros testemunhos indiretos.
+17. É importante salientar ainda que a testemunha Viviane dos Santos Silva, companheira da vítima, apesar de negar saber quem efetivamente entrou em sua casa e cometeu o homicídio, relatou que acredita que seu companheiro morreu por ser pai de Welton, o qual estava sendo perseguido por algumas pessoas, dentre elas os réus, por ser considerado delator do tráfico de drogas da região.
+18. Outrossim, o laudo pericial às fls. 112/138 constatou que a ação delituosa foi empreendida por mais de um agente, tendo em vista a utilização de três calibres distintos de armamento, o que corrobora com as versões apresentadas pro Wesle, Welton e Cláudia Capistrano.
+19. Dessa forma, havendo relatos sobre a autoria, circunstâncias e possíveis motivações do crime e, de outro lado, não sendo constatada prova apta para afastar, de plano, as acusações que pendem sobre o recorrente, não há como entender que não teria havido, pelo menos no presente momento processual, a sua participação no delito, portanto, entendo que os autos estão aptos para apreciação do Júri Popular.
+O entendimento do Tribunal de origem está em consonância com a jurisprudência dest a Corte Superior, que estabelece que a pronúncia encerra simples juízo de admissibilidade da acusação, satisfazendo-se, tão somente, pelo exame da ocorrência do crime e de indícios de sua autoria, não demandando juízo de certeza necessário à sentença condenatória, uma vez que as eventuais dúvidas serão dirimidas durante a segunda fase do procedimento do júri.
+Nesse sentido:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. HOMICÍDIO QUALIFICADO, RESISTÊNCIA, DESOBEDIÊNCIA E DESACATO. DECISÃO DE PRONÚNCIA BASEADA EM ELEMENTOS COLHIDOS NA FASE INQUISITORIAL E NA FASE JUDICIAL. INDÍCIOS MÍNIMOS DE AUTORIA. REVISÃO DO ACÓRDÃO. NECESSIDADE DE DILAÇÃO PROBATÓRIA. IMPOSSIBILIDADE.
+1. A decisão de pronúncia encerra simples juízo de admissibilidade da acusação, satisfazendo-se tão somente pelo exame da ocorrência do crime e de indícios de sua autoria.
+2. No caso, a pronúncia não se baseou somente na prova obtida na fase inquisitorial, mas também nas provas produzidas judicialmente, sobretudo na prova oral, inclusive no que diz respeito aos crimes conexos.
+3. A alteração do entendimento das instâncias ordinárias, de modo a despronunciar o acusado, demandaria ampla dilação probatória, incabível na via estreita do habeas corpus.
+4. Agravo regimental improvido.
+(AgRg no HC n. 848.629/RS, Sexta Turma, de minha relatoria, DJe de 3/10/2024.)
+PENAL E PROCESSUAL PENAL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. HOMICÍDIO QUALIFICADO. LEGÍTIMA DEFESA . IMPOSSIBILIDADE. DECISÃO MANTIDA POR SEUS PRÓPRIOS FUNDAMENTOS. RECURSO NÃO PROVIDO.
+ ..
+5. A decisão de pronúncia é um juízo de admissibilidade, cabendo ao Tribunal do Júri a análise aprofundada das provas.
+6. A exclusão de qualificadoras só é possível se manifestamente improcedentes, o que não se verifica no caso.
+IV. Dispositivo e tese
+7. Agravo regimental desprovido.
+(AgRg no REsp n. 2.143.622/AL, Quinta Turma Turma, relatora Ministra Daniela Teixeira, DJe de 2/10/2024.)
+Acrescenta-se, por fim, que a revisão das premissas fáticas consideradas pelas instâncias antecedentes na formulação do juízo de admissibilidade da acusação demandaria reexame probatório incompatível com a estreita via cognitiva do habeas corpus.
+Diante de tais considerações, portanto, não se observa a existência de nenhuma flagrante ilegalidade passível de ser sanada pela concessão da ordem, ainda que de ofício.
+Ante o exposto, não conheço do habeas corpus.
+Cientifique-se o Ministério Público Federal.
+Publique-se. Intimem-se.
+EMENTA
