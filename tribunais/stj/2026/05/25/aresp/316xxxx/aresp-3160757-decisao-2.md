@@ -1,0 +1,59 @@
+DECISÃO
+Cuida-se de agravo interposto por NERIO PAULO RUFATTO JUNIOR e VIVIANE PEREIRA DOS SANTOS RUFATTO contra decisão que obstou a subida de recurso especial.
+Extrai-se dos autos que os agravantes interpuseram recurso especial, com fundamento no art. 105, III, "a" e "c", da Constituição Federal, contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO GRANDE DO SUL cuja ementa guarda os seguintes termos (fl. 1.275):
+APELAÇÕES CÍVEIS. DIREITO PRIVADO NÃO ESPECIFICADO. AÇÃO INDENIZATÓRIA. PROJETO E EXECUÇÃO DE OBRA DE EMPREITADA. CONSTRUÇÃO NÃO CONCLUÍDA, COM A CONSTATAÇÃO DE DESÍDIA DOS RÉUS. RAZÕES DOS RÉUS QUE NÃO ULTRAPASSARAM A SEARA DO ARGUMENTO SEM PROVA. AMPLIAÇÃO DA BASE DA CONDENAÇÃO DE RESTITUIÇÃO DE VALORES (DECOTADO O ADIMPLEMENTO DA OBRA) PARA CONTEMPLAR O VALOR PAGO À CORRÉ LAWEG. EXPLICITAÇÃO QUANTO AO DECOTE A SER APURADO EM LIQUIDAÇÃO DE SENTENÇA, DEVENDO CONSIDERAR A PERÍCIA JUDICIAL ACERCA DAS FALHAS TÉCNICAS DE REFAZIMENTO COMPROVADO. AMPLIAÇÃO DO LAPSO TEMPORAL RELATIVO À CONDENAÇÃO DE RESTITUIÇÃO DE VALORES DAS QUOTAS CONDOMINIAIS DECORRENTE DA LOCAÇÃO. INDENIZAÇÃO POR DANOS MORAIS NÃO ACOLHIDA. VALORES DISPENDIDOS COM A CONTRATAÇÃO DE OUTROS PROFISSIONAIS PARA A CONTINUIDADE DA OBRA. IMPOSSIBILIDADE DE CONTEMPLAÇÃO, SOB PENA DE PENALIZAÇÃO BIS IN IDEM. PEDIDO DE RESSARCIMENTO DE MATERIAIS ALEGADAMENTE PREJUDICADOS QUANTO AO USO. IMPOSSIBILIDADE DE APURAÇÃO E AUSÊNCIA DE PROVA EM TAL SENTIDO.
+APELAÇÃO DOS AUTORES PARCIALMENTE PROVIDA. APELAÇÃO DA CORRÉ LAWEG DESPROVIDA. APELAÇÃO DO CORRÉU DESPROVIDA.
+Rejeitados os embargos de declaração opostos pelos recorridos e parcialmente acolhidos os opostos pelos recorrentes, para suprir omissão, mas mantendo-se o resultado do julgamento (fls. 1.307-1.309).
+No recurso especial, alegam que o acórdão contrariou as disposições contidas nos artigos 159, 186, 389, 402, 617, 927 e 944 do Código Civil.
+Sustentam, em síntese, que além da condenação dos recorridos ao ressarcimento do que foi reconhecido pelas instâncias ordinárias, também fazem jus à indenização por danos morais, à restituição dos valores pagos a terceiros para conclusão da obra e dos materiais extraviados e ao ressarcimento dos valores que tiveram que pagar em razão do financiamento imobiliário.
+Apontam divergência jurisprudencial com arestos de outros tribunais e desta Corte.
+Foram oferecidas contrarrazões ao recurso especial (fls. 1.428-1.438).
+Sobreveio o juízo de admissibilidade negativo na instância de origem (fls. 1.439-1.442), o que ensejou a interposição do presente agravo.
+Apresentada contraminuta do agravo (fls. 1.495-1.498).
+É, no essencial, o relatório.
+Atendidos os pressupostos de admissibilidade do agravo, passo ao exame do recurso especial.
+Como se constata, o objetivo do recurso especial é a condenação dos recorridos também à indenização por danos morais, à restituição dos valores pagos pelos recorrentes a terceiros para conclusão da obra e dos materiais extraviados e ao ressarcimento dos valores que tiveram que pagar em razão do financiamento imobiliário.
+O acórdão recorrido apresenta a seguinte fundamentação nestes pontos (fls. 1.273-1.271):
+Outrossim, não assiste razão ao recurso no que tange ao pleito de restituição de valores relativos ao pagamento de outros profissionais e, também, de ressarcimento dos custos com materiais eventualmente "perdidos", seja pela impossibilidade de aferição efetiva do que são perdas usuais de material e, também, por ausência de prova em tal sentido e, ademais, a contratação de outros profissionais é decorrência lógica da continuidade das obras e eventual condenação em tal sentido colidiria com a restituição do inadimplemento da obra, o que resultaria em eventual condenação bis in idem.
+Do mesmo modo, não constato razão para indenização por danos morais, mantendo a sentença no ponto, na medida em que o inadimplemento contratual quanto ao projeto e execução da obra, por si só, não se trata de ato ilícito a ser indenizado e não ultrapassa a seara de dissabor, que, de regra, situações similares geram, destacando que as indenizações materiais estão sendo contempladas e até ampliadas.
+Sobre o tema, importa destacar que os danos morais dizem respeito a lesões a atributos da pessoa, enquanto ente ético e social que participa da vida em sociedade, isto é, são aqueles decorrentes de atos lesivos à parte afetiva e à parte social da personalidade, considerada tanto pessoalmente quanto nas relações intersubjetivas necessárias ao convívio social.
+Sob o prisma constitucional, a obrigatoriedade de reparação dos danos morais encontra ressonância em seu artigo 5º, incisos V e X, in verbis:
+ ..
+Já no plano infraconstitucional, o Código Civil prevê a responsabilidade de reparação dos danos causados por condutas humanas a outrem, seja através da ação ou omissão, culpa ou dolo, negligência ou imperícia, desde que comprovada sua ligação através do nexo causal, nos termos do disposto nos arts. 186 e 927:
+ ..
+Assim sendo, a responsabilidade civil consubstanciada no dever de indenizar é oriunda do ato ilícito resultante da violação da ordem jurídica, com ofensa ao direito alheio, exigindo-se, necessariamente, a presença de três pressupostos legais: a ação do agente, o resultado lesivo e o nexo causal entre o ato danoso e o resultado, o que não constato na questão em apreço.
+Já o acórdão que julgou os embargos de declaração opostos pelos recorrentes, reconhecendo omissão na apreciação de questão por eles suscitada, está assim fundamentado, no que interessa a este especial (fl. 1.308):
+De outro modo, foi omissa a decisão embargada acerca do pedido de financiamento, razão pela qual acolho os embargos de declaração para o saneamento da omissão.
+Contudo, estou mantendo a sentença no ponto.
+Diferentemente as cotas condominiais que se tratam de danos emergentes decorrentes do atraso das obras, o financiamento imobiliário não detém o mesmo sentido, na medida em que não há adminículo probatório de que o que o imóvel financiado já teria sido vendido ou alugado se a obra estivesse concluída, ou ainda que serviria para capitalização e consequente assistência financeira à obra contratada, além do que, consoante bem definiu o Juízo originário, resultaria em condenação que importaria enriquecimento ilícito dos autores, mantendo-se a improcedência no ponto.
+Portanto, considerando a fundamentação do acórdão objeto do recurso especial, os argumentos utilizados pela parte recorrente somente poderiam ter sua procedência verificada mediante o necessário reexame de matéria fático-probatória, procedimento vedado a esta Corte, em razão do óbice da Súmula n. 7/STJ.
+Nesse sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO INDENIZATÓRIA. DANO MORAL NÃO CONFIGURADO. ENTENDIMENTO OBTIDO DA ANÁLISE DO CONJUNTO FÁTICO-PROBATÓRIO. INCIDÊNCIA DA SÚMULA 7/STJ. AGRAVO INTERNO DESPROVIDO.
+1. A alteração da orientação firmada no aresto impugnado acerca da inexistência de dano moral só seria possível mediante o revolvimento do acervo fático-probatório do respectivo processo, providência vedada nesta instância extraordinária em decorrência do disposto na Súmula 7 do Superior Tribunal de Justiça.
+2. Agravo desprovido.
+(AgInt no AREsp n. 2.150.769/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 24/10/2022, DJe de 28/10/2022.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CONTRATO DE LOCAÇÃO. MERO DESCUMPRIMENTO CONTRATUAL. DANO MORAL NÃO CONFIGURADO. SÚMULA 7 DO STJ. AGRAVO INTERNO NÃO PROVIDO.
+1. A jurisprudência consolidada do STJ entende inexistir dano moral pelo mero descumprimento contratual, exceto quando verificada situação peculiar, apta a justificar o reconhecimento de violação a direitos da personalidade. Precedentes.
+2. A Corte Estadual, no presente caso, concluiu pela inexistência de ato ilícito praticado pelo recorrido, senão mero descumprimento contratual incapaz de render ensejo à indenização por danos morais.
+A reforma do aresto, neste aspecto, demanda inegável necessidade de reexame de matéria probatória, providência inviável de ser adotada em sede de recurso especial, ante o óbice da Súmula 7 desta Corte.
+3. Agravo interno não provido.
+(AgInt no AREsp n. 2.009.274/DF, relator Ministro Luis Felipe Salomão, Quarta Turma, julgado em 13/6/2022, DJe de 17/6/2022.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO INDENIZATÓRIA. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. ALEGAÇÕES GENÉRICAS. SÚMULA 284/STF. PRODUÇÃO DE PROVA. ALEGADO CERCEAMENTO DE DEFESA. SÚMULA 7/STJ. DANO MORAL NÃO CONFIGURADO. SÚMULA 7/STJ. DISSÍDIO JURISPRUDENCIAL. IMPOSSIBILIDADE DE APURAÇÃO. SÚMULA 7/STJ.
+1. Apresenta-se deficiente a fundamentação do recurso especial em que a alegação de ofensa aos arts. 489 e 1.022 do CPC se faz de forma genérica, não havendo a demonstração clara dos pontos do acórdão que se apresentam omissos, contraditórios ou obscuros.
+2. Conforme a jurisprudência do Superior Tribunal de Justiça, não há cerceamento de defesa quando o julgador considera desnecessária a produção de prova ou suficientes as já produzidas.
+3. A Corte local, com suporte no conjunto probatório carreado aos autos, afastou a alegação de cerceamento de defesa, por entender desnecessária a produção de prova pretendida. Desse modo, insindicável a conclusão do Tribunal por esta Corte Superior, ante o óbice da Súmula 7/STJ.
+4. A alteração da conclusão adotada pela Corte de origem, acerca de inexistir dano moral a ser reparado, demandaria, necessariamente, novo exame do acervo fático-probatório constante dos autos, providência vedada no âmbito do recurso especial, conforme o óbice previsto na Súmula 7 deste Tribunal Superior.
+5. Inviável o conhecimento do recurso especial interposto pela divergência jurisprudencial na hipótese em que o dissídio é apoiado em fatos e não na interpretação da lei. Isso porque seria necessário o reexame da situação fática de cada caso.
+6. Agravo interno não provido.
+(AgInt no AREsp n. 1.752.884/SP, relator Ministro Paulo de Tarso Sanseverino, Terceira Turma, julgado em 25/5/2021, DJe de 10/6/2021.)
+CIVIL E PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO. PASEP. SAQUE INDEVIDO. FALHA NA PRESTAÇÃO DO SERVIÇO BANCÁRIO. DANO MATERIAL. EXTENSÃO. SÚMULA Nº 7/STJ. DANO MORAL. CONFIGURAÇÃO. REVALORAÇÃO JURÍDICA DOS FATOS. INAPLICABILIDADE DA SÚMULA Nº 7/STJ. VALOR. RAZOABILIDADE. AGRAVO CONHECIDO PARA DAR PARCIAL PROVIMENTO AO RECURSO ESPECIAL.
+1. Redimensionar o dano material reconhecido no acórdão recorrido, para abranger parcelas anuais supostamente não recebidas desde 2009, demanda reexame do conjunto fático-probatório dos autos, providência vedada em recurso especial, nos termos da Súmula nº 7 do Superior Tribunal de Justiça.
+2. A qualificação jurídica dos fatos, tal como delineados soberanamente pela instância ordinária, não se confunde com reexame de provas.
+3. Configurada a falha na prestação do serviço bancário, consistente em saque fraudulento de conta PASEP, errônea anotação cadastral de óbito da correntista e prolongada via-crúcis por mais de uma década para solução do problema, fica caracterizada situação que ultrapassa o mero dissabor cotidiano, ensejando a obrigação de indenizar por danos morais.
+4. Agravo conhecido para dar parcial provimento ao recurso especial.
+(AREsp n. 2.788.972/MG, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 4/5/2026, DJEN de 8/5/2026.)
+A incidência da Súmula n. 7/STJ quanto à interposição pela alínea "a" do permissivo constitucional impede o conhecimento do recurso especial pela divergência jurisprudencial sobre a mesma questão.
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Deixo de condenar em honorários recursais em razão da ausência de fixação da verba na origem em desfavor dos recorrentes (EDcl no AgInt no REsp n. 1.910.509/RS, relator Ministro Herman Benjamin, Segunda Turma, DJe de 4/11/2021).
+Publique-se. Intime-se.
+ EMENTA
