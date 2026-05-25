@@ -1,0 +1,83 @@
+DECISÃO
+Trata-se de agravo interposto por CLEUDENIR FERREIRA contra decisão que inadmitiu o recurso especial co m fundamento na incidência da Súmula 7/STJ.
+Cuida-se de recurso em sentido estrito, no qual o Tribunal de origem deu provimento ao recurso do Ministério Público para decretar a prisão preventiva do recorrente.
+No agravo em recurso especial, a parte sustenta que o que se discute é exclusivamente a legalidade da fundamentação utilizada para decretar a prisão preventiva, à luz dos critérios normativos objetivos impostos pelos arts. 312 e 313 do Código de Processo Penal, não demandando o reexame de provas, mas apenas o controle da correta aplicação da lei federal.
+O Ministério Público Federal apresentou parecer, manifestando-se pelo desprovimento do agravo, conforme a ementa a seguir (fls. 242-245):
+AGRAVO EM RECURSO ESPECIAL. PENAL E PROCESSO PENAL. FURTO QUALIFICADO. PLEITO DE REVOGAÇÃO DA PRISÃO PREVENTIVA. PRESENÇA DOS REQUISITOS DO ART. 312 DO CPP. ANÁLISE DE FATOS E PROVAS. IMPOSSIBILIDADE. SÚMULA 7/STJ.
+- Parecer pelo desprovimento do agravo em recurso especial.
+É o relatório.
+O agravo merece conhecimento.
+A decisão agravada inadmitiu o recurso especial com base na Súmula 7/STJ (fls. 189-192), diante de acórdão que, por unanimidade, deu provimento ao recurso do Ministério Público Estadual para decretar a prisão preventiva do recorrente. Sustenta violação ao art. 312 do CPP, afirmando controvérsia estritamente jurídica e a suficiência dos fatos incontroversos para o restabelecimento da segregação cautelar.
+O Tribunal de origem, com base nas provas coligidas, assentou que (fls. 150-152):
+
+Todavia, com as devidas vênias à magistrada singular, julgo que o Ministério Público tem razão ao ressaltar que o histórico criminal do Recorrido denota a presença de contemporaneidade apta a justificar o decreto segregatório cautelar.
+Com efeito, a análise da certidão de antecedentes criminais (evento 10, CERTANTCRIM1 ) denota que o Recorrido possui um extenso histórico de prática de crimes, em sua maioria contra o patrimônio, tendo sido condenado em mais de 10 (dez) ações distintas.
+O Recorrido, ademais, ocupa o polo passivo de outras diversas ações penais, inclusive pela suposta prática de crimes posteriores aos fatos discutidos nos autos originários (a exemplo dos autos n. 5000172-88.2025.8.24.0080).
+O fato de o Recorrido já se encontrar segregado em razão de outras ações penais em curso não constitui óbice ao acolhimento da pretensão ministerial, sobretudo diante da demonstração concreta do risco contemporâneo de reiteração delitiva, circunstância que justifica a decretação da prisão preventiva como medida necessária à preservação da ordem pública.
+Ressalte-se, nesse ponto, que a necessidade de acautelamento da ordem pública decorrente da presente persecução penal não pode, sob pena de esvaziamento da tutela jurisdicional, ficar condicionada ao desfecho de outros procedimentos criminais, sejam eles ações penais em trâmite ou execuções penais em curso.
+Incide, portanto, o óbice da Súmula 83/STJ, considerando que o acórdão impugnado encontra-se em harmonia com a jurisprudência desta Corte Especial.
+Nesse sentido:
+DIREITO PROCESSUAL PENAL. AGRAVO REGIMENTAL EM RECURSO ORDINÁRIO EM HABEAS CORPUS. PRISÃO PREVENTIVA. PORTE ILEGAL DE ARMA DE FOGO, TRÁFICO DE ENTORPECENTES E VIOLAÇÃO DE DOMICÍLIO. GARANTIA DA ORDEM PÚBLICA. GRAVIDADE CONCRETA DA CONDUTA E RISCO DE REITERAÇÃO DELITIVA. MEDIDAS CAUTELARES DIVERSAS. INAPLICABILIDADE. AGRAVO REGIMENTAL IMPROVIDO.
+I. CASO EM EXAME
+1. Agravo regimental interposto pela Defesa contra decisão monocrática que negara provimento a recurso ordinário em habeas corpus, no qual se impugnava a prisão preventiva decretada em processo por violação de domicílio (art. 150 do Código Penal), tráfico de drogas (art. 33 da Lei n. 11.343/2006) e porte ilegal de arma de fogo (art. 14 da Lei n. 10.826/2003).
+2. A Defesa sustenta: (i) ausência de fundamentação idônea do decreto e do acórdão que mantiveram a prisão, por se apoiarem em referências genéricas à garantia da ordem pública; (ii) inexistência de elementos concretos de periculum libertatis; (iii) não demonstração da insuficiência das medidas cautelares do art. 319 do CPP; e (iv) desproporcionalidade da custódia em relação à provável pena e ao regime inicial, destacando ainda a condição do paciente como genitor de filho menor.
+II. QUESTÃO EM DISCUSSÃO
+3. Há duas questões em discussão: (i) saber se a prisão preventiva do paciente está suficientemente fundamentada, com base na garantia da ordem pública, na gravidade concreta da conduta (porte de revólver calibre .38 municiado, apreensão de entorpecentes e uso indevido de imóvel alheio como ponto de consumo e comercialização de drogas) e na condenação anterior por roubo majorado, a evidenciar o fumus comissi delicti e o periculum libertatis; e (ii) saber se, diante das circunstâncias do caso, das condições pessoais favoráveis e da alegada desproporcionalidade da custódia, é possível a substituição da prisão preventiva por medidas cautelares diversas previstas no art. 319 do CPP.
+III. RAZÕES DE DECIDIR
+4. O acórdão impugnado ressaltou que as instâncias ordinárias reconheceram a existência de prova da materialidade e indícios suficientes de autoria, aptos a demonstrar o fumus comissi delicti exigido pelo art. 312, caput, do CPP, sendo inviável, na via estreita do habeas corpus e de seu recurso, o revolvimento aprofundado do conjunto fático-probatório para infirmar tal conclusão.
+5. A prisão preventiva foi mantida com fundamento na garantia da ordem pública, a partir de elementos concretos: porte de revólver calibre .38 carregado com 6 munições, apreensão de 34g de cocaína e 1g de maconha e utilização indevida de imóvel alheio como suposto ponto de consumo e comercialização de drogas, circunstâncias que evidenciam, em juízo de delibação, a gravidade concreta da conduta e o periculum libertatis.
+6. O acórdão registrou que o paciente possui condenação anterior definitiva por roubo majorado, com execução penal já finda, o que indica comportamento voltado à reiteração delitiva e reforça o risco concreto à ordem pública, legitimando a decretação e a manutenção da custódia cautelar segundo o art. 312 do CPP e a Súmula n. 52 do Tribunal de origem.
+7. Considerou-se que a decisão de primeiro grau explicitou, de forma clara e fundamentada, a presença do periculum libertatis, ao consignar que a liberdade do investigado representa ameaça real à incolumidade da ordem pública e que as cautelares diversas da prisão (art. 319 do CPP) não seriam adequadas nem suficientes para resguardar a paz social, atendendo às exigências do art. 93, IX, da Constituição da República.
+8. Reputou-se inviável a substituição da prisão preventiva por medidas cautelares alternativas, porque a gravidade concreta dos fatos, a natureza dos delitos imputados (tráfico de drogas e porte de arma de fogo) e o histórico criminal do paciente demonstram que providências menos gravosas seriam incapazes de neutralizar o risco à ordem pública.
+9. As condições pessoais favoráveis do paciente, ainda que existentes, não impedem a decretação nem a manutenção da custódia cautelar quando a segregação encontra amparo em fundamentação concreta voltada à garantia da ordem pública, em consonância com a jurisprudência desta Corte Superior.
+10. A alegação de desproporcionalidade entre a prisão preventiva e a eventual pena a ser aplicada foi afastada, porquanto somente o resultado final do processo permitirá aferir o quantum de pena e o regime inicial, não sendo cabível, em habeas corpus e em agravo regimental, antecipar juízo sobre tais questões.
+IV. DISPOSITIVO E TESE
+11. Resultado do Julgamento: Agravo regimental improvido, mantida a decisão que negara provimento ao recurso ordinário em habeas corpus e preservada a prisão preventiva do agravante.
+Tese de julgamento:
+1. A prisão preventiva por violação de domicílio, tráfico de drogas e porte ilegal de arma de fogo pode ser mantida com fundamento na garantia da ordem pública quando demonstrados, de forma concreta, a gravidade da conduta, a apreensão de arma e entorpecentes e o uso indevido de imóvel de terceiro como ponto de drogas.
+2. A condenação criminal anterior e o histórico de reiteração delitiva constituem elementos idôneos para evidenciar o periculum libertatis e justificar a segregação cautelar, nos termos do art. 312 do CPP.
+3. A gravidade concreta dos fatos e o risco à ordem pública podem tornar inadequadas e insuficientes as medidas cautelares diversas da prisão previstas no art. 319 do CPP, afastando a possibilidade de substituição da custódia.
+4. Condições pessoais favoráveis não afastam, por si sós, a prisão preventiva quando presentes elementos concretos que evidenciem a necessidade da medida extrema.
+5. Não cabe, em habeas corpus e em agravo regimental, examinar a alegada desproporcionalidade da custódia cautelar com base em prognóstico sobre a pena e o regime iniciais, que somente podem ser definidos ao término da instrução criminal.
+Dispositivos relevantes citados:CPP, arts. 312 e 319; CR/1988, art. 93, IX; Código Penal, art. 150; Lei n. 11.343/2006, art. 33; Lei n. 10.826/2003, art. 14; Súmula n. 52 do Tribunal de Justiça local.
+Jurisprudência relevante citada:STJ, AgRg no HC 1.002.927/MT, Sexta Turma, j. 24.06.2025; STJ, AgRg no HC 862.104/SC, Sexta Turma, j.
+27.11.2023; STJ, AgRg no HC 711.616/SP, Quinta Turma, j. 22.02.2022;
+STJ, RHC 81.745/MG, Quinta Turma, j. 01.06.2017; STJ, RHC 82.978/MT, Quinta Turma, j. 01.06.2017; STJ, HC 394.432/SP, Sexta Turma, j. 01.06.2017; STJ, RHC 95.544/PA, Quinta Turma, j.
+22.03.2018; STJ, RHC 68.971/MG, Sexta Turma, j. 26.09.2017; STJ, RHC 94.204/MG, Quinta Turma, j. 10.04.2018; STJ, RHC 91.635/MG, Sexta Turma, j. 20.03.2018.
+(AgRg no RHC n. 227.600/CE, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 18/3/2026, DJEN de 24/3/2026.)
+DIREITO PROCESSUAL PENAL. AGRAVO REGIMENTAL. PRISÃO PREVENTIVA. FUNDAMENTAÇÃO. PRINCÍPIO DA COLEGIALIDADE. DECISÃO FUNDADA EM ENTENDIMENTO DOMINANTE SOBRE O TEMA. AGRAVO REGIMENTAL DESPROVIDO.
+I. Caso em exame
+1. Agravo regimental interposto contra decisão monocrática que negou provimento a recurso ordinário em habeas corpus, mantendo a prisão preventiva do agravante.
+2. O agravante alegou nulidade da decisão monocrática por suposta violação ao princípio da colegialidade, afirmando que o relator teria conhecido parcialmente do recurso ordinário em habeas corpus e negando-lhe provimento, apreciando tanto a admissibilidade quanto o mérito.
+3. Sustentou que a prisão preventiva estaria desprovida de fundamentação concreta, com base em argumentos genéricos e registros criminais antigos, sem individualização das razões da custódia.
+4. Alegou desproporcionalidade da prisão preventiva, considerando tratar-se de crime tentado e sem violência, invocando o princípio da homogeneidade.
+5. Requereu o provimento do agravo para cassar o acórdão de origem e revogar a prisão preventiva ou fixar a liberdade provisória.
+II. Questão em discussão
+6. Há duas questões em discussão: (i) saber se a decisão monocrática do relator violou o princípio da colegialidade ao negar provimento ao recurso ordinário em habeas corpus; e (ii) saber se a prisão preventiva do agravante está devidamente fundamentada e se há desproporcionalidade na medida cautelar aplicada.
+III. Razões de decidir
+7. A decisão monocrática proferida pelo relator não afronta o princípio da colegialidade, conforme disposto no art. 34, XVIII, "a", do Regimento Interno do Superior Tribunal de Justiça (RISTJ) e na Súmula nº 568 do STJ, que autorizam o relator a decidir monocraticamente quando houver entendimento dominante acerca do tema.
+8. A possibilidade de interposição de agravo regimental contra a decisão monocrática permite a apreciação da matéria pelo órgão colegiado, afastando eventual vício suscitado pela parte agravante.
+9. O recurso ordinário em habeas corpus não se presta à análise de autoria, materialidade ou fragilidade probatória, pois tais questões demandam exame aprofundado das provas, incompatível com a via estreita do writ.
+10. A prisão preventiva foi devidamente fundamentada pelas instâncias ordinárias, com base na especial gravidade dos fatos, evidenciada pelas circunstâncias da prática do delito, e no risco concreto de reiteração delitiva, considerando o histórico criminal do agravante.
+11. A imprescindibilidade da prisão preventiva, justificada nos requisitos dos arts. 312, 313 e 315 do CPP, impede a aplicação de medidas cautelares alternativas previstas no art. 319 do CPP.
+12. A alegação de desproporcionalidade da prisão preventiva em relação à eventual condenação não pode ser acolhida, pois a análise da proporcionalidade da medida cautelar depende da conclusão do processo.
+IV. Dispositivo e tese
+13. Resultado do Julgamento: Agravo regimental desprovido.
+Tese de julgamento:
+1. A decisão monocrática proferida pelo relator, nos termos do art. 34, XVIII, "a", do RISTJ e da Súmula nº 568 do STJ, não afronta o princípio da colegialidade. 2. A prisão preventiva pode ser mantida com base na gravidade concreta do delito e no risco de reiteração delitiva, desde que devidamente fundamentada nos requisitos dos arts. 312, 313 e 315 do CPP. 3. A substituição da prisão preventiva por medidas cautelares alternativas é inviável quando não acautela adequadamente a ordem pública. 4. A desproporcionalidade da prisão preventiva somente pode ser aferida após a sentença, não cabendo sua análise antecipada na via do habeas corpus.
+Dispositivos relevantes citados:
+CPP, arts. 312, 313, 315 e 319; RISTJ, art. 34, XVIII, "a"; Súmula nº 568 do STJ.
+Jurisprudência relevante citada:
+STJ, AgRg no HC 747871, Min. Ribeiro Dantas, Quinta Turma, julgado em 02.08.2022; STJ, AgRg no RHC 161259, Min. Messod Azulay Neto, Quinta Turma, julgado em 06.03.2023; STJ, AgRg no RHC 188149, Min. Joel Ilan Paciornik, Quinta Turma, julgado em 12.12.2023; STJ, RHC 96.728, Min. Nefi Cordeiro, Sexta Turma, julgado em 03.09.2018.
+(AgRg no RHC n. 225.788/MG, relator Ministro Carlos Pires Brandão, Sexta Turma, julgado em 25/2/2026, DJEN de 3/3/2026.)
+AGRAVO REGIMENTAL NO HABEAS CORPUS. ADULTERAÇÃO DE SINAL IDENTIFICADOR DE VEÍCULO. PRISÃO PREVENTIVA. GARANTIA DA ORDEM PÚBLICA. RISCO DE REITERAÇÃO DELITIVA. FUNDAMENTAÇÃO CONCRETA. LEGALIDADE DA PREVENTIVA. MEDIDAS CAUTELARES DIVERSAS INSUFICIENTES. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. A prisão preventiva é compatível com a presunção de não culpabilidade desde que não assuma natureza de antecipação da pena e não decorra, automaticamente, do caráter abstrato do crime ou do ato processual praticado (art. 313, § 2º, CPP). Além disso, a decisão judicial deve apoiar-se em motivos e fundamentos concretos, relativos a fatos novos ou contemporâneos, dos quais se possa extrair o perigo que a liberdade do investigado ou réu representa para os meios ou os fins do processo penal (arts. 312 e 315 do CPP).
+2. A jurisprudência desta Corte Superior assinala que a custódia cautelar exige fundamentação concreta sob as balizas do art. 312 do CPP, sendo idôneos, para demonstrar risco de reiteração delitiva e periculosidade, "inquéritos, ações penais em curso, anotações pela prática de atos infracionais ou condenações definitivas".
+3. Na espécie, o Tribunal de origem reformou a decisão que concedera liberdade provisória com cautelares e decretou a prisão preventiva à luz do art. 312, § 1º, do CPP, destacando histórico criminal, procedimentos e ações penais em curso, além da prática de novo delito após concessão de liberdade provisória, como elementos concretos reveladores de reiteração delitiva e necessidade de resguardar a ordem pública.
+4. Verifica-se que os motivos elencados são idôneos, pois o histórico criminal e os processos em andamento foram utilizados para indicar o risco de reiteração delitiva, em conformidade com os precedentes desta Corte. Por idênticos fundamentos (art. 282, I, do CPP), considera-se insuficiente a aplicação de medidas cautelares diversas da prisão para conter o risco evidenciado, nos termos da orientação: "Demonstrada pelas instâncias ordinárias  ..  a presença dos pressupostos da prisão preventiva, não se mostra suficiente a aplicação de quaisquer das medidas cautelares alternativas  ..  do art. 319 do CPP" (HC n. 542.455/SP, Rel. Ministra Laurita Vaz, 6ª T., DJe 27/2/2020).
+5. Agravo regimental não provido.
+(AgRg no HC n. 1.035.655/BA, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 25/2/2026, DJEN de 2/3/2026.)
+Ante o exposto, com fundamento no art. 253, parágrafo único, II, "a", do Regimento Interno do STJ, conheço do agravo para não conhecer do recurso especial.
+Publique-se.
+Intimem-se.
+EMENTA
