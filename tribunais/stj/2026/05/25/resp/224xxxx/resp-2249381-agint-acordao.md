@@ -1,0 +1,48 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 19/05/2026 a 25/05/2026, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Maria Isabel Gallotti, Antonio Carlos Ferreira, Luís Carlos Gambogi (Desembargador Convocado do TJMG) e João Otávio de Noronha votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro João Otávio de Noronha.
+EMENTA
+DIREITO PROCESSUAL CIVIL. AGRAVO INTERNO. BEM DE FAMÍLIA. PENHORA DE FRAÇÕES DE IMÓVEL COM UNIDADES AUTÔNOMAS EXPLORADAS ECONOMICAMENTE. ÓBICE DA SÚMULA 7/STJ. AGRAVO INTERNO DESPROVIDO.
+1. A jurisprudência do Superior Tribunal de Justiça admite, em caráter excepcional, a penhora de parte do imóvel quando o desmembramento em unidades autônomas for possível sem descaracterizar a moradia da família, consideradas as circunstâncias do caso. A existência de matrícula única não impede a constrição de frações determinadas do imóvel, quando constatada a realidade fática de multiplicidade de unidades independentes.
+2. As instâncias ordinárias afirmaram a viabilidade de constrição sobre unidades autônomas exploradas economicamente e a ausência de prova quanto à essencialidade dos rendimentos dos aluguéis à subsistência familiar.
+3 . Agravo interno desprovido.
+RELATÓRIO
+Trata-se de agravo interno interposto por SOLANGE MARIA VIEIRA SOUSA contra decisão proferida às fls. 1262-1265, que negou provimento ao recurso especial.
+Nas razões do agravo interno, a agravante sustenta que a decisão monocrática equivocou-se ao aplicar a Súmula 7/STJ, defendendo que a análise da impenhorabilidade prescinde de revolvimento fático, bastando a subsunção jurídica das premissas fixadas pelo TJDFT. Argumenta que, diversamente dos precedentes citados, o acórdão recorrido não assentou a viabilidade de desmembramento jurídico do imóvel. Alega, por fim, que a proteção ao bem de família deve ser integral, pois a existência de divisões internas ou de múltiplas unidades familiares não afasta a garantia legal, especialmente quando o bem possui matrícula única e é juridicamente indivisível. Ao final, requer a reforma da decisão agravada para que seja conhecido e provido o agravo interno e, consequentemente, o recurso especial.
+Impugnação apresentada às fls. 1277-1284.
+É o relatório.
+EMENTA
+DIREITO PROCESSUAL CIVIL. AGRAVO INTERNO. BEM DE FAMÍLIA. PENHORA DE FRAÇÕES DE IMÓVEL COM UNIDADES AUTÔNOMAS EXPLORADAS ECONOMICAMENTE. ÓBICE DA SÚMULA 7/STJ. AGRAVO INTERNO DESPROVIDO.
+1. A jurisprudência do Superior Tribunal de Justiça admite, em caráter excepcional, a penhora de parte do imóvel quando o desmembramento em unidades autônomas for possível sem descaracterizar a moradia da família, consideradas as circunstâncias do caso. A existência de matrícula única não impede a constrição de frações determinadas do imóvel, quando constatada a realidade fática de multiplicidade de unidades independentes.
+2. As instâncias ordinárias afirmaram a viabilidade de constrição sobre unidades autônomas exploradas economicamente e a ausência de prova quanto à essencialidade dos rendimentos dos aluguéis à subsistência familiar.
+3 . Agravo interno desprovido.
+VOTO
+O Tribunal de origem, ao analisar a controvérsia, fundamentou a manutenção da penhora sobre as unidades do imóvel que não servem de moradia à entidade familiar, consignando que:
+"A impenhorabilidade do bem de família visa proteger a moradia da família, impedindo a penhora do imóvel por dívidas, ainda que este bem esteja alugado. Contudo, tratando-se de prédio em que diversas unidades residenciais e comerciais são exploradas economicamente, a impenhorabilidade do todo resta afastada.  ..  correta a sentença que afastou a impenhorabilidade do bem e limitou a penhora aos frutos civis advindos da meação pertencente ao executado" (e-STJ, fls. 1203 e 1210).
+Esse entendimento está em estrita harmonia com a jurisprudência consolidada do Superior Tribunal de Justiça, que admite o desmembramento de imóvel protegido pela Lei nº 8.009/90, desde que a medida não descaracterize a moradia e seja viável a divisão fática ou jurídica das unidades. A existência de matrícula única no Registro de Imóveis não impede a constrição de frações determinadas, uma vez que a realidade fática da multiplicidade de unidades independentes prevalece sobre a unidade registral.
+Nesse sentido, a jurisprudência desta Corte Superior orienta que é admitida, em caráter excepcional, a penhora de frações de imóvel caracterizado como bem de família, desde que o desmembramento não descaracterize a residência do devedor e seja atestado pelas instâncias ordinárias como factível:
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. EMBARGOS DE TERCEIRO. BEM DE FAMÍLIA. IMÓVEL INDIVISÍVEL. IMPENHORABILIDADE. INTEGRALIDADE DO BEM. RECONHECIMENTO. DISSÍDIO JURISPRUDENCIAL NÃO CARACTERIZADO. AGRAVO CONHECIDO PARA NEGAR PROVIMENTO AO RECURSO ESPECIAL.
+1. A fração de imóvel indivisível pertencente ao executado, protegida pela impenhorabilidade do bem de família, não pode ser penhorada sob pena de desvirtuamento da proteção erigida pela Lei nº 8.009/90.
+2. Admite-se, excepcionalmente, a penhora de parte do imóvel quando for possível o seu desmembramento em unidades autônomas, sem descaracterizá-lo, levando em consideração, com razoabilidade, as circunstâncias e peculiaridades do caso. Situação não demonstrada na hipótese em tela.
+3. Não há se falar em existência de dissídio jurisprudencial sobre o tema na medida em que os precedentes indicados nas razões recursais já foram superados pela atual jurisprudência desta Corte Superior.
+4. Agravo conhecido para negar provimento ao recurso especial.
+(AREsp n. 2.958.421/SC, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 29/9/2025, DJEN de 2/10/2025, destaquei.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSO CIVIL. AGRAVO DE INSTRUMENTO. AUSÊNCIA DE VIOLAÇÃO AOS ARTS. 1.022 E 1.025 DO CPC/2015. ACÓRDÃO ESTADUAL FUNDAMENTADO. PROVA PERICIAL QUE AFASTOU A POSSIBILIDADE DE DESMEMBRAMENTO DO IMÓVEL. REVISÃO. IMPOSSIBILIDADE. INCIDÊNCIA DA SÚMULA 7/STJ. AGRAVO NÃO PROVIDO.
+1. Não configura ofensa aos arts. 1.022 e 1.025 do CPC/2015 o fato de o Tribunal de origem, embora sem examinar individualmente cada um dos argumentos suscitados pelo recorrente, adotar fundamentação contrária à pretensão da parte, suficiente para decidir integralmente a controvérsia.
+2. De acordo com a jurisprudência desta Corte, se admite, excepcionalmente, "a penhora de parte do imóvel quando for possível o seu desmembramento em unidades autônomas, sem descaracterizá-lo, levando em consideração, com razoabilidade, as circunstâncias e peculiaridades do caso" (AgRg no AREsp 531.614/SP, Relator Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 7/6/2016, DJe de 27/6/2016).
+3. Na hipótese, o Tribunal de origem, à luz das provas constantes nos autos, concluiu pela impossibilidade de desmembramento do imóvel como defendido pelos agravantes. Nesse contexto, a modificação do acórdão estadual demandaria revolvimento do acervo fático-probatório, o que é inviável em sede de recurso especial, conforme dispõe a Súmula 7/STJ.
+4. Agravo interno desprovido.
+(AgInt no AREsp n. 1.689.408/SP, relator Ministro Raul Araújo, Quarta Turma, julgado em 17/10/2022, DJe de 21/10/2022, destaquei.)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. EMBARGOS À EXECUÇÃO. BEM DE FAMÍLIA. PENHORA DE FRAÇÃO IDEAL. POSSIBILIDADE DE DESMEMBRAMENTO AFIRMADA COM FUNDAMENTO NA PROVA DOS AUTOS. PRETENSÃO DE REVISÃO. SÚMULA N. 7/STJ. INDICAÇÃO GENÉRICA DE DISPOSITIVO DE LEI. SÚMULA N. 284/STF. DECISÃO MANTIDA.
+1. "Admite-se, excepcionalmente, a penhora de parte do imóvel quando for possível o seu desmembramento em unidades autônomas, sem descaracterizá-lo, levando em consideração, com razoabilidade, as circunstâncias e peculiaridades do caso" (AgRg no AREsp n. 531.614/SP, Relator Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 7/6/2016, DJe 27/6/2016).
+2. O recurso especial não comporta o exame de questões que impliquem revolvimento do contexto fático-probatório dos autos (Súmula n. 7 do STJ).
+3. No caso concreto, o Tribunal de origem concluiu pela possibilidade de desmembramento de parte do imóvel, sem prejuízo à unidade familiar. Alterar esse entendimento demandaria o reexame das provas produzidas nos autos, o que é vedado em recurso especial.
+4. Não se conhece de insurgência recursal que menciona genericamente os dispositivos legais tidos por violados, sem comprovar como foram ofendidos, o que impede a verificação de sua ocorrência.
+Precedentes.
+5. Agravo interno a que se nega provimento.
+(AgInt no REsp n. 1.371.849/SP, relator Ministro Antonio Carlos Ferreira, Quarta Turma, julgado em 12/12/2017, DJe de 19/12/2017, destaquei.)
+Ademais, os argumentos da agravante no sentido de que o imóvel não comporta desmembramento jurídico ou de que a renda dos aluguéis seria essencial à subsistência familiar esbarram na necessidade de reexame de provas. O Tribunal a quo assentou expressamente a viabilidade da constrição sobre as unidades autônomas exploradas economicamente e a ausência de prova sobre a destinação exclusiva dos rendimentos para a subsistência da família.
+Aferir tais questões demandaria o revolvimento do acervo fático-probatório, providência vedada em sede de recurso especial, nos termos da Súmula 7/STJ. Assim, não tendo a parte trazido argumentos novos capazes de infirmar os fundamentos da decisão agravada, o desprovimento do agravo é medida que se impõe.
+Ante o exposto, nego provimento ao agravo interno.
+É como voto.
