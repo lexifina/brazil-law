@@ -1,0 +1,76 @@
+DECISÃO
+Cuida-se de reclamação, com pedido de liminar, ajuizada por COMERCIAL DE FRUTAS SETE LTDA. contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DO PARANÁ proferido nos termos da seguinte ementa (fl. 2.790):
+DIREITO PROCESSUAL CIVIL. AGRAVO INTERNO. NÃO CONHECIMENTO DE AGRAVO EM RECURSO ESPECIAL. ERRO GROSSEIRO. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DA DECISÃO RECORRIDA. NÃO CONHECIMENTO. ART. 1.021, § 1º, DO CPC. 1. A ausência de relação entre as razões recursais e os fundamentos da decisão que não conheceu do Agravo em Recurso Especial impede o conhecimento do presente Agravo Interno, nos moldes do art. 1.021, §1º, do CPC. 2. AGRAVO INTERNO NÃO CONHECIDO.
+Aduz a parte reclamante que (fls. 4-17):
+A controvérsia originária tramita perante o Tribunal de Justiça do Estado do Paraná e envolve, em sua cadeia recursal, discussão atinente a direitos e títulos de crédito.
+No curso do feito, a ora Reclamante interpôs recurso especial nos autos nº 0096419-90.2025.8.16.0000, buscando submeter ao Superior Tribunal de Justiça questão federal autônoma relacionada à violação do art. 1.021, § 1º, do CPC.
+O recurso especial não pretendia reabrir, pura e simplesmente, o exame do Tema 677/STJ, tampouco revolver matéria fático-probatória, uma vez que a irresignação especial tinha objeto próprio voltado à demonstração de que o Tribunal local violara a norma federal que disciplina a dialeticidade recursal ao afirmar inexistente impugnação específica em hipótese na qual a tese recursal fora compreendida, contraditada pela parte adversa e enfrentada pelo próprio órgão julgador.
+Em outras palavras, o recurso especial submeteu ao Superior Tribunal de Justiça a seguinte questão de direito: se há violação ao art. 1.021, § 1º, do CPC quando o tribunal de origem não conhece de agravo interno por ausência de dialeticidade, embora a própria decisão recorrida tenha identificado, exposto e refutado a tese recursal, e embora a parte contrária tenha apresentado contrarrazões especificamente dirigidas ao núcleo da insurgência.
+Ocorre que o recurso especial foi obstado na origem, ao fundamento de que seria "incabível a interposição de qualquer outro recurso para renovar questionamento em face da decisão do Órgão Especial".
+Contra tal decisão, a Reclamante manejou o recurso adequado, qual seja, Agravo em Recurso Especial, com fundamento no art. 1.042 do CPC, nos autos nº 0138032-90.2025.8.16.0000.
+O Agravo em Recurso Especial demonstrou que a decisão agravada havia realizado juízo negativo de admissibilidade do recurso especial por fundamento não enquadrável nas hipóteses taxativas do art. 1.030, I e III, do CPC, razão pela qual a via adequada era, precisamente, o agravo dirigido ao Superior Tribunal de Justiça, nos termos do art. 1.030, § 1º, c/c art. 1.042 do CPC.
+Todavia, a 1ª Vice-Presidência do TJPR não conheceu do Agravo em Recurso Especial, reputando-o "manifestamente incabível".
+A fundamentação adotada foi a de que o art. 1.042 do CPC caberia apenas contra decisão que "inadmitir" recurso especial, ao passo que, no caso concreto, a decisão anterior teria "não conhecido" do recurso especial.
+A decisão monocrática, assim, construiu distinção formal entre "inadmissão" e "não conhecimento", como se o nomen juris utilizado pela decisão de origem tivesse força bastante para deslocar ou suprimir a competência do Superior Tribunal de Justiça.
+Contra essa decisão, a Reclamante interpôs agravo interno, sustentando que não há distinção ontológica ou funcional entre "inadmitir" e "não conhecer" capaz de afastar a incidência do art. 1.042 do CPC, pois ambas as expressões, no contexto recursal excepcional, retratam juízo negativo de admissibilidade.
+O Órgão Especial do Tribunal de Justiça do Paraná, entretanto, não conheceu do agravo interno, sob o fundamento de ausência de dialeticidade, afirmando que a insurgência da Reclamante teria se concentrado na distinção entre Súmula 83/STJ e precedente repetitivo, argumento que, segundo o acórdão, não se amoldaria à hipótese dos autos.
+Com isso, consolidou-se, na origem, a retenção do Agravo em Recurso Especial e impediu-se que o Superior Tribunal de Justiça exercesse sua competência própria.
+ ..
+A competência desta Corte Superior foi usurpada porque o Tribunal de origem, em vez de limitar-se ao processamento do Agravo em Recurso Especial, com eventual juízo de retratação na forma do art. 1.042, § 4º, do CPC, realizou juízo definitivo de incabimento do próprio agravo dirigido ao STJ, impedindo a formação da relação recursal perante o Tribunal competente.
+O art. 1.042 do CPC é expresso ao prever o cabimento de agravo contra decisão do presidente ou vice-presidente do tribunal recorrido que inadmitir recurso especial, ressalvada a hipótese de decisão fundada na aplicação de entendimento firmado em repercussão geral ou em julgamento de recursos repetitivos.
+Por sua vez, o art. 1.030, § 1º, do CPC dispõe que, da decisão de inadmissibilidade proferida com fundamento no inciso V, caberá agravo ao tribunal superior, nos termos do art. 1.042.
+A lógica do sistema é clara, uma vez que, quando a Presidência ou Vice-Presidência do tribunal local realiza juízo ordinário de admissibilidade negativo, a competência para apreciar o inconformismo contra esse juízo pertence ao Tribunal Superior. Ao tribunal de origem cabe, após a interposição do agravo, exercer juízo de retratação. Se ausente a retratação, impõe-se a remessa do recurso ao STJ.
+ ..
+Na Rcl 38.421/RS, a parte reclamante havia interposto o recurso errado. Aqui, a Reclamante interpôs o recurso correto, mas teve seu Agravo em Recurso Especial barrado na origem.
+ ..
+Segundo a 1ª Vice-Presidência do TJPR, o Agravo em Recurso Especial seria incabível porque a decisão anterior teria "não conhecido" do recurso especial, ao passo que o art. 1.042 do CPC fala em decisão que "inadmitir" recurso especial.
+A interpretação confere primazia indevida à forma verbal da decisão e esvazia o conteúdo material do ato jurisdicional.
+"Inadmitir" e "não conhecer", no contexto do juízo de prelibação dos recursos excepcionais, designam o mesmo fenômeno processual, qual seja, a negativa de abertura da instância superior por suposta ausência de pressuposto recursal.
+ ..
+O STJ ficou impedido de examinar se o recurso especial era admissível, se o acórdão recorrido violara o art. 1.021, § 1º, do CPC, se o AREsp era adequado, se a decisão local aplicara corretamente o art. 932, III, e se a causa envolvia matéria federal autônoma.
+Postula a concessão de medida liminar "para suspender os efeitos do acórdão proferido pelo Órgão Especial do Tribunal de Justiça do Estado do Paraná nos autos do Agravo Interno nº 0013238-60.2026.8.16.0000, bem como da decisão monocrática proferida nos autos do Agravo em Recurso Especial nº 0138032-90.2025.8.16.0000, impedindo-se a certificação do trânsito em julgado e a prática de atos processuais incompatíveis com a pendência da presente Reclamação" (fl. 20).
+É, no essencial, o relatório.
+Nos termos do art. 105, inciso I, alínea "f", da Constituição Federal, a reclamação presta-se a preservar a competência e garantir a autoridade das decisões dos tribunais. Percebe-se, portanto, que é um instrumento processual específico e de aplicação restrita.
+Assim, caberá reclamação nesta Corte quando um órgão julgador estiver exercendo competência privativa ou exclusiva do STJ, ou quando suas decisões não estiverem sendo cumpridas por quem de direito.
+De início, verifica-se que o TJPR negou seguimento ao recurso especial de fls. 2.641-2.650, com fundamento no Tema Repetitivo n. 677/STJ (fls. 2.670-2.672).
+Ocorre que contra a referida decisão a recorrente apresentou o incabível agravo em recurso especial de fls. 2.674-2.681, o qual foi corretamente não conhecido pelo Tribunal de origem às fls. 2.695-2.697.
+Contra a decisão de não conhecimento do agravo em recurso especial, a recorrente interpôs o agravo interno de fls. 2.699-2.706, o qual também não foi conhecido (fls. 2.711-2.713).
+Ato contínuo, a recorrente interpôs novo recurso especial, desta feita contra o acórdão de fls. 2.711-2.713, que não foi conhecido pelo Tribunal de Justiça do Estado do Paraná (fls. 2.755-2.756). Irresignada, a recorrente interpôs novo agravo em recurso especial (fls. 2.758-2.764), que não foi conhecido (fl. 2.771), e novo agravo interno (fls. 2.773-2.781), o qual teve seu conhecimento obstado pelo Órgão Especial do TJPR (fls. 2.790-2.793).
+Na espécie, observa-se a existência de sucessivos recursos visando superar o manifesto não cabimento do agravo em recurso especial de fls. 2.674-2.681.
+Assim, não se observa nenhuma usurpação da competência desta Corte, uma vez que a interposição de agravo em recurso especial contra decisão que nega seguimento a recurso especial configura erro grosseiro e impede a aplicação do princípio da fungibilidade, diante da previsão expressa do agravo interno como instrumento recursal adequado.
+Nesse sentido, cito:
+DIREITO PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. EMBARGOS DE TERCEIRO. ÔNUS SUCUMBENCIAIS. PRINCÍPIO DA CAUSALIDADE. APLICAÇÃO DE TESE REPETITIVA. INTERPOSIÇÃO DE AGRAVO EM RECURSO ESPECIAL. NÃO CABIMENTO. PRINCÍPIO DA FUNGIBILIDADE. IMPOSSIBILIDADE. REEXAME DE MATÉRIA-FÁTICA PROBATÓRIA. AGRAVO CONHECIDO PARA NÃO CONHECER DO
+ESPECIAL.
+ ..
+III. Razões de decidir
+3. A decisão recorrida analisou detidamente todas as questões jurídicas postas, não havendo omissão ou negativa de prestação jurisdicional. A ausência de menção a argumentos específicos não macula o comando decisório, desde que bem fundamentado e capaz de se sustentar por si.
+4. De acordo com o art. 1.030, §§ 1º e 2º, do CPC, as decisões que negam seguimento e inadmitem em parte o recurso especial possuem natureza híbrida e, portanto, desafiam a interposição simultânea de agravo interno e de agravo em recurso especial, tratando-se de exceção ao princípio da unirrecorribilidade.
+5. Considerando que a decisão de admissibilidade proferida pelo Tribunal de origem negou seguimento ao recurso especial, com base na aplicação do Tema 872 do STJ, a interposição de agravo em recurso especial, nesta hipótese, não se mostra cabível, mormente em razão da inexistência de dúvida objetiva, o que impede a aplicação do princípio da fungibilidade recursal.
+6. A pretensão recursal exige reexame de matéria fático-probatória, o que é vedado em sede de recurso especial, nos termos da Súmula 7 do STJ.
+7. A interposição de agravo em recurso especial contra decisão que aplica tese firmada em regime de repetitivo caracteriza erro grosseiro, sendo cabível apenas agravo interno no âmbito do Tribunal de origem.
+IV. Dispositivo
+8. Agravo conhecido para não conhecer do recurso especial
+(AREsp n. 2.677.854/RS, relatora Ministra Daniela Teixeira, Terceira Turma, julgado em 20/10/2025, DJEN de 23/10/2025, grifo meu.)
+EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NA RECLAMAÇÃO. ART. 1.022 DO CPC. OMISSÃO. CONTRADIÇÃO. INEXISTÊNCIA. RECURSO ESPECIAL. INADMISSÃO. TESE REPETITIVA. AGRAVO EM RECURSO ESPECIAL INCABÍVEL. VIA INADEQUADA. INTUITO INFRINGENTE.
+ ..
+2. Nos termos da orientação desta Corte, se o recurso especial teve seu seguimento negado na origem exclusivamente com base no artigo 1.030, inciso I, alínea "b" ou no artigo 1.040, inciso I, do Código de Processo Civil, o único recurso cabível seria o agravo interno de que trata o § 2º do dispositivo legal em comento. A interposição do agravo previsto no artigo 1.042 do Código de Processo Civil nesses casos caracteriza-se como erro grosseiro.
+3. Embargos de declaração rejeitados.
+(EDcl no AgInt na Rcl n. 40.770/SP, relator Ministro Ricardo Villas Bôas Cueva, Segunda Seção, julgado em 3/12/2024, DJEN de 6/12/2024, grifo meu.)
+Ademais, é firme o entendimento desta Corte no sentido de que a presente ação constitucional não é o instrumento adequado para preservar a jurisprudência desta Corte, ainda que consolidada em tema de recurso repetitivo, como no caso em análise.
+A propósito, confira-se precedente:
+DIREITO PROCESSUAL CIVIL. AGRAVO INTERNO. RECLAMAÇÃO CONSTITUCIONAL. EXTINÇÃO SEM RESOLUÇÃO DE MÉRITO. INADEQUAÇÃO DA VIA ELEITA. DESCABIMENTO DA RECLAMAÇÃO COMO SUCEDÂNEO RECURSAL OU PARA PRESERVAR JURISPRUDÊNCIA. AUSÊNCIA DE INTERESSE PROCESSUAL. RECURSO NÃO PROVIDO. I. CASO EM EXAME
+1. Agravo interno interposto por Mundial Comércio de Livros Birigui Ltda. contra decisão que extinguiu reclamação constitucional sem resolução de mérito, por inadequação da via eleita e ausência de interesse processual. A parte agravante alegou que a reclamação foi apresentada para garantir a autoridade das decisões do STJ, especialmente a aplicação da Súmula 410/STJ, em razão de decisão proferida pelo Juízo da 1ª Vara Cível e Comercial de Salvador/BA, e do acórdão da Ministra Nancy Andrighi no EDcl no AgInt no AREsp n. 2.515.242/BA. II. QUESTÃO EM DISCUSSÃO
+2. Há duas questões em discussão:
+(i) determinar se a reclamação constitucional poderia ser utilizada para preservar a jurisprudência do STJ, especificamente quanto à aplicação da Súmula 410/STJ; e (ii) avaliar se a via eleita é adequada para impugnar decisões de órgão do próprio Superior Tribunal de Justiça. III. RAZÕES DE DECIDIR
+3. A reclamação constitucional, nos termos do art. 105, I, "f", da Constituição Federal e do art. 988 do CPC/2015, destina-se a preservar a competência do tribunal ou garantir a autoridade de suas decisões, desde que haja descumprimento ou cumprimento em desacordo com decisão proferida pelo STJ em caso concreto, envolvendo as mesmas partes. Não se presta a preservar a jurisprudência do STJ, ainda que consolidada em súmula ou recurso repetitivo.
+4. A utilização da reclamação constitucional como sucedâneo recursal ou como instrumento para adequar julgados à jurisprudência do STJ é expressamente vedada pela jurisprudência consolidada desta Corte, que entende que tal medida ultrapassa os limites da finalidade do instituto.
+5. A reclamação constitucional não é cabível para impugnar decisões proferidas por órgão do próprio STJ, conforme reiterado pela jurisprudência desta Corte. A decisão agravada corretamente reconheceu a inadequação da via eleita e a ausência de interesse processual, já que não houve demonstração de usurpação de competência ou descumprimento de decisão do STJ por outro órgão.
+6. O fundamento da decisão agravada está em consonância com precedentes do STJ, que não admitem o manejo de reclamação para preservar jurisprudência ou para revisar decisões do próprio Tribunal, reiterando a natureza excepcional e restrita da reclamação constitucional.
+IV. AGRAVO INTERNO NÃO PROVIDO.
+ AgInt na Rcl n. 48.352/BA, relator Ministro Carlos Cini Marchionatti (desembargador convocado TJRS), Segunda Seção, julgado em 18/2/2025, DJEN de 21/2/2025, grifo meu.
+Portanto, observa-se que a parte reclamante utiliza a via reclamatória como sucedâneo recursal, o que a jurisprudência do STJ não admite.
+Assim, considerando a ausência de caracterização de quaisquer das hipóteses de cabimento previstas nos arts. 105, inciso I, alínea "f", da Constituição Federal, 988 do Código de Processo Civil e 187, caput, do RISTJ, é imperioso o indeferimento da petição.
+Ante o exposto, indefiro liminarmente a presente reclamação, com fundamento no art. 34, XVIII, do RISTJ.
+Julgo prejudicado o pedido de liminar.
+Publique-se. Intimem-se.
+EMENTA
