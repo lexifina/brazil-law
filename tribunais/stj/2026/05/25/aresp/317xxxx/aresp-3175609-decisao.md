@@ -1,0 +1,42 @@
+DECISÃO
+Trata-se de agravo interposto por JORGE ADRIANO DE ANDRADE MORAIS e JORGE EDUARDO DE ANDRADE contra decisão que inadmitiu o recurso especial diante do óbice da Súmula n. 7 do Superior Tribunal de Justiça.
+Sustenta o agravante que o recurso especial interposto não revolve matéria probatória, limitando-se a suscitar a negativa de vigência a lei federal e a divergência jurisprudencial, cujo paradigma foi devidamente confrontado com a decisão que se recorre, através da similitude fática entre o aresto impugnado e o acórdão paradigma.
+Assevera que não há necessidade do revolvimento do acervo fático-probatório, mas sim de uma mera revaloração da prova, que ocorre quando os dados estão explicitamente admitidos e delineados no decisório recorrido, que denota erro de direito, em virtude da equivocada aplicação das regras jurídicas.
+Requer o conhecimento e provimento do recurso.
+Apresentada a contraminuta, o Ministério Público Federal manifestou-se pelo desprovimento do agravo, em parecer assim ementado (fls. 737-739):
+ARESP. PENAL E PROCESSO PENAL. CRIME CONTRA A VIDA. HOMICÍDIO QUALIFICADO. PRONÚNCIA. ALEGAÇÃO DE AUSÊNCIA DE INDÍCIOS DE AUTORIA. DEMANDA PELA IMPRONÚNCIA. SÚMULA Nº 7 DO STJ.
+- A impugnação da defesa não merece acolhida, em face da aplicação da decisão que deixou de admitir o recurso especial.
+- Parecer pelo desprovimento do agravo em recurso especial.
+É o relatório.
+Atendidos os requisitos de admissibilidade do agravo, passa-se à análise do recurso especial.
+O Tribunal de Justiça negou provimento ao recurso interposto pela defesa, sob os seguintes fundamentos (fls. 658-664):
+
+PEDIDO DE IMPRONÚNCIA POR AUSÊNCIA DE INDÍCIOS SUFICIENTES DE AUTORIA REALIZADO PELOS RECORRENTES.
+17. Na primeira fase do procedimento do Tribunal do Júri, cabe ao magistrado realizar, tão somente, juízo de admissibilidade da acusação. Por isso, para que se efetive a pronúncia do acusado é necessário que se constate a materialidade e a existência de indícios suficientes de autoria.
+18. Narra a peça acusatória que "no dia 26 de maio de 2017, por volta das 20h30min, na Rua Manoel Joaquim, nº 1018, Governador Dix-Sept Rosado/RN, os denunciados Elissandro Silva Barbosa, conhecido por "Santo", Jorge Adriano De Andrade, conhecido por "Fura-Pinha", e Jorge Eduardo de Andrade, agindo todos em comunhão de desígnios com uma pessoa até o momento não identificado, por motivo fútil e mediante recurso que dificultou as chances de defesa, mataram com disparos de arma de fogo Marina Rany Martins de França e Francisco Pablo Teixeira Filgueira."
+19. Afirma ainda a peça acusatória que, na ocasião, os acusados ainda tentaram matar a pessoa de Maik Robson Martins de França, conhecido por "Maikinho", não logrando êxito por circunstâncias alheias à sua vontade.
+20. Segue narrando que as vítimas Francisco Pablo e "Maikinho" estavam consumindo bebidas alcoólicas na residência deste último, junto com outras pessoas, quando então, foram abordados pelos denunciados e um quarto indivíduo não identificado durante as investigações, os quais chegaram em duas motocicletas e já desceram efetuando disparos de arma de fogo visando a morte de Francisco Pablo e "Maikinho".
+21. Consta ainda que os agentes conseguiram alvejar mortalmente Francisco Pablo, atingindo, ainda, por erro na execução, a vítima Marina Rany, irmã de "Maikinho", que veio a óbito.
+22. No momento da ação, antes que fosse alvejado, "Maikinho" empreendeu fuga, e, apesar de ter sido perseguido, conseguiu se esconder em um matagal e escapar ileso do atentado contra sua vida.
+23. Segundo o órgão acusatório, o crime foi cometido em razão do furto de uma peça de trator, pertencente ao irmão do denunciado Elissandro Silva Barbosa, cuja autoria teria sido atribuída pelos agentes às vítimas Francisco Pablo e Maik Robson, o que caracterizaria a futilidade do crime.
+24. Restou comprovada a materialidade por meio dos Laudos de Exames Necroscópicos, ID. 28967214, p. 37-38, atestando a morte das vítimas Marina Rany Martins de França e Francisco Pablo Teixeira Filgueira.
+25. Quanto aos indícios suficientes da autoria, entendo que também estão demonstrados através do Boletim de Ocorrência (ID 28967214, p. 11), Certidão de Óbito das vítimas, Relatório Conclusivo elaborado pela Polícia Civil (ID 28967215, p. 58-77), declarações da vítima e depoimentos testemunhais.
+26. A vítima sobrevivente Maik Robson Martins de França afirmou, em juízo, que o suposto furto de uma peça de trator pertencente a um familiar de Elissandro, conduta esta atribuída a ele e a Pablo, foi o motivo direto para os três acusados praticarem os homicídios.
+27. Disse que, ao perceber os disparos, fugiu para um matagal, tendo escapado por pouco. Afirmou que os executores invadiram sua residência e assassinaram sua irmã e outra vítima, Pablo, vindo em sua direção em seguida.
+28. Maik Robson Martins de França declarou que reconheceu, pela voz, que quem estava o seguindo era Jorge Adriano, conhecido como "Fura-pinha", quem conhecia desde a infância. Afirmou, ainda, que juntamente com ele estavam Jorge Eduardo, seu irmão, e outro indivíduo chamado Sandro.
+29. Para corroborar as declarações da vítima Maik Robson, Francisco Teixeira Neto, pai do ofendido Francisco Pablo, disse que quando Maik ligou para o depoente, disse que havia descoberto tudo; que "Maikinho" falou que quem havia cometido o crime teria sido Sandro e o motivo foi o suposto furto de uma peça de um trator do pai dele.
+30. O irmão de Maik Robson, Márcio Rubens Martins de França, em juízo, declarou que, em uma conversa com Leodécio (já falecido), este lhe confidenciou os autores da morte de sua irmã e de Pablo. Segundo relatado, Leodécio afirmou que o crime ocorrido na casa da mãe de Márcio e Maik, havia sido praticado por Jorge, Adriano e Sandro.
+31. Ainda mencionou que, supostamente, teria ocorrido em razão do furto já referido. Contou que Elissandro (Sandro) esteve na casa de sua tia, onde a sua mãe também se encontrava, e que ela ouviu quando Elissandro (Sandro) disse que havia furtado uma peça do trator de seu genitor. Na ocasião, afirmou que ele próprio resolveria do seu jeito. Poucos dias após esse fato, o crime ocorreu. (vide mídia digital de ID. 28968974).
+32. A testemunha Damião Orlando da Silva, na audiência de instrução, confirmou que foi à casa de Leodécio (falecido), juntamente com Márcio Rubens e que, naquela ocasião, Leodécio chamou Márcio para uma conversa (ID. 28968975).
+33. Concluo, portanto, que os depoimentos acima referenciados revelam indícios suficientes de autoria dos recorrentes quanto à conduta que vitimou os ofendidos, não havendo, neste momento processual, como impronunciar os réus.
+34. Como afirmei no item 14, o exame de possíveis contradições existentes nos depoimentos e declarações da vítima sobrevivente e das testemunhas será realizado pelo Tribunal do Júri, pois demanda incursionamento no acervo probatório, vedado neste momento processual.
+
+Em havendo prova da materialidade e indícios suficientes de autoria, a tentativa de impronunciar os recorrentes não encontra amparo na via eleita, pela necessidade de revolvimento do conjunto da prova, atividade reservada às instâncias ordinárias e inviável no âmbito do Superior Tribunal de Justiça. É que o óbice da Súmula n. 7 impede o aprofundamento do acervo fático-probatório, salvo se demonstrada a ocorrência de violação direta da lei federal, o que não é o caso.
+Nesse sentido:
+PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. ROUBO E LATROCÍNIO. ABSOLVIÇÃO E DESCLASSIFICAÇÃO. REEXAME DO ACERVO FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. SÚMULA 7 DO STJ. CONTINUIDADE DELITIVA INAPLICÁVEL. AGRAVO REGIMENTAL DESPROVIDO.  ..  2. Alterar a conclusão a que chegaram as instâncias ordinárias e decidir pela desclassificação do delito ou absolvição dos agravantes demandaria revolvimento do acervo fático-probatório dos autos, procedimento que encontra óbice na Súmula 7/STJ.
+(AgRg no AREsp n. 2.002.341/TO, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 19/4/2022, DJe de 27/4/2022).
+Assim, modificar o entendimento firmado na origem, com o propósito de reverter a conclusão do Tribunal local, esbarra na atividade vinculada desta Corte Superior, na via especial.
+Ante o exposto, com fundamento no art. 253, parágrafo único, II, "a", do Regimento Interno do STJ, conheço do agravo para não conhecer do recurso especial.
+Publique-se.
+Intimem-se.
+EMENTA
