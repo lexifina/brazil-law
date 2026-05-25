@@ -1,0 +1,44 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de ARNALDO PEREIRA BORGES JUNIOR, apontando como autoridade coatora a Desembargadora Substituta do TRIBUNAL DE JUSTIÇA DO ESTADO DO PARANÁ, que, nos autos do HC n. 0063661-24.2026.8.16.0000, indeferiu a medida liminar.
+Consta dos autos que o paciente foi preso em flagrante em 14/05/2026 pela suposta prática do crime previsto no art. 33, caput, da Lei n. 11.343/2006, após abordagem policial em local indicado como ponto de tráfico, com apreensão de 35 (trinta e cinco) porções de crack, totalizando 19 (dezenove) gramas, 1 (uma) unidade de cocaína, correspondente a 1 (um) grama, e R$ 144,00 (cento e quarenta e quatro reais) em espécie. A prisão em flagrante foi convertida em preventiva.
+Irresignada, a Defesa impetrou habeas corpus perante o Tribunal de origem. Na decisão de fls. 17-19, o pedido liminar foi indeferido.
+Neste writ, a impetrante alega que a conversão da prisão em flagrante em preventiva é ilegal por ausência de fundamentação idônea e de elementos concretos que justifiquem a medida extrema.
+Sustenta que não há elementos suficientes, em sede inicial, para caracterizar o delito de tráfico de drogas, destacando a reduzida quantidade de substâncias e a inexistência de flagrante mercancia, o que autorizaria, em tese, a subsunção ao art. 28 da Lei n. 11.343/2006.
+Argumenta que o decreto prisional apoiou-se em suposta reincidência não comprovada nos autos, pois ausentes documentação ou certidões idôneas quanto a eventuais condenações pretéritas, e que o paciente ostenta condições pessoais favoráveis.
+Defende a aplicação de medidas cautelares diversas da prisão.
+Requer, inclusive liminarmente, a revogação da prisão preventiva. Subsidiariamente, pugna pela aplicação de medidas cautelares previstas no art. 319 do Código de Processo Penal e, ainda, pela concessão de prisão domiciliar, nos termos do art. 318, inciso V, do CPP.
+É o relatório. Decido.
+Conforme o entendimento consolidado na Súmula n. 691 do Supremo Tribunal Federal não é cabível o conhecimento de habeas corpus impetrado contra decisão monocrática de relator que indefere liminar em outro writ originário, sob pena de configurar supressão de instância. A mesma orientação se aplica, por analogia, aos casos em que a ação constitucional é impetrada contra decisão unipessoal que concede medida urgente em ação cautelar inominada ajuizada pelo Ministério Público na origem, resultando na inadmissibilidade do mandamus manejado perante esta Corte.
+Confira-se:
+PENAL E PROCESSUAL PENAL. AGRAVO REGIMENTAL EM HABEAS CORPUS. TRÁFICO ILÍCITO DE ENTORPECENTES. DECISÃO DE DESEMBARGADOR QUE DEFERE LIMINAR EM MEDIDA CAUTELAR INOMINADA. CONCESSÃO DE EFEITO SUSPENSIVO A RECURSO EM SENTIDO ESTRITO. PRISÃO CAUTELAR. GARANTIA DA ORDEM PÚBLICA. NECESSIDADE EVIDENCIADA PELA QUANTIDADE E DIVERSIDADE DE DROGAS. SÚMULA N. 691 DO STF. APLICAÇÃO POR ANALOGIA. PRECEDENTES. AGRAVO REGIMENTAL IMPROVIDO.
+1.Nos termos da Súmula n. 691 do STF, "não compete ao Supremo Tribunal Federal conhecer de habeas corpus impetrado contra decisão do relator que, em habeas corpus requerido ao tribunal superior, indefere a liminar".
+2. É firme o entendimento do Superior Tribunal de Justiça  de que aplica-se, por analogia, a inteligência da Súmula n. 691 do STF para negar conhecimento a habeas corpus impetrado contra decisão liminar de desembargador que concede efeito suspensivo a recurso em sentido estrito interposto contra decisão que revoga a prisão preventiva.
+Precedentes.
+3. Não ficou demonstrada a ocorrência de ilegalidade flagrante que autorize a mitigação da incidência do enunciado sumular.
+4. Agravo regimental improvido.
+(AgRg no HC n. 1.018.320/SP, relator Ministro Og Fernandes, Sexta Turma, julgado em 3/9/2025, DJEN de 9/9/2025.)
+HABEAS CORPUS. TRÁFICO DE ENTORPECENTES. LIBERDADE PROVISÓRIA CONCEDIDA EM PRIMEIRO GRAU. MEDIDA CAUTELAR INOMINADA MANEJADA PELO MINISTÉRIO PÚBLICO ESTADUAL. LIMINAR DEFERIDA PARA ATRIBUIR EFEITO SUSPENSIVO ATIVO AO RESE. INSURGÊNCIA CONTRA A DECISÃO MONOCRÁTICA QUE DEFERE O PLEITO LIMINAR. ÓBICE DA SÚMULA 691/STF, MUTATIS MUTANDIS. PRECEDENTES. ILEGALIDADE FLAGRANTE NÃO CONSTATADA. GRAVIDADE CONCRETA DA CONDUTA. ORDEM NÃO CONHECIDA, CASSADA A LIMINAR ANTERIORMENTE DEFERIDA.
+1. O Superior Tribunal de Justiça tem jurisprudência firmada de que não cabe habeas corpus contra decisum que indefere liminar no writ precedente (enunciado n. 691 da Súmula do Supremo Tribunal Federal), a não ser que fique demonstrada flagrante ilegalidade. Idêntica compreensão se aplica, segundo os precedentes desta Corte, aos casos em que o habeas corpus é impetrado contra decisão que concedeu a medida liminar na origem.
+Na espécie, está-se diante de decisão unipessoal proferida nos autos de cautelar inominada manejada com o objetivo de dar efeito suspensivo ao recurso em sentido estrito interposto, a qual deferiu o pedido emergencial e decretou a prisão preventiva do paciente.
+Impossibilidade de conhecimento do writ.
+2. Ademais, ausente constrangimento ilegal evidente, a ser coibido mediante a concessão de habeas corpus de ofício.
+(..)
+3. Habeas Corpus não conhecido, cassada a liminar anteriormente deferida.
+(HC n. 957.157/SP, relator Ministro Sebastião Reis Júnior, relator para acórdão Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 20/5/2025, DJEN de 28/5/2025.)
+Na hipótese, não se verifica a existência de ilegalidade manifesta apta a ensejar a concessão da ordem pleiteada, especialmente diante do que consta da decisão ora impugnada (fls. 18-19; grifos diversos do original):
+Diversamente do alegado na impetração, a decisão que converteu a prisão em flagrante em preventiva encontra-se fundamentada em elementos concretos do caso. Consta que, no momento da abordagem, foram apreendidos entorpecentes fracionados (inclusive em posse do paciente), bem como valores em dinheiro, circunstâncias que, em juízo de cognição sumária, indicam a prática de delito de tráfico de drogas.
+Além disso, o boletim de ocorrência e o auto de prisão em flagrante apontam que a atuação policial decorreu de prévia investigação em local conhecido como ponto de tráfico, sendo os investigados observados em atividade típica de mercancia ilícita, com troca de objetos e dinheiro, bem como apreensão de substâncias entorpecentes já fracionadas.
+Ainda, a decisão impugnada destacou a existência de circunstâncias pessoais desfavoráveis, notadamente o histórico do corréu envolvido e a admissão, pelo próprio paciente, de antecedentes penais, circunstâncias que, somadas ao contexto fático, evidenciam risco concreto de reiteração delitiva e necessidade de resguardo da ordem pública.
+Nesse cenário, a alegação de ausência de justa causa para a prisão preventiva não se sustenta no exame superficial próprio desta fase. A decisão impugnada indica a existência de indícios de autoria e materialidade, extraídos do auto de prisão em flagrante e dos elementos informativos colhidos na fase inicial, atendendo, em princípio, ao requisito do fumus comissi delicti.
+A jurisprudência deste Tribunal de Justiça é firme no sentido de que a prisão cautelar pode ser mantida quando fundada em elementos concretos que evidenciem o risco de reiteração delitiva e a insuficiência de medidas cautelares diversas:
+ ..
+A reavaliação da suficiência desses elementos exige exame aprofundado das provas. Essa providência não se admite nesta fase.
+Nesse cenário, não se identifica ilegalidade flagrante ou teratologia aptas a justificar a concessão da liminar postulada, devendo a análise ser reservada ao julgamento de mérito do writ, após a devida instrução e manifestação do órgão ministerial.
+3. Diante de tal quadro, ausente a aparência do bom direito, e sem prejuízo de uma apreciação mais aprofundada por ocasião do julgamento de mérito, indefiro a medida liminar.
+Como se observa, a prisão preventiva do acusado foi, em uma análise sumária, suficientemente fundamentada pelas instâncias ordinárias, diante do risco concreto de reiteração delitiva.
+Portanto, tendo em vista que a necessidade da prisão preventiva, aparentemente, foi concretamente demonstrada nos termos dos arts. 312 e 313, ambos do Código de Processo Penal, não se mostra suficiente a aplicação de medidas cautelares mais brandas.
+Ressalte-se, ademais, que a pretensão absolutória ou desclassificatória, em regra, demandaria reexame de fatos e provas, providência incompatível com a estreita via do habeas corpus.
+Como se vê, as questões em debate exigem uma análise mais aprofundada das alegações defensivas, cabendo, em primeiro lugar, ao Tribunal impetrado proceder a essa avaliação. Assim, é vedado a esta Corte Superior antecipar-se nesse exame, sob pena de indevida usurpação da competência da instância originária.
+Ante o exposto, indefiro liminarmente o habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
