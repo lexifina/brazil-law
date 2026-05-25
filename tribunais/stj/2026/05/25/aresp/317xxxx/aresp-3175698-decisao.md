@@ -1,0 +1,44 @@
+DECISÃO
+Trata-se de agravo interposto pelo LEONARDO FRANCISCO DA SILVA ALVES contra decisão que inadmitiu o recurso especial com fundamento na Súmula n. 7/STJ.
+O Juízo das execuções julgou extinta a pena privativa de liberdade imposta ao apenado, an te o término do período de prova do livramento condicional sem causa de prorrogação ou revogação, bem como determinou o prosseguimento da execução da pena de multa (fl. 55). O Tribunal de origem negou provimento ao agravo de execução penal.
+No recurso especial, apontou-se ofensa aos arts. 1º da LEP e 51 do Código Penal, ao argumento de que o MP não apresentou qualquer elemento que comprove a possibilidade de adimplemento do valor fixado na sentença condenatória (fl. 70).
+Ressaltou-se que "na medida em que a não declaração de extinção da punibilidade da multa impede a inscrição do egresso em praticamente todos os programas sociais públicos" (fl. 70). Alegou-se, ainda, que "a decisão diverge da orientação jurisprudencial constante da nova redação do Tema n. 931 do C. STJ" (fl. 70).
+Oferecidas as contrarrazões.
+Em parecer, o Ministério Público Federal se manifestou nos termos da seguinte ementa (fl. 133):
+PENAL. AGRAVO EM RECURSO ESPECIAL. EXECUÇÃO PENAL. EXTINÇÃO DA PUNIBILIDADE SEM PAGAMENTO DA PENA DE MULTA. REPRESENTAÇÃO PELA DEFENSORIA PÚBLICA. TEMA Nº 931 DO STJ. HIPOSSUFICIÊNCIA PRESUMIDA. IMPOSSIBILIDADE. REEXAME DE FATOS E PROVAS. INCIDÊNCIA DA SÚMULA Nº 7 DO STJ. NÃO IMPUGNAÇÃO ESPECÍFICA DA DECISÃO QUE INADMITIU RECURSO ESPECIAL. SÚMULA Nº 182 DO STJ. PELO NÃO CONHECIMENTO DO AGRAVO.
+É o relatório.
+Atendidos os requisitos de admissibilidade, conheço do agravo e passo à análise do recurso especial.
+A controvérsia jurídica consiste em verificar se houve ofensa aos arts. 1º da LEP e 51 do Código Penal.
+Sobre o tema, extrai-se do acórdão recorrido os seguintes fundamentos (fls. 57-60):
+D e proêmio, consigne-se que, a despeito de o C. Superior Tribunal de Justiça ter firmado posicionamento no sentido de que a pena pecuniária ostentaria caráter extrapenal, de dívida de valor, com competência exclusiva da Fazenda Pública para a sua execução, admitindo-se, inclusive, a extinção da punibilidade da pena privativa de liberdade sem seu adimplemento, tal entendimento restou superado com o julgamento da ADI 3150, tendo o E. Supremo Tribunal Federal dado interpretação conforme a Constituição Federal ao artigo 51 do Código Penal, reconhecendo que a multa penal tem caráter de sanção criminal. Nesse sentido, a Lei n. 13.964/2019 conferiu nova redação ao citado dispositivo, acrescendo que "a multa será executada perante o juiz da execução penal".
+Destarte, tendo em vista o caráter penal da sanção pecuniária e a competência do Juízo das Execuções Criminais para sua execução, apenas posteriormente ao adimplemento da pena de multa é que se poderá cogitar a extinção da punibilidade pelo integral cumprimento da pena, ressalvada a demonstração concreta de absoluta impossibilidade de seu custeio pelo devedor.
+Nesse tom, convém dizer que o fato de o sentenciado estar assistido pela Defensoria Pública não é motivo capaz, por si só, de demonstrar sua hipossuficiência econômica ou sua absoluta impossibilidade de efetuar o adimplemento da multa. Da mesma forma, o fato de a sanção pecuniária ter sido fixada no patamar mínimo legal não comprova a sua hipossuficiência; significa que, ao tempo da prolação da r. sentença, não havia elementos suficientes nos autos da ação penal que permitissem conclusões sobre sua condição financeira, a qual, portanto, foi presumida como sendo mínima.
+Nesse contexto, compete ao Juízo da Execução Criminal, no respectivo processo de execução da pena de multa, proceder com as diligências necessárias visando à verificação da capacidade financeira do devedor. Nesse sentido:
+ ..
+No caso em tela, contudo, as medidas típicas referentes à execução da pena de multa sequer tiveram início, se revelando prematuro tecer quaisquer considerações a respeito da capacidade econômica do sentenciado em adimplir com a pena de multa.
+Portanto, não restou demonstrada a hipossuficiência econômica do agravante ou sua absoluta impossibilidade de efetuar o adimplemento da multa e, nem mesmo demonstrou-se qualquer capacidade econômica, mormente porque sequer houve a citação para pagar o valor da multa ou nomear bens à penhora, nos termos do artigo 164 da LEP.
+Assim, ainda que o Tema 931 do STJ estabeleça a possibilidade de extinção da punibilidade diante do inadimplemento da pena de multa por hipossuficiência ("O inadimplemento da pena de multa, após cumprida a pena privativa de liberdade ou restritiva de direitos, não obsta a extinção da punibilidade, ante a alegada hipossuficiência do condenado, salvo se diversamente entender o juiz competente, em decisão suficientemente motivada, que indique concretamente a possibilidade de pagamento da sanção pecuniária"), essa tese é inaplicável ao caso dos autos, uma vez que a hipossuficiência não foi comprovada, conforme já explanado.
+Ante o exposto, pelo meu voto, NEGO PROVIMENTO ao recurso.
+Todavia, o recurso não merece conhecimento, pois o Tribunal de origem indeferiu o pedido formulado pela defesa por entender que as medidas típicas referentes à execução de pena de multa sequer tiveram i nício, revelando-se prematuro tecer quaisquer considerações a respeito da capacidade econômica do sentenciado em adimplir com a pena de multa. Ressaltou a Corte que o Tema 931/STJ não se aplica ao caso, uma vez que a hipossuficiência não foi provada.
+A defesa se insurgiu no apelo nobre tão somente contra a incidência do tema n. 931/STJ, deixando de impugnar fundamento autônomo que, por si só, manteria o indeferimento do benefício ao recorrente (prematuridade da capacidade econômica do sentenciado em adimplir com a pena de multa), atraindo, assim, o óbice da Súmula n. 283/STF: " é  inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles". Nesse sentido:
+DIREITO PROCESSUAL PENAL. AGRAVO REGIMENTAL. REMIÇÃO DE PENA PELO ESTUDO. BOA-FÉ OBJETIVA. SÚMULA N. 283 DO STF. AGRAVO DESPROVIDO.
+I. CASO EM EXAME
+1. Agravo regimental interposto pelo Ministério Público do Estado de Santa Catarina contra decisão monocrática que não conheceu de recurso especial, com fundamento na Súmula n. 283 do STF, em razão da ausência de impugnação de fundamento autônomo do acórdão recorrido, notadamente a preservação da confiança e da boa-fé objetiva, além da competência da unidade prisional para aferir a efetiva participação do reeducando nas atividades educacionais.
+2. O agravante sustenta que o acórdão do TJSC não adotou a boa-fé objetiva como razão de decidir, tratando-se de mera transcrição ilustrativa de precedente, e que o recurso especial enfrentou todos os fundamentos efetivamente adotados pelo acórdão, inexistindo deficiência dialética.
+II. QUESTÃO EM DISCUSSÃO
+3. A questão em discussão consiste em saber se a decisão agravada, ao aplicar a Súmula 283 do STF, está correta ao considerar que o recurso especial não impugnou fundamento autônomo do acórdão recorrido, relacionado à preservação da boa-fé objetiva e à competência da unidade prisional para aferir a participação do reeducando nas atividades educacionais.
+III. RAZÕES DE DECIDIR
+4. A decisão agravada está fundamentada na aplicação da Súmula 283 do STF, que impede o conhecimento do recurso especial quando não há impugnação de fundamento autônomo suficiente para sustentar o acórdão recorrido.
+5. O acórdão recorrido reconheceu a remição de pena com base na boa-fé objetiva e na vedação ao venire contra factum proprium, além de considerar a competência da unidade prisional para aferir a efetiva participação do reeducando nas atividades educacionais.
+6. O agravante não demonstrou que o recurso especial impugnou todos os fundamentos autônomos do acórdão recorrido, especialmente aqueles relacionados à boa-fé objetiva e à competência da unidade prisional, o que justifica a aplicação da Súmula 283 do STF.
+IV. DISPOSITIVO E TESE
+7. Resultado do Julgamento: Agravo desprovido.
+Tese de julgamento:
+1. A aplicação da Súmula 283 do STF é válida quando o recurso especial não impugna todos os fundamentos autônomos do acórdão recorrido.
+2. A preservação da boa-fé objetiva e a vedação ao venire contra factum proprium são fundamentos autônomos que sustentam o reconhecimento da remição de pena pelo estudo.
+3. A unidade prisional possui competência para aferir a efetiva participação do reeducando nas atividades educacionais, conforme previsto no art. 126, § 2º, da LEP.
+(AgRg no REsp n. 2.221.934/SC, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 17/12/2025, DJEN de 22/12/2025.)
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Publique-se.
+Intimem-se.
+EMENTA
