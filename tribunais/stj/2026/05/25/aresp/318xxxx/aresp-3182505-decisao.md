@@ -1,0 +1,25 @@
+DECISÃO
+Trata-se de agravo manejado pelo Banco do Brasil S. A. contra decisão que não admitiu recurso especial, este interposto com fundamento no art. 105, III, a e c, da CF, desafiando acórdão proferido pelo Tribunal de Justiça do Estado de Roraima, assim ementado (fl. 510):
+APELAÇÃO CÍVEL - DIREITO PROCESSUAL CIVIL - AÇÃO INDENIZATÓRIA - EXPURGOS INFLACIONÁRIOS DO PASEP - DESFALQUES - PRELIMINARES - ILEGITIMIDADE PASSIVA E INCOMPETÊNCIA DA JUSTIÇA ESTADUAL AFASTADAS - OBSERVÂNCIA DO TEMA Nº 1.150 DO STJ - MÉRITO - PERÍCIA TÉCNICA QUE CONSTATOU A EXISTÊNCIA DE DIFERENÇA ENTRE O SALDO DEVIDO E O PAGO AO APELADO - AUSÊNCIA DE PROVA CAPAZ DE INFIRMAR O LAUDO - RÉU QUE NÃO SE DESINCUMBIU DE SEU ÔNUS (ART. 373, II, CPC) - RECURSO DESPROVIDO - SENTENÇA MANTIDA.
+Opostos embargos declaratórios, foram rejeitados (fls. 555/558).
+Nas razões do recurso especial, a parte agravante, além do dissídio jurisprudencial, aponta violação ao art. 355, I, do CPC, aduzindo que "ao se observar que a parte autora, expressamente, apresentou cálculos com índices grosseiramente diversos daqueles definidos pelo conselho diretor, utilizando a correção monetária o juízo a quo determinou perícia, sendo apresentado planilhas a inclusão indevida de juros e expurgos inflacionários e correção via INPC" (fl. 570).
+Sustenta que o decisório recorrido contraria a orientação do STJ fixada nos Temas Repetitivos 437 e 1.150/STJ.
+Alega que "a parte autora pretende o recálculo de seu saldo PASEP através da utilização de índices não previstos pelo conselho diretor, em diametral afronta à tese de legitimidade firmada junto ao Tema 1150/STJ e, na espécie, ocorrendo em erro grosseiro sobre o cálculo de atualização apresentado pelo perito" (fl. 575).
+Foram ofertadas contrarrazões às fls. 589/596 e 627/639.
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+Ao solucionar a controvérsia posta nos autos, o Tribunal de origem asseverou o seguinte (fl. 508):
+Outrossim, a expert explicou detalhadamente a falha na aplicação dos índices de correção adequados ao caso por parte do Apelante, inexistindo outra prova capaz de infirmar a prova técnica, a qual concluiu pela existência de valores a serem recebidos.
+Diante desse contexto, é certo que a alteração das premissas adotadas pela Corte de origem, tal como colocada a questão nas razões recursais, demandaria, necessariamente, novo exame do acervo fático-probatório constante dos autos, providência vedada em recurso especial, conforme o óbice previsto na Súmula 7/STJ.
+Nesse passo:
+CIVIL E PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. PASEP. AÇÃO DE REPARAÇÃO DE DANOS MATERIAIS. ALEGADA ILEGITIMIDADE PASSIVA DO BANCO DO BRASIL E INCOMPETÊNCIA DA JUSTIÇA ESTADUAL. ACÓRDÃO RECORRIDO QUE, COM BASE NO CONJUNTO FÁTICO-PROBATÓRIO, CONCLUIU QUE A CAUSA DE PEDIR SE RELACIONA À MÁ GESTÃO E DESFALQUES NA CONTA, E NÃO AOS ÍNDICES DE CORREÇÃO. ALINHAMENTO COM O TEMA 1.150/STJ. INCIDÊNCIA DA SÚMULA 83/STJ. REEXAME DE FATOS E PROVAS. IMPOSSIBILIDADE. SÚMULA 7/STJ. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
+1. Em ações que discutem a responsabilidade por valores em contas do PASEP, a legitimidade passiva define-se pela causa de pedir. Se a alegação é de má gestão, desfalques ou não aplicação dos rendimentos estabelecidos, a legitimidade é do Banco do Brasil e a competência é da Justiça estadual, nos termos do Tema 1.150/STJ.
+2. Tendo o acórdão recorrido, com base na análise dos fatos e provas dos autos, assentado que a pretensão da parte autora decorre de suposta má gestão dos valores depositados em sua conta PASEP, e não de questionamento dos critérios de correção monetária, a decisão está em consonância com a jurisprudência consolidada desta Corte Superior, o que atrai a incidência da Súmula nº 83 do STJ.
+3. A alteração da premissa fática estabelecida pelo Tribunal de segunda instância, para se concluir que a demanda versa sobre os critérios de atualização do saldo e não sobre falha na prestação do serviço, demandaria o reexame do acervo fático-probatório, providência vedada em recurso especial, nos termos da Súmula nº 7 do STJ.
+4. Agravo conhecido para não conhecer do recurso especial.
+(AREsp n. 2.782.203/PR, Relator Ministro Moura Ribeiro, Terceira Turma, julgado em 16/3/2026, DJEN de 20/3/2026.)
+Cumpre dizer que a matéria pertinente ao Tema Repetitivo n. 437/STJ não foi apreciada pela instância judicante de origem, tampouco foram opostos embargos declaratórios para suprir eventual omissão. Portanto, ante a falta do necessário prequestionamento, incide o óbice da Súmula 282/STF.
+Pelos mesmos motivos, segue obstado o recurso especial pela alínea c do permissivo constitucional, sendo certo que não foram atendidas as exigências dos arts. 1.029, §1º, do CPC e 255, § 1º, do RISTJ.
+ANTE O EXPOSTO, nego provimento ao agravo.
+Levando-se em conta o trabalho adicional realizado em grau recursal, impõe-se à parte recorrente o pagamento de honorários advocatícios equivalentes a 20% (vinte por cento) do valor a esse título já fixado no processo (art. 85, § 11, do CPC).
+Publique-se.
+EMENTA
