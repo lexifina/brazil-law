@@ -1,0 +1,28 @@
+DECISÃO
+Trata-se de embargos de declaração opostos por WINDSON CLEITON DA SILVA MENDES contra a decisão de fls. 162-168 (e-STJ), que não conheceu do habeas corpus, mas concedeu a ordem, de ofício, para absolver o acusado da imputação do delito do art. 35, caput, da Lei n. 11.343/2006 e redimensionar a pena do crime de tráfico de drogas para 9 anos, 3 meses e 4 dias de reclusão, em regime fechado, mais 925 dias-multa.
+O embargante alega, em suma, a existência de erro material. Ao argumento de que a "pena mínima cominada ao delito previsto no art. 33 da Lei de Drogas é de 5 anos de reclusão, à qual foi aumentada de 1/6, resultando na pena-base de 5 anos e 10 meses de reclusão, na primeira fase da calibragem da pena; em seguida foi acrescentada a fração de 1/6 em face ao reconhecimento da agravante da reincidência, resultando em 6 anos, 9 meses e 20 dias de reclusão, na segunda fase; finalmente, foi acrescentada fração de 1/6 em face à incidência do art. 40, IV, da Lei de Drogas, na terceira fase da aplicação da pena, alcançando uma resposta penal definitiva de 7 anos, 11 meses e 8 dias de reclusão, mais 925 DM" (e-STJ, fls. 180-181).
+Requer, ao final, que seja sanado o alegado vício.
+É o relatório.
+Decido.
+Os embargos não merecem ser acolhidos.
+Os embargos de declaração, como recurso de correção, destinam-se a suprir omissão, contradição e ambiguidade ou obscuridade existente no julgado. Não se prestam, portanto, à sua revisão no caso de mero inconformismo da parte.
+Nesse sentido, julgados desta Corte:
+"PROCESSO PENAL. EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. ASSOCIAÇÃO CRIMINOSA, CORRUPÇÃO ATIVA, CORRUPÇÃO PASSIVA E PREVARICAÇÃO. AGRAVO REGIMENTAL INTEMPESTIVO. OMISSÃO. NÃO OCORRÊNCIA. PEDIDO DE RECONSIDERAÇÃO INDEFERIDO.
+1. Os embargos de declaração, como se infere da redação do art. 619 do Código de Processo Penal, supõem defeitos na mensagem do julgado, em termos de ambiguidade, omissão, contradição ou obscuridade, isolada ou cumulativamente. A mera irresignação com o resultado do julgamento, visando, assim, à reversão do que já foi regularmente decidido, não tem o condão de viabilizar a oposição dos aclaratórios.
+2. Há posição pacificada nesta Corte Superior de Justiça de que não se aplicam as regras introduzidas pelo novo Código de Processo Civil, referentes à contagem dos prazos em dias úteis e ao prazo de 15 dias, ao agravo que visa impugnar decisão monocrática de relator em matéria penal ou processual penal nos Tribunais Superiores.
+3. Embargos declaratórios rejeitados." (EDcl no AgInt no AREsp 1432358/SP, Rel. Ministro ANTONIO SALDANHA PALHEIRO, SEXTA TURMA, julgado em 11/02/2020, DJe 17/02/2020, grifou-se).
+"EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. EXECUÇÃO PROVISÓRIA DE PENA RESTRITIVA DE DIREITO. OMISSÃO. INOCORRÊNCIA. QUESTÕES QUE NÃO INFIRMAM A CONCLUSÃO ADOTADA NA DECISÃO RECORRIDA. EMBARGOS DE DECLARAÇÃO REJEITADOS.
+I - Os embargos de declaração são recurso com fundamentação vinculada, sendo imprescindível a demonstração de que a decisão embargada se mostrou ambígua, obscura, contraditória ou omissa, conforme disciplina o art. 619 do Código de Processo Penal. Podem ser admitidos, ainda, para correção de eventual erro material e, excepcionalmente, para alteração ou modificação do decisum embargado.
+II - Não se verificando nenhuma das hipóteses anteriores, mas mera irresignação do embargante com a solução apresentada por esta Corte Superior, fica inviabilizada a utilização dos aclaratórios.
+ ..
+VI - Embargos de declaração rejeitados." (EDcl no AgRg no AREsp 1518118/RN, Rel. Ministro REYNALDO SOARES D A FONSECA, QUINTA TURMA, julgado em 08/10/2019, DJe 14/10/2019, grifou-se).
+Na hipótese, observa-se que a dosimetria da pena foi devidamente justificada, como se observa dos seguintes trechos:
+Cabe esclarecer que "não há direito subjetivo do réu à adoção de alguma fração de aumento específica para cada circunstância judicial, seja ela de 1/6 sobre a pena-base, 1/8 do intervalo supracitado ou mesmo outro valor" (AgRG no HC n, 787.967/RJ, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 22/5/2023, DJe de 25/5/2023).
+Todavia, considerando que a quantidade de droga apreendida embora não seja pequena, mas nem tão pouco elevada, considero mais adequado à gravidade do fato em questão e suficiente à reprovação do delito a exacerbação da pena-base em para cada 1/6 circunstância desfavorável.
+ ..
+No primeiro momento, aumenta-se a pena-base em pela vetorial negativa dos1/6 antecedentes e pelo art. 42 da Lei de Drogas, fixo a pena em 6 anos, 9 meses e 20 dias, mais 680 dias-multa. Na segunda fase, subsiste aumento de pela agravante da reincidência,1/6 ficando a pena quantificada em 7 anos, 11 meses e 8 dias de reclusão, mais 793 dias-multa . Na terceira fase, permanece o aumento de pela incidência do da1/6 art. 40, inciso IV, , resultando a pena definitiva emLei n. 11.343/06 9 nos, 3 meses e 4 dias de reclusão, mais a 925 dias-multa. (e-STJ, fls. 167-168)
+Ao contrário do que alega a defesa, a pena-base foi majorada em 1/6 pelos maus antecedentes e 1/6 pela a plicação do art. 42 da Lei de Drogas, não se verificando erro material ou contradição no julgado.
+Em seguida, pela reincidência, a pena foi fixada em 7 anos, 11 meses e 8 dias de reclusão, mais 793 dias-multa. Por fim, na última fase, permaneceu o aumento de 1/6 pela incidência do art. 40, inciso IV, da Lei n. 11.343/06, resultando a pena definitiva em 9 anos, 3 meses e 4 dias de reclusão, mais a 925 dias-multa.
+Ante o exposto, rejeito os embargos de declaração.
+Publique-se. Intimem-se.
+EMENTA
