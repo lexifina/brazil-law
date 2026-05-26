@@ -1,0 +1,48 @@
+DECISÃO
+Cuida-se de Agravo apresentado por CENTRO DE ESTUDOS UNIFICADOS BANDEIRANTE à decisão que não admitiu seu Recurso Especial.
+O apelo, fundamentado no artigo 105, III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, assim resumido:
+APELAÇÃO. AÇÃO MONITÓRIA. CONTRATO DE PRESTAÇÃO DE SERVIÇOS EDUCACIONAIS. INSURGÊNCIA DA RÉ CONTRA SENTENÇA DE QUE JULGOU PROCEDENTE A DEMANDA. IRRESIGNAÇÃO QUE PROSPERA. PRETENSÃO DE COBRANÇA, PELO ESTABELECIMENTO DE ENSINO AUTOR, CONSUBSTANCIADA EM CONFISSÃO DE DÍVIDA FIRMADA PELAS PARTES. INSTRUMENTO QUE NÃO IMPLICA NOVAÇÃO, MAS CONFIRMAÇÃO DA OBRIGAÇÃO ORIGINÁRIA. TRATANDO-SE A CONFISSÃO DE DÍVIDA DE ATO INEQUÍVOCO DE RECONHECIMENTO DO DIREITO DO CREDOR, INTERROMPE A PRESCRIÇÃO, EX VI DO ARTIGO 202, INCISO VI, DO CÓDIGO CIVIL. APLICÁVEL, IN CASU, O PRAZO PRESCRICIONAL QUINQUENAL PREVISTO NO ARTIGO 206, § 5º, INCISO I, DO CÓDIGO CIVIL. A INTERRUPÇÃO DA PRESCRIÇÃO, A TEOR DO ARTIGO 202, CAPUT, DO CÓDIGO CIVIL, SÓ PODE OCORRER UMA ÚNICA VEZ. PROTESTO REALIZADO EM 25/08/2020 QUE NÃO INTERROMPEU O PRAZO PRESCRICIONAL, PORQUANTO ESTE JÁ HAVIA SIDO INTERROMPIDO, EM 03/12/2015, NO ATO DA ASSINATURA DO INSTRUMENTO DE CONFISSÃO DE DÍVIDA. AÇÃO MONITÓRIA AJUIZADA SOMENTE EM 18/12/2024. DE RIGOR O RECONHECIMENTO DA PRESCRIÇÃO. COMANDO SENTENCIAL QUE COMPORTA REFORMA PARA, RECONHECENDO-SE A PRESCRIÇÃO, JULGAR PROCEDENTES OS EMBARGOS MONITÓRIOS E IMPROCEDENTE A AÇÃO MONITÓRIA. RECURSO PROVIDO, NOS TERMOS DO ACÓRDÃO.
+Quanto à controvérsia, pela alínea "a" do permissivo constitucional, a parte recorrente aduz violação aos arts. 5º e 6º, § 1º, da Lei nº 9.870/1999; e ao art. 360, I, do Código Civil, no que concerne à necessidade de afastamento da prescrição, em razão da confissão de dívida constituir novação, uma nova obrigação para viabilizar a rematrícula, que não interrompe a prescrição, tendo o protesto, realizado em 2020, operado a única interrupção. Argumenta que:
+O que se pretende discutir com a interposição do presente recurso é inaplicabilidade do instituto da prescrição, pautada no argumento de que a novação da dívida não interrompe a prescrição, mas, sim, constitui nova obrigação totalmente independente.
+Ou seja, concreto é matéria exclusivamente de direito, não havendo a necessidade de produção de provas.
+Inclusive, o douto juízo de primeiro grau julgou antecipadamente a lide, sem necessidade de produção de provas, justamente sob a alegação da matéria a ser analisada ser somente de direito (fl. 130).
+Inicialmente é importante ressaltar que a presente demanda trata-se de Ação Monitória que pleiteia a conversão do mandado monitório - um Instrumento Particular de Confissão de Dívida assinado pela devedora em dezembro de 2015, mas sem força executiva (fl. 130).
+Como tese jurídica central, é importante considerar que o acordo firmado entre as partes celebrou uma nova obrigação entre as partes, extinguindo a relação jurídica anterior, onde os termos do acordo novaram a dívida anterior, não se confundindo com a causa do artigo  do CC.
+A recorrente, instituição de ensino superior, não poderia autorizar a rematrícula da aluna inadimplente por força dos artigos  da Lei 9.870/99  , ou seja, para que a aluna inadimplente pudesse retomar seus estudos, deveria firmar uma nova obrigação com a universidade credora (fl. 130).
+Não obstante, contrariando o entendimento desse Colendo Superior Tribunal de Justiça, o v. Acórdão aqui guerreado defendeu que "a supracitada confissão de dívida, por constituir ato inequívoco do reconhecimento desta, interrompeu a prescrição".
+Não obstante, a interpretação do ânimo de novar deve ser interpretado em consonância com a inteligência do Art.  do Código Civil, vez que foi contraída nova dívida, que extinguiu a anterior.
+Ou seja, não obstante, ter violado a Lei 9.870/99 como acima exposto, o v. Acórdão também violou o Art.  da Lei 10.406/02 (do Código Civil), outra lei federal.
+Ora, Excelências, havendo nova dívida não há por que se falar em interrupção da prescrição (fl. 131).
+Excelências, trata-se de um novo documento, com previsão de novas parcelas, novos valores, novas condições, contando com nova assinatura e firmando nova obrigação entre as partes.
+A dívida anterior foi novada para surgir a nova obrigação de pagamento do acordo entabulado.
+Não se trata de mero reconhecimento e parcelamento da dívida, mas, sim, de nova obrigação.
+A interrupção da prescrição do Instrumento Particular de Confissão de Dívida se deu, portanto, pela primeira vez e única vez, com o Protesto do Título em agosto de 2020 (fls. 131-132).
+Tendo a prescrição sido interrompida em agosto/2020, por sua vez, a prescrição se daria apenas em agosto/2025, mas que, não chegou a ocorrer diante da citação válida.
+A assinatura da Confissão de Dívida sendo, indiscutivelmente, uma novação, não ensejou a interrupção da prescrição em sua celebração. Não tendo ensejado interrupção da prescrição pela assinatura da Confissão, não há por que se falar em "segunda interrupção" pelo protesto do título.
+O termo de acordo em questão novou a dívida anterior, não se confundindo com a causa do artigo  do CC (fl. 132).
+Pois, como dito a IES recorrente não poderia autorizar a rematrícula da aluna inadimplente por força do artigo  da Lei 9.870/99, daí surgido o animus novandi.
+Ou seja, para que a aluna inadimplente pudesse retomar seus estudos, deveria firmar uma nova obrigação com a universidade credora.
+E justamente isso foi feito.
+A interpretação a ser extraída do artigo  da Lei 9.870/99 indicam inequívoco ânimo de novar, notadamente pela recorrente, em débitos, necessitar de sua quitação para a retomada dos estudos (fl. 132).
+Diante de todo o exposto, tem-se que o v. Acórdão foi de encontro aos artigos  da Lei 9.870/99, bem como ao Art.  da Lei 10.406/02 (Código Civil), ambas leis federais, sendo imperioso, portanto, sua reforma nos termos supramencionados, na medida em que a confissão de dívida em si não constitui interrupção da prescrição, por ser novação de dívida anterior (fl. 134).
+É o relatório.
+Decido.
+Quanto à controvérsia, o Tribunal a quo se manifestou nos seguintes termos:
+A ré afirmou que, em 2015, no segundo semestre do curso de Pedagogia, ficou inadimplente com o estabelecimento de ensino autor, celebrando com este, em 03/12/2015, o "Instrumento Particular de Confissão de Dívida" de fls. 25/26.
+Não há evidência de que, no instrumento retromencionado, a devedora fosse outra ou de que se tenha alterado a natureza da dívida, a ponto de falar-se em novação, a qual se dá nas hipóteses do artigo 360 do Código Civil.
+A admissão de pagamento de determinada dívida de forma parcelada não implica novação, mas confirmação da obrigação originária, ex vi do artigo 361 do Código Civil.
+Por seu turno, o artigo 202, inciso VI, do Código Civil dispõe que a interrupção da prescrição se dá "por qualquer ato inequívoco, ainda que extrajudicial, que importe reconhecimento do direito pelo devedor".
+Logo, a supracitada confissão de dívida, por constituir ato inequívoco do reconhecimento desta, interrompeu a prescrição.
+Então, o prazo prescricional conta-se da data em que firmado o instrumento, ou seja, 03/12/2015.
+E uma vez que a pretensão de cobrança está consubstanciada no instrumento de confissão de dívida, é aplicável, in casu, o prazo prescricional quinquenal previsto pelo artigo 206, § 5º, inciso I, do Código Civil, segundo o qual prescreve em 5 (cinco) anos "a pretensão de cobrança de dívidas líquidas constantes de instrumento público ou particular".
+Saliente-se que, consoante o artigo 202, caput, do Código Civil, a interrupção da prescrição somente poderá ocorrer uma vez.
+Tendo em vista que a presente ação monitória foi proposta em 18/12/2024, operou-se a prescrição.
+Vale ressaltar que o protesto de fl. 24, realizado em 25/08/2020, não interrompeu o prazo prescricional, porquanto este já havia sido interrompido no ato da assinatura do instrumento de confissão de dívida (fls. 119-120).
+Assim, incidem as Súmulas n. 5 e 7 do STJ, porquanto a pretensão recursal demanda reexame de cláusulas contratuais e reexame do acervo fático-probatório juntado aos autos.
+Nesse sentido: "Não cabe, em recurso especial, reexaminar matéria fático-probatória e a interpretação de cláusulas contratuais (Súmulas n. 5 e 7 do Superior Tribunal de Justiça)" (AgInt no AREsp n. 2.243.705/SP, relatora Ministra Maria Isabel Gallotti, Quarta Turma, DJe de 20/10/2023).
+Confiram-se ainda os seguintes julgados: AgInt no AREsp n. 2.446.415/SP, relator Ministro Humberto Martins, Terceira Turma, DJEN de 20/3/2025; REsp n. 2.106.567/SP, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, DJEN de 5/3/2025; AgInt no AREsp n. 2.572.293/RS, relator Ministro Benedito Gonçalves, Primeira Turma, DJEN de 13/12/2024; AgInt no AgInt no AREsp n. 2.560.748/DF, relator Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 22/11/2024; REsp n. 1.851.431/SC, relator Ministro Paulo Sérgio Domingues, Primeira Turma, DJe de 7/10/2024; REsp n. 1.954.604/MG, relator Ministro Francisco Falcão, Segunda Turma, DJe de 21/3/2024; AgInt no REsp n. 1.995.864/PB, relator Ministro Raul Araújo, Quarta Turma, DJe de 20/10/2023.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do Agravo para não conhecer do Recurso Especial.
+Nos termos do art. 85, § 11, do Código de Processo Civil, majoro os honorários de advogado em desfavor da parte recorrente em 15% sobre o valor já arbitrado nas instâncias de origem, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão de justiça gratuita.
+Publique-se.
+Intimem-se.
+ EMENTA
