@@ -1,0 +1,31 @@
+DECISÃO
+Trata-se de recurso especial interposto por CLAUDIA CRISTINA ALVES CASTRO, com fundamento no art. 105, III, a, da Constituição Federal, contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DO MARANHÃO, assim ementado (fl. 215):
+DIREITO PROCESSUAL CIVIL. APELAÇÃO CÍVEL. EXECUÇÃO INDIVIDUAL DE TÍTULO COLETIVO. AÇÃO ORDINÁRIA DE COBRANÇA COLETIVA PROPOSTA PELO SINTSEP/MA. AÇÃO Nº 6.542/2005. ILEGITIMIDADE DA APELANTE. VEDAÇÃO DECORRENTE DO PRINCÍPIO DA UNICIDADE SINDICAL. RECURSO DESPROVIDO.
+I - Em atenção aos princípios da unicidade e da liberdade sindicais, constatada a existência de sindicato específico (in casu, SINDSAÚDE/MA) para determinada categoria profissional, a este compete a representação dos interesses da classe que representa, inviabilizando que outros sindicatos (in casu, SINTSEP), de maior abrangência, na mesma base territorial, atuem na defesa desses mesmos interesses.
+II - Mantida a ilegitimidade ativa.
+III - Apelação cível desprovida.
+Opostos embargos declaratórios, foram rejeitados (fls. 273-280).
+Alega a parte recorrente violação dos arts. 489, §1º, IV, e 1.022, II, do Código de Processo Civil, porquanto o acórdão recorrido foi omisso e negou prestação jurisdicional, ao não considerar questões relevantes para a aferição da legitimidade ativa da autora.
+Contrarrazões às fls. 299-306.
+Admitido o recurso na origem, os autos vieram a esta Corte.
+É o relatório.
+A insurgência não merece prosperar.
+Da análise dos autos, verifica-se que não há a alegada violação dos arts. 489 e 1.022 do Código de Processo Civil, na medida em que o Tribunal de origem julgou integralmente a lide e solucionou a controvérsia, em conformidade com o que lhe foi apresentado. Não se trata de omissão, contradição ou obscuridade, tampouco de correção de erro material, mas, sim, de inconformismo direto com o resultado do julgamento, que foi contrário aos interesses da insurgente.
+Confira-se, a propósito, o teor do acórdão recorrido (fls. 216-217):
+Consoante relatado, o presente recurso visa reformar da decisão que extinguiu o processo sem julgamento do mérito por ilegitimidade ativa.
+Ressalte-se que o momento adequado para identificar (individualizar) os servidores pertencentes à categoria beneficiada pelo título judicial, só se verifica nas fases posteriores ao reconhecimento do direito, após o trânsito em julgado, isto é, quando a decisão faz coisa julgada ultra partes, mas limitadamente ao grupo, categoria ou classe.
+De acordo com entendimento pacificado do STJ, "o servidor público integrante da categoria beneficiada, desde que comprove essa condição, tem legitimidade para propor execução individual, ainda que não ostente a condição de filiado ou associado da entidade autora da ação de conhecimento".
+Além disso, a jurisprudência pátria firmou-se no sentido de que, em situações envolvendo sindicato com amplo alcance, como é o caso do SINTSEP, o sindicato "genérico" não possui legitimidade para atuar em nome das categorias específicas que tenham representação própria (SINDSAÚDE/MA).
+Conforme contracheque disponível na pág. 4 do ID 13682953, observa-se que a exequente é auxiliar de enfermagem da Secretaria de Estado de Saúde.
+Sendo assim, ela está vinculada a sindicato próprio, o SINDSAÚDE/MA, por isso não pode ser beneficiária/substituída da ação coletiva proposta pelo SINTSEP/MA (processo n. 006542/2005).
+Logo, em atenção aos princípios da unicidade e da liberdade sindicais, constatada a existência de sindicato específico (in casu, SINDSAÚDE/MA) para determinada categoria profissional, a este compete a representação dos interesses da classe que representa, inviabilizando que outros sindicatos (in casu, SINTSEP), de maior abrangência, na mesma base territorial, atuem na defesa desses mesmos interesses.
+Ante tais particularidades, pelo fato de a apelante não poder usufruir de sentença coletiva proposta por outra entidade a qual ela não pertence, entendo por acertada a decisão que reconheceu sua ilegitimidade ativa ad causam para figurar como beneficiária/substituída e exigir, em sede de cumprimento de sentença, a obrigação de fazer encartada na ação coletiva proposta pelo SINTSEP/MA (processo n. 6542/2005).
+(..)
+Dessa forma, constata-se a inexistência de quaisquer vícios, muito menos eventual omissão, tendo o Tribunal a quo se manifestado sobre tod os os pontos indispensáveis à solução da demanda.
+Registre-se que a mera insatisfação com o conteúdo da decisão proferida não importa em violação dos dispositivos legais supramencionados. Com efeito, o fato de o tribunal haver decidido o recurso de forma diversa da defendida nas razões recursais, elegendo fundamentos distintos daqueles propostos pela parte, não configura omissão, contradição ou ausência de fundamentação. Nesse sentido: AgInt no AREsp n. 2.347.060/SP, relator Ministro Afrânio Vilela, Segunda Turma, julgado em 12/8/2024, DJe de 15/8/2024; e AgInt no REsp n. 2.130.408/CE, relator Ministro Sérgio Kukina, Primeira Turma, julgado em 12/8/2024, DJe de 15/8/2024.
+Ademais, "não é o órgão julgador obrigado a rebater, um a um, todos os argumentos trazidos pelas partes em defesa da tese que apresentam. Deve apenas enfrentar a demanda, observando as questões relevantes e imprescindíveis à sua resolução" (AgInt no AREsp n. 1.570.205/SP, relator Ministro Herman Benjamin, Segunda Turma, julgado em 5/12/2023, DJe de 19/4/2024).
+Ante o exposto, com fundamento no art. 255, § 4º, II, do RISTJ, nego provimento ao recurso especial.
+Caso exista nos autos prévia fixação de honorários advocatícios pelas instâncias de origem, determino sua majoração em desfavor da parte recorrente, no importe de 10% sobre o valor já arbitrado, nos termos do art. 85, § 11, do Código de Processo Civil. Deverão ser observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do dispositivo legal acima referido e, também, eventuais legislações extravagantes que tratem do arbitramento de honorários, bem como as hipóteses de concessão da gratuidade de justiça.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL. VIOLAÇÃO DOS ARTS. 489 E 1.022 D O CPC. ALEGADA NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA. MATÉRIA DEVIDAMENTE ANALISADA. RECURSO ESPECIAL A QUE SE NEGA PROVIMENTO.
