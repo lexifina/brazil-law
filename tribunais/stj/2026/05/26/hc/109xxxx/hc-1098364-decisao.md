@@ -1,0 +1,16 @@
+DECISÃO
+ZIVALDO RIBEIRO PICANÇO alega ser vítima de coação ilegal em decorrência de acórdão proferido pelo Tribunal de Justiça do Estado do Pará na Apelação Criminal n. 0001301-85.2015.8.14.0035.
+Consta dos autos que o paciente foi condenado à pena de 5 anos e 4 meses de reclusão, em regime inicial semiaberto, mais multa, pela prática do crime previsto no art. 157, § 2º, I e II, do Código Penal.
+Na inicial do habeas corpus, a defesa aduz, inicialmente, que a condenação se haveria baseado em reconhecimentos pessoais nulos, porquanto realizados sem a observância do rito estabelecido no art. 226 do Código de Processo Penal.
+Alega que a arma de fogo supostamente empregada na prática delitiva não foi apreendida, tampouco periciada, o que, no seu entender, impede a incidência da majorante.
+Assim, requer, liminarmente, a suspensão dos efeitos da condenação até o julgamento definitivo do writ. No mérito, postula a absolvição por insuficiência de provas, ou, subsidiariamente, o afastamento das causas de aumento de pena decorrentes do emprego de arma de fogo e do concurso de pessoas.
+Decido.
+Constato, de início, que este habeas corpus se insurge contra acórdão de apelação criminal publicado em 26/7/2018, transitado em julgado no dia 10/8/2018 (fl. 375). Em 18/5/2026, a defesa impetrou a medida, de modo que o presente writ é substitutivo de revisão criminal.
+Por força do art. 105, I, "e", da Constituição Federal, a competência desta Corte para processar e julgar revisão criminal limita-se às hipóteses de seus próprios julgados. Como não existe no STJ julgamento de mérito passível de revisão em relação à condenação sofrida pelo paciente, forçoso reconhecer a incompetência deste Tribunal para o processamento do presente pedido.
+Importante destacar que esta Corte, em diversas ocasiões, reconheceu a impossibilidade de uso do habeas corpus em substituição à revisão criminal, assim se posicionando: "o trânsito em julgado do acórdão que julga a apelação criminal, sem que haja a inauguração da competência deste Sodalício, torna incognoscível o pedido de habeas corpus" (AgRg no HC n. 805.183/SP, relator Ministro Teodoro Silva Santos, Sexta Turma, julgado em 12/3/2024, DJe de 15/3/2024).
+Na mesma direção, cito, ainda, as seguintes decisões monocráticas: HC n. 905.628/SP, Rel. Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), DJe 17/4/2024; HC n. 905.340/SP, Rel. Ministra Daniela Teixeira, DJe 17/4/2024; HC n. 905.232/SP, Rel. Ministro Messod Azulay Neto, DJe 17/4/2024; HC n. 904.932/PR, Rel. Ministro Antonio Saldanha Palheiro, DJe 16/4/2024.
+Muito embora não se ignore a ampliação do uso do habeas corpus nem a importância dessa ação constitucional para a defesa da liberdade de locomoção, a crescente quantidade de impetrações, que, antes, deveriam ser examinadas em instâncias diversas, prejudica as funções constitucionais desta Corte, em detrimento da eficácia do recurso especial, o que enfraquece a delimitação de teses para trazer uniformidade e previsibilidade ao sistema jurídico.
+Registro, por oportuno, que não constato a presença de manifesta ilegalidade que autorize a concessão da ordem de habeas corpus de ofício.
+À vista do exposto, indefiro liminarmente o habeas corpus.
+Publique-se e intimem-se.
+EMENTA
