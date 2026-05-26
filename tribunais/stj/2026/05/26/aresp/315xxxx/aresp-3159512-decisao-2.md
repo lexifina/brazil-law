@@ -1,0 +1,23 @@
+DECISÃO
+Trata-se de agravo interposto por CAIXA SEGURADORA S/A contra decisão proferida pelo Tribunal de Justiça do Estado do Paraná que não admitiu recurso especial por entender que houve prejudicialidade do recurso especial adesivo, por subordinação ao principal, nos termos do art. 997, § 2º, III, do Código de Processo Civil, com citação de precedentes (fls. 3105-3106).
+Nas razões do presente agravo em recurso especial, a parte agravante alega, em síntese, que a decisão ora recorrida decretou prejudicialidade automática do adesivo, o que não subsiste se o recurso principal for conhecido pelo Superior Tribunal de Justiça, citando o EREsp 1.989.087/RJ, da Segunda Seção (fls. 3141-3143).
+Argumenta que, conhecido o recurso principal manejado pela parte adversa, impõe-se o exame do adesivo, ainda que prejudicado na origem, pois não há exigência de agravo próprio contra a decisão de prejudicialidade do adesivo, segundo a tese uniformizada pela Segunda Seção (fls. 3141-3143).
+Sustenta a necessidade de remessa à Justiça Federal, em razão do Tema 1011 do Supremo Tribunal Federal, transcrevendo as teses fixadas e afirmando interesse jurídico da Caixa Econômica Federal em demandas fundadas em apólice pública do ramo 66, bem como a obrigatoriedade de intimação da empresa pública e eventual deslocamento de competência (fls. 3144-3146).
+Defende o sobrestamento obrigatório do feito em virtude dos Temas 1039 e 1301 do Superior Tribunal de Justiça, com base nos arts. 926, 1.036, 1.037, II, e 1.040 do Código de Processo Civil, além do art. 926, alegando risco de decisões dissonantes e necessidade de observância da uniformização de jurisprudência (fls. 3146-3149).
+Impugnação ao agravo em recurso especial, às fls. 3158-3160, na qual a parte agravada alega que o recurso especial adesivo segue a sorte do principal, nos termos do art. 997, § 2º, III, do Código de Processo Civil, citando precedentes do Superior Tribunal de Justiça e requerendo a manutenção da prejudicialidade do adesivo, com o não provimento do agravo.
+Assim posta a questão, passo a decidir.
+O recurso não merece prosperar.
+O recurso especial adesivo interposto pela Caixa Seguradora S/A foi não admitido na origem porque o recurso especial principal, manejado por Maria de Fátima Cordeiro Marques e outros, teve seguimento obstado. A decisão aplicou o art. 997, § 2º, III, do Código de Processo Civil, segundo o qual o recurso adesivo fica subordinado ao recurso principal e não será conhecido se o recurso principal não for admissível.
+A agravante sustenta que a prejudicialidade do recurso adesivo não poderia ser decretada de forma automática, pois, se o recurso principal vier a ser conhecido no Superior Tribunal de Justiça, o adesivo também deverá ser examinado.
+A tese não altera a conclusão do caso.
+No julgamento do agravo em recurso especial interposto pela parte principal, manteve-se a não admissibilidade do recurso especial principal, diante da ausência de prequestionamento dos dispositivos federais invocados e, ainda, pela incidência das Súmulas 5 e 7/STJ quanto à necessidade de interpretação contratual e reexame de fatos e provas.
+Assim, não há recurso principal conhecido que permita a abertura do exame do recurso adesivo.
+Nos termos do art. 997, § 2º, III, do Código de Processo Civil, o recurso adesivo segue a sorte do recurso principal. Se o recurso principal não ultrapassa o juízo de admissibilidade, o adesivo perde seu pressuposto de cognoscibilidade.
+É conhecida a orientação firmada pela Segunda Seção no EREsp 1.989.087/RJ, no sentido de que, conhecido o recurso especial principal no Superior Tribunal de Justiça, deve-se examinar o recurso especial adesivo, ainda que a origem o tenha considerado prejudicado.
+Essa diretriz, contudo, não socorre a agravante porque pressupõe exatamente o conhecimento do recurso principal no Superior Tribunal de Justiça. No caso, tal pressuposto não se verificou.
+Desse modo, permanece hígida a conclusão de prejudicialidade do recurso especial adesivo.
+Ficam prejudicadas, por consequência, as alegações relativas à competência da Justiça Federal, ao Tema 1011/STF e ao sobrestamento pelos Temas 1039 e 1301/STJ, pois tais questões dependeriam do prévio conhecimento do recurso especial adesivo.
+Em face do exposto, nego provimento ao agravo em recurso especial.
+Nos termos do art. 85, § 11, do Código de Processo Civil, majoro em 10% (dez por cento) a quantia já arbitrada a título de honorários em favor da parte recorrida, observados os limites estabelecidos nos §§ 2º e 3º do referido artigo, ônus suspensos no caso de beneficiário da justiça gratuita.
+Intimem-se.
+EMENTA
