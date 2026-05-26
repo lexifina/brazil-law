@@ -1,0 +1,11 @@
+DECISÃO
+MATEUS LAGO DA SILVA alega sofrer constrangimento ilegal no seu direito de locomoção em decorrência de acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO PARÁ no HC n. 0800174-04.2026.8.14.0000.
+A defesa sustenta nulidade absoluta por ausência de exame de corpo de delito em crimes que deixam vestígios. Afirma que o decreto de prisão preventiva e sua manutenção carecem de fundamentação concreta e de contemporaneidade, inexistindo risco atual à ordem pública, à instrução criminal ou à aplicação da lei penal. Aduz que a denúncia é inepta por descrição genérica dos fatos e ausência de comprovação técnica do alegado arrombamento.
+Requer a revogação da prisão preventiva; o trancamento da ação penal ou o relaxamento da prisão por ausência de justa causa; a declaração de nulidade das decisões que decretaram e mantiveram a custódia; o reconhecimento da inépcia da denúncia; e, subsidiariamente, a substituição da custódia por medidas cautelares diversas.
+Decido.
+Tendo em vista a superveniência da ordem de soltura do acusado, em 13/4/2026, conforme informações obtidas no site da Corte de origem, está caracterizada a prejudicialidade desta impetração, a qual se voltava contra a prisão preventiva do paciente.
+Igualmente, em virtude da pronúncia do réu, a alegação de inépcia da denúncia e ausência de justa causa perderam o objeto, segundo entendimento do STJ.
+Nesse sentido: "A superveniência de sentença de pronúncia torna prejudicado o pedido de trancamento da ação penal, conforme entendimento consolidado nesta Corte Superior, pois a análise da higidez formal da acusação perde sentido quando a instrução já foi concluída e o juízo togado confirma os indícios de autoria e materialidade delitiva" (AgRg no HC n. 840.172/ES, relatora Ministra Daniela Teixeira, Quinta Turma, julgado em 19/2/2025, DJEN de 24/2/2025) e "A superveniência de decisão de pronúncia prejudica a análise do pleito defensivo de trancamento da ação penal, conforme entendimento deste Superior Tribunal de Justiça" (AgRg no RHC n. 152.487/CE, relator Ministro Teodoro Silva Santos, Sexta Turma, julgado em 26/2/2024, DJe de 5/3/2024).
+À vista do exposto, julgo prejudicado o habeas corpus.
+Publique-se  e  intimem-se.
+ EMENTA
