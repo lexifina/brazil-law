@@ -1,0 +1,78 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Sexta Turma, por unanimidade, negar provimento ao agravo regimental, nos termos do voto do Sr. Ministro Relator.
+A Sra. Ministra Nilsoni de Freitas (Desembargadora Convocada do TJDFT) e os Srs. Ministros Og Fernandes, Sebastião Reis Júnior e Rogerio Schietti Cruz votaram com o Sr. Ministro Relator.
+EMENTA
+DIREITO PROCESSUAL PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. CRIMES CONTRA A ORDEM TRIBUTÁRIA. INADMISSÃO DO RECURSO ESPECIAL NA ORIGEM. SÚMULA Nº 7 DO STJ. IMPUGNAÇÃO GENÉRICA NO AGRAVO EM RECURSO ESPECIAL. SÚMULA Nº 182 DO STJ. AGRAVO REGIMENTAL DESPROVIDO.
+I. CASO EM EXAME
+1. Agravo regimental interposto contra decisão monocrática que não conheceu de agravo em recurso especial, por ausência de impugnação específica dos fundamentos da inadmissibilidade, com base na Súmula nº 182 do STJ e nos arts. 21-E, V, e 253, parágrafo único, I, do RISTJ.
+2. A decisão de inadmissibilidade do recurso especial foi fundada na incidência da Súmula nº 7 do STJ, por demandar reexame de fatos e provas.
+II. QUESTÃO EM DISCUSSÃO
+3. A questão em discussão consiste em saber se o agravante impugnou especificamente, de forma suficiente, o óbice da Súmula nº 7 do STJ, afastando a incidência da Súmula nº 182 do STJ e viabilizando o conhecimento do agravo em recurso especial.
+III. RAZÕES DE DECIDIR
+4. O conhecimento do agravo em recurso especial exige a impugnação específica e completa dos fundamentos da decisão de inadmissibilidade, nos termos do princípio da dialeticidade e do art. 253, parágrafo único, I, do RISTJ.
+5. A mera afirmação genérica de que a controvérsia é de direito e que não há necessidade de revolvimento probatório não constitui impugnação específica apta a afastar a incidência da Súmula nº 7 do STJ.
+6. A ausência de cotejo analítico que demonstre, com particularidade, a possibilidade de revaloração jurídica sem reexame do conjunto fático-probatório atrai a aplicação da Súmula nº 182 do STJ, com o consequente não conhecimento do agravo em recurso especial.
+IV. DISPOSITIVO
+7 . Agravo regimental desprovido.
+RELATÓRIO
+Trata-se de agravo regimental interposto por RODRIGO ABRANTES DE OLIVEIRA em face de decisão que não conheceu do agravo em recurso especial, com fundamento na Súmula nº 182 do STJ e nos arts. 21-E, V, e 253, parágrafo único, I, ambos do RISTJ.
+Consoante se extrai dos autos, o agravante foi condenado à pena de 6 meses de detenção, no regime inicial aberto, e a 10 dias-multa, pela prática do crime previsto no art. 2º, inc. II da Lei nº 8.137/90 (fls. 230-237), sendo a condenação integralmente mantida pelo Tribunal de origem, que negou provimento ao recurso de apelação interposto pela defesa (fls. 295-302).
+A defesa interpôs recurso especial, com fulcro no art. 105, III, alíneas "a" e "c", da Constituição Federal, sustentando a imprescindibilidade do dolo específico de apropriação, não bastando o dolo genérico de inadimplemento, como assentou o acórdão recorrido, além de invocar que o não recolhimento adveio de crise financeira com prova testemunhal e falência, jamais analisadas pelo Tribunal de origem, indicando como paradigma o AgRg no AREsp nº 1.916.244/SC (2021/0185129-0). Ao final, requer o conhecimento e provimento do recurso, com a sua absolvição, por ausência de dolo específico e por incompatibilidade do acórdão com a jurisprudência pátria (fls. 356-364).
+O Tribunal de origem inadmitiu o recurso especial com fundamento na incidência da Súmula nº 7/STJ, porquanto a pretensão deduzida demandaria reexame do conjunto fático-probatório dos autos (fls. 375-377).
+Interposto agravo em recurso especial (fls. 381-384), não foi conhecido pela decisão monocrática ora agravada, por ausência de impugnação específica dos fundamentos da decisão de inadmissibilidade (fls. 404-405).
+Nas razões do agravo regimental (fls. 410-412), sustenta o agravante que houve impugnação específica quanto à incidência da Súmula nº 7/STJ, uma vez que, discute questões de direito acerca de fatos que são incontroversos, conforme esculpido no acórdão do Tribunal local, alegando que o mérito do recurso especial não se debruça sobre ter o réu agido com dolo específico ou genérico, e sim parte do pressuposto de que agiu com dolo genérico, uma vez que essa foi a conclusão tomada pelo Tribunal de origem, soberano na análise probatória.
+Requer, ao fim, o conhecimento e provimento do recurso, para que seja reformada a decisão monocrática e conhecido o agravo em recurso especial.
+É o relatório.
+EMENTA
+DIREITO PROCESSUAL PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. CRIMES CONTRA A ORDEM TRIBUTÁRIA. INADMISSÃO DO RECURSO ESPECIAL NA ORIGEM. SÚMULA Nº 7 DO STJ. IMPUGNAÇÃO GENÉRICA NO AGRAVO EM RECURSO ESPECIAL. SÚMULA Nº 182 DO STJ. AGRAVO REGIMENTAL DESPROVIDO.
+I. CASO EM EXAME
+1. Agravo regimental interposto contra decisão monocrática que não conheceu de agravo em recurso especial, por ausência de impugnação específica dos fundamentos da inadmissibilidade, com base na Súmula nº 182 do STJ e nos arts. 21-E, V, e 253, parágrafo único, I, do RISTJ.
+2. A decisão de inadmissibilidade do recurso especial foi fundada na incidência da Súmula nº 7 do STJ, por demandar reexame de fatos e provas.
+II. QUESTÃO EM DISCUSSÃO
+3. A questão em discussão consiste em saber se o agravante impugnou especificamente, de forma suficiente, o óbice da Súmula nº 7 do STJ, afastando a incidência da Súmula nº 182 do STJ e viabilizando o conhecimento do agravo em recurso especial.
+III. RAZÕES DE DECIDIR
+4. O conhecimento do agravo em recurso especial exige a impugnação específica e completa dos fundamentos da decisão de inadmissibilidade, nos termos do princípio da dialeticidade e do art. 253, parágrafo único, I, do RISTJ.
+5. A mera afirmação genérica de que a controvérsia é de direito e que não há necessidade de revolvimento probatório não constitui impugnação específica apta a afastar a incidência da Súmula nº 7 do STJ.
+6. A ausência de cotejo analítico que demonstre, com particularidade, a possibilidade de revaloração jurídica sem reexame do conjunto fático-probatório atrai a aplicação da Súmula nº 182 do STJ, com o consequente não conhecimento do agravo em recurso especial.
+IV. DISPOSITIVO
+7 . Agravo regimental desprovido.
+VOTO
+Presentes os requisitos de admissibilidade, conheço do agravo regimental.
+No mérito, a pretensão recursal não merece acolhimento.
+Consoante assinalado na decisão monocrática, o conhecimento do agravo pressupõe o integral cumprimento do ônus da impugnação específica dos fundamentos da decisão que inadmitiu o recurso especial na origem. Conforme o princípio da dialeticidade, se o agravante não refuta, de maneira pontual e suficiente, cada um dos óbices aplicados, o agravo não supera seu próprio juízo de admissibilidade, o que impede a análise do recurso especial.
+No caso dos autos, a decisão de inadmissibilidade fundamentou-se na incidência da Súmula nº 7 do STJ, por assentar que o acolhimento das pretensões recursais exigiria o revolvimento do conjunto fático-probatório, notadamente "sobre não haver dúvidas de que o acoimado agiu dolosamente no sentido de suprimir impostos e sobre a existência de provas para a sua condenação".
+Não obstante, nas razões do agravo em recurso especial, a defesa limitou-se a afirmar que o debate seria eminentemente de direito, restrito à correta valoração jurídica dos fatos delineados no acórdão recorrido, sustentando que não buscava a reanálise do conjunto de fatos e provas e, por isso, não incidiria o óbice sumular. Todavia, não indicou, de forma concreta e particularizada, de que modo seria possível acolher as pretensões recursais sem revolver as premissas fáticas assentadas no acórdão recorrido.
+Para afastar o impedimento da Súmula nº 7 do STJ, seria imperativo que o recorrente, por meio de um cotejo analítico, demonstrasse que a sua pretensão recursal não demanda a reavaliação do substrato fático-probatório, mas apenas a revaloração jurídica dos fatos já soberanamente delineados no acórdão recorrido. A ausência dessa demonstração técnica, limitando-se a alegações genéricas, torna a impugnação ineficaz e mantém hígido o fundamento da decisão agravada.
+Em outras palavras, era necessário apontar, com precisão, qual questão jurídica poderia ser examinada a partir das premissas fixadas no acórdão, sem reabrir a valoração da prova. Como o agravo não faz essa delimitação e se restringe a negar, em abstrato, a incidência do verbete, não se desincumbe do ônus de impugnação específica.
+Conforme reiteradamente decidido, "são insuficientes, para rebater a incidência da Súmula n. 7 do STJ, assertivas genéricas de que a apreciação do recurso não demanda reexame de provas. O agravante deve demonstrar, com particularidade, que a alteração do entendimento adotado pelo Tribunal de origem independe da apreciação fático-probatória dos autos" (AgRg no AREsp n. 2.176.543/SC, rel. Ministro Rogério Schietti Cruz, Sexta Turma, julgado em 21/03/2023, DJe de 29/09/2023).
+Outros precedentes corroboram essa orientação:
+AGRAVO EM RECURSO ESPECIAL. 1) AGRAVANTE: LUCAS MARCOS TRINDADE BENEVIDES. ASSOCIAÇÃO PARA O TRÁFICO - ART. 35 DA LEI N. 11.343/2006. PROVAS PARA A CONDENAÇÃO. ESTABILIDADE E PERMANÊNCIA DEMONSTRADAS. ALTERAÇÃO. NECESSIDADE DE REEXAME FÁTICO-PROBATÓRIO. SÚMULA N. 7 DO STJ. ART. 59 DO CP. CONDENAÇÕES TRANSITADAS EM JULGADO. RECONHECIMENTO DOS MAUS ANTECEDENTES E DA REINCIDÊNCIA. POSSIBILIDADE. DETRAÇÃO. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULAS NS. 282 E 356 DO STF. REGIME PRISIONAL MAIS GRAVOSO. REINCIDÊNCIA. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL. 2) DEMAIS AGRAVANTES: AGRAVO QUE NÃO COMBATEU OS FUNDAMENTOS DA DECISÃO DENEGATÓRIA DE ADMISSIBILIDADE. INCIDÊNCIA DO VERBETE N. 182 DA SÚMULA DO SUPERIOR TRIBUNAL DE JUSTIÇA. AGRAVO NÃO CONHECIDO.
+1. Para afastar a compreensão das instâncias de origem de que o agravante se associou com estabilidade e permanência para o fim de praticar o crime de tráfico de drogas, seria necessário o revolvimento do acervo fático-probatório amealhado aos autos, providência vedada em recurso especial, a teor da Súmula 7 do STJ.
+2. Havendo mais de uma condenação transitada em julgado, é certo que uma delas pode ser valorada negativamente como maus antecedentes e a outra para configurar a reincidência sem caracterizar bis in idem (ut, AgRg no AREsp n. 2.692.015/SC, relator Ministro Joel Ilan Paciornik, Quinta Turma, DJEN de 14/8/2025.).
+3. O conteúdo do art. 387, § 2º do CPP não foi objeto de debate pelo Tribunal de origem. Incidência das Súmulas ns. 282 e 356 do STF.
+4. A detração do tempo de prisão cautelar é irrelevante para a fixação do regime prisional quando o regime mais gravoso é fundamentado com base na reincidência. (AgRg no AREsp n. 2.746.040/SP, relator Ministro Joel Ilan Paciornik, Quinta Turma, DJEN de 19/5/2025.).
+5. É inviável o agravo que deixa de atacar os fundamentos da decisão denegatória de admissibilidade. Incidência do verbete n. 182 da Súmula desta Corte.
+6. Agravo de Lucas Marcos Trindade Benevides conhecido para não conhecer do recurso especial e não conhecido o agravo de Edivaldo Braz Gomides, Flávio Rodrigues Ramos e Jack son Gomes Faria.
+(AREsp n. 2.977.774/GO, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 21/10/2025, DJEN de 28/10/2025.)
+DIREITO PROCESSUAL PENAL. AGRAVO REGIMENTAL. RECURSO ESPECIAL. SÚMULA 7 DO STJ. IMPUGNAÇÃO ESPECÍFICA. REEXAME DE PROVAS. AGRAVO REGIMENTAL NÃO PROVIDO.
+I. Caso em exame
+1. Agravo regimental interposto contra decisão da Presidência do Superior Tribunal de Justiça que não conheceu de agravo em recurso especial, com fundamento na Súmula 7 do STJ, por ausência de impugnação específica do óbice sumular.
+2. Os agravantes sustentaram que suas teses não demandam revolvimento fático-probatório, mas apenas revaloração jurídica, e pleitearam: (i) absolvição do delito de associação para o tráfico (art. 35 da Lei n. 11.343/2006) por ausência de estabilidade e permanência; (ii) aplicação da causa de diminuição do art. 33, § 4º, da Lei de Drogas; e (iii) fixação de regime inicial aberto ou semiaberto com substituição da pena por restritivas de direitos.
+3. O Ministério Público Federal opinou pelo não provimento do agravo regimental, argumentando que a impugnação ao óbice da Súmula 7 do STJ foi genérica, sem o necessário cotejo específico entre os fatos fixados no acórdão recorrido e as teses jurídicas.
+II. Questão em discussão
+4. A questão em discussão consiste em saber se os agravantes demonstraram, de forma específica, que suas teses recursais prescindem de revolvimento fático-probatório, afastando a incidência da Súmula 7 do STJ.
+III. Razões de decidir
+5. A jurisprudência do STJ exige que, para afastar a incidência da Súmula 7, o recorrente demonstre, de forma pontual, por meio de cotejo analítico entre os fatos estabelecidos no acórdão recorrido e as teses jurídicas, que a solução da controvérsia não demanda reexame do conjunto fático-probatório.
+6. No caso concreto, os agravantes limitaram-se a alegar genericamente que suas teses não exigem revolvimento probatório, sem demonstrar, de forma específica, como seria possível acolher suas pretensões sem revisar o conjunto fático-probatório valorado pelas instâncias ordinárias.
+7. O acórdão recorrido assentou a configuração do delito de associação para o tráfico com base em elementos concretos, como troca de mensagens, fotos, vídeos, confissões judiciais, depoimentos policiais e apreensão de quantidade expressiva de entorpecentes, concluindo pela estabilidade e permanência da associação por período superior a um mês, com divisão de tarefas entre os agentes.
+8. A pretensão de absolvição do delito de associação para o tráfico ou de reconhecimento da causa de diminuição do art. 33, § 4º, da Lei de Drogas demandaria inevitável reexame do conjunto probatório, providência vedada pela Súmula 7 do STJ.
+9. A decisão agravada aplicou corretamente o verbete sumular, e o agravo regimental não trouxe elementos aptos a modificar tal conclusão.
+IV. Dispositivo e tese
+10. Resultado do Julgamento: Agravo regimental não provido.
+Tese de julgamento: 1. Para afastar a incidência da Súmula 7 do STJ, é necessário demonstrar, de forma específica, por meio de cotejo analítico entre os fatos fixados no acórdão recorrido e as teses jurídicas, que a solução da controvérsia não demanda reexame do conjunto fático-probatório. 2. A ausência de impugnação específica ao óbice da Súmula 7 do STJ atrai a aplicação da Súmula 182 do STJ. Dispositivos relevantes citados: Lei n. 11.343/2006, arts. 33, § 4º, e 35; Súmulas 7 e 182 do STJ.
+Jurisprudência relevante citada: STJ, AgRg no AREsp 2.592.264/SP, Rel. Min. Carlos Cini Marchionatti, Quinta Turma, julgado em 05.08.2025, DJEN 14.08.2025.
+(AgRg no AREsp n. 2.984.983/SP, relator Ministro Messod Azulay Neto, Quinta Turma, julgado em 21/10/2025, DJEN de 27/10/2025.)
+Diante da impugnação genérica ao óbice da Súmula nº 7 do STJ, incide a Súmula nº 182 do STJ, sendo cabível o não conhecimento do agravo, nos termos do art. 932, inciso III, do CPC, aplicável ao processo penal por força do art. 3º do Código de Processo Penal, com binado com o art. 253, parágrafo único, inciso I, do RISTJ, que exige o ataque concreto e fundamentado a todos os fundamentos da decisão agravada.
+Tudo considerado, o agravo regimental não trouxe fundamentos novos capazes de infirmar a decisão monocrática impugnada, que não conheceu do agravo em recurso especial, a qual deve ser mantida por seus próprios fundamentos.
+Ante o exposto, nego provimento ao agravo regimental.
+É como voto.
