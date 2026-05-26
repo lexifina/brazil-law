@@ -1,0 +1,46 @@
+DECISÃO
+Trata-se de recurso em mandado de segurança interposto por João de Deus dos Santos contra acórdão do Tribunal de Justiça do Estado da Bahia, assim ementado (fls. 98-99):
+MANDADO DE SEGURANÇA - IMPUGNAÇÃO A ASSISTÊNCIA JUDICIÁRIA GRATUITA QUE SE JULGA PELA IMPROCEDÊNCIA - RELAÇÃO DE TRATO SUCESSIVO - DECADÊNCIA E PRESCRIÇÃO - NÃO INCIDÊNCIA - POLICIAL MILITAR QUE PASSOU A INATIVIDADE OCUPANDO A PATENTE DE 1º SARGENTO - PROVENTOS PAGOS SOBRE A PATENTE DE 1º TENENTE - CORREÇÃO - PROMOÇÃO NA CARREIRA QUE DEVE OBEDECER AOS PRECEITOS LEGAIS - AUSÊNCIA DE PROVA DE CUMPRIMENTO DO INTERSTÍCIO NECESSÁRIO NA PATENTE PARA EVOLUÇÃO - AÇÃO MANDAMENTAL QUE NÃO SE PRESTA A SUPRIR SUPOSTAS OMISSÕES DA LEI - AUSÊNCIA DE COMPROVAÇÃO DOS REQUISITOS NECESSÁRIOS PARA PROMOÇÃO - SEGURANÇA DENEGADA
+1. Impugnação à assistência judiciária gratuita que se julga pela improcedência em vista da não apresentação de fatos específicos e objetivos que permitam rever o deferimento da benesse.
+2. A relação discutida no caso em comento possui natureza omissiva, de caráter alimentar e trato sucessivo, sendo renovada mensalmente. Dessa forma, também renova-se continuamente o prazo previsto em lei para a impetração do mandado de segurança não incidindo no caso em tela a prescrição de fundo de direito ou decadência.
+3. Foram juntados aos autos documentos que demonstram que o mesmo passou a inatividade quando ostentava a patente de 1º Sargento, passando a receber proventos pela patente de 1º Tenente no ano de 2012, conforme BGO juntado aos autos.
+4. O impetrante não comprovou, ainda, ter cumprido o requisito temporal de permanecer o tempo mínimo de 84 (oitenta e quatro) meses na patente de 1º Sargento e que, tendo cumprido o prazo, tenha se inscrito em lista para participar do curso de formação para patente superior, muito menos que tenha sido aprovado no mesmo conforme exige a lei vigente, na forma do art. 134.
+5. A parte impetrante não se desincumbiu do ônus de provar que cumpriu os requisitos legais necessários à promoção para o posto de 1º Tenente PM, muito menos que tenha sido preterido em relação a outros policiais, cumprindo lembrar que a promoção não decorre apenas cumprimento do interstício ou do tempo de função policial militar exercido.
+6. Segurança denegada.
+Nas razões recursais alega-se que tendo a graduação do recorrente sido suprimida por força de dispositivo legal (Lei 7.145/1997), ele deveria ter sido reclassificado para o Posto de 1º Tenente PM, por questão de isonomia, com os proventos calculados sobre o posto imediatamente superior, qual seja, Capitão PM.
+Requer-se, ao final, seja conhecido e provido o presente recurso "para que seja CONCEDIDA A SEGURANÇA PLEITEADA EM DEFINITIVO, de maneira a reformar o Acordão proferido, especialmente para condenar o Estado da Bahia a promover o impetrante ao posto de 1º Tenente PM, recalcular o valor dos proventos, tomando-se por base a graduação de Capitão PM, nos termos das Leis n. 7.990/2001, 7.145/97, Constituição Federal e Constituição do Estado da Bahia" (fl. 126).
+Sem contrarrazões.
+O Ministério Público Federal, às fls. 139-143, manifesta-se pelo "não conhecimento do recurso ordinário".
+É o relatório. Passo a decidir.
+Consigne-se inicialmente que o recurso foi interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015, devendo ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+Registre-se também que é possível ao relator dar ou negar provimento ao recurso em decisão monocrática, nas hipóteses em que há jurisprudência dominante quanto ao tema, como autorizado pelo art. 34, XVIII, "b", do RISTJ e pela Súmula 568/STJ.
+A pretensão do recorrente, manifestada via mandado de segurança impetrado contra ato atribuído ao Secretário da Administração do Estado da Bahia, cingia-se à condenação do ente público a garantir o direito do impetrante à promoção ao posto de 1º Tenente PM, com os respectivos vencimentos calculados com base no posto de Capitão PM (fl. 15).
+Ao denegar a segurança, o Tribunal de origem assim manifestou-se (fls. 107-111, com grifos nossos):
+De logo se mostra incabível a pretensão da parte impetrante em ser promovido na carreira, mesmo estando na inatividade e utilizando para isso o rótulo de "reclassificação", com vistas a obter um avanço vertical na estrutura hierárquica da corporação, de modo que seja alçado à patente 1º Tenente, como se efetivo estivesse, em face da extinção das graduações e postos intermediários e, como consequência, que seus proventos sejam calculados com base no soldo de Capitão.
+O impetrante passou à reserva quando ostentava a patente de 1º Sargento, passando a inatividade recebendo remuneração de 1º Tenente.
+O pleito está baseado em afirmação falsa, sugerindo a extinção de patentes e interstício suficiente para a ser promovido a patente de 1º Tenente.
+ ..
+Importante observar, ainda, que não há nos autos prova de que tenha o impetrante cumprido o interstício necessário de 84 (oitenta e quatro) meses na patente de 1º Sargento, necessário para promoção.
+O Estatuto da Polícia Militar, lei 7.990/01, estabelece uma série de requisitos para promoção em seus artigos 134 e 135.
+ ..
+No caso dos autos o impetrante não comprovou ter cumprido o requisito temporal de permanecer o tempo mínimo de 84 (oitenta e quatro) meses na patente de 1º Sargento e que, tendo cumprido o prazo, tenha se inscrito em lista para participar do curso de formação para patente superior, muito menos que tenha sido aprovado no mesmo conforme exige a lei vigente.
+ ..
+Mais uma vez sem prova de que estivesse na lista de acesso ou que fosse o mais antigo da escala numérica.
+Em verdade, com as vênias de estilo, alguns impetrantes apresentam a ação sem sequer saber direito sua real situação e o direito que desejam seja aplicado para lhe garantir o que requerem.
+A prova dos autos, colacionada pela própria parte impetrante deixa claro que o mesmo fez curso apenas para a patente de 1º Sargento e ali permaneceu até a inatividade sem comprovar interstício necessário e novo curso que o levasse a patente de 1º Tenente.
+A concessão da segurança quebraria a isonomia entre os iguais que respeitaram o interstício e se empenharam em se inscrever e serem aprovados no curso que lhe possibilitou a ascensão a patente de 1º Tenente.
+Dura lex sed lex e o mandado de segurança não é via adequada para suprir possíveis omissões legislativas.
+Não havendo a complementação normativa necessária, inexiste amparo legal para a concessão da segurança, não podendo o Poder Judiciário suprir a alegada omissão legislativa, sob pena de violação ao princípio da separação de poderes.
+Também não se pode autorizar a concessão de promoção com base tão somente na alegação genérica de infringência a princípios constitucionais e infraconstitucionais, sendo oportuno pontuar que a omissão legislativa possui os meios jurídicos próprios para ser eventualmente suprida.
+Imperioso perceber que não há nos autos prova de realização dos cursos necessários para ascensão na carreira ou mesmo tentativa de inscrição e participação nos mesmos que tenham sido negadas.
+O Estatuto da PMBA estabelece a forma de ingresso na carreira de Oficial PM, estabelecendo que a ascensão dependeria da prévia conclusão de curso de formação realizado na própria Instituição, cujo processo seletivo é fixado por meio de regulamento, para além do interstício.
+Embora a promoção para o posto de 1º Tenente PM ocorra pelo critério de antiguidade, tal análise ocorre com relação aos policiais militares que tenham concluído o referido curso.
+A parte impetrante não se desincumbiu do ônus de provar que cumpriu os requisitos legais necessários à promoção para o posto de 1º Tenente PM, cumprindo lembrar que a promoção não decorre apenas cumprimento do interstício mínimo na graduação de 1º Sargento PM.
+O detido exame das razões do recurso ordinário, contudo, evidencia que a parte recorrente não desenvolveu argumentação visando desconstituir o fundamento do acórdão recorrido concernente à ausência de comprovação do atendimento de qualquer dos requisitos exigidos para a pretendida promoção, ou seja, não impugnou especificamente as razões de decidir que, por si só, respaldam o resultado do julgamento proferido pela Corte de origem, o que conduz ao não conhecimento da insurgência recursal face a incidência da Súmula 283/STF.
+A propósito:
+A Súmula nº 283 do STF prestigia o princípio da dialeticidade, por isso não se limita ao recurso extraordinário, também incidindo, por analogia, no recurso ordinário, quando o interessado não impugna, especificamente, fundamento suficiente para a manutenção do acórdão recorrido (AgRg no RMS 30.555/MG, Sexta Turma, relator Ministro OG FERNANDES, DJe 1º/8/2012).
+Nesse mesmo sentido: AgInt no RMS 55.110/MG, relatora Ministra Regina Helena Costa, Primeira Turma, DJe 1/3/2018; AgInt nos EDcl no RMS 37.967/MT, relatora Ministra Assusete Magalhães, Segunda Turma, DJe 13/10/2017.
+Ante o exposto, não conheço do recurso ordinário.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL E ADMINISTRATIVO. RECURSO EM MANDADO DE SEGURANÇA. FUNDAMENTO AUTÔNOMO E SUFICIENTE NÃO IMPUGNADO. INCIDÊNCIA ANALÓGICA DA SÚMULA 283/STF. RECURSO NÃO CONHECIDO.
