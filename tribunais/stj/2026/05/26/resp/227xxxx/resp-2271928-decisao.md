@@ -1,0 +1,80 @@
+DECISÃO
+Trata-se de recurso especial interposto pelo MINISTÉRIO PÚBLICO DO ESTADO DO RIO GRANDE DO SUL, com fundamento no art. 105, III, "a", da Constituição da República, em oposição a acórdão proferido pelo respectivo Tribunal de Justiça, assim ementado:
+"DIREITO PENAL. APELAÇÃO CRIMINAL. TRÁFICO DE DROGAS. PORTE DE ARMA DE FOGO. CAUSA DE AUMENTO DE PENA. TRÁFICO PRIVILEGIADO. ACORDO DE NÃO PERSECUÇÃO PENAL. DESPROVIMENTO DO RECURSO.
+I. CASO EM EXAME:
+1. Apelação criminal interposta pelo Ministério Público contra sentença que condenou o réu pelo crime de tráfico de drogas, reconhecendo o porte de arma de fogo como causa de aumento de pena e aplicando a causa de diminuição do tráfico privilegiado.
+II. QUESTÃO EM DISCUSSÃO:
+1. Há duas questões em discussão: (i) a possibilidade de considerar o porte de arma de fogo como crime autônomo, conforme descrito na denúncia; (ii) o cabimento da causa de diminuição de pena do tráfico privilegiado, reconhecida na sentença.
+III. RAZÕES DE DECIDIR:
+1. O porte de arma de fogo não configura crime autônomo, mas causa especial de aumento de pena do tráfico de drogas, conforme art. 40, IV, da Lei nº 11.343/06, pois ficou demonstrado o nexo finalístico entre o uso da arma e a traficância.
+2. A decisão está alinhada com o Tema 1259 do STJ, que estabelece que a majorante do art. 40, IV, da Lei nº 11.343/2006 se aplica quando há nexo finalístico entre o uso da arma e o tráfico de drogas.
+3. O reconhecimento do tráfico privilegiado é adequado, considerando a primariedade do réu, sua idade (18 anos à época do fato) e a ausência de elementos que indiquem integração a organização criminosa.
+4. O réu preenche os requisitos para o Acordo de Não Persecução Penal, por ser primário, ter sido condenado à pena inferior a 4 anos por crime sem violência ou grave ameaça, e não ter sido beneficiado com institutos despenalizadores nos últimos 5 anos.
+5. Conforme o Tema Repetitivo 1098 do STJ, o ANPP possui natureza híbrida e deve ser aplicado retroativamente, sendo cabível em processos em andamento quando da entrada em vigor da Lei nº 13.964/2019, desde que o pedido tenha sido feito antes do trânsito em julgado da condenação.
+IV. DISPOSITIVO E TESE:
+1. Recurso desprovido, com suspensão da eficácia do acórdão até a resolução quanto ao acordo de não persecução penal.
+Tese de julgamento: 1. O porte de arma de fogo configura causa de aumento de pena do tráfico de drogas, e não crime autônomo, quando demonstrado o nexo finalístico entre o uso da arma e a traficância, sendo a arma utilizada para garantir o sucesso da atividade criminosa." (e-STJ, fl. 145)
+Os embargos de declaração opostos foram rejeitados (e-STJ, fl. 163).
+O Parquet aponta ofensa ao art. 33, §4º, da Lei 11.343/2006, alegando a possibilidade de utilização supletiva da quantidade de drogas apreendidas para afastar o tráfico privilegiado, quando essa, conjugada com outras circunstâncias do caso, deixar caracterizada a dedicação do agente ao narcotráfico, tal como ocorrido nos autos.
+Requer, assim, seja afastada a causa de diminuição de pena prevista no §4º do art. 33 da Lei n. 11.343/06, pois evidente a dedicação da ora recorrido a atividades criminosas (e-STJ, fls. 166-173).
+Foram apresentadas as contrarrazões (e-STJ, fl. 197-202).
+O recurso especial foi admitido na origem (e-STJ, fls. 203-207).
+O Ministério Público Federal manifestou-se pelo conhecimento e provimento do recurso especial. (e-STJ, fls. 218-223).
+É o relatório.
+Decido.
+Consoante se verifica dos autos, o réu foi condenado, em primeira instância, como incurso no art. 33 da Lei 11.343/06, à pena de 01 ano, 11 meses e 10 dias de reclusão, no regime inicial aberto, mais 194 dias-multa. A pena privativa de liberdade foi substituída por duas restritivas de direito (e-STJ, fl. 103).
+O Tribunal de Justiça do Estado de Minas Gerais, ao apreciar a apelação ministerial, manteve a aplicação da redutora prevista no art. 33, §4º, da Lei 11.343/06, bem como os demais termos da sentença condenatória, com base nos seguintes fundamentos:
+"Igualmente se dá no reconhecimento do privilégio.
+Nesta parte, o recurso especula a reiteração delitiva do réu, ao arrepio da evidência sobre a primariedade e ausência de indicação sobre integração a organização criminosa.
+De registrar que o increpado contava com dezoito anos de idade à época do fato, o que, outrossim, milita em favor do privilégio concedido." (e-STJ, fl. 148).
+O voto divergente, por sua vez, assim se manifestou:
+"Com a devida vênia, encaminho divergência parcial em relação ao voto proferido pelo eminente Eminente Relator, quanto à manutenção do tráfico privilegiado.
+Tráfico Privilegiado:
+O § 4º do artigo 33 da Lei n.º 11.343/06 exige, para tornar possível sua aplicação, que o réu, cumulativamente: (i) seja primário; (ii.) possua bons antecedentes; (iii.) não se dedique às atividades criminosas;
+e (iv.) não integre organização criminosa.
+A "dedicação a atividades criminosas" é um conceito jurídico indeterminado, isto é, não possui uma definição legal exata, de sorte que a demarcação do seu conteúdo depende da interpretação e valoração das circunstâncias do caso concreto.
+Nessa linha, o Superior Tribunal de Justiça, enquanto Corte responsável pela uniformização da interpretação da legislação infraconstitucional, entende que a dedicação às atividades criminosas deve ser verificada concretamente nos autos, por meio de uma análise das particularidades de cada caso, especialmente mediante o exame de como se deram as circunstâncias da apreensão, verificando-se a quantidade e a natureza do entorpecente, bem como a existência de apetrechos vinculados à traficância, utilização de carros, e a forma de acomodação do entorpecente. A título exemplificativo, a dedicação a atividades criminosas pode ser comprovada por qualquer elemento de prova idôneo, tais como escutas telefônicas, relatórios de monitoramento de atividades criminosas, documentos que comprovem contatos delitivos duradouros ou qualquer outra prova demonstrativa da dedicação habitual ao crime.
+De um viés negativo, segundo a atual jurisprudência do STJ: (i.) é vedada a utilização de inquéritos e/ou ações penais em curso para impedir a aplicação do art. 33, § 4º, da Lei n.º 11.343/06 (Tema Repetitivo 1139); e (ii.) a quantidade de drogas, por si só, não é suficiente para afastar o reconhecimento da minorante aludida (Tema Repetitivo 1154).
+Na linha da jurisprudência das Cortes Superiores, a dedicação a atividades criminosas deve ser verificada concretamente nos autos, por meio de uma análise das particularidades de cada caso, especialmente as circunstâncias da apreensão, isto é, se foram encontrados apetrechos vinculados à traficância e/ou armas de fogo e munições.
+No presente caso, embora seja o réu tecnicamente primário ( evento 57, CERTANTCRIM5 ), foram apreendidos consigo 352 porções de crack, pesando 35g; e 31 porções de cocaína, pesando 19g; além de arma de fogo e munições, conforme descrito no auto de apreensão (processo 5111053-96.2024.8.21.0001/RS, evento 1, AUTOCIRCUNS4).
+Diante de tal contexto, não se pode dizer que seja o réu mero traficante ocasional ou de "primeira viagem", o qual a lei visa beneficiar com uma minoração na pena. Ao contrário, a apreensão de arma de fogo e munições, denota, a meu sentir, a evidente dedicação do réu às atividades criminosas.
+Desta feita, entendo que o réu não faz jus à benesse." (e-STJ, fl. 150, grifou-se).
+Sobre o tema, cumpre registrar que, de acordo com o § 4º do art. 33 da Lei n. 11.343/2006, os condenados pelo crime de tráfico de drogas terão a pena reduzida, de um sexto a dois terços, quando forem reconhecidamente primários, possuírem bons antecedentes e não se dedicarem a atividades criminosas ou integrarem organizações criminosas.
+O entendimento desta Corte é de que a mencionada norma legal tem como objetivo beneficiar, apenas, pequenos e eventuais traficantes, não alcançando aqueles que fazem do tráfico de drogas um meio de vida (AgRg no AREsp 648.408/SP, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, Dje 5/10/2015; AgRg no REsp 1423806/SP; Rel. Ministro GURGEL DE FARIA, QUINTA TURMA, DJe 20/8/2015).
+Tem-se decidido também que a quantidade de droga e as demais circunstâncias do art. 59 do Código Penal devem servir de parâmetro para a definição do quantum de redução - de um sexto até dois terços - e para se constatar a dedicação do agente ao tráfico de entorpecentes ou de sua participação em organização criminosa, a fim de obstar a incidência do referido benefício legal (AgRg no AREsp 628.686/MG, Rel. Ministra MARIA THEREZA DE ASSIS MOURA, SEXTA TURMA, DJe 2/3/2015).
+Da leitura do voto divergente, verifica-se que, além da apreensão de 352 porções de crack, pesando 35g; e 31 porções de cocaína, pesando 19g, já utilizados na primeira etapa da dosimetria para valorar negativamente o art. 42 da Lei 11.343/2006, também foi encontrado em poder do acusado uma arma de fogo e munições, conforme descrito no auto de apreensão de fls. 30-31 (e-STJ).
+Observa-se, portanto, que a quantidade e a variedade de drogas, devidamente fracionadas e embaladas para a comercialização, aliadas à apreensão de arma de fogo, impede a aplicação da norma legal em questão, cuja finalidade é favorecer o pequeno e o eventual traficante.
+Nesse contexto, ainda que certificada a primariedade e os bons antecedentes do acusado, é inviável a aplicação da minorante do art. 33, § 4º, da Lei 11.343/2006.
+A seguir, julgados que respaldam esse entendimento:
+" ..
+2. Fato relevante e pedido. O Agravante alega ocorrência de bis in idem na dosimetria, sob o argumento de que a quantidade e natureza das drogas, bem como a apreensão de arma de fogo e de quantia em dinheiro, teriam sido utilizadas tanto para exasperar a pena-base (com fundamento no art. 42 da Lei n. 11.343/2006) quanto para afastar a causa de diminuição de pena do tráfico privilegiado (art. 33, § 4º, da Lei n. 11.343/2006). Requer o afastamento da exasperação, o reconhecimento do tráfico privilegiado e, subsidiariamente, a limitação da fração de aumento da pena-base ao patamar de 1/6 sobre a pena mínima.
+II. QUESTÃO EM DISCUSSÃO
+3. A questão em discussão consiste em: (i) saber se houve bis in idem na dosimetria da pena ao se utilizar a quantidade e a natureza da droga, bem como a apreensão de arma de fogo e dinheiro, para exasperar a pena-base e para afastar a causa de diminuição de pena prevista no art. 33, § 4º, da Lei n. 11.343/2006; e (ii) saber se a fração de aumento aplicada na primeira fase da dosimetria, em razão da quantidade e natureza das drogas apreendidas, revela desproporcionalidade capaz de ser revista na via estreita do habeas corpus.
+III. RAZÕES DE DECIDIR
+4. As instâncias ordinárias, para afastar a causa de diminuição do tráfico privilegiado, não se limitaram à quantidade de droga, tendo fundamentado a negativa também nas circunstâncias da prisão em flagrante, na apreensão de arma de fogo e de quantia em dinheiro, elementos concretos que evidenciam a dedicação do condenado à atividade criminosa e afastam a configuração de bis in idem.
+5. A jurisprudência do Superior Tribunal de Justiça admite a utilização da quantidade e da natureza da droga tanto para exasperar a pena-base quanto, em conjunto com outros elementos objetivos (como circunstâncias da apreensão, arma de fogo, dinheiro, modus operandi e petrechos do tráfico), para afastar a minorante do art. 33, § 4º, da Lei n. 11.343/2006, sem violação ao princípio do ne bis in idem.
+6. A revisão da conclusão das instâncias ordinárias de que o condenado se dedicava às atividades criminosas, à vista da elevada quantidade e nocividade das drogas apreendidas, da arma de fogo e do dinheiro encontrados nas circunstâncias do flagrante, demandaria reexame do conjunto fático-probatório, providência incompatível com a via estreita do habeas corpus e, por conseguinte, do agravo regimental que nele se insere.
+7. A exasperação da pena-base da forma apresentada, em razão da expressiva quantidade e da natureza altamente lesiva da droga apreendida (vultosa quantidade de cocaína distribuída em diversos invólucros, além de porções de maconha), mostra-se compatível com os princípios da razoabilidade e proporcionalidade e está em consonância com o art. 42 da Lei n. 11.343/2006 e com a jurisprudência consolidada do Superior Tribunal de Justiça.
+8. A dosimetria da pena insere-se no âmbito de discricionariedade vinculada do julgador, de modo que somente se admite a intervenção desta Corte Superior em hipóteses de manifesta violação aos parâmetros legais ou de flagrante desproporcionalidade, circunstâncias não evidenciadas no caso concreto.
+IV. DISPOSITIVO E TESE
+9. Resultado do Julgamento: Agravo regimental conhecido e desprovido, mantida a decisão monocrática que restabeleceu a pena e o regime fixados pelo Tribunal de origem.
+Tese de julgamento:
+1. A utilização da quantidade e da natureza da droga para exasperar a pena-base e, conjugadas com outros elementos concretos (como arma de fogo, dinheiro e circunstâncias da prisão em flagrante), para afastar a causa de diminuição do art. 33, § 4º, da Lei n. 11.343/2006, não configura bis in idem.
+2. A expressiva quantidade e a natureza especialmente nociva da droga apreendida, nos termos do art. 42 da Lei n. 11.343/2006, legitimam a elevação da pena-base em fração superior ao mínimo, desde que concretamente fundamentada, não cabendo sua revisão em habeas corpus salvo em hipóteses de flagrante desproporcionalidade.
+3. A negativa da minorante do tráfico privilegiado, quando lastreada em circunstâncias fáticas concretas que evidenciam a dedicação do agente à atividade criminosa, não pode ser revertida na via estreita do habeas corpus, por exigir revolvimento do conjunto fático-probatório.
+(..)"
+(AgRg no HC n. 1.059.345/MG, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 6/5/2026, DJEN de 11/5/2026.)
+"PENAL E PROCESSUAL PENAL. HABEAS CORPUS. TRÁFICO DE DROGAS. CONDENAÇÃO TRANSITADA EM JULGADO. PRETENSÃO DE REVISÃO. UTILIZAÇÃO INDEVIDA DA VIA ELEITA. DOSIMETRIA DA PENA. CONDENAÇÃO IMPOSTA PELO TRIBUNAL. VIA ELEITA INADEQUADA. PENA-BASE. RECRUDESCIMENTO EM RAZÃO DA GRANDE QUANTIDADE DE ENTORPECENTES. LEGALIDADE. PRECEDENTES. NEGATIVA DE INCIDÊNCIA DA MINORANTE DO TRÁFICO PRIVILEGIADO E APLICAÇÃO DA CAUSA DE AUMENTO DE PENA PELO EMPREGO DE ARMA DE FOGO. FUNDAMENTAÇÃO. ELEMENTOS CONCRETOS. CONSTRANGIMENTO ILEGAL. AUSÊNCIA. CONCLUSÃO DIVERSA. NECESSIDADE DE REEXAME DE FATOS E PROVAS. IMPOSSIBILIDADE.
+Ordem denegada."
+(HC n. 976.119/RJ, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 28/5/2025, DJEN de 2/6/2025.)
+Desse modo, deve prevalecer o voto vencido (e-STJ, fls. 150-151) que não aplicou a minorante do art. 33, §4º, da Lei de Drogas e condenou o réu à pena de 5 anos e 10 meses de reclusão, mais 583 dias-multa, bem como fixou o regime inicial semiaberto para o resgate da sanção e reconheceu a impossibilidade de substituição da pena privativa de liberdade por restritivas de direitos.
+Registre-se, por oportuno, que a circunstância judicial do art. 42 da LAD foi considerada desfavorável, o que já seria suficiente, por si só, à fixação do regime inicial mais gravoso (fechado), ainda que a pena definitiva fosse estabelecida abaixo do patamar de 08 anos.
+Corrobora:
+" ..
+6. Consoante entendimento jurisprudencial desta Corte Superior, a existência de circunstância judicial desfavorável, com a consequente fixação da pena-base acima do mínimo legal, autoriza a determinação de regime inicial mais gravoso do que o cabível em razão do quantum de pena cominado.
+Omissis.
+8. Agravo regimental a que se nega provimento." (AgRg no HC n. 775.522/PB, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 25/10/2022, DJe de 7/11/2022.)
+Entretanto, tendo em vista a observância do princípio da non reformatio in pejus, fica mantido o modo semiaberto estabelecido no voto divergente.
+Ante o exposto, dou provimento ao recurso especial, a fim de afastar a minorante prevista no §4º do art. 33 da Lei 11.343/2002 e redimensionar a pena do recorrido, nos termos da fundamentação.
+Publique-se. Intimem-se.
+EMENTA
