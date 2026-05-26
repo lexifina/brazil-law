@@ -1,0 +1,51 @@
+DECISÃO:
+Vistos.
+Trata-se de embargos de declaração (e-doc. 127) opostos contra decisão mediante a qual julguei prejudicado o recurso quanto ao recorrente Márcio Barbosa Vasconcelos e neguei seguimento ao recurso quanto ao recorrente Lucas Barbosa Vasconcelos, com base no entendimento jurisprudencial desta Corte (e-doc. 125).
+Os embargantes apontam haver omissão na decisão ora embargada, ao argumento de que
+
+“Vossa Excelência julgou prejudicado o recurso quanto ao Embargante Márcio Barbosa Vasconcelos, sob o fundamento de que a ordem concedida no HC nº 256.141/GO já alcançou o objetivo de declarar a ilicitude das provas e determinar o trancamento da persecução penal.
+Contudo, a r. decisão padece de omissão quanto à eficácia imediata desse reconhecimento no presente feito. Para evitar que as instâncias ordinárias mantenham o cumprimento da pena ou os efeitos da condenação agora nula, é indispensável que este Pretório Excelso determine expressamente a cassação do acórdão do Tribunal de Justiça de Goiás (TJGO). Conforme remansosa jurisprudência desta Corte, a nulidade por incompetência absoluta é matéria de ordem pública e atinge todos os atos do processo”. (p. 2-3)
+
+No que se refere ao embargante Lucas Barbosa Vasconcelos, declaram que “a decisão embargada foi omissa ao ignorar o pedido de extensão dos efeitos favoráveis ao corréu, calcado no artigo 580 do Código de Processo Penal.”
+Ao fim, requerem o provimento dos presentes embargos para
+
+“1. Sanar a omissão, esclarecendo que a prejudicialidade do recurso de MÁRCIO BARBOSA VASCONCELOS importa no trancamento imediato da Ação Penal nº 5160430- 09.2022.8.09.0173 e na cassação do acórdão condenatório do TJGO;
+2. Atribuir efeitos infringentes para sanar a omissão e a contradição quanto a LUCAS BARBOSA VASCONCELOS, aplicando-se a extensão do benefício (Art. 580 do CPP), de modo a reconhecer a ilicitude das provas também em relação a ele e julgar seu recurso igualmente prejudicado;
+3. Determinar a absolvição de ambos os Embargantes e o arquivamento definitivo do feito, com a devida comunicação ao Tribunal de origem.”
+É o relatório do essencial. Decido.
+Os embargos não comportam acolhida, pois não há hipótese autorizadora de sua oposição.
+Com efeito, a decisão embargada não incorreu em omissão, contradição ou obscuridade, tendo o julgador decidido, fundamentadamente e de forma clara e objetiva, todas as questões postas em julgamento, nos limites necessários ao deslinde do feito e de acordo com a jurisprudência desta Corte (HC nº 124.900/AM, Tribunal Pleno, de minha relatoria, DJe de 3/8/16; HC 215.009, Rel. Min. Nunes Marques, DJe de 26/8/22; RHC 220.941, Rel. Min. Roberto Barroso, DJe de 17/11/22; HC 212.693, Rel. Min. Ricardo Lewandowski, DJe de 7/4/22.
+No que se refere ao embargante Márcio Barbosa Vasconcelos, a decisão foi clara ao considerar o recurso prejudicado ante o julgamento do HC nº 256.141/GO.
+Naquela ocasião, foi determinado o trancamento do Inquérito Policial n.º 181/2014, do Procedimento Investigatório Criminal n.º 001/2015 e da Ação Penal nº 5160430-09.2022.8.09.0173, bem como quaisquer outros processos ou procedimentos que se sirvam das provas declaradas ilícitas, sem prejuízo de eventual nova instauração de inquérito sob o crivo do devido processo legal.
+Assim, se mostra inviável a determinação de novo trancamento da ação penal, uma vez que tal deliberação já foi deferida nos autos do habeas corpus.
+Para melhor esclarecimento, transcrevo trecho da decisão de concessão da ordem de habeas corpus:
+
+“Nesse diapasão, não há dúvida de que houve usurpação da competência do Tribunal de Justiça de Goiás para analisar o pedido da busca e apreensão, ou ao menos a incidência, ou não, de prerrogativa de foro no caso, pois desde a fase embrionária das investigações havia indícios da participação do Prefeito de São Simão/GO no suposto esquema criminoso de destruição de documentos, não tendo havido, ao tempo e modo devidos, a remessa dos autos para o Tribunal local.
+O magistrado de primeiro grau deveria ter remetido os autos para o Tribunal local, sendo certo que a este, e somente a este, caberia decidir sobre o pedido de busca e apreensão contra o prefeito.
+Nessa conformidade, a nulidade contamina todas as investigações posteriores e subsiste ainda que o paciente tenha deixado o cargo de Prefeito no momento do oferecimento da denúncia.
+Isso porque, diante das informações expostas — devidamente comprovadas nos autos — e tendo em consideração que o ato impugnado foi de encontro à jurisprudência já consolidada do Plenário desta Suprema Corte, é inadmissível a convalidação de atos decisórios praticados por autoridade incompetente.
+Nesse sentido:
+(...)
+Assim, tal vício contamina de nulidade, desde a origem, os elementos de prova colhidos sem observância da prerrogativa de foro, por violação do princípio do juiz natural e do devido processo legal.
+Ressalta-se que a declaração de nulidade e o arquivamento do inquérito e do procedimento investigatório, contudo, não impedem a realização de novas investigações produzidas sob o abrigo da legalidade e do respeito ao devido processo legal.
+Ante o exposto, nos termos do art. 192 do RISTF, concedo a ordem de habeas corpus para declarar, em relação ao paciente, ilícitas as provas produzidas a partir da busca e apreensão realizada em 14/06/2013 na sede da Prefeitura de São Simão/GO e todas as demais delas decorrentes, determinando, em consequência, o trancamento do Inquérito Policial n.º 181/2014, do Procedimento Investigatório Criminal n.º 001/2015 e da Ação Penal nº 5160430-09.2022.8.09.0173, bem como quaisquer outros processos ou procedimentos que se sirvam das provas declaradas ilícitas, sem prejuízo de eventual nova instauração de inquérito sob o crivo do devido processo legal.” (grifos que não constam do original)
+
+No que se refere ao embargante Lucas Barbosa de Vasconcelos, melhor sorte não lhe assiste.
+Não está presente nenhuma hipótese autorizadora da oposição do recurso declaratório.
+A decisão embargada não incorreu em omissão. Os pontos colocados em debate foram analisados, nos limites necessários ao deslinde do feito. Ademais, a contradição que autoriza opor o recurso declaratório deve ser interna à decisão, verificada entre os fundamentos do julgado e sua conclusão, o que não ocorreu no caso em tela.
+Da mesma forma, a decisão não é obscura, pois a ela não faltam clareza nem certeza quanto ao que foi decidido, sendo certo que não há no julgado nenhum erro material a ser corrigido.
+Na decisão embargada, ficou clara a ausência de prequestionamento e a necessidade do reexame aprofundado do contexto fático-probatório dos autos, além de outros elementos intimamente ligados ao mérito da própria ação penal.
+Ressalte-se, ademais, que não é dever do julgador rebater todos os argumentos apresentados pela parte, mas somente aqueles capazes de afastar a conclusão adotada na decisão, o que não é a hipótese do fundamento referido.
+No caso, é evidente que a pretensão dos embargantes é provocar a rediscussão da causa, fim para o qual não se presta o presente recurso.
+De acordo com a jurisprudência da Corte, os embargos de declaração se prestam para as hipóteses do art. 337 do Regimento Interno, e não para a rediscussão dos fundamentos do acórdão embargado. Confiram-se os seguintes julgados:
+“EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. MATÉRIA CRIMINAL. REITERAÇÃO DAS RAZÕES RECURSAIS. CARÁTER INFRINGENTE. A rediscussão da controvérsia, com o fito de se obter efeitos infringentes, não é matéria a ser tratada em sede de embargos de declaração. Precedente. Não observância das exigências do art. 337 do Regimento Interno do Supremo Tribunal Federal. embargos de declaração rejeitados” (AI nº 751.637/MG-AgR-ED, Segunda Turma, Rel. Min. Joaquim Barbosa, DJe de 1º/3/11);
+“EMBARGOS DE DECLARAÇÃO. EXTRADIÇÃO. ALEGADAS OMISSÕES NO ACÓRDÃO EMBARGADO. PRETENDIDO EFEITO INFRINGENTE. AUSÊNCIA DE IRREGULARIDADES NO ACÓRDÃO EMBARGADO. EMBARGOS DESPROVIDOS. 1. As supostas irregularidades apontadas pela defesa técnica neste recurso foram rechaçadas pelo acórdão embargado. Acórdão que deu pela presença dos elementos autorizativos da extradição instrutória. O objetivo real do embargante é reexaminar o mérito do pedido extradicional. Finalidade para a qual não se prestam os embargos de declaração, nos termos da pacífica jurisprudência deste nosso Tribunal (Exts 947-ED, 936-ED, 720-ED). 2. Não há como acolher o pedido de impedir a execução desta extradição até o cumprimento das ‘penas para as quais está condenado e aquelas que porventura lhe venham a ser impostas’. Isso porque, na linha da jurisprudência do Supremo Tribunal Federal (confira-se, a título de amostragem a Ext 758, da relatoria do ministro Marco Aurélio), as normas que se contêm no Estatuto do Estrangeiro autorizam ao Presidente da República decidir, segundo a sua conveniência e oportunidade, sobre a imediata entrega do estrangeiro requestado. Equivale a dizer: considerando que o extraditando responde a uma outra ação penal aqui no Brasil, a decisão sobre a imediata entrega será submetida ao juízo de conveniência e oportunidade do Presidente da República, que avaliará se poderá o requerido ser extraditado antes do término da persecução penal no Brasil. 3. Embargos de declaração desprovidos” (Ext nº 1.153-ED, Tribunal Pleno, Rel. Min. Ayres Britto, DJe de 21/2/11);
+ “EMBARGOS DE DECLARAÇÃO. PRETENSÃO DE REFORMA DO JULGADO: IMPOSSIBILIDADE. 1. Os embargos de declaração não constituem meio processual cabível para reforma do julgado, não sendo possível atribuir-lhes efeitos infringentes, salvo em situações excepcionais. 2. Inexistência de omissão, contradição ou obscuridade a sanar” (AI nº 735.957/RJ-ED-ED, Segunda Turma, Rel. Min. Ellen Gracie, DJe de 19/2/10).
+ Perfilham esse entendimento os seguintes precedentes: HC nº 102.043/BA-ED, Primeira Turma, de minha relatoria, DJe de 27/4/12; RE nº 449.191/DF-AgR-ED, Primeira Turma, Rel. Min. Sepúlveda Pertence, DJ de 10/8/07; e AI nº 633.342/RS-AgR-ED, Segunda Turma, Rel. Min. Eros Grau, DJ de 28/9/07.
+Ante o exposto, rejeito os embargos de declaração.
+Publique-se.
+Brasília, 26 de maio de 2026.
+
+Ministro DIAS TOFFOLI
+Relator
+Documento assinado digitalmente
