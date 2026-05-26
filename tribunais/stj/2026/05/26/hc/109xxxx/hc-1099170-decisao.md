@@ -1,0 +1,15 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em favor de ALEXANDRE PEREIRA DOS SANTOS GODOY contra acórdão da Sexta Câmara Criminal do Tribunal de Justiça do Estado do Rio de Janeiro.
+Extrai-se dos autos que o paciente foi condenado pelo Tribunal do Júri pela prática do crime de homicídio qualificado, previsto no art. 121, § 2º, II, do Código Penal, com incidência da agravante do art. 61, II, "e", do mesmo diploma, tendo sido fixado o regime inicial fechado. Foi determinada a execução imediata da condenação, com expedição de mandado de prisão, à luz do Tema 1066 do Supremo Tribunal Federal, que assentou a possibilidade de execução provisória de condenação proferida pelo Tribunal do Júri independentemente do quantum de pena (e-STJ fls. 12/13).
+Segundo a exordial, a defesa interpôs apelação contra a condenação, à qual a Sexta Câmara Criminal do Tribunal de Justiça do Estado do Rio de Janeiro negou provimento, rejeitando, em seguida, os embargos de declaração opostos (e-STJ fl. 2).
+No presente writ, a defesa alega ausência de fatos novos e de contemporaneidade para just ificar a segregação cautelar após aproximadamente 19 anos de tramitação processual em que o paciente respondeu solto, invocando o art. 312, § 2º, do CPP e julgados desta Corte (e-STJ fls. 3/4). Aduz, ainda, a plausibilidade do Recurso Especial interposto, por apontar nulidades absolutas, notadamente a quebra da cadeia de custódia de prova técnica de geolocalização e a oitiva de testemunha de surpresa em plenário do Júri, por videoconferência, a partir de aparelho da acusação (e-STJ fls. 3/4).
+Requer, em liminar e no mérito, seja garantido ao paciente o direito de recorrer em liberdade (e-STJ fls. 5).
+É o relatório. Decido.
+O presente writ não pode prosseguir.
+A defesa não juntou aos autos qualquer decisão ou ato praticado pelo Tribunal de Justiça do Estado do Rio de Janeiro que autorize o exame da alegação por meio de habeas corpus impetrado diretamente no Superior Tribunal de Justiça.
+O rito do habeas corpus pressupõe prova pré-constituída do direito alegado, devendo a parte demonstrar, de maneira inequívoca, por meio de documentos, a existência de constrangimento ilegal imposto ao paciente.
+Com efeito, " a  jurisprudência do Supremo Tribunal Federal é firme no sentido da inadmissão do habeas corpus quando não instruído o writ com as peças necessárias à confirmação da efetiva ocorrência do constrangimento ilegal". (AgRg no HC n. 182.788, Rel. Ministra Rosa Weber, Primeira Turma, julgado em 22/5/2022, DJe 18/6/2020).
+No mesmo sentido, esta Corte assentou que " e m sede de habeas corpus, é cediço que a prova deve ser pré-constituída e incontroversa, cabendo ao impetrante apresentar documentos suficientes à análise de eventual ilegalidade flagrante no ato atacado". (AgRg no HC n. 772.017/SC, Rel. Ministro Ribeiro Dantas, Quinta Turma, julgado em 28/11/2022, DJe 2/12/2022).
+Ante o exposto, com fundamento no artigo 210 do Regimento Interno do Superior Tribunal de Justiça, indefiro liminarmente o pedido.
+Intimem-se.
+EMENTA
