@@ -1,0 +1,29 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Sexta Turma, por unanimidade, negar provimento ao agravo regimental, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Rogerio Schietti Cruz, Carlos Pires Brandão, Nilsoni de Freitas (Desembargadora Convocada do TJDFT) e Og Fernandes votaram com o Sr. Ministro Relator.
+EMENTA
+DIREITO PROCESSUAL PENAL. AGRAVO REGIMENTAL EM AGRAVO EM RECURSO ESPECIAL. REVISÃO CRIMINAL. DECISÃO DE INADMISSÃO UNA. NECESSIDADE DE IMPUGNAÇÃO ESPECÍFICA E INTEGRAL. AUSÊNCIA DE ARGUMENTOS NOVOS. MANUTENÇÃO DA DECISÃO POR SEUS PRÓPRIOS FUNDAMENTOS. FUNDAMENTO AUTÔNOMO NÃO ATACADO. SÚMULA 283/STF. PREQUESTIONAMENTO NÃO DEMONSTRADO. SÚMULAS 282/STF E 356/STF. IMPUGNAÇÃO GENÉRICA. NÃO INDICAÇÃO DAS PASSAGENS DO ACÓRDÃO. AUSÊNCIA DE PREQUESTIONAMENTO FICTO. SÚMULA 182/STJ POR ANALOGIA. INCIDÊNCIA DA SÚMULA 7/STJ APONTADA NA ORIGEM.
+Agravo regimental improvido.
+RELATÓRIO
+Trata-se de agravo regimental interposto por JOAO LUIS GOMES CURTI contra decisão monocrática assim ementada (fl. 1.109):
+DIREITO PROCESSUAL PENAL. AGRAVO EM RECURSO ESPECIAL. REVISÃO CRIMINAL. INADMISSIBILIDADE DO RECURSO ESPECIAL NA ORIGEM. DECISÃO UNA. NECESSIDADE DE IMPUGNAÇÃO ESPECÍFICA E INTEGRAL. AUSÊNCIA DE ATAQUE A FUNDAMENTO AUTÔNOMO SOBRE INADEQUAÇÃO DA REVISÃO CRIMINAL COMO SEGUNDA APELAÇÃO. INCIDÊNCIA ANALÓGICA DA SÚMULA 283/STF . PREQUESTIONAMENTO NÃO DEMONSTRADO. SÚMULAS 282/STF E 356/STF. ÓBICE DA SÚMULA 182/STJ POR ANALOGIA. AGRAVO INADMISSÍVEL. AGRAVO EM RECURSO ESPECIAL NÃO CONHECIDO.
+Nas razões (fls. 1.116/1.120), a parte agravante alega que houve impugnação específica do fundamento sobre os limites da revisão criminal, com enquadramento das nulidades e da dosimetria no âmbito próprio da revisão, afastando a pecha de "segunda apelação" e ressaltando a revaloração jurídica de fatos incontroversos.
+Argumenta que a impugnação do óbice de prequestionamento não foi genérica, pois houve transcrição do núcleo decisório do acórdão estadual sobre fundada suspeita e ingresso domiciliar, configurando prequestionamento implícito das matérias federais debatidas.
+Sustenta a natureza jurídica das teses e a falta de fundamento para aplicação, por analogia, da Súmula 182/STJ, bem como a inaplicabilidade da Súmula 7/STJ, por tratar-se de revaloração jurídica de fatos já fixados na instância ordinária.
+Pugna, assim, pela reforma da decisão agravada.
+É o relatório.
+EMENTA
+DIREITO PROCESSUAL PENAL. AGRAVO REGIMENTAL EM AGRAVO EM RECURSO ESPECIAL. REVISÃO CRIMINAL. DECISÃO DE INADMISSÃO UNA. NECESSIDADE DE IMPUGNAÇÃO ESPECÍFICA E INTEGRAL. AUSÊNCIA DE ARGUMENTOS NOVOS. MANUTENÇÃO DA DECISÃO POR SEUS PRÓPRIOS FUNDAMENTOS. FUNDAMENTO AUTÔNOMO NÃO ATACADO. SÚMULA 283/STF. PREQUESTIONAMENTO NÃO DEMONSTRADO. SÚMULAS 282/STF E 356/STF. IMPUGNAÇÃO GENÉRICA. NÃO INDICAÇÃO DAS PASSAGENS DO ACÓRDÃO. AUSÊNCIA DE PREQUESTIONAMENTO FICTO. SÚMULA 182/STJ POR ANALOGIA. INCIDÊNCIA DA SÚMULA 7/STJ APONTADA NA ORIGEM.
+Agravo regimental improvido.
+VOTO
+A decisão agravada deve ser mantida por seus próprios fundamentos. A bem da verdade, as razões do agravo regimental não detêm o condão de infirmar os fundamentos da decisão recorrida.
+Esta Corte Superior tem reiteradamente afirmado que o agravo regimental deve trazer novos argumentos capazes de alterar o entendimento anteriormente firmado, sob pena de ser mantida a decisão vergastada por seus próprios fundamentos (AgRg no RHC n. 110.812/PR, Min. Leopoldo de Arruda Raposo, Desembargador convocado do TJ/PE, Quinta Turma, DJe 10/12/2019).
+Consoante consignado na decisão impugnada, a decisão que inadmite o recurso especial na origem não é formada por capítulos autônomos, mas por um único dispositivo, razão pela qual deve ser impugnada na sua integralidade, ou seja, em todos os seus fundamentos, inclusive de forma específica, suficiente e pormenorizada, não sendo suficientes meras alegações genéricas ou relativas ao mérito da controvérsia, sob pena de incidência do óbice da Súmula 182/STJ.
+Ao que se observa, o Tribunal de origem inadmitiu o recurso especial pelos seguintes fundamentos: 1) ausência de prequestionamento, com incidência das Súmulas 282/STF e 356/STF; 2) não impugnação de todos os argumentos do acórdão recorrido, atraindo a Súmula 283/STF; e 3) necessidade de reexame de provas, incidindo a Súmula 7/STJ.
+Todavia, a parte agravante, nas razões do agravo em recurso especial, não impugnou, de maneira específica, a íntegra da decisão de inadmissão.
+Não houve ataque concreto ao fundamento autônomo do acórdão recorrido relativo ao cabimento e aos limites da revisão criminal - vedação ao uso da via revisional como "segunda apelação", exigência de enquadramento nas hipóteses do do Código de Processo Penal e impossibilidade de rediscussão art. 621 ampla de provas -, que se apresenta como razão suficiente e independente para a manutenção do julgado.
+A decisão agravada expressamente registrou que o recurso especial não foi devidamente  fundamentado , pois não foram devidamente atacados todos os argumentos do aresto (fls. 992/995) - (fl. 1.051). Incidente, por analogia, a Súmula 283/STF.
+Além disso, a impugnação dos óbices de prequestionamento mostrou-se genérica, sem indicação precisa das passagens do acórdão em que cada questão federal foi decidida, a despeito de o próprio decisum de admissibilidade apontar a exigência das Súmulas 282 e 356, ambas do STF.
+Nas razões do agravo em recurso especial, o agravante afirmou a existência de prequestionamento explícito e implícito, mas não individualizou, por folhas, o enfrentamento de cada dispositivo federal, tampouco alegou prequestionamento ficto (art. 1.025 do CPC), razão pela qual subsiste o óbice.
+Sendo assim, diante da ausência de argumentos novos, que pudessem infirmar a decisão impugnada, esta haverá de ser mantida por seus próprios fundamentos.
+Pelo exposto, nego provimento ao agravo regimental.
