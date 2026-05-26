@@ -1,0 +1,34 @@
+DECISÃO
+Trata-se de pedido de tutela cautelar formulado, em nome próprio, por EDSON FRANCISCO DE OLIVEIRA SILVEIRA, que objetiva a suspensão de efeitos de acórdão proferido pela Quarta Turma do TRIBUNAL REGIONAL FEDERAL DA 1ª REGIÃO, nos Autos n. 0003902-19.2017.4.01.4100.
+Consta nos autos que o requerente foi condenado pelo crime de peculato (art. 312 do Código Penal - CP) e teve a pena reduzida pelo Tribunal Regional Federal, em sede de apelação, para 4 anos e 5 meses de reclusão, em regime semiaberto, mais multa. Foram opostos embargos de declaração os quais, contudo, foram rejeitados.
+Irresignado, o réu teria interposto recurso especial (fls. 23/34), aduzindo, em síntese, violação a dispositivos de lei federal, notadamente (i) aos arts. 109, 110 e 117 do Código Penal - CP, por afastamento indevido da análise da prescrição; (ii) ao art. 71 do CP, por erro no reconhecimento indevido da continuidade delitiva; (iii) ao art. 312 do CP, por manutenção da condenação por peculato sem enfrentamento dos elementos essenciais do tipo penal; (iv) aos arts. 59 e 68 do CP, por exasperação da pena-base com fundamentos genéricos; e (v) ao art. 619 do Código de Processo Penal - CPP, por negativa de prestação jurisdicional.
+Na petição inicial, fundamentada no art. 26-C, da Lei Complementar n. 64/1990, o requerente relata as questões suscitadas no recurso especial e sustenta ser o caso de suspensão dos efeitos d a condenação, sob os argumentos de plausibilidade das violações de direito federal arguidas, de risco de dano em virtude de ano eleitoral e de reversibilidade da medida.
+É o relatório.
+Decido.
+A pretensão não merece acolhimento.
+Nos termos do Código de Processo Civil, art. 995, os recursos não impedem a eficácia da decisão, salvo disposição legal ou decisão judicial em sentido diverso. No caso do recurso especial, a regra é o efeito devolutivo.
+Há, contudo, possibilidade de se atribuir efeito suspensivo ao recurso especial, a conferir:
+Art. 1.029. O recurso extraordinário e o recurso especial, nos casos previstos na Constituição Federal, serão interpostos perante o presidente ou o vice-presidente do tribunal recorrido, em petições distintas que conterão:
+ ..
+§ 5º O pedido de concessão de efeito suspensivo a recurso extraordinário ou a recurso especial poderá ser formulado por requerimento dirigido:
+I - ao tribunal superior respectivo, no período compreendido entre a publicação da decisão de admissão do recurso e sua distribuição, ficando o relator designado para seu exame prevento para julgá-lo;
+II - ao relator, se já distribuído o recurso;
+III - ao presidente ou ao vice-presidente do tribunal recorrido, no período compreendido entre a interposição do recurso e a publicação da decisão de admissão do recurso, assim como no caso de o recurso ter sido sobrestado, nos termos do art. 1.037.
+Segundo o texto legal, a competência deste Superior Tribunal de Justiça - para apreciar o pedido de atribuição de efeito suspensivo ao recurso especial - inaugura-se após a realização de juízo de admissibilidade na origem, o que não ocorreu.
+Portanto, não há amparo para a pretensão formulada, por incompetência do STJ. Nesse sentido:
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO REGIMENTAL NA MEDIDA CAUTELAR. INELEGIBILIDADE DE CANDIDATO. RECURSO ESPECIAL AINDA SEM EXAME DE ADMISSIBILIDADE PELO TRIBUNAL A QUO. EFEITO SUSPENSIVO. PEDIDO INDEFERIDO LIMINARMENTE PELO RELATOR. ART. 26-C DA LC 64/90 COM ALTERAÇÃO DA LC 135/10. DECISÃO DE ÓRGÃO COLEGIADO. EVENTUAL ÊXITO DO RECURSO ESPECIAL NÃO DEMONSTRADO DE PLANO. APLICAÇÃO DA REGRA DAS SÚMULAS 634 E 635/STF. AGRAVO NÃO PROVIDO.
+1. Em que pese o agravante defender a tese, ainda sob melhor exame nas instâncias superiores  é bem verdade  , de que as medidas cautelares que buscam emprestar efeito suspensivo aos recursos interpostos contra decisões de inelegibilidade somente podem ser proferidas por órgão colegiado, impedindo eventual decisão monocrática a seu respeito (art. 26-C da LC 64/90), in casu, tal discussão perde seu objetivo concreto, uma vez que a interposição do presente agravo regimental trouxe, diga-se, em tempo apropriado, para o órgão colegiado o exame da medida cautelar, ainda que de forma transversa, ad referendum.
+2. Este Tribunal Superior, perfilhando entendimento do STF, admite a concessão de efeito suspensivo a Recurso Especial através de Medida Cautelar (art. 34, V c/c 288, do RI), desde que aquele recurso já tenha sido admitido perante o Tribunal de origem (Súmulas 634 e 635 do Pretório Excelso).
+3. Excepcionalmente, quando ainda não exercido o juízo de admissibilidade mas já interposto o REsp, em hipóteses restritas, nas quais se revelem nítidos os requisitos próprios de toda cautelar - fumus boni iuris e periculum in mora -, esta Corte tem deferido tal medida.
+4. No caso concreto, não há notícia de que a admissibilidade do Recurso Especial tenha sido apreciada pelo Tribunal a quo, e as razões que embasam esta Cautelar, não obstante bem articuladas, não justificam que se afaste da apontada regra para se adotar a exceção, pois sendo esta de juízo estrito, por sua própria natureza, deveria ser evidenciada de plano, o que não ocorreu, para justificar o seu acolhimento.
+5. Agravo regimental não provido. Decisão monocrática referendada pelo órgão colegiado.
+(AgRg na MC n. 17.205/RO, relator Ministro Arnaldo Esteves Lima, Primeira Turma, julgado em 28/9/2010, DJe de 20/10/2010.)
+De fato, a excepcional apreciação da medida cautelar, antes da realização do juízo de admissibilidade pelo Tribunal antecedente, vem sendo admitida em casos de teratologia ou flagrante ilegalidade.
+Na espécie, a peça de fls. 23/34 não registra informações sobre protocolo eletrônico na origem, e o pleito não veio acompanhado com a íntegra dos autos. Portanto, a parte não foi capaz de demonstrar o efetivo peticionamento do recurso especial perante o juízo competente.
+Além disso, verifica-se que a petição inicial articula, de maneira abstrata e genérica, a plausibilidade do direito invocado e a existência de risco de dano, o que reforça a inviabilidade da pretensão.
+Nesse sentido, a peça não indica, efetivamente, no que consistiria, concretamente, a ilegalidade patente cometida pela Corte de origem e a probabilidade de êxito de suas alegações, cingindo-se a resumir alegações do recurso especial.
+A petição inicial, ademais, não indica o inequívoco perigo na demora, nem mesmo demonstrando, por exemplo, tratar-se de agente que tivesse promovido eventual registro de candidatura.
+Assim, com fundamento no art. 288, § 2º, do Regimento Interno do Superior Tribunal de Justiça, indefiro liminarmente o pedido.
+Publique-se. Intimem-se.
+EMENTA
+TUTELA CAUTELAR ANTECEDENTE. ATRIBUIÇÃO DE EFEITO SUSPENSIVO A RECURSO ESPECIAL NÃO ADMITIDO NA ORIGEM. FUMUS BONI IURIS. PERICULUM IN MORA. REQUISITOS NÃO COMPROVADOS. PEDIDO INDEFERIDO.
