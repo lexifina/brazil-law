@@ -1,0 +1,12 @@
+DECISÃO
+Trata-se de reclamação, com pedido de liminar, proposta por CONDOMÍNIO MOOV ESPAÇO CERÂMICA, com fundamento no art. 105, I, "f", da Constituição Federal, em face de acórdão prolatado pela 5ª Turma Recursal Cível dos Juizados Especiais do Estado de São Paulo, sob o argumento de afronta à jurisprudência consolidada do STJ.
+Narra que interpôs recurso inominado de forma tempestiva, declarado deserto em razão de suposta insuficiência no preparo recursal, decisão mantida em sede de agravo de instrumento. Argumenta que a diferença apontada seria ínfima e que não lhe foi oportunizada a complementação do preparo, circunstância que implicou na perda do direito ao duplo grau de jurisdição.
+Alega que a manutenção da deserção configura violação aos princípios da proporcionalidade, da instrumentalidade das formas, da isonomia, da boa-fé processual e do acesso à justiça, destacando que o STJ possui entendimento no sentido de afastar o rigor excessivo no exame do preparo. Aponta, ainda, que o precedente mencionado na decisão reclamada não possuir caráter vinculante e não impediria a revisão do caso.
+Requer, liminarmente, a suspensão dos efeitos da decisão reclamada, diante do risco de início de execução da sentença de origem, e, no mérito, a procedência da reclamação para cassar o acórdão impugnado, afastar a deserção e determinar o regular processamento e julgamento do recurso inominado.
+É o relatório. Decido.
+A teor do disposto na Resolução STJ/GP n. 3, de 7 de abril de 2016, compete às Câmaras Reunidas ou à Seção Especializada dos Tribunais de Justiça processar e julgar as reclamações destinadas a dirimir divergência entre acórdão prolatado por Turma Recursal Estadual e do Distrito Federal e a jurisprudência do Superior Tribunal de Justiça, consolidada em incidente de assunção de competência e de resolução de demandas repetitivas, em julgamento de recurso especial repetitivo e em enunciados das Súmulas do STJ, bem como para garantir a observância de precedentes.
+A Resolução STJ n. 12/2009, que regulava o cabimento de reclamação ao STJ em relação aos processos em tramitação no âmbito dos Juizados Especiais, foi expressamente revogada pela Emenda Regimental n. 22 de 16/3/2016.
+Assim, não mais subsiste a competência desta Corte Superior para a apreciação da reclamação que, conforme acima destacado, é de incumbência do órgão próprio do Tribunal de origem.
+Ante o exposto, com fundamento no art. 34, XVIII, a, do RISTJ, não conheço da reclamação, ficando prejudicado o pedido de liminar.
+Publique-se. Intimem-se.
+EMENTA
