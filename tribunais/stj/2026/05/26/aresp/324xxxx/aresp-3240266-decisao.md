@@ -1,0 +1,27 @@
+DECISÃO
+Cuida-se de Agravo apresentado por MUNICÍPIO DE CURITIBA à decisão que não admitiu seu Recurso Especial.
+O apelo, fundamentado no artigo 105, III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO PARANÁ, assim resumido:
+DIREITO PROCESSUAL CIVIL E TRIBUTÁRIO. APELAÇÃO CÍVEL. EXTINÇÃO DE EXECUÇÃO FISCAL. PAGAMENTO ADMINISTRATIVO. ART. 924, II, DO CÓDIGO DE PROCESSO CIVIL. AUSÊNCIA DE CITAÇÃO DO DEVEDOR. ÔNUS SUCUMBENCIAL RECAI SOBRE O DESISTENTE. RECURSO DESPROVIDO.
+Quanto à controvérsia, a parte recorrente aduz negativa de vigência ao art. 90 do CPC, no que concerne à necessidade de imputação das custas processuais ao executado, em razão de ter dado causa ao ajuizamento da execução fiscal e de ter reconhecido a dívida ao quitá-la administrativamente após a propositura da ação, trazendo a seguinte argumentação:
+Mesmo constatando que a execução foi extinta em virtude do pagamento, o juízo a quo condenou o Município ao pagamento de custas processuais.
+Ocorre que, data máxima vênia, tal decisão carece totalmente de fundamento legal. Isso porque não cabe ao ente municipal fiscalizar o pagamento de custas processuais (fl. 44).
+A execução fiscal foi distribuída para arrecadar tributo devido pelo recorrido, ou seja, a maquinária judiciária somente foi movimentada, pois, o recorrido/contribuinte não pagou o tributo devido no momento oportuno, e ainda assim, o princípio de causalidade não foi observado.
+Tendo o pagamento sido realizado administrativamente posteriormente ao ajuizamento da execução fiscal, cabe ao executado arcar com as custas processuais, tendo em vista que foi ele que deu causa a instauração da execução fiscal, ao não pagar o débito por ele devido.
+ ..
+No presente caso, ao pagar a dívida, o executado reconheceu a existência do débito. Por outro lado, por não ter pago o débito dentro do prazo, o apelado deu causa ao ajuizamento da demanda, afinal, a Fazenda Pública não tem liberdade de cobrar ou não o tributo. A cobrança decorre de lei.
+Ainda, segundo o princípio da causalidade as despesas processuais devem ser arcadas por aquele que se comportou de forma a tornar necessária a instauração do processo, ou seja, por aquele que, agindo ou se omitindo, causou a formação da relação processual.
+Tendo o pagamento sido realizado administrativamente posteriormente ao ajuizamento da execução fiscal, cabe ao executado arcar com as custas processuais, tendo em vista que foi ele que deu causa a instauração da execução fiscal, ao não pagar o débito por ele devido.
+Dessa maneira, em respeito a uma intepretação sistemática do princípio do art. 90 e 239 do CPC, o pagamento das custas deve ser suportado pelo executado, em respeito ao princípio da causalidade, uma vez que o executado, além de dar causa ao ajuizamento da execução fiscal, reconheceu a dívida tributária pelo seu pagamento, nos termos do art. 156, I, do CTN (fl. 45).
+Ora, só pode ser extinto o que existe, motivo pelo qual o pagamento reconhece e extingue o débito tributário, dentro do sistema jurídico.
+Destarte, não merece prosperar a intepretação extraída do art. 239 do CPC de condenação da parte exequente ao pagamento das custas, uma vez que contraia a ratio e unicidade do sistema jurídico pátrio (fl. 46).
+É o relatório.
+Decido.
+Quanto à controvérsia, o Tribunal a quo se manifestou nos seguintes termos:
+Nesta perspectiva, a simples afirmação de que não consta mais débito após o ajuizamento da execução fiscal, ausente a citação do devedor, inviável a condenação deste ao pagamento das custas por força do princípio da causalidade.
+Observe-se, por fim, que o fato de o pagamento administrativo ter sido posterior à propositura da ação, ainda que antes da citação, não altera a conclusão, diante da ausência de reconhecimento da dívida firmado pela parte executada, demonstrando que esta teria dado causa à ação (fl. 37).
+Assim, incide a Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), porquanto o acolhimento da pretensão recursal demandaria o reexame do acervo fático-probatório juntado aos autos.
+Nesse sentido: AgInt no REsp n. 2.113.579/MG, relatora Ministra Maria Isabel Gallotti, Quarta Turma, DJEN de 27/3/2025; AgInt no AREsp n. 2.691.829/SP, relator Ministro Sérgio Kukina, Primeira Turma, DJEN de 28/3/2025; AREsp n. 2.839.474/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJEN de 26/3/2025; AgInt no REsp n. 2.167.518/RS, relatora Ministra Nancy Andrighi, Terceira Turma, DJEN de 27/3/2025; AgRg no AREsp n. 2.786.049/SP, relator Ministro Messod Azulay Neto, Quinta Turma, DJEN de 26/3/2025; AgRg no AREsp n. 2.753.116/RN, relator Ministro Sebastião Reis Júnior, Sexta Turma, DJEN de 25/3/2025; AgInt no REsp n. 2.185.361/CE, relatora Ministra Regina Helena Costa, Primeira Turma, DJEN de 28/3/2025; AgRg no REsp n. 2.088.266/MG, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, DJEN de 25/3/2025; AREsp n. 1.758.201/AM, relatora Ministra Maria Thereza de Assis Moura, Segunda Turma, DJEN de 27/3/2025; AgInt no AREsp n. 2.643.894/DF, relator Ministro Raul Araújo, Quarta Turma, DJEN de 31/3/2025; AgInt no AREsp n. 2.636.023/RS, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, DJEN de 28/3/2025; AgInt no REsp n. 1.875.129/PE, relator Ministro Paulo Sérgio Domingues, Primeira Turma, DJEN de 21/3/2025.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do Agravo para não conhecer do Recurso Especial.
+Publique-se.
+Intimem-se.
+ EMENTA
