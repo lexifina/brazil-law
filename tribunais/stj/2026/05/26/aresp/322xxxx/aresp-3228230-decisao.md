@@ -1,0 +1,42 @@
+DECISÃO
+Trata-se de agravo contra a decisão que inadmitiu o recurso especial interposto por MINISTÉRIO PÚBLICO DO ESTADO DO PIAUÍ, com fundamento na alínea "a" do permissivo constitucional, em oposição a acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO PIAUÍ (fls. 980-985, 992-993, 1001-1003).
+Em suas razões recursais, a parte aponta violação dos arts. 33 da Lei 11.343/2006 e 12 da Lei 10.826/2003, aduzindo, em síntese, que há robustez probatória quanto à materialidade e à autoria dos delitos de tráfico e posse irregular de arma de fogo e que o acórdão recorrido incorreu em erro de direito ao absolver por insuficiência de provas.
+Requer o provimento do recurso, a fim de reformar o acórdão e condenar o recorrido pelos crimes do art. 33 da Lei 11.343/2006 e do art. 12 da Lei 10.826/2003 (fls. 1041-1057).
+Com contrarrazões (fls. 1062-1070), o recurso especial foi inadmitido na origem (fls. 1071-1073), ao que se seguiu a interposição de agravo (fls. 1076-1089).
+Remetidos os autos a esta Corte Superior, o MPF manifestou-se pelo desprovimento do recurso (fls. 1119-1123).
+É o relatório.
+Decido.
+O agravo impugna adequadamente os fundamentos da decisão agravada, devendo ser conhecido. Passo, portanto, ao exame do recurso especial propriamente dito.
+Consta dos autos que a sentença condenou o réu pelos crimes de tráfico de drogas (art. 33, caput, da Lei 11.343/2006) à pena de 9 anos de reclusão, em regime inicial fechado, e 900 dias-multa, e pela posse irregular de arma de fogo (art. 12 da Lei 10.826/2003) à pena de 1 ano de detenção e 10 dias-multa. Interposta apelação pela defesa, o Tribunal de Justiça do Estado do Piauí deu provimento ao recurso para absolver o réu, com fundamento no art. 386, VII, do Código de Processo Penal.
+Extrai-se do acórdão a seguinte fundamentação (fl. 991):
+Com base na prova oral colhida em juízo, verifica-se que a autoria do crime de tráfico de drogas não restou comprovada, pois, conforme afirmado, a maior parte das drogas foi apreendida dentro da residência. Em relação a isso, não ficou clara a relação do acusado com a referida casa, tendo sido preso do lado de fora desta, em poder de apenas uma pequena quantidade de drogas, não havendo acervo probatório suficiente para constatar a traficância.
+Dos autos, não restou claro a forma como ocorria o tráfico, de que forma o acusado estava inserido nisso e a forma de operar para a consumação do crime.
+In casu, apesar de se constatar a materialidade dos crimes imputados ao acusado, consoante Auto de Apresentação e Apreensão (pg. 01 e 15- ID 15871677), não existe prova segura que faça o liame do apelante aos delitos, pois a dinâmica dos fatos, segundo as provas produzidas nos autos, não autoriza esta conclusão com total segurança.
+O que se tem, em verdade, é uma investigação pouco conclusiva quanto aos reais praticantes dos delitos, sendo que o acervo probatório se resume quase que única e exclusivamente à palavra dos agentes que participaram da operação policial. Referida prova, ainda que servível dentro de um contexto mais amplo, isoladamente não se mostra suficiente à condenação, a qual demandaria demonstração efetiva da participação do recorrente no evento criminoso.
+Para mais, deixo de desclassificar o fato para o delito de porte de drogas para consumo pessoal, do art. 28 da Lei nº 11.343/2006, pois o § 2º do referido dispositivo dispõe que "Para determinar se a droga destinava-se a consumo pessoal, o juiz atenderá à natureza e à quantidade da substância apreendida, ao local e às condições em que se desenvolveu a ação, às circunstâncias sociais e pessoais, bem como à conduta e aos antecedentes do agente."
+No caso dos autos, não ficou esclarecida a quantidade de droga apreendida com o réu, sendo que apenas foi afirmado que era a menor parte do que foi apreendido, motivo pelo qual não se pode aferir a configuração do delito.
+Em relação ao crime de posse irregular de arma de fogo de uso permitido, forçoso reconhecer, de ofício, nos mesmos fundamentos, que não há suficiência probatória para atribuir a autoria do crime ao apelante, pois a arma encontrava-se dentro da referida residência, não havendo demonstração que o acusado estava possuindo ou mantendo sob sua guarda a arma de fogo, por não haver conclusões acerca da relação do réu com a casa.
+Por todo o exposto é que, absolvo o réu das imputações legais dos crimes de tráfico de drogas (art. 33, caput, da Lei 11.343/06) e posse de arma de fogo (art. 12 da Lei 10.826/03), ante a insuficiência probatória, aplicando-se o principio do in dubio pro reo, com base no art. 386, VII, do Código de Processo Penal.
+Verifica-se que, ao afastar a condenação pelos crimes de tráfico de drogas (art. 33, caput, da Lei 11.343/06) e posse irregular de arma de fogo (art. 12 da Lei 10.826/03), a Corte de origem considerou não demonstrada a autoria, destacando que a maior parte dos entorpecentes foi apreendida dentro de residência cuja relação com o acusado não restou esclarecida, que ele foi preso do lado de fora com apenas pequena quantidade de droga, e que o acervo probatório se limita, quase exclusivamente, aos relatos dos agentes policiais, isoladamente insuficientes para condenar; ademais, assentou ser inviável a desclassificação para o art. 28 da Lei de Drogas por não ter sido individualizada a quantidade apreendida com o réu, e, quanto à arma, ausente prova de posse ou guarda pelo acusado, dado que foi localizada em imóvel sem vínculo comprovado.
+Dessa forma, para desconstituir o entendimento firmado pelo Tribunal de origem e concluir pela condenação dos crimes de tráfico de drogas e posse irregular de arma de fogo, seria necessário o revolvimento do conjunto fático-probatório, o que é vedado pela Súmula 7/STJ.
+Corroboram:
+"AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. CRIME MILITAR. VIOLAÇÃO DO PRINCÍPIO DA CORRELAÇÃO. AUSÊNCIA. PROVA PARA A CONDENAÇÃO (AUTORIA E MATERIALIDADE). SÚMULA N. 7 DO STJ. AGRAVO PARCIALMENTE CONHECIDO E, NESSA EXTENSÃO, IMPROVIDO.
+ ..
+3. Cabe ao aplicador da lei, na instância ordinária, analisar a existência de provas suficientes para embasar o decreto condenatório, ou a ensejar a absolvição, sendo inviável, em sede de recurso especial, rediscutir a suficiência probatória para a condenação (Súmula 7/STJ) (ut, AgRg no REsp 1.716.998/RN, Relatora Ministra Maria Thereza de Assis Moura, Sexta Turma, DJe 16/5/2018).
+4. Agravo regimental parcialmente conhecido e, nessa extensão, improvido."
+(AgRg no AREsp n. 2.570.018/PR, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 18/6/2024, DJe de 21/6/2024.)
+"DIREITO PENAL. AGRAVO REGIMENTAL. POSSE IRREGULAR DE MUNIÇÕES. AGRAVO REGIMENTAL NÃO PROVIDO.
+ ..
+3. A discussão consiste em saber se a condenação por posse irregular de munições pode ser mantida com base em declarações extrajudiciais de policiais, sem recordação dos fatos em juízo, e se há omissão quanto à aplicação do princípio da insignificância.
+III. Razões de decidir
+4. A decisão atacada foi mantida por seus próprios fundamentos, considerando que a apreensão das munições e os depoimentos dos policiais constituem prova independente e autônoma, suficiente para a condenação.
+5. A jurisprudência reconhece a validade dos depoimentos policiais, desde que ausentes indícios de motivação pessoal para incriminação injustificada.
+6. A revisão do julgado demandaria reexame de matéria fático-probatória, procedimento vedado nesta instância especial, condizente com a Súmula n. 7/ STJ.
+7. O Tribunal de origem não enfrentou a tese do princípio da insignificância, e o agravante não interpôs embargos de declaração para suscitar o debate, inviabilizando o prequestionamento necessário.
+IV. Dispositivo e tese
+8. Agravo regimental não provido.
+Tese de julgamento: 1. A condenação por posse irregular de munições pode ser mantida com base em provas independentes e autônomas, como apreensão de munições e depoimentos policiais. 2. A revisão de matéria fático-probatória é vedada em instância especial, consoante a Súmula n. 7/STJ. 3. A ausência de prequestionamento impede a análise de omissão quanto ao princípio da insignificância  .. ".
+(AgRg no AREsp n. 2.929.774/DF, relator Ministro Otávio de Almeida Toledo (Desembargador Convocado do TJSP), Sexta Turma, julgado em 12/8/2025, DJEN de 18/8/2025.)
+Ante o exposto, com fundamento no art. 253, parágrafo único, II, "a", do Regimento Interno do STJ, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
+EMENTA
