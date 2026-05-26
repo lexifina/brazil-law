@@ -1,0 +1,24 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em nome de LUCAS PHELIPPE BORGES TEIXEIRA POLICARPO, em que se aponta como autoridade coatora o Tribunal de Justiça do Paraná, o qual, em 28/3/2025, deu provimento ao recurso ministerial e pronunciou o paciente pelos 4º e 5º fatos - tentativa de homicídio contra Victor Gustavo Ferreira Mendes e João Vitor Godoy da Costa (Recurso em Sentido Estrito n. 0008163-12.2024.8.16.0129, fls. 27/42).
+Alega-se violação do art. 155 do Código de Processo Penal - pronúncia fundada exclusivamente em elementos informativos inquisitoriais e testemunhos indiretos, sem qualquer corroboração judicializada e em desconformidade com o standard probatório exigido para o judicium accusationis.
+Aduz-se a ilicitude do depoimento hospitalar de Victor Gustavo Ferreira Mendes, colhido sem advertência do direito ao silêncio e em condições clínicas frágeis, configurando ofensa ao princípio do nemo tenetur se detegere e inviabilizando sua utilização como indício de autoria.
+Defende-se a ausência de reconhecimento judicial das vítimas e a retratação em juízo - Victor e João Vitor afirmaram não conhecer o paciente nem reconhecer os atiradores; o motorista Diego apresentou descrição genérica, sem individualização; não houve qualquer reconhecimento ocular do paciente.
+Aduz-se que a prova judicial indica narrativa exculpatória.
+Em caráter liminar, pede-se a sustação dos efeitos do acórdão de pronúncia e a suspensão da sessão plenária do Júri designada para 1º/6/2026 (Processo n. 0011096-89.2023.8.16.0129, da 1ª Vara Criminal de Paranaguá/PR), até o julgamento do writ.
+No mérito, requer-se a impronúncia do paciente.
+Estes autos foram distribuídos a mim por prevenção.
+É o relatório.
+O writ é manifestamente inadmissível.
+De um lado, cuida-se de habeas corpus substitutivo de recurso especial, em caso no qual o recurso já foi manejado na origem com a mesma tese e idêntica pretensão, o que revela a violação do princípio da unirrecorribilidade e a reiteração de pedido.
+De outro, a impetração do habeas corpus somente se legitima diante de ilegalidade manifesta, evidente e imediata, circunscrita a questão de direito, sem revolvimento do conjunto probatório; na espécie, tal requisito não se verifica.
+Segundo o Tribunal de origem, a pronúncia do paciente pelos 4º e 5º fatos foi amparada em indícios extraídos do relato inquisitorial de Victor, do depoimento judicial do motorista Diego sobre o arrebatamento das vítimas e da conclusão investigativa da Polícia Civil indicando que João Vitor e Victor foram escoltados ao local por Lucas e pelo menor W M B P. O acórdão impugnado está alicerçado em elementos de convicção coligidos em ambas as fases da persecução penal, o que encontra amparo na jurisprudência do Superior Tribunal de Justiça.
+Com efeito, a jurisprudência desta Corte veda que a pronúncia se baseie exclusivamente em testemunhos indiretos, mas permite sua utilização como parte de um conjunto probatório, desde que corroborada por outros elementos de prova, o que foi constatado no caso concreto (AgRg no AREsp n. 2.660.534/MG, Ministra Daniela Teixeira, Quinta Turma, DJEN 24/2/2025).
+A decisão de pronúncia exige apenas indícios mínimos de autoria e materialidade, não sendo necessária a certeza exigida para a condenação (AgRg no HC n. 975.635/PB, Ministro Otávio de Almeida Toledo (Desembargador convocado do TJSP), Sexta Turma, DJEN 11/6/2025).
+Além disso, é indevida a supressão de instância para cuidar da alegada nulidade do depoimento hospitalar sem advertência do direito ao silêncio e da inadmissibilidade do hearsay testimony como único suporte da pronúncia, matérias não enfrentadas especificamente pelo acórdão recorrido.
+Segundo o entendimento desta Corte, "o prévio exame das alegações pelas instâncias ordinárias constitui requisito indispensável para sua apreciação nesta instância, ainda que se cuide de questão de ordem pública" (AgRg no HC n. 744.653/SP, rel. Min. Ribeiro Dantas, Quinta Turma, julgado em 21/6/2022, DJe 29/6/2022) - AgRg no RHC n. 189.567/RJ, Ministro Jesuíno Rissato (Desembargador convocado do TJDFT), Sexta Turma, DJe 11/4/2024.
+Por fim, a pretensão de despronúncia fundada na alegada insuficiência de indícios de autoria demanda revolvimento do acervo fático-probatório, providência incompatível com a via eleita.
+Em face do exposto, indefiro liminarmente a petição inicial (art. 210 do RISTJ).
+Publique-se.
+EMENTA
+DIREITO PROCESSUAL PENAL. HABEAS CORPUS. TENTATIVA DE HOMICÍDIO. PRONÚNCIA. WRIT SUBSTITUTIVO DE RECURSO ESPECIAL. AUSÊNCIA DE ILEGALIDADE MANIFESTA. PRONÚNCIA FUNDADA EM CONJUNTO PROBATÓRIO COM ELEMENTOS JUDICIALIZADOS. SUPRESSÃO DE INSTÂNCIA QUANTO À NULIDADE DE DEPOIMENTO HOSPITALAR E AO HEARSAY TESTIMONY. IMPOSSIBILIDADE DE REVOLVIMENTO FÁTICO-PROBATÓRIO NA VIA ELEITA. ACÓRDÃO IMPUGNADO ALINHADO À JURISPRUDÊNCIA DO STJ.
+Petição inicial indeferida liminarmente.
