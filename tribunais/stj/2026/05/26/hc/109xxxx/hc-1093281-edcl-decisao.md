@@ -1,0 +1,23 @@
+DECISÃO
+THIAGO VINICIUS BENTO opõe embargos de declaração contra a decisão de fls. 441-445.
+A parte aponta omissão quanto à quantidade de droga atribuída ao paciente, pois a decisão embargada considerou a apreensão de 3 kg de maconha, enquanto a denúncia lhe imputa o tráfico de 963 g. Afirma que não há necessidade de exame probatório para reconhecer que a totalidade das apreensões não foi imputada ao paciente, de modo que seria indispensável o enfrentamento específico desse argumento, inclusive para viabilizar eventual agravo regimental. Aduz, ainda, que foram colacionados precedentes desta Corte Superior que indicam a desproporcionalidade da prisão preventiva em hipóteses semelhantes, especialmente em favor de réu primário.
+Requer seja sanado o vício apontado.
+Decido.
+Conforme disposto no art. 619 do Código de Processo Penal, a oposição de embargos de declaração enseja o aprimoramento da prestação jurisdicional, por meio da retificação do julgado que se apresenta omisso, ambíguo, contraditório ou com erro material.
+No caso, a irresignação da defesa é centrada na ausência de manifestação expressa acerca da quantidade individualizada de entorpecentes encontrada com cada acusado, em especial com o paciente.
+Todavia, não constato omissão na decisão embargada, a qual se voltou a examinar a idoneidade dos fundamentos do decreto prisional. Na ocasião, concluiu-se que a decisão da custódia cautelar do paciente estava amparada em motivação idônea, por indicar a gravidade concreta da conduta, extraída da apreensão de cerca de 3 kg de maconha - dado que constou tanto na decisão de primeira instância quanto no acórdão apontado como ato coator, sem que haja notícia de irresignação da parte quanto a esse ponto.
+É certo que a denúncia narra que, com o embargante, foram encontrados 963 g de maconha. A menção à totalidade das drogas apreendidas, contudo, não configura equívoco apto a macular a fundamentação da decisão cautelar nem constitui ponto omisso que reclame integração - sobretudo porque essa premissa fática foi firmada pelas instâncias ordinárias.
+Com efeito, os fatos narrados na denúncia revelam que a droga encontrada em poder do embargante (963 g) haveria sido adquirida do corréu, que a mantinha depositada em sua residência, onde foram apreendidos 1.867 g de maconha, balança de precisão, 187 invólucros para embalo e quantia em espécie.
+Cuida-se, portanto, de um único contexto fático de tráfico - compra e venda de entorpecentes entre os dois acusados -, no qual a droga encontrada com o embargante seria fração diretamente oriunda do estoque do corréu. A separação artificial das quantidades, para fins de avaliação da gravidade concreta da conduta no plano cautelar, ignoraria a unidade do fato e a circunstância de que a droga apreendida com Thiago integrava, momentos antes, o mesmo depósito.
+A prisão preventiva avalia a necessidade da cautela à luz do contexto fático em sua dimensão real - o qual, no caso, é indissociável do volume total de entorpecente que alimentava a transação flagrada.
+Nesse sentido:
+ ..
+1. São idôneas as razões apontadas pelo Juízo singular para decretar a prisão cautelar do paciente, diante do modus operandi que revelou a gravidade em concreto da conduta, da quantidade total de droga apreendida com todos os acusados, além dos indícios de se tratar de organização criminosa voltada ao tráfico de drogas.
+ ..
+(AgRg na PET no HC n. 751.082/SP, relator Ministro Rogerio Schietti, 6ª T., DJe de 19/9/2022.)
+Tampouco prospera o argumento de que os precedentes colacionados pela defesa - relativos à desproporcionalidade da prisão preventiva em casos de réu primário - foram ignorados. A decisão embargada não estava obrigada a rebater, um a um, cada julgado invocado pela parte, bastando que tenha enfrentado, de modo suficientemente fundamentado, as questões jurídicas efetivamente submetidas ao crivo desta Corte. Não se confunde omissão com não acolhimento da tese defensiva.
+Saliento, por oportuno, que a omissão sanável pelo recurso integrativo ocorre quando o acórdão deixa de se manifestar sobre ponto essencial para o julgamento da lide. Desse modo, não está caracterizado nenhum vício previsto no art. 619 do CPP se o julgador dirimiu, de modo fundamentado, as questões que lhe foram submetidas.
+Ilustrativamente: "O vício de omissão que permite a oposição de embargos declaratórios diz respeito à ausência de manifestação judicial sobre algum ponto questionado, não se confundindo com a suposta necessidade de exame expresso sobre dispositivos legais e constitucionais invocados pela parte" (EDcl no AgRg no REsp n. 1.440.586/GO, Rel. Ministro Sebastião Reis Júnior, 6ª T., DJe de 5/2/2015).
+À vista do exposto, rejeito os embargos de declaração.
+Publique-se e intimem-se.
+ EMENTA
