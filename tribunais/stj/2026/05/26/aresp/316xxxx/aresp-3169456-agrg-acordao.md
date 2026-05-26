@@ -1,0 +1,31 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Sexta Turma, por unanimidade, negar provimento ao agravo regimental, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Rogerio Schietti Cruz, Carlos Pires Brandão, Nilsoni de Freitas (Desembargadora Convocada do TJDFT) e Og Fernandes votaram com o Sr. Ministro Relator.
+EMENTA
+DIREITO PENAL E PROCESSUAL PENAL. AGRAVO REGIMENTAL EM AGRAVO EM RECURSO ESPECIAL. TRÁFICO DE DROGAS. DECISÃO DE INADMISSÃO INCINDÍVEL. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA E INTEGRAL. SÚMULA 182/STJ. SÚMULA 7/STJ. NECESSIDADE DE REVOLVIMENTO FÁTICO-PROBATÓRIO. TEMA 190/STJ. SÚMULA 231/STJ. SÚMULA 284/STF. DEFICIÊNCIA DE FUNDAMENTAÇÃO. FALTA DE ARGUMENTOS NOVOS. MANUTENÇÃO DA DECISÃO POR SEUS PRÓPRIOS FUNDAMENTOS.
+Agravo regimental improvido.
+RELATÓRIO
+Trata-se de agravo regimental interposto por TAYANY SANTOS DA CUNHA contra decisão monocrática assim ementada (fl. 694):
+DIREITO PENAL E PROCESSUAL PENAL. AGRAVO EM RECURSO ESPECIAL. TRÁFICO DE DROGAS. DECISÃO DE INADMISSÃO INCINDÍVEL. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA E INTEGRAL DOS FUNDAMENTOS. SÚMULA 182/STJ POR ANALOGIA. ÓBICE DA SÚMULA 7/STJ NÃO AFASTADO. TEMA 190/STJ E SÚMULA 231/STJ NÃO IMPUGNADOS DE FORMA CONCRETA. SÚMULA 284/STF . DEFICIÊNCIA DE FUNDAMENTAÇÃO RECONHECIDA PELA PARTE. IMPOSSIBILIDADE DE REVOLVIMENTO FÁTICO-PROBATÓRIO. Agravo em recurso especial não conhecido.
+Nas razões (fls. 705/712), a parte agravante alega que o agravo em recurso especial passou pelo filtro da Presidência e que o Ministério Público Federal se manifestou pelo conhecimento dos agravos, o que demonstraria a inadequação do óbice aplicado na decisão monocrática.
+Argumenta que o Tema 190, vinculado à Súmula 231, não deveria ter sido apreciado na decisão agravada, pois a tese não foi discutida no agravo em recurso especial, mas em agravo interno perante o Tribunal de Justiça, onde a controvérsia foi esgotada.
+Sustenta, quanto à Súmula 284 do Supremo Tribunal Federal, que houve indicação equivocada do art. 386, VII, do Código de Processo Penal no recurso especial, reconhecendo o erro e a desnecessidade de análise do ponto pelo Superior Tribunal de Justiça.
+Defende a inaplicabilidade da Súmula 7 do Superior Tribunal de Justiça, afirmando que busca apenas a revaloração jurídica de questões incontroversas, especialmente sobre a nulidade do ingresso domiciliar e a incidência do tráfico privilegiado, citando precedentes.
+Assevera que, quanto à nulidade do ingresso domiciliar, a controvérsia é de direito e que os fundamentos utilizados pelo Tribunal de Justiça - fuga ao avistar os agentes, avistamento de drogas no interior da residência e local e acusada conhecidos pela prática do tráfico - estão em dissonância com a jurisprudência do Superior Tribunal de Justiça.
+Aduz que faz jus à causa de diminuição do § 4º do art. 33 da Lei n. 11.343/2006, por ser primária, sem antecedentes, não se dedicar a atividades criminosas nem integrar organização criminosa, e que quantidade e variedade de drogas não presumem dedicação criminosa, citando precedentes.
+Pugna, assim, pela reforma da decisão agravada, para que se conheça do agravo em recurso especial e lhe seja dado provimento.
+É o relatório.
+EMENTA
+DIREITO PENAL E PROCESSUAL PENAL. AGRAVO REGIMENTAL EM AGRAVO EM RECURSO ESPECIAL. TRÁFICO DE DROGAS. DECISÃO DE INADMISSÃO INCINDÍVEL. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA E INTEGRAL. SÚMULA 182/STJ. SÚMULA 7/STJ. NECESSIDADE DE REVOLVIMENTO FÁTICO-PROBATÓRIO. TEMA 190/STJ. SÚMULA 231/STJ. SÚMULA 284/STF. DEFICIÊNCIA DE FUNDAMENTAÇÃO. FALTA DE ARGUMENTOS NOVOS. MANUTENÇÃO DA DECISÃO POR SEUS PRÓPRIOS FUNDAMENTOS.
+Agravo regimental improvido.
+VOTO
+A decisão agravada deve ser mantida por seus próprios fundamentos. A bem da verdade, as razões do agravo regimental não detêm o condão de infirmar os fundamentos da decisão recorrida.
+Esta Corte Superior tem reiteradamente afirmado que o agravo regimental deve trazer novos argumentos capazes de alterar o entendimento anteriormente firmado, sob pena de ser mantida a decisão vergastada por seus próprios fundamentos (AgRg no RHC n. 110.812/PR, Min. Leopoldo de Arruda Raposo, Desembargador convocado do TJ/PE, Quinta Turma, DJe 10/12/2019).
+Conforme afirmado na decisão impugnada, a decisão que inadmite o recurso especial na origem não é formada por capítulos autônomos, mas por um único dispositivo, razão pela qual deve ser impugnada na sua integralidade, ou seja, em todos os seus fundamentos, inclusive de forma específica, suficiente e pormenorizada, não sendo suficientes meras alegações genéricas ou relativas ao mérito da controvérsia, sob pena de incidência do óbice da Súmula 182/STJ (AgRg nos EDcl no AREsp n. 2.985.942/MA, Rel. Min. Antonio Saldanha Palheiro, Sexta Turma, DJEN 25/9/2025).
+Ao que se observa, o Tribunal de origem inadmitiu o apelo nobre pelos seguintes fundamentos: 1) Súmula 7/STJ ; 2) Tema 190/STJ, com aplicação da Súmula 231/STJ; e 3) Súmula 284/STF (fls. 520/522).
+Todavia, a parte agravante, nas razões do agravo em recurso especial, não impugnou, de maneira específica, a íntegra da decisão de inadmissão.
+No ponto referente ao Tema 190/STJ e Súmula 231/STJ , não houve impugnação concreta, pois a agravante não indicou precedentes contemporâneos do Superior Tribunal de Justiça em sentido diverso nem demonstrou distinção fática ou jurídica capaz de afastar a orientação repetitiva aplicada na origem.
+Quanto ao óbice da Súmula 284/STF, também não houve impugnação apta, porquanto a agravante reconheceu o equívoco na indicação do art. 386, VII, do Código de Processo Penal e afirmou inexistir ofensa, mantendo a deficiência de fundamentação do recurso especial.
+Relativamente à Súmula 7/STJ, a impugnação foi apenas parcial. A agravante defendeu a possibilidade de mera revaloração jurídica quanto à justa causa fundada em fuga e local conhecido, porém negou o avistamento prévio de drogas consignado pelas instâncias ordinárias, o que demanda revolvimento do acervo fático- probatório, insuficiente para afastar o óbice.
+Sendo assim, a parte agravante não trouxe nenhum argumento novo, que pudesse infirmar a decisão impugnada, devendo esta ser mantida por seus próprios fundamentos.
+Pelo exposto, nego provimento ao agravo regimental.
