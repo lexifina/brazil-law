@@ -1,0 +1,90 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Turma, por unanimidade, não conhecer do pedido.
+Os Srs. Ministros Joel Ilan Paciornik, Messod Azulay Neto, Maria Marluce Caldas e Reynaldo Soares da Fonseca votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Reynaldo Soares da Fonseca.
+EMENTA
+Direit o processual penal. Habeas corpus Substitutivo de recurso próprio. Tráfico de drogas. Coação moral irresistível. Tráfico privilegiado. Reincidência. Regime fechado. writ não conhecido.
+I. Caso em exame
+1. Habeas corpus impetrado em substituição a recurso próprio contra acórdão de Tribunal estadual que, em condenação transitada em julgado pelo art. 33, caput, c/c art. 40, III, da Lei n. 11.343/2006, fixou pena de 5 anos e 10 meses de reclusão, em regime fechado, e dias-multa. Defesa pleiteia: (i) reconhecimento de excludente de culpabilidade por coação moral irresistível (art. 22 do Código Penal); (ii) aplicação da causa especial de diminuição do art. 33, § 4º, da Lei n. 11.343/2006, com afastamento de bis in idem na valoração da reincidência; e (iii) readequação do regime prisional, com fundamento nos arts. 33, §§ 2º e 3º, do Código Penal e nas Súmulas 718 e 719 do Supremo Tribunal Federal.
+II. Questão em discussão
+2. A questão em discussão consiste em saber se o habeas corpus é admissível como substitutivo de revisão criminal para condenação já coberta pela coisa julgada, sem inauguração da competência do Superior Tribunal de Justiça, e se há flagrante ilegalidade que autorize a concessão de ordem de ofício.
+3. A questão em discussão também consiste em saber se a utilização da reincidência como agravante na segunda fase da dosimetria impede, por bis in idem, o afastamento da causa especial de diminuição do art. 33, § 4º, da Lei n. 11.343/2006, se é possível reconhecer coação moral irresistível em sede de habeas corpus e se há motivação idônea para a manutenção do regime inicial fechado.
+III. Razões de decidir
+4. O Superior Tribunal de Justiça não admite habeas corpus como substitutivo de revisão criminal, à luz do art. 105, I, e, da Constituição da República, ressalvada a possibilidade de concessão de ofício apenas diante de ilegalidade manifesta.
+5. Ausência de ilegalidade flagrante no acórdão impugnado capaz de justificar a concessão de ordem de ofício (CPP, art. 654, § 2º).
+6. A reincidência constitui motivo idôneo para afastar a causa especial de diminuição do art. 33, § 4º, da Lei n. 11.343/2006 e pode ser valorada como agravante na segunda fase da dosimetria, sem caracterizar bis in idem, por possuírem finalidades distintas.
+7. A fixação do regime inicial fechado encontra amparo no art. 33, § 2º, b, e § 3º, do Código Penal, com motivação idônea pautada na reincidência e na necessidade de prevenção especial.
+8. O reconhecimento de excludente de culpabilidade por coação moral irresistível demanda revolvimento fático-probatório, providência incompatível com a via estreita do habeas corpus.
+IV. Dispositivo e tese
+9. Resultado do Julgamento: Habeas corpus não conhecido.
+Tese de julgamento:
+1. O habeas corpus não é meio idôneo para substituir a revisão criminal de condenação já transitada em julgado, sem inauguração da competência do Superior Tribunal de Justiça. 2. A conces são de habeas corpus de ofício depende da constatação de ilegalidade flagrante no ato judicial impugnado. 3. A reincidência pode ser utilizada como agravante e, simultaneamente, afastar o tráfico privilegiado do art. 33, § 4º, da Lei n. 11.343/2006, sem configurar bis in idem. 4. A manutenção do regime inicial fechado é legítima quando fundada na reincidência e nas balizas do art. 33, § 2º, b, e § 3º, do Código Penal. 5. A alegação de coação moral irresistível, como excludente de culpabilidade, não pode ser apreciada em habeas corpus por exigir revolvimento fático-probatório.
+Dispositivos relevantes citados:
+CR/1988, art. 105, I, e; CPP, art. 654, § 2º; Lei n. 11.343/2006, art. 33, § 4º; CP, art. 33, § 2º, b, e § 3º; CP, art. 22
+Jurisprudência relevante citada:STJ, HC 809.070/CE, Quinta Turma, DJe 29.10.2024; STJ, AgRg no HC 940.391/MG, Sexta Turma, DJEN 24.03.2025; STJ, AgRg no AREsp 2.565.957/TO, Quinta Turma, DJe 11.09.2024; STJ, AgRg no HC 958.212/SP, Quinta Turma, DJEN 19.03.2025; STJ, AgRg no HC 961.564/SC, Sexta Turma, DJEN 11.03.2025
+RELATÓRIO
+Trata-se de habeas corpus substitutivo de recurso próprio, com pedido de liminar, impetrado em benefício de LUIZ CLÁUDIO TOMAZ DE MOURA, no qual se aponta como autoridade coatora o Tribunal de Justiça do Estado de São Paulo.
+Consta dos autos que o paciente foi condenado definitivamente como incurso no art. 33, caput, combinado com o art. 40, III, da Lei nº 11.343/2006, à pena de 5 anos e 10 meses de reclusão, em regime fechado, além de 583 dias-multa (fls. 2 e 4).
+Neste habeas corpus, o impetrante sustenta que houve indevida negativa da exclusão de culpabilidade da coação moral irresistível prevista no art. 22 do Código Penal, porque o paciente teria ingerido papéis (com drogas) para ingressar na unidade prisional sob grave ameaça, o que não poderia ser desconsiderado mediante investigação probatórias incompatíveis com a realidade do cárcere (fls. 10-12).
+Afirma que a dosimetria violou o sistema trifásico (art. 68 do Código Penal) e configurou-o bis in idem, pois a reincidência foi utilizada como agravante na segunda fase e, novamente, para impedir a causa especial de diminuição do art. 33, § 4º, da Lei nº 11.343/2006 (fls. 12-13).
+Aduz que o regime fechado é desproporcional, eivado de motivação idônea e contrário às Súmulas 718 e 719 do Supremo Tribunal Federal, considerando a pena aplicada e as situações do caso (fls. 13-14).
+Requer a concessão da ordem, desde logo, monocraticamente (RISTJ, art. 202, caput), para cassar o acórdão da 7ª Câmara de Direito Penal do TJSP na Apelação nº 1502643-05.2020.8.26.0114, e reformar a sentença da 1ª Vara Criminal de Campinas/SP, para: (i) reconhecer a coação moral irresistível como excludente de culpabilidade, absolvendo o paciente com fundamento no art. 386, VI, do CPP e ou no inciso VII, pelo princípio do in dubio pro reo; (ii) subsidiariamente, aplicar a causa especial de redução da pena do art. 33, § 4º, da Lei nº 11.343/2006, fixando a fração adequada e afastando o bis in idem decorrente da dupla valorização da reincidência; (iii) ainda subsidiariamente, readequar o regime prisional para o semiaberto, compatível com a pena recalculada (fls. 15).
+É o relatório.
+EMENTA
+Direit o processual penal. Habeas corpus Substitutivo de recurso próprio. Tráfico de drogas. Coação moral irresistível. Tráfico privilegiado. Reincidência. Regime fechado. writ não conhecido.
+I. Caso em exame
+1. Habeas corpus impetrado em substituição a recurso próprio contra acórdão de Tribunal estadual que, em condenação transitada em julgado pelo art. 33, caput, c/c art. 40, III, da Lei n. 11.343/2006, fixou pena de 5 anos e 10 meses de reclusão, em regime fechado, e dias-multa. Defesa pleiteia: (i) reconhecimento de excludente de culpabilidade por coação moral irresistível (art. 22 do Código Penal); (ii) aplicação da causa especial de diminuição do art. 33, § 4º, da Lei n. 11.343/2006, com afastamento de bis in idem na valoração da reincidência; e (iii) readequação do regime prisional, com fundamento nos arts. 33, §§ 2º e 3º, do Código Penal e nas Súmulas 718 e 719 do Supremo Tribunal Federal.
+II. Questão em discussão
+2. A questão em discussão consiste em saber se o habeas corpus é admissível como substitutivo de revisão criminal para condenação já coberta pela coisa julgada, sem inauguração da competência do Superior Tribunal de Justiça, e se há flagrante ilegalidade que autorize a concessão de ordem de ofício.
+3. A questão em discussão também consiste em saber se a utilização da reincidência como agravante na segunda fase da dosimetria impede, por bis in idem, o afastamento da causa especial de diminuição do art. 33, § 4º, da Lei n. 11.343/2006, se é possível reconhecer coação moral irresistível em sede de habeas corpus e se há motivação idônea para a manutenção do regime inicial fechado.
+III. Razões de decidir
+4. O Superior Tribunal de Justiça não admite habeas corpus como substitutivo de revisão criminal, à luz do art. 105, I, e, da Constituição da República, ressalvada a possibilidade de concessão de ofício apenas diante de ilegalidade manifesta.
+5. Ausência de ilegalidade flagrante no acórdão impugnado capaz de justificar a concessão de ordem de ofício (CPP, art. 654, § 2º).
+6. A reincidência constitui motivo idôneo para afastar a causa especial de diminuição do art. 33, § 4º, da Lei n. 11.343/2006 e pode ser valorada como agravante na segunda fase da dosimetria, sem caracterizar bis in idem, por possuírem finalidades distintas.
+7. A fixação do regime inicial fechado encontra amparo no art. 33, § 2º, b, e § 3º, do Código Penal, com motivação idônea pautada na reincidência e na necessidade de prevenção especial.
+8. O reconhecimento de excludente de culpabilidade por coação moral irresistível demanda revolvimento fático-probatório, providência incompatível com a via estreita do habeas corpus.
+IV. Dispositivo e tese
+9. Resultado do Julgamento: Habeas corpus não conhecido.
+Tese de julgamento:
+1. O habeas corpus não é meio idôneo para substituir a revisão criminal de condenação já transitada em julgado, sem inauguração da competência do Superior Tribunal de Justiça. 2. A conces são de habeas corpus de ofício depende da constatação de ilegalidade flagrante no ato judicial impugnado. 3. A reincidência pode ser utilizada como agravante e, simultaneamente, afastar o tráfico privilegiado do art. 33, § 4º, da Lei n. 11.343/2006, sem configurar bis in idem. 4. A manutenção do regime inicial fechado é legítima quando fundada na reincidência e nas balizas do art. 33, § 2º, b, e § 3º, do Código Penal. 5. A alegação de coação moral irresistível, como excludente de culpabilidade, não pode ser apreciada em habeas corpus por exigir revolvimento fático-probatório.
+Dispositivos relevantes citados:
+CR/1988, art. 105, I, e; CPP, art. 654, § 2º; Lei n. 11.343/2006, art. 33, § 4º; CP, art. 33, § 2º, b, e § 3º; CP, art. 22
+Jurisprudência relevante citada:STJ, HC 809.070/CE, Quinta Turma, DJe 29.10.2024; STJ, AgRg no HC 940.391/MG, Sexta Turma, DJEN 24.03.2025; STJ, AgRg no AREsp 2.565.957/TO, Quinta Turma, DJe 11.09.2024; STJ, AgRg no HC 958.212/SP, Quinta Turma, DJEN 19.03.2025; STJ, AgRg no HC 961.564/SC, Sexta Turma, DJEN 11.03.2025
+VOTO
+Preliminarmente, observa-se que a defesa busca desconstituir condenação acobertada pela coisa julgada, o que confere a este habeas corpus nítidas características revisionais.
+Todavia, a esta Corte cabe tão somente a revisão criminal dos seus próprios julgados, de acordo com o art. 105, inciso I, alínea e, da Constituição da República. Ademais, uma vez priorizando o uso racional do habeas corpus e a sistemática recursal estabelecida pelo CPP, o Supremo Tribunal Federal e o Superior Tribunal de Justiça não tem admitido o habeas corpus substitutivo de recurso próprio, ressalvadas as hipóteses de manifesta ilegalidade no ato judicial impugnado.
+No caso, da leitura atenta do acórdão impugnado, não se identifica o manifesto constrangimento sustentado pela defesa em razão da negativa do privilégio especial da Lei de Drogas, na medida em a falta de primariedade é causa de exclusão do referido benefício nos termos do art. 33, § 4º, da Lei n. 11.343/2006.
+Conforme posto no acórdão impugnado, "A reincidência obsta o reconhecimento do tráfico privilegiado, nos moldes do artigo 33, § 4º da Lei 11.343/06, e impede a fixação de regime diverso do fechado, a teor do artigo 33, § 2º, alínea "b" do Código Penal, em que pese o total da reprimenda, mesmo porque, o apelante ostenta condenação anterior por roubo majorado, necessária a manutenção do regime mais gravoso como forma de combater a reiteração delitiva, observado o disposto no artigo 33, § 3º do Código Penal e prestigiado o binômio da reprovabilidade e da suficiência."
+Esta Corte já se manifestou que "Na segunda fase da dosimetria da pena, a reincidência foi utilizada como agravante, o que não impede que a mesma afaste a minorante do tráfico privilegiado, pois, nos termos da jurisprudência desta Corte, tal proceder decorre de expressas previsões legais, com finalidades diversas não havendo, portanto, bis in idem" (HC n. 809.070/CE, relatora Ministra Daniela Teixeira, Quinta Turma, julgado em 22/10/2024, DJe de 29/10/2024.). Assim, como é motivação idônea para justificar o regime mais grave.
+Por sua vez, o acolhimento da tese defensiva de excludente da culpabilidade pela suposta coação moral irresistível é matéria que demanda o revolvimento fático probatório providência inadmissível, em habeas corpus.
+A seguir os julgados que respaldam esse entendimento:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS. HABEAS CORPUS SUBSTITUTIVO DE REVISÃO CRIMINAL. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. Esta Corte, em diversas ocasiões, reconheceu a impossibilidade de impetração de habeas corpus concomitante à interposição de recurso especial ou em substituição à revisão criminal.
+2. Revela-se inviável, notadamente diante da incompetência deste Superior Tribunal, analisar habeas corpus substitutivo de revisão criminal. Sem descurar de sua importância na defesa da liberdade de locomoção, a crescente quantidade de impetrações que, antes, deveriam ser examinadas em instâncias diversas, está prejudicando as funções constitucionais desta Corte, em detrimento da eficácia do apelo especial, o que enfraquece a delimitação de teses para a uniformidade e a previsibilidade do sistema jurídico.
+3. Conforme a compreensão desta Corte Superior, "a concessão da ordem de ofício é de iniciativa exclusiva do julgador, quando se deparar com flagrante ilegalidade em procedimento de sua competência" (AgRg no AREsp n. 2.565.957/TO, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 9/9/2024, DJe de 11/9/2024), o que não se verifica na hipótese.
+4. Agravo regimental não provido.
+(AgRg no HC n. 940.391/MG, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 19/3/2025, DJEN de 24/3/2025.)
+Direito processual penal. Agravo regimental. Habeas corpus substitutivo de revisão criminal. Inadmissibilidade. TRÂNSITO EM JULGADO DA CONDENAÇÃO. AUSÊNCIA DE ILEGALIDADE FLAGRANTE NO ACÓRDÃO IMPUGNADO. Agravo regimental desprovido.
+I. Caso em exame
+1. Agravo regimental interposto contra decisão que não conheceu do habeas corpus impetrado como substitutivo de revisão criminal, em razão de condenação já transitada em julgado.
+2. O agravante pleiteia a reconsideração da decisão agravada ou a concessão de habeas corpus para alterar o regime de cumprimento de pena de semiaberto para aberto, com substituição da pena privativa de liberdade por restritivas de direitos, conforme o art. 33, §§ 2º e 3º, do Código Penal.
+II. Questão em discussão
+3. A questão em discussão consiste em saber se é admissível o habeas corpus como substitutivo de revisão criminal para condenação já transitada em julgado, sem que tenha havido inauguração da competência do Superior Tribunal de Justiça.
+4. Outra questão é saber se há ilegalidade flagrante no julgado impugnado que justifique a concessão de habeas corpus de ofício.
+III. Razões de decidir
+5. O Superior Tribunal de Justiça não conhece do habeas corpus manejado como substitutivo de revisão criminal quando não houve inauguração de sua competência, conforme o art. 105, inciso I, alínea e, da Constituição Federal.
+6. Não se verifica ilegalidade flagrante no julgado impugnado que justifique a concessão de habeas corpus de ofício, nos termos do § 2º do art. 654 do Código de Processo Penal.
+7. A decisão agravada foi mantida com base em argumentos que encontram amparo na jurisprudência do Superior Tribunal de Justiça.
+IV. Dispositivo e tese
+8. Agravo regimental desprovido.
+Tese de julgamento: "1. O habeas corpus não é admissível como substitutivo de revisão criminal para condenação já transitada em julgado, sem inauguração da competência do STJ. 2. A inexistência de ilegalidade flagrante no julgado impugnado impede a concessão de habeas corpus de ofício."
+Dispositivos relevantes citados: CF/1988, art. 105, I, e; CPP, art. 654, § 2º. Jurisprudência relevante citada: STJ, AgRg no HC 903.400/RS, de minha relatoria, Quinta Turma, DJe 17.6.2024; STJ, AgRg no HC 885.889/RS, Rel. Min. Ribeiro Dantas, Quinta Turma, DJe 13.6.2024.
+(AgRg no HC n. 958.212/SP, relator Ministro Messod Azulay Neto, Quinta Turma, julgado em 12/3/2025, DJEN de 19/3/2025.)
+DIREITO PROCESSUAL PENAL. AGRAVO REGIMENTAL EM HABEAS CORPUS. INADEQUAÇÃO DO HABEAS CORPUS COMO SUBSTITUTIVO DE RECURSO. AGRAVO DESPROVIDO.
+1. A jurisprudência do Superior Tribunal de Justiça é uníssona no sentido de que não cabe a utilização de habeas corpus como sucedâneo de recurso próprio ou de revisão criminal, sob pena de desvirtuamento do objeto do remédio heroico.
+2. A concessão de habeas corpus de ofício é possível apenas em casos de manifesta ilegalidade, conforme preceitua o art. 654, § 2º, do Código de Processo Penal, o que não se verifica no presente caso, dada a condenação concomitante por associação para tráfico, o que sugere não ser para consumo próprio a ainda que pequena quantidade de droga apreendida, necessitando-se extenso revolvimento de acervo fático-probatório para se concluir em sentido diverso.
+3. Agravo regimental desprovido.
+Dispositivos relevantes citados: Código de Processo Penal, art. 654, § 2º.Jurisprudência relevante citada: STJ, AgRg no HC n. 904.330/PR, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 2.9.2024; STJ, AgRg no HC n. 834.221/DF, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 18.9.2023; STJ, AgRg no HC n. 921.445/MS, relatora Ministra Daniela Teixeira, Quinta Turma, julgado em 3.9.2024.
+(AgRg no HC n. 961.564/SC, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 5/3/2025, DJEN de 11/3/2025.)
+Ante o exposto, não conheço do habeas corpus.
+É o voto .
