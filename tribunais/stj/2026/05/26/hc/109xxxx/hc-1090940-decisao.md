@@ -1,0 +1,16 @@
+DECISÃO
+Trata-se de habeas corpus substitutivo de recurso próprio impetrado em benefício de NÚBIA RAFAELA SILVA DE OLIVEIRA, apontando como autoridade coatora o Tribunal de Justiça do Estado do Amazonas.
+Consta dos autos que a paciente teve a prisão preventiva decretada, no processo n. 0013553-31.2026.8.04.1000, pela suposta prática dos delitos tipificados no art. 33, caput, da Lei nº 11.343/2006 (tráfico ilícito de drogas), no art. 2º da Lei 12.850/2013 (organização criminosa), art. 35 da Lei nº 11.343/2006 (associação para o tráfico), nos arts. 333 e 317 do Código Penal (corrupção ativa e passiva), Art. 325 do Código Penal (violação do sigilo funcional), e Art. 1º da Lei nº 9.612/1998 (lavagem de dinheiro e ocultação de patrimônio), estado o mandado de prisão em aberto.
+Impetrado habeas corpus na origem, o writ foi inadmitido em decisão monocrática da referida Corte - n. 0004653-15.2026.8.04.9001. A defesa agravou dessa decisão, tendo sido negado provimento monocraticamente ao recurso por Desembargador integrante do Tribunal de Justiça amazonense - n. 0007327-63.2026.8.04.9001 (e-STJ, fls 9-12).
+Neste habeas corpus, o impetrante alega, em suma, violação ao art. 123, parágrafo único, do Regimento Interno do TJAM, uma vez que o agravo interno deveria ter sido levado ao colegiado na primeira sessão disponível, sendo vedada sua apreciação monocraticamente. Argumenta, que não houve supressão de instância, já que o habeas corpus atacava diretamente decreto de prisão preventiva eficaz, sendo desnecessário pedido prévio de revogação.
+Requer a concessão da ordem para que seja a cassada a decisão monocrática que julgou o agravo regimental e encaminhado o Agravo Regimental n. 0007327-63.2026.8.04.9001 ao colegiado competente, afastando-se, ainda, o fundamento de supressão de instância utilizado para obstar seu conhecimento, com regular prosseguimento da impetração originária perante o órgão competente.
+O MPF manifestou-se pelo não conhecimento do writ.
+É o relatório.
+O habeas corpus não merece conhecimento.
+Em consulta na base de dados desta Corte, observa-se que este habeas corpus constitui mera reiteração do pedido formulado no RHC 238061/AM. Isso porque há identidade de partes, causa de pedir e impugnam os dois feito o mesmo acórdão (Agravo Regimental no HC n. 0007327-63.2026.8.04.9001).
+Inclusive, em decisão de minha relatoria proferida em 14/05/2026, a ordem já foi concedida, de oficio, "para cassar a decisão monocrática que apreciou o agravo regimental e determinar que o Agravo Regimental n. 0007327-63.2026.8.04.9001 seja submetido ao órgão colegiado competente do Tribunal de Justiça do Estado do Amazonas."
+Desse modo, o exame dos fundamentos apresentados para justificar a prisão cautelar da paciente deverá ser feito, preliminarmente, pelo órgão colegiado do Tribunal estadual, nos exatos termos do art. 312 do CPP, ficando impossibilitada esta Corte de apreciar o conteúdo da decisão monocrática da relatora, diante da ausência de exaurimento da instância ordinária, sob pena de subversão do sistema processual.
+Anote-se, ainda, que a legalidade da prisão cautelar da paciente já está sendo questionada em outros dois feitos nesta Corte, HC 1076608/AM e no pedido de extensão deduzido no HC 1085298/AM.
+Ante o exposto, não conheço do habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
