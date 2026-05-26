@@ -1,0 +1,30 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido de liminar, impetrado em favor de GUILHERME DE MOURA CHAVES, apontando como autoridade coatora o Tribunal de Justiça do Estado de Goiás (HC n. 5027213-26.2026.8.09.0011).
+Consta nos autos que o paciente foi preso em flagrante, prisão esta convertida em preventiva, pela suposta prática do crime previsto no art. 121, § 2º, II e IV, c/c o art. 14, II, do Código Penal. Sobreveio decisão de pronúncia sem manifestação específica quanto à necessidade da prisão até o julgamento pelo Tribunal do Júri.
+No habeas corpus originário, o Tribunal de origem concedeu parcialmente a ordem para determinar que o Juízo de origem se manifestasse de forma fundamentada acerca da manutenção da prisão e do direito de o réu aguardar o Júri em liberdade, tendo sido, posteriormente, rejeitados embargos de declaração que apontavam a inércia do Juízo singular.
+No presente mandamus, a parte impetrante sustenta que a decisão de pronúncia carece de fundamentação concreta sobre a manutenção da custódia, configurando constrangimento ilegal. Afirma que a posterior revisão da prisão, com base no art. 316, parágrafo único, do Código de Processo Penal, limita-se a fundamentos genéricos e à gravidade abstrata do delito, sem elementos contemporâneos do periculum libertatis.
+Argumenta que, apesar da determinação do Tribunal de origem para manifestação específica do Juízo de primeiro grau, persiste a omissão, o que reforça o pedido de revogação da preventiva.
+Defende que o paciente possui condições pessoais favoráveis (ocupação lícita anterior, residência fixa, boa índole) e que medidas cautelares diversas seriam suficientes.
+Ressalta a presunção de inocência e a necessidade de motivação idônea para a manutenção da prisão.
+Aponta que não há fatos novos ou concretos que indiquem risco à ordem pública ou à instrução, nem justificativa atual para negar o direito de recorrer em liberdade.
+Requer, liminarmente e no mérito, a revogação da prisão preventiva, com a concessão do direito de recorrer em liberdade. Subsidiariamente, pugna pela determinação de que o Juízo de primeiro grau profira decisão motivada específica sobre a manutenção da prisão, nos termos do art. 413, § 3º, do Código de Processo Penal.
+Liminar indeferida às fls. 622/624.
+Informações prestadas às fls. 630/636.
+Parecer ministerial de fls. 650/657 opinando pelo não conhecimento do writ.
+É o relatório. Decido.
+No caso em exame, a Corte estadual reconheceu a omissão da decisão de pronúncia quanto à análise específica da custódia preventiva e, em consonância com a orientação desta Casa, concedeu parcialmente a ordem apenas para que o juízo natural proferisse decisão motivada sobre a necessidade de manutenção da prisão e sobre o direito de o réu aguardar o Júri em liberdade. Embargos de declaração posteriores foram rejeitados, ante a ausência de vícios no julgado. A impetração nesta instância busca, em essência, deslocar para o STJ a decisão que deve ser tomada pelo juízo de origem, malferindo a ordem procedimental e a competência natural para o primeiro exame da matéria.
+A rigor, não há vício no acórdão impugnado: o Tribunal local adotou medida adequada ao constatar a omissão e determinou a pronta manifestação do juízo a quo. A alegada inércia superveniente do juízo singular - decorrente, segundo consta, da remessa do recurso em sentido estrito à segunda instância - não transmuta a natureza da controvérsia nem autoriza que esta Corte assuma, originariamente, exame que ainda não foi realizado na instância competente. Cabia à parte, diante do descumprimento ou impossibilidade material de cumprimento, manejar os meios processuais idôneos para assegurar a execução do acórdão estadual ou para viabilizar a reapreciação pelo próprio juízo natural. Mutatis mutandis:
+HABEAS CORPUS. HOMICÍDIO QUALIFICADO. PRONÚNCIA. AUSÊNCIA DE MANIFESTAÇÃO QUANTO À NECESSIDADE DE MANUTENÇÃO DA CUSTÓDIA CAUTELAR. PRISÃO PREVENTIVA. ORDEM CONCEDIDA PARCIALMENTE.
+1. A omissão quanto à análise da necessidade de manutenção da custódia preventiva na decisão de pronúncia aponta o descumprimento da norma contida no art. 413, § 3º, do Código de Processo Penal.
+Esse vácuo decisório, no entanto, não pode ser equiparado à inexistência dos requisitos autorizadores da segregação cautelar do paciente, ressalvado o entendimento do Relator.
+2. A Corte local não analisou a aplicação das medidas cautelares previstas no art. 319 do CPP, evidenciando-se, assim, a impossibilidade de conhecimento da matéria, sob pena de vedada supressão de instância.
+3. Ordem parcialmente concedida, apenas para determinar que o Juiz de primeiro grau supra a omissão da decisão de pronúncia, no que tange à explicitação quanto à necessidade de manutenção ou não da custódia preventiva, no prazo máximo de 5 dias. (HC n. 408.843/PR, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 27/2/2018, DJe de 20/3/2018.)
+Ademais, as demais pretensões deduzidas - revogação direta da prisão preventiva, substituição por medidas diversas e garantia do direito de recorrer em liberdade - demandam exame específico dos pressupostos cautelares à luz de elementos atualizados e decisão própria do juízo de primeiro grau, justamente o que a Corte estadual determinou que fosse feito. A apreciação direta por esta instância, sem manifestação antecedente e sem pronunciamento colegiado sobre o conteúdo superveniente, configuraria supressão de instância, vedando o conhecimento nesta sede. A via do habeas corpus não se presta a substituir o itinerário processual adequado nem a legitimar acréscimo de motivação que falta ao ato originário.
+A propósito:
+(..)
+2. O Tribunal de origem não analisou o tema no viés ora delineado pela defesa, ficando esta Corte impedida de apreciar a matéria, sob pena de indevida supressão de instância.
+(..)
+5. Agravo regimental desprovido. (AgRg no HC n. 864.854/SP, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 2/9/2025, DJEN de 9/9/2025.)
+Ante o exposto, não conheço do habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
