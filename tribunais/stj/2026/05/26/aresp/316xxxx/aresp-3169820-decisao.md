@@ -1,0 +1,14 @@
+DECISÃO
+Trata-se de agravo interposto por EDNALDO FERREIRA DA SILVA contra a decisão do TRIBUNAL DE JUSTIÇA DE SÃO PAULO que inadmitiu recurso especial dirigido contra o acórdão prolatado no Recurso em Sentido Estrito n. 1500316-11.2022.8.26.0052.
+O Ministério Público Federal manifesta-se pelo não conhecimento do agravo em recurso especial (fls. 844/850).
+É o relatório.
+O agravo é inadmissível.
+Inicialmente, esclareço que a decisão que inadmite o recurso especial na origem não é formada por capítulos autônomos, mas por um único dispositivo, razão pela qual deve ser impugnada na sua integralidade, ou seja, em todos os seus fundamentos, inclusive de forma específica, suficiente e pormenorizada, não sendo suficientes meras alegações genéricas ou relativas ao mérito da controvérsia, sob pena de incidência do óbice da Súmula n. 182/STJ (AgRg nos EDcl no AREsp n. 2.985.942/MA, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 16/9/2025, DJEN de 25/9/2025).
+O Tribunal de origem não admitiu o apelo nobre pelos seguintes fundamentos: Súmula 283/STF e Súmula 7/STJ. Todavia, a parte agravante, nas razões do agravo em recurso especial, não impugnou, de maneira específica, a fundamentação atinente à Súmula 283/STF.
+Na espécie, a parte agravante cingiu-se a sustentar que houve fundamentação adequada acerca do desrespeito aos artigos 155 e 413, § 1º, ambos do CPP (fl. 812).
+Por conseguinte, aplica-se, à hipótese dos autos, o art. 932, inciso III, do CPC, c/c o art. 3º do CPP, e a Súmula 182 do Superior Tribunal de Justiça, in verbis: é inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada.
+Ante o exposto, não conheço do agravo em recurso especial.
+Publique-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. PENAL. PROCESSUAL PENAL. IMPUGNAÇÃO DEFICIENTE. INOBSERVÂNCIA DO COMANDO LEGAL INSERTO NOS ARTS. 932, III, DO CPC/2015, E 253, PARÁGRAFO ÚNICO, I, DO RISTJ. SÚMULA 182/STJ.
+Agravo em recurso especial não conhecido.
