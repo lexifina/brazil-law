@@ -1,0 +1,25 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em nome de HULLD GULLITHE VENANCIO DOS SANTOS PAIXAO, em que a defesa aponta como autoridade coatora o Tribunal de Justiça do Distrito Federal e dos Territórios, que conheceu e negou provimento ao Agravo de Execução Penal n. 0704173-49.2026.8.07.0000.
+Em síntese, o impetrante alega superlotação nas unidades do regime semiaberto do Distrito Federal como causa suficiente para a prisão domiciliar com monitoração eletrônica, com fundamento na Súmula Vinculante 56 e no RE 641.320/RS, a fim de evitar execução em regime mais gravoso do que o fixado no título condenatório.
+Afirma que no Distrito Federal, os dois estabelecimentos destinados ao cumprimento de pena em regime semiaberto masculino - Centro de Internamento e Reeducação (CIR) e Centro de Progressão Penitenciária (CPP) - operam com ocupação muito superior à sua capacidade legal, configurando evidente déficit estrutural de vagas (fl. 7).
+Requer a concessão da ordem para determinar a prisão domiciliar com monitoração eletrônica ao paciente (Processo n. 0404263-66.2018.8.07.0015, da Vara de Execuções Penais do Distrito Federal).
+É o relatório.
+A concessão de ordem de habeas corpus demanda demonstração da ilegalidade, ônus que recai sobre a parte impetrante, a quem cumpre instruir o feito com a prova pré-constituída de suas alegações.
+In casu, verifico, de plano, a inviabilidade do presente writ.
+O Tribunal a quo negou provimento ao agravo defensivo afirmando que (fls. 20/27):
+ ..  No particular, por ocasião do pedido de prisão domiciliar com monitoramento eletrônico, o agravante sequer havia iniciado o cumprimento da pena no regime semiaberto, pois encontrava-se cumprindo penas restritivas de direitos.
+ ..
+A orientação do Conselho Nacional de Justiça foi pensada para evitar que, em Estados sem estabelecimento adequado, o mandado de prisão seja o primeiro ato, culminando na alocação indevida em unidades de regime fechado.
+Contudo, conforme apontado na decisão recorrida, não é essa a realidade do Distrito Federal, cujo arranjo institucional permite a alocação direta do apenado no semiaberto, com atendimento dos seus benefícios próprios. Há estabelecimentos próprios para tal regime (CIR e CPP para o público masculino e ala específica na Penitenciária Feminina para o público feminino). Logo, não se cogita, em regra, de alocação em regime mais gravoso, nem de violação automática à Súmula Vinculante 56.
+De todo modo, a decisão agravada foi mais protetiva, pois determinou a intimação do sentenciado, que se encontrava em cumprimento de penas restritivas de direito, para viabilizar, desde o início, a análise do trabalho externo, solução harmônica com a ressocialização e com a remição pela via laboral. Somente na hipótese de não atendimento da intimação é que será expedido mandado de prisão.
+Portanto, a decisão agravada é compatível com o art. 23 da Resolução CNJ 417/2021 e Pedido de Providências n. 0008070 64.2022.2.00.0000, ao determinar intimação prévia para início da execução e planejamento do trabalho externo, não havendo ameaça de alocação em regime mais gravoso. Não houve, ademais, como visto, ofensa ao disposto na Súmula Vinculante n. 56.
+ ..
+Do trecho supratranscrito, verifica-se que o acórdão impugnado não destoa do entendimento da Terceira Seção desta Casa, adotado no julgamento do REsp n. 1.710.674/MG sob o rito dos recursos repetitivos, da relatoria do Ministro Reynaldo Soares da Fonseca, é de que não é possível a concessão da prisão domiciliar como primeira opção à falta de vagas em estabelecimento penal próprio do regime semiaberto, sem prévia observância dos parâmetros traçados no RE n. 641.320/RS.
+Na oportunidade, foi estabelecida a seguinte tese (Tema 993):
+A inexistência de estabelecimento penal adequado ao regime prisional determinado para o cumprimento da pena não autoriza a concessão imediata do benefício da prisão domiciliar, porquanto, nos termos da Súmula Vinculante n. 56, é imprescindível que a adoção de tal medida seja precedida das providências estabelecidas no julgamento do RE n. 641.320/RS, quais sejam: (i) saída antecipada de outro sentenciado no regime com falta de vagas, abrindo-se, assim, vagas para os reeducandos que acabaram de progredir; ii) a liberdade eletronicamente monitorada ao sentenciado que sai antecipadamente ou é posto em prisão domiciliar por falta de vagas; e (iii) cumprimento de penas restritivas de direitos e/ou estudo aos sentenciados em regime aberto.
+Assim, não verifico ilegalidade, tendo em vista que o paciente sequer iniciou o cumprimento da pena no regime semiaberto e foi destacado pelo Juízo da execução que há estabelecimento compatível com o regime (fls. 418/422).
+Ante o exposto, indefiro liminarmente a petição inicial.
+Publique-se.
+EMENTA
+HABEAS CORPUS. EXECUÇÃO PENAL. REGIME SEMIABERTO. SUPERLOTAÇÃO EM LOCAL ADEQUADO. PRISÃO DOMICILIAR COM MONITORAÇÃO ELETRÔNICA. ACÓRDÃO DO TRIBUNAL ESTADUAL EM CONSONÂNCIA COM A JURISPRUDÊNCIA DO STJ. TEMA 993. INEVIDÊNCIA DE CONSTRANGIMENTO ILEGAL.
+Petição inicial indeferida liminarmente.
