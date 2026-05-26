@@ -1,0 +1,52 @@
+DECISÃO:
+Trata-se de recurso extraordinário com agravo contra decisão de inadmissão do recurso extraordinário.
+O recurso foi interposto com fundamento nas alíneas "a" e "c" do permissivo constitucional.
+O acórdão recorrido  ficou assim ementado:
+
+DIREITO CONSTITUCIONAL E ADMINISTRATIVO. APELAÇÃO CÍVEL. SERVIDOR MUNICIPAL. PLANO DE CARGOS E SALÁRIOS. LEI MUNICIPAL Nº 2.333/2002. ENQUADRAMENTO DE FISCAL DE URBANISMO NO NÍVEL 6. INCONSTITUCIONALIDADE JÁ RECONHECIDA PELO ÓRGÃO ESPECIAL DO TJRJ. VÍCIO FORMAL DE INICIATIVA. MANUTENÇÃO DA SENTENÇA. RECURSO DESPROVIDO.
+I. Caso em exame
+1. Ação de cobrança cumulada com obrigação de fazer ajuizada por servidor público, ocupante do cargo de fiscal de urbanismo, em face do Município de Resende, com o objetivo de ser remunerado segundo o padrão salarial nível 6, com fundamento no Anexo V da Lei Municipal nº 2.333/2002.
+2. A sentença julgou improcedentes os pedidos ao reconhecer, incidentalmente, a inconstitucionalidade da norma municipal, por vício de iniciativa.
+3. Apelação do autor, alegando nulidade da sentença por violação à cláusula de reserva de plenário (art. 97 da CF/88) e pleiteando a reforma do julgado para reconhecer a constitucionalidade da norma e o direito ao reenquadramento.
+II. Questão em discussão
+4. Há duas questões em discussão: (i) verificar se a sentença proferida por juiz singular poderia reconhecer a inconstitucionalidade da Lei Municipal nº 2.333/2002 (Anexo V), sem violar a cláusula de reserva de plenário; e (ii) aferir se é válida a pretensão do servidor de reenquadramento para o nível 6, com base em norma legal cuja inconstitucionalidade já foi reconhecida pelo Órgão Especial do TJRJ.
+III. Razões de decidir
+5. O art. 97 da CF/88 e a Súmula Vinculante nº 10 do STF estabelecem que apenas o plenário ou órgão especial dos Tribunais podem declarar a inconstitucionalidade de normas legais, sendo inaplicável essa restrição a juízes de primeiro grau, conforme reiterada jurisprudência do STF.
+6. O Anexo V da Lei Municipal nº 2.333/2002 foi alterado por emenda parlamentar que remanejou o cargo de fiscal de urbanismo do nível 5 para o nível 6, implicando aumento de despesa sem a devida iniciativa do chefe do Poder Executivo, em afronta ao art. 63, I, da CF/88 e normas correlatas da Constituição Estadual do RJ e da Lei Orgânica do Município de Resende.
+7. A inconstitucionalidade dessa norma já foi expressamente reconhecida pelo Órgão Especial do TJRJ no julgamento do Incidente de Arguição de Inconstitucionalidade nº 0803405- 02.2022.8.19.0045.
+8. Nos termos do art. 949, parágrafo único, do CPC, é dispensável a submissão da arguição ao plenário ou órgão especial quando já houver pronunciamento anterior sobre a matéria, como ocorreu no presente caso.
+9. A orientação fixada pelo Órgão Especial é vinculante para os órgãos fracionários do tribunal, conforme o art. 927, V, do CPC.
+10. A vigência prolongada da norma impugnada não a imuniza do controle de constitucionalidade, nos termos do parecer do Ministério Público.
+IV. Dispositivo e tese
+11. Recurso desprovido.
+Tese de julgamento:
+1. A cláusula de reserva de plenário prevista no art. 97 da CF/88 aplica-se apenas aos órgãos colegiados, não sendo exigida para juízo de primeiro grau no exercício do controle incidental de constitucionalidade.
+2. A emenda parlamentar que, em projeto de iniciativa exclusiva do chefe do Executivo, promove aumento de despesa configura vício formal de iniciativa e é inconstitucional.
+3. Quando o Órgão Especial do Tribunal já tiver reconhecido a inconstitucionalidade da norma aplicada ao caso concreto, é dispensável nova submissão à cláusula de reserva de plenário, nos termos do art. 949, parágrafo único, do CPC.
+4. A orientação do Órgão Especial sobre a inconstitucionalidade da norma impugnada vincula os órgãos fracionários do Tribunal, conforme art. 927, V, do CPC.
+________________________
+Dispositivos relevantes citados: CF/1988, arts. 61, §1º, II, “a”; 63, I; 97. CE/RJ, art. 59, I. CPC, arts. 487, I; 927, V; 949, parágrafo único; Lei Municipal nº 2.333/2002.
+Jurisprudência relevante citada: STF, Súmula Vinculante nº 10; STF, Rcl 52.631/BA, Rel. Min. Alexandre de Moraes, j. 06.06.2022; STJ, AgInt no REsp 2.011.732/SC, Rel. Min. Sérgio Kukina, j. 14.08.2023; TJRJ, Incidente de Arguição de Inconstitucionalidade nº 0803405-02.2022.8.19.0045, Rel. Des. Edson Aguiar de Vasconcelos, j. 09.06.2025.
+
+Opostos os embargos de declaração, foram rejeitados.
+No recurso extraordinário sustenta-se violação do(s) art.(s) 5º, "caput" e inciso XXXVI; 97 da Constituição Federal.
+Decido.
+Analisados os autos, verifica-se, de plano, incabível a interposição do apelo extremo pelo permissivo da alínea “c” do art. 102, III, da Lei Fundamental, deixando o Tribunal de origem de julgar válida lei ou ato de governo local contestado em face da Constituição Federal. Colho como precedentes o ARE 1.321.299-AgR, Rel. Min. Luiz Fux (Presidente), Tribunal Pleno, DJe 13.8.2021; e o ARE 1.270.810-AgR, Rel. Min. Dias Toffoli (Presidente), Tribunal Pleno, DJe 27.10.2020, verbis:
+
+“AGRAVO INTERNO NO RECURSO EXTRAORDINÁRIO COM AGRAVO. DIREITO TRIBUTÁRIO. ISS PRIVILEGIADO. SOCIEDADE DE ÍNDOLE EMPRESARIAL. RECURSO EXTRAORDINÁRIO FUNDADO NAS ALÍNEAS C E D DO INCISO III DO ART. 102 DA CONSTITUIÇÃO FEDERAL. ACÓRDÃO RECORRIDO QUE JULGA VÁLIDA LEI OU ATO DE GOVERNO LOCAL CONTESTADOS EM FACE DA CARTA MAGNA. NÃO OCORRÊNCIA. PRECEDENTES. ACÓRDÃO RECORRIDO QUE JULGA VÁLIDA LEI LOCAL CONSTESTADA EM FACE DE LEI FEDERAL. NÃO OCORRÊNCIA. PRECEDENTES. PREQUESTIONAMENTO. AUSÊNCIA. LEGISLAÇÃO INFRACONSTITUCIONAL. OFENSA REFLEXA. FATOS E PROVAS. REEXAME. IMPOSSIBILIDADE. PRECEDENTES. 1. O acórdão recorrido não julgou válida lei ou ato de governo local contestados em face da Constituição, razão pela qual fica inviabilizado o processamento do recurso extremo pela alínea c do inciso III do art. 102 da Constituição Federal. 2. No acórdão recorrido, não se julgou válida lei local contestada em face de lei federal, razão pela qual fica inviabilizado o processamento do recurso extremo pela alínea d do inciso III do art. 102 da Constituição Federal 3. É inadmissível o recurso extraordinário se a matéria constitucional que nele se alega violada não está devidamente prequestionada. Incidência das Súmulas 282/STF. 4. Não se presta o recurso extraordinário para a análise de matéria infraconstitucional, tampouco para o reexame dos fatos e das provas constantes dos autos (Súmula 279/STF). 5. Agravo interno desprovido, com imposição de multa de 5% (cinco por cento) do valor atualizado da causa (artigo 1.021, § 4º, do CPC), caso seja unânime a votação. 6. Honorários advocatícios majorados ao máximo legal em desfavor da parte recorrente, caso as instâncias de origem os tenham fixado, nos termos do artigo 85, § 11, do Código de Processo Civil, observados os limites dos §§ 2º e 3º e a eventual concessão de justiça gratuita”. (ARE 1.321.299-AgR, Rel. Min. Luiz Fux (Presidente), Tribunal Pleno, DJe 13.8.2021)
+
+“Agravo regimental no recurso extraordinário com agravo. Direito Processual Civil. Recurso extraordinário fundado nas alíneas c e d do inciso III do art. 102 da Constituição Federal. Acórdão recorrido que julga válida lei ou ato de governo local contestados em face da Carta Magna. Não ocorrência. Precedentes. Acórdão recorrido que julga válida lei local contestada em face de lei federal. Não ocorrência. Precedentes. Direito Administrativo. Poço artesiano. Outorga pelo poder público. Legislação local. Ofensa reflexa. Precedentes. 1. O acórdão recorrido não julgou válida lei ou ato de governo local contestados em face da Constituição, razão pela qual fica inviabilizado o processamento do recurso extremo pela alínea c do inciso III do art. 102 da Constituição Federal. 2. No acórdão recorrido, não se julgou válida lei local contestada em face de lei federal, razão pela qual fica inviabilizado o processamento do recurso extremo pela alínea d do inciso III do art. 102 da Constituição Federal. 3. Não se presta o recurso extraordinário para a análise de matéria infraconstitucional. Incidência da Súmula nºs 280/STF. 4. Agravo regimental não provido. 5. Havendo prévia fixação de honorários advocatícios pelas instâncias de origem, seu valor monetário será majorado em 10% (dez por cento) em desfavor da parte recorrente, nos termos do art. 85, § 11, do Código de Processo Civil, observados os limites dos §§ 2º e 3º do referido artigo e a eventual concessão de justiça gratuita”. (ARE 1.270.810-AgR, Rel. Min. Dias Toffoli (Presidente), Tribunal Pleno, DJe 27.10.2020)
+Ademais, verifica-se que o Tribunal de origem decidiu a controvérsia com fundamento na legislação infraconstitucional local aplicável à espécie e no conjunto fático-probatório dos autos, cuja análise se revela inviável em sede de recurso extraordinário.
+Incidem, na espécie, os óbices das Súmulas 279 e 280 do STF, segundo as quais: “Para simples reexame de prova não cabe recurso extraordinário” e “Por ofensa a direito local não cabe recurso extraordinário”. Nesse sentido:
+
+“AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. DIREITO AMBIENTAL. AÇÃO CIVIL PÚBLICA. OBRA PARA RECUPERAÇÃO DE IMÓVEL. IMPOSSIBILIDADE DE REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO E DA LEGISLAÇÃO LOCAL: SÚMULAS 279 E 280 DO SUPREMO TRIBUNAL FEDERAL. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO”. (ARE 1.085.165-AgR, Rel. Min. Cármen Lúcia, Plenário,DJe de 26/03/2018)
+
+“RECURSO EXTRAORDINÁRIO COM AGRAVO – ALEGADA VIOLAÇÃO A PRECEITOS CONSTITUCIONAIS – DIREITO LOCAL – SÚMULA 280/STF – REEXAME DE FATOS E PROVAS – IMPOSSIBILIDADE – SÚMULA 279/STF – SUCUMBÊNCIA RECURSAL (CPC, ART. 85, § 11) – NÃO DECRETAÇÃO, NO CASO, POR TRATAR-SE DE RECURSO DEDUZIDO CONTRA DECISÃO PUBLICADA SOB A ÉGIDE DO CPC/73 – AGRAVO INTERNO IMPROVIDO”. (ARE 949.507-AgR, Rel. Min. Celso de Mello, Segunda Turma, DJe de 09/10/2020)
+Ante o exposto, nego seguimento ao recurso (alínea c do inciso V do art. 13 do Regimento Interno do Supremo Tribunal Federal).
+Havendo prévia fixação de honorários advocatícios pelas instâncias de origem, seu valor monetário será majorado em 10% (dez por cento) em desfavor da parte recorrente, nos termos do art. 85, § 11, do Código de Processo Civil, observado os limites dos §§ 2º e 3º do referido artigo e a eventual concessão de justiça gratuita.
+Publique-se.
+Brasília, 26 de maio de 2026.
+
+Ministro EDSON FACHIN
+Presidente
+Documento assinado digitalmente
