@@ -1,0 +1,62 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 21/05/2026 a 27/05/2026, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Teodoro Silva Santos, Afrânio Vilela, Francisco Falcão e Maria Thereza de Assis Moura votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Teodoro Silva Santos.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. EXECUÇÃO FISCAL E DIREITO PROCESSUAL CIVIL. ART. 1.022 DO CPC/2015. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA. AGRAVO INTERNO DESPROVIDO.
+1. Inexiste violação aos arts. 489 e 1.022 do CPC/2015 quando há pronunciamento, de forma fundamentada, sobre as questões essenciais para o deslinde da controvérsia, ainda que em sentido contrário à pretensão da parte.
+2. A jurisprudência desta Corte Superior é firme no sentido de que " o teor do art. 489, § 1º, inc. IV, do CPC/2015, ao dispor que "não se considera fundamentada qualquer decisão judicial, seja ela interlocutória, sentença ou acórdão, que não enfrentar todos os argumentos deduzidos no processo capazes de, em tese, infirmar a conclusão adotada pelo julgador", não significa que o julgador tenha que enfrentar todos os argumentos trazidos pelas partes, mas, sim, aqueles levantados que sejam capazes de, em tese, negar a conclusão adotada pelo julgador" (EDcl nos EREsp 1.523.744/RS, relator o Ministro Og Fernandes, Corte Especial, julgado em 7/10/2020, DJe 28/10/2020).
+3. Agravo interno desprovido.
+RELATÓRIO
+Trata-se de agravo interno interposto por Rodopetro Distribuidora de Petróleo Ltda. contra decisão proferida por esta relatoria, nos termos da seguinte ementa (e-STJ, fl. 729):
+AGRAVO EM RECURSO ESPECIAL. EXECUÇÃO FISCAL. DIREITO PROCESSUAL CIVIL. 1. ARTS. 489 E 1.022 DO CPC/2015. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. OMISSÃO. AUSÊNCIA DE VÍCIOS. 2. AGRAVO CONHECIDO PARA NEGAR PROVIMENTO AO RECURSO ESPECIAL.
+Em suas razões (e-STJ, fls. 738-754), a agravante argumenta que a decisão monocrática (e-STJ, fls. 729-733) não deu o devido desfecho ao presente caso.
+Para tanto, alega que, no que concerne ao art. 1.022 do CPC, a violação tem como fundamento a ausência de manifestação, pelo Tribunal de origem, sobre a tese concernente à ausência de identidade entre o mandado de segurança e a exceção de pré-executividade, conquanto tivessem sido opostos os embargos de declaração.
+Reitera, no mais, os argumentos do apelo especial.
+Requer, por fim, a reconsideração da decisão monocrática.
+Impugnações apresentadas (e-STJ, fls. 761-764), sem o pedido de aplicação de multa.
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. EXECUÇÃO FISCAL E DIREITO PROCESSUAL CIVIL. ART. 1.022 DO CPC/2015. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA. AGRAVO INTERNO DESPROVIDO.
+1. Inexiste violação aos arts. 489 e 1.022 do CPC/2015 quando há pronunciamento, de forma fundamentada, sobre as questões essenciais para o deslinde da controvérsia, ainda que em sentido contrário à pretensão da parte.
+2. A jurisprudência desta Corte Superior é firme no sentido de que " o teor do art. 489, § 1º, inc. IV, do CPC/2015, ao dispor que "não se considera fundamentada qualquer decisão judicial, seja ela interlocutória, sentença ou acórdão, que não enfrentar todos os argumentos deduzidos no processo capazes de, em tese, infirmar a conclusão adotada pelo julgador", não significa que o julgador tenha que enfrentar todos os argumentos trazidos pelas partes, mas, sim, aqueles levantados que sejam capazes de, em tese, negar a conclusão adotada pelo julgador" (EDcl nos EREsp 1.523.744/RS, relator o Ministro Og Fernandes, Corte Especial, julgado em 7/10/2020, DJe 28/10/2020).
+3. Agravo interno desprovido.
+VOTO
+Os argumentos trazidos pela agravante não são capazes de modificar as conclusões da deliberação unipessoal.
+De início, no que tange à pretextada violação ao art. 1.022 do CPC/2015, convém rememorar que os embargos de declaração revestem-se de fundamentação vinculada, cujo objetivo é sanear a decisão eivada de obscuridade, contradição, omissão ou erro material (art. 1.022 do CPC/2015).
+Desse modo, como a Sexta Câmara de Direito Público do Tribunal de Justiça do Estado do Rio de Janeiro motivou adequadamente sua decisão, solucionando a controvérsia com a aplicação do direito que entendeu cabível à hipótese, não há que se afirmar que a Corte de origem incorreu em violação ao dispositivo invocado apenas pelo fato de ter o aresto impugnado decidido contrariamente à pretensão da parte.
+Conforme se extrai do acórdão proferido, não ficou evidenciado o alegado vício, porquanto, ainda que em sentido contrário à vontade manifestada, a questão fora dirimida pelo colegiado de origem - que apontou, além da identidade de pretensão, a necessidade de se aguardar o julgamento final do mandado de segurança, na medida em que a execução fiscal depende do desfecho da ação mandamental, razão pela qual ser cabível a suspensão da execução. Veja-se (e-STJ, fls. 222-225):
+Em juízo de admissibilidade, reconheço a presença dos requisitos extrínsecos e intrínsecos, imprescindíveis à interposição do segundo recurso.
+Inicialmente, em momento algum desmereço a pretensão, em tese, de almejar-se apontar uma premissa equivocada ou uma obscuridade, omissão ou contradição que, se constatadas, venham a traduzir-se na necessária reavaliação da conclusão do julgado, consubstanciando o chamado efeito infringente ou modificativo.
+Entretanto, o que se extrai dos autos é que os presentes embargos, visam à reforma da decisão, e por via de consequência a rediscussão de matéria já apreciada e decidida.
+Assim, in casu, não assiste razão a parte embargante.
+Destaque-se que uma premissa equivocada adotada pela decisão embargada pode ser objeto de saneamento por embargos de declaração, e dela podem resultar efeitos infringentes.
+Nesse mesmo diapasão, a integração do julgado para suprir uma omissão, contradição e obscuridade, por vezes pode fazer com que o efeito modificativo desponte como uma consequência lógica e necessária, sendo nesse caso plenamente admitido.
+Assim, a fim de ser concedido efeito infringente a embargos de declaração é necessário, alternativamente, se reconhecer que o fundamento da decisão consiste em premissa equivocada, ou se reconhecer que, sanada a contradição, obscuridade ou omissão, a modificação do julgado surja como consequência lógica e necessária.
+Tal assertiva ganha maior obviedade quando se sabe que ao órgão julgador cabe decidir a lide indicando os motivos que formaram seu convencimento, e não responder à exaustão as alegações das partes.
+ ..
+Os embargos de declaração se prestam para, tão somente, suprir omissão ou aclarar obscuridade que interfira na solução da lide, eliminar qualquer contradição entre premissa e conclusão ou, ainda, corrigir erro material, que interfira na solução da lide, acaso identificados.
+No caso em tela, revela-se inquestionável a manutenção de suspensão da execução fiscal.
+In casu, a exceção de pré executividade intentada pelo agravante, ora embargante, tem a pretensão de extinção da execução fiscal em razão de suposta duplicidade de cobrança pertinente à CDA nº 2018/011654-1.
+No entanto, o próprio embargante impetrou mandado de segurança com o intuito de solucionar a questão da referida duplicidade da certidão da dívida ativa.
+Desse modo, é pertinente que se aguarde o julgamento final do mandado de segurança, eis que a execução fiscal, depende necessariamente do desfecho do Mandado de Segurança nº 0382743-69.2021.8.19.0001.
+Inclusive, o referido mandado de segurança está pendente de julgamento em razão de interposição de Recurso Especial pelo próprio agravante, que pretende o cancelamento da CDA.
+Portanto, cabível neste momento processual a suspensão da execução fiscal e, caso seja devidamente comprovada a duplicidade da CDA, caberá ao magistrado extinguir o processo executivo.
+Desta forma, o que se extrai é que o embargante pretende a reforma do julgado, expressamente consignada em suas razões, mas que se mostra impossível através dos presentes declaratórios.
+Por esses fundamentos, e com base em farta jurisprudência, resolveu-se a lide, tendo que as questões trazidas nestes embargos repisam as argumentações e teses já esposadas, não ocorrendo, portanto, quaisquer das hipóteses previstas no art. 1.022 do CPC, uma vez que no acórdão embargado foram declinadas todas as razões do convencimento do órgão julgador.
+Note-se que não apontou o recorrente, concretamente, qualquer omissão, contradição, obscuridade ou sequer erro material.
+Conclui-se, por derradeiro, que os presentes embargos visam, implicitamente, atribuição de efeito infringente e reforma, por via imprópria, do julgado, não merendo, portanto acolhimento.
+Com efeito, o Superior Tribunal de Justiça consolidou sua jurisprudência no sentido de não ocorrer violação aos arts. 489 e 1.022 do CPC/2015, tampouco negativa de prestação jurisdicional ou nulidade da decisão, quando o Tribunal de origem examina, de forma fundamentada, as questões essenciais para o deslinde da controvérsia, ainda que contrariamente à pretensão manifestada pela parte; logo o resultado desfavorável não deve ser confundido com a violação aos dispositivos invocados. A propósito (sem grifo no original):
+PROCESSUAL CIVIL E ADMINISTRATIVO. AÇÃO POPULAR. DOAÇÃO. EQUIPAMENTOS DE PROTEÇÃO INDIVIDUAL. PANDEMIA. COVID-19. DISTRITO FEDERAL. MUNICÍPIO. RECURSO ESPECIAL. FUNDAMENTAÇÃO. DEFICIÊNCIA QUANTO A UM DOS APELOS. ART. 1.022 DO CPC. VIOLAÇÃO. INEXISTÊNCIA. JULGAMENTO ULTRA OU EXTRA PETITA. NÃO OCORRÊNCIA. LESIVIDADE. COMPROVAÇÃO. AUSÊNCIA. IRREGULARIDADES FORMAIS. INSUFICIÊNCIA. LITISCONSORTE. EFEITOS. EXTENSÃO.
+1. Não se conhece de recurso especial que não impugna especificamente o fundamento adotado pelo Tribunal de origem (Súmula 283/STF) e é manifestamente intempestivo.
+2. Inexiste violação ao art. 1.022 do CPC quando o acórdão recorrido enfrenta todas as questões relevantes para o deslinde da controvérsia, ainda que conclua de modo contrário aos interesses dos recorrentes.
+3. Não há falar em julgamento ultra ou extra petita quando o julgador, mediante interpretação lógico-sistemática, examina a petição como um todo, especialmente em ação popular, em que a condenação dos responsáveis decorre da própria lei (arts. 11 e 14 da Lei nº 4.717/65). Súmula 83/STJ.
+4. Para a anulação de ato administrativo via ação popular, não basta a alegação de irregularidades formais; é imprescindível a comprovação de efetivo prejuízo ao patrimônio público, à moralidade administrativa, ao meio ambiente ou ao patrimônio histórico e cultural.
+5. A doação de bens públicos a outro ente federativo, destinados ao uso da saúde pública, especialmente no contexto de grave crise sanitária mundial (pandemia - Covid 19), não configura, por si só, ato lesivo ao patrimônio público ou à moralidade administrativa, ainda que possa apresentar irregularidades formais.
+6. Os efeitos do julgamento favorável aproveitam aos litisconsortes em situação jurídica idêntica, inclusive àquele cujo recurso não foi conhecido, nos termos do art. 1.005 do CPC.
+7. Agravo de GLADSON MURILO MASCARENHAS RIBEIRO conhecido para não conhecer do recurso especial. Demais agravos conhecidos para conhecer dos apelos especiais e dar-lhes provimento, com extensão dos seus efeitos.
+(AREsp n. 2.786.571/DF, relator Ministro Gurgel de Faria, Primeira Turma, julgado em 9/9/2025, DJEN de 1/10/2025.)
+Cabe ressaltar, nesse contexto, "que o teor do art. 489, § 1º, inc. IV, do CPC/2015, ao dispor que "não se considera fundamentada qualquer decisão judicial, seja ela interlocutória, sentença ou acórdão, que não enfrentar todos os argumentos deduzidos no processo capazes de, em tese, infirmar a conclusão adotada pelo julgador", não significa que o julgador tenha que enfrentar todos os argumentos trazidos pelas partes, mas, sim, aqueles levantados que sejam capazes de, em tese, negar a conclusão adotada pelo julgador" (EDcl nos EREsp 1.523.744/RS, relator o Ministro Og Fernandes, Corte Especial, julgado em 7/10/2020, DJe 28/10/2020).
+Tendo em vista, então, que as alegações feitas no agravo interno não são capazes de alterar o convencimento anteriormente manifestado, permanece íntegra a decisão agravada.
+Ante o exposto, nego provimento ao agravo interno.
+É como voto.
