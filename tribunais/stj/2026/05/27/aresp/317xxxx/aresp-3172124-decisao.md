@@ -1,0 +1,20 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por LUCAS CAMARGO SILVA em face da decisão que inadmitiu o recurso especial manejado contra acórdão do Tribunal de Justiça do Estado de São Paulo.
+Extrai-se dos autos que o ora agravante, no primeiro grau de jurisdição, foi condenado como incurso no artigo 157, caput, do Código Penal às penas de 04 (quatro) anos de reclusão, em regime aberto, mais 10 (dez) dias-multa.
+O Tribunal de origem deu provimento ao recurso ministerial, a fim de alterar o regime prisional imposto ao réu para o semiaberto (e-STJ fls. 244/250).
+Nas razões do recurso especial (e-STJ fls. 260/264), fundado na alínea "a" do permissivo constitucional, a defesa alega negativa de vigência aos artigos 33, § 2º, alínea "c", e § 3º, e 59, todos do Código Penal, sustentando que a imposição do regime semiaberto se baseou na gravidade abstrata do delito, embora a pena tenha sido fixada em 4 anos de reclusão, o recorrente seja primário e as circunstâncias judiciais sejam favoráveis. Requer a fixação do regime inicial aberto.
+Apresentada manifestação da Procuradoria-Geral de Justiça na origem (e-STJ fls. 271/277), o Tribunal a quo inadmitiu o recurso especial (e-STJ fls. 278/279), tendo sido interposto o presente agravo (e-STJ fls. 285/290).
+O Ministério Público Federal, instado a se manifestar, opinou pelo provimento do agravo para que seja conhecido e provido o recurso especial (e-STJ fls. 319/321).
+É o relatório. Decido.
+O agravo é cabível, tempestivo e foram devidamente impugnados os fundamentos da decisão agravada, motivo pelo qual conheço do recurso.
+No caso, a controvérsia restringe-se à legalidade da fixação do regime inicial semiaberto para pena de 4 anos de reclusão imposta por roubo simples (art. 157, caput, do CP), quando reconhecidas a primariedade, a pena-base no mínimo e circunstâncias judiciais favoráveis.
+O acórdão recorrido, ao recrudescer o regime, fundamentou-se na "gravidade concreta" resumida em elementos inerentes ao tipo penal: grave ameaça com simulacro de arma, fato ocorrido em plena luz do dia e ausência de restituição do valor subtraído, como forma de diferenciar o "réu contumaz" (e-STJ fls. 249/250). Tais referências não evidenciam gravidade superior à ínsita ao delito, tampouco circunstâncias judiciais negativas, mas apenas aspectos ordinários do modus operandi do roubo simples.
+A jurisprudência consolidada veda a imposição de regime mais severo com base na gravidade abstrata do crime, notadamente quando a pena-base é mínima e as circunstâncias do art. 59 do CP são favoráveis.
+Com efeito, a Súmula 440/STJ estabelece: Fixada a pena-base no mínimo legal, é vedado o estabelecimento de regime prisional mais gravoso do que o cabível em razão da sanção imposta, com base apenas na gravidade abstrata do delito.
+No mesmo sentido, a Suprema Corte assentou nas Súmulas 718 e 719: A opinião do julgador sobre a gravidade em abstrato do crime não constitui motivação idônea para a imposição de regime mais severo do que o permitido segundo a pena aplicada.
+A imposição do regime de cumprimento mais severo do que a pena aplicada permitir exige motivação idônea.
+No caso, não há circunstâncias judiciais desfavoráveis, não há reincidência e a pena definitiva não supera 4 anos. Os elementos invocados pelo Tribunal local não desbordam do tipo penal e não foram apontados dados concretos capazes de revelar maior reprovabilidade, de sorte que o regime deve observar o parâmetro legal do art. 33, §§ 2º e 3º, do CP, em harmonia com os julgados desta Corte.
+A propósito, em situação análoga envolvendo roubo simples com simulacro, pena de 4 anos, réu primário e pena-base no mínimo, a Quinta Turma fixou o regime aberto por inadequação da fundamentação centrada na gravidade abstrata do delito: REsp n. 2.080.400/SP, relatora Ministra Daniela Teixeira, relator para acórdão Ministro Ribeiro Dantas, Quinta Turma, DJEN de 20/3/2025 (e-STJ fl. 321).
+Diante do exposto, conheço do agravo para dar provimento ao recurso especial, a fim de restabelecer o regime inicial aberto para o cumprimento da pena, nos termos do art. 33, §§ 2º e 3º, do Código Penal.
+Intimem-se.
+EMENTA
