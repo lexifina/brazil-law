@@ -1,0 +1,55 @@
+RECLAMAÇÃO. DIREITO DO TRABALHO. DECISÃO IMPUGNADA DETERMINOU A SUSPENSÃO DO PROCESSO COM FUNDAMENTO DO TEMA-RG 1.389. DESCABIMENTO.  AUSÊNCIA DE ESTRITA ADERÊNCIA.   INEXISTÊNCIA DE CONTRATO ESCRITO APTO A JUSTIFICAR FORMA ALTERNATIVA DE CONTRATAÇÃO. PRECEDENTES. SUSPENSÃO INDEVIDA. RECLAMAÇÃO QUE SE JULGA PROCEDENTE.
+
+DECISÃO: Trata-se de reclamação ajuizada por Fernando Silva Carvalho, contra decisão do Juízo da 1ª Vara de Trabalho de Campinas, nos autos do Processo nº 0010418-15.2024.5.15.0001, sob a alegação de aplicação indevida da ordem de suspensão nacional de processos determinada determinada no Tema 1.389 da sistemática da repercussão geral.
+Narra o reclamante que propôs, na origem, ação trabalhista visando o reconhecimento de vínculo empregatício na função de motoboy operador logístico com o consequente pagamento de verbas trabalhistas.
+Aduz que a primeira reclamada (Kroupier Express Entrega de Serviços de Alimentação Ltda.) não compareceu à audiência designada, tendo sido declarada revel, ao passo em que a segunda reclamada (Ifood.com Agência de Restaurantes Online S.A.) “apresentou contestação escrita, aduzindo, em síntese, que atua estritamente como plataforma de intermediação tecnológica, não figurando como tomadora de serviços diretos do trabalhador e que o trabalhado do autor se desenvolvia de forma autônoma sob a gestão do Operador Logístico”.
+Afirma que “mesmo coma revelia da 1ª Reclamada, e a ausência de documentos essenciais para a descaracterização do vínculo empregatício no caso em apreço, o Juízo da 1ª Vara do Trabalho de Campinas/SP proferiu despacho determinando a suspensão do processo com fundamento no artigo1035, § 5º, do Código de Processual Civil”.
+Sustenta, nesse contexto, que “o processo de origem, arealidade fática é completamente diversa. Não se discute, em nenhum momento, a validade ou licitude de um contrato civil ou comercial formalmente estabelecido entre trabalhador e tomador de serviços. O Reclamante é pessoa física, desempregado, que prestou serviços pessoais de motoboy em favor das Reclamadas sem que houvesse a celebração de qualquer contrato de natureza civil ou comercial de prestação de serviços”.
+Requer, por esses fundamentos, a concessão de liminar para suspender os efeitos do ato reclamado. No mérito, pugna pela procedência da reclamação a fim de cassar a decisão reclamada.
+Dispensa-se, no caso concreto, a requisição de informações da autoridade reclamada e a manifestação da Procuradoria-Geral da República, ante o caráter reiterado da matéria, nos termos do parágrafo único do art. 52 do RISTF.
+
+É o relatório. DECIDO.
+
+Ab initio, pontuo que a reclamação, por expressa determinação constitucional, destina-se a preservar a competência desta Suprema Corte e a garantir a autoridade de suas decisões, ex vi do artigo 102, inciso I, alínea l, além de salvaguardar a estrita observância de preceito constante em enunciado de Súmula Vinculante, nos termos do artigo 103-A, § 3º, ambos da Constituição Federal.
+Nada obstante já encontrasse previsão na legislação anterior, a reclamação adquiriu especial relevo no atual Código de Processo Civil, enquanto meio assecuratório da observância da jurisprudência vinculante dos Tribunais Superiores e no afã da criação de um sistema de precedentes no processo civil brasileiro. Nesse sentido, o Código passou a prever, além das hipóteses diretamente depreendidas do texto constitucional (art. 988, I, II e III), o cabimento da reclamação para a garantia da “observância de acórdão proferido em julgamento de incidente de resolução de demandas repetitivas ou de incidente de assunção de competência” (artigo 988, IV).
+Embora tenha sistematizado a disciplina jurídica da reclamação e ampliado em alguma medida seu âmbito de aplicação, o novo diploma processual não alterou a natureza eminentemente excepcional do instituto. Deveras, a excepcionalidade no manejo da reclamação é depreendida a todo tempo da redação do novo CPC, seja pela vedação de sua utilização como sucedâneo de ação rescisória (art. 988, §5º, I), seja pela exigência de prévio esgotamento das instâncias ordinárias, no caso de reclamação fundada na inobservância de tese fixada em recurso extraordinário com repercussão geral reconhecida (art. 988, §5º, II).
+A propósito, a jurisprudência desta Suprema Corte fixou diversas condições para a utilização da via reclamatória, de sorte a manter a logicidade do sistema recursal previsto no CPC e evitar o desvirtuamento do objetivo precípuo do Código, de racionalização e diminuição da litigiosidade em massa pela criação do microssistema de julgamento de casos repetitivos. Afirma-se, destarte, por exemplo, (i) a inviabilidade da reclamação para o revolvimento de fatos e provas adjacentes aos processos de origem, (ii) a necessidade de existência de estrita aderência entre a decisão reclamada e o conteúdo do paradigma invocado e (iii) a necessidade de demonstração de teratologia na aplicação de tese firmada sob a sistemática da repercussão geral.
+Fixadas as premissas, notam-se, a partir da leitura dos autos, irresignações da reclamante relativas à decisão que suspendeu o processo de origem, em afronta à determinação de suspensão nacional proferida no Tema 1.389.
+Com efeito, verifica-se que este Supremo Tribunal Federal, ao apreciar o ARE 1.532.603, de relatoria do eminente Ministro Gilmar Mendes, instaurou o Tema 1.389 da sistemática da repercussão geral, que tem por escopo o exame das seguintes questões constitucionais: “Competência e ônus da prova nos processos que discutem a existência de fraude no contrato civil/comercial de prestação de serviços; e a licitude da contratação de pessoa jurídica ou trabalhador autônomo para essa finalidade”.
+A leitura dos autos revela a procedência dos argumentos do reclamante haja vista que, in casu, a autoridade reclamada determinou a suspensão do processo não obstante a inexistência de contrato escrito entre as partes que tenha evidenciado a opção por forma alternativa de contratação.
+Destaco que o exame dos autos de origem revela ser incontroversa a inexistência de contrato escrito entre as partes, o que, à luz da jurisprudência da Segunda Turma, impede a subsunção da controvérsia ao Tema-RG 1.389.
+Deveras, a Segunda Turma desta Corte firmou entendimento segundo o qual não havendo instrumento contratual escrito que formalize alguma forma de relação jurídica alternativa não há que se falar em aderência da controvérsia à ordem de suspensão nacional firmada no Tema-RG 1.389. Nesse sentido:
+
+“DIREITO PROCESSUAL CIVIL E TRABALHISTA. AGRAVO INTERNO EM RECLAMAÇÃO. ARE 1.532.603 (TEMA 1.389/RG). ORDEM DE SUSPENSÃO NACIONAL DE PROCESSOS. IMPERTINÊNCIA.RECURSODESPROVIDO.
+I. CASO EM EXAME
+1. Agravo interno interposto contra pronunciamento que negou sequência à reclamação por não estar configurada ofensa à ordem de suspensão nacional de processos proferida pelo ministro Gilmar Mendes no ARE1.532.603 (Tema 1.389/RG).
+2. A parte agravante diz pertinente a ordem de suspensão nacional de processos, ante o caráter civil da contratação, ainda que ausente contrato formal escrito.
+II. QUESTÃO EM DISCUSSÃO
+3. A questão em discussão consiste em saber se cabe observar, relativamente ao processo originário, a ordem de suspensão nacional de processos emanada do Tema 1.389/RG.
+III. RAZÃO DE DECIDIR
+4. Não estando em debate terceirização, à míngua da formalização de contrato civil, mostra-se impertinente a observância da ordem de suspensão nacional de processos determinada pelo ministro Gilmar Mendes no ARE1.532.603 (Tema 1.389/RG).
+IV. DISPOSITIVO
+5. Agravo interno desprovido.” (Rcl 83.253-AgR Rel. Min. Nunes Marques, Segunda Turma, DJe de 04/12/2025 - grifei).
+
+“DIREITO DO TRABALHO. AGRAVO REGIMENTAL NA RECLAMAÇÃO. RELAÇÃO DE EMPREGO NÃO ANOTADA NA CTPS. AUSÊNCIA DE CONTRATO ESCRITO. ORDEM DE SUSPENSÃO NACIONAL NO ARE Nº 1.532.603/PR (TEMA RG Nº 1.389). AUSÊNCIA DE ESTRITA ADERÊNCIA. AGRAVODESPROVIDO.
+I. CASO EM EXAME
+1. Agravo regimental interposto contra decisão monocrática pela qual se negou seguimento à reclamação. A parte autora pretendia desconstituir decisão da Justiça do Trabalho por meio da qual se entendeu que, na ação trabalhista, foi reconhecida a ausência de contrato escrito e de prova testemunhal que comprovasse a tese da relação de trabalho autônomo. Assim, concluiu que o caso não se enquadrava na ordem de suspensão nacional proferida no ARE nº 1.532.603/PR (Tema nº 1.389 do ementário da Repercussão Geral), pelo Ministro Gilmar Mendes.
+2. A agravante sustenta, em suma, a validade da contratação do beneficiário como profissional autônomo e a irrelevância da inexistência de contrato escrito para a aplicação do precedente vinculante do STF.
+II. QUESTÃO EM DISCUSSÃO
+3. A questão em discussão visa estabelecer se há distinção (distinguishing) entre o caso concreto e o Tema RG nº 1.389, de modo a afastar a aplicação da ordem de sobrestamento proferida pelo STF.
+III. RAZÕES DE DECIDIR
+4. O Tema nº 1.389 do ementário da Repercussão Geral abrange, expressamente, as discussões sobre a existência de fraude em contratos civis/comerciais de prestação de serviços, a licitude da contratação de pessoa jurídica ou trabalhador autônomo e a distribuição do ônus da prova — matérias que coincidem com as controvérsias suscitadas nos autos trabalhistas subjacentes. expressamente, as discussões sobre a existência de fraude em contratos civis/comerciais de prestação de serviços, a licitude da contratação de pessoa jurídica ou trabalhador autônomo e a distribuição do ônus da prova — matérias que coincidem com as controvérsias suscitadas nos autos trabalhistas subjacentes.
+5. Esta Segunda Turma formou entendimento de que, diante da ausência de um contrato de prestação de serviços previamente formalizado, a embasar a “pejotização” ou a relação autônoma, não está caracterizada a relação de estrita aderência ao ARE nº 1.532.603/PR (Tema RGnº 1.389).
+6. A decisão reclamada limitou-se a reconhecer a relação de emprego que não fora anotada na Carteira de Trabalho e Previdência Social (CTPS), não tendo afastado contrato de prestação de serviços em razão de alegação de fraude à legislação trabalhista, motivo pelo qual não se enquadra na determinação de suspensão dos processos que versam sobre o Tema RGnº1.389.
+IV. DISPOSITIVO
+7. Agravo regimental ao qual se nega provimento.” (Rcl 82.884-AgR Rel. Min. André Mendonça, Segunda Turma, DJe de 03/12/2025 - grifei).
+
+  Diante desse contexto, revela-se o desacerto da decisão reclamada ao determinar a suspensão do processo, posto ausente estrita aderência do caso concreto com o paradigma invocado.
+Ex positis, JULGO PROCEDENTE A RECLAMAÇÃO para, com fundamento no art. 992, CPC, cassar a decisão proferida pelo Juízo da 1ª Vara do Trabalho de Campinas, nos autos do Processo nº  0010418-15.2024.5.15.0001, determinando o restabelecimento da marcha processual do processo de origem.
+Comunique-se a autoridade reclamada.
+Publique-se.
+Brasília, 27 de maio de 2026.
+
+Ministro LUIZ FUX
+Relator
+Documento assinado digitalmente
