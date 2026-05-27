@@ -1,0 +1,23 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de LUCAS AGUIAR MELO DE ALMEIDA, contra acórdão prolatado pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO.
+Consta nos autos que o paciente foi denunciado no dia 05.11.2025 como incurso no artigo 157, § 2º, incisos II e V, c. c. artigo 157, §2-A, inciso I, ambos do Código Penal. A denúncia foi recebida em 29.09.2025, e, em 13.10.2025, foi decretada a prisão preventiva do paciente, a pedido do Ministério Público e da autoridade policial.
+Irresignada, a defesa impetrou habeas corpus perante o Tribunal de Justiça de origem, que denegou a ordem em acórdão às fls. 14-21.
+Neste writ, o impetrante sustenta, em suma, a ausência de fundamentação da decisão que decretou a prisão preventiva ponderando suas condições pessoais favoráveis.
+Aduz, ainda, a ausência de contemporaneidade entre os fatos e a segregação cautelar.
+Requer a revogação da prisão preventiva ou, subsidiariamente, sua substituição por medidas cautelares diversas.
+Liminar indeferida às fls. 83-84.
+Informações prestadas às fls. 89-91.
+O Ministério Público Federal em parecer, às fls. 96-99, opinou pelo não conhecimento do writ.
+É  o  relatório. DECIDO.
+In casu, a prisão preventiva se encontra devidamente fundamentada em dados concretos extraídos dos autos, que evidenciam a necessidade de encarceramento provisório para a garantia da ordem pública diante da gravidade concreta da conduta, consistente em roubo majorado, porquanto o paciente supostamente teria concorrido para a empreitada criminosa perpetrada em uma drogaria, resultando na subtração de R$ 80,00 (oitenta reais) em espécie, bem como dos medicamentos Ozempic, Wegovy e Saxenda, avaliados em R$ 11.000,00; constando nos autos que houve o emprego de arma de fogo para constranger as vítimas, que tiveram a liberdade restringida.
+Tais circunstâncias demostram a periculosidade do paciente, justificando a segregação cautelar na hipótese.
+Sobre o tema:
+"Na espécie, os delitos de roubo e extorsão foram praticados com emprego de arma de fogo, em concurso de pessoas e com restrição de liberdade da vítima (que foi colocada no compartimento de bagagens do veículo), o que justifica a decretação da prisão preventiva" (AgRg no HC n. 1.077.993/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 22/4/2026, DJEN de 28/4/2026.)
+"A prisão preventiva encontra-se devidamente fundamentada na gravidade concreta do delito e no modus operandi, consistente em roubo praticado em residência, em concurso de pessoas, com restrição da liberdade das vítimas e emprego de arma de fogo, circunstâncias que demonstram maior periculosidade do agente e justificam a custódia para garantia da ordem pública" (AgRg no HC n. 1.048.798/SP, relatora Ministra Maria Marluce Caldas, Quinta Turma, julgado em 15/4/2026, DJEN de 22/4/2026.)
+"No caso, a manutenção da prisão preventiva está justificada, pois na sentença condenatória fez-se referência aos fundamentos do decreto preventivo, do qual se extrai que, "em concurso de 3 (três) agentes, no período noturno e com emprego de armas brancas, os indiciados renderam o único funcionário de farmácia local, subtraindo quase todo o dinheiro do caixa", o que justifica a decretação e manutenção da prisão preventiva e a consequente negativa do direito de recorrer em liberdade" (HC n. 618.695/SP, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 16/3/2021, DJe de 29/3/2021.)
+Outrossim, não há que se falar em possibilidade de aplicação de medidas cautelares diversas da prisão se há nos autos elementos hábeis a recomendar a custódia cautelar, o que ocorre na hipótese.
+No que pertine à alegação de ausência de contemporaneidade como justificativa hábil a infirmar a necessidade de manutenção da prisão preventiva, vale lembrar que:
+" a  contemporaneidade diz com os motivos ensejadores da prisão preventiva e não o momento da prática supostamente criminosa em si, ou seja, é desimportante que o fato ilícito tenha sido praticado há lapso temporal longínquo, sendo necessária, no entanto, a efetiva demonstração de que, mesmo com o transcurso de tal período, continuam presentes os requisitos (i) do risco à ordem pública ou (ii) à ordem econômica, (iii) da conveniência da instrução ou, ainda, (iv) da necessidade de assegurar a aplicação da lei penal" (STF, HC 185.893 AgR, Rel. Ministra ROSA WEBER, PRIMEIRA TURMA, julgado em 19/04/2021, DJe 26/04/2021; sem grifos no original)" (EDcl no HC n. 940.596/GO, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 8/10/2024, DJe de 14/10/2024.)
+Ante o exposto, denego a ordem.
+Publique-se. Intimem-se.
+EMENTA
