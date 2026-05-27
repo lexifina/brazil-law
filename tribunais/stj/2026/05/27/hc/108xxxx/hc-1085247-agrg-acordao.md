@@ -1,0 +1,33 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEXTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 21/05/2026 a 27/05/2026, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Rogerio Schietti Cruz, Carlos Pires Brandão, Nilsoni de Freitas (Desembargadora Convocada do TJDFT) e Og Fernandes votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Carlos Pires Brandão.
+EMENTA
+AGRAVO REGIMENTAL EM HABEAS CORPUS INDEFERIDO LIMINARMENTE. LAVAGEM DE DINHEIRO E EXPLORAÇÃO DE JOGOS DE AZAR. TRANCAMENTO DE INQUÉRITO POLICIAL. SUPRESSÃO DE INSTÂNCIA QUANTO ÀS ALEGAÇÕES DE ACESSO A ELEMENTOS DA INVESTIGAÇÃO, UTILIZAÇÃO INDEVIDA DO RIF/COAF, ILICITUDE PROBATÓRIA, FRUTOS DA ÁRVORE ENVENENADA E FISHING EXPEDITION. DILIGÊNCIAS PRELIMINARES REALIZADAS. DENÚNCIA ANÔNIMA CORROBORADA. REEXAME PROBATÓRIO INVIÁVEL. INEXISTÊNCIA DE CONSTRANGIMENTO ILEGAL. MANUTENÇÃO DA DECISÃO MONOCRÁTICA.
+1. O trancamento de inquérito policial por meio de habeas corpus é providência excepcional, cabível apenas quando evidentes, de plano, a atipicidade da conduta, a extinção da punibilidade ou a inexistência de indícios mínimos de autoria ou materialidade. Precedentes.
+2. As teses de acesso a elementos da investigação, uso indevido de RIF/COAF, ilicitude probatória e investigação prospectiva não foram apreciadas pelo Tribunal de origem, o que impede o conhecimento por supressão de instância.
+3. O acórdão estadual registrou diligências preliminares que corroboraram a denúncia anônima e indicaram indícios mínimos para o prosseguimento; a reversão dessa conclusão exigiria reexame probatório, inviável na via do habeas corpus.
+4. Agravo regimental improvido.
+RELATÓRIO
+Trata-se de agravo regimental interposto por KATHLEEN DE SOUZA CRUZ DANIEL contra a decisão da lavra deste Relator que indeferiu liminarmente a inicial do habeas corpus, por inexistência de situação excepcional para o trancamento do inquérito policial e por supressão de instância quanto às teses relativas à ilicitude da prova, ao uso indevido de Relatório de Inteligência Financeira e à configuração de fishing expedition (fls. 46/48), assim ementada:
+PROCESSO PENAL. HABEAS CORPUS. LAVAGEM DE DINHEIRO E EXPLORAÇÃO DE JOGOS DE AZAR. TRANCAMENTO DE INQUÉRITO POLICIAL. MEDIDA EXCEPCIONAL. SUPRESSÃO DE INSTÂNCIA QUANTO ÀS ALEGAÇÕES DE ACESSO A ELEMENTOS DA INVESTIGAÇÃO. RIF/COAF. ILICITUDE PROBATÓRIA E FRUTOS DA ÁRVORE ENVENENADA. FISHING EXPEDITION. DILIGÊNCIAS PRELIMINARES REALIZADAS. DENÚNCIA ANÔNIMA CORROBORADA. INDÍCIOS MÍNIMOS PARA PROSSEGUIMENTO. REEXAME PROBATÓRIO INVIÁVEL. AUSÊNCIA DE SITUAÇÃO EXCEPCIONAL. CONSTRANGIMENTO ILEGAL MANIFESTO. AUSÊNCIA.
+Inicial indeferida liminarmente.
+A agravante sustenta, em preliminar, que não incide o óbice da supressão de instância por se tratar de matéria de ordem pública, cognoscível a qualquer tempo e grau de jurisdição (fl. 53). No mérito, reitera os fundamentos da impetração e requer a reconsideração da decisão ou o provimento do recurso, afirmando que (fls. 54/56):
+a) o entendimento do Supremo Tribunal Federal no RE n. 1.537.165/SP teria sido desconsiderado;
+b) a controvérsia seria estritamente jurídica, dispensando reexame probatório;
+c) a investigação teria caráter prospectivo (fishing expedition); e
+d) a apuração, fundada em elementos potencialmente ilícitos, deveria ser trancada por ausência de justa causa.
+É o relatório.
+EMENTA
+AGRAVO REGIMENTAL EM HABEAS CORPUS INDEFERIDO LIMINARMENTE. LAVAGEM DE DINHEIRO E EXPLORAÇÃO DE JOGOS DE AZAR. TRANCAMENTO DE INQUÉRITO POLICIAL. SUPRESSÃO DE INSTÂNCIA QUANTO ÀS ALEGAÇÕES DE ACESSO A ELEMENTOS DA INVESTIGAÇÃO, UTILIZAÇÃO INDEVIDA DO RIF/COAF, ILICITUDE PROBATÓRIA, FRUTOS DA ÁRVORE ENVENENADA E FISHING EXPEDITION. DILIGÊNCIAS PRELIMINARES REALIZADAS. DENÚNCIA ANÔNIMA CORROBORADA. REEXAME PROBATÓRIO INVIÁVEL. INEXISTÊNCIA DE CONSTRANGIMENTO ILEGAL. MANUTENÇÃO DA DECISÃO MONOCRÁTICA.
+1. O trancamento de inquérito policial por meio de habeas corpus é providência excepcional, cabível apenas quando evidentes, de plano, a atipicidade da conduta, a extinção da punibilidade ou a inexistência de indícios mínimos de autoria ou materialidade. Precedentes.
+2. As teses de acesso a elementos da investigação, uso indevido de RIF/COAF, ilicitude probatória e investigação prospectiva não foram apreciadas pelo Tribunal de origem, o que impede o conhecimento por supressão de instância.
+3. O acórdão estadual registrou diligências preliminares que corroboraram a denúncia anônima e indicaram indícios mínimos para o prosseguimento; a reversão dessa conclusão exigiria reexame probatório, inviável na via do habeas corpus.
+4. Agravo regimental improvido.
+VOTO
+A decisão agravada - que indeferiu liminarmente a impetração, mantendo as investigações objeto do Inquérito Policial n. 2139241/2025 (1529330-41.2025.8.26.0050), da 4ª Delegacia da DIVECAR da Polícia Civil de São Paulo - não comporta reparo.
+Primeiro, porque o trancamento de inquérito policial pela via do habeas corpus constitui medida excepcional, admissível apenas quando demonstradas, de plano, a atipicidade da conduta, a extinção da punibilidade ou a ausência de indícios mínimos de autoria ou materialidade, hipóteses não evidenciadas no caso.
+Quanto às alegações de violação do direito de defesa por negativa de acesso à denúncia anônima e aos elementos documentados da investigação, de utilização indevida do RIF/COAF como ponto de partida e direcionamento da apuração, de ilicitude da prova originária e de contaminação das provas derivadas, bem como de investigação prospectiva, subsiste o fundamento de que tais matérias não foram apreciadas pela Corte estadual, impedindo seu exame por este Tribunal em razão da supressão de instância (HC n. 964.852/SC, Ministro Antonio Saldanha Palheiro, Sexta Turma, DJEN de 10/12/2025).
+A tese de inexistência de diligências preliminares autônomas e de lastro investigativo idôneo igualmente não prospera. O Tribunal de origem registrou que foram concretamente realizadas diligências preliminares para confirmar a idoneidade da notícia apócrifa cujos elementos coletados atestaram sua verossimilhança (fls. 40/41), reconhecendo a legitimidade da instauração do inquérito diante da denúncia anônima corroborada por outros elementos. Infirmar tal conclusão exigiria revolvimento do contexto fático-probatório, providência incompatível com a via célere do writ.
+Nessas circunstâncias, não há constrangimento ilegal manifesto que autorize o trancamento do inquérito policial.
+Em razão disso, nego provimento ao agravo regimental.
