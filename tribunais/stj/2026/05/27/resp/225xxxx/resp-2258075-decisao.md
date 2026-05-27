@@ -1,0 +1,105 @@
+DECISÃO
+Cuida-se de agravo interposto por ROGÉRIO GOMES AMADOR contra decisão proferida no TRIBUNAL DE JUSTIÇA DO DISTRITO FEDERAL E DOS TERRITÓRIOS que inadmitiu o recurso especial interposto com fundamento no art. 105, III, alíneas a e c, da Constituição Federal, contra acórdão proferido no julgamento dos Embargos Infringentes e de Nulidade na Apelação Criminal n. 0700680-91.2022.8.07.0004.
+Consta dos autos que o agravante foi condenado pela prática do delito tipificado no art. 1º, II, e 12, I, da Lei 8.137/90 (suprimir ou reduzir tributo, mediante fraude à fiscalização tributária, majorado), por 15 vezes, na forma do art. 71 do Código Penal - CP, às penas de 4 anos, 5 meses e 10 dias de reclusão, em regime inicial semiaberto, e 21 dias-multa, à razão mínima (fls. 890/892).
+Ambas as partes apelaram.
+Recurso de apelação da defesa foi, por unanimidade, desprovido.
+Recurso de apelação interposto pela acusação foi, por maioria, parcialmente provido para fixar valor mínimo de reparação de danos ao erário em R$ 17.132.988,04, nos termos do voto do relator (fls. 1.112/1.122). O acórdão ficou assim ementado (fls. 1.110/1.111):
+"DIREITO PENAL. APELAÇÃO CRIMINAL. CRIME CONTRA A ORDEM TRIBUTÁRIA. SUPRESSÃO DE ICMS. COMPARTILHAMENTO DE DADOS FISCAIS. AUSÊNCIA DE FUNDAMENTAÇÃO NA DECISÃO QUE RECEBEU A DENÚNCIA. NULIDADES INEXISTENTES. MÉRITO. DOLO CONFIGURADO. REPARAÇÃO DO DANO AO ERÁRIO. EXECUÇÃO FISCAL. RESPONSABILIZAÇÃO DO AUTOR DO CRIME. RECURSO MINISTERIAL PROVIDO PARCIALMENTE. RECURSO DEFENSIVO DESPROVIDO.
+I. CASO EM EXAME
+1. Apelações criminais interpostas pelo Ministério Público e pela Defesa contra sentença que condenou o apelante à pena de 4 anos, 5 meses e 10 dias de reclusão, além de 21 dias-multa, pela prática de crimes previstos nos artigos 1º, II, e 12, I, da Lei 8.137/90, em continuidade delitiva, pela supressão do ICMS devido ao Distrito Federal.
+II. QUESTÃO EM DISCUSSÃO
+2. Há três questões em discussão: (i) a defesa alega nulidade do processo pela quebra de sigilo fiscal sem autorização judicial e pela ausência de fundamentação na decisão que recebeu a denúncia; (ii) discute-se a existência de dolo na conduta do réu; (iii) o Ministério Público requer a fixação de valor mínimo para reparação dos danos causados pela infração penal.
+III. RAZÕES DE DECIDIR
+3. O compartilhamento de dados fiscais foi realizado de forma regular, em conformidade com o entendimento do STF (Tema 990), sendo desnecessária autorização judicial após a constituição definitiva do crédito tributário. 4. Não se acolhe a alegação de nulidade da decisão de recebimento da denúncia, pois esse tema já foi decidido em sede de Habeas Corpus. Além disso, conforme jurisprudência, essa decisão pode ser concisa e não exige fundamentação complexa, sob pena de prematuro julgamento do mérito.
+5. A materialidade e autoria dos crimes foram demonstradas pelos autos de infração, documentos fiscais e depoimentos, comprovando o dolo do apelante na supressão do ICMS devido. 6. A causa de aumento da pena, com base no grave dano à coletividade, foi mantida, uma vez que o valor suprimido ultrapassa os limites estabelecidos pela Portaria da PGDF, nos moldes do critério objetivo estabelecido pela jurisprudência do STJ.
+7. Foi acolhido o pedido do Ministério Público para fixação do valor mínimo como reparação dos danos causados ao erário.
+IV. DISPOSITIVO E TESE
+8. Recurso defensivo desprovido. Recurso ministerial parcialmente provido.
+Tese de julgamento:
+1. O compartilhamento de dados fiscais com o Ministério Público, após a constituição definitiva do crédito tributário, é constitucional e dispensa autorização judicial.
+2. A decisão de recebimento da denúncia pode ser sucinta, não sendo nula por ausência de fundamentação detalhada.
+3. A 6ª Turma do Superior Tribunal de Justiça, no AgRg no AREsp 2.409.888/DF, reafirmou o entendimento de que para o reconhecimento da causa de aumento prevista no inciso I do artigo 12 da Lei 8.137/1990, deve ser considerado o valor atual e integral do dano provocado ao Erário, incluindo os acréscimos legais de juros e multa. No decisum, a Turma, avultando o posicionamento firmado pela 3ª Seção da Corte Superior, asseverou que o "grave dano à coletividade" é objetivamente aferível pela admissão na Fazenda local de crédito prioritário ou destacado, como grande devedor (REsp n. 1.849.120/SC).
+4. Nos delitos contra a ordem tributária, a fixação do dever de indenizar os danos causados pela infração, além de atender ao disposto no artigo 387, IV, do CPP, permite que os verdadeiros responsáveis pela conduta típica - por vezes, ocultos nas formalidades contratuais inerentes ao direito civil e empresarial - sejam compelidos a ressarcir o Fisco. O título executivo formado na esfera penal não pode ser cobrado em duplicidade com a execução fiscal."
+Embargos infringentes e de nulidade interpostos pela defesa foram, por maioria, desprovidos (fl. 1.270). O acórdão ficou assim resumido:
+"EMBARGOS INFRINGENTES. CRIME CONTRA A ORDEM TRIBUTÁRIA. ARTIGO 387, INCISO IV, DO CÓDIGO DE PROCESSO PENAL. FIXAÇÃO DE VALOR MÍNIMO DE REPARAÇÃO DE DANO. EXISTÊNCIA DE DÉBITO TRIBUTÁRIO INSCRITO EM DÍVIDA ATIVA. POSSIBILIDADE. INEXISTÊNCIA DE BIS IN IDEM. PEDIDO EXPRESSO E DANO COMPROVADO. RECURSO DESPROVIDO.
+1. Embargos infringentes opostos com fundamento no artigo 609, parágrafo único, do Código de Processo Penal, em face de acórdão não unânime da 1ª Turma Criminal do TJDFT que fixou valor mínimo de R$ 17.132.988,04 a título de reparação de danos ao Erário, nos termos do artigo 387, inciso IV, do CPP, em condenação por crime contra a ordem tributária.
+2 A insurgência do embargante funda-se na alegação de , em razão da préviabis in idem inscrição do débito tributário em dívida ativa, argumentando que a Fazenda Pública já dispõe de meios próprios para execução forçada, sendo indevida a imposição de valor indenizatório em sede penal.
+3. A jurisprudência dominante do STJ, embora reconheça precedentes contrários à fixação do valor mínimo em hipóteses semelhantes, não obsta, de forma absoluta, sua aplicação, especialmente quando atendidos os requisitos legais: pedido expresso da acusação e comprovação do prejuízo.
+4. A fixação de valor mínimo na esfera penal possui natureza declaratória e reparatória, distinta da executividade própria da cobrança fiscal, e não implica cobrança duplicada, conforme ressalvado no voto condutor.
+5. A inscrição em dívida ativa e a execução fiscal não impedem, por si só, a aplicação do artigo 387, IV, do CPP, cuja finalidade é reconhecer, no bojo da condenação criminal, os danos materiais efetivamente causados à vítima, ainda que esta seja o Fisco.
+6. Reconhecimento de que a reparação mínima cumpre função simbólica, pedagógica e ressocializadora, reforçando o vínculo entre o ilícito penal e suas consequências patrimoniais, sem ofender os princípios da legalidade, segurança jurídica ou da vedação ao enriquecimento sem causa.
+7. Inexistência de violação à separação das esferas cível, penal e administrativa, tampouco afronta ao artigo 935 do Código Civil, sendo legítima a cumulação de efeitos reparatórios no âmbito da jurisdição penal.
+8. Embargos infringentes conhecidos e desprovidos. Mantido o acórdão embargado, nos termos do voto condutor do Desembargador Relator."
+Em recurso especial (fls. 1.298/1.309), a defesa apontou violação e interpretação divergente do art. 387, IV, do Código de Processo Penal - CPP, tendo em vista a impossibilidade de fixação de valor mínimo para reparação de danos quando o crédito tributário já está regularmente constituído e inscrito em dívida ativa, por configurar bis in idem, existindo via própria de cobrança pela execução fiscal. Indicou o REsp. n. 1.870.015/SC como acórdão paradigma.
+Requereu o afastamento da fixação de valor mínimo à título de reparação de danos.
+Contrarrazões do MINISTÉRIO PÚBLICO DO DISTRITO FEDERAL E DOS TERRITÓRIOS (fls. 1.335/1.337).
+O recurso especial foi admitido no TJ (fls. 1.349/1.353).
+Os autos vieram a esta Corte, sendo protocolados e distribuídos. Aberta vista ao Ministério Público Federal, este opinou pelo provimento do recurso especial (fls. 1.369/1.373).
+É o relatório.
+Decido.
+O TRIBUNAL DE JUSTIÇA DO DISTRITO FEDERAL E DOS TERRITÓRIOS fixou, por maioria, o valor mínimo de R$ 17.132.988,04 à título de reparação por danos causados ao erário pela prática do crime tributário, nos seguintes termos do voto do relator (fls. 1.121/1.122):
+"VALOR MÍNIMO PARA REPARAÇÃO DOS DANOS CAUSADOS PELA INFRAÇÃO
+O Ministério Público afirma que o disposto no inciso IV do art. 387 do Código de Processo Penal impõe ao Magistrado o dever de fixar o valor mínimo para reparação dos danos causados pela infração penal. Ressalta que a fixação da indenização mínima busca "o verdadeiro responsável pelos crimes tributários, sobre os quais devem recair os ônus de suas práticas delitivas que, muitas vezes, acabam ocultos nas formalidades contratuais inerentes ao ". Requer seja fixado o valor R$ 22.195.328,81 (vinte e dois milhões,direito civil e empresarial cento e noventa e cinco mil, trezentos e vinte e oito reais e oitenta e um centavo).
+Para a fixação de valor mínimo a título de reparação dos danos causados pelo crime deve haver pedido expresso deduzido pela vítima ou pelo Ministério Público e a comprovação do prejuízo sofrido, em atenção às garantias do contraditório e da ampla defesa e ao previsto no artigo 387, inciso IV, do Código de Processo Penal.
+No presente caso, houve pedido expresso na denúncia e nas alegações finais de reparação pelos danos materiais sofridos e causados pelas infrações (I Ds 60307540, pág. 3, e 60307641, pág. 16).
+Não desconheço os precedentes firmados nesta Turma Criminal acerca da inviabilidade de fixação de indenização mínima quando o débito foi incluído em dívida ativa, todavia, ouso deles discordar. É que, conforme exposto pela Promotoria de Justiça, a fixação do dever de indenizar nesta seara criminal permitirá que os verdadeiros responsáveis pela infração sejam alcançados e compelidos a reparar os danos materiais causados ao Fisco. Ressalto, entretanto, que o título executivo formado na esfera penal, por óbvio, não poderá ser cobrado em duplicidade com o existente na execução fiscal.
+Assim, considerando que as provas juntadas aos autos evidenciam o valor do dano causado ao Erário quando da propositura da ação penal (ID 60307397, fl. 24) era de R$ 17.132.988,04 (dezessete milhões, cento e trinta e dois mil, novecentos e oitenta e oito reais e quatro centavos), fixo o valor mínimo para reparação dos danos materiais nesse quantum. Por fim, ressalto que, por se tratar de fixação mínima da infração penal, eventual atualização do crédito tributário deverá ser intentada pela Fazenda Pública em desfavor do devedor tributário, na esfera cível."
+Por outro lado, o voto divergente assinalou:
+"Peço vênia para divergir do entendimento emanado pelo eminente Relator apenas no que se refere à fixação de valor mínimo para reparação dos danos materiais.
+Isso porque o crédito tributário já foi inscrito em Dívida Ativa, conforme documentos sob o ID 60307402, podendo a Fazenda Pública ajuizar a correspondente ação de execução fiscal, inclusive com as obrigações acessórias, possibilitando a reparação dos danos causados pela infração penal.
+Com efeito, o estabelecimento de indenização mínima nesta seara, nos termos do artigo 387, inciso IV, do Código de Processo Penal, poderia acarretar bis in idem.
+No mesmo sentido, segue a jurisprudência do colendo Superior Tribunal de Justiça. Confira-se:
+AGRAVO REGIMENTAL EM RECURSO ESPECIAL. PENAL E PROCESSUAL PENAL. CRIME CONTRA A ORDEM TRIBUTÁRIA. VIOLAÇÃO DOS ARTS. 59 DO CP E 387, IV, DO CPP. PLEITO DE EXASPERAÇÃO DA PENA-BASE. ALEGAÇÃO DE ELEVADO DANO À COLETIVIDADE APTO A NEGATIVAR AS CONSEQUÊNCIAS DO CRIME. VALOR TOTAL A SER CONSIDERADO CONSISTENTE EM DÍVIDA INFERIOR A R$ 1.000.000,00. APLICAÇÃO EM ANALOGIA AO DISPOSTO NO ART. 14, CAPUT, DA PORTARIA N. 320/PGFN. JURISPRUDÊNCIA DA TERCEIRA SEÇÃO. MANUTENÇÃO DA REPRIMENDA QUE SE IMPÕE. PLEITO DE RESTABELECIMENTO DA FIXAÇÃO DE VALOR MÍNIMO PARA A INDENIZAÇÃO DOS DANOS SOFRIDOS. ENTENDIMENTO DA CORTE DE ORIGEM EM CONSONÂNCIA COM A JURISPRUDÊNCIA DO STJ. FAZENDA PÚBLICA QUE POSSUI PROPRIEDADE PARA REAVER OS VALORES SONEGADOS VIA EXECUÇÃO FISCAL.
+1. Não obstante tenha sido utilizado na decisão agravada o parâmetro concernente à causa de aumento de pena disposta no art. 12, I, da Lei 8.137/1990, reputa-se que o incontroverso valor sonegado de R$ 181.175,12 (cento e oitenta e um mil, cento e setenta e cinco reais e doze centavos) não justifica o reconhecimento de grave dano à coletividade, a ensejar a negativação das consequências do delito.
+2. O entendimento da Corte a quo está em sintonia com o quanto adotado pelo Superior Tribunal de Justiça, quanto à inviabilidade de fixação de valor mínimo a título de reparação de danos por crimes tributários, notadamente por conta de a Fazenda Pública possuir meios próprios para reaver os valores sonegados.
+3. Ressalte-se que, na hipótese em tela, já houve a constituição do crédito tributário, consubstanciado na Certidão de Dívida Ativa. Logo, não se faz necessária a fixação do valor mínimo à reparação do dano previsto no inciso IV do art. 387 do Código de Processo Penal, porquanto a Fazenda Pública já está devidamente aparelhada para a cobrança do montante que entende devido pelo contribuinte, mediante a propositura da (AgRg no REsp n. 1.844.856/SC, Ministro Jorgerespectiva execução fiscal Mussi, Quinta Turma, D Je 18/5/2020).
+4. Agravo regimental improvido.
+(AgRg no REsp n. 1.870.015/SC, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 17/11/2020, D Je de 20/11/2020.).
+Outrossim, cumpre colacionar julgados desta egrégia Corte de Justiça:
+ .. "
+No julgamento dos embargos infringentes, prevaleceu, por maioria, o voto condutor do acórdão embargado, fixando o valor mínimo de reparação dos danos, a despeito de o débito tributário já estar inscrito na dívida ativa.
+Tal acórdão, entretanto, merece ser reformado.
+O Superior Tribunal de Justiça firmou orientação pela inviabilidade de fixação, com base no art. 387, IV, do CPP, de valor mínimo de reparação de danos em condenações por crimes contra a ordem tributária quando o crédito tributário já se encontra definitivamente constituído e inscrito em dívida ativa, por existir via própria de cobrança (execução fiscal) pela Fazenda Pública. Nessa hipótese, a imposição de reparação mínima gera indevida duplicidade de títulos e risco de bis in idem, razão pela qual deve ser afastada.
+Sobre o tema, os seguintes julgados:
+DIREITO PROCESSUAL PENAL. AGRAVO REGIMENTAL. CRIME CONTRA A ORDEM TRIBUTÁRIA. FIXAÇÃO DE VALOR INDENIZATÓRIO MÍNIMO. INVIABILIDADE. AGRAVO REGIMENTAL IMPROVIDO.
+I. CASO EM EXAME
+1. Agravo regimental interposto pelo Ministério Público contra decisão monocrática que deu provimento ao recurso especial defensivo, excluindo da sentença a fixação de valor indenizatório mínimo, correspondente ao montante do tributo suprimido.
+II. QUESTÃO EM DISCUSSÃO
+2. A questão em discussão consiste em saber se, em casos de crimes contra a ordem tributária, é cabível a fixação de valor indenizatório mínimo, nos termos do art. 387, IV, do Código de Processo Penal, considerando que o crédito tributário já está regularmente constituído e que a Fazenda Pública possui meios próprios para sua cobrança.
+III. RAZÕES DE DECIDIR
+3. A finalidade do art. 387, IV, do Código de Processo Penal é a liquidação parcial do dano, medida desnecessária em casos de crimes contra a ordem tributária, pois o crédito tributário já está constituído, sendo condição de procedibilidade da ação penal.
+4. A Fazenda Pública possui meios próprios para buscar o adimplemento do crédito tributário, não sendo competência do juízo criminal arbitrar indenização mínima para tal fim. Precedentes.
+5. A exclusão da fixação de valor indenizatório mínimo não implica dispensa do pagamento do tributo, mas apenas reconhece que o adimplemento do crédito deve ser buscado nas vias cabíveis.
+IV. DISPOSITIVO E TESE
+6. Resultado do Julgamento: Agravo regimental improvido.
+Tese de julgamento:
+1. Não é cabível a fixação de valor indenizatório mínimo (correspondente ao montante do crédito tributário), nos termos do art. 387, IV, do Código de Processo Penal, em casos de crimes contra a ordem tributária.
+2. A Fazenda Pública possui meios próprios, cíveis e administrativos, para buscar o adimplemento do crédito tributário, não sendo competência do juízo criminal arbitrar indenização mínima para tal fim.
+Dispositivos relevantes citados: CPP, art. 387, IV.
+Jurisprudência relevante citada:STJ, AgRg no REsp 1.870.015/SC, Rel. Min. Sebastião Reis Júnior, Sexta Turma, julgado em 17.11.2020;
+STJ, AgRg no REsp 1.953.199/SC, Rel. Min. Antonio Saldanha Palheiro, Sexta Turma, julgado em 10.05.2022; STJ, AgRg no REsp 1.844.856/SC, Rel. Min. Jorge Mussi, Quinta Turma, julgado em 05.05.2020.
+(AgRg no AREsp n. 3.048.713/SC, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 3/2/2026, DJEN de 10/2/2026.)
+DIREITO PENAL. RECURSO ESPECIAL. CRIME CONTRA A ORDEM TRIBUTÁRIA. PRECLUSÃO. PROVA EMPRESTADA. RESPONSABILIDADE OBJETIVA. REPARAÇÃO DE DANOS. RECURSO PARCIALMENTE PROVIDO.
+I. Caso em exame
+1. Recurso especial interposto contra acórdão que manteve a condenação do recorrente por crime contra a ordem tributária, com base no art. 1º, I, da Lei nº 8.137/90, e fixou valor mínimo para reparação de danos.
+II. Questão em discussão
+2. A questão em discussão consiste em saber se houve preclusão quanto ao não oferecimento do acordo de não persecução penal (ANPP) e se a condenação se baseou em prova emprestada ilícita.
+3. A questão em discussão também envolve a análise da alegação de responsabilização objetiva do réu e a legalidade da fixação de valor mínimo para reparação de danos em crimes tributários.
+III. Razões de decidir
+4. A preclusão foi configurada, pois a defesa não requereu a aplicação do § 14 do art. 28 do CP na primeira oportunidade de falar nos autos.
+5. A prova emprestada foi submetida ao contraditório diferido e corroborada por depoimento judicial, afastando a nulidade probatória.
+6. A condenação não se baseou em responsabilização objetiva.
+7. A fixação de valor mínimo para reparação de danos por crimes tributários é inviável, pois a Fazenda Pública possui meios próprios para reaver os valores sonegados.
+IV. Dispositivo e tese
+8. Recurso parcialmente provido para afastar a condenação à reparação de danos, mantendo-se o acórdão recorrido nos demais termos.
+(REsp n. 2.111.370/SP, relatora Ministra Daniela Teixeira, Quinta Turma, julgado em 18/2/2025, DJEN de 25/2/2025.)
+AGRAVO REGIMENTAL EM RECURSO ESPECIAL. PENAL E PROCESSUAL PENAL. CRIME CONTRA A ORDEM TRIBUTÁRIA. VIOLAÇÃO DOS ARTS. 59 DO CP E 387, IV, DO CPP. PLEITO DE EXASPERAÇÃO DA PENA-BASE. ALEGAÇÃO DE ELEVADO DANO À COLETIVIDADE APTO A NEGATIVAR AS CONSEQUÊNCIAS DO CRIME. VALOR TOTAL A SER CONSIDERADO CONSISTENTE EM DÍVIDA INFERIOR A R$ 1.000.000,00. APLICAÇÃO EM ANALOGIA AO DISPOSTO NO ART. 14, CAPUT, DA PORTARIA N. 320/PGFN. JURISPRUDÊNCIA DA TERCEIRA SEÇÃO. MANUTENÇÃO DA REPRIMENDA QUE SE IMPÕE. PLEITO DE RESTABELECIMENTO DA FIXAÇÃO DE VALOR MÍNIMO PARA A INDENIZAÇÃO DOS DANOS SOFRIDOS. ENTENDIMENTO DA CORTE DE ORIGEM EM CONSONÂNCIA COM A JURISPRUDÊNCIA DO STJ. FAZENDA PÚBLICA QUE POSSUI PROPRIEDADE PARA REAVER OS VALORES SONEGADOS VIA EXECUÇÃO FISCAL.
+1. Não obstante tenha sido utilizado na decisão agravada o parâmetro concernente à causa de aumento de pena disposta no art. 12, I, da Lei 8.137/1990, reputa-se que o incontroverso valor sonegado de R$ 181.175,12 (cento e oitenta e um mil, cento e setenta e cinco reais e doze centavos) não justifica o reconhecimento de grave dano à coletividade, a ensejar a negativação das consequências do delito.
+2. O entendimento da Corte a quo está em sintonia com o quanto adotado pelo Superior Tribunal de Justiça, quanto à inviabilidade de fixação de valor mínimo a título de reparação de danos por crimes tributários, notadamente por conta de a Fazenda Pública possuir meios próprios para reaver os valores sonegados.
+3. Ressalte-se que, na hipótese em tela, já houve a constituição do crédito tributário, consubstanciado na Certidão de Dívida Ativa.
+Logo, não se faz necessária a fixação do valor mínimo à reparação do dano previsto no inciso IV do art. 387 do Código de Processo Penal, porquanto a Fazenda Pública já está devidamente aparelhada para a cobrança do montante que entende devido pelo contribuinte, mediante a propositura da respectiva execução fiscal (AgRg no REsp n. 1.844.856/SC, Ministro Jorge Mussi, Quinta Turma, DJe 18/5/2020).
+4. Agravo regimental improvido.
+(AgRg no REsp n. 1.870.015/SC, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 17/11/2020, DJe de 20/11/2020.)
+Ante o exposto, em consonância co m o parecer do MPF, conheço do recurso especial e, com fundamento na Súmula n. 568 do STJ, dou-lhe provimento para afastar a fixação de valor mínimo à título de reparação de danos causados pela infração.
+Publique-se. Intimem-se.
+ EMENTA
