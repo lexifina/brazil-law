@@ -1,0 +1,74 @@
+Poder Judiciário da UniãoTRIBUNAL DE JUSTIÇA DO DISTRITO FEDERAL E DOS TERRITÓRIOS
+
+Órgão
+Primeira Turma Recursal DOS JUIZADOS ESPECIAIS DO DISTRITO FEDERAL
+Processo N.RECURSO INOMINADO CÍVEL 0728316-40.2015.8.07.0016RECORRENTE(S)HELENA CELMA VALENTIM DA SILVARECORRIDO(S)DISTRITO FEDERALRelatorJuiz LUIS EDUARDO YATSUDA ARIMA
+ Acórdão Nº2130120
+
+EMENTA
+
+ Ementa. Direito Administrativo e Processual Civil. Recurso inominado cível. Juizado Especial da Fazenda Pública. Preliminar de nulidade por decisão surpresa. Arts. 9º e 10 do CPC. Nulidade não configurada. Cumprimento de sentença contra a Fazenda Pública. Gratificação de Atividade de Ensino Especial (GAEE). Turma inclusiva. Exercício de 2014. Lei Distrital nº 5.105/2013. Exigência de exclusividade. Sentença originária fundada no afastamento da expressão "exclusivamente" pelo Incidente de Arguição de Constitucionalidade nº 2010.00.2.016543-6. Trânsito em julgado anterior ao RE 1.287.126/DF. ADPF nº 615. Coisa julgada inconstitucional. Inexigibilidade do título judicial. Art. 535, § 5º, do CPC. Simples petição tempestiva. Súmula 343/STF e Tema 136. Superação parcial pela ADPF nº 615. Recurso conhecido e não provido.
+
+I. Caso em exame
+
+1. Recurso inominado interposto pela requerente em face da sentença que, em sede de cumprimento de sentença, declarou inexigível o título judicial formado nestes autos e, por consequência, julgou extinto o processo, nos termos dos arts. 203, §1º, e 924, III, do CPC.
+
+2. Recurso próprio e tempestivo (ID 82452136).  Custas e preparo recolhidos.
+
+3. Em suas razões recursais, a parte autora sustenta que a sentença configura decisão surpresa, por violação aos arts. 9º e 10 do CPC, na medida em que proferida com fundamento na ADPF nº 615, julgada em 17/11/2025 e publicada em 18/03/2026, sem que lhe fosse oportunizada nova manifestação sobre o precedente superveniente que alterou substancialmente o quadro jurídico-processual, tendo sido intimado em março de 2019 apenas para se manifestar sobre a exceção de pré-executividade fundada na ADI nº 2017.00.2.021004-9, e não sobre a ADPF nº 615. Sustenta, ainda, que a ADPF nº 615 não autoriza a reabertura indiscriminada de processos encerrados, mas apenas supriu lacuna procedimental relativa à inexistência de ação rescisória nos Juizados Especiais. Invoca a Súmula 343/STF e o Tema 136 da Repercussão Geral como óbices materiais à desconstituição, porquanto a sentença originária foi proferida em 23/02/2016, sob orientação jurisprudencial então prevalecente no TJDFT, firmada no Incidente de Arguição de Constitucionalidade nº 2010.00.2.016543-6 de 2011, que declarava inconstitucional a exigência de exclusividade. Ao final, pede o provimento do recurso para anular a sentença por decisão surpresa ou, no mérito, reformá-la para restabelecer a exigibilidade do título judicial e, subsidiariamente, a suspensão do feito até o julgamento do IRDR nº 4.
+
+4. Em contrarrazões, o Distrito Federal defende a integral correção da sentença. Sustenta que a ADPF nº 615 expressamente determinou aos Juizados Especiais da Fazenda Pública do DF a apreciação das alegações de inexequibilidade dos títulos judiciais, aplicando solução compatível com a constitucionalidade da expressão "exclusivamente" do art. 20, I, da Lei Distrital nº 5.105/2013, de modo que a sentença recorrida cumpriu determinação vinculante da Suprema Corte. Quanto à decisão surpresa, argumenta que o recorrente foi intimado em março de 2019 para se manifestar sobre a exceção de pré-executividade e que a alegação de inexigibilidade permaneceu inalterada em sua essência, tendo a ADPF nº 615 apenas consolidado o fundamento jurídico que já sustentava o pedido, sem alteração da causa de pedir, e que eventual irregularidade foi sanada pela ampla manifestação do recorrente nos embargos de declaração e no recurso inominado. No tocante à Súmula 343/STF e ao Tema 136, sustenta que a ADPF nº 615 relativizou expressamente esses parâmetros, eliminando o requisito de anterioridade do pronunciamento do STF em relação ao trânsito em julgado da sentença exequenda, conforme modificação da tese do Tema 360. Invoca a tempestividade da exceção de pré-executividade, apresentada em março de 2019, antes mesmo do trânsito em julgado do RE 1.287.126/DF em 11/05/2023, dentro do prazo de dois anos fixado pela ADPF nº 615. Argumenta que inexiste direito adquirido fundado em título cuja exigibilidade foi afastada por incompatibilidade com precedente vinculante do STF e que o exercício de 2014 está integralmente submetido ao regime da Lei nº 5.105/2013, que exige atuação exclusiva, inexistindo possibilidade de distinguishing com fundamento no regime anterior da Lei nº 540/1993. Afirma que a suspensão para aguardar o IRDR nº 4 é desnecessária diante da existência de precedente vinculante do STF que disciplina diretamente a matéria. Ao final, pugna pelo integral desprovimento do recurso.
+
+II. Questão em discussão
+
+5. As questões em discussão consistem em saber: (i) se o feito deve ser suspenso até o julgamento do IRDR nº 4 do TJDFT; (ii) se a sentença que declarou a inexigibilidade do título judicial viola os arts. 9º e 10 do CPC, por configurar decisão surpresa proferida com fundamento na ADPF nº 615 sem nova intimação do recorrente; (iii) se a ADPF nº 615 autoriza a desconstituição da coisa julgada formada nos Juizados Especiais no caso concreto; (iv) se a Súmula 343/STF e o Tema 136 da Repercussão Geral obstam a declaração de inexigibilidade de título proferido sob orientação jurisprudencial então prevalecente; e (v) se a simples petição (exceção de pré-executividade) do Distrito Federal é tempestiva à luz do prazo decadencial fixado pela ADPF nº 615.
+
+III. Razões de decidir
+
+6. Quanto ao pedido de suspensão até o julgamento do IRDR nº 4 do TJDFT, o próprio incidente reconheceu a prejudicialidade externa do controle concentrado de constitucionalidade, tendo sido suspenso até o julgamento da ação direta que versava sobre a gratificação de ensino especial. Com o julgamento definitivo da ADPF nº 615 pelo Plenário do STF e a confirmação da constitucionalidade da exigência de exclusividade no RE 1.287.126/DF, o IRDR nº 4 perdeu o objeto, não subsistindo razão para o sobrestamento pretendido.
+
+7. Preliminar de nulidade. Os arts. 9º e 10 do CPC vedam, respectivamente, a prolação de decisão contra uma das partes sem que ela seja previamente ouvida e a decisão com base em fundamento a respeito do qual não se tenha dado às partes oportunidade de se manifestar. A alegação de decisão surpresa, com fundamento nos arts. 9º e 10 do CPC, não prospera. A parte autora foi intimada em março de 2019 para se manifestar sobre a exceção de pré-executividade apresentada pelo Distrito Federal, tendo tido oportunidade formal de se pronunciar sobre a alegação de inexigibilidade do título, tanto que assim o fez (ID 82452116). Embora a sentença tenha sido proferida com fundamento superveniente na ADPF nº 615, a parte pôde impugnar integralmente a tese nos embargos de declaração opostos em 22/01/2026 e no presente recurso inominado, de modo que eventual irregularidade processual não lhe acarretou prejuízo efetivo, em observância ao princípio da instrumentalidade das formas (art. 282, § 1º, do CPC).
+
+8. O art. 535, § 5º, do CPC dispõe que a inexigibilidade do título judicial poderá ser arguida pela Fazenda Pública devedora. O art. 525, § 12, complementa que se considera inexigível a obrigação reconhecida em título executivo judicial fundado em lei ou ato normativo considerado inconstitucional pelo STF, ou fundado em aplicação ou interpretação da lei ou do ato normativo tido pelo STF como incompatível com a CF, em controle de constitucionalidade concentrado ou difuso. O art. 20, I, da Lei Distrital nº 5.105/2013 condiciona o pagamento da GAEE ao exercício exclusivo com alunos portadores de necessidades educativas especiais ou em situação de risco e vulnerabilidade. O art. 59 da Lei nº 9.099/1995 veda a ação rescisória nas causas sujeitas ao procedimento dos Juizados Especiais.
+
+9. A ação originária foi ajuizada em 18/11/2015 pelo recorrente, professor da rede pública do Distrito Federal lotado no CEF 25 de Ceilândia, postulando o pagamento da GAEE correspondente ao exercício de 2014, período no qual ministrou aulas em turmas que incluíam alunos portadores de necessidades especiais (turma inclusiva, e não exclusiva). A sentença de 23/02/2016 condenou o Distrito Federal ao pagamento de R$ 6.308,73, com fundamento no Incidente de Arguição de Constitucionalidade nº 2010.00.2.016543-6, pelo qual o Conselho Especial do TJDFT havia declarado a inconstitucionalidade das expressões "exclusivamente" e "em exercício nas unidades especializadas de ensino do Distrito Federal ou nas instituições conveniadas" constantes do art. 21, § 3º, I, da Lei Distrital nº 4.075/2007. A sentença transitou em julgado em 09/03/2016 (ID 82451152) e o processo ingressou na fase de cumprimento, com expedição de RPV. Em março de 2019, o Distrito Federal apresentou exceção de pré-executividade (ID 82452113) suscitando a inexigibilidade do título, invocando a ADI nº 2017.00.2.021004-9 do TJDFT (j. 20/11/2018), que reconheceu a constitucionalidade da exigência de exclusividade. O juízo deferiu tutela de urgência, suspendeu a RPV e intimou a parte autora (ID 82452114). Em dezembro de 2022, o processo foi suspenso por determinação do STF na ADPF 615 MC/DF. Com a publicação do acórdão definitivo da ADPF nº 615, os autos retomaram curso e o juízo proferiu sentença em 03/02/2026 declarando a inexigibilidade do título judicial.
+
+10. O Plenário do STF, ao julgar a ADPF nº 615 (Rel. Min. Luís Roberto Barroso, Red. p/ Acórdão Min. Alexandre de Moraes, j. 17/11/2025, DJe 18/03/2026), determinou aos Juizados Especiais da Fazenda Pública do DF que apreciem as alegações de inexequibilidade dos títulos judiciais formuladas pelo Distrito Federal, aplicando solução compatível com a constitucionalidade da expressão "exclusivamente". A Corte fixou tese segundo a qual o art. 59 da Lei nº 9.099/1995 não impede a desconstituição da coisa julgada quando o título executivo judicial estiver em contrariedade a pronunciamento do STF, sendo admissível o manejo de simples petição em prazo equivalente ao da ação rescisória. A ADPF nº 615 modificou a tese firmada no Tema 360 (RE 611.503) para admitir a arguição de inexigibilidade independentemente de a decisão do STF ser anterior ou posterior ao trânsito em julgado da sentença exequenda. Na ausência de manifestação expressa sobre efeitos temporais, os efeitos retroativos da desconstituição não excedem cinco anos da data da apresentação da petição, a ser proposta no prazo decadencial de dois anos contados do trânsito em julgado da decisão do STF.
+
+11. No caso, a contrariedade entre o título judicial e o pronunciamento do STF é direta e inequívoca, porquanto a sentença originária fundou-se precisamente no afastamento da exigência de exclusividade pelo Incidente de Arguição de Constitucionalidade de 2010, entendimento que foi frontalmente revertido pela ADI nº 2017.00.2.021004-9 do Conselho Especial do TJDFT (Acórdão 1158225, j. 20/11/2018), que reconheceu a constitucionalidade do art. 20, I, da Lei Distrital nº 5.105/2013 e do art. 21, § 3º, I, da Lei Distrital nº 4.075/2007, e confirmado pelo STF no RE 1.287.126/DF (Rel. Min. Rosa Weber, j. 03/04/2023, trânsito em julgado em 11/05/2023).
+
+12. A Súmula 343 do STF e o Tema 136 da Repercussão Geral, invocados pelo recorrente como óbices materiais à desconstituição de decisão proferida sob interpretação então controvertida, foram expressamente relativizados pela ADPF nº 615. O voto condutor consignou que tais parâmetros devem ser aplicados de modo a viabilizar a paralisação dos efeitos de título executivo judicial fundado em norma cuja constitucionalidade foi reconhecida pelo STF, não servindo a mera controvérsia interpretativa pretérita como escudo à manutenção de títulos em contrariedade ao pronunciamento vinculante da Suprema Corte. A superação parcial desses parâmetros, aliada à modificação da tese do Tema 360 (RE 611.503), que eliminou o requisito de anterioridade do pronunciamento do STF, afasta os óbices suscitados pelo recorrente.
+
+13. A exceção de pré-executividade do Distrito Federal é tempestiva, porquanto apresentada em março de 2019, antes mesmo do trânsito em julgado do RE 1.287.126/DF em 11/05/2023, atendendo ao prazo de dois anos fixado pela ADPF nº 615 como equivalente ao da ação rescisória.
+
+IV. Dispositivo e tese
+
+14. Recurso conhecido. Preliminar afastada. E não provido. Condenada a parte recorrente ao pagamento de custas e honorários advocatícios, estes fixados em 10% do valor da causa, nos termos do art. 55, Lei n.º 9.099/1995.
+
+15. A súmula de julgamento servirá de acórdão, conforme regra do art. 46 da Lei n. 9.099/95.
+
+Dispositivo relevante citado: CPC, arts. 9º, 10, 282, § 1º, 525, § 12, 535, § 5º; Lei nº 9.099/95, arts. 46, 55 e 59; Lei Distrital nº 4.075/2007, art. 21, § 3º, I; Lei Distrital nº 5.105/2013, art. 20, I. Jurisprudência relevante citada: STF, ADPF 615, Relator(a): LUÍS ROBERTO BARROSO, Relator(a) p/ Acórdão: ALEXANDRE DE MORAES, Tribunal Pleno, julgado em 17-11-2025, PROCESSO ELETRÔNICO DJe-s/n DIVULG 17-03-2026 PUBLIC 18-03-2026; STF, (RE 1287126 AgR, Relator(a): ROSA WEBER, Primeira Turma, julgado em 03-04-2023, PROCESSO ELETRÔNICO DJe-s/n DIVULG 14-04-2023 PUBLIC 17-04-2023; RE 611503, Relator(a): TEORI ZAVASCKI, Relator(a) p/ Acórdão: EDSON FACHIN, Tribunal Pleno, julgado em 20-09-2018, ACÓRDÃO ELETRÔNICO REPERCUSSÃO GERAL - MÉRITO DJe-053 DIVULG 18-03-2019 PUBLIC 19-03-2019 (Tema 360); TJDFT, Acórdão 1158225, 20170020210049ADI, Relator(a): FERNANDO HABIBE, CONSELHO ESPECIAL, data de julgamento: 20/11/2018, publicado no DJe: 20/03/2019.
+
+ACÓRDÃO
+
+Acordam os Senhores Juízes da Primeira Turma Recursal dos Juizados Especiais do Distrito Federal do Tribunal de Justiça do Distrito Federal e dos Territórios, LUIS EDUARDO YATSUDA ARIMA - Relator, EVANDRO NEIVA DE AMORIM - 1º Vogal e FLÁVIO FERNANDO ALMEIDA DA FONSECA - 2º Vogal, sob a Presidência do Senhor Juiz LUIS EDUARDO YATSUDA ARIMA, em proferir a seguinte decisão: CONHECIDO. NÃO PROVIDO. UNÂNIME., de acordo com a ata do julgamento e notas taquigráficas.
+
+Brasília (DF), 28 de Maio de 2026
+
+Juiz LUIS EDUARDO YATSUDA ARIMAPresidente e Relator
+
+RELATÓRIO
+
+Na forma do art. 46 da Lei 9.099/1995, a ementa serve de acórdão. Recurso próprio, regular e tempestivo.
+
+VOTOS
+
+O Senhor Juiz LUIS EDUARDO YATSUDA ARIMA - Relator
+
+Dispensado o voto. A ementa servirá de acórdão, conforme inteligência dos arts. 2º e 46 da Lei n. 9.099/95.
+
+O Senhor Juiz EVANDRO NEIVA DE AMORIM - 1º Vogal Com o(a) relator(a)O Senhor Juiz FLÁVIO FERNANDO ALMEIDA DA FONSECA - 2º Vogal Com o(a) relator(a)
+
+DECISÃO
+
+CONHECIDO. NÃO PROVIDO. UNÂNIME.
