@@ -1,0 +1,96 @@
+DECISÃO
+Trata-se de habeas corpus com pedido de liminar impetrado em favor de WENBLESSON LUCIANO DA SILVA em que se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAIS.
+Consta dos autos, com base no acórdão impugnado, o reconhecimento de falta grave por empreender fuga durante o trabalho externo, com aplicação dos consectários legais, inclusive regressão de regime e revogação do labor extramuros (fls. 9-12).
+O impetrante sustenta flagrante ilegalidade, afirmando que se trata de hipótese excepcional que autoriza o manejo do habeas corpus substitutivo, diante de excesso de execução que restringe indevidamente a liberdade do paciente.
+Alega que houve regressão definitiva ao regime fechado por descumprimento do horário de retorno, embora o paciente já tenha cumprido percentual elevado da pena, o que evidenciaria desproporção.
+Afirma que os dados do sistema eletrônico, após alteração da data-base, apontam o cumprimento de 62,36% da pena e a projeção de progressão apenas em 8/12/2026, exigindo 69,46% de cumprimento no regime fechado, em descompasso com a fração legal aplicável.
+Assevera que o art. 57 da Lei n. 7.210/1984 não foi observado, pois a decisão teria aplicado sanção disciplinar de forma automática, sem considerar motivos, circunstâncias e o tempo de prisão do faltoso.
+Defende que o atraso decorrente do trabalho urbano não revela dolo de fuga, sendo o labor vetor de ressocialização previsto na Lei de Execução Penal, de modo que a sanção imposta desbordaria da proporcionalidade e da razoabilidade.
+Informa que há risco concreto e atual à liberdade do paciente, justificando a medida liminar para recondução imediata ao regime semiaberto, sem necessidade de pedido de informações, diante da documentação pré-constituída.
+Requer, liminarmente e no mérito, a recondução do paciente ao regime semiaberto, com o afastamento da regressão definitiva imposta.
+É o relatório.
+O Superior Tribunal de Justiça entende ser inadmissível a utilização do habeas corpus como sucedâneo de recurso próprio, previsto na legislação, impondo-se o não conhecimento da impetração.
+Sobre a questão, confiram-se os seguintes julgados desta Corte Superior:
+DIREITO PENAL E PROCESSUAL PENAL. AGRAVO REGIMENTAL EM HABEAS CORPUS. CONDENAÇÃO TRANSITADA EM JULGADO. IMPOSSIBILIDADE DE UTILIZAÇÃO DO HABEAS CORPUS COMO SUCEDÂNEO DE REVISÃO CRIMINAL. AGRAVO DESPROVIDO.
+I. CASO EM EXAME
+1. Agravo regimental interposto por Pablo da Silva contra decisão monocrática que não conheceu de habeas corpus, com base no entendimento de que o habeas corpus foi utilizado em substituição a revisão criminal. O agravante foi condenado a 1 ano de reclusão, com substituição da pena por restritiva de direitos, pela prática de furto (art. 155, caput, CP). A defesa pleiteou a conversão da pena restritiva de direitos em multa, alegando discriminação com base na condição financeira do paciente.
+II. QUESTÃO EM DISCUSSÃO
+2. Há duas questões em discussão: (i) definir se é cabível o conhecimento do habeas corpus utilizado em substituição à revisão criminal; e (ii) estabelecer se a escolha da pena restritiva de direitos, em vez de multa, configura discriminação por condição financeira.
+III. RAZÕES DE DECIDIR
+3. O habeas corpus não é admitido como substituto de revisão criminal, conforme a jurisprudência consolidada do STJ e do STF, ressalvados casos de flagrante ilegalidade.
+4. Não houve demonstração de ilegalidade evidente na escolha da pena restritiva de direitos, sendo esta compatível com a natureza do crime e as condições pessoais do condenado.
+IV. DISPOSITIVO E TESE
+5. Agravo regimental desprovido.
+Tese de julgamento:
+1. O habeas corpus não pode ser utilizado como substituto de revisão criminal, salvo em casos de flagrante ilegalidade.
+2. A escolha de pena restritiva de direitos, em substituição à privativa de liberdade, não configura discriminação por condição financeira, desde que adequadamente fundamentada.
+Dispositivos relevantes citados: Código Penal, art. 155; STJ, AgRg no HC 861.867/SC; STF, HC 921.445/MS.
+(AgRg no HC n. 943.522/SC, relator Ministro Messod Azulay Neto, Quinta Turma, julgado em 22/10/2024, DJe de 4/11/2024.)
+PROCESSUAL PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS. NULIDADE. ABSOLVIÇÃO IMPETRAÇÃO DE HABEAS CORPUS NA FLUÊNCIA DO PRAZO PARA A INTERPOSIÇÃO DE RECURSOS NA ORIGEM. IMPOSSIBILIDADE.
+1. "O writ foi manejado antes do dies ad quem para a interposição da via de impugnação própria na causa principal, o recurso especial. Dessa forma, a impetração consubstancia inadequada substituição do recurso cabível ao Superior Tribunal de Justiça, não se podendo excluir a possibilidade de a matéria ser julgada por esta Corte na via de impugnação própria, a ser eventualmente interposta na causa principal" (AgRg no HC n. 895.954/DF, relator Ministro Otávio de Almeida Toledo - Desembargador Convocado do TJSP, Sexta Turma, julgado em 12/8/2024, DJe de 20/8/2024.)
+2. Agravo regimental desprovido.
+(AgRg no HC n. 939.599/SE, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 23/10/2024, DJe de 28/10/2024.)
+Portanto, não se pode conhecer do presente habeas corpus.
+Por outro lado, o exame dos autos não indica a existência de ilegalidade flagrante, apta a autorizar a concessão da ordem de ofício.
+Consoante se extrai dos autos, o Tribunal de origem negou provimento ao agravo em execução interposto pela defesa, consignando, para tanto, que (fls. 9-11, grifei):
+Em breve retrospecto fático, colhe-se que o apenado foi beneficiado com o trabalho externo, mas foragiu, deixando de retornar à Unidade Prisional na data estabelecida (10/4/2025). Recapturado em 11/5/2025, instaurou-se incidente para apuração da falta grave, com respeito ao devido processo legal, em que o d. juízo "a quo" reconheceu a infração disciplinar, com seus consectários legais.
+Analisando os autos, entendo que não merece acolhida a tese absolutória, eis que desacompanhada de qualquer elemento de convicção que confirme a necessidade alegada. O apenado já se encontrava trabalhando e se outra proposta teve, bastava tê-la comunicado à autoridade judicial para possível adequação de seu status prisional, caso fosse viável.
+"data venia", ao reconhecer a falta grave, o d. Juiz fundamentou suficientemente a necessidade da medida, afirmando que "o condenado praticou falta grave consistente no fato de não ter retornado ao estabelecimento prisional após usufruir do benefício do trabalho externo, o que caracteriza fuga, demonstrando com sua conduta, indisciplina e descaso com a Justiça, não fazendo jus, assim, a continuar expiando a pena no regime semiaberto. Ao cometer falta grave, consistente na fuga do estabelecimento prisional, o condenado demonstrou inadaptação ao sistema e irresponsabilidade no cumprimento das obrigações de seu regime, devendo, por isso, ser revogado o trabalho externo e procedido a regressão do regime prisional", não havendo que se cogitar de qualquer vício que comprometa a validade da decisão.
+Dessarte, comprovada a fuga, o reconhecimento da falta grave correlata - com seus consectários legais - era medida cogente que se impunha, já tendo o magistrador realizado o necessário juízo de proporcionalidade ao diminuir-lhe a fração de perda dos dias remidos, nada obstante a gravidade da conduta do apenado, que evidencia manifesto descumprimento das regras da execução penal, bem como o não atendimento às finalidades da reprimenda imposta.
+A conduta do art. 50, II, da LEP não se limita àqueles que evadem do sistema prisional, abrangendo também os condenados que não retornam ao sistema carcerário, quando possuem tal obrigação.
+Com mesmo entendimento, neste egrégio Tribunal:
+No caso dos autos, apesar da alegação defensiva de que " o  atraso decorrente do trabalho urbano não denota dolo de fuga ou insubordinação" (fl. 6), o acórdão recorrido ratifica a decisão que reconheceu o ato faltoso, e o dolo da conduta, especialmente pelo fato de que "o apenado foi beneficiado com o trabalho externo, mas foragiu, deixando de retornar à Unidade Prisional na data estabelecida (10/4/2025). Recapturado em 11/5/2025" (fls. 9-10, grifei).
+Nesse contexto, ao determinarem a regressão de regime ao apenado, as decisões de origem vão ao encontro da jurisprudência desta Corte Superior de Justiça, a qual firmou que: "A regressão de regime é um dos consectários legais da prática de falta grave, conforme dispõe o art. 118, I, da Lei de Execução Penal." (AgRg no HC n. 1.023.314/MG, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 4/3/2026, DJEN de 9/3/2026.)
+Nesse sentido:
+EXECUÇÃO PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. FALTA GRAVE. DESCUMPRIMENTO DE CONDIÇÕES DO REGIME SEMIABERTO NA MODALIDADE DOMICILIAR. REGRESSÃO DE REGIME. RECURSO IMPROVIDO.
+I. CASO EM EXAME
+1. Agravo regimental interposto contra decisão que não conheceu de habeas corpus, no qual se alegou constrangimento ilegal decorrente da homologação de falta disciplinar de natureza grave, relativa ao descumprimento de condições impostas para o cumprimento de pena em regime semiaberto na modalidade domiciliar.
+2. O agravante sustenta que o art. 50, V, da Lei de Execução Penal (LEP) não se aplica ao regime semiaberto e que a regressão ao regime fechado violaria os princípios da proporcionalidade e razoabilidade, considerando o histórico de bom comportamento e as justificativas apresentadas para os descumprimentos.
+II. QUESTÃO EM DISCUSSÃO
+3. A questão em discussão consiste em saber se o descumprimento das condições impostas para o cumprimento de pena em regime semiaberto na modalidade domiciliar configura falta grave nos termos do art. 50, V, da LEP.
+4. Também se discute a proporcionalidade da regressão de regime como consequência do reconhecimento da falta grave.
+III. RAZÕES DE DECIDIR
+5. O descumprimento das condições impostas para o cumprimento de pena em regime semiaberto na modalidade domiciliar configura falta grave nos termos do art. 50, V, da LEP.
+6. A jurisprudência do STJ estabelece que o reconhecimento de falta disciplinar de natureza grave acarreta a aplicação de seus consectários legais, incluindo a regressão de regime, não sendo cabível a invocação do princípio da proporcionalidade para afastar tais consequências.
+IV. DISPOSITIVO E TESE
+7. Resultado do Julgamento: Agravo regimental improvido.
+Tese de julgamento:
+1. O descumprimento das condições impostas para o cumprimento de pena em regime semiaberto na modalidade domiciliar configura falta grave nos termos do art. 50, V, da LEP.
+2. A prática de falta grave durante a execução penal autoriza a aplicação de seus consectários legais, incluindo a regressão de regime, não sendo cabível a invocação do princípio da proporcionalidade para afastar tais consequências.
+Dispositivos relevantes citados: LEP, art. 50, V. Jurisprudência relevante citada: STJ, AgRg no HC n. 947.543/PB, Rel. Min. Rogerio Schietti Cruz, Sexta Turma, julgado em 5/3/2025; STJ, AgRg no HC n. 913.930/SP, Rel. Min. Reynaldo Soares da Fonseca, Quinta Turma, julgado em 24/6/2024; STJ, AgRg no HC n. 834.348/PB, Rel. Min. Laurita Vaz, Sexta Turma, julgado em 2/10/2023; STJ, REsp n. 2.011.337/MG, Rel. Min. Laurita Vaz, Sexta Turma, julgado em 16/5/2023; STJ, AgRg no HC n. 851.919/SP, Rel. Min. Ribeiro Dantas, Quinta Turma, julgado em 23/10/2023; STJ, AgRg no HC n. 748.272/MS, Rel. Min. Antonio Saldanha Palheiro, Sexta Turma, julgado em 13/2/2023; STJ, AgRg no HC n. 792.645/SP, Rel. Min. Reynaldo Soares da Fonseca, Quinta Turma, julgado em 7/2/2023; STJ, AgRg no HC n. 957.330/SP, Rel. Min. Ribeiro Dantas, Quinta Turma, julgado em 9/4/2025; STJ, AgRg no HC n. 965.323/RS Rel. Min. Otávio de Almeida Toledo (Desembargador Convocado do TJSP), Sexta Turma, julgado em 11/6/2025; STJ, REsp n. 2.156.460/RS, Rel. Min. Daniela Teixeira, Quinta Turma, julgado em 17/12/2024; STJ, AgRg no HC n. 802.006/SP, Rel. Min. Messod Azulay Neto, Quinta Turma, julgado em 26/2/2024.
+(AgRg no HC n. 1.037.769/MG, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 12/11/2025, DJEN de 18/11/2025, grifei.)
+DIREITO PENAL E PROCESSUAL PENAL. EXECUÇÃO PENAL. RECURSO ESPECIAL. COMETIMENTO DE NOVO DELITO DURANTE O CUMPRIMENTO DE PENA. RECONHECIMENTO DE FALTA GRAVE. CONSECTÁRIOS LEGAIS. NECESSIDADE DE REGRESSÃO DE REGIME E APLICAÇÃO COMPLETA DAS SANÇÕES. PROVIMENTO DO RECURSO.
+I. CASO EM EXAME
+1. Recurso especial interposto pelo Ministério Público contra decisão que, embora tenha reconhecido a prática de falta grave por cometimento de novo delito durante o cumprimento de pena, deixou de aplicar a regressão de regime prisional, limitando-se à alteração da data-base e à perda parcial dos dias remidos. A parte recorrente sustenta a obrigatoriedade de aplicação de todos os consectários legais previstos para a falta grave, incluindo a regressão de regime.
+II. QUESTÃO EM DISCUSSÃO
+2. Há duas questões em discussão: (i) determinar se o reconhecimento de falta grave em execução penal pelo cometimento de novo delito exige necessariamente a aplicação dos consectários legais, inclusive a regressão de regime; e (ii) verificar se o princípio da proporcionalidade pode ser invocado para afastar a regressão de regime prisional em casos de falta grave.
+III. RAZÕES DE DECIDIR
+3. A jurisprudência consolidada do Superior Tribunal de Justiça (STJ) estabelece que o reconhecimento de falta grave, nos termos do art. 52 da Lei de Execução Penal (LEP), implica a aplicação obrigatória de seus consectários legais, incluindo a regressão de regime, a alteração da data-base e a perda dos dias remidos, não sendo possível afastar essas sanções com base no princípio da proporcionalidade.
+4. A prática de falta grave, consistente no cometimento de delito tipificado como crime doloso, não depende de condenação definitiva no juízo criminal, bastando a apuração em sede de execução penal com observância do devido processo legal, conforme decidido pelo Supremo Tribunal Federal (STF) no RE 776823, Tema 758 de Repercussão Geral.
+5. A posse de drogas para consumo próprio, embora não sujeita a pena privativa de liberdade, configura crime nos termos do art. 28 da Lei n.º 11.343/2006, e seu cometimento durante a execução da pena caracteriza falta grave, conforme entendimento do STJ, consolidado na Súmula 534, que determina a interrupção da contagem do prazo para progressão de regime.
+6. O STJ reitera que o Tribunal de origem não pode deixar de aplicar a regressão de regime, sob pena de desconsiderar o comando normativo da LEP e frustrar a função disciplinar e ressocializadora da execução penal. IV. RECURSO ESPECIAL PROVIDO PARA, RECONHECENDO A PRÁTICA DE FALTA GRAVE PELO APENADO, APLICAR-SE OS CONSECTÁRIOS LEGAIS.
+(REsp n. 2.156.460/RS, relatora Ministra Daniela Teixeira, Quinta Turma, julgado em 17/12/2024, DJEN de 23/12/2024, grifei.)
+Ademais, o acolhimento das alegações trazidas pela defesa, a fim de afastar o reconhecimento da infração ou desclassificá-la para leve ou média, demandaria o revolvimento de matéria fático-probatória, o que é incompatível com o rito do habeas corpus.
+Nesse sentido :
+DIREITO PROCESSUAL PENAL. HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. EXECUÇÃO PENAL. FALTA DISCIPLINAR DE NATUREZA GRAVE. DESOBEDIÊNCIA E DESRESPEITO A SERVIDOR PÚBLICO EM ESTABELECIMENTO PRISIONAL. NECESSIDADE DE REVOLVIMENTO FÁTICO-PROBATÓRIO. INVIABILIDADE NA VIA DO HABEAS CORPUS. HABEAS CORPUS NÃO CONHECIDO.
+I. CASO EM EXAME
+1. Habeas corpus impetrado como substitutivo de recurso próprio, no qual a defesa do paciente pleiteia a absolvição ou desclassificação de falta disciplinar de natureza grave, imputada ao reeducando em razão de ato de desobediência e desrespeito a servidor público no interior do estabelecimento prisional.
+II. QUESTÃO EM DISCUSSÃO
+2. A questão em discussão consiste em determinar se é possível afastar ou desclassificar a falta disciplinar de natureza grave atribuída ao paciente, considerando-se as limitações da via do habeas corpus, que impede a análise aprofundada de matéria fático-probatória.
+III. RAZÕES DE DECIDIR
+3. A jurisprudência do STJ e do STF é pacífica ao não admitir habeas corpus como substitutivo de recurso próprio ou revisão criminal, exceto em caso de flagrante ilegalidade que gere constrangimento ilegal.
+4. O Tribunal de origem reconheceu a prática de falta grave pelo paciente, com base em provas que indicaram desrespeito e desobediência a servidor público no ambiente prisional, fatos corroborados por depoimentos de agentes penitenciários e relatórios de procedimento administrativo disciplinar.
+5. A reavaliação da natureza da falta disciplinar, visando sua desclassificação ou absolvição, exigiria o reexame de provas e fatos, o que é inviável na via estreita do habeas corpus, conforme precedentes desta Corte.
+6. Não se identifica flagrante ilegalidade que justifique a concessão da ordem de ofício, uma vez que as instâncias ordinárias apresentaram fundamentação idônea para o reconhecimento da falta grave.
+IV. HABEAS CORPUS NÃO CONHECIDO.
+(HC n. 930.581/SP, relatora Ministra Daniela Teixeira, Quinta Turma, julgado em 10/12/2024, DJEN de 17/12/2024, grifei.)
+AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO PENAL. FALTA GRAVE. OITIVA JUDICIAL. DESNECESSIDADE. ASSEGURADO O CONTRADITÓRIO E AMPLA DEFESA NO PAD. REGRESSÃO DEFINITIVA. INOCORRÊNCIA. SANÇÃO COLETIVA. AFASTADA. ABSOLVIÇÃO. NECESSIDADE DE APROFUNDADO REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. INVIABILIDADE NA VIA CÉLERE DO HABEAS CORPUS. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. O artigo 118 da LEP exige a oitiva prévia do apenado apenas nos casos de regressão definitiva de regime prisional, o que não é a hipótese dos autos, porquanto não houve regressão do sentenciado a regime mais gravoso (AgRg no HC n. 743.180/SP, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 20/3/2023, DJe de 23/3/2023).
+2. O Superior Tribunal de Justiça consolidou entendimento no sentido de ser desnecessária a realização de audiência de justificação para averiguação de falta grave, se ocorrer a apuração de falta disciplinar e regular procedimento administrativo no qual foi assegurado o contraditório e ampla defesa, inclusive com a participação da Defesa técnica, bem como no caso de ausência de regressão de regime.
+3. Não há que se falar em sanção coletiva uma vez que foram ouvidos os presos envolvidos e os agentes penitenciários, sendo apurada a conduta de cada um. Ademais, entende o Superior Tribunal de Justiça, como no caso dos autos, que  N ão se configura sanção coletiva se o executado é descrito pelos agentes penitenciários presentes no momento do evento como um dos participantes da falta e tem sua conduta devidamente individualizada (STJ, Sexta Turma, rel. Min. Jesuíno Rissato, DJe de 30/11/2023).
+4. Quanto à alegação da insuficiência probatória acerca da prática da da falta grave, a jurisprudência do Superior Tribunal de Justiça firmou-se no sentido de que a desconstituição ou desclassificação de falta grave implica revolvimento fático-probatório, providência vedada em habeas corpus. Precedentes.
+5. Agravo regimental não provido.
+(AgRg no HC n. 908.631/SP, relator Ministro Otávio de Almeida Toledo - Desembargador convocado do TJSP -, Sexta Turma, julgado em 30/10/2024, DJe de 6/11/2024, grifei.)
+Ante o exposto, não conheço do habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
