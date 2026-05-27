@@ -1,0 +1,12 @@
+DECISÃO
+Por meio da Petição n. 00510648/2026, o requerente pleiteia o imediato cumprimento da decisão proferida nestes autos, a qual substituiu a prisão preventiva por medidas cautelares diversas.
+Sustenta, em síntese, que o paciente foi preso em flagrante pela suposta prática do delito previsto no art. 33 da Lei n. 11.343/2006, tendo a custódia sido convertida em prisão preventiva pelo Juízo das garantias. Relata que a defesa impetrou habeas corpus perante o Tribunal de Justiça, cuja ordem foi denegada, sobrevindo, contudo, decisão monocrática desta Corte que substituiu a segregação cautelar por medidas cautelares diversas, cujo cumprimento teve início em 19/5/2026, conforme documentação de fls. 105/107.
+Aduz que, após a ciência da decisão desta Corte, o Ministério Público ofereceu denúncia e requereu nova decretação da prisão preventiva, sob alegação de "fato novo" extraído dos aparelhos celulares apreendidos. Argumenta a defesa, entretanto, que tais elementos já integravam os autos do inquérito n. 5001125-59.2026.8.24.0519 desde 18/5/2026, em momento anterior à decisão que reconheceu a inadequação da prisão preventiva, razão pela qual não configurariam circunstância superveniente apta a justificar novo decreto cautelar.
+Assevera, ainda, que a denúncia foi oferecida em 19/5/2026 e a prisão preventiva novamente decretada em 20/5/2026, no evento 05 da Ação Penal n. 5000522-41.2026.8.24.0242, defendendo a prevalência da decisão proferida por esta Corte, diante da ausência de fato novo e da manutenção de fundamentos genéricos para a custódia cautelar.
+Requer, ao final, o recebimento do presente pedido de providências e o imediato cumprimento da decisão proferida nestes autos.
+Todavia, considerando a dinâmica processual delineada e a superveniência de nova decisão decretando a prisão preventiva no âmbito da ação penal em curso, inviável o acolhimento do pleito nesta via, porquanto a análise da alegada ausência de fato novo e da legalidade do novo decreto prisional demanda apreciação prévia pelas instâncias ordinárias, sob pena de indevida supressão de instância.
+Ante o exposto, indefiro o pedido.
+Publique-se.
+EMENTA
+DIREITO PENAL E PROCESSUAL PENAL. PEDIDO DE PROVIDÊNCIAS. TRÁFICO DE DROGAS. CUMPRIMENTO DE DECISÃO QUE SUBSTITUIU PRISÃO PREVENTIVA POR MEDIDAS CAUTELARES. SUPERVENIÊNCIA DE NOVO DECRETO DE PRISÃO PREVENTIVA NA AÇÃO PENAL. ALEGAÇÃO DE AUSÊNCIA DE FATO NOVO. NECESSIDADE DE ANÁLISE PELAS INSTÂNCIAS ORDINÁRIAS. SUPRESSÃO DE INSTÂNCIA. INVIABILIDADE DA VIA ELEITA.
+Pedido indeferido.
