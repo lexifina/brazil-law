@@ -1,0 +1,79 @@
+Poder Judiciário
+Justiça do Trabalho
+Tribunal Superior do Trabalho
+PROCESSO Nº TST-Ag-EDCiv-RRAg-1000854-02.2019.5.02.0431
+A C Ó R D Ã O
+2ª Turma
+GMDMA/MDP/
+AGRAVO EM EMBARGOS DE DECLARAÇÃO EM AGRAVO DE
+INSTRUMENTO EM RECURSO DE REVISTA DA RECLAMADA.
+INTERPOSIÇÃO DE AGRAVO INTERNO CONTRA DECISÃO DE
+ÓRGÃO COLEGIADO. INADMISSIBILIDADE (ART. 265 DO
+REGIMENTO INTERNO DO TST E ORIENTAÇÃO
+JURISPRUDENCIAL 412 DA SBDI-1 DO TST). Hipótese em que a
+parte se insurge por meio de agravo contra acórdão da Segunda
+Turma, mediante o qual foi negado provimento aos seus
+embargos de declaração. Recurso incabível, nos termos
+definidos pelo art. 265 do Regimento Interno desta Corte e pelo
+art. 1.021 do CPC/2015. Inaplicável o princípio da fungibilidade
+recursal a inviabilizar a admissão do agravo, tendo em vista o
+seu cabimento exclusivo em face de decisões monocráticas.
+Agravo não conhecido.
+Vistos, relatados e discutidos estes autos de Agravo em Embargos de Declaração
+Cível em Recurso de Revista com Agravo nº TST-Ag-EDCiv-RRAg - 1000854-02.2019.5.02.0431, em que é
+Agravante VIA S.A. e é Agravada VANESSA VASQUEZ DE VASCONCELOS.
+Trata-se de agravo interno da reclamada interposto contra acórdão desta Turma
+que negou provimento aos embargos de declaração interpostos contra acórdão proferido em agravo em
+agravo de instrumento.
+Inconformada, a agravante postula a reforma do acórdão proferido nos embargos
+de declaração.
+Não há contrarrazões.
+É o relatório.
+V O T O
+1 – CONHECIMENTO
+É inadequado o manejo de agravo interno contra decisão proferida por órgão
+colegiado. Esse recurso somente é cabível contra decisões monocráticas, nas circunstâncias definidas no
+art. 265 do Regimento Interno desta Corte (aprovado pela Resolução Administrativa 1.937 de
+20/11/2017):
+Do Agravo Interno
+Art. 265. Cabe agravo interno contra decisão dos Presidentes do Tribunal e das Turmas, do
+Vice-Presidente, do Corregedor-Geral da Justiça do Trabalho ou de relator, nos termos da legislação
+processual, no prazo de 8 (oito) dias úteis, pela parte que se considerar prejudicada.
+Parágrafo único. Ressalvam-se os casos em que haja recurso próprio ou decisão de caráter
+irrecorrível, nos termos do Regimento ou da lei. (Grifos nossos).
+Por sua vez, o art. 1.021 do novo Código de Processo Civil, aplicado
+subsidiariamente ao processo do trabalho, dispõe o seguinte:
+Art. 1.021. Contra decisão proferida pelo relator caberá agravo interno para o respectivo órgão
+colegiado, observadas, quanto ao processamento, as regras do regimento interno do tribunal. (Grifos
+nossos). Este documento pode ser acessado no endereço eletrônico http://www.tst.jus.br/validador sob código 10067581C54BA3C048.
+O presente apelo não se enquadra em nenhuma das hipóteses previstas nos
+mencionados dispositivos, pois foi oposto contra acórdão proferido por Turma deste Tribunal.
+Assim, por se tratar de impugnação de decisão colegiada, e não de decisão
+monocrática do Ministro Relator, conforme exigência dos dispositivos acima citados, o recurso revela-se
+manifestamente incabível, por ausência de previsão regimental e legal.
+Ressalte-se que, diante da inafastável impropriedade do recurso veiculado, o
+princípio da fungibilidade não pode ser aplicado ao caso concreto. A observância desse princípio
+restringe-se ao caso de dúvida plausível acerca do remédio processual adequado a ser utilizado, quando
+não existe medida judicial específica no ordenamento jurídico que possibilite à parte a manifestação de
+seu inconformismo, e desde que não haja erro insanável.
+A esse respeito, a propósito, firmou-se a jurisprudência desta Corte, nos termos
+da Orientação Jurisprudencial 412 da SBDI-1, a seguir transcrita:
+AGRAVO INTERNO OU AGRAVO REGIMENTAL. INTERPOSIÇÃO EM FACE DE DECISÃO
+COLEGIADA. NÃO CABIMENTO. ERRO GROSSEIRO. INAPLICABILIDADE DO PRINCÍPIO DA
+FUNGIBILIDADE RECURSAL (nova redação em decorrência do CPC de 2015) - Res. 209/2016, DEJT
+divulgado em 01, 02 e 03.06.2016
+É incabível agravo interno (art. 1.021 do CPC de 2015, art. 557, § 1º, do CPC de 1973) ou agravo
+regimental (art. 235 do RITST) contra decisão proferida por Órgão colegiado. Tais recursos destinam￾se, exclusivamente, a impugnar decisão monocrática nas hipóteses previstas. Inaplicável, no caso, o
+princípio da fungibilidade ante a configuração de erro grosseiro. (Grifos nossos).
+Inadmissível, pois, a interposição de agravo interno contra acórdão proferido por
+Turma desta Corte, não sendo aplicável o princípio da fungibilidade à hipótese dos autos.
+Diante do exposto, NÃO CONHEÇO do agravo.
+ISTO POSTO
+ACORDAM os Ministros da Segunda Turma do Tribunal Superior do Trabalho, por
+unanimidade, não conhecer do agravo.
+Brasília, 27 de maio de 2026.
+Firmado por assinatura digital (MP 2.200-2/2001)
+DELAÍDE MIRANDA ARANTES
+Ministra Relatora
+Firmado por assinatura digital em 28/05/2026 pelo sistema AssineJus da Justiça do Trabalho, conforme MP 2.200-2/2001, que instituiu a Infra-Estrutura
+de Chaves Públicas Brasileira. Este documento pode ser acessado no endereço eletrônico http://www.tst.jus.br/validador sob código 10067581C54BA3C048.
