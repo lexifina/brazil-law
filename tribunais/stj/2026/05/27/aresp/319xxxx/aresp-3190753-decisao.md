@@ -1,0 +1,14 @@
+DECISÃO
+Trata-se de agravo interposto por JOANICE ALVES DO NASCIMENTO DE OLIVEIRA contra decisão do TRIBUNAL DE JUSTIÇA DO ESTADO DA BAHIA, que não admitiu recurso especial fundado na alínea "a" do permissivo constitucional.
+A pretensão deduzida na origem consistia no recebimento de cota-parte equivalente a 60% (sessenta por cento) dos valores percebidos pelo Município de Rio Real a título de complementação do FUNDEF, oriundos do Precatório n. 0208458-44.2019.4.01.9198, com fundamento no art. 7º da Lei n. 9.424/1996, no art. 60 do ADCT e no entendimento firmado pelo Supremo Tribunal Federal no julgamento da ADPF 528.
+O Tribunal de Justiça da Bahia negou provimento à apelação, mantendo a sentença de improcedência. Inadmitido o recurso especial, sobreveio o agravo.
+Em 6 de março de 2026, a agravante peticionou nos autos noticiando fato superveniente relevante: a edição da Lei municipal n. 816/2025, publicada no Diário Oficial do município em 30/10/2025, que autorizou o reconhecimento administrativo do direito ora discutido, bem como a celebração de acordo na via administrativa com a nova gestão municipal e o início, em 03/11/2025, do pagamento integral e espontâneo aos profissionais da educação, incluída a parte agravante. Juntou, em apoio à narrativa, o exemplar do diário oficial municipal e a lista final de beneficiários do precatório.
+Regularmente intimado para se manifestar sobre o fato superveniente noticiado, o Município de Rio Real quedou-se inerte, deixando transcorrer in albis o prazo concedido (e-STJ fl. 277).
+É o relatório. Decido.
+A pretensão recursal restou esvaziada.
+Os documentos juntados pela agravante e a ausência de impugnação pelo agravado, devidamente intimado, evidenciam que o objeto da pretensão deduzida na origem  recebimento da cota-parte da complementação do FUNDEF, na proporção de 60%  foi voluntariamente satisfeito pelo Município de Rio Real na esfera administrativa, com amparo na Lei municipal n. 816/2025 e mediante pagamento iniciado em 03/11/2025.
+Tal circunstância acarreta a perda superveniente do interesse recursal, uma vez que a prestação jurisdicional postulada não tem mais utilidade prática para a agravante, que já recebeu, na via administrativa, exatamente aquilo que pleiteava.
+Esta Corte tem reiteradamente reconhecido a perda do objeto recursal nas hipóteses em que a pretensão é satisfeita por outra via no curso da tramitação do recurso, especialmente quando o ente público devedor adimple voluntariamente a obrigação. Nesses casos, impõe-se o juízo de prejudicialidade, nos termos do art. 932, III, do Código de Processo Civil.
+Ante o exposto, JULGO PREJUDICADO o presente agravo em recurso especial, nos termos do art. 932, III, do Código de Processo Civil, em razão da perda superveniente do interesse recursal.
+Publique-se. Intimem-se.
+ EMENTA
