@@ -1,0 +1,18 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por VILSON OLIVEIRA DANTAS contra a decisão do Tribunal de Justiça do Estado de Mato Grosso que inadmitiu recurso especial apresentado contra o acórdão exarado no julgamento do Recurso em Sentido Estrito n. 1000820-52.2024.8.11.0107.
+O Ministério Público Federal apresentou parecer opinando pelo desprovimento do recurso (fls. 1.124/1.129).
+É o relatório.
+O agravo é inadmissível.
+A decisão que inadmite o recurso especial na origem não é formada por capítulos autônomos, mas por um único dispositivo, razão pela qual deve ser impugnada na sua integralidade, ou seja, em todos os seus fundamentos, inclusive de forma específica, suficiente e pormenorizada, não sendo suficientes meras alegações genéricas ou relativas ao mérito da controvérsia, sob pena de incidência do óbice da Súmula 182/STJ (AgRg nos EDcl no AREsp n. 2.985.942/MA, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 16/9/2025, DJEN de 25/9/2025).
+Ao que se observa, o Tribunal de origem inadmitiu o apelo nobre pelos seguintes fundamentos: 1) inadequação do recurso especial para análise de violação de dispositivo constitucional; 2) deficiência na demonstração do dissídio jurisprudencial, por ausência de cotejo analítico, com incidência da Súmula 284/STF; 3) incidência da Súmula 7/STJ; e 4) consonância do acórdão recorrido com a orientação do Superior Tribunal de Justiça, com aplicação da Súmula 83/STJ.
+Todavia, a parte agravante, nas razões do agravo em recurso especial, não impugnou, de maneira específica, a íntegra da decisão de inadmissão.
+Não foi impugnado, de forma concreta e suficiente, o óbice de inadequação do recurso especial para análise de matéria constitucional, pois o agravo não enfrentou o ponto relativo à alegada violação do art. 5º, LVII, limitando-se a desenvolver teses sobre Súmula 7/STJ, dissídio e Súmula 83/STJ.
+Da mesma forma, não restou impugnado adequadamente o fundamento da incidência da Súmula 7/STJ, porque, embora sustente revaloração jurídica, o agravante não demonstra, com base nos fatos incontroversos do acórdão recorrido, a possibilidade de acolhimento da tese sem revolvimento probatório, notadamente diante dos laudos e apreensões, além dos depoimentos policiais colhidos sob contraditório.
+A par disso, também não se verifica a impugnação concreta e específica do óbice relativo à aplicação da Súmula 83/STJ, pois o agravante não evidencia a inaplicabilidade dos precedentes invocados na decisão de inadmissão, nem apresenta orientação contemporânea ou subsequente do Superior Tribunal de Justiça em sentido diverso da ali indicada.
+Por fim, não se vislumbra impugnação adequada ao vício de fundamentação relativo ao dissídio, já que o agravo afirma ter realizado cotejo analítico, mas não indica, de modo pormenorizado, a similitude fática essencial com referência às folhas do acórdão recorrido, atraindo a Súmula 284/STF.
+Por conseguinte, aplica-se, à hipótese dos autos, o art. 932, inciso III, do Código de Processo Civil, c/c o art. 3º do Código de Processo Penal, e a Súmula 182/STJ por analogia.
+Ante o exposto, não conheço do agravo em recurso especial.
+Publique-se.
+EMENTA
+DIREITO PROCESSUAL PENAL. AGRAVO EM RECURSO ESPECIAL. HOMICÍDIO QUALIFICADO. PRONÚNCIA. RECURSO EM SENTIDO ESTRITO. DECISÃO DE INADMISSIBILIDADE INCINDÍVEL. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA E INTEGRAL DOS FUNDAMENTOS. INADEQUAÇÃO DO RECURSO ESPECIAL PARA MATÉRIA CONSTITUCIONAL. DEFICIÊNCIA NA DEMONSTRAÇÃO DO DISSÍDIO. SÚMULA 284/STF. IMPEDIMENTO AO REEXAME DE PROVAS. SÚMULA 7/STJ. CONSONÂNCIA COM JURISPRUDÊNCIA DO STJ. SÚMULA 83/STJ. APLICAÇÃO DA SÚMULA 182/STJ POR ANALOGIA.
+Agravo em recurso especial não conhecido.
