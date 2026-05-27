@@ -1,0 +1,24 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em favor de ALAOR DE SOUZA TAVARES, contra decisão proferida por Desembargador do Tribunal de Justiça do Estado de São Paulo, que deferiu o pedido de medida liminar para conferir efeito ativo/suspensivo ao recurso em sentido estrito do Ministério Público e, como consequência, decretou a prisão preventiva do ora paciente.
+Neste writ, o impetrante sustenta que: a) "embora grave o delito imputado ao paciente, quando os fatos, salta aos olhos a desnecessidade da prisão cautelar, pois que, como se vê, do que depreende- se dos autos até o presente momento não restou comprovada a necessidade de fixação e/ou manutenção de prisão cautelar" (e-STJ, fl. 6); b) "os elementos documentais constantes do inquérito mostram-se incompatíveis com o quadro de extrema gravidade utilizado para justificar a custódia cautelar" (e-STJ, fl. 21); c) não estão presentes os requisitos legais autorizadores da prisão preventiva, previstos no art. 312 do CPP; d) "os elementos constantes dos autos demonstram, no mínimo, a absoluta viabilidade de substituição da custódia cautelar por medidas cautelares diversas da prisão" (e-STJ, fl. 24); e) "meras considerações sobre a gravidade do delito, bem como sobre a prova da existência de crime e indícios suficientes da autoria não justificam a custódia preventiva" (e-STJ, fl. 28).
+Requer a concessão da liminar para suspender a decisão proferida na medida cautelar inominada em trâmite perante o Tribunal de origem e, ao final, a concessão definitiva da ordem.
+É o relatório.
+Esta Corte possui entendimento pacificado no sentido de que não cabe habeas corpus contra decisão que indefere pedido liminar, salvo em casos de flagrante ilegalidade ou teratologia da decisão impugnada (Súmula 691/STF).
+Idêntica compreensão aplica-se aos casos em que o habeas corpus é impetrado contra decisão que concede a medida liminar na origem (AgRg no HC n. 1.063.392/PR, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 14/4/2026, DJEN de 23/4/2026 ).
+Sobre o tema, confiram-se, ainda, os seguintes julgados:
+"DIREITO PROCESSUAL PENAL. AGRAVO REGIMENTAL. HABEAS CORPUS CONTRA DECISÃO QUE DEFERE LIMINAR. SÚMULA 691 DO STF. AUSÊNCIA DE FLAGRANTE ILEGALIDADE. AGRAVO REGIMENTAL DESPROVIDO.
+ ..
+5. O Superior Tribunal de Justiça possui jurisprudência consolidada no sentido de que não cabe habeas corpus contra decisão que indefere liminar, conforme a Súmula n. 691 do STF, salvo em hipóteses excepcionalíssimas de ilegalidade patente, abuso de poder ou teratologia. Similar compreensão alcança os casos em que o habeas corpus tenha sido impetrado contra decisão que deferiu pedido liminar na origem, como na espécie.
+ ..
+9. Resultado do Julgamento: Agravo regimental desprovido."
+(AgRg no HC n. 1.049.105/ES, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 4/3/2026, DJEN de 9/3/2026.)
+"HABEAS CORPUS. TRÁFICO DE ENTORPECENTES. LIBERDADE PROVISÓRIA CONCEDIDA EM PRIMEIRO GRAU. MEDIDA CAUTELAR INOMINADA MANEJADA PELO MINISTÉRIO PÚBLICO ESTADUAL. LIMINAR DEFERIDA PARA ATRIBUIR EFEITO SUSPENSIVO ATIVO AO RESE. INSURGÊNCIA CONTRA A DECISÃO MONOCRÁTICA QUE DEFERE O PLEITO LIMINAR. ÓBICE DA SÚMULA 691/STF, MUTATIS MUTANDIS. PRECEDENTES. ILEGALIDADE FLAGRANTE NÃO CONSTATADA. GRAVIDADE CONCRETA DA CONDUTA. ORDEM NÃO CONHECIDA, CASSADA A LIMINAR ANTERIORMENTE DEFERIDA.
+1. O Superior Tribunal de Justiça tem jurisprudência firmada de que não cabe habeas corpus contra decisum que indefere liminar no writ precedente (enunciado n. 691 da Súmula do Supremo Tribunal Federal), a não ser que fique demonstrada flagrante ilegalidade. Idêntica compreensão se aplica, segundo os precedentes desta Corte, aos casos em que o habeas corpus é impetrado contra decisão que concedeu a medida liminar na origem. Na espécie, está-se diante de decisão unipessoal proferida nos autos de cautelar inominada manejada com o objetivo de dar efeito suspensivo ao recurso em sentido estrito interposto, a qual deferiu o pedido emergencial e decretou a prisão preventiva do paciente. Impossibilidade de conhecimento do writ.
+2. Ademais, ausente constrangimento ilegal evidente, a ser coibido mediante a concessão de habeas corpus de ofício.
+ ..
+3. Habeas Corpus não conhecido, cassada a liminar anteriormente deferida."
+(HC n. 957.157/SP, relator Ministro Sebastião Reis Júnior, relator para acórdão Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 20/5/2025, DJEN de 28/5/2025.)
+No caso dos autos, não se verifica a ocorrência de flagrante ilegalidade na decisão impugnada, de modo a justificar o processamento da presente ordem e o pronunciamento antecipado desta Corte, sobretudo porque o impetrante sequer junta aos autos cópia das decisões de primeira instância, documentos indispensáveis para análise das alegações em favor do paciente.
+Ante o exposto, indefiro liminarmente o habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
