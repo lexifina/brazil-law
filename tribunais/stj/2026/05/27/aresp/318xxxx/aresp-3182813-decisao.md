@@ -1,0 +1,28 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por DAVID WILIAM CHAVES PLATIZ contra decisão do TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO GRANDE DO SUL que inadmitiu recurso especial manejado com fundamento no art. 105, III, "a" e "c", da Constituição Federal.
+Consta dos autos que o agravante foi condenado pela prática do delito previsto no art. 158, § 1º, do Código Penal, por duas vezes, na forma do art. 71 do mesmo diploma legal, à pena de 8 anos, 10 meses e 20 dias de reclusão, em regime inicial fechado, além do pagamento de 160 dias-multa.
+O Tribunal de origem negou provimento ao recurso defensivo, mantendo integralmente a condenação e o apenamento (fls. 929-941).
+No recurso especial, a defesa sustentou, em síntese: a) nulidade das provas extraídas de conversas de WhatsApp e comprovantes bancários, por suposta quebra da cadeia de custódia; b) nulidade dos reconhecimentos fotográficos e pessoais, por inobservância do art. 226 do CPP; c) insuficiência probatória; d) ilegalidade da incidência da majorante referente ao emprego de arma de fogo; e) necessidade de redimensionamento da pena-base (fls. 946-962).
+O recurso especial foi inadmitido na origem, ao fundamento de incidência das Súmulas 7 e 83/STJ, ausência de prequestionamento e deficiência na demonstração do dissídio jurisprudencial, tendo sido também negado seguimento quanto à controvérsia relativa ao Tema repetitivo 1.258/STJ (fls. 1045-1054).
+No agravo, a defesa sustenta, em síntese, que não pretende revolvimento fático-probatório, mas mera revaloração jurídica das provas, reiterando as alegações anteriormente deduzidas (fls. 1066-1082).
+O Ministério Público Federal manifestou-se pelo não conhecimento do agravo. Subsidiariamente, pelo não conhecimento do recurso especial (fls. 1122-1131).
+É o relatório. DECIDO.
+O agravo não merece conhecimento.
+Inicialmente, verifica-se que a decisão agravada possui natureza híbrida, uma vez que, em parte, inadmitiu o recurso especial e, em parte, negou-lhe seguimento com fundamento em entendimento firmado sob a sistemática dos recursos repetitivos, especificamente o Tema 1.258/STJ.
+Nessa hipótese, a jurisprudência desta Corte consolidou-se no sentido de que incumbia à parte recorrente a interposição simultânea de agravo interno, perante o Tribunal de origem, e agravo em recurso especial, nesta Corte Superior.
+Nesse sentido:
+"A decisão híbrida, que em parte nega seguimento e inadmite recurso especial é exceção ao princípio da unirrecorribilidade e desafia a interposição simultânea de agravo interno perante a Corte de origem e agravo em recurso especial. Não tendo o agravante se desincumbido de interpor o cabível agravo interno, estão preclusos os temas relativos à parte em que negado seguimento ao recurso especial." (AgRg no AREsp 2893336/SC, Rel. Ministro OTÁVIO DE ALMEIDA TOLEDO (Desembargador Convocado do TJSP), Sexta Turma, DJe 16/6/2025).
+No caso, não houve interposição de agravo interno quanto ao capítulo da decisão que negou seguimento ao recurso especial em razão do Tema repetitivo 1.258/STJ, circunstância que impede o conhecimento da insurgência nesse particular.
+Além disso, o agravante deixou de impugnar especificamente todos os fundamentos utilizados na decisão de inadmissão, atraindo a incidência da Súmula 182/STJ.
+Com efeito, quanto ao óbice da Súmula 7/STJ, a defesa limitou-se a afirmar genericamente que a pretensão recursal envolveria mera revaloração jurídica da prova, sem demonstrar concretamente por que o acolhimento das teses defensivas dispensaria o revolvimento do conjunto fático-probatório delineado pelas instâncias ordinárias.
+Todavia, o acórdão recorrido consignou expressamente a existência de robusto conjunto probatório, formado pelos depoimentos das vítimas, reconhecimentos realizados na fase inquisitorial e confirmados em juízo, comprovantes de transferências bancárias, registros de mensagens e demais elementos documentais coligidos aos autos, concluindo pela participação do agravante nas cobranças e ameaças dirigidas às vítimas.
+Desse modo, a desconstituição das conclusões alcançadas pela Corte de origem demandaria, inevitavelmente, o reexame do acervo fático-probatório dos autos, providência vedada em recurso especial, nos termos da Súmula 7/STJ.
+No tocante à alegada quebra da cadeia de custódia, o Tribunal de origem registrou que a defesa não apontou concretamente qualquer adulteração, manipulação ou irregularidade específica nas provas digitais juntadas aos autos, limitando-se a alegações genéricas acerca da suposta imprestabilidade dos registros extraídos do aplicativo WhatsApp.
+Ademais, consignou-se que a condenação não se fundou exclusivamente nos referidos elementos, mas em conjunto probatório harmônico e convergente.
+A revisão dessas premissas igualmente demandaria incursão no contexto probatório da causa, o que inviabiliza o conhecimento da insurgência.
+Também não merece prosperar a alegação de dissídio jurisprudencial.
+Isso porque a parte recorrente não realizou o indispensável cotejo analítico entre os acórdãos confrontados, limitando-se, em grande medida, à mera transcrição de ementas e à invocação de julgados proferidos em habeas corpus, os quais, segundo entendimento pacífico desta Corte, não se prestam à demonstração de dissídio jurisprudencial para fins do art. 105, III, "c", da Constituição Federal.
+Por fim, quanto à tese referente à ausência de adesão subjetiva ao emprego de arma de fogo, verifica-se que o tema não foi efetivamente debatido pelo Tribunal de origem, circunstância que evidencia ausência de prequestionamento, incidindo, por analogia, os óbices das Súmulas 282 e 356/STF.
+Ante o exposto, não conheço do agravo em recurso especial.
+Intime-se. Publique-se.
+EMENTA
