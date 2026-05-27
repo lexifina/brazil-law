@@ -1,0 +1,45 @@
+DECISÃO
+Em análise, agravo interno interposto pelo MUNICÍPIO DE GOIÂNIA , contra decisão da Presidência desta Corte, que não conheceu do agravo em recurso especial pela incidência da Súmula 182/STJ.
+Em suas razões recursais, a parte agravante sustenta realizou adequadamente o cotejo analítico e que:
+ ..  a demonstração de que a tese do TJGO destoa frontalmente da jurisprudência consolidada do STJ, por si só, já evidencia o dissídio e supre qualquer suposta deficiência formal na sua demonstração. Isto é claro e evidente, ao demonstrar que o acordão do TJGO destoa do entendimento do STJ quanto a caracterização de excesso de execução, inserindo-se naquele períodos posteriores ao que consta do título executivo judicial, viola a coisa julgada material, caracteriza matéria de ordem pública e leva ao enriquecimento ilícito do particular - em prejuízo ao erário público, o que não está submetido a preclusão (a contrário do que consta do acordão do TJGO) (fl. 155).
+Pugna pela reconsideração da decisão agravada ou pelo provimento do agravo interno pelo Colegiado
+Ante o juízo de retratação facultado pelos arts. 1.021, § 2º, do CPC e 259 do RISTJ, reconsidero a decisão agravada e passo a novo exame do agravo em recurso especial.
+Em análise, agravo em recurso especial contra decisão que inadmitiu o recurso especial interposto pelo MUNICÍPIO DE GOIÂNIA, em desfavor de acórdão do Tribunal de Justiça do Estado de Goiás, assim ementado:
+ AGRAVO DE INSTRUMENTO. CUMPRIMENTO DE SENTENÇA. CÁLCULOS CONTADORIA JUDICIAL. INÉRCIA DO EXECUTADO. HOMOLOGAÇÃO DEVIDA. IMPOSSIBILIDADE DE REDISCUSSÃO DA MATÉRIA. PRECLUSÃO. DECISÃO MANTIDA. Embora devidamente intimada para se manifestar sobre os cálculos da Contadoria Judicial, a parte agravante permaneceu inerte. Diante da ausência de impugnação no momento e pelas vias próprias, nos termos do artigo 507 do CPC, precluiu o direito de discutir a matéria, tornando inviável qualquer questionamento sobre a homologação pela juíza de primeira instância. Agravo de instrumento conhecido e desprovido (fl. 45).
+Os embargos de declaração opostos foram rejeitados.
+Em suas razões recursais, a parte recorrente aponta violação aos arts. 141, 492, 507, do CPC e 884, do Código Civil, além de divergência jurisprudencial, fundamentando que o recorrido (exequente) "demandou o pagamento de valores até julho de 2017, mas a decisão homologatória, mantida pelo acórdão recorrido, concedeu-lhe valores até 2023" (fl. 95). Assim, aponta que trata-se de uma clássica decisão ultra petita, nula de pleno direito, e que gera o enriquecimento sem causa.
+Assevera, ainda, que o mencionado erro nos cálculos não está amparado pela preclusão, pois seria matéria de ordem pública, passível de correção a qualquer tempo.
+Contrarrazões apresentadas (fls. 104-114).
+O recurso especial foi inadmitido na origem, daí a interposição do presente agravo em recurso especial (fls. 123-134).
+Contraminuta apresentada ( fls. 139-142).
+É o relatório.
+Passo a decidir.
+Atendidos os pressupostos de conhecimento do agravo em recurso especial, passo à análise do recurso especial.
+De início, quanto à análise dos arts. 141 e 492 do CPC e 884, do Código Civil, a matéria não foi objeto de exame pelas instâncias ordinárias, mesmo após o julgamento dos embargos de declaração.
+Assim, em razão da falta do indispensável prequestionamento, não pode ser conhecido o Recurso Especial, incidindo o teor da Súmula 211 deste STJ: "inadmissível recurso especial quanto à questão que, a despeito da oposição dos embargos declaratórios, não foi apreciada pelo Tribunal a quo".
+Nesse sentido:
+PROCESSUAL CIVIL E TRIBUTÁRIO. EXECUÇÃO FISCAL. EXCEÇÃO DE PRÉ-EXECUTIVIDADE. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA. ART. 927, III, DO CPC. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 211/STJ. DISSÍDIO JURISPRUDENCIAL NÃO REALIZADO. AGRAVO INTERNO A QUE SE NEGA PROVIMENTO.
+1. A jurisprudência desta Corte já se firmou no sentido de que "não há incompatibilidade entre a inexistência de ofensa ao art. 1.022 do CPC/2015 e a ausência de prequestionamento, com a incidência do enunciado n. 211 da Súmula do STJ, quanto às teses invocadas pela parte recorrente, que, entretanto, não são debatidas pelo Tribunal local, por entender suficientes para a solução da controvérsia outros argumentos utilizados pelo colegiado" (AgInt no AREsp n. 2.536.934/BA, relator Ministro Francisco Falcão, Segunda Turma, julgado em 19/8/2024, DJe de 21/8/2024).
+2. A despeito da oposição de embargos de declaração, não foi configurado o prequestionamento exigido para o recurso especial, nos termos do enunciado n. 211 da Súmula do STJ.
+ ..
+4. Agravo interno não provido (AgInt no AREsp n. 2.578.117/RN, Relatora Ministra Maria Thereza de Assis Moura, Segunda Turma, julgado em 7/10/2024, DJe de 14/10/2024).
+Quanto ao prequestionamento ficto, a jurisprudência desta Corte firmou-se no sentido de que "o  art. 1025 do CPC/2015 condiciona o prequestionamento ficto ao reconhecimento por esta Corte de omissão, erro, omissão, contradição ou obscuridade, ou seja, pressupõe o provimento do recurso especial por ofensa ao art. 1022 do CPC/2015, com o reconhecimento da negativa de prestação jurisdicional sobre a matéria (AgInt no AREsp n. 2.528.396/RS, Relator Ministro Mauro Campbell Marques, Segunda Turma, julgado em 2/9/2024, DJe de 4/9/2024).
+No mais, quanto à análise da controvérsia, a Corte local assim se manifestou:
+Isso porque, no evento de nº 167 dos autos originários, a Contadoria Judicial procedeu a atualização do débito, apresentando a planilha do valor do cumprimento de sentença.
+Por derradeiro, sobreveio intimação de ambas as partes para se pronunciar sobre os cálculos, tendo tão somente a parte exequente/agravada se dignado a se pronunciar, manifestando-se pela concordância dos cálculos (evento nº 172 dos autos originários).
+Na sequência, a magistrada singular homologou os cálculos apresentados pela Contadoria Judicial (evento nº 174 - autos originários).
+Dessa forma, infere-se que discussão acerca dos cálculos homologados pelo juízo singular em sede de cumprimento de sentença, encontra-se fadada à preclusão consumativa, eis que embora devidamente intimado para se pronunciar sobre os cálculos, o agravante deixou transcorrer in albis o prazo concedido.
+Sendo assim, não se pode olvidar que, na hipótese, operou-se a preclusão sobre a discussão acerca da matéria, nos termos do artigo 507 do Código de Processo Civil e consoante entendimento jurisprudencial desta Corte de Justiça.
+Nesse oportuno, esclareço que o instituto da preclusão foi inserido na legislação processual pátria em homenagem ao princípio da segurança jurídica, na medida em que impede a eterna revisão de atos judiciais já proferidos sem, no entanto, violar o exercício dos direitos constitucionais da ampla defesa e do contraditório.
+Portanto, à vista da inércia do recorrente em alegar os supostos erros nos cálculos da Contadoria Judicial no momento processual adequado, descabe a discussão da matéria nesta fase (fl. 44).
+Assim, a alteração da conclusão do Tribunal local, acerca da preclusão para se pronunciar acerca dos cálculos homologados ensejaria o necessário reexame da matéria fático-probatória dos autos, atraindo, por conseguinte, a incidência da Súmula 7/STJ.
+Nesse sentido:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CUMPRIMENTO DE SENTENÇA. HOMOLOGAÇÃO DE CÁLCULOS. EMPRÉSTIMO COMPULSÓRIO. ENERGIA ELÉTRICA. DECURSO DO PRAZO DE IMPUGNAÇÃO. QUESTIONAMENTO DOS CRITÉRIOS DE CÁLCULO JÁ HOMOLOGADOS VIA AGRAVO DE INSTRUMENTO. PRECLUSÃO CONSUMATIVA. AGRAVO INTERNO DA FAZENDA NACIONAL DESPROVIDO.
+1. Nos termos do art. 507 do Código Fux, é vedado à parte discutir no curso do processo as questões já decididas a cujo respeito se operou a preclusão.
+2. A oportunidade adequada para refutar os cálculos apresentados pela perícia técnica é conferida no prazo para a impugnação, o qual, uma vez ultrapassado, não pode ser reaberto em razão da preclusão consumativa.
+3. Agravo Interno da FAZENDA NACIONAL desprovido (AgInt no AREsp n. 1.359.232/RJ, relator Ministro Napoleão Nunes Maia Filho, Primeira Turma, julgado em 6/4/2020, DJe de 14/4/2020).
+Por fim, "assinale-se, também, o não cabimento do Recurso Especial com base no dissídio jurisprudencial, pois as mesmas razões que inviabilizaram o conhecimento do apelo, pela alínea a , servem de justificativa quanto à alínea c do permissivo constitucional" (AgInt no AREsp 2.320.819/RJ, relatora Ministra Assusete Magalhães, Segunda Turma, julgado em 2/10/2023, DJe de 5/10/2023).
+Isso posto, reconsidero a decisão agravada e, com fundamento no art. 253, parágrafo único, II, a, do RISTJ, conheço do agravo, para não conhecer do recurso especial.
+Sem condenação em honorários advocatícios recursais, tendo em vista que o agravo em recurso especial origina-se de acórdão proferido em julgamento de agravo de instrumento, no qual não houve a fixação de honorários advocatícios sucumbenciais.
+Intimem-se.
+EMENTA
