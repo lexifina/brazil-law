@@ -1,0 +1,17 @@
+DECISÃO
+Cuida-se de embargos de declaração opostos por CLEYTON WILLIAMS SILVA DE SOUZA e OUTRAS nos quais a parte alega, em resumo, que a decisão de e-STJ fls. 398/406 padece de contradição e omissão, porquanto, "ao negar provimento ao agravo em recurso especial interposto pelo Estado do Pará, determinou a majoração dos honorários de sucumbência em 10% (dez por cento), fundamentando-se no trabalho adicional em sede recursal", todavia "o percentual de 10% (dez por cento) já havia sido fixado pela sentença de primeiro grau e integralmente mantido pelo v. acórdão do Tribunal de Justiça do Estado do Pará", de modo que, "ao invés de majorar a verba honorária, acabou apenas por repetir o percentual já existente, o que esvazia a finalidade e a aplicabilidade do artigo 85, §11, do CPC".
+Impugnação ao recurso às e-STJ fls. 435/438.
+Passo a decidir.
+No caso dos autos, não indica a parte embargante, concretamente, nenhum dos vícios previstos no art. 1.022 do CPC. Limita-se, na realidade, a manifestar inconformismo com o decisum embargado, o que não se admite nos estreitos limites dos embargos de declaração.
+De todo modo, registre-se que a decisão embargada, de fato, majorou os honorários sucumbenciais em 10% (dez por cento) sobre o valor já arbitrado na origem - e não simplesmente repetiu o percentual já existente, como quer fazer crer a parte embargante -, não se cogitando em omissão ou contradição.
+A propósito:
+PROCESSUAL CIVIL. EMBARGOS DECLARATÓRIOS NO AGRAVO REGIMENTAL NO RECURSO ESPECIAL. EXECUÇÃO FISCAL. EXCEÇÃO DE PRÉ-EXECUTIVIDADE ACOLHIDA. HONORÁRIOS ADVOCATÍCIOS. PEDIDO DE MAJORAÇÃO. REEXAME DE PROVAS. SÚMULA 7/STJ. AGRAVO REGIMENTAL IMPROVIDO. ALEGADA VIOLAÇÃO AO ART. 1.022 DO CPC/2015. VÍCIOS INEXISTENTES. INCONFORMISMO. REJEIÇÃO DOS EMBARGOS DE DECLARAÇÃO.
+I. Embargos de Declaração opostos em 20/04/2016, a acórdão prolatado pela Segunda Turma do Superior Tribunal de Justiça, publicado em 13/04/2016.
+II. O voto condutor do acórdão embargado apreciou fundamentadamente, de modo coerente e completo, todas as questões necessárias à solução da controvérsia, negando provimento ao Agravo R egimental, para manter a decisão que negara seguimento ao Recurso Especial, com fundamento na Súmula 7 do STJ.
+III. A parte ora embargante, ao argumento de ocorrência de omissão, pretende que seja aplicada a regra inserta no art. 85 do CPC/2015 - dispositivo esse que não se encontrava vigente, à época da publicação da decisão impugnada no Agravo Regimental (30/09/2015) e da interposição do Agravo Regimental (05/10/2015) - e que sequer foi suscitado, nas razões do Agravo Regimental. Por força do princípio tempus regit actum, devem ser observadas as regras processuais vigentes à data da publicação da decisão recorrida, conforme entendimento firmado pelo Pleno do STJ, em face da vigência do novo CPC (Enunciados Administrativos n. 2 e 7 do STJ aprovados na sessão do Pleno do STJ de 09/03/2016).
+IV. Inexistindo, no acórdão embargado, omissão, contradição, obscuridade ou erro material - seja à luz do art. 535 do CPC/73 ou do art. 1.022 do CPC vigente -, não merecem ser acolhidos os Embargos de Declaração, que, em verdade, revelam o inconformismo da parte embargante com as conclusões do decisum.
+V. Embargos de Declaração rejeitados.
+(EDcl no AgRg no REsp n. 1.509.673/SP, relatora Ministra Assusete Magalhães, Segunda Turma, julgado em 14/6/2016, DJe de 24/6/2016.)
+Ante o exposto, REJEITO os embargos de declaração.
+Publique-se. Intimem-se.
+EMENTA
