@@ -1,0 +1,36 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de MARCELO VIEIRA TOIA, apontando como autoridade coatora o Tribunal de Justiça do Estado de Minas Gerais, que julgou a Apelação n. 1.0000.25.079668-7/001 e os Embargos de Declaração n. 1.0000.25.079668-7/002.
+Extrai-se dos autos que o paciente foi preso em flagrante em 21/11/2024, pela suposta prática do delito previsto no art. 33, caput, da Lei n. 11.343/2006 (tráfico de drogas), em razão da apreensão de uma barra de maconha, com peso aproximado de 500g. Finda a instrução criminal, o réu foi condenado à pena de 7 (sete) anos, 2 (dois) meses e 20 (vinte) dias de reclusão, em regime inicial fechado; na mesma sentença, indeferiu-se o direito de recorrer em liberdade.
+Em apelação, o Tribunal a quo deu parcial provimento ao recurso, fixando a pena em 5 (cinco) anos e 10 (dez) meses de reclusão, em regime inicial semiaberto, afastando a causa de diminuição do § 4º do art. 33 da Lei n. 11.343/2006 por maus antecedentes, com posterior acolhimento parcial de embargos de declaração para apenas compatibilizar a execução provisória ao regime imposto (fls. 8-31 e 32-38).
+Irresignada, no presente writ, a Defesa sustenta constrangimento ilegal consistente na incompatibilidade entre a manutenção da prisão preventiva e a fixação do regime inicial semiaberto, sem fundamentação concreta e contemporânea após o acórdão condenatório recorrível, o que implicaria cumprimento antecipado de pena em regime mais gravoso.
+Requer, em liminar, a revogação da prisão preventiva, para que o paciente aguarde em liberdade o trânsito em julgado, ou, subsidiariamente, a concessão de prisão domiciliar com monitoração eletrônica, nos termos da Súmula Vinculante n. 56 do STF, até viabilização de estabelecimento compatível com o semiaberto (fls. 5-6).
+No mérito, pede a concessão definitiva da ordem para reconhecer a ilegalidade da manutenção da custódia cautelar e assegurar ao paciente o direito de recorrer em liberdade, com expedição do alvará.
+É o relatório.
+Decido.
+É consolidada a jurisprudência deste Superior Tribunal de Justiça no sentido de que a prerrogativa do relator para julgar monocraticamente o habeas corpus e o respectivo recurso não é afastada pelas normas regimentais que preveem a oitiva prévia do Ministério Público Federal (arts. 64, III, e 202, do RISTJ), notadamente quando a matéria se conforma com o entendimento dominante desta Corte (AgRg no HC n. 856.046/SP, de relatoria do Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 24/10/2023, DJe de 30/10/2023).
+Assim, passo a analisar diretamente o pedido formulado no writ.
+Quanto à alegação de insuficiência de fundamentação atual da prisão preventiva, impõe-se observar o âmbito de cognição próprio do habeas corpus nesta instância. O Tribunal de origem, ao julgar os embargos de declaração, não apreciou os requisitos específicos e contemporâneos da medida cautelar, limitando-se a registrar a necessidade de ajuste executivo ao regime semiaberto. Nessa moldura, o exame direto, por esta Corte, da idoneidade, contemporaneidade e individualização dos riscos, sem prévio enfrentamento colegiado na origem, configuraria indevida supressão de instância, o que impede o conhecimento da matéria nesta sede. A preservação da competência e do duplo grau no ponto recomenda, ainda, que eventuais razões supervenientes acerca da custódia sejam primeiramente submetidas ao órgão julgador estadual.
+A propósito:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. CRIME DE RESPONSABILIDADE DE PREFEITO. FALSIDADE IDEOLÓGICA, POR 13 VEZES. NULIDADE. QUEBRA DE SIGILO TELEFÔNICO E TELEMÁTICO. INEXISTÊNCIA DE DILIGÊNCIA PRÉVIA. SUPRESSÃO DE INSTÂNCIA. AUSÊNCIA DE FLAGRANTE ILEGALIDADE. DIVERSAS DILIGÊNCIAS PREPARATÓRIAS. AGRAVO REGIMENTAL DESPROVIDO.
+(..)
+2. O Tribunal de origem não analisou o tema no viés ora delineado pela defesa, ficando esta Corte impedida de apreciar a matéria, sob pena de indevida supressão de instância.
+(..)
+5. Agravo regimental desprovido.
+(AgRg no HC n. 864.854/SP, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 2/9/2025, DJEN de 9/9/2025.)
+Confiram-se, por oportuno, os seguintes trechos do acórdão proferido no julgamento dos embargos de declaração (fls. 33-36; grifamos):
+(..)
+Noutro giro, verifica-se, de fato, omissão no aresto a respeito da prisão preventiva do apelante, bem como o direito de recorrer em liberdade, razão pela qual passo a sanar o vício apontado.
+Decerto, por ocasião da fixação da reprimenda, restou o apelante condenado à pena de 05 (cinco) anos e 10 (dez) meses de reclusão e pagamento de 583 (quinhentos e oitenta e três) dias-multa, em regime inicial semiaberto.
+Fixado o regime semiaberto, faz-se necessária a compatibilização do cumprimento provisório de pena sob pena de submeter o paciente indevidamente a regime mais gravoso.
+Nesse sentido, o entendimento do Superior Tribunal de Justiça:
+Verificado que ao paciente foi imposto o regime inicial semiaberto de cumprimento da pena, faz-se necessário compatibilizar a custódia cautelar com o modo de execução determinado na sentença condenatória, sob pena de estar-se impondo ao apenado regime mais gravoso de segregação tão somente pelo fato de ter optado pela interposição de recurso. (HC n. 271.685/SP, relator Ministro Jorge Mussi, Quinta Turma, julgado em 5/6/2014, D Je de 12/6/2014.)
+Em aquiescência, o entendimento deste Sodalício:
+Impõe-se a necessidade de compatibilização, para que o paciente inicie o cumprimento da condenação imposta em estabelecimento adequado ao regime semiaberto, fixado na sentença, salvo se estiver preso por outro motivo. (TJMG - Habeas Corpus Criminal 1.0000.24.520236-1/000, Relator(a): Des.(a) Marco Antônio de Melo , 6ª CÂMARA CRIMINAL, julgamento em 11/02/2025, publicação da súmula em 12/02/2025).
+Trata-se, pois, da compatibilização necessária para o embargante iniciar incontinenti o cumprimento de pena no regime imposto por ocasião do julgamento.
+Isto posto, acolho parcialmente os embargos de declaração, com efeitos infringentes, tão somente para determinar o ofício ao juízo de origem para tomar as providências cabíveis à compatibilização.
+(..)
+No tocante à compatibilização da custódia com o regime semiaberto, verifica-se que a Corte estadual já determinou, no julgamento dos embargos de declaração, a adoção das providências de ajuste pelo Juízo de origem, de modo a evitar execução provisória em regime mais gravoso que o fixado. A providência jurisdicional específica foi, portanto, expressamente definida, o que afasta a utilidade da ordem nesta parte, por ausência de interesse processual superveniente no objeto do writ. A atuação executiva passa a se concentrar no juízo responsável pela implementação do regime, inclusive para a escolha das medidas cabíveis à realidade local, não cabendo a esta Corte reabrir discussão já resolvida no acórdão recorrido.
+Em síntese, a impetração não comporta conhecimento: no ponto relativo à necessidade de fundamentação contemporânea da prisão preventiva, por supressão de instância; e, no tocante à compatibilização executiva ao regime semiaberto, porque a providência foi deferida pela própria Corte de origem, ausente interesse remanescente na tutela postulada.
+Ante o exposto, não conheço do pedido de habeas corpus.
+Publique-se. Intimem-se.
+ EMENTA
