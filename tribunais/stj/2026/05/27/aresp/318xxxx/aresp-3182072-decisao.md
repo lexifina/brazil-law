@@ -1,0 +1,27 @@
+DECISÃO
+Trata-se de agravo manejado pelo Município do Rio de Janeiro contra decisão que não admitiu recurso especial, este interposto com fundamento no art. 105, III, a, da CF, desafiando acórdão proferido pelo Tribunal de Justiça do Estado do Rio de Janeiro (2ª Câmara de Direito Público), assim ementado (fl. 314):
+AGRAVO INTERNO. APELAÇÃO CÍVEL. Embargos à execução fiscal. IPTU. Município recorrente que pugna pelo reconhecimento da sucumbência recíproca. Impossibilidade, tendo em vista que a distribuição dos ônus sucumbenciais exige ponderação entre o pedido inicial e o sucesso obtido na demanda. Manutenção da decisão monocrática. RECURSO DESPROVIDO.
+Opostos embargos declaratórios, foram rejeitados (fls. 398/402).
+Nas razões do recurso especial, a parte agravante aponta violação aos arts. 85 e 86 do Código de Processo Civil, ao argumento de que "parte do tributo foi diminuída (provimento do pedido do embargante), e a maior parte do tributo foi mantida (desprovimento do pedido do embargante), o que justifica o reconhecimento, NO MÍNIMO, da sucumbência recíproca em favor do Município" (fl. 416). Afirma que as decisões proferidas em recursos repetitivos devem ser observadas, notadamente o Tema 249/STJ.
+É O RELATÓRIO.SEGUE A FUNDAMENTAÇÃO.
+Registre-se, de início, que a questão jurídica objeto do Tema 249/STJ (Questão referente à possibilidade de alteração do valor constante na Certidão da Dívida Ativa, quando configurado o excesso de execução, desde que a operação importe meros cálculos aritméticos, sendo certa a inexistência de mácula à liquidez do título executivo) não possui perfeita adequação com o caso dos autos, o qual, conforme se extrai do acórdão recorrido, se trata de decaimento mínimo do pedido.
+Adiante, o Tribunal de origem decidiu a controvérsia com base na seguinte fundamentação (fl. 316):
+3. Examinando o presente recurso, não vislumbro qualquer razão para a reforma da monocrática atacada, cabendo às partes interessadas lançarem mão dos recursos excepcionais para modificar o entendimento desta relatoria. 4. Cabe aqui esclarecer que a distribuição dos ônus sucumbenciais exige ponderação entre o pedido inicial e o sucesso obtido na demanda, sendo que no presente caso, o decaimento mínimo do embargante não justifica a fixação de verba sucumbencial em favor dos procuradores do embargado.
+Nesse contexto, este Tribunal Superior tem entendimento pacífico de que inviável a aferição do grau de sucumbência entre as partes, para fins de distribuição da condenação nos honorários advocatícios, tendo em vista a necessidade de revisão do contexto fático-probatório dos autos, providência defesa em recurso especial, ante o enunciado da Súmula 7/STJ.
+Nessa linha de entendimento, os seguintes julgados:
+CIVIL E PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. ATRASO NA ENTREGA DE OBRA. DANOS MORAIS. INEXISTÊNCIA. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. INADMISSIBILIDADE. INCIDÊNCIA DA SÚMULA N. 7/STJ. SUCUMBÊNCIA MÍNIMA. VERIFICAÇÃO. IMPOSSIBILIDADE. SÚMULA N. 7/STJ. DECISÃO MANTIDA.
+1. O mero atraso na entrega do imóvel é incapaz de gerar abalo moral indenizável, sendo necessária a existência de uma consequência fática capaz de acarretar dor e sofrimento indenizável por sua gravidade. Precedentes.
+2. O recurso especial não comporta o exame de questões que impliquem revolvimento do contexto fático-probatório dos autos (Súmula n. 7/STJ).
+3. No caso concreto, para alterar a conclusão do Tribunal de origem e reconhecer a existência de dano moral por atraso na entrega da obra, seria imprescindível nova análise da matéria fática, inviável em recurso especial.
+4. "Segundo entendimento jurisprudencial do STJ, a aferição do percentual, em que cada litigante foi vencedor ou vencido ou a conclusão pela existência de sucumbência mínima ou recíproca das partes, é questão que não comporta exame no âmbito do recurso especial, por envolver aspectos fáticos e probatórios" (AgInt no AREsp n. 1.669.159/PR, Relator Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 19/10/2020, DJe 26/10/2020), esse é o caso dos autos.
+5. Agravo interno a que se nega provimento.
+(AgInt no REsp 1.925.514/RJ, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 14/06/2021, DJe 17/06/2021)
+PROCESSUAL CIVIL E ADMINISTRATIVO. DESAPROPRIAÇÃO DIRETA. ART. 1.022 DO CPC/2015. VIOLAÇÃO. ALEGAÇÃO GENÉRICA. LAUDO PERICIAL. EXAME DE MATÉRIA FÁTICA. IMPOSSIBILIDADE. VALORIZAÇÃO DO IMÓVEL. SOBREPREÇO. PREQUESTIONAMENTO. AUSÊNCIA. ÁREA NON AEDIFICANDI. INDENIZAÇÃO. DEFICIÊNCIA NA FUNDAMENTAÇÃO. ÔNUS SUCUMBENCIAIS E VALOR DOS HONORÁRIOS ADVOCATÍCIOS. ANÁLISE. INVIABILIDADE.
+ ..
+6. O STJ possui remansosa jurisprudência de que "a análise do quantitativo em que autor e réu saíram vencedores ou vencidos na demanda e da existência de sucumbência mínima ou recíproca esbarra no óbice da Súmula 7 do STJ" (AgInt no AREsp 1.571.169/RJ, Relator Ministro RICARDO VILLAS BÔAS CUEVA, Terceira Turma, DJe 12/03/2021).
+7. Fixado o percentual dos honorários advocatícios dentro dos limites impostos pelo art. 27, § 1º, do Decreto-Lei n. 3.365/1941 (entre 0,5% e 5% do valor da diferença entre o valor proposto inicialmente e a indenização fixada pelo juízo), a análise do acerto em relação ao quantum determinado na instância de origem encontra óbice da Súmula 7 do STJ.
+8. Agravo interno desprovido.
+(AgInt no REsp 1.905.029/SP, Rel. Ministro GURGEL DE FARIA, PRIMEIRA TURMA, julgado em 17/05/2021, DJe 25/05/2021)
+ANTE O EXPOSTO, nego provimento ao agravo.
+Publique-se.
+EMENTA
