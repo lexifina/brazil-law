@@ -1,0 +1,32 @@
+DECISÃO
+Trata-se de recurso em habeas corpus sem pedido liminar interposto por FRANCISCO JEFFERSON SOUSA DA SILVA contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO PIAUÍ.
+Consta dos autos que o recorrente teve a prisão temporária convertida em preventiva em 11/7/2025, pela suposta prática da conduta descrita no art. 2º, caput, da Lei n. 12.850/2013.
+O recorrente alega que o decreto prisional utilizou a garantia da ordem pública de forma genérica, sem fatos concretos que demonstrem o periculum libertatis.
+Aduz que a decisão é despersonalizada, pois abrangeu onze pessoas sem individualizar circunstâncias pessoais do recorrente.
+Assevera que a gravidade do ilícito, por si só, não legitima a prisão preventiva, devendo tal elemento ser afastado como fundamento autônomo.
+Afirma que a periculosidade foi presumida, sem dados objetivos de risco de reiteração, ameaça à instrução ou fuga.
+Pondera que o juízo não examinou a suficiência das medidas previstas no art. 319 do CPP, em afronta ao caráter subsidiário da prisão preventiva, conforme o art. 282, § 6º, do CPP
+Afirma que deve ser observada a presunção de inocência, permitindo-se ao recorrente responder em liberdade.
+Requer a revogação da prisão preventiva ou, subsidiariamente, sua substituição por medidas cautelares do art. 319 do CPP.
+Manifestação do Ministério Público Federal opinando pelo improvimento do recurso em habeas corpus (fls. 259-265).
+É o relatório.
+A prisão preventiva do recorrente foi decretada nos seguintes termos (fl. 160, 168 e 170- 172, grifei):
+No que concerne aos indícios de autoria e materialidade, a autoridade policial trouxe na representação (ID 78776451,fls. 06 a 20) elementos que indicam a necessidade da medida pleiteada:
+ ..  As análises telemáticas, documentadas em certidões acostadas aos autos, evidenciaram comunicações e interações que indicam que os referidos investigados, mesmo antes de suas prisões, mantinham de forma reiterada a prática delitiva de integrar organização criminosa, figurando como membros ativos da facção Primeiro Comando da Capital - PCC. Francisco Jefferson Sousa da Silva A extração de dados do aparelho celular do investigado revelou:  Imagens com símbolos característicos do PCC, indicativos de sua vinculação à facção.  Fotografias que demonstram envolvimento com tráfico de drogas e posse ilegal de arma de fogo.  Indícios suficientes que o associam à estrutura organizacional da facção.  ..
+Compulsando os autos, verifico que a gravidade concreta do crime está demonstrada, em razão de se tratar da conduta de integrar organização criminosa, e atuar em delitos relacionados, como tráfico de drogas, posse ilegal de armas de fogo e crimes contra a vida.
+Nesse sentido, devo ressaltar que a colenda Corte Superior tem entendimento consolidado de que a necessidade de se interromper ou diminuir a atuação de integrantes de organização criminosa enquadra-se no conceito de garantia da ordem pública, constituindo fundamentação cautelar idônea e suficiente para a prisão preventiva, bem como que neste contexto específico, nem eventuais condições pessoais favoráveis são suficientes para impedir a decretação da medida cautelar:
+ ..
+Desse modo, a liberdade dos representados se revela comprometedora à garantia da ordem pública, haja vista a gravidade das condutas imputadas e o risco de continuidade delitiva.
+A leitura do decreto prisional revela que a custódia cautelar está suficientemente fundamentada na necessidade de garantir a ordem pública, tendo em vista que, segundo o disposto pelo Juízo de primeiro grau, há indícios concretos de que o recorrente seja integrante de organização criminosa especializada em tráfico de droga, posse ilegal de armas de fogo e crimes contra a vida.
+Destacou-se que a extração de dados do aparelho celular do investigado revelou indicativos de sua vinculação à facção Primeiro Comando da Capital - PCC, com fotografias que demonstram envolvimento com tráfico de drogas e posse ilegal de arma de fogo.
+Nesse contexto, "conforme magistério jurisprudencial do Pretório Excelso, "a necessidade de se interromper ou diminuir a atuação de integrantes de organização criminosa enquadra-se no conceito de garantia da ordem pública, constituindo fundamentação cautelar idônea e suficiente para a prisão preventiva" (STF, HC n. 95.024/SP, relatora Ministra Cármen Lúcia, Primeira Turma, DJe 20/2/2009)" (AgRg no HC n. 910.098/SC, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 17/6/2024, DJe de 20/6/2024.)
+No mesmo sentido:
+PENAL. AGRAVO REGIMENTAL NOS EMBARGOS DE DECLARAÇÃO NO RECURSO EM HABEAS CORPUS. OPERAÇÃO "FIM DO MUNDO". ORGANIZAÇÃO CRIMINOSA. LAVAGEM DE CAPITAIS. ALEGAÇÃO DE NULIDADE E DESENTRANHAMENTO DE PROVAS ILÍCITAS. ACESSO AO CONTEÚDO DO CELULAR APREENDIDO PELA AUTORIDADE POLICIAL OCORRIDO SEM AUTORIZAÇÃO JUDICIAL. QUEBRA DE SIGILO DE DADOS E TELEMÁTICOS. NÃO OCORRÊNCIA. AUTORIZAÇÃO DO CORRÉU. EXERCÍCIO DE AUTODEFESA. PRISÃO PREVENTIVA. FUNDAMENTAÇÃO IDÔNEA. INDÍCIOS DE PARTICIPAÇÃO EM ORGANIZAÇÃO CRIMINOSA. INSUFICIÊNCIA DAS MEDIDAS CAUTELARES ALTERNATIVAS. DECISÃO MANTIDA.
+ ..
+2. Com efeito: "A jurisprudência desta Corte é pacífica no sentido de que justifica a prisão preventiva o fato de o acusado integrar organização criminosa, em razão da garantia da ordem pública, quanto mais diante da complexidade dessa organização, evidenciada no número de integrantes e presença de diversas frentes de atuação e de sua atuação em posição de destaque." (AgRg no HC n. 640.313/RS, relator Ministro Nefi Cordeiro, Sexta Turma, DJe 5/3/2021).
+3. Agravo regimental desprovido.
+(AgRg no RHC n. 183.658/RJ, relator Ministro Jesuíno Rissato - Desembargador convocado do TJDFT, Sexta Turma, julgado em 13/8/2024, DJe de 16/8/2024.)
+Ademais, havendo a indicação de fundamentos concretos para justificar a custódia cautelar, não se revela cabível a aplicação de medidas cautelares alternativas à prisão, visto que insuficientes para resguardar a ordem pública. A esse respeito: AgRg no HC n. 801.412/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 7/3/2023, DJe de 13/3/2023; AgRg no HC n. 771.854/ES, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 6/3/2023, DJe de 9/3/2023.
+Ante o exposto, nos termos do art. 34, XVIII, b, do Regimento Interno do Superior Tribunal de Justiça, nego provimento ao recurso em habeas corpus.
+Publique-se. Intimem-se.
+ EMENTA
