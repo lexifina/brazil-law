@@ -1,0 +1,25 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de ADRYAN SILVA DA CONCEICAO contra ato proferido pelo TRIBUNAL DE JUSTIÇA DO DISTRITO FEDERAL E DOS TERRITÓRIOS,
+Consta nos autos que o paciente teve a prisão preventiva decretada, após julgamento de recurso em sentido estrito interposto pelo Ministério Público, pela suposta prática dos crimes de homicídio qualificado e corrupção de menores.
+Neste writ, o impetrante sustenta, em suma, a ausência de fundamentação da decisão que decretou a prisão preventiva ponderando suas condições pessoais favoráveis.
+Aduz, ainda, que não há indícios suficientes de autoria.
+Requer a revogação da prisão preventiva ou, subsidiariamente, sua substituição por medidas cautelares diversas.
+Liminar indeferida às fls. 114-115.
+Informações prestadas às fls. 120-607.
+O Ministério Público Federal em parecer, às fls. 614-615, manifestou-se pelo não conhecimento da ordem.
+É o relatório. DECIDO.
+In casu, verifica-se que a decretação da prisão preventiva pela corte de origem, após o julgamento de recurso em sentido estrito interposto pelo Ministério Público, encontra-se devidamente fundamentada em elementos concretos extraídos dos autos, os quais evidenciam, de forma clara, a necessidade da medida para a garantia da ordem pública, especialmente em razão do modus operandi da conduta imputada. O paciente, em conjunto com outros corréus, dentre eles adolescentes, teria praticado crime de homicídio qualificado, cometido com o emprego de arma branca, em via pública, durante a madrugada, no contexto de uma briga envolvendo diversos jovens. O o acusado e os demais corréus teriam perseguido e encurralado a vítima, desferindo-lhe golpes de faca nas costas e no peito, ocasionando sua morte imediata no local. A motivação do delito, teria sido uma retaliação desproporcional a um suposto golpe anterior - fl. 98.
+Sobre o tema:
+"A custódia preventiva está idoneamente motivada, especialmente para a garantia da ordem pública, vulnerada pela gravidade concreta do crime em razão do modus operandi empregado no delito" (RHC n. 218.885/RS, relator Ministro Sebastião Reis Júnior, Sexta Turma, DJEN de 23/9/2025.)
+"A prisão preventiva pode ser decretada antes do trânsito em julgado da sentença condenatória desde que estejam presentes os requisitos previstos no art. 312 do CPP.
+Foram constatados elementos concretos capazes de justificar a privação cautelar da liberdade, tendo em vista a gravidade concreta da conduta e o modus operandi empregado"(AgRg no AREsp n. 2.939.478/BA, relator Ministro Og Fernandes, Sexta Turma, DJEN de 23/2/2026.)
+Outrossim, como bem pontuado pelo acórdão recorrido, o reconhecimento de que o paciente não desferiu pessoalmente os golpes fatais não o exime da medida extrema, pois o domínio funcional do fato evidencia sua plena adesão ao desígnio homicida e configura participação relevante, sendo desnecessário que o agente pratique diretamente atos executórios para justificar a decretação da prisão preventiva, bastando sua vinculação consciente e voluntária à prática delitiva em contexto de atuação coletiva organizada e de elevada gravidade - fl. 98.
+Cumpre registrar que a propositura da ação penal exige tão somente a presença de indícios mínimos de autoria, não sendo exigida a certeza, que a toda evidência somente será comprovada ou afastada após a instrução probatória, prevalecendo, na fase de oferecimento da denúncia, o princípio da busca da verdade real.
+De mais a mais, a sentença condenatória, ainda não foi prolatada pela instância de origem, oportunidade em que o juízo singular, após a devida instrução criminal, poderá analisar com maior profundidade a dinâmica fático-probatória dos autos. Por essa razão, não é possível afastar as premissas fáticas estabelecidas no acórdão recorrido, uma vez que tal providência demandaria incursão aprofundada no conjunto probatório, o que se revela incompatível com os estreitos limites do habeas corpus.
+A propósito:
+"A tese de negativa de autoria e materialidade não comporta conhecimento, pois a análise demandaria, inevitavelmente, o reexame do conjunto probatório, providência incompatível com a presente via processual, conforme pacífica jurisprudência desta Corte" (AgRg no HC n. 1.047.066/SP, relator Ministro Carlos Pires Brandão, Sexta Turma, DJEN de 16/12/2025.)
+No mesmo sentido: AgRg no HC n. 970.692/BA, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJEN de 7/5/2025 e AgRg no AREsp n. 2.742.347/PA, relator Ministro Joel Ilan Paciornik, Quinta Turma, DJEN de 29/4/2025.
+Por fim, ressalta-se que a presença de circunstâncias pessoais favoráveis, tais como primariedade, ocupação lícita e residência fixa, não tem o condão de garantir a revogação da prisão se há nos autos elementos hábeis a justificar a imposição da segregação cautelar, como na hipótese. Pela mesma razão, não há que se falar em possibilidade de aplicação de medidas cautelares diversas da prisão.
+Ante o expo sto, denego a ordem.
+Publique-se. Intimem-se.
+EMENTA
