@@ -1,0 +1,29 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 21/05/2026 a 27/05/2026, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Francisco Falcão, Maria Thereza de Assis Moura, Marco Aurélio Bellizze e Teodoro Silva Santos votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Teodoro Silva Santos.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. EXECUÇÃO INDIVIDUAL DE SENTENÇA COLETIVA. JUÍZES CLASSISTAS. PARCELA AUTÔNOMA DE EQUIVALÊNCIA (PAE). RECONHECIMENTO DE ILEGITIMIDADE ATIVA E PRESCRIÇÃO NA ORIGEM. REEXAME DO TÍTULO EXECUTIVO E DO ACERVO PROBATÓRIO. INCIDÊNCIA DA SÚMULA 7/STJ. FUNDAMENTAÇÃO RECURSAL DEFICIENTE. SÚMULA 284/STF. AGRAVO INTERNO NÃO PROVIDO.
+1. A jurisprudência do Superior Tribunal de Justiça é firme no sentido de que a análise da legitimidade ativa e da extensão da coisa julgada, quando demanda o reexame do título executivo e das premissas fáticas assentadas pelo Tribunal de origem, esbarra no óbice da Súmula 7/STJ.
+2. A alegada violação aos dispositivos de lei federal deu-se de forma genérica, circunstância que impede o conhecimento do recurso especial, no ponto, por deficiência na fundamentação. Aplicação da Súmula 284/STF, por analogia.
+3. Não se admite, em agravo interno, a inovação de teses ou a mera reiteração de argumentos que não afastam especificamente os fundamentos da decisão monocrática agravada.
+4. Agravo interno não provido.
+RELATÓRIO
+MINISTRO AFRÂNIO VILELA: Em análise, agravo interno no recurso especial interposto por WALTER DE OLIVEIRA insurge-se contra decisão monocrática que não conheceu deste recurso especial (fls. 814-818). O provimento ora agravado fundamentou-se na incidência da Súmula 7/STJ, em razão de a verificação dos limites subjetivos da coisa julgada demandar reexame fático-probatório, e na Súmula 284/STF, por deficiência na fundamentação recursal quanto à indicação dos dispositivos violados.
+Nas razões deste agravo interno, o recorrente sustenta: a) inaplicabilidade da Súmula 7/STJ, alegando que a discussão sobre os limites da coisa julgada e a legitimidade ativa é matéria exclusivamente de direito; b) não incidência da Súmula 284/STF, afirmando que indicou expressamente a violação aos arts. 502 a 508 e 535, VI, do CPC; e c) que o Tribunal Regional Federal da 1ª Região (TRF-1) violou a coisa julgada formada no RMS 25.841/DF ao rediscutir a legitimidade e a prescrição em fase de execução.
+A UNIÃO apresentou contrarrazões pugnando pela manutenção da decisão agravada ante a ausência de impugnação específica aos fundamentos do acórdão local e a necessidade de reexame de provas.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. EXECUÇÃO INDIVIDUAL DE SENTENÇA COLETIVA. JUÍZES CLASSISTAS. PARCELA AUTÔNOMA DE EQUIVALÊNCIA (PAE). RECONHECIMENTO DE ILEGITIMIDADE ATIVA E PRESCRIÇÃO NA ORIGEM. REEXAME DO TÍTULO EXECUTIVO E DO ACERVO PROBATÓRIO. INCIDÊNCIA DA SÚMULA 7/STJ. FUNDAMENTAÇÃO RECURSAL DEFICIENTE. SÚMULA 284/STF. AGRAVO INTERNO NÃO PROVIDO.
+1. A jurisprudência do Superior Tribunal de Justiça é firme no sentido de que a análise da legitimidade ativa e da extensão da coisa julgada, quando demanda o reexame do título executivo e das premissas fáticas assentadas pelo Tribunal de origem, esbarra no óbice da Súmula 7/STJ.
+2. A alegada violação aos dispositivos de lei federal deu-se de forma genérica, circunstância que impede o conhecimento do recurso especial, no ponto, por deficiência na fundamentação. Aplicação da Súmula 284/STF, por analogia.
+3. Não se admite, em agravo interno, a inovação de teses ou a mera reiteração de argumentos que não afastam especificamente os fundamentos da decisão monocrática agravada.
+4. Agravo interno não provido.
+VOTO
+MINISTRO AFRÂNIO VILELA (Relator): O recurso não merece provimento.
+Conforme a jurisprudência desta Corte, o agravo interno deve impugnar especificamente os fundamentos da decisão agravada, conforme exigem o art. 1.021, § 1º, do CPC; e o art. 259, § 2º, do RISTJ. No caso, embora o agravante tente conferir nova roupagem jurídica à lide, não logrou afastar os óbices aplicados.
+A decisão agravada assentou que alterar a conclusão da Corte de origem sobre a ilegitimidade ativa do exequente  baseada na constatação de que o título judicial do RMS 25.841/DF beneficiou apenas juízes classistas aposentados ou com requisitos implementados  demandaria o reexame do título executivo e do acervo probatório. Essa compreensão está em harmonia com precedentes da Primeira Seção do Superior Tribunal de Justiça, que aplicam a Súmula 7/STJ quando a verificação da coisa julgada e da legitimidade exige a reavaliação do conjunto fático dos autos.
+Ademais, no que tange à Súmula 284/STF, verifica-se que as razões do recurso especial apresentaram-se genéricas, sem demonstrar de que maneira o acórdão recorrido teria malferido os dispositivos legais citados, especialmente quanto ao afastamento da prescrição de fundo de direito. A mera menção esparsa a artigos de lei, sem a devida correlação analítica com os fundamentos do julgado, não permite a exata compreensão da controvérsia.
+Não se aplica ao caso a tese de "matéria exclusivamente de direito", pois, conforme decidido no acórdão recorrido, a pretensão exequenda baseou-se em lista de substituídos cujos interesses não foram defendidos na ação mandamental original. Assim, a inversão desse entendimento é vedada na instância especial.
+Ressalte-se que é indevida a majoração de honorários advocatícios prevista no art. 85, § 11, do CPC nesta sede, pois a interposição de agravo interno não inaugura novo grau recursal.
+Isso posto, nego provimento ao agravo interno.
