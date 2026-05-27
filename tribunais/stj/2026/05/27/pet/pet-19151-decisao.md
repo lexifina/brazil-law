@@ -1,0 +1,18 @@
+DECISÃO
+Cuida-se de pedido de antecipação de tutela em recurso ordinário em mandado de segurança ainda não admitido nessa corte, requerido por Clever Maiquez Marques contra acórdão proferido pela 3ª Câmara Cível do Tribunal de Justiça do Estado Minas Gerais.
+Na petição recursal, fls. 10/14, o requerente veicula pedido de tutela provisória, fundado nos arts. 300 do CPC e 288 do RISTJ, bem como no poder geral de cautela atribuído a esta Corte Superior, ao argumento de que se fazem presentes indícios do bom direito, "demonstrado pela flagrante violação ao art. 489 do CPC e pela nulidade do acórdão que não enfrentou as teses recursais." (fl. 12), bem como o perigo na demora, considerando que "o curso de formação tem término previsto para 17/07/2026." (fl. 13).
+Requer o autor (i) sua imediata matrícula provisória no curso; (ii) o direito de frequentar regularmente as atividades acadêmicas e operacionais, participar das avaliações e ter eventual aproveitamento administrativo; (iii) a expedição de comunicação urgente às autoridades competentes para cumprimento da medida; (iv) a fixação de multa cominatória em caso de descumprimento; e (v) a confirmação da tutela ao final, com o provimento do recurso ordinário. (fls 13/14).
+Gratuidade de justiça requerida perante a Corte de origem (fl. 26).
+Representação regular (fl. 25).
+Autos encaminhados ao meu gabinete aos 25 de maio de 2026.
+É O RELATÓRIO. PASSO À FUNDAMENTAÇÃO.
+Porque veiculado em sede de recurso ordinário, o pedido de antecipação de tutela formulado pela recorrente deve ser entendido e tratado como o são as liminares requeridas no writ.
+Tais medidas são reguladas por norma própria, a saber, a Lei do Mandado de Segurança, Lei n. 12.016, de 7 de agosto de 2009, que prevê tão somente a suspensão do ato que deu motivo à impetração se satisfeitos, cumulativa e simultaneamente, os requisitos estipulados por seu art. 7.º, inciso III, quais sejam, a existência de ato administrativo suspensível, de fundamento relevante, e a possibilidade de ineficácia da medida, se deferida somente ao final da demanda.
+Na hipótese ora examinada, não estão presentes nenhum desses requisitos legais, fato que impede o deferimento da tutela.
+Com efeito, não se volta a impetração, prima facie, contra um ato administrativo suspensível, mas, pelo que se extrai da narrativa autoral, contra rejeição da inscrição do candidato em curso de formação, de modo que eventual suspensão, em tese, do ato administrativo questionado em juízo não asseguraria, só por isso, o pretendido ingresso. Daí a ausência do primeiro requisito.
+Também se nota a ausência, na hipótese, da relevância da fundamentação, não só em razão do desfavorável pronunciamento da Corte Estadual (como anunciado pelo recorrente), mas também pela ausência do inteiro teor do acórdão recorrido, o que impossibilita a avaliação da robustez dos fundamentos invocados pela Corte estadual. Ademais, milita a favor do ato administrativo contestado a presunção de legalidade. Eis, então, as razões pelas quais se faz ausente o segundo dos requisitos legais.
+Por fim, não há razão para crer que a ordem, se eventualmente concedida a tempo e modo, ou seja, após pronunciamento definitivo desta Corte Superior, se mostre, só por isto, ineficaz. Ausente, portanto, também o terceiro requisito. A isso se soma o fato de que o andamento do curso pretendido é já muito avançado.
+Por todos estes motivos, isolada ou conjuntamente considerados, não se fazem presentes, neste caso, os requisitos legais que autorizariam a concessão da liminar pleiteada.
+ANTE O EXPOSTO, indefiro o pedido de liminar.
+Publique-se.
+EMENTA
