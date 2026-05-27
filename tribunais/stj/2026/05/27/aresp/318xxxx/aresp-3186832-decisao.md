@@ -1,0 +1,51 @@
+DECISÃO
+Trata-se de agravo manejado pelo Banco do Brasil S. A. contra decisão que não admitiu recurso especial, este interposto com fundamento no art. 105, III, a, da CF, desafiando acórdão proferido pelo Tribunal de Justiça do Estado do Rio de Janeiro, assim ementado (fls. 27/28):
+DIREITO PROCESSUAL CIVIL. AGRAVO DE INSTRUMENTO. INDEFERIMENTO DE PROVA PERICIAL CONTÁBIL. ROL DO ART. 1.015 DO CPC. TAXATIVIDADE MITIGADA. AUSÊNCIA DE URGÊNCIA. NÃO CONHECIMENTO DO RECURSO.
+I. CASO EM EXAME
+1 Agravo de Instrumento interposto pelo réu, com vistas ao deferimento de prova pericial.
+II. QUESTÃO EM DISCUSSÃO
+2. A questão em discussão consiste em determinar se é admissível a interposição de agravo de instrumento contra decisão que indefere pedido de produção de prova pericial contábil, à luz da tese da taxatividade mitigada do art. 1.015 do CPC.
+III. RAZÕES DE DECIDIR
+3. A decisão que indefere a produção de prova pericial contábil não está prevista no rol taxativo do art. 1.015 do CPC, e, embora o STJ tenha admitido a tese da taxatividade mitigada (Tema 988), essa flexibilização somente é possível quando demonstrada urgência decorrente da inutilidade do exame da matéria em apelação, o que não se verifica no presente caso.
+4. A possibilidade de a questão ser suscitada em preliminar de apelação ou nas contrarrazões de recurso da parte contrária afasta o caráter de urgência necessário à mitigação do rol, inexistindo risco de perecimento do direito.
+IV. DISPOSITIVO E TESE
+5. Recurso não conhecido. Tese de julgamento: O indeferimento de produção de prova não configura, por si só, hipótese de urgência capaz de justificar a mitigação da taxatividade do rol do artigo 1.015 do CPC, pois pode ser objeto de apreciação em apelação ou nas contrarrazões, conforme o art. 1.009, §1º, do CPC.
+Opostos embargos declaratórios, foram conhecidos e não providos (fls. 50/57).
+Nas razões do recurso especial, a parte agravante aponta violação ao art. 1.015 do Código de Processo Civil, ao argumento de que o rol do art. 1.015 é de taxatividade mitigada e, no caso concreto, há urgência decorrente da inutilidade do exame da matéria apenas em apelação, legitimando o cabimento do agravo de instrumento contra decisão que indeferiu a prova pericial contábil. Acrescenta que o Tribunal de origem contrariou a tese firmada no Tema Repetitivo n. 988 do STJ ao afirmar inexistir urgência, pois a discussão sobre a prova técnica é essencial e sua análise postergada implicará cerceamento de defesa e necessidade de anulação de futura sentença.
+Não foram oferecidas contrarrazões (fl. 86).
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+De início, acerca da taxatividade mitigada do rol do art. 1.015 do CPC, este Sodalício fixou, sob a sistemática dos recursos repetitivos, a seguinte tese jurídica (Tema Repetitivo n. 988/STJ): "O rol do art. 1.015 do CPC é de taxatividade mitigada, por isso admite a interposição de agravo de instrumento quando verificada a urgência decorrente da inutilidade do julgamento da questão no recurso de apelação".
+No caso dos autos, entretanto, o Tribunal de origem concluiu pela ausência da urgência que autorizaria a excepcionalidade da taxatividade do art. 1.015 do CPC. Eis os trechos do acórdão (fl. 55):
+Ocorre que, no caso em tela, o juízo de primeiro grau indeferiu a produção de prova pericial requerida pelo agravante, hipótese em que não se vislumbra a urgência decorrente da inutilidade do julgamento da questão no recurso de apelação, a justificar a mitigação da taxatividade do art. 1.015 do CPC, por isso que o tema poderá ser ventilado como preliminar de apelação ou mesmo nas contrarrazões (art. 1.009, §1º, do CPC) de recurso interposto pela contraparte.  .. ."
+Na espécie, bem se vê que o acórdão embargado fundamenta de forma compreensível - e sem olvidar o Tema 988 do STJ - que o indeferimento de prova pericial contábil não configura hipótese de urgência a justificar o cabimento de agravo de instrumento com base na taxatividade mitigada do art. 1.015 do CPC, pois a matéria pode ser suscitada em apelação ou contrarrazões, conforme art. 1.009, §1º, do CPC.
+Desse modo, a alteração das premissas adotadas pela Corte de origem, tal como colocada a questão nas razões recursais no sentido de verificar a urgência decorrente da inutilidade do julgamento da questão no recurso de apelação, demandaria, necessariamente, novo exame do acervo fático-probatório constante dos autos, providência vedada em recurso especial, conforme o óbice p revisto na Súmula 7/STJ.
+Nesse sentido:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. ART. 1.015 DO CPC. TAXATIVIDADE MITIGADA. PRODUÇÃO DA PROVA PERICIAL. URGÊNCIA NÃO RECONHECIDA PELAS INSTÂNCIAS DE ORIGEM. REVISÃO. IMPOSSIBILIDADE. SÚMULA 7/STJ. AGRAVO INTERNO DESPROVIDO.
+1. A Corte Especial deste STJ, no julgamento do REsp 1.704.520/MT, sob o rito dos recursos repetitivos, firmou a tese de que "o rol do art. 1.015 do CPC é de taxatividade mitigada, por isso admite a interposição de agravo de instrumento quando verificada a urgência decorrente da inutilidade do julgamento da questão no recurso de apelação"(REsp 1.704.520/MT, relatora Ministra Nancy Andrighi, Corte Especial, DJe de 19/12/2018).
+2. No caso dos autos, em relação à decisão que indeferira a produção da prova pericial, a Corte de origem concluiu pela ausência da urgência que autorizaria a excepcionalidade da taxatividade do art. 1.015 do CPC, o que torna inviável a análise da pretensão veiculada no recurso especial, por demandar o reexame do contexto fático-probatório dos autos, atraindo a incidência da Súmula 7/ STJ.
+3. Agravo interno desprovido.
+(AgInt no AREsp n. 2.230.226/SP, relator Ministro Afrânio Vilela, Segunda Turma, julgado em 19/2/2025, DJEN de 24/2/2025.)
+AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. AGRAVO DE INSTRUMENTO. DECISÃO INTERLOCUTÓRIA. PRODUÇÃO DE PROVA PERICIAL. NÃO CABIMENTO. ROL DO ART. 1.015 DO CÓDIGO DE PROCESSO CIVIL. TAXATIVIDADE MITIGADA. URGÊNCIA NÃO RECONHECIDA PELO TRIBUNAL DE ORIGEM. REVISÃO. IMPOSSIBILIDADE. SÚMULA Nº 7/STJ.
+1. A jurisprudência desta Corte Superior é firme no sentido de que a decisão que indefere o pedido de produção de provas não é impugnável pela via do agravo de instrumento, por não se enquadrar nas hipóteses do rol do art. 1.015 do CPC, devendo a questão ser suscitada em preliminar de apelação, nos termos do art. 1.009, § 1º, do mesmo diploma legal.
+2. No caso dos autos, em relação à decisão que indeferira a produção da prova pericial, o Tribunal de origem concluiu pela ausência da urgência que autorizaria a excepcionalidade da taxatividade do art. 1.015 do CPC, o que torna inviável a análise da pretensão veiculada no recurso especial, por demandar o reexame do contexto fático-probatório dos autos, atraindo a incidência da Súmula nº 7/ STJ.
+3. Agravo conhecido para conhecer parcialmente do recurso especial e, nessa extensão, negar-lhe provimento.
+(AREsp n. 3.105.252/PR, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 23/3/2026, DJEN de 26/3/2026.)
+DIREITO PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. INDEFERIMENTO DE PROVA PERICIAL E TAXATIVIDADE DO ART. 1.015 DO CPC. CABIMENTO DO AGRAVO DE INSTRUMENTO E NEGATIVA DE PRESTAÇÃO JURISDICIONAL. AGRAVO CONHECIDO. RECURSO ESPECIAL CONHECIDO EM PARTE E DESPROVIDO. I. CASO EM EXAME
+1. Agravo em recurso especial interposto contra decisão que inadmitiu o recurso especial por incidência da Súmula n. 284 do STF, da Súmula n. 7 do STJ e pela ausência de violação do art. 1.022, II, do CPC.
+2. A controvérsia decorre de agravo interno no agravo de instrumento, em embargos à execução, no qual se discutiu o indeferimento de prova pericial e o cabimento do agravo de instrumento à luz do art. 1.015 do CPC.
+3. A Corte de origem manteve a inadmissibilidade do agravo de instrumento, assentando a taxatividade do art. 1.015 do CPC, a inexistência de urgência para mitigação e a suficiência da prova documental, além de rejeitar embargos de declaração.
+II. QUESTÃO EM DISCUSSÃO
+4. Há três questões em discussão: (i) saber se houve negativa de prestação jurisdicional por omissão quanto à mitigação do art. 1.015 do CPC e ao cerceamento de defesa, violando o art. 1.022, II; (ii) saber se é cabível a taxatividade mitigada do art. 1.015 do CPC para admitir agravo de instrumento contra indeferimento de prova pericial diante de urgência; e (iii) saber se o acórdão violou o art. 489, § 1º, IV, por não enfrentar argumentos sobre urgência, preclusão e cerceamento.
+III. RAZÕES DE DECIDIR
+5. Afasta-se a alegada violação aos arts. 1.022, II, e 489, § 1º, IV, do CPC, porque o acórdão enfrentou de modo claro e suficiente os pontos necessários ao deslinde, não havendo negativa de prestação.
+6. Não se admite agravo de instrumento contra indeferimento de prova pericial sem demonstração de urgência; o tema pode ser arguido em preliminar de apelação, e a prova documental é suficiente ao caso, aplicando-se a Súmula n. 83 do STJ.
+7. A revisão do entendimento sobre a urgência demandaria reexame do acervo fático-probatório, incidindo a Súmula n. 7 do STJ.
+IV. DISPOSITIVO E TESE
+8. Agravo conhecido para conhecer em parte do recurso especial e negar-lhe provimento.
+Tese de julgamento: "1. Não há negativa de prestação jurisdicional quando o tribunal enfrenta de forma clara a taxatividade do art. 1.015 do CPC e a inexistência de urgência, afastando os arts. 1.022, II, e 489, § 1º, IV, do CPC. 2. Aplica-se a Súmula n. 83 do STJ para manter acórdão alinhado à tese da taxatividade mitigada, ausente urgência, e incide a Súmula n. 7 do STJ para obstar o reexame fático sobre a urgência."
+Dispositivos relevantes citados: CPC, arts. 1.022 II, 1.015, 489 § 1º IV, 371 e 85 § 11; CF, art. 105 III a.
+Jurisprudência relevante citada: STJ, Súmulas n. 83 e 7; STF, Súmula n. 284; STJ, AgInt no AREsp n. 2593022/RJ, relator Ministro João Otávio de Noronha, Quarta Turma, julgado em 23/9/2024; STJ, AgInt no AREsp n. 2287174/MS, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 15/4/2024; STJ, AgInt no AREsp n. 2567837/RR, relator Ministro Francisco Falcão, Segunda Turma, julgado em 27/5/2024.
+(AREsp n. 2.506.711/GO, relator Ministro João Otávio de Noronha, Quarta Turma, julgado em 30/3/2026, DJEN de 8/4/2026.)
+ANTE O EXPOSTO, nego provimento ao agravo.
+Publique-se.
+EMENTA
