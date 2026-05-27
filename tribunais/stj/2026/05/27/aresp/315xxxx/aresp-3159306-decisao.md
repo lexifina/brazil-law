@@ -1,0 +1,26 @@
+DECISÃO
+Trata-se de agravo interposto pelo MUNICÍPIO DE OSASCO contra decisão proferida pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, que inadmitiu recurso especial fundamentado no art. 105, III, "a" e "c", da Constituição Federal e pelo qual se impugna acórdão assim ementado (e-STJ fls. 399/411):
+APELAÇÃO. SERVIDOR PÚBLICO MUNICIPAL. ADICIONAL DE PERICULOSIDADE. RECURSO IMPROVIDO.
+I. CASO EM EXAME
+Pretensão do autor, servidor público do Município de Osasco, admitido para exercer a função de eletricista, promoveu ação com escopo, entre o mais, de recebimento de adicional de periculosidade de 30% sobre o salário-base. Sentença pela qual parcialmente procedentes os pedidos, condenado o Município ao pagamento dessa vantagem e das diferenças de valores vencidos, com atualização monetária e juros da mora.
+II. QUESTÃO EM DISCUSSÃO
+A questão em discussão consiste em determinar se o servidor público tem direito ao adicional de periculosidade.
+III. RAZÕES DE DECIDIR
+Consideração ao laudo decorrente de perícia.
+Ademais, preveem as Leis Municipais 836/1969 e 1.851/1985 a concessão de adicional de periculosidade aos servidores.
+Sentença mantida.
+IV. DISPOSITIVO
+Recurso improvido.
+No recurso especial obstaculizado (e-STJ fls. 414/428) a parte recorrente aponta, em suas razões, além de dissídio jurisprudencial, violação do art. 193 da Consolidação das Leis do Trabalho. Sustenta, em síntese, que o acórdão recorrido teria caracterizado indevidamente como perigosas as atividades de abastecimento de gerador com óleo diesel a partir de tambores de 50 litros e de manutenção elétrica em baixa tensão, que estariam expressamente excluídas da periculosidade pelos Anexos 2 e 4 da Norma Regulamentadora n. 16. Subsidiariamente, aponta divergência jurisprudencial quanto ao termo inicial do pagamento do adicional, que, segundo o entendimento do STJ consolidado no PUIL 413/RS, deveria ser a data da elaboração do laudo pericial e não a data de início das atividades laborais do servidor.
+Sem registro de contrarrazões ao recurso especial nos autos submetidos.
+O apelo nobre recebeu juízo negativo de admissibilidade pelo Tribunal de origem sob os seguintes fundamentos: falta de prequestionamento do art. 193 da CLT e da NR n. 16, com incidência das Súmulas 282 e 356 do STF; necessidade de reexame dos elementos fáticos que embasaram a decisão recorrida, com incidência da Súmula 7 do STJ; e, quanto à alínea "c", insuficiência do cotejo analítico, nos termos do art. 1.029, § 1º, do CPC e do art. 255, § 1º, do RISTJ (e-STJ fls. 449/451). Foi interposto agravo (e-STJ fls. 454/461).
+Passo a decidir.
+O agravo não merece conhecimento.
+Quanto à falta de cotejo analítico apontada na decisão que não admitiu o agravo, observa-se que a parte recorrente não atendeu aos requisitos do art. 1.029, § 1º, do CPC/2015, tendo em vista que a divergência foi apresentada de modo insuficiente, pois não realizada, devidamente, a demonstração das circunstâncias que identificam ou assemelham os casos confrontados, de modo a bem caracterizar a interpretação legal discordante. No agravo, se limitou a repetir as razões contidas no recurso especial.
+Não tendo infirmado de modo específico o fundamento autônomo relativo à falta de comprovação da divergência (cotejo analítico), limitando-se a reiterar razões meritórias - providências insuficientes para superar o óbice formal que sustentou a negativa de seguimento ao apelo nobre, incide, na espécie, o óbice da Súmula 182 do STJ.
+Com efeito, a jurisprudência desta Corte é assente no sentido de que não bastam alegações genéricas de desacerto da decisão de inadmissão ou a mera reprodução das teses do próprio especial: compete ao agravante demonstrar, de forma concreta, por que razão cada um dos óbices invocados pelo Tribunal de origem não se aplica ao caso (v.g., necessidade de mostrar que houve adequado cotejo analítico quanto à alínea "c", com a transcrição dos trechos pertinentes e a demonstração da similitude fática).
+Nesse ponto, convém rememorar que, para o conhecimento pela alínea "c" do art. 105, III, da CF, não basta a invocação de julgados supostamente divergentes: exige-se a demonstração formal e analítica da divergência, com a transcrição dos trechos dos acórdãos em confronto e a exposição das circunstâncias que identifiquem ou assemelhem os casos (art. 1.029, § 1º, do CPC e art. 255 do RISTJ), ônus processual expressamente apontado na decisão agravada e que permaneceu sem impugnação específica nas razões do agravo. Nesse sentido: AgInt no AREsp 1736638/PE, Relatora Ministra Maria Isabel Gallotti, Quarta Turma; DJe 12/05/2021; e AgInt no REsp 1704378/RJ, Relator Ministro Benedito Gonçalves, Primeira Turma, DJe 13/05/2021.
+Ante o exposto, NÃO CONHEÇO do agravo em recurso especial.
+Caso exista nos autos prévia fixação de honorários de advogado pelas instâncias de origem, determino a majoração dessa verba, em desfavor da parte recorrente, no importe de 10% (dez por cento) sobre o valor já arbitrado, nos termos do art. 85, § 11, do CPC/2015, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão da gratuidade da justiça.
+Publique-se. Intimem-se.
+EMENTA
