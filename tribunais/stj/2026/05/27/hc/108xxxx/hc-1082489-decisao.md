@@ -1,0 +1,40 @@
+DECISÃO
+Trata-se de habeas corpus, sem pedido liminar, impetrado pela Defensoria Pública do Estado do Espírito Santo em favor de CLAUDINEI RODRIGUES SANTOS contra acórdão proferido pela 2ª Câmara Criminal do Tribunal de Justiça do Estado do Espírito Santo nos autos da Apelação Criminal n. 0001174-07.2008.8.08.0021.
+Consta dos autos que o paciente foi submetido a julgamento pelo Tribunal do Júri da 1ª Vara Criminal de Guarapari/ES e condenado à pena definitiva de 18 (dezoito) anos de reclusão, em regime inicial fechado, pela prática do crime de homicídio qualificado pelo recurso que dificultou a defesa da vítima, previsto no art. 121, § 2º, IV, do Código Penal. Segundo narrado na denúncia, no dia 25/4/2007, no bairro Olaria, em Guarapari/ES, o acusado abordou a vítima em via pública e efetuou diversos disparos de arma de fogo, inclusive após a vítima já se encontrar caída ao solo, realizando novos disparos à queima-roupa, inclusive na direção da cabeça.
+Irresignada, a defesa interpôs recurso de apelação sustentando, em síntese: (i) ilegalidade da negativação das vetoriais "culpabilidade", "personalidade", "consequências" e "comportamento da vítima"; e (ii) necessidade de aplicação da fração de 1/6 (um sexto) para a atenuante da confissão espontânea.
+O Tribunal de origem, contudo, negou provimento ao recurso defensivo, mantendo integralmente a dosimetria da pena ao fundamento de que: (i) a culpabilidade foi corretamente negativada em razão da premeditação do delito; (ii) a personalidade do agente revelou elevada periculosidade e extrema frieza, evidenciada pela continuidade dos disparos após a vítima cair ao solo; (iii) as consequências do crime extrapolaram o resultado típico, diante da pouca idade da vítima, então com apenas 18 anos; e (iv) a redução inferior a 1/6 pela confissão espontânea mostrou-se proporcional às particularidades concretas do caso.
+O acórdão impugnado foi assim ementado:
+DIREITO PENAL E PROCESSUAL PENAL. APELAÇÃO CRIMINAL. HOMICÍDIO QUALIFICADO. DOSIMETRIA DA PENA. MANUTENÇÃO DA PENA-BASE. CULPABILIDADE, PERSONALIDADE E CONSEQUÊNCIAS NEGATIVADAS. REDUÇÃO PELA CONFISSÃO ESPONTÂNEA. CRITÉRIO DISCRICIONÁRIO. RECURSO DEFENSIVO DESPROVIDO.
+Nesta impetração, a defesa sustenta constrangimento ilegal na dosimetria da pena, ao argumento de que a pena-base foi fixada em patamar excessivamente superior ao mínimo legal sem fundamentação concreta e proporcional. Afirma que a pena basilar deve ser calculada com base no termo médio entre as penas máxima e mínima, dividido pelo número de circunstâncias judiciais previstas no art. 59 do Código Penal. Ao final, requer a concessão da ordem de habeas corpus para reduzir a pena-base.
+Prestadas informações pela autoridade apontada como coatora e pelo Juízo de primeiro grau (e-STJ fls. 197/201 e 206/210), o Ministério Público Federal manifestou-se pelo não conhecimento do writ (e-STJ fls. 216/219).
+É o relatório.
+Decido.
+A Terceira Seção do STJ, no julgamento do HC n. 535.063/SP, firmou entendimento de que não cabe habeas corpus substitutivo de recurso próprio, impondo-se o não conhecimento da impetração, salvo quando constatada alguma teratologia no ato judicial impugnado (Rel. Ministro Sebastião Reis Júnior, DJe de 25/8/2020).
+Na hipótese dos autos, verifica-se que a impetração foi manejada antes mesmo do exaurimento da via recursal ordinária. O parecer ministerial consignou expressamente que o writ foi impetrado "antes do dies ad quem para a interposição da via de impugnação própria" (e-STJ fl. 217), circunstância que evidencia a inadequação da via eleita.
+Assim, em observância à orientação jurisprudencial consolidada desta Corte Superior, o habeas corpus não comporta conhecimento.
+De qualquer modo, verifica-se que não há, na hipótese, manifesta ilegalidade a reclamar a concessão da ordem de ofício.
+Na hipótese dos autos, o Tribunal de origem negou provimento à apelação defensiva nos seguintes termos (fls. e-STJ fls. 15/16):
+Registro que a defesa não questiona a materialidade e a autoria do crime de homicídio qualificado, requerendo, tão somente, a redução da reprimenda.
+Na fase do art. 59, do CP, constato que o Magistrado fixou a pena-base em 21 (vinte e um) anos de reclusão.
+No caso, entendo que deve ser mantida a negativação do vetor "culpabilidade", já que o acusado premeditou o crime, o que permite a exasperação da reprimenda, como já decidido pelo STJ, no Agravo Regimental no R Esp n. 2.113.431/TO, relator Ministro Jesuíno Rissato (Desembargador Convocado do Tjdft), Sexta Turma, julgado em 18/6/2024, D Je de 25/6/2024.)
+Quanto a "personalidade", embora a existência de ações penais não possa ser utilizada para negativar referida baliza, como consta na sentença, tenho que é possível a realização de reforço argumentativo, para manter a sua desvaloração.
+Isto porque, o apelante possui elevada periculosidade, possuindo inclinação para a prática de crimes, tanto é que agiu com extrema frieza e violência, já que, após alvejar a vítima, se aproximou dela quando estava caída, e efetuou mais disparos de arma de fogo, em direção a sua cabeça.
+Sobre o tema, destaco que o STJ possui entendimento de que "para a aferição da vetorial relativa à personalidade, é desnecessário laudo técnico, mas apenas, o exame pelo julgador de dados concretos que indiquem a maior periculosidade do agente, como visto in casu onde ficou cabalmente demonstrada sua índole violenta, fria e desvirtuada." (AgRg no HC n. 785.120/PE, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 6/12/2022, D Je de 14/12/2022).
+Do mesmo modo, reputo adequada a desvaloração da baliza "consequências", pois o ofendido possuía apenas 18 (dezoito) anos de idade, quando do seu falecimento, colocando sua família em luto prematuramente, o que extrapola as consequências normais do crime.
+A propósito:
+(..)
+No que se refere a vetorial "comportamento da vítima", constato que a pretensão já foi atendida, pois o Magistrado não desvalorou referida baliza.
+Por fim, em relação ao pedido para que seja aplicada a fração de diminuição de 1/6, (um sexto), tendo em vista a atenuante da confissão (art. 65, inc. III, alínea "d", do CP), tenho que a pretensão não merece prosperar.
+Embora o STJ recomende a aplicação da aludida fração, na segunda fase dosimétrica, identifico que as particularidades do caso e o maior desvalor da conduta do réu, permitem uma menor redução da pena, já que o apelante, ao executar a vítima, efetuou disparos a curta distância, atingindo-a com mais tiros, quando já estava caída, de modo que a diminuição da reprimenda em 03 (três) anos, não é desproporcional, devendo ser mantida a condenação definitiva, em 18 (dezoito) anos de reclusão.
+Do excerto transcrito, observo que a Corte estadual limitou-se a examinar os fundamentos que ensejaram o aumento da pena-base e o patamar de diminuição pela aplicação da atenuante prevista no art. 65, inciso III, alínea d, do Código Penal, não emitindo qualquer juízo de valor sobre a tese de desproporcionalidade arguida no presente writ, a qual, de acordo com o relatório do acórdão ora impugnado, não foi sequer suscitada nas razões de apelação.
+Portanto, não tendo sido a matéria analisada pelo Tribunal de origem no acórdão impugnado, não há como esta Corte Superior se manifestar originariamente a respeito do tema, sob pena de supressão de instância.
+A propósito:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. CRIME DE RESPONSABILIDADE DE PREFEITO. FALSIDADE IDEOLÓGICA, POR 13 VEZES. NULIDADE. QUEBRA DE SIGILO TELEFÔNICO E TELEMÁTICO. INEXISTÊNCIA DE DILIGÊNCIA PRÉVIA. SUPRESSÃO DE INSTÂNCIA. AUSÊNCIA DE FLAGRANTE ILEGALIDADE. DIVERSAS DILIGÊNCIAS PREPARATÓRIAS. AGRAVO REGIMENTAL DESPROVIDO.
+(..)
+2. O Tribunal de origem não analisou o tema no viés ora delineado pela defesa, ficando esta Corte impedida de apreciar a matéria, sob pena de indevida supressão de instância.
+(..)
+5. Agravo regimental desprovido.
+(AgRg no HC n. 864.854/SP, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 2/9/2025, DJEN de 9/9/2025.)
+Ante o exposto, não conheço do habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
