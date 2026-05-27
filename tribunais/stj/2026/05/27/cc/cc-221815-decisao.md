@@ -1,0 +1,25 @@
+DECISÃO
+Em análise, conflito de competência, com pedido liminar, suscitado pela SOCIEDADE EDUCACIONAL DAS AMÉRICAS (FAM), em razão de decisões divergentes acerca da competência para julgar ação proposta por Maria Vitória Magalhães, na qual se discute rematrícula e acesso ao internato do curso de Medicina, cumulados com pedido de indenização por danos morais.
+Relata a suscitante que a autora, transferida da UNESUL, apresentou histórico escolar posteriormente apontado como inautêntico pela instituição de origem, circunstância que ensejou a instauração de procedimento administrativo disciplinar e culminou em seu desligamento, após bloqueio de acesso ao sistema acadêmico e suspensão de avaliação.
+Inicialmente, a ação foi ajuizada perante o Juizado Especial Cível Estadual, que extinguiu o feito e declinou da competência em favor da Justiça Federal (fls. 37-40). Em seguida, a demanda foi redistribuída ao Juízo da 5ª Vara Cível do Foro Regional do Tatuapé, que igualmente reconheceu a incompetência da Justiça Estadual e determinou a remessa dos autos à Justiça Federal (fls. 41-45). Recebidos os autos, o Juízo da 21ª Vara Cível Federal afastou o interesse da União, excluiu-a do polo passivo e determinou a devolução do feito à Justiça Estadual.
+A suscitante sustenta a competência do STJ para dirimir o conflito, nos termos da Constituição Federal e do CPC, bem como defende a competência da Justiça Federal sob dois fundamentos: (i) a prevalência da decisão transitada em julgado que teria fixado a competência federal; e (ii) a submissão da instituição privada de ensino superior ao Sistema Federal de Ensino, o que atrairia a competência da Justiça Federal.
+Ao final, requer a concessão de efeito suspensivo, a designação de juiz federal para apreciação provisória das medidas urgentes e a declaração da competência da Justiça Federal para o processamento e julgamento da ação.
+É o relatório. Passo a decidir.
+O art. 109 da Constituição Federal estabelece, em rol taxativo, os casos de competência da Justiça Federal. Em seu inciso I, atribui ao juízo federal o processamento e julgamento das causas em que a União, suas autarquias ou empresas públicas federais figurem como parte interessada, competindo ao próprio Juízo Federal decidir acerca da existência de interesse jurídico apto a justificar sua presença na demanda, nos termos da Súmula 150/STJ.
+O Supremo Tribunal Federal, ao julgar o RE 1.304.964/SP, sob o regime da repercussão geral (Tema 1.154), firmou a seguinte tese vinculante: "Compete à Justiça Federal processar e julgar feitos em que se discuta controvérsia relativa à expedição de diploma de conclusão de curso superior realizado em instituição privada de ensino integrante do Sistema Federal de Ensino, ainda que a pretensão se limite ao pagamento de indenização".
+No caso dos autos, contudo, a controvérsia não envolve expedição, registro ou validação de diploma, mas, sim, o aproveitamento de disciplinas cursadas em outra instituição de ensino e a consequente liberação de rematrícula da autora.
+Desse modo, a controvérsia não se subsume ao Tema 1.154/STF, tratando-se de controvérsia de natureza eminentemente privada.
+Nessa linha, a jurisprudência desta Corte firmou-se no sentido de que não há interesse da União em demandas que versem sobre questões privadas decorrentes da relação contratual estabelecida entre instituições de ensino superior e seus alunos.
+A propósito:
+PROCESSUAL CIVIL. INSTITUIÇÃO DE ENSINO SUPERIOR. CANCELAMENTO DE DIPLOMA. INTERESSE DA UNIÃO. AUSÊNCIA. JUÍZO ESTADUAL. COMPETÊNCIA.
+1. Nos termos da jurisprudência do STJ, nas causas que envolvam instituições de ensino superior, a União possui interesse quando tratar de: (I) expedição e registro de diploma no órgão público competente (inclusive credenciamento junto ao MEC) ou (II) mandado de segurança.
+2. Não há falar em interesse da União nas lides (salvo mandados de segurança) que digam respeito a questões privadas concernentes ao contrato de prestação de serviço firmado entre essas instituições e seus alunos, de modo a evidenciar a competência da Justiça estadual.
+3. In casu, verifica-se que o cancelamento do registro do diploma da promovente, em princípio, não decorre da ausência de credenciamento da instituição de ensino superior pelo Ministério da Educação, mas de ato unilateral da ora agravante, conforme informação disposta da peça vestibular, sendo certo, ademais, que inexiste pedido dirigido à União, não justificando a competência da Justiça Federal.
+Precedentes.
+4. Agravo interno desprovido.
+(AgInt no CC n. 175.704/SP, relator Ministro Gurgel de Faria, Primeira Seção, julgado em 29/6/2021, DJe de 1/7/2021)
+Ademais, o Juiz Federal expressamente reconheceu a inexistência de interesse jurídico da União e afastou sua legitimidade passiva, circunstância que reforça a competência da Justiça Estadual para o processamento da demanda.
+Isso posto, conheço do conflito para declarar a competência do Juiz de Direito do 5º Vara Cível do Foro Regional de Tatuapé - São Paulo. Prejudicado o pedido liminar.
+Intimem-se.
+Comuniquem-se os Juízos envolvidos.
+EMENTA
