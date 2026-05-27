@@ -1,0 +1,47 @@
+DECISÃO
+Trata-se de agravo interposto por JOACIR DOS SANTOS contra decisão proferida pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE MATO GROSSO DO SUL, que inadmitiu recurso especial fundamentado no art. 105, III, "a" e "c", da Constituição Federal e pelo qual se impugna acórdão assim ementado (e-STJ fls. 635/637):
+DIREITO CIVIL E PROCESSUAL CIVIL. APELAÇÃO CÍVEL. AÇÃO DE OBRIGAÇÃO DE FAZER C/C INDENIZAÇÃO POR DANOS MATERIAIS E MORAIS. EMPRÉSTIMO CONSIGNADO DE SERVIDOR PÚBLICO ESTADUAL. IMPUGNAÇÃO À GRATUIDADE JUDICIAL REJEITADA. PRELIMINAR DE INOVAÇÃO RECURSAL ACOLHIDA EM PARTE. LIMITE LEGAL DE DESCONTO FIXADO EM 40% DA REMUNERAÇÃO BRUTA. EXCESSO APURADO. PEDIDO DE DANOS MORAIS INDEFERIDO. RECURSO PARCIALMENTE CONHECIDO E PARCIALMENTE PROVIDO.
+I. CASO EM EXAME
+1) Apelação cível interposta contra sentença que julgou improcedentes pedidos de limitação de descontos de empréstimos consignados e de indenização por danos morais, formulados em face de instituição financeira, em razão de alegado comprometimento excessivo da remuneração e inscrição indevida em cadastros de inadimplentes.
+II. QUESTÃO EM DISCUSSÃO
+2) Há três questões em discussão: (i) definir se é devida a revogação da gratuidade judicial deferida ao autor; (ii) estabelecer se houve inovação recursal quanto ao pedido de exclusão do nome do autor dos cadastros de inadimplentes; (iii) determinar se os descontos realizados a título de empréstimos consignados devem observar o limite de 30% ou de 40% da remuneração bruta, com repercussão no pedido de indenização por danos morais. I
+II. RAZÕES DE DECIDIR
+3) Mantém-se a gratuidade judicial quando a parte comprova renda modesta e despesas relevantes, e a parte adversa não apresenta prova capaz de infirmar a alegação de hipossuficiência, incumbindo-lhe o respectivo ônus.
+4) Configura inovação recursal a formulação, apenas em sede de apelação, de pedido autônomo de exclusão do nome do autor de cadastros de inadimplentes, por não ter sido formulado na petição inicial, implicando supressão de instância.
+5) Servidor público estadual aposentado submete-se ao limite de 40% da remuneração bruta para descontos de consignações facultativas, nos termos do Decreto Estadual n. 12.796/2009, e não ao limite de 30% previsto para empréstimos consignados na Lei Federal n. 10.820/2003.
+6) Apurado que os descontos em folha de pagamento ultrapassam o limite legal em valor residual, é cabível a limitação aos 40% fixados na norma estadual.
+7) Descontos realizados diretamente em conta-corrente, ainda que de natureza salarial, são lícitos se previamente autorizados pelo correntista, conforme fixado pelo STJ no Tema 1.085, não sendo aplicável a limitação da Lei n. 10.820/2003.
+8) A limitação percentual de descontos, por si só, não gera dano moral, exigindo comprovação de prejuízo extrapatrimonial efetivo, o que não ocorreu no caso.
+IV. DISPOSITIVO E TESE
+9) Recurso parcialmente provido.
+Tese de julgamento:
+10) A gratuidade judicial deve ser mantida quando a parte comprova a hipossuficiência e a parte contrária não apresenta prova em sentido contrário.
+11) Pedido não formulado em primeiro grau e inserido apenas em sede recursal configura inovação, vedada por implicar supressão de instância.
+12) O limite de descontos de consignações facultativas para servidor público estadual é de 40% da remuneração bruta, conforme Decreto Estadual nº 12.796/2009.
+13) Descontos em conta-corrente são lícitos se previamente autorizados, ainda que sobre verbas salariais, não se aplicando a limitação da Lei nº 10.820/2003.
+14) A mera limitação percentual de descontos não caracteriza dano moral, ausente prova de abalo extrapatrimonial.
+Os embargos de declaração opostos foram parcialmente acolhidos nos termos da ementa a seguir (e-STJ fls. 670/672):
+DIREITO PROCESSUAL CIVIL E DO CONSUMIDOR. EMBARGOS DE DECLARAÇÃO EM APELAÇÃO CÍVEL. CONTRADIÇÃO E OMISSÃO. LIMITAÇÃO DE DESCONTOS CONSIGNADOS. EXCLUSÃO DE NOME DO CADASTRO DE INADIMPLENTES. INOVAÇÃO RECURSAL. PREQUESTIONAMENTO. EMBARGOS CONHECIDOS EM PARTE E PARCIALMENTE ACOLHIDOS.
+ ..
+IV. DISPOSITIVO E TESE
+9) Embargos de declaração conhecidos em parte e, na parte conhecida, parcialmente acolhidos para sanar omissão, fixando-se o limite dos empréstimos consignados em 35% da remuneração bruta, sem alteração do resultado final do julgamento da apelação.
+Tese de julgamento:
+10) A exclusão do nome do devedor dos cadastros de inadimplentes depende de pedido expresso, não podendo ser reconhecida de ofício sob pena de decisão extra petita.
+11) O limite legal de empréstimos consignados corresponde a 35% da remuneração bruta, conforme art. 2º da Lei 10.820/2003, na redação da Lei 14.431/2022.
+12) O prequestionamento implícito é suficiente para viabilizar recurso especial, sendo desnecessária a menção expressa a todos os dispositivos legais invocados pelas partes.
+No recurso especial obstaculizado (e-STJ fls. 681/703) a parte recorrente aponta, em suas razões, além de dissídio jurisprudencial, violação do art. 2º, § 2º, da Lei n. 10.820/2003 e do art. 85, §§ 2º e 11, do CPC. Sustenta, em síntese, que o acórdão recorrido contrariou a legislação federal ao fixar limite de descontos consignados em desacordo com a Lei n. 10.820/2003; que a distribuição da sucumbência e a majoração de honorários recursais foram indevidas; e que a exclusão do nome dos cadastros de inadimplentes constitui efeito consecutário da procedência, e não inovação recursal.
+Sem contrarrazões ao recurso especial (e-STJ fl. 888).
+O apelo nobre recebeu juízo negativo de admissibilidade pelo Tribunal de origem (e-STJ fls. 888/891). Foi interposto agravo (e-STJ fls. 904/927).
+Passo a decidir.
+O agravo comporta conhecimento, pois a parte recorrente impugnou especificamente os fundamentos da decisão de inadmissibilidade, o que possibilita o exame do recurso especial.
+Quanto à alegada violação do art. 2º, § 2º, da Lei n. 10.820/2003, verifica-se que o acórdão recorrido dirimiu a controvérsia relativa ao limite de descontos consignados amparando-se no Decreto estadual n. 12.796/2009, norma local que regulamenta as consignações de servidores públicos do Estado de Mato Grosso do Sul, invocando o princípio da especialidade e a competência constitucional dos Estados para reger seus servidores. Em sede de embargos de declaração, o Tribunal de origem ajustou o percentual para 35%, em conformidade com a própria Lei n. 10.820/2003.
+A pretensão recursal de rediscutir a base de cálculo dos descontos consignados e o limite aplicável demanda a interpretação de norma local, providência vedada em sede de recurso especial. O recurso especial tem por escopo a uniformização da interpretação da lei federal e, por isso, não serve para análise de eventual infringência a lei local, conforme a Súmula 280 do STF.
+Quanto à alegada violação do art. 85, §§ 2º e 11, do CPC, verifica-se que o acórdão da apelação redistribuiu a sucumbência na proporção de 70% para o autor e 30% para o banco, em razão do provimento parcial. Nos embargos de declaração, o Tribunal de origem expressamente consignou que a redistribuição foi analisada no acórdão. A alteração das premissas adotadas pela Corte de origem quanto à proporção da sucumbência recíproca demandaria, necessariamente, novo exame do acervo fático-probatório constante dos autos, providência vedada em recurso especial, conforme o óbice previsto na Súmula 7 do STJ.
+Quanto à alegada afronta à Súmula 548 do STJ, o art. 105, III, "a", da Constituição estabelece que apenas a violação de tratado ou de lei federal será objeto de recurso especial. Dessa maneira, a alegada ofensa a súmula não será conhecida.
+Por fim, "a inadmissão do recurso especial interposto com fundamento no artigo 105, III, "a", da Constituição Federal, em razão da incidência de enunciado sumular, prejudica o exame do recurso no ponto em que suscita divergência jurisprudencial se o dissídio alegado diz respeito ao mesmo dispositivo legal ou tese jurídica, o que ocorreu na hipótese. Precedentes" (AgInt nos EDcl no REsp n. 1.998.539/PB, relator Ministro Benedito Gonçalves, Primeira Turma, julgado em 3/4/2023, DJe de 11/4/2023).
+Além disso, observa-se que a parte recorrente não atendeu aos requisitos do art. 1.029, § 1º, do CPC/2015, tendo em vista que a divergência foi apresentada de modo insuficiente, pois não realizada, devidamente, a demonstração das circunstâncias que identificam ou assemelham os casos confrontados, de modo a bem caracterizar a interpretação legal discordante.
+Segundo o entendimento pacífico desta Corte de Justiça, a simples transcrição de ementas, sem que se evidencie a similitude das situações fáticas e jurídicas, não se presta para demonstração da divergência jurisprudencial. Nesse sentido: AgInt no AREsp 1736638/PE, Relatora Ministra Maria Isabel Gallotti, Quarta Turma; DJe 12/05/2021; e AgInt no REsp 1704378/RJ, Relator Ministro Benedito Gonçalves, Primeira Turma, DJe 13/05/2021.
+Ante o exposto, CONHEÇO do agravo para NÃO CONHECER do recurso especial.
+Caso exista nos autos prévia fixação de honorários de advogado pelas instâncias de origem, determino a majoração de tal verba, em desfavor da parte recorrente, em 10% (dez por cento) sobre o valor já arbitrado, nos termos do art. 85, § 11, do CPC/2015, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão da gratuidade de justiça.
+Publique-se. Intimem-se.
+ EMENTA
