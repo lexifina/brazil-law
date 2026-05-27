@@ -1,0 +1,65 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUINTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 21/05/2026 a 27/05/2026, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Messod Azulay Neto, Maria Marluce Caldas, Reynaldo Soares da Fonseca e Ribeiro Dantas votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Reynaldo Soares da Fonseca.
+EMENTA
+Agravo regimental NO HABEAS CORPUS. decisão IndEFERITória DE lIMINAR NA ORIGEM. Mandamus IMPETRADO NESTA cORTE. descabimento. sumula N. 691/stf. Agravo REGIMENTAL desprovido.
+I. Caso em exame
+1. Agravo regimental interposto contra decisão que indeferiu liminarmente habeas corpus, aplicando a Súmula n. 691 do STF, em razão de atacar decisão que apreciou liminar na origem.
+II. Questão em discussão
+2. A questão em discussão consiste em saber se é possível superar a Súmula n. 691/STF no caso in concreto.
+III. Razões de decidir
+3. A jurisprudência do STJ é pacífica no sentido de que a Súmula 691 do Supremo Tribunal Federal, firmou o entendimento de não conhecer de mandamus impetrado contra decisão indeferitória de liminar na origem, excetuados os casos nos quais, de plano, é possível identificar flagrante ilegalidade ou teratologia do referido decisum.
+IV. Dispositivo e tese
+4. Agravo regimental desprovido.
+Tese de julgamento:
+Esta Corte, aplicando por analogia o enunciado n. 691 da Súmula do Supremo Tribunal Federal, firmou o entendimento de não conhecer de mandamus impetrado contra decisão indeferitória de liminar na origem .
+Dispositivos relevantes citados:
+Não há dispositivos específicos citados no documento.
+Jurisprudência relevante citada:
+STJ, AgRg no HC n. 910.423/SP, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 17/6/2024, DJe de 20/6/2024; STJ, AgRg no HC n. 906.771/RS, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 17/6/2024, DJe de 19/6/2024; STF, Súmula n. 691.
+RELATÓRIO
+Trata-se de agravo regimental interposto por MARIA APARECIDA GOULART GRAÇA em face de decisão, na qual o Eminente Ministro Presidente desta Corte indeferiu liminarmente o presente habeas corpus, por aplicação do enunciado da Súmula n. 691 do Supremo Tribunal Federal, conforme se extrai do seguinte trecho:
+"Constata-se, desde logo, que a pretensão não pode ser acolhida por esta Corte Superior, pois a matéria não foi examinada pelo Tribunal de origem, que ainda não julgou o mérito do writ originário.
+Aplica-se à hipótese o enunciado 691 da Súmula do STF  ..
+No caso, a situação dos autos não apresenta nenhuma excepcionalidade a justificar a prematura intervenção desta Corte Superior e superação do referido verbete sumular. Deve-se, por ora, aguardar o esgotamento da jurisdição do Tribunal de origem." (fls. 531/532)
+A defesa procura afastar a aplicação da Súmula n. 691/STF, ao argumento da existência de flagrante ilegalidade na manutenção da prisão preventiva.
+Busca, desta forma, a reconsideração da decisão agravada, ou que o feito seja levado a julgamento pela Quinta Turma, com a concessão da ordem.
+O Ministério Público Federal pugnou pela intimação do Parquet Estadual para apresentar contrarrazões ao agravo regimental.
+É o relatório.
+EMENTA
+Agravo regimental NO HABEAS CORPUS. decisão IndEFERITória DE lIMINAR NA ORIGEM. Mandamus IMPETRADO NESTA cORTE. descabimento. sumula N. 691/stf. Agravo REGIMENTAL desprovido.
+I. Caso em exame
+1. Agravo regimental interposto contra decisão que indeferiu liminarmente habeas corpus, aplicando a Súmula n. 691 do STF, em razão de atacar decisão que apreciou liminar na origem.
+II. Questão em discussão
+2. A questão em discussão consiste em saber se é possível superar a Súmula n. 691/STF no caso in concreto.
+III. Razões de decidir
+3. A jurisprudência do STJ é pacífica no sentido de que a Súmula 691 do Supremo Tribunal Federal, firmou o entendimento de não conhecer de mandamus impetrado contra decisão indeferitória de liminar na origem, excetuados os casos nos quais, de plano, é possível identificar flagrante ilegalidade ou teratologia do referido decisum.
+IV. Dispositivo e tese
+4. Agravo regimental desprovido.
+Tese de julgamento:
+Esta Corte, aplicando por analogia o enunciado n. 691 da Súmula do Supremo Tribunal Federal, firmou o entendimento de não conhecer de mandamus impetrado contra decisão indeferitória de liminar na origem .
+Dispositivos relevantes citados:
+Não há dispositivos específicos citados no documento.
+Jurisprudência relevante citada:
+STJ, AgRg no HC n. 910.423/SP, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 17/6/2024, DJe de 20/6/2024; STJ, AgRg no HC n. 906.771/RS, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 17/6/2024, DJe de 19/6/2024; STF, Súmula n. 691.
+VOTO
+Inicialmente, esclareço que, encaminhados os autos ao Ministério Público para manifestação sobre o recurso interposto, o Parquet Federal pediu a intimação do Ministério Público Estadual para contraminutar o agravo regimental.
+Não há previsão legal ou regimental de contrarrazões ao agravo regimental em habeas corpus, sendo prescindível a intimação do Ministério Público Estadual para apresentar resposta ao recurso da defesa.
+A intervenção do Ministério Público, órgão uno e indivisível (CF, art. 127, § 1º), nos procedimentos de habeas corpus nos tribunais, fundada no Decreto-lei n. 552/69, é efetivada pela concessão de oportunidade para manifestação do Subprocurador-Geral da República atuante nesta Corte Superior. É irrelevante, segundo a melhor exegese dos objetivos da norma, ser de custo s legis o perfil dessa atuação.
+De outra parte, registra-se que o presente agravo regimental não merece provimento, em que pese os argumentos apresentados pela agravante, devendo a decisão ser mantida por seus próprios fundamentos.
+Conforme asseverado no decisum, esta Corte, aplicando por analogia o enunciado n. 691 da Súmula do Supremo Tribunal Federal, firmou o entendimento de não conhecer de mandamus impetrado contra decisão indeferitória de liminar na origem, excetuados os casos nos quais, de plano, é possível identificar flagrante ilegalidade ou teratologia do referido decisum.
+Nesse sentido, destacam-se os seguintes precedentes:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE ENTORPECENTES. PRISÃO EM FLAGRANTE CONVERTIDA EM PREVENTIVA. INSURGÊNCIA CONTRA DECISÃO DA ORIGEM QUE INDEFERE O PLEITO LIMINAR. NÃO CABIMENTO. SÚMULA N. 691/STF. AGRAVO REGIMENTAL DESPROVIDO.
+1. O Superior Tribunal de Justiça tem jurisprudência firmada de que não cabe habeas corpus contra decisum que indefere liminar no writ precedente (enunciado n. 691 da Súmula do Supremo Tribunal Federal), a não ser que fique demonstrada flagrante ilegalidade, o que não se verifica na espécie, pois se trata de prisão preventiva de pessoa flagrada com cerca de 800g (oitocentos gramas) de cocaína.
+2. Agravo regimental desprovido.
+(AgRg no HC n. 910.423/SP, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 17/6/2024, DJe de 20/6/2024.)
+AGRAVO REGIMENTAL EM HABEAS CORPUS IMPETRADO CONTRA DECISÃO LIMINAR DO TRIBUNAL DE ORIGEM. INCIDÊNCIA DA SÚMULA 691 DO STF. TRÁFICO DE DROGAS. PRISÃO. FUNDAMENTAÇÃO. PERICULOSIDADE SOCIAL. AUSÊNCIA DE CONSTRANGIMENTO ILEGAL. AGRAVO IMPROVIDO.
+1. O Superior Tribunal de Justiça tem compreensão firmada no sentido de não ser cabível habeas corpus contra decisão que indefere o pleito liminar em prévio mandamus, a não ser que fique demonstrada flagrante ilegalidade. Inteligência do verbete n. 691 da Súmula do Supremo Tribunal Federal.
+2. No caso, a prisão foi mantida em caráter liminar em razão das periculosidade dos agravantes, evidenciada pela apreensão de significativa quantidade de droga (cerca de 251g de cocaína) e pelo risco de reiteração, pois o agravante Christian ostenta registros criminais anteriores. Ausência de flagrante ilegalidade. Julgados do STJ.
+3. Agravo regimental improvido.
+(AgRg no HC n. 906.771/RS, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 17/6/2024, DJe de 19/6/2024.)
+Na hipótese, não há possibilidade de superação desse enunciado, pois o indeferimento da tutela de urgência, na origem, pautou-se em fundamentação idônea ao afirmar que não se mostrava de plano a existência do fumus boni juris e do periculum in mora, conforme se pode verificar do seguinte excerto:
+"Trata-se de HC em favor de Maria Aparecida Goulard Graça alegando em suma, que as medidas cautelares aplicadas são desnecessárias e carente de fundamentação concreta. A concessão de liminar em recurso em habeas corpus constitui medida excepcional, uma vez que somente pode ser deferida quando demonstrada, de modo claro e indiscutível, a ilegalidade no ato judicial impugnado. Na espécie, sem qualquer adiantamento do mérito da demanda, não vislumbro, ao menos neste instante, a presença de pressuposto autorizativo da concessão da tutela de urgência pretendida. Ressalte-se que o remédio heroico não é via para análise de provas, devendo ser analisadas junto ao juízo de conhecimento, sob pena de supressão de instância. Assim, indefiro o pedido de liminar." (fl.21)
+Assim, de acordo com a pacífica jurisprudência do Superior Tribunal de Justiça, a fim de evitar supressão de instância, deve-se aguardar o julgamento de mérito da impetração pelo Tribunal a quo.
+Ante o exposto, voto no sentido de negar provimento ao agravo regimental.
