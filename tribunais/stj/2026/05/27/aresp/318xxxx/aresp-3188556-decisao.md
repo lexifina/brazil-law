@@ -1,0 +1,11 @@
+DECISÃO
+Trata-se de agravo manejado por Massa Falida de Const. Bulhões Carvalho da Fonseca S.a, desafiando decisão do Tribunal Regional Federal da 2ª Região, que não admitiu o recurso especial interposto pela parte ora agravante, por entender, que: (I) a controvérsia exige análise de ato normativo infralegal (Parecer PGFN n. 877/2003), matéria inadmissível na via especial; (II) não houve negativa de prestação jurisdicional, pois o órgão julgador apreciou as questões essenciais, com fundamentação suficiente à solução do litígio, afastando a alegada violação aos arts. 1.022 e 489 do CPC; (III) ficam prejudicadas as alegações pela alínea c do art. 105, III, da Constituição, ante a incidência dos mesmos óbices verificados pela alínea a. (fl. 213).
+A parte agravante sustenta, em síntese, que: (I) "O v. acórdão que julgou o recurso da Massa Falida foi omisso quanto aos temas suscitados pela recorrente, o que deu causa à interposição dos embargos de declaração, em que se requereu a análise expressa dos dispositivos de lei suscitados anteriormente" (fl. 218) e (II) "O acórdão recorrido está em dissonância com a jurisprudência do Superior Tribunal de Justiça, que se consolidou no sentido de condenar a União Federal em honorários sucumbenciais na hipótese de extinção da pretensão fazendária" (fl. 222)
+É O NECESSÁRIO RELATÓRIO.
+Verifica-se que o inconformismo não ultrapassa a barreira do conhecimento, pois a parte agravante deixou de impugnar um dos motivos adotados pelo Tribunal de origem para negar trânsito ao apelo especial, deixando de impugnar que a controvérsia exige análise de ato normativo infralegal (Parecer PGFN n. 877/2003), matéria inadmissível na via especial.
+Logo, não tendo havido efetiva impugnação a esse fundamento da decisão denegatória de admissibilidade do recurso especial, é de se manter a monocrática sob crivo.
+Nesse contexto, incide o verbete sumular 182 desta Corte ("É inviável o agravo do artigo 545 do CPC que deixa de atacar especificamente os fundamentos da decisão recorrida").
+Essa, ressalte-se, foi a linha de entendimento confirmada pela Corte Especial do STJ ao julgar os EAREsp 701.404/SC e os EAREsp 831.326/SP, Rel. Min. João Otávio de Noronha, Rel. p/ acórdão Ministro Luis Felipe Salomão, DJe de 30/11/2018.
+ANTE O EXPOSTO, não conheço do agravo.
+Publique-se.
+EMENTA
