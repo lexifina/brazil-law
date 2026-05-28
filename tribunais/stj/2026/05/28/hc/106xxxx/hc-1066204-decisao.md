@@ -1,0 +1,34 @@
+DECISÃO
+Trata-se de habeas corpus com pedido de liminar impetrado em favor de LUIS LEANDRO DE SOUZA GOES no qual se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO.
+Consta dos autos que, após ser absolvido em primeira instância, o paciente foi condenado pela Corte estadual, como incurso no art. 33, caput, c/c o art. 40, III, da Lei n. 11.343/2006, na forma do art. 29 do Código Penal, à pena de 5 (cinco) anos e 10 (dez) meses de reclusão, em regime inicial fechado, e 583 (quinhentos e oitenta e três) dias-multa.
+O impetrante alega a ocorrência de constrangimento ilegal diante da iminência do início do cumprimento de pena em regime fechado, pois entende que a dosimetria contém vícios que podem ensejar o redimensionamento da reprimenda e, consequentemente, o abrandamento do modo inicial de execução.
+Argumenta que a causa de diminuição prevista no artigo 33, § 4º, da Lei n. 11.343/2006 foi afastada sem fundamentação idônea que justificasse a medida e defende que o paciente preenche os requisitos para a incidência da benesse no patamar máximo de redução.
+Sustenta que o laudo pericial dos telefones apreendidos afasta a presunção de que o paciente seria integrante de uma associação ao tráfico estruturada, sendo que a alusão genérica a essa circunstância não seria suficiente para afastar a causa de diminuição do tráfico privilegiado.
+Destaca que a primariedade e os bons antecedentes do paciente denotam a inexistência de envolvimento anterior com o tráfico de drogas, acrescentando ser ônus da acusação a prova em contrário.
+Assevera que o afastamento da causa de diminuição não pode ser feito mediante alusão às circunstâncias elementares do tipo penal em abstrato, concluindo que a dosimetria da pena careceu de fundamentação idônea.
+Defende a não aplicação da causa de aumento prevista no artigo 40, III, da Lei n. 11.343/2006, considerando que não houve efetiva comercialização de entorpecentes em transporte público e que essa circunstância se aplicaria exclusivamente à corré.
+Pleiteia o reconhecimento da detração do período de prisão preventiva, para fins de fixação do regime inicial de cumprimento de pena.
+Aduz que, mesmo no caso de manutenção da pena aplicada, o abrandamento do regime inicial seria devido, tendo em vista que a escolha do regime prisional mais gravoso decorreu exclusivamente da gravidade abstrata do crime. Aduz, ainda, que seria possível o deferimento da substituição da pena privativa de liberdade por restritiva de direitos.
+Requer a concessão de liminar, para que o paciente aguarde o julgamento do mérito do writ em liberdade e, no mérito, pugna pela concessão da ordem para que a dosimetria da pena imposta ao paciente seja refeita, bem como seja modificado o regime prisional.
+A liminar foi indeferida (e-STJ fls. 97-98).
+O Ministério Público Federal manifestou-se pelo não conhecimento do writ (e-STJ fls. 155-159).
+É o relatório.
+Decido.
+O Superior Tribunal de Justiça, de longa data, vem buscando fixar balizas para a racionalização do uso do habeas corpus, visando a garantia não apenas do curso natural das ações ou revisões criminais mas também da efetiva priorização do objeto ínsito ao remédio heroico, qual seja, o de prevenir ou remediar lesão ou ameaça de lesão ao direito de locomoção.
+Nessa linha, esta Corte, em diversas ocasiões, já assentou a impossibilidade de impetração de habeas corpus em substituição à revisão criminal, quando já transitada em julgado a condenação do réu, posicionando-se no sentido de que " n ão deve ser conhecido o writ que se volta contra acórdão condenatório já transitado em julgado, manejado como substitutivo de revisão criminal, em hipótese na qual não houve inauguração da competência desta Corte" (HC n. 730.555/SC, relator Ministro Olindo Menezes, Desembargador Convocado do TRF 1ª Região, Sexta Turma, julgado em 9/8/2022, DJe de 15/8/2022).
+Nesse mesmo sentido, os seguintes precedentes:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. ROUBO DUPLAMENTE MAJORADO TENTADO. INSURGÊNCIA CONTRA ACÓRDÃO TRANSITADO EM JULGADO. MANEJO DO WRIT COMO REVISÃO CRIMINAL. DESCABIMENTO. ILEGALIDADE FLAGRANTE NÃO DEMONSTRADA. REPRIMENDA INFERIOR A QUATRO ANOS. PENA-BASE FIXADA NO MÍNIMO LEGAL. REGIME MAIS GRAVOSO. POSSIBILIDADE. GRAVIDADE CONCRETA DA CONDUTA EVIDENCIADA. REFORMATIO IN PEJUS. NÃO OCORRÊNCIA. EFEITO DEVOLUTIVO AMPLO DO RECURSO DE APELAÇÃO. BIS IN IDEM. SUPRESSÃO DE INSTÂNCIA. PETIÇÃO INICIAL LIMINARMENTE INDEFERIDA. AGRAVO REGIMENTAL DESPROVIDO.
+1. Não deve ser conhecido o writ que se volta contra acórdão já transitada em julgado, manejado como substitutivo de revisão criminal, em hipótese na qual não houve inauguração da competência desta Corte. Precedentes da Quinta e Sexta Turmas do Superior Tribunal de Justiça.
+ ..
+6. Agravo regimental desprovido.
+(AgRg no HC n. 751.156/SP, Relatora Ministra Laurita Vaz, Sexta Turma, julgado em 9/8/2022, DJe de 18/8/2022, grifo nosso.)
+AGRAVO REGIMENTAL EM HABEAS CORPUS INDEFERIDO LIMINARMENTE. TRÁFICO DE DROGAS. ACÓRDÃO TRANSITADO EM JULGADO. DOSIMETRIA. SUBSTITUTIVO DE REVISÃO CRIMINAL. NÃO INAUGURADA A COMPETÊNCIA DO STJ. INADMISSIBILIDADE. AUMENTO DA PENA-BASE. ELEVADA QUANTIDADE DE DROGAS. PROPORCIONALIDADE. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DA DECISÃO AGRAVADA. SÚMULA 182/STJ.
+Agravo regimental não conhecido.
+(AgRg no HC n. 751.137/SP, Relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 2/8/2022, DJe de 4/8/2022, grifo nosso.)
+Assim, não se deve conhecer do writ que pretende a desconstituição de condenação definitiva, olvidando-se a parte de ajuizar a necessária revisão criminal antes de inaugurar a competência desta Corte Superior acerca da controvérsia.
+Não se desconhece a orientação presente no art. 647-A, caput e parágrafo único, do Código de Processo Penal, segundo a qual se permite a qualquer autoridade judicial, no âmbito de sua competência jurisdicional e quando verificada a presença de flagrante ilegalidade, a expedição de habeas corpus de ofício em vista de lesão ou ameaça de lesão à liberdade de locomoção.
+No entanto, no caso, não há que se falar em flagrante ilegalidade apta a ensejar a superação do supracitado entendimento, mormente quando devidamente destacada a relevante quantidade de droga apreendida - 2,9 kg (dois quilos) de maconha - e o contexto em que o réu concorreu para o transporte interestadual da droga apreendida.
+No ponto, cumpre destacar que "a revisão da dosimetria da pena no habeas corpus somente é permitida nas hipóteses de falta de fundamentação concreta ou quando a sanção aplicada é notoriamente desproporcional e irrazoável diante do crime cometido" (HC n. 339.769/RJ, Relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 21/9/2017, DJe de 2/10/2017).
+Ante o exposto, não conheço do habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
