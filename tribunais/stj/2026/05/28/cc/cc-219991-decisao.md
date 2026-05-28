@@ -1,0 +1,14 @@
+DECISÃO
+Cuida-se de conflito entre o r. juízo de direito da 1ª Vara Cível de Dourados/MS e o r. juízo da 2ª Vara do Trabalho de Dourados/MS acerca da competência para processar e julgar demanda proposta pelos interessados visando a resolução de contrato e cobrança de valores referentes à execução de serviços de empreitada, consistentes na execução de rede de esgoto e complementação de rede de água no Loteamento Jardim Cristal III, em Dourados/MS.
+O MPF ofertou parecer no sentido da declaração de competência do r. juízo estadual (fls. 316/319).
+É o relatório.
+Decisão.
+A matéria subjacente ao presente incidente encontra-se pacificada no âmbito deste Superior Tribunal de Justiça, de modo a atrair a incidência da Súmula 568/STJ e a possibilidade do exame unipessoal da questão (ut. CC 179.787/PE, Rel. Min. Paulo de Tarso Sanseverino, DJe de 25/5/2021 ).
+1. Vale destacar a competência deste Superior Tribunal de Justiça para o exame do presente conflito, uma vez que envolve juízos vinculados a Tribunais diversos, nos termos do que dispõe o artigo 105, inciso I, alínea "d", da Constituição Federal.
+2. A competência para o julgamento da demanda é fixada em razão da natureza da causa, que é definida pelo pedido e pela causa de pedir deduzidos na exordial. Nessa linha cognitiva, são diversos os precedentes da Casa, a saber: AgInt no AgInt nos EDcl no CC 181166/SP, Rel. Min. Ricardo Villas Bôas Cueva, DJe de 05/05/2023, CC 184.525/DF, Rel. Min. Humberto Martins, DJe de 04/05/2023, dentre inúmeros outros julgados.
+Além disso, a Segunda Seção firmou entendimento de que, se o contrato de empreitada não se enquadra na exceção do art. 652, "a", III, da CLT, a competência permanece na Justiça Comum Estadual, cabendo ao Juízo do Trabalho, primeiramente, decidir se há, ou não, "empreiteiro operário ou artífice" Transcrevem-se os precedentes: CC 89.171/MG, DJe de 26/11/2007; CC 201.645/MS, Rel. Min. Nancy Andrighi).
+Na hipótese, a moldura fática delineada nos autos revela que: (i) a empreitada é de maior vulto e valor expressivo (R$ 100.030,00), com utilização de retroescavadeiras; (ii) a contratação, pelos próprios autores, de diversos trabalhadores para execução da obra; (iii) o objeto da demanda centrado em inadimplemento contratual e pedidos de ressarcimento/indenização, sem pretensão de reconhecimento de vínculo empregatício.
+Além disso, reconhecida pela Justiça do Trabalho a inexistência de "pequena empreitada" (art. 652, "a", III, CLT) e delineado nos autos que se cuida de controvérsia de natureza civil (inadimplemento e reparação), a competência material é da Justiça Comum Estadual (fls. 304/306).
+3. Do exposto, com fundamento no art. 955, parágrafo único, do CPC c/c Súmula 568/STJ conheço do conflito e declaro a competência do r. juízo da 1ª Vara Cível de Dourados/MS, para processar e julgar a demanda, como entender de direito, nos termos da fundamentação supracitada.
+Publique-se. Intimem-se. Oficiem-se.
+EMENTA
