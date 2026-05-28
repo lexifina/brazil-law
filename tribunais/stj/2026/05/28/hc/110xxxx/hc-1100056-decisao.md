@@ -1,0 +1,23 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em nome de MICHELE AMARAL MOLINA, condenada pelos crimes de tráfico de drogas (art. 33 da Lei n. 11.343/2006) e associação para o tráfico (art. 35 da Lei n. 11.343/2006), à pena total de 9 anos e 8 meses de reclusão, em regime inicial fechado, além de 950 dias-multa, nos autos do Processo n. 5000857-47.2025.8.21.0123, em trâmite perante a 2ª Vara da comarca de Santo Augusto/RS.
+A impetrante aponta como autoridade coatora a 2ª Câmara Criminal do Tribunal de Justiça do Rio Grande do Sul que, em 23/4/2026, rejeitou as preliminares defensivas, negou provimento às apelações das defesas e deu parcial provimento ao recurso ministerial para redimensionar as reprimendas, no julgamento da Apelação Criminal n. 5000857-47.2025.8.21.0123.
+Alega, em síntese, cerceamento de defesa em razão da negativa de realização de interrogatório judicial após a paciente, no dia subsequente à audiência de instrução, manifestar interesse em ser ouvida. Sustenta nulidade absoluta por violação ao art. 5º, LV, da Constituição Federal, e ao art. 196 do Código de Processo Penal, ao argumento de que os efeitos da revelia teriam cessado com seu comparecimento posterior, sendo possível a realização do interrogatório a qualquer tempo, mediante requerimento defensivo.
+Em caráter liminar, requer a suspensão dos efeitos do acórdão condenatório. No mérito, pleiteia a declaração de nulidade do processo originário a partir do encerramento da instrução, com retorno dos autos ao Juízo de primeiro grau para designação de novo interrogatório da paciente e renovação dos atos processuais subsequentes.
+É o relatório.
+Em minha avaliação, a ordem deve ser indeferida liminarmente.
+Ao compulsar os autos, constato que não se evidencia flagrante ilegalidade apta a justificar a excepcional concessão da ordem em sede liminar.
+Da atenta leitura do acórdão impugnado, depreende-se que a Corte de origem enfrentou expressamente a alegação de cerceamento defensivo e, de maneira fundamentada, afastou a nulidade suscitada.
+Conforme consignado, a paciente foi regularmente citada, deixou de comparecer ao ato processual designado e teve decretada sua revelia, com regular prosseguimento da instrução criminal.
+A manifestação posterior de interesse em prestar interrogatório, já após a realização da audiência, não impõe, automaticamente, a reabertura da instrução, especialmente quando não demonstrado prejuízo concreto à defesa.
+Em minha avaliação, a invocação do art. 196 do Código de Processo Penal não conduz, por si só, à nulidade pretendida, pois a faculdade de novo interrogatório deve ser aferida à luz das circunstâncias processuais concretas, não constituindo direito potestativo irrestrito apto a invalidar atos regularmente praticados.
+Nesse sentido: AgRg nos EDcl no AREsp n. 1.638.190/RJ, Ministro Joel Ilan Paciornik, Quinta Turma, DJe de 27/11/2020; RHC n. 82.742/SC, Ministro Jorge Mussi, Quinta Turma, julgado em 21/11/2017, DJe de 27/11/2017; e AgRg no RHC n. 207.913/CE, Ministro Og Fernandes, Sexta Turma, DJEN de 12/3/2025.
+Ademais, o acórdão impugnado destacou que a condenação não se apoiou exclusivamente em elemento isolado, mas em conjunto probatório reputado suficiente pelas instâncias ordinárias.
+Cumpre registrar, ainda, que a paciente foi condenada não apenas por tráfico de drogas, mas também por associação para o tráfico, tendo as instâncias ordinárias reconhecido vínculo estável entre os corréus, divisão de tarefas e atuação coordenada na mercancia ilícita, inclusive com negociação de entorpecentes por redes sociais e recebimento de valores mediante chave PIX de titularidade da paciente, com suporte em prova oral e elementos extraídos de aparelho celular apreendido .
+A corroborar, citem-se: RHC n. 74.386/RJ, Ministra Maria Thereza de Assis Moura, Sexta Turma, DJe de 19/9/2016; AgRg no HC n. 943.468/SP, Ministro Antonio Saldanha Palheiro, Sexta Turma, DJEN de 3/6/2025; e AgRg no HC n. 990.118/SP, Ministro Antonio Saldanha Palheiro, Sexta Turma, DJEN de 20/5/2025.
+A meu ver, a pretensão defensiva demanda incursão mais aprofundada sobre a dinâmica processual concreta e eventual repercussão prática do alegado vício, providência incompatível com o juízo perfunctório próprio da análise liminar.
+Não verifico, portanto, constrangimento ilegal manifesto.
+Ante o exposto, indefiro liminarmente a petição inicial (art. 210 do RISTJ).
+Publique-se.
+EMENTA
+HABEAS CORPUS. DIREITO PROCESSUAL PENAL. TRÁFICO DE DROGAS. ASSOCIAÇÃO PARA O TRÁFICO. SENTENÇA CONDENATÓRIA. ALEGADO CERCEAMENTO DE DEFESA. RÉ QUE, APÓS REGULAR DECRETAÇÃO DE REVELIA E ENCERRAMENTO DA INSTRUÇÃO, MANIFESTA INTERESSE TARDIO EM SER INTERROGADA. NULIDADE NÃO EVIDENCIADA. AUSÊNCIA DE FLAGRANTE ILEGALIDADE.
+Writ indeferido liminarmente.
