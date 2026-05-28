@@ -1,0 +1,38 @@
+DECISÃO
+Examina-se agravo em recurso especial interposto por FERNANDO MIZIARA DE MATTOS CUNHA, JOAO PAULO FRANCO ROSSI CUPPOLONI e RENATA ROSSI CUPPOLONI RODRIGUES contra decisão que inadmitiu recurso especial fundamentado, exclusivamente, na alínea "a" do permissivo constitucional.
+Agravo em recurso especial interposto em: 20/2/2026.
+Concluso ao gabinete em: 6/5/2026.
+Ação: incidente de desconsideração da personalidade jurídica, ajuizado por JOSE REINARY BARBOSA DE ANDRADE, no qual requer a desconsideração da personalidade jurídica e inclusão dos agravantes no polo passivo de cumprimento de sentença.
+Acórdão: negou provimento ao agravo de instrumento interposto pelos agravantes, nos termos da seguinte ementa:
+DIREITO CIVIL E PROCESSUAL CIVIL. AGRAVO DE INSTRUMENTO. DESCONSIDERAÇÃO DA PERSONALIDADE JURÍDICA. TEORIA MENOR DO CDC. ADMINISTRADORES E ACIONISTAS CONTROLADORES. RELAÇÃO DE CONSUMO. INEXISTÊNCIA DE BENS DA EXECUTADA. ALCANCE DO PATRIMÔNIO DE TERCEIROS NÃO SUJEITOS À RECUPERAÇÃO JUDICIAL. RECURSO DESPROVIDO.
+1. Agravo de instrumento interposto contra decisão pela qual deferida a desconsideração da personalidade jurídica da empresa executada, alcançando o patrimônio dos agravantes, administradores e/ou acionistas controladores da pessoa jurídica.
+2. Há duas questões em discussão: (i) determinar se a existência de plano de recuperação judicial homologado da empresa executada obsta o prosseguimento da execução contra terceiros administradores ou acionistas controladores e (ii) verificar se satisfeitos os requisitos para a desconsideração da personalidade jurídica com base na teoria menor do CDC.
+3. A controvérsia relativa aos efeitos da recuperação judicial já foi decidida anteriormente em agravo de instrumento interposto pelos mesmos agravantes (Acórdão 1736808), de modo que a matéria resta preclusa (art. 507 do CPC).
+4. "( ) 3. A jurisprudência do Superior Tribunal de Justiça dispõe que a aplicação da teoria menor da desconsideração da personalidade jurídica da empresa é justificada pelo mero fato de a personalidade jurídica representar um obstáculo ao ressarcimento de prejuízos causados aos consumidores" (AgInt no AREsp n. 2.205.438/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 13/2/2023, DJe de 16/2/2023).
+5. A executada Santa Quilônia Participações e Empreendimentos Ltda. tem como sócios América Properties Ltda. e Rossi Residencial S.A., sendo os agravantes administradores da empresa. Além disso, figuram como acionistas controladores e membros do conselho de administração da Rossi Residencial S.A. No ponto, registre-se: "deve-se autorizar a desconsideração da personalidade jurídica para atingir patrimônio das demais empresas integrantes do mesmo grupo econômico, bem como de acionista controlador/administrador. ( ) A organização de empresas devedora em sociedade anônima não afasta a incidência do §5º do art. 28 do CDC, com relação aos acionistas controladores" (Acórdão 1358864, 07167365120218070000, Relator: SANDOVAL OLIVEIRA, 2ª Turma Cível, data de julgamento: 28/7/2021, publicado no DJE: 9/8/2021. Pág.: Sem Página Cadastrada). Assim, não tendo havido pagamento voluntário, não nomeados bens à penhora, não localizado patrimônio suficiente das executadas para garantir o cumprimento do objeto da condenação, caracterizado o obstáculo de fato à satisfação do crédito do consumidor, suficiente para subsidiar a desconsideração da personalidade jurídica com base na teoria menor prevista no art. 28, §5º do CDC.
+6. Recurso conhecido e não provido.
+(e-STJ fls. 176)
+Embargos de Declaração: opostos pelos agravantes, foram rejeitados.
+Decisão de admissibilidade do TJDFT: inadmitiu o recurso especial dos agravantes em razão dos seguintes fundamentos:
+i) ausência de negativa de prestação jurisdicional (arts. 489 e 1.022 do CPC);
+ii) quanto ao art. 28, § 5º, do CDC, e aos requisitos necessários à desconsideração da personalidade jurídica, incidência da Súmula 7/STJ, em harmonia ao entendimento desta Corte; e
+iii) incidência da Súmula 83/STJ, considerando a preclusão e coisa julgada da matéria alegada, nos termos do julgado apontado à e-STJ fl. 352.
+Agravo em recurso especial: nas razões do presente recurso, os agravantes alegam, em síntese, que:
+i) estão preenchidos os requisitos de admissibilidade recursal, havendo efetiva negativa de prestação jurisdicional e ofensa aos arts. 489 e 1.022 do CPC, notadamente ante as omissões do acórdão recorrido quanto à homologação do Plano de Recuperação Judicial e à alegação de que não são sócios, afastando-se a decretação da desconsideração da personalidade jurídica com base na Teoria Menor;
+ii) não incide a Súmula 7/STJ no que tange à correta interpretação conferida ao art. 28, §5º, do CDC, sendo viável a revaloração jurídica dos autos; e
+iii) deve ser afastada a incidência da Súmula 83/STJ, pois o entendimento citado não se amolda à hipótese dos autos, em que houve fato novo apto a ilidir a sua aplicação.
+RELATADO O PROCESSO, DECIDE-SE.
+Ao analisar o agravo em recurso especial interposto, verifica-se que as partes agravantes não demonstraram, de maneira consistente, a inaplicabilidade dos seguintes fundamentos:
+i) quanto ao art. 28, § 5º, do CDC, e aos requisitos necessários à desconsideração da personalidade jurídica, incidência da Súmula 7/STJ, em harmonia ao entendimento desta Corte; e
+ii) incidência da Súmula 83/STJ, considerando a preclusão e coisa julgada da matéria alegada, nos termos do julgado apontado à e-STJ fl. 352.
+Nesse passo, os agravantes limitaram-se a tecer alegações meramente genéricas, deixando, pois, de demonstrar o efetivo desacerto da decisão.
+Especificamente quanto à Súmula 83/STJ, a sua impugnação deve ser demonstrada com a indicação de precedentes relativos à tese defendida, contemporâneos ou supervenientes aos referidos na decisão agravada, e com o devido cotejo analítico e similitude fática ao caso tratado nos autos, de forma a demonstrar que outra é a orientação jurisprudencial nesta Corte Superior, o que não houve na espécie.
+Ademais, é firme o entendimento desta Corte no sentido de que, inadmitido o recurso especial pela incidência do enunciado n. 7/STJ, incumbe à parte interessada demonstrar, de forma específica e consistente, a desnecessidade de revolvimento do contexto fático-probatório dos autos.
+Nesse sentido: AgInt nos EDcl no AREsp n. 2.189.780/SP, Terceira Turma, DJe de 31/3/2023; AgInt no AREsp n. 2.199.998/SP, Quarta Turma, DJe de 10/3/2023; AgInt no AREsp n. 2.144.317/RS, Quarta Turma, DJe de 16/2/2023.
+Frise-se ainda que, quanto à Súmula 7/STJ, não basta a mera alegação de que a hipótese prescinde de reexame de provas, alegando a parte agravante genericamente ser a questão de direito ou requerer a revaloração ou a correta aplicação da legislação que entende violada.
+Com efeito, para que o recurso especial seja analisado por esta Corte Superior, o recorrente deve refutar todos os fundamentos que levaram à inadmissão pelo Tribunal de origem. Nesse sentido: AgInt no AREsp 2.292.265/SP, 3ª Turma, DJe de 18/8/2023, e AgInt no AREsp 2.335.547/SP, 4ª Turma, DJe de 11/10/2023.
+Forte nessas razões, NÃO CONHEÇO do agravo em recurso especial, com fundamento no art. 932, III, do CPC.
+Deixo de majorar os honorários na forma do art. 85, §11, do CPC, visto que não foram arbitrados no julgamento do recurso pelo Tribunal local.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar a condenação ao pagamento das penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC.
+Publique-se. Intimem-se.
+EMENTA
