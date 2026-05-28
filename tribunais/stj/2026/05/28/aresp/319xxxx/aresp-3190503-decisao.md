@@ -1,0 +1,48 @@
+DECISÃO
+Examina-se agravo em recurso especial interposto por DIEGO QUIRINO CADETE, JOSE VINICIUS AVELINO DE MEDEIROS, RAFAELA CAVALCANTE SOARES DA COSTA, THAYNA AMORIM MELO, LUDMILLA MORAES DE MELLO LOPES e MAYARA MARIA SALES MONTEIRO, contra decisão que negou seguimento a recurso especial fundamentado, exclusivamente, na alínea "a" do permissivo constitucional.
+Agravo em Recurso especial interposto em: 11/11/2025.
+Concluso ao gabinete em: 20/5/2026.
+Ação: revisional c/c repetição de indébito e exibição de documento, ajuizada por DIEGO QUIRINO CADETE, JOSE VINICIUS AVELINO DE MEDEIROS, RAFAELA CAVALCANTE SOARES DA COSTA, THAYNA AMORIM MELO, LUDMILLA MORAES DE MELLO LOPES e MAYARA MARIA SALES MONTEIRO, em face de APEC - SOCIEDADE POTIGUAR DE EDUCAÇÃO E CULTURA LTDA.
+Sentença: julgou parcialmente procedentes os pedidos, para condenar a parte agravada a reduzir em 15% o valor das mensalidades do curso de medicina prestado à parte agravante, enquanto durar o sistema de aulas remotas (on-line) decorrente do estado pandêmico da COVID-19, impondo-se à parte agravada o ressarcimento dos valores já cobrados de forma supostamente excedente, consignando que a redução imposta poderá ser convertida em perdas e danos, obrigando a parte agravada a restituir à parte agravante a diferença entre o valor da mensalidade adimplido e aquele determinado por ocasião da sentença, montante final a ser corrigidos pelo índice do IPCA, desde o pagamento de cada quantia e acrescido de juros simples de mora de 1% ao mês desde a citação da parte agravada. Por fim, levando em conta a sucumbência mínima da parte agravante, bem como o princípio da causalidade, condenou a parte agravada ao pagamento das custas e dos honorários, os quais foram arbitrados em 10% sobre o proveito econômico obtido na ação (diferença entre as mensalidades originárias e aquelas reduzidas por força da sentença).
+Acórdão: deu provimento à Apelação interposta pela parte agravada, nos termos da seguinte ementa:
+"DIREITO PROCESSUAL CIVIL E CONSUMIDOR. APELAÇÃO CÍVEL. REDUÇÃO DE MENSALIDADES DE CURSO SUPERIOR EM RAZÃO DA PANDEMIA DE COVID-19. INAPLICABILIDADE DE DESCONTOS LINEARES SEM COMPROVAÇÃO DE ONEROSIDADE EXCESSIVA E DESEQUILÍBRIO CONTRATUAL. TESES FIRMADAS NAS ADPF 706/DF E 713/DF PELO STF. RECURSO PROVIDO.
+I. CASO EM EXAME:
+1. Apelação contra sentença que julgou parcialmente procedente a pretensão autoral, determinando a redução de 15% das mensalidades de curso de medicina durante o período de aulas remotas impostas pela pandemia da COVID-19.
+II. QUESTÕES EM DISCUSSÃO:
+2. Alegação de ausência de comprovação de onerosidade excessiva e desproporcionalidade na prestação contratual;
+3. Observância das teses firmadas pelo STF nas ADPFs 706/DF e 713/DF, que vedam a concessão de descontos lineares sem análise individualizada do desequilíbrio contratual.
+III. RAZÕES DE DECIDIR:
+4. A redução de mensalidades de forma linear, com base apenas na transposição das aulas presenciais para o formato virtual, sem comprovação de desequilíbrio contratual ou redução significativa de custos, viola o entendimento firmado pelo STF nas ADPFs 706/DF e 713/DF;
+5. A parte autora não demonstrou a existência de desequilíbrio objetivo no contrato ou a redução de custos operacionais pela instituição de ensino suficiente para justificar a redução pleiteada;
+6. A manutenção de aulas virtuais gerou novas despesas para a instituição, além da continuidade dos custos essenciais, como salários de professores e investimentos tecnológicos;
+7. A jurisprudência do STJ se posiciona no sentido de que a inversão do ônus da prova não dispensa a comprovação mínima, pela parte autora, dos fatos constitutivos do seu direito (AgInt no Resp 1.717.781/RO, Rel. Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 05/06/2018, DJe de 15/06/2018);
+8. Reforma da sentença para julgar improcedente a pretensão inicial.
+IV. DISPOSITIVO E TESE:
+8. Recurso provido.
+Tese de julgamento: "A redução linear de mensalidades de cursos superiores em razão da pandemia de COVID-19 é inaplicável sem a comprovação objetiva de desequilíbrio contratual e de redução significativa de custos pela instituição de ensino, nos termos das teses firmadas pelo STF nas ADPFs 706/DF e 713/DF."
+Dispositivos relevantes citados: CDC, art. 6º, V; CC/02, arts. 478 e 480; CF, art. 206, II.
+Jurisprudência citada: ADPF 706/DF e ADPF 713/DF, rel. Min. Rosa Weber; STJ, AgInt no REsp 1.717.781/RO; TJRN, AC 0816218-41.2021.8.20.5001." (e-STJ fls. 1144-1145)
+Embargos de Declaração: opostos, pela parte agravante, foram rejeitados; opostos, pela parte agravada, foram acolhidos para fixar a base de cálculo dos honorários advocatícios sucumbenciais.
+Recurso especial: alega violação dos arts. 6º, VIII, Lei 8.078/1990, 373, II, § 1º, 374, CPC, sustentando que: i) diante das circunstâncias fáticas e processuais, caberia à parte recorrida demonstrar que manteve os custos para a prestação do serviço remoto e que, após a autorização para a retomada das aulas presenciais, ofereceu a reposição integral da carga horária suprimida do curso ofertado à parte recorrente; e, ii) restou determinada a inversão do ônus probatório, tudo nos termos do art. 6º, VIIII do CDC e a produção de provas pela parte recorrida, porém, ela deixou de trazer aos autos os documentos determinados pelo juízo, de forma que, em sentença, que julgou parcialmente procedente o pleito da parte recorrente, foi destacado que a parte recorrida não se desincumbiu do ônus de comprovar a manutenção dos custos operacionais, muito menos o aumento de despesas, de forma que deveria arcar com o ônus pela sua inação probatória, o que não foi observado pelo TJ/RN; e, iii) caberia à parte recorrida comprovar que após o retorno das aulas presenciais todas as aulas práticas suprimidas foram repostas aos alunos, art. 373, II, CPC, entretanto, ela foi omissa e não comprovou a reposição da carga horária prática suprimida, o que impõe o reconhecimento da onerosidade excessiva dos contratos educacionais diante da cobrança integral das mensalidades sem a prestação integral do serviço.
+RELATADO O PROCESSO, DECIDE-SE.
+- Da fundamentação deficiente
+Os argumentos invocados pela parte agravante não demonstram como o acórdão recorrido violou os arts. 373, II, § 1º, 374, CPC, o que importa na inviabilidade do recurso especial ante a incidência da Súmula 284/STF.
+- Da ausência de prequestionamento
+O acórdão recorrido não decidiu acerca do art. 6º, VIII, Lei 8.078/1990, indicado como violado, apesar da oposição de embargos de declaração.
+Por isso, o julgamento do recurso especial é inadmissível. Aplica-se, na hipótese, a Súmula 211/STJ.
+- Da Súmula 126/STJ
+No que se refere aos descontos lineares das mensalidades, o acórdão recorrido decidiu também com base em fundamento constitucional. Recurso extraordinário, todavia, não foi interposto, o que impede o exame do recurso especial.
+- Do reexame de fatos e provas e da interpretação de cláusulas contratuais
+Alterar o decidido no acórdão impugnado, no que se refere ao fato de que "a inversão do ônus da prova não dispensa a comprovação mínima, pela parte agravante, dos fatos constitutivos do seu direito e, na hipótese, a parte agravante não logrou em comprovar a onerosidade excessiva", bem como de que "a tão só alegação de alteração das aulas presenciais para aulas telepresenciais não possui o condão de caracterizar a necessária prestação desproporcional que autorize alterar os termos do contrato", assim também de que "observando os argumentos apresentados, bem como os documentos que compõem os presentes autos, infere-se pela impossibilidade da redução das mensalidades diante da falta de pressupostos objetivos que permitam concluir sobre a ocorrência de significativa redução de custos pela parte agravada, suficiente a ensejar os descontos vindicados", exige o reexame de fatos e provas e a interpretação de cláusulas contratuais, o que é vedado em recurso especial pelas Súmulas 5 e 7, ambas do STJ.
+Forte nessas razões, CONHEÇO do agravo e, com fundamento no art. 932, III, do CPC, NÃO CONHEÇO do recurso especial.
+Nos termos do art. 85, § 11, do CPC, considerando o trabalho adicional imposto ao advogado da parte agravada em virtude da interposição deste recurso, majoro os honorários fixados anteriormente em mais 5%.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar a condenação às penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO REVISIONAL C/C REPETIÇÃO DE INDÉBITO E EXIBIÇÃO DE DOCUMENTO. FUNDAMENTAÇÃO. AUSENTE. DEFICIENTE. SÚMULA 284/STF. PREQUESTIONAMENTO. AUSÊNCIA. SÚMULA 211/STJ. FUNDAMENTO CONSTITUCIONAL. AUSÊNCIA DE INTERPOSIÇÃO DE RECURSO EXTRAORDINÁRIO. REEXAME DE FATOS E PROVAS E INTERPRETAÇÃO DE CLÁUSULAS CONTRATUAIS. INADMISSIBILIDADE.
+1. Ação revisional c/c repetição de indébito e exibição de documento.
+2. A ausência de fundamentação ou a sua deficiência importa no não conhecimento do recurso quanto ao tema.
+3. A ausência de decisão acerca do dispositivo legal indicado como violado, não obstante a oposição de embargos de declaração, impede o conhecimento do recurso especial.
+4. O recurso especial é inadmissível, quando o acórdão recorrido decide também com base em fundamento constitucional e a parte vencida não interpõe recurso extraordinário. Súmula 126/STJ.
+5. O reexame de fatos e provas e a interpretação de cláusulas contratuais em recurso especial são inadmissíveis.
+6. Agravo conhecido. Recurso especial não conhecido.
