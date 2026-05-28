@@ -1,0 +1,22 @@
+DECISÃO
+Trata-se de recurso ordinário em habeas corpus interposto por DANIEL CARLOS PEREIRA, contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE MATO GROSSO DO SUL.
+Depreende-se dos autos que o recorrente foi pronunciado pela prática do crime previsto no artigo 121, § 2.º, incisos II e IV, do Código Penal (homicídio qualificado).
+Irresignada, a defesa impetrou habeas corpus perante o Tribunal de origem que denegou a ordem, em acórdão de fls. 268-274.
+No presente recurso, a Defesa aponta a ocorrência de constrangimento ilegal consubstanciado no direito do recorrente de prisão domiciliar em razão da precariedade da saúde mental do recorrente.
+Requer, ao final, a revogação da prisão preventiva pela prisão domiciliar.
+Sem pedido de liminar.
+O Ministério Público Federal se manifestou, às fls. 317-320, pelo "desprovimento do recurso ordinário"
+É o relatório. DECIDO.
+Quanto a alegação da necessidade da prisão domiciliar em razão da saúde mental do recorrente, o tribunal a quo ressaltou que:
+"No caso concreto, não obstante os esforços defensivos empreendidos em sentido contrário, não se verifica a existência de ilegalidade, abuso de poder ou teratologia no indeferimento do pedido de substituição da prisão preventiva pela prisão domiciliar. Consoante devidamente consignado pela autoridade apontada como coatora, o paciente vem recebendo acompanhamento psiquiátrico regular no estabelecimento prisional, com a realização de atendimentos médicos periódicos, uso de medicação controlada e suporte psicológico compatível com o quadro clínico apresentado, inexistindo nos autos elementos objetivos capazes de demonstrar risco concreto e atual à sua integridade física ou psíquica. Ademais, os documentos médicos colacionados não evidenciam estado de extrema debilidade, tampouco indicam a imprescindibilidade de tratamento domiciliar, limitando-se a apontar a necessidade de acompanhamento contínuo, o qual, conforme informado, vem sendo adequadamente prestado no ambiente carcerário. Não há, portanto, comprovação de que o tratamento necessário seja incompatível com o regime de custódia, ou que o estabelecimento prisional seja incapaz de fornecer os cuidados médicos recomendados"- fl. 273.
+Ir contrário a esse entendimento demandaria revolvimento fático- probatório inviável na via estreita do habeas corpus.
+Nesse sentido:
+"A verificação acerca do estado de saúde do agravante, para fins de concessão de prisão domiciliar, nos termos do art. 318, II, do CPP, demandaria detido e profundo revolvimento fático-probatório, o que é inviável na via do habeas corpus"(AgRg no HC n. 891.325/SP, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 29/4/2024, DJe de 3/5/2024.)
+Ademais, é firme a jurisprudência deste Tribunal Superior no sentido de que o deferimento da substituição da prisão preventiva por prisão domiciliar, nos termos do art. 318, inciso II, do Código de Processo Penal, depende da comprovação inequívoca de que a réu esteja extremamente debilitado, por motivo de grave doença aliada à impossibilidade de receber tratamento no estabelecimento prisional em que se encontra, o que não ocorreu nos autos, uma vez que, segundo o acórdão impugnado: o recorrente "vem recebendo acompanhamento psiquiátrico regular no estabelecimento prisional, com a realização de atendimentos médicos periódicos, uso de medicação controlada e suporte psicológico compatível com o quadro clínico apresentado, inexistindo nos autos elementos objetivos capazes de demonstrar risco concreto e atual à sua integridade física ou psíquica"- fl.273.
+Ilustrativamente:
+"A concessão de prisão domiciliar humanitária exige comprovação da gravidade do estado de saúde e da impossibilidade de tratamento adequado no sistema prisional" (AgRg no HC n. 1.029.777/SP, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 15/10/2025, DJEN de 22/10/2025.)
+"O pedido de prisão domiciliar foi corretamente indeferido, ante a ausência de comprovação da debilidade extrema da saúde da paciente ou da impossibilidade de tratamento no cárcere, nos termos do art. 318, II, do Código de Processo Penal"(AgRg no HC n. 1.019.177/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 8/10/2025, DJEN de 15/10/2025.)
+Diante de tais considerações, portanto, não se vislumbra a existência de qualquer flagrante ilegalidade passível de ser sanada.
+Ante o exposto, nego provimento ao recurso ordinário em habeas corpus.
+Pu blique-se. Intimem-se.
+EMENTA
