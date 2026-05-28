@@ -1,0 +1,66 @@
+DECISÃO
+
+Habeas corpus. Tráfico de drogas e associação para o tráfico. Nulidades. Pleito de absolvição. Dosimetria. Regime prisional. Inviabilidade de habeas corpus empregado como sucedâneo de recurso ou revisão criminal. Não conhecimento de habeas corpus empregado para o reexame dos pressupostos de admissibilidade do recurso interposto perante Superior Tribunal de Justiça. Supressão de instância. Negativa de seguimento.
+
+Trata-se de habeas corpus, com pedido de liminar, impetrado em favor de Elias Alves da Silva contra acórdão do Superior Tribunal de Justiça, que negou provimento ao agravo regimental no AREsp 3.126.642/SP (evento 7).
+
+O paciente foi condenado à pena de 12 anos e 5 meses de reclusão, em regime inicial fechado, pela prática dos crimes de tráfico de drogas e associação para o tráfico, previstos no art. 33,  caput, c/c o art. 40, VI, e art. 35 c/c o art. 40, VI, todos da Lei n.º 11.343/2006, na forma do art. 69 do Código Penal (evento 4).
+
+No presente writ, a defesa sustenta a nulidade da medida de busca domiciliar, porquanto fundamentada exclusivamente em denúncia anônima. Alega nulidade por cerceamento de defesa, tendo em vista que laudo de degravação foi juntado aos autos trinta minutos antes da audiência, “de forma que, quando do interrogatório, ao paciente não foi dado tempo hábil para se cientificar do conteúdo de elemento de prova em seu desfavor”. Aponta quebra da cadeia de custódia, haja vista que “foi o próprio policial participante da diligência o responsável pela degravação de 8 (oito) celulares, colando apenas prints das supostas conversas, sem nenhum compromisso com a técnica necessária”. Defende a absolvição do paciente em relação ao delito de associação para o tráfico, diante da inexistência de elementos comprobatórios de animus associativo e de vínculo estável e permanente entre os acusados. Salienta a ausência de fundamentação idônea para a exasperação da pena-base em 1/3 acima do mínimo legal, considerando a valoração de apenas uma circunstância judicial desfavorável. Aduz estarem preenchidos os requisitos para a aplicação da minorante prevista no artigo 33, § 4º, da Lei nº 11.343/2006, no patamar máximo. Assevera que o paciente é primário, não possui antecedentes e exerce ocupação lícita. Pontua ser indevida a majoração da pena pela agravante prevista no artigo 40, VI, da Lei nº 11.343/2006, posto que “não há comprovação de que o adolescente esteja envolvido nos fatos com habitualidade e divisão de tarefas, ou seja, que haja um vínculo associativo para a prática do tráfico”. Ressalta a possibilidade da fixação de regime prisional mais brando e da substituição da pena privativa de liberdade por restritiva de direitos, “à vista da primariedade e demais condições pessoais favoráveis do recorrente”. Requer, em medida liminar, a imediata suspensão do cumprimento da pena até o julgamento de mérito do presente habeas corpus. No mérito, pugna pela absolvição do paciente e, sucessivamente, pelo reconhecimento da redutora prevista no art. 33, § 4º, da Lei nº 11.343/2006, com a modificação do regime inicial de cumprimento da pena.
+
+É o relatório. Decido.
+
+O ato apontado como coator restou assim ementado (evento 7):
+
+“PENAL E PROCESSUAL PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. RECURSO ESPECIAL INADMITIDO NA ORIGEM. AUSÊNCIA DE IMPUGNAÇÃO SUFICIENTE. NÃO CONHECIMENTO DO AGRAVO EM RECURSO ESPECIAL. DECISÃO MANTIDA. AGRAVO REGIMENTAL IMPROVIDO.
+1. O não conhecimento do agravo em recurso especial se deveu à ausência de impugnação suficiente dos fundamentos da decisão do Tribunal de origem que não admitiu o recurso especial, o que atrai a incidência da Súmula n. 182 do STJ, por não atendimento da necessária dialeticidade recursal.
+2. O STJ entende que "na via [estreita] do recurso especial, é descabida a análise da alegação de ofensa a dispositivos ou princípios constitucionais, ainda que para fins de prequestionamento" (EDcl no AgRg no AREsp n. 2.254.533/MG, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 15/8/2023, DJe de 22/8/2023).
+3. Sendo o prequestionamento um requisito de admissibilidade dos recursos excepcionais, não se pode conhecer do recurso especial quando não atendida a exigência, nos termos das Súmulas n. 282 e 356 do STF e 211 do STJ.
+4. Inadmitido o recurso especial por aplicação da Súmula n. 83 do STJ, "é necessário que a parte comprove que o entendimento desta Corte Superior destoa da conclusão a que chegou o Tribunal de origem ou que o caso dos autos seria distinto daqueles veiculados nos precedentes mediante distinguishing, o que não ocorreu na hipótese" (AgRg no AgRg no AREsp n. 2.278.302/SP, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 26/9/2023, DJe de 3/10/2023).
+5. As razões do agravo regimental não modificam a conclusão da decisão recorrida, uma vez que, no agravo em recurso especial, não se constata o enfrentamento suficiente dos fundamentos adotados pelo Tribunal de origem para inadmitir o recurso especial.
+6. Agravo regimental improvido.
+
+De início, cabe destacar a inviabilidade de utilização do writ como sucedâneo recursal ou revisão criminal (HC 232.539-AgR, Rel. Min. Cármen Lúcia, Primeira Turma, DJe 19.10.2023; HC 233.932-AgR, Rel. Min. Edson Fachin, Segunda Turma, DJe 02.02.2024; HC 225.089-AgR, Rel. Min. Dias Toffoli, Primeira Turma, DJe 13.4.2023).
+
+Além disso, a autoridade dita coatora enfatizou que:
+
+“(...)
+A pretensão recursal não pode ser acolhida, pois os argumentos trazidos no agravo regimental não demonstram desacerto da decisão que não conheceu do agravo em recurso especial.
+Conforme constou na decisão agravada, a inadmissão do recurso especial pelo Tribunal de origem teve por fundamentos: a) inadequação da via eleita quanto à “contrariedade à Constituição”; b) deficiência de fundamentação à luz do art. 1.029 do Código de Processo Civil – CPC, por não atacar todos os fundamentos do acórdão (Súmula n. 283 do STF); c) ausência dos requisitos da alínea c do art. 105, III, da Constituição Federal, por falta de cotejo analítico e de prova formal da divergência (art. 1.029, § 1º, do CPC; art. 255, § 1º, do Regimento Interno do Superior Tribunal de Justiça – RISTJ); d) incidência da Súmula n. 7 do STJ, pois a pretensão demanda reexame do acervo fáticoprobatório; e e) óbice da Súmula n. 83 do STJ, quanto à inviabilidade de aplicação do redutor do art. 33, § 4º, da Lei n. 11.343/2006 a quem também foi condenado pelo art. 35 da mesma lei (fls. 1.214-1219).
+Por seu turno, a análise das razões do agravo em recurso especial confirma que não houve enfrentamento suficiente de todos os fundamentos referidos, não bastando para tanto que a parte recorrente mencione cada um deles, pois, para atendimento do princípio da dialeticidade, devem ser demonstradas, de modo específico e concreto, quais seriam as razões pelas quais a decisão recorrida deveria ser reformada.
+O agravante alegou expressamente violação de texto constitucional em sua petição de recuso especial, como se verifica (fls. 952-988, grifei):
+(...)
+A inadmissão por esse óbice foi rebatida com alegações genéricas de que a decisão que inadmitiu o recurso especial teria sido "demasiadamente abstrata e genérica, a ponto de sequer indicar qual dispositivo constitucional teria sido supostamente afrontado pelo recurso interposto" (fl. 1.248), o que não afasta o óbice ao conhecimento do recurso e do agravo, porquanto, "a via [estreita] do recurso especial, é descabida a análise da alegação de ofensa a dispositivos ou princípios constitucionais, ainda que para fins de prequestionamento" (EDcl no AgRg no AREsp n. 2.254.533/MG, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 15/8/2023, DJe de 22/8/2023).
+Dessa forma, não se pode conhecer do agravo quanto às alegações de cerceamento de defesa e de excesso na dosimetria da pena.
+O segundo óbice que impede o conhecimento do agravo, pois não foi devidamente rechaçado, é a ausência de prequestionamento, porquanto o acórdão recorrido não apreciou as questões deduzidas no recurso especial à luz dos arts. 3º, 156, 157, 158-B, 240 e seguintes e 386, VII, do CPP; 10 do CPC; 33, § 2º, b, e 44 do Código Penal, que nem sequer foram mencionados no acórdão, não tendo sido opostos embargos de declaração, o que impede o conhecimento do recurso também quanto às alegações relativas à busca domiciliar, à dosimetria, às nulidades por cerceamento de defesa e à quebra da cadeia de custódia.
+Com efeito, o prequestionamento é um dos requisitos de admissibilidade do recurso especial e consiste na necessidade de a questão alegada no recurso ter sido expressamente apreciada pelo Tribunal de origem.
+Sobre o tema, confiram-se as seguintes súmulas:
+Súmula n. 282 do STF: É inadmissível o recurso extraordinário, quando não ventilada, na decisão recorrida, a questão federal suscitada.
+Súmula n. 356 do STF: O ponto omisso da decisão, sobre o qual não foram opostos embargos declaratórios, não pode ser objeto de recurso extraordinário, por faltar o requisito do prequestionamento.
+Súmula n. 211 do STJ: Inadmissível recurso especial quanto à questão que, a despeito da oposição de embargos declaratórios, não foi apreciada pelo Tribunal a quo.
+A propósito, é pacífico o entendimento do Superior Tribunal de Justiça de que, "para atender ao requisito do prequestionamento, é necessário que a questão haja sido objeto de debate pelo Tribunal de origem, à luz da legislação federal indicada, com emissão de juízo de valor acerca do dispositivo legal apontado como violado" (REsp n. 1.998.033/PB, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 8/10/2024, DJe de 14/10/2024).
+Em semelhante sentido, citam-se:
+(...)
+Segundo a orientação do Superior Tribunal de Justiça, "a superação da Súmula n. 83, STJ, exige a indicação de precedentes contemporâneos ou supervenientes capazes de alterar [...] o julgado, ou a demonstração de distinguishing, o que não ocorreu no caso dos autos" (AgRg no AREsp n. 2.543.587/PR , relator Ministro Messod Azulay Neto, Quinta Turma, julgado em 27/8/2024, DJe de 30/8/2024).
+Não demonstrada tal circunstância nas razões do agravo em recurso especial ou sendo apenas afirmado que, no recurso especial, houve a citação de precedentes, constata-se acerto da decisão de inadmissão proferida na origem. Nesse sentido (destaquei):
+(...)
+Ressalte-se que, para atendimento do princípio da dialeticidade recursal, estabelece a lei processual (CPC, art. 932, III) que "[...] não se conhecerá do agravo em recurso especial que 'não tenha impugnado especificamente todos os fundamentos da decisão recorrida'", devendo a impugnação "[...] ser realizada de forma efetiva, concreta e pormenorizada, não sendo suficientes alegações genéricas ou relativas ao mérito da controvérsia" (AgInt no AREsp n. 2.212.676/SP, relator Ministro Humberto Martins, Terceira Turma, julgado em 4/9/2023, DJe de 6/9/2023).
+Em situações semelhantes, observa-se o que já decidiu o Superior Tribunal de Justiça (destaquei):
+(...)
+Ante o exposto, nego provimento ao agravo regimental.”
+
+Nesse contexto, a jurisprudência desta Suprema Corte é no sentido do não cabimento do habeas corpus para o reexame dos pressupostos de admissibilidade de recurso manejado perante outros tribunais. Nesse sentido, “O objeto da tutela em habeas corpus é a liberdade de locomoção quando ameaçada por ilegalidade ou abuso de poder (CF, artigo 5º, LXVIII), não cabendo sua utilização quando indissociável do reexame de pressupostos de admissibilidade de recursos de outros tribunais” (HC 229.505-AgR, Rel. Min. Luiz Fux, Primeira Turma, DJe 31.8.2023). Outros precedentes: HC 216.511-AgR, Rel. Min. Rosa Weber, Primeira Turma, DJe 31.8.2022; HC 233.656-AgR, Rel. Min. Edson Fachin, Segunda Turma, DJe 05.02.2024; HC 234.007-AgR, Rel. Min. Cristiano Zanin, Primeira Turma, DJe 07.12.2023.
+
+Ademais, na linha da jurisprudência desta Suprema Corte, “a decisão pela qual se inadmite recurso especial por ausência de impugnação específica, com aplicação da Súmula nº 182/STJ, não traduz ilegalidade nem ameaça à liberdade de locomoção, razão pela qual não enseja análise na via do habeas corpus” (HC 261.045-AgR, Rel. Min. André Mendonça, Segunda Turma, DJe 06.11.2025); e “As questões suscitadas nesta impetração não foram enfrentadas pelo Órgão colegiado do Superior Tribunal de Justiça, que se limitou a não conhecer do recurso, em razão da incidência da Súmula 182 daquele Tribunal. Desse modo, torna-se inviável a esta SUPREMA CORTE conhecer delas originariamente, sob pena de indevida supressão de instância e violação das regras constitucionais de repartição de competências” (HC 262.754-AgR, Rel. Min. Alexandre de Moraes, Primeira Turma, DJe  06.11.2025).
+
+De outro lado, à falta de pronunciamento judicial conclusivo pela Corte Superior quanto às teses defensivas, inviável a análise do writ pelo Supremo Tribunal Federal, sob pena de indevida supressão de instância (RHC 234.949-AgR, Rel. Min. Cármen Lúcia, Primeira Turma, DJe 07.02.2024; HC 235.318-AgR, Rel. Min. Luiz Fux, Primeira Turma, DJe  06.02.2024; HC 232.537-AgR, Rel. Min. Gilmar Mendes, Segunda Turma, DJe 07.12.2023).
+
+Ante o exposto, nego seguimento ao presente habeas corpus (art. 21, § 1º, RISTF).
+
+Publique-se.
+
+Brasília, 28 de maio de 2026.
+
+Ministro FLÁVIO DINO
+Relator
+Documento assinado digitalmente
