@@ -1,0 +1,32 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por JEAN GOULARTE DE AGUIAR contra decisão que inadmitiu o recurso especial na origem, com base na súmula 7 do STJ (fls. 206-208).
+Na origem, o agravante teve o pedido de justiça gratuita indeferido, ante a ausência de comprovação de hipossuficiência (fls. 101-108). Em sede de apelação o entendimento foi mantido (fls. 166-169), assim como em embargos de declaração (fls. 186-188).
+A defesa interpôs recurso especial, com fundamento no art. 105, inciso III, alínea "a", da Constituição Federal, buscando a concessão do benefício (fls. 192-199), o qual foi inadmitido devido à incidência da Súmula n. 7, STJ (fls. 206-208).
+Nas razões do agravo em recurso especial, a defesa sustenta a desnecessidade de reexame do conjunto fático-probatório (fls. 210-221).
+O Ministério Público Federal opinou pelo provimento do recurso, ante a presunção de hipossuficiência com a apresentação de declaração da parte (fls. 243-249).
+É o relatório. DECIDO.
+Tendo em vista os argumentos apresentados pela parte agravante para refutar os fundamentos da decisão de admissibilidade da origem, conheço do agravo e passo a examinar o recurso especial.
+Busca o recorrente, em sede de recurso especial, a concessão do benefício da gratuidade da justiça.
+Consta dos autos, ao contrário do afirmado em sentença e apelação, a existência de documento que, contudo, apenas em tese, demonstraria a hipossuficiência da parte: juntada de declaração de hipossuficiência (fls. 95 e 135).
+A origem indeferiu o benefício, ante a inexistência de maiores diligências pela defesa.
+Neste sentido:
+PROCESSUAL CIVIL. GRATUIDADE DA JUSTIÇA. BENEFÍCIO PLEITEADO POR PESSOA NATURAL. ACESSO À JUSTIÇA. REQUISITO DA INSUFICIÊNCIA DE RECURSOS. AFERIÇÃO COM BASE NAS CIRCUNSTÂNCIAS DO CASO CONCRETO. DECLARAÇÃO DE HIPOSSUFICIÊNCIA ECONÔMICA. PRESUNÇÃO RELATIVA DE VERACIDADE. PARÂMETROS OBJETIVOS. IMPOSSIBILIDADE DE INDEFERIMENTO DE PLANO DO PEDIDO DE GRATUIDADE. CARÁTER MERAMENTE SUPLEMENTAR. NECESSIDADE DE INTIMAÇÃO DA PARTE REQUERENTE. OPORTUNIDADE DE COMPROVAR A NECESSIDADE DE DEFERIMENTO DO BENEFÍCIO. JULGAMENTO SUBMETIDO AO RITO DOS RECURSOS REPETITIVOS.
+1. A análise das normas que regulamentam a gratuidade judiciária tem por premissa interpretativa a finalidade para a qual foi estabelecido o referido instituto, qual seja, afastar a escassez de recursos como fator de exclusão do acesso à justiça.
+2. O benefício da justiça gratuita depende de requerimento formulado ao juiz da causa e não se relaciona com a demonstração da plausibilidade do direito vindicado na demanda. Está atrelado, exclusivamente, à insuficiência de recursos para o pagamento das despesas processuais.
+3. O Código de Processo Civil adotou parâmetro abstrato de elegibilidade para a gratuidade judiciária, pois não detalhou como será avaliada a condição de hipossuficiência econômica, tampouco os meios para sua comprovação. Há apenas a utilização da expressão aberta "insuficiência de recursos" e a indicação de que o benefício será conferido na forma da lei.
+4. Cumpre ao magistrado analisar as condições econômicas e financeiras da parte postulante da justiça gratuita com base nas peculiaridades do caso concreto. Não há amparo legal para sujeitar-se o deferimento do benefício à observância de determinados requisitos objetivos preestabelecidos judicialmente.
+ ..  8. A jurisprudência do Superior Tribunal de Justiça, seja sob a égide da Lei n. 1.060/1950, seja à luz da regulamentação introduzida pelo atual Código de Processo Civil, tem sido firme quanto à impossibilidade de utilização de parâmetros objetivos para o exame do pedido de justiça gratuita. Da mesma forma, também está consolidado o entendimento jurisprudencial a respeito da presunção relativa (iuris tantum) de veracidade da declaração de pobreza formulada por pessoa natural. Essa orientação deve ser ratificada neste precedente qualificado para que não seja autorizada a adoção exclusiva de critérios objetivos para a aferição da hipossuficiência econômica no exame do pedido de gratuidade judiciária.
+9. Por outro lado, são razoáveis as preocupações relacionadas ao ajuizamento de lides temerárias a sobrecarregar o funcionamento do Poder Judiciário. Nesse particular, a concessão indiscriminada do benefício da justiça gratuita com base na simples declaração de hipossuficiência poderia, em tese, contribuir para a utilização abusiva desse direito, comprometendo o próprio princípio de acesso à justiça, sob o viés da efetividade da tutela jurisdicional.
+10. É possível a utilização de parâmetros objetivos tão somente em caráter suplementar, isto é, não servindo para o indeferimento de plano do pedido de gratuidade, mas para justificar o procedimento previsto no art. 99, § 2º, do CPC, permitindo que o juiz intime a parte requerente a comprovar a situação de miserabilidade jurídica perante o caso concreto.
+11. Firmam-se, portanto, as seguintes teses jurídicas:
+i) É vedado o uso de critérios objetivos para o indeferimento imediato da gratuidade judiciária requerida por pessoa natural.
+ii) Verificada a existência nos autos de elementos aptos a afastar a presunção de hipossuficiência econômica da pessoa natural, o juiz deverá determinar ao requerente a comprovação de sua condição, indicando de modo preciso as razões que justificam tal afastamento, nos termos do art. 99, § 2º, do CPC.
+iii) Cumprida a diligência, a adoção de parâmetros objetivos pelo magistrado pode ser realizada em caráter meramente suplementar e desde que não sirva como fundamento exclusivo para o indeferimento do pedido de gratuidade.
+12. Solução do caso concreto: a pretensão trazida pela autarquia previdenciária não merece acolhida, pois contraria expressa previsão legal e o entendimento desta Corte Superior a respeito da impossibilidade de indeferimento do pedido de gratuidade judiciária apenas em razão do rendimento mensal auferido pela parte requerente.
+13. Recurso especial improvido.
+14. Recurso julgado sob a sistemática dos arts. 1.036 e seguintes do CPC; e 256-N e seguintes do Regimento Interno do Superior Tribunal de Justiça (REsp n. 1.988.686/RJ, relator Ministro Og Fernandes, Corte Especial, julgado em 17/9/2025, DJEN de 18/3/2026, grifei.)
+Nesse contexto, não há como se aferir a necessidade de gratuidade de justiça neste momento (Súmula n. 7, STJ).
+Ademais, o pedido poderá ser mais bem apreciado pelo juízo da execução penal.
+Ante o exposto, conheço do agravo para negar provimento ao recurso especial.
+Publique-se. Intimem-se.
+EMENTA
