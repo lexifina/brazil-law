@@ -1,0 +1,36 @@
+DECISÃO
+Cuida-se de Agravo apresentado por FORCASA INCORPORAÇÃO IMOBILIÁRIA E EMPREENDIMENTOS LTDA e OUTROS à decisão que não admitiu seu Recurso Especial.
+O apelo, fundamentado no artigo 105, III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, assim resumido:
+DIREITO EMPRESARIAL. AGRAVO DE INSTRUMENTO. DESCONSIDERAÇÃO DA PERSONALIDADE JURÍDICA. RECURSO DESPROVIDO.
+I. Caso em Exame Agravo de instrumento interposto contra decisão que deferiu o incidente de desconsideração da personalidade jurídica. A agravante alega que a desconsideração foi decretada após uma única satisfação do débito, sem evidências de ocultação patrimonial.
+II. Questão em Discussão A questão em discussão consiste em verificar se há elementos suficientes para justificar a desconsideração da personalidade jurídica da empresa executada.
+III. Razões de Decidir A decisão agravada baseou-se na declaração de insolvência da pessoa jurídica e no transcurso in albis do prazo para pagamento ou impugnação, sugerindo ocultação de patrimônio. A executada não indicou patrimônio suficiente para satisfazer o débito, corroborando a decisão de desconsideração da personalidade jurídica.
+IV. Dispositivo e Tese Tese de julgamento: 1. A desconsideração da personalidade jurídica é justificada pela insolvência e ausência de patrimônio indicado pela executada. 2. A ocultação patrimonial é evidenciada pela falta de pagamento ou impugnação.
+Recurso improvido.
+Quanto à controvérsia, pela alínea "a" do permissivo constitucional, a parte recorrente aduz negativa de vigência ao art. 1.024 do Código Civil, no que concerne à necessidade de afastamento da desconsideração da personalidade jurídica, em razão de não ter sido exaurida a execução dos bens sociais. Argumenta que:
+Inicialmente, nos termos do art. 98 do Código de Processo Civil, este Requerente pugna pela concessão dos benefícios da Justiça Gratuita, uma vez que não possui condições financeiras de arcar com as custas processuais e honorários advocatícios sem prejuízo do seu próprio sustento e de sua família. (fl. 45)
+ ..
+Cabe destacar Excelências que, a demanda original que ora se submete ao crivo desta corte, consiste em Ação De Indenização por Danos Morais, proposta por esta Recorrida em face da Recorrente, a construtora Novo Horizonte Incorporadora SPE LTDA, onde a empresa foi inicialmente condenada ao pagamento de indenização por dano moral no importe de R$ 8.000,00 (oito mil reais), com correção monetária e juros de mora.
+ ..
+Porém, conforme foi argumentado em momento oportuno, inexistem por completo os requisitos capazes de possibilitarem a desconsideração da personalidade jurídica, porquanto inexistentes quaisquer abusos de personalidade jurídica ou mesmo de desvio/confusão patrimonial, além disso, a Recorrida desta ação bombardeou sua peça inicial com diversas alegações totalmente sem fundamentos e sem qualquer conexão com o artigo 28 do Código de Defesa do Consumidor, entretanto, o prosseguimento do incidente de desconsideração de personalidade jurídica foi deferido de forma errônea e indevida.
+ ..
+Excelentíssimos, conforme exposto anteriormente, trata-se de uma ação de indenização por danos morais, na qual as Recorrentes foram condenadas ao pagamento da quantia de R$ 8.000,00 (oito mil reais) decorrente da ação principal. Diante disso, iniciou-se o cumprimento provisório da sentença e, após uma única tentativa infrutífera de recebimento do débito, foi indevidamente deferido o Incidente de Desconsideração da Personalidade Jurídica.
+ ..
+Além disso, as partes Recorridas não demonstraram, de forma clara e objetiva, os requisitos indispensáveis para a desconsideração da personalidade jurídica, como a insolvência da empresa executada, a confusão patrimonial, o abuso da personalidade jurídica, a ocultação ou dilapidação de bens, ou qualquer obstáculo à satisfação do crédito por parte das Recorrentes. Também não se esgotaram os bens da executada, que seriam suficientes para quitar a dívida.
+Excelências, é claro que a argumentação apresentada pela Recorrida não é mais do que suposições, uma vez que esta NÃO CONSEGUIU APRESENTAR NENHUMA PROVA CONCRETA que sustentasse suas alegações!
+ ..
+A responsabilidade deve ser atribuída, de fato, quando a empresa se encontra insolvente, ou seja, sem patrimônio suficiente para garantir suas obrigações. Nos autos do cumprimento de sentença, não se observa qualquer tentativa de localizar bens imóveis da executada, evidenciando que as Recorridas buscam evitar o processo regular de execução, tentando atribuir responsabilidade a uma pessoa jurídica estranha à lide.
+ ..
+Diante disso, fica claro que não estão presentes os requisitos necessários para justificar a decisão impugnada, que não pode ser concedida de maneira vaga e imprecisa, especialmente sem a indicação concreta da relação da Recorrente com o suposto "Grupo Econômico", nem a especificação das condutas que teriam frustrado a satisfação do crédito das partes Recorridas. (fl. 52)
+É o relatório.
+Decido.
+Quanto à controvérsia, o Tribunal a quo se manifestou nos seguintes termos:
+A decisão agravada considerou para a desconsideração da personalidade jurídica, a declaração de insolvência da pessoa jurídica executada em processo em trâmite na mesma Comarca, além do transcurso in albis do prazo para pagamento ou impugnação.
+A decisão está bem fundamentada e amparada em elementos que sugerem a ocultação de patrimônio para inviabilizar o pagamento a credores.
+Além disso, não houve indicação pela executada de patrimônio capaz de satisfazer o débito perseguido em sede de embargos de terceiro. (fl. 40)
+Assim, incide a Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), porquanto o acolhimento da pretensão recursal demandaria o reexame do acervo fático-probatório juntado aos autos.
+Nesse sentido: AgInt no REsp n. 2.113.579/MG, relatora Ministra Maria Isabel Gallotti, Quarta Turma, DJEN de 27/3/2025; AgInt no AREsp n. 2.691.829/SP, relator Ministro Sérgio Kukina, Primeira Turma, DJEN de 28/3/2025; AREsp n. 2.839.474/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJEN de 26/3/2025; AgInt no REsp n. 2.167.518/RS, relatora Ministra Nancy Andrighi, Terceira Turma, DJEN de 27/3/2025; AgRg no AREsp n. 2.786.049/SP, relator Ministro Messod Azulay Neto, Quinta Turma, DJEN de 26/3/2025; AgRg no AREsp n. 2.753.116/RN, relator Ministro Sebastião Reis Júnior, Sexta Turma, DJEN de 25/3/2025; AgInt no REsp n. 2.185.361/CE, relatora Ministra Regina Helena Costa, Primeira Turma, DJEN de 28/3/2025; AgRg no REsp n. 2.088.266/MG, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, DJEN de 25/3/2025; AREsp n. 1.758.201/AM, relatora Ministra Maria Thereza de Assis Moura, Segunda Turma, DJEN de 27/3/2025; AgInt no AREsp n. 2.643.894/DF, relator Ministro Raul Araújo, Quarta Turma, DJEN de 31/3/2025; AgInt no AREsp n. 2.636.023/RS, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, DJEN de 28/3/2025; AgInt no REsp n. 1.875.129/PE, relator Ministro Paulo Sérgio Domingues, Primeira Turma, DJEN de 21/3/2025.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do Agravo para não conhecer do Recurso Especial.
+Publique-se.
+Intimem-se.
+ EMENTA
