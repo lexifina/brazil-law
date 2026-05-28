@@ -1,0 +1,68 @@
+DECISÃO
+Trata-se de agravo interposto contra decisão que inadmitiu o recurso especial na origem com fundamento no(s) óbice(s) da(s) Súmula(s) n. 7 do STJ.
+Segundo a parte agravante, o recurso preenche os requisitos necessários ao conhecimento e provimento.
+Intimada nos termos do art. 1.042, § 3º, do Código de Processo Civil (CPC), a parte agravada afirmou a inexistência de requisitos ou elementos aptos a promover a alteração do julgado impugnado.
+É o relatório.
+DECIDO.
+O agravo é tempestivo, nos termos do art. 1.003, § 5º, do Código de Processo Civil, encontra-se formalmente em ordem e impugnou específica e suficientemente os óbices invocados pela decisão de inadmissibilidade na origem, razão pela qual passo ao exame do recurso especial, que foi interposto com fundamento no art. 105, inciso III, alíneas "a", da Constituição Federal, contra acórdão assim ementado (fls. 294/295):
+EMENTA: DIREITO PROCESSUAL CIVIL. AGRAVO DE INSTRUMENTO. EMBARGOS À EXECUÇÃO. CÉDULA DE CRÉDITO BANCÁRIO. LIQUIDEZ, CERTEZA E EXIGIBILIDADE DO TÍTULO. RELAÇÃO CONSUMERISTA. INVERSÃO DO ÔNUS DA PROVA. IMPOSSIBILIDADE. RECURSO DESPROVIDO.
+I. CASO EM EXAME Agravo de instrumento interposto por Madereira Belato e Pagani Ltda - EPP e outros contra decisão proferida nos autos de embargos à execução ajuizados em face de Itaú Unibanco S.A. A decisão agravada rejeitou a preliminar de inépcia da petição inicial e indeferiu o pedido de aplicação do Código de Defesa do Consumidor. Os agravantes alegam a iliquidez do título exequendo, sustentando que a repactuação da cédula de crédito bancário ocorreu por instrumento inadequado, e requerem o reconhecimento da relação consumerista e a inversão do ônus da prova.
+II. QUESTÃO EM DISCUSSÃO Há duas questões em discussão: (i) definir se o título exequendo preenche os requisitos de certeza, liquidez e exigibilidade; e (ii) estabelecer se é cabível a inversão do ônus da prova com fundamento na hipossuficiência dos agravantes.
+III. RAZÕES DE DECIDIR A cédula de crédito bancário constitui título executivo extrajudicial, conforme o artigo 784, II, do CPC e o artigo 28 da Lei 10.931/04, desde que atenda aos requisitos de certeza, liquidez e exigibilidade.
+A regularidade formal do título foi demonstrada pelo exequente, que apresentou a cédula de crédito bancário, a lista das parcelas da operação e a planilha de débito, atendendo aos requisitos do artigo 29 da Lei 10.931/04.
+A repactuação do contrato não descaracteriza a cédula de crédito bancário como título executivo, desde que mantidos seus elementos essenciais.
+A hipossuficiência dos agravantes não pode ser presumida de forma absoluta, devendo ser analisada caso a caso. A mera alegação de vulnerabilidade não basta para justificar a inversão do ônus da prova, especialmente quando o contrato é acessível e permite a análise das cláusulas questionadas.
+A revisão de cláusulas contratuais bancárias, quando limitada à análise de questões de direito, dispensa a inversão do ônus da prova e a produção de prova pericial.
+IV. DISPOSITIVO E TESE Recurso desprovido.
+Tese de julgamento:
+A cédula de crédito bancário preenche os requisitos de certeza, liquidez e exigibilidade quando devidamente acompanhada da documentação comprobatória da dívida.
+A inversão do ônus da prova em demandas bancárias exige comprovação concreta da hipossuficiência do consumidor e da necessidade da medida para a instrução do feito, não sendo suficiente a mera alegação genérica de vulnerabilidade.
+A parte recorrente alega violação ao(s) seguinte(s) dispositivo(s) legai(s): 489, §1º, IV, 1022, II, 1.025 do CPC, 29, §§ 2º e 4º da Lei nº 10.931/2004 e 6º, VIII do CDC.
+A controvérsia trazida aos autos consiste: (i) Definir se a Cédula de Crédito Bancário (CCB) que aparelha a execução preenche os requisitos de certeza, liquidez e exigibilidade; (ii) Verificar a possibilidade de aplicação do Código de Defesa do Consumidor (CDC) e de inversão do ônus da prova, à luz de suposta hipossuficiência técnica, jurídica e econômica dos devedores.
+Pois bem. No que tange a alegação de afronta aos artigos 1.022 do Código de Processo Civil, a ofensa ao art. 1.022, II, do Código de Processo Civil se caracteriza quando o órgão julgador, provocado por meio de embargos de declaração, deixa de suprir omissão sobre ponto relevante da controvérsia, cuja análise é indispensável à adequada prestação jurisdicional.
+De igual modo, o art. 489, §1º, IV, do CPC impõe um dever de fundamentação qualificada, estabelecendo que não se considera fundamentada a decisão judicial que não enfrenta todos os argumentos deduzidos pelas partes capazes, em tese, de infirmar a conclusão adotada.
+Esses dispositivos visam assegurar que o pronunciamento judicial seja efetivamente resolutivo, transparente e coerente, permitindo o controle pelas instâncias superiores e garantindo a observância ao devido processo legal substancial.
+Certo é que "Afasta-se a ofensa aos arts. 489 e 1.022 do CPC/2015, pois não se constatam omissão, obscuridade ou contradição nos acórdãos recorridos capazes de torná-los nulos. O colegiado originário apreciou a demanda de forma clara e precisa, deixando bem delineados os fundamentos dos julgados. " (AgInt no AREsp n. 2.441.987/DF, relator Ministro Humberto Martins, Terceira Turma, julgado em 17/2/2025, DJEN de 20/2/2025.)
+Efetivamente, compulsados os autos, colhe-se que a Corte de origem analisou e rebateu, um a um, os argumentos levantados, sendo certo que a ausência de menção a um outro argumento invocado pela defesa não macula o comando decisório se, bem fundamentado, apresenta razões capazes de se sustentar por si.
+Assim, "Não procede a arguição de ofensa ao 1.022 do CPC, quando o Tribunal Estadual se pronuncia, de forma motivada e suficiente, sobre os pontos relevantes e necessários ao deslinde da controvérsia." (AgInt no REsp n. 1.899.000/SP, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 21/8/2023, DJe de 23/8/2023.)
+Ressalte-se que não se pode confundir decisão desfavorável aos interesses da parte com negativa de prestação jurisdicional, tampouco fundamentação concisa com ausência de fundamentação.
+Nesse sentido, destaca-se o seguinte precedente:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSO CIVIL. CUMPRIMENTO DE SENTENÇA. VIOLAÇÃO DO ART. 1.022 DO CPC. INEXISTÊNCIA. MULTA DIÁRIA. REVISÃO DA NECESSIDADE E DO VALOR FIXADO DEMANDA O REVOLVIMENTO DO ACERVO FÁTICO-PROBATÓRIO DOS AUTOS. SÚMULA N. 7/STJ.
+1. "Não se pode confundir decisão contrária ao interesse da parte com ausência de fundamentação ou negativa de prestação jurisdicional" (AgInt no AREsp n. 1.907.401/SP, relatora Ministra Assusete Magalhães, Segunda Turma, julgado em 22/8/2022, DJe de 29/8/2022).
+(AgInt no AREsp n. 2.746.371/PE, relator Ministro Humberto Martins, Terceira Turma, julgado em 17/3/2025, DJEN de 20/3/2025.)
+Portanto, constatada a pronúncia expressa e suficiente acerca dos temas indicados como omissos, a questão do direito aplicado é matéria relativa ao mérito recursal, não se podendo cogitar, no presente feito, em prestação jurisdicional defeituosa.
+Ultrapassada a questão, em relação à alegada violação ao(s) art(s).1.025 do CPC, 29, §§ 2º e 4º da Lei nº 10.931/2004 e 6º, VIII do CDC, para conhecer da controvérsia apresentada neste recurso, mostra-se necessário o revolvimento do acervo fático-probatório dos autos, procedimento incompatível com o entendimento firmado pela Súmula n. 7/STJ, que estabelece que a pretensão de simples reexame de prova não enseja recurso especial.
+De fato, presente a função uniformizadora do recurso especial, não se pode cogitar de seu emprego para a realização de rejulgamento do contexto fático-probatório, em atitude típica de revisão promovida por nova instância. Diante disso, é reiterada a jurisprudência no sentido de que o reexame de fatos e provas é vedado em recurso especial pela Súmula n. 7/STJ.
+No presente caso, o Tribunal de origem estabeleceu a seguinte premissa fática (fls. 299):
+Considerando que o título objeto de questionamento trata-se de uma cédula de crédito bancário, prevista na Lei 10.931/04 e atende a todos os requisitos do artigo 29, da citada Lei, não há dúvida sobre sua regularidade formal e plena executividade.
+Aliado a isso, o exequente apresentou nos autos nº 5003124-42.2024.8.13.0707 a cédula de crédito bancária, bem como a lista das parcelas da operação e a planilha de débito.
+Destarte, a cédula de crédito bancário, objeto dos autos, encontra-se formalmente perfeita, revestindo-se dos requisitos da certeza, liquidez e exigibilidade.
+Assim, o acolhimento da tese recursal demandaria inevitável revisão do quadro fático-probatório estabelecido na instância de origem, providência que, como visto, é inviável nesta sede.
+Nesse sentido:
+DIREITO PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. EMBARGOS À EXECUÇÃO. LIQUIDEZ, CERTEZA E EXIGIBILIDADE DO TÍTULO. CONTRATO DE LOCAÇÃO. RECURSO DESPROVIDO.
+I. Caso em exame
+1. Agravo em recurso especial interposto por empresa contra decisão que inadmitiu recurso especial, fundamentado no artigo 105, III, "a", da Constituição Federal, contra acórdão do Tribunal de Justiça do Estado de Minas Gerais, que manteve a improcedência dos embargos à execução opostos pela recorrente visando à extinção da execução sob a alegação de ausência de título executivo líquido, certo e exigível.
+II. Questão em discussão
+2. A questão em discussão consiste em saber se houve negativa de prestação jurisdicional, se o contrato de locação, no caso concreto, é título executivo apto a embasar a execução, e se o acórdão recorrido incorreu em decisão-surpresa e violação ao princípio da congruência ou adstrição.
+III. Razões de decidir
+3. O Tribunal de origem não incorreu em negativa de prestação jurisdicional, pois fundamentou adequadamente sua decisão, ainda que de forma diversa do interesse da parte.
+4. A decisão do Tribunal de origem não configurou decisão-surpresa ou violação ao princípio da congruência, ou da adstrição, pois, além de a matéria ter sido alegada na petição inicial e oportunizado o contraditório, a solução adotada decorreu da interpretação sistemática dos pedidos, estando inserida no âmbito do desdobramento causal da controvérsia.
+5. A conclusão pela liquidez, exigibilidade e certeza do título - contrato de locação não residencial - foi baseada na interpretação de cláusulas contratuais, inclusive de contratos coligados, e do contexto fático-probatório, não cabendo revisão em sede de recurso especial devido às Súmulas 5 e 7 do STJ.
+IV. Dispositivo e tese
+6. Agravo conhecido para negar provimento ao recurso especial.
+(AREsp n. 1.825.383/MG, relator Ministro Raul Araújo, Quarta Turma, julgado em 23/6/2025, DJEN de 1/7/2025.)
+DIREITO CIVIL E PROCESSUAL CIVIL. AGRAVO INTERNO EM AGRAVO EM RECURSO ESPECIAL. CONTRATO BANCÁRIO. JUROS REMUNERATÓRIOS ABUSIVOS. NECESSIDADE DE REEXAME DE CLÁUSULAS CONTRATUAIS E PROVAS. RECURSO DESPROVIDO. I. CASO EM EXAME
+1. Agravo interno interposto por Crefisa S/A Crédito, Financiamento e Investimentos contra decisão monocrática que conheceu em parte de recurso especial e, na extensão, negou-lhe provimento. A recorrente sustenta que a limitação dos juros remuneratórios à taxa média de mercado foi inadequada, pois não considera as particularidades do contrato. Alega ainda que a revisão contratual não demanda reexame de fatos nem cláusulas, sendo suficiente a subsunção jurídica à jurisprudência do STJ. II. QUESTÃO EM DISCUSSÃO
+2. Há duas questões em discussão: (i) definir se a estipulação de juros remuneratórios superiores à taxa média de mercado, por si só, caracteriza abusividade; e (ii) estabelecer se é admissível o reexame de cláusulas contratuais e de elementos fáticos em recurso especial para afastar a conclusão do Tribunal de origem sobre a abusividade da taxa pactuada. III. RAZÕES DE DECIDIR
+3. A jurisprudência do STJ admite a revisão de juros remuneratórios apenas em hipóteses excepcionais, nas quais esteja configurada a relação de consumo e demonstrada a abusividade que imponha desvantagem exagerada ao consumidor, conforme entendimento consolidado no REsp 1.061.530/RS (repetitivo) e Súmula 596/STF.
+4. A constatação de que a taxa pactuada (706,42% a.a.) excede em mais de 50% a média de mercado (102,31% a.a.) configurando desvantagem excessiva, não justificada pelas circunstâncias contratuais analisadas, como forma de pagamento por débito em conta, ausência de provas do risco da operação e demais fatores econômicos.
+5. A revisão da decisão de origem demandaria reinterpretação de cláusulas contratuais e revolvimento de fatos e provas, providências vedadas na via do recurso especial, nos termos das Súmulas 5 e 7 do STJ.
+6. A ausência de prequestionamento dos dispositivos legais invocados (arts. 355 e 356 do CPC) impede sua análise em recurso especial, conforme Súmula 211 do STJ.
+7. A deficiência na demonstração da violação ao art. 927 do CPC atrai a incidência da Súmula 284 do STF. IV. DISPOSITIVO
+8. Agravo interno desprovido.
+(AgInt no AREsp n. 2.767.786/RS, relatora Ministra Daniela Teixeira, Terceira Turma, julgado em 14/4/2025, DJEN de 23/4/2025.)
+Assim, não se mostra viável o conhecimento do recurso.
+Ante o exposto, conheço do agravo para não conhecer do recurso especial .
+Caso exista nos autos prévia fixação de honorários advocatícios pelas instâncias de origem, determino sua majoração em desfavor da parte agravante, no importe de 2% sobre o valor já arbitrado, nos termos do art. 85, § 11, do Código de Processo Civil, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão da gratuidade da justiça.
+Publique-se. Intimem-se.
+EMENTA
